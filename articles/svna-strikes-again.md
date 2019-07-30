@@ -39,14 +39,15 @@ Instructions:
 
 > To whom it may concern (that’s you), happy Winter [Hell] Quarter! We got you a present! We’re sorry that we’ve once again roped you, our lovely stalwart staff member, into this little game of cat and mouse, hacker and hackee! We were so pleased after our last encounter, and we’re hoping to continue our cordial relationship with you, so here’s another set of protips on how to disassemble our tricks of hope and inspiration!
 
-> The banner itself has several weights attached to the grommets below the message to keep it from flapping in the wind, so we suggest that you reel it back in to remove it, versus letting it drop directly onto the quad below!
-Instead, we’ve designed this excellent system of 550 paracord based draws, so that you, like us, can reel the banner itself up and over the parapets. Be careful not to drag the paracord along any sharp edges, so that the paracord doesn’t snap, and the banner doesn’t fall!!
+> 1. The banner itself has several weights attached to the grommets below the message to keep it from flapping in the wind, so we suggest that you reel it back in to remove it, versus letting it drop directly onto the quad below!
 
-> As for our little "NERD HELL" joke, you should be a little safer than us, so as to not break the ornate ARLEY D. CATHEY star trek (ugly as all hell) letters. We recommend disconnecting the laser based fire alarm, so as not to set it off during removal. This can be accomplished via the building management system in the basement, and via the fire alarm laser itself on the east balcony.
+> 2. Instead, we’ve designed this excellent system of 550 paracord based draws, so that you, like us, can reel the banner itself up and over the parapets. Be careful not to drag the paracord along any sharp edges, so that the paracord doesn’t snap, and the banner doesn’t fall!!
 
-> We at the SVNA are well aware that the university has had issues with funding in recent years, and that funding even simple tasks such as lighting buildings can be a struggle. If you can spare the cash­money, you can turn the lights back on using the fuse box in the fourth floor of the fire stairs in the East Tower.
+> 3. As for our little "NERD HELL" joke, you should be a little safer than us, so as to not break the ornate ARLEY D. CATHEY star trek (ugly as all hell) letters. We recommend disconnecting the laser based fire alarm, so as not to set it off during removal. This can be accomplished via the building management system in the basement, and via the fire alarm laser itself on the east balcony.
 
-> We’ve also been considerate enough to leave the standard issue Harper Reading Room Luminescent GlobesTM in the Arley D. Cathey Memorial Harper Reading Room Luminescent GlobeTM Corner in the Harper Reading Room. To reinstall them, simply twist the light bulb in each lamp counterclockwise.
+> 4. We at the SVNA are well aware that the university has had issues with funding in recent years, and that funding even simple tasks such as lighting buildings can be a struggle. If you can spare the cash­money, you can turn the lights back on using the fuse box in the fourth floor of the fire stairs in the East Tower.
+
+> 5. We’ve also been considerate enough to leave the standard issue Harper Reading Room Luminescent GlobesTM in the Arley D. Cathey Memorial Harper Reading Room Luminescent GlobeTM Corner in the Harper Reading Room. To reinstall them, simply twist the light bulb in each lamp counterclockwise.
 
 > Thanks for unwittingly participating in Prank 4 (for the folks keeping score at home): The Dante!
 
