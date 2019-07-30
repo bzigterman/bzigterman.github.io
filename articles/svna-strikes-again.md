@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: SVNA strikes again, decorating Harper as "10th circle of hell"
 ---
 
