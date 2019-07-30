@@ -9,7 +9,7 @@ Here’s some of my best work:
 For _The Champaign News-Gazette_:
 
   * 2019
-    * July 19: [ Christensen avoids death penalty after jury says it cannot reach unanimous verdict](https://www.news-gazette.com/news/christensen-avoids-death-penalty-after-jury-says-it-cannot-reach/article_2b5d5553-b640-51ec-9c43-2857b7fbcc3c.html)
+    * July 19: [Christensen avoids death penalty after jury says it cannot reach unanimous verdict](https://www.news-gazette.com/news/christensen-avoids-death-penalty-after-jury-says-it-cannot-reach/article_2b5d5553-b640-51ec-9c43-2857b7fbcc3c.html)
     * June 28: [Documents: Why feds didn’t bite on Christensen’s offer](https://www.news-gazette.com/news/documents-why-feds-didn-t-bite-on-christensen-s-offer/article_80f0032c-a79c-5885-9660-061b0901422f.html)
     * June 25: [Family says ‘there was no promise that Yingying’s remains would be discovered’](https://t.umblr.com/redirect?z=https%3A%2F%2Fwww.news-gazette.com%2Fnews%2Fupdate-family-says-there-was-no-promise-that-yingying-s%2Farticle_c5a5bb1c-e0ce-525b-8538-ccbf4b075d1e.html&t=NjM0NmQzOTRjMTc0MzQ3ZDFmN2M2Nzc5M2RmMDM1MzA1MWYxOGI1ZSxUbU4zdWpESg%3D%3D&p=&m=0)
     * June 25: [Christensen verdict: ‘A step toward justice … and a step toward closure’](https://t.umblr.com/redirect?z=https%3A%2F%2Fwww.news-gazette.com%2Fnews%2Fchristensen-verdict-a-step-toward-justice-and-a-step-toward%2Farticle_01bb2832-0710-5612-9867-e094f3f0e950.html&t=ZThhYzlmMGFjNWYxNmZjNmZkZjZhZDkxYmU5MmU3ZTY0MDBmOTFlMSxUbU4zdWpESg%3D%3D&p=&m=0)
@@ -50,7 +50,7 @@ For _The Champaign News-Gazette_:
 For _The Galesburg Register-Mail_:
 
   * 2016
-    * February 21: [ National RR Hall of Fame founder: ‘It’s going to happen’](https://t.umblr.com/redirect?z=http%3A%2F%2Fwww.galesburg.com%2Farticle%2F20160221%2FNEWS%2F160229973&t=N2VjODNiNjU2NjA2NjIwNTU2MDFjY2VmYzczOThjN2QxNWUzZGJiYSxUbU4zdWpESg%3D%3D&p=&m=0)
+    * February 21: [National RR Hall of Fame founder: ‘It’s going to happen’](https://t.umblr.com/redirect?z=http%3A%2F%2Fwww.galesburg.com%2Farticle%2F20160221%2FNEWS%2F160229973&t=N2VjODNiNjU2NjA2NjIwNTU2MDFjY2VmYzczOThjN2QxNWUzZGJiYSxUbU4zdWpESg%3D%3D&p=&m=0)
     * January 5: [ District 205 administration proposes cutting 75 positions to save $3.2 million](https://t.umblr.com/redirect?z=http%3A%2F%2Fwww.galesburg.com%2Fnews%2F20160105%2Fdistrict-205-administration-proposes-cutting-75-positions-to-save-32-million&t=NmVjODY3YjFhOWNkOGE5NTM0MWMxYTAwMmQ3MjZhZDY3OTU5OTRiMyxUbU4zdWpESg%3D%3D&p=&m=0)
   * 2015
     * December 13: [GHS North back on chopping block](https://t.umblr.com/redirect?z=http%3A%2F%2Fwww.galesburg.com%2Farticle%2F20151213%2FNEWS%2F151219924&t=YTVkYjExZmI1ZTAyZjMxYTY0OGZlMDUzYmFkZTdjMGFhZWM4YTQyYSxUbU4zdWpESg%3D%3D&p=&m=0)
