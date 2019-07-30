@@ -61,8 +61,8 @@ For _The Galesburg Register-Mail_:
     * September 29: [District 205 officials disband budget reduction committee after challenge about closed meetings](https://t.umblr.com/redirect?z=http%3A%2F%2Fwww.galesburg.com%2Farticle%2F20150929%2FNEWS%2F150929701&t=MWU3NmFkZDY3OGU3NGQwOTI4MGE1ZjA5YzNjMDZkOTQ3ZGZkNTRlZixUbU4zdWpESg%3D%3D&p=&m=0)
     * May 22: [Impact of abuse often lasts a lifetime](https://t.umblr.com/redirect?z=http%3A%2F%2Fwww.galesburg.com%2Farticle%2F20150522%2FNEWS%2F150529897&t=M2U0ZDZhMDgyYzc2MDIxNjk5ODlkNTBlMjMzNDI0MzI5YzU1MDFhZixUbU4zdWpESg%3D%3D&p=&m=0)
     * May 21: [Multiple arrests common for offenders](https://t.umblr.com/redirect?z=http%3A%2F%2Fwww.galesburg.com%2Farticle%2F20150521%2FNEWS%2F150529942&t=ZjkyNDMzODQ5ZjVhZGI3MTU5MWZjYmNiOWZmZGU0YTQ0ZDBiNmZjYixUbU4zdWpESg%3D%3D&p=&m=0)
-    * April 26: [Area Vietnam veterans recall their war 40 years after its end](https://t.umblr.com/redirect?z=http%3A%2F%2Fwww.galesburg.com%2Farticle%2F20150426%2FNEWS%2F150429788&t=MDU3ODRjZmU4NDlhZTE3M2YzM2FlZDE0ZjZiZGI3YzdlNzRiYjBiNyxUbU4zdWpESg%3D%3D&p=&m=0)
-    * March 1: [Galesburg businesses applaud net neutrality; providers skeptical of need](https://t.umblr.com/redirect?z=http%3A%2F%2Fwww.galesburg.com%2Farticle%2F20150301%2FNEWS%2F150309993&t=NWUxNzQ3MWNiZjIyYjJhYmVhNWYyN2FkZTNhNjNiZDIwZjE4ZmNiZCxUbU4zdWpESg%3D%3D&p=&m=0)
+    * April 26: [Area Vietnam veterans recall their war 40 years after its end](https://www.galesburg.com/article/20150426/NEWS/150429788)
+    * March 1: [Galesburg businesses applaud net neutrality; providers skeptical of need](https://www.galesburg.com/article/20150301/NEWS/150309993)
 
 For _The Beaver County Times_:
 
