@@ -9,7 +9,7 @@ Here’s some of my best work:
 For _The Champaign News-Gazette_:
 
   * 2019
-    * July 19: [ Christensen avoids death penalty after jury says it cannot reach unanimous verdict](https://t.umblr.com/redirect?z=https%3A%2F%2Fwww.news-gazette.com%2Fnews%2Fchristensen-avoids-death-penalty-after-jury-says-it-cannot-reach%2Farticle_2b5d5553-b640-51ec-9c43-2857b7fbcc3c.html&t=NjRhYTNmZTA4ZjEwNzUxMDQ1NmY5ZTczOTNiMGYwMzYzYWE2Y2RjMSxUbU4zdWpESg%3D%3D&p=&m=0)
+    * July 19: [ Christensen avoids death penalty after jury says it cannot reach unanimous verdict](https://www.news-gazette.com/news/christensen-avoids-death-penalty-after-jury-says-it-cannot-reach/article_2b5d5553-b640-51ec-9c43-2857b7fbcc3c.html)
     * June 28: [Documents: Why feds didn’t bite on Christensen’s offer](https://t.umblr.com/redirect?z=https%3A%2F%2Fwww.news-gazette.com%2Fnews%2Fdocuments-why-feds-didn-t-bite-on-christensen-s-offer%2Farticle_80f0032c-a79c-5885-9660-061b0901422f.html&t=ZDRlMTIyMzYyYjY1YzhhY2FiNjc5NDVhZTg3MzcyNzg0NTExZDA1YSxUbU4zdWpESg%3D%3D&p=&m=0)
     * June 25: [Family says ‘there was no promise that Yingying’s remains would be discovered’](https://t.umblr.com/redirect?z=https%3A%2F%2Fwww.news-gazette.com%2Fnews%2Fupdate-family-says-there-was-no-promise-that-yingying-s%2Farticle_c5a5bb1c-e0ce-525b-8538-ccbf4b075d1e.html&t=NjM0NmQzOTRjMTc0MzQ3ZDFmN2M2Nzc5M2RmMDM1MzA1MWYxOGI1ZSxUbU4zdWpESg%3D%3D&p=&m=0)
     * June 25: [Christensen verdict: ‘A step toward justice … and a step toward closure’](https://t.umblr.com/redirect?z=https%3A%2F%2Fwww.news-gazette.com%2Fnews%2Fchristensen-verdict-a-step-toward-justice-and-a-step-toward%2Farticle_01bb2832-0710-5612-9867-e094f3f0e950.html&t=ZThhYzlmMGFjNWYxNmZjNmZkZjZhZDkxYmU5MmU3ZTY0MDBmOTFlMSxUbU4zdWpESg%3D%3D&p=&m=0)
