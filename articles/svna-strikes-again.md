@@ -1,4 +1,4 @@
-## SVNA strikes again, decorating Harper as "10th circle of hell"
+# SVNA strikes again, decorating Harper as "10th circle of hell"
 
 *The Daily Sophist*
 
