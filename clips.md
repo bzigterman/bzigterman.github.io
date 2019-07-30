@@ -68,7 +68,7 @@ For _The Beaver County Times_:
 
   * [Report: Pennsylvania receives ‘D’ for policies supporting working parents](http://bzigterman.com/pa-d-working-parents)
   * [Safety group: Falling furniture a common problem with deadly consequences](http://bzigterman.com/falling-furniture)
-  * [Rusyn Food Festival celebrates 21st year](http://bzigterman.com/rusyn-food-fest)
+  * [Rusyn Food Festival celebrates 21st year](https://www.timesonline.com/article/20140808/Lifestyle/308089938)
   * [Habitat for Humanity home dedication scheduled for Tuesday in New Brighton](http://bzigterman.com/habitat-home-dedication)
 
 For _BGR_:
