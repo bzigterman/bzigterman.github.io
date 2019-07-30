@@ -78,7 +78,7 @@ For _BGR_:
 
 For _The Daily Sophist_:
 
-  * _[Chicago Weekly_ to be Renamed the _South Side Weekly_](http://bzigterman.com/chicagoweekly-southsideweekly)
+  * [_Chicago Weekly_ to be Renamed the _South Side Weekly_](http://bzigterman.com/chicagoweekly-southsideweekly)
   * [Scav 2013: The Hunt Begins](http://bzigterman.com/scav-2013-hunt-begins)
   * [Eric Holder And Panelists Gather To Praise Themselves And Edward Levi](http://bzigterman.com/eric-holder-panelists)
   * [SVNA strikes again, decorating Harper as "10th circle of hell"](http://bzigterman.com/svna-strikes-again)
