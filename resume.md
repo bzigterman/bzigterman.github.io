@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Resume
-permalink: /about/
+permalink: /resume/
 ---
 
 ## Experience
