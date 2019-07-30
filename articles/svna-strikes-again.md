@@ -28,7 +28,7 @@ Letter:
 
 > The attached documents and pictures authenticate our authorship of this project.
 
-> Buon Appetito!
+> Buon Appetito!  
 > Lovingly yours,
 
 > The Students for Violent Non-Action
