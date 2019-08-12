@@ -33,7 +33,7 @@ We will be doing more coverage, though. We’re remaining a weekly, but we’re 
 
 We’ll also be publishing longer issues--around twenty pages a week. This goes hand in hand with the growth of our staff: four years ago we had fewer than a dozen editors, plus writers; today we’ve got eighteen editors, with close to sixty additional writers contributing over the year.
 
-**The [new website](https://t.umblr.com/redirect?z=http%3A%2F%2Fsouthsideweekly.com%2F&t=ZWI1NGYwMTc2YWFjYTVmNTNiNzI2NzU4MDc4MWVkNGFlMjY3ZThlOCxUbU4zdWpESg%3D%3D&p=&m=0) has a very modern design that is quite different from the _Chicago Weekly_’s print design. Will the print version of the _South Side Weekly_ also have a new design?**
+**The [new website](https://southsideweekly.com/) has a very modern design that is quite different from the _Chicago Weekly_’s print design. Will the print version of the _South Side Weekly_ also have a new design?**
 
 One word: serifs.
 
