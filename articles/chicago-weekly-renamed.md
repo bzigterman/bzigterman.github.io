@@ -1,6 +1,6 @@
 ---
 layout: post
-title: *Chicago Weekly* to be Renamed the *South Side Weekly*
+title: Chicago Weekly to be Renamed the South Side Weekly
 ---
 
 _The Daily Sophist_
