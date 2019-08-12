@@ -6,7 +6,7 @@ permalink: /clips/
 
 Here’s some of my best work:
 
-## The Champaign News-Gazette
+## *The Champaign News-Gazette*
 
 ### 2019
 
@@ -52,7 +52,7 @@ Here’s some of my best work:
 * February 12: [How did DUI driver walk free?](https://www.news-gazette.com/news/how-did-dui-driver-walk-free/article_75c27177-8901-5c46-bb98-0a38a3ad2509.html)
 * January 5: [Hobbico’s deferral of payout upsets, confounds ex-workers](https://www.news-gazette.com/news/hobbico-s-deferral-of-payout-upsets-confounds-ex-workers/article_12034638-1e79-5fdc-9ba7-57b5e4fbfd03.html)
 
-## The Galesburg Register-Mail
+## *The Galesburg Register-Mail*
 
 ### 2016
 
