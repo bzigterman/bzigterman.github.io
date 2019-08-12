@@ -42,7 +42,7 @@ For *The Champaign News-Gazette*:
     * September 17: [A bridge too low, a trucker too late, a crash too often](https://www.news-gazette.com/news/a-bridge-too-low-a-trucker-too-late-a-crash/article_e7a5ab7b-c0c5-5cca-bcce-3ef519032931.html)
     * August 22: [Emails: UI briefed top Chinese, U.S. government officials on missing scholar](https://www.news-gazette.com/news/emails-ui-briefed-top-chinese-u-s-government-officials-on/article_32a3e37b-0fcf-5782-aa73-a0f7d43aead4.html)
     * June 30: [Former grad student arrested in UI scholar’s disappearance; FBI presumes her dead](https://www.news-gazette.com/news/updated-former-grad-student-arrested-in-ui-scholar-s-disappearance/article_3694866a-0d02-515a-87f9-56a20db52200.html)
-    * May 7: [5-month study: How do C-U hotels rate?](https://www.news-gazette.com/news/updated-former-grad-student-arrested-in-ui-scholar-s-disappearance/article_3694866a-0d02-515a-87f9-56a20db52200.html)
+    * May 7: [5-month study: How do C-U hotels rate?](https://www.news-gazette.com/news/month-study-how-do-c-u-hotels-rate/article_a0337e5c-26b1-508c-889d-0a608f5a25dd.html)
     * March 28: [Farm Leader: Mark Pflugmacher](https://www.news-gazette.com/news/farm-leader-mark-pflugmacher/article_e028651c-29e6-50bf-9c01-5255027ac215.html)
     * February 12: [How did DUI driver walk free?](https://www.news-gazette.com/news/how-did-dui-driver-walk-free/article_75c27177-8901-5c46-bb98-0a38a3ad2509.html)
     * January 5: [Hobbico’s deferral of payout upsets, confounds ex-workers](https://www.news-gazette.com/news/hobbico-s-deferral-of-payout-upsets-confounds-ex-workers/article_12034638-1e79-5fdc-9ba7-57b5e4fbfd03.html)
