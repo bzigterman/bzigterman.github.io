@@ -96,3 +96,5 @@ The University of Chicago
 - pottery
 - Studs Terkel
 - history
+
+## [Clips]({{ site.baseurl }}/clips)
