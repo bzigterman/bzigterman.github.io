@@ -6,7 +6,7 @@ permalink: /clips/
 
 Here’s some of my best work:
 
-For _The Champaign News-Gazette_:
+For *The Champaign News-Gazette*:
 
   * 2019
     * July 19: [Christensen avoids death penalty after jury says it cannot reach unanimous verdict](https://www.news-gazette.com/news/christensen-avoids-death-penalty-after-jury-says-it-cannot-reach/article_2b5d5553-b640-51ec-9c43-2857b7fbcc3c.html)
@@ -28,13 +28,13 @@ For _The Champaign News-Gazette_:
     * July 11: [UI professor files lawsuit claiming gender-based wage discrimination](https://www.news-gazette.com/news/ui-professor-files-lawsuit-claiming-gender-based-wage-discrimination/article_7b10c75d-e1be-56cb-bcbe-fffbd1aa87ee.html)
     * May 15: [Rauner’s amendatory veto revives death-penalty debate](https://www.news-gazette.com/news/rauner-s-amendatory-veto-revives-death-penalty-debate/article_0f1b866f-ae5c-5a95-addf-61e574c75ae5.html)
     * April 29: [Are gratuities at C-U restaurants reaching a tipping point?](https://www.news-gazette.com/news/are-gratuities-at-c-u-restaurants-reaching-a-tipping-point/article_565fbcc4-c430-5425-a7a8-011183640334.html)
-    * April 23: [With lawsuit, Illinois AG aims to shut down Suburban Express](https://t.umblr.com/redirect?z=http%3A%2F%2Fwww.news-gazette.com%2Fnews%2Flocal%2F2018-04-23%2Fupdate-with-lawsuit-illinois-ag-aims-shut-down-suburban-express.html&t=MTFlY2Y5ZGRkZWRlZjQ3MjhkNjhiZDY5OGFjYTQ1ZGVhYWQxNWRiZixUbU4zdWpESg%3D%3D&p=&m=0)
-    * March 25: [UI files suit over an alum’s ‘Make Illinois Great Again’ T-shirts](https://t.umblr.com/redirect?z=http%3A%2F%2Fwww.news-gazette.com%2Fnews%2Flocal%2F2018-03-25%2Fui-files-suit-over-alums-make-illinois-great-again-t-shirts.html&t=ZGZlODJmNDdlMTk0ODdmMWE5Mjk3MmM1MjQ4ZTZkZWI2ZmNiOTUyNyxUbU4zdWpESg%3D%3D&p=&m=0)
+    * April 23: [With lawsuit, Illinois AG aims to shut down Suburban Express](https://www.news-gazette.com/news/update-with-lawsuit-illinois-ag-aims-to-shut-down-suburban/article_7ffd4fda-67a5-55c0-8404-266534db0557.html)
+    * March 25: [UI files suit over an alum’s ‘Make Illinois Great Again’ T-shirts](https://www.news-gazette.com/news/ui-files-suit-over-an-alum-s-make-illinois-great/article_fe1ee43d-ddea-5114-9387-b544c7e75d66.html)
     * March 6: [For the Record: Quashed warrants](https://www.news-gazette.com/news/for-the-record-quashed-warrants/article_d843b771-d593-5c86-9776-a47b986763c5.html)
-    * January 16: [Timeline: Accused kidnapper’s stops included Paxton jail, Rantoul hotel](https://t.umblr.com/redirect?z=http%3A%2F%2Fwww.news-gazette.com%2Fnews%2Flocal%2F2018-01-16%2Ftimeline-accused-kidnappers-stops-included-paxton-jail-rantoul-hotel.html&t=ZTljOWIyYTFkNTM4NzU5NDBjNzIzNTIyNGUyMTJhNjJjOWJkM2JhOSxUbU4zdWpESg%3D%3D&p=&m=0)
-    * January 16: [Accused kidnapper’s attorneys want main charge dropped, venue changed](https://t.umblr.com/redirect?z=http%3A%2F%2Fwww.news-gazette.com%2Fnews%2Flocal%2F2018-01-16%2Faccused-kidnappers-attorneys-want-main-charge-dropped-venue-changed.html&t=MGNhZDNiZTdiYTA3YmZiOGY2YWE5Y2U0M2EyYjkwMDc5MjAwNTY2ZixUbU4zdWpESg%3D%3D&p=&m=0)
-    * January 11: [Experts: Feds’ use of death penalty in 2 recent cases not bellwether for Christensen’s](https://t.umblr.com/redirect?z=http%3A%2F%2Fwww.news-gazette.com%2Fnews%2Flocal%2F2018-01-11%2Fexperts-feds-use-death-penalty-2-recent-cases-not-bellwether-christensens.html&t=MTBkNTcwMDMxNmI1NjlmMDZlYWYzOGJiZDNmYWY3OThmMjJiNDRhMixUbU4zdWpESg%3D%3D&p=&m=0)
-    * January 11: [Hobbico seeking a buyer as it works through bankruptcy](https://t.umblr.com/redirect?z=http%3A%2F%2Fwww.news-gazette.com%2Fnews%2Flocal%2F2018-01-11%2Fhobbico-seeking-buyer-it-works-through-bankruptcy.html&t=MDQ1ZDc0YmI3MWIxZThhNzk5ZDA1MDBjZWFiOTgzNGE3NTVmNzk5NSxUbU4zdWpESg%3D%3D&p=&m=0)
+    * January 16: [Timeline: Accused kidnapper’s stops included Paxton jail, Rantoul hotel](https://www.news-gazette.com/news/timeline-accused-kidnapper-s-stops-included-paxton-jail-rantoul-hotel/article_eb0f0db5-ee94-53e6-a05f-b3eff0eb15dd.html)
+    * January 16: [Accused kidnapper’s attorneys want main charge dropped, venue changed](https://www.news-gazette.com/news/accused-kidnapper-s-attorneys-want-main-charge-dropped-venue-changed/article_77cad221-1d42-5997-b82f-81652e1ace2a.html)
+    * January 11: [Experts: Feds’ use of death penalty in 2 recent cases not bellwether for Christensen’s](https://www.news-gazette.com/news/experts-feds-use-of-death-penalty-in-recent-cases-not/article_e3c60191-b953-597e-80b5-c532a8bc2216.html)
+    * January 11: [Hobbico seeking a buyer as it works through bankruptcy](https://www.news-gazette.com/news/hobbico-seeking-a-buyer-as-it-works-through-bankruptcy/article_86f6547c-8501-517a-85cd-865af88dcfd1.html)
   * 2017 
     * December 22: [Feds investigating Hobbico over deferred employee stock payments](https://t.umblr.com/redirect?z=http%3A%2F%2Fwww.news-gazette.com%2Fnews%2Flocal%2F2017-12-22%2Ffeds-investigating-hobbico-over-deferred-employee-stock-payments.html&t=Yjc1YTI0ZmM3NTgzMDgyNmU3NTc5NjY3ZTRhNGNkMzdlNDUyZWIwYixUbU4zdWpESg%3D%3D&p=&m=0)
     * December 3: [Death-penalty decision in missing-scholar case could go either way](https://t.umblr.com/redirect?z=http%3A%2F%2Fwww.news-gazette.com%2Fnews%2Flocal%2F2017-12-03%2Fdeath-penalty-decision-missing-scholar-case-could-go-either-way.html&t=MjVjMWE3ZmEyNTNlMTdlZmEyYjAwZTkzMGNiMmJiMjA2NGZjNTRjOCxUbU4zdWpESg%3D%3D&p=&m=0)
@@ -47,15 +47,15 @@ For _The Champaign News-Gazette_:
     * February 12: [How did DUI driver walk free?](https://t.umblr.com/redirect?z=http%3A%2F%2Fwww.news-gazette.com%2Fnews%2Flocal%2F2017-02-12%2Fhow-did-dui-driver-walk-free.html&t=MDFiYzIyMDg0MmVkNDIxNjU5MTM2NzIyZTc1MDdiMGU0OWM2YzBiZSxUbU4zdWpESg%3D%3D&p=&m=0)
     * January 5: [Hobbico’s deferral of payout upsets, confounds ex-workers](https://t.umblr.com/redirect?z=http%3A%2F%2Fwww.news-gazette.com%2Fnews%2Flocal%2F2017-01-05%2Fhobbicos-deferral-payout-upsets-confounds-ex-workers.html&t=YTkzNjQ3Mjg5ZDEwN2Q1ZTk3ZmQ4OWVjYTBiYzIyZDE4ODFjYWI0MixUbU4zdWpESg%3D%3D&p=&m=0)
 
-For _The Galesburg Register-Mail_:
+For *The Galesburg Register-Mail*:
 
   * 2016
-    * February 21: [National RR Hall of Fame founder: ‘It’s going to happen’](https://t.umblr.com/redirect?z=http%3A%2F%2Fwww.galesburg.com%2Farticle%2F20160221%2FNEWS%2F160229973&t=N2VjODNiNjU2NjA2NjIwNTU2MDFjY2VmYzczOThjN2QxNWUzZGJiYSxUbU4zdWpESg%3D%3D&p=&m=0)
-    * January 5: [ District 205 administration proposes cutting 75 positions to save $3.2 million](https://t.umblr.com/redirect?z=http%3A%2F%2Fwww.galesburg.com%2Fnews%2F20160105%2Fdistrict-205-administration-proposes-cutting-75-positions-to-save-32-million&t=NmVjODY3YjFhOWNkOGE5NTM0MWMxYTAwMmQ3MjZhZDY3OTU5OTRiMyxUbU4zdWpESg%3D%3D&p=&m=0)
+    * February 21: [National RR Hall of Fame founder: ‘It’s going to happen’](https://www.galesburg.com/article/20160221/NEWS/160229973)
+    * January 5: [ District 205 administration proposes cutting 75 positions to save $3.2 million](https://www.galesburg.com/news/20160105/district-205-administration-proposes-cutting-75-positions-to-save-32-million)
   * 2015
-    * December 13: [GHS North back on chopping block](https://t.umblr.com/redirect?z=http%3A%2F%2Fwww.galesburg.com%2Farticle%2F20151213%2FNEWS%2F151219924&t=YTVkYjExZmI1ZTAyZjMxYTY0OGZlMDUzYmFkZTdjMGFhZWM4YTQyYSxUbU4zdWpESg%3D%3D&p=&m=0)
-    * December 13: [Workers file OSHA complaint against Cloverleaf](https://t.umblr.com/redirect?z=http%3A%2F%2Fwww.galesburg.com%2Farticle%2F20151213%2FNEWS%2F151219930&t=OGEzNjZjM2NmZDlkOWIwZjBhYzIxYjllMDNmYWU0OTEwYmJmZmIwNyxUbU4zdWpESg%3D%3D&p=&m=0)
-    * November 12: [Rigorous, diverse curriculum top priority, D205 committee says](https://t.umblr.com/redirect?z=http%3A%2F%2Fm.galesburg.com%2Farticle%2F20151112%2FNEWS%2F151119916&t=YzBlZDEzZWI3ZTA1NWY3YTdlMjQ1M2Q4MzNmMjJhM2FlMDg2ZTY1NixUbU4zdWpESg%3D%3D&p=&m=0)
+    * December 13: [GHS North back on chopping block](https://www.galesburg.com/article/20151213/NEWS/151219924)
+    * December 13: [Workers file OSHA complaint against Cloverleaf](https://www.galesburg.com/article/20151213/NEWS/151219930)
+    * November 12: [Rigorous, diverse curriculum top priority, D205 committee says](https://www.galesburg.com/article/20151112/NEWS/151119916)
     * November 1: [A year after the closing of Cooke School](https://www.galesburg.com/article/20151101/NEWS/151109996)
     * October 21: [Take Back the Night message: Stop blaming the victims](https://www.galesburg.com/article/20151020/NEWS/151029975)
     * September 29: [District 205 officials disband budget reduction committee after challenge about closed meetings](https://www.galesburg.com/article/20150929/NEWS/150929701)
