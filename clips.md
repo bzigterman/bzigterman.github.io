@@ -6,9 +6,9 @@ permalink: /clips/
 
 Here’s some of my best work:
 
-For *The Champaign News-Gazette*:
+## The Champaign News-Gazette
 
-  * 2019
+### 2019
     * July 19: [Christensen avoids death penalty after jury says it cannot reach unanimous verdict](https://www.news-gazette.com/news/christensen-avoids-death-penalty-after-jury-says-it-cannot-reach/article_2b5d5553-b640-51ec-9c43-2857b7fbcc3c.html)
     * June 28: [Documents: Why feds didn’t bite on Christensen’s offer](https://www.news-gazette.com/news/documents-why-feds-didn-t-bite-on-christensen-s-offer/article_80f0032c-a79c-5885-9660-061b0901422f.html)
     * June 25: [Family says ‘there was no promise that Yingying’s remains would be discovered’](https://www.news-gazette.com/news/update-family-says-there-was-no-promise-that-yingying-s/article_c5a5bb1c-e0ce-525b-8538-ccbf4b075d1e.html)
@@ -21,7 +21,7 @@ For *The Champaign News-Gazette*:
     * February 26: [Christensen’s lawyers: 'This matter has not been handled competently by the defense’](https://www.news-gazette.com/news/christensen-s-lawyers-this-matter-has-not-been-handled-competently/article_afe63cfc-aef7-5fdf-9ef2-d697baaab09a.html)
     * February 24: [In Brendt Christensen trial, 'these defense lawyers are doing their job’](https://www.news-gazette.com/news/in-brendt-christensen-trial-these-defense-lawyers-are-doing-their/article_c1195280-8240-5c0a-bb9b-d5590a19b064.html)
     * February 24: [Book: Ex-AG Sessions pushed for more death-penalty charges](https://www.news-gazette.com/news/book-ex-ag-sessions-pushed-for-more-death-penalty-charges/article_fdf743ce-2685-51e6-b0b7-d7bbfa9f288e.html)
-  * 2018 
+### 2018 
     * December 18: [Christensen’s ex-wife differs wth FBI agents’ testimony](https://www.news-gazette.com/news/christensen-s-ex-wife-differs-wth-fbi-agents-testimony/article_936f48be-9359-5580-a08e-ba439bd2d546.html)
     * December 11: [Potential jurors in Christensen trial getting 31 pages of questions](https://www.news-gazette.com/news/potential-jurors-in-christensen-trial-getting-pages-of-questions/article_4d2effd5-36c5-5121-8599-aba2800838db.html)
     * August 24: [New defense filings seem to shed light on why feds think UI scholar dead](https://www.news-gazette.com/news/new-defense-filings-seem-to-shed-light-on-why-feds/article_1d7127fb-a768-5e43-b727-0e1d00b12075.html)
@@ -35,7 +35,7 @@ For *The Champaign News-Gazette*:
     * January 16: [Accused kidnapper’s attorneys want main charge dropped, venue changed](https://www.news-gazette.com/news/accused-kidnapper-s-attorneys-want-main-charge-dropped-venue-changed/article_77cad221-1d42-5997-b82f-81652e1ace2a.html)
     * January 11: [Experts: Feds’ use of death penalty in 2 recent cases not bellwether for Christensen’s](https://www.news-gazette.com/news/experts-feds-use-of-death-penalty-in-recent-cases-not/article_e3c60191-b953-597e-80b5-c532a8bc2216.html)
     * January 11: [Hobbico seeking a buyer as it works through bankruptcy](https://www.news-gazette.com/news/hobbico-seeking-a-buyer-as-it-works-through-bankruptcy/article_86f6547c-8501-517a-85cd-865af88dcfd1.html)
-  * 2017 
+### 2017 
     * December 22: [Feds investigating Hobbico over deferred employee stock payments](https://www.news-gazette.com/news/feds-investigating-hobbico-over-deferred-employee-stock-payments/article_15bb214c-10ff-572e-b436-27d8dfa3e17b.html)
     * December 3: [Death-penalty decision in missing-scholar case could go either way](https://www.news-gazette.com/news/death-penalty-decision-in-missing-scholar-case-could-go-either/article_62753868-2d93-52e3-a6f7-301bbf6378bc.html)
     * November 5: [Documents detail how 2016 pursuit of Dracy Pendleton played out](https://www.news-gazette.com/news/documents-detail-how-pursuit-of-dracy-pendleton-played-out/article_a732f127-506a-5260-9f6a-6cf2b19623d5.html)
@@ -47,12 +47,12 @@ For *The Champaign News-Gazette*:
     * February 12: [How did DUI driver walk free?](https://www.news-gazette.com/news/how-did-dui-driver-walk-free/article_75c27177-8901-5c46-bb98-0a38a3ad2509.html)
     * January 5: [Hobbico’s deferral of payout upsets, confounds ex-workers](https://www.news-gazette.com/news/hobbico-s-deferral-of-payout-upsets-confounds-ex-workers/article_12034638-1e79-5fdc-9ba7-57b5e4fbfd03.html)
 
-For *The Galesburg Register-Mail*:
+## The Galesburg Register-Mail
 
-  * 2016
+### 2016
     * February 21: [National RR Hall of Fame founder: ‘It’s going to happen’](https://www.galesburg.com/article/20160221/NEWS/160229973)
     * January 5: [ District 205 administration proposes cutting 75 positions to save $3.2 million](https://www.galesburg.com/news/20160105/district-205-administration-proposes-cutting-75-positions-to-save-32-million)
-  * 2015
+### 2015
     * December 13: [GHS North back on chopping block](https://www.galesburg.com/article/20151213/NEWS/151219924)
     * December 13: [Workers file OSHA complaint against Cloverleaf](https://www.galesburg.com/article/20151213/NEWS/151219930)
     * November 12: [Rigorous, diverse curriculum top priority, D205 committee says](https://www.galesburg.com/article/20151112/NEWS/151119916)
@@ -64,19 +64,19 @@ For *The Galesburg Register-Mail*:
     * April 26: [Area Vietnam veterans recall their war 40 years after its end](https://www.galesburg.com/article/20150426/NEWS/150429788)
     * March 1: [Galesburg businesses applaud net neutrality; providers skeptical of need](https://www.galesburg.com/article/20150301/NEWS/150309993)
 
-For _The Beaver County Times_:
+## _The Beaver County Times_
 
   * [Report: Pennsylvania receives ‘D’ for policies supporting working parents](https://www.timesonline.com/7d5e2ce1-ed6f-5314-af7c-c49e3a9890bd.html)
   * [Safety group: Falling furniture a common problem with deadly consequences](https://www.timesonline.com/article/20140717/lifestyle/307179926?template=ampart)
   * [Rusyn Food Festival celebrates 21st year](https://www.timesonline.com/article/20140808/Lifestyle/308089938)
   * [Habitat for Humanity home dedication scheduled for Tuesday in New Brighton](https://www.timesonline.com/16f1dab5-ca42-5c7a-8e02-412e0eb7047c.html)
 
-For _BGR_:
+## _BGR_
 
   * [Outgoing NSA director: ‘It’s not our mission’ to spy on everyone in the world](https://bgr.com/2014/02/17/nsa-telephone-metadata-recommendations/)
   * [Apple accidentally revealed that transit directions are coming to iOS](https://bgr.com/2014/06/09/apple-ios-maps-transit-directions-ios-8-1-leaked-screenshot/)
 
-For _The Daily Sophist_:
+## _The Daily Sophist_
 
   * [_Chicago Weekly_ to be Renamed the _South Side Weekly_]({{ site.baseurl }}/articles/chicago-weekly-renamed)
   * [Scav 2013 – The Hunt Begins]({{ site.baseurl }}/articles/scav-2013)
