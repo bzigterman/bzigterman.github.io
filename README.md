@@ -5,7 +5,7 @@
 **Jekyll Now** makes it easier to create your Jekyll blog, by eliminating a lot of the up front setup.
 
 - You don't need to touch the command line
-- You don't need to install/configure ruby, rvm/rbenv, ruby gems :relaxed:
+- You don't need to install/configure ruby, rvm/rbenv, ruby gems
 - You don't need to install runtime dependencies like markdown processors, Pygments, etc
 - If you're on Windows, this will make setting up Jekyll a lot easier
 - It's easy to try out, you can just delete your forked repository if you don't like it
@@ -40,4 +40,4 @@ Issues and Pull Requests are greatly appreciated. If you've never contributed to
 
 You can start by [opening an issue](https://github.com/barryclark/jekyll-now/issues/new) describing the problem that you're looking to resolve and we'll go from there.
 
-I want to keep Jekyll Now as minimal as possible. Every line of code should be one that's useful to 90% of the people using it. Please bear that in mind when submitting feature requests. If it's not something that most people will use, it probably won't get merged. :guardsman:
+I want to keep Jekyll Now as minimal as possible. Every line of code should be one that's useful to 90% of the people using it. Please bear that in mind when submitting feature requests. If it's not something that most people will use, it probably won't get merged.
