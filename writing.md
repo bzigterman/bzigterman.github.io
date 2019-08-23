@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Writing
-permalink: /writing/
+title: Clips
+permalink: /clips/
 ---
 
 Here’s some of my best work:
