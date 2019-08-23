@@ -60,13 +60,13 @@ Here's what I've read over the past few years, in reverse chronological order:
 - *Verification Handbook* by Craig Silverman
 - *Black Tickets: Stories* by Jayne Anne Phillips
 - *Blood Brothers* by Elias Chacour
-- *Wear Sunscreen: A Primer for Real Life* by Mary Schmich
+- *Wear Sunscreen* by Mary Schmich
 - *Small Great Things* by Jodi Picoult
 - *The Sun is Also a Star* by Nicola Yoon
 - *It Ends with Us* by Colleen Hoover
 - *1984* by George Orwell
 - *The Fire Next Time* by James Baldwin
-- *Interpreter* of Maladies by Jhumpa Lahiri
+- *Interpreter of Maladies* by Jhumpa Lahiri
 - *All the Light We Cannot See* by Anthony Doerr
 - *Mere Christianity* by C.S. Lewis
 - *Lincoln in the Bardo* by George Saunders
