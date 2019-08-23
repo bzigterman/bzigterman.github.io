@@ -97,4 +97,4 @@ The University of Chicago
 - Studs Terkel
 - history
 
-## [Clips]({{ site.baseurl }}/clips)
+## [Writing]({{ site.baseurl }}/writing)
