@@ -67,7 +67,7 @@ Writing Coach, **Mt. Carmel High School**,
 Editorial Intern, **McGraw-Hill Education**,  
 2012
 
-- Proposed product ideas for social media and mobile device integration in higher eduction
+- Proposed product ideas for social media and mobile device integration in higher education
 - Conducted market research on textbooks
 
 Editor-in-Chief, **The Timothy Trumpet**,  
