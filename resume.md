@@ -74,7 +74,8 @@ The University of Chicago
 ## Computer Skills
 
 - Experience with HTML, CSS, Git and Markdown
-- Basic knowledge of JavaScript, C, and Python programming languages
+- Basic knowledge of JavaScript, C, R and Python programming languages
+— Skilled with spreadsheets, pivot tables and charting data 
 
 ## Interests
 
@@ -82,6 +83,7 @@ The University of Chicago
 - Apple
 - doughnuts
 - Pixar
+- data visualization
 - clouds
 
 ## [Clips]({{ site.baseurl }}/clips)
