@@ -6,72 +6,61 @@ permalink: /resume/
 
 ## Experience
 
-Reporter, **The Champaign News-Gazette**, Champaign, IL,  
-2016–present
+2016–present: Reporter, **The Champaign News-Gazette**, Champaign, IL
 
 - Write 1–4 articles every day, ranging from business to agriculture to crime to Sunday features
 - Write a Sunday business feature story each week
 - Shoot and edit a weekly agriculture video
 
-Business and Education Reporter, **The Galesburg Register-Mail**, Galesburg, IL,  
-2014–16
+2014–16: Business and Education Reporter, **The Galesburg Register-Mail**, Galesburg, IL
 
 - Wrote 1–4 articles every day
 - Wrote a Sunday business feature story each week
 - Took photos and videos as needed
 - Received Illinois Press Association’s first-place prize for government beat reporting in 2015 
 
-Contributor, **BGR**,  
-2013–14
+2013–14: Contributor, **BGR**
 
 - Wrote 1–2 brief articles each day for leading consumer technology website
 - Reported and aggregated mobile technology–related news
 - Learned basic search engine optimization practices
 
-Reporting Intern, **The Beaver County Times**, Beaver, PA,  
-2014
+2014: Reporting Intern, **The Beaver County Times**, Beaver, PA
 
 - Write 1–2 substantial articles each week
 - Report on a wide range of community news
 - Summarize police reports
 
-Head Copy Editor, **The Chicago Maroon**,  
-2011–14
+2011–14: Head Copy Editor, **The Chicago Maroon**
 
 - Supervised 5–10 copy editors for the University of Chicago student newspaper
 - Edited articles for punctuation and grammar
 
-Editor, **The Daily Sophist**,  
-2013–14
+2013–14: Editor, **The Daily Sophist**
 
 - Wrote and reported articles for website that covers the University of Chicago
 - Assigned articles to contributing writers
 - Copy edited articles
 
-Research Assistant, **General Social Survey**,  
-2013–14
+2013–14: Research Assistant, **General Social Survey**
 
 - Edited academic papers to be published
 - Compiled bibliography of references to the General Social Survey
 
-Associate Editor, **Chicago Journal of History**,  
-2013
+2013: Associate Editor, **Chicago Journal of History**
 
 - Edited and selected articles to be published in a student-run academic journal
 
-Writing Coach, **Mt. Carmel High School**,  
-2013
+2013: Writing Coach, **Mt. Carmel High School**
 
 - Graded and commented on students’ essays
 
-Editorial Intern, **McGraw-Hill Education**,  
-2012
+2012: Editorial Intern, **McGraw-Hill Education**
 
 - Proposed product ideas for social media and mobile device integration in higher education
 - Conducted market research on textbooks
 
-Editor-in-Chief, **The Timothy Trumpet**,  
-2009–10
+2009–10: Editor-in-Chief, **The Timothy Trumpet**
 
 - Edited articles and layout for high school newspaper
 
