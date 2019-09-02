@@ -75,7 +75,7 @@ The University of Chicago
 
 - Experience with HTML, CSS, Git and Markdown
 - Basic knowledge of JavaScript, C, R and Python programming languages
-— Skilled with spreadsheets, pivot tables and charting data 
+- Skilled with spreadsheets, pivot tables and charting data 
 
 ## Interests
 
