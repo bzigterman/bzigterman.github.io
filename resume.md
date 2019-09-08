@@ -6,11 +6,17 @@ permalink: /resume/
 
 ## Experience
 
-2016–present: Reporter, **The Champaign News-Gazette**, Champaign, IL
+#### 2016–present
+Reporter, **The Champaign News-Gazette**, Champaign, IL
 
 - Write 1–4 articles every day, ranging from business to agriculture to crime to Sunday features
 - Write a Sunday business feature story each week
+- Write breaking crime and business stories throughout the day
+- Cover federal lawsuits, tracking them with PACER
+- File FOIA requests regularly
+- Analyze data using spreadsheets and pivot tables
 - Shoot and edit a weekly agriculture video
+- Launched internal newsroom service to track website changes
 
 2014–16: Business and Education Reporter, **The Galesburg Register-Mail**, Galesburg, IL
 
@@ -27,7 +33,7 @@ permalink: /resume/
 
 2014: Reporting Intern, **The Beaver County Times**, Beaver, PA
 
-- Write 1–2 substantial articles each week
+- Write 1–2 articles each week
 - Report on a wide range of community news
 - Summarize police reports
 
@@ -75,7 +81,6 @@ The University of Chicago
 
 - Experience with HTML, CSS, Git and Markdown
 - Basic knowledge of JavaScript, C, R and Python programming languages
-- Skilled with spreadsheets, pivot tables and charting data 
 
 ## Interests
 
