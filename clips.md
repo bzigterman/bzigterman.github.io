@@ -72,19 +72,19 @@ Here’s some of my best work:
 * April 26: [Area Vietnam veterans recall their war 40 years after its end](https://www.galesburg.com/article/20150426/NEWS/150429788)
 * March 1: [Galesburg businesses applaud net neutrality; providers skeptical of need](https://www.galesburg.com/article/20150301/NEWS/150309993)
 
-## _The Beaver County Times_
+## *The Beaver County Times*
 
 * [Report: Pennsylvania receives ‘D’ for policies supporting working parents](https://www.timesonline.com/7d5e2ce1-ed6f-5314-af7c-c49e3a9890bd.html)
 * [Safety group: Falling furniture a common problem with deadly consequences](https://www.timesonline.com/article/20140717/lifestyle/307179926?template=ampart)
 * [Rusyn Food Festival celebrates 21st year](https://www.timesonline.com/article/20140808/Lifestyle/308089938)
 * [Habitat for Humanity home dedication scheduled for Tuesday in New Brighton](https://www.timesonline.com/16f1dab5-ca42-5c7a-8e02-412e0eb7047c.html)
 
-## _BGR_
+## *BGR*
 
 * [Outgoing NSA director: ‘It’s not our mission’ to spy on everyone in the world](https://bgr.com/2014/02/17/nsa-telephone-metadata-recommendations/)
 * [Apple accidentally revealed that transit directions are coming to iOS](https://bgr.com/2014/06/09/apple-ios-maps-transit-directions-ios-8-1-leaked-screenshot/)
 
-## _The Daily Sophist_
+## *The Daily Sophist*
 
 * [_Chicago Weekly_ to be Renamed the _South Side Weekly_]({{ site.baseurl }}/articles/chicago-weekly-renamed)
 * [Scav 2013 – The Hunt Begins]({{ site.baseurl }}/articles/scav-2013)
