@@ -14,7 +14,7 @@ permalink: /resume/
 - Cover federal lawsuits, tracking them with PACER
 - File FOIA requests regularly
 - Analyze data using spreadsheets and pivot tables
-- Shoot and edit a weekly agriculture video
+- Shot and edited a weekly agriculture video
 - Launched internal newsroom service to track website changes
 
 2014–16: Business and Education Reporter, **The Galesburg Register-Mail**, Galesburg, IL
