@@ -12,10 +12,8 @@ But in one case, the well-known I-Team at ABC 7 Chicago led by Chuck Goudie and 
 After our general counsel contacted ABC 7, it took down [the article](https://abc7chicago.com/5242468/).
 
 > From:    "Graves, Jennifer  L. (WLS-TV)"  
-> Date:    Fri, April 12, 2019 4:42 pm
-
-> Thank you for bringing this issue to our attention.  Although our team based their reporting on the newly-released court documents, in consideration of your concerns we have removed the report from our website.
-
+> Date:    Fri, April 12, 2019 4:42 pm  
+> Thank you for bringing this issue to our attention.  Although our team based their reporting on the newly-released court documents, in consideration of your concerns we have removed the report from our website.  
 > Sincerely,  
 > Jennifer Graves  
 > VP of News  
