@@ -13,7 +13,9 @@ After our general counsel contacted ABC 7, it took down [the article](https://ab
 
 > From:    "Graves, Jennifer  L. (WLS-TV)"  
 > Date:    Fri, April 12, 2019 4:42 pm  
+>  
 > Thank you for bringing this issue to our attention.  Although our team based their reporting on the newly-released court documents, in consideration of your concerns we have removed the report from our website.  
+>  
 > Sincerely,  
 > Jennifer Graves  
 > VP of News  
