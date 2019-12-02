@@ -8,7 +8,7 @@ permalink: /resume/
 
 2016–present: Reporter, **The Champaign News-Gazette**, Champaign, IL
 
-- Write 1–4 articles every day, ranging from business to agriculture to crime to Sunday features
+- Write 1–4 articles every day, ranging from business and agriculture to city council and courts
 - Write a Sunday business feature story each week
 - Write breaking crime and business stories throughout the day
 - Cover federal lawsuits, tracking them with PACER

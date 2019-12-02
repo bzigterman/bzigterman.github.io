@@ -1,6 +1,7 @@
 ---
 layout: post
 title: The ABC 7 Chicago I-Team ripped off my work
+published: false
 ---
 
 For more than two years, I covered the disappearance of visiting University of Illinois scholar Yingying Zhang and the federal death penalty trial of her murderer, Brendt Christensen.
