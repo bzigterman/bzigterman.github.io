@@ -81,13 +81,4 @@ The University of Chicago
 - Experience with HTML, CSS, Git and Markdown
 - Basic knowledge of JavaScript, C, R and Python programming languages
 
-## Interests
-
-- typography
-- Apple
-- doughnuts
-- Pixar
-- data visualization
-- clouds
-
 ## [Clips]({{ site.baseurl }}/clips)
