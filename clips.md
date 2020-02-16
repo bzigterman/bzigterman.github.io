@@ -20,6 +20,7 @@ Here’s some of my best work:
 * June 11: [Missing scholar's estate sues Christensen, two at UI Counseling Center](https://www.news-gazette.com/news/missing-scholar-s-estate-sues-christensen-two-at-ui-counseling/article_4291dd7a-8d3e-51a3-88e4-572c60bf4bf3.html)
 * June 9: [Both sides utilizing consultants to try to stack jury](https://www.news-gazette.com/news/christensen-trial-both-sides-utilizing-consultants-to-try-to-stack/article_0c11ec35-0c3f-5fa8-8c5c-211ac8c46544.html)
 * June 1: [Nearly two years later, accused kidnapper, killer of Chinese scholar will face trial](https://www.news-gazette.com/news/local/people/nearly-two-years-later-accused-kidnapper-killer-of-chinese-scholar/article_8328331b-64a3-500d-8048-453474e8919b.html)
+* May 7: [Suburban Express shuts down](https://www.news-gazette.com/news/suburban-express-shuts-down/article_e83c7a83-2d70-500f-9858-fff69b7cd08f.html)
 * April 26: [Christensen’s lawyers say he’s abandoning mental-health defense](https://www.news-gazette.com/news/christensen-s-lawyers-say-he-s-abandoning-mental-health-defense/article_5c360b22-7bb8-59ab-9588-898c76dbeb65.html)
 * March 17: [Alleged misuse of funds spells trouble for Meyer Charitable Foundation](https://www.news-gazette.com/alleged-misuse-of-funds-spells-trouble-for-meyer-charitable-foundation/article_d00f6831-1e78-56ea-8560-1ef0c429beb2.html)
 * March 15: [Others in C-U used company at center of college-admissions scandal](https://www.news-gazette.com/news/others-in-c-u-used-company-at-center-of-college/article_b67af546-c8a8-536c-8b3f-1562f2900366.html)
