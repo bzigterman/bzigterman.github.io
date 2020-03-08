@@ -90,5 +90,5 @@ The University of Chicago
 - February 2020: Spoke about my experience covering the disappearance of visiting University of Illinois scholar Yingying Zhang to students [at Eastern Illinois University](https://www.eiu.edu/calendar/index.php?eID=22607).
 - November 2019: Was interviewed by "20/20" for its [episode on Ms. Zhang's disappearance](https://abc.com/shows/2020/episode-guide/2019-11/15-undercover-girlfriend).
 - October 2019: Spoke to a journalism class at the University of Illinois about my experience as a reporter.
-- June 2019: Was interviewed by a TV station in Chicago by phone during the trial of Ms. Zhang's killer.
+- June 2019: Was interviewed by FOX 32 Chicago by phone during the trial of Ms. Zhang's killer.
 - March 2019: Spoke to [the University of Illinois chapter](https://www.instagram.com/p/BwHorVln_mu/) of the Society of Professional Journalists about what it's like working at a newspaper.
