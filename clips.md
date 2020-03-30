@@ -8,6 +8,9 @@ Here’s some of my best work:
 
 ## *The Champaign News-Gazette*
 
+### 2020
+* February 24: [The power of 'The Power of I'](https://www.news-gazette.com/news/local/university-illinois/the-power-of-the-power-of-i-ui-getting-bang/article_66da8a11-c42b-5bc4-80a3-75a0a5371b5d.html)
+
 ### 2019
 
 * August 5: [**Slain UI scholar was 'as perfect a daughter as one could imagine'**](https://www.news-gazette.com/news/a-life-remembered-slain-ui-scholar-was-as-perfect-a/article_605e707e-5851-5d8e-b84d-fce8607c412f.html)
