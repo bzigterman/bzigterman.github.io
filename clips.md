@@ -10,7 +10,7 @@ Here’s some of my best work:
 
 ### 2019
 
-* August 5: [Slain UI scholar was 'as perfect a daughter as one could imagine'](https://www.news-gazette.com/news/a-life-remembered-slain-ui-scholar-was-as-perfect-a/article_605e707e-5851-5d8e-b84d-fce8607c412f.html)
+* August 5: [**Slain UI scholar was 'as perfect a daughter as one could imagine'**](https://www.news-gazette.com/news/a-life-remembered-slain-ui-scholar-was-as-perfect-a/article_605e707e-5851-5d8e-b84d-fce8607c412f.html)
 * July 19: [**Christensen avoids death penalty after jury says it cannot reach unanimous verdict**](https://www.news-gazette.com/news/christensen-avoids-death-penalty-after-jury-says-it-cannot-reach/article_2b5d5553-b640-51ec-9c43-2857b7fbcc3c.html)
 * June 28: [Documents: Why feds didn’t bite on Christensen’s offer](https://www.news-gazette.com/news/documents-why-feds-didn-t-bite-on-christensen-s-offer/article_80f0032c-a79c-5885-9660-061b0901422f.html)
 * June 25: [Family says ‘there was no promise that Yingying’s remains would be discovered’](https://www.news-gazette.com/news/update-family-says-there-was-no-promise-that-yingying-s/article_c5a5bb1c-e0ce-525b-8538-ccbf4b075d1e.html)
