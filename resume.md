@@ -19,7 +19,6 @@ permalink: /resume/
 - Shot and edited a weekly agriculture video called [Friday on the Farm](http://fridayonthefarm.com)
 - Launched internal newsroom service to track website changes
 
-
 2014–16: Business and Education Reporter, **The Galesburg Register-Mail**, Galesburg, IL
 
 - Wrote 1–4 articles every day
