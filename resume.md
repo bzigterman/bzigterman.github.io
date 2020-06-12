@@ -15,6 +15,7 @@ permalink: /resume/
 - File FOIA requests regularly
 - Analyze data using spreadsheets and pivot tables
 - Appear on [local news radio station](https://www.news-gazette.com/wdws/) to discuss stories I'm covering
+- Edit and write for our **Central Illinois Business** magazine
 - Shot and edited a weekly agriculture video called [Friday on the Farm](http://fridayonthefarm.com)
 - Launched internal newsroom service to track website changes
 
@@ -82,6 +83,7 @@ The University of Chicago
 
 - Experience with HTML, CSS, Git and Markdown
 - Basic knowledge of JavaScript, C, R and Python programming languages
+- Skilled with spreadsheets, whether making easily-legible charts or finding trends with pivot tables
 
 ## [Clips]({{ site.baseurl }}/clips)
 
