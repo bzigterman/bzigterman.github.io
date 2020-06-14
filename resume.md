@@ -84,7 +84,7 @@ The University of Chicago
 - Basic knowledge of JavaScript, C, R and Python programming languages
 - Skilled with spreadsheets, whether making easily-legible charts or finding trends with pivot tables
 
-## [Clips]({{ site.baseurl }}/clips)
+## [Clips »]({{ site.baseurl }}/clips)
 
 ## Public Engagement
 
