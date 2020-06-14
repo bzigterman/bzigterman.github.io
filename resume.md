@@ -13,9 +13,11 @@ permalink: /resume/
 - Write breaking crime and business stories throughout the day
 - Edit and write for our [*Central Illinois Business*](https://www.centralillinoisbusiness.com/) magazine
 - Cover federal lawsuits, tracking them with PACER
-- File FOIA requests regularly
+- Track SEC filings for local public companies
+- File FOIA requests
 - Analyze data using spreadsheets and pivot tables
-- Appear on [local news radio station](https://www.news-gazette.com/wdws/) to discuss stories I'm covering
+- Appear on our [news radio station](https://www.news-gazette.com/wdws/) to discuss stories I'm covering
+- Modernized our company’s podcasts by getting them moved to Apple Podcasts
 - Shot and edited a weekly agriculture video called [Friday on the Farm](http://fridayonthefarm.com)
 - Launched internal newsroom service to track website changes
 
