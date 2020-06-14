@@ -11,11 +11,11 @@ permalink: /resume/
 - Write 1–4 articles every day, ranging from business and agriculture to city council and courts
 - Write a Sunday business feature story each week
 - Write breaking crime and business stories throughout the day
+- Edit and write for our *Central Illinois Business* magazine
 - Cover federal lawsuits, tracking them with PACER
 - File FOIA requests regularly
 - Analyze data using spreadsheets and pivot tables
 - Appear on [local news radio station](https://www.news-gazette.com/wdws/) to discuss stories I'm covering
-- Edit and write for our *Central Illinois Business* magazine
 - Shot and edited a weekly agriculture video called [Friday on the Farm](http://fridayonthefarm.com)
 - Launched internal newsroom service to track website changes
 
