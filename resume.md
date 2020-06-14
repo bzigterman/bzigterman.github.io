@@ -84,7 +84,7 @@ The University of Chicago
 
 - Experience with HTML, CSS, Git and Markdown
 - Basic knowledge of JavaScript, C, R and Python programming languages
-- Skilled with spreadsheets, whether making easily-legible charts or finding trends with pivot tables
+- Skilled with spreadsheets, from making easily-legible charts to finding trends with pivot tables
 
 ## [Clips »]({{ site.baseurl }}/clips)
 
