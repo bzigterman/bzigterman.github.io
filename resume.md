@@ -11,7 +11,7 @@ permalink: /resume/
 - Write 1–4 articles every day, ranging from business and agriculture to city council and courts
 - Write a Sunday business feature story each week
 - Write breaking crime and business stories throughout the day
-- Edit and write for our *Central Illinois Business* magazine
+- Edit and write for our [*Central Illinois Business*](https://www.centralillinoisbusiness.com/) magazine
 - Cover federal lawsuits, tracking them with PACER
 - File FOIA requests regularly
 - Analyze data using spreadsheets and pivot tables
