@@ -36,9 +36,9 @@ permalink: /resume/
 
 2014: Reporting Intern, **The Beaver County Times**, Beaver, PA
 
-- Write 1–2 articles each week
-- Report on a wide range of community news
-- Summarize police reports
+- Wrote 1–2 articles each week
+- Reported on a wide range of community news
+- Summarized police reports
 
 2011–14: Head Copy Editor, **The Chicago Maroon**
 
@@ -71,7 +71,7 @@ permalink: /resume/
 
 2009–10: Editor-in-Chief, **The Timothy Trumpet**
 
-- Edited articles and layout for high school newspaper
+- Edited articles and laid out high school newspaper
 
 ## Education
 
