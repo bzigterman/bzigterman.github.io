@@ -45,6 +45,7 @@ Here’s some of my best work:
 * December 3: [**Death-penalty decision in missing-scholar case could go either way**](https://www.news-gazette.com/news/death-penalty-decision-in-missing-scholar-case-could-go-either/article_62753868-2d93-52e3-a6f7-301bbf6378bc.html)
 * November 5: [**Documents detail how 2016 pursuit of Dracy Pendleton played out**](https://www.news-gazette.com/news/documents-detail-how-pursuit-of-dracy-pendleton-played-out/article_a732f127-506a-5260-9f6a-6cf2b19623d5.html)
 * September 17: [A bridge too low, a trucker too late, a crash too often](https://www.news-gazette.com/news/a-bridge-too-low-a-trucker-too-late-a-crash/article_e7a5ab7b-c0c5-5cca-bcce-3ef519032931.html)
+* September 3: [Villa Grove residents: Get those cabooses moving](https://www.news-gazette.com/news/villa-grove-residents-get-those-cabooses-moving/article_b429998d-0c81-5b8d-adcd-d543c80b9e79.html)
 * August 22: [Emails: UI briefed top Chinese, U.S. government officials on missing scholar](https://www.news-gazette.com/news/emails-ui-briefed-top-chinese-u-s-government-officials-on/article_32a3e37b-0fcf-5782-aa73-a0f7d43aead4.html)
 * June 30: [Former grad student arrested in UI scholar’s disappearance; FBI presumes her dead](https://www.news-gazette.com/news/updated-former-grad-student-arrested-in-ui-scholar-s-disappearance/article_3694866a-0d02-515a-87f9-56a20db52200.html)
 * May 7: [**5-month study: How do C-U hotels rate?**](https://www.news-gazette.com/news/month-study-how-do-c-u-hotels-rate/article_a0337e5c-26b1-508c-889d-0a608f5a25dd.html)
