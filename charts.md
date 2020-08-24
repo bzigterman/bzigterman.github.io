@@ -20,6 +20,12 @@ During the COVID-19 pandemic, I've been making charts each day with data for Cha
 
 ![Positivity](https://docs.google.com/spreadsheets/d/e/2PACX-1vTxuiLbahlulSIe_JOAof_BlK8SV5x92XJo03iUageUaQOTWrbmkZQ4rO1pBy_h0XneyMclAjO-sJq3/pubchart?oid=1051163802&format=image)
 
+## University of Illinois
+
+![UI Positive Tests](https://docs.google.com/spreadsheets/d/e/2PACX-1vTxuiLbahlulSIe_JOAof_BlK8SV5x92XJo03iUageUaQOTWrbmkZQ4rO1pBy_h0XneyMclAjO-sJq3/pubchart?oid=2041206099&format=image)
+
+![Total UI Tests](https://docs.google.com/spreadsheets/d/e/2PACX-1vTxuiLbahlulSIe_JOAof_BlK8SV5x92XJo03iUageUaQOTWrbmkZQ4rO1pBy_h0XneyMclAjO-sJq3/pubchart?oid=1591006098&format=image)
+
 ## Illinois
 
 ![New Deaths](https://docs.google.com/spreadsheets/d/e/2PACX-1vTxuiLbahlulSIe_JOAof_BlK8SV5x92XJo03iUageUaQOTWrbmkZQ4rO1pBy_h0XneyMclAjO-sJq3/pubchart?oid=805067583&format=image)
