@@ -4,7 +4,7 @@ title: Charts
 permalink: /charts/
 ---
 
-During the COVID-19 pandemic, I've been making charts with data for Champaign County, the University of Illinois, and the state of Illinois.
+During the COVID-19 pandemic, I've been making charts with data for Champaign County and the University of Illinois.
 
 ## Champaign County
 
@@ -28,6 +28,8 @@ During the COVID-19 pandemic, I've been making charts with data for Champaign Co
 
 ![UI Test Positivity](https://docs.google.com/spreadsheets/d/e/2PACX-1vTxuiLbahlulSIe_JOAof_BlK8SV5x92XJo03iUageUaQOTWrbmkZQ4rO1pBy_h0XneyMclAjO-sJq3/pubchart?oid=653010943&format=image)
 
+<!--
+
 ## Illinois
 
 ![New Deaths](https://docs.google.com/spreadsheets/d/e/2PACX-1vTxuiLbahlulSIe_JOAof_BlK8SV5x92XJo03iUageUaQOTWrbmkZQ4rO1pBy_h0XneyMclAjO-sJq3/pubchart?oid=805067583&format=image)
@@ -37,3 +39,5 @@ During the COVID-19 pandemic, I've been making charts with data for Champaign Co
 ![New Cases](https://docs.google.com/spreadsheets/d/e/2PACX-1vTxuiLbahlulSIe_JOAof_BlK8SV5x92XJo03iUageUaQOTWrbmkZQ4rO1pBy_h0XneyMclAjO-sJq3/pubchart?oid=225685036&format=image)
 
 ![Positivity](https://docs.google.com/spreadsheets/d/e/2PACX-1vTxuiLbahlulSIe_JOAof_BlK8SV5x92XJo03iUageUaQOTWrbmkZQ4rO1pBy_h0XneyMclAjO-sJq3/pubchart?oid=221545500&format=image)
+
+-->
