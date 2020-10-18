@@ -22,11 +22,21 @@ During the COVID-19 pandemic, I've been making charts with data for Champaign Co
 
 ## University of Illinois
 
-![UI Positive Tests](https://docs.google.com/spreadsheets/d/e/2PACX-1vTxuiLbahlulSIe_JOAof_BlK8SV5x92XJo03iUageUaQOTWrbmkZQ4rO1pBy_h0XneyMclAjO-sJq3/pubchart?oid=2041206099&format=image)
+![UI Positive Cases](https://docs.google.com/spreadsheets/d/e/2PACX-1vTxuiLbahlulSIe_JOAof_BlK8SV5x92XJo03iUageUaQOTWrbmkZQ4rO1pBy_h0XneyMclAjO-sJq3/pubchart?oid=2041206099&format=image)
 
 ![Total UI Tests](https://docs.google.com/spreadsheets/d/e/2PACX-1vTxuiLbahlulSIe_JOAof_BlK8SV5x92XJo03iUageUaQOTWrbmkZQ4rO1pBy_h0XneyMclAjO-sJq3/pubchart?oid=1591006098&format=image)
 
 ![UI Test Positivity](https://docs.google.com/spreadsheets/d/e/2PACX-1vTxuiLbahlulSIe_JOAof_BlK8SV5x92XJo03iUageUaQOTWrbmkZQ4rO1pBy_h0XneyMclAjO-sJq3/pubchart?oid=653010943&format=image)
+
+## Champaign County without the University of Illinois' tests
+
+![county positives - no UI](https://docs.google.com/spreadsheets/d/e/2PACX-1vTxuiLbahlulSIe_JOAof_BlK8SV5x92XJo03iUageUaQOTWrbmkZQ4rO1pBy_h0XneyMclAjO-sJq3/pubchart?oid=1913158665&format=image)
+
+![county tests - no UI](https://docs.google.com/spreadsheets/d/e/2PACX-1vTxuiLbahlulSIe_JOAof_BlK8SV5x92XJo03iUageUaQOTWrbmkZQ4rO1pBy_h0XneyMclAjO-sJq3/pubchart?oid=2060663926&format=image)
+
+![county positivity - no UI](https://docs.google.com/spreadsheets/d/e/2PACX-1vTxuiLbahlulSIe_JOAof_BlK8SV5x92XJo03iUageUaQOTWrbmkZQ4rO1pBy_h0XneyMclAjO-sJq3/pubchart?oid=1413353239&format=image)
+
+![UI positives v county positives](https://docs.google.com/spreadsheets/d/e/2PACX-1vTxuiLbahlulSIe_JOAof_BlK8SV5x92XJo03iUageUaQOTWrbmkZQ4rO1pBy_h0XneyMclAjO-sJq3/pubchart?oid=319686821&format=image)
 
 <!--
 
