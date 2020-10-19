@@ -38,6 +38,8 @@ During the COVID-19 pandemic, I've been making charts with data for Champaign Co
 
 ![UI positives v county positives](https://docs.google.com/spreadsheets/d/e/2PACX-1vTxuiLbahlulSIe_JOAof_BlK8SV5x92XJo03iUageUaQOTWrbmkZQ4rO1pBy_h0XneyMclAjO-sJq3/pubchart?oid=319686821&format=image)
 
+![region positivity](https://docs.google.com/spreadsheets/d/e/2PACX-1vTxuiLbahlulSIe_JOAof_BlK8SV5x92XJo03iUageUaQOTWrbmkZQ4rO1pBy_h0XneyMclAjO-sJq3/pubchart?oid=1943538609&format=image)
+
 <!--
 
 ## Illinois
