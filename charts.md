@@ -53,7 +53,7 @@ During the COVID-19 pandemic, I've been making charts with data for Champaign Co
 
 ## Champaign County without the University of Illinois' tests
 
-![county positives - no UI](ChampaignCountyNoUICasesWeb.png)
+![county positives - no UI]({{ site.baseurl }}/images/ChampaignCountyNoUICasesWeb.png)
 
 ![county tests - no UI]({{ site.baseurl }}/images/CountyTestsnoUIWeb.png)
 
