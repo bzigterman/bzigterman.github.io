@@ -53,6 +53,21 @@ During the COVID-19 pandemic, I've been making charts with data for Champaign Co
 
 ## Champaign County without the University of Illinois' tests
 
+![county positives - no UI](ChampaignCountyNoUICasesWeb.png)
+
+![county tests - no UI]({{ site.baseurl }}/images/CountyTestsnoUIWeb.png)
+
+![county positivity - no UI]({{ site.baseurl }}/images/ChampaignConoUIPositivityWeb.png)
+
+![UI positives v county positives]({{ site.baseurl }}/images/ChampaignCoCasesSplitWeb.png)
+
+![region positivity]({{ site.baseurl }}/images/NoUIpositivityWeb.png)
+
+![state positivity without UI]({{ site.baseurl }}/images/statepositivityWeb.png)
+
+
+<!--
+
 ![county positives - no UI](https://docs.google.com/spreadsheets/d/e/2PACX-1vTxuiLbahlulSIe_JOAof_BlK8SV5x92XJo03iUageUaQOTWrbmkZQ4rO1pBy_h0XneyMclAjO-sJq3/pubchart?oid=1913158665&format=image)
 
 ![county tests - no UI](https://docs.google.com/spreadsheets/d/e/2PACX-1vTxuiLbahlulSIe_JOAof_BlK8SV5x92XJo03iUageUaQOTWrbmkZQ4rO1pBy_h0XneyMclAjO-sJq3/pubchart?oid=2060663926&format=image)
@@ -64,6 +79,7 @@ During the COVID-19 pandemic, I've been making charts with data for Champaign Co
 ![region positivity](https://docs.google.com/spreadsheets/d/e/2PACX-1vTxuiLbahlulSIe_JOAof_BlK8SV5x92XJo03iUageUaQOTWrbmkZQ4rO1pBy_h0XneyMclAjO-sJq3/pubchart?oid=1943538609&format=image)
 
 ![state positivity without UI](https://docs.google.com/spreadsheets/d/e/2PACX-1vTxuiLbahlulSIe_JOAof_BlK8SV5x92XJo03iUageUaQOTWrbmkZQ4rO1pBy_h0XneyMclAjO-sJq3/pubchart?oid=31769394&format=image)
+-->
 
 <!--
 
