@@ -30,15 +30,26 @@ During the COVID-19 pandemic, I've been making charts with data for Champaign Co
 
 ![Deaths](https://docs.google.com/spreadsheets/d/e/2PACX-1vTxuiLbahlulSIe_JOAof_BlK8SV5x92XJo03iUageUaQOTWrbmkZQ4rO1pBy_h0XneyMclAjO-sJq3/pubchart?oid=497400076&format=image)
 
+![Vaccines]({{ site.baseurl }}/images/VaccinesWeb.png)
+
 ![New Vaccines]({{ site.baseurl }}/images/NewVaccinesWeb.png)
 
 ## University of Illinois
+
+![UI Positive Cases]({{ site.baseurl }}/images/UICasesWeb.png)
+
+![Total UI Tests]({{ site.baseurl }}/images/UITestsWeb.png)
+
+![UI Test Positivity]({{ site.baseurl }}/images/UIPositivityWeb.png)
+
+<!--
 
 ![UI Positive Cases](https://docs.google.com/spreadsheets/d/e/2PACX-1vTxuiLbahlulSIe_JOAof_BlK8SV5x92XJo03iUageUaQOTWrbmkZQ4rO1pBy_h0XneyMclAjO-sJq3/pubchart?oid=2041206099&format=image)
 
 ![Total UI Tests](https://docs.google.com/spreadsheets/d/e/2PACX-1vTxuiLbahlulSIe_JOAof_BlK8SV5x92XJo03iUageUaQOTWrbmkZQ4rO1pBy_h0XneyMclAjO-sJq3/pubchart?oid=1591006098&format=image)
 
 ![UI Test Positivity](https://docs.google.com/spreadsheets/d/e/2PACX-1vTxuiLbahlulSIe_JOAof_BlK8SV5x92XJo03iUageUaQOTWrbmkZQ4rO1pBy_h0XneyMclAjO-sJq3/pubchart?oid=653010943&format=image)
+-->
 
 ## Champaign County without the University of Illinois' tests
 
