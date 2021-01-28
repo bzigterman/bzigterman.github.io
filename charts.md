@@ -30,7 +30,7 @@ During the COVID-19 pandemic, I've been making charts with data for Champaign Co
 
 ![Deaths](https://docs.google.com/spreadsheets/d/e/2PACX-1vTxuiLbahlulSIe_JOAof_BlK8SV5x92XJo03iUageUaQOTWrbmkZQ4rO1pBy_h0XneyMclAjO-sJq3/pubchart?oid=497400076&format=image)
 
-![Vaccinations]({{ site.baseurl }}/images/NewVaccinesWeb.png)
+![New Vaccines]({{ site.baseurl }}/images/NewVaccinesWeb.png)
 
 ## University of Illinois
 
