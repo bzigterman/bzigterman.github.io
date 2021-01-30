@@ -38,6 +38,8 @@ During the COVID-19 pandemic, I've been making charts with data for Champaign Co
 
 ![UI Positive Cases]({{ site.baseurl }}/images/UICasesWeb.png)
 
+![UI Semester Comparison]({{ site.baseurl }}/images/4UISemCompare.png)
+
 ![Total UI Tests]({{ site.baseurl }}/images/UITestsWeb.png)
 
 ![UI Test Positivity]({{ site.baseurl }}/images/UIPositivityWeb.png)
