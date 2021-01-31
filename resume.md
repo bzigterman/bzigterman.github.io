@@ -83,7 +83,7 @@ The University of Chicago
 ## Computer Skills
 
 - Experience with HTML, CSS, Git and Markdown
-- Basic knowledge of JavaScript, C, R and Python programming languages
+- Basic knowledge of R, JavaScript and C programming languages
 - Skilled with spreadsheets, from making easily-legible charts to finding trends with pivot tables
 
 ## [Clips »]({{ site.baseurl }}/clips)
