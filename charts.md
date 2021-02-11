@@ -36,8 +36,6 @@ During the COVID-19 pandemic, I've been making charts with data for Champaign Co
 
 ![Vaccine Projection]({{ site.baseurl }}/images/VaccineProjection.png)
 
-![Region 6 Hospital Beds]({{ site.baseurl }}/images/region6hospitalbeds.png)
-
 ## University of Illinois
 
 ![UI Positive Cases]({{ site.baseurl }}/images/UICasesWeb.png)
@@ -68,6 +66,8 @@ During the COVID-19 pandemic, I've been making charts with data for Champaign Co
 ![UI positives v county positives]({{ site.baseurl }}/images/ChampaignCoCasesSplitWeb.png)
 
 ![region positivity]({{ site.baseurl }}/images/NoUIpositivityWeb.png)
+
+![Region 6 Hospital Beds]({{ site.baseurl }}/images/region6hospitalbeds.png)
 
 ![state positivity without UI]({{ site.baseurl }}/images/statepositivityWeb.png)
 
