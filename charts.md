@@ -46,6 +46,8 @@ During the COVID-19 pandemic, I've been making charts with data for Champaign Co
 
 ![New Vaccines]({{ site.baseurl }}/images/NewVaccinesWeb.png)
 
+![Nearby Counties]({{ site.baseurl }}/images/nearby.png)
+
 ![Vaccine Projection]({{ site.baseurl }}/images/VaccineProjection.png)
 
 ## University of Illinois
