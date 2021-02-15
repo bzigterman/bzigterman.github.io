@@ -8,27 +8,39 @@ During the COVID-19 pandemic, I've been making charts with data for Champaign Co
 
 ## Champaign County
 
+![Active Cases]({{ site.baseurl }}/images/CUactiveWeb.png)
+
+![New Cases]({{ site.baseurl }}/images/CUCasesWeb.png)
+
+![New Deaths]({{ site.baseurl }}/images/CUdeaths.png)
+
+![Hospitalizations]({{ site.baseurl }}/images/CUhospitalizedWeb.png)
+
+![Quarantined]({{ site.baseurl }}/images/CUquarantedWeb.png)
+
+![New Tests]({{ site.baseurl }}/images/CUTestsWeb.png)
+
+<!--
+
 ![Cases](https://docs.google.com/spreadsheets/d/e/2PACX-1vTxuiLbahlulSIe_JOAof_BlK8SV5x92XJo03iUageUaQOTWrbmkZQ4rO1pBy_h0XneyMclAjO-sJq3/pubchart?oid=753736351&format=image)
 
 ![Active Cases](https://docs.google.com/spreadsheets/d/e/2PACX-1vTxuiLbahlulSIe_JOAof_BlK8SV5x92XJo03iUageUaQOTWrbmkZQ4rO1pBy_h0XneyMclAjO-sJq3/pubchart?oid=933140228&format=image)
 
-<!--
 ![Change in Cases](https://docs.google.com/spreadsheets/d/e/2PACX-1vTxuiLbahlulSIe_JOAof_BlK8SV5x92XJo03iUageUaQOTWrbmkZQ4rO1pBy_h0XneyMclAjO-sJq3/pubchart?oid=691262385&format=image)
--->
 
 ![New Cases](https://docs.google.com/spreadsheets/d/e/2PACX-1vTxuiLbahlulSIe_JOAof_BlK8SV5x92XJo03iUageUaQOTWrbmkZQ4rO1pBy_h0XneyMclAjO-sJq3/pubchart?oid=369984201&format=image)
 
 ![New Tests](https://docs.google.com/spreadsheets/d/e/2PACX-1vTxuiLbahlulSIe_JOAof_BlK8SV5x92XJo03iUageUaQOTWrbmkZQ4rO1pBy_h0XneyMclAjO-sJq3/pubchart?oid=2130801865&format=image)
 
-<!--
 ![Positivity](https://docs.google.com/spreadsheets/d/e/2PACX-1vTxuiLbahlulSIe_JOAof_BlK8SV5x92XJo03iUageUaQOTWrbmkZQ4rO1pBy_h0XneyMclAjO-sJq3/pubchart?oid=1051163802&format=image)
--->
 
 ![Hospitalized](https://docs.google.com/spreadsheets/d/e/2PACX-1vTxuiLbahlulSIe_JOAof_BlK8SV5x92XJo03iUageUaQOTWrbmkZQ4rO1pBy_h0XneyMclAjO-sJq3/pubchart?oid=1661560143&format=image)
 
 ![Quarantined](https://docs.google.com/spreadsheets/d/e/2PACX-1vTxuiLbahlulSIe_JOAof_BlK8SV5x92XJo03iUageUaQOTWrbmkZQ4rO1pBy_h0XneyMclAjO-sJq3/pubchart?oid=1245833059&format=image)
 
 ![Deaths](https://docs.google.com/spreadsheets/d/e/2PACX-1vTxuiLbahlulSIe_JOAof_BlK8SV5x92XJo03iUageUaQOTWrbmkZQ4rO1pBy_h0XneyMclAjO-sJq3/pubchart?oid=497400076&format=image)
+
+-->
 
 ![Vaccines]({{ site.baseurl }}/images/VaccinesWeb.png)
 
