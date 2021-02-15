@@ -16,7 +16,7 @@ During the COVID-19 pandemic, I've been making charts with data for Champaign Co
 
 ![Hospitalizations]({{ site.baseurl }}/images/CUhospitalizedWeb.png)
 
-![Quarantined]({{ site.baseurl }}/images/CUquarantedWeb.png)
+![Quarantined]({{ site.baseurl }}/images/CUquarantinedWeb.png)
 
 ![New Tests]({{ site.baseurl }}/images/CUTestsWeb.png)
 
