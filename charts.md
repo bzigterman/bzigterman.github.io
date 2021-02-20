@@ -6,6 +6,20 @@ permalink: /charts/
 
 During the COVID-19 pandemic, I've been making charts with data for Champaign County and the University of Illinois.
 
+## Vaccines
+
+![Vaccines]({{ site.baseurl }}/images/VaccinesWeb.png)
+
+![New Vaccines]({{ site.baseurl }}/images/NewVaccinesWeb.png)
+
+![Vaccine Projection]({{ site.baseurl }}/images/VaccineProjection.png)
+
+![Nearby Counties - Dose 1]({{ site.baseurl }}/images/nearbydose1.png)
+
+![Nearby Counties - Dose 2]({{ site.baseurl }}/images/nearbydose2.png)
+
+![Nearby Counties - combined]({{ site.baseurl }}/images/nearbybothdoses.png)
+
 ## Champaign County
 
 ![Active Cases]({{ site.baseurl }}/images/CUactiveWeb.png)
@@ -41,18 +55,6 @@ During the COVID-19 pandemic, I've been making charts with data for Champaign Co
 ![Deaths](https://docs.google.com/spreadsheets/d/e/2PACX-1vTxuiLbahlulSIe_JOAof_BlK8SV5x92XJo03iUageUaQOTWrbmkZQ4rO1pBy_h0XneyMclAjO-sJq3/pubchart?oid=497400076&format=image)
 
 -->
-
-![Vaccines]({{ site.baseurl }}/images/VaccinesWeb.png)
-
-![New Vaccines]({{ site.baseurl }}/images/NewVaccinesWeb.png)
-
-![Vaccine Projection]({{ site.baseurl }}/images/VaccineProjection.png)
-
-![Nearby Counties - Dose 1]({{ site.baseurl }}/images/nearbydose1.png)
-
-![Nearby Counties - Dose 2]({{ site.baseurl }}/images/nearbydose2.png)
-
-![Nearby Counties - combined]({{ site.baseurl }}/images/nearbybothdoses.png)
 
 ## University of Illinois
 
