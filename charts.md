@@ -48,7 +48,11 @@ During the COVID-19 pandemic, I've been making charts with data for Champaign Co
 
 ![Vaccine Projection]({{ site.baseurl }}/images/VaccineProjection.png)
 
-![Nearby Counties]({{ site.baseurl }}/images/nearby.png)
+![Nearby Counties - Dose 1]({{ site.baseurl }}/images/nearbydose1.png)
+
+![Nearby Counties - Dose 2]({{ site.baseurl }}/images/nearbydose2.png)
+
+![Nearby Counties - combined]({{ site.baseurl }}/images/nearbybothdoses.png)
 
 ## University of Illinois
 
@@ -70,8 +74,8 @@ During the COVID-19 pandemic, I've been making charts with data for Champaign Co
 ![UI Test Positivity](https://docs.google.com/spreadsheets/d/e/2PACX-1vTxuiLbahlulSIe_JOAof_BlK8SV5x92XJo03iUageUaQOTWrbmkZQ4rO1pBy_h0XneyMclAjO-sJq3/pubchart?oid=653010943&format=image)
 -->
 
-## Champaign County without University of Illinois tests
-
+## Region 6 (East Central Illinois)
+<!--
 ![county positives - no UI]({{ site.baseurl }}/images/ChampaignCountyNoUICasesWeb.png)
 
 ![county tests - no UI]({{ site.baseurl }}/images/CountyTestsnoUIWeb.png)
@@ -81,10 +85,15 @@ During the COVID-19 pandemic, I've been making charts with data for Champaign Co
 ![UI positives v county positives]({{ site.baseurl }}/images/ChampaignCoCasesSplitWeb.png)
 
 ![region positivity]({{ site.baseurl }}/images/NoUIpositivityWeb.png)
+-->
+
+![Region 6 New Cases]({{ site.baseurl }}/images/region6newcases.png)
 
 ![Region 6 Hospital Beds]({{ site.baseurl }}/images/region6hospitalbeds.png)
 
+<!--
 ![state positivity without UI]({{ site.baseurl }}/images/statepositivityWeb.png)
+-->
 
 
 <!--
