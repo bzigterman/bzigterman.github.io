@@ -22,6 +22,8 @@ During the COVID-19 pandemic, I've been making charts with data for Champaign Co
 
 ## Champaign County
 
+![Key Metrics]({{ site.baseurl }}/vaccinefacets.png)
+
 ![Active Cases]({{ site.baseurl }}/images/CUactiveWeb.png)
 
 ![New Cases]({{ site.baseurl }}/images/CUCasesWeb.png)
