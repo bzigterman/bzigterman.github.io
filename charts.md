@@ -12,9 +12,11 @@ During the COVID-19 pandemic, I've been making charts with data for Champaign Co
 
 ![New Vaccines]({{ site.baseurl }}/images/NewVaccinesWeb.png)
 
+<!--
 ![Vaccine Projection]({{ site.baseurl }}/images/VaccineProjection.png)
 
 ![Fully Vaccinated Projection]({{ site.baseurl }}/images/FullVaccineProjection.png)
+-->
 
 ![Nearby Counties - Dose 1]({{ site.baseurl }}/images/nearbydose1.png)
 
