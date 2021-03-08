@@ -16,7 +16,7 @@ permalink: /resume/
 - Track SEC filings for local public companies
 - File FOIA requests
 - Analyze data using spreadsheets and pivot tables
-— Create charts using R
+- Create charts using R
 - Appear on our [news radio station](https://www.news-gazette.com/wdws/) to discuss stories I'm covering
 - Modernized our company’s podcasts by getting them moved to Apple Podcasts
 - Shot and edited a weekly agriculture video called [Friday on the Farm](http://fridayonthefarm.com)
