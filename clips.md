@@ -35,8 +35,8 @@ Here’s some of my best work:
 * April 23: [With lawsuit, Illinois AG aims to shut down Suburban Express](https://www.news-gazette.com/news/update-with-lawsuit-illinois-ag-aims-to-shut-down-suburban/article_7ffd4fda-67a5-55c0-8404-266534db0557.html)
 * March 25: [UI files suit over an alum’s ‘Make Illinois Great Again’ T-shirts](https://www.news-gazette.com/news/ui-files-suit-over-an-alum-s-make-illinois-great/article_fe1ee43d-ddea-5114-9387-b544c7e75d66.html)
 * March 6: [**For the Record: Quashed warrants**](https://www.news-gazette.com/news/for-the-record-quashed-warrants/article_d843b771-d593-5c86-9776-a47b986763c5.html)
-<!---* January 16: [Timeline: Accused kidnapper’s stops included Paxton jail, Rantoul hotel](https://www.news-gazette.com/news/timeline-accused-kidnapper-s-stops-included-paxton-jail-rantoul-hotel/article_eb0f0db5-ee94-53e6-a05f-b3eff0eb15dd.html)
-* January 16: [Accused kidnapper’s attorneys want main charge dropped, venue changed](https://www.news-gazette.com/news/accused-kidnapper-s-attorneys-want-main-charge-dropped-venue-changed/article_77cad221-1d42-5997-b82f-81652e1ace2a.html) --->
+<!--* January 16: [Timeline: Accused kidnapper’s stops included Paxton jail, Rantoul hotel](https://www.news-gazette.com/news/timeline-accused-kidnapper-s-stops-included-paxton-jail-rantoul-hotel/article_eb0f0db5-ee94-53e6-a05f-b3eff0eb15dd.html)-->
+<!--* January 16: [Accused kidnapper’s attorneys want main charge dropped, venue changed](https://www.news-gazette.com/news/accused-kidnapper-s-attorneys-want-main-charge-dropped-venue-changed/article_77cad221-1d42-5997-b82f-81652e1ace2a.html) -->
 * January 11: [**Hobbico seeking a buyer as it works through bankruptcy**](https://www.news-gazette.com/news/hobbico-seeking-a-buyer-as-it-works-through-bankruptcy/article_86f6547c-8501-517a-85cd-865af88dcfd1.html)
 
 ### 2017 
@@ -62,9 +62,9 @@ Here’s some of my best work:
 
 ### 2015
 
-* December 13: [GHS North back on chopping block](https://www.galesburg.com/article/20151213/NEWS/151219924)
-* December 13: [Workers file OSHA complaint against Cloverleaf](https://www.galesburg.com/article/20151213/NEWS/151219930)
-* November 12: [Rigorous, diverse curriculum top priority, D205 committee says](https://www.galesburg.com/article/20151112/NEWS/151119916)
+<!-- * December 13: [GHS North back on chopping block](https://www.galesburg.com/article/20151213/NEWS/151219924) -->
+<!-- * December 13: [Workers file OSHA complaint against Cloverleaf](https://www.galesburg.com/article/20151213/NEWS/151219930) -->
+<!-- * November 12: [Rigorous, diverse curriculum top priority, D205 committee says](https://www.galesburg.com/article/20151112/NEWS/151119916) -->
 * November 1: [A year after the closing of Cooke School](https://www.galesburg.com/article/20151101/NEWS/151109996)
 <!--* October 21: [Take Back the Night message: Stop blaming the victims](https://www.galesburg.com/article/20151020/NEWS/151029975)-->
 * September 29: [**District 205 officials disband budget reduction committee after challenge about closed meetings**](https://www.galesburg.com/article/20150929/NEWS/150929701)
