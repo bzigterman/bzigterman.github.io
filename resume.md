@@ -16,6 +16,7 @@ permalink: /resume/
 - Track SEC filings for local public companies
 - File FOIA requests
 - Analyze data using spreadsheets and pivot tables
+— Create charts using R
 - Appear on our [news radio station](https://www.news-gazette.com/wdws/) to discuss stories I'm covering
 - Modernized our company’s podcasts by getting them moved to Apple Podcasts
 - Shot and edited a weekly agriculture video called [Friday on the Farm](http://fridayonthefarm.com)
@@ -82,8 +83,8 @@ The University of Chicago
 
 ## Computer Skills
 
-- Experience with HTML, CSS, Git and Markdown
-- Basic knowledge of R, JavaScript and C programming languages
+- Experience with R, HTML, CSS, Git and Markdown
+- Basic knowledge of JavaScript and C programming languages
 - Skilled with spreadsheets, from making easily-legible charts to finding trends with pivot tables
 
 ## [Clips »]({{ site.baseurl }}/clips)
