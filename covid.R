@@ -532,7 +532,6 @@ This chart measures how quickly the average number of new deaths is changing, or
 sep = ""
 )
 
-
 if (champaign_avg_new_cases >= 0 && 
     champaign_dead_last_month >= 0 && 
     champaign_pct_fully_vaccinated >= 0 &&
