@@ -206,7 +206,7 @@ if (standings_the_same != TRUE) {
 
 mlb_standings <- mlb_games %>%
   filter(!is.na(team_label)) %>%
-  select(team_label, wins, losses, net_wins, win_pct, win_pct_text, games_remaining, last_ten, division, league)
+  select(logo_url, team_label, wins, losses, net_wins, win_pct, win_pct_text, games_remaining, last_ten, division, league)
 
 standings_table <- mlb_standings %>%
   group_by(division) %>%
@@ -217,22 +217,22 @@ standings_table <- mlb_standings %>%
     force_sign = TRUE,
     decimals = 0
   ) %>%
-  # text_transform(
-  #   locations = cells_body(columns = logo_url),
-  #   fn = function(logo_url) {
-  #     web_image(
-  #       url = logo_url,
-  #       height = px(12)
-  #     )
-  #   }
-  # ) %>%
+  text_transform(
+    locations = cells_body(columns = logo_url),
+    fn = function(x) {
+      web_image(
+        url = x,
+        height = px(11)
+      )
+    }
+  ) %>%
   cols_hide(columns = c(win_pct, league)) %>%
   cols_align(
     align = c("right"),
     columns = c(last_ten,win_pct_text)
   ) %>%
   cols_label(
-    #logo_url = "",
+    logo_url = "",
     team_label = "Team",
     wins = "W",
     losses = "L",
