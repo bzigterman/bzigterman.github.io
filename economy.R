@@ -625,7 +625,6 @@ ggsave("plots/champaign_housing.png",
        width = 8, height = 8*(628/1200), dpi = 320)
 
 # make web page ----
-
 web_text <- paste(
   "---
 layout: page
