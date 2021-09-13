@@ -1,0 +1,11 @@
+install.packages("tidyverse")
+install.packages("rio")
+install.packages("lubridate")
+install.packages("httr")
+install.packages("zoo")
+install.packages("gt")
+install.packages("RColorBrewer")
+install.packages("ggforce")
+install.packages("cowplot")
+install.packages("fredr")
+
