@@ -5,6 +5,7 @@ library(httr)
 library(rio)
 library(gt)
 library(cowplot)
+library(htmltools)
 library(RColorBrewer)
 
 # get data ----
@@ -206,7 +207,7 @@ if (standings_the_same != TRUE) {
 
 mlb_standings <- mlb_games %>%
   filter(!is.na(team_label)) %>%
-  select(team_label, wins, losses, net_wins, win_pct, win_pct_text, games_remaining, last_ten, division, league)
+  select(logo_url, team_label, wins, losses, net_wins, win_pct, win_pct_text, games_remaining, last_ten, division, league)
 
 standings_table <- mlb_standings %>%
   group_by(division) %>%
@@ -217,22 +218,22 @@ standings_table <- mlb_standings %>%
     force_sign = TRUE,
     decimals = 0
   ) %>%
-  # text_transform(
-  #   locations = cells_body(columns = logo_url),
-  #   fn = function(logo_url) {
-  #     web_image(
-  #       url = logo_url,
-  #       height = px(12)
-  #     )
-  #   }
-  # ) %>%
+  text_transform(
+    locations = cells_body(columns = logo_url),
+    fn = function(x) {
+      web_image(
+        url = x,
+        height = px(11)
+      )
+    }
+  ) %>%
   cols_hide(columns = c(win_pct, league)) %>%
   cols_align(
     align = c("right"),
     columns = c(last_ten,win_pct_text)
   ) %>%
   cols_label(
-    #logo_url = "",
+    logo_url = "",
     team_label = "Team",
     wins = "W",
     losses = "L",
@@ -251,7 +252,346 @@ standings_table <- mlb_standings %>%
   opt_table_lines(extent = "none") %>%
   opt_all_caps(all_caps = TRUE)
 standings_table
-standings_table_html <- as_raw_html(standings_table)
+standings_table_html <- as_raw_html(standings_table, inline_css = FALSE)
+
+## table style ----
+standings_style <- HTML("<style>html {
+  font-family: verdana, calibri, menlo, consolas, monospace, helvetica, arial, sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial;
+}
+
+#qegrqvavyc .gt_table {
+  display: table;
+  border-collapse: collapse;
+  margin-left: auto;
+  margin-right: auto;
+  color: #333333;
+  font-size: 11px;
+  font-weight: normal;
+  font-style: none;
+  background-color: #FFFFFF;
+  width: 100%;
+  border-top-style: none;
+  border-top-width: 2px;
+  border-top-color: #A8A8A8;
+  border-right-style: none;
+  border-right-width: 2px;
+  border-right-color: #D3D3D3;
+  border-bottom-style: none;
+  border-bottom-width: 2px;
+  border-bottom-color: #A8A8A8;
+  border-left-style: none;
+  border-left-width: 2px;
+  border-left-color: #D3D3D3;
+}
+
+#qegrqvavyc .gt_heading {
+  background-color: #FFFFFF;
+  text-align: center;
+  border-bottom-color: #FFFFFF;
+  border-left-style: none;
+  border-left-width: 1px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 1px;
+  border-right-color: #D3D3D3;
+}
+
+#qegrqvavyc .gt_title {
+  color: #333333;
+  font-size: 125%;
+  font-weight: initial;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  border-bottom-color: #FFFFFF;
+  border-bottom-width: 0;
+}
+
+#qegrqvavyc .gt_subtitle {
+  color: #333333;
+  font-size: 85%;
+  font-weight: initial;
+  padding-top: 0;
+  padding-bottom: 6px;
+  border-top-color: #FFFFFF;
+  border-top-width: 0;
+}
+
+#qegrqvavyc .gt_bottom_border {
+  border-bottom-style: none;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+}
+
+#qegrqvavyc .gt_col_headings {
+  border-top-style: none;
+  border-top-width: 2px;
+  border-top-color: #D3D3D3;
+  border-bottom-style: none;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  border-left-style: none;
+  border-left-width: 1px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 1px;
+  border-right-color: #D3D3D3;
+}
+
+#qegrqvavyc .gt_col_heading {
+  color: #333333;
+  background-color: #FFFFFF;
+  font-size: 80%;
+  font-weight: bolder;
+  text-transform: uppercase;
+  border-left-style: none;
+  border-left-width: 1px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 1px;
+  border-right-color: #D3D3D3;
+  vertical-align: bottom;
+  padding-top: 5px;
+  padding-bottom: 6px;
+  padding-left: 5px;
+  padding-right: 5px;
+  overflow-x: hidden;
+}
+
+#qegrqvavyc .gt_column_spanner_outer {
+  color: #333333;
+  background-color: #FFFFFF;
+  font-size: 80%;
+  font-weight: bolder;
+  text-transform: uppercase;
+  padding-top: 0;
+  padding-bottom: 0;
+  padding-left: 4px;
+  padding-right: 4px;
+}
+
+#qegrqvavyc .gt_column_spanner_outer:first-child {
+  padding-left: 0;
+}
+
+#qegrqvavyc .gt_column_spanner_outer:last-child {
+  padding-right: 0;
+}
+
+#qegrqvavyc .gt_column_spanner {
+  border-bottom-style: none;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  vertical-align: bottom;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  overflow-x: hidden;
+  display: inline-block;
+  width: 100%;
+}
+
+#qegrqvavyc .gt_group_heading {
+  padding: 8px;
+  color: #333333;
+  background-color: #FFFFFF;
+  font-size: 80%;
+  font-weight: bolder;
+  text-transform: uppercase;
+  border-top-style: none;
+  border-top-width: 2px;
+  border-top-color: #D3D3D3;
+  border-bottom-style: none;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  border-left-style: none;
+  border-left-width: 1px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 1px;
+  border-right-color: #D3D3D3;
+  vertical-align: middle;
+}
+
+#qegrqvavyc .gt_empty_group_heading {
+  padding: 0.5px;
+  color: #333333;
+  background-color: #FFFFFF;
+  font-size: 80%;
+  font-weight: bolder;
+  border-top-style: none;
+  border-top-width: 2px;
+  border-top-color: #D3D3D3;
+  border-bottom-style: none;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  vertical-align: middle;
+}
+
+#qegrqvavyc .gt_from_md > :first-child {
+  margin-top: 0;
+}
+
+#qegrqvavyc .gt_from_md > :last-child {
+  margin-bottom: 0;
+}
+
+#qegrqvavyc .gt_row {
+  padding-top: 3px;
+  padding-bottom: 3px;
+  padding-left: 5px;
+  padding-right: 5px;
+  margin: 10px;
+  border-top-style: none;
+  border-top-width: 1px;
+  border-top-color: #D3D3D3;
+  border-left-style: none;
+  border-left-width: 1px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 1px;
+  border-right-color: #D3D3D3;
+  vertical-align: middle;
+  overflow-x: hidden;
+}
+
+#qegrqvavyc .gt_stub {
+  color: #333333;
+  background-color: #FFFFFF;
+  font-size: 80%;
+  font-weight: bolder;
+  text-transform: uppercase;
+  border-right-style: none;
+  border-right-width: 2px;
+  border-right-color: #D3D3D3;
+  padding-left: 12px;
+}
+
+#qegrqvavyc .gt_summary_row {
+  color: #333333;
+  background-color: #FFFFFF;
+  text-transform: inherit;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+#qegrqvavyc .gt_first_summary_row {
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 5px;
+  padding-right: 5px;
+  border-top-style: none;
+  border-top-width: 2px;
+  border-top-color: #D3D3D3;
+}
+
+#qegrqvavyc .gt_grand_summary_row {
+  color: #333333;
+  background-color: #FFFFFF;
+  text-transform: inherit;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+#qegrqvavyc .gt_first_grand_summary_row {
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 5px;
+  padding-right: 5px;
+  border-top-style: none;
+  border-top-width: 6px;
+  border-top-color: #D3D3D3;
+}
+
+#qegrqvavyc .gt_striped {
+  background-color: rgba(128, 128, 128, 0.05);
+}
+
+#qegrqvavyc .gt_table_body {
+  border-top-style: none;
+  border-top-width: 2px;
+  border-top-color: #D3D3D3;
+  border-bottom-style: none;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+}
+
+#qegrqvavyc .gt_footnotes {
+  color: #333333;
+  background-color: #FFFFFF;
+  border-bottom-style: none;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  border-left-style: none;
+  border-left-width: 2px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 2px;
+  border-right-color: #D3D3D3;
+}
+
+#qegrqvavyc .gt_footnote {
+  margin: 0px;
+  font-size: 90%;
+  padding: 4px;
+}
+
+#qegrqvavyc .gt_sourcenotes {
+  color: #333333;
+  background-color: #FFFFFF;
+  border-bottom-style: none;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  border-left-style: none;
+  border-left-width: 2px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 2px;
+  border-right-color: #D3D3D3;
+}
+
+#qegrqvavyc .gt_sourcenote {
+  font-size: 90%;
+  padding: 4px;
+}
+
+#qegrqvavyc .gt_left {
+  text-align: left;
+}
+
+#qegrqvavyc .gt_center {
+  text-align: center;
+}
+
+#qegrqvavyc .gt_right {
+  text-align: right;
+  font-variant-numeric: tabular-nums;
+}
+
+#qegrqvavyc .gt_font_normal {
+  font-weight: normal;
+}
+
+#qegrqvavyc .gt_font_bold {
+  font-weight: bold;
+}
+
+#qegrqvavyc .gt_font_italic {
+  font-style: italic;
+}
+
+#qegrqvavyc .gt_super {
+  font-size: 65%;
+}
+
+#qegrqvavyc .gt_footnote_marks {
+  font-style: italic;
+  font-weight: normal;
+  font-size: 65%;
+}
+</style>")
 
 # games above 500 plots ----
 standings_plot <- function(division) {
@@ -316,21 +656,21 @@ ggsave("plots/nl_west_wins_losses.png",
 # wild card standings ----
 mlb_standings <- mlb_games %>%
   filter(!is.na(team_label)) %>%
-  select(team_label, wins, losses, net_wins, win_pct, win_pct_text, games_remaining, last_ten, division, league)
+  select(logo_url, team_label, wins, losses, net_wins, win_pct, win_pct_text, games_remaining, last_ten, division, league)
 
 wild_card_table <- mlb_standings %>%
   group_by(league) %>%
   arrange(league,desc(win_pct)) %>%
   gt() %>%
-  # text_transform(
-  #   locations = cells_body(columns = logo_url),
-  #   fn = function(logo_url) {
-  #     web_image(
-  #       url = logo_url,
-  #       height = px(12)
-  #     )
-  #   }
-  # ) %>%
+  text_transform(
+    locations = cells_body(columns = logo_url),
+    fn = function(x) {
+      web_image(
+        url = x,
+        height = px(11)
+      )
+    }
+  ) %>%
   cols_hide(columns = c(win_pct, division)) %>%
   fmt_number(
     columns = net_wins,
@@ -342,7 +682,7 @@ wild_card_table <- mlb_standings %>%
     columns = c(last_ten,win_pct_text)
   ) %>%
   cols_label(
-    #logo_url = "",
+    logo_url = "",
     team_label = "Team",
     wins = "W",
     losses = "L",
@@ -361,7 +701,7 @@ wild_card_table <- mlb_standings %>%
   opt_table_lines(extent = "none") %>%
   opt_all_caps(all_caps = TRUE)
 wild_card_table
-wild_card_table_html <- as_raw_html(wild_card_table)
+wild_card_table_html <- as_raw_html(wild_card_table, inline_css = FALSE)
 
 # wild card plot ----
 mlb_min <-  .9*min(mlb_standings$win_pct)
@@ -475,7 +815,7 @@ title: Baseball
 permalink: /charts/baseball/
 ---
 
-",standings_table_html,"
+",standings_style,standings_table_html,"
 
 ### AL Central
 
@@ -503,7 +843,7 @@ permalink: /charts/baseball/
 
 ## Wild Card
 
-",wild_card_table_html,"
+",standings_style,wild_card_table_html,"
 
 ![Wild Card]({{ site.baseurl }}/plots/mlb_team_rank.png)
 

@@ -6,6 +6,7 @@ install.packages("zoo")
 install.packages("gt")
 install.packages("RColorBrewer")
 install.packages("ggforce")
+install.packages("htmltools")
 install.packages("cowplot")
 install.packages("fredr")
 
