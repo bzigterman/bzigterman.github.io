@@ -10,3 +10,5 @@ install.packages("htmltools")
 install.packages("cowplot")
 install.packages("fredr")
 
+install.packages("remotes")
+remotes::install_github("jthomasmock/gtExtras")

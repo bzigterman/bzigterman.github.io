@@ -58,18 +58,11 @@ get_team_records <- function(abbreviation) {
                             lag(result_arrow),
                             result_arrow,
                             sep = "")) %>%
-    mutate(outcomes = (list(na.omit(win)))) %>%
-    mutate(last_ten_num = paste(lag(win,9),
-                                lag(win,8),
-                                lag(win,7),
-                                lag(win,6),
-                                lag(win,5),
-                                lag(win,4),
-                                lag(win,3),
-                                lag(win,2),
-                                lag(win),
-                                win,
-                                sep = ""))
+    mutate(
+      outcomes = list(
+        tail(na.omit(win),10)
+      )
+    )
 }
 
 ## al central ----
@@ -195,7 +188,7 @@ nl_games <- full_join(nl_central, nl_east) %>%
 
 mlb_games <- full_join(al_games, nl_games)
 
-# division standings check ----
+# standings check ----
 old_standings <- read_csv("data/standings.csv",
                           col_types = cols(
                             league = col_character(),
@@ -221,17 +214,14 @@ if (standings_the_same != TRUE) {
 # division standings ----
 mlb_standings <- mlb_games %>%
   filter(!is.na(team_label)) %>%
-  select(logo_url, team_label, wins, losses, net_wins, win_pct, win_pct_text, games_remaining,last_ten,last_ten_num, outcomes, division, league)# %>%
-  mutate(new_outcomes = tail(outcomes[[1]],10))
-tail(na.omit(mlb_standings$outcomes[[1]]),10)
-team1$outcomes[[1]]
-tail(mlb_standings$outcomes,10)
+  select(logo_url, team_label, wins, losses, net_wins, win_pct, win_pct_text, games_remaining,last_ten, outcomes, division, league)
 
 standings_table <- mlb_standings %>%
   group_by(division) %>%
   arrange(division,desc(win_pct)) %>%
   gt() %>%
-  gt_plt_winloss(outcomes, max_wins = 10) %>%
+  gt_plt_winloss(outcomes, max_wins = 10,
+                 type = "pill") %>%
   fmt_number(
     columns = net_wins,
     force_sign = TRUE,
@@ -246,10 +236,10 @@ standings_table <- mlb_standings %>%
       )
     }
   ) %>%
-  cols_hide(columns = c(win_pct, league,last_ten_num)) %>%
+  cols_hide(columns = c(win_pct, league,last_ten)) %>%
   cols_align(
     align = c("right"),
-    columns = c(last_ten,win_pct_text, logo_url)
+    columns = c(last_ten,win_pct_text, logo_url, outcomes)
   ) %>%
   cols_label(
     logo_url = "",
@@ -259,13 +249,13 @@ standings_table <- mlb_standings %>%
     net_wins = html("Games<br>Above<br>.500"),
     win_pct_text = "Pct",
     games_remaining = html("Games<br>Left"),
-    last_ten = html("Last 10<br>Games")
+    outcomes = html("Last 10<br>Games")
   ) %>%
   opt_table_font(font = c("verdana","calibri","menlo","consolas","monospace","helvetica", "arial", "sans-serif")) %>%
   opt_row_striping(row_striping = TRUE) %>%
   tab_options(
     table.width = pct(100),
-    data_row.padding = px(5),
+    data_row.padding = px(3),
     table.font.size = px(11)
   )  %>%
   opt_table_lines(extent = "none") %>%
@@ -336,12 +326,14 @@ ggsave("plots/nl_west_wins_losses.png",
 # wild card standings ----
 mlb_standings <- mlb_games %>%
   filter(!is.na(team_label)) %>%
-  select(logo_url, team_label, wins, losses, net_wins, win_pct, win_pct_text, games_remaining, last_ten, division, league)
+  select(logo_url, team_label, wins, losses, net_wins, win_pct, win_pct_text, games_remaining, last_ten, division, league, outcomes)
 
 wild_card_table <- mlb_standings %>%
   group_by(league) %>%
   arrange(league,desc(win_pct)) %>%
   gt() %>%
+  gt_plt_winloss(outcomes, max_wins = 10,
+                 type = "pill") %>%
   text_transform(
     locations = cells_body(columns = logo_url),
     fn = function(x) {
@@ -351,7 +343,7 @@ wild_card_table <- mlb_standings %>%
       )
     }
   ) %>%
-  cols_hide(columns = c(win_pct, division)) %>%
+  cols_hide(columns = c(win_pct, division, last_ten)) %>%
   fmt_number(
     columns = net_wins,
     force_sign = TRUE,
@@ -359,7 +351,7 @@ wild_card_table <- mlb_standings %>%
   ) %>%
   cols_align(
     align = c("right"),
-    columns = c(last_ten,win_pct_text, logo_url)
+    columns = c(last_ten,win_pct_text, logo_url, outcomes)
   ) %>%
   cols_label(
     logo_url = "",
@@ -369,7 +361,7 @@ wild_card_table <- mlb_standings %>%
     net_wins = html("Games<br>Above<br>.500"),
     win_pct_text = "Pct",
     games_remaining = html("Games<br>Left"),
-    last_ten = html("Last 10<br>Games")
+    outcomes = html("Last 10<br>Games")
   ) %>%
   opt_table_font(font = c("verdana","calibri","menlo","consolas","monospace","helvetica", "arial", "sans-serif")) %>%
   opt_row_striping(row_striping = TRUE) %>%
