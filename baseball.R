@@ -12,6 +12,7 @@ library(gtExtras)
 # get data ----
 fivethirtyeight_data_url <- "https://projects.fivethirtyeight.com/mlb-api/mlb_elo_latest.csv"
 fivethirtyeight_data <- rio::import(fivethirtyeight_data_url, format = "csv") %>%
+  filter(is.na(playoff)) %>%
   arrange(date) 
 get_team_records <- function(abbreviation) {
   records <- fivethirtyeight_data %>%
@@ -27,7 +28,7 @@ get_team_records <- function(abbreviation) {
     mutate(game_counter = if_else(result == "W",1,if_else(result == "L",1,NULL))) %>%
     mutate(wins = cumsum(win)) %>%
     mutate(losses = cumsum(loss)) %>%
-    mutate(win_pct = wins/row_number()) %>%
+    mutate(win_pct = wins/game_n) %>%
     mutate(win_pct_text = paste(".",round(win_pct*1000),sep = "")) %>%
     mutate(net_wins = wins-losses) %>%
     mutate(team = case_when(
@@ -43,7 +44,7 @@ get_team_records <- function(abbreviation) {
     )
     ) %>%
     mutate(games_played = cumsum(game_counter)) %>%
-    mutate(games_remaining = sum(is.na(result))) %>%
+    mutate(games_remaining = 162-games_played) %>%
     mutate(team_label = if_else(games_played == max(na.omit(games_played)),team,NULL))  %>%
     mutate(result_arrow = if_else(result == "W","▀",
                                   if_else(result == "L","▄",""))) %>%
