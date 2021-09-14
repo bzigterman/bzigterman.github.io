@@ -4,12 +4,12 @@ title: Baseball
 permalink: /charts/baseball/
 ---
 
-<div id="gmdmfeccoi" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="zcyboqcghi" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
   <style>html {
   font-family: verdana, calibri, menlo, consolas, monospace, helvetica, arial, sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial;
 }
 
-#gmdmfeccoi .gt_table {
+#zcyboqcghi .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -34,7 +34,7 @@ permalink: /charts/baseball/
   border-left-color: #D3D3D3;
 }
 
-#gmdmfeccoi .gt_heading {
+#zcyboqcghi .gt_heading {
   background-color: #FFFFFF;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -46,7 +46,7 @@ permalink: /charts/baseball/
   border-right-color: #D3D3D3;
 }
 
-#gmdmfeccoi .gt_title {
+#zcyboqcghi .gt_title {
   color: #333333;
   font-size: 125%;
   font-weight: initial;
@@ -56,7 +56,7 @@ permalink: /charts/baseball/
   border-bottom-width: 0;
 }
 
-#gmdmfeccoi .gt_subtitle {
+#zcyboqcghi .gt_subtitle {
   color: #333333;
   font-size: 85%;
   font-weight: initial;
@@ -66,13 +66,13 @@ permalink: /charts/baseball/
   border-top-width: 0;
 }
 
-#gmdmfeccoi .gt_bottom_border {
+#zcyboqcghi .gt_bottom_border {
   border-bottom-style: none;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#gmdmfeccoi .gt_col_headings {
+#zcyboqcghi .gt_col_headings {
   border-top-style: none;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -87,7 +87,7 @@ permalink: /charts/baseball/
   border-right-color: #D3D3D3;
 }
 
-#gmdmfeccoi .gt_col_heading {
+#zcyboqcghi .gt_col_heading {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 80%;
@@ -107,7 +107,7 @@ permalink: /charts/baseball/
   overflow-x: hidden;
 }
 
-#gmdmfeccoi .gt_column_spanner_outer {
+#zcyboqcghi .gt_column_spanner_outer {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 80%;
@@ -119,15 +119,15 @@ permalink: /charts/baseball/
   padding-right: 4px;
 }
 
-#gmdmfeccoi .gt_column_spanner_outer:first-child {
+#zcyboqcghi .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#gmdmfeccoi .gt_column_spanner_outer:last-child {
+#zcyboqcghi .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#gmdmfeccoi .gt_column_spanner {
+#zcyboqcghi .gt_column_spanner {
   border-bottom-style: none;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -139,7 +139,7 @@ permalink: /charts/baseball/
   width: 100%;
 }
 
-#gmdmfeccoi .gt_group_heading {
+#zcyboqcghi .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -161,7 +161,7 @@ permalink: /charts/baseball/
   vertical-align: middle;
 }
 
-#gmdmfeccoi .gt_empty_group_heading {
+#zcyboqcghi .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -176,15 +176,15 @@ permalink: /charts/baseball/
   vertical-align: middle;
 }
 
-#gmdmfeccoi .gt_from_md > :first-child {
+#zcyboqcghi .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#gmdmfeccoi .gt_from_md > :last-child {
+#zcyboqcghi .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#gmdmfeccoi .gt_row {
+#zcyboqcghi .gt_row {
   padding-top: 3px;
   padding-bottom: 3px;
   padding-left: 5px;
@@ -203,7 +203,7 @@ permalink: /charts/baseball/
   overflow-x: hidden;
 }
 
-#gmdmfeccoi .gt_stub {
+#zcyboqcghi .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 80%;
@@ -215,7 +215,7 @@ permalink: /charts/baseball/
   padding-left: 12px;
 }
 
-#gmdmfeccoi .gt_summary_row {
+#zcyboqcghi .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -225,7 +225,7 @@ permalink: /charts/baseball/
   padding-right: 5px;
 }
 
-#gmdmfeccoi .gt_first_summary_row {
+#zcyboqcghi .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -235,7 +235,7 @@ permalink: /charts/baseball/
   border-top-color: #D3D3D3;
 }
 
-#gmdmfeccoi .gt_grand_summary_row {
+#zcyboqcghi .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -245,7 +245,7 @@ permalink: /charts/baseball/
   padding-right: 5px;
 }
 
-#gmdmfeccoi .gt_first_grand_summary_row {
+#zcyboqcghi .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -255,11 +255,11 @@ permalink: /charts/baseball/
   border-top-color: #D3D3D3;
 }
 
-#gmdmfeccoi .gt_striped {
+#zcyboqcghi .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#gmdmfeccoi .gt_table_body {
+#zcyboqcghi .gt_table_body {
   border-top-style: none;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -268,7 +268,7 @@ permalink: /charts/baseball/
   border-bottom-color: #D3D3D3;
 }
 
-#gmdmfeccoi .gt_footnotes {
+#zcyboqcghi .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -282,13 +282,13 @@ permalink: /charts/baseball/
   border-right-color: #D3D3D3;
 }
 
-#gmdmfeccoi .gt_footnote {
+#zcyboqcghi .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#gmdmfeccoi .gt_sourcenotes {
+#zcyboqcghi .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -302,41 +302,41 @@ permalink: /charts/baseball/
   border-right-color: #D3D3D3;
 }
 
-#gmdmfeccoi .gt_sourcenote {
+#zcyboqcghi .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#gmdmfeccoi .gt_left {
+#zcyboqcghi .gt_left {
   text-align: left;
 }
 
-#gmdmfeccoi .gt_center {
+#zcyboqcghi .gt_center {
   text-align: center;
 }
 
-#gmdmfeccoi .gt_right {
+#zcyboqcghi .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#gmdmfeccoi .gt_font_normal {
+#zcyboqcghi .gt_font_normal {
   font-weight: normal;
 }
 
-#gmdmfeccoi .gt_font_bold {
+#zcyboqcghi .gt_font_bold {
   font-weight: bold;
 }
 
-#gmdmfeccoi .gt_font_italic {
+#zcyboqcghi .gt_font_italic {
   font-style: italic;
 }
 
-#gmdmfeccoi .gt_super {
+#zcyboqcghi .gt_super {
   font-size: 65%;
 }
 
-#gmdmfeccoi .gt_footnote_marks {
+#zcyboqcghi .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -406,35 +406,35 @@ permalink: /charts/baseball/
     <tr><td class="gt_row gt_right gt_striped"><img src="https://www.mlbstatic.com/team-logos/139.svg" style="height:11px;"></td>
 <td class="gt_row gt_left gt_striped">TB </td>
 <td class="gt_row gt_right gt_striped">89</td>
-<td class="gt_row gt_right gt_striped">54</td>
-<td class="gt_row gt_right gt_striped">+35</td>
-<td class="gt_row gt_right gt_striped">.622</td>
-<td class="gt_row gt_right gt_striped">19</td>
-<td class="gt_row gt_right gt_striped"><?xml version='1.0' encoding='UTF-8' ?><svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='64.80pt' height='10.80pt' viewBox='0 0 64.80 10.80'><defs>  <style type='text/css'><![CDATA[    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {      fill: none;      stroke: #000000;      stroke-linecap: round;      stroke-linejoin: round;      stroke-miterlimit: 10.00;    }  ]]></style></defs><rect width='100%' height='100%' style='stroke: none; fill: none;'/><defs>  <clipPath id='cpMC4wMHw2NC44MHwwLjAwfDEwLjgw'>    <rect x='0.00' y='0.00' width='64.80' height='10.80' />  </clipPath></defs><g clip-path='url(#cpMC4wMHw2NC44MHwwLjAwfDEwLjgw)'><line x1='5.89' y1='8.91' x2='5.89' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='11.78' y1='1.89' x2='11.78' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='17.67' y1='1.89' x2='17.67' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='23.56' y1='8.91' x2='23.56' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='29.45' y1='1.89' x2='29.45' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='35.35' y1='1.89' x2='35.35' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='41.24' y1='8.91' x2='41.24' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='47.13' y1='8.91' x2='47.13' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='53.02' y1='1.89' x2='53.02' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='58.91' y1='8.91' x2='58.91' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /></g></svg></td></tr>
+<td class="gt_row gt_right gt_striped">55</td>
+<td class="gt_row gt_right gt_striped">+34</td>
+<td class="gt_row gt_right gt_striped">.618</td>
+<td class="gt_row gt_right gt_striped">18</td>
+<td class="gt_row gt_right gt_striped"><?xml version='1.0' encoding='UTF-8' ?><svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='64.80pt' height='10.80pt' viewBox='0 0 64.80 10.80'><defs>  <style type='text/css'><![CDATA[    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {      fill: none;      stroke: #000000;      stroke-linecap: round;      stroke-linejoin: round;      stroke-miterlimit: 10.00;    }  ]]></style></defs><rect width='100%' height='100%' style='stroke: none; fill: none;'/><defs>  <clipPath id='cpMC4wMHw2NC44MHwwLjAwfDEwLjgw'>    <rect x='0.00' y='0.00' width='64.80' height='10.80' />  </clipPath></defs><g clip-path='url(#cpMC4wMHw2NC44MHwwLjAwfDEwLjgw)'><line x1='5.89' y1='1.89' x2='5.89' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='11.78' y1='1.89' x2='11.78' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='17.67' y1='8.91' x2='17.67' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='23.56' y1='1.89' x2='23.56' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='29.45' y1='1.89' x2='29.45' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='35.35' y1='8.91' x2='35.35' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='41.24' y1='8.91' x2='41.24' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='47.13' y1='1.89' x2='47.13' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='53.02' y1='8.91' x2='53.02' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='58.91' y1='8.91' x2='58.91' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /></g></svg></td></tr>
     <tr><td class="gt_row gt_right"><img src="https://www.mlbstatic.com/team-logos/141.svg" style="height:11px;"></td>
 <td class="gt_row gt_left">TOR</td>
-<td class="gt_row gt_right">80</td>
+<td class="gt_row gt_right">81</td>
 <td class="gt_row gt_right">63</td>
-<td class="gt_row gt_right">+17</td>
-<td class="gt_row gt_right">.559</td>
-<td class="gt_row gt_right">19</td>
-<td class="gt_row gt_right"><?xml version='1.0' encoding='UTF-8' ?><svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='64.80pt' height='10.80pt' viewBox='0 0 64.80 10.80'><defs>  <style type='text/css'><![CDATA[    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {      fill: none;      stroke: #000000;      stroke-linecap: round;      stroke-linejoin: round;      stroke-miterlimit: 10.00;    }  ]]></style></defs><rect width='100%' height='100%' style='stroke: none; fill: none;'/><defs>  <clipPath id='cpMC4wMHw2NC44MHwwLjAwfDEwLjgw'>    <rect x='0.00' y='0.00' width='64.80' height='10.80' />  </clipPath></defs><g clip-path='url(#cpMC4wMHw2NC44MHwwLjAwfDEwLjgw)'><line x1='5.89' y1='1.89' x2='5.89' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='11.78' y1='1.89' x2='11.78' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='17.67' y1='1.89' x2='17.67' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='23.56' y1='1.89' x2='23.56' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='29.45' y1='1.89' x2='29.45' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='35.35' y1='1.89' x2='35.35' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='41.24' y1='8.91' x2='41.24' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='47.13' y1='1.89' x2='47.13' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='53.02' y1='1.89' x2='53.02' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='58.91' y1='1.89' x2='58.91' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /></g></svg></td></tr>
-    <tr><td class="gt_row gt_right gt_striped"><img src="https://www.mlbstatic.com/team-logos/111.svg" style="height:11px;"></td>
-<td class="gt_row gt_left gt_striped">BOS</td>
-<td class="gt_row gt_right gt_striped">81</td>
-<td class="gt_row gt_right gt_striped">64</td>
-<td class="gt_row gt_right gt_striped">+17</td>
-<td class="gt_row gt_right gt_striped">.559</td>
-<td class="gt_row gt_right gt_striped">17</td>
-<td class="gt_row gt_right gt_striped"><?xml version='1.0' encoding='UTF-8' ?><svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='64.80pt' height='10.80pt' viewBox='0 0 64.80 10.80'><defs>  <style type='text/css'><![CDATA[    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {      fill: none;      stroke: #000000;      stroke-linecap: round;      stroke-linejoin: round;      stroke-miterlimit: 10.00;    }  ]]></style></defs><rect width='100%' height='100%' style='stroke: none; fill: none;'/><defs>  <clipPath id='cpMC4wMHw2NC44MHwwLjAwfDEwLjgw'>    <rect x='0.00' y='0.00' width='64.80' height='10.80' />  </clipPath></defs><g clip-path='url(#cpMC4wMHw2NC44MHwwLjAwfDEwLjgw)'><line x1='5.89' y1='1.89' x2='5.89' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='11.78' y1='1.89' x2='11.78' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='17.67' y1='1.89' x2='17.67' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='23.56' y1='8.91' x2='23.56' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='29.45' y1='8.91' x2='29.45' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='35.35' y1='8.91' x2='35.35' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='41.24' y1='1.89' x2='41.24' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='47.13' y1='8.91' x2='47.13' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='53.02' y1='1.89' x2='53.02' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='58.91' y1='8.91' x2='58.91' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /></g></svg></td></tr>
-    <tr><td class="gt_row gt_right"><img src="https://www.mlbstatic.com/team-logos/147.svg" style="height:11px;"></td>
-<td class="gt_row gt_left">NYY</td>
-<td class="gt_row gt_right">80</td>
-<td class="gt_row gt_right">64</td>
-<td class="gt_row gt_right">+16</td>
-<td class="gt_row gt_right">.556</td>
+<td class="gt_row gt_right">+18</td>
+<td class="gt_row gt_right">.562</td>
 <td class="gt_row gt_right">18</td>
-<td class="gt_row gt_right"><?xml version='1.0' encoding='UTF-8' ?><svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='64.80pt' height='10.80pt' viewBox='0 0 64.80 10.80'><defs>  <style type='text/css'><![CDATA[    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {      fill: none;      stroke: #000000;      stroke-linecap: round;      stroke-linejoin: round;      stroke-miterlimit: 10.00;    }  ]]></style></defs><rect width='100%' height='100%' style='stroke: none; fill: none;'/><defs>  <clipPath id='cpMC4wMHw2NC44MHwwLjAwfDEwLjgw'>    <rect x='0.00' y='0.00' width='64.80' height='10.80' />  </clipPath></defs><g clip-path='url(#cpMC4wMHw2NC44MHwwLjAwfDEwLjgw)'><line x1='5.89' y1='8.91' x2='5.89' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='11.78' y1='8.91' x2='11.78' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='17.67' y1='8.91' x2='17.67' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='23.56' y1='8.91' x2='23.56' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='29.45' y1='8.91' x2='29.45' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='35.35' y1='8.91' x2='35.35' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='41.24' y1='8.91' x2='41.24' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='47.13' y1='1.89' x2='47.13' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='53.02' y1='8.91' x2='53.02' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='58.91' y1='1.89' x2='58.91' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /></g></svg></td></tr>
+<td class="gt_row gt_right"><?xml version='1.0' encoding='UTF-8' ?><svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='64.80pt' height='10.80pt' viewBox='0 0 64.80 10.80'><defs>  <style type='text/css'><![CDATA[    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {      fill: none;      stroke: #000000;      stroke-linecap: round;      stroke-linejoin: round;      stroke-miterlimit: 10.00;    }  ]]></style></defs><rect width='100%' height='100%' style='stroke: none; fill: none;'/><defs>  <clipPath id='cpMC4wMHw2NC44MHwwLjAwfDEwLjgw'>    <rect x='0.00' y='0.00' width='64.80' height='10.80' />  </clipPath></defs><g clip-path='url(#cpMC4wMHw2NC44MHwwLjAwfDEwLjgw)'><line x1='5.89' y1='1.89' x2='5.89' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='11.78' y1='1.89' x2='11.78' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='17.67' y1='1.89' x2='17.67' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='23.56' y1='1.89' x2='23.56' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='29.45' y1='1.89' x2='29.45' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='35.35' y1='8.91' x2='35.35' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='41.24' y1='1.89' x2='41.24' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='47.13' y1='1.89' x2='47.13' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='53.02' y1='1.89' x2='53.02' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='58.91' y1='1.89' x2='58.91' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /></g></svg></td></tr>
+    <tr><td class="gt_row gt_right gt_striped"><img src="https://www.mlbstatic.com/team-logos/147.svg" style="height:11px;"></td>
+<td class="gt_row gt_left gt_striped">NYY</td>
+<td class="gt_row gt_right gt_striped">80</td>
+<td class="gt_row gt_right gt_striped">64</td>
+<td class="gt_row gt_right gt_striped">+16</td>
+<td class="gt_row gt_right gt_striped">.556</td>
+<td class="gt_row gt_right gt_striped">18</td>
+<td class="gt_row gt_right gt_striped"><?xml version='1.0' encoding='UTF-8' ?><svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='64.80pt' height='10.80pt' viewBox='0 0 64.80 10.80'><defs>  <style type='text/css'><![CDATA[    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {      fill: none;      stroke: #000000;      stroke-linecap: round;      stroke-linejoin: round;      stroke-miterlimit: 10.00;    }  ]]></style></defs><rect width='100%' height='100%' style='stroke: none; fill: none;'/><defs>  <clipPath id='cpMC4wMHw2NC44MHwwLjAwfDEwLjgw'>    <rect x='0.00' y='0.00' width='64.80' height='10.80' />  </clipPath></defs><g clip-path='url(#cpMC4wMHw2NC44MHwwLjAwfDEwLjgw)'><line x1='5.89' y1='8.91' x2='5.89' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='11.78' y1='8.91' x2='11.78' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='17.67' y1='8.91' x2='17.67' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='23.56' y1='8.91' x2='23.56' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='29.45' y1='8.91' x2='29.45' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='35.35' y1='8.91' x2='35.35' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='41.24' y1='8.91' x2='41.24' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='47.13' y1='1.89' x2='47.13' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='53.02' y1='8.91' x2='53.02' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='58.91' y1='1.89' x2='58.91' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /></g></svg></td></tr>
+    <tr><td class="gt_row gt_right"><img src="https://www.mlbstatic.com/team-logos/111.svg" style="height:11px;"></td>
+<td class="gt_row gt_left">BOS</td>
+<td class="gt_row gt_right">81</td>
+<td class="gt_row gt_right">65</td>
+<td class="gt_row gt_right">+16</td>
+<td class="gt_row gt_right">.555</td>
+<td class="gt_row gt_right">16</td>
+<td class="gt_row gt_right"><?xml version='1.0' encoding='UTF-8' ?><svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='64.80pt' height='10.80pt' viewBox='0 0 64.80 10.80'><defs>  <style type='text/css'><![CDATA[    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {      fill: none;      stroke: #000000;      stroke-linecap: round;      stroke-linejoin: round;      stroke-miterlimit: 10.00;    }  ]]></style></defs><rect width='100%' height='100%' style='stroke: none; fill: none;'/><defs>  <clipPath id='cpMC4wMHw2NC44MHwwLjAwfDEwLjgw'>    <rect x='0.00' y='0.00' width='64.80' height='10.80' />  </clipPath></defs><g clip-path='url(#cpMC4wMHw2NC44MHwwLjAwfDEwLjgw)'><line x1='5.89' y1='1.89' x2='5.89' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='11.78' y1='1.89' x2='11.78' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='17.67' y1='8.91' x2='17.67' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='23.56' y1='8.91' x2='23.56' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='29.45' y1='8.91' x2='29.45' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='35.35' y1='1.89' x2='35.35' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='41.24' y1='8.91' x2='41.24' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='47.13' y1='1.89' x2='47.13' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='53.02' y1='8.91' x2='53.02' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='58.91' y1='8.91' x2='58.91' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /></g></svg></td></tr>
     <tr><td class="gt_row gt_right gt_striped"><img src="https://www.mlbstatic.com/team-logos/110.svg" style="height:11px;"></td>
 <td class="gt_row gt_left gt_striped">BAL</td>
 <td class="gt_row gt_right gt_striped">46</td>
@@ -448,28 +448,28 @@ permalink: /charts/baseball/
     </tr>
     <tr><td class="gt_row gt_right"><img src="https://www.mlbstatic.com/team-logos/117.svg" style="height:11px;"></td>
 <td class="gt_row gt_left">HOU</td>
-<td class="gt_row gt_right">83</td>
+<td class="gt_row gt_right">84</td>
 <td class="gt_row gt_right">59</td>
-<td class="gt_row gt_right">+24</td>
-<td class="gt_row gt_right">.585</td>
-<td class="gt_row gt_right">20</td>
-<td class="gt_row gt_right"><?xml version='1.0' encoding='UTF-8' ?><svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='64.80pt' height='10.80pt' viewBox='0 0 64.80 10.80'><defs>  <style type='text/css'><![CDATA[    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {      fill: none;      stroke: #000000;      stroke-linecap: round;      stroke-linejoin: round;      stroke-miterlimit: 10.00;    }  ]]></style></defs><rect width='100%' height='100%' style='stroke: none; fill: none;'/><defs>  <clipPath id='cpMC4wMHw2NC44MHwwLjAwfDEwLjgw'>    <rect x='0.00' y='0.00' width='64.80' height='10.80' />  </clipPath></defs><g clip-path='url(#cpMC4wMHw2NC44MHwwLjAwfDEwLjgw)'><line x1='5.89' y1='8.91' x2='5.89' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='11.78' y1='1.89' x2='11.78' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='17.67' y1='8.91' x2='17.67' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='23.56' y1='8.91' x2='23.56' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='29.45' y1='1.89' x2='29.45' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='35.35' y1='1.89' x2='35.35' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='41.24' y1='8.91' x2='41.24' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='47.13' y1='1.89' x2='47.13' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='53.02' y1='8.91' x2='53.02' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='58.91' y1='1.89' x2='58.91' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /></g></svg></td></tr>
-    <tr><td class="gt_row gt_right gt_striped"><img src="https://www.mlbstatic.com/team-logos/133.svg" style="height:11px;"></td>
-<td class="gt_row gt_left gt_striped">OAK</td>
-<td class="gt_row gt_right gt_striped">77</td>
+<td class="gt_row gt_right">+25</td>
+<td class="gt_row gt_right">.587</td>
+<td class="gt_row gt_right">19</td>
+<td class="gt_row gt_right"><?xml version='1.0' encoding='UTF-8' ?><svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='64.80pt' height='10.80pt' viewBox='0 0 64.80 10.80'><defs>  <style type='text/css'><![CDATA[    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {      fill: none;      stroke: #000000;      stroke-linecap: round;      stroke-linejoin: round;      stroke-miterlimit: 10.00;    }  ]]></style></defs><rect width='100%' height='100%' style='stroke: none; fill: none;'/><defs>  <clipPath id='cpMC4wMHw2NC44MHwwLjAwfDEwLjgw'>    <rect x='0.00' y='0.00' width='64.80' height='10.80' />  </clipPath></defs><g clip-path='url(#cpMC4wMHw2NC44MHwwLjAwfDEwLjgw)'><line x1='5.89' y1='1.89' x2='5.89' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='11.78' y1='8.91' x2='11.78' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='17.67' y1='8.91' x2='17.67' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='23.56' y1='1.89' x2='23.56' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='29.45' y1='1.89' x2='29.45' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='35.35' y1='8.91' x2='35.35' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='41.24' y1='1.89' x2='41.24' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='47.13' y1='8.91' x2='47.13' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='53.02' y1='1.89' x2='53.02' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='58.91' y1='1.89' x2='58.91' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /></g></svg></td></tr>
+    <tr><td class="gt_row gt_right gt_striped"><img src="https://www.mlbstatic.com/team-logos/136.svg" style="height:11px;"></td>
+<td class="gt_row gt_left gt_striped">SEA</td>
+<td class="gt_row gt_right gt_striped">78</td>
 <td class="gt_row gt_right gt_striped">66</td>
-<td class="gt_row gt_right gt_striped">+11</td>
-<td class="gt_row gt_right gt_striped">.538</td>
-<td class="gt_row gt_right gt_striped">19</td>
-<td class="gt_row gt_right gt_striped"><?xml version='1.0' encoding='UTF-8' ?><svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='64.80pt' height='10.80pt' viewBox='0 0 64.80 10.80'><defs>  <style type='text/css'><![CDATA[    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {      fill: none;      stroke: #000000;      stroke-linecap: round;      stroke-linejoin: round;      stroke-miterlimit: 10.00;    }  ]]></style></defs><rect width='100%' height='100%' style='stroke: none; fill: none;'/><defs>  <clipPath id='cpMC4wMHw2NC44MHwwLjAwfDEwLjgw'>    <rect x='0.00' y='0.00' width='64.80' height='10.80' />  </clipPath></defs><g clip-path='url(#cpMC4wMHw2NC44MHwwLjAwfDEwLjgw)'><line x1='5.89' y1='1.89' x2='5.89' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='11.78' y1='8.91' x2='11.78' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='17.67' y1='8.91' x2='17.67' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='23.56' y1='8.91' x2='23.56' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='29.45' y1='8.91' x2='29.45' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='35.35' y1='1.89' x2='35.35' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='41.24' y1='1.89' x2='41.24' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='47.13' y1='1.89' x2='47.13' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='53.02' y1='8.91' x2='53.02' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='58.91' y1='8.91' x2='58.91' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /></g></svg></td></tr>
-    <tr><td class="gt_row gt_right"><img src="https://www.mlbstatic.com/team-logos/136.svg" style="height:11px;"></td>
-<td class="gt_row gt_left">SEA</td>
+<td class="gt_row gt_right gt_striped">+12</td>
+<td class="gt_row gt_right gt_striped">.542</td>
+<td class="gt_row gt_right gt_striped">18</td>
+<td class="gt_row gt_right gt_striped"><?xml version='1.0' encoding='UTF-8' ?><svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='64.80pt' height='10.80pt' viewBox='0 0 64.80 10.80'><defs>  <style type='text/css'><![CDATA[    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {      fill: none;      stroke: #000000;      stroke-linecap: round;      stroke-linejoin: round;      stroke-miterlimit: 10.00;    }  ]]></style></defs><rect width='100%' height='100%' style='stroke: none; fill: none;'/><defs>  <clipPath id='cpMC4wMHw2NC44MHwwLjAwfDEwLjgw'>    <rect x='0.00' y='0.00' width='64.80' height='10.80' />  </clipPath></defs><g clip-path='url(#cpMC4wMHw2NC44MHwwLjAwfDEwLjgw)'><line x1='5.89' y1='1.89' x2='5.89' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='11.78' y1='1.89' x2='11.78' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='17.67' y1='1.89' x2='17.67' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='23.56' y1='8.91' x2='23.56' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='29.45' y1='8.91' x2='29.45' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='35.35' y1='1.89' x2='35.35' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='41.24' y1='1.89' x2='41.24' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='47.13' y1='8.91' x2='47.13' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='53.02' y1='8.91' x2='53.02' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='58.91' y1='1.89' x2='58.91' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /></g></svg></td></tr>
+    <tr><td class="gt_row gt_right"><img src="https://www.mlbstatic.com/team-logos/133.svg" style="height:11px;"></td>
+<td class="gt_row gt_left">OAK</td>
 <td class="gt_row gt_right">77</td>
 <td class="gt_row gt_right">66</td>
 <td class="gt_row gt_right">+11</td>
 <td class="gt_row gt_right">.538</td>
 <td class="gt_row gt_right">19</td>
-<td class="gt_row gt_right"><?xml version='1.0' encoding='UTF-8' ?><svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='64.80pt' height='10.80pt' viewBox='0 0 64.80 10.80'><defs>  <style type='text/css'><![CDATA[    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {      fill: none;      stroke: #000000;      stroke-linecap: round;      stroke-linejoin: round;      stroke-miterlimit: 10.00;    }  ]]></style></defs><rect width='100%' height='100%' style='stroke: none; fill: none;'/><defs>  <clipPath id='cpMC4wMHw2NC44MHwwLjAwfDEwLjgw'>    <rect x='0.00' y='0.00' width='64.80' height='10.80' />  </clipPath></defs><g clip-path='url(#cpMC4wMHw2NC44MHwwLjAwfDEwLjgw)'><line x1='5.89' y1='1.89' x2='5.89' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='11.78' y1='1.89' x2='11.78' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='17.67' y1='1.89' x2='17.67' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='23.56' y1='1.89' x2='23.56' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='29.45' y1='8.91' x2='29.45' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='35.35' y1='8.91' x2='35.35' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='41.24' y1='1.89' x2='41.24' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='47.13' y1='1.89' x2='47.13' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='53.02' y1='8.91' x2='53.02' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='58.91' y1='8.91' x2='58.91' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /></g></svg></td></tr>
+<td class="gt_row gt_right"><?xml version='1.0' encoding='UTF-8' ?><svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='64.80pt' height='10.80pt' viewBox='0 0 64.80 10.80'><defs>  <style type='text/css'><![CDATA[    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {      fill: none;      stroke: #000000;      stroke-linecap: round;      stroke-linejoin: round;      stroke-miterlimit: 10.00;    }  ]]></style></defs><rect width='100%' height='100%' style='stroke: none; fill: none;'/><defs>  <clipPath id='cpMC4wMHw2NC44MHwwLjAwfDEwLjgw'>    <rect x='0.00' y='0.00' width='64.80' height='10.80' />  </clipPath></defs><g clip-path='url(#cpMC4wMHw2NC44MHwwLjAwfDEwLjgw)'><line x1='5.89' y1='1.89' x2='5.89' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='11.78' y1='8.91' x2='11.78' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='17.67' y1='8.91' x2='17.67' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='23.56' y1='8.91' x2='23.56' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='29.45' y1='8.91' x2='29.45' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='35.35' y1='1.89' x2='35.35' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='41.24' y1='1.89' x2='41.24' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='47.13' y1='1.89' x2='47.13' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='53.02' y1='8.91' x2='53.02' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='58.91' y1='8.91' x2='58.91' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /></g></svg></td></tr>
     <tr><td class="gt_row gt_right gt_striped"><img src="https://www.mlbstatic.com/team-logos/108.svg" style="height:11px;"></td>
 <td class="gt_row gt_left gt_striped">LAA</td>
 <td class="gt_row gt_right gt_striped">70</td>
@@ -481,11 +481,11 @@ permalink: /charts/baseball/
     <tr><td class="gt_row gt_right"><img src="https://www.mlbstatic.com/team-logos/140.svg" style="height:11px;"></td>
 <td class="gt_row gt_left">TEX</td>
 <td class="gt_row gt_right">53</td>
-<td class="gt_row gt_right">89</td>
-<td class="gt_row gt_right">&minus;36</td>
-<td class="gt_row gt_right">.373</td>
-<td class="gt_row gt_right">20</td>
-<td class="gt_row gt_right"><?xml version='1.0' encoding='UTF-8' ?><svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='64.80pt' height='10.80pt' viewBox='0 0 64.80 10.80'><defs>  <style type='text/css'><![CDATA[    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {      fill: none;      stroke: #000000;      stroke-linecap: round;      stroke-linejoin: round;      stroke-miterlimit: 10.00;    }  ]]></style></defs><rect width='100%' height='100%' style='stroke: none; fill: none;'/><defs>  <clipPath id='cpMC4wMHw2NC44MHwwLjAwfDEwLjgw'>    <rect x='0.00' y='0.00' width='64.80' height='10.80' />  </clipPath></defs><g clip-path='url(#cpMC4wMHw2NC44MHwwLjAwfDEwLjgw)'><line x1='5.89' y1='8.91' x2='5.89' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='11.78' y1='8.91' x2='11.78' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='17.67' y1='8.91' x2='17.67' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='23.56' y1='1.89' x2='23.56' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='29.45' y1='1.89' x2='29.45' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='35.35' y1='1.89' x2='35.35' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='41.24' y1='1.89' x2='41.24' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='47.13' y1='8.91' x2='47.13' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='53.02' y1='1.89' x2='53.02' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='58.91' y1='1.89' x2='58.91' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /></g></svg></td></tr>
+<td class="gt_row gt_right">90</td>
+<td class="gt_row gt_right">&minus;37</td>
+<td class="gt_row gt_right">.371</td>
+<td class="gt_row gt_right">19</td>
+<td class="gt_row gt_right"><?xml version='1.0' encoding='UTF-8' ?><svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='64.80pt' height='10.80pt' viewBox='0 0 64.80 10.80'><defs>  <style type='text/css'><![CDATA[    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {      fill: none;      stroke: #000000;      stroke-linecap: round;      stroke-linejoin: round;      stroke-miterlimit: 10.00;    }  ]]></style></defs><rect width='100%' height='100%' style='stroke: none; fill: none;'/><defs>  <clipPath id='cpMC4wMHw2NC44MHwwLjAwfDEwLjgw'>    <rect x='0.00' y='0.00' width='64.80' height='10.80' />  </clipPath></defs><g clip-path='url(#cpMC4wMHw2NC44MHwwLjAwfDEwLjgw)'><line x1='5.89' y1='8.91' x2='5.89' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='11.78' y1='8.91' x2='11.78' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='17.67' y1='1.89' x2='17.67' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='23.56' y1='1.89' x2='23.56' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='29.45' y1='1.89' x2='29.45' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='35.35' y1='1.89' x2='35.35' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='41.24' y1='8.91' x2='41.24' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='47.13' y1='1.89' x2='47.13' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='53.02' y1='1.89' x2='53.02' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='58.91' y1='8.91' x2='58.91' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /></g></svg></td></tr>
     <tr class="gt_group_heading_row">
       <td colspan="8" class="gt_group_heading">NL Central</td>
     </tr>
@@ -507,12 +507,12 @@ permalink: /charts/baseball/
 <td class="gt_row gt_right"><?xml version='1.0' encoding='UTF-8' ?><svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='64.80pt' height='10.80pt' viewBox='0 0 64.80 10.80'><defs>  <style type='text/css'><![CDATA[    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {      fill: none;      stroke: #000000;      stroke-linecap: round;      stroke-linejoin: round;      stroke-miterlimit: 10.00;    }  ]]></style></defs><rect width='100%' height='100%' style='stroke: none; fill: none;'/><defs>  <clipPath id='cpMC4wMHw2NC44MHwwLjAwfDEwLjgw'>    <rect x='0.00' y='0.00' width='64.80' height='10.80' />  </clipPath></defs><g clip-path='url(#cpMC4wMHw2NC44MHwwLjAwfDEwLjgw)'><line x1='5.89' y1='8.91' x2='5.89' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='11.78' y1='8.91' x2='11.78' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='17.67' y1='1.89' x2='17.67' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='23.56' y1='8.91' x2='23.56' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='29.45' y1='8.91' x2='29.45' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='35.35' y1='1.89' x2='35.35' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='41.24' y1='8.91' x2='41.24' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='47.13' y1='1.89' x2='47.13' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='53.02' y1='8.91' x2='53.02' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='58.91' y1='8.91' x2='58.91' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /></g></svg></td></tr>
     <tr><td class="gt_row gt_right gt_striped"><img src="https://www.mlbstatic.com/team-logos/138.svg" style="height:11px;"></td>
 <td class="gt_row gt_left gt_striped">STL</td>
-<td class="gt_row gt_right gt_striped">73</td>
+<td class="gt_row gt_right gt_striped">74</td>
 <td class="gt_row gt_right gt_striped">69</td>
-<td class="gt_row gt_right gt_striped">+4</td>
-<td class="gt_row gt_right gt_striped">.514</td>
-<td class="gt_row gt_right gt_striped">20</td>
-<td class="gt_row gt_right gt_striped"><?xml version='1.0' encoding='UTF-8' ?><svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='64.80pt' height='10.80pt' viewBox='0 0 64.80 10.80'><defs>  <style type='text/css'><![CDATA[    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {      fill: none;      stroke: #000000;      stroke-linecap: round;      stroke-linejoin: round;      stroke-miterlimit: 10.00;    }  ]]></style></defs><rect width='100%' height='100%' style='stroke: none; fill: none;'/><defs>  <clipPath id='cpMC4wMHw2NC44MHwwLjAwfDEwLjgw'>    <rect x='0.00' y='0.00' width='64.80' height='10.80' />  </clipPath></defs><g clip-path='url(#cpMC4wMHw2NC44MHwwLjAwfDEwLjgw)'><line x1='5.89' y1='1.89' x2='5.89' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='11.78' y1='8.91' x2='11.78' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='17.67' y1='8.91' x2='17.67' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='23.56' y1='8.91' x2='23.56' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='29.45' y1='8.91' x2='29.45' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='35.35' y1='1.89' x2='35.35' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='41.24' y1='1.89' x2='41.24' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='47.13' y1='8.91' x2='47.13' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='53.02' y1='1.89' x2='53.02' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='58.91' y1='1.89' x2='58.91' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /></g></svg></td></tr>
+<td class="gt_row gt_right gt_striped">+5</td>
+<td class="gt_row gt_right gt_striped">.517</td>
+<td class="gt_row gt_right gt_striped">19</td>
+<td class="gt_row gt_right gt_striped"><?xml version='1.0' encoding='UTF-8' ?><svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='64.80pt' height='10.80pt' viewBox='0 0 64.80 10.80'><defs>  <style type='text/css'><![CDATA[    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {      fill: none;      stroke: #000000;      stroke-linecap: round;      stroke-linejoin: round;      stroke-miterlimit: 10.00;    }  ]]></style></defs><rect width='100%' height='100%' style='stroke: none; fill: none;'/><defs>  <clipPath id='cpMC4wMHw2NC44MHwwLjAwfDEwLjgw'>    <rect x='0.00' y='0.00' width='64.80' height='10.80' />  </clipPath></defs><g clip-path='url(#cpMC4wMHw2NC44MHwwLjAwfDEwLjgw)'><line x1='5.89' y1='8.91' x2='5.89' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='11.78' y1='8.91' x2='11.78' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='17.67' y1='8.91' x2='17.67' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='23.56' y1='8.91' x2='23.56' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='29.45' y1='1.89' x2='29.45' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='35.35' y1='1.89' x2='35.35' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='41.24' y1='8.91' x2='41.24' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='47.13' y1='1.89' x2='47.13' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='53.02' y1='1.89' x2='53.02' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='58.91' y1='1.89' x2='58.91' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /></g></svg></td></tr>
     <tr><td class="gt_row gt_right"><img src="https://www.mlbstatic.com/team-logos/112.svg" style="height:11px;"></td>
 <td class="gt_row gt_left">CHC</td>
 <td class="gt_row gt_right">65</td>
@@ -551,11 +551,11 @@ permalink: /charts/baseball/
     <tr><td class="gt_row gt_right"><img src="https://www.mlbstatic.com/team-logos/121.svg" style="height:11px;"></td>
 <td class="gt_row gt_left">NYM</td>
 <td class="gt_row gt_right">72</td>
-<td class="gt_row gt_right">72</td>
-<td class="gt_row gt_right">0</td>
-<td class="gt_row gt_right">.500</td>
-<td class="gt_row gt_right">18</td>
-<td class="gt_row gt_right"><?xml version='1.0' encoding='UTF-8' ?><svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='64.80pt' height='10.80pt' viewBox='0 0 64.80 10.80'><defs>  <style type='text/css'><![CDATA[    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {      fill: none;      stroke: #000000;      stroke-linecap: round;      stroke-linejoin: round;      stroke-miterlimit: 10.00;    }  ]]></style></defs><rect width='100%' height='100%' style='stroke: none; fill: none;'/><defs>  <clipPath id='cpMC4wMHw2NC44MHwwLjAwfDEwLjgw'>    <rect x='0.00' y='0.00' width='64.80' height='10.80' />  </clipPath></defs><g clip-path='url(#cpMC4wMHw2NC44MHwwLjAwfDEwLjgw)'><line x1='5.89' y1='8.91' x2='5.89' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='11.78' y1='1.89' x2='11.78' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='17.67' y1='1.89' x2='17.67' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='23.56' y1='8.91' x2='23.56' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='29.45' y1='1.89' x2='29.45' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='35.35' y1='8.91' x2='35.35' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='41.24' y1='8.91' x2='41.24' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='47.13' y1='1.89' x2='47.13' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='53.02' y1='8.91' x2='53.02' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='58.91' y1='1.89' x2='58.91' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /></g></svg></td></tr>
+<td class="gt_row gt_right">73</td>
+<td class="gt_row gt_right">&minus;1</td>
+<td class="gt_row gt_right">.497</td>
+<td class="gt_row gt_right">17</td>
+<td class="gt_row gt_right"><?xml version='1.0' encoding='UTF-8' ?><svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='64.80pt' height='10.80pt' viewBox='0 0 64.80 10.80'><defs>  <style type='text/css'><![CDATA[    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {      fill: none;      stroke: #000000;      stroke-linecap: round;      stroke-linejoin: round;      stroke-miterlimit: 10.00;    }  ]]></style></defs><rect width='100%' height='100%' style='stroke: none; fill: none;'/><defs>  <clipPath id='cpMC4wMHw2NC44MHwwLjAwfDEwLjgw'>    <rect x='0.00' y='0.00' width='64.80' height='10.80' />  </clipPath></defs><g clip-path='url(#cpMC4wMHw2NC44MHwwLjAwfDEwLjgw)'><line x1='5.89' y1='1.89' x2='5.89' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='11.78' y1='1.89' x2='11.78' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='17.67' y1='8.91' x2='17.67' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='23.56' y1='1.89' x2='23.56' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='29.45' y1='8.91' x2='29.45' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='35.35' y1='8.91' x2='35.35' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='41.24' y1='1.89' x2='41.24' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='47.13' y1='8.91' x2='47.13' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='53.02' y1='1.89' x2='53.02' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='58.91' y1='8.91' x2='58.91' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /></g></svg></td></tr>
     <tr><td class="gt_row gt_right gt_striped"><img src="https://www.mlbstatic.com/team-logos/146.svg" style="height:11px;"></td>
 <td class="gt_row gt_left gt_striped">MIA</td>
 <td class="gt_row gt_right gt_striped">61</td>
@@ -577,28 +577,28 @@ permalink: /charts/baseball/
     </tr>
     <tr><td class="gt_row gt_right gt_striped"><img src="https://www.mlbstatic.com/team-logos/137.svg" style="height:11px;"></td>
 <td class="gt_row gt_left gt_striped">SF </td>
-<td class="gt_row gt_right gt_striped">93</td>
+<td class="gt_row gt_right gt_striped">94</td>
 <td class="gt_row gt_right gt_striped">50</td>
-<td class="gt_row gt_right gt_striped">+43</td>
-<td class="gt_row gt_right gt_striped">.650</td>
-<td class="gt_row gt_right gt_striped">19</td>
-<td class="gt_row gt_right gt_striped"><?xml version='1.0' encoding='UTF-8' ?><svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='64.80pt' height='10.80pt' viewBox='0 0 64.80 10.80'><defs>  <style type='text/css'><![CDATA[    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {      fill: none;      stroke: #000000;      stroke-linecap: round;      stroke-linejoin: round;      stroke-miterlimit: 10.00;    }  ]]></style></defs><rect width='100%' height='100%' style='stroke: none; fill: none;'/><defs>  <clipPath id='cpMC4wMHw2NC44MHwwLjAwfDEwLjgw'>    <rect x='0.00' y='0.00' width='64.80' height='10.80' />  </clipPath></defs><g clip-path='url(#cpMC4wMHw2NC44MHwwLjAwfDEwLjgw)'><line x1='5.89' y1='1.89' x2='5.89' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='11.78' y1='1.89' x2='11.78' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='17.67' y1='8.91' x2='17.67' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='23.56' y1='1.89' x2='23.56' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='29.45' y1='1.89' x2='29.45' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='35.35' y1='1.89' x2='35.35' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='41.24' y1='1.89' x2='41.24' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='47.13' y1='1.89' x2='47.13' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='53.02' y1='1.89' x2='53.02' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='58.91' y1='1.89' x2='58.91' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /></g></svg></td></tr>
+<td class="gt_row gt_right gt_striped">+44</td>
+<td class="gt_row gt_right gt_striped">.653</td>
+<td class="gt_row gt_right gt_striped">18</td>
+<td class="gt_row gt_right gt_striped"><?xml version='1.0' encoding='UTF-8' ?><svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='64.80pt' height='10.80pt' viewBox='0 0 64.80 10.80'><defs>  <style type='text/css'><![CDATA[    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {      fill: none;      stroke: #000000;      stroke-linecap: round;      stroke-linejoin: round;      stroke-miterlimit: 10.00;    }  ]]></style></defs><rect width='100%' height='100%' style='stroke: none; fill: none;'/><defs>  <clipPath id='cpMC4wMHw2NC44MHwwLjAwfDEwLjgw'>    <rect x='0.00' y='0.00' width='64.80' height='10.80' />  </clipPath></defs><g clip-path='url(#cpMC4wMHw2NC44MHwwLjAwfDEwLjgw)'><line x1='5.89' y1='1.89' x2='5.89' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='11.78' y1='8.91' x2='11.78' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='17.67' y1='1.89' x2='17.67' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='23.56' y1='1.89' x2='23.56' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='29.45' y1='1.89' x2='29.45' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='35.35' y1='1.89' x2='35.35' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='41.24' y1='1.89' x2='41.24' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='47.13' y1='1.89' x2='47.13' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='53.02' y1='1.89' x2='53.02' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='58.91' y1='1.89' x2='58.91' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /></g></svg></td></tr>
     <tr><td class="gt_row gt_right"><img src="https://www.mlbstatic.com/team-logos/119.svg" style="height:11px;"></td>
 <td class="gt_row gt_left">LAD</td>
-<td class="gt_row gt_right">91</td>
+<td class="gt_row gt_right">92</td>
 <td class="gt_row gt_right">53</td>
-<td class="gt_row gt_right">+38</td>
-<td class="gt_row gt_right">.632</td>
-<td class="gt_row gt_right">18</td>
-<td class="gt_row gt_right"><?xml version='1.0' encoding='UTF-8' ?><svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='64.80pt' height='10.80pt' viewBox='0 0 64.80 10.80'><defs>  <style type='text/css'><![CDATA[    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {      fill: none;      stroke: #000000;      stroke-linecap: round;      stroke-linejoin: round;      stroke-miterlimit: 10.00;    }  ]]></style></defs><rect width='100%' height='100%' style='stroke: none; fill: none;'/><defs>  <clipPath id='cpMC4wMHw2NC44MHwwLjAwfDEwLjgw'>    <rect x='0.00' y='0.00' width='64.80' height='10.80' />  </clipPath></defs><g clip-path='url(#cpMC4wMHw2NC44MHwwLjAwfDEwLjgw)'><line x1='5.89' y1='8.91' x2='5.89' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='11.78' y1='1.89' x2='11.78' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='17.67' y1='8.91' x2='17.67' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='23.56' y1='1.89' x2='23.56' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='29.45' y1='1.89' x2='29.45' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='35.35' y1='8.91' x2='35.35' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='41.24' y1='8.91' x2='41.24' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='47.13' y1='1.89' x2='47.13' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='53.02' y1='1.89' x2='53.02' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='58.91' y1='1.89' x2='58.91' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /></g></svg></td></tr>
+<td class="gt_row gt_right">+39</td>
+<td class="gt_row gt_right">.634</td>
+<td class="gt_row gt_right">17</td>
+<td class="gt_row gt_right"><?xml version='1.0' encoding='UTF-8' ?><svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='64.80pt' height='10.80pt' viewBox='0 0 64.80 10.80'><defs>  <style type='text/css'><![CDATA[    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {      fill: none;      stroke: #000000;      stroke-linecap: round;      stroke-linejoin: round;      stroke-miterlimit: 10.00;    }  ]]></style></defs><rect width='100%' height='100%' style='stroke: none; fill: none;'/><defs>  <clipPath id='cpMC4wMHw2NC44MHwwLjAwfDEwLjgw'>    <rect x='0.00' y='0.00' width='64.80' height='10.80' />  </clipPath></defs><g clip-path='url(#cpMC4wMHw2NC44MHwwLjAwfDEwLjgw)'><line x1='5.89' y1='1.89' x2='5.89' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='11.78' y1='8.91' x2='11.78' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='17.67' y1='1.89' x2='17.67' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='23.56' y1='1.89' x2='23.56' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='29.45' y1='8.91' x2='29.45' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='35.35' y1='8.91' x2='35.35' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='41.24' y1='1.89' x2='41.24' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='47.13' y1='1.89' x2='47.13' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='53.02' y1='1.89' x2='53.02' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='58.91' y1='1.89' x2='58.91' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /></g></svg></td></tr>
     <tr><td class="gt_row gt_right gt_striped"><img src="https://www.mlbstatic.com/team-logos/135.svg" style="height:11px;"></td>
 <td class="gt_row gt_left gt_striped">SD </td>
 <td class="gt_row gt_right gt_striped">74</td>
-<td class="gt_row gt_right gt_striped">68</td>
-<td class="gt_row gt_right gt_striped">+6</td>
-<td class="gt_row gt_right gt_striped">.521</td>
-<td class="gt_row gt_right gt_striped">19</td>
-<td class="gt_row gt_right gt_striped"><?xml version='1.0' encoding='UTF-8' ?><svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='64.80pt' height='10.80pt' viewBox='0 0 64.80 10.80'><defs>  <style type='text/css'><![CDATA[    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {      fill: none;      stroke: #000000;      stroke-linecap: round;      stroke-linejoin: round;      stroke-miterlimit: 10.00;    }  ]]></style></defs><rect width='100%' height='100%' style='stroke: none; fill: none;'/><defs>  <clipPath id='cpMC4wMHw2NC44MHwwLjAwfDEwLjgw'>    <rect x='0.00' y='0.00' width='64.80' height='10.80' />  </clipPath></defs><g clip-path='url(#cpMC4wMHw2NC44MHwwLjAwfDEwLjgw)'><line x1='5.89' y1='1.89' x2='5.89' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='11.78' y1='8.91' x2='11.78' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='17.67' y1='8.91' x2='17.67' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='23.56' y1='1.89' x2='23.56' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='29.45' y1='1.89' x2='29.45' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='35.35' y1='8.91' x2='35.35' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='41.24' y1='1.89' x2='41.24' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='47.13' y1='8.91' x2='47.13' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='53.02' y1='8.91' x2='53.02' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='58.91' y1='8.91' x2='58.91' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /></g></svg></td></tr>
+<td class="gt_row gt_right gt_striped">69</td>
+<td class="gt_row gt_right gt_striped">+5</td>
+<td class="gt_row gt_right gt_striped">.517</td>
+<td class="gt_row gt_right gt_striped">18</td>
+<td class="gt_row gt_right gt_striped"><?xml version='1.0' encoding='UTF-8' ?><svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='64.80pt' height='10.80pt' viewBox='0 0 64.80 10.80'><defs>  <style type='text/css'><![CDATA[    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {      fill: none;      stroke: #000000;      stroke-linecap: round;      stroke-linejoin: round;      stroke-miterlimit: 10.00;    }  ]]></style></defs><rect width='100%' height='100%' style='stroke: none; fill: none;'/><defs>  <clipPath id='cpMC4wMHw2NC44MHwwLjAwfDEwLjgw'>    <rect x='0.00' y='0.00' width='64.80' height='10.80' />  </clipPath></defs><g clip-path='url(#cpMC4wMHw2NC44MHwwLjAwfDEwLjgw)'><line x1='5.89' y1='8.91' x2='5.89' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='11.78' y1='8.91' x2='11.78' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='17.67' y1='1.89' x2='17.67' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='23.56' y1='1.89' x2='23.56' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='29.45' y1='8.91' x2='29.45' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='35.35' y1='1.89' x2='35.35' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='41.24' y1='8.91' x2='41.24' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='47.13' y1='8.91' x2='47.13' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='53.02' y1='8.91' x2='53.02' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='58.91' y1='8.91' x2='58.91' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /></g></svg></td></tr>
     <tr><td class="gt_row gt_right"><img src="https://www.mlbstatic.com/team-logos/115.svg" style="height:11px;"></td>
 <td class="gt_row gt_left">COL</td>
 <td class="gt_row gt_right">66</td>
@@ -610,11 +610,11 @@ permalink: /charts/baseball/
     <tr><td class="gt_row gt_right gt_striped"><img src="https://www.mlbstatic.com/team-logos/109.svg" style="height:11px;"></td>
 <td class="gt_row gt_left gt_striped">ARI</td>
 <td class="gt_row gt_right gt_striped">47</td>
-<td class="gt_row gt_right gt_striped">96</td>
-<td class="gt_row gt_right gt_striped">&minus;49</td>
-<td class="gt_row gt_right gt_striped">.329</td>
-<td class="gt_row gt_right gt_striped">19</td>
-<td class="gt_row gt_right gt_striped"><?xml version='1.0' encoding='UTF-8' ?><svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='64.80pt' height='10.80pt' viewBox='0 0 64.80 10.80'><defs>  <style type='text/css'><![CDATA[    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {      fill: none;      stroke: #000000;      stroke-linecap: round;      stroke-linejoin: round;      stroke-miterlimit: 10.00;    }  ]]></style></defs><rect width='100%' height='100%' style='stroke: none; fill: none;'/><defs>  <clipPath id='cpMC4wMHw2NC44MHwwLjAwfDEwLjgw'>    <rect x='0.00' y='0.00' width='64.80' height='10.80' />  </clipPath></defs><g clip-path='url(#cpMC4wMHw2NC44MHwwLjAwfDEwLjgw)'><line x1='5.89' y1='8.91' x2='5.89' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='11.78' y1='1.89' x2='11.78' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='17.67' y1='8.91' x2='17.67' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='23.56' y1='8.91' x2='23.56' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='29.45' y1='8.91' x2='29.45' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='35.35' y1='8.91' x2='35.35' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='41.24' y1='8.91' x2='41.24' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='47.13' y1='8.91' x2='47.13' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='53.02' y1='1.89' x2='53.02' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='58.91' y1='1.89' x2='58.91' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /></g></svg></td></tr>
+<td class="gt_row gt_right gt_striped">97</td>
+<td class="gt_row gt_right gt_striped">&minus;50</td>
+<td class="gt_row gt_right gt_striped">.326</td>
+<td class="gt_row gt_right gt_striped">18</td>
+<td class="gt_row gt_right gt_striped"><?xml version='1.0' encoding='UTF-8' ?><svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='64.80pt' height='10.80pt' viewBox='0 0 64.80 10.80'><defs>  <style type='text/css'><![CDATA[    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {      fill: none;      stroke: #000000;      stroke-linecap: round;      stroke-linejoin: round;      stroke-miterlimit: 10.00;    }  ]]></style></defs><rect width='100%' height='100%' style='stroke: none; fill: none;'/><defs>  <clipPath id='cpMC4wMHw2NC44MHwwLjAwfDEwLjgw'>    <rect x='0.00' y='0.00' width='64.80' height='10.80' />  </clipPath></defs><g clip-path='url(#cpMC4wMHw2NC44MHwwLjAwfDEwLjgw)'><line x1='5.89' y1='1.89' x2='5.89' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='11.78' y1='8.91' x2='11.78' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='17.67' y1='8.91' x2='17.67' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='23.56' y1='8.91' x2='23.56' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='29.45' y1='8.91' x2='29.45' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='35.35' y1='8.91' x2='35.35' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='41.24' y1='8.91' x2='41.24' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='47.13' y1='1.89' x2='47.13' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='53.02' y1='1.89' x2='53.02' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='58.91' y1='8.91' x2='58.91' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /></g></svg></td></tr>
   </tbody>
   
   
@@ -647,12 +647,12 @@ permalink: /charts/baseball/
 
 ## Wild Card
 
-<div id="xendlopbtd" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="qunpsljlry" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
   <style>html {
   font-family: verdana, calibri, menlo, consolas, monospace, helvetica, arial, sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial;
 }
 
-#xendlopbtd .gt_table {
+#qunpsljlry .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -677,7 +677,7 @@ permalink: /charts/baseball/
   border-left-color: #D3D3D3;
 }
 
-#xendlopbtd .gt_heading {
+#qunpsljlry .gt_heading {
   background-color: #FFFFFF;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -689,7 +689,7 @@ permalink: /charts/baseball/
   border-right-color: #D3D3D3;
 }
 
-#xendlopbtd .gt_title {
+#qunpsljlry .gt_title {
   color: #333333;
   font-size: 125%;
   font-weight: initial;
@@ -699,7 +699,7 @@ permalink: /charts/baseball/
   border-bottom-width: 0;
 }
 
-#xendlopbtd .gt_subtitle {
+#qunpsljlry .gt_subtitle {
   color: #333333;
   font-size: 85%;
   font-weight: initial;
@@ -709,13 +709,13 @@ permalink: /charts/baseball/
   border-top-width: 0;
 }
 
-#xendlopbtd .gt_bottom_border {
+#qunpsljlry .gt_bottom_border {
   border-bottom-style: none;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#xendlopbtd .gt_col_headings {
+#qunpsljlry .gt_col_headings {
   border-top-style: none;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -730,7 +730,7 @@ permalink: /charts/baseball/
   border-right-color: #D3D3D3;
 }
 
-#xendlopbtd .gt_col_heading {
+#qunpsljlry .gt_col_heading {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 80%;
@@ -750,7 +750,7 @@ permalink: /charts/baseball/
   overflow-x: hidden;
 }
 
-#xendlopbtd .gt_column_spanner_outer {
+#qunpsljlry .gt_column_spanner_outer {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 80%;
@@ -762,15 +762,15 @@ permalink: /charts/baseball/
   padding-right: 4px;
 }
 
-#xendlopbtd .gt_column_spanner_outer:first-child {
+#qunpsljlry .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#xendlopbtd .gt_column_spanner_outer:last-child {
+#qunpsljlry .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#xendlopbtd .gt_column_spanner {
+#qunpsljlry .gt_column_spanner {
   border-bottom-style: none;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -782,7 +782,7 @@ permalink: /charts/baseball/
   width: 100%;
 }
 
-#xendlopbtd .gt_group_heading {
+#qunpsljlry .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -804,7 +804,7 @@ permalink: /charts/baseball/
   vertical-align: middle;
 }
 
-#xendlopbtd .gt_empty_group_heading {
+#qunpsljlry .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -819,15 +819,15 @@ permalink: /charts/baseball/
   vertical-align: middle;
 }
 
-#xendlopbtd .gt_from_md > :first-child {
+#qunpsljlry .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#xendlopbtd .gt_from_md > :last-child {
+#qunpsljlry .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#xendlopbtd .gt_row {
+#qunpsljlry .gt_row {
   padding-top: 3px;
   padding-bottom: 3px;
   padding-left: 5px;
@@ -846,7 +846,7 @@ permalink: /charts/baseball/
   overflow-x: hidden;
 }
 
-#xendlopbtd .gt_stub {
+#qunpsljlry .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 80%;
@@ -858,7 +858,7 @@ permalink: /charts/baseball/
   padding-left: 12px;
 }
 
-#xendlopbtd .gt_summary_row {
+#qunpsljlry .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -868,7 +868,7 @@ permalink: /charts/baseball/
   padding-right: 5px;
 }
 
-#xendlopbtd .gt_first_summary_row {
+#qunpsljlry .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -878,7 +878,7 @@ permalink: /charts/baseball/
   border-top-color: #D3D3D3;
 }
 
-#xendlopbtd .gt_grand_summary_row {
+#qunpsljlry .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -888,7 +888,7 @@ permalink: /charts/baseball/
   padding-right: 5px;
 }
 
-#xendlopbtd .gt_first_grand_summary_row {
+#qunpsljlry .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -898,11 +898,11 @@ permalink: /charts/baseball/
   border-top-color: #D3D3D3;
 }
 
-#xendlopbtd .gt_striped {
+#qunpsljlry .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#xendlopbtd .gt_table_body {
+#qunpsljlry .gt_table_body {
   border-top-style: none;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -911,7 +911,7 @@ permalink: /charts/baseball/
   border-bottom-color: #D3D3D3;
 }
 
-#xendlopbtd .gt_footnotes {
+#qunpsljlry .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -925,13 +925,13 @@ permalink: /charts/baseball/
   border-right-color: #D3D3D3;
 }
 
-#xendlopbtd .gt_footnote {
+#qunpsljlry .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#xendlopbtd .gt_sourcenotes {
+#qunpsljlry .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -945,41 +945,41 @@ permalink: /charts/baseball/
   border-right-color: #D3D3D3;
 }
 
-#xendlopbtd .gt_sourcenote {
+#qunpsljlry .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#xendlopbtd .gt_left {
+#qunpsljlry .gt_left {
   text-align: left;
 }
 
-#xendlopbtd .gt_center {
+#qunpsljlry .gt_center {
   text-align: center;
 }
 
-#xendlopbtd .gt_right {
+#qunpsljlry .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#xendlopbtd .gt_font_normal {
+#qunpsljlry .gt_font_normal {
   font-weight: normal;
 }
 
-#xendlopbtd .gt_font_bold {
+#qunpsljlry .gt_font_bold {
   font-weight: bold;
 }
 
-#xendlopbtd .gt_font_italic {
+#qunpsljlry .gt_font_italic {
   font-style: italic;
 }
 
-#xendlopbtd .gt_super {
+#qunpsljlry .gt_super {
   font-size: 65%;
 }
 
-#xendlopbtd .gt_footnote_marks {
+#qunpsljlry .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -1006,19 +1006,19 @@ permalink: /charts/baseball/
     <tr><td class="gt_row gt_right"><img src="https://www.mlbstatic.com/team-logos/139.svg" style="height:11px;"></td>
 <td class="gt_row gt_left">TB </td>
 <td class="gt_row gt_right">89</td>
-<td class="gt_row gt_right">54</td>
-<td class="gt_row gt_right">+35</td>
-<td class="gt_row gt_right">.622</td>
-<td class="gt_row gt_right">19</td>
-<td class="gt_row gt_right"><?xml version='1.0' encoding='UTF-8' ?><svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='64.80pt' height='10.80pt' viewBox='0 0 64.80 10.80'><defs>  <style type='text/css'><![CDATA[    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {      fill: none;      stroke: #000000;      stroke-linecap: round;      stroke-linejoin: round;      stroke-miterlimit: 10.00;    }  ]]></style></defs><rect width='100%' height='100%' style='stroke: none; fill: none;'/><defs>  <clipPath id='cpMC4wMHw2NC44MHwwLjAwfDEwLjgw'>    <rect x='0.00' y='0.00' width='64.80' height='10.80' />  </clipPath></defs><g clip-path='url(#cpMC4wMHw2NC44MHwwLjAwfDEwLjgw)'><line x1='5.89' y1='8.91' x2='5.89' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='11.78' y1='1.89' x2='11.78' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='17.67' y1='1.89' x2='17.67' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='23.56' y1='8.91' x2='23.56' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='29.45' y1='1.89' x2='29.45' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='35.35' y1='1.89' x2='35.35' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='41.24' y1='8.91' x2='41.24' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='47.13' y1='8.91' x2='47.13' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='53.02' y1='1.89' x2='53.02' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='58.91' y1='8.91' x2='58.91' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /></g></svg></td></tr>
+<td class="gt_row gt_right">55</td>
+<td class="gt_row gt_right">+34</td>
+<td class="gt_row gt_right">.618</td>
+<td class="gt_row gt_right">18</td>
+<td class="gt_row gt_right"><?xml version='1.0' encoding='UTF-8' ?><svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='64.80pt' height='10.80pt' viewBox='0 0 64.80 10.80'><defs>  <style type='text/css'><![CDATA[    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {      fill: none;      stroke: #000000;      stroke-linecap: round;      stroke-linejoin: round;      stroke-miterlimit: 10.00;    }  ]]></style></defs><rect width='100%' height='100%' style='stroke: none; fill: none;'/><defs>  <clipPath id='cpMC4wMHw2NC44MHwwLjAwfDEwLjgw'>    <rect x='0.00' y='0.00' width='64.80' height='10.80' />  </clipPath></defs><g clip-path='url(#cpMC4wMHw2NC44MHwwLjAwfDEwLjgw)'><line x1='5.89' y1='1.89' x2='5.89' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='11.78' y1='1.89' x2='11.78' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='17.67' y1='8.91' x2='17.67' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='23.56' y1='1.89' x2='23.56' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='29.45' y1='1.89' x2='29.45' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='35.35' y1='8.91' x2='35.35' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='41.24' y1='8.91' x2='41.24' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='47.13' y1='1.89' x2='47.13' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='53.02' y1='8.91' x2='53.02' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='58.91' y1='8.91' x2='58.91' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /></g></svg></td></tr>
     <tr><td class="gt_row gt_right gt_striped"><img src="https://www.mlbstatic.com/team-logos/117.svg" style="height:11px;"></td>
 <td class="gt_row gt_left gt_striped">HOU</td>
-<td class="gt_row gt_right gt_striped">83</td>
+<td class="gt_row gt_right gt_striped">84</td>
 <td class="gt_row gt_right gt_striped">59</td>
-<td class="gt_row gt_right gt_striped">+24</td>
-<td class="gt_row gt_right gt_striped">.585</td>
-<td class="gt_row gt_right gt_striped">20</td>
-<td class="gt_row gt_right gt_striped"><?xml version='1.0' encoding='UTF-8' ?><svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='64.80pt' height='10.80pt' viewBox='0 0 64.80 10.80'><defs>  <style type='text/css'><![CDATA[    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {      fill: none;      stroke: #000000;      stroke-linecap: round;      stroke-linejoin: round;      stroke-miterlimit: 10.00;    }  ]]></style></defs><rect width='100%' height='100%' style='stroke: none; fill: none;'/><defs>  <clipPath id='cpMC4wMHw2NC44MHwwLjAwfDEwLjgw'>    <rect x='0.00' y='0.00' width='64.80' height='10.80' />  </clipPath></defs><g clip-path='url(#cpMC4wMHw2NC44MHwwLjAwfDEwLjgw)'><line x1='5.89' y1='8.91' x2='5.89' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='11.78' y1='1.89' x2='11.78' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='17.67' y1='8.91' x2='17.67' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='23.56' y1='8.91' x2='23.56' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='29.45' y1='1.89' x2='29.45' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='35.35' y1='1.89' x2='35.35' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='41.24' y1='8.91' x2='41.24' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='47.13' y1='1.89' x2='47.13' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='53.02' y1='8.91' x2='53.02' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='58.91' y1='1.89' x2='58.91' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /></g></svg></td></tr>
+<td class="gt_row gt_right gt_striped">+25</td>
+<td class="gt_row gt_right gt_striped">.587</td>
+<td class="gt_row gt_right gt_striped">19</td>
+<td class="gt_row gt_right gt_striped"><?xml version='1.0' encoding='UTF-8' ?><svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='64.80pt' height='10.80pt' viewBox='0 0 64.80 10.80'><defs>  <style type='text/css'><![CDATA[    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {      fill: none;      stroke: #000000;      stroke-linecap: round;      stroke-linejoin: round;      stroke-miterlimit: 10.00;    }  ]]></style></defs><rect width='100%' height='100%' style='stroke: none; fill: none;'/><defs>  <clipPath id='cpMC4wMHw2NC44MHwwLjAwfDEwLjgw'>    <rect x='0.00' y='0.00' width='64.80' height='10.80' />  </clipPath></defs><g clip-path='url(#cpMC4wMHw2NC44MHwwLjAwfDEwLjgw)'><line x1='5.89' y1='1.89' x2='5.89' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='11.78' y1='8.91' x2='11.78' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='17.67' y1='8.91' x2='17.67' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='23.56' y1='1.89' x2='23.56' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='29.45' y1='1.89' x2='29.45' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='35.35' y1='8.91' x2='35.35' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='41.24' y1='1.89' x2='41.24' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='47.13' y1='8.91' x2='47.13' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='53.02' y1='1.89' x2='53.02' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='58.91' y1='1.89' x2='58.91' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /></g></svg></td></tr>
     <tr><td class="gt_row gt_right"><img src="https://www.mlbstatic.com/team-logos/145.svg" style="height:11px;"></td>
 <td class="gt_row gt_left">CWS</td>
 <td class="gt_row gt_right">82</td>
@@ -1029,44 +1029,44 @@ permalink: /charts/baseball/
 <td class="gt_row gt_right"><?xml version='1.0' encoding='UTF-8' ?><svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='64.80pt' height='10.80pt' viewBox='0 0 64.80 10.80'><defs>  <style type='text/css'><![CDATA[    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {      fill: none;      stroke: #000000;      stroke-linecap: round;      stroke-linejoin: round;      stroke-miterlimit: 10.00;    }  ]]></style></defs><rect width='100%' height='100%' style='stroke: none; fill: none;'/><defs>  <clipPath id='cpMC4wMHw2NC44MHwwLjAwfDEwLjgw'>    <rect x='0.00' y='0.00' width='64.80' height='10.80' />  </clipPath></defs><g clip-path='url(#cpMC4wMHw2NC44MHwwLjAwfDEwLjgw)'><line x1='5.89' y1='1.89' x2='5.89' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='11.78' y1='8.91' x2='11.78' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='17.67' y1='1.89' x2='17.67' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='23.56' y1='8.91' x2='23.56' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='29.45' y1='1.89' x2='29.45' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='35.35' y1='8.91' x2='35.35' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='41.24' y1='8.91' x2='41.24' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='47.13' y1='1.89' x2='47.13' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='53.02' y1='8.91' x2='53.02' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='58.91' y1='1.89' x2='58.91' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /></g></svg></td></tr>
     <tr><td class="gt_row gt_right gt_striped"><img src="https://www.mlbstatic.com/team-logos/141.svg" style="height:11px;"></td>
 <td class="gt_row gt_left gt_striped">TOR</td>
-<td class="gt_row gt_right gt_striped">80</td>
+<td class="gt_row gt_right gt_striped">81</td>
 <td class="gt_row gt_right gt_striped">63</td>
-<td class="gt_row gt_right gt_striped">+17</td>
-<td class="gt_row gt_right gt_striped">.559</td>
-<td class="gt_row gt_right gt_striped">19</td>
-<td class="gt_row gt_right gt_striped"><?xml version='1.0' encoding='UTF-8' ?><svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='64.80pt' height='10.80pt' viewBox='0 0 64.80 10.80'><defs>  <style type='text/css'><![CDATA[    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {      fill: none;      stroke: #000000;      stroke-linecap: round;      stroke-linejoin: round;      stroke-miterlimit: 10.00;    }  ]]></style></defs><rect width='100%' height='100%' style='stroke: none; fill: none;'/><defs>  <clipPath id='cpMC4wMHw2NC44MHwwLjAwfDEwLjgw'>    <rect x='0.00' y='0.00' width='64.80' height='10.80' />  </clipPath></defs><g clip-path='url(#cpMC4wMHw2NC44MHwwLjAwfDEwLjgw)'><line x1='5.89' y1='1.89' x2='5.89' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='11.78' y1='1.89' x2='11.78' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='17.67' y1='1.89' x2='17.67' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='23.56' y1='1.89' x2='23.56' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='29.45' y1='1.89' x2='29.45' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='35.35' y1='1.89' x2='35.35' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='41.24' y1='8.91' x2='41.24' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='47.13' y1='1.89' x2='47.13' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='53.02' y1='1.89' x2='53.02' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='58.91' y1='1.89' x2='58.91' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /></g></svg></td></tr>
-    <tr><td class="gt_row gt_right"><img src="https://www.mlbstatic.com/team-logos/111.svg" style="height:11px;"></td>
-<td class="gt_row gt_left">BOS</td>
-<td class="gt_row gt_right">81</td>
-<td class="gt_row gt_right">64</td>
-<td class="gt_row gt_right">+17</td>
-<td class="gt_row gt_right">.559</td>
-<td class="gt_row gt_right">17</td>
-<td class="gt_row gt_right"><?xml version='1.0' encoding='UTF-8' ?><svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='64.80pt' height='10.80pt' viewBox='0 0 64.80 10.80'><defs>  <style type='text/css'><![CDATA[    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {      fill: none;      stroke: #000000;      stroke-linecap: round;      stroke-linejoin: round;      stroke-miterlimit: 10.00;    }  ]]></style></defs><rect width='100%' height='100%' style='stroke: none; fill: none;'/><defs>  <clipPath id='cpMC4wMHw2NC44MHwwLjAwfDEwLjgw'>    <rect x='0.00' y='0.00' width='64.80' height='10.80' />  </clipPath></defs><g clip-path='url(#cpMC4wMHw2NC44MHwwLjAwfDEwLjgw)'><line x1='5.89' y1='1.89' x2='5.89' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='11.78' y1='1.89' x2='11.78' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='17.67' y1='1.89' x2='17.67' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='23.56' y1='8.91' x2='23.56' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='29.45' y1='8.91' x2='29.45' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='35.35' y1='8.91' x2='35.35' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='41.24' y1='1.89' x2='41.24' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='47.13' y1='8.91' x2='47.13' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='53.02' y1='1.89' x2='53.02' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='58.91' y1='8.91' x2='58.91' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /></g></svg></td></tr>
-    <tr><td class="gt_row gt_right gt_striped"><img src="https://www.mlbstatic.com/team-logos/147.svg" style="height:11px;"></td>
-<td class="gt_row gt_left gt_striped">NYY</td>
-<td class="gt_row gt_right gt_striped">80</td>
-<td class="gt_row gt_right gt_striped">64</td>
-<td class="gt_row gt_right gt_striped">+16</td>
-<td class="gt_row gt_right gt_striped">.556</td>
+<td class="gt_row gt_right gt_striped">+18</td>
+<td class="gt_row gt_right gt_striped">.562</td>
 <td class="gt_row gt_right gt_striped">18</td>
-<td class="gt_row gt_right gt_striped"><?xml version='1.0' encoding='UTF-8' ?><svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='64.80pt' height='10.80pt' viewBox='0 0 64.80 10.80'><defs>  <style type='text/css'><![CDATA[    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {      fill: none;      stroke: #000000;      stroke-linecap: round;      stroke-linejoin: round;      stroke-miterlimit: 10.00;    }  ]]></style></defs><rect width='100%' height='100%' style='stroke: none; fill: none;'/><defs>  <clipPath id='cpMC4wMHw2NC44MHwwLjAwfDEwLjgw'>    <rect x='0.00' y='0.00' width='64.80' height='10.80' />  </clipPath></defs><g clip-path='url(#cpMC4wMHw2NC44MHwwLjAwfDEwLjgw)'><line x1='5.89' y1='8.91' x2='5.89' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='11.78' y1='8.91' x2='11.78' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='17.67' y1='8.91' x2='17.67' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='23.56' y1='8.91' x2='23.56' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='29.45' y1='8.91' x2='29.45' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='35.35' y1='8.91' x2='35.35' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='41.24' y1='8.91' x2='41.24' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='47.13' y1='1.89' x2='47.13' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='53.02' y1='8.91' x2='53.02' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='58.91' y1='1.89' x2='58.91' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /></g></svg></td></tr>
-    <tr><td class="gt_row gt_right"><img src="https://www.mlbstatic.com/team-logos/133.svg" style="height:11px;"></td>
-<td class="gt_row gt_left">OAK</td>
-<td class="gt_row gt_right">77</td>
+<td class="gt_row gt_right gt_striped"><?xml version='1.0' encoding='UTF-8' ?><svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='64.80pt' height='10.80pt' viewBox='0 0 64.80 10.80'><defs>  <style type='text/css'><![CDATA[    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {      fill: none;      stroke: #000000;      stroke-linecap: round;      stroke-linejoin: round;      stroke-miterlimit: 10.00;    }  ]]></style></defs><rect width='100%' height='100%' style='stroke: none; fill: none;'/><defs>  <clipPath id='cpMC4wMHw2NC44MHwwLjAwfDEwLjgw'>    <rect x='0.00' y='0.00' width='64.80' height='10.80' />  </clipPath></defs><g clip-path='url(#cpMC4wMHw2NC44MHwwLjAwfDEwLjgw)'><line x1='5.89' y1='1.89' x2='5.89' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='11.78' y1='1.89' x2='11.78' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='17.67' y1='1.89' x2='17.67' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='23.56' y1='1.89' x2='23.56' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='29.45' y1='1.89' x2='29.45' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='35.35' y1='8.91' x2='35.35' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='41.24' y1='1.89' x2='41.24' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='47.13' y1='1.89' x2='47.13' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='53.02' y1='1.89' x2='53.02' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='58.91' y1='1.89' x2='58.91' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /></g></svg></td></tr>
+    <tr><td class="gt_row gt_right"><img src="https://www.mlbstatic.com/team-logos/147.svg" style="height:11px;"></td>
+<td class="gt_row gt_left">NYY</td>
+<td class="gt_row gt_right">80</td>
+<td class="gt_row gt_right">64</td>
+<td class="gt_row gt_right">+16</td>
+<td class="gt_row gt_right">.556</td>
+<td class="gt_row gt_right">18</td>
+<td class="gt_row gt_right"><?xml version='1.0' encoding='UTF-8' ?><svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='64.80pt' height='10.80pt' viewBox='0 0 64.80 10.80'><defs>  <style type='text/css'><![CDATA[    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {      fill: none;      stroke: #000000;      stroke-linecap: round;      stroke-linejoin: round;      stroke-miterlimit: 10.00;    }  ]]></style></defs><rect width='100%' height='100%' style='stroke: none; fill: none;'/><defs>  <clipPath id='cpMC4wMHw2NC44MHwwLjAwfDEwLjgw'>    <rect x='0.00' y='0.00' width='64.80' height='10.80' />  </clipPath></defs><g clip-path='url(#cpMC4wMHw2NC44MHwwLjAwfDEwLjgw)'><line x1='5.89' y1='8.91' x2='5.89' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='11.78' y1='8.91' x2='11.78' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='17.67' y1='8.91' x2='17.67' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='23.56' y1='8.91' x2='23.56' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='29.45' y1='8.91' x2='29.45' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='35.35' y1='8.91' x2='35.35' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='41.24' y1='8.91' x2='41.24' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='47.13' y1='1.89' x2='47.13' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='53.02' y1='8.91' x2='53.02' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='58.91' y1='1.89' x2='58.91' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /></g></svg></td></tr>
+    <tr><td class="gt_row gt_right gt_striped"><img src="https://www.mlbstatic.com/team-logos/111.svg" style="height:11px;"></td>
+<td class="gt_row gt_left gt_striped">BOS</td>
+<td class="gt_row gt_right gt_striped">81</td>
+<td class="gt_row gt_right gt_striped">65</td>
+<td class="gt_row gt_right gt_striped">+16</td>
+<td class="gt_row gt_right gt_striped">.555</td>
+<td class="gt_row gt_right gt_striped">16</td>
+<td class="gt_row gt_right gt_striped"><?xml version='1.0' encoding='UTF-8' ?><svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='64.80pt' height='10.80pt' viewBox='0 0 64.80 10.80'><defs>  <style type='text/css'><![CDATA[    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {      fill: none;      stroke: #000000;      stroke-linecap: round;      stroke-linejoin: round;      stroke-miterlimit: 10.00;    }  ]]></style></defs><rect width='100%' height='100%' style='stroke: none; fill: none;'/><defs>  <clipPath id='cpMC4wMHw2NC44MHwwLjAwfDEwLjgw'>    <rect x='0.00' y='0.00' width='64.80' height='10.80' />  </clipPath></defs><g clip-path='url(#cpMC4wMHw2NC44MHwwLjAwfDEwLjgw)'><line x1='5.89' y1='1.89' x2='5.89' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='11.78' y1='1.89' x2='11.78' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='17.67' y1='8.91' x2='17.67' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='23.56' y1='8.91' x2='23.56' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='29.45' y1='8.91' x2='29.45' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='35.35' y1='1.89' x2='35.35' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='41.24' y1='8.91' x2='41.24' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='47.13' y1='1.89' x2='47.13' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='53.02' y1='8.91' x2='53.02' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='58.91' y1='8.91' x2='58.91' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /></g></svg></td></tr>
+    <tr><td class="gt_row gt_right"><img src="https://www.mlbstatic.com/team-logos/136.svg" style="height:11px;"></td>
+<td class="gt_row gt_left">SEA</td>
+<td class="gt_row gt_right">78</td>
 <td class="gt_row gt_right">66</td>
-<td class="gt_row gt_right">+11</td>
-<td class="gt_row gt_right">.538</td>
-<td class="gt_row gt_right">19</td>
-<td class="gt_row gt_right"><?xml version='1.0' encoding='UTF-8' ?><svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='64.80pt' height='10.80pt' viewBox='0 0 64.80 10.80'><defs>  <style type='text/css'><![CDATA[    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {      fill: none;      stroke: #000000;      stroke-linecap: round;      stroke-linejoin: round;      stroke-miterlimit: 10.00;    }  ]]></style></defs><rect width='100%' height='100%' style='stroke: none; fill: none;'/><defs>  <clipPath id='cpMC4wMHw2NC44MHwwLjAwfDEwLjgw'>    <rect x='0.00' y='0.00' width='64.80' height='10.80' />  </clipPath></defs><g clip-path='url(#cpMC4wMHw2NC44MHwwLjAwfDEwLjgw)'><line x1='5.89' y1='1.89' x2='5.89' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='11.78' y1='8.91' x2='11.78' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='17.67' y1='8.91' x2='17.67' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='23.56' y1='8.91' x2='23.56' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='29.45' y1='8.91' x2='29.45' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='35.35' y1='1.89' x2='35.35' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='41.24' y1='1.89' x2='41.24' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='47.13' y1='1.89' x2='47.13' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='53.02' y1='8.91' x2='53.02' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='58.91' y1='8.91' x2='58.91' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /></g></svg></td></tr>
-    <tr><td class="gt_row gt_right gt_striped"><img src="https://www.mlbstatic.com/team-logos/136.svg" style="height:11px;"></td>
-<td class="gt_row gt_left gt_striped">SEA</td>
+<td class="gt_row gt_right">+12</td>
+<td class="gt_row gt_right">.542</td>
+<td class="gt_row gt_right">18</td>
+<td class="gt_row gt_right"><?xml version='1.0' encoding='UTF-8' ?><svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='64.80pt' height='10.80pt' viewBox='0 0 64.80 10.80'><defs>  <style type='text/css'><![CDATA[    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {      fill: none;      stroke: #000000;      stroke-linecap: round;      stroke-linejoin: round;      stroke-miterlimit: 10.00;    }  ]]></style></defs><rect width='100%' height='100%' style='stroke: none; fill: none;'/><defs>  <clipPath id='cpMC4wMHw2NC44MHwwLjAwfDEwLjgw'>    <rect x='0.00' y='0.00' width='64.80' height='10.80' />  </clipPath></defs><g clip-path='url(#cpMC4wMHw2NC44MHwwLjAwfDEwLjgw)'><line x1='5.89' y1='1.89' x2='5.89' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='11.78' y1='1.89' x2='11.78' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='17.67' y1='1.89' x2='17.67' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='23.56' y1='8.91' x2='23.56' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='29.45' y1='8.91' x2='29.45' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='35.35' y1='1.89' x2='35.35' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='41.24' y1='1.89' x2='41.24' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='47.13' y1='8.91' x2='47.13' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='53.02' y1='8.91' x2='53.02' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='58.91' y1='1.89' x2='58.91' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /></g></svg></td></tr>
+    <tr><td class="gt_row gt_right gt_striped"><img src="https://www.mlbstatic.com/team-logos/133.svg" style="height:11px;"></td>
+<td class="gt_row gt_left gt_striped">OAK</td>
 <td class="gt_row gt_right gt_striped">77</td>
 <td class="gt_row gt_right gt_striped">66</td>
 <td class="gt_row gt_right gt_striped">+11</td>
 <td class="gt_row gt_right gt_striped">.538</td>
 <td class="gt_row gt_right gt_striped">19</td>
-<td class="gt_row gt_right gt_striped"><?xml version='1.0' encoding='UTF-8' ?><svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='64.80pt' height='10.80pt' viewBox='0 0 64.80 10.80'><defs>  <style type='text/css'><![CDATA[    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {      fill: none;      stroke: #000000;      stroke-linecap: round;      stroke-linejoin: round;      stroke-miterlimit: 10.00;    }  ]]></style></defs><rect width='100%' height='100%' style='stroke: none; fill: none;'/><defs>  <clipPath id='cpMC4wMHw2NC44MHwwLjAwfDEwLjgw'>    <rect x='0.00' y='0.00' width='64.80' height='10.80' />  </clipPath></defs><g clip-path='url(#cpMC4wMHw2NC44MHwwLjAwfDEwLjgw)'><line x1='5.89' y1='1.89' x2='5.89' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='11.78' y1='1.89' x2='11.78' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='17.67' y1='1.89' x2='17.67' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='23.56' y1='1.89' x2='23.56' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='29.45' y1='8.91' x2='29.45' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='35.35' y1='8.91' x2='35.35' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='41.24' y1='1.89' x2='41.24' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='47.13' y1='1.89' x2='47.13' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='53.02' y1='8.91' x2='53.02' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='58.91' y1='8.91' x2='58.91' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /></g></svg></td></tr>
+<td class="gt_row gt_right gt_striped"><?xml version='1.0' encoding='UTF-8' ?><svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='64.80pt' height='10.80pt' viewBox='0 0 64.80 10.80'><defs>  <style type='text/css'><![CDATA[    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {      fill: none;      stroke: #000000;      stroke-linecap: round;      stroke-linejoin: round;      stroke-miterlimit: 10.00;    }  ]]></style></defs><rect width='100%' height='100%' style='stroke: none; fill: none;'/><defs>  <clipPath id='cpMC4wMHw2NC44MHwwLjAwfDEwLjgw'>    <rect x='0.00' y='0.00' width='64.80' height='10.80' />  </clipPath></defs><g clip-path='url(#cpMC4wMHw2NC44MHwwLjAwfDEwLjgw)'><line x1='5.89' y1='1.89' x2='5.89' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='11.78' y1='8.91' x2='11.78' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='17.67' y1='8.91' x2='17.67' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='23.56' y1='8.91' x2='23.56' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='29.45' y1='8.91' x2='29.45' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='35.35' y1='1.89' x2='35.35' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='41.24' y1='1.89' x2='41.24' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='47.13' y1='1.89' x2='47.13' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='53.02' y1='8.91' x2='53.02' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='58.91' y1='8.91' x2='58.91' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /></g></svg></td></tr>
     <tr><td class="gt_row gt_right"><img src="https://www.mlbstatic.com/team-logos/108.svg" style="height:11px;"></td>
 <td class="gt_row gt_left">LAA</td>
 <td class="gt_row gt_right">70</td>
@@ -1110,11 +1110,11 @@ permalink: /charts/baseball/
     <tr><td class="gt_row gt_right gt_striped"><img src="https://www.mlbstatic.com/team-logos/140.svg" style="height:11px;"></td>
 <td class="gt_row gt_left gt_striped">TEX</td>
 <td class="gt_row gt_right gt_striped">53</td>
-<td class="gt_row gt_right gt_striped">89</td>
-<td class="gt_row gt_right gt_striped">&minus;36</td>
-<td class="gt_row gt_right gt_striped">.373</td>
-<td class="gt_row gt_right gt_striped">20</td>
-<td class="gt_row gt_right gt_striped"><?xml version='1.0' encoding='UTF-8' ?><svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='64.80pt' height='10.80pt' viewBox='0 0 64.80 10.80'><defs>  <style type='text/css'><![CDATA[    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {      fill: none;      stroke: #000000;      stroke-linecap: round;      stroke-linejoin: round;      stroke-miterlimit: 10.00;    }  ]]></style></defs><rect width='100%' height='100%' style='stroke: none; fill: none;'/><defs>  <clipPath id='cpMC4wMHw2NC44MHwwLjAwfDEwLjgw'>    <rect x='0.00' y='0.00' width='64.80' height='10.80' />  </clipPath></defs><g clip-path='url(#cpMC4wMHw2NC44MHwwLjAwfDEwLjgw)'><line x1='5.89' y1='8.91' x2='5.89' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='11.78' y1='8.91' x2='11.78' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='17.67' y1='8.91' x2='17.67' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='23.56' y1='1.89' x2='23.56' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='29.45' y1='1.89' x2='29.45' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='35.35' y1='1.89' x2='35.35' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='41.24' y1='1.89' x2='41.24' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='47.13' y1='8.91' x2='47.13' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='53.02' y1='1.89' x2='53.02' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='58.91' y1='1.89' x2='58.91' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /></g></svg></td></tr>
+<td class="gt_row gt_right gt_striped">90</td>
+<td class="gt_row gt_right gt_striped">&minus;37</td>
+<td class="gt_row gt_right gt_striped">.371</td>
+<td class="gt_row gt_right gt_striped">19</td>
+<td class="gt_row gt_right gt_striped"><?xml version='1.0' encoding='UTF-8' ?><svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='64.80pt' height='10.80pt' viewBox='0 0 64.80 10.80'><defs>  <style type='text/css'><![CDATA[    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {      fill: none;      stroke: #000000;      stroke-linecap: round;      stroke-linejoin: round;      stroke-miterlimit: 10.00;    }  ]]></style></defs><rect width='100%' height='100%' style='stroke: none; fill: none;'/><defs>  <clipPath id='cpMC4wMHw2NC44MHwwLjAwfDEwLjgw'>    <rect x='0.00' y='0.00' width='64.80' height='10.80' />  </clipPath></defs><g clip-path='url(#cpMC4wMHw2NC44MHwwLjAwfDEwLjgw)'><line x1='5.89' y1='8.91' x2='5.89' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='11.78' y1='8.91' x2='11.78' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='17.67' y1='1.89' x2='17.67' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='23.56' y1='1.89' x2='23.56' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='29.45' y1='1.89' x2='29.45' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='35.35' y1='1.89' x2='35.35' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='41.24' y1='8.91' x2='41.24' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='47.13' y1='1.89' x2='47.13' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='53.02' y1='1.89' x2='53.02' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='58.91' y1='8.91' x2='58.91' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /></g></svg></td></tr>
     <tr><td class="gt_row gt_right"><img src="https://www.mlbstatic.com/team-logos/110.svg" style="height:11px;"></td>
 <td class="gt_row gt_left">BAL</td>
 <td class="gt_row gt_right">46</td>
@@ -1128,20 +1128,20 @@ permalink: /charts/baseball/
     </tr>
     <tr><td class="gt_row gt_right gt_striped"><img src="https://www.mlbstatic.com/team-logos/137.svg" style="height:11px;"></td>
 <td class="gt_row gt_left gt_striped">SF </td>
-<td class="gt_row gt_right gt_striped">93</td>
+<td class="gt_row gt_right gt_striped">94</td>
 <td class="gt_row gt_right gt_striped">50</td>
-<td class="gt_row gt_right gt_striped">+43</td>
-<td class="gt_row gt_right gt_striped">.650</td>
-<td class="gt_row gt_right gt_striped">19</td>
-<td class="gt_row gt_right gt_striped"><?xml version='1.0' encoding='UTF-8' ?><svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='64.80pt' height='10.80pt' viewBox='0 0 64.80 10.80'><defs>  <style type='text/css'><![CDATA[    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {      fill: none;      stroke: #000000;      stroke-linecap: round;      stroke-linejoin: round;      stroke-miterlimit: 10.00;    }  ]]></style></defs><rect width='100%' height='100%' style='stroke: none; fill: none;'/><defs>  <clipPath id='cpMC4wMHw2NC44MHwwLjAwfDEwLjgw'>    <rect x='0.00' y='0.00' width='64.80' height='10.80' />  </clipPath></defs><g clip-path='url(#cpMC4wMHw2NC44MHwwLjAwfDEwLjgw)'><line x1='5.89' y1='1.89' x2='5.89' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='11.78' y1='1.89' x2='11.78' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='17.67' y1='8.91' x2='17.67' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='23.56' y1='1.89' x2='23.56' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='29.45' y1='1.89' x2='29.45' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='35.35' y1='1.89' x2='35.35' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='41.24' y1='1.89' x2='41.24' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='47.13' y1='1.89' x2='47.13' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='53.02' y1='1.89' x2='53.02' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='58.91' y1='1.89' x2='58.91' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /></g></svg></td></tr>
+<td class="gt_row gt_right gt_striped">+44</td>
+<td class="gt_row gt_right gt_striped">.653</td>
+<td class="gt_row gt_right gt_striped">18</td>
+<td class="gt_row gt_right gt_striped"><?xml version='1.0' encoding='UTF-8' ?><svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='64.80pt' height='10.80pt' viewBox='0 0 64.80 10.80'><defs>  <style type='text/css'><![CDATA[    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {      fill: none;      stroke: #000000;      stroke-linecap: round;      stroke-linejoin: round;      stroke-miterlimit: 10.00;    }  ]]></style></defs><rect width='100%' height='100%' style='stroke: none; fill: none;'/><defs>  <clipPath id='cpMC4wMHw2NC44MHwwLjAwfDEwLjgw'>    <rect x='0.00' y='0.00' width='64.80' height='10.80' />  </clipPath></defs><g clip-path='url(#cpMC4wMHw2NC44MHwwLjAwfDEwLjgw)'><line x1='5.89' y1='1.89' x2='5.89' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='11.78' y1='8.91' x2='11.78' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='17.67' y1='1.89' x2='17.67' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='23.56' y1='1.89' x2='23.56' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='29.45' y1='1.89' x2='29.45' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='35.35' y1='1.89' x2='35.35' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='41.24' y1='1.89' x2='41.24' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='47.13' y1='1.89' x2='47.13' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='53.02' y1='1.89' x2='53.02' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='58.91' y1='1.89' x2='58.91' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /></g></svg></td></tr>
     <tr><td class="gt_row gt_right"><img src="https://www.mlbstatic.com/team-logos/119.svg" style="height:11px;"></td>
 <td class="gt_row gt_left">LAD</td>
-<td class="gt_row gt_right">91</td>
+<td class="gt_row gt_right">92</td>
 <td class="gt_row gt_right">53</td>
-<td class="gt_row gt_right">+38</td>
-<td class="gt_row gt_right">.632</td>
-<td class="gt_row gt_right">18</td>
-<td class="gt_row gt_right"><?xml version='1.0' encoding='UTF-8' ?><svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='64.80pt' height='10.80pt' viewBox='0 0 64.80 10.80'><defs>  <style type='text/css'><![CDATA[    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {      fill: none;      stroke: #000000;      stroke-linecap: round;      stroke-linejoin: round;      stroke-miterlimit: 10.00;    }  ]]></style></defs><rect width='100%' height='100%' style='stroke: none; fill: none;'/><defs>  <clipPath id='cpMC4wMHw2NC44MHwwLjAwfDEwLjgw'>    <rect x='0.00' y='0.00' width='64.80' height='10.80' />  </clipPath></defs><g clip-path='url(#cpMC4wMHw2NC44MHwwLjAwfDEwLjgw)'><line x1='5.89' y1='8.91' x2='5.89' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='11.78' y1='1.89' x2='11.78' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='17.67' y1='8.91' x2='17.67' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='23.56' y1='1.89' x2='23.56' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='29.45' y1='1.89' x2='29.45' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='35.35' y1='8.91' x2='35.35' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='41.24' y1='8.91' x2='41.24' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='47.13' y1='1.89' x2='47.13' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='53.02' y1='1.89' x2='53.02' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='58.91' y1='1.89' x2='58.91' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /></g></svg></td></tr>
+<td class="gt_row gt_right">+39</td>
+<td class="gt_row gt_right">.634</td>
+<td class="gt_row gt_right">17</td>
+<td class="gt_row gt_right"><?xml version='1.0' encoding='UTF-8' ?><svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='64.80pt' height='10.80pt' viewBox='0 0 64.80 10.80'><defs>  <style type='text/css'><![CDATA[    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {      fill: none;      stroke: #000000;      stroke-linecap: round;      stroke-linejoin: round;      stroke-miterlimit: 10.00;    }  ]]></style></defs><rect width='100%' height='100%' style='stroke: none; fill: none;'/><defs>  <clipPath id='cpMC4wMHw2NC44MHwwLjAwfDEwLjgw'>    <rect x='0.00' y='0.00' width='64.80' height='10.80' />  </clipPath></defs><g clip-path='url(#cpMC4wMHw2NC44MHwwLjAwfDEwLjgw)'><line x1='5.89' y1='1.89' x2='5.89' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='11.78' y1='8.91' x2='11.78' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='17.67' y1='1.89' x2='17.67' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='23.56' y1='1.89' x2='23.56' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='29.45' y1='8.91' x2='29.45' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='35.35' y1='8.91' x2='35.35' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='41.24' y1='1.89' x2='41.24' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='47.13' y1='1.89' x2='47.13' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='53.02' y1='1.89' x2='53.02' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='58.91' y1='1.89' x2='58.91' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /></g></svg></td></tr>
     <tr><td class="gt_row gt_right gt_striped"><img src="https://www.mlbstatic.com/team-logos/158.svg" style="height:11px;"></td>
 <td class="gt_row gt_left gt_striped">MIL</td>
 <td class="gt_row gt_right gt_striped">89</td>
@@ -1158,30 +1158,30 @@ permalink: /charts/baseball/
 <td class="gt_row gt_right">.535</td>
 <td class="gt_row gt_right">19</td>
 <td class="gt_row gt_right"><?xml version='1.0' encoding='UTF-8' ?><svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='64.80pt' height='10.80pt' viewBox='0 0 64.80 10.80'><defs>  <style type='text/css'><![CDATA[    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {      fill: none;      stroke: #000000;      stroke-linecap: round;      stroke-linejoin: round;      stroke-miterlimit: 10.00;    }  ]]></style></defs><rect width='100%' height='100%' style='stroke: none; fill: none;'/><defs>  <clipPath id='cpMC4wMHw2NC44MHwwLjAwfDEwLjgw'>    <rect x='0.00' y='0.00' width='64.80' height='10.80' />  </clipPath></defs><g clip-path='url(#cpMC4wMHw2NC44MHwwLjAwfDEwLjgw)'><line x1='5.89' y1='1.89' x2='5.89' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='11.78' y1='8.91' x2='11.78' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='17.67' y1='8.91' x2='17.67' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='23.56' y1='1.89' x2='23.56' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='29.45' y1='1.89' x2='29.45' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='35.35' y1='8.91' x2='35.35' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='41.24' y1='1.89' x2='41.24' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='47.13' y1='1.89' x2='47.13' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='53.02' y1='8.91' x2='53.02' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='58.91' y1='1.89' x2='58.91' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /></g></svg></td></tr>
+    <tr><td class="gt_row gt_right gt_striped"><img src="https://www.mlbstatic.com/team-logos/113.svg" style="height:11px;"></td>
+<td class="gt_row gt_left gt_striped">CIN</td>
+<td class="gt_row gt_right gt_striped">75</td>
+<td class="gt_row gt_right gt_striped">69</td>
+<td class="gt_row gt_right gt_striped">+6</td>
+<td class="gt_row gt_right gt_striped">.521</td>
+<td class="gt_row gt_right gt_striped">18</td>
+<td class="gt_row gt_right gt_striped"><?xml version='1.0' encoding='UTF-8' ?><svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='64.80pt' height='10.80pt' viewBox='0 0 64.80 10.80'><defs>  <style type='text/css'><![CDATA[    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {      fill: none;      stroke: #000000;      stroke-linecap: round;      stroke-linejoin: round;      stroke-miterlimit: 10.00;    }  ]]></style></defs><rect width='100%' height='100%' style='stroke: none; fill: none;'/><defs>  <clipPath id='cpMC4wMHw2NC44MHwwLjAwfDEwLjgw'>    <rect x='0.00' y='0.00' width='64.80' height='10.80' />  </clipPath></defs><g clip-path='url(#cpMC4wMHw2NC44MHwwLjAwfDEwLjgw)'><line x1='5.89' y1='8.91' x2='5.89' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='11.78' y1='8.91' x2='11.78' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='17.67' y1='1.89' x2='17.67' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='23.56' y1='8.91' x2='23.56' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='29.45' y1='8.91' x2='29.45' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='35.35' y1='1.89' x2='35.35' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='41.24' y1='8.91' x2='41.24' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='47.13' y1='1.89' x2='47.13' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='53.02' y1='8.91' x2='53.02' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='58.91' y1='8.91' x2='58.91' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /></g></svg></td></tr>
+    <tr><td class="gt_row gt_right"><img src="https://www.mlbstatic.com/team-logos/138.svg" style="height:11px;"></td>
+<td class="gt_row gt_left">STL</td>
+<td class="gt_row gt_right">74</td>
+<td class="gt_row gt_right">69</td>
+<td class="gt_row gt_right">+5</td>
+<td class="gt_row gt_right">.517</td>
+<td class="gt_row gt_right">19</td>
+<td class="gt_row gt_right"><?xml version='1.0' encoding='UTF-8' ?><svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='64.80pt' height='10.80pt' viewBox='0 0 64.80 10.80'><defs>  <style type='text/css'><![CDATA[    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {      fill: none;      stroke: #000000;      stroke-linecap: round;      stroke-linejoin: round;      stroke-miterlimit: 10.00;    }  ]]></style></defs><rect width='100%' height='100%' style='stroke: none; fill: none;'/><defs>  <clipPath id='cpMC4wMHw2NC44MHwwLjAwfDEwLjgw'>    <rect x='0.00' y='0.00' width='64.80' height='10.80' />  </clipPath></defs><g clip-path='url(#cpMC4wMHw2NC44MHwwLjAwfDEwLjgw)'><line x1='5.89' y1='8.91' x2='5.89' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='11.78' y1='8.91' x2='11.78' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='17.67' y1='8.91' x2='17.67' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='23.56' y1='8.91' x2='23.56' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='29.45' y1='1.89' x2='29.45' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='35.35' y1='1.89' x2='35.35' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='41.24' y1='8.91' x2='41.24' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='47.13' y1='1.89' x2='47.13' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='53.02' y1='1.89' x2='53.02' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='58.91' y1='1.89' x2='58.91' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /></g></svg></td></tr>
     <tr><td class="gt_row gt_right gt_striped"><img src="https://www.mlbstatic.com/team-logos/135.svg" style="height:11px;"></td>
 <td class="gt_row gt_left gt_striped">SD </td>
 <td class="gt_row gt_right gt_striped">74</td>
-<td class="gt_row gt_right gt_striped">68</td>
-<td class="gt_row gt_right gt_striped">+6</td>
-<td class="gt_row gt_right gt_striped">.521</td>
-<td class="gt_row gt_right gt_striped">19</td>
-<td class="gt_row gt_right gt_striped"><?xml version='1.0' encoding='UTF-8' ?><svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='64.80pt' height='10.80pt' viewBox='0 0 64.80 10.80'><defs>  <style type='text/css'><![CDATA[    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {      fill: none;      stroke: #000000;      stroke-linecap: round;      stroke-linejoin: round;      stroke-miterlimit: 10.00;    }  ]]></style></defs><rect width='100%' height='100%' style='stroke: none; fill: none;'/><defs>  <clipPath id='cpMC4wMHw2NC44MHwwLjAwfDEwLjgw'>    <rect x='0.00' y='0.00' width='64.80' height='10.80' />  </clipPath></defs><g clip-path='url(#cpMC4wMHw2NC44MHwwLjAwfDEwLjgw)'><line x1='5.89' y1='1.89' x2='5.89' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='11.78' y1='8.91' x2='11.78' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='17.67' y1='8.91' x2='17.67' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='23.56' y1='1.89' x2='23.56' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='29.45' y1='1.89' x2='29.45' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='35.35' y1='8.91' x2='35.35' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='41.24' y1='1.89' x2='41.24' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='47.13' y1='8.91' x2='47.13' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='53.02' y1='8.91' x2='53.02' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='58.91' y1='8.91' x2='58.91' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /></g></svg></td></tr>
-    <tr><td class="gt_row gt_right"><img src="https://www.mlbstatic.com/team-logos/113.svg" style="height:11px;"></td>
-<td class="gt_row gt_left">CIN</td>
-<td class="gt_row gt_right">75</td>
-<td class="gt_row gt_right">69</td>
-<td class="gt_row gt_right">+6</td>
-<td class="gt_row gt_right">.521</td>
-<td class="gt_row gt_right">18</td>
-<td class="gt_row gt_right"><?xml version='1.0' encoding='UTF-8' ?><svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='64.80pt' height='10.80pt' viewBox='0 0 64.80 10.80'><defs>  <style type='text/css'><![CDATA[    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {      fill: none;      stroke: #000000;      stroke-linecap: round;      stroke-linejoin: round;      stroke-miterlimit: 10.00;    }  ]]></style></defs><rect width='100%' height='100%' style='stroke: none; fill: none;'/><defs>  <clipPath id='cpMC4wMHw2NC44MHwwLjAwfDEwLjgw'>    <rect x='0.00' y='0.00' width='64.80' height='10.80' />  </clipPath></defs><g clip-path='url(#cpMC4wMHw2NC44MHwwLjAwfDEwLjgw)'><line x1='5.89' y1='8.91' x2='5.89' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='11.78' y1='8.91' x2='11.78' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='17.67' y1='1.89' x2='17.67' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='23.56' y1='8.91' x2='23.56' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='29.45' y1='8.91' x2='29.45' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='35.35' y1='1.89' x2='35.35' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='41.24' y1='8.91' x2='41.24' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='47.13' y1='1.89' x2='47.13' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='53.02' y1='8.91' x2='53.02' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='58.91' y1='8.91' x2='58.91' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /></g></svg></td></tr>
-    <tr><td class="gt_row gt_right gt_striped"><img src="https://www.mlbstatic.com/team-logos/138.svg" style="height:11px;"></td>
-<td class="gt_row gt_left gt_striped">STL</td>
-<td class="gt_row gt_right gt_striped">73</td>
 <td class="gt_row gt_right gt_striped">69</td>
-<td class="gt_row gt_right gt_striped">+4</td>
-<td class="gt_row gt_right gt_striped">.514</td>
-<td class="gt_row gt_right gt_striped">20</td>
-<td class="gt_row gt_right gt_striped"><?xml version='1.0' encoding='UTF-8' ?><svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='64.80pt' height='10.80pt' viewBox='0 0 64.80 10.80'><defs>  <style type='text/css'><![CDATA[    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {      fill: none;      stroke: #000000;      stroke-linecap: round;      stroke-linejoin: round;      stroke-miterlimit: 10.00;    }  ]]></style></defs><rect width='100%' height='100%' style='stroke: none; fill: none;'/><defs>  <clipPath id='cpMC4wMHw2NC44MHwwLjAwfDEwLjgw'>    <rect x='0.00' y='0.00' width='64.80' height='10.80' />  </clipPath></defs><g clip-path='url(#cpMC4wMHw2NC44MHwwLjAwfDEwLjgw)'><line x1='5.89' y1='1.89' x2='5.89' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='11.78' y1='8.91' x2='11.78' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='17.67' y1='8.91' x2='17.67' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='23.56' y1='8.91' x2='23.56' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='29.45' y1='8.91' x2='29.45' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='35.35' y1='1.89' x2='35.35' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='41.24' y1='1.89' x2='41.24' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='47.13' y1='8.91' x2='47.13' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='53.02' y1='1.89' x2='53.02' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='58.91' y1='1.89' x2='58.91' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /></g></svg></td></tr>
+<td class="gt_row gt_right gt_striped">+5</td>
+<td class="gt_row gt_right gt_striped">.517</td>
+<td class="gt_row gt_right gt_striped">18</td>
+<td class="gt_row gt_right gt_striped"><?xml version='1.0' encoding='UTF-8' ?><svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='64.80pt' height='10.80pt' viewBox='0 0 64.80 10.80'><defs>  <style type='text/css'><![CDATA[    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {      fill: none;      stroke: #000000;      stroke-linecap: round;      stroke-linejoin: round;      stroke-miterlimit: 10.00;    }  ]]></style></defs><rect width='100%' height='100%' style='stroke: none; fill: none;'/><defs>  <clipPath id='cpMC4wMHw2NC44MHwwLjAwfDEwLjgw'>    <rect x='0.00' y='0.00' width='64.80' height='10.80' />  </clipPath></defs><g clip-path='url(#cpMC4wMHw2NC44MHwwLjAwfDEwLjgw)'><line x1='5.89' y1='8.91' x2='5.89' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='11.78' y1='8.91' x2='11.78' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='17.67' y1='1.89' x2='17.67' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='23.56' y1='1.89' x2='23.56' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='29.45' y1='8.91' x2='29.45' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='35.35' y1='1.89' x2='35.35' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='41.24' y1='8.91' x2='41.24' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='47.13' y1='8.91' x2='47.13' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='53.02' y1='8.91' x2='53.02' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='58.91' y1='8.91' x2='58.91' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /></g></svg></td></tr>
     <tr><td class="gt_row gt_right"><img src="https://www.mlbstatic.com/team-logos/143.svg" style="height:11px;"></td>
 <td class="gt_row gt_left">PHI</td>
 <td class="gt_row gt_right">72</td>
@@ -1193,11 +1193,11 @@ permalink: /charts/baseball/
     <tr><td class="gt_row gt_right gt_striped"><img src="https://www.mlbstatic.com/team-logos/121.svg" style="height:11px;"></td>
 <td class="gt_row gt_left gt_striped">NYM</td>
 <td class="gt_row gt_right gt_striped">72</td>
-<td class="gt_row gt_right gt_striped">72</td>
-<td class="gt_row gt_right gt_striped">0</td>
-<td class="gt_row gt_right gt_striped">.500</td>
-<td class="gt_row gt_right gt_striped">18</td>
-<td class="gt_row gt_right gt_striped"><?xml version='1.0' encoding='UTF-8' ?><svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='64.80pt' height='10.80pt' viewBox='0 0 64.80 10.80'><defs>  <style type='text/css'><![CDATA[    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {      fill: none;      stroke: #000000;      stroke-linecap: round;      stroke-linejoin: round;      stroke-miterlimit: 10.00;    }  ]]></style></defs><rect width='100%' height='100%' style='stroke: none; fill: none;'/><defs>  <clipPath id='cpMC4wMHw2NC44MHwwLjAwfDEwLjgw'>    <rect x='0.00' y='0.00' width='64.80' height='10.80' />  </clipPath></defs><g clip-path='url(#cpMC4wMHw2NC44MHwwLjAwfDEwLjgw)'><line x1='5.89' y1='8.91' x2='5.89' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='11.78' y1='1.89' x2='11.78' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='17.67' y1='1.89' x2='17.67' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='23.56' y1='8.91' x2='23.56' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='29.45' y1='1.89' x2='29.45' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='35.35' y1='8.91' x2='35.35' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='41.24' y1='8.91' x2='41.24' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='47.13' y1='1.89' x2='47.13' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='53.02' y1='8.91' x2='53.02' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='58.91' y1='1.89' x2='58.91' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /></g></svg></td></tr>
+<td class="gt_row gt_right gt_striped">73</td>
+<td class="gt_row gt_right gt_striped">&minus;1</td>
+<td class="gt_row gt_right gt_striped">.497</td>
+<td class="gt_row gt_right gt_striped">17</td>
+<td class="gt_row gt_right gt_striped"><?xml version='1.0' encoding='UTF-8' ?><svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='64.80pt' height='10.80pt' viewBox='0 0 64.80 10.80'><defs>  <style type='text/css'><![CDATA[    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {      fill: none;      stroke: #000000;      stroke-linecap: round;      stroke-linejoin: round;      stroke-miterlimit: 10.00;    }  ]]></style></defs><rect width='100%' height='100%' style='stroke: none; fill: none;'/><defs>  <clipPath id='cpMC4wMHw2NC44MHwwLjAwfDEwLjgw'>    <rect x='0.00' y='0.00' width='64.80' height='10.80' />  </clipPath></defs><g clip-path='url(#cpMC4wMHw2NC44MHwwLjAwfDEwLjgw)'><line x1='5.89' y1='1.89' x2='5.89' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='11.78' y1='1.89' x2='11.78' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='17.67' y1='8.91' x2='17.67' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='23.56' y1='1.89' x2='23.56' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='29.45' y1='8.91' x2='29.45' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='35.35' y1='8.91' x2='35.35' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='41.24' y1='1.89' x2='41.24' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='47.13' y1='8.91' x2='47.13' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='53.02' y1='1.89' x2='53.02' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='58.91' y1='8.91' x2='58.91' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /></g></svg></td></tr>
     <tr><td class="gt_row gt_right"><img src="https://www.mlbstatic.com/team-logos/115.svg" style="height:11px;"></td>
 <td class="gt_row gt_left">COL</td>
 <td class="gt_row gt_right">66</td>
@@ -1241,11 +1241,11 @@ permalink: /charts/baseball/
     <tr><td class="gt_row gt_right gt_striped"><img src="https://www.mlbstatic.com/team-logos/109.svg" style="height:11px;"></td>
 <td class="gt_row gt_left gt_striped">ARI</td>
 <td class="gt_row gt_right gt_striped">47</td>
-<td class="gt_row gt_right gt_striped">96</td>
-<td class="gt_row gt_right gt_striped">&minus;49</td>
-<td class="gt_row gt_right gt_striped">.329</td>
-<td class="gt_row gt_right gt_striped">19</td>
-<td class="gt_row gt_right gt_striped"><?xml version='1.0' encoding='UTF-8' ?><svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='64.80pt' height='10.80pt' viewBox='0 0 64.80 10.80'><defs>  <style type='text/css'><![CDATA[    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {      fill: none;      stroke: #000000;      stroke-linecap: round;      stroke-linejoin: round;      stroke-miterlimit: 10.00;    }  ]]></style></defs><rect width='100%' height='100%' style='stroke: none; fill: none;'/><defs>  <clipPath id='cpMC4wMHw2NC44MHwwLjAwfDEwLjgw'>    <rect x='0.00' y='0.00' width='64.80' height='10.80' />  </clipPath></defs><g clip-path='url(#cpMC4wMHw2NC44MHwwLjAwfDEwLjgw)'><line x1='5.89' y1='8.91' x2='5.89' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='11.78' y1='1.89' x2='11.78' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='17.67' y1='8.91' x2='17.67' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='23.56' y1='8.91' x2='23.56' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='29.45' y1='8.91' x2='29.45' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='35.35' y1='8.91' x2='35.35' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='41.24' y1='8.91' x2='41.24' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='47.13' y1='8.91' x2='47.13' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='53.02' y1='1.89' x2='53.02' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='58.91' y1='1.89' x2='58.91' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /></g></svg></td></tr>
+<td class="gt_row gt_right gt_striped">97</td>
+<td class="gt_row gt_right gt_striped">&minus;50</td>
+<td class="gt_row gt_right gt_striped">.326</td>
+<td class="gt_row gt_right gt_striped">18</td>
+<td class="gt_row gt_right gt_striped"><?xml version='1.0' encoding='UTF-8' ?><svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='64.80pt' height='10.80pt' viewBox='0 0 64.80 10.80'><defs>  <style type='text/css'><![CDATA[    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {      fill: none;      stroke: #000000;      stroke-linecap: round;      stroke-linejoin: round;      stroke-miterlimit: 10.00;    }  ]]></style></defs><rect width='100%' height='100%' style='stroke: none; fill: none;'/><defs>  <clipPath id='cpMC4wMHw2NC44MHwwLjAwfDEwLjgw'>    <rect x='0.00' y='0.00' width='64.80' height='10.80' />  </clipPath></defs><g clip-path='url(#cpMC4wMHw2NC44MHwwLjAwfDEwLjgw)'><line x1='5.89' y1='1.89' x2='5.89' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='11.78' y1='8.91' x2='11.78' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='17.67' y1='8.91' x2='17.67' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='23.56' y1='8.91' x2='23.56' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='29.45' y1='8.91' x2='29.45' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='35.35' y1='8.91' x2='35.35' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='41.24' y1='8.91' x2='41.24' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /><line x1='47.13' y1='1.89' x2='47.13' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='53.02' y1='1.89' x2='53.02' y2='6.10' style='stroke-width: 2.13; stroke: #013369;' /><line x1='58.91' y1='8.91' x2='58.91' y2='4.70' style='stroke-width: 2.13; stroke: #D50A0A;' /></g></svg></td></tr>
   </tbody>
   
   
@@ -1254,6 +1254,6 @@ permalink: /charts/baseball/
 
 ![Wild Card]({{ site.baseurl }}/plots/mlb_team_rank.png)
 
-Source: [FiveThirtyEight](https://github.com/fivethirtyeight/data/tree/master/mlb-elo). [CC-BY-4.0 License](https://github.com/fivethirtyeight/data/blob/master/LICENSE). Latest data: 05:43 PM CT, September 13 
+Source: [FiveThirtyEight](https://github.com/fivethirtyeight/data/tree/master/mlb-elo). [CC-BY-4.0 License](https://github.com/fivethirtyeight/data/blob/master/LICENSE). Latest data: 10:29 AM CT, September 14 
 
 
