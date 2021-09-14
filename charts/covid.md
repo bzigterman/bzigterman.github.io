@@ -8,11 +8,11 @@ During the COVID-19 pandemic, I've been making charts with data from the [Champa
 
 ## Champaign County
 
-As of Monday in Champaign County (vs. two weeks ago):
+As of Tuesday in Champaign County (vs. two weeks ago):
   
-- Average new cases: 78 (vs. 88) -12%↓
+- Average new cases: 82 (vs. 95) -14%↓
 - Average hospitalized: 69 (vs. 68) 
-- Deaths in the past month: 16 (vs. 13)
+- Deaths in the past month: 17 (vs. 13)
 - Percent of Champaign County fully vaccinated: 52.8% (vs. 51.7%)
 - Average new vaccine doses: 297 (vs. 392)
 
@@ -22,11 +22,11 @@ Charts for Champaign County are posted weekdays on Twitter [@ChampaignCovid](htt
 
 ## Illinois
 
-As of Monday in Illinois (vs. two weeks ago):
+As of Tuesday in Illinois (vs. two weeks ago):
   
-- Average new cases: 3,680 (vs. 3,780) -3%↓
+- Average new cases: 3,860 (vs. 4,050) -5%↓
 - Hospitalized: 2,250 (vs. 2,200) +2%↑
-- Average new deaths: 35 (vs. 24) +46%↑
+- Average new deaths: 39 (vs. 25) +55%↑
 - Percent of Illinois fully vaccinated: 53.9% (vs. 52.8%)
 - Average new vaccine doses: 19,100 (vs. 39,400)
 
@@ -43,7 +43,7 @@ Community transmission levels are calculated by the CDC based on new cases per c
 As of Monday in the United States (vs. two weeks ago):
   
 - Average new cases: 171,000 (vs. 159,000) +8%↑
-- Hospitalized: 91,100 (vs. 96,000) -5%↓
+- Hospitalized: 90,000 (vs. 97,000) -7%↓
 - Average new deaths: 1,840 (vs. 1,340) +37%↑
 - Percent of the United States fully vaccinated: 53.2% (vs. 51.7%)
 - Average new vaccine doses: 763,000 (vs. 898,000)
@@ -69,8 +69,8 @@ As of Monday (vs. two weeks ago):
 
 As of Monday, the 14-day percent change in average new cases was:
   
-- -12% in Champaign County
-- -3% in Illinois
+- -14% in Champaign County
+- -5% in Illinois
 - 8% in the United States
 - -11% worldwide
 
@@ -82,7 +82,7 @@ This chart measures how quickly the average number of new cases is changing, or 
 
 As of Monday, the 14-day percent change in average new deaths was:
   
-- 46% in Illinois
+- 55% in Illinois
 - 37% in the United States
 - -9% worldwide
 
