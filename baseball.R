@@ -61,7 +61,7 @@ get_team_records <- function(abbreviation) {
                             sep = "")) %>%
     mutate(
       outcomes = list(
-        tail(na.omit(win),10)
+        tail(na.omit(win),20)
       )
     )
 }
@@ -221,7 +221,7 @@ standings_table <- mlb_standings %>%
   group_by(division) %>%
   arrange(division,desc(win_pct)) %>%
   gt() %>%
-  gt_plt_winloss(outcomes, max_wins = 10,
+  gt_plt_winloss(outcomes, max_wins = 20,
                  type = "pill") %>%
   fmt_number(
     columns = net_wins,
@@ -250,7 +250,7 @@ standings_table <- mlb_standings %>%
     net_wins = html("Games<br>Above<br>.500"),
     win_pct_text = "Pct",
     games_remaining = html("Games<br>Left"),
-    outcomes = html("Last 10<br>Games")
+    outcomes = html("Last 20<br>Games")
   ) %>%
   opt_table_font(font = c("verdana","calibri","menlo","consolas","monospace","helvetica", "arial", "sans-serif")) %>%
   opt_row_striping(row_striping = TRUE) %>%
@@ -340,7 +340,7 @@ wild_card_table <- mlb_standings %>%
   group_by(league) %>%
   arrange(league,desc(win_pct)) %>%
   gt() %>%
-  gt_plt_winloss(outcomes, max_wins = 10,
+  gt_plt_winloss(outcomes, max_wins = 20,
                  type = "pill") %>%
   text_transform(
     locations = cells_body(columns = logo_url),
@@ -369,7 +369,7 @@ wild_card_table <- mlb_standings %>%
     net_wins = html("Games<br>Above<br>.500"),
     win_pct_text = "Pct",
     games_remaining = html("Games<br>Left"),
-    outcomes = html("Last 10<br>Games")
+    outcomes = html("Last 20<br>Games")
   ) %>%
   opt_table_font(font = c("verdana","calibri","menlo","consolas","monospace","helvetica", "arial", "sans-serif")) %>%
   opt_row_striping(row_striping = TRUE) %>%
