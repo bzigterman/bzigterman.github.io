@@ -197,7 +197,7 @@ old_standings <- read_csv("data/standings.csv",
                             wins = col_number(),
                             losses = col_number(),
                             win_pct_text = col_character(),
-                            games_remaining = col_integer(),
+                            games_remaining = col_number(),
                             last_ten = col_character()),
                           trim_ws = FALSE
 )
