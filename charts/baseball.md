@@ -647,12 +647,12 @@ permalink: /charts/baseball/
 
 ## Wild Card
 
-<div id="division_standings_table" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="wild_card_standings_table" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
   <style>html {
   font-family: verdana, calibri, menlo, consolas, monospace, helvetica, arial, sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial;
 }
 
-#division_standings_table .gt_table {
+#wild_card_standings_table .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -677,7 +677,7 @@ permalink: /charts/baseball/
   border-left-color: #D3D3D3;
 }
 
-#division_standings_table .gt_heading {
+#wild_card_standings_table .gt_heading {
   background-color: #FFFFFF;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -689,7 +689,7 @@ permalink: /charts/baseball/
   border-right-color: #D3D3D3;
 }
 
-#division_standings_table .gt_title {
+#wild_card_standings_table .gt_title {
   color: #333333;
   font-size: 125%;
   font-weight: initial;
@@ -699,7 +699,7 @@ permalink: /charts/baseball/
   border-bottom-width: 0;
 }
 
-#division_standings_table .gt_subtitle {
+#wild_card_standings_table .gt_subtitle {
   color: #333333;
   font-size: 85%;
   font-weight: initial;
@@ -709,13 +709,13 @@ permalink: /charts/baseball/
   border-top-width: 0;
 }
 
-#division_standings_table .gt_bottom_border {
+#wild_card_standings_table .gt_bottom_border {
   border-bottom-style: none;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#division_standings_table .gt_col_headings {
+#wild_card_standings_table .gt_col_headings {
   border-top-style: none;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -730,7 +730,7 @@ permalink: /charts/baseball/
   border-right-color: #D3D3D3;
 }
 
-#division_standings_table .gt_col_heading {
+#wild_card_standings_table .gt_col_heading {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 80%;
@@ -750,7 +750,7 @@ permalink: /charts/baseball/
   overflow-x: hidden;
 }
 
-#division_standings_table .gt_column_spanner_outer {
+#wild_card_standings_table .gt_column_spanner_outer {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 80%;
@@ -762,15 +762,15 @@ permalink: /charts/baseball/
   padding-right: 4px;
 }
 
-#division_standings_table .gt_column_spanner_outer:first-child {
+#wild_card_standings_table .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#division_standings_table .gt_column_spanner_outer:last-child {
+#wild_card_standings_table .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#division_standings_table .gt_column_spanner {
+#wild_card_standings_table .gt_column_spanner {
   border-bottom-style: none;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -782,7 +782,7 @@ permalink: /charts/baseball/
   width: 100%;
 }
 
-#division_standings_table .gt_group_heading {
+#wild_card_standings_table .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -804,7 +804,7 @@ permalink: /charts/baseball/
   vertical-align: middle;
 }
 
-#division_standings_table .gt_empty_group_heading {
+#wild_card_standings_table .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -819,15 +819,15 @@ permalink: /charts/baseball/
   vertical-align: middle;
 }
 
-#division_standings_table .gt_from_md > :first-child {
+#wild_card_standings_table .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#division_standings_table .gt_from_md > :last-child {
+#wild_card_standings_table .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#division_standings_table .gt_row {
+#wild_card_standings_table .gt_row {
   padding-top: 3px;
   padding-bottom: 3px;
   padding-left: 5px;
@@ -846,7 +846,7 @@ permalink: /charts/baseball/
   overflow-x: hidden;
 }
 
-#division_standings_table .gt_stub {
+#wild_card_standings_table .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 80%;
@@ -858,7 +858,7 @@ permalink: /charts/baseball/
   padding-left: 12px;
 }
 
-#division_standings_table .gt_summary_row {
+#wild_card_standings_table .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -868,7 +868,7 @@ permalink: /charts/baseball/
   padding-right: 5px;
 }
 
-#division_standings_table .gt_first_summary_row {
+#wild_card_standings_table .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -878,7 +878,7 @@ permalink: /charts/baseball/
   border-top-color: #D3D3D3;
 }
 
-#division_standings_table .gt_grand_summary_row {
+#wild_card_standings_table .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -888,7 +888,7 @@ permalink: /charts/baseball/
   padding-right: 5px;
 }
 
-#division_standings_table .gt_first_grand_summary_row {
+#wild_card_standings_table .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -898,11 +898,11 @@ permalink: /charts/baseball/
   border-top-color: #D3D3D3;
 }
 
-#division_standings_table .gt_striped {
+#wild_card_standings_table .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#division_standings_table .gt_table_body {
+#wild_card_standings_table .gt_table_body {
   border-top-style: none;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -911,7 +911,7 @@ permalink: /charts/baseball/
   border-bottom-color: #D3D3D3;
 }
 
-#division_standings_table .gt_footnotes {
+#wild_card_standings_table .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -925,13 +925,13 @@ permalink: /charts/baseball/
   border-right-color: #D3D3D3;
 }
 
-#division_standings_table .gt_footnote {
+#wild_card_standings_table .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#division_standings_table .gt_sourcenotes {
+#wild_card_standings_table .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -945,41 +945,41 @@ permalink: /charts/baseball/
   border-right-color: #D3D3D3;
 }
 
-#division_standings_table .gt_sourcenote {
+#wild_card_standings_table .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#division_standings_table .gt_left {
+#wild_card_standings_table .gt_left {
   text-align: left;
 }
 
-#division_standings_table .gt_center {
+#wild_card_standings_table .gt_center {
   text-align: center;
 }
 
-#division_standings_table .gt_right {
+#wild_card_standings_table .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#division_standings_table .gt_font_normal {
+#wild_card_standings_table .gt_font_normal {
   font-weight: normal;
 }
 
-#division_standings_table .gt_font_bold {
+#wild_card_standings_table .gt_font_bold {
   font-weight: bold;
 }
 
-#division_standings_table .gt_font_italic {
+#wild_card_standings_table .gt_font_italic {
   font-style: italic;
 }
 
-#division_standings_table .gt_super {
+#wild_card_standings_table .gt_super {
   font-size: 65%;
 }
 
-#division_standings_table .gt_footnote_marks {
+#wild_card_standings_table .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -1254,6 +1254,6 @@ permalink: /charts/baseball/
 
 ![Wild Card]({{ site.baseurl }}/plots/mlb_team_rank.png)
 
-Source: [FiveThirtyEight](https://github.com/fivethirtyeight/data/tree/master/mlb-elo). [CC-BY-4.0 License](https://github.com/fivethirtyeight/data/blob/master/LICENSE). Latest data: 01:36 PM CT, September 14 
+Source: [FiveThirtyEight](https://github.com/fivethirtyeight/data/tree/master/mlb-elo). [CC-BY-4.0 License](https://github.com/fivethirtyeight/data/blob/master/LICENSE). Latest data: 01:39 PM CT, September 14 
 
 
