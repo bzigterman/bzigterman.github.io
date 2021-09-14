@@ -815,7 +815,7 @@ title: Baseball
 permalink: /charts/baseball/
 ---
 
-",standings_style,standings_table_html,"
+",standings_table_html,"
 
 ### AL Central
 
@@ -843,7 +843,7 @@ permalink: /charts/baseball/
 
 ## Wild Card
 
-",standings_style,wild_card_table_html,"
+",wild_card_table_html,"
 
 ![Wild Card]({{ site.baseurl }}/plots/mlb_team_rank.png)
 
