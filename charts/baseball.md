@@ -4,12 +4,12 @@ title: Baseball
 permalink: /charts/baseball/
 ---
 
-<div id="svahgpogth" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="etnchpwzrs" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
   <style>html {
   font-family: verdana, calibri, menlo, consolas, monospace, helvetica, arial, sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial;
 }
 
-#svahgpogth .gt_table {
+#etnchpwzrs .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -34,7 +34,7 @@ permalink: /charts/baseball/
   border-left-color: #D3D3D3;
 }
 
-#svahgpogth .gt_heading {
+#etnchpwzrs .gt_heading {
   background-color: #FFFFFF;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -46,7 +46,7 @@ permalink: /charts/baseball/
   border-right-color: #D3D3D3;
 }
 
-#svahgpogth .gt_title {
+#etnchpwzrs .gt_title {
   color: #333333;
   font-size: 125%;
   font-weight: initial;
@@ -56,7 +56,7 @@ permalink: /charts/baseball/
   border-bottom-width: 0;
 }
 
-#svahgpogth .gt_subtitle {
+#etnchpwzrs .gt_subtitle {
   color: #333333;
   font-size: 85%;
   font-weight: initial;
@@ -66,13 +66,13 @@ permalink: /charts/baseball/
   border-top-width: 0;
 }
 
-#svahgpogth .gt_bottom_border {
+#etnchpwzrs .gt_bottom_border {
   border-bottom-style: none;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#svahgpogth .gt_col_headings {
+#etnchpwzrs .gt_col_headings {
   border-top-style: none;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -87,7 +87,7 @@ permalink: /charts/baseball/
   border-right-color: #D3D3D3;
 }
 
-#svahgpogth .gt_col_heading {
+#etnchpwzrs .gt_col_heading {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 80%;
@@ -107,7 +107,7 @@ permalink: /charts/baseball/
   overflow-x: hidden;
 }
 
-#svahgpogth .gt_column_spanner_outer {
+#etnchpwzrs .gt_column_spanner_outer {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 80%;
@@ -119,15 +119,15 @@ permalink: /charts/baseball/
   padding-right: 4px;
 }
 
-#svahgpogth .gt_column_spanner_outer:first-child {
+#etnchpwzrs .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#svahgpogth .gt_column_spanner_outer:last-child {
+#etnchpwzrs .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#svahgpogth .gt_column_spanner {
+#etnchpwzrs .gt_column_spanner {
   border-bottom-style: none;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -139,7 +139,7 @@ permalink: /charts/baseball/
   width: 100%;
 }
 
-#svahgpogth .gt_group_heading {
+#etnchpwzrs .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -161,7 +161,7 @@ permalink: /charts/baseball/
   vertical-align: middle;
 }
 
-#svahgpogth .gt_empty_group_heading {
+#etnchpwzrs .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -176,15 +176,15 @@ permalink: /charts/baseball/
   vertical-align: middle;
 }
 
-#svahgpogth .gt_from_md > :first-child {
+#etnchpwzrs .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#svahgpogth .gt_from_md > :last-child {
+#etnchpwzrs .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#svahgpogth .gt_row {
+#etnchpwzrs .gt_row {
   padding-top: 3px;
   padding-bottom: 3px;
   padding-left: 5px;
@@ -203,7 +203,7 @@ permalink: /charts/baseball/
   overflow-x: hidden;
 }
 
-#svahgpogth .gt_stub {
+#etnchpwzrs .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 80%;
@@ -215,7 +215,7 @@ permalink: /charts/baseball/
   padding-left: 12px;
 }
 
-#svahgpogth .gt_summary_row {
+#etnchpwzrs .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -225,7 +225,7 @@ permalink: /charts/baseball/
   padding-right: 5px;
 }
 
-#svahgpogth .gt_first_summary_row {
+#etnchpwzrs .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -235,7 +235,7 @@ permalink: /charts/baseball/
   border-top-color: #D3D3D3;
 }
 
-#svahgpogth .gt_grand_summary_row {
+#etnchpwzrs .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -245,7 +245,7 @@ permalink: /charts/baseball/
   padding-right: 5px;
 }
 
-#svahgpogth .gt_first_grand_summary_row {
+#etnchpwzrs .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -255,11 +255,11 @@ permalink: /charts/baseball/
   border-top-color: #D3D3D3;
 }
 
-#svahgpogth .gt_striped {
+#etnchpwzrs .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#svahgpogth .gt_table_body {
+#etnchpwzrs .gt_table_body {
   border-top-style: none;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -268,7 +268,7 @@ permalink: /charts/baseball/
   border-bottom-color: #D3D3D3;
 }
 
-#svahgpogth .gt_footnotes {
+#etnchpwzrs .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -282,13 +282,13 @@ permalink: /charts/baseball/
   border-right-color: #D3D3D3;
 }
 
-#svahgpogth .gt_footnote {
+#etnchpwzrs .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#svahgpogth .gt_sourcenotes {
+#etnchpwzrs .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -302,41 +302,41 @@ permalink: /charts/baseball/
   border-right-color: #D3D3D3;
 }
 
-#svahgpogth .gt_sourcenote {
+#etnchpwzrs .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#svahgpogth .gt_left {
+#etnchpwzrs .gt_left {
   text-align: left;
 }
 
-#svahgpogth .gt_center {
+#etnchpwzrs .gt_center {
   text-align: center;
 }
 
-#svahgpogth .gt_right {
+#etnchpwzrs .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#svahgpogth .gt_font_normal {
+#etnchpwzrs .gt_font_normal {
   font-weight: normal;
 }
 
-#svahgpogth .gt_font_bold {
+#etnchpwzrs .gt_font_bold {
   font-weight: bold;
 }
 
-#svahgpogth .gt_font_italic {
+#etnchpwzrs .gt_font_italic {
   font-style: italic;
 }
 
-#svahgpogth .gt_super {
+#etnchpwzrs .gt_super {
   font-size: 65%;
 }
 
-#svahgpogth .gt_footnote_marks {
+#etnchpwzrs .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -558,20 +558,20 @@ permalink: /charts/baseball/
 <td class="gt_row gt_right">▄▀▀▄▀▄▄▀▄▀</td></tr>
     <tr><td class="gt_row gt_right gt_striped"><img src="https://www.mlbstatic.com/team-logos/146.svg" style="height:11px;"></td>
 <td class="gt_row gt_left gt_striped">MIA</td>
-<td class="gt_row gt_right gt_striped">60</td>
+<td class="gt_row gt_right gt_striped">61</td>
 <td class="gt_row gt_right gt_striped">83</td>
-<td class="gt_row gt_right gt_striped">&minus;23</td>
-<td class="gt_row gt_right gt_striped">.420</td>
-<td class="gt_row gt_right gt_striped">19</td>
-<td class="gt_row gt_right gt_striped">▄▀▀▄▄▀▀▄▀▄</td></tr>
+<td class="gt_row gt_right gt_striped">&minus;22</td>
+<td class="gt_row gt_right gt_striped">.424</td>
+<td class="gt_row gt_right gt_striped">18</td>
+<td class="gt_row gt_right gt_striped">▀▀▄▄▀▀▄▀▄▀</td></tr>
     <tr><td class="gt_row gt_right"><img src="https://www.mlbstatic.com/team-logos/120.svg" style="height:11px;"></td>
 <td class="gt_row gt_left">WSH</td>
 <td class="gt_row gt_right">59</td>
-<td class="gt_row gt_right">84</td>
-<td class="gt_row gt_right">&minus;25</td>
-<td class="gt_row gt_right">.413</td>
-<td class="gt_row gt_right">19</td>
-<td class="gt_row gt_right">▀▄▄▀▄▀▄▄▄▀</td></tr>
+<td class="gt_row gt_right">85</td>
+<td class="gt_row gt_right">&minus;26</td>
+<td class="gt_row gt_right">.410</td>
+<td class="gt_row gt_right">18</td>
+<td class="gt_row gt_right">▄▄▀▄▀▄▄▄▀▄</td></tr>
     <tr class="gt_group_heading_row">
       <td colspan="8" class="gt_group_heading">NL West</td>
     </tr>
@@ -647,12 +647,12 @@ permalink: /charts/baseball/
 
 ## Wild Card
 
-<div id="dcdcxjdtgo" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+<div id="fitzxjzjal" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
   <style>html {
   font-family: verdana, calibri, menlo, consolas, monospace, helvetica, arial, sans-serif, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial;
 }
 
-#dcdcxjdtgo .gt_table {
+#fitzxjzjal .gt_table {
   display: table;
   border-collapse: collapse;
   margin-left: auto;
@@ -677,7 +677,7 @@ permalink: /charts/baseball/
   border-left-color: #D3D3D3;
 }
 
-#dcdcxjdtgo .gt_heading {
+#fitzxjzjal .gt_heading {
   background-color: #FFFFFF;
   text-align: center;
   border-bottom-color: #FFFFFF;
@@ -689,7 +689,7 @@ permalink: /charts/baseball/
   border-right-color: #D3D3D3;
 }
 
-#dcdcxjdtgo .gt_title {
+#fitzxjzjal .gt_title {
   color: #333333;
   font-size: 125%;
   font-weight: initial;
@@ -699,7 +699,7 @@ permalink: /charts/baseball/
   border-bottom-width: 0;
 }
 
-#dcdcxjdtgo .gt_subtitle {
+#fitzxjzjal .gt_subtitle {
   color: #333333;
   font-size: 85%;
   font-weight: initial;
@@ -709,13 +709,13 @@ permalink: /charts/baseball/
   border-top-width: 0;
 }
 
-#dcdcxjdtgo .gt_bottom_border {
+#fitzxjzjal .gt_bottom_border {
   border-bottom-style: none;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
 }
 
-#dcdcxjdtgo .gt_col_headings {
+#fitzxjzjal .gt_col_headings {
   border-top-style: none;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -730,7 +730,7 @@ permalink: /charts/baseball/
   border-right-color: #D3D3D3;
 }
 
-#dcdcxjdtgo .gt_col_heading {
+#fitzxjzjal .gt_col_heading {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 80%;
@@ -750,7 +750,7 @@ permalink: /charts/baseball/
   overflow-x: hidden;
 }
 
-#dcdcxjdtgo .gt_column_spanner_outer {
+#fitzxjzjal .gt_column_spanner_outer {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 80%;
@@ -762,15 +762,15 @@ permalink: /charts/baseball/
   padding-right: 4px;
 }
 
-#dcdcxjdtgo .gt_column_spanner_outer:first-child {
+#fitzxjzjal .gt_column_spanner_outer:first-child {
   padding-left: 0;
 }
 
-#dcdcxjdtgo .gt_column_spanner_outer:last-child {
+#fitzxjzjal .gt_column_spanner_outer:last-child {
   padding-right: 0;
 }
 
-#dcdcxjdtgo .gt_column_spanner {
+#fitzxjzjal .gt_column_spanner {
   border-bottom-style: none;
   border-bottom-width: 2px;
   border-bottom-color: #D3D3D3;
@@ -782,7 +782,7 @@ permalink: /charts/baseball/
   width: 100%;
 }
 
-#dcdcxjdtgo .gt_group_heading {
+#fitzxjzjal .gt_group_heading {
   padding: 8px;
   color: #333333;
   background-color: #FFFFFF;
@@ -804,7 +804,7 @@ permalink: /charts/baseball/
   vertical-align: middle;
 }
 
-#dcdcxjdtgo .gt_empty_group_heading {
+#fitzxjzjal .gt_empty_group_heading {
   padding: 0.5px;
   color: #333333;
   background-color: #FFFFFF;
@@ -819,15 +819,15 @@ permalink: /charts/baseball/
   vertical-align: middle;
 }
 
-#dcdcxjdtgo .gt_from_md > :first-child {
+#fitzxjzjal .gt_from_md > :first-child {
   margin-top: 0;
 }
 
-#dcdcxjdtgo .gt_from_md > :last-child {
+#fitzxjzjal .gt_from_md > :last-child {
   margin-bottom: 0;
 }
 
-#dcdcxjdtgo .gt_row {
+#fitzxjzjal .gt_row {
   padding-top: 3px;
   padding-bottom: 3px;
   padding-left: 5px;
@@ -846,7 +846,7 @@ permalink: /charts/baseball/
   overflow-x: hidden;
 }
 
-#dcdcxjdtgo .gt_stub {
+#fitzxjzjal .gt_stub {
   color: #333333;
   background-color: #FFFFFF;
   font-size: 80%;
@@ -858,7 +858,7 @@ permalink: /charts/baseball/
   padding-left: 12px;
 }
 
-#dcdcxjdtgo .gt_summary_row {
+#fitzxjzjal .gt_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -868,7 +868,7 @@ permalink: /charts/baseball/
   padding-right: 5px;
 }
 
-#dcdcxjdtgo .gt_first_summary_row {
+#fitzxjzjal .gt_first_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -878,7 +878,7 @@ permalink: /charts/baseball/
   border-top-color: #D3D3D3;
 }
 
-#dcdcxjdtgo .gt_grand_summary_row {
+#fitzxjzjal .gt_grand_summary_row {
   color: #333333;
   background-color: #FFFFFF;
   text-transform: inherit;
@@ -888,7 +888,7 @@ permalink: /charts/baseball/
   padding-right: 5px;
 }
 
-#dcdcxjdtgo .gt_first_grand_summary_row {
+#fitzxjzjal .gt_first_grand_summary_row {
   padding-top: 8px;
   padding-bottom: 8px;
   padding-left: 5px;
@@ -898,11 +898,11 @@ permalink: /charts/baseball/
   border-top-color: #D3D3D3;
 }
 
-#dcdcxjdtgo .gt_striped {
+#fitzxjzjal .gt_striped {
   background-color: rgba(128, 128, 128, 0.05);
 }
 
-#dcdcxjdtgo .gt_table_body {
+#fitzxjzjal .gt_table_body {
   border-top-style: none;
   border-top-width: 2px;
   border-top-color: #D3D3D3;
@@ -911,7 +911,7 @@ permalink: /charts/baseball/
   border-bottom-color: #D3D3D3;
 }
 
-#dcdcxjdtgo .gt_footnotes {
+#fitzxjzjal .gt_footnotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -925,13 +925,13 @@ permalink: /charts/baseball/
   border-right-color: #D3D3D3;
 }
 
-#dcdcxjdtgo .gt_footnote {
+#fitzxjzjal .gt_footnote {
   margin: 0px;
   font-size: 90%;
   padding: 4px;
 }
 
-#dcdcxjdtgo .gt_sourcenotes {
+#fitzxjzjal .gt_sourcenotes {
   color: #333333;
   background-color: #FFFFFF;
   border-bottom-style: none;
@@ -945,41 +945,41 @@ permalink: /charts/baseball/
   border-right-color: #D3D3D3;
 }
 
-#dcdcxjdtgo .gt_sourcenote {
+#fitzxjzjal .gt_sourcenote {
   font-size: 90%;
   padding: 4px;
 }
 
-#dcdcxjdtgo .gt_left {
+#fitzxjzjal .gt_left {
   text-align: left;
 }
 
-#dcdcxjdtgo .gt_center {
+#fitzxjzjal .gt_center {
   text-align: center;
 }
 
-#dcdcxjdtgo .gt_right {
+#fitzxjzjal .gt_right {
   text-align: right;
   font-variant-numeric: tabular-nums;
 }
 
-#dcdcxjdtgo .gt_font_normal {
+#fitzxjzjal .gt_font_normal {
   font-weight: normal;
 }
 
-#dcdcxjdtgo .gt_font_bold {
+#fitzxjzjal .gt_font_bold {
   font-weight: bold;
 }
 
-#dcdcxjdtgo .gt_font_italic {
+#fitzxjzjal .gt_font_italic {
   font-style: italic;
 }
 
-#dcdcxjdtgo .gt_super {
+#fitzxjzjal .gt_super {
   font-size: 65%;
 }
 
-#dcdcxjdtgo .gt_footnote_marks {
+#fitzxjzjal .gt_footnote_marks {
   font-style: italic;
   font-weight: normal;
   font-size: 65%;
@@ -1216,20 +1216,20 @@ permalink: /charts/baseball/
 <td class="gt_row gt_right gt_striped">▀▀▀▀▀▄▀▄▄▄</td></tr>
     <tr><td class="gt_row gt_right"><img src="https://www.mlbstatic.com/team-logos/146.svg" style="height:11px;"></td>
 <td class="gt_row gt_left">MIA</td>
-<td class="gt_row gt_right">60</td>
+<td class="gt_row gt_right">61</td>
 <td class="gt_row gt_right">83</td>
-<td class="gt_row gt_right">&minus;23</td>
-<td class="gt_row gt_right">.420</td>
-<td class="gt_row gt_right">19</td>
-<td class="gt_row gt_right">▄▀▀▄▄▀▀▄▀▄</td></tr>
+<td class="gt_row gt_right">&minus;22</td>
+<td class="gt_row gt_right">.424</td>
+<td class="gt_row gt_right">18</td>
+<td class="gt_row gt_right">▀▀▄▄▀▀▄▀▄▀</td></tr>
     <tr><td class="gt_row gt_right gt_striped"><img src="https://www.mlbstatic.com/team-logos/120.svg" style="height:11px;"></td>
 <td class="gt_row gt_left gt_striped">WSH</td>
 <td class="gt_row gt_right gt_striped">59</td>
-<td class="gt_row gt_right gt_striped">84</td>
-<td class="gt_row gt_right gt_striped">&minus;25</td>
-<td class="gt_row gt_right gt_striped">.413</td>
-<td class="gt_row gt_right gt_striped">19</td>
-<td class="gt_row gt_right gt_striped">▀▄▄▀▄▀▄▄▄▀</td></tr>
+<td class="gt_row gt_right gt_striped">85</td>
+<td class="gt_row gt_right gt_striped">&minus;26</td>
+<td class="gt_row gt_right gt_striped">.410</td>
+<td class="gt_row gt_right gt_striped">18</td>
+<td class="gt_row gt_right gt_striped">▄▄▀▄▀▄▄▄▀▄</td></tr>
     <tr><td class="gt_row gt_right"><img src="https://www.mlbstatic.com/team-logos/134.svg" style="height:11px;"></td>
 <td class="gt_row gt_left">PIT</td>
 <td class="gt_row gt_right">52</td>
@@ -1254,6 +1254,6 @@ permalink: /charts/baseball/
 
 ![Wild Card]({{ site.baseurl }}/plots/mlb_team_rank.png)
 
-Source: [FiveThirtyEight](https://github.com/fivethirtyeight/data/tree/master/mlb-elo). [CC-BY-4.0 License](https://github.com/fivethirtyeight/data/blob/master/LICENSE). Latest data: 05:43 PM CT, September 13 
+Source: [FiveThirtyEight](https://github.com/fivethirtyeight/data/tree/master/mlb-elo). [CC-BY-4.0 License](https://github.com/fivethirtyeight/data/blob/master/LICENSE). Latest data: 09:16 PM CT, September 13 
 
 
