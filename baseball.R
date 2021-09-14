@@ -263,6 +263,13 @@ standings_table <- mlb_standings %>%
   opt_all_caps(all_caps = TRUE)
 standings_table
 standings_table_html <- as_raw_html(standings_table, inline_css = FALSE)
+better_divs_division_standings <- gsub("[#][a-z]{10}",
+                                       "#division_standings_table", 
+                                       x = standings_table_html)
+better_division_standings_table_html <- gsub("[\"][a-z]{10}",
+                                             "\"division_standings_table",
+                                             x = better_divs_division_standings)
+
 
 # games above 500 plots ----
 standings_plot <- function(division) {
@@ -375,6 +382,14 @@ wild_card_table <- mlb_standings %>%
   opt_all_caps(all_caps = TRUE)
 wild_card_table
 wild_card_table_html <- as_raw_html(wild_card_table, inline_css = FALSE)
+better_wild_card_divs <- gsub("[#][a-z]{10}",
+                                       "#division_standings_table", 
+                                       x = wild_card_table_html)
+better_wild_card_standings_table_html <- gsub("[\"][a-z]{10}",
+                                             "\"division_standings_table",
+                                             x = better_wild_card_divs)
+
+
 
 # wild card plot ----
 mlb_min <-  .9*min(mlb_standings$win_pct)
@@ -488,7 +503,7 @@ title: Baseball
 permalink: /charts/baseball/
 ---
 
-",standings_table_html,"
+",better_division_standings_table_html,"
 
 ### AL Central
 
@@ -516,7 +531,7 @@ permalink: /charts/baseball/
 
 ## Wild Card
 
-",wild_card_table_html,"
+",better_wild_card_standings_table_html,"
 
 ![Wild Card]({{ site.baseurl }}/plots/mlb_team_rank.png)
 
