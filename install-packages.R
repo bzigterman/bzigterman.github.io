@@ -11,4 +11,5 @@ install.packages("cowplot")
 install.packages("fredr")
 
 install.packages("remotes")
+Sys.unsetenv("GITHUB_PAT")
 remotes::install_github("jthomasmock/gtExtras")
