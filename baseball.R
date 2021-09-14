@@ -383,11 +383,11 @@ wild_card_table <- mlb_standings %>%
 wild_card_table
 wild_card_table_html <- as_raw_html(wild_card_table, inline_css = FALSE)
 better_wild_card_divs <- gsub("[#][a-z]{10}",
-                                       "#division_standings_table", 
-                                       x = wild_card_table_html)
+                              "#wild_card_standings_table", 
+                              x = wild_card_table_html)
 better_wild_card_standings_table_html <- gsub("[\"][a-z]{10}",
-                                             "\"division_standings_table",
-                                             x = better_wild_card_divs)
+                                              "\"wild_card_standings_table",
+                                              x = better_wild_card_divs)
 
 
 
