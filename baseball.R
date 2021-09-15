@@ -256,12 +256,13 @@ standings_table <- mlb_standings %>%
   #opt_table_font(font = c("verdana","calibri","menlo","consolas","monospace","helvetica", "arial", "sans-serif")) %>%
   #opt_row_striping(row_striping = TRUE) %>%
    tab_options(
-     table.width = pct(100))
-  #   data_row.padding = px(3),
-  #   table.font.size = px(11)
+     table.width = pct(100),
+     data_row.padding = px(3),
+     table.font.size = px(11)
+   ) %>%
   # ) # %>%
   #opt_table_lines(extent = "none") %>%
-  #opt_all_caps(all_caps = TRUE)
+  opt_all_caps(all_caps = TRUE)
 standings_table
 standings_table_html <- as_raw_html(standings_table, inline_css = FALSE)
 better_divs_division_standings <- gsub("[#][a-z]{10}",
@@ -384,15 +385,15 @@ wild_card_table <- mlb_standings %>%
     games_remaining = html("Games<br>Left"),
     outcomes = html("Last 20<br>Games")
   ) %>%
- # opt_table_font(font = c("verdana","calibri","menlo","consolas","monospace","helvetica", "arial", "sans-serif")) %>%
+  # opt_table_font(font = c("verdana","calibri","menlo","consolas","monospace","helvetica", "arial", "sans-serif")) %>%
   #opt_row_striping(row_striping = TRUE) %>%
   tab_options(
-    table.width = pct(100))
-  #   data_row.padding = px(3),
-  #   table.font.size = px(11)
-  # )  %>%
+    table.width = pct(100),
+    data_row.padding = px(3),
+    table.font.size = px(11)
+  )  %>%
   # opt_table_lines(extent = "none") %>%
-  # opt_all_caps(all_caps = TRUE)
+  opt_all_caps(all_caps = TRUE)
 wild_card_table
 wild_card_table_html <- as_raw_html(wild_card_table, inline_css = FALSE)
 better_wild_card_divs <- gsub("[#][a-z]{10}",
