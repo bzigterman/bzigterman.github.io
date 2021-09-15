@@ -4,6 +4,8 @@ library(scales)
 library(fredr)
 library(cowplot)
 library(ggforce)
+library(gt)
+library(gtExtras)
 library(zoo)
 
 fredr_set_key(Sys.getenv("FRED_API_KEY"))
