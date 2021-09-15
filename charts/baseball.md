@@ -622,29 +622,9 @@ html {
 </table>
 </div>
 
-### AL Central
+### Games Above .500
 
-![AL Central]({{ site.baseurl }}/plots/al_central_wins_losses.png)
-
-### AL East
-
-![AL East]({{ site.baseurl }}/plots/al_east_wins_losses.png)
-
-### AL West
-
-![AL West]({{ site.baseurl }}/plots/al_west_wins_losses.png)
-
-### NL Central
-
-![NL Central]({{ site.baseurl }}/plots/nl_central_wins_losses.png)
-
-### NL East
-
-![NL East]({{ site.baseurl }}/plots/nl_east_wins_losses.png)
-
-### NL West
-
-![NL West]({{ site.baseurl }}/plots/nl_west_wins_losses.png)
+![Divisions]({{ site.baseurl }}/plots/divisions_net_wins.png)
 
 ## Wild Card
 

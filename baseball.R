@@ -286,8 +286,9 @@ standings_plot <- function(division) {
                color = "grey50",
                size = .2) +
     geom_line() +
-    geom_text(aes(x = game_n + 4),
-              family = "mono") +
+    geom_text(aes(x = game_n + 10),
+              family = "mono",
+              size = 4) +
     scale_x_continuous(breaks = c(0,40, 81,121, 162)) +
     scale_y_continuous(position = "right") +
     scale_color_brewer(palette = "Set1",
@@ -296,7 +297,7 @@ standings_plot <- function(division) {
     #                  guide = NULL) +
     coord_cartesian(xlim = c(0,162)) +
     theme_minimal() +
-    labs(title = "Games Above .500",
+    labs(title = division$division,
          #caption = "Source: FiveThirtyEight",
          x = NULL,
          y = NULL) +
@@ -310,27 +311,37 @@ standings_plot <- function(division) {
       plot.caption = element_text(color = "grey40")
     )
 }
-standings_plot(al_central)  
-ggsave("plots/al_central_wins_losses.png", 
-       width = 8, height = 8*(628/1200), 
-       dpi = 320)
-standings_plot(al_east)  
-ggsave("plots/al_east_wins_losses.png", 
-       width = 8, height = 8*(628/1200), dpi = 320)
-standings_plot(al_west)  
-ggsave("plots/al_west_wins_losses.png", 
-       width = 8, height = 8*(628/1200), dpi = 320)
+al_central_plot <- standings_plot(al_central)  
+# ggsave("plots/al_central_wins_losses.png", plot = al_central_plot,
+#        width = 8, height = 8*(628/1200), 
+#        dpi = 320)
+al_east_plot <- standings_plot(al_east)  
+# ggsave("plots/al_east_wins_losses.png", plot = al_east_plot,
+#        width = 8, height = 8*(628/1200), dpi = 320)
+al_west_plot <- standings_plot(al_west)  
+# ggsave("plots/al_west_wins_losses.png", plot = al_west_plot,
+#        width = 8, height = 8*(628/1200), dpi = 320)
 
 
-standings_plot(nl_central)  
-ggsave("plots/nl_central_wins_losses.png", 
-       width = 8, height = 8*(628/1200), dpi = 320)
-standings_plot(nl_east)  
-ggsave("plots/nl_east_wins_losses.png", 
-       width = 8, height = 8*(628/1200), dpi = 320)
-standings_plot(nl_west)  
-ggsave("plots/nl_west_wins_losses.png", 
-       width = 8, height = 8*(628/1200), dpi = 320)
+nl_central_plot <- standings_plot(nl_central)  
+# ggsave("plots/nl_central_wins_losses.png", plot = nl_central_plot,
+#        width = 8, height = 8*(628/1200), dpi = 320)
+nl_east_plot <- standings_plot(nl_east)  
+# ggsave("plots/nl_east_wins_losses.png", plot = nl_east_plot,
+#        width = 8, height = 8*(628/1200), dpi = 320)
+nl_west_plot <- standings_plot(nl_west)  
+# ggsave("plots/nl_west_wins_losses.png", plot = nl_west_plot,
+#        width = 8, height = 8*(628/1200), dpi = 320)
+
+plot_grid(al_central_plot,nl_central_plot,
+          al_east_plot,nl_east_plot,
+          al_west_plot,nl_west_plot,
+          align = "hv",
+          ncol = 2)
+
+ggsave("plots/divisions_net_wins.png", 
+       width = 8, height = 7, dpi = 320)
+
 
 # wild card standings ----
 mlb_standings <- mlb_games %>%
@@ -507,29 +518,9 @@ permalink: /charts/baseball/
 
 ",better_division_standings_table_html,"
 
-### AL Central
+### Games Above .500
 
-![AL Central]({{ site.baseurl }}/plots/al_central_wins_losses.png)
-
-### AL East
-
-![AL East]({{ site.baseurl }}/plots/al_east_wins_losses.png)
-
-### AL West
-
-![AL West]({{ site.baseurl }}/plots/al_west_wins_losses.png)
-
-### NL Central
-
-![NL Central]({{ site.baseurl }}/plots/nl_central_wins_losses.png)
-
-### NL East
-
-![NL East]({{ site.baseurl }}/plots/nl_east_wins_losses.png)
-
-### NL West
-
-![NL West]({{ site.baseurl }}/plots/nl_west_wins_losses.png)
+![Divisions]({{ site.baseurl }}/plots/divisions_net_wins.png)
 
 ## Wild Card
 
