@@ -599,7 +599,7 @@ data <- full_join(active_listings, median_listing_price) %>%
 latest_lists_for_table <- data %>%
   select(name,date,short_date,value) %>%
   group_by(name) %>%
-  do(tail(., n = 12)) %>%
+  do(tail(., n = 36)) %>%
   summarise(lists = list(value), .groups = "drop") 
 latest_data_for_table <- data %>%
   select(name,short_date,value) %>%
@@ -610,7 +610,7 @@ latest_data_for_table <- data %>%
 cu_housing_table <-   ungroup(latest_data_for_table) %>%
   gt() %>%
   gt_theme_espn() %>%
-  gt_sparkline(lists) %>%
+  gt_kable_sparkline(lists) %>%
   tab_options(
     table.width = pct(100),
     data_row.padding = px(4),
@@ -626,9 +626,9 @@ cu_housing_table <-   ungroup(latest_data_for_table) %>%
     columns = c(lists)
   ) %>%
   cols_label(
-    name = "",
-    short_date = "Month",
-    lists = "Last 12 Months"
+    name = "Housing Indicator",
+    value = tail(latest_data_for_table$short_date,1),
+    lists = "Last 3 Years"
   ) 
 
 cu_housing_table
