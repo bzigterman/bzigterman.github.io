@@ -603,7 +603,7 @@ latest_lists_for_table <- data %>%
   select(name,date,shorter_date,value) %>%
   group_by(name) %>%
   do(tail(., n = 5*12)) %>%
-  summarise(lists = list(value), .groups = "drop") 
+  summarise(lists = list(value)) 
 latest_data_for_table <- data %>%
   select(name,shorter_date,value) %>%
   group_by(name) %>%
