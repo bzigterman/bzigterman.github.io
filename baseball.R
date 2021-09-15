@@ -234,7 +234,7 @@ standings_table <- mlb_standings %>%
     fn = function(x) {
       web_image(
         url = x,
-        height = px(11)
+        height = px(12)
       )
     }
   ) %>%
@@ -257,8 +257,8 @@ standings_table <- mlb_standings %>%
   #opt_row_striping(row_striping = TRUE) %>%
    tab_options(
      table.width = pct(100),
-     data_row.padding = px(3),
-     table.font.size = px(11)
+     data_row.padding = px(4),
+     table.font.size = px(12)
    ) %>%
   # ) # %>%
   #opt_table_lines(extent = "none") %>%
@@ -361,7 +361,7 @@ wild_card_table <- mlb_standings %>%
     fn = function(x) {
       web_image(
         url = x,
-        height = px(11)
+        height = px(12)
       )
     }
   ) %>%
@@ -389,8 +389,8 @@ wild_card_table <- mlb_standings %>%
   #opt_row_striping(row_striping = TRUE) %>%
   tab_options(
     table.width = pct(100),
-    data_row.padding = px(3),
-    table.font.size = px(11)
+    data_row.padding = px(4),
+    table.font.size = px(12)
   )  %>%
   # opt_table_lines(extent = "none") %>%
   opt_all_caps(all_caps = TRUE)
