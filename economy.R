@@ -593,18 +593,19 @@ pending_ratio <- fredr(series_id = "PENRAT17019") %>%
 data <- full_join(active_listings, median_listing_price) %>%
   full_join(median_days_on_market) %>%
   full_join(pending_ratio) %>%
-  mutate(short_date = paste(month(date, label = TRUE, abbr = FALSE)))
+  mutate(short_date = paste(month(date, label = TRUE, abbr = FALSE))) %>%
+  mutate(shorter_date = paste(month(date, label = TRUE, abbr = TRUE)))
 
 
 
 
 latest_lists_for_table <- data %>%
-  select(name,date,short_date,value) %>%
+  select(name,date,shorter_date,value) %>%
   group_by(name) %>%
-  do(tail(., n = 36)) %>%
+  do(tail(., n = 5*12)) %>%
   summarise(lists = list(value), .groups = "drop") 
 latest_data_for_table <- data %>%
-  select(name,short_date,value) %>%
+  select(name,shorter_date,value) %>%
   group_by(name) %>%
   do(tail(., n = 1)) %>%
   full_join(latest_lists_for_table) 
@@ -612,14 +613,14 @@ latest_data_for_table <- data %>%
 cu_housing_table <-   ungroup(latest_data_for_table) %>%
   gt() %>%
   gt_theme_espn() %>%
-  gt_kable_sparkline(lists) %>%
+  gt_sparkline(lists) %>%
   tab_options(
     table.width = pct(100),
     data_row.padding = px(4),
     table.font.size = px(12)
   ) %>%
   opt_all_caps(  all_caps = TRUE) %>%
-  cols_hide(columns = c(short_date)) %>%
+  cols_hide(columns = c(shorter_date)) %>%
   fmt_number(
     columns = value,
     n_sigfig = 3) %>%
@@ -629,8 +630,8 @@ cu_housing_table <-   ungroup(latest_data_for_table) %>%
   ) %>%
   cols_label(
     name = "Housing Indicator",
-    value = tail(latest_data_for_table$short_date,1),
-    lists = "Last 3 Years"
+    value = tail(latest_data_for_table$shorter_date,1),
+    lists = html("Last 5<br>Years")
   ) 
 
 cu_housing_table
