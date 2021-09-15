@@ -583,7 +583,7 @@ ggsave("plots/champaign_population.png", plot = champaign_population,
 active_listings <- fredr(series_id = "ACTLISCOU17019") %>%
   mutate(name = "Active Listings")
 median_listing_price <- fredr(series_id = "MEDLISPRI17019") %>%
-  mutate(name = "Median Listing Price")
+  mutate(name = "Median Listing Price ($)")
 median_days_on_market <- fredr(series_id = "MEDDAYONMAR17019") %>%
   mutate(name = "Median Days on Market")
 pending_ratio <- fredr(series_id = "PENRAT17019") %>%
@@ -599,16 +599,29 @@ data <- full_join(active_listings, median_listing_price) %>%
 
 
 
-latest_lists_for_table <- data %>%
+lists <- data %>%
   select(name,date,shorter_date,value) %>%
   group_by(name) %>%
   do(tail(., n = 5*12)) %>%
   summarise(lists = list(value)) 
-latest_data_for_table <- data %>%
+add_latest_month_column <- data %>%
   select(name,shorter_date,value) %>%
   group_by(name) %>%
   do(tail(., n = 1)) %>%
-  full_join(latest_lists_for_table) 
+  rename(latest = value) %>%
+  full_join(lists) 
+
+add_year_ago_column <- data %>%
+  select(name,shorter_date,value) %>%
+  group_by(name) %>%
+  do(tail(.,n = 13)) %>%
+  do(head(.,n =1)) %>%
+  rename(year_ago = value) %>%
+  full_join(add_latest_month_column) %>%
+  mutate(pct_change = (latest-year_ago)/year_ago)
+
+
+latest_data_for_table <- add_year_ago_column
 
 cu_housing_table <-   ungroup(latest_data_for_table) %>%
   gt() %>%
@@ -621,16 +634,26 @@ cu_housing_table <-   ungroup(latest_data_for_table) %>%
   ) %>%
   opt_all_caps(  all_caps = TRUE) %>%
   cols_hide(columns = c(shorter_date)) %>%
+  cols_move(
+    columns = pct_change,
+    after = latest) %>%
   fmt_number(
-    columns = value,
+    columns = c(latest,year_ago),
     n_sigfig = 3) %>%
+  fmt_percent(
+    columns = pct_change,
+    decimals = 0,
+    force_sign = TRUE
+  ) %>%
   cols_align(
     align = c("right"),
-    columns = c(lists)
+    columns = lists
   ) %>%
   cols_label(
-    name = "Housing Indicator",
-    value = tail(latest_data_for_table$shorter_date,1),
+    name = "Housing Indicators",
+    latest = "Latest",
+    year_ago = "Year Ago",
+    pct_change = html("Year %<br>Change"),
     lists = html("Last 5<br>Years")
   ) 
 
