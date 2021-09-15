@@ -349,6 +349,27 @@ mlb_standings <- mlb_games %>%
   filter(!is.na(team_label)) %>%
   select(logo_url, team_label, wins, losses, net_wins, win_pct, win_pct_text, games_remaining, last_ten, division, league, outcomes)
 
+# playoff_rows <- c(1,2,3,4,5,16,17,18,19,20)
+# row <- 1
+# for (row in playoff_rows) {
+#   highlight_rows[[row]] <- paste("gt_highlight_rows(
+#     rows = ",row,",
+#     fill = \"gray85\")",
+#   sep = "")
+# }
+# highlight_rows
+# highlighted_rows <- paste(highlight_rows,"sep\n")
+# highlighted_rows
+# 
+# gt_highlight_rows(
+#   rows = 1,
+#   fill = "gray85",
+#   font_weight = "bold",
+#   bold_target_only = TRUE,
+#   target_col = team_label
+# ) 
+  
+
 wild_card_table <- mlb_standings %>%
   group_by(league) %>%
   arrange(league,desc(win_pct)) %>%
