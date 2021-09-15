@@ -593,6 +593,53 @@ data <- full_join(active_listings, median_listing_price) %>%
   full_join(pending_ratio) %>%
   mutate(short_date = paste(month(date, label = TRUE, abbr = FALSE)))
 
+
+
+
+latest_lists_for_table <- data %>%
+  select(name,date,short_date,value) %>%
+  group_by(name) %>%
+  do(tail(., n = 12)) %>%
+  summarise(lists = list(value), .groups = "drop") 
+latest_data_for_table <- data %>%
+  select(name,short_date,value) %>%
+  group_by(name) %>%
+  do(tail(., n = 1)) %>%
+  full_join(latest_lists_for_table) 
+
+cu_housing_table <-   ungroup(latest_data_for_table) %>%
+  gt() %>%
+  gt_theme_espn() %>%
+  gt_sparkline(lists) %>%
+  tab_options(
+    table.width = pct(100),
+    data_row.padding = px(4),
+    table.font.size = px(12)
+  ) %>%
+  opt_all_caps(  all_caps = TRUE) %>%
+  cols_hide(columns = c(short_date)) %>%
+  fmt_number(
+    columns = value,
+    n_sigfig = 3) %>%
+  cols_align(
+    align = c("right"),
+    columns = c(lists)
+  ) %>%
+  cols_label(
+    name = "",
+    short_date = "Month",
+    lists = "Last 12 Months"
+  ) 
+
+cu_housing_table
+cu_housing_table_html <- as_raw_html(cu_housing_table, inline_css = FALSE)
+better_divs_cu_housing_table <- gsub("[#][a-z]{10}",
+                                     "#cu_housing_table", 
+                                     x = cu_housing_table_html)
+better_cu_housing_table_html <- gsub("[\"][a-z]{10}",
+                                     "\"cu_housing_table",
+                                     x = better_divs_cu_housing_table)
+
 ggplot(data, aes(x = date,
                  y = value,
                  color = name)) +
@@ -639,6 +686,8 @@ permalink: /charts/economy/
 ![Employment]({{ site.baseurl }}/plots/champaign_employment.png)
 
 ![Population]({{ site.baseurl }}/plots/champaign_population.png)
+
+",better_cu_housing_table_html,"
 
 ![Housing]({{ site.baseurl }}/plots/champaign_housing.png)
 
