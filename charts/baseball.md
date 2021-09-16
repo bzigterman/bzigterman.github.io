@@ -4,7 +4,7 @@ title: Baseball
 permalink: /charts/baseball/
 ---
 
-<span style="font-family:-apple-system, BlinkMacSystemFont, verdana, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;color:$gray;font-size:50%> Latest data: 06:09 PM CT, September 16</span> 
+<p id="updated_time"> Latest data: 06:25 PM CT, September 16</p> 
 
 ### Games Above .500
 
