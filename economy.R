@@ -4,6 +4,8 @@ library(scales)
 library(fredr)
 library(cowplot)
 library(ggforce)
+library(gt)
+library(gtExtras)
 library(zoo)
 
 fredr_set_key(Sys.getenv("FRED_API_KEY"))
@@ -581,7 +583,7 @@ ggsave("plots/champaign_population.png", plot = champaign_population,
 active_listings <- fredr(series_id = "ACTLISCOU17019") %>%
   mutate(name = "Active Listings")
 median_listing_price <- fredr(series_id = "MEDLISPRI17019") %>%
-  mutate(name = "Median Listing Price")
+  mutate(name = "Median List Price ($)")
 median_days_on_market <- fredr(series_id = "MEDDAYONMAR17019") %>%
   mutate(name = "Median Days on Market")
 pending_ratio <- fredr(series_id = "PENRAT17019") %>%
@@ -591,7 +593,78 @@ pending_ratio <- fredr(series_id = "PENRAT17019") %>%
 data <- full_join(active_listings, median_listing_price) %>%
   full_join(median_days_on_market) %>%
   full_join(pending_ratio) %>%
-  mutate(short_date = paste(month(date, label = TRUE, abbr = FALSE)))
+  mutate(short_date = paste(month(date, label = TRUE, abbr = FALSE))) %>%
+  mutate(shorter_date = paste(month(date, label = TRUE, abbr = TRUE)))
+
+
+
+
+lists <- data %>%
+  select(name,date,shorter_date,value) %>%
+  group_by(name) %>%
+  do(tail(., n = 5*12)) %>%
+  summarise(lists = list(value)) 
+add_latest_month_column <- data %>%
+  select(name,shorter_date,value) %>%
+  group_by(name) %>%
+  do(tail(., n = 1)) %>%
+  rename(latest = value) %>%
+  full_join(lists) 
+
+add_year_ago_column <- data %>%
+  select(name,shorter_date,value) %>%
+  group_by(name) %>%
+  do(tail(.,n = 13)) %>%
+  do(head(.,n =1)) %>%
+  rename(year_ago = value) %>%
+  full_join(add_latest_month_column) %>%
+  mutate(pct_change = (latest-year_ago)/year_ago)
+
+
+latest_data_for_table <- add_year_ago_column
+
+cu_housing_table <-   ungroup(latest_data_for_table) %>%
+  gt() %>%
+  gt_theme_espn() %>%
+  gt_sparkline(lists) %>%
+  tab_options(
+    table.width = pct(100),
+    data_row.padding = px(4),
+    table.font.size = px(12)
+  ) %>%
+  opt_all_caps(  all_caps = TRUE) %>%
+  cols_hide(columns = c(shorter_date)) %>%
+  cols_move(
+    columns = pct_change,
+    after = latest) %>%
+  fmt_number(
+    columns = c(latest,year_ago),
+    n_sigfig = 3) %>%
+  fmt_percent(
+    columns = pct_change,
+    decimals = 0,
+    force_sign = TRUE
+  ) %>%
+  cols_align(
+    align = c("right"),
+    columns = lists
+  ) %>%
+  cols_label(
+    name = "Housing Indicators",
+    latest = "Latest",
+    year_ago = "Year Ago",
+    pct_change = html("Year %<br>Change"),
+    lists = html("Last 5<br>Years")
+  ) 
+
+cu_housing_table
+cu_housing_table_html <- as_raw_html(cu_housing_table, inline_css = FALSE)
+better_divs_cu_housing_table <- gsub("[#][a-z]{10}",
+                                     "#cu_housing_table", 
+                                     x = cu_housing_table_html)
+better_cu_housing_table_html <- gsub("[\"][a-z]{10}",
+                                     "\"cu_housing_table",
+                                     x = better_divs_cu_housing_table)
 
 ggplot(data, aes(x = date,
                  y = value,
@@ -639,6 +712,8 @@ permalink: /charts/economy/
 ![Employment]({{ site.baseurl }}/plots/champaign_employment.png)
 
 ![Population]({{ site.baseurl }}/plots/champaign_population.png)
+
+",better_cu_housing_table_html,"
 
 ![Housing]({{ site.baseurl }}/plots/champaign_housing.png)
 
