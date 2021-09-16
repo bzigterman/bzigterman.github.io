@@ -20,7 +20,7 @@ html {
   font-weight: normal;
   font-style: normal;
   background-color: #FFFFFF;
-  width: auto;
+  width: 100%;
   border-top-style: solid;
   border-top-width: 3px;
   border-top-color: #FFFFFF;
