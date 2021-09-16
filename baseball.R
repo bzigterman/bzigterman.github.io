@@ -652,9 +652,9 @@ now_formatted <- strftime(x = now,
                           tz = "US/Central",
                           format = "%I:%M% %p CT, %B %d")
 
-now_html <- paste("<span style=\"font-family:-apple-system, BlinkMacSystemFont, verdana, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;color:$gray;font-size:50%>",
+now_html <- paste("<p id=\"updated_time\"> Latest data: ",
                   now_formatted,
-                  "</span>",
+                  "</p>",
                   sep = "")
 
 
