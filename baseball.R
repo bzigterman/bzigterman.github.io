@@ -299,7 +299,7 @@ nl_west_standings_magic <- nl_west_standings %>%
 division_standings <- full_join(al_central_standings_magic, al_east_standings_magic) %>%
   full_join(al_west_standings_magic) %>% full_join(nl_central_standings_magic) %>%
   full_join(nl_east_standings_magic) %>% full_join(nl_west_standings_magic) %>%
-  select(logo_url, team_label, wins, losses, net_wins, win_pct, win_pct_text, division_magic_number, division_elimination_number,last_ten, outcomes, division, league)
+  select(logo_url, team_label, wins, losses, net_wins, win_pct, win_pct_text, division_magic_number, division_elimination_number,division_magic_or_eliminated,last_ten, outcomes, division, league)
 
 
 al_games <- full_join(al_central, al_east) %>%
@@ -344,11 +344,6 @@ standings_table <- division_standings %>%
   gt_theme_espn() %>%
   gt_plt_winloss(outcomes, max_wins = 20,
                  type = "pill") %>%
-  fmt_number(
-    columns = net_wins,
-    force_sign = TRUE,
-    decimals = 0
-  ) %>%
   text_transform(
     locations = cells_body(columns = logo_url),
     fn = function(x) {
@@ -358,7 +353,9 @@ standings_table <- division_standings %>%
       )
     }
   ) %>%
-  cols_hide(columns = c(win_pct, league,last_ten, net_wins)) %>%
+  cols_hide(columns = c(win_pct, league,last_ten, net_wins,
+                        division_magic_number,
+                        division_elimination_number)) %>%
   cols_align(
     align = c("right"),
     columns = c(last_ten,win_pct_text, logo_url, outcomes)
@@ -370,8 +367,9 @@ standings_table <- division_standings %>%
     losses = "L",
     net_wins = html("Games<br>Above<br>.500"),
     win_pct_text = "Pct",
-    division_magic_number = "M#",
-    division_elimination_number = "E#",
+    division_magic_or_eliminated = html("M#<br>/E#"),
+    #division_magic_number = "M#",
+    #division_elimination_number = "E#",
     outcomes = html("Last 20<br>Games")
   ) %>%
   #opt_table_font(font = c("verdana","calibri","menlo","consolas","monospace","helvetica", "arial", "sans-serif")) %>%
