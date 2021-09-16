@@ -86,7 +86,10 @@ latest_data_for_table <- add_two_weeks_ago_column
 cu_covid_table <-   ungroup(latest_data_for_table) %>%
   gt() %>%
   gt_theme_espn() %>%
-  gt_kable_sparkline(lists) %>%
+  gt_sparkline(lists,
+               line_color = "grey70",
+               range_colors = c("blue", "red")
+               ) %>%
   tab_options(
     table.width = pct(100),
     data_row.padding = px(4),
