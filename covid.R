@@ -99,7 +99,7 @@ cu_covid_table <-   ungroup(latest_data_for_table) %>%
     after = latest) %>%
   fmt_number(
     columns = c(latest,two_weeks_ago),
-    n_sigfig = 3) %>%
+    decimals = 0) %>%
   fmt_percent(
     columns = pct_change,
     decimals = 0,
