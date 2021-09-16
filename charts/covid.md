@@ -361,7 +361,7 @@ html {
   <tbody class="gt_table_body">
     <tr><td class="gt_row gt_left">Average New Cases</td>
 <td class="gt_row gt_right">110</td>
-<td class="gt_row gt_right">67.7</td>
+<td class="gt_row gt_right">68</td>
 <td class="gt_row gt_right">&minus;38&percnt;</td>
 <td class="gt_row gt_right"><?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="svglite" width="48.00pt" height="10.80pt" viewBox="0 0 48.00 10.80">
@@ -389,9 +389,9 @@ html {
   </g>
 </svg>
 </td></tr>
-    <tr><td class="gt_row gt_left gt_striped">Deaths in the Past Month</td>
-<td class="gt_row gt_right gt_striped">15.0</td>
-<td class="gt_row gt_right gt_striped">19.0</td>
+    <tr><td class="gt_row gt_left gt_striped">Deaths in Past Month</td>
+<td class="gt_row gt_right gt_striped">15</td>
+<td class="gt_row gt_right gt_striped">19</td>
 <td class="gt_row gt_right gt_striped">+27&percnt;</td>
 <td class="gt_row gt_right gt_striped"><?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" class="svglite" width="48.00pt" height="10.80pt" viewBox="0 0 48.00 10.80">
