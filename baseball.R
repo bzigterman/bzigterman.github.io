@@ -85,6 +85,25 @@ al_central <- full_join(team1,team2) %>%
   mutate(division = "AL Central") %>%
   mutate(league = "AL")
 
+al_central_standings <- al_central %>%
+  filter(!is.na(team_label)) %>%
+  arrange(desc(win_pct)) %>%
+  mutate(division_place = row_number()) 
+al_central_standings_magic <- al_central_standings %>%
+  mutate(second_place_losses = al_central_standings$losses[[2]]) %>%
+  mutate(first_place_remaining = al_central_standings$games_remaining[[1]]) %>%
+  mutate(first_place_wins = al_central_standings$wins[[1]]) %>%
+  mutate(division_magic_number = if_else(division_place == 1,
+                                         163 - wins - second_place_losses,
+                                         NULL)) %>%
+  mutate(division_elimination_number = if_else(division_place != 1,
+                                               (163 - first_place_wins - losses),
+                                               NULL)) %>%
+  mutate(division_magic_or_eliminated = if_else(division_place == 1,
+                                                division_magic_number,
+                                                division_elimination_number))
+
+
 ## al east ----
 
 team1 <- get_team_records("TBD") %>%
@@ -104,6 +123,25 @@ al_east <- full_join(team1,team2) %>%
   full_join(team5) %>%
   mutate(division = "AL East") %>%
   mutate(league = "AL")
+
+al_east_standings <- al_east %>%
+  filter(!is.na(team_label)) %>%
+  arrange(desc(win_pct)) %>%
+  mutate(division_place = row_number()) 
+al_east_standings_magic <- al_east_standings %>%
+  mutate(second_place_losses = al_east_standings$losses[[2]]) %>%
+  mutate(first_place_remaining = al_east_standings$games_remaining[[1]]) %>%
+  mutate(first_place_wins = al_east_standings$wins[[1]]) %>%
+  mutate(division_magic_number = if_else(division_place == 1,
+                                         163 - wins - second_place_losses,
+                                         NULL)) %>%
+  mutate(division_elimination_number = if_else(division_place != 1,
+                                               (163 - first_place_wins - losses),
+                                               NULL)) %>%
+  mutate(division_magic_or_eliminated = if_else(division_place == 1,
+                                                division_magic_number,
+                                                division_elimination_number))
+
 
 ## al west ----
 
@@ -125,6 +163,25 @@ al_west <- full_join(team1,team2) %>%
   mutate(division = "AL West") %>%
   mutate(league = "AL")
 
+al_west_standings <- al_west %>%
+  filter(!is.na(team_label)) %>%
+  arrange(desc(win_pct)) %>%
+  mutate(division_place = row_number()) 
+al_west_standings_magic <- al_west_standings %>%
+  mutate(second_place_losses = al_west_standings$losses[[2]]) %>%
+  mutate(first_place_remaining = al_west_standings$games_remaining[[1]]) %>%
+  mutate(first_place_wins = al_west_standings$wins[[1]]) %>%
+  mutate(division_magic_number = if_else(division_place == 1,
+                                         163 - wins - second_place_losses,
+                                         NULL)) %>%
+  mutate(division_elimination_number = if_else(division_place != 1,
+                                               (163 - first_place_wins - losses),
+                                               NULL)) %>%
+  mutate(division_magic_or_eliminated = if_else(division_place == 1,
+                                                division_magic_number,
+                                                division_elimination_number))
+
+
 ## nl central ----
 team1 <- get_team_records("MIL") %>%
   mutate(logo_url = "https://www.mlbstatic.com/team-logos/158.svg")
@@ -143,6 +200,26 @@ nl_central <- full_join(team1,team2) %>%
   full_join(team5) %>%
   mutate(division = "NL Central") %>%
   mutate(league = "NL")
+
+nl_central_standings <- nl_central %>%
+  filter(!is.na(team_label)) %>%
+  arrange(desc(win_pct)) %>%
+  mutate(division_place = row_number()) 
+nl_central_standings_magic <- nl_central_standings %>%
+  mutate(second_place_losses = nl_central_standings$losses[[2]]) %>%
+  mutate(first_place_remaining = nl_central_standings$games_remaining[[1]]) %>%
+  mutate(first_place_wins = nl_central_standings$wins[[1]]) %>%
+  mutate(division_magic_number = if_else(division_place == 1,
+                                         163 - wins - second_place_losses,
+                                         NULL)) %>%
+  mutate(division_elimination_number = if_else(division_place != 1,
+                                               (163 - first_place_wins - losses),
+                                               NULL)) %>%
+  mutate(division_magic_or_eliminated = if_else(division_place == 1,
+                                                division_magic_number,
+                                                division_elimination_number))
+
+
 
 ## nl east ----
 team1 <- get_team_records("ATL") %>%
@@ -163,6 +240,25 @@ nl_east <- full_join(team1,team2) %>%
   mutate(division = "NL East") %>%
   mutate(league = "NL")
 
+nl_east_standings <- nl_east %>%
+  filter(!is.na(team_label)) %>%
+  arrange(desc(win_pct)) %>%
+  mutate(division_place = row_number()) 
+nl_east_standings_magic <- nl_east_standings %>%
+  mutate(second_place_losses = nl_east_standings$losses[[2]]) %>%
+  mutate(first_place_remaining = nl_east_standings$games_remaining[[1]]) %>%
+  mutate(first_place_wins = nl_east_standings$wins[[1]]) %>%
+  mutate(division_magic_number = if_else(division_place == 1,
+                                         163 - wins - second_place_losses,
+                                         NULL)) %>%
+  mutate(division_elimination_number = if_else(division_place != 1,
+                                               (163 - first_place_wins - losses),
+                                               NULL)) %>%
+  mutate(division_magic_or_eliminated = if_else(division_place == 1,
+                                                division_magic_number,
+                                                division_elimination_number))
+
+
 ## nl west ----
 team1 <- get_team_records("SFG") %>%
   mutate(logo_url = "https://www.mlbstatic.com/team-logos/137.svg")
@@ -181,6 +277,30 @@ nl_west <- full_join(team1,team2) %>%
   full_join(team5) %>%
   mutate(division = "NL West") %>%
   mutate(league = "NL")
+
+nl_west_standings <- nl_west %>%
+  filter(!is.na(team_label)) %>%
+  arrange(desc(win_pct)) %>%
+  mutate(division_place = row_number()) 
+nl_west_standings_magic <- nl_west_standings %>%
+  mutate(second_place_losses = nl_west_standings$losses[[2]]) %>%
+  mutate(first_place_remaining = nl_west_standings$games_remaining[[1]]) %>%
+  mutate(first_place_wins = nl_west_standings$wins[[1]]) %>%
+  mutate(division_magic_number = if_else(division_place == 1,
+                                         163 - wins - second_place_losses,
+                                         NULL)) %>%
+  mutate(division_elimination_number = if_else(division_place != 1,
+                                               (163 - first_place_wins - losses),
+                                               NULL)) %>%
+  mutate(division_magic_or_eliminated = if_else(division_place == 1,
+                                                division_magic_number,
+                                                division_elimination_number))
+
+division_standings <- full_join(al_central_standings_magic, al_east_standings_magic) %>%
+  full_join(al_west_standings_magic) %>% full_join(nl_central_standings_magic) %>%
+  full_join(nl_east_standings_magic) %>% full_join(nl_west_standings_magic) %>%
+  select(logo_url, team_label, wins, losses, net_wins, win_pct, win_pct_text, division_magic_number, division_elimination_number,last_ten, outcomes, division, league)
+
 
 al_games <- full_join(al_central, al_east) %>%
   full_join(al_west)
@@ -217,7 +337,7 @@ mlb_standings <- mlb_games %>%
   filter(!is.na(team_label)) %>%
   select(logo_url, team_label, wins, losses, net_wins, win_pct, win_pct_text, games_remaining,last_ten, outcomes, division, league)
 
-standings_table <- mlb_standings %>%
+standings_table <- division_standings %>%
   group_by(division) %>%
   arrange(division,desc(win_pct)) %>%
   gt() %>%
@@ -250,13 +370,14 @@ standings_table <- mlb_standings %>%
     losses = "L",
     net_wins = html("Games<br>Above<br>.500"),
     win_pct_text = "Pct",
-    games_remaining = html("Games<br>Left"),
+    division_magic_number = "M#",
+    division_elimination_number = "E#",
     outcomes = html("Last 20<br>Games")
   ) %>%
   #opt_table_font(font = c("verdana","calibri","menlo","consolas","monospace","helvetica", "arial", "sans-serif")) %>%
   #opt_row_striping(row_striping = TRUE) %>%
    tab_options(
-     table.width = pct(100),
+    # table.width = pct(100),
      data_row.padding = px(4),
      table.font.size = px(12)
    ) %>%
