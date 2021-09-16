@@ -358,7 +358,7 @@ standings_table <- division_standings %>%
       )
     }
   ) %>%
-  cols_hide(columns = c(win_pct, league,last_ten)) %>%
+  cols_hide(columns = c(win_pct, league,last_ten, net_wins)) %>%
   cols_align(
     align = c("right"),
     columns = c(last_ten,win_pct_text, logo_url, outcomes)
