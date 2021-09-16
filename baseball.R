@@ -464,31 +464,31 @@ ggsave("plots/divisions_net_wins.png",
 
 
 # wild card standings ----
-mlb_standings <- mlb_games %>%
+
+al_standings <- al_games %>%
   filter(!is.na(team_label)) %>%
-  select(logo_url, team_label, wins, losses, net_wins, win_pct, win_pct_text, games_remaining, last_ten, division, league, outcomes)
+  arrange(desc(win_pct)) %>%
+  mutate(league_place = row_number()) 
+al_standings_elim <- al_standings %>%
+  mutate(fifth_place_wins = al_standings$wins[[5]]) %>%
+  mutate(league_elimination_number = if_else(league_place != 1:5,
+                                               (163 - fifth_place_wins - losses),
+                                               NULL))
+nl_standings <- nl_games %>%
+  filter(!is.na(team_label)) %>%
+  arrange(desc(win_pct)) %>%
+  mutate(league_place = row_number()) 
+nl_standings_elim <- nl_standings %>%
+  mutate(fifth_place_wins = nl_standings$wins[[5]]) %>%
+  mutate(league_elimination_number = if_else(league_place != 1:5,
+                                               (163 - fifth_place_wins - losses),
+                                               NULL))
 
-# playoff_rows <- c(1,2,3,4,5,16,17,18,19,20)
-# row <- 1
-# for (row in playoff_rows) {
-#   highlight_rows[[row]] <- paste("gt_highlight_rows(
-#     rows = ",row,",
-#     fill = \"gray85\")",
-#   sep = "")
-# }
-# highlight_rows
-# highlighted_rows <- paste(highlight_rows,"sep\n")
-# highlighted_rows
-# 
-# gt_highlight_rows(
-#   rows = 1,
-#   fill = "gray85",
-#   font_weight = "bold",
-#   bold_target_only = TRUE,
-#   target_col = team_label
-# ) 
+mlb_standings <- full_join(al_standings_elim, nl_standings_elim) %>%
+  select(logo_url, team_label, wins, losses, net_wins, win_pct, win_pct_text, games_remaining, last_ten, division, league, league_elimination_number, outcomes)
+
+
   
-
 wild_card_table <- mlb_standings %>%
   group_by(league) %>%
   arrange(league,desc(win_pct)) %>%
@@ -505,7 +505,8 @@ wild_card_table <- mlb_standings %>%
       )
     }
   ) %>%
-  cols_hide(columns = c(win_pct, division, last_ten)) %>%
+  cols_hide(columns = c(win_pct, division, last_ten, 
+                        net_wins, games_remaining)) %>%
   fmt_number(
     columns = net_wins,
     force_sign = TRUE,
@@ -523,6 +524,7 @@ wild_card_table <- mlb_standings %>%
     net_wins = html("Games<br>Above<br>.500"),
     win_pct_text = "Pct",
     games_remaining = html("Games<br>Left"),
+    league_elimination_number = "E#",
     outcomes = html("Last 20<br>Games")
   ) %>%
   # opt_table_font(font = c("verdana","calibri","menlo","consolas","monospace","helvetica", "arial", "sans-serif")) %>%
