@@ -40,11 +40,11 @@ Community transmission levels are calculated by the CDC based on new cases per c
 
 ## United States
 
-As of Tuesday in the United States (vs. two weeks ago):
+As of Wednesday in the United States (vs. two weeks ago):
   
-- Average new cases: 152,000 (vs. 160,000) -5%↓
+- Average new cases: 150,000 (vs. 166,000) -9%↓
 - Hospitalized: 91,100 (vs. 99,100) -8%↓
-- Average new deaths: 1,800 (vs. 1,340) +35%↑
+- Average new deaths: 1,880 (vs. 1,410) +33%↑
 - Percent of the United States fully vaccinated: 53.3% (vs. 51.8%)
 - Average new vaccine doses: 780,000 (vs. 899,000)
 
@@ -56,10 +56,10 @@ As of Tuesday in the United States (vs. two weeks ago):
 
 ## World
 
-As of Tuesday (vs. two weeks ago):
+As of Wednesday (vs. two weeks ago):
   
-- Average new cases: 552,000 (vs. 642,000) -14%↓
-- Average new deaths: 8,920 (vs. 9,560) -7%↓
+- Average new cases: 539,000 (vs. 643,000) -16%↓
+- Average new deaths: 8,890 (vs. 9,720) -9%↓
 - Percent of the world fully vaccinated: 30.2% (vs. 27.1%)
 - Average new vaccine doses: 31,600,000 (vs. 41,300,000)
 
@@ -67,12 +67,12 @@ As of Tuesday (vs. two weeks ago):
 
 ## Case Acceleration
 
-As of Tuesday, the 14-day percent change in average new cases was:
+As of Wednesday, the 14-day percent change in average new cases was:
   
 - -27% in Champaign County
 - -4% in Illinois
-- -5% in the United States
-- -14% worldwide
+- -9% in the United States
+- -16% worldwide
 
 ![Case Acceleration](https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/new_cases_change_facet.png)
 
@@ -80,11 +80,11 @@ This chart measures how quickly the average number of new cases is changing, or 
 
 ## Death Acceleration
 
-As of Tuesday, the 14-day percent change in average new deaths was:
+As of Wednesday, the 14-day percent change in average new deaths was:
   
 - 57% in Illinois
-- 35% in the United States
-- -7% worldwide
+- 33% in the United States
+- -9% worldwide
 
 ![Death Acceleration](https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/new_deaths_change_facet.png)
 
