@@ -652,7 +652,7 @@ now_formatted <- strftime(x = now,
                           tz = "US/Central",
                           format = "%I:%M% %p CT, %B %d")
 
-now_html <- paste("<p id=\"updated_time\"> Latest data: ",
+now_html <- paste("<p class=\"updated_time\"> Latest data: ",
                   now_formatted,
                   "</p>",
                   sep = "")
