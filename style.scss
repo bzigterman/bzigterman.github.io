@@ -284,6 +284,12 @@ footer {
   border-top: 1px solid $lightGray;
 }
 
+.update-time {
+	font-family: -apple-system, BlinkMacSystemFont, verdana, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
+	font-size: 50%;
+	color: $gray;
+}
+
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";

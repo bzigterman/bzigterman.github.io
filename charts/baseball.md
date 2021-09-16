@@ -4,6 +4,12 @@ title: Baseball
 permalink: /charts/baseball/
 ---
 
+<div class="update-time"<p>Latest data: 06:01 PM CT, September 16</p></div> 
+
+### Games Above .500
+
+![Divisions]({{ site.baseurl }}/plots/divisions_net_wins.png)
+
 <div id="division_standings_table" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
   <style>@import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
 html {
@@ -591,11 +597,9 @@ html {
 </table>
 </div>
 
-### Games Above .500
-
-![Divisions]({{ site.baseurl }}/plots/divisions_net_wins.png)
-
 ## Wild Card
+
+![Wild Card]({{ site.baseurl }}/plots/mlb_team_rank.png)
 
 <div id="wild_card_standings_table" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
   <style>@import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
@@ -1172,8 +1176,6 @@ html {
 </table>
 </div>
 
-![Wild Card]({{ site.baseurl }}/plots/mlb_team_rank.png)
-
-Source: [FiveThirtyEight](https://github.com/fivethirtyeight/data/tree/master/mlb-elo). [CC-BY-4.0 License](https://github.com/fivethirtyeight/data/blob/master/LICENSE). Latest data: 05:12 PM CT, September 16 
+Source: [FiveThirtyEight](https://github.com/fivethirtyeight/data/tree/master/mlb-elo). [CC-BY-4.0 License](https://github.com/fivethirtyeight/data/blob/master/LICENSE). 
 
 

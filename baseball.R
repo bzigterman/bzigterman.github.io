@@ -652,6 +652,11 @@ now_formatted <- strftime(x = now,
                           tz = "US/Central",
                           format = "%I:%M% %p CT, %B %d")
 
+now_html <- paste("<div class=\"update-time\"<p>Latest data: ",
+                  now_formatted,
+                  "</p></div>",
+                  sep = "")
+
 web_text <- paste(
   "---
 layout: page
@@ -659,19 +664,21 @@ title: Baseball
 permalink: /charts/baseball/
 ---
 
-",better_division_standings_table_html,"
+",now_html," 
 
 ### Games Above .500
 
 ![Divisions]({{ site.baseurl }}/plots/divisions_net_wins.png)
 
-## Wild Card
+",better_division_standings_table_html,"
 
-",better_wild_card_standings_table_html,"
+## Wild Card
 
 ![Wild Card]({{ site.baseurl }}/plots/mlb_team_rank.png)
 
-Source: [FiveThirtyEight](https://github.com/fivethirtyeight/data/tree/master/mlb-elo). [CC-BY-4.0 License](https://github.com/fivethirtyeight/data/blob/master/LICENSE). Latest data: ",now_formatted," 
+",better_wild_card_standings_table_html,"
+
+Source: [FiveThirtyEight](https://github.com/fivethirtyeight/data/tree/master/mlb-elo). [CC-BY-4.0 License](https://github.com/fivethirtyeight/data/blob/master/LICENSE). 
 
 ",
 sep = ""
