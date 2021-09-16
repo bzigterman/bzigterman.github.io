@@ -3,6 +3,8 @@ library(rio)
 library(tidyverse)
 library(lubridate)
 library(zoo)
+library(gt)
+library(gtExtras)
 
 # make variables ----
 ## Champaign County ----
@@ -16,11 +18,11 @@ idph_cases_champaign <- idph_cases_champaign$values %>%
   mutate(avg_new_cases = rollapply(new_cases, width = 7, FUN = mean, na.rm = TRUE, fill = NA, align = "right")) %>%
   mutate(monthlydead = rollmean(new_deaths, k = 31, 
                                 fill = NA, align = "right")*31)  %>%
-  mutate(Date = ymd_hms(reportDate)) 
+  mutate(Date = ymd_hms(reportDate))
 
 idph_vax_champaign <- rio::import("https://idph.illinois.gov/DPHPublicInformation/api/COVIDExport/GetVaccineAdministration?format=csv&countyName=Champaign",
                                   format = "csv") %>%
-  mutate(Date = mdy_hms(Report_Date)) 
+  mutate(Date = mdy_hms(Report_Date))
 
 ## hhs hospitalizations ----
 hospitalizations_url <- "https://healthdata.gov/resource/anag-cw7u.json?zip=61801"
@@ -42,6 +44,88 @@ hospitalizations_by_date <- hospitalizations %>%
   summarise(sum_hospitalized = sum(total)) %>%
   mutate(avg_hospitalized = sum_hospitalized/7) %>%
   mutate(CountyName = "Champaign")
+
+idph_cases_vax_hosp <- full_join(idph_cases_champaign, idph_vax_champaign) %>%
+  full_join(hospitalizations_by_date) %>%
+  select(Date,
+         monthlydead, avg_new_cases)
+
+idph_cases_vax_hosp_long <- idph_cases_vax_hosp %>%
+  pivot_longer(!Date,
+               values_to = "values",
+               names_to = "names") %>%
+  mutate(names = recode(
+    names, 
+    "avg_new_cases" = "Average New Cases",
+    "monthlydead" = "Deaths in the Past Month"
+  ))
+  
+lists <- idph_cases_vax_hosp_long %>%
+  group_by(names) %>%
+  do(tail(., n = 365)) %>%
+  summarise(lists = list(values)) 
+add_latest_column <- idph_cases_vax_hosp_long %>%
+  select(names,Date,values) %>%
+  group_by(names) %>%
+  do(tail(na.omit(.), n = 1)) %>%
+  rename(latest = values) %>%
+  full_join(lists) 
+
+add_two_weeks_ago_column <- idph_cases_vax_hosp_long %>%
+  select(names,values) %>%
+  group_by(names) %>%
+  do(tail(.,n = 15)) %>%
+  do(head(.,n =1)) %>%
+  rename(two_weeks_ago = values) %>%
+  full_join(add_latest_column) %>%
+  mutate(pct_change = (latest-two_weeks_ago)/two_weeks_ago)
+
+
+latest_data_for_table <- add_two_weeks_ago_column
+
+cu_covid_table <-   ungroup(latest_data_for_table) %>%
+  gt() %>%
+  gt_theme_espn() %>%
+  gt_kable_sparkline(lists) %>%
+  tab_options(
+    table.width = pct(100),
+    data_row.padding = px(4),
+    table.font.size = px(12)
+  ) %>%
+  opt_all_caps(  all_caps = TRUE) %>%
+  cols_hide(columns = c(Date)) %>%
+  cols_move(
+    columns = pct_change,
+    after = latest) %>%
+  fmt_number(
+    columns = c(latest,two_weeks_ago),
+    n_sigfig = 3) %>%
+  fmt_percent(
+    columns = pct_change,
+    decimals = 0,
+    force_sign = TRUE
+  ) %>%
+  cols_align(
+    align = c("right"),
+    columns = lists
+  ) %>%
+  cols_label(
+    names = "",
+    latest = "Latest",
+    two_weeks_ago = html("14 Days<br>Ago"),
+    pct_change = html("14 Day<br>Trend"),
+    lists = html("Past<br>Year")
+  ) 
+
+cu_covid_table
+cu_covid_table_html <- as_raw_html(cu_covid_table, inline_css = FALSE)
+better_divs_cu_covid_table <- gsub("[#][a-z]{10}",
+                                     "#cu_housing_table", 
+                                     x = cu_covid_table_html)
+better_cu_covid_table_html <- gsub("[\"][a-z]{10}",
+                                     "\"cu_housing_table",
+                                     x = better_divs_cu_covid_table)
+
 
 ### set variables ----
 champaign_avg_hospitalized <- format(round(signif(tail(hospitalizations_by_date$avg_hospitalized,1),3)),big.mark=",")
@@ -477,6 +561,8 @@ permalink: /charts/covid
 During the COVID-19 pandemic, I've been making charts with data from the [Champaign-Urbana Public Health District](https://www.c-uphd.org/champaign-urbana-illinois-coronavirus-information.html), the [University of Illinois](https://go.illinois.edu/COVIDTestingData), the [Illinois Department of Public Health](http://www.dph.illinois.gov/covid19), the [CDC](https://covid.cdc.gov/covid-data-tracker/), the [U.S. Department of Health and Human Services](https://healthdata.gov/Hospital/COVID-19-Reported-Patient-Impact-and-Hospital-Capa/anag-cw7u), [Our World in Data](https://github.com/owid/covid-19-data/tree/master/public/data) and the [COVID-19 Data Repository by the Center for Systems Science and Engineering (CSSE) at Johns Hopkins University](https://github.com/CSSEGISandData/COVID-19).
 
 ## Champaign County
+
+",better_cu_covid_table_html,"
 
 ",champaign_county_text,
 "
