@@ -45,8 +45,8 @@ As of Wednesday in the United States (vs. two weeks ago):
 - Average new cases: 150,000 (vs. 166,000) -9%↓
 - Hospitalized: 91,100 (vs. 99,100) -8%↓
 - Average new deaths: 1,880 (vs. 1,410) +33%↑
-- Percent of the United States fully vaccinated: 53.3% (vs. 51.8%)
-- Average new vaccine doses: 780,000 (vs. 899,000)
+- Percent of the United States fully vaccinated: 53.4% (vs. 51.9%)
+- Average new vaccine doses: 763,000 (vs. 920,000)
 
 ![USA Metrics](https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/US_facet.png)
 
@@ -60,8 +60,8 @@ As of Wednesday (vs. two weeks ago):
   
 - Average new cases: 539,000 (vs. 643,000) -16%↓
 - Average new deaths: 8,890 (vs. 9,720) -9%↓
-- Percent of the world fully vaccinated: 30.2% (vs. 27.1%)
-- Average new vaccine doses: 31,600,000 (vs. 41,300,000)
+- Percent of the world fully vaccinated: 30.4% (vs. 27.3%)
+- Average new vaccine doses: 29,600,000 (vs. 41,900,000)
 
 ![World Metrics](https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/world_facet.png)
 
