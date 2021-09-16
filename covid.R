@@ -57,7 +57,7 @@ idph_cases_vax_hosp_long <- idph_cases_vax_hosp %>%
   mutate(names = recode(
     names, 
     "avg_new_cases" = "Average New Cases",
-    "monthlydead" = "Deaths in the Past Month"
+    "monthlydead" = "Deaths in Past Month"
   ))
   
 lists <- idph_cases_vax_hosp_long %>%
