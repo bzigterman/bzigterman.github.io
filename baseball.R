@@ -688,14 +688,86 @@ league_standings_plot <- function(league) {
 }
 al_plot <- league_standings_plot(al_games)
 nl_plot <- league_standings_plot(nl_games)
-al_games_plus <- full_join(al_games, al_standings_elim) 
-al_games_plus <- full_join(nl_games, nl_standings_elim) 
 
 plot_grid(al_plot, nl_plot,
           align = "hv")
 
 ggsave("plots/mlb_wild_card.png",
        width = 8, height = 4, dpi = 320)
+
+
+## greying out eliminated teams----
+
+al_games_plus <- full_join(al_games, al_standings_elim) %>%
+  group_by(team) %>%
+  fill(league_elimination_number, .direction = "downup") %>%
+  fill(league_place, .direction = "downup") %>%
+  mutate(league_elim = case_when(
+    league_elimination_number < 0 ~ as.character(league_elimination_number),
+    league_elimination_number > 0 ~ as.character(league_elimination_number),
+    league_place == 1             ~ "First",
+    league_place == 2             ~ "Second",
+    league_place == 3             ~ "Third",
+    league_place == 4             ~ "Fourth",
+    league_place == 5             ~ "Fifth",
+    TRUE                          ~ "Top 5"
+  )) 
+nl_games_plus <- full_join(nl_games, nl_standings_elim) %>%
+  group_by(team) %>% 
+  fill(league_elimination_number, .direction = "downup")
+
+unique(al_games_plus$league_elim)
+
+league_standings_plot <- function(league) {
+  ggplot(league, aes(x = game_n,
+                     y = net_wins,
+                     color = league_elim,
+                     label = team_label
+  )) +
+    #coord_fixed(xlim = c(0,162)) +
+    geom_hline(yintercept = 0,
+               color = "grey10",
+               size = .2) +
+    geom_vline(xintercept = 162,
+               color = "grey50",
+               size = .2) +
+    geom_line() +
+    #gghighlight(max(league_elimination_number) > 0) +
+    geom_text(aes(x = game_n + 10),
+              family = "mono",
+              size = 4) +
+    scale_x_continuous(breaks = c(0,40, 81,121, 162)) +
+    scale_y_continuous(position = "right") +
+    scale_color_discrete(guide = NULL) +
+    # scale_color_brewer(palette = "Set1",
+    #                    guide = NULL) +
+    # scale_color_manual(guide = NULL,
+    #                    values = c("First" = "black",
+    #                               "Second" = "grey80",
+    #                               "Third" = "grey60",
+    #                               "Fourth" = "grey40",
+    #                               "Fifth" = "grey20",
+                                  
+    # scale_color_manual(values = c("#27251F","#E31937","#0C2340","#BD9B60","#002B5C"),
+    #                  guide = NULL) +
+    coord_cartesian(xlim = c(0,162)) +
+    theme_minimal() +
+    labs(title = league$league,
+         #caption = "Source: FiveThirtyEight",
+         x = NULL,
+         y = NULL) +
+    theme(
+      plot.background = element_rect(fill = "white", color = "white"),
+      panel.grid = element_blank(),
+      legend.title = element_blank(),
+      axis.ticks.x = element_line(color = "grey60", size = 0.25),
+      panel.grid.major.y = element_line(colour = "grey93"),
+      axis.ticks.y = element_line(color = "grey60"),
+      plot.caption = element_text(color = "grey40")
+    )
+}
+league_standings_plot(al_games_plus)
+
 
 # web text ----
 now <- as_datetime(now())
@@ -731,9 +803,9 @@ permalink: /charts/baseball/
 
 ",better_wild_card_standings_table_html,"
 
-<p class=\"updated_time\">Source: <a href=\"https://github.com/fivethirtyeight/data/tree/master/mlb-elo\">FiveThirtyEight</a>. <a href=\"https://github.com/fivethirtyeight/data/blob/master/LICENSE\">CC-BY-4.0 License</a>.</p> 
-
 ![Wild Card]({{ site.baseurl }}/plots/mlb_wild_card.png)
+
+<p class=\"updated_time\">Source: <a href=\"https://github.com/fivethirtyeight/data/tree/master/mlb-elo\">FiveThirtyEight</a>. <a href=\"https://github.com/fivethirtyeight/data/blob/master/LICENSE\">CC-BY-4.0 License</a>.</p> 
 
 ",
 sep = ""
