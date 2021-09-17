@@ -691,7 +691,6 @@ nl_plot <- league_standings_plot(nl_games)
 al_games_plus <- full_join(al_games, al_standings_elim) 
 al_games_plus <- full_join(nl_games, nl_standings_elim) 
 
-
 plot_grid(al_plot, nl_plot,
           align = "hv")
 
