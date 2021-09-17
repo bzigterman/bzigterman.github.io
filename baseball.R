@@ -646,6 +646,58 @@ ggsave("plots/mlb_team_rank.png",
        width = 8, height = 8*(628/1200),
        dpi = 320)
 
+# wild card net wins plot ----
+league_standings_plot <- function(league) {
+  ggplot(league, aes(x = game_n,
+                       y = net_wins,
+                       color= team,
+                       label = team_label)) +
+    #coord_fixed(xlim = c(0,162)) +
+    geom_hline(yintercept = 0,
+               color = "grey10",
+               size = .2) +
+    geom_vline(xintercept = 162,
+               color = "grey50",
+               size = .2) +
+    geom_line() +
+    geom_text(aes(x = game_n + 10),
+              family = "mono",
+              size = 4) +
+    scale_x_continuous(breaks = c(0,40, 81,121, 162)) +
+    scale_y_continuous(position = "right") +
+    # scale_color_brewer(palette = "Set1",
+    #                    guide = NULL) +
+    scale_color_discrete(guide = NULL) +
+    # scale_color_manual(values = c("#27251F","#E31937","#0C2340","#BD9B60","#002B5C"),
+    #                  guide = NULL) +
+    coord_cartesian(xlim = c(0,162)) +
+    theme_minimal() +
+    labs(title = league$league,
+         #caption = "Source: FiveThirtyEight",
+         x = NULL,
+         y = NULL) +
+    theme(
+      plot.background = element_rect(fill = "white", color = "white"),
+      panel.grid = element_blank(),
+      legend.title = element_blank(),
+      axis.ticks.x = element_line(color = "grey60", size = 0.25),
+      panel.grid.major.y = element_line(colour = "grey93"),
+      axis.ticks.y = element_line(color = "grey60"),
+      plot.caption = element_text(color = "grey40")
+    )
+}
+al_plot <- league_standings_plot(al_games)
+nl_plot <- league_standings_plot(nl_games)
+al_games_plus <- full_join(al_games, al_standings_elim) 
+al_games_plus <- full_join(nl_games, nl_standings_elim) 
+
+
+plot_grid(al_plot, nl_plot,
+          align = "hv")
+
+ggsave("plots/mlb_wild_card.png",
+       width = 8, height = 4, dpi = 320)
+
 # web text ----
 now <- as_datetime(now())
 now_formatted <- strftime(x = now, 
@@ -681,6 +733,8 @@ permalink: /charts/baseball/
 ",better_wild_card_standings_table_html,"
 
 <p class=\"updated_time\">Source: <a href=\"https://github.com/fivethirtyeight/data/tree/master/mlb-elo\">FiveThirtyEight</a>. <a href=\"https://github.com/fivethirtyeight/data/blob/master/LICENSE\">CC-BY-4.0 License</a>.</p> 
+
+![Wild Card]({{ site.baseurl }}/plots/mlb_wild_card.png)
 
 ",
 sep = ""
