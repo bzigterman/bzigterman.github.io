@@ -394,7 +394,8 @@ standings_table <- division_standings %>%
                         division_elimination_number)) %>%
   cols_align(
     align = c("right"),
-    columns = c(last_ten,win_pct_text, logo_url, outcomes)
+    columns = c(last_ten,win_pct_text, logo_url, outcomes,
+                division_magic_or_eliminated)
   ) %>%
   cols_label(
     logo_url = "",
