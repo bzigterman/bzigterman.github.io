@@ -107,7 +107,7 @@ al_central_standings_magic <- al_central_standings %>%
                   division_magic_number,
                   division_elimination_number)) %>%
   mutate(first_place_net_wins = al_central_standings$net_wins[[1]]) %>%
-  mutate(games_behind = (first_place_net_wins - net_wins)/2)
+  mutate(division_games_behind = (first_place_net_wins - net_wins)/2)
 
 
 ## al east ----
@@ -152,7 +152,7 @@ al_east_standings_magic <- al_east_standings %>%
                   division_magic_number,
                   division_elimination_number)) %>%
   mutate(first_place_net_wins = al_east_standings$net_wins[[1]]) %>%
-  mutate(games_behind = (first_place_net_wins - net_wins)/2)
+  mutate(division_games_behind = (first_place_net_wins - net_wins)/2)
 
 
 ## al west ----
@@ -197,7 +197,7 @@ al_west_standings_magic <- al_west_standings %>%
                   division_magic_number,
                   division_elimination_number)) %>%
   mutate(first_place_net_wins = al_west_standings$net_wins[[1]]) %>%
-  mutate(games_behind = (first_place_net_wins - net_wins)/2)
+  mutate(division_games_behind = (first_place_net_wins - net_wins)/2)
 
 
 ## nl central ----
@@ -241,7 +241,7 @@ nl_central_standings_magic <- nl_central_standings %>%
                   division_magic_number,
                   division_elimination_number)) %>%
   mutate(first_place_net_wins = nl_central_standings$net_wins[[1]]) %>%
-  mutate(games_behind = (first_place_net_wins - net_wins)/2)
+  mutate(division_games_behind = (first_place_net_wins - net_wins)/2)
 
 
 
@@ -286,7 +286,7 @@ nl_east_standings_magic <- nl_east_standings %>%
                   division_magic_number,
                   division_elimination_number)) %>%
   mutate(first_place_net_wins = nl_east_standings$net_wins[[1]]) %>%
-  mutate(games_behind = (first_place_net_wins - net_wins)/2)
+  mutate(division_games_behind = (first_place_net_wins - net_wins)/2)
 
 
 ## nl west ----
@@ -335,7 +335,7 @@ nl_west_standings_magic <- nl_west_standings %>%
 division_standings <- full_join(al_central_standings_magic, al_east_standings_magic) %>%
   full_join(al_west_standings_magic) %>% full_join(nl_central_standings_magic) %>%
   full_join(nl_east_standings_magic) %>% full_join(nl_west_standings_magic) %>%
-  select(logo_url, team_label, wins, losses, games_behind, net_wins, win_pct, win_pct_text, division_magic_number, division_elimination_number,division_magic_or_eliminated,last_ten, outcomes, division, league)
+  select(logo_url, team_label, wins, losses, division_games_behind, net_wins, win_pct, win_pct_text, division_magic_number, division_elimination_number,division_magic_or_eliminated,last_ten, outcomes, division, league)
 
 
 al_games <- full_join(al_central, al_east) %>%
@@ -402,7 +402,7 @@ standings_table <- division_standings %>%
     team_label = "Team",
     wins = "W",
     losses = "L",
-    games_behind = "GB",
+    division_games_behind = "GB",
     net_wins = html("Games<br>Above<br>.500"),
     win_pct_text = "Pct",
     division_magic_or_eliminated = html("M#<br>/E#"),
