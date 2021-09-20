@@ -93,15 +93,21 @@ al_central_standings_magic <- al_central_standings %>%
   mutate(second_place_losses = al_central_standings$losses[[2]]) %>%
   mutate(first_place_remaining = al_central_standings$games_remaining[[1]]) %>%
   mutate(first_place_wins = al_central_standings$wins[[1]]) %>%
-  mutate(division_magic_number = if_else(division_place == 1,
-                                         163 - wins - second_place_losses,
-                                         NULL)) %>%
-  mutate(division_elimination_number = if_else(division_place != 1,
-                                               (163 - first_place_wins - losses),
-                                               NULL)) %>%
-  mutate(division_magic_or_eliminated = if_else(division_place == 1,
-                                                division_magic_number,
-                                                division_elimination_number))
+  mutate(division_magic_number = ifelse(division_place == 1,
+                                        163 - wins - second_place_losses,
+                                        "")) %>%
+  mutate(division_elimination_number = 
+           ifelse(division_place != 1,
+                  ifelse((163 - first_place_wins - losses) <= 0,
+                         "E",
+                         (163 - first_place_wins - losses)),
+                  "")) %>%
+  mutate(division_magic_or_eliminated = 
+           ifelse(division_place == 1,
+                  division_magic_number,
+                  division_elimination_number)) %>%
+  mutate(first_place_net_wins = al_central_standings$net_wins[[1]]) %>%
+  mutate(games_behind = (first_place_net_wins - net_wins)/2)
 
 
 ## al east ----
@@ -132,15 +138,21 @@ al_east_standings_magic <- al_east_standings %>%
   mutate(second_place_losses = al_east_standings$losses[[2]]) %>%
   mutate(first_place_remaining = al_east_standings$games_remaining[[1]]) %>%
   mutate(first_place_wins = al_east_standings$wins[[1]]) %>%
-  mutate(division_magic_number = if_else(division_place == 1,
-                                         163 - wins - second_place_losses,
-                                         NULL)) %>%
-  mutate(division_elimination_number = if_else(division_place != 1,
-                                               (163 - first_place_wins - losses),
-                                               NULL)) %>%
-  mutate(division_magic_or_eliminated = if_else(division_place == 1,
-                                                division_magic_number,
-                                                division_elimination_number))
+  mutate(division_magic_number = ifelse(division_place == 1,
+                                        163 - wins - second_place_losses,
+                                        "")) %>%
+  mutate(division_elimination_number = 
+           ifelse(division_place != 1,
+                  ifelse((163 - first_place_wins - losses) <= 0,
+                         "E",
+                         (163 - first_place_wins - losses)),
+                  "")) %>%
+  mutate(division_magic_or_eliminated = 
+           ifelse(division_place == 1,
+                  division_magic_number,
+                  division_elimination_number)) %>%
+  mutate(first_place_net_wins = al_east_standings$net_wins[[1]]) %>%
+  mutate(games_behind = (first_place_net_wins - net_wins)/2)
 
 
 ## al west ----
@@ -171,15 +183,21 @@ al_west_standings_magic <- al_west_standings %>%
   mutate(second_place_losses = al_west_standings$losses[[2]]) %>%
   mutate(first_place_remaining = al_west_standings$games_remaining[[1]]) %>%
   mutate(first_place_wins = al_west_standings$wins[[1]]) %>%
-  mutate(division_magic_number = if_else(division_place == 1,
-                                         163 - wins - second_place_losses,
-                                         NULL)) %>%
-  mutate(division_elimination_number = if_else(division_place != 1,
-                                               (163 - first_place_wins - losses),
-                                               NULL)) %>%
-  mutate(division_magic_or_eliminated = if_else(division_place == 1,
-                                                division_magic_number,
-                                                division_elimination_number))
+  mutate(division_magic_number = ifelse(division_place == 1,
+                                        163 - wins - second_place_losses,
+                                        "")) %>%
+  mutate(division_elimination_number = 
+           ifelse(division_place != 1,
+                  ifelse((163 - first_place_wins - losses) <= 0,
+                         "E",
+                         (163 - first_place_wins - losses)),
+                  "")) %>%
+  mutate(division_magic_or_eliminated = 
+           ifelse(division_place == 1,
+                  division_magic_number,
+                  division_elimination_number)) %>%
+  mutate(first_place_net_wins = al_west_standings$net_wins[[1]]) %>%
+  mutate(games_behind = (first_place_net_wins - net_wins)/2)
 
 
 ## nl central ----
@@ -209,15 +227,21 @@ nl_central_standings_magic <- nl_central_standings %>%
   mutate(second_place_losses = nl_central_standings$losses[[2]]) %>%
   mutate(first_place_remaining = nl_central_standings$games_remaining[[1]]) %>%
   mutate(first_place_wins = nl_central_standings$wins[[1]]) %>%
-  mutate(division_magic_number = if_else(division_place == 1,
-                                         163 - wins - second_place_losses,
-                                         NULL)) %>%
-  mutate(division_elimination_number = if_else(division_place != 1,
-                                               (163 - first_place_wins - losses),
-                                               NULL)) %>%
-  mutate(division_magic_or_eliminated = if_else(division_place == 1,
-                                                division_magic_number,
-                                                division_elimination_number))
+  mutate(division_magic_number = ifelse(division_place == 1,
+                                        163 - wins - second_place_losses,
+                                        "")) %>%
+  mutate(division_elimination_number = 
+           ifelse(division_place != 1,
+                  ifelse((163 - first_place_wins - losses) <= 0,
+                         "E",
+                         (163 - first_place_wins - losses)),
+                  "")) %>%
+  mutate(division_magic_or_eliminated = 
+           ifelse(division_place == 1,
+                  division_magic_number,
+                  division_elimination_number)) %>%
+  mutate(first_place_net_wins = nl_central_standings$net_wins[[1]]) %>%
+  mutate(games_behind = (first_place_net_wins - net_wins)/2)
 
 
 
@@ -248,15 +272,21 @@ nl_east_standings_magic <- nl_east_standings %>%
   mutate(second_place_losses = nl_east_standings$losses[[2]]) %>%
   mutate(first_place_remaining = nl_east_standings$games_remaining[[1]]) %>%
   mutate(first_place_wins = nl_east_standings$wins[[1]]) %>%
-  mutate(division_magic_number = if_else(division_place == 1,
-                                         163 - wins - second_place_losses,
-                                         NULL)) %>%
-  mutate(division_elimination_number = if_else(division_place != 1,
-                                               (163 - first_place_wins - losses),
-                                               NULL)) %>%
-  mutate(division_magic_or_eliminated = if_else(division_place == 1,
-                                                division_magic_number,
-                                                division_elimination_number))
+  mutate(division_magic_number = ifelse(division_place == 1,
+                                        163 - wins - second_place_losses,
+                                        "")) %>%
+  mutate(division_elimination_number = 
+           ifelse(division_place != 1,
+                  ifelse((163 - first_place_wins - losses) <= 0,
+                         "E",
+                         (163 - first_place_wins - losses)),
+                  "")) %>%
+  mutate(division_magic_or_eliminated = 
+           ifelse(division_place == 1,
+                  division_magic_number,
+                  division_elimination_number)) %>%
+  mutate(first_place_net_wins = nl_east_standings$net_wins[[1]]) %>%
+  mutate(games_behind = (first_place_net_wins - net_wins)/2)
 
 
 ## nl west ----
@@ -286,20 +316,26 @@ nl_west_standings_magic <- nl_west_standings %>%
   mutate(second_place_losses = nl_west_standings$losses[[2]]) %>%
   mutate(first_place_remaining = nl_west_standings$games_remaining[[1]]) %>%
   mutate(first_place_wins = nl_west_standings$wins[[1]]) %>%
-  mutate(division_magic_number = if_else(division_place == 1,
-                                         163 - wins - second_place_losses,
-                                         NULL)) %>%
-  mutate(division_elimination_number = if_else(division_place != 1,
-                                               (163 - first_place_wins - losses),
-                                               NULL)) %>%
-  mutate(division_magic_or_eliminated = if_else(division_place == 1,
-                                                division_magic_number,
-                                                division_elimination_number))
+  mutate(division_magic_number = ifelse(division_place == 1,
+                                        163 - wins - second_place_losses,
+                                        "")) %>%
+  mutate(division_elimination_number = 
+           ifelse(division_place != 1,
+                  ifelse((163 - first_place_wins - losses) <= 0,
+                         "E",
+                         (163 - first_place_wins - losses)),
+                  "")) %>%
+  mutate(division_magic_or_eliminated = 
+           ifelse(division_place == 1,
+                  division_magic_number,
+                  division_elimination_number)) %>%
+  mutate(first_place_net_wins = nl_west_standings$net_wins[[1]]) %>%
+  mutate(games_behind = (first_place_net_wins - net_wins)/2)
 
 division_standings <- full_join(al_central_standings_magic, al_east_standings_magic) %>%
   full_join(al_west_standings_magic) %>% full_join(nl_central_standings_magic) %>%
   full_join(nl_east_standings_magic) %>% full_join(nl_west_standings_magic) %>%
-  select(logo_url, team_label, wins, losses, net_wins, win_pct, win_pct_text, division_magic_number, division_elimination_number,division_magic_or_eliminated,last_ten, outcomes, division, league)
+  select(logo_url, team_label, wins, losses, games_behind, net_wins, win_pct, win_pct_text, division_magic_number, division_elimination_number,division_magic_or_eliminated,last_ten, outcomes, division, league)
 
 
 al_games <- full_join(al_central, al_east) %>%
@@ -335,7 +371,7 @@ if (standings_the_same != TRUE) {
 # division standings ----
 mlb_standings <- mlb_games %>%
   filter(!is.na(team_label)) %>%
-  select(logo_url, team_label, wins, losses, net_wins, win_pct, win_pct_text, games_remaining,last_ten, outcomes, division, league)
+  select(logo_url, team_label, wins, losses, games_behind, net_wins, win_pct, win_pct_text, games_remaining,last_ten, outcomes, division, league)
 
 standings_table <- division_standings %>%
   group_by(division) %>%
@@ -365,6 +401,7 @@ standings_table <- division_standings %>%
     team_label = "Team",
     wins = "W",
     losses = "L",
+    games_behind = "GB",
     net_wins = html("Games<br>Above<br>.500"),
     win_pct_text = "Pct",
     division_magic_or_eliminated = html("M#<br>/E#"),
