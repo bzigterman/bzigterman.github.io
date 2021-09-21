@@ -67,7 +67,7 @@ idph_cases_vax_hosp_long <- idph_cases_vax_hosp %>%
   
 lists <- idph_cases_vax_hosp_long %>%
   group_by(names) %>%
-  do(tail(., n = 365)) %>%
+  do(tail(., n = 90)) %>%
   summarise(lists = list(values)) 
 add_latest_column <- idph_cases_vax_hosp_long %>%
   select(names,Date,values) %>%
@@ -126,7 +126,7 @@ cu_covid_table <-   ungroup(latest_data_for_table) %>%
     latest = "Latest",
     two_weeks_ago = html("14 Days<br>Ago"),
     pct_change = html("14 Day<br>Trend"),
-    lists = html("Past<br>Year")
+    lists = html("Past<br>90 Days")
   ) 
 
 cu_covid_table
@@ -238,7 +238,7 @@ il_combined_longer <- il_combined %>%
 
 lists <- il_combined_longer %>%
   group_by(names) %>%
-  do(tail(., n = 365)) %>%
+  do(tail(., n = 90)) %>%
   summarise(lists = list(values)) 
 add_latest_column <- il_combined_longer %>%
   select(names,Date,values) %>%
@@ -297,7 +297,7 @@ il_table <- ungroup(latest_data_for_table) %>%
     latest = "Latest",
     two_weeks_ago = html("14 Days<br>Ago"),
     pct_change = html("14 Day<br>Trend"),
-    lists = html("Past<br>Year")
+    lists = html("Past<br>90 Days")
   ) 
 
 il_table
