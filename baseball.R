@@ -570,7 +570,7 @@ al_standings_magic <- mlb_standings %>%
                                           "—",
                                           league_elim_number))) %>%
   mutate(wc_games_behind = 
-           ifelse(wild_cards != "",
+           ifelse(wild_cards == "W" | wild_cards == "C" | wild_cards == "E",
                   wild_cards,
                   (second_wc_net_wins - net_wins)/2
            )
@@ -626,7 +626,7 @@ nl_standings_magic <- mlb_standings %>%
                                           league_elim_number))) %>%
   mutate(wc_games_behind = (second_wc_net_wins - net_wins)/2) %>%
   mutate(wc_games_behind = 
-           ifelse(wild_cards != "",
+           ifelse(wild_cards == "W" | wild_cards == "C" | wild_cards == "E",
                   wild_cards,
                   (second_wc_net_wins - net_wins)/2
            )
