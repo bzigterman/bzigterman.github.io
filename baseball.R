@@ -541,16 +541,21 @@ al_standings_magic <- mlb_standings %>%
   ) %>%
   group_by(division_leaders) %>%
   mutate(wild_card_rank = dense_rank(desc(wins))) %>%
-  mutate(wild_cards = ifelse(division_leaders == "wc",
+  mutate(wild_cardss = ifelse(division_leaders == "wc",
                              paste(division_leaders,wild_card_rank,sep=""),
                              division_leaders)) %>%
+  mutate(wild_cards = ifelse(wild_cardss == "wc1",
+                             "①",
+                             ifelse(wild_cardss == "wc2",
+                                    "②",
+                                    division_leaders))) %>%
   ungroup() %>%
-  mutate(second_wc_wins = if_else(wild_cards == "wc2",
+  mutate(second_wc_wins = if_else(wild_cards == "②",
                                   wins,
                                   NULL)) %>%
   fill(second_wc_wins, 
        .direction = "downup") %>%
-  mutate(second_wc_losses = if_else(wild_cards == "wc2",
+  mutate(second_wc_losses = if_else(wild_cards == "②",
                                     losses,
                                     NULL)) %>%
   fill(second_wc_losses, 
@@ -591,16 +596,21 @@ nl_standings_magic <- mlb_standings %>%
   ) %>%
   group_by(division_leaders) %>%
   mutate(wild_card_rank = dense_rank(desc(wins))) %>%
-  mutate(wild_cards = ifelse(division_leaders == "wc",
+  mutate(wild_cardss = ifelse(division_leaders == "wc",
                              paste(division_leaders,wild_card_rank,sep=""),
                              division_leaders)) %>%
+  mutate(wild_cards = ifelse(wild_cardss == "wc1",
+                             "①",
+                             ifelse(wild_cardss == "wc2",
+                                    "②",
+                                    division_leaders))) %>%
   ungroup() %>%
-  mutate(second_wc_wins = if_else(wild_cards == "wc2",
+  mutate(second_wc_wins = if_else(wild_cards == "②",
                                   wins,
                                   NULL)) %>%
   fill(second_wc_wins, 
        .direction = "downup") %>%
-  mutate(second_wc_losses = if_else(wild_cards == "wc2",
+  mutate(second_wc_losses = if_else(wild_cards == "②",
                                     losses,
                                     NULL)) %>%
   fill(second_wc_losses, 
