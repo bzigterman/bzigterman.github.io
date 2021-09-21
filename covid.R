@@ -326,7 +326,7 @@ il_month_ago_new_doses <- format(round(signif(tail(lag(idph_vax_il$AdministeredC
 
 il_case_pct_change <- round(100*(tail(idph_cases_il$avg_new_cases,1)-tail(lag(idph_cases_il$avg_new_cases, 14),1))/tail(lag(idph_cases_il$avg_new_cases, 14),1), digits = 0)
 il_death_pct_change <- round(100*(tail(idph_cases_il$avg_new_deaths,1)-tail(lag(idph_cases_il$avg_new_deaths, 14),1))/tail(lag(idph_cases_il$avg_new_deaths, 14),1), digits = 0)
-il_hosp_pct_change <- round(100*(tail(idph_hosp$TotalInUseBedsCOVID,1)-tail(lag(idph_hosp$TotalInUseBedsCOVID, 14),1))/tail(lag(idph_hosp$TotalInUseBedsCOVID, 14),1), digits = 0)
+il_hosp_pct_change <- round(100*(tail(idph_hosp$TotalInUseBedsCOVID,1)-tail(lag(idph_hosp$TotalInUseBedsCOVID, 13),1))/tail(lag(idph_hosp$TotalInUseBedsCOVID, 13),1), digits = 0)
 
 il_case_pct_change_text <- 
   if (il_case_pct_change > 0) { 
@@ -517,7 +517,7 @@ usa_month_ago_new_doses <- format(signif(tail(lag(usa_owid_vaccines$daily_vaccin
 
 usa_case_pct_change <- round(100*(tail(usa_jhu_new_cases$avg_new_cases,1)-tail(lag(usa_jhu_new_cases$avg_new_cases, 14),1))/tail(lag(usa_jhu_new_cases$avg_new_cases, 14),1), digits = 0)
 usa_death_pct_change <- round(100*(tail(usa_jhu_new_deaths$avg_new_deaths,1)-tail(lag(usa_jhu_new_deaths$avg_new_deaths, 14),1))/tail(lag(usa_jhu_new_deaths$avg_new_deaths, 14),1), digits = 0)
-usa_hosp_pct_change <- round(100*(tail(owid_hosp$hosp_patients,1)-tail(lag(owid_hosp$hosp_patients, 14),1))/tail(lag(owid_hosp$hosp_patients, 14),1), digits = 0)
+usa_hosp_pct_change <- round(100*(tail(owid_hosp$hosp_patients,1)-tail(lag(owid_hosp$hosp_patients, 13),1))/tail(lag(owid_hosp$hosp_patients, 13),1), digits = 0)
 
 
 usa_case_pct_change_text <- 

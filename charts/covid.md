@@ -769,7 +769,7 @@ html {
 As of Tuesday in Illinois (vs. two weeks ago):
   
 - Average new cases: 3,370 (vs. 3,920) -14%↓
-- Hospitalized: 2,040 (vs. 2,330) -13%↓
+- Hospitalized: 2,040 (vs. 2,330) -12%↓
 - Average new deaths: 36 (vs. 26) +42%↑
 - Percent of Illinois fully vaccinated: 54.6% (vs. 53.5%)
 - Average new vaccine doses: 19,400 (vs. 23,500)
@@ -1159,7 +1159,7 @@ html {
 As of Monday in the United States (vs. two weeks ago):
   
 - Average new cases: 139,000 (vs. 138,000) +1%↑
-- Hospitalized: 83,800 (vs. 95,900) -12%↓
+- Hospitalized: 83,800 (vs. 95,900) -13%↓
 - Average new deaths: 1,950 (vs. 1,390) +40%↑
 - Percent of the United States fully vaccinated: 54% (vs. 52.3%)
 - Average new vaccine doses: 772,000 (vs. 848,000)
