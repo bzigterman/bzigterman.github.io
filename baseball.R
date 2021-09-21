@@ -533,9 +533,9 @@ mlb_standings <- full_join(al_standings_elim, nl_standings_elim) %>%
 al_standings_magic <- mlb_standings %>%
   filter(league == "AL") %>%
   mutate(division_leaders = case_when(
-    division_place == 1 & division == "AL Central" ~ "c",
-    division_place == 1 & division == "AL East"    ~ "e",
-    division_place == 1 & division == "AL West"    ~ "w",
+    division_place == 1 & division == "AL Central" ~ "Ⓒ",
+    division_place == 1 & division == "AL East"    ~ "Ⓔ",
+    division_place == 1 & division == "AL West"    ~ "Ⓦ",
     league_place <= 5                              ~ "wc",
     TRUE                                           ~ "")
   ) %>%
@@ -583,9 +583,9 @@ al_standings_magic <- mlb_standings %>%
 nl_standings_magic <- mlb_standings %>%
   filter(league == "NL") %>%
   mutate(division_leaders = case_when(
-    division_place == 1 & division == "NL Central" ~ "c",
-    division_place == 1 & division == "NL East"    ~ "e",
-    division_place == 1 & division == "NL West"    ~ "w",
+    division_place == 1 & division == "NL Central" ~ "Ⓒ",
+    division_place == 1 & division == "NL East"    ~ "Ⓔ",
+    division_place == 1 & division == "NL West"    ~ "Ⓦ",
     league_place <= 5                              ~ "wc",
     TRUE                                           ~ "")
   ) %>%
