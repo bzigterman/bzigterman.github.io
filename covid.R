@@ -45,10 +45,13 @@ hospitalizations_by_date <- hospitalizations %>%
   mutate(avg_hospitalized = sum_hospitalized/7) %>%
   mutate(CountyName = "Champaign")
 
+### table ----
+
 idph_cases_vax_hosp <- full_join(idph_cases_champaign, idph_vax_champaign) %>%
   full_join(hospitalizations_by_date) %>%
   select(Date,
-         monthlydead, avg_new_cases)
+         monthlydead, avg_new_cases, avg_hospitalized) %>%
+  fill(avg_hospitalized, .direction = "down")
 
 idph_cases_vax_hosp_long <- idph_cases_vax_hosp %>%
   pivot_longer(!Date,
@@ -56,8 +59,9 @@ idph_cases_vax_hosp_long <- idph_cases_vax_hosp %>%
                names_to = "names") %>%
   mutate(names = recode(
     names, 
-    "avg_new_cases" = "Average New Cases",
-    "monthlydead" = "Deaths in Past Month"
+    "avg_new_cases" = "1. Average New Cases",
+    "avg_hospitalized" = "2. Average Hospitalized",
+    "monthlydead" = "3. Deaths in Past Month",
   ))
   
 lists <- idph_cases_vax_hosp_long %>%
