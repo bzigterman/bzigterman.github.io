@@ -550,6 +550,12 @@ al_standings_magic <- mlb_standings %>%
                                   NULL)) %>%
   fill(second_wc_wins, 
        .direction = "downup") %>%
+  mutate(second_wc_losses = if_else(wild_cards == "wc2",
+                                  losses,
+                                  NULL)) %>%
+  fill(second_wc_losses, 
+       .direction = "downup") %>%
+  mutate(second_wc_net_wins = second_wc_wins-second_wc_losses) %>%
   mutate(league_elim_number = if_else(league_place != 1:5,
                                              (163 - second_wc_wins - losses),
                                              NULL)) %>%
@@ -558,7 +564,7 @@ al_standings_magic <- mlb_standings %>%
                                    ifelse(league_elim_number <= 0,
                                           "E",
                                           league_elim_number))) %>%
-  mutate(wc_games_behind = (second_wc_wins - net_wins)/2)
+  mutate(wc_games_behind = (second_wc_net_wins - net_wins)/2)
   
 
 
@@ -589,6 +595,11 @@ nl_standings_magic <- mlb_standings %>%
                                   NULL)) %>%
   fill(second_wc_wins, 
        .direction = "downup") %>%
+  mutate(second_wc_losses = if_else(wild_cards == "wc2",
+                                    losses,
+                                    NULL)) %>%
+  fill(second_wc_losses, 
+       .direction = "downup") %>%
   mutate(league_elim_number = if_else(league_place != 1:5,
                                       (163 - second_wc_wins - losses),
                                       NULL)) %>%
@@ -597,7 +608,7 @@ nl_standings_magic <- mlb_standings %>%
                                    ifelse(league_elim_number <= 0,
                                           "E",
                                           league_elim_number))) %>%
-  mutate(wc_games_behind = (second_wc_wins - net_wins)/2)
+  mutate(wc_games_behind = (second_wc_net_wins - net_wins)/2)
 
 
 
