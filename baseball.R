@@ -650,7 +650,7 @@ wild_card_table <- mlb_standings_magic %>%
   cols_hide(columns = c(win_pct)) %>%
   cols_align(
     align = c("right"),
-    columns = c(win_pct_text, logo_url, outcomes, division_or_elim)
+    columns = c(win_pct_text, wc_games_behind, logo_url, outcomes, division_or_elim)
   ) %>%
   cols_label(
     logo_url = "",
