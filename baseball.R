@@ -718,9 +718,9 @@ nl_playoffs_rect <- (if_else(
 
 al_plot <- ggplot(al_standings, aes(x = reorder(team_label, win_pct), 
                                     y = win_pct)) +
-  geom_rect(xmin = al_playoffs_rect, xmax = Inf,
-            ymin = -Inf, ymax = Inf,
-            fill = "grey85") +
+  # geom_rect(xmin = al_playoffs_rect, xmax = Inf,
+  #           ymin = -Inf, ymax = Inf,
+  #           fill = "grey85") +
   geom_hline(yintercept = 0.5,
              color = "grey50",
              size = .2) +
@@ -754,9 +754,9 @@ al_plot <- ggplot(al_standings, aes(x = reorder(team_label, win_pct),
   )
 nl_plot <- ggplot(nl_standings, aes(x = reorder(team_label, -win_pct), 
                                     y = win_pct)) +
-  geom_rect(xmin = -Inf, xmax = nl_playoffs_rect,
-            ymin = -Inf, ymax = Inf,
-            fill = "grey85") +
+  # geom_rect(xmin = -Inf, xmax = nl_playoffs_rect,
+  #           ymin = -Inf, ymax = Inf,
+  #           fill = "grey85") +
   geom_hline(yintercept = 0.5,
              color = "grey50",
              size = .2) +
