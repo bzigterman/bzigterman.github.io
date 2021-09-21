@@ -330,7 +330,7 @@ nl_west_standings_magic <- nl_west_standings %>%
                   division_magic_number,
                   division_elimination_number)) %>%
   mutate(first_place_net_wins = nl_west_standings$net_wins[[1]]) %>%
-  mutate(games_behind = (first_place_net_wins - net_wins)/2)
+  mutate(division_games_behind = (first_place_net_wins - net_wins)/2)
 
 division_standings <- full_join(al_central_standings_magic, al_east_standings_magic) %>%
   full_join(al_west_standings_magic) %>% full_join(nl_central_standings_magic) %>%
