@@ -4,7 +4,7 @@ title: Baseball
 permalink: /charts/baseball/
 ---
 
-<p class="updated_time"> Latest data: 10:09 PM CT, September 20</p> 
+<p class="updated_time"> Latest data: 10:20 PM CT, September 20</p> 
 
 ### Games Above .500
 
