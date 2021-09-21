@@ -600,6 +600,7 @@ nl_standings_magic <- mlb_standings %>%
                                     NULL)) %>%
   fill(second_wc_losses, 
        .direction = "downup") %>%
+  mutate(second_wc_net_wins = second_wc_wins-second_wc_losses) %>%
   mutate(league_elim_number = if_else(league_place != 1:5,
                                       (163 - second_wc_wins - losses),
                                       NULL)) %>%
