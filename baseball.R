@@ -371,7 +371,7 @@ if (standings_the_same != TRUE) {
 # division standings ----
 mlb_standings <- mlb_games %>%
   filter(!is.na(team_label)) %>%
-  select(logo_url, team_label, wins, losses, games_behind, net_wins, win_pct, win_pct_text, games_remaining,last_ten, outcomes, division, league)
+  select(logo_url, team_label, wins, losses, division_games_behind, net_wins, win_pct, win_pct_text, games_remaining,last_ten, outcomes, division, league)
 
 standings_table <- division_standings %>%
   group_by(division) %>%
