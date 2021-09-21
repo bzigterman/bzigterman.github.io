@@ -610,7 +610,7 @@ nl_standings_magic <- mlb_standings %>%
                                   NULL)) %>%
   fill(second_wc_wins, 
        .direction = "downup") %>%
-  mutate(second_wc_losses = if_else(wild_cards == "WC2",
+  mutate(second_wc_losses = if_else(wild_cardss == "WC2",
                                     losses,
                                     NULL)) %>%
   fill(second_wc_losses, 
