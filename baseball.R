@@ -557,7 +557,8 @@ al_standings_magic <- mlb_standings %>%
                                    division_leaders,
                                    ifelse(league_elim_number <= 0,
                                           "E",
-                                          league_elim_number))) 
+                                          league_elim_number))) %>%
+  mutate(wc_games_behind = (second_wc_wins - net_wins)/2)
   
 
 
@@ -595,7 +596,8 @@ nl_standings_magic <- mlb_standings %>%
                                    division_leaders,
                                    ifelse(league_elim_number <= 0,
                                           "E",
-                                          league_elim_number))) 
+                                          league_elim_number))) %>%
+  mutate(wc_games_behind = (second_wc_wins - net_wins)/2)
 
 
 
@@ -603,7 +605,8 @@ nl_standings_magic <- mlb_standings %>%
 mlb_standings_magic <- full_join(al_standings_magic, nl_standings_magic)
   
 wild_card_table <- mlb_standings_magic %>%
-  select(logo_url, team_label, wins, losses, win_pct,win_pct_text,
+  select(logo_url, team_label, wins, losses, wc_games_behind,
+         win_pct,win_pct_text,
          division_or_elim,outcomes, league) %>%
   group_by(league) %>%
   arrange(league,desc(win_pct)) %>%
@@ -630,6 +633,7 @@ wild_card_table <- mlb_standings_magic %>%
     team_label = "Team",
     wins = "W",
     losses = "L",
+    wc_games_behind = "GB",
     win_pct_text = "Pct",
     division_or_elim = "E#",
     outcomes = html("Last 20<br>Games")
