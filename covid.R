@@ -57,11 +57,12 @@ idph_cases_vax_hosp_long <- idph_cases_vax_hosp %>%
   pivot_longer(!Date,
                values_to = "values",
                names_to = "names") %>%
-  mutate(names = recode(
+  mutate(names = recode_factor(
     names, 
-    "avg_new_cases" = "1. Average New Cases",
-    "avg_hospitalized" = "2. Average Hospitalized",
-    "monthlydead" = "3. Deaths in Past Month",
+    "avg_new_cases" = "Cases",
+    "avg_hospitalized" = "Hospitalized",
+    "monthlydead" = "Deaths",
+    .ordered = TRUE
   ))
   
 lists <- idph_cases_vax_hosp_long %>%
@@ -111,6 +112,10 @@ cu_covid_table <-   ungroup(latest_data_for_table) %>%
     columns = pct_change,
     decimals = 0,
     force_sign = TRUE
+  ) %>%
+  cols_align(
+    align = "left",
+    columns = names
   ) %>%
   cols_align(
     align = c("right"),
