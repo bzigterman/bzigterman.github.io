@@ -457,7 +457,7 @@ standings_plot <- function(division) {
                        guide = NULL) +
     # scale_color_manual(values = c("#27251F","#E31937","#0C2340","#BD9B60","#002B5C"),
     #                  guide = NULL) +
-    coord_cartesian(xlim = c(0,162)) +
+    coord_cartesian(xlim = c(0,172)) +
     theme_minimal() +
     labs(title = division$division,
          #caption = "Source: FiveThirtyEight",
@@ -819,7 +819,7 @@ league_standings_plot <- function(league) {
     scale_color_discrete(guide = NULL) +
     # scale_color_manual(values = c("#27251F","#E31937","#0C2340","#BD9B60","#002B5C"),
     #                  guide = NULL) +
-    coord_cartesian(xlim = c(0,162)) +
+    coord_cartesian(xlim = c(0,172)) +
     theme_minimal() +
     labs(title = league$league,
          #caption = "Source: FiveThirtyEight",
