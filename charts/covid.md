@@ -411,7 +411,7 @@ As of Monday in the United States (vs. two weeks ago):
   
 - Average new cases: 139,000 (vs. 138,000) +1%↑
 - Hospitalized: 83,800 (vs. 95,200) -12%↓
-- Average new deaths: 1,940 (vs. 1,390) +40%↑
+- Average new deaths: 1,950 (vs. 1,390) +40%↑
 - Percent of the United States fully vaccinated: 53.9% (vs. NA%)
 - Average new vaccine doses: 763,000 (vs. 875,000)
 
