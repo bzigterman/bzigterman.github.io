@@ -335,7 +335,10 @@ nl_west_standings_magic <- nl_west_standings %>%
 division_standings <- full_join(al_central_standings_magic, al_east_standings_magic) %>%
   full_join(al_west_standings_magic) %>% full_join(nl_central_standings_magic) %>%
   full_join(nl_east_standings_magic) %>% full_join(nl_west_standings_magic) %>%
-  select(logo_url, team_label, wins, losses, division_games_behind, net_wins, win_pct, win_pct_text, division_magic_number, division_elimination_number,division_magic_or_eliminated,last_ten, outcomes, division, league)
+  select(logo_url, team_label, wins, losses, division_games_behind, 
+         net_wins, win_pct, win_pct_text, division_magic_number, 
+         division_elimination_number,division_magic_or_eliminated,
+         last_ten, outcomes, division, division_place, league)
 
 
 al_games <- full_join(al_central, al_east) %>%
@@ -391,7 +394,8 @@ standings_table <- division_standings %>%
   ) %>%
   cols_hide(columns = c(win_pct, league,last_ten, net_wins,
                         division_magic_number,
-                        division_elimination_number)) %>%
+                        division_elimination_number,
+                        division_place)) %>%
   cols_align(
     align = c("right"),
     columns = c(last_ten,win_pct_text, logo_url, outcomes,
@@ -523,11 +527,84 @@ nl_standings_elim <- nl_standings %>%
                                                NULL))
 
 mlb_standings <- full_join(al_standings_elim, nl_standings_elim) %>%
-  select(logo_url, team_label, wins, losses, net_wins, win_pct, win_pct_text, games_remaining, last_ten, division, league, league_elimination_number, outcomes)
+  full_join(division_standings) %>%
+  select(logo_url, team_label, wins, losses, net_wins, win_pct, win_pct_text, games_remaining, last_ten, division, league, league_elimination_number, outcomes, division_place, league_place)
 
-
+al_standings_magic <- mlb_standings %>%
+  filter(league == "AL") %>%
+  mutate(division_leaders = case_when(
+    division_place == 1 & division == "AL Central" ~ "c",
+    division_place == 1 & division == "AL East"    ~ "e",
+    division_place == 1 & division == "AL West"    ~ "w",
+    league_place <= 5                              ~ "wc",
+    TRUE                                           ~ "")
+  ) %>%
+  group_by(division_leaders) %>%
+  mutate(wild_card_rank = dense_rank(desc(wins))) %>%
+  mutate(wild_cards = ifelse(division_leaders == "wc",
+                             paste(division_leaders,wild_card_rank,sep=""),
+                             division_leaders)) %>%
+  ungroup() %>%
+  mutate(second_wc_wins = if_else(wild_cards == "wc2",
+                                  wins,
+                                  NULL)) %>%
+  fill(second_wc_wins, 
+       .direction = "downup") %>%
+  mutate(league_elim_number = if_else(league_place != 1:5,
+                                             (163 - second_wc_wins - losses),
+                                             NULL)) %>%
+  mutate(division_or_elim = ifelse(division_leaders != "",
+                                   division_leaders,
+                                   ifelse(league_elim_number <= 0,
+                                          "E",
+                                          league_elim_number))) 
   
-wild_card_table <- mlb_standings %>%
+
+
+#%>%
+# mutate(wild_cards = ifelse(league_place <= 5 & division_place != 1,
+#                            "WC",
+#                            "")) %>%
+         # mutate(wild_card_rank = ifelse(wild_cards
+  #   
+                   
+nl_standings_magic <- mlb_standings %>%
+  filter(league == "NL") %>%
+  mutate(division_leaders = case_when(
+    division_place == 1 & division == "NL Central" ~ "c",
+    division_place == 1 & division == "NL East"    ~ "e",
+    division_place == 1 & division == "NL West"    ~ "w",
+    league_place <= 5                              ~ "wc",
+    TRUE                                           ~ "")
+  ) %>%
+  group_by(division_leaders) %>%
+  mutate(wild_card_rank = dense_rank(desc(wins))) %>%
+  mutate(wild_cards = ifelse(division_leaders == "wc",
+                             paste(division_leaders,wild_card_rank,sep=""),
+                             division_leaders)) %>%
+  ungroup() %>%
+  mutate(second_wc_wins = if_else(wild_cards == "wc2",
+                                  wins,
+                                  NULL)) %>%
+  fill(second_wc_wins, 
+       .direction = "downup") %>%
+  mutate(league_elim_number = if_else(league_place != 1:5,
+                                      (163 - second_wc_wins - losses),
+                                      NULL)) %>%
+  mutate(division_or_elim = ifelse(division_leaders != "",
+                                   division_leaders,
+                                   ifelse(league_elim_number <= 0,
+                                          "E",
+                                          league_elim_number))) 
+
+
+
+
+mlb_standings_magic <- full_join(al_standings_magic, nl_standings_magic)
+  
+wild_card_table <- mlb_standings_magic %>%
+  select(logo_url, team_label, wins, losses, win_pct,win_pct_text,
+         division_or_elim,outcomes, league) %>%
   group_by(league) %>%
   arrange(league,desc(win_pct)) %>%
   gt() %>%
@@ -543,26 +620,18 @@ wild_card_table <- mlb_standings %>%
       )
     }
   ) %>%
-  cols_hide(columns = c(win_pct, division, last_ten, 
-                        net_wins, games_remaining)) %>%
-  fmt_number(
-    columns = net_wins,
-    force_sign = TRUE,
-    decimals = 0
-  ) %>%
+  cols_hide(columns = c(win_pct)) %>%
   cols_align(
     align = c("right"),
-    columns = c(last_ten,win_pct_text, logo_url, outcomes)
+    columns = c(win_pct_text, logo_url, outcomes, division_or_elim)
   ) %>%
   cols_label(
     logo_url = "",
     team_label = "Team",
     wins = "W",
     losses = "L",
-    net_wins = html("Games<br>Above<br>.500"),
     win_pct_text = "Pct",
-    games_remaining = html("Games<br>Left"),
-    league_elimination_number = "E#",
+    division_or_elim = "E#",
     outcomes = html("Last 20<br>Games")
   ) %>%
   # opt_table_font(font = c("verdana","calibri","menlo","consolas","monospace","helvetica", "arial", "sans-serif")) %>%
