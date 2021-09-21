@@ -132,10 +132,10 @@ cu_covid_table <-   ungroup(latest_data_for_table) %>%
 cu_covid_table
 cu_covid_table_html <- as_raw_html(cu_covid_table, inline_css = FALSE)
 better_divs_cu_covid_table <- gsub("[#][a-z]{10}",
-                                     "#cu_housing_table", 
+                                     "#cu_covid_table", 
                                      x = cu_covid_table_html)
 better_cu_covid_table_html <- gsub("[\"][a-z]{10}",
-                                     "\"cu_housing_table",
+                                     "\"cu_covid_table",
                                      x = better_divs_cu_covid_table)
 
 
@@ -217,6 +217,99 @@ idph_hosp <- rio::import("https://idph.illinois.gov/DPHPublicInformation/api/COV
   mutate(Date = ymd(mdy_hms(ReportDate))) %>%
   select(Date, TotalInUseBedsCOVID)
 
+### table ----
+
+il_combined <- full_join(idph_cases_il,idph_vax_il) %>%
+  full_join(idph_hosp) %>%
+  select(Date,TotalInUseBedsCOVID, avg_new_deaths, avg_new_cases) %>%
+  fill(TotalInUseBedsCOVID, .direction = "down")
+
+il_combined_longer <- il_combined %>%
+  pivot_longer(!Date,
+               values_to = "values",
+               names_to = "names") %>%
+  mutate(names = recode_factor(
+    names, 
+    "avg_new_cases" = "Cases",
+    "TotalInUseBedsCOVID" = "Hospitalized",
+    "avg_new_deaths" = "Deaths",
+    .ordered = TRUE
+  ))
+
+lists <- il_combined_longer %>%
+  group_by(names) %>%
+  do(tail(., n = 365)) %>%
+  summarise(lists = list(values)) 
+add_latest_column <- il_combined_longer %>%
+  select(names,Date,values) %>%
+  group_by(names) %>%
+  do(tail(na.omit(.), n = 1)) %>%
+  rename(latest = values) %>%
+  full_join(lists) 
+
+add_two_weeks_ago_column <- il_combined_longer %>%
+  select(names,values) %>%
+  group_by(names) %>%
+  do(tail(.,n = 15)) %>%
+  do(head(.,n =1)) %>%
+  rename(two_weeks_ago = values) %>%
+  full_join(add_latest_column) %>%
+  mutate(pct_change = (latest-two_weeks_ago)/two_weeks_ago)
+
+
+latest_data_for_table <- add_two_weeks_ago_column
+
+il_table <- ungroup(latest_data_for_table) %>%
+  gt() %>%
+  gt_theme_espn() %>%
+  gt_sparkline(lists,
+               line_color = "grey70",
+               range_colors = c("blue", "red")
+  ) %>%
+  tab_options(
+    table.width = pct(100),
+    data_row.padding = px(4),
+    table.font.size = px(12)
+  ) %>%
+  opt_all_caps(  all_caps = TRUE) %>%
+  cols_hide(columns = c(Date)) %>%
+  cols_move(
+    columns = pct_change,
+    after = latest) %>%
+  fmt_number(
+    columns = c(latest,two_weeks_ago),
+    decimals = 0) %>%
+  fmt_percent(
+    columns = pct_change,
+    decimals = 0,
+    force_sign = TRUE
+  ) %>%
+  cols_align(
+    align = "left",
+    columns = names
+  ) %>%
+  cols_align(
+    align = c("right"),
+    columns = lists
+  ) %>%
+  cols_label(
+    names = "",
+    latest = "Latest",
+    two_weeks_ago = html("14 Days<br>Ago"),
+    pct_change = html("14 Day<br>Trend"),
+    lists = html("Past<br>Year")
+  ) 
+
+il_table
+il_table_html <- as_raw_html(il_table, inline_css = FALSE)
+better_divs_il_table <- gsub("[#][a-z]{10}",
+                                   "#il_table", 
+                                   x = il_table_html)
+better_il_table_html <- gsub("[\"][a-z]{10}",
+                                   "\"il_table",
+                                   x = better_divs_il_table)
+
+
 
 ### set variables ----
 il_hosp <- format(round(signif(tail(idph_hosp$TotalInUseBedsCOVID,1),3)),big.mark=",")
@@ -226,7 +319,7 @@ il_pct_fully_vaccinated <- round(100*tail(idph_vax_il$PctVaccinatedPopulation,1)
 il_avg_new_vaccine_doses <- format(round(signif(tail(idph_vax_il$AdministeredCountRollAvg,1),3)),big.mark=",")
 il_weekday <- wday(tail(idph_cases_il$Date,1), label = TRUE, abbr = FALSE)
 il_month_ago_avg_new_deaths <- format(round(signif(tail(lag(idph_cases_il$avg_new_deaths, 14),1),3)),big.mark=",")
-il_month_ago_hosp <- format(round(signif(tail(lag(idph_hosp$TotalInUseBedsCOVID, 14),1),3)),big.mark=",")
+il_month_ago_hosp <- format(round(signif(tail(lag(idph_hosp$TotalInUseBedsCOVID, 13),1),3)),big.mark=",")
 il_month_ago_cases <- format(round(signif(tail(lag(idph_cases_il$avg_new_cases, 14),1),3)),big.mark=",")
 il_month_ago_vaccinated <- round(100*tail(lag(idph_vax_il$PctVaccinatedPopulation, 14),1), digits = 1)
 il_month_ago_new_doses <- format(round(signif(tail(lag(idph_vax_il$AdministeredCountRollAvg, 14),1),3)),big.mark=",")
@@ -585,6 +678,8 @@ During the COVID-19 pandemic, I've been making charts with data from the [Champa
 Charts for Champaign County are posted weekdays on Twitter [@ChampaignCovid](https://twitter.com/ChampaignCovid).
 
 ## Illinois
+
+",better_il_table_html,"
 
 ",il_text,
 "
