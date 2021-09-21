@@ -409,6 +409,99 @@ usa_owid_vaccines <- rio::import(usa_owid_vaccines_url, format = "csv") %>%
          people_fully_vaccinated_per_hundred) %>%
   fill(people_fully_vaccinated_per_hundred, .direction = "down")
 
+
+### table ----
+usa_combined <- full_join(usa_jhu_new_cases,owid_hosp) %>%
+  full_join(usa_jhu_new_deaths) %>%
+  select(date,hosp_patients, avg_new_deaths, avg_new_cases) %>%
+  fill(hosp_patients, .direction = "down")
+
+usa_combined_longer <- usa_combined %>%
+  pivot_longer(!date,
+               values_to = "values",
+               names_to = "names") %>%
+  mutate(names = recode_factor(
+    names, 
+    "avg_new_cases" = "Cases",
+    "hosp_patients" = "Hospitalized",
+    "avg_new_deaths" = "Deaths",
+    .ordered = TRUE
+  ))
+
+lists <- usa_combined_longer %>%
+  group_by(names) %>%
+  do(tail(., n = 90)) %>%
+  summarise(lists = list(values)) 
+add_latest_column <- usa_combined_longer %>%
+  select(names,date,values) %>%
+  group_by(names) %>%
+  do(tail(na.omit(.), n = 1)) %>%
+  rename(latest = values) %>%
+  full_join(lists) 
+
+add_two_weeks_ago_column <- usa_combined_longer %>%
+  select(names,values) %>%
+  group_by(names) %>%
+  do(tail(.,n = 15)) %>%
+  do(head(.,n =1)) %>%
+  rename(two_weeks_ago = values) %>%
+  full_join(add_latest_column) %>%
+  mutate(pct_change = (latest-two_weeks_ago)/two_weeks_ago)
+
+
+latest_data_for_table <- add_two_weeks_ago_column
+
+usa_table <- ungroup(latest_data_for_table) %>%
+  gt() %>%
+  gt_theme_espn() %>%
+  gt_sparkline(lists,
+               line_color = "grey70",
+               range_colors = c("blue", "red")
+  ) %>%
+  tab_options(
+    table.width = pct(100),
+    data_row.padding = px(4),
+    table.font.size = px(12)
+  ) %>%
+  opt_all_caps(  all_caps = TRUE) %>%
+  cols_hide(columns = c(date)) %>%
+  cols_move(
+    columns = pct_change,
+    after = latest) %>%
+  fmt_number(
+    columns = c(latest,two_weeks_ago),
+    decimals = 0) %>%
+  fmt_percent(
+    columns = pct_change,
+    decimals = 0,
+    force_sign = TRUE
+  ) %>%
+  cols_align(
+    align = "left",
+    columns = names
+  ) %>%
+  cols_align(
+    align = c("right"),
+    columns = lists
+  ) %>%
+  cols_label(
+    names = "",
+    latest = "Latest",
+    two_weeks_ago = html("14 Days<br>Ago"),
+    pct_change = html("14 Day<br>Trend"),
+    lists = html("Past<br>90 Days")
+  ) 
+
+usa_table
+usa_table_html <- as_raw_html(usa_table, inline_css = FALSE)
+better_divs_usa_table <- gsub("[#][a-z]{10}",
+                             "#usa_table", 
+                             x = usa_table_html)
+better_usa_table_html <- gsub("[\"][a-z]{10}",
+                             "\"usa_table",
+                             x = better_divs_usa_table)
+
+
 ### set variables ----
 usa_hosp <- format(round(signif(tail(owid_hosp$hosp_patients,1),3)),big.mark=",")
 usa_avg_new_deaths <- format(round(signif(tail(usa_jhu_new_deaths$avg_new_deaths,1),3)),big.mark=",")
@@ -417,7 +510,7 @@ usa_pct_fully_vaccinated <- round(tail(usa_owid_vaccines$people_fully_vaccinated
 usa_avg_new_vaccine_doses <- format(signif(tail(usa_owid_vaccines$daily_vaccinations,1),3),big.mark=",")
 usa_weekday <- wday(tail(usa_jhu_new_cases$date,1), label = TRUE, abbr = FALSE)
 usa_month_ago_avg_new_deaths <- format(round(signif(tail(lag(usa_jhu_new_deaths$avg_new_deaths, 14),1),3)),big.mark=",")
-usa_month_ago_hosp <- format(round(signif(tail(lag(owid_hosp$hosp_patients,14),1),3)),big.mark=",")
+usa_month_ago_hosp <- format(round(signif(tail(lag(owid_hosp$hosp_patients,13),1),3)),big.mark=",")
 usa_month_ago_cases <- format(round(signif(tail(lag(usa_jhu_new_cases$avg_new_cases, 14),1),3)),big.mark=",")
 usa_month_ago_vaccinated <- round(tail(lag(usa_owid_vaccines$people_fully_vaccinated_per_hundred, 14),1), digits = 1)
 usa_month_ago_new_doses <- format(signif(tail(lag(usa_owid_vaccines$daily_vaccinations, 14),1),3),big.mark=",")
@@ -692,6 +785,8 @@ Charts for Champaign County are posted weekdays on Twitter [@ChampaignCovid](htt
 Community transmission levels are calculated by the CDC based on new cases per capita in the past week and test positivity.
 
 ## United States
+
+",better_usa_table_html,"
 
 ",usa_text,
 "

@@ -784,10 +784,382 @@ Community transmission levels are calculated by the CDC based on new cases per c
 
 ## United States
 
+<div id="usa_table" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+  <style>@import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+html {
+  font-family: Lato, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
+}
+
+#usa_table .gt_table {
+  display: table;
+  border-collapse: collapse;
+  margin-left: auto;
+  margin-right: auto;
+  color: #333333;
+  font-size: 12px;
+  font-weight: normal;
+  font-style: normal;
+  background-color: #FFFFFF;
+  width: 100%;
+  border-top-style: solid;
+  border-top-width: 3px;
+  border-top-color: #FFFFFF;
+  border-right-style: none;
+  border-right-width: 2px;
+  border-right-color: #D3D3D3;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #A8A8A8;
+  border-left-style: none;
+  border-left-width: 2px;
+  border-left-color: #D3D3D3;
+}
+
+#usa_table .gt_heading {
+  background-color: #FFFFFF;
+  text-align: left;
+  border-bottom-color: #FFFFFF;
+  border-left-style: none;
+  border-left-width: 1px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 1px;
+  border-right-color: #D3D3D3;
+}
+
+#usa_table .gt_title {
+  color: #333333;
+  font-size: 24px;
+  font-weight: initial;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  border-bottom-color: #FFFFFF;
+  border-bottom-width: 0;
+}
+
+#usa_table .gt_subtitle {
+  color: #333333;
+  font-size: 85%;
+  font-weight: initial;
+  padding-top: 0;
+  padding-bottom: 6px;
+  border-top-color: #FFFFFF;
+  border-top-width: 0;
+}
+
+#usa_table .gt_bottom_border {
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+}
+
+#usa_table .gt_col_headings {
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: #D3D3D3;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  border-left-style: none;
+  border-left-width: 1px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 1px;
+  border-right-color: #D3D3D3;
+}
+
+#usa_table .gt_col_heading {
+  color: #333333;
+  background-color: #FFFFFF;
+  font-size: 80%;
+  font-weight: bolder;
+  text-transform: uppercase;
+  border-left-style: none;
+  border-left-width: 1px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 1px;
+  border-right-color: #D3D3D3;
+  vertical-align: bottom;
+  padding-top: 5px;
+  padding-bottom: 6px;
+  padding-left: 5px;
+  padding-right: 5px;
+  overflow-x: hidden;
+}
+
+#usa_table .gt_column_spanner_outer {
+  color: #333333;
+  background-color: #FFFFFF;
+  font-size: 80%;
+  font-weight: bolder;
+  text-transform: uppercase;
+  padding-top: 0;
+  padding-bottom: 0;
+  padding-left: 4px;
+  padding-right: 4px;
+}
+
+#usa_table .gt_column_spanner_outer:first-child {
+  padding-left: 0;
+}
+
+#usa_table .gt_column_spanner_outer:last-child {
+  padding-right: 0;
+}
+
+#usa_table .gt_column_spanner {
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  vertical-align: bottom;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  overflow-x: hidden;
+  display: inline-block;
+  width: 100%;
+}
+
+#usa_table .gt_group_heading {
+  padding: 8px;
+  color: #333333;
+  background-color: #FFFFFF;
+  font-size: 80%;
+  font-weight: bolder;
+  text-transform: uppercase;
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: #D3D3D3;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  border-left-style: none;
+  border-left-width: 1px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 1px;
+  border-right-color: #D3D3D3;
+  vertical-align: middle;
+}
+
+#usa_table .gt_empty_group_heading {
+  padding: 0.5px;
+  color: #333333;
+  background-color: #FFFFFF;
+  font-size: 80%;
+  font-weight: bolder;
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: #D3D3D3;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  vertical-align: middle;
+}
+
+#usa_table .gt_from_md > :first-child {
+  margin-top: 0;
+}
+
+#usa_table .gt_from_md > :last-child {
+  margin-bottom: 0;
+}
+
+#usa_table .gt_row {
+  padding-top: 4px;
+  padding-bottom: 4px;
+  padding-left: 5px;
+  padding-right: 5px;
+  margin: 10px;
+  border-top-style: solid;
+  border-top-width: 1px;
+  border-top-color: #F6F7F7;
+  border-left-style: none;
+  border-left-width: 1px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 1px;
+  border-right-color: #D3D3D3;
+  vertical-align: middle;
+  overflow-x: hidden;
+}
+
+#usa_table .gt_stub {
+  color: #333333;
+  background-color: #FFFFFF;
+  font-size: 80%;
+  font-weight: bolder;
+  text-transform: uppercase;
+  border-right-style: solid;
+  border-right-width: 2px;
+  border-right-color: #D3D3D3;
+  padding-left: 12px;
+}
+
+#usa_table .gt_summary_row {
+  color: #333333;
+  background-color: #FFFFFF;
+  text-transform: inherit;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+#usa_table .gt_first_summary_row {
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 5px;
+  padding-right: 5px;
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: #D3D3D3;
+}
+
+#usa_table .gt_grand_summary_row {
+  color: #333333;
+  background-color: #FFFFFF;
+  text-transform: inherit;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+#usa_table .gt_first_grand_summary_row {
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 5px;
+  padding-right: 5px;
+  border-top-style: double;
+  border-top-width: 6px;
+  border-top-color: #D3D3D3;
+}
+
+#usa_table .gt_striped {
+  background-color: #FAFAFA;
+}
+
+#usa_table .gt_table_body {
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: #D3D3D3;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+}
+
+#usa_table .gt_footnotes {
+  color: #333333;
+  background-color: #FFFFFF;
+  border-bottom-style: none;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  border-left-style: none;
+  border-left-width: 2px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 2px;
+  border-right-color: #D3D3D3;
+}
+
+#usa_table .gt_footnote {
+  margin: 0px;
+  font-size: 90%;
+  padding: 4px;
+}
+
+#usa_table .gt_sourcenotes {
+  color: #333333;
+  background-color: #FFFFFF;
+  border-bottom-style: none;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  border-left-style: none;
+  border-left-width: 2px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 2px;
+  border-right-color: #D3D3D3;
+}
+
+#usa_table .gt_sourcenote {
+  font-size: 12px;
+  padding: 4px;
+}
+
+#usa_table .gt_left {
+  text-align: left;
+}
+
+#usa_table .gt_center {
+  text-align: center;
+}
+
+#usa_table .gt_right {
+  text-align: right;
+  font-variant-numeric: tabular-nums;
+}
+
+#usa_table .gt_font_normal {
+  font-weight: normal;
+}
+
+#usa_table .gt_font_bold {
+  font-weight: bold;
+}
+
+#usa_table .gt_font_italic {
+  font-style: italic;
+}
+
+#usa_table .gt_super {
+  font-size: 65%;
+}
+
+#usa_table .gt_footnote_marks {
+  font-style: italic;
+  font-weight: normal;
+  font-size: 65%;
+}
+</style>
+  <table class="gt_table">
+  
+  <thead class="gt_col_headings">
+    <tr>
+      <th class="gt_col_heading gt_columns_bottom_border gt_left" rowspan="1" colspan="1"></th>
+      <th class="gt_col_heading gt_columns_bottom_border gt_right" rowspan="1" colspan="1">14 Days<br>Ago</th>
+      <th class="gt_col_heading gt_columns_bottom_border gt_right" rowspan="1" colspan="1">Latest</th>
+      <th class="gt_col_heading gt_columns_bottom_border gt_right" rowspan="1" colspan="1">14 Day<br>Trend</th>
+      <th class="gt_col_heading gt_columns_bottom_border gt_right" rowspan="1" colspan="1">Past<br>90 Days</th>
+    </tr>
+  </thead>
+  <tbody class="gt_table_body">
+    <tr><td class="gt_row gt_left">Cases</td>
+<td class="gt_row gt_right">137,520</td>
+<td class="gt_row gt_right">138,927</td>
+<td class="gt_row gt_right">+1&percnt;</td>
+<td class="gt_row gt_right"><?xml version='1.0' encoding='UTF-8' ?><svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='64.80pt' height='10.80pt' viewBox='0 0 64.80 10.80'><defs>  <style type='text/css'><![CDATA[    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {      fill: none;      stroke: #000000;      stroke-linecap: round;      stroke-linejoin: round;      stroke-miterlimit: 10.00;    }  ]]></style></defs><rect width='100%' height='100%' style='stroke: none; fill: none;'/><defs>  <clipPath id='cpMC4wMHw2NC44MHwwLjAwfDEwLjgw'>    <rect x='0.00' y='0.00' width='64.80' height='10.80' />  </clipPath></defs><g clip-path='url(#cpMC4wMHw2NC44MHwwLjAwfDEwLjgw)'><polyline points='2.95,9.26 3.61,9.24 4.27,9.21 4.93,9.21 5.59,9.21 6.25,9.19 6.92,9.22 7.58,9.20 8.24,9.20 8.90,9.16 9.56,9.19 10.23,9.19 10.89,9.23 11.55,9.12 12.21,9.07 12.87,9.04 13.54,8.92 14.20,8.89 14.86,8.84 15.52,8.67 16.18,8.65 16.85,8.58 17.51,8.51 18.17,8.30 18.83,8.28 19.49,8.22 20.15,8.10 20.82,7.99 21.48,7.87 22.14,7.70 22.80,7.41 23.46,7.32 24.13,7.29 24.79,7.04 25.45,6.86 26.11,6.73 26.77,6.56 27.44,6.09 28.10,6.04 28.76,5.92 29.42,5.68 30.08,5.45 30.75,5.26 31.41,5.04 32.07,4.59 32.73,4.48 33.39,4.58 34.05,4.17 34.72,4.04 35.38,3.64 36.04,3.42 36.70,3.59 37.36,3.59 38.03,3.49 38.69,3.22 39.35,3.01 40.01,2.99 40.67,2.89 41.34,2.78 42.00,2.66 42.66,2.70 43.32,2.58 43.98,2.55 44.65,2.47 45.31,2.28 45.97,2.30 46.63,2.34 47.29,2.29 47.95,2.14 48.62,2.05 49.28,1.83 49.94,1.89 50.60,1.94 51.26,1.92 51.93,1.93 52.59,3.20 53.25,2.48 53.91,2.62 54.57,2.73 55.24,2.78 55.90,2.78 56.56,2.81 57.22,1.54 57.88,2.45 58.55,2.55 59.21,2.56 59.87,2.69 60.53,2.74 61.19,2.73 61.85,3.13 ' style='stroke-width: 1.07; stroke: #B3B3B3; stroke-linecap: butt;' /><circle cx='2.95' cy='9.26' r='0.89' style='stroke-width: 0.71; stroke: #0000FF; fill: #0000FF;' /><circle cx='57.22' cy='1.54' r='0.89' style='stroke-width: 0.71; stroke: #FF0000; fill: #FF0000;' /></g></svg></td></tr>
+    <tr><td class="gt_row gt_left gt_striped">Hospitalized</td>
+<td class="gt_row gt_right gt_striped">95,852</td>
+<td class="gt_row gt_right gt_striped">83,819</td>
+<td class="gt_row gt_right gt_striped">&minus;13&percnt;</td>
+<td class="gt_row gt_right gt_striped"><?xml version='1.0' encoding='UTF-8' ?><svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='64.80pt' height='10.80pt' viewBox='0 0 64.80 10.80'><defs>  <style type='text/css'><![CDATA[    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {      fill: none;      stroke: #000000;      stroke-linecap: round;      stroke-linejoin: round;      stroke-miterlimit: 10.00;    }  ]]></style></defs><rect width='100%' height='100%' style='stroke: none; fill: none;'/><defs>  <clipPath id='cpMC4wMHw2NC44MHwwLjAwfDEwLjgw'>    <rect x='0.00' y='0.00' width='64.80' height='10.80' />  </clipPath></defs><g clip-path='url(#cpMC4wMHw2NC44MHwwLjAwfDEwLjgw)'><polyline points='2.95,9.22 3.61,9.24 4.27,9.24 4.93,9.26 5.59,9.26 6.25,9.23 6.92,9.22 7.58,9.20 8.24,9.20 8.90,9.17 9.56,9.20 10.23,9.18 10.89,9.15 11.55,9.10 12.21,9.04 12.87,9.00 13.54,8.97 14.20,8.95 14.86,8.88 15.52,8.80 16.18,8.72 16.85,8.64 17.51,8.57 18.17,8.48 18.83,8.42 19.49,8.33 20.15,8.17 20.82,8.05 21.48,7.92 22.14,7.78 22.80,7.63 23.46,7.53 24.13,7.35 24.79,7.14 25.45,6.91 26.11,6.72 26.77,6.56 27.44,6.35 28.10,6.18 28.76,5.99 29.42,5.70 30.08,5.46 30.75,5.23 31.41,5.00 32.07,4.77 32.73,4.64 33.39,4.39 34.05,4.08 34.72,3.83 35.38,3.62 36.04,3.43 36.70,3.29 37.36,3.20 38.03,3.01 38.69,2.77 39.35,2.55 40.01,2.38 40.67,2.31 41.34,2.24 42.00,2.22 42.66,2.06 43.32,1.84 43.98,1.72 44.65,1.72 45.31,1.69 45.97,1.71 46.63,1.81 47.29,1.71 47.95,1.61 48.62,1.56 49.28,1.54 49.94,1.56 50.60,1.65 51.26,1.81 51.93,1.79 52.59,1.73 53.25,1.65 53.91,1.67 54.57,1.75 55.24,1.85 55.90,2.09 56.56,2.13 57.22,2.07 57.88,2.21 58.55,2.33 59.21,2.45 59.87,2.58 60.53,2.80 61.19,2.81 61.85,2.81 ' style='stroke-width: 1.07; stroke: #B3B3B3; stroke-linecap: butt;' /><circle cx='5.59' cy='9.26' r='0.89' style='stroke-width: 0.71; stroke: #0000FF; fill: #0000FF;' /><circle cx='49.28' cy='1.54' r='0.89' style='stroke-width: 0.71; stroke: #FF0000; fill: #FF0000;' /></g></svg></td></tr>
+    <tr><td class="gt_row gt_left">Deaths</td>
+<td class="gt_row gt_right">1,387</td>
+<td class="gt_row gt_right">1,947</td>
+<td class="gt_row gt_right">+40&percnt;</td>
+<td class="gt_row gt_right"><?xml version='1.0' encoding='UTF-8' ?><svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='64.80pt' height='10.80pt' viewBox='0 0 64.80 10.80'><defs>  <style type='text/css'><![CDATA[    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {      fill: none;      stroke: #000000;      stroke-linecap: round;      stroke-linejoin: round;      stroke-miterlimit: 10.00;    }  ]]></style></defs><rect width='100%' height='100%' style='stroke: none; fill: none;'/><defs>  <clipPath id='cpMC4wMHw2NC44MHwwLjAwfDEwLjgw'>    <rect x='0.00' y='0.00' width='64.80' height='10.80' />  </clipPath></defs><g clip-path='url(#cpMC4wMHw2NC44MHwwLjAwfDEwLjgw)'><polyline points='2.95,8.87 3.61,8.83 4.27,8.90 4.93,8.91 5.59,8.92 6.25,9.00 6.92,9.00 7.58,9.09 8.24,9.11 8.90,9.12 9.56,9.17 10.23,9.19 10.89,9.26 11.55,9.24 12.21,9.21 12.87,9.25 13.54,9.23 14.20,9.19 14.86,9.19 15.52,9.07 16.18,9.06 16.85,9.03 17.51,9.02 18.17,9.09 18.83,9.13 19.49,9.06 20.15,9.08 20.82,9.12 21.48,9.12 22.14,9.09 22.80,9.00 23.46,8.97 24.13,9.03 24.79,8.99 25.45,8.90 26.11,8.86 26.77,8.87 27.44,8.63 28.10,8.61 28.76,8.59 29.42,8.48 30.08,8.38 30.75,8.32 31.41,8.18 32.07,8.01 32.73,7.96 33.39,7.93 34.05,7.90 34.72,7.46 35.38,7.55 36.04,7.26 36.70,7.31 37.36,7.30 38.03,7.26 38.69,6.91 39.35,7.09 40.01,6.57 40.67,6.10 41.34,5.83 42.00,5.66 42.66,5.65 43.32,5.45 43.98,5.18 44.65,4.98 45.31,4.67 45.97,4.52 46.63,4.50 47.29,4.43 47.95,4.19 48.62,4.22 49.28,3.89 49.94,3.42 50.60,3.30 51.26,3.31 51.93,3.26 52.59,4.04 53.25,3.57 53.91,3.47 54.57,3.29 55.24,3.03 55.90,2.92 56.56,2.98 57.22,1.95 57.88,2.18 58.55,1.85 59.21,1.74 59.87,1.72 60.53,1.64 61.19,1.63 61.85,1.54 ' style='stroke-width: 1.07; stroke: #B3B3B3; stroke-linecap: butt;' /><circle cx='10.89' cy='9.26' r='0.89' style='stroke-width: 0.71; stroke: #0000FF; fill: #0000FF;' /><circle cx='61.85' cy='1.54' r='0.89' style='stroke-width: 0.71; stroke: #FF0000; fill: #FF0000;' /></g></svg></td></tr>
+  </tbody>
+  
+  
+</table>
+</div>
+
 As of Monday in the United States (vs. two weeks ago):
   
 - Average new cases: 139,000 (vs. 138,000) +1%↑
-- Hospitalized: 83,800 (vs. 95,200) -12%↓
+- Hospitalized: 83,800 (vs. 95,900) -12%↓
 - Average new deaths: 1,950 (vs. 1,390) +40%↑
 - Percent of the United States fully vaccinated: 54% (vs. 52.3%)
 - Average new vaccine doses: 772,000 (vs. 848,000)
