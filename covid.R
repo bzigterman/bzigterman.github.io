@@ -303,7 +303,9 @@ usa_jhu_new_deaths <- rio::import(usa_jhu_new_deaths_url, format = "csv") %>%
 usa_owid_vaccines_url <- "https://github.com/owid/covid-19-data/raw/master/public/data/vaccinations/vaccinations.csv"
 usa_owid_vaccines <- rio::import(usa_owid_vaccines_url, format = "csv") %>%
   filter(iso_code == "USA") %>%
-  select(date, people_fully_vaccinated,daily_vaccinations, people_fully_vaccinated_per_hundred)
+  select(date, people_fully_vaccinated,daily_vaccinations,
+         people_fully_vaccinated_per_hundred) %>%
+  fill(people_fully_vaccinated_per_hundred, .direction = "down")
 
 ### set variables ----
 usa_hosp <- format(round(signif(tail(owid_hosp$hosp_patients,1),3)),big.mark=",")
