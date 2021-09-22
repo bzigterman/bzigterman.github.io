@@ -50,8 +50,15 @@ hospitalizations_by_date <- hospitalizations %>%
 idph_cases_vax_hosp <- full_join(idph_cases_champaign, idph_vax_champaign) %>%
   full_join(hospitalizations_by_date) %>%
   select(Date,
-         monthlydead, avg_new_cases, avg_hospitalized) %>%
-  fill(avg_hospitalized, .direction = "down")
+         monthlydead, avg_new_cases, avg_hospitalized, 
+         AdministeredCountRollAvg,
+         PersonsFullyVaccinated,
+         PctVaccinatedPopulation) %>%
+  mutate(PctVaccinatedPopulation = PctVaccinatedPopulation*100) %>%
+  fill(avg_hospitalized, .direction = "down") %>%
+  fill(AdministeredCountRollAvg, .direction = "down") %>%
+  fill(PersonsFullyVaccinated, .direction = "down") %>%
+  fill(PctVaccinatedPopulation, .direction = "down")
 
 idph_cases_vax_hosp_long <- idph_cases_vax_hosp %>%
   pivot_longer(!Date,
@@ -62,8 +69,12 @@ idph_cases_vax_hosp_long <- idph_cases_vax_hosp %>%
     "avg_new_cases" = "Cases",
     "avg_hospitalized" = "Hospitalized",
     "monthlydead" = "Deaths",
+    "AdministeredCountRollAvg" = "New Vaccine Doses",
+    "PersonsFullyVaccinated" = "Fully Vaccinated",
+    "PctVaccinatedPopulation" = "Pct. Fully Vaccinated",
     .ordered = TRUE
-  ))
+  )) %>%
+  mutate(values = signif(values, 3))
   
 lists <- idph_cases_vax_hosp_long %>%
   group_by(names) %>%
@@ -151,9 +162,9 @@ champaign_month_ago_hospitalized <-
   format(round(signif(tail(lag(hospitalizations_by_date$avg_hospitalized,2),1),3)),big.mark=",")
 champaign_month_ago_deaths <- format(round(signif(tail(lag(idph_cases_champaign$monthlydead, 14),1),3)),big.mark=",")
 champaign_month_ago_cases <- format(round(signif(tail(lag(idph_cases_champaign$avg_new_cases, 14),1),3)),big.mark=",")
-champaign_month_ago_vaccinated <- round(100*tail(lag(idph_vax_champaign$PctVaccinatedPopulation, 14),1), digits = 1)
+champaign_month_ago_vaccinated <- round(100*tail(lag(idph_vax_champaign$PctVaccinatedPopulation, 13),1), digits = 1)
 champaign_month_ago_new_doses <- 
-  format(round(signif(tail(lag(idph_vax_champaign$AdministeredCountRollAvg, 14),1),3)),big.mark=",")
+  format(round(signif(tail(lag(idph_vax_champaign$AdministeredCountRollAvg, 13),1),3)),big.mark=",")
 champaign_case_pct_change <- round(100*(tail(idph_cases_champaign$avg_new_cases,1)-tail(lag(idph_cases_champaign$avg_new_cases, 14),1))/tail(lag(idph_cases_champaign$avg_new_cases, 14),1), digits = 0)
 champaign_death_pct_change <- round(100*(tail(idph_cases_champaign$monthlydead,1)-tail(lag(idph_cases_champaign$monthlydead, 14),1))/tail(lag(idph_cases_champaign$monthlydead, 14),1), digits = 0)
 
@@ -219,10 +230,18 @@ idph_hosp <- rio::import("https://idph.illinois.gov/DPHPublicInformation/api/COV
 
 ### table ----
 
-il_combined <- full_join(idph_cases_il,idph_vax_il) %>%
+il_combined <- full_join(idph_cases_il, idph_vax_il) %>%
   full_join(idph_hosp) %>%
-  select(Date,TotalInUseBedsCOVID, avg_new_deaths, avg_new_cases) %>%
-  fill(TotalInUseBedsCOVID, .direction = "down")
+  select(Date,
+         avg_new_deaths, avg_new_cases, TotalInUseBedsCOVID, 
+         AdministeredCountRollAvg,
+         PersonsFullyVaccinated,
+         PctVaccinatedPopulation) %>%
+  mutate(PctVaccinatedPopulation = PctVaccinatedPopulation*100) %>%
+  fill(TotalInUseBedsCOVID, .direction = "down") %>%
+  fill(AdministeredCountRollAvg, .direction = "down") %>%
+  fill(PersonsFullyVaccinated, .direction = "down") %>%
+  fill(PctVaccinatedPopulation, .direction = "down")
 
 il_combined_longer <- il_combined %>%
   pivot_longer(!Date,
@@ -233,8 +252,12 @@ il_combined_longer <- il_combined %>%
     "avg_new_cases" = "Cases",
     "TotalInUseBedsCOVID" = "Hospitalized",
     "avg_new_deaths" = "Deaths",
+    "AdministeredCountRollAvg" = "New Vaccine Doses",
+    "PersonsFullyVaccinated" = "Fully Vaccinated",
+    "PctVaccinatedPopulation" = "Pct. Fully Vaccinated",
     .ordered = TRUE
-  ))
+  )) %>%
+  mutate(values = signif(values, 3))
 
 lists <- il_combined_longer %>%
   group_by(names) %>%
@@ -413,8 +436,15 @@ usa_owid_vaccines <- rio::import(usa_owid_vaccines_url, format = "csv") %>%
 ### table ----
 usa_combined <- full_join(usa_jhu_new_cases,owid_hosp) %>%
   full_join(usa_jhu_new_deaths) %>%
-  select(date,hosp_patients, avg_new_deaths, avg_new_cases) %>%
-  fill(hosp_patients, .direction = "down")
+  full_join(usa_owid_vaccines) %>%
+  select(date,hosp_patients, avg_new_deaths, avg_new_cases,
+         people_fully_vaccinated,daily_vaccinations,
+         people_fully_vaccinated_per_hundred) %>%
+  fill(hosp_patients, .direction = "down") 
+usa_combined$people_fully_vaccinated <- as.numeric(usa_combined$people_fully_vaccinated)
+
+usa_combined <- usa_combined %>%
+  fill(people_fully_vaccinated, .direction = "down")
 
 usa_combined_longer <- usa_combined %>%
   pivot_longer(!date,
@@ -425,8 +455,12 @@ usa_combined_longer <- usa_combined %>%
     "avg_new_cases" = "Cases",
     "hosp_patients" = "Hospitalized",
     "avg_new_deaths" = "Deaths",
+    "daily_vaccinations" = "New Vaccine Doses",
+    "people_fully_vaccinated" = "Fully Vaccinated",
+    "people_fully_vaccinated_per_hundred" = "Pct. Fully Vaccinated",
     .ordered = TRUE
-  ))
+  )) %>%
+  mutate(values = signif(values, 3))
 
 lists <- usa_combined_longer %>%
   group_by(names) %>%
@@ -594,7 +628,16 @@ world_owid_vaccines <- rio::import(world_owid_vaccines_url, format = "csv") %>%
 
 ### table ----
 world_combined <- full_join(world_jhu_new_cases,world_jhu_new_deaths) %>%
-  select(date, avg_new_deaths, avg_new_cases) 
+  full_join(world_owid_vaccines) %>%
+  select(date, avg_new_deaths, avg_new_cases, 
+         people_fully_vaccinated,
+         daily_vaccinations, 
+         people_fully_vaccinated_per_hundred) 
+world_combined$people_fully_vaccinated <- 
+  as.numeric(world_combined$people_fully_vaccinated)
+world_combined$daily_vaccinations <- 
+  as.numeric(world_combined$daily_vaccinations)
+
 
 world_combined_longer <- world_combined %>%
   pivot_longer(!date,
@@ -604,8 +647,12 @@ world_combined_longer <- world_combined %>%
     names, 
     "avg_new_cases" = "Cases",
     "avg_new_deaths" = "Deaths",
+    "daily_vaccinations" = "New Vaccine Doses",
+    "people_fully_vaccinated" = "Fully Vaccinated",
+    "people_fully_vaccinated_per_hundred" = "Pct. Fully Vaccinated",
     .ordered = TRUE
-  ))
+  )) %>%
+  mutate(values = signif(values, 3))
 
 lists <- world_combined_longer %>%
   group_by(names) %>%
