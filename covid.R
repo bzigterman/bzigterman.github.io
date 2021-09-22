@@ -301,7 +301,8 @@ il_table <- ungroup(latest_data_for_table) %>%
     after = latest) %>%
   fmt_number(
     columns = c(latest,two_weeks_ago),
-    decimals = 0) %>%
+    n_sigfig = 2,
+    suffixing = TRUE) %>%
   fmt_percent(
     columns = pct_change,
     decimals = 0,
