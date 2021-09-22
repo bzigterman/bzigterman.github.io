@@ -592,6 +592,95 @@ world_owid_vaccines <- rio::import(world_owid_vaccines_url, format = "csv") %>%
   filter(iso_code == "OWID_WRL") %>%
   select(date, people_fully_vaccinated,daily_vaccinations, people_fully_vaccinated_per_hundred)
 
+### table ----
+world_combined <- full_join(world_jhu_new_cases,world_jhu_new_deaths) %>%
+  select(date, avg_new_deaths, avg_new_cases) 
+
+world_combined_longer <- world_combined %>%
+  pivot_longer(!date,
+               values_to = "values",
+               names_to = "names") %>%
+  mutate(names = recode_factor(
+    names, 
+    "avg_new_cases" = "Cases",
+    "avg_new_deaths" = "Deaths",
+    .ordered = TRUE
+  ))
+
+lists <- world_combined_longer %>%
+  group_by(names) %>%
+  do(tail(., n = 90)) %>%
+  summarise(lists = list(values)) 
+add_latest_column <- world_combined_longer %>%
+  select(names,date,values) %>%
+  group_by(names) %>%
+  do(tail(na.omit(.), n = 1)) %>%
+  rename(latest = values) %>%
+  full_join(lists) 
+
+add_two_weeks_ago_column <- world_combined_longer %>%
+  select(names,values) %>%
+  group_by(names) %>%
+  do(tail(.,n = 15)) %>%
+  do(head(.,n =1)) %>%
+  rename(two_weeks_ago = values) %>%
+  full_join(add_latest_column) %>%
+  mutate(pct_change = (latest-two_weeks_ago)/two_weeks_ago)
+
+
+latest_data_for_table <- add_two_weeks_ago_column
+
+world_table <- ungroup(latest_data_for_table) %>%
+  gt() %>%
+  gt_theme_espn() %>%
+  gt_sparkline(lists,
+               line_color = "grey70",
+               range_colors = c("blue", "red")
+  ) %>%
+  tab_options(
+    table.width = pct(100),
+    data_row.padding = px(4),
+    table.font.size = px(12)
+  ) %>%
+  opt_all_caps(  all_caps = TRUE) %>%
+  cols_hide(columns = c(date)) %>%
+  cols_move(
+    columns = pct_change,
+    after = latest) %>%
+  fmt_number(
+    columns = c(latest,two_weeks_ago),
+    decimals = 0) %>%
+  fmt_percent(
+    columns = pct_change,
+    decimals = 0,
+    force_sign = TRUE
+  ) %>%
+  cols_align(
+    align = "left",
+    columns = names
+  ) %>%
+  cols_align(
+    align = c("right"),
+    columns = lists
+  ) %>%
+  cols_label(
+    names = "",
+    latest = "Latest",
+    two_weeks_ago = html("14 Days<br>Ago"),
+    pct_change = html("14 Day<br>Trend"),
+    lists = html("Past<br>90 Days")
+  ) 
+
+world_table
+world_table_html <- as_raw_html(world_table, inline_css = FALSE)
+better_divs_world_table <- gsub("[#][a-z]{10}",
+                              "#world_table", 
+                              x = world_table_html)
+better_world_table_html <- gsub("[\"][a-z]{10}",
+                              "\"world_table",
+                              x = better_divs_world_table)
+
+
 ### set variables ----
 world_avg_new_deaths <- format(round(signif(tail(world_jhu_new_deaths$avg_new_deaths,1),3)),big.mark=",")
 world_avg_new_cases <- format(round(signif(tail(world_jhu_new_cases$avg_new_cases,1),3)),big.mark=",")
@@ -797,6 +886,8 @@ Community transmission levels are calculated by the CDC based on new cases per c
 ![USA transmission levels map](https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/usa_transmission.png)
 
 ## World
+
+",better_world_table_html,"
 
 ",world_text,
 "

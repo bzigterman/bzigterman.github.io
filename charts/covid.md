@@ -1172,6 +1172,373 @@ As of Monday in the United States (vs. two weeks ago):
 
 ## World
 
+<div id="world_table" style="overflow-x:auto;overflow-y:auto;width:auto;height:auto;">
+  <style>@import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+html {
+  font-family: Lato, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Helvetica Neue', 'Fira Sans', 'Droid Sans', Arial, sans-serif;
+}
+
+#world_table .gt_table {
+  display: table;
+  border-collapse: collapse;
+  margin-left: auto;
+  margin-right: auto;
+  color: #333333;
+  font-size: 12px;
+  font-weight: normal;
+  font-style: normal;
+  background-color: #FFFFFF;
+  width: 100%;
+  border-top-style: solid;
+  border-top-width: 3px;
+  border-top-color: #FFFFFF;
+  border-right-style: none;
+  border-right-width: 2px;
+  border-right-color: #D3D3D3;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #A8A8A8;
+  border-left-style: none;
+  border-left-width: 2px;
+  border-left-color: #D3D3D3;
+}
+
+#world_table .gt_heading {
+  background-color: #FFFFFF;
+  text-align: left;
+  border-bottom-color: #FFFFFF;
+  border-left-style: none;
+  border-left-width: 1px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 1px;
+  border-right-color: #D3D3D3;
+}
+
+#world_table .gt_title {
+  color: #333333;
+  font-size: 24px;
+  font-weight: initial;
+  padding-top: 4px;
+  padding-bottom: 4px;
+  border-bottom-color: #FFFFFF;
+  border-bottom-width: 0;
+}
+
+#world_table .gt_subtitle {
+  color: #333333;
+  font-size: 85%;
+  font-weight: initial;
+  padding-top: 0;
+  padding-bottom: 6px;
+  border-top-color: #FFFFFF;
+  border-top-width: 0;
+}
+
+#world_table .gt_bottom_border {
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+}
+
+#world_table .gt_col_headings {
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: #D3D3D3;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  border-left-style: none;
+  border-left-width: 1px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 1px;
+  border-right-color: #D3D3D3;
+}
+
+#world_table .gt_col_heading {
+  color: #333333;
+  background-color: #FFFFFF;
+  font-size: 80%;
+  font-weight: bolder;
+  text-transform: uppercase;
+  border-left-style: none;
+  border-left-width: 1px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 1px;
+  border-right-color: #D3D3D3;
+  vertical-align: bottom;
+  padding-top: 5px;
+  padding-bottom: 6px;
+  padding-left: 5px;
+  padding-right: 5px;
+  overflow-x: hidden;
+}
+
+#world_table .gt_column_spanner_outer {
+  color: #333333;
+  background-color: #FFFFFF;
+  font-size: 80%;
+  font-weight: bolder;
+  text-transform: uppercase;
+  padding-top: 0;
+  padding-bottom: 0;
+  padding-left: 4px;
+  padding-right: 4px;
+}
+
+#world_table .gt_column_spanner_outer:first-child {
+  padding-left: 0;
+}
+
+#world_table .gt_column_spanner_outer:last-child {
+  padding-right: 0;
+}
+
+#world_table .gt_column_spanner {
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  vertical-align: bottom;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  overflow-x: hidden;
+  display: inline-block;
+  width: 100%;
+}
+
+#world_table .gt_group_heading {
+  padding: 8px;
+  color: #333333;
+  background-color: #FFFFFF;
+  font-size: 80%;
+  font-weight: bolder;
+  text-transform: uppercase;
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: #D3D3D3;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  border-left-style: none;
+  border-left-width: 1px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 1px;
+  border-right-color: #D3D3D3;
+  vertical-align: middle;
+}
+
+#world_table .gt_empty_group_heading {
+  padding: 0.5px;
+  color: #333333;
+  background-color: #FFFFFF;
+  font-size: 80%;
+  font-weight: bolder;
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: #D3D3D3;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  vertical-align: middle;
+}
+
+#world_table .gt_from_md > :first-child {
+  margin-top: 0;
+}
+
+#world_table .gt_from_md > :last-child {
+  margin-bottom: 0;
+}
+
+#world_table .gt_row {
+  padding-top: 4px;
+  padding-bottom: 4px;
+  padding-left: 5px;
+  padding-right: 5px;
+  margin: 10px;
+  border-top-style: solid;
+  border-top-width: 1px;
+  border-top-color: #F6F7F7;
+  border-left-style: none;
+  border-left-width: 1px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 1px;
+  border-right-color: #D3D3D3;
+  vertical-align: middle;
+  overflow-x: hidden;
+}
+
+#world_table .gt_stub {
+  color: #333333;
+  background-color: #FFFFFF;
+  font-size: 80%;
+  font-weight: bolder;
+  text-transform: uppercase;
+  border-right-style: solid;
+  border-right-width: 2px;
+  border-right-color: #D3D3D3;
+  padding-left: 12px;
+}
+
+#world_table .gt_summary_row {
+  color: #333333;
+  background-color: #FFFFFF;
+  text-transform: inherit;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+#world_table .gt_first_summary_row {
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 5px;
+  padding-right: 5px;
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: #D3D3D3;
+}
+
+#world_table .gt_grand_summary_row {
+  color: #333333;
+  background-color: #FFFFFF;
+  text-transform: inherit;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+#world_table .gt_first_grand_summary_row {
+  padding-top: 8px;
+  padding-bottom: 8px;
+  padding-left: 5px;
+  padding-right: 5px;
+  border-top-style: double;
+  border-top-width: 6px;
+  border-top-color: #D3D3D3;
+}
+
+#world_table .gt_striped {
+  background-color: #FAFAFA;
+}
+
+#world_table .gt_table_body {
+  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: #D3D3D3;
+  border-bottom-style: solid;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+}
+
+#world_table .gt_footnotes {
+  color: #333333;
+  background-color: #FFFFFF;
+  border-bottom-style: none;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  border-left-style: none;
+  border-left-width: 2px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 2px;
+  border-right-color: #D3D3D3;
+}
+
+#world_table .gt_footnote {
+  margin: 0px;
+  font-size: 90%;
+  padding: 4px;
+}
+
+#world_table .gt_sourcenotes {
+  color: #333333;
+  background-color: #FFFFFF;
+  border-bottom-style: none;
+  border-bottom-width: 2px;
+  border-bottom-color: #D3D3D3;
+  border-left-style: none;
+  border-left-width: 2px;
+  border-left-color: #D3D3D3;
+  border-right-style: none;
+  border-right-width: 2px;
+  border-right-color: #D3D3D3;
+}
+
+#world_table .gt_sourcenote {
+  font-size: 12px;
+  padding: 4px;
+}
+
+#world_table .gt_left {
+  text-align: left;
+}
+
+#world_table .gt_center {
+  text-align: center;
+}
+
+#world_table .gt_right {
+  text-align: right;
+  font-variant-numeric: tabular-nums;
+}
+
+#world_table .gt_font_normal {
+  font-weight: normal;
+}
+
+#world_table .gt_font_bold {
+  font-weight: bold;
+}
+
+#world_table .gt_font_italic {
+  font-style: italic;
+}
+
+#world_table .gt_super {
+  font-size: 65%;
+}
+
+#world_table .gt_footnote_marks {
+  font-style: italic;
+  font-weight: normal;
+  font-size: 65%;
+}
+</style>
+  <table class="gt_table">
+  
+  <thead class="gt_col_headings">
+    <tr>
+      <th class="gt_col_heading gt_columns_bottom_border gt_left" rowspan="1" colspan="1"></th>
+      <th class="gt_col_heading gt_columns_bottom_border gt_right" rowspan="1" colspan="1">14 Days<br>Ago</th>
+      <th class="gt_col_heading gt_columns_bottom_border gt_right" rowspan="1" colspan="1">Latest</th>
+      <th class="gt_col_heading gt_columns_bottom_border gt_right" rowspan="1" colspan="1">14 Day<br>Trend</th>
+      <th class="gt_col_heading gt_columns_bottom_border gt_right" rowspan="1" colspan="1">Past<br>90 Days</th>
+    </tr>
+  </thead>
+  <tbody class="gt_table_body">
+    <tr><td class="gt_row gt_left">Cases</td>
+<td class="gt_row gt_right">584,740</td>
+<td class="gt_row gt_right">530,725</td>
+<td class="gt_row gt_right">&minus;9&percnt;</td>
+<td class="gt_row gt_right"><?xml version='1.0' encoding='UTF-8' ?><svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='64.80pt' height='10.80pt' viewBox='0 0 64.80 10.80'><defs>  <style type='text/css'><![CDATA[    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {      fill: none;      stroke: #000000;      stroke-linecap: round;      stroke-linejoin: round;      stroke-miterlimit: 10.00;    }  ]]></style></defs><rect width='100%' height='100%' style='stroke: none; fill: none;'/><defs>  <clipPath id='cpMC4wMHw2NC44MHwwLjAwfDEwLjgw'>    <rect x='0.00' y='0.00' width='64.80' height='10.80' />  </clipPath></defs><g clip-path='url(#cpMC4wMHw2NC44MHwwLjAwfDEwLjgw)'><polyline points='2.95,9.26 3.61,9.21 4.27,9.15 4.93,9.09 5.59,9.06 6.25,8.93 6.92,8.90 7.58,9.05 8.24,8.92 8.90,8.85 9.56,8.81 10.23,8.74 10.89,8.59 11.55,8.32 12.21,8.07 12.87,7.92 13.54,7.68 14.20,7.49 14.86,7.34 15.52,7.09 16.18,6.84 16.85,6.55 17.51,6.21 18.17,5.87 18.83,5.70 19.49,5.48 20.15,5.26 20.82,5.22 21.48,5.15 22.14,5.18 22.80,4.84 23.46,4.85 24.13,4.80 24.79,4.63 25.45,4.34 26.11,4.02 26.77,3.69 27.44,3.54 28.10,3.40 28.76,3.27 29.42,3.13 30.08,3.03 30.75,2.91 31.41,2.78 32.07,2.44 32.73,2.29 33.39,2.44 34.05,2.15 34.72,2.11 35.38,1.92 36.04,1.84 36.70,1.89 37.36,1.96 38.03,1.87 38.69,1.78 39.35,1.66 40.01,1.66 40.67,1.64 41.34,1.70 42.00,1.67 42.66,1.74 43.32,1.64 43.98,1.63 44.65,1.62 45.31,1.54 45.97,1.71 46.63,1.68 47.29,1.68 47.95,1.75 48.62,2.00 49.28,2.01 49.94,2.23 50.60,2.33 51.26,2.54 51.93,2.62 52.59,3.54 53.25,3.11 53.91,3.47 54.57,3.62 55.24,3.93 55.90,4.07 56.56,4.31 57.22,3.67 57.88,4.36 58.55,4.61 59.21,4.83 59.87,4.98 60.53,4.67 61.19,4.69 61.85,4.95 ' style='stroke-width: 1.07; stroke: #B3B3B3; stroke-linecap: butt;' /><circle cx='2.95' cy='9.26' r='0.89' style='stroke-width: 0.71; stroke: #0000FF; fill: #0000FF;' /><circle cx='45.31' cy='1.54' r='0.89' style='stroke-width: 0.71; stroke: #FF0000; fill: #FF0000;' /></g></svg></td></tr>
+    <tr><td class="gt_row gt_left gt_striped">Deaths</td>
+<td class="gt_row gt_right gt_striped">9,364</td>
+<td class="gt_row gt_right gt_striped">8,578</td>
+<td class="gt_row gt_right gt_striped">&minus;8&percnt;</td>
+<td class="gt_row gt_right gt_striped"><?xml version='1.0' encoding='UTF-8' ?><svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='64.80pt' height='10.80pt' viewBox='0 0 64.80 10.80'><defs>  <style type='text/css'><![CDATA[    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {      fill: none;      stroke: #000000;      stroke-linecap: round;      stroke-linejoin: round;      stroke-miterlimit: 10.00;    }  ]]></style></defs><rect width='100%' height='100%' style='stroke: none; fill: none;'/><defs>  <clipPath id='cpMC4wMHw2NC44MHwwLjAwfDEwLjgw'>    <rect x='0.00' y='0.00' width='64.80' height='10.80' />  </clipPath></defs><g clip-path='url(#cpMC4wMHw2NC44MHwwLjAwfDEwLjgw)'><polyline points='2.95,7.06 3.61,7.34 4.27,7.35 4.93,7.63 5.59,7.91 6.25,8.08 6.92,8.46 7.58,8.61 8.24,8.58 8.90,8.97 9.56,9.26 10.23,9.00 10.89,8.69 11.55,8.48 12.21,8.76 12.87,8.68 13.54,8.63 14.20,8.73 14.86,8.34 15.52,7.96 16.18,8.07 16.85,8.03 17.51,8.19 18.17,8.04 18.83,7.86 19.49,8.08 20.15,8.51 20.82,6.90 21.48,6.88 22.14,6.74 22.80,7.20 23.46,6.24 24.13,6.14 24.79,5.82 25.45,6.75 26.11,6.07 26.77,5.16 27.44,4.38 28.10,4.53 28.76,4.61 29.42,4.44 30.08,4.23 30.75,4.07 31.41,4.00 32.07,3.53 32.73,3.66 33.39,3.51 34.05,3.30 34.72,2.58 35.38,2.85 36.04,2.99 36.70,3.03 37.36,2.99 38.03,3.09 38.69,2.56 39.35,3.11 40.01,2.73 40.67,2.38 41.34,2.39 42.00,2.29 42.66,2.10 43.32,2.01 43.98,1.86 44.65,1.63 45.31,1.54 45.97,1.65 46.63,1.86 47.29,2.26 47.95,2.49 48.62,3.39 49.28,2.90 49.94,3.10 50.60,2.92 51.26,3.22 51.93,3.34 52.59,4.04 53.25,3.41 53.91,4.52 54.57,4.73 55.24,5.42 55.90,5.17 56.56,5.62 57.22,5.13 57.88,5.43 58.55,5.27 59.21,5.40 59.87,5.61 60.53,6.32 61.19,6.09 61.85,6.48 ' style='stroke-width: 1.07; stroke: #B3B3B3; stroke-linecap: butt;' /><circle cx='9.56' cy='9.26' r='0.89' style='stroke-width: 0.71; stroke: #0000FF; fill: #0000FF;' /><circle cx='45.31' cy='1.54' r='0.89' style='stroke-width: 0.71; stroke: #FF0000; fill: #FF0000;' /></g></svg></td></tr>
+  </tbody>
+  
+  
+</table>
+</div>
+
 As of Monday (vs. two weeks ago):
   
 - Average new cases: 531,000 (vs. 585,000) -9%↓
