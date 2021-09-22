@@ -900,8 +900,6 @@ During the COVID-19 pandemic, I've been making charts with data from the [Champa
 
 ",better_cu_covid_table_html,"
 
-",champaign_county_text,
-"
 ![Champaign County Metrics](https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/Champaign_facet.png)
 
 Charts for Champaign County are posted weekdays on Twitter [@ChampaignCovid](https://twitter.com/ChampaignCovid).
@@ -910,8 +908,6 @@ Charts for Champaign County are posted weekdays on Twitter [@ChampaignCovid](htt
 
 ",better_il_table_html,"
 
-",il_text,
-"
 ![Illinois Metrics](https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/IL_facet.png)
 
 ![Illinois CDC_vax_combined map](https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/IL_vax_combined.png)
@@ -924,8 +920,6 @@ Community transmission levels are calculated by the CDC based on new cases per c
 
 ",better_usa_table_html,"
 
-",usa_text,
-"
 ![USA Metrics](https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/US_facet.png)
 
 ![USA fully vaccinated map](https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/usa_vax_total.png)
@@ -936,8 +930,6 @@ Community transmission levels are calculated by the CDC based on new cases per c
 
 ",better_world_table_html,"
 
-",world_text,
-"
 ![World Metrics](https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/world_facet.png)
 
 ## Case Acceleration

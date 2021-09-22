@@ -395,14 +395,6 @@ html {
 </table>
 </div>
 
-As of Tuesday in Champaign County (vs. two weeks ago):
-  
-- Average new cases: 54 (vs. 100) -46%↓
-- Average hospitalized: 24 (vs. 69) 
-- Deaths in the past month: 15 (vs. 14)
-- Percent of Champaign County fully vaccinated: 53.4% (vs. 52.5%)
-- Average new vaccine doses: 302 (vs. 341)
-
 ![Champaign County Metrics](https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/Champaign_facet.png)
 
 Charts for Champaign County are posted weekdays on Twitter [@ChampaignCovid](https://twitter.com/ChampaignCovid).
@@ -795,14 +787,6 @@ html {
   
 </table>
 </div>
-
-As of Tuesday in Illinois (vs. two weeks ago):
-  
-- Average new cases: 3,370 (vs. 3,920) -14%↓
-- Hospitalized: 2,040 (vs. 2,330) -12%↓
-- Average new deaths: 36 (vs. 26) +42%↑
-- Percent of Illinois fully vaccinated: 54.6% (vs. 53.5%)
-- Average new vaccine doses: 19,400 (vs. 23,500)
 
 ![Illinois Metrics](https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/IL_facet.png)
 
@@ -1201,14 +1185,6 @@ html {
 </table>
 </div>
 
-As of Monday in the United States (vs. two weeks ago):
-  
-- Average new cases: 139,000 (vs. 138,000) +1%↑
-- Hospitalized: 83,800 (vs. 95,900) -13%↓
-- Average new deaths: 1,950 (vs. 1,390) +40%↑
-- Percent of the United States fully vaccinated: 54% (vs. 52.3%)
-- Average new vaccine doses: 772,000 (vs. 848,000)
-
 ![USA Metrics](https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/US_facet.png)
 
 ![USA fully vaccinated map](https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/usa_vax_total.png)
@@ -1598,13 +1574,6 @@ html {
   
 </table>
 </div>
-
-As of Monday (vs. two weeks ago):
-  
-- Average new cases: 531,000 (vs. 585,000) -9%↓
-- Average new deaths: 8,580 (vs. 9,360) -8%↓
-- Percent of the world fully vaccinated: 31.9% (vs. 29%)
-- Average new vaccine doses: 28,800,000 (vs. 33,000,000)
 
 ![World Metrics](https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/world_facet.png)
 
