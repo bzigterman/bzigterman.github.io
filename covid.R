@@ -504,7 +504,8 @@ usa_table <- ungroup(latest_data_for_table) %>%
     after = latest) %>%
   fmt_number(
     columns = c(latest,two_weeks_ago),
-    decimals = 0) %>%
+    decimals = 1,
+    suffixing = TRUE) %>%
   fmt_percent(
     columns = pct_change,
     decimals = 0,
@@ -696,7 +697,8 @@ world_table <- ungroup(latest_data_for_table) %>%
     after = latest) %>%
   fmt_number(
     columns = c(latest,two_weeks_ago),
-    decimals = 0) %>%
+    decimals = 1,
+    suffixing = TRUE) %>%
   fmt_percent(
     columns = pct_change,
     decimals = 0,
