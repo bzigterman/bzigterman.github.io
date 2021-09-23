@@ -45,6 +45,41 @@ hospitalizations_by_date <- hospitalizations %>%
   mutate(avg_hospitalized = sum_hospitalized/7) %>%
   mutate(CountyName = "Champaign")
 
+### set variables ----
+champaign_avg_hospitalized <- format(round(signif(tail(hospitalizations_by_date$avg_hospitalized,1),3)),big.mark=",")
+champaign_dead_last_month <- format(round(signif(tail(idph_cases_champaign$monthlydead,1),3)),big.mark=",")
+champaign_avg_new_cases <- format(round(signif(tail(idph_cases_champaign$avg_new_cases,1),3)),big.mark=",")
+champaign_pct_fully_vaccinated <- round(100*tail(idph_vax_champaign$PctVaccinatedPopulation,1), digits = 1)
+champaign_avg_new_vaccine_doses <- 
+  format(round(signif(tail(idph_vax_champaign$AdministeredCountRollAvg,1),3)),big.mark=",")
+champaign_weekday <- wday(tail(idph_cases_champaign$Date,1), label = TRUE, abbr = FALSE)
+champaign_month_ago_hospitalized <- 
+  format(round(signif(tail(lag(hospitalizations_by_date$avg_hospitalized,2),1),3)),big.mark=",")
+champaign_month_ago_deaths <- format(round(signif(tail(lag(idph_cases_champaign$monthlydead, 14),1),3)),big.mark=",")
+champaign_month_ago_cases <- format(round(signif(tail(lag(idph_cases_champaign$avg_new_cases, 14),1),3)),big.mark=",")
+champaign_month_ago_vaccinated <- round(100*tail(lag(idph_vax_champaign$PctVaccinatedPopulation, 13),1), digits = 1)
+champaign_month_ago_new_doses <- 
+  format(round(signif(tail(lag(idph_vax_champaign$AdministeredCountRollAvg, 13),1),3)),big.mark=",")
+champaign_case_pct_change <- round(100*(tail(idph_cases_champaign$avg_new_cases,1)-tail(lag(idph_cases_champaign$avg_new_cases, 14),1))/tail(lag(idph_cases_champaign$avg_new_cases, 14),1), digits = 0)
+champaign_death_pct_change <- round(100*(tail(idph_cases_champaign$monthlydead,1)-tail(lag(idph_cases_champaign$monthlydead, 14),1))/tail(lag(idph_cases_champaign$monthlydead, 14),1), digits = 0)
+
+champaign_case_pct_change_text <- 
+  if (champaign_case_pct_change > 0) { 
+    paste("+",champaign_case_pct_change,"%↑", sep = "")
+  } else if (champaign_case_pct_change == 0) {
+    paste("",champaign_case_pct_change,"%→", sep = "")
+  } else { 
+    paste("",champaign_case_pct_change,"%↓", sep = "")
+  }
+champaign_death_pct_change_text <- 
+  if (champaign_death_pct_change > 0) { 
+    paste("+",champaign_death_pct_change,"%↑", sep = "")
+  } else if (champaign_death_pct_change == 0) {
+    paste("",champaign_death_pct_change,"%→", sep = "")
+  } else { 
+    paste("",champaign_death_pct_change,"%↓", sep = "")
+  }
+
 ### table ----
 
 idph_cases_vax_hosp <- full_join(idph_cases_champaign, idph_vax_champaign) %>%
@@ -138,6 +173,9 @@ cu_covid_table <-   ungroup(latest_data_for_table) %>%
     two_weeks_ago = html("14 Days<br>Ago"),
     pct_change = html("14 Day<br>Trend"),
     lists = html("Past<br>90 Days")
+  ) %>%
+  tab_source_note(
+    source_note = paste("Latest data:",champaign_weekday)
   ) 
 
 cu_covid_table
@@ -150,40 +188,6 @@ better_cu_covid_table_html <- gsub("[\"][a-z]{10}",
                                      x = better_divs_cu_covid_table)
 
 
-### set variables ----
-champaign_avg_hospitalized <- format(round(signif(tail(hospitalizations_by_date$avg_hospitalized,1),3)),big.mark=",")
-champaign_dead_last_month <- format(round(signif(tail(idph_cases_champaign$monthlydead,1),3)),big.mark=",")
-champaign_avg_new_cases <- format(round(signif(tail(idph_cases_champaign$avg_new_cases,1),3)),big.mark=",")
-champaign_pct_fully_vaccinated <- round(100*tail(idph_vax_champaign$PctVaccinatedPopulation,1), digits = 1)
-champaign_avg_new_vaccine_doses <- 
-  format(round(signif(tail(idph_vax_champaign$AdministeredCountRollAvg,1),3)),big.mark=",")
-champaign_weekday <- wday(tail(idph_cases_champaign$Date,1), label = TRUE, abbr = FALSE)
-champaign_month_ago_hospitalized <- 
-  format(round(signif(tail(lag(hospitalizations_by_date$avg_hospitalized,2),1),3)),big.mark=",")
-champaign_month_ago_deaths <- format(round(signif(tail(lag(idph_cases_champaign$monthlydead, 14),1),3)),big.mark=",")
-champaign_month_ago_cases <- format(round(signif(tail(lag(idph_cases_champaign$avg_new_cases, 14),1),3)),big.mark=",")
-champaign_month_ago_vaccinated <- round(100*tail(lag(idph_vax_champaign$PctVaccinatedPopulation, 13),1), digits = 1)
-champaign_month_ago_new_doses <- 
-  format(round(signif(tail(lag(idph_vax_champaign$AdministeredCountRollAvg, 13),1),3)),big.mark=",")
-champaign_case_pct_change <- round(100*(tail(idph_cases_champaign$avg_new_cases,1)-tail(lag(idph_cases_champaign$avg_new_cases, 14),1))/tail(lag(idph_cases_champaign$avg_new_cases, 14),1), digits = 0)
-champaign_death_pct_change <- round(100*(tail(idph_cases_champaign$monthlydead,1)-tail(lag(idph_cases_champaign$monthlydead, 14),1))/tail(lag(idph_cases_champaign$monthlydead, 14),1), digits = 0)
-
-champaign_case_pct_change_text <- 
-  if (champaign_case_pct_change > 0) { 
-    paste("+",champaign_case_pct_change,"%↑", sep = "")
-  } else if (champaign_case_pct_change == 0) {
-    paste("",champaign_case_pct_change,"%→", sep = "")
-  } else { 
-    paste("",champaign_case_pct_change,"%↓", sep = "")
-  }
-champaign_death_pct_change_text <- 
-  if (champaign_death_pct_change > 0) { 
-    paste("+",champaign_death_pct_change,"%↑", sep = "")
-  } else if (champaign_death_pct_change == 0) {
-    paste("",champaign_death_pct_change,"%→", sep = "")
-  } else { 
-    paste("",champaign_death_pct_change,"%↓", sep = "")
-  }
 
 ### text ----
 
@@ -227,6 +231,51 @@ idph_hosp <- rio::import("https://idph.illinois.gov/DPHPublicInformation/api/COV
                          format = "csv") %>%
   mutate(Date = ymd(mdy_hms(ReportDate))) %>%
   select(Date, TotalInUseBedsCOVID)
+
+### set variables ----
+il_hosp <- format(round(signif(tail(idph_hosp$TotalInUseBedsCOVID,1),3)),big.mark=",")
+il_avg_new_deaths <- format(round(signif(tail(idph_cases_il$avg_new_deaths,1),3)),big.mark=",")
+il_avg_new_cases <- format(round(signif(tail(idph_cases_il$avg_new_cases,1),3)),big.mark=",")
+il_pct_fully_vaccinated <- round(100*tail(idph_vax_il$PctVaccinatedPopulation,1), digits = 1)
+il_avg_new_vaccine_doses <- format(round(signif(tail(idph_vax_il$AdministeredCountRollAvg,1),3)),big.mark=",")
+il_weekday <- wday(tail(idph_cases_il$Date,1), label = TRUE, abbr = FALSE)
+il_month_ago_avg_new_deaths <- format(round(signif(tail(lag(idph_cases_il$avg_new_deaths, 14),1),3)),big.mark=",")
+il_month_ago_hosp <- format(round(signif(tail(lag(idph_hosp$TotalInUseBedsCOVID, 13),1),3)),big.mark=",")
+il_month_ago_cases <- format(round(signif(tail(lag(idph_cases_il$avg_new_cases, 14),1),3)),big.mark=",")
+il_month_ago_vaccinated <- round(100*tail(lag(idph_vax_il$PctVaccinatedPopulation, 13),1), digits = 1)
+il_month_ago_new_doses <- format(round(signif(tail(lag(idph_vax_il$AdministeredCountRollAvg, 13),1),3)),big.mark=",")
+
+il_case_pct_change <- round(100*(tail(idph_cases_il$avg_new_cases,1)-tail(lag(idph_cases_il$avg_new_cases, 14),1))/tail(lag(idph_cases_il$avg_new_cases, 14),1), digits = 0)
+il_death_pct_change <- round(100*(tail(idph_cases_il$avg_new_deaths,1)-tail(lag(idph_cases_il$avg_new_deaths, 14),1))/tail(lag(idph_cases_il$avg_new_deaths, 14),1), digits = 0)
+il_hosp_pct_change <- round(100*(tail(idph_hosp$TotalInUseBedsCOVID,1)-tail(lag(idph_hosp$TotalInUseBedsCOVID, 13),1))/tail(lag(idph_hosp$TotalInUseBedsCOVID, 13),1), digits = 0)
+
+il_case_pct_change_text <- 
+  if (il_case_pct_change > 0) { 
+    paste("+",il_case_pct_change,"%↑", sep = "")
+  } else if (il_case_pct_change == 0) { 
+    paste("",il_case_pct_change,"%→", sep = "")
+  } else {
+    paste("",il_case_pct_change,"%↓", sep = "")
+  }
+
+il_death_pct_change_text <- 
+  if (il_death_pct_change > 0) { 
+    paste("+",il_death_pct_change,"%↑", sep = "")
+  } else if (il_death_pct_change == 0) {
+    paste("",il_death_pct_change,"%→", sep = "")
+  } else { 
+    paste("",il_death_pct_change,"%↓", sep = "")
+  }
+
+il_hosp_pct_change_text <- 
+  if (il_hosp_pct_change > 0) { 
+    paste("+",il_hosp_pct_change,"%↑", sep = "")
+  } else if (il_hosp_pct_change == 0) {
+    paste("",il_hosp_pct_change,"%→", sep = "")
+  } else { 
+    paste("",il_hosp_pct_change,"%↓", sep = "")
+  }
+
 
 ### table ----
 
@@ -322,62 +371,21 @@ il_table <- ungroup(latest_data_for_table) %>%
     two_weeks_ago = html("14 Days<br>Ago"),
     pct_change = html("14 Day<br>Trend"),
     lists = html("Past<br>90 Days")
+  ) %>%
+  tab_source_note(
+    source_note = paste("Latest data:",il_weekday)
   ) 
 
 il_table
 il_table_html <- as_raw_html(il_table, inline_css = FALSE)
 better_divs_il_table <- gsub("[#][a-z]{10}",
-                                   "#il_table", 
-                                   x = il_table_html)
+                             "#il_table", 
+                             x = il_table_html)
 better_il_table_html <- gsub("[\"][a-z]{10}",
-                                   "\"il_table",
-                                   x = better_divs_il_table)
+                             "\"il_table",
+                             x = better_divs_il_table)
 
 
-
-### set variables ----
-il_hosp <- format(round(signif(tail(idph_hosp$TotalInUseBedsCOVID,1),3)),big.mark=",")
-il_avg_new_deaths <- format(round(signif(tail(idph_cases_il$avg_new_deaths,1),3)),big.mark=",")
-il_avg_new_cases <- format(round(signif(tail(idph_cases_il$avg_new_cases,1),3)),big.mark=",")
-il_pct_fully_vaccinated <- round(100*tail(idph_vax_il$PctVaccinatedPopulation,1), digits = 1)
-il_avg_new_vaccine_doses <- format(round(signif(tail(idph_vax_il$AdministeredCountRollAvg,1),3)),big.mark=",")
-il_weekday <- wday(tail(idph_cases_il$Date,1), label = TRUE, abbr = FALSE)
-il_month_ago_avg_new_deaths <- format(round(signif(tail(lag(idph_cases_il$avg_new_deaths, 14),1),3)),big.mark=",")
-il_month_ago_hosp <- format(round(signif(tail(lag(idph_hosp$TotalInUseBedsCOVID, 13),1),3)),big.mark=",")
-il_month_ago_cases <- format(round(signif(tail(lag(idph_cases_il$avg_new_cases, 14),1),3)),big.mark=",")
-il_month_ago_vaccinated <- round(100*tail(lag(idph_vax_il$PctVaccinatedPopulation, 13),1), digits = 1)
-il_month_ago_new_doses <- format(round(signif(tail(lag(idph_vax_il$AdministeredCountRollAvg, 13),1),3)),big.mark=",")
-
-il_case_pct_change <- round(100*(tail(idph_cases_il$avg_new_cases,1)-tail(lag(idph_cases_il$avg_new_cases, 14),1))/tail(lag(idph_cases_il$avg_new_cases, 14),1), digits = 0)
-il_death_pct_change <- round(100*(tail(idph_cases_il$avg_new_deaths,1)-tail(lag(idph_cases_il$avg_new_deaths, 14),1))/tail(lag(idph_cases_il$avg_new_deaths, 14),1), digits = 0)
-il_hosp_pct_change <- round(100*(tail(idph_hosp$TotalInUseBedsCOVID,1)-tail(lag(idph_hosp$TotalInUseBedsCOVID, 13),1))/tail(lag(idph_hosp$TotalInUseBedsCOVID, 13),1), digits = 0)
-
-il_case_pct_change_text <- 
-  if (il_case_pct_change > 0) { 
-    paste("+",il_case_pct_change,"%↑", sep = "")
-  } else if (il_case_pct_change == 0) { 
-    paste("",il_case_pct_change,"%→", sep = "")
-  } else {
-    paste("",il_case_pct_change,"%↓", sep = "")
-  }
-
-il_death_pct_change_text <- 
-  if (il_death_pct_change > 0) { 
-    paste("+",il_death_pct_change,"%↑", sep = "")
-  } else if (il_death_pct_change == 0) {
-    paste("",il_death_pct_change,"%→", sep = "")
-  } else { 
-    paste("",il_death_pct_change,"%↓", sep = "")
-  }
-
-il_hosp_pct_change_text <- 
-  if (il_hosp_pct_change > 0) { 
-    paste("+",il_hosp_pct_change,"%↑", sep = "")
-  } else if (il_hosp_pct_change == 0) {
-    paste("",il_hosp_pct_change,"%→", sep = "")
-  } else { 
-    paste("",il_hosp_pct_change,"%↓", sep = "")
-  }
 
 ### text ----
 
@@ -432,6 +440,51 @@ usa_owid_vaccines <- rio::import(usa_owid_vaccines_url, format = "csv") %>%
   select(date, people_fully_vaccinated,daily_vaccinations,
          people_fully_vaccinated_per_hundred) %>%
   fill(people_fully_vaccinated_per_hundred, .direction = "down")
+
+
+### set variables ----
+usa_hosp <- format(round(signif(tail(owid_hosp$hosp_patients,1),3)),big.mark=",")
+usa_avg_new_deaths <- format(round(signif(tail(usa_jhu_new_deaths$avg_new_deaths,1),3)),big.mark=",")
+usa_avg_new_cases <- format(round(signif(tail(usa_jhu_new_cases$avg_new_cases,1),3)),big.mark=",")
+usa_pct_fully_vaccinated <- round(tail(usa_owid_vaccines$people_fully_vaccinated_per_hundred,1), digits = 1)
+usa_avg_new_vaccine_doses <- format(signif(tail(usa_owid_vaccines$daily_vaccinations,1),3),big.mark=",")
+usa_weekday <- wday(tail(usa_jhu_new_cases$date,1), label = TRUE, abbr = FALSE)
+usa_month_ago_avg_new_deaths <- format(round(signif(tail(lag(usa_jhu_new_deaths$avg_new_deaths, 14),1),3)),big.mark=",")
+usa_month_ago_hosp <- format(round(signif(tail(lag(owid_hosp$hosp_patients,13),1),3)),big.mark=",")
+usa_month_ago_cases <- format(round(signif(tail(lag(usa_jhu_new_cases$avg_new_cases, 14),1),3)),big.mark=",")
+usa_month_ago_vaccinated <- round(tail(lag(usa_owid_vaccines$people_fully_vaccinated_per_hundred, 14),1), digits = 1)
+usa_month_ago_new_doses <- format(signif(tail(lag(usa_owid_vaccines$daily_vaccinations, 14),1),3),big.mark=",")
+
+usa_case_pct_change <- round(100*(tail(usa_jhu_new_cases$avg_new_cases,1)-tail(lag(usa_jhu_new_cases$avg_new_cases, 14),1))/tail(lag(usa_jhu_new_cases$avg_new_cases, 14),1), digits = 0)
+usa_death_pct_change <- round(100*(tail(usa_jhu_new_deaths$avg_new_deaths,1)-tail(lag(usa_jhu_new_deaths$avg_new_deaths, 14),1))/tail(lag(usa_jhu_new_deaths$avg_new_deaths, 14),1), digits = 0)
+usa_hosp_pct_change <- round(100*(tail(owid_hosp$hosp_patients,1)-tail(lag(owid_hosp$hosp_patients, 13),1))/tail(lag(owid_hosp$hosp_patients, 13),1), digits = 0)
+
+
+usa_case_pct_change_text <- 
+  if (usa_case_pct_change > 0) { 
+    paste("+",usa_case_pct_change,"%↑", sep = "")
+  } else if (usa_case_pct_change == 0) {
+    paste("",usa_case_pct_change,"%→", sep = "")
+  } else { 
+    paste("",usa_case_pct_change,"%↓", sep = "")
+  }
+usa_death_pct_change_text <- 
+  if (usa_death_pct_change > 0) { 
+    paste("+",usa_death_pct_change,"%↑", sep = "")
+  } else if (usa_death_pct_change == 0) {
+    paste("",usa_death_pct_change,"%→", sep = "")
+  } else { 
+    paste("",usa_death_pct_change,"%↓", sep = "")
+  }
+usa_hosp_pct_change_text <- 
+  if (usa_hosp_pct_change > 0) { 
+    paste("+",usa_hosp_pct_change,"%↑", sep = "")
+  } else if (usa_hosp_pct_change == 0) {
+    paste("",usa_hosp_pct_change,"%→", sep = "")
+  } else { 
+    paste("",usa_hosp_pct_change,"%↓", sep = "")
+  }
+
 
 
 ### table ----
@@ -526,6 +579,9 @@ usa_table <- ungroup(latest_data_for_table) %>%
     two_weeks_ago = html("14 Days<br>Ago"),
     pct_change = html("14 Day<br>Trend"),
     lists = html("Past<br>90 Days")
+  ) %>%
+  tab_source_note(
+    source_note = paste("Latest data:",usa_weekday)
   ) 
 
 usa_table
@@ -537,49 +593,6 @@ better_usa_table_html <- gsub("[\"][a-z]{10}",
                              "\"usa_table",
                              x = better_divs_usa_table)
 
-
-### set variables ----
-usa_hosp <- format(round(signif(tail(owid_hosp$hosp_patients,1),3)),big.mark=",")
-usa_avg_new_deaths <- format(round(signif(tail(usa_jhu_new_deaths$avg_new_deaths,1),3)),big.mark=",")
-usa_avg_new_cases <- format(round(signif(tail(usa_jhu_new_cases$avg_new_cases,1),3)),big.mark=",")
-usa_pct_fully_vaccinated <- round(tail(usa_owid_vaccines$people_fully_vaccinated_per_hundred,1), digits = 1)
-usa_avg_new_vaccine_doses <- format(signif(tail(usa_owid_vaccines$daily_vaccinations,1),3),big.mark=",")
-usa_weekday <- wday(tail(usa_jhu_new_cases$date,1), label = TRUE, abbr = FALSE)
-usa_month_ago_avg_new_deaths <- format(round(signif(tail(lag(usa_jhu_new_deaths$avg_new_deaths, 14),1),3)),big.mark=",")
-usa_month_ago_hosp <- format(round(signif(tail(lag(owid_hosp$hosp_patients,13),1),3)),big.mark=",")
-usa_month_ago_cases <- format(round(signif(tail(lag(usa_jhu_new_cases$avg_new_cases, 14),1),3)),big.mark=",")
-usa_month_ago_vaccinated <- round(tail(lag(usa_owid_vaccines$people_fully_vaccinated_per_hundred, 14),1), digits = 1)
-usa_month_ago_new_doses <- format(signif(tail(lag(usa_owid_vaccines$daily_vaccinations, 14),1),3),big.mark=",")
-
-usa_case_pct_change <- round(100*(tail(usa_jhu_new_cases$avg_new_cases,1)-tail(lag(usa_jhu_new_cases$avg_new_cases, 14),1))/tail(lag(usa_jhu_new_cases$avg_new_cases, 14),1), digits = 0)
-usa_death_pct_change <- round(100*(tail(usa_jhu_new_deaths$avg_new_deaths,1)-tail(lag(usa_jhu_new_deaths$avg_new_deaths, 14),1))/tail(lag(usa_jhu_new_deaths$avg_new_deaths, 14),1), digits = 0)
-usa_hosp_pct_change <- round(100*(tail(owid_hosp$hosp_patients,1)-tail(lag(owid_hosp$hosp_patients, 13),1))/tail(lag(owid_hosp$hosp_patients, 13),1), digits = 0)
-
-
-usa_case_pct_change_text <- 
-  if (usa_case_pct_change > 0) { 
-    paste("+",usa_case_pct_change,"%↑", sep = "")
-  } else if (usa_case_pct_change == 0) {
-    paste("",usa_case_pct_change,"%→", sep = "")
-  } else { 
-    paste("",usa_case_pct_change,"%↓", sep = "")
-  }
-usa_death_pct_change_text <- 
-  if (usa_death_pct_change > 0) { 
-    paste("+",usa_death_pct_change,"%↑", sep = "")
-  } else if (usa_death_pct_change == 0) {
-    paste("",usa_death_pct_change,"%→", sep = "")
-  } else { 
-    paste("",usa_death_pct_change,"%↓", sep = "")
-  }
-usa_hosp_pct_change_text <- 
-  if (usa_hosp_pct_change > 0) { 
-    paste("+",usa_hosp_pct_change,"%↑", sep = "")
-  } else if (usa_hosp_pct_change == 0) {
-    paste("",usa_hosp_pct_change,"%→", sep = "")
-  } else { 
-    paste("",usa_hosp_pct_change,"%↓", sep = "")
-  }
 
 
 ### text ----
@@ -627,6 +640,39 @@ world_owid_vaccines_url <- "https://github.com/owid/covid-19-data/raw/master/pub
 world_owid_vaccines <- rio::import(world_owid_vaccines_url, format = "csv") %>%
   filter(iso_code == "OWID_WRL") %>%
   select(date, people_fully_vaccinated,daily_vaccinations, people_fully_vaccinated_per_hundred)
+
+### set variables ----
+world_avg_new_deaths <- format(round(signif(tail(world_jhu_new_deaths$avg_new_deaths,1),3)),big.mark=",")
+world_avg_new_cases <- format(round(signif(tail(world_jhu_new_cases$avg_new_cases,1),3)),big.mark=",")
+world_pct_fully_vaccinated <- round(tail(world_owid_vaccines$people_fully_vaccinated_per_hundred,1), digits = 1)
+world_avg_new_vaccine_doses <- format(signif(tail(world_owid_vaccines$daily_vaccinations,1),3),big.mark=",", scientific = FALSE)
+world_weekday <- wday(tail(world_jhu_new_cases$date,1), label = TRUE, abbr = FALSE)
+world_month_ago_avg_new_deaths <- 
+  format(round(signif(tail(lag(world_jhu_new_deaths$avg_new_deaths, 14),1),3)),big.mark=",")
+world_month_ago_cases <- format(round(signif(tail(lag(world_jhu_new_cases$avg_new_cases, 14),1),3)),big.mark=",")
+world_month_ago_vaccinated <- round(tail(lag(world_owid_vaccines$people_fully_vaccinated_per_hundred, 14),1), digits = 1)
+world_month_ago_new_doses <- format(signif(tail(lag(world_owid_vaccines$daily_vaccinations, 14),1),3),big.mark=",", scientific = FALSE)
+
+world_case_pct_change <- round(100*(tail(world_jhu_new_cases$avg_new_cases,1)-tail(lag(world_jhu_new_cases$avg_new_cases, 14),1))/tail(lag(world_jhu_new_cases$avg_new_cases, 14),1), digits = 0)
+world_death_pct_change <- round(100*(tail(world_jhu_new_deaths$avg_new_deaths,1)-tail(lag(world_jhu_new_deaths$avg_new_deaths, 14),1))/tail(lag(world_jhu_new_deaths$avg_new_deaths, 14),1), digits = 0)
+
+world_case_pct_change_text <- 
+  if (world_case_pct_change > 0) { 
+    paste("+",world_case_pct_change,"%↑", sep = "")
+  } else if (world_case_pct_change == 0) {
+    paste("",world_case_pct_change,"%→", sep = "")
+  } else { 
+    paste("",world_case_pct_change,"%↓", sep = "")
+  }
+world_death_pct_change_text <- 
+  if (world_death_pct_change > 0) { 
+    paste("+",world_death_pct_change,"%↑", sep = "")
+  } else if (world_death_pct_change == 0) {
+    paste("",world_death_pct_change,"%→", sep = "")
+  } else { 
+    paste("",world_death_pct_change,"%↓", sep = "")
+  }
+
 
 ### table ----
 world_combined <- full_join(world_jhu_new_cases,world_jhu_new_deaths) %>%
@@ -719,6 +765,9 @@ world_table <- ungroup(latest_data_for_table) %>%
     two_weeks_ago = html("14 Days<br>Ago"),
     pct_change = html("14 Day<br>Trend"),
     lists = html("Past<br>90 Days")
+  ) %>%
+  tab_source_note(
+    source_note = paste("Latest data:",world_weekday)
   ) 
 
 world_table
@@ -731,37 +780,6 @@ better_world_table_html <- gsub("[\"][a-z]{10}",
                               x = better_divs_world_table)
 
 
-### set variables ----
-world_avg_new_deaths <- format(round(signif(tail(world_jhu_new_deaths$avg_new_deaths,1),3)),big.mark=",")
-world_avg_new_cases <- format(round(signif(tail(world_jhu_new_cases$avg_new_cases,1),3)),big.mark=",")
-world_pct_fully_vaccinated <- round(tail(world_owid_vaccines$people_fully_vaccinated_per_hundred,1), digits = 1)
-world_avg_new_vaccine_doses <- format(signif(tail(world_owid_vaccines$daily_vaccinations,1),3),big.mark=",", scientific = FALSE)
-world_weekday <- wday(tail(world_jhu_new_cases$date,1), label = TRUE, abbr = FALSE)
-world_month_ago_avg_new_deaths <- 
-  format(round(signif(tail(lag(world_jhu_new_deaths$avg_new_deaths, 14),1),3)),big.mark=",")
-world_month_ago_cases <- format(round(signif(tail(lag(world_jhu_new_cases$avg_new_cases, 14),1),3)),big.mark=",")
-world_month_ago_vaccinated <- round(tail(lag(world_owid_vaccines$people_fully_vaccinated_per_hundred, 14),1), digits = 1)
-world_month_ago_new_doses <- format(signif(tail(lag(world_owid_vaccines$daily_vaccinations, 14),1),3),big.mark=",", scientific = FALSE)
-
-world_case_pct_change <- round(100*(tail(world_jhu_new_cases$avg_new_cases,1)-tail(lag(world_jhu_new_cases$avg_new_cases, 14),1))/tail(lag(world_jhu_new_cases$avg_new_cases, 14),1), digits = 0)
-world_death_pct_change <- round(100*(tail(world_jhu_new_deaths$avg_new_deaths,1)-tail(lag(world_jhu_new_deaths$avg_new_deaths, 14),1))/tail(lag(world_jhu_new_deaths$avg_new_deaths, 14),1), digits = 0)
-
-world_case_pct_change_text <- 
-  if (world_case_pct_change > 0) { 
-    paste("+",world_case_pct_change,"%↑", sep = "")
-  } else if (world_case_pct_change == 0) {
-    paste("",world_case_pct_change,"%→", sep = "")
-  } else { 
-    paste("",world_case_pct_change,"%↓", sep = "")
-  }
-world_death_pct_change_text <- 
-  if (world_death_pct_change > 0) { 
-    paste("+",world_death_pct_change,"%↑", sep = "")
-  } else if (world_death_pct_change == 0) {
-    paste("",world_death_pct_change,"%→", sep = "")
-  } else { 
-    paste("",world_death_pct_change,"%↓", sep = "")
-  }
 
 ### text ----
 

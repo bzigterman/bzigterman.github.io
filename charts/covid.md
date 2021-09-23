@@ -390,7 +390,11 @@ html {
 <td class="gt_row gt_right gt_striped">+2&percnt;</td>
 <td class="gt_row gt_right gt_striped"><?xml version='1.0' encoding='UTF-8' ?><svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='64.80pt' height='10.80pt' viewBox='0 0 64.80 10.80'><defs>  <style type='text/css'><![CDATA[    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {      fill: none;      stroke: #000000;      stroke-linecap: round;      stroke-linejoin: round;      stroke-miterlimit: 10.00;    }  ]]></style></defs><rect width='100%' height='100%' style='stroke: none; fill: none;'/><defs>  <clipPath id='cpMC4wMHw2NC44MHwwLjAwfDEwLjgw'>    <rect x='0.00' y='0.00' width='64.80' height='10.80' />  </clipPath></defs><g clip-path='url(#cpMC4wMHw2NC44MHwwLjAwfDEwLjgw)'><polyline points='2.95,9.26 3.61,8.80 4.27,8.80 4.93,8.68 5.59,8.57 6.25,8.45 6.92,8.34 7.58,8.22 8.24,8.11 8.90,8.11 9.56,8.11 10.23,8.11 10.89,7.99 11.55,7.76 12.21,7.65 12.87,7.65 13.54,7.53 14.20,7.41 14.86,7.41 15.52,7.30 16.18,7.18 16.85,7.07 17.51,7.07 18.17,6.95 18.83,6.84 19.49,6.72 20.15,6.61 20.82,6.49 21.48,6.38 22.14,6.38 22.80,6.38 23.46,6.26 24.13,6.15 24.79,6.03 25.45,6.03 26.11,5.92 26.77,5.92 27.44,5.80 28.10,5.80 28.76,5.69 29.42,5.57 30.08,5.57 30.75,5.46 31.41,5.34 32.07,5.34 32.73,5.23 33.39,5.23 34.05,5.11 34.72,5.00 35.38,4.88 36.04,4.77 36.70,4.77 37.36,4.65 38.03,4.54 38.69,4.42 39.35,4.31 40.01,4.19 40.67,4.19 41.34,4.08 42.00,4.08 42.66,3.85 43.32,3.85 43.98,3.73 44.65,3.62 45.31,3.50 45.97,3.50 46.63,3.39 47.29,3.27 47.95,3.15 48.62,3.15 49.28,2.92 49.94,2.92 50.60,2.81 51.26,2.81 51.93,2.69 52.59,2.58 53.25,2.58 53.91,2.46 54.57,2.35 55.24,2.35 55.90,2.23 56.56,2.12 57.22,2.00 57.88,1.89 58.55,1.77 59.21,1.77 59.87,1.66 60.53,1.66 61.19,1.54 61.85,1.54 ' style='stroke-width: 1.07; stroke: #B3B3B3; stroke-linecap: butt;' /><circle cx='2.95' cy='9.26' r='0.89' style='stroke-width: 0.71; stroke: #0000FF; fill: #0000FF;' /><circle cx='61.19' cy='1.54' r='0.89' style='stroke-width: 0.71; stroke: #FF0000; fill: #FF0000;' /><circle cx='61.85' cy='1.54' r='0.89' style='stroke-width: 0.71; stroke: #FF0000; fill: #FF0000;' /></g></svg></td></tr>
   </tbody>
-  
+  <tfoot class="gt_sourcenotes">
+    <tr>
+      <td class="gt_sourcenote" colspan="5">Latest data: Wednesday</td>
+    </tr>
+  </tfoot>
   
 </table>
 </div>
@@ -783,7 +787,11 @@ html {
 <td class="gt_row gt_right gt_striped">+2&percnt;</td>
 <td class="gt_row gt_right gt_striped"><?xml version='1.0' encoding='UTF-8' ?><svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='64.80pt' height='10.80pt' viewBox='0 0 64.80 10.80'><defs>  <style type='text/css'><![CDATA[    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {      fill: none;      stroke: #000000;      stroke-linecap: round;      stroke-linejoin: round;      stroke-miterlimit: 10.00;    }  ]]></style></defs><rect width='100%' height='100%' style='stroke: none; fill: none;'/><defs>  <clipPath id='cpMC4wMHw2NC44MHwwLjAwfDEwLjgw'>    <rect x='0.00' y='0.00' width='64.80' height='10.80' />  </clipPath></defs><g clip-path='url(#cpMC4wMHw2NC44MHwwLjAwfDEwLjgw)'><polyline points='2.95,9.26 3.61,8.80 4.27,8.80 4.93,8.71 5.59,8.61 6.25,8.43 6.92,8.34 7.58,8.25 8.24,8.16 8.90,8.16 9.56,8.16 10.23,8.06 10.89,7.97 11.55,7.88 12.21,7.79 12.87,7.70 13.54,7.70 14.20,7.60 14.86,7.51 15.52,7.42 16.18,7.33 16.85,7.24 17.51,7.14 18.17,7.14 18.83,7.05 19.49,6.96 20.15,6.87 20.82,6.87 21.48,6.78 22.14,6.78 22.80,6.69 23.46,6.69 24.13,6.59 24.79,6.50 25.45,6.41 26.11,6.23 26.77,6.23 27.44,6.13 28.10,6.04 28.76,6.04 29.42,5.95 30.08,5.86 30.75,5.77 31.41,5.68 32.07,5.58 32.73,5.58 33.39,5.49 34.05,5.31 34.72,5.12 35.38,4.94 36.04,4.76 36.70,4.67 37.36,4.57 38.03,4.48 38.69,4.39 39.35,4.30 40.01,4.21 40.67,4.11 41.34,4.11 42.00,4.02 42.66,3.93 43.32,3.84 43.98,3.75 44.65,3.66 45.31,3.47 45.97,3.20 46.63,3.10 47.29,3.01 47.95,2.92 48.62,2.83 49.28,2.74 49.94,2.74 50.60,2.64 51.26,2.64 51.93,2.55 52.59,2.46 53.25,2.37 53.91,2.28 54.57,2.28 55.24,2.19 55.90,2.19 56.56,2.09 57.22,2.00 57.88,1.91 58.55,1.82 59.21,1.73 59.87,1.73 60.53,1.63 61.19,1.54 61.85,1.54 ' style='stroke-width: 1.07; stroke: #B3B3B3; stroke-linecap: butt;' /><circle cx='2.95' cy='9.26' r='0.89' style='stroke-width: 0.71; stroke: #0000FF; fill: #0000FF;' /><circle cx='61.19' cy='1.54' r='0.89' style='stroke-width: 0.71; stroke: #FF0000; fill: #FF0000;' /><circle cx='61.85' cy='1.54' r='0.89' style='stroke-width: 0.71; stroke: #FF0000; fill: #FF0000;' /></g></svg></td></tr>
   </tbody>
-  
+  <tfoot class="gt_sourcenotes">
+    <tr>
+      <td class="gt_sourcenote" colspan="5">Latest data: Wednesday</td>
+    </tr>
+  </tfoot>
   
 </table>
 </div>
@@ -1180,7 +1188,11 @@ html {
 <td class="gt_row gt_right gt_striped">+3&percnt;</td>
 <td class="gt_row gt_right gt_striped"><?xml version='1.0' encoding='UTF-8' ?><svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='64.80pt' height='10.80pt' viewBox='0 0 64.80 10.80'><defs>  <style type='text/css'><![CDATA[    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {      fill: none;      stroke: #000000;      stroke-linecap: round;      stroke-linejoin: round;      stroke-miterlimit: 10.00;    }  ]]></style></defs><rect width='100%' height='100%' style='stroke: none; fill: none;'/><defs>  <clipPath id='cpMC4wMHw2NC44MHwwLjAwfDEwLjgw'>    <rect x='0.00' y='0.00' width='64.80' height='10.80' />  </clipPath></defs><g clip-path='url(#cpMC4wMHw2NC44MHwwLjAwfDEwLjgw)'><polyline points='2.95,9.26 3.61,9.17 4.27,8.92 4.93,8.75 5.59,8.66 6.25,8.49 6.92,8.16 7.58,8.07 8.24,7.90 8.90,7.82 9.56,7.82 10.23,7.73 10.89,7.65 11.55,7.56 12.21,7.48 12.87,7.39 13.54,7.31 14.20,7.31 14.86,7.22 15.52,7.14 16.18,7.05 16.85,6.97 17.51,6.88 18.17,6.88 18.83,6.80 19.49,6.71 20.15,6.71 20.82,6.63 21.48,6.54 22.14,6.46 22.80,6.37 23.46,6.37 24.13,6.29 24.79,6.29 25.45,6.21 26.11,6.12 26.77,6.04 27.44,5.95 28.10,5.95 28.76,5.87 29.42,5.78 30.08,5.78 30.75,5.70 31.41,5.61 32.07,5.53 32.73,5.44 33.39,5.44 34.05,5.36 34.72,5.27 35.38,5.19 36.04,5.10 36.70,5.02 37.36,4.93 38.03,4.93 38.69,4.85 39.35,4.76 40.01,4.59 40.67,4.51 41.34,4.43 42.00,4.34 42.66,4.26 43.32,4.17 43.98,4.09 44.65,4.00 45.31,3.83 45.97,3.75 46.63,3.66 47.29,3.58 47.95,3.49 48.62,3.41 49.28,3.24 49.94,3.15 50.60,3.15 51.26,3.15 51.93,2.98 52.59,2.81 53.25,2.73 53.91,2.64 54.57,2.56 55.24,2.48 55.90,2.39 56.56,2.31 57.22,2.22 57.88,2.05 58.55,1.97 59.21,1.88 59.87,1.80 60.53,1.71 61.19,1.63 61.85,1.54 ' style='stroke-width: 1.07; stroke: #B3B3B3; stroke-linecap: butt;' /><circle cx='2.95' cy='9.26' r='0.89' style='stroke-width: 0.71; stroke: #0000FF; fill: #0000FF;' /><circle cx='61.85' cy='1.54' r='0.89' style='stroke-width: 0.71; stroke: #FF0000; fill: #FF0000;' /></g></svg></td></tr>
   </tbody>
-  
+  <tfoot class="gt_sourcenotes">
+    <tr>
+      <td class="gt_sourcenote" colspan="5">Latest data: Wednesday</td>
+    </tr>
+  </tfoot>
   
 </table>
 </div>
@@ -1570,7 +1582,11 @@ html {
 <td class="gt_row gt_right">+10&percnt;</td>
 <td class="gt_row gt_right"><?xml version='1.0' encoding='UTF-8' ?><svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' class='svglite' width='64.80pt' height='10.80pt' viewBox='0 0 64.80 10.80'><defs>  <style type='text/css'><![CDATA[    .svglite line, .svglite polyline, .svglite polygon, .svglite path, .svglite rect, .svglite circle {      fill: none;      stroke: #000000;      stroke-linecap: round;      stroke-linejoin: round;      stroke-miterlimit: 10.00;    }  ]]></style></defs><rect width='100%' height='100%' style='stroke: none; fill: none;'/><defs>  <clipPath id='cpMC4wMHw2NC44MHwwLjAwfDEwLjgw'>    <rect x='0.00' y='0.00' width='64.80' height='10.80' />  </clipPath></defs><g clip-path='url(#cpMC4wMHw2NC44MHwwLjAwfDEwLjgw)'><polyline points='2.95,9.26 3.61,9.23 4.27,9.19 4.93,9.17 5.59,9.13 6.25,9.09 6.92,9.06 7.58,9.03 8.24,9.00 8.90,8.97 9.56,8.92 10.23,8.89 10.89,8.85 11.55,8.81 12.21,8.78 12.87,8.75 13.54,8.72 14.20,8.68 14.86,8.64 15.52,8.60 16.18,8.56 16.85,8.52 17.51,8.49 18.17,8.46 18.83,8.43 19.49,8.40 20.15,8.36 20.82,8.30 21.48,8.27 22.14,8.24 22.80,8.21 23.46,8.18 24.13,8.11 24.79,8.08 25.45,8.05 26.11,7.99 26.77,7.99 27.44,7.96 28.10,7.92 28.76,7.86 29.42,7.83 30.08,7.80 30.75,7.77 31.41,7.74 32.07,7.70 32.73,7.64 33.39,7.58 34.05,7.55 34.72,4.40 35.38,4.34 36.04,4.31 36.70,4.28 37.36,4.25 38.03,4.18 38.69,4.15 39.35,4.12 40.01,4.06 40.67,4.03 41.34,3.99 42.00,3.96 42.66,3.90 43.32,3.87 43.98,3.37 44.65,3.30 45.31,3.27 45.97,3.21 46.63,3.18 47.29,3.11 47.95,3.05 48.62,3.02 49.28,2.96 49.94,2.93 50.60,2.89 51.26,2.52 51.93,2.49 52.59,2.42 53.25,2.36 53.91,2.30 54.57,2.27 55.24,2.20 55.90,2.14 56.56,2.11 57.22,1.89 57.88,1.83 58.55,1.79 59.21,1.70 59.87,1.64 60.53,1.61 61.19,1.57 61.85,1.54 ' style='stroke-width: 1.07; stroke: #B3B3B3; stroke-linecap: butt;' /><circle cx='2.95' cy='9.26' r='0.89' style='stroke-width: 0.71; stroke: #0000FF; fill: #0000FF;' /><circle cx='61.85' cy='1.54' r='0.89' style='stroke-width: 0.71; stroke: #FF0000; fill: #FF0000;' /></g></svg></td></tr>
   </tbody>
-  
+  <tfoot class="gt_sourcenotes">
+    <tr>
+      <td class="gt_sourcenote" colspan="5">Latest data: Wednesday</td>
+    </tr>
+  </tfoot>
   
 </table>
 </div>
