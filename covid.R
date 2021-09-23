@@ -919,17 +919,17 @@ During the COVID-19 pandemic, I've been making charts with data from the [Champa
 
 ## Champaign County
 
-",better_cu_covid_table_html,"
-
 ![Champaign County Metrics](https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/Champaign_facet.png)
+
+",better_cu_covid_table_html,"
 
 Charts for Champaign County are posted weekdays on Twitter [@ChampaignCovid](https://twitter.com/ChampaignCovid).
 
 ## Illinois
 
-",better_il_table_html,"
-
 ![Illinois Metrics](https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/IL_facet.png)
+
+",better_il_table_html,"
 
 ![Illinois CDC_vax_combined map](https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/IL_vax_combined.png)
 
@@ -939,9 +939,9 @@ Community transmission levels are calculated by the CDC based on new cases per c
 
 ## United States
 
-",better_usa_table_html,"
-
 ![USA Metrics](https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/US_facet.png)
+
+",better_usa_table_html,"
 
 ![USA fully vaccinated map](https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/usa_vax_total.png)
 
@@ -949,9 +949,9 @@ Community transmission levels are calculated by the CDC based on new cases per c
 
 ## World
 
-",better_world_table_html,"
-
 ![World Metrics](https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/world_facet.png)
+
+",better_world_table_html,"
 
 ## Case Acceleration
 
