@@ -110,7 +110,7 @@ idph_cases_vax_hosp_long <- idph_cases_vax_hosp %>%
     .ordered = TRUE
   )) %>%
   mutate(values = signif(values, 3))
-  
+
 lists <- idph_cases_vax_hosp_long %>%
   group_by(names) %>%
   do(tail(., n = 90)) %>%
@@ -140,7 +140,7 @@ cu_covid_table <-   ungroup(latest_data_for_table) %>%
   gt_sparkline(lists,
                line_color = "grey70",
                range_colors = c("blue", "red")
-               ) %>%
+  ) %>%
   tab_options(
     table.width = pct(100),
     data_row.padding = px(4),
@@ -181,11 +181,11 @@ cu_covid_table <-   ungroup(latest_data_for_table) %>%
 cu_covid_table
 cu_covid_table_html <- as_raw_html(cu_covid_table, inline_css = FALSE)
 better_divs_cu_covid_table <- gsub("[#][a-z]{10}",
-                                     "#cu_covid_table", 
-                                     x = cu_covid_table_html)
+                                   "#cu_covid_table", 
+                                   x = cu_covid_table_html)
 better_cu_covid_table_html <- gsub("[\"][a-z]{10}",
-                                     "\"cu_covid_table",
-                                     x = better_divs_cu_covid_table)
+                                   "\"cu_covid_table",
+                                   x = better_divs_cu_covid_table)
 
 
 
@@ -195,16 +195,16 @@ champaign_county_text <- paste(
   "As of ",champaign_weekday," in Champaign County (vs. two weeks ago):
   
 ",
-  "- Average new cases: ",champaign_avg_new_cases," (vs. ",champaign_month_ago_cases,") ",champaign_case_pct_change_text,"
+"- Average new cases: ",champaign_avg_new_cases," (vs. ",champaign_month_ago_cases,") ",champaign_case_pct_change_text,"
 ",
 "- Average hospitalized: ",champaign_avg_hospitalized," (vs. ",champaign_month_ago_hospitalized,") ","
 ",
-  "- Deaths in the past month: ",champaign_dead_last_month," (vs. ",champaign_month_ago_deaths,")
+"- Deaths in the past month: ",champaign_dead_last_month," (vs. ",champaign_month_ago_deaths,")
 ",
-  "- Percent of Champaign County fully vaccinated: ",champaign_pct_fully_vaccinated,"% (vs. ",champaign_month_ago_vaccinated,"%)
+"- Percent of Champaign County fully vaccinated: ",champaign_pct_fully_vaccinated,"% (vs. ",champaign_month_ago_vaccinated,"%)
 ",
-  "- Average new vaccine doses: ",champaign_avg_new_vaccine_doses," (vs. ",champaign_month_ago_new_doses,")",
-  "
+"- Average new vaccine doses: ",champaign_avg_new_vaccine_doses," (vs. ",champaign_month_ago_new_doses,")",
+"
 ",
 sep = ""
 )
@@ -213,18 +213,18 @@ sep = ""
 ## Illinois ----
 ### get data ----
 idph_cases_il <- rio::import("https://idph.illinois.gov/DPHPublicInformation/api/COVID/GetCountyHistorical?countyName=Illinois",
-                                    format = "json") 
+                             format = "json") 
 idph_cases_il <- idph_cases_il$values %>%
   mutate(new_cases = confirmed_cases - lag(confirmed_cases)) %>%
   mutate(new_cases = replace(new_cases, which(new_cases<0), NA)) %>%
   mutate(new_deaths = deaths - lag(deaths)) %>%
   mutate(avg_new_cases = rollapply(new_cases, width = 7, FUN = mean, na.rm = TRUE, fill = NA, align = "right")) %>%
   mutate(avg_new_deaths = rollmean(new_deaths, k = 7, 
-                                fill = NA, align = "right"))  %>%
+                                   fill = NA, align = "right"))  %>%
   mutate(Date = ymd_hms(reportDate)) 
 
 idph_vax_il <- rio::import("https://idph.illinois.gov/DPHPublicInformation/api/COVIDExport/GetVaccineAdministration?format=csv&countyName=Illinois",
-                                  format = "csv") %>%
+                           format = "csv") %>%
   mutate(Date = mdy_hms(Report_Date)) 
 
 idph_hosp <- rio::import("https://idph.illinois.gov/DPHPublicInformation/api/COVIDExport/GetHospitalUtilizationResults?format=csv",
@@ -587,11 +587,11 @@ usa_table <- ungroup(latest_data_for_table) %>%
 usa_table
 usa_table_html <- as_raw_html(usa_table, inline_css = FALSE)
 better_divs_usa_table <- gsub("[#][a-z]{10}",
-                             "#usa_table", 
-                             x = usa_table_html)
+                              "#usa_table", 
+                              x = usa_table_html)
 better_usa_table_html <- gsub("[\"][a-z]{10}",
-                             "\"usa_table",
-                             x = better_divs_usa_table)
+                              "\"usa_table",
+                              x = better_divs_usa_table)
 
 
 
@@ -773,11 +773,11 @@ world_table <- ungroup(latest_data_for_table) %>%
 world_table
 world_table_html <- as_raw_html(world_table, inline_css = FALSE)
 better_divs_world_table <- gsub("[#][a-z]{10}",
-                              "#world_table", 
-                              x = world_table_html)
+                                "#world_table", 
+                                x = world_table_html)
 better_world_table_html <- gsub("[\"][a-z]{10}",
-                              "\"world_table",
-                              x = better_divs_world_table)
+                                "\"world_table",
+                                x = better_divs_world_table)
 
 
 
@@ -787,14 +787,14 @@ world_text <- paste(
   "As of ",world_weekday," (vs. two weeks ago):
   
 ",
-  "- Average new cases: ",world_avg_new_cases," (vs. ",world_month_ago_cases,") ",world_case_pct_change_text,"
+"- Average new cases: ",world_avg_new_cases," (vs. ",world_month_ago_cases,") ",world_case_pct_change_text,"
 ",
-  "- Average new deaths: ",world_avg_new_deaths," (vs. ",world_month_ago_avg_new_deaths,") ",world_death_pct_change_text,"
+"- Average new deaths: ",world_avg_new_deaths," (vs. ",world_month_ago_avg_new_deaths,") ",world_death_pct_change_text,"
 ",
-  "- Percent of the world fully vaccinated: ",world_pct_fully_vaccinated,"% (vs. ",world_month_ago_vaccinated,"%)
+"- Percent of the world fully vaccinated: ",world_pct_fully_vaccinated,"% (vs. ",world_month_ago_vaccinated,"%)
 ",
-  "- Average new vaccine doses: ",world_avg_new_vaccine_doses," (vs. ",world_month_ago_new_doses,")",
-  "
+"- Average new vaccine doses: ",world_avg_new_vaccine_doses," (vs. ",world_month_ago_new_doses,")",
+"
 ",
 sep = ""
 )
@@ -876,14 +876,14 @@ acceleration_text <- paste(
   "As of ",acceleration_weekday,", the 14-day percent change in average new cases was:
   
 ",
-  "- ",acceleration_champaign,"% in Champaign County
+"- ",acceleration_champaign,"% in Champaign County
 ",
-  "- ",acceleration_il,"% in Illinois
+"- ",acceleration_il,"% in Illinois
 ",
-  "- ",acceleration_usa,"% in the United States
+"- ",acceleration_usa,"% in the United States
 ",
-  "- ",acceleration_world,"% worldwide",
-  "
+"- ",acceleration_world,"% worldwide",
+"
 ",
 sep = ""
 )
@@ -895,12 +895,12 @@ death_acceleration_text <- paste(
   "As of ",acceleration_weekday,", the 14-day percent change in average new deaths was:
   
 ",
-  "- ",il_death_pct_change,"% in Illinois
+"- ",il_death_pct_change,"% in Illinois
 ",
-  "- ",usa_death_pct_change,"% in the United States
+"- ",usa_death_pct_change,"% in the United States
 ",
-  "- ",world_death_pct_change,"% worldwide",
-  "
+"- ",world_death_pct_change,"% worldwide",
+"
 ",
 sep = ""
 )
@@ -984,5 +984,5 @@ if (champaign_avg_new_cases >= 0 &&
     champaign_month_ago_vaccinated <= 100 &&
     champaign_month_ago_new_doses >= 0
 ) {
-write_lines(web_text,"charts/covid.md")
+  write_lines(web_text,"charts/covid.md")
 }
