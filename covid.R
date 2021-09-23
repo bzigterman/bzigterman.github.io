@@ -103,7 +103,7 @@ idph_cases_vax_hosp_long <- idph_cases_vax_hosp %>%
     names, 
     "avg_new_cases" = "Cases",
     "avg_hospitalized" = "Hospitalized",
-    "monthlydead" = "Deaths",
+    "monthlydead" = "Monthly Deaths",
     "AdministeredCountRollAvg" = "New Vaccine Doses",
     "PersonsFullyVaccinated" = "Fully Vaccinated",
     "PctVaccinatedPopulation" = "Pct. Fully Vaccinated",
