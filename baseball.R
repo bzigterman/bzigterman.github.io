@@ -599,7 +599,9 @@ al_standings_magic <- mlb_standings %>%
                                           league_elim_number))) %>%
   mutate(wc_games_behind = (second_wc_net_wins - net_wins)/2) %>%
   mutate(wc_games_behind = 
-           ifelse(division_leaders == "W" | division_leaders == "C" | division_leaders == "E",
+           ifelse(division_leaders == "W" | 
+                    division_leaders == "C" | 
+                    division_leaders == "E",
                   wild_cards,
                   (second_wc_net_wins - net_wins)/2
            )
@@ -653,7 +655,9 @@ nl_standings_magic <- mlb_standings %>%
                                           league_elim_number))) %>%
   mutate(wc_games_behind = (second_wc_net_wins - net_wins)/2) %>%
   mutate(wc_games_behind = 
-           ifelse(division_leaders == "W" | division_leaders == "C" | division_leaders == "E",
+           ifelse(division_leaders == "W" | 
+                    division_leaders == "C" | 
+                    division_leaders == "E",
                   wild_cards,
                   (second_wc_net_wins - net_wins)/2
            )
