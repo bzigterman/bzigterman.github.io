@@ -737,8 +737,8 @@ nl_playoffs_rect <- (if_else(
   6.5,
   5.5))[1]
 
-al_plot <- ggplot(al_standings, aes(x = reorder(team_label, win_pct), 
-                                    y = win_pct)) +
+al_plot <- ggplot(al_standings_magic, aes(x = reorder(team_label, win_pct), 
+                                          y = win_pct)) +
   # geom_rect(xmin = al_playoffs_rect, xmax = Inf,
   #           ymin = -Inf, ymax = Inf,
   #           fill = "grey85") +
@@ -757,6 +757,9 @@ al_plot <- ggplot(al_standings, aes(x = reorder(team_label, win_pct),
             angle = 270,
             size = 3.9,
             nudge_y = -.019) +
+  geom_text(aes(label = division_leaders),
+            family = "mono",
+            nudge_y = .011) +
   theme_minimal() +
   labs(x = NULL,
        y = NULL,
@@ -773,8 +776,9 @@ al_plot <- ggplot(al_standings, aes(x = reorder(team_label, win_pct),
     legend.key.size = unit(.1,"in"),
     legend.box.spacing = unit(0,"in")
   )
-nl_plot <- ggplot(nl_standings, aes(x = reorder(team_label, -win_pct), 
-                                    y = win_pct)) +
+
+nl_plot <- ggplot(nl_standings_magic, aes(x = reorder(team_label, -win_pct), 
+                                          y = win_pct)) +
   # geom_rect(xmin = -Inf, xmax = nl_playoffs_rect,
   #           ymin = -Inf, ymax = Inf,
   #           fill = "grey85") +
@@ -793,6 +797,9 @@ nl_plot <- ggplot(nl_standings, aes(x = reorder(team_label, -win_pct),
             angle = 270,
             size = 3.9,
             nudge_y = -.019) +
+  geom_text(aes(label = division_leaders),
+            family = "mono",
+            nudge_y = .011) +
   scale_y_continuous(labels = label_comma(accuracy = .001)) +
   theme_minimal() +
   labs(x = NULL,
