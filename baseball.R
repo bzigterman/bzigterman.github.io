@@ -546,7 +546,10 @@ nl_standings_elim <- nl_standings %>%
 
 mlb_standings <- full_join(al_standings_elim, nl_standings_elim) %>%
   full_join(division_standings) %>%
-  select(logo_url, team_label, wins, losses, net_wins, win_pct, win_pct_text, games_remaining, last_ten, division, league, league_elimination_number, outcomes, division_place, league_place)
+  select(logo_url, team_label, wins, losses, net_wins, win_pct, 
+         win_pct_text, games_remaining, last_ten, division, league, 
+         league_elimination_number, outcomes, division_place, 
+         league_place, division_magic_number)
 
 al_standings_magic <- mlb_standings %>%
   filter(league == "AL") %>%
@@ -559,15 +562,21 @@ al_standings_magic <- mlb_standings %>%
   group_by(division_leaders) %>%
   mutate(wild_card_rank = dense_rank(desc(win_pct))) %>%
   mutate(wild_cardss = 
-           ifelse(division_leaders == "W" | division_leaders == "C" | division_leaders == "E",
+           ifelse(division_leaders == "W" | 
+                    division_leaders == "C" | 
+                    division_leaders == "E",
                   division_leaders,
                   paste("WC",wild_card_rank,sep="")
            )) %>%
-  mutate(wild_cards = ifelse(wild_cardss == "WC1",
-                             "WC",
-                             ifelse(wild_cardss == "WC2",
-                                    "WC",
-                                    division_leaders))) %>%
+  mutate(wild_cards = 
+           ifelse(wild_cardss == "WC1",
+                  "WC",
+                  ifelse(wild_cardss == "WC2",
+                         "WC",
+                         ifelse(division_magic_number=="✓",
+                                paste(division_leaders,division_magic_number,sep=""),
+                                division_leaders)
+                  ))) %>%
   ungroup() %>%
   mutate(second_wc_wins = if_else(wild_cardss == "WC2",
                                   wins,
@@ -590,7 +599,7 @@ al_standings_magic <- mlb_standings %>%
                                           league_elim_number))) %>%
   mutate(wc_games_behind = (second_wc_net_wins - net_wins)/2) %>%
   mutate(wc_games_behind = 
-           ifelse(wild_cards == "W" | wild_cards == "C" | wild_cards == "E",
+           ifelse(division_leaders == "W" | division_leaders == "C" | division_leaders == "E",
                   wild_cards,
                   (second_wc_net_wins - net_wins)/2
            )
@@ -617,15 +626,21 @@ nl_standings_magic <- mlb_standings %>%
   group_by(division_leaders) %>%
   mutate(wild_card_rank = dense_rank(desc(win_pct))) %>%
   mutate(wild_cardss = 
-           ifelse(division_leaders == "W" | division_leaders == "C" | division_leaders == "E",
+           ifelse(division_leaders == "W" | 
+                    division_leaders == "C" | 
+                    division_leaders == "E",
                   division_leaders,
                   paste("WC",wild_card_rank,sep="")
            )) %>%
-  mutate(wild_cards = ifelse(wild_cardss == "WC1",
-                             "WC",
-                             ifelse(wild_cardss == "WC2",
-                                    "WC",
-                                    division_leaders))) %>%
+  mutate(wild_cards = 
+           ifelse(wild_cardss == "WC1",
+                  "WC",
+                  ifelse(wild_cardss == "WC2",
+                         "WC",
+                         ifelse(division_magic_number=="✓",
+                                paste(division_leaders,division_magic_number,sep=""),
+                                division_leaders)
+                  ))) %>%
   ungroup() %>%
   mutate(second_wc_wins = if_else(wild_cardss == "WC2",
                                   wins,
@@ -648,13 +663,11 @@ nl_standings_magic <- mlb_standings %>%
                                           league_elim_number))) %>%
   mutate(wc_games_behind = (second_wc_net_wins - net_wins)/2) %>%
   mutate(wc_games_behind = 
-           ifelse(wild_cards == "W" | wild_cards == "C" | wild_cards == "E",
+           ifelse(division_leaders == "W" | division_leaders == "C" | division_leaders == "E",
                   wild_cards,
                   (second_wc_net_wins - net_wins)/2
            )
   )
-
-
 
 
 
@@ -872,7 +885,7 @@ al_games_plus <- mlb_standings_magic %>%
   group_by(team) %>%
   fill(division_or_elim, .direction = "downup") %>%
   filter(division_or_elim != "—")
-  
+
 nl_games_plus <- mlb_standings_magic %>%
   filter(league == "NL") %>%
   ungroup() %>%
