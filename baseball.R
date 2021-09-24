@@ -605,16 +605,6 @@ al_standings_magic <- mlb_standings %>%
            )
   )
 
-
-
-
-#%>%
-# mutate(wild_cards = ifelse(league_place <= 5 & division_place != 1,
-#                            "WC",
-#                            "")) %>%
-# mutate(wild_card_rank = ifelse(wild_cards
-#   
-
 nl_standings_magic <- mlb_standings %>%
   filter(league == "NL") %>%
   mutate(division_leaders = case_when(
@@ -669,8 +659,6 @@ nl_standings_magic <- mlb_standings %>%
            )
   )
 
-
-
 mlb_standings_magic <- full_join(al_standings_magic, nl_standings_magic)
 
 wild_card_table <- mlb_standings_magic %>%
@@ -708,13 +696,11 @@ wild_card_table <- mlb_standings_magic %>%
     outcomes = html("Last 20<br>Games")
   ) %>%
   # opt_table_font(font = c("verdana","calibri","menlo","consolas","monospace","helvetica", "arial", "sans-serif")) %>%
-  #opt_row_striping(row_striping = TRUE) %>%
   tab_options(
     table.width = pct(100),
     data_row.padding = px(4),
     table.font.size = px(12)
   )  %>%
-  # opt_table_lines(extent = "none") %>%
   opt_all_caps(all_caps = TRUE)
 wild_card_table
 wild_card_table_html <- as_raw_html(wild_card_table, inline_css = FALSE)
