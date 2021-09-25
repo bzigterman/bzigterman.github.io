@@ -21,6 +21,7 @@ get_team_records <- function(abbreviation) {
     mutate(result = if_else((team2 == abbreviation),
                             if_else((score2 > score1),"W","L"),
                             if_else((score1 > score2),"W","L"))) %>%
+    drop_na(result) %>%
     mutate(game_n = row_number()) %>%
     select(date, game_n, result) %>%
     mutate(win = if_else(result == "W",1,0)) %>%
