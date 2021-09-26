@@ -561,7 +561,7 @@ al_standings_magic <- mlb_standings %>%
     TRUE                                           ~ "")
   ) %>%
   group_by(division_leaders) %>%
-  mutate(wild_card_rank = rank(desc(win_pct))) %>%
+  mutate(wild_card_rank = rank(desc(win_pct), ties.method = "random")) %>%
   mutate(wild_cardss = 
            ifelse(division_leaders == "W" | 
                     division_leaders == "C" | 
@@ -617,7 +617,7 @@ nl_standings_magic <- mlb_standings %>%
     TRUE                                           ~ "")
   ) %>%
   group_by(division_leaders) %>%
-  mutate(wild_card_rank = rank(desc(win_pct))) %>%
+  mutate(wild_card_rank = rank(desc(win_pct), ties.method = "random")) %>%
   mutate(wild_cardss = 
            ifelse(division_leaders == "W" | 
                     division_leaders == "C" | 
