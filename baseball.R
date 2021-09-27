@@ -939,8 +939,6 @@ permalink: /charts/baseball/
 
 <p class=\"updated_time\">Source: <a href=\"https://github.com/fivethirtyeight/data/tree/master/mlb-elo\">FiveThirtyEight</a>. <a href=\"https://github.com/fivethirtyeight/data/blob/master/LICENSE\">CC-BY-4.0 License</a>.</p> 
 
-<a href=\"https://www.buymeacoffee.com/bzigterman\" target=\"_blank\"><img src=\"https://cdn.buymeacoffee.com/buttons/v2/default-white.png\" alt=\"Buy Me A Coffee\" style=\"height: 60px !important;width: 217px !important;\" ></a>
-
 ",
 sep = ""
 )
