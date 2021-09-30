@@ -12,13 +12,13 @@ library(gtExtras)
 idph_cases_champaign <- rio::import("https://idph.illinois.gov/DPHPublicInformation/api/COVID/GetCountyHistorical?countyName=Champaign",
                                     format = "json") 
 idph_cases_champaign <- idph_cases_champaign$values %>%
-  mutate(new_cases = confirmed_cases - lag(confirmed_cases)) %>%
+  mutate(new_cases = CasesChange) %>%
   mutate(new_cases = replace(new_cases, which(new_cases<0), NA)) %>%
-  mutate(new_deaths = deaths - lag(deaths)) %>%
+  mutate(new_deaths = DeathsChange) %>%
   mutate(avg_new_cases = rollapply(new_cases, width = 7, FUN = mean, na.rm = TRUE, fill = NA, align = "right")) %>%
   mutate(monthlydead = rollmean(new_deaths, k = 31, 
                                 fill = NA, align = "right")*31)  %>%
-  mutate(Date = ymd_hms(reportDate))
+  mutate(Date = ymd_hms(ReportDate))
 
 idph_vax_champaign <- rio::import("https://idph.illinois.gov/DPHPublicInformation/api/COVIDExport/GetVaccineAdministration?format=csv&countyName=Champaign",
                                   format = "csv") %>%
@@ -215,13 +215,13 @@ sep = ""
 idph_cases_il <- rio::import("https://idph.illinois.gov/DPHPublicInformation/api/COVID/GetCountyHistorical?countyName=Illinois",
                              format = "json") 
 idph_cases_il <- idph_cases_il$values %>%
-  mutate(new_cases = confirmed_cases - lag(confirmed_cases)) %>%
+  mutate(new_cases = CasesChange) %>%
   mutate(new_cases = replace(new_cases, which(new_cases<0), NA)) %>%
-  mutate(new_deaths = deaths - lag(deaths)) %>%
+  mutate(new_deaths = DeathsChange) %>%
   mutate(avg_new_cases = rollapply(new_cases, width = 7, FUN = mean, na.rm = TRUE, fill = NA, align = "right")) %>%
   mutate(avg_new_deaths = rollmean(new_deaths, k = 7, 
                                    fill = NA, align = "right"))  %>%
-  mutate(Date = ymd_hms(reportDate)) 
+  mutate(Date = ymd_hms(ReportDate)) 
 
 idph_vax_il <- rio::import("https://idph.illinois.gov/DPHPublicInformation/api/COVIDExport/GetVaccineAdministration?format=csv&countyName=Illinois",
                            format = "csv") %>%
@@ -807,13 +807,13 @@ sep = ""
 idph_cases_champaign <- rio::import("https://idph.illinois.gov/DPHPublicInformation/api/COVID/GetCountyHistorical?countyName=Champaign",
                                     format = "json") 
 idph_cases_champaign <- idph_cases_champaign$values %>%
-  mutate(new_cases = confirmed_cases - lag(confirmed_cases)) %>%
+  mutate(new_cases = CasesChange) %>%
   mutate(new_cases = replace(new_cases, which(new_cases<0), NA)) %>%
-  mutate(new_deaths = deaths - lag(deaths)) %>%
+  mutate(new_deaths = DeathsChange) %>%
   mutate(avg_new_cases = rollapply(new_cases, width = 7, FUN = mean, na.rm = TRUE, fill = NA, align = "right")) %>%
   mutate(monthlydead = rollmean(new_deaths, k = 7, 
                                 fill = NA, align = "right"))  %>%
-  mutate(Date = ymd_hms(reportDate, truncated = 0)) %>%
+  mutate(Date = ymd_hms(ReportDate, truncated = 0)) %>%
   mutate(pct_change_new_cases = 
            ((avg_new_cases - lag(avg_new_cases,14))/lag(avg_new_cases,14))) %>%
   mutate(location = "Champaign County")
@@ -823,13 +823,13 @@ idph_cases_champaign <- idph_cases_champaign$values %>%
 idph_cases_il <- rio::import("https://idph.illinois.gov/DPHPublicInformation/api/COVID/GetCountyHistorical?countyName=Illinois",
                              format = "json") 
 idph_cases_il <- idph_cases_il$values %>%
-  mutate(new_cases = confirmed_cases - lag(confirmed_cases)) %>%
+  mutate(new_cases = CasesChange) %>%
   mutate(new_cases = replace(new_cases, which(new_cases<0), NA)) %>%
-  mutate(new_deaths = deaths - lag(deaths)) %>%
+  mutate(new_deaths = DeathsChange) %>%
   mutate(avg_new_cases = rollapply(new_cases, width = 7, FUN = mean, na.rm = TRUE, fill = NA, align = "right")) %>%
   mutate(monthlydead = rollmean(new_deaths, k = 7, 
                                 fill = NA, align = "right"))  %>%
-  mutate(Date = ymd_hms(reportDate, truncated = 0)) %>%
+  mutate(Date = ymd_hms(ReportDate, truncated = 0)) %>%
   mutate(pct_change_new_cases = 
            ((avg_new_cases - lag(avg_new_cases,14))/lag(avg_new_cases,14))) %>%
   mutate(location = "Illinois")
