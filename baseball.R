@@ -12,7 +12,7 @@ library(gtExtras)
 # get data ----
 fivethirtyeight_data_url <- "https://projects.fivethirtyeight.com/mlb-api/mlb_elo_latest.csv"
 fivethirtyeight_data <- rio::import(fivethirtyeight_data_url, format = "csv") %>%
-  filter(is.na(playoff)) %>%
+  filter(playoff == "") %>%
   arrange(date) 
 get_team_records <- function(abbreviation) {
   records <- fivethirtyeight_data %>%
