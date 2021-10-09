@@ -1199,6 +1199,8 @@ html {
 
 ![USA fully vaccinated map](https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/usa_vax_total.png)
 
+![USA new cases map](https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/usa_new_cases.png)
+
 ![USA transmission levels map](https://raw.githubusercontent.com/bzigterman/CUcovid/main/gh_action/usa_transmission.png)
 
 ## World
