@@ -1,5 +1,4 @@
 library(tidyRSS)
-library(gtExtras)
 library(tidyverse)
 
 # gather news ----
@@ -55,9 +54,9 @@ news_table <- news %>%
   gt() %>%
   gt_theme_espn() %>%
   fmt_markdown(item_md_link) %>%
-  gt_merge_stack(col1 = item_md_link, col2 = feed_plus_description) %>%
   cols_label(
-    item_md_link = ""
+    item_md_link = "",
+    feed_plus_description = ""
   )
 news_table
 
