@@ -1,4 +1,5 @@
 library(tidyRSS)
+library(gt)
 library(tidyverse)
 
 # gather news ----
