@@ -49,7 +49,7 @@ world_news_table_html <- as_raw_html(world_news_table)
 web_text <- paste(
   "---
 layout: page
-title: News
+title: News River
 permalink: /charts/news/
 ---
 
