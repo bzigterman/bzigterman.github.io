@@ -57,7 +57,8 @@ news_table <- news %>%
   cols_label(
     item_md_link = "",
     feed_plus_description = ""
-  )
+  ) %>% 
+  opt_table_lines(extent = c("none"))
 news_table
 
 
