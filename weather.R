@@ -1,7 +1,11 @@
 library(tidyverse)
 
-severe_weather_outlook_url <- "https://www.spc.noaa.gov/products/activity_loop.gif"
-
+severe_weather_outlook_url <- 
+  paste("![](",
+        "https://www.spc.noaa.gov/products/activity_loop.gif",
+        ")",
+        sep = ""
+  )
 
 # web text ----
 
