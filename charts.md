@@ -15,3 +15,4 @@ I like to make stuff with the R programming language, and here is where I collec
 ## [News]({{ site.baseurl }}/charts/news)
 
 ## [Weather]({{ site.baseurl }}/charts/weather)
+
