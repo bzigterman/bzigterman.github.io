@@ -73,6 +73,8 @@ title: News
 permalink: /charts/news/
 ---
 
+## World News
+
 ",news_table_html,"
 
 ",
