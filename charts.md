@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Charts
+title: Projects
 permalink: /charts/
 ---
 
@@ -12,3 +12,4 @@ I like to make charts, and here is where I collect some that I've made:
 
 ## [Baseball]({{ site.baseurl }}/charts/baseball)
 
+## [News]({{ site.baseurl }}/charts/news)
