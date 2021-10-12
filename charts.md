@@ -10,9 +10,9 @@ I like to make stuff with the R programming language, and here is where I collec
 
 ## [Economic Indicators]({{ site.baseurl }}/charts/economy)
 
-## [Baseball]({{ site.baseurl }}/charts/baseball)
+## [Baseball Standings]({{ site.baseurl }}/charts/baseball)
 
-## [News]({{ site.baseurl }}/charts/news)
+## [News River]({{ site.baseurl }}/charts/news)
 
 ## [Weather]({{ site.baseurl }}/charts/weather)
 
