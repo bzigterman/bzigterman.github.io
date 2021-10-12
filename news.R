@@ -53,7 +53,6 @@ news <- full_join(nyt, wsj) %>%
 news_table <- news %>%
   select(item_md_link, feed_plus_description) %>%
   gt() %>%
-  gt_theme_espn() %>%
   fmt_markdown(item_md_link) %>%
   cols_label(
     item_md_link = "",
