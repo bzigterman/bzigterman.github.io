@@ -62,13 +62,7 @@ news_table <- news %>%
 news_table
 
 
-news_table_html <- as_raw_html(news_table, inline_css = FALSE)
-better_news_table_divs <- gsub("[#][a-z]{10}",
-                               "#news_table", 
-                               x = news_table_html)
-better_news_table_html <- gsub("[\"][a-z]{10}",
-                               "\"news_table",
-                               x = better_news_table_divs)
+news_table_html <- as_raw_html(news_table)
 
 
 # web text ----
@@ -80,7 +74,7 @@ title: News
 permalink: /charts/news/
 ---
 
-",better_news_table_html,"
+",news_table_html,"
 
 ",
 sep = ""
