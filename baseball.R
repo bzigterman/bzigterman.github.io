@@ -917,7 +917,7 @@ now_html <- paste("<p class=\"updated_time\"> Latest data: ",
 web_text <- paste(
   "---
 layout: page
-title: Baseball
+title: Baseball Standings
 permalink: /charts/baseball/
 ---
 
