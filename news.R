@@ -4,18 +4,18 @@ library(tidyverse)
 
 # gather news ----
 
-nyt <- tidyfeed("https://rss.nytimes.com/services/xml/rss/nyt/HomePage.xml") %>%
+nyt <- tidyfeed("https://rss.nytimes.com/services/xml/rss/nyt/World.xml") %>%
   select(feed_title, item_pub_date,item_title, item_link, item_description) %>%
   mutate(feed = "NYT")
 wsj <- tidyfeed("https://feeds.a.dj.com/rss/RSSWorldNews.xml")%>%
   select(feed_title, item_pub_date,item_title, item_link, item_description)%>%
   mutate(feed = "WSJ")
-politico <- tidyfeed("http://rss.politico.com/politics.xml")%>%
-  select(feed_title, item_pub_date,item_title, item_link, item_description)%>%
-  mutate(feed = "Politico")
+# politico <- tidyfeed("http://rss.politico.com/politics.xml")%>%
+  #select(feed_title, item_pub_date,item_title, item_link, item_description)%>%
+  #mutate(feed = "Politico")
 
 news <- full_join(nyt, wsj) %>%
-  full_join(politico) %>%
+  #full_join(politico) %>%
   arrange(desc(item_pub_date)) %>%
   mutate(item_md_link = paste("[",item_title,"](",item_link,")",
                               sep = "")) %>%
