@@ -113,7 +113,7 @@ idph_cases_vax_hosp_long <- idph_cases_vax_hosp %>%
 
 lists <- idph_cases_vax_hosp_long %>%
   group_by(names) %>%
-  do(tail(., n = 90)) %>%
+  do(tail(na.omit(.), n = 90)) %>%
   summarise(lists = list(values)) 
 add_latest_column <- idph_cases_vax_hosp_long %>%
   select(names,Date,values) %>%
@@ -139,7 +139,8 @@ cu_covid_table <-   ungroup(latest_data_for_table) %>%
   gt_theme_espn() %>%
   gt_sparkline(lists,
                line_color = "grey70",
-               range_colors = c("blue", "red")
+               range_colors = c("blue", "red"),
+               same_limit = FALSE
   ) %>%
   tab_options(
     table.width = pct(100),
@@ -310,7 +311,7 @@ il_combined_longer <- il_combined %>%
 
 lists <- il_combined_longer %>%
   group_by(names) %>%
-  do(tail(., n = 90)) %>%
+  do(tail(na.omit(.), n = 90)) %>%
   summarise(lists = list(values)) 
 add_latest_column <- il_combined_longer %>%
   select(names,Date,values) %>%
@@ -334,9 +335,10 @@ latest_data_for_table <- add_two_weeks_ago_column
 il_table <- ungroup(latest_data_for_table) %>%
   gt() %>%
   gt_theme_espn() %>%
-  gt_sparkline(lists,
+  gt_sparkline(column = lists,
                line_color = "grey70",
-               range_colors = c("blue", "red")
+               range_colors = c("blue", "red"), 
+               same_limit = FALSE
   ) %>%
   tab_options(
     table.width = pct(100),
@@ -518,7 +520,7 @@ usa_combined_longer <- usa_combined %>%
 
 lists <- usa_combined_longer %>%
   group_by(names) %>%
-  do(tail(., n = 90)) %>%
+  do(tail(na.omit(.), n = 90)) %>%
   summarise(lists = list(values)) 
 add_latest_column <- usa_combined_longer %>%
   select(names,date,values) %>%
@@ -544,7 +546,8 @@ usa_table <- ungroup(latest_data_for_table) %>%
   gt_theme_espn() %>%
   gt_sparkline(lists,
                line_color = "grey70",
-               range_colors = c("blue", "red")
+               range_colors = c("blue", "red"),
+               same_limit = FALSE
   ) %>%
   tab_options(
     table.width = pct(100),
@@ -704,7 +707,7 @@ world_combined_longer <- world_combined %>%
 
 lists <- world_combined_longer %>%
   group_by(names) %>%
-  do(tail(., n = 90)) %>%
+  do(tail(na.omit(.), n = 90)) %>%
   summarise(lists = list(values)) 
 add_latest_column <- world_combined_longer %>%
   select(names,date,values) %>%
@@ -730,7 +733,8 @@ world_table <- ungroup(latest_data_for_table) %>%
   gt_theme_espn() %>%
   gt_sparkline(lists,
                line_color = "grey70",
-               range_colors = c("blue", "red")
+               range_colors = c("blue", "red"),
+               same_limit = FALSE
   ) %>%
   tab_options(
     table.width = pct(100),
