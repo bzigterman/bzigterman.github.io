@@ -6,7 +6,7 @@ on:
     - cron: '*/15 * * * *'
 
 jobs:
-  run-autobaseball:
+  run-autonews:
     runs-on: macOS-latest
     env:
       GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
@@ -26,7 +26,7 @@ jobs:
         if: steps.cache-r-packages.outputs.cache-hit != 'true'        
         run: R -e 'source("install-packages.R", echo = TRUE)'
         
-      - name: Download Parse and Update Chart Data
+      - name: Download Parse and Update News
         run: Rscript news.R
         
       # Add new files in folder, commit along with other modified files, push
