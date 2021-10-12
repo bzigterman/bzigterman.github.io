@@ -137,18 +137,19 @@ latest_data_for_table <- add_two_weeks_ago_column
 cu_covid_table <-   ungroup(latest_data_for_table) %>%
   gt() %>%
   gt_theme_espn() %>%
-  gt_sparkline(lists,
-               line_color = "grey70",
-               range_colors = c("blue", "red"),
-               same_limit = FALSE
-  ) %>%
+  # gt_sparkline(
+  #   lists,
+  #   line_color = "grey70",
+  #   range_colors = c("blue", "red"),
+  #   same_limit = FALSE
+  # ) %>%
   tab_options(
     table.width = pct(100),
     data_row.padding = px(4),
     table.font.size = px(12)
   ) %>%
   opt_all_caps(  all_caps = TRUE) %>%
-  cols_hide(columns = c(Date)) %>%
+  cols_hide(columns = c(Date, lists)) %>%
   cols_move(
     columns = pct_change,
     after = latest) %>%
@@ -173,7 +174,7 @@ cu_covid_table <-   ungroup(latest_data_for_table) %>%
     latest = "Latest",
     two_weeks_ago = html("14 Days<br>Ago"),
     pct_change = html("14 Day<br>Trend"),
-    lists = html("Past<br>90 Days")
+    #lists = html("Past<br>90 Days")
   ) %>%
   tab_source_note(
     source_note = paste("Latest data:",champaign_weekday)
@@ -335,18 +336,19 @@ latest_data_for_table <- add_two_weeks_ago_column
 il_table <- ungroup(latest_data_for_table) %>%
   gt() %>%
   gt_theme_espn() %>%
-  gt_sparkline(column = lists,
-               line_color = "grey70",
-               range_colors = c("blue", "red"), 
-               same_limit = FALSE
-  ) %>%
+  # gt_sparkline(
+  #   column = lists,
+  #              line_color = "grey70",
+  #              range_colors = c("blue", "red"), 
+  #              same_limit = FALSE
+  # ) %>%
   tab_options(
     table.width = pct(100),
     data_row.padding = px(4),
     table.font.size = px(12)
   ) %>%
   opt_all_caps(  all_caps = TRUE) %>%
-  cols_hide(columns = c(Date)) %>%
+  cols_hide(columns = c(Date, lists)) %>%
   cols_move(
     columns = pct_change,
     after = latest) %>%
@@ -372,7 +374,7 @@ il_table <- ungroup(latest_data_for_table) %>%
     latest = "Latest",
     two_weeks_ago = html("14 Days<br>Ago"),
     pct_change = html("14 Day<br>Trend"),
-    lists = html("Past<br>90 Days")
+    #lists = html("Past<br>90 Days")
   ) %>%
   tab_source_note(
     source_note = paste("Latest data:",il_weekday)
@@ -544,18 +546,19 @@ latest_data_for_table <- add_two_weeks_ago_column
 usa_table <- ungroup(latest_data_for_table) %>%
   gt() %>%
   gt_theme_espn() %>%
-  gt_sparkline(lists,
-               line_color = "grey70",
-               range_colors = c("blue", "red"),
-               same_limit = FALSE
-  ) %>%
+  # gt_sparkline(
+  #   lists,
+  #              line_color = "grey70",
+  #              range_colors = c("blue", "red"),
+  #              same_limit = FALSE
+  # ) %>%
   tab_options(
     table.width = pct(100),
     data_row.padding = px(4),
     table.font.size = px(12)
   ) %>%
   opt_all_caps(  all_caps = TRUE) %>%
-  cols_hide(columns = c(date)) %>%
+  cols_hide(columns = c(date, lists)) %>%
   cols_move(
     columns = pct_change,
     after = latest) %>%
@@ -581,7 +584,7 @@ usa_table <- ungroup(latest_data_for_table) %>%
     latest = "Latest",
     two_weeks_ago = html("14 Days<br>Ago"),
     pct_change = html("14 Day<br>Trend"),
-    lists = html("Past<br>90 Days")
+    # lists = html("Past<br>90 Days")
   ) %>%
   tab_source_note(
     source_note = paste("Latest data:",usa_weekday)
@@ -731,18 +734,19 @@ latest_data_for_table <- add_two_weeks_ago_column
 world_table <- ungroup(latest_data_for_table) %>%
   gt() %>%
   gt_theme_espn() %>%
-  gt_sparkline(lists,
-               line_color = "grey70",
-               range_colors = c("blue", "red"),
-               same_limit = FALSE
-  ) %>%
+  # gt_sparkline(
+  #   lists,
+  #              line_color = "grey70",
+  #              range_colors = c("blue", "red"),
+  #              same_limit = FALSE
+  # ) %>%
   tab_options(
     table.width = pct(100),
     data_row.padding = px(4),
     table.font.size = px(12)
   ) %>%
   opt_all_caps(  all_caps = TRUE) %>%
-  cols_hide(columns = c(date)) %>%
+  cols_hide(columns = c(date, lists)) %>%
   cols_move(
     columns = pct_change,
     after = latest) %>%
@@ -768,7 +772,7 @@ world_table <- ungroup(latest_data_for_table) %>%
     latest = "Latest",
     two_weeks_ago = html("14 Days<br>Ago"),
     pct_change = html("14 Day<br>Trend"),
-    lists = html("Past<br>90 Days")
+    #lists = html("Past<br>90 Days")
   ) %>%
   tab_source_note(
     source_note = paste("Latest data:",world_weekday)
