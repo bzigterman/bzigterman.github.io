@@ -1144,12 +1144,12 @@ html {
   <tbody class="gt_table_body">
     <tr><td class="gt_row gt_left">Cases</td>
 <td class="gt_row gt_right">116.0K</td>
-<td class="gt_row gt_right">87.8K</td>
+<td class="gt_row gt_right">87.9K</td>
 <td class="gt_row gt_right">&minus;24&percnt;</td></tr>
     <tr><td class="gt_row gt_left gt_striped">Hospitalized</td>
-<td class="gt_row gt_right gt_striped">72.5K</td>
-<td class="gt_row gt_right gt_striped">56.7K</td>
-<td class="gt_row gt_right gt_striped">&minus;22&percnt;</td></tr>
+<td class="gt_row gt_right gt_striped">73.9K</td>
+<td class="gt_row gt_right gt_striped">57.2K</td>
+<td class="gt_row gt_right gt_striped">&minus;23&percnt;</td></tr>
     <tr><td class="gt_row gt_left">Deaths</td>
 <td class="gt_row gt_right">2.0K</td>
 <td class="gt_row gt_right">1.6K</td>
