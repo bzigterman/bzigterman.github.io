@@ -6,6 +6,16 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 05:16 PM CT, Oct. 14 </p> 
+ [Deadly Clashes in Beirut Escalate Fears Over Lebanon’s Dysfunction](https://www.nytimes.com/2021/10/14/world/middleeast/beirut-lebanon.html) NYT: The fighting further traumatized the small Mediterranean country, a patchwork of sects that has tumbled into an abyss of devastating political and economic crises. 
+ <p class="updated_time"> 05:12 PM CT, Oct. 14 </p> 
+ [Beirut News: Sectarian Gun Battles Leave Six Dead](https://www.nytimes.com/live/2021/10/14/world/beirut-lebanon-clashes) NYT: Gunfire erupted at protests over an inquiry into last year’s port explosion, with Lebanon mired in economic collapse and political paralysis. 
+ <p class="updated_time"> 05:10 PM CT, Oct. 14 </p> 
+ [U.S. Regains Seat at U.N. Human Rights Council, 3 Years After Quitting](https://www.nytimes.com/2021/10/14/world/un-us-human-rights-council.html) NYT: The Trump administration called the 47-nation council hypocritical and said it was vilifying Israel. The Biden administration says the U.S. can be more effective as a member. 
+ <p class="updated_time"> 05:10 PM CT, Oct. 14 </p> 
+ [Robert Durst: US millionaire sentenced to life for murder](https://www.bbc.co.uk/news/world-us-canada-58919749?at_medium=RSS&at_campaign=KARANGA) BBC: Robert Durst was convicted of killing his best friend in 2000 and is a suspect in two other deaths. 
+ <p class="updated_time"> 05:06 PM CT, Oct. 14 </p> 
+ [Frida Kahlo, Aztec Gods: Can Art Lift Up a Poor Neighborhood?](https://www.nytimes.com/2021/10/14/world/americas/mexico-city-iztapalapa-murals.html) NYT: A new cableway and hundreds of giant murals have brightened lives in Iztapalapa, Mexico City’s most populous neighborhood, but poverty and attacks against women are still pervasive. 
  <p class="updated_time"> 04:54 PM CT, Oct. 14 </p> 
  [Agnes Tirop: Husband arrested in Kenya after athlete's death](https://www.bbc.co.uk/news/world-africa-58919391?at_medium=RSS&at_campaign=KARANGA) BBC: Record-breaking long-distance runner Agnes Tirop was found stabbed to death at her home on Wednesday. 
  <p class="updated_time"> 04:29 PM CT, Oct. 14 </p> 
@@ -26,20 +36,14 @@ permalink: /charts/news/
  [‘Lurching Between Crisis and Complacency’: Was This Our Last Covid Surge?](https://www.nytimes.com/2021/10/14/health/coronavirus-delta-surge.html) NYT: Rising immunity and modest changes in behavior may explain why cases are declining, but much remains unknown, scientists say. 
  <p class="updated_time"> 03:08 PM CT, Oct. 14 </p> 
  [Most Covid Cases in Africa Go Undetected, W.H.O. Says](https://www.nytimes.com/2021/10/14/world/covid-africa-who.html) NYT: “Now is the time to go on the offensive against Covid-19, and work with local communities to break transmission chains and stop wider outbreaks from happening,” Dr. Matshidiso Moeti said. 
- <p class="updated_time"> 03:00 PM CT, Oct. 14 </p> 
- [Live Updates: Sectarian Gun Battles in Beirut Leave Six Dead](https://www.nytimes.com/live/2021/10/14/world/beirut-lebanon-clashes) NYT: Gunfire erupted at protests over an inquiry into last year’s port explosion, with Lebanon mired in economic collapse and political paralysis. 
  <p class="updated_time"> 02:46 PM CT, Oct. 14 </p> 
  [Norway Bow-and-Arrow Rampage Treated as Apparent Terrorism Attack](https://www.nytimes.com/2021/10/14/world/europe/norway-bow-and-arrow-attack.html) NYT: The police said that they had previously contacted the suspect, a 37-year-old Danish citizen who is believed to have killed five people, over concerns that he had been radicalized. 
  <p class="updated_time"> 02:42 PM CT, Oct. 14 </p> 
  [Taiwan Building Fire Kills at Least 46](https://www.nytimes.com/2021/10/14/world/asia/taiwan-apartment-fire.html) NYT: Dozens more were injured after a blaze broke out at a 13-story building in the southern port city of Kaohsiung. 
- <p class="updated_time"> 02:36 PM CT, Oct. 14 </p> 
- [Frida Kahlo, Aztec Gods: Can Art Lift Up a Poor Neighborhood?](https://www.nytimes.com/2021/10/14/world/americas/mexico-city-iztapalapa-murals.html) NYT: A new cableway and hundreds of giant murals have brightened lives in Iztapalapa, Mexico City’s most populous neighborhood, but poverty and attacks against women are still pervasive. 
  <p class="updated_time"> 02:34 PM CT, Oct. 14 </p> 
  [Moderna and J.& J. Boosters: What Are the Next Steps? ](https://www.nytimes.com/2021/10/14/us/covid-booster-vaccines-fda.html) NYT: Further steps will be required at the F.D.A. and at the C.D.C., in a process that ends with the states. 
  <p class="updated_time"> 02:16 PM CT, Oct. 14 </p> 
  [LinkedIn to End Service in China, Citing ‘Challenging’ Environment](https://www.nytimes.com/2021/10/14/technology/linkedin-china-microsoft.html) NYT: The Microsoft-owned service had censored posts in China, in compliance with the country’s laws, to operate there. 
- <p class="updated_time"> 01:47 PM CT, Oct. 14 </p> 
- [U.S. Regains Seat at U.N. Human Rights Council, 3 Years After Quitting](https://www.nytimes.com/2021/10/14/world/un-us-human-rights-council.html) NYT: The Trump administration called the 47-nation council hypocritical and said it was vilifying Israel. The Biden administration says the U.S. can be more effective as a member. 
  <p class="updated_time"> 01:27 PM CT, Oct. 14 </p> 
  [As Western Oil Giants Cut Production, State-Owned Companies Step Up](https://www.nytimes.com/2021/10/14/business/energy-environment/oil-production-state-owned-companies.html) NYT: In the Middle East, Africa and Latin America, government-owned energy companies are increasing oil and natural gas production as U.S. and European companies pare supply because of climate concerns. 
  <p class="updated_time"> 01:24 PM CT, Oct. 14 </p> 
@@ -78,8 +82,6 @@ permalink: /charts/news/
  [Norway Bow-and-Arrow Attack Investigated as Terrorism](https://www.wsj.com/articles/norway-bow-and-arrow-suspect-had-been-reported-for-radicalization-11634206917) WSJ: A Danish convert to Islam who was suspected of having been radicalized was charged with killing five people and injuring two in a bow-and-arrow attack in Norway, with authorities investigating it as terrorism. 
  <p class="updated_time"> 09:31 AM CT, Oct. 14 </p> 
  [British Museums Face Covid’s Long-Term Effects](https://www.nytimes.com/2021/10/14/arts/design/british-museums-recovery.html) NYT: Months of closures during the pandemic have caused financial havoc for art venues, and many expect to be strapped for years. At the Victoria and Albert Museum in London, the virus’s impact is clear. 
- <p class="updated_time"> 09:20 AM CT, Oct. 14 </p> 
- [Nigeria says Iswap leader Abu Musab al-Barnawi is dead](https://www.bbc.co.uk/news/world-africa-58576635?at_medium=RSS&at_campaign=KARANGA) BBC: Abu Musab al-Barnawi was the head of the West African branch of the Islamic State group. 
  <p class="updated_time"> 09:05 AM CT, Oct. 14 </p> 
  [World's Fair Offers a New View of Michelangelo's 'David': Just His Head](https://www.wsj.com/articles/worlds-fair-offers-a-new-view-of-michelangelos-david-just-his-head-11634234707) WSJ: A nearly 17-foot 3-D printed replica at Italy’s pavilion in Dubai showcases the biblical hero with its famous face visible on one floor and its body on another. 
  <p class="updated_time"> 08:51 AM CT, Oct. 14 </p> 
@@ -176,8 +178,6 @@ permalink: /charts/news/
  [Britain’s Covid Missteps Cost Thousands of Lives, Inquiry Finds](https://www.nytimes.com/2021/10/12/world/europe/uk-covid-deaths-inquiry.html) NYT: Prime Minister Boris Johnson’s slowness last year to impose a lockdown and institute widespread testing had tragic results, according to a parliamentary report. 
  <p class="updated_time"> 10:48 AM CT, Oct. 12 </p> 
  [Sally Rooney Declines to Sell Translation Rights to Israeli Publisher](https://www.nytimes.com/2021/10/12/books/sally-rooney-israel-translation.html) NYT: The author of “Beautiful World, Where Are You” turned down an offer from an Israeli publisher to translate the novel to Hebrew, citing her support for Palestinians “in their struggle for freedom, justice and equality.” 
- <p class="updated_time"> 09:57 AM CT, Oct. 12 </p> 
- [Narendra Modi's Use of Antiterror Law Draws Scrutiny From Courts](https://www.nytimes.com/2021/10/12/world/asia/modi-india-antiterror-law.html) NYT: India’s government under Prime Minister Narendra Modi has jailed thousands of people through a statute that critics say is aimed at silencing dissent. 
  <p class="updated_time"> 09:55 AM CT, Oct. 12 </p> 
  [One Woman Won a Nobel This Year. Quotas Aren’t the Answer, an Official Says.](https://www.nytimes.com/2021/10/12/world/nobel-prize-woman-gender-ethnicity.html) NYT: Only one of the 13 laureates this year was a woman, but the head of the Royal Swedish Academy of Sciences dismissed the idea of guaranteeing representation. 
  <p class="updated_time"> 05:01 AM CT, Oct. 11 </p> 
