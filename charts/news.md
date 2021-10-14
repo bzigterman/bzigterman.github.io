@@ -6,10 +6,10 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 12:43 PM CT, Oct. 14 </p> 
+ [Live Updates: Beirut Rocked by Worst Sectarian Fighting in Years](https://www.nytimes.com/live/2021/10/14/world/beirut-lebanon-clashes) NYT: With Lebanon mired in economic collapse and political paralysis, clashes left at least six dead and dozens wounded. The violence came amid protests over an inquiry into a huge blast at the city’s port last year. 
  <p class="updated_time"> 12:36 PM CT, Oct. 14 </p> 
  [Frida Kahlo, Aztec Gods: Can Art Lift Up a Poor Neighborhood?](https://www.nytimes.com/2021/10/14/world/americas/mexico-city-iztapalapa-murals.html) NYT: A new cableway and hundreds of giant murals have brightened lives in Iztapalapa, Mexico City’s most populous neighborhood, but poverty and attacks against women are still pervasive. 
- <p class="updated_time"> 12:31 PM CT, Oct. 14 </p> 
- [Live Updates: Beirut Rocked by Worst Sectarian Fighting in Years](https://www.nytimes.com/live/2021/10/14/world/beirut-lebanon-clashes) NYT: With Lebanon mired in economic collapse and political paralysis, clashes left at least six dead and dozens wounded. The violence came amid protests over an inquiry into a huge blast at the city’s port last year. 
  <p class="updated_time"> 12:31 PM CT, Oct. 14 </p> 
  [Norway Bow-and-Arrow Rampage Treated as Apparent Terrorism Attack](https://www.nytimes.com/2021/10/14/world/europe/norway-bow-and-arrow-attack.html) NYT: The police said that they had previously contacted the suspect, a 37-year-old Danish citizen who is believed to have killed five people, over concerns that he had been radicalized. 
  <p class="updated_time"> 12:26 PM CT, Oct. 14 </p> 
