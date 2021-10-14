@@ -46,23 +46,6 @@ for (x in 1:nrow(world_news)) {
 }
 lines 
 
-# create table ----
-
-world_news_table <- world_news %>%
-  select(item_md_link, feed_plus_description) %>%
-  gt() %>%
-  fmt_markdown(item_md_link) %>%
-  cols_label(
-    item_md_link = "",
-    feed_plus_description = ""
-  ) %>% 
-  opt_table_lines(extent = c("none"))
-world_news_table
-
-
-world_news_table_html <- as_raw_html(world_news_table)
-
-
 # web text ----
 
 web_text <- paste(
