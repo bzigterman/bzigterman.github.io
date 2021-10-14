@@ -33,10 +33,10 @@ world_news <- full_join(nyt, wsj) %>%
 lines <- c()
 for (x in 1:nrow(world_news)) {
   line=paste("-",world_news$item_md_link[[x]], 
-        world_news$feed_plus_description[[x]])
-  lines = c(lines, line)
+        world_news$feed_plus_description[[x]],"\n")
+  lines = paste(lines, line)
 }
-lines <- c(lines)
+lines 
 
 # create table ----
 
@@ -66,7 +66,7 @@ permalink: /charts/news/
 
 ## World News
 
-",world_news_table_html,"
+",lines,"
 
 ",
 sep = ""
