@@ -6,6 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 06:10 PM CT, Oct. 14 </p> 
+ ['They will hang me': Afghan interpreters blocked by UK seek appeal](https://www.bbc.co.uk/news/world-asia-58830736?at_medium=RSS&at_campaign=KARANGA) BBC: Former interpreters fear for their lives after the UK blocks their evacuation on security grounds. 
  <p class="updated_time"> 05:35 PM CT, Oct. 14 </p> 
  [Biden Meets With Kenya’s President Amid Crisis in Ethiopia](https://www.nytimes.com/2021/10/14/us/politics/biden-kenya-kenyatta-ethiopia.html) NYT: The two leaders were also expected to discuss the escalating humanitarian crisis in the Tigray region of Ethiopia, where fighters have been accused of atrocities against civilians. 
  <p class="updated_time"> 05:30 PM CT, Oct. 14 </p> 
@@ -118,8 +120,6 @@ permalink: /charts/news/
  [Europe gas prices: How far is Russia responsible?](https://www.bbc.co.uk/news/58888451?at_medium=RSS&at_campaign=KARANGA) BBC: Moscow has been accused by some of playing politics with gas supplies, but there's a range of factors at work. 
  <p class="updated_time"> 06:12 PM CT, Oct. 13 </p> 
  [Covid-19 in Brazil: 'My mum was used as a guinea pig'](https://www.bbc.co.uk/news/world-latin-america-58891004?at_medium=RSS&at_campaign=KARANGA) BBC: A Brazilian healthcare provider is accused of conducting trials on Covid-19 patients without consent. 
- <p class="updated_time"> 05:59 PM CT, Oct. 13 </p> 
- [French fishermen warn of blockades in UK licence row](https://www.bbc.co.uk/news/world-europe-58894876?at_medium=RSS&at_campaign=KARANGA) BBC: Why the fishermen of Boulogne-sur-Mer are angry at being refused licences to fish in British waters. 
  <p class="updated_time"> 05:44 PM CT, Oct. 13 </p> 
  [Climate change in India: Teen inventor's solar-powered ironing cart](https://www.bbc.co.uk/news/science-environment-58889532?at_medium=RSS&at_campaign=KARANGA) BBC: India's ironing vendors use charcoal as fuel, but Vinisha Umashankar's cart harnesses the Sun's energy. 
  <p class="updated_time"> 05:36 PM CT, Oct. 13 </p> 
