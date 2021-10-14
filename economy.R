@@ -628,7 +628,8 @@ cu_housing_table <-   ungroup(latest_data_for_table) %>%
   gt_theme_espn() %>%
   gt_sparkline(lists,
                line_color = "grey70",
-               range_colors = c("red", "red")             
+               range_colors = c("red", "red"),
+               same_limit = FALSE
                ) %>%
   tab_options(
     table.width = pct(100),
