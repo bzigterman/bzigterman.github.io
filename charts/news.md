@@ -6,16 +6,18 @@ permalink: /charts/news/
 
 ## World News
 
- <p class="updated_time"> 02:32 PM CT, Oct. 14 </p> 
+ <p class="updated_time"> 02:42 PM CT, Oct. 14 </p> 
+ [Taiwan Building Fire Kills at Least 46](https://www.nytimes.com/2021/10/14/world/asia/taiwan-apartment-fire.html) NYT: Dozens more were injured after a blaze broke out at a 13-story building in the southern port city of Kaohsiung. 
+ <p class="updated_time"> 02:38 PM CT, Oct. 14 </p> 
  [Live Updates: Sectarian Gun Battles in Beirut Leave Six Dead](https://www.nytimes.com/live/2021/10/14/world/beirut-lebanon-clashes) NYT: Gunfire erupted at protests over an inquiry into last year’s port explosion, with Lebanon mired in economic collapse and political paralysis. 
- <p class="updated_time"> 02:21 PM CT, Oct. 14 </p> 
+ <p class="updated_time"> 02:36 PM CT, Oct. 14 </p> 
+ [Frida Kahlo, Aztec Gods: Can Art Lift Up a Poor Neighborhood?](https://www.nytimes.com/2021/10/14/world/americas/mexico-city-iztapalapa-murals.html) NYT: A new cableway and hundreds of giant murals have brightened lives in Iztapalapa, Mexico City’s most populous neighborhood, but poverty and attacks against women are still pervasive. 
+ <p class="updated_time"> 02:34 PM CT, Oct. 14 </p> 
  [Moderna and J.& J. Boosters: What Are the Next Steps? ](https://www.nytimes.com/2021/10/14/us/covid-booster-vaccines-fda.html) NYT: Further steps will be required at the F.D.A. and at the C.D.C., in a process that ends with the states. 
  <p class="updated_time"> 02:16 PM CT, Oct. 14 </p> 
  [LinkedIn to End Service in China, Citing ‘Challenging’ Environment](https://www.nytimes.com/2021/10/14/technology/linkedin-china-microsoft.html) NYT: The Microsoft-owned service had censored posts in China, in compliance with the country’s laws, to operate there. 
  <p class="updated_time"> 01:47 PM CT, Oct. 14 </p> 
  [U.S. Regains Seat at U.N. Human Rights Council, 3 Years After Quitting](https://www.nytimes.com/2021/10/14/world/un-us-human-rights-council.html) NYT: The Trump administration called the 47-nation council hypocritical and said it was vilifying Israel. The Biden administration says the U.S. can be more effective as a member. 
- <p class="updated_time"> 01:37 PM CT, Oct. 14 </p> 
- [Frida Kahlo, Aztec Gods: Can Art Lift Up a Poor Neighborhood?](https://www.nytimes.com/2021/10/14/world/americas/mexico-city-iztapalapa-murals.html) NYT: A new cableway and hundreds of giant murals have brightened lives in Iztapalapa, Mexico City’s most populous neighborhood, but poverty and attacks against women are still pervasive. 
  <p class="updated_time"> 01:27 PM CT, Oct. 14 </p> 
  [As Western Oil Giants Cut Production, State-Owned Companies Step Up](https://www.nytimes.com/2021/10/14/business/energy-environment/oil-production-state-owned-companies.html) NYT: In the Middle East, Africa and Latin America, government-owned energy companies are increasing oil and natural gas production as U.S. and European companies pare supply because of climate concerns. 
  <p class="updated_time"> 01:24 PM CT, Oct. 14 </p> 
@@ -72,8 +74,6 @@ permalink: /charts/news/
  [Kaohsiung: Fire at Taiwan tower block kills at least 46](https://www.bbc.co.uk/news/world-asia-58887760?at_medium=RSS&at_campaign=KARANGA) BBC: Dozens of firefighters spend more than four hours to extinguish the blaze at the 13-storey building. 
  <p class="updated_time"> 08:11 AM CT, Oct. 14 </p> 
  [Pandemic Disruptions Blamed for First Increase in Estimated Tuberculosis Deaths in More Than a Decade](https://www.wsj.com/articles/pandemic-disruptions-blamed-for-first-increase-in-estimated-tuberculosis-deaths-in-more-than-a-decade-11634231508) WSJ: The World Health Organization estimates 1.5 million people died in 2020 from what used to be deadliest infectious disease before Covid-19 emerged. 
- <p class="updated_time"> 08:06 AM CT, Oct. 14 </p> 
- [Taiwan Building Fire Kills at Least 46](https://www.nytimes.com/2021/10/14/world/asia/taiwan-apartment-fire.html) NYT: Dozens more were injured after a blaze broke out at a 13-story building in the southern port city of Kaohsiung. 
  <p class="updated_time"> 07:00 AM CT, Oct. 14 </p> 
  [Coldplay: Band announce first tour in four years with an 'eco-friendly' focus](https://www.bbc.co.uk/news/entertainment-arts-58907085?at_medium=RSS&at_campaign=KARANGA) BBC: The band have pledged that their upcoming tour will be sustainable, and as low-carbon as possible. 
  <p class="updated_time"> 06:59 AM CT, Oct. 14 </p> 
@@ -178,8 +178,6 @@ permalink: /charts/news/
  [One Woman Won a Nobel This Year. Quotas Aren’t the Answer, an Official Says.](https://www.nytimes.com/2021/10/12/world/nobel-prize-woman-gender-ethnicity.html) NYT: Only one of the 13 laureates this year was a woman, but the head of the Royal Swedish Academy of Sciences dismissed the idea of guaranteeing representation. 
  <p class="updated_time"> 07:00 AM CT, Oct. 12 </p> 
  [In Shanghai, Teahouses Offer Both Community and Solitude](https://www.nytimes.com/2021/10/12/t-magazine/shanghai-teahouses-china.html) NYT: Historically, these spaces were akin to populist pubs. Modern-day iterations allow for an individual retreat — among strangers — in a city lacking privacy. 
- <p class="updated_time"> 05:21 AM CT, Oct. 12 </p> 
- [The New Jersey’s governor’s race puts mandates to a political test.](https://www.nytimes.com/2021/10/12/world/the-new-jerseys-governors-race-puts-mandates-to-a-political-test.html) NYT: NA 
  <p class="updated_time"> 05:01 AM CT, Oct. 11 </p> 
  [Climate change: Is the UK on track to meet its targets?](https://www.bbc.co.uk/news/58160547?at_medium=RSS&at_campaign=KARANGA) BBC: With weeks to go until the UK hosts a global climate summit, is the government on track to meet its own commitments? 
  <p class="updated_time"> 05:18 AM CT, Sep. 24 </p> 
