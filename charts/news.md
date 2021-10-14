@@ -6,6 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 04:54 PM CT, Oct. 14 </p> 
+ [Agnes Tirop: Husband arrested in Kenya after athlete's death](https://www.bbc.co.uk/news/world-africa-58919391?at_medium=RSS&at_campaign=KARANGA) BBC: Record-breaking long-distance runner Agnes Tirop was found stabbed to death at her home on Wednesday. 
  <p class="updated_time"> 04:29 PM CT, Oct. 14 </p> 
  [With a new Michelin guide, Moscow's best-kept culinary secrets are out](https://www.bbc.co.uk/news/world-europe-58920839?at_medium=RSS&at_campaign=KARANGA) BBC: Nine Moscow restaurants have received Michelin stars for their food - a prestigious industry award. 
  <p class="updated_time"> 04:18 PM CT, Oct. 14 </p> 
@@ -90,8 +92,6 @@ permalink: /charts/news/
  [Pandemic Disruptions Blamed for First Increase in Estimated Tuberculosis Deaths in More Than a Decade](https://www.wsj.com/articles/pandemic-disruptions-blamed-for-first-increase-in-estimated-tuberculosis-deaths-in-more-than-a-decade-11634231508) WSJ: The World Health Organization estimates 1.5 million people died in 2020 from what used to be deadliest infectious disease before Covid-19 emerged. 
  <p class="updated_time"> 07:00 AM CT, Oct. 14 </p> 
  [Coldplay: Band announce first tour in four years with an 'eco-friendly' focus](https://www.bbc.co.uk/news/entertainment-arts-58907085?at_medium=RSS&at_campaign=KARANGA) BBC: The band have pledged that their upcoming tour will be sustainable, and as low-carbon as possible. 
- <p class="updated_time"> 06:59 AM CT, Oct. 14 </p> 
- [Lamu murder: Death sentence for popular Chinese vlogger's killer](https://www.bbc.co.uk/news/world-asia-china-58912991?at_medium=RSS&at_campaign=KARANGA) BBC: The man set his ex-wife alight during her livestream, causing outrage across the country. 
  <p class="updated_time"> 05:54 AM CT, Oct. 14 </p> 
  [Man With Bow and Arrows Kills Five in Norway](https://www.nytimes.com/2021/10/13/world/europe/norway-bow-arrow-attack.html) NYT: As the country went on alert, the police scrambled to investigate an attack in a town 50 miles outside Oslo. 
  <p class="updated_time"> 05:31 AM CT, Oct. 14 </p> 
