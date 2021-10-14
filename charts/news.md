@@ -6,10 +6,12 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 02:16 PM CT, Oct. 14 </p> 
+ [LinkedIn to End Service in China, Citing ‘Challenging’ Environment](https://www.nytimes.com/2021/10/14/technology/linkedin-china-microsoft.html) NYT: The Microsoft-owned service had censored posts in China, in compliance with the country’s laws, to operate there. 
  <p class="updated_time"> 01:51 PM CT, Oct. 14 </p> 
  [Live Updates: Sectarian Gun Battles in Beirut Leave Six Dead](https://www.nytimes.com/live/2021/10/14/world/beirut-lebanon-clashes) NYT: Gunfire erupted at protests over an inquiry into last year’s port explosion, with Lebanon mired in economic collapse and political paralysis. 
  <p class="updated_time"> 01:47 PM CT, Oct. 14 </p> 
- [U.S. Regains Seat at U.N. Human Rights Council, 3 Years After Quitting](https://www.nytimes.com/2021/10/14/world/un-human-rights-council-united-states.html) NYT: The Trump administration called the 47-nation council hypocritical and said it was vilifying Israel. The Biden administration says the U.S. can be more effective as a member. 
+ [U.S. Regains Seat at U.N. Human Rights Council, 3 Years After Quitting](https://www.nytimes.com/2021/10/14/world/un-us-human-rights-council.html) NYT: The Trump administration called the 47-nation council hypocritical and said it was vilifying Israel. The Biden administration says the U.S. can be more effective as a member. 
  <p class="updated_time"> 01:37 PM CT, Oct. 14 </p> 
  [Frida Kahlo, Aztec Gods: Can Art Lift Up a Poor Neighborhood?](https://www.nytimes.com/2021/10/14/world/americas/mexico-city-iztapalapa-murals.html) NYT: A new cableway and hundreds of giant murals have brightened lives in Iztapalapa, Mexico City’s most populous neighborhood, but poverty and attacks against women are still pervasive. 
  <p class="updated_time"> 01:27 PM CT, Oct. 14 </p> 
@@ -40,8 +42,6 @@ permalink: /charts/news/
  [Norway attack: Witness describes hearing 'thunk sound' of weapon](https://www.bbc.co.uk/news/world-europe-58910059?at_medium=RSS&at_campaign=KARANGA) BBC: Residents in Kongsberg react to the bow and arrow attack in their neighbourhood. 
  <p class="updated_time"> 11:20 AM CT, Oct. 14 </p> 
  [Henrietta Lacks, Whose Cells Were Taken Without Her Consent, Is Honored by W.H.O.](https://www.nytimes.com/2021/10/13/science/henrietta-lacks-cells-who.html) NYT: In a ceremony in Geneva, the World Health Organization presented an award to the family of Ms. Lacks, whose cancer cells led to world-changing advances in medical and scientific research. 
- <p class="updated_time"> 11:18 AM CT, Oct. 14 </p> 
- [LinkedIn to End Service in China, Citing ‘Challenging’ Environment](https://www.nytimes.com/2021/10/14/technology/linkedin-china-microsoft.html) NYT: The Microsoft-owned service had censored posts in China, in compliance with the country’s laws, to operate there. 
  <p class="updated_time"> 11:14 AM CT, Oct. 14 </p> 
  [‘Lurching Between Crisis and Complacency’: Was This Our Last Covid Surge?](https://www.nytimes.com/2021/10/14/health/coronavirus-delta-surge.html) NYT: Rising immunity and modest changes in behavior may explain why cases are declining, but much remains unknown, scientists say. 
  <p class="updated_time"> 11:07 AM CT, Oct. 14 </p> 
@@ -50,26 +50,26 @@ permalink: /charts/news/
  [Squid Game Ahead? No, Just Directions, British Police Explain](https://www.nytimes.com/2021/10/13/world/europe/squid-game-road-sign.html) NYT: The police in England clarified that a highway sign featuring symbols that also appear on the hit Netflix series merely indicated a detour. 
  <p class="updated_time"> 10:39 AM CT, Oct. 14 </p> 
  [Meteorite Crashes Through Ceiling and Lands on Woman’s Bed](https://www.nytimes.com/2021/10/14/world/canada/meteorite-bed.html) NYT: After a fireball streaked through the Canadian sky, Ruth Hamilton, of British Columbia, found a 2.8-pound rock the size of a large man’s fist near her pillow. 
+ <p class="updated_time"> 10:00 AM CT, Oct. 14 </p> 
+ [U.S. Aims to Resume Regular Evacuation Flights From Afghanistan](https://www.wsj.com/articles/u-s-to-resume-evacuation-flights-from-afghanistan-11634212800) WSJ: American citizens, residents and some Afghan visa applicants would qualify to fly on the U.S.-sponsored flights. 
  <p class="updated_time"> 09:55 AM CT, Oct. 14 </p> 
  [Afghanistan: Pakistan airline stops flights citing Taliban intimidation](https://www.bbc.co.uk/news/world-asia-58913855?at_medium=RSS&at_campaign=KARANGA) BBC: Pakistan International Airlines complains of "heavy-handedness" by the Taliban authorities. 
  <p class="updated_time"> 09:43 AM CT, Oct. 14 </p> 
  [U.S. to Open Canada and Mexico Borders for Vaccinated Travelers](https://www.nytimes.com/2021/10/12/us/politics/us-canada-mexico-borders-open.html) NYT: Opening the borders with Mexico and Canada, where crossing for nonessential travel has been barred for 19 months, will reconnect neighbors and provide a reprieve for businesses. 
- <p class="updated_time"> 09:32 AM CT, Oct. 14 </p> 
- [Norway Bow-and-Arrow Attack Investigated as Terrorism](https://www.wsj.com/articles/norway-bow-and-arrow-suspect-had-been-reported-for-radicalization-11634206917) WSJ: A Danish convert to Islam who was suspected of having been radicalized was charged with killing five people and injuring two in a bow-and-arrow attack in Norway, with authorities investigating it as terrorism. 
  <p class="updated_time"> 09:31 AM CT, Oct. 14 </p> 
  [British Museums Face Covid’s Long-Term Effects](https://www.nytimes.com/2021/10/14/arts/design/british-museums-recovery.html) NYT: Months of closures during the pandemic have caused financial havoc for art venues, and many expect to be strapped for years. At the Victoria and Albert Museum in London, the virus’s impact is clear. 
  <p class="updated_time"> 09:20 AM CT, Oct. 14 </p> 
  [Nigeria says Iswap leader Abu Musab al-Barnawi is dead](https://www.bbc.co.uk/news/world-africa-58576635?at_medium=RSS&at_campaign=KARANGA) BBC: Abu Musab al-Barnawi was the head of the West African branch of the Islamic State group. 
- <p class="updated_time"> 09:19 AM CT, Oct. 14 </p> 
- [Giulio Regeni Murder Trial Opens in Italy With Egyptian Security Officials Absent](https://www.wsj.com/articles/giulio-regeni-murder-trial-opens-in-italy-with-egyptian-security-officials-absent-11634221189) WSJ: A trial of four Egyptian security officials charged with the kidnapping, torture and killing of an Italian student opened, the first time Egyptian officials have been prosecuted abroad for crimes that human rights groups say have been committed on a large scale in the north African country in recent years. 
+ <p class="updated_time"> 09:05 AM CT, Oct. 14 </p> 
+ [World's Fair Offers a New View of Michelangelo's 'David': Just His Head](https://www.wsj.com/articles/worlds-fair-offers-a-new-view-of-michelangelos-david-just-his-head-11634234707) WSJ: A nearly 17-foot 3-D printed replica at Italy’s pavilion in Dubai showcases the biblical hero with its famous face visible on one floor and its body on another. 
  <p class="updated_time"> 08:51 AM CT, Oct. 14 </p> 
  [Gunfire erupts on Beirut streets after port explosion protest](https://www.bbc.co.uk/news/world-middle-east-58910056?at_medium=RSS&at_campaign=KARANGA) BBC: Several people are shot dead in gun battles following a protest over the Beirut port blast investigation. 
  <p class="updated_time"> 08:49 AM CT, Oct. 14 </p> 
  [Lebanon's Crisis, an Explainer ](https://www.nytimes.com/2021/10/14/briefing/lebanon-financial-crisis-lira.html) NYT: The world isn’t paying much attention. 
  <p class="updated_time"> 08:28 AM CT, Oct. 14 </p> 
  [Kaohsiung: Fire at Taiwan tower block kills at least 46](https://www.bbc.co.uk/news/world-asia-58887760?at_medium=RSS&at_campaign=KARANGA) BBC: Dozens of firefighters spend more than four hours to extinguish the blaze at the 13-storey building. 
- <p class="updated_time"> 08:25 AM CT, Oct. 14 </p> 
- [U.S. Aims to Resume Regular Evacuation Flights From Afghanistan](https://www.wsj.com/articles/u-s-to-resume-evacuation-flights-from-afghanistan-11634212800) WSJ: American citizens, residents and some Afghan visa applicants would qualify to fly on the U.S.-sponsored flights. 
+ <p class="updated_time"> 08:11 AM CT, Oct. 14 </p> 
+ [Pandemic Disruptions Blamed for First Increase in Estimated Tuberculosis Deaths in More Than a Decade](https://www.wsj.com/articles/pandemic-disruptions-blamed-for-first-increase-in-estimated-tuberculosis-deaths-in-more-than-a-decade-11634231508) WSJ: The World Health Organization estimates 1.5 million people died in 2020 from what used to be deadliest infectious disease before Covid-19 emerged. 
  <p class="updated_time"> 08:06 AM CT, Oct. 14 </p> 
  [Taiwan Building Fire Kills at Least 46](https://www.nytimes.com/2021/10/14/world/asia/taiwan-apartment-fire.html) NYT: Dozens more were injured after a blaze broke out at a 13-story building in the southern port city of Kaohsiung. 
  <p class="updated_time"> 07:00 AM CT, Oct. 14 </p> 
