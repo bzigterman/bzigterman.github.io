@@ -6,6 +6,12 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 04:18 PM CT, Oct. 14 </p> 
+ [Brazil soldiers who shot dead a musician convicted](https://www.bbc.co.uk/news/world-latin-america-58920462?at_medium=RSS&at_campaign=KARANGA) BBC: The men fired dozens of rounds into Evaldo dos Santos Rosa's car, killing him and a bystander. 
+ <p class="updated_time"> 04:04 PM CT, Oct. 14 </p> 
+ [Stranded 600lb turtle returned to Atlantic Ocean](https://www.bbc.co.uk/news/world-us-canada-58920819?at_medium=RSS&at_campaign=KARANGA) BBC: The sea turtle washed ashore a riverbank in Massachusetts this week. 
+ <p class="updated_time"> 03:59 PM CT, Oct. 14 </p> 
+ [Father charged after toddler fatally shot mother during Zoom call](https://www.bbc.co.uk/news/world-us-canada-58920322?at_medium=RSS&at_campaign=KARANGA) BBC: Police said the gun had been kept loaded in a children's backpack on the floor of the couple's room. 
  <p class="updated_time"> 03:56 PM CT, Oct. 14 </p> 
  [Border With Canada to Open, Businesses 'Could Not Be Happier'](https://www.nytimes.com/2021/10/14/nyregion/us-canada-border.html) NYT: Businesses along New York State’s northern border were celebrating the news that fully vaccinated Canadians would soon be allowed into the United States again. 
  <p class="updated_time"> 03:39 PM CT, Oct. 14 </p> 
@@ -100,8 +106,6 @@ permalink: /charts/news/
  [Turkey's Erdogan Fires Central Bank Officials, Fueling Economic Uncertainty](https://www.wsj.com/articles/turkeys-erdogan-fires-central-bank-officials-fueling-economic-uncertainty-11634209321) WSJ: The lira fell to record lows after the president’s latest intervention at the bank, which comes as the Turkish public struggles with devalued wages and a rising cost of basic goods like food. 
  <p class="updated_time"> 01:14 AM CT, Oct. 14 </p> 
  [What Is the Northern Ireland Protocol?](https://www.nytimes.com/article/uk-northern-ireland-protocol-eu.html) NYT: Britain is demanding an end to post-Brexit rules known as the Northern Ireland protocol. The European Union sees the rules as a key part of protecting its single market. 
- <p class="updated_time"> 11:36 PM CT, Oct. 13 </p> 
- [Indonesia Covid: Slow start as Bali re-opens to foreign tourists](https://www.bbc.co.uk/news/world-asia-58907525?at_medium=RSS&at_campaign=KARANGA) BBC: The popular holiday destination has opened to some foreigners, but no international flights are scheduled. 
  <p class="updated_time"> 10:46 PM CT, Oct. 13 </p> 
  [Your Thursday Briefing](https://www.nytimes.com/2021/10/13/briefing/populism-europe-norway-attack.html) NYT: A blow for populism in Europe. 
  <p class="updated_time"> 10:08 PM CT, Oct. 13 </p> 
@@ -114,8 +118,6 @@ permalink: /charts/news/
  [Europe gas prices: How far is Russia responsible?](https://www.bbc.co.uk/news/58888451?at_medium=RSS&at_campaign=KARANGA) BBC: Moscow has been accused by some of playing politics with gas supplies, but there's a range of factors at work. 
  <p class="updated_time"> 06:12 PM CT, Oct. 13 </p> 
  [Covid-19 in Brazil: 'My mum was used as a guinea pig'](https://www.bbc.co.uk/news/world-latin-america-58891004?at_medium=RSS&at_campaign=KARANGA) BBC: A Brazilian healthcare provider is accused of conducting trials on Covid-19 patients without consent. 
- <p class="updated_time"> 06:04 PM CT, Oct. 13 </p> 
- [Biden plans to expand offshore wind turbines to US coasts](https://www.bbc.co.uk/news/world-us-canada-58906955?at_medium=RSS&at_campaign=KARANGA) BBC: President Biden's plan calls for offshore turbines to be built along nearly every coastal state. 
  <p class="updated_time"> 05:59 PM CT, Oct. 13 </p> 
  [French fishermen warn of blockades in UK licence row](https://www.bbc.co.uk/news/world-europe-58894876?at_medium=RSS&at_campaign=KARANGA) BBC: Why the fishermen of Boulogne-sur-Mer are angry at being refused licences to fish in British waters. 
  <p class="updated_time"> 05:44 PM CT, Oct. 13 </p> 
@@ -136,8 +138,6 @@ permalink: /charts/news/
  [China’s Power Problems Expose a Strategic Weakness](https://www.nytimes.com/2021/10/13/business/china-electricity-shortage.html) NYT: China announced on Wednesday a national rush to mine and burn more coal, as the country’s electricity shortage threatens to damage its image as a reliable manufacturing base. 
  <p class="updated_time"> 01:09 PM CT, Oct. 13 </p> 
  [Czechs Defeat a Populist, Offering a Road Map for Toppling Strongmen](https://www.nytimes.com/2021/10/13/world/europe/czech-populism-strongmen.html) NYT: A wide range of parties in the Czech Republic banded together despite their differences to oppose Andrej Babis, the country’s populist prime minister. Opposition parties in Hungary are hoping to duplicate the feat. 
- <p class="updated_time"> 12:22 PM CT, Oct. 13 </p> 
- [William Shatner in space: 'The most profound experience I can imagine'](https://www.bbc.co.uk/news/science-environment-58905478?at_medium=RSS&at_campaign=KARANGA) BBC: The Star Trek actor becomes the oldest person to go into space and returns 'filled with emotion'. 
  <p class="updated_time"> 11:24 AM CT, Oct. 13 </p> 
  [John Paul I, Pope for 33 Days in 1978, Will Be Beatified](https://www.nytimes.com/2021/10/13/world/europe/pope-john-paul-i-beatified-saint.html) NYT: Pope Francis approved a miracle attributed to the last Italian pope, bringing him a step closer to becoming a saint. 
  <p class="updated_time"> 11:13 AM CT, Oct. 13 </p> 
