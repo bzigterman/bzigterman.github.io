@@ -77,7 +77,7 @@ permalink: /charts/news/
  <p class="updated_time"> 08:49 AM CT, Oct. 14 </p> 
  [Lebanon's Crisis, an Explainer ](https://www.nytimes.com/2021/10/14/briefing/lebanon-financial-crisis-lira.html) NYT: The world isn’t paying much attention. 
  <p class="updated_time"> 08:28 AM CT, Oct. 14 </p> 
- [Kaohsiung: Fire at Taiwan tower block kills at least 46](https://www.bbc.co.uk/news/world-asia-58887760?at_medium=RSS&at_campaign=KARANGA) BBC: Dozens of firefighters spend more than four hours to extinguish the blaze at the 13-storey building. 
+ [Kaohsiung: Fire at Taiwan tower block kills at least 46](https://www.bbc.co.uk/news/world-asia-58887760?at_medium=RSS&at_campaign=KARANGA) BBC: It took dozens of firefighters more than four hours to put out the blaze at the 13-storey building. 
  <p class="updated_time"> 08:11 AM CT, Oct. 14 </p> 
  [Pandemic Disruptions Blamed for First Increase in Estimated Tuberculosis Deaths in More Than a Decade](https://www.wsj.com/articles/pandemic-disruptions-blamed-for-first-increase-in-estimated-tuberculosis-deaths-in-more-than-a-decade-11634231508) WSJ: The World Health Organization estimates 1.5 million people died in 2020 from what used to be deadliest infectious disease before Covid-19 emerged. 
  <p class="updated_time"> 07:00 AM CT, Oct. 14 </p> 
