@@ -6,6 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 02:21 PM CT, Oct. 14 </p> 
+ [Moderna and J.& J. Boosters: What Are the Next Steps? ](https://www.nytimes.com/2021/10/14/us/covid-booster-vaccines-fda.html) NYT: Further steps will be required at the F.D.A. and at the C.D.C., in a process that ends with the states. 
  <p class="updated_time"> 02:16 PM CT, Oct. 14 </p> 
  [LinkedIn to End Service in China, Citing ‘Challenging’ Environment](https://www.nytimes.com/2021/10/14/technology/linkedin-china-microsoft.html) NYT: The Microsoft-owned service had censored posts in China, in compliance with the country’s laws, to operate there. 
  <p class="updated_time"> 01:51 PM CT, Oct. 14 </p> 
@@ -26,8 +28,6 @@ permalink: /charts/news/
  [Biden to Meet With Kenya’s President Amid Crisis in Ethiopia](https://www.nytimes.com/2021/10/14/us/politics/biden-kenya-kenyatta-ethiopia.html) NYT: The two leaders are expected to discuss the situation in the Tigray region in northern Ethiopia, where fighters have been accused of atrocities against civilians. 
  <p class="updated_time"> 12:26 PM CT, Oct. 14 </p> 
  [Beirut port blast: Gunfire erupts at protest against judge leading probe](https://www.bbc.co.uk/news/world-middle-east-58901611?at_medium=RSS&at_campaign=KARANGA) BBC: At least six die as protesters come under fire, sending people fleeing for cover in the street. 
- <p class="updated_time"> 12:09 PM CT, Oct. 14 </p> 
- [Moderna and J.& J. Boosters: What Are the Next Steps? ](https://www.nytimes.com/2021/10/14/us/covid-booster-vaccines-fda.html) NYT: Further steps will be required at the F.D.A. and at the C.D.C., in a process that ends with the states. 
  <p class="updated_time"> 12:08 PM CT, Oct. 14 </p> 
  [Microsoft shutting down LinkedIn in China](https://www.bbc.co.uk/news/technology-58911297?at_medium=RSS&at_campaign=KARANGA) BBC: The company will offer a jobs-only site with no social-media elements, instead. 
  <p class="updated_time"> 11:59 AM CT, Oct. 14 </p> 
@@ -50,6 +50,8 @@ permalink: /charts/news/
  [Squid Game Ahead? No, Just Directions, British Police Explain](https://www.nytimes.com/2021/10/13/world/europe/squid-game-road-sign.html) NYT: The police in England clarified that a highway sign featuring symbols that also appear on the hit Netflix series merely indicated a detour. 
  <p class="updated_time"> 10:39 AM CT, Oct. 14 </p> 
  [Meteorite Crashes Through Ceiling and Lands on Woman’s Bed](https://www.nytimes.com/2021/10/14/world/canada/meteorite-bed.html) NYT: After a fireball streaked through the Canadian sky, Ruth Hamilton, of British Columbia, found a 2.8-pound rock the size of a large man’s fist near her pillow. 
+ <p class="updated_time"> 10:14 AM CT, Oct. 14 </p> 
+ [Gunfights Rock Beirut Following Hezbollah Protest Against Blast Probe](https://www.wsj.com/articles/gunfights-rock-beirut-following-hezbollah-protest-against-blast-probe-11634213261) WSJ: Sectarian clashes turned neighborhoods of Beirut into a free-fire zone, killing six and reviving memories of Lebanon’s civil wars. 
  <p class="updated_time"> 10:00 AM CT, Oct. 14 </p> 
  [U.S. Aims to Resume Regular Evacuation Flights From Afghanistan](https://www.wsj.com/articles/u-s-to-resume-evacuation-flights-from-afghanistan-11634212800) WSJ: American citizens, residents and some Afghan visa applicants would qualify to fly on the U.S.-sponsored flights. 
  <p class="updated_time"> 09:55 AM CT, Oct. 14 </p> 
@@ -76,8 +78,6 @@ permalink: /charts/news/
  [Coldplay: Band announce first tour in four years with an 'eco-friendly' focus](https://www.bbc.co.uk/news/entertainment-arts-58907085?at_medium=RSS&at_campaign=KARANGA) BBC: The band have pledged that their upcoming tour will be sustainable, and as low-carbon as possible. 
  <p class="updated_time"> 06:59 AM CT, Oct. 14 </p> 
  [Lamu murder: Death sentence for popular Chinese vlogger's killer](https://www.bbc.co.uk/news/world-asia-china-58912991?at_medium=RSS&at_campaign=KARANGA) BBC: The man set his ex-wife alight during her livestream, causing outrage across the country. 
- <p class="updated_time"> 06:51 AM CT, Oct. 14 </p> 
- [Gunfights Rock Beirut Following Hezbollah Protest Against Blast Probe](https://www.wsj.com/articles/gunfights-rock-beirut-following-hezbollah-protest-against-blast-probe-11634213261) WSJ: Tensions over a judicial probe into last year’s devastating Beirut port explosion spiraled into street clashes and gunbattles in the Lebanese capital following a demonstration by the dominant Hezbollah faction aimed at resisting a senior judge’s efforts to hold officials accountable. 
  <p class="updated_time"> 05:54 AM CT, Oct. 14 </p> 
  [Man With Bow and Arrows Kills Five in Norway](https://www.nytimes.com/2021/10/13/world/europe/norway-bow-arrow-attack.html) NYT: As the country went on alert, the police scrambled to investigate an attack in a town 50 miles outside Oslo. 
  <p class="updated_time"> 05:39 AM CT, Oct. 14 </p> 
