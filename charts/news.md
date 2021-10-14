@@ -6,14 +6,16 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 03:44 PM CT, Oct. 14 </p> 
+ [Border With Canada to Open, Businesses 'Could Not Be Happier'](https://www.nytimes.com/2021/10/14/nyregion/us-canada-border.html) NYT: Businesses along New York State’s northern border were celebrating the news that fully vaccinated Canadians would soon be allowed into the United States again. 
+ <p class="updated_time"> 03:39 PM CT, Oct. 14 </p> 
+ [Your Friday Briefing](https://www.nytimes.com/2021/10/14/briefing/beirut-violence-taiwan-fire-biodiversity-goodall.html) NYT: Beirut protests turn violent. 
  <p class="updated_time"> 03:14 PM CT, Oct. 14 </p> 
  [Microsoft shutting down LinkedIn in China](https://www.bbc.co.uk/news/technology-58911297?at_medium=RSS&at_campaign=KARANGA) BBC: The company will offer a jobs-only site with no social-media elements, instead. 
  <p class="updated_time"> 03:09 PM CT, Oct. 14 </p> 
  [‘Lurching Between Crisis and Complacency’: Was This Our Last Covid Surge?](https://www.nytimes.com/2021/10/14/health/coronavirus-delta-surge.html) NYT: Rising immunity and modest changes in behavior may explain why cases are declining, but much remains unknown, scientists say. 
  <p class="updated_time"> 03:08 PM CT, Oct. 14 </p> 
  [Most Covid Cases in Africa Go Undetected, W.H.O. Says](https://www.nytimes.com/2021/10/14/world/covid-africa-who.html) NYT: “Now is the time to go on the offensive against Covid-19, and work with local communities to break transmission chains and stop wider outbreaks from happening,” Dr. Matshidiso Moeti said. 
- <p class="updated_time"> 03:01 PM CT, Oct. 14 </p> 
- [Your Friday Briefing](https://www.nytimes.com/2021/10/14/briefing/beirut-violence-taiwan-fire-biodiversity-goodall.html) NYT: Beirut protests turn violent. 
  <p class="updated_time"> 03:00 PM CT, Oct. 14 </p> 
  [Live Updates: Sectarian Gun Battles in Beirut Leave Six Dead](https://www.nytimes.com/live/2021/10/14/world/beirut-lebanon-clashes) NYT: Gunfire erupted at protests over an inquiry into last year’s port explosion, with Lebanon mired in economic collapse and political paralysis. 
  <p class="updated_time"> 02:46 PM CT, Oct. 14 </p> 
@@ -96,8 +98,6 @@ permalink: /charts/news/
  [Kyrie Irving Defends Decision on Vaccine After Being Benched](https://www.nytimes.com/2021/10/13/world/kyrie-irving-vaccine-benched-nets.html) NYT: The N.B.A. star, who is set to make $40 million this year, said he opposes vaccine mandates, saying nobody should be “forced” to do it. 
  <p class="updated_time"> 02:02 AM CT, Oct. 14 </p> 
  [Turkey's Erdogan Fires Central Bank Officials, Fueling Economic Uncertainty](https://www.wsj.com/articles/turkeys-erdogan-fires-central-bank-officials-fueling-economic-uncertainty-11634209321) WSJ: The lira fell to record lows after the president’s latest intervention at the bank, which comes as the Turkish public struggles with devalued wages and a rising cost of basic goods like food. 
- <p class="updated_time"> 02:00 AM CT, Oct. 14 </p> 
- [Border With Canada to Open, Businesses 'Could Not Be Happier'](https://www.nytimes.com/2021/10/14/nyregion/us-canada-border.html) NYT: Businesses along New York State’s northern border were celebrating the news that fully vaccinated Canadians would soon be allowed into the United States again. 
  <p class="updated_time"> 01:14 AM CT, Oct. 14 </p> 
  [What Is the Northern Ireland Protocol?](https://www.nytimes.com/article/uk-northern-ireland-protocol-eu.html) NYT: Britain is demanding an end to post-Brexit rules known as the Northern Ireland protocol. The European Union sees the rules as a key part of protecting its single market. 
  <p class="updated_time"> 11:36 PM CT, Oct. 13 </p> 
