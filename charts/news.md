@@ -6,7 +6,7 @@ permalink: /charts/news/
 
 ## World News
 
- <p class="updated_time"> 03:44 PM CT, Oct. 14 </p> 
+ <p class="updated_time"> 03:56 PM CT, Oct. 14 </p> 
  [Border With Canada to Open, Businesses 'Could Not Be Happier'](https://www.nytimes.com/2021/10/14/nyregion/us-canada-border.html) NYT: Businesses along New York State’s northern border were celebrating the news that fully vaccinated Canadians would soon be allowed into the United States again. 
  <p class="updated_time"> 03:39 PM CT, Oct. 14 </p> 
  [Your Friday Briefing](https://www.nytimes.com/2021/10/14/briefing/beirut-violence-taiwan-fire-biodiversity-goodall.html) NYT: Beirut protests turn violent. 
@@ -51,7 +51,7 @@ permalink: /charts/news/
  <p class="updated_time"> 11:20 AM CT, Oct. 14 </p> 
  [Henrietta Lacks, Whose Cells Were Taken Without Her Consent, Is Honored by W.H.O.](https://www.nytimes.com/2021/10/13/science/henrietta-lacks-cells-who.html) NYT: In a ceremony in Geneva, the World Health Organization presented an award to the family of Ms. Lacks, whose cancer cells led to world-changing advances in medical and scientific research. 
  <p class="updated_time"> 11:07 AM CT, Oct. 14 </p> 
- [Women taken from Congo sue Belgium over forced separations](https://www.bbc.co.uk/news/world-europe-58903939?at_medium=RSS&at_campaign=KARANGA) BBC: They were taken from their black mothers during the colonial era because of their skin colour. 
+ [Women taken from DR Congo sue Belgium over forced separations](https://www.bbc.co.uk/news/world-europe-58903939?at_medium=RSS&at_campaign=KARANGA) BBC: They were taken from their black mothers during the colonial era because of their skin colour. 
  <p class="updated_time"> 10:56 AM CT, Oct. 14 </p> 
  [Squid Game Ahead? No, Just Directions, British Police Explain](https://www.nytimes.com/2021/10/13/world/europe/squid-game-road-sign.html) NYT: The police in England clarified that a highway sign featuring symbols that also appear on the hit Netflix series merely indicated a detour. 
  <p class="updated_time"> 10:39 AM CT, Oct. 14 </p> 
