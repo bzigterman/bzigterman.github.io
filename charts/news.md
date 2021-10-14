@@ -6,12 +6,16 @@ permalink: /charts/news/
 
 ## World News
 
- <p class="updated_time"> 01:05 PM CT, Oct. 14 </p> 
- [Live Updates: Beirut Rocked by Worst Sectarian Fighting in Years](https://www.nytimes.com/live/2021/10/14/world/beirut-lebanon-clashes) NYT: With Lebanon mired in economic collapse and political paralysis, clashes left at least six dead and dozens wounded. The violence came amid protests over an inquiry into a huge blast at the city’s port last year. 
+ <p class="updated_time"> 01:27 PM CT, Oct. 14 </p> 
+ [As Western Oil Giants Cut Production, State-Owned Companies Step Up](https://www.nytimes.com/2021/10/14/business/energy-environment/oil-production-state-owned-companies.html) NYT: In the Middle East, Africa and Latin America, government-owned energy companies are increasing oil and natural gas production as U.S. and European companies pare supply because of climate concerns. 
+ <p class="updated_time"> 01:26 PM CT, Oct. 14 </p> 
+ [Live Updates: Sectarian Gun Battles in Beirut Leave Six Dead](https://www.nytimes.com/live/2021/10/14/world/beirut-lebanon-clashes) NYT: Gunfire erupted at protests over an inquiry into last year’s port explosion, with Lebanon mired in economic collapse and political paralysis. 
+ <p class="updated_time"> 01:24 PM CT, Oct. 14 </p> 
+ [U.S. Antigovernment Groups Are Influencing the French Far Right](https://www.nytimes.com/2021/10/13/us/politics/france-far-right-extremists-qanon.html) NYT: The top French intelligence official, who is visiting Washington this week, said QAnon and other conspiracy theories were spreading to Europe. 
+ <p class="updated_time"> 01:17 PM CT, Oct. 14 </p> 
+ [Norway Bow-and-Arrow Rampage Treated as Apparent Terrorism Attack](https://www.nytimes.com/2021/10/14/world/europe/norway-bow-and-arrow-attack.html) NYT: The police said that they had previously contacted the suspect, a 37-year-old Danish citizen who is believed to have killed five people, over concerns that he had been radicalized. 
  <p class="updated_time"> 01:04 PM CT, Oct. 14 </p> 
  [Most Covid Cases in Africa Go Undetected, W.H.O. Says](https://www.nytimes.com/2021/10/14/world/covid-africa-who.html) NYT: “Now is the time to go on the offensive against Covid-19, and work with local communities to break transmission chains and stop wider outbreaks from happening,” Dr. Matshidiso Moeti said. 
- <p class="updated_time"> 12:57 PM CT, Oct. 14 </p> 
- [Norway Bow-and-Arrow Rampage Treated as Apparent Terrorism Attack](https://www.nytimes.com/2021/10/14/world/europe/norway-bow-and-arrow-attack.html) NYT: The police said that they had previously contacted the suspect, a 37-year-old Danish citizen who is believed to have killed five people, over concerns that he had been radicalized. 
  <p class="updated_time"> 12:36 PM CT, Oct. 14 </p> 
  [Frida Kahlo, Aztec Gods: Can Art Lift Up a Poor Neighborhood?](https://www.nytimes.com/2021/10/14/world/americas/mexico-city-iztapalapa-murals.html) NYT: A new cableway and hundreds of giant murals have brightened lives in Iztapalapa, Mexico City’s most populous neighborhood, but poverty and attacks against women are still pervasive. 
  <p class="updated_time"> 12:31 PM CT, Oct. 14 </p> 
@@ -42,7 +46,7 @@ permalink: /charts/news/
  [Women taken from Congo sue Belgium over forced separations](https://www.bbc.co.uk/news/world-europe-58903939?at_medium=RSS&at_campaign=KARANGA) BBC: They were taken from their black mothers during the colonial era because of their skin colour. 
  <p class="updated_time"> 10:56 AM CT, Oct. 14 </p> 
  [Squid Game Ahead? No, Just Directions, British Police Explain](https://www.nytimes.com/2021/10/13/world/europe/squid-game-road-sign.html) NYT: The police in England clarified that a highway sign featuring symbols that also appear on the hit Netflix series merely indicated a detour. 
- <p class="updated_time"> 10:38 AM CT, Oct. 14 </p> 
+ <p class="updated_time"> 10:39 AM CT, Oct. 14 </p> 
  [Meteorite Crashes Through Ceiling and Lands on Woman’s Bed](https://www.nytimes.com/2021/10/14/world/canada/meteorite-bed.html) NYT: After a fireball streaked through the Canadian sky, Ruth Hamilton, of British Columbia, found a 2.8-pound rock the size of a large man’s fist near her pillow. 
  <p class="updated_time"> 09:55 AM CT, Oct. 14 </p> 
  [Afghanistan: Pakistan airline stops flights citing Taliban intimidation](https://www.bbc.co.uk/news/world-asia-58913855?at_medium=RSS&at_campaign=KARANGA) BBC: Pakistan International Airlines complains of "heavy-handedness" by the Taliban authorities. 
@@ -52,8 +56,8 @@ permalink: /charts/news/
  [British Museums Face Covid’s Long-Term Effects](https://www.nytimes.com/2021/10/14/arts/design/british-museums-recovery.html) NYT: Months of closures during the pandemic have caused financial havoc for art venues, and many expect to be strapped for years. At the Victoria and Albert Museum in London, the virus’s impact is clear. 
  <p class="updated_time"> 09:20 AM CT, Oct. 14 </p> 
  [Nigeria says Iswap leader Abu Musab al-Barnawi is dead](https://www.bbc.co.uk/news/world-africa-58576635?at_medium=RSS&at_campaign=KARANGA) BBC: Abu Musab al-Barnawi was the head of the West African branch of the Islamic State group. 
- <p class="updated_time"> 08:52 AM CT, Oct. 14 </p> 
- [As Western Oil Giants Cut Production, State-Owned Companies Step Up](https://www.nytimes.com/2021/10/14/business/energy-environment/oil-production-state-owned-companies.html) NYT: In the Middle East, Africa and Latin America, government-owned energy companies are increasing oil and natural gas production as U.S. and European companies pare supply because of climate concerns. 
+ <p class="updated_time"> 09:19 AM CT, Oct. 14 </p> 
+ [Giulio Regeni Murder Trial Opens in Italy With Egyptian Security Officials Absent](https://www.wsj.com/articles/giulio-regeni-murder-trial-opens-in-italy-with-egyptian-security-officials-absent-11634221189) WSJ: A trial of four Egyptian security officials charged with the kidnapping, torture and killing of an Italian student opened, the first time Egyptian officials have been prosecuted abroad for crimes that human rights groups say have been committed on a large scale in the north African country in recent years. 
  <p class="updated_time"> 08:51 AM CT, Oct. 14 </p> 
  [Gunfire erupts on Beirut streets after port explosion protest](https://www.bbc.co.uk/news/world-middle-east-58910056?at_medium=RSS&at_campaign=KARANGA) BBC: Several people are shot dead in gun battles following a protest over the Beirut port blast investigation. 
  <p class="updated_time"> 08:49 AM CT, Oct. 14 </p> 
@@ -76,8 +80,6 @@ permalink: /charts/news/
  [Regeni murder: Egyptians go on trial for Italian student's murder](https://www.bbc.co.uk/news/world-europe-58894878?at_medium=RSS&at_campaign=KARANGA) BBC: Giulio Regeni was doing research for a Cambridge PhD when his body was found in a ditch near Cairo. 
  <p class="updated_time"> 05:31 AM CT, Oct. 14 </p> 
  [North Korean Soldiers Lie Shirtless on Broken Glass](https://www.nytimes.com/2021/10/14/world/asia/north-korea-propaganda-military-broken-glass.html) NYT: The country has never been known for its subtlety, and martial-art stunts have long been a mainstay of its  propaganda, designed to stoke national pride and instill fear in enemies. 
- <p class="updated_time"> 05:19 AM CT, Oct. 14 </p> 
- [Giulio Regeni Murder Trial Opens in Italy With Egyptian Security Officials Absent](https://www.wsj.com/articles/giulio-regeni-murder-trial-opens-in-italy-with-egyptian-security-officials-absent-11634221189) WSJ: A trial of four Egyptian security officials charged with the kidnapping, torture and killing of an Italian student opened, the first time Egyptian officials have been prosecuted abroad for crimes that human rights groups say have been committed on a large scale in the north African country in recent years. 
  <p class="updated_time"> 05:00 AM CT, Oct. 14 </p> 
  [Kaohsiung: Firefighters battle Taiwan tower block blaze](https://www.bbc.co.uk/news/world-asia-58909907?at_medium=RSS&at_campaign=KARANGA) BBC: At least 46 people have been killed in a fire at a tower block in the city of Kaohsiung, southern Taiwan. 
  <p class="updated_time"> 04:36 AM CT, Oct. 14 </p> 
@@ -126,8 +128,6 @@ permalink: /charts/news/
  [W.H.O Names Advisory Group to Study Origin of Covid Pandemic](https://www.nytimes.com/2021/10/13/science/who-coronavirus-origins.html) NYT: The group includes scientists from 26 countries, a reflection of the W.H.O.’s effort to amass widespread international support for the work. 
  <p class="updated_time"> 01:49 PM CT, Oct. 13 </p> 
  [China’s Power Problems Expose a Strategic Weakness](https://www.nytimes.com/2021/10/13/business/china-electricity-shortage.html) NYT: China announced on Wednesday a national rush to mine and burn more coal, as the country’s electricity shortage threatens to damage its image as a reliable manufacturing base. 
- <p class="updated_time"> 01:44 PM CT, Oct. 13 </p> 
- [U.S. Antigovernment Groups Are Influencing the French Far Right](https://www.nytimes.com/2021/10/13/us/politics/france-far-right-extremists-qanon.html) NYT: The top French intelligence official, who is visiting Washington this week, said QAnon and other conspiracy theories were spreading to Europe. 
  <p class="updated_time"> 01:09 PM CT, Oct. 13 </p> 
  [Czechs Defeat a Populist, Offering a Road Map for Toppling Strongmen](https://www.nytimes.com/2021/10/13/world/europe/czech-populism-strongmen.html) NYT: A wide range of parties in the Czech Republic banded together despite their differences to oppose Andrej Babis, the country’s populist prime minister. Opposition parties in Hungary are hoping to duplicate the feat. 
  <p class="updated_time"> 12:22 PM CT, Oct. 13 </p> 
