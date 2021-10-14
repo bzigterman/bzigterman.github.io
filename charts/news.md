@@ -6,18 +6,26 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 11:54 AM CT, Oct. 14 </p> 
+ [Live Updates: Beirut Rocked by Worst Sectarian Fighting in Years](https://www.nytimes.com/live/2021/10/14/world/beirut-lebanon-clashes) NYT: With Lebanon mired in economic collapse and political paralysis, clashes left at least six dead and dozens wounded. The violence came amid protests over an inquiry into a huge blast at the city’s port last year. 
+ <p class="updated_time"> 11:51 AM CT, Oct. 14 </p> 
+ [Mexico City Replaces a Statue of Columbus With One of an Indigenous Woman](https://www.nytimes.com/2021/10/14/world/americas/mexico-columbus-statue-indigenous.html) NYT: The replacement of a figure seen as a monument to colonialism touched a nerve as the country debates how it is shaped by race and sex. 
+ <p class="updated_time"> 11:47 AM CT, Oct. 14 </p> 
+ [Why China's climate policy matters to us all](https://www.bbc.co.uk/news/world-asia-china-57483492?at_medium=RSS&at_campaign=KARANGA) BBC: The global battle against climate change is likely to be won or lost in China. 
+ <p class="updated_time"> 11:44 AM CT, Oct. 14 </p> 
+ [Norway Bow-and-Arrow Rampage Treated as Apparent Terrorism Attack](https://www.nytimes.com/2021/10/14/world/europe/norway-bow-and-arrow-attack.html) NYT: The police said that they had previously contacted the suspect, a 37-year-old Danish citizen who is believed to have killed five people, over concerns that he had been radicalized. 
+ <p class="updated_time"> 11:38 AM CT, Oct. 14 </p> 
+ [Most Covid Cases in Africa Go Undetected, W.H.O. Says](https://www.nytimes.com/2021/10/14/world/covid-africa-who.html) NYT: “Now is the time to go on the offensive against Covid-19, and work with local communities to break transmission chains and stop wider outbreaks from happening,” Dr. Matshidiso Moeti said. 
  <p class="updated_time"> 11:34 AM CT, Oct. 14 </p> 
  [Newly Discovered Bat Viruses Give Hints to Covid’s Origins](https://www.nytimes.com/2021/10/14/science/bat-coronaviruses-lab-leak.html) NYT: Coronaviruses discovered in Laotian bats are surprisingly adept at infecting human cells, showing that such deadly features can indeed evolve outside of a lab. 
- <p class="updated_time"> 11:33 AM CT, Oct. 14 </p> 
- [Live Updates: Beirut Rocked by Worst Sectarian Fighting in Years](https://www.nytimes.com/live/2021/10/14/world/beirut-lebanon-clashes) NYT: With Lebanon mired in economic collapse and political paralysis, clashes left at least six dead and dozens wounded. The violence came amid protests over an inquiry into a huge blast at the city’s port last year. 
+ <p class="updated_time"> 11:22 AM CT, Oct. 14 </p> 
+ [Norway attack: Witness describes hearing 'thunk sound' of weapon](https://www.bbc.co.uk/news/world-europe-58910059?at_medium=RSS&at_campaign=KARANGA) BBC: Residents in Kongsberg react to the bow and arrow attack in their neighbourhood. 
  <p class="updated_time"> 11:20 AM CT, Oct. 14 </p> 
  [Henrietta Lacks, Whose Cells Were Taken Without Her Consent, Is Honored by W.H.O.](https://www.nytimes.com/2021/10/13/science/henrietta-lacks-cells-who.html) NYT: In a ceremony in Geneva, the World Health Organization presented an award to the family of Ms. Lacks, whose cancer cells led to world-changing advances in medical and scientific research. 
  <p class="updated_time"> 11:18 AM CT, Oct. 14 </p> 
  [LinkedIn to End Service in China, Citing ‘Challenging’ Environment](https://www.nytimes.com/2021/10/14/technology/linkedin-china-microsoft.html) NYT: The Microsoft-owned service had censored posts in China, in compliance with the country’s laws, to operate there. 
  <p class="updated_time"> 11:14 AM CT, Oct. 14 </p> 
  [‘Lurching Between Crisis and Complacency’: Was This Our Last Covid Surge?](https://www.nytimes.com/2021/10/14/health/coronavirus-delta-surge.html) NYT: Rising immunity and modest changes in behavior may explain why cases are declining, but much remains unknown, scientists say. 
- <p class="updated_time"> 11:14 AM CT, Oct. 14 </p> 
- [Norway Bow-and-Arrow Rampage Treated as Apparent Terrorism Attack](https://www.nytimes.com/2021/10/14/world/europe/norway-bow-and-arrow-attack.html) NYT: The police said that they had previously contacted the suspect, a 37-year-old Danish citizen who is believed to have killed five people, over concerns that he had been radicalized. 
  <p class="updated_time"> 11:07 AM CT, Oct. 14 </p> 
  [Women taken from Congo sue Belgium over forced separations](https://www.bbc.co.uk/news/world-europe-58903939?at_medium=RSS&at_campaign=KARANGA) BBC: They were taken from their black mothers during the colonial era because of their skin colour. 
  <p class="updated_time"> 10:56 AM CT, Oct. 14 </p> 
@@ -48,6 +56,8 @@ permalink: /charts/news/
  [Taiwan Building Fire Kills at Least 46](https://www.nytimes.com/2021/10/14/world/asia/taiwan-apartment-fire.html) NYT: Dozens more were injured after a blaze broke out at a 13-story building in the southern port city of Kaohsiung. 
  <p class="updated_time"> 08:05 AM CT, Oct. 14 </p> 
  [Frida Kahlo, Aztec Gods: Can Art Lift Up a Poor Neighborhood?](https://www.nytimes.com/2021/10/14/world/americas/mexico-city-iztapalapa-murals.html) NYT: A new cableway and hundreds of giant murals have brightened lives in Iztapalapa, Mexico City’s most populous neighborhood, but poverty and attacks against women are still pervasive. 
+ <p class="updated_time"> 07:42 AM CT, Oct. 14 </p> 
+ [U.S. Aims to Resume Regular Evacuation Flights From Afghanistan](https://www.wsj.com/articles/u-s-to-resume-evacuation-flights-from-afghanistan-11634212800) WSJ: American citizens, residents and some Afghan visa applicants would qualify to fly on the U.S.-sponsored flights. 
  <p class="updated_time"> 07:40 AM CT, Oct. 14 </p> 
  [Moderna and J.& J. Boosters: What Are the Next Steps? ](https://www.nytimes.com/2021/10/14/us/covid-booster-vaccines-fda.html) NYT: Further steps will be required at the F.D.A. and at the C.D.C., in a process that ends with the states. 
  <p class="updated_time"> 07:00 AM CT, Oct. 14 </p> 
@@ -62,8 +72,8 @@ permalink: /charts/news/
  [Regeni murder: Egyptians go on trial for Italian student's murder](https://www.bbc.co.uk/news/world-europe-58894878?at_medium=RSS&at_campaign=KARANGA) BBC: Giulio Regeni was doing research for a Cambridge PhD when his body was found in a ditch near Cairo. 
  <p class="updated_time"> 05:31 AM CT, Oct. 14 </p> 
  [North Korean Soldiers Lie Shirtless on Broken Glass](https://www.nytimes.com/2021/10/14/world/asia/north-korea-propaganda-military-broken-glass.html) NYT: The country has never been known for its subtlety, and martial-art stunts have long been a mainstay of its  propaganda, designed to stoke national pride and instill fear in enemies. 
- <p class="updated_time"> 05:07 AM CT, Oct. 14 </p> 
- [U.S. Aims to Resume Regular Evacuation Flights From Afghanistan](https://www.wsj.com/articles/u-s-to-resume-evacuation-flights-from-afghanistan-11634212800) WSJ: American citizens, residents and some Afghan visa applicants would qualify to fly on the U.S.-sponsored flights. 
+ <p class="updated_time"> 05:19 AM CT, Oct. 14 </p> 
+ [Giulio Regeni Murder Trial Opens in Italy With Egyptian Security Officials Absent](https://www.wsj.com/articles/giulio-regeni-murder-trial-opens-in-italy-with-egyptian-security-officials-absent-11634221189) WSJ: A trial of four Egyptian security officials charged with the kidnapping, torture and killing of an Italian student opened, the first time Egyptian officials have been prosecuted abroad for crimes that human rights groups say have been committed on a large scale in the north African country in recent years. 
  <p class="updated_time"> 05:00 AM CT, Oct. 14 </p> 
  [Kaohsiung: Firefighters battle Taiwan tower block blaze](https://www.bbc.co.uk/news/world-asia-58909907?at_medium=RSS&at_campaign=KARANGA) BBC: At least 46 people have been killed in a fire at a tower block in the city of Kaohsiung, southern Taiwan. 
  <p class="updated_time"> 04:36 AM CT, Oct. 14 </p> 
@@ -76,8 +86,6 @@ permalink: /charts/news/
  [Turkey's Erdogan Fires Central Bank Officials, Fueling Economic Uncertainty](https://www.wsj.com/articles/turkeys-erdogan-fires-central-bank-officials-fueling-economic-uncertainty-11634209321) WSJ: The lira fell to record lows after the president’s latest intervention at the bank, which comes as the Turkish public struggles with devalued wages and a rising cost of basic goods like food. 
  <p class="updated_time"> 02:00 AM CT, Oct. 14 </p> 
  [Border With Canada to Open, Businesses 'Could Not Be Happier'](https://www.nytimes.com/2021/10/14/nyregion/us-canada-border.html) NYT: Businesses along New York State’s northern border were celebrating the news that fully vaccinated Canadians would soon be allowed into the United States again. 
- <p class="updated_time"> 01:59 AM CT, Oct. 14 </p> 
- [Why China's climate policy matters to us all](https://www.bbc.co.uk/news/world-asia-china-57483492?at_medium=RSS&at_campaign=KARANGA) BBC: The global battle against climate change is likely to be won or lost in China. 
  <p class="updated_time"> 01:14 AM CT, Oct. 14 </p> 
  [What Is the Northern Ireland Protocol?](https://www.nytimes.com/article/uk-northern-ireland-protocol-eu.html) NYT: Britain is demanding an end to post-Brexit rules known as the Northern Ireland protocol. The European Union sees the rules as a key part of protecting its single market. 
  <p class="updated_time"> 11:36 PM CT, Oct. 13 </p> 
@@ -88,8 +96,6 @@ permalink: /charts/news/
  [Vietnam: Owners heartbroken after 12 dogs killed over Covid](https://www.bbc.co.uk/news/world-asia-58894320?at_medium=RSS&at_campaign=KARANGA) BBC: The couple won the internet in Vietnam with their love for their pets. 
  <p class="updated_time"> 10:08 PM CT, Oct. 13 </p> 
  [U.K. Agency Issues Climate Change Warning Before U.N. Summit](https://www.nytimes.com/2021/10/13/world/europe/uk-adapt-die-climate-change.html) NYT: With more extreme weather events expected to bring floods and droughts, the body urged world leaders to focus on mitigating the effects of global warming. 
- <p class="updated_time"> 08:57 PM CT, Oct. 13 </p> 
- [China's Factory-Gate Prices Rise at Record Pace](https://www.wsj.com/articles/chinas-factory-gate-prices-rise-at-record-pace-11634191041) WSJ: Surging prices of coal and other commodities pushed up the country’s inflation to the highest level since 1996, dimming hope it would ease globally in the near term. 
  <p class="updated_time"> 08:26 PM CT, Oct. 13 </p> 
  [How Éric Zemmour Is Turning French Politics Upside Down ](https://www.nytimes.com/2021/10/12/world/europe/eric-zemmour-macron-france-election.html) NYT: Éric Zemmour, an anti-immigrant writer and TV commentator, is surging in opinion polls before presidential elections next year — and he is not yet a candidate. 
  <p class="updated_time"> 07:51 PM CT, Oct. 13 </p> 
@@ -142,8 +148,6 @@ permalink: /charts/news/
  [Amid U.S.-China Chill, Harvard Moves a Top Language Program to Taiwan](https://www.nytimes.com/2021/10/13/world/asia/harvard-chinese-program-taiwan.html) NYT: A university spokesman said the move out of Beijing had long been planned. The program’s director cited a perceived lack of friendliness from the host institution. 
  <p class="updated_time"> 01:50 AM CT, Oct. 13 </p> 
  [U.K. Escalates Dispute With E.U. Over Northern Ireland](https://www.nytimes.com/2021/10/12/world/europe/uk-eu-northern-ireland-protocol.html) NYT: Britain’s Brexit minister is demanding an overhaul of an agreement on trade rules for Northern Ireland. 
- <p class="updated_time"> 01:30 AM CT, Oct. 13 </p> 
- [North Korea: Soldiers smash bricks, bend iron rods in combat display](https://www.bbc.co.uk/news/world-asia-58894411?at_medium=RSS&at_campaign=KARANGA) BBC: The display of force was put on for leader Kim Jong-un at a defence exhibition. 
  <p class="updated_time"> 12:29 AM CT, Oct. 13 </p> 
  [Your Wednesday Briefing](https://www.nytimes.com/2021/10/12/briefing/china-housing-evergrande-flooding-india-law.html) NYT: China’s home buyers are frustrated. 
  <p class="updated_time"> 11:10 PM CT, Oct. 12 </p> 
@@ -152,8 +156,6 @@ permalink: /charts/news/
  [As Floods Ravage China, 14 Die After Bus Falls Off Bridge](https://www.nytimes.com/2021/10/12/world/asia/china-bus-flooding-dead.html) NYT: The casualties come amid violent inundations in the country that have left a total of at least 29 people dead and displaced more than 120,000 across northern areas. 
  <p class="updated_time"> 07:29 PM CT, Oct. 12 </p> 
  [E.U. Pledges $1.15 Billion in Afghan Aid as U.S. Talks to Taliban](https://www.nytimes.com/2021/10/12/us/politics/afghan-aid-european-union-biden.html) NYT: Europe and America are offering stopgap humanitarian aid for a country on the brink of collapse, but larger decisions about the new Taliban government remain on hold. 
- <p class="updated_time"> 07:14 PM CT, Oct. 12 </p> 
- [The Body Collector of Spain: When Migrants Die at Sea, He Gets Them Home](https://www.nytimes.com/2021/10/12/world/europe/spain-migrants-funeral-home.html) NYT: Martín Zamora, the owner of a funeral parlor near Gibraltar, has found an unusual line of business among the relatives of those who drown trying to reach Europe. 
  <p class="updated_time"> 07:07 PM CT, Oct. 12 </p> 
  [E.U. Plans $1.15 Billion in Aid to Stabilize Afghanistan Region](https://www.nytimes.com/2021/10/12/world/asia/afghanistan-european-union-aid.html) NYT: “We need to do it fast,” a European leader declared, announcing an aid package for Afghanistan and its neighbors. 
  <p class="updated_time"> 05:24 PM CT, Oct. 12 </p> 
@@ -178,8 +180,6 @@ permalink: /charts/news/
  [The New Jersey’s governor’s race puts mandates to a political test.](https://www.nytimes.com/2021/10/12/world/the-new-jerseys-governors-race-puts-mandates-to-a-political-test.html) NYT: NA 
  <p class="updated_time"> 05:19 AM CT, Oct. 12 </p> 
  [Covid and Age](https://www.nytimes.com/2021/10/12/briefing/covid-age-risk-infection-vaccine.html) NYT: An unvaccinated child is at less risk of serious Covid illness than a vaccinated 70-year-old. 
- <p class="updated_time"> 04:00 AM CT, Oct. 12 </p> 
- [Thailand May Allow Vaccinated U.S. Visitors to Skip Quarantine](https://www.nytimes.com/2021/10/12/world/thailand-reopening-tourism.html) NYT: A new plan would lift travel restrictions for vaccinated travelers from 10 countries, including the U.S., provided they test negative for the virus. 
  <p class="updated_time"> 05:01 AM CT, Oct. 11 </p> 
  [Climate change: Is the UK on track to meet its targets?](https://www.bbc.co.uk/news/58160547?at_medium=RSS&at_campaign=KARANGA) BBC: With weeks to go until the UK hosts a global climate summit, is the government on track to meet its own commitments? 
  <p class="updated_time"> 05:18 AM CT, Sep. 24 </p> 
