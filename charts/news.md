@@ -6,8 +6,14 @@ permalink: /charts/news/
 
 ## World News
 
- <p class="updated_time"> 11:14 AM CT, Oct. 14 </p> 
+ <p class="updated_time"> 11:34 AM CT, Oct. 14 </p> 
+ [Newly Discovered Bat Viruses Give Hints to Covid’s Origins](https://www.nytimes.com/2021/10/14/science/bat-coronaviruses-lab-leak.html) NYT: Coronaviruses discovered in Laotian bats are surprisingly adept at infecting human cells, showing that such deadly features can indeed evolve outside of a lab. 
+ <p class="updated_time"> 11:33 AM CT, Oct. 14 </p> 
  [Live Updates: Beirut Rocked by Worst Sectarian Fighting in Years](https://www.nytimes.com/live/2021/10/14/world/beirut-lebanon-clashes) NYT: With Lebanon mired in economic collapse and political paralysis, clashes left at least six dead and dozens wounded. The violence came amid protests over an inquiry into a huge blast at the city’s port last year. 
+ <p class="updated_time"> 11:20 AM CT, Oct. 14 </p> 
+ [Henrietta Lacks, Whose Cells Were Taken Without Her Consent, Is Honored by W.H.O.](https://www.nytimes.com/2021/10/13/science/henrietta-lacks-cells-who.html) NYT: In a ceremony in Geneva, the World Health Organization presented an award to the family of Ms. Lacks, whose cancer cells led to world-changing advances in medical and scientific research. 
+ <p class="updated_time"> 11:18 AM CT, Oct. 14 </p> 
+ [LinkedIn to End Service in China, Citing ‘Challenging’ Environment](https://www.nytimes.com/2021/10/14/technology/linkedin-china-microsoft.html) NYT: The Microsoft-owned service had censored posts in China, in compliance with the country’s laws, to operate there. 
  <p class="updated_time"> 11:14 AM CT, Oct. 14 </p> 
  [‘Lurching Between Crisis and Complacency’: Was This Our Last Covid Surge?](https://www.nytimes.com/2021/10/14/health/coronavirus-delta-surge.html) NYT: Rising immunity and modest changes in behavior may explain why cases are declining, but much remains unknown, scientists say. 
  <p class="updated_time"> 11:14 AM CT, Oct. 14 </p> 
@@ -16,8 +22,6 @@ permalink: /charts/news/
  [Women taken from Congo sue Belgium over forced separations](https://www.bbc.co.uk/news/world-europe-58903939?at_medium=RSS&at_campaign=KARANGA) BBC: They were taken from their black mothers during the colonial era because of their skin colour. 
  <p class="updated_time"> 10:56 AM CT, Oct. 14 </p> 
  [Squid Game Ahead? No, Just Directions, British Police Explain](https://www.nytimes.com/2021/10/13/world/europe/squid-game-road-sign.html) NYT: The police in England clarified that a highway sign featuring symbols that also appear on the hit Netflix series merely indicated a detour. 
- <p class="updated_time"> 10:50 AM CT, Oct. 14 </p> 
- [LinkedIn to End Service in China, Citing ‘Challenging’ Environment](https://www.nytimes.com/2021/10/14/technology/linkedin-china-microsoft.html) NYT: The Microsoft-owned service had censored posts in China, in compliance with the country’s laws, to operate there. 
  <p class="updated_time"> 10:48 AM CT, Oct. 14 </p> 
  [Kongsberg: Bow and arrow attack appears to be terrorism - officials](https://www.bbc.co.uk/news/world-europe-58910794?at_medium=RSS&at_campaign=KARANGA) BBC: Security officials says the Kongsberg attack on Wednesday looks to have been a "terrorist act". 
  <p class="updated_time"> 10:38 AM CT, Oct. 14 </p> 
@@ -30,8 +34,6 @@ permalink: /charts/news/
  [Beirut port blast: Gunfire erupts at protest against judge leading probe](https://www.bbc.co.uk/news/world-middle-east-58901611?at_medium=RSS&at_campaign=KARANGA) BBC: At least six die as protesters come under fire, sending people fleeing for cover in the street. 
  <p class="updated_time"> 09:31 AM CT, Oct. 14 </p> 
  [British Museums Face Covid’s Long-Term Effects](https://www.nytimes.com/2021/10/14/arts/design/british-museums-recovery.html) NYT: Months of closures during the pandemic have caused financial havoc for art venues, and many expect to be strapped for years. At the Victoria and Albert Museum in London, the virus’s impact is clear. 
- <p class="updated_time"> 09:28 AM CT, Oct. 14 </p> 
- [Newly Discovered Bat Viruses Give Hints to Covid’s Origins](https://www.nytimes.com/2021/10/14/science/bat-coronaviruses-lab-leak.html) NYT: Coronaviruses discovered in Laotian bats are surprisingly adept at infecting human cells, showing that such deadly features can indeed evolve outside of a lab. 
  <p class="updated_time"> 09:20 AM CT, Oct. 14 </p> 
  [Nigeria confirms death of Iswap leader Abu Musab al-Barnawi](https://www.bbc.co.uk/news/world-africa-58576635?at_medium=RSS&at_campaign=KARANGA) BBC: Abu Musab al-Barnawi was the head of the West African branch of the Islamic State group. 
  <p class="updated_time"> 08:52 AM CT, Oct. 14 </p> 
@@ -108,8 +110,6 @@ permalink: /charts/news/
  [Violence surges in Pakistan's tribal belt as Taliban, IS-K go on attack](https://www.bbc.co.uk/news/world-asia-58891613?at_medium=RSS&at_campaign=KARANGA) BBC: The BBC reports from Pakistan's beleaguered tribal areas, which are seeing a surge in violence. 
  <p class="updated_time"> 05:16 PM CT, Oct. 13 </p> 
  [Covid Trend: Access to Liberties Increasingly Relies on Vaccination](https://www.nytimes.com/2021/10/12/world/countries-around-the-globe-turn-to-vaccine-mandates-to-fight-coronavirus.html) NYT: The number of activities available to the unvaccinated is shrinking, and the pressure to get shots is growing. 
- <p class="updated_time"> 05:11 PM CT, Oct. 13 </p> 
- [Henrietta Lacks, Whose Cells Were Taken Without Her Consent, Is Honored by W.H.O.](https://www.nytimes.com/2021/10/13/science/henrietta-lacks-cells-who.html) NYT: In a ceremony in Geneva, the World Health Organization presented an award to the family of Ms. Lacks, whose cancer cells led to world-changing advances in medical and scientific research. 
  <p class="updated_time"> 04:27 PM CT, Oct. 13 </p> 
  [Two More Guantánamo Detainees Are Approved for Release](https://www.nytimes.com/2021/10/13/us/politics/guantanamo-detainees-transfer.html) NYT: A board has now backed the release of 12 out of the 39 men remaining at the prison, but U.S. diplomats must first reach security agreements with destination countries. 
  <p class="updated_time"> 04:23 PM CT, Oct. 13 </p> 
