@@ -40,7 +40,7 @@ for (x in 1:nrow(world_news)) {
              world_news$clean_time[[x]],
              "</p>",
              "\n",
-             "-",world_news$item_md_link[[x]], 
+             world_news$item_md_link[[x]], 
              world_news$feed_plus_description[[x]],
              "\n")
   lines = paste(lines, line)
