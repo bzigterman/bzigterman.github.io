@@ -6,6 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 01:37 PM CT, Oct. 14 </p> 
+ [Frida Kahlo, Aztec Gods: Can Art Lift Up a Poor Neighborhood?](https://www.nytimes.com/2021/10/14/world/americas/mexico-city-iztapalapa-murals.html) NYT: A new cableway and hundreds of giant murals have brightened lives in Iztapalapa, Mexico City’s most populous neighborhood, but poverty and attacks against women are still pervasive. 
  <p class="updated_time"> 01:27 PM CT, Oct. 14 </p> 
  [As Western Oil Giants Cut Production, State-Owned Companies Step Up](https://www.nytimes.com/2021/10/14/business/energy-environment/oil-production-state-owned-companies.html) NYT: In the Middle East, Africa and Latin America, government-owned energy companies are increasing oil and natural gas production as U.S. and European companies pare supply because of climate concerns. 
  <p class="updated_time"> 01:26 PM CT, Oct. 14 </p> 
@@ -16,8 +18,6 @@ permalink: /charts/news/
  [Norway Bow-and-Arrow Rampage Treated as Apparent Terrorism Attack](https://www.nytimes.com/2021/10/14/world/europe/norway-bow-and-arrow-attack.html) NYT: The police said that they had previously contacted the suspect, a 37-year-old Danish citizen who is believed to have killed five people, over concerns that he had been radicalized. 
  <p class="updated_time"> 01:04 PM CT, Oct. 14 </p> 
  [Most Covid Cases in Africa Go Undetected, W.H.O. Says](https://www.nytimes.com/2021/10/14/world/covid-africa-who.html) NYT: “Now is the time to go on the offensive against Covid-19, and work with local communities to break transmission chains and stop wider outbreaks from happening,” Dr. Matshidiso Moeti said. 
- <p class="updated_time"> 12:36 PM CT, Oct. 14 </p> 
- [Frida Kahlo, Aztec Gods: Can Art Lift Up a Poor Neighborhood?](https://www.nytimes.com/2021/10/14/world/americas/mexico-city-iztapalapa-murals.html) NYT: A new cableway and hundreds of giant murals have brightened lives in Iztapalapa, Mexico City’s most populous neighborhood, but poverty and attacks against women are still pervasive. 
  <p class="updated_time"> 12:31 PM CT, Oct. 14 </p> 
  [Biden to Meet With Kenya’s President Amid Crisis in Ethiopia](https://www.nytimes.com/2021/10/14/us/politics/biden-kenya-kenyatta-ethiopia.html) NYT: The two leaders are expected to discuss the situation in the Tigray region in northern Ethiopia, where fighters have been accused of atrocities against civilians. 
  <p class="updated_time"> 12:26 PM CT, Oct. 14 </p> 
@@ -52,6 +52,8 @@ permalink: /charts/news/
  [Afghanistan: Pakistan airline stops flights citing Taliban intimidation](https://www.bbc.co.uk/news/world-asia-58913855?at_medium=RSS&at_campaign=KARANGA) BBC: Pakistan International Airlines complains of "heavy-handedness" by the Taliban authorities. 
  <p class="updated_time"> 09:43 AM CT, Oct. 14 </p> 
  [U.S. to Open Canada and Mexico Borders for Vaccinated Travelers](https://www.nytimes.com/2021/10/12/us/politics/us-canada-mexico-borders-open.html) NYT: Opening the borders with Mexico and Canada, where crossing for nonessential travel has been barred for 19 months, will reconnect neighbors and provide a reprieve for businesses. 
+ <p class="updated_time"> 09:32 AM CT, Oct. 14 </p> 
+ [Norway Bow-and-Arrow Attack Investigated as Terrorism](https://www.wsj.com/articles/norway-bow-and-arrow-suspect-had-been-reported-for-radicalization-11634206917) WSJ: A Danish convert to Islam who was suspected of having been radicalized was charged with killing five people and injuring two in a bow-and-arrow attack in Norway, with authorities investigating it as terrorism. 
  <p class="updated_time"> 09:31 AM CT, Oct. 14 </p> 
  [British Museums Face Covid’s Long-Term Effects](https://www.nytimes.com/2021/10/14/arts/design/british-museums-recovery.html) NYT: Months of closures during the pandemic have caused financial havoc for art venues, and many expect to be strapped for years. At the Victoria and Albert Museum in London, the virus’s impact is clear. 
  <p class="updated_time"> 09:20 AM CT, Oct. 14 </p> 
@@ -82,8 +84,6 @@ permalink: /charts/news/
  [North Korean Soldiers Lie Shirtless on Broken Glass](https://www.nytimes.com/2021/10/14/world/asia/north-korea-propaganda-military-broken-glass.html) NYT: The country has never been known for its subtlety, and martial-art stunts have long been a mainstay of its  propaganda, designed to stoke national pride and instill fear in enemies. 
  <p class="updated_time"> 05:00 AM CT, Oct. 14 </p> 
  [Kaohsiung: Firefighters battle Taiwan tower block blaze](https://www.bbc.co.uk/news/world-asia-58909907?at_medium=RSS&at_campaign=KARANGA) BBC: At least 46 people have been killed in a fire at a tower block in the city of Kaohsiung, southern Taiwan. 
- <p class="updated_time"> 04:36 AM CT, Oct. 14 </p> 
- [Norway Bow-and-Arrow Attack Investigated as Terrorism](https://www.wsj.com/articles/norway-bow-and-arrow-suspect-had-been-reported-for-radicalization-11634206917) WSJ: A Danish convert to Islam who was suspected of having been radicalized was charged with killing five people and injuring two in a bow-and-arrow attack in Norway, with authorities investigating it as terrorism. 
  <p class="updated_time"> 04:19 AM CT, Oct. 14 </p> 
  [Taiwan Fire in Aging Building Kills More Than 40](https://www.wsj.com/articles/taiwan-fire-in-aging-building-kills-more-than-40-11634217587) WSJ: At least 46 people were killed and more than 40 others injured after fire engulfed a partially abandoned 13-story mixed-use building in southern Taiwan, according to local authorities. 
  <p class="updated_time"> 04:08 AM CT, Oct. 14 </p> 
