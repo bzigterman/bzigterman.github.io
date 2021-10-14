@@ -36,12 +36,13 @@ world_news <- full_join(nyt, wsj) %>%
 # create list ----
 lines <- c()
 for (x in 1:nrow(world_news)) {
-  line=paste("-",world_news$item_md_link[[x]], 
-        world_news$feed_plus_description[[x]],"\n",
-        "<p class=\"updated_time\">",
-        world_news$clean_time[[x]],
-        "</p>",
-        "\n")
+  line=paste("<p class=\"updated_time\">",
+             world_news$clean_time[[x]],
+             "</p>",
+             "\n",
+             "-",world_news$item_md_link[[x]], 
+             world_news$feed_plus_description[[x]],
+             "\n")
   lines = paste(lines, line)
 }
 lines 
