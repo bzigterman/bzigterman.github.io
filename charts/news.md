@@ -6,6 +6,7 @@ permalink: /charts/news/
 
 ## World News
 
+ - [Masten Wanjala: Child killer escapes from Kenya police custody](https://www.bbc.co.uk/news/world-africa-58907441?at_medium=RSS&at_campaign=KARANGA) BBC: A manhunt is under way for Masten Wanjala who confessed to killing more than 10 children. 
  - [U.K. Agency Issues Climate Change Warning Before U.N. Summit](https://www.nytimes.com/2021/10/13/world/europe/uk-adapt-die-climate-change.html) NYT: With more extreme weather events expected to bring floods and droughts, the body urged world leaders to focus on mitigating the effects of global warming. 
  - [Kongsberg: Five dead in Norway bow and arrow attack](https://www.bbc.co.uk/news/world-europe-58906165?at_medium=RSS&at_campaign=KARANGA) BBC: Police say a man armed with a bow and arrows killed five people and injured two more in Kongsberg. 
  - [Gov. Greg Abbott Bars Vaccine Mandates in Texas](https://www.nytimes.com/2021/10/11/us/texas-governor-covid-vaccine-mandates.html) NYT: Gov. Greg Abbott’s latest executive order includes private employers, which had been exempt from previous edicts against mandates. 
@@ -47,7 +48,6 @@ permalink: /charts/news/
  - [Russia denies weaponising energy amid Europe gas crisis](https://www.bbc.co.uk/news/world-europe-58896847?at_medium=RSS&at_campaign=KARANGA) BBC: The Russian president says his country is not to blame for high gas prices elsewhere in Europe. 
  - [Lucas Hernandez: France defender gets six-month jail term](https://www.bbc.co.uk/news/world-europe-58897147?at_medium=RSS&at_campaign=KARANGA) BBC: A Spanish court issued the sentence after he broke a restraining order in 2017. 
  - [Britain Needs Truckers Fast. We Went to a School Where They Train.](https://www.nytimes.com/2021/10/13/world/europe/truck-drivers-training-britain.html) NYT: Britain has experienced shortages of gasoline and some foods because of too few drivers. At a military barracks in South London, trainees are learning how to maneuver trucks through streets and highways. 
- - [Star Trek's William Shatner blasts into space on Blue Origin rocket](https://www.bbc.co.uk/news/science-environment-58885555?at_medium=RSS&at_campaign=KARANGA) BBC: The actor who played Captain Kirk in the classic TV show is the oldest person ever to go to space. 
  - [Global Climate Pledges Off Track to Meet Paris Targets, IEA Says](https://www.wsj.com/articles/governments-climate-pledges-not-enough-to-meet-paris-agreement-targets-iea-says-11634097601) WSJ: Whether lawmakers continue existing policies or make good on recent promises, rising temperatures will exceed the limit global leaders committed to in the Paris Agreement, the International Energy Agency said. 
  - [Blaze hits site of Egypt's top film festival](https://www.bbc.co.uk/news/world-middle-east-58901606?at_medium=RSS&at_campaign=KARANGA) BBC: A fire broke out at the site of Egypt's top film festival a day before it is due to start. 
  - [North Korea: Vulnerable at risk of starvation, UN expert says](https://www.bbc.co.uk/news/world-asia-58901817?at_medium=RSS&at_campaign=KARANGA) BBC: A UN expert has urged for international sanctions to be lifted to prevent a food crisis. 
