@@ -6,12 +6,12 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 02:32 PM CT, Oct. 14 </p> 
+ [Live Updates: Sectarian Gun Battles in Beirut Leave Six Dead](https://www.nytimes.com/live/2021/10/14/world/beirut-lebanon-clashes) NYT: Gunfire erupted at protests over an inquiry into last year’s port explosion, with Lebanon mired in economic collapse and political paralysis. 
  <p class="updated_time"> 02:21 PM CT, Oct. 14 </p> 
  [Moderna and J.& J. Boosters: What Are the Next Steps? ](https://www.nytimes.com/2021/10/14/us/covid-booster-vaccines-fda.html) NYT: Further steps will be required at the F.D.A. and at the C.D.C., in a process that ends with the states. 
  <p class="updated_time"> 02:16 PM CT, Oct. 14 </p> 
  [LinkedIn to End Service in China, Citing ‘Challenging’ Environment](https://www.nytimes.com/2021/10/14/technology/linkedin-china-microsoft.html) NYT: The Microsoft-owned service had censored posts in China, in compliance with the country’s laws, to operate there. 
- <p class="updated_time"> 01:51 PM CT, Oct. 14 </p> 
- [Live Updates: Sectarian Gun Battles in Beirut Leave Six Dead](https://www.nytimes.com/live/2021/10/14/world/beirut-lebanon-clashes) NYT: Gunfire erupted at protests over an inquiry into last year’s port explosion, with Lebanon mired in economic collapse and political paralysis. 
  <p class="updated_time"> 01:47 PM CT, Oct. 14 </p> 
  [U.S. Regains Seat at U.N. Human Rights Council, 3 Years After Quitting](https://www.nytimes.com/2021/10/14/world/un-us-human-rights-council.html) NYT: The Trump administration called the 47-nation council hypocritical and said it was vilifying Israel. The Biden administration says the U.S. can be more effective as a member. 
  <p class="updated_time"> 01:37 PM CT, Oct. 14 </p> 
