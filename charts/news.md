@@ -53,7 +53,7 @@ permalink: /charts/news/
  <p class="updated_time"> 01:23 PM CT, Oct. 14 </p> 
  [Gunfights Rock Beirut Following Hezbollah Protest Against Blast Probe](https://www.wsj.com/articles/gunfights-rock-beirut-following-hezbollah-protest-against-blast-probe-11634213261) WSJ: Sectarian clashes turned neighborhoods of Beirut into a free-fire zone, killing six and reviving memories of Lebanon’s civil war. 
  <p class="updated_time"> 12:26 PM CT, Oct. 14 </p> 
- [Beirut port blast: Gunfire erupts at protest against judge leading probe](https://www.bbc.co.uk/news/world-middle-east-58901611?at_medium=RSS&at_campaign=KARANGA) BBC: At least six die as protesters come under fire, sending people fleeing for cover in the street. 
+ [Beirut port blast: Gunfire erupts at protest against judge leading probe](https://www.bbc.co.uk/news/world-middle-east-58901611?at_medium=RSS&at_campaign=KARANGA) BBC: At least six die as protesters come under fire, in some of Lebanon's worst violence in years. 
  <p class="updated_time"> 11:59 AM CT, Oct. 14 </p> 
  [Kongsberg: Bow and arrow attack appears to be terrorism - officials](https://www.bbc.co.uk/news/world-europe-58910794?at_medium=RSS&at_campaign=KARANGA) BBC: Security officials says the Kongsberg attack on Wednesday looks to have been a "terrorist act". 
  <p class="updated_time"> 11:51 AM CT, Oct. 14 </p> 
@@ -66,8 +66,6 @@ permalink: /charts/news/
  [Norway attack: Witness describes hearing 'thunk sound' of weapon](https://www.bbc.co.uk/news/world-europe-58910059?at_medium=RSS&at_campaign=KARANGA) BBC: Residents in Kongsberg react to the bow and arrow attack in their neighbourhood. 
  <p class="updated_time"> 11:20 AM CT, Oct. 14 </p> 
  [Henrietta Lacks, Whose Cells Were Taken Without Her Consent, Is Honored by W.H.O.](https://www.nytimes.com/2021/10/13/science/henrietta-lacks-cells-who.html) NYT: In a ceremony in Geneva, the World Health Organization presented an award to the family of Ms. Lacks, whose cancer cells led to world-changing advances in medical and scientific research. 
- <p class="updated_time"> 11:07 AM CT, Oct. 14 </p> 
- [Women taken from DR Congo sue Belgium over forced separations](https://www.bbc.co.uk/news/world-europe-58903939?at_medium=RSS&at_campaign=KARANGA) BBC: They were taken from their black mothers during the colonial era because of their skin colour. 
  <p class="updated_time"> 10:56 AM CT, Oct. 14 </p> 
  [Squid Game Ahead? No, Just Directions, British Police Explain](https://www.nytimes.com/2021/10/13/world/europe/squid-game-road-sign.html) NYT: The police in England clarified that a highway sign featuring symbols that also appear on the hit Netflix series merely indicated a detour. 
  <p class="updated_time"> 10:39 AM CT, Oct. 14 </p> 
