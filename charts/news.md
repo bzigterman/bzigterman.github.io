@@ -6,9 +6,9 @@ permalink: /charts/news/
 
 ## World News
 
+ - [Masten Wanjala: Child killer escapes from Kenya police custody](https://www.bbc.co.uk/news/world-africa-58907441?at_medium=RSS&at_campaign=KARANGA) BBC: A manhunt is under way for Masten Wanjala who confessed to killing more than 10 children. 
  - [Your Thursday Briefing](https://www.nytimes.com/2021/10/13/briefing/populism-europe-norway-attack.html) NYT: A blow for populism in Europe. 
  - [Vietnam: Owners heartbroken after 12 dogs killed over Covid](https://www.bbc.co.uk/news/world-asia-58894320?at_medium=RSS&at_campaign=KARANGA) BBC: The couple won the internet in Vietnam with their love for their pets. 
- - [Masten Wanjala: Child killer escapes from Kenya police custody](https://www.bbc.co.uk/news/world-africa-58907441?at_medium=RSS&at_campaign=KARANGA) BBC: A manhunt is under way for Masten Wanjala who confessed to killing more than 10 children. 
  - [U.K. Agency Issues Climate Change Warning Before U.N. Summit](https://www.nytimes.com/2021/10/13/world/europe/uk-adapt-die-climate-change.html) NYT: With more extreme weather events expected to bring floods and droughts, the body urged world leaders to focus on mitigating the effects of global warming. 
  - [Kongsberg: Five dead in Norway bow and arrow attack](https://www.bbc.co.uk/news/world-europe-58906165?at_medium=RSS&at_campaign=KARANGA) BBC: Police say a man armed with a bow and arrows killed five people and injured two more in Kongsberg. 
  - [Gov. Greg Abbott Bars Vaccine Mandates in Texas](https://www.nytimes.com/2021/10/11/us/texas-governor-covid-vaccine-mandates.html) NYT: Gov. Greg Abbott’s latest executive order includes private employers, which had been exempt from previous edicts against mandates. 
