@@ -6,18 +6,20 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 05:35 PM CT, Oct. 14 </p> 
+ [Biden Meets With Kenya’s President Amid Crisis in Ethiopia](https://www.nytimes.com/2021/10/14/us/politics/biden-kenya-kenyatta-ethiopia.html) NYT: The two leaders were also expected to discuss the escalating humanitarian crisis in the Tigray region of Ethiopia, where fighters have been accused of atrocities against civilians. 
+ <p class="updated_time"> 05:30 PM CT, Oct. 14 </p> 
+ [Robert Durst: US millionaire sentenced to life for murder](https://www.bbc.co.uk/news/world-us-canada-58919749?at_medium=RSS&at_campaign=KARANGA) BBC: Robert Durst was convicted of killing his best friend in 2000 and is a suspect in two other deaths. 
  <p class="updated_time"> 05:16 PM CT, Oct. 14 </p> 
  [Deadly Clashes in Beirut Escalate Fears Over Lebanon’s Dysfunction](https://www.nytimes.com/2021/10/14/world/middleeast/beirut-lebanon.html) NYT: The fighting further traumatized the small Mediterranean country, a patchwork of sects that has tumbled into an abyss of devastating political and economic crises. 
- <p class="updated_time"> 05:12 PM CT, Oct. 14 </p> 
- [Beirut News: Sectarian Gun Battles Leave Six Dead](https://www.nytimes.com/live/2021/10/14/world/beirut-lebanon-clashes) NYT: Gunfire erupted at protests over an inquiry into last year’s port explosion, with Lebanon mired in economic collapse and political paralysis. 
  <p class="updated_time"> 05:10 PM CT, Oct. 14 </p> 
  [U.S. Regains Seat at U.N. Human Rights Council, 3 Years After Quitting](https://www.nytimes.com/2021/10/14/world/un-us-human-rights-council.html) NYT: The Trump administration called the 47-nation council hypocritical and said it was vilifying Israel. The Biden administration says the U.S. can be more effective as a member. 
- <p class="updated_time"> 05:10 PM CT, Oct. 14 </p> 
- [Robert Durst: US millionaire sentenced to life for murder](https://www.bbc.co.uk/news/world-us-canada-58919749?at_medium=RSS&at_campaign=KARANGA) BBC: Robert Durst was convicted of killing his best friend in 2000 and is a suspect in two other deaths. 
  <p class="updated_time"> 05:06 PM CT, Oct. 14 </p> 
  [Frida Kahlo, Aztec Gods: Can Art Lift Up a Poor Neighborhood?](https://www.nytimes.com/2021/10/14/world/americas/mexico-city-iztapalapa-murals.html) NYT: A new cableway and hundreds of giant murals have brightened lives in Iztapalapa, Mexico City’s most populous neighborhood, but poverty and attacks against women are still pervasive. 
  <p class="updated_time"> 04:54 PM CT, Oct. 14 </p> 
  [Agnes Tirop: Husband arrested in Kenya after athlete's death](https://www.bbc.co.uk/news/world-africa-58919391?at_medium=RSS&at_campaign=KARANGA) BBC: Record-breaking long-distance runner Agnes Tirop was found stabbed to death at her home on Wednesday. 
+ <p class="updated_time"> 04:36 PM CT, Oct. 14 </p> 
+ [Regeni murder: Trial of Egyptians for Italian student's murder suspended](https://www.bbc.co.uk/news/world-europe-58894878?at_medium=RSS&at_campaign=KARANGA) BBC: A judge says the four Egyptians may not know they have been charged over Giulio Regeni's death. 
  <p class="updated_time"> 04:29 PM CT, Oct. 14 </p> 
  [With a new Michelin guide, Moscow's best-kept culinary secrets are out](https://www.bbc.co.uk/news/world-europe-58920839?at_medium=RSS&at_campaign=KARANGA) BBC: Nine Moscow restaurants have received Michelin stars for their food - a prestigious industry award. 
  <p class="updated_time"> 04:18 PM CT, Oct. 14 </p> 
@@ -30,8 +32,6 @@ permalink: /charts/news/
  [Border With Canada to Open, Businesses 'Could Not Be Happier'](https://www.nytimes.com/2021/10/14/nyregion/us-canada-border.html) NYT: Businesses along New York State’s northern border were celebrating the news that fully vaccinated Canadians would soon be allowed into the United States again. 
  <p class="updated_time"> 03:39 PM CT, Oct. 14 </p> 
  [Your Friday Briefing](https://www.nytimes.com/2021/10/14/briefing/beirut-violence-taiwan-fire-biodiversity-goodall.html) NYT: Beirut protests turn violent. 
- <p class="updated_time"> 03:14 PM CT, Oct. 14 </p> 
- [Microsoft shutting down LinkedIn in China](https://www.bbc.co.uk/news/technology-58911297?at_medium=RSS&at_campaign=KARANGA) BBC: The company will offer a jobs-only site with no social-media elements, instead. 
  <p class="updated_time"> 03:09 PM CT, Oct. 14 </p> 
  [‘Lurching Between Crisis and Complacency’: Was This Our Last Covid Surge?](https://www.nytimes.com/2021/10/14/health/coronavirus-delta-surge.html) NYT: Rising immunity and modest changes in behavior may explain why cases are declining, but much remains unknown, scientists say. 
  <p class="updated_time"> 03:08 PM CT, Oct. 14 </p> 
@@ -44,12 +44,14 @@ permalink: /charts/news/
  [Moderna and J.& J. Boosters: What Are the Next Steps? ](https://www.nytimes.com/2021/10/14/us/covid-booster-vaccines-fda.html) NYT: Further steps will be required at the F.D.A. and at the C.D.C., in a process that ends with the states. 
  <p class="updated_time"> 02:16 PM CT, Oct. 14 </p> 
  [LinkedIn to End Service in China, Citing ‘Challenging’ Environment](https://www.nytimes.com/2021/10/14/technology/linkedin-china-microsoft.html) NYT: The Microsoft-owned service had censored posts in China, in compliance with the country’s laws, to operate there. 
+ <p class="updated_time"> 01:47 PM CT, Oct. 14 </p> 
+ [Steve Bannon: Congress plots criminal charge for former Trump aide](https://www.bbc.co.uk/news/world-us-canada-58919751?at_medium=RSS&at_campaign=KARANGA) BBC: Steve Bannon could face around one year in prison for not attending Capitol riot hearing. 
  <p class="updated_time"> 01:27 PM CT, Oct. 14 </p> 
  [As Western Oil Giants Cut Production, State-Owned Companies Step Up](https://www.nytimes.com/2021/10/14/business/energy-environment/oil-production-state-owned-companies.html) NYT: In the Middle East, Africa and Latin America, government-owned energy companies are increasing oil and natural gas production as U.S. and European companies pare supply because of climate concerns. 
  <p class="updated_time"> 01:24 PM CT, Oct. 14 </p> 
  [U.S. Antigovernment Groups Are Influencing the French Far Right](https://www.nytimes.com/2021/10/13/us/politics/france-far-right-extremists-qanon.html) NYT: The top French intelligence official, who is visiting Washington this week, said QAnon and other conspiracy theories were spreading to Europe. 
- <p class="updated_time"> 12:31 PM CT, Oct. 14 </p> 
- [Biden to Meet With Kenya’s President Amid Crisis in Ethiopia](https://www.nytimes.com/2021/10/14/us/politics/biden-kenya-kenyatta-ethiopia.html) NYT: The two leaders are expected to discuss the situation in the Tigray region in northern Ethiopia, where fighters have been accused of atrocities against civilians. 
+ <p class="updated_time"> 01:23 PM CT, Oct. 14 </p> 
+ [Gunfights Rock Beirut Following Hezbollah Protest Against Blast Probe](https://www.wsj.com/articles/gunfights-rock-beirut-following-hezbollah-protest-against-blast-probe-11634213261) WSJ: Sectarian clashes turned neighborhoods of Beirut into a free-fire zone, killing six and reviving memories of Lebanon’s civil war. 
  <p class="updated_time"> 12:26 PM CT, Oct. 14 </p> 
  [Beirut port blast: Gunfire erupts at protest against judge leading probe](https://www.bbc.co.uk/news/world-middle-east-58901611?at_medium=RSS&at_campaign=KARANGA) BBC: At least six die as protesters come under fire, sending people fleeing for cover in the street. 
  <p class="updated_time"> 11:59 AM CT, Oct. 14 </p> 
@@ -70,8 +72,6 @@ permalink: /charts/news/
  [Squid Game Ahead? No, Just Directions, British Police Explain](https://www.nytimes.com/2021/10/13/world/europe/squid-game-road-sign.html) NYT: The police in England clarified that a highway sign featuring symbols that also appear on the hit Netflix series merely indicated a detour. 
  <p class="updated_time"> 10:39 AM CT, Oct. 14 </p> 
  [Meteorite Crashes Through Ceiling and Lands on Woman’s Bed](https://www.nytimes.com/2021/10/14/world/canada/meteorite-bed.html) NYT: After a fireball streaked through the Canadian sky, Ruth Hamilton, of British Columbia, found a 2.8-pound rock the size of a large man’s fist near her pillow. 
- <p class="updated_time"> 10:14 AM CT, Oct. 14 </p> 
- [Gunfights Rock Beirut Following Hezbollah Protest Against Blast Probe](https://www.wsj.com/articles/gunfights-rock-beirut-following-hezbollah-protest-against-blast-probe-11634213261) WSJ: Sectarian clashes turned neighborhoods of Beirut into a free-fire zone, killing six and reviving memories of Lebanon’s civil wars. 
  <p class="updated_time"> 10:00 AM CT, Oct. 14 </p> 
  [U.S. Aims to Resume Evacuation Flights From Afghanistan](https://www.wsj.com/articles/u-s-to-resume-evacuation-flights-from-afghanistan-11634212800) WSJ: American citizens, residents and some Afghan visa applicants would qualify to fly on the U.S.-sponsored flights. 
  <p class="updated_time"> 09:55 AM CT, Oct. 14 </p> 
@@ -178,6 +178,8 @@ permalink: /charts/news/
  [Britain’s Covid Missteps Cost Thousands of Lives, Inquiry Finds](https://www.nytimes.com/2021/10/12/world/europe/uk-covid-deaths-inquiry.html) NYT: Prime Minister Boris Johnson’s slowness last year to impose a lockdown and institute widespread testing had tragic results, according to a parliamentary report. 
  <p class="updated_time"> 10:48 AM CT, Oct. 12 </p> 
  [Sally Rooney Declines to Sell Translation Rights to Israeli Publisher](https://www.nytimes.com/2021/10/12/books/sally-rooney-israel-translation.html) NYT: The author of “Beautiful World, Where Are You” turned down an offer from an Israeli publisher to translate the novel to Hebrew, citing her support for Palestinians “in their struggle for freedom, justice and equality.” 
+ <p class="updated_time"> 09:57 AM CT, Oct. 12 </p> 
+ [Narendra Modi's Use of Antiterror Law Draws Scrutiny From Courts](https://www.nytimes.com/2021/10/12/world/asia/modi-india-antiterror-law.html) NYT: India’s government under Prime Minister Narendra Modi has jailed thousands of people through a statute that critics say is aimed at silencing dissent. 
  <p class="updated_time"> 09:55 AM CT, Oct. 12 </p> 
  [One Woman Won a Nobel This Year. Quotas Aren’t the Answer, an Official Says.](https://www.nytimes.com/2021/10/12/world/nobel-prize-woman-gender-ethnicity.html) NYT: Only one of the 13 laureates this year was a woman, but the head of the Royal Swedish Academy of Sciences dismissed the idea of guaranteeing representation. 
  <p class="updated_time"> 05:01 AM CT, Oct. 11 </p> 
