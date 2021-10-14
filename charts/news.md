@@ -57,7 +57,7 @@ permalink: /charts/news/
  <p class="updated_time"> 10:14 AM CT, Oct. 14 </p> 
  [Gunfights Rock Beirut Following Hezbollah Protest Against Blast Probe](https://www.wsj.com/articles/gunfights-rock-beirut-following-hezbollah-protest-against-blast-probe-11634213261) WSJ: Sectarian clashes turned neighborhoods of Beirut into a free-fire zone, killing six and reviving memories of Lebanon’s civil wars. 
  <p class="updated_time"> 10:00 AM CT, Oct. 14 </p> 
- [U.S. Aims to Resume Regular Evacuation Flights From Afghanistan](https://www.wsj.com/articles/u-s-to-resume-evacuation-flights-from-afghanistan-11634212800) WSJ: American citizens, residents and some Afghan visa applicants would qualify to fly on the U.S.-sponsored flights. 
+ [U.S. Aims to Resume Evacuation Flights From Afghanistan](https://www.wsj.com/articles/u-s-to-resume-evacuation-flights-from-afghanistan-11634212800) WSJ: American citizens, residents and some Afghan visa applicants would qualify to fly on the U.S.-sponsored flights. 
  <p class="updated_time"> 09:55 AM CT, Oct. 14 </p> 
  [Afghanistan: Pakistan airline stops flights citing Taliban intimidation](https://www.bbc.co.uk/news/world-asia-58913855?at_medium=RSS&at_campaign=KARANGA) BBC: Pakistan International Airlines complains of "heavy-handedness" by the Taliban authorities. 
  <p class="updated_time"> 09:43 AM CT, Oct. 14 </p> 
