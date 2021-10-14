@@ -6,13 +6,13 @@ permalink: /charts/news/
 
 ## World News
 
+ - [Kongsberg: Five dead in Norway bow and arrow attack](https://www.bbc.co.uk/news/world-europe-58906165?at_medium=RSS&at_campaign=KARANGA) BBC: Police say a man armed with a bow and arrows killed five people and injured two more in Kongsberg. 
  - [Kyrie Irving Defends Decision on Vaccine After Being Benched](https://www.nytimes.com/2021/10/13/world/kyrie-irving-vaccine-benched-nets.html) NYT: The star, who is set to make $40 million this year, said he opposes vaccine mandates, saying nobody should be “forced” to do it. 
  - [Indonesia Covid: Slow start as Bali re-opens to foreign tourists](https://www.bbc.co.uk/news/world-asia-58907525?at_medium=RSS&at_campaign=KARANGA) BBC: The popular holiday destination has opened to some foreigners, but no international flights are scheduled. 
  - [Masten Wanjala: Child killer escapes from Kenya police custody](https://www.bbc.co.uk/news/world-africa-58907441?at_medium=RSS&at_campaign=KARANGA) BBC: A manhunt is under way for Masten Wanjala who confessed to killing more than 10 children. 
  - [Your Thursday Briefing](https://www.nytimes.com/2021/10/13/briefing/populism-europe-norway-attack.html) NYT: A blow for populism in Europe. 
  - [Vietnam: Owners heartbroken after 12 dogs killed over Covid](https://www.bbc.co.uk/news/world-asia-58894320?at_medium=RSS&at_campaign=KARANGA) BBC: The couple won the internet in Vietnam with their love for their pets. 
  - [U.K. Agency Issues Climate Change Warning Before U.N. Summit](https://www.nytimes.com/2021/10/13/world/europe/uk-adapt-die-climate-change.html) NYT: With more extreme weather events expected to bring floods and droughts, the body urged world leaders to focus on mitigating the effects of global warming. 
- - [Kongsberg: Five dead in Norway bow and arrow attack](https://www.bbc.co.uk/news/world-europe-58906165?at_medium=RSS&at_campaign=KARANGA) BBC: Police say a man armed with a bow and arrows killed five people and injured two more in Kongsberg. 
  - [Gov. Greg Abbott Bars Vaccine Mandates in Texas](https://www.nytimes.com/2021/10/11/us/texas-governor-covid-vaccine-mandates.html) NYT: Gov. Greg Abbott’s latest executive order includes private employers, which had been exempt from previous edicts against mandates. 
  - [How Éric Zemmour Is Turning French Politics Upside Down ](https://www.nytimes.com/2021/10/12/world/europe/eric-zemmour-macron-france-election.html) NYT: Éric Zemmour, an anti-immigrant writer and TV commentator, is surging in opinion polls before presidential elections next year — and he is not yet a candidate. 
  - [This Pristine Beach Is One of Japan’s Last. Soon It Will Be Filled With Concrete.](https://www.nytimes.com/2021/10/13/world/asia/japan-katoku-seawall.html) NYT: In rural Japan, the unstoppable forces of nature meet the immovable determination of the construction state. Can this village survive? 
