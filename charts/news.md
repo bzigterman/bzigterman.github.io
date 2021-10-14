@@ -96,7 +96,7 @@ permalink: /charts/news/
  - [Your Tuesday Briefing](https://www.nytimes.com/2021/10/11/briefing/sydney-reopen-hong-kong-schools-flu.html) NYT: “Freedom Day” in Sydney. 
  - [Climate change: Is the UK on track to meet its targets?](https://www.bbc.co.uk/news/58160547?at_medium=RSS&at_campaign=KARANGA) BBC: With weeks to go until the UK hosts a global climate summit, is the government on track to meet its own commitments? 
  - [COP26: What is the Glasgow climate conference and why is it important?](https://www.bbc.co.uk/news/science-environment-56901261?at_medium=RSS&at_campaign=KARANGA) BBC: A crucial climate change summit is being held in the UK - this is why it's important. 
- - [Climate change food calculator: What's your diet's carbon footprint?](https://www.bbc.co.uk/news/science-environment-46459714?at_medium=RSS&at_campaign=KARANGA) BBC: Check the environmental impact of what you eat and drink. 
+ - [Food calculator: What's your diet's carbon footprint?](https://www.bbc.co.uk/news/science-environment-46459714?at_medium=RSS&at_campaign=KARANGA) BBC: Check the environmental impact of what you eat and drink. 
 
 
 
