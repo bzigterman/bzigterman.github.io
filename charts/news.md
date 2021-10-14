@@ -6,12 +6,16 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 03:08 PM CT, Oct. 14 </p> 
+ [Most Covid Cases in Africa Go Undetected, W.H.O. Says](https://www.nytimes.com/2021/10/14/world/covid-africa-who.html) NYT: “Now is the time to go on the offensive against Covid-19, and work with local communities to break transmission chains and stop wider outbreaks from happening,” Dr. Matshidiso Moeti said. 
+ <p class="updated_time"> 03:01 PM CT, Oct. 14 </p> 
+ [Your Friday Briefing](https://www.nytimes.com/2021/10/14/briefing/beirut-violence-taiwan-fire-biodiversity-goodall.html) NYT: Beirut protests turn violent. 
+ <p class="updated_time"> 03:00 PM CT, Oct. 14 </p> 
+ [Live Updates: Sectarian Gun Battles in Beirut Leave Six Dead](https://www.nytimes.com/live/2021/10/14/world/beirut-lebanon-clashes) NYT: Gunfire erupted at protests over an inquiry into last year’s port explosion, with Lebanon mired in economic collapse and political paralysis. 
  <p class="updated_time"> 02:46 PM CT, Oct. 14 </p> 
  [Norway Bow-and-Arrow Rampage Treated as Apparent Terrorism Attack](https://www.nytimes.com/2021/10/14/world/europe/norway-bow-and-arrow-attack.html) NYT: The police said that they had previously contacted the suspect, a 37-year-old Danish citizen who is believed to have killed five people, over concerns that he had been radicalized. 
  <p class="updated_time"> 02:42 PM CT, Oct. 14 </p> 
  [Taiwan Building Fire Kills at Least 46](https://www.nytimes.com/2021/10/14/world/asia/taiwan-apartment-fire.html) NYT: Dozens more were injured after a blaze broke out at a 13-story building in the southern port city of Kaohsiung. 
- <p class="updated_time"> 02:38 PM CT, Oct. 14 </p> 
- [Live Updates: Sectarian Gun Battles in Beirut Leave Six Dead](https://www.nytimes.com/live/2021/10/14/world/beirut-lebanon-clashes) NYT: Gunfire erupted at protests over an inquiry into last year’s port explosion, with Lebanon mired in economic collapse and political paralysis. 
  <p class="updated_time"> 02:36 PM CT, Oct. 14 </p> 
  [Frida Kahlo, Aztec Gods: Can Art Lift Up a Poor Neighborhood?](https://www.nytimes.com/2021/10/14/world/americas/mexico-city-iztapalapa-murals.html) NYT: A new cableway and hundreds of giant murals have brightened lives in Iztapalapa, Mexico City’s most populous neighborhood, but poverty and attacks against women are still pervasive. 
  <p class="updated_time"> 02:34 PM CT, Oct. 14 </p> 
@@ -24,8 +28,6 @@ permalink: /charts/news/
  [As Western Oil Giants Cut Production, State-Owned Companies Step Up](https://www.nytimes.com/2021/10/14/business/energy-environment/oil-production-state-owned-companies.html) NYT: In the Middle East, Africa and Latin America, government-owned energy companies are increasing oil and natural gas production as U.S. and European companies pare supply because of climate concerns. 
  <p class="updated_time"> 01:24 PM CT, Oct. 14 </p> 
  [U.S. Antigovernment Groups Are Influencing the French Far Right](https://www.nytimes.com/2021/10/13/us/politics/france-far-right-extremists-qanon.html) NYT: The top French intelligence official, who is visiting Washington this week, said QAnon and other conspiracy theories were spreading to Europe. 
- <p class="updated_time"> 01:04 PM CT, Oct. 14 </p> 
- [Most Covid Cases in Africa Go Undetected, W.H.O. Says](https://www.nytimes.com/2021/10/14/world/covid-africa-who.html) NYT: “Now is the time to go on the offensive against Covid-19, and work with local communities to break transmission chains and stop wider outbreaks from happening,” Dr. Matshidiso Moeti said. 
  <p class="updated_time"> 12:31 PM CT, Oct. 14 </p> 
  [Biden to Meet With Kenya’s President Amid Crisis in Ethiopia](https://www.nytimes.com/2021/10/14/us/politics/biden-kenya-kenyatta-ethiopia.html) NYT: The two leaders are expected to discuss the situation in the Tigray region in northern Ethiopia, where fighters have been accused of atrocities against civilians. 
  <p class="updated_time"> 12:26 PM CT, Oct. 14 </p> 
@@ -176,14 +178,8 @@ permalink: /charts/news/
  [Narendra Modi's Use of Antiterror Law Draws Scrutiny From Courts](https://www.nytimes.com/2021/10/12/world/asia/modi-india-antiterror-law.html) NYT: India’s government under Prime Minister Narendra Modi has jailed thousands of people through a statute that critics say is aimed at silencing dissent. 
  <p class="updated_time"> 09:55 AM CT, Oct. 12 </p> 
  [One Woman Won a Nobel This Year. Quotas Aren’t the Answer, an Official Says.](https://www.nytimes.com/2021/10/12/world/nobel-prize-woman-gender-ethnicity.html) NYT: Only one of the 13 laureates this year was a woman, but the head of the Royal Swedish Academy of Sciences dismissed the idea of guaranteeing representation. 
- <p class="updated_time"> 07:00 AM CT, Oct. 12 </p> 
- [In Shanghai, Teahouses Offer Both Community and Solitude](https://www.nytimes.com/2021/10/12/t-magazine/shanghai-teahouses-china.html) NYT: Historically, these spaces were akin to populist pubs. Modern-day iterations allow for an individual retreat — among strangers — in a city lacking privacy. 
  <p class="updated_time"> 05:01 AM CT, Oct. 11 </p> 
  [Climate change: Is the UK on track to meet its targets?](https://www.bbc.co.uk/news/58160547?at_medium=RSS&at_campaign=KARANGA) BBC: With weeks to go until the UK hosts a global climate summit, is the government on track to meet its own commitments? 
- <p class="updated_time"> 05:18 AM CT, Sep. 24 </p> 
- [COP26: What is the Glasgow climate conference and why is it important?](https://www.bbc.co.uk/news/science-environment-56901261?at_medium=RSS&at_campaign=KARANGA) BBC: A crucial climate change summit is being held in the UK - this is why it's important. 
- <p class="updated_time"> 01:34 AM CT, Aug. 09 </p> 
- [Food calculator: What's your diet's carbon footprint?](https://www.bbc.co.uk/news/science-environment-46459714?at_medium=RSS&at_campaign=KARANGA) BBC: Check the environmental impact of what you eat and drink. 
 
 
 
