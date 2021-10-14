@@ -6,6 +6,7 @@ permalink: /charts/news/
 
 ## World News
 
+ - [Meteorite Crashes Through Ceiling and Lands on Woman’s Bed](https://www.nytimes.com/2021/10/14/world/canada/meteorite-bed.html) NYT: After a fireball streaked through the Canadian sky, Ruth Hamilton, of British Columbia, found a 2.8-pound rock the size of a large man’s fist near her pillow. 
  - [Man With Bow and Arrows Kills Five in Norway](https://www.nytimes.com/2021/10/13/world/europe/norway-bow-arrow-attack.html) NYT: As the country went on alert, the police scrambled to investigate an attack in a town 50 miles outside Oslo. 
  - [Kongsberg: Bow and arrow suspect known to Norwegian police](https://www.bbc.co.uk/news/world-europe-58910794?at_medium=RSS&at_campaign=KARANGA) BBC: A man held for killing five people was a convert to Islam who had shown signs of radicalisation, police say. 
  - [Man Is Charged in Bow-and-Arrow Attack in Norway That Killed 5](https://www.nytimes.com/2021/10/14/world/europe/norway-bow-and-arrow-attack.html) NYT: The police said that they had contacted the suspect, a 37-year-old Danish citizen, over concerns that he had been radicalized. 
@@ -15,7 +16,6 @@ permalink: /charts/news/
  - [‘It Was a Sea of Flames’: At Least 46 Killed in Taiwan Apartment Fire](https://www.nytimes.com/2021/10/14/world/asia/taiwan-apartment-fire.html) NYT: Dozens more were injured after a blaze broke out at a 13-story building in the southern port city of Kaohsiung. 
  - [Beirut port blast: Gunfire erupts at protest against judge leading probe](https://www.bbc.co.uk/news/world-middle-east-58901611?at_medium=RSS&at_campaign=KARANGA) BBC: Heavy gunfire erupts as Hezbollah supporters demand removal of judge investigating the disaster. 
  - [Kaohsiung: Firefighters battle Taiwan tower block blaze](https://www.bbc.co.uk/news/world-asia-58909907?at_medium=RSS&at_campaign=KARANGA) BBC: At least 46 people have been killed in a fire at a tower block in the city of Kaohsiung, southern Taiwan. 
- - [Meteorite Crashes Through Ceiling and Lands on Woman’s Bed](https://www.nytimes.com/2021/10/14/world/canada/meteorite-bed.html) NYT: After a fireball streaked through the Canadian sky, Ruth Hamilton, of British Columbia, found a 2.8-pound rock the size of a large man’s fist near her pillow. 
  - [Kyrie Irving Defends Decision on Vaccine After Being Benched](https://www.nytimes.com/2021/10/13/world/kyrie-irving-vaccine-benched-nets.html) NYT: The N.B.A. star, who is set to make $40 million this year, said he opposes vaccine mandates, saying nobody should be “forced” to do it. 
  - [Moderna and J.& J. Boosters: What Are the Next Steps? ](https://www.nytimes.com/2021/10/14/us/covid-booster-vaccines-fda.html) NYT: Further steps will be required at the F.D.A. and at the C.D.C., in a process that ends with the states. 
  - [Kaohsiung: Fire at Taiwan tower block kills at least 46](https://www.bbc.co.uk/news/world-asia-58887760?at_medium=RSS&at_campaign=KARANGA) BBC: Dozens of firefighters spend more than four hours to extinguish the blaze at the 13-storey building. 
