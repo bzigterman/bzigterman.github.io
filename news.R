@@ -15,12 +15,11 @@ bbc <- tidyfeed("http://feeds.bbci.co.uk/news/world/rss.xml")%>%
   select(feed_title, item_pub_date,item_title, item_link, item_description)%>%
   mutate(feed = "BBC")
 
-# politico <- tidyfeed("http://rss.politico.com/politics.xml")%>%
-#select(feed_title, item_pub_date,item_title, item_link, item_description)%>%
-#mutate(feed = "Politico")
+past_week <- ymd_hms(now()) - days(7)
 
 world_news <- full_join(nyt, wsj) %>%
   full_join(bbc) %>%
+  filter(item_pub_date > past_week) %>%
   arrange(desc(item_pub_date)) %>%
   mutate(item_md_link = paste("[",item_title,"](",item_link,")",
                               sep = "")) %>%
@@ -31,7 +30,6 @@ world_news <- full_join(nyt, wsj) %>%
   mutate(clean_time = strftime(x = central_time, 
                                tz = "US/Central",
                                format = "%I:%M% %p CT, %b. %d"))
-
 
 # create list ----
 lines <- c()
