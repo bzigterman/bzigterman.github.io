@@ -6,14 +6,22 @@ permalink: /charts/news/
 
 ## World News
 
- <p class="updated_time"> 11:54 AM CT, Oct. 14 </p> 
+ <p class="updated_time"> 12:36 PM CT, Oct. 14 </p> 
+ [Frida Kahlo, Aztec Gods: Can Art Lift Up a Poor Neighborhood?](https://www.nytimes.com/2021/10/14/world/americas/mexico-city-iztapalapa-murals.html) NYT: A new cableway and hundreds of giant murals have brightened lives in Iztapalapa, Mexico City’s most populous neighborhood, but poverty and attacks against women are still pervasive. 
+ <p class="updated_time"> 12:31 PM CT, Oct. 14 </p> 
  [Live Updates: Beirut Rocked by Worst Sectarian Fighting in Years](https://www.nytimes.com/live/2021/10/14/world/beirut-lebanon-clashes) NYT: With Lebanon mired in economic collapse and political paralysis, clashes left at least six dead and dozens wounded. The violence came amid protests over an inquiry into a huge blast at the city’s port last year. 
+ <p class="updated_time"> 12:31 PM CT, Oct. 14 </p> 
+ [Norway Bow-and-Arrow Rampage Treated as Apparent Terrorism Attack](https://www.nytimes.com/2021/10/14/world/europe/norway-bow-and-arrow-attack.html) NYT: The police said that they had previously contacted the suspect, a 37-year-old Danish citizen who is believed to have killed five people, over concerns that he had been radicalized. 
+ <p class="updated_time"> 12:26 PM CT, Oct. 14 </p> 
+ [Beirut port blast: Gunfire erupts at protest against judge leading probe](https://www.bbc.co.uk/news/world-middle-east-58901611?at_medium=RSS&at_campaign=KARANGA) BBC: At least six die as protesters come under fire, sending people fleeing for cover in the street. 
+ <p class="updated_time"> 12:09 PM CT, Oct. 14 </p> 
+ [Moderna and J.& J. Boosters: What Are the Next Steps? ](https://www.nytimes.com/2021/10/14/us/covid-booster-vaccines-fda.html) NYT: Further steps will be required at the F.D.A. and at the C.D.C., in a process that ends with the states. 
+ <p class="updated_time"> 11:59 AM CT, Oct. 14 </p> 
+ [Kongsberg: Bow and arrow attack appears to be terrorism - officials](https://www.bbc.co.uk/news/world-europe-58910794?at_medium=RSS&at_campaign=KARANGA) BBC: Security officials says the Kongsberg attack on Wednesday looks to have been a "terrorist act". 
  <p class="updated_time"> 11:51 AM CT, Oct. 14 </p> 
  [Mexico City Replaces a Statue of Columbus With One of an Indigenous Woman](https://www.nytimes.com/2021/10/14/world/americas/mexico-columbus-statue-indigenous.html) NYT: The replacement of a figure seen as a monument to colonialism touched a nerve as the country debates how it is shaped by race and sex. 
  <p class="updated_time"> 11:47 AM CT, Oct. 14 </p> 
  [Why China's climate policy matters to us all](https://www.bbc.co.uk/news/world-asia-china-57483492?at_medium=RSS&at_campaign=KARANGA) BBC: The global battle against climate change is likely to be won or lost in China. 
- <p class="updated_time"> 11:44 AM CT, Oct. 14 </p> 
- [Norway Bow-and-Arrow Rampage Treated as Apparent Terrorism Attack](https://www.nytimes.com/2021/10/14/world/europe/norway-bow-and-arrow-attack.html) NYT: The police said that they had previously contacted the suspect, a 37-year-old Danish citizen who is believed to have killed five people, over concerns that he had been radicalized. 
  <p class="updated_time"> 11:38 AM CT, Oct. 14 </p> 
  [Most Covid Cases in Africa Go Undetected, W.H.O. Says](https://www.nytimes.com/2021/10/14/world/covid-africa-who.html) NYT: “Now is the time to go on the offensive against Covid-19, and work with local communities to break transmission chains and stop wider outbreaks from happening,” Dr. Matshidiso Moeti said. 
  <p class="updated_time"> 11:34 AM CT, Oct. 14 </p> 
@@ -30,20 +38,16 @@ permalink: /charts/news/
  [Women taken from Congo sue Belgium over forced separations](https://www.bbc.co.uk/news/world-europe-58903939?at_medium=RSS&at_campaign=KARANGA) BBC: They were taken from their black mothers during the colonial era because of their skin colour. 
  <p class="updated_time"> 10:56 AM CT, Oct. 14 </p> 
  [Squid Game Ahead? No, Just Directions, British Police Explain](https://www.nytimes.com/2021/10/13/world/europe/squid-game-road-sign.html) NYT: The police in England clarified that a highway sign featuring symbols that also appear on the hit Netflix series merely indicated a detour. 
- <p class="updated_time"> 10:48 AM CT, Oct. 14 </p> 
- [Kongsberg: Bow and arrow attack appears to be terrorism - officials](https://www.bbc.co.uk/news/world-europe-58910794?at_medium=RSS&at_campaign=KARANGA) BBC: Security officials says the Kongsberg attack on Wednesday looks to have been a "terrorist act". 
  <p class="updated_time"> 10:38 AM CT, Oct. 14 </p> 
  [Meteorite Crashes Through Ceiling and Lands on Woman’s Bed](https://www.nytimes.com/2021/10/14/world/canada/meteorite-bed.html) NYT: After a fireball streaked through the Canadian sky, Ruth Hamilton, of British Columbia, found a 2.8-pound rock the size of a large man’s fist near her pillow. 
  <p class="updated_time"> 09:55 AM CT, Oct. 14 </p> 
  [Afghanistan: Pakistan airline stops flights citing Taliban intimidation](https://www.bbc.co.uk/news/world-asia-58913855?at_medium=RSS&at_campaign=KARANGA) BBC: Pakistan International Airlines complains of "heavy-handedness" by the Taliban authorities. 
  <p class="updated_time"> 09:43 AM CT, Oct. 14 </p> 
  [U.S. to Open Canada and Mexico Borders for Vaccinated Travelers](https://www.nytimes.com/2021/10/12/us/politics/us-canada-mexico-borders-open.html) NYT: Opening the borders with Mexico and Canada, where crossing for nonessential travel has been barred for 19 months, will reconnect neighbors and provide a reprieve for businesses. 
- <p class="updated_time"> 09:39 AM CT, Oct. 14 </p> 
- [Beirut port blast: Gunfire erupts at protest against judge leading probe](https://www.bbc.co.uk/news/world-middle-east-58901611?at_medium=RSS&at_campaign=KARANGA) BBC: At least six die as protesters come under fire, sending people fleeing for cover in the street. 
  <p class="updated_time"> 09:31 AM CT, Oct. 14 </p> 
  [British Museums Face Covid’s Long-Term Effects](https://www.nytimes.com/2021/10/14/arts/design/british-museums-recovery.html) NYT: Months of closures during the pandemic have caused financial havoc for art venues, and many expect to be strapped for years. At the Victoria and Albert Museum in London, the virus’s impact is clear. 
  <p class="updated_time"> 09:20 AM CT, Oct. 14 </p> 
- [Nigeria confirms death of Iswap leader Abu Musab al-Barnawi](https://www.bbc.co.uk/news/world-africa-58576635?at_medium=RSS&at_campaign=KARANGA) BBC: Abu Musab al-Barnawi was the head of the West African branch of the Islamic State group. 
+ [Nigeria says Iswap leader Abu Musab al-Barnawi is dead](https://www.bbc.co.uk/news/world-africa-58576635?at_medium=RSS&at_campaign=KARANGA) BBC: Abu Musab al-Barnawi was the head of the West African branch of the Islamic State group. 
  <p class="updated_time"> 08:52 AM CT, Oct. 14 </p> 
  [As Western Oil Giants Cut Production, State-Owned Companies Step Up](https://www.nytimes.com/2021/10/14/business/energy-environment/oil-production-state-owned-companies.html) NYT: In the Middle East, Africa and Latin America, government-owned energy companies are increasing oil and natural gas production as U.S. and European companies pare supply because of climate concerns. 
  <p class="updated_time"> 08:51 AM CT, Oct. 14 </p> 
@@ -52,14 +56,10 @@ permalink: /charts/news/
  [Lebanon's Crisis, an Explainer ](https://www.nytimes.com/2021/10/14/briefing/lebanon-financial-crisis-lira.html) NYT: The world isn’t paying much attention. 
  <p class="updated_time"> 08:28 AM CT, Oct. 14 </p> 
  [Kaohsiung: Fire at Taiwan tower block kills at least 46](https://www.bbc.co.uk/news/world-asia-58887760?at_medium=RSS&at_campaign=KARANGA) BBC: Dozens of firefighters spend more than four hours to extinguish the blaze at the 13-storey building. 
+ <p class="updated_time"> 08:25 AM CT, Oct. 14 </p> 
+ [U.S. Aims to Resume Regular Evacuation Flights From Afghanistan](https://www.wsj.com/articles/u-s-to-resume-evacuation-flights-from-afghanistan-11634212800) WSJ: American citizens, residents and some Afghan visa applicants would qualify to fly on the U.S.-sponsored flights. 
  <p class="updated_time"> 08:06 AM CT, Oct. 14 </p> 
  [Taiwan Building Fire Kills at Least 46](https://www.nytimes.com/2021/10/14/world/asia/taiwan-apartment-fire.html) NYT: Dozens more were injured after a blaze broke out at a 13-story building in the southern port city of Kaohsiung. 
- <p class="updated_time"> 08:05 AM CT, Oct. 14 </p> 
- [Frida Kahlo, Aztec Gods: Can Art Lift Up a Poor Neighborhood?](https://www.nytimes.com/2021/10/14/world/americas/mexico-city-iztapalapa-murals.html) NYT: A new cableway and hundreds of giant murals have brightened lives in Iztapalapa, Mexico City’s most populous neighborhood, but poverty and attacks against women are still pervasive. 
- <p class="updated_time"> 07:42 AM CT, Oct. 14 </p> 
- [U.S. Aims to Resume Regular Evacuation Flights From Afghanistan](https://www.wsj.com/articles/u-s-to-resume-evacuation-flights-from-afghanistan-11634212800) WSJ: American citizens, residents and some Afghan visa applicants would qualify to fly on the U.S.-sponsored flights. 
- <p class="updated_time"> 07:40 AM CT, Oct. 14 </p> 
- [Moderna and J.& J. Boosters: What Are the Next Steps? ](https://www.nytimes.com/2021/10/14/us/covid-booster-vaccines-fda.html) NYT: Further steps will be required at the F.D.A. and at the C.D.C., in a process that ends with the states. 
  <p class="updated_time"> 07:00 AM CT, Oct. 14 </p> 
  [Coldplay: Band announce first tour in four years with an 'eco-friendly' focus](https://www.bbc.co.uk/news/entertainment-arts-58907085?at_medium=RSS&at_campaign=KARANGA) BBC: The band have pledged that their upcoming tour will be sustainable, and as low-carbon as possible. 
  <p class="updated_time"> 06:59 AM CT, Oct. 14 </p> 
