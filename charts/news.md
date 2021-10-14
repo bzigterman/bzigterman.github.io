@@ -6,24 +6,28 @@ permalink: /charts/news/
 
 ## World News
 
- <p class="updated_time"> 12:43 PM CT, Oct. 14 </p> 
+ <p class="updated_time"> 01:05 PM CT, Oct. 14 </p> 
  [Live Updates: Beirut Rocked by Worst Sectarian Fighting in Years](https://www.nytimes.com/live/2021/10/14/world/beirut-lebanon-clashes) NYT: With Lebanon mired in economic collapse and political paralysis, clashes left at least six dead and dozens wounded. The violence came amid protests over an inquiry into a huge blast at the city’s port last year. 
+ <p class="updated_time"> 01:04 PM CT, Oct. 14 </p> 
+ [Most Covid Cases in Africa Go Undetected, W.H.O. Says](https://www.nytimes.com/2021/10/14/world/covid-africa-who.html) NYT: “Now is the time to go on the offensive against Covid-19, and work with local communities to break transmission chains and stop wider outbreaks from happening,” Dr. Matshidiso Moeti said. 
+ <p class="updated_time"> 12:57 PM CT, Oct. 14 </p> 
+ [Norway Bow-and-Arrow Rampage Treated as Apparent Terrorism Attack](https://www.nytimes.com/2021/10/14/world/europe/norway-bow-and-arrow-attack.html) NYT: The police said that they had previously contacted the suspect, a 37-year-old Danish citizen who is believed to have killed five people, over concerns that he had been radicalized. 
  <p class="updated_time"> 12:36 PM CT, Oct. 14 </p> 
  [Frida Kahlo, Aztec Gods: Can Art Lift Up a Poor Neighborhood?](https://www.nytimes.com/2021/10/14/world/americas/mexico-city-iztapalapa-murals.html) NYT: A new cableway and hundreds of giant murals have brightened lives in Iztapalapa, Mexico City’s most populous neighborhood, but poverty and attacks against women are still pervasive. 
  <p class="updated_time"> 12:31 PM CT, Oct. 14 </p> 
- [Norway Bow-and-Arrow Rampage Treated as Apparent Terrorism Attack](https://www.nytimes.com/2021/10/14/world/europe/norway-bow-and-arrow-attack.html) NYT: The police said that they had previously contacted the suspect, a 37-year-old Danish citizen who is believed to have killed five people, over concerns that he had been radicalized. 
+ [Biden to Meet With Kenya’s President Amid Crisis in Ethiopia](https://www.nytimes.com/2021/10/14/us/politics/biden-kenya-kenyatta-ethiopia.html) NYT: The two leaders are expected to discuss the situation in the Tigray region in northern Ethiopia, where fighters have been accused of atrocities against civilians. 
  <p class="updated_time"> 12:26 PM CT, Oct. 14 </p> 
  [Beirut port blast: Gunfire erupts at protest against judge leading probe](https://www.bbc.co.uk/news/world-middle-east-58901611?at_medium=RSS&at_campaign=KARANGA) BBC: At least six die as protesters come under fire, sending people fleeing for cover in the street. 
  <p class="updated_time"> 12:09 PM CT, Oct. 14 </p> 
  [Moderna and J.& J. Boosters: What Are the Next Steps? ](https://www.nytimes.com/2021/10/14/us/covid-booster-vaccines-fda.html) NYT: Further steps will be required at the F.D.A. and at the C.D.C., in a process that ends with the states. 
+ <p class="updated_time"> 12:08 PM CT, Oct. 14 </p> 
+ [Microsoft shutting down LinkedIn in China](https://www.bbc.co.uk/news/technology-58911297?at_medium=RSS&at_campaign=KARANGA) BBC: The company will offer a jobs-only site with no social-media elements, instead. 
  <p class="updated_time"> 11:59 AM CT, Oct. 14 </p> 
  [Kongsberg: Bow and arrow attack appears to be terrorism - officials](https://www.bbc.co.uk/news/world-europe-58910794?at_medium=RSS&at_campaign=KARANGA) BBC: Security officials says the Kongsberg attack on Wednesday looks to have been a "terrorist act". 
  <p class="updated_time"> 11:51 AM CT, Oct. 14 </p> 
  [Mexico City Replaces a Statue of Columbus With One of an Indigenous Woman](https://www.nytimes.com/2021/10/14/world/americas/mexico-columbus-statue-indigenous.html) NYT: The replacement of a figure seen as a monument to colonialism touched a nerve as the country debates how it is shaped by race and sex. 
  <p class="updated_time"> 11:47 AM CT, Oct. 14 </p> 
  [Why China's climate policy matters to us all](https://www.bbc.co.uk/news/world-asia-china-57483492?at_medium=RSS&at_campaign=KARANGA) BBC: The global battle against climate change is likely to be won or lost in China. 
- <p class="updated_time"> 11:38 AM CT, Oct. 14 </p> 
- [Most Covid Cases in Africa Go Undetected, W.H.O. Says](https://www.nytimes.com/2021/10/14/world/covid-africa-who.html) NYT: “Now is the time to go on the offensive against Covid-19, and work with local communities to break transmission chains and stop wider outbreaks from happening,” Dr. Matshidiso Moeti said. 
  <p class="updated_time"> 11:34 AM CT, Oct. 14 </p> 
  [Newly Discovered Bat Viruses Give Hints to Covid’s Origins](https://www.nytimes.com/2021/10/14/science/bat-coronaviruses-lab-leak.html) NYT: Coronaviruses discovered in Laotian bats are surprisingly adept at infecting human cells, showing that such deadly features can indeed evolve outside of a lab. 
  <p class="updated_time"> 11:22 AM CT, Oct. 14 </p> 
@@ -92,8 +96,6 @@ permalink: /charts/news/
  [Indonesia Covid: Slow start as Bali re-opens to foreign tourists](https://www.bbc.co.uk/news/world-asia-58907525?at_medium=RSS&at_campaign=KARANGA) BBC: The popular holiday destination has opened to some foreigners, but no international flights are scheduled. 
  <p class="updated_time"> 10:46 PM CT, Oct. 13 </p> 
  [Your Thursday Briefing](https://www.nytimes.com/2021/10/13/briefing/populism-europe-norway-attack.html) NYT: A blow for populism in Europe. 
- <p class="updated_time"> 10:43 PM CT, Oct. 13 </p> 
- [Vietnam: Owners heartbroken after 12 dogs killed over Covid](https://www.bbc.co.uk/news/world-asia-58894320?at_medium=RSS&at_campaign=KARANGA) BBC: The couple won the internet in Vietnam with their love for their pets. 
  <p class="updated_time"> 10:08 PM CT, Oct. 13 </p> 
  [U.K. Agency Issues Climate Change Warning Before U.N. Summit](https://www.nytimes.com/2021/10/13/world/europe/uk-adapt-die-climate-change.html) NYT: With more extreme weather events expected to bring floods and droughts, the body urged world leaders to focus on mitigating the effects of global warming. 
  <p class="updated_time"> 08:26 PM CT, Oct. 13 </p> 
@@ -114,8 +116,6 @@ permalink: /charts/news/
  [Afghanistan: The New York rabbi evacuating desperate Afghans](https://www.bbc.co.uk/news/world-us-canada-58729508?at_medium=RSS&at_campaign=KARANGA) BBC: Rabbi Moshe Margaretten says he gets calls in the middle of the night from people in Afghanistan asking for help. 
  <p class="updated_time"> 05:17 PM CT, Oct. 13 </p> 
  [Violence surges in Pakistan's tribal belt as Taliban, IS-K go on attack](https://www.bbc.co.uk/news/world-asia-58891613?at_medium=RSS&at_campaign=KARANGA) BBC: The BBC reports from Pakistan's beleaguered tribal areas, which are seeing a surge in violence. 
- <p class="updated_time"> 05:16 PM CT, Oct. 13 </p> 
- [Covid Trend: Access to Liberties Increasingly Relies on Vaccination](https://www.nytimes.com/2021/10/12/world/countries-around-the-globe-turn-to-vaccine-mandates-to-fight-coronavirus.html) NYT: The number of activities available to the unvaccinated is shrinking, and the pressure to get shots is growing. 
  <p class="updated_time"> 04:27 PM CT, Oct. 13 </p> 
  [Two More Guantánamo Detainees Are Approved for Release](https://www.nytimes.com/2021/10/13/us/politics/guantanamo-detainees-transfer.html) NYT: A board has now backed the release of 12 out of the 39 men remaining at the prison, but U.S. diplomats must first reach security agreements with destination countries. 
  <p class="updated_time"> 04:23 PM CT, Oct. 13 </p> 
@@ -178,8 +178,6 @@ permalink: /charts/news/
  [In Shanghai, Teahouses Offer Both Community and Solitude](https://www.nytimes.com/2021/10/12/t-magazine/shanghai-teahouses-china.html) NYT: Historically, these spaces were akin to populist pubs. Modern-day iterations allow for an individual retreat — among strangers — in a city lacking privacy. 
  <p class="updated_time"> 05:21 AM CT, Oct. 12 </p> 
  [The New Jersey’s governor’s race puts mandates to a political test.](https://www.nytimes.com/2021/10/12/world/the-new-jerseys-governors-race-puts-mandates-to-a-political-test.html) NYT: NA 
- <p class="updated_time"> 05:19 AM CT, Oct. 12 </p> 
- [Covid and Age](https://www.nytimes.com/2021/10/12/briefing/covid-age-risk-infection-vaccine.html) NYT: An unvaccinated child is at less risk of serious Covid illness than a vaccinated 70-year-old. 
  <p class="updated_time"> 05:01 AM CT, Oct. 11 </p> 
  [Climate change: Is the UK on track to meet its targets?](https://www.bbc.co.uk/news/58160547?at_medium=RSS&at_campaign=KARANGA) BBC: With weeks to go until the UK hosts a global climate summit, is the government on track to meet its own commitments? 
  <p class="updated_time"> 05:18 AM CT, Sep. 24 </p> 
