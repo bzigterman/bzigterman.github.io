@@ -6,7 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
- - [Kongsberg: Five dead in Norway bow and arrow attack](https://www.bbc.co.uk/news/world-europe-58906165?at_medium=RSS&at_campaign=KARANGA) BBC: Police say a man armed with a bow and arrows killed five people and injured two more in Kongsberg. 
+ - [Kongsberg: Five dead in Norway bow and arrow attack](https://www.bbc.co.uk/news/world-europe-58906165?at_medium=RSS&at_campaign=KARANGA) BBC: Police say a man armed with a bow and arrows killed four women and a man in the town of Kongsberg. 
+ - [‘It Was a Sea of Flames’: At Least 46 Killed in Taiwan Apartment Fire](https://www.nytimes.com/2021/10/14/world/asia/taiwan-apartment-fire.html) NYT: Dozens more were injured after a blaze broke out at a 13-story building in the southern port city of Kaohsiung. 
  - [Exuberant Art and Cable Car Can Lift a Poor, Violent Place Only So High](https://www.nytimes.com/2021/10/14/world/americas/mexico-city-iztapalapa-murals.html) NYT: A new cableway and hundreds of giant murals have brightened lives in Iztapalapa, Mexico City’s most populous neighborhood, but poverty and attacks against women are still pervasive. 
  - [Why China's climate policy matters to us all](https://www.bbc.co.uk/news/world-asia-china-57483492?at_medium=RSS&at_campaign=KARANGA) BBC: The global battle against climate change is likely to be won or lost in China. 
  - [Meteorite Crashes Through Ceiling and Lands on Woman’s Bed](https://www.nytimes.com/2021/10/14/world/canada/meteorite-bed.html) NYT: After a fireball streaked through the Canadian sky, Ruth Hamilton, of British Columbia, found a 2.8-pound rock the size of a large man’s fist near her pillow. 
