@@ -6,7 +6,7 @@ permalink: /charts/news/
 
 ## World News
 
- - [Live Updates: Beirut Rocked by Worst Sectarian Fighting in Years](https://www.nytimes.com/live/2021/10/14/world/beirut-lebanon-clashes) NYT: With Lebanon mired in economic collapse and political paralysis, clashes left at least five dead and dozens wounded. The violence came amid protests over an inquiry into a huge blast at the city’s port last year. 09:18 AM CT, Oct. 14 
+ - [Live Updates: Beirut Rocked by Worst Sectarian Fighting in Years](https://www.nytimes.com/live/2021/10/14/world/beirut-lebanon-clashes) NYT: With Lebanon mired in economic collapse and political paralysis, clashes left at least six dead and dozens wounded. The violence came amid protests over an inquiry into a huge blast at the city’s port last year. 09:24 AM CT, Oct. 14 
  - [Norway Bow-and-Arrow Rampage Treated as Apparent Terrorism Attack](https://www.nytimes.com/2021/10/14/world/europe/norway-bow-and-arrow-attack.html) NYT: The police said that they had previously contacted the suspect, a 37-year-old Danish citizen who is believed to have killed five people, over concerns that he had been radicalized. 09:04 AM CT, Oct. 14 
  - [Afghanistan: Pakistan airline stops flights citing Taliban intimidation](https://www.bbc.co.uk/news/world-asia-58913855?at_medium=RSS&at_campaign=KARANGA) BBC: Pakistan International Airlines complains of "heavy-handedness" by the Taliban authorities. 08:55 AM CT, Oct. 14 
  - [LinkedIn to End Service in China, Citing ‘Challenging’ Environment](https://www.nytimes.com/2021/10/14/technology/linkedin-china-microsoft.html) NYT: The Microsoft-owned service had censored posts in China, in compliance with the country’s laws, to operate there. 08:48 AM CT, Oct. 14 
@@ -97,3 +97,6 @@ permalink: /charts/news/
  - [Climate change: Is the UK on track to meet its targets?](https://www.bbc.co.uk/news/58160547?at_medium=RSS&at_campaign=KARANGA) BBC: With weeks to go until the UK hosts a global climate summit, is the government on track to meet its own commitments? 04:01 AM CT, Oct. 11 
  - [COP26: What is the Glasgow climate conference and why is it important?](https://www.bbc.co.uk/news/science-environment-56901261?at_medium=RSS&at_campaign=KARANGA) BBC: A crucial climate change summit is being held in the UK - this is why it's important. 04:18 AM CT, Sep. 24 
  - [Food calculator: What's your diet's carbon footprint?](https://www.bbc.co.uk/news/science-environment-46459714?at_medium=RSS&at_campaign=KARANGA) BBC: Check the environmental impact of what you eat and drink. 12:34 AM CT, Aug. 09 
+
+
+
