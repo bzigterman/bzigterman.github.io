@@ -1,6 +1,7 @@
 library(tidyRSS)
 library(gt)
 library(tidyverse)
+library(lubridate)
 
 # gather news ----
 
@@ -24,7 +25,12 @@ world_news <- full_join(nyt, wsj) %>%
   mutate(item_md_link = paste("[",item_title,"](",item_link,")",
                               sep = "")) %>%
   mutate(feed_plus_description = paste(feed,": ",item_description,
-                                       sep = "")) 
+                                       sep = ""))%>%
+  mutate(utc_time = force_tz(item_pub_date, tz = "Europe/London")) %>%
+  mutate(central_time = with_tz(utc_time, tz = "America/Chicago")) %>%
+  mutate(clean_time = strftime(x = central_time, 
+                               tz = "US/Central",
+                               format = "%I:%M% %p CT, %b. %d"))
 
 
 # create list ----
@@ -33,7 +39,9 @@ world_news <- full_join(nyt, wsj) %>%
 lines <- c()
 for (x in 1:nrow(world_news)) {
   line=paste("-",world_news$item_md_link[[x]], 
-        world_news$feed_plus_description[[x]],"\n")
+        world_news$feed_plus_description[[x]],
+        world_news$clean_time[[x]],
+        "\n")
   lines = paste(lines, line)
 }
 lines 
