@@ -6,6 +6,10 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 03:14 PM CT, Oct. 14 </p> 
+ [Microsoft shutting down LinkedIn in China](https://www.bbc.co.uk/news/technology-58911297?at_medium=RSS&at_campaign=KARANGA) BBC: The company will offer a jobs-only site with no social-media elements, instead. 
+ <p class="updated_time"> 03:09 PM CT, Oct. 14 </p> 
+ [‘Lurching Between Crisis and Complacency’: Was This Our Last Covid Surge?](https://www.nytimes.com/2021/10/14/health/coronavirus-delta-surge.html) NYT: Rising immunity and modest changes in behavior may explain why cases are declining, but much remains unknown, scientists say. 
  <p class="updated_time"> 03:08 PM CT, Oct. 14 </p> 
  [Most Covid Cases in Africa Go Undetected, W.H.O. Says](https://www.nytimes.com/2021/10/14/world/covid-africa-who.html) NYT: “Now is the time to go on the offensive against Covid-19, and work with local communities to break transmission chains and stop wider outbreaks from happening,” Dr. Matshidiso Moeti said. 
  <p class="updated_time"> 03:01 PM CT, Oct. 14 </p> 
@@ -32,8 +36,6 @@ permalink: /charts/news/
  [Biden to Meet With Kenya’s President Amid Crisis in Ethiopia](https://www.nytimes.com/2021/10/14/us/politics/biden-kenya-kenyatta-ethiopia.html) NYT: The two leaders are expected to discuss the situation in the Tigray region in northern Ethiopia, where fighters have been accused of atrocities against civilians. 
  <p class="updated_time"> 12:26 PM CT, Oct. 14 </p> 
  [Beirut port blast: Gunfire erupts at protest against judge leading probe](https://www.bbc.co.uk/news/world-middle-east-58901611?at_medium=RSS&at_campaign=KARANGA) BBC: At least six die as protesters come under fire, sending people fleeing for cover in the street. 
- <p class="updated_time"> 12:08 PM CT, Oct. 14 </p> 
- [Microsoft shutting down LinkedIn in China](https://www.bbc.co.uk/news/technology-58911297?at_medium=RSS&at_campaign=KARANGA) BBC: The company will offer a jobs-only site with no social-media elements, instead. 
  <p class="updated_time"> 11:59 AM CT, Oct. 14 </p> 
  [Kongsberg: Bow and arrow attack appears to be terrorism - officials](https://www.bbc.co.uk/news/world-europe-58910794?at_medium=RSS&at_campaign=KARANGA) BBC: Security officials says the Kongsberg attack on Wednesday looks to have been a "terrorist act". 
  <p class="updated_time"> 11:51 AM CT, Oct. 14 </p> 
@@ -46,8 +48,6 @@ permalink: /charts/news/
  [Norway attack: Witness describes hearing 'thunk sound' of weapon](https://www.bbc.co.uk/news/world-europe-58910059?at_medium=RSS&at_campaign=KARANGA) BBC: Residents in Kongsberg react to the bow and arrow attack in their neighbourhood. 
  <p class="updated_time"> 11:20 AM CT, Oct. 14 </p> 
  [Henrietta Lacks, Whose Cells Were Taken Without Her Consent, Is Honored by W.H.O.](https://www.nytimes.com/2021/10/13/science/henrietta-lacks-cells-who.html) NYT: In a ceremony in Geneva, the World Health Organization presented an award to the family of Ms. Lacks, whose cancer cells led to world-changing advances in medical and scientific research. 
- <p class="updated_time"> 11:14 AM CT, Oct. 14 </p> 
- [‘Lurching Between Crisis and Complacency’: Was This Our Last Covid Surge?](https://www.nytimes.com/2021/10/14/health/coronavirus-delta-surge.html) NYT: Rising immunity and modest changes in behavior may explain why cases are declining, but much remains unknown, scientists say. 
  <p class="updated_time"> 11:07 AM CT, Oct. 14 </p> 
  [Women taken from Congo sue Belgium over forced separations](https://www.bbc.co.uk/news/world-europe-58903939?at_medium=RSS&at_campaign=KARANGA) BBC: They were taken from their black mothers during the colonial era because of their skin colour. 
  <p class="updated_time"> 10:56 AM CT, Oct. 14 </p> 
@@ -62,6 +62,8 @@ permalink: /charts/news/
  [Afghanistan: Pakistan airline stops flights citing Taliban intimidation](https://www.bbc.co.uk/news/world-asia-58913855?at_medium=RSS&at_campaign=KARANGA) BBC: Pakistan International Airlines complains of "heavy-handedness" by the Taliban authorities. 
  <p class="updated_time"> 09:43 AM CT, Oct. 14 </p> 
  [U.S. to Open Canada and Mexico Borders for Vaccinated Travelers](https://www.nytimes.com/2021/10/12/us/politics/us-canada-mexico-borders-open.html) NYT: Opening the borders with Mexico and Canada, where crossing for nonessential travel has been barred for 19 months, will reconnect neighbors and provide a reprieve for businesses. 
+ <p class="updated_time"> 09:32 AM CT, Oct. 14 </p> 
+ [Norway Bow-and-Arrow Attack Investigated as Terrorism](https://www.wsj.com/articles/norway-bow-and-arrow-suspect-had-been-reported-for-radicalization-11634206917) WSJ: A Danish convert to Islam who was suspected of having been radicalized was charged with killing five people and injuring two in a bow-and-arrow attack in Norway, with authorities investigating it as terrorism. 
  <p class="updated_time"> 09:31 AM CT, Oct. 14 </p> 
  [British Museums Face Covid’s Long-Term Effects](https://www.nytimes.com/2021/10/14/arts/design/british-museums-recovery.html) NYT: Months of closures during the pandemic have caused financial havoc for art venues, and many expect to be strapped for years. At the Victoria and Albert Museum in London, the virus’s impact is clear. 
  <p class="updated_time"> 09:20 AM CT, Oct. 14 </p> 
