@@ -26,7 +26,7 @@ world_news <- full_join(nyt, wsj) %>%
                               sep = "")) %>%
   mutate(feed_plus_description = paste(feed,": ",item_description,
                                        sep = ""))%>%
-  mutate(utc_time = force_tz(item_pub_date, tz = "Europe/London")) %>%
+  mutate(utc_time = force_tz(item_pub_date, tz = "UTC")) %>%
   mutate(central_time = with_tz(utc_time, tz = "America/Chicago")) %>%
   mutate(clean_time = strftime(x = central_time, 
                                tz = "US/Central",
@@ -34,8 +34,6 @@ world_news <- full_join(nyt, wsj) %>%
 
 
 # create list ----
-
-#x <- 1
 lines <- c()
 for (x in 1:nrow(world_news)) {
   line=paste("-",world_news$item_md_link[[x]], 
