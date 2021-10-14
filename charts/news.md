@@ -6,6 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 04:29 PM CT, Oct. 14 </p> 
+ [With a new Michelin guide, Moscow's best-kept culinary secrets are out](https://www.bbc.co.uk/news/world-europe-58920839?at_medium=RSS&at_campaign=KARANGA) BBC: Nine Moscow restaurants have received Michelin stars for their food - a prestigious industry award. 
  <p class="updated_time"> 04:18 PM CT, Oct. 14 </p> 
  [Brazil soldiers who shot dead a musician convicted](https://www.bbc.co.uk/news/world-latin-america-58920462?at_medium=RSS&at_campaign=KARANGA) BBC: The men fired dozens of rounds into Evaldo dos Santos Rosa's car, killing him and a bystander. 
  <p class="updated_time"> 04:04 PM CT, Oct. 14 </p> 
@@ -92,8 +94,6 @@ permalink: /charts/news/
  [Lamu murder: Death sentence for popular Chinese vlogger's killer](https://www.bbc.co.uk/news/world-asia-china-58912991?at_medium=RSS&at_campaign=KARANGA) BBC: The man set his ex-wife alight during her livestream, causing outrage across the country. 
  <p class="updated_time"> 05:54 AM CT, Oct. 14 </p> 
  [Man With Bow and Arrows Kills Five in Norway](https://www.nytimes.com/2021/10/13/world/europe/norway-bow-arrow-attack.html) NYT: As the country went on alert, the police scrambled to investigate an attack in a town 50 miles outside Oslo. 
- <p class="updated_time"> 05:39 AM CT, Oct. 14 </p> 
- [Regeni murder: Egyptians go on trial for Italian student's murder](https://www.bbc.co.uk/news/world-europe-58894878?at_medium=RSS&at_campaign=KARANGA) BBC: Giulio Regeni was doing research for a Cambridge PhD when his body was found in a ditch near Cairo. 
  <p class="updated_time"> 05:31 AM CT, Oct. 14 </p> 
  [North Korean Soldiers Lie Shirtless on Broken Glass](https://www.nytimes.com/2021/10/14/world/asia/north-korea-propaganda-military-broken-glass.html) NYT: The country has never been known for its subtlety, and martial-art stunts have long been a mainstay of its  propaganda, designed to stoke national pride and instill fear in enemies. 
  <p class="updated_time"> 05:00 AM CT, Oct. 14 </p> 
