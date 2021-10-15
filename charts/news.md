@@ -6,6 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 01:18 AM CT, Oct. 15 </p> 
+ [Bill Clinton: Former US president in hospital for 'non-Covid infection'](https://www.bbc.co.uk/news/world-us-canada-58921615?at_medium=RSS&at_campaign=KARANGA) BBC: The former US president is said to be "on the mend" and "in good spirits" in hospital in California. 
  <p class="updated_time"> 01:10 AM CT, Oct. 15 </p> 
  [Scott Morrison: Australia PM to attend COP26 summit after global pressure](https://www.bbc.co.uk/news/world-australia-58907526?at_medium=RSS&at_campaign=KARANGA) BBC: Scott Morrison had said he might skip the summit, reigniting criticism of Australia's climate vows. 
  <p class="updated_time"> 12:59 AM CT, Oct. 15 </p> 
@@ -26,8 +28,6 @@ permalink: /charts/news/
  [Taiwan Building Fire Kills at Least 46](https://www.nytimes.com/2021/10/14/world/asia/taiwan-apartment-fire.html) NYT: Dozens more were injured after a fire broke out at a 13-story building in the southern port city of Kaohsiung. 
  <p class="updated_time"> 09:03 PM CT, Oct. 14 </p> 
  [North Korean Soldiers Lie Shirtless on Broken Glass](https://www.nytimes.com/2021/10/14/world/asia/north-korea-propaganda-military-broken-glass.html) NYT: The country has never been known for its subtlety, and martial-art stunts have long been a mainstay of its propaganda, designed to stoke national pride and instill fear in enemies. 
- <p class="updated_time"> 08:55 PM CT, Oct. 14 </p> 
- [Bill Clinton: Former US president in hospital for 'non-Covid infection'](https://www.bbc.co.uk/news/world-us-canada-58921615?at_medium=RSS&at_campaign=KARANGA) BBC: The former US president is said to be "on the mend" and in "good spirits" in hospital in California. 
  <p class="updated_time"> 08:19 PM CT, Oct. 14 </p> 
  [Faulty Studs Led to Mexico City Metro Collapse, Attorney General Says](https://www.nytimes.com/2021/10/14/world/americas/mexico-city-metro-collapse.html) NYT: A monthslong investigation by city authorities supports the central findings of a New York Times investigation, which had uncovered a series of fatal construction flaws. 
  <p class="updated_time"> 08:11 PM CT, Oct. 14 </p> 
