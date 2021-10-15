@@ -6,6 +6,10 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 09:03 PM CT, Oct. 14 </p> 
+ [North Korean Soldiers Lie Shirtless on Broken Glass](https://www.nytimes.com/2021/10/14/world/asia/north-korea-propaganda-military-broken-glass.html) NYT: The country has never been known for its subtlety, and martial-art stunts have long been a mainstay of its propaganda, designed to stoke national pride and instill fear in enemies. 
+ <p class="updated_time"> 08:55 PM CT, Oct. 14 </p> 
+ [Bill Clinton: Former US president in hospital for 'non-Covid infection'](https://www.bbc.co.uk/news/world-us-canada-58921615?at_medium=RSS&at_campaign=KARANGA) BBC: The former US president is said to be "on the mend" and in "good spirits" in hospital in California. 
  <p class="updated_time"> 08:19 PM CT, Oct. 14 </p> 
  [Faulty Studs Led to Mexico City Metro Collapse, Attorney General Says](https://www.nytimes.com/2021/10/14/world/americas/mexico-city-metro-collapse.html) NYT: A monthslong investigation by city authorities supports the central findings of a New York Times investigation, which had uncovered a series of fatal construction flaws. 
  <p class="updated_time"> 08:11 PM CT, Oct. 14 </p> 
@@ -60,8 +64,6 @@ permalink: /charts/news/
  [Moderna and J.& J. Boosters: What Are the Next Steps? ](https://www.nytimes.com/2021/10/14/us/covid-booster-vaccines-fda.html) NYT: Further steps will be required at the F.D.A. and at the C.D.C., in a process that ends with the states. 
  <p class="updated_time"> 02:16 PM CT, Oct. 14 </p> 
  [LinkedIn to End Service in China, Citing ‘Challenging’ Environment](https://www.nytimes.com/2021/10/14/technology/linkedin-china-microsoft.html) NYT: The Microsoft-owned service had censored posts in China, in compliance with the country’s laws, to operate there. 
- <p class="updated_time"> 01:47 PM CT, Oct. 14 </p> 
- [Steve Bannon: Congress plots criminal charge for former Trump aide](https://www.bbc.co.uk/news/world-us-canada-58919751?at_medium=RSS&at_campaign=KARANGA) BBC: Steve Bannon could face around one year in prison for not attending Capitol riot hearing. 
  <p class="updated_time"> 01:27 PM CT, Oct. 14 </p> 
  [As Western Oil Giants Cut Production, State-Owned Companies Step Up](https://www.nytimes.com/2021/10/14/business/energy-environment/oil-production-state-owned-companies.html) NYT: In the Middle East, Africa and Latin America, government-owned energy companies are increasing oil and natural gas production as U.S. and European companies pare supply because of climate concerns. 
  <p class="updated_time"> 01:24 PM CT, Oct. 14 </p> 
@@ -108,8 +110,6 @@ permalink: /charts/news/
  [Coldplay: Band announce first tour in four years with an 'eco-friendly' focus](https://www.bbc.co.uk/news/entertainment-arts-58907085?at_medium=RSS&at_campaign=KARANGA) BBC: The band have pledged that their upcoming tour will be sustainable, and as low-carbon as possible. 
  <p class="updated_time"> 05:54 AM CT, Oct. 14 </p> 
  [Man With Bow and Arrows Kills Five in Norway](https://www.nytimes.com/2021/10/13/world/europe/norway-bow-arrow-attack.html) NYT: As the country went on alert, the police scrambled to investigate an attack in a town 50 miles outside Oslo. 
- <p class="updated_time"> 05:31 AM CT, Oct. 14 </p> 
- [North Korean Soldiers Lie Shirtless on Broken Glass](https://www.nytimes.com/2021/10/14/world/asia/north-korea-propaganda-military-broken-glass.html) NYT: The country has never been known for its subtlety, and martial-art stunts have long been a mainstay of its  propaganda, designed to stoke national pride and instill fear in enemies. 
  <p class="updated_time"> 05:00 AM CT, Oct. 14 </p> 
  [Kaohsiung: Firefighters battle Taiwan tower block blaze](https://www.bbc.co.uk/news/world-asia-58909907?at_medium=RSS&at_campaign=KARANGA) BBC: At least 46 people have been killed in a fire at a tower block in the city of Kaohsiung, southern Taiwan. 
  <p class="updated_time"> 04:08 AM CT, Oct. 14 </p> 
