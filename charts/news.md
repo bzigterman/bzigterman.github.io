@@ -6,16 +6,22 @@ permalink: /charts/news/
 
 ## World News
 
- <p class="updated_time"> 06:50 AM CT, Oct. 15 </p> 
- [Blast at Afghan Mosque Kills and Injures More Than a Dozen](https://www.nytimes.com/2021/10/15/world/asia/afghanistan-mosque-blast.html) NYT: The explosion in Kandahar marked the second week in a row that attackers had struck a Shiite place of worship during Friday Prayer. 
+ <p class="updated_time"> 07:25 AM CT, Oct. 15 </p> 
+ [Live Updates: Italy’s Covid Vaccine Mandate Comes Into Force, a First for a Western Democracy](https://www.nytimes.com/live/2021/10/15/world/italy-covid-green-pass) NYT: All workers across public and private sectors are now required to be vaccinated or take frequent coronavirus tests. While many accepted the move as a necessity, it was greeted by protests in some parts of the country. 
+ <p class="updated_time"> 07:19 AM CT, Oct. 15 </p> 
+ [Blast at Afghan Mosque Kills 37 as Shiites Are Targeted Again](https://www.nytimes.com/2021/10/15/world/asia/afghanistan-mosque-blast.html) NYT: The explosion in Kandahar marked the second week in a row that attackers had struck a Shiite place of worship during Friday Prayer. 
+ <p class="updated_time"> 07:10 AM CT, Oct. 15 </p> 
+ [Afghanistan: Explosions strike Afghan mosque during prayers](https://www.bbc.co.uk/news/world-asia-58925863?at_medium=RSS&at_campaign=KARANGA) BBC: More than 30 people are killed after three blasts at a Shia mosque during Friday worship in Kandahar. 
+ <p class="updated_time"> 07:09 AM CT, Oct. 15 </p> 
+ [Lebanon Observes Day of Mourning After Sectarian Clashes Kill 6](https://www.nytimes.com/2021/10/15/world/middleeast/lebanon-beirut-violence-explosion.html) NYT: Beirut’s streets were quiet a day after gun battles between Christian and Shiite Muslim militias erupted amid tensions over an investigation into the port explosion last year. 
+ <p class="updated_time"> 07:08 AM CT, Oct. 15 </p> 
+ [As Italy Mandates Covid Passes, Rules Vary Across Europe](https://www.nytimes.com/2021/10/15/world/europe/covid-passes.html) NYT: Varying measures reflect domestic politics and potential opposition against such rules. 
+ <p class="updated_time"> 06:58 AM CT, Oct. 15 </p> 
+ [Hate Crimes and Pandemic Lead More Asian Americans to Seek Therapy](https://www.nytimes.com/2021/10/15/us/asian-american-therapy-hate-crimes.html) NYT: A growing number of Asian Americans have overcome a cultural stigma attached to seeking mental health treatment, experts said. 
  <p class="updated_time"> 06:45 AM CT, Oct. 15 </p> 
  [Two More Guantánamo Detainees Are Approved for Release](https://www.nytimes.com/2021/10/13/us/politics/guantanamo-detainees-transfer.html) NYT: A board has now backed the release of 12 out of the 39 men remaining at the prison, but U.S. diplomats must first reach security agreements with destination countries. 
- <p class="updated_time"> 06:35 AM CT, Oct. 15 </p> 
- [Afghanistan: Explosion strikes Afghan mosque during prayers](https://www.bbc.co.uk/news/world-asia-58925863?at_medium=RSS&at_campaign=KARANGA) BBC: More than 30 people are killed after a blast at a Shia mosque during Friday worship in Kandahar. 
  <p class="updated_time"> 06:30 AM CT, Oct. 15 </p> 
  [Masten Wanjala: Mob beats Kenyan child serial killer to death - police](https://www.bbc.co.uk/news/world-africa-58923592?at_medium=RSS&at_campaign=KARANGA) BBC: Police had launched a massive manhunt for Masten Wanjala, who confessed to killing several children. 
- <p class="updated_time"> 06:27 AM CT, Oct. 15 </p> 
- [As Italy Mandates Covid Passes, Rules Vary Across Europe](https://www.nytimes.com/2021/10/15/world/europe/covid-passes.html) NYT: Varying measures reflect domestic politics and potential opposition against such rules. 
  <p class="updated_time"> 06:10 AM CT, Oct. 15 </p> 
  [Taiwan Building Fire Kills at Least 46](https://www.nytimes.com/2021/10/14/world/asia/taiwan-apartment-fire.html) NYT: Dozens more were injured after a fire broke out at a 13-story building in the southern port city of Kaohsiung. 
  <p class="updated_time"> 06:06 AM CT, Oct. 15 </p> 
@@ -88,8 +94,6 @@ permalink: /charts/news/
  [Frida Kahlo, Aztec Gods: Can Art Lift Up a Poor Neighborhood?](https://www.nytimes.com/2021/10/14/world/americas/mexico-city-iztapalapa-murals.html) NYT: A new cableway and hundreds of giant murals have brightened lives in Iztapalapa, Mexico City’s most populous neighborhood, but poverty and attacks against women are still pervasive. 
  <p class="updated_time"> 04:29 PM CT, Oct. 14 </p> 
  [With a new Michelin guide, Moscow's best-kept culinary secrets are out](https://www.bbc.co.uk/news/world-europe-58920839?at_medium=RSS&at_campaign=KARANGA) BBC: Nine Moscow restaurants have received Michelin stars for their food - a prestigious industry award. 
- <p class="updated_time"> 03:56 PM CT, Oct. 14 </p> 
- [Border With Canada to Open, Businesses 'Could Not Be Happier'](https://www.nytimes.com/2021/10/14/nyregion/us-canada-border.html) NYT: Businesses along New York State’s northern border were celebrating the news that fully vaccinated Canadians would soon be allowed into the United States again. 
  <p class="updated_time"> 03:39 PM CT, Oct. 14 </p> 
  [Your Friday Briefing](https://www.nytimes.com/2021/10/14/briefing/beirut-violence-taiwan-fire-biodiversity-goodall.html) NYT: Beirut protests turn violent. 
  <p class="updated_time"> 03:09 PM CT, Oct. 14 </p> 
@@ -166,8 +170,6 @@ permalink: /charts/news/
  [Virginia’s Close Race](https://www.nytimes.com/2021/10/13/briefing/virginia-governors-race-youngkin-mcauliffe.html) NYT: We look at how the state’s governor’s race offers a preview of the midterms. 
  <p class="updated_time"> 05:57 AM CT, Oct. 13 </p> 
  [Amid U.S.-China Chill, Harvard Moves a Top Language Program to Taiwan](https://www.nytimes.com/2021/10/13/world/asia/harvard-chinese-program-taiwan.html) NYT: A university spokesman said the move out of Beijing had long been planned. The program’s director cited a perceived lack of friendliness from the host institution. 
- <p class="updated_time"> 01:50 AM CT, Oct. 13 </p> 
- [U.K. Escalates Dispute With E.U. Over Northern Ireland](https://www.nytimes.com/2021/10/12/world/europe/uk-eu-northern-ireland-protocol.html) NYT: Britain’s Brexit minister is demanding an overhaul of an agreement on trade rules for Northern Ireland. 
  <p class="updated_time"> 12:29 AM CT, Oct. 13 </p> 
  [Your Wednesday Briefing](https://www.nytimes.com/2021/10/12/briefing/china-housing-evergrande-flooding-india-law.html) NYT: China’s home buyers are frustrated. 
  <p class="updated_time"> 11:10 PM CT, Oct. 12 </p> 
