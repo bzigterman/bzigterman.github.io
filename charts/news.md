@@ -6,16 +6,26 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 06:10 AM CT, Oct. 15 </p> 
+ [Taiwan Building Fire Kills at Least 46](https://www.nytimes.com/2021/10/14/world/asia/taiwan-apartment-fire.html) NYT: Dozens more were injured after a fire broke out at a 13-story building in the southern port city of Kaohsiung. 
+ <p class="updated_time"> 06:06 AM CT, Oct. 15 </p> 
+ [Moderna and J.& J. Boosters: What Are the Next Steps? ](https://www.nytimes.com/2021/10/14/us/covid-booster-vaccines-fda.html) NYT: Further steps will be required at the F.D.A. and at the C.D.C., in a process that ends with the states. 
+ <p class="updated_time"> 06:06 AM CT, Oct. 15 </p> 
+ [Newly Discovered Bat Viruses Give Hints to Covid’s Origins](https://www.nytimes.com/2021/10/14/science/bat-coronaviruses-lab-leak.html) NYT: Coronaviruses discovered in Laotian bats are surprisingly adept at infecting human cells, showing that such deadly features can indeed evolve outside of a lab. 
+ <p class="updated_time"> 06:05 AM CT, Oct. 15 </p> 
+ [Taiwan’s ‘Ghost Building’ Fire: a Death Trap for Dozens of Elderly](https://www.nytimes.com/2021/10/15/world/asia/taiwan-building-fire.html) NYT: “I had no choice but to live here,” said one resident who survived a blaze that killed 46 of her neighbors and raised questions about lax safety standards. 
+ <p class="updated_time"> 06:04 AM CT, Oct. 15 </p> 
+ [Minnesota Hospital Struggle Under Weight of Latest Virus Surge](https://www.nytimes.com/2021/10/13/world/minnesota-hospitals-capacity-virus-surge.html) NYT: New daily cases have risen by 29 percent in the last two weeks and hospitalizations by 17 percent, according to a New York Times database. 
+ <p class="updated_time"> 06:03 AM CT, Oct. 15 </p> 
+ [Henrietta Lacks, Whose Cells Were Taken Without Her Consent, Is Honored by W.H.O.](https://www.nytimes.com/2021/10/13/science/henrietta-lacks-cells-who.html) NYT: In a ceremony in Geneva, the World Health Organization presented an award to the family of Ms. Lacks, whose cancer cells led to world-changing advances in medical and scientific research. 
+ <p class="updated_time"> 06:03 AM CT, Oct. 15 </p> 
+ [Afghanistan: Explosion strikes Afghan mosque during prayers](https://www.bbc.co.uk/news/world-asia-58925863?at_medium=RSS&at_campaign=KARANGA) BBC: At least 16 people are killed after a blast at a Shia mosque during Friday worship in Kandahar. 
  <p class="updated_time"> 05:49 AM CT, Oct. 15 </p> 
  [Scott Morrison: Australia PM to attend COP26 summit after global pressure](https://www.bbc.co.uk/news/world-australia-58907526?at_medium=RSS&at_campaign=KARANGA) BBC: Scott Morrison had said he might skip the summit, reigniting criticism of Australia's climate vows. 
- <p class="updated_time"> 05:44 AM CT, Oct. 15 </p> 
- [A Last-Chance ‘Ghost Building’ in Taiwan Becomes a Death Trap for Many](https://www.nytimes.com/2021/10/15/world/asia/taiwan-building-fire.html) NYT: “I had no choice but to live here,” said one resident who survived a blaze that killed 46 of her neighbors and raised questions about lax safety standards. 
  <p class="updated_time"> 05:40 AM CT, Oct. 15 </p> 
  [Kongsberg attack: Norwegian town left asking questions after murders](https://www.bbc.co.uk/news/world-europe-58923879?at_medium=RSS&at_campaign=KARANGA) BBC: The innocence of a quiet town outside Oslo is shattered and residents are demanding answers. 
  <p class="updated_time"> 05:18 AM CT, Oct. 15 </p> 
  [Booster Confusion](https://www.nytimes.com/2021/10/15/briefing/johnson-and-johnson-booster-fda.html) NYT: When an F.D.A. panel meets today about J. & J. booster shots, there will be an elephant in the room. 
- <p class="updated_time"> 05:14 AM CT, Oct. 15 </p> 
- [Afghanistan: Explosion strikes Afghan mosque during prayers](https://www.bbc.co.uk/news/world-asia-58925863?at_medium=RSS&at_campaign=KARANGA) BBC: At least 16 people are killed after a blast at a Shia mosque during Friday prayers in Kandahar. 
  <p class="updated_time"> 05:07 AM CT, Oct. 15 </p> 
  [Christchurch: New Zealand city parts ways with its wizard](https://www.bbc.co.uk/news/world-asia-58924306?at_medium=RSS&at_campaign=KARANGA) BBC: Christchurch was the only city in the world with its own official wizard. 
  <p class="updated_time"> 05:06 AM CT, Oct. 15 </p> 
@@ -44,8 +54,6 @@ permalink: /charts/news/
  [LinkedIn to End Service in China, Citing ‘Challenging’ Environment](https://www.nytimes.com/2021/10/14/technology/linkedin-china-microsoft.html) NYT: The Microsoft-owned service had censored posts in China, in compliance with the country’s laws, to operate there. 
  <p class="updated_time"> 10:52 PM CT, Oct. 14 </p> 
  [As Western Oil Giants Cut Production, State-Owned Companies Step Up](https://www.nytimes.com/2021/10/14/business/energy-environment/oil-production-state-owned-companies.html) NYT: In the Middle East, Africa and Latin America, government-owned energy companies are increasing oil and natural gas production as U.S. and European companies pare supply because of climate concerns. 
- <p class="updated_time"> 09:38 PM CT, Oct. 14 </p> 
- [Taiwan Building Fire Kills at Least 46](https://www.nytimes.com/2021/10/14/world/asia/taiwan-apartment-fire.html) NYT: Dozens more were injured after a fire broke out at a 13-story building in the southern port city of Kaohsiung. 
  <p class="updated_time"> 09:03 PM CT, Oct. 14 </p> 
  [North Korean Soldiers Lie Shirtless on Broken Glass](https://www.nytimes.com/2021/10/14/world/asia/north-korea-propaganda-military-broken-glass.html) NYT: The country has never been known for its subtlety, and martial-art stunts have long been a mainstay of its propaganda, designed to stoke national pride and instill fear in enemies. 
  <p class="updated_time"> 08:19 PM CT, Oct. 14 </p> 
@@ -82,8 +90,6 @@ permalink: /charts/news/
  [Most Covid Cases in Africa Go Undetected, W.H.O. Says](https://www.nytimes.com/2021/10/14/world/covid-africa-who.html) NYT: “Now is the time to go on the offensive against Covid-19, and work with local communities to break transmission chains and stop wider outbreaks from happening,” Dr. Matshidiso Moeti said. 
  <p class="updated_time"> 02:46 PM CT, Oct. 14 </p> 
  [Norway Bow-and-Arrow Rampage Treated as Apparent Terrorism Attack](https://www.nytimes.com/2021/10/14/world/europe/norway-bow-and-arrow-attack.html) NYT: The police said that they had previously contacted the suspect, a 37-year-old Danish citizen who is believed to have killed five people, over concerns that he had been radicalized. 
- <p class="updated_time"> 02:34 PM CT, Oct. 14 </p> 
- [Moderna and J.& J. Boosters: What Are the Next Steps? ](https://www.nytimes.com/2021/10/14/us/covid-booster-vaccines-fda.html) NYT: Further steps will be required at the F.D.A. and at the C.D.C., in a process that ends with the states. 
  <p class="updated_time"> 01:24 PM CT, Oct. 14 </p> 
  [U.S. Antigovernment Groups Are Influencing the French Far Right](https://www.nytimes.com/2021/10/13/us/politics/france-far-right-extremists-qanon.html) NYT: The top French intelligence official, who is visiting Washington this week, said QAnon and other conspiracy theories were spreading to Europe. 
  <p class="updated_time"> 01:23 PM CT, Oct. 14 </p> 
@@ -96,12 +102,8 @@ permalink: /charts/news/
  [U.S., European Nations Claim Progress on Path to Removing Digital Taxes](https://www.wsj.com/articles/u-s-european-nations-claim-progress-on-path-to-removing-digital-taxes-11634244167) WSJ: The U.S. and five European countries have reached an agreement on how those countries’ digital-service taxes would be withdrawn as a broader global tax agreement moves forward, French Finance Minister Bruno Le Maire said. 
  <p class="updated_time"> 11:40 AM CT, Oct. 14 </p> 
  [IMF Seeks to Allay Doubts Following Data-Rigging Scandal](https://www.wsj.com/articles/imf-seeks-to-allay-doubts-following-data-rigging-scandal-move-forward-with-new-agenda-11634244047) WSJ: The International Monetary Fund is working to regain its footing in international financial markets while it works to balance the competing interests of its two main backers, the U.S. and China. 
- <p class="updated_time"> 11:34 AM CT, Oct. 14 </p> 
- [Newly Discovered Bat Viruses Give Hints to Covid’s Origins](https://www.nytimes.com/2021/10/14/science/bat-coronaviruses-lab-leak.html) NYT: Coronaviruses discovered in Laotian bats are surprisingly adept at infecting human cells, showing that such deadly features can indeed evolve outside of a lab. 
  <p class="updated_time"> 11:22 AM CT, Oct. 14 </p> 
  [Norway attack: Witness describes hearing 'thunk sound' of weapon](https://www.bbc.co.uk/news/world-europe-58910059?at_medium=RSS&at_campaign=KARANGA) BBC: Residents in Kongsberg react to the bow and arrow attack in their neighbourhood. 
- <p class="updated_time"> 11:20 AM CT, Oct. 14 </p> 
- [Henrietta Lacks, Whose Cells Were Taken Without Her Consent, Is Honored by W.H.O.](https://www.nytimes.com/2021/10/13/science/henrietta-lacks-cells-who.html) NYT: In a ceremony in Geneva, the World Health Organization presented an award to the family of Ms. Lacks, whose cancer cells led to world-changing advances in medical and scientific research. 
  <p class="updated_time"> 10:56 AM CT, Oct. 14 </p> 
  [Squid Game Ahead? No, Just Directions, British Police Explain](https://www.nytimes.com/2021/10/13/world/europe/squid-game-road-sign.html) NYT: The police in England clarified that a highway sign featuring symbols that also appear on the hit Netflix series merely indicated a detour. 
  <p class="updated_time"> 10:39 AM CT, Oct. 14 </p> 
@@ -158,8 +160,6 @@ permalink: /charts/news/
  [What is climate change? A really simple guide](https://www.bbc.co.uk/news/science-environment-24021772?at_medium=RSS&at_campaign=KARANGA) BBC: World temperatures are rising because of human activity, and climate change now threatens every aspect of human life. 
  <p class="updated_time"> 07:33 AM CT, Oct. 13 </p> 
  [Virginia’s Close Race](https://www.nytimes.com/2021/10/13/briefing/virginia-governors-race-youngkin-mcauliffe.html) NYT: We look at how the state’s governor’s race offers a preview of the midterms. 
- <p class="updated_time"> 06:34 AM CT, Oct. 13 </p> 
- [Minnesota Hospital Struggle Under Weight of Latest Virus Surge](https://www.nytimes.com/2021/10/13/world/minnesota-hospitals-capacity-virus-surge.html) NYT: New daily cases have risen by 29 percent in the last two weeks and hospitalizations by 17 percent, according to a New York Times database. 
  <p class="updated_time"> 05:57 AM CT, Oct. 13 </p> 
  [Amid U.S.-China Chill, Harvard Moves a Top Language Program to Taiwan](https://www.nytimes.com/2021/10/13/world/asia/harvard-chinese-program-taiwan.html) NYT: A university spokesman said the move out of Beijing had long been planned. The program’s director cited a perceived lack of friendliness from the host institution. 
  <p class="updated_time"> 01:50 AM CT, Oct. 13 </p> 
