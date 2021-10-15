@@ -6,6 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 01:32 PM CT, Oct. 15 </p> 
+ [Blast at Afghan Mosque Kills Dozens as Shiites Are Targeted Again](https://www.nytimes.com/2021/10/15/world/asia/afghanistan-mosque-blast.html) NYT: It was the second week in a row that attackers had struck a Shiite place of worship during Friday Prayer. 
  <p class="updated_time"> 01:09 PM CT, Oct. 15 </p> 
  [David Amess, Conservative Lawmaker in U.K., Is Reported Stabbed to Death](https://www.nytimes.com/2021/10/15/world/europe/conservative-mp-david-amess-stabbing.html) NYT: David Amess, a Conservative member of Parliament, was holding a meeting in his local constituency at the time of the attack. 
  <p class="updated_time"> 01:04 PM CT, Oct. 15 </p> 
@@ -16,8 +18,6 @@ permalink: /charts/news/
  [Lebanon Observes Day of Mourning After Deadly Sectarian Clashes](https://www.nytimes.com/2021/10/15/world/middleeast/lebanon-beirut-violence-explosion.html) NYT: The death toll rose to seven a day after gun battles between Christian and Shiite Muslim militias erupted amid tensions over an investigation into the port explosion last year. 
  <p class="updated_time"> 12:06 PM CT, Oct. 15 </p> 
  [Covid: US to lift travel ban for fully jabbed on 8 November](https://www.bbc.co.uk/news/world-us-canada-58929441?at_medium=RSS&at_campaign=KARANGA) BBC: Fully vaccinated travellers will be allowed to enter the US for the first time since March 2020. 
- <p class="updated_time"> 12:01 PM CT, Oct. 15 </p> 
- [Blast at Afghan Mosque Kills Dozens as Shiites Are Targeted Again](https://www.nytimes.com/2021/10/15/world/asia/afghanistan-mosque-blast.html) NYT: It was the second week in a row that attackers had struck a Shiite place of worship during Friday Prayer. 
  <p class="updated_time"> 11:59 AM CT, Oct. 15 </p> 
  [China Launches First Woman With New Crew to Space Station](https://www.nytimes.com/article/china-mars-space.html) NYT: China has launched a second crew to the country’s new orbiting space station. The mission is one of many challenging U.S. dominance of space exploration. 
  <p class="updated_time"> 11:40 AM CT, Oct. 15 </p> 
@@ -164,8 +164,6 @@ permalink: /charts/news/
  [Your Thursday Briefing](https://www.nytimes.com/2021/10/13/briefing/populism-europe-norway-attack.html) NYT: A blow for populism in Europe. 
  <p class="updated_time"> 10:08 PM CT, Oct. 13 </p> 
  [U.K. Agency Issues Climate Change Warning Before U.N. Summit](https://www.nytimes.com/2021/10/13/world/europe/uk-adapt-die-climate-change.html) NYT: With more extreme weather events expected to bring floods and droughts, the body urged world leaders to focus on mitigating the effects of global warming. 
- <p class="updated_time"> 07:51 PM CT, Oct. 13 </p> 
- [This Pristine Beach Is One of Japan’s Last. Soon It Will Be Filled With Concrete.](https://www.nytimes.com/2021/10/13/world/asia/japan-katoku-seawall.html) NYT: In rural Japan, the unstoppable forces of nature meet the immovable determination of the construction state. Can this village survive? 
  <p class="updated_time"> 04:23 PM CT, Oct. 13 </p> 
  [Your Thursday Briefing](https://www.nytimes.com/2021/10/13/briefing/china-power-coal-global-supply-space.html) NYT: China’s power and coal shortages. 
  <p class="updated_time"> 03:53 PM CT, Oct. 13 </p> 
