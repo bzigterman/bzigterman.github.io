@@ -6,12 +6,16 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 11:16 PM CT, Oct. 14 </p> 
+ [Beirut port blast: Day of mourning in Lebanon after bloodshed at protest](https://www.bbc.co.uk/news/world-middle-east-58921314?at_medium=RSS&at_campaign=KARANGA) BBC: At least six people were killed and 32 injured in a shooting at a protest in Beirut on Thursday. 
+ <p class="updated_time"> 11:09 PM CT, Oct. 14 </p> 
+ [Your Friday Briefing](https://www.nytimes.com/2021/10/15/briefing/beirut-fighting-pandemic-america.html) NYT: The state of the pandemic in the U.S. 
+ <p class="updated_time"> 11:07 PM CT, Oct. 14 </p> 
+ [Hong Kong: Friendly beers lead to murder suspect's arrest](https://www.bbc.co.uk/news/world-asia-china-58922006?at_medium=RSS&at_campaign=KARANGA) BBC: The man went on the run after he allegedly killed a taxi driver, in a case that gripped the city. 
  <p class="updated_time"> 11:01 PM CT, Oct. 14 </p> 
  [LinkedIn to End Service in China, Citing ‘Challenging’ Environment](https://www.nytimes.com/2021/10/14/technology/linkedin-china-microsoft.html) NYT: The Microsoft-owned service had censored posts in China, in compliance with the country’s laws, to operate there. 
  <p class="updated_time"> 10:52 PM CT, Oct. 14 </p> 
  [As Western Oil Giants Cut Production, State-Owned Companies Step Up](https://www.nytimes.com/2021/10/14/business/energy-environment/oil-production-state-owned-companies.html) NYT: In the Middle East, Africa and Latin America, government-owned energy companies are increasing oil and natural gas production as U.S. and European companies pare supply because of climate concerns. 
- <p class="updated_time"> 10:23 PM CT, Oct. 14 </p> 
- [India to allow first foreign tourists in 19 months](https://www.bbc.co.uk/news/world-asia-india-58880429?at_medium=RSS&at_campaign=KARANGA) BBC: In the first instance, foreign tourists arriving on chartered flights will be allowed in from 15 October. 
  <p class="updated_time"> 09:38 PM CT, Oct. 14 </p> 
  [Taiwan Building Fire Kills at Least 46](https://www.nytimes.com/2021/10/14/world/asia/taiwan-apartment-fire.html) NYT: Dozens more were injured after a fire broke out at a 13-story building in the southern port city of Kaohsiung. 
  <p class="updated_time"> 09:18 PM CT, Oct. 14 </p> 
@@ -70,8 +74,6 @@ permalink: /charts/news/
  [U.S. Antigovernment Groups Are Influencing the French Far Right](https://www.nytimes.com/2021/10/13/us/politics/france-far-right-extremists-qanon.html) NYT: The top French intelligence official, who is visiting Washington this week, said QAnon and other conspiracy theories were spreading to Europe. 
  <p class="updated_time"> 01:23 PM CT, Oct. 14 </p> 
  [Gunfights Rock Beirut Following Hezbollah Protest Against Blast Probe](https://www.wsj.com/articles/gunfights-rock-beirut-following-hezbollah-protest-against-blast-probe-11634213261) WSJ: Sectarian clashes turned neighborhoods of Beirut into a free-fire zone, killing six and reviving memories of Lebanon’s civil war. 
- <p class="updated_time"> 12:26 PM CT, Oct. 14 </p> 
- [Beirut port blast: Gunfire erupts at protest against judge leading probe](https://www.bbc.co.uk/news/world-middle-east-58901611?at_medium=RSS&at_campaign=KARANGA) BBC: At least six die as protesters come under fire, in some of Lebanon's worst violence in years. 
  <p class="updated_time"> 11:59 AM CT, Oct. 14 </p> 
  [Kongsberg: Bow and arrow attack appears to be terrorism - officials](https://www.bbc.co.uk/news/world-europe-58910794?at_medium=RSS&at_campaign=KARANGA) BBC: Security officials says the Kongsberg attack on Wednesday looks to have been a "terrorist act". 
  <p class="updated_time"> 11:51 AM CT, Oct. 14 </p> 
@@ -178,8 +180,6 @@ permalink: /charts/news/
  [UN Top Court Largely Sides With Somalia Over Kenya in Ocean Dispute](https://www.nytimes.com/2021/10/12/world/africa/kenya-somalia-maritime-dispute.html) NYT: A court ruling largely gave Somalia control over a patch of the Indian Ocean believed to be rich in oil and gas, a decision that may further raise tensions between the countries. 
  <p class="updated_time"> 02:36 PM CT, Oct. 12 </p> 
  [Britain’s Covid Missteps Cost Thousands of Lives, Inquiry Finds](https://www.nytimes.com/2021/10/12/world/europe/uk-covid-deaths-inquiry.html) NYT: Prime Minister Boris Johnson’s slowness last year to impose a lockdown and institute widespread testing had tragic results, according to a parliamentary report. 
- <p class="updated_time"> 10:48 AM CT, Oct. 12 </p> 
- [Sally Rooney Declines to Sell Translation Rights to Israeli Publisher](https://www.nytimes.com/2021/10/12/books/sally-rooney-israel-translation.html) NYT: The author of “Beautiful World, Where Are You” turned down an offer from an Israeli publisher to translate the novel to Hebrew, citing her support for Palestinians “in their struggle for freedom, justice and equality.” 
  <p class="updated_time"> 09:55 AM CT, Oct. 12 </p> 
  [One Woman Won a Nobel This Year. Quotas Aren’t the Answer, an Official Says.](https://www.nytimes.com/2021/10/12/world/nobel-prize-woman-gender-ethnicity.html) NYT: Only one of the 13 laureates this year was a woman, but the head of the Royal Swedish Academy of Sciences dismissed the idea of guaranteeing representation. 
  <p class="updated_time"> 05:01 AM CT, Oct. 11 </p> 
