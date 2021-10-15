@@ -6,6 +6,10 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 12:10 AM CT, Oct. 15 </p> 
+ [Squid Game: India police's viral post on road safety inspired by hit show](https://www.bbc.co.uk/news/world-asia-india-58922256?at_medium=RSS&at_campaign=KARANGA) BBC: Mumbai police shared a viral video on traffic rules inspired by the hyper-violent, Korean drama. 
+ <p class="updated_time"> 12:02 AM CT, Oct. 15 </p> 
+ [Scott Morrison: Australia's PM to attend COP26 climate summit](https://www.bbc.co.uk/news/world-australia-58907526?at_medium=RSS&at_campaign=KARANGA) BBC: Scott Morrison had said he might skip the summit, reigniting criticism of Australia's climate vows. 
  <p class="updated_time"> 11:59 PM CT, Oct. 14 </p> 
  [Beirut port blast: Day of mourning in Lebanon after bloodshed at protest](https://www.bbc.co.uk/news/world-middle-east-58921314?at_medium=RSS&at_campaign=KARANGA) BBC: At least six people were killed and 32 injured in a shooting at a protest in Beirut on Thursday. 
  <p class="updated_time"> 11:09 PM CT, Oct. 14 </p> 
@@ -50,8 +54,6 @@ permalink: /charts/news/
  [U.S. Regains Seat at U.N. Human Rights Council, 3 Years After Quitting](https://www.nytimes.com/2021/10/14/world/un-us-human-rights-council.html) NYT: The Trump administration called the 47-nation council hypocritical and said it was vilifying Israel. The Biden administration says the U.S. can be more effective as a member. 
  <p class="updated_time"> 05:06 PM CT, Oct. 14 </p> 
  [Frida Kahlo, Aztec Gods: Can Art Lift Up a Poor Neighborhood?](https://www.nytimes.com/2021/10/14/world/americas/mexico-city-iztapalapa-murals.html) NYT: A new cableway and hundreds of giant murals have brightened lives in Iztapalapa, Mexico City’s most populous neighborhood, but poverty and attacks against women are still pervasive. 
- <p class="updated_time"> 04:54 PM CT, Oct. 14 </p> 
- [Agnes Tirop: Husband arrested in Kenya after athlete's death](https://www.bbc.co.uk/news/world-africa-58919391?at_medium=RSS&at_campaign=KARANGA) BBC: Record-breaking long-distance runner Agnes Tirop was found stabbed to death at her home on Wednesday. 
  <p class="updated_time"> 04:29 PM CT, Oct. 14 </p> 
  [With a new Michelin guide, Moscow's best-kept culinary secrets are out](https://www.bbc.co.uk/news/world-europe-58920839?at_medium=RSS&at_campaign=KARANGA) BBC: Nine Moscow restaurants have received Michelin stars for their food - a prestigious industry award. 
  <p class="updated_time"> 04:18 PM CT, Oct. 14 </p> 
@@ -126,14 +128,8 @@ permalink: /charts/news/
  [How Éric Zemmour Is Turning French Politics Upside Down ](https://www.nytimes.com/2021/10/12/world/europe/eric-zemmour-macron-france-election.html) NYT: Éric Zemmour, an anti-immigrant writer and TV commentator, is surging in opinion polls before presidential elections next year — and he is not yet a candidate. 
  <p class="updated_time"> 07:51 PM CT, Oct. 13 </p> 
  [This Pristine Beach Is One of Japan’s Last. Soon It Will Be Filled With Concrete.](https://www.nytimes.com/2021/10/13/world/asia/japan-katoku-seawall.html) NYT: In rural Japan, the unstoppable forces of nature meet the immovable determination of the construction state. Can this village survive? 
- <p class="updated_time"> 06:19 PM CT, Oct. 13 </p> 
- [Europe gas prices: How far is Russia responsible?](https://www.bbc.co.uk/news/58888451?at_medium=RSS&at_campaign=KARANGA) BBC: Moscow has been accused by some of playing politics with gas supplies, but there's a range of factors at work. 
- <p class="updated_time"> 06:12 PM CT, Oct. 13 </p> 
- [Covid-19 in Brazil: 'My mum was used as a guinea pig'](https://www.bbc.co.uk/news/world-latin-america-58891004?at_medium=RSS&at_campaign=KARANGA) BBC: A Brazilian healthcare provider is accused of conducting trials on Covid-19 patients without consent. 
  <p class="updated_time"> 05:44 PM CT, Oct. 13 </p> 
  [Climate change in India: Teen inventor's solar-powered ironing cart](https://www.bbc.co.uk/news/science-environment-58889532?at_medium=RSS&at_campaign=KARANGA) BBC: India's ironing vendors use charcoal as fuel, but Vinisha Umashankar's cart harnesses the Sun's energy. 
- <p class="updated_time"> 05:36 PM CT, Oct. 13 </p> 
- [Afghanistan: The New York rabbi evacuating desperate Afghans](https://www.bbc.co.uk/news/world-us-canada-58729508?at_medium=RSS&at_campaign=KARANGA) BBC: Rabbi Moshe Margaretten says he gets calls in the middle of the night from people in Afghanistan asking for help. 
  <p class="updated_time"> 04:27 PM CT, Oct. 13 </p> 
  [Two More Guantánamo Detainees Are Approved for Release](https://www.nytimes.com/2021/10/13/us/politics/guantanamo-detainees-transfer.html) NYT: A board has now backed the release of 12 out of the 39 men remaining at the prison, but U.S. diplomats must first reach security agreements with destination countries. 
  <p class="updated_time"> 04:23 PM CT, Oct. 13 </p> 
