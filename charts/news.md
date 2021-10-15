@@ -6,10 +6,10 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 05:37 AM CT, Oct. 15 </p> 
+ [A Last-Chance ‘Ghost Building’ in Taiwan Becomes a Death Trap for Many](https://www.nytimes.com/2021/10/15/world/asia/taiwan-building-fire.html) NYT: “I had no choice but to live here,” said one resident who survived a blaze that killed 46 of her neighbors and raised questions about lax safety standards. 
  <p class="updated_time"> 05:18 AM CT, Oct. 15 </p> 
  [Booster Confusion](https://www.nytimes.com/2021/10/15/briefing/johnson-and-johnson-booster-fda.html) NYT: When an F.D.A. panel meets today about J. & J. booster shots, there will be an elephant in the room. 
- <p class="updated_time"> 05:15 AM CT, Oct. 15 </p> 
- [A Last-Chance ‘Ghost Building’ in Taiwan Becomes a Death Trap for Many](https://www.nytimes.com/2021/10/15/world/asia/taiwan-building-fire.html) NYT: “I had no choice but to live here,” said one resident who survived a blaze that killed 46 of her neighbors and raised questions about lax safety standards. 
  <p class="updated_time"> 05:14 AM CT, Oct. 15 </p> 
  [Afghanistan: Explosion strikes Afghan mosque during prayers](https://www.bbc.co.uk/news/world-asia-58925863?at_medium=RSS&at_campaign=KARANGA) BBC: At least 16 people are killed after a blast at a Shia mosque during Friday prayers in Kandahar. 
  <p class="updated_time"> 05:07 AM CT, Oct. 15 </p> 
