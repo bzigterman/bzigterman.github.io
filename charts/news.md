@@ -6,6 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 05:00 PM CT, Oct. 15 </p> 
+ [Booster Confusion](https://www.nytimes.com/2021/10/15/briefing/johnson-and-johnson-booster-fda.html) NYT: When an F.D.A. panel meets today about J. & J. booster shots, there will be an elephant in the room. 
  <p class="updated_time"> 04:48 PM CT, Oct. 15 </p> 
  [Italy's New Law Requires Workers to Get Covid Vaccine or Testing](https://www.nytimes.com/2021/10/15/world/europe/italy-vaccination-law-covid.html) NYT: The rollout went more or less smoothly, with only scattered protests, as the majority of citizens accepted the ‘Green Pass’ as a tolerable sacrifice to stem the Covid pandemic. 
  <p class="updated_time"> 04:46 PM CT, Oct. 15 </p> 
@@ -98,8 +100,6 @@ permalink: /charts/news/
  [Where Will Wally the Wandering Walrus End Up?](https://www.wsj.com/articles/where-will-wally-the-wandering-walrus-end-up-11634309674) WSJ: Researchers hoped to help him find his way back to the Arctic after an epic tour around Europe; ‘People were telling us to come and take him away’ 
  <p class="updated_time"> 05:40 AM CT, Oct. 15 </p> 
  [Kongsberg attack: Norwegian town left asking questions after murders](https://www.bbc.co.uk/news/world-europe-58923879?at_medium=RSS&at_campaign=KARANGA) BBC: The innocence of a quiet town outside Oslo is shattered and residents are demanding answers. 
- <p class="updated_time"> 05:18 AM CT, Oct. 15 </p> 
- [Booster Confusion](https://www.nytimes.com/2021/10/15/briefing/johnson-and-johnson-booster-fda.html) NYT: When an F.D.A. panel meets today about J. & J. booster shots, there will be an elephant in the room. 
  <p class="updated_time"> 04:23 AM CT, Oct. 15 </p> 
  [Inflation Sets Off Alarms Around the World](https://www.wsj.com/articles/inflation-sets-off-alarms-around-the-world-11634304187) WSJ: More than a dozen central banks have raised interest rates but two that haven’t are those that loom largest over the global economy: the Federal Reserve and the European Central Bank. 
  <p class="updated_time"> 03:39 AM CT, Oct. 15 </p> 
