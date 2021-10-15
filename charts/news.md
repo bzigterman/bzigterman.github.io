@@ -6,6 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 06:25 PM CT, Oct. 15 </p> 
+ [David Amess, Conservative Lawmaker in U.K., Is Reported Stabbed to Death](https://www.nytimes.com/2021/10/15/world/europe/conservative-mp-david-amess-stabbing.html) NYT: David Amess, a Conservative member of Parliament, was holding a meeting in his constituency at the time. He is the second politician killed in an attack in just over five years. 
  <p class="updated_time"> 06:01 PM CT, Oct. 15 </p> 
  [Meghan Markle's donation a 'lifesaver' for community kitchen users](https://www.bbc.co.uk/news/uk-england-nottinghamshire-58872804?at_medium=RSS&at_campaign=KARANGA) BBC: Money donated by the Duchess of Sussex has been spent on feeding Nottingham's most vulnerable. 
  <p class="updated_time"> 06:01 PM CT, Oct. 15 </p> 
@@ -14,8 +16,6 @@ permalink: /charts/news/
  [Life at 50C: Fleeing Sahara's shifting sands](https://www.bbc.co.uk/news/science-environment-58925616?at_medium=RSS&at_campaign=KARANGA) BBC: Rising temperatures and desertification are forcing many Mauritanians to leave their ancestral homes in search of a better life. 
  <p class="updated_time"> 05:45 PM CT, Oct. 15 </p> 
  [Nike Jordan boss reveals he murdered an 18-year-old in 1965](https://www.bbc.co.uk/news/world-us-canada-58931528?at_medium=RSS&at_campaign=KARANGA) BBC: Larry Miller, now 72, said he was in a gang as a teenager when he shot an 18-year-old man. 
- <p class="updated_time"> 05:39 PM CT, Oct. 15 </p> 
- [David Amess, Conservative Lawmaker in U.K., Is Reported Stabbed to Death](https://www.nytimes.com/2021/10/15/world/europe/conservative-mp-david-amess-stabbing.html) NYT: David Amess, a Conservative member of Parliament, was holding a meeting in his constituency at the time. He is the second politician killed in an attack in just over five years. 
  <p class="updated_time"> 05:00 PM CT, Oct. 15 </p> 
  [Booster Confusion](https://www.nytimes.com/2021/10/15/briefing/johnson-and-johnson-booster-fda.html) NYT: When an F.D.A. panel meets today about J. & J. booster shots, there will be an elephant in the room. 
  <p class="updated_time"> 04:48 PM CT, Oct. 15 </p> 
@@ -38,6 +38,8 @@ permalink: /charts/news/
  [Virgin Galactic delays first commercial space flight](https://www.bbc.co.uk/news/business-58930280?at_medium=RSS&at_campaign=KARANGA) BBC: Shares in the firm dive 20% as it delays first tourist flight to make upgrades. 
  <p class="updated_time"> 01:58 PM CT, Oct. 15 </p> 
  [Abu Musab al-Barnawi, Leader of ISWAP, Has Died, Nigerian Army Says](https://www.nytimes.com/2021/10/15/world/africa/nigeria-islamic-state-abu-musab-al-barnawi-dead.html) NYT: A top military commander said that Abu Musab al-Barnawi, a kingpin of an extremist organization known as the Islamic State West Africa Province, had died. 
+ <p class="updated_time"> 01:28 PM CT, Oct. 15 </p> 
+ [Cricket - CSK beat KKR to win fourth IPL title](https://www.bbc.co.uk/sport/cricket/58929602?at_medium=RSS&at_campaign=KARANGA) BBC: Chennai Super Kings have been crowned Indian Premier League champions for the fourth time after beating Kolkata Knight Riders by 27 runs in the final. 
  <p class="updated_time"> 12:36 PM CT, Oct. 15 </p> 
  [Lebanon Observes Day of Mourning After Deadly Sectarian Clashes](https://www.nytimes.com/2021/10/15/world/middleeast/lebanon-beirut-violence-explosion.html) NYT: The death toll rose to seven a day after gun battles between Christian and Shiite Muslim militias erupted amid tensions over an investigation into the port explosion last year. 
  <p class="updated_time"> 12:15 PM CT, Oct. 15 </p> 
