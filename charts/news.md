@@ -6,8 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
- <p class="updated_time"> 12:43 PM CT, Oct. 15 </p> 
- [Live Updates: Italy’s Covid Vaccine Mandate Takes Effect, a First for a Western Democracy](https://www.nytimes.com/live/2021/10/15/world/italy-covid-green-pass) NYT: All public and private sector workers must be vaccinated or take frequent coronavirus tests. Opponents tried to mount protests, but most Italians appeared to accept the rule as necessary. 
+ <p class="updated_time"> 12:48 PM CT, Oct. 15 </p> 
+ [Live Updates: Protests Fizzle as Italy Imposes Covid Vaccine Mandate in Workplaces](https://www.nytimes.com/live/2021/10/15/world/italy-covid-green-pass) NYT: All public and private sector workers must be vaccinated or take frequent coronavirus tests. Opponents tried to mount protests, but most Italians appeared to accept the rule as necessary. 
  <p class="updated_time"> 12:36 PM CT, Oct. 15 </p> 
  [Lebanon Observes Day of Mourning After Deadly Sectarian Clashes](https://www.nytimes.com/2021/10/15/world/middleeast/lebanon-beirut-violence-explosion.html) NYT: The death toll rose to seven a day after gun battles between Christian and Shiite Muslim militias erupted amid tensions over an investigation into the port explosion last year. 
  <p class="updated_time"> 12:06 PM CT, Oct. 15 </p> 
