@@ -6,12 +6,20 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 09:40 AM CT, Oct. 15 </p> 
+ [Live Updates: Italy’s Covid Vaccine Mandate Comes Into Force, a First for a Western Democracy](https://www.nytimes.com/live/2021/10/15/world/italy-covid-green-pass) NYT: All workers across public and private sectors are now required to be vaccinated or take frequent coronavirus tests. Opponents tried to rally the masses to protest, but most Italians appeared to accept the move as a necessity. 
+ <p class="updated_time"> 09:38 AM CT, Oct. 15 </p> 
+ [Norway Bow-and-Arrow Rampage Treated as Apparent Terrorism Attack](https://www.nytimes.com/2021/10/14/world/europe/norway-bow-and-arrow-attack.html) NYT: The police said that they had previously contacted the suspect, a 37-year-old Danish citizen who is believed to have killed five people, over concerns that he had been radicalized. 
+ <p class="updated_time"> 09:37 AM CT, Oct. 15 </p> 
+ [U.K. Lab Issues 43,000 False Negatives on Virus Tests](https://www.nytimes.com/2021/10/15/world/uk-lab-false-negative-tests.html) NYT: The mistake was described as an “isolated incident attributed to one laboratory,” in a statement released by the U.K. Health Security Agency on Friday. 
+ <p class="updated_time"> 09:37 AM CT, Oct. 15 </p> 
+ [Mexico City Replaces a Statue of Columbus With One of an Indigenous Woman](https://www.nytimes.com/2021/10/14/world/americas/mexico-columbus-statue-indigenous.html) NYT: The replacement of a figure seen as a monument to colonialism touched a nerve as the country debates how it is shaped by race and sex. 
+ <p class="updated_time"> 09:32 AM CT, Oct. 15 </p> 
+ [Moderna and J.& J. Boosters: What Are the Next Steps? ](https://www.nytimes.com/2021/10/14/us/covid-booster-vaccines-fda.html) NYT: Further steps will be required at the F.D.A. and at the C.D.C., in a process that ends with the states. 
  <p class="updated_time"> 09:29 AM CT, Oct. 15 </p> 
  [Suspect Confesses in Bow-and-Arrow Rampage in Norway](https://www.nytimes.com/2021/10/15/world/europe/norway-murder-bow-arrow-terrorism.html) NYT: Espen Anderson Brathen has been charged with murder in the deaths of five people after he went on a killing spree armed with a hunting bow. 
  <p class="updated_time"> 09:23 AM CT, Oct. 15 </p> 
  [David Amess, Conservative Lawmaker in U.K., Is Reportedly Stabbed to Death](https://www.nytimes.com/2021/10/15/world/europe/conservative-mp-david-amess-stabbing.html) NYT: The member of Parliament, David Amess, was holding a meeting in his local constituency at the time of the attack. 
- <p class="updated_time"> 09:22 AM CT, Oct. 15 </p> 
- [Live Updates: Italy’s Covid Vaccine Mandate Comes Into Force, a First for a Western Democracy](https://www.nytimes.com/live/2021/10/15/world/italy-covid-green-pass) NYT: All workers across public and private sectors are now required to be vaccinated or take frequent coronavirus tests. While many accepted the move as a necessity, it was greeted by protests in some parts of the country. 
  <p class="updated_time"> 09:16 AM CT, Oct. 15 </p> 
  [Bill Clinton: Former US president in hospital for 'non-Covid infection'](https://www.bbc.co.uk/news/world-us-canada-58921615?at_medium=RSS&at_campaign=KARANGA) BBC: The former US president is said to be "on the mend" and "in good spirits" in hospital in California. 
  <p class="updated_time"> 09:05 AM CT, Oct. 15 </p> 
@@ -54,8 +62,6 @@ permalink: /charts/news/
  [Hate Crimes and Pandemic Lead More Asian Americans to Seek Therapy](https://www.nytimes.com/2021/10/15/us/asian-american-therapy-hate-crimes.html) NYT: A growing number of Asian Americans have overcome a cultural stigma attached to seeking mental health treatment, experts said. 
  <p class="updated_time"> 06:10 AM CT, Oct. 15 </p> 
  [Taiwan Building Fire Kills at Least 46](https://www.nytimes.com/2021/10/14/world/asia/taiwan-apartment-fire.html) NYT: Dozens more were injured after a fire broke out at a 13-story building in the southern port city of Kaohsiung. 
- <p class="updated_time"> 06:06 AM CT, Oct. 15 </p> 
- [Moderna and J.& J. Boosters: What Are the Next Steps? ](https://www.nytimes.com/2021/10/14/us/covid-booster-vaccines-fda.html) NYT: Further steps will be required at the F.D.A. and at the C.D.C., in a process that ends with the states. 
  <p class="updated_time"> 06:04 AM CT, Oct. 15 </p> 
  [Minnesota Hospital Struggle Under Weight of Latest Virus Surge](https://www.nytimes.com/2021/10/13/world/minnesota-hospitals-capacity-virus-surge.html) NYT: New daily cases have risen by 29 percent in the last two weeks and hospitalizations by 17 percent, according to a New York Times database. 
  <p class="updated_time"> 06:03 AM CT, Oct. 15 </p> 
@@ -64,10 +70,14 @@ permalink: /charts/news/
  [Scott Morrison: Australia PM to attend COP26 summit after global pressure](https://www.bbc.co.uk/news/world-australia-58907526?at_medium=RSS&at_campaign=KARANGA) BBC: Scott Morrison had said he might skip the summit, reigniting criticism of Australia's climate vows. 
  <p class="updated_time"> 05:40 AM CT, Oct. 15 </p> 
  [Kongsberg attack: Norwegian town left asking questions after murders](https://www.bbc.co.uk/news/world-europe-58923879?at_medium=RSS&at_campaign=KARANGA) BBC: The innocence of a quiet town outside Oslo is shattered and residents are demanding answers. 
+ <p class="updated_time"> 05:36 AM CT, Oct. 15 </p> 
+ [British Lawmaker Is Fatally Stabbed Outside London](https://www.wsj.com/articles/british-lawmaker-david-amess-stabbed-and-killed-outside-london-11634307474) WSJ: An attacker stabbed and killed a British Conservative lawmaker who was attending a meeting with people in his district in Essex with constituents. 
  <p class="updated_time"> 05:18 AM CT, Oct. 15 </p> 
  [Booster Confusion](https://www.nytimes.com/2021/10/15/briefing/johnson-and-johnson-booster-fda.html) NYT: When an F.D.A. panel meets today about J. & J. booster shots, there will be an elephant in the room. 
  <p class="updated_time"> 05:07 AM CT, Oct. 15 </p> 
  [Christchurch: New Zealand city parts ways with its wizard](https://www.bbc.co.uk/news/world-asia-58924306?at_medium=RSS&at_campaign=KARANGA) BBC: Christchurch was the only city in the world with its own official wizard. 
+ <p class="updated_time"> 04:23 AM CT, Oct. 15 </p> 
+ [Inflation Sets Off Alarms Around the World](https://www.wsj.com/articles/inflation-sets-off-alarms-around-the-world-11634304187) WSJ: More than a dozen central banks have raised interest rates but two that haven’t are those that loom largest over the global economy: the Federal Reserve and the European Central Bank. 
  <p class="updated_time"> 04:03 AM CT, Oct. 15 </p> 
  [Kongsberg attack: Norway probes bow and arrow suspect’s sanity](https://www.bbc.co.uk/news/world-europe-58924466?at_medium=RSS&at_campaign=KARANGA) BBC: Psychiatrists examine a man suspected of killing five people with a bow and arrows in Norway. 
  <p class="updated_time"> 04:02 AM CT, Oct. 15 </p> 
@@ -78,6 +88,8 @@ permalink: /charts/news/
  [Afghan Mosque Hit by Deadly Suicide Bombing](https://www.wsj.com/articles/afghan-mosque-hit-by-deadly-suicide-bombing-11634297101) WSJ: A suicide attack at a Shiite mosque in southern Afghanistan killed at least 30 worshipers, the latest in a spate of attacks since the withdrawal of U.S. troops. 
  <p class="updated_time"> 03:39 AM CT, Oct. 15 </p> 
  [Man Whose Attack on Ex-Wife Was Livestreamed Gets Death Penalty in China](https://www.nytimes.com/2021/10/15/world/asia/china-livestream-killing-abuse.html) NYT: The case riveted the public’s attention in China and spotlighted the patchy enforcement of the country’s law against domestic violence. 
+ <p class="updated_time"> 03:31 AM CT, Oct. 15 </p> 
+ [Dubai Halts Air-Cargo Imports Amid Supply-Chain Snags](https://www.wsj.com/articles/dubai-halts-air-cargo-imports-amid-supply-chain-snags-11634301083) WSJ: The emirate’s main cargo handler is rushing to reduce a backlog that has snarled processing and delivery of goods across the United Arab Emirates. 
  <p class="updated_time"> 03:28 AM CT, Oct. 15 </p> 
  [Italy Implements Tough Covid-19 Requirements for Workers](https://www.wsj.com/articles/italys-tough-workplace-covid-19-pass-a-harbinger-of-bidens-vaccine-mandate-11634300912) WSJ: Italians returned to their workplaces needing to show proof that they have received a Covid-19 vaccine, tested negative or recovered from the virus, a policy that could provide a preview of a similar mandate planned by the Biden administration. 
  <p class="updated_time"> 11:09 PM CT, Oct. 14 </p> 
@@ -114,26 +126,16 @@ permalink: /charts/news/
  [‘Lurching Between Crisis and Complacency’: Was This Our Last Covid Surge?](https://www.nytimes.com/2021/10/14/health/coronavirus-delta-surge.html) NYT: Rising immunity and modest changes in behavior may explain why cases are declining, but much remains unknown, scientists say. 
  <p class="updated_time"> 03:08 PM CT, Oct. 14 </p> 
  [Most Covid Cases in Africa Go Undetected, W.H.O. Says](https://www.nytimes.com/2021/10/14/world/covid-africa-who.html) NYT: “Now is the time to go on the offensive against Covid-19, and work with local communities to break transmission chains and stop wider outbreaks from happening,” Dr. Matshidiso Moeti said. 
- <p class="updated_time"> 02:46 PM CT, Oct. 14 </p> 
- [Norway Bow-and-Arrow Rampage Treated as Apparent Terrorism Attack](https://www.nytimes.com/2021/10/14/world/europe/norway-bow-and-arrow-attack.html) NYT: The police said that they had previously contacted the suspect, a 37-year-old Danish citizen who is believed to have killed five people, over concerns that he had been radicalized. 
  <p class="updated_time"> 01:24 PM CT, Oct. 14 </p> 
  [U.S. Antigovernment Groups Are Influencing the French Far Right](https://www.nytimes.com/2021/10/13/us/politics/france-far-right-extremists-qanon.html) NYT: The top French intelligence official, who is visiting Washington this week, said QAnon and other conspiracy theories were spreading to Europe. 
- <p class="updated_time"> 01:23 PM CT, Oct. 14 </p> 
- [Gunfights Rock Beirut Following Hezbollah Protest Against Blast Probe](https://www.wsj.com/articles/gunfights-rock-beirut-following-hezbollah-protest-against-blast-probe-11634213261) WSJ: Sectarian clashes turned neighborhoods of Beirut into a free-fire zone, killing six and reviving memories of Lebanon’s civil war. 
- <p class="updated_time"> 11:51 AM CT, Oct. 14 </p> 
- [Mexico City Replaces a Statue of Columbus With One of an Indigenous Woman](https://www.nytimes.com/2021/10/14/world/americas/mexico-columbus-statue-indigenous.html) NYT: The replacement of a figure seen as a monument to colonialism touched a nerve as the country debates how it is shaped by race and sex. 
  <p class="updated_time"> 11:47 AM CT, Oct. 14 </p> 
  [Why China's climate policy matters to us all](https://www.bbc.co.uk/news/world-asia-china-57483492?at_medium=RSS&at_campaign=KARANGA) BBC: The global battle against climate change is likely to be won or lost in China. 
- <p class="updated_time"> 11:40 AM CT, Oct. 14 </p> 
- [IMF Seeks to Allay Doubts Following Data-Rigging Scandal](https://www.wsj.com/articles/imf-seeks-to-allay-doubts-following-data-rigging-scandal-move-forward-with-new-agenda-11634244047) WSJ: The International Monetary Fund is working to regain its footing in international financial markets while it works to balance the competing interests of its two main backers, the U.S. and China. 
  <p class="updated_time"> 11:22 AM CT, Oct. 14 </p> 
  [Norway attack: Witness describes hearing 'thunk sound' of weapon](https://www.bbc.co.uk/news/world-europe-58910059?at_medium=RSS&at_campaign=KARANGA) BBC: Residents in Kongsberg react to the bow and arrow attack in their neighbourhood. 
  <p class="updated_time"> 10:56 AM CT, Oct. 14 </p> 
  [Squid Game Ahead? No, Just Directions, British Police Explain](https://www.nytimes.com/2021/10/13/world/europe/squid-game-road-sign.html) NYT: The police in England clarified that a highway sign featuring symbols that also appear on the hit Netflix series merely indicated a detour. 
  <p class="updated_time"> 10:39 AM CT, Oct. 14 </p> 
  [Meteorite Crashes Through Ceiling and Lands on Woman’s Bed](https://www.nytimes.com/2021/10/14/world/canada/meteorite-bed.html) NYT: After a fireball streaked through the Canadian sky, Ruth Hamilton, of British Columbia, found a 2.8-pound rock the size of a large man’s fist near her pillow. 
- <p class="updated_time"> 10:00 AM CT, Oct. 14 </p> 
- [U.S. Aims to Resume Evacuation Flights From Afghanistan](https://www.wsj.com/articles/u-s-to-resume-evacuation-flights-from-afghanistan-11634212800) WSJ: American citizens, residents and some Afghan visa applicants would qualify to fly on the U.S.-sponsored flights. 
  <p class="updated_time"> 09:43 AM CT, Oct. 14 </p> 
  [U.S. to Open Canada and Mexico Borders for Vaccinated Travelers](https://www.nytimes.com/2021/10/12/us/politics/us-canada-mexico-borders-open.html) NYT: Opening the borders with Mexico and Canada, where crossing for nonessential travel has been barred for 19 months, will reconnect neighbors and provide a reprieve for businesses. 
  <p class="updated_time"> 09:31 AM CT, Oct. 14 </p> 
@@ -176,14 +178,10 @@ permalink: /charts/news/
  [Virginia’s Close Race](https://www.nytimes.com/2021/10/13/briefing/virginia-governors-race-youngkin-mcauliffe.html) NYT: We look at how the state’s governor’s race offers a preview of the midterms. 
  <p class="updated_time"> 05:57 AM CT, Oct. 13 </p> 
  [Amid U.S.-China Chill, Harvard Moves a Top Language Program to Taiwan](https://www.nytimes.com/2021/10/13/world/asia/harvard-chinese-program-taiwan.html) NYT: A university spokesman said the move out of Beijing had long been planned. The program’s director cited a perceived lack of friendliness from the host institution. 
- <p class="updated_time"> 12:29 AM CT, Oct. 13 </p> 
- [Your Wednesday Briefing](https://www.nytimes.com/2021/10/12/briefing/china-housing-evergrande-flooding-india-law.html) NYT: China’s home buyers are frustrated. 
  <p class="updated_time"> 11:10 PM CT, Oct. 12 </p> 
  [Your Wednesday Briefing](https://www.nytimes.com/2021/10/13/briefing/britain-coronavirus-economic-recovery.html) NYT: A damning report on Britain’s virus response. 
  <p class="updated_time"> 05:24 PM CT, Oct. 12 </p> 
  [Cases of ‘Havana Syndrome’ Reported at U.S. Embassy in Colombia](https://www.nytimes.com/2021/10/12/us/politics/havana-syndrome-colombia.html) NYT: The State Department is investigating new complaints of mysterious brain injuries before Secretary of State Antony J. Blinken’s visit to the country next week. 
- <p class="updated_time"> 04:43 PM CT, Oct. 12 </p> 
- [Iraq Says It Arrested a Leading Islamic State Figure](https://www.nytimes.com/2021/10/12/world/middleeast/isis-leader-captured-iraq.html) NYT: One of the most senior ISIS leaders ever to be taken alive is now reported to be in custody. The U.S. had offered a reward of up to $5 million for his capture. 
  <p class="updated_time"> 05:01 AM CT, Oct. 11 </p> 
  [Climate change: Is the UK on track to meet its targets?](https://www.bbc.co.uk/news/58160547?at_medium=RSS&at_campaign=KARANGA) BBC: With weeks to go until the UK hosts a global climate summit, is the government on track to meet its own commitments? 
 
