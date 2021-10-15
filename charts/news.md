@@ -6,12 +6,16 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 01:44 PM CT, Oct. 15 </p> 
+ [Covid in Italy: Protests Fizzle as Government Imposes Vaccine Mandate in Workplaces](https://www.nytimes.com/live/2021/10/15/world/italy-covid-green-pass) NYT: All public and private sector workers must be vaccinated or take frequent coronavirus tests. Opponents tried to mount protests, but most Italians appeared to accept the rule as necessary. 
+ <p class="updated_time"> 01:43 PM CT, Oct. 15 </p> 
+ [Italy Puts in Force Tough New Law Requiring Workers to Test or Vaccinate](https://www.nytimes.com/2021/10/15/world/europe/italy-vaccination-law-covid-test-work.html) NYT: The rollout went more or less smoothly, with only scattered protests, as the majority of citizens accepted the ‘Green Pass’ as a tolerable sacrifice to stem the Covid pandemic. 
+ <p class="updated_time"> 01:40 PM CT, Oct. 15 </p> 
+ [Abu Musab al-Barnawi, Leader of ISWAP, Has Died, Nigerian Army Says](https://www.nytimes.com/2021/10/15/world/africa/nigeria-islamic-state-abu-musab-al-barnawi-dead.html) NYT: A top military commander said that Abu Musab al-Barnawi, head of an extremist organization known as the Islamic State West Africa Province, had died. 
  <p class="updated_time"> 01:32 PM CT, Oct. 15 </p> 
  [Blast at Afghan Mosque Kills Dozens as Shiites Are Targeted Again](https://www.nytimes.com/2021/10/15/world/asia/afghanistan-mosque-blast.html) NYT: It was the second week in a row that attackers had struck a Shiite place of worship during Friday Prayer. 
  <p class="updated_time"> 01:09 PM CT, Oct. 15 </p> 
  [David Amess, Conservative Lawmaker in U.K., Is Reported Stabbed to Death](https://www.nytimes.com/2021/10/15/world/europe/conservative-mp-david-amess-stabbing.html) NYT: David Amess, a Conservative member of Parliament, was holding a meeting in his local constituency at the time of the attack. 
- <p class="updated_time"> 01:04 PM CT, Oct. 15 </p> 
- [Live Updates: Protests Fizzle as Italy Imposes Covid Vaccine Mandate in Workplaces](https://www.nytimes.com/live/2021/10/15/world/italy-covid-green-pass) NYT: All public and private sector workers must be vaccinated or take frequent coronavirus tests. Opponents tried to mount protests, but most Italians appeared to accept the rule as necessary. 
  <p class="updated_time"> 12:56 PM CT, Oct. 15 </p> 
  [Moderna and J.& J. Boosters: What Are the Next Steps? ](https://www.nytimes.com/2021/10/14/us/covid-booster-vaccines-fda.html) NYT: Further steps will be required at the F.D.A. and at the C.D.C., in a process that ends with the states. 
  <p class="updated_time"> 12:36 PM CT, Oct. 15 </p> 
@@ -54,8 +58,6 @@ permalink: /charts/news/
  [Covid: Wave of Italian protests against mandatory work pass](https://www.bbc.co.uk/news/world-europe-58913865?at_medium=RSS&at_campaign=KARANGA) BBC: Thousands gather outside major ports, angry that the "Green Pass" is now mandatory for all workers. 
  <p class="updated_time"> 08:37 AM CT, Oct. 15 </p> 
  [German coalition plan sets bigger green targets](https://www.bbc.co.uk/news/world-europe-58924480?at_medium=RSS&at_campaign=KARANGA) BBC: German politicians seek a faster exit from coal power as part of a coalition deal. 
- <p class="updated_time"> 08:14 AM CT, Oct. 15 </p> 
- [Abu Musab al-Barnawi, Leader of ISWAP, Has Died, Nigerian Army Says](https://www.nytimes.com/2021/10/15/world/africa/nigeria-islamic-state-abu-musab-al-barnawi-dead.html) NYT: A top military commander said that Abu Musab al-Barnawi, head of an extremist organization known as the Islamic State West Africa Province, had died. 
  <p class="updated_time"> 08:09 AM CT, Oct. 15 </p> 
  [Masten Wanjala: Mob beats Kenyan child serial killer to death - police](https://www.bbc.co.uk/news/world-africa-58923592?at_medium=RSS&at_campaign=KARANGA) BBC: Police had launched a massive manhunt for Masten Wanjala, who confessed to killing several children. 
  <p class="updated_time"> 08:07 AM CT, Oct. 15 </p> 
@@ -82,8 +84,6 @@ permalink: /charts/news/
  [Hate Crimes and Pandemic Lead More Asian Americans to Seek Therapy](https://www.nytimes.com/2021/10/15/us/asian-american-therapy-hate-crimes.html) NYT: A growing number of Asian Americans have overcome a cultural stigma attached to seeking mental health treatment, experts said. 
  <p class="updated_time"> 06:10 AM CT, Oct. 15 </p> 
  [Taiwan Building Fire Kills at Least 46](https://www.nytimes.com/2021/10/14/world/asia/taiwan-apartment-fire.html) NYT: Dozens more were injured after a fire broke out at a 13-story building in the southern port city of Kaohsiung. 
- <p class="updated_time"> 06:04 AM CT, Oct. 15 </p> 
- [Minnesota Hospital Struggle Under Weight of Latest Virus Surge](https://www.nytimes.com/2021/10/13/world/minnesota-hospitals-capacity-virus-surge.html) NYT: New daily cases have risen by 29 percent in the last two weeks and hospitalizations by 17 percent, according to a New York Times database. 
  <p class="updated_time"> 06:03 AM CT, Oct. 15 </p> 
  [Henrietta Lacks, Whose Cells Were Taken Without Her Consent, Is Honored by W.H.O.](https://www.nytimes.com/2021/10/13/science/henrietta-lacks-cells-who.html) NYT: In a ceremony in Geneva, the World Health Organization presented an award to the family of Ms. Lacks, whose cancer cells led to world-changing advances in medical and scientific research. 
  <p class="updated_time"> 05:54 AM CT, Oct. 15 </p> 
