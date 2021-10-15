@@ -6,8 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
- <p class="updated_time"> 04:46 AM CT, Oct. 15 </p> 
- [Explosion strikes Afghan mosque during prayers](https://www.bbc.co.uk/news/world-asia-58925863?at_medium=RSS&at_campaign=KARANGA) BBC: At least seven people are killed after a blast at a Shia mosque during Friday prayers in Kandahar. 
+ <p class="updated_time"> 04:55 AM CT, Oct. 15 </p> 
+ [Explosion strikes Afghan mosque during prayers](https://www.bbc.co.uk/news/world-asia-58925863?at_medium=RSS&at_campaign=KARANGA) BBC: At least 16 people are killed after a blast at a Shia mosque during Friday prayers in Kandahar. 
  <p class="updated_time"> 04:44 AM CT, Oct. 15 </p> 
  [Covid: Italy port workers strike over Covid pass rules](https://www.bbc.co.uk/news/world-europe-58913865?at_medium=RSS&at_campaign=KARANGA) BBC: About 2,000 workers are outside Trieste port, angry that the widely used pass is now mandatory. 
  <p class="updated_time"> 04:03 AM CT, Oct. 15 </p> 
