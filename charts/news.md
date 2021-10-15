@@ -6,8 +6,10 @@ permalink: /charts/news/
 
 ## World News
 
- <p class="updated_time"> 06:25 PM CT, Oct. 15 </p> 
- [David Amess, Conservative Lawmaker in U.K., Is Reported Stabbed to Death](https://www.nytimes.com/2021/10/15/world/europe/conservative-mp-david-amess-stabbing.html) NYT: David Amess, a Conservative member of Parliament, was holding a meeting in his constituency at the time. He is the second politician killed in an attack in just over five years. 
+ <p class="updated_time"> 06:39 PM CT, Oct. 15 </p> 
+ [David Amess, Conservative Lawmaker in U.K., Is Fatally Stabbed ](https://www.nytimes.com/2021/10/15/world/europe/conservative-mp-david-amess-stabbing.html) NYT: David Amess, a Conservative member of Parliament, was holding a meeting in his constituency at the time. He is the second politician killed in an attack in just over five years. 
+ <p class="updated_time"> 06:33 PM CT, Oct. 15 </p> 
+ [Norway attack: Killer held in medical custody amid mental health investigation](https://www.bbc.co.uk/news/world-europe-58935117?at_medium=RSS&at_campaign=KARANGA) BBC: Police believe a bow-and-arrow attack that killed five may have been as a result of mental illness. 
  <p class="updated_time"> 06:01 PM CT, Oct. 15 </p> 
  [Meghan Markle's donation a 'lifesaver' for community kitchen users](https://www.bbc.co.uk/news/uk-england-nottinghamshire-58872804?at_medium=RSS&at_campaign=KARANGA) BBC: Money donated by the Duchess of Sussex has been spent on feeding Nottingham's most vulnerable. 
  <p class="updated_time"> 06:01 PM CT, Oct. 15 </p> 
@@ -48,8 +50,6 @@ permalink: /charts/news/
  [Covid: US to lift travel ban for fully jabbed on 8 November](https://www.bbc.co.uk/news/world-us-canada-58929441?at_medium=RSS&at_campaign=KARANGA) BBC: Fully vaccinated travellers will be allowed to enter the US for the first time since March 2020. 
  <p class="updated_time"> 11:59 AM CT, Oct. 15 </p> 
  [China Launches First Woman With New Crew to Space Station](https://www.nytimes.com/article/china-mars-space.html) NYT: China has launched a second crew to the country’s new orbiting space station. The mission is one of many challenging U.S. dominance of space exploration. 
- <p class="updated_time"> 11:40 AM CT, Oct. 15 </p> 
- [Kongsberg attack: Norway probes bow and arrow suspect’s sanity](https://www.bbc.co.uk/news/world-europe-58924466?at_medium=RSS&at_campaign=KARANGA) BBC: Psychiatrists examine a man suspected of killing five people with a bow and arrows in Norway. 
  <p class="updated_time"> 11:14 AM CT, Oct. 15 </p> 
  [How the Nobel Peace Prize Laid Bare the Schism in Russia’s Opposition](https://www.nytimes.com/2021/10/15/world/europe/russia-dissent-muratov-navalny-nobel.html) NYT: Dmitri A. Muratov, a new laureate, engages with the Kremlin, while Aleksei A. Navalny, the most high-profile Putin critic, resists all compromise. The Kremlin capitalizes on the fault line. 
  <p class="updated_time"> 11:10 AM CT, Oct. 15 </p> 
