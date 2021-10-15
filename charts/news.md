@@ -6,8 +6,16 @@ permalink: /charts/news/
 
 ## World News
 
- <p class="updated_time"> 04:55 AM CT, Oct. 15 </p> 
- [Explosion strikes Afghan mosque during prayers](https://www.bbc.co.uk/news/world-asia-58925863?at_medium=RSS&at_campaign=KARANGA) BBC: At least 16 people are killed after a blast at a Shia mosque during Friday prayers in Kandahar. 
+ <p class="updated_time"> 05:18 AM CT, Oct. 15 </p> 
+ [Booster Confusion](https://www.nytimes.com/2021/10/15/briefing/johnson-and-johnson-booster-fda.html) NYT: When an F.D.A. panel meets today about J. & J. booster shots, there will be an elephant in the room. 
+ <p class="updated_time"> 05:15 AM CT, Oct. 15 </p> 
+ [A Last-Chance ‘Ghost Building’ in Taiwan Becomes a Death Trap for Many](https://www.nytimes.com/2021/10/15/world/asia/taiwan-building-fire.html) NYT: “I had no choice but to live here,” said one resident who survived a blaze that killed 46 of her neighbors and raised questions about lax safety standards. 
+ <p class="updated_time"> 05:14 AM CT, Oct. 15 </p> 
+ [Afghanistan: Explosion strikes Afghan mosque during prayers](https://www.bbc.co.uk/news/world-asia-58925863?at_medium=RSS&at_campaign=KARANGA) BBC: At least 16 people are killed after a blast at a Shia mosque during Friday prayers in Kandahar. 
+ <p class="updated_time"> 05:07 AM CT, Oct. 15 </p> 
+ [Christchurch: New Zealand city parts ways with its wizard](https://www.bbc.co.uk/news/world-asia-58924306?at_medium=RSS&at_campaign=KARANGA) BBC: Christchurch was the only city in the world with its own official wizard. 
+ <p class="updated_time"> 05:06 AM CT, Oct. 15 </p> 
+ [Beirut port blast: Day of mourning in Lebanon after bloodshed at protest](https://www.bbc.co.uk/news/world-middle-east-58921314?at_medium=RSS&at_campaign=KARANGA) BBC: Seven people were killed and dozens injured in the worst violence for years in Beirut on Thursday. 
  <p class="updated_time"> 04:44 AM CT, Oct. 15 </p> 
  [Covid: Italy port workers strike over Covid pass rules](https://www.bbc.co.uk/news/world-europe-58913865?at_medium=RSS&at_campaign=KARANGA) BBC: About 2,000 workers are outside Trieste port, angry that the widely used pass is now mandatory. 
  <p class="updated_time"> 04:03 AM CT, Oct. 15 </p> 
@@ -18,10 +26,6 @@ permalink: /charts/news/
  [South Korean Military Struggles to Root Out Sexual Assaults](https://www.nytimes.com/2021/10/15/world/asia/south-korea-military-sexual-assault-suicide.html) NYT: The death of a woman in South Korea’s air force has rekindled outrage over the country’s armed forces, long criticized for abusing and discriminating​ against women. 
  <p class="updated_time"> 03:39 AM CT, Oct. 15 </p> 
  [Man Whose Attack on Ex-Wife Was Livestreamed Gets Death Penalty in China](https://www.nytimes.com/2021/10/15/world/asia/china-livestream-killing-abuse.html) NYT: The case riveted the public’s attention in China and spotlighted the patchy enforcement of the country’s law against domestic violence. 
- <p class="updated_time"> 03:35 AM CT, Oct. 15 </p> 
- [Beirut port blast: Day of mourning in Lebanon after bloodshed at protest](https://www.bbc.co.uk/news/world-middle-east-58921314?at_medium=RSS&at_campaign=KARANGA) BBC: Six people were killed and 32 injured in some of the worst violence for years in Beirut on Thursday. 
- <p class="updated_time"> 03:13 AM CT, Oct. 15 </p> 
- [A Last-Chance ‘Ghost’ Building in Taiwan Becomes a Deathtrap for Many](https://www.nytimes.com/2021/10/15/world/asia/taiwan-building-fire.html) NYT: “I had no choice but to live here,” said one resident who survived a blaze that killed 46 of her neighbors and raised questions about lax safety standards. 
  <p class="updated_time"> 03:01 AM CT, Oct. 15 </p> 
  [Masten Wanjala: Kenyan child serial killer killed by mob](https://www.bbc.co.uk/news/world-africa-58923592?at_medium=RSS&at_campaign=KARANGA) BBC: Police had launched a massive manhunt for Masten Wanjala, who confessed to killing several children. 
  <p class="updated_time"> 01:40 AM CT, Oct. 15 </p> 
@@ -60,8 +64,6 @@ permalink: /charts/news/
  [Produce Pandas: The plus-size musicians making waves in China](https://www.bbc.co.uk/news/world-asia-china-58495677?at_medium=RSS&at_campaign=KARANGA) BBC: As stars are criticised for being image-obsessed, more relatable celebrities have become popular. 
  <p class="updated_time"> 06:10 PM CT, Oct. 14 </p> 
  ['They will hang me': Afghan interpreters blocked by UK seek appeal](https://www.bbc.co.uk/news/world-asia-58830736?at_medium=RSS&at_campaign=KARANGA) BBC: Former interpreters fear for their lives after the UK blocks their evacuation on security grounds. 
- <p class="updated_time"> 05:30 PM CT, Oct. 14 </p> 
- [Robert Durst: US millionaire sentenced to life for murder](https://www.bbc.co.uk/news/world-us-canada-58919749?at_medium=RSS&at_campaign=KARANGA) BBC: Robert Durst was convicted of killing his best friend in 2000 and is a suspect in two other deaths. 
  <p class="updated_time"> 05:10 PM CT, Oct. 14 </p> 
  [U.S. Regains Seat at U.N. Human Rights Council, 3 Years After Quitting](https://www.nytimes.com/2021/10/14/world/un-us-human-rights-council.html) NYT: The Trump administration called the 47-nation council hypocritical and said it was vilifying Israel. The Biden administration says the U.S. can be more effective as a member. 
  <p class="updated_time"> 05:06 PM CT, Oct. 14 </p> 
@@ -130,8 +132,6 @@ permalink: /charts/news/
  [Your Thursday Briefing](https://www.nytimes.com/2021/10/13/briefing/populism-europe-norway-attack.html) NYT: A blow for populism in Europe. 
  <p class="updated_time"> 10:08 PM CT, Oct. 13 </p> 
  [U.K. Agency Issues Climate Change Warning Before U.N. Summit](https://www.nytimes.com/2021/10/13/world/europe/uk-adapt-die-climate-change.html) NYT: With more extreme weather events expected to bring floods and droughts, the body urged world leaders to focus on mitigating the effects of global warming. 
- <p class="updated_time"> 08:26 PM CT, Oct. 13 </p> 
- [How Éric Zemmour Is Turning French Politics Upside Down ](https://www.nytimes.com/2021/10/12/world/europe/eric-zemmour-macron-france-election.html) NYT: Éric Zemmour, an anti-immigrant writer and TV commentator, is surging in opinion polls before presidential elections next year — and he is not yet a candidate. 
  <p class="updated_time"> 07:51 PM CT, Oct. 13 </p> 
  [This Pristine Beach Is One of Japan’s Last. Soon It Will Be Filled With Concrete.](https://www.nytimes.com/2021/10/13/world/asia/japan-katoku-seawall.html) NYT: In rural Japan, the unstoppable forces of nature meet the immovable determination of the construction state. Can this village survive? 
  <p class="updated_time"> 05:44 PM CT, Oct. 13 </p> 
