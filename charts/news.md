@@ -6,22 +6,28 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 08:19 PM CT, Oct. 14 </p> 
+ [Faulty Studs Led to Mexico City Metro Collapse, Attorney General Says](https://www.nytimes.com/2021/10/14/world/americas/mexico-city-metro-collapse.html) NYT: A monthslong investigation by city authorities supports the central findings of a New York Times investigation, which had uncovered a series of fatal construction flaws. 
+ <p class="updated_time"> 08:11 PM CT, Oct. 14 </p> 
+ [Deadly Clashes in Beirut Escalate Fears Over Lebanon’s Dysfunction](https://www.nytimes.com/2021/10/14/world/middleeast/beirut-lebanon.html) NYT: The fighting further traumatized the small Mediterranean country, a patchwork of sects that has tumbled into an abyss of devastating political and economic crises. 
+ <p class="updated_time"> 08:04 PM CT, Oct. 14 </p> 
+ [The mystery of how long Covid damages our memory](https://www.bbc.co.uk/news/world-us-canada-58918869?at_medium=RSS&at_campaign=KARANGA) BBC: Since Chrissy Gibson was diagnosed with Covid-19, she has had to re-learn many aspects of her life. 
+ <p class="updated_time"> 08:01 PM CT, Oct. 14 </p> 
+ [Covid: Strike fears as Italy's workers require Covid pass](https://www.bbc.co.uk/news/world-europe-58913865?at_medium=RSS&at_campaign=KARANGA) BBC: The pass is already used widely, but port and transport workers are angry it is now mandatory. 
+ <p class="updated_time"> 07:31 PM CT, Oct. 14 </p> 
+ [Biden Meets With Kenya’s President Amid Crisis in Ethiopia](https://www.nytimes.com/2021/10/14/us/politics/biden-kenya-kenyatta-ethiopia.html) NYT: The two leaders were also expected to discuss the escalating humanitarian crisis in the Tigray region of Ethiopia, where fighters have been accused of atrocities against civilians. 
  <p class="updated_time"> 07:05 PM CT, Oct. 14 </p> 
  [South Korea will donate 1.6 million vaccine doses to Vietnam and Thailand.](https://www.nytimes.com/2021/10/14/world/south-korea-will-donate-1-6-million-vaccine-doses-to-vietnam-and-thailand.html) NYT: NA 
- <p class="updated_time"> 07:00 PM CT, Oct. 14 </p> 
- [Faulty Studs Led to Mexico City Metro Collapse, Attorney General Says](https://www.nytimes.com/2021/10/14/world/americas/mexico-city-metro-collapse.html) NYT: A monthslong investigation by city authorities supports the central findings of a New York Times investigation, which had uncovered a series of fatal construction flaws. 
+ <p class="updated_time"> 07:01 PM CT, Oct. 14 </p> 
+ [Africa's week in pictures: 8-14 October 2021](https://www.bbc.co.uk/news/world-africa-58909966?at_medium=RSS&at_campaign=KARANGA) BBC: A selection of the best photos from the African continent and beyond. 
  <p class="updated_time"> 06:57 PM CT, Oct. 14 </p> 
  [South Sudan: How to deliver Covid vaccines in a country with few roads](https://www.bbc.co.uk/news/world-africa-58911911?at_medium=RSS&at_campaign=KARANGA) BBC: Delivering vaccines around South Sudan is more expensive than the cost of the jab itself. 
  <p class="updated_time"> 06:48 PM CT, Oct. 14 </p> 
  [Produce Pandas: The plus-size musicians making waves in China](https://www.bbc.co.uk/news/world-asia-china-58495677?at_medium=RSS&at_campaign=KARANGA) BBC: As stars are criticised for being image-obsessed, more relatable celebrities have become popular. 
  <p class="updated_time"> 06:10 PM CT, Oct. 14 </p> 
  ['They will hang me': Afghan interpreters blocked by UK seek appeal](https://www.bbc.co.uk/news/world-asia-58830736?at_medium=RSS&at_campaign=KARANGA) BBC: Former interpreters fear for their lives after the UK blocks their evacuation on security grounds. 
- <p class="updated_time"> 05:35 PM CT, Oct. 14 </p> 
- [Biden Meets With Kenya’s President Amid Crisis in Ethiopia](https://www.nytimes.com/2021/10/14/us/politics/biden-kenya-kenyatta-ethiopia.html) NYT: The two leaders were also expected to discuss the escalating humanitarian crisis in the Tigray region of Ethiopia, where fighters have been accused of atrocities against civilians. 
  <p class="updated_time"> 05:30 PM CT, Oct. 14 </p> 
  [Robert Durst: US millionaire sentenced to life for murder](https://www.bbc.co.uk/news/world-us-canada-58919749?at_medium=RSS&at_campaign=KARANGA) BBC: Robert Durst was convicted of killing his best friend in 2000 and is a suspect in two other deaths. 
- <p class="updated_time"> 05:16 PM CT, Oct. 14 </p> 
- [Deadly Clashes in Beirut Escalate Fears Over Lebanon’s Dysfunction](https://www.nytimes.com/2021/10/14/world/middleeast/beirut-lebanon.html) NYT: The fighting further traumatized the small Mediterranean country, a patchwork of sects that has tumbled into an abyss of devastating political and economic crises. 
  <p class="updated_time"> 05:10 PM CT, Oct. 14 </p> 
  [U.S. Regains Seat at U.N. Human Rights Council, 3 Years After Quitting](https://www.nytimes.com/2021/10/14/world/un-us-human-rights-council.html) NYT: The Trump administration called the 47-nation council hypocritical and said it was vilifying Israel. The Biden administration says the U.S. can be more effective as a member. 
  <p class="updated_time"> 05:06 PM CT, Oct. 14 </p> 
@@ -86,8 +92,6 @@ permalink: /charts/news/
  [Meteorite Crashes Through Ceiling and Lands on Woman’s Bed](https://www.nytimes.com/2021/10/14/world/canada/meteorite-bed.html) NYT: After a fireball streaked through the Canadian sky, Ruth Hamilton, of British Columbia, found a 2.8-pound rock the size of a large man’s fist near her pillow. 
  <p class="updated_time"> 10:00 AM CT, Oct. 14 </p> 
  [U.S. Aims to Resume Evacuation Flights From Afghanistan](https://www.wsj.com/articles/u-s-to-resume-evacuation-flights-from-afghanistan-11634212800) WSJ: American citizens, residents and some Afghan visa applicants would qualify to fly on the U.S.-sponsored flights. 
- <p class="updated_time"> 09:55 AM CT, Oct. 14 </p> 
- [Afghanistan: Pakistan airline stops flights citing Taliban intimidation](https://www.bbc.co.uk/news/world-asia-58913855?at_medium=RSS&at_campaign=KARANGA) BBC: Pakistan International Airlines complains of "heavy-handedness" by the Taliban authorities. 
  <p class="updated_time"> 09:43 AM CT, Oct. 14 </p> 
  [U.S. to Open Canada and Mexico Borders for Vaccinated Travelers](https://www.nytimes.com/2021/10/12/us/politics/us-canada-mexico-borders-open.html) NYT: Opening the borders with Mexico and Canada, where crossing for nonessential travel has been barred for 19 months, will reconnect neighbors and provide a reprieve for businesses. 
  <p class="updated_time"> 09:31 AM CT, Oct. 14 </p> 
@@ -98,8 +102,6 @@ permalink: /charts/news/
  [Gunfire erupts on Beirut streets after port explosion protest](https://www.bbc.co.uk/news/world-middle-east-58910056?at_medium=RSS&at_campaign=KARANGA) BBC: Several people are shot dead in gun battles following a protest over the Beirut port blast investigation. 
  <p class="updated_time"> 08:49 AM CT, Oct. 14 </p> 
  [Lebanon's Crisis, an Explainer ](https://www.nytimes.com/2021/10/14/briefing/lebanon-financial-crisis-lira.html) NYT: The world isn’t paying much attention. 
- <p class="updated_time"> 08:28 AM CT, Oct. 14 </p> 
- [Kaohsiung: Fire at Taiwan tower block kills at least 46](https://www.bbc.co.uk/news/world-asia-58887760?at_medium=RSS&at_campaign=KARANGA) BBC: It took dozens of firefighters more than four hours to put out the blaze at the 13-storey building. 
  <p class="updated_time"> 08:11 AM CT, Oct. 14 </p> 
  [Pandemic Disruptions Blamed for First Increase in Estimated Tuberculosis Deaths in More Than a Decade](https://www.wsj.com/articles/pandemic-disruptions-blamed-for-first-increase-in-estimated-tuberculosis-deaths-in-more-than-a-decade-11634231508) WSJ: The World Health Organization estimates 1.5 million people died in 2020 from what used to be deadliest infectious disease before Covid-19 emerged. 
  <p class="updated_time"> 07:00 AM CT, Oct. 14 </p> 
