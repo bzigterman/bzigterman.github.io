@@ -6,6 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 06:27 AM CT, Oct. 15 </p> 
+ [As Italy Mandates Covid Passes, Rules Vary Across Europe](https://www.nytimes.com/2021/10/15/world/europe/covid-passes.html) NYT: Varying measures reflect domestic politics and potential opposition against such rules. 
  <p class="updated_time"> 06:10 AM CT, Oct. 15 </p> 
  [Taiwan Building Fire Kills at Least 46](https://www.nytimes.com/2021/10/14/world/asia/taiwan-apartment-fire.html) NYT: Dozens more were injured after a fire broke out at a 13-story building in the southern port city of Kaohsiung. 
  <p class="updated_time"> 06:06 AM CT, Oct. 15 </p> 
@@ -42,6 +44,8 @@ permalink: /charts/news/
  [Man Whose Attack on Ex-Wife Was Livestreamed Gets Death Penalty in China](https://www.nytimes.com/2021/10/15/world/asia/china-livestream-killing-abuse.html) NYT: The case riveted the public’s attention in China and spotlighted the patchy enforcement of the country’s law against domestic violence. 
  <p class="updated_time"> 03:01 AM CT, Oct. 15 </p> 
  [Masten Wanjala: Kenyan child serial killer killed by mob](https://www.bbc.co.uk/news/world-africa-58923592?at_medium=RSS&at_campaign=KARANGA) BBC: Police had launched a massive manhunt for Masten Wanjala, who confessed to killing several children. 
+ <p class="updated_time"> 02:25 AM CT, Oct. 15 </p> 
+ [Afghan Mosque Hit by Deadly Suicide Bombing](https://www.wsj.com/articles/afghan-mosque-hit-by-deadly-suicide-bombing-11634297101) WSJ: A large blast at a Shiite mosque in southern Afghanistan killed more than a dozen worshipers, witnesses said, the latest in a spate of attacks since the withdrawal of U.S. troops. 
  <p class="updated_time"> 01:18 AM CT, Oct. 15 </p> 
  [Bill Clinton: Former US president in hospital for 'non-Covid infection'](https://www.bbc.co.uk/news/world-us-canada-58921615?at_medium=RSS&at_campaign=KARANGA) BBC: The former US president is said to be "on the mend" and "in good spirits" in hospital in California. 
  <p class="updated_time"> 12:59 AM CT, Oct. 15 </p> 
@@ -98,8 +102,6 @@ permalink: /charts/news/
  [Mexico City Replaces a Statue of Columbus With One of an Indigenous Woman](https://www.nytimes.com/2021/10/14/world/americas/mexico-columbus-statue-indigenous.html) NYT: The replacement of a figure seen as a monument to colonialism touched a nerve as the country debates how it is shaped by race and sex. 
  <p class="updated_time"> 11:47 AM CT, Oct. 14 </p> 
  [Why China's climate policy matters to us all](https://www.bbc.co.uk/news/world-asia-china-57483492?at_medium=RSS&at_campaign=KARANGA) BBC: The global battle against climate change is likely to be won or lost in China. 
- <p class="updated_time"> 11:42 AM CT, Oct. 14 </p> 
- [U.S., European Nations Claim Progress on Path to Removing Digital Taxes](https://www.wsj.com/articles/u-s-european-nations-claim-progress-on-path-to-removing-digital-taxes-11634244167) WSJ: The U.S. and five European countries have reached an agreement on how those countries’ digital-service taxes would be withdrawn as a broader global tax agreement moves forward, French Finance Minister Bruno Le Maire said. 
  <p class="updated_time"> 11:40 AM CT, Oct. 14 </p> 
  [IMF Seeks to Allay Doubts Following Data-Rigging Scandal](https://www.wsj.com/articles/imf-seeks-to-allay-doubts-following-data-rigging-scandal-move-forward-with-new-agenda-11634244047) WSJ: The International Monetary Fund is working to regain its footing in international financial markets while it works to balance the competing interests of its two main backers, the U.S. and China. 
  <p class="updated_time"> 11:22 AM CT, Oct. 14 </p> 
@@ -170,8 +172,6 @@ permalink: /charts/news/
  [Your Wednesday Briefing](https://www.nytimes.com/2021/10/13/briefing/britain-coronavirus-economic-recovery.html) NYT: A damning report on Britain’s virus response. 
  <p class="updated_time"> 07:29 PM CT, Oct. 12 </p> 
  [E.U. Pledges $1.15 Billion in Afghan Aid as U.S. Talks to Taliban](https://www.nytimes.com/2021/10/12/us/politics/afghan-aid-european-union-biden.html) NYT: Europe and America are offering stopgap humanitarian aid for a country on the brink of collapse, but larger decisions about the new Taliban government remain on hold. 
- <p class="updated_time"> 07:07 PM CT, Oct. 12 </p> 
- [E.U. Plans $1.15 Billion in Aid to Stabilize Afghanistan Region](https://www.nytimes.com/2021/10/12/world/asia/afghanistan-european-union-aid.html) NYT: “We need to do it fast,” a European leader declared, announcing an aid package for Afghanistan and its neighbors. 
  <p class="updated_time"> 05:24 PM CT, Oct. 12 </p> 
  [Cases of ‘Havana Syndrome’ Reported at U.S. Embassy in Colombia](https://www.nytimes.com/2021/10/12/us/politics/havana-syndrome-colombia.html) NYT: The State Department is investigating new complaints of mysterious brain injuries before Secretary of State Antony J. Blinken’s visit to the country next week. 
  <p class="updated_time"> 04:43 PM CT, Oct. 12 </p> 
