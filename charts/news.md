@@ -6,7 +6,7 @@ permalink: /charts/news/
 
 ## World News
 
- <p class="updated_time"> 01:44 PM CT, Oct. 15 </p> 
+ <p class="updated_time"> 01:50 PM CT, Oct. 15 </p> 
  [Covid in Italy: Protests Fizzle as Government Imposes Vaccine Mandate in Workplaces](https://www.nytimes.com/live/2021/10/15/world/italy-covid-green-pass) NYT: All public and private sector workers must be vaccinated or take frequent coronavirus tests. Opponents tried to mount protests, but most Italians appeared to accept the rule as necessary. 
  <p class="updated_time"> 01:43 PM CT, Oct. 15 </p> 
  [Italy Puts in Force Tough New Law Requiring Workers to Test or Vaccinate](https://www.nytimes.com/2021/10/15/world/europe/italy-vaccination-law-covid-test-work.html) NYT: The rollout went more or less smoothly, with only scattered protests, as the majority of citizens accepted the ‘Green Pass’ as a tolerable sacrifice to stem the Covid pandemic. 
