@@ -6,6 +6,12 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 02:50 PM CT, Oct. 15 </p> 
+ [Protests Over Italy's Covid 'Green Pass' Draw Only Scattered Crowds](https://www.nytimes.com/2021/10/15/world/europe/covid-italy-green-pass-protests.html) NYT: While there were scattered protests across Italy on Friday, many in the country appeared to accept the measure as necessary. 
+ <p class="updated_time"> 02:45 PM CT, Oct. 15 </p> 
+ [Moderna and J.& J. Boosters: What Are the Next Steps? ](https://www.nytimes.com/2021/10/14/us/covid-booster-vaccines-fda.html) NYT: Further steps will be required at the F.D.A. and at the C.D.C., in a process that ends with the states. 
+ <p class="updated_time"> 02:42 PM CT, Oct. 15 </p> 
+ [Virgin Galactic delays first commercial space flight](https://www.bbc.co.uk/news/business-58930280?at_medium=RSS&at_campaign=KARANGA) BBC: Shares in the firm dive 20% as it delays first tourist flight to make upgrades. 
  <p class="updated_time"> 02:33 PM CT, Oct. 15 </p> 
  [A Year Later, a Schoolteacher’s Beheading Still Haunts France](https://www.nytimes.com/2021/10/15/world/europe/france-samuel-paty-beheading.html) NYT: The killing of Samuel Paty by an 18-year-old Chechen refugee intensified debate over security and immigration, and prompted intense scrutiny of the French secular model. 
  <p class="updated_time"> 02:05 PM CT, Oct. 15 </p> 
@@ -13,11 +19,9 @@ permalink: /charts/news/
  <p class="updated_time"> 01:58 PM CT, Oct. 15 </p> 
  [Abu Musab al-Barnawi, Leader of ISWAP, Has Died, Nigerian Army Says](https://www.nytimes.com/2021/10/15/world/africa/nigeria-islamic-state-abu-musab-al-barnawi-dead.html) NYT: A top military commander said that Abu Musab al-Barnawi, a kingpin of an extremist organization known as the Islamic State West Africa Province, had died. 
  <p class="updated_time"> 01:43 PM CT, Oct. 15 </p> 
- [Italy Puts in Force Tough New Law Requiring Workers to Test or Vaccinate](https://www.nytimes.com/2021/10/15/world/europe/italy-vaccination-law-covid-test-work.html) NYT: The rollout went more or less smoothly, with only scattered protests, as the majority of citizens accepted the ‘Green Pass’ as a tolerable sacrifice to stem the Covid pandemic. 
+ [Italy Enacts Law Requiring Workers to Test or Vaccinate](https://www.nytimes.com/2021/10/15/world/europe/italy-vaccination-law-covid.html) NYT: The rollout went more or less smoothly, with only scattered protests, as the majority of citizens accepted the ‘Green Pass’ as a tolerable sacrifice to stem the Covid pandemic. 
  <p class="updated_time"> 01:32 PM CT, Oct. 15 </p> 
  [Blast at Afghan Mosque Kills Dozens as Shiites Are Targeted Again](https://www.nytimes.com/2021/10/15/world/asia/afghanistan-mosque-blast.html) NYT: It was the second week in a row that attackers had struck a Shiite place of worship during Friday Prayer. 
- <p class="updated_time"> 12:56 PM CT, Oct. 15 </p> 
- [Moderna and J.& J. Boosters: What Are the Next Steps? ](https://www.nytimes.com/2021/10/14/us/covid-booster-vaccines-fda.html) NYT: Further steps will be required at the F.D.A. and at the C.D.C., in a process that ends with the states. 
  <p class="updated_time"> 12:36 PM CT, Oct. 15 </p> 
  [Lebanon Observes Day of Mourning After Deadly Sectarian Clashes](https://www.nytimes.com/2021/10/15/world/middleeast/lebanon-beirut-violence-explosion.html) NYT: The death toll rose to seven a day after gun battles between Christian and Shiite Muslim militias erupted amid tensions over an investigation into the port explosion last year. 
  <p class="updated_time"> 12:06 PM CT, Oct. 15 </p> 
@@ -28,8 +32,6 @@ permalink: /charts/news/
  [Kongsberg attack: Norway probes bow and arrow suspect’s sanity](https://www.bbc.co.uk/news/world-europe-58924466?at_medium=RSS&at_campaign=KARANGA) BBC: Psychiatrists examine a man suspected of killing five people with a bow and arrows in Norway. 
  <p class="updated_time"> 11:26 AM CT, Oct. 15 </p> 
  [Nike Jordan boss reveals he murdered an 18-year-old in 1965](https://www.bbc.co.uk/news/world-us-canada-58931528?at_medium=RSS&at_campaign=KARANGA) BBC: Larry Miller, now 72, said he was in a gang as a teenager when he shot an 18-year-old man. 
- <p class="updated_time"> 11:24 AM CT, Oct. 15 </p> 
- [Protests Over Italy's Covid 'Green Pass' Draw Only Scattered Crowds](https://www.nytimes.com/2021/10/15/world/europe/covid-italy-green-pass-protests.html) NYT: While there were scattered protests across Italy on Friday, many in the country appeared to accept the measure as necessary. 
  <p class="updated_time"> 11:14 AM CT, Oct. 15 </p> 
  [How the Nobel Peace Prize Laid Bare the Schism in Russia’s Opposition](https://www.nytimes.com/2021/10/15/world/europe/russia-dissent-muratov-navalny-nobel.html) NYT: Dmitri A. Muratov, a new laureate, engages with the Kremlin, while Aleksei A. Navalny, the most high-profile Putin critic, resists all compromise. The Kremlin capitalizes on the fault line. 
  <p class="updated_time"> 11:10 AM CT, Oct. 15 </p> 
@@ -92,8 +94,6 @@ permalink: /charts/news/
  [Kongsberg attack: Norwegian town left asking questions after murders](https://www.bbc.co.uk/news/world-europe-58923879?at_medium=RSS&at_campaign=KARANGA) BBC: The innocence of a quiet town outside Oslo is shattered and residents are demanding answers. 
  <p class="updated_time"> 05:18 AM CT, Oct. 15 </p> 
  [Booster Confusion](https://www.nytimes.com/2021/10/15/briefing/johnson-and-johnson-booster-fda.html) NYT: When an F.D.A. panel meets today about J. & J. booster shots, there will be an elephant in the room. 
- <p class="updated_time"> 05:07 AM CT, Oct. 15 </p> 
- [Christchurch: New Zealand city parts ways with its wizard](https://www.bbc.co.uk/news/world-asia-58924306?at_medium=RSS&at_campaign=KARANGA) BBC: Christchurch was the only city in the world with its own official wizard. 
  <p class="updated_time"> 04:23 AM CT, Oct. 15 </p> 
  [Inflation Sets Off Alarms Around the World](https://www.wsj.com/articles/inflation-sets-off-alarms-around-the-world-11634304187) WSJ: More than a dozen central banks have raised interest rates but two that haven’t are those that loom largest over the global economy: the Federal Reserve and the European Central Bank. 
  <p class="updated_time"> 03:39 AM CT, Oct. 15 </p> 
