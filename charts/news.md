@@ -6,7 +6,9 @@ permalink: /charts/news/
 
 ## World News
 
- <p class="updated_time"> 03:27 PM CT, Oct. 15 </p> 
+ <p class="updated_time"> 03:39 PM CT, Oct. 15 </p> 
+ [David Amess, Conservative Lawmaker in U.K., Is Reported Stabbed to Death](https://www.nytimes.com/2021/10/15/world/europe/conservative-mp-david-amess-stabbing.html) NYT: David Amess, a Conservative member of Parliament, was holding a meeting in his constituency at the time. He is the second politician killed in an attack in just over five years. 
+ <p class="updated_time"> 03:34 PM CT, Oct. 15 </p> 
  [Quebec Language Debate Spurs Eerie Sense of Déjà-Vu](https://www.nytimes.com/2021/10/15/world/canada/quebec-language-debate.html) NYT: For a Montreal-based Times correspondent, proposed language legislation brings back memories of the 1970s. 
  <p class="updated_time"> 03:13 PM CT, Oct. 15 </p> 
  [A Year Later, a Schoolteacher’s Beheading Still Haunts France](https://www.nytimes.com/2021/10/15/world/europe/france-samuel-paty-beheading.html) NYT: The killing of Samuel Paty by an 18-year-old Chechen refugee intensified debate over security and immigration, and prompted intense scrutiny of the French secular model. 
@@ -18,8 +20,6 @@ permalink: /charts/news/
  [Moderna and J.& J. Boosters: What Are the Next Steps? ](https://www.nytimes.com/2021/10/14/us/covid-booster-vaccines-fda.html) NYT: Further steps will be required at the F.D.A. and at the C.D.C., in a process that ends with the states. 
  <p class="updated_time"> 02:42 PM CT, Oct. 15 </p> 
  [Virgin Galactic delays first commercial space flight](https://www.bbc.co.uk/news/business-58930280?at_medium=RSS&at_campaign=KARANGA) BBC: Shares in the firm dive 20% as it delays first tourist flight to make upgrades. 
- <p class="updated_time"> 02:05 PM CT, Oct. 15 </p> 
- [David Amess, Conservative Lawmaker in U.K., Is Reported Stabbed to Death](https://www.nytimes.com/2021/10/15/world/europe/conservative-mp-david-amess-stabbing.html) NYT: David Amess, a Conservative member of Parliament, was holding a meeting in his constituency at the time. He is the second politician killed in an attack in just over five years. 
  <p class="updated_time"> 01:58 PM CT, Oct. 15 </p> 
  [Abu Musab al-Barnawi, Leader of ISWAP, Has Died, Nigerian Army Says](https://www.nytimes.com/2021/10/15/world/africa/nigeria-islamic-state-abu-musab-al-barnawi-dead.html) NYT: A top military commander said that Abu Musab al-Barnawi, a kingpin of an extremist organization known as the Islamic State West Africa Province, had died. 
  <p class="updated_time"> 01:43 PM CT, Oct. 15 </p> 
