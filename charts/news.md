@@ -6,6 +6,10 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 02:35 AM CT, Oct. 15 </p> 
+ [A Last-Chance ‘Ghost’ Building in Taiwan Becomes a Death Trap for Many](https://www.nytimes.com/2021/10/15/world/asia/taiwan-building-fire.html) NYT: “I had no choice but to live here,” said one resident who survived a blaze that killed 46 of her neighbors and raised questions about lax safety standards. 
+ <p class="updated_time"> 02:31 AM CT, Oct. 15 </p> 
+ [Man Whose Attack on Ex-Wife Was Livestreamed Gets Death Penalty in China](https://www.nytimes.com/2021/10/15/world/asia/china-livestream-killing-abuse.html) NYT: The case riveted the public’s attention in China and spotlighted the poor enforcement of the country’s law against domestic violence. 
  <p class="updated_time"> 02:03 AM CT, Oct. 15 </p> 
  [Covid: Strike fears as Italy's workers require Covid pass](https://www.bbc.co.uk/news/world-europe-58913865?at_medium=RSS&at_campaign=KARANGA) BBC: The pass is already used widely, but port and transport workers are angry it is now mandatory. 
  <p class="updated_time"> 01:40 AM CT, Oct. 15 </p> 
@@ -172,12 +176,8 @@ permalink: /charts/news/
  [Iraq Says It Arrested a Leading Islamic State Figure](https://www.nytimes.com/2021/10/12/world/middleeast/isis-leader-captured-iraq.html) NYT: One of the most senior ISIS leaders ever to be taken alive is now reported to be in custody. The U.S. had offered a reward of up to $5 million for his capture. 
  <p class="updated_time"> 04:32 PM CT, Oct. 12 </p> 
  [Ethiopia Attacks Rebels in Tigray as Famine Threatens](https://www.nytimes.com/2021/10/12/world/africa/ethiopia-tigray-offensive.html) NYT: Western officials confirmed Tigrayan reports of an assault on several fronts. Aid workers said it will intensify a dire humanitarian crisis. 
- <p class="updated_time"> 03:54 PM CT, Oct. 12 </p> 
- [UN Top Court Largely Sides With Somalia Over Kenya in Ocean Dispute](https://www.nytimes.com/2021/10/12/world/africa/kenya-somalia-maritime-dispute.html) NYT: A court ruling largely gave Somalia control over a patch of the Indian Ocean believed to be rich in oil and gas, a decision that may further raise tensions between the countries. 
  <p class="updated_time"> 02:36 PM CT, Oct. 12 </p> 
  [Britain’s Covid Missteps Cost Thousands of Lives, Inquiry Finds](https://www.nytimes.com/2021/10/12/world/europe/uk-covid-deaths-inquiry.html) NYT: Prime Minister Boris Johnson’s slowness last year to impose a lockdown and institute widespread testing had tragic results, according to a parliamentary report. 
- <p class="updated_time"> 09:55 AM CT, Oct. 12 </p> 
- [One Woman Won a Nobel This Year. Quotas Aren’t the Answer, an Official Says.](https://www.nytimes.com/2021/10/12/world/nobel-prize-woman-gender-ethnicity.html) NYT: Only one of the 13 laureates this year was a woman, but the head of the Royal Swedish Academy of Sciences dismissed the idea of guaranteeing representation. 
  <p class="updated_time"> 05:01 AM CT, Oct. 11 </p> 
  [Climate change: Is the UK on track to meet its targets?](https://www.bbc.co.uk/news/58160547?at_medium=RSS&at_campaign=KARANGA) BBC: With weeks to go until the UK hosts a global climate summit, is the government on track to meet its own commitments? 
 
