@@ -6,6 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 05:39 PM CT, Oct. 15 </p> 
+ [David Amess, Conservative Lawmaker in U.K., Is Reported Stabbed to Death](https://www.nytimes.com/2021/10/15/world/europe/conservative-mp-david-amess-stabbing.html) NYT: David Amess, a Conservative member of Parliament, was holding a meeting in his constituency at the time. He is the second politician killed in an attack in just over five years. 
  <p class="updated_time"> 05:00 PM CT, Oct. 15 </p> 
  [Booster Confusion](https://www.nytimes.com/2021/10/15/briefing/johnson-and-johnson-booster-fda.html) NYT: When an F.D.A. panel meets today about J. & J. booster shots, there will be an elephant in the room. 
  <p class="updated_time"> 04:48 PM CT, Oct. 15 </p> 
@@ -18,8 +20,6 @@ permalink: /charts/news/
  [Suspect Confesses in Bow-and-Arrow Rampage in Norway](https://www.nytimes.com/2021/10/15/world/europe/norway-murder-bow-arrow-terrorism.html) NYT: Espen Anderson Brathen has been charged with murder in the deaths of five people after the authorities say he went on a killing spree armed with a hunting bow. 
  <p class="updated_time"> 03:41 PM CT, Oct. 15 </p> 
  [Protests Over Italy's Covid 'Green Pass' Draw Only Scattered Crowds](https://www.nytimes.com/2021/10/15/world/europe/covid-italy-green-pass-protests.html) NYT: While there were scattered protests across Italy on Friday, many in the country appeared to accept the measure as necessary. 
- <p class="updated_time"> 03:39 PM CT, Oct. 15 </p> 
- [David Amess, Conservative Lawmaker in U.K., Is Reported Stabbed to Death](https://www.nytimes.com/2021/10/15/world/europe/conservative-mp-david-amess-stabbing.html) NYT: David Amess, a Conservative member of Parliament, was holding a meeting in his constituency at the time. He is the second politician killed in an attack in just over five years. 
  <p class="updated_time"> 03:34 PM CT, Oct. 15 </p> 
  [Quebec Language Debate Spurs Eerie Sense of Déjà-Vu](https://www.nytimes.com/2021/10/15/world/canada/quebec-language-debate.html) NYT: For a Montreal-based Times correspondent, proposed language legislation brings back memories of the 1970s. 
  <p class="updated_time"> 03:13 PM CT, Oct. 15 </p> 
@@ -176,8 +176,6 @@ permalink: /charts/news/
  [Czechs Defeat a Populist, Offering a Road Map for Toppling Strongmen](https://www.nytimes.com/2021/10/13/world/europe/czech-populism-strongmen.html) NYT: A wide range of parties in the Czech Republic banded together despite their differences to oppose Andrej Babis, the country’s populist prime minister. Opposition parties in Hungary are hoping to duplicate the feat. 
  <p class="updated_time"> 11:24 AM CT, Oct. 13 </p> 
  [John Paul I, Pope for 33 Days in 1978, Will Be Beatified](https://www.nytimes.com/2021/10/13/world/europe/pope-john-paul-i-beatified-saint.html) NYT: Pope Francis approved a miracle attributed to the last Italian pope, bringing him a step closer to becoming a saint. 
- <p class="updated_time"> 10:30 AM CT, Oct. 13 </p> 
- [Britain Needs Truckers Fast. We Went to a School Where They Train.](https://www.nytimes.com/2021/10/13/world/europe/truck-drivers-training-britain.html) NYT: Britain has experienced shortages of gasoline and some foods because of too few drivers. At a military barracks in South London, trainees are learning how to maneuver trucks through streets and highways. 
  <p class="updated_time"> 07:50 AM CT, Oct. 13 </p> 
  [What is climate change? A really simple guide](https://www.bbc.co.uk/news/science-environment-24021772?at_medium=RSS&at_campaign=KARANGA) BBC: World temperatures are rising because of human activity, and climate change now threatens every aspect of human life. 
  <p class="updated_time"> 05:01 AM CT, Oct. 11 </p> 
