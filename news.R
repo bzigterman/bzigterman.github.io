@@ -1,5 +1,4 @@
 library(tidyRSS)
-library(gt)
 library(tidyverse)
 library(lubridate)
 
