@@ -6,6 +6,12 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 11:01 PM CT, Oct. 14 </p> 
+ [LinkedIn to End Service in China, Citing ‘Challenging’ Environment](https://www.nytimes.com/2021/10/14/technology/linkedin-china-microsoft.html) NYT: The Microsoft-owned service had censored posts in China, in compliance with the country’s laws, to operate there. 
+ <p class="updated_time"> 10:52 PM CT, Oct. 14 </p> 
+ [As Western Oil Giants Cut Production, State-Owned Companies Step Up](https://www.nytimes.com/2021/10/14/business/energy-environment/oil-production-state-owned-companies.html) NYT: In the Middle East, Africa and Latin America, government-owned energy companies are increasing oil and natural gas production as U.S. and European companies pare supply because of climate concerns. 
+ <p class="updated_time"> 10:23 PM CT, Oct. 14 </p> 
+ [India to allow first foreign tourists in 19 months](https://www.bbc.co.uk/news/world-asia-india-58880429?at_medium=RSS&at_campaign=KARANGA) BBC: In the first instance, foreign tourists arriving on chartered flights will be allowed in from 15 October. 
  <p class="updated_time"> 09:38 PM CT, Oct. 14 </p> 
  [Taiwan Building Fire Kills at Least 46](https://www.nytimes.com/2021/10/14/world/asia/taiwan-apartment-fire.html) NYT: Dozens more were injured after a fire broke out at a 13-story building in the southern port city of Kaohsiung. 
  <p class="updated_time"> 09:18 PM CT, Oct. 14 </p> 
@@ -46,8 +52,6 @@ permalink: /charts/news/
  [With a new Michelin guide, Moscow's best-kept culinary secrets are out](https://www.bbc.co.uk/news/world-europe-58920839?at_medium=RSS&at_campaign=KARANGA) BBC: Nine Moscow restaurants have received Michelin stars for their food - a prestigious industry award. 
  <p class="updated_time"> 04:18 PM CT, Oct. 14 </p> 
  [Brazil soldiers who shot dead a musician convicted](https://www.bbc.co.uk/news/world-latin-america-58920462?at_medium=RSS&at_campaign=KARANGA) BBC: The men fired dozens of rounds into Evaldo dos Santos Rosa's car, killing him and a bystander. 
- <p class="updated_time"> 04:04 PM CT, Oct. 14 </p> 
- [Stranded 600lb turtle returned to Atlantic Ocean](https://www.bbc.co.uk/news/world-us-canada-58920819?at_medium=RSS&at_campaign=KARANGA) BBC: The sea turtle washed ashore a riverbank in Massachusetts this week. 
  <p class="updated_time"> 03:59 PM CT, Oct. 14 </p> 
  [Father charged after toddler fatally shot mother during Zoom call](https://www.bbc.co.uk/news/world-us-canada-58920322?at_medium=RSS&at_campaign=KARANGA) BBC: Police said the gun had been kept loaded in a children's backpack on the floor of the couple's room. 
  <p class="updated_time"> 03:56 PM CT, Oct. 14 </p> 
@@ -62,10 +66,6 @@ permalink: /charts/news/
  [Norway Bow-and-Arrow Rampage Treated as Apparent Terrorism Attack](https://www.nytimes.com/2021/10/14/world/europe/norway-bow-and-arrow-attack.html) NYT: The police said that they had previously contacted the suspect, a 37-year-old Danish citizen who is believed to have killed five people, over concerns that he had been radicalized. 
  <p class="updated_time"> 02:34 PM CT, Oct. 14 </p> 
  [Moderna and J.& J. Boosters: What Are the Next Steps? ](https://www.nytimes.com/2021/10/14/us/covid-booster-vaccines-fda.html) NYT: Further steps will be required at the F.D.A. and at the C.D.C., in a process that ends with the states. 
- <p class="updated_time"> 02:16 PM CT, Oct. 14 </p> 
- [LinkedIn to End Service in China, Citing ‘Challenging’ Environment](https://www.nytimes.com/2021/10/14/technology/linkedin-china-microsoft.html) NYT: The Microsoft-owned service had censored posts in China, in compliance with the country’s laws, to operate there. 
- <p class="updated_time"> 01:27 PM CT, Oct. 14 </p> 
- [As Western Oil Giants Cut Production, State-Owned Companies Step Up](https://www.nytimes.com/2021/10/14/business/energy-environment/oil-production-state-owned-companies.html) NYT: In the Middle East, Africa and Latin America, government-owned energy companies are increasing oil and natural gas production as U.S. and European companies pare supply because of climate concerns. 
  <p class="updated_time"> 01:24 PM CT, Oct. 14 </p> 
  [U.S. Antigovernment Groups Are Influencing the French Far Right](https://www.nytimes.com/2021/10/13/us/politics/france-far-right-extremists-qanon.html) NYT: The top French intelligence official, who is visiting Washington this week, said QAnon and other conspiracy theories were spreading to Europe. 
  <p class="updated_time"> 01:23 PM CT, Oct. 14 </p> 
