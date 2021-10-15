@@ -6,10 +6,10 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 01:40 AM CT, Oct. 15 </p> 
+ [Scott Morrison: Australia PM to attend COP26 summit after global pressure](https://www.bbc.co.uk/news/world-australia-58907526?at_medium=RSS&at_campaign=KARANGA) BBC: Scott Morrison had said he might skip the summit, reigniting criticism of Australia's climate vows. 
  <p class="updated_time"> 01:18 AM CT, Oct. 15 </p> 
  [Bill Clinton: Former US president in hospital for 'non-Covid infection'](https://www.bbc.co.uk/news/world-us-canada-58921615?at_medium=RSS&at_campaign=KARANGA) BBC: The former US president is said to be "on the mend" and "in good spirits" in hospital in California. 
- <p class="updated_time"> 01:10 AM CT, Oct. 15 </p> 
- [Scott Morrison: Australia PM to attend COP26 summit after global pressure](https://www.bbc.co.uk/news/world-australia-58907526?at_medium=RSS&at_campaign=KARANGA) BBC: Scott Morrison had said he might skip the summit, reigniting criticism of Australia's climate vows. 
  <p class="updated_time"> 12:59 AM CT, Oct. 15 </p> 
  [Migrants face expulsion at Polish border under new law](https://www.bbc.co.uk/news/world-europe-58921310?at_medium=RSS&at_campaign=KARANGA) BBC: Human rights groups accuse Poland of wanting to legalise migrant pushbacks on its border with Belarus. 
  <p class="updated_time"> 12:10 AM CT, Oct. 15 </p> 
