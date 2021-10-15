@@ -6,12 +6,18 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 12:06 PM CT, Oct. 15 </p> 
+ [Covid: US to lift travel ban for fully jabbed on 8 November](https://www.bbc.co.uk/news/world-us-canada-58929441?at_medium=RSS&at_campaign=KARANGA) BBC: Fully vaccinated travellers will be allowed to enter the US for the first time since March 2020. 
+ <p class="updated_time"> 12:03 PM CT, Oct. 15 </p> 
+ [Lebanon Observes Day of Mourning After Deadly Sectarian Clashes](https://www.nytimes.com/2021/10/15/world/middleeast/lebanon-beirut-violence-explosion.html) NYT: The death toll rose to seven a day after gun battles between Christian and Shiite Muslim militias erupted amid tensions over an investigation into the port explosion last year. 
+ <p class="updated_time"> 12:01 PM CT, Oct. 15 </p> 
+ [Blast at Afghan Mosque Kills Dozens as Shiites Are Targeted Again](https://www.nytimes.com/2021/10/15/world/asia/afghanistan-mosque-blast.html) NYT: It was the second week in a row that attackers had struck a Shiite place of worship during Friday Prayer. 
+ <p class="updated_time"> 11:59 AM CT, Oct. 15 </p> 
+ [Live Updates: Italy’s Covid Vaccine Mandate Comes Into Force, a First for a Western Democracy](https://www.nytimes.com/live/2021/10/15/world/italy-covid-green-pass) NYT: All workers across public and private sectors are now required to be vaccinated or take frequent coronavirus tests. Opponents tried to rally the masses to protest, but most Italians appeared to accept the move as a necessity. 
  <p class="updated_time"> 11:40 AM CT, Oct. 15 </p> 
  [Kongsberg attack: Norway probes bow and arrow suspect’s sanity](https://www.bbc.co.uk/news/world-europe-58924466?at_medium=RSS&at_campaign=KARANGA) BBC: Psychiatrists examine a man suspected of killing five people with a bow and arrows in Norway. 
  <p class="updated_time"> 11:26 AM CT, Oct. 15 </p> 
  [Nike Jordan boss reveals he murdered an 18-year-old in 1965](https://www.bbc.co.uk/news/world-us-canada-58931528?at_medium=RSS&at_campaign=KARANGA) BBC: Larry Miller, now 72, said he was in a gang as a teenager when he shot an 18-year-old man. 
- <p class="updated_time"> 11:24 AM CT, Oct. 15 </p> 
- [Live Updates: Italy’s Covid Vaccine Mandate Comes Into Force, a First for a Western Democracy](https://www.nytimes.com/live/2021/10/15/world/italy-covid-green-pass) NYT: All workers across public and private sectors are now required to be vaccinated or take frequent coronavirus tests. Opponents tried to rally the masses to protest, but most Italians appeared to accept the move as a necessity. 
  <p class="updated_time"> 11:24 AM CT, Oct. 15 </p> 
  [Protests Over Italy's Covid 'Green Pass' Draw Only Scattered Crowds](https://www.nytimes.com/2021/10/15/world/europe/covid-italy-green-pass-protests.html) NYT: While there were scattered protests across Italy on Friday, many in the country appeared to accept the measure as necessary. 
  <p class="updated_time"> 11:18 AM CT, Oct. 15 </p> 
@@ -28,12 +34,6 @@ permalink: /charts/news/
  [South Korean Military Struggles to Root Out Sexual Assaults](https://www.nytimes.com/2021/10/15/world/asia/south-korea-military-sexual-assault-suicide.html) NYT: The death of a woman in South Korea’s air force has rekindled outrage over the country’s armed forces, long criticized for abusing and discriminating​ against women. 
  <p class="updated_time"> 10:22 AM CT, Oct. 15 </p> 
  [Bangladesh Strengthens Security as Violence Targets Hindu Festival](https://www.nytimes.com/2021/10/15/world/asia/15bangladesh-muslim-hindu-violence.html) NYT: Paramilitary forces were deployed across much of the country after the worst communal violence in years targeted dozens of Hindu gatherings. 
- <p class="updated_time"> 10:10 AM CT, Oct. 15 </p> 
- [Lebanon Observes Day of Mourning After Sectarian Clashes Kill 6](https://www.nytimes.com/2021/10/15/world/middleeast/lebanon-beirut-violence-explosion.html) NYT: Beirut’s streets were quiet a day after gun battles between Christian and Shiite Muslim militias erupted amid tensions over an investigation into the port explosion last year. 
- <p class="updated_time"> 10:04 AM CT, Oct. 15 </p> 
- [Covid: US to lift travel ban for fully jabbed on 8 November](https://www.bbc.co.uk/news/world-us-canada-58929441?at_medium=RSS&at_campaign=KARANGA) BBC: Fully vaccinated travellers will be allowed to enter the US for the first time since March 2020. 
- <p class="updated_time"> 10:04 AM CT, Oct. 15 </p> 
- [Blast at Afghan Mosque Kills at Least 37 as Shiites Are Targeted Again](https://www.nytimes.com/2021/10/15/world/asia/afghanistan-mosque-blast.html) NYT: It was the second week in a row that attackers had struck a Shiite place of worship during Friday Prayer. 
  <p class="updated_time"> 09:38 AM CT, Oct. 15 </p> 
  [Norway Bow-and-Arrow Rampage Treated as Apparent Terrorism Attack](https://www.nytimes.com/2021/10/14/world/europe/norway-bow-and-arrow-attack.html) NYT: The police said that they had previously contacted the suspect, a 37-year-old Danish citizen who is believed to have killed five people, over concerns that he had been radicalized. 
  <p class="updated_time"> 09:37 AM CT, Oct. 15 </p> 
@@ -58,6 +58,8 @@ permalink: /charts/news/
  [Deadly Clashes in Beirut Escalate Fears Over Lebanon’s Dysfunction](https://www.nytimes.com/2021/10/14/world/middleeast/beirut-lebanon.html) NYT: The fighting further traumatized the small Mediterranean country, a patchwork of sects that has tumbled into an abyss of devastating political and economic crises. 
  <p class="updated_time"> 08:06 AM CT, Oct. 15 </p> 
  [Lebanon's Crisis, an Explainer ](https://www.nytimes.com/2021/10/14/briefing/lebanon-financial-crisis-lira.html) NYT: The world isn’t paying much attention. 
+ <p class="updated_time"> 08:05 AM CT, Oct. 15 </p> 
+ [Italy Implements Tough Covid-19 Requirements for Workers](https://www.wsj.com/articles/italys-tough-workplace-covid-19-pass-a-harbinger-of-bidens-vaccine-mandate-11634300912) WSJ: Italians returned to their workplaces needing to show proof that they have received a Covid-19 vaccine, tested negative or recovered from the virus, a policy that could provide a preview of a similar mandate planned by the Biden administration. 
  <p class="updated_time"> 07:58 AM CT, Oct. 15 </p> 
  [Beirut port blast: Day of mourning in Lebanon after bloodshed at protest](https://www.bbc.co.uk/news/world-middle-east-58921314?at_medium=RSS&at_campaign=KARANGA) BBC: Seven people were killed and dozens injured in the worst violence for years in Beirut on Thursday. 
  <p class="updated_time"> 07:57 AM CT, Oct. 15 </p> 
@@ -98,8 +100,6 @@ permalink: /charts/news/
  [Balloon World Cup has first winner](https://www.bbc.co.uk/sport/58922689?at_medium=RSS&at_campaign=KARANGA) BBC: If you say you've never played the balloon game, you're lying. And now there's an official World Cup. 
  <p class="updated_time"> 03:31 AM CT, Oct. 15 </p> 
  [Dubai Halts Air-Cargo Imports Amid Supply-Chain Snags](https://www.wsj.com/articles/dubai-halts-air-cargo-imports-amid-supply-chain-snags-11634301083) WSJ: The emirate’s main cargo handler is rushing to reduce a backlog that has snarled processing and delivery of goods across the United Arab Emirates. 
- <p class="updated_time"> 03:28 AM CT, Oct. 15 </p> 
- [Italy Implements Tough Covid-19 Requirements for Workers](https://www.wsj.com/articles/italys-tough-workplace-covid-19-pass-a-harbinger-of-bidens-vaccine-mandate-11634300912) WSJ: Italians returned to their workplaces needing to show proof that they have received a Covid-19 vaccine, tested negative or recovered from the virus, a policy that could provide a preview of a similar mandate planned by the Biden administration. 
  <p class="updated_time"> 11:09 PM CT, Oct. 14 </p> 
  [Your Friday Briefing](https://www.nytimes.com/2021/10/15/briefing/beirut-fighting-pandemic-america.html) NYT: The state of the pandemic in the U.S. 
  <p class="updated_time"> 11:01 PM CT, Oct. 14 </p> 
