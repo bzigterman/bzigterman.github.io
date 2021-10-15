@@ -6,10 +6,10 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 04:30 PM CT, Oct. 15 </p> 
+ [Blast at Afghan Mosque Kills Dozens as Shiites Are Targeted Again](https://www.nytimes.com/2021/10/15/world/asia/afghanistan-mosque-blast.html) NYT: It was the second week in a row that attackers had struck a Shiite place of worship during Friday Prayer. 
  <p class="updated_time"> 04:28 PM CT, Oct. 15 </p> 
  [Moderna and J.& J. Boosters: What Are the Next Steps? ](https://www.nytimes.com/2021/10/14/us/covid-booster-vaccines-fda.html) NYT: Further steps regarding the Moderna and J.&J. booster shots will be required at the F.D.A. and at the C.D.C., in a process that ends with the states. 
- <p class="updated_time"> 04:24 PM CT, Oct. 15 </p> 
- [Blast at Afghan Mosque Kills Dozens as Shiites Are Targeted Again](https://www.nytimes.com/2021/10/15/world/asia/afghanistan-mosque-blast.html) NYT: It was the second week in a row that attackers had struck a Shiite place of worship during Friday Prayer. 
  <p class="updated_time"> 03:57 PM CT, Oct. 15 </p> 
  [Suspect Confesses in Bow-and-Arrow Rampage in Norway](https://www.nytimes.com/2021/10/15/world/europe/norway-murder-bow-arrow-terrorism.html) NYT: Espen Anderson Brathen has been charged with murder in the deaths of five people after the authorities say he went on a killing spree armed with a hunting bow. 
  <p class="updated_time"> 03:41 PM CT, Oct. 15 </p> 
