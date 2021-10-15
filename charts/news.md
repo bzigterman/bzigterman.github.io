@@ -6,7 +6,7 @@ permalink: /charts/news/
 
 ## World News
 
- <p class="updated_time"> 04:22 AM CT, Oct. 15 </p> 
+ <p class="updated_time"> 04:36 AM CT, Oct. 15 </p> 
  [Explosion strikes Afghan mosque during prayers](https://www.bbc.co.uk/news/world-asia-58925863?at_medium=RSS&at_campaign=KARANGA) BBC: Many casualties are feared after an explosion hits a Shia mosque during Friday prayers in the Afghan city of Kandahar. 
  <p class="updated_time"> 04:02 AM CT, Oct. 15 </p> 
  [Agnes Tirop: Husband arrested in Kenya after athlete's death](https://www.bbc.co.uk/news/world-africa-58919391?at_medium=RSS&at_campaign=KARANGA) BBC: Record-breaking long-distance runner Agnes Tirop was found stabbed to death at her home on Wednesday. 
