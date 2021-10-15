@@ -6,10 +6,10 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 06:50 AM CT, Oct. 15 </p> 
+ [Blast at Afghan Mosque Kills and Injures More Than a Dozen](https://www.nytimes.com/2021/10/15/world/asia/afghanistan-mosque-blast.html) NYT: The explosion in Kandahar marked the second week in a row that attackers had struck a Shiite place of worship during Friday Prayer. 
  <p class="updated_time"> 06:45 AM CT, Oct. 15 </p> 
  [Two More Guantánamo Detainees Are Approved for Release](https://www.nytimes.com/2021/10/13/us/politics/guantanamo-detainees-transfer.html) NYT: A board has now backed the release of 12 out of the 39 men remaining at the prison, but U.S. diplomats must first reach security agreements with destination countries. 
- <p class="updated_time"> 06:36 AM CT, Oct. 15 </p> 
- [Blast at Afghan Mosque Kills and Injures More Than a Dozen](https://www.nytimes.com/2021/10/15/world/asia/afghanistan-mosque-blast.html) NYT: The explosion in Kandahar was the second week in a row that attackers had struck a Shiite place of worship during Friday Prayer. 
  <p class="updated_time"> 06:35 AM CT, Oct. 15 </p> 
  [Afghanistan: Explosion strikes Afghan mosque during prayers](https://www.bbc.co.uk/news/world-asia-58925863?at_medium=RSS&at_campaign=KARANGA) BBC: More than 30 people are killed after a blast at a Shia mosque during Friday worship in Kandahar. 
  <p class="updated_time"> 06:30 AM CT, Oct. 15 </p> 
