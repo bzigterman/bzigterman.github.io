@@ -6,14 +6,16 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 10:22 AM CT, Oct. 15 </p> 
+ [Bangladesh Strengthens Security as Violence Targets Hindu Festival](https://www.nytimes.com/2021/10/15/world/asia/15bangladesh-muslim-hindu-violence.html) NYT: Paramilitary forces were deployed across much of the country after the worst communal violence in years targeted dozens of Hindu gatherings. 
+ <p class="updated_time"> 10:12 AM CT, Oct. 15 </p> 
+ [Live Updates: Italy’s Covid Vaccine Mandate Comes Into Force, a First for a Western Democracy](https://www.nytimes.com/live/2021/10/15/world/italy-covid-green-pass) NYT: All workers across public and private sectors are now required to be vaccinated or take frequent coronavirus tests. Opponents tried to rally the masses to protest, but most Italians appeared to accept the move as a necessity. 
+ <p class="updated_time"> 10:10 AM CT, Oct. 15 </p> 
+ [Lebanon Observes Day of Mourning After Sectarian Clashes Kill 6](https://www.nytimes.com/2021/10/15/world/middleeast/lebanon-beirut-violence-explosion.html) NYT: Beirut’s streets were quiet a day after gun battles between Christian and Shiite Muslim militias erupted amid tensions over an investigation into the port explosion last year. 
  <p class="updated_time"> 10:04 AM CT, Oct. 15 </p> 
  [Covid: US to lift travel ban for fully jabbed on 8 November](https://www.bbc.co.uk/news/world-us-canada-58929441?at_medium=RSS&at_campaign=KARANGA) BBC: Fully vaccinated travellers will be allowed to enter the US for the first time since March 2020. 
  <p class="updated_time"> 10:04 AM CT, Oct. 15 </p> 
  [Blast at Afghan Mosque Kills at Least 37 as Shiites Are Targeted Again](https://www.nytimes.com/2021/10/15/world/asia/afghanistan-mosque-blast.html) NYT: It was the second week in a row that attackers had struck a Shiite place of worship during Friday Prayer. 
- <p class="updated_time"> 10:02 AM CT, Oct. 15 </p> 
- [Live Updates: Italy’s Covid Vaccine Mandate Comes Into Force, a First for a Western Democracy](https://www.nytimes.com/live/2021/10/15/world/italy-covid-green-pass) NYT: All workers across public and private sectors are now required to be vaccinated or take frequent coronavirus tests. Opponents tried to rally the masses to protest, but most Italians appeared to accept the move as a necessity. 
- <p class="updated_time"> 09:54 AM CT, Oct. 15 </p> 
- [Bangladesh Strengthens Security as Violence Targets Hindu Festival](https://www.nytimes.com/2021/10/15/world/asia/15bangladesh-muslim-hindu-violence.html) NYT: Paramilitary forces were deployed across much of the country after the worst communal violence in years targeted dozens of Hindu gatherings. 
  <p class="updated_time"> 09:48 AM CT, Oct. 15 </p> 
  [Suspect Confesses in Bow-and-Arrow Rampage in Norway](https://www.nytimes.com/2021/10/15/world/europe/norway-murder-bow-arrow-terrorism.html) NYT: Espen Anderson Brathen has been charged with murder in the deaths of five people after the authorities say he went on a killing spree armed with a hunting bow. 
  <p class="updated_time"> 09:47 AM CT, Oct. 15 </p> 
@@ -56,8 +58,6 @@ permalink: /charts/news/
  [Taiwan’s ‘Ghost Building’ Fire: a Death Trap for Dozens of Elderly](https://www.nytimes.com/2021/10/15/world/asia/taiwan-building-fire.html) NYT: “I had no choice but to live here,” said one resident who survived a blaze that killed 46 of her neighbors and raised questions about lax safety standards. 
  <p class="updated_time"> 07:39 AM CT, Oct. 15 </p> 
  [Newly Discovered Bat Viruses Give Hints to Covid’s Origins](https://www.nytimes.com/2021/10/14/science/bat-coronaviruses-lab-leak.html) NYT: Coronaviruses discovered in Laotian bats are surprisingly adept at infecting human cells, showing that such deadly features can indeed evolve outside of a lab. 
- <p class="updated_time"> 07:09 AM CT, Oct. 15 </p> 
- [Lebanon Observes Day of Mourning After Sectarian Clashes Kill 6](https://www.nytimes.com/2021/10/15/world/middleeast/lebanon-beirut-violence-explosion.html) NYT: Beirut’s streets were quiet a day after gun battles between Christian and Shiite Muslim militias erupted amid tensions over an investigation into the port explosion last year. 
  <p class="updated_time"> 07:08 AM CT, Oct. 15 </p> 
  [As Italy Mandates Covid Passes, Rules Vary Across Europe](https://www.nytimes.com/2021/10/15/world/europe/covid-passes.html) NYT: Varying measures reflect domestic politics and potential opposition against such rules. 
  <p class="updated_time"> 06:58 AM CT, Oct. 15 </p> 
