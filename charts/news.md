@@ -6,18 +6,24 @@ permalink: /charts/news/
 
 ## World News
 
- <p class="updated_time"> 09:19 AM CT, Oct. 15 </p> 
- [David Amess, Conservative Lawmaker in U.K., Is Reportedly Stabbed](https://www.nytimes.com/2021/10/15/world/europe/conservative-mp-david-amess-stabbing.html) NYT: The member of Parliament, David Amess, was holding a meeting in his local constituency at the time of the attack. 
+ <p class="updated_time"> 09:29 AM CT, Oct. 15 </p> 
+ [Suspect Confesses in Bow-and-Arrow Rampage in Norway](https://www.nytimes.com/2021/10/15/world/europe/norway-murder-bow-arrow-terrorism.html) NYT: Espen Anderson Brathen has been charged with murder in the deaths of five people after he went on a killing spree armed with a hunting bow. 
+ <p class="updated_time"> 09:23 AM CT, Oct. 15 </p> 
+ [David Amess, Conservative Lawmaker in U.K., Is Reportedly Stabbed to Death](https://www.nytimes.com/2021/10/15/world/europe/conservative-mp-david-amess-stabbing.html) NYT: The member of Parliament, David Amess, was holding a meeting in his local constituency at the time of the attack. 
+ <p class="updated_time"> 09:22 AM CT, Oct. 15 </p> 
+ [Live Updates: Italy’s Covid Vaccine Mandate Comes Into Force, a First for a Western Democracy](https://www.nytimes.com/live/2021/10/15/world/italy-covid-green-pass) NYT: All workers across public and private sectors are now required to be vaccinated or take frequent coronavirus tests. While many accepted the move as a necessity, it was greeted by protests in some parts of the country. 
+ <p class="updated_time"> 09:16 AM CT, Oct. 15 </p> 
+ [Bill Clinton: Former US president in hospital for 'non-Covid infection'](https://www.bbc.co.uk/news/world-us-canada-58921615?at_medium=RSS&at_campaign=KARANGA) BBC: The former US president is said to be "on the mend" and "in good spirits" in hospital in California. 
  <p class="updated_time"> 09:05 AM CT, Oct. 15 </p> 
  [Afghanistan: Suicide attack hits Kandahar mosque during prayers](https://www.bbc.co.uk/news/world-asia-58925863?at_medium=RSS&at_campaign=KARANGA) BBC: Explosions at a Shia mosque in Kandahar kill more than 30 people during Friday worship. 
- <p class="updated_time"> 08:59 AM CT, Oct. 15 </p> 
- [Live Updates: Italy’s Covid Vaccine Mandate Comes Into Force, a First for a Western Democracy](https://www.nytimes.com/live/2021/10/15/world/italy-covid-green-pass) NYT: All workers across public and private sectors are now required to be vaccinated or take frequent coronavirus tests. While many accepted the move as a necessity, it was greeted by protests in some parts of the country. 
  <p class="updated_time"> 08:51 AM CT, Oct. 15 </p> 
  [Covid: US to lift travel ban for fully jabbed on 8 November](https://www.bbc.co.uk/news/world-us-canada-58929441?at_medium=RSS&at_campaign=KARANGA) BBC: Fully vaccinated travellers will be allowed to enter the US for the first time since March 2020. 
  <p class="updated_time"> 08:37 AM CT, Oct. 15 </p> 
  [Covid: Wave of Italian protests against mandatory work pass](https://www.bbc.co.uk/news/world-europe-58913865?at_medium=RSS&at_campaign=KARANGA) BBC: Thousands gather outside major ports, angry that the "Green Pass" is now mandatory for all workers. 
  <p class="updated_time"> 08:37 AM CT, Oct. 15 </p> 
  [German coalition plan sets bigger green targets](https://www.bbc.co.uk/news/world-europe-58924480?at_medium=RSS&at_campaign=KARANGA) BBC: German politicians seek a faster exit from coal power as part of a coalition deal. 
+ <p class="updated_time"> 08:18 AM CT, Oct. 15 </p> 
+ [Self-driving Waymo cars clog up dead-end San Francisco street](https://www.bbc.co.uk/news/technology-58928706?at_medium=RSS&at_campaign=KARANGA) BBC: Waymo says its automated vehicles are following traffic orders when they enter the dead-end street. 
  <p class="updated_time"> 08:14 AM CT, Oct. 15 </p> 
  [Abu Musab al-Barnawi, Leader of ISWAP, Has Died, Nigerian Army Says](https://www.nytimes.com/2021/10/15/world/africa/nigeria-islamic-state-abu-musab-al-barnawi-dead.html) NYT: A top military commander said that Abu Musab al-Barnawi, head of an extremist organization known as the Islamic State West Africa Province, had died. 
  <p class="updated_time"> 08:09 AM CT, Oct. 15 </p> 
@@ -74,8 +80,6 @@ permalink: /charts/news/
  [Man Whose Attack on Ex-Wife Was Livestreamed Gets Death Penalty in China](https://www.nytimes.com/2021/10/15/world/asia/china-livestream-killing-abuse.html) NYT: The case riveted the public’s attention in China and spotlighted the patchy enforcement of the country’s law against domestic violence. 
  <p class="updated_time"> 03:28 AM CT, Oct. 15 </p> 
  [Italy Implements Tough Covid-19 Requirements for Workers](https://www.wsj.com/articles/italys-tough-workplace-covid-19-pass-a-harbinger-of-bidens-vaccine-mandate-11634300912) WSJ: Italians returned to their workplaces needing to show proof that they have received a Covid-19 vaccine, tested negative or recovered from the virus, a policy that could provide a preview of a similar mandate planned by the Biden administration. 
- <p class="updated_time"> 01:18 AM CT, Oct. 15 </p> 
- [Bill Clinton: Former US president in hospital for 'non-Covid infection'](https://www.bbc.co.uk/news/world-us-canada-58921615?at_medium=RSS&at_campaign=KARANGA) BBC: The former US president is said to be "on the mend" and "in good spirits" in hospital in California. 
  <p class="updated_time"> 11:09 PM CT, Oct. 14 </p> 
  [Your Friday Briefing](https://www.nytimes.com/2021/10/15/briefing/beirut-fighting-pandemic-america.html) NYT: The state of the pandemic in the U.S. 
  <p class="updated_time"> 11:01 PM CT, Oct. 14 </p> 
@@ -104,8 +108,6 @@ permalink: /charts/news/
  [U.S. Regains Seat at U.N. Human Rights Council, 3 Years After Quitting](https://www.nytimes.com/2021/10/14/world/un-us-human-rights-council.html) NYT: The Trump administration called the 47-nation council hypocritical and said it was vilifying Israel. The Biden administration says the U.S. can be more effective as a member. 
  <p class="updated_time"> 05:06 PM CT, Oct. 14 </p> 
  [Frida Kahlo, Aztec Gods: Can Art Lift Up a Poor Neighborhood?](https://www.nytimes.com/2021/10/14/world/americas/mexico-city-iztapalapa-murals.html) NYT: A new cableway and hundreds of giant murals have brightened lives in Iztapalapa, Mexico City’s most populous neighborhood, but poverty and attacks against women are still pervasive. 
- <p class="updated_time"> 04:29 PM CT, Oct. 14 </p> 
- [With a new Michelin guide, Moscow's best-kept culinary secrets are out](https://www.bbc.co.uk/news/world-europe-58920839?at_medium=RSS&at_campaign=KARANGA) BBC: Nine Moscow restaurants have received Michelin stars for their food - a prestigious industry award. 
  <p class="updated_time"> 03:39 PM CT, Oct. 14 </p> 
  [Your Friday Briefing](https://www.nytimes.com/2021/10/14/briefing/beirut-violence-taiwan-fire-biodiversity-goodall.html) NYT: Beirut protests turn violent. 
  <p class="updated_time"> 03:09 PM CT, Oct. 14 </p> 
@@ -166,8 +168,6 @@ permalink: /charts/news/
  [Czechs Defeat a Populist, Offering a Road Map for Toppling Strongmen](https://www.nytimes.com/2021/10/13/world/europe/czech-populism-strongmen.html) NYT: A wide range of parties in the Czech Republic banded together despite their differences to oppose Andrej Babis, the country’s populist prime minister. Opposition parties in Hungary are hoping to duplicate the feat. 
  <p class="updated_time"> 11:24 AM CT, Oct. 13 </p> 
  [John Paul I, Pope for 33 Days in 1978, Will Be Beatified](https://www.nytimes.com/2021/10/13/world/europe/pope-john-paul-i-beatified-saint.html) NYT: Pope Francis approved a miracle attributed to the last Italian pope, bringing him a step closer to becoming a saint. 
- <p class="updated_time"> 11:13 AM CT, Oct. 13 </p> 
- [W.H.O. Will Announce New Team to Study Coronavirus Origins](https://www.nytimes.com/2021/10/12/health/covid-lab-leak-who-china.html) NYT: “This new group can do all the fancy footwork it wants, but China’s not going to cooperate,” one expert said. 
  <p class="updated_time"> 10:30 AM CT, Oct. 13 </p> 
  [Britain Needs Truckers Fast. We Went to a School Where They Train.](https://www.nytimes.com/2021/10/13/world/europe/truck-drivers-training-britain.html) NYT: Britain has experienced shortages of gasoline and some foods because of too few drivers. At a military barracks in South London, trainees are learning how to maneuver trucks through streets and highways. 
  <p class="updated_time"> 07:50 AM CT, Oct. 13 </p> 
