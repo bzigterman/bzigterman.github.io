@@ -6,6 +6,12 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 06:01 PM CT, Oct. 15 </p> 
+ [Meghan Markle's donation a 'lifesaver' for community kitchen users](https://www.bbc.co.uk/news/uk-england-nottinghamshire-58872804?at_medium=RSS&at_campaign=KARANGA) BBC: Money donated by the Duchess of Sussex has been spent on feeding Nottingham's most vulnerable. 
+ <p class="updated_time"> 06:01 PM CT, Oct. 15 </p> 
+ [Ros Atkins on… China-Taiwan Tensions](https://www.bbc.co.uk/news/world-58925971?at_medium=RSS&at_campaign=KARANGA) BBC: Ros Atkins examines why tensions between China and Taiwan have increased over recent weeks. 
+ <p class="updated_time"> 06:00 PM CT, Oct. 15 </p> 
+ [Life at 50C: Fleeing Sahara's shifting sands](https://www.bbc.co.uk/news/science-environment-58925616?at_medium=RSS&at_campaign=KARANGA) BBC: Rising temperatures and desertification are forcing many Mauritanians to leave their ancestral homes in search of a better life. 
  <p class="updated_time"> 05:45 PM CT, Oct. 15 </p> 
  [Nike Jordan boss reveals he murdered an 18-year-old in 1965](https://www.bbc.co.uk/news/world-us-canada-58931528?at_medium=RSS&at_campaign=KARANGA) BBC: Larry Miller, now 72, said he was in a gang as a teenager when he shot an 18-year-old man. 
  <p class="updated_time"> 05:39 PM CT, Oct. 15 </p> 
@@ -78,8 +84,6 @@ permalink: /charts/news/
  [Lebanon's Crisis, an Explainer ](https://www.nytimes.com/2021/10/14/briefing/lebanon-financial-crisis-lira.html) NYT: The world isn’t paying much attention. 
  <p class="updated_time"> 07:58 AM CT, Oct. 15 </p> 
  [Beirut port blast: Day of mourning in Lebanon after bloodshed at protest](https://www.bbc.co.uk/news/world-middle-east-58921314?at_medium=RSS&at_campaign=KARANGA) BBC: Seven people were killed and dozens injured in the worst violence for years in Beirut on Thursday. 
- <p class="updated_time"> 07:57 AM CT, Oct. 15 </p> 
- [Queensland, Australia: Motorcycle thief flees crime scene on tractor](https://www.bbc.co.uk/news/world-australia-58926803?at_medium=RSS&at_campaign=KARANGA) BBC: Police officers chased the suspect through the streets in Queensland, Australia. 
  <p class="updated_time"> 07:49 AM CT, Oct. 15 </p> 
  [Two More Guantánamo Detainees Are Approved for Release](https://www.nytimes.com/2021/10/13/us/politics/guantanamo-detainees-transfer.html) NYT: A board has now backed the release of 12 out of the 39 men remaining at the prison, but U.S. diplomats must first reach security agreements with destination countries. 
  <p class="updated_time"> 07:42 AM CT, Oct. 15 </p> 
@@ -154,12 +158,8 @@ permalink: /charts/news/
  [British Museums Face Covid’s Long-Term Effects](https://www.nytimes.com/2021/10/14/arts/design/british-museums-recovery.html) NYT: Months of closures during the pandemic have caused financial havoc for art venues, and many expect to be strapped for years. At the Victoria and Albert Museum in London, the virus’s impact is clear. 
  <p class="updated_time"> 08:51 AM CT, Oct. 14 </p> 
  [Gunfire erupts on Beirut streets after port explosion protest](https://www.bbc.co.uk/news/world-middle-east-58910056?at_medium=RSS&at_campaign=KARANGA) BBC: Several people are shot dead in gun battles following a protest over the Beirut port blast investigation. 
- <p class="updated_time"> 07:00 AM CT, Oct. 14 </p> 
- [Coldplay: Band announce first tour in four years with an 'eco-friendly' focus](https://www.bbc.co.uk/news/entertainment-arts-58907085?at_medium=RSS&at_campaign=KARANGA) BBC: The band have pledged that their upcoming tour will be sustainable, and as low-carbon as possible. 
  <p class="updated_time"> 05:54 AM CT, Oct. 14 </p> 
  [Man With Bow and Arrows Kills Five in Norway](https://www.nytimes.com/2021/10/13/world/europe/norway-bow-arrow-attack.html) NYT: As the country went on alert, the police scrambled to investigate an attack in a town 50 miles outside Oslo. 
- <p class="updated_time"> 05:00 AM CT, Oct. 14 </p> 
- [Kaohsiung: Firefighters battle Taiwan tower block blaze](https://www.bbc.co.uk/news/world-asia-58909907?at_medium=RSS&at_campaign=KARANGA) BBC: At least 46 people have been killed in a fire at a tower block in the city of Kaohsiung, southern Taiwan. 
  <p class="updated_time"> 04:08 AM CT, Oct. 14 </p> 
  [Kyrie Irving Defends Decision on Vaccine After Being Benched](https://www.nytimes.com/2021/10/13/world/kyrie-irving-vaccine-benched-nets.html) NYT: The N.B.A. star, who is set to make $40 million this year, said he opposes vaccine mandates, saying nobody should be “forced” to do it. 
  <p class="updated_time"> 01:14 AM CT, Oct. 14 </p> 
