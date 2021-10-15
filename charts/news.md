@@ -6,6 +6,10 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 04:02 AM CT, Oct. 15 </p> 
+ [Agnes Tirop: Husband arrested in Kenya after athlete's death](https://www.bbc.co.uk/news/world-africa-58919391?at_medium=RSS&at_campaign=KARANGA) BBC: Record-breaking long-distance runner Agnes Tirop was found stabbed to death at her home on Wednesday. 
+ <p class="updated_time"> 04:00 AM CT, Oct. 15 </p> 
+ [South Korean Military Struggles to Root Out Sexual Assaults](https://www.nytimes.com/2021/10/15/world/asia/south-korea-military-sexual-assault-suicide.html) NYT: The death of a woman in South Korea’s air force has rekindled outrage over the country’s armed forces, long criticized for abusing and discriminating​ against women. 
  <p class="updated_time"> 03:39 AM CT, Oct. 15 </p> 
  [Man Whose Attack on Ex-Wife Was Livestreamed Gets Death Penalty in China](https://www.nytimes.com/2021/10/15/world/asia/china-livestream-killing-abuse.html) NYT: The case riveted the public’s attention in China and spotlighted the patchy enforcement of the country’s law against domestic violence. 
  <p class="updated_time"> 03:35 AM CT, Oct. 15 </p> 
@@ -58,8 +62,6 @@ permalink: /charts/news/
  [U.S. Regains Seat at U.N. Human Rights Council, 3 Years After Quitting](https://www.nytimes.com/2021/10/14/world/un-us-human-rights-council.html) NYT: The Trump administration called the 47-nation council hypocritical and said it was vilifying Israel. The Biden administration says the U.S. can be more effective as a member. 
  <p class="updated_time"> 05:06 PM CT, Oct. 14 </p> 
  [Frida Kahlo, Aztec Gods: Can Art Lift Up a Poor Neighborhood?](https://www.nytimes.com/2021/10/14/world/americas/mexico-city-iztapalapa-murals.html) NYT: A new cableway and hundreds of giant murals have brightened lives in Iztapalapa, Mexico City’s most populous neighborhood, but poverty and attacks against women are still pervasive. 
- <p class="updated_time"> 04:54 PM CT, Oct. 14 </p> 
- [Agnes Tirop: Husband arrested in Kenya after athlete's death](https://www.bbc.co.uk/news/world-africa-58919391?at_medium=RSS&at_campaign=KARANGA) BBC: Record-breaking long-distance runner Agnes Tirop was found stabbed to death at her home on Wednesday. 
  <p class="updated_time"> 04:29 PM CT, Oct. 14 </p> 
  [With a new Michelin guide, Moscow's best-kept culinary secrets are out](https://www.bbc.co.uk/news/world-europe-58920839?at_medium=RSS&at_campaign=KARANGA) BBC: Nine Moscow restaurants have received Michelin stars for their food - a prestigious industry award. 
  <p class="updated_time"> 03:59 PM CT, Oct. 14 </p> 
@@ -128,8 +130,6 @@ permalink: /charts/news/
  [Your Thursday Briefing](https://www.nytimes.com/2021/10/13/briefing/populism-europe-norway-attack.html) NYT: A blow for populism in Europe. 
  <p class="updated_time"> 10:08 PM CT, Oct. 13 </p> 
  [U.K. Agency Issues Climate Change Warning Before U.N. Summit](https://www.nytimes.com/2021/10/13/world/europe/uk-adapt-die-climate-change.html) NYT: With more extreme weather events expected to bring floods and droughts, the body urged world leaders to focus on mitigating the effects of global warming. 
- <p class="updated_time"> 08:26 PM CT, Oct. 13 </p> 
- [How Éric Zemmour Is Turning French Politics Upside Down ](https://www.nytimes.com/2021/10/12/world/europe/eric-zemmour-macron-france-election.html) NYT: Éric Zemmour, an anti-immigrant writer and TV commentator, is surging in opinion polls before presidential elections next year — and he is not yet a candidate. 
  <p class="updated_time"> 07:51 PM CT, Oct. 13 </p> 
  [This Pristine Beach Is One of Japan’s Last. Soon It Will Be Filled With Concrete.](https://www.nytimes.com/2021/10/13/world/asia/japan-katoku-seawall.html) NYT: In rural Japan, the unstoppable forces of nature meet the immovable determination of the construction state. Can this village survive? 
  <p class="updated_time"> 05:44 PM CT, Oct. 13 </p> 
