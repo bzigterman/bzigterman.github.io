@@ -6,16 +6,16 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 03:57 PM CT, Oct. 15 </p> 
+ [Suspect Confesses in Bow-and-Arrow Rampage in Norway](https://www.nytimes.com/2021/10/15/world/europe/norway-murder-bow-arrow-terrorism.html) NYT: Espen Anderson Brathen has been charged with murder in the deaths of five people after the authorities say he went on a killing spree armed with a hunting bow. 
+ <p class="updated_time"> 03:41 PM CT, Oct. 15 </p> 
+ [Protests Over Italy's Covid 'Green Pass' Draw Only Scattered Crowds](https://www.nytimes.com/2021/10/15/world/europe/covid-italy-green-pass-protests.html) NYT: While there were scattered protests across Italy on Friday, many in the country appeared to accept the measure as necessary. 
  <p class="updated_time"> 03:39 PM CT, Oct. 15 </p> 
  [David Amess, Conservative Lawmaker in U.K., Is Reported Stabbed to Death](https://www.nytimes.com/2021/10/15/world/europe/conservative-mp-david-amess-stabbing.html) NYT: David Amess, a Conservative member of Parliament, was holding a meeting in his constituency at the time. He is the second politician killed in an attack in just over five years. 
  <p class="updated_time"> 03:34 PM CT, Oct. 15 </p> 
  [Quebec Language Debate Spurs Eerie Sense of Déjà-Vu](https://www.nytimes.com/2021/10/15/world/canada/quebec-language-debate.html) NYT: For a Montreal-based Times correspondent, proposed language legislation brings back memories of the 1970s. 
  <p class="updated_time"> 03:13 PM CT, Oct. 15 </p> 
  [A Year Later, a Schoolteacher’s Beheading Still Haunts France](https://www.nytimes.com/2021/10/15/world/europe/france-samuel-paty-beheading.html) NYT: The killing of Samuel Paty by an 18-year-old Chechen refugee intensified debate over security and immigration, and prompted intense scrutiny of the French secular model. 
- <p class="updated_time"> 03:12 PM CT, Oct. 15 </p> 
- [Suspect Confesses in Bow-and-Arrow Rampage in Norway](https://www.nytimes.com/2021/10/15/world/europe/norway-murder-bow-arrow-terrorism.html) NYT: Espen Anderson Brathen has been charged with murder in the deaths of five people after the authorities say he went on a killing spree armed with a hunting bow. 
- <p class="updated_time"> 02:50 PM CT, Oct. 15 </p> 
- [Protests Over Italy's Covid 'Green Pass' Draw Only Scattered Crowds](https://www.nytimes.com/2021/10/15/world/europe/covid-italy-green-pass-protests.html) NYT: While there were scattered protests across Italy on Friday, many in the country appeared to accept the measure as necessary. 
  <p class="updated_time"> 02:45 PM CT, Oct. 15 </p> 
  [Moderna and J.& J. Boosters: What Are the Next Steps? ](https://www.nytimes.com/2021/10/14/us/covid-booster-vaccines-fda.html) NYT: Further steps will be required at the F.D.A. and at the C.D.C., in a process that ends with the states. 
  <p class="updated_time"> 02:42 PM CT, Oct. 15 </p> 
@@ -164,8 +164,6 @@ permalink: /charts/news/
  [What Is the Northern Ireland Protocol?](https://www.nytimes.com/article/uk-northern-ireland-protocol-eu.html) NYT: Britain is demanding an end to post-Brexit rules known as the Northern Ireland protocol. The European Union sees the rules as a key part of protecting its single market. 
  <p class="updated_time"> 10:46 PM CT, Oct. 13 </p> 
  [Your Thursday Briefing](https://www.nytimes.com/2021/10/13/briefing/populism-europe-norway-attack.html) NYT: A blow for populism in Europe. 
- <p class="updated_time"> 10:08 PM CT, Oct. 13 </p> 
- [U.K. Agency Issues Climate Change Warning Before U.N. Summit](https://www.nytimes.com/2021/10/13/world/europe/uk-adapt-die-climate-change.html) NYT: With more extreme weather events expected to bring floods and droughts, the body urged world leaders to focus on mitigating the effects of global warming. 
  <p class="updated_time"> 04:23 PM CT, Oct. 13 </p> 
  [Your Thursday Briefing](https://www.nytimes.com/2021/10/13/briefing/china-power-coal-global-supply-space.html) NYT: China’s power and coal shortages. 
  <p class="updated_time"> 03:53 PM CT, Oct. 13 </p> 
