@@ -6,8 +6,12 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 05:49 AM CT, Oct. 15 </p> 
+ [Scott Morrison: Australia PM to attend COP26 summit after global pressure](https://www.bbc.co.uk/news/world-australia-58907526?at_medium=RSS&at_campaign=KARANGA) BBC: Scott Morrison had said he might skip the summit, reigniting criticism of Australia's climate vows. 
  <p class="updated_time"> 05:44 AM CT, Oct. 15 </p> 
  [A Last-Chance ‘Ghost Building’ in Taiwan Becomes a Death Trap for Many](https://www.nytimes.com/2021/10/15/world/asia/taiwan-building-fire.html) NYT: “I had no choice but to live here,” said one resident who survived a blaze that killed 46 of her neighbors and raised questions about lax safety standards. 
+ <p class="updated_time"> 05:40 AM CT, Oct. 15 </p> 
+ [Kongsberg attack: Norwegian town left asking questions after murders](https://www.bbc.co.uk/news/world-europe-58923879?at_medium=RSS&at_campaign=KARANGA) BBC: The innocence of a quiet town outside Oslo is shattered and residents are demanding answers. 
  <p class="updated_time"> 05:18 AM CT, Oct. 15 </p> 
  [Booster Confusion](https://www.nytimes.com/2021/10/15/briefing/johnson-and-johnson-booster-fda.html) NYT: When an F.D.A. panel meets today about J. & J. booster shots, there will be an elephant in the room. 
  <p class="updated_time"> 05:14 AM CT, Oct. 15 </p> 
@@ -28,8 +32,6 @@ permalink: /charts/news/
  [Man Whose Attack on Ex-Wife Was Livestreamed Gets Death Penalty in China](https://www.nytimes.com/2021/10/15/world/asia/china-livestream-killing-abuse.html) NYT: The case riveted the public’s attention in China and spotlighted the patchy enforcement of the country’s law against domestic violence. 
  <p class="updated_time"> 03:01 AM CT, Oct. 15 </p> 
  [Masten Wanjala: Kenyan child serial killer killed by mob](https://www.bbc.co.uk/news/world-africa-58923592?at_medium=RSS&at_campaign=KARANGA) BBC: Police had launched a massive manhunt for Masten Wanjala, who confessed to killing several children. 
- <p class="updated_time"> 01:40 AM CT, Oct. 15 </p> 
- [Scott Morrison: Australia PM to attend COP26 summit after global pressure](https://www.bbc.co.uk/news/world-australia-58907526?at_medium=RSS&at_campaign=KARANGA) BBC: Scott Morrison had said he might skip the summit, reigniting criticism of Australia's climate vows. 
  <p class="updated_time"> 01:18 AM CT, Oct. 15 </p> 
  [Bill Clinton: Former US president in hospital for 'non-Covid infection'](https://www.bbc.co.uk/news/world-us-canada-58921615?at_medium=RSS&at_campaign=KARANGA) BBC: The former US president is said to be "on the mend" and "in good spirits" in hospital in California. 
  <p class="updated_time"> 12:59 AM CT, Oct. 15 </p> 
@@ -59,7 +61,7 @@ permalink: /charts/news/
  <p class="updated_time"> 07:01 PM CT, Oct. 14 </p> 
  [Africa's week in pictures: 8-14 October 2021](https://www.bbc.co.uk/news/world-africa-58909966?at_medium=RSS&at_campaign=KARANGA) BBC: A selection of the best photos from the African continent and beyond. 
  <p class="updated_time"> 06:57 PM CT, Oct. 14 </p> 
- [South Sudan: How to deliver Covid vaccines in a country with few roads](https://www.bbc.co.uk/news/world-africa-58911911?at_medium=RSS&at_campaign=KARANGA) BBC: Delivering vaccines around South Sudan is more expensive than the cost of the jab itself. 
+ [South Sudan: Where Covid vaccines have to be dropped from planes?](https://www.bbc.co.uk/news/world-africa-58911911?at_medium=RSS&at_campaign=KARANGA) BBC: Delivering vaccines around South Sudan is more expensive than the cost of the jab itself. 
  <p class="updated_time"> 06:48 PM CT, Oct. 14 </p> 
  [Produce Pandas: The plus-size musicians making waves in China](https://www.bbc.co.uk/news/world-asia-china-58495677?at_medium=RSS&at_campaign=KARANGA) BBC: As stars are criticised for being image-obsessed, more relatable celebrities have become popular. 
  <p class="updated_time"> 06:10 PM CT, Oct. 14 </p> 
