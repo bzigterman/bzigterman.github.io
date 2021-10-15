@@ -6,6 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 02:03 AM CT, Oct. 15 </p> 
+ [Covid: Strike fears as Italy's workers require Covid pass](https://www.bbc.co.uk/news/world-europe-58913865?at_medium=RSS&at_campaign=KARANGA) BBC: The pass is already used widely, but port and transport workers are angry it is now mandatory. 
  <p class="updated_time"> 01:40 AM CT, Oct. 15 </p> 
  [Scott Morrison: Australia PM to attend COP26 summit after global pressure](https://www.bbc.co.uk/news/world-australia-58907526?at_medium=RSS&at_campaign=KARANGA) BBC: Scott Morrison had said he might skip the summit, reigniting criticism of Australia's climate vows. 
  <p class="updated_time"> 01:18 AM CT, Oct. 15 </p> 
@@ -34,8 +36,6 @@ permalink: /charts/news/
  [Deadly Clashes in Beirut Escalate Fears Over Lebanon’s Dysfunction](https://www.nytimes.com/2021/10/14/world/middleeast/beirut-lebanon.html) NYT: The fighting further traumatized the small Mediterranean country, a patchwork of sects that has tumbled into an abyss of devastating political and economic crises. 
  <p class="updated_time"> 08:04 PM CT, Oct. 14 </p> 
  [The mystery of how long Covid damages our memory](https://www.bbc.co.uk/news/world-us-canada-58918869?at_medium=RSS&at_campaign=KARANGA) BBC: Since Chrissy Gibson was diagnosed with Covid-19, she has had to re-learn many aspects of her life. 
- <p class="updated_time"> 08:01 PM CT, Oct. 14 </p> 
- [Covid: Strike fears as Italy's workers require Covid pass](https://www.bbc.co.uk/news/world-europe-58913865?at_medium=RSS&at_campaign=KARANGA) BBC: The pass is already used widely, but port and transport workers are angry it is now mandatory. 
  <p class="updated_time"> 07:31 PM CT, Oct. 14 </p> 
  [Biden Meets With Kenya’s President Amid Crisis in Ethiopia](https://www.nytimes.com/2021/10/14/us/politics/biden-kenya-kenyatta-ethiopia.html) NYT: The two leaders were also expected to discuss the escalating humanitarian crisis in the Tigray region of Ethiopia, where fighters have been accused of atrocities against civilians. 
  <p class="updated_time"> 07:05 PM CT, Oct. 14 </p> 
