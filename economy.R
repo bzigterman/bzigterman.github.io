@@ -626,18 +626,19 @@ latest_data_for_table <- add_year_ago_column
 cu_housing_table <-   ungroup(latest_data_for_table) %>%
   gt() %>%
   gt_theme_espn() %>%
-  gt_sparkline(lists,
-               line_color = "grey70",
-               range_colors = c("red", "red"),
-               same_limit = FALSE
-               ) %>%
+  # gt_sparkline(
+  #   lists,
+  #   line_color = "grey70",
+  #   range_colors = c("red", "red"),
+  #   same_limit = FALSE
+  # ) %>%
   tab_options(
     table.width = pct(100),
     data_row.padding = px(4),
     table.font.size = px(12)
   ) %>%
   opt_all_caps(  all_caps = TRUE) %>%
-  cols_hide(columns = c(shorter_date)) %>%
+  cols_hide(columns = c(shorter_date, lists)) %>%
   cols_move(
     columns = pct_change,
     after = latest) %>%
@@ -649,16 +650,16 @@ cu_housing_table <-   ungroup(latest_data_for_table) %>%
     decimals = 0,
     force_sign = TRUE
   ) %>%
-  cols_align(
-    align = c("right"),
-    columns = lists
-  ) %>%
+  # cols_align(
+  #   align = c("right"),
+  #   columns = lists
+  # ) %>%
   cols_label(
     name = "Housing Indicators",
     latest = "Latest",
     year_ago = "Year Ago",
     pct_change = html("Year %<br>Change"),
-    lists = html("Last 5<br>Years")
+    #lists = html("Last 5<br>Years")
   ) 
 
 cu_housing_table
