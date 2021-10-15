@@ -6,8 +6,20 @@ permalink: /charts/news/
 
 ## World News
 
- <p class="updated_time"> 07:58 AM CT, Oct. 15 </p> 
+ <p class="updated_time"> 08:18 AM CT, Oct. 15 </p> 
  [Live Updates: Italy’s Covid Vaccine Mandate Comes Into Force, a First for a Western Democracy](https://www.nytimes.com/live/2021/10/15/world/italy-covid-green-pass) NYT: All workers across public and private sectors are now required to be vaccinated or take frequent coronavirus tests. While many accepted the move as a necessity, it was greeted by protests in some parts of the country. 
+ <p class="updated_time"> 08:14 AM CT, Oct. 15 </p> 
+ [Leader of West African Terrorist Group Is Dead, Nigerian Army Says](https://www.nytimes.com/2021/10/15/world/africa/nigeria-islamic-state-abu-musab-al-barnawi-dead.html) NYT: A top military commander said that Abu Musab al-Barnawi, head of an extremist organization known as the Islamic State West Africa Province, had died. 
+ <p class="updated_time"> 08:09 AM CT, Oct. 15 </p> 
+ [Masten Wanjala: Mob beats Kenyan child serial killer to death - police](https://www.bbc.co.uk/news/world-africa-58923592?at_medium=RSS&at_campaign=KARANGA) BBC: Police had launched a massive manhunt for Masten Wanjala, who confessed to killing several children. 
+ <p class="updated_time"> 08:08 AM CT, Oct. 15 </p> 
+ [David Amess, Conservative Lawmaker in Britain, Is Reportedly Stabbed](https://www.nytimes.com/2021/10/15/world/europe/conservative-mp-david-amess-stabbing.html) NYT: The member of Parliament, David Amess, was holding a meeting in his local constituency at the time of the attack. 
+ <p class="updated_time"> 08:07 AM CT, Oct. 15 </p> 
+ [Deadly Clashes in Beirut Escalate Fears Over Lebanon’s Dysfunction](https://www.nytimes.com/2021/10/14/world/middleeast/beirut-lebanon.html) NYT: The fighting further traumatized the small Mediterranean country, a patchwork of sects that has tumbled into an abyss of devastating political and economic crises. 
+ <p class="updated_time"> 08:06 AM CT, Oct. 15 </p> 
+ [Lebanon's Crisis, an Explainer ](https://www.nytimes.com/2021/10/14/briefing/lebanon-financial-crisis-lira.html) NYT: The world isn’t paying much attention. 
+ <p class="updated_time"> 07:58 AM CT, Oct. 15 </p> 
+ [Beirut port blast: Day of mourning in Lebanon after bloodshed at protest](https://www.bbc.co.uk/news/world-middle-east-58921314?at_medium=RSS&at_campaign=KARANGA) BBC: Seven people were killed and dozens injured in the worst violence for years in Beirut on Thursday. 
  <p class="updated_time"> 07:57 AM CT, Oct. 15 </p> 
  [Queensland, Australia: Motorcycle thief flees crime scene on tractor](https://www.bbc.co.uk/news/world-australia-58926803?at_medium=RSS&at_campaign=KARANGA) BBC: Police officers chased the suspect through the streets in Queensland, Australia. 
  <p class="updated_time"> 07:49 AM CT, Oct. 15 </p> 
@@ -28,8 +40,6 @@ permalink: /charts/news/
  [As Italy Mandates Covid Passes, Rules Vary Across Europe](https://www.nytimes.com/2021/10/15/world/europe/covid-passes.html) NYT: Varying measures reflect domestic politics and potential opposition against such rules. 
  <p class="updated_time"> 06:58 AM CT, Oct. 15 </p> 
  [Hate Crimes and Pandemic Lead More Asian Americans to Seek Therapy](https://www.nytimes.com/2021/10/15/us/asian-american-therapy-hate-crimes.html) NYT: A growing number of Asian Americans have overcome a cultural stigma attached to seeking mental health treatment, experts said. 
- <p class="updated_time"> 06:30 AM CT, Oct. 15 </p> 
- [Masten Wanjala: Mob beats Kenyan child serial killer to death - police](https://www.bbc.co.uk/news/world-africa-58923592?at_medium=RSS&at_campaign=KARANGA) BBC: Police had launched a massive manhunt for Masten Wanjala, who confessed to killing several children. 
  <p class="updated_time"> 06:10 AM CT, Oct. 15 </p> 
  [Taiwan Building Fire Kills at Least 46](https://www.nytimes.com/2021/10/14/world/asia/taiwan-apartment-fire.html) NYT: Dozens more were injured after a fire broke out at a 13-story building in the southern port city of Kaohsiung. 
  <p class="updated_time"> 06:06 AM CT, Oct. 15 </p> 
@@ -46,8 +56,6 @@ permalink: /charts/news/
  [Booster Confusion](https://www.nytimes.com/2021/10/15/briefing/johnson-and-johnson-booster-fda.html) NYT: When an F.D.A. panel meets today about J. & J. booster shots, there will be an elephant in the room. 
  <p class="updated_time"> 05:07 AM CT, Oct. 15 </p> 
  [Christchurch: New Zealand city parts ways with its wizard](https://www.bbc.co.uk/news/world-asia-58924306?at_medium=RSS&at_campaign=KARANGA) BBC: Christchurch was the only city in the world with its own official wizard. 
- <p class="updated_time"> 05:06 AM CT, Oct. 15 </p> 
- [Beirut port blast: Day of mourning in Lebanon after bloodshed at protest](https://www.bbc.co.uk/news/world-middle-east-58921314?at_medium=RSS&at_campaign=KARANGA) BBC: Seven people were killed and dozens injured in the worst violence for years in Beirut on Thursday. 
  <p class="updated_time"> 04:44 AM CT, Oct. 15 </p> 
  [Covid: Italy port workers strike over Covid pass rules](https://www.bbc.co.uk/news/world-europe-58913865?at_medium=RSS&at_campaign=KARANGA) BBC: About 2,000 workers are outside Trieste port, angry that the widely used pass is now mandatory. 
  <p class="updated_time"> 04:03 AM CT, Oct. 15 </p> 
@@ -76,8 +84,6 @@ permalink: /charts/news/
  [North Korean Soldiers Lie Shirtless on Broken Glass](https://www.nytimes.com/2021/10/14/world/asia/north-korea-propaganda-military-broken-glass.html) NYT: The country has never been known for its subtlety, and martial-art stunts have long been a mainstay of its propaganda, designed to stoke national pride and instill fear in enemies. 
  <p class="updated_time"> 08:19 PM CT, Oct. 14 </p> 
  [Faulty Studs Led to Mexico City Metro Collapse, Attorney General Says](https://www.nytimes.com/2021/10/14/world/americas/mexico-city-metro-collapse.html) NYT: A monthslong investigation by city authorities supports the central findings of a New York Times investigation, which had uncovered a series of fatal construction flaws. 
- <p class="updated_time"> 08:11 PM CT, Oct. 14 </p> 
- [Deadly Clashes in Beirut Escalate Fears Over Lebanon’s Dysfunction](https://www.nytimes.com/2021/10/14/world/middleeast/beirut-lebanon.html) NYT: The fighting further traumatized the small Mediterranean country, a patchwork of sects that has tumbled into an abyss of devastating political and economic crises. 
  <p class="updated_time"> 08:04 PM CT, Oct. 14 </p> 
  [The mystery of how long Covid damages our memory](https://www.bbc.co.uk/news/world-us-canada-58918869?at_medium=RSS&at_campaign=KARANGA) BBC: Since Chrissy Gibson was diagnosed with Covid-19, she has had to re-learn many aspects of her life. 
  <p class="updated_time"> 07:31 PM CT, Oct. 14 </p> 
@@ -132,8 +138,6 @@ permalink: /charts/news/
  [World's Fair Offers a New View of Michelangelo's 'David': Just His Head](https://www.wsj.com/articles/worlds-fair-offers-a-new-view-of-michelangelos-david-just-his-head-11634234707) WSJ: A nearly 17-foot 3-D printed replica at Italy’s pavilion in Dubai showcases the biblical hero with its famous face visible on one floor and its body on another. 
  <p class="updated_time"> 08:51 AM CT, Oct. 14 </p> 
  [Gunfire erupts on Beirut streets after port explosion protest](https://www.bbc.co.uk/news/world-middle-east-58910056?at_medium=RSS&at_campaign=KARANGA) BBC: Several people are shot dead in gun battles following a protest over the Beirut port blast investigation. 
- <p class="updated_time"> 08:49 AM CT, Oct. 14 </p> 
- [Lebanon's Crisis, an Explainer ](https://www.nytimes.com/2021/10/14/briefing/lebanon-financial-crisis-lira.html) NYT: The world isn’t paying much attention. 
  <p class="updated_time"> 08:11 AM CT, Oct. 14 </p> 
  [Pandemic Disruptions Blamed for First Increase in Estimated Tuberculosis Deaths in More Than a Decade](https://www.wsj.com/articles/pandemic-disruptions-blamed-for-first-increase-in-estimated-tuberculosis-deaths-in-more-than-a-decade-11634231508) WSJ: The World Health Organization estimates 1.5 million people died in 2020 from what used to be deadliest infectious disease before Covid-19 emerged. 
  <p class="updated_time"> 07:00 AM CT, Oct. 14 </p> 
@@ -180,8 +184,6 @@ permalink: /charts/news/
  [Cases of ‘Havana Syndrome’ Reported at U.S. Embassy in Colombia](https://www.nytimes.com/2021/10/12/us/politics/havana-syndrome-colombia.html) NYT: The State Department is investigating new complaints of mysterious brain injuries before Secretary of State Antony J. Blinken’s visit to the country next week. 
  <p class="updated_time"> 04:43 PM CT, Oct. 12 </p> 
  [Iraq Says It Arrested a Leading Islamic State Figure](https://www.nytimes.com/2021/10/12/world/middleeast/isis-leader-captured-iraq.html) NYT: One of the most senior ISIS leaders ever to be taken alive is now reported to be in custody. The U.S. had offered a reward of up to $5 million for his capture. 
- <p class="updated_time"> 04:32 PM CT, Oct. 12 </p> 
- [Ethiopia Attacks Rebels in Tigray as Famine Threatens](https://www.nytimes.com/2021/10/12/world/africa/ethiopia-tigray-offensive.html) NYT: Western officials confirmed Tigrayan reports of an assault on several fronts. Aid workers said it will intensify a dire humanitarian crisis. 
  <p class="updated_time"> 05:01 AM CT, Oct. 11 </p> 
  [Climate change: Is the UK on track to meet its targets?](https://www.bbc.co.uk/news/58160547?at_medium=RSS&at_campaign=KARANGA) BBC: With weeks to go until the UK hosts a global climate summit, is the government on track to meet its own commitments? 
 
