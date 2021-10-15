@@ -6,8 +6,12 @@ permalink: /charts/news/
 
 ## World News
 
- <p class="updated_time"> 04:36 AM CT, Oct. 15 </p> 
- [Explosion strikes Afghan mosque during prayers](https://www.bbc.co.uk/news/world-asia-58925863?at_medium=RSS&at_campaign=KARANGA) BBC: Many casualties are feared after an explosion hits a Shia mosque during Friday prayers in the Afghan city of Kandahar. 
+ <p class="updated_time"> 04:46 AM CT, Oct. 15 </p> 
+ [Explosion strikes Afghan mosque during prayers](https://www.bbc.co.uk/news/world-asia-58925863?at_medium=RSS&at_campaign=KARANGA) BBC: At least seven people are killed after a blast at a Shia mosque during Friday prayers in Kandahar. 
+ <p class="updated_time"> 04:44 AM CT, Oct. 15 </p> 
+ [Covid: Italy port workers strike over Covid pass rules](https://www.bbc.co.uk/news/world-europe-58913865?at_medium=RSS&at_campaign=KARANGA) BBC: About 2,000 workers are outside Trieste port, angry that the widely used pass is now mandatory. 
+ <p class="updated_time"> 04:03 AM CT, Oct. 15 </p> 
+ [Kongsberg attack: Norway probes bow and arrow suspect’s sanity](https://www.bbc.co.uk/news/world-europe-58924466?at_medium=RSS&at_campaign=KARANGA) BBC: Psychiatrists examine a man suspected of killing five people with a bow and arrows in Norway. 
  <p class="updated_time"> 04:02 AM CT, Oct. 15 </p> 
  [Agnes Tirop: Husband arrested in Kenya after athlete's death](https://www.bbc.co.uk/news/world-africa-58919391?at_medium=RSS&at_campaign=KARANGA) BBC: Record-breaking long-distance runner Agnes Tirop was found stabbed to death at her home on Wednesday. 
  <p class="updated_time"> 04:00 AM CT, Oct. 15 </p> 
@@ -20,8 +24,6 @@ permalink: /charts/news/
  [A Last-Chance ‘Ghost’ Building in Taiwan Becomes a Deathtrap for Many](https://www.nytimes.com/2021/10/15/world/asia/taiwan-building-fire.html) NYT: “I had no choice but to live here,” said one resident who survived a blaze that killed 46 of her neighbors and raised questions about lax safety standards. 
  <p class="updated_time"> 03:01 AM CT, Oct. 15 </p> 
  [Masten Wanjala: Kenyan child serial killer killed by mob](https://www.bbc.co.uk/news/world-africa-58923592?at_medium=RSS&at_campaign=KARANGA) BBC: Police had launched a massive manhunt for Masten Wanjala, who confessed to killing several children. 
- <p class="updated_time"> 02:03 AM CT, Oct. 15 </p> 
- [Covid: Strike fears as Italy's workers require Covid pass](https://www.bbc.co.uk/news/world-europe-58913865?at_medium=RSS&at_campaign=KARANGA) BBC: The pass is already used widely, but port and transport workers are angry it is now mandatory. 
  <p class="updated_time"> 01:40 AM CT, Oct. 15 </p> 
  [Scott Morrison: Australia PM to attend COP26 summit after global pressure](https://www.bbc.co.uk/news/world-australia-58907526?at_medium=RSS&at_campaign=KARANGA) BBC: Scott Morrison had said he might skip the summit, reigniting criticism of Australia's climate vows. 
  <p class="updated_time"> 01:18 AM CT, Oct. 15 </p> 
@@ -82,8 +84,6 @@ permalink: /charts/news/
  [U.S. Antigovernment Groups Are Influencing the French Far Right](https://www.nytimes.com/2021/10/13/us/politics/france-far-right-extremists-qanon.html) NYT: The top French intelligence official, who is visiting Washington this week, said QAnon and other conspiracy theories were spreading to Europe. 
  <p class="updated_time"> 01:23 PM CT, Oct. 14 </p> 
  [Gunfights Rock Beirut Following Hezbollah Protest Against Blast Probe](https://www.wsj.com/articles/gunfights-rock-beirut-following-hezbollah-protest-against-blast-probe-11634213261) WSJ: Sectarian clashes turned neighborhoods of Beirut into a free-fire zone, killing six and reviving memories of Lebanon’s civil war. 
- <p class="updated_time"> 11:59 AM CT, Oct. 14 </p> 
- [Kongsberg: Bow and arrow attack appears to be terrorism - officials](https://www.bbc.co.uk/news/world-europe-58910794?at_medium=RSS&at_campaign=KARANGA) BBC: Security officials says the Kongsberg attack on Wednesday looks to have been a "terrorist act". 
  <p class="updated_time"> 11:51 AM CT, Oct. 14 </p> 
  [Mexico City Replaces a Statue of Columbus With One of an Indigenous Woman](https://www.nytimes.com/2021/10/14/world/americas/mexico-columbus-statue-indigenous.html) NYT: The replacement of a figure seen as a monument to colonialism touched a nerve as the country debates how it is shaped by race and sex. 
  <p class="updated_time"> 11:47 AM CT, Oct. 14 </p> 
@@ -130,6 +130,8 @@ permalink: /charts/news/
  [Your Thursday Briefing](https://www.nytimes.com/2021/10/13/briefing/populism-europe-norway-attack.html) NYT: A blow for populism in Europe. 
  <p class="updated_time"> 10:08 PM CT, Oct. 13 </p> 
  [U.K. Agency Issues Climate Change Warning Before U.N. Summit](https://www.nytimes.com/2021/10/13/world/europe/uk-adapt-die-climate-change.html) NYT: With more extreme weather events expected to bring floods and droughts, the body urged world leaders to focus on mitigating the effects of global warming. 
+ <p class="updated_time"> 08:26 PM CT, Oct. 13 </p> 
+ [How Éric Zemmour Is Turning French Politics Upside Down ](https://www.nytimes.com/2021/10/12/world/europe/eric-zemmour-macron-france-election.html) NYT: Éric Zemmour, an anti-immigrant writer and TV commentator, is surging in opinion polls before presidential elections next year — and he is not yet a candidate. 
  <p class="updated_time"> 07:51 PM CT, Oct. 13 </p> 
  [This Pristine Beach Is One of Japan’s Last. Soon It Will Be Filled With Concrete.](https://www.nytimes.com/2021/10/13/world/asia/japan-katoku-seawall.html) NYT: In rural Japan, the unstoppable forces of nature meet the immovable determination of the construction state. Can this village survive? 
  <p class="updated_time"> 05:44 PM CT, Oct. 13 </p> 
@@ -142,8 +144,6 @@ permalink: /charts/news/
  [Caribbean Nations Struggle With Covid Vaccination Rates](https://www.nytimes.com/2021/10/13/world/americas/haiti-covid-vaccinations-caribbean.html) NYT: Across the region, countries are grappling with unequal distribution of doses and vaccine hesitancy. 
  <p class="updated_time"> 03:47 PM CT, Oct. 13 </p> 
  [W.H.O Names Advisory Group to Study Origin of Covid Pandemic](https://www.nytimes.com/2021/10/13/science/who-coronavirus-origins.html) NYT: The group includes scientists from 26 countries, a reflection of the W.H.O.’s effort to amass widespread international support for the work. 
- <p class="updated_time"> 01:49 PM CT, Oct. 13 </p> 
- [China’s Power Problems Expose a Strategic Weakness](https://www.nytimes.com/2021/10/13/business/china-electricity-shortage.html) NYT: China announced on Wednesday a national rush to mine and burn more coal, as the country’s electricity shortage threatens to damage its image as a reliable manufacturing base. 
  <p class="updated_time"> 01:09 PM CT, Oct. 13 </p> 
  [Czechs Defeat a Populist, Offering a Road Map for Toppling Strongmen](https://www.nytimes.com/2021/10/13/world/europe/czech-populism-strongmen.html) NYT: A wide range of parties in the Czech Republic banded together despite their differences to oppose Andrej Babis, the country’s populist prime minister. Opposition parties in Hungary are hoping to duplicate the feat. 
  <p class="updated_time"> 11:24 AM CT, Oct. 13 </p> 
