@@ -6,12 +6,14 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 03:39 AM CT, Oct. 15 </p> 
+ [Man Whose Attack on Ex-Wife Was Livestreamed Gets Death Penalty in China](https://www.nytimes.com/2021/10/15/world/asia/china-livestream-killing-abuse.html) NYT: The case riveted the public’s attention in China and spotlighted the patchy enforcement of the country’s law against domestic violence. 
+ <p class="updated_time"> 03:35 AM CT, Oct. 15 </p> 
+ [Beirut port blast: Day of mourning in Lebanon after bloodshed at protest](https://www.bbc.co.uk/news/world-middle-east-58921314?at_medium=RSS&at_campaign=KARANGA) BBC: Six people were killed and 32 injured in some of the worst violence for years in Beirut on Thursday. 
  <p class="updated_time"> 03:13 AM CT, Oct. 15 </p> 
  [A Last-Chance ‘Ghost’ Building in Taiwan Becomes a Deathtrap for Many](https://www.nytimes.com/2021/10/15/world/asia/taiwan-building-fire.html) NYT: “I had no choice but to live here,” said one resident who survived a blaze that killed 46 of her neighbors and raised questions about lax safety standards. 
  <p class="updated_time"> 03:01 AM CT, Oct. 15 </p> 
  [Masten Wanjala: Kenyan child serial killer killed by mob](https://www.bbc.co.uk/news/world-africa-58923592?at_medium=RSS&at_campaign=KARANGA) BBC: Police had launched a massive manhunt for Masten Wanjala, who confessed to killing several children. 
- <p class="updated_time"> 02:42 AM CT, Oct. 15 </p> 
- [Man Whose Attack on Ex-Wife Was Livestreamed Gets Death Penalty in China](https://www.nytimes.com/2021/10/15/world/asia/china-livestream-killing-abuse.html) NYT: The case riveted the public’s attention in China and spotlighted the patchy enforcement of the country’s law against domestic violence. 
  <p class="updated_time"> 02:03 AM CT, Oct. 15 </p> 
  [Covid: Strike fears as Italy's workers require Covid pass](https://www.bbc.co.uk/news/world-europe-58913865?at_medium=RSS&at_campaign=KARANGA) BBC: The pass is already used widely, but port and transport workers are angry it is now mandatory. 
  <p class="updated_time"> 01:40 AM CT, Oct. 15 </p> 
@@ -20,8 +22,6 @@ permalink: /charts/news/
  [Bill Clinton: Former US president in hospital for 'non-Covid infection'](https://www.bbc.co.uk/news/world-us-canada-58921615?at_medium=RSS&at_campaign=KARANGA) BBC: The former US president is said to be "on the mend" and "in good spirits" in hospital in California. 
  <p class="updated_time"> 12:59 AM CT, Oct. 15 </p> 
  [Migrants face expulsion at Polish border under new law](https://www.bbc.co.uk/news/world-europe-58921310?at_medium=RSS&at_campaign=KARANGA) BBC: Human rights groups accuse Poland of wanting to legalise migrant pushbacks on its border with Belarus. 
- <p class="updated_time"> 11:59 PM CT, Oct. 14 </p> 
- [Beirut port blast: Day of mourning in Lebanon after bloodshed at protest](https://www.bbc.co.uk/news/world-middle-east-58921314?at_medium=RSS&at_campaign=KARANGA) BBC: At least six people were killed and 32 injured in a shooting at a protest in Beirut on Thursday. 
  <p class="updated_time"> 11:09 PM CT, Oct. 14 </p> 
  [Your Friday Briefing](https://www.nytimes.com/2021/10/15/briefing/beirut-fighting-pandemic-america.html) NYT: The state of the pandemic in the U.S. 
  <p class="updated_time"> 11:07 PM CT, Oct. 14 </p> 
