@@ -6,6 +6,12 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 06:36 AM CT, Oct. 15 </p> 
+ [Blast at Afghan Mosque Kills and Injures More Than a Dozen](https://www.nytimes.com/2021/10/15/world/asia/afghanistan-mosque-blast.html) NYT: The explosion in Kandahar was the second week in a row that attackers had struck a Shiite place of worship during Friday Prayer. 
+ <p class="updated_time"> 06:35 AM CT, Oct. 15 </p> 
+ [Afghanistan: Explosion strikes Afghan mosque during prayers](https://www.bbc.co.uk/news/world-asia-58925863?at_medium=RSS&at_campaign=KARANGA) BBC: More than 30 people are killed after a blast at a Shia mosque during Friday worship in Kandahar. 
+ <p class="updated_time"> 06:30 AM CT, Oct. 15 </p> 
+ [Masten Wanjala: Mob beats Kenyan child serial killer to death - police](https://www.bbc.co.uk/news/world-africa-58923592?at_medium=RSS&at_campaign=KARANGA) BBC: Police had launched a massive manhunt for Masten Wanjala, who confessed to killing several children. 
  <p class="updated_time"> 06:27 AM CT, Oct. 15 </p> 
  [As Italy Mandates Covid Passes, Rules Vary Across Europe](https://www.nytimes.com/2021/10/15/world/europe/covid-passes.html) NYT: Varying measures reflect domestic politics and potential opposition against such rules. 
  <p class="updated_time"> 06:10 AM CT, Oct. 15 </p> 
@@ -20,8 +26,6 @@ permalink: /charts/news/
  [Minnesota Hospital Struggle Under Weight of Latest Virus Surge](https://www.nytimes.com/2021/10/13/world/minnesota-hospitals-capacity-virus-surge.html) NYT: New daily cases have risen by 29 percent in the last two weeks and hospitalizations by 17 percent, according to a New York Times database. 
  <p class="updated_time"> 06:03 AM CT, Oct. 15 </p> 
  [Henrietta Lacks, Whose Cells Were Taken Without Her Consent, Is Honored by W.H.O.](https://www.nytimes.com/2021/10/13/science/henrietta-lacks-cells-who.html) NYT: In a ceremony in Geneva, the World Health Organization presented an award to the family of Ms. Lacks, whose cancer cells led to world-changing advances in medical and scientific research. 
- <p class="updated_time"> 06:03 AM CT, Oct. 15 </p> 
- [Afghanistan: Explosion strikes Afghan mosque during prayers](https://www.bbc.co.uk/news/world-asia-58925863?at_medium=RSS&at_campaign=KARANGA) BBC: At least 16 people are killed after a blast at a Shia mosque during Friday worship in Kandahar. 
  <p class="updated_time"> 05:49 AM CT, Oct. 15 </p> 
  [Scott Morrison: Australia PM to attend COP26 summit after global pressure](https://www.bbc.co.uk/news/world-australia-58907526?at_medium=RSS&at_campaign=KARANGA) BBC: Scott Morrison had said he might skip the summit, reigniting criticism of Australia's climate vows. 
  <p class="updated_time"> 05:40 AM CT, Oct. 15 </p> 
@@ -42,8 +46,6 @@ permalink: /charts/news/
  [South Korean Military Struggles to Root Out Sexual Assaults](https://www.nytimes.com/2021/10/15/world/asia/south-korea-military-sexual-assault-suicide.html) NYT: The death of a woman in South Korea’s air force has rekindled outrage over the country’s armed forces, long criticized for abusing and discriminating​ against women. 
  <p class="updated_time"> 03:39 AM CT, Oct. 15 </p> 
  [Man Whose Attack on Ex-Wife Was Livestreamed Gets Death Penalty in China](https://www.nytimes.com/2021/10/15/world/asia/china-livestream-killing-abuse.html) NYT: The case riveted the public’s attention in China and spotlighted the patchy enforcement of the country’s law against domestic violence. 
- <p class="updated_time"> 03:01 AM CT, Oct. 15 </p> 
- [Masten Wanjala: Kenyan child serial killer killed by mob](https://www.bbc.co.uk/news/world-africa-58923592?at_medium=RSS&at_campaign=KARANGA) BBC: Police had launched a massive manhunt for Masten Wanjala, who confessed to killing several children. 
  <p class="updated_time"> 02:25 AM CT, Oct. 15 </p> 
  [Afghan Mosque Hit by Deadly Suicide Bombing](https://www.wsj.com/articles/afghan-mosque-hit-by-deadly-suicide-bombing-11634297101) WSJ: A large blast at a Shiite mosque in southern Afghanistan killed more than a dozen worshipers, witnesses said, the latest in a spate of attacks since the withdrawal of U.S. troops. 
  <p class="updated_time"> 01:18 AM CT, Oct. 15 </p> 
@@ -178,8 +180,6 @@ permalink: /charts/news/
  [Iraq Says It Arrested a Leading Islamic State Figure](https://www.nytimes.com/2021/10/12/world/middleeast/isis-leader-captured-iraq.html) NYT: One of the most senior ISIS leaders ever to be taken alive is now reported to be in custody. The U.S. had offered a reward of up to $5 million for his capture. 
  <p class="updated_time"> 04:32 PM CT, Oct. 12 </p> 
  [Ethiopia Attacks Rebels in Tigray as Famine Threatens](https://www.nytimes.com/2021/10/12/world/africa/ethiopia-tigray-offensive.html) NYT: Western officials confirmed Tigrayan reports of an assault on several fronts. Aid workers said it will intensify a dire humanitarian crisis. 
- <p class="updated_time"> 02:36 PM CT, Oct. 12 </p> 
- [Britain’s Covid Missteps Cost Thousands of Lives, Inquiry Finds](https://www.nytimes.com/2021/10/12/world/europe/uk-covid-deaths-inquiry.html) NYT: Prime Minister Boris Johnson’s slowness last year to impose a lockdown and institute widespread testing had tragic results, according to a parliamentary report. 
  <p class="updated_time"> 05:01 AM CT, Oct. 11 </p> 
  [Climate change: Is the UK on track to meet its targets?](https://www.bbc.co.uk/news/58160547?at_medium=RSS&at_campaign=KARANGA) BBC: With weeks to go until the UK hosts a global climate summit, is the government on track to meet its own commitments? 
 
