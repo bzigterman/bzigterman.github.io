@@ -6,7 +6,9 @@ permalink: /charts/news/
 
 ## World News
 
- <p class="updated_time"> 04:11 PM CT, Oct. 15 </p> 
+ <p class="updated_time"> 04:28 PM CT, Oct. 15 </p> 
+ [Moderna and J.& J. Boosters: What Are the Next Steps? ](https://www.nytimes.com/2021/10/14/us/covid-booster-vaccines-fda.html) NYT: Further steps regarding the Moderna and J.&J. booster shots will be required at the F.D.A. and at the C.D.C., in a process that ends with the states. 
+ <p class="updated_time"> 04:24 PM CT, Oct. 15 </p> 
  [Blast at Afghan Mosque Kills Dozens as Shiites Are Targeted Again](https://www.nytimes.com/2021/10/15/world/asia/afghanistan-mosque-blast.html) NYT: It was the second week in a row that attackers had struck a Shiite place of worship during Friday Prayer. 
  <p class="updated_time"> 03:57 PM CT, Oct. 15 </p> 
  [Suspect Confesses in Bow-and-Arrow Rampage in Norway](https://www.nytimes.com/2021/10/15/world/europe/norway-murder-bow-arrow-terrorism.html) NYT: Espen Anderson Brathen has been charged with murder in the deaths of five people after the authorities say he went on a killing spree armed with a hunting bow. 
@@ -18,8 +20,8 @@ permalink: /charts/news/
  [Quebec Language Debate Spurs Eerie Sense of Déjà-Vu](https://www.nytimes.com/2021/10/15/world/canada/quebec-language-debate.html) NYT: For a Montreal-based Times correspondent, proposed language legislation brings back memories of the 1970s. 
  <p class="updated_time"> 03:13 PM CT, Oct. 15 </p> 
  [A Year Later, a Schoolteacher’s Beheading Still Haunts France](https://www.nytimes.com/2021/10/15/world/europe/france-samuel-paty-beheading.html) NYT: The killing of Samuel Paty by an 18-year-old Chechen refugee intensified debate over security and immigration, and prompted intense scrutiny of the French secular model. 
- <p class="updated_time"> 02:45 PM CT, Oct. 15 </p> 
- [Moderna and J.& J. Boosters: What Are the Next Steps? ](https://www.nytimes.com/2021/10/14/us/covid-booster-vaccines-fda.html) NYT: Further steps will be required at the F.D.A. and at the C.D.C., in a process that ends with the states. 
+ <p class="updated_time"> 02:54 PM CT, Oct. 15 </p> 
+ [Pandemic-stricken Thailand, aiming to revive tourism, reopens the cave a soccer team was trapped in.](https://www.nytimes.com/2021/10/15/world/thailand-lets-tourists-return-to-the-cave-where-a-soccer-team-was-rescued.html) NYT: NA 
  <p class="updated_time"> 02:42 PM CT, Oct. 15 </p> 
  [Virgin Galactic delays first commercial space flight](https://www.bbc.co.uk/news/business-58930280?at_medium=RSS&at_campaign=KARANGA) BBC: Shares in the firm dive 20% as it delays first tourist flight to make upgrades. 
  <p class="updated_time"> 01:58 PM CT, Oct. 15 </p> 
@@ -28,6 +30,8 @@ permalink: /charts/news/
  [Italy's New Law Requires Workers to Get Covid Vaccine or Testing](https://www.nytimes.com/2021/10/15/world/europe/italy-vaccination-law-covid.html) NYT: The rollout went more or less smoothly, with only scattered protests, as the majority of citizens accepted the ‘Green Pass’ as a tolerable sacrifice to stem the Covid pandemic. 
  <p class="updated_time"> 12:36 PM CT, Oct. 15 </p> 
  [Lebanon Observes Day of Mourning After Deadly Sectarian Clashes](https://www.nytimes.com/2021/10/15/world/middleeast/lebanon-beirut-violence-explosion.html) NYT: The death toll rose to seven a day after gun battles between Christian and Shiite Muslim militias erupted amid tensions over an investigation into the port explosion last year. 
+ <p class="updated_time"> 12:15 PM CT, Oct. 15 </p> 
+ [Australian residents stranded overseas will be allowed to return to New South Wales.](https://www.nytimes.com/2021/10/15/world/australia/australian-residents-stranded-overseas-will-be-allowed-to-return-to-new-south-wales.html) NYT: NA 
  <p class="updated_time"> 12:06 PM CT, Oct. 15 </p> 
  [Covid: US to lift travel ban for fully jabbed on 8 November](https://www.bbc.co.uk/news/world-us-canada-58929441?at_medium=RSS&at_campaign=KARANGA) BBC: Fully vaccinated travellers will be allowed to enter the US for the first time since March 2020. 
  <p class="updated_time"> 11:59 AM CT, Oct. 15 </p> 
@@ -144,8 +148,6 @@ permalink: /charts/news/
  [Why China's climate policy matters to us all](https://www.bbc.co.uk/news/world-asia-china-57483492?at_medium=RSS&at_campaign=KARANGA) BBC: The global battle against climate change is likely to be won or lost in China. 
  <p class="updated_time"> 11:22 AM CT, Oct. 14 </p> 
  [Norway attack: Witness describes hearing 'thunk sound' of weapon](https://www.bbc.co.uk/news/world-europe-58910059?at_medium=RSS&at_campaign=KARANGA) BBC: Residents in Kongsberg react to the bow and arrow attack in their neighbourhood. 
- <p class="updated_time"> 10:56 AM CT, Oct. 14 </p> 
- [Squid Game Ahead? No, Just Directions, British Police Explain](https://www.nytimes.com/2021/10/13/world/europe/squid-game-road-sign.html) NYT: The police in England clarified that a highway sign featuring symbols that also appear on the hit Netflix series merely indicated a detour. 
  <p class="updated_time"> 10:39 AM CT, Oct. 14 </p> 
  [Meteorite Crashes Through Ceiling and Lands on Woman’s Bed](https://www.nytimes.com/2021/10/14/world/canada/meteorite-bed.html) NYT: After a fireball streaked through the Canadian sky, Ruth Hamilton, of British Columbia, found a 2.8-pound rock the size of a large man’s fist near her pillow. 
  <p class="updated_time"> 09:31 AM CT, Oct. 14 </p> 
