@@ -6,14 +6,18 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 10:04 AM CT, Oct. 15 </p> 
+ [Covid: US to lift travel ban for fully jabbed on 8 November](https://www.bbc.co.uk/news/world-us-canada-58929441?at_medium=RSS&at_campaign=KARANGA) BBC: Fully vaccinated travellers will be allowed to enter the US for the first time since March 2020. 
+ <p class="updated_time"> 10:04 AM CT, Oct. 15 </p> 
+ [Blast at Afghan Mosque Kills at Least 37 as Shiites Are Targeted Again](https://www.nytimes.com/2021/10/15/world/asia/afghanistan-mosque-blast.html) NYT: It was the second week in a row that attackers had struck a Shiite place of worship during Friday Prayer. 
+ <p class="updated_time"> 10:02 AM CT, Oct. 15 </p> 
+ [Live Updates: Italy’s Covid Vaccine Mandate Comes Into Force, a First for a Western Democracy](https://www.nytimes.com/live/2021/10/15/world/italy-covid-green-pass) NYT: All workers across public and private sectors are now required to be vaccinated or take frequent coronavirus tests. Opponents tried to rally the masses to protest, but most Italians appeared to accept the move as a necessity. 
+ <p class="updated_time"> 09:54 AM CT, Oct. 15 </p> 
+ [Bangladesh Strengthens Security as Violence Targets Hindu Festival](https://www.nytimes.com/2021/10/15/world/asia/15bangladesh-muslim-hindu-violence.html) NYT: Paramilitary forces were deployed across much of the country after the worst communal violence in years targeted dozens of Hindu gatherings. 
  <p class="updated_time"> 09:48 AM CT, Oct. 15 </p> 
  [Suspect Confesses in Bow-and-Arrow Rampage in Norway](https://www.nytimes.com/2021/10/15/world/europe/norway-murder-bow-arrow-terrorism.html) NYT: Espen Anderson Brathen has been charged with murder in the deaths of five people after the authorities say he went on a killing spree armed with a hunting bow. 
  <p class="updated_time"> 09:47 AM CT, Oct. 15 </p> 
- [Live Updates: Italy’s Covid Vaccine Mandate Comes Into Force, a First for a Western Democracy](https://www.nytimes.com/live/2021/10/15/world/italy-covid-green-pass) NYT: All workers across public and private sectors are now required to be vaccinated or take frequent coronavirus tests. Opponents tried to rally the masses to protest, but most Italians appeared to accept the move as a necessity. 
- <p class="updated_time"> 09:47 AM CT, Oct. 15 </p> 
  [Protests Over Italy's Covid 'Green Pass' Draw Only Scattered Crowds](https://www.nytimes.com/2021/10/15/world/europe/covid-italy-green-pass-protests.html) NYT: While there were scattered protests across Italy on Friday, many in the country appeared to accept the measure as necessary. 
- <p class="updated_time"> 09:41 AM CT, Oct. 15 </p> 
- [Blast at Afghan Mosque Kills at Least 37 as Shiites Are Targeted Again](https://www.nytimes.com/2021/10/15/world/asia/afghanistan-mosque-blast.html) NYT: The explosion in Kandahar was the second week in a row that attackers had struck a Shiite place of worship during Friday Prayer. 
  <p class="updated_time"> 09:38 AM CT, Oct. 15 </p> 
  [Norway Bow-and-Arrow Rampage Treated as Apparent Terrorism Attack](https://www.nytimes.com/2021/10/14/world/europe/norway-bow-and-arrow-attack.html) NYT: The police said that they had previously contacted the suspect, a 37-year-old Danish citizen who is believed to have killed five people, over concerns that he had been radicalized. 
  <p class="updated_time"> 09:37 AM CT, Oct. 15 </p> 
@@ -28,8 +32,6 @@ permalink: /charts/news/
  [Bill Clinton: Former US president in hospital for 'non-Covid infection'](https://www.bbc.co.uk/news/world-us-canada-58921615?at_medium=RSS&at_campaign=KARANGA) BBC: The former US president is said to be "on the mend" and "in good spirits" in hospital in California. 
  <p class="updated_time"> 09:05 AM CT, Oct. 15 </p> 
  [Afghanistan: Suicide attack hits Kandahar mosque during prayers](https://www.bbc.co.uk/news/world-asia-58925863?at_medium=RSS&at_campaign=KARANGA) BBC: Explosions at a Shia mosque in Kandahar kill more than 30 people during Friday worship. 
- <p class="updated_time"> 08:51 AM CT, Oct. 15 </p> 
- [Covid: US to lift travel ban for fully jabbed on 8 November](https://www.bbc.co.uk/news/world-us-canada-58929441?at_medium=RSS&at_campaign=KARANGA) BBC: Fully vaccinated travellers will be allowed to enter the US for the first time since March 2020. 
  <p class="updated_time"> 08:37 AM CT, Oct. 15 </p> 
  [Covid: Wave of Italian protests against mandatory work pass](https://www.bbc.co.uk/news/world-europe-58913865?at_medium=RSS&at_campaign=KARANGA) BBC: Thousands gather outside major ports, angry that the "Green Pass" is now mandatory for all workers. 
  <p class="updated_time"> 08:37 AM CT, Oct. 15 </p> 
@@ -49,8 +51,6 @@ permalink: /charts/news/
  <p class="updated_time"> 07:57 AM CT, Oct. 15 </p> 
  [Queensland, Australia: Motorcycle thief flees crime scene on tractor](https://www.bbc.co.uk/news/world-australia-58926803?at_medium=RSS&at_campaign=KARANGA) BBC: Police officers chased the suspect through the streets in Queensland, Australia. 
  <p class="updated_time"> 07:49 AM CT, Oct. 15 </p> 
- [E.U. Pledges $1.15 Billion in Afghan Aid as U.S. Talks to Taliban](https://www.nytimes.com/2021/10/12/us/politics/afghan-aid-european-union-biden.html) NYT: Europe and America are offering stopgap humanitarian aid for a country on the brink of collapse, but larger decisions about the new Taliban government remain on hold. 
- <p class="updated_time"> 07:49 AM CT, Oct. 15 </p> 
  [Two More Guantánamo Detainees Are Approved for Release](https://www.nytimes.com/2021/10/13/us/politics/guantanamo-detainees-transfer.html) NYT: A board has now backed the release of 12 out of the 39 men remaining at the prison, but U.S. diplomats must first reach security agreements with destination countries. 
  <p class="updated_time"> 07:42 AM CT, Oct. 15 </p> 
  [Taiwan’s ‘Ghost Building’ Fire: a Death Trap for Dozens of Elderly](https://www.nytimes.com/2021/10/15/world/asia/taiwan-building-fire.html) NYT: “I had no choice but to live here,” said one resident who survived a blaze that killed 46 of her neighbors and raised questions about lax safety standards. 
@@ -68,12 +68,12 @@ permalink: /charts/news/
  [Minnesota Hospital Struggle Under Weight of Latest Virus Surge](https://www.nytimes.com/2021/10/13/world/minnesota-hospitals-capacity-virus-surge.html) NYT: New daily cases have risen by 29 percent in the last two weeks and hospitalizations by 17 percent, according to a New York Times database. 
  <p class="updated_time"> 06:03 AM CT, Oct. 15 </p> 
  [Henrietta Lacks, Whose Cells Were Taken Without Her Consent, Is Honored by W.H.O.](https://www.nytimes.com/2021/10/13/science/henrietta-lacks-cells-who.html) NYT: In a ceremony in Geneva, the World Health Organization presented an award to the family of Ms. Lacks, whose cancer cells led to world-changing advances in medical and scientific research. 
+ <p class="updated_time"> 05:52 AM CT, Oct. 15 </p> 
+ [British Lawmaker Is Fatally Stabbed Outside London](https://www.wsj.com/articles/british-lawmaker-david-amess-stabbed-and-killed-outside-london-11634307474) WSJ: An attacker stabbed and killed Conservative lawmaker David Amess, who was attending a meeting with people in his district. Police said a man had been arrested. 
  <p class="updated_time"> 05:49 AM CT, Oct. 15 </p> 
  [Scott Morrison: Australia PM to attend COP26 summit after global pressure](https://www.bbc.co.uk/news/world-australia-58907526?at_medium=RSS&at_campaign=KARANGA) BBC: Scott Morrison had said he might skip the summit, reigniting criticism of Australia's climate vows. 
  <p class="updated_time"> 05:40 AM CT, Oct. 15 </p> 
  [Kongsberg attack: Norwegian town left asking questions after murders](https://www.bbc.co.uk/news/world-europe-58923879?at_medium=RSS&at_campaign=KARANGA) BBC: The innocence of a quiet town outside Oslo is shattered and residents are demanding answers. 
- <p class="updated_time"> 05:36 AM CT, Oct. 15 </p> 
- [British Lawmaker Is Fatally Stabbed Outside London](https://www.wsj.com/articles/british-lawmaker-david-amess-stabbed-and-killed-outside-london-11634307474) WSJ: An attacker stabbed and killed a British Conservative lawmaker who was attending a meeting with people in his district in Essex with constituents. 
  <p class="updated_time"> 05:18 AM CT, Oct. 15 </p> 
  [Booster Confusion](https://www.nytimes.com/2021/10/15/briefing/johnson-and-johnson-booster-fda.html) NYT: When an F.D.A. panel meets today about J. & J. booster shots, there will be an elephant in the room. 
  <p class="updated_time"> 05:07 AM CT, Oct. 15 </p> 
