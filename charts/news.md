@@ -6,6 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 05:45 PM CT, Oct. 15 </p> 
+ [Nike Jordan boss reveals he murdered an 18-year-old in 1965](https://www.bbc.co.uk/news/world-us-canada-58931528?at_medium=RSS&at_campaign=KARANGA) BBC: Larry Miller, now 72, said he was in a gang as a teenager when he shot an 18-year-old man. 
  <p class="updated_time"> 05:39 PM CT, Oct. 15 </p> 
  [David Amess, Conservative Lawmaker in U.K., Is Reported Stabbed to Death](https://www.nytimes.com/2021/10/15/world/europe/conservative-mp-david-amess-stabbing.html) NYT: David Amess, a Conservative member of Parliament, was holding a meeting in his constituency at the time. He is the second politician killed in an attack in just over five years. 
  <p class="updated_time"> 05:00 PM CT, Oct. 15 </p> 
@@ -40,8 +42,6 @@ permalink: /charts/news/
  [China Launches First Woman With New Crew to Space Station](https://www.nytimes.com/article/china-mars-space.html) NYT: China has launched a second crew to the country’s new orbiting space station. The mission is one of many challenging U.S. dominance of space exploration. 
  <p class="updated_time"> 11:40 AM CT, Oct. 15 </p> 
  [Kongsberg attack: Norway probes bow and arrow suspect’s sanity](https://www.bbc.co.uk/news/world-europe-58924466?at_medium=RSS&at_campaign=KARANGA) BBC: Psychiatrists examine a man suspected of killing five people with a bow and arrows in Norway. 
- <p class="updated_time"> 11:26 AM CT, Oct. 15 </p> 
- [Nike Jordan boss reveals he murdered an 18-year-old in 1965](https://www.bbc.co.uk/news/world-us-canada-58931528?at_medium=RSS&at_campaign=KARANGA) BBC: Larry Miller, now 72, said he was in a gang as a teenager when he shot an 18-year-old man. 
  <p class="updated_time"> 11:14 AM CT, Oct. 15 </p> 
  [How the Nobel Peace Prize Laid Bare the Schism in Russia’s Opposition](https://www.nytimes.com/2021/10/15/world/europe/russia-dissent-muratov-navalny-nobel.html) NYT: Dmitri A. Muratov, a new laureate, engages with the Kremlin, while Aleksei A. Navalny, the most high-profile Putin critic, resists all compromise. The Kremlin capitalizes on the fault line. 
  <p class="updated_time"> 11:10 AM CT, Oct. 15 </p> 
