@@ -6,8 +6,12 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 08:40 AM CT, Oct. 15 </p> 
+ [Afghanistan: Suicide attack hits Kandahar mosque during prayers](https://www.bbc.co.uk/news/world-asia-58925863?at_medium=RSS&at_campaign=KARANGA) BBC: Explosions at a Shia mosque in Kandahar kill more than 30 people during Friday worship. 
  <p class="updated_time"> 08:38 AM CT, Oct. 15 </p> 
  [Live Updates: Italy’s Covid Vaccine Mandate Comes Into Force, a First for a Western Democracy](https://www.nytimes.com/live/2021/10/15/world/italy-covid-green-pass) NYT: All workers across public and private sectors are now required to be vaccinated or take frequent coronavirus tests. While many accepted the move as a necessity, it was greeted by protests in some parts of the country. 
+ <p class="updated_time"> 08:37 AM CT, Oct. 15 </p> 
+ [Covid: Wave of Italian protests against mandatory work pass](https://www.bbc.co.uk/news/world-europe-58913865?at_medium=RSS&at_campaign=KARANGA) BBC: Thousands gather outside major ports, angry that the "Green Pass" is now mandatory for all workers. 
  <p class="updated_time"> 08:37 AM CT, Oct. 15 </p> 
  [David Amess, Conservative Lawmaker in Britain, Is Reportedly Stabbed](https://www.nytimes.com/2021/10/15/world/europe/conservative-mp-david-amess-stabbing.html) NYT: The member of Parliament, David Amess, was holding a meeting in his local constituency at the time of the attack. 
  <p class="updated_time"> 08:27 AM CT, Oct. 15 </p> 
@@ -32,8 +36,6 @@ permalink: /charts/news/
  [Taiwan’s ‘Ghost Building’ Fire: a Death Trap for Dozens of Elderly](https://www.nytimes.com/2021/10/15/world/asia/taiwan-building-fire.html) NYT: “I had no choice but to live here,” said one resident who survived a blaze that killed 46 of her neighbors and raised questions about lax safety standards. 
  <p class="updated_time"> 07:39 AM CT, Oct. 15 </p> 
  [Newly Discovered Bat Viruses Give Hints to Covid’s Origins](https://www.nytimes.com/2021/10/14/science/bat-coronaviruses-lab-leak.html) NYT: Coronaviruses discovered in Laotian bats are surprisingly adept at infecting human cells, showing that such deadly features can indeed evolve outside of a lab. 
- <p class="updated_time"> 07:37 AM CT, Oct. 15 </p> 
- [Afghanistan: Suicide attack hits Kandahar mosque during prayers](https://www.bbc.co.uk/news/world-asia-58925863?at_medium=RSS&at_campaign=KARANGA) BBC: Three blasts at a Shia mosque in Kandahar kill at least 37 people during Friday worship. 
  <p class="updated_time"> 07:19 AM CT, Oct. 15 </p> 
  [Blast at Afghan Mosque Kills 37 as Shiites Are Targeted Again](https://www.nytimes.com/2021/10/15/world/asia/afghanistan-mosque-blast.html) NYT: The explosion in Kandahar marked the second week in a row that attackers had struck a Shiite place of worship during Friday Prayer. 
  <p class="updated_time"> 07:09 AM CT, Oct. 15 </p> 
@@ -58,8 +60,6 @@ permalink: /charts/news/
  [Booster Confusion](https://www.nytimes.com/2021/10/15/briefing/johnson-and-johnson-booster-fda.html) NYT: When an F.D.A. panel meets today about J. & J. booster shots, there will be an elephant in the room. 
  <p class="updated_time"> 05:07 AM CT, Oct. 15 </p> 
  [Christchurch: New Zealand city parts ways with its wizard](https://www.bbc.co.uk/news/world-asia-58924306?at_medium=RSS&at_campaign=KARANGA) BBC: Christchurch was the only city in the world with its own official wizard. 
- <p class="updated_time"> 04:44 AM CT, Oct. 15 </p> 
- [Covid: Italy port workers strike over Covid pass rules](https://www.bbc.co.uk/news/world-europe-58913865?at_medium=RSS&at_campaign=KARANGA) BBC: About 2,000 workers are outside Trieste port, angry that the widely used pass is now mandatory. 
  <p class="updated_time"> 04:03 AM CT, Oct. 15 </p> 
  [Kongsberg attack: Norway probes bow and arrow suspect’s sanity](https://www.bbc.co.uk/news/world-europe-58924466?at_medium=RSS&at_campaign=KARANGA) BBC: Psychiatrists examine a man suspected of killing five people with a bow and arrows in Norway. 
  <p class="updated_time"> 04:02 AM CT, Oct. 15 </p> 
