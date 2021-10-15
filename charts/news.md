@@ -6,6 +6,14 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 07:05 PM CT, Oct. 14 </p> 
+ [South Korea will donate 1.6 million vaccine doses to Vietnam and Thailand.](https://www.nytimes.com/2021/10/14/world/south-korea-will-donate-1-6-million-vaccine-doses-to-vietnam-and-thailand.html) NYT: NA 
+ <p class="updated_time"> 07:00 PM CT, Oct. 14 </p> 
+ [Faulty Studs Led to Mexico City Metro Collapse, Attorney General Says](https://www.nytimes.com/2021/10/14/world/americas/mexico-city-metro-collapse.html) NYT: A monthslong investigation by city authorities supports the central findings of a New York Times investigation, which had uncovered a series of fatal construction flaws. 
+ <p class="updated_time"> 06:57 PM CT, Oct. 14 </p> 
+ [South Sudan: How to deliver Covid vaccines in a country with few roads](https://www.bbc.co.uk/news/world-africa-58911911?at_medium=RSS&at_campaign=KARANGA) BBC: Delivering vaccines around South Sudan is more expensive than the cost of the jab itself. 
+ <p class="updated_time"> 06:48 PM CT, Oct. 14 </p> 
+ [Produce Pandas: The plus-size musicians making waves in China](https://www.bbc.co.uk/news/world-asia-china-58495677?at_medium=RSS&at_campaign=KARANGA) BBC: As stars are criticised for being image-obsessed, more relatable celebrities have become popular. 
  <p class="updated_time"> 06:10 PM CT, Oct. 14 </p> 
  ['They will hang me': Afghan interpreters blocked by UK seek appeal](https://www.bbc.co.uk/news/world-asia-58830736?at_medium=RSS&at_campaign=KARANGA) BBC: Former interpreters fear for their lives after the UK blocks their evacuation on security grounds. 
  <p class="updated_time"> 05:35 PM CT, Oct. 14 </p> 
@@ -62,6 +70,10 @@ permalink: /charts/news/
  [Mexico City Replaces a Statue of Columbus With One of an Indigenous Woman](https://www.nytimes.com/2021/10/14/world/americas/mexico-columbus-statue-indigenous.html) NYT: The replacement of a figure seen as a monument to colonialism touched a nerve as the country debates how it is shaped by race and sex. 
  <p class="updated_time"> 11:47 AM CT, Oct. 14 </p> 
  [Why China's climate policy matters to us all](https://www.bbc.co.uk/news/world-asia-china-57483492?at_medium=RSS&at_campaign=KARANGA) BBC: The global battle against climate change is likely to be won or lost in China. 
+ <p class="updated_time"> 11:42 AM CT, Oct. 14 </p> 
+ [U.S., European Nations Claim Progress on Path to Removing Digital Taxes](https://www.wsj.com/articles/u-s-european-nations-claim-progress-on-path-to-removing-digital-taxes-11634244167) WSJ: The U.S. and five European countries have reached an agreement on how those countries’ digital-service taxes would be withdrawn as a broader global tax agreement moves forward, French Finance Minister Bruno Le Maire said. 
+ <p class="updated_time"> 11:40 AM CT, Oct. 14 </p> 
+ [IMF Seeks to Allay Doubts Following Data-Rigging Scandal](https://www.wsj.com/articles/imf-seeks-to-allay-doubts-following-data-rigging-scandal-move-forward-with-new-agenda-11634244047) WSJ: The International Monetary Fund is working to regain its footing in international financial markets while it works to balance the competing interests of its two main backers, the U.S. and China. 
  <p class="updated_time"> 11:34 AM CT, Oct. 14 </p> 
  [Newly Discovered Bat Viruses Give Hints to Covid’s Origins](https://www.nytimes.com/2021/10/14/science/bat-coronaviruses-lab-leak.html) NYT: Coronaviruses discovered in Laotian bats are surprisingly adept at infecting human cells, showing that such deadly features can indeed evolve outside of a lab. 
  <p class="updated_time"> 11:22 AM CT, Oct. 14 </p> 
@@ -78,8 +90,6 @@ permalink: /charts/news/
  [Afghanistan: Pakistan airline stops flights citing Taliban intimidation](https://www.bbc.co.uk/news/world-asia-58913855?at_medium=RSS&at_campaign=KARANGA) BBC: Pakistan International Airlines complains of "heavy-handedness" by the Taliban authorities. 
  <p class="updated_time"> 09:43 AM CT, Oct. 14 </p> 
  [U.S. to Open Canada and Mexico Borders for Vaccinated Travelers](https://www.nytimes.com/2021/10/12/us/politics/us-canada-mexico-borders-open.html) NYT: Opening the borders with Mexico and Canada, where crossing for nonessential travel has been barred for 19 months, will reconnect neighbors and provide a reprieve for businesses. 
- <p class="updated_time"> 09:32 AM CT, Oct. 14 </p> 
- [Norway Bow-and-Arrow Attack Investigated as Terrorism](https://www.wsj.com/articles/norway-bow-and-arrow-suspect-had-been-reported-for-radicalization-11634206917) WSJ: A Danish convert to Islam who was suspected of having been radicalized was charged with killing five people and injuring two in a bow-and-arrow attack in Norway, with authorities investigating it as terrorism. 
  <p class="updated_time"> 09:31 AM CT, Oct. 14 </p> 
  [British Museums Face Covid’s Long-Term Effects](https://www.nytimes.com/2021/10/14/arts/design/british-museums-recovery.html) NYT: Months of closures during the pandemic have caused financial havoc for art venues, and many expect to be strapped for years. At the Victoria and Albert Museum in London, the virus’s impact is clear. 
  <p class="updated_time"> 09:05 AM CT, Oct. 14 </p> 
@@ -100,12 +110,8 @@ permalink: /charts/news/
  [North Korean Soldiers Lie Shirtless on Broken Glass](https://www.nytimes.com/2021/10/14/world/asia/north-korea-propaganda-military-broken-glass.html) NYT: The country has never been known for its subtlety, and martial-art stunts have long been a mainstay of its  propaganda, designed to stoke national pride and instill fear in enemies. 
  <p class="updated_time"> 05:00 AM CT, Oct. 14 </p> 
  [Kaohsiung: Firefighters battle Taiwan tower block blaze](https://www.bbc.co.uk/news/world-asia-58909907?at_medium=RSS&at_campaign=KARANGA) BBC: At least 46 people have been killed in a fire at a tower block in the city of Kaohsiung, southern Taiwan. 
- <p class="updated_time"> 04:19 AM CT, Oct. 14 </p> 
- [Taiwan Fire in Aging Building Kills More Than 40](https://www.wsj.com/articles/taiwan-fire-in-aging-building-kills-more-than-40-11634217587) WSJ: At least 46 people were killed and more than 40 others injured after fire engulfed a partially abandoned 13-story mixed-use building in southern Taiwan, according to local authorities. 
  <p class="updated_time"> 04:08 AM CT, Oct. 14 </p> 
  [Kyrie Irving Defends Decision on Vaccine After Being Benched](https://www.nytimes.com/2021/10/13/world/kyrie-irving-vaccine-benched-nets.html) NYT: The N.B.A. star, who is set to make $40 million this year, said he opposes vaccine mandates, saying nobody should be “forced” to do it. 
- <p class="updated_time"> 02:02 AM CT, Oct. 14 </p> 
- [Turkey's Erdogan Fires Central Bank Officials, Fueling Economic Uncertainty](https://www.wsj.com/articles/turkeys-erdogan-fires-central-bank-officials-fueling-economic-uncertainty-11634209321) WSJ: The lira fell to record lows after the president’s latest intervention at the bank, which comes as the Turkish public struggles with devalued wages and a rising cost of basic goods like food. 
  <p class="updated_time"> 01:14 AM CT, Oct. 14 </p> 
  [What Is the Northern Ireland Protocol?](https://www.nytimes.com/article/uk-northern-ireland-protocol-eu.html) NYT: Britain is demanding an end to post-Brexit rules known as the Northern Ireland protocol. The European Union sees the rules as a key part of protecting its single market. 
  <p class="updated_time"> 10:46 PM CT, Oct. 13 </p> 
@@ -124,8 +130,6 @@ permalink: /charts/news/
  [Climate change in India: Teen inventor's solar-powered ironing cart](https://www.bbc.co.uk/news/science-environment-58889532?at_medium=RSS&at_campaign=KARANGA) BBC: India's ironing vendors use charcoal as fuel, but Vinisha Umashankar's cart harnesses the Sun's energy. 
  <p class="updated_time"> 05:36 PM CT, Oct. 13 </p> 
  [Afghanistan: The New York rabbi evacuating desperate Afghans](https://www.bbc.co.uk/news/world-us-canada-58729508?at_medium=RSS&at_campaign=KARANGA) BBC: Rabbi Moshe Margaretten says he gets calls in the middle of the night from people in Afghanistan asking for help. 
- <p class="updated_time"> 05:17 PM CT, Oct. 13 </p> 
- [Violence surges in Pakistan's tribal belt as Taliban, IS-K go on attack](https://www.bbc.co.uk/news/world-asia-58891613?at_medium=RSS&at_campaign=KARANGA) BBC: The BBC reports from Pakistan's beleaguered tribal areas, which are seeing a surge in violence. 
  <p class="updated_time"> 04:27 PM CT, Oct. 13 </p> 
  [Two More Guantánamo Detainees Are Approved for Release](https://www.nytimes.com/2021/10/13/us/politics/guantanamo-detainees-transfer.html) NYT: A board has now backed the release of 12 out of the 39 men remaining at the prison, but U.S. diplomats must first reach security agreements with destination countries. 
  <p class="updated_time"> 04:23 PM CT, Oct. 13 </p> 
@@ -158,8 +162,6 @@ permalink: /charts/news/
  [Your Wednesday Briefing](https://www.nytimes.com/2021/10/12/briefing/china-housing-evergrande-flooding-india-law.html) NYT: China’s home buyers are frustrated. 
  <p class="updated_time"> 11:10 PM CT, Oct. 12 </p> 
  [Your Wednesday Briefing](https://www.nytimes.com/2021/10/13/briefing/britain-coronavirus-economic-recovery.html) NYT: A damning report on Britain’s virus response. 
- <p class="updated_time"> 09:25 PM CT, Oct. 12 </p> 
- [As Floods Ravage China, 14 Die After Bus Falls Off Bridge](https://www.nytimes.com/2021/10/12/world/asia/china-bus-flooding-dead.html) NYT: The casualties come amid violent inundations in the country that have left a total of at least 29 people dead and displaced more than 120,000 across northern areas. 
  <p class="updated_time"> 07:29 PM CT, Oct. 12 </p> 
  [E.U. Pledges $1.15 Billion in Afghan Aid as U.S. Talks to Taliban](https://www.nytimes.com/2021/10/12/us/politics/afghan-aid-european-union-biden.html) NYT: Europe and America are offering stopgap humanitarian aid for a country on the brink of collapse, but larger decisions about the new Taliban government remain on hold. 
  <p class="updated_time"> 07:07 PM CT, Oct. 12 </p> 
@@ -176,8 +178,6 @@ permalink: /charts/news/
  [Britain’s Covid Missteps Cost Thousands of Lives, Inquiry Finds](https://www.nytimes.com/2021/10/12/world/europe/uk-covid-deaths-inquiry.html) NYT: Prime Minister Boris Johnson’s slowness last year to impose a lockdown and institute widespread testing had tragic results, according to a parliamentary report. 
  <p class="updated_time"> 10:48 AM CT, Oct. 12 </p> 
  [Sally Rooney Declines to Sell Translation Rights to Israeli Publisher](https://www.nytimes.com/2021/10/12/books/sally-rooney-israel-translation.html) NYT: The author of “Beautiful World, Where Are You” turned down an offer from an Israeli publisher to translate the novel to Hebrew, citing her support for Palestinians “in their struggle for freedom, justice and equality.” 
- <p class="updated_time"> 09:57 AM CT, Oct. 12 </p> 
- [Narendra Modi's Use of Antiterror Law Draws Scrutiny From Courts](https://www.nytimes.com/2021/10/12/world/asia/modi-india-antiterror-law.html) NYT: India’s government under Prime Minister Narendra Modi has jailed thousands of people through a statute that critics say is aimed at silencing dissent. 
  <p class="updated_time"> 09:55 AM CT, Oct. 12 </p> 
  [One Woman Won a Nobel This Year. Quotas Aren’t the Answer, an Official Says.](https://www.nytimes.com/2021/10/12/world/nobel-prize-woman-gender-ethnicity.html) NYT: Only one of the 13 laureates this year was a woman, but the head of the Royal Swedish Academy of Sciences dismissed the idea of guaranteeing representation. 
  <p class="updated_time"> 05:01 AM CT, Oct. 11 </p> 
