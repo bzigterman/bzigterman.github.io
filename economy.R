@@ -718,9 +718,9 @@ permalink: /charts/economy/
 
 ![Population]({{ site.baseurl }}/plots/champaign_population.png)
 
-",better_cu_housing_table_html,"
-
 ![Housing]({{ site.baseurl }}/plots/champaign_housing.png)
+
+",better_cu_housing_table_html,"
 
 ## United States
 
