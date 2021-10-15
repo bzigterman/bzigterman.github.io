@@ -6,12 +6,12 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 03:01 AM CT, Oct. 15 </p> 
+ [Masten Wanjala: Kenyan child serial killer killed by mob](https://www.bbc.co.uk/news/world-africa-58923592?at_medium=RSS&at_campaign=KARANGA) BBC: Police had launched a massive manhunt for Masten Wanjala, who confessed to killing several children. 
  <p class="updated_time"> 02:42 AM CT, Oct. 15 </p> 
  [Man Whose Attack on Ex-Wife Was Livestreamed Gets Death Penalty in China](https://www.nytimes.com/2021/10/15/world/asia/china-livestream-killing-abuse.html) NYT: The case riveted the public’s attention in China and spotlighted the patchy enforcement of the country’s law against domestic violence. 
  <p class="updated_time"> 02:39 AM CT, Oct. 15 </p> 
  [A Last-Chance ‘Ghost’ Building in Taiwan Becomes a Deathtrap for Many](https://www.nytimes.com/2021/10/15/world/asia/taiwan-building-fire.html) NYT: “I had no choice but to live here,” said one resident who survived a blaze that killed 46 of her neighbors and raised questions about lax safety standards. 
- <p class="updated_time"> 02:29 AM CT, Oct. 15 </p> 
- [Masten Wanjala: Kenyan child serial killer killed by mob](https://www.bbc.co.uk/news/world-africa-58923592?at_medium=RSS&at_campaign=KARANGA) BBC: Police had launched a massive manhunt for Masten Wanjala, who confessed to killing several children. 
  <p class="updated_time"> 02:03 AM CT, Oct. 15 </p> 
  [Covid: Strike fears as Italy's workers require Covid pass](https://www.bbc.co.uk/news/world-europe-58913865?at_medium=RSS&at_campaign=KARANGA) BBC: The pass is already used widely, but port and transport workers are angry it is now mandatory. 
  <p class="updated_time"> 01:40 AM CT, Oct. 15 </p> 
