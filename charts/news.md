@@ -6,14 +6,16 @@ permalink: /charts/news/
 
 ## World News
 
- <p class="updated_time"> 08:18 AM CT, Oct. 15 </p> 
+ <p class="updated_time"> 08:38 AM CT, Oct. 15 </p> 
  [Live Updates: Italy’s Covid Vaccine Mandate Comes Into Force, a First for a Western Democracy](https://www.nytimes.com/live/2021/10/15/world/italy-covid-green-pass) NYT: All workers across public and private sectors are now required to be vaccinated or take frequent coronavirus tests. While many accepted the move as a necessity, it was greeted by protests in some parts of the country. 
+ <p class="updated_time"> 08:37 AM CT, Oct. 15 </p> 
+ [David Amess, Conservative Lawmaker in Britain, Is Reportedly Stabbed](https://www.nytimes.com/2021/10/15/world/europe/conservative-mp-david-amess-stabbing.html) NYT: The member of Parliament, David Amess, was holding a meeting in his local constituency at the time of the attack. 
+ <p class="updated_time"> 08:27 AM CT, Oct. 15 </p> 
+ [Covid: US to lift travel ban for fully jabbed on 8 November](https://www.bbc.co.uk/news/world-us-canada-58929441?at_medium=RSS&at_campaign=KARANGA) BBC: Fully vaccinated travellers will be allowed to enter the US for the first time since March 2020. 
  <p class="updated_time"> 08:14 AM CT, Oct. 15 </p> 
  [Leader of West African Terrorist Group Is Dead, Nigerian Army Says](https://www.nytimes.com/2021/10/15/world/africa/nigeria-islamic-state-abu-musab-al-barnawi-dead.html) NYT: A top military commander said that Abu Musab al-Barnawi, head of an extremist organization known as the Islamic State West Africa Province, had died. 
  <p class="updated_time"> 08:09 AM CT, Oct. 15 </p> 
  [Masten Wanjala: Mob beats Kenyan child serial killer to death - police](https://www.bbc.co.uk/news/world-africa-58923592?at_medium=RSS&at_campaign=KARANGA) BBC: Police had launched a massive manhunt for Masten Wanjala, who confessed to killing several children. 
- <p class="updated_time"> 08:08 AM CT, Oct. 15 </p> 
- [David Amess, Conservative Lawmaker in Britain, Is Reportedly Stabbed](https://www.nytimes.com/2021/10/15/world/europe/conservative-mp-david-amess-stabbing.html) NYT: The member of Parliament, David Amess, was holding a meeting in his local constituency at the time of the attack. 
  <p class="updated_time"> 08:07 AM CT, Oct. 15 </p> 
  [Deadly Clashes in Beirut Escalate Fears Over Lebanon’s Dysfunction](https://www.nytimes.com/2021/10/14/world/middleeast/beirut-lebanon.html) NYT: The fighting further traumatized the small Mediterranean country, a patchwork of sects that has tumbled into an abyss of devastating political and economic crises. 
  <p class="updated_time"> 08:06 AM CT, Oct. 15 </p> 
@@ -70,8 +72,6 @@ permalink: /charts/news/
  [Man Whose Attack on Ex-Wife Was Livestreamed Gets Death Penalty in China](https://www.nytimes.com/2021/10/15/world/asia/china-livestream-killing-abuse.html) NYT: The case riveted the public’s attention in China and spotlighted the patchy enforcement of the country’s law against domestic violence. 
  <p class="updated_time"> 01:18 AM CT, Oct. 15 </p> 
  [Bill Clinton: Former US president in hospital for 'non-Covid infection'](https://www.bbc.co.uk/news/world-us-canada-58921615?at_medium=RSS&at_campaign=KARANGA) BBC: The former US president is said to be "on the mend" and "in good spirits" in hospital in California. 
- <p class="updated_time"> 12:59 AM CT, Oct. 15 </p> 
- [Migrants face expulsion at Polish border under new law](https://www.bbc.co.uk/news/world-europe-58921310?at_medium=RSS&at_campaign=KARANGA) BBC: Human rights groups accuse Poland of wanting to legalise migrant pushbacks on its border with Belarus. 
  <p class="updated_time"> 11:09 PM CT, Oct. 14 </p> 
  [Your Friday Briefing](https://www.nytimes.com/2021/10/15/briefing/beirut-fighting-pandemic-america.html) NYT: The state of the pandemic in the U.S. 
  <p class="updated_time"> 11:07 PM CT, Oct. 14 </p> 
