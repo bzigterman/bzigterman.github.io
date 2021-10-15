@@ -6,6 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 04:22 AM CT, Oct. 15 </p> 
+ [Explosion strikes Afghan mosque during prayers](https://www.bbc.co.uk/news/world-asia-58925863?at_medium=RSS&at_campaign=KARANGA) BBC: Many casualties are feared after an explosion hits a Shia mosque during Friday prayers in the Afghan city of Kandahar. 
  <p class="updated_time"> 04:02 AM CT, Oct. 15 </p> 
  [Agnes Tirop: Husband arrested in Kenya after athlete's death](https://www.bbc.co.uk/news/world-africa-58919391?at_medium=RSS&at_campaign=KARANGA) BBC: Record-breaking long-distance runner Agnes Tirop was found stabbed to death at her home on Wednesday. 
  <p class="updated_time"> 04:00 AM CT, Oct. 15 </p> 
@@ -64,8 +66,6 @@ permalink: /charts/news/
  [Frida Kahlo, Aztec Gods: Can Art Lift Up a Poor Neighborhood?](https://www.nytimes.com/2021/10/14/world/americas/mexico-city-iztapalapa-murals.html) NYT: A new cableway and hundreds of giant murals have brightened lives in Iztapalapa, Mexico City’s most populous neighborhood, but poverty and attacks against women are still pervasive. 
  <p class="updated_time"> 04:29 PM CT, Oct. 14 </p> 
  [With a new Michelin guide, Moscow's best-kept culinary secrets are out](https://www.bbc.co.uk/news/world-europe-58920839?at_medium=RSS&at_campaign=KARANGA) BBC: Nine Moscow restaurants have received Michelin stars for their food - a prestigious industry award. 
- <p class="updated_time"> 03:59 PM CT, Oct. 14 </p> 
- [Father charged after toddler fatally shot mother during Zoom call](https://www.bbc.co.uk/news/world-us-canada-58920322?at_medium=RSS&at_campaign=KARANGA) BBC: Police said the gun had been kept loaded in a children's backpack on the floor of the couple's room. 
  <p class="updated_time"> 03:56 PM CT, Oct. 14 </p> 
  [Border With Canada to Open, Businesses 'Could Not Be Happier'](https://www.nytimes.com/2021/10/14/nyregion/us-canada-border.html) NYT: Businesses along New York State’s northern border were celebrating the news that fully vaccinated Canadians would soon be allowed into the United States again. 
  <p class="updated_time"> 03:39 PM CT, Oct. 14 </p> 
