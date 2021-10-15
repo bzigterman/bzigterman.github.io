@@ -6,6 +6,16 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 11:40 AM CT, Oct. 15 </p> 
+ [Kongsberg attack: Norway probes bow and arrow suspect’s sanity](https://www.bbc.co.uk/news/world-europe-58924466?at_medium=RSS&at_campaign=KARANGA) BBC: Psychiatrists examine a man suspected of killing five people with a bow and arrows in Norway. 
+ <p class="updated_time"> 11:26 AM CT, Oct. 15 </p> 
+ [Nike Jordan boss reveals he murdered an 18-year-old in 1965](https://www.bbc.co.uk/news/world-us-canada-58931528?at_medium=RSS&at_campaign=KARANGA) BBC: Larry Miller, now 72, said he was in a gang as a teenager when he shot an 18-year-old man. 
+ <p class="updated_time"> 11:24 AM CT, Oct. 15 </p> 
+ [Live Updates: Italy’s Covid Vaccine Mandate Comes Into Force, a First for a Western Democracy](https://www.nytimes.com/live/2021/10/15/world/italy-covid-green-pass) NYT: All workers across public and private sectors are now required to be vaccinated or take frequent coronavirus tests. Opponents tried to rally the masses to protest, but most Italians appeared to accept the move as a necessity. 
+ <p class="updated_time"> 11:24 AM CT, Oct. 15 </p> 
+ [Protests Over Italy's Covid 'Green Pass' Draw Only Scattered Crowds](https://www.nytimes.com/2021/10/15/world/europe/covid-italy-green-pass-protests.html) NYT: While there were scattered protests across Italy on Friday, many in the country appeared to accept the measure as necessary. 
+ <p class="updated_time"> 11:18 AM CT, Oct. 15 </p> 
+ [David Amess, Conservative Lawmaker in U.K., Is Reported Stabbed to Death](https://www.nytimes.com/2021/10/15/world/europe/conservative-mp-david-amess-stabbing.html) NYT: David Amess, a Conservative member of Parliament, was holding a meeting in his local constituency at the time of the attack. 
  <p class="updated_time"> 11:14 AM CT, Oct. 15 </p> 
  [How the Nobel Peace Prize Laid Bare the Schism in Russia’s Opposition](https://www.nytimes.com/2021/10/15/world/europe/russia-dissent-muratov-navalny-nobel.html) NYT: Dmitri A. Muratov, a new laureate, engages with the Kremlin, while Aleksei A. Navalny, the most high-profile Putin critic, resists all compromise. The Kremlin capitalizes on the fault line. 
  <p class="updated_time"> 11:10 AM CT, Oct. 15 </p> 
@@ -14,12 +24,8 @@ permalink: /charts/news/
  [Suspect Confesses in Bow-and-Arrow Rampage in Norway](https://www.nytimes.com/2021/10/15/world/europe/norway-murder-bow-arrow-terrorism.html) NYT: Espen Anderson Brathen has been charged with murder in the deaths of five people after the authorities say he went on a killing spree armed with a hunting bow. 
  <p class="updated_time"> 10:52 AM CT, Oct. 15 </p> 
  [COP26: China's Xi Jinping unlikely to attend, UK PM told](https://www.bbc.co.uk/news/world-asia-china-58929296?at_medium=RSS&at_campaign=KARANGA) BBC: The UK has been warned the Chinese president is not likely to come, UK government sources say. 
- <p class="updated_time"> 10:49 AM CT, Oct. 15 </p> 
- [Live Updates: Italy’s Covid Vaccine Mandate Comes Into Force, a First for a Western Democracy](https://www.nytimes.com/live/2021/10/15/world/italy-covid-green-pass) NYT: All workers across public and private sectors are now required to be vaccinated or take frequent coronavirus tests. Opponents tried to rally the masses to protest, but most Italians appeared to accept the move as a necessity. 
  <p class="updated_time"> 10:40 AM CT, Oct. 15 </p> 
  [South Korean Military Struggles to Root Out Sexual Assaults](https://www.nytimes.com/2021/10/15/world/asia/south-korea-military-sexual-assault-suicide.html) NYT: The death of a woman in South Korea’s air force has rekindled outrage over the country’s armed forces, long criticized for abusing and discriminating​ against women. 
- <p class="updated_time"> 10:36 AM CT, Oct. 15 </p> 
- [David Amess, Conservative Lawmaker in U.K., Is Reported Stabbed to Death](https://www.nytimes.com/2021/10/15/world/europe/conservative-mp-david-amess-stabbing.html) NYT: David Amess, a Conservative member of Parliament, was holding a meeting in his local constituency at the time of the attack. 
  <p class="updated_time"> 10:22 AM CT, Oct. 15 </p> 
  [Bangladesh Strengthens Security as Violence Targets Hindu Festival](https://www.nytimes.com/2021/10/15/world/asia/15bangladesh-muslim-hindu-violence.html) NYT: Paramilitary forces were deployed across much of the country after the worst communal violence in years targeted dozens of Hindu gatherings. 
  <p class="updated_time"> 10:10 AM CT, Oct. 15 </p> 
@@ -28,8 +34,6 @@ permalink: /charts/news/
  [Covid: US to lift travel ban for fully jabbed on 8 November](https://www.bbc.co.uk/news/world-us-canada-58929441?at_medium=RSS&at_campaign=KARANGA) BBC: Fully vaccinated travellers will be allowed to enter the US for the first time since March 2020. 
  <p class="updated_time"> 10:04 AM CT, Oct. 15 </p> 
  [Blast at Afghan Mosque Kills at Least 37 as Shiites Are Targeted Again](https://www.nytimes.com/2021/10/15/world/asia/afghanistan-mosque-blast.html) NYT: It was the second week in a row that attackers had struck a Shiite place of worship during Friday Prayer. 
- <p class="updated_time"> 09:47 AM CT, Oct. 15 </p> 
- [Protests Over Italy's Covid 'Green Pass' Draw Only Scattered Crowds](https://www.nytimes.com/2021/10/15/world/europe/covid-italy-green-pass-protests.html) NYT: While there were scattered protests across Italy on Friday, many in the country appeared to accept the measure as necessary. 
  <p class="updated_time"> 09:38 AM CT, Oct. 15 </p> 
  [Norway Bow-and-Arrow Rampage Treated as Apparent Terrorism Attack](https://www.nytimes.com/2021/10/14/world/europe/norway-bow-and-arrow-attack.html) NYT: The police said that they had previously contacted the suspect, a 37-year-old Danish citizen who is believed to have killed five people, over concerns that he had been radicalized. 
  <p class="updated_time"> 09:37 AM CT, Oct. 15 </p> 
@@ -46,8 +50,6 @@ permalink: /charts/news/
  [Covid: Wave of Italian protests against mandatory work pass](https://www.bbc.co.uk/news/world-europe-58913865?at_medium=RSS&at_campaign=KARANGA) BBC: Thousands gather outside major ports, angry that the "Green Pass" is now mandatory for all workers. 
  <p class="updated_time"> 08:37 AM CT, Oct. 15 </p> 
  [German coalition plan sets bigger green targets](https://www.bbc.co.uk/news/world-europe-58924480?at_medium=RSS&at_campaign=KARANGA) BBC: German politicians seek a faster exit from coal power as part of a coalition deal. 
- <p class="updated_time"> 08:18 AM CT, Oct. 15 </p> 
- [Self-driving Waymo cars clog up dead-end San Francisco street](https://www.bbc.co.uk/news/technology-58928706?at_medium=RSS&at_campaign=KARANGA) BBC: Waymo says its automated vehicles are following traffic orders when they enter the dead-end street. 
  <p class="updated_time"> 08:14 AM CT, Oct. 15 </p> 
  [Abu Musab al-Barnawi, Leader of ISWAP, Has Died, Nigerian Army Says](https://www.nytimes.com/2021/10/15/world/africa/nigeria-islamic-state-abu-musab-al-barnawi-dead.html) NYT: A top military commander said that Abu Musab al-Barnawi, head of an extremist organization known as the Islamic State West Africa Province, had died. 
  <p class="updated_time"> 08:09 AM CT, Oct. 15 </p> 
@@ -62,6 +64,8 @@ permalink: /charts/news/
  [Queensland, Australia: Motorcycle thief flees crime scene on tractor](https://www.bbc.co.uk/news/world-australia-58926803?at_medium=RSS&at_campaign=KARANGA) BBC: Police officers chased the suspect through the streets in Queensland, Australia. 
  <p class="updated_time"> 07:49 AM CT, Oct. 15 </p> 
  [Two More Guantánamo Detainees Are Approved for Release](https://www.nytimes.com/2021/10/13/us/politics/guantanamo-detainees-transfer.html) NYT: A board has now backed the release of 12 out of the 39 men remaining at the prison, but U.S. diplomats must first reach security agreements with destination countries. 
+ <p class="updated_time"> 07:44 AM CT, Oct. 15 </p> 
+ [British Lawmaker Is Fatally Stabbed Outside London](https://www.wsj.com/articles/british-lawmaker-david-amess-stabbed-and-killed-outside-london-11634307474) WSJ: An attacker stabbed and killed Conservative lawmaker David Amess, who was attending a meeting with people in his district. Police said a 25-year-old man was arrested on suspicion of murder. 
  <p class="updated_time"> 07:42 AM CT, Oct. 15 </p> 
  [Taiwan’s ‘Ghost Building’ Fire: a Death Trap for Dozens of Elderly](https://www.nytimes.com/2021/10/15/world/asia/taiwan-building-fire.html) NYT: “I had no choice but to live here,” said one resident who survived a blaze that killed 46 of her neighbors and raised questions about lax safety standards. 
  <p class="updated_time"> 07:39 AM CT, Oct. 15 </p> 
@@ -72,14 +76,14 @@ permalink: /charts/news/
  [At Least 34 Shiite Worshippers Killed in Bombing in Afghanistan](https://www.wsj.com/articles/afghan-mosque-hit-by-deadly-suicide-bombing-11634297101) WSJ: The killings in Kandahar, the Taliban’s historic stronghold, follow a spate of Islamic State attacks on the country’s religious minority sect. 
  <p class="updated_time"> 06:58 AM CT, Oct. 15 </p> 
  [Hate Crimes and Pandemic Lead More Asian Americans to Seek Therapy](https://www.nytimes.com/2021/10/15/us/asian-american-therapy-hate-crimes.html) NYT: A growing number of Asian Americans have overcome a cultural stigma attached to seeking mental health treatment, experts said. 
- <p class="updated_time"> 06:58 AM CT, Oct. 15 </p> 
- [British Lawmaker Is Fatally Stabbed Outside London](https://www.wsj.com/articles/british-lawmaker-david-amess-stabbed-and-killed-outside-london-11634307474) WSJ: An attacker stabbed and killed Conservative lawmaker David Amess, who was attending a meeting with people in his district. Police said a man had been arrested. 
  <p class="updated_time"> 06:10 AM CT, Oct. 15 </p> 
  [Taiwan Building Fire Kills at Least 46](https://www.nytimes.com/2021/10/14/world/asia/taiwan-apartment-fire.html) NYT: Dozens more were injured after a fire broke out at a 13-story building in the southern port city of Kaohsiung. 
  <p class="updated_time"> 06:04 AM CT, Oct. 15 </p> 
  [Minnesota Hospital Struggle Under Weight of Latest Virus Surge](https://www.nytimes.com/2021/10/13/world/minnesota-hospitals-capacity-virus-surge.html) NYT: New daily cases have risen by 29 percent in the last two weeks and hospitalizations by 17 percent, according to a New York Times database. 
  <p class="updated_time"> 06:03 AM CT, Oct. 15 </p> 
  [Henrietta Lacks, Whose Cells Were Taken Without Her Consent, Is Honored by W.H.O.](https://www.nytimes.com/2021/10/13/science/henrietta-lacks-cells-who.html) NYT: In a ceremony in Geneva, the World Health Organization presented an award to the family of Ms. Lacks, whose cancer cells led to world-changing advances in medical and scientific research. 
+ <p class="updated_time"> 05:54 AM CT, Oct. 15 </p> 
+ [Where Will Wally the Wandering Walrus End Up?](https://www.wsj.com/articles/where-will-wally-the-wandering-walrus-end-up-11634309674) WSJ: Researchers hoped to help him find his way back to the Arctic after an epic tour around Europe; ‘People were telling us to come and take him away’ 
  <p class="updated_time"> 05:40 AM CT, Oct. 15 </p> 
  [Kongsberg attack: Norwegian town left asking questions after murders](https://www.bbc.co.uk/news/world-europe-58923879?at_medium=RSS&at_campaign=KARANGA) BBC: The innocence of a quiet town outside Oslo is shattered and residents are demanding answers. 
  <p class="updated_time"> 05:18 AM CT, Oct. 15 </p> 
@@ -88,8 +92,6 @@ permalink: /charts/news/
  [Christchurch: New Zealand city parts ways with its wizard](https://www.bbc.co.uk/news/world-asia-58924306?at_medium=RSS&at_campaign=KARANGA) BBC: Christchurch was the only city in the world with its own official wizard. 
  <p class="updated_time"> 04:23 AM CT, Oct. 15 </p> 
  [Inflation Sets Off Alarms Around the World](https://www.wsj.com/articles/inflation-sets-off-alarms-around-the-world-11634304187) WSJ: More than a dozen central banks have raised interest rates but two that haven’t are those that loom largest over the global economy: the Federal Reserve and the European Central Bank. 
- <p class="updated_time"> 04:03 AM CT, Oct. 15 </p> 
- [Kongsberg attack: Norway probes bow and arrow suspect’s sanity](https://www.bbc.co.uk/news/world-europe-58924466?at_medium=RSS&at_campaign=KARANGA) BBC: Psychiatrists examine a man suspected of killing five people with a bow and arrows in Norway. 
  <p class="updated_time"> 03:39 AM CT, Oct. 15 </p> 
  [Man Whose Attack on Ex-Wife Was Livestreamed Gets Death Penalty in China](https://www.nytimes.com/2021/10/15/world/asia/china-livestream-killing-abuse.html) NYT: The case riveted the public’s attention in China and spotlighted the patchy enforcement of the country’s law against domestic violence. 
  <p class="updated_time"> 03:35 AM CT, Oct. 15 </p> 
@@ -146,8 +148,6 @@ permalink: /charts/news/
  [British Museums Face Covid’s Long-Term Effects](https://www.nytimes.com/2021/10/14/arts/design/british-museums-recovery.html) NYT: Months of closures during the pandemic have caused financial havoc for art venues, and many expect to be strapped for years. At the Victoria and Albert Museum in London, the virus’s impact is clear. 
  <p class="updated_time"> 08:51 AM CT, Oct. 14 </p> 
  [Gunfire erupts on Beirut streets after port explosion protest](https://www.bbc.co.uk/news/world-middle-east-58910056?at_medium=RSS&at_campaign=KARANGA) BBC: Several people are shot dead in gun battles following a protest over the Beirut port blast investigation. 
- <p class="updated_time"> 08:11 AM CT, Oct. 14 </p> 
- [Pandemic Disruptions Blamed for First Increase in Estimated Tuberculosis Deaths in More Than a Decade](https://www.wsj.com/articles/pandemic-disruptions-blamed-for-first-increase-in-estimated-tuberculosis-deaths-in-more-than-a-decade-11634231508) WSJ: The World Health Organization estimates 1.5 million people died in 2020 from what used to be deadliest infectious disease before Covid-19 emerged. 
  <p class="updated_time"> 07:00 AM CT, Oct. 14 </p> 
  [Coldplay: Band announce first tour in four years with an 'eco-friendly' focus](https://www.bbc.co.uk/news/entertainment-arts-58907085?at_medium=RSS&at_campaign=KARANGA) BBC: The band have pledged that their upcoming tour will be sustainable, and as low-carbon as possible. 
  <p class="updated_time"> 05:54 AM CT, Oct. 14 </p> 
