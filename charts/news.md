@@ -6,6 +6,12 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 10:40 AM CT, Oct. 15 </p> 
+ [South Korean Military Struggles to Root Out Sexual Assaults](https://www.nytimes.com/2021/10/15/world/asia/south-korea-military-sexual-assault-suicide.html) NYT: The death of a woman in South Korea’s air force has rekindled outrage over the country’s armed forces, long criticized for abusing and discriminating​ against women. 
+ <p class="updated_time"> 10:36 AM CT, Oct. 15 </p> 
+ [David Amess, Conservative Lawmaker in U.K., Is Reported Stabbed to Death](https://www.nytimes.com/2021/10/15/world/europe/conservative-mp-david-amess-stabbing.html) NYT: David Amess, a Conservative member of Parliament, was holding a meeting in his local constituency at the time of the attack. 
+ <p class="updated_time"> 10:34 AM CT, Oct. 15 </p> 
+ [Push to Improve Sex Ed in Australia Comes From 10,000 Miles Away](https://www.nytimes.com/2021/10/15/world/australia/sexual-consent-education-contos.html) NYT: A grad student in London hoped to collect a few testimonies from teenage sexual assault victims for a petition to teach consent in schools. She got thousands. 
  <p class="updated_time"> 10:22 AM CT, Oct. 15 </p> 
  [Bangladesh Strengthens Security as Violence Targets Hindu Festival](https://www.nytimes.com/2021/10/15/world/asia/15bangladesh-muslim-hindu-violence.html) NYT: Paramilitary forces were deployed across much of the country after the worst communal violence in years targeted dozens of Hindu gatherings. 
  <p class="updated_time"> 10:12 AM CT, Oct. 15 </p> 
@@ -28,8 +34,6 @@ permalink: /charts/news/
  [Mexico City Replaces a Statue of Columbus With One of an Indigenous Woman](https://www.nytimes.com/2021/10/14/world/americas/mexico-columbus-statue-indigenous.html) NYT: The replacement of a figure seen as a monument to colonialism touched a nerve as the country debates how it is shaped by race and sex. 
  <p class="updated_time"> 09:32 AM CT, Oct. 15 </p> 
  [Moderna and J.& J. Boosters: What Are the Next Steps? ](https://www.nytimes.com/2021/10/14/us/covid-booster-vaccines-fda.html) NYT: Further steps will be required at the F.D.A. and at the C.D.C., in a process that ends with the states. 
- <p class="updated_time"> 09:23 AM CT, Oct. 15 </p> 
- [David Amess, Conservative Lawmaker in U.K., Is Reportedly Stabbed to Death](https://www.nytimes.com/2021/10/15/world/europe/conservative-mp-david-amess-stabbing.html) NYT: The member of Parliament, David Amess, was holding a meeting in his local constituency at the time of the attack. 
  <p class="updated_time"> 09:16 AM CT, Oct. 15 </p> 
  [Bill Clinton: Former US president in hospital for 'non-Covid infection'](https://www.bbc.co.uk/news/world-us-canada-58921615?at_medium=RSS&at_campaign=KARANGA) BBC: The former US president is said to be "on the mend" and "in good spirits" in hospital in California. 
  <p class="updated_time"> 09:05 AM CT, Oct. 15 </p> 
@@ -82,8 +86,6 @@ permalink: /charts/news/
  [Inflation Sets Off Alarms Around the World](https://www.wsj.com/articles/inflation-sets-off-alarms-around-the-world-11634304187) WSJ: More than a dozen central banks have raised interest rates but two that haven’t are those that loom largest over the global economy: the Federal Reserve and the European Central Bank. 
  <p class="updated_time"> 04:03 AM CT, Oct. 15 </p> 
  [Kongsberg attack: Norway probes bow and arrow suspect’s sanity](https://www.bbc.co.uk/news/world-europe-58924466?at_medium=RSS&at_campaign=KARANGA) BBC: Psychiatrists examine a man suspected of killing five people with a bow and arrows in Norway. 
- <p class="updated_time"> 04:00 AM CT, Oct. 15 </p> 
- [South Korean Military Struggles to Root Out Sexual Assaults](https://www.nytimes.com/2021/10/15/world/asia/south-korea-military-sexual-assault-suicide.html) NYT: The death of a woman in South Korea’s air force has rekindled outrage over the country’s armed forces, long criticized for abusing and discriminating​ against women. 
  <p class="updated_time"> 03:40 AM CT, Oct. 15 </p> 
  [Afghan Mosque Hit by Deadly Suicide Bombing](https://www.wsj.com/articles/afghan-mosque-hit-by-deadly-suicide-bombing-11634297101) WSJ: A suicide attack at a Shiite mosque in southern Afghanistan killed at least 30 worshipers, the latest in a spate of attacks since the withdrawal of U.S. troops. 
  <p class="updated_time"> 03:39 AM CT, Oct. 15 </p> 
@@ -138,8 +140,6 @@ permalink: /charts/news/
  [Squid Game Ahead? No, Just Directions, British Police Explain](https://www.nytimes.com/2021/10/13/world/europe/squid-game-road-sign.html) NYT: The police in England clarified that a highway sign featuring symbols that also appear on the hit Netflix series merely indicated a detour. 
  <p class="updated_time"> 10:39 AM CT, Oct. 14 </p> 
  [Meteorite Crashes Through Ceiling and Lands on Woman’s Bed](https://www.nytimes.com/2021/10/14/world/canada/meteorite-bed.html) NYT: After a fireball streaked through the Canadian sky, Ruth Hamilton, of British Columbia, found a 2.8-pound rock the size of a large man’s fist near her pillow. 
- <p class="updated_time"> 09:43 AM CT, Oct. 14 </p> 
- [U.S. to Open Canada and Mexico Borders for Vaccinated Travelers](https://www.nytimes.com/2021/10/12/us/politics/us-canada-mexico-borders-open.html) NYT: Opening the borders with Mexico and Canada, where crossing for nonessential travel has been barred for 19 months, will reconnect neighbors and provide a reprieve for businesses. 
  <p class="updated_time"> 09:31 AM CT, Oct. 14 </p> 
  [British Museums Face Covid’s Long-Term Effects](https://www.nytimes.com/2021/10/14/arts/design/british-museums-recovery.html) NYT: Months of closures during the pandemic have caused financial havoc for art venues, and many expect to be strapped for years. At the Victoria and Albert Museum in London, the virus’s impact is clear. 
  <p class="updated_time"> 08:51 AM CT, Oct. 14 </p> 
