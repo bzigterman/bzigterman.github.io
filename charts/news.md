@@ -6,30 +6,34 @@ permalink: /charts/news/
 
 ## World News
 
- <p class="updated_time"> 07:25 AM CT, Oct. 15 </p> 
+ <p class="updated_time"> 07:58 AM CT, Oct. 15 </p> 
  [Live Updates: Italy’s Covid Vaccine Mandate Comes Into Force, a First for a Western Democracy](https://www.nytimes.com/live/2021/10/15/world/italy-covid-green-pass) NYT: All workers across public and private sectors are now required to be vaccinated or take frequent coronavirus tests. While many accepted the move as a necessity, it was greeted by protests in some parts of the country. 
+ <p class="updated_time"> 07:57 AM CT, Oct. 15 </p> 
+ [Queensland, Australia: Motorcycle thief flees crime scene on tractor](https://www.bbc.co.uk/news/world-australia-58926803?at_medium=RSS&at_campaign=KARANGA) BBC: Police officers chased the suspect through the streets in Queensland, Australia. 
+ <p class="updated_time"> 07:49 AM CT, Oct. 15 </p> 
+ [E.U. Pledges $1.15 Billion in Afghan Aid as U.S. Talks to Taliban](https://www.nytimes.com/2021/10/12/us/politics/afghan-aid-european-union-biden.html) NYT: Europe and America are offering stopgap humanitarian aid for a country on the brink of collapse, but larger decisions about the new Taliban government remain on hold. 
+ <p class="updated_time"> 07:49 AM CT, Oct. 15 </p> 
+ [Two More Guantánamo Detainees Are Approved for Release](https://www.nytimes.com/2021/10/13/us/politics/guantanamo-detainees-transfer.html) NYT: A board has now backed the release of 12 out of the 39 men remaining at the prison, but U.S. diplomats must first reach security agreements with destination countries. 
+ <p class="updated_time"> 07:42 AM CT, Oct. 15 </p> 
+ [Taiwan’s ‘Ghost Building’ Fire: a Death Trap for Dozens of Elderly](https://www.nytimes.com/2021/10/15/world/asia/taiwan-building-fire.html) NYT: “I had no choice but to live here,” said one resident who survived a blaze that killed 46 of her neighbors and raised questions about lax safety standards. 
+ <p class="updated_time"> 07:39 AM CT, Oct. 15 </p> 
+ [Newly Discovered Bat Viruses Give Hints to Covid’s Origins](https://www.nytimes.com/2021/10/14/science/bat-coronaviruses-lab-leak.html) NYT: Coronaviruses discovered in Laotian bats are surprisingly adept at infecting human cells, showing that such deadly features can indeed evolve outside of a lab. 
+ <p class="updated_time"> 07:37 AM CT, Oct. 15 </p> 
+ [Afghanistan: Suicide attack hits Kandahar mosque during prayers](https://www.bbc.co.uk/news/world-asia-58925863?at_medium=RSS&at_campaign=KARANGA) BBC: Three blasts at a Shia mosque in Kandahar kill at least 37 people during Friday worship. 
  <p class="updated_time"> 07:19 AM CT, Oct. 15 </p> 
  [Blast at Afghan Mosque Kills 37 as Shiites Are Targeted Again](https://www.nytimes.com/2021/10/15/world/asia/afghanistan-mosque-blast.html) NYT: The explosion in Kandahar marked the second week in a row that attackers had struck a Shiite place of worship during Friday Prayer. 
- <p class="updated_time"> 07:10 AM CT, Oct. 15 </p> 
- [Afghanistan: Explosions strike Afghan mosque during prayers](https://www.bbc.co.uk/news/world-asia-58925863?at_medium=RSS&at_campaign=KARANGA) BBC: More than 30 people are killed after three blasts at a Shia mosque during Friday worship in Kandahar. 
  <p class="updated_time"> 07:09 AM CT, Oct. 15 </p> 
  [Lebanon Observes Day of Mourning After Sectarian Clashes Kill 6](https://www.nytimes.com/2021/10/15/world/middleeast/lebanon-beirut-violence-explosion.html) NYT: Beirut’s streets were quiet a day after gun battles between Christian and Shiite Muslim militias erupted amid tensions over an investigation into the port explosion last year. 
  <p class="updated_time"> 07:08 AM CT, Oct. 15 </p> 
  [As Italy Mandates Covid Passes, Rules Vary Across Europe](https://www.nytimes.com/2021/10/15/world/europe/covid-passes.html) NYT: Varying measures reflect domestic politics and potential opposition against such rules. 
  <p class="updated_time"> 06:58 AM CT, Oct. 15 </p> 
  [Hate Crimes and Pandemic Lead More Asian Americans to Seek Therapy](https://www.nytimes.com/2021/10/15/us/asian-american-therapy-hate-crimes.html) NYT: A growing number of Asian Americans have overcome a cultural stigma attached to seeking mental health treatment, experts said. 
- <p class="updated_time"> 06:45 AM CT, Oct. 15 </p> 
- [Two More Guantánamo Detainees Are Approved for Release](https://www.nytimes.com/2021/10/13/us/politics/guantanamo-detainees-transfer.html) NYT: A board has now backed the release of 12 out of the 39 men remaining at the prison, but U.S. diplomats must first reach security agreements with destination countries. 
  <p class="updated_time"> 06:30 AM CT, Oct. 15 </p> 
  [Masten Wanjala: Mob beats Kenyan child serial killer to death - police](https://www.bbc.co.uk/news/world-africa-58923592?at_medium=RSS&at_campaign=KARANGA) BBC: Police had launched a massive manhunt for Masten Wanjala, who confessed to killing several children. 
  <p class="updated_time"> 06:10 AM CT, Oct. 15 </p> 
  [Taiwan Building Fire Kills at Least 46](https://www.nytimes.com/2021/10/14/world/asia/taiwan-apartment-fire.html) NYT: Dozens more were injured after a fire broke out at a 13-story building in the southern port city of Kaohsiung. 
  <p class="updated_time"> 06:06 AM CT, Oct. 15 </p> 
  [Moderna and J.& J. Boosters: What Are the Next Steps? ](https://www.nytimes.com/2021/10/14/us/covid-booster-vaccines-fda.html) NYT: Further steps will be required at the F.D.A. and at the C.D.C., in a process that ends with the states. 
- <p class="updated_time"> 06:06 AM CT, Oct. 15 </p> 
- [Newly Discovered Bat Viruses Give Hints to Covid’s Origins](https://www.nytimes.com/2021/10/14/science/bat-coronaviruses-lab-leak.html) NYT: Coronaviruses discovered in Laotian bats are surprisingly adept at infecting human cells, showing that such deadly features can indeed evolve outside of a lab. 
- <p class="updated_time"> 06:05 AM CT, Oct. 15 </p> 
- [Taiwan’s ‘Ghost Building’ Fire: a Death Trap for Dozens of Elderly](https://www.nytimes.com/2021/10/15/world/asia/taiwan-building-fire.html) NYT: “I had no choice but to live here,” said one resident who survived a blaze that killed 46 of her neighbors and raised questions about lax safety standards. 
  <p class="updated_time"> 06:04 AM CT, Oct. 15 </p> 
  [Minnesota Hospital Struggle Under Weight of Latest Virus Surge](https://www.nytimes.com/2021/10/13/world/minnesota-hospitals-capacity-virus-surge.html) NYT: New daily cases have risen by 29 percent in the last two weeks and hospitalizations by 17 percent, according to a New York Times database. 
  <p class="updated_time"> 06:03 AM CT, Oct. 15 </p> 
@@ -52,10 +56,10 @@ permalink: /charts/news/
  [Agnes Tirop: Husband arrested in Kenya after athlete's death](https://www.bbc.co.uk/news/world-africa-58919391?at_medium=RSS&at_campaign=KARANGA) BBC: Record-breaking long-distance runner Agnes Tirop was found stabbed to death at her home on Wednesday. 
  <p class="updated_time"> 04:00 AM CT, Oct. 15 </p> 
  [South Korean Military Struggles to Root Out Sexual Assaults](https://www.nytimes.com/2021/10/15/world/asia/south-korea-military-sexual-assault-suicide.html) NYT: The death of a woman in South Korea’s air force has rekindled outrage over the country’s armed forces, long criticized for abusing and discriminating​ against women. 
+ <p class="updated_time"> 03:40 AM CT, Oct. 15 </p> 
+ [Afghan Mosque Hit by Deadly Suicide Bombing](https://www.wsj.com/articles/afghan-mosque-hit-by-deadly-suicide-bombing-11634297101) WSJ: A suicide attack at a Shiite mosque in southern Afghanistan killed at least 30 worshipers, the latest in a spate of attacks since the withdrawal of U.S. troops. 
  <p class="updated_time"> 03:39 AM CT, Oct. 15 </p> 
  [Man Whose Attack on Ex-Wife Was Livestreamed Gets Death Penalty in China](https://www.nytimes.com/2021/10/15/world/asia/china-livestream-killing-abuse.html) NYT: The case riveted the public’s attention in China and spotlighted the patchy enforcement of the country’s law against domestic violence. 
- <p class="updated_time"> 02:25 AM CT, Oct. 15 </p> 
- [Afghan Mosque Hit by Deadly Suicide Bombing](https://www.wsj.com/articles/afghan-mosque-hit-by-deadly-suicide-bombing-11634297101) WSJ: A large blast at a Shiite mosque in southern Afghanistan killed more than a dozen worshipers, witnesses said, the latest in a spate of attacks since the withdrawal of U.S. troops. 
  <p class="updated_time"> 01:18 AM CT, Oct. 15 </p> 
  [Bill Clinton: Former US president in hospital for 'non-Covid infection'](https://www.bbc.co.uk/news/world-us-canada-58921615?at_medium=RSS&at_campaign=KARANGA) BBC: The former US president is said to be "on the mend" and "in good spirits" in hospital in California. 
  <p class="updated_time"> 12:59 AM CT, Oct. 15 </p> 
@@ -83,7 +87,7 @@ permalink: /charts/news/
  <p class="updated_time"> 07:01 PM CT, Oct. 14 </p> 
  [Africa's week in pictures: 8-14 October 2021](https://www.bbc.co.uk/news/world-africa-58909966?at_medium=RSS&at_campaign=KARANGA) BBC: A selection of the best photos from the African continent and beyond. 
  <p class="updated_time"> 06:57 PM CT, Oct. 14 </p> 
- [South Sudan: Where Covid vaccines have to be dropped from planes?](https://www.bbc.co.uk/news/world-africa-58911911?at_medium=RSS&at_campaign=KARANGA) BBC: Delivering vaccines around South Sudan is more expensive than the cost of the jab itself. 
+ [South Sudan: How to deliver Covid vaccines in a country with few roads](https://www.bbc.co.uk/news/world-africa-58911911?at_medium=RSS&at_campaign=KARANGA) BBC: Delivering vaccines around South Sudan is more expensive than the cost of the jab itself. 
  <p class="updated_time"> 06:48 PM CT, Oct. 14 </p> 
  [Produce Pandas: The plus-size musicians making waves in China](https://www.bbc.co.uk/news/world-asia-china-58495677?at_medium=RSS&at_campaign=KARANGA) BBC: As stars are criticised for being image-obsessed, more relatable celebrities have become popular. 
  <p class="updated_time"> 06:10 PM CT, Oct. 14 </p> 
@@ -148,8 +152,6 @@ permalink: /charts/news/
  [U.K. Agency Issues Climate Change Warning Before U.N. Summit](https://www.nytimes.com/2021/10/13/world/europe/uk-adapt-die-climate-change.html) NYT: With more extreme weather events expected to bring floods and droughts, the body urged world leaders to focus on mitigating the effects of global warming. 
  <p class="updated_time"> 07:51 PM CT, Oct. 13 </p> 
  [This Pristine Beach Is One of Japan’s Last. Soon It Will Be Filled With Concrete.](https://www.nytimes.com/2021/10/13/world/asia/japan-katoku-seawall.html) NYT: In rural Japan, the unstoppable forces of nature meet the immovable determination of the construction state. Can this village survive? 
- <p class="updated_time"> 05:44 PM CT, Oct. 13 </p> 
- [Climate change in India: Teen inventor's solar-powered ironing cart](https://www.bbc.co.uk/news/science-environment-58889532?at_medium=RSS&at_campaign=KARANGA) BBC: India's ironing vendors use charcoal as fuel, but Vinisha Umashankar's cart harnesses the Sun's energy. 
  <p class="updated_time"> 04:23 PM CT, Oct. 13 </p> 
  [Your Thursday Briefing](https://www.nytimes.com/2021/10/13/briefing/china-power-coal-global-supply-space.html) NYT: China’s power and coal shortages. 
  <p class="updated_time"> 03:53 PM CT, Oct. 13 </p> 
@@ -174,8 +176,6 @@ permalink: /charts/news/
  [Your Wednesday Briefing](https://www.nytimes.com/2021/10/12/briefing/china-housing-evergrande-flooding-india-law.html) NYT: China’s home buyers are frustrated. 
  <p class="updated_time"> 11:10 PM CT, Oct. 12 </p> 
  [Your Wednesday Briefing](https://www.nytimes.com/2021/10/13/briefing/britain-coronavirus-economic-recovery.html) NYT: A damning report on Britain’s virus response. 
- <p class="updated_time"> 07:29 PM CT, Oct. 12 </p> 
- [E.U. Pledges $1.15 Billion in Afghan Aid as U.S. Talks to Taliban](https://www.nytimes.com/2021/10/12/us/politics/afghan-aid-european-union-biden.html) NYT: Europe and America are offering stopgap humanitarian aid for a country on the brink of collapse, but larger decisions about the new Taliban government remain on hold. 
  <p class="updated_time"> 05:24 PM CT, Oct. 12 </p> 
  [Cases of ‘Havana Syndrome’ Reported at U.S. Embassy in Colombia](https://www.nytimes.com/2021/10/12/us/politics/havana-syndrome-colombia.html) NYT: The State Department is investigating new complaints of mysterious brain injuries before Secretary of State Antony J. Blinken’s visit to the country next week. 
  <p class="updated_time"> 04:43 PM CT, Oct. 12 </p> 
