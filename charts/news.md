@@ -6,14 +6,20 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 11:14 AM CT, Oct. 15 </p> 
+ [How the Nobel Peace Prize Laid Bare the Schism in Russia’s Opposition](https://www.nytimes.com/2021/10/15/world/europe/russia-dissent-muratov-navalny-nobel.html) NYT: Dmitri A. Muratov, a new laureate, engages with the Kremlin, while Aleksei A. Navalny, the most high-profile Putin critic, resists all compromise. The Kremlin capitalizes on the fault line. 
+ <p class="updated_time"> 11:10 AM CT, Oct. 15 </p> 
+ [Push to Improve Sex Ed in Australia Comes From 10,000 Miles Away](https://www.nytimes.com/2021/10/15/world/australia/sex-education-consent-contos.html) NYT: A grad student in London hoped to collect a few testimonies from teenage sexual assault victims for a petition to teach consent in schools. She got thousands. 
+ <p class="updated_time"> 11:00 AM CT, Oct. 15 </p> 
+ [Suspect Confesses in Bow-and-Arrow Rampage in Norway](https://www.nytimes.com/2021/10/15/world/europe/norway-murder-bow-arrow-terrorism.html) NYT: Espen Anderson Brathen has been charged with murder in the deaths of five people after the authorities say he went on a killing spree armed with a hunting bow. 
+ <p class="updated_time"> 10:52 AM CT, Oct. 15 </p> 
+ [COP26: China's Xi Jinping unlikely to attend, UK PM told](https://www.bbc.co.uk/news/world-asia-china-58929296?at_medium=RSS&at_campaign=KARANGA) BBC: The UK has been warned the Chinese president is not likely to come, UK government sources say. 
  <p class="updated_time"> 10:49 AM CT, Oct. 15 </p> 
  [Live Updates: Italy’s Covid Vaccine Mandate Comes Into Force, a First for a Western Democracy](https://www.nytimes.com/live/2021/10/15/world/italy-covid-green-pass) NYT: All workers across public and private sectors are now required to be vaccinated or take frequent coronavirus tests. Opponents tried to rally the masses to protest, but most Italians appeared to accept the move as a necessity. 
  <p class="updated_time"> 10:40 AM CT, Oct. 15 </p> 
  [South Korean Military Struggles to Root Out Sexual Assaults](https://www.nytimes.com/2021/10/15/world/asia/south-korea-military-sexual-assault-suicide.html) NYT: The death of a woman in South Korea’s air force has rekindled outrage over the country’s armed forces, long criticized for abusing and discriminating​ against women. 
  <p class="updated_time"> 10:36 AM CT, Oct. 15 </p> 
  [David Amess, Conservative Lawmaker in U.K., Is Reported Stabbed to Death](https://www.nytimes.com/2021/10/15/world/europe/conservative-mp-david-amess-stabbing.html) NYT: David Amess, a Conservative member of Parliament, was holding a meeting in his local constituency at the time of the attack. 
- <p class="updated_time"> 10:34 AM CT, Oct. 15 </p> 
- [Push to Improve Sex Ed in Australia Comes From 10,000 Miles Away](https://www.nytimes.com/2021/10/15/world/australia/sexual-consent-education-contos.html) NYT: A grad student in London hoped to collect a few testimonies from teenage sexual assault victims for a petition to teach consent in schools. She got thousands. 
  <p class="updated_time"> 10:22 AM CT, Oct. 15 </p> 
  [Bangladesh Strengthens Security as Violence Targets Hindu Festival](https://www.nytimes.com/2021/10/15/world/asia/15bangladesh-muslim-hindu-violence.html) NYT: Paramilitary forces were deployed across much of the country after the worst communal violence in years targeted dozens of Hindu gatherings. 
  <p class="updated_time"> 10:10 AM CT, Oct. 15 </p> 
@@ -22,8 +28,6 @@ permalink: /charts/news/
  [Covid: US to lift travel ban for fully jabbed on 8 November](https://www.bbc.co.uk/news/world-us-canada-58929441?at_medium=RSS&at_campaign=KARANGA) BBC: Fully vaccinated travellers will be allowed to enter the US for the first time since March 2020. 
  <p class="updated_time"> 10:04 AM CT, Oct. 15 </p> 
  [Blast at Afghan Mosque Kills at Least 37 as Shiites Are Targeted Again](https://www.nytimes.com/2021/10/15/world/asia/afghanistan-mosque-blast.html) NYT: It was the second week in a row that attackers had struck a Shiite place of worship during Friday Prayer. 
- <p class="updated_time"> 09:48 AM CT, Oct. 15 </p> 
- [Suspect Confesses in Bow-and-Arrow Rampage in Norway](https://www.nytimes.com/2021/10/15/world/europe/norway-murder-bow-arrow-terrorism.html) NYT: Espen Anderson Brathen has been charged with murder in the deaths of five people after the authorities say he went on a killing spree armed with a hunting bow. 
  <p class="updated_time"> 09:47 AM CT, Oct. 15 </p> 
  [Protests Over Italy's Covid 'Green Pass' Draw Only Scattered Crowds](https://www.nytimes.com/2021/10/15/world/europe/covid-italy-green-pass-protests.html) NYT: While there were scattered protests across Italy on Friday, many in the country appeared to accept the measure as necessary. 
  <p class="updated_time"> 09:38 AM CT, Oct. 15 </p> 
@@ -64,18 +68,18 @@ permalink: /charts/news/
  [Newly Discovered Bat Viruses Give Hints to Covid’s Origins](https://www.nytimes.com/2021/10/14/science/bat-coronaviruses-lab-leak.html) NYT: Coronaviruses discovered in Laotian bats are surprisingly adept at infecting human cells, showing that such deadly features can indeed evolve outside of a lab. 
  <p class="updated_time"> 07:08 AM CT, Oct. 15 </p> 
  [As Italy Mandates Covid Passes, Rules Vary Across Europe](https://www.nytimes.com/2021/10/15/world/europe/covid-passes.html) NYT: Varying measures reflect domestic politics and potential opposition against such rules. 
+ <p class="updated_time"> 07:00 AM CT, Oct. 15 </p> 
+ [At Least 34 Shiite Worshippers Killed in Bombing in Afghanistan](https://www.wsj.com/articles/afghan-mosque-hit-by-deadly-suicide-bombing-11634297101) WSJ: The killings in Kandahar, the Taliban’s historic stronghold, follow a spate of Islamic State attacks on the country’s religious minority sect. 
  <p class="updated_time"> 06:58 AM CT, Oct. 15 </p> 
  [Hate Crimes and Pandemic Lead More Asian Americans to Seek Therapy](https://www.nytimes.com/2021/10/15/us/asian-american-therapy-hate-crimes.html) NYT: A growing number of Asian Americans have overcome a cultural stigma attached to seeking mental health treatment, experts said. 
+ <p class="updated_time"> 06:58 AM CT, Oct. 15 </p> 
+ [British Lawmaker Is Fatally Stabbed Outside London](https://www.wsj.com/articles/british-lawmaker-david-amess-stabbed-and-killed-outside-london-11634307474) WSJ: An attacker stabbed and killed Conservative lawmaker David Amess, who was attending a meeting with people in his district. Police said a man had been arrested. 
  <p class="updated_time"> 06:10 AM CT, Oct. 15 </p> 
  [Taiwan Building Fire Kills at Least 46](https://www.nytimes.com/2021/10/14/world/asia/taiwan-apartment-fire.html) NYT: Dozens more were injured after a fire broke out at a 13-story building in the southern port city of Kaohsiung. 
  <p class="updated_time"> 06:04 AM CT, Oct. 15 </p> 
  [Minnesota Hospital Struggle Under Weight of Latest Virus Surge](https://www.nytimes.com/2021/10/13/world/minnesota-hospitals-capacity-virus-surge.html) NYT: New daily cases have risen by 29 percent in the last two weeks and hospitalizations by 17 percent, according to a New York Times database. 
  <p class="updated_time"> 06:03 AM CT, Oct. 15 </p> 
  [Henrietta Lacks, Whose Cells Were Taken Without Her Consent, Is Honored by W.H.O.](https://www.nytimes.com/2021/10/13/science/henrietta-lacks-cells-who.html) NYT: In a ceremony in Geneva, the World Health Organization presented an award to the family of Ms. Lacks, whose cancer cells led to world-changing advances in medical and scientific research. 
- <p class="updated_time"> 05:52 AM CT, Oct. 15 </p> 
- [British Lawmaker Is Fatally Stabbed Outside London](https://www.wsj.com/articles/british-lawmaker-david-amess-stabbed-and-killed-outside-london-11634307474) WSJ: An attacker stabbed and killed Conservative lawmaker David Amess, who was attending a meeting with people in his district. Police said a man had been arrested. 
- <p class="updated_time"> 05:49 AM CT, Oct. 15 </p> 
- [Scott Morrison: Australia PM to attend COP26 summit after global pressure](https://www.bbc.co.uk/news/world-australia-58907526?at_medium=RSS&at_campaign=KARANGA) BBC: Scott Morrison had said he might skip the summit, reigniting criticism of Australia's climate vows. 
  <p class="updated_time"> 05:40 AM CT, Oct. 15 </p> 
  [Kongsberg attack: Norwegian town left asking questions after murders](https://www.bbc.co.uk/news/world-europe-58923879?at_medium=RSS&at_campaign=KARANGA) BBC: The innocence of a quiet town outside Oslo is shattered and residents are demanding answers. 
  <p class="updated_time"> 05:18 AM CT, Oct. 15 </p> 
@@ -86,8 +90,6 @@ permalink: /charts/news/
  [Inflation Sets Off Alarms Around the World](https://www.wsj.com/articles/inflation-sets-off-alarms-around-the-world-11634304187) WSJ: More than a dozen central banks have raised interest rates but two that haven’t are those that loom largest over the global economy: the Federal Reserve and the European Central Bank. 
  <p class="updated_time"> 04:03 AM CT, Oct. 15 </p> 
  [Kongsberg attack: Norway probes bow and arrow suspect’s sanity](https://www.bbc.co.uk/news/world-europe-58924466?at_medium=RSS&at_campaign=KARANGA) BBC: Psychiatrists examine a man suspected of killing five people with a bow and arrows in Norway. 
- <p class="updated_time"> 03:40 AM CT, Oct. 15 </p> 
- [Afghan Mosque Hit by Deadly Suicide Bombing](https://www.wsj.com/articles/afghan-mosque-hit-by-deadly-suicide-bombing-11634297101) WSJ: A suicide attack at a Shiite mosque in southern Afghanistan killed at least 30 worshipers, the latest in a spate of attacks since the withdrawal of U.S. troops. 
  <p class="updated_time"> 03:39 AM CT, Oct. 15 </p> 
  [Man Whose Attack on Ex-Wife Was Livestreamed Gets Death Penalty in China](https://www.nytimes.com/2021/10/15/world/asia/china-livestream-killing-abuse.html) NYT: The case riveted the public’s attention in China and spotlighted the patchy enforcement of the country’s law against domestic violence. 
  <p class="updated_time"> 03:35 AM CT, Oct. 15 </p> 
@@ -178,8 +180,6 @@ permalink: /charts/news/
  [What is climate change? A really simple guide](https://www.bbc.co.uk/news/science-environment-24021772?at_medium=RSS&at_campaign=KARANGA) BBC: World temperatures are rising because of human activity, and climate change now threatens every aspect of human life. 
  <p class="updated_time"> 07:33 AM CT, Oct. 13 </p> 
  [Virginia’s Close Race](https://www.nytimes.com/2021/10/13/briefing/virginia-governors-race-youngkin-mcauliffe.html) NYT: We look at how the state’s governor’s race offers a preview of the midterms. 
- <p class="updated_time"> 05:57 AM CT, Oct. 13 </p> 
- [Amid U.S.-China Chill, Harvard Moves a Top Language Program to Taiwan](https://www.nytimes.com/2021/10/13/world/asia/harvard-chinese-program-taiwan.html) NYT: A university spokesman said the move out of Beijing had long been planned. The program’s director cited a perceived lack of friendliness from the host institution. 
  <p class="updated_time"> 05:01 AM CT, Oct. 11 </p> 
  [Climate change: Is the UK on track to meet its targets?](https://www.bbc.co.uk/news/58160547?at_medium=RSS&at_campaign=KARANGA) BBC: With weeks to go until the UK hosts a global climate summit, is the government on track to meet its own commitments? 
 
