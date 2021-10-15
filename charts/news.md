@@ -6,18 +6,20 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 09:19 AM CT, Oct. 15 </p> 
+ [David Amess, Conservative Lawmaker in U.K., Is Reportedly Stabbed](https://www.nytimes.com/2021/10/15/world/europe/conservative-mp-david-amess-stabbing.html) NYT: The member of Parliament, David Amess, was holding a meeting in his local constituency at the time of the attack. 
+ <p class="updated_time"> 09:05 AM CT, Oct. 15 </p> 
+ [Afghanistan: Suicide attack hits Kandahar mosque during prayers](https://www.bbc.co.uk/news/world-asia-58925863?at_medium=RSS&at_campaign=KARANGA) BBC: Explosions at a Shia mosque in Kandahar kill more than 30 people during Friday worship. 
  <p class="updated_time"> 08:59 AM CT, Oct. 15 </p> 
  [Live Updates: Italy’s Covid Vaccine Mandate Comes Into Force, a First for a Western Democracy](https://www.nytimes.com/live/2021/10/15/world/italy-covid-green-pass) NYT: All workers across public and private sectors are now required to be vaccinated or take frequent coronavirus tests. While many accepted the move as a necessity, it was greeted by protests in some parts of the country. 
  <p class="updated_time"> 08:51 AM CT, Oct. 15 </p> 
  [Covid: US to lift travel ban for fully jabbed on 8 November](https://www.bbc.co.uk/news/world-us-canada-58929441?at_medium=RSS&at_campaign=KARANGA) BBC: Fully vaccinated travellers will be allowed to enter the US for the first time since March 2020. 
- <p class="updated_time"> 08:49 AM CT, Oct. 15 </p> 
- [David Amess, Conservative Lawmaker in Britain, Is Reportedly Stabbed](https://www.nytimes.com/2021/10/15/world/europe/conservative-mp-david-amess-stabbing.html) NYT: The member of Parliament, David Amess, was holding a meeting in his local constituency at the time of the attack. 
- <p class="updated_time"> 08:40 AM CT, Oct. 15 </p> 
- [Afghanistan: Suicide attack hits Kandahar mosque during prayers](https://www.bbc.co.uk/news/world-asia-58925863?at_medium=RSS&at_campaign=KARANGA) BBC: Explosions at a Shia mosque in Kandahar kill more than 30 people during Friday worship. 
  <p class="updated_time"> 08:37 AM CT, Oct. 15 </p> 
  [Covid: Wave of Italian protests against mandatory work pass](https://www.bbc.co.uk/news/world-europe-58913865?at_medium=RSS&at_campaign=KARANGA) BBC: Thousands gather outside major ports, angry that the "Green Pass" is now mandatory for all workers. 
+ <p class="updated_time"> 08:37 AM CT, Oct. 15 </p> 
+ [German coalition plan sets bigger green targets](https://www.bbc.co.uk/news/world-europe-58924480?at_medium=RSS&at_campaign=KARANGA) BBC: German politicians seek a faster exit from coal power as part of a coalition deal. 
  <p class="updated_time"> 08:14 AM CT, Oct. 15 </p> 
- [Leader of West African Terrorist Group Is Dead, Nigerian Army Says](https://www.nytimes.com/2021/10/15/world/africa/nigeria-islamic-state-abu-musab-al-barnawi-dead.html) NYT: A top military commander said that Abu Musab al-Barnawi, head of an extremist organization known as the Islamic State West Africa Province, had died. 
+ [Abu Musab al-Barnawi, Leader of ISWAP, Has Died, Nigerian Army Says](https://www.nytimes.com/2021/10/15/world/africa/nigeria-islamic-state-abu-musab-al-barnawi-dead.html) NYT: A top military commander said that Abu Musab al-Barnawi, head of an extremist organization known as the Islamic State West Africa Province, had died. 
  <p class="updated_time"> 08:09 AM CT, Oct. 15 </p> 
  [Masten Wanjala: Mob beats Kenyan child serial killer to death - police](https://www.bbc.co.uk/news/world-africa-58923592?at_medium=RSS&at_campaign=KARANGA) BBC: Police had launched a massive manhunt for Masten Wanjala, who confessed to killing several children. 
  <p class="updated_time"> 08:07 AM CT, Oct. 15 </p> 
@@ -70,12 +72,12 @@ permalink: /charts/news/
  [Afghan Mosque Hit by Deadly Suicide Bombing](https://www.wsj.com/articles/afghan-mosque-hit-by-deadly-suicide-bombing-11634297101) WSJ: A suicide attack at a Shiite mosque in southern Afghanistan killed at least 30 worshipers, the latest in a spate of attacks since the withdrawal of U.S. troops. 
  <p class="updated_time"> 03:39 AM CT, Oct. 15 </p> 
  [Man Whose Attack on Ex-Wife Was Livestreamed Gets Death Penalty in China](https://www.nytimes.com/2021/10/15/world/asia/china-livestream-killing-abuse.html) NYT: The case riveted the public’s attention in China and spotlighted the patchy enforcement of the country’s law against domestic violence. 
+ <p class="updated_time"> 03:28 AM CT, Oct. 15 </p> 
+ [Italy Implements Tough Covid-19 Requirements for Workers](https://www.wsj.com/articles/italys-tough-workplace-covid-19-pass-a-harbinger-of-bidens-vaccine-mandate-11634300912) WSJ: Italians returned to their workplaces needing to show proof that they have received a Covid-19 vaccine, tested negative or recovered from the virus, a policy that could provide a preview of a similar mandate planned by the Biden administration. 
  <p class="updated_time"> 01:18 AM CT, Oct. 15 </p> 
  [Bill Clinton: Former US president in hospital for 'non-Covid infection'](https://www.bbc.co.uk/news/world-us-canada-58921615?at_medium=RSS&at_campaign=KARANGA) BBC: The former US president is said to be "on the mend" and "in good spirits" in hospital in California. 
  <p class="updated_time"> 11:09 PM CT, Oct. 14 </p> 
  [Your Friday Briefing](https://www.nytimes.com/2021/10/15/briefing/beirut-fighting-pandemic-america.html) NYT: The state of the pandemic in the U.S. 
- <p class="updated_time"> 11:07 PM CT, Oct. 14 </p> 
- [Hong Kong: Friendly beers lead to murder suspect's arrest](https://www.bbc.co.uk/news/world-asia-china-58922006?at_medium=RSS&at_campaign=KARANGA) BBC: The man went on the run after he allegedly killed a taxi driver, in a case that gripped the city. 
  <p class="updated_time"> 11:01 PM CT, Oct. 14 </p> 
  [LinkedIn to End Service in China, Citing ‘Challenging’ Environment](https://www.nytimes.com/2021/10/14/technology/linkedin-china-microsoft.html) NYT: The Microsoft-owned service had censored posts in China, in compliance with the country’s laws, to operate there. 
  <p class="updated_time"> 10:52 PM CT, Oct. 14 </p> 
@@ -134,8 +136,6 @@ permalink: /charts/news/
  [U.S. to Open Canada and Mexico Borders for Vaccinated Travelers](https://www.nytimes.com/2021/10/12/us/politics/us-canada-mexico-borders-open.html) NYT: Opening the borders with Mexico and Canada, where crossing for nonessential travel has been barred for 19 months, will reconnect neighbors and provide a reprieve for businesses. 
  <p class="updated_time"> 09:31 AM CT, Oct. 14 </p> 
  [British Museums Face Covid’s Long-Term Effects](https://www.nytimes.com/2021/10/14/arts/design/british-museums-recovery.html) NYT: Months of closures during the pandemic have caused financial havoc for art venues, and many expect to be strapped for years. At the Victoria and Albert Museum in London, the virus’s impact is clear. 
- <p class="updated_time"> 09:05 AM CT, Oct. 14 </p> 
- [World's Fair Offers a New View of Michelangelo's 'David': Just His Head](https://www.wsj.com/articles/worlds-fair-offers-a-new-view-of-michelangelos-david-just-his-head-11634234707) WSJ: A nearly 17-foot 3-D printed replica at Italy’s pavilion in Dubai showcases the biblical hero with its famous face visible on one floor and its body on another. 
  <p class="updated_time"> 08:51 AM CT, Oct. 14 </p> 
  [Gunfire erupts on Beirut streets after port explosion protest](https://www.bbc.co.uk/news/world-middle-east-58910056?at_medium=RSS&at_campaign=KARANGA) BBC: Several people are shot dead in gun battles following a protest over the Beirut port blast investigation. 
  <p class="updated_time"> 08:11 AM CT, Oct. 14 </p> 
