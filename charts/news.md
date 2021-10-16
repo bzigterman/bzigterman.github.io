@@ -6,6 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 01:37 PM CT, Oct. 16 </p> 
+ [In Venezuela, a Rum Maker Offers Gangsters a Life Outside of Crime](https://www.nytimes.com/2021/10/16/world/americas/venezuela-rum-rehabilitation-crime.html) NYT: In the process, the family running the company, Ron Santa Teresa, has gone from bankruptcy to exporting an award-winning vintage rum. 
  <p class="updated_time"> 01:19 PM CT, Oct. 16 </p> 
  [Nazanin Zaghari-Ratcliffe: British-Iranian aid worker loses court appeal in Iran](https://www.bbc.co.uk/news/world-middle-east-58940458?at_medium=RSS&at_campaign=KARANGA) BBC: Her family has told the BBC that they fear she could be returned to jail at any time. 
  <p class="updated_time"> 01:09 PM CT, Oct. 16 </p> 
@@ -22,8 +24,6 @@ permalink: /charts/news/
  [National Guard Called Up to Ease Crowding at Minnesota Hospitals ](https://www.nytimes.com/2021/10/16/world/americas/minnesota-governor-walz-national-guard-covid.html) NYT: Staffing shortages at long-term care facilities are preventing hospitals from discharging patients and admitting new ones. 
  <p class="updated_time"> 11:44 AM CT, Oct. 16 </p> 
  [Mixing and Matching Covid Vaccines Is Examined by F.D.A. Panel](https://www.nytimes.com/2021/10/16/us/mixing-vaccines.html) NYT: The agency’s expert advisers discussed the data on the approach, which is limited. 
- <p class="updated_time"> 11:10 AM CT, Oct. 16 </p> 
- [In Venezuela, a Rum Maker Offers Gangsters a Life Outside of Crime](https://www.nytimes.com/2021/10/16/world/americas/venezuela-rum-rehabilitation-crime.html) NYT: In the process, the family running the company, Ron Santa Teresa, has gone from bankruptcy to exporting an award-winning vintage rum. 
  <p class="updated_time"> 10:56 AM CT, Oct. 16 </p> 
  [After Iraqi Election, a Shiite Leader Emerges as an Unlikely U.S. Ally](https://www.nytimes.com/2021/10/16/world/middleeast/iraq-sadr-election.html) NYT: The U.S. once threatened to kill Muqtada al-Sadr as his militia battled occupying forces. Now, the powerful cleric is helping Washington by keeping Iran at bay. 
  <p class="updated_time"> 10:48 AM CT, Oct. 16 </p> 
