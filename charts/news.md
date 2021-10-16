@@ -6,6 +6,10 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 09:48 PM CT, Oct. 15 </p> 
+ [Lebanon Observes Day of Mourning After Deadly Sectarian Clashes](https://www.nytimes.com/2021/10/15/world/middleeast/lebanon-beirut-violence-explosion.html) NYT: The death toll rose to seven a day after gun battles between Christian and Shiite Muslim militias erupted amid tensions over an investigation into the port explosion last year. 
+ <p class="updated_time"> 09:22 PM CT, Oct. 15 </p> 
+ [Blast at Afghan Mosque Kills Dozens as Shiites Are Targeted Again](https://www.nytimes.com/2021/10/15/world/asia/afghanistan-mosque-blast.html) NYT: It was the second week in a row that attackers had struck a Shiite place of worship during Friday Prayer. 
  <p class="updated_time"> 08:52 PM CT, Oct. 15 </p> 
  [Squid Game: The rise of Korean drama addiction](https://www.bbc.co.uk/news/entertainment-arts-58896247?at_medium=RSS&at_campaign=KARANGA) BBC: Finished Squid Game? Here's a quick lowdown on other K-dramas for new converts. 
  <p class="updated_time"> 08:14 PM CT, Oct. 15 </p> 
@@ -14,8 +18,6 @@ permalink: /charts/news/
  [Viewpoint: Why Ethiopia's Tigray region is starving, but no famine declared](https://www.bbc.co.uk/news/world-africa-58921744?at_medium=RSS&at_campaign=KARANGA) BBC: Despite mass starvation in northern Ethiopia, aid officials are not calling the situation a famine. 
  <p class="updated_time"> 07:57 PM CT, Oct. 15 </p> 
  [Week in pictures: 9 - 15 October 2021](https://www.bbc.co.uk/news/in-pictures-58911596?at_medium=RSS&at_campaign=KARANGA) BBC: A selection of powerful images from all over the globe, taken this week. 
- <p class="updated_time"> 07:55 PM CT, Oct. 15 </p> 
- [Blast at Afghan Mosque Kills Dozens as Shiites Are Targeted Again](https://www.nytimes.com/2021/10/15/world/asia/afghanistan-mosque-blast.html) NYT: It was the second week in a row that attackers had struck a Shiite place of worship during Friday Prayer. 
  <p class="updated_time"> 07:28 PM CT, Oct. 15 </p> 
  [David Amess, Conservative Lawmaker in U.K., Is Fatally Stabbed ](https://www.nytimes.com/2021/10/15/world/europe/conservative-mp-david-amess-stabbing.html) NYT: David Amess, a Conservative member of Parliament, was holding a meeting in his constituency at the time. He is the second politician killed in an attack in just over five years. 
  <p class="updated_time"> 07:22 PM CT, Oct. 15 </p> 
@@ -56,8 +58,6 @@ permalink: /charts/news/
  [Abu Musab al-Barnawi, Leader of ISWAP, Has Died, Nigerian Army Says](https://www.nytimes.com/2021/10/15/world/africa/nigeria-islamic-state-abu-musab-al-barnawi-dead.html) NYT: A top military commander said that Abu Musab al-Barnawi, a kingpin of an extremist organization known as the Islamic State West Africa Province, had died. 
  <p class="updated_time"> 01:28 PM CT, Oct. 15 </p> 
  [Cricket - CSK beat KKR to win fourth IPL title](https://www.bbc.co.uk/sport/cricket/58929602?at_medium=RSS&at_campaign=KARANGA) BBC: Chennai Super Kings have been crowned Indian Premier League champions for the fourth time after beating Kolkata Knight Riders by 27 runs in the final. 
- <p class="updated_time"> 12:36 PM CT, Oct. 15 </p> 
- [Lebanon Observes Day of Mourning After Deadly Sectarian Clashes](https://www.nytimes.com/2021/10/15/world/middleeast/lebanon-beirut-violence-explosion.html) NYT: The death toll rose to seven a day after gun battles between Christian and Shiite Muslim militias erupted amid tensions over an investigation into the port explosion last year. 
  <p class="updated_time"> 12:15 PM CT, Oct. 15 </p> 
  [Australian residents stranded overseas will be allowed to return to New South Wales.](https://www.nytimes.com/2021/10/15/world/australia/australian-residents-stranded-overseas-will-be-allowed-to-return-to-new-south-wales.html) NYT: NA 
  <p class="updated_time"> 12:06 PM CT, Oct. 15 </p> 
