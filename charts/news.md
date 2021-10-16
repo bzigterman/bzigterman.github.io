@@ -6,12 +6,14 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 12:23 PM CT, Oct. 16 </p> 
+ [Nazanin Zaghari-Ratcliffe: British-Iranian aid worker loses court appeal in Iran](https://www.bbc.co.uk/news/world-middle-east-58940458?at_medium=RSS&at_campaign=KARANGA) BBC: Her family has told the BBC that they fear she could be returned to jail at any time. 
+ <p class="updated_time"> 12:18 PM CT, Oct. 16 </p> 
+ [How 3 Strangers a World Away Came to the Rescue of a Badly Burned Afghan Girl](https://www.nytimes.com/2021/10/16/world/afghanistan-girl-burn-evacuation-military.html) NYT: The story of 8-year-old Asma, injured by a U.S. tear-gas canister, echoes the heartbreak and heroism of the 20-year American misadventure in Afghanistan. 
  <p class="updated_time"> 11:48 AM CT, Oct. 16 </p> 
- [Minnesota’s governor calls up the National Guard to ease crowding in hospitals.](https://www.nytimes.com/2021/10/16/world/americas/minnesota-governor-walz-national-guard-covid.html) NYT: Staffing shortages at long-term care facilities are preventing hospitals from discharging patients and admitting new ones. 
+ [National Guard Called Up to Ease Crowding at Minnesota Hospitals ](https://www.nytimes.com/2021/10/16/world/americas/minnesota-governor-walz-national-guard-covid.html) NYT: Staffing shortages at long-term care facilities are preventing hospitals from discharging patients and admitting new ones. 
  <p class="updated_time"> 11:44 AM CT, Oct. 16 </p> 
  [Mixing and Matching Covid Vaccines Is Examined by F.D.A. Panel](https://www.nytimes.com/2021/10/16/us/mixing-vaccines.html) NYT: The agency’s expert advisers discussed the data on the approach, which is limited. 
- <p class="updated_time"> 11:40 AM CT, Oct. 16 </p> 
- [How 3 Strangers a World Away Came to the Rescue of a Badly Burned Afghan Girl](https://www.nytimes.com/2021/10/16/world/afghanistan-girl-burn-evacuation-military.html) NYT: The story of 8-year-old Asma, injured by a U.S. tear-gas canister, echoes the heartbreak and heroism of the 20-year American misadventure in Afghanistan. 
  <p class="updated_time"> 11:10 AM CT, Oct. 16 </p> 
  [In Venezuela, a Rum Maker Offers Gangsters a Life Outside of Crime](https://www.nytimes.com/2021/10/16/world/americas/venezuela-rum-rehabilitation-crime.html) NYT: In the process, the family running the company, Ron Santa Teresa, has gone from bankruptcy to exporting an award-winning vintage rum. 
  <p class="updated_time"> 10:56 AM CT, Oct. 16 </p> 
@@ -36,8 +38,6 @@ permalink: /charts/news/
  [Dormice favoured by Italian mafia seized in drugs raid](https://www.bbc.co.uk/news/world-europe-58938494?at_medium=RSS&at_campaign=KARANGA) BBC: Italian police search a cannabis farm and seize a stash of 235 frozen dormice - a mafia delicacy. 
  <p class="updated_time"> 09:09 AM CT, Oct. 16 </p> 
  [Beirut, a City Where Everyone Gets By, Revisits Sectarian Violence](https://www.nytimes.com/2021/10/16/world/middleeast/beirut-lebanon-sectarian-violence.html) NYT: Lebanon’s capital thrives on its religious diversity, but sectarian tensions and memories of civil war lurk just beneath the surface. 
- <p class="updated_time"> 09:02 AM CT, Oct. 16 </p> 
- [Nazanin Zaghari-Ratcliffe: British-Iranian aid worker loses court appeal in Iran](https://www.bbc.co.uk/news/world-middle-east-58940458?at_medium=RSS&at_campaign=KARANGA) BBC: Her family has told the BBC that they fear she could be returned to jail at any time. 
  <p class="updated_time"> 08:37 AM CT, Oct. 16 </p> 
  [Sir David Amess killing casts shadow over Leigh-on-Sea constituency](https://www.bbc.co.uk/news/uk-england-essex-58938850?at_medium=RSS&at_campaign=KARANGA) BBC: Constituents in Leigh-on-Sea mourn Sir David Amess as they try to make sense of what happened. 
  <p class="updated_time"> 08:30 AM CT, Oct. 16 </p> 
@@ -61,7 +61,7 @@ permalink: /charts/news/
  <p class="updated_time"> 04:00 AM CT, Oct. 16 </p> 
  [China's Scripted Homicides Become a Popular Pastime](https://www.nytimes.com/2021/10/16/world/asia/china-murder-script.html) NYT: “Scripted homicide” clubs have opened around the country as young people look for ways to escape and connect. Naturally, the government has questions. 
  <p class="updated_time"> 03:31 AM CT, Oct. 16 </p> 
- [Some Sell Children as Afghanistan Sinks Into Destitution](https://www.wsj.com/articles/as-afghanistan-sinks-into-destitution-some-sell-children-to-survive-11634387501) WSJ: Such is the starkness of deepening poverty in Afghanistan, a humanitarian crisis that is worsening fast after the Taliban seized power and most foreign aid ended. 
+ [Some Sell Children as Afghanistan Sinks Into Destitution](https://www.wsj.com/articles/as-afghanistan-sinks-into-destitution-some-sell-children-to-survive-11634387501) WSJ: Poverty in Afghanistan is worsening fast after the Taliban seized power and most foreign aid ended. 
  <p class="updated_time"> 03:02 AM CT, Oct. 16 </p> 
  [Myanmar's Military Junta Denied a Seat at Asean Summit](https://www.wsj.com/articles/myanmars-military-junta-denied-a-seat-at-asean-summit-11634385775) WSJ: The regional bloc’s decision effectively sidelines Myanmar’s bid for international legitimacy and increases pressure on the country to cooperate with its neighbors to resolve its political crisis. 
  <p class="updated_time"> 02:55 AM CT, Oct. 16 </p> 
