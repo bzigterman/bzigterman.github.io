@@ -6,14 +6,18 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 09:05 AM CT, Oct. 16 </p> 
+ [Myanmar army general Min Aung Hlaing excluded from leaders' summit](https://www.bbc.co.uk/news/world-asia-58938489?at_medium=RSS&at_campaign=KARANGA) BBC: South East Asian countries decide not to invite the military coup leader to their meeting. 
+ <p class="updated_time"> 09:03 AM CT, Oct. 16 </p> 
+ [With Lawmaker’s Killing, the U.K. Confronts a New Episode of Terrorism](https://www.nytimes.com/2021/10/16/world/europe/uk-stabbing-terrorism.html) NYT: Prime Minister Boris Johnson and other leaders paid their respects to David Amess, who was fatally stabbed while meeting with constituents. The police have a suspect in custody and said the attack was linked to Islamist extremism. 
+ <p class="updated_time"> 09:02 AM CT, Oct. 16 </p> 
+ [Nazanin Zaghari-Ratcliffe: British-Iranian aid worker loses court appeal in Iran](https://www.bbc.co.uk/news/world-middle-east-58940458?at_medium=RSS&at_campaign=KARANGA) BBC: Her family have told the BBC that they fear she could be returned to jail at any time. 
  <p class="updated_time"> 08:37 AM CT, Oct. 16 </p> 
  [Sir David Amess killing casts shadow over Leigh-on-Sea constituency](https://www.bbc.co.uk/news/uk-england-essex-58938850?at_medium=RSS&at_campaign=KARANGA) BBC: Constituents in Leigh-on-Sea mourn Sir David Amess as they try to make sense of what happened. 
  <p class="updated_time"> 08:30 AM CT, Oct. 16 </p> 
  [Quebec Language Debate Spurs Eerie Sense of Déjà-Vu](https://www.nytimes.com/2021/10/15/world/canada/quebec-language-debate.html) NYT: For a Montreal-based Times correspondent, proposed language legislation brings back memories of the 1970s. 
  <p class="updated_time"> 08:23 AM CT, Oct. 16 </p> 
  [What Are Political ‘Surgeries’ in Britain?](https://www.nytimes.com/2021/10/16/world/europe/political-surgeries-uk.html) NYT: The person-to-person meetings with voters give Britons unusually good access to their political representatives. But questions are being asked about whether the tradition can continue. 
- <p class="updated_time"> 08:14 AM CT, Oct. 16 </p> 
- [With Lawmaker’s Killing, the U.K. Confronts a New Episode of Terrorism](https://www.nytimes.com/2021/10/16/world/europe/uk-stabbing-terrorism.html) NYT: Prime Minister Boris Johnson and other leaders paid their respects to David Amess, who was fatally stabbed while meeting with constituents. The police have a suspect in custody and said the attack was linked to Islamist extremism. 
  <p class="updated_time"> 07:13 AM CT, Oct. 16 </p> 
  [David Amess, Conservative Lawmaker in U.K., Is Fatally Stabbed ](https://www.nytimes.com/2021/10/15/world/europe/conservative-mp-david-amess-stabbing.html) NYT: David Amess, a Conservative member of Parliament, was holding a meeting in his constituency at the time. He is the second politician killed in an attack in just over five years. 
  <p class="updated_time"> 07:09 AM CT, Oct. 16 </p> 
@@ -24,8 +28,6 @@ permalink: /charts/news/
  [Sir David Amess killing: Security for politicians is a global dilemma](https://www.bbc.co.uk/news/world-58937581?at_medium=RSS&at_campaign=KARANGA) BBC: Why the need to be a people's representative and the need for personal safety are in constant conflict. 
  <p class="updated_time"> 05:15 AM CT, Oct. 16 </p> 
  [Covid: Russia's daily deaths pass 1,000 for first time](https://www.bbc.co.uk/news/world-europe-58937582?at_medium=RSS&at_campaign=KARANGA) BBC: Infections continue to soar as the Kremlin struggles to persuade people to get vaccinated. 
- <p class="updated_time"> 05:05 AM CT, Oct. 16 </p> 
- [Myanmar army general Min Aung Hlaing excluded from leaders' summit](https://www.bbc.co.uk/news/world-asia-58938489?at_medium=RSS&at_campaign=KARANGA) BBC: South East Asian countries decide not to invite the military coup leader to their meeting. 
  <p class="updated_time"> 04:53 AM CT, Oct. 16 </p> 
  [Squid Game: The rise of Korean drama addiction](https://www.bbc.co.uk/news/entertainment-arts-58896247?at_medium=RSS&at_campaign=KARANGA) BBC: Finished Squid Game? Here's a quick lowdown on other K-dramas for new converts. 
  <p class="updated_time"> 04:44 AM CT, Oct. 16 </p> 
@@ -64,8 +66,6 @@ permalink: /charts/news/
  [Viewpoint: Why Ethiopia's Tigray region is starving, but no famine declared](https://www.bbc.co.uk/news/world-africa-58921744?at_medium=RSS&at_campaign=KARANGA) BBC: Despite mass starvation in northern Ethiopia, aid officials are not calling the situation a famine. 
  <p class="updated_time"> 07:57 PM CT, Oct. 15 </p> 
  [Week in pictures: 9 - 15 October 2021](https://www.bbc.co.uk/news/in-pictures-58911596?at_medium=RSS&at_campaign=KARANGA) BBC: A selection of powerful images from all over the globe, taken this week. 
- <p class="updated_time"> 07:22 PM CT, Oct. 15 </p> 
- [Afghanistan: Suicide attack hits Kandahar mosque during prayers](https://www.bbc.co.uk/news/world-asia-58925863?at_medium=RSS&at_campaign=KARANGA) BBC: Explosions at a Shia mosque in Kandahar kill more than 40 people during Friday worship. 
  <p class="updated_time"> 06:58 PM CT, Oct. 15 </p> 
  [Italy's New Law Requires Workers to Get Covid Vaccine or Testing](https://www.nytimes.com/2021/10/15/world/europe/italy-vaccination-law-covid.html) NYT: The rollout went more or less smoothly, with only scattered protests, as the majority of citizens accepted the ‘Green Pass’ as a tolerable sacrifice to stem the Covid pandemic. 
  <p class="updated_time"> 06:57 PM CT, Oct. 15 </p> 
@@ -92,6 +92,8 @@ permalink: /charts/news/
  [Pandemic-stricken Thailand, aiming to revive tourism, reopens the cave a soccer team was trapped in.](https://www.nytimes.com/2021/10/15/world/thailand-lets-tourists-return-to-the-cave-where-a-soccer-team-was-rescued.html) NYT: NA 
  <p class="updated_time"> 02:42 PM CT, Oct. 15 </p> 
  [Virgin Galactic delays first commercial space flight](https://www.bbc.co.uk/news/business-58930280?at_medium=RSS&at_campaign=KARANGA) BBC: Shares in the firm dive 20% as it delays first tourist flight to make upgrades. 
+ <p class="updated_time"> 02:08 PM CT, Oct. 15 </p> 
+ ['David Amess was my best friend': Essex town in grief](https://www.bbc.co.uk/news/uk-england-essex-58928927?at_medium=RSS&at_campaign=KARANGA) BBC: Residents choke back tears on the streets of Leigh-on Sea as they remember their compassionate MP. 
  <p class="updated_time"> 01:58 PM CT, Oct. 15 </p> 
  [Abu Musab al-Barnawi, Leader of ISWAP, Has Died, Nigerian Army Says](https://www.nytimes.com/2021/10/15/world/africa/nigeria-islamic-state-abu-musab-al-barnawi-dead.html) NYT: A top military commander said that Abu Musab al-Barnawi, a kingpin of an extremist organization known as the Islamic State West Africa Province, had died. 
  <p class="updated_time"> 01:29 PM CT, Oct. 15 </p> 
@@ -152,18 +154,10 @@ permalink: /charts/news/
  [North Korean Soldiers Lie Shirtless on Broken Glass](https://www.nytimes.com/2021/10/14/world/asia/north-korea-propaganda-military-broken-glass.html) NYT: The country has never been known for its subtlety, and martial-art stunts have long been a mainstay of its propaganda, designed to stoke national pride and instill fear in enemies. 
  <p class="updated_time"> 08:19 PM CT, Oct. 14 </p> 
  [Faulty Studs Led to Mexico City Metro Collapse, Attorney General Says](https://www.nytimes.com/2021/10/14/world/americas/mexico-city-metro-collapse.html) NYT: A monthslong investigation by city authorities supports the central findings of a New York Times investigation, which had uncovered a series of fatal construction flaws. 
- <p class="updated_time"> 08:04 PM CT, Oct. 14 </p> 
- [The mystery of how long Covid damages our memory](https://www.bbc.co.uk/news/world-us-canada-58918869?at_medium=RSS&at_campaign=KARANGA) BBC: Since Chrissy Gibson was diagnosed with Covid-19, she has had to re-learn many aspects of her life. 
  <p class="updated_time"> 07:31 PM CT, Oct. 14 </p> 
  [Biden Meets With Kenya’s President Amid Crisis in Ethiopia](https://www.nytimes.com/2021/10/14/us/politics/biden-kenya-kenyatta-ethiopia.html) NYT: The two leaders were also expected to discuss the escalating humanitarian crisis in the Tigray region of Ethiopia, where fighters have been accused of atrocities against civilians. 
  <p class="updated_time"> 07:05 PM CT, Oct. 14 </p> 
  [South Korea will donate 1.6 million vaccine doses to Vietnam and Thailand.](https://www.nytimes.com/2021/10/14/world/south-korea-will-donate-1-6-million-vaccine-doses-to-vietnam-and-thailand.html) NYT: NA 
- <p class="updated_time"> 07:01 PM CT, Oct. 14 </p> 
- [Africa's week in pictures: 8-14 October 2021](https://www.bbc.co.uk/news/world-africa-58909966?at_medium=RSS&at_campaign=KARANGA) BBC: A selection of the best photos from the African continent and beyond. 
- <p class="updated_time"> 06:57 PM CT, Oct. 14 </p> 
- [South Sudan: How to deliver Covid vaccines in a country with few roads](https://www.bbc.co.uk/news/world-africa-58911911?at_medium=RSS&at_campaign=KARANGA) BBC: Delivering vaccines around South Sudan is more expensive than the cost of the jab itself. 
- <p class="updated_time"> 06:48 PM CT, Oct. 14 </p> 
- [Produce Pandas: The plus-size musicians making waves in China](https://www.bbc.co.uk/news/world-asia-china-58495677?at_medium=RSS&at_campaign=KARANGA) BBC: As stars are criticised for being image-obsessed, more relatable celebrities have become popular. 
  <p class="updated_time"> 06:10 PM CT, Oct. 14 </p> 
  ['They will hang me': Afghan interpreters blocked by UK seek appeal](https://www.bbc.co.uk/news/world-asia-58830736?at_medium=RSS&at_campaign=KARANGA) BBC: Former interpreters fear for their lives after the UK blocks their evacuation on security grounds. 
  <p class="updated_time"> 05:10 PM CT, Oct. 14 </p> 
