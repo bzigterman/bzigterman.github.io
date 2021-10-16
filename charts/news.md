@@ -63,7 +63,7 @@ permalink: /charts/news/
  <p class="updated_time"> 06:01 PM CT, Oct. 15 </p> 
  [Meghan Markle's donation a 'lifesaver' for community kitchen users](https://www.bbc.co.uk/news/uk-england-nottinghamshire-58872804?at_medium=RSS&at_campaign=KARANGA) BBC: Money donated by the Duchess of Sussex has been spent on feeding Nottingham's most vulnerable. 
  <p class="updated_time"> 06:01 PM CT, Oct. 15 </p> 
- [Ros Atkins on… China-Taiwan Tensions](https://www.bbc.co.uk/news/world-58925971?at_medium=RSS&at_campaign=KARANGA) BBC: Ros Atkins examines why tensions between China and Taiwan have increased over recent weeks. 
+ [Ros Atkins on… China-Taiwan tensions](https://www.bbc.co.uk/news/world-58925971?at_medium=RSS&at_campaign=KARANGA) BBC: Ros Atkins examines why tensions between China and Taiwan have increased over recent weeks. 
  <p class="updated_time"> 06:00 PM CT, Oct. 15 </p> 
  [Life at 50C: Fleeing Sahara's shifting sands](https://www.bbc.co.uk/news/science-environment-58925616?at_medium=RSS&at_campaign=KARANGA) BBC: Rising temperatures and desertification are forcing many Mauritanians to leave their ancestral homes. 
  <p class="updated_time"> 05:00 PM CT, Oct. 15 </p> 
