@@ -6,6 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 10:17 PM CT, Oct. 15 </p> 
+ [Mining for Gold in Australia’s Migrant Past](https://www.nytimes.com/2021/10/15/world/asia/new-gold-mountain-chinese-immigrants.html) NYT: “New Gold Mountain” highlights the complications of belonging for immigrants then and now. 
  <p class="updated_time"> 09:48 PM CT, Oct. 15 </p> 
  [Lebanon Observes Day of Mourning After Deadly Sectarian Clashes](https://www.nytimes.com/2021/10/15/world/middleeast/lebanon-beirut-violence-explosion.html) NYT: The death toll rose to seven a day after gun battles between Christian and Shiite Muslim militias erupted amid tensions over an investigation into the port explosion last year. 
  <p class="updated_time"> 09:22 PM CT, Oct. 15 </p> 
@@ -182,8 +184,6 @@ permalink: /charts/news/
  [W.H.O Names Advisory Group to Study Origin of Covid Pandemic](https://www.nytimes.com/2021/10/13/science/who-coronavirus-origins.html) NYT: The group includes scientists from 26 countries, a reflection of the W.H.O.’s effort to amass widespread international support for the work. 
  <p class="updated_time"> 01:09 PM CT, Oct. 13 </p> 
  [Czechs Defeat a Populist, Offering a Road Map for Toppling Strongmen](https://www.nytimes.com/2021/10/13/world/europe/czech-populism-strongmen.html) NYT: A wide range of parties in the Czech Republic banded together despite their differences to oppose Andrej Babis, the country’s populist prime minister. Opposition parties in Hungary are hoping to duplicate the feat. 
- <p class="updated_time"> 11:24 AM CT, Oct. 13 </p> 
- [John Paul I, Pope for 33 Days in 1978, Will Be Beatified](https://www.nytimes.com/2021/10/13/world/europe/pope-john-paul-i-beatified-saint.html) NYT: Pope Francis approved a miracle attributed to the last Italian pope, bringing him a step closer to becoming a saint. 
  <p class="updated_time"> 07:50 AM CT, Oct. 13 </p> 
  [What is climate change? A really simple guide](https://www.bbc.co.uk/news/science-environment-24021772?at_medium=RSS&at_campaign=KARANGA) BBC: World temperatures are rising because of human activity, and climate change now threatens every aspect of human life. 
  <p class="updated_time"> 05:01 AM CT, Oct. 11 </p> 
