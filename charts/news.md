@@ -6,6 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 05:39 AM CT, Oct. 16 </p> 
+ [Sir David Amess killing: Security for politicians is a global dilemma](https://www.bbc.co.uk/news/world-58937581?at_medium=RSS&at_campaign=KARANGA) BBC: Why the need to be a people's representative and the need for personal safety are in constant conflict. 
  <p class="updated_time"> 05:36 AM CT, Oct. 16 </p> 
  [What Are Political ‘Surgeries’ in Britain?](https://www.nytimes.com/2021/10/16/world/europe/political-surgeries-uk.html) NYT: The person-to-person meetings with voters give Britons unusually good access to their political representatives. But questions are being asked about whether the tradition can continue. 
  <p class="updated_time"> 05:05 AM CT, Oct. 16 </p> 
@@ -78,8 +80,6 @@ permalink: /charts/news/
  [Pandemic-stricken Thailand, aiming to revive tourism, reopens the cave a soccer team was trapped in.](https://www.nytimes.com/2021/10/15/world/thailand-lets-tourists-return-to-the-cave-where-a-soccer-team-was-rescued.html) NYT: NA 
  <p class="updated_time"> 02:42 PM CT, Oct. 15 </p> 
  [Virgin Galactic delays first commercial space flight](https://www.bbc.co.uk/news/business-58930280?at_medium=RSS&at_campaign=KARANGA) BBC: Shares in the firm dive 20% as it delays first tourist flight to make upgrades. 
- <p class="updated_time"> 02:08 PM CT, Oct. 15 </p> 
- ['David Amess was my best friend': Essex town in grief](https://www.bbc.co.uk/news/uk-england-essex-58928927?at_medium=RSS&at_campaign=KARANGA) BBC: Residents choke back tears on the streets of Leigh-on Sea as they remember their compassionate MP. 
  <p class="updated_time"> 01:58 PM CT, Oct. 15 </p> 
  [Abu Musab al-Barnawi, Leader of ISWAP, Has Died, Nigerian Army Says](https://www.nytimes.com/2021/10/15/world/africa/nigeria-islamic-state-abu-musab-al-barnawi-dead.html) NYT: A top military commander said that Abu Musab al-Barnawi, a kingpin of an extremist organization known as the Islamic State West Africa Province, had died. 
  <p class="updated_time"> 01:29 PM CT, Oct. 15 </p> 
