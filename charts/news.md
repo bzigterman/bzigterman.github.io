@@ -6,8 +6,12 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 11:10 AM CT, Oct. 16 </p> 
+ [In Venezuela, a Rum Maker Offers Gangsters a Life Outside of Crime](https://www.nytimes.com/2021/10/16/world/americas/venezuela-rum-rehabilitation-crime.html) NYT: In the process, the family running the company, Ron Santa Teresa, has gone from bankruptcy to exporting an award-winning vintage rum. 
+ <p class="updated_time"> 10:56 AM CT, Oct. 16 </p> 
+ [After Iraqi Election, a Shiite Leader Emerges as an Unlikely U.S. Ally](https://www.nytimes.com/2021/10/16/world/middleeast/iraq-sadr-election.html) NYT: The U.S. once threatened to kill Muqtada al-Sadr as his militia battled occupying forces. Now, the powerful cleric is helping Washington by keeping Iran at bay. 
  <p class="updated_time"> 10:33 AM CT, Oct. 16 </p> 
- [Mixing and Matching Covid Vaccines Is Examined by F.D.A.](https://www.nytimes.com/2021/10/16/us/mixing-vaccines.html) NYT: The agency’s expert advisers discussed the data on the approach, which is limited. 
+ [Mixing and Matching Covid Vaccines Is Examined by F.D.A. Panel](https://www.nytimes.com/2021/10/16/us/mixing-vaccines.html) NYT: The agency’s expert advisers discussed the data on the approach, which is limited. 
  <p class="updated_time"> 10:31 AM CT, Oct. 16 </p> 
  [Lebanon Observes Day of Mourning After Deadly Sectarian Clashes](https://www.nytimes.com/2021/10/15/world/middleeast/lebanon-beirut-violence-explosion.html) NYT: The death toll rose to seven a day after gun battles between Christian and Shiite Muslim militias erupted amid tensions over an investigation into the port explosion last year. 
  <p class="updated_time"> 10:29 AM CT, Oct. 16 </p> 
@@ -29,7 +33,7 @@ permalink: /charts/news/
  <p class="updated_time"> 09:09 AM CT, Oct. 16 </p> 
  [Beirut, a City Where Everyone Gets By, Revisits Sectarian Violence](https://www.nytimes.com/2021/10/16/world/middleeast/beirut-lebanon-sectarian-violence.html) NYT: Lebanon’s capital thrives on its religious diversity, but sectarian tensions and memories of civil war lurk just beneath the surface. 
  <p class="updated_time"> 09:02 AM CT, Oct. 16 </p> 
- [Nazanin Zaghari-Ratcliffe: British-Iranian aid worker loses court appeal in Iran](https://www.bbc.co.uk/news/world-middle-east-58940458?at_medium=RSS&at_campaign=KARANGA) BBC: Her family have told the BBC that they fear she could be returned to jail at any time. 
+ [Nazanin Zaghari-Ratcliffe: British-Iranian aid worker loses court appeal in Iran](https://www.bbc.co.uk/news/world-middle-east-58940458?at_medium=RSS&at_campaign=KARANGA) BBC: Her family has told the BBC that they fear she could be returned to jail at any time. 
  <p class="updated_time"> 08:37 AM CT, Oct. 16 </p> 
  [Sir David Amess killing casts shadow over Leigh-on-Sea constituency](https://www.bbc.co.uk/news/uk-england-essex-58938850?at_medium=RSS&at_campaign=KARANGA) BBC: Constituents in Leigh-on-Sea mourn Sir David Amess as they try to make sense of what happened. 
  <p class="updated_time"> 08:30 AM CT, Oct. 16 </p> 
@@ -38,10 +42,10 @@ permalink: /charts/news/
  [What Are Political ‘Surgeries’ in Britain?](https://www.nytimes.com/2021/10/16/world/europe/political-surgeries-uk.html) NYT: The person-to-person meetings with voters give Britons unusually good access to their political representatives. But questions are being asked about whether the tradition can continue. 
  <p class="updated_time"> 07:13 AM CT, Oct. 16 </p> 
  [David Amess, Conservative Lawmaker in U.K., Is Fatally Stabbed ](https://www.nytimes.com/2021/10/15/world/europe/conservative-mp-david-amess-stabbing.html) NYT: David Amess, a Conservative member of Parliament, was holding a meeting in his constituency at the time. He is the second politician killed in an attack in just over five years. 
+ <p class="updated_time"> 07:11 AM CT, Oct. 16 </p> 
+ [Islamic State Bombing Kills at Least 65 People in Southern Afghanistan](https://www.wsj.com/articles/afghan-mosque-hit-by-deadly-suicide-bombing-11634297101) WSJ: The killings in Kandahar, the Taliban’s historic stronghold, follow a spate of Islamic State attacks on the country’s religious minority sect. 
  <p class="updated_time"> 07:09 AM CT, Oct. 16 </p> 
  [What we know so far](https://www.bbc.co.uk/news/uk-58922522?at_medium=RSS&at_campaign=KARANGA) BBC: What happened, what we know about the suspect, who the MP was, and what witnesses saw at the scene. 
- <p class="updated_time"> 07:07 AM CT, Oct. 16 </p> 
- [In Venezuela, a Rum Maker Offers Gangsters a Life Outside of Crime](https://www.nytimes.com/2021/10/16/world/americas/venezuela-rum-rehabilitation-crime.html) NYT: In the process, the family running the company, Ron Santa Teresa, has gone from bankruptcy to exporting an award-winning vintage rum. 
  <p class="updated_time"> 05:39 AM CT, Oct. 16 </p> 
  [Sir David Amess killing: Security for politicians is a global dilemma](https://www.bbc.co.uk/news/world-58937581?at_medium=RSS&at_campaign=KARANGA) BBC: Why the need to be a people's representative and the need for personal safety are in constant conflict. 
  <p class="updated_time"> 04:53 AM CT, Oct. 16 </p> 
@@ -70,8 +74,6 @@ permalink: /charts/news/
  [Afghanistan: US offers to pay relatives of Kabul drone attack victims](https://www.bbc.co.uk/news/world-us-canada-58935260?at_medium=RSS&at_campaign=KARANGA) BBC: Ten people were mistakenly killed by the US military in a drone strike on the Afghan capital. 
  <p class="updated_time"> 10:17 PM CT, Oct. 15 </p> 
  [Mining for Gold in Australia’s Migrant Past](https://www.nytimes.com/2021/10/15/world/asia/new-gold-mountain-chinese-immigrants.html) NYT: “New Gold Mountain” highlights the complications of belonging for immigrants then and now. 
- <p class="updated_time"> 10:12 PM CT, Oct. 15 </p> 
- [Islamic State Bombing Kills at Least 38 People in Southern Afghanistan](https://www.wsj.com/articles/afghan-mosque-hit-by-deadly-suicide-bombing-11634297101) WSJ: The killings in Kandahar, the Taliban’s historic stronghold, follow a spate of Islamic State attacks on the country’s religious minority sect. 
  <p class="updated_time"> 09:22 PM CT, Oct. 15 </p> 
  [Blast at Afghan Mosque Kills Dozens as Shiites Are Targeted Again](https://www.nytimes.com/2021/10/15/world/asia/afghanistan-mosque-blast.html) NYT: It was the second week in a row that attackers had struck a Shiite place of worship during Friday Prayer. 
  <p class="updated_time"> 08:14 PM CT, Oct. 15 </p> 
@@ -184,8 +186,6 @@ permalink: /charts/news/
  [Gunfire erupts on Beirut streets after port explosion protest](https://www.bbc.co.uk/news/world-middle-east-58910056?at_medium=RSS&at_campaign=KARANGA) BBC: Several people are shot dead in gun battles following a protest over the Beirut port blast investigation. 
  <p class="updated_time"> 04:08 AM CT, Oct. 14 </p> 
  [Kyrie Irving Defends Decision on Vaccine After Being Benched](https://www.nytimes.com/2021/10/13/world/kyrie-irving-vaccine-benched-nets.html) NYT: The N.B.A. star, who is set to make $40 million this year, said he opposes vaccine mandates, saying nobody should be “forced” to do it. 
- <p class="updated_time"> 10:46 PM CT, Oct. 13 </p> 
- [Your Thursday Briefing](https://www.nytimes.com/2021/10/13/briefing/populism-europe-norway-attack.html) NYT: A blow for populism in Europe. 
 
 
 
