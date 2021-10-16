@@ -6,6 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 09:32 AM CT, Oct. 16 </p> 
+ [With Lawmaker’s Killing, U.K. Confronts a New Episode of Terrorism](https://www.nytimes.com/2021/10/16/world/europe/uk-stabbing-terrorism.html) NYT: Prime Minister Boris Johnson and other leaders paid their respects to David Amess, who was fatally stabbed while meeting with constituents. The police have a suspect in custody and said the attack was linked to Islamist extremism. 
  <p class="updated_time"> 09:20 AM CT, Oct. 16 </p> 
  [Macron Commemorates 1961 Paris Police Massacre of Algerian Protesters](https://www.nytimes.com/2021/10/16/world/europe/paris-police-algerians-macron.html) NYT: President Emmanuel Macron of France is the country’s first head of state to attend an event marking the deaths, which officials ignored for decades. 
  <p class="updated_time"> 09:15 AM CT, Oct. 16 </p> 
@@ -14,8 +16,6 @@ permalink: /charts/news/
  [Dormice favoured by Italian mafia seized in drugs raid](https://www.bbc.co.uk/news/world-europe-58938494?at_medium=RSS&at_campaign=KARANGA) BBC: Italian police search a cannabis farm and seize a stash of 235 frozen dormice - a mafia delicacy. 
  <p class="updated_time"> 09:09 AM CT, Oct. 16 </p> 
  [Beirut, a City Where Everyone Gets By, Revisits Sectarian Violence](https://www.nytimes.com/2021/10/16/world/middleeast/beirut-lebanon-sectarian-violence.html) NYT: Lebanon’s capital thrives on its religious diversity, but sectarian tensions and memories of civil war lurk just beneath the surface. 
- <p class="updated_time"> 09:03 AM CT, Oct. 16 </p> 
- [With Lawmaker’s Killing, the U.K. Confronts a New Episode of Terrorism](https://www.nytimes.com/2021/10/16/world/europe/uk-stabbing-terrorism.html) NYT: Prime Minister Boris Johnson and other leaders paid their respects to David Amess, who was fatally stabbed while meeting with constituents. The police have a suspect in custody and said the attack was linked to Islamist extremism. 
  <p class="updated_time"> 09:02 AM CT, Oct. 16 </p> 
  [Nazanin Zaghari-Ratcliffe: British-Iranian aid worker loses court appeal in Iran](https://www.bbc.co.uk/news/world-middle-east-58940458?at_medium=RSS&at_campaign=KARANGA) BBC: Her family have told the BBC that they fear she could be returned to jail at any time. 
  <p class="updated_time"> 08:37 AM CT, Oct. 16 </p> 
