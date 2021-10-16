@@ -6,6 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 08:52 PM CT, Oct. 15 </p> 
+ [Squid Game: The rise of Korean drama addiction](https://www.bbc.co.uk/news/entertainment-arts-58896247?at_medium=RSS&at_campaign=KARANGA) BBC: Finished Squid Game? Here's a quick lowdown on other K-dramas for new converts. 
  <p class="updated_time"> 08:14 PM CT, Oct. 15 </p> 
  [Shipping disruption: Why are so many queuing to get to the US?](https://www.bbc.co.uk/news/58926842?at_medium=RSS&at_campaign=KARANGA) BBC: A surge in demand for toys and sports equipment has contributed to logjams at US ports. 
  <p class="updated_time"> 08:12 PM CT, Oct. 15 </p> 
