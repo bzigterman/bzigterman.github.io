@@ -6,6 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 12:37 AM CT, Oct. 16 </p> 
+ [Nike Jordan boss reveals he murdered an 18-year-old in 1965](https://www.bbc.co.uk/news/world-us-canada-58931528?at_medium=RSS&at_campaign=KARANGA) BBC: Larry Miller, now 72, said he was in a gang as a teenager when he shot an 18-year-old. 
  <p class="updated_time"> 12:10 AM CT, Oct. 16 </p> 
  [New Zealand Attempts a Record-Setting ‘Vaxathon’](https://www.nytimes.com/2021/10/16/world/australia/new-zealand-vaccines.html) NYT: The country took a different approach to encouraging vaccinations on Saturday, with barbecues, a telethon and the chance to get jabbed in the business-class seat of a Boeing 787. 
  <p class="updated_time"> 11:31 PM CT, Oct. 15 </p> 
@@ -40,8 +42,6 @@ permalink: /charts/news/
  [Ros Atkins on… China-Taiwan Tensions](https://www.bbc.co.uk/news/world-58925971?at_medium=RSS&at_campaign=KARANGA) BBC: Ros Atkins examines why tensions between China and Taiwan have increased over recent weeks. 
  <p class="updated_time"> 06:00 PM CT, Oct. 15 </p> 
  [Life at 50C: Fleeing Sahara's shifting sands](https://www.bbc.co.uk/news/science-environment-58925616?at_medium=RSS&at_campaign=KARANGA) BBC: Rising temperatures and desertification are forcing many Mauritanians to leave their ancestral homes in search of a better life. 
- <p class="updated_time"> 05:45 PM CT, Oct. 15 </p> 
- [Nike Jordan boss reveals he murdered an 18-year-old in 1965](https://www.bbc.co.uk/news/world-us-canada-58931528?at_medium=RSS&at_campaign=KARANGA) BBC: Larry Miller, now 72, said he was in a gang as a teenager when he shot an 18-year-old man. 
  <p class="updated_time"> 05:00 PM CT, Oct. 15 </p> 
  [Booster Confusion](https://www.nytimes.com/2021/10/15/briefing/johnson-and-johnson-booster-fda.html) NYT: When an F.D.A. panel meets today about J. & J. booster shots, there will be an elephant in the room. 
  <p class="updated_time"> 04:46 PM CT, Oct. 15 </p> 
