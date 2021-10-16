@@ -50,6 +50,8 @@ permalink: /charts/news/
  [Islamic State Bombing Kills at Least 65 People in Southern Afghanistan](https://www.wsj.com/articles/afghan-mosque-hit-by-deadly-suicide-bombing-11634297101) WSJ: The killings in Kandahar, the Taliban’s historic stronghold, follow a spate of Islamic State attacks on the country’s religious minority sect. 
  <p class="updated_time"> 07:09 AM CT, Oct. 16 </p> 
  [What we know so far](https://www.bbc.co.uk/news/uk-58922522?at_medium=RSS&at_campaign=KARANGA) BBC: What happened, what we know about the suspect, who the MP was, and what witnesses saw at the scene. 
+ <p class="updated_time"> 07:00 AM CT, Oct. 16 </p> 
+ [Nigeria's Criminal Gangs Steal Munitions and Extort the Government](https://www.wsj.com/articles/nigerias-gangs-raised-millions-by-kidnapping-children-now-the-government-cant-stop-them-11634400009) WSJ: In the forests of northwest Nigeria, loosely organized criminal gangs that raised funds kidnapping schoolchildren are now flush with arms and operating beyond the reach of an increasingly fragile state. 
  <p class="updated_time"> 05:39 AM CT, Oct. 16 </p> 
  [Sir David Amess killing: Security for politicians is a global dilemma](https://www.bbc.co.uk/news/world-58937581?at_medium=RSS&at_campaign=KARANGA) BBC: Why the need to be a people's representative and the need for personal safety are in constant conflict. 
  <p class="updated_time"> 04:53 AM CT, Oct. 16 </p> 
@@ -136,8 +138,6 @@ permalink: /charts/news/
  [Lebanon's Crisis, an Explainer ](https://www.nytimes.com/2021/10/14/briefing/lebanon-financial-crisis-lira.html) NYT: The world isn’t paying much attention. 
  <p class="updated_time"> 07:57 AM CT, Oct. 15 </p> 
  [Queensland, Australia: Motorcycle thief flees crime scene on tractor](https://www.bbc.co.uk/news/world-australia-58926803?at_medium=RSS&at_campaign=KARANGA) BBC: Police officers chased the suspect through the streets in Queensland, Australia. 
- <p class="updated_time"> 07:44 AM CT, Oct. 15 </p> 
- [Chinese Man Who Killed Ex-Wife as She Was Livestreaming Is Sentenced to Death](https://www.wsj.com/articles/chinese-man-who-killed-ex-wife-as-she-was-livestreaming-is-sentenced-to-death-11634316253) WSJ: The killing drew attention to a lack of protection for Chinese women trying to leave abusive marriages. 
  <p class="updated_time"> 07:42 AM CT, Oct. 15 </p> 
  [Taiwan’s ‘Ghost Building’ Fire: a Death Trap for Dozens of Elderly](https://www.nytimes.com/2021/10/15/world/asia/taiwan-building-fire.html) NYT: “I had no choice but to live here,” said one resident who survived a blaze that killed 46 of her neighbors and raised questions about lax safety standards. 
  <p class="updated_time"> 07:39 AM CT, Oct. 15 </p> 
