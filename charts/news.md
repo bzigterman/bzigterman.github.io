@@ -6,12 +6,16 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 11:44 AM CT, Oct. 16 </p> 
+ [Mixing and Matching Covid Vaccines Is Examined by F.D.A. Panel](https://www.nytimes.com/2021/10/16/us/mixing-vaccines.html) NYT: The agency’s expert advisers discussed the data on the approach, which is limited. 
+ <p class="updated_time"> 11:40 AM CT, Oct. 16 </p> 
+ [How 3 Strangers a World Away Came to the Rescue of a Badly Burned Afghan Girl](https://www.nytimes.com/2021/10/16/world/afghanistan-girl-burn-evacuation-military.html) NYT: The story of 8-year-old Asma, injured by a U.S. tear-gas canister, echoes the heartbreak and heroism of the 20-year American misadventure in Afghanistan. 
  <p class="updated_time"> 11:10 AM CT, Oct. 16 </p> 
  [In Venezuela, a Rum Maker Offers Gangsters a Life Outside of Crime](https://www.nytimes.com/2021/10/16/world/americas/venezuela-rum-rehabilitation-crime.html) NYT: In the process, the family running the company, Ron Santa Teresa, has gone from bankruptcy to exporting an award-winning vintage rum. 
  <p class="updated_time"> 10:56 AM CT, Oct. 16 </p> 
  [After Iraqi Election, a Shiite Leader Emerges as an Unlikely U.S. Ally](https://www.nytimes.com/2021/10/16/world/middleeast/iraq-sadr-election.html) NYT: The U.S. once threatened to kill Muqtada al-Sadr as his militia battled occupying forces. Now, the powerful cleric is helping Washington by keeping Iran at bay. 
- <p class="updated_time"> 10:33 AM CT, Oct. 16 </p> 
- [Mixing and Matching Covid Vaccines Is Examined by F.D.A. Panel](https://www.nytimes.com/2021/10/16/us/mixing-vaccines.html) NYT: The agency’s expert advisers discussed the data on the approach, which is limited. 
+ <p class="updated_time"> 10:48 AM CT, Oct. 16 </p> 
+ [Australian police make record $104m heroin seizure](https://www.bbc.co.uk/news/world-australia-58940463?at_medium=RSS&at_campaign=KARANGA) BBC: The 450kg-haul was concealed in a shipment of ceramic tiles sent to Melbourne from Malaysia. 
  <p class="updated_time"> 10:31 AM CT, Oct. 16 </p> 
  [Lebanon Observes Day of Mourning After Deadly Sectarian Clashes](https://www.nytimes.com/2021/10/15/world/middleeast/lebanon-beirut-violence-explosion.html) NYT: The death toll rose to seven a day after gun battles between Christian and Shiite Muslim militias erupted amid tensions over an investigation into the port explosion last year. 
  <p class="updated_time"> 10:29 AM CT, Oct. 16 </p> 
@@ -86,8 +90,6 @@ permalink: /charts/news/
  [Italy's New Law Requires Workers to Get Covid Vaccine or Testing](https://www.nytimes.com/2021/10/15/world/europe/italy-vaccination-law-covid.html) NYT: The rollout went more or less smoothly, with only scattered protests, as the majority of citizens accepted the ‘Green Pass’ as a tolerable sacrifice to stem the Covid pandemic. 
  <p class="updated_time"> 06:57 PM CT, Oct. 15 </p> 
  [Texas abortion law: Biden administration to request block on abortion ban](https://www.bbc.co.uk/news/world-us-canada-58935257?at_medium=RSS&at_campaign=KARANGA) BBC: The president's administration will ask the Supreme Court to block a restrictive Texas abortion law. 
- <p class="updated_time"> 06:33 PM CT, Oct. 15 </p> 
- [Norway attack: Killer held in medical custody amid mental health investigation](https://www.bbc.co.uk/news/world-europe-58935117?at_medium=RSS&at_campaign=KARANGA) BBC: Police believe a bow-and-arrow attack that killed five may have been as a result of mental illness. 
  <p class="updated_time"> 06:01 PM CT, Oct. 15 </p> 
  [Meghan Markle's donation a 'lifesaver' for community kitchen users](https://www.bbc.co.uk/news/uk-england-nottinghamshire-58872804?at_medium=RSS&at_campaign=KARANGA) BBC: Money donated by the Duchess of Sussex has been spent on feeding Nottingham's most vulnerable. 
  <p class="updated_time"> 06:01 PM CT, Oct. 15 </p> 
@@ -184,8 +186,6 @@ permalink: /charts/news/
  [Meteorite Crashes Through Ceiling and Lands on Woman’s Bed](https://www.nytimes.com/2021/10/14/world/canada/meteorite-bed.html) NYT: After a fireball streaked through the Canadian sky, Ruth Hamilton, of British Columbia, found a 2.8-pound rock the size of a large man’s fist near her pillow. 
  <p class="updated_time"> 08:51 AM CT, Oct. 14 </p> 
  [Gunfire erupts on Beirut streets after port explosion protest](https://www.bbc.co.uk/news/world-middle-east-58910056?at_medium=RSS&at_campaign=KARANGA) BBC: Several people are shot dead in gun battles following a protest over the Beirut port blast investigation. 
- <p class="updated_time"> 04:08 AM CT, Oct. 14 </p> 
- [Kyrie Irving Defends Decision on Vaccine After Being Benched](https://www.nytimes.com/2021/10/13/world/kyrie-irving-vaccine-benched-nets.html) NYT: The N.B.A. star, who is set to make $40 million this year, said he opposes vaccine mandates, saying nobody should be “forced” to do it. 
 
 
 
