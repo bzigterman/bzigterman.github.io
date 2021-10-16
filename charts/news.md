@@ -6,6 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 05:10 PM CT, Oct. 16 </p> 
+ [U.S. Arrests Alex Saab, Deal Maker for Nicolás Maduro of Venezuela](https://www.nytimes.com/2021/10/16/world/americas/alex-saab-arrest-venezuela-maduro.html) NYT: Alex Saab, a Colombian businessman, is accused in the U.S. of siphoning millions from programs intended to help the needy in Venezuela. 
  <p class="updated_time"> 05:01 PM CT, Oct. 16 </p> 
  [With Lawmaker’s Killing, U.K. Confronts a New Episode of Terrorism](https://www.nytimes.com/2021/10/16/world/europe/uk-stabbing-terrorism.html) NYT: The police conducted searches and questioned the suspect as Prime Minister Boris Johnson and other leaders paid respects to David Amess, who was fatally stabbed while meeting with constituents. 
  <p class="updated_time"> 04:30 PM CT, Oct. 16 </p> 
@@ -148,8 +150,6 @@ permalink: /charts/news/
  [As Italy Mandates Covid Passes, Rules Vary Across Europe](https://www.nytimes.com/2021/10/15/world/europe/covid-passes.html) NYT: Varying measures reflect domestic politics and potential opposition against such rules. 
  <p class="updated_time"> 06:58 AM CT, Oct. 15 </p> 
  [Hate Crimes and Pandemic Lead More Asian Americans to Seek Therapy](https://www.nytimes.com/2021/10/15/us/asian-american-therapy-hate-crimes.html) NYT: A growing number of Asian Americans have overcome a cultural stigma attached to seeking mental health treatment, experts said. 
- <p class="updated_time"> 06:10 AM CT, Oct. 15 </p> 
- [Taiwan Building Fire Kills at Least 46](https://www.nytimes.com/2021/10/14/world/asia/taiwan-apartment-fire.html) NYT: Dozens more were injured after a fire broke out at a 13-story building in the southern port city of Kaohsiung. 
  <p class="updated_time"> 05:40 AM CT, Oct. 15 </p> 
  [Kongsberg attack: Norwegian town left asking questions after murders](https://www.bbc.co.uk/news/world-europe-58923879?at_medium=RSS&at_campaign=KARANGA) BBC: The innocence of a quiet town outside Oslo is shattered and residents are demanding answers. 
  <p class="updated_time"> 04:23 AM CT, Oct. 15 </p> 
