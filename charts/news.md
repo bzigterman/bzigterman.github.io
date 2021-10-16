@@ -6,6 +6,10 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 08:23 AM CT, Oct. 16 </p> 
+ [What Are Political ‘Surgeries’ in Britain?](https://www.nytimes.com/2021/10/16/world/europe/political-surgeries-uk.html) NYT: The person-to-person meetings with voters give Britons unusually good access to their political representatives. But questions are being asked about whether the tradition can continue. 
+ <p class="updated_time"> 08:14 AM CT, Oct. 16 </p> 
+ [With Lawmaker’s Killing, the U.K. Confronts a New Episode of Terrorism](https://www.nytimes.com/2021/10/16/world/europe/uk-stabbing-terrorism.html) NYT: Prime Minister Boris Johnson and other leaders paid their respects to David Amess, who was fatally stabbed while meeting with constituents. The police have a suspect in custody and said the attack was linked to Islamist extremism. 
  <p class="updated_time"> 07:13 AM CT, Oct. 16 </p> 
  [David Amess, Conservative Lawmaker in U.K., Is Fatally Stabbed ](https://www.nytimes.com/2021/10/15/world/europe/conservative-mp-david-amess-stabbing.html) NYT: David Amess, a Conservative member of Parliament, was holding a meeting in his constituency at the time. He is the second politician killed in an attack in just over five years. 
  <p class="updated_time"> 07:09 AM CT, Oct. 16 </p> 
@@ -14,8 +18,6 @@ permalink: /charts/news/
  [In Venezuela, a Rum Maker Offers Gangsters a Life Outside of Crime](https://www.nytimes.com/2021/10/16/world/americas/venezuela-rum-rehabilitation-crime.html) NYT: In the process, the family running the company, Ron Santa Teresa, has gone from bankruptcy to exporting an award-winning vintage rum. 
  <p class="updated_time"> 05:39 AM CT, Oct. 16 </p> 
  [Sir David Amess killing: Security for politicians is a global dilemma](https://www.bbc.co.uk/news/world-58937581?at_medium=RSS&at_campaign=KARANGA) BBC: Why the need to be a people's representative and the need for personal safety are in constant conflict. 
- <p class="updated_time"> 05:36 AM CT, Oct. 16 </p> 
- [What Are Political ‘Surgeries’ in Britain?](https://www.nytimes.com/2021/10/16/world/europe/political-surgeries-uk.html) NYT: The person-to-person meetings with voters give Britons unusually good access to their political representatives. But questions are being asked about whether the tradition can continue. 
  <p class="updated_time"> 05:15 AM CT, Oct. 16 </p> 
  [Covid: Russia's daily deaths pass 1,000 for first time](https://www.bbc.co.uk/news/world-europe-58937582?at_medium=RSS&at_campaign=KARANGA) BBC: Infections continue to soar as the Kremlin struggles to persuade people to get vaccinated. 
  <p class="updated_time"> 05:05 AM CT, Oct. 16 </p> 
@@ -188,8 +190,6 @@ permalink: /charts/news/
  [Your Thursday Briefing](https://www.nytimes.com/2021/10/13/briefing/populism-europe-norway-attack.html) NYT: A blow for populism in Europe. 
  <p class="updated_time"> 04:23 PM CT, Oct. 13 </p> 
  [Your Thursday Briefing](https://www.nytimes.com/2021/10/13/briefing/china-power-coal-global-supply-space.html) NYT: China’s power and coal shortages. 
- <p class="updated_time"> 03:53 PM CT, Oct. 13 </p> 
- [Caribbean Nations Struggle With Covid Vaccination Rates](https://www.nytimes.com/2021/10/13/world/americas/haiti-covid-vaccinations-caribbean.html) NYT: Across the region, countries are grappling with unequal distribution of doses and vaccine hesitancy. 
 
 
 
