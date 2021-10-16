@@ -12,6 +12,8 @@ permalink: /charts/news/
  [Sir David Amess killing: Security for politicians is a global dilemma](https://www.bbc.co.uk/news/world-58937581?at_medium=RSS&at_campaign=KARANGA) BBC: Why the need to be a people's representative and the need for personal safety are in constant conflict. 
  <p class="updated_time"> 05:36 AM CT, Oct. 16 </p> 
  [What Are Political ‘Surgeries’ in Britain?](https://www.nytimes.com/2021/10/16/world/europe/political-surgeries-uk.html) NYT: The person-to-person meetings with voters give Britons unusually good access to their political representatives. But questions are being asked about whether the tradition can continue. 
+ <p class="updated_time"> 05:15 AM CT, Oct. 16 </p> 
+ [Covid: Russia's daily deaths pass 1,000 for first time](https://www.bbc.co.uk/news/world-europe-58937582?at_medium=RSS&at_campaign=KARANGA) BBC: Infections continue to soar as the Kremlin struggles to persuade people to get vaccinated. 
  <p class="updated_time"> 05:05 AM CT, Oct. 16 </p> 
  [Myanmar army general Min Aung Hlaing excluded from leaders' summit](https://www.bbc.co.uk/news/world-asia-58938489?at_medium=RSS&at_campaign=KARANGA) BBC: South East Asian countries decide not to invite the military coup leader to their meeting. 
  <p class="updated_time"> 04:53 AM CT, Oct. 16 </p> 
@@ -28,6 +30,8 @@ permalink: /charts/news/
  [Sir David Amess: How a tragic day unfolded](https://www.bbc.co.uk/news/uk-58932139?at_medium=RSS&at_campaign=KARANGA) BBC: How constituents and authorities reacted to the tragic killing of Sir David Amess. 
  <p class="updated_time"> 01:40 AM CT, Oct. 16 </p> 
  [Pablo Escobar: Colombia sterilises drug lord's hippos](https://www.bbc.co.uk/news/world-latin-america-58937415?at_medium=RSS&at_campaign=KARANGA) BBC: Scientists are concerned about the impact of the rogue non-native herd near Escobar's former ranch. 
+ <p class="updated_time"> 12:53 AM CT, Oct. 16 </p> 
+ [Indian Wells: Stefanos Tsitsipas and Alexander Zverev suffer shock quarter-final defeats](https://www.bbc.co.uk/sport/tennis/58931918?at_medium=RSS&at_campaign=KARANGA) BBC: Stefanos Tsitsipas and Alexander Zverev are knocked out of the Indian Wells Masters after they both lose their quarter-final matches in California. 
  <p class="updated_time"> 12:37 AM CT, Oct. 16 </p> 
  [Nike Jordan boss reveals he murdered an 18-year-old in 1965](https://www.bbc.co.uk/news/world-us-canada-58931528?at_medium=RSS&at_campaign=KARANGA) BBC: Larry Miller, now 72, said he was in a gang as a teenager when he shot an 18-year-old. 
  <p class="updated_time"> 11:31 PM CT, Oct. 15 </p> 
@@ -88,8 +92,6 @@ permalink: /charts/news/
  [Sir David Amess: Fun, friendly and always outspoken](https://www.bbc.co.uk/news/uk-politics-58928140?at_medium=RSS&at_campaign=KARANGA) BBC: The Tory MP was a backbencher of the old school who fought for the causes he cared about. 
  <p class="updated_time"> 12:15 PM CT, Oct. 15 </p> 
  [Australian residents stranded overseas will be allowed to return to New South Wales.](https://www.nytimes.com/2021/10/15/world/australia/australian-residents-stranded-overseas-will-be-allowed-to-return-to-new-south-wales.html) NYT: NA 
- <p class="updated_time"> 12:06 PM CT, Oct. 15 </p> 
- [Covid: US to lift travel ban for fully jabbed on 8 November](https://www.bbc.co.uk/news/world-us-canada-58929441?at_medium=RSS&at_campaign=KARANGA) BBC: Fully vaccinated travellers will be allowed to enter the US for the first time since March 2020. 
  <p class="updated_time"> 11:59 AM CT, Oct. 15 </p> 
  [China Launches First Woman With New Crew to Space Station](https://www.nytimes.com/article/china-mars-space.html) NYT: China has launched a second crew to the country’s new orbiting space station. The mission is one of many challenging U.S. dominance of space exploration. 
  <p class="updated_time"> 11:14 AM CT, Oct. 15 </p> 
@@ -106,8 +108,6 @@ permalink: /charts/news/
  [U.K. Lab Issues 43,000 False Negatives on Virus Tests](https://www.nytimes.com/2021/10/15/world/uk-lab-false-negative-tests.html) NYT: The mistake was described as an “isolated incident attributed to one laboratory,” in a statement released by the U.K. Health Security Agency on Friday. 
  <p class="updated_time"> 09:37 AM CT, Oct. 15 </p> 
  [Mexico City Replaces a Statue of Columbus With One of an Indigenous Woman](https://www.nytimes.com/2021/10/14/world/americas/mexico-columbus-statue-indigenous.html) NYT: The replacement of a figure seen as a monument to colonialism touched a nerve as the country debates how it is shaped by race and sex. 
- <p class="updated_time"> 09:16 AM CT, Oct. 15 </p> 
- [Bill Clinton: Former US president in hospital for 'non-Covid infection'](https://www.bbc.co.uk/news/world-us-canada-58921615?at_medium=RSS&at_campaign=KARANGA) BBC: The former US president is said to be "on the mend" and "in good spirits" in hospital in California. 
  <p class="updated_time"> 08:38 AM CT, Oct. 15 </p> 
  [Italy Implements Tough Covid-19 Requirements for Workers](https://www.wsj.com/articles/italys-tough-workplace-covid-19-pass-a-harbinger-of-bidens-vaccine-mandate-11634300912) WSJ: Italians returned to their workplaces needing to show proof that they have received a Covid-19 vaccine, tested negative or recovered from the virus, a policy that could provide a preview of a similar mandate planned by the Biden administration. 
  <p class="updated_time"> 08:07 AM CT, Oct. 15 </p> 
@@ -138,8 +138,6 @@ permalink: /charts/news/
  [Inflation Sets Off Alarms Around the World](https://www.wsj.com/articles/inflation-sets-off-alarms-around-the-world-11634304187) WSJ: More than a dozen central banks have raised interest rates but two that haven’t are those that loom largest over the global economy: the Federal Reserve and the European Central Bank. 
  <p class="updated_time"> 03:39 AM CT, Oct. 15 </p> 
  [Man Whose Attack on Ex-Wife Was Livestreamed Gets Death Penalty in China](https://www.nytimes.com/2021/10/15/world/asia/china-livestream-killing-abuse.html) NYT: The case riveted the public’s attention in China and spotlighted the patchy enforcement of the country’s law against domestic violence. 
- <p class="updated_time"> 03:35 AM CT, Oct. 15 </p> 
- [Balloon World Cup has first winner](https://www.bbc.co.uk/sport/58922689?at_medium=RSS&at_campaign=KARANGA) BBC: If you say you've never played the balloon game, you're lying. And now there's an official World Cup. 
  <p class="updated_time"> 03:31 AM CT, Oct. 15 </p> 
  [Dubai Halts Air-Cargo Imports Amid Supply-Chain Snags](https://www.wsj.com/articles/dubai-halts-air-cargo-imports-amid-supply-chain-snags-11634301083) WSJ: The emirate’s main cargo handler is rushing to reduce a backlog that has snarled processing and delivery of goods across the United Arab Emirates. 
  <p class="updated_time"> 11:09 PM CT, Oct. 14 </p> 
