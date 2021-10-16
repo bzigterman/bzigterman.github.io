@@ -6,6 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 04:53 AM CT, Oct. 16 </p> 
+ [Squid Game: The rise of Korean drama addiction](https://www.bbc.co.uk/news/entertainment-arts-58896247?at_medium=RSS&at_campaign=KARANGA) BBC: Finished Squid Game? Here's a quick lowdown on other K-dramas for new converts. 
  <p class="updated_time"> 04:22 AM CT, Oct. 16 </p> 
  [Catholic Church in Sicily Bans Godparents For Now](https://www.nytimes.com/2021/10/16/world/europe/italy-godfather-catholic-church.html) NYT: Part of the Catholic church in Sicily has imposed a three-year prohibition on naming godparents, arguing that the tradition has become merely a way to fortify family ties — and mob ties, too. 
  <p class="updated_time"> 04:00 AM CT, Oct. 16 </p> 
@@ -32,8 +34,6 @@ permalink: /charts/news/
  [Lebanon Observes Day of Mourning After Deadly Sectarian Clashes](https://www.nytimes.com/2021/10/15/world/middleeast/lebanon-beirut-violence-explosion.html) NYT: The death toll rose to seven a day after gun battles between Christian and Shiite Muslim militias erupted amid tensions over an investigation into the port explosion last year. 
  <p class="updated_time"> 09:22 PM CT, Oct. 15 </p> 
  [Blast at Afghan Mosque Kills Dozens as Shiites Are Targeted Again](https://www.nytimes.com/2021/10/15/world/asia/afghanistan-mosque-blast.html) NYT: It was the second week in a row that attackers had struck a Shiite place of worship during Friday Prayer. 
- <p class="updated_time"> 08:52 PM CT, Oct. 15 </p> 
- [Squid Game: The rise of Korean drama addiction](https://www.bbc.co.uk/news/entertainment-arts-58896247?at_medium=RSS&at_campaign=KARANGA) BBC: Finished Squid Game? Here's a quick lowdown on other K-dramas for new converts. 
  <p class="updated_time"> 08:14 PM CT, Oct. 15 </p> 
  [Shipping disruption: Why are so many queuing to get to the US?](https://www.bbc.co.uk/news/58926842?at_medium=RSS&at_campaign=KARANGA) BBC: A surge in demand for toys and sports equipment has contributed to logjams at US ports. 
  <p class="updated_time"> 08:12 PM CT, Oct. 15 </p> 
