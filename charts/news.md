@@ -6,6 +6,10 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 06:58 PM CT, Oct. 15 </p> 
+ [Italy's New Law Requires Workers to Get Covid Vaccine or Testing](https://www.nytimes.com/2021/10/15/world/europe/italy-vaccination-law-covid.html) NYT: The rollout went more or less smoothly, with only scattered protests, as the majority of citizens accepted the ‘Green Pass’ as a tolerable sacrifice to stem the Covid pandemic. 
+ <p class="updated_time"> 06:57 PM CT, Oct. 15 </p> 
+ [Texas abortion law: Biden administration to request block on abortion ban](https://www.bbc.co.uk/news/world-us-canada-58935257?at_medium=RSS&at_campaign=KARANGA) BBC: The president's administration will ask the Supreme Court to block a restrictive Texas abortion law. 
  <p class="updated_time"> 06:39 PM CT, Oct. 15 </p> 
  [David Amess, Conservative Lawmaker in U.K., Is Fatally Stabbed ](https://www.nytimes.com/2021/10/15/world/europe/conservative-mp-david-amess-stabbing.html) NYT: David Amess, a Conservative member of Parliament, was holding a meeting in his constituency at the time. He is the second politician killed in an attack in just over five years. 
  <p class="updated_time"> 06:33 PM CT, Oct. 15 </p> 
@@ -20,8 +24,6 @@ permalink: /charts/news/
  [Nike Jordan boss reveals he murdered an 18-year-old in 1965](https://www.bbc.co.uk/news/world-us-canada-58931528?at_medium=RSS&at_campaign=KARANGA) BBC: Larry Miller, now 72, said he was in a gang as a teenager when he shot an 18-year-old man. 
  <p class="updated_time"> 05:00 PM CT, Oct. 15 </p> 
  [Booster Confusion](https://www.nytimes.com/2021/10/15/briefing/johnson-and-johnson-booster-fda.html) NYT: When an F.D.A. panel meets today about J. & J. booster shots, there will be an elephant in the room. 
- <p class="updated_time"> 04:48 PM CT, Oct. 15 </p> 
- [Italy's New Law Requires Workers to Get Covid Vaccine or Testing](https://www.nytimes.com/2021/10/15/world/europe/italy-vaccination-law-covid.html) NYT: The rollout went more or less smoothly, with only scattered protests, as the majority of citizens accepted the ‘Green Pass’ as a tolerable sacrifice to stem the Covid pandemic. 
  <p class="updated_time"> 04:46 PM CT, Oct. 15 </p> 
  [Moderna and J.& J. Boosters: What Are the Next Steps? ](https://www.nytimes.com/2021/10/14/us/covid-booster-vaccines-fda.html) NYT: Further steps regarding the Moderna and J.&J. booster shots will be required at the F.D.A. and at the C.D.C., in a process that ends with the states. 
  <p class="updated_time"> 04:30 PM CT, Oct. 15 </p> 
@@ -76,8 +78,6 @@ permalink: /charts/news/
  [Italy Implements Tough Covid-19 Requirements for Workers](https://www.wsj.com/articles/italys-tough-workplace-covid-19-pass-a-harbinger-of-bidens-vaccine-mandate-11634300912) WSJ: Italians returned to their workplaces needing to show proof that they have received a Covid-19 vaccine, tested negative or recovered from the virus, a policy that could provide a preview of a similar mandate planned by the Biden administration. 
  <p class="updated_time"> 08:37 AM CT, Oct. 15 </p> 
  [Covid: Wave of Italian protests against mandatory work pass](https://www.bbc.co.uk/news/world-europe-58913865?at_medium=RSS&at_campaign=KARANGA) BBC: Thousands gather outside major ports, angry that the "Green Pass" is now mandatory for all workers. 
- <p class="updated_time"> 08:37 AM CT, Oct. 15 </p> 
- [German coalition plan sets bigger green targets](https://www.bbc.co.uk/news/world-europe-58924480?at_medium=RSS&at_campaign=KARANGA) BBC: German politicians seek a faster exit from coal power as part of a coalition deal. 
  <p class="updated_time"> 08:09 AM CT, Oct. 15 </p> 
  [Masten Wanjala: Mob beats Kenyan child serial killer to death - police](https://www.bbc.co.uk/news/world-africa-58923592?at_medium=RSS&at_campaign=KARANGA) BBC: Police had launched a massive manhunt for Masten Wanjala, who confessed to killing several children. 
  <p class="updated_time"> 08:07 AM CT, Oct. 15 </p> 
