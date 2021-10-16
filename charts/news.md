@@ -6,14 +6,16 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 01:19 PM CT, Oct. 16 </p> 
+ [Nazanin Zaghari-Ratcliffe: British-Iranian aid worker loses court appeal in Iran](https://www.bbc.co.uk/news/world-middle-east-58940458?at_medium=RSS&at_campaign=KARANGA) BBC: Her family has told the BBC that they fear she could be returned to jail at any time. 
+ <p class="updated_time"> 01:09 PM CT, Oct. 16 </p> 
+ [Yukon Territory Imposes Vaccine Mandate Amid Rise in Cases](https://www.nytimes.com/2021/10/16/world/yukon-vaccine-mandate.html) NYT: Health care workers and others in the Yukon must be fully vaccinated by Nov. 30. The territory is also starting a vaccination passport program. 
  <p class="updated_time"> 12:51 PM CT, Oct. 16 </p> 
  [David Amess, Conservative Lawmaker in U.K., Is Fatally Stabbed ](https://www.nytimes.com/2021/10/15/world/europe/conservative-mp-david-amess-stabbing.html) NYT: David Amess, a Conservative member of Parliament, was holding a meeting in his constituency at the time. He is the second politician killed in an attack in just over five years. 
  <p class="updated_time"> 12:49 PM CT, Oct. 16 </p> 
  [With Lawmaker’s Killing, U.K. Confronts a New Episode of Terrorism](https://www.nytimes.com/2021/10/16/world/europe/uk-stabbing-terrorism.html) NYT: Prime Minister Boris Johnson and other leaders paid their respects to David Amess, who was fatally stabbed while meeting with constituents. The police have a suspect in custody and said the attack was linked to Islamist extremism. 
  <p class="updated_time"> 12:41 PM CT, Oct. 16 </p> 
  [Catholic Church in Sicily Bans Godparents For Now](https://www.nytimes.com/2021/10/16/world/europe/italy-godfather-catholic-church.html) NYT: Part of the Catholic church in Sicily has imposed a three-year prohibition on naming godparents, arguing that the tradition has become merely a way to fortify family ties — and mob ties, too. 
- <p class="updated_time"> 12:23 PM CT, Oct. 16 </p> 
- [Nazanin Zaghari-Ratcliffe: British-Iranian aid worker loses court appeal in Iran](https://www.bbc.co.uk/news/world-middle-east-58940458?at_medium=RSS&at_campaign=KARANGA) BBC: Her family has told the BBC that they fear she could be returned to jail at any time. 
  <p class="updated_time"> 12:18 PM CT, Oct. 16 </p> 
  [How 3 Strangers a World Away Came to the Rescue of a Badly Burned Afghan Girl](https://www.nytimes.com/2021/10/16/world/afghanistan-girl-burn-evacuation-military.html) NYT: The story of 8-year-old Asma, injured by a U.S. tear-gas canister, echoes the heartbreak and heroism of the 20-year American misadventure in Afghanistan. 
  <p class="updated_time"> 11:48 AM CT, Oct. 16 </p> 
@@ -32,8 +34,6 @@ permalink: /charts/news/
  [Deadly Clashes in Beirut Escalate Fears Over Lebanon’s Dysfunction](https://www.nytimes.com/2021/10/14/world/middleeast/beirut-lebanon.html) NYT: The fighting further traumatized the small Mediterranean country, a patchwork of sects that has tumbled into an abyss of devastating political and economic crises. 
  <p class="updated_time"> 10:23 AM CT, Oct. 16 </p> 
  [Macron Commemorates 1961 Paris Police Killing of Algerian Protesters](https://www.nytimes.com/2021/10/16/world/europe/paris-police-algerians-macron.html) NYT: President Emmanuel Macron of France is the country’s first head of state to attend an event marking the deaths, which officials ignored for decades. 
- <p class="updated_time"> 10:04 AM CT, Oct. 16 </p> 
- [Yukon Territory Imposes Vaccine Mandate Amid Rise in Cases](https://www.nytimes.com/2021/10/16/world/yukon-vaccine-mandate.html) NYT: Health care workers and others in the Yukon must be fully vaccinated by Nov. 30. The territory is also starting a vaccination passport program. 
  <p class="updated_time"> 09:34 AM CT, Oct. 16 </p> 
  [Covid: Russia's daily deaths pass 1,000 for first time](https://www.bbc.co.uk/news/world-europe-58937582?at_medium=RSS&at_campaign=KARANGA) BBC: Infections continue to soar as the Kremlin struggles to persuade people to get vaccinated. 
  <p class="updated_time"> 09:15 AM CT, Oct. 16 </p> 
@@ -63,7 +63,7 @@ permalink: /charts/news/
  <p class="updated_time"> 04:00 AM CT, Oct. 16 </p> 
  [China's Scripted Homicides Become a Popular Pastime](https://www.nytimes.com/2021/10/16/world/asia/china-murder-script.html) NYT: “Scripted homicide” clubs have opened around the country as young people look for ways to escape and connect. Naturally, the government has questions. 
  <p class="updated_time"> 03:31 AM CT, Oct. 16 </p> 
- [Some Sell Children as Afghanistan Sinks Into Destitution](https://www.wsj.com/articles/as-afghanistan-sinks-into-destitution-some-sell-children-to-survive-11634387501) WSJ: Poverty in Afghanistan is worsening fast after the Taliban seized power and most foreign aid ended. Already, 95% of Afghans aren’t getting enough to eat, according to the World Food Program. 
+ [Some Sell Children as Afghanistan Sinks Into Destitution](https://www.wsj.com/articles/as-afghanistan-sinks-into-destitution-some-sell-children-to-survive-11634387501) WSJ: Poverty in Afghanistan is worsening fast after the Taliban seized power and most foreign aid ended. Already, 95% of Afghans aren’t getting enough to eat, the U.N. warns. 
  <p class="updated_time"> 03:02 AM CT, Oct. 16 </p> 
  [Myanmar's Military Junta Denied a Seat at Asean Summit](https://www.wsj.com/articles/myanmars-military-junta-denied-a-seat-at-asean-summit-11634385775) WSJ: The regional bloc’s decision effectively sidelines Myanmar’s bid for international legitimacy and increases pressure on the country to cooperate with its neighbors to resolve its political crisis. 
  <p class="updated_time"> 02:55 AM CT, Oct. 16 </p> 
