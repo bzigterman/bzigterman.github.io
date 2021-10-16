@@ -6,6 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 12:51 PM CT, Oct. 16 </p> 
+ [David Amess, Conservative Lawmaker in U.K., Is Fatally Stabbed ](https://www.nytimes.com/2021/10/15/world/europe/conservative-mp-david-amess-stabbing.html) NYT: David Amess, a Conservative member of Parliament, was holding a meeting in his constituency at the time. He is the second politician killed in an attack in just over five years. 
  <p class="updated_time"> 12:49 PM CT, Oct. 16 </p> 
  [With Lawmaker’s Killing, U.K. Confronts a New Episode of Terrorism](https://www.nytimes.com/2021/10/16/world/europe/uk-stabbing-terrorism.html) NYT: Prime Minister Boris Johnson and other leaders paid their respects to David Amess, who was fatally stabbed while meeting with constituents. The police have a suspect in custody and said the attack was linked to Islamist extremism. 
  <p class="updated_time"> 12:41 PM CT, Oct. 16 </p> 
@@ -46,8 +48,6 @@ permalink: /charts/news/
  [Quebec Language Debate Spurs Eerie Sense of Déjà-Vu](https://www.nytimes.com/2021/10/15/world/canada/quebec-language-debate.html) NYT: For a Montreal-based Times correspondent, proposed language legislation brings back memories of the 1970s. 
  <p class="updated_time"> 08:23 AM CT, Oct. 16 </p> 
  [What Are Political ‘Surgeries’ in Britain?](https://www.nytimes.com/2021/10/16/world/europe/political-surgeries-uk.html) NYT: The person-to-person meetings with voters give Britons unusually good access to their political representatives. But questions are being asked about whether the tradition can continue. 
- <p class="updated_time"> 07:13 AM CT, Oct. 16 </p> 
- [David Amess, Conservative Lawmaker in U.K., Is Fatally Stabbed ](https://www.nytimes.com/2021/10/15/world/europe/conservative-mp-david-amess-stabbing.html) NYT: David Amess, a Conservative member of Parliament, was holding a meeting in his constituency at the time. He is the second politician killed in an attack in just over five years. 
  <p class="updated_time"> 07:11 AM CT, Oct. 16 </p> 
  [Islamic State Bombing Kills at Least 65 People in Southern Afghanistan](https://www.wsj.com/articles/afghan-mosque-hit-by-deadly-suicide-bombing-11634297101) WSJ: The killings in Kandahar, the Taliban’s historic stronghold, follow a spate of Islamic State attacks on the country’s religious minority sect. 
  <p class="updated_time"> 07:09 AM CT, Oct. 16 </p> 
@@ -63,7 +63,7 @@ permalink: /charts/news/
  <p class="updated_time"> 04:00 AM CT, Oct. 16 </p> 
  [China's Scripted Homicides Become a Popular Pastime](https://www.nytimes.com/2021/10/16/world/asia/china-murder-script.html) NYT: “Scripted homicide” clubs have opened around the country as young people look for ways to escape and connect. Naturally, the government has questions. 
  <p class="updated_time"> 03:31 AM CT, Oct. 16 </p> 
- [Some Sell Children as Afghanistan Sinks Into Destitution](https://www.wsj.com/articles/as-afghanistan-sinks-into-destitution-some-sell-children-to-survive-11634387501) WSJ: Poverty in Afghanistan is worsening fast after the Taliban seized power and most foreign aid ended. 
+ [Some Sell Children as Afghanistan Sinks Into Destitution](https://www.wsj.com/articles/as-afghanistan-sinks-into-destitution-some-sell-children-to-survive-11634387501) WSJ: Poverty in Afghanistan is worsening fast after the Taliban seized power and most foreign aid ended. Already, 95% of Afghans aren’t getting enough to eat, according to the World Food Program. 
  <p class="updated_time"> 03:02 AM CT, Oct. 16 </p> 
  [Myanmar's Military Junta Denied a Seat at Asean Summit](https://www.wsj.com/articles/myanmars-military-junta-denied-a-seat-at-asean-summit-11634385775) WSJ: The regional bloc’s decision effectively sidelines Myanmar’s bid for international legitimacy and increases pressure on the country to cooperate with its neighbors to resolve its political crisis. 
  <p class="updated_time"> 02:55 AM CT, Oct. 16 </p> 
