@@ -6,6 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 11:31 PM CT, Oct. 15 </p> 
+ [Afghanistan: US offers to pay relatives of Kabul drone attack victims](https://www.bbc.co.uk/news/world-us-canada-58935260?at_medium=RSS&at_campaign=KARANGA) BBC: Ten people were mistakenly killed by the US military in a drone strike on the Afghan capital. 
  <p class="updated_time"> 10:17 PM CT, Oct. 15 </p> 
  [Mining for Gold in Australia’s Migrant Past](https://www.nytimes.com/2021/10/15/world/asia/new-gold-mountain-chinese-immigrants.html) NYT: “New Gold Mountain” highlights the complications of belonging for immigrants then and now. 
  <p class="updated_time"> 09:48 PM CT, Oct. 15 </p> 
@@ -90,8 +92,6 @@ permalink: /charts/news/
  [Deadly Clashes in Beirut Escalate Fears Over Lebanon’s Dysfunction](https://www.nytimes.com/2021/10/14/world/middleeast/beirut-lebanon.html) NYT: The fighting further traumatized the small Mediterranean country, a patchwork of sects that has tumbled into an abyss of devastating political and economic crises. 
  <p class="updated_time"> 08:06 AM CT, Oct. 15 </p> 
  [Lebanon's Crisis, an Explainer ](https://www.nytimes.com/2021/10/14/briefing/lebanon-financial-crisis-lira.html) NYT: The world isn’t paying much attention. 
- <p class="updated_time"> 07:58 AM CT, Oct. 15 </p> 
- [Beirut port blast: Day of mourning in Lebanon after bloodshed at protest](https://www.bbc.co.uk/news/world-middle-east-58921314?at_medium=RSS&at_campaign=KARANGA) BBC: Seven people were killed and dozens injured in the worst violence for years in Beirut on Thursday. 
  <p class="updated_time"> 07:57 AM CT, Oct. 15 </p> 
  [Queensland, Australia: Motorcycle thief flees crime scene on tractor](https://www.bbc.co.uk/news/world-australia-58926803?at_medium=RSS&at_campaign=KARANGA) BBC: Police officers chased the suspect through the streets in Queensland, Australia. 
  <p class="updated_time"> 07:49 AM CT, Oct. 15 </p> 
