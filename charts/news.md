@@ -6,8 +6,14 @@ permalink: /charts/news/
 
 ## World News
 
- <p class="updated_time"> 09:05 AM CT, Oct. 16 </p> 
+ <p class="updated_time"> 09:20 AM CT, Oct. 16 </p> 
+ [Macron Commemorates 1961 Paris Police Massacre of Algerian Protesters](https://www.nytimes.com/2021/10/16/world/europe/paris-police-algerians-macron.html) NYT: President Emmanuel Macron of France is the country’s first head of state to attend an event marking the deaths, which officials ignored for decades. 
+ <p class="updated_time"> 09:15 AM CT, Oct. 16 </p> 
  [Myanmar army general Min Aung Hlaing excluded from leaders' summit](https://www.bbc.co.uk/news/world-asia-58938489?at_medium=RSS&at_campaign=KARANGA) BBC: South East Asian countries decide not to invite the military coup leader to their meeting. 
+ <p class="updated_time"> 09:11 AM CT, Oct. 16 </p> 
+ [Dormice favoured by Italian mafia seized in drugs raid](https://www.bbc.co.uk/news/world-europe-58938494?at_medium=RSS&at_campaign=KARANGA) BBC: Italian police search a cannabis farm and seize a stash of 235 frozen dormice - a mafia delicacy. 
+ <p class="updated_time"> 09:09 AM CT, Oct. 16 </p> 
+ [Beirut, a City Where Everyone Gets By, Revisits Sectarian Violence](https://www.nytimes.com/2021/10/16/world/middleeast/beirut-lebanon-sectarian-violence.html) NYT: Lebanon’s capital thrives on its religious diversity, but sectarian tensions and memories of civil war lurk just beneath the surface. 
  <p class="updated_time"> 09:03 AM CT, Oct. 16 </p> 
  [With Lawmaker’s Killing, the U.K. Confronts a New Episode of Terrorism](https://www.nytimes.com/2021/10/16/world/europe/uk-stabbing-terrorism.html) NYT: Prime Minister Boris Johnson and other leaders paid their respects to David Amess, who was fatally stabbed while meeting with constituents. The police have a suspect in custody and said the attack was linked to Islamist extremism. 
  <p class="updated_time"> 09:02 AM CT, Oct. 16 </p> 
@@ -90,8 +96,6 @@ permalink: /charts/news/
  [A Year Later, a Schoolteacher’s Beheading Still Haunts France](https://www.nytimes.com/2021/10/15/world/europe/france-samuel-paty-beheading.html) NYT: The killing of Samuel Paty by an 18-year-old Chechen refugee intensified debate over security and immigration, and prompted intense scrutiny of the French secular model. 
  <p class="updated_time"> 02:54 PM CT, Oct. 15 </p> 
  [Pandemic-stricken Thailand, aiming to revive tourism, reopens the cave a soccer team was trapped in.](https://www.nytimes.com/2021/10/15/world/thailand-lets-tourists-return-to-the-cave-where-a-soccer-team-was-rescued.html) NYT: NA 
- <p class="updated_time"> 02:42 PM CT, Oct. 15 </p> 
- [Virgin Galactic delays first commercial space flight](https://www.bbc.co.uk/news/business-58930280?at_medium=RSS&at_campaign=KARANGA) BBC: Shares in the firm dive 20% as it delays first tourist flight to make upgrades. 
  <p class="updated_time"> 02:08 PM CT, Oct. 15 </p> 
  ['David Amess was my best friend': Essex town in grief](https://www.bbc.co.uk/news/uk-england-essex-58928927?at_medium=RSS&at_campaign=KARANGA) BBC: Residents choke back tears on the streets of Leigh-on Sea as they remember their compassionate MP. 
  <p class="updated_time"> 01:58 PM CT, Oct. 15 </p> 
@@ -122,8 +126,6 @@ permalink: /charts/news/
  [Lebanon's Crisis, an Explainer ](https://www.nytimes.com/2021/10/14/briefing/lebanon-financial-crisis-lira.html) NYT: The world isn’t paying much attention. 
  <p class="updated_time"> 07:57 AM CT, Oct. 15 </p> 
  [Queensland, Australia: Motorcycle thief flees crime scene on tractor](https://www.bbc.co.uk/news/world-australia-58926803?at_medium=RSS&at_campaign=KARANGA) BBC: Police officers chased the suspect through the streets in Queensland, Australia. 
- <p class="updated_time"> 07:49 AM CT, Oct. 15 </p> 
- [Two More Guantánamo Detainees Are Approved for Release](https://www.nytimes.com/2021/10/13/us/politics/guantanamo-detainees-transfer.html) NYT: A board has now backed the release of 12 out of the 39 men remaining at the prison, but U.S. diplomats must first reach security agreements with destination countries. 
  <p class="updated_time"> 07:44 AM CT, Oct. 15 </p> 
  [Chinese Man Who Killed Ex-Wife as She Was Livestreaming Is Sentenced to Death](https://www.wsj.com/articles/chinese-man-who-killed-ex-wife-as-she-was-livestreaming-is-sentenced-to-death-11634316253) WSJ: The killing drew attention to a lack of protection for Chinese women trying to leave abusive marriages. 
  <p class="updated_time"> 07:42 AM CT, Oct. 15 </p> 
@@ -180,8 +182,6 @@ permalink: /charts/news/
  [Kyrie Irving Defends Decision on Vaccine After Being Benched](https://www.nytimes.com/2021/10/13/world/kyrie-irving-vaccine-benched-nets.html) NYT: The N.B.A. star, who is set to make $40 million this year, said he opposes vaccine mandates, saying nobody should be “forced” to do it. 
  <p class="updated_time"> 10:46 PM CT, Oct. 13 </p> 
  [Your Thursday Briefing](https://www.nytimes.com/2021/10/13/briefing/populism-europe-norway-attack.html) NYT: A blow for populism in Europe. 
- <p class="updated_time"> 04:23 PM CT, Oct. 13 </p> 
- [Your Thursday Briefing](https://www.nytimes.com/2021/10/13/briefing/china-power-coal-global-supply-space.html) NYT: China’s power and coal shortages. 
 
 
 
