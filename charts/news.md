@@ -6,8 +6,12 @@ permalink: /charts/news/
 
 ## World News
 
- <p class="updated_time"> 05:54 AM CT, Oct. 16 </p> 
- [What we know so far](https://www.bbc.co.uk/news/uk-58922522?at_medium=RSS&at_campaign=KARANGA) BBC: What happened, who the MP was, and what the reaction has been so far. 
+ <p class="updated_time"> 07:13 AM CT, Oct. 16 </p> 
+ [David Amess, Conservative Lawmaker in U.K., Is Fatally Stabbed ](https://www.nytimes.com/2021/10/15/world/europe/conservative-mp-david-amess-stabbing.html) NYT: David Amess, a Conservative member of Parliament, was holding a meeting in his constituency at the time. He is the second politician killed in an attack in just over five years. 
+ <p class="updated_time"> 07:09 AM CT, Oct. 16 </p> 
+ [What we know so far](https://www.bbc.co.uk/news/uk-58922522?at_medium=RSS&at_campaign=KARANGA) BBC: What happened, what we know about the suspect, who the MP was, and what witnesses saw at the scene. 
+ <p class="updated_time"> 07:07 AM CT, Oct. 16 </p> 
+ [In Venezuela, a Rum Maker Offers Gangsters a Life Outside of Crime](https://www.nytimes.com/2021/10/16/world/americas/venezuela-rum-rehabilitation-crime.html) NYT: In the process, the family running the company, Ron Santa Teresa, has gone from bankruptcy to exporting an award-winning vintage rum. 
  <p class="updated_time"> 05:39 AM CT, Oct. 16 </p> 
  [Sir David Amess killing: Security for politicians is a global dilemma](https://www.bbc.co.uk/news/world-58937581?at_medium=RSS&at_campaign=KARANGA) BBC: Why the need to be a people's representative and the need for personal safety are in constant conflict. 
  <p class="updated_time"> 05:36 AM CT, Oct. 16 </p> 
@@ -28,6 +32,8 @@ permalink: /charts/news/
  [New Zealand Attempts a Record-Setting ‘Vaxathon’](https://www.nytimes.com/2021/10/16/world/australia/new-zealand-vaccines.html) NYT: The country took a different approach to encouraging vaccinations on Saturday, with barbecues, a telethon and the chance to get jabbed in the business-class seat of a Boeing 787. 
  <p class="updated_time"> 02:38 AM CT, Oct. 16 </p> 
  [Sir David Amess: How a tragic day unfolded](https://www.bbc.co.uk/news/uk-58932139?at_medium=RSS&at_campaign=KARANGA) BBC: How constituents and authorities reacted to the tragic killing of Sir David Amess. 
+ <p class="updated_time"> 02:36 AM CT, Oct. 16 </p> 
+ [British Police Search London Homes in Wake of Killing of Lawmaker](https://www.wsj.com/articles/british-police-search-london-homes-in-wake-of-david-amess-killing-11634384192) WSJ: U.K. authorities said the fatal stabbing of David Amess could be linked with Islamic extremism and that the suspect appeared to have acted alone. 
  <p class="updated_time"> 01:40 AM CT, Oct. 16 </p> 
  [Pablo Escobar: Colombia sterilises drug lord's hippos](https://www.bbc.co.uk/news/world-latin-america-58937415?at_medium=RSS&at_campaign=KARANGA) BBC: Scientists are concerned about the impact of the rogue non-native herd near Escobar's former ranch. 
  <p class="updated_time"> 12:53 AM CT, Oct. 16 </p> 
@@ -50,8 +56,6 @@ permalink: /charts/news/
  [Viewpoint: Why Ethiopia's Tigray region is starving, but no famine declared](https://www.bbc.co.uk/news/world-africa-58921744?at_medium=RSS&at_campaign=KARANGA) BBC: Despite mass starvation in northern Ethiopia, aid officials are not calling the situation a famine. 
  <p class="updated_time"> 07:57 PM CT, Oct. 15 </p> 
  [Week in pictures: 9 - 15 October 2021](https://www.bbc.co.uk/news/in-pictures-58911596?at_medium=RSS&at_campaign=KARANGA) BBC: A selection of powerful images from all over the globe, taken this week. 
- <p class="updated_time"> 07:28 PM CT, Oct. 15 </p> 
- [David Amess, Conservative Lawmaker in U.K., Is Fatally Stabbed ](https://www.nytimes.com/2021/10/15/world/europe/conservative-mp-david-amess-stabbing.html) NYT: David Amess, a Conservative member of Parliament, was holding a meeting in his constituency at the time. He is the second politician killed in an attack in just over five years. 
  <p class="updated_time"> 07:22 PM CT, Oct. 15 </p> 
  [Afghanistan: Suicide attack hits Kandahar mosque during prayers](https://www.bbc.co.uk/news/world-asia-58925863?at_medium=RSS&at_campaign=KARANGA) BBC: Explosions at a Shia mosque in Kandahar kill more than 40 people during Friday worship. 
  <p class="updated_time"> 06:58 PM CT, Oct. 15 </p> 
@@ -76,8 +80,6 @@ permalink: /charts/news/
  [Protests Over Italy's Covid 'Green Pass' Draw Only Scattered Crowds](https://www.nytimes.com/2021/10/15/world/europe/covid-italy-green-pass-protests.html) NYT: While there were scattered protests across Italy on Friday, many in the country appeared to accept the measure as necessary. 
  <p class="updated_time"> 03:34 PM CT, Oct. 15 </p> 
  [Quebec Language Debate Spurs Eerie Sense of Déjà-Vu](https://www.nytimes.com/2021/10/15/world/canada/quebec-language-debate.html) NYT: For a Montreal-based Times correspondent, proposed language legislation brings back memories of the 1970s. 
- <p class="updated_time"> 03:24 PM CT, Oct. 15 </p> 
- [Fatal Stabbing of British Lawmaker David Amess Called a Terrorist Attack](https://www.wsj.com/articles/british-lawmaker-david-amess-stabbed-and-killed-outside-london-11634307474) WSJ: A 25-year-old man killed Conservative lawmaker David Amess during a meeting with constituents, an assault U.K. authorities say was a terrorist attack. The man was arrested, and Islamist extremism could be a motive, police say. 
  <p class="updated_time"> 03:13 PM CT, Oct. 15 </p> 
  [A Year Later, a Schoolteacher’s Beheading Still Haunts France](https://www.nytimes.com/2021/10/15/world/europe/france-samuel-paty-beheading.html) NYT: The killing of Samuel Paty by an 18-year-old Chechen refugee intensified debate over security and immigration, and prompted intense scrutiny of the French secular model. 
  <p class="updated_time"> 02:54 PM CT, Oct. 15 </p> 
@@ -110,6 +112,8 @@ permalink: /charts/news/
  [Mexico City Replaces a Statue of Columbus With One of an Indigenous Woman](https://www.nytimes.com/2021/10/14/world/americas/mexico-columbus-statue-indigenous.html) NYT: The replacement of a figure seen as a monument to colonialism touched a nerve as the country debates how it is shaped by race and sex. 
  <p class="updated_time"> 08:38 AM CT, Oct. 15 </p> 
  [Italy Implements Tough Covid-19 Requirements for Workers](https://www.wsj.com/articles/italys-tough-workplace-covid-19-pass-a-harbinger-of-bidens-vaccine-mandate-11634300912) WSJ: Italians returned to their workplaces needing to show proof that they have received a Covid-19 vaccine, tested negative or recovered from the virus, a policy that could provide a preview of a similar mandate planned by the Biden administration. 
+ <p class="updated_time"> 08:30 AM CT, Oct. 15 </p> 
+ [Fears Grow for Fate of Lebanon's Capital](https://www.wsj.com/articles/after-beirut-blast-and-worst-clashes-in-years-fears-grow-for-fate-of-lebanons-capital-11634319055) WSJ: Sectarian clashes in Beirut are a reminder of just how close Lebanon is to returning to the anarchy that defined the country for more than 15 years. 
  <p class="updated_time"> 08:07 AM CT, Oct. 15 </p> 
  [Deadly Clashes in Beirut Escalate Fears Over Lebanon’s Dysfunction](https://www.nytimes.com/2021/10/14/world/middleeast/beirut-lebanon.html) NYT: The fighting further traumatized the small Mediterranean country, a patchwork of sects that has tumbled into an abyss of devastating political and economic crises. 
  <p class="updated_time"> 08:06 AM CT, Oct. 15 </p> 
@@ -118,6 +122,8 @@ permalink: /charts/news/
  [Queensland, Australia: Motorcycle thief flees crime scene on tractor](https://www.bbc.co.uk/news/world-australia-58926803?at_medium=RSS&at_campaign=KARANGA) BBC: Police officers chased the suspect through the streets in Queensland, Australia. 
  <p class="updated_time"> 07:49 AM CT, Oct. 15 </p> 
  [Two More Guantánamo Detainees Are Approved for Release](https://www.nytimes.com/2021/10/13/us/politics/guantanamo-detainees-transfer.html) NYT: A board has now backed the release of 12 out of the 39 men remaining at the prison, but U.S. diplomats must first reach security agreements with destination countries. 
+ <p class="updated_time"> 07:44 AM CT, Oct. 15 </p> 
+ [Chinese Man Who Killed Ex-Wife as She Was Livestreaming Is Sentenced to Death](https://www.wsj.com/articles/chinese-man-who-killed-ex-wife-as-she-was-livestreaming-is-sentenced-to-death-11634316253) WSJ: The killing drew attention to a lack of protection for Chinese women trying to leave abusive marriages. 
  <p class="updated_time"> 07:42 AM CT, Oct. 15 </p> 
  [Taiwan’s ‘Ghost Building’ Fire: a Death Trap for Dozens of Elderly](https://www.nytimes.com/2021/10/15/world/asia/taiwan-building-fire.html) NYT: “I had no choice but to live here,” said one resident who survived a blaze that killed 46 of her neighbors and raised questions about lax safety standards. 
  <p class="updated_time"> 07:39 AM CT, Oct. 15 </p> 
@@ -130,16 +136,12 @@ permalink: /charts/news/
  [Taiwan Building Fire Kills at Least 46](https://www.nytimes.com/2021/10/14/world/asia/taiwan-apartment-fire.html) NYT: Dozens more were injured after a fire broke out at a 13-story building in the southern port city of Kaohsiung. 
  <p class="updated_time"> 06:03 AM CT, Oct. 15 </p> 
  [Henrietta Lacks, Whose Cells Were Taken Without Her Consent, Is Honored by W.H.O.](https://www.nytimes.com/2021/10/13/science/henrietta-lacks-cells-who.html) NYT: In a ceremony in Geneva, the World Health Organization presented an award to the family of Ms. Lacks, whose cancer cells led to world-changing advances in medical and scientific research. 
- <p class="updated_time"> 05:54 AM CT, Oct. 15 </p> 
- [Where Will Wally the Wandering Walrus End Up?](https://www.wsj.com/articles/where-will-wally-the-wandering-walrus-end-up-11634309674) WSJ: Researchers hoped to help him find his way back to the Arctic after an epic tour around Europe; ‘People were telling us to come and take him away’ 
  <p class="updated_time"> 05:40 AM CT, Oct. 15 </p> 
  [Kongsberg attack: Norwegian town left asking questions after murders](https://www.bbc.co.uk/news/world-europe-58923879?at_medium=RSS&at_campaign=KARANGA) BBC: The innocence of a quiet town outside Oslo is shattered and residents are demanding answers. 
  <p class="updated_time"> 04:23 AM CT, Oct. 15 </p> 
  [Inflation Sets Off Alarms Around the World](https://www.wsj.com/articles/inflation-sets-off-alarms-around-the-world-11634304187) WSJ: More than a dozen central banks have raised interest rates but two that haven’t are those that loom largest over the global economy: the Federal Reserve and the European Central Bank. 
  <p class="updated_time"> 03:39 AM CT, Oct. 15 </p> 
  [Man Whose Attack on Ex-Wife Was Livestreamed Gets Death Penalty in China](https://www.nytimes.com/2021/10/15/world/asia/china-livestream-killing-abuse.html) NYT: The case riveted the public’s attention in China and spotlighted the patchy enforcement of the country’s law against domestic violence. 
- <p class="updated_time"> 03:31 AM CT, Oct. 15 </p> 
- [Dubai Halts Air-Cargo Imports Amid Supply-Chain Snags](https://www.wsj.com/articles/dubai-halts-air-cargo-imports-amid-supply-chain-snags-11634301083) WSJ: The emirate’s main cargo handler is rushing to reduce a backlog that has snarled processing and delivery of goods across the United Arab Emirates. 
  <p class="updated_time"> 11:09 PM CT, Oct. 14 </p> 
  [Your Friday Briefing](https://www.nytimes.com/2021/10/15/briefing/beirut-fighting-pandemic-america.html) NYT: The state of the pandemic in the U.S. 
  <p class="updated_time"> 11:01 PM CT, Oct. 14 </p> 
@@ -180,8 +182,6 @@ permalink: /charts/news/
  [Meteorite Crashes Through Ceiling and Lands on Woman’s Bed](https://www.nytimes.com/2021/10/14/world/canada/meteorite-bed.html) NYT: After a fireball streaked through the Canadian sky, Ruth Hamilton, of British Columbia, found a 2.8-pound rock the size of a large man’s fist near her pillow. 
  <p class="updated_time"> 08:51 AM CT, Oct. 14 </p> 
  [Gunfire erupts on Beirut streets after port explosion protest](https://www.bbc.co.uk/news/world-middle-east-58910056?at_medium=RSS&at_campaign=KARANGA) BBC: Several people are shot dead in gun battles following a protest over the Beirut port blast investigation. 
- <p class="updated_time"> 05:54 AM CT, Oct. 14 </p> 
- [Man With Bow and Arrows Kills Five in Norway](https://www.nytimes.com/2021/10/13/world/europe/norway-bow-arrow-attack.html) NYT: As the country went on alert, the police scrambled to investigate an attack in a town 50 miles outside Oslo. 
  <p class="updated_time"> 04:08 AM CT, Oct. 14 </p> 
  [Kyrie Irving Defends Decision on Vaccine After Being Benched](https://www.nytimes.com/2021/10/13/world/kyrie-irving-vaccine-benched-nets.html) NYT: The N.B.A. star, who is set to make $40 million this year, said he opposes vaccine mandates, saying nobody should be “forced” to do it. 
  <p class="updated_time"> 10:46 PM CT, Oct. 13 </p> 
