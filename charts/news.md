@@ -6,8 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
- <p class="updated_time"> 04:53 PM CT, Oct. 16 </p> 
- [With Lawmaker’s Killing, U.K. Confronts a New Episode of Terrorism](https://www.nytimes.com/2021/10/16/world/europe/uk-stabbing-terrorism.html) NYT: Prime Minister Boris Johnson and other leaders paid their respects to David Amess, who was fatally stabbed while meeting with constituents. The police have a suspect in custody and said the attack was linked to Islamist extremism. 
+ <p class="updated_time"> 05:01 PM CT, Oct. 16 </p> 
+ [With Lawmaker’s Killing, U.K. Confronts a New Episode of Terrorism](https://www.nytimes.com/2021/10/16/world/europe/uk-stabbing-terrorism.html) NYT: The police conducted searches and questioned the suspect as Prime Minister Boris Johnson and other leaders paid respects to David Amess, who was fatally stabbed while meeting with constituents. 
  <p class="updated_time"> 04:30 PM CT, Oct. 16 </p> 
  [Robert Durst, Millionaire Convicted of Murder, on Ventilator With Covid](https://www.nytimes.com/2021/10/16/world/robert-durst-covid-ventilator.html) NYT: The 78-year-old millionaire and former real estate mogul was sentenced to life in prison on Thursday for the murder of a friend in 2000. 
  <p class="updated_time"> 04:23 PM CT, Oct. 16 </p> 
@@ -16,6 +16,8 @@ permalink: /charts/news/
  [After Iraqi Election, a Shiite Leader Emerges as an Unlikely U.S. Ally](https://www.nytimes.com/2021/10/16/world/middleeast/iraq-sadr-election.html) NYT: The U.S. once threatened to kill Muqtada al-Sadr as his militia battled occupying forces. Now, the powerful cleric is helping Washington by keeping Iran at bay. 
  <p class="updated_time"> 04:17 PM CT, Oct. 16 </p> 
  [What we know so far](https://www.bbc.co.uk/news/uk-58922522?at_medium=RSS&at_campaign=KARANGA) BBC: What happened, what we know about the suspect, who the MP was, and what witnesses saw. 
+ <p class="updated_time"> 03:53 PM CT, Oct. 16 </p> 
+ [Sudan: Protesters demand military coup as crisis deepens](https://www.bbc.co.uk/news/world-africa-58943013?at_medium=RSS&at_campaign=KARANGA) BBC: The protests come as tensions rise between civilian and military rulers. 
  <p class="updated_time"> 03:40 PM CT, Oct. 16 </p> 
  [China's Scripted Homicides Become a Popular Pastime](https://www.nytimes.com/2021/10/16/world/asia/china-murder-script.html) NYT: “Scripted homicide” clubs have opened around the country as young people look for ways to escape and connect. Naturally, the government has questions. 
  <p class="updated_time"> 02:20 PM CT, Oct. 16 </p> 
@@ -138,8 +140,6 @@ permalink: /charts/news/
  [Mexico City Replaces a Statue of Columbus With One of an Indigenous Woman](https://www.nytimes.com/2021/10/14/world/americas/mexico-columbus-statue-indigenous.html) NYT: The replacement of a figure seen as a monument to colonialism touched a nerve as the country debates how it is shaped by race and sex. 
  <p class="updated_time"> 08:06 AM CT, Oct. 15 </p> 
  [Lebanon's Crisis, an Explainer ](https://www.nytimes.com/2021/10/14/briefing/lebanon-financial-crisis-lira.html) NYT: The world isn’t paying much attention. 
- <p class="updated_time"> 07:57 AM CT, Oct. 15 </p> 
- [Queensland, Australia: Motorcycle thief flees crime scene on tractor](https://www.bbc.co.uk/news/world-australia-58926803?at_medium=RSS&at_campaign=KARANGA) BBC: Police officers chased the suspect through the streets in Queensland, Australia. 
  <p class="updated_time"> 07:42 AM CT, Oct. 15 </p> 
  [Taiwan’s ‘Ghost Building’ Fire: a Death Trap for Dozens of Elderly](https://www.nytimes.com/2021/10/15/world/asia/taiwan-building-fire.html) NYT: “I had no choice but to live here,” said one resident who survived a blaze that killed 46 of her neighbors and raised questions about lax safety standards. 
  <p class="updated_time"> 07:39 AM CT, Oct. 15 </p> 
