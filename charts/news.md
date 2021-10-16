@@ -16,6 +16,8 @@ permalink: /charts/news/
  [Afghanistan: US offers to pay relatives of Kabul drone attack victims](https://www.bbc.co.uk/news/world-us-canada-58935260?at_medium=RSS&at_campaign=KARANGA) BBC: Ten people were mistakenly killed by the US military in a drone strike on the Afghan capital. 
  <p class="updated_time"> 10:17 PM CT, Oct. 15 </p> 
  [Mining for Gold in Australia’s Migrant Past](https://www.nytimes.com/2021/10/15/world/asia/new-gold-mountain-chinese-immigrants.html) NYT: “New Gold Mountain” highlights the complications of belonging for immigrants then and now. 
+ <p class="updated_time"> 10:12 PM CT, Oct. 15 </p> 
+ [Islamic State Bombing Kills at Least 38 People in Southern Afghanistan](https://www.wsj.com/articles/afghan-mosque-hit-by-deadly-suicide-bombing-11634297101) WSJ: The killings in Kandahar, the Taliban’s historic stronghold, follow a spate of Islamic State attacks on the country’s religious minority sect. 
  <p class="updated_time"> 09:48 PM CT, Oct. 15 </p> 
  [Lebanon Observes Day of Mourning After Deadly Sectarian Clashes](https://www.nytimes.com/2021/10/15/world/middleeast/lebanon-beirut-violence-explosion.html) NYT: The death toll rose to seven a day after gun battles between Christian and Shiite Muslim militias erupted amid tensions over an investigation into the port explosion last year. 
  <p class="updated_time"> 09:22 PM CT, Oct. 15 </p> 
@@ -104,8 +106,6 @@ permalink: /charts/news/
  [Newly Discovered Bat Viruses Give Hints to Covid’s Origins](https://www.nytimes.com/2021/10/14/science/bat-coronaviruses-lab-leak.html) NYT: Coronaviruses discovered in Laotian bats are surprisingly adept at infecting human cells, showing that such deadly features can indeed evolve outside of a lab. 
  <p class="updated_time"> 07:08 AM CT, Oct. 15 </p> 
  [As Italy Mandates Covid Passes, Rules Vary Across Europe](https://www.nytimes.com/2021/10/15/world/europe/covid-passes.html) NYT: Varying measures reflect domestic politics and potential opposition against such rules. 
- <p class="updated_time"> 07:00 AM CT, Oct. 15 </p> 
- [Afghanistan Mosque Bombing Kills at Least 38 Shiite Worshippers](https://www.wsj.com/articles/afghan-mosque-hit-by-deadly-suicide-bombing-11634297101) WSJ: The killings in Kandahar, the Taliban’s historic stronghold, follow a spate of Islamic State attacks on the country’s religious minority sect. 
  <p class="updated_time"> 06:58 AM CT, Oct. 15 </p> 
  [Hate Crimes and Pandemic Lead More Asian Americans to Seek Therapy](https://www.nytimes.com/2021/10/15/us/asian-american-therapy-hate-crimes.html) NYT: A growing number of Asian Americans have overcome a cultural stigma attached to seeking mental health treatment, experts said. 
  <p class="updated_time"> 06:10 AM CT, Oct. 15 </p> 
