@@ -6,6 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 11:53 PM CT, Oct. 15 </p> 
+ [New Zealand Attempts a Record-Setting ‘Vaxathon’](https://www.nytimes.com/2021/10/16/world/australia/new-zealand-vaccines.html) NYT: The country took a different approach to encouraging vaccinations on Saturday, with barbecues, a telethon and the chance to get jabbed in the business-class seat of a Boeing 787. 
  <p class="updated_time"> 11:31 PM CT, Oct. 15 </p> 
  [Afghanistan: US offers to pay relatives of Kabul drone attack victims](https://www.bbc.co.uk/news/world-us-canada-58935260?at_medium=RSS&at_campaign=KARANGA) BBC: Ten people were mistakenly killed by the US military in a drone strike on the Afghan capital. 
  <p class="updated_time"> 10:17 PM CT, Oct. 15 </p> 
@@ -180,8 +182,6 @@ permalink: /charts/news/
  [Your Thursday Briefing](https://www.nytimes.com/2021/10/13/briefing/china-power-coal-global-supply-space.html) NYT: China’s power and coal shortages. 
  <p class="updated_time"> 03:53 PM CT, Oct. 13 </p> 
  [Caribbean Nations Struggle With Covid Vaccination Rates](https://www.nytimes.com/2021/10/13/world/americas/haiti-covid-vaccinations-caribbean.html) NYT: Across the region, countries are grappling with unequal distribution of doses and vaccine hesitancy. 
- <p class="updated_time"> 03:47 PM CT, Oct. 13 </p> 
- [W.H.O Names Advisory Group to Study Origin of Covid Pandemic](https://www.nytimes.com/2021/10/13/science/who-coronavirus-origins.html) NYT: The group includes scientists from 26 countries, a reflection of the W.H.O.’s effort to amass widespread international support for the work. 
  <p class="updated_time"> 01:09 PM CT, Oct. 13 </p> 
  [Czechs Defeat a Populist, Offering a Road Map for Toppling Strongmen](https://www.nytimes.com/2021/10/13/world/europe/czech-populism-strongmen.html) NYT: A wide range of parties in the Czech Republic banded together despite their differences to oppose Andrej Babis, the country’s populist prime minister. Opposition parties in Hungary are hoping to duplicate the feat. 
  <p class="updated_time"> 07:50 AM CT, Oct. 13 </p> 
