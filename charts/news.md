@@ -6,6 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 05:05 AM CT, Oct. 16 </p> 
+ [Myanmar army general Min Aung Hlaing excluded from leaders' summit](https://www.bbc.co.uk/news/world-asia-58938489?at_medium=RSS&at_campaign=KARANGA) BBC: South East Asian countries decide not to invite the military coup leader to their meeting. 
  <p class="updated_time"> 04:53 AM CT, Oct. 16 </p> 
  [Squid Game: The rise of Korean drama addiction](https://www.bbc.co.uk/news/entertainment-arts-58896247?at_medium=RSS&at_campaign=KARANGA) BBC: Finished Squid Game? Here's a quick lowdown on other K-dramas for new converts. 
  <p class="updated_time"> 04:22 AM CT, Oct. 16 </p> 
@@ -104,8 +106,6 @@ permalink: /charts/news/
  [Bill Clinton: Former US president in hospital for 'non-Covid infection'](https://www.bbc.co.uk/news/world-us-canada-58921615?at_medium=RSS&at_campaign=KARANGA) BBC: The former US president is said to be "on the mend" and "in good spirits" in hospital in California. 
  <p class="updated_time"> 08:38 AM CT, Oct. 15 </p> 
  [Italy Implements Tough Covid-19 Requirements for Workers](https://www.wsj.com/articles/italys-tough-workplace-covid-19-pass-a-harbinger-of-bidens-vaccine-mandate-11634300912) WSJ: Italians returned to their workplaces needing to show proof that they have received a Covid-19 vaccine, tested negative or recovered from the virus, a policy that could provide a preview of a similar mandate planned by the Biden administration. 
- <p class="updated_time"> 08:09 AM CT, Oct. 15 </p> 
- [Masten Wanjala: Mob beats Kenyan child serial killer to death - police](https://www.bbc.co.uk/news/world-africa-58923592?at_medium=RSS&at_campaign=KARANGA) BBC: Police had launched a massive manhunt for Masten Wanjala, who confessed to killing several children. 
  <p class="updated_time"> 08:07 AM CT, Oct. 15 </p> 
  [Deadly Clashes in Beirut Escalate Fears Over Lebanon’s Dysfunction](https://www.nytimes.com/2021/10/14/world/middleeast/beirut-lebanon.html) NYT: The fighting further traumatized the small Mediterranean country, a patchwork of sects that has tumbled into an abyss of devastating political and economic crises. 
  <p class="updated_time"> 08:06 AM CT, Oct. 15 </p> 
