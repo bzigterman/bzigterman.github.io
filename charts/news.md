@@ -6,8 +6,12 @@ permalink: /charts/news/
 
 ## World News
 
- <p class="updated_time"> 05:50 PM CT, Oct. 16 </p> 
+ <p class="updated_time"> 06:08 PM CT, Oct. 16 </p> 
+ [How a massacre of Algerians in Paris was covered up](https://www.bbc.co.uk/news/world-africa-58927939?at_medium=RSS&at_campaign=KARANGA) BBC: French police killed up to 300 people in 1961, throwing some of them into the River Seine to drown them. 
+ <p class="updated_time"> 06:07 PM CT, Oct. 16 </p> 
  [Airlines in Japan and South Korea Try Novel Ideas to Lure Fliers](https://www.nytimes.com/2021/10/16/world/japan-south-korea-airlines-covid-incentives.html) NYT: How about inexpensive passes good for a month of domestic flights? Or popular in-flight meals to on-the-ground customers? 
+ <p class="updated_time"> 06:02 PM CT, Oct. 16 </p> 
+ [Pigs at Amsterdam's Schiphol Airport help to keep skies safe](https://www.bbc.co.uk/news/world-europe-58928677?at_medium=RSS&at_campaign=KARANGA) BBC: A team of 20 at Amsterdam's Schiphol Airport is part of a range of measures being used to reduce bird-strikes. 
  <p class="updated_time"> 05:10 PM CT, Oct. 16 </p> 
  [U.S. Arrests Alex Saab, Deal Maker for Nicolás Maduro of Venezuela](https://www.nytimes.com/2021/10/16/world/americas/alex-saab-arrest-venezuela-maduro.html) NYT: Alex Saab, a Colombian businessman, is accused in the U.S. of siphoning millions from programs intended to help the needy in Venezuela. 
  <p class="updated_time"> 05:01 PM CT, Oct. 16 </p> 
@@ -182,8 +186,6 @@ permalink: /charts/news/
  [Most Covid Cases in Africa Go Undetected, W.H.O. Says](https://www.nytimes.com/2021/10/14/world/covid-africa-who.html) NYT: “Now is the time to go on the offensive against Covid-19, and work with local communities to break transmission chains and stop wider outbreaks from happening,” Dr. Matshidiso Moeti said. 
  <p class="updated_time"> 11:22 AM CT, Oct. 14 </p> 
  [Norway attack: Witness describes hearing 'thunk sound' of weapon](https://www.bbc.co.uk/news/world-europe-58910059?at_medium=RSS&at_campaign=KARANGA) BBC: Residents in Kongsberg react to the bow and arrow attack in their neighbourhood. 
- <p class="updated_time"> 08:51 AM CT, Oct. 14 </p> 
- [Gunfire erupts on Beirut streets after port explosion protest](https://www.bbc.co.uk/news/world-middle-east-58910056?at_medium=RSS&at_campaign=KARANGA) BBC: Several people are shot dead in gun battles following a protest over the Beirut port blast investigation. 
 
 
 
