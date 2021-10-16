@@ -6,10 +6,14 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 06:28 PM CT, Oct. 16 </p> 
+ [Robert Durst: US millionaire hospitalised with Covid after life sentence](https://www.bbc.co.uk/news/world-us-canada-58943246?at_medium=RSS&at_campaign=KARANGA) BBC: Robert Durst was on Thursday convicted of murder and is a suspect in two other deaths. 
  <p class="updated_time"> 06:19 PM CT, Oct. 16 </p> 
  [Robert Durst, Millionaire Convicted of Murder, on Ventilator With Covid](https://www.nytimes.com/2021/10/16/world/robert-durst-covid-ventilator.html) NYT: The 78-year-old millionaire and former real estate mogul was sentenced to life in prison on Thursday for the murder of a friend in 2000. 
  <p class="updated_time"> 06:17 PM CT, Oct. 16 </p> 
  [Airlines in Japan and South Korea Try Novel Ideas to Lure Fliers](https://www.nytimes.com/2021/10/16/world/japan-south-korea-airlines-covid-incentives.html) NYT: How about inexpensive passes good for a month of domestic flights? Or popular in-flight meals to on-the-ground customers? 
+ <p class="updated_time"> 06:09 PM CT, Oct. 16 </p> 
+ [Apparently, it's the next big thing. What is the metaverse?](https://www.bbc.co.uk/news/technology-58749529?at_medium=RSS&at_campaign=KARANGA) BBC: What does it mean, and what have Facebook and Fortnite got to do with it? 
  <p class="updated_time"> 06:08 PM CT, Oct. 16 </p> 
  [How a massacre of Algerians in Paris was covered up](https://www.bbc.co.uk/news/world-africa-58927939?at_medium=RSS&at_campaign=KARANGA) BBC: French police killed up to 300 people in 1961, throwing some of them into the River Seine to drown them. 
  <p class="updated_time"> 06:02 PM CT, Oct. 16 </p> 
@@ -88,8 +92,6 @@ permalink: /charts/news/
  [Pablo Escobar: Colombia sterilises drug lord's hippos](https://www.bbc.co.uk/news/world-latin-america-58937415?at_medium=RSS&at_campaign=KARANGA) BBC: Scientists are concerned about the impact of the rogue non-native herd near Escobar's former ranch. 
  <p class="updated_time"> 12:53 AM CT, Oct. 16 </p> 
  [Indian Wells: Stefanos Tsitsipas and Alexander Zverev suffer shock quarter-final defeats](https://www.bbc.co.uk/sport/tennis/58931918?at_medium=RSS&at_campaign=KARANGA) BBC: Stefanos Tsitsipas and Alexander Zverev are knocked out of the Indian Wells Masters after they both lose their quarter-final matches in California. 
- <p class="updated_time"> 12:37 AM CT, Oct. 16 </p> 
- [Nike Jordan boss reveals he murdered an 18-year-old in 1965](https://www.bbc.co.uk/news/world-us-canada-58931528?at_medium=RSS&at_campaign=KARANGA) BBC: Larry Miller, now 72, said he was in a gang as a teenager when he shot an 18-year-old. 
  <p class="updated_time"> 11:31 PM CT, Oct. 15 </p> 
  [Afghanistan: US offers to pay relatives of Kabul drone attack victims](https://www.bbc.co.uk/news/world-us-canada-58935260?at_medium=RSS&at_campaign=KARANGA) BBC: Ten people were mistakenly killed by the US military in a drone strike on the Afghan capital. 
  <p class="updated_time"> 10:17 PM CT, Oct. 15 </p> 
@@ -104,8 +106,6 @@ permalink: /charts/news/
  [Week in pictures: 9 - 15 October 2021](https://www.bbc.co.uk/news/in-pictures-58911596?at_medium=RSS&at_campaign=KARANGA) BBC: A selection of powerful images from all over the globe, taken this week. 
  <p class="updated_time"> 06:58 PM CT, Oct. 15 </p> 
  [Italy's New Law Requires Workers to Get Covid Vaccine or Testing](https://www.nytimes.com/2021/10/15/world/europe/italy-vaccination-law-covid.html) NYT: The rollout went more or less smoothly, with only scattered protests, as the majority of citizens accepted the ‘Green Pass’ as a tolerable sacrifice to stem the Covid pandemic. 
- <p class="updated_time"> 06:57 PM CT, Oct. 15 </p> 
- [Texas abortion law: Biden administration to request block on abortion ban](https://www.bbc.co.uk/news/world-us-canada-58935257?at_medium=RSS&at_campaign=KARANGA) BBC: The president's administration will ask the Supreme Court to block a restrictive Texas abortion law. 
  <p class="updated_time"> 06:01 PM CT, Oct. 15 </p> 
  [Meghan Markle's donation a 'lifesaver' for community kitchen users](https://www.bbc.co.uk/news/uk-england-nottinghamshire-58872804?at_medium=RSS&at_campaign=KARANGA) BBC: Money donated by the Duchess of Sussex has been spent on feeding Nottingham's most vulnerable. 
  <p class="updated_time"> 06:01 PM CT, Oct. 15 </p> 
