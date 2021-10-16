@@ -6,6 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 01:40 AM CT, Oct. 16 </p> 
+ [Pablo Escobar: Colombia sterilises drug lord's hippos](https://www.bbc.co.uk/news/world-latin-america-58937415?at_medium=RSS&at_campaign=KARANGA) BBC: Twenty-four of more than 80 hippos are sterilised after scientists warn of the environmental impact. 
  <p class="updated_time"> 12:37 AM CT, Oct. 16 </p> 
  [Nike Jordan boss reveals he murdered an 18-year-old in 1965](https://www.bbc.co.uk/news/world-us-canada-58931528?at_medium=RSS&at_campaign=KARANGA) BBC: Larry Miller, now 72, said he was in a gang as a teenager when he shot an 18-year-old. 
  <p class="updated_time"> 12:10 AM CT, Oct. 16 </p> 
@@ -76,8 +78,6 @@ permalink: /charts/news/
  [South Korean Military Struggles to Root Out Sexual Assaults](https://www.nytimes.com/2021/10/15/world/asia/south-korea-military-sexual-assault-suicide.html) NYT: The death of a woman in South Korea’s air force has rekindled outrage over the country’s armed forces, long criticized for abusing and discriminating​ against women. 
  <p class="updated_time"> 10:22 AM CT, Oct. 15 </p> 
  [Bangladesh Strengthens Security as Violence Targets Hindu Festival](https://www.nytimes.com/2021/10/15/world/asia/15bangladesh-muslim-hindu-violence.html) NYT: Paramilitary forces were deployed across much of the country after the worst communal violence in years targeted dozens of Hindu gatherings. 
- <p class="updated_time"> 09:59 AM CT, Oct. 15 </p> 
- [Looted cockerel to be returned to Nigeria](https://www.bbc.co.uk/news/uk-england-cambridgeshire-58927240?at_medium=RSS&at_campaign=KARANGA) BBC: The Benin bronze, known as an "okukor", was given to Jesus College in Cambridge in 1905. 
  <p class="updated_time"> 09:38 AM CT, Oct. 15 </p> 
  [Norway Bow-and-Arrow Rampage Treated as Apparent Terrorism Attack](https://www.nytimes.com/2021/10/14/world/europe/norway-bow-and-arrow-attack.html) NYT: The police said that they had previously contacted the suspect, a 37-year-old Danish citizen who is believed to have killed five people, over concerns that he had been radicalized. 
  <p class="updated_time"> 09:37 AM CT, Oct. 15 </p> 
