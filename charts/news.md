@@ -6,6 +6,10 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 12:49 PM CT, Oct. 16 </p> 
+ [With Lawmaker’s Killing, U.K. Confronts a New Episode of Terrorism](https://www.nytimes.com/2021/10/16/world/europe/uk-stabbing-terrorism.html) NYT: Prime Minister Boris Johnson and other leaders paid their respects to David Amess, who was fatally stabbed while meeting with constituents. The police have a suspect in custody and said the attack was linked to Islamist extremism. 
+ <p class="updated_time"> 12:41 PM CT, Oct. 16 </p> 
+ [Catholic Church in Sicily Bans Godparents For Now](https://www.nytimes.com/2021/10/16/world/europe/italy-godfather-catholic-church.html) NYT: Part of the Catholic church in Sicily has imposed a three-year prohibition on naming godparents, arguing that the tradition has become merely a way to fortify family ties — and mob ties, too. 
  <p class="updated_time"> 12:23 PM CT, Oct. 16 </p> 
  [Nazanin Zaghari-Ratcliffe: British-Iranian aid worker loses court appeal in Iran](https://www.bbc.co.uk/news/world-middle-east-58940458?at_medium=RSS&at_campaign=KARANGA) BBC: Her family has told the BBC that they fear she could be returned to jail at any time. 
  <p class="updated_time"> 12:18 PM CT, Oct. 16 </p> 
@@ -30,8 +34,6 @@ permalink: /charts/news/
  [Yukon Territory Imposes Vaccine Mandate Amid Rise in Cases](https://www.nytimes.com/2021/10/16/world/yukon-vaccine-mandate.html) NYT: Health care workers and others in the Yukon must be fully vaccinated by Nov. 30. The territory is also starting a vaccination passport program. 
  <p class="updated_time"> 09:34 AM CT, Oct. 16 </p> 
  [Covid: Russia's daily deaths pass 1,000 for first time](https://www.bbc.co.uk/news/world-europe-58937582?at_medium=RSS&at_campaign=KARANGA) BBC: Infections continue to soar as the Kremlin struggles to persuade people to get vaccinated. 
- <p class="updated_time"> 09:32 AM CT, Oct. 16 </p> 
- [With Lawmaker’s Killing, U.K. Confronts a New Episode of Terrorism](https://www.nytimes.com/2021/10/16/world/europe/uk-stabbing-terrorism.html) NYT: Prime Minister Boris Johnson and other leaders paid their respects to David Amess, who was fatally stabbed while meeting with constituents. The police have a suspect in custody and said the attack was linked to Islamist extremism. 
  <p class="updated_time"> 09:15 AM CT, Oct. 16 </p> 
  [Myanmar army general Min Aung Hlaing excluded from leaders' summit](https://www.bbc.co.uk/news/world-asia-58938489?at_medium=RSS&at_campaign=KARANGA) BBC: South East Asian countries decide not to invite the military coup leader to their meeting. 
  <p class="updated_time"> 09:11 AM CT, Oct. 16 </p> 
@@ -58,8 +60,6 @@ permalink: /charts/news/
  [Squid Game: The rise of Korean drama addiction](https://www.bbc.co.uk/news/entertainment-arts-58896247?at_medium=RSS&at_campaign=KARANGA) BBC: Finished Squid Game? Here's a quick lowdown on other K-dramas for new converts. 
  <p class="updated_time"> 04:44 AM CT, Oct. 16 </p> 
  [British Police Search London Homes in Wake of Killing of Lawmaker](https://www.wsj.com/articles/british-police-search-london-homes-in-wake-of-david-amess-killing-11634384192) WSJ: U.K. authorities said the fatal stabbing of David Amess could be linked with Islamic extremism and that the suspect appeared to have acted alone. 
- <p class="updated_time"> 04:22 AM CT, Oct. 16 </p> 
- [Catholic Church in Sicily Bans Godparents For Now](https://www.nytimes.com/2021/10/16/world/europe/italy-godfather-catholic-church.html) NYT: Part of the Catholic church in Sicily has imposed a three-year prohibition on naming godparents, arguing that the tradition has become merely a way to fortify family ties — and mob ties, too. 
  <p class="updated_time"> 04:00 AM CT, Oct. 16 </p> 
  [China's Scripted Homicides Become a Popular Pastime](https://www.nytimes.com/2021/10/16/world/asia/china-murder-script.html) NYT: “Scripted homicide” clubs have opened around the country as young people look for ways to escape and connect. Naturally, the government has questions. 
  <p class="updated_time"> 03:31 AM CT, Oct. 16 </p> 
