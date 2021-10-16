@@ -6,12 +6,22 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 08:14 PM CT, Oct. 15 </p> 
+ [Shipping disruption: Why are so many queuing to get to the US?](https://www.bbc.co.uk/news/58926842?at_medium=RSS&at_campaign=KARANGA) BBC: A surge in demand for toys and sports equipment has contributed to logjams at US ports. 
+ <p class="updated_time"> 08:12 PM CT, Oct. 15 </p> 
+ [Viewpoint: Why Ethiopia's Tigray region is starving, but no famine declared](https://www.bbc.co.uk/news/world-africa-58921744?at_medium=RSS&at_campaign=KARANGA) BBC: Despite mass starvation in northern Ethiopia, aid officials are not calling the situation a famine. 
+ <p class="updated_time"> 07:57 PM CT, Oct. 15 </p> 
+ [Week in pictures: 9 - 15 October 2021](https://www.bbc.co.uk/news/in-pictures-58911596?at_medium=RSS&at_campaign=KARANGA) BBC: A selection of powerful images from all over the globe, taken this week. 
+ <p class="updated_time"> 07:55 PM CT, Oct. 15 </p> 
+ [Blast at Afghan Mosque Kills Dozens as Shiites Are Targeted Again](https://www.nytimes.com/2021/10/15/world/asia/afghanistan-mosque-blast.html) NYT: It was the second week in a row that attackers had struck a Shiite place of worship during Friday Prayer. 
+ <p class="updated_time"> 07:28 PM CT, Oct. 15 </p> 
+ [David Amess, Conservative Lawmaker in U.K., Is Fatally Stabbed ](https://www.nytimes.com/2021/10/15/world/europe/conservative-mp-david-amess-stabbing.html) NYT: David Amess, a Conservative member of Parliament, was holding a meeting in his constituency at the time. He is the second politician killed in an attack in just over five years. 
+ <p class="updated_time"> 07:22 PM CT, Oct. 15 </p> 
+ [Afghanistan: Suicide attack hits Kandahar mosque during prayers](https://www.bbc.co.uk/news/world-asia-58925863?at_medium=RSS&at_campaign=KARANGA) BBC: Explosions at a Shia mosque in Kandahar kill more than 40 people during Friday worship. 
  <p class="updated_time"> 06:58 PM CT, Oct. 15 </p> 
  [Italy's New Law Requires Workers to Get Covid Vaccine or Testing](https://www.nytimes.com/2021/10/15/world/europe/italy-vaccination-law-covid.html) NYT: The rollout went more or less smoothly, with only scattered protests, as the majority of citizens accepted the ‘Green Pass’ as a tolerable sacrifice to stem the Covid pandemic. 
  <p class="updated_time"> 06:57 PM CT, Oct. 15 </p> 
  [Texas abortion law: Biden administration to request block on abortion ban](https://www.bbc.co.uk/news/world-us-canada-58935257?at_medium=RSS&at_campaign=KARANGA) BBC: The president's administration will ask the Supreme Court to block a restrictive Texas abortion law. 
- <p class="updated_time"> 06:39 PM CT, Oct. 15 </p> 
- [David Amess, Conservative Lawmaker in U.K., Is Fatally Stabbed ](https://www.nytimes.com/2021/10/15/world/europe/conservative-mp-david-amess-stabbing.html) NYT: David Amess, a Conservative member of Parliament, was holding a meeting in his constituency at the time. He is the second politician killed in an attack in just over five years. 
  <p class="updated_time"> 06:33 PM CT, Oct. 15 </p> 
  [Norway attack: Killer held in medical custody amid mental health investigation](https://www.bbc.co.uk/news/world-europe-58935117?at_medium=RSS&at_campaign=KARANGA) BBC: Police believe a bow-and-arrow attack that killed five may have been as a result of mental illness. 
  <p class="updated_time"> 06:01 PM CT, Oct. 15 </p> 
@@ -26,14 +36,14 @@ permalink: /charts/news/
  [Booster Confusion](https://www.nytimes.com/2021/10/15/briefing/johnson-and-johnson-booster-fda.html) NYT: When an F.D.A. panel meets today about J. & J. booster shots, there will be an elephant in the room. 
  <p class="updated_time"> 04:46 PM CT, Oct. 15 </p> 
  [Moderna and J.& J. Boosters: What Are the Next Steps? ](https://www.nytimes.com/2021/10/14/us/covid-booster-vaccines-fda.html) NYT: Further steps regarding the Moderna and J.&J. booster shots will be required at the F.D.A. and at the C.D.C., in a process that ends with the states. 
- <p class="updated_time"> 04:30 PM CT, Oct. 15 </p> 
- [Blast at Afghan Mosque Kills Dozens as Shiites Are Targeted Again](https://www.nytimes.com/2021/10/15/world/asia/afghanistan-mosque-blast.html) NYT: It was the second week in a row that attackers had struck a Shiite place of worship during Friday Prayer. 
  <p class="updated_time"> 03:57 PM CT, Oct. 15 </p> 
  [Suspect Confesses in Bow-and-Arrow Rampage in Norway](https://www.nytimes.com/2021/10/15/world/europe/norway-murder-bow-arrow-terrorism.html) NYT: Espen Anderson Brathen has been charged with murder in the deaths of five people after the authorities say he went on a killing spree armed with a hunting bow. 
  <p class="updated_time"> 03:41 PM CT, Oct. 15 </p> 
  [Protests Over Italy's Covid 'Green Pass' Draw Only Scattered Crowds](https://www.nytimes.com/2021/10/15/world/europe/covid-italy-green-pass-protests.html) NYT: While there were scattered protests across Italy on Friday, many in the country appeared to accept the measure as necessary. 
  <p class="updated_time"> 03:34 PM CT, Oct. 15 </p> 
  [Quebec Language Debate Spurs Eerie Sense of Déjà-Vu](https://www.nytimes.com/2021/10/15/world/canada/quebec-language-debate.html) NYT: For a Montreal-based Times correspondent, proposed language legislation brings back memories of the 1970s. 
+ <p class="updated_time"> 03:24 PM CT, Oct. 15 </p> 
+ [Fatal Stabbing of British Lawmaker David Amess Called a Terrorist Attack](https://www.wsj.com/articles/british-lawmaker-david-amess-stabbed-and-killed-outside-london-11634307474) WSJ: A 25-year-old man killed Conservative lawmaker David Amess during a meeting with constituents, an assault U.K. authorities say was a terrorist attack. The man was arrested, and Islamist extremism could be a motive, police say. 
  <p class="updated_time"> 03:13 PM CT, Oct. 15 </p> 
  [A Year Later, a Schoolteacher’s Beheading Still Haunts France](https://www.nytimes.com/2021/10/15/world/europe/france-samuel-paty-beheading.html) NYT: The killing of Samuel Paty by an 18-year-old Chechen refugee intensified debate over security and immigration, and prompted intense scrutiny of the French secular model. 
  <p class="updated_time"> 02:54 PM CT, Oct. 15 </p> 
@@ -56,14 +66,10 @@ permalink: /charts/news/
  [How the Nobel Peace Prize Laid Bare the Schism in Russia’s Opposition](https://www.nytimes.com/2021/10/15/world/europe/russia-dissent-muratov-navalny-nobel.html) NYT: Dmitri A. Muratov, a new laureate, engages with the Kremlin, while Aleksei A. Navalny, the most high-profile Putin critic, resists all compromise. The Kremlin capitalizes on the fault line. 
  <p class="updated_time"> 11:10 AM CT, Oct. 15 </p> 
  [Push to Improve Sex Ed in Australia Comes From 10,000 Miles Away](https://www.nytimes.com/2021/10/15/world/australia/sex-education-consent-contos.html) NYT: A grad student in London hoped to collect a few testimonies from teenage sexual assault victims for a petition to teach consent in schools. She got thousands. 
- <p class="updated_time"> 10:52 AM CT, Oct. 15 </p> 
- [COP26: China's Xi Jinping unlikely to attend, UK PM told](https://www.bbc.co.uk/news/world-asia-china-58929296?at_medium=RSS&at_campaign=KARANGA) BBC: The UK has been warned the Chinese president is not likely to come, UK government sources say. 
  <p class="updated_time"> 10:40 AM CT, Oct. 15 </p> 
  [South Korean Military Struggles to Root Out Sexual Assaults](https://www.nytimes.com/2021/10/15/world/asia/south-korea-military-sexual-assault-suicide.html) NYT: The death of a woman in South Korea’s air force has rekindled outrage over the country’s armed forces, long criticized for abusing and discriminating​ against women. 
  <p class="updated_time"> 10:22 AM CT, Oct. 15 </p> 
  [Bangladesh Strengthens Security as Violence Targets Hindu Festival](https://www.nytimes.com/2021/10/15/world/asia/15bangladesh-muslim-hindu-violence.html) NYT: Paramilitary forces were deployed across much of the country after the worst communal violence in years targeted dozens of Hindu gatherings. 
- <p class="updated_time"> 10:20 AM CT, Oct. 15 </p> 
- [Fatal Stabbing of British Lawmaker David Amess Investigated as Terrorism](https://www.wsj.com/articles/british-lawmaker-david-amess-stabbed-and-killed-outside-london-11634307474) WSJ: A man killed Conservative lawmaker David Amess during a meeting with constituents, an assault U.K. authorities are investigating as a possible terrorist attack. Police said a 25-year-old man was arrested on suspicion of murder. 
  <p class="updated_time"> 09:38 AM CT, Oct. 15 </p> 
  [Norway Bow-and-Arrow Rampage Treated as Apparent Terrorism Attack](https://www.nytimes.com/2021/10/14/world/europe/norway-bow-and-arrow-attack.html) NYT: The police said that they had previously contacted the suspect, a 37-year-old Danish citizen who is believed to have killed five people, over concerns that he had been radicalized. 
  <p class="updated_time"> 09:37 AM CT, Oct. 15 </p> 
@@ -72,12 +78,8 @@ permalink: /charts/news/
  [Mexico City Replaces a Statue of Columbus With One of an Indigenous Woman](https://www.nytimes.com/2021/10/14/world/americas/mexico-columbus-statue-indigenous.html) NYT: The replacement of a figure seen as a monument to colonialism touched a nerve as the country debates how it is shaped by race and sex. 
  <p class="updated_time"> 09:16 AM CT, Oct. 15 </p> 
  [Bill Clinton: Former US president in hospital for 'non-Covid infection'](https://www.bbc.co.uk/news/world-us-canada-58921615?at_medium=RSS&at_campaign=KARANGA) BBC: The former US president is said to be "on the mend" and "in good spirits" in hospital in California. 
- <p class="updated_time"> 09:05 AM CT, Oct. 15 </p> 
- [Afghanistan: Suicide attack hits Kandahar mosque during prayers](https://www.bbc.co.uk/news/world-asia-58925863?at_medium=RSS&at_campaign=KARANGA) BBC: Explosions at a Shia mosque in Kandahar kill more than 30 people during Friday worship. 
  <p class="updated_time"> 08:38 AM CT, Oct. 15 </p> 
  [Italy Implements Tough Covid-19 Requirements for Workers](https://www.wsj.com/articles/italys-tough-workplace-covid-19-pass-a-harbinger-of-bidens-vaccine-mandate-11634300912) WSJ: Italians returned to their workplaces needing to show proof that they have received a Covid-19 vaccine, tested negative or recovered from the virus, a policy that could provide a preview of a similar mandate planned by the Biden administration. 
- <p class="updated_time"> 08:37 AM CT, Oct. 15 </p> 
- [Covid: Wave of Italian protests against mandatory work pass](https://www.bbc.co.uk/news/world-europe-58913865?at_medium=RSS&at_campaign=KARANGA) BBC: Thousands gather outside major ports, angry that the "Green Pass" is now mandatory for all workers. 
  <p class="updated_time"> 08:09 AM CT, Oct. 15 </p> 
  [Masten Wanjala: Mob beats Kenyan child serial killer to death - police](https://www.bbc.co.uk/news/world-africa-58923592?at_medium=RSS&at_campaign=KARANGA) BBC: Police had launched a massive manhunt for Masten Wanjala, who confessed to killing several children. 
  <p class="updated_time"> 08:07 AM CT, Oct. 15 </p> 
@@ -86,6 +88,8 @@ permalink: /charts/news/
  [Lebanon's Crisis, an Explainer ](https://www.nytimes.com/2021/10/14/briefing/lebanon-financial-crisis-lira.html) NYT: The world isn’t paying much attention. 
  <p class="updated_time"> 07:58 AM CT, Oct. 15 </p> 
  [Beirut port blast: Day of mourning in Lebanon after bloodshed at protest](https://www.bbc.co.uk/news/world-middle-east-58921314?at_medium=RSS&at_campaign=KARANGA) BBC: Seven people were killed and dozens injured in the worst violence for years in Beirut on Thursday. 
+ <p class="updated_time"> 07:57 AM CT, Oct. 15 </p> 
+ [Queensland, Australia: Motorcycle thief flees crime scene on tractor](https://www.bbc.co.uk/news/world-australia-58926803?at_medium=RSS&at_campaign=KARANGA) BBC: Police officers chased the suspect through the streets in Queensland, Australia. 
  <p class="updated_time"> 07:49 AM CT, Oct. 15 </p> 
  [Two More Guantánamo Detainees Are Approved for Release](https://www.nytimes.com/2021/10/13/us/politics/guantanamo-detainees-transfer.html) NYT: A board has now backed the release of 12 out of the 39 men remaining at the prison, but U.S. diplomats must first reach security agreements with destination countries. 
  <p class="updated_time"> 07:42 AM CT, Oct. 15 </p> 
