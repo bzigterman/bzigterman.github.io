@@ -6,6 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 05:36 AM CT, Oct. 16 </p> 
+ [What Are Political ‘Surgeries’ in Britain?](https://www.nytimes.com/2021/10/16/world/europe/political-surgeries-uk.html) NYT: The person-to-person meetings with voters give Britons unusually good access to their political representatives. But questions are being asked about whether the tradition can continue. 
  <p class="updated_time"> 05:05 AM CT, Oct. 16 </p> 
  [Myanmar army general Min Aung Hlaing excluded from leaders' summit](https://www.bbc.co.uk/news/world-asia-58938489?at_medium=RSS&at_campaign=KARANGA) BBC: South East Asian countries decide not to invite the military coup leader to their meeting. 
  <p class="updated_time"> 04:53 AM CT, Oct. 16 </p> 
@@ -182,8 +184,6 @@ permalink: /charts/news/
  [Man With Bow and Arrows Kills Five in Norway](https://www.nytimes.com/2021/10/13/world/europe/norway-bow-arrow-attack.html) NYT: As the country went on alert, the police scrambled to investigate an attack in a town 50 miles outside Oslo. 
  <p class="updated_time"> 04:08 AM CT, Oct. 14 </p> 
  [Kyrie Irving Defends Decision on Vaccine After Being Benched](https://www.nytimes.com/2021/10/13/world/kyrie-irving-vaccine-benched-nets.html) NYT: The N.B.A. star, who is set to make $40 million this year, said he opposes vaccine mandates, saying nobody should be “forced” to do it. 
- <p class="updated_time"> 01:14 AM CT, Oct. 14 </p> 
- [What Is the Northern Ireland Protocol?](https://www.nytimes.com/article/uk-northern-ireland-protocol-eu.html) NYT: Britain is demanding an end to post-Brexit rules known as the Northern Ireland protocol. The European Union sees the rules as a key part of protecting its single market. 
  <p class="updated_time"> 10:46 PM CT, Oct. 13 </p> 
  [Your Thursday Briefing](https://www.nytimes.com/2021/10/13/briefing/populism-europe-norway-attack.html) NYT: A blow for populism in Europe. 
  <p class="updated_time"> 04:23 PM CT, Oct. 13 </p> 
