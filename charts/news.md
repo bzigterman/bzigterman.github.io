@@ -62,8 +62,6 @@ permalink: /charts/news/
  [Virgin Galactic delays first commercial space flight](https://www.bbc.co.uk/news/business-58930280?at_medium=RSS&at_campaign=KARANGA) BBC: Shares in the firm dive 20% as it delays first tourist flight to make upgrades. 
  <p class="updated_time"> 01:58 PM CT, Oct. 15 </p> 
  [Abu Musab al-Barnawi, Leader of ISWAP, Has Died, Nigerian Army Says](https://www.nytimes.com/2021/10/15/world/africa/nigeria-islamic-state-abu-musab-al-barnawi-dead.html) NYT: A top military commander said that Abu Musab al-Barnawi, a kingpin of an extremist organization known as the Islamic State West Africa Province, had died. 
- <p class="updated_time"> 01:28 PM CT, Oct. 15 </p> 
- [Cricket - CSK beat KKR to win fourth IPL title](https://www.bbc.co.uk/sport/cricket/58929602?at_medium=RSS&at_campaign=KARANGA) BBC: Chennai Super Kings have been crowned Indian Premier League champions for the fourth time after beating Kolkata Knight Riders by 27 runs in the final. 
  <p class="updated_time"> 12:15 PM CT, Oct. 15 </p> 
  [Australian residents stranded overseas will be allowed to return to New South Wales.](https://www.nytimes.com/2021/10/15/world/australia/australian-residents-stranded-overseas-will-be-allowed-to-return-to-new-south-wales.html) NYT: NA 
  <p class="updated_time"> 12:06 PM CT, Oct. 15 </p> 
@@ -78,6 +76,8 @@ permalink: /charts/news/
  [South Korean Military Struggles to Root Out Sexual Assaults](https://www.nytimes.com/2021/10/15/world/asia/south-korea-military-sexual-assault-suicide.html) NYT: The death of a woman in South Korea’s air force has rekindled outrage over the country’s armed forces, long criticized for abusing and discriminating​ against women. 
  <p class="updated_time"> 10:22 AM CT, Oct. 15 </p> 
  [Bangladesh Strengthens Security as Violence Targets Hindu Festival](https://www.nytimes.com/2021/10/15/world/asia/15bangladesh-muslim-hindu-violence.html) NYT: Paramilitary forces were deployed across much of the country after the worst communal violence in years targeted dozens of Hindu gatherings. 
+ <p class="updated_time"> 09:59 AM CT, Oct. 15 </p> 
+ [Looted cockerel to be returned to Nigeria](https://www.bbc.co.uk/news/uk-england-cambridgeshire-58927240?at_medium=RSS&at_campaign=KARANGA) BBC: The Benin bronze, known as an "okukor", was given to Jesus College in Cambridge in 1905. 
  <p class="updated_time"> 09:38 AM CT, Oct. 15 </p> 
  [Norway Bow-and-Arrow Rampage Treated as Apparent Terrorism Attack](https://www.nytimes.com/2021/10/14/world/europe/norway-bow-and-arrow-attack.html) NYT: The police said that they had previously contacted the suspect, a 37-year-old Danish citizen who is believed to have killed five people, over concerns that he had been radicalized. 
  <p class="updated_time"> 09:37 AM CT, Oct. 15 </p> 
