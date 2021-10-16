@@ -6,10 +6,12 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 09:40 AM CT, Oct. 16 </p> 
+ [Macron Commemorates 1961 Paris Police Killing of Algerian Protesters](https://www.nytimes.com/2021/10/16/world/europe/paris-police-algerians-macron.html) NYT: President Emmanuel Macron of France is the country’s first head of state to attend an event marking the deaths, which officials ignored for decades. 
+ <p class="updated_time"> 09:34 AM CT, Oct. 16 </p> 
+ [Covid: Russia's daily deaths pass 1,000 for first time](https://www.bbc.co.uk/news/world-europe-58937582?at_medium=RSS&at_campaign=KARANGA) BBC: Infections continue to soar as the Kremlin struggles to persuade people to get vaccinated. 
  <p class="updated_time"> 09:32 AM CT, Oct. 16 </p> 
  [With Lawmaker’s Killing, U.K. Confronts a New Episode of Terrorism](https://www.nytimes.com/2021/10/16/world/europe/uk-stabbing-terrorism.html) NYT: Prime Minister Boris Johnson and other leaders paid their respects to David Amess, who was fatally stabbed while meeting with constituents. The police have a suspect in custody and said the attack was linked to Islamist extremism. 
- <p class="updated_time"> 09:20 AM CT, Oct. 16 </p> 
- [Macron Commemorates 1961 Paris Police Massacre of Algerian Protesters](https://www.nytimes.com/2021/10/16/world/europe/paris-police-algerians-macron.html) NYT: President Emmanuel Macron of France is the country’s first head of state to attend an event marking the deaths, which officials ignored for decades. 
  <p class="updated_time"> 09:15 AM CT, Oct. 16 </p> 
  [Myanmar army general Min Aung Hlaing excluded from leaders' summit](https://www.bbc.co.uk/news/world-asia-58938489?at_medium=RSS&at_campaign=KARANGA) BBC: South East Asian countries decide not to invite the military coup leader to their meeting. 
  <p class="updated_time"> 09:11 AM CT, Oct. 16 </p> 
@@ -32,8 +34,6 @@ permalink: /charts/news/
  [In Venezuela, a Rum Maker Offers Gangsters a Life Outside of Crime](https://www.nytimes.com/2021/10/16/world/americas/venezuela-rum-rehabilitation-crime.html) NYT: In the process, the family running the company, Ron Santa Teresa, has gone from bankruptcy to exporting an award-winning vintage rum. 
  <p class="updated_time"> 05:39 AM CT, Oct. 16 </p> 
  [Sir David Amess killing: Security for politicians is a global dilemma](https://www.bbc.co.uk/news/world-58937581?at_medium=RSS&at_campaign=KARANGA) BBC: Why the need to be a people's representative and the need for personal safety are in constant conflict. 
- <p class="updated_time"> 05:15 AM CT, Oct. 16 </p> 
- [Covid: Russia's daily deaths pass 1,000 for first time](https://www.bbc.co.uk/news/world-europe-58937582?at_medium=RSS&at_campaign=KARANGA) BBC: Infections continue to soar as the Kremlin struggles to persuade people to get vaccinated. 
  <p class="updated_time"> 04:53 AM CT, Oct. 16 </p> 
  [Squid Game: The rise of Korean drama addiction](https://www.bbc.co.uk/news/entertainment-arts-58896247?at_medium=RSS&at_campaign=KARANGA) BBC: Finished Squid Game? Here's a quick lowdown on other K-dramas for new converts. 
  <p class="updated_time"> 04:44 AM CT, Oct. 16 </p> 
