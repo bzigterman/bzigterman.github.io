@@ -28,6 +28,8 @@ permalink: /charts/news/
  [Myanmar army general Min Aung Hlaing excluded from leaders' summit](https://www.bbc.co.uk/news/world-asia-58938489?at_medium=RSS&at_campaign=KARANGA) BBC: South East Asian countries decide not to invite the military coup leader to their meeting. 
  <p class="updated_time"> 04:53 AM CT, Oct. 16 </p> 
  [Squid Game: The rise of Korean drama addiction](https://www.bbc.co.uk/news/entertainment-arts-58896247?at_medium=RSS&at_campaign=KARANGA) BBC: Finished Squid Game? Here's a quick lowdown on other K-dramas for new converts. 
+ <p class="updated_time"> 04:44 AM CT, Oct. 16 </p> 
+ [British Police Search London Homes in Wake of Killing of Lawmaker](https://www.wsj.com/articles/british-police-search-london-homes-in-wake-of-david-amess-killing-11634384192) WSJ: U.K. authorities said the fatal stabbing of David Amess could be linked with Islamic extremism and that the suspect appeared to have acted alone. 
  <p class="updated_time"> 04:22 AM CT, Oct. 16 </p> 
  [Catholic Church in Sicily Bans Godparents For Now](https://www.nytimes.com/2021/10/16/world/europe/italy-godfather-catholic-church.html) NYT: Part of the Catholic church in Sicily has imposed a three-year prohibition on naming godparents, arguing that the tradition has become merely a way to fortify family ties — and mob ties, too. 
  <p class="updated_time"> 04:00 AM CT, Oct. 16 </p> 
@@ -40,8 +42,6 @@ permalink: /charts/news/
  [British Museums Face Covid’s Long-Term Effects](https://www.nytimes.com/2021/10/14/arts/design/british-museums-recovery.html) NYT: Months of closures during the pandemic have caused financial havoc for art venues, and many expect to be strapped for years. At the Victoria and Albert Museum in London, the virus’s impact is clear. 
  <p class="updated_time"> 02:39 AM CT, Oct. 16 </p> 
  [New Zealand Attempts a Record-Setting ‘Vaxathon’](https://www.nytimes.com/2021/10/16/world/australia/new-zealand-vaccines.html) NYT: The country took a different approach to encouraging vaccinations on Saturday, with barbecues, a telethon and the chance to get jabbed in the business-class seat of a Boeing 787. 
- <p class="updated_time"> 02:36 AM CT, Oct. 16 </p> 
- [British Police Search London Homes in Wake of Killing of Lawmaker](https://www.wsj.com/articles/british-police-search-london-homes-in-wake-of-david-amess-killing-11634384192) WSJ: U.K. authorities said the fatal stabbing of David Amess could be linked with Islamic extremism and that the suspect appeared to have acted alone. 
  <p class="updated_time"> 01:40 AM CT, Oct. 16 </p> 
  [Pablo Escobar: Colombia sterilises drug lord's hippos](https://www.bbc.co.uk/news/world-latin-america-58937415?at_medium=RSS&at_campaign=KARANGA) BBC: Scientists are concerned about the impact of the rogue non-native herd near Escobar's former ranch. 
  <p class="updated_time"> 12:53 AM CT, Oct. 16 </p> 
