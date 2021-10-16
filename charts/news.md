@@ -65,7 +65,7 @@ permalink: /charts/news/
  <p class="updated_time"> 06:01 PM CT, Oct. 15 </p> 
  [Ros Atkins on… China-Taiwan Tensions](https://www.bbc.co.uk/news/world-58925971?at_medium=RSS&at_campaign=KARANGA) BBC: Ros Atkins examines why tensions between China and Taiwan have increased over recent weeks. 
  <p class="updated_time"> 06:00 PM CT, Oct. 15 </p> 
- [Life at 50C: Fleeing Sahara's shifting sands](https://www.bbc.co.uk/news/science-environment-58925616?at_medium=RSS&at_campaign=KARANGA) BBC: Rising temperatures and desertification are forcing many Mauritanians to leave their ancestral homes in search of a better life. 
+ [Life at 50C: Fleeing Sahara's shifting sands](https://www.bbc.co.uk/news/science-environment-58925616?at_medium=RSS&at_campaign=KARANGA) BBC: Rising temperatures and desertification are forcing many Mauritanians to leave their ancestral homes. 
  <p class="updated_time"> 05:00 PM CT, Oct. 15 </p> 
  [Booster Confusion](https://www.nytimes.com/2021/10/15/briefing/johnson-and-johnson-booster-fda.html) NYT: When an F.D.A. panel meets today about J. & J. booster shots, there will be an elephant in the room. 
  <p class="updated_time"> 04:46 PM CT, Oct. 15 </p> 
