@@ -6,6 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 08:37 AM CT, Oct. 16 </p> 
+ [Sir David Amess killing casts shadow over Leigh-on-Sea constituency](https://www.bbc.co.uk/news/uk-england-essex-58938850?at_medium=RSS&at_campaign=KARANGA) BBC: Constituents in Leigh-on-Sea mourn Sir David Amess as they try to make sense of what happened. 
  <p class="updated_time"> 08:30 AM CT, Oct. 16 </p> 
  [Quebec Language Debate Spurs Eerie Sense of Déjà-Vu](https://www.nytimes.com/2021/10/15/world/canada/quebec-language-debate.html) NYT: For a Montreal-based Times correspondent, proposed language legislation brings back memories of the 1970s. 
  <p class="updated_time"> 08:23 AM CT, Oct. 16 </p> 
@@ -30,12 +32,14 @@ permalink: /charts/news/
  [Catholic Church in Sicily Bans Godparents For Now](https://www.nytimes.com/2021/10/16/world/europe/italy-godfather-catholic-church.html) NYT: Part of the Catholic church in Sicily has imposed a three-year prohibition on naming godparents, arguing that the tradition has become merely a way to fortify family ties — and mob ties, too. 
  <p class="updated_time"> 04:00 AM CT, Oct. 16 </p> 
  [China's Scripted Homicides Become a Popular Pastime](https://www.nytimes.com/2021/10/16/world/asia/china-murder-script.html) NYT: “Scripted homicide” clubs have opened around the country as young people look for ways to escape and connect. Naturally, the government has questions. 
+ <p class="updated_time"> 03:31 AM CT, Oct. 16 </p> 
+ [Some Sell Children as Afghanistan Sinks Into Destitution](https://www.wsj.com/articles/as-afghanistan-sinks-into-destitution-some-sell-children-to-survive-11634387501) WSJ: Such is the starkness of deepening poverty in Afghanistan, a humanitarian crisis that is worsening fast after the Taliban seized power and most foreign aid ended. 
+ <p class="updated_time"> 03:02 AM CT, Oct. 16 </p> 
+ [Myanmar's Military Junta Denied a Seat at Asean Summit](https://www.wsj.com/articles/myanmars-military-junta-denied-a-seat-at-asean-summit-11634385775) WSJ: The regional bloc’s decision effectively sidelines Myanmar’s bid for international legitimacy and increases pressure on the country to cooperate with its neighbors to resolve its political crisis. 
  <p class="updated_time"> 02:55 AM CT, Oct. 16 </p> 
  [British Museums Face Covid’s Long-Term Effects](https://www.nytimes.com/2021/10/14/arts/design/british-museums-recovery.html) NYT: Months of closures during the pandemic have caused financial havoc for art venues, and many expect to be strapped for years. At the Victoria and Albert Museum in London, the virus’s impact is clear. 
  <p class="updated_time"> 02:39 AM CT, Oct. 16 </p> 
  [New Zealand Attempts a Record-Setting ‘Vaxathon’](https://www.nytimes.com/2021/10/16/world/australia/new-zealand-vaccines.html) NYT: The country took a different approach to encouraging vaccinations on Saturday, with barbecues, a telethon and the chance to get jabbed in the business-class seat of a Boeing 787. 
- <p class="updated_time"> 02:38 AM CT, Oct. 16 </p> 
- [Sir David Amess: How a tragic day unfolded](https://www.bbc.co.uk/news/uk-58932139?at_medium=RSS&at_campaign=KARANGA) BBC: How constituents and authorities reacted to the tragic killing of Sir David Amess. 
  <p class="updated_time"> 02:36 AM CT, Oct. 16 </p> 
  [British Police Search London Homes in Wake of Killing of Lawmaker](https://www.wsj.com/articles/british-police-search-london-homes-in-wake-of-david-amess-killing-11634384192) WSJ: U.K. authorities said the fatal stabbing of David Amess could be linked with Islamic extremism and that the suspect appeared to have acted alone. 
  <p class="updated_time"> 01:40 AM CT, Oct. 16 </p> 
@@ -88,8 +92,6 @@ permalink: /charts/news/
  [Pandemic-stricken Thailand, aiming to revive tourism, reopens the cave a soccer team was trapped in.](https://www.nytimes.com/2021/10/15/world/thailand-lets-tourists-return-to-the-cave-where-a-soccer-team-was-rescued.html) NYT: NA 
  <p class="updated_time"> 02:42 PM CT, Oct. 15 </p> 
  [Virgin Galactic delays first commercial space flight](https://www.bbc.co.uk/news/business-58930280?at_medium=RSS&at_campaign=KARANGA) BBC: Shares in the firm dive 20% as it delays first tourist flight to make upgrades. 
- <p class="updated_time"> 02:08 PM CT, Oct. 15 </p> 
- ['David Amess was my best friend': Essex town in grief](https://www.bbc.co.uk/news/uk-england-essex-58928927?at_medium=RSS&at_campaign=KARANGA) BBC: Residents choke back tears on the streets of Leigh-on Sea as they remember their compassionate MP. 
  <p class="updated_time"> 01:58 PM CT, Oct. 15 </p> 
  [Abu Musab al-Barnawi, Leader of ISWAP, Has Died, Nigerian Army Says](https://www.nytimes.com/2021/10/15/world/africa/nigeria-islamic-state-abu-musab-al-barnawi-dead.html) NYT: A top military commander said that Abu Musab al-Barnawi, a kingpin of an extremist organization known as the Islamic State West Africa Province, had died. 
  <p class="updated_time"> 01:29 PM CT, Oct. 15 </p> 
@@ -112,10 +114,6 @@ permalink: /charts/news/
  [U.K. Lab Issues 43,000 False Negatives on Virus Tests](https://www.nytimes.com/2021/10/15/world/uk-lab-false-negative-tests.html) NYT: The mistake was described as an “isolated incident attributed to one laboratory,” in a statement released by the U.K. Health Security Agency on Friday. 
  <p class="updated_time"> 09:37 AM CT, Oct. 15 </p> 
  [Mexico City Replaces a Statue of Columbus With One of an Indigenous Woman](https://www.nytimes.com/2021/10/14/world/americas/mexico-columbus-statue-indigenous.html) NYT: The replacement of a figure seen as a monument to colonialism touched a nerve as the country debates how it is shaped by race and sex. 
- <p class="updated_time"> 08:38 AM CT, Oct. 15 </p> 
- [Italy Implements Tough Covid-19 Requirements for Workers](https://www.wsj.com/articles/italys-tough-workplace-covid-19-pass-a-harbinger-of-bidens-vaccine-mandate-11634300912) WSJ: Italians returned to their workplaces needing to show proof that they have received a Covid-19 vaccine, tested negative or recovered from the virus, a policy that could provide a preview of a similar mandate planned by the Biden administration. 
- <p class="updated_time"> 08:30 AM CT, Oct. 15 </p> 
- [Fears Grow for Fate of Lebanon's Capital](https://www.wsj.com/articles/after-beirut-blast-and-worst-clashes-in-years-fears-grow-for-fate-of-lebanons-capital-11634319055) WSJ: Sectarian clashes in Beirut are a reminder of just how close Lebanon is to returning to the anarchy that defined the country for more than 15 years. 
  <p class="updated_time"> 08:07 AM CT, Oct. 15 </p> 
  [Deadly Clashes in Beirut Escalate Fears Over Lebanon’s Dysfunction](https://www.nytimes.com/2021/10/14/world/middleeast/beirut-lebanon.html) NYT: The fighting further traumatized the small Mediterranean country, a patchwork of sects that has tumbled into an abyss of devastating political and economic crises. 
  <p class="updated_time"> 08:06 AM CT, Oct. 15 </p> 
