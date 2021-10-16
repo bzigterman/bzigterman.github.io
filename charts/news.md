@@ -6,12 +6,12 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 02:39 AM CT, Oct. 16 </p> 
+ [New Zealand Attempts a Record-Setting ‘Vaxathon’](https://www.nytimes.com/2021/10/16/world/australia/new-zealand-vaccines.html) NYT: The country took a different approach to encouraging vaccinations on Saturday, with barbecues, a telethon and the chance to get jabbed in the business-class seat of a Boeing 787. 
  <p class="updated_time"> 01:40 AM CT, Oct. 16 </p> 
  [Pablo Escobar: Colombia sterilises drug lord's hippos](https://www.bbc.co.uk/news/world-latin-america-58937415?at_medium=RSS&at_campaign=KARANGA) BBC: Twenty-four of more than 80 hippos are sterilised after scientists warn of the environmental impact. 
  <p class="updated_time"> 12:37 AM CT, Oct. 16 </p> 
  [Nike Jordan boss reveals he murdered an 18-year-old in 1965](https://www.bbc.co.uk/news/world-us-canada-58931528?at_medium=RSS&at_campaign=KARANGA) BBC: Larry Miller, now 72, said he was in a gang as a teenager when he shot an 18-year-old. 
- <p class="updated_time"> 12:10 AM CT, Oct. 16 </p> 
- [New Zealand Attempts a Record-Setting ‘Vaxathon’](https://www.nytimes.com/2021/10/16/world/australia/new-zealand-vaccines.html) NYT: The country took a different approach to encouraging vaccinations on Saturday, with barbecues, a telethon and the chance to get jabbed in the business-class seat of a Boeing 787. 
  <p class="updated_time"> 11:31 PM CT, Oct. 15 </p> 
  [Afghanistan: US offers to pay relatives of Kabul drone attack victims](https://www.bbc.co.uk/news/world-us-canada-58935260?at_medium=RSS&at_campaign=KARANGA) BBC: Ten people were mistakenly killed by the US military in a drone strike on the Afghan capital. 
  <p class="updated_time"> 10:17 PM CT, Oct. 15 </p> 
