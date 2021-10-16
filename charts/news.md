@@ -6,7 +6,7 @@ permalink: /charts/news/
 
 ## World News
 
- <p class="updated_time"> 04:00 AM CT, Oct. 16 </p> 
+ <p class="updated_time"> 04:22 AM CT, Oct. 16 </p> 
  [Catholic Church in Sicily Bans Godparents For Now](https://www.nytimes.com/2021/10/16/world/europe/italy-godfather-catholic-church.html) NYT: Part of the Catholic church in Sicily has imposed a three-year prohibition on naming godparents, arguing that the tradition has become merely a way to fortify family ties — and mob ties, too. 
  <p class="updated_time"> 04:00 AM CT, Oct. 16 </p> 
  [China's Scripted Homicides Become a Popular Pastime](https://www.nytimes.com/2021/10/16/world/asia/china-murder-script.html) NYT: “Scripted homicide” clubs have opened around the country as young people look for ways to escape and connect. Naturally, the government has questions. 
