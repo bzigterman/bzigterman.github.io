@@ -6,6 +6,10 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 03:39 PM CT, Oct. 17 </p> 
+ [Town Rattled by Bow-and-Arrow Killings Ponders Terrorism and Mental Illness](https://www.nytimes.com/2021/10/17/world/europe/norway-bow-and-arrow-killings.html) NYT: The police in Norway, initially pointing to Islamic extremism, now say an attacker was “not well, mentally.” 
+ <p class="updated_time"> 03:36 PM CT, Oct. 17 </p> 
+ [Robert Durst, Millionaire Convicted of Murder, on Ventilator With Covid](https://www.nytimes.com/2021/10/16/world/robert-durst-covid-ventilator.html) NYT: The 78-year-old millionaire and former real estate mogul was sentenced to life in prison on Thursday for the murder of a friend in 2000. 
  <p class="updated_time"> 03:22 PM CT, Oct. 17 </p> 
  [Russia sets condition for return of BBC journalist](https://www.bbc.co.uk/news/world-europe-58944531?at_medium=RSS&at_campaign=KARANGA) BBC: Ambassador Andrei Kelin says the BBC reporter can return if Russian journalists gets UK visas. 
  <p class="updated_time"> 03:09 PM CT, Oct. 17 </p> 
@@ -18,8 +22,6 @@ permalink: /charts/news/
  [Police Search for Motive in British Lawmaker’s Killing](https://www.nytimes.com/2021/10/17/world/europe/uk-stabbing-attack.html) NYT: An attack has rekindled questions about the security of members of Parliament. 
  <p class="updated_time"> 02:35 PM CT, Oct. 17 </p> 
  [Haiti kidnap: 400 Mawozo accused of US missionary kidnap](https://www.bbc.co.uk/news/world-latin-america-58948107?at_medium=RSS&at_campaign=KARANGA) BBC: The armed gang, called 400 Mawozo, is holding 17 women, men and children from the US and Canada. 
- <p class="updated_time"> 02:27 PM CT, Oct. 17 </p> 
- [Robert Durst, Millionaire Convicted of Murder, on Ventilator With Covid](https://www.nytimes.com/2021/10/16/world/robert-durst-covid-ventilator.html) NYT: The 78-year-old millionaire and former real estate mogul was sentenced to life in prison on Thursday for the murder of a friend in 2000. 
  <p class="updated_time"> 12:45 PM CT, Oct. 17 </p> 
  [Fake Polls and Tabloid Coverage on Demand: The Dark Side of Sebastian Kurz](https://www.nytimes.com/2021/10/17/world/europe/austria-sebastian-kurz-scandal-chancellor.html) NYT: The downfall of Austria’s onetime political Wunderkind put a spotlight on the cozy, sometimes corrupt, relationship between right-wing populists and parts of the news media. 
  <p class="updated_time"> 11:55 AM CT, Oct. 17 </p> 
@@ -156,8 +158,6 @@ permalink: /charts/news/
  [Bangladesh Strengthens Security as Violence Targets Hindu Festival](https://www.nytimes.com/2021/10/15/world/asia/15bangladesh-muslim-hindu-violence.html) NYT: Paramilitary forces were deployed across much of the country after the worst communal violence in years targeted dozens of Hindu gatherings. 
  <p class="updated_time"> 09:37 AM CT, Oct. 15 </p> 
  [U.K. Lab Issues 43,000 False Negatives on Virus Tests](https://www.nytimes.com/2021/10/15/world/uk-lab-false-negative-tests.html) NYT: The mistake was described as an “isolated incident attributed to one laboratory,” in a statement released by the U.K. Health Security Agency on Friday. 
- <p class="updated_time"> 09:37 AM CT, Oct. 15 </p> 
- [Mexico City Replaces a Statue of Columbus With One of an Indigenous Woman](https://www.nytimes.com/2021/10/14/world/americas/mexico-columbus-statue-indigenous.html) NYT: The replacement of a figure seen as a monument to colonialism touched a nerve as the country debates how it is shaped by race and sex. 
  <p class="updated_time"> 07:42 AM CT, Oct. 15 </p> 
  [Taiwan’s ‘Ghost Building’ Fire: a Death Trap for Dozens of Elderly](https://www.nytimes.com/2021/10/15/world/asia/taiwan-building-fire.html) NYT: “I had no choice but to live here,” said one resident who survived a blaze that killed 46 of her neighbors and raised questions about lax safety standards. 
  <p class="updated_time"> 07:08 AM CT, Oct. 15 </p> 
