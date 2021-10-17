@@ -6,12 +6,14 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 11:08 PM CT, Oct. 16 </p> 
+ [U.S. Arrests Alex Saab, Deal Maker for Nicolás Maduro of Venezuela](https://www.nytimes.com/2021/10/16/world/americas/alex-saab-arrest-venezuela-maduro.html) NYT: Alex Saab, a Colombian businessman, is accused in the U.S. of siphoning millions from programs intended to help the needy in Venezuela. 
+ <p class="updated_time"> 11:05 PM CT, Oct. 16 </p> 
+ [With Lawmaker’s Killing, U.K. Confronts a New Episode of Terrorism](https://www.nytimes.com/2021/10/16/world/europe/uk-stabbing-terrorism.html) NYT: The police conducted searches and questioned the suspect as Prime Minister Boris Johnson and other leaders paid respects to David Amess, who was fatally stabbed while meeting with constituents. 
  <p class="updated_time"> 09:55 PM CT, Oct. 16 </p> 
  [American Missionaries Kidnapped in Haiti, Officials Say](https://www.nytimes.com/2021/10/16/world/americas/missionaries-kidnap-haiti.html) NYT: Up to 17 missionaries and their family members were taken by gangs in the capital of a country where kidnappings have become increasingly common. 
  <p class="updated_time"> 09:44 PM CT, Oct. 16 </p> 
  [Syria Accuses Israel of Assassinating Official Near Golan Heights](https://www.nytimes.com/2021/10/16/world/syria-accuses-israel-of-assassinating-official-near-golan-heights.html) NYT: Midhat Saleh, who oversaw the strategic Golan Heights boundary for Syria, was shot and killed by a sniper, the government said. 
- <p class="updated_time"> 09:41 PM CT, Oct. 16 </p> 
- [U.S. Arrests Alex Saab, Deal Maker for Nicolás Maduro of Venezuela](https://www.nytimes.com/2021/10/16/world/americas/alex-saab-arrest-venezuela-maduro.html) NYT: Alex Saab, a Colombian businessman, is accused in the U.S. of siphoning millions from programs intended to help the needy in Venezuela. 
  <p class="updated_time"> 09:39 PM CT, Oct. 16 </p> 
  [National Guard Called Up to Ease Crowding at Minnesota Hospitals ](https://www.nytimes.com/2021/10/16/world/americas/minnesota-governor-walz-national-guard-covid.html) NYT: Staffing shortages at long-term care facilities are preventing hospitals from discharging patients and admitting new ones. 
  <p class="updated_time"> 09:04 PM CT, Oct. 16 </p> 
@@ -30,8 +32,6 @@ permalink: /charts/news/
  [How a massacre of Algerians in Paris was covered up](https://www.bbc.co.uk/news/world-africa-58927939?at_medium=RSS&at_campaign=KARANGA) BBC: French police killed up to 300 people in 1961, throwing some of them into the River Seine to drown them. 
  <p class="updated_time"> 06:02 PM CT, Oct. 16 </p> 
  [Pigs at Amsterdam's Schiphol Airport help to keep skies safe](https://www.bbc.co.uk/news/world-europe-58928677?at_medium=RSS&at_campaign=KARANGA) BBC: A team of 20 at Amsterdam's Schiphol Airport is part of a range of measures being used to reduce bird-strikes. 
- <p class="updated_time"> 05:01 PM CT, Oct. 16 </p> 
- [With Lawmaker’s Killing, U.K. Confronts a New Episode of Terrorism](https://www.nytimes.com/2021/10/16/world/europe/uk-stabbing-terrorism.html) NYT: The police conducted searches and questioned the suspect as Prime Minister Boris Johnson and other leaders paid respects to David Amess, who was fatally stabbed while meeting with constituents. 
  <p class="updated_time"> 04:51 PM CT, Oct. 16 </p> 
  [Macron condemns 'unforgivable' 1961 massacre of Algerians in Paris](https://www.bbc.co.uk/news/world-europe-58943245?at_medium=RSS&at_campaign=KARANGA) BBC: The 1961 Paris massacre was denied or concealed by French governments for decades. 
  <p class="updated_time"> 04:23 PM CT, Oct. 16 </p> 
