@@ -6,10 +6,12 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 05:42 PM CT, Oct. 17 </p> 
+ [Hungary: Mayor Marki-Zay wins run-off to challenge Orban](https://www.bbc.co.uk/news/world-europe-58949864?at_medium=RSS&at_campaign=KARANGA) BBC: Polls suggest Peter Marki-Zay has the best chance of ousting Prime Minister Viktor Orban. 
+ <p class="updated_time"> 05:40 PM CT, Oct. 17 </p> 
+ [Indian State Evicts Muslims, Even Those Living There Legally](https://www.nytimes.com/2021/10/17/world/asia/india-assam-muslim-evictions.html) NYT: Critics say an Indian state’s campaign to expel longtime residents on government land marks the ruling party’s latest campaign against Muslims. 
  <p class="updated_time"> 05:22 PM CT, Oct. 17 </p> 
  [Town Rattled by Bow-and-Arrow Killings Ponders Terrorism and Mental Illness](https://www.nytimes.com/2021/10/17/world/europe/norway-bow-and-arrow-killings.html) NYT: The police in Norway, initially pointing to Islamic extremism, now say an attacker was “not well, mentally.” 
- <p class="updated_time"> 05:08 PM CT, Oct. 17 </p> 
- [Indian State Evicts Muslims, Even Those Living There Legally](https://www.nytimes.com/2021/10/17/world/asia/india-assam-muslim-evictions.html) NYT: Critics say an Indian state’s campaign to expel longtime residents on government land marks the ruling party’s latest campaign against Muslims. 
  <p class="updated_time"> 05:07 PM CT, Oct. 17 </p> 
  [Belarus: French ambassador leaves Minsk after Minsk expels him](https://www.bbc.co.uk/news/world-europe-58949524?at_medium=RSS&at_campaign=KARANGA) BBC: France, among other countries, does not recognise the president's claim to a sixth term. 
  <p class="updated_time"> 04:15 PM CT, Oct. 17 </p> 
