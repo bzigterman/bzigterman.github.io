@@ -6,6 +6,10 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 04:15 PM CT, Oct. 17 </p> 
+ [Will New Covid Treatments Be as Elusive for Poor Countries as Vaccines?](https://www.nytimes.com/2021/10/17/health/covid-treatment-access-molnupiravir.html) NYT: Merck has taken a step to make its antiviral pill available in poor nations, but many obstacles remain for broad access to coronavirus drugs. 
+ <p class="updated_time"> 04:00 PM CT, Oct. 17 </p> 
+ [Your Monday Briefing](https://www.nytimes.com/2021/10/17/briefing/haiti-kidnapping-south-korea-draft.html) NYT: Haitian gang kidnaps missionaries. 
  <p class="updated_time"> 03:39 PM CT, Oct. 17 </p> 
  [Town Rattled by Bow-and-Arrow Killings Ponders Terrorism and Mental Illness](https://www.nytimes.com/2021/10/17/world/europe/norway-bow-and-arrow-killings.html) NYT: The police in Norway, initially pointing to Islamic extremism, now say an attacker was “not well, mentally.” 
  <p class="updated_time"> 03:36 PM CT, Oct. 17 </p> 
@@ -60,8 +64,6 @@ permalink: /charts/news/
  [South Korea Reconsiders a Rite of Manhood: The Draft](https://www.nytimes.com/2021/10/17/world/asia/south-korea-conscription.html) NYT: Military conscription has become less popular. The rules have loosened. But experts still worry about the threat from the North. 
  <p class="updated_time"> 04:26 AM CT, Oct. 17 </p> 
  [Macron condemns 'unforgivable' 1961 massacre of Algerians in Paris](https://www.bbc.co.uk/news/world-europe-58943245?at_medium=RSS&at_campaign=KARANGA) BBC: The 1961 Paris massacre was denied or concealed by French governments for decades. 
- <p class="updated_time"> 04:00 AM CT, Oct. 17 </p> 
- [Will New Covid Treatments Be as Elusive for Poor Countries as Vaccines?](https://www.nytimes.com/2021/10/17/health/covid-treatment-access-molnupiravir.html) NYT: Merck has taken a step to make its antiviral pill available in poor nations, but many obstacles remain for broad access to coronavirus drugs. 
  <p class="updated_time"> 03:24 AM CT, Oct. 17 </p> 
  [Russian team back on Earth after filming first movie in space](https://www.bbc.co.uk/news/world-europe-58944660?at_medium=RSS&at_campaign=KARANGA) BBC: The Russian film crew return after an ISS shoot that had its own moments of drama. 
  <p class="updated_time"> 01:37 AM CT, Oct. 17 </p> 
@@ -84,6 +86,8 @@ permalink: /charts/news/
  [Airlines in Japan and South Korea Try Novel Ideas to Lure Fliers](https://www.nytimes.com/2021/10/16/world/japan-south-korea-airlines-covid-incentives.html) NYT: How about inexpensive passes good for a month of domestic flights? Or popular in-flight meals to on-the-ground customers? 
  <p class="updated_time"> 06:09 PM CT, Oct. 16 </p> 
  [Apparently, it's the next big thing. What is the metaverse?](https://www.bbc.co.uk/news/technology-58749529?at_medium=RSS&at_campaign=KARANGA) BBC: What does it mean, and what have Facebook and Fortnite got to do with it? 
+ <p class="updated_time"> 06:08 PM CT, Oct. 16 </p> 
+ [How a massacre of Algerians in Paris was covered up](https://www.bbc.co.uk/news/world-africa-58927939?at_medium=RSS&at_campaign=KARANGA) BBC: French police killed at least 100 people in 1961, throwing some of them into the River Seine to drown them. 
  <p class="updated_time"> 06:02 PM CT, Oct. 16 </p> 
  [Pigs at Amsterdam's Schiphol Airport help to keep skies safe](https://www.bbc.co.uk/news/world-europe-58928677?at_medium=RSS&at_campaign=KARANGA) BBC: A team of 20 at Amsterdam's Schiphol Airport is part of a range of measures being used to reduce bird-strikes. 
  <p class="updated_time"> 05:30 PM CT, Oct. 16 </p> 
@@ -170,8 +174,6 @@ permalink: /charts/news/
  [Your Friday Briefing](https://www.nytimes.com/2021/10/15/briefing/beirut-fighting-pandemic-america.html) NYT: The state of the pandemic in the U.S. 
  <p class="updated_time"> 08:19 PM CT, Oct. 14 </p> 
  [Faulty Studs Led to Mexico City Metro Collapse, Attorney General Says](https://www.nytimes.com/2021/10/14/world/americas/mexico-city-metro-collapse.html) NYT: A monthslong investigation by city authorities supports the central findings of a New York Times investigation, which had uncovered a series of fatal construction flaws. 
- <p class="updated_time"> 07:31 PM CT, Oct. 14 </p> 
- [Biden Meets With Kenya’s President Amid Crisis in Ethiopia](https://www.nytimes.com/2021/10/14/us/politics/biden-kenya-kenyatta-ethiopia.html) NYT: The two leaders were also expected to discuss the escalating humanitarian crisis in the Tigray region of Ethiopia, where fighters have been accused of atrocities against civilians. 
  <p class="updated_time"> 06:10 PM CT, Oct. 14 </p> 
  ['They will hang me': Afghan interpreters blocked by UK seek appeal](https://www.bbc.co.uk/news/world-asia-58830736?at_medium=RSS&at_campaign=KARANGA) BBC: Former interpreters fear for their lives after the UK blocks their evacuation on security grounds. 
  <p class="updated_time"> 05:10 PM CT, Oct. 14 </p> 
