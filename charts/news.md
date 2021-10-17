@@ -6,10 +6,10 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 11:55 AM CT, Oct. 17 </p> 
+ ['400 Mawozo' Gang Suspected in Kidnapping Among Haiti's Most Dangerous](https://www.nytimes.com/2021/10/17/world/americas/400-mawozo-haiti-kidnapping.html) NYT: The gang, “400 Mawozo,” captured several clergy members in April, and the local authorities say it is behind Saturday’s kidnapping. 
  <p class="updated_time"> 11:17 AM CT, Oct. 17 </p> 
  [Tunisians Recall Revolution Reluctantly, if at All: ‘It Just Faded Away’](https://www.nytimes.com/2021/10/17/world/middleeast/tunisia-revolution-memoro-monuments.html) NYT: When a monument to those killed in the 2011 uprising was recently damaged, few took notice or even cared in a town, and country, where there is now more regret than a wish to remember. 
- <p class="updated_time"> 11:09 AM CT, Oct. 17 </p> 
- ['400 Mawozo' Gang Suspected in Kidnapping Among Haiti's Most Dangerous](https://www.nytimes.com/2021/10/17/world/americas/400-mawozo-haiti-kidnapping.html) NYT: The gang, “400 Mawozo,” captured several clergy members in April, and the local authorities say it is behind Saturday’s kidnapping. 
  <p class="updated_time"> 11:00 AM CT, Oct. 17 </p> 
  [China's Scripted Homicides Become a Popular Pastime](https://www.nytimes.com/2021/10/16/world/asia/china-murder-script.html) NYT: “Scripted homicide” clubs have opened around the country as young people look for ways to escape and connect. Naturally, the government has questions. 
  <p class="updated_time"> 10:14 AM CT, Oct. 17 </p> 
@@ -158,8 +158,6 @@ permalink: /charts/news/
  [As Italy Mandates Covid Passes, Rules Vary Across Europe](https://www.nytimes.com/2021/10/15/world/europe/covid-passes.html) NYT: Varying measures reflect domestic politics and potential opposition against such rules. 
  <p class="updated_time"> 06:58 AM CT, Oct. 15 </p> 
  [Hate Crimes and Pandemic Lead More Asian Americans to Seek Therapy](https://www.nytimes.com/2021/10/15/us/asian-american-therapy-hate-crimes.html) NYT: A growing number of Asian Americans have overcome a cultural stigma attached to seeking mental health treatment, experts said. 
- <p class="updated_time"> 04:50 AM CT, Oct. 15 </p> 
- [Queen 'irritated' by climate change inaction in COP26 build-up](https://www.bbc.co.uk/news/uk-58923924?at_medium=RSS&at_campaign=KARANGA) BBC: The monarch appears to criticise people who "talk" but "don't do", ahead of the COP26 summit. 
  <p class="updated_time"> 03:39 AM CT, Oct. 15 </p> 
  [Man Whose Attack on Ex-Wife Was Livestreamed Gets Death Penalty in China](https://www.nytimes.com/2021/10/15/world/asia/china-livestream-killing-abuse.html) NYT: The case riveted the public’s attention in China and spotlighted the patchy enforcement of the country’s law against domestic violence. 
  <p class="updated_time"> 11:09 PM CT, Oct. 14 </p> 
@@ -172,8 +170,6 @@ permalink: /charts/news/
  [Faulty Studs Led to Mexico City Metro Collapse, Attorney General Says](https://www.nytimes.com/2021/10/14/world/americas/mexico-city-metro-collapse.html) NYT: A monthslong investigation by city authorities supports the central findings of a New York Times investigation, which had uncovered a series of fatal construction flaws. 
  <p class="updated_time"> 07:31 PM CT, Oct. 14 </p> 
  [Biden Meets With Kenya’s President Amid Crisis in Ethiopia](https://www.nytimes.com/2021/10/14/us/politics/biden-kenya-kenyatta-ethiopia.html) NYT: The two leaders were also expected to discuss the escalating humanitarian crisis in the Tigray region of Ethiopia, where fighters have been accused of atrocities against civilians. 
- <p class="updated_time"> 06:40 PM CT, Oct. 14 </p> 
- [Why giant turbines are pushing the limits of possibility](https://www.bbc.co.uk/news/business-58704792?at_medium=RSS&at_campaign=KARANGA) BBC: Huge wind turbines are pushing the limits of what ports and installation vessels can handle. 
  <p class="updated_time"> 06:10 PM CT, Oct. 14 </p> 
  ['They will hang me': Afghan interpreters blocked by UK seek appeal](https://www.bbc.co.uk/news/world-asia-58830736?at_medium=RSS&at_campaign=KARANGA) BBC: Former interpreters fear for their lives after the UK blocks their evacuation on security grounds. 
  <p class="updated_time"> 05:10 PM CT, Oct. 14 </p> 
@@ -184,10 +180,10 @@ permalink: /charts/news/
  [‘Lurching Between Crisis and Complacency’: Was This Our Last Covid Surge?](https://www.nytimes.com/2021/10/14/health/coronavirus-delta-surge.html) NYT: Rising immunity and modest changes in behavior may explain why cases are declining, but much remains unknown, scientists say. 
  <p class="updated_time"> 03:08 PM CT, Oct. 14 </p> 
  [Most Covid Cases in Africa Go Undetected, W.H.O. Says](https://www.nytimes.com/2021/10/14/world/covid-africa-who.html) NYT: “Now is the time to go on the offensive against Covid-19, and work with local communities to break transmission chains and stop wider outbreaks from happening,” Dr. Matshidiso Moeti said. 
- <p class="updated_time"> 11:47 AM CT, Oct. 14 </p> 
- [Why China's climate policy matters to us all](https://www.bbc.co.uk/news/world-asia-china-57483492?at_medium=RSS&at_campaign=KARANGA) BBC: The global battle against climate change is likely to be won or lost in China. 
- <p class="updated_time"> 07:50 AM CT, Oct. 13 </p> 
- [What is climate change? A really simple guide](https://www.bbc.co.uk/news/science-environment-24021772?at_medium=RSS&at_campaign=KARANGA) BBC: World temperatures are rising because of human activity, and climate change now threatens every aspect of human life. 
+ <p class="updated_time"> 05:16 PM CT, Oct. 11 </p> 
+ [Black scientists say UK research is institutionally racist](https://www.bbc.co.uk/news/science-environment-58795079?at_medium=RSS&at_campaign=KARANGA) BBC: Senior black scientists tell the BBC they believe UK science to be "institutionally racist". 
+ <p class="updated_time"> 06:08 PM CT, Oct. 10 </p> 
+ [Drugs, arms, and terror: A high-profile defector on Kim's North Korea](https://www.bbc.co.uk/news/world-asia-58838834?at_medium=RSS&at_campaign=KARANGA) BBC: A former colonel describes a leadership making cash by any means, from drug factories to illegal arms deals. 
 
 
 
