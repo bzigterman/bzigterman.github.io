@@ -6,6 +6,16 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 06:13 PM CT, Oct. 17 </p> 
+ [Nearly $7 Million Awarded in First Earthshot Prizes](https://www.nytimes.com/2021/10/17/climate/earthshot-prizes-costa-rica-milan.html) NYT: Costa Rica and the city of Milan were among the five winners that each received one million pounds, or nearly $1.4 million, to continue sustainability and conservation efforts during a ceremony in London. 
+ <p class="updated_time"> 06:13 PM CT, Oct. 17 </p> 
+ [The climate activists who want Norway to end oil and gas production](https://www.bbc.co.uk/news/science-environment-58900652?at_medium=RSS&at_campaign=KARANGA) BBC: The BBC's Nick Beake meets the young climate activists trying to stop Norway drilling for oil and gas. 
+ <p class="updated_time"> 06:10 PM CT, Oct. 17 </p> 
+ [The nightmare of India's tallest rubbish mountain](https://www.bbc.co.uk/news/world-asia-india-58866834?at_medium=RSS&at_campaign=KARANGA) BBC: India's oldest and tallest mountain of rubbish in the city of Mumbai is 18 storeys high. 
+ <p class="updated_time"> 06:08 PM CT, Oct. 17 </p> 
+ [Washington Hears Echoes of the ’50s and Worries: Is This a Cold War With China?](https://www.nytimes.com/2021/10/17/us/politics/china-new-cold-war.html) NYT: Incursions into Taiwan’s air zone, a space launch and what looked like a prisoner swap raise a question that is about more than just semantics. It could signal a dangerous new mind-set. 
+ <p class="updated_time"> 06:07 PM CT, Oct. 17 </p> 
+ [Covid: Thousands of children left without parents in Iran](https://www.bbc.co.uk/news/world-middle-east-58886923?at_medium=RSS&at_campaign=KARANGA) BBC: Thousands of children in Iran have been left without parents, and many people blame the leadership. 
  <p class="updated_time"> 06:06 PM CT, Oct. 17 </p> 
  [Your Monday Briefing](https://www.nytimes.com/2021/10/17/briefing/haiti-kidnapping-south-korea-draft.html) NYT: Haitian gang kidnaps missionaries. 
  <p class="updated_time"> 05:42 PM CT, Oct. 17 </p> 
@@ -140,8 +150,6 @@ permalink: /charts/news/
  [Week in pictures: 9 - 15 October 2021](https://www.bbc.co.uk/news/in-pictures-58911596?at_medium=RSS&at_campaign=KARANGA) BBC: A selection of powerful images from all over the globe, taken this week. 
  <p class="updated_time"> 06:58 PM CT, Oct. 15 </p> 
  [Italy's New Law Requires Workers to Get Covid Vaccine or Testing](https://www.nytimes.com/2021/10/15/world/europe/italy-vaccination-law-covid.html) NYT: The rollout went more or less smoothly, with only scattered protests, as the majority of citizens accepted the ‘Green Pass’ as a tolerable sacrifice to stem the Covid pandemic. 
- <p class="updated_time"> 06:01 PM CT, Oct. 15 </p> 
- [Ros Atkins on… China-Taiwan tensions](https://www.bbc.co.uk/news/world-58925971?at_medium=RSS&at_campaign=KARANGA) BBC: Ros Atkins examines why tensions between China and Taiwan have increased over recent weeks. 
  <p class="updated_time"> 06:00 PM CT, Oct. 15 </p> 
  [Life at 50C: Fleeing Sahara's shifting sands](https://www.bbc.co.uk/news/science-environment-58925616?at_medium=RSS&at_campaign=KARANGA) BBC: Rising temperatures and desertification are forcing many Mauritanians to leave their ancestral homes. 
  <p class="updated_time"> 05:00 PM CT, Oct. 15 </p> 
@@ -182,8 +190,6 @@ permalink: /charts/news/
  [Faulty Studs Led to Mexico City Metro Collapse, Attorney General Says](https://www.nytimes.com/2021/10/14/world/americas/mexico-city-metro-collapse.html) NYT: A monthslong investigation by city authorities supports the central findings of a New York Times investigation, which had uncovered a series of fatal construction flaws. 
  <p class="updated_time"> 06:10 PM CT, Oct. 14 </p> 
  ['They will hang me': Afghan interpreters blocked by UK seek appeal](https://www.bbc.co.uk/news/world-asia-58830736?at_medium=RSS&at_campaign=KARANGA) BBC: Former interpreters fear for their lives after the UK blocks their evacuation on security grounds. 
- <p class="updated_time"> 03:39 PM CT, Oct. 14 </p> 
- [Your Friday Briefing](https://www.nytimes.com/2021/10/14/briefing/beirut-violence-taiwan-fire-biodiversity-goodall.html) NYT: Beirut protests turn violent. 
  <p class="updated_time"> 05:16 PM CT, Oct. 11 </p> 
  [Black scientists say UK research is institutionally racist](https://www.bbc.co.uk/news/science-environment-58795079?at_medium=RSS&at_campaign=KARANGA) BBC: Senior black scientists tell the BBC they believe UK science to be "institutionally racist". 
 
