@@ -6,6 +6,10 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 07:06 PM CT, Oct. 16 </p> 
+ [Syria Accuses Israel of Assassinating Official Near Golan Heights](https://www.nytimes.com/2021/10/16/world/syria-accuses-israel-of-assassinating-official-near-golan-heights.html) NYT: Midhat Saleh, who oversaw the strategic Golan Heights boundary for Syria, was shot an killed by a sniper, the  government said. 
+ <p class="updated_time"> 06:47 PM CT, Oct. 16 </p> 
+ [The Chinese film beating Bond and Marvel at the box office](https://www.bbc.co.uk/news/world-asia-china-58868854?at_medium=RSS&at_campaign=KARANGA) BBC: The success of The Battle at Lake Changjin is bad news for Hollywood which wants to grow in China. 
  <p class="updated_time"> 06:28 PM CT, Oct. 16 </p> 
  [Robert Durst: US millionaire hospitalised with Covid after life sentence](https://www.bbc.co.uk/news/world-us-canada-58943246?at_medium=RSS&at_campaign=KARANGA) BBC: Robert Durst was on Thursday convicted of murder and is a suspect in two other deaths. 
  <p class="updated_time"> 06:19 PM CT, Oct. 16 </p> 
@@ -140,8 +144,6 @@ permalink: /charts/news/
  [South Korean Military Struggles to Root Out Sexual Assaults](https://www.nytimes.com/2021/10/15/world/asia/south-korea-military-sexual-assault-suicide.html) NYT: The death of a woman in South Korea’s air force has rekindled outrage over the country’s armed forces, long criticized for abusing and discriminating​ against women. 
  <p class="updated_time"> 10:22 AM CT, Oct. 15 </p> 
  [Bangladesh Strengthens Security as Violence Targets Hindu Festival](https://www.nytimes.com/2021/10/15/world/asia/15bangladesh-muslim-hindu-violence.html) NYT: Paramilitary forces were deployed across much of the country after the worst communal violence in years targeted dozens of Hindu gatherings. 
- <p class="updated_time"> 09:38 AM CT, Oct. 15 </p> 
- [Norway Bow-and-Arrow Rampage Treated as Apparent Terrorism Attack](https://www.nytimes.com/2021/10/14/world/europe/norway-bow-and-arrow-attack.html) NYT: The police said that they had previously contacted the suspect, a 37-year-old Danish citizen who is believed to have killed five people, over concerns that he had been radicalized. 
  <p class="updated_time"> 09:37 AM CT, Oct. 15 </p> 
  [U.K. Lab Issues 43,000 False Negatives on Virus Tests](https://www.nytimes.com/2021/10/15/world/uk-lab-false-negative-tests.html) NYT: The mistake was described as an “isolated incident attributed to one laboratory,” in a statement released by the U.K. Health Security Agency on Friday. 
  <p class="updated_time"> 09:37 AM CT, Oct. 15 </p> 
