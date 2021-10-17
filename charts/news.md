@@ -6,6 +6,14 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 06:36 PM CT, Oct. 17 </p> 
+ [Iran's Covid orphans: 'She keeps asking where daddy is'](https://www.bbc.co.uk/news/world-58934632?at_medium=RSS&at_campaign=KARANGA) BBC: Around 51,000 children in Iran have lost a parent to Covid, according to officials. 
+ <p class="updated_time"> 06:35 PM CT, Oct. 17 </p> 
+ [The Nigerians who want Israel to accept them as Jews](https://www.bbc.co.uk/news/world-africa-58917825?at_medium=RSS&at_campaign=KARANGA) BBC: A small Nigerian community claims Jewish ancestry dating hundreds of years but Israel does not recognise them. 
+ <p class="updated_time"> 06:33 PM CT, Oct. 17 </p> 
+ [Has Covid changed New York City nightlife forever?](https://www.bbc.co.uk/news/world-us-canada-58934445?at_medium=RSS&at_campaign=KARANGA) BBC: A photographer is confronted with the new reality of empty streets and closed clubs. 
+ <p class="updated_time"> 06:26 PM CT, Oct. 17 </p> 
+ [Songhaï: A 'zero waste' agricultural system to increase food security in Africa](https://www.bbc.co.uk/news/world-africa-58930317?at_medium=RSS&at_campaign=KARANGA) BBC: Fr Godfrey Nzamujo runs a "zero waste" agriculture system aimed at increasing food security and creating jobs. 
  <p class="updated_time"> 06:13 PM CT, Oct. 17 </p> 
  [Nearly $7 Million Awarded in First Earthshot Prizes](https://www.nytimes.com/2021/10/17/climate/earthshot-prizes-costa-rica-milan.html) NYT: Costa Rica and the city of Milan were among the five winners that each received one million pounds, or nearly $1.4 million, to continue sustainability and conservation efforts during a ceremony in London. 
  <p class="updated_time"> 06:13 PM CT, Oct. 17 </p> 
@@ -18,6 +26,8 @@ permalink: /charts/news/
  [Covid: Thousands of children left without parents in Iran](https://www.bbc.co.uk/news/world-middle-east-58886923?at_medium=RSS&at_campaign=KARANGA) BBC: Thousands of children in Iran have been left without parents, and many people blame the leadership. 
  <p class="updated_time"> 06:06 PM CT, Oct. 17 </p> 
  [Your Monday Briefing](https://www.nytimes.com/2021/10/17/briefing/haiti-kidnapping-south-korea-draft.html) NYT: Haitian gang kidnaps missionaries. 
+ <p class="updated_time"> 06:06 PM CT, Oct. 17 </p> 
+ [You may be able to book a flying taxi within three years](https://www.bbc.co.uk/news/business-58895259?at_medium=RSS&at_campaign=KARANGA) BBC: Firms are racing to bring flying taxis and the mini-airports they need into service. 
  <p class="updated_time"> 05:42 PM CT, Oct. 17 </p> 
  [Hungary: Mayor Marki-Zay wins run-off to challenge Orban](https://www.bbc.co.uk/news/world-europe-58949864?at_medium=RSS&at_campaign=KARANGA) BBC: Polls suggest Peter Marki-Zay has the best chance of ousting Prime Minister Viktor Orban. 
  <p class="updated_time"> 05:40 PM CT, Oct. 17 </p> 
@@ -70,8 +80,6 @@ permalink: /charts/news/
  [How a Stunning Lagoon in Spain Turned Into ‘Green Soup’](https://www.nytimes.com/2021/10/17/world/europe/spain-lagoon-pollution-mar-menor.html) NYT: Tons of dead fish have washed ashore in recent years from the Mar Menor, a once-crystalline lagoon on the Mediterranean coast that has become choked with algae. Farm pollution is mostly blamed. 
  <p class="updated_time"> 07:42 AM CT, Oct. 17 </p> 
  [In Venezuela, a Rum Maker Offers Gangsters a Life Outside of Crime](https://www.nytimes.com/2021/10/16/world/americas/venezuela-rum-rehabilitation-crime.html) NYT: In the process, the family running the company, Ron Santa Teresa, has gone from bankruptcy to exporting an award-winning vintage rum. 
- <p class="updated_time"> 06:38 AM CT, Oct. 17 </p> 
- [Russia not withholding gas for political reasons - ambassador](https://www.bbc.co.uk/news/uk-58944937?at_medium=RSS&at_campaign=KARANGA) BBC: Russia's ambassador to the UK denies Russia is using energy as a political weapon, amid surging prices. 
  <p class="updated_time"> 06:20 AM CT, Oct. 17 </p> 
  [British Police Question Alleged Attacker in Killing of Conservative Lawmaker David Amess](https://www.wsj.com/articles/british-police-question-alleged-attacker-in-killing-of-conservative-lawmaker-david-amess-11634484017) WSJ: The suspect is identified as a 25-year-old British citizen of Somali descent, an official said. 
  <p class="updated_time"> 05:39 AM CT, Oct. 17 </p> 
@@ -86,8 +94,6 @@ permalink: /charts/news/
  [Afghan Resettlement Effort Slowed by Housing, Tech Constraints](https://www.wsj.com/articles/u-s-afghan-resettlements-slowed-by-housing-shortage-old-technology-11634463001) WSJ: The U.S. push to resettle evacuees is set to take months longer than first expected as a measles scare, a nationwide housing shortage and paperwork delays have slowed the process. 
  <p class="updated_time"> 01:22 AM CT, Oct. 17 </p> 
  [Sudan: Protesters demand military coup as crisis deepens](https://www.bbc.co.uk/news/world-africa-58943013?at_medium=RSS&at_campaign=KARANGA) BBC: The protests come as tensions rise between civilian and military rulers. 
- <p class="updated_time"> 01:20 AM CT, Oct. 17 </p> 
- [Sudan: Protesters take to streets and call for military coup](https://www.bbc.co.uk/news/world-africa-58944525?at_medium=RSS&at_campaign=KARANGA) BBC: Opponents of Sudan's transition to democracy demonstrate in Khartoum, urging the army to take control. 
  <p class="updated_time"> 11:52 PM CT, Oct. 16 </p> 
  [U.S. Arrests Alex Saab, Deal Maker for Nicolás Maduro of Venezuela](https://www.nytimes.com/2021/10/16/world/americas/alex-saab-arrest-venezuela-maduro.html) NYT: Alex Saab, a Colombian businessman, is accused in the U.S. of siphoning millions from programs intended to help the needy in Venezuela. 
  <p class="updated_time"> 11:05 PM CT, Oct. 16 </p> 
@@ -144,14 +150,10 @@ permalink: /charts/news/
  [U.S. Pledges to Pay Family of Those Killed in Botched Kabul Drone Strike](https://www.nytimes.com/2021/10/15/us/politics/kabul-drone-strike-victims-payment.html) NYT: The Pentagon offered unspecified amounts to relatives of the 10 civilians who died in Aug. 29 attack and agreed to help relocate those who want to move to the U.S. 
  <p class="updated_time"> 08:14 PM CT, Oct. 15 </p> 
  [Shipping disruption: Why are so many queuing to get to the US?](https://www.bbc.co.uk/news/58926842?at_medium=RSS&at_campaign=KARANGA) BBC: A surge in demand for toys and sports equipment has contributed to logjams at US ports. 
- <p class="updated_time"> 08:12 PM CT, Oct. 15 </p> 
- [Viewpoint: Why Ethiopia's Tigray region is starving, but no famine declared](https://www.bbc.co.uk/news/world-africa-58921744?at_medium=RSS&at_campaign=KARANGA) BBC: Despite mass starvation in northern Ethiopia, aid officials are not calling the situation a famine. 
  <p class="updated_time"> 07:57 PM CT, Oct. 15 </p> 
  [Week in pictures: 9 - 15 October 2021](https://www.bbc.co.uk/news/in-pictures-58911596?at_medium=RSS&at_campaign=KARANGA) BBC: A selection of powerful images from all over the globe, taken this week. 
  <p class="updated_time"> 06:58 PM CT, Oct. 15 </p> 
  [Italy's New Law Requires Workers to Get Covid Vaccine or Testing](https://www.nytimes.com/2021/10/15/world/europe/italy-vaccination-law-covid.html) NYT: The rollout went more or less smoothly, with only scattered protests, as the majority of citizens accepted the ‘Green Pass’ as a tolerable sacrifice to stem the Covid pandemic. 
- <p class="updated_time"> 06:00 PM CT, Oct. 15 </p> 
- [Life at 50C: Fleeing Sahara's shifting sands](https://www.bbc.co.uk/news/science-environment-58925616?at_medium=RSS&at_campaign=KARANGA) BBC: Rising temperatures and desertification are forcing many Mauritanians to leave their ancestral homes. 
  <p class="updated_time"> 05:00 PM CT, Oct. 15 </p> 
  [Booster Confusion](https://www.nytimes.com/2021/10/15/briefing/johnson-and-johnson-booster-fda.html) NYT: When an F.D.A. panel meets today about J. & J. booster shots, there will be an elephant in the room. 
  <p class="updated_time"> 03:57 PM CT, Oct. 15 </p> 
@@ -188,8 +190,6 @@ permalink: /charts/news/
  [Your Friday Briefing](https://www.nytimes.com/2021/10/15/briefing/beirut-fighting-pandemic-america.html) NYT: The state of the pandemic in the U.S. 
  <p class="updated_time"> 08:19 PM CT, Oct. 14 </p> 
  [Faulty Studs Led to Mexico City Metro Collapse, Attorney General Says](https://www.nytimes.com/2021/10/14/world/americas/mexico-city-metro-collapse.html) NYT: A monthslong investigation by city authorities supports the central findings of a New York Times investigation, which had uncovered a series of fatal construction flaws. 
- <p class="updated_time"> 06:10 PM CT, Oct. 14 </p> 
- ['They will hang me': Afghan interpreters blocked by UK seek appeal](https://www.bbc.co.uk/news/world-asia-58830736?at_medium=RSS&at_campaign=KARANGA) BBC: Former interpreters fear for their lives after the UK blocks their evacuation on security grounds. 
  <p class="updated_time"> 05:16 PM CT, Oct. 11 </p> 
  [Black scientists say UK research is institutionally racist](https://www.bbc.co.uk/news/science-environment-58795079?at_medium=RSS&at_campaign=KARANGA) BBC: Senior black scientists tell the BBC they believe UK science to be "institutionally racist". 
 
