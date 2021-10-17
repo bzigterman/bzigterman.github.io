@@ -6,6 +6,12 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 10:14 AM CT, Oct. 17 </p> 
+ [Kerala floods: Dozens missing in deadly India disaster](https://www.bbc.co.uk/news/world-asia-india-58940880?at_medium=RSS&at_campaign=KARANGA) BBC: Heavy rains cause rivers to overflow in Kerala, washing away homes and trapping people under debris. 
+ <p class="updated_time"> 10:10 AM CT, Oct. 17 </p> 
+ [Poland: New project aims to help migrants crossing border](https://www.bbc.co.uk/news/world-europe-58947167?at_medium=RSS&at_campaign=KARANGA) BBC: Lawyer suggests locals should switch on a green light to signal they can help migrants with food. 
+ <p class="updated_time"> 10:01 AM CT, Oct. 17 </p> 
+ ['400 Mawozo' Gang Suspected in Kidnapping Among Haiti's Most Dangerous](https://www.nytimes.com/2021/10/17/world/americas/400-mawozo-haiti-kidnapping.html) NYT: The gang, “400 Mawozo,” captured several clergy members in April, and the local authorities say it is behind Saturday’s kidnapping. 
  <p class="updated_time"> 09:54 AM CT, Oct. 17 </p> 
  [Police Search for Motive in British Lawmaker’s Killing](https://www.nytimes.com/2021/10/17/world/europe/uk-stabbing-attack.html) NYT: An attack has rekindled questions about the security of members of Parliament. 
  <p class="updated_time"> 09:27 AM CT, Oct. 17 </p> 
@@ -20,12 +26,12 @@ permalink: /charts/news/
  [How a Stunning Lagoon in Spain Turned Into ‘Green Soup’](https://www.nytimes.com/2021/10/17/world/europe/spain-lagoon-pollution-mar-menor.html) NYT: Tons of dead fish have washed ashore in recent years from the Mar Menor, a once-crystalline lagoon on the Mediterranean coast that has become choked with algae. Farm pollution is mostly blamed. 
  <p class="updated_time"> 07:42 AM CT, Oct. 17 </p> 
  [In Venezuela, a Rum Maker Offers Gangsters a Life Outside of Crime](https://www.nytimes.com/2021/10/16/world/americas/venezuela-rum-rehabilitation-crime.html) NYT: In the process, the family running the company, Ron Santa Teresa, has gone from bankruptcy to exporting an award-winning vintage rum. 
- <p class="updated_time"> 07:04 AM CT, Oct. 17 </p> 
- [Kerala floods: At least 19 dead and dozens missing in India](https://www.bbc.co.uk/news/world-asia-india-58940880?at_medium=RSS&at_campaign=KARANGA) BBC: Heavy rains cause rivers to overflow in Kerala, washing away homes and trapping people under debris. 
  <p class="updated_time"> 06:44 AM CT, Oct. 17 </p> 
  [Russia sets condition for return of BBC journalist](https://www.bbc.co.uk/news/world-europe-58944531?at_medium=RSS&at_campaign=KARANGA) BBC: Ambassador Andrei Kelin says the BBC reporter can return if Russian journalists gets UK visas. 
  <p class="updated_time"> 06:38 AM CT, Oct. 17 </p> 
  [Russia not withholding gas for political reasons - ambassador](https://www.bbc.co.uk/news/uk-58944937?at_medium=RSS&at_campaign=KARANGA) BBC: Russia's ambassador to the UK denies Russia is using energy as a political weapon, amid surging prices. 
+ <p class="updated_time"> 06:20 AM CT, Oct. 17 </p> 
+ [British Police Question Alleged Attacker in Killing of Conservative Lawmaker David Amess](https://www.wsj.com/articles/british-police-question-alleged-attacker-in-killing-of-conservative-lawmaker-david-amess-11634484017) WSJ: The suspect is identified as a 25-year-old British citizen of Somali descent, an official said. 
  <p class="updated_time"> 05:39 AM CT, Oct. 17 </p> 
  [Syria Accuses Israel of Assassinating Official Near Golan Heights](https://www.nytimes.com/2021/10/16/world/syria-accuses-israel-of-assassinating-official-near-golan-heights.html) NYT: Midhat Saleh, who oversaw the strategic Golan Heights boundary for Syria, was shot and killed by a sniper, the government said. 
  <p class="updated_time"> 05:34 AM CT, Oct. 17 </p> 
@@ -86,16 +92,12 @@ permalink: /charts/news/
  [How 3 Strangers a World Away Came to the Rescue of a Badly Burned Afghan Girl](https://www.nytimes.com/2021/10/16/world/afghanistan-girl-burn-evacuation-military.html) NYT: The story of 8-year-old Asma, injured by a U.S. tear-gas canister, echoes the heartbreak and heroism of the 20-year American misadventure in Afghanistan. 
  <p class="updated_time"> 11:44 AM CT, Oct. 16 </p> 
  [Mixing and Matching Covid Vaccines Is Examined by F.D.A. Panel](https://www.nytimes.com/2021/10/16/us/mixing-vaccines.html) NYT: The agency’s expert advisers discussed the data on the approach, which is limited. 
- <p class="updated_time"> 10:48 AM CT, Oct. 16 </p> 
- [Australian police make record $104m heroin seizure](https://www.bbc.co.uk/news/world-australia-58940463?at_medium=RSS&at_campaign=KARANGA) BBC: The 450kg-haul was concealed in a shipment of ceramic tiles sent to Melbourne from Malaysia. 
  <p class="updated_time"> 10:31 AM CT, Oct. 16 </p> 
  [Lebanon Observes Day of Mourning After Deadly Sectarian Clashes](https://www.nytimes.com/2021/10/15/world/middleeast/lebanon-beirut-violence-explosion.html) NYT: The death toll rose to seven a day after gun battles between Christian and Shiite Muslim militias erupted amid tensions over an investigation into the port explosion last year. 
  <p class="updated_time"> 10:29 AM CT, Oct. 16 </p> 
  [Deadly Clashes in Beirut Escalate Fears Over Lebanon’s Dysfunction](https://www.nytimes.com/2021/10/14/world/middleeast/beirut-lebanon.html) NYT: The fighting further traumatized the small Mediterranean country, a patchwork of sects that has tumbled into an abyss of devastating political and economic crises. 
  <p class="updated_time"> 10:23 AM CT, Oct. 16 </p> 
  [Macron Commemorates 1961 Paris Police Killing of Algerian Protesters](https://www.nytimes.com/2021/10/16/world/europe/paris-police-algerians-macron.html) NYT: President Emmanuel Macron of France is the country’s first head of state to attend an event marking the deaths, which officials ignored for decades. 
- <p class="updated_time"> 09:55 AM CT, Oct. 16 </p> 
- [British Lawmaker's Killing Highlights Terrorism Challenge in U.K.](https://www.wsj.com/articles/british-police-search-london-homes-in-wake-of-david-amess-killing-11634384192) WSJ: The fatal stabbing of David Amess by a suspected extremist shows the difficulties facing the government in preventing lone-wolf attacks. 
  <p class="updated_time"> 09:09 AM CT, Oct. 16 </p> 
  [Beirut, a City Where Everyone Gets By, Revisits Sectarian Violence](https://www.nytimes.com/2021/10/16/world/middleeast/beirut-lebanon-sectarian-violence.html) NYT: Lebanon’s capital thrives on its religious diversity, but sectarian tensions and memories of civil war lurk just beneath the surface. 
  <p class="updated_time"> 08:30 AM CT, Oct. 16 </p> 
