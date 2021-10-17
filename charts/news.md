@@ -6,14 +6,14 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 09:55 PM CT, Oct. 16 </p> 
+ [American Missionaries Kidnapped in Haiti, Officials Say](https://www.nytimes.com/2021/10/16/world/americas/missionaries-kidnap-haiti.html) NYT: Up to 17 missionaries and their family members were taken by gangs in the capital of a country where kidnappings have become increasingly common. 
  <p class="updated_time"> 09:44 PM CT, Oct. 16 </p> 
  [Syria Accuses Israel of Assassinating Official Near Golan Heights](https://www.nytimes.com/2021/10/16/world/syria-accuses-israel-of-assassinating-official-near-golan-heights.html) NYT: Midhat Saleh, who oversaw the strategic Golan Heights boundary for Syria, was shot and killed by a sniper, the government said. 
  <p class="updated_time"> 09:41 PM CT, Oct. 16 </p> 
  [U.S. Arrests Alex Saab, Deal Maker for Nicolás Maduro of Venezuela](https://www.nytimes.com/2021/10/16/world/americas/alex-saab-arrest-venezuela-maduro.html) NYT: Alex Saab, a Colombian businessman, is accused in the U.S. of siphoning millions from programs intended to help the needy in Venezuela. 
  <p class="updated_time"> 09:39 PM CT, Oct. 16 </p> 
  [National Guard Called Up to Ease Crowding at Minnesota Hospitals ](https://www.nytimes.com/2021/10/16/world/americas/minnesota-governor-walz-national-guard-covid.html) NYT: Staffing shortages at long-term care facilities are preventing hospitals from discharging patients and admitting new ones. 
- <p class="updated_time"> 09:26 PM CT, Oct. 16 </p> 
- [American Missionaries Kidnapped in Haiti, Officials Say](https://www.nytimes.com/2021/10/16/world/americas/missionaries-kidnap-haiti.html) NYT: Up to 17 missionaries and their family members were taken by gangs in the capital of a country where kidnappings have become increasingly common. 
  <p class="updated_time"> 09:04 PM CT, Oct. 16 </p> 
  [Venezuelan President Maduro's close aide extradited to US](https://www.bbc.co.uk/news/world-latin-america-58943249?at_medium=RSS&at_campaign=KARANGA) BBC: Venezuela halted talks with the opposition after Alex Saab was flown from Cape Verde to the US. 
  <p class="updated_time"> 06:47 PM CT, Oct. 16 </p> 
