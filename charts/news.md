@@ -6,6 +6,10 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 04:00 AM CT, Oct. 17 </p> 
+ [South Korea Reconsiders a Rite of Manhood: the Draft](https://www.nytimes.com/2021/10/17/world/asia/south-korea-conscription.html) NYT: Military conscription has become less popular. The rules have loosened. But experts still worry about the threat from the North. 
+ <p class="updated_time"> 04:00 AM CT, Oct. 17 </p> 
+ [Will New Covid Treatments Be as Elusive for Poor Countries as Vaccines?](https://www.nytimes.com/2021/10/17/health/covid-treatment-access-molnupiravir.html) NYT: Merck has taken a step to make its antiviral pill available in poor nations, but many obstacles remain for broad access to coronavirus drugs. 
  <p class="updated_time"> 03:24 AM CT, Oct. 17 </p> 
  [Russian team back on Earth after filming first movie in space](https://www.bbc.co.uk/news/world-europe-58944660?at_medium=RSS&at_campaign=KARANGA) BBC: The Russian film crew return after an ISS shoot that had its own moments of drama. 
  <p class="updated_time"> 02:51 AM CT, Oct. 17 </p> 
@@ -170,14 +174,10 @@ permalink: /charts/news/
  [LinkedIn to End Service in China, Citing ‘Challenging’ Environment](https://www.nytimes.com/2021/10/14/technology/linkedin-china-microsoft.html) NYT: The Microsoft-owned service had censored posts in China, in compliance with the country’s laws, to operate there. 
  <p class="updated_time"> 10:52 PM CT, Oct. 14 </p> 
  [As Western Oil Giants Cut Production, State-Owned Companies Step Up](https://www.nytimes.com/2021/10/14/business/energy-environment/oil-production-state-owned-companies.html) NYT: In the Middle East, Africa and Latin America, government-owned energy companies are increasing oil and natural gas production as U.S. and European companies pare supply because of climate concerns. 
- <p class="updated_time"> 09:03 PM CT, Oct. 14 </p> 
- [North Korean Soldiers Lie Shirtless on Broken Glass](https://www.nytimes.com/2021/10/14/world/asia/north-korea-propaganda-military-broken-glass.html) NYT: The country has never been known for its subtlety, and martial-art stunts have long been a mainstay of its propaganda, designed to stoke national pride and instill fear in enemies. 
  <p class="updated_time"> 08:19 PM CT, Oct. 14 </p> 
  [Faulty Studs Led to Mexico City Metro Collapse, Attorney General Says](https://www.nytimes.com/2021/10/14/world/americas/mexico-city-metro-collapse.html) NYT: A monthslong investigation by city authorities supports the central findings of a New York Times investigation, which had uncovered a series of fatal construction flaws. 
  <p class="updated_time"> 07:31 PM CT, Oct. 14 </p> 
  [Biden Meets With Kenya’s President Amid Crisis in Ethiopia](https://www.nytimes.com/2021/10/14/us/politics/biden-kenya-kenyatta-ethiopia.html) NYT: The two leaders were also expected to discuss the escalating humanitarian crisis in the Tigray region of Ethiopia, where fighters have been accused of atrocities against civilians. 
- <p class="updated_time"> 07:05 PM CT, Oct. 14 </p> 
- [South Korea will donate 1.6 million vaccine doses to Vietnam and Thailand.](https://www.nytimes.com/2021/10/14/world/south-korea-will-donate-1-6-million-vaccine-doses-to-vietnam-and-thailand.html) NYT: NA 
  <p class="updated_time"> 06:10 PM CT, Oct. 14 </p> 
  ['They will hang me': Afghan interpreters blocked by UK seek appeal](https://www.bbc.co.uk/news/world-asia-58830736?at_medium=RSS&at_campaign=KARANGA) BBC: Former interpreters fear for their lives after the UK blocks their evacuation on security grounds. 
  <p class="updated_time"> 05:10 PM CT, Oct. 14 </p> 
