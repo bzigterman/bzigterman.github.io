@@ -28,10 +28,14 @@ permalink: /charts/news/
  [China's Scripted Homicides Become a Popular Pastime](https://www.nytimes.com/2021/10/16/world/asia/china-murder-script.html) NYT: “Scripted homicide” clubs have opened around the country as young people look for ways to escape and connect. Naturally, the government has questions. 
  <p class="updated_time"> 10:44 AM CT, Oct. 17 </p> 
  [What Is Christian Aid Ministries and What Does It Do in Haiti?](https://www.nytimes.com/2021/10/17/world/americas/what-is-christian-aid-ministries.html) NYT: The group, based in Ohio, distributes food and clothing, funds schools, teaches farming methods and helps with emergency relief. 
+ <p class="updated_time"> 10:42 AM CT, Oct. 17 </p> 
+ [Group of 16 Americans and a Canadian Kidnapped in Haiti](https://www.wsj.com/articles/group-of-16-americans-and-a-canadian-including-five-children-kidnapped-in-haiti-11634497450) WSJ: Christian Aid Ministries said that a group was kidnapped Saturday morning during a trip to an orphanage. The organization said that five of those who were abducted are children. 
  <p class="updated_time"> 10:14 AM CT, Oct. 17 </p> 
  [Kerala floods: Dozens missing in deadly India disaster](https://www.bbc.co.uk/news/world-asia-india-58940880?at_medium=RSS&at_campaign=KARANGA) BBC: Heavy rains cause rivers to overflow in Kerala, washing away homes and trapping people under debris. 
  <p class="updated_time"> 10:10 AM CT, Oct. 17 </p> 
  [Poland: New project aims to help migrants crossing border](https://www.bbc.co.uk/news/world-europe-58947167?at_medium=RSS&at_campaign=KARANGA) BBC: Lawyer suggests locals should switch on a green light to signal they can help migrants with food. 
+ <p class="updated_time"> 10:09 AM CT, Oct. 17 </p> 
+ [Behind the Energy Crisis: Fossil Fuel Investment Drops, and Renewables Aren't Ready](https://www.wsj.com/articles/energy-crisis-fossil-fuel-investment-renewables-gas-oil-prices-coal-wind-solar-hydro-power-grid-11634497531) WSJ: The transition to cleaner energy sources isn’t far enough along to meet a surge in demand, forcing countries to rely on fossil fuels. 
  <p class="updated_time"> 09:27 AM CT, Oct. 17 </p> 
  [In Haiti, Aid Group Workers Are Kidnapped](https://www.nytimes.com/2021/10/16/world/americas/missionaries-kidnap-haiti.html) NYT: Up to 17 missionaries and their family members were taken by gang members in the capital of a country where kidnappings have become increasingly common. 
  <p class="updated_time"> 08:57 AM CT, Oct. 17 </p> 
@@ -108,10 +112,6 @@ permalink: /charts/news/
  [Quebec Language Debate Spurs Eerie Sense of Déjà-Vu](https://www.nytimes.com/2021/10/15/world/canada/quebec-language-debate.html) NYT: For a Montreal-based Times correspondent, proposed language legislation brings back memories of the 1970s. 
  <p class="updated_time"> 08:23 AM CT, Oct. 16 </p> 
  [What Are Political ‘Surgeries’ in Britain?](https://www.nytimes.com/2021/10/16/world/europe/political-surgeries-uk.html) NYT: The person-to-person meetings with voters give Britons unusually good access to their political representatives. But questions are being asked about whether the tradition can continue. 
- <p class="updated_time"> 07:11 AM CT, Oct. 16 </p> 
- [Islamic State Bombing Kills at Least 65 People in Southern Afghanistan](https://www.wsj.com/articles/afghan-mosque-hit-by-deadly-suicide-bombing-11634297101) WSJ: The killings in Kandahar, the Taliban’s historic stronghold, follow a spate of Islamic State attacks on the country’s religious minority sect. 
- <p class="updated_time"> 03:02 AM CT, Oct. 16 </p> 
- [Myanmar's Military Junta Denied a Seat at Asean Summit](https://www.wsj.com/articles/myanmars-military-junta-denied-a-seat-at-asean-summit-11634385775) WSJ: The regional bloc’s decision effectively sidelines Myanmar’s bid for international legitimacy and increases pressure on the country to cooperate with its neighbors to resolve its political crisis. 
  <p class="updated_time"> 02:39 AM CT, Oct. 16 </p> 
  [New Zealand Attempts a Record-Setting ‘Vaxathon’](https://www.nytimes.com/2021/10/16/world/australia/new-zealand-vaccines.html) NYT: The country took a different approach to encouraging vaccinations on Saturday, with barbecues, a telethon and the chance to get jabbed in the business-class seat of a Boeing 787. 
  <p class="updated_time"> 10:17 PM CT, Oct. 15 </p> 
