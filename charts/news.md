@@ -8,6 +8,8 @@ permalink: /charts/news/
 
  <p class="updated_time"> 01:22 AM CT, Oct. 17 </p> 
  [Sudan: Protesters demand military coup as crisis deepens](https://www.bbc.co.uk/news/world-africa-58943013?at_medium=RSS&at_campaign=KARANGA) BBC: The protests come as tensions rise between civilian and military rulers. 
+ <p class="updated_time"> 01:20 AM CT, Oct. 17 </p> 
+ [Sudan: Protesters take to streets](https://www.bbc.co.uk/news/world-africa-58944525?at_medium=RSS&at_campaign=KARANGA) BBC: Opponents of Sudan's transition to democracy demonstrate in Khartoum, urging the army to take control. 
  <p class="updated_time"> 12:11 AM CT, Oct. 17 </p> 
  [Haiti: US missionaries reportedly kidnapped in Port-au-Prince](https://www.bbc.co.uk/news/world-latin-america-58943252?at_medium=RSS&at_campaign=KARANGA) BBC: As many as 17 American Christian missionaries and their families have reportedly been kidnapped. 
  <p class="updated_time"> 11:52 PM CT, Oct. 16 </p> 
@@ -188,8 +190,6 @@ permalink: /charts/news/
  [Most Covid Cases in Africa Go Undetected, W.H.O. Says](https://www.nytimes.com/2021/10/14/world/covid-africa-who.html) NYT: “Now is the time to go on the offensive against Covid-19, and work with local communities to break transmission chains and stop wider outbreaks from happening,” Dr. Matshidiso Moeti said. 
  <p class="updated_time"> 11:22 AM CT, Oct. 14 </p> 
  [Norway attack: Witness describes hearing 'thunk sound' of weapon](https://www.bbc.co.uk/news/world-europe-58910059?at_medium=RSS&at_campaign=KARANGA) BBC: Residents in Kongsberg react to the bow and arrow attack in their neighbourhood. 
- <p class="updated_time"> 08:51 AM CT, Oct. 14 </p> 
- [Gunfire erupts on Beirut streets after port explosion protest](https://www.bbc.co.uk/news/world-middle-east-58910056?at_medium=RSS&at_campaign=KARANGA) BBC: Several people are shot dead in gun battles following a protest over the Beirut port blast investigation. 
 
 
 
