@@ -6,6 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 06:44 AM CT, Oct. 17 </p> 
+ [Russia sets condition for return of BBC journalist](https://www.bbc.co.uk/news/world-europe-58944531?at_medium=RSS&at_campaign=KARANGA) BBC: Ambassador Andrei Kelin says the BBC reporter can return if Russian journalists gets UK visas. 
  <p class="updated_time"> 06:38 AM CT, Oct. 17 </p> 
  [Russia not withholding gas for political reasons - ambassador](https://www.bbc.co.uk/news/uk-58944937?at_medium=RSS&at_campaign=KARANGA) BBC: Russia's ambassador to the UK denies Russia is using energy as a political weapon, amid surging prices. 
  <p class="updated_time"> 05:41 AM CT, Oct. 17 </p> 
@@ -82,8 +84,6 @@ permalink: /charts/news/
  [Macron Commemorates 1961 Paris Police Killing of Algerian Protesters](https://www.nytimes.com/2021/10/16/world/europe/paris-police-algerians-macron.html) NYT: President Emmanuel Macron of France is the country’s first head of state to attend an event marking the deaths, which officials ignored for decades. 
  <p class="updated_time"> 09:55 AM CT, Oct. 16 </p> 
  [British Lawmaker's Killing Highlights Terrorism Challenge in U.K.](https://www.wsj.com/articles/british-police-search-london-homes-in-wake-of-david-amess-killing-11634384192) WSJ: The fatal stabbing of David Amess by a suspected extremist shows the difficulties facing the government in preventing lone-wolf attacks. 
- <p class="updated_time"> 09:15 AM CT, Oct. 16 </p> 
- [Myanmar army general Min Aung Hlaing excluded from leaders' summit](https://www.bbc.co.uk/news/world-asia-58938489?at_medium=RSS&at_campaign=KARANGA) BBC: South East Asian countries decide not to invite the military coup leader to their meeting. 
  <p class="updated_time"> 09:11 AM CT, Oct. 16 </p> 
  [Dormice favoured by Italian mafia seized in drugs raid](https://www.bbc.co.uk/news/world-europe-58938494?at_medium=RSS&at_campaign=KARANGA) BBC: Italian police search a cannabis farm and seize a stash of 235 frozen dormice - a mafia delicacy. 
  <p class="updated_time"> 09:09 AM CT, Oct. 16 </p> 
