@@ -6,14 +6,14 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 01:55 AM CT, Oct. 17 </p> 
+ [Haiti: US Christian missionaries kidnapped in Port-au-Prince - reports](https://www.bbc.co.uk/news/world-latin-america-58943252?at_medium=RSS&at_campaign=KARANGA) BBC: At least 15 women, men and children were abducted by an armed gang near the capital, sources say. 
  <p class="updated_time"> 01:52 AM CT, Oct. 17 </p> 
  [American Missionaries Kidnapped in Haiti, Officials Say](https://www.nytimes.com/2021/10/16/world/americas/missionaries-kidnap-haiti.html) NYT: Up to 17 missionaries and their family members were taken by gangs in the capital of a country where kidnappings have become increasingly common. 
  <p class="updated_time"> 01:22 AM CT, Oct. 17 </p> 
  [Sudan: Protesters demand military coup as crisis deepens](https://www.bbc.co.uk/news/world-africa-58943013?at_medium=RSS&at_campaign=KARANGA) BBC: The protests come as tensions rise between civilian and military rulers. 
  <p class="updated_time"> 01:20 AM CT, Oct. 17 </p> 
  [Sudan: Protesters take to streets](https://www.bbc.co.uk/news/world-africa-58944525?at_medium=RSS&at_campaign=KARANGA) BBC: Opponents of Sudan's transition to democracy demonstrate in Khartoum, urging the army to take control. 
- <p class="updated_time"> 12:11 AM CT, Oct. 17 </p> 
- [Haiti: US missionaries reportedly kidnapped in Port-au-Prince](https://www.bbc.co.uk/news/world-latin-america-58943252?at_medium=RSS&at_campaign=KARANGA) BBC: As many as 17 American Christian missionaries and their families have reportedly been kidnapped. 
  <p class="updated_time"> 11:52 PM CT, Oct. 16 </p> 
  [U.S. Arrests Alex Saab, Deal Maker for Nicolás Maduro of Venezuela](https://www.nytimes.com/2021/10/16/world/americas/alex-saab-arrest-venezuela-maduro.html) NYT: Alex Saab, a Colombian businessman, is accused in the U.S. of siphoning millions from programs intended to help the needy in Venezuela. 
  <p class="updated_time"> 11:05 PM CT, Oct. 16 </p> 
