@@ -6,6 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 08:12 AM CT, Oct. 17 </p> 
+ [How a Stunning Lagoon in Spain Turned Into ‘Green Soup’](https://www.nytimes.com/2021/10/17/world/europe/spain-lagoon-pollution-mar-menor.html) NYT: Tons of dead fish have washed ashore in recent years from the Mar Menor, a once-crystalline lagoon on the Mediterranean coast that has become choked with algae. Farm pollution is mostly blamed. 
  <p class="updated_time"> 07:42 AM CT, Oct. 17 </p> 
  [In Venezuela, a Rum Maker Offers Gangsters a Life Outside of Crime](https://www.nytimes.com/2021/10/16/world/americas/venezuela-rum-rehabilitation-crime.html) NYT: In the process, the family running the company, Ron Santa Teresa, has gone from bankruptcy to exporting an award-winning vintage rum. 
  <p class="updated_time"> 07:04 AM CT, Oct. 17 </p> 
@@ -156,8 +158,6 @@ permalink: /charts/news/
  [U.K. Lab Issues 43,000 False Negatives on Virus Tests](https://www.nytimes.com/2021/10/15/world/uk-lab-false-negative-tests.html) NYT: The mistake was described as an “isolated incident attributed to one laboratory,” in a statement released by the U.K. Health Security Agency on Friday. 
  <p class="updated_time"> 09:37 AM CT, Oct. 15 </p> 
  [Mexico City Replaces a Statue of Columbus With One of an Indigenous Woman](https://www.nytimes.com/2021/10/14/world/americas/mexico-columbus-statue-indigenous.html) NYT: The replacement of a figure seen as a monument to colonialism touched a nerve as the country debates how it is shaped by race and sex. 
- <p class="updated_time"> 08:06 AM CT, Oct. 15 </p> 
- [Lebanon's Crisis, an Explainer ](https://www.nytimes.com/2021/10/14/briefing/lebanon-financial-crisis-lira.html) NYT: The world isn’t paying much attention. 
  <p class="updated_time"> 07:42 AM CT, Oct. 15 </p> 
  [Taiwan’s ‘Ghost Building’ Fire: a Death Trap for Dozens of Elderly](https://www.nytimes.com/2021/10/15/world/asia/taiwan-building-fire.html) NYT: “I had no choice but to live here,” said one resident who survived a blaze that killed 46 of her neighbors and raised questions about lax safety standards. 
  <p class="updated_time"> 07:39 AM CT, Oct. 15 </p> 
