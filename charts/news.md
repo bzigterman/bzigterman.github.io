@@ -6,16 +6,16 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 09:44 PM CT, Oct. 16 </p> 
+ [Syria Accuses Israel of Assassinating Official Near Golan Heights](https://www.nytimes.com/2021/10/16/world/syria-accuses-israel-of-assassinating-official-near-golan-heights.html) NYT: Midhat Saleh, who oversaw the strategic Golan Heights boundary for Syria, was shot and killed by a sniper, the government said. 
+ <p class="updated_time"> 09:41 PM CT, Oct. 16 </p> 
+ [U.S. Arrests Alex Saab, Deal Maker for Nicolás Maduro of Venezuela](https://www.nytimes.com/2021/10/16/world/americas/alex-saab-arrest-venezuela-maduro.html) NYT: Alex Saab, a Colombian businessman, is accused in the U.S. of siphoning millions from programs intended to help the needy in Venezuela. 
  <p class="updated_time"> 09:39 PM CT, Oct. 16 </p> 
  [National Guard Called Up to Ease Crowding at Minnesota Hospitals ](https://www.nytimes.com/2021/10/16/world/americas/minnesota-governor-walz-national-guard-covid.html) NYT: Staffing shortages at long-term care facilities are preventing hospitals from discharging patients and admitting new ones. 
- <p class="updated_time"> 09:34 PM CT, Oct. 16 </p> 
- [Syria Accuses Israel of Assassinating Official Near Golan Heights](https://www.nytimes.com/2021/10/16/world/syria-accuses-israel-of-assassinating-official-near-golan-heights.html) NYT: Midhat Saleh, who oversaw the strategic Golan Heights boundary for Syria, was shot and killed by a sniper, the government said. 
  <p class="updated_time"> 09:26 PM CT, Oct. 16 </p> 
  [American Missionaries Kidnapped in Haiti, Officials Say](https://www.nytimes.com/2021/10/16/world/americas/missionaries-kidnap-haiti.html) NYT: Up to 17 missionaries and their family members were taken by gangs in the capital of a country where kidnappings have become increasingly common. 
  <p class="updated_time"> 09:04 PM CT, Oct. 16 </p> 
  [Venezuelan President Maduro's close aide extradited to US](https://www.bbc.co.uk/news/world-latin-america-58943249?at_medium=RSS&at_campaign=KARANGA) BBC: Venezuela halted talks with the opposition after Alex Saab was flown from Cape Verde to the US. 
- <p class="updated_time"> 08:06 PM CT, Oct. 16 </p> 
- [U.S. Arrests Alex Saab, Deal Maker for Nicolás Maduro of Venezuela](https://www.nytimes.com/2021/10/16/world/americas/alex-saab-arrest-venezuela-maduro.html) NYT: Alex Saab, a Colombian businessman, is accused in the U.S. of siphoning millions from programs intended to help the needy in Venezuela. 
  <p class="updated_time"> 06:47 PM CT, Oct. 16 </p> 
  [The Chinese film beating Bond and Marvel at the box office](https://www.bbc.co.uk/news/world-asia-china-58868854?at_medium=RSS&at_campaign=KARANGA) BBC: The success of The Battle at Lake Changjin is bad news for Hollywood which wants to grow in China. 
  <p class="updated_time"> 06:28 PM CT, Oct. 16 </p> 
@@ -134,8 +134,6 @@ permalink: /charts/news/
  [Sir David Amess: Fun, friendly and always outspoken](https://www.bbc.co.uk/news/uk-politics-58928140?at_medium=RSS&at_campaign=KARANGA) BBC: The Tory MP was a backbencher of the old school who fought for the causes he cared about. 
  <p class="updated_time"> 12:15 PM CT, Oct. 15 </p> 
  [Australian residents stranded overseas will be allowed to return to New South Wales.](https://www.nytimes.com/2021/10/15/world/australia/australian-residents-stranded-overseas-will-be-allowed-to-return-to-new-south-wales.html) NYT: NA 
- <p class="updated_time"> 11:59 AM CT, Oct. 15 </p> 
- [China Launches First Woman With New Crew to Space Station](https://www.nytimes.com/article/china-mars-space.html) NYT: China has launched a second crew to the country’s new orbiting space station. The mission is one of many challenging U.S. dominance of space exploration. 
  <p class="updated_time"> 11:14 AM CT, Oct. 15 </p> 
  [How the Nobel Peace Prize Laid Bare the Schism in Russia’s Opposition](https://www.nytimes.com/2021/10/15/world/europe/russia-dissent-muratov-navalny-nobel.html) NYT: Dmitri A. Muratov, a new laureate, engages with the Kremlin, while Aleksei A. Navalny, the most high-profile Putin critic, resists all compromise. The Kremlin capitalizes on the fault line. 
  <p class="updated_time"> 11:10 AM CT, Oct. 15 </p> 
@@ -176,6 +174,8 @@ permalink: /charts/news/
  [Faulty Studs Led to Mexico City Metro Collapse, Attorney General Says](https://www.nytimes.com/2021/10/14/world/americas/mexico-city-metro-collapse.html) NYT: A monthslong investigation by city authorities supports the central findings of a New York Times investigation, which had uncovered a series of fatal construction flaws. 
  <p class="updated_time"> 07:31 PM CT, Oct. 14 </p> 
  [Biden Meets With Kenya’s President Amid Crisis in Ethiopia](https://www.nytimes.com/2021/10/14/us/politics/biden-kenya-kenyatta-ethiopia.html) NYT: The two leaders were also expected to discuss the escalating humanitarian crisis in the Tigray region of Ethiopia, where fighters have been accused of atrocities against civilians. 
+ <p class="updated_time"> 07:05 PM CT, Oct. 14 </p> 
+ [South Korea will donate 1.6 million vaccine doses to Vietnam and Thailand.](https://www.nytimes.com/2021/10/14/world/south-korea-will-donate-1-6-million-vaccine-doses-to-vietnam-and-thailand.html) NYT: NA 
  <p class="updated_time"> 06:10 PM CT, Oct. 14 </p> 
  ['They will hang me': Afghan interpreters blocked by UK seek appeal](https://www.bbc.co.uk/news/world-asia-58830736?at_medium=RSS&at_campaign=KARANGA) BBC: Former interpreters fear for their lives after the UK blocks their evacuation on security grounds. 
  <p class="updated_time"> 05:10 PM CT, Oct. 14 </p> 
