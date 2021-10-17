@@ -6,16 +6,16 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 05:22 PM CT, Oct. 17 </p> 
+ [Town Rattled by Bow-and-Arrow Killings Ponders Terrorism and Mental Illness](https://www.nytimes.com/2021/10/17/world/europe/norway-bow-and-arrow-killings.html) NYT: The police in Norway, initially pointing to Islamic extremism, now say an attacker was “not well, mentally.” 
  <p class="updated_time"> 05:08 PM CT, Oct. 17 </p> 
  [Indian State Evicts Muslims, Even Those Living There Legally](https://www.nytimes.com/2021/10/17/world/asia/india-assam-muslim-evictions.html) NYT: Critics say an Indian state’s campaign to expel longtime residents on government land marks the ruling party’s latest campaign against Muslims. 
  <p class="updated_time"> 05:07 PM CT, Oct. 17 </p> 
- [Belarus: French ambassador leaves Minsk after Lukashenko regime order](https://www.bbc.co.uk/news/world-europe-58949524?at_medium=RSS&at_campaign=KARANGA) BBC: France, among other countries, does not recognise the president's claim to a sixth term. 
+ [Belarus: French ambassador leaves Minsk after Minsk expels him](https://www.bbc.co.uk/news/world-europe-58949524?at_medium=RSS&at_campaign=KARANGA) BBC: France, among other countries, does not recognise the president's claim to a sixth term. 
  <p class="updated_time"> 04:15 PM CT, Oct. 17 </p> 
  [Will New Covid Treatments Be as Elusive for Poor Countries as Vaccines?](https://www.nytimes.com/2021/10/17/health/covid-treatment-access-molnupiravir.html) NYT: Merck has taken a step to make its antiviral pill available in poor nations, but many obstacles remain for broad access to coronavirus drugs. 
  <p class="updated_time"> 04:00 PM CT, Oct. 17 </p> 
  [Your Monday Briefing](https://www.nytimes.com/2021/10/17/briefing/haiti-kidnapping-south-korea-draft.html) NYT: Haitian gang kidnaps missionaries. 
- <p class="updated_time"> 03:39 PM CT, Oct. 17 </p> 
- [Town Rattled by Bow-and-Arrow Killings Ponders Terrorism and Mental Illness](https://www.nytimes.com/2021/10/17/world/europe/norway-bow-and-arrow-killings.html) NYT: The police in Norway, initially pointing to Islamic extremism, now say an attacker was “not well, mentally.” 
  <p class="updated_time"> 03:36 PM CT, Oct. 17 </p> 
  [Robert Durst, Millionaire Convicted of Murder, on Ventilator With Covid](https://www.nytimes.com/2021/10/16/world/robert-durst-covid-ventilator.html) NYT: The 78-year-old millionaire and former real estate mogul was sentenced to life in prison on Thursday for the murder of a friend in 2000. 
  <p class="updated_time"> 03:22 PM CT, Oct. 17 </p> 
