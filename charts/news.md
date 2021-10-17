@@ -6,6 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 03:24 AM CT, Oct. 17 </p> 
+ [Russian team back on Earth after filming first movie in space](https://www.bbc.co.uk/news/world-europe-58944660?at_medium=RSS&at_campaign=KARANGA) BBC: The Russian film crew return after an ISS shoot that had its own moments of drama. 
  <p class="updated_time"> 02:51 AM CT, Oct. 17 </p> 
  [Haiti: US Christian missionaries kidnapped in Port-au-Prince - reports](https://www.bbc.co.uk/news/world-latin-america-58943252?at_medium=RSS&at_campaign=KARANGA) BBC: At least 15 women, men and children were abducted by an armed gang near the capital, sources say. 
  <p class="updated_time"> 01:52 AM CT, Oct. 17 </p> 
@@ -98,8 +100,6 @@ permalink: /charts/news/
  [British Museums Face Covid’s Long-Term Effects](https://www.nytimes.com/2021/10/14/arts/design/british-museums-recovery.html) NYT: Months of closures during the pandemic have caused financial havoc for art venues, and many expect to be strapped for years. At the Victoria and Albert Museum in London, the virus’s impact is clear. 
  <p class="updated_time"> 02:39 AM CT, Oct. 16 </p> 
  [New Zealand Attempts a Record-Setting ‘Vaxathon’](https://www.nytimes.com/2021/10/16/world/australia/new-zealand-vaccines.html) NYT: The country took a different approach to encouraging vaccinations on Saturday, with barbecues, a telethon and the chance to get jabbed in the business-class seat of a Boeing 787. 
- <p class="updated_time"> 01:40 AM CT, Oct. 16 </p> 
- [Pablo Escobar: Colombia sterilises drug lord's hippos](https://www.bbc.co.uk/news/world-latin-america-58937415?at_medium=RSS&at_campaign=KARANGA) BBC: Scientists are concerned about the impact of the rogue non-native herd near Escobar's former ranch. 
  <p class="updated_time"> 10:17 PM CT, Oct. 15 </p> 
  [Mining for Gold in Australia’s Migrant Past](https://www.nytimes.com/2021/10/15/world/asia/new-gold-mountain-chinese-immigrants.html) NYT: “New Gold Mountain” highlights the complications of belonging for immigrants then and now. 
  <p class="updated_time"> 09:22 PM CT, Oct. 15 </p> 
