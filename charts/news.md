@@ -6,6 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 07:04 AM CT, Oct. 17 </p> 
+ [Kerala floods: At least 19 dead and dozens missing in India](https://www.bbc.co.uk/news/world-asia-india-58940880?at_medium=RSS&at_campaign=KARANGA) BBC: Heavy rains cause rivers to overflow in Kerala, washing away homes and trapping people under debris. 
  <p class="updated_time"> 06:44 AM CT, Oct. 17 </p> 
  [Russia sets condition for return of BBC journalist](https://www.bbc.co.uk/news/world-europe-58944531?at_medium=RSS&at_campaign=KARANGA) BBC: Ambassador Andrei Kelin says the BBC reporter can return if Russian journalists gets UK visas. 
  <p class="updated_time"> 06:38 AM CT, Oct. 17 </p> 
@@ -52,6 +54,8 @@ permalink: /charts/news/
  [How a massacre of Algerians in Paris was covered up](https://www.bbc.co.uk/news/world-africa-58927939?at_medium=RSS&at_campaign=KARANGA) BBC: French police killed up to 300 people in 1961, throwing some of them into the River Seine to drown them. 
  <p class="updated_time"> 06:02 PM CT, Oct. 16 </p> 
  [Pigs at Amsterdam's Schiphol Airport help to keep skies safe](https://www.bbc.co.uk/news/world-europe-58928677?at_medium=RSS&at_campaign=KARANGA) BBC: A team of 20 at Amsterdam's Schiphol Airport is part of a range of measures being used to reduce bird-strikes. 
+ <p class="updated_time"> 05:30 PM CT, Oct. 16 </p> 
+ [Deal Maker for Venezuela's Maduro Regime Extradited to U.S.](https://www.wsj.com/articles/deal-maker-for-venezuelas-maduro-regime-extradited-to-u-s-11634432668) WSJ: Businessman Alex Saab is accused by American prosecutors of creating a global network of companies to help Venezuela’s government evade U.S. sanctions. 
  <p class="updated_time"> 04:23 PM CT, Oct. 16 </p> 
  [In Venezuela, a Rum Maker Offers Gangsters a Life Outside of Crime](https://www.nytimes.com/2021/10/16/world/americas/venezuela-rum-rehabilitation-crime.html) NYT: In the process, the family running the company, Ron Santa Teresa, has gone from bankruptcy to exporting an award-winning vintage rum. 
  <p class="updated_time"> 04:19 PM CT, Oct. 16 </p> 
@@ -84,8 +88,6 @@ permalink: /charts/news/
  [Macron Commemorates 1961 Paris Police Killing of Algerian Protesters](https://www.nytimes.com/2021/10/16/world/europe/paris-police-algerians-macron.html) NYT: President Emmanuel Macron of France is the country’s first head of state to attend an event marking the deaths, which officials ignored for decades. 
  <p class="updated_time"> 09:55 AM CT, Oct. 16 </p> 
  [British Lawmaker's Killing Highlights Terrorism Challenge in U.K.](https://www.wsj.com/articles/british-police-search-london-homes-in-wake-of-david-amess-killing-11634384192) WSJ: The fatal stabbing of David Amess by a suspected extremist shows the difficulties facing the government in preventing lone-wolf attacks. 
- <p class="updated_time"> 09:11 AM CT, Oct. 16 </p> 
- [Dormice favoured by Italian mafia seized in drugs raid](https://www.bbc.co.uk/news/world-europe-58938494?at_medium=RSS&at_campaign=KARANGA) BBC: Italian police search a cannabis farm and seize a stash of 235 frozen dormice - a mafia delicacy. 
  <p class="updated_time"> 09:09 AM CT, Oct. 16 </p> 
  [Beirut, a City Where Everyone Gets By, Revisits Sectarian Violence](https://www.nytimes.com/2021/10/16/world/middleeast/beirut-lebanon-sectarian-violence.html) NYT: Lebanon’s capital thrives on its religious diversity, but sectarian tensions and memories of civil war lurk just beneath the surface. 
  <p class="updated_time"> 08:37 AM CT, Oct. 16 </p> 
@@ -164,8 +166,6 @@ permalink: /charts/news/
  [As Italy Mandates Covid Passes, Rules Vary Across Europe](https://www.nytimes.com/2021/10/15/world/europe/covid-passes.html) NYT: Varying measures reflect domestic politics and potential opposition against such rules. 
  <p class="updated_time"> 06:58 AM CT, Oct. 15 </p> 
  [Hate Crimes and Pandemic Lead More Asian Americans to Seek Therapy](https://www.nytimes.com/2021/10/15/us/asian-american-therapy-hate-crimes.html) NYT: A growing number of Asian Americans have overcome a cultural stigma attached to seeking mental health treatment, experts said. 
- <p class="updated_time"> 04:23 AM CT, Oct. 15 </p> 
- [Inflation Sets Off Alarms Around the World](https://www.wsj.com/articles/inflation-sets-off-alarms-around-the-world-11634304187) WSJ: More than a dozen central banks have raised interest rates but two that haven’t are those that loom largest over the global economy: the Federal Reserve and the European Central Bank. 
  <p class="updated_time"> 03:39 AM CT, Oct. 15 </p> 
  [Man Whose Attack on Ex-Wife Was Livestreamed Gets Death Penalty in China](https://www.nytimes.com/2021/10/15/world/asia/china-livestream-killing-abuse.html) NYT: The case riveted the public’s attention in China and spotlighted the patchy enforcement of the country’s law against domestic violence. 
  <p class="updated_time"> 11:09 PM CT, Oct. 14 </p> 
