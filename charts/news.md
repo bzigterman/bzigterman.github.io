@@ -28,12 +28,12 @@ permalink: /charts/news/
  [Bill Clinton: Former US president discharged from hospital](https://www.bbc.co.uk/news/world-us-canada-58947175?at_medium=RSS&at_campaign=KARANGA) BBC: The 75-year-old had been receiving treatment for a blood infection in California. 
  <p class="updated_time"> 11:49 AM CT, Oct. 17 </p> 
  [Pedro Sanchez: Spanish PM vows to abolish prostitution](https://www.bbc.co.uk/news/world-europe-58947172?at_medium=RSS&at_campaign=KARANGA) BBC: The UN estimates Spain's sex industry has become worth €3.7 billion since decriminalisation in 1995. 
+ <p class="updated_time"> 11:46 AM CT, Oct. 17 </p> 
+ [Group of 16 Americans and a Canadian Kidnapped in Haiti](https://www.wsj.com/articles/group-of-16-americans-and-a-canadian-including-five-children-kidnapped-in-haiti-11634497450) WSJ: Christian Aid Ministries said that a group was kidnapped Saturday morning during a trip to an orphanage. The organization said that five of those who were abducted are children. 
  <p class="updated_time"> 11:17 AM CT, Oct. 17 </p> 
  [Tunisians Recall Revolution Reluctantly, if at All: ‘It Just Faded Away’](https://www.nytimes.com/2021/10/17/world/middleeast/tunisia-revolution-memoro-monuments.html) NYT: When a monument to those killed in the 2011 uprising was recently damaged, few took notice or even cared in a town, and country, where there is now more regret than a wish to remember. 
  <p class="updated_time"> 11:00 AM CT, Oct. 17 </p> 
  [China's Scripted Homicides Become a Popular Pastime](https://www.nytimes.com/2021/10/16/world/asia/china-murder-script.html) NYT: “Scripted homicide” clubs have opened around the country as young people look for ways to escape and connect. Naturally, the government has questions. 
- <p class="updated_time"> 10:42 AM CT, Oct. 17 </p> 
- [Group of 16 Americans and a Canadian Kidnapped in Haiti](https://www.wsj.com/articles/group-of-16-americans-and-a-canadian-including-five-children-kidnapped-in-haiti-11634497450) WSJ: Christian Aid Ministries said that a group was kidnapped Saturday morning during a trip to an orphanage. The organization said that five of those who were abducted are children. 
  <p class="updated_time"> 10:14 AM CT, Oct. 17 </p> 
  [Kerala floods: Dozens missing in deadly India disaster](https://www.bbc.co.uk/news/world-asia-india-58940880?at_medium=RSS&at_campaign=KARANGA) BBC: Heavy rains cause rivers to overflow in Kerala, washing away homes and trapping people under debris. 
  <p class="updated_time"> 10:10 AM CT, Oct. 17 </p> 
