@@ -6,6 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 12:45 PM CT, Oct. 17 </p> 
+ [Fake Polls and Tabloid Coverage on Demand: The Dark Side of Sebastian Kurz](https://www.nytimes.com/2021/10/17/world/europe/austria-sebastian-kurz-scandal-chancellor.html) NYT: The downfall of Austria’s onetime political Wunderkind put a spotlight on the cozy, sometimes corrupt, relationship between right-wing populists and parts of the news media. 
  <p class="updated_time"> 11:55 AM CT, Oct. 17 </p> 
  ['400 Mawozo' Gang Suspected in Kidnapping Among Haiti's Most Dangerous](https://www.nytimes.com/2021/10/17/world/americas/400-mawozo-haiti-kidnapping.html) NYT: The gang, “400 Mawozo,” captured several clergy members in April, and the local authorities say it is behind Saturday’s kidnapping. 
  <p class="updated_time"> 11:55 AM CT, Oct. 17 </p> 
@@ -30,6 +32,8 @@ permalink: /charts/news/
  [Robert Durst, Millionaire Convicted of Murder, on Ventilator With Covid](https://www.nytimes.com/2021/10/16/world/robert-durst-covid-ventilator.html) NYT: The 78-year-old millionaire and former real estate mogul was sentenced to life in prison on Thursday for the murder of a friend in 2000. 
  <p class="updated_time"> 08:57 AM CT, Oct. 17 </p> 
  [Fespaco: Pomp and colour as Africa’s biggest film festival starts](https://www.bbc.co.uk/news/world-africa-58945414?at_medium=RSS&at_campaign=KARANGA) BBC: The Fespaco festival draws film fans from across the world to Burkina Faso. 
+ <p class="updated_time"> 08:49 AM CT, Oct. 17 </p> 
+ [Nigeria's Criminal Gangs Steal Munitions and Extort the Government](https://www.wsj.com/articles/nigerias-gangs-raised-millions-by-kidnapping-children-now-the-government-cant-stop-them-11634400009) WSJ: In the forests of northwest Nigeria, loosely organized criminal gangs that raised funds kidnapping schoolchildren are now flush with arms and operating beyond the reach of an increasingly fragile state. 
  <p class="updated_time"> 08:12 AM CT, Oct. 17 </p> 
  [How a Stunning Lagoon in Spain Turned Into ‘Green Soup’](https://www.nytimes.com/2021/10/17/world/europe/spain-lagoon-pollution-mar-menor.html) NYT: Tons of dead fish have washed ashore in recent years from the Mar Menor, a once-crystalline lagoon on the Mediterranean coast that has become choked with algae. Farm pollution is mostly blamed. 
  <p class="updated_time"> 07:42 AM CT, Oct. 17 </p> 
@@ -42,8 +46,6 @@ permalink: /charts/news/
  [British Police Question Alleged Attacker in Killing of Conservative Lawmaker David Amess](https://www.wsj.com/articles/british-police-question-alleged-attacker-in-killing-of-conservative-lawmaker-david-amess-11634484017) WSJ: The suspect is identified as a 25-year-old British citizen of Somali descent, an official said. 
  <p class="updated_time"> 05:39 AM CT, Oct. 17 </p> 
  [Syria Accuses Israel of Assassinating Official Near Golan Heights](https://www.nytimes.com/2021/10/16/world/syria-accuses-israel-of-assassinating-official-near-golan-heights.html) NYT: Midhat Saleh, who oversaw the strategic Golan Heights boundary for Syria, was shot and killed by a sniper, the government said. 
- <p class="updated_time"> 05:34 AM CT, Oct. 17 </p> 
- [Nigeria's Criminal Gangs Steal Munitions and Extort the Government](https://www.wsj.com/articles/nigerias-gangs-raised-millions-by-kidnapping-children-now-the-government-cant-stop-them-11634400009) WSJ: In the forests of northwest Nigeria, loosely organized criminal gangs that raised funds kidnapping schoolchildren are now flush with arms and operating beyond the reach of an increasingly fragile state. 
  <p class="updated_time"> 05:15 AM CT, Oct. 17 </p> 
  [South Korea Reconsiders a Rite of Manhood: The Draft](https://www.nytimes.com/2021/10/17/world/asia/south-korea-conscription.html) NYT: Military conscription has become less popular. The rules have loosened. But experts still worry about the threat from the North. 
  <p class="updated_time"> 04:26 AM CT, Oct. 17 </p> 
@@ -164,8 +166,6 @@ permalink: /charts/news/
  [Man Whose Attack on Ex-Wife Was Livestreamed Gets Death Penalty in China](https://www.nytimes.com/2021/10/15/world/asia/china-livestream-killing-abuse.html) NYT: The case riveted the public’s attention in China and spotlighted the patchy enforcement of the country’s law against domestic violence. 
  <p class="updated_time"> 11:09 PM CT, Oct. 14 </p> 
  [Your Friday Briefing](https://www.nytimes.com/2021/10/15/briefing/beirut-fighting-pandemic-america.html) NYT: The state of the pandemic in the U.S. 
- <p class="updated_time"> 11:01 PM CT, Oct. 14 </p> 
- [LinkedIn to End Service in China, Citing ‘Challenging’ Environment](https://www.nytimes.com/2021/10/14/technology/linkedin-china-microsoft.html) NYT: The Microsoft-owned service had censored posts in China, in compliance with the country’s laws, to operate there. 
  <p class="updated_time"> 08:19 PM CT, Oct. 14 </p> 
  [Faulty Studs Led to Mexico City Metro Collapse, Attorney General Says](https://www.nytimes.com/2021/10/14/world/americas/mexico-city-metro-collapse.html) NYT: A monthslong investigation by city authorities supports the central findings of a New York Times investigation, which had uncovered a series of fatal construction flaws. 
  <p class="updated_time"> 07:31 PM CT, Oct. 14 </p> 
