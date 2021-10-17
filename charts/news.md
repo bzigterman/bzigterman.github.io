@@ -6,6 +6,10 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 02:35 PM CT, Oct. 17 </p> 
+ [Haiti kidnap: 400 Mawozo accused of US missionary kidnap](https://www.bbc.co.uk/news/world-latin-america-58948107?at_medium=RSS&at_campaign=KARANGA) BBC: The armed gang, called 400 Mawozo, is holding 17 women, men and children from the US and Canada. 
+ <p class="updated_time"> 02:27 PM CT, Oct. 17 </p> 
+ [Robert Durst, Millionaire Convicted of Murder, on Ventilator With Covid](https://www.nytimes.com/2021/10/16/world/robert-durst-covid-ventilator.html) NYT: The 78-year-old millionaire and former real estate mogul was sentenced to life in prison on Thursday for the murder of a friend in 2000. 
  <p class="updated_time"> 02:17 PM CT, Oct. 17 </p> 
  ['400 Mawozo' Gang Suspected in Kidnapping Among Haiti's Most Dangerous](https://www.nytimes.com/2021/10/17/world/americas/400-mawozo-haiti-kidnapping.html) NYT: The gang, “400 Mawozo,” captured several clergy members in April, and the local authorities say it is behind Saturday’s kidnapping. 
  <p class="updated_time"> 01:51 PM CT, Oct. 17 </p> 
@@ -28,8 +32,6 @@ permalink: /charts/news/
  [Poland: New project aims to help migrants crossing border](https://www.bbc.co.uk/news/world-europe-58947167?at_medium=RSS&at_campaign=KARANGA) BBC: Lawyer suggests locals should switch on a green light to signal they can help migrants with food. 
  <p class="updated_time"> 09:27 AM CT, Oct. 17 </p> 
  [In Haiti, Aid Group Workers Are Kidnapped](https://www.nytimes.com/2021/10/16/world/americas/missionaries-kidnap-haiti.html) NYT: Up to 17 missionaries and their family members were taken by gang members in the capital of a country where kidnappings have become increasingly common. 
- <p class="updated_time"> 09:13 AM CT, Oct. 17 </p> 
- [Robert Durst, Millionaire Convicted of Murder, on Ventilator With Covid](https://www.nytimes.com/2021/10/16/world/robert-durst-covid-ventilator.html) NYT: The 78-year-old millionaire and former real estate mogul was sentenced to life in prison on Thursday for the murder of a friend in 2000. 
  <p class="updated_time"> 08:57 AM CT, Oct. 17 </p> 
  [Fespaco: Pomp and colour as Africa’s biggest film festival starts](https://www.bbc.co.uk/news/world-africa-58945414?at_medium=RSS&at_campaign=KARANGA) BBC: The Fespaco festival draws film fans from across the world to Burkina Faso. 
  <p class="updated_time"> 08:49 AM CT, Oct. 17 </p> 
@@ -54,8 +56,6 @@ permalink: /charts/news/
  [Will New Covid Treatments Be as Elusive for Poor Countries as Vaccines?](https://www.nytimes.com/2021/10/17/health/covid-treatment-access-molnupiravir.html) NYT: Merck has taken a step to make its antiviral pill available in poor nations, but many obstacles remain for broad access to coronavirus drugs. 
  <p class="updated_time"> 03:24 AM CT, Oct. 17 </p> 
  [Russian team back on Earth after filming first movie in space](https://www.bbc.co.uk/news/world-europe-58944660?at_medium=RSS&at_campaign=KARANGA) BBC: The Russian film crew return after an ISS shoot that had its own moments of drama. 
- <p class="updated_time"> 02:51 AM CT, Oct. 17 </p> 
- [Haiti: US Christian missionaries kidnapped in Port-au-Prince - reports](https://www.bbc.co.uk/news/world-latin-america-58943252?at_medium=RSS&at_campaign=KARANGA) BBC: At least 15 women, men and children were abducted by an armed gang near the capital, sources say. 
  <p class="updated_time"> 01:37 AM CT, Oct. 17 </p> 
  [Afghan Resettlement Effort Slowed by Housing, Tech Constraints](https://www.wsj.com/articles/u-s-afghan-resettlements-slowed-by-housing-shortage-old-technology-11634463001) WSJ: The U.S. push to resettle evacuees is set to take months longer than first expected as a measles scare, a nationwide housing shortage and paperwork delays have slowed the process. 
  <p class="updated_time"> 01:22 AM CT, Oct. 17 </p> 
@@ -116,6 +116,8 @@ permalink: /charts/news/
  [Mining for Gold in Australia’s Migrant Past](https://www.nytimes.com/2021/10/15/world/asia/new-gold-mountain-chinese-immigrants.html) NYT: “New Gold Mountain” highlights the complications of belonging for immigrants then and now. 
  <p class="updated_time"> 09:22 PM CT, Oct. 15 </p> 
  [Blast at Afghan Mosque Kills Dozens as Shiites Are Targeted Again](https://www.nytimes.com/2021/10/15/world/asia/afghanistan-mosque-blast.html) NYT: It was the second week in a row that attackers had struck a Shiite place of worship during Friday Prayer. 
+ <p class="updated_time"> 08:33 PM CT, Oct. 15 </p> 
+ [U.S. Pledges to Pay Family of Those Killed in Botched Kabul Drone Strike](https://www.nytimes.com/2021/10/15/us/politics/kabul-drone-strike-victims-payment.html) NYT: The Pentagon offered unspecified amounts to relatives of the 10 civilians who died in Aug. 29 attack and agreed to help relocate those who want to move to the U.S. 
  <p class="updated_time"> 08:14 PM CT, Oct. 15 </p> 
  [Shipping disruption: Why are so many queuing to get to the US?](https://www.bbc.co.uk/news/58926842?at_medium=RSS&at_campaign=KARANGA) BBC: A surge in demand for toys and sports equipment has contributed to logjams at US ports. 
  <p class="updated_time"> 08:12 PM CT, Oct. 15 </p> 
