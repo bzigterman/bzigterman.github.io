@@ -51,7 +51,7 @@ permalink: /charts/news/
  <p class="updated_time"> 01:22 AM CT, Oct. 17 </p> 
  [Sudan: Protesters demand military coup as crisis deepens](https://www.bbc.co.uk/news/world-africa-58943013?at_medium=RSS&at_campaign=KARANGA) BBC: The protests come as tensions rise between civilian and military rulers. 
  <p class="updated_time"> 01:20 AM CT, Oct. 17 </p> 
- [Sudan: Protesters take to streets](https://www.bbc.co.uk/news/world-africa-58944525?at_medium=RSS&at_campaign=KARANGA) BBC: Opponents of Sudan's transition to democracy demonstrate in Khartoum, urging the army to take control. 
+ [Sudan: Protesters take to streets and call for military coup](https://www.bbc.co.uk/news/world-africa-58944525?at_medium=RSS&at_campaign=KARANGA) BBC: Opponents of Sudan's transition to democracy demonstrate in Khartoum, urging the army to take control. 
  <p class="updated_time"> 11:52 PM CT, Oct. 16 </p> 
  [U.S. Arrests Alex Saab, Deal Maker for Nicolás Maduro of Venezuela](https://www.nytimes.com/2021/10/16/world/americas/alex-saab-arrest-venezuela-maduro.html) NYT: Alex Saab, a Colombian businessman, is accused in the U.S. of siphoning millions from programs intended to help the needy in Venezuela. 
  <p class="updated_time"> 11:05 PM CT, Oct. 16 </p> 
