@@ -6,10 +6,12 @@ permalink: /charts/news/
 
 ## World News
 
- <p class="updated_time"> 08:48 AM CT, Oct. 17 </p> 
+ <p class="updated_time"> 09:16 AM CT, Oct. 17 </p> 
  [Missionaries With an American Christian Group Kidnapped in Haiti](https://www.nytimes.com/2021/10/16/world/americas/missionaries-kidnap-haiti.html) NYT: Up to 17 missionaries and their family members were taken by gang members in the capital of a country where kidnappings have become increasingly common. 
- <p class="updated_time"> 08:38 AM CT, Oct. 17 </p> 
+ <p class="updated_time"> 09:13 AM CT, Oct. 17 </p> 
  [Robert Durst, Millionaire Convicted of Murder, on Ventilator With Covid](https://www.nytimes.com/2021/10/16/world/robert-durst-covid-ventilator.html) NYT: The 78-year-old millionaire and former real estate mogul was sentenced to life in prison on Thursday for the murder of a friend in 2000. 
+ <p class="updated_time"> 08:57 AM CT, Oct. 17 </p> 
+ [Fespaco: Pomp and colour as Africa’s biggest film festival starts](https://www.bbc.co.uk/news/world-africa-58945414?at_medium=RSS&at_campaign=KARANGA) BBC: The Fespaco festival draws film fans from across the world to Burkina Faso. 
  <p class="updated_time"> 08:12 AM CT, Oct. 17 </p> 
  [How a Stunning Lagoon in Spain Turned Into ‘Green Soup’](https://www.nytimes.com/2021/10/17/world/europe/spain-lagoon-pollution-mar-menor.html) NYT: Tons of dead fish have washed ashore in recent years from the Mar Menor, a once-crystalline lagoon on the Mediterranean coast that has become choked with algae. Farm pollution is mostly blamed. 
  <p class="updated_time"> 07:42 AM CT, Oct. 17 </p> 
@@ -70,8 +72,6 @@ permalink: /charts/news/
  [China's Scripted Homicides Become a Popular Pastime](https://www.nytimes.com/2021/10/16/world/asia/china-murder-script.html) NYT: “Scripted homicide” clubs have opened around the country as young people look for ways to escape and connect. Naturally, the government has questions. 
  <p class="updated_time"> 02:20 PM CT, Oct. 16 </p> 
  [Sir David Amess killing: Security for politicians is a global dilemma](https://www.bbc.co.uk/news/world-58937581?at_medium=RSS&at_campaign=KARANGA) BBC: Why the need to be a people's representative and the need for personal safety are in constant conflict. 
- <p class="updated_time"> 01:19 PM CT, Oct. 16 </p> 
- [Nazanin Zaghari-Ratcliffe: British-Iranian aid worker loses court appeal in Iran](https://www.bbc.co.uk/news/world-middle-east-58940458?at_medium=RSS&at_campaign=KARANGA) BBC: Her family has told the BBC that they fear she could be returned to jail at any time. 
  <p class="updated_time"> 01:09 PM CT, Oct. 16 </p> 
  [Yukon Territory Imposes Vaccine Mandate Amid Rise in Cases](https://www.nytimes.com/2021/10/16/world/yukon-vaccine-mandate.html) NYT: Health care workers and others in the Yukon must be fully vaccinated by Nov. 30. The territory is also starting a vaccination passport program. 
  <p class="updated_time"> 12:51 PM CT, Oct. 16 </p> 
