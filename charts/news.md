@@ -6,6 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 08:48 AM CT, Oct. 17 </p> 
+ [Missionaries With an American Christian Group Kidnapped in Haiti](https://www.nytimes.com/2021/10/16/world/americas/missionaries-kidnap-haiti.html) NYT: Up to 17 missionaries and their family members were taken by gang members in the capital of a country where kidnappings have become increasingly common. 
  <p class="updated_time"> 08:38 AM CT, Oct. 17 </p> 
  [Robert Durst, Millionaire Convicted of Murder, on Ventilator With Covid](https://www.nytimes.com/2021/10/16/world/robert-durst-covid-ventilator.html) NYT: The 78-year-old millionaire and former real estate mogul was sentenced to life in prison on Thursday for the murder of a friend in 2000. 
  <p class="updated_time"> 08:12 AM CT, Oct. 17 </p> 
@@ -34,8 +36,6 @@ permalink: /charts/news/
  [Haiti: US Christian missionaries kidnapped in Port-au-Prince - reports](https://www.bbc.co.uk/news/world-latin-america-58943252?at_medium=RSS&at_campaign=KARANGA) BBC: At least 15 women, men and children were abducted by an armed gang near the capital, sources say. 
  <p class="updated_time"> 02:33 AM CT, Oct. 17 </p> 
  [Candlelit vigil in honour of MP ](https://www.bbc.co.uk/news/uk-58944527?at_medium=RSS&at_campaign=KARANGA) BBC: Hundreds of people carrying lanterns and candles gathered in Leigh-on-Sea to pay their respects. 
- <p class="updated_time"> 01:52 AM CT, Oct. 17 </p> 
- [American Missionaries Kidnapped in Haiti, Officials Say](https://www.nytimes.com/2021/10/16/world/americas/missionaries-kidnap-haiti.html) NYT: Up to 17 missionaries and their family members were taken by gangs in the capital of a country where kidnappings have become increasingly common. 
  <p class="updated_time"> 01:22 AM CT, Oct. 17 </p> 
  [Sudan: Protesters demand military coup as crisis deepens](https://www.bbc.co.uk/news/world-africa-58943013?at_medium=RSS&at_campaign=KARANGA) BBC: The protests come as tensions rise between civilian and military rulers. 
  <p class="updated_time"> 01:20 AM CT, Oct. 17 </p> 
