@@ -6,6 +6,10 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 03:09 PM CT, Oct. 17 </p> 
+ [What Is Christian Aid Ministries and What Does It Do in Haiti?](https://www.nytimes.com/2021/10/17/world/americas/what-is-christian-aid-ministries.html) NYT: The group, based in Ohio, distributes food and clothing, funds schools, teaches farming methods and helps with emergency relief. 
+ <p class="updated_time"> 03:00 PM CT, Oct. 17 </p> 
+ ['400 Mawozo' Gang Suspected in Kidnapping Among Haiti's Most Dangerous](https://www.nytimes.com/2021/10/17/world/americas/400-mawozo-haiti-kidnapping.html) NYT: The gang, called 400 Mawozo, captured several clergy members in April, and the local authorities say it is behind Saturday’s kidnapping. 
  <p class="updated_time"> 02:43 PM CT, Oct. 17 </p> 
  [Bill Clinton: Thumbs up as former US president leaves hospital](https://www.bbc.co.uk/news/world-us-canada-58947921?at_medium=RSS&at_campaign=KARANGA) BBC: The former US president is discharged from a Californian hospital accompanied by his wife Hillary. 
  <p class="updated_time"> 02:38 PM CT, Oct. 17 </p> 
@@ -14,8 +18,6 @@ permalink: /charts/news/
  [Haiti kidnap: 400 Mawozo accused of US missionary kidnap](https://www.bbc.co.uk/news/world-latin-america-58948107?at_medium=RSS&at_campaign=KARANGA) BBC: The armed gang, called 400 Mawozo, is holding 17 women, men and children from the US and Canada. 
  <p class="updated_time"> 02:27 PM CT, Oct. 17 </p> 
  [Robert Durst, Millionaire Convicted of Murder, on Ventilator With Covid](https://www.nytimes.com/2021/10/16/world/robert-durst-covid-ventilator.html) NYT: The 78-year-old millionaire and former real estate mogul was sentenced to life in prison on Thursday for the murder of a friend in 2000. 
- <p class="updated_time"> 02:17 PM CT, Oct. 17 </p> 
- ['400 Mawozo' Gang Suspected in Kidnapping Among Haiti's Most Dangerous](https://www.nytimes.com/2021/10/17/world/americas/400-mawozo-haiti-kidnapping.html) NYT: The gang, “400 Mawozo,” captured several clergy members in April, and the local authorities say it is behind Saturday’s kidnapping. 
  <p class="updated_time"> 12:45 PM CT, Oct. 17 </p> 
  [Fake Polls and Tabloid Coverage on Demand: The Dark Side of Sebastian Kurz](https://www.nytimes.com/2021/10/17/world/europe/austria-sebastian-kurz-scandal-chancellor.html) NYT: The downfall of Austria’s onetime political Wunderkind put a spotlight on the cozy, sometimes corrupt, relationship between right-wing populists and parts of the news media. 
  <p class="updated_time"> 11:55 AM CT, Oct. 17 </p> 
@@ -26,8 +28,6 @@ permalink: /charts/news/
  [Tunisians Recall Revolution Reluctantly, if at All: ‘It Just Faded Away’](https://www.nytimes.com/2021/10/17/world/middleeast/tunisia-revolution-memoro-monuments.html) NYT: When a monument to those killed in the 2011 uprising was recently damaged, few took notice or even cared in a town, and country, where there is now more regret than a wish to remember. 
  <p class="updated_time"> 11:00 AM CT, Oct. 17 </p> 
  [China's Scripted Homicides Become a Popular Pastime](https://www.nytimes.com/2021/10/16/world/asia/china-murder-script.html) NYT: “Scripted homicide” clubs have opened around the country as young people look for ways to escape and connect. Naturally, the government has questions. 
- <p class="updated_time"> 10:44 AM CT, Oct. 17 </p> 
- [What Is Christian Aid Ministries and What Does It Do in Haiti?](https://www.nytimes.com/2021/10/17/world/americas/what-is-christian-aid-ministries.html) NYT: The group, based in Ohio, distributes food and clothing, funds schools, teaches farming methods and helps with emergency relief. 
  <p class="updated_time"> 10:42 AM CT, Oct. 17 </p> 
  [Group of 16 Americans and a Canadian Kidnapped in Haiti](https://www.wsj.com/articles/group-of-16-americans-and-a-canadian-including-five-children-kidnapped-in-haiti-11634497450) WSJ: Christian Aid Ministries said that a group was kidnapped Saturday morning during a trip to an orphanage. The organization said that five of those who were abducted are children. 
  <p class="updated_time"> 10:14 AM CT, Oct. 17 </p> 
