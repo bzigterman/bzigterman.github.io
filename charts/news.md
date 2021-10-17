@@ -6,6 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 04:26 AM CT, Oct. 17 </p> 
+ [Macron condemns 'unforgivable' 1961 massacre of Algerians in Paris](https://www.bbc.co.uk/news/world-europe-58943245?at_medium=RSS&at_campaign=KARANGA) BBC: The 1961 Paris massacre was denied or concealed by French governments for decades. 
  <p class="updated_time"> 04:00 AM CT, Oct. 17 </p> 
  [South Korea Reconsiders a Rite of Manhood: the Draft](https://www.nytimes.com/2021/10/17/world/asia/south-korea-conscription.html) NYT: Military conscription has become less popular. The rules have loosened. But experts still worry about the threat from the North. 
  <p class="updated_time"> 04:00 AM CT, Oct. 17 </p> 
@@ -44,8 +46,6 @@ permalink: /charts/news/
  [How a massacre of Algerians in Paris was covered up](https://www.bbc.co.uk/news/world-africa-58927939?at_medium=RSS&at_campaign=KARANGA) BBC: French police killed up to 300 people in 1961, throwing some of them into the River Seine to drown them. 
  <p class="updated_time"> 06:02 PM CT, Oct. 16 </p> 
  [Pigs at Amsterdam's Schiphol Airport help to keep skies safe](https://www.bbc.co.uk/news/world-europe-58928677?at_medium=RSS&at_campaign=KARANGA) BBC: A team of 20 at Amsterdam's Schiphol Airport is part of a range of measures being used to reduce bird-strikes. 
- <p class="updated_time"> 04:51 PM CT, Oct. 16 </p> 
- [Macron condemns 'unforgivable' 1961 massacre of Algerians in Paris](https://www.bbc.co.uk/news/world-europe-58943245?at_medium=RSS&at_campaign=KARANGA) BBC: The 1961 Paris massacre was denied or concealed by French governments for decades. 
  <p class="updated_time"> 04:23 PM CT, Oct. 16 </p> 
  [In Venezuela, a Rum Maker Offers Gangsters a Life Outside of Crime](https://www.nytimes.com/2021/10/16/world/americas/venezuela-rum-rehabilitation-crime.html) NYT: In the process, the family running the company, Ron Santa Teresa, has gone from bankruptcy to exporting an award-winning vintage rum. 
  <p class="updated_time"> 04:19 PM CT, Oct. 16 </p> 
