@@ -6,6 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 05:41 AM CT, Oct. 17 </p> 
+ [What we know so far](https://www.bbc.co.uk/news/uk-58922522?at_medium=RSS&at_campaign=KARANGA) BBC: What happened, what we know about the suspect, who the MP was, and what witnesses saw. 
  <p class="updated_time"> 05:39 AM CT, Oct. 17 </p> 
  [Syria Accuses Israel of Assassinating Official Near Golan Heights](https://www.nytimes.com/2021/10/16/world/syria-accuses-israel-of-assassinating-official-near-golan-heights.html) NYT: Midhat Saleh, who oversaw the strategic Golan Heights boundary for Syria, was shot and killed by a sniper, the government said. 
  <p class="updated_time"> 05:15 AM CT, Oct. 17 </p> 
@@ -52,8 +54,6 @@ permalink: /charts/news/
  [In Venezuela, a Rum Maker Offers Gangsters a Life Outside of Crime](https://www.nytimes.com/2021/10/16/world/americas/venezuela-rum-rehabilitation-crime.html) NYT: In the process, the family running the company, Ron Santa Teresa, has gone from bankruptcy to exporting an award-winning vintage rum. 
  <p class="updated_time"> 04:19 PM CT, Oct. 16 </p> 
  [After Iraqi Election, a Shiite Leader Emerges as an Unlikely U.S. Ally](https://www.nytimes.com/2021/10/16/world/middleeast/iraq-sadr-election.html) NYT: The U.S. once threatened to kill Muqtada al-Sadr as his militia battled occupying forces. Now, the powerful cleric is helping Washington by keeping Iran at bay. 
- <p class="updated_time"> 04:17 PM CT, Oct. 16 </p> 
- [What we know so far](https://www.bbc.co.uk/news/uk-58922522?at_medium=RSS&at_campaign=KARANGA) BBC: What happened, what we know about the suspect, who the MP was, and what witnesses saw. 
  <p class="updated_time"> 04:03 PM CT, Oct. 16 </p> 
  [Savannah Marshall stops Lolita Muzeya to set up unification fight with Claressa Shields](https://www.bbc.co.uk/sport/boxing/58942931?at_medium=RSS&at_campaign=KARANGA) BBC: Savannah Marshall stopped Lolita Muzeya in emphatic fashion in Newcastle and remains on track to fight Claressa Shields in a unification bout next year. 
  <p class="updated_time"> 03:40 PM CT, Oct. 16 </p> 
