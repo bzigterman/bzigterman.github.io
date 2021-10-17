@@ -42,6 +42,8 @@ permalink: /charts/news/
  [Haiti: US Christian missionaries kidnapped in Port-au-Prince - reports](https://www.bbc.co.uk/news/world-latin-america-58943252?at_medium=RSS&at_campaign=KARANGA) BBC: At least 15 women, men and children were abducted by an armed gang near the capital, sources say. 
  <p class="updated_time"> 02:33 AM CT, Oct. 17 </p> 
  [Candlelit vigil in honour of MP ](https://www.bbc.co.uk/news/uk-58944527?at_medium=RSS&at_campaign=KARANGA) BBC: Hundreds of people carrying lanterns and candles gathered in Leigh-on-Sea to pay their respects. 
+ <p class="updated_time"> 01:37 AM CT, Oct. 17 </p> 
+ [Afghan Resettlement Effort Slowed by Housing, Tech Constraints](https://www.wsj.com/articles/u-s-afghan-resettlements-slowed-by-housing-shortage-old-technology-11634463001) WSJ: The U.S. push to resettle evacuees is set to take months longer than first expected as a measles scare, a nationwide housing shortage and paperwork delays have slowed the process. 
  <p class="updated_time"> 01:22 AM CT, Oct. 17 </p> 
  [Sudan: Protesters demand military coup as crisis deepens](https://www.bbc.co.uk/news/world-africa-58943013?at_medium=RSS&at_campaign=KARANGA) BBC: The protests come as tensions rise between civilian and military rulers. 
  <p class="updated_time"> 01:20 AM CT, Oct. 17 </p> 
@@ -108,8 +110,6 @@ permalink: /charts/news/
  [What Are Political ‘Surgeries’ in Britain?](https://www.nytimes.com/2021/10/16/world/europe/political-surgeries-uk.html) NYT: The person-to-person meetings with voters give Britons unusually good access to their political representatives. But questions are being asked about whether the tradition can continue. 
  <p class="updated_time"> 07:11 AM CT, Oct. 16 </p> 
  [Islamic State Bombing Kills at Least 65 People in Southern Afghanistan](https://www.wsj.com/articles/afghan-mosque-hit-by-deadly-suicide-bombing-11634297101) WSJ: The killings in Kandahar, the Taliban’s historic stronghold, follow a spate of Islamic State attacks on the country’s religious minority sect. 
- <p class="updated_time"> 03:31 AM CT, Oct. 16 </p> 
- [Some Sell Children as Afghanistan Sinks Into Destitution](https://www.wsj.com/articles/as-afghanistan-sinks-into-destitution-some-sell-children-to-survive-11634387501) WSJ: Poverty in Afghanistan is worsening fast after the Taliban seized power and most foreign aid ended. Already, 95% of Afghans aren’t getting enough to eat, the U.N. warns. 
  <p class="updated_time"> 03:02 AM CT, Oct. 16 </p> 
  [Myanmar's Military Junta Denied a Seat at Asean Summit](https://www.wsj.com/articles/myanmars-military-junta-denied-a-seat-at-asean-summit-11634385775) WSJ: The regional bloc’s decision effectively sidelines Myanmar’s bid for international legitimacy and increases pressure on the country to cooperate with its neighbors to resolve its political crisis. 
  <p class="updated_time"> 02:39 AM CT, Oct. 16 </p> 
