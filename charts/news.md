@@ -30,6 +30,8 @@ permalink: /charts/news/
  [Russian team back on Earth after filming first movie in space](https://www.bbc.co.uk/news/world-europe-58944660?at_medium=RSS&at_campaign=KARANGA) BBC: The Russian film crew return after an ISS shoot that had its own moments of drama. 
  <p class="updated_time"> 02:51 AM CT, Oct. 17 </p> 
  [Haiti: US Christian missionaries kidnapped in Port-au-Prince - reports](https://www.bbc.co.uk/news/world-latin-america-58943252?at_medium=RSS&at_campaign=KARANGA) BBC: At least 15 women, men and children were abducted by an armed gang near the capital, sources say. 
+ <p class="updated_time"> 02:33 AM CT, Oct. 17 </p> 
+ [Candlelit vigil in honour of MP ](https://www.bbc.co.uk/news/uk-58944527?at_medium=RSS&at_campaign=KARANGA) BBC: Hundreds of people carrying lanterns and candles gathered in Leigh-on-Sea to pay their respects. 
  <p class="updated_time"> 01:52 AM CT, Oct. 17 </p> 
  [American Missionaries Kidnapped in Haiti, Officials Say](https://www.nytimes.com/2021/10/16/world/americas/missionaries-kidnap-haiti.html) NYT: Up to 17 missionaries and their family members were taken by gangs in the capital of a country where kidnappings have become increasingly common. 
  <p class="updated_time"> 01:22 AM CT, Oct. 17 </p> 
@@ -92,6 +94,8 @@ permalink: /charts/news/
  [British Lawmaker's Killing Highlights Terrorism Challenge in U.K.](https://www.wsj.com/articles/british-police-search-london-homes-in-wake-of-david-amess-killing-11634384192) WSJ: The fatal stabbing of David Amess by a suspected extremist shows the difficulties facing the government in preventing lone-wolf attacks. 
  <p class="updated_time"> 09:09 AM CT, Oct. 16 </p> 
  [Beirut, a City Where Everyone Gets By, Revisits Sectarian Violence](https://www.nytimes.com/2021/10/16/world/middleeast/beirut-lebanon-sectarian-violence.html) NYT: Lebanon’s capital thrives on its religious diversity, but sectarian tensions and memories of civil war lurk just beneath the surface. 
+ <p class="updated_time"> 08:42 AM CT, Oct. 16 </p> 
+ [Sir David Amess killing: Should MPs still be able to meet the public?](https://www.bbc.co.uk/news/uk-58931348?at_medium=RSS&at_campaign=KARANGA) BBC: The home secretary is reviewing MPs' security but says they must remain accessible to voters. 
  <p class="updated_time"> 08:37 AM CT, Oct. 16 </p> 
  [Sir David Amess killing casts shadow over Leigh-on-Sea constituency](https://www.bbc.co.uk/news/uk-england-essex-58938850?at_medium=RSS&at_campaign=KARANGA) BBC: Constituents in Leigh-on-Sea mourn Sir David Amess as they try to make sense of what happened. 
  <p class="updated_time"> 08:30 AM CT, Oct. 16 </p> 
@@ -138,12 +142,8 @@ permalink: /charts/news/
  [A Year Later, a Schoolteacher’s Beheading Still Haunts France](https://www.nytimes.com/2021/10/15/world/europe/france-samuel-paty-beheading.html) NYT: The killing of Samuel Paty by an 18-year-old Chechen refugee intensified debate over security and immigration, and prompted intense scrutiny of the French secular model. 
  <p class="updated_time"> 02:54 PM CT, Oct. 15 </p> 
  [Pandemic-stricken Thailand, aiming to revive tourism, reopens the cave a soccer team was trapped in.](https://www.nytimes.com/2021/10/15/world/thailand-lets-tourists-return-to-the-cave-where-a-soccer-team-was-rescued.html) NYT: NA 
- <p class="updated_time"> 02:08 PM CT, Oct. 15 </p> 
- ['David Amess was my best friend': Essex town in grief](https://www.bbc.co.uk/news/uk-england-essex-58928927?at_medium=RSS&at_campaign=KARANGA) BBC: Residents choke back tears on the streets of Leigh-on Sea as they remember their compassionate MP. 
  <p class="updated_time"> 01:58 PM CT, Oct. 15 </p> 
  [Abu Musab al-Barnawi, Leader of ISWAP, Has Died, Nigerian Army Says](https://www.nytimes.com/2021/10/15/world/africa/nigeria-islamic-state-abu-musab-al-barnawi-dead.html) NYT: A top military commander said that Abu Musab al-Barnawi, a kingpin of an extremist organization known as the Islamic State West Africa Province, had died. 
- <p class="updated_time"> 01:29 PM CT, Oct. 15 </p> 
- [Sir David Amess: Fun, friendly and always outspoken](https://www.bbc.co.uk/news/uk-politics-58928140?at_medium=RSS&at_campaign=KARANGA) BBC: The Tory MP was a backbencher of the old school who fought for the causes he cared about. 
  <p class="updated_time"> 12:15 PM CT, Oct. 15 </p> 
  [Australian residents stranded overseas will be allowed to return to New South Wales.](https://www.nytimes.com/2021/10/15/world/australia/australian-residents-stranded-overseas-will-be-allowed-to-return-to-new-south-wales.html) NYT: NA 
  <p class="updated_time"> 11:14 AM CT, Oct. 15 </p> 
