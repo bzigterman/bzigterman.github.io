@@ -6,6 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 05:39 AM CT, Oct. 17 </p> 
+ [Syria Accuses Israel of Assassinating Official Near Golan Heights](https://www.nytimes.com/2021/10/16/world/syria-accuses-israel-of-assassinating-official-near-golan-heights.html) NYT: Midhat Saleh, who oversaw the strategic Golan Heights boundary for Syria, was shot and killed by a sniper, the government said. 
  <p class="updated_time"> 05:15 AM CT, Oct. 17 </p> 
  [South Korea Reconsiders a Rite of Manhood: The Draft](https://www.nytimes.com/2021/10/17/world/asia/south-korea-conscription.html) NYT: Military conscription has become less popular. The rules have loosened. But experts still worry about the threat from the North. 
  <p class="updated_time"> 05:09 AM CT, Oct. 17 </p> 
@@ -28,8 +30,6 @@ permalink: /charts/news/
  [U.S. Arrests Alex Saab, Deal Maker for Nicolás Maduro of Venezuela](https://www.nytimes.com/2021/10/16/world/americas/alex-saab-arrest-venezuela-maduro.html) NYT: Alex Saab, a Colombian businessman, is accused in the U.S. of siphoning millions from programs intended to help the needy in Venezuela. 
  <p class="updated_time"> 11:05 PM CT, Oct. 16 </p> 
  [With Lawmaker’s Killing, U.K. Confronts a New Episode of Terrorism](https://www.nytimes.com/2021/10/16/world/europe/uk-stabbing-terrorism.html) NYT: The police conducted searches and questioned the suspect as Prime Minister Boris Johnson and other leaders paid respects to David Amess, who was fatally stabbed while meeting with constituents. 
- <p class="updated_time"> 09:44 PM CT, Oct. 16 </p> 
- [Syria Accuses Israel of Assassinating Official Near Golan Heights](https://www.nytimes.com/2021/10/16/world/syria-accuses-israel-of-assassinating-official-near-golan-heights.html) NYT: Midhat Saleh, who oversaw the strategic Golan Heights boundary for Syria, was shot and killed by a sniper, the government said. 
  <p class="updated_time"> 09:39 PM CT, Oct. 16 </p> 
  [National Guard Called Up to Ease Crowding at Minnesota Hospitals ](https://www.nytimes.com/2021/10/16/world/americas/minnesota-governor-walz-national-guard-covid.html) NYT: Staffing shortages at long-term care facilities are preventing hospitals from discharging patients and admitting new ones. 
  <p class="updated_time"> 09:04 PM CT, Oct. 16 </p> 
@@ -54,6 +54,8 @@ permalink: /charts/news/
  [After Iraqi Election, a Shiite Leader Emerges as an Unlikely U.S. Ally](https://www.nytimes.com/2021/10/16/world/middleeast/iraq-sadr-election.html) NYT: The U.S. once threatened to kill Muqtada al-Sadr as his militia battled occupying forces. Now, the powerful cleric is helping Washington by keeping Iran at bay. 
  <p class="updated_time"> 04:17 PM CT, Oct. 16 </p> 
  [What we know so far](https://www.bbc.co.uk/news/uk-58922522?at_medium=RSS&at_campaign=KARANGA) BBC: What happened, what we know about the suspect, who the MP was, and what witnesses saw. 
+ <p class="updated_time"> 04:03 PM CT, Oct. 16 </p> 
+ [Savannah Marshall stops Lolita Muzeya to set up unification fight with Claressa Shields](https://www.bbc.co.uk/sport/boxing/58942931?at_medium=RSS&at_campaign=KARANGA) BBC: Savannah Marshall stopped Lolita Muzeya in emphatic fashion in Newcastle and remains on track to fight Claressa Shields in a unification bout next year. 
  <p class="updated_time"> 03:40 PM CT, Oct. 16 </p> 
  [China's Scripted Homicides Become a Popular Pastime](https://www.nytimes.com/2021/10/16/world/asia/china-murder-script.html) NYT: “Scripted homicide” clubs have opened around the country as young people look for ways to escape and connect. Naturally, the government has questions. 
  <p class="updated_time"> 02:20 PM CT, Oct. 16 </p> 
@@ -96,8 +98,6 @@ permalink: /charts/news/
  [Islamic State Bombing Kills at Least 65 People in Southern Afghanistan](https://www.wsj.com/articles/afghan-mosque-hit-by-deadly-suicide-bombing-11634297101) WSJ: The killings in Kandahar, the Taliban’s historic stronghold, follow a spate of Islamic State attacks on the country’s religious minority sect. 
  <p class="updated_time"> 07:00 AM CT, Oct. 16 </p> 
  [Nigeria's Criminal Gangs Steal Munitions and Extort the Government](https://www.wsj.com/articles/nigerias-gangs-raised-millions-by-kidnapping-children-now-the-government-cant-stop-them-11634400009) WSJ: In the forests of northwest Nigeria, loosely organized criminal gangs that raised funds kidnapping schoolchildren are now flush with arms and operating beyond the reach of an increasingly fragile state. 
- <p class="updated_time"> 04:53 AM CT, Oct. 16 </p> 
- [Squid Game: The rise of Korean drama addiction](https://www.bbc.co.uk/news/entertainment-arts-58896247?at_medium=RSS&at_campaign=KARANGA) BBC: Finished Squid Game? Here's a quick lowdown on other K-dramas for new converts. 
  <p class="updated_time"> 03:31 AM CT, Oct. 16 </p> 
  [Some Sell Children as Afghanistan Sinks Into Destitution](https://www.wsj.com/articles/as-afghanistan-sinks-into-destitution-some-sell-children-to-survive-11634387501) WSJ: Poverty in Afghanistan is worsening fast after the Taliban seized power and most foreign aid ended. Already, 95% of Afghans aren’t getting enough to eat, the U.N. warns. 
  <p class="updated_time"> 03:02 AM CT, Oct. 16 </p> 
@@ -162,8 +162,6 @@ permalink: /charts/news/
  [As Italy Mandates Covid Passes, Rules Vary Across Europe](https://www.nytimes.com/2021/10/15/world/europe/covid-passes.html) NYT: Varying measures reflect domestic politics and potential opposition against such rules. 
  <p class="updated_time"> 06:58 AM CT, Oct. 15 </p> 
  [Hate Crimes and Pandemic Lead More Asian Americans to Seek Therapy](https://www.nytimes.com/2021/10/15/us/asian-american-therapy-hate-crimes.html) NYT: A growing number of Asian Americans have overcome a cultural stigma attached to seeking mental health treatment, experts said. 
- <p class="updated_time"> 05:40 AM CT, Oct. 15 </p> 
- [Kongsberg attack: Norwegian town left asking questions after murders](https://www.bbc.co.uk/news/world-europe-58923879?at_medium=RSS&at_campaign=KARANGA) BBC: The innocence of a quiet town outside Oslo is shattered and residents are demanding answers. 
  <p class="updated_time"> 04:23 AM CT, Oct. 15 </p> 
  [Inflation Sets Off Alarms Around the World](https://www.wsj.com/articles/inflation-sets-off-alarms-around-the-world-11634304187) WSJ: More than a dozen central banks have raised interest rates but two that haven’t are those that loom largest over the global economy: the Federal Reserve and the European Central Bank. 
  <p class="updated_time"> 03:39 AM CT, Oct. 15 </p> 
@@ -178,8 +176,6 @@ permalink: /charts/news/
  [Faulty Studs Led to Mexico City Metro Collapse, Attorney General Says](https://www.nytimes.com/2021/10/14/world/americas/mexico-city-metro-collapse.html) NYT: A monthslong investigation by city authorities supports the central findings of a New York Times investigation, which had uncovered a series of fatal construction flaws. 
  <p class="updated_time"> 07:31 PM CT, Oct. 14 </p> 
  [Biden Meets With Kenya’s President Amid Crisis in Ethiopia](https://www.nytimes.com/2021/10/14/us/politics/biden-kenya-kenyatta-ethiopia.html) NYT: The two leaders were also expected to discuss the escalating humanitarian crisis in the Tigray region of Ethiopia, where fighters have been accused of atrocities against civilians. 
- <p class="updated_time"> 06:10 PM CT, Oct. 14 </p> 
- ['They will hang me': Afghan interpreters blocked by UK seek appeal](https://www.bbc.co.uk/news/world-asia-58830736?at_medium=RSS&at_campaign=KARANGA) BBC: Former interpreters fear for their lives after the UK blocks their evacuation on security grounds. 
  <p class="updated_time"> 05:10 PM CT, Oct. 14 </p> 
  [U.S. Regains Seat at U.N. Human Rights Council, 3 Years After Quitting](https://www.nytimes.com/2021/10/14/world/un-us-human-rights-council.html) NYT: The Trump administration called the 47-nation council hypocritical and said it was vilifying Israel. The Biden administration says the U.S. can be more effective as a member. 
  <p class="updated_time"> 03:39 PM CT, Oct. 14 </p> 
