@@ -6,6 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 07:42 AM CT, Oct. 17 </p> 
+ [In Venezuela, a Rum Maker Offers Gangsters a Life Outside of Crime](https://www.nytimes.com/2021/10/16/world/americas/venezuela-rum-rehabilitation-crime.html) NYT: In the process, the family running the company, Ron Santa Teresa, has gone from bankruptcy to exporting an award-winning vintage rum. 
  <p class="updated_time"> 07:04 AM CT, Oct. 17 </p> 
  [Kerala floods: At least 19 dead and dozens missing in India](https://www.bbc.co.uk/news/world-asia-india-58940880?at_medium=RSS&at_campaign=KARANGA) BBC: Heavy rains cause rivers to overflow in Kerala, washing away homes and trapping people under debris. 
  <p class="updated_time"> 06:44 AM CT, Oct. 17 </p> 
@@ -56,8 +58,6 @@ permalink: /charts/news/
  [Pigs at Amsterdam's Schiphol Airport help to keep skies safe](https://www.bbc.co.uk/news/world-europe-58928677?at_medium=RSS&at_campaign=KARANGA) BBC: A team of 20 at Amsterdam's Schiphol Airport is part of a range of measures being used to reduce bird-strikes. 
  <p class="updated_time"> 05:30 PM CT, Oct. 16 </p> 
  [Deal Maker for Venezuela's Maduro Regime Extradited to U.S.](https://www.wsj.com/articles/deal-maker-for-venezuelas-maduro-regime-extradited-to-u-s-11634432668) WSJ: Businessman Alex Saab is accused by American prosecutors of creating a global network of companies to help Venezuela’s government evade U.S. sanctions. 
- <p class="updated_time"> 04:23 PM CT, Oct. 16 </p> 
- [In Venezuela, a Rum Maker Offers Gangsters a Life Outside of Crime](https://www.nytimes.com/2021/10/16/world/americas/venezuela-rum-rehabilitation-crime.html) NYT: In the process, the family running the company, Ron Santa Teresa, has gone from bankruptcy to exporting an award-winning vintage rum. 
  <p class="updated_time"> 04:19 PM CT, Oct. 16 </p> 
  [After Iraqi Election, a Shiite Leader Emerges as an Unlikely U.S. Ally](https://www.nytimes.com/2021/10/16/world/middleeast/iraq-sadr-election.html) NYT: The U.S. once threatened to kill Muqtada al-Sadr as his militia battled occupying forces. Now, the powerful cleric is helping Washington by keeping Iran at bay. 
  <p class="updated_time"> 04:03 PM CT, Oct. 16 </p> 
