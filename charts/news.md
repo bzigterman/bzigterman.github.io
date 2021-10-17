@@ -6,6 +6,10 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 06:46 PM CT, Oct. 17 </p> 
+ [Kerala floods: Dozens missing in deadly India disaster](https://www.bbc.co.uk/news/world-asia-india-58940880?at_medium=RSS&at_campaign=KARANGA) BBC: Heavy rains cause rivers to overflow in Kerala, washing away homes and trapping people under debris. 
+ <p class="updated_time"> 06:44 PM CT, Oct. 17 </p> 
+ [Washington Hears Echoes of the ’50s and Worries: Is This a Cold War With China?](https://www.nytimes.com/2021/10/17/us/politics/china-new-cold-war.html) NYT: Incursions into Taiwan’s air zone, a space launch and what looked like a prisoner swap raise a question that is about more than just semantics. It could signal a dangerous new mind-set. 
  <p class="updated_time"> 06:36 PM CT, Oct. 17 </p> 
  [Iran's Covid orphans: 'She keeps asking where daddy is'](https://www.bbc.co.uk/news/world-58934632?at_medium=RSS&at_campaign=KARANGA) BBC: Around 51,000 children in Iran have lost a parent to Covid, according to officials. 
  <p class="updated_time"> 06:35 PM CT, Oct. 17 </p> 
@@ -20,8 +24,6 @@ permalink: /charts/news/
  [The climate activists who want Norway to end oil and gas production](https://www.bbc.co.uk/news/science-environment-58900652?at_medium=RSS&at_campaign=KARANGA) BBC: The BBC's Nick Beake meets the young climate activists trying to stop Norway drilling for oil and gas. 
  <p class="updated_time"> 06:10 PM CT, Oct. 17 </p> 
  [The nightmare of India's tallest rubbish mountain](https://www.bbc.co.uk/news/world-asia-india-58866834?at_medium=RSS&at_campaign=KARANGA) BBC: India's oldest and tallest mountain of rubbish in the city of Mumbai is 18 storeys high. 
- <p class="updated_time"> 06:08 PM CT, Oct. 17 </p> 
- [Washington Hears Echoes of the ’50s and Worries: Is This a Cold War With China?](https://www.nytimes.com/2021/10/17/us/politics/china-new-cold-war.html) NYT: Incursions into Taiwan’s air zone, a space launch and what looked like a prisoner swap raise a question that is about more than just semantics. It could signal a dangerous new mind-set. 
  <p class="updated_time"> 06:07 PM CT, Oct. 17 </p> 
  [Covid: Thousands of children left without parents in Iran](https://www.bbc.co.uk/news/world-middle-east-58886923?at_medium=RSS&at_campaign=KARANGA) BBC: Thousands of children in Iran have been left without parents, and many people blame the leadership. 
  <p class="updated_time"> 06:06 PM CT, Oct. 17 </p> 
@@ -48,12 +50,12 @@ permalink: /charts/news/
  ['400 Mawozo' Gang Suspected in Kidnapping Among Haiti's Most Dangerous](https://www.nytimes.com/2021/10/17/world/americas/400-mawozo-haiti-kidnapping.html) NYT: The gang, called 400 Mawozo, captured several clergy members in April, and the local authorities say it is behind Saturday’s kidnapping. 
  <p class="updated_time"> 02:43 PM CT, Oct. 17 </p> 
  [Bill Clinton: Thumbs up as former US president leaves hospital](https://www.bbc.co.uk/news/world-us-canada-58947921?at_medium=RSS&at_campaign=KARANGA) BBC: The former US president is discharged from a Californian hospital accompanied by his wife Hillary. 
+ <p class="updated_time"> 02:43 PM CT, Oct. 17 </p> 
+ [Group of 16 Americans and a Canadian Kidnapped in Haiti](https://www.wsj.com/articles/group-of-16-americans-and-a-canadian-including-five-children-kidnapped-in-haiti-11634497450) WSJ: Christian Aid Ministries said that a group was kidnapped Saturday morning during a trip to an orphanage. The organization said that five of those who were abducted are children. 
  <p class="updated_time"> 02:38 PM CT, Oct. 17 </p> 
  [Police Search for Motive in British Lawmaker’s Killing](https://www.nytimes.com/2021/10/17/world/europe/uk-stabbing-attack.html) NYT: An attack has rekindled questions about the security of members of Parliament. 
  <p class="updated_time"> 02:35 PM CT, Oct. 17 </p> 
  [Haiti kidnap: 400 Mawozo accused of US missionary kidnap](https://www.bbc.co.uk/news/world-latin-america-58948107?at_medium=RSS&at_campaign=KARANGA) BBC: The armed gang, called 400 Mawozo, is holding 17 women, men and children from the US and Canada. 
- <p class="updated_time"> 01:51 PM CT, Oct. 17 </p> 
- [Group of 16 Americans and a Canadian Kidnapped in Haiti](https://www.wsj.com/articles/group-of-16-americans-and-a-canadian-including-five-children-kidnapped-in-haiti-11634497450) WSJ: Christian Aid Ministries said that a group was kidnapped Saturday morning during a trip to an orphanage. The organization said that five of those who were abducted are children. 
  <p class="updated_time"> 12:45 PM CT, Oct. 17 </p> 
  [Fake Polls and Tabloid Coverage on Demand: The Dark Side of Sebastian Kurz](https://www.nytimes.com/2021/10/17/world/europe/austria-sebastian-kurz-scandal-chancellor.html) NYT: The downfall of Austria’s onetime political Wunderkind put a spotlight on the cozy, sometimes corrupt, relationship between right-wing populists and parts of the news media. 
  <p class="updated_time"> 11:55 AM CT, Oct. 17 </p> 
@@ -64,8 +66,6 @@ permalink: /charts/news/
  [Tunisians Recall Revolution Reluctantly, if at All: ‘It Just Faded Away’](https://www.nytimes.com/2021/10/17/world/middleeast/tunisia-revolution-memoro-monuments.html) NYT: When a monument to those killed in the 2011 uprising was recently damaged, few took notice or even cared in a town, and country, where there is now more regret than a wish to remember. 
  <p class="updated_time"> 11:00 AM CT, Oct. 17 </p> 
  [China's Scripted Homicides Become a Popular Pastime](https://www.nytimes.com/2021/10/16/world/asia/china-murder-script.html) NYT: “Scripted homicide” clubs have opened around the country as young people look for ways to escape and connect. Naturally, the government has questions. 
- <p class="updated_time"> 10:14 AM CT, Oct. 17 </p> 
- [Kerala floods: Dozens missing in deadly India disaster](https://www.bbc.co.uk/news/world-asia-india-58940880?at_medium=RSS&at_campaign=KARANGA) BBC: Heavy rains cause rivers to overflow in Kerala, washing away homes and trapping people under debris. 
  <p class="updated_time"> 10:10 AM CT, Oct. 17 </p> 
  [Poland: New project aims to help migrants crossing border](https://www.bbc.co.uk/news/world-europe-58947167?at_medium=RSS&at_campaign=KARANGA) BBC: Lawyer suggests locals should switch on a green light to signal they can help migrants with food. 
  <p class="updated_time"> 10:09 AM CT, Oct. 17 </p> 
