@@ -6,8 +6,12 @@ permalink: /charts/news/
 
 ## World News
 
- <p class="updated_time"> 10:34 AM CT, Oct. 17 </p> 
+ <p class="updated_time"> 11:17 AM CT, Oct. 17 </p> 
+ [Tunisians Recall Revolution Reluctantly, if at All: ‘It Just Faded Away’](https://www.nytimes.com/2021/10/17/world/middleeast/tunisia-revolution-memoro-monuments.html) NYT: When a monument to those killed in the 2011 uprising was recently damaged, few took notice or even cared in a town, and country, where there is now more regret than a wish to remember. 
+ <p class="updated_time"> 11:09 AM CT, Oct. 17 </p> 
  ['400 Mawozo' Gang Suspected in Kidnapping Among Haiti's Most Dangerous](https://www.nytimes.com/2021/10/17/world/americas/400-mawozo-haiti-kidnapping.html) NYT: The gang, “400 Mawozo,” captured several clergy members in April, and the local authorities say it is behind Saturday’s kidnapping. 
+ <p class="updated_time"> 11:00 AM CT, Oct. 17 </p> 
+ [China's Scripted Homicides Become a Popular Pastime](https://www.nytimes.com/2021/10/16/world/asia/china-murder-script.html) NYT: “Scripted homicide” clubs have opened around the country as young people look for ways to escape and connect. Naturally, the government has questions. 
  <p class="updated_time"> 10:14 AM CT, Oct. 17 </p> 
  [Kerala floods: Dozens missing in deadly India disaster](https://www.bbc.co.uk/news/world-asia-india-58940880?at_medium=RSS&at_campaign=KARANGA) BBC: Heavy rains cause rivers to overflow in Kerala, washing away homes and trapping people under debris. 
  <p class="updated_time"> 10:10 AM CT, Oct. 17 </p> 
@@ -15,9 +19,7 @@ permalink: /charts/news/
  <p class="updated_time"> 09:54 AM CT, Oct. 17 </p> 
  [Police Search for Motive in British Lawmaker’s Killing](https://www.nytimes.com/2021/10/17/world/europe/uk-stabbing-attack.html) NYT: An attack has rekindled questions about the security of members of Parliament. 
  <p class="updated_time"> 09:27 AM CT, Oct. 17 </p> 
- [Missionaries With an American Christian Group Kidnapped in Haiti](https://www.nytimes.com/2021/10/16/world/americas/missionaries-kidnap-haiti.html) NYT: Up to 17 missionaries and their family members were taken by gang members in the capital of a country where kidnappings have become increasingly common. 
- <p class="updated_time"> 09:27 AM CT, Oct. 17 </p> 
- [Tunisians Recall Revolution Reluctantly, if at All: ‘It Just Faded Away’](https://www.nytimes.com/2021/10/17/world/middleeast/tunisia-revolution-memoro-monuments.html) NYT: When a monument to those killed in the 2011 uprising was recently damaged, few took notice or even cared in a town, and country, where there is now more regret than a wish to remember. 
+ [In Haiti, Aid Group Workers Are Kidnapped](https://www.nytimes.com/2021/10/16/world/americas/missionaries-kidnap-haiti.html) NYT: Up to 17 missionaries and their family members were taken by gang members in the capital of a country where kidnappings have become increasingly common. 
  <p class="updated_time"> 09:13 AM CT, Oct. 17 </p> 
  [Robert Durst, Millionaire Convicted of Murder, on Ventilator With Covid](https://www.nytimes.com/2021/10/16/world/robert-durst-covid-ventilator.html) NYT: The 78-year-old millionaire and former real estate mogul was sentenced to life in prison on Thursday for the murder of a friend in 2000. 
  <p class="updated_time"> 08:57 AM CT, Oct. 17 </p> 
@@ -76,8 +78,6 @@ permalink: /charts/news/
  [After Iraqi Election, a Shiite Leader Emerges as an Unlikely U.S. Ally](https://www.nytimes.com/2021/10/16/world/middleeast/iraq-sadr-election.html) NYT: The U.S. once threatened to kill Muqtada al-Sadr as his militia battled occupying forces. Now, the powerful cleric is helping Washington by keeping Iran at bay. 
  <p class="updated_time"> 04:03 PM CT, Oct. 16 </p> 
  [Savannah Marshall stops Lolita Muzeya to set up unification fight with Claressa Shields](https://www.bbc.co.uk/sport/boxing/58942931?at_medium=RSS&at_campaign=KARANGA) BBC: Savannah Marshall stopped Lolita Muzeya in emphatic fashion in Newcastle and remains on track to fight Claressa Shields in a unification bout next year. 
- <p class="updated_time"> 03:40 PM CT, Oct. 16 </p> 
- [China's Scripted Homicides Become a Popular Pastime](https://www.nytimes.com/2021/10/16/world/asia/china-murder-script.html) NYT: “Scripted homicide” clubs have opened around the country as young people look for ways to escape and connect. Naturally, the government has questions. 
  <p class="updated_time"> 02:20 PM CT, Oct. 16 </p> 
  [Sir David Amess killing: Security for politicians is a global dilemma](https://www.bbc.co.uk/news/world-58937581?at_medium=RSS&at_campaign=KARANGA) BBC: Why the need to be a people's representative and the need for personal safety are in constant conflict. 
  <p class="updated_time"> 01:09 PM CT, Oct. 16 </p> 
