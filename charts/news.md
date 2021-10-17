@@ -6,7 +6,7 @@ permalink: /charts/news/
 
 ## World News
 
- <p class="updated_time"> 01:55 AM CT, Oct. 17 </p> 
+ <p class="updated_time"> 02:51 AM CT, Oct. 17 </p> 
  [Haiti: US Christian missionaries kidnapped in Port-au-Prince - reports](https://www.bbc.co.uk/news/world-latin-america-58943252?at_medium=RSS&at_campaign=KARANGA) BBC: At least 15 women, men and children were abducted by an armed gang near the capital, sources say. 
  <p class="updated_time"> 01:52 AM CT, Oct. 17 </p> 
  [American Missionaries Kidnapped in Haiti, Officials Say](https://www.nytimes.com/2021/10/16/world/americas/missionaries-kidnap-haiti.html) NYT: Up to 17 missionaries and their family members were taken by gangs in the capital of a country where kidnappings have become increasingly common. 
