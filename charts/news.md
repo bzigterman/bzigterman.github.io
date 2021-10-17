@@ -8,10 +8,16 @@ permalink: /charts/news/
 
  <p class="updated_time"> 11:55 AM CT, Oct. 17 </p> 
  ['400 Mawozo' Gang Suspected in Kidnapping Among Haiti's Most Dangerous](https://www.nytimes.com/2021/10/17/world/americas/400-mawozo-haiti-kidnapping.html) NYT: The gang, “400 Mawozo,” captured several clergy members in April, and the local authorities say it is behind Saturday’s kidnapping. 
+ <p class="updated_time"> 11:55 AM CT, Oct. 17 </p> 
+ [Bill Clinton: Former US president released from hospital](https://www.bbc.co.uk/news/world-us-canada-58947175?at_medium=RSS&at_campaign=KARANGA) BBC: The 75-year-old had been receiving treatment for a blood infection in California. 
+ <p class="updated_time"> 11:49 AM CT, Oct. 17 </p> 
+ [Pedro Sanchez: Spanish PM vows to abolish prostitution](https://www.bbc.co.uk/news/world-europe-58947172?at_medium=RSS&at_campaign=KARANGA) BBC: The UN estimates Spain's sex industry has become worth €3.7 billion since decriminalisation in 1995. 
  <p class="updated_time"> 11:17 AM CT, Oct. 17 </p> 
  [Tunisians Recall Revolution Reluctantly, if at All: ‘It Just Faded Away’](https://www.nytimes.com/2021/10/17/world/middleeast/tunisia-revolution-memoro-monuments.html) NYT: When a monument to those killed in the 2011 uprising was recently damaged, few took notice or even cared in a town, and country, where there is now more regret than a wish to remember. 
  <p class="updated_time"> 11:00 AM CT, Oct. 17 </p> 
  [China's Scripted Homicides Become a Popular Pastime](https://www.nytimes.com/2021/10/16/world/asia/china-murder-script.html) NYT: “Scripted homicide” clubs have opened around the country as young people look for ways to escape and connect. Naturally, the government has questions. 
+ <p class="updated_time"> 10:44 AM CT, Oct. 17 </p> 
+ [What Is Christian Aid Ministries and What Does It Do in Haiti?](https://www.nytimes.com/2021/10/17/world/americas/what-is-christian-aid-ministries.html) NYT: The group, based in Ohio, distributes food and clothing, funds schools, teaches farming methods and helps with emergency relief. 
  <p class="updated_time"> 10:14 AM CT, Oct. 17 </p> 
  [Kerala floods: Dozens missing in deadly India disaster](https://www.bbc.co.uk/news/world-asia-india-58940880?at_medium=RSS&at_campaign=KARANGA) BBC: Heavy rains cause rivers to overflow in Kerala, washing away homes and trapping people under debris. 
  <p class="updated_time"> 10:10 AM CT, Oct. 17 </p> 
@@ -64,8 +70,6 @@ permalink: /charts/news/
  [Venezuelan President Maduro's close aide extradited to US](https://www.bbc.co.uk/news/world-latin-america-58943249?at_medium=RSS&at_campaign=KARANGA) BBC: Venezuela halted talks with the opposition after Alex Saab was flown from Cape Verde to the US. 
  <p class="updated_time"> 06:47 PM CT, Oct. 16 </p> 
  [The Chinese film beating Bond and Marvel at the box office](https://www.bbc.co.uk/news/world-asia-china-58868854?at_medium=RSS&at_campaign=KARANGA) BBC: The success of The Battle at Lake Changjin is bad news for Hollywood which wants to grow in China. 
- <p class="updated_time"> 06:28 PM CT, Oct. 16 </p> 
- [Robert Durst: US millionaire hospitalised with Covid after life sentence](https://www.bbc.co.uk/news/world-us-canada-58943246?at_medium=RSS&at_campaign=KARANGA) BBC: Robert Durst was on Thursday convicted of murder and is a suspect in two other deaths. 
  <p class="updated_time"> 06:17 PM CT, Oct. 16 </p> 
  [Airlines in Japan and South Korea Try Novel Ideas to Lure Fliers](https://www.nytimes.com/2021/10/16/world/japan-south-korea-airlines-covid-incentives.html) NYT: How about inexpensive passes good for a month of domestic flights? Or popular in-flight meals to on-the-ground customers? 
  <p class="updated_time"> 06:09 PM CT, Oct. 16 </p> 
@@ -76,8 +80,6 @@ permalink: /charts/news/
  [Deal Maker for Venezuela's Maduro Regime Extradited to U.S.](https://www.wsj.com/articles/deal-maker-for-venezuelas-maduro-regime-extradited-to-u-s-11634432668) WSJ: Businessman Alex Saab is accused by American prosecutors of creating a global network of companies to help Venezuela’s government evade U.S. sanctions. 
  <p class="updated_time"> 04:19 PM CT, Oct. 16 </p> 
  [After Iraqi Election, a Shiite Leader Emerges as an Unlikely U.S. Ally](https://www.nytimes.com/2021/10/16/world/middleeast/iraq-sadr-election.html) NYT: The U.S. once threatened to kill Muqtada al-Sadr as his militia battled occupying forces. Now, the powerful cleric is helping Washington by keeping Iran at bay. 
- <p class="updated_time"> 04:03 PM CT, Oct. 16 </p> 
- [Savannah Marshall stops Lolita Muzeya to set up unification fight with Claressa Shields](https://www.bbc.co.uk/sport/boxing/58942931?at_medium=RSS&at_campaign=KARANGA) BBC: Savannah Marshall stopped Lolita Muzeya in emphatic fashion in Newcastle and remains on track to fight Claressa Shields in a unification bout next year. 
  <p class="updated_time"> 02:20 PM CT, Oct. 16 </p> 
  [Sir David Amess killing: Security for politicians is a global dilemma](https://www.bbc.co.uk/news/world-58937581?at_medium=RSS&at_campaign=KARANGA) BBC: Why the need to be a people's representative and the need for personal safety are in constant conflict. 
  <p class="updated_time"> 01:09 PM CT, Oct. 16 </p> 
@@ -164,8 +166,6 @@ permalink: /charts/news/
  [Your Friday Briefing](https://www.nytimes.com/2021/10/15/briefing/beirut-fighting-pandemic-america.html) NYT: The state of the pandemic in the U.S. 
  <p class="updated_time"> 11:01 PM CT, Oct. 14 </p> 
  [LinkedIn to End Service in China, Citing ‘Challenging’ Environment](https://www.nytimes.com/2021/10/14/technology/linkedin-china-microsoft.html) NYT: The Microsoft-owned service had censored posts in China, in compliance with the country’s laws, to operate there. 
- <p class="updated_time"> 10:52 PM CT, Oct. 14 </p> 
- [As Western Oil Giants Cut Production, State-Owned Companies Step Up](https://www.nytimes.com/2021/10/14/business/energy-environment/oil-production-state-owned-companies.html) NYT: In the Middle East, Africa and Latin America, government-owned energy companies are increasing oil and natural gas production as U.S. and European companies pare supply because of climate concerns. 
  <p class="updated_time"> 08:19 PM CT, Oct. 14 </p> 
  [Faulty Studs Led to Mexico City Metro Collapse, Attorney General Says](https://www.nytimes.com/2021/10/14/world/americas/mexico-city-metro-collapse.html) NYT: A monthslong investigation by city authorities supports the central findings of a New York Times investigation, which had uncovered a series of fatal construction flaws. 
  <p class="updated_time"> 07:31 PM CT, Oct. 14 </p> 
@@ -176,8 +176,6 @@ permalink: /charts/news/
  [U.S. Regains Seat at U.N. Human Rights Council, 3 Years After Quitting](https://www.nytimes.com/2021/10/14/world/un-us-human-rights-council.html) NYT: The Trump administration called the 47-nation council hypocritical and said it was vilifying Israel. The Biden administration says the U.S. can be more effective as a member. 
  <p class="updated_time"> 03:39 PM CT, Oct. 14 </p> 
  [Your Friday Briefing](https://www.nytimes.com/2021/10/14/briefing/beirut-violence-taiwan-fire-biodiversity-goodall.html) NYT: Beirut protests turn violent. 
- <p class="updated_time"> 03:09 PM CT, Oct. 14 </p> 
- [‘Lurching Between Crisis and Complacency’: Was This Our Last Covid Surge?](https://www.nytimes.com/2021/10/14/health/coronavirus-delta-surge.html) NYT: Rising immunity and modest changes in behavior may explain why cases are declining, but much remains unknown, scientists say. 
  <p class="updated_time"> 03:08 PM CT, Oct. 14 </p> 
  [Most Covid Cases in Africa Go Undetected, W.H.O. Says](https://www.nytimes.com/2021/10/14/world/covid-africa-who.html) NYT: “Now is the time to go on the offensive against Covid-19, and work with local communities to break transmission chains and stop wider outbreaks from happening,” Dr. Matshidiso Moeti said. 
  <p class="updated_time"> 05:16 PM CT, Oct. 11 </p> 
