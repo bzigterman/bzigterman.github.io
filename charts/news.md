@@ -6,6 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 03:22 PM CT, Oct. 17 </p> 
+ [Russia sets condition for return of BBC journalist](https://www.bbc.co.uk/news/world-europe-58944531?at_medium=RSS&at_campaign=KARANGA) BBC: Ambassador Andrei Kelin says the BBC reporter can return if Russian journalists gets UK visas. 
  <p class="updated_time"> 03:09 PM CT, Oct. 17 </p> 
  [What Is Christian Aid Ministries and What Does It Do in Haiti?](https://www.nytimes.com/2021/10/17/world/americas/what-is-christian-aid-ministries.html) NYT: The group, based in Ohio, distributes food and clothing, funds schools, teaches farming methods and helps with emergency relief. 
  <p class="updated_time"> 03:00 PM CT, Oct. 17 </p> 
@@ -46,8 +48,6 @@ permalink: /charts/news/
  [How a Stunning Lagoon in Spain Turned Into ‘Green Soup’](https://www.nytimes.com/2021/10/17/world/europe/spain-lagoon-pollution-mar-menor.html) NYT: Tons of dead fish have washed ashore in recent years from the Mar Menor, a once-crystalline lagoon on the Mediterranean coast that has become choked with algae. Farm pollution is mostly blamed. 
  <p class="updated_time"> 07:42 AM CT, Oct. 17 </p> 
  [In Venezuela, a Rum Maker Offers Gangsters a Life Outside of Crime](https://www.nytimes.com/2021/10/16/world/americas/venezuela-rum-rehabilitation-crime.html) NYT: In the process, the family running the company, Ron Santa Teresa, has gone from bankruptcy to exporting an award-winning vintage rum. 
- <p class="updated_time"> 06:44 AM CT, Oct. 17 </p> 
- [Russia sets condition for return of BBC journalist](https://www.bbc.co.uk/news/world-europe-58944531?at_medium=RSS&at_campaign=KARANGA) BBC: Ambassador Andrei Kelin says the BBC reporter can return if Russian journalists gets UK visas. 
  <p class="updated_time"> 06:38 AM CT, Oct. 17 </p> 
  [Russia not withholding gas for political reasons - ambassador](https://www.bbc.co.uk/news/uk-58944937?at_medium=RSS&at_campaign=KARANGA) BBC: Russia's ambassador to the UK denies Russia is using energy as a political weapon, amid surging prices. 
  <p class="updated_time"> 06:20 AM CT, Oct. 17 </p> 
