@@ -6,6 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 08:38 AM CT, Oct. 17 </p> 
+ [Robert Durst, Millionaire Convicted of Murder, on Ventilator With Covid](https://www.nytimes.com/2021/10/16/world/robert-durst-covid-ventilator.html) NYT: The 78-year-old millionaire and former real estate mogul was sentenced to life in prison on Thursday for the murder of a friend in 2000. 
  <p class="updated_time"> 08:12 AM CT, Oct. 17 </p> 
  [How a Stunning Lagoon in Spain Turned Into ‘Green Soup’](https://www.nytimes.com/2021/10/17/world/europe/spain-lagoon-pollution-mar-menor.html) NYT: Tons of dead fish have washed ashore in recent years from the Mar Menor, a once-crystalline lagoon on the Mediterranean coast that has become choked with algae. Farm pollution is mostly blamed. 
  <p class="updated_time"> 07:42 AM CT, Oct. 17 </p> 
@@ -50,8 +52,6 @@ permalink: /charts/news/
  [The Chinese film beating Bond and Marvel at the box office](https://www.bbc.co.uk/news/world-asia-china-58868854?at_medium=RSS&at_campaign=KARANGA) BBC: The success of The Battle at Lake Changjin is bad news for Hollywood which wants to grow in China. 
  <p class="updated_time"> 06:28 PM CT, Oct. 16 </p> 
  [Robert Durst: US millionaire hospitalised with Covid after life sentence](https://www.bbc.co.uk/news/world-us-canada-58943246?at_medium=RSS&at_campaign=KARANGA) BBC: Robert Durst was on Thursday convicted of murder and is a suspect in two other deaths. 
- <p class="updated_time"> 06:19 PM CT, Oct. 16 </p> 
- [Robert Durst, Millionaire Convicted of Murder, on Ventilator With Covid](https://www.nytimes.com/2021/10/16/world/robert-durst-covid-ventilator.html) NYT: The 78-year-old millionaire and former real estate mogul was sentenced to life in prison on Thursday for the murder of a friend in 2000. 
  <p class="updated_time"> 06:17 PM CT, Oct. 16 </p> 
  [Airlines in Japan and South Korea Try Novel Ideas to Lure Fliers](https://www.nytimes.com/2021/10/16/world/japan-south-korea-airlines-covid-incentives.html) NYT: How about inexpensive passes good for a month of domestic flights? Or popular in-flight meals to on-the-ground customers? 
  <p class="updated_time"> 06:09 PM CT, Oct. 16 </p> 
