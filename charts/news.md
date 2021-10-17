@@ -6,6 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 06:06 PM CT, Oct. 17 </p> 
+ [Your Monday Briefing](https://www.nytimes.com/2021/10/17/briefing/haiti-kidnapping-south-korea-draft.html) NYT: Haitian gang kidnaps missionaries. 
  <p class="updated_time"> 05:42 PM CT, Oct. 17 </p> 
  [Hungary: Mayor Marki-Zay wins run-off to challenge Orban](https://www.bbc.co.uk/news/world-europe-58949864?at_medium=RSS&at_campaign=KARANGA) BBC: Polls suggest Peter Marki-Zay has the best chance of ousting Prime Minister Viktor Orban. 
  <p class="updated_time"> 05:40 PM CT, Oct. 17 </p> 
@@ -16,8 +18,6 @@ permalink: /charts/news/
  [Belarus: French ambassador leaves Minsk after Minsk expels him](https://www.bbc.co.uk/news/world-europe-58949524?at_medium=RSS&at_campaign=KARANGA) BBC: France, among other countries, does not recognise the president's claim to a sixth term. 
  <p class="updated_time"> 04:15 PM CT, Oct. 17 </p> 
  [Will New Covid Treatments Be as Elusive for Poor Countries as Vaccines?](https://www.nytimes.com/2021/10/17/health/covid-treatment-access-molnupiravir.html) NYT: Merck has taken a step to make its antiviral pill available in poor nations, but many obstacles remain for broad access to coronavirus drugs. 
- <p class="updated_time"> 04:00 PM CT, Oct. 17 </p> 
- [Your Monday Briefing](https://www.nytimes.com/2021/10/17/briefing/haiti-kidnapping-south-korea-draft.html) NYT: Haitian gang kidnaps missionaries. 
  <p class="updated_time"> 03:36 PM CT, Oct. 17 </p> 
  [Robert Durst, Millionaire Convicted of Murder, on Ventilator With Covid](https://www.nytimes.com/2021/10/16/world/robert-durst-covid-ventilator.html) NYT: The 78-year-old millionaire and former real estate mogul was sentenced to life in prison on Thursday for the murder of a friend in 2000. 
  <p class="updated_time"> 03:22 PM CT, Oct. 17 </p> 
@@ -32,14 +32,14 @@ permalink: /charts/news/
  [Police Search for Motive in British Lawmaker’s Killing](https://www.nytimes.com/2021/10/17/world/europe/uk-stabbing-attack.html) NYT: An attack has rekindled questions about the security of members of Parliament. 
  <p class="updated_time"> 02:35 PM CT, Oct. 17 </p> 
  [Haiti kidnap: 400 Mawozo accused of US missionary kidnap](https://www.bbc.co.uk/news/world-latin-america-58948107?at_medium=RSS&at_campaign=KARANGA) BBC: The armed gang, called 400 Mawozo, is holding 17 women, men and children from the US and Canada. 
+ <p class="updated_time"> 01:51 PM CT, Oct. 17 </p> 
+ [Group of 16 Americans and a Canadian Kidnapped in Haiti](https://www.wsj.com/articles/group-of-16-americans-and-a-canadian-including-five-children-kidnapped-in-haiti-11634497450) WSJ: Christian Aid Ministries said that a group was kidnapped Saturday morning during a trip to an orphanage. The organization said that five of those who were abducted are children. 
  <p class="updated_time"> 12:45 PM CT, Oct. 17 </p> 
  [Fake Polls and Tabloid Coverage on Demand: The Dark Side of Sebastian Kurz](https://www.nytimes.com/2021/10/17/world/europe/austria-sebastian-kurz-scandal-chancellor.html) NYT: The downfall of Austria’s onetime political Wunderkind put a spotlight on the cozy, sometimes corrupt, relationship between right-wing populists and parts of the news media. 
  <p class="updated_time"> 11:55 AM CT, Oct. 17 </p> 
  [Bill Clinton: Former US president discharged from hospital](https://www.bbc.co.uk/news/world-us-canada-58947175?at_medium=RSS&at_campaign=KARANGA) BBC: The 75-year-old had been receiving treatment for a blood infection in California. 
  <p class="updated_time"> 11:49 AM CT, Oct. 17 </p> 
  [Pedro Sanchez: Spanish PM vows to abolish prostitution](https://www.bbc.co.uk/news/world-europe-58947172?at_medium=RSS&at_campaign=KARANGA) BBC: The UN estimates Spain's sex industry has become worth €3.7 billion since decriminalisation in 1995. 
- <p class="updated_time"> 11:46 AM CT, Oct. 17 </p> 
- [Group of 16 Americans and a Canadian Kidnapped in Haiti](https://www.wsj.com/articles/group-of-16-americans-and-a-canadian-including-five-children-kidnapped-in-haiti-11634497450) WSJ: Christian Aid Ministries said that a group was kidnapped Saturday morning during a trip to an orphanage. The organization said that five of those who were abducted are children. 
  <p class="updated_time"> 11:17 AM CT, Oct. 17 </p> 
  [Tunisians Recall Revolution Reluctantly, if at All: ‘It Just Faded Away’](https://www.nytimes.com/2021/10/17/world/middleeast/tunisia-revolution-memoro-monuments.html) NYT: When a monument to those killed in the 2011 uprising was recently damaged, few took notice or even cared in a town, and country, where there is now more regret than a wish to remember. 
  <p class="updated_time"> 11:00 AM CT, Oct. 17 </p> 
@@ -186,8 +186,6 @@ permalink: /charts/news/
  [Your Friday Briefing](https://www.nytimes.com/2021/10/14/briefing/beirut-violence-taiwan-fire-biodiversity-goodall.html) NYT: Beirut protests turn violent. 
  <p class="updated_time"> 05:16 PM CT, Oct. 11 </p> 
  [Black scientists say UK research is institutionally racist](https://www.bbc.co.uk/news/science-environment-58795079?at_medium=RSS&at_campaign=KARANGA) BBC: Senior black scientists tell the BBC they believe UK science to be "institutionally racist". 
- <p class="updated_time"> 06:08 PM CT, Oct. 10 </p> 
- [Drugs, arms, and terror: A high-profile defector on Kim's North Korea](https://www.bbc.co.uk/news/world-asia-58838834?at_medium=RSS&at_campaign=KARANGA) BBC: A former colonel describes a leadership making cash by any means, from drug factories to illegal arms deals. 
 
 
 
