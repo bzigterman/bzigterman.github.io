@@ -6,8 +6,12 @@ permalink: /charts/news/
 
 ## World News
 
- <p class="updated_time"> 05:56 PM CT, Oct. 18 </p> 
+ <p class="updated_time"> 06:11 PM CT, Oct. 18 </p> 
+ [Afghanistan: US envoy Zalmay Khalilzad steps down after withdrawal](https://www.bbc.co.uk/news/world-us-canada-58946566?at_medium=RSS&at_campaign=KARANGA) BBC: Zalmay Khalilzad led talks with the Taliban that resulted in a deal to fully withdraw US troops. 
+ <p class="updated_time"> 06:11 PM CT, Oct. 18 </p> 
  [In Norway Attack, ‘Sharp Object,’ Not Arrows, Killed 5, Police Say](https://www.nytimes.com/2021/10/18/world/europe/norway-attack.html) NYT: The Norwegian police on Monday said that while a hunting bow had been used in last week’s rampage, the victims, four women and a man, were stabbed to death. 
+ <p class="updated_time"> 06:04 PM CT, Oct. 18 </p> 
+ [Covid: Australia's Flying Doctors take vaccines to vast remote areas](https://www.bbc.co.uk/news/world-australia-58956564?at_medium=RSS&at_campaign=KARANGA) BBC: The famed service is helping solve the immense challenge of vaccinating remote Australia. 
  <p class="updated_time"> 05:47 PM CT, Oct. 18 </p> 
  [U.K. Leaders Praise Slain Lawmaker Amid Heightened Security Concerns](https://www.nytimes.com/2021/10/18/world/europe/david-amess-attack-parliament.html) NYT: Prime Minister Boris Johnson and members of Parliament paid tribute to David Amess, who was fatally stabbed last week. 
  <p class="updated_time"> 05:25 PM CT, Oct. 18 </p> 
@@ -82,8 +86,6 @@ permalink: /charts/news/
  [Robert Durst, Millionaire Convicted of Murder, on Ventilator With Covid](https://www.nytimes.com/2021/10/16/world/robert-durst-covid-ventilator.html) NYT: The 78-year-old millionaire and former real estate mogul was sentenced to life in prison on Thursday for the murder of a friend in 2000. 
  <p class="updated_time"> 08:19 AM CT, Oct. 18 </p> 
  [Taiwan Couple Are Suspected of Negligent Homicide in Building Fire](https://www.nytimes.com/2021/10/18/world/asia/taiwan-building-fire.html) NYT: Prosecutors accused a woman of leaving a burning incense coil unattended in the building in Kaohsiung. Her partner was accused of failing to remind her to douse the coil before leaving. 
- <p class="updated_time"> 07:51 AM CT, Oct. 18 </p> 
- [Afghanistan polio: UN plans nationwide vaccine campaign](https://www.bbc.co.uk/news/world-asia-58956624?at_medium=RSS&at_campaign=KARANGA) BBC: Its children's agency says it will begin vaccinations nationwide with the Taliban's blessing. 
  <p class="updated_time"> 07:34 AM CT, Oct. 18 </p> 
  [Peter R de Vries: Suspect denies knowledge of Dutch reporter's murder](https://www.bbc.co.uk/news/world-europe-58955373?at_medium=RSS&at_campaign=KARANGA) BBC: The suspect appears in court alongside a man accused of shooting Peter R de Vries in Amsterdam. 
  <p class="updated_time"> 07:30 AM CT, Oct. 18 </p> 
@@ -120,8 +122,6 @@ permalink: /charts/news/
  [Iran's Covid 'orphans': 'She keeps asking where daddy is'](https://www.bbc.co.uk/news/world-58934632?at_medium=RSS&at_campaign=KARANGA) BBC: Around 51,000 children in Iran have lost a parent to Covid, according to officials. 
  <p class="updated_time"> 06:35 PM CT, Oct. 17 </p> 
  [The Nigerians who want Israel to accept them as Jews](https://www.bbc.co.uk/news/world-africa-58917825?at_medium=RSS&at_campaign=KARANGA) BBC: A small Nigerian community claims Jewish ancestry dating hundreds of years but Israel does not recognise them. 
- <p class="updated_time"> 06:33 PM CT, Oct. 17 </p> 
- [Has Covid changed New York City nightlife forever?](https://www.bbc.co.uk/news/world-us-canada-58934445?at_medium=RSS&at_campaign=KARANGA) BBC: A photographer is confronted with the new reality of empty streets and closed clubs. 
  <p class="updated_time"> 06:13 PM CT, Oct. 17 </p> 
  [The climate activists who want Norway to end oil and gas production](https://www.bbc.co.uk/news/science-environment-58900652?at_medium=RSS&at_campaign=KARANGA) BBC: The BBC's Nick Beake meets the young climate activists trying to stop Norway drilling for oil and gas. 
  <p class="updated_time"> 06:10 PM CT, Oct. 17 </p> 
