@@ -6,10 +6,14 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 08:04 AM CT, Oct. 18 </p> 
+ [Colin Powell: Former US secretary of state dies of Covid complications](https://www.bbc.co.uk/news/world-us-canada-58957273?at_medium=RSS&at_campaign=KARANGA) BBC: The ex-US secretary of state, the first African-American in that role, dies of Covid complications. 
+ <p class="updated_time"> 08:01 AM CT, Oct. 18 </p> 
+ [Myanmar Announces Amnesty for Thousands of Anti-Coup Protesters](https://www.nytimes.com/2021/10/18/world/asia/myanmar-military-amnesty-protesters.html) NYT: The junta, which seized power in February, said it was releasing the prisoners to mark the Lighting Festival, a three-day holiday that begins Tuesday. 
  <p class="updated_time"> 07:34 AM CT, Oct. 18 </p> 
  [Ronnie Tutt: 'Legendary' Elvis Presley drummer dies at 83](https://www.bbc.co.uk/news/entertainment-arts-58951519?at_medium=RSS&at_campaign=KARANGA) BBC: Tutt provided the backbeat for the King of Rock 'n' Roll's 1969 Taking Care of Business tour. 
- <p class="updated_time"> 07:33 AM CT, Oct. 18 </p> 
- [Colin Powell: Former US secretary of state dies of Covid complications](https://www.bbc.co.uk/news/world-us-canada-58957273?at_medium=RSS&at_campaign=KARANGA) BBC: The ex-US secretary of state, who was the first African-American in the role, dies of Covid complications. 
+ <p class="updated_time"> 07:34 AM CT, Oct. 18 </p> 
+ [Peter R de Vries: Suspect denies knowledge of Dutch reporter's murder](https://www.bbc.co.uk/news/world-europe-58955373?at_medium=RSS&at_campaign=KARANGA) BBC: The suspect appears in court alongside a man accused of shooting Peter R de Vries in Amsterdam. 
  <p class="updated_time"> 07:30 AM CT, Oct. 18 </p> 
  [Pedro Sánchez: Spanish PM vows to outlaw prostitution](https://www.bbc.co.uk/news/world-europe-58947172?at_medium=RSS&at_campaign=KARANGA) BBC: The UN estimates Spain's sex industry has become worth €3.7bn since decriminalisation in 1995. 
  <p class="updated_time"> 07:30 AM CT, Oct. 18 </p> 
@@ -38,6 +42,8 @@ permalink: /charts/news/
  [How a Nuclear Bomb Could Save Earth From a Stealthy Asteroid](https://www.nytimes.com/2021/10/18/science/asteroid-nuclear-bomb.html) NYT: An atomic blast is not the preferred solution for planetary defense, but 3-D models are helping scientists prepare for a worst-case scenario. 
  <p class="updated_time"> 03:56 AM CT, Oct. 18 </p> 
  [Taiwan Couple Are Suspected of Negligent Homicide in Building Fire](https://www.nytimes.com/2021/10/18/world/asia/taiwan-building-fire.html) NYT: Prosecutors accused a woman of leaving a burning incense coil unattended in the building in Kaohsiung. Her partner was accused of failing to remind her to douse the coil before leaving. 
+ <p class="updated_time"> 02:00 AM CT, Oct. 18 </p> 
+ [World Bank Mishandled Sexual- Harassment Claims, Internal Tribunal Says](https://www.wsj.com/articles/world-bank-mishandled-sexual-harassment-claims-internal-tribunal-says-11634554802) WSJ: A labor tribunal found the bank ignored allegations of sexual harassment by a senior official, now a Costa Rican presidential candidate. 
  <p class="updated_time"> 12:59 AM CT, Oct. 18 </p> 
  [China Faces Slower Growth as It Pursues Long-Term Reforms](https://www.wsj.com/articles/china-faces-slower-growth-path-as-it-pursues-longer-term-reforms-11634551142) WSJ: With its pandemic recovery in the rear-view mirror, China now faces a prolonged period of slower growth with increasing policy uncertainties as Beijing attempts to carry out ambitious long-term reforms. 
  <p class="updated_time"> 11:44 PM CT, Oct. 17 </p> 
@@ -108,8 +114,6 @@ permalink: /charts/news/
  [Tunisians Recall Revolution Reluctantly, if at All: ‘It Just Faded Away’](https://www.nytimes.com/2021/10/17/world/middleeast/tunisia-revolution-memoro-monuments.html) NYT: When a monument to those killed in the 2011 uprising was recently damaged, few took notice or even cared in a town, and country, where there is now more regret than a wish to remember. 
  <p class="updated_time"> 11:00 AM CT, Oct. 17 </p> 
  [China's Scripted Homicides Become a Popular Pastime](https://www.nytimes.com/2021/10/16/world/asia/china-murder-script.html) NYT: “Scripted homicide” clubs have opened around the country as young people look for ways to escape and connect. Naturally, the government has questions. 
- <p class="updated_time"> 10:09 AM CT, Oct. 17 </p> 
- [Behind the Energy Crisis: Fossil Fuel Investment Drops, and Renewables Aren't Ready](https://www.wsj.com/articles/energy-crisis-fossil-fuel-investment-renewables-gas-oil-prices-coal-wind-solar-hydro-power-grid-11634497531) WSJ: The transition to cleaner energy sources isn’t far enough along to meet a surge in demand, forcing countries to rely on fossil fuels. 
  <p class="updated_time"> 09:27 AM CT, Oct. 17 </p> 
  [In Haiti, Aid Group Workers Are Kidnapped](https://www.nytimes.com/2021/10/16/world/americas/missionaries-kidnap-haiti.html) NYT: Up to 17 missionaries and their family members were taken by gang members in the capital of a country where kidnappings have become increasingly common. 
  <p class="updated_time"> 09:00 AM CT, Oct. 17 </p> 
@@ -154,8 +158,6 @@ permalink: /charts/news/
  [How 3 Strangers a World Away Came to the Rescue of a Badly Burned Afghan Girl](https://www.nytimes.com/2021/10/16/world/afghanistan-girl-burn-evacuation-military.html) NYT: The story of 8-year-old Asma, injured by a U.S. tear-gas canister, echoes the heartbreak and heroism of the 20-year American misadventure in Afghanistan. 
  <p class="updated_time"> 11:44 AM CT, Oct. 16 </p> 
  [Mixing and Matching Covid Vaccines Is Examined by F.D.A. Panel](https://www.nytimes.com/2021/10/16/us/mixing-vaccines.html) NYT: The agency’s expert advisers discussed the data on the approach, which is limited. 
- <p class="updated_time"> 10:31 AM CT, Oct. 16 </p> 
- [Lebanon Observes Day of Mourning After Deadly Sectarian Clashes](https://www.nytimes.com/2021/10/15/world/middleeast/lebanon-beirut-violence-explosion.html) NYT: The death toll rose to seven a day after gun battles between Christian and Shiite Muslim militias erupted amid tensions over an investigation into the port explosion last year. 
  <p class="updated_time"> 10:23 AM CT, Oct. 16 </p> 
  [Macron Commemorates 1961 Paris Police Killing of Algerian Protesters](https://www.nytimes.com/2021/10/16/world/europe/paris-police-algerians-macron.html) NYT: President Emmanuel Macron of France is the country’s first head of state to attend an event marking the deaths, which officials ignored for decades. 
  <p class="updated_time"> 09:09 AM CT, Oct. 16 </p> 
