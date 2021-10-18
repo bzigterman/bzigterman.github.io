@@ -6,6 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 06:10 AM CT, Oct. 18 </p> 
+ [Beijing 2022: Protest staged at Winter Olympics torch lighting](https://www.bbc.co.uk/news/world-asia-58954995?at_medium=RSS&at_campaign=KARANGA) BBC: Activists with banners attempt to interrupt the ceremony at Greece's ancient Olympia on Monday. 
  <p class="updated_time"> 05:52 AM CT, Oct. 18 </p> 
  [Myanmar to release 5,000 prisoners held over coup](https://www.bbc.co.uk/news/world-asia-58929644?at_medium=RSS&at_campaign=KARANGA) BBC: The leader of the military junta says they are being freed for humanitarian reasons. 
  <p class="updated_time"> 05:41 AM CT, Oct. 18 </p> 
@@ -88,8 +90,6 @@ permalink: /charts/news/
  [Will New Covid Treatments Be as Elusive for Poor Countries as Vaccines?](https://www.nytimes.com/2021/10/17/health/covid-treatment-access-molnupiravir.html) NYT: Merck has taken a step to make its antiviral pill available in poor nations, but many obstacles remain for broad access to coronavirus drugs. 
  <p class="updated_time"> 03:36 PM CT, Oct. 17 </p> 
  [Robert Durst, Millionaire Convicted of Murder, on Ventilator With Covid](https://www.nytimes.com/2021/10/16/world/robert-durst-covid-ventilator.html) NYT: The 78-year-old millionaire and former real estate mogul was sentenced to life in prison on Thursday for the murder of a friend in 2000. 
- <p class="updated_time"> 03:22 PM CT, Oct. 17 </p> 
- [Russia sets condition for return of BBC journalist](https://www.bbc.co.uk/news/world-europe-58944531?at_medium=RSS&at_campaign=KARANGA) BBC: Ambassador Andrei Kelin says the BBC reporter can return if Russian journalists gets UK visas. 
  <p class="updated_time"> 03:09 PM CT, Oct. 17 </p> 
  [What Is Christian Aid Ministries and What Does It Do in Haiti?](https://www.nytimes.com/2021/10/17/world/americas/what-is-christian-aid-ministries.html) NYT: The group, based in Ohio, distributes food and clothing, funds schools, teaches farming methods and helps with emergency relief. 
  <p class="updated_time"> 03:00 PM CT, Oct. 17 </p> 
