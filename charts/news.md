@@ -29,7 +29,7 @@ permalink: /charts/news/
  <p class="updated_time"> 07:10 PM CT, Oct. 17 </p> 
  [How energy flexibility can save us money and cut carbon](https://www.bbc.co.uk/news/science-environment-58898999?at_medium=RSS&at_campaign=KARANGA) BBC: Making energy supply to homes and businesses more flexible could help the UK meet its climate goals. 
  <p class="updated_time"> 07:09 PM CT, Oct. 17 </p> 
- [Does a climate summit need 25,000 people? And more questions](https://www.bbc.co.uk/news/science-environment-58925049?at_medium=RSS&at_campaign=KARANGA) BBC: BBC science correspondent Matt McGrath answers your questions about Glasgow's COP26 climate summit. 
+ [COP26: Does a climate summit need 25,000 people? And more questions](https://www.bbc.co.uk/news/science-environment-58925049?at_medium=RSS&at_campaign=KARANGA) BBC: BBC science correspondent Matt McGrath answers your questions about Glasgow's COP26 climate summit. 
  <p class="updated_time"> 06:56 PM CT, Oct. 17 </p> 
  [I get abuse and threats online - why can't it be stopped?](https://www.bbc.co.uk/news/uk-58924168?at_medium=RSS&at_campaign=KARANGA) BBC: Online abuse against women is on the rise, but why aren't the police, government and social media sites doing more to stop it? 
  <p class="updated_time"> 06:39 PM CT, Oct. 17 </p> 
@@ -43,7 +43,7 @@ permalink: /charts/news/
  <p class="updated_time"> 06:26 PM CT, Oct. 17 </p> 
  [Songhaï: A 'zero waste' agricultural system to increase food security in Africa](https://www.bbc.co.uk/news/world-africa-58930317?at_medium=RSS&at_campaign=KARANGA) BBC: Fr Godfrey Nzamujo runs a "zero waste" agriculture system aimed at increasing food security and creating jobs. 
  <p class="updated_time"> 06:17 PM CT, Oct. 17 </p> 
- [China Third-Quarter Economic Growth Slows Sharply to 4.9%](https://www.wsj.com/articles/china-third-quarter-economic-growth-slows-sharply-to-4-9-11634522925) WSJ: China’s economy grew 4.9% in the third quarter from a year earlier, slowing sharply from the previous period, as power shortages and supply-chain problems added to the impact from Beijing’s efforts to rein in the real estate and technology sectors. 
+ [China's Economy Slowed Sharply in the Third Quarter](https://www.wsj.com/articles/china-third-quarter-economic-growth-slows-sharply-to-4-9-11634522925) WSJ: China’s economy grew 4.9% in the third quarter from a year earlier, slowing sharply from the previous period, as power shortages and supply-chain problems added to the impact from Beijing’s efforts to rein in the real estate and technology sectors. 
  <p class="updated_time"> 06:13 PM CT, Oct. 17 </p> 
  [Nearly $7 Million Awarded in First Earthshot Prizes](https://www.nytimes.com/2021/10/17/climate/earthshot-prizes-costa-rica-milan.html) NYT: Costa Rica and the city of Milan were among the five winners that each received one million pounds, or nearly $1.4 million, to continue sustainability and conservation efforts during a ceremony in London. 
  <p class="updated_time"> 06:13 PM CT, Oct. 17 </p> 
