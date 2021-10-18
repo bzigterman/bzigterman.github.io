@@ -6,14 +6,18 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 04:05 PM CT, Oct. 18 </p> 
+ [F.B.I. Is Working in Haiti to Recover Kidnapped Missionaries](https://www.nytimes.com/2021/10/18/world/americas/haiti-protests.html) NYT: The United States has a team on the ground to try to secure the release of 17 people taken by a gang in the latest example of the violence that is leaving Haitians desperate. 
+ <p class="updated_time"> 04:04 PM CT, Oct. 18 </p> 
+ [For Christian Aid Ministries, Charity in Haiti Turns to Chaos](https://www.nytimes.com/2021/10/17/world/americas/amish-missionary-group-kidnap.html) NYT: An organization based in Ohio and founded by Amish and Mennonites has been swept up in the violence roiling the country. 
+ <p class="updated_time"> 04:03 PM CT, Oct. 18 </p> 
+ [Zalmay Khalilzad, Biden’s Envoy for Afghanistan, Steps Down](https://www.nytimes.com/2021/10/18/us/politics/zalmay-khalilzad-afghanistan.html) NYT: An Afghan American and a rare Trump appointee who survived into the Biden administration, Mr. Khalilzad played a central role in the U.S. exit from the country. 
  <p class="updated_time"> 03:56 PM CT, Oct. 18 </p> 
  [Your Tuesday Briefing](https://www.nytimes.com/2021/10/18/briefing/russia-covid-nato-china-banks.html) NYT: Russia hits a Covid death record. 
  <p class="updated_time"> 03:53 PM CT, Oct. 18 </p> 
  [Police Search for Motive in British Lawmaker’s Killing](https://www.nytimes.com/2021/10/17/world/europe/uk-stabbing-attack.html) NYT: An attack has rekindled questions about the security of members of Parliament. 
  <p class="updated_time"> 03:30 PM CT, Oct. 18 </p> 
  [U.K. Leaders Praise Slain Lawmaker Amid Heightened Security Concerns](https://www.nytimes.com/2021/10/18/world/europe/david-amess-attack-parliament.html) NYT: Prime Minister Boris Johnson and members of Parliament paid tribute to David Amess, who was fatally stabbed last week. 
- <p class="updated_time"> 03:27 PM CT, Oct. 18 </p> 
- [F.B.I. Is Working in Haiti to Recover Kidnapped Missionaries](https://www.nytimes.com/2021/10/18/world/americas/haiti-protests.html) NYT: The agency is part of the U.S. effort to reach the 17 people taken by a gang on Saturday, in the latest example of the violence that is leaving Haitians desperate. 
  <p class="updated_time"> 02:54 PM CT, Oct. 18 </p> 
  [Russia Breaks Diplomatic Ties with NATO](https://www.nytimes.com/2021/10/18/world/europe/russia-nato.html) NYT: Moscow’s decision to end its diplomatic mission to the alliance will end a long, post-Cold War experiment in building trust between militaries. 
  <p class="updated_time"> 02:44 PM CT, Oct. 18 </p> 
@@ -26,8 +30,6 @@ permalink: /charts/news/
  ['400 Mawozo' Gang Suspected in Kidnapping Among Haiti's Most Dangerous](https://www.nytimes.com/2021/10/17/world/americas/400-mawozo-haiti-kidnapping.html) NYT: The gang, called 400 Mawozo, captured several clergy members in April, and the local authorities say it is behind Saturday’s kidnapping. 
  <p class="updated_time"> 02:00 PM CT, Oct. 18 </p> 
  [In Haiti, Aid Group Workers Are Kidnapped](https://www.nytimes.com/2021/10/16/world/americas/missionaries-kidnap-haiti.html) NYT: Up to 17 missionaries and their family members were taken by gang members in the capital of a country where kidnappings have become increasingly common. 
- <p class="updated_time"> 01:58 PM CT, Oct. 18 </p> 
- [For Christian Aid Ministries, Charity in Haiti Turns to Chaos](https://www.nytimes.com/2021/10/17/world/americas/amish-missionary-group-kidnap.html) NYT: An organization based in Ohio and founded by Amish and Mennonites has been swept up in the violence roiling the country. 
  <p class="updated_time"> 01:58 PM CT, Oct. 18 </p> 
  [Mass Abduction of U.S. Missionaries Startles Even Kidnap-Weary Haiti](https://www.nytimes.com/2021/10/17/world/americas/haiti-missionaries-kidnap.html) NYT: “Where is this country going?” Gang members seized 16 Americans and one Canadian, among them five children, as they visited an orphanage. 
  <p class="updated_time"> 01:47 PM CT, Oct. 18 </p> 
@@ -194,8 +196,6 @@ permalink: /charts/news/
  [A Year Later, a Schoolteacher’s Beheading Still Haunts France](https://www.nytimes.com/2021/10/15/world/europe/france-samuel-paty-beheading.html) NYT: The killing of Samuel Paty by an 18-year-old Chechen refugee intensified debate over security and immigration, and prompted intense scrutiny of the French secular model. 
  <p class="updated_time"> 11:14 AM CT, Oct. 15 </p> 
  [How the Nobel Peace Prize Laid Bare the Schism in Russia’s Opposition](https://www.nytimes.com/2021/10/15/world/europe/russia-dissent-muratov-navalny-nobel.html) NYT: Dmitri A. Muratov, a new laureate, engages with the Kremlin, while Aleksei A. Navalny, the most high-profile Putin critic, resists all compromise. The Kremlin capitalizes on the fault line. 
- <p class="updated_time"> 11:10 AM CT, Oct. 15 </p> 
- [Push to Improve Sex Ed in Australia Comes From 10,000 Miles Away](https://www.nytimes.com/2021/10/15/world/australia/sex-education-consent-contos.html) NYT: A grad student in London hoped to collect a few testimonies from teenage sexual assault victims for a petition to teach consent in schools. She got thousands. 
  <p class="updated_time"> 11:47 AM CT, Oct. 14 </p> 
  [Why China's climate policy matters to us all](https://www.bbc.co.uk/news/world-asia-china-57483492?at_medium=RSS&at_campaign=KARANGA) BBC: The global battle against climate change is likely to be won or lost in China. 
  <p class="updated_time"> 07:50 AM CT, Oct. 13 </p> 
