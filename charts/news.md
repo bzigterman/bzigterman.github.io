@@ -6,12 +6,16 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 02:00 PM CT, Oct. 18 </p> 
+ [In Haiti, Aid Group Workers Are Kidnapped](https://www.nytimes.com/2021/10/16/world/americas/missionaries-kidnap-haiti.html) NYT: Up to 17 missionaries and their family members were taken by gang members in the capital of a country where kidnappings have become increasingly common. 
+ <p class="updated_time"> 01:58 PM CT, Oct. 18 </p> 
+ [For Christian Aid Ministries, Charity in Haiti Turns to Chaos](https://www.nytimes.com/2021/10/17/world/americas/amish-missionary-group-kidnap.html) NYT: An organization based in Ohio and founded by Amish and Mennonites has been swept up in the violence roiling the country. 
+ <p class="updated_time"> 01:58 PM CT, Oct. 18 </p> 
+ [Mass Abduction of U.S. Missionaries Startles Even Kidnap-Weary Haiti](https://www.nytimes.com/2021/10/17/world/americas/haiti-missionaries-kidnap.html) NYT: “Where is this country going?” Gang members seized 16 Americans and one Canadian, among them five children, as they visited an orphanage. 
  <p class="updated_time"> 01:46 PM CT, Oct. 18 </p> 
  [China's GDP Growth Slows as Property and Energy Take a Toll](https://www.nytimes.com/2021/10/17/business/economy/china-economy-gdp.html) NYT: Growth of 4.9 percent shows the country’s huge industrial sector has run into trouble. But exports and services are looking strong. 
  <p class="updated_time"> 12:59 PM CT, Oct. 18 </p> 
  [Will New Covid Treatments Be as Elusive for Poor Countries as Vaccines?](https://www.nytimes.com/2021/10/17/health/covid-treatment-access-molnupiravir.html) NYT: Merck has taken a step to make its antiviral pill available in poor nations, but many obstacles remain for broad access to coronavirus drugs. 
- <p class="updated_time"> 12:49 PM CT, Oct. 18 </p> 
- [For Christian Aid Ministries, Charity in Haiti Turns to Chaos](https://www.nytimes.com/2021/10/17/world/americas/amish-missionary-group-kidnap.html) NYT: An organization based in Ohio and founded by Amish and Mennonites has been swept up in the violence roiling the country. 
  <p class="updated_time"> 12:40 PM CT, Oct. 18 </p> 
  [An Official Wizard in New Zealand Loses His Job](https://www.nytimes.com/2021/10/18/world/australia/christchurch-new-zealand-wizard.html) NYT: The city of Christchurch has paid Ian Brackenbury Channell, 88, about $10,000 per year since 1998 for “acts of wizardry and other wizard-like services.” But he has been condemned recently for his jokes about women. 
  <p class="updated_time"> 12:34 PM CT, Oct. 18 </p> 
@@ -21,7 +25,7 @@ permalink: /charts/news/
  <p class="updated_time"> 12:28 PM CT, Oct. 18 </p> 
  [Mastermind of deadly 2016 Baghdad bombing caught, Iraq says](https://www.bbc.co.uk/news/world-middle-east-58957048?at_medium=RSS&at_campaign=KARANGA) BBC: Ghazwan al-Zawbaee is allegedly behind a 2016 attack on a shopping centre that killed 300 people. 
  <p class="updated_time"> 12:19 PM CT, Oct. 18 </p> 
- [Protests Against Lawlessness Erupt in Haiti](https://www.nytimes.com/2021/10/18/world/americas/haiti-protests-lawlessness.html) NYT: The desperation of Haitians in the face of powerful gangs fueled the calls for a broad strike. The kidnapping of missionaries on Saturday added to the tense atmosphere. 
+ [Protests Against Lawlessness Erupt in Haiti](https://www.nytimes.com/2021/10/18/world/americas/haiti-protests.html) NYT: The desperation of Haitians in the face of powerful gangs fueled the calls for a broad strike. The kidnapping of missionaries on Saturday added to the tense atmosphere. 
  <p class="updated_time"> 12:14 PM CT, Oct. 18 </p> 
  [Norway attack: Victims killed with 'sharp object', not arrows](https://www.bbc.co.uk/news/world-europe-58956629?at_medium=RSS&at_campaign=KARANGA) BBC: Victims of last week's bow-and-arrow attack were actually killed by a "sharp object", police say. 
  <p class="updated_time"> 11:58 AM CT, Oct. 18 </p> 
@@ -90,8 +94,6 @@ permalink: /charts/news/
  [Washington Hears Echoes of the ’50s and Worries: Is This a Cold War With China?](https://www.nytimes.com/2021/10/17/us/politics/china-new-cold-war.html) NYT: Incursions into Taiwan’s air zone, a space launch and what looked like a prisoner swap raise a question that is about more than just semantics. It could signal a dangerous new mind-set. 
  <p class="updated_time"> 09:00 PM CT, Oct. 17 </p> 
  [Israel: Hundreds strip naked by the Dead Sea](https://www.bbc.co.uk/news/world-58950281?at_medium=RSS&at_campaign=KARANGA) BBC: Hundreds of people stripped naked by the Dead Sea in Israel to highlight environmental changes. 
- <p class="updated_time"> 07:43 PM CT, Oct. 17 </p> 
- [Mass Abduction of U.S. Missionaries Startles Even Kidnap-Weary Haiti](https://www.nytimes.com/2021/10/17/world/americas/haiti-missionaries-kidnap.html) NYT: “Where is this country going?” Gang members seized 16 Americans and one Canadian, among them five children, as they visited an orphanage. 
  <p class="updated_time"> 07:10 PM CT, Oct. 17 </p> 
  [How energy flexibility can save us money and cut carbon](https://www.bbc.co.uk/news/science-environment-58898999?at_medium=RSS&at_campaign=KARANGA) BBC: Making energy supply to homes and businesses more flexible could help the UK meet its climate goals. 
  <p class="updated_time"> 06:56 PM CT, Oct. 17 </p> 
@@ -132,8 +134,6 @@ permalink: /charts/news/
  [Tunisians Recall Revolution Reluctantly, if at All: ‘It Just Faded Away’](https://www.nytimes.com/2021/10/17/world/middleeast/tunisia-revolution-memoro-monuments.html) NYT: When a monument to those killed in the 2011 uprising was recently damaged, few took notice or even cared in a town, and country, where there is now more regret than a wish to remember. 
  <p class="updated_time"> 11:00 AM CT, Oct. 17 </p> 
  [China's Scripted Homicides Become a Popular Pastime](https://www.nytimes.com/2021/10/16/world/asia/china-murder-script.html) NYT: “Scripted homicide” clubs have opened around the country as young people look for ways to escape and connect. Naturally, the government has questions. 
- <p class="updated_time"> 09:27 AM CT, Oct. 17 </p> 
- [In Haiti, Aid Group Workers Are Kidnapped](https://www.nytimes.com/2021/10/16/world/americas/missionaries-kidnap-haiti.html) NYT: Up to 17 missionaries and their family members were taken by gang members in the capital of a country where kidnappings have become increasingly common. 
  <p class="updated_time"> 08:12 AM CT, Oct. 17 </p> 
  [How a Stunning Lagoon in Spain Turned Into ‘Green Soup’](https://www.nytimes.com/2021/10/17/world/europe/spain-lagoon-pollution-mar-menor.html) NYT: Tons of dead fish have washed ashore in recent years from the Mar Menor, a once-crystalline lagoon on the Mediterranean coast that has become choked with algae. Farm pollution is mostly blamed. 
  <p class="updated_time"> 07:42 AM CT, Oct. 17 </p> 
