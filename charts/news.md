@@ -6,8 +6,10 @@ permalink: /charts/news/
 
 ## World News
 
- <p class="updated_time"> 02:49 PM CT, Oct. 18 </p> 
- [F.B.I. Working on Mass Kidnapping in Haiti as Protests Against Lawlessness Erupt](https://www.nytimes.com/2021/10/18/world/americas/haiti-protests.html) NYT: The F.B.I. is part of the effort to rescue missionaries who were kidnapped on Saturday, in the latest example of violence that is leaving Haitians desperate. 
+ <p class="updated_time"> 03:15 PM CT, Oct. 18 </p> 
+ [F.B.I. Is Working in Haiti to Recover Kidnapped Missionaries](https://www.nytimes.com/2021/10/18/world/americas/haiti-protests.html) NYT: The agency is part of the U.S. effort to reach the 17 people taken by a gang on Saturday, in the latest example of the violence that is leaving Haitians desperate. 
+ <p class="updated_time"> 02:54 PM CT, Oct. 18 </p> 
+ [Russia Breaks Diplomatic Ties with NATO](https://www.nytimes.com/2021/10/18/world/europe/russia-nato.html) NYT: Moscow’s decision to end its diplomatic mission to the alliance will end a long, post-Cold War experiment in building trust between militaries. 
  <p class="updated_time"> 02:44 PM CT, Oct. 18 </p> 
  [Tigray: Ethiopian government admits Mekelle airstrike](https://www.bbc.co.uk/news/world-africa-58958022?at_medium=RSS&at_campaign=KARANGA) BBC: Officials had earlier denied the government was behind allegedly deadly attacks in the region. 
  <p class="updated_time"> 02:29 PM CT, Oct. 18 </p> 
@@ -44,8 +46,6 @@ permalink: /charts/news/
  [In Hungary’s Heartland, Orban Faces a Unified Challenge to His Rule](https://www.nytimes.com/2021/10/18/world/europe/hungary-viktor-orban-election.html) NYT: The country’s normally fractious opposition has rallied around a conservative mayor who just might be able to oust the authoritarian prime minister after more than a decade. 
  <p class="updated_time"> 11:34 AM CT, Oct. 18 </p> 
  [Colin Powell: Former US secretary of state dies of Covid complications](https://www.bbc.co.uk/news/world-us-canada-58957273?at_medium=RSS&at_campaign=KARANGA) BBC: The ex-US secretary of state, the first African-American in that role, dies of Covid complications. 
- <p class="updated_time"> 11:27 AM CT, Oct. 18 </p> 
- [Russia Breaks Diplomatic Ties with NATO](https://www.nytimes.com/2021/10/18/world/europe/russia-nato.html) NYT: Moscow’s decision to end its diplomatic mission to the alliance will end a long post-Cold War experiment in building trust between militaries. 
  <p class="updated_time"> 11:18 AM CT, Oct. 18 </p> 
  [China denies testing nuclear-capable hypersonic missile](https://www.bbc.co.uk/news/world-asia-china-58953352?at_medium=RSS&at_campaign=KARANGA) BBC: The report in the Financial Times newspaper reportedly caught US intelligence by surprise. 
  <p class="updated_time"> 11:15 AM CT, Oct. 18 </p> 
@@ -56,6 +56,8 @@ permalink: /charts/news/
  [Greta Thunberg sings Rick Astley hit at climate concert](https://www.bbc.co.uk/news/world-58952383?at_medium=RSS&at_campaign=KARANGA) BBC: Greta Thunberg sings Rick Astley's "Never Gonna Give You Up" to launch series of climate concerts. 
  <p class="updated_time"> 10:06 AM CT, Oct. 18 </p> 
  [Myanmar Announces Amnesty for Thousands of Anti-Coup Protesters](https://www.nytimes.com/2021/10/18/world/asia/myanmar-military-amnesty-protesters.html) NYT: The junta, which seized power in February, said it was releasing the prisoners to mark the Lighting Festival, a three-day holiday that begins Tuesday. 
+ <p class="updated_time"> 09:53 AM CT, Oct. 18 </p> 
+ [Global Climate Finance Falling Short of What Is Needed, Report Suggests](https://www.wsj.com/articles/global-climate-finance-falling-short-of-what-is-needed-report-suggests-11634583222) WSJ: Global investment in climate-change-related projects rose in 2019 and 2020, but remained far below the level that would be needed to finance the transition to a low-carbon economy and minimize the impacts of climate change, new data showed. 
  <p class="updated_time"> 09:39 AM CT, Oct. 18 </p> 
  [Yukon Territory Imposes Vaccine Mandate Amid Rise in Cases](https://www.nytimes.com/2021/10/16/world/yukon-vaccine-mandate.html) NYT: Health care workers and others in the Yukon must be fully vaccinated by Nov. 30. The territory is also starting a vaccination passport program. 
  <p class="updated_time"> 09:22 AM CT, Oct. 18 </p> 
@@ -186,8 +188,6 @@ permalink: /charts/news/
  [Week in pictures: 9 - 15 October 2021](https://www.bbc.co.uk/news/in-pictures-58911596?at_medium=RSS&at_campaign=KARANGA) BBC: A selection of powerful images from all over the globe, taken this week. 
  <p class="updated_time"> 06:58 PM CT, Oct. 15 </p> 
  [Italy's New Law Requires Workers to Get Covid Vaccine or Testing](https://www.nytimes.com/2021/10/15/world/europe/italy-vaccination-law-covid.html) NYT: The rollout went more or less smoothly, with only scattered protests, as the majority of citizens accepted the ‘Green Pass’ as a tolerable sacrifice to stem the Covid pandemic. 
- <p class="updated_time"> 03:41 PM CT, Oct. 15 </p> 
- [Protests Over Italy's Covid 'Green Pass' Draw Only Scattered Crowds](https://www.nytimes.com/2021/10/15/world/europe/covid-italy-green-pass-protests.html) NYT: While there were scattered protests across Italy on Friday, many in the country appeared to accept the measure as necessary. 
  <p class="updated_time"> 03:13 PM CT, Oct. 15 </p> 
  [A Year Later, a Schoolteacher’s Beheading Still Haunts France](https://www.nytimes.com/2021/10/15/world/europe/france-samuel-paty-beheading.html) NYT: The killing of Samuel Paty by an 18-year-old Chechen refugee intensified debate over security and immigration, and prompted intense scrutiny of the French secular model. 
  <p class="updated_time"> 11:14 AM CT, Oct. 15 </p> 
