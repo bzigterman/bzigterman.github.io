@@ -6,10 +6,14 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 08:19 AM CT, Oct. 18 </p> 
+ [Taiwan Couple Are Suspected of Negligent Homicide in Building Fire](https://www.nytimes.com/2021/10/18/world/asia/taiwan-building-fire.html) NYT: Prosecutors accused a woman of leaving a burning incense coil unattended in the building in Kaohsiung. Her partner was accused of failing to remind her to douse the coil before leaving. 
  <p class="updated_time"> 08:04 AM CT, Oct. 18 </p> 
  [Colin Powell: Former US secretary of state dies of Covid complications](https://www.bbc.co.uk/news/world-us-canada-58957273?at_medium=RSS&at_campaign=KARANGA) BBC: The ex-US secretary of state, the first African-American in that role, dies of Covid complications. 
  <p class="updated_time"> 08:01 AM CT, Oct. 18 </p> 
  [Myanmar Announces Amnesty for Thousands of Anti-Coup Protesters](https://www.nytimes.com/2021/10/18/world/asia/myanmar-military-amnesty-protesters.html) NYT: The junta, which seized power in February, said it was releasing the prisoners to mark the Lighting Festival, a three-day holiday that begins Tuesday. 
+ <p class="updated_time"> 07:51 AM CT, Oct. 18 </p> 
+ [Afghanistan polio: UN plans nationwide vaccine campaign](https://www.bbc.co.uk/news/world-asia-58956624?at_medium=RSS&at_campaign=KARANGA) BBC: Its children's agency says it will begin vaccinations nationwide with the Taliban's blessing. 
  <p class="updated_time"> 07:34 AM CT, Oct. 18 </p> 
  [Ronnie Tutt: 'Legendary' Elvis Presley drummer dies at 83](https://www.bbc.co.uk/news/entertainment-arts-58951519?at_medium=RSS&at_campaign=KARANGA) BBC: Tutt provided the backbeat for the King of Rock 'n' Roll's 1969 Taking Care of Business tour. 
  <p class="updated_time"> 07:34 AM CT, Oct. 18 </p> 
@@ -40,8 +44,6 @@ permalink: /charts/news/
  [New Zealand Extends Auckland Lockdown](https://www.nytimes.com/live/2021/10/18/world/covid-delta-variant-vaccine/new-zealand-auckland-lockdown) NYT: The city, Auckland, has been in lockdown since Aug. 17, after an outbreak of the Delta variant. 
  <p class="updated_time"> 04:00 AM CT, Oct. 18 </p> 
  [How a Nuclear Bomb Could Save Earth From a Stealthy Asteroid](https://www.nytimes.com/2021/10/18/science/asteroid-nuclear-bomb.html) NYT: An atomic blast is not the preferred solution for planetary defense, but 3-D models are helping scientists prepare for a worst-case scenario. 
- <p class="updated_time"> 03:56 AM CT, Oct. 18 </p> 
- [Taiwan Couple Are Suspected of Negligent Homicide in Building Fire](https://www.nytimes.com/2021/10/18/world/asia/taiwan-building-fire.html) NYT: Prosecutors accused a woman of leaving a burning incense coil unattended in the building in Kaohsiung. Her partner was accused of failing to remind her to douse the coil before leaving. 
  <p class="updated_time"> 02:00 AM CT, Oct. 18 </p> 
  [World Bank Mishandled Sexual- Harassment Claims, Internal Tribunal Says](https://www.wsj.com/articles/world-bank-mishandled-sexual-harassment-claims-internal-tribunal-says-11634554802) WSJ: A labor tribunal found the bank ignored allegations of sexual harassment by a senior official, now a Costa Rican presidential candidate. 
  <p class="updated_time"> 12:59 AM CT, Oct. 18 </p> 
@@ -62,8 +64,6 @@ permalink: /charts/news/
  [At Axel Springer, Allegations of Sex, Lies and a Secret Payment](https://www.nytimes.com/2021/10/17/business/media/axel-springer-bild-julian-reichelt.html) NYT: A high-flying German media giant is ahead on digital media but seems stuck in the past when it comes to the workplace and deal-making. 
  <p class="updated_time"> 09:00 PM CT, Oct. 17 </p> 
  [Israel: Hundreds strip naked by the Dead Sea](https://www.bbc.co.uk/news/world-58950281?at_medium=RSS&at_campaign=KARANGA) BBC: Hundreds of people stripped naked by the Dead Sea in Israel to highlight environmental changes. 
- <p class="updated_time"> 08:46 PM CT, Oct. 17 </p> 
- [Australian pair survive days without water in remote outback](https://www.bbc.co.uk/news/58949984?at_medium=RSS&at_campaign=KARANGA) BBC: The man and teenage boy endured up to four days without water in "harsh" conditions, police say. 
  <p class="updated_time"> 07:43 PM CT, Oct. 17 </p> 
  [Mass Abduction of U.S. Missionaries Startles Even Kidnap-Weary Haiti](https://www.nytimes.com/2021/10/17/world/americas/haiti-missionaries-kidnap.html) NYT: “Where is this country going?” Gang members seized 16 Americans and one Canadian, among them five children, as they visited an orphanage. 
  <p class="updated_time"> 07:10 PM CT, Oct. 17 </p> 
