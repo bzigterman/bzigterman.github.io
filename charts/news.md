@@ -46,6 +46,8 @@ permalink: /charts/news/
  [Washington Hears Echoes of the ’50s and Worries: Is This a Cold War With China?](https://www.nytimes.com/2021/10/17/us/politics/china-new-cold-war.html) NYT: Incursions into Taiwan’s air zone, a space launch and what looked like a prisoner swap raise a question that is about more than just semantics. It could signal a dangerous new mind-set. 
  <p class="updated_time"> 09:34 PM CT, Oct. 17 </p> 
  [China's GDP Growth Slows as Property and Energy Take a Toll](https://www.nytimes.com/2021/10/17/business/economy/china-economy-gdp.html) NYT: Growth of 4.9 percent shows the country’s huge industrial sector has run into trouble. But exports and services are looking strong. 
+ <p class="updated_time"> 09:19 PM CT, Oct. 17 </p> 
+ [At Axel Springer, Allegations of Sex, Lies and a Secret Payment](https://www.nytimes.com/2021/10/17/business/media/axel-springer-bild-julian-reichelt.html) NYT: A high-flying German media giant is ahead on digital media but seems stuck in the past when it comes to the workplace and deal-making. 
  <p class="updated_time"> 09:00 PM CT, Oct. 17 </p> 
  [Israel: Hundreds strip naked by the Dead Sea](https://www.bbc.co.uk/news/world-58950281?at_medium=RSS&at_campaign=KARANGA) BBC: Hundreds of people stripped naked by the Dead Sea in Israel to highlight environmental changes. 
  <p class="updated_time"> 08:46 PM CT, Oct. 17 </p> 
@@ -98,6 +100,8 @@ permalink: /charts/news/
  [Bill Clinton: Thumbs up as former US president leaves hospital](https://www.bbc.co.uk/news/world-us-canada-58947921?at_medium=RSS&at_campaign=KARANGA) BBC: The former US president is discharged from a Californian hospital accompanied by his wife Hillary. 
  <p class="updated_time"> 02:38 PM CT, Oct. 17 </p> 
  [Police Search for Motive in British Lawmaker’s Killing](https://www.nytimes.com/2021/10/17/world/europe/uk-stabbing-attack.html) NYT: An attack has rekindled questions about the security of members of Parliament. 
+ <p class="updated_time"> 12:51 PM CT, Oct. 17 </p> 
+ [Russian Film Crew Wraps Space Station Shoot and Returns to Earth](https://www.nytimes.com/2021/10/17/science/russia-film-space-station.html) NYT: A Russian actress and film director landed near Russia’s spaceflight base in Kazakhstan after 12 days in orbit. 
  <p class="updated_time"> 12:45 PM CT, Oct. 17 </p> 
  [Fake Polls and Tabloid Coverage on Demand: The Dark Side of Sebastian Kurz](https://www.nytimes.com/2021/10/17/world/europe/austria-sebastian-kurz-scandal-chancellor.html) NYT: The downfall of Austria’s onetime political Wunderkind put a spotlight on the cozy, sometimes corrupt, relationship between right-wing populists and parts of the news media. 
  <p class="updated_time"> 11:17 AM CT, Oct. 17 </p> 
@@ -108,6 +112,8 @@ permalink: /charts/news/
  [Behind the Energy Crisis: Fossil Fuel Investment Drops, and Renewables Aren't Ready](https://www.wsj.com/articles/energy-crisis-fossil-fuel-investment-renewables-gas-oil-prices-coal-wind-solar-hydro-power-grid-11634497531) WSJ: The transition to cleaner energy sources isn’t far enough along to meet a surge in demand, forcing countries to rely on fossil fuels. 
  <p class="updated_time"> 09:27 AM CT, Oct. 17 </p> 
  [In Haiti, Aid Group Workers Are Kidnapped](https://www.nytimes.com/2021/10/16/world/americas/missionaries-kidnap-haiti.html) NYT: Up to 17 missionaries and their family members were taken by gang members in the capital of a country where kidnappings have become increasingly common. 
+ <p class="updated_time"> 09:00 AM CT, Oct. 17 </p> 
+ [Bringing Attention to the Maori Language, One Song at a Time](https://www.nytimes.com/2021/10/17/arts/music/maori-language-song-translations.html) NYT: “Waiata/Anthems,” Lorde’s “Te Ao Marama” EP and a host of other projects are aimed at revitalizing the Indigenous language of New Zealand via music. 
  <p class="updated_time"> 08:49 AM CT, Oct. 17 </p> 
  [Nigeria's Criminal Gangs Steal Munitions and Extort the Government](https://www.wsj.com/articles/nigerias-gangs-raised-millions-by-kidnapping-children-now-the-government-cant-stop-them-11634400009) WSJ: In the forests of northwest Nigeria, loosely organized criminal gangs that raised funds kidnapping schoolchildren are now flush with arms and operating beyond the reach of an increasingly fragile state. 
  <p class="updated_time"> 08:12 AM CT, Oct. 17 </p> 
@@ -148,6 +154,8 @@ permalink: /charts/news/
  [How 3 Strangers a World Away Came to the Rescue of a Badly Burned Afghan Girl](https://www.nytimes.com/2021/10/16/world/afghanistan-girl-burn-evacuation-military.html) NYT: The story of 8-year-old Asma, injured by a U.S. tear-gas canister, echoes the heartbreak and heroism of the 20-year American misadventure in Afghanistan. 
  <p class="updated_time"> 11:44 AM CT, Oct. 16 </p> 
  [Mixing and Matching Covid Vaccines Is Examined by F.D.A. Panel](https://www.nytimes.com/2021/10/16/us/mixing-vaccines.html) NYT: The agency’s expert advisers discussed the data on the approach, which is limited. 
+ <p class="updated_time"> 10:31 AM CT, Oct. 16 </p> 
+ [Lebanon Observes Day of Mourning After Deadly Sectarian Clashes](https://www.nytimes.com/2021/10/15/world/middleeast/lebanon-beirut-violence-explosion.html) NYT: The death toll rose to seven a day after gun battles between Christian and Shiite Muslim militias erupted amid tensions over an investigation into the port explosion last year. 
  <p class="updated_time"> 10:23 AM CT, Oct. 16 </p> 
  [Macron Commemorates 1961 Paris Police Killing of Algerian Protesters](https://www.nytimes.com/2021/10/16/world/europe/paris-police-algerians-macron.html) NYT: President Emmanuel Macron of France is the country’s first head of state to attend an event marking the deaths, which officials ignored for decades. 
  <p class="updated_time"> 09:09 AM CT, Oct. 16 </p> 
@@ -174,6 +182,8 @@ permalink: /charts/news/
  [Protests Over Italy's Covid 'Green Pass' Draw Only Scattered Crowds](https://www.nytimes.com/2021/10/15/world/europe/covid-italy-green-pass-protests.html) NYT: While there were scattered protests across Italy on Friday, many in the country appeared to accept the measure as necessary. 
  <p class="updated_time"> 03:13 PM CT, Oct. 15 </p> 
  [A Year Later, a Schoolteacher’s Beheading Still Haunts France](https://www.nytimes.com/2021/10/15/world/europe/france-samuel-paty-beheading.html) NYT: The killing of Samuel Paty by an 18-year-old Chechen refugee intensified debate over security and immigration, and prompted intense scrutiny of the French secular model. 
+ <p class="updated_time"> 02:54 PM CT, Oct. 15 </p> 
+ [Pandemic-stricken Thailand, aiming to revive tourism, reopens the cave a soccer team was trapped in.](https://www.nytimes.com/2021/10/15/world/thailand-lets-tourists-return-to-the-cave-where-a-soccer-team-was-rescued.html) NYT: NA 
  <p class="updated_time"> 01:58 PM CT, Oct. 15 </p> 
  [Abu Musab al-Barnawi, Leader of ISWAP, Has Died, Nigerian Army Says](https://www.nytimes.com/2021/10/15/world/africa/nigeria-islamic-state-abu-musab-al-barnawi-dead.html) NYT: A top military commander said that Abu Musab al-Barnawi, a kingpin of an extremist organization known as the Islamic State West Africa Province, had died. 
  <p class="updated_time"> 11:14 AM CT, Oct. 15 </p> 
