@@ -11,7 +11,7 @@ permalink: /charts/news/
  <p class="updated_time"> 11:38 PM CT, Oct. 17 </p> 
  [For Christian Aid Ministries, Charity in Haiti Turns to Chaos](https://www.nytimes.com/2021/10/17/world/americas/amish-missionary-group-kidnap.html) NYT: An organization based in Ohio and founded by Amish and Mennonites has been swept up in the violence roiling the country. 
  <p class="updated_time"> 11:22 PM CT, Oct. 17 </p> 
- [Kerala floods: At least 24 killed as rescue operation continues](https://www.bbc.co.uk/news/world-asia-india-58940880?at_medium=RSS&at_campaign=KARANGA) BBC: Heavy rains cause rivers to overflow in Kerala, washing away homes and trapping people under debris. 
+ [Kerala floods: At least 24 killed as rescuers step up efforts](https://www.bbc.co.uk/news/world-asia-india-58940880?at_medium=RSS&at_campaign=KARANGA) BBC: Heavy rains cause rivers to overflow in Kerala, washing away homes and trapping people under debris. 
  <p class="updated_time"> 10:37 PM CT, Oct. 17 </p> 
  [Afghan girls are ‘left in darkness’ by the Taliban](https://www.bbc.co.uk/news/world-58950282?at_medium=RSS&at_campaign=KARANGA) BBC: BBC correspondent Yogita Limaye in Kabul asks the Taliban when girls can go back to school. 
  <p class="updated_time"> 10:12 PM CT, Oct. 17 </p> 
