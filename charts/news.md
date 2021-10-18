@@ -6,6 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 06:40 PM CT, Oct. 18 </p> 
+ [Narendra Modi: 'Why is the Indian PM's photo on my Covid vaccine certificate?'](https://www.bbc.co.uk/news/world-asia-india-58944475?at_medium=RSS&at_campaign=KARANGA) BBC: A 62-year-old Indian wants a new Covid-19 vaccine certificate without Narendra Modi's photograph. 
  <p class="updated_time"> 06:34 PM CT, Oct. 18 </p> 
  [Your Monday Briefing](https://www.nytimes.com/2021/10/17/briefing/antiviral-pill-biden-climate-change.html) NYT: A new antiviral coronavirus pill. 
  <p class="updated_time"> 06:33 PM CT, Oct. 18 </p> 
@@ -18,6 +20,8 @@ permalink: /charts/news/
  [Ahmaud Arbery: Trial over black jogger's death begins](https://www.bbc.co.uk/news/world-us-canada-58931529?at_medium=RSS&at_campaign=KARANGA) BBC: The three men involved in ambushing and shooting the jogger face murder and assault charges. 
  <p class="updated_time"> 06:19 PM CT, Oct. 18 </p> 
  [In Haiti, Aid Group Workers Are Kidnapped](https://www.nytimes.com/2021/10/16/world/americas/missionaries-kidnap-haiti.html) NYT: Up to 17 missionaries and their family members were taken by gang members in the capital of a country where kidnappings have become increasingly common. 
+ <p class="updated_time"> 06:12 PM CT, Oct. 18 </p> 
+ [The battle to make lighter life-saving body armour](https://www.bbc.co.uk/news/business-58793826?at_medium=RSS&at_campaign=KARANGA) BBC: New materials are making body armour lighter but nanotechnology could provide a breakthrough. 
  <p class="updated_time"> 06:11 PM CT, Oct. 18 </p> 
  [Afghanistan: US envoy Zalmay Khalilzad steps down after withdrawal](https://www.bbc.co.uk/news/world-us-canada-58946566?at_medium=RSS&at_campaign=KARANGA) BBC: Zalmay Khalilzad led talks with the Taliban that resulted in a deal to fully withdraw US troops. 
  <p class="updated_time"> 06:11 PM CT, Oct. 18 </p> 
@@ -122,8 +126,6 @@ permalink: /charts/news/
  [I get abuse and threats online - why can't it be stopped?](https://www.bbc.co.uk/news/uk-58924168?at_medium=RSS&at_campaign=KARANGA) BBC: Online abuse against women is on the rise, but why aren't the police, government and social media sites doing more to stop it? 
  <p class="updated_time"> 06:36 PM CT, Oct. 17 </p> 
  [Iran's Covid 'orphans': 'She keeps asking where daddy is'](https://www.bbc.co.uk/news/world-58934632?at_medium=RSS&at_campaign=KARANGA) BBC: Around 51,000 children in Iran have lost a parent to Covid, according to officials. 
- <p class="updated_time"> 06:35 PM CT, Oct. 17 </p> 
- [The Nigerians who want Israel to accept them as Jews](https://www.bbc.co.uk/news/world-africa-58917825?at_medium=RSS&at_campaign=KARANGA) BBC: A small Nigerian community claims Jewish ancestry dating hundreds of years but Israel does not recognise them. 
  <p class="updated_time"> 06:33 PM CT, Oct. 17 </p> 
  [Has Covid changed New York City nightlife forever?](https://www.bbc.co.uk/news/world-us-canada-58934445?at_medium=RSS&at_campaign=KARANGA) BBC: A photographer is confronted with the new reality of empty streets and closed clubs. 
  <p class="updated_time"> 06:13 PM CT, Oct. 17 </p> 
