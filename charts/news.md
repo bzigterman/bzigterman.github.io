@@ -14,6 +14,8 @@ permalink: /charts/news/
  [Washington Hears Echoes of the ’50s and Worries: Is This a Cold War With China?](https://www.nytimes.com/2021/10/17/us/politics/china-new-cold-war.html) NYT: Incursions into Taiwan’s air zone, a space launch and what looked like a prisoner swap raise a question that is about more than just semantics. It could signal a dangerous new mind-set. 
  <p class="updated_time"> 09:34 PM CT, Oct. 17 </p> 
  [China's GDP Growth Slows as Property and Energy Take a Toll](https://www.nytimes.com/2021/10/17/business/economy/china-economy-gdp.html) NYT: Growth of 4.9 percent shows the country’s huge industrial sector has run into trouble. But exports and services are looking strong. 
+ <p class="updated_time"> 08:46 PM CT, Oct. 17 </p> 
+ [Australian pair survive days without water in remote outback](https://www.bbc.co.uk/news/58949984?at_medium=RSS&at_campaign=KARANGA) BBC: The man and teenage boy endured up to four days without water in "harsh" conditions, police say. 
  <p class="updated_time"> 07:45 PM CT, Oct. 17 </p> 
  [For Christian Aid Ministries, Charity in Haiti Turns to Chaos](https://www.nytimes.com/2021/10/17/world/americas/amish-missionary-group-kidnap.html) NYT: An organization based in Ohio and founded by Amish and Mennonites has been swept up in the violence roiling the country. 
  <p class="updated_time"> 07:43 PM CT, Oct. 17 </p> 
