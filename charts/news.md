@@ -6,6 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 04:22 AM CT, Oct. 18 </p> 
+ [Apparently, it's the next big thing. What is the metaverse?](https://www.bbc.co.uk/news/technology-58749529?at_medium=RSS&at_campaign=KARANGA) BBC: What does it mean, and what have Facebook and Fortnite got to do with it? 
  <p class="updated_time"> 04:13 AM CT, Oct. 18 </p> 
  [Kerala floods: At least 24 killed as rescuers step up efforts](https://www.bbc.co.uk/news/world-asia-india-58940880?at_medium=RSS&at_campaign=KARANGA) BBC: Heavy rains cause rivers to overflow in Kerala, washing away homes and trapping people under debris. 
  <p class="updated_time"> 04:00 AM CT, Oct. 18 </p> 
@@ -126,8 +128,6 @@ permalink: /charts/news/
  [The Chinese film beating Bond and Marvel at the box office](https://www.bbc.co.uk/news/world-asia-china-58868854?at_medium=RSS&at_campaign=KARANGA) BBC: The success of The Battle at Lake Changjin is bad news for Hollywood which wants to grow in China. 
  <p class="updated_time"> 06:17 PM CT, Oct. 16 </p> 
  [Airlines in Japan and South Korea Try Novel Ideas to Lure Fliers](https://www.nytimes.com/2021/10/16/world/japan-south-korea-airlines-covid-incentives.html) NYT: How about inexpensive passes good for a month of domestic flights? Or popular in-flight meals to on-the-ground customers? 
- <p class="updated_time"> 06:09 PM CT, Oct. 16 </p> 
- [Apparently, it's the next big thing. What is the metaverse?](https://www.bbc.co.uk/news/technology-58749529?at_medium=RSS&at_campaign=KARANGA) BBC: What does it mean, and what have Facebook and Fortnite got to do with it? 
  <p class="updated_time"> 06:08 PM CT, Oct. 16 </p> 
  [How a massacre of Algerians in Paris was covered up](https://www.bbc.co.uk/news/world-africa-58927939?at_medium=RSS&at_campaign=KARANGA) BBC: French police killed at least 100 people in 1961, throwing some of them into the River Seine to drown them. 
  <p class="updated_time"> 04:19 PM CT, Oct. 16 </p> 
