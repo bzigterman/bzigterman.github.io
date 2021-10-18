@@ -6,6 +6,10 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 02:11 AM CT, Oct. 18 </p> 
+ [Sean Wainui: Maori All Blacks player dies in New Zealand car crash](https://www.bbc.co.uk/sport/rugby-union/58951718?at_medium=RSS&at_campaign=KARANGA) BBC: Tributes are paid to Maori All Blacks centre Sean Wainui after the 25-year-old dies in a car crash in New Zealand. 
+ <p class="updated_time"> 02:05 AM CT, Oct. 18 </p> 
+ [China's growth slowdown suggests recovery is losing steam](https://www.bbc.co.uk/news/business-58950551?at_medium=RSS&at_campaign=KARANGA) BBC: The world's second largest economy expanded by less than expected in the third quarter. 
  <p class="updated_time"> 11:44 PM CT, Oct. 17 </p> 
  [Facebook to hire 10,000 in EU to work on metaverse](https://www.bbc.co.uk/news/world-europe-58949867?at_medium=RSS&at_campaign=KARANGA) BBC: Mark Zuckerberg is a leading voice on the metaverse - a virtual reality version of the internet. 
  <p class="updated_time"> 11:38 PM CT, Oct. 17 </p> 
@@ -82,22 +86,16 @@ permalink: /charts/news/
  [Haiti kidnap: 400 Mawozo accused of US missionary kidnap](https://www.bbc.co.uk/news/world-latin-america-58948107?at_medium=RSS&at_campaign=KARANGA) BBC: The armed gang, called 400 Mawozo, is holding 17 women, men and children from the US and Canada. 
  <p class="updated_time"> 12:45 PM CT, Oct. 17 </p> 
  [Fake Polls and Tabloid Coverage on Demand: The Dark Side of Sebastian Kurz](https://www.nytimes.com/2021/10/17/world/europe/austria-sebastian-kurz-scandal-chancellor.html) NYT: The downfall of Austria’s onetime political Wunderkind put a spotlight on the cozy, sometimes corrupt, relationship between right-wing populists and parts of the news media. 
- <p class="updated_time"> 11:55 AM CT, Oct. 17 </p> 
- [Bill Clinton: Former US president discharged from hospital](https://www.bbc.co.uk/news/world-us-canada-58947175?at_medium=RSS&at_campaign=KARANGA) BBC: The 75-year-old had been receiving treatment for a blood infection in California. 
  <p class="updated_time"> 11:49 AM CT, Oct. 17 </p> 
  [Pedro Sanchez: Spanish PM vows to outlaw prostitution](https://www.bbc.co.uk/news/world-europe-58947172?at_medium=RSS&at_campaign=KARANGA) BBC: The UN estimates Spain's sex industry has become worth €3.7 billion since decriminalisation in 1995. 
  <p class="updated_time"> 11:17 AM CT, Oct. 17 </p> 
  [Tunisians Recall Revolution Reluctantly, if at All: ‘It Just Faded Away’](https://www.nytimes.com/2021/10/17/world/middleeast/tunisia-revolution-memoro-monuments.html) NYT: When a monument to those killed in the 2011 uprising was recently damaged, few took notice or even cared in a town, and country, where there is now more regret than a wish to remember. 
  <p class="updated_time"> 11:00 AM CT, Oct. 17 </p> 
  [China's Scripted Homicides Become a Popular Pastime](https://www.nytimes.com/2021/10/16/world/asia/china-murder-script.html) NYT: “Scripted homicide” clubs have opened around the country as young people look for ways to escape and connect. Naturally, the government has questions. 
- <p class="updated_time"> 10:10 AM CT, Oct. 17 </p> 
- [Poland: New project aims to help migrants crossing border](https://www.bbc.co.uk/news/world-europe-58947167?at_medium=RSS&at_campaign=KARANGA) BBC: Lawyer suggests locals should switch on a green light to signal they can help migrants with food. 
  <p class="updated_time"> 10:09 AM CT, Oct. 17 </p> 
  [Behind the Energy Crisis: Fossil Fuel Investment Drops, and Renewables Aren't Ready](https://www.wsj.com/articles/energy-crisis-fossil-fuel-investment-renewables-gas-oil-prices-coal-wind-solar-hydro-power-grid-11634497531) WSJ: The transition to cleaner energy sources isn’t far enough along to meet a surge in demand, forcing countries to rely on fossil fuels. 
  <p class="updated_time"> 09:27 AM CT, Oct. 17 </p> 
  [In Haiti, Aid Group Workers Are Kidnapped](https://www.nytimes.com/2021/10/16/world/americas/missionaries-kidnap-haiti.html) NYT: Up to 17 missionaries and their family members were taken by gang members in the capital of a country where kidnappings have become increasingly common. 
- <p class="updated_time"> 08:57 AM CT, Oct. 17 </p> 
- [Fespaco: Pomp and colour as Africa’s biggest film festival starts](https://www.bbc.co.uk/news/world-africa-58945414?at_medium=RSS&at_campaign=KARANGA) BBC: The Fespaco festival draws film fans from across the world to Burkina Faso. 
  <p class="updated_time"> 08:49 AM CT, Oct. 17 </p> 
  [Nigeria's Criminal Gangs Steal Munitions and Extort the Government](https://www.wsj.com/articles/nigerias-gangs-raised-millions-by-kidnapping-children-now-the-government-cant-stop-them-11634400009) WSJ: In the forests of northwest Nigeria, loosely organized criminal gangs that raised funds kidnapping schoolchildren are now flush with arms and operating beyond the reach of an increasingly fragile state. 
  <p class="updated_time"> 08:12 AM CT, Oct. 17 </p> 
