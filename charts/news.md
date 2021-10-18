@@ -6,6 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 05:15 AM CT, Oct. 18 </p> 
+ [Waterspout spectacle off the coast of Cuba](https://www.bbc.co.uk/news/world-latin-america-58952380?at_medium=RSS&at_campaign=KARANGA) BBC: Residents in Cienfuegos share footage of a waterspout which formed near the city. 
  <p class="updated_time"> 05:14 AM CT, Oct. 18 </p> 
  [Pedro Sánchez: Spanish PM vows to outlaw prostitution](https://www.bbc.co.uk/news/world-europe-58947172?at_medium=RSS&at_campaign=KARANGA) BBC: The UN estimates Spain's sex industry has become worth €3.7bn since decriminalisation in 1995. 
  <p class="updated_time"> 04:22 AM CT, Oct. 18 </p> 
@@ -22,8 +24,6 @@ permalink: /charts/news/
  [Myanmar to release 5,000 prisoners held over coup](https://www.bbc.co.uk/news/world-asia-58929644?at_medium=RSS&at_campaign=KARANGA) BBC: The leader of the military junta says they are being freed for humanitarian reasons. 
  <p class="updated_time"> 03:12 AM CT, Oct. 18 </p> 
  [Ronnie Tutt: 'Legendary' Elvis Presley drummer dies at 83](https://www.bbc.co.uk/news/entertainment-arts-58951519?at_medium=RSS&at_campaign=KARANGA) BBC: Tutt provided the backbeat for the King of Rock 'n' Roll's 1969 Taking Care of Business tour. 
- <p class="updated_time"> 02:11 AM CT, Oct. 18 </p> 
- [Sean Wainui: Maori All Blacks player dies in New Zealand car crash](https://www.bbc.co.uk/sport/rugby-union/58951718?at_medium=RSS&at_campaign=KARANGA) BBC: Tributes are paid to Maori All Blacks centre Sean Wainui after the 25-year-old dies in a car crash in New Zealand. 
  <p class="updated_time"> 02:05 AM CT, Oct. 18 </p> 
  [China's growth slowdown suggests recovery is losing steam](https://www.bbc.co.uk/news/business-58950551?at_medium=RSS&at_campaign=KARANGA) BBC: The world's second largest economy expanded by less than expected in the third quarter. 
  <p class="updated_time"> 11:44 PM CT, Oct. 17 </p> 
