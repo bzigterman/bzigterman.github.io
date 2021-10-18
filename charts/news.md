@@ -6,6 +6,10 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 11:38 PM CT, Oct. 17 </p> 
+ [For Christian Aid Ministries, Charity in Haiti Turns to Chaos](https://www.nytimes.com/2021/10/17/world/americas/amish-missionary-group-kidnap.html) NYT: An organization based in Ohio and founded by Amish and Mennonites has been swept up in the violence roiling the country. 
+ <p class="updated_time"> 11:22 PM CT, Oct. 17 </p> 
+ [Kerala floods: At least 24 killed as rescue operation continues](https://www.bbc.co.uk/news/world-asia-india-58940880?at_medium=RSS&at_campaign=KARANGA) BBC: Heavy rains cause rivers to overflow in Kerala, washing away homes and trapping people under debris. 
  <p class="updated_time"> 10:37 PM CT, Oct. 17 </p> 
  [Afghan girls are ‘left in darkness’ by the Taliban](https://www.bbc.co.uk/news/world-58950282?at_medium=RSS&at_campaign=KARANGA) BBC: BBC correspondent Yogita Limaye in Kabul asks the Taliban when girls can go back to school. 
  <p class="updated_time"> 10:12 PM CT, Oct. 17 </p> 
@@ -16,8 +20,6 @@ permalink: /charts/news/
  [China's GDP Growth Slows as Property and Energy Take a Toll](https://www.nytimes.com/2021/10/17/business/economy/china-economy-gdp.html) NYT: Growth of 4.9 percent shows the country’s huge industrial sector has run into trouble. But exports and services are looking strong. 
  <p class="updated_time"> 08:46 PM CT, Oct. 17 </p> 
  [Australian pair survive days without water in remote outback](https://www.bbc.co.uk/news/58949984?at_medium=RSS&at_campaign=KARANGA) BBC: The man and teenage boy endured up to four days without water in "harsh" conditions, police say. 
- <p class="updated_time"> 07:45 PM CT, Oct. 17 </p> 
- [For Christian Aid Ministries, Charity in Haiti Turns to Chaos](https://www.nytimes.com/2021/10/17/world/americas/amish-missionary-group-kidnap.html) NYT: An organization based in Ohio and founded by Amish and Mennonites has been swept up in the violence roiling the country. 
  <p class="updated_time"> 07:43 PM CT, Oct. 17 </p> 
  [Mass Abduction of U.S. Missionaries Startles Even Kidnap-Weary Haiti](https://www.nytimes.com/2021/10/17/world/americas/haiti-missionaries-kidnap.html) NYT: “Where is this country going?” Gang members seized 16 Americans and one Canadian, among them five children, as they visited an orphanage. 
  <p class="updated_time"> 07:10 PM CT, Oct. 17 </p> 
@@ -26,8 +28,6 @@ permalink: /charts/news/
  [Does a climate summit need 25,000 people? And more questions](https://www.bbc.co.uk/news/science-environment-58925049?at_medium=RSS&at_campaign=KARANGA) BBC: BBC science correspondent Matt McGrath answers your questions about Glasgow's COP26 climate summit. 
  <p class="updated_time"> 06:56 PM CT, Oct. 17 </p> 
  [I get abuse and threats online - why can't it be stopped?](https://www.bbc.co.uk/news/uk-58924168?at_medium=RSS&at_campaign=KARANGA) BBC: Online abuse against women is on the rise, but why aren't the police, government and social media sites doing more to stop it? 
- <p class="updated_time"> 06:46 PM CT, Oct. 17 </p> 
- [Kerala floods: Dozens missing in deadly India disaster](https://www.bbc.co.uk/news/world-asia-india-58940880?at_medium=RSS&at_campaign=KARANGA) BBC: Heavy rains cause rivers to overflow in Kerala, washing away homes and trapping people under debris. 
  <p class="updated_time"> 06:39 PM CT, Oct. 17 </p> 
  [Group of 16 Americans and a Canadian Kidnapped in Haiti](https://www.wsj.com/articles/group-of-16-americans-and-a-canadian-including-five-children-kidnapped-in-haiti-11634497450) WSJ: The State Department says it is working with Haitian authorities over a gang’s abduction of missionaries from an Ohio-based group. 
  <p class="updated_time"> 06:36 PM CT, Oct. 17 </p> 
