@@ -6,12 +6,16 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 02:02 PM CT, Oct. 18 </p> 
+ ['400 Mawozo' Gang Suspected in Kidnapping Among Haiti's Most Dangerous](https://www.nytimes.com/2021/10/17/world/americas/400-mawozo-haiti-kidnapping.html) NYT: The gang, called 400 Mawozo, captured several clergy members in April, and the local authorities say it is behind Saturday’s kidnapping. 
  <p class="updated_time"> 02:00 PM CT, Oct. 18 </p> 
  [In Haiti, Aid Group Workers Are Kidnapped](https://www.nytimes.com/2021/10/16/world/americas/missionaries-kidnap-haiti.html) NYT: Up to 17 missionaries and their family members were taken by gang members in the capital of a country where kidnappings have become increasingly common. 
  <p class="updated_time"> 01:58 PM CT, Oct. 18 </p> 
  [For Christian Aid Ministries, Charity in Haiti Turns to Chaos](https://www.nytimes.com/2021/10/17/world/americas/amish-missionary-group-kidnap.html) NYT: An organization based in Ohio and founded by Amish and Mennonites has been swept up in the violence roiling the country. 
  <p class="updated_time"> 01:58 PM CT, Oct. 18 </p> 
  [Mass Abduction of U.S. Missionaries Startles Even Kidnap-Weary Haiti](https://www.nytimes.com/2021/10/17/world/americas/haiti-missionaries-kidnap.html) NYT: “Where is this country going?” Gang members seized 16 Americans and one Canadian, among them five children, as they visited an orphanage. 
+ <p class="updated_time"> 01:47 PM CT, Oct. 18 </p> 
+ [Kerala floods: Couple sail to wedding in large cooking pot](https://www.bbc.co.uk/news/world-asia-india-58946565?at_medium=RSS&at_campaign=KARANGA) BBC: Images of the pair travelling to a temple in Kerala state amid flooding are widely shared online. 
  <p class="updated_time"> 01:46 PM CT, Oct. 18 </p> 
  [China's GDP Growth Slows as Property and Energy Take a Toll](https://www.nytimes.com/2021/10/17/business/economy/china-economy-gdp.html) NYT: Growth of 4.9 percent shows the country’s huge industrial sector has run into trouble. But exports and services are looking strong. 
  <p class="updated_time"> 12:59 PM CT, Oct. 18 </p> 
@@ -44,8 +48,6 @@ permalink: /charts/news/
  [Hello? This Is Colombia’s Antimachismo Hotline.](https://www.nytimes.com/2021/10/18/world/americas/colombia-machismo-hotline-masculinity.html) NYT: A new hotline in Bogotá takes calls from men struggling with jealousy, control and fear — and challenges long-held assumptions about masculinity. 
  <p class="updated_time"> 11:07 AM CT, Oct. 18 </p> 
  [Greta Thunberg sings Rick Astley hit at climate concert](https://www.bbc.co.uk/news/world-58952383?at_medium=RSS&at_campaign=KARANGA) BBC: Greta Thunberg sings Rick Astley's "Never Gonna Give You Up" to launch series of climate concerts. 
- <p class="updated_time"> 11:07 AM CT, Oct. 18 </p> 
- [Kerala floods: At least 26 killed as rescuers step up efforts](https://www.bbc.co.uk/news/world-asia-india-58940880?at_medium=RSS&at_campaign=KARANGA) BBC: Heavy rains cause rivers to overflow in Kerala, washing away homes and trapping people under debris. 
  <p class="updated_time"> 10:38 AM CT, Oct. 18 </p> 
  [Russia to suspend Nato diplomatic mission amid tension](https://www.bbc.co.uk/news/world-europe-58959386?at_medium=RSS&at_campaign=KARANGA) BBC: Nato expelled eight Russian diplomats earlier this month, saying they were intelligence officers. 
  <p class="updated_time"> 10:06 AM CT, Oct. 18 </p> 
@@ -122,8 +124,6 @@ permalink: /charts/news/
  [Town Rattled by Bow-and-Arrow Killings Ponders Terrorism and Mental Illness](https://www.nytimes.com/2021/10/17/world/europe/norway-bow-and-arrow-killings.html) NYT: The police in Norway, initially pointing to Islamic extremism, now say an attacker was “not well, mentally.” 
  <p class="updated_time"> 03:09 PM CT, Oct. 17 </p> 
  [What Is Christian Aid Ministries and What Does It Do in Haiti?](https://www.nytimes.com/2021/10/17/world/americas/what-is-christian-aid-ministries.html) NYT: The group, based in Ohio, distributes food and clothing, funds schools, teaches farming methods and helps with emergency relief. 
- <p class="updated_time"> 03:00 PM CT, Oct. 17 </p> 
- ['400 Mawozo' Gang Suspected in Kidnapping Among Haiti's Most Dangerous](https://www.nytimes.com/2021/10/17/world/americas/400-mawozo-haiti-kidnapping.html) NYT: The gang, called 400 Mawozo, captured several clergy members in April, and the local authorities say it is behind Saturday’s kidnapping. 
  <p class="updated_time"> 02:43 PM CT, Oct. 17 </p> 
  [Bill Clinton: Thumbs up as former US president leaves hospital](https://www.bbc.co.uk/news/world-us-canada-58947921?at_medium=RSS&at_campaign=KARANGA) BBC: The former US president is discharged from a Californian hospital accompanied by his wife Hillary. 
  <p class="updated_time"> 02:38 PM CT, Oct. 17 </p> 
