@@ -8,6 +8,8 @@ permalink: /charts/news/
 
  <p class="updated_time"> 06:34 PM CT, Oct. 18 </p> 
  [Your Monday Briefing](https://www.nytimes.com/2021/10/17/briefing/antiviral-pill-biden-climate-change.html) NYT: A new antiviral coronavirus pill. 
+ <p class="updated_time"> 06:33 PM CT, Oct. 18 </p> 
+ [Eric Zemmour: Far-right journalist cast as Macron election rival](https://www.bbc.co.uk/news/world-europe-58954015?at_medium=RSS&at_campaign=KARANGA) BBC: Eric Zemmour - tipped to run for the French presidency - is rebranding far-right nationalism. 
  <p class="updated_time"> 06:27 PM CT, Oct. 18 </p> 
  [Town Rattled by Bow-and-Arrow Killings Ponders Terrorism and Mental Illness](https://www.nytimes.com/2021/10/17/world/europe/norway-bow-and-arrow-killings.html) NYT: The police in Norway, initially pointing to Islamic extremism, now say an attacker was “not well, mentally.” 
  <p class="updated_time"> 06:27 PM CT, Oct. 18 </p> 
@@ -66,6 +68,8 @@ permalink: /charts/news/
  [Showdown Over Northern Ireland Has a Key Offstage Player: Biden](https://www.nytimes.com/2021/10/18/world/europe/ireland-biden-eu-uk.html) NYT: As the U.K. and the European Union begin their wrangling over details of trade with Northern Ireland, President Biden has more than a passing interest in the final result. 
  <p class="updated_time"> 12:28 PM CT, Oct. 18 </p> 
  [Mastermind of deadly 2016 Baghdad bombing caught, Iraq says](https://www.bbc.co.uk/news/world-middle-east-58957048?at_medium=RSS&at_campaign=KARANGA) BBC: Ghazwan al-Zawbaee is allegedly behind a 2016 attack on a shopping centre that killed 300 people. 
+ <p class="updated_time"> 12:25 PM CT, Oct. 18 </p> 
+ [The shortages hitting countries around the world](https://www.bbc.co.uk/news/explainers-58868636?at_medium=RSS&at_campaign=KARANGA) BBC: People and businesses across the world are facing shortages of everything from coal to coffee. 
  <p class="updated_time"> 12:14 PM CT, Oct. 18 </p> 
  [Norway attack: Victims killed with 'sharp object', not arrows](https://www.bbc.co.uk/news/world-europe-58956629?at_medium=RSS&at_campaign=KARANGA) BBC: Victims of last week's bow-and-arrow attack were actually killed by a "sharp object", police say. 
  <p class="updated_time"> 11:58 AM CT, Oct. 18 </p> 
@@ -100,8 +104,6 @@ permalink: /charts/news/
  [To Strike a Climate Deal, Poor Nations Say They Need Trillions From Rich Ones](https://www.wsj.com/articles/to-strike-a-climate-deal-poor-nations-say-they-need-trillions-from-rich-ones-11634568010) WSJ: Industrialized countries were already struggling to pay earlier commitments to help with clean-energy development and other infrastructure needs. Now the cost of buying cooperation has skyrocketed. 
  <p class="updated_time"> 05:15 AM CT, Oct. 18 </p> 
  [Waterspout spectacle off the coast of Cuba](https://www.bbc.co.uk/news/world-latin-america-58952380?at_medium=RSS&at_campaign=KARANGA) BBC: Residents in Cienfuegos share footage of a waterspout which formed near the city. 
- <p class="updated_time"> 04:22 AM CT, Oct. 18 </p> 
- [Apparently, it's the next big thing. What is the metaverse?](https://www.bbc.co.uk/news/technology-58749529?at_medium=RSS&at_campaign=KARANGA) BBC: What does it mean, and what have Facebook and Fortnite got to do with it? 
  <p class="updated_time"> 04:11 AM CT, Oct. 18 </p> 
  [China's Xi Flexes Power With Plan to Rewrite Communist Party History](https://www.wsj.com/articles/chinas-xi-flexes-power-with-plan-to-rewrite-communist-party-history-11634562713) WSJ: Historical resolution would put leader on par with Mao and Deng, signaling strength despite economic, diplomatic challenges 
  <p class="updated_time"> 04:00 AM CT, Oct. 18 </p> 
@@ -126,10 +128,6 @@ permalink: /charts/news/
  [Has Covid changed New York City nightlife forever?](https://www.bbc.co.uk/news/world-us-canada-58934445?at_medium=RSS&at_campaign=KARANGA) BBC: A photographer is confronted with the new reality of empty streets and closed clubs. 
  <p class="updated_time"> 06:13 PM CT, Oct. 17 </p> 
  [The climate activists who want Norway to end oil and gas production](https://www.bbc.co.uk/news/science-environment-58900652?at_medium=RSS&at_campaign=KARANGA) BBC: The BBC's Nick Beake meets the young climate activists trying to stop Norway drilling for oil and gas. 
- <p class="updated_time"> 06:10 PM CT, Oct. 17 </p> 
- [The nightmare of India's tallest rubbish mountain](https://www.bbc.co.uk/news/world-asia-india-58866834?at_medium=RSS&at_campaign=KARANGA) BBC: India's oldest and tallest mountain of rubbish in the city of Mumbai is 18 storeys high. 
- <p class="updated_time"> 06:07 PM CT, Oct. 17 </p> 
- [Covid: Thousands of children left without parents in Iran](https://www.bbc.co.uk/news/world-middle-east-58886923?at_medium=RSS&at_campaign=KARANGA) BBC: Thousands of children in Iran have been left without parents, and many people blame the leadership. 
  <p class="updated_time"> 06:06 PM CT, Oct. 17 </p> 
  [Your Monday Briefing](https://www.nytimes.com/2021/10/17/briefing/haiti-kidnapping-south-korea-draft.html) NYT: Haitian gang kidnaps missionaries. 
  <p class="updated_time"> 06:06 PM CT, Oct. 17 </p> 
@@ -158,16 +156,10 @@ permalink: /charts/news/
  [With Lawmaker’s Killing, U.K. Confronts a New Episode of Terrorism](https://www.nytimes.com/2021/10/16/world/europe/uk-stabbing-terrorism.html) NYT: The police conducted searches and questioned the suspect as Prime Minister Boris Johnson and other leaders paid respects to David Amess, who was fatally stabbed while meeting with constituents. 
  <p class="updated_time"> 09:39 PM CT, Oct. 16 </p> 
  [National Guard Called Up to Ease Crowding at Minnesota Hospitals ](https://www.nytimes.com/2021/10/16/world/americas/minnesota-governor-walz-national-guard-covid.html) NYT: Staffing shortages at long-term care facilities are preventing hospitals from discharging patients and admitting new ones. 
- <p class="updated_time"> 06:47 PM CT, Oct. 16 </p> 
- [The Chinese film beating Bond and Marvel at the box office](https://www.bbc.co.uk/news/world-asia-china-58868854?at_medium=RSS&at_campaign=KARANGA) BBC: The success of The Battle at Lake Changjin is bad news for Hollywood which wants to grow in China. 
  <p class="updated_time"> 06:17 PM CT, Oct. 16 </p> 
  [Airlines in Japan and South Korea Try Novel Ideas to Lure Fliers](https://www.nytimes.com/2021/10/16/world/japan-south-korea-airlines-covid-incentives.html) NYT: How about inexpensive passes good for a month of domestic flights? Or popular in-flight meals to on-the-ground customers? 
- <p class="updated_time"> 06:08 PM CT, Oct. 16 </p> 
- [How a massacre of Algerians in Paris was covered up](https://www.bbc.co.uk/news/world-africa-58927939?at_medium=RSS&at_campaign=KARANGA) BBC: French police killed at least 100 people in 1961, throwing some of them into the River Seine to drown them. 
  <p class="updated_time"> 04:19 PM CT, Oct. 16 </p> 
  [After Iraqi Election, a Shiite Leader Emerges as an Unlikely U.S. Ally](https://www.nytimes.com/2021/10/16/world/middleeast/iraq-sadr-election.html) NYT: The U.S. once threatened to kill Muqtada al-Sadr as his militia battled occupying forces. Now, the powerful cleric is helping Washington by keeping Iran at bay. 
- <p class="updated_time"> 02:20 PM CT, Oct. 16 </p> 
- [Sir David Amess killing: Security for politicians is a global dilemma](https://www.bbc.co.uk/news/world-58937581?at_medium=RSS&at_campaign=KARANGA) BBC: Why the need to be a people's representative and the need for personal safety are in constant conflict. 
  <p class="updated_time"> 12:41 PM CT, Oct. 16 </p> 
  [Catholic Church in Sicily Bans Godparents For Now](https://www.nytimes.com/2021/10/16/world/europe/italy-godfather-catholic-church.html) NYT: Part of the Catholic church in Sicily has imposed a three-year prohibition on naming godparents, arguing that the tradition has become merely a way to fortify family ties — and mob ties, too. 
  <p class="updated_time"> 12:18 PM CT, Oct. 16 </p> 
@@ -188,10 +180,6 @@ permalink: /charts/news/
  [Mining for Gold in Australia’s Migrant Past](https://www.nytimes.com/2021/10/15/world/asia/new-gold-mountain-chinese-immigrants.html) NYT: “New Gold Mountain” highlights the complications of belonging for immigrants then and now. 
  <p class="updated_time"> 08:33 PM CT, Oct. 15 </p> 
  [U.S. Pledges to Pay Family of Those Killed in Botched Kabul Drone Strike](https://www.nytimes.com/2021/10/15/us/politics/kabul-drone-strike-victims-payment.html) NYT: The Pentagon offered unspecified amounts to relatives of the 10 civilians who died in Aug. 29 attack and agreed to help relocate those who want to move to the U.S. 
- <p class="updated_time"> 08:14 PM CT, Oct. 15 </p> 
- [Shipping disruption: Why are so many queuing to get to the US?](https://www.bbc.co.uk/news/58926842?at_medium=RSS&at_campaign=KARANGA) BBC: A surge in demand for toys and sports equipment has contributed to logjams at US ports. 
- <p class="updated_time"> 07:57 PM CT, Oct. 15 </p> 
- [Week in pictures: 9 - 15 October 2021](https://www.bbc.co.uk/news/in-pictures-58911596?at_medium=RSS&at_campaign=KARANGA) BBC: A selection of powerful images from all over the globe, taken this week. 
  <p class="updated_time"> 06:58 PM CT, Oct. 15 </p> 
  [Italy's New Law Requires Workers to Get Covid Vaccine or Testing](https://www.nytimes.com/2021/10/15/world/europe/italy-vaccination-law-covid.html) NYT: The rollout went more or less smoothly, with only scattered protests, as the majority of citizens accepted the ‘Green Pass’ as a tolerable sacrifice to stem the Covid pandemic. 
  <p class="updated_time"> 03:13 PM CT, Oct. 15 </p> 
