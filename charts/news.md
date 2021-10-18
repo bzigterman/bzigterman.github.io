@@ -6,14 +6,14 @@ permalink: /charts/news/
 
 ## World News
 
- <p class="updated_time"> 03:15 PM CT, Oct. 18 </p> 
+ <p class="updated_time"> 03:30 PM CT, Oct. 18 </p> 
+ [U.K. Leaders Praise Slain Lawmaker Amid Heightened Security Concerns](https://www.nytimes.com/2021/10/18/world/europe/david-amess-attack-parliament.html) NYT: Prime Minister Boris Johnson and members of Parliament paid tribute to David Amess, who was fatally stabbed last week. 
+ <p class="updated_time"> 03:27 PM CT, Oct. 18 </p> 
  [F.B.I. Is Working in Haiti to Recover Kidnapped Missionaries](https://www.nytimes.com/2021/10/18/world/americas/haiti-protests.html) NYT: The agency is part of the U.S. effort to reach the 17 people taken by a gang on Saturday, in the latest example of the violence that is leaving Haitians desperate. 
  <p class="updated_time"> 02:54 PM CT, Oct. 18 </p> 
  [Russia Breaks Diplomatic Ties with NATO](https://www.nytimes.com/2021/10/18/world/europe/russia-nato.html) NYT: Moscow’s decision to end its diplomatic mission to the alliance will end a long, post-Cold War experiment in building trust between militaries. 
  <p class="updated_time"> 02:44 PM CT, Oct. 18 </p> 
  [Tigray: Ethiopian government admits Mekelle airstrike](https://www.bbc.co.uk/news/world-africa-58958022?at_medium=RSS&at_campaign=KARANGA) BBC: Officials had earlier denied the government was behind allegedly deadly attacks in the region. 
- <p class="updated_time"> 02:29 PM CT, Oct. 18 </p> 
- [U.K. Leaders Praise Slain Lawmaker Amid Heightened Security Concerns](https://www.nytimes.com/2021/10/18/world/europe/david-amess-attack-parliament.html) NYT: Prime Minister Boris Johnson and members of Parliament paid tribute to David Amess, who was fatally stabbed last week. 
  <p class="updated_time"> 02:21 PM CT, Oct. 18 </p> 
  [Russia to suspend Nato diplomatic mission amid tension](https://www.bbc.co.uk/news/world-europe-58959386?at_medium=RSS&at_campaign=KARANGA) BBC: Nato expelled eight Russian diplomats earlier this month, saying they were intelligence officers. 
  <p class="updated_time"> 02:17 PM CT, Oct. 18 </p> 
