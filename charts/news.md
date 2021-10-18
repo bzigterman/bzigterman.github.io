@@ -6,6 +6,10 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 05:16 PM CT, Oct. 18 </p> 
+ [An Official Wizard in New Zealand Loses His Job](https://www.nytimes.com/2021/10/18/world/australia/christchurch-new-zealand-wizard.html) NYT: The city of Christchurch has paid Ian Brackenbury Channell, 88, about $10,000 per year since 1998 for “acts of wizardry and other wizard-like services.” But he has been condemned recently for his jokes about women. 
+ <p class="updated_time"> 05:07 PM CT, Oct. 18 </p> 
+ [In Haiti, Aid Group Workers Are Kidnapped](https://www.nytimes.com/2021/10/16/world/americas/missionaries-kidnap-haiti.html) NYT: Up to 17 missionaries and their family members were taken by gang members in the capital of a country where kidnappings have become increasingly common. 
  <p class="updated_time"> 04:51 PM CT, Oct. 18 </p> 
  [Diver Discovers 900-Year-Old Sword Dating to the Crusades](https://www.nytimes.com/2021/10/18/world/middleeast/crusader-sword-found-israel.html) NYT: The sword, recovered off the coast of Israel, most likely belonged to a knight who fell into the sea or lost the weapon in battle, experts said. 
  <p class="updated_time"> 04:47 PM CT, Oct. 18 </p> 
@@ -32,20 +36,20 @@ permalink: /charts/news/
  [ Russia's Low Vaccination Rates Leads to Record-Breaking Toll](https://www.nytimes.com/2021/10/18/world/europe/russia-virus-vaccine.html) NYT: The country hit 1,000 deaths in a 24-hour period for the first time since the pandemic began, reflecting the risks of having a low vaccination rate. 
  <p class="updated_time"> 02:02 PM CT, Oct. 18 </p> 
  ['400 Mawozo' Gang Suspected in Kidnapping Among Haiti's Most Dangerous](https://www.nytimes.com/2021/10/17/world/americas/400-mawozo-haiti-kidnapping.html) NYT: The gang, called 400 Mawozo, captured several clergy members in April, and the local authorities say it is behind Saturday’s kidnapping. 
- <p class="updated_time"> 02:00 PM CT, Oct. 18 </p> 
- [In Haiti, Aid Group Workers Are Kidnapped](https://www.nytimes.com/2021/10/16/world/americas/missionaries-kidnap-haiti.html) NYT: Up to 17 missionaries and their family members were taken by gang members in the capital of a country where kidnappings have become increasingly common. 
  <p class="updated_time"> 01:58 PM CT, Oct. 18 </p> 
  [Mass Abduction of U.S. Missionaries Startles Even Kidnap-Weary Haiti](https://www.nytimes.com/2021/10/17/world/americas/haiti-missionaries-kidnap.html) NYT: “Where is this country going?” Gang members seized 16 Americans and one Canadian, among them five children, as they visited an orphanage. 
  <p class="updated_time"> 01:47 PM CT, Oct. 18 </p> 
  [Kerala floods: Couple sail to wedding in large cooking pot](https://www.bbc.co.uk/news/world-asia-india-58946565?at_medium=RSS&at_campaign=KARANGA) BBC: Images of the pair travelling to a temple in Kerala state amid flooding are widely shared online. 
  <p class="updated_time"> 01:46 PM CT, Oct. 18 </p> 
  [China's GDP Growth Slows as Property and Energy Take a Toll](https://www.nytimes.com/2021/10/17/business/economy/china-economy-gdp.html) NYT: Growth of 4.9 percent shows the country’s huge industrial sector has run into trouble. But exports and services are looking strong. 
+ <p class="updated_time"> 01:06 PM CT, Oct. 18 </p> 
+ [U.S. Afghan Envoy Stepping Down After Failure of Talks](https://www.wsj.com/articles/u-s-afghan-envoy-stepping-down-after-failure-of-talks-11634590893) WSJ: Zalmay Khalilzad, who served under both Trump and Biden, worked in Doha to reach an accord with the Taliban. 
  <p class="updated_time"> 12:59 PM CT, Oct. 18 </p> 
  [Will New Covid Treatments Be as Elusive for Poor Countries as Vaccines?](https://www.nytimes.com/2021/10/17/health/covid-treatment-access-molnupiravir.html) NYT: Merck has taken a step to make its antiviral pill available in poor nations, but many obstacles remain for broad access to coronavirus drugs. 
- <p class="updated_time"> 12:40 PM CT, Oct. 18 </p> 
- [An Official Wizard in New Zealand Loses His Job](https://www.nytimes.com/2021/10/18/world/australia/christchurch-new-zealand-wizard.html) NYT: The city of Christchurch has paid Ian Brackenbury Channell, 88, about $10,000 per year since 1998 for “acts of wizardry and other wizard-like services.” But he has been condemned recently for his jokes about women. 
+ <p class="updated_time"> 12:48 PM CT, Oct. 18 </p> 
+ [FBI Will Help Investigate Kidnapping of Missionaries in Haiti](https://www.wsj.com/articles/fbi-will-help-investigate-kidnapping-of-missionaries-in-haiti-11634593701) WSJ: Haitian officials say they are negotiating with a gang that carried out the abduction of 16 Americans and 1 Canadian, including 5 children. 
  <p class="updated_time"> 12:31 PM CT, Oct. 18 </p> 
- [Showdown Over Northern Ireland Has a Key Offstage Player: Biden](https://www.nytimes.com/2021/10/18/world/europe/showdown-over-northern-ireland-has-a-key-offstage-player-biden.html) NYT: As the U.K. and the European Union begin their wrangling over details of trade with Northern Ireland, President Biden has more than a passing interest in the final result. 
+ [Showdown Over Northern Ireland Has a Key Offstage Player: Biden](https://www.nytimes.com/2021/10/18/world/europe/ireland-biden-eu-uk.html) NYT: As the U.K. and the European Union begin their wrangling over details of trade with Northern Ireland, President Biden has more than a passing interest in the final result. 
  <p class="updated_time"> 12:28 PM CT, Oct. 18 </p> 
  [Mastermind of deadly 2016 Baghdad bombing caught, Iraq says](https://www.bbc.co.uk/news/world-middle-east-58957048?at_medium=RSS&at_campaign=KARANGA) BBC: Ghazwan al-Zawbaee is allegedly behind a 2016 attack on a shopping centre that killed 300 people. 
  <p class="updated_time"> 12:14 PM CT, Oct. 18 </p> 
@@ -66,8 +70,6 @@ permalink: /charts/news/
  [Greta Thunberg sings Rick Astley hit at climate concert](https://www.bbc.co.uk/news/world-58952383?at_medium=RSS&at_campaign=KARANGA) BBC: Greta Thunberg sings Rick Astley's "Never Gonna Give You Up" to launch series of climate concerts. 
  <p class="updated_time"> 10:06 AM CT, Oct. 18 </p> 
  [Myanmar Announces Amnesty for Thousands of Anti-Coup Protesters](https://www.nytimes.com/2021/10/18/world/asia/myanmar-military-amnesty-protesters.html) NYT: The junta, which seized power in February, said it was releasing the prisoners to mark the Lighting Festival, a three-day holiday that begins Tuesday. 
- <p class="updated_time"> 09:53 AM CT, Oct. 18 </p> 
- [Climate Finance Falling Short, Report Suggests](https://www.wsj.com/articles/global-climate-finance-falling-short-of-what-is-needed-report-suggests-11634583222) WSJ: Global investment in climate-change-related projects rose in 2019 and 2020, but remained far below the level that would be needed to finance the transition to a low-carbon economy and minimize the impacts of climate change, new data showed. 
  <p class="updated_time"> 09:39 AM CT, Oct. 18 </p> 
  [Yukon Territory Imposes Vaccine Mandate Amid Rise in Cases](https://www.nytimes.com/2021/10/16/world/yukon-vaccine-mandate.html) NYT: Health care workers and others in the Yukon must be fully vaccinated by Nov. 30. The territory is also starting a vaccination passport program. 
  <p class="updated_time"> 09:22 AM CT, Oct. 18 </p> 
@@ -82,8 +84,6 @@ permalink: /charts/news/
  [Peter R de Vries: Suspect denies knowledge of Dutch reporter's murder](https://www.bbc.co.uk/news/world-europe-58955373?at_medium=RSS&at_campaign=KARANGA) BBC: The suspect appears in court alongside a man accused of shooting Peter R de Vries in Amsterdam. 
  <p class="updated_time"> 07:30 AM CT, Oct. 18 </p> 
  [COP26: Does a climate summit need 25,000 people? And more questions](https://www.bbc.co.uk/news/science-environment-58925049?at_medium=RSS&at_campaign=KARANGA) BBC: BBC science correspondent Matt McGrath answers your questions about Glasgow's COP26 climate summit. 
- <p class="updated_time"> 06:59 AM CT, Oct. 18 </p> 
- [U.K. House of Commons Pays Tribute to Slain Lawmaker](https://www.wsj.com/articles/david-amess-honored-in-house-of-commons-tribute-to-slain-lawmaker-11634572767) WSJ: Police continue to question a suspect and are seeking motives for why David Amess was targeted in a suspected terrorist attack last week. 
  <p class="updated_time"> 06:54 AM CT, Oct. 18 </p> 
  [Prince William's Earthshot Prize Honors Costa Rica and Milan in Climate Fight](https://www.nytimes.com/2021/10/17/climate/earthshot-prizes-costa-rica-milan.html) NYT: Costa Rica and the city of Milan were among the five winners that each received one million pounds, or nearly $1.4 million, to continue sustainability and conservation efforts during a ceremony in London. 
  <p class="updated_time"> 06:10 AM CT, Oct. 18 </p> 
@@ -114,8 +114,6 @@ permalink: /charts/news/
  [How energy flexibility can save us money and cut carbon](https://www.bbc.co.uk/news/science-environment-58898999?at_medium=RSS&at_campaign=KARANGA) BBC: Making energy supply to homes and businesses more flexible could help the UK meet its climate goals. 
  <p class="updated_time"> 06:56 PM CT, Oct. 17 </p> 
  [I get abuse and threats online - why can't it be stopped?](https://www.bbc.co.uk/news/uk-58924168?at_medium=RSS&at_campaign=KARANGA) BBC: Online abuse against women is on the rise, but why aren't the police, government and social media sites doing more to stop it? 
- <p class="updated_time"> 06:39 PM CT, Oct. 17 </p> 
- [Group of 16 Americans and a Canadian Kidnapped in Haiti](https://www.wsj.com/articles/group-of-16-americans-and-a-canadian-including-five-children-kidnapped-in-haiti-11634497450) WSJ: The State Department says it is working with Haitian authorities over a gang’s abduction of missionaries from an Ohio-based group. 
  <p class="updated_time"> 06:36 PM CT, Oct. 17 </p> 
  [Iran's Covid 'orphans': 'She keeps asking where daddy is'](https://www.bbc.co.uk/news/world-58934632?at_medium=RSS&at_campaign=KARANGA) BBC: Around 51,000 children in Iran have lost a parent to Covid, according to officials. 
  <p class="updated_time"> 06:35 PM CT, Oct. 17 </p> 
@@ -202,8 +200,6 @@ permalink: /charts/news/
  [Why China's climate policy matters to us all](https://www.bbc.co.uk/news/world-asia-china-57483492?at_medium=RSS&at_campaign=KARANGA) BBC: The global battle against climate change is likely to be won or lost in China. 
  <p class="updated_time"> 07:50 AM CT, Oct. 13 </p> 
  [What is climate change? A really simple guide](https://www.bbc.co.uk/news/science-environment-24021772?at_medium=RSS&at_campaign=KARANGA) BBC: World temperatures are rising because of human activity, and climate change now threatens every aspect of human life. 
- <p class="updated_time"> 05:16 PM CT, Oct. 11 </p> 
- [Black scientists say UK research is institutionally racist](https://www.bbc.co.uk/news/science-environment-58795079?at_medium=RSS&at_campaign=KARANGA) BBC: Senior black scientists tell the BBC they believe UK science to be "institutionally racist". 
 
 
 
