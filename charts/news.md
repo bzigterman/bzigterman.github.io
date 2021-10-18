@@ -8,6 +8,8 @@ permalink: /charts/news/
 
  <p class="updated_time"> 03:19 AM CT, Oct. 18 </p> 
  [Taiwan Couple Is Suspected of Negligent Homicide in Building Fire](https://www.nytimes.com/2021/10/18/world/asia/taiwan-building-fire.html) NYT: Prosecutors accused a woman of leaving a burning incense coil unattended in the building in Kaohsiung. Her partner was accused of failing to remind her to douse the coil before leaving. 
+ <p class="updated_time"> 03:12 AM CT, Oct. 18 </p> 
+ [Ronnie Tutt: 'Legendary' Elvis Presley drummer dies at 83](https://www.bbc.co.uk/news/entertainment-arts-58951519?at_medium=RSS&at_campaign=KARANGA) BBC: Tutt provided the backbeat for the King of Rock 'n' Roll's 1969 Taking Care of Business tour. 
  <p class="updated_time"> 02:11 AM CT, Oct. 18 </p> 
  [Sean Wainui: Maori All Blacks player dies in New Zealand car crash](https://www.bbc.co.uk/sport/rugby-union/58951718?at_medium=RSS&at_campaign=KARANGA) BBC: Tributes are paid to Maori All Blacks centre Sean Wainui after the 25-year-old dies in a car crash in New Zealand. 
  <p class="updated_time"> 02:05 AM CT, Oct. 18 </p> 
@@ -110,8 +112,6 @@ permalink: /charts/news/
  [Syria Accuses Israel of Assassinating Official Near Golan Heights](https://www.nytimes.com/2021/10/16/world/syria-accuses-israel-of-assassinating-official-near-golan-heights.html) NYT: Midhat Saleh, who oversaw the strategic Golan Heights boundary for Syria, was shot and killed by a sniper, the government said. 
  <p class="updated_time"> 05:15 AM CT, Oct. 17 </p> 
  [South Korea Reconsiders a Rite of Manhood: The Draft](https://www.nytimes.com/2021/10/17/world/asia/south-korea-conscription.html) NYT: Military conscription has become less popular. The rules have loosened. But experts still worry about the threat from the North. 
- <p class="updated_time"> 03:24 AM CT, Oct. 17 </p> 
- [Russian team back on Earth after filming first movie in space](https://www.bbc.co.uk/news/world-europe-58944660?at_medium=RSS&at_campaign=KARANGA) BBC: The Russian film crew return after an ISS shoot that had its own moments of drama. 
  <p class="updated_time"> 01:37 AM CT, Oct. 17 </p> 
  [Afghan Resettlement Effort Slowed by Housing, Tech Constraints](https://www.wsj.com/articles/u-s-afghan-resettlements-slowed-by-housing-shortage-old-technology-11634463001) WSJ: The U.S. push to resettle evacuees is set to take months longer than first expected as a measles scare, a nationwide housing shortage and paperwork delays have slowed the process. 
  <p class="updated_time"> 11:52 PM CT, Oct. 16 </p> 
