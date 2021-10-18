@@ -6,8 +6,12 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 10:12 PM CT, Oct. 17 </p> 
+ [Your Monday Briefing](https://www.nytimes.com/2021/10/17/briefing/antiviral-pill-biden-climate-change.html) NYT: A new antiviral coronavirus pill. 
  <p class="updated_time"> 09:41 PM CT, Oct. 17 </p> 
  [Washington Hears Echoes of the ’50s and Worries: Is This a Cold War With China?](https://www.nytimes.com/2021/10/17/us/politics/china-new-cold-war.html) NYT: Incursions into Taiwan’s air zone, a space launch and what looked like a prisoner swap raise a question that is about more than just semantics. It could signal a dangerous new mind-set. 
+ <p class="updated_time"> 09:34 PM CT, Oct. 17 </p> 
+ [China's GDP Growth Slows as Property and Energy Take a Toll](https://www.nytimes.com/2021/10/17/business/economy/china-economy-gdp.html) NYT: Growth of 4.9 percent shows the country’s huge industrial sector has run into trouble. But exports and services are looking strong. 
  <p class="updated_time"> 07:45 PM CT, Oct. 17 </p> 
  [For Christian Aid Ministries, Charity in Haiti Turns to Chaos](https://www.nytimes.com/2021/10/17/world/americas/amish-missionary-group-kidnap.html) NYT: An organization based in Ohio and founded by Amish and Mennonites has been swept up in the violence roiling the country. 
  <p class="updated_time"> 07:43 PM CT, Oct. 17 </p> 
@@ -32,6 +36,8 @@ permalink: /charts/news/
  [The nightmare of India's tallest rubbish mountain](https://www.bbc.co.uk/news/world-asia-india-58866834?at_medium=RSS&at_campaign=KARANGA) BBC: India's oldest and tallest mountain of rubbish in the city of Mumbai is 18 storeys high. 
  <p class="updated_time"> 06:07 PM CT, Oct. 17 </p> 
  [Covid: Thousands of children left without parents in Iran](https://www.bbc.co.uk/news/world-middle-east-58886923?at_medium=RSS&at_campaign=KARANGA) BBC: Thousands of children in Iran have been left without parents, and many people blame the leadership. 
+ <p class="updated_time"> 06:07 PM CT, Oct. 17 </p> 
+ [China Third-Quarter Economic Growth Slows Sharply to 4.9%](https://www.wsj.com/articles/china-third-quarter-economic-growth-slows-sharply-to-4-9-11634522925) WSJ: China’s economy grew 4.9% in the third quarter from a year earlier, slowing sharply from the previous period, as power shortages and supply-chain problems added to the impact from Beijing’s efforts to rein in the real estate and technology sectors. 
  <p class="updated_time"> 06:06 PM CT, Oct. 17 </p> 
  [Your Monday Briefing](https://www.nytimes.com/2021/10/17/briefing/haiti-kidnapping-south-korea-draft.html) NYT: Haitian gang kidnaps missionaries. 
  <p class="updated_time"> 06:06 PM CT, Oct. 17 </p> 
@@ -42,8 +48,6 @@ permalink: /charts/news/
  [Indian State Evicts Muslims, Even Those Living There Legally](https://www.nytimes.com/2021/10/17/world/asia/india-assam-muslim-evictions.html) NYT: Critics say an Indian state’s campaign to expel longtime residents on government land marks the ruling party’s latest campaign against Muslims. 
  <p class="updated_time"> 05:22 PM CT, Oct. 17 </p> 
  [Town Rattled by Bow-and-Arrow Killings Ponders Terrorism and Mental Illness](https://www.nytimes.com/2021/10/17/world/europe/norway-bow-and-arrow-killings.html) NYT: The police in Norway, initially pointing to Islamic extremism, now say an attacker was “not well, mentally.” 
- <p class="updated_time"> 05:08 PM CT, Oct. 17 </p> 
- [China Third-Quarter Economic Growth Slows Sharply to 4.9%](https://www.wsj.com/articles/china-third-quarter-economic-growth-slows-sharply-to-4-9-11634522925) WSJ: China’s economy grew 4.9% in the third quarter from a year earlier, slowing sharply from the previous period, as power shortages and supply-chain problems added to the impact from Beijing’s efforts to rein in the real estate and technology sectors. 
  <p class="updated_time"> 05:07 PM CT, Oct. 17 </p> 
  [Belarus: French ambassador leaves Minsk after Minsk expels him](https://www.bbc.co.uk/news/world-europe-58949524?at_medium=RSS&at_campaign=KARANGA) BBC: France, among other countries, does not recognise the president's claim to a sixth term. 
  <p class="updated_time"> 04:15 PM CT, Oct. 17 </p> 
@@ -182,10 +186,6 @@ permalink: /charts/news/
  [As Italy Mandates Covid Passes, Rules Vary Across Europe](https://www.nytimes.com/2021/10/15/world/europe/covid-passes.html) NYT: Varying measures reflect domestic politics and potential opposition against such rules. 
  <p class="updated_time"> 06:58 AM CT, Oct. 15 </p> 
  [Hate Crimes and Pandemic Lead More Asian Americans to Seek Therapy](https://www.nytimes.com/2021/10/15/us/asian-american-therapy-hate-crimes.html) NYT: A growing number of Asian Americans have overcome a cultural stigma attached to seeking mental health treatment, experts said. 
- <p class="updated_time"> 03:39 AM CT, Oct. 15 </p> 
- [Man Whose Attack on Ex-Wife Was Livestreamed Gets Death Penalty in China](https://www.nytimes.com/2021/10/15/world/asia/china-livestream-killing-abuse.html) NYT: The case riveted the public’s attention in China and spotlighted the patchy enforcement of the country’s law against domestic violence. 
- <p class="updated_time"> 11:09 PM CT, Oct. 14 </p> 
- [Your Friday Briefing](https://www.nytimes.com/2021/10/15/briefing/beirut-fighting-pandemic-america.html) NYT: The state of the pandemic in the U.S. 
  <p class="updated_time"> 05:16 PM CT, Oct. 11 </p> 
  [Black scientists say UK research is institutionally racist](https://www.bbc.co.uk/news/science-environment-58795079?at_medium=RSS&at_campaign=KARANGA) BBC: Senior black scientists tell the BBC they believe UK science to be "institutionally racist". 
 
