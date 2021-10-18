@@ -33,7 +33,7 @@ permalink: /charts/news/
  <p class="updated_time"> 06:39 PM CT, Oct. 17 </p> 
  [Group of 16 Americans and a Canadian Kidnapped in Haiti](https://www.wsj.com/articles/group-of-16-americans-and-a-canadian-including-five-children-kidnapped-in-haiti-11634497450) WSJ: The State Department says it is working with Haitian authorities over a gang’s abduction of missionaries from an Ohio-based group. 
  <p class="updated_time"> 06:36 PM CT, Oct. 17 </p> 
- [Iran's Covid orphans: 'She keeps asking where daddy is'](https://www.bbc.co.uk/news/world-58934632?at_medium=RSS&at_campaign=KARANGA) BBC: Around 51,000 children in Iran have lost a parent to Covid, according to officials. 
+ [Iran's Covid 'orphans': 'She keeps asking where daddy is'](https://www.bbc.co.uk/news/world-58934632?at_medium=RSS&at_campaign=KARANGA) BBC: Around 51,000 children in Iran have lost a parent to Covid, according to officials. 
  <p class="updated_time"> 06:35 PM CT, Oct. 17 </p> 
  [The Nigerians who want Israel to accept them as Jews](https://www.bbc.co.uk/news/world-africa-58917825?at_medium=RSS&at_campaign=KARANGA) BBC: A small Nigerian community claims Jewish ancestry dating hundreds of years but Israel does not recognise them. 
  <p class="updated_time"> 06:33 PM CT, Oct. 17 </p> 
@@ -83,7 +83,7 @@ permalink: /charts/news/
  <p class="updated_time"> 11:55 AM CT, Oct. 17 </p> 
  [Bill Clinton: Former US president discharged from hospital](https://www.bbc.co.uk/news/world-us-canada-58947175?at_medium=RSS&at_campaign=KARANGA) BBC: The 75-year-old had been receiving treatment for a blood infection in California. 
  <p class="updated_time"> 11:49 AM CT, Oct. 17 </p> 
- [Pedro Sanchez: Spanish PM vows to abolish prostitution](https://www.bbc.co.uk/news/world-europe-58947172?at_medium=RSS&at_campaign=KARANGA) BBC: The UN estimates Spain's sex industry has become worth €3.7 billion since decriminalisation in 1995. 
+ [Pedro Sanchez: Spanish PM vows to outlaw prostitution](https://www.bbc.co.uk/news/world-europe-58947172?at_medium=RSS&at_campaign=KARANGA) BBC: The UN estimates Spain's sex industry has become worth €3.7 billion since decriminalisation in 1995. 
  <p class="updated_time"> 11:17 AM CT, Oct. 17 </p> 
  [Tunisians Recall Revolution Reluctantly, if at All: ‘It Just Faded Away’](https://www.nytimes.com/2021/10/17/world/middleeast/tunisia-revolution-memoro-monuments.html) NYT: When a monument to those killed in the 2011 uprising was recently damaged, few took notice or even cared in a town, and country, where there is now more regret than a wish to remember. 
  <p class="updated_time"> 11:00 AM CT, Oct. 17 </p> 
