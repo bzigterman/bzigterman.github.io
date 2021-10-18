@@ -6,6 +6,16 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 06:34 PM CT, Oct. 18 </p> 
+ [Your Monday Briefing](https://www.nytimes.com/2021/10/17/briefing/antiviral-pill-biden-climate-change.html) NYT: A new antiviral coronavirus pill. 
+ <p class="updated_time"> 06:27 PM CT, Oct. 18 </p> 
+ [Town Rattled by Bow-and-Arrow Killings Ponders Terrorism and Mental Illness](https://www.nytimes.com/2021/10/17/world/europe/norway-bow-and-arrow-killings.html) NYT: The police in Norway, initially pointing to Islamic extremism, now say an attacker was “not well, mentally.” 
+ <p class="updated_time"> 06:27 PM CT, Oct. 18 </p> 
+ [Russia Breaks Diplomatic Ties With NATO](https://www.nytimes.com/2021/10/18/world/europe/russia-nato.html) NYT: Moscow’s decision to end its diplomatic mission to the alliance will end a long, post-Cold War experiment in building trust between militaries. 
+ <p class="updated_time"> 06:24 PM CT, Oct. 18 </p> 
+ [Ahmaud Arbery: Trial over black jogger's death begins](https://www.bbc.co.uk/news/world-us-canada-58931529?at_medium=RSS&at_campaign=KARANGA) BBC: The three men involved in ambushing and shooting the jogger face murder and assault charges. 
+ <p class="updated_time"> 06:19 PM CT, Oct. 18 </p> 
+ [In Haiti, Aid Group Workers Are Kidnapped](https://www.nytimes.com/2021/10/16/world/americas/missionaries-kidnap-haiti.html) NYT: Up to 17 missionaries and their family members were taken by gang members in the capital of a country where kidnappings have become increasingly common. 
  <p class="updated_time"> 06:11 PM CT, Oct. 18 </p> 
  [Afghanistan: US envoy Zalmay Khalilzad steps down after withdrawal](https://www.bbc.co.uk/news/world-us-canada-58946566?at_medium=RSS&at_campaign=KARANGA) BBC: Zalmay Khalilzad led talks with the Taliban that resulted in a deal to fully withdraw US troops. 
  <p class="updated_time"> 06:11 PM CT, Oct. 18 </p> 
@@ -18,8 +28,6 @@ permalink: /charts/news/
  [Trudeau visits First Nation to apologise after holiday snub](https://www.bbc.co.uk/news/world-us-canada-58961940?at_medium=RSS&at_campaign=KARANGA) BBC: His apology comes two weeks after he skipped an event on the first Truth and Reconciliation Day. 
  <p class="updated_time"> 05:16 PM CT, Oct. 18 </p> 
  [An Official Wizard in New Zealand Loses His Job](https://www.nytimes.com/2021/10/18/world/australia/christchurch-new-zealand-wizard.html) NYT: The city of Christchurch has paid Ian Brackenbury Channell, 88, about $10,000 per year since 1998 for “acts of wizardry and other wizard-like services.” But he has been condemned recently for his jokes about women. 
- <p class="updated_time"> 05:07 PM CT, Oct. 18 </p> 
- [In Haiti, Aid Group Workers Are Kidnapped](https://www.nytimes.com/2021/10/16/world/americas/missionaries-kidnap-haiti.html) NYT: Up to 17 missionaries and their family members were taken by gang members in the capital of a country where kidnappings have become increasingly common. 
  <p class="updated_time"> 04:51 PM CT, Oct. 18 </p> 
  [Diver Discovers 900-Year-Old Sword Dating to the Crusades](https://www.nytimes.com/2021/10/18/world/middleeast/crusader-sword-found-israel.html) NYT: The sword, recovered off the coast of Israel, most likely belonged to a knight who fell into the sea or lost the weapon in battle, experts said. 
  <p class="updated_time"> 04:47 PM CT, Oct. 18 </p> 
@@ -34,8 +42,6 @@ permalink: /charts/news/
  [Your Tuesday Briefing](https://www.nytimes.com/2021/10/18/briefing/russia-covid-nato-china-banks.html) NYT: Russia hits a Covid death record. 
  <p class="updated_time"> 03:53 PM CT, Oct. 18 </p> 
  [Police Search for Motive in British Lawmaker’s Killing](https://www.nytimes.com/2021/10/17/world/europe/uk-stabbing-attack.html) NYT: An attack has rekindled questions about the security of members of Parliament. 
- <p class="updated_time"> 02:54 PM CT, Oct. 18 </p> 
- [Russia Breaks Diplomatic Ties with NATO](https://www.nytimes.com/2021/10/18/world/europe/russia-nato.html) NYT: Moscow’s decision to end its diplomatic mission to the alliance will end a long, post-Cold War experiment in building trust between militaries. 
  <p class="updated_time"> 02:44 PM CT, Oct. 18 </p> 
  [Tigray: Ethiopian government admits Mekelle airstrike](https://www.bbc.co.uk/news/world-africa-58958022?at_medium=RSS&at_campaign=KARANGA) BBC: Officials had earlier denied the government was behind allegedly deadly attacks in the region. 
  <p class="updated_time"> 02:21 PM CT, Oct. 18 </p> 
@@ -70,8 +76,6 @@ permalink: /charts/news/
  [Colin Powell: Former US secretary of state dies of Covid complications](https://www.bbc.co.uk/news/world-us-canada-58957273?at_medium=RSS&at_campaign=KARANGA) BBC: The ex-US secretary of state, the first African-American in that role, dies of Covid complications. 
  <p class="updated_time"> 11:18 AM CT, Oct. 18 </p> 
  [China denies testing nuclear-capable hypersonic missile](https://www.bbc.co.uk/news/world-asia-china-58953352?at_medium=RSS&at_campaign=KARANGA) BBC: The report in the Financial Times newspaper reportedly caught US intelligence by surprise. 
- <p class="updated_time"> 11:15 AM CT, Oct. 18 </p> 
- [Ahmaud Arbery: Trial over black jogger's death begins](https://www.bbc.co.uk/news/world-us-canada-58931529?at_medium=RSS&at_campaign=KARANGA) BBC: The three men involved in ambushing and shooting the jogger face murder and assault charges. 
  <p class="updated_time"> 11:13 AM CT, Oct. 18 </p> 
  [Hello? This Is Colombia’s Antimachismo Hotline.](https://www.nytimes.com/2021/10/18/world/americas/colombia-machismo-hotline-masculinity.html) NYT: A new hotline in Bogotá takes calls from men struggling with jealousy, control and fear — and challenges long-held assumptions about masculinity. 
  <p class="updated_time"> 11:07 AM CT, Oct. 18 </p> 
@@ -86,8 +90,6 @@ permalink: /charts/news/
  [Robert Durst, Millionaire Convicted of Murder, on Ventilator With Covid](https://www.nytimes.com/2021/10/16/world/robert-durst-covid-ventilator.html) NYT: The 78-year-old millionaire and former real estate mogul was sentenced to life in prison on Thursday for the murder of a friend in 2000. 
  <p class="updated_time"> 08:19 AM CT, Oct. 18 </p> 
  [Taiwan Couple Are Suspected of Negligent Homicide in Building Fire](https://www.nytimes.com/2021/10/18/world/asia/taiwan-building-fire.html) NYT: Prosecutors accused a woman of leaving a burning incense coil unattended in the building in Kaohsiung. Her partner was accused of failing to remind her to douse the coil before leaving. 
- <p class="updated_time"> 07:34 AM CT, Oct. 18 </p> 
- [Peter R de Vries: Suspect denies knowledge of Dutch reporter's murder](https://www.bbc.co.uk/news/world-europe-58955373?at_medium=RSS&at_campaign=KARANGA) BBC: The suspect appears in court alongside a man accused of shooting Peter R de Vries in Amsterdam. 
  <p class="updated_time"> 07:30 AM CT, Oct. 18 </p> 
  [COP26: Does a climate summit need 25,000 people? And more questions](https://www.bbc.co.uk/news/science-environment-58925049?at_medium=RSS&at_campaign=KARANGA) BBC: BBC science correspondent Matt McGrath answers your questions about Glasgow's COP26 climate summit. 
  <p class="updated_time"> 06:54 AM CT, Oct. 18 </p> 
@@ -108,8 +110,6 @@ permalink: /charts/news/
  [World Bank Mishandled Claims of Sexual Harassment, Tribunal Says](https://www.wsj.com/articles/world-bank-mishandled-sexual-harassment-claims-internal-tribunal-says-11634554802) WSJ: An internal labor tribunal found the bank ignored allegations of sexual harassment by a senior official, now a Costa Rican presidential candidate. 
  <p class="updated_time"> 12:59 AM CT, Oct. 18 </p> 
  [China Faces Slower Growth as It Pursues Long-Term Reforms](https://www.wsj.com/articles/china-faces-slower-growth-path-as-it-pursues-longer-term-reforms-11634551142) WSJ: With its pandemic recovery in the rear-view mirror, China now faces a prolonged period of slower growth with increasing policy uncertainties as Beijing attempts to carry out ambitious long-term reforms. 
- <p class="updated_time"> 10:12 PM CT, Oct. 17 </p> 
- [Your Monday Briefing](https://www.nytimes.com/2021/10/17/briefing/antiviral-pill-biden-climate-change.html) NYT: A new antiviral coronavirus pill. 
  <p class="updated_time"> 09:41 PM CT, Oct. 17 </p> 
  [Washington Hears Echoes of the ’50s and Worries: Is This a Cold War With China?](https://www.nytimes.com/2021/10/17/us/politics/china-new-cold-war.html) NYT: Incursions into Taiwan’s air zone, a space launch and what looked like a prisoner swap raise a question that is about more than just semantics. It could signal a dangerous new mind-set. 
  <p class="updated_time"> 09:00 PM CT, Oct. 17 </p> 
@@ -122,6 +122,8 @@ permalink: /charts/news/
  [Iran's Covid 'orphans': 'She keeps asking where daddy is'](https://www.bbc.co.uk/news/world-58934632?at_medium=RSS&at_campaign=KARANGA) BBC: Around 51,000 children in Iran have lost a parent to Covid, according to officials. 
  <p class="updated_time"> 06:35 PM CT, Oct. 17 </p> 
  [The Nigerians who want Israel to accept them as Jews](https://www.bbc.co.uk/news/world-africa-58917825?at_medium=RSS&at_campaign=KARANGA) BBC: A small Nigerian community claims Jewish ancestry dating hundreds of years but Israel does not recognise them. 
+ <p class="updated_time"> 06:33 PM CT, Oct. 17 </p> 
+ [Has Covid changed New York City nightlife forever?](https://www.bbc.co.uk/news/world-us-canada-58934445?at_medium=RSS&at_campaign=KARANGA) BBC: A photographer is confronted with the new reality of empty streets and closed clubs. 
  <p class="updated_time"> 06:13 PM CT, Oct. 17 </p> 
  [The climate activists who want Norway to end oil and gas production](https://www.bbc.co.uk/news/science-environment-58900652?at_medium=RSS&at_campaign=KARANGA) BBC: The BBC's Nick Beake meets the young climate activists trying to stop Norway drilling for oil and gas. 
  <p class="updated_time"> 06:10 PM CT, Oct. 17 </p> 
@@ -134,8 +136,6 @@ permalink: /charts/news/
  [You may be able to book a flying taxi within three years](https://www.bbc.co.uk/news/business-58895259?at_medium=RSS&at_campaign=KARANGA) BBC: Firms are racing to bring flying taxis and the mini-airports they need into service. 
  <p class="updated_time"> 05:40 PM CT, Oct. 17 </p> 
  [India Evicts Muslims in Assam, Even Those Living There Legally](https://www.nytimes.com/2021/10/17/world/asia/india-assam-muslim-evictions.html) NYT: Critics say an Indian state’s campaign to expel longtime residents on government land marks the ruling party’s latest campaign against Muslims. 
- <p class="updated_time"> 05:22 PM CT, Oct. 17 </p> 
- [Town Rattled by Bow-and-Arrow Killings Ponders Terrorism and Mental Illness](https://www.nytimes.com/2021/10/17/world/europe/norway-bow-and-arrow-killings.html) NYT: The police in Norway, initially pointing to Islamic extremism, now say an attacker was “not well, mentally.” 
  <p class="updated_time"> 03:09 PM CT, Oct. 17 </p> 
  [What Is Christian Aid Ministries and What Does It Do in Haiti?](https://www.nytimes.com/2021/10/17/world/americas/what-is-christian-aid-ministries.html) NYT: The group, based in Ohio, distributes food and clothing, funds schools, teaches farming methods and helps with emergency relief. 
  <p class="updated_time"> 12:45 PM CT, Oct. 17 </p> 
