@@ -6,12 +6,14 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 02:49 PM CT, Oct. 18 </p> 
+ [F.B.I. Working on Mass Kidnapping in Haiti as Protests Against Lawlessness Erupt](https://www.nytimes.com/2021/10/18/world/americas/haiti-protests.html) NYT: The F.B.I. is part of the effort to rescue missionaries who were kidnapped on Saturday, in the latest example of violence that is leaving Haitians desperate. 
+ <p class="updated_time"> 02:44 PM CT, Oct. 18 </p> 
+ [Tigray: Ethiopian government admits Mekelle airstrike](https://www.bbc.co.uk/news/world-africa-58958022?at_medium=RSS&at_campaign=KARANGA) BBC: Officials had earlier denied the government was behind allegedly deadly attacks in the region. 
  <p class="updated_time"> 02:29 PM CT, Oct. 18 </p> 
  [U.K. Leaders Praise Slain Lawmaker Amid Heightened Security Concerns](https://www.nytimes.com/2021/10/18/world/europe/david-amess-attack-parliament.html) NYT: Prime Minister Boris Johnson and members of Parliament paid tribute to David Amess, who was fatally stabbed last week. 
  <p class="updated_time"> 02:21 PM CT, Oct. 18 </p> 
  [Russia to suspend Nato diplomatic mission amid tension](https://www.bbc.co.uk/news/world-europe-58959386?at_medium=RSS&at_campaign=KARANGA) BBC: Nato expelled eight Russian diplomats earlier this month, saying they were intelligence officers. 
- <p class="updated_time"> 02:19 PM CT, Oct. 18 </p> 
- [Protests Against Lawlessness Erupt in Haiti](https://www.nytimes.com/2021/10/18/world/americas/haiti-protests.html) NYT: The desperation of Haitians in the face of powerful gangs fueled the calls for a broad strike. The kidnapping of missionaries on Saturday added to the tense atmosphere. 
  <p class="updated_time"> 02:17 PM CT, Oct. 18 </p> 
  [ Russia's Low Vaccination Rates Leads to Record-Breaking Toll](https://www.nytimes.com/2021/10/18/world/europe/russia-virus-vaccine.html) NYT: The country hit 1,000 deaths in a 24-hour period for the first time since the pandemic began, reflecting the risks of having a low vaccination rate. 
  <p class="updated_time"> 02:02 PM CT, Oct. 18 </p> 
@@ -74,8 +76,6 @@ permalink: /charts/news/
  [Prince William's Earthshot Prize Honors Costa Rica and Milan in Climate Fight](https://www.nytimes.com/2021/10/17/climate/earthshot-prizes-costa-rica-milan.html) NYT: Costa Rica and the city of Milan were among the five winners that each received one million pounds, or nearly $1.4 million, to continue sustainability and conservation efforts during a ceremony in London. 
  <p class="updated_time"> 06:10 AM CT, Oct. 18 </p> 
  [Beijing 2022: Protest staged at Winter Olympics torch lighting](https://www.bbc.co.uk/news/world-asia-58954995?at_medium=RSS&at_campaign=KARANGA) BBC: Activists with banners attempt to interrupt the ceremony at Greece's ancient Olympia on Monday. 
- <p class="updated_time"> 05:52 AM CT, Oct. 18 </p> 
- [Myanmar to release 5,000 prisoners held over coup](https://www.bbc.co.uk/news/world-asia-58929644?at_medium=RSS&at_campaign=KARANGA) BBC: The leader of the military junta says they are being freed for humanitarian reasons. 
  <p class="updated_time"> 05:41 AM CT, Oct. 18 </p> 
  [America’s Cash Glut](https://www.nytimes.com/2021/10/18/briefing/us-economy-cash-glut.html) NYT: The economy is almost doing too well. But there are some problems. 
  <p class="updated_time"> 05:40 AM CT, Oct. 18 </p> 
