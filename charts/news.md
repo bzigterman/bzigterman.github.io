@@ -6,6 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 11:44 PM CT, Oct. 17 </p> 
+ [Facebook to hire 10,000 in EU to work on metaverse](https://www.bbc.co.uk/news/world-europe-58949867?at_medium=RSS&at_campaign=KARANGA) BBC: Mark Zuckerberg is a leading voice on the metaverse - a virtual reality version of the internet. 
  <p class="updated_time"> 11:38 PM CT, Oct. 17 </p> 
  [For Christian Aid Ministries, Charity in Haiti Turns to Chaos](https://www.nytimes.com/2021/10/17/world/americas/amish-missionary-group-kidnap.html) NYT: An organization based in Ohio and founded by Amish and Mennonites has been swept up in the violence roiling the country. 
  <p class="updated_time"> 11:22 PM CT, Oct. 17 </p> 
