@@ -16,6 +16,10 @@ permalink: /charts/news/
  [For Christian Aid Ministries, Charity in Haiti Turns to Chaos](https://www.nytimes.com/2021/10/17/world/americas/amish-missionary-group-kidnap.html) NYT: An organization based in Ohio and founded by Amish and Mennonites has been swept up in the violence roiling the country. 
  <p class="updated_time"> 07:43 PM CT, Oct. 17 </p> 
  [Mass Abduction of U.S. Missionaries Startles Even Kidnap-Weary Haiti](https://www.nytimes.com/2021/10/17/world/americas/haiti-missionaries-kidnap.html) NYT: “Where is this country going?” Gang members seized 16 Americans and one Canadian, among them five children, as they visited an orphanage. 
+ <p class="updated_time"> 07:10 PM CT, Oct. 17 </p> 
+ [How energy flexibility can save us money and cut carbon](https://www.bbc.co.uk/news/science-environment-58898999?at_medium=RSS&at_campaign=KARANGA) BBC: Making energy supply to homes and businesses more flexible could help the UK meet its climate goals. 
+ <p class="updated_time"> 07:09 PM CT, Oct. 17 </p> 
+ [Does a climate summit need 25,000 people? And more questions](https://www.bbc.co.uk/news/science-environment-58925049?at_medium=RSS&at_campaign=KARANGA) BBC: BBC science correspondent Matt McGrath answers your questions about Glasgow's COP26 climate summit. 
  <p class="updated_time"> 06:56 PM CT, Oct. 17 </p> 
  [I get abuse and threats online - why can't it be stopped?](https://www.bbc.co.uk/news/uk-58924168?at_medium=RSS&at_campaign=KARANGA) BBC: Online abuse against women is on the rise, but why aren't the police, government and social media sites doing more to stop it? 
  <p class="updated_time"> 06:46 PM CT, Oct. 17 </p> 
@@ -28,6 +32,8 @@ permalink: /charts/news/
  [Has Covid changed New York City nightlife forever?](https://www.bbc.co.uk/news/world-us-canada-58934445?at_medium=RSS&at_campaign=KARANGA) BBC: A photographer is confronted with the new reality of empty streets and closed clubs. 
  <p class="updated_time"> 06:26 PM CT, Oct. 17 </p> 
  [Songhaï: A 'zero waste' agricultural system to increase food security in Africa](https://www.bbc.co.uk/news/world-africa-58930317?at_medium=RSS&at_campaign=KARANGA) BBC: Fr Godfrey Nzamujo runs a "zero waste" agriculture system aimed at increasing food security and creating jobs. 
+ <p class="updated_time"> 06:17 PM CT, Oct. 17 </p> 
+ [China Third-Quarter Economic Growth Slows Sharply to 4.9%](https://www.wsj.com/articles/china-third-quarter-economic-growth-slows-sharply-to-4-9-11634522925) WSJ: China’s economy grew 4.9% in the third quarter from a year earlier, slowing sharply from the previous period, as power shortages and supply-chain problems added to the impact from Beijing’s efforts to rein in the real estate and technology sectors. 
  <p class="updated_time"> 06:13 PM CT, Oct. 17 </p> 
  [Nearly $7 Million Awarded in First Earthshot Prizes](https://www.nytimes.com/2021/10/17/climate/earthshot-prizes-costa-rica-milan.html) NYT: Costa Rica and the city of Milan were among the five winners that each received one million pounds, or nearly $1.4 million, to continue sustainability and conservation efforts during a ceremony in London. 
  <p class="updated_time"> 06:13 PM CT, Oct. 17 </p> 
@@ -36,8 +42,6 @@ permalink: /charts/news/
  [The nightmare of India's tallest rubbish mountain](https://www.bbc.co.uk/news/world-asia-india-58866834?at_medium=RSS&at_campaign=KARANGA) BBC: India's oldest and tallest mountain of rubbish in the city of Mumbai is 18 storeys high. 
  <p class="updated_time"> 06:07 PM CT, Oct. 17 </p> 
  [Covid: Thousands of children left without parents in Iran](https://www.bbc.co.uk/news/world-middle-east-58886923?at_medium=RSS&at_campaign=KARANGA) BBC: Thousands of children in Iran have been left without parents, and many people blame the leadership. 
- <p class="updated_time"> 06:07 PM CT, Oct. 17 </p> 
- [China Third-Quarter Economic Growth Slows Sharply to 4.9%](https://www.wsj.com/articles/china-third-quarter-economic-growth-slows-sharply-to-4-9-11634522925) WSJ: China’s economy grew 4.9% in the third quarter from a year earlier, slowing sharply from the previous period, as power shortages and supply-chain problems added to the impact from Beijing’s efforts to rein in the real estate and technology sectors. 
  <p class="updated_time"> 06:06 PM CT, Oct. 17 </p> 
  [Your Monday Briefing](https://www.nytimes.com/2021/10/17/briefing/haiti-kidnapping-south-korea-draft.html) NYT: Haitian gang kidnaps missionaries. 
  <p class="updated_time"> 06:06 PM CT, Oct. 17 </p> 
@@ -92,6 +96,8 @@ permalink: /charts/news/
  [How a Stunning Lagoon in Spain Turned Into ‘Green Soup’](https://www.nytimes.com/2021/10/17/world/europe/spain-lagoon-pollution-mar-menor.html) NYT: Tons of dead fish have washed ashore in recent years from the Mar Menor, a once-crystalline lagoon on the Mediterranean coast that has become choked with algae. Farm pollution is mostly blamed. 
  <p class="updated_time"> 07:42 AM CT, Oct. 17 </p> 
  [In Venezuela, a Rum Maker Offers Gangsters a Life Outside of Crime](https://www.nytimes.com/2021/10/16/world/americas/venezuela-rum-rehabilitation-crime.html) NYT: In the process, the family running the company, Ron Santa Teresa, has gone from bankruptcy to exporting an award-winning vintage rum. 
+ <p class="updated_time"> 06:38 AM CT, Oct. 17 </p> 
+ [Russia not withholding gas for political reasons - ambassador](https://www.bbc.co.uk/news/uk-58944937?at_medium=RSS&at_campaign=KARANGA) BBC: Russia's ambassador to the UK denies Russia is using energy as a political weapon, amid surging prices. 
  <p class="updated_time"> 06:20 AM CT, Oct. 17 </p> 
  [British Police Question Alleged Attacker in Killing of Conservative Lawmaker David Amess](https://www.wsj.com/articles/british-police-question-alleged-attacker-in-killing-of-conservative-lawmaker-david-amess-11634484017) WSJ: The suspect is identified as a 25-year-old British citizen of Somali descent, an official said. 
  <p class="updated_time"> 05:39 AM CT, Oct. 17 </p> 
@@ -186,6 +192,10 @@ permalink: /charts/news/
  [As Italy Mandates Covid Passes, Rules Vary Across Europe](https://www.nytimes.com/2021/10/15/world/europe/covid-passes.html) NYT: Varying measures reflect domestic politics and potential opposition against such rules. 
  <p class="updated_time"> 06:58 AM CT, Oct. 15 </p> 
  [Hate Crimes and Pandemic Lead More Asian Americans to Seek Therapy](https://www.nytimes.com/2021/10/15/us/asian-american-therapy-hate-crimes.html) NYT: A growing number of Asian Americans have overcome a cultural stigma attached to seeking mental health treatment, experts said. 
+ <p class="updated_time"> 11:47 AM CT, Oct. 14 </p> 
+ [Why China's climate policy matters to us all](https://www.bbc.co.uk/news/world-asia-china-57483492?at_medium=RSS&at_campaign=KARANGA) BBC: The global battle against climate change is likely to be won or lost in China. 
+ <p class="updated_time"> 07:50 AM CT, Oct. 13 </p> 
+ [What is climate change? A really simple guide](https://www.bbc.co.uk/news/science-environment-24021772?at_medium=RSS&at_campaign=KARANGA) BBC: World temperatures are rising because of human activity, and climate change now threatens every aspect of human life. 
  <p class="updated_time"> 05:16 PM CT, Oct. 11 </p> 
  [Black scientists say UK research is institutionally racist](https://www.bbc.co.uk/news/science-environment-58795079?at_medium=RSS&at_campaign=KARANGA) BBC: Senior black scientists tell the BBC they believe UK science to be "institutionally racist". 
 
