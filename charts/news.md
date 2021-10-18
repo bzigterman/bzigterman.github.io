@@ -6,8 +6,12 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 05:52 AM CT, Oct. 18 </p> 
+ [Myanmar to release 5,000 prisoners held over coup](https://www.bbc.co.uk/news/world-asia-58929644?at_medium=RSS&at_campaign=KARANGA) BBC: The leader of the military junta says they are being freed for humanitarian reasons. 
  <p class="updated_time"> 05:41 AM CT, Oct. 18 </p> 
  [America’s Cash Glut](https://www.nytimes.com/2021/10/18/briefing/us-economy-cash-glut.html) NYT: The economy is almost doing too well. But there are some problems. 
+ <p class="updated_time"> 05:26 AM CT, Oct. 18 </p> 
+ [China denies it tested nuclear-capable hypersonic missile](https://www.bbc.co.uk/news/world-asia-china-58953352?at_medium=RSS&at_campaign=KARANGA) BBC: The report in the Financial Times newspaper reportedly caught US intelligence by surprise. 
  <p class="updated_time"> 05:15 AM CT, Oct. 18 </p> 
  [Waterspout spectacle off the coast of Cuba](https://www.bbc.co.uk/news/world-latin-america-58952380?at_medium=RSS&at_campaign=KARANGA) BBC: Residents in Cienfuegos share footage of a waterspout which formed near the city. 
  <p class="updated_time"> 05:14 AM CT, Oct. 18 </p> 
@@ -22,8 +26,6 @@ permalink: /charts/news/
  [How a Nuclear Bomb Could Save Earth From a Stealthy Asteroid](https://www.nytimes.com/2021/10/18/science/asteroid-nuclear-bomb.html) NYT: An atomic blast is not the preferred solution for planetary defense, but 3-D models are helping scientists prepare for a worst-case scenario. 
  <p class="updated_time"> 03:56 AM CT, Oct. 18 </p> 
  [Taiwan Couple Are Suspected of Negligent Homicide in Building Fire](https://www.nytimes.com/2021/10/18/world/asia/taiwan-building-fire.html) NYT: Prosecutors accused a woman of leaving a burning incense coil unattended in the building in Kaohsiung. Her partner was accused of failing to remind her to douse the coil before leaving. 
- <p class="updated_time"> 03:52 AM CT, Oct. 18 </p> 
- [Myanmar to release 5,000 prisoners held over coup](https://www.bbc.co.uk/news/world-asia-58929644?at_medium=RSS&at_campaign=KARANGA) BBC: The leader of the military junta says they are being freed for humanitarian reasons. 
  <p class="updated_time"> 03:12 AM CT, Oct. 18 </p> 
  [Ronnie Tutt: 'Legendary' Elvis Presley drummer dies at 83](https://www.bbc.co.uk/news/entertainment-arts-58951519?at_medium=RSS&at_campaign=KARANGA) BBC: Tutt provided the backbeat for the King of Rock 'n' Roll's 1969 Taking Care of Business tour. 
  <p class="updated_time"> 02:05 AM CT, Oct. 18 </p> 
@@ -96,8 +98,6 @@ permalink: /charts/news/
  [Bill Clinton: Thumbs up as former US president leaves hospital](https://www.bbc.co.uk/news/world-us-canada-58947921?at_medium=RSS&at_campaign=KARANGA) BBC: The former US president is discharged from a Californian hospital accompanied by his wife Hillary. 
  <p class="updated_time"> 02:38 PM CT, Oct. 17 </p> 
  [Police Search for Motive in British Lawmaker’s Killing](https://www.nytimes.com/2021/10/17/world/europe/uk-stabbing-attack.html) NYT: An attack has rekindled questions about the security of members of Parliament. 
- <p class="updated_time"> 02:35 PM CT, Oct. 17 </p> 
- [Haiti kidnap: 400 Mawozo accused of US missionary kidnap](https://www.bbc.co.uk/news/world-latin-america-58948107?at_medium=RSS&at_campaign=KARANGA) BBC: The armed gang, called 400 Mawozo, is holding 17 women, men and children from the US and Canada. 
  <p class="updated_time"> 12:45 PM CT, Oct. 17 </p> 
  [Fake Polls and Tabloid Coverage on Demand: The Dark Side of Sebastian Kurz](https://www.nytimes.com/2021/10/17/world/europe/austria-sebastian-kurz-scandal-chancellor.html) NYT: The downfall of Austria’s onetime political Wunderkind put a spotlight on the cozy, sometimes corrupt, relationship between right-wing populists and parts of the news media. 
  <p class="updated_time"> 11:17 AM CT, Oct. 17 </p> 
