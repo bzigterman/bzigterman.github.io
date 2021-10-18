@@ -6,6 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 03:19 AM CT, Oct. 18 </p> 
+ [Taiwan Couple Is Suspected of Negligent Homicide in Building Fire](https://www.nytimes.com/2021/10/18/world/asia/taiwan-building-fire.html) NYT: Prosecutors accused a woman of leaving a burning incense coil unattended in the building in Kaohsiung. Her partner was accused of failing to remind her to douse the coil before leaving. 
  <p class="updated_time"> 02:11 AM CT, Oct. 18 </p> 
  [Sean Wainui: Maori All Blacks player dies in New Zealand car crash](https://www.bbc.co.uk/sport/rugby-union/58951718?at_medium=RSS&at_campaign=KARANGA) BBC: Tributes are paid to Maori All Blacks centre Sean Wainui after the 25-year-old dies in a car crash in New Zealand. 
  <p class="updated_time"> 02:05 AM CT, Oct. 18 </p> 
@@ -47,9 +49,9 @@ permalink: /charts/news/
  <p class="updated_time"> 06:26 PM CT, Oct. 17 </p> 
  [Songhaï: A 'zero waste' agricultural system to increase food security in Africa](https://www.bbc.co.uk/news/world-africa-58930317?at_medium=RSS&at_campaign=KARANGA) BBC: Fr Godfrey Nzamujo runs a "zero waste" agriculture system aimed at increasing food security and creating jobs. 
  <p class="updated_time"> 06:17 PM CT, Oct. 17 </p> 
- [China's Economy Slowed Sharply in the Third Quarter](https://www.wsj.com/articles/china-third-quarter-economic-growth-slows-sharply-to-4-9-11634522925) WSJ: China’s economy grew 4.9% in the third quarter from a year earlier, slowing sharply from the previous period, as power shortages and supply-chain problems added to the impact from Beijing’s efforts to rein in the real estate and technology sectors. 
+ [China's Economy Slowed Sharply in the Third Quarter](https://www.wsj.com/articles/china-third-quarter-economic-growth-slows-sharply-to-4-9-11634522925) WSJ: China’s economy grew 4.9% in the third quarter from a year earlier, as power shortages and supply-chain problems added to the impact from Beijing’s efforts to rein in the real estate and technology sectors. 
  <p class="updated_time"> 06:13 PM CT, Oct. 17 </p> 
- [Nearly $7 Million Awarded in First Earthshot Prizes](https://www.nytimes.com/2021/10/17/climate/earthshot-prizes-costa-rica-milan.html) NYT: Costa Rica and the city of Milan were among the five winners that each received one million pounds, or nearly $1.4 million, to continue sustainability and conservation efforts during a ceremony in London. 
+ [Prince William's Earthshot Prize Honors Costa Rica and Milan in Climate Fight](https://www.nytimes.com/2021/10/17/climate/earthshot-prizes-costa-rica-milan.html) NYT: Costa Rica and the city of Milan were among the five winners that each received one million pounds, or nearly $1.4 million, to continue sustainability and conservation efforts during a ceremony in London. 
  <p class="updated_time"> 06:13 PM CT, Oct. 17 </p> 
  [The climate activists who want Norway to end oil and gas production](https://www.bbc.co.uk/news/science-environment-58900652?at_medium=RSS&at_campaign=KARANGA) BBC: The BBC's Nick Beake meets the young climate activists trying to stop Norway drilling for oil and gas. 
  <p class="updated_time"> 06:10 PM CT, Oct. 17 </p> 
@@ -63,7 +65,7 @@ permalink: /charts/news/
  <p class="updated_time"> 05:42 PM CT, Oct. 17 </p> 
  [Hungary: Mayor Marki-Zay wins run-off to challenge Orban](https://www.bbc.co.uk/news/world-europe-58949864?at_medium=RSS&at_campaign=KARANGA) BBC: Local conservative mayor Peter Marki-Zay is chosen to lead the opposition in next year's election. 
  <p class="updated_time"> 05:40 PM CT, Oct. 17 </p> 
- [Indian State Evicts Muslims, Even Those Living There Legally](https://www.nytimes.com/2021/10/17/world/asia/india-assam-muslim-evictions.html) NYT: Critics say an Indian state’s campaign to expel longtime residents on government land marks the ruling party’s latest campaign against Muslims. 
+ [India Evicts Muslims in Assam, Even Those Living There Legally](https://www.nytimes.com/2021/10/17/world/asia/india-assam-muslim-evictions.html) NYT: Critics say an Indian state’s campaign to expel longtime residents on government land marks the ruling party’s latest campaign against Muslims. 
  <p class="updated_time"> 05:22 PM CT, Oct. 17 </p> 
  [Town Rattled by Bow-and-Arrow Killings Ponders Terrorism and Mental Illness](https://www.nytimes.com/2021/10/17/world/europe/norway-bow-and-arrow-killings.html) NYT: The police in Norway, initially pointing to Islamic extremism, now say an attacker was “not well, mentally.” 
  <p class="updated_time"> 05:07 PM CT, Oct. 17 </p> 
@@ -188,8 +190,6 @@ permalink: /charts/news/
  [Bangladesh Strengthens Security as Violence Targets Hindu Festival](https://www.nytimes.com/2021/10/15/world/asia/15bangladesh-muslim-hindu-violence.html) NYT: Paramilitary forces were deployed across much of the country after the worst communal violence in years targeted dozens of Hindu gatherings. 
  <p class="updated_time"> 09:37 AM CT, Oct. 15 </p> 
  [U.K. Lab Issues 43,000 False Negatives on Virus Tests](https://www.nytimes.com/2021/10/15/world/uk-lab-false-negative-tests.html) NYT: The mistake was described as an “isolated incident attributed to one laboratory,” in a statement released by the U.K. Health Security Agency on Friday. 
- <p class="updated_time"> 07:42 AM CT, Oct. 15 </p> 
- [Taiwan’s ‘Ghost Building’ Fire: a Death Trap for Dozens of Elderly](https://www.nytimes.com/2021/10/15/world/asia/taiwan-building-fire.html) NYT: “I had no choice but to live here,” said one resident who survived a blaze that killed 46 of her neighbors and raised questions about lax safety standards. 
  <p class="updated_time"> 07:08 AM CT, Oct. 15 </p> 
  [As Italy Mandates Covid Passes, Rules Vary Across Europe](https://www.nytimes.com/2021/10/15/world/europe/covid-passes.html) NYT: Varying measures reflect domestic politics and potential opposition against such rules. 
  <p class="updated_time"> 06:58 AM CT, Oct. 15 </p> 
