@@ -6,6 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 05:56 PM CT, Oct. 18 </p> 
+ [In Norway Attack, ‘Sharp Object,’ Not Arrows, Killed 5, Police Say](https://www.nytimes.com/2021/10/18/world/europe/norway-attack.html) NYT: The Norwegian police on Monday said that while a hunting bow had been used in last week’s rampage, the victims, four women and a man, were stabbed to death. 
  <p class="updated_time"> 05:47 PM CT, Oct. 18 </p> 
  [U.K. Leaders Praise Slain Lawmaker Amid Heightened Security Concerns](https://www.nytimes.com/2021/10/18/world/europe/david-amess-attack-parliament.html) NYT: Prime Minister Boris Johnson and members of Parliament paid tribute to David Amess, who was fatally stabbed last week. 
  <p class="updated_time"> 05:25 PM CT, Oct. 18 </p> 
