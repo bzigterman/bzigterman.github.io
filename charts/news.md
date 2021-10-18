@@ -6,12 +6,12 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 10:42 AM CT, Oct. 18 </p> 
+ [Colin Powell: Former US secretary of state dies of Covid complications](https://www.bbc.co.uk/news/world-us-canada-58957273?at_medium=RSS&at_campaign=KARANGA) BBC: The ex-US secretary of state, the first African-American in that role, dies of Covid complications. 
  <p class="updated_time"> 10:06 AM CT, Oct. 18 </p> 
  [Myanmar Announces Amnesty for Thousands of Anti-Coup Protesters](https://www.nytimes.com/2021/10/18/world/asia/myanmar-military-amnesty-protesters.html) NYT: The junta, which seized power in February, said it was releasing the prisoners to mark the Lighting Festival, a three-day holiday that begins Tuesday. 
  <p class="updated_time"> 10:05 AM CT, Oct. 18 </p> 
  [Hello? This Is Colombia’s Antimachismo Hotline.](https://www.nytimes.com/2021/10/18/world/americas/colombia-machismo-hotline-masculinity.html) NYT: A new hotline in Bogotá takes calls from men struggling with jealousy, control and fear — and challenges long-held assumptions about masculinity. 
- <p class="updated_time"> 10:03 AM CT, Oct. 18 </p> 
- [Colin Powell: Former US secretary of state dies of Covid complications](https://www.bbc.co.uk/news/world-us-canada-58957273?at_medium=RSS&at_campaign=KARANGA) BBC: The ex-US secretary of state, the first African-American in that role, dies of Covid complications. 
  <p class="updated_time"> 09:39 AM CT, Oct. 18 </p> 
  [Yukon Territory Imposes Vaccine Mandate Amid Rise in Cases](https://www.nytimes.com/2021/10/16/world/yukon-vaccine-mandate.html) NYT: Health care workers and others in the Yukon must be fully vaccinated by Nov. 30. The territory is also starting a vaccination passport program. 
  <p class="updated_time"> 09:22 AM CT, Oct. 18 </p> 
