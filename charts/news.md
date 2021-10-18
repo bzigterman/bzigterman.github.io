@@ -6,10 +6,12 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 08:51 AM CT, Oct. 18 </p> 
+ [New Zealand Extends Auckland Lockdown](https://www.nytimes.com/live/2021/10/18/world/covid-delta-variant-vaccine/new-zealand-auckland-lockdown) NYT: The city, Auckland, has been in lockdown since Aug. 17, after an outbreak of the Delta variant. 
+ <p class="updated_time"> 08:44 AM CT, Oct. 18 </p> 
+ [Colin Powell: Former US secretary of state dies of Covid complications](https://www.bbc.co.uk/news/world-us-canada-58957273?at_medium=RSS&at_campaign=KARANGA) BBC: The ex-US secretary of state, the first African-American in that role, dies of Covid complications. 
  <p class="updated_time"> 08:19 AM CT, Oct. 18 </p> 
  [Taiwan Couple Are Suspected of Negligent Homicide in Building Fire](https://www.nytimes.com/2021/10/18/world/asia/taiwan-building-fire.html) NYT: Prosecutors accused a woman of leaving a burning incense coil unattended in the building in Kaohsiung. Her partner was accused of failing to remind her to douse the coil before leaving. 
- <p class="updated_time"> 08:04 AM CT, Oct. 18 </p> 
- [Colin Powell: Former US secretary of state dies of Covid complications](https://www.bbc.co.uk/news/world-us-canada-58957273?at_medium=RSS&at_campaign=KARANGA) BBC: The ex-US secretary of state, the first African-American in that role, dies of Covid complications. 
  <p class="updated_time"> 08:01 AM CT, Oct. 18 </p> 
  [Myanmar Announces Amnesty for Thousands of Anti-Coup Protesters](https://www.nytimes.com/2021/10/18/world/asia/myanmar-military-amnesty-protesters.html) NYT: The junta, which seized power in February, said it was releasing the prisoners to mark the Lighting Festival, a three-day holiday that begins Tuesday. 
  <p class="updated_time"> 07:51 AM CT, Oct. 18 </p> 
@@ -40,8 +42,6 @@ permalink: /charts/news/
  [Apparently, it's the next big thing. What is the metaverse?](https://www.bbc.co.uk/news/technology-58749529?at_medium=RSS&at_campaign=KARANGA) BBC: What does it mean, and what have Facebook and Fortnite got to do with it? 
  <p class="updated_time"> 04:13 AM CT, Oct. 18 </p> 
  [Kerala floods: At least 26 killed as rescuers step up efforts](https://www.bbc.co.uk/news/world-asia-india-58940880?at_medium=RSS&at_campaign=KARANGA) BBC: Heavy rains cause rivers to overflow in Kerala, washing away homes and trapping people under debris. 
- <p class="updated_time"> 04:00 AM CT, Oct. 18 </p> 
- [New Zealand Extends Auckland Lockdown](https://www.nytimes.com/live/2021/10/18/world/covid-delta-variant-vaccine/new-zealand-auckland-lockdown) NYT: The city, Auckland, has been in lockdown since Aug. 17, after an outbreak of the Delta variant. 
  <p class="updated_time"> 04:00 AM CT, Oct. 18 </p> 
  [How a Nuclear Bomb Could Save Earth From a Stealthy Asteroid](https://www.nytimes.com/2021/10/18/science/asteroid-nuclear-bomb.html) NYT: An atomic blast is not the preferred solution for planetary defense, but 3-D models are helping scientists prepare for a worst-case scenario. 
  <p class="updated_time"> 02:00 AM CT, Oct. 18 </p> 
