@@ -6,8 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
- <p class="updated_time"> 12:53 PM CT, Oct. 18 </p> 
- [At Axel Springer, Allegations of Sex, Lies and a Secret Payment](https://www.nytimes.com/2021/10/17/business/media/axel-springer-bild-julian-reichelt.html) NYT: A high-flying German media giant is ahead on digital media but seems stuck in the past when it comes to the workplace and deal-making. 
+ <p class="updated_time"> 12:59 PM CT, Oct. 18 </p> 
+ [Will New Covid Treatments Be as Elusive for Poor Countries as Vaccines?](https://www.nytimes.com/2021/10/17/health/covid-treatment-access-molnupiravir.html) NYT: Merck has taken a step to make its antiviral pill available in poor nations, but many obstacles remain for broad access to coronavirus drugs. 
  <p class="updated_time"> 12:49 PM CT, Oct. 18 </p> 
  [For Christian Aid Ministries, Charity in Haiti Turns to Chaos](https://www.nytimes.com/2021/10/17/world/americas/amish-missionary-group-kidnap.html) NYT: An organization based in Ohio and founded by Amish and Mennonites has been swept up in the violence roiling the country. 
  <p class="updated_time"> 12:40 PM CT, Oct. 18 </p> 
@@ -37,7 +37,7 @@ permalink: /charts/news/
  <p class="updated_time"> 11:13 AM CT, Oct. 18 </p> 
  [Hello? This Is Colombia’s Antimachismo Hotline.](https://www.nytimes.com/2021/10/18/world/americas/colombia-machismo-hotline-masculinity.html) NYT: A new hotline in Bogotá takes calls from men struggling with jealousy, control and fear — and challenges long-held assumptions about masculinity. 
  <p class="updated_time"> 11:07 AM CT, Oct. 18 </p> 
- [Greta Thunberg sings Rick Astley at climate concert](https://www.bbc.co.uk/news/world-58952383?at_medium=RSS&at_campaign=KARANGA) BBC: Greta Thunberg sings Rick Astley's "Never Gonna Give You Up" to launch series of climate concerts. 
+ [Greta Thunberg sings Rick Astley hit at climate concert](https://www.bbc.co.uk/news/world-58952383?at_medium=RSS&at_campaign=KARANGA) BBC: Greta Thunberg sings Rick Astley's "Never Gonna Give You Up" to launch series of climate concerts. 
  <p class="updated_time"> 11:07 AM CT, Oct. 18 </p> 
  [Kerala floods: At least 26 killed as rescuers step up efforts](https://www.bbc.co.uk/news/world-asia-india-58940880?at_medium=RSS&at_campaign=KARANGA) BBC: Heavy rains cause rivers to overflow in Kerala, washing away homes and trapping people under debris. 
  <p class="updated_time"> 10:38 AM CT, Oct. 18 </p> 
@@ -118,8 +118,6 @@ permalink: /charts/news/
  [India Evicts Muslims in Assam, Even Those Living There Legally](https://www.nytimes.com/2021/10/17/world/asia/india-assam-muslim-evictions.html) NYT: Critics say an Indian state’s campaign to expel longtime residents on government land marks the ruling party’s latest campaign against Muslims. 
  <p class="updated_time"> 05:22 PM CT, Oct. 17 </p> 
  [Town Rattled by Bow-and-Arrow Killings Ponders Terrorism and Mental Illness](https://www.nytimes.com/2021/10/17/world/europe/norway-bow-and-arrow-killings.html) NYT: The police in Norway, initially pointing to Islamic extremism, now say an attacker was “not well, mentally.” 
- <p class="updated_time"> 04:15 PM CT, Oct. 17 </p> 
- [Will New Covid Treatments Be as Elusive for Poor Countries as Vaccines?](https://www.nytimes.com/2021/10/17/health/covid-treatment-access-molnupiravir.html) NYT: Merck has taken a step to make its antiviral pill available in poor nations, but many obstacles remain for broad access to coronavirus drugs. 
  <p class="updated_time"> 03:09 PM CT, Oct. 17 </p> 
  [What Is Christian Aid Ministries and What Does It Do in Haiti?](https://www.nytimes.com/2021/10/17/world/americas/what-is-christian-aid-ministries.html) NYT: The group, based in Ohio, distributes food and clothing, funds schools, teaches farming methods and helps with emergency relief. 
  <p class="updated_time"> 03:00 PM CT, Oct. 17 </p> 
@@ -186,6 +184,8 @@ permalink: /charts/news/
  [Week in pictures: 9 - 15 October 2021](https://www.bbc.co.uk/news/in-pictures-58911596?at_medium=RSS&at_campaign=KARANGA) BBC: A selection of powerful images from all over the globe, taken this week. 
  <p class="updated_time"> 06:58 PM CT, Oct. 15 </p> 
  [Italy's New Law Requires Workers to Get Covid Vaccine or Testing](https://www.nytimes.com/2021/10/15/world/europe/italy-vaccination-law-covid.html) NYT: The rollout went more or less smoothly, with only scattered protests, as the majority of citizens accepted the ‘Green Pass’ as a tolerable sacrifice to stem the Covid pandemic. 
+ <p class="updated_time"> 03:57 PM CT, Oct. 15 </p> 
+ [Suspect Confesses in Bow-and-Arrow Rampage in Norway](https://www.nytimes.com/2021/10/15/world/europe/norway-murder-bow-arrow-terrorism.html) NYT: Espen Anderson Brathen has been charged with murder in the deaths of five people after the authorities say he went on a killing spree armed with a hunting bow. 
  <p class="updated_time"> 03:41 PM CT, Oct. 15 </p> 
  [Protests Over Italy's Covid 'Green Pass' Draw Only Scattered Crowds](https://www.nytimes.com/2021/10/15/world/europe/covid-italy-green-pass-protests.html) NYT: While there were scattered protests across Italy on Friday, many in the country appeared to accept the measure as necessary. 
  <p class="updated_time"> 03:13 PM CT, Oct. 15 </p> 
