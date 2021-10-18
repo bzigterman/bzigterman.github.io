@@ -6,10 +6,12 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 07:45 PM CT, Oct. 17 </p> 
+ [For Christian Aid Ministries, Charity in Haiti Turns to Chaos](https://www.nytimes.com/2021/10/17/world/americas/amish-missionary-group-kidnap.html) NYT: An organization based in Ohio and founded by Amish and Mennonites has been swept up in the violence roiling the country. 
+ <p class="updated_time"> 07:43 PM CT, Oct. 17 </p> 
+ [Mass Abduction of U.S. Missionaries Startles Even Kidnap-Weary Haiti](https://www.nytimes.com/2021/10/17/world/americas/haiti-missionaries-kidnap.html) NYT: “Where is this country going?” Gang members seized 16 Americans and one Canadian, among them five children, as they visited an orphanage. 
  <p class="updated_time"> 06:56 PM CT, Oct. 17 </p> 
  [I get abuse and threats online - why can't it be stopped?](https://www.bbc.co.uk/news/uk-58924168?at_medium=RSS&at_campaign=KARANGA) BBC: Online abuse against women is on the rise, but why aren't the police, government and social media sites doing more to stop it? 
- <p class="updated_time"> 06:53 PM CT, Oct. 17 </p> 
- [Mass Abduction of U.S. Missionaries Startles Even Kidnap-Weary Haiti](https://www.nytimes.com/2021/10/17/world/americas/haiti-missionaries-kidnap.html) NYT: “Where is this country going?” Gang members seized 16 Americans and one Canadian, among them five children, as they visited an orphanage. 
  <p class="updated_time"> 06:46 PM CT, Oct. 17 </p> 
  [Kerala floods: Dozens missing in deadly India disaster](https://www.bbc.co.uk/news/world-asia-india-58940880?at_medium=RSS&at_campaign=KARANGA) BBC: Heavy rains cause rivers to overflow in Kerala, washing away homes and trapping people under debris. 
  <p class="updated_time"> 06:44 PM CT, Oct. 17 </p> 
@@ -35,7 +37,7 @@ permalink: /charts/news/
  <p class="updated_time"> 06:06 PM CT, Oct. 17 </p> 
  [You may be able to book a flying taxi within three years](https://www.bbc.co.uk/news/business-58895259?at_medium=RSS&at_campaign=KARANGA) BBC: Firms are racing to bring flying taxis and the mini-airports they need into service. 
  <p class="updated_time"> 05:42 PM CT, Oct. 17 </p> 
- [Hungary: Mayor Marki-Zay wins run-off to challenge Orban](https://www.bbc.co.uk/news/world-europe-58949864?at_medium=RSS&at_campaign=KARANGA) BBC: Polls suggest Peter Marki-Zay has the best chance of ousting Prime Minister Viktor Orban. 
+ [Hungary: Mayor Marki-Zay wins run-off to challenge Orban](https://www.bbc.co.uk/news/world-europe-58949864?at_medium=RSS&at_campaign=KARANGA) BBC: Local conservative mayor Peter Marki-Zay is chosen to lead the opposition in next year's election. 
  <p class="updated_time"> 05:40 PM CT, Oct. 17 </p> 
  [Indian State Evicts Muslims, Even Those Living There Legally](https://www.nytimes.com/2021/10/17/world/asia/india-assam-muslim-evictions.html) NYT: Critics say an Indian state’s campaign to expel longtime residents on government land marks the ruling party’s latest campaign against Muslims. 
  <p class="updated_time"> 05:22 PM CT, Oct. 17 </p> 
@@ -190,8 +192,6 @@ permalink: /charts/news/
  [Man Whose Attack on Ex-Wife Was Livestreamed Gets Death Penalty in China](https://www.nytimes.com/2021/10/15/world/asia/china-livestream-killing-abuse.html) NYT: The case riveted the public’s attention in China and spotlighted the patchy enforcement of the country’s law against domestic violence. 
  <p class="updated_time"> 11:09 PM CT, Oct. 14 </p> 
  [Your Friday Briefing](https://www.nytimes.com/2021/10/15/briefing/beirut-fighting-pandemic-america.html) NYT: The state of the pandemic in the U.S. 
- <p class="updated_time"> 08:19 PM CT, Oct. 14 </p> 
- [Faulty Studs Led to Mexico City Metro Collapse, Attorney General Says](https://www.nytimes.com/2021/10/14/world/americas/mexico-city-metro-collapse.html) NYT: A monthslong investigation by city authorities supports the central findings of a New York Times investigation, which had uncovered a series of fatal construction flaws. 
  <p class="updated_time"> 05:16 PM CT, Oct. 11 </p> 
  [Black scientists say UK research is institutionally racist](https://www.bbc.co.uk/news/science-environment-58795079?at_medium=RSS&at_campaign=KARANGA) BBC: Senior black scientists tell the BBC they believe UK science to be "institutionally racist". 
 
