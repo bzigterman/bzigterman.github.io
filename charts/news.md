@@ -92,22 +92,16 @@ permalink: /charts/news/
  [Syria Accuses Israel of Assassinating Official Near Golan Heights](https://www.nytimes.com/2021/10/16/world/syria-accuses-israel-of-assassinating-official-near-golan-heights.html) NYT: Midhat Saleh, who oversaw the strategic Golan Heights boundary for Syria, was shot and killed by a sniper, the government said. 
  <p class="updated_time"> 05:15 AM CT, Oct. 17 </p> 
  [South Korea Reconsiders a Rite of Manhood: The Draft](https://www.nytimes.com/2021/10/17/world/asia/south-korea-conscription.html) NYT: Military conscription has become less popular. The rules have loosened. But experts still worry about the threat from the North. 
- <p class="updated_time"> 04:26 AM CT, Oct. 17 </p> 
- [Macron condemns 'unforgivable' 1961 massacre of Algerians in Paris](https://www.bbc.co.uk/news/world-europe-58943245?at_medium=RSS&at_campaign=KARANGA) BBC: The 1961 Paris massacre was denied or concealed by French governments for decades. 
  <p class="updated_time"> 03:24 AM CT, Oct. 17 </p> 
  [Russian team back on Earth after filming first movie in space](https://www.bbc.co.uk/news/world-europe-58944660?at_medium=RSS&at_campaign=KARANGA) BBC: The Russian film crew return after an ISS shoot that had its own moments of drama. 
  <p class="updated_time"> 01:37 AM CT, Oct. 17 </p> 
  [Afghan Resettlement Effort Slowed by Housing, Tech Constraints](https://www.wsj.com/articles/u-s-afghan-resettlements-slowed-by-housing-shortage-old-technology-11634463001) WSJ: The U.S. push to resettle evacuees is set to take months longer than first expected as a measles scare, a nationwide housing shortage and paperwork delays have slowed the process. 
- <p class="updated_time"> 01:22 AM CT, Oct. 17 </p> 
- [Sudan: Protesters demand military coup as crisis deepens](https://www.bbc.co.uk/news/world-africa-58943013?at_medium=RSS&at_campaign=KARANGA) BBC: The protests come as tensions rise between civilian and military rulers. 
  <p class="updated_time"> 11:52 PM CT, Oct. 16 </p> 
  [U.S. Arrests Alex Saab, Deal Maker for Nicolás Maduro of Venezuela](https://www.nytimes.com/2021/10/16/world/americas/alex-saab-arrest-venezuela-maduro.html) NYT: Alex Saab, a Colombian businessman, is accused in the U.S. of siphoning millions from programs intended to help the needy in Venezuela. 
  <p class="updated_time"> 11:05 PM CT, Oct. 16 </p> 
  [With Lawmaker’s Killing, U.K. Confronts a New Episode of Terrorism](https://www.nytimes.com/2021/10/16/world/europe/uk-stabbing-terrorism.html) NYT: The police conducted searches and questioned the suspect as Prime Minister Boris Johnson and other leaders paid respects to David Amess, who was fatally stabbed while meeting with constituents. 
  <p class="updated_time"> 09:39 PM CT, Oct. 16 </p> 
  [National Guard Called Up to Ease Crowding at Minnesota Hospitals ](https://www.nytimes.com/2021/10/16/world/americas/minnesota-governor-walz-national-guard-covid.html) NYT: Staffing shortages at long-term care facilities are preventing hospitals from discharging patients and admitting new ones. 
- <p class="updated_time"> 09:04 PM CT, Oct. 16 </p> 
- [Venezuelan President Maduro's close aide extradited to US](https://www.bbc.co.uk/news/world-latin-america-58943249?at_medium=RSS&at_campaign=KARANGA) BBC: Venezuela halted talks with the opposition after Alex Saab was flown from Cape Verde to the US. 
  <p class="updated_time"> 06:47 PM CT, Oct. 16 </p> 
  [The Chinese film beating Bond and Marvel at the box office](https://www.bbc.co.uk/news/world-asia-china-58868854?at_medium=RSS&at_campaign=KARANGA) BBC: The success of The Battle at Lake Changjin is bad news for Hollywood which wants to grow in China. 
  <p class="updated_time"> 06:17 PM CT, Oct. 16 </p> 
