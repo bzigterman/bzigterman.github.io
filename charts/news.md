@@ -6,8 +6,10 @@ permalink: /charts/news/
 
 ## World News
 
- <p class="updated_time"> 11:49 AM CT, Oct. 18 </p> 
+ <p class="updated_time"> 12:13 PM CT, Oct. 18 </p> 
  [Protests Against Lawlessness Erupt in Haiti](https://www.nytimes.com/2021/10/18/world/americas/haiti-protests-lawlessness.html) NYT: The desperation of Haitians in the face of powerful gangs fueled the calls for a broad strike. The kidnapping of missionaries on Saturday added to the tense atmosphere. 
+ <p class="updated_time"> 11:58 AM CT, Oct. 18 </p> 
+ [Malala Yousafzai urges Taliban to allow girls' education](https://www.bbc.co.uk/news/world-asia-58959790?at_medium=RSS&at_campaign=KARANGA) BBC: The Nobel Prize laureate says the Taliban must announce girls can go to school in Afghanistan. 
  <p class="updated_time"> 11:47 AM CT, Oct. 18 </p> 
  [In Hungary’s Heartland, Orban Faces a Unified Challenge to His Rule](https://www.nytimes.com/2021/10/18/world/europe/hungary-viktor-orban-election.html) NYT: The country’s normally fractious opposition has rallied around a conservative mayor who just might be able to oust the authoritarian prime minister after more than a decade. 
  <p class="updated_time"> 11:34 AM CT, Oct. 18 </p> 
@@ -21,7 +23,7 @@ permalink: /charts/news/
  <p class="updated_time"> 11:13 AM CT, Oct. 18 </p> 
  [Hello? This Is Colombia’s Antimachismo Hotline.](https://www.nytimes.com/2021/10/18/world/americas/colombia-machismo-hotline-masculinity.html) NYT: A new hotline in Bogotá takes calls from men struggling with jealousy, control and fear — and challenges long-held assumptions about masculinity. 
  <p class="updated_time"> 11:07 AM CT, Oct. 18 </p> 
- [Greta Thunberg sings Rick Astley at climate concert](https://www.bbc.co.uk/news/world-58952383?at_medium=RSS&at_campaign=KARANGA) BBC: Greta Thunberg sings Rick Astley's "Never Going To Give You Up" to launch series of climate concerts. 
+ [Greta Thunberg sings Rick Astley at climate concert](https://www.bbc.co.uk/news/world-58952383?at_medium=RSS&at_campaign=KARANGA) BBC: Greta Thunberg sings Rick Astley's "Never Gonna Give You Up" to launch series of climate concerts. 
  <p class="updated_time"> 11:07 AM CT, Oct. 18 </p> 
  [Kerala floods: At least 26 killed as rescuers step up efforts](https://www.bbc.co.uk/news/world-asia-india-58940880?at_medium=RSS&at_campaign=KARANGA) BBC: Heavy rains cause rivers to overflow in Kerala, washing away homes and trapping people under debris. 
  <p class="updated_time"> 10:38 AM CT, Oct. 18 </p> 
@@ -96,8 +98,6 @@ permalink: /charts/news/
  [The Nigerians who want Israel to accept them as Jews](https://www.bbc.co.uk/news/world-africa-58917825?at_medium=RSS&at_campaign=KARANGA) BBC: A small Nigerian community claims Jewish ancestry dating hundreds of years but Israel does not recognise them. 
  <p class="updated_time"> 06:33 PM CT, Oct. 17 </p> 
  [Has Covid changed New York City nightlife forever?](https://www.bbc.co.uk/news/world-us-canada-58934445?at_medium=RSS&at_campaign=KARANGA) BBC: A photographer is confronted with the new reality of empty streets and closed clubs. 
- <p class="updated_time"> 06:26 PM CT, Oct. 17 </p> 
- [Songhaï: A 'zero waste' agricultural system to increase food security in Africa](https://www.bbc.co.uk/news/world-africa-58930317?at_medium=RSS&at_campaign=KARANGA) BBC: Fr Godfrey Nzamujo runs a "zero waste" agriculture system aimed at increasing food security and creating jobs. 
  <p class="updated_time"> 06:13 PM CT, Oct. 17 </p> 
  [The climate activists who want Norway to end oil and gas production](https://www.bbc.co.uk/news/science-environment-58900652?at_medium=RSS&at_campaign=KARANGA) BBC: The BBC's Nick Beake meets the young climate activists trying to stop Norway drilling for oil and gas. 
  <p class="updated_time"> 06:10 PM CT, Oct. 17 </p> 
