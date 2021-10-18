@@ -6,6 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 05:47 PM CT, Oct. 18 </p> 
+ [U.K. Leaders Praise Slain Lawmaker Amid Heightened Security Concerns](https://www.nytimes.com/2021/10/18/world/europe/david-amess-attack-parliament.html) NYT: Prime Minister Boris Johnson and members of Parliament paid tribute to David Amess, who was fatally stabbed last week. 
  <p class="updated_time"> 05:25 PM CT, Oct. 18 </p> 
  [Trudeau visits First Nation to apologise after holiday snub](https://www.bbc.co.uk/news/world-us-canada-58961940?at_medium=RSS&at_campaign=KARANGA) BBC: His apology comes two weeks after he skipped an event on the first Truth and Reconciliation Day. 
  <p class="updated_time"> 05:16 PM CT, Oct. 18 </p> 
@@ -26,8 +28,6 @@ permalink: /charts/news/
  [Your Tuesday Briefing](https://www.nytimes.com/2021/10/18/briefing/russia-covid-nato-china-banks.html) NYT: Russia hits a Covid death record. 
  <p class="updated_time"> 03:53 PM CT, Oct. 18 </p> 
  [Police Search for Motive in British Lawmaker’s Killing](https://www.nytimes.com/2021/10/17/world/europe/uk-stabbing-attack.html) NYT: An attack has rekindled questions about the security of members of Parliament. 
- <p class="updated_time"> 03:30 PM CT, Oct. 18 </p> 
- [U.K. Leaders Praise Slain Lawmaker Amid Heightened Security Concerns](https://www.nytimes.com/2021/10/18/world/europe/david-amess-attack-parliament.html) NYT: Prime Minister Boris Johnson and members of Parliament paid tribute to David Amess, who was fatally stabbed last week. 
  <p class="updated_time"> 02:54 PM CT, Oct. 18 </p> 
  [Russia Breaks Diplomatic Ties with NATO](https://www.nytimes.com/2021/10/18/world/europe/russia-nato.html) NYT: Moscow’s decision to end its diplomatic mission to the alliance will end a long, post-Cold War experiment in building trust between militaries. 
  <p class="updated_time"> 02:44 PM CT, Oct. 18 </p> 
