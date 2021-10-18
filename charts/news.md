@@ -7,7 +7,7 @@ permalink: /charts/news/
 ## World News
 
  <p class="updated_time"> 10:37 PM CT, Oct. 17 </p> 
- [Afghan girls are ‘left in darkness’ by the Taliban](https://www.bbc.co.uk/news/world-58950282?at_medium=RSS&at_campaign=KARANGA) BBC: BBC correspondent Yogita Limaye goes to the former women's affairs ministry in Kabul to question the Taliban on women's rights. 
+ [Afghan girls are ‘left in darkness’ by the Taliban](https://www.bbc.co.uk/news/world-58950282?at_medium=RSS&at_campaign=KARANGA) BBC: BBC correspondent Yogita Limaye in Kabul asks the Taliban when girls can go back to school. 
  <p class="updated_time"> 10:12 PM CT, Oct. 17 </p> 
  [Your Monday Briefing](https://www.nytimes.com/2021/10/17/briefing/antiviral-pill-biden-climate-change.html) NYT: A new antiviral coronavirus pill. 
  <p class="updated_time"> 09:41 PM CT, Oct. 17 </p> 
