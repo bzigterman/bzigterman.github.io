@@ -6,12 +6,18 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 12:53 PM CT, Oct. 18 </p> 
+ [At Axel Springer, Allegations of Sex, Lies and a Secret Payment](https://www.nytimes.com/2021/10/17/business/media/axel-springer-bild-julian-reichelt.html) NYT: A high-flying German media giant is ahead on digital media but seems stuck in the past when it comes to the workplace and deal-making. 
+ <p class="updated_time"> 12:49 PM CT, Oct. 18 </p> 
+ [For Christian Aid Ministries, Charity in Haiti Turns to Chaos](https://www.nytimes.com/2021/10/17/world/americas/amish-missionary-group-kidnap.html) NYT: An organization based in Ohio and founded by Amish and Mennonites has been swept up in the violence roiling the country. 
  <p class="updated_time"> 12:40 PM CT, Oct. 18 </p> 
  [An Official Wizard in New Zealand Loses His Job](https://www.nytimes.com/2021/10/18/world/australia/christchurch-new-zealand-wizard.html) NYT: The city of Christchurch has paid Ian Brackenbury Channell, 88, about $10,000 per year since 1998 for “acts of wizardry and other wizard-like services.” But he has been condemned recently for his jokes about women. 
  <p class="updated_time"> 12:34 PM CT, Oct. 18 </p> 
  [Apathy and Wariness of Kremlin Leaves Russians Unvaccinated](https://www.nytimes.com/2021/10/18/world/europe/russia-virus-vaccine.html) NYT: The country hit 1,000 deaths in a 24-hour period for the first time since the pandemic began, reflecting the risks of having a low vaccination rate. 
  <p class="updated_time"> 12:31 PM CT, Oct. 18 </p> 
  [Showdown Over Northern Ireland Has a Key Offstage Player: Biden](https://www.nytimes.com/2021/10/18/world/europe/showdown-over-northern-ireland-has-a-key-offstage-player-biden.html) NYT: As the U.K. and the European Union begin their wrangling over details of trade with Northern Ireland, President Biden has more than a passing interest in the final result. 
+ <p class="updated_time"> 12:28 PM CT, Oct. 18 </p> 
+ [Mastermind of deadly 2016 Baghdad bombing caught, Iraq says](https://www.bbc.co.uk/news/world-middle-east-58957048?at_medium=RSS&at_campaign=KARANGA) BBC: Ghazwan al-Zawbaee is allegedly behind a 2016 attack on a shopping centre that killed 300 people. 
  <p class="updated_time"> 12:19 PM CT, Oct. 18 </p> 
  [Protests Against Lawlessness Erupt in Haiti](https://www.nytimes.com/2021/10/18/world/americas/haiti-protests-lawlessness.html) NYT: The desperation of Haitians in the face of powerful gangs fueled the calls for a broad strike. The kidnapping of missionaries on Saturday added to the tense atmosphere. 
  <p class="updated_time"> 12:14 PM CT, Oct. 18 </p> 
@@ -51,11 +57,9 @@ permalink: /charts/news/
  <p class="updated_time"> 07:34 AM CT, Oct. 18 </p> 
  [Peter R de Vries: Suspect denies knowledge of Dutch reporter's murder](https://www.bbc.co.uk/news/world-europe-58955373?at_medium=RSS&at_campaign=KARANGA) BBC: The suspect appears in court alongside a man accused of shooting Peter R de Vries in Amsterdam. 
  <p class="updated_time"> 07:30 AM CT, Oct. 18 </p> 
- [Pedro Sánchez: Spanish PM vows to outlaw prostitution](https://www.bbc.co.uk/news/world-europe-58947172?at_medium=RSS&at_campaign=KARANGA) BBC: The UN estimates Spain's sex industry has become worth €3.7bn since decriminalisation in 1995. 
- <p class="updated_time"> 07:30 AM CT, Oct. 18 </p> 
  [COP26: Does a climate summit need 25,000 people? And more questions](https://www.bbc.co.uk/news/science-environment-58925049?at_medium=RSS&at_campaign=KARANGA) BBC: BBC science correspondent Matt McGrath answers your questions about Glasgow's COP26 climate summit. 
  <p class="updated_time"> 06:59 AM CT, Oct. 18 </p> 
- [David Amess Honored in House of Commons Tribute to Slain Lawmaker](https://www.wsj.com/articles/david-amess-honored-in-house-of-commons-tribute-to-slain-lawmaker-11634572767) WSJ: Police in the U.K. continue to question a suspect and are seeking motives for why Mr. Amess was targeted in a suspected terrorist attack last week. 
+ [U.K. House of Commons Pays Tribute to Slain Lawmaker](https://www.wsj.com/articles/david-amess-honored-in-house-of-commons-tribute-to-slain-lawmaker-11634572767) WSJ: Police continue to question a suspect and are seeking motives for why David Amess was targeted in a suspected terrorist attack last week. 
  <p class="updated_time"> 06:54 AM CT, Oct. 18 </p> 
  [Prince William's Earthshot Prize Honors Costa Rica and Milan in Climate Fight](https://www.nytimes.com/2021/10/17/climate/earthshot-prizes-costa-rica-milan.html) NYT: Costa Rica and the city of Milan were among the five winners that each received one million pounds, or nearly $1.4 million, to continue sustainability and conservation efforts during a ceremony in London. 
  <p class="updated_time"> 06:10 AM CT, Oct. 18 </p> 
@@ -75,19 +79,15 @@ permalink: /charts/news/
  <p class="updated_time"> 04:00 AM CT, Oct. 18 </p> 
  [How a Nuclear Bomb Could Save Earth From a Stealthy Asteroid](https://www.nytimes.com/2021/10/18/science/asteroid-nuclear-bomb.html) NYT: An atomic blast is not the preferred solution for planetary defense, but 3-D models are helping scientists prepare for a worst-case scenario. 
  <p class="updated_time"> 02:00 AM CT, Oct. 18 </p> 
- [World Bank Mishandled Sexual- Harassment Claims, Internal Tribunal Says](https://www.wsj.com/articles/world-bank-mishandled-sexual-harassment-claims-internal-tribunal-says-11634554802) WSJ: A labor tribunal found the bank ignored allegations of sexual harassment by a senior official, now a Costa Rican presidential candidate. 
+ [World Bank Mishandled Claims of Sexual Harassment, Tribunal Says](https://www.wsj.com/articles/world-bank-mishandled-sexual-harassment-claims-internal-tribunal-says-11634554802) WSJ: An internal labor tribunal found the bank ignored allegations of sexual harassment by a senior official, now a Costa Rican presidential candidate. 
  <p class="updated_time"> 12:59 AM CT, Oct. 18 </p> 
  [China Faces Slower Growth as It Pursues Long-Term Reforms](https://www.wsj.com/articles/china-faces-slower-growth-path-as-it-pursues-longer-term-reforms-11634551142) WSJ: With its pandemic recovery in the rear-view mirror, China now faces a prolonged period of slower growth with increasing policy uncertainties as Beijing attempts to carry out ambitious long-term reforms. 
- <p class="updated_time"> 11:38 PM CT, Oct. 17 </p> 
- [For Christian Aid Ministries, Charity in Haiti Turns to Chaos](https://www.nytimes.com/2021/10/17/world/americas/amish-missionary-group-kidnap.html) NYT: An organization based in Ohio and founded by Amish and Mennonites has been swept up in the violence roiling the country. 
  <p class="updated_time"> 10:12 PM CT, Oct. 17 </p> 
  [Your Monday Briefing](https://www.nytimes.com/2021/10/17/briefing/antiviral-pill-biden-climate-change.html) NYT: A new antiviral coronavirus pill. 
  <p class="updated_time"> 09:41 PM CT, Oct. 17 </p> 
  [Washington Hears Echoes of the ’50s and Worries: Is This a Cold War With China?](https://www.nytimes.com/2021/10/17/us/politics/china-new-cold-war.html) NYT: Incursions into Taiwan’s air zone, a space launch and what looked like a prisoner swap raise a question that is about more than just semantics. It could signal a dangerous new mind-set. 
  <p class="updated_time"> 09:34 PM CT, Oct. 17 </p> 
  [China's GDP Growth Slows as Property and Energy Take a Toll](https://www.nytimes.com/2021/10/17/business/economy/china-economy-gdp.html) NYT: Growth of 4.9 percent shows the country’s huge industrial sector has run into trouble. But exports and services are looking strong. 
- <p class="updated_time"> 09:19 PM CT, Oct. 17 </p> 
- [At Axel Springer, Allegations of Sex, Lies and a Secret Payment](https://www.nytimes.com/2021/10/17/business/media/axel-springer-bild-julian-reichelt.html) NYT: A high-flying German media giant is ahead on digital media but seems stuck in the past when it comes to the workplace and deal-making. 
  <p class="updated_time"> 09:00 PM CT, Oct. 17 </p> 
  [Israel: Hundreds strip naked by the Dead Sea](https://www.bbc.co.uk/news/world-58950281?at_medium=RSS&at_campaign=KARANGA) BBC: Hundreds of people stripped naked by the Dead Sea in Israel to highlight environmental changes. 
  <p class="updated_time"> 07:43 PM CT, Oct. 17 </p> 
@@ -128,8 +128,6 @@ permalink: /charts/news/
  [Bill Clinton: Thumbs up as former US president leaves hospital](https://www.bbc.co.uk/news/world-us-canada-58947921?at_medium=RSS&at_campaign=KARANGA) BBC: The former US president is discharged from a Californian hospital accompanied by his wife Hillary. 
  <p class="updated_time"> 02:38 PM CT, Oct. 17 </p> 
  [Police Search for Motive in British Lawmaker’s Killing](https://www.nytimes.com/2021/10/17/world/europe/uk-stabbing-attack.html) NYT: An attack has rekindled questions about the security of members of Parliament. 
- <p class="updated_time"> 12:51 PM CT, Oct. 17 </p> 
- [Russian Film Crew Wraps Space Station Shoot and Returns to Earth](https://www.nytimes.com/2021/10/17/science/russia-film-space-station.html) NYT: A Russian actress and film director landed near Russia’s spaceflight base in Kazakhstan after 12 days in orbit. 
  <p class="updated_time"> 12:45 PM CT, Oct. 17 </p> 
  [Fake Polls and Tabloid Coverage on Demand: The Dark Side of Sebastian Kurz](https://www.nytimes.com/2021/10/17/world/europe/austria-sebastian-kurz-scandal-chancellor.html) NYT: The downfall of Austria’s onetime political Wunderkind put a spotlight on the cozy, sometimes corrupt, relationship between right-wing populists and parts of the news media. 
  <p class="updated_time"> 11:17 AM CT, Oct. 17 </p> 
@@ -138,8 +136,6 @@ permalink: /charts/news/
  [China's Scripted Homicides Become a Popular Pastime](https://www.nytimes.com/2021/10/16/world/asia/china-murder-script.html) NYT: “Scripted homicide” clubs have opened around the country as young people look for ways to escape and connect. Naturally, the government has questions. 
  <p class="updated_time"> 09:27 AM CT, Oct. 17 </p> 
  [In Haiti, Aid Group Workers Are Kidnapped](https://www.nytimes.com/2021/10/16/world/americas/missionaries-kidnap-haiti.html) NYT: Up to 17 missionaries and their family members were taken by gang members in the capital of a country where kidnappings have become increasingly common. 
- <p class="updated_time"> 09:00 AM CT, Oct. 17 </p> 
- [Bringing Attention to the Maori Language, One Song at a Time](https://www.nytimes.com/2021/10/17/arts/music/maori-language-song-translations.html) NYT: “Waiata/Anthems,” Lorde’s “Te Ao Marama” EP and a host of other projects are aimed at revitalizing the Indigenous language of New Zealand via music. 
  <p class="updated_time"> 08:12 AM CT, Oct. 17 </p> 
  [How a Stunning Lagoon in Spain Turned Into ‘Green Soup’](https://www.nytimes.com/2021/10/17/world/europe/spain-lagoon-pollution-mar-menor.html) NYT: Tons of dead fish have washed ashore in recent years from the Mar Menor, a once-crystalline lagoon on the Mediterranean coast that has become choked with algae. Farm pollution is mostly blamed. 
  <p class="updated_time"> 07:42 AM CT, Oct. 17 </p> 
@@ -190,12 +186,16 @@ permalink: /charts/news/
  [Week in pictures: 9 - 15 October 2021](https://www.bbc.co.uk/news/in-pictures-58911596?at_medium=RSS&at_campaign=KARANGA) BBC: A selection of powerful images from all over the globe, taken this week. 
  <p class="updated_time"> 06:58 PM CT, Oct. 15 </p> 
  [Italy's New Law Requires Workers to Get Covid Vaccine or Testing](https://www.nytimes.com/2021/10/15/world/europe/italy-vaccination-law-covid.html) NYT: The rollout went more or less smoothly, with only scattered protests, as the majority of citizens accepted the ‘Green Pass’ as a tolerable sacrifice to stem the Covid pandemic. 
+ <p class="updated_time"> 03:41 PM CT, Oct. 15 </p> 
+ [Protests Over Italy's Covid 'Green Pass' Draw Only Scattered Crowds](https://www.nytimes.com/2021/10/15/world/europe/covid-italy-green-pass-protests.html) NYT: While there were scattered protests across Italy on Friday, many in the country appeared to accept the measure as necessary. 
  <p class="updated_time"> 03:13 PM CT, Oct. 15 </p> 
  [A Year Later, a Schoolteacher’s Beheading Still Haunts France](https://www.nytimes.com/2021/10/15/world/europe/france-samuel-paty-beheading.html) NYT: The killing of Samuel Paty by an 18-year-old Chechen refugee intensified debate over security and immigration, and prompted intense scrutiny of the French secular model. 
  <p class="updated_time"> 11:14 AM CT, Oct. 15 </p> 
  [How the Nobel Peace Prize Laid Bare the Schism in Russia’s Opposition](https://www.nytimes.com/2021/10/15/world/europe/russia-dissent-muratov-navalny-nobel.html) NYT: Dmitri A. Muratov, a new laureate, engages with the Kremlin, while Aleksei A. Navalny, the most high-profile Putin critic, resists all compromise. The Kremlin capitalizes on the fault line. 
  <p class="updated_time"> 11:10 AM CT, Oct. 15 </p> 
  [Push to Improve Sex Ed in Australia Comes From 10,000 Miles Away](https://www.nytimes.com/2021/10/15/world/australia/sex-education-consent-contos.html) NYT: A grad student in London hoped to collect a few testimonies from teenage sexual assault victims for a petition to teach consent in schools. She got thousands. 
+ <p class="updated_time"> 10:22 AM CT, Oct. 15 </p> 
+ [Bangladesh Strengthens Security as Violence Targets Hindu Festival](https://www.nytimes.com/2021/10/15/world/asia/15bangladesh-muslim-hindu-violence.html) NYT: Paramilitary forces were deployed across much of the country after the worst communal violence in years targeted dozens of Hindu gatherings. 
  <p class="updated_time"> 11:47 AM CT, Oct. 14 </p> 
  [Why China's climate policy matters to us all](https://www.bbc.co.uk/news/world-asia-china-57483492?at_medium=RSS&at_campaign=KARANGA) BBC: The global battle against climate change is likely to be won or lost in China. 
  <p class="updated_time"> 07:50 AM CT, Oct. 13 </p> 
