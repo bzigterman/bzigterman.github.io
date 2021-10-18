@@ -6,8 +6,14 @@ permalink: /charts/news/
 
 ## World News
 
- <p class="updated_time"> 03:19 AM CT, Oct. 18 </p> 
- [Taiwan Couple Is Suspected of Negligent Homicide in Building Fire](https://www.nytimes.com/2021/10/18/world/asia/taiwan-building-fire.html) NYT: Prosecutors accused a woman of leaving a burning incense coil unattended in the building in Kaohsiung. Her partner was accused of failing to remind her to douse the coil before leaving. 
+ <p class="updated_time"> 04:13 AM CT, Oct. 18 </p> 
+ [Kerala floods: At least 24 killed as rescuers step up efforts](https://www.bbc.co.uk/news/world-asia-india-58940880?at_medium=RSS&at_campaign=KARANGA) BBC: Heavy rains cause rivers to overflow in Kerala, washing away homes and trapping people under debris. 
+ <p class="updated_time"> 04:00 AM CT, Oct. 18 </p> 
+ [How a Nuclear Bomb Could Save Earth From a Stealthy Asteroid](https://www.nytimes.com/2021/10/18/science/asteroid-nuclear-bomb.html) NYT: An atomic blast is not the preferred solution for planetary defense, but 3-D models are helping scientists prepare for a worst-case scenario. 
+ <p class="updated_time"> 03:56 AM CT, Oct. 18 </p> 
+ [Taiwan Couple Are Suspected of Negligent Homicide in Building Fire](https://www.nytimes.com/2021/10/18/world/asia/taiwan-building-fire.html) NYT: Prosecutors accused a woman of leaving a burning incense coil unattended in the building in Kaohsiung. Her partner was accused of failing to remind her to douse the coil before leaving. 
+ <p class="updated_time"> 03:52 AM CT, Oct. 18 </p> 
+ [Myanmar to release 5,000 prisoners held over coup](https://www.bbc.co.uk/news/world-asia-58929644?at_medium=RSS&at_campaign=KARANGA) BBC: The leader of the military junta says they are being freed for humanitarian reasons. 
  <p class="updated_time"> 03:12 AM CT, Oct. 18 </p> 
  [Ronnie Tutt: 'Legendary' Elvis Presley drummer dies at 83](https://www.bbc.co.uk/news/entertainment-arts-58951519?at_medium=RSS&at_campaign=KARANGA) BBC: Tutt provided the backbeat for the King of Rock 'n' Roll's 1969 Taking Care of Business tour. 
  <p class="updated_time"> 02:11 AM CT, Oct. 18 </p> 
@@ -18,8 +24,6 @@ permalink: /charts/news/
  [Facebook to hire 10,000 in EU to work on metaverse](https://www.bbc.co.uk/news/world-europe-58949867?at_medium=RSS&at_campaign=KARANGA) BBC: Mark Zuckerberg is a leading voice on the metaverse - a virtual reality version of the internet. 
  <p class="updated_time"> 11:38 PM CT, Oct. 17 </p> 
  [For Christian Aid Ministries, Charity in Haiti Turns to Chaos](https://www.nytimes.com/2021/10/17/world/americas/amish-missionary-group-kidnap.html) NYT: An organization based in Ohio and founded by Amish and Mennonites has been swept up in the violence roiling the country. 
- <p class="updated_time"> 11:22 PM CT, Oct. 17 </p> 
- [Kerala floods: At least 24 killed as rescuers step up efforts](https://www.bbc.co.uk/news/world-asia-india-58940880?at_medium=RSS&at_campaign=KARANGA) BBC: Heavy rains cause rivers to overflow in Kerala, washing away homes and trapping people under debris. 
  <p class="updated_time"> 10:37 PM CT, Oct. 17 </p> 
  [Afghan girls are ‘left in darkness’ by the Taliban](https://www.bbc.co.uk/news/world-58950282?at_medium=RSS&at_campaign=KARANGA) BBC: BBC correspondent Yogita Limaye in Kabul asks the Taliban when girls can go back to school. 
  <p class="updated_time"> 10:12 PM CT, Oct. 17 </p> 
@@ -70,8 +74,6 @@ permalink: /charts/news/
  [India Evicts Muslims in Assam, Even Those Living There Legally](https://www.nytimes.com/2021/10/17/world/asia/india-assam-muslim-evictions.html) NYT: Critics say an Indian state’s campaign to expel longtime residents on government land marks the ruling party’s latest campaign against Muslims. 
  <p class="updated_time"> 05:22 PM CT, Oct. 17 </p> 
  [Town Rattled by Bow-and-Arrow Killings Ponders Terrorism and Mental Illness](https://www.nytimes.com/2021/10/17/world/europe/norway-bow-and-arrow-killings.html) NYT: The police in Norway, initially pointing to Islamic extremism, now say an attacker was “not well, mentally.” 
- <p class="updated_time"> 05:07 PM CT, Oct. 17 </p> 
- [Belarus: French ambassador leaves Minsk after Minsk expels him](https://www.bbc.co.uk/news/world-europe-58949524?at_medium=RSS&at_campaign=KARANGA) BBC: France, among other countries, does not recognise the president's claim to a sixth term. 
  <p class="updated_time"> 04:15 PM CT, Oct. 17 </p> 
  [Will New Covid Treatments Be as Elusive for Poor Countries as Vaccines?](https://www.nytimes.com/2021/10/17/health/covid-treatment-access-molnupiravir.html) NYT: Merck has taken a step to make its antiviral pill available in poor nations, but many obstacles remain for broad access to coronavirus drugs. 
  <p class="updated_time"> 03:36 PM CT, Oct. 17 </p> 
@@ -166,8 +168,6 @@ permalink: /charts/news/
  [Week in pictures: 9 - 15 October 2021](https://www.bbc.co.uk/news/in-pictures-58911596?at_medium=RSS&at_campaign=KARANGA) BBC: A selection of powerful images from all over the globe, taken this week. 
  <p class="updated_time"> 06:58 PM CT, Oct. 15 </p> 
  [Italy's New Law Requires Workers to Get Covid Vaccine or Testing](https://www.nytimes.com/2021/10/15/world/europe/italy-vaccination-law-covid.html) NYT: The rollout went more or less smoothly, with only scattered protests, as the majority of citizens accepted the ‘Green Pass’ as a tolerable sacrifice to stem the Covid pandemic. 
- <p class="updated_time"> 05:00 PM CT, Oct. 15 </p> 
- [Booster Confusion](https://www.nytimes.com/2021/10/15/briefing/johnson-and-johnson-booster-fda.html) NYT: When an F.D.A. panel meets today about J. & J. booster shots, there will be an elephant in the room. 
  <p class="updated_time"> 03:57 PM CT, Oct. 15 </p> 
  [Suspect Confesses in Bow-and-Arrow Rampage in Norway](https://www.nytimes.com/2021/10/15/world/europe/norway-murder-bow-arrow-terrorism.html) NYT: Espen Anderson Brathen has been charged with murder in the deaths of five people after the authorities say he went on a killing spree armed with a hunting bow. 
  <p class="updated_time"> 03:41 PM CT, Oct. 15 </p> 
