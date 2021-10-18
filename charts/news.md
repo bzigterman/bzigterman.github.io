@@ -6,18 +6,22 @@ permalink: /charts/news/
 
 ## World News
 
- <p class="updated_time"> 10:42 AM CT, Oct. 18 </p> 
+ <p class="updated_time"> 11:13 AM CT, Oct. 18 </p> 
+ [Hello? This Is Colombia’s Antimachismo Hotline.](https://www.nytimes.com/2021/10/18/world/americas/colombia-machismo-hotline-masculinity.html) NYT: A new hotline in Bogotá takes calls from men struggling with jealousy, control and fear — and challenges long-held assumptions about masculinity. 
+ <p class="updated_time"> 11:11 AM CT, Oct. 18 </p> 
  [Colin Powell: Former US secretary of state dies of Covid complications](https://www.bbc.co.uk/news/world-us-canada-58957273?at_medium=RSS&at_campaign=KARANGA) BBC: The ex-US secretary of state, the first African-American in that role, dies of Covid complications. 
+ <p class="updated_time"> 11:07 AM CT, Oct. 18 </p> 
+ [Kerala floods: At least 26 killed as rescuers step up efforts](https://www.bbc.co.uk/news/world-asia-india-58940880?at_medium=RSS&at_campaign=KARANGA) BBC: Heavy rains cause rivers to overflow in Kerala, washing away homes and trapping people under debris. 
+ <p class="updated_time"> 11:03 AM CT, Oct. 18 </p> 
+ [In Hungary’s Heartland, Orban Faces a Unified Challenge to His Rule](https://www.nytimes.com/2021/10/18/world/europe/hungary-viktor-orban-election.html) NYT: The country’s normally fractious opposition has rallied around a conservative mayor who just might be able to oust the authoritarian prime minister after more than a decade. 
+ <p class="updated_time"> 10:38 AM CT, Oct. 18 </p> 
+ [Russia to suspend Nato diplomatic mission amid tension](https://www.bbc.co.uk/news/world-europe-58959386?at_medium=RSS&at_campaign=KARANGA) BBC: Nato expelled eight Russian diplomats earlier this month, saying they were intelligence officers. 
  <p class="updated_time"> 10:06 AM CT, Oct. 18 </p> 
  [Myanmar Announces Amnesty for Thousands of Anti-Coup Protesters](https://www.nytimes.com/2021/10/18/world/asia/myanmar-military-amnesty-protesters.html) NYT: The junta, which seized power in February, said it was releasing the prisoners to mark the Lighting Festival, a three-day holiday that begins Tuesday. 
- <p class="updated_time"> 10:05 AM CT, Oct. 18 </p> 
- [Hello? This Is Colombia’s Antimachismo Hotline.](https://www.nytimes.com/2021/10/18/world/americas/colombia-machismo-hotline-masculinity.html) NYT: A new hotline in Bogotá takes calls from men struggling with jealousy, control and fear — and challenges long-held assumptions about masculinity. 
  <p class="updated_time"> 09:39 AM CT, Oct. 18 </p> 
  [Yukon Territory Imposes Vaccine Mandate Amid Rise in Cases](https://www.nytimes.com/2021/10/16/world/yukon-vaccine-mandate.html) NYT: Health care workers and others in the Yukon must be fully vaccinated by Nov. 30. The territory is also starting a vaccination passport program. 
  <p class="updated_time"> 09:22 AM CT, Oct. 18 </p> 
  [Colin Powell dies of complications from Covid.](https://www.nytimes.com/2021/10/18/world/colin-powell-dies-at-84-of-complications-from-covid.html) NYT: NA 
- <p class="updated_time"> 09:17 AM CT, Oct. 18 </p> 
- [Ronnie Tutt: 'Legendary' Elvis Presley drummer dies at 83](https://www.bbc.co.uk/news/entertainment-arts-58951519?at_medium=RSS&at_campaign=KARANGA) BBC: Tutt provided the backbeat for the King of Rock 'n' Roll's 1969 Taking Care of Business tour. 
  <p class="updated_time"> 09:09 AM CT, Oct. 18 </p> 
  [Robert Durst, Millionaire Convicted of Murder, on Ventilator With Covid](https://www.nytimes.com/2021/10/16/world/robert-durst-covid-ventilator.html) NYT: The 78-year-old millionaire and former real estate mogul was sentenced to life in prison on Thursday for the murder of a friend in 2000. 
  <p class="updated_time"> 08:51 AM CT, Oct. 18 </p> 
@@ -50,8 +54,6 @@ permalink: /charts/news/
  [Waterspout spectacle off the coast of Cuba](https://www.bbc.co.uk/news/world-latin-america-58952380?at_medium=RSS&at_campaign=KARANGA) BBC: Residents in Cienfuegos share footage of a waterspout which formed near the city. 
  <p class="updated_time"> 04:22 AM CT, Oct. 18 </p> 
  [Apparently, it's the next big thing. What is the metaverse?](https://www.bbc.co.uk/news/technology-58749529?at_medium=RSS&at_campaign=KARANGA) BBC: What does it mean, and what have Facebook and Fortnite got to do with it? 
- <p class="updated_time"> 04:13 AM CT, Oct. 18 </p> 
- [Kerala floods: At least 26 killed as rescuers step up efforts](https://www.bbc.co.uk/news/world-asia-india-58940880?at_medium=RSS&at_campaign=KARANGA) BBC: Heavy rains cause rivers to overflow in Kerala, washing away homes and trapping people under debris. 
  <p class="updated_time"> 04:11 AM CT, Oct. 18 </p> 
  [China's Xi Flexes Power With Plan to Rewrite Communist Party History](https://www.wsj.com/articles/chinas-xi-flexes-power-with-plan-to-rewrite-communist-party-history-11634562713) WSJ: Historical resolution would put leader on par with Mao and Deng, signaling strength despite economic, diplomatic challenges 
  <p class="updated_time"> 04:00 AM CT, Oct. 18 </p> 
@@ -186,8 +188,6 @@ permalink: /charts/news/
  [Protests Over Italy's Covid 'Green Pass' Draw Only Scattered Crowds](https://www.nytimes.com/2021/10/15/world/europe/covid-italy-green-pass-protests.html) NYT: While there were scattered protests across Italy on Friday, many in the country appeared to accept the measure as necessary. 
  <p class="updated_time"> 03:13 PM CT, Oct. 15 </p> 
  [A Year Later, a Schoolteacher’s Beheading Still Haunts France](https://www.nytimes.com/2021/10/15/world/europe/france-samuel-paty-beheading.html) NYT: The killing of Samuel Paty by an 18-year-old Chechen refugee intensified debate over security and immigration, and prompted intense scrutiny of the French secular model. 
- <p class="updated_time"> 01:58 PM CT, Oct. 15 </p> 
- [Abu Musab al-Barnawi, Leader of ISWAP, Has Died, Nigerian Army Says](https://www.nytimes.com/2021/10/15/world/africa/nigeria-islamic-state-abu-musab-al-barnawi-dead.html) NYT: A top military commander said that Abu Musab al-Barnawi, a kingpin of an extremist organization known as the Islamic State West Africa Province, had died. 
  <p class="updated_time"> 11:14 AM CT, Oct. 15 </p> 
  [How the Nobel Peace Prize Laid Bare the Schism in Russia’s Opposition](https://www.nytimes.com/2021/10/15/world/europe/russia-dissent-muratov-navalny-nobel.html) NYT: Dmitri A. Muratov, a new laureate, engages with the Kremlin, while Aleksei A. Navalny, the most high-profile Putin critic, resists all compromise. The Kremlin capitalizes on the fault line. 
  <p class="updated_time"> 11:10 AM CT, Oct. 15 </p> 
