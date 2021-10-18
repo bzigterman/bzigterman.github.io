@@ -6,6 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 09:41 PM CT, Oct. 17 </p> 
+ [Washington Hears Echoes of the ’50s and Worries: Is This a Cold War With China?](https://www.nytimes.com/2021/10/17/us/politics/china-new-cold-war.html) NYT: Incursions into Taiwan’s air zone, a space launch and what looked like a prisoner swap raise a question that is about more than just semantics. It could signal a dangerous new mind-set. 
  <p class="updated_time"> 07:45 PM CT, Oct. 17 </p> 
  [For Christian Aid Ministries, Charity in Haiti Turns to Chaos](https://www.nytimes.com/2021/10/17/world/americas/amish-missionary-group-kidnap.html) NYT: An organization based in Ohio and founded by Amish and Mennonites has been swept up in the violence roiling the country. 
  <p class="updated_time"> 07:43 PM CT, Oct. 17 </p> 
@@ -14,8 +16,6 @@ permalink: /charts/news/
  [I get abuse and threats online - why can't it be stopped?](https://www.bbc.co.uk/news/uk-58924168?at_medium=RSS&at_campaign=KARANGA) BBC: Online abuse against women is on the rise, but why aren't the police, government and social media sites doing more to stop it? 
  <p class="updated_time"> 06:46 PM CT, Oct. 17 </p> 
  [Kerala floods: Dozens missing in deadly India disaster](https://www.bbc.co.uk/news/world-asia-india-58940880?at_medium=RSS&at_campaign=KARANGA) BBC: Heavy rains cause rivers to overflow in Kerala, washing away homes and trapping people under debris. 
- <p class="updated_time"> 06:44 PM CT, Oct. 17 </p> 
- [Washington Hears Echoes of the ’50s and Worries: Is This a Cold War With China?](https://www.nytimes.com/2021/10/17/us/politics/china-new-cold-war.html) NYT: Incursions into Taiwan’s air zone, a space launch and what looked like a prisoner swap raise a question that is about more than just semantics. It could signal a dangerous new mind-set. 
  <p class="updated_time"> 06:36 PM CT, Oct. 17 </p> 
  [Iran's Covid orphans: 'She keeps asking where daddy is'](https://www.bbc.co.uk/news/world-58934632?at_medium=RSS&at_campaign=KARANGA) BBC: Around 51,000 children in Iran have lost a parent to Covid, according to officials. 
  <p class="updated_time"> 06:35 PM CT, Oct. 17 </p> 
@@ -42,6 +42,8 @@ permalink: /charts/news/
  [Indian State Evicts Muslims, Even Those Living There Legally](https://www.nytimes.com/2021/10/17/world/asia/india-assam-muslim-evictions.html) NYT: Critics say an Indian state’s campaign to expel longtime residents on government land marks the ruling party’s latest campaign against Muslims. 
  <p class="updated_time"> 05:22 PM CT, Oct. 17 </p> 
  [Town Rattled by Bow-and-Arrow Killings Ponders Terrorism and Mental Illness](https://www.nytimes.com/2021/10/17/world/europe/norway-bow-and-arrow-killings.html) NYT: The police in Norway, initially pointing to Islamic extremism, now say an attacker was “not well, mentally.” 
+ <p class="updated_time"> 05:08 PM CT, Oct. 17 </p> 
+ [China Third-Quarter Economic Growth Slows Sharply to 4.9%](https://www.wsj.com/articles/china-third-quarter-economic-growth-slows-sharply-to-4-9-11634522925) WSJ: China’s economy grew 4.9% in the third quarter from a year earlier, slowing sharply from the previous period, as power shortages and supply-chain problems added to the impact from Beijing’s efforts to rein in the real estate and technology sectors. 
  <p class="updated_time"> 05:07 PM CT, Oct. 17 </p> 
  [Belarus: French ambassador leaves Minsk after Minsk expels him](https://www.bbc.co.uk/news/world-europe-58949524?at_medium=RSS&at_campaign=KARANGA) BBC: France, among other countries, does not recognise the president's claim to a sixth term. 
  <p class="updated_time"> 04:15 PM CT, Oct. 17 </p> 
@@ -112,8 +114,6 @@ permalink: /charts/news/
  [How a massacre of Algerians in Paris was covered up](https://www.bbc.co.uk/news/world-africa-58927939?at_medium=RSS&at_campaign=KARANGA) BBC: French police killed at least 100 people in 1961, throwing some of them into the River Seine to drown them. 
  <p class="updated_time"> 06:02 PM CT, Oct. 16 </p> 
  [Pigs at Amsterdam's Schiphol Airport help to keep skies safe](https://www.bbc.co.uk/news/world-europe-58928677?at_medium=RSS&at_campaign=KARANGA) BBC: A team of 20 at Amsterdam's Schiphol Airport is part of a range of measures being used to reduce bird-strikes. 
- <p class="updated_time"> 05:30 PM CT, Oct. 16 </p> 
- [Deal Maker for Venezuela's Maduro Regime Extradited to U.S.](https://www.wsj.com/articles/deal-maker-for-venezuelas-maduro-regime-extradited-to-u-s-11634432668) WSJ: Businessman Alex Saab is accused by American prosecutors of creating a global network of companies to help Venezuela’s government evade U.S. sanctions. 
  <p class="updated_time"> 04:19 PM CT, Oct. 16 </p> 
  [After Iraqi Election, a Shiite Leader Emerges as an Unlikely U.S. Ally](https://www.nytimes.com/2021/10/16/world/middleeast/iraq-sadr-election.html) NYT: The U.S. once threatened to kill Muqtada al-Sadr as his militia battled occupying forces. Now, the powerful cleric is helping Washington by keeping Iran at bay. 
  <p class="updated_time"> 02:20 PM CT, Oct. 16 </p> 
