@@ -6,14 +6,24 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 11:49 AM CT, Oct. 18 </p> 
+ [Protests Against Lawlessness Erupt in Haiti](https://www.nytimes.com/2021/10/18/world/americas/haiti-protests-lawlessness.html) NYT: The desperation of Haitians in the face of powerful gangs fueled the calls for a broad strike. The kidnapping of missionaries on Saturday added to the tense atmosphere. 
+ <p class="updated_time"> 11:47 AM CT, Oct. 18 </p> 
+ [In Hungary’s Heartland, Orban Faces a Unified Challenge to His Rule](https://www.nytimes.com/2021/10/18/world/europe/hungary-viktor-orban-election.html) NYT: The country’s normally fractious opposition has rallied around a conservative mayor who just might be able to oust the authoritarian prime minister after more than a decade. 
+ <p class="updated_time"> 11:34 AM CT, Oct. 18 </p> 
+ [Colin Powell: Former US secretary of state dies of Covid complications](https://www.bbc.co.uk/news/world-us-canada-58957273?at_medium=RSS&at_campaign=KARANGA) BBC: The ex-US secretary of state, the first African-American in that role, dies of Covid complications. 
+ <p class="updated_time"> 11:27 AM CT, Oct. 18 </p> 
+ [Russia Breaks Diplomatic Ties with NATO](https://www.nytimes.com/2021/10/18/world/europe/russia-nato.html) NYT: Moscow’s decision to end its diplomatic mission to the alliance will end a long post-Cold War experiment in building trust between militaries. 
+ <p class="updated_time"> 11:18 AM CT, Oct. 18 </p> 
+ [China denies testing nuclear-capable hypersonic missile](https://www.bbc.co.uk/news/world-asia-china-58953352?at_medium=RSS&at_campaign=KARANGA) BBC: The report in the Financial Times newspaper reportedly caught US intelligence by surprise. 
+ <p class="updated_time"> 11:15 AM CT, Oct. 18 </p> 
+ [Ahmaud Arbery: Trial over black jogger's death begins](https://www.bbc.co.uk/news/world-us-canada-58931529?at_medium=RSS&at_campaign=KARANGA) BBC: The three men involved in ambushing and shooting the jogger face murder and assault charges. 
  <p class="updated_time"> 11:13 AM CT, Oct. 18 </p> 
  [Hello? This Is Colombia’s Antimachismo Hotline.](https://www.nytimes.com/2021/10/18/world/americas/colombia-machismo-hotline-masculinity.html) NYT: A new hotline in Bogotá takes calls from men struggling with jealousy, control and fear — and challenges long-held assumptions about masculinity. 
- <p class="updated_time"> 11:11 AM CT, Oct. 18 </p> 
- [Colin Powell: Former US secretary of state dies of Covid complications](https://www.bbc.co.uk/news/world-us-canada-58957273?at_medium=RSS&at_campaign=KARANGA) BBC: The ex-US secretary of state, the first African-American in that role, dies of Covid complications. 
+ <p class="updated_time"> 11:07 AM CT, Oct. 18 </p> 
+ [Greta Thunberg sings Rick Astley at climate concert](https://www.bbc.co.uk/news/world-58952383?at_medium=RSS&at_campaign=KARANGA) BBC: Greta Thunberg sings Rick Astley's "Never Going To Give You Up" to launch series of climate concerts. 
  <p class="updated_time"> 11:07 AM CT, Oct. 18 </p> 
  [Kerala floods: At least 26 killed as rescuers step up efforts](https://www.bbc.co.uk/news/world-asia-india-58940880?at_medium=RSS&at_campaign=KARANGA) BBC: Heavy rains cause rivers to overflow in Kerala, washing away homes and trapping people under debris. 
- <p class="updated_time"> 11:03 AM CT, Oct. 18 </p> 
- [In Hungary’s Heartland, Orban Faces a Unified Challenge to His Rule](https://www.nytimes.com/2021/10/18/world/europe/hungary-viktor-orban-election.html) NYT: The country’s normally fractious opposition has rallied around a conservative mayor who just might be able to oust the authoritarian prime minister after more than a decade. 
  <p class="updated_time"> 10:38 AM CT, Oct. 18 </p> 
  [Russia to suspend Nato diplomatic mission amid tension](https://www.bbc.co.uk/news/world-europe-58959386?at_medium=RSS&at_campaign=KARANGA) BBC: Nato expelled eight Russian diplomats earlier this month, saying they were intelligence officers. 
  <p class="updated_time"> 10:06 AM CT, Oct. 18 </p> 
@@ -24,8 +34,6 @@ permalink: /charts/news/
  [Colin Powell dies of complications from Covid.](https://www.nytimes.com/2021/10/18/world/colin-powell-dies-at-84-of-complications-from-covid.html) NYT: NA 
  <p class="updated_time"> 09:09 AM CT, Oct. 18 </p> 
  [Robert Durst, Millionaire Convicted of Murder, on Ventilator With Covid](https://www.nytimes.com/2021/10/16/world/robert-durst-covid-ventilator.html) NYT: The 78-year-old millionaire and former real estate mogul was sentenced to life in prison on Thursday for the murder of a friend in 2000. 
- <p class="updated_time"> 08:51 AM CT, Oct. 18 </p> 
- [New Zealand Extends Auckland Lockdown](https://www.nytimes.com/live/2021/10/18/world/covid-delta-variant-vaccine/new-zealand-auckland-lockdown) NYT: The city, Auckland, has been in lockdown since Aug. 17, after an outbreak of the Delta variant. 
  <p class="updated_time"> 08:19 AM CT, Oct. 18 </p> 
  [Taiwan Couple Are Suspected of Negligent Homicide in Building Fire](https://www.nytimes.com/2021/10/18/world/asia/taiwan-building-fire.html) NYT: Prosecutors accused a woman of leaving a burning incense coil unattended in the building in Kaohsiung. Her partner was accused of failing to remind her to douse the coil before leaving. 
  <p class="updated_time"> 07:51 AM CT, Oct. 18 </p> 
@@ -36,8 +44,8 @@ permalink: /charts/news/
  [Pedro Sánchez: Spanish PM vows to outlaw prostitution](https://www.bbc.co.uk/news/world-europe-58947172?at_medium=RSS&at_campaign=KARANGA) BBC: The UN estimates Spain's sex industry has become worth €3.7bn since decriminalisation in 1995. 
  <p class="updated_time"> 07:30 AM CT, Oct. 18 </p> 
  [COP26: Does a climate summit need 25,000 people? And more questions](https://www.bbc.co.uk/news/science-environment-58925049?at_medium=RSS&at_campaign=KARANGA) BBC: BBC science correspondent Matt McGrath answers your questions about Glasgow's COP26 climate summit. 
- <p class="updated_time"> 07:04 AM CT, Oct. 18 </p> 
- [Ahmaud Arbery: Trial over black jogger's death begins](https://www.bbc.co.uk/news/world-us-canada-58931529?at_medium=RSS&at_campaign=KARANGA) BBC: The three men involved in ambushing and shooting the jogger face murder and assault charges. 
+ <p class="updated_time"> 06:59 AM CT, Oct. 18 </p> 
+ [David Amess Honored in House of Commons Tribute to Slain Lawmaker](https://www.wsj.com/articles/david-amess-honored-in-house-of-commons-tribute-to-slain-lawmaker-11634572767) WSJ: Police in the U.K. continue to question a suspect and are seeking motives for why Mr. Amess was targeted in a suspected terrorist attack last week. 
  <p class="updated_time"> 06:54 AM CT, Oct. 18 </p> 
  [Prince William's Earthshot Prize Honors Costa Rica and Milan in Climate Fight](https://www.nytimes.com/2021/10/17/climate/earthshot-prizes-costa-rica-milan.html) NYT: Costa Rica and the city of Milan were among the five winners that each received one million pounds, or nearly $1.4 million, to continue sustainability and conservation efforts during a ceremony in London. 
  <p class="updated_time"> 06:10 AM CT, Oct. 18 </p> 
@@ -48,8 +56,6 @@ permalink: /charts/news/
  [America’s Cash Glut](https://www.nytimes.com/2021/10/18/briefing/us-economy-cash-glut.html) NYT: The economy is almost doing too well. But there are some problems. 
  <p class="updated_time"> 05:40 AM CT, Oct. 18 </p> 
  [To Strike a Climate Deal, Poor Nations Say They Need Trillions From Rich Ones](https://www.wsj.com/articles/to-strike-a-climate-deal-poor-nations-say-they-need-trillions-from-rich-ones-11634568010) WSJ: Industrialized countries were already struggling to pay earlier commitments to help with clean-energy development and other infrastructure needs. Now the cost of buying cooperation has skyrocketed. 
- <p class="updated_time"> 05:26 AM CT, Oct. 18 </p> 
- [China denies testing nuclear-capable hypersonic missile](https://www.bbc.co.uk/news/world-asia-china-58953352?at_medium=RSS&at_campaign=KARANGA) BBC: The report in the Financial Times newspaper reportedly caught US intelligence by surprise. 
  <p class="updated_time"> 05:15 AM CT, Oct. 18 </p> 
  [Waterspout spectacle off the coast of Cuba](https://www.bbc.co.uk/news/world-latin-america-58952380?at_medium=RSS&at_campaign=KARANGA) BBC: Residents in Cienfuegos share footage of a waterspout which formed near the city. 
  <p class="updated_time"> 04:22 AM CT, Oct. 18 </p> 
@@ -66,8 +72,6 @@ permalink: /charts/news/
  [Facebook to hire 10,000 in EU to work on metaverse](https://www.bbc.co.uk/news/world-europe-58949867?at_medium=RSS&at_campaign=KARANGA) BBC: Mark Zuckerberg is a leading voice on the metaverse - a virtual reality version of the internet. 
  <p class="updated_time"> 11:38 PM CT, Oct. 17 </p> 
  [For Christian Aid Ministries, Charity in Haiti Turns to Chaos](https://www.nytimes.com/2021/10/17/world/americas/amish-missionary-group-kidnap.html) NYT: An organization based in Ohio and founded by Amish and Mennonites has been swept up in the violence roiling the country. 
- <p class="updated_time"> 10:37 PM CT, Oct. 17 </p> 
- [Afghan girls are ‘left in darkness’ by the Taliban](https://www.bbc.co.uk/news/world-58950282?at_medium=RSS&at_campaign=KARANGA) BBC: BBC correspondent Yogita Limaye in Kabul asks the Taliban when girls can go back to school. 
  <p class="updated_time"> 10:12 PM CT, Oct. 17 </p> 
  [Your Monday Briefing](https://www.nytimes.com/2021/10/17/briefing/antiviral-pill-biden-climate-change.html) NYT: A new antiviral coronavirus pill. 
  <p class="updated_time"> 09:41 PM CT, Oct. 17 </p> 
@@ -138,8 +142,6 @@ permalink: /charts/news/
  [Syria Accuses Israel of Assassinating Official Near Golan Heights](https://www.nytimes.com/2021/10/16/world/syria-accuses-israel-of-assassinating-official-near-golan-heights.html) NYT: Midhat Saleh, who oversaw the strategic Golan Heights boundary for Syria, was shot and killed by a sniper, the government said. 
  <p class="updated_time"> 05:15 AM CT, Oct. 17 </p> 
  [South Korea Reconsiders a Rite of Manhood: The Draft](https://www.nytimes.com/2021/10/17/world/asia/south-korea-conscription.html) NYT: Military conscription has become less popular. The rules have loosened. But experts still worry about the threat from the North. 
- <p class="updated_time"> 01:37 AM CT, Oct. 17 </p> 
- [Afghan Resettlement Effort Slowed by Housing, Tech Constraints](https://www.wsj.com/articles/u-s-afghan-resettlements-slowed-by-housing-shortage-old-technology-11634463001) WSJ: The U.S. push to resettle evacuees is set to take months longer than first expected as a measles scare, a nationwide housing shortage and paperwork delays have slowed the process. 
  <p class="updated_time"> 11:52 PM CT, Oct. 16 </p> 
  [U.S. Arrests Alex Saab, Deal Maker for Nicolás Maduro of Venezuela](https://www.nytimes.com/2021/10/16/world/americas/alex-saab-arrest-venezuela-maduro.html) NYT: Alex Saab, a Colombian businessman, is accused in the U.S. of siphoning millions from programs intended to help the needy in Venezuela. 
  <p class="updated_time"> 11:05 PM CT, Oct. 16 </p> 
@@ -194,8 +196,6 @@ permalink: /charts/news/
  [Push to Improve Sex Ed in Australia Comes From 10,000 Miles Away](https://www.nytimes.com/2021/10/15/world/australia/sex-education-consent-contos.html) NYT: A grad student in London hoped to collect a few testimonies from teenage sexual assault victims for a petition to teach consent in schools. She got thousands. 
  <p class="updated_time"> 10:22 AM CT, Oct. 15 </p> 
  [Bangladesh Strengthens Security as Violence Targets Hindu Festival](https://www.nytimes.com/2021/10/15/world/asia/15bangladesh-muslim-hindu-violence.html) NYT: Paramilitary forces were deployed across much of the country after the worst communal violence in years targeted dozens of Hindu gatherings. 
- <p class="updated_time"> 09:37 AM CT, Oct. 15 </p> 
- [U.K. Lab Issues 43,000 False Negatives on Virus Tests](https://www.nytimes.com/2021/10/15/world/uk-lab-false-negative-tests.html) NYT: The mistake was described as an “isolated incident attributed to one laboratory,” in a statement released by the U.K. Health Security Agency on Friday. 
  <p class="updated_time"> 11:47 AM CT, Oct. 14 </p> 
  [Why China's climate policy matters to us all](https://www.bbc.co.uk/news/world-asia-china-57483492?at_medium=RSS&at_campaign=KARANGA) BBC: The global battle against climate change is likely to be won or lost in China. 
  <p class="updated_time"> 07:50 AM CT, Oct. 13 </p> 
