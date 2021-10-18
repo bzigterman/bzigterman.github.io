@@ -6,12 +6,14 @@ permalink: /charts/news/
 
 ## World News
 
- <p class="updated_time"> 04:05 PM CT, Oct. 18 </p> 
+ <p class="updated_time"> 04:27 PM CT, Oct. 18 </p> 
+ [Zalmay Khalilzad, Biden’s Envoy for Afghanistan, Steps Down](https://www.nytimes.com/2021/10/18/us/politics/zalmay-khalilzad-afghanistan.html) NYT: An Afghan American and a rare Trump appointee who survived into the Biden administration, Mr. Khalilzad played a central role in the U.S. exit from the country. 
+ <p class="updated_time"> 04:27 PM CT, Oct. 18 </p> 
+ [What Scientists Know About the Risk of Breakthrough Covid Deaths](https://www.nytimes.com/2021/10/18/health/coronavirus-vaccine-powell-breakthrough.html) NYT: Deaths among people who have been fully vaccinated remain rare, but older adults and those with compromised immune systems are at much higher risk. 
+ <p class="updated_time"> 04:26 PM CT, Oct. 18 </p> 
  [F.B.I. Is Working in Haiti to Recover Kidnapped Missionaries](https://www.nytimes.com/2021/10/18/world/americas/haiti-protests.html) NYT: The United States has a team on the ground to try to secure the release of 17 people taken by a gang in the latest example of the violence that is leaving Haitians desperate. 
  <p class="updated_time"> 04:04 PM CT, Oct. 18 </p> 
  [For Christian Aid Ministries, Charity in Haiti Turns to Chaos](https://www.nytimes.com/2021/10/17/world/americas/amish-missionary-group-kidnap.html) NYT: An organization based in Ohio and founded by Amish and Mennonites has been swept up in the violence roiling the country. 
- <p class="updated_time"> 04:03 PM CT, Oct. 18 </p> 
- [Zalmay Khalilzad, Biden’s Envoy for Afghanistan, Steps Down](https://www.nytimes.com/2021/10/18/us/politics/zalmay-khalilzad-afghanistan.html) NYT: An Afghan American and a rare Trump appointee who survived into the Biden administration, Mr. Khalilzad played a central role in the U.S. exit from the country. 
  <p class="updated_time"> 03:56 PM CT, Oct. 18 </p> 
  [Your Tuesday Briefing](https://www.nytimes.com/2021/10/18/briefing/russia-covid-nato-china-banks.html) NYT: Russia hits a Covid death record. 
  <p class="updated_time"> 03:53 PM CT, Oct. 18 </p> 
