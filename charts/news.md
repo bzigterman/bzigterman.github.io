@@ -6,18 +6,20 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 09:17 AM CT, Oct. 18 </p> 
+ [Ronnie Tutt: 'Legendary' Elvis Presley drummer dies at 83](https://www.bbc.co.uk/news/entertainment-arts-58951519?at_medium=RSS&at_campaign=KARANGA) BBC: Tutt provided the backbeat for the King of Rock 'n' Roll's 1969 Taking Care of Business tour. 
+ <p class="updated_time"> 09:09 AM CT, Oct. 18 </p> 
+ [Robert Durst, Millionaire Convicted of Murder, on Ventilator With Covid](https://www.nytimes.com/2021/10/16/world/robert-durst-covid-ventilator.html) NYT: The 78-year-old millionaire and former real estate mogul was sentenced to life in prison on Thursday for the murder of a friend in 2000. 
+ <p class="updated_time"> 09:02 AM CT, Oct. 18 </p> 
+ [Colin Powell: Former US secretary of state dies of Covid complications](https://www.bbc.co.uk/news/world-us-canada-58957273?at_medium=RSS&at_campaign=KARANGA) BBC: The ex-US secretary of state, the first African-American in that role, dies of Covid complications. 
  <p class="updated_time"> 08:51 AM CT, Oct. 18 </p> 
  [New Zealand Extends Auckland Lockdown](https://www.nytimes.com/live/2021/10/18/world/covid-delta-variant-vaccine/new-zealand-auckland-lockdown) NYT: The city, Auckland, has been in lockdown since Aug. 17, after an outbreak of the Delta variant. 
- <p class="updated_time"> 08:44 AM CT, Oct. 18 </p> 
- [Colin Powell: Former US secretary of state dies of Covid complications](https://www.bbc.co.uk/news/world-us-canada-58957273?at_medium=RSS&at_campaign=KARANGA) BBC: The ex-US secretary of state, the first African-American in that role, dies of Covid complications. 
  <p class="updated_time"> 08:19 AM CT, Oct. 18 </p> 
  [Taiwan Couple Are Suspected of Negligent Homicide in Building Fire](https://www.nytimes.com/2021/10/18/world/asia/taiwan-building-fire.html) NYT: Prosecutors accused a woman of leaving a burning incense coil unattended in the building in Kaohsiung. Her partner was accused of failing to remind her to douse the coil before leaving. 
  <p class="updated_time"> 08:01 AM CT, Oct. 18 </p> 
  [Myanmar Announces Amnesty for Thousands of Anti-Coup Protesters](https://www.nytimes.com/2021/10/18/world/asia/myanmar-military-amnesty-protesters.html) NYT: The junta, which seized power in February, said it was releasing the prisoners to mark the Lighting Festival, a three-day holiday that begins Tuesday. 
  <p class="updated_time"> 07:51 AM CT, Oct. 18 </p> 
  [Afghanistan polio: UN plans nationwide vaccine campaign](https://www.bbc.co.uk/news/world-asia-58956624?at_medium=RSS&at_campaign=KARANGA) BBC: Its children's agency says it will begin vaccinations nationwide with the Taliban's blessing. 
- <p class="updated_time"> 07:34 AM CT, Oct. 18 </p> 
- [Ronnie Tutt: 'Legendary' Elvis Presley drummer dies at 83](https://www.bbc.co.uk/news/entertainment-arts-58951519?at_medium=RSS&at_campaign=KARANGA) BBC: Tutt provided the backbeat for the King of Rock 'n' Roll's 1969 Taking Care of Business tour. 
  <p class="updated_time"> 07:34 AM CT, Oct. 18 </p> 
  [Peter R de Vries: Suspect denies knowledge of Dutch reporter's murder](https://www.bbc.co.uk/news/world-europe-58955373?at_medium=RSS&at_campaign=KARANGA) BBC: The suspect appears in court alongside a man accused of shooting Peter R de Vries in Amsterdam. 
  <p class="updated_time"> 07:30 AM CT, Oct. 18 </p> 
@@ -42,6 +44,8 @@ permalink: /charts/news/
  [Apparently, it's the next big thing. What is the metaverse?](https://www.bbc.co.uk/news/technology-58749529?at_medium=RSS&at_campaign=KARANGA) BBC: What does it mean, and what have Facebook and Fortnite got to do with it? 
  <p class="updated_time"> 04:13 AM CT, Oct. 18 </p> 
  [Kerala floods: At least 26 killed as rescuers step up efforts](https://www.bbc.co.uk/news/world-asia-india-58940880?at_medium=RSS&at_campaign=KARANGA) BBC: Heavy rains cause rivers to overflow in Kerala, washing away homes and trapping people under debris. 
+ <p class="updated_time"> 04:11 AM CT, Oct. 18 </p> 
+ [China's Xi Flexes Power With Plan to Rewrite Communist Party History](https://www.wsj.com/articles/chinas-xi-flexes-power-with-plan-to-rewrite-communist-party-history-11634562713) WSJ: Historical resolution would put leader on par with Mao and Deng, signaling strength despite economic, diplomatic challenges 
  <p class="updated_time"> 04:00 AM CT, Oct. 18 </p> 
  [How a Nuclear Bomb Could Save Earth From a Stealthy Asteroid](https://www.nytimes.com/2021/10/18/science/asteroid-nuclear-bomb.html) NYT: An atomic blast is not the preferred solution for planetary defense, but 3-D models are helping scientists prepare for a worst-case scenario. 
  <p class="updated_time"> 02:00 AM CT, Oct. 18 </p> 
@@ -96,8 +100,6 @@ permalink: /charts/news/
  [Town Rattled by Bow-and-Arrow Killings Ponders Terrorism and Mental Illness](https://www.nytimes.com/2021/10/17/world/europe/norway-bow-and-arrow-killings.html) NYT: The police in Norway, initially pointing to Islamic extremism, now say an attacker was “not well, mentally.” 
  <p class="updated_time"> 04:15 PM CT, Oct. 17 </p> 
  [Will New Covid Treatments Be as Elusive for Poor Countries as Vaccines?](https://www.nytimes.com/2021/10/17/health/covid-treatment-access-molnupiravir.html) NYT: Merck has taken a step to make its antiviral pill available in poor nations, but many obstacles remain for broad access to coronavirus drugs. 
- <p class="updated_time"> 03:36 PM CT, Oct. 17 </p> 
- [Robert Durst, Millionaire Convicted of Murder, on Ventilator With Covid](https://www.nytimes.com/2021/10/16/world/robert-durst-covid-ventilator.html) NYT: The 78-year-old millionaire and former real estate mogul was sentenced to life in prison on Thursday for the murder of a friend in 2000. 
  <p class="updated_time"> 03:09 PM CT, Oct. 17 </p> 
  [What Is Christian Aid Ministries and What Does It Do in Haiti?](https://www.nytimes.com/2021/10/17/world/americas/what-is-christian-aid-ministries.html) NYT: The group, based in Ohio, distributes food and clothing, funds schools, teaches farming methods and helps with emergency relief. 
  <p class="updated_time"> 03:00 PM CT, Oct. 17 </p> 
@@ -114,12 +116,12 @@ permalink: /charts/news/
  [Tunisians Recall Revolution Reluctantly, if at All: ‘It Just Faded Away’](https://www.nytimes.com/2021/10/17/world/middleeast/tunisia-revolution-memoro-monuments.html) NYT: When a monument to those killed in the 2011 uprising was recently damaged, few took notice or even cared in a town, and country, where there is now more regret than a wish to remember. 
  <p class="updated_time"> 11:00 AM CT, Oct. 17 </p> 
  [China's Scripted Homicides Become a Popular Pastime](https://www.nytimes.com/2021/10/16/world/asia/china-murder-script.html) NYT: “Scripted homicide” clubs have opened around the country as young people look for ways to escape and connect. Naturally, the government has questions. 
+ <p class="updated_time"> 10:09 AM CT, Oct. 17 </p> 
+ [Behind the Energy Crisis: Fossil Fuel Investment Drops, and Renewables Aren't Ready](https://www.wsj.com/articles/energy-crisis-fossil-fuel-investment-renewables-gas-oil-prices-coal-wind-solar-hydro-power-grid-11634497531) WSJ: The transition to cleaner energy sources isn’t far enough along to meet a surge in demand, forcing countries to rely on fossil fuels. 
  <p class="updated_time"> 09:27 AM CT, Oct. 17 </p> 
  [In Haiti, Aid Group Workers Are Kidnapped](https://www.nytimes.com/2021/10/16/world/americas/missionaries-kidnap-haiti.html) NYT: Up to 17 missionaries and their family members were taken by gang members in the capital of a country where kidnappings have become increasingly common. 
  <p class="updated_time"> 09:00 AM CT, Oct. 17 </p> 
  [Bringing Attention to the Maori Language, One Song at a Time](https://www.nytimes.com/2021/10/17/arts/music/maori-language-song-translations.html) NYT: “Waiata/Anthems,” Lorde’s “Te Ao Marama” EP and a host of other projects are aimed at revitalizing the Indigenous language of New Zealand via music. 
- <p class="updated_time"> 08:49 AM CT, Oct. 17 </p> 
- [Nigeria's Criminal Gangs Steal Munitions and Extort the Government](https://www.wsj.com/articles/nigerias-gangs-raised-millions-by-kidnapping-children-now-the-government-cant-stop-them-11634400009) WSJ: In the forests of northwest Nigeria, loosely organized criminal gangs that raised funds kidnapping schoolchildren are now flush with arms and operating beyond the reach of an increasingly fragile state. 
  <p class="updated_time"> 08:12 AM CT, Oct. 17 </p> 
  [How a Stunning Lagoon in Spain Turned Into ‘Green Soup’](https://www.nytimes.com/2021/10/17/world/europe/spain-lagoon-pollution-mar-menor.html) NYT: Tons of dead fish have washed ashore in recent years from the Mar Menor, a once-crystalline lagoon on the Mediterranean coast that has become choked with algae. Farm pollution is mostly blamed. 
  <p class="updated_time"> 07:42 AM CT, Oct. 17 </p> 
