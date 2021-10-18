@@ -42,6 +42,8 @@ permalink: /charts/news/
  [Myanmar to release 5,000 prisoners held over coup](https://www.bbc.co.uk/news/world-asia-58929644?at_medium=RSS&at_campaign=KARANGA) BBC: The leader of the military junta says they are being freed for humanitarian reasons. 
  <p class="updated_time"> 05:41 AM CT, Oct. 18 </p> 
  [America’s Cash Glut](https://www.nytimes.com/2021/10/18/briefing/us-economy-cash-glut.html) NYT: The economy is almost doing too well. But there are some problems. 
+ <p class="updated_time"> 05:40 AM CT, Oct. 18 </p> 
+ [To Strike a Climate Deal, Poor Nations Say They Need Trillions From Rich Ones](https://www.wsj.com/articles/to-strike-a-climate-deal-poor-nations-say-they-need-trillions-from-rich-ones-11634568010) WSJ: Industrialized countries were already struggling to pay earlier commitments to help with clean-energy development and other infrastructure needs. Now the cost of buying cooperation has skyrocketed. 
  <p class="updated_time"> 05:26 AM CT, Oct. 18 </p> 
  [China denies testing nuclear-capable hypersonic missile](https://www.bbc.co.uk/news/world-asia-china-58953352?at_medium=RSS&at_campaign=KARANGA) BBC: The report in the Financial Times newspaper reportedly caught US intelligence by surprise. 
  <p class="updated_time"> 05:15 AM CT, Oct. 18 </p> 
@@ -122,8 +124,6 @@ permalink: /charts/news/
  [Tunisians Recall Revolution Reluctantly, if at All: ‘It Just Faded Away’](https://www.nytimes.com/2021/10/17/world/middleeast/tunisia-revolution-memoro-monuments.html) NYT: When a monument to those killed in the 2011 uprising was recently damaged, few took notice or even cared in a town, and country, where there is now more regret than a wish to remember. 
  <p class="updated_time"> 11:00 AM CT, Oct. 17 </p> 
  [China's Scripted Homicides Become a Popular Pastime](https://www.nytimes.com/2021/10/16/world/asia/china-murder-script.html) NYT: “Scripted homicide” clubs have opened around the country as young people look for ways to escape and connect. Naturally, the government has questions. 
- <p class="updated_time"> 10:09 AM CT, Oct. 17 </p> 
- [Behind the Energy Crisis: Fossil Fuel Investment Drops, and Renewables Aren't Ready](https://www.wsj.com/articles/energy-crisis-fossil-fuel-investment-renewables-gas-oil-prices-coal-wind-solar-hydro-power-grid-11634497531) WSJ: The transition to cleaner energy sources isn’t far enough along to meet a surge in demand, forcing countries to rely on fossil fuels. 
  <p class="updated_time"> 09:27 AM CT, Oct. 17 </p> 
  [In Haiti, Aid Group Workers Are Kidnapped](https://www.nytimes.com/2021/10/16/world/americas/missionaries-kidnap-haiti.html) NYT: Up to 17 missionaries and their family members were taken by gang members in the capital of a country where kidnappings have become increasingly common. 
  <p class="updated_time"> 09:00 AM CT, Oct. 17 </p> 
@@ -132,8 +132,6 @@ permalink: /charts/news/
  [How a Stunning Lagoon in Spain Turned Into ‘Green Soup’](https://www.nytimes.com/2021/10/17/world/europe/spain-lagoon-pollution-mar-menor.html) NYT: Tons of dead fish have washed ashore in recent years from the Mar Menor, a once-crystalline lagoon on the Mediterranean coast that has become choked with algae. Farm pollution is mostly blamed. 
  <p class="updated_time"> 07:42 AM CT, Oct. 17 </p> 
  [In Venezuela, a Rum Maker Offers Gangsters a Life Outside of Crime](https://www.nytimes.com/2021/10/16/world/americas/venezuela-rum-rehabilitation-crime.html) NYT: In the process, the family running the company, Ron Santa Teresa, has gone from bankruptcy to exporting an award-winning vintage rum. 
- <p class="updated_time"> 06:20 AM CT, Oct. 17 </p> 
- [British Police Question Alleged Attacker in Killing of Conservative Lawmaker David Amess](https://www.wsj.com/articles/british-police-question-alleged-attacker-in-killing-of-conservative-lawmaker-david-amess-11634484017) WSJ: The suspect is identified as a 25-year-old British citizen of Somali descent, an official said. 
  <p class="updated_time"> 05:39 AM CT, Oct. 17 </p> 
  [Syria Accuses Israel of Assassinating Official Near Golan Heights](https://www.nytimes.com/2021/10/16/world/syria-accuses-israel-of-assassinating-official-near-golan-heights.html) NYT: Midhat Saleh, who oversaw the strategic Golan Heights boundary for Syria, was shot and killed by a sniper, the government said. 
  <p class="updated_time"> 05:15 AM CT, Oct. 17 </p> 
