@@ -6,6 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 03:55 PM CT, Oct. 19 </p> 
+ [Kidnappers in Haiti Demand $17 Million to Free Missionary Group](https://www.nytimes.com/2021/10/19/world/americas/haiti-missionaries-ransom.html) NYT: A gang abducted 17 people associated with a Christian aid group, including five children. Most of those being held are Americans; one is Canadian. 
  <p class="updated_time"> 03:45 PM CT, Oct. 19 </p> 
  [Your Wednesday Briefing](https://www.nytimes.com/2021/10/19/briefing/australia-vaccines-evergrande-china-myanmar.html) NYT: Vaccine milestones in Australia and on tiny Pacific islands. 
  <p class="updated_time"> 03:12 PM CT, Oct. 19 </p> 
@@ -44,8 +46,6 @@ permalink: /charts/news/
  [Ukraine's Covid Deaths Soar as Fake Vaccination Certificates Spread](https://www.nytimes.com/2021/10/19/world/europe/ukraine-covid-deaths.html) NYT: In the country with the lowest rate of coronavirus vaccination in Europe, the proliferation of fakes threatens to undermine Ukraine’s fight against the virus. 
  <p class="updated_time"> 11:49 AM CT, Oct. 19 </p> 
  [Reluctance among Russians to get vaccinated has led to a surge in cases and deaths.](https://www.nytimes.com/2021/10/19/world/apathy-and-mistrust-leave-russia-facing-the-risks-of-a-low-vaccination-rate.html) NYT: NA 
- <p class="updated_time"> 11:03 AM CT, Oct. 19 </p> 
- [Kidnappers in Haiti Demand $17 Million to Free Missionary Group](https://www.nytimes.com/2021/10/19/world/europe/haiti-missionaries-ransom.html) NYT: A gang abducted 17 people associated with a Christian aid group, including five children. Most of those being held are Americans; one is Canadian. 
  <p class="updated_time"> 10:22 AM CT, Oct. 19 </p> 
  [Afghanistan Withdrawal to Be Subject of State Department Investigation](https://www.wsj.com/articles/afghanistan-withdrawal-to-be-subject-of-state-department-investigation-11634671379) WSJ: The department’s internal watchdog told U.S. lawmakers it would review the handling of embassy planning, refugees and the special immigrant visa program. 
  <p class="updated_time"> 10:12 AM CT, Oct. 19 </p> 
