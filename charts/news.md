@@ -38,6 +38,8 @@ permalink: /charts/news/
  [Tuberculosis, Like Covid, Spreads by Breathing, Scientists Report](https://www.nytimes.com/2021/10/19/health/tuberculosis-transmission-aerosols.html) NYT: The finding upends conventional wisdom regarding coughing, long thought to be the main route of transmission. 
  <p class="updated_time"> 12:59 PM CT, Oct. 19 </p> 
  [Austria driver sought after two migrants found dead on bus](https://www.bbc.co.uk/news/world-europe-58974624?at_medium=RSS&at_campaign=KARANGA) BBC: Austrian police are searching for the driver of a minibus after dozens were found crammed inside. 
+ <p class="updated_time"> 12:48 PM CT, Oct. 19 </p> 
+ [U.S. to Issue Migration Appeal to South American Nations](https://www.wsj.com/articles/u-s-to-issue-migration-appeal-to-south-american-nations-11634669545) WSJ: Secretary of State Antony Blinken, in a meeting in Colombia, will urge countries to share responsibility for migration patterns. 
  <p class="updated_time"> 12:33 PM CT, Oct. 19 </p> 
  [Covid: Moscow imposes new restrictions as infections soar](https://www.bbc.co.uk/news/world-europe-58966477?at_medium=RSS&at_campaign=KARANGA) BBC: Most of the over-60s in Russia's capital face months of lockdown as Covid deaths hit a new record. 
  <p class="updated_time"> 12:27 PM CT, Oct. 19 </p> 
@@ -58,8 +60,6 @@ permalink: /charts/news/
  [F.B.I. Is Working in Haiti to Recover Kidnapped Missionaries](https://www.nytimes.com/2021/10/18/world/americas/haiti-protests.html) NYT: The United States has a team on the ground to try to secure the release of 17 people taken by a gang in the latest example of the violence that is leaving Haitians desperate. 
  <p class="updated_time"> 10:04 AM CT, Oct. 19 </p> 
  [Polish PM accuses EU of blackmail as row over rule of law escalates](https://www.bbc.co.uk/news/world-europe-58955375?at_medium=RSS&at_campaign=KARANGA) BBC: Mateusz Morawiecki clashes with EU leaders over a Polish court ruling that rejected parts of EU law. 
- <p class="updated_time"> 09:52 AM CT, Oct. 19 </p> 
- [U.S. to Issue Migration Appeal to South American Nations](https://www.wsj.com/articles/u-s-to-issue-migration-appeal-to-south-american-nations-11634669545) WSJ: Secretary of State Antony Blinken, in a meeting in Colombia, will urge countries to share responsibility for migration patterns. 
  <p class="updated_time"> 09:37 AM CT, Oct. 19 </p> 
  [Nick Rolovich: Washington State football coach fired for refusing Covid vaccine](https://www.bbc.co.uk/news/world-us-canada-58955577?at_medium=RSS&at_campaign=KARANGA) BBC: College football coach Nick Rolovich loses his $3.1m-a-year job for shirking a state vaccine mandate. 
  <p class="updated_time"> 09:37 AM CT, Oct. 19 </p> 
