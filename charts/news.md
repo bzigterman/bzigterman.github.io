@@ -6,14 +6,14 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 04:17 PM CT, Oct. 19 </p> 
+ [Bolsonaro's Pandemic Handling Draws Explosive Allegation: Homicide](https://www.nytimes.com/2021/10/19/world/americas/bolsonaro-covid-19-brazil.html) NYT: A long-awaited report from a panel of Brazilian senators concludes that Jair Bolsonaro purposely let the coronavirus kill Brazilians in a failed bid for herd immunity. 
  <p class="updated_time"> 03:55 PM CT, Oct. 19 </p> 
  [Kidnappers in Haiti Demand $17 Million to Free Missionary Group](https://www.nytimes.com/2021/10/19/world/americas/haiti-missionaries-ransom.html) NYT: A gang abducted 17 people associated with a Christian aid group, including five children. Most of those being held are Americans; one is Canadian. 
  <p class="updated_time"> 03:45 PM CT, Oct. 19 </p> 
  [Your Wednesday Briefing](https://www.nytimes.com/2021/10/19/briefing/australia-vaccines-evergrande-china-myanmar.html) NYT: Vaccine milestones in Australia and on tiny Pacific islands. 
  <p class="updated_time"> 03:12 PM CT, Oct. 19 </p> 
  [Charges ‘unlikely’ for bystanders who failed to report rape say prosecutors](https://www.bbc.co.uk/news/world-us-canada-58949611?at_medium=RSS&at_campaign=KARANGA) BBC: A woman was assaulted by another passenger and some riders may have filmed the incident, police say. 
- <p class="updated_time"> 03:06 PM CT, Oct. 19 </p> 
- [Bolsonaro's Pandemic Handling Draws Explosive Allegation: Homicide](https://www.nytimes.com/2021/10/19/world/americas/bolsonaro-covid-19-brazil.html) NYT: A long-awaited report from a panel of Brazilian senators concludes that Jair Bolsonaro purposely let the coronavirus kill Brazilians in a failed bid for herd immunity. 
  <p class="updated_time"> 03:04 PM CT, Oct. 19 </p> 
  [Oleg Deripaska: FBI searches US homes linked to Russian oligarch](https://www.bbc.co.uk/news/world-us-canada-58971032?at_medium=RSS&at_campaign=KARANGA) BBC: Agents are sweeping homes linked to Oleg Deripaska, a Russian oligarch who is under US sanctions. 
  <p class="updated_time"> 03:03 PM CT, Oct. 19 </p> 
