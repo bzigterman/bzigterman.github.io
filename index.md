@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Hello! This is my website. There is not much here for now. Here's what I'm up to:
+Hello! This is my website. Here's what I'm up to:
 
 ### Present:
 
