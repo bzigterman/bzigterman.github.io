@@ -6,8 +6,10 @@ permalink: /charts/news/
 
 ## World News
 
- <p class="updated_time"> 12:27 AM CT, Oct. 19 </p> 
+ <p class="updated_time"> 01:09 AM CT, Oct. 19 </p> 
  [North Korea fires submarine-launched ballistic missile into waters off Japan](https://www.bbc.co.uk/news/world-asia-58963654?at_medium=RSS&at_campaign=KARANGA) BBC: Pyongyang fires a submarine-launched ballistic missile weeks after the South unveiled its own such weapon. 
+ <p class="updated_time"> 12:59 AM CT, Oct. 19 </p> 
+ [Eric Zemmour: Far-right journalist cast as Macron election rival](https://www.bbc.co.uk/news/world-europe-58954015?at_medium=RSS&at_campaign=KARANGA) BBC: Eric Zemmour - tipped to run for the French presidency - is rebranding far-right nationalism. 
  <p class="updated_time"> 12:26 AM CT, Oct. 19 </p> 
  [China's Scripted Homicides Become a Popular Pastime](https://www.nytimes.com/2021/10/16/world/asia/china-murder-script.html) NYT: “Scripted homicide” clubs have opened around the country as young people look for ways to escape and connect. Naturally, the government has questions. 
  <p class="updated_time"> 11:02 PM CT, Oct. 18 </p> 
@@ -38,8 +40,6 @@ permalink: /charts/news/
  [Narendra Modi: 'Why is the Indian PM's photo on my Covid vaccine certificate?'](https://www.bbc.co.uk/news/world-asia-india-58944475?at_medium=RSS&at_campaign=KARANGA) BBC: A 62-year-old Indian wants a new Covid-19 vaccine certificate without Narendra Modi's photograph. 
  <p class="updated_time"> 06:34 PM CT, Oct. 18 </p> 
  [Your Monday Briefing](https://www.nytimes.com/2021/10/17/briefing/antiviral-pill-biden-climate-change.html) NYT: A new antiviral coronavirus pill. 
- <p class="updated_time"> 06:33 PM CT, Oct. 18 </p> 
- [Eric Zemmour: Far-right journalist cast as Macron election rival](https://www.bbc.co.uk/news/world-europe-58954015?at_medium=RSS&at_campaign=KARANGA) BBC: Eric Zemmour - tipped to run for the French presidency - is rebranding far-right nationalism. 
  <p class="updated_time"> 06:27 PM CT, Oct. 18 </p> 
  [Town Rattled by Bow-and-Arrow Killings Ponders Terrorism and Mental Illness](https://www.nytimes.com/2021/10/17/world/europe/norway-bow-and-arrow-killings.html) NYT: The police in Norway, initially pointing to Islamic extremism, now say an attacker was “not well, mentally.” 
  <p class="updated_time"> 06:27 PM CT, Oct. 18 </p> 
@@ -93,7 +93,7 @@ permalink: /charts/news/
  <p class="updated_time"> 12:25 PM CT, Oct. 18 </p> 
  [The shortages hitting countries around the world](https://www.bbc.co.uk/news/explainers-58868636?at_medium=RSS&at_campaign=KARANGA) BBC: People and businesses across the world are facing shortages of everything from coal to coffee. 
  <p class="updated_time"> 12:14 PM CT, Oct. 18 </p> 
- [Norway attack: Victims killed with 'sharp object', not arrows](https://www.bbc.co.uk/news/world-europe-58956629?at_medium=RSS&at_campaign=KARANGA) BBC: Victims of last week's bow-and-arrow attack were actually killed by a "sharp object", police say. 
+ [Norway attack: Victims killed with 'sharp object' not bow and arrow](https://www.bbc.co.uk/news/world-europe-58956629?at_medium=RSS&at_campaign=KARANGA) BBC: Victims of last week's attack were killed by a "sharp object" rather than a bow and arrow, police say. 
  <p class="updated_time"> 11:58 AM CT, Oct. 18 </p> 
  [Malala Yousafzai urges Taliban to allow girls' education](https://www.bbc.co.uk/news/world-asia-58959790?at_medium=RSS&at_campaign=KARANGA) BBC: The Nobel Prize laureate Malala Yousafzai says the Taliban must announce that girls can go to school. 
  <p class="updated_time"> 11:47 AM CT, Oct. 18 </p> 
