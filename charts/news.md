@@ -6,10 +6,10 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 07:34 AM CT, Oct. 19 </p> 
+ [Polish PM accuses EU of blackmail as row over rule of law escalates](https://www.bbc.co.uk/news/world-europe-58955375?at_medium=RSS&at_campaign=KARANGA) BBC: Mateusz Morawiecki clashes with EU leaders over a Polish court ruling that rejected parts of EU law. 
  <p class="updated_time"> 06:54 AM CT, Oct. 19 </p> 
  [Life at 50C: The Baghdad traffic cop who works in 50C heat](https://www.bbc.co.uk/news/world-middle-east-58960747?at_medium=RSS&at_campaign=KARANGA) BBC: In Baghdad, Sergeant Saa’d has to brave increasingly extreme conditions to keep the city moving. 
- <p class="updated_time"> 06:26 AM CT, Oct. 19 </p> 
- [Polish PM accuses EU of blackmail as row over rule of law escalates](https://www.bbc.co.uk/news/world-europe-58955375?at_medium=RSS&at_campaign=KARANGA) BBC: Mateusz Morawiecki clashes with EU leaders over a Polish court ruling that rejected parts of EU law. 
  <p class="updated_time"> 05:35 AM CT, Oct. 19 </p> 
  [Haiti kidnappers 'demand $17m' for missionaries](https://www.bbc.co.uk/news/world-latin-america-58966154?at_medium=RSS&at_campaign=KARANGA) BBC: The missionaries from the US and Canada were seized as they were returning from an orphanage. 
  <p class="updated_time"> 05:34 AM CT, Oct. 19 </p> 
