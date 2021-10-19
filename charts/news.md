@@ -6,6 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 06:26 AM CT, Oct. 19 </p> 
+ [Polish PM accuses EU of blackmail as row over rule of law escalates](https://www.bbc.co.uk/news/world-europe-58955375?at_medium=RSS&at_campaign=KARANGA) BBC: Mateusz Morawiecki clashes with EU leaders over a Polish court ruling that rejected parts of EU law. 
  <p class="updated_time"> 05:35 AM CT, Oct. 19 </p> 
  [Haiti kidnappers 'demand $17m' for missionaries](https://www.bbc.co.uk/news/world-latin-america-58966154?at_medium=RSS&at_campaign=KARANGA) BBC: The missionaries from the US and Canada were seized as they were returning from an orphanage. 
  <p class="updated_time"> 05:34 AM CT, Oct. 19 </p> 
@@ -14,8 +16,6 @@ permalink: /charts/news/
  [The Threat, in Perspective](https://www.nytimes.com/2021/10/19/briefing/colin-powell-covid-risk-older-americans.html) NYT: Colin Powell’s death highlights the continuing Covid risks to older people with medical conditions. 
  <p class="updated_time"> 05:27 AM CT, Oct. 19 </p> 
  [Male State: Russia bans group for anti-women and anti-gay posts](https://www.bbc.co.uk/news/world-europe-58966476?at_medium=RSS&at_campaign=KARANGA) BBC: Russia bans a group called Male State which hounded women and gay people online. 
- <p class="updated_time"> 04:25 AM CT, Oct. 19 </p> 
- [Polish PM accuses EU of blackmail as row over rule of law escalates](https://www.bbc.co.uk/news/world-europe-58955375?at_medium=RSS&at_campaign=KARANGA) BBC: Mateusz Morawiecki clashes with EU leaders over a Polish court ruling that rejected parts of EU law. 
  <p class="updated_time"> 04:16 AM CT, Oct. 19 </p> 
  [Diver finds 900-year-old crusader sword off Israel's coast](https://www.bbc.co.uk/news/world-middle-east-58963025?at_medium=RSS&at_campaign=KARANGA) BBC: The blade, which is encrusted with marine organisms, is believed to be about 900 years old. 
  <p class="updated_time"> 04:12 AM CT, Oct. 19 </p> 
