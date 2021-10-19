@@ -4,6 +4,8 @@ library(lubridate)
 
 # gather news ----
 
+## world ----
+
 nyt <- tidyfeed("https://rss.nytimes.com/services/xml/rss/nyt/World.xml") %>%
   select(feed_title, item_pub_date,item_title, item_link, item_description) %>%
   mutate(feed = "NYT")
