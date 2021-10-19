@@ -6,12 +6,14 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 09:37 PM CT, Oct. 18 </p> 
+ [Diver finds 900-year-old crusader sword off Israel's coast](https://www.bbc.co.uk/news/world-middle-east-58963025?at_medium=RSS&at_campaign=KARANGA) BBC: The blade, which is encrusted with marine organisms, is believed to be about 900 years old. 
+ <p class="updated_time"> 09:30 PM CT, Oct. 18 </p> 
+ [North Korea fires ballistic missile into waters off Japan](https://www.bbc.co.uk/news/world-asia-58963654?at_medium=RSS&at_campaign=KARANGA) BBC: The launch, confirmed by the South, is the latest in a series of missile tests by Pyongyang. 
  <p class="updated_time"> 09:07 PM CT, Oct. 18 </p> 
  [Diver Discovers 900-Year-Old Sword Dating to the Crusades](https://www.nytimes.com/2021/10/18/world/middleeast/crusader-sword-found-israel.html) NYT: The sword, recovered off the coast of Israel, most likely belonged to a knight who fell into the sea or lost the weapon in battle, experts said. 
  <p class="updated_time"> 08:57 PM CT, Oct. 18 </p> 
  [Cleo Smith: 'Grave concerns' for Australian girl missing from beach campsite](https://www.bbc.co.uk/news/world-australia-58963524?at_medium=RSS&at_campaign=KARANGA) BBC: Police have "grave concerns" for four-year-old Cleo Smith, after she vanished from her family's tent. 
- <p class="updated_time"> 08:56 PM CT, Oct. 18 </p> 
- [North Korea fires projectile into waters off Japan](https://www.bbc.co.uk/news/world-asia-58963654?at_medium=RSS&at_campaign=KARANGA) BBC: It is the latest in a series of launches by Pyongyang, which has tested various missiles. 
  <p class="updated_time"> 07:48 PM CT, Oct. 18 </p> 
  [Tributes pour in for 'trailblazer' Colin Powell](https://www.bbc.co.uk/news/world-us-canada-58957273?at_medium=RSS&at_campaign=KARANGA) BBC: The ex-US secretary of state, the first African-American in that role, dies of Covid complications. 
  <p class="updated_time"> 07:35 PM CT, Oct. 18 </p> 
@@ -30,8 +32,6 @@ permalink: /charts/news/
  [Town Rattled by Bow-and-Arrow Killings Ponders Terrorism and Mental Illness](https://www.nytimes.com/2021/10/17/world/europe/norway-bow-and-arrow-killings.html) NYT: The police in Norway, initially pointing to Islamic extremism, now say an attacker was “not well, mentally.” 
  <p class="updated_time"> 06:27 PM CT, Oct. 18 </p> 
  [Russia Breaks Diplomatic Ties With NATO](https://www.nytimes.com/2021/10/18/world/europe/russia-nato.html) NYT: Moscow’s decision to end its diplomatic mission to the alliance will end a long, post-Cold War experiment in building trust between militaries. 
- <p class="updated_time"> 06:24 PM CT, Oct. 18 </p> 
- [Ahmaud Arbery: Trial over black jogger's death begins](https://www.bbc.co.uk/news/world-us-canada-58931529?at_medium=RSS&at_campaign=KARANGA) BBC: The three men involved in ambushing and shooting the jogger face murder and assault charges. 
  <p class="updated_time"> 06:19 PM CT, Oct. 18 </p> 
  [In Haiti, Aid Group Workers Are Kidnapped](https://www.nytimes.com/2021/10/16/world/americas/missionaries-kidnap-haiti.html) NYT: Up to 17 missionaries and their family members were taken by gang members in the capital of a country where kidnappings have become increasingly common. 
  <p class="updated_time"> 06:12 PM CT, Oct. 18 </p> 
