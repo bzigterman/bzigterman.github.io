@@ -6,6 +6,18 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 04:12 AM CT, Oct. 19 </p> 
+ [Cleo Smith: 'Grave concerns' for Australian girl missing from beach campsite](https://www.bbc.co.uk/news/world-australia-58963524?at_medium=RSS&at_campaign=KARANGA) BBC: Police have "grave concerns" for four-year-old Cleo Smith, after she vanished from her family's tent. 
+ <p class="updated_time"> 04:00 AM CT, Oct. 19 </p> 
+ [On a Pacific Island, Russia Tests Its Battle Plan on Climate Change](https://www.nytimes.com/2021/10/19/world/europe/russia-climate-change.html) NYT: President Vladimir V. Putin long dismissed the threat posed by global warming. But fires, disasters and foreign pressure have prompted him to change course. 
+ <p class="updated_time"> 04:00 AM CT, Oct. 19 </p> 
+ [Those Gifts You Want for the Holidays? Don’t Wait Too Long.](https://www.nytimes.com/2021/10/19/business/supply-chain-holidays.html) NYT: The supply chain disruption is shorthand for problems from factory closures to workers who are not working anymore. 
+ <p class="updated_time"> 04:00 AM CT, Oct. 19 </p> 
+ [Nick Rolovich: Washington State football coach fired for refusing Covid vaccine](https://www.bbc.co.uk/news/world-us-canada-58955577?at_medium=RSS&at_campaign=KARANGA) BBC: College football coach Nick Rolovich loses his $3.1m-a-year job for shirking a state vaccine mandate. 
+ <p class="updated_time"> 04:00 AM CT, Oct. 19 </p> 
+ [After Del Rio, Calls for Fairer Treatment of Black Migrants](https://www.nytimes.com/2021/10/19/us/politics/black-migrants-biden-border.html) NYT: The treatment of Haitians apprehended in Del Rio, Texas, has galvanized civil rights groups and others to press for change. 
+ <p class="updated_time"> 03:55 AM CT, Oct. 19 </p> 
+ [Man falls to death from hot air balloon in Israel](https://www.bbc.co.uk/news/world-middle-east-58965920?at_medium=RSS&at_campaign=KARANGA) BBC: The crew member was seen hanging from the basket before he slipped and fell onto a moving car. 
  <p class="updated_time"> 03:48 AM CT, Oct. 19 </p> 
  [North Korea fires suspected submarine-launched missile into waters off Japan](https://www.bbc.co.uk/news/world-asia-58963654?at_medium=RSS&at_campaign=KARANGA) BBC: It is thought to have been a submarine-launched ballistic missile which are harder to detect. 
  <p class="updated_time"> 03:18 AM CT, Oct. 19 </p> 
@@ -20,8 +32,6 @@ permalink: /charts/news/
  [North Korea Tests First Submarine-Launched Missile in Two Years](https://www.nytimes.com/2021/10/18/world/asia/north-korea-ballistic-missile-test-washington.html) NYT: The launch came after special envoys gathered to discuss how to deal with Pyongyang’s growing nuclear capabilities. 
  <p class="updated_time"> 12:59 AM CT, Oct. 19 </p> 
  [Eric Zemmour: Far-right journalist cast as Macron election rival](https://www.bbc.co.uk/news/world-europe-58954015?at_medium=RSS&at_campaign=KARANGA) BBC: Eric Zemmour - tipped to run for the French presidency - is rebranding far-right nationalism. 
- <p class="updated_time"> 12:26 AM CT, Oct. 19 </p> 
- [China's Scripted Homicides Become a Popular Pastime](https://www.nytimes.com/2021/10/16/world/asia/china-murder-script.html) NYT: “Scripted homicide” clubs have opened around the country as young people look for ways to escape and connect. Naturally, the government has questions. 
  <p class="updated_time"> 11:02 PM CT, Oct. 18 </p> 
  [Ecuador’s President Declares State of Emergency to Battle Crime](https://www.nytimes.com/2021/10/19/world/americas/ecuador-state-of-emergency.html) NYT: Guillermo Lasso said the military and the police would patrol the streets to provide security to confront drug trafficking and other crimes. 
  <p class="updated_time"> 10:56 PM CT, Oct. 18 </p> 
@@ -32,8 +42,6 @@ permalink: /charts/news/
  [Diver Discovers 900-Year-Old Sword Dating to the Crusades](https://www.nytimes.com/2021/10/18/world/middleeast/crusader-sword-found-israel.html) NYT: The sword, recovered off the coast of Israel, most likely belonged to a knight who fell into the sea or lost the weapon in battle, experts said. 
  <p class="updated_time"> 09:37 PM CT, Oct. 18 </p> 
  [Diver finds 900-year-old crusader sword off Israel's coast](https://www.bbc.co.uk/news/world-middle-east-58963025?at_medium=RSS&at_campaign=KARANGA) BBC: The blade, which is encrusted with marine organisms, is believed to be about 900 years old. 
- <p class="updated_time"> 08:57 PM CT, Oct. 18 </p> 
- [Cleo Smith: 'Grave concerns' for Australian girl missing from beach campsite](https://www.bbc.co.uk/news/world-australia-58963524?at_medium=RSS&at_campaign=KARANGA) BBC: Police have "grave concerns" for four-year-old Cleo Smith, after she vanished from her family's tent. 
  <p class="updated_time"> 07:48 PM CT, Oct. 18 </p> 
  [Tributes pour in for 'trailblazer' Colin Powell](https://www.bbc.co.uk/news/world-us-canada-58957273?at_medium=RSS&at_campaign=KARANGA) BBC: The ex-US secretary of state, the first African-American in that role, dies of Covid complications. 
  <p class="updated_time"> 07:35 PM CT, Oct. 18 </p> 
@@ -78,10 +86,6 @@ permalink: /charts/news/
  [Your Tuesday Briefing](https://www.nytimes.com/2021/10/18/briefing/russia-covid-nato-china-banks.html) NYT: Russia hits a Covid death record. 
  <p class="updated_time"> 03:53 PM CT, Oct. 18 </p> 
  [Police Search for Motive in British Lawmaker’s Killing](https://www.nytimes.com/2021/10/17/world/europe/uk-stabbing-attack.html) NYT: An attack has rekindled questions about the security of members of Parliament. 
- <p class="updated_time"> 02:44 PM CT, Oct. 18 </p> 
- [Tigray: Ethiopian government admits Mekelle airstrike](https://www.bbc.co.uk/news/world-africa-58958022?at_medium=RSS&at_campaign=KARANGA) BBC: Officials had earlier denied the government was behind allegedly deadly attacks in the region. 
- <p class="updated_time"> 02:21 PM CT, Oct. 18 </p> 
- [Russia to suspend Nato diplomatic mission amid tension](https://www.bbc.co.uk/news/world-europe-58959386?at_medium=RSS&at_campaign=KARANGA) BBC: Nato expelled eight Russian diplomats earlier this month, saying they were intelligence officers. 
  <p class="updated_time"> 02:02 PM CT, Oct. 18 </p> 
  ['400 Mawozo' Gang Suspected in Kidnapping Among Haiti's Most Dangerous](https://www.nytimes.com/2021/10/17/world/americas/400-mawozo-haiti-kidnapping.html) NYT: The gang, called 400 Mawozo, captured several clergy members in April, and the local authorities say it is behind Saturday’s kidnapping. 
  <p class="updated_time"> 01:58 PM CT, Oct. 18 </p> 
@@ -94,8 +98,6 @@ permalink: /charts/news/
  [Will New Covid Treatments Be as Elusive for Poor Countries as Vaccines?](https://www.nytimes.com/2021/10/17/health/covid-treatment-access-molnupiravir.html) NYT: Merck has taken a step to make its antiviral pill available in poor nations, but many obstacles remain for broad access to coronavirus drugs. 
  <p class="updated_time"> 12:31 PM CT, Oct. 18 </p> 
  [Showdown Over Northern Ireland Has a Key Offstage Player: Biden](https://www.nytimes.com/2021/10/18/world/europe/ireland-biden-eu-uk.html) NYT: As the U.K. and the European Union begin their wrangling over details of trade with Northern Ireland, President Biden has more than a passing interest in the final result. 
- <p class="updated_time"> 12:28 PM CT, Oct. 18 </p> 
- [Mastermind of deadly 2016 Baghdad bombing caught, Iraq says](https://www.bbc.co.uk/news/world-middle-east-58957048?at_medium=RSS&at_campaign=KARANGA) BBC: Ghazwan al-Zawbaee is allegedly behind a 2016 attack on a shopping centre that killed 300 people. 
  <p class="updated_time"> 12:25 PM CT, Oct. 18 </p> 
  [The shortages hitting countries around the world](https://www.bbc.co.uk/news/explainers-58868636?at_medium=RSS&at_campaign=KARANGA) BBC: People and businesses across the world are facing shortages of everything from coal to coffee. 
  <p class="updated_time"> 12:14 PM CT, Oct. 18 </p> 
@@ -134,6 +136,8 @@ permalink: /charts/news/
  [China Faces Slower Growth as It Pursues Long-Term Reforms](https://www.wsj.com/articles/china-faces-slower-growth-path-as-it-pursues-longer-term-reforms-11634551142) WSJ: With its pandemic recovery in the rearview mirror, China now faces a prolonged period of slower growth with increasing policy uncertainties as Beijing attempts to carry out ambitious long-term reforms. 
  <p class="updated_time"> 09:41 PM CT, Oct. 17 </p> 
  [Washington Hears Echoes of the ’50s and Worries: Is This a Cold War With China?](https://www.nytimes.com/2021/10/17/us/politics/china-new-cold-war.html) NYT: Incursions into Taiwan’s air zone, a space launch and what looked like a prisoner swap raise a question that is about more than just semantics. It could signal a dangerous new mind-set. 
+ <p class="updated_time"> 09:00 PM CT, Oct. 17 </p> 
+ [Israel: Hundreds strip naked by the Dead Sea](https://www.bbc.co.uk/news/world-58950281?at_medium=RSS&at_campaign=KARANGA) BBC: Hundreds of people stripped naked by the Dead Sea in Israel to highlight environmental changes. 
  <p class="updated_time"> 07:10 PM CT, Oct. 17 </p> 
  [How energy flexibility can save us money and cut carbon](https://www.bbc.co.uk/news/science-environment-58898999?at_medium=RSS&at_campaign=KARANGA) BBC: Making energy supply to homes and businesses more flexible could help the UK meet its climate goals. 
  <p class="updated_time"> 06:56 PM CT, Oct. 17 </p> 
@@ -184,10 +188,6 @@ permalink: /charts/news/
  [Beirut, a City Where Everyone Gets By, Revisits Sectarian Violence](https://www.nytimes.com/2021/10/16/world/middleeast/beirut-lebanon-sectarian-violence.html) NYT: Lebanon’s capital thrives on its religious diversity, but sectarian tensions and memories of civil war lurk just beneath the surface. 
  <p class="updated_time"> 08:23 AM CT, Oct. 16 </p> 
  [What Are Political ‘Surgeries’ in Britain?](https://www.nytimes.com/2021/10/16/world/europe/political-surgeries-uk.html) NYT: The person-to-person meetings with voters give Britons unusually good access to their political representatives. But questions are being asked about whether the tradition can continue. 
- <p class="updated_time"> 02:39 AM CT, Oct. 16 </p> 
- [New Zealand Attempts a Record-Setting ‘Vaxathon’](https://www.nytimes.com/2021/10/16/world/australia/new-zealand-vaccines.html) NYT: The country took a different approach to encouraging vaccinations on Saturday, with barbecues, a telethon and the chance to get jabbed in the business-class seat of a Boeing 787. 
- <p class="updated_time"> 10:17 PM CT, Oct. 15 </p> 
- [Mining for Gold in Australia’s Migrant Past](https://www.nytimes.com/2021/10/15/world/asia/new-gold-mountain-chinese-immigrants.html) NYT: “New Gold Mountain” highlights the complications of belonging for immigrants then and now. 
  <p class="updated_time"> 11:47 AM CT, Oct. 14 </p> 
  [Why China's climate policy matters to us all](https://www.bbc.co.uk/news/world-asia-china-57483492?at_medium=RSS&at_campaign=KARANGA) BBC: The global battle against climate change is likely to be won or lost in China. 
  <p class="updated_time"> 07:50 AM CT, Oct. 13 </p> 
