@@ -6,6 +6,12 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 01:14 PM CT, Oct. 19 </p> 
+ [Tuberculosis, Like Covid, Spreads by Breathing, Scientists Report](https://www.nytimes.com/2021/10/19/health/tuberculosis-transmission-aerosols.html) NYT: The finding upends conventional wisdom regarding coughing, long thought to be the main route of transmission. 
+ <p class="updated_time"> 01:00 PM CT, Oct. 19 </p> 
+ [Unvaccinated State Workers in Washington and Massachusetts Face Job Loss](https://www.nytimes.com/2021/10/18/world/washington-massachusetts-employees-vaccination.html) NYT: New Jersey’s vaccine mandate for school and state workers also took effect this week, requiring employees to provide proof of vaccination or complete a Covid-19 test at least once a week 
+ <p class="updated_time"> 12:59 PM CT, Oct. 19 </p> 
+ [Austria driver sought after two migrants found dead on bus](https://www.bbc.co.uk/news/world-europe-58974624?at_medium=RSS&at_campaign=KARANGA) BBC: Austrian police are searching for the driver of a minibus after dozens were found crammed inside. 
  <p class="updated_time"> 12:33 PM CT, Oct. 19 </p> 
  [Covid: Moscow imposes new restrictions as infections soar](https://www.bbc.co.uk/news/world-europe-58966477?at_medium=RSS&at_campaign=KARANGA) BBC: Most of the over-60s in Russia's capital face months of lockdown as Covid deaths hit a new record. 
  <p class="updated_time"> 12:28 PM CT, Oct. 19 </p> 
@@ -16,8 +22,6 @@ permalink: /charts/news/
  [School Attendance Falls for Homeless Students in N.Y.C. ](https://www.nytimes.com/2021/10/19/nyregion/new-york-city-homeless-school-attendance.html) NYT: Attendance rates for students living in shelters fell to just 73 percent in the first few weeks of the new school year, compared with around 90 percent for all students. 
  <p class="updated_time"> 12:17 PM CT, Oct. 19 </p> 
  [Police warn charges possible for bystanders who failed to report rape](https://www.bbc.co.uk/news/world-us-canada-58949611?at_medium=RSS&at_campaign=KARANGA) BBC: A woman was assaulted by another passenger and some riders may have filmed the incident, police say. 
- <p class="updated_time"> 12:12 PM CT, Oct. 19 </p> 
- [Tuberculosis, Like Covid, Spreads by Breathing, Scientists Report](https://www.nytimes.com/2021/10/19/health/tuberculosis-transmission-aerosols.html) NYT: The finding upends conventional wisdom regarding coughing, long thought to be the main route of transmission. 
  <p class="updated_time"> 11:52 AM CT, Oct. 19 </p> 
  [Ukraine's Covid Deaths Soar as Fake Vaccination Certificates Spread](https://www.nytimes.com/2021/10/19/world/europe/ukraine-covid-deaths.html) NYT: In the country with the lowest rate of coronavirus vaccination in Europe, the proliferation of fakes threatens to undermine Ukraine’s fight against the virus. 
  <p class="updated_time"> 11:49 AM CT, Oct. 19 </p> 
@@ -76,8 +80,6 @@ permalink: /charts/news/
  [Xi Faces Resistance to Property Tax Planned to Combat Real-Estate Bubble](https://www.wsj.com/articles/in-tackling-chinas-real-estate-bubble-xi-jinping-faces-resistance-to-property-tax-plan-11634650751) WSJ: The Chinese leader is facing strong resistance over a nationwide property-tax plan meant to help curb housing speculation, and he is now settling for a more limited rollout, people familiar with the matter said. 
  <p class="updated_time"> 04:00 AM CT, Oct. 19 </p> 
  [After Del Rio, Calls for Fairer Treatment of Black Migrants](https://www.nytimes.com/2021/10/19/us/politics/black-migrants-biden-border.html) NYT: The treatment of Haitians apprehended in Del Rio, Texas, has galvanized civil rights groups and others to press for change. 
- <p class="updated_time"> 03:55 AM CT, Oct. 19 </p> 
- [Man falls to death from hot air balloon in Israel](https://www.bbc.co.uk/news/world-middle-east-58965920?at_medium=RSS&at_campaign=KARANGA) BBC: The crew member was seen hanging from the basket before he slipped and fell onto a moving car. 
  <p class="updated_time"> 03:48 AM CT, Oct. 19 </p> 
  [North Korea fires suspected submarine-launched missile into waters off Japan](https://www.bbc.co.uk/news/world-asia-58963654?at_medium=RSS&at_campaign=KARANGA) BBC: It is thought to have been a submarine-launched ballistic missile which are harder to detect. 
  <p class="updated_time"> 03:18 AM CT, Oct. 19 </p> 
@@ -184,8 +186,6 @@ permalink: /charts/news/
  [U.S. Arrests Alex Saab, Deal Maker for Nicolás Maduro of Venezuela](https://www.nytimes.com/2021/10/16/world/americas/alex-saab-arrest-venezuela-maduro.html) NYT: Alex Saab, a Colombian businessman, is accused in the U.S. of siphoning millions from programs intended to help the needy in Venezuela. 
  <p class="updated_time"> 06:17 PM CT, Oct. 16 </p> 
  [Airlines in Japan and South Korea Try Novel Ideas to Lure Fliers](https://www.nytimes.com/2021/10/16/world/japan-south-korea-airlines-covid-incentives.html) NYT: How about inexpensive passes good for a month of domestic flights? Or popular in-flight meals to on-the-ground customers? 
- <p class="updated_time"> 04:19 PM CT, Oct. 16 </p> 
- [After Iraqi Election, a Shiite Leader Emerges as an Unlikely U.S. Ally](https://www.nytimes.com/2021/10/16/world/middleeast/iraq-sadr-election.html) NYT: The U.S. once threatened to kill Muqtada al-Sadr as his militia battled occupying forces. Now, the powerful cleric is helping Washington by keeping Iran at bay. 
  <p class="updated_time"> 12:18 PM CT, Oct. 16 </p> 
  [How 3 Strangers a World Away Came to the Rescue of a Badly Burned Afghan Girl](https://www.nytimes.com/2021/10/16/world/asia/afghanistan-girl-burn-evacuation-military.html) NYT: The story of 8-year-old Asma, injured by a U.S. tear-gas canister, echoes the heartbreak and heroism of the 20-year American misadventure in Afghanistan. 
  <p class="updated_time"> 11:47 AM CT, Oct. 14 </p> 
