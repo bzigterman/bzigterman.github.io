@@ -6,6 +6,10 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 04:25 AM CT, Oct. 19 </p> 
+ [Polish PM accuses EU of blackmail as row over rule of law escalates](https://www.bbc.co.uk/news/world-europe-58955375?at_medium=RSS&at_campaign=KARANGA) BBC: Mateusz Morawiecki clashes with EU leaders over a Polish court ruling that rejected parts of EU law. 
+ <p class="updated_time"> 04:16 AM CT, Oct. 19 </p> 
+ [Diver finds 900-year-old crusader sword off Israel's coast](https://www.bbc.co.uk/news/world-middle-east-58963025?at_medium=RSS&at_campaign=KARANGA) BBC: The blade, which is encrusted with marine organisms, is believed to be about 900 years old. 
  <p class="updated_time"> 04:12 AM CT, Oct. 19 </p> 
  [Cleo Smith: 'Grave concerns' for Australian girl missing from beach campsite](https://www.bbc.co.uk/news/world-australia-58963524?at_medium=RSS&at_campaign=KARANGA) BBC: Police have "grave concerns" for four-year-old Cleo Smith, after she vanished from her family's tent. 
  <p class="updated_time"> 04:00 AM CT, Oct. 19 </p> 
@@ -40,8 +44,6 @@ permalink: /charts/news/
  [Your Tuesday Briefing](https://www.nytimes.com/2021/10/18/briefing/haiti-kidnapping-colin-powell.html) NYT: Efforts to recover a kidnapped group in Haiti. 
  <p class="updated_time"> 09:56 PM CT, Oct. 18 </p> 
  [Diver Discovers 900-Year-Old Sword Dating to the Crusades](https://www.nytimes.com/2021/10/18/world/middleeast/crusader-sword-found-israel.html) NYT: The sword, recovered off the coast of Israel, most likely belonged to a knight who fell into the sea or lost the weapon in battle, experts said. 
- <p class="updated_time"> 09:37 PM CT, Oct. 18 </p> 
- [Diver finds 900-year-old crusader sword off Israel's coast](https://www.bbc.co.uk/news/world-middle-east-58963025?at_medium=RSS&at_campaign=KARANGA) BBC: The blade, which is encrusted with marine organisms, is believed to be about 900 years old. 
  <p class="updated_time"> 07:48 PM CT, Oct. 18 </p> 
  [Tributes pour in for 'trailblazer' Colin Powell](https://www.bbc.co.uk/news/world-us-canada-58957273?at_medium=RSS&at_campaign=KARANGA) BBC: The ex-US secretary of state, the first African-American in that role, dies of Covid complications. 
  <p class="updated_time"> 07:35 PM CT, Oct. 18 </p> 
@@ -100,8 +102,6 @@ permalink: /charts/news/
  [Showdown Over Northern Ireland Has a Key Offstage Player: Biden](https://www.nytimes.com/2021/10/18/world/europe/ireland-biden-eu-uk.html) NYT: As the U.K. and the European Union begin their wrangling over details of trade with Northern Ireland, President Biden has more than a passing interest in the final result. 
  <p class="updated_time"> 12:25 PM CT, Oct. 18 </p> 
  [The shortages hitting countries around the world](https://www.bbc.co.uk/news/explainers-58868636?at_medium=RSS&at_campaign=KARANGA) BBC: People and businesses across the world are facing shortages of everything from coal to coffee. 
- <p class="updated_time"> 12:14 PM CT, Oct. 18 </p> 
- [Norway attack: Victims killed with 'sharp object' not bow and arrow](https://www.bbc.co.uk/news/world-europe-58956629?at_medium=RSS&at_campaign=KARANGA) BBC: Victims of last week's attack were killed by a "sharp object" rather than a bow and arrow, police say. 
  <p class="updated_time"> 11:58 AM CT, Oct. 18 </p> 
  [Malala Yousafzai urges Taliban to allow girls' education](https://www.bbc.co.uk/news/world-asia-58959790?at_medium=RSS&at_campaign=KARANGA) BBC: The Nobel Prize laureate Malala Yousafzai says the Taliban must announce that girls can go to school. 
  <p class="updated_time"> 11:47 AM CT, Oct. 18 </p> 
