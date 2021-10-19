@@ -6,8 +6,14 @@ permalink: /charts/news/
 
 ## World News
 
- <p class="updated_time"> 01:44 PM CT, Oct. 19 </p> 
+ <p class="updated_time"> 02:12 PM CT, Oct. 19 </p> 
+ [They Fought Apartheid in South Africa. Now They Want Veterans’ Benefits.](https://www.nytimes.com/2021/10/19/world/africa/south-africa-apartheid-veterans-liberation-struggle.html) NYT: A protest movement by those who took up arms against apartheid has grown confrontational. More than 50 of them have been charged with kidnapping the country’s defense minister. 
+ <p class="updated_time"> 01:57 PM CT, Oct. 19 </p> 
+ [Britain Outlines Energy Plans Amid Dimming Prospects for Climate Summit](https://www.nytimes.com/2021/10/19/world/europe/britain-climate-change-cop26.html) NYT: In an effort to recapture momentum, Prime Minister Boris Johnson  announced a host of measures, including plans for a big expansion of electric vehicles, more offshore wind power and greater use of hydrogen. 
+ <p class="updated_time"> 01:57 PM CT, Oct. 19 </p> 
  [Bolsonaro Should Face Homicide Charges Over Pandemic, Brazil Lawmakers Say](https://www.nytimes.com/2021/10/19/world/americas/bolsonaro-pandemic-investigation-brazil.html) NYT: A long-awaited report from Brazil’s Senate concludes that Jair Bolsonaro purposely let the coronavirus kill Brazilians in a failed bid for herd immunity. 
+ <p class="updated_time"> 01:57 PM CT, Oct. 19 </p> 
+ [Unvaccinated State Workers in Washington and Massachusetts Face Job Loss](https://www.nytimes.com/2021/10/18/world/washington-massachusetts-employees-vaccination.html) NYT: New Jersey’s vaccine mandate for school and state workers also took effect this week, requiring employees to provide proof of vaccination or complete a Covid-19 test at least once a week. 
  <p class="updated_time"> 01:43 PM CT, Oct. 19 </p> 
  [Charges ‘unlikely’ for bystanders who failed to report rape say prosecutors](https://www.bbc.co.uk/news/world-us-canada-58949611?at_medium=RSS&at_campaign=KARANGA) BBC: A woman was assaulted by another passenger and some riders may have filmed the incident, police say. 
  <p class="updated_time"> 01:25 PM CT, Oct. 19 </p> 
@@ -16,14 +22,10 @@ permalink: /charts/news/
  [Mix-and-Match Covid Boosters: Why They Just Might Work](https://www.nytimes.com/2021/10/19/health/covid-vaccine-mix-match.html) NYT: The F.D.A. may authorize booster shots of vaccines different from the ones that Americans originally received. The science behind the move is promising. 
  <p class="updated_time"> 01:14 PM CT, Oct. 19 </p> 
  [Tuberculosis, Like Covid, Spreads by Breathing, Scientists Report](https://www.nytimes.com/2021/10/19/health/tuberculosis-transmission-aerosols.html) NYT: The finding upends conventional wisdom regarding coughing, long thought to be the main route of transmission. 
- <p class="updated_time"> 01:00 PM CT, Oct. 19 </p> 
- [Unvaccinated State Workers in Washington and Massachusetts Face Job Loss](https://www.nytimes.com/2021/10/18/world/washington-massachusetts-employees-vaccination.html) NYT: New Jersey’s vaccine mandate for school and state workers also took effect this week, requiring employees to provide proof of vaccination or complete a Covid-19 test at least once a week 
  <p class="updated_time"> 12:59 PM CT, Oct. 19 </p> 
  [Austria driver sought after two migrants found dead on bus](https://www.bbc.co.uk/news/world-europe-58974624?at_medium=RSS&at_campaign=KARANGA) BBC: Austrian police are searching for the driver of a minibus after dozens were found crammed inside. 
  <p class="updated_time"> 12:33 PM CT, Oct. 19 </p> 
  [Covid: Moscow imposes new restrictions as infections soar](https://www.bbc.co.uk/news/world-europe-58966477?at_medium=RSS&at_campaign=KARANGA) BBC: Most of the over-60s in Russia's capital face months of lockdown as Covid deaths hit a new record. 
- <p class="updated_time"> 12:28 PM CT, Oct. 19 </p> 
- [They Fought Apartheid in South Africa. Now They Want Veterans’ Benefits.](https://www.nytimes.com/2021/10/19/world/africa/south-africa-apartheid-veterans-liberation-struggle.html) NYT: A protest movement by those who joined the armed struggle against apartheid has grown confrontational. More than 50 of them have been charged with kidnapping the country’s defense minister. 
  <p class="updated_time"> 12:27 PM CT, Oct. 19 </p> 
  [Plane crashes in Texas with no serious injuries](https://www.bbc.co.uk/news/world-us-canada-58974696?at_medium=RSS&at_campaign=KARANGA) BBC: A plane was carrying 21 people crashed near Houston Executive Airport, with no serious injuries reported. 
  <p class="updated_time"> 12:19 PM CT, Oct. 19 </p> 
