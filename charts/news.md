@@ -6,6 +6,10 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 08:29 AM CT, Oct. 19 </p> 
+ [Kidnappers in Haiti Demand $17 Million to Free Missionary Group](https://www.nytimes.com/2021/10/19/world/europe/haiti-missionaries-ransom.html) NYT: A gang captured a group of aid workers on Saturday and are holding 17 people hostage, including children. Most of those being held are Americans; one is Canadian. 
+ <p class="updated_time"> 08:22 AM CT, Oct. 19 </p> 
+ [Those Gifts You Want for the Holidays? Don’t Wait Too Long.](https://www.nytimes.com/2021/10/19/business/supply-chain-holidays.html) NYT: The supply chain disruption is shorthand for problems from factory closures to workers who are not working anymore. 
  <p class="updated_time"> 08:05 AM CT, Oct. 19 </p> 
  [Polish PM accuses EU of blackmail as row over rule of law escalates](https://www.bbc.co.uk/news/world-europe-58955375?at_medium=RSS&at_campaign=KARANGA) BBC: Mateusz Morawiecki clashes with EU leaders over a Polish court ruling that rejected parts of EU law. 
  <p class="updated_time"> 07:59 AM CT, Oct. 19 </p> 
@@ -24,8 +28,6 @@ permalink: /charts/news/
  [Diver finds 900-year-old crusader sword off Israel's coast](https://www.bbc.co.uk/news/world-middle-east-58963025?at_medium=RSS&at_campaign=KARANGA) BBC: The blade, which is encrusted with marine organisms, is believed to be about 900 years old. 
  <p class="updated_time"> 04:00 AM CT, Oct. 19 </p> 
  [On a Pacific Island, Russia Tests Its Battle Plan on Climate Change](https://www.nytimes.com/2021/10/19/world/europe/russia-climate-change.html) NYT: President Vladimir V. Putin long dismissed the threat posed by global warming. But fires, disasters and foreign pressure have prompted him to change course. 
- <p class="updated_time"> 04:00 AM CT, Oct. 19 </p> 
- [Those Gifts You Want for the Holidays? Don’t Wait Too Long.](https://www.nytimes.com/2021/10/19/business/supply-chain-holidays.html) NYT: The supply chain disruption is shorthand for problems from factory closures to workers who are not working anymore. 
  <p class="updated_time"> 04:00 AM CT, Oct. 19 </p> 
  [Nick Rolovich: Washington State football coach fired for refusing Covid vaccine](https://www.bbc.co.uk/news/world-us-canada-58955577?at_medium=RSS&at_campaign=KARANGA) BBC: College football coach Nick Rolovich loses his $3.1m-a-year job for shirking a state vaccine mandate. 
  <p class="updated_time"> 04:00 AM CT, Oct. 19 </p> 
@@ -160,12 +162,16 @@ permalink: /charts/news/
  [Tunisians Recall Revolution Reluctantly, if at All: ‘It Just Faded Away’](https://www.nytimes.com/2021/10/17/world/middleeast/tunisia-revolution-memoro-monuments.html) NYT: When a monument to those killed in the 2011 uprising was recently damaged, few took notice or even cared in a town, and country, where there is now more regret than a wish to remember. 
  <p class="updated_time"> 08:12 AM CT, Oct. 17 </p> 
  [How a Stunning Lagoon in Spain Turned Into ‘Green Soup’](https://www.nytimes.com/2021/10/17/world/europe/spain-lagoon-pollution-mar-menor.html) NYT: Tons of dead fish have washed ashore in recent years from the Mar Menor, a once-crystalline lagoon on the Mediterranean coast that has become choked with algae. Farm pollution is mostly blamed. 
+ <p class="updated_time"> 07:42 AM CT, Oct. 17 </p> 
+ [In Venezuela, a Rum Maker Offers Gangsters a Life Outside of Crime](https://www.nytimes.com/2021/10/16/world/americas/venezuela-rum-rehabilitation-crime.html) NYT: In the process, the family running the company, Ron Santa Teresa, has gone from bankruptcy to exporting an award-winning vintage rum. 
  <p class="updated_time"> 05:39 AM CT, Oct. 17 </p> 
  [Syria Accuses Israel of Assassinating Official Near Golan Heights](https://www.nytimes.com/2021/10/16/world/syria-accuses-israel-of-assassinating-official-near-golan-heights.html) NYT: Midhat Saleh, who oversaw the strategic Golan Heights boundary for Syria, was shot and killed by a sniper, the government said. 
  <p class="updated_time"> 05:15 AM CT, Oct. 17 </p> 
  [South Korea Reconsiders a Rite of Manhood: The Draft](https://www.nytimes.com/2021/10/17/world/asia/south-korea-conscription.html) NYT: Military conscription has become less popular. The rules have loosened. But experts still worry about the threat from the North. 
  <p class="updated_time"> 11:52 PM CT, Oct. 16 </p> 
  [U.S. Arrests Alex Saab, Deal Maker for Nicolás Maduro of Venezuela](https://www.nytimes.com/2021/10/16/world/americas/alex-saab-arrest-venezuela-maduro.html) NYT: Alex Saab, a Colombian businessman, is accused in the U.S. of siphoning millions from programs intended to help the needy in Venezuela. 
+ <p class="updated_time"> 11:05 PM CT, Oct. 16 </p> 
+ [With Lawmaker’s Killing, U.K. Confronts a New Episode of Terrorism](https://www.nytimes.com/2021/10/16/world/europe/uk-stabbing-terrorism.html) NYT: The police conducted searches and questioned the suspect as Prime Minister Boris Johnson and other leaders paid respects to David Amess, who was fatally stabbed while meeting with constituents. 
  <p class="updated_time"> 09:39 PM CT, Oct. 16 </p> 
  [National Guard Called Up to Ease Crowding at Minnesota Hospitals ](https://www.nytimes.com/2021/10/16/world/americas/minnesota-governor-walz-national-guard-covid.html) NYT: Staffing shortages at long-term care facilities are preventing hospitals from discharging patients and admitting new ones. 
  <p class="updated_time"> 06:17 PM CT, Oct. 16 </p> 
@@ -176,6 +182,10 @@ permalink: /charts/news/
  [How 3 Strangers a World Away Came to the Rescue of a Badly Burned Afghan Girl](https://www.nytimes.com/2021/10/16/world/asia/afghanistan-girl-burn-evacuation-military.html) NYT: The story of 8-year-old Asma, injured by a U.S. tear-gas canister, echoes the heartbreak and heroism of the 20-year American misadventure in Afghanistan. 
  <p class="updated_time"> 11:44 AM CT, Oct. 16 </p> 
  [Mixing and Matching Covid Vaccines Is Examined by F.D.A. Panel](https://www.nytimes.com/2021/10/16/us/mixing-vaccines.html) NYT: The agency’s expert advisers discussed the data on the approach, which is limited. 
+ <p class="updated_time"> 10:23 AM CT, Oct. 16 </p> 
+ [Macron Commemorates 1961 Paris Police Killing of Algerian Protesters](https://www.nytimes.com/2021/10/16/world/europe/paris-police-algerians-macron.html) NYT: President Emmanuel Macron of France is the country’s first head of state to attend an event marking the deaths, which officials ignored for decades. 
+ <p class="updated_time"> 09:09 AM CT, Oct. 16 </p> 
+ [Beirut, a City Where Everyone Gets By, Revisits Sectarian Violence](https://www.nytimes.com/2021/10/16/world/middleeast/beirut-lebanon-sectarian-violence.html) NYT: Lebanon’s capital thrives on its religious diversity, but sectarian tensions and memories of civil war lurk just beneath the surface. 
  <p class="updated_time"> 11:47 AM CT, Oct. 14 </p> 
  [Why China's climate policy matters to us all](https://www.bbc.co.uk/news/world-asia-china-57483492?at_medium=RSS&at_campaign=KARANGA) BBC: The global battle against climate change is likely to be won or lost in China. 
  <p class="updated_time"> 07:50 AM CT, Oct. 13 </p> 
