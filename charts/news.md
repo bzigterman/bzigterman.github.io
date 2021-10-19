@@ -6,8 +6,12 @@ permalink: /charts/news/
 
 ## World News
 
- <p class="updated_time"> 10:42 AM CT, Oct. 19 </p> 
- [Kidnappers in Haiti Demand $17 Million to Free Missionary Group](https://www.nytimes.com/2021/10/19/world/europe/haiti-missionaries-ransom.html) NYT: A gang captured a group of aid workers on Saturday and are holding 17 people hostage, including children. Most of those being held are Americans; one is Canadian. 
+ <p class="updated_time"> 11:10 AM CT, Oct. 19 </p> 
+ [On a Pacific Island, Russia Tests Its Battle Plan on Climate Change](https://www.nytimes.com/2021/10/19/world/europe/russia-climate-change.html) NYT: President Vladimir V. Putin long dismissed the threat posed by global warming. But fires, disasters and foreign pressure have prompted him to change course. 
+ <p class="updated_time"> 11:03 AM CT, Oct. 19 </p> 
+ [Kidnappers in Haiti Demand $17 Million to Free Missionary Group](https://www.nytimes.com/2021/10/19/world/europe/haiti-missionaries-ransom.html) NYT: A gang abducted 17 people associated with a Christian aid group, including five children. Most of those being held are Americans; one is Canadian. 
+ <p class="updated_time"> 10:57 AM CT, Oct. 19 </p> 
+ [Africa’s Last Mountain Glaciers Will Soon Be Gone, U.N. Report Warns](https://www.nytimes.com/2021/10/19/world/africa/mountain-glaciers-disappear.html) NYT: The loss of the ice sheets would be another sign of the catastrophic effect of climate change on the continent. Floods are worse, droughts last longer and millions of people have been displaced. 
  <p class="updated_time"> 10:38 AM CT, Oct. 19 </p> 
  [Mix-and-Match Covid Boosters: Why They Just Might Work](https://www.nytimes.com/2021/10/19/health/covid-vaccine-mix-match.html) NYT: The F.D.A. may authorize booster shots of vaccines different from the ones that Americans originally received. The science behind the move is promising. 
  <p class="updated_time"> 10:12 AM CT, Oct. 19 </p> 
@@ -16,10 +20,6 @@ permalink: /charts/news/
  [F.B.I. Is Working in Haiti to Recover Kidnapped Missionaries](https://www.nytimes.com/2021/10/18/world/americas/haiti-protests.html) NYT: The United States has a team on the ground to try to secure the release of 17 people taken by a gang in the latest example of the violence that is leaving Haitians desperate. 
  <p class="updated_time"> 10:04 AM CT, Oct. 19 </p> 
  [Polish PM accuses EU of blackmail as row over rule of law escalates](https://www.bbc.co.uk/news/world-europe-58955375?at_medium=RSS&at_campaign=KARANGA) BBC: Mateusz Morawiecki clashes with EU leaders over a Polish court ruling that rejected parts of EU law. 
- <p class="updated_time"> 09:58 AM CT, Oct. 19 </p> 
- [On a Pacific Island, Russia Tests Its Battle Plan on Climate Change](https://www.nytimes.com/2021/10/19/world/europe/russia-climate-change.html) NYT: President Vladimir V. Putin long dismissed the threat posed by global warming. But fires, disasters and foreign pressure have prompted him to change course. 
- <p class="updated_time"> 09:43 AM CT, Oct. 19 </p> 
- [Africa’s Last Mountain Glaciers Will Soon Be Gone, U.N. Report Warns](https://www.nytimes.com/2021/10/19/world/africa/mountain-glaciers-disappear.html) NYT: The loss of the ice sheets would be another sign of the catastrophic effect of climate change on the continent. Floods are worse, droughts last longer and millions of people have been displaced. 
  <p class="updated_time"> 09:37 AM CT, Oct. 19 </p> 
  [Nick Rolovich: Washington State football coach fired for refusing Covid vaccine](https://www.bbc.co.uk/news/world-us-canada-58955577?at_medium=RSS&at_campaign=KARANGA) BBC: College football coach Nick Rolovich loses his $3.1m-a-year job for shirking a state vaccine mandate. 
  <p class="updated_time"> 09:37 AM CT, Oct. 19 </p> 
