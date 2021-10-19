@@ -6,8 +6,10 @@ permalink: /charts/news/
 
 ## World News
 
- <p class="updated_time"> 01:36 PM CT, Oct. 19 </p> 
+ <p class="updated_time"> 01:44 PM CT, Oct. 19 </p> 
  [Bolsonaro Should Face Homicide Charges Over Pandemic, Brazil Lawmakers Say](https://www.nytimes.com/2021/10/19/world/americas/bolsonaro-pandemic-investigation-brazil.html) NYT: A long-awaited report from Brazil’s Senate concludes that Jair Bolsonaro purposely let the coronavirus kill Brazilians in a failed bid for herd immunity. 
+ <p class="updated_time"> 01:43 PM CT, Oct. 19 </p> 
+ [Charges ‘unlikely’ for bystanders who failed to report rape say prosecutors](https://www.bbc.co.uk/news/world-us-canada-58949611?at_medium=RSS&at_campaign=KARANGA) BBC: A woman was assaulted by another passenger and some riders may have filmed the incident, police say. 
  <p class="updated_time"> 01:25 PM CT, Oct. 19 </p> 
  [A Warning That Africa’s Last Glaciers Will Soon Vanish](https://www.nytimes.com/2021/10/19/world/africa/mountain-glaciers-disappear.html) NYT: While African nations contribute less than 4 percent of global greenhouse gas emissions, a U.N. report underscored the outsize impact that climate change is having on the continent. 
  <p class="updated_time"> 01:18 PM CT, Oct. 19 </p> 
@@ -26,8 +28,6 @@ permalink: /charts/news/
  [Plane crashes in Texas with no serious injuries](https://www.bbc.co.uk/news/world-us-canada-58974696?at_medium=RSS&at_campaign=KARANGA) BBC: A plane was carrying 21 people crashed near Houston Executive Airport, with no serious injuries reported. 
  <p class="updated_time"> 12:19 PM CT, Oct. 19 </p> 
  [School Attendance Falls for Homeless Students in N.Y.C. ](https://www.nytimes.com/2021/10/19/nyregion/new-york-city-homeless-school-attendance.html) NYT: Attendance rates for students living in shelters fell to just 73 percent in the first few weeks of the new school year, compared with around 90 percent for all students. 
- <p class="updated_time"> 12:17 PM CT, Oct. 19 </p> 
- [Police warn charges possible for bystanders who failed to report rape](https://www.bbc.co.uk/news/world-us-canada-58949611?at_medium=RSS&at_campaign=KARANGA) BBC: A woman was assaulted by another passenger and some riders may have filmed the incident, police say. 
  <p class="updated_time"> 11:52 AM CT, Oct. 19 </p> 
  [Ukraine's Covid Deaths Soar as Fake Vaccination Certificates Spread](https://www.nytimes.com/2021/10/19/world/europe/ukraine-covid-deaths.html) NYT: In the country with the lowest rate of coronavirus vaccination in Europe, the proliferation of fakes threatens to undermine Ukraine’s fight against the virus. 
  <p class="updated_time"> 11:49 AM CT, Oct. 19 </p> 
