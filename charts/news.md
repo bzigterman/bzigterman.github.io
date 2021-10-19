@@ -6,6 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 04:39 PM CT, Oct. 19 </p> 
+ [FBI Raids Homes Linked to Russian Oligarch Oleg Deripaska](https://www.nytimes.com/2021/10/19/us/politics/oleg-deripaska-fbi-raid.html) NYT: Agents investigating whether Oleg Deripaska violated U.S. sanctions searched homes he has used in New York and Washington, D.C. 
  <p class="updated_time"> 04:17 PM CT, Oct. 19 </p> 
  [Bolsonaro's Pandemic Handling Draws Explosive Allegation: Homicide](https://www.nytimes.com/2021/10/19/world/americas/bolsonaro-covid-19-brazil.html) NYT: A long-awaited report from a panel of Brazilian senators concludes that Jair Bolsonaro purposely let the coronavirus kill Brazilians in a failed bid for herd immunity. 
  <p class="updated_time"> 03:55 PM CT, Oct. 19 </p> 
@@ -190,8 +192,6 @@ permalink: /charts/news/
  [Syria Accuses Israel of Assassinating Official Near Golan Heights](https://www.nytimes.com/2021/10/16/world/syria-accuses-israel-of-assassinating-official-near-golan-heights.html) NYT: Midhat Saleh, who oversaw the strategic Golan Heights boundary for Syria, was shot and killed by a sniper, the government said. 
  <p class="updated_time"> 05:15 AM CT, Oct. 17 </p> 
  [South Korea Reconsiders a Rite of Manhood: The Draft](https://www.nytimes.com/2021/10/17/world/asia/south-korea-conscription.html) NYT: Military conscription has become less popular. The rules have loosened. But experts still worry about the threat from the North. 
- <p class="updated_time"> 11:52 PM CT, Oct. 16 </p> 
- [U.S. Arrests Alex Saab, Deal Maker for Nicolás Maduro of Venezuela](https://www.nytimes.com/2021/10/16/world/americas/alex-saab-arrest-venezuela-maduro.html) NYT: Alex Saab, a Colombian businessman, is accused in the U.S. of siphoning millions from programs intended to help the needy in Venezuela. 
  <p class="updated_time"> 06:17 PM CT, Oct. 16 </p> 
  [Airlines in Japan and South Korea Try Novel Ideas to Lure Fliers](https://www.nytimes.com/2021/10/16/world/japan-south-korea-airlines-covid-incentives.html) NYT: How about inexpensive passes good for a month of domestic flights? Or popular in-flight meals to on-the-ground customers? 
  <p class="updated_time"> 11:47 AM CT, Oct. 14 </p> 
