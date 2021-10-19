@@ -6,6 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 10:37 PM CT, Oct. 18 </p> 
+ [Your Tuesday Briefing](https://www.nytimes.com/2021/10/18/briefing/haiti-kidnapping-colin-powell.html) NYT: Efforts to recover a kidnapped group in Haiti. 
  <p class="updated_time"> 10:29 PM CT, Oct. 18 </p> 
  [North Korea Launches Ballistic Missile Hours After Envoys Meet in Washington](https://www.nytimes.com/2021/10/18/world/asia/north-korea-ballistic-missile-test-washington.html) NYT: The launch came after the special envoys gathered to discuss how to deal with Pyongyang’s growing nuclear capabilities. 
  <p class="updated_time"> 09:58 PM CT, Oct. 18 </p> 
@@ -174,8 +176,6 @@ permalink: /charts/news/
  [Macron Commemorates 1961 Paris Police Killing of Algerian Protesters](https://www.nytimes.com/2021/10/16/world/europe/paris-police-algerians-macron.html) NYT: President Emmanuel Macron of France is the country’s first head of state to attend an event marking the deaths, which officials ignored for decades. 
  <p class="updated_time"> 09:09 AM CT, Oct. 16 </p> 
  [Beirut, a City Where Everyone Gets By, Revisits Sectarian Violence](https://www.nytimes.com/2021/10/16/world/middleeast/beirut-lebanon-sectarian-violence.html) NYT: Lebanon’s capital thrives on its religious diversity, but sectarian tensions and memories of civil war lurk just beneath the surface. 
- <p class="updated_time"> 08:30 AM CT, Oct. 16 </p> 
- [Quebec Language Debate Spurs Eerie Sense of Déjà-Vu](https://www.nytimes.com/2021/10/15/world/canada/quebec-language-debate.html) NYT: For a Montreal-based Times correspondent, proposed language legislation brings back memories of the 1970s. 
  <p class="updated_time"> 08:23 AM CT, Oct. 16 </p> 
  [What Are Political ‘Surgeries’ in Britain?](https://www.nytimes.com/2021/10/16/world/europe/political-surgeries-uk.html) NYT: The person-to-person meetings with voters give Britons unusually good access to their political representatives. But questions are being asked about whether the tradition can continue. 
  <p class="updated_time"> 02:39 AM CT, Oct. 16 </p> 
