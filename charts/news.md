@@ -12,6 +12,8 @@ permalink: /charts/news/
  [Taliban Allow Polio Vaccine Program to Restart in Afghanistan](https://www.nytimes.com/2021/10/19/world/asia/taliban-polio-vaccines-afghanistan.html) NYT: Taliban leaders also agreed to allow women to be frontline workers for the effort, according to the World Health Organization and UNICEF. 
  <p class="updated_time"> 05:30 AM CT, Oct. 19 </p> 
  [The Threat, in Perspective](https://www.nytimes.com/2021/10/19/briefing/colin-powell-covid-risk-older-americans.html) NYT: Colin Powell’s death highlights the continuing Covid risks to older people with medical conditions. 
+ <p class="updated_time"> 05:27 AM CT, Oct. 19 </p> 
+ [Male State: Russia bans group for anti-women and anti-gay posts](https://www.bbc.co.uk/news/world-europe-58966476?at_medium=RSS&at_campaign=KARANGA) BBC: Russia bans a group called Male State which hounded women and gay people online. 
  <p class="updated_time"> 04:25 AM CT, Oct. 19 </p> 
  [Polish PM accuses EU of blackmail as row over rule of law escalates](https://www.bbc.co.uk/news/world-europe-58955375?at_medium=RSS&at_campaign=KARANGA) BBC: Mateusz Morawiecki clashes with EU leaders over a Polish court ruling that rejected parts of EU law. 
  <p class="updated_time"> 04:16 AM CT, Oct. 19 </p> 
@@ -58,8 +60,6 @@ permalink: /charts/news/
  [Tributes pour in for 'trailblazer' Colin Powell](https://www.bbc.co.uk/news/world-us-canada-58957273?at_medium=RSS&at_campaign=KARANGA) BBC: The ex-US secretary of state, the first African-American in that role, dies of Covid complications. 
  <p class="updated_time"> 07:19 PM CT, Oct. 18 </p> 
  [Haiti Gang Seeks $17 Million Ransom for Abducted Missionaries](https://www.wsj.com/articles/fbi-will-help-investigate-kidnapping-of-missionaries-in-haiti-11634593701) WSJ: The Haitian gang that abducted a group of American and Canadian missionaries is asking for $1 million each for their release, a total of $17 million, a top Haitian official said on Monday. 
- <p class="updated_time"> 07:02 PM CT, Oct. 18 </p> 
- [Afghanistan: US envoy Zalmay Khalilzad steps down after troops withdrawal](https://www.bbc.co.uk/news/world-us-canada-58946566?at_medium=RSS&at_campaign=KARANGA) BBC: Zalmay Khalilzad led talks with the Taliban that resulted in a deal to fully withdraw US troops. 
  <p class="updated_time"> 06:46 PM CT, Oct. 18 </p> 
  [The key moments of Colin Powell's life](https://www.bbc.co.uk/news/world-us-canada-58962596?at_medium=RSS&at_campaign=KARANGA) BBC: The son of Jamaican immigrants, his story was hailed as an example of what's possible in America. 
  <p class="updated_time"> 06:40 PM CT, Oct. 18 </p> 
