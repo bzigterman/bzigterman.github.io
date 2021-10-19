@@ -6,7 +6,7 @@ permalink: /charts/news/
 
 ## World News
 
- <p class="updated_time"> 08:29 AM CT, Oct. 19 </p> 
+ <p class="updated_time"> 08:39 AM CT, Oct. 19 </p> 
  [Kidnappers in Haiti Demand $17 Million to Free Missionary Group](https://www.nytimes.com/2021/10/19/world/europe/haiti-missionaries-ransom.html) NYT: A gang captured a group of aid workers on Saturday and are holding 17 people hostage, including children. Most of those being held are Americans; one is Canadian. 
  <p class="updated_time"> 08:22 AM CT, Oct. 19 </p> 
  [Those Gifts You Want for the Holidays? Don’t Wait Too Long.](https://www.nytimes.com/2021/10/19/business/supply-chain-holidays.html) NYT: The supply chain disruption is shorthand for problems from factory closures to workers who are not working anymore. 
@@ -24,6 +24,8 @@ permalink: /charts/news/
  [The Threat, in Perspective](https://www.nytimes.com/2021/10/19/briefing/colin-powell-covid-risk-older-americans.html) NYT: Colin Powell’s death highlights the continuing Covid risks to older people with medical conditions. 
  <p class="updated_time"> 05:27 AM CT, Oct. 19 </p> 
  [Male State: Russia bans group for anti-women and anti-gay posts](https://www.bbc.co.uk/news/world-europe-58966476?at_medium=RSS&at_campaign=KARANGA) BBC: Russia bans a group called Male State which hounded women and gay people online. 
+ <p class="updated_time"> 04:39 AM CT, Oct. 19 </p> 
+ [In Tackling China's Real-Estate Bubble, Xi Jinping Faces Resistance to Property-Tax Plan](https://www.wsj.com/articles/in-tackling-chinas-real-estate-bubble-xi-jinping-faces-resistance-to-property-tax-plan-11634650751) WSJ: The Chinese leader is facing strong resistance over a nationwide property-tax plan meant to help curb housing speculation, and he is now settling for a more limited rollout, people familiar with the matter said. 
  <p class="updated_time"> 04:16 AM CT, Oct. 19 </p> 
  [Diver finds 900-year-old crusader sword off Israel's coast](https://www.bbc.co.uk/news/world-middle-east-58963025?at_medium=RSS&at_campaign=KARANGA) BBC: The blade, which is encrusted with marine organisms, is believed to be about 900 years old. 
  <p class="updated_time"> 04:00 AM CT, Oct. 19 </p> 
