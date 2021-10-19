@@ -6,6 +6,10 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 11:47 AM CT, Oct. 19 </p> 
+ [Ukraine's Covid Deaths Soar as Fake Vaccination Certificates Spread](https://www.nytimes.com/2021/10/19/world/europe/ukraine-covid-deaths.html) NYT: In the country with the lowest rate of coronavirus vaccination in Europe, the proliferation of fakes threatens to undermine Ukraine’s fight against the virus. 
+ <p class="updated_time"> 11:42 AM CT, Oct. 19 </p> 
+ [Tuberculosis, Like Covid, Spreads Mostly in Aerosols, Scientists Report](https://www.nytimes.com/2021/10/19/health/tuberculosis-transmission-aerosols.html) NYT: The finding upends conventional wisdom regarding coughing, long thought to be the main route of transmission. 
  <p class="updated_time"> 11:10 AM CT, Oct. 19 </p> 
  [On a Pacific Island, Russia Tests Its Battle Plan on Climate Change](https://www.nytimes.com/2021/10/19/world/europe/russia-climate-change.html) NYT: President Vladimir V. Putin long dismissed the threat posed by global warming. But fires, disasters and foreign pressure have prompted him to change course. 
  <p class="updated_time"> 11:03 AM CT, Oct. 19 </p> 
@@ -74,8 +78,6 @@ permalink: /charts/news/
  [ Russia's Low Vaccination Rates Leads to Record-Breaking Toll](https://www.nytimes.com/2021/10/18/world/europe/russia-virus-vaccine.html) NYT: The country hit 1,000 deaths in a 24-hour period for the first time since the pandemic began, reflecting the risks of having a low vaccination rate. 
  <p class="updated_time"> 02:49 AM CT, Oct. 19 </p> 
  [Uttarakhand floods: The dramatic moment a car with people is pulled from a river](https://www.bbc.co.uk/news/world-asia-india-58951455?at_medium=RSS&at_campaign=KARANGA) BBC: Officials used cranes to pull it - and its occupants - to safety. 
- <p class="updated_time"> 02:30 AM CT, Oct. 19 </p> 
- [Tuberculosis, Like Covid, Spreads in Aerosols, Scientists Report](https://www.nytimes.com/2021/10/19/health/tuberculosis-transmission-aerosols.html) NYT: The finding upends conventional wisdom regarding coughing, long thought to be the main route of transmission. 
  <p class="updated_time"> 02:00 AM CT, Oct. 19 </p> 
  [These U.S. Veterans Won't Rest Until They've Kept a Promise to Afghans](https://www.nytimes.com/2021/10/19/world/us-veterans-afghan-evacuation.html) NYT: An informal network that includes former government and military officials is working around the clock to fulfill a pledge to save Afghans who put their lives on the line for America. 
  <p class="updated_time"> 01:43 AM CT, Oct. 19 </p> 
@@ -188,8 +190,6 @@ permalink: /charts/news/
  [After Iraqi Election, a Shiite Leader Emerges as an Unlikely U.S. Ally](https://www.nytimes.com/2021/10/16/world/middleeast/iraq-sadr-election.html) NYT: The U.S. once threatened to kill Muqtada al-Sadr as his militia battled occupying forces. Now, the powerful cleric is helping Washington by keeping Iran at bay. 
  <p class="updated_time"> 12:18 PM CT, Oct. 16 </p> 
  [How 3 Strangers a World Away Came to the Rescue of a Badly Burned Afghan Girl](https://www.nytimes.com/2021/10/16/world/asia/afghanistan-girl-burn-evacuation-military.html) NYT: The story of 8-year-old Asma, injured by a U.S. tear-gas canister, echoes the heartbreak and heroism of the 20-year American misadventure in Afghanistan. 
- <p class="updated_time"> 10:23 AM CT, Oct. 16 </p> 
- [Macron Commemorates 1961 Paris Police Killing of Algerian Protesters](https://www.nytimes.com/2021/10/16/world/europe/paris-police-algerians-macron.html) NYT: President Emmanuel Macron of France is the country’s first head of state to attend an event marking the deaths, which officials ignored for decades. 
  <p class="updated_time"> 11:47 AM CT, Oct. 14 </p> 
  [Why China's climate policy matters to us all](https://www.bbc.co.uk/news/world-asia-china-57483492?at_medium=RSS&at_campaign=KARANGA) BBC: The global battle against climate change is likely to be won or lost in China. 
  <p class="updated_time"> 07:50 AM CT, Oct. 13 </p> 
