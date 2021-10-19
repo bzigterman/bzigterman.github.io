@@ -6,6 +6,12 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 01:36 PM CT, Oct. 19 </p> 
+ [Bolsonaro Should Face Homicide Charges Over Pandemic, Brazil Lawmakers Say](https://www.nytimes.com/2021/10/19/world/americas/bolsonaro-pandemic-investigation-brazil.html) NYT: A long-awaited report from Brazil’s Senate concludes that Jair Bolsonaro purposely let the coronavirus kill Brazilians in a failed bid for herd immunity. 
+ <p class="updated_time"> 01:25 PM CT, Oct. 19 </p> 
+ [A Warning That Africa’s Last Glaciers Will Soon Vanish](https://www.nytimes.com/2021/10/19/world/africa/mountain-glaciers-disappear.html) NYT: While African nations contribute less than 4 percent of global greenhouse gas emissions, a U.N. report underscored the outsize impact that climate change is having on the continent. 
+ <p class="updated_time"> 01:18 PM CT, Oct. 19 </p> 
+ [Mix-and-Match Covid Boosters: Why They Just Might Work](https://www.nytimes.com/2021/10/19/health/covid-vaccine-mix-match.html) NYT: The F.D.A. may authorize booster shots of vaccines different from the ones that Americans originally received. The science behind the move is promising. 
  <p class="updated_time"> 01:14 PM CT, Oct. 19 </p> 
  [Tuberculosis, Like Covid, Spreads by Breathing, Scientists Report](https://www.nytimes.com/2021/10/19/health/tuberculosis-transmission-aerosols.html) NYT: The finding upends conventional wisdom regarding coughing, long thought to be the main route of transmission. 
  <p class="updated_time"> 01:00 PM CT, Oct. 19 </p> 
@@ -30,10 +36,8 @@ permalink: /charts/news/
  [On a Pacific Island, Russia Tests Its Battle Plan on Climate Change](https://www.nytimes.com/2021/10/19/world/europe/russia-climate-change.html) NYT: President Vladimir V. Putin long dismissed the threat posed by global warming. But fires, disasters and foreign pressure have prompted him to change course. 
  <p class="updated_time"> 11:03 AM CT, Oct. 19 </p> 
  [Kidnappers in Haiti Demand $17 Million to Free Missionary Group](https://www.nytimes.com/2021/10/19/world/europe/haiti-missionaries-ransom.html) NYT: A gang abducted 17 people associated with a Christian aid group, including five children. Most of those being held are Americans; one is Canadian. 
- <p class="updated_time"> 10:57 AM CT, Oct. 19 </p> 
- [Africa’s Last Mountain Glaciers Will Soon Be Gone, U.N. Report Warns](https://www.nytimes.com/2021/10/19/world/africa/mountain-glaciers-disappear.html) NYT: The loss of the ice sheets would be another sign of the catastrophic effect of climate change on the continent. Floods are worse, droughts last longer and millions of people have been displaced. 
- <p class="updated_time"> 10:38 AM CT, Oct. 19 </p> 
- [Mix-and-Match Covid Boosters: Why They Just Might Work](https://www.nytimes.com/2021/10/19/health/covid-vaccine-mix-match.html) NYT: The F.D.A. may authorize booster shots of vaccines different from the ones that Americans originally received. The science behind the move is promising. 
+ <p class="updated_time"> 10:12 AM CT, Oct. 19 </p> 
+ [Pornhub owner settles with Girls Do Porn victims over videos](https://www.bbc.co.uk/news/technology-58917993?at_medium=RSS&at_campaign=KARANGA) BBC: A group of 50 women sued MindGeek over a sex-trafficking operation by Girls Do Porn. 
  <p class="updated_time"> 10:12 AM CT, Oct. 19 </p> 
  [For Christian Aid Ministries, Charity in Haiti Turns to Chaos](https://www.nytimes.com/2021/10/17/world/americas/amish-missionary-group-kidnap.html) NYT: An organization based in Ohio and founded by Amish and Mennonites has been swept up in the violence roiling the country. 
  <p class="updated_time"> 10:09 AM CT, Oct. 19 </p> 
@@ -80,8 +84,6 @@ permalink: /charts/news/
  [Xi Faces Resistance to Property Tax Planned to Combat Real-Estate Bubble](https://www.wsj.com/articles/in-tackling-chinas-real-estate-bubble-xi-jinping-faces-resistance-to-property-tax-plan-11634650751) WSJ: The Chinese leader is facing strong resistance over a nationwide property-tax plan meant to help curb housing speculation, and he is now settling for a more limited rollout, people familiar with the matter said. 
  <p class="updated_time"> 04:00 AM CT, Oct. 19 </p> 
  [After Del Rio, Calls for Fairer Treatment of Black Migrants](https://www.nytimes.com/2021/10/19/us/politics/black-migrants-biden-border.html) NYT: The treatment of Haitians apprehended in Del Rio, Texas, has galvanized civil rights groups and others to press for change. 
- <p class="updated_time"> 03:48 AM CT, Oct. 19 </p> 
- [North Korea fires suspected submarine-launched missile into waters off Japan](https://www.bbc.co.uk/news/world-asia-58963654?at_medium=RSS&at_campaign=KARANGA) BBC: It is thought to have been a submarine-launched ballistic missile which are harder to detect. 
  <p class="updated_time"> 03:18 AM CT, Oct. 19 </p> 
  [ Russia's Low Vaccination Rates Leads to Record-Breaking Toll](https://www.nytimes.com/2021/10/18/world/europe/russia-virus-vaccine.html) NYT: The country hit 1,000 deaths in a 24-hour period for the first time since the pandemic began, reflecting the risks of having a low vaccination rate. 
  <p class="updated_time"> 02:49 AM CT, Oct. 19 </p> 
@@ -186,8 +188,6 @@ permalink: /charts/news/
  [U.S. Arrests Alex Saab, Deal Maker for Nicolás Maduro of Venezuela](https://www.nytimes.com/2021/10/16/world/americas/alex-saab-arrest-venezuela-maduro.html) NYT: Alex Saab, a Colombian businessman, is accused in the U.S. of siphoning millions from programs intended to help the needy in Venezuela. 
  <p class="updated_time"> 06:17 PM CT, Oct. 16 </p> 
  [Airlines in Japan and South Korea Try Novel Ideas to Lure Fliers](https://www.nytimes.com/2021/10/16/world/japan-south-korea-airlines-covid-incentives.html) NYT: How about inexpensive passes good for a month of domestic flights? Or popular in-flight meals to on-the-ground customers? 
- <p class="updated_time"> 12:18 PM CT, Oct. 16 </p> 
- [How 3 Strangers a World Away Came to the Rescue of a Badly Burned Afghan Girl](https://www.nytimes.com/2021/10/16/world/asia/afghanistan-girl-burn-evacuation-military.html) NYT: The story of 8-year-old Asma, injured by a U.S. tear-gas canister, echoes the heartbreak and heroism of the 20-year American misadventure in Afghanistan. 
  <p class="updated_time"> 11:47 AM CT, Oct. 14 </p> 
  [Why China's climate policy matters to us all](https://www.bbc.co.uk/news/world-asia-china-57483492?at_medium=RSS&at_campaign=KARANGA) BBC: The global battle against climate change is likely to be won or lost in China. 
  <p class="updated_time"> 07:50 AM CT, Oct. 13 </p> 
