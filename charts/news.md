@@ -130,12 +130,10 @@ permalink: /charts/news/
  [Prince William's Earthshot Prize Honors Costa Rica and Milan in Climate Fight](https://www.nytimes.com/2021/10/17/climate/earthshot-prizes-costa-rica-milan.html) NYT: Costa Rica and the city of Milan were among the five winners that each received one million pounds, or nearly $1.4 million, to continue sustainability and conservation efforts during a ceremony in London. 
  <p class="updated_time"> 05:41 AM CT, Oct. 18 </p> 
  [America’s Cash Glut](https://www.nytimes.com/2021/10/18/briefing/us-economy-cash-glut.html) NYT: The economy is almost doing too well. But there are some problems. 
- <p class="updated_time"> 05:40 AM CT, Oct. 18 </p> 
- [To Strike a Climate Deal, Poor Nations Say They Need Trillions From Rich Ones](https://www.wsj.com/articles/to-strike-a-climate-deal-poor-nations-say-they-need-trillions-from-rich-ones-11634568010) WSJ: Industrialized countries were already struggling to pay earlier commitments to help with clean-energy development and other infrastructure needs. Now the cost of buying cooperation has skyrocketed. 
+ <p class="updated_time"> 04:11 AM CT, Oct. 18 </p> 
+ [China's Xi Flexes Power With Plan to Rewrite Communist Party History](https://www.wsj.com/articles/chinas-xi-flexes-power-with-plan-to-rewrite-communist-party-history-11634562713) WSJ: Historical resolution would put leader on par with Mao and Deng, signaling strength despite economic, diplomatic challenges 
  <p class="updated_time"> 04:00 AM CT, Oct. 18 </p> 
  [How a Nuclear Bomb Could Save Earth From a Stealthy Asteroid](https://www.nytimes.com/2021/10/18/science/asteroid-nuclear-bomb.html) NYT: An atomic blast is not the preferred solution for planetary defense, but 3-D models are helping scientists prepare for a worst-case scenario. 
- <p class="updated_time"> 12:59 AM CT, Oct. 18 </p> 
- [China Faces Slower Growth as It Pursues Long-Term Reforms](https://www.wsj.com/articles/china-faces-slower-growth-path-as-it-pursues-longer-term-reforms-11634551142) WSJ: With its pandemic recovery in the rearview mirror, China now faces a prolonged period of slower growth with increasing policy uncertainties as Beijing attempts to carry out ambitious long-term reforms. 
  <p class="updated_time"> 09:41 PM CT, Oct. 17 </p> 
  [Washington Hears Echoes of the ’50s and Worries: Is This a Cold War With China?](https://www.nytimes.com/2021/10/17/us/politics/china-new-cold-war.html) NYT: Incursions into Taiwan’s air zone, a space launch and what looked like a prisoner swap raise a question that is about more than just semantics. It could signal a dangerous new mind-set. 
  <p class="updated_time"> 09:00 PM CT, Oct. 17 </p> 
