@@ -6,6 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 06:54 AM CT, Oct. 19 </p> 
+ [Life at 50C: The Baghdad traffic cop who works in 50C heat](https://www.bbc.co.uk/news/world-middle-east-58960747?at_medium=RSS&at_campaign=KARANGA) BBC: In Baghdad, Sergeant Saa’d has to brave increasingly extreme conditions to keep the city moving. 
  <p class="updated_time"> 06:26 AM CT, Oct. 19 </p> 
  [Polish PM accuses EU of blackmail as row over rule of law escalates](https://www.bbc.co.uk/news/world-europe-58955375?at_medium=RSS&at_campaign=KARANGA) BBC: Mateusz Morawiecki clashes with EU leaders over a Polish court ruling that rejected parts of EU law. 
  <p class="updated_time"> 05:35 AM CT, Oct. 19 </p> 
@@ -136,8 +138,6 @@ permalink: /charts/news/
  [How a Nuclear Bomb Could Save Earth From a Stealthy Asteroid](https://www.nytimes.com/2021/10/18/science/asteroid-nuclear-bomb.html) NYT: An atomic blast is not the preferred solution for planetary defense, but 3-D models are helping scientists prepare for a worst-case scenario. 
  <p class="updated_time"> 09:41 PM CT, Oct. 17 </p> 
  [Washington Hears Echoes of the ’50s and Worries: Is This a Cold War With China?](https://www.nytimes.com/2021/10/17/us/politics/china-new-cold-war.html) NYT: Incursions into Taiwan’s air zone, a space launch and what looked like a prisoner swap raise a question that is about more than just semantics. It could signal a dangerous new mind-set. 
- <p class="updated_time"> 09:00 PM CT, Oct. 17 </p> 
- [Israel: Hundreds strip naked by the Dead Sea](https://www.bbc.co.uk/news/world-58950281?at_medium=RSS&at_campaign=KARANGA) BBC: Hundreds of people stripped naked by the Dead Sea in Israel to highlight environmental changes. 
  <p class="updated_time"> 07:10 PM CT, Oct. 17 </p> 
  [How energy flexibility can save us money and cut carbon](https://www.bbc.co.uk/news/science-environment-58898999?at_medium=RSS&at_campaign=KARANGA) BBC: Making energy supply to homes and businesses more flexible could help the UK meet its climate goals. 
  <p class="updated_time"> 06:56 PM CT, Oct. 17 </p> 
