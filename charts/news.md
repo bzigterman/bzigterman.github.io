@@ -6,14 +6,18 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 12:28 PM CT, Oct. 19 </p> 
+ [They Fought Apartheid in South Africa. Now They Want Veterans’ Benefits.](https://www.nytimes.com/2021/10/19/world/africa/south-africa-apartheid-veterans-liberation-struggle.html) NYT: A protest movement by those who joined the armed struggle against apartheid has grown confrontational. More than 50 of them have been charged with kidnapping the country’s defense minister. 
+ <p class="updated_time"> 12:19 PM CT, Oct. 19 </p> 
+ [School Attendance Falls for Homeless Students in N.Y.C. ](https://www.nytimes.com/2021/10/19/nyregion/new-york-city-homeless-school-attendance.html) NYT: Attendance rates for students living in shelters fell to just 73 percent in the first few weeks of the new school year, compared with around 90 percent for all students. 
+ <p class="updated_time"> 12:17 PM CT, Oct. 19 </p> 
+ [Police warn charges possible for bystanders who failed to report rape](https://www.bbc.co.uk/news/world-us-canada-58949611?at_medium=RSS&at_campaign=KARANGA) BBC: A woman was assaulted by another passenger and some riders may have filmed the incident, police say. 
+ <p class="updated_time"> 12:12 PM CT, Oct. 19 </p> 
+ [Tuberculosis, Like Covid, Spreads by Breathing, Scientists Report](https://www.nytimes.com/2021/10/19/health/tuberculosis-transmission-aerosols.html) NYT: The finding upends conventional wisdom regarding coughing, long thought to be the main route of transmission. 
  <p class="updated_time"> 11:52 AM CT, Oct. 19 </p> 
  [Ukraine's Covid Deaths Soar as Fake Vaccination Certificates Spread](https://www.nytimes.com/2021/10/19/world/europe/ukraine-covid-deaths.html) NYT: In the country with the lowest rate of coronavirus vaccination in Europe, the proliferation of fakes threatens to undermine Ukraine’s fight against the virus. 
- <p class="updated_time"> 11:52 AM CT, Oct. 19 </p> 
- [They Fought Apartheid in South Africa. Now They Want Veterans’ Benefits.](https://www.nytimes.com/2021/10/19/world/africa/south-africa-apartheid-veterans-liberation-struggle.html) NYT: A protest movement by those who joined the armed struggle against apartheid has grown confrontational. More than 50 of them have been charged with kidnapping the country’s defense minister. 
  <p class="updated_time"> 11:49 AM CT, Oct. 19 </p> 
  [Reluctance among Russians to get vaccinated has led to a surge in cases and deaths.](https://www.nytimes.com/2021/10/19/world/apathy-and-mistrust-leave-russia-facing-the-risks-of-a-low-vaccination-rate.html) NYT: NA 
- <p class="updated_time"> 11:42 AM CT, Oct. 19 </p> 
- [Tuberculosis, Like Covid, Spreads Mostly in Aerosols, Scientists Report](https://www.nytimes.com/2021/10/19/health/tuberculosis-transmission-aerosols.html) NYT: The finding upends conventional wisdom regarding coughing, long thought to be the main route of transmission. 
  <p class="updated_time"> 11:10 AM CT, Oct. 19 </p> 
  [On a Pacific Island, Russia Tests Its Battle Plan on Climate Change](https://www.nytimes.com/2021/10/19/world/europe/russia-climate-change.html) NYT: President Vladimir V. Putin long dismissed the threat posed by global warming. But fires, disasters and foreign pressure have prompted him to change course. 
  <p class="updated_time"> 11:03 AM CT, Oct. 19 </p> 
@@ -36,10 +40,6 @@ permalink: /charts/news/
  [Thousands Flee Myanmar for India Amid Fears of a Growing Refugee Crisis](https://www.nytimes.com/2021/10/19/world/asia/myanmar-refugees-india.html) NYT: For decades, armed conflict, political repression and targeted campaigns against minorities have forced hundreds of thousands of people to leave the country. Now many more are expected to follow. 
  <p class="updated_time"> 09:29 AM CT, Oct. 19 </p> 
  [Taliban Allow Polio Vaccine Program to Restart in Afghanistan](https://www.nytimes.com/2021/10/19/world/asia/taliban-polio-vaccines-afghanistan.html) NYT: Taliban leaders also agreed to allow women to be frontline workers for the effort, according to the World Health Organization and UNICEF. 
- <p class="updated_time"> 09:27 AM CT, Oct. 19 </p> 
- [Mixing and Matching Covid Vaccines Is Examined by F.D.A. Panel](https://www.nytimes.com/2021/10/16/us/mixing-vaccines.html) NYT: The agency’s expert advisers discussed the data on the approach, which is limited. 
- <p class="updated_time"> 09:27 AM CT, Oct. 19 </p> 
- [Police warn charges possible for bystanders who failed to report rape](https://www.bbc.co.uk/news/world-us-canada-58949611?at_medium=RSS&at_campaign=KARANGA) BBC: A woman was assaulted by another passenger and some riders may have filmed the incident, police say. 
  <p class="updated_time"> 09:26 AM CT, Oct. 19 </p> 
  [The Threat, in Perspective](https://www.nytimes.com/2021/10/19/briefing/colin-powell-covid-risk-older-americans.html) NYT: Colin Powell’s death highlights the continuing Covid risks to older people with medical conditions. 
  <p class="updated_time"> 08:48 AM CT, Oct. 19 </p> 
@@ -50,6 +50,8 @@ permalink: /charts/news/
  [Mass Abduction of U.S. Missionaries Startles Even Kidnap-Weary Haiti](https://www.nytimes.com/2021/10/17/world/americas/haiti-missionaries-kidnap.html) NYT: “Where is this country going?” Gang members seized 16 Americans and one Canadian, among them five children, as they visited an orphanage. 
  <p class="updated_time"> 08:22 AM CT, Oct. 19 </p> 
  [Those Gifts You Want for the Holidays? Don’t Wait Too Long.](https://www.nytimes.com/2021/10/19/business/supply-chain-holidays.html) NYT: The supply chain disruption is shorthand for problems from factory closures to workers who are not working anymore. 
+ <p class="updated_time"> 08:12 AM CT, Oct. 19 </p> 
+ [U.K., Joining Trend, Sees Nuclear As Key to Cut Carbon Emissions](https://www.wsj.com/articles/u-k-joining-trend-sees-nuclear-as-key-to-cut-carbon-emissions-11634663521) WSJ: Britain’s plan for net-zero carbon output by 2050 includes new nuclear investments, with China, France and India also expanding production. 
  <p class="updated_time"> 07:59 AM CT, Oct. 19 </p> 
  [Cleo Smith: 'Grave concerns' for Australian girl missing from beach campsite](https://www.bbc.co.uk/news/world-australia-58963524?at_medium=RSS&at_campaign=KARANGA) BBC: Police have "grave concerns" for four-year-old Cleo Smith, after she vanished on Saturday. 
  <p class="updated_time"> 07:55 AM CT, Oct. 19 </p> 
@@ -58,8 +60,6 @@ permalink: /charts/news/
  [Life at 50C: The Baghdad traffic cop who works in 50C heat](https://www.bbc.co.uk/news/world-middle-east-58960747?at_medium=RSS&at_campaign=KARANGA) BBC: In Baghdad, Sergeant Saa’d has to brave increasingly extreme conditions to keep the city moving. 
  <p class="updated_time"> 05:49 AM CT, Oct. 19 </p> 
  [Gangs Threaten to Tip Haiti Into a Failed State](https://www.wsj.com/articles/gangs-threaten-to-tip-haiti-into-a-failed-state-11634654955) WSJ: Criminal rings, like the one that kidnapped American missionaries, control as much as two-thirds of Haiti, a lawless scenario that threatens regional stability. 
- <p class="updated_time"> 05:48 AM CT, Oct. 19 </p> 
- [China Flooding Exposed Risks in Beijing's Plan to Launch Digital Currency](https://www.wsj.com/articles/china-flooding-exposed-risks-in-beijings-plan-to-launch-digital-currency-11634654928) WSJ: Heavy rains knocked out cellphone service in the city of Zhengzhou in July, leaving many people who don’t carry cash unable to pay with popular mobile-phone apps. 
  <p class="updated_time"> 05:40 AM CT, Oct. 19 </p> 
  [Russia's Move to Cut NATO Ties Complicates Biden's Pivot to China](https://www.wsj.com/articles/russias-move-to-cut-nato-ties-complicates-bidens-pivot-to-china-11634654425) WSJ: Moscow will withdraw its diplomats and close the alliance’s Russian office following NATO’s expulsion of Russian officials as spies. 
  <p class="updated_time"> 05:35 AM CT, Oct. 19 </p> 
