@@ -6,8 +6,10 @@ permalink: /charts/news/
 
 ## World News
 
- <p class="updated_time"> 10:28 AM CT, Oct. 19 </p> 
+ <p class="updated_time"> 10:42 AM CT, Oct. 19 </p> 
  [Kidnappers in Haiti Demand $17 Million to Free Missionary Group](https://www.nytimes.com/2021/10/19/world/europe/haiti-missionaries-ransom.html) NYT: A gang captured a group of aid workers on Saturday and are holding 17 people hostage, including children. Most of those being held are Americans; one is Canadian. 
+ <p class="updated_time"> 10:38 AM CT, Oct. 19 </p> 
+ [Mix-and-Match Covid Boosters: Why They Just Might Work](https://www.nytimes.com/2021/10/19/health/covid-vaccine-mix-match.html) NYT: The F.D.A. may authorize booster shots of vaccines different from the ones that Americans originally received. The science behind the move is promising. 
  <p class="updated_time"> 10:12 AM CT, Oct. 19 </p> 
  [For Christian Aid Ministries, Charity in Haiti Turns to Chaos](https://www.nytimes.com/2021/10/17/world/americas/amish-missionary-group-kidnap.html) NYT: An organization based in Ohio and founded by Amish and Mennonites has been swept up in the violence roiling the country. 
  <p class="updated_time"> 10:09 AM CT, Oct. 19 </p> 
@@ -32,8 +34,6 @@ permalink: /charts/news/
  [Police warn charges possible for bystanders who failed to report rape](https://www.bbc.co.uk/news/world-us-canada-58949611?at_medium=RSS&at_campaign=KARANGA) BBC: A woman was assaulted by another passenger and some riders may have filmed the incident, police say. 
  <p class="updated_time"> 09:26 AM CT, Oct. 19 </p> 
  [The Threat, in Perspective](https://www.nytimes.com/2021/10/19/briefing/colin-powell-covid-risk-older-americans.html) NYT: Colin Powell’s death highlights the continuing Covid risks to older people with medical conditions. 
- <p class="updated_time"> 09:24 AM CT, Oct. 19 </p> 
- [Mix-and-Match Covid Boosters: Why They Just Might Work](https://www.nytimes.com/2021/10/19/health/covid-vaccine-mix-match.html) NYT: The F.D.A. may authorize booster shots of vaccines different from the ones that Americans originally received. The science behind the move is promising. 
  <p class="updated_time"> 08:48 AM CT, Oct. 19 </p> 
  ['400 Mawozo' Gang Suspected in Kidnapping Among Haiti's Most Dangerous](https://www.nytimes.com/2021/10/17/world/americas/400-mawozo-haiti-kidnapping.html) NYT: The gang, called 400 Mawozo, captured several clergy members in April, and the local authorities say it is behind Saturday’s kidnapping. 
  <p class="updated_time"> 08:47 AM CT, Oct. 19 </p> 
@@ -48,6 +48,10 @@ permalink: /charts/news/
  [Czech turmoil over removing ailing President Zeman's powers](https://www.bbc.co.uk/news/world-europe-58966966?at_medium=RSS&at_campaign=KARANGA) BBC: President Milos Zeman is in intensive care in hospital and it is claimed his signature was forged. 
  <p class="updated_time"> 06:54 AM CT, Oct. 19 </p> 
  [Life at 50C: The Baghdad traffic cop who works in 50C heat](https://www.bbc.co.uk/news/world-middle-east-58960747?at_medium=RSS&at_campaign=KARANGA) BBC: In Baghdad, Sergeant Saa’d has to brave increasingly extreme conditions to keep the city moving. 
+ <p class="updated_time"> 05:49 AM CT, Oct. 19 </p> 
+ [Gangs Threaten to Tip Haiti Into a Failed State](https://www.wsj.com/articles/gangs-threaten-to-tip-haiti-into-a-failed-state-11634654955) WSJ: Criminal rings, like the one that kidnapped American missionaries, control as much as two-thirds of Haiti, a lawless scenario that threatens regional stability. 
+ <p class="updated_time"> 05:48 AM CT, Oct. 19 </p> 
+ [China Flooding Exposed Risks in Beijing's Plan to Launch Digital Currency](https://www.wsj.com/articles/china-flooding-exposed-risks-in-beijings-plan-to-launch-digital-currency-11634654928) WSJ: Heavy rains knocked out cellphone service in the city of Zhengzhou in July, leaving many people who don’t carry cash unable to pay with popular mobile-phone apps. 
  <p class="updated_time"> 05:40 AM CT, Oct. 19 </p> 
  [Russia's Move to Cut NATO Ties Complicates Biden's Pivot to China](https://www.wsj.com/articles/russias-move-to-cut-nato-ties-complicates-bidens-pivot-to-china-11634654425) WSJ: Moscow will withdraw its diplomats and close the alliance’s Russian office following NATO’s expulsion of Russian officials as spies. 
  <p class="updated_time"> 05:35 AM CT, Oct. 19 </p> 
@@ -80,16 +84,12 @@ permalink: /charts/news/
  [North Korea Tests First Submarine-Launched Missile in Two Years](https://www.nytimes.com/2021/10/18/world/asia/north-korea-ballistic-missile-test-washington.html) NYT: The launch came after special envoys gathered to discuss how to deal with Pyongyang’s growing nuclear capabilities. 
  <p class="updated_time"> 12:59 AM CT, Oct. 19 </p> 
  [Eric Zemmour: Far-right journalist cast as Macron election rival](https://www.bbc.co.uk/news/world-europe-58954015?at_medium=RSS&at_campaign=KARANGA) BBC: Eric Zemmour - tipped to run for the French presidency - is rebranding far-right nationalism. 
- <p class="updated_time"> 12:55 AM CT, Oct. 19 </p> 
- [North Korea Fires Ballistic Missile off East Coast, South Korea Says](https://www.wsj.com/articles/north-korea-fires-ballistic-missile-off-east-coast-south-koreas-military-says-11634611489) WSJ: North Korea fired what was suspected to be a submarine-launched ballistic missile off its east coast, Seoul’s military said, the first test of its kind in two years. 
  <p class="updated_time"> 11:02 PM CT, Oct. 18 </p> 
  [Ecuador’s President Declares State of Emergency to Battle Crime](https://www.nytimes.com/2021/10/19/world/americas/ecuador-state-of-emergency.html) NYT: Guillermo Lasso said the military and the police would patrol the streets to provide security to confront drug trafficking and other crimes. 
  <p class="updated_time"> 10:37 PM CT, Oct. 18 </p> 
  [Your Tuesday Briefing](https://www.nytimes.com/2021/10/18/briefing/haiti-kidnapping-colin-powell.html) NYT: Efforts to recover a kidnapped group in Haiti. 
  <p class="updated_time"> 09:56 PM CT, Oct. 18 </p> 
  [Diver Discovers 900-Year-Old Sword Dating to the Crusades](https://www.nytimes.com/2021/10/18/world/middleeast/crusader-sword-found-israel.html) NYT: The sword, recovered off the coast of Israel, most likely belonged to a knight who fell into the sea or lost the weapon in battle, experts said. 
- <p class="updated_time"> 07:19 PM CT, Oct. 18 </p> 
- [Haiti Gang Seeks $17 Million Ransom for Abducted Missionaries](https://www.wsj.com/articles/fbi-will-help-investigate-kidnapping-of-missionaries-in-haiti-11634593701) WSJ: The Haitian gang that abducted a group of American and Canadian missionaries is asking for $1 million each for their release, a total of $17 million, a top Haitian official said on Monday. 
  <p class="updated_time"> 06:46 PM CT, Oct. 18 </p> 
  [The key moments of Colin Powell's life](https://www.bbc.co.uk/news/world-us-canada-58962596?at_medium=RSS&at_campaign=KARANGA) BBC: The son of Jamaican immigrants, his story was hailed as an example of what's possible in America. 
  <p class="updated_time"> 06:40 PM CT, Oct. 18 </p> 
