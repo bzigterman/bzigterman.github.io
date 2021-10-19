@@ -6,6 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 11:29 PM CT, Oct. 18 </p> 
+ [North Korea fires ballistic missile into waters off Japan](https://www.bbc.co.uk/news/world-asia-58963654?at_medium=RSS&at_campaign=KARANGA) BBC: The launch, confirmed by the South, is the latest in a series of missile tests by Pyongyang. 
  <p class="updated_time"> 11:02 PM CT, Oct. 18 </p> 
  [Ecuador’s President Declares State of Emergency to Battle Crime](https://www.nytimes.com/2021/10/19/world/americas/ecuador-state-of-emergency.html) NYT: Guillermo Lasso said the military and the police would patrol the streets to provide security to confront drug trafficking and other crimes. 
  <p class="updated_time"> 10:56 PM CT, Oct. 18 </p> 
@@ -14,8 +16,6 @@ permalink: /charts/news/
  [Your Tuesday Briefing](https://www.nytimes.com/2021/10/18/briefing/haiti-kidnapping-colin-powell.html) NYT: Efforts to recover a kidnapped group in Haiti. 
  <p class="updated_time"> 10:29 PM CT, Oct. 18 </p> 
  [North Korea Launches Ballistic Missile Hours After Envoys Meet in Washington](https://www.nytimes.com/2021/10/18/world/asia/north-korea-ballistic-missile-test-washington.html) NYT: The launch came after the special envoys gathered to discuss how to deal with Pyongyang’s growing nuclear capabilities. 
- <p class="updated_time"> 09:58 PM CT, Oct. 18 </p> 
- [North Korea fires ballistic missile into waters off Japan](https://www.bbc.co.uk/news/world-asia-58963654?at_medium=RSS&at_campaign=KARANGA) BBC: The launch, confirmed by the South, is the latest in a series of missile tests by Pyongyang. 
  <p class="updated_time"> 09:56 PM CT, Oct. 18 </p> 
  [Diver Discovers 900-Year-Old Sword Dating to the Crusades](https://www.nytimes.com/2021/10/18/world/middleeast/crusader-sword-found-israel.html) NYT: The sword, recovered off the coast of Israel, most likely belonged to a knight who fell into the sea or lost the weapon in battle, experts said. 
  <p class="updated_time"> 09:37 PM CT, Oct. 18 </p> 
@@ -26,6 +26,8 @@ permalink: /charts/news/
  [Tributes pour in for 'trailblazer' Colin Powell](https://www.bbc.co.uk/news/world-us-canada-58957273?at_medium=RSS&at_campaign=KARANGA) BBC: The ex-US secretary of state, the first African-American in that role, dies of Covid complications. 
  <p class="updated_time"> 07:35 PM CT, Oct. 18 </p> 
  [Haiti kidnap: 400 Mawozo accused of US missionary kidnap](https://www.bbc.co.uk/news/world-latin-america-58948107?at_medium=RSS&at_campaign=KARANGA) BBC: The armed gang, called 400 Mawozo, is holding 17 women, men and children from the US and Canada. 
+ <p class="updated_time"> 07:19 PM CT, Oct. 18 </p> 
+ [Haiti Kidnap Gang Seeks $17 Million Ransom for Abducted American Missionaries](https://www.wsj.com/articles/fbi-will-help-investigate-kidnapping-of-missionaries-in-haiti-11634593701) WSJ: The Haitian gang that abducted a group of American and Canadian missionaries is asking for $1 million each for their release, a total of $17 million, a top Haitian official said on Monday. 
  <p class="updated_time"> 07:02 PM CT, Oct. 18 </p> 
  [Afghanistan: US envoy Zalmay Khalilzad steps down after troops withdrawal](https://www.bbc.co.uk/news/world-us-canada-58946566?at_medium=RSS&at_campaign=KARANGA) BBC: Zalmay Khalilzad led talks with the Taliban that resulted in a deal to fully withdraw US troops. 
  <p class="updated_time"> 06:46 PM CT, Oct. 18 </p> 
@@ -42,6 +44,8 @@ permalink: /charts/news/
  [Russia Breaks Diplomatic Ties With NATO](https://www.nytimes.com/2021/10/18/world/europe/russia-nato.html) NYT: Moscow’s decision to end its diplomatic mission to the alliance will end a long, post-Cold War experiment in building trust between militaries. 
  <p class="updated_time"> 06:19 PM CT, Oct. 18 </p> 
  [In Haiti, Aid Group Workers Are Kidnapped](https://www.nytimes.com/2021/10/16/world/americas/missionaries-kidnap-haiti.html) NYT: Up to 17 missionaries and their family members were taken by gang members in the capital of a country where kidnappings have become increasingly common. 
+ <p class="updated_time"> 06:19 PM CT, Oct. 18 </p> 
+ [North Korea Fires Ballistic Missile off East Coast, South Korea Says](https://www.wsj.com/articles/north-korea-fires-ballistic-missile-off-east-coast-south-koreas-military-says-11634611489) WSJ: North Korea has launched a ballistic missile off its east coast Tuesday, Seoul’s military said. It’s Pyongyang’s fifth weapons test in recent weeks. 
  <p class="updated_time"> 06:12 PM CT, Oct. 18 </p> 
  [The battle to make lighter life-saving body armour](https://www.bbc.co.uk/news/business-58793826?at_medium=RSS&at_campaign=KARANGA) BBC: New materials are making body armour lighter but nanotechnology could provide a breakthrough. 
  <p class="updated_time"> 06:11 PM CT, Oct. 18 </p> 
@@ -80,8 +84,6 @@ permalink: /charts/news/
  [U.S. Afghan Envoy Stepping Down After Failure of Talks](https://www.wsj.com/articles/u-s-afghan-envoy-stepping-down-after-failure-of-talks-11634590893) WSJ: Zalmay Khalilzad, who served under both Trump and Biden, worked in Doha to reach an accord with the Taliban. 
  <p class="updated_time"> 12:59 PM CT, Oct. 18 </p> 
  [Will New Covid Treatments Be as Elusive for Poor Countries as Vaccines?](https://www.nytimes.com/2021/10/17/health/covid-treatment-access-molnupiravir.html) NYT: Merck has taken a step to make its antiviral pill available in poor nations, but many obstacles remain for broad access to coronavirus drugs. 
- <p class="updated_time"> 12:48 PM CT, Oct. 18 </p> 
- [FBI Will Help Investigate Kidnapping of Missionaries in Haiti](https://www.wsj.com/articles/fbi-will-help-investigate-kidnapping-of-missionaries-in-haiti-11634593701) WSJ: Haitian officials say they are negotiating with a gang that carried out the abduction of 16 Americans and 1 Canadian, including 5 children. 
  <p class="updated_time"> 12:31 PM CT, Oct. 18 </p> 
  [Showdown Over Northern Ireland Has a Key Offstage Player: Biden](https://www.nytimes.com/2021/10/18/world/europe/ireland-biden-eu-uk.html) NYT: As the U.K. and the European Union begin their wrangling over details of trade with Northern Ireland, President Biden has more than a passing interest in the final result. 
  <p class="updated_time"> 12:28 PM CT, Oct. 18 </p> 
@@ -120,8 +122,6 @@ permalink: /charts/news/
  [China's Xi Flexes Power With Plan to Rewrite Communist Party History](https://www.wsj.com/articles/chinas-xi-flexes-power-with-plan-to-rewrite-communist-party-history-11634562713) WSJ: Historical resolution would put leader on par with Mao and Deng, signaling strength despite economic, diplomatic challenges 
  <p class="updated_time"> 04:00 AM CT, Oct. 18 </p> 
  [How a Nuclear Bomb Could Save Earth From a Stealthy Asteroid](https://www.nytimes.com/2021/10/18/science/asteroid-nuclear-bomb.html) NYT: An atomic blast is not the preferred solution for planetary defense, but 3-D models are helping scientists prepare for a worst-case scenario. 
- <p class="updated_time"> 02:00 AM CT, Oct. 18 </p> 
- [World Bank Mishandled Claims of Sexual Harassment, Tribunal Says](https://www.wsj.com/articles/world-bank-mishandled-sexual-harassment-claims-internal-tribunal-says-11634554802) WSJ: An internal labor tribunal found the bank ignored allegations of sexual harassment by a senior official, now a Costa Rican presidential candidate. 
  <p class="updated_time"> 12:59 AM CT, Oct. 18 </p> 
  [China Faces Slower Growth as It Pursues Long-Term Reforms](https://www.wsj.com/articles/china-faces-slower-growth-path-as-it-pursues-longer-term-reforms-11634551142) WSJ: With its pandemic recovery in the rearview mirror, China now faces a prolonged period of slower growth with increasing policy uncertainties as Beijing attempts to carry out ambitious long-term reforms. 
  <p class="updated_time"> 09:41 PM CT, Oct. 17 </p> 
