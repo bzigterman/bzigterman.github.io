@@ -6,6 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 05:42 PM CT, Oct. 19 </p> 
+ [North Korea Tests First Submarine-Launched Missile in Two Years](https://www.nytimes.com/2021/10/18/world/asia/north-korea-ballistic-missile-test-washington.html) NYT: The launch came after special envoys gathered to discuss how to deal with Pyongyang’s growing nuclear capabilities. 
  <p class="updated_time"> 05:13 PM CT, Oct. 19 </p> 
  [Transgender U.S. Public Health Official Breaks Ground in Covid Fight](https://www.nytimes.com/2021/10/19/us/politics/rachel-levine-public-health-transgender.html) NYT: Admiral Rachel Levine is the first female four-star admiral in the history of the he U.S. Public Health Service Commissioned Corps, which she already leads in her role as assistant secretary. 
  <p class="updated_time"> 04:39 PM CT, Oct. 19 </p> 
@@ -104,8 +106,6 @@ permalink: /charts/news/
  [These U.S. Veterans Won't Rest Until They've Kept a Promise to Afghans](https://www.nytimes.com/2021/10/19/world/us-veterans-afghan-evacuation.html) NYT: An informal network that includes former government and military officials is working around the clock to fulfill a pledge to save Afghans who put their lives on the line for America. 
  <p class="updated_time"> 01:43 AM CT, Oct. 19 </p> 
  [Satellites Sweep for World's Biggest Polluters](https://www.wsj.com/articles/who-are-the-worlds-biggest-climate-polluters-satellites-sweep-for-culprits-11634635980) WSJ: Governments are turning to the technology to expose hidden sources of greenhouse-gas emissions and monitor compliance with global pacts—as well as to point fingers at each other. 
- <p class="updated_time"> 01:25 AM CT, Oct. 19 </p> 
- [North Korea Tests First Submarine-Launched Missile in Two Years](https://www.nytimes.com/2021/10/18/world/asia/north-korea-ballistic-missile-test-washington.html) NYT: The launch came after special envoys gathered to discuss how to deal with Pyongyang’s growing nuclear capabilities. 
  <p class="updated_time"> 12:59 AM CT, Oct. 19 </p> 
  [Eric Zemmour: Far-right journalist cast as Macron election rival](https://www.bbc.co.uk/news/world-europe-58954015?at_medium=RSS&at_campaign=KARANGA) BBC: Eric Zemmour - tipped to run for the French presidency - is rebranding far-right nationalism. 
  <p class="updated_time"> 11:02 PM CT, Oct. 18 </p> 
