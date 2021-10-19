@@ -44,6 +44,8 @@ permalink: /charts/news/
  [Reluctance among Russians to get vaccinated has led to a surge in cases and deaths.](https://www.nytimes.com/2021/10/19/world/apathy-and-mistrust-leave-russia-facing-the-risks-of-a-low-vaccination-rate.html) NYT: NA 
  <p class="updated_time"> 11:03 AM CT, Oct. 19 </p> 
  [Kidnappers in Haiti Demand $17 Million to Free Missionary Group](https://www.nytimes.com/2021/10/19/world/europe/haiti-missionaries-ransom.html) NYT: A gang abducted 17 people associated with a Christian aid group, including five children. Most of those being held are Americans; one is Canadian. 
+ <p class="updated_time"> 10:22 AM CT, Oct. 19 </p> 
+ [Afghanistan Withdrawal to Be Subject of State Department Investigation](https://www.wsj.com/articles/afghanistan-withdrawal-to-be-subject-of-state-department-investigation-11634671379) WSJ: The department’s internal watchdog told U.S. lawmakers it would review the handling of embassy planning, refugees and the special immigrant visa program. 
  <p class="updated_time"> 10:12 AM CT, Oct. 19 </p> 
  [Pornhub owner settles with Girls Do Porn victims over videos](https://www.bbc.co.uk/news/technology-58917993?at_medium=RSS&at_campaign=KARANGA) BBC: A group of 50 women sued MindGeek over a sex-trafficking operation by Girls Do Porn. 
  <p class="updated_time"> 10:12 AM CT, Oct. 19 </p> 
