@@ -6,8 +6,14 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 06:27 PM CT, Oct. 19 </p> 
+ [Sudan on the brink amid scramble for democracy](https://www.bbc.co.uk/news/world-africa-58970193?at_medium=RSS&at_campaign=KARANGA) BBC: A power-sharing deal between the military and civilians is under pressure with concerns of violence. 
+ <p class="updated_time"> 06:23 PM CT, Oct. 19 </p> 
+ [Ros Atkins on… Europe's climate challenge](https://www.bbc.co.uk/news/science-environment-58970153?at_medium=RSS&at_campaign=KARANGA) BBC: Ros Atkins looks at how Europe is getting to grips with its emissions problem. 
  <p class="updated_time"> 06:22 PM CT, Oct. 19 </p> 
  [Capitol riots officer: The moment the mob took me](https://www.bbc.co.uk/news/world-us-canada-58973555?at_medium=RSS&at_campaign=KARANGA) BBC: Video from outside the Capitol shows police officer Mike Fanone scream as he was tasered in the head. 
+ <p class="updated_time"> 06:20 PM CT, Oct. 19 </p> 
+ [Myanmar: Mass release of political prisoners](https://www.bbc.co.uk/news/world-asia-58976296?at_medium=RSS&at_campaign=KARANGA) BBC: Some of the political prisoners released by the authorities in Myanmar describe how they endured life in jail. 
  <p class="updated_time"> 06:18 PM CT, Oct. 19 </p> 
  [The US suburban couple accused of a bungled treason plot](https://www.bbc.co.uk/news/world-us-canada-58920970?at_medium=RSS&at_campaign=KARANGA) BBC: The Toebbes seemed to have everything - so why did they allegedly try to sell nuclear secrets? 
  <p class="updated_time"> 06:10 PM CT, Oct. 19 </p> 
@@ -58,8 +64,6 @@ permalink: /charts/news/
  [U.S. to Issue Migration Appeal to South American Nations](https://www.wsj.com/articles/u-s-to-issue-migration-appeal-to-south-american-nations-11634669545) WSJ: Secretary of State Antony Blinken, in a meeting in Colombia, will urge countries to share responsibility for migration patterns. 
  <p class="updated_time"> 12:33 PM CT, Oct. 19 </p> 
  [Covid: Moscow imposes new restrictions as infections soar](https://www.bbc.co.uk/news/world-europe-58966477?at_medium=RSS&at_campaign=KARANGA) BBC: Most of the over-60s in Russia's capital face months of lockdown as Covid deaths hit a new record. 
- <p class="updated_time"> 12:27 PM CT, Oct. 19 </p> 
- [Plane crashes in Texas with no serious injuries](https://www.bbc.co.uk/news/world-us-canada-58974696?at_medium=RSS&at_campaign=KARANGA) BBC: A plane carrying 21 people crashed near Houston Executive Airport, with no serious injuries reported. 
  <p class="updated_time"> 12:19 PM CT, Oct. 19 </p> 
  [School Attendance Falls for Homeless Students in N.Y.C. ](https://www.nytimes.com/2021/10/19/nyregion/new-york-city-homeless-school-attendance.html) NYT: Attendance rates for students living in shelters fell to just 73 percent in the first few weeks of the new school year, compared with around 90 percent for all students. 
  <p class="updated_time"> 11:52 AM CT, Oct. 19 </p> 
@@ -76,10 +80,6 @@ permalink: /charts/news/
  [F.B.I. Is Working in Haiti to Recover Kidnapped Missionaries](https://www.nytimes.com/2021/10/18/world/americas/haiti-protests.html) NYT: The United States has a team on the ground to try to secure the release of 17 people taken by a gang in the latest example of the violence that is leaving Haitians desperate. 
  <p class="updated_time"> 10:04 AM CT, Oct. 19 </p> 
  [Polish PM accuses EU of blackmail as row over rule of law escalates](https://www.bbc.co.uk/news/world-europe-58955375?at_medium=RSS&at_campaign=KARANGA) BBC: Mateusz Morawiecki clashes with EU leaders over a Polish court ruling that rejected parts of EU law. 
- <p class="updated_time"> 09:37 AM CT, Oct. 19 </p> 
- [Nick Rolovich: Washington State football coach fired for refusing Covid vaccine](https://www.bbc.co.uk/news/world-us-canada-58955577?at_medium=RSS&at_campaign=KARANGA) BBC: College football coach Nick Rolovich loses his $3.1m-a-year job for shirking a state vaccine mandate. 
- <p class="updated_time"> 09:37 AM CT, Oct. 19 </p> 
- [Ecuador crime wave triggers state of emergency](https://www.bbc.co.uk/news/world-latin-america-58966156?at_medium=RSS&at_campaign=KARANGA) BBC: A state of emergency is in place for the next two months, allowing soldiers to patrol the streets. 
  <p class="updated_time"> 09:31 AM CT, Oct. 19 </p> 
  [Thousands Flee Myanmar for India Amid Fears of a Growing Refugee Crisis](https://www.nytimes.com/2021/10/19/world/asia/myanmar-refugees-india.html) NYT: For decades, armed conflict, political repression and targeted campaigns against minorities have forced hundreds of thousands of people to leave the country. Now many more are expected to follow. 
  <p class="updated_time"> 09:29 AM CT, Oct. 19 </p> 
@@ -102,8 +102,6 @@ permalink: /charts/news/
  [Gangs Threaten to Tip Haiti Into a Failed State](https://www.wsj.com/articles/gangs-threaten-to-tip-haiti-into-a-failed-state-11634654955) WSJ: Criminal rings, like the one that kidnapped American missionaries, control as much as two-thirds of Haiti, a lawless scenario that threatens regional stability. 
  <p class="updated_time"> 05:40 AM CT, Oct. 19 </p> 
  [Russia's Move to Cut NATO Ties Complicates Biden's Pivot to China](https://www.wsj.com/articles/russias-move-to-cut-nato-ties-complicates-bidens-pivot-to-china-11634654425) WSJ: Moscow will withdraw its diplomats and close the alliance’s Russian office following NATO’s expulsion of Russian officials as spies. 
- <p class="updated_time"> 05:35 AM CT, Oct. 19 </p> 
- [Haiti kidnappers 'demand $17m' for missionaries](https://www.bbc.co.uk/news/world-latin-america-58966154?at_medium=RSS&at_campaign=KARANGA) BBC: The missionaries from the US and Canada were seized as they were returning from an orphanage. 
  <p class="updated_time"> 04:48 AM CT, Oct. 19 </p> 
  [Is Brexit Hurting the U.K. Economy? Trade Data Flashes a Warning](https://www.wsj.com/articles/is-brexit-hurting-the-u-k-economy-trade-export-import-european-union-england-11634651205) WSJ: The recovery is sputtering and some exporters say their separation from the European Union is the culprit; “harder, slower, more expensive, more difficult.” 
  <p class="updated_time"> 04:39 AM CT, Oct. 19 </p> 
@@ -132,8 +130,6 @@ permalink: /charts/news/
  [Town Rattled by Bow-and-Arrow Killings Ponders Terrorism and Mental Illness](https://www.nytimes.com/2021/10/17/world/europe/norway-bow-and-arrow-killings.html) NYT: The police in Norway, initially pointing to Islamic extremism, now say an attacker was “not well, mentally.” 
  <p class="updated_time"> 06:27 PM CT, Oct. 18 </p> 
  [Russia Breaks Diplomatic Ties With NATO](https://www.nytimes.com/2021/10/18/world/europe/russia-nato.html) NYT: Moscow’s decision to end its diplomatic mission to the alliance will end a long, post-Cold War experiment in building trust between militaries. 
- <p class="updated_time"> 06:12 PM CT, Oct. 18 </p> 
- [The battle to make lighter life-saving body armour](https://www.bbc.co.uk/news/business-58793826?at_medium=RSS&at_campaign=KARANGA) BBC: New materials are making body armour lighter but nanotechnology could provide a breakthrough. 
  <p class="updated_time"> 06:11 PM CT, Oct. 18 </p> 
  [In Norway Attack, ‘Sharp Object,’ Not Arrows, Killed 5, Police Say](https://www.nytimes.com/2021/10/18/world/europe/norway-attack.html) NYT: The Norwegian police on Monday said that while a hunting bow had been used in last week’s rampage, the victims, four women and a man, were stabbed to death. 
  <p class="updated_time"> 06:04 PM CT, Oct. 18 </p> 
