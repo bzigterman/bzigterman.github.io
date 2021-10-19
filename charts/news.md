@@ -6,6 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 02:30 AM CT, Oct. 19 </p> 
+ [Tuberculosis, Like Covid, Spreads in Aerosols, Scientists Report](https://www.nytimes.com/2021/10/19/health/tuberculosis-transmission-aerosols.html) NYT: The finding upends conventional wisdom regarding coughing, long thought to be the main route of transmission. 
  <p class="updated_time"> 02:00 AM CT, Oct. 19 </p> 
  [These U.S. Veterans Won't Rest Until They've Kept a Promise to Afghans](https://www.nytimes.com/2021/10/19/world/us-veterans-afghan-evacuation.html) NYT: An informal network that includes former government and military officials is working around the clock to fulfill a pledge to save Afghans who put their lives on the line for America. 
  <p class="updated_time"> 01:54 AM CT, Oct. 19 </p> 
@@ -186,8 +188,6 @@ permalink: /charts/news/
  [New Zealand Attempts a Record-Setting ‘Vaxathon’](https://www.nytimes.com/2021/10/16/world/australia/new-zealand-vaccines.html) NYT: The country took a different approach to encouraging vaccinations on Saturday, with barbecues, a telethon and the chance to get jabbed in the business-class seat of a Boeing 787. 
  <p class="updated_time"> 10:17 PM CT, Oct. 15 </p> 
  [Mining for Gold in Australia’s Migrant Past](https://www.nytimes.com/2021/10/15/world/asia/new-gold-mountain-chinese-immigrants.html) NYT: “New Gold Mountain” highlights the complications of belonging for immigrants then and now. 
- <p class="updated_time"> 08:33 PM CT, Oct. 15 </p> 
- [U.S. Pledges to Pay Family of Those Killed in Botched Kabul Drone Strike](https://www.nytimes.com/2021/10/15/us/politics/kabul-drone-strike-victims-payment.html) NYT: The Pentagon offered unspecified amounts to relatives of the 10 civilians who died in Aug. 29 attack and agreed to help relocate those who want to move to the U.S. 
  <p class="updated_time"> 11:47 AM CT, Oct. 14 </p> 
  [Why China's climate policy matters to us all](https://www.bbc.co.uk/news/world-asia-china-57483492?at_medium=RSS&at_campaign=KARANGA) BBC: The global battle against climate change is likely to be won or lost in China. 
  <p class="updated_time"> 07:50 AM CT, Oct. 13 </p> 
