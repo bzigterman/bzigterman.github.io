@@ -36,6 +36,8 @@ permalink: /charts/news/
  [North Korea Tests First Submarine-Launched Missile in Two Years](https://www.nytimes.com/2021/10/18/world/asia/north-korea-ballistic-missile-test-washington.html) NYT: The launch came after special envoys gathered to discuss how to deal with Pyongyang’s growing nuclear capabilities. 
  <p class="updated_time"> 12:59 AM CT, Oct. 19 </p> 
  [Eric Zemmour: Far-right journalist cast as Macron election rival](https://www.bbc.co.uk/news/world-europe-58954015?at_medium=RSS&at_campaign=KARANGA) BBC: Eric Zemmour - tipped to run for the French presidency - is rebranding far-right nationalism. 
+ <p class="updated_time"> 12:55 AM CT, Oct. 19 </p> 
+ [North Korea Fires Ballistic Missile off East Coast, South Korea Says](https://www.wsj.com/articles/north-korea-fires-ballistic-missile-off-east-coast-south-koreas-military-says-11634611489) WSJ: North Korea fired what was suspected to be a submarine-launched ballistic missile off its east coast, Seoul’s military said, the first test of its kind in two years. 
  <p class="updated_time"> 11:02 PM CT, Oct. 18 </p> 
  [Ecuador’s President Declares State of Emergency to Battle Crime](https://www.nytimes.com/2021/10/19/world/americas/ecuador-state-of-emergency.html) NYT: Guillermo Lasso said the military and the police would patrol the streets to provide security to confront drug trafficking and other crimes. 
  <p class="updated_time"> 10:56 PM CT, Oct. 18 </p> 
@@ -64,8 +66,6 @@ permalink: /charts/news/
  [Russia Breaks Diplomatic Ties With NATO](https://www.nytimes.com/2021/10/18/world/europe/russia-nato.html) NYT: Moscow’s decision to end its diplomatic mission to the alliance will end a long, post-Cold War experiment in building trust between militaries. 
  <p class="updated_time"> 06:19 PM CT, Oct. 18 </p> 
  [In Haiti, Aid Group Workers Are Kidnapped](https://www.nytimes.com/2021/10/16/world/americas/missionaries-kidnap-haiti.html) NYT: Up to 17 missionaries and their family members were taken by gang members in the capital of a country where kidnappings have become increasingly common. 
- <p class="updated_time"> 06:19 PM CT, Oct. 18 </p> 
- [North Korea Fires Ballistic Missile off East Coast, South Korea Says](https://www.wsj.com/articles/north-korea-fires-ballistic-missile-off-east-coast-south-koreas-military-says-11634611489) WSJ: North Korea has launched a ballistic missile off its east coast Tuesday, Seoul’s military said. It’s Pyongyang’s fifth weapons test in recent weeks. 
  <p class="updated_time"> 06:12 PM CT, Oct. 18 </p> 
  [The battle to make lighter life-saving body armour](https://www.bbc.co.uk/news/business-58793826?at_medium=RSS&at_campaign=KARANGA) BBC: New materials are making body armour lighter but nanotechnology could provide a breakthrough. 
  <p class="updated_time"> 06:11 PM CT, Oct. 18 </p> 
