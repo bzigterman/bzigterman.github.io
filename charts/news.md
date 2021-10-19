@@ -6,6 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 03:48 AM CT, Oct. 19 </p> 
+ [North Korea fires suspected submarine-launched missile into waters off Japan](https://www.bbc.co.uk/news/world-asia-58963654?at_medium=RSS&at_campaign=KARANGA) BBC: It is thought to have been a submarine-launched ballistic missile which are harder to detect. 
  <p class="updated_time"> 03:18 AM CT, Oct. 19 </p> 
  [ Russia's Low Vaccination Rates Leads to Record-Breaking Toll](https://www.nytimes.com/2021/10/18/world/europe/russia-virus-vaccine.html) NYT: The country hit 1,000 deaths in a 24-hour period for the first time since the pandemic began, reflecting the risks of having a low vaccination rate. 
  <p class="updated_time"> 02:49 AM CT, Oct. 19 </p> 
@@ -14,8 +16,6 @@ permalink: /charts/news/
  [Tuberculosis, Like Covid, Spreads in Aerosols, Scientists Report](https://www.nytimes.com/2021/10/19/health/tuberculosis-transmission-aerosols.html) NYT: The finding upends conventional wisdom regarding coughing, long thought to be the main route of transmission. 
  <p class="updated_time"> 02:00 AM CT, Oct. 19 </p> 
  [These U.S. Veterans Won't Rest Until They've Kept a Promise to Afghans](https://www.nytimes.com/2021/10/19/world/us-veterans-afghan-evacuation.html) NYT: An informal network that includes former government and military officials is working around the clock to fulfill a pledge to save Afghans who put their lives on the line for America. 
- <p class="updated_time"> 01:54 AM CT, Oct. 19 </p> 
- [North Korea fires suspected submarine-launched missile into waters off Japan](https://www.bbc.co.uk/news/world-asia-58963654?at_medium=RSS&at_campaign=KARANGA) BBC: It is thought to have been a submarine-launched ballistic missile which are harder to detect. 
  <p class="updated_time"> 01:25 AM CT, Oct. 19 </p> 
  [North Korea Tests First Submarine-Launched Missile in Two Years](https://www.nytimes.com/2021/10/18/world/asia/north-korea-ballistic-missile-test-washington.html) NYT: The launch came after special envoys gathered to discuss how to deal with Pyongyang’s growing nuclear capabilities. 
  <p class="updated_time"> 12:59 AM CT, Oct. 19 </p> 
