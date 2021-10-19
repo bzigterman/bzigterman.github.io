@@ -6,6 +6,10 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 09:47 AM CT, Oct. 19 </p> 
+ [Kidnappers in Haiti Demand $17 Million to Free Missionary Group](https://www.nytimes.com/2021/10/19/world/europe/haiti-missionaries-ransom.html) NYT: A gang captured a group of aid workers on Saturday and are holding 17 people hostage, including children. Most of those being held are Americans; one is Canadian. 
+ <p class="updated_time"> 09:43 AM CT, Oct. 19 </p> 
+ [Africa’s Last Mountain Glaciers Will Soon Be Gone, U.N. Report Warns](https://www.nytimes.com/2021/10/19/world/africa/mountain-glaciers-disappear.html) NYT: The loss of the ice sheets would be another sign of the catastrophic effect of climate change on the continent. Floods are worse, droughts last longer and millions of people have been displaced. 
  <p class="updated_time"> 09:37 AM CT, Oct. 19 </p> 
  [Nick Rolovich: Washington State football coach fired for refusing Covid vaccine](https://www.bbc.co.uk/news/world-us-canada-58955577?at_medium=RSS&at_campaign=KARANGA) BBC: College football coach Nick Rolovich loses his $3.1m-a-year job for shirking a state vaccine mandate. 
  <p class="updated_time"> 09:31 AM CT, Oct. 19 </p> 
@@ -14,6 +18,8 @@ permalink: /charts/news/
  [Taliban Allow Polio Vaccine Program to Restart in Afghanistan](https://www.nytimes.com/2021/10/19/world/asia/taliban-polio-vaccines-afghanistan.html) NYT: Taliban leaders also agreed to allow women to be frontline workers for the effort, according to the World Health Organization and UNICEF. 
  <p class="updated_time"> 09:27 AM CT, Oct. 19 </p> 
  [Mixing and Matching Covid Vaccines Is Examined by F.D.A. Panel](https://www.nytimes.com/2021/10/16/us/mixing-vaccines.html) NYT: The agency’s expert advisers discussed the data on the approach, which is limited. 
+ <p class="updated_time"> 09:27 AM CT, Oct. 19 </p> 
+ [Police warn charges possible for bystanders who failed to report rape](https://www.bbc.co.uk/news/world-us-canada-58949611?at_medium=RSS&at_campaign=KARANGA) BBC: A woman was assaulted by another passenger and some riders may have filmed the incident, police say. 
  <p class="updated_time"> 09:26 AM CT, Oct. 19 </p> 
  [The Threat, in Perspective](https://www.nytimes.com/2021/10/19/briefing/colin-powell-covid-risk-older-americans.html) NYT: Colin Powell’s death highlights the continuing Covid risks to older people with medical conditions. 
  <p class="updated_time"> 09:24 AM CT, Oct. 19 </p> 
@@ -26,8 +32,6 @@ permalink: /charts/news/
  [In Haiti, Aid Group Workers Are Kidnapped](https://www.nytimes.com/2021/10/16/world/americas/missionaries-kidnap-haiti.html) NYT: Up to 17 missionaries and their family members were taken by gang members in the capital of a country where kidnappings have become increasingly common. 
  <p class="updated_time"> 08:47 AM CT, Oct. 19 </p> 
  [Mass Abduction of U.S. Missionaries Startles Even Kidnap-Weary Haiti](https://www.nytimes.com/2021/10/17/world/americas/haiti-missionaries-kidnap.html) NYT: “Where is this country going?” Gang members seized 16 Americans and one Canadian, among them five children, as they visited an orphanage. 
- <p class="updated_time"> 08:45 AM CT, Oct. 19 </p> 
- [Kidnappers in Haiti Demand $17 Million to Free Missionary Group](https://www.nytimes.com/2021/10/19/world/europe/haiti-missionaries-ransom.html) NYT: A gang captured a group of aid workers on Saturday and are holding 17 people hostage, including children. Most of those being held are Americans; one is Canadian. 
  <p class="updated_time"> 08:22 AM CT, Oct. 19 </p> 
  [Those Gifts You Want for the Holidays? Don’t Wait Too Long.](https://www.nytimes.com/2021/10/19/business/supply-chain-holidays.html) NYT: The supply chain disruption is shorthand for problems from factory closures to workers who are not working anymore. 
  <p class="updated_time"> 08:05 AM CT, Oct. 19 </p> 
@@ -38,6 +42,8 @@ permalink: /charts/news/
  [Czech turmoil over removing ailing President Zeman's powers](https://www.bbc.co.uk/news/world-europe-58966966?at_medium=RSS&at_campaign=KARANGA) BBC: President Milos Zeman is in intensive care in hospital and it is claimed his signature was forged. 
  <p class="updated_time"> 06:54 AM CT, Oct. 19 </p> 
  [Life at 50C: The Baghdad traffic cop who works in 50C heat](https://www.bbc.co.uk/news/world-middle-east-58960747?at_medium=RSS&at_campaign=KARANGA) BBC: In Baghdad, Sergeant Saa’d has to brave increasingly extreme conditions to keep the city moving. 
+ <p class="updated_time"> 05:40 AM CT, Oct. 19 </p> 
+ [Russia's Move to Cut NATO Ties Complicates Biden's Pivot to China](https://www.wsj.com/articles/russias-move-to-cut-nato-ties-complicates-bidens-pivot-to-china-11634654425) WSJ: Moscow will withdraw its diplomats and close the alliance’s Russian office following NATO’s expulsion of Russian officials as spies. 
  <p class="updated_time"> 05:35 AM CT, Oct. 19 </p> 
  [Haiti kidnappers 'demand $17m' for missionaries](https://www.bbc.co.uk/news/world-latin-america-58966154?at_medium=RSS&at_campaign=KARANGA) BBC: The missionaries from the US and Canada were seized as they were returning from an orphanage. 
  <p class="updated_time"> 05:27 AM CT, Oct. 19 </p> 
@@ -78,8 +84,6 @@ permalink: /charts/news/
  [Your Tuesday Briefing](https://www.nytimes.com/2021/10/18/briefing/haiti-kidnapping-colin-powell.html) NYT: Efforts to recover a kidnapped group in Haiti. 
  <p class="updated_time"> 09:56 PM CT, Oct. 18 </p> 
  [Diver Discovers 900-Year-Old Sword Dating to the Crusades](https://www.nytimes.com/2021/10/18/world/middleeast/crusader-sword-found-israel.html) NYT: The sword, recovered off the coast of Israel, most likely belonged to a knight who fell into the sea or lost the weapon in battle, experts said. 
- <p class="updated_time"> 07:48 PM CT, Oct. 18 </p> 
- [Tributes pour in for 'trailblazer' Colin Powell](https://www.bbc.co.uk/news/world-us-canada-58957273?at_medium=RSS&at_campaign=KARANGA) BBC: The ex-US secretary of state, the first African-American in that role, dies of Covid complications. 
  <p class="updated_time"> 07:19 PM CT, Oct. 18 </p> 
  [Haiti Gang Seeks $17 Million Ransom for Abducted Missionaries](https://www.wsj.com/articles/fbi-will-help-investigate-kidnapping-of-missionaries-in-haiti-11634593701) WSJ: The Haitian gang that abducted a group of American and Canadian missionaries is asking for $1 million each for their release, a total of $17 million, a top Haitian official said on Monday. 
  <p class="updated_time"> 06:46 PM CT, Oct. 18 </p> 
@@ -114,8 +118,6 @@ permalink: /charts/news/
  [Your Tuesday Briefing](https://www.nytimes.com/2021/10/18/briefing/russia-covid-nato-china-banks.html) NYT: Russia hits a Covid death record. 
  <p class="updated_time"> 03:53 PM CT, Oct. 18 </p> 
  [Police Search for Motive in British Lawmaker’s Killing](https://www.nytimes.com/2021/10/17/world/europe/uk-stabbing-attack.html) NYT: An attack has rekindled questions about the security of members of Parliament. 
- <p class="updated_time"> 01:06 PM CT, Oct. 18 </p> 
- [U.S. Afghan Envoy Stepping Down After Failure of Talks](https://www.wsj.com/articles/u-s-afghan-envoy-stepping-down-after-failure-of-talks-11634590893) WSJ: Zalmay Khalilzad, who served under both Trump and Biden, worked in Doha to reach an accord with the Taliban. 
  <p class="updated_time"> 12:59 PM CT, Oct. 18 </p> 
  [Will New Covid Treatments Be as Elusive for Poor Countries as Vaccines?](https://www.nytimes.com/2021/10/17/health/covid-treatment-access-molnupiravir.html) NYT: Merck has taken a step to make its antiviral pill available in poor nations, but many obstacles remain for broad access to coronavirus drugs. 
  <p class="updated_time"> 12:31 PM CT, Oct. 18 </p> 
@@ -186,8 +188,6 @@ permalink: /charts/news/
  [How 3 Strangers a World Away Came to the Rescue of a Badly Burned Afghan Girl](https://www.nytimes.com/2021/10/16/world/asia/afghanistan-girl-burn-evacuation-military.html) NYT: The story of 8-year-old Asma, injured by a U.S. tear-gas canister, echoes the heartbreak and heroism of the 20-year American misadventure in Afghanistan. 
  <p class="updated_time"> 10:23 AM CT, Oct. 16 </p> 
  [Macron Commemorates 1961 Paris Police Killing of Algerian Protesters](https://www.nytimes.com/2021/10/16/world/europe/paris-police-algerians-macron.html) NYT: President Emmanuel Macron of France is the country’s first head of state to attend an event marking the deaths, which officials ignored for decades. 
- <p class="updated_time"> 09:09 AM CT, Oct. 16 </p> 
- [Beirut, a City Where Everyone Gets By, Revisits Sectarian Violence](https://www.nytimes.com/2021/10/16/world/middleeast/beirut-lebanon-sectarian-violence.html) NYT: Lebanon’s capital thrives on its religious diversity, but sectarian tensions and memories of civil war lurk just beneath the surface. 
  <p class="updated_time"> 11:47 AM CT, Oct. 14 </p> 
  [Why China's climate policy matters to us all](https://www.bbc.co.uk/news/world-asia-china-57483492?at_medium=RSS&at_campaign=KARANGA) BBC: The global battle against climate change is likely to be won or lost in China. 
  <p class="updated_time"> 07:50 AM CT, Oct. 13 </p> 
