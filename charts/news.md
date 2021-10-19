@@ -6,10 +6,16 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 10:28 AM CT, Oct. 19 </p> 
+ [Kidnappers in Haiti Demand $17 Million to Free Missionary Group](https://www.nytimes.com/2021/10/19/world/europe/haiti-missionaries-ransom.html) NYT: A gang captured a group of aid workers on Saturday and are holding 17 people hostage, including children. Most of those being held are Americans; one is Canadian. 
+ <p class="updated_time"> 10:12 AM CT, Oct. 19 </p> 
+ [For Christian Aid Ministries, Charity in Haiti Turns to Chaos](https://www.nytimes.com/2021/10/17/world/americas/amish-missionary-group-kidnap.html) NYT: An organization based in Ohio and founded by Amish and Mennonites has been swept up in the violence roiling the country. 
+ <p class="updated_time"> 10:09 AM CT, Oct. 19 </p> 
+ [F.B.I. Is Working in Haiti to Recover Kidnapped Missionaries](https://www.nytimes.com/2021/10/18/world/americas/haiti-protests.html) NYT: The United States has a team on the ground to try to secure the release of 17 people taken by a gang in the latest example of the violence that is leaving Haitians desperate. 
+ <p class="updated_time"> 10:04 AM CT, Oct. 19 </p> 
+ [Polish PM accuses EU of blackmail as row over rule of law escalates](https://www.bbc.co.uk/news/world-europe-58955375?at_medium=RSS&at_campaign=KARANGA) BBC: Mateusz Morawiecki clashes with EU leaders over a Polish court ruling that rejected parts of EU law. 
  <p class="updated_time"> 09:58 AM CT, Oct. 19 </p> 
  [On a Pacific Island, Russia Tests Its Battle Plan on Climate Change](https://www.nytimes.com/2021/10/19/world/europe/russia-climate-change.html) NYT: President Vladimir V. Putin long dismissed the threat posed by global warming. But fires, disasters and foreign pressure have prompted him to change course. 
- <p class="updated_time"> 09:47 AM CT, Oct. 19 </p> 
- [Kidnappers in Haiti Demand $17 Million to Free Missionary Group](https://www.nytimes.com/2021/10/19/world/europe/haiti-missionaries-ransom.html) NYT: A gang captured a group of aid workers on Saturday and are holding 17 people hostage, including children. Most of those being held are Americans; one is Canadian. 
  <p class="updated_time"> 09:43 AM CT, Oct. 19 </p> 
  [Africa’s Last Mountain Glaciers Will Soon Be Gone, U.N. Report Warns](https://www.nytimes.com/2021/10/19/world/africa/mountain-glaciers-disappear.html) NYT: The loss of the ice sheets would be another sign of the catastrophic effect of climate change on the continent. Floods are worse, droughts last longer and millions of people have been displaced. 
  <p class="updated_time"> 09:37 AM CT, Oct. 19 </p> 
@@ -36,8 +42,6 @@ permalink: /charts/news/
  [Mass Abduction of U.S. Missionaries Startles Even Kidnap-Weary Haiti](https://www.nytimes.com/2021/10/17/world/americas/haiti-missionaries-kidnap.html) NYT: “Where is this country going?” Gang members seized 16 Americans and one Canadian, among them five children, as they visited an orphanage. 
  <p class="updated_time"> 08:22 AM CT, Oct. 19 </p> 
  [Those Gifts You Want for the Holidays? Don’t Wait Too Long.](https://www.nytimes.com/2021/10/19/business/supply-chain-holidays.html) NYT: The supply chain disruption is shorthand for problems from factory closures to workers who are not working anymore. 
- <p class="updated_time"> 08:05 AM CT, Oct. 19 </p> 
- [Polish PM accuses EU of blackmail as row over rule of law escalates](https://www.bbc.co.uk/news/world-europe-58955375?at_medium=RSS&at_campaign=KARANGA) BBC: Mateusz Morawiecki clashes with EU leaders over a Polish court ruling that rejected parts of EU law. 
  <p class="updated_time"> 07:59 AM CT, Oct. 19 </p> 
  [Cleo Smith: 'Grave concerns' for Australian girl missing from beach campsite](https://www.bbc.co.uk/news/world-australia-58963524?at_medium=RSS&at_campaign=KARANGA) BBC: Police have "grave concerns" for four-year-old Cleo Smith, after she vanished on Saturday. 
  <p class="updated_time"> 07:55 AM CT, Oct. 19 </p> 
@@ -80,8 +84,6 @@ permalink: /charts/news/
  [North Korea Fires Ballistic Missile off East Coast, South Korea Says](https://www.wsj.com/articles/north-korea-fires-ballistic-missile-off-east-coast-south-koreas-military-says-11634611489) WSJ: North Korea fired what was suspected to be a submarine-launched ballistic missile off its east coast, Seoul’s military said, the first test of its kind in two years. 
  <p class="updated_time"> 11:02 PM CT, Oct. 18 </p> 
  [Ecuador’s President Declares State of Emergency to Battle Crime](https://www.nytimes.com/2021/10/19/world/americas/ecuador-state-of-emergency.html) NYT: Guillermo Lasso said the military and the police would patrol the streets to provide security to confront drug trafficking and other crimes. 
- <p class="updated_time"> 10:56 PM CT, Oct. 18 </p> 
- [F.B.I. Is Working in Haiti to Recover Kidnapped Missionaries](https://www.nytimes.com/2021/10/18/world/americas/haiti-protests.html) NYT: The United States has a team on the ground to try to secure the release of 17 people taken by a gang in the latest example of the violence that is leaving Haitians desperate. 
  <p class="updated_time"> 10:37 PM CT, Oct. 18 </p> 
  [Your Tuesday Briefing](https://www.nytimes.com/2021/10/18/briefing/haiti-kidnapping-colin-powell.html) NYT: Efforts to recover a kidnapped group in Haiti. 
  <p class="updated_time"> 09:56 PM CT, Oct. 18 </p> 
@@ -114,8 +116,6 @@ permalink: /charts/news/
  [Zalmay Khalilzad, Biden’s Envoy for Afghanistan, Steps Down](https://www.nytimes.com/2021/10/18/us/politics/zalmay-khalilzad-afghanistan.html) NYT: An Afghan American and a rare Trump appointee who survived into the Biden administration, Mr. Khalilzad played a central role in the U.S. exit from the country. 
  <p class="updated_time"> 04:27 PM CT, Oct. 18 </p> 
  [What Scientists Know About the Risk of Breakthrough Covid Deaths](https://www.nytimes.com/2021/10/18/health/coronavirus-vaccine-powell-breakthrough.html) NYT: Deaths among people who have been fully vaccinated remain rare, but older adults and those with compromised immune systems are at much higher risk. 
- <p class="updated_time"> 04:04 PM CT, Oct. 18 </p> 
- [For Christian Aid Ministries, Charity in Haiti Turns to Chaos](https://www.nytimes.com/2021/10/17/world/americas/amish-missionary-group-kidnap.html) NYT: An organization based in Ohio and founded by Amish and Mennonites has been swept up in the violence roiling the country. 
  <p class="updated_time"> 03:56 PM CT, Oct. 18 </p> 
  [Your Tuesday Briefing](https://www.nytimes.com/2021/10/18/briefing/russia-covid-nato-china-banks.html) NYT: Russia hits a Covid death record. 
  <p class="updated_time"> 03:53 PM CT, Oct. 18 </p> 
