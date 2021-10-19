@@ -8,6 +8,8 @@ permalink: /charts/news/
 
  <p class="updated_time"> 03:18 AM CT, Oct. 19 </p> 
  [ Russia's Low Vaccination Rates Leads to Record-Breaking Toll](https://www.nytimes.com/2021/10/18/world/europe/russia-virus-vaccine.html) NYT: The country hit 1,000 deaths in a 24-hour period for the first time since the pandemic began, reflecting the risks of having a low vaccination rate. 
+ <p class="updated_time"> 02:49 AM CT, Oct. 19 </p> 
+ [Uttarakhand floods: Dramatic rescue of car passengers trapped in floods](https://www.bbc.co.uk/news/world-asia-india-58951455?at_medium=RSS&at_campaign=KARANGA) BBC: Officials used cranes to pull the car and its occupants to safety in India's Uttarakhand state. 
  <p class="updated_time"> 02:30 AM CT, Oct. 19 </p> 
  [Tuberculosis, Like Covid, Spreads in Aerosols, Scientists Report](https://www.nytimes.com/2021/10/19/health/tuberculosis-transmission-aerosols.html) NYT: The finding upends conventional wisdom regarding coughing, long thought to be the main route of transmission. 
  <p class="updated_time"> 02:00 AM CT, Oct. 19 </p> 
@@ -132,8 +134,6 @@ permalink: /charts/news/
  [China Faces Slower Growth as It Pursues Long-Term Reforms](https://www.wsj.com/articles/china-faces-slower-growth-path-as-it-pursues-longer-term-reforms-11634551142) WSJ: With its pandemic recovery in the rearview mirror, China now faces a prolonged period of slower growth with increasing policy uncertainties as Beijing attempts to carry out ambitious long-term reforms. 
  <p class="updated_time"> 09:41 PM CT, Oct. 17 </p> 
  [Washington Hears Echoes of the ’50s and Worries: Is This a Cold War With China?](https://www.nytimes.com/2021/10/17/us/politics/china-new-cold-war.html) NYT: Incursions into Taiwan’s air zone, a space launch and what looked like a prisoner swap raise a question that is about more than just semantics. It could signal a dangerous new mind-set. 
- <p class="updated_time"> 09:00 PM CT, Oct. 17 </p> 
- [Israel: Hundreds strip naked by the Dead Sea](https://www.bbc.co.uk/news/world-58950281?at_medium=RSS&at_campaign=KARANGA) BBC: Hundreds of people stripped naked by the Dead Sea in Israel to highlight environmental changes. 
  <p class="updated_time"> 07:10 PM CT, Oct. 17 </p> 
  [How energy flexibility can save us money and cut carbon](https://www.bbc.co.uk/news/science-environment-58898999?at_medium=RSS&at_campaign=KARANGA) BBC: Making energy supply to homes and businesses more flexible could help the UK meet its climate goals. 
  <p class="updated_time"> 06:56 PM CT, Oct. 17 </p> 
