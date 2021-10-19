@@ -6,8 +6,12 @@ permalink: /charts/news/
 
 ## World News
 
- <p class="updated_time"> 11:47 AM CT, Oct. 19 </p> 
+ <p class="updated_time"> 11:52 AM CT, Oct. 19 </p> 
  [Ukraine's Covid Deaths Soar as Fake Vaccination Certificates Spread](https://www.nytimes.com/2021/10/19/world/europe/ukraine-covid-deaths.html) NYT: In the country with the lowest rate of coronavirus vaccination in Europe, the proliferation of fakes threatens to undermine Ukraine’s fight against the virus. 
+ <p class="updated_time"> 11:52 AM CT, Oct. 19 </p> 
+ [They Fought Apartheid in South Africa. Now They Want Veterans’ Benefits.](https://www.nytimes.com/2021/10/19/world/africa/south-africa-apartheid-veterans-liberation-struggle.html) NYT: A protest movement by those who joined the armed struggle against apartheid has grown confrontational. More than 50 of them have been charged with kidnapping the country’s defense minister. 
+ <p class="updated_time"> 11:49 AM CT, Oct. 19 </p> 
+ [Reluctance among Russians to get vaccinated has led to a surge in cases and deaths.](https://www.nytimes.com/2021/10/19/world/apathy-and-mistrust-leave-russia-facing-the-risks-of-a-low-vaccination-rate.html) NYT: NA 
  <p class="updated_time"> 11:42 AM CT, Oct. 19 </p> 
  [Tuberculosis, Like Covid, Spreads Mostly in Aerosols, Scientists Report](https://www.nytimes.com/2021/10/19/health/tuberculosis-transmission-aerosols.html) NYT: The finding upends conventional wisdom regarding coughing, long thought to be the main route of transmission. 
  <p class="updated_time"> 11:10 AM CT, Oct. 19 </p> 
@@ -138,8 +142,6 @@ permalink: /charts/news/
  [Greta Thunberg sings Rick Astley hit at climate concert](https://www.bbc.co.uk/news/world-58952383?at_medium=RSS&at_campaign=KARANGA) BBC: Greta Thunberg sings Rick Astley's "Never Gonna Give You Up" to launch series of climate concerts. 
  <p class="updated_time"> 10:06 AM CT, Oct. 18 </p> 
  [Myanmar Announces Amnesty for Thousands of Anti-Coup Protesters](https://www.nytimes.com/2021/10/18/world/asia/myanmar-military-amnesty-protesters.html) NYT: The junta, which seized power in February, said it was releasing the prisoners to mark the Lighting Festival, a three-day holiday that begins Tuesday. 
- <p class="updated_time"> 09:39 AM CT, Oct. 18 </p> 
- [Yukon Territory Imposes Vaccine Mandate Amid Rise in Cases](https://www.nytimes.com/2021/10/16/world/yukon-vaccine-mandate.html) NYT: Health care workers and others in the Yukon must be fully vaccinated by Nov. 30. The territory is also starting a vaccination passport program. 
  <p class="updated_time"> 09:22 AM CT, Oct. 18 </p> 
  [Colin Powell dies of complications from Covid.](https://www.nytimes.com/2021/10/18/world/colin-powell-dies-at-84-of-complications-from-covid.html) NYT: NA 
  <p class="updated_time"> 09:09 AM CT, Oct. 18 </p> 
@@ -182,8 +184,6 @@ permalink: /charts/news/
  [South Korea Reconsiders a Rite of Manhood: The Draft](https://www.nytimes.com/2021/10/17/world/asia/south-korea-conscription.html) NYT: Military conscription has become less popular. The rules have loosened. But experts still worry about the threat from the North. 
  <p class="updated_time"> 11:52 PM CT, Oct. 16 </p> 
  [U.S. Arrests Alex Saab, Deal Maker for Nicolás Maduro of Venezuela](https://www.nytimes.com/2021/10/16/world/americas/alex-saab-arrest-venezuela-maduro.html) NYT: Alex Saab, a Colombian businessman, is accused in the U.S. of siphoning millions from programs intended to help the needy in Venezuela. 
- <p class="updated_time"> 09:39 PM CT, Oct. 16 </p> 
- [National Guard Called Up to Ease Crowding at Minnesota Hospitals ](https://www.nytimes.com/2021/10/16/world/americas/minnesota-governor-walz-national-guard-covid.html) NYT: Staffing shortages at long-term care facilities are preventing hospitals from discharging patients and admitting new ones. 
  <p class="updated_time"> 06:17 PM CT, Oct. 16 </p> 
  [Airlines in Japan and South Korea Try Novel Ideas to Lure Fliers](https://www.nytimes.com/2021/10/16/world/japan-south-korea-airlines-covid-incentives.html) NYT: How about inexpensive passes good for a month of domestic flights? Or popular in-flight meals to on-the-ground customers? 
  <p class="updated_time"> 04:19 PM CT, Oct. 16 </p> 
