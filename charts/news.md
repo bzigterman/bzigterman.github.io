@@ -6,6 +6,10 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 01:33 AM CT, Oct. 19 </p> 
+ [ Russia's Low Vaccination Rates Leads to Record-Breaking Toll](https://www.nytimes.com/2021/10/18/world/europe/russia-virus-vaccine.html) NYT: The country hit 1,000 deaths in a 24-hour period for the first time since the pandemic began, reflecting the risks of having a low vaccination rate. 
+ <p class="updated_time"> 01:25 AM CT, Oct. 19 </p> 
+ [North Korea Tests First Submarine-Launched Missile in Two Years](https://www.nytimes.com/2021/10/18/world/asia/north-korea-ballistic-missile-test-washington.html) NYT: The launch came after special envoys gathered to discuss how to deal with Pyongyang’s growing nuclear capabilities. 
  <p class="updated_time"> 01:09 AM CT, Oct. 19 </p> 
  [North Korea fires submarine-launched ballistic missile into waters off Japan](https://www.bbc.co.uk/news/world-asia-58963654?at_medium=RSS&at_campaign=KARANGA) BBC: Pyongyang fires a submarine-launched ballistic missile weeks after the South unveiled its own such weapon. 
  <p class="updated_time"> 12:59 AM CT, Oct. 19 </p> 
@@ -18,8 +22,6 @@ permalink: /charts/news/
  [F.B.I. Is Working in Haiti to Recover Kidnapped Missionaries](https://www.nytimes.com/2021/10/18/world/americas/haiti-protests.html) NYT: The United States has a team on the ground to try to secure the release of 17 people taken by a gang in the latest example of the violence that is leaving Haitians desperate. 
  <p class="updated_time"> 10:37 PM CT, Oct. 18 </p> 
  [Your Tuesday Briefing](https://www.nytimes.com/2021/10/18/briefing/haiti-kidnapping-colin-powell.html) NYT: Efforts to recover a kidnapped group in Haiti. 
- <p class="updated_time"> 10:29 PM CT, Oct. 18 </p> 
- [North Korea Launches Ballistic Missile Hours After Envoys Meet in Washington](https://www.nytimes.com/2021/10/18/world/asia/north-korea-ballistic-missile-test-washington.html) NYT: The launch came after the special envoys gathered to discuss how to deal with Pyongyang’s growing nuclear capabilities. 
  <p class="updated_time"> 09:56 PM CT, Oct. 18 </p> 
  [Diver Discovers 900-Year-Old Sword Dating to the Crusades](https://www.nytimes.com/2021/10/18/world/middleeast/crusader-sword-found-israel.html) NYT: The sword, recovered off the coast of Israel, most likely belonged to a knight who fell into the sea or lost the weapon in battle, experts said. 
  <p class="updated_time"> 09:37 PM CT, Oct. 18 </p> 
@@ -31,7 +33,7 @@ permalink: /charts/news/
  <p class="updated_time"> 07:35 PM CT, Oct. 18 </p> 
  [Haiti kidnap: 400 Mawozo accused of US missionary kidnap](https://www.bbc.co.uk/news/world-latin-america-58948107?at_medium=RSS&at_campaign=KARANGA) BBC: The armed gang, called 400 Mawozo, is holding 17 women, men and children from the US and Canada. 
  <p class="updated_time"> 07:19 PM CT, Oct. 18 </p> 
- [Haiti Kidnap Gang Seeks $17 Million Ransom for Abducted American Missionaries](https://www.wsj.com/articles/fbi-will-help-investigate-kidnapping-of-missionaries-in-haiti-11634593701) WSJ: The Haitian gang that abducted a group of American and Canadian missionaries is asking for $1 million each for their release, a total of $17 million, a top Haitian official said on Monday. 
+ [Haiti Gang Seeks $17 Million Ransom for Abducted Missionaries](https://www.wsj.com/articles/fbi-will-help-investigate-kidnapping-of-missionaries-in-haiti-11634593701) WSJ: The Haitian gang that abducted a group of American and Canadian missionaries is asking for $1 million each for their release, a total of $17 million, a top Haitian official said on Monday. 
  <p class="updated_time"> 07:02 PM CT, Oct. 18 </p> 
  [Afghanistan: US envoy Zalmay Khalilzad steps down after troops withdrawal](https://www.bbc.co.uk/news/world-us-canada-58946566?at_medium=RSS&at_campaign=KARANGA) BBC: Zalmay Khalilzad led talks with the Taliban that resulted in a deal to fully withdraw US troops. 
  <p class="updated_time"> 06:46 PM CT, Oct. 18 </p> 
@@ -74,8 +76,6 @@ permalink: /charts/news/
  [Tigray: Ethiopian government admits Mekelle airstrike](https://www.bbc.co.uk/news/world-africa-58958022?at_medium=RSS&at_campaign=KARANGA) BBC: Officials had earlier denied the government was behind allegedly deadly attacks in the region. 
  <p class="updated_time"> 02:21 PM CT, Oct. 18 </p> 
  [Russia to suspend Nato diplomatic mission amid tension](https://www.bbc.co.uk/news/world-europe-58959386?at_medium=RSS&at_campaign=KARANGA) BBC: Nato expelled eight Russian diplomats earlier this month, saying they were intelligence officers. 
- <p class="updated_time"> 02:17 PM CT, Oct. 18 </p> 
- [ Russia's Low Vaccination Rates Leads to Record-Breaking Toll](https://www.nytimes.com/2021/10/18/world/europe/russia-virus-vaccine.html) NYT: The country hit 1,000 deaths in a 24-hour period for the first time since the pandemic began, reflecting the risks of having a low vaccination rate. 
  <p class="updated_time"> 02:02 PM CT, Oct. 18 </p> 
  ['400 Mawozo' Gang Suspected in Kidnapping Among Haiti's Most Dangerous](https://www.nytimes.com/2021/10/17/world/americas/400-mawozo-haiti-kidnapping.html) NYT: The gang, called 400 Mawozo, captured several clergy members in April, and the local authorities say it is behind Saturday’s kidnapping. 
  <p class="updated_time"> 01:58 PM CT, Oct. 18 </p> 
