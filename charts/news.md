@@ -6,6 +6,12 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 06:22 PM CT, Oct. 19 </p> 
+ [Capitol riots officer: The moment the mob took me](https://www.bbc.co.uk/news/world-us-canada-58973555?at_medium=RSS&at_campaign=KARANGA) BBC: Video from outside the Capitol shows police officer Mike Fanone scream as he was tasered in the head. 
+ <p class="updated_time"> 06:18 PM CT, Oct. 19 </p> 
+ [The US suburban couple accused of a bungled treason plot](https://www.bbc.co.uk/news/world-us-canada-58920970?at_medium=RSS&at_campaign=KARANGA) BBC: The Toebbes seemed to have everything - so why did they allegedly try to sell nuclear secrets? 
+ <p class="updated_time"> 06:10 PM CT, Oct. 19 </p> 
+ [The Indian women widowed by Covid-19](https://www.bbc.co.uk/news/business-58149183?at_medium=RSS&at_campaign=KARANGA) BBC: In India, Covid has widowed thousands of women, who are now struggling to adjust to a new life. 
  <p class="updated_time"> 06:09 PM CT, Oct. 19 </p> 
  [FBI Raids Homes Linked to Russian Oligarch Oleg Deripaska](https://www.nytimes.com/2021/10/19/us/politics/oleg-deripaska-fbi-raid.html) NYT: Agents investigating whether Oleg Deripaska violated U.S. sanctions searched homes he has used in New York and Washington, D.C. 
  <p class="updated_time"> 06:07 PM CT, Oct. 19 </p> 
@@ -120,8 +126,6 @@ permalink: /charts/news/
  [Diver Discovers 900-Year-Old Sword Dating to the Crusades](https://www.nytimes.com/2021/10/18/world/middleeast/crusader-sword-found-israel.html) NYT: The sword, recovered off the coast of Israel, most likely belonged to a knight who fell into the sea or lost the weapon in battle, experts said. 
  <p class="updated_time"> 06:46 PM CT, Oct. 18 </p> 
  [The key moments of Colin Powell's life](https://www.bbc.co.uk/news/world-us-canada-58962596?at_medium=RSS&at_campaign=KARANGA) BBC: The son of Jamaican immigrants, his story was hailed as an example of what's possible in America. 
- <p class="updated_time"> 06:40 PM CT, Oct. 18 </p> 
- [Narendra Modi: 'Why is the Indian PM's photo on my Covid vaccine certificate?'](https://www.bbc.co.uk/news/world-asia-india-58944475?at_medium=RSS&at_campaign=KARANGA) BBC: A 62-year-old Indian wants a new Covid-19 vaccine certificate without Narendra Modi's photograph. 
  <p class="updated_time"> 06:34 PM CT, Oct. 18 </p> 
  [Your Monday Briefing](https://www.nytimes.com/2021/10/17/briefing/antiviral-pill-biden-climate-change.html) NYT: A new antiviral coronavirus pill. 
  <p class="updated_time"> 06:27 PM CT, Oct. 18 </p> 
@@ -152,8 +156,6 @@ permalink: /charts/news/
  [Showdown Over Northern Ireland Has a Key Offstage Player: Biden](https://www.nytimes.com/2021/10/18/world/europe/ireland-biden-eu-uk.html) NYT: As the U.K. and the European Union begin their wrangling over details of trade with Northern Ireland, President Biden has more than a passing interest in the final result. 
  <p class="updated_time"> 12:25 PM CT, Oct. 18 </p> 
  [The shortages hitting countries around the world](https://www.bbc.co.uk/news/explainers-58868636?at_medium=RSS&at_campaign=KARANGA) BBC: People and businesses across the world are facing shortages of everything from coal to coffee. 
- <p class="updated_time"> 11:58 AM CT, Oct. 18 </p> 
- [Malala Yousafzai urges Taliban to allow girls' education](https://www.bbc.co.uk/news/world-asia-58959790?at_medium=RSS&at_campaign=KARANGA) BBC: The Nobel Prize laureate Malala Yousafzai says the Taliban must announce that girls can go to school. 
  <p class="updated_time"> 11:47 AM CT, Oct. 18 </p> 
  [In Hungary’s Heartland, Orban Faces a Unified Challenge to His Rule](https://www.nytimes.com/2021/10/18/world/europe/hungary-viktor-orban-election.html) NYT: The country’s normally fractious opposition has rallied around a conservative mayor who just might be able to oust the authoritarian prime minister after more than a decade. 
  <p class="updated_time"> 11:13 AM CT, Oct. 18 </p> 
