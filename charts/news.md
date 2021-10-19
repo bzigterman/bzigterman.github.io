@@ -6,12 +6,12 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 09:58 PM CT, Oct. 18 </p> 
+ [North Korea fires ballistic missile into waters off Japan](https://www.bbc.co.uk/news/world-asia-58963654?at_medium=RSS&at_campaign=KARANGA) BBC: The launch, confirmed by the South, is the latest in a series of missile tests by Pyongyang. 
+ <p class="updated_time"> 09:56 PM CT, Oct. 18 </p> 
+ [Diver Discovers 900-Year-Old Sword Dating to the Crusades](https://www.nytimes.com/2021/10/18/world/middleeast/crusader-sword-found-israel.html) NYT: The sword, recovered off the coast of Israel, most likely belonged to a knight who fell into the sea or lost the weapon in battle, experts said. 
  <p class="updated_time"> 09:37 PM CT, Oct. 18 </p> 
  [Diver finds 900-year-old crusader sword off Israel's coast](https://www.bbc.co.uk/news/world-middle-east-58963025?at_medium=RSS&at_campaign=KARANGA) BBC: The blade, which is encrusted with marine organisms, is believed to be about 900 years old. 
- <p class="updated_time"> 09:30 PM CT, Oct. 18 </p> 
- [North Korea fires ballistic missile into waters off Japan](https://www.bbc.co.uk/news/world-asia-58963654?at_medium=RSS&at_campaign=KARANGA) BBC: The launch, confirmed by the South, is the latest in a series of missile tests by Pyongyang. 
- <p class="updated_time"> 09:07 PM CT, Oct. 18 </p> 
- [Diver Discovers 900-Year-Old Sword Dating to the Crusades](https://www.nytimes.com/2021/10/18/world/middleeast/crusader-sword-found-israel.html) NYT: The sword, recovered off the coast of Israel, most likely belonged to a knight who fell into the sea or lost the weapon in battle, experts said. 
  <p class="updated_time"> 08:57 PM CT, Oct. 18 </p> 
  [Cleo Smith: 'Grave concerns' for Australian girl missing from beach campsite](https://www.bbc.co.uk/news/world-australia-58963524?at_medium=RSS&at_campaign=KARANGA) BBC: Police have "grave concerns" for four-year-old Cleo Smith, after she vanished from her family's tent. 
  <p class="updated_time"> 07:48 PM CT, Oct. 18 </p> 
@@ -117,7 +117,7 @@ permalink: /charts/news/
  <p class="updated_time"> 02:00 AM CT, Oct. 18 </p> 
  [World Bank Mishandled Claims of Sexual Harassment, Tribunal Says](https://www.wsj.com/articles/world-bank-mishandled-sexual-harassment-claims-internal-tribunal-says-11634554802) WSJ: An internal labor tribunal found the bank ignored allegations of sexual harassment by a senior official, now a Costa Rican presidential candidate. 
  <p class="updated_time"> 12:59 AM CT, Oct. 18 </p> 
- [China Faces Slower Growth as It Pursues Long-Term Reforms](https://www.wsj.com/articles/china-faces-slower-growth-path-as-it-pursues-longer-term-reforms-11634551142) WSJ: With its pandemic recovery in the rear-view mirror, China now faces a prolonged period of slower growth with increasing policy uncertainties as Beijing attempts to carry out ambitious long-term reforms. 
+ [China Faces Slower Growth as It Pursues Long-Term Reforms](https://www.wsj.com/articles/china-faces-slower-growth-path-as-it-pursues-longer-term-reforms-11634551142) WSJ: With its pandemic recovery in the rearview mirror, China now faces a prolonged period of slower growth with increasing policy uncertainties as Beijing attempts to carry out ambitious long-term reforms. 
  <p class="updated_time"> 09:41 PM CT, Oct. 17 </p> 
  [Washington Hears Echoes of the ’50s and Worries: Is This a Cold War With China?](https://www.nytimes.com/2021/10/17/us/politics/china-new-cold-war.html) NYT: Incursions into Taiwan’s air zone, a space launch and what looked like a prisoner swap raise a question that is about more than just semantics. It could signal a dangerous new mind-set. 
  <p class="updated_time"> 09:00 PM CT, Oct. 17 </p> 
