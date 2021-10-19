@@ -38,6 +38,8 @@ permalink: /charts/news/
  [Eric Zemmour: Far-right journalist cast as Macron election rival](https://www.bbc.co.uk/news/world-europe-58954015?at_medium=RSS&at_campaign=KARANGA) BBC: Eric Zemmour - tipped to run for the French presidency - is rebranding far-right nationalism. 
  <p class="updated_time"> 12:55 AM CT, Oct. 19 </p> 
  [North Korea Fires Ballistic Missile off East Coast, South Korea Says](https://www.wsj.com/articles/north-korea-fires-ballistic-missile-off-east-coast-south-koreas-military-says-11634611489) WSJ: North Korea fired what was suspected to be a submarine-launched ballistic missile off its east coast, Seoul’s military said, the first test of its kind in two years. 
+ <p class="updated_time"> 12:33 AM CT, Oct. 19 </p> 
+ [Satellites Sweep for World's Biggest Polluters](https://www.wsj.com/articles/who-are-the-worlds-biggest-climate-polluters-satellites-sweep-for-culprits-11634635980) WSJ: Governments are turning to the technology to expose hidden sources of greenhouse-gas emissions and monitor compliance with global pacts—as well as to point fingers at each other. 
  <p class="updated_time"> 11:02 PM CT, Oct. 18 </p> 
  [Ecuador’s President Declares State of Emergency to Battle Crime](https://www.nytimes.com/2021/10/19/world/americas/ecuador-state-of-emergency.html) NYT: Guillermo Lasso said the military and the police would patrol the streets to provide security to confront drug trafficking and other crimes. 
  <p class="updated_time"> 10:56 PM CT, Oct. 18 </p> 
@@ -126,8 +128,6 @@ permalink: /charts/news/
  [America’s Cash Glut](https://www.nytimes.com/2021/10/18/briefing/us-economy-cash-glut.html) NYT: The economy is almost doing too well. But there are some problems. 
  <p class="updated_time"> 05:40 AM CT, Oct. 18 </p> 
  [To Strike a Climate Deal, Poor Nations Say They Need Trillions From Rich Ones](https://www.wsj.com/articles/to-strike-a-climate-deal-poor-nations-say-they-need-trillions-from-rich-ones-11634568010) WSJ: Industrialized countries were already struggling to pay earlier commitments to help with clean-energy development and other infrastructure needs. Now the cost of buying cooperation has skyrocketed. 
- <p class="updated_time"> 04:11 AM CT, Oct. 18 </p> 
- [China's Xi Flexes Power With Plan to Rewrite Communist Party History](https://www.wsj.com/articles/chinas-xi-flexes-power-with-plan-to-rewrite-communist-party-history-11634562713) WSJ: Historical resolution would put leader on par with Mao and Deng, signaling strength despite economic, diplomatic challenges 
  <p class="updated_time"> 04:00 AM CT, Oct. 18 </p> 
  [How a Nuclear Bomb Could Save Earth From a Stealthy Asteroid](https://www.nytimes.com/2021/10/18/science/asteroid-nuclear-bomb.html) NYT: An atomic blast is not the preferred solution for planetary defense, but 3-D models are helping scientists prepare for a worst-case scenario. 
  <p class="updated_time"> 12:59 AM CT, Oct. 18 </p> 
