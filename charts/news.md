@@ -49,7 +49,7 @@ permalink: /charts/news/
  <p class="updated_time"> 03:18 AM CT, Oct. 19 </p> 
  [ Russia's Low Vaccination Rates Leads to Record-Breaking Toll](https://www.nytimes.com/2021/10/18/world/europe/russia-virus-vaccine.html) NYT: The country hit 1,000 deaths in a 24-hour period for the first time since the pandemic began, reflecting the risks of having a low vaccination rate. 
  <p class="updated_time"> 02:49 AM CT, Oct. 19 </p> 
- [Uttarakhand floods: Dramatic rescue of car passengers trapped in floods](https://www.bbc.co.uk/news/world-asia-india-58951455?at_medium=RSS&at_campaign=KARANGA) BBC: Officials used cranes to pull the car and its occupants to safety in India's Uttarakhand state. 
+ [Uttarakhand floods: The dramatic moment a car with people is pulled from a river](https://www.bbc.co.uk/news/world-asia-india-58951455?at_medium=RSS&at_campaign=KARANGA) BBC: Officials used cranes to pull it - and its occupants - to safety. 
  <p class="updated_time"> 02:30 AM CT, Oct. 19 </p> 
  [Tuberculosis, Like Covid, Spreads in Aerosols, Scientists Report](https://www.nytimes.com/2021/10/19/health/tuberculosis-transmission-aerosols.html) NYT: The finding upends conventional wisdom regarding coughing, long thought to be the main route of transmission. 
  <p class="updated_time"> 02:00 AM CT, Oct. 19 </p> 
