@@ -6,6 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 03:32 PM CT, Oct. 19 </p> 
+ [Your Wednesday Briefing](https://www.nytimes.com/2021/10/19/briefing/australia-vaccines-evergrande-china-myanmar.html) NYT: Vaccine milestones in Australia and on tiny Pacific islands. 
  <p class="updated_time"> 03:12 PM CT, Oct. 19 </p> 
  [Charges ‘unlikely’ for bystanders who failed to report rape say prosecutors](https://www.bbc.co.uk/news/world-us-canada-58949611?at_medium=RSS&at_campaign=KARANGA) BBC: A woman was assaulted by another passenger and some riders may have filmed the incident, police say. 
  <p class="updated_time"> 03:06 PM CT, Oct. 19 </p> 
@@ -152,8 +154,6 @@ permalink: /charts/news/
  [Myanmar Announces Amnesty for Thousands of Anti-Coup Protesters](https://www.nytimes.com/2021/10/18/world/asia/myanmar-military-amnesty-protesters.html) NYT: The junta, which seized power in February, said it was releasing the prisoners to mark the Lighting Festival, a three-day holiday that begins Tuesday. 
  <p class="updated_time"> 09:22 AM CT, Oct. 18 </p> 
  [Colin Powell dies of complications from Covid.](https://www.nytimes.com/2021/10/18/world/colin-powell-dies-at-84-of-complications-from-covid.html) NYT: NA 
- <p class="updated_time"> 09:09 AM CT, Oct. 18 </p> 
- [Robert Durst, Millionaire Convicted of Murder, on Ventilator With Covid](https://www.nytimes.com/2021/10/16/world/robert-durst-covid-ventilator.html) NYT: The 78-year-old millionaire and former real estate mogul was sentenced to life in prison on Thursday for the murder of a friend in 2000. 
  <p class="updated_time"> 08:19 AM CT, Oct. 18 </p> 
  [Taiwan Couple Are Suspected of Negligent Homicide in Building Fire](https://www.nytimes.com/2021/10/18/world/asia/taiwan-building-fire.html) NYT: Prosecutors accused a woman of leaving a burning incense coil unattended in the building in Kaohsiung. Her partner was accused of failing to remind her to douse the coil before leaving. 
  <p class="updated_time"> 07:30 AM CT, Oct. 18 </p> 
