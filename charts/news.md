@@ -6,8 +6,12 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 12:33 PM CT, Oct. 19 </p> 
+ [Covid: Moscow imposes new restrictions as infections soar](https://www.bbc.co.uk/news/world-europe-58966477?at_medium=RSS&at_campaign=KARANGA) BBC: Most of the over-60s in Russia's capital face months of lockdown as Covid deaths hit a new record. 
  <p class="updated_time"> 12:28 PM CT, Oct. 19 </p> 
  [They Fought Apartheid in South Africa. Now They Want Veterans’ Benefits.](https://www.nytimes.com/2021/10/19/world/africa/south-africa-apartheid-veterans-liberation-struggle.html) NYT: A protest movement by those who joined the armed struggle against apartheid has grown confrontational. More than 50 of them have been charged with kidnapping the country’s defense minister. 
+ <p class="updated_time"> 12:27 PM CT, Oct. 19 </p> 
+ [Plane crashes in Texas with no serious injuries](https://www.bbc.co.uk/news/world-us-canada-58974696?at_medium=RSS&at_campaign=KARANGA) BBC: A plane was carrying 21 people crashed near Houston Executive Airport, with no serious injuries reported. 
  <p class="updated_time"> 12:19 PM CT, Oct. 19 </p> 
  [School Attendance Falls for Homeless Students in N.Y.C. ](https://www.nytimes.com/2021/10/19/nyregion/new-york-city-homeless-school-attendance.html) NYT: Attendance rates for students living in shelters fell to just 73 percent in the first few weeks of the new school year, compared with around 90 percent for all students. 
  <p class="updated_time"> 12:17 PM CT, Oct. 19 </p> 
@@ -70,8 +74,6 @@ permalink: /charts/news/
  [Is Brexit Hurting the U.K. Economy? Trade Data Flashes a Warning](https://www.wsj.com/articles/is-brexit-hurting-the-u-k-economy-trade-export-import-european-union-england-11634651205) WSJ: The recovery is sputtering and some exporters say their separation from the European Union is the culprit; “harder, slower, more expensive, more difficult.” 
  <p class="updated_time"> 04:39 AM CT, Oct. 19 </p> 
  [Xi Faces Resistance to Property Tax Planned to Combat Real-Estate Bubble](https://www.wsj.com/articles/in-tackling-chinas-real-estate-bubble-xi-jinping-faces-resistance-to-property-tax-plan-11634650751) WSJ: The Chinese leader is facing strong resistance over a nationwide property-tax plan meant to help curb housing speculation, and he is now settling for a more limited rollout, people familiar with the matter said. 
- <p class="updated_time"> 04:16 AM CT, Oct. 19 </p> 
- [Diver finds 900-year-old crusader sword off Israel's coast](https://www.bbc.co.uk/news/world-middle-east-58963025?at_medium=RSS&at_campaign=KARANGA) BBC: The blade, which is encrusted with marine organisms, is believed to be about 900 years old. 
  <p class="updated_time"> 04:00 AM CT, Oct. 19 </p> 
  [After Del Rio, Calls for Fairer Treatment of Black Migrants](https://www.nytimes.com/2021/10/19/us/politics/black-migrants-biden-border.html) NYT: The treatment of Haitians apprehended in Del Rio, Texas, has galvanized civil rights groups and others to press for change. 
  <p class="updated_time"> 03:55 AM CT, Oct. 19 </p> 
@@ -114,8 +116,6 @@ permalink: /charts/news/
  [Covid: Australia's Flying Doctors take vaccines to vast remote areas](https://www.bbc.co.uk/news/world-australia-58956564?at_medium=RSS&at_campaign=KARANGA) BBC: The famed service is helping solve the immense challenge of vaccinating remote Australia. 
  <p class="updated_time"> 05:47 PM CT, Oct. 18 </p> 
  [U.K. Leaders Praise Slain Lawmaker Amid Heightened Security Concerns](https://www.nytimes.com/2021/10/18/world/europe/david-amess-attack-parliament.html) NYT: Prime Minister Boris Johnson and members of Parliament paid tribute to David Amess, who was fatally stabbed last week. 
- <p class="updated_time"> 05:25 PM CT, Oct. 18 </p> 
- [Trudeau visits First Nation to apologise after holiday snub](https://www.bbc.co.uk/news/world-us-canada-58961940?at_medium=RSS&at_campaign=KARANGA) BBC: His apology comes two weeks after he skipped an event on the first Truth and Reconciliation Day. 
  <p class="updated_time"> 05:16 PM CT, Oct. 18 </p> 
  [An Official Wizard in New Zealand Loses His Job](https://www.nytimes.com/2021/10/18/world/australia/christchurch-new-zealand-wizard.html) NYT: The city of Christchurch has paid Ian Brackenbury Channell, 88, about $10,000 per year since 1998 for “acts of wizardry and other wizard-like services.” But he has been condemned recently for his jokes about women. 
  <p class="updated_time"> 04:39 PM CT, Oct. 18 </p> 
@@ -138,8 +138,6 @@ permalink: /charts/news/
  [In Hungary’s Heartland, Orban Faces a Unified Challenge to His Rule](https://www.nytimes.com/2021/10/18/world/europe/hungary-viktor-orban-election.html) NYT: The country’s normally fractious opposition has rallied around a conservative mayor who just might be able to oust the authoritarian prime minister after more than a decade. 
  <p class="updated_time"> 11:13 AM CT, Oct. 18 </p> 
  [Hello? This Is Colombia’s Antimachismo Hotline.](https://www.nytimes.com/2021/10/18/world/americas/colombia-machismo-hotline-masculinity.html) NYT: A new hotline in Bogotá takes calls from men struggling with jealousy, control and fear — and challenges long-held assumptions about masculinity. 
- <p class="updated_time"> 11:07 AM CT, Oct. 18 </p> 
- [Greta Thunberg sings Rick Astley hit at climate concert](https://www.bbc.co.uk/news/world-58952383?at_medium=RSS&at_campaign=KARANGA) BBC: Greta Thunberg sings Rick Astley's "Never Gonna Give You Up" to launch series of climate concerts. 
  <p class="updated_time"> 10:06 AM CT, Oct. 18 </p> 
  [Myanmar Announces Amnesty for Thousands of Anti-Coup Protesters](https://www.nytimes.com/2021/10/18/world/asia/myanmar-military-amnesty-protesters.html) NYT: The junta, which seized power in February, said it was releasing the prisoners to mark the Lighting Festival, a three-day holiday that begins Tuesday. 
  <p class="updated_time"> 09:22 AM CT, Oct. 18 </p> 
