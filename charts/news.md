@@ -6,20 +6,24 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 03:12 PM CT, Oct. 19 </p> 
+ [Charges ‘unlikely’ for bystanders who failed to report rape say prosecutors](https://www.bbc.co.uk/news/world-us-canada-58949611?at_medium=RSS&at_campaign=KARANGA) BBC: A woman was assaulted by another passenger and some riders may have filmed the incident, police say. 
+ <p class="updated_time"> 03:06 PM CT, Oct. 19 </p> 
+ [Bolsonaro's Pandemic Handling Draws Explosive Allegation: Homicide](https://www.nytimes.com/2021/10/19/world/americas/bolsonaro-covid-19-brazil.html) NYT: A long-awaited report from a panel of Brazilian senators concludes that Jair Bolsonaro purposely let the coronavirus kill Brazilians in a failed bid for herd immunity. 
+ <p class="updated_time"> 03:04 PM CT, Oct. 19 </p> 
+ [Oleg Deripaska: FBI searches US homes linked to Russian oligarch](https://www.bbc.co.uk/news/world-us-canada-58971032?at_medium=RSS&at_campaign=KARANGA) BBC: Agents are sweeping homes linked to Oleg Deripaska, a Russian oligarch who is under US sanctions. 
+ <p class="updated_time"> 03:03 PM CT, Oct. 19 </p> 
+ [On a Pacific Island, Russia Tests Its Battle Plan for Climate Change](https://www.nytimes.com/2021/10/19/world/europe/russia-climate-change.html) NYT: President Vladimir V. Putin long dismissed the threat posed by global warming. But fires, disasters and foreign pressure have prompted him to change course. 
+ <p class="updated_time"> 02:57 PM CT, Oct. 19 </p> 
+ [They Fought Apartheid in South Africa. Now They Want Veterans’ Benefits.](https://www.nytimes.com/2021/10/19/world/africa/south-africa-apartheid-veterans-liberation-struggle.html) NYT: A protest movement by those who took up arms against apartheid has grown confrontational. More than 50 of them have been charged with kidnapping the country’s defense minister. 
  <p class="updated_time"> 02:42 PM CT, Oct. 19 </p> 
  [After Del Rio, Calls for Fairer Treatment of Black Migrants](https://www.nytimes.com/2021/10/19/us/politics/black-migrants-biden-border.html) NYT: The treatment of Haitians apprehended in Del Rio, Texas, has galvanized civil rights groups and others to press for change. 
  <p class="updated_time"> 02:29 PM CT, Oct. 19 </p> 
  [Navy report blames crew for devastating fire on the Bonhomme Richard](https://www.bbc.co.uk/news/world-us-canada-58975431?at_medium=RSS&at_campaign=KARANGA) BBC: The amphibious USS Bonhomme Richard was decommissioned after a fire burned on board for four days. 
  <p class="updated_time"> 02:23 PM CT, Oct. 19 </p> 
  [Unvaccinated State Workers in Washington and Massachusetts Face Job Loss](https://www.nytimes.com/2021/10/18/world/washington-massachusetts-employees-vaccination.html) NYT: New Jersey’s vaccine mandate for school and state workers also took effect this week, requiring employees to provide proof of vaccination or complete a Covid-19 test at least once a week. 
- <p class="updated_time"> 02:12 PM CT, Oct. 19 </p> 
- [They Fought Apartheid in South Africa. Now They Want Veterans’ Benefits.](https://www.nytimes.com/2021/10/19/world/africa/south-africa-apartheid-veterans-liberation-struggle.html) NYT: A protest movement by those who took up arms against apartheid has grown confrontational. More than 50 of them have been charged with kidnapping the country’s defense minister. 
  <p class="updated_time"> 01:57 PM CT, Oct. 19 </p> 
  [Britain Outlines Energy Plans Amid Dimming Prospects for Climate Summit](https://www.nytimes.com/2021/10/19/world/europe/britain-climate-change-cop26.html) NYT: In an effort to recapture momentum, Prime Minister Boris Johnson  announced a host of measures, including plans for a big expansion of electric vehicles, more offshore wind power and greater use of hydrogen. 
- <p class="updated_time"> 01:57 PM CT, Oct. 19 </p> 
- [Bolsonaro Should Face Homicide Charges Over Pandemic, Brazil Lawmakers Say](https://www.nytimes.com/2021/10/19/world/americas/bolsonaro-pandemic-investigation-brazil.html) NYT: A long-awaited report from Brazil’s Senate concludes that Jair Bolsonaro purposely let the coronavirus kill Brazilians in a failed bid for herd immunity. 
- <p class="updated_time"> 01:43 PM CT, Oct. 19 </p> 
- [Charges ‘unlikely’ for bystanders who failed to report rape say prosecutors](https://www.bbc.co.uk/news/world-us-canada-58949611?at_medium=RSS&at_campaign=KARANGA) BBC: A woman was assaulted by another passenger and some riders may have filmed the incident, police say. 
  <p class="updated_time"> 01:25 PM CT, Oct. 19 </p> 
  [A Warning That Africa’s Last Glaciers Will Soon Vanish](https://www.nytimes.com/2021/10/19/world/africa/mountain-glaciers-disappear.html) NYT: While African nations contribute less than 4 percent of global greenhouse gas emissions, a U.N. report underscored the outsize impact that climate change is having on the continent. 
  <p class="updated_time"> 01:18 PM CT, Oct. 19 </p> 
@@ -31,15 +35,13 @@ permalink: /charts/news/
  <p class="updated_time"> 12:33 PM CT, Oct. 19 </p> 
  [Covid: Moscow imposes new restrictions as infections soar](https://www.bbc.co.uk/news/world-europe-58966477?at_medium=RSS&at_campaign=KARANGA) BBC: Most of the over-60s in Russia's capital face months of lockdown as Covid deaths hit a new record. 
  <p class="updated_time"> 12:27 PM CT, Oct. 19 </p> 
- [Plane crashes in Texas with no serious injuries](https://www.bbc.co.uk/news/world-us-canada-58974696?at_medium=RSS&at_campaign=KARANGA) BBC: A plane was carrying 21 people crashed near Houston Executive Airport, with no serious injuries reported. 
+ [Plane crashes in Texas with no serious injuries](https://www.bbc.co.uk/news/world-us-canada-58974696?at_medium=RSS&at_campaign=KARANGA) BBC: A plane carrying 21 people crashed near Houston Executive Airport, with no serious injuries reported. 
  <p class="updated_time"> 12:19 PM CT, Oct. 19 </p> 
  [School Attendance Falls for Homeless Students in N.Y.C. ](https://www.nytimes.com/2021/10/19/nyregion/new-york-city-homeless-school-attendance.html) NYT: Attendance rates for students living in shelters fell to just 73 percent in the first few weeks of the new school year, compared with around 90 percent for all students. 
  <p class="updated_time"> 11:52 AM CT, Oct. 19 </p> 
  [Ukraine's Covid Deaths Soar as Fake Vaccination Certificates Spread](https://www.nytimes.com/2021/10/19/world/europe/ukraine-covid-deaths.html) NYT: In the country with the lowest rate of coronavirus vaccination in Europe, the proliferation of fakes threatens to undermine Ukraine’s fight against the virus. 
  <p class="updated_time"> 11:49 AM CT, Oct. 19 </p> 
  [Reluctance among Russians to get vaccinated has led to a surge in cases and deaths.](https://www.nytimes.com/2021/10/19/world/apathy-and-mistrust-leave-russia-facing-the-risks-of-a-low-vaccination-rate.html) NYT: NA 
- <p class="updated_time"> 11:10 AM CT, Oct. 19 </p> 
- [On a Pacific Island, Russia Tests Its Battle Plan on Climate Change](https://www.nytimes.com/2021/10/19/world/europe/russia-climate-change.html) NYT: President Vladimir V. Putin long dismissed the threat posed by global warming. But fires, disasters and foreign pressure have prompted him to change course. 
  <p class="updated_time"> 11:03 AM CT, Oct. 19 </p> 
  [Kidnappers in Haiti Demand $17 Million to Free Missionary Group](https://www.nytimes.com/2021/10/19/world/europe/haiti-missionaries-ransom.html) NYT: A gang abducted 17 people associated with a Christian aid group, including five children. Most of those being held are Americans; one is Canadian. 
  <p class="updated_time"> 10:12 AM CT, Oct. 19 </p> 
@@ -51,7 +53,7 @@ permalink: /charts/news/
  <p class="updated_time"> 10:04 AM CT, Oct. 19 </p> 
  [Polish PM accuses EU of blackmail as row over rule of law escalates](https://www.bbc.co.uk/news/world-europe-58955375?at_medium=RSS&at_campaign=KARANGA) BBC: Mateusz Morawiecki clashes with EU leaders over a Polish court ruling that rejected parts of EU law. 
  <p class="updated_time"> 09:52 AM CT, Oct. 19 </p> 
- [U.S. to Issue Migration Appeal to South American Nations](https://www.wsj.com/articles/u-s-to-issue-migration-appeal-to-south-american-nations-11634669545) WSJ: Blinken, in a meeting in Colombia, will urge countries to share responsibility for migration patterns. 
+ [U.S. to Issue Migration Appeal to South American Nations](https://www.wsj.com/articles/u-s-to-issue-migration-appeal-to-south-american-nations-11634669545) WSJ: Secretary of State Antony Blinken, in a meeting in Colombia, will urge countries to share responsibility for migration patterns. 
  <p class="updated_time"> 09:37 AM CT, Oct. 19 </p> 
  [Nick Rolovich: Washington State football coach fired for refusing Covid vaccine](https://www.bbc.co.uk/news/world-us-canada-58955577?at_medium=RSS&at_campaign=KARANGA) BBC: College football coach Nick Rolovich loses his $3.1m-a-year job for shirking a state vaccine mandate. 
  <p class="updated_time"> 09:37 AM CT, Oct. 19 </p> 
@@ -82,12 +84,10 @@ permalink: /charts/news/
  [Russia's Move to Cut NATO Ties Complicates Biden's Pivot to China](https://www.wsj.com/articles/russias-move-to-cut-nato-ties-complicates-bidens-pivot-to-china-11634654425) WSJ: Moscow will withdraw its diplomats and close the alliance’s Russian office following NATO’s expulsion of Russian officials as spies. 
  <p class="updated_time"> 05:35 AM CT, Oct. 19 </p> 
  [Haiti kidnappers 'demand $17m' for missionaries](https://www.bbc.co.uk/news/world-latin-america-58966154?at_medium=RSS&at_campaign=KARANGA) BBC: The missionaries from the US and Canada were seized as they were returning from an orphanage. 
- <p class="updated_time"> 05:27 AM CT, Oct. 19 </p> 
- [Male State: Russia bans group for anti-women and anti-gay posts](https://www.bbc.co.uk/news/world-europe-58966476?at_medium=RSS&at_campaign=KARANGA) BBC: Russia bans a group called Male State which hounded women and gay people online. 
  <p class="updated_time"> 04:48 AM CT, Oct. 19 </p> 
  [Is Brexit Hurting the U.K. Economy? Trade Data Flashes a Warning](https://www.wsj.com/articles/is-brexit-hurting-the-u-k-economy-trade-export-import-european-union-england-11634651205) WSJ: The recovery is sputtering and some exporters say their separation from the European Union is the culprit; “harder, slower, more expensive, more difficult.” 
  <p class="updated_time"> 04:39 AM CT, Oct. 19 </p> 
- [Xi Faces Resistance to Property Tax Planned to Combat Real-Estate Bubble](https://www.wsj.com/articles/in-tackling-chinas-real-estate-bubble-xi-jinping-faces-resistance-to-property-tax-plan-11634650751) WSJ: The Chinese leader is facing strong resistance over a nationwide property-tax plan meant to help curb housing speculation, and he is now settling for a more limited rollout, people familiar with the matter said. 
+ [Xi Faces Resistance to Property Tax Planned to Combat China's Real-Estate Bubble](https://www.wsj.com/articles/in-tackling-chinas-real-estate-bubble-xi-jinping-faces-resistance-to-property-tax-plan-11634650751) WSJ: Chinese President Xi Jinping is facing strong resistance over a nationwide property-tax plan meant to help curb housing speculation, and he is now settling for a more limited rollout, people familiar with the matter said. 
  <p class="updated_time"> 03:18 AM CT, Oct. 19 </p> 
  [ Russia's Low Vaccination Rates Leads to Record-Breaking Toll](https://www.nytimes.com/2021/10/18/world/europe/russia-virus-vaccine.html) NYT: The country hit 1,000 deaths in a 24-hour period for the first time since the pandemic began, reflecting the risks of having a low vaccination rate. 
  <p class="updated_time"> 02:49 AM CT, Oct. 19 </p> 
