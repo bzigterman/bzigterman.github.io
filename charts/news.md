@@ -6,8 +6,10 @@ permalink: /charts/news/
 
 ## World News
 
- <p class="updated_time"> 07:34 AM CT, Oct. 19 </p> 
+ <p class="updated_time"> 08:05 AM CT, Oct. 19 </p> 
  [Polish PM accuses EU of blackmail as row over rule of law escalates](https://www.bbc.co.uk/news/world-europe-58955375?at_medium=RSS&at_campaign=KARANGA) BBC: Mateusz Morawiecki clashes with EU leaders over a Polish court ruling that rejected parts of EU law. 
+ <p class="updated_time"> 07:59 AM CT, Oct. 19 </p> 
+ [Cleo Smith: 'Grave concerns' for Australian girl missing from beach campsite](https://www.bbc.co.uk/news/world-australia-58963524?at_medium=RSS&at_campaign=KARANGA) BBC: Police have "grave concerns" for four-year-old Cleo Smith, after she vanished on Saturday. 
  <p class="updated_time"> 06:54 AM CT, Oct. 19 </p> 
  [Life at 50C: The Baghdad traffic cop who works in 50C heat](https://www.bbc.co.uk/news/world-middle-east-58960747?at_medium=RSS&at_campaign=KARANGA) BBC: In Baghdad, Sergeant Saa’d has to brave increasingly extreme conditions to keep the city moving. 
  <p class="updated_time"> 05:35 AM CT, Oct. 19 </p> 
@@ -20,8 +22,6 @@ permalink: /charts/news/
  [Male State: Russia bans group for anti-women and anti-gay posts](https://www.bbc.co.uk/news/world-europe-58966476?at_medium=RSS&at_campaign=KARANGA) BBC: Russia bans a group called Male State which hounded women and gay people online. 
  <p class="updated_time"> 04:16 AM CT, Oct. 19 </p> 
  [Diver finds 900-year-old crusader sword off Israel's coast](https://www.bbc.co.uk/news/world-middle-east-58963025?at_medium=RSS&at_campaign=KARANGA) BBC: The blade, which is encrusted with marine organisms, is believed to be about 900 years old. 
- <p class="updated_time"> 04:12 AM CT, Oct. 19 </p> 
- [Cleo Smith: 'Grave concerns' for Australian girl missing from beach campsite](https://www.bbc.co.uk/news/world-australia-58963524?at_medium=RSS&at_campaign=KARANGA) BBC: Police have "grave concerns" for four-year-old Cleo Smith, after she vanished from her family's tent. 
  <p class="updated_time"> 04:00 AM CT, Oct. 19 </p> 
  [On a Pacific Island, Russia Tests Its Battle Plan on Climate Change](https://www.nytimes.com/2021/10/19/world/europe/russia-climate-change.html) NYT: President Vladimir V. Putin long dismissed the threat posed by global warming. But fires, disasters and foreign pressure have prompted him to change course. 
  <p class="updated_time"> 04:00 AM CT, Oct. 19 </p> 
