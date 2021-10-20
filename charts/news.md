@@ -6,8 +6,10 @@ permalink: /charts/news/
 
 ## World News
 
- <p class="updated_time"> 05:50 AM CT, Oct. 20 </p> 
+ <p class="updated_time"> 06:02 AM CT, Oct. 20 </p> 
  [New York City Plans Vaccine Mandate for All City Employees](https://www.nytimes.com/2021/10/20/nyregion/new-york-city-vaccine-mandate.html) NYT: The mandate, covering more than 300,000 employees, will remove an option to take regular tests instead of getting a shot. 
+ <p class="updated_time"> 05:57 AM CT, Oct. 20 </p> 
+ [COP26: Russia's Vladimir Putin will not attend climate summit](https://www.bbc.co.uk/news/world-europe-58977993?at_medium=RSS&at_campaign=KARANGA) BBC: No reason was given for the Russian leader's decision not to attend the conference in Glasgow. 
  <p class="updated_time"> 05:45 AM CT, Oct. 20 </p> 
  [Queen ‘Reluctantly’ Cancels Trip, Citing Medical Advice](https://www.nytimes.com/2021/10/20/world/europe/queen-elizabeth-northern-ireland.html) NYT: Britain’s 95-year-old monarch will not travel to Northern Ireland but is “in good spirits,” Buckingham Palace said. 
  <p class="updated_time"> 05:41 AM CT, Oct. 20 </p> 
@@ -50,8 +52,6 @@ permalink: /charts/news/
  [Michael Slater: Australian ex-cricketer arrested over alleged domestic violence](https://www.bbc.co.uk/news/world-australia-58976768?at_medium=RSS&at_campaign=KARANGA) BBC: The former batsman was arrested in Sydney over an alleged domestic violence incident. 
  <p class="updated_time"> 10:28 PM CT, Oct. 19 </p> 
  [Britain Outlines Energy Plans Amid Dimming Prospects for Climate Summit](https://www.nytimes.com/2021/10/19/world/europe/britain-climate-change-cop26.html) NYT: In an effort to recapture momentum, Prime Minister Boris Johnson  announced a host of measures, including plans for a big expansion of electric vehicles, more offshore wind power and greater use of hydrogen. 
- <p class="updated_time"> 10:16 PM CT, Oct. 19 </p> 
- [IMF warns Afghanistan's economic slump will impact neighbours](https://www.bbc.co.uk/news/business-58950560?at_medium=RSS&at_campaign=KARANGA) BBC: Afghanistan's economic turmoil will fuel a refugee crisis impacting nearby countries, the fund warned. 
  <p class="updated_time"> 09:32 PM CT, Oct. 19 </p> 
  [North Korea claims test of new submarine-launched missile](https://www.bbc.co.uk/news/world-asia-58976195?at_medium=RSS&at_campaign=KARANGA) BBC: Pyongyang confirmed the test a day after South Korea detected a ballistic missile had been fired. 
  <p class="updated_time"> 08:34 PM CT, Oct. 19 </p> 
