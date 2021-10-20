@@ -6,6 +6,12 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 05:50 AM CT, Oct. 20 </p> 
+ [New York City Plans Vaccine Mandate for All City Employees](https://www.nytimes.com/2021/10/20/nyregion/new-york-city-vaccine-mandate.html) NYT: The mandate, covering more than 300,000 employees, will remove an option to take regular tests instead of getting a shot. 
+ <p class="updated_time"> 05:45 AM CT, Oct. 20 </p> 
+ [Queen ‘Reluctantly’ Cancels Trip, Citing Medical Advice](https://www.nytimes.com/2021/10/20/world/europe/queen-elizabeth-northern-ireland.html) NYT: Britain’s 95-year-old monarch will not travel to Northern Ireland but is “in good spirits,” Buckingham Palace said. 
+ <p class="updated_time"> 05:41 AM CT, Oct. 20 </p> 
+ [Benzema on trial in French sex tape blackmail case](https://www.bbc.co.uk/news/world-europe-58977550?at_medium=RSS&at_campaign=KARANGA) BBC: The Real Madrid footballer is accused of complicity in an attempt to blackmail Mathieu Valbuena. 
  <p class="updated_time"> 05:25 AM CT, Oct. 20 </p> 
  [Where Are the Workers?](https://www.nytimes.com/2021/10/20/briefing/labor-shortage-us-low-wage-economy.html) NYT: How can so many Americans afford not to work? And will it last? 
  <p class="updated_time"> 04:43 AM CT, Oct. 20 </p> 
@@ -74,8 +80,6 @@ permalink: /charts/news/
  [FBI Raids Homes Linked to Russian Oligarch Oleg Deripaska](https://www.nytimes.com/2021/10/19/us/politics/oleg-deripaska-fbi-raid.html) NYT: Agents investigating whether Oleg Deripaska violated U.S. sanctions searched homes he has used in New York and Washington, D.C. 
  <p class="updated_time"> 06:07 PM CT, Oct. 19 </p> 
  [When a cobra became a murder weapon in India](https://www.bbc.co.uk/news/world-asia-india-58947068?at_medium=RSS&at_campaign=KARANGA) BBC: A 28-year-old man killed his wife using a cobra, in what prosecutors say is the first crime of its kind. 
- <p class="updated_time"> 05:47 PM CT, Oct. 19 </p> 
- [Washington Hears Echoes of the ’50s and Worries: Is This a Cold War With China?](https://www.nytimes.com/2021/10/17/us/politics/china-new-cold-war.html) NYT: Incursions into Taiwan’s air zone, a space launch and what looked like a prisoner swap raise a question that is about more than just semantics. It could signal a dangerous new mind-set. 
  <p class="updated_time"> 05:13 PM CT, Oct. 19 </p> 
  [Transgender U.S. Public Health Official Breaks Ground in Covid Fight](https://www.nytimes.com/2021/10/19/us/politics/rachel-levine-public-health-transgender.html) NYT: Admiral Rachel Levine is the first female four-star admiral in the history of the he U.S. Public Health Service Commissioned Corps, which she already leads in her role as assistant secretary. 
  <p class="updated_time"> 03:45 PM CT, Oct. 19 </p> 
@@ -86,8 +90,6 @@ permalink: /charts/news/
  [They Fought Apartheid in South Africa. Now They Want Veterans’ Benefits.](https://www.nytimes.com/2021/10/19/world/africa/south-africa-apartheid-veterans-liberation-struggle.html) NYT: A protest movement by those who took up arms against apartheid has grown confrontational. More than 50 of them have been charged with kidnapping the country’s defense minister. 
  <p class="updated_time"> 02:42 PM CT, Oct. 19 </p> 
  [After Del Rio, Calls for Fairer Treatment of Black Migrants](https://www.nytimes.com/2021/10/19/us/politics/black-migrants-biden-border.html) NYT: The treatment of Haitians apprehended in Del Rio, Texas, has galvanized civil rights groups and others to press for change. 
- <p class="updated_time"> 02:29 PM CT, Oct. 19 </p> 
- [Navy report blames crew for devastating fire on the Bonhomme Richard](https://www.bbc.co.uk/news/world-us-canada-58975431?at_medium=RSS&at_campaign=KARANGA) BBC: The USS Bonhomme Richard was decommissioned after a fire burned on board for four days. 
  <p class="updated_time"> 02:23 PM CT, Oct. 19 </p> 
  [Unvaccinated State Workers in Washington and Massachusetts Face Job Loss](https://www.nytimes.com/2021/10/18/world/washington-massachusetts-employees-vaccination.html) NYT: New Jersey’s vaccine mandate for school and state workers also took effect this week, requiring employees to provide proof of vaccination or complete a Covid-19 test at least once a week. 
  <p class="updated_time"> 01:25 PM CT, Oct. 19 </p> 
@@ -176,8 +178,6 @@ permalink: /charts/news/
  [Taiwan Couple Are Suspected of Negligent Homicide in Building Fire](https://www.nytimes.com/2021/10/18/world/asia/taiwan-building-fire.html) NYT: Prosecutors accused a woman of leaving a burning incense coil unattended in the building in Kaohsiung. Her partner was accused of failing to remind her to douse the coil before leaving. 
  <p class="updated_time"> 07:30 AM CT, Oct. 18 </p> 
  [COP26: Does a climate summit need 25,000 people? And more questions](https://www.bbc.co.uk/news/science-environment-58925049?at_medium=RSS&at_campaign=KARANGA) BBC: BBC science correspondent Matt McGrath answers your questions about Glasgow's COP26 climate summit. 
- <p class="updated_time"> 06:54 AM CT, Oct. 18 </p> 
- [Prince William's Earthshot Prize Honors Costa Rica and Milan in Climate Fight](https://www.nytimes.com/2021/10/17/climate/earthshot-prizes-costa-rica-milan.html) NYT: Costa Rica and the city of Milan were among the five winners that each received one million pounds, or nearly $1.4 million, to continue sustainability and conservation efforts during a ceremony in London. 
  <p class="updated_time"> 05:41 AM CT, Oct. 18 </p> 
  [America’s Cash Glut](https://www.nytimes.com/2021/10/18/briefing/us-economy-cash-glut.html) NYT: The economy is almost doing too well. But there are some problems. 
  <p class="updated_time"> 04:00 AM CT, Oct. 18 </p> 
