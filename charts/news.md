@@ -6,6 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 01:12 AM CT, Oct. 20 </p> 
+ [Syria: Deadly blast on military bus in Damascus](https://www.bbc.co.uk/news/world-middle-east-58930309?at_medium=RSS&at_campaign=KARANGA) BBC: At least 13 people are reported to have died in an attack on a military vehicle in Syria's capital. 
  <p class="updated_time"> 11:48 PM CT, Oct. 19 </p> 
  [Your Wednesday Briefing](https://www.nytimes.com/2021/10/19/briefing/bolsanaro-coronavirus-myanmar-refugees.html) NYT: Calls to charge Bolsonaro with crimes against humanity. 
  <p class="updated_time"> 11:21 PM CT, Oct. 19 </p> 
@@ -158,8 +160,6 @@ permalink: /charts/news/
  [Showdown Over Northern Ireland Has a Key Offstage Player: Biden](https://www.nytimes.com/2021/10/18/world/europe/ireland-biden-eu-uk.html) NYT: As the U.K. and the European Union begin their wrangling over details of trade with Northern Ireland, President Biden has more than a passing interest in the final result. 
  <p class="updated_time"> 12:25 PM CT, Oct. 18 </p> 
  [The shortages hitting countries around the world](https://www.bbc.co.uk/news/explainers-58868636?at_medium=RSS&at_campaign=KARANGA) BBC: People and businesses across the world are facing shortages of everything from coal to coffee. 
- <p class="updated_time"> 11:58 AM CT, Oct. 18 </p> 
- [Malala Yousafzai urges Taliban to allow girls' education](https://www.bbc.co.uk/news/world-asia-58959790?at_medium=RSS&at_campaign=KARANGA) BBC: The Nobel Prize laureate Malala Yousafzai says the Taliban must announce that girls can go to school. 
  <p class="updated_time"> 11:47 AM CT, Oct. 18 </p> 
  [In Hungary’s Heartland, Orban Faces a Unified Challenge to His Rule](https://www.nytimes.com/2021/10/18/world/europe/hungary-viktor-orban-election.html) NYT: The country’s normally fractious opposition has rallied around a conservative mayor who just might be able to oust the authoritarian prime minister after more than a decade. 
  <p class="updated_time"> 11:13 AM CT, Oct. 18 </p> 
