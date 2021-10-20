@@ -6,6 +6,10 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 02:15 PM CT, Oct. 20 </p> 
+ [Gates Foundation Pledges $120 Million to Help Get Merck Covid Pills to Poor Countries](https://www.nytimes.com/2021/10/20/health/covid-molnupiravir-gates-foundation.html) NYT: Regulatory hurdles and supply chain issues could slow efforts to produce generic versions of Merck’s antiviral molnupiravir for developing nations, despite licensing agreements. 
+ <p class="updated_time"> 02:11 PM CT, Oct. 20 </p> 
+ [Iran Plans to Abandon One of Its Homegrown Covid Shots](https://www.nytimes.com/2021/10/20/world/iran-covid-vaccine.html) NYT: The defense ministry said there was too little demand for its Fakhravac vaccine to justify producing it, and blamed the health ministry for reneging on promised orders. 
  <p class="updated_time"> 01:59 PM CT, Oct. 20 </p> 
  [Those Gifts You Want for the Holidays? Don’t Wait Too Long.](https://www.nytimes.com/2021/10/19/business/supply-chain-holidays.html) NYT: The supply chain disruption is shorthand for problems from factory closures to workers who are not working anymore. 
  <p class="updated_time"> 01:58 PM CT, Oct. 20 </p> 
@@ -14,6 +18,8 @@ permalink: /charts/news/
  [Egypt imposes a vaccine mandate for all government workers and university students.](https://www.nytimes.com/2021/10/20/world/egypt-covid-vaccine-mandate.html) NYT: Officials expect major deliveries of doses by the end of the month to speed up the country’s vaccination efforts. 
  <p class="updated_time"> 01:53 PM CT, Oct. 20 </p> 
  [Gabby Petito: Items found in search for missing fiancé Brian Laundrie](https://www.bbc.co.uk/news/world-us-canada-58989242?at_medium=RSS&at_campaign=KARANGA) BBC: Items belonging to Gabby Petito's missing fiancé have been found in a Florida park, the FBI says. 
+ <p class="updated_time"> 01:43 PM CT, Oct. 20 </p> 
+ [Paris Hilton pushes for US youth care abuse reform](https://www.bbc.co.uk/news/world-us-canada-58988523?at_medium=RSS&at_campaign=KARANGA) BBC: The reality star spoke in Washington DC about her alleged abuse in residential care as a teenager. 
  <p class="updated_time"> 01:13 PM CT, Oct. 20 </p> 
  [Britain Resists Calls to Introduce Covid Restrictions](https://www.nytimes.com/2021/10/20/world/europe/britain-covid-cases.html) NYT: The number of new cases in Britain is among the highest in the world, but the government has said there is no need to impose indoor mask mandates or other restrictions. 
  <p class="updated_time"> 12:54 PM CT, Oct. 20 </p> 
@@ -40,8 +46,6 @@ permalink: /charts/news/
  [Nikolas Cruz: Parkland gunman pleads guilty to murdering 17](https://www.bbc.co.uk/news/world-us-canada-58983965?at_medium=RSS&at_campaign=KARANGA) BBC: Nikolas Cruz could see life in prison or the death penalty over the 2018 Florida school shooting. 
  <p class="updated_time"> 11:16 AM CT, Oct. 20 </p> 
  [Nigerian romance scam suspects targeted 100 women - FBI](https://www.bbc.co.uk/news/world-africa-58978287?at_medium=RSS&at_campaign=KARANGA) BBC: Eight Nigerian men are charged in South Africa after an international operation involving Interpol. 
- <p class="updated_time"> 11:05 AM CT, Oct. 20 </p> 
- [Karim Benzema: French sex tape blackmail case trial starts](https://www.bbc.co.uk/news/world-europe-58977550?at_medium=RSS&at_campaign=KARANGA) BBC: The Real Madrid footballer is accused of complicity in an attempt to blackmail Mathieu Valbuena. 
  <p class="updated_time"> 11:00 AM CT, Oct. 20 </p> 
  [Putin Won’t Go to Glasgow for Climate Conference](https://www.nytimes.com/2021/10/20/world/europe/putin-glasgow-climate-conference-cop26.html) NYT: President Vladimir V. Putin of Russia may make a speech by video at the United Nations summit, which is seen as pivotal in efforts to stem climate change. 
  <p class="updated_time"> 10:46 AM CT, Oct. 20 </p> 
@@ -62,8 +66,8 @@ permalink: /charts/news/
  [Taliban Face Pressure Over New Afghan Government at Russia Conference](https://www.wsj.com/articles/russia-faces-difficult-balancing-act-as-it-hosts-taliban-in-moscow-11634722296) WSJ: Taliban representatives met with senior officials from Russia, China and other countries in Moscow, where they came under pressure to form a more inclusive government and pursue a friendly policy toward neighboring countries. 
  <p class="updated_time"> 09:04 AM CT, Oct. 20 </p> 
  [Boris Johnson Promotes Rising Wages Amid Shortages in U.K. ](https://www.nytimes.com/2021/10/20/business/boris-johnson-shortages-britain.html) NYT: Wages in some industries are rising because employers can’t find enough workers. That’s not a path to long-term growth, analysts say. 
- <p class="updated_time"> 08:56 AM CT, Oct. 20 </p> 
- [Gates Foundation Pledges $120 Million to Help Get Merck Covid Pills to Poor Countries](https://www.nytimes.com/2021/10/20/health/covid-molnupiravir-gates-foundation.html) NYT: Regulatory hurdles and supply chain issues could slow efforts to produce generic versions of Merck’s antiviral molnupiravir for developing nations, despite licensing agreements. 
+ <p class="updated_time"> 08:39 AM CT, Oct. 20 </p> 
+ [Russia Orders People Not to Go to Work as Covid-19 Deaths Mount](https://www.wsj.com/articles/russia-orders-people-not-to-got-to-work-as-covid-19-deaths-mount-11634750559) WSJ: Russian President Vladimir Putin issued the order as cases have climbed, and neighboring Latvia launched a curfew after the seven-day average of deaths more than doubled. 
  <p class="updated_time"> 08:06 AM CT, Oct. 20 </p> 
  [The Olympic Torch Arrives in Beijing Under Cloud of Protests, Covid](https://www.nytimes.com/2021/10/20/world/asia/olympics-torch-china-covid-protest.html) NYT: A subdued ceremony in Beijing on Wednesday sets the tone for the Winter Olympics of 2022, which will be held under extraordinary health protocols. 
  <p class="updated_time"> 07:59 AM CT, Oct. 20 </p> 
@@ -100,8 +104,6 @@ permalink: /charts/news/
  [Kidnappers in Haiti Demand $17 Million to Free Missionary Group](https://www.nytimes.com/2021/10/19/world/americas/haiti-missionaries-ransom.html) NYT: A gang abducted 17 people associated with a Christian aid group, including five children. Most of those being held are Americans; one is Canadian. 
  <p class="updated_time"> 03:16 AM CT, Oct. 20 </p> 
  [Bolsonaro's Pandemic Response Draws Claim of Crimes Against Humanity ](https://www.nytimes.com/2021/10/19/world/americas/bolsonaro-covid-19-brazil.html) NYT: A report from lawmakers initially said Jair Bolsonaro should be charged with mass homicide and genocide, accusing him of letting Covid-19 spread in a failed bid for herd immunity. 
- <p class="updated_time"> 02:43 AM CT, Oct. 20 </p> 
- [Queen Elizabeth Cancels Trip, Rests on Medical Advice](https://www.wsj.com/articles/queen-elizabeth-cancels-trip-rests-on-medical-advice-11634730185) WSJ: The queen called off a visit to Northern Ireland after doctors advised her to rest for a few days, a rare case in which Britain’s longest-serving monarch has had to step back from public duties owing to ill health. 
  <p class="updated_time"> 02:35 AM CT, Oct. 20 </p> 
  [Medical Groups Declare Youth Mental Health Crisis](https://www.nytimes.com/2021/10/19/world/covid-pandemic-children-mental-health.html) NYT: Medical groups said the coronavirus pandemic had worsened a mental health crisis among children and teenagers. 
  <p class="updated_time"> 11:48 PM CT, Oct. 19 </p> 
@@ -186,8 +188,6 @@ permalink: /charts/news/
  [In Hungary’s Heartland, Orban Faces a Unified Challenge to His Rule](https://www.nytimes.com/2021/10/18/world/europe/hungary-viktor-orban-election.html) NYT: The country’s normally fractious opposition has rallied around a conservative mayor who just might be able to oust the authoritarian prime minister after more than a decade. 
  <p class="updated_time"> 11:13 AM CT, Oct. 18 </p> 
  [Hello? This Is Colombia’s Antimachismo Hotline.](https://www.nytimes.com/2021/10/18/world/americas/colombia-machismo-hotline-masculinity.html) NYT: A new hotline in Bogotá takes calls from men struggling with jealousy, control and fear — and challenges long-held assumptions about masculinity. 
- <p class="updated_time"> 10:06 AM CT, Oct. 18 </p> 
- [Myanmar Announces Amnesty for Thousands of Anti-Coup Protesters](https://www.nytimes.com/2021/10/18/world/asia/myanmar-military-amnesty-protesters.html) NYT: The junta, which seized power in February, said it was releasing the prisoners to mark the Lighting Festival, a three-day holiday that begins Tuesday. 
  <p class="updated_time"> 07:30 AM CT, Oct. 18 </p> 
  [COP26: Does a climate summit need 25,000 people? And more questions](https://www.bbc.co.uk/news/science-environment-58925049?at_medium=RSS&at_campaign=KARANGA) BBC: BBC science correspondent Matt McGrath answers your questions about Glasgow's COP26 climate summit. 
  <p class="updated_time"> 06:56 PM CT, Oct. 17 </p> 
