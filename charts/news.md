@@ -6,6 +6,10 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 04:15 PM CT, Oct. 20 </p> 
+ [Brazil Senate’s Pandemic Panel, in Last-Minute Shift, Softened Criminal Recommendations on Bolsonaro](https://www.nytimes.com/2021/10/20/world/americas/bolsonaro-pandemic-inquiry-crimes.html) NYT: Senators on the 11-member panel had second thoughts about the provability of homicide and genocide charges. Instead, they accused the president of “crimes against humanity.” 
+ <p class="updated_time"> 04:07 PM CT, Oct. 20 </p> 
+ [Mix-and-Match Covid Boosters: Why They Just Might Work](https://www.nytimes.com/2021/10/19/health/covid-vaccine-mix-match.html) NYT: The F.D.A. may authorize booster shots of vaccines different from the ones that Americans originally received. The science behind the move is promising. 
  <p class="updated_time"> 03:57 PM CT, Oct. 20 </p> 
  [Gabby Petito: Apparent human remains found in search for fiancé Brian Laundrie](https://www.bbc.co.uk/news/world-us-canada-58989242?at_medium=RSS&at_campaign=KARANGA) BBC: Items owned by Gabby Petito's missing fiancé and apparent human remains have been found in Florida. 
  <p class="updated_time"> 03:20 PM CT, Oct. 20 </p> 
@@ -18,8 +22,6 @@ permalink: /charts/news/
  [Glass Ceiling Cracks in Egypt, but Would-Be Judges Still Hear: ‘No Girls’](https://www.nytimes.com/2021/10/20/world/middleeast/egypt-judges-women.html) NYT: On paper, women are free to apply for seats on Egyptian benches. In practice, they say, it is near impossible. 
  <p class="updated_time"> 02:46 PM CT, Oct. 20 </p> 
  [Paris Hilton: I couldn't sleep for 20 years from memories of youth care abuse](https://www.bbc.co.uk/news/world-us-canada-58988263?at_medium=RSS&at_campaign=KARANGA) BBC: Paris Hilton alleges she was strangled, slapped and watched in the shower while in a youth care facility. 
- <p class="updated_time"> 02:40 PM CT, Oct. 20 </p> 
- [Brazil Senate’s Pandemic Panel, in Last-Minute Shift, Softened Criminal Recommendations on Bolsonaro](https://www.nytimes.com/2021/10/20/world/americas/bolsonaro-pandemic-inquiry-crimes.html) NYT: Senators on the 11-member panel had second thoughts about the provability of homicide and genocide charges. Instead, they accused the president of “crimes against humanity.” 
  <p class="updated_time"> 02:15 PM CT, Oct. 20 </p> 
  [Gates Foundation Pledges $120 Million to Help Get Merck Covid Pills to Poor Countries](https://www.nytimes.com/2021/10/20/health/covid-molnupiravir-gates-foundation.html) NYT: Regulatory hurdles and supply chain issues could slow efforts to produce generic versions of Merck’s antiviral molnupiravir for developing nations, despite licensing agreements. 
  <p class="updated_time"> 02:11 PM CT, Oct. 20 </p> 
@@ -150,8 +152,6 @@ permalink: /charts/news/
  [Unvaccinated State Workers in Washington and Massachusetts Face Job Loss](https://www.nytimes.com/2021/10/18/world/washington-massachusetts-employees-vaccination.html) NYT: New Jersey’s vaccine mandate for school and state workers also took effect this week, requiring employees to provide proof of vaccination or complete a Covid-19 test at least once a week. 
  <p class="updated_time"> 01:25 PM CT, Oct. 19 </p> 
  [A Warning That Africa’s Last Glaciers Will Soon Vanish](https://www.nytimes.com/2021/10/19/world/africa/mountain-glaciers-disappear.html) NYT: While African nations contribute less than 4 percent of global greenhouse gas emissions, a U.N. report underscored the outsize impact that climate change is having on the continent. 
- <p class="updated_time"> 01:18 PM CT, Oct. 19 </p> 
- [Mix-and-Match Covid Boosters: Why They Just Might Work](https://www.nytimes.com/2021/10/19/health/covid-vaccine-mix-match.html) NYT: The F.D.A. may authorize booster shots of vaccines different from the ones that Americans originally received. The science behind the move is promising. 
  <p class="updated_time"> 01:14 PM CT, Oct. 19 </p> 
  [Tuberculosis, Like Covid, Spreads by Breathing, Scientists Report](https://www.nytimes.com/2021/10/19/health/tuberculosis-transmission-aerosols.html) NYT: The finding upends conventional wisdom regarding coughing, long thought to be the main route of transmission. 
  <p class="updated_time"> 11:52 AM CT, Oct. 19 </p> 
