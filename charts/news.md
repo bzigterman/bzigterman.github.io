@@ -6,6 +6,10 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 06:23 AM CT, Oct. 20 </p> 
+ [Guatemala: Riot police deployed after protesters breach Congress, set cars alight](https://www.bbc.co.uk/news/world-latin-america-58978584?at_medium=RSS&at_campaign=KARANGA) BBC: Riot police were deployed and lawmakers had to be evacuated amid the protests. 
+ <p class="updated_time"> 06:20 AM CT, Oct. 20 </p> 
+ [Bombing of Military Bus in Syrian Capital Kills 14](https://www.nytimes.com/2021/10/20/world/middleeast/syria-military-bus-bombing.html) NYT: President Bashar al-Assad has tightened his grip on Damascus, but the attack suggested that militants who oppose him can still do harm. 
  <p class="updated_time"> 06:18 AM CT, Oct. 20 </p> 
  [Queen ‘Reluctantly’ Cancels Trip, Citing Medical Advice](https://www.nytimes.com/2021/10/20/world/europe/queen-elizabeth-northern-ireland.html) NYT: Britain’s 95-year-old monarch will not travel to Northern Ireland but is “in good spirits,” Buckingham Palace said. 
  <p class="updated_time"> 06:17 AM CT, Oct. 20 </p> 
@@ -21,7 +25,7 @@ permalink: /charts/news/
  <p class="updated_time"> 04:43 AM CT, Oct. 20 </p> 
  [Capitol riot: Lawmakers vote to hold Steve Bannon in contempt](https://www.bbc.co.uk/news/world-us-canada-58976196?at_medium=RSS&at_campaign=KARANGA) BBC: Steve Bannon could be prosecuted for refusing to give evidence on the Capitol riot. 
  <p class="updated_time"> 04:39 AM CT, Oct. 20 </p> 
- [Aryan Khan: Bollywood actor's son bail plea rejected in drugs case](https://www.bbc.co.uk/news/world-asia-india-58829972?at_medium=RSS&at_campaign=KARANGA) BBC: Aryan Khan, Shah Rukh Khan's son, was arrested on 3 October over drug charges. 
+ [Aryan Khan: Bollywood actor's son bail plea rejected in drugs case](https://www.bbc.co.uk/news/world-asia-india-58829972?at_medium=RSS&at_campaign=KARANGA) BBC: Aryan Khan, son of Bollywood superstar Shah Rukh Khan, was arrested on 3 October over drug charges. 
  <p class="updated_time"> 04:18 AM CT, Oct. 20 </p> 
  [The Olympic Torch Arrives in Beijing Under Cloud of Protests, Covid](https://www.nytimes.com/2021/10/20/world/asia/olympics-torch-china-covid-protest.html) NYT: A subdued ceremony in Beijing on Wednesday sets the tone for the Winter Olympics of 2022, which will be held under extraordinary health protocols. 
  <p class="updated_time"> 04:00 AM CT, Oct. 20 </p> 
@@ -110,8 +114,6 @@ permalink: /charts/news/
  [Reluctance among Russians to get vaccinated has led to a surge in cases and deaths.](https://www.nytimes.com/2021/10/19/world/apathy-and-mistrust-leave-russia-facing-the-risks-of-a-low-vaccination-rate.html) NYT: NA 
  <p class="updated_time"> 10:22 AM CT, Oct. 19 </p> 
  [Afghanistan Withdrawal to Be Subject of State Department Investigation](https://www.wsj.com/articles/afghanistan-withdrawal-to-be-subject-of-state-department-investigation-11634671379) WSJ: The department’s internal watchdog told U.S. lawmakers it would review the handling of embassy planning, refugees and the special immigrant visa program. 
- <p class="updated_time"> 10:12 AM CT, Oct. 19 </p> 
- [For Christian Aid Ministries, Charity in Haiti Turns to Chaos](https://www.nytimes.com/2021/10/17/world/americas/amish-missionary-group-kidnap.html) NYT: An organization based in Ohio and founded by Amish and Mennonites has been swept up in the violence roiling the country. 
  <p class="updated_time"> 10:09 AM CT, Oct. 19 </p> 
  [F.B.I. Is Working in Haiti to Recover Kidnapped Missionaries](https://www.nytimes.com/2021/10/18/world/americas/haiti-protests.html) NYT: The United States has a team on the ground to try to secure the release of 17 people taken by a gang in the latest example of the violence that is leaving Haitians desperate. 
  <p class="updated_time"> 09:29 AM CT, Oct. 19 </p> 
@@ -130,8 +132,6 @@ permalink: /charts/news/
  [Xi Faces Pushback on China's Bid to Tax Property](https://www.wsj.com/articles/in-tackling-chinas-real-estate-bubble-xi-jinping-faces-resistance-to-property-tax-plan-11634650751) WSJ: Chinese President Xi Jinping is facing strong resistance over a nationwide property-tax plan meant to help curb housing speculation, and he is now settling for a more limited rollout, people familiar with the matter said. 
  <p class="updated_time"> 03:18 AM CT, Oct. 19 </p> 
  [ Russia's Low Vaccination Rates Leads to Record-Breaking Toll](https://www.nytimes.com/2021/10/18/world/europe/russia-virus-vaccine.html) NYT: The country hit 1,000 deaths in a 24-hour period for the first time since the pandemic began, reflecting the risks of having a low vaccination rate. 
- <p class="updated_time"> 02:49 AM CT, Oct. 19 </p> 
- [Uttarakhand floods: The dramatic moment a car with people is pulled from a river](https://www.bbc.co.uk/news/world-asia-india-58951455?at_medium=RSS&at_campaign=KARANGA) BBC: Officials used cranes to pull it - and its occupants - to safety. 
  <p class="updated_time"> 02:00 AM CT, Oct. 19 </p> 
  [These U.S. Veterans Won't Rest Until They've Kept a Promise to Afghans](https://www.nytimes.com/2021/10/19/world/us-veterans-afghan-evacuation.html) NYT: An informal network that includes former government and military officials is working around the clock to fulfill a pledge to save Afghans who put their lives on the line for America. 
  <p class="updated_time"> 01:43 AM CT, Oct. 19 </p> 
