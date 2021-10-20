@@ -6,16 +6,16 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 08:38 AM CT, Oct. 20 </p> 
+ [De Blasio Announces Vaccine Mandate for All City Workers](https://www.nytimes.com/2021/10/20/nyregion/new-york-city-vaccine-mandate.html) NYT: The new mandate will apply to more than 160,000 employees, including police officers, firefighters and sanitation workers, whose vaccination rates have lagged. 
+ <p class="updated_time"> 08:33 AM CT, Oct. 20 </p> 
+ [Putin Won’t Go to Glasgow for Climate Conference](https://www.nytimes.com/2021/10/20/world/europe/putin-glasgow-climate-conference-cop26.html) NYT: President Vladimir V. Putin of Russia may make a speech by video at the United Nations summit, which is seen as pivotal in efforts to stem climate change. 
  <p class="updated_time"> 08:27 AM CT, Oct. 20 </p> 
  [Navalny, Persistent Kremlin Critic, Wins E.U.’s Top Human Rights Award](https://www.nytimes.com/2021/10/20/world/europe/navalny-sakharov-prize-putin-russia.html) NYT: Aleksei A. Navalny, Russia’s most prominent opposition leader, who is currently in prison, received the Sakharov Prize. 
- <p class="updated_time"> 08:24 AM CT, Oct. 20 </p> 
- [De Blasio Announces Vaccine Mandate for All City Workers](https://www.nytimes.com/2021/10/20/nyregion/new-york-city-vaccine-mandate.html) NYT: The new mandate will apply to more than 160,000 employees, including police officers, firefighters and sanitation workers, whose vaccination rates have lagged. 
  <p class="updated_time"> 08:06 AM CT, Oct. 20 </p> 
  [The Olympic Torch Arrives in Beijing Under Cloud of Protests, Covid](https://www.nytimes.com/2021/10/20/world/asia/olympics-torch-china-covid-protest.html) NYT: A subdued ceremony in Beijing on Wednesday sets the tone for the Winter Olympics of 2022, which will be held under extraordinary health protocols. 
  <p class="updated_time"> 07:59 AM CT, Oct. 20 </p> 
  [COP26: Russia's Vladimir Putin will not attend climate summit](https://www.bbc.co.uk/news/world-europe-58977993?at_medium=RSS&at_campaign=KARANGA) BBC: No reason was given for the Russian leader's decision not to attend the conference in Glasgow. 
- <p class="updated_time"> 07:56 AM CT, Oct. 20 </p> 
- [Putin Won’t Go to Glasgow for Climate Conference](https://www.nytimes.com/2021/10/20/world/europe/putin-glasgow-climate-conference-cop26.html) NYT: President Vladimir V. Putin of Russia may make a speech by video at the United Nations summit, which is seen as pivotal in efforts to stem climate change. 
  <p class="updated_time"> 07:44 AM CT, Oct. 20 </p> 
  [Heavy Rains in India and Nepal Kill Dozens](https://www.nytimes.com/2021/10/20/world/asia/india-nepal-floods-landslides.html) NYT: The death toll continued to rise on Wednesday as landslides and flooding damaged homes and stranded thousands of people. 
  <p class="updated_time"> 07:23 AM CT, Oct. 20 </p> 
