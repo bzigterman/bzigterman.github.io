@@ -6,6 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 09:32 PM CT, Oct. 19 </p> 
+ [North Korea claim test of new submarine-launched missile](https://www.bbc.co.uk/news/world-asia-58976195?at_medium=RSS&at_campaign=KARANGA) BBC: Pyongyang confirmed the test a day after South Korea detected a ballistic missile had been fired. 
  <p class="updated_time"> 08:48 PM CT, Oct. 19 </p> 
  [Steve Bannon: Lawmakers vote to hold ex-Trump aide in contempt](https://www.bbc.co.uk/news/world-us-canada-58976196?at_medium=RSS&at_campaign=KARANGA) BBC: Steve Bannon could be prosecuted for refusing to give evidence to lawmakers investigating the Capitol riot. 
  <p class="updated_time"> 08:34 PM CT, Oct. 19 </p> 
@@ -40,8 +42,6 @@ permalink: /charts/news/
  [FBI Raids Homes Linked to Russian Oligarch Oleg Deripaska](https://www.nytimes.com/2021/10/19/us/politics/oleg-deripaska-fbi-raid.html) NYT: Agents investigating whether Oleg Deripaska violated U.S. sanctions searched homes he has used in New York and Washington, D.C. 
  <p class="updated_time"> 06:07 PM CT, Oct. 19 </p> 
  [When a cobra became a murder weapon](https://www.bbc.co.uk/news/world-asia-india-58947068?at_medium=RSS&at_campaign=KARANGA) BBC: A 28-year-old man killed his wife using a cobra, in what prosecutors say is the first crime of its kind. 
- <p class="updated_time"> 05:50 PM CT, Oct. 19 </p> 
- [North Korea confirms 'successful' submarine-launched missile test](https://www.bbc.co.uk/news/world-asia-58976195?at_medium=RSS&at_campaign=KARANGA) BBC: This comes a day after South Korea reported an apparent weapons test in waters off Japan's coast. 
  <p class="updated_time"> 05:47 PM CT, Oct. 19 </p> 
  [Washington Hears Echoes of the ’50s and Worries: Is This a Cold War With China?](https://www.nytimes.com/2021/10/17/us/politics/china-new-cold-war.html) NYT: Incursions into Taiwan’s air zone, a space launch and what looked like a prisoner swap raise a question that is about more than just semantics. It could signal a dangerous new mind-set. 
  <p class="updated_time"> 05:13 PM CT, Oct. 19 </p> 
@@ -108,8 +108,6 @@ permalink: /charts/news/
  [Life at 50C: The Baghdad traffic cop who works in 50C heat](https://www.bbc.co.uk/news/world-middle-east-58960747?at_medium=RSS&at_campaign=KARANGA) BBC: In Baghdad, Sergeant Saa’d has to brave increasingly extreme conditions to keep the city moving. 
  <p class="updated_time"> 05:49 AM CT, Oct. 19 </p> 
  [Gangs Threaten to Tip Haiti Into a Failed State](https://www.wsj.com/articles/gangs-threaten-to-tip-haiti-into-a-failed-state-11634654955) WSJ: Criminal rings, like the one that kidnapped American missionaries, control as much as two-thirds of Haiti, a lawless scenario that threatens regional stability. 
- <p class="updated_time"> 05:40 AM CT, Oct. 19 </p> 
- [Russia's Move to Cut NATO Ties Complicates Biden's Pivot to China](https://www.wsj.com/articles/russias-move-to-cut-nato-ties-complicates-bidens-pivot-to-china-11634654425) WSJ: Moscow will withdraw its diplomats and close the alliance’s Russian office following NATO’s expulsion of Russian officials as spies. 
  <p class="updated_time"> 04:48 AM CT, Oct. 19 </p> 
  [Is Brexit Hurting the U.K. Economy? Trade Data Flashes a Warning](https://www.wsj.com/articles/is-brexit-hurting-the-u-k-economy-trade-export-import-european-union-england-11634651205) WSJ: The recovery is sputtering and some exporters say their separation from the European Union is the culprit; “harder, slower, more expensive, more difficult.” 
  <p class="updated_time"> 04:39 AM CT, Oct. 19 </p> 
