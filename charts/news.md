@@ -6,12 +6,14 @@ permalink: /charts/news/
 
 ## World News
 
- <p class="updated_time"> 06:02 AM CT, Oct. 20 </p> 
- [New York City Plans Vaccine Mandate for All City Employees](https://www.nytimes.com/2021/10/20/nyregion/new-york-city-vaccine-mandate.html) NYT: The mandate, covering more than 300,000 employees, will remove an option to take regular tests instead of getting a shot. 
- <p class="updated_time"> 05:57 AM CT, Oct. 20 </p> 
- [COP26: Russia's Vladimir Putin will not attend climate summit](https://www.bbc.co.uk/news/world-europe-58977993?at_medium=RSS&at_campaign=KARANGA) BBC: No reason was given for the Russian leader's decision not to attend the conference in Glasgow. 
- <p class="updated_time"> 05:45 AM CT, Oct. 20 </p> 
+ <p class="updated_time"> 06:18 AM CT, Oct. 20 </p> 
  [Queen ‘Reluctantly’ Cancels Trip, Citing Medical Advice](https://www.nytimes.com/2021/10/20/world/europe/queen-elizabeth-northern-ireland.html) NYT: Britain’s 95-year-old monarch will not travel to Northern Ireland but is “in good spirits,” Buckingham Palace said. 
+ <p class="updated_time"> 06:17 AM CT, Oct. 20 </p> 
+ [New York City Plans Vaccine Mandate for All City Employees](https://www.nytimes.com/2021/10/20/nyregion/new-york-city-vaccine-mandate.html) NYT: The mandate will remove an option to take regular tests instead of getting a shot. 
+ <p class="updated_time"> 06:13 AM CT, Oct. 20 </p> 
+ [COP26: Russia's Vladimir Putin will not attend climate summit](https://www.bbc.co.uk/news/world-europe-58977993?at_medium=RSS&at_campaign=KARANGA) BBC: No reason was given for the Russian leader's decision not to attend the conference in Glasgow. 
+ <p class="updated_time"> 06:12 AM CT, Oct. 20 </p> 
+ [Transgender Woman Flees Malaysia After Wearing Hijab](https://www.nytimes.com/2021/10/20/world/asia/malaysia-transgender.html) NYT: The Islamic authorities want to imprison her for wearing female clothing at a religious event and threatened to put her in a rehabilitation camp where she could “return to the right path.” 
  <p class="updated_time"> 05:41 AM CT, Oct. 20 </p> 
  [Benzema on trial in French sex tape blackmail case](https://www.bbc.co.uk/news/world-europe-58977550?at_medium=RSS&at_campaign=KARANGA) BBC: The Real Madrid footballer is accused of complicity in an attempt to blackmail Mathieu Valbuena. 
  <p class="updated_time"> 05:25 AM CT, Oct. 20 </p> 
@@ -116,8 +118,6 @@ permalink: /charts/news/
  [Taliban Allow Polio Vaccine Program to Restart in Afghanistan](https://www.nytimes.com/2021/10/19/world/asia/taliban-polio-vaccines-afghanistan.html) NYT: Taliban leaders also agreed to allow women to be frontline workers for the effort, according to the World Health Organization and UNICEF. 
  <p class="updated_time"> 09:26 AM CT, Oct. 19 </p> 
  [The Threat, in Perspective](https://www.nytimes.com/2021/10/19/briefing/colin-powell-covid-risk-older-americans.html) NYT: Colin Powell’s death highlights the continuing Covid risks to older people with medical conditions. 
- <p class="updated_time"> 08:47 AM CT, Oct. 19 </p> 
- [Mass Abduction of U.S. Missionaries Startles Even Kidnap-Weary Haiti](https://www.nytimes.com/2021/10/17/world/americas/haiti-missionaries-kidnap.html) NYT: “Where is this country going?” Gang members seized 16 Americans and one Canadian, among them five children, as they visited an orphanage. 
  <p class="updated_time"> 08:22 AM CT, Oct. 19 </p> 
  [Those Gifts You Want for the Holidays? Don’t Wait Too Long.](https://www.nytimes.com/2021/10/19/business/supply-chain-holidays.html) NYT: The supply chain disruption is shorthand for problems from factory closures to workers who are not working anymore. 
  <p class="updated_time"> 06:54 AM CT, Oct. 19 </p> 
