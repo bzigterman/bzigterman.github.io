@@ -6,6 +6,10 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 09:44 AM CT, Oct. 20 </p> 
+ [Heavy Rains in India and Nepal Kill Dozens](https://www.nytimes.com/2021/10/20/world/asia/india-nepal-floods-landslides.html) NYT: The death toll continued to rise on Wednesday as landslides and flooding damaged homes and stranded thousands of people. 
+ <p class="updated_time"> 09:36 AM CT, Oct. 20 </p> 
+ [Russia Introduces Weeklong Office shutdown After Virus Deaths Rise](https://www.nytimes.com/2021/10/20/world/europe/russia-covid-restrictions.html) NYT: The measure, meant to slow the virus’s spread, is short of a full lockdown and only affects nonessential workers. 
  <p class="updated_time"> 09:28 AM CT, Oct. 20 </p> 
  [Nikolas Cruz: Parkland gunman pleads guilty to murdering 17](https://www.bbc.co.uk/news/world-us-canada-58983965?at_medium=RSS&at_campaign=KARANGA) BBC: Nikolas Cruz could see life in prison or the death penalty over the 2018 Florida school shooting. 
  <p class="updated_time"> 09:09 AM CT, Oct. 20 </p> 
@@ -22,8 +26,6 @@ permalink: /charts/news/
  [The Olympic Torch Arrives in Beijing Under Cloud of Protests, Covid](https://www.nytimes.com/2021/10/20/world/asia/olympics-torch-china-covid-protest.html) NYT: A subdued ceremony in Beijing on Wednesday sets the tone for the Winter Olympics of 2022, which will be held under extraordinary health protocols. 
  <p class="updated_time"> 07:59 AM CT, Oct. 20 </p> 
  [COP26: Russia's Vladimir Putin will not attend climate summit](https://www.bbc.co.uk/news/world-europe-58977993?at_medium=RSS&at_campaign=KARANGA) BBC: No reason was given for the Russian leader's decision not to attend the conference in Glasgow. 
- <p class="updated_time"> 07:44 AM CT, Oct. 20 </p> 
- [Heavy Rains in India and Nepal Kill Dozens](https://www.nytimes.com/2021/10/20/world/asia/india-nepal-floods-landslides.html) NYT: The death toll continued to rise on Wednesday as landslides and flooding damaged homes and stranded thousands of people. 
  <p class="updated_time"> 07:23 AM CT, Oct. 20 </p> 
  [Syria war: Deadly bomb blasts hit military bus in Damascus](https://www.bbc.co.uk/news/world-middle-east-58930309?at_medium=RSS&at_campaign=KARANGA) BBC: At least 14 people are reported to have died in the bloodiest attack in the Syrian capital in years. 
  <p class="updated_time"> 07:14 AM CT, Oct. 20 </p> 
@@ -158,8 +160,6 @@ permalink: /charts/news/
  [Diver Discovers 900-Year-Old Sword Dating to the Crusades](https://www.nytimes.com/2021/10/18/world/middleeast/crusader-sword-found-israel.html) NYT: The sword, recovered off the coast of Israel, most likely belonged to a knight who fell into the sea or lost the weapon in battle, experts said. 
  <p class="updated_time"> 06:46 PM CT, Oct. 18 </p> 
  [The key moments of Colin Powell's life](https://www.bbc.co.uk/news/world-us-canada-58962596?at_medium=RSS&at_campaign=KARANGA) BBC: The son of Jamaican immigrants, his story was hailed as an example of what's possible in America. 
- <p class="updated_time"> 06:34 PM CT, Oct. 18 </p> 
- [Your Monday Briefing](https://www.nytimes.com/2021/10/17/briefing/antiviral-pill-biden-climate-change.html) NYT: A new antiviral coronavirus pill. 
  <p class="updated_time"> 06:27 PM CT, Oct. 18 </p> 
  [Russia Breaks Diplomatic Ties With NATO](https://www.nytimes.com/2021/10/18/world/europe/russia-nato.html) NYT: Moscow’s decision to end its diplomatic mission to the alliance will end a long, post-Cold War experiment in building trust between militaries. 
  <p class="updated_time"> 06:11 PM CT, Oct. 18 </p> 
