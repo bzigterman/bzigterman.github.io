@@ -6,14 +6,22 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 10:34 PM CT, Oct. 19 </p> 
+ [Steve Bannon: Lawmakers vote to hold ex-Trump aide in contempt](https://www.bbc.co.uk/news/world-us-canada-58976196?at_medium=RSS&at_campaign=KARANGA) BBC: Steve Bannon could be prosecuted for refusing to give evidence to lawmakers investigating the Capitol riot. 
+ <p class="updated_time"> 10:30 PM CT, Oct. 19 </p> 
+ [Bolsonaro's Pandemic Handling Draws Explosive Allegation: Homicide](https://www.nytimes.com/2021/10/19/world/americas/bolsonaro-covid-19-brazil.html) NYT: A long-awaited report from a panel of Brazilian senators concludes that Jair Bolsonaro purposely let the coronavirus kill Brazilians in a failed bid for herd immunity. 
+ <p class="updated_time"> 10:29 PM CT, Oct. 19 </p> 
+ [Your Wednesday Briefing](https://www.nytimes.com/2021/10/19/briefing/bolsanaro-coronavirus-myanmar-refugees.html) NYT: Calls to charge Bolsonaro with homicide. 
+ <p class="updated_time"> 10:28 PM CT, Oct. 19 </p> 
+ [Britain Outlines Energy Plans Amid Dimming Prospects for Climate Summit](https://www.nytimes.com/2021/10/19/world/europe/britain-climate-change-cop26.html) NYT: In an effort to recapture momentum, Prime Minister Boris Johnson  announced a host of measures, including plans for a big expansion of electric vehicles, more offshore wind power and greater use of hydrogen. 
  <p class="updated_time"> 10:17 PM CT, Oct. 19 </p> 
  [Medical Groups Declare Youth Mental Health Crisis](https://www.nytimes.com/2021/10/19/world/covid-pandemic-children-mental-health.html) NYT: Medical groups said the coronavirus pandemic worsened an already existing mental health crisis among children and teens. 
+ <p class="updated_time"> 10:16 PM CT, Oct. 19 </p> 
+ [IMF warns Afghanistan's economic slump will impact neighbours](https://www.bbc.co.uk/news/business-58950560?at_medium=RSS&at_campaign=KARANGA) BBC: Afghanistan's economic turmoil will fuel a refugee crisis impacting nearby countries, the fund warned. 
  <p class="updated_time"> 10:05 PM CT, Oct. 19 </p> 
  [Thousands Flee Myanmar for India Amid Fears of a Growing Refugee Crisis](https://www.nytimes.com/2021/10/19/world/asia/myanmar-refugees-india.html) NYT: For decades, armed conflict, political repression and targeted campaigns against minorities have forced hundreds of thousands of people to leave the country. Now many more are expected to follow. 
  <p class="updated_time"> 09:32 PM CT, Oct. 19 </p> 
  [North Korea claim test of new submarine-launched missile](https://www.bbc.co.uk/news/world-asia-58976195?at_medium=RSS&at_campaign=KARANGA) BBC: Pyongyang confirmed the test a day after South Korea detected a ballistic missile had been fired. 
- <p class="updated_time"> 08:48 PM CT, Oct. 19 </p> 
- [Steve Bannon: Lawmakers vote to hold ex-Trump aide in contempt](https://www.bbc.co.uk/news/world-us-canada-58976196?at_medium=RSS&at_campaign=KARANGA) BBC: Steve Bannon could be prosecuted for refusing to give evidence to lawmakers investigating the Capitol riot. 
  <p class="updated_time"> 08:34 PM CT, Oct. 19 </p> 
  [Fox News Anchor Neil Cavuto Tests Positive for Coronavirus](https://www.nytimes.com/2021/10/19/world/fox-news-neil-cavuto-positive-covid.html) NYT: The broadcaster has survived cancer and open-heart surgery and has multiple sclerosis. 
  <p class="updated_time"> 08:29 PM CT, Oct. 19 </p> 
@@ -26,8 +34,6 @@ permalink: /charts/news/
  [Rachel Levine: Transgender official sworn in as four-star admiral](https://www.bbc.co.uk/news/world-us-canada-58974627?at_medium=RSS&at_campaign=KARANGA) BBC: Dr Rachel Levine is already the nation's most prominent openly transgender federal official. 
  <p class="updated_time"> 07:02 PM CT, Oct. 19 </p> 
  [North Korea Tests First Submarine-Launched Missile in Two Years](https://www.nytimes.com/2021/10/18/world/asia/north-korea-ballistic-missile-test-washington.html) NYT: The launch came after special envoys gathered to discuss how to deal with Pyongyang’s growing nuclear capabilities. 
- <p class="updated_time"> 06:27 PM CT, Oct. 19 </p> 
- [Squid Game helps Netflix subscriptions bounce back](https://www.bbc.co.uk/news/business-58976204?at_medium=RSS&at_campaign=KARANGA) BBC: The streaming giant added 4.4 million new users in the third quarter as foreign language shows continued to fly. 
  <p class="updated_time"> 06:27 PM CT, Oct. 19 </p> 
  [Sudan on the brink amid scramble for democracy](https://www.bbc.co.uk/news/world-africa-58970193?at_medium=RSS&at_campaign=KARANGA) BBC: A power-sharing deal between the military and civilians is under pressure with concerns of violence. 
  <p class="updated_time"> 06:23 PM CT, Oct. 19 </p> 
@@ -50,8 +56,6 @@ permalink: /charts/news/
  [Transgender U.S. Public Health Official Breaks Ground in Covid Fight](https://www.nytimes.com/2021/10/19/us/politics/rachel-levine-public-health-transgender.html) NYT: Admiral Rachel Levine is the first female four-star admiral in the history of the he U.S. Public Health Service Commissioned Corps, which she already leads in her role as assistant secretary. 
  <p class="updated_time"> 04:23 PM CT, Oct. 19 </p> 
  [Credit Suisse fined over Mozambique tuna scandal](https://www.bbc.co.uk/news/business-58974089?at_medium=RSS&at_campaign=KARANGA) BBC: Bank to pay £147m fine to UK authorities as part of wider settlement over a corruption scandal. 
- <p class="updated_time"> 04:17 PM CT, Oct. 19 </p> 
- [Bolsonaro's Pandemic Handling Draws Explosive Allegation: Homicide](https://www.nytimes.com/2021/10/19/world/americas/bolsonaro-covid-19-brazil.html) NYT: A long-awaited report from a panel of Brazilian senators concludes that Jair Bolsonaro purposely let the coronavirus kill Brazilians in a failed bid for herd immunity. 
  <p class="updated_time"> 03:45 PM CT, Oct. 19 </p> 
  [Your Wednesday Briefing](https://www.nytimes.com/2021/10/19/briefing/australia-vaccines-evergrande-china-myanmar.html) NYT: Vaccine milestones in Australia and on tiny Pacific islands. 
  <p class="updated_time"> 03:44 PM CT, Oct. 19 </p> 
@@ -70,8 +74,6 @@ permalink: /charts/news/
  [Navy report blames crew for devastating fire on the Bonhomme Richard](https://www.bbc.co.uk/news/world-us-canada-58975431?at_medium=RSS&at_campaign=KARANGA) BBC: The amphibious USS Bonhomme Richard was decommissioned after a fire burned on board for four days. 
  <p class="updated_time"> 02:23 PM CT, Oct. 19 </p> 
  [Unvaccinated State Workers in Washington and Massachusetts Face Job Loss](https://www.nytimes.com/2021/10/18/world/washington-massachusetts-employees-vaccination.html) NYT: New Jersey’s vaccine mandate for school and state workers also took effect this week, requiring employees to provide proof of vaccination or complete a Covid-19 test at least once a week. 
- <p class="updated_time"> 01:57 PM CT, Oct. 19 </p> 
- [Britain Outlines Energy Plans Amid Dimming Prospects for Climate Summit](https://www.nytimes.com/2021/10/19/world/europe/britain-climate-change-cop26.html) NYT: In an effort to recapture momentum, Prime Minister Boris Johnson  announced a host of measures, including plans for a big expansion of electric vehicles, more offshore wind power and greater use of hydrogen. 
  <p class="updated_time"> 01:25 PM CT, Oct. 19 </p> 
  [A Warning That Africa’s Last Glaciers Will Soon Vanish](https://www.nytimes.com/2021/10/19/world/africa/mountain-glaciers-disappear.html) NYT: While African nations contribute less than 4 percent of global greenhouse gas emissions, a U.N. report underscored the outsize impact that climate change is having on the continent. 
  <p class="updated_time"> 01:18 PM CT, Oct. 19 </p> 
@@ -188,8 +190,6 @@ permalink: /charts/news/
  [What Is Christian Aid Ministries and What Does It Do in Haiti?](https://www.nytimes.com/2021/10/17/world/americas/what-is-christian-aid-ministries.html) NYT: The group, based in Ohio, distributes food and clothing, funds schools, teaches farming methods and helps with emergency relief. 
  <p class="updated_time"> 12:45 PM CT, Oct. 17 </p> 
  [Fake Polls and Tabloid Coverage on Demand: The Dark Side of Sebastian Kurz](https://www.nytimes.com/2021/10/17/world/europe/austria-sebastian-kurz-scandal-chancellor.html) NYT: The downfall of Austria’s onetime political Wunderkind put a spotlight on the cozy, sometimes corrupt, relationship between right-wing populists and parts of the news media. 
- <p class="updated_time"> 11:17 AM CT, Oct. 17 </p> 
- [Tunisians Recall Revolution Reluctantly, if at All: ‘It Just Faded Away’](https://www.nytimes.com/2021/10/17/world/middleeast/tunisia-revolution-memoro-monuments.html) NYT: When a monument to those killed in the 2011 uprising was recently damaged, few took notice or even cared in a town, and country, where there is now more regret than a wish to remember. 
  <p class="updated_time"> 07:50 AM CT, Oct. 13 </p> 
  [What is climate change? A really simple guide](https://www.bbc.co.uk/news/science-environment-24021772?at_medium=RSS&at_campaign=KARANGA) BBC: World temperatures are rising because of human activity, and climate change now threatens every aspect of human life. 
 
