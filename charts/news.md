@@ -6,10 +6,12 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 05:25 AM CT, Oct. 20 </p> 
+ [Where Are the Workers?](https://www.nytimes.com/2021/10/20/briefing/labor-shortage-us-low-wage-economy.html) NYT: How can so many Americans afford not to work? And will it last? 
  <p class="updated_time"> 04:43 AM CT, Oct. 20 </p> 
  [Capitol riot: Lawmakers vote to hold Steve Bannon in contempt](https://www.bbc.co.uk/news/world-us-canada-58976196?at_medium=RSS&at_campaign=KARANGA) BBC: Steve Bannon could be prosecuted for refusing to give evidence on the Capitol riot. 
  <p class="updated_time"> 04:39 AM CT, Oct. 20 </p> 
- [Shah Rukh Khan's son denied bail in drugs case](https://www.bbc.co.uk/news/world-asia-india-58829972?at_medium=RSS&at_campaign=KARANGA) BBC: Aryan Khan, Shah Rukh Khan's son, was arrested on 3 October over drug charges. 
+ [Aryan Khan: Bollywood actor's son bail plea rejected in drugs case](https://www.bbc.co.uk/news/world-asia-india-58829972?at_medium=RSS&at_campaign=KARANGA) BBC: Aryan Khan, Shah Rukh Khan's son, was arrested on 3 October over drug charges. 
  <p class="updated_time"> 04:18 AM CT, Oct. 20 </p> 
  [The Olympic Torch Arrives in Beijing Under Cloud of Protests, Covid](https://www.nytimes.com/2021/10/20/world/asia/olympics-torch-china-covid-protest.html) NYT: A subdued ceremony in Beijing on Wednesday sets the tone for the Winter Olympics of 2022, which will be held under extraordinary health protocols. 
  <p class="updated_time"> 04:00 AM CT, Oct. 20 </p> 
@@ -78,8 +80,6 @@ permalink: /charts/news/
  [Transgender U.S. Public Health Official Breaks Ground in Covid Fight](https://www.nytimes.com/2021/10/19/us/politics/rachel-levine-public-health-transgender.html) NYT: Admiral Rachel Levine is the first female four-star admiral in the history of the he U.S. Public Health Service Commissioned Corps, which she already leads in her role as assistant secretary. 
  <p class="updated_time"> 03:45 PM CT, Oct. 19 </p> 
  [Your Wednesday Briefing](https://www.nytimes.com/2021/10/19/briefing/australia-vaccines-evergrande-china-myanmar.html) NYT: Vaccine milestones in Australia and on tiny Pacific islands. 
- <p class="updated_time"> 03:44 PM CT, Oct. 19 </p> 
- [If China Tested a New Orbital Weapon, It’s Not Much of a Surprise](https://www.nytimes.com/2021/10/19/science/china-orbital-weapon.html) NYT: Experts report that similar technologies were developed by Russia and the United States starting more than a half century ago. 
  <p class="updated_time"> 03:03 PM CT, Oct. 19 </p> 
  [On a Pacific Island, Russia Tests Its Battle Plan for Climate Change](https://www.nytimes.com/2021/10/19/world/europe/russia-climate-change.html) NYT: President Vladimir V. Putin long dismissed the threat posed by global warming. But fires, disasters and foreign pressure have prompted him to change course. 
  <p class="updated_time"> 02:57 PM CT, Oct. 19 </p> 
@@ -145,8 +145,6 @@ permalink: /charts/news/
  <p class="updated_time"> 06:34 PM CT, Oct. 18 </p> 
  [Your Monday Briefing](https://www.nytimes.com/2021/10/17/briefing/antiviral-pill-biden-climate-change.html) NYT: A new antiviral coronavirus pill. 
  <p class="updated_time"> 06:27 PM CT, Oct. 18 </p> 
- [Town Rattled by Bow-and-Arrow Killings Ponders Terrorism and Mental Illness](https://www.nytimes.com/2021/10/17/world/europe/norway-bow-and-arrow-killings.html) NYT: The police in Norway, initially pointing to Islamic extremism, now say an attacker was “not well, mentally.” 
- <p class="updated_time"> 06:27 PM CT, Oct. 18 </p> 
  [Russia Breaks Diplomatic Ties With NATO](https://www.nytimes.com/2021/10/18/world/europe/russia-nato.html) NYT: Moscow’s decision to end its diplomatic mission to the alliance will end a long, post-Cold War experiment in building trust between militaries. 
  <p class="updated_time"> 06:11 PM CT, Oct. 18 </p> 
  [In Norway Attack, ‘Sharp Object,’ Not Arrows, Killed 5, Police Say](https://www.nytimes.com/2021/10/18/world/europe/norway-attack.html) NYT: The Norwegian police on Monday said that while a hunting bow had been used in last week’s rampage, the victims, four women and a man, were stabbed to death. 
@@ -188,12 +186,6 @@ permalink: /charts/news/
  [I get abuse and threats online - why can't it be stopped?](https://www.bbc.co.uk/news/uk-58924168?at_medium=RSS&at_campaign=KARANGA) BBC: Online abuse against women is on the rise, but why aren't the police, government and social media sites doing more to stop it? 
  <p class="updated_time"> 06:13 PM CT, Oct. 17 </p> 
  [The climate activists who want Norway to end oil and gas production](https://www.bbc.co.uk/news/science-environment-58900652?at_medium=RSS&at_campaign=KARANGA) BBC: The BBC's Nick Beake meets the young climate activists trying to stop Norway drilling for oil and gas. 
- <p class="updated_time"> 06:06 PM CT, Oct. 17 </p> 
- [Your Monday Briefing](https://www.nytimes.com/2021/10/17/briefing/haiti-kidnapping-south-korea-draft.html) NYT: Haitian gang kidnaps missionaries. 
- <p class="updated_time"> 05:40 PM CT, Oct. 17 </p> 
- [India Evicts Muslims in Assam, Even Those Living There Legally](https://www.nytimes.com/2021/10/17/world/asia/india-assam-muslim-evictions.html) NYT: Critics say an Indian state’s campaign to expel longtime residents on government land marks the ruling party’s latest campaign against Muslims. 
- <p class="updated_time"> 12:45 PM CT, Oct. 17 </p> 
- [Fake Polls and Tabloid Coverage on Demand: The Dark Side of Sebastian Kurz](https://www.nytimes.com/2021/10/17/world/europe/austria-sebastian-kurz-scandal-chancellor.html) NYT: The downfall of Austria’s onetime political Wunderkind put a spotlight on the cozy, sometimes corrupt, relationship between right-wing populists and parts of the news media. 
  <p class="updated_time"> 07:50 AM CT, Oct. 13 </p> 
  [What is climate change? A really simple guide](https://www.bbc.co.uk/news/science-environment-24021772?at_medium=RSS&at_campaign=KARANGA) BBC: World temperatures are rising because of human activity, and climate change now threatens every aspect of human life. 
 
