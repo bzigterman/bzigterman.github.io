@@ -6,6 +6,12 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 01:21 PM CT, Oct. 20 </p> 
+ [Ancient-DNA Researchers Set Ethical Guidelines for Their Work](https://www.nytimes.com/2021/10/20/science/ancient-dna-archaeology-ethics.html) NYT: New, international standards for handling ancient genetic material draw support from many scientists, criticism from others. 
+ <p class="updated_time"> 01:13 PM CT, Oct. 20 </p> 
+ [Britain Resists Calls to Introduce Covid Restrictions](https://www.nytimes.com/2021/10/20/world/europe/britain-covid-cases.html) NYT: The number of new cases in Britain is among the highest in the world, but the government has said there is no need to impose indoor mask mandates or other restrictions. 
+ <p class="updated_time"> 12:54 PM CT, Oct. 20 </p> 
+ [All Afghans have the right to a passport - Taliban](https://www.bbc.co.uk/news/world-asia-58989021?at_medium=RSS&at_campaign=KARANGA) BBC: But sports personalities, people seeking medical treatment or wanting to study abroad will be prioritised. 
  <p class="updated_time"> 12:49 PM CT, Oct. 20 </p> 
  [These U.S. Veterans Won't Rest Until They've Kept a Promise to Afghans](https://www.nytimes.com/2021/10/19/world/us-veterans-afghan-evacuation.html) NYT: An informal network that includes former government and military officials is working around the clock to fulfill a pledge to save Afghans who put their lives on the line for America. 
  <p class="updated_time"> 12:48 PM CT, Oct. 20 </p> 
@@ -28,8 +34,6 @@ permalink: /charts/news/
  [Nikolas Cruz: Parkland gunman pleads guilty to murdering 17](https://www.bbc.co.uk/news/world-us-canada-58983965?at_medium=RSS&at_campaign=KARANGA) BBC: Nikolas Cruz could see life in prison or the death penalty over the 2018 Florida school shooting. 
  <p class="updated_time"> 11:16 AM CT, Oct. 20 </p> 
  [Nigerian romance scam suspects targeted 100 women - FBI](https://www.bbc.co.uk/news/world-africa-58978287?at_medium=RSS&at_campaign=KARANGA) BBC: Eight Nigerian men are charged in South Africa after an international operation involving Interpol. 
- <p class="updated_time"> 11:08 AM CT, Oct. 20 </p> 
- [Britain Resists Calls to Introduce Covid Restrictions](https://www.nytimes.com/2021/10/20/world/europe/britain-covid-cases.html) NYT: The number of new, daily cases in Britain are among the highest in the world, but the government has said there is no need to implement indoor mask mandates or impose other restrictions. 
  <p class="updated_time"> 11:05 AM CT, Oct. 20 </p> 
  [Karim Benzema: French sex tape blackmail case trial starts](https://www.bbc.co.uk/news/world-europe-58977550?at_medium=RSS&at_campaign=KARANGA) BBC: The Real Madrid footballer is accused of complicity in an attempt to blackmail Mathieu Valbuena. 
  <p class="updated_time"> 11:00 AM CT, Oct. 20 </p> 
@@ -48,8 +52,6 @@ permalink: /charts/news/
  [Heavy Rains in India and Nepal Kill Dozens](https://www.nytimes.com/2021/10/20/world/asia/india-nepal-floods-landslides.html) NYT: The death toll continued to rise on Wednesday as landslides and flooding damaged homes and stranded thousands of people. 
  <p class="updated_time"> 10:06 AM CT, Oct. 20 </p> 
  [Female Afghan Judges and Lawyers Now Fear For Their Lives](https://www.nytimes.com/2021/10/20/world/asia/afghan-judges-women-taliban.html) NYT: They fear that they or their loved ones could be tracked down and killed because of their work delivering justice to women. “We have lost everything — our jobs, our homes, the way we lived.” 
- <p class="updated_time"> 10:00 AM CT, Oct. 20 </p> 
- [Ancient-DNA Researchers Set Ethical Guidelines for Their Work](https://www.nytimes.com/2021/10/20/science/ancient-dna-archaeology-ethics.html) NYT: New, international standards for handling ancient genetic material draw support from many scientists, criticism from others. 
  <p class="updated_time"> 09:04 AM CT, Oct. 20 </p> 
  [Boris Johnson Promotes Rising Wages Amid Shortages in U.K. ](https://www.nytimes.com/2021/10/20/business/boris-johnson-shortages-britain.html) NYT: Wages in some industries are rising because employers can’t find enough workers. That’s not a path to long-term growth, analysts say. 
  <p class="updated_time"> 08:56 AM CT, Oct. 20 </p> 
@@ -160,8 +162,6 @@ permalink: /charts/news/
  [Your Tuesday Briefing](https://www.nytimes.com/2021/10/18/briefing/haiti-kidnapping-colin-powell.html) NYT: Efforts to recover a kidnapped group in Haiti. 
  <p class="updated_time"> 09:56 PM CT, Oct. 18 </p> 
  [Diver Discovers 900-Year-Old Sword Dating to the Crusades](https://www.nytimes.com/2021/10/18/world/middleeast/crusader-sword-found-israel.html) NYT: The sword, recovered off the coast of Israel, most likely belonged to a knight who fell into the sea or lost the weapon in battle, experts said. 
- <p class="updated_time"> 06:46 PM CT, Oct. 18 </p> 
- [The key moments of Colin Powell's life](https://www.bbc.co.uk/news/world-us-canada-58962596?at_medium=RSS&at_campaign=KARANGA) BBC: The son of Jamaican immigrants, his story was hailed as an example of what's possible in America. 
  <p class="updated_time"> 06:27 PM CT, Oct. 18 </p> 
  [Russia Breaks Diplomatic Ties With NATO](https://www.nytimes.com/2021/10/18/world/europe/russia-nato.html) NYT: Moscow’s decision to end its diplomatic mission to the alliance will end a long, post-Cold War experiment in building trust between militaries. 
  <p class="updated_time"> 06:11 PM CT, Oct. 18 </p> 
