@@ -6,10 +6,12 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 08:48 PM CT, Oct. 19 </p> 
+ [Steve Bannon: Lawmakers vote to hold ex-Trump aide in contempt](https://www.bbc.co.uk/news/world-us-canada-58976196?at_medium=RSS&at_campaign=KARANGA) BBC: Steve Bannon could be prosecuted for refusing to give evidence to lawmakers investigating the Capitol riot. 
+ <p class="updated_time"> 08:34 PM CT, Oct. 19 </p> 
+ [Fox News Anchor Neil Cavuto Tests Positive for Coronavirus](https://www.nytimes.com/2021/10/19/world/fox-news-neil-cavuto-positive-covid.html) NYT: The broadcaster has survived cancer and open-heart surgery and has multiple sclerosis. 
  <p class="updated_time"> 08:29 PM CT, Oct. 19 </p> 
  [In-N-Out Burger Was Briefly Closed for Breaking San Francisco Covid Protocols](https://www.nytimes.com/2021/10/19/world/san-francisco-in-n-out-burger-covid-vaccine.html) NYT: The popular burger chain said it refused to become “the vaccination police for any government.” 
- <p class="updated_time"> 08:22 PM CT, Oct. 19 </p> 
- [Fox News anchor Neil Cavuto tests positive for Covid.](https://www.nytimes.com/2021/10/19/world/fox-news-anchor-neil-cavuto-tests-positive-for-covid.html) NYT: NA 
  <p class="updated_time"> 08:04 PM CT, Oct. 19 </p> 
  [Thousands Flee Myanmar for India Amid Fears of a Growing Refugee Crisis](https://www.nytimes.com/2021/10/19/world/asia/myanmar-refugees-india.html) NYT: For decades, armed conflict, political repression and targeted campaigns against minorities have forced hundreds of thousands of people to leave the country. Now many more are expected to follow. 
  <p class="updated_time"> 07:33 PM CT, Oct. 19 </p> 
@@ -20,6 +22,8 @@ permalink: /charts/news/
  [Rachel Levine: Transgender official sworn in as four-star admiral](https://www.bbc.co.uk/news/world-us-canada-58974627?at_medium=RSS&at_campaign=KARANGA) BBC: Dr Rachel Levine is already the nation's most prominent openly transgender federal official. 
  <p class="updated_time"> 07:02 PM CT, Oct. 19 </p> 
  [North Korea Tests First Submarine-Launched Missile in Two Years](https://www.nytimes.com/2021/10/18/world/asia/north-korea-ballistic-missile-test-washington.html) NYT: The launch came after special envoys gathered to discuss how to deal with Pyongyang’s growing nuclear capabilities. 
+ <p class="updated_time"> 06:27 PM CT, Oct. 19 </p> 
+ [Squid Game helps Netflix subscriptions bounce back](https://www.bbc.co.uk/news/business-58976204?at_medium=RSS&at_campaign=KARANGA) BBC: The streaming giant added 4.4 million new users in the third quarter as foreign language shows continued to fly. 
  <p class="updated_time"> 06:27 PM CT, Oct. 19 </p> 
  [Sudan on the brink amid scramble for democracy](https://www.bbc.co.uk/news/world-africa-58970193?at_medium=RSS&at_campaign=KARANGA) BBC: A power-sharing deal between the military and civilians is under pressure with concerns of violence. 
  <p class="updated_time"> 06:23 PM CT, Oct. 19 </p> 
@@ -48,6 +52,8 @@ permalink: /charts/news/
  [Bolsonaro's Pandemic Handling Draws Explosive Allegation: Homicide](https://www.nytimes.com/2021/10/19/world/americas/bolsonaro-covid-19-brazil.html) NYT: A long-awaited report from a panel of Brazilian senators concludes that Jair Bolsonaro purposely let the coronavirus kill Brazilians in a failed bid for herd immunity. 
  <p class="updated_time"> 03:45 PM CT, Oct. 19 </p> 
  [Your Wednesday Briefing](https://www.nytimes.com/2021/10/19/briefing/australia-vaccines-evergrande-china-myanmar.html) NYT: Vaccine milestones in Australia and on tiny Pacific islands. 
+ <p class="updated_time"> 03:44 PM CT, Oct. 19 </p> 
+ [If China Tested a New Orbital Weapon, It’s Not Much of a Surprise](https://www.nytimes.com/2021/10/19/science/china-orbital-weapon.html) NYT: Experts report that similar technologies were developed by Russia and the United States starting more than a half century ago. 
  <p class="updated_time"> 03:12 PM CT, Oct. 19 </p> 
  [Charges ‘unlikely’ for bystanders who failed to report rape say prosecutors](https://www.bbc.co.uk/news/world-us-canada-58949611?at_medium=RSS&at_campaign=KARANGA) BBC: A woman was assaulted by another passenger and some riders may have filmed the incident, police say. 
  <p class="updated_time"> 03:04 PM CT, Oct. 19 </p> 
@@ -74,8 +80,6 @@ permalink: /charts/news/
  [Austria driver sought after two migrants found dead on bus](https://www.bbc.co.uk/news/world-europe-58974624?at_medium=RSS&at_campaign=KARANGA) BBC: Austrian police are searching for the driver of a minibus after dozens were found crammed inside. 
  <p class="updated_time"> 12:48 PM CT, Oct. 19 </p> 
  [U.S. to Issue Migration Appeal to South American Nations](https://www.wsj.com/articles/u-s-to-issue-migration-appeal-to-south-american-nations-11634669545) WSJ: Secretary of State Antony Blinken, in a meeting in Colombia, will urge countries to share responsibility for migration patterns. 
- <p class="updated_time"> 12:33 PM CT, Oct. 19 </p> 
- [Covid: Moscow imposes new restrictions as infections soar](https://www.bbc.co.uk/news/world-europe-58966477?at_medium=RSS&at_campaign=KARANGA) BBC: Most of the over-60s in Russia's capital face months of lockdown as Covid deaths hit a new record. 
  <p class="updated_time"> 12:19 PM CT, Oct. 19 </p> 
  [School Attendance Falls for Homeless Students in N.Y.C. ](https://www.nytimes.com/2021/10/19/nyregion/new-york-city-homeless-school-attendance.html) NYT: Attendance rates for students living in shelters fell to just 73 percent in the first few weeks of the new school year, compared with around 90 percent for all students. 
  <p class="updated_time"> 11:52 AM CT, Oct. 19 </p> 
@@ -84,8 +88,6 @@ permalink: /charts/news/
  [Reluctance among Russians to get vaccinated has led to a surge in cases and deaths.](https://www.nytimes.com/2021/10/19/world/apathy-and-mistrust-leave-russia-facing-the-risks-of-a-low-vaccination-rate.html) NYT: NA 
  <p class="updated_time"> 10:22 AM CT, Oct. 19 </p> 
  [Afghanistan Withdrawal to Be Subject of State Department Investigation](https://www.wsj.com/articles/afghanistan-withdrawal-to-be-subject-of-state-department-investigation-11634671379) WSJ: The department’s internal watchdog told U.S. lawmakers it would review the handling of embassy planning, refugees and the special immigrant visa program. 
- <p class="updated_time"> 10:12 AM CT, Oct. 19 </p> 
- [Pornhub owner settles with Girls Do Porn victims over videos](https://www.bbc.co.uk/news/technology-58917993?at_medium=RSS&at_campaign=KARANGA) BBC: A group of 50 women sued MindGeek over a sex-trafficking operation by Girls Do Porn. 
  <p class="updated_time"> 10:12 AM CT, Oct. 19 </p> 
  [For Christian Aid Ministries, Charity in Haiti Turns to Chaos](https://www.nytimes.com/2021/10/17/world/americas/amish-missionary-group-kidnap.html) NYT: An organization based in Ohio and founded by Amish and Mennonites has been swept up in the violence roiling the country. 
  <p class="updated_time"> 10:09 AM CT, Oct. 19 </p> 
@@ -190,8 +192,6 @@ permalink: /charts/news/
  [Tunisians Recall Revolution Reluctantly, if at All: ‘It Just Faded Away’](https://www.nytimes.com/2021/10/17/world/middleeast/tunisia-revolution-memoro-monuments.html) NYT: When a monument to those killed in the 2011 uprising was recently damaged, few took notice or even cared in a town, and country, where there is now more regret than a wish to remember. 
  <p class="updated_time"> 08:12 AM CT, Oct. 17 </p> 
  [How a Stunning Lagoon in Spain Turned Into ‘Green Soup’](https://www.nytimes.com/2021/10/17/world/europe/spain-lagoon-pollution-mar-menor.html) NYT: Tons of dead fish have washed ashore in recent years from the Mar Menor, a once-crystalline lagoon on the Mediterranean coast that has become choked with algae. Farm pollution is mostly blamed. 
- <p class="updated_time"> 05:15 AM CT, Oct. 17 </p> 
- [South Korea Reconsiders a Rite of Manhood: The Draft](https://www.nytimes.com/2021/10/17/world/asia/south-korea-conscription.html) NYT: Military conscription has become less popular. The rules have loosened. But experts still worry about the threat from the North. 
  <p class="updated_time"> 07:50 AM CT, Oct. 13 </p> 
  [What is climate change? A really simple guide](https://www.bbc.co.uk/news/science-environment-24021772?at_medium=RSS&at_campaign=KARANGA) BBC: World temperatures are rising because of human activity, and climate change now threatens every aspect of human life. 
 
