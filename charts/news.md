@@ -6,10 +6,14 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 11:07 PM CT, Oct. 19 </p> 
+ [Bolsonaro's Pandemic Handling Draws Explosive Allegation: Homicide](https://www.nytimes.com/2021/10/19/world/americas/bolsonaro-covid-19-brazil.html) NYT: A Senate committee’s report initially recommended that Jair Bolsonaro be charged with mass homicide and genocide, after concluding that he had purposely let the coronavirus kill Brazilians in a failed bid for herd immunity. 
+ <p class="updated_time"> 11:06 PM CT, Oct. 19 </p> 
+ [Thousands Flee Myanmar for India Amid Fears of a Growing Refugee Crisis](https://www.nytimes.com/2021/10/19/world/asia/myanmar-refugees-india.html) NYT: For decades, armed conflict, political repression and targeted campaigns against minorities have forced hundreds of thousands of people to leave the country. Now many more are expected to follow. 
+ <p class="updated_time"> 10:54 PM CT, Oct. 19 </p> 
+ [Michael Slater: Australian ex-cricketer arrested over alleged domestic violence](https://www.bbc.co.uk/news/world-australia-58976768?at_medium=RSS&at_campaign=KARANGA) BBC: The former batsman was arrested in Sydney over an alleged domestic violence incident. 
  <p class="updated_time"> 10:34 PM CT, Oct. 19 </p> 
  [Steve Bannon: Lawmakers vote to hold ex-Trump aide in contempt](https://www.bbc.co.uk/news/world-us-canada-58976196?at_medium=RSS&at_campaign=KARANGA) BBC: Steve Bannon could be prosecuted for refusing to give evidence to lawmakers investigating the Capitol riot. 
- <p class="updated_time"> 10:30 PM CT, Oct. 19 </p> 
- [Bolsonaro's Pandemic Handling Draws Explosive Allegation: Homicide](https://www.nytimes.com/2021/10/19/world/americas/bolsonaro-covid-19-brazil.html) NYT: A long-awaited report from a panel of Brazilian senators concludes that Jair Bolsonaro purposely let the coronavirus kill Brazilians in a failed bid for herd immunity. 
  <p class="updated_time"> 10:29 PM CT, Oct. 19 </p> 
  [Your Wednesday Briefing](https://www.nytimes.com/2021/10/19/briefing/bolsanaro-coronavirus-myanmar-refugees.html) NYT: Calls to charge Bolsonaro with homicide. 
  <p class="updated_time"> 10:28 PM CT, Oct. 19 </p> 
@@ -18,8 +22,6 @@ permalink: /charts/news/
  [Medical Groups Declare Youth Mental Health Crisis](https://www.nytimes.com/2021/10/19/world/covid-pandemic-children-mental-health.html) NYT: Medical groups said the coronavirus pandemic worsened an already existing mental health crisis among children and teens. 
  <p class="updated_time"> 10:16 PM CT, Oct. 19 </p> 
  [IMF warns Afghanistan's economic slump will impact neighbours](https://www.bbc.co.uk/news/business-58950560?at_medium=RSS&at_campaign=KARANGA) BBC: Afghanistan's economic turmoil will fuel a refugee crisis impacting nearby countries, the fund warned. 
- <p class="updated_time"> 10:05 PM CT, Oct. 19 </p> 
- [Thousands Flee Myanmar for India Amid Fears of a Growing Refugee Crisis](https://www.nytimes.com/2021/10/19/world/asia/myanmar-refugees-india.html) NYT: For decades, armed conflict, political repression and targeted campaigns against minorities have forced hundreds of thousands of people to leave the country. Now many more are expected to follow. 
  <p class="updated_time"> 09:32 PM CT, Oct. 19 </p> 
  [North Korea claim test of new submarine-launched missile](https://www.bbc.co.uk/news/world-asia-58976195?at_medium=RSS&at_campaign=KARANGA) BBC: Pyongyang confirmed the test a day after South Korea detected a ballistic missile had been fired. 
  <p class="updated_time"> 08:34 PM CT, Oct. 19 </p> 
@@ -54,8 +56,6 @@ permalink: /charts/news/
  [Washington Hears Echoes of the ’50s and Worries: Is This a Cold War With China?](https://www.nytimes.com/2021/10/17/us/politics/china-new-cold-war.html) NYT: Incursions into Taiwan’s air zone, a space launch and what looked like a prisoner swap raise a question that is about more than just semantics. It could signal a dangerous new mind-set. 
  <p class="updated_time"> 05:13 PM CT, Oct. 19 </p> 
  [Transgender U.S. Public Health Official Breaks Ground in Covid Fight](https://www.nytimes.com/2021/10/19/us/politics/rachel-levine-public-health-transgender.html) NYT: Admiral Rachel Levine is the first female four-star admiral in the history of the he U.S. Public Health Service Commissioned Corps, which she already leads in her role as assistant secretary. 
- <p class="updated_time"> 04:23 PM CT, Oct. 19 </p> 
- [Credit Suisse fined over Mozambique tuna scandal](https://www.bbc.co.uk/news/business-58974089?at_medium=RSS&at_campaign=KARANGA) BBC: Bank to pay £147m fine to UK authorities as part of wider settlement over a corruption scandal. 
  <p class="updated_time"> 03:45 PM CT, Oct. 19 </p> 
  [Your Wednesday Briefing](https://www.nytimes.com/2021/10/19/briefing/australia-vaccines-evergrande-china-myanmar.html) NYT: Vaccine milestones in Australia and on tiny Pacific islands. 
  <p class="updated_time"> 03:44 PM CT, Oct. 19 </p> 
@@ -113,7 +113,7 @@ permalink: /charts/news/
  <p class="updated_time"> 05:49 AM CT, Oct. 19 </p> 
  [Gangs Threaten to Tip Haiti Into a Failed State](https://www.wsj.com/articles/gangs-threaten-to-tip-haiti-into-a-failed-state-11634654955) WSJ: Criminal rings, like the one that kidnapped American missionaries, control as much as two-thirds of Haiti, a lawless scenario that threatens regional stability. 
  <p class="updated_time"> 04:48 AM CT, Oct. 19 </p> 
- [Is Brexit Hurting the U.K. Economy? Trade Data Flashes a Warning](https://www.wsj.com/articles/is-brexit-hurting-the-u-k-economy-trade-export-import-european-union-england-11634651205) WSJ: The recovery is sputtering and some exporters say their separation from the European Union is the culprit; “harder, slower, more expensive, more difficult.” 
+ [Is Brexit Hurting the U.K. Economy? Trade Data Flash a Warning](https://www.wsj.com/articles/is-brexit-hurting-the-u-k-economy-trade-export-import-european-union-england-11634651205) WSJ: The recovery is sputtering and some exporters say their separation from the European Union is the culprit; “harder, slower, more expensive, more difficult.” 
  <p class="updated_time"> 04:39 AM CT, Oct. 19 </p> 
  [Xi Faces Resistance to Property Tax Planned to Combat China's Real-Estate Bubble](https://www.wsj.com/articles/in-tackling-chinas-real-estate-bubble-xi-jinping-faces-resistance-to-property-tax-plan-11634650751) WSJ: Chinese President Xi Jinping is facing strong resistance over a nationwide property-tax plan meant to help curb housing speculation, and he is now settling for a more limited rollout, people familiar with the matter said. 
  <p class="updated_time"> 03:18 AM CT, Oct. 19 </p> 
