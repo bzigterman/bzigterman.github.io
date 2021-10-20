@@ -6,12 +6,14 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 03:16 AM CT, Oct. 20 </p> 
+ [Bolsonaro's Pandemic Response Draws Claim of Crimes Against Humanity ](https://www.nytimes.com/2021/10/19/world/americas/bolsonaro-covid-19-brazil.html) NYT: A report from lawmakers initially said Jair Bolsonaro should be charged with mass homicide and genocide, accusing him of letting Covid-19 spread in a failed bid for herd immunity. 
+ <p class="updated_time"> 03:09 AM CT, Oct. 20 </p> 
+ [Steve Bannon: Lawmakers vote to hold ex-Trump aide in contempt](https://www.bbc.co.uk/news/world-us-canada-58976196?at_medium=RSS&at_campaign=KARANGA) BBC: Steve Bannon could be prosecuted for refusing to give evidence to lawmakers investigating the Capitol riot. 
  <p class="updated_time"> 02:35 AM CT, Oct. 20 </p> 
  [Medical Groups Declare Youth Mental Health Crisis](https://www.nytimes.com/2021/10/19/world/covid-pandemic-children-mental-health.html) NYT: Medical groups said the coronavirus pandemic had worsened a mental health crisis among children and teenagers. 
  <p class="updated_time"> 02:23 AM CT, Oct. 20 </p> 
  [Syria: Deadly blast on military bus in Damascus](https://www.bbc.co.uk/news/world-middle-east-58930309?at_medium=RSS&at_campaign=KARANGA) BBC: At least 13 people are reported to have died in the bloodiest attack in the Syrian capital in years. 
- <p class="updated_time"> 01:49 AM CT, Oct. 20 </p> 
- [Bolsonaro's Pandemic Response Draws Claim of Crimes Against Humanity ](https://www.nytimes.com/2021/10/19/world/americas/bolsonaro-covid-19-brazil.html) NYT: A report from lawmakers initially said Jair Bolsonaro should be charged with mass homicide and genocide, accusing him of letting Covid-19 spread in a failed bid for herd immunity. 
  <p class="updated_time"> 01:35 AM CT, Oct. 20 </p> 
  [Covid: Brazil's Bolsonaro 'should be charged with crimes against humanity'](https://www.bbc.co.uk/news/world-latin-america-58976197?at_medium=RSS&at_campaign=KARANGA) BBC: A major inquiry is presenting its final findings into the Brazilian leader's handling of the Covid-19 pandemic. 
  <p class="updated_time"> 11:48 PM CT, Oct. 19 </p> 
@@ -22,8 +24,6 @@ permalink: /charts/news/
  [Thousands Flee Myanmar for India Amid Fears of a Growing Refugee Crisis](https://www.nytimes.com/2021/10/19/world/asia/myanmar-refugees-india.html) NYT: For decades, armed conflict, political repression and targeted campaigns against minorities have forced hundreds of thousands of people to leave the country. Now many more are expected to follow. 
  <p class="updated_time"> 10:54 PM CT, Oct. 19 </p> 
  [Michael Slater: Australian ex-cricketer arrested over alleged domestic violence](https://www.bbc.co.uk/news/world-australia-58976768?at_medium=RSS&at_campaign=KARANGA) BBC: The former batsman was arrested in Sydney over an alleged domestic violence incident. 
- <p class="updated_time"> 10:34 PM CT, Oct. 19 </p> 
- [Steve Bannon: Lawmakers vote to hold ex-Trump aide in contempt](https://www.bbc.co.uk/news/world-us-canada-58976196?at_medium=RSS&at_campaign=KARANGA) BBC: Steve Bannon could be prosecuted for refusing to give evidence to lawmakers investigating the Capitol riot. 
  <p class="updated_time"> 10:28 PM CT, Oct. 19 </p> 
  [Britain Outlines Energy Plans Amid Dimming Prospects for Climate Summit](https://www.nytimes.com/2021/10/19/world/europe/britain-climate-change-cop26.html) NYT: In an effort to recapture momentum, Prime Minister Boris Johnson  announced a host of measures, including plans for a big expansion of electric vehicles, more offshore wind power and greater use of hydrogen. 
  <p class="updated_time"> 10:16 PM CT, Oct. 19 </p> 
