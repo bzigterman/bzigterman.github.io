@@ -6,8 +6,14 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 06:19 PM CT, Oct. 20 </p> 
+ [How green politics are changing Europe](https://www.bbc.co.uk/news/world-europe-58910712?at_medium=RSS&at_campaign=KARANGA) BBC: The Greens performed well in German elections but they are having to adapt their policies to succeed. 
  <p class="updated_time"> 06:14 PM CT, Oct. 20 </p> 
  [China: The patriotic 'ziganwu' bloggers who attack the West](https://www.bbc.co.uk/news/world-asia-china-58922011?at_medium=RSS&at_campaign=KARANGA) BBC: Their scathing posts have shot them to fame amid rising nationalist fervour - but they toe a fine line. 
+ <p class="updated_time"> 06:12 PM CT, Oct. 20 </p> 
+ [God and robots: Will AI transform religion?](https://www.bbc.co.uk/news/technology-58983047?at_medium=RSS&at_campaign=KARANGA) BBC: Robot "priests" can recite prayers, perform funerals, and even comfort those experiencing a spiritual crisis. 
+ <p class="updated_time"> 06:07 PM CT, Oct. 20 </p> 
+ [The remote British island hoping to see more visitors](https://www.bbc.co.uk/news/business-58966376?at_medium=RSS&at_campaign=KARANGA) BBC: The territory of St Helena, which has remained coronavirus-free, wants a big rise in tourists. 
  <p class="updated_time"> 06:03 PM CT, Oct. 20 </p> 
  [Covid: WHO warns pandemic will drag on into 2022](https://www.bbc.co.uk/news/health-58973697?at_medium=RSS&at_campaign=KARANGA) BBC: Slow vaccine supply to poorer nations means the crisis will last longer than it needs to, experts say. 
  <p class="updated_time"> 05:52 PM CT, Oct. 20 </p> 
@@ -134,8 +140,6 @@ permalink: /charts/news/
  [Sudan on the brink amid scramble for democracy](https://www.bbc.co.uk/news/world-africa-58970193?at_medium=RSS&at_campaign=KARANGA) BBC: A power-sharing deal between the military and civilians is under pressure with concerns of violence. 
  <p class="updated_time"> 06:23 PM CT, Oct. 19 </p> 
  [Ros Atkins on… Europe's climate challenge](https://www.bbc.co.uk/news/science-environment-58970153?at_medium=RSS&at_campaign=KARANGA) BBC: Ros Atkins looks at how Europe is getting to grips with its emissions problem. 
- <p class="updated_time"> 06:22 PM CT, Oct. 19 </p> 
- [Capitol riots officer: The moment the mob took me](https://www.bbc.co.uk/news/world-us-canada-58973555?at_medium=RSS&at_campaign=KARANGA) BBC: Video from outside the Capitol shows police officer Mike Fanone scream as he was tasered in the head. 
  <p class="updated_time"> 06:20 PM CT, Oct. 19 </p> 
  [Myanmar: Mass release of political prisoners](https://www.bbc.co.uk/news/world-asia-58976296?at_medium=RSS&at_campaign=KARANGA) BBC: Some of the political prisoners released by the authorities in Myanmar describe how they endured life in jail. 
  <p class="updated_time"> 06:18 PM CT, Oct. 19 </p> 
