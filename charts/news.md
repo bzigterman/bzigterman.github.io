@@ -6,12 +6,12 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 02:23 AM CT, Oct. 20 </p> 
+ [Syria: Deadly blast on military bus in Damascus](https://www.bbc.co.uk/news/world-middle-east-58930309?at_medium=RSS&at_campaign=KARANGA) BBC: At least 13 people are reported to have died in the bloodiest attack in the Syrian capital in years. 
  <p class="updated_time"> 01:49 AM CT, Oct. 20 </p> 
  [Bolsonaro's Pandemic Response Draws Claim of Crimes Against Humanity ](https://www.nytimes.com/2021/10/19/world/americas/bolsonaro-covid-19-brazil.html) NYT: A report from lawmakers initially said Jair Bolsonaro should be charged with mass homicide and genocide, accusing him of letting Covid-19 spread in a failed bid for herd immunity. 
- <p class="updated_time"> 01:40 AM CT, Oct. 20 </p> 
- [Syria: Deadly blast on military bus in Damascus](https://www.bbc.co.uk/news/world-middle-east-58930309?at_medium=RSS&at_campaign=KARANGA) BBC: At least 13 people are reported to have died in the bloodiest attack in the Syrian capital in years. 
  <p class="updated_time"> 01:35 AM CT, Oct. 20 </p> 
- [Covid: Brazil's President Bolsonaro accused of crimes against humanity](https://www.bbc.co.uk/news/world-latin-america-58976197?at_medium=RSS&at_campaign=KARANGA) BBC: A major inquiry is presenting its final findings into the Brazilian leader's handling of the Covid-19 pandemic. 
+ [Covid: Brazil's Bolsonaro 'should be charged with crimes against humanity'](https://www.bbc.co.uk/news/world-latin-america-58976197?at_medium=RSS&at_campaign=KARANGA) BBC: A major inquiry is presenting its final findings into the Brazilian leader's handling of the Covid-19 pandemic. 
  <p class="updated_time"> 11:48 PM CT, Oct. 19 </p> 
  [Your Wednesday Briefing](https://www.nytimes.com/2021/10/19/briefing/bolsanaro-coronavirus-myanmar-refugees.html) NYT: Calls to charge Bolsonaro with crimes against humanity. 
  <p class="updated_time"> 11:21 PM CT, Oct. 19 </p> 
@@ -117,7 +117,7 @@ permalink: /charts/news/
  <p class="updated_time"> 04:48 AM CT, Oct. 19 </p> 
  [Is Brexit Hurting the U.K. Economy? Trade Data Flash a Warning](https://www.wsj.com/articles/is-brexit-hurting-the-u-k-economy-trade-export-import-european-union-england-11634651205) WSJ: The recovery is sputtering and some exporters say their separation from the European Union is the culprit; “harder, slower, more expensive, more difficult.” 
  <p class="updated_time"> 04:39 AM CT, Oct. 19 </p> 
- [Xi Faces Resistance to Property Tax Planned to Combat China's Real-Estate Bubble](https://www.wsj.com/articles/in-tackling-chinas-real-estate-bubble-xi-jinping-faces-resistance-to-property-tax-plan-11634650751) WSJ: Chinese President Xi Jinping is facing strong resistance over a nationwide property-tax plan meant to help curb housing speculation, and he is now settling for a more limited rollout, people familiar with the matter said. 
+ [Xi Faces Pushback on China's Bid to Tax Property](https://www.wsj.com/articles/in-tackling-chinas-real-estate-bubble-xi-jinping-faces-resistance-to-property-tax-plan-11634650751) WSJ: Chinese President Xi Jinping is facing strong resistance over a nationwide property-tax plan meant to help curb housing speculation, and he is now settling for a more limited rollout, people familiar with the matter said. 
  <p class="updated_time"> 03:18 AM CT, Oct. 19 </p> 
  [ Russia's Low Vaccination Rates Leads to Record-Breaking Toll](https://www.nytimes.com/2021/10/18/world/europe/russia-virus-vaccine.html) NYT: The country hit 1,000 deaths in a 24-hour period for the first time since the pandemic began, reflecting the risks of having a low vaccination rate. 
  <p class="updated_time"> 02:49 AM CT, Oct. 19 </p> 
