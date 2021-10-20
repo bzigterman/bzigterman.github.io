@@ -6,10 +6,12 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 02:40 PM CT, Oct. 20 </p> 
+ [Brazil Senate’s Pandemic Panel, in Last-Minute Shift, Softened Criminal Recommendations on Bolsonaro](https://www.nytimes.com/2021/10/20/world/americas/bolsonaro-pandemic-inquiry-crimes.html) NYT: Senators on the 11-member panel had second thoughts about the provability of homicide and genocide charges. Instead, they accused the president of “crimes against humanity.” 
  <p class="updated_time"> 02:15 PM CT, Oct. 20 </p> 
  [Gates Foundation Pledges $120 Million to Help Get Merck Covid Pills to Poor Countries](https://www.nytimes.com/2021/10/20/health/covid-molnupiravir-gates-foundation.html) NYT: Regulatory hurdles and supply chain issues could slow efforts to produce generic versions of Merck’s antiviral molnupiravir for developing nations, despite licensing agreements. 
  <p class="updated_time"> 02:11 PM CT, Oct. 20 </p> 
- [Iran Plans to Abandon One of Its Homegrown Covid Shots](https://www.nytimes.com/2021/10/20/world/iran-covid-vaccine.html) NYT: The defense ministry said there was too little demand for its Fakhravac vaccine to justify producing it, and blamed the health ministry for reneging on promised orders. 
+ [Iran Plans to Abandon One of Its Homegrown Covid Shots](https://www.nytimes.com/2021/10/20/world/iran-covid-vaccine-fakhravac.html) NYT: The defense ministry said there was too little demand for its Fakhravac vaccine to justify producing it, and blamed the health ministry for reneging on promised orders. 
  <p class="updated_time"> 01:59 PM CT, Oct. 20 </p> 
  [Those Gifts You Want for the Holidays? Don’t Wait Too Long.](https://www.nytimes.com/2021/10/19/business/supply-chain-holidays.html) NYT: The supply chain disruption is shorthand for problems from factory closures to workers who are not working anymore. 
  <p class="updated_time"> 01:58 PM CT, Oct. 20 </p> 
@@ -30,6 +32,8 @@ permalink: /charts/news/
  [Russia Introduces Weeklong Office Shutdown After Covid Deaths Rise](https://www.nytimes.com/2021/10/20/world/europe/russia-covid-restrictions.html) NYT: The measure, meant to slow the spread of the coronavirus, is short of a full lockdown and only affects nonessential workers. 
  <p class="updated_time"> 12:29 PM CT, Oct. 20 </p> 
  [Britain Outlines Energy Plans Amid Dimming Prospects for Climate Summit](https://www.nytimes.com/2021/10/19/world/europe/britain-climate-change-cop26.html) NYT: In an effort to recapture momentum, Prime Minister Boris Johnson  announced a host of measures, including plans for a big expansion of electric vehicles, more offshore wind power and greater use of hydrogen. 
+ <p class="updated_time"> 12:27 PM CT, Oct. 20 </p> 
+ [Flooding death toll passes 100 in Nepal and India's Uttarakhand](https://www.bbc.co.uk/news/world-asia-india-58951456?at_medium=RSS&at_campaign=KARANGA) BBC: Heavy rain triggers flash floods in India's northern state of Uttarakhand and parts of Nepal. 
  <p class="updated_time"> 12:22 PM CT, Oct. 20 </p> 
  [Spanish Court Agrees to Extradite Former Venezuela Spy Chief to U.S.](https://www.nytimes.com/2021/10/20/world/europe/spain-extradite-carvajal-venezuela.html) NYT: Hugo Carvajal, once a prominent figure in the government of the Venezuelan leader Nicolás Maduro, faces drug-trafficking charges in the United States. 
  <p class="updated_time"> 12:20 PM CT, Oct. 20 </p> 
@@ -186,8 +190,6 @@ permalink: /charts/news/
  [The shortages hitting countries around the world](https://www.bbc.co.uk/news/explainers-58868636?at_medium=RSS&at_campaign=KARANGA) BBC: People and businesses across the world are facing shortages of everything from coal to coffee. 
  <p class="updated_time"> 11:47 AM CT, Oct. 18 </p> 
  [In Hungary’s Heartland, Orban Faces a Unified Challenge to His Rule](https://www.nytimes.com/2021/10/18/world/europe/hungary-viktor-orban-election.html) NYT: The country’s normally fractious opposition has rallied around a conservative mayor who just might be able to oust the authoritarian prime minister after more than a decade. 
- <p class="updated_time"> 11:13 AM CT, Oct. 18 </p> 
- [Hello? This Is Colombia’s Antimachismo Hotline.](https://www.nytimes.com/2021/10/18/world/americas/colombia-machismo-hotline-masculinity.html) NYT: A new hotline in Bogotá takes calls from men struggling with jealousy, control and fear — and challenges long-held assumptions about masculinity. 
  <p class="updated_time"> 07:30 AM CT, Oct. 18 </p> 
  [COP26: Does a climate summit need 25,000 people? And more questions](https://www.bbc.co.uk/news/science-environment-58925049?at_medium=RSS&at_campaign=KARANGA) BBC: BBC science correspondent Matt McGrath answers your questions about Glasgow's COP26 climate summit. 
  <p class="updated_time"> 06:56 PM CT, Oct. 17 </p> 
