@@ -6,6 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 02:46 PM CT, Oct. 20 </p> 
+ [Paris Hilton: I couldn't sleep for 20 years from memories of youth care abuse](https://www.bbc.co.uk/news/world-us-canada-58988263?at_medium=RSS&at_campaign=KARANGA) BBC: Paris Hilton alleges she was strangled, slapped and watched in the shower while in a youth care facility. 
  <p class="updated_time"> 02:40 PM CT, Oct. 20 </p> 
  [Brazil Senate’s Pandemic Panel, in Last-Minute Shift, Softened Criminal Recommendations on Bolsonaro](https://www.nytimes.com/2021/10/20/world/americas/bolsonaro-pandemic-inquiry-crimes.html) NYT: Senators on the 11-member panel had second thoughts about the provability of homicide and genocide charges. Instead, they accused the president of “crimes against humanity.” 
  <p class="updated_time"> 02:15 PM CT, Oct. 20 </p> 
@@ -126,8 +128,6 @@ permalink: /charts/news/
  [Sudan on the brink amid scramble for democracy](https://www.bbc.co.uk/news/world-africa-58970193?at_medium=RSS&at_campaign=KARANGA) BBC: A power-sharing deal between the military and civilians is under pressure with concerns of violence. 
  <p class="updated_time"> 06:23 PM CT, Oct. 19 </p> 
  [Ros Atkins on… Europe's climate challenge](https://www.bbc.co.uk/news/science-environment-58970153?at_medium=RSS&at_campaign=KARANGA) BBC: Ros Atkins looks at how Europe is getting to grips with its emissions problem. 
- <p class="updated_time"> 06:22 PM CT, Oct. 19 </p> 
- [Capitol riots officer: The moment the mob took me](https://www.bbc.co.uk/news/world-us-canada-58973555?at_medium=RSS&at_campaign=KARANGA) BBC: Video from outside the Capitol shows police officer Mike Fanone scream as he was tasered in the head. 
  <p class="updated_time"> 06:20 PM CT, Oct. 19 </p> 
  [Myanmar: Mass release of political prisoners](https://www.bbc.co.uk/news/world-asia-58976296?at_medium=RSS&at_campaign=KARANGA) BBC: Some of the political prisoners released by the authorities in Myanmar describe how they endured life in jail. 
  <p class="updated_time"> 06:18 PM CT, Oct. 19 </p> 
