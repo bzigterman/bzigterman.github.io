@@ -6,6 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 05:39 PM CT, Oct. 20 </p> 
+ [Covid Cases Rise in Some Caribbean Islands, W.H.O. Says](https://www.nytimes.com/2021/10/20/world/covid-caribbean-paho.html) NYT: Many nations and territories in the region have had trouble rolling out vaccination drives and need to ramp up testing, officials said. 
  <p class="updated_time"> 05:06 PM CT, Oct. 20 </p> 
  [UK agrees free trade deal with New Zealand](https://www.bbc.co.uk/news/business-58988711?at_medium=RSS&at_campaign=KARANGA) BBC: The government says consumers and businesses will benefit from deal, but it is unlikely to boost growth. 
  <p class="updated_time"> 05:00 PM CT, Oct. 20 </p> 
@@ -182,8 +184,6 @@ permalink: /charts/news/
  [What Scientists Know About the Risk of Breakthrough Covid Deaths](https://www.nytimes.com/2021/10/18/health/coronavirus-vaccine-powell-breakthrough.html) NYT: Deaths among people who have been fully vaccinated remain rare, but older adults and those with compromised immune systems are at much higher risk. 
  <p class="updated_time"> 03:56 PM CT, Oct. 18 </p> 
  [Your Tuesday Briefing](https://www.nytimes.com/2021/10/18/briefing/russia-covid-nato-china-banks.html) NYT: Russia hits a Covid death record. 
- <p class="updated_time"> 12:31 PM CT, Oct. 18 </p> 
- [Showdown Over Northern Ireland Has a Key Offstage Player: Biden](https://www.nytimes.com/2021/10/18/world/europe/ireland-biden-eu-uk.html) NYT: As the U.K. and the European Union begin their wrangling over details of trade with Northern Ireland, President Biden has more than a passing interest in the final result. 
  <p class="updated_time"> 12:25 PM CT, Oct. 18 </p> 
  [The shortages hitting countries around the world](https://www.bbc.co.uk/news/explainers-58868636?at_medium=RSS&at_campaign=KARANGA) BBC: People and businesses across the world are facing shortages of everything from coal to coffee. 
  <p class="updated_time"> 07:30 AM CT, Oct. 18 </p> 
