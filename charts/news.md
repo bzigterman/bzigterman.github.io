@@ -6,6 +6,10 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 06:14 PM CT, Oct. 20 </p> 
+ [China: The patriotic 'ziganwu' bloggers who attack the West](https://www.bbc.co.uk/news/world-asia-china-58922011?at_medium=RSS&at_campaign=KARANGA) BBC: Their scathing posts have shot them to fame amid rising nationalist fervour - but they toe a fine line. 
+ <p class="updated_time"> 06:03 PM CT, Oct. 20 </p> 
+ [Covid: WHO warns pandemic will drag on into 2022](https://www.bbc.co.uk/news/health-58973697?at_medium=RSS&at_campaign=KARANGA) BBC: Slow vaccine supply to poorer nations means the crisis will last longer than it needs to, experts say. 
  <p class="updated_time"> 05:52 PM CT, Oct. 20 </p> 
  [Gabby Petito: 'Human remains' found in Brian Laundrie search](https://www.bbc.co.uk/news/world-us-canada-58989242?at_medium=RSS&at_campaign=KARANGA) BBC: Items owned by Gabby Petito's missing fiancé and apparent human remains have been found in Florida. 
  <p class="updated_time"> 05:39 PM CT, Oct. 20 </p> 
@@ -90,8 +94,6 @@ permalink: /charts/news/
  [The Olympic Torch Arrives in Beijing Under Cloud of Protests, Covid](https://www.nytimes.com/2021/10/20/world/asia/olympics-torch-china-covid-protest.html) NYT: A subdued ceremony in Beijing on Wednesday sets the tone for the Winter Olympics of 2022, which will be held under extraordinary health protocols. 
  <p class="updated_time"> 07:59 AM CT, Oct. 20 </p> 
  [COP26: Russia's Vladimir Putin will not attend climate summit](https://www.bbc.co.uk/news/world-europe-58977993?at_medium=RSS&at_campaign=KARANGA) BBC: No reason was given for the Russian leader's decision not to attend the conference in Glasgow. 
- <p class="updated_time"> 07:14 AM CT, Oct. 20 </p> 
- [Egyptian man arrested after broadcasting face during robbery](https://www.bbc.co.uk/news/world-middle-east-58980533?at_medium=RSS&at_campaign=KARANGA) BBC: The Egyptian man accidentally showed his face after stealing a journalist's phone mid-livestream. 
  <p class="updated_time"> 06:57 AM CT, Oct. 20 </p> 
  [Taliban Allow Polio Vaccine Program to Restart in Afghanistan](https://www.nytimes.com/2021/10/19/world/asia/taliban-polio-vaccines-afghanistan.html) NYT: Taliban leaders also agreed to allow women to be frontline workers for the effort, according to the World Health Organization and UNICEF. 
  <p class="updated_time"> 06:48 AM CT, Oct. 20 </p> 
@@ -184,8 +186,6 @@ permalink: /charts/news/
  [What Scientists Know About the Risk of Breakthrough Covid Deaths](https://www.nytimes.com/2021/10/18/health/coronavirus-vaccine-powell-breakthrough.html) NYT: Deaths among people who have been fully vaccinated remain rare, but older adults and those with compromised immune systems are at much higher risk. 
  <p class="updated_time"> 03:56 PM CT, Oct. 18 </p> 
  [Your Tuesday Briefing](https://www.nytimes.com/2021/10/18/briefing/russia-covid-nato-china-banks.html) NYT: Russia hits a Covid death record. 
- <p class="updated_time"> 12:25 PM CT, Oct. 18 </p> 
- [The shortages hitting countries around the world](https://www.bbc.co.uk/news/explainers-58868636?at_medium=RSS&at_campaign=KARANGA) BBC: People and businesses across the world are facing shortages of everything from coal to coffee. 
  <p class="updated_time"> 07:30 AM CT, Oct. 18 </p> 
  [COP26: Does a climate summit need 25,000 people? And more questions](https://www.bbc.co.uk/news/science-environment-58925049?at_medium=RSS&at_campaign=KARANGA) BBC: BBC science correspondent Matt McGrath answers your questions about Glasgow's COP26 climate summit. 
  <p class="updated_time"> 06:56 PM CT, Oct. 17 </p> 
