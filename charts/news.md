@@ -6,6 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 02:35 AM CT, Oct. 20 </p> 
+ [Medical Groups Declare Youth Mental Health Crisis](https://www.nytimes.com/2021/10/19/world/covid-pandemic-children-mental-health.html) NYT: Medical groups said the coronavirus pandemic had worsened a mental health crisis among children and teenagers. 
  <p class="updated_time"> 02:23 AM CT, Oct. 20 </p> 
  [Syria: Deadly blast on military bus in Damascus](https://www.bbc.co.uk/news/world-middle-east-58930309?at_medium=RSS&at_campaign=KARANGA) BBC: At least 13 people are reported to have died in the bloodiest attack in the Syrian capital in years. 
  <p class="updated_time"> 01:49 AM CT, Oct. 20 </p> 
@@ -24,8 +26,6 @@ permalink: /charts/news/
  [Steve Bannon: Lawmakers vote to hold ex-Trump aide in contempt](https://www.bbc.co.uk/news/world-us-canada-58976196?at_medium=RSS&at_campaign=KARANGA) BBC: Steve Bannon could be prosecuted for refusing to give evidence to lawmakers investigating the Capitol riot. 
  <p class="updated_time"> 10:28 PM CT, Oct. 19 </p> 
  [Britain Outlines Energy Plans Amid Dimming Prospects for Climate Summit](https://www.nytimes.com/2021/10/19/world/europe/britain-climate-change-cop26.html) NYT: In an effort to recapture momentum, Prime Minister Boris Johnson  announced a host of measures, including plans for a big expansion of electric vehicles, more offshore wind power and greater use of hydrogen. 
- <p class="updated_time"> 10:17 PM CT, Oct. 19 </p> 
- [Medical Groups Declare Youth Mental Health Crisis](https://www.nytimes.com/2021/10/19/world/covid-pandemic-children-mental-health.html) NYT: Medical groups said the coronavirus pandemic worsened an already existing mental health crisis among children and teens. 
  <p class="updated_time"> 10:16 PM CT, Oct. 19 </p> 
  [IMF warns Afghanistan's economic slump will impact neighbours](https://www.bbc.co.uk/news/business-58950560?at_medium=RSS&at_campaign=KARANGA) BBC: Afghanistan's economic turmoil will fuel a refugee crisis impacting nearby countries, the fund warned. 
  <p class="updated_time"> 09:32 PM CT, Oct. 19 </p> 
