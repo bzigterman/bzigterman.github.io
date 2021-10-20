@@ -6,6 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 09:45 AM CT, Oct. 20 </p> 
+ [Putin Won’t Go to Glasgow for Climate Conference](https://www.nytimes.com/2021/10/20/world/europe/putin-glasgow-climate-conference-cop26.html) NYT: President Vladimir V. Putin of Russia may make a speech by video at the United Nations summit, which is seen as pivotal in efforts to stem climate change. 
  <p class="updated_time"> 09:44 AM CT, Oct. 20 </p> 
  [Heavy Rains in India and Nepal Kill Dozens](https://www.nytimes.com/2021/10/20/world/asia/india-nepal-floods-landslides.html) NYT: The death toll continued to rise on Wednesday as landslides and flooding damaged homes and stranded thousands of people. 
  <p class="updated_time"> 09:36 AM CT, Oct. 20 </p> 
@@ -20,8 +22,6 @@ permalink: /charts/news/
  [Gates Foundation Pledges $120 Million to Help Get Covid Pills Quickly to Poor Countries](https://www.nytimes.com/2021/10/20/health/covid-molnupiravir-gates-foundation.html) NYT: Regulatory hurdles and supply chain issues could slow efforts to produce generic versions of Merck’s antiviral molnupiravir for developing nations, despite licensing agreements. 
  <p class="updated_time"> 08:48 AM CT, Oct. 20 </p> 
  [De Blasio Announces Vaccine Mandate for All City Workers](https://www.nytimes.com/2021/10/20/nyregion/new-york-city-vaccine-mandate.html) NYT: The new mandate will apply to more than 160,000 employees, including police officers, firefighters and sanitation workers, whose vaccination rates have lagged. 
- <p class="updated_time"> 08:33 AM CT, Oct. 20 </p> 
- [Putin Won’t Go to Glasgow for Climate Conference](https://www.nytimes.com/2021/10/20/world/europe/putin-glasgow-climate-conference-cop26.html) NYT: President Vladimir V. Putin of Russia may make a speech by video at the United Nations summit, which is seen as pivotal in efforts to stem climate change. 
  <p class="updated_time"> 08:06 AM CT, Oct. 20 </p> 
  [The Olympic Torch Arrives in Beijing Under Cloud of Protests, Covid](https://www.nytimes.com/2021/10/20/world/asia/olympics-torch-china-covid-protest.html) NYT: A subdued ceremony in Beijing on Wednesday sets the tone for the Winter Olympics of 2022, which will be held under extraordinary health protocols. 
  <p class="updated_time"> 07:59 AM CT, Oct. 20 </p> 
@@ -48,6 +48,8 @@ permalink: /charts/news/
  [Queen ‘Reluctantly’ Cancels Trip, Citing Medical Advice](https://www.nytimes.com/2021/10/20/world/europe/queen-elizabeth-northern-ireland.html) NYT: Britain’s 95-year-old monarch will not travel to Northern Ireland but is “in good spirits,” Buckingham Palace said. 
  <p class="updated_time"> 06:12 AM CT, Oct. 20 </p> 
  [Transgender Woman Flees Malaysia After Wearing Hijab](https://www.nytimes.com/2021/10/20/world/asia/malaysia-transgender.html) NYT: The Islamic authorities want to imprison her for wearing female clothing at a religious event and threatened to put her in a rehabilitation camp where she could “return to the right path.” 
+ <p class="updated_time"> 05:37 AM CT, Oct. 20 </p> 
+ [China Takes the Brakes Off Coal Production to Tackle Power Shortage](https://www.wsj.com/articles/china-takes-the-brakes-off-coal-production-to-tackle-power-shortage-11634727835) WSJ: The nation has ordered all coal mines to operate at full capacity, issued approvals for new mines and ordered major coal production bases in north and northwestern China to lower prices. 
  <p class="updated_time"> 05:25 AM CT, Oct. 20 </p> 
  [Where Are the Workers?](https://www.nytimes.com/2021/10/20/briefing/labor-shortage-us-low-wage-economy.html) NYT: How can so many Americans afford not to work? And will it last? 
  <p class="updated_time"> 04:43 AM CT, Oct. 20 </p> 
@@ -70,8 +72,6 @@ permalink: /charts/news/
  [Queen Elizabeth Cancels Trip, Rests on Medical Advice](https://www.wsj.com/articles/queen-elizabeth-cancels-trip-rests-on-medical-advice-11634730185) WSJ: The queen called off a visit to Northern Ireland after doctors advised her to rest for a few days, a rare case in which Britain’s longest-serving monarch has had to step back from public duties owing to ill health. 
  <p class="updated_time"> 02:35 AM CT, Oct. 20 </p> 
  [Medical Groups Declare Youth Mental Health Crisis](https://www.nytimes.com/2021/10/19/world/covid-pandemic-children-mental-health.html) NYT: Medical groups said the coronavirus pandemic had worsened a mental health crisis among children and teenagers. 
- <p class="updated_time"> 02:03 AM CT, Oct. 20 </p> 
- [China Takes the Brakes Off Coal Production to Tackle Power Shortage](https://www.wsj.com/articles/china-takes-the-brakes-off-coal-production-to-tackle-power-shortage-11634727835) WSJ: The nation has ordered all coal mines to operate at full capacity, issued approvals for new mines and ordered major coal production bases in north and northwestern China to lower prices. 
  <p class="updated_time"> 01:35 AM CT, Oct. 20 </p> 
  [Covid: Brazil's Bolsonaro 'should be charged with crimes against humanity'](https://www.bbc.co.uk/news/world-latin-america-58976197?at_medium=RSS&at_campaign=KARANGA) BBC: A big inquiry is presenting final findings into the Brazilian leader's handling of the Covid-19 pandemic. 
  <p class="updated_time"> 12:05 AM CT, Oct. 20 </p> 
