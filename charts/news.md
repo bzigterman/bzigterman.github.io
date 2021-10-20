@@ -6,14 +6,16 @@ permalink: /charts/news/
 
 ## World News
 
- <p class="updated_time"> 01:12 AM CT, Oct. 20 </p> 
- [Syria: Deadly blast on military bus in Damascus](https://www.bbc.co.uk/news/world-middle-east-58930309?at_medium=RSS&at_campaign=KARANGA) BBC: At least 13 people are reported to have died in an attack on a military vehicle in Syria's capital. 
+ <p class="updated_time"> 01:49 AM CT, Oct. 20 </p> 
+ [Bolsonaro's Pandemic Response Draws Claim of Crimes Against Humanity ](https://www.nytimes.com/2021/10/19/world/americas/bolsonaro-covid-19-brazil.html) NYT: A report from lawmakers initially said Jair Bolsonaro should be charged with mass homicide and genocide, accusing him of letting Covid-19 spread in a failed bid for herd immunity. 
+ <p class="updated_time"> 01:40 AM CT, Oct. 20 </p> 
+ [Syria: Deadly blast on military bus in Damascus](https://www.bbc.co.uk/news/world-middle-east-58930309?at_medium=RSS&at_campaign=KARANGA) BBC: At least 13 people are reported to have died in the bloodiest attack in the Syrian capital in years. 
+ <p class="updated_time"> 01:35 AM CT, Oct. 20 </p> 
+ [Covid: Brazil's President Bolsonaro accused of crimes against humanity](https://www.bbc.co.uk/news/world-latin-america-58976197?at_medium=RSS&at_campaign=KARANGA) BBC: A major inquiry is presenting its final findings into the Brazilian leader's handling of the Covid-19 pandemic. 
  <p class="updated_time"> 11:48 PM CT, Oct. 19 </p> 
  [Your Wednesday Briefing](https://www.nytimes.com/2021/10/19/briefing/bolsanaro-coronavirus-myanmar-refugees.html) NYT: Calls to charge Bolsonaro with crimes against humanity. 
  <p class="updated_time"> 11:21 PM CT, Oct. 19 </p> 
  [Uttarakhand: At least 46 killed in floods in Himalayan state](https://www.bbc.co.uk/news/world-asia-india-58951456?at_medium=RSS&at_campaign=KARANGA) BBC: Unusually heavy rainfall has triggered flash floods in India's northern state of Uttarakhand. 
- <p class="updated_time"> 11:14 PM CT, Oct. 19 </p> 
- [Bolsonaro's Pandemic Handling Draws Explosive Allegation: Homicide](https://www.nytimes.com/2021/10/19/world/americas/bolsonaro-covid-19-brazil.html) NYT: A report from lawmakers initially said Jair Bolsonaro should be charged with mass homicide and genocide, accusing him of letting Covid-19 spread in a failed bid for herd immunity. 
  <p class="updated_time"> 11:06 PM CT, Oct. 19 </p> 
  [Thousands Flee Myanmar for India Amid Fears of a Growing Refugee Crisis](https://www.nytimes.com/2021/10/19/world/asia/myanmar-refugees-india.html) NYT: For decades, armed conflict, political repression and targeted campaigns against minorities have forced hundreds of thousands of people to leave the country. Now many more are expected to follow. 
  <p class="updated_time"> 10:54 PM CT, Oct. 19 </p> 
@@ -66,8 +68,6 @@ permalink: /charts/news/
  [If China Tested a New Orbital Weapon, It’s Not Much of a Surprise](https://www.nytimes.com/2021/10/19/science/china-orbital-weapon.html) NYT: Experts report that similar technologies were developed by Russia and the United States starting more than a half century ago. 
  <p class="updated_time"> 03:12 PM CT, Oct. 19 </p> 
  [Charges ‘unlikely’ for bystanders who failed to report rape say prosecutors](https://www.bbc.co.uk/news/world-us-canada-58949611?at_medium=RSS&at_campaign=KARANGA) BBC: A woman was assaulted by another passenger and some riders may have filmed the incident, police say. 
- <p class="updated_time"> 03:04 PM CT, Oct. 19 </p> 
- [Oleg Deripaska: FBI searches US homes linked to Russian oligarch](https://www.bbc.co.uk/news/world-us-canada-58971032?at_medium=RSS&at_campaign=KARANGA) BBC: Agents are sweeping homes linked to Oleg Deripaska, a Russian oligarch who is under US sanctions. 
  <p class="updated_time"> 03:03 PM CT, Oct. 19 </p> 
  [On a Pacific Island, Russia Tests Its Battle Plan for Climate Change](https://www.nytimes.com/2021/10/19/world/europe/russia-climate-change.html) NYT: President Vladimir V. Putin long dismissed the threat posed by global warming. But fires, disasters and foreign pressure have prompted him to change course. 
  <p class="updated_time"> 02:57 PM CT, Oct. 19 </p> 
