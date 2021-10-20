@@ -6,10 +6,20 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 07:46 AM CT, Oct. 20 </p> 
+ [De Blasio Announces Vaccine Mandate for All City Workers](https://www.nytimes.com/2021/10/20/nyregion/new-york-city-vaccine-mandate.html) NYT: The new mandate will apply to more than 160,000 employees, including police officers, firefighters and sanitation workers, whose vaccination rates have lagged. 
+ <p class="updated_time"> 07:44 AM CT, Oct. 20 </p> 
+ [Heavy Rains in India and Nepal Kill Dozens](https://www.nytimes.com/2021/10/20/world/asia/india-nepal-floods-landslides.html) NYT: The death toll continued to rise on Wednesday as landslides and flooding damaged homes and stranded thousands of people. 
+ <p class="updated_time"> 07:23 AM CT, Oct. 20 </p> 
+ [Syria war: Deadly bomb blasts hit military bus in Damascus](https://www.bbc.co.uk/news/world-middle-east-58930309?at_medium=RSS&at_campaign=KARANGA) BBC: At least 14 people are reported to have died in the bloodiest attack in the Syrian capital in years. 
+ <p class="updated_time"> 07:14 AM CT, Oct. 20 </p> 
+ [Egyptian man arrested after broadcasting face during robbery](https://www.bbc.co.uk/news/world-middle-east-58980533?at_medium=RSS&at_campaign=KARANGA) BBC: The Egyptian man accidentally showed his face after stealing a journalist's phone mid-livestream. 
  <p class="updated_time"> 06:57 AM CT, Oct. 20 </p> 
  [Taliban Allow Polio Vaccine Program to Restart in Afghanistan](https://www.nytimes.com/2021/10/19/world/asia/taliban-polio-vaccines-afghanistan.html) NYT: Taliban leaders also agreed to allow women to be frontline workers for the effort, according to the World Health Organization and UNICEF. 
  <p class="updated_time"> 06:54 AM CT, Oct. 20 </p> 
  [COP26: Russia's Vladimir Putin will not attend climate summit](https://www.bbc.co.uk/news/world-europe-58977993?at_medium=RSS&at_campaign=KARANGA) BBC: No reason was given for the Russian leader's decision not to attend the conference in Glasgow. 
+ <p class="updated_time"> 06:54 AM CT, Oct. 20 </p> 
+ [Shatta Wale: Ghana star arrested over death threat claim](https://www.bbc.co.uk/news/world-africa-58968366?at_medium=RSS&at_campaign=KARANGA) BBC: Shatta Wale said he was the victim of a gun attack - he's been accused of spreading false information. 
  <p class="updated_time"> 06:53 AM CT, Oct. 20 </p> 
  [Karim Benzema: French sex tape blackmail case trial starts](https://www.bbc.co.uk/news/world-europe-58977550?at_medium=RSS&at_campaign=KARANGA) BBC: The Real Madrid footballer is accused of complicity in an attempt to blackmail Mathieu Valbuena. 
  <p class="updated_time"> 06:52 AM CT, Oct. 20 </p> 
@@ -22,8 +32,6 @@ permalink: /charts/news/
  [Bombing of Military Bus in Syrian Capital Kills 14](https://www.nytimes.com/2021/10/20/world/middleeast/syria-military-bus-bombing.html) NYT: President Bashar al-Assad has tightened his grip on Damascus, but the attack suggested that militants who oppose him can still do harm. 
  <p class="updated_time"> 06:18 AM CT, Oct. 20 </p> 
  [Queen ‘Reluctantly’ Cancels Trip, Citing Medical Advice](https://www.nytimes.com/2021/10/20/world/europe/queen-elizabeth-northern-ireland.html) NYT: Britain’s 95-year-old monarch will not travel to Northern Ireland but is “in good spirits,” Buckingham Palace said. 
- <p class="updated_time"> 06:17 AM CT, Oct. 20 </p> 
- [New York City Plans Vaccine Mandate for All City Employees](https://www.nytimes.com/2021/10/20/nyregion/new-york-city-vaccine-mandate.html) NYT: The mandate will remove an option to take regular tests instead of getting a shot. 
  <p class="updated_time"> 06:12 AM CT, Oct. 20 </p> 
  [Transgender Woman Flees Malaysia After Wearing Hijab](https://www.nytimes.com/2021/10/20/world/asia/malaysia-transgender.html) NYT: The Islamic authorities want to imprison her for wearing female clothing at a religious event and threatened to put her in a rehabilitation camp where she could “return to the right path.” 
  <p class="updated_time"> 05:25 AM CT, Oct. 20 </p> 
@@ -40,8 +48,6 @@ permalink: /charts/news/
  [Writing About a Past Injustice Helped Her See What Has and Hasn’t Changed](https://www.nytimes.com/2021/10/20/books/nadifa-mohamed-fortune-men.html) NYT: Nadifa Mohamed is a Booker Prize finalist for her novel “The Fortune Men,” a story about a false accusation and the tragedy that resulted. 
  <p class="updated_time"> 04:00 AM CT, Oct. 20 </p> 
  [1971: Paris Installs Giant Air Filters to Combat Pollution](https://www.nytimes.com/2021/10/20/world/europe/1971-paris-air-filters.html) NYT: Two towers, each measuring 16 and a half feet high, were installed in an area in the east of the city in an experiment to tackle contamination. 
- <p class="updated_time"> 03:59 AM CT, Oct. 20 </p> 
- [Syria war: Deadly bomb blasts hit military bus in Damascus](https://www.bbc.co.uk/news/world-middle-east-58930309?at_medium=RSS&at_campaign=KARANGA) BBC: At least 14 people are reported to have died in the bloodiest attack in the Syrian capital in years. 
  <p class="updated_time"> 03:58 AM CT, Oct. 20 </p> 
  [Ex-German soldiers arrested over alleged terror plot in Yemen's war](https://www.bbc.co.uk/news/world-europe-58978612?at_medium=RSS&at_campaign=KARANGA) BBC: The former soldiers are accused of trying to form a mercenary force to fight in Yemen's civil war. 
  <p class="updated_time"> 03:30 AM CT, Oct. 20 </p> 
@@ -64,8 +70,6 @@ permalink: /charts/news/
  [Uttarakhand: At least 46 killed in floods in Himalayan state](https://www.bbc.co.uk/news/world-asia-india-58951456?at_medium=RSS&at_campaign=KARANGA) BBC: Unusually heavy rainfall has triggered flash floods in India's northern state of Uttarakhand. 
  <p class="updated_time"> 11:06 PM CT, Oct. 19 </p> 
  [Thousands Flee Myanmar for India Amid Fears of a Growing Refugee Crisis](https://www.nytimes.com/2021/10/19/world/asia/myanmar-refugees-india.html) NYT: For decades, armed conflict, political repression and targeted campaigns against minorities have forced hundreds of thousands of people to leave the country. Now many more are expected to follow. 
- <p class="updated_time"> 10:54 PM CT, Oct. 19 </p> 
- [Michael Slater: Australian ex-cricketer arrested over alleged domestic violence](https://www.bbc.co.uk/news/world-australia-58976768?at_medium=RSS&at_campaign=KARANGA) BBC: The former batsman was arrested in Sydney over an alleged domestic violence incident. 
  <p class="updated_time"> 09:32 PM CT, Oct. 19 </p> 
  [North Korea claims test of new submarine-launched missile](https://www.bbc.co.uk/news/world-asia-58976195?at_medium=RSS&at_campaign=KARANGA) BBC: Pyongyang confirmed the test a day after South Korea detected a ballistic missile had been fired. 
  <p class="updated_time"> 08:34 PM CT, Oct. 19 </p> 
@@ -134,8 +138,6 @@ permalink: /charts/news/
  [Mass Abduction of U.S. Missionaries Startles Even Kidnap-Weary Haiti](https://www.nytimes.com/2021/10/17/world/americas/haiti-missionaries-kidnap.html) NYT: “Where is this country going?” Gang members seized 16 Americans and one Canadian, among them five children, as they visited an orphanage. 
  <p class="updated_time"> 08:22 AM CT, Oct. 19 </p> 
  [Those Gifts You Want for the Holidays? Don’t Wait Too Long.](https://www.nytimes.com/2021/10/19/business/supply-chain-holidays.html) NYT: The supply chain disruption is shorthand for problems from factory closures to workers who are not working anymore. 
- <p class="updated_time"> 06:54 AM CT, Oct. 19 </p> 
- [Life at 50C: The Baghdad traffic cop who works in 50C heat](https://www.bbc.co.uk/news/world-middle-east-58960747?at_medium=RSS&at_campaign=KARANGA) BBC: In Baghdad, Sergeant Saa’d has to brave increasingly extreme conditions to keep the city moving. 
  <p class="updated_time"> 05:49 AM CT, Oct. 19 </p> 
  [Gangs Threaten to Tip Haiti Into a Failed State](https://www.wsj.com/articles/gangs-threaten-to-tip-haiti-into-a-failed-state-11634654955) WSJ: Criminal rings, like the one that kidnapped American missionaries, control as much as two-thirds of Haiti, a lawless scenario that threatens regional stability. 
  <p class="updated_time"> 04:48 AM CT, Oct. 19 </p> 
@@ -188,8 +190,6 @@ permalink: /charts/news/
  [Taiwan Couple Are Suspected of Negligent Homicide in Building Fire](https://www.nytimes.com/2021/10/18/world/asia/taiwan-building-fire.html) NYT: Prosecutors accused a woman of leaving a burning incense coil unattended in the building in Kaohsiung. Her partner was accused of failing to remind her to douse the coil before leaving. 
  <p class="updated_time"> 07:30 AM CT, Oct. 18 </p> 
  [COP26: Does a climate summit need 25,000 people? And more questions](https://www.bbc.co.uk/news/science-environment-58925049?at_medium=RSS&at_campaign=KARANGA) BBC: BBC science correspondent Matt McGrath answers your questions about Glasgow's COP26 climate summit. 
- <p class="updated_time"> 06:54 AM CT, Oct. 18 </p> 
- [Prince William's Earthshot Prize Honors Costa Rica and Milan in Climate Fight](https://www.nytimes.com/2021/10/17/climate/earthshot-prizes-costa-rica-milan.html) NYT: Costa Rica and the city of Milan were among the five winners that each received one million pounds, or nearly $1.4 million, to continue sustainability and conservation efforts during a ceremony in London. 
  <p class="updated_time"> 05:41 AM CT, Oct. 18 </p> 
  [America’s Cash Glut](https://www.nytimes.com/2021/10/18/briefing/us-economy-cash-glut.html) NYT: The economy is almost doing too well. But there are some problems. 
  <p class="updated_time"> 04:00 AM CT, Oct. 18 </p> 
