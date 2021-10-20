@@ -6,6 +6,12 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 12:20 PM CT, Oct. 20 </p> 
+ [Navalny, Putin’s Imprisoned Foe, Wins E.U.’s Top Human Rights Award](https://www.nytimes.com/2021/10/20/world/europe/navalny-sakharov-prize-putin-russia.html) NYT: Aleksei A. Navalny, the Russian opposition leader who survived an assassination attempt only to be jailed, received the Sakharov Prize. 
+ <p class="updated_time"> 12:12 PM CT, Oct. 20 </p> 
+ [Russia Introduces Weeklong Office Shutdown After Covid Deaths Rise](https://www.nytimes.com/2021/10/20/world/europe/russia-covid-restrictions.html) NYT: The measure, meant to slow the spread of the coronavirus, is short of a full lockdown and only affects nonessential workers. 
+ <p class="updated_time"> 12:09 PM CT, Oct. 20 </p> 
+ [De Blasio Announces Vaccine Mandate for All City Workers](https://www.nytimes.com/2021/10/20/nyregion/new-york-city-vaccine-mandate.html) NYT: The new mandate will apply to more than 160,000 employees, including police officers, firefighters and sanitation workers, whose vaccination rates have lagged. 
  <p class="updated_time"> 11:46 AM CT, Oct. 20 </p> 
  [Russian inmate who leaked torture videos alleges death threats](https://www.bbc.co.uk/news/world-europe-58978613?at_medium=RSS&at_campaign=KARANGA) BBC: Sergey Savelyev is seeking asylum in France after he leaked videos showing abuse in Russian prisons. 
  <p class="updated_time"> 11:37 AM CT, Oct. 20 </p> 
@@ -14,8 +20,6 @@ permalink: /charts/news/
  [Spanish Court Agrees to Extradite Former Venezuela Spy Chief to U.S.](https://www.nytimes.com/2021/10/20/world/europe/spain-extradite-carvajal-venezuela.html) NYT: Hugo Carvajal, once a prominent figure in the government of the Venezuelan leader Nicolás Maduro, faces charges of drug trafficking in the United States. 
  <p class="updated_time"> 11:20 AM CT, Oct. 20 </p> 
  [Queen ‘Reluctantly’ Cancels Trip, Citing Medical Advice](https://www.nytimes.com/2021/10/20/world/europe/queen-elizabeth-northern-ireland.html) NYT: Britain’s 95-year-old monarch will not travel to Northern Ireland but is “in good spirits,” Buckingham Palace said. 
- <p class="updated_time"> 11:18 AM CT, Oct. 20 </p> 
- [De Blasio Announces Vaccine Mandate for All City Workers](https://www.nytimes.com/2021/10/20/nyregion/new-york-city-vaccine-mandate.html) NYT: The new mandate will apply to more than 160,000 employees, including police officers, firefighters and sanitation workers, whose vaccination rates have lagged. 
  <p class="updated_time"> 11:18 AM CT, Oct. 20 </p> 
  [Nikolas Cruz: Parkland gunman pleads guilty to murdering 17](https://www.bbc.co.uk/news/world-us-canada-58983965?at_medium=RSS&at_campaign=KARANGA) BBC: Nikolas Cruz could see life in prison or the death penalty over the 2018 Florida school shooting. 
  <p class="updated_time"> 11:16 AM CT, Oct. 20 </p> 
@@ -28,8 +32,6 @@ permalink: /charts/news/
  [Putin Won’t Go to Glasgow for Climate Conference](https://www.nytimes.com/2021/10/20/world/europe/putin-glasgow-climate-conference-cop26.html) NYT: President Vladimir V. Putin of Russia may make a speech by video at the United Nations summit, which is seen as pivotal in efforts to stem climate change. 
  <p class="updated_time"> 10:46 AM CT, Oct. 20 </p> 
  [School Attendance Falls for Homeless Students in N.Y.C. ](https://www.nytimes.com/2021/10/19/nyregion/new-york-city-homeless-school-attendance.html) NYT: Attendance rates for students living in shelters fell to just 73 percent in the first few weeks of the new school year, compared with around 90 percent for all students. 
- <p class="updated_time"> 10:36 AM CT, Oct. 20 </p> 
- [Navalny, Putin’s Imprisoned Foe, Wins E.U.’s Top Human Rights Award](https://www.nytimes.com/2021/10/20/world/europe/navalny-sakharov-prize-putin-russia.html) NYT: Aleksei A. Navalny, the Russian opposition leader who survived an assassination attempt only to be jailed, received the Sakharov Prize. 
  <p class="updated_time"> 10:33 AM CT, Oct. 20 </p> 
  [Turkey Sours on Syrians, but Not in This Sleepy Town, Jolted Awake](https://www.nytimes.com/2021/10/20/world/europe/turkey-syria-border-refugees.html) NYT: As calls increase in Turkey for Syrian refugees to go home, Kilis, a border town transformed by the newcomers’ energy, has embraced the change. 
  <p class="updated_time"> 10:24 AM CT, Oct. 20 </p> 
@@ -44,8 +46,6 @@ permalink: /charts/news/
  [Female Afghan Judges and Lawyers Now Fear For Their Lives](https://www.nytimes.com/2021/10/20/world/asia/afghan-judges-women-taliban.html) NYT: They fear that they or their loved ones could be tracked down and killed because of their work delivering justice to women. “We have lost everything — our jobs, our homes, the way we lived.” 
  <p class="updated_time"> 10:00 AM CT, Oct. 20 </p> 
  [Ancient-DNA Researchers Set Ethical Guidelines for Their Work](https://www.nytimes.com/2021/10/20/science/ancient-dna-archaeology-ethics.html) NYT: New, international standards for handling ancient genetic material draw support from many scientists, criticism from others. 
- <p class="updated_time"> 09:54 AM CT, Oct. 20 </p> 
- [Russia Introduces Weeklong Office Shutdown After Covid Deaths Rise](https://www.nytimes.com/2021/10/20/world/europe/russia-covid-restrictions.html) NYT: The measure, meant to slow the virus’s spread, is short of a full lockdown and only affects nonessential workers. 
  <p class="updated_time"> 09:04 AM CT, Oct. 20 </p> 
  [Boris Johnson Promotes Rising Wages Amid Shortages in U.K. ](https://www.nytimes.com/2021/10/20/business/boris-johnson-shortages-britain.html) NYT: Wages in some industries are rising because employers can’t find enough workers. That’s not a path to long-term growth, analysts say. 
  <p class="updated_time"> 08:56 AM CT, Oct. 20 </p> 
@@ -62,22 +62,20 @@ permalink: /charts/news/
  [Britain Outlines Energy Plans Amid Dimming Prospects for Climate Summit](https://www.nytimes.com/2021/10/19/world/europe/britain-climate-change-cop26.html) NYT: In an effort to recapture momentum, Prime Minister Boris Johnson  announced a host of measures, including plans for a big expansion of electric vehicles, more offshore wind power and greater use of hydrogen. 
  <p class="updated_time"> 06:48 AM CT, Oct. 20 </p> 
  [Lekki toll gate shootings: Nigeria's 'massacre without blood or bodies'](https://www.bbc.co.uk/news/world-africa-58975493?at_medium=RSS&at_campaign=KARANGA) BBC: The BBC investigates what happened on the night 20 October 2020, when the Nigerian army opened fire on peaceful protesters in Lagos. 
+ <p class="updated_time"> 06:39 AM CT, Oct. 20 </p> 
+ [China Tests Hypersonic Missile in Military Expansion](https://www.wsj.com/articles/china-tests-hypersonic-missile-in-military-expansion-11634744351) WSJ: China tested the missile, which orbited the globe before heading toward its target, in August, adding a new capability to its military buildup, U.S. officials said. 
  <p class="updated_time"> 06:23 AM CT, Oct. 20 </p> 
  [Guatemala: Riot police deployed after protesters breach Congress, set cars alight](https://www.bbc.co.uk/news/world-latin-america-58978584?at_medium=RSS&at_campaign=KARANGA) BBC: Riot police were deployed and lawmakers had to be evacuated amid the protests. 
  <p class="updated_time"> 06:12 AM CT, Oct. 20 </p> 
  [Transgender Woman Flees Malaysia After Wearing Hijab](https://www.nytimes.com/2021/10/20/world/asia/malaysia-transgender.html) NYT: The Islamic authorities want to imprison her for wearing female clothing at a religious event and threatened to put her in a rehabilitation camp where she could “return to the right path.” 
  <p class="updated_time"> 06:00 AM CT, Oct. 20 </p> 
  [Viking Artifacts Give Precise Date for Europeans' Earliest Presence in North America](https://www.wsj.com/articles/viking-artifacts-give-precise-date-for-europeans-earliest-presence-in-north-america-11634742000) WSJ: A new analysis of ancient wooden artifacts shows that Viking voyagers had crossed the Atlantic Ocean and were living in Newfoundland as far back as 1021. 
- <p class="updated_time"> 05:37 AM CT, Oct. 20 </p> 
- [China Takes the Brakes Off Coal Production to Tackle Power Shortage](https://www.wsj.com/articles/china-takes-the-brakes-off-coal-production-to-tackle-power-shortage-11634727835) WSJ: The nation has ordered all coal mines to operate at full capacity, issued approvals for new mines and ordered major coal production bases in north and northwestern China to lower prices. 
  <p class="updated_time"> 05:28 AM CT, Oct. 20 </p> 
  [Taliban Commander Who Launched Bombings in Kabul Is Now a Police Chief in Charge of Security](https://www.wsj.com/articles/taliban-commander-who-launched-bombings-in-kabul-is-now-a-police-chief-in-charge-of-security-11634740097) WSJ: Mawlawi Zubair Mutmaeen is one of thousands of former fighters thrown into mundane jobs as new government struggles to stay on its feet. 
  <p class="updated_time"> 05:25 AM CT, Oct. 20 </p> 
  [Where Are the Workers?](https://www.nytimes.com/2021/10/20/briefing/labor-shortage-us-low-wage-economy.html) NYT: How can so many Americans afford not to work? And will it last? 
  <p class="updated_time"> 05:03 AM CT, Oct. 20 </p> 
  [Syrian Regime Shelling Kills at Least 13, Including Children](https://www.wsj.com/articles/syrian-regime-shelling-kills-at-least-13-including-children-in-rebel-held-province-11634738613) WSJ: At least 13 people including several children were killed when government forces shelled a marketplace and roads in the last major section of the country held by rebels. 
- <p class="updated_time"> 04:57 AM CT, Oct. 20 </p> 
- [Chinese Cities Move to Support Housing Market as Prices Drop](https://www.wsj.com/articles/chinese-cities-move-to-support-housing-market-as-prices-drop-11634738243) WSJ: In recent weeks, more than a dozen Chinese cities, from northeastern Harbin to southwestern Kunming, have introduced measures to prop up falling prices 
  <p class="updated_time"> 04:43 AM CT, Oct. 20 </p> 
  [Capitol riot: Lawmakers vote to hold Steve Bannon in contempt](https://www.bbc.co.uk/news/world-us-canada-58976196?at_medium=RSS&at_campaign=KARANGA) BBC: Steve Bannon could be prosecuted for refusing to give evidence on the Capitol riot. 
  <p class="updated_time"> 04:39 AM CT, Oct. 20 </p> 
@@ -92,8 +90,6 @@ permalink: /charts/news/
  [Kidnappers in Haiti Demand $17 Million to Free Missionary Group](https://www.nytimes.com/2021/10/19/world/americas/haiti-missionaries-ransom.html) NYT: A gang abducted 17 people associated with a Christian aid group, including five children. Most of those being held are Americans; one is Canadian. 
  <p class="updated_time"> 03:16 AM CT, Oct. 20 </p> 
  [Bolsonaro's Pandemic Response Draws Claim of Crimes Against Humanity ](https://www.nytimes.com/2021/10/19/world/americas/bolsonaro-covid-19-brazil.html) NYT: A report from lawmakers initially said Jair Bolsonaro should be charged with mass homicide and genocide, accusing him of letting Covid-19 spread in a failed bid for herd immunity. 
- <p class="updated_time"> 03:13 AM CT, Oct. 20 </p> 
- [Chinese Military's Flexing Stokes New Uncertainty in Taiwan](https://www.wsj.com/articles/chinese-warplanes-lead-taiwanese-to-think-about-what-to-do-in-an-attack-11634732013) WSJ: Residents of the self-ruled island are used to living in the shadow of an authoritarian regime, but rising tensions with China are stoking uncertainty for some. 
  <p class="updated_time"> 02:43 AM CT, Oct. 20 </p> 
  [Queen Elizabeth Cancels Trip, Rests on Medical Advice](https://www.wsj.com/articles/queen-elizabeth-cancels-trip-rests-on-medical-advice-11634730185) WSJ: The queen called off a visit to Northern Ireland after doctors advised her to rest for a few days, a rare case in which Britain’s longest-serving monarch has had to step back from public duties owing to ill health. 
  <p class="updated_time"> 02:35 AM CT, Oct. 20 </p> 
@@ -112,8 +108,6 @@ permalink: /charts/news/
  [U.S.-Venezuela Tensions Heat Up Again After Extradition of Maduro Ally](https://www.nytimes.com/2021/10/19/us/politics/venezuela-maduro-biden.html) NYT: As Secretary of State Antony Blinken heads to the region, the window of opportunity for a political resolution has slammed shut. At least for now. 
  <p class="updated_time"> 07:02 PM CT, Oct. 19 </p> 
  [North Korea Tests First Submarine-Launched Missile in Two Years](https://www.nytimes.com/2021/10/18/world/asia/north-korea-ballistic-missile-test-washington.html) NYT: The launch came after special envoys gathered to discuss how to deal with Pyongyang’s growing nuclear capabilities. 
- <p class="updated_time"> 06:52 PM CT, Oct. 19 </p> 
- [China's New Home Prices Fall for First Time in Six Years as Rules Bite](https://www.wsj.com/articles/chinas-new-home-prices-fall-for-first-time-in-six-years-as-rules-bite-11634701923) WSJ: Average prices in 70 major cities edged down 0.08% in September from the previous month, the first such month-on-month decline since 2015. 
  <p class="updated_time"> 06:27 PM CT, Oct. 19 </p> 
  [Sudan on the brink amid scramble for democracy](https://www.bbc.co.uk/news/world-africa-58970193?at_medium=RSS&at_campaign=KARANGA) BBC: A power-sharing deal between the military and civilians is under pressure with concerns of violence. 
  <p class="updated_time"> 06:23 PM CT, Oct. 19 </p> 
@@ -158,8 +152,6 @@ permalink: /charts/news/
  [The Threat, in Perspective](https://www.nytimes.com/2021/10/19/briefing/colin-powell-covid-risk-older-americans.html) NYT: Colin Powell’s death highlights the continuing Covid risks to older people with medical conditions. 
  <p class="updated_time"> 08:22 AM CT, Oct. 19 </p> 
  [Those Gifts You Want for the Holidays? Don’t Wait Too Long.](https://www.nytimes.com/2021/10/19/business/supply-chain-holidays.html) NYT: The supply chain disruption is shorthand for problems from factory closures to workers who are not working anymore. 
- <p class="updated_time"> 04:39 AM CT, Oct. 19 </p> 
- [Xi Faces Pushback on China's Bid to Tax Property](https://www.wsj.com/articles/in-tackling-chinas-real-estate-bubble-xi-jinping-faces-resistance-to-property-tax-plan-11634650751) WSJ: Chinese President Xi Jinping is facing strong resistance over a nationwide property-tax plan meant to help curb housing speculation, and he is now settling for a more limited rollout, people familiar with the matter said. 
  <p class="updated_time"> 03:18 AM CT, Oct. 19 </p> 
  [ Russia's Low Vaccination Rates Leads to Record-Breaking Toll](https://www.nytimes.com/2021/10/18/world/europe/russia-virus-vaccine.html) NYT: The country hit 1,000 deaths in a 24-hour period for the first time since the pandemic began, reflecting the risks of having a low vaccination rate. 
  <p class="updated_time"> 02:00 AM CT, Oct. 19 </p> 
