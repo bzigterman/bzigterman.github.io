@@ -6,6 +6,12 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 03:05 PM CT, Oct. 20 </p> 
+ [Heavy Rains in India and Nepal Kill Dozens](https://www.nytimes.com/2021/10/20/world/asia/india-nepal-floods-landslides.html) NYT: The death toll continued to rise on Wednesday as landslides and flooding damaged homes and stranded thousands of people. 
+ <p class="updated_time"> 03:02 PM CT, Oct. 20 </p> 
+ [Your Thursday Briefing](https://www.nytimes.com/2021/10/20/briefing/russia-covid-pollution-fossil-fuels-evergrande.html) NYT: Russia’s ‘non-working’ week. 
+ <p class="updated_time"> 02:56 PM CT, Oct. 20 </p> 
+ [Glass Ceiling Cracks in Egypt, but Would-Be Judges Still Hear: ‘No Girls’](https://www.nytimes.com/2021/10/20/world/middleeast/egypt-judges-women.html) NYT: On paper, women are free to apply for seats on Egyptian benches. In practice, they say, it is near impossible. 
  <p class="updated_time"> 02:46 PM CT, Oct. 20 </p> 
  [Paris Hilton: I couldn't sleep for 20 years from memories of youth care abuse](https://www.bbc.co.uk/news/world-us-canada-58988263?at_medium=RSS&at_campaign=KARANGA) BBC: Paris Hilton alleges she was strangled, slapped and watched in the shower while in a youth care facility. 
  <p class="updated_time"> 02:40 PM CT, Oct. 20 </p> 
@@ -52,8 +58,12 @@ permalink: /charts/news/
  [Nikolas Cruz: Parkland gunman pleads guilty to murdering 17](https://www.bbc.co.uk/news/world-us-canada-58983965?at_medium=RSS&at_campaign=KARANGA) BBC: Nikolas Cruz could see life in prison or the death penalty over the 2018 Florida school shooting. 
  <p class="updated_time"> 11:16 AM CT, Oct. 20 </p> 
  [Nigerian romance scam suspects targeted 100 women - FBI](https://www.bbc.co.uk/news/world-africa-58978287?at_medium=RSS&at_campaign=KARANGA) BBC: Eight Nigerian men are charged in South Africa after an international operation involving Interpol. 
+ <p class="updated_time"> 11:08 AM CT, Oct. 20 </p> 
+ [China Tests Hypersonic Missile in Military Expansion](https://www.wsj.com/articles/china-tests-hypersonic-missile-in-military-expansion-11634744351) WSJ: China tested the missile, which orbited the globe before heading toward its target, in August, adding a new capability to its military buildup, U.S. officials said. 
  <p class="updated_time"> 11:00 AM CT, Oct. 20 </p> 
  [Putin Won’t Go to Glasgow for Climate Conference](https://www.nytimes.com/2021/10/20/world/europe/putin-glasgow-climate-conference-cop26.html) NYT: President Vladimir V. Putin of Russia may make a speech by video at the United Nations summit, which is seen as pivotal in efforts to stem climate change. 
+ <p class="updated_time"> 10:59 AM CT, Oct. 20 </p> 
+ [Syrian Regime Shelling Kills at Least 13, Including Children](https://www.wsj.com/articles/syrian-regime-shelling-kills-at-least-13-including-children-in-rebel-held-province-11634738613) WSJ: At least 13 people including several children were killed when government forces shelled a marketplace and roads in the last major section of the country held by rebels. 
  <p class="updated_time"> 10:46 AM CT, Oct. 20 </p> 
  [School Attendance Falls for Homeless Students in N.Y.C. ](https://www.nytimes.com/2021/10/19/nyregion/new-york-city-homeless-school-attendance.html) NYT: Attendance rates for students living in shelters fell to just 73 percent in the first few weeks of the new school year, compared with around 90 percent for all students. 
  <p class="updated_time"> 10:33 AM CT, Oct. 20 </p> 
@@ -64,8 +74,6 @@ permalink: /charts/news/
  [Hugo Carvajal: Spain to extradite Venezuela's ex-spy chief to US](https://www.bbc.co.uk/news/world-latin-america-58984103?at_medium=RSS&at_campaign=KARANGA) BBC: Hugo Carvajal faces drugs charges but may also have incriminating evidence against President Maduro. 
  <p class="updated_time"> 10:14 AM CT, Oct. 20 </p> 
  [Syria war: Deadly bomb blasts hit military bus in Damascus](https://www.bbc.co.uk/news/world-middle-east-58930309?at_medium=RSS&at_campaign=KARANGA) BBC: At least 14 people are reported to have died in the bloodiest attack in the Syrian capital in years. 
- <p class="updated_time"> 10:07 AM CT, Oct. 20 </p> 
- [Heavy Rains in India and Nepal Kill Dozens](https://www.nytimes.com/2021/10/20/world/asia/india-nepal-floods-landslides.html) NYT: The death toll continued to rise on Wednesday as landslides and flooding damaged homes and stranded thousands of people. 
  <p class="updated_time"> 10:06 AM CT, Oct. 20 </p> 
  [Female Afghan Judges and Lawyers Now Fear For Their Lives](https://www.nytimes.com/2021/10/20/world/asia/afghan-judges-women-taliban.html) NYT: They fear that they or their loved ones could be tracked down and killed because of their work delivering justice to women. “We have lost everything — our jobs, our homes, the way we lived.” 
  <p class="updated_time"> 09:32 AM CT, Oct. 20 </p> 
@@ -84,8 +92,6 @@ permalink: /charts/news/
  [Taliban Allow Polio Vaccine Program to Restart in Afghanistan](https://www.nytimes.com/2021/10/19/world/asia/taliban-polio-vaccines-afghanistan.html) NYT: Taliban leaders also agreed to allow women to be frontline workers for the effort, according to the World Health Organization and UNICEF. 
  <p class="updated_time"> 06:48 AM CT, Oct. 20 </p> 
  [Lekki toll gate shootings: Nigeria's 'massacre without blood or bodies'](https://www.bbc.co.uk/news/world-africa-58975493?at_medium=RSS&at_campaign=KARANGA) BBC: The BBC investigates what happened on the night 20 October 2020, when the Nigerian army opened fire on peaceful protesters in Lagos. 
- <p class="updated_time"> 06:39 AM CT, Oct. 20 </p> 
- [China Tests Hypersonic Missile in Military Expansion](https://www.wsj.com/articles/china-tests-hypersonic-missile-in-military-expansion-11634744351) WSJ: China tested the missile, which orbited the globe before heading toward its target, in August, adding a new capability to its military buildup, U.S. officials said. 
  <p class="updated_time"> 06:23 AM CT, Oct. 20 </p> 
  [Guatemala: Riot police deployed after protesters breach Congress, set cars alight](https://www.bbc.co.uk/news/world-latin-america-58978584?at_medium=RSS&at_campaign=KARANGA) BBC: Riot police were deployed and lawmakers had to be evacuated amid the protests. 
  <p class="updated_time"> 06:12 AM CT, Oct. 20 </p> 
@@ -96,16 +102,10 @@ permalink: /charts/news/
  [Taliban Commander Who Launched Bombings in Kabul Is Now a Police Chief in Charge of Security](https://www.wsj.com/articles/taliban-commander-who-launched-bombings-in-kabul-is-now-a-police-chief-in-charge-of-security-11634740097) WSJ: Mawlawi Zubair Mutmaeen is one of thousands of former fighters thrown into mundane jobs as new government struggles to stay on its feet. 
  <p class="updated_time"> 05:25 AM CT, Oct. 20 </p> 
  [Where Are the Workers?](https://www.nytimes.com/2021/10/20/briefing/labor-shortage-us-low-wage-economy.html) NYT: How can so many Americans afford not to work? And will it last? 
- <p class="updated_time"> 05:03 AM CT, Oct. 20 </p> 
- [Syrian Regime Shelling Kills at Least 13, Including Children](https://www.wsj.com/articles/syrian-regime-shelling-kills-at-least-13-including-children-in-rebel-held-province-11634738613) WSJ: At least 13 people including several children were killed when government forces shelled a marketplace and roads in the last major section of the country held by rebels. 
- <p class="updated_time"> 04:39 AM CT, Oct. 20 </p> 
- [Aryan Khan: Bollywood actor's son bail plea rejected in drugs case](https://www.bbc.co.uk/news/world-asia-india-58829972?at_medium=RSS&at_campaign=KARANGA) BBC: Aryan Khan, son of Bollywood superstar Shah Rukh Khan, was arrested on 3 October over drug charges. 
  <p class="updated_time"> 04:00 AM CT, Oct. 20 </p> 
  [Writing About a Past Injustice Helped Her See What Has and Hasn’t Changed](https://www.nytimes.com/2021/10/20/books/nadifa-mohamed-fortune-men.html) NYT: Nadifa Mohamed is a Booker Prize finalist for her novel “The Fortune Men,” a story about a false accusation and the tragedy that resulted. 
  <p class="updated_time"> 04:00 AM CT, Oct. 20 </p> 
  [1971: Paris Installs Giant Air Filters to Combat Pollution](https://www.nytimes.com/2021/10/20/world/europe/1971-paris-air-filters.html) NYT: Two towers, each measuring 16 and a half feet high, were installed in an area in the east of the city in an experiment to tackle contamination. 
- <p class="updated_time"> 03:58 AM CT, Oct. 20 </p> 
- [Ex-German soldiers arrested over alleged terror plot in Yemen's war](https://www.bbc.co.uk/news/world-europe-58978612?at_medium=RSS&at_campaign=KARANGA) BBC: The former soldiers are accused of trying to form a mercenary force to fight in Yemen's civil war. 
  <p class="updated_time"> 03:30 AM CT, Oct. 20 </p> 
  [Kidnappers in Haiti Demand $17 Million to Free Missionary Group](https://www.nytimes.com/2021/10/19/world/americas/haiti-missionaries-ransom.html) NYT: A gang abducted 17 people associated with a Christian aid group, including five children. Most of those being held are Americans; one is Canadian. 
  <p class="updated_time"> 03:16 AM CT, Oct. 20 </p> 
@@ -128,6 +128,8 @@ permalink: /charts/news/
  [Sudan on the brink amid scramble for democracy](https://www.bbc.co.uk/news/world-africa-58970193?at_medium=RSS&at_campaign=KARANGA) BBC: A power-sharing deal between the military and civilians is under pressure with concerns of violence. 
  <p class="updated_time"> 06:23 PM CT, Oct. 19 </p> 
  [Ros Atkins on… Europe's climate challenge](https://www.bbc.co.uk/news/science-environment-58970153?at_medium=RSS&at_campaign=KARANGA) BBC: Ros Atkins looks at how Europe is getting to grips with its emissions problem. 
+ <p class="updated_time"> 06:22 PM CT, Oct. 19 </p> 
+ [Capitol riots officer: The moment the mob took me](https://www.bbc.co.uk/news/world-us-canada-58973555?at_medium=RSS&at_campaign=KARANGA) BBC: Video from outside the Capitol shows police officer Mike Fanone scream as he was tasered in the head. 
  <p class="updated_time"> 06:20 PM CT, Oct. 19 </p> 
  [Myanmar: Mass release of political prisoners](https://www.bbc.co.uk/news/world-asia-58976296?at_medium=RSS&at_campaign=KARANGA) BBC: Some of the political prisoners released by the authorities in Myanmar describe how they endured life in jail. 
  <p class="updated_time"> 06:18 PM CT, Oct. 19 </p> 
@@ -158,8 +160,6 @@ permalink: /charts/news/
  [Ukraine's Covid Deaths Soar as Fake Vaccination Certificates Spread](https://www.nytimes.com/2021/10/19/world/europe/ukraine-covid-deaths.html) NYT: In the country with the lowest rate of coronavirus vaccination in Europe, the proliferation of fakes threatens to undermine Ukraine’s fight against the virus. 
  <p class="updated_time"> 11:49 AM CT, Oct. 19 </p> 
  [Reluctance among Russians to get vaccinated has led to a surge in cases and deaths.](https://www.nytimes.com/2021/10/19/world/apathy-and-mistrust-leave-russia-facing-the-risks-of-a-low-vaccination-rate.html) NYT: NA 
- <p class="updated_time"> 10:09 AM CT, Oct. 19 </p> 
- [F.B.I. Is Working in Haiti to Recover Kidnapped Missionaries](https://www.nytimes.com/2021/10/18/world/americas/haiti-protests.html) NYT: The United States has a team on the ground to try to secure the release of 17 people taken by a gang in the latest example of the violence that is leaving Haitians desperate. 
  <p class="updated_time"> 09:26 AM CT, Oct. 19 </p> 
  [The Threat, in Perspective](https://www.nytimes.com/2021/10/19/briefing/colin-powell-covid-risk-older-americans.html) NYT: Colin Powell’s death highlights the continuing Covid risks to older people with medical conditions. 
  <p class="updated_time"> 03:18 AM CT, Oct. 19 </p> 
@@ -170,8 +170,6 @@ permalink: /charts/news/
  [Your Tuesday Briefing](https://www.nytimes.com/2021/10/18/briefing/haiti-kidnapping-colin-powell.html) NYT: Efforts to recover a kidnapped group in Haiti. 
  <p class="updated_time"> 09:56 PM CT, Oct. 18 </p> 
  [Diver Discovers 900-Year-Old Sword Dating to the Crusades](https://www.nytimes.com/2021/10/18/world/middleeast/crusader-sword-found-israel.html) NYT: The sword, recovered off the coast of Israel, most likely belonged to a knight who fell into the sea or lost the weapon in battle, experts said. 
- <p class="updated_time"> 06:27 PM CT, Oct. 18 </p> 
- [Russia Breaks Diplomatic Ties With NATO](https://www.nytimes.com/2021/10/18/world/europe/russia-nato.html) NYT: Moscow’s decision to end its diplomatic mission to the alliance will end a long, post-Cold War experiment in building trust between militaries. 
  <p class="updated_time"> 06:11 PM CT, Oct. 18 </p> 
  [In Norway Attack, ‘Sharp Object,’ Not Arrows, Killed 5, Police Say](https://www.nytimes.com/2021/10/18/world/europe/norway-attack.html) NYT: The Norwegian police on Monday said that while a hunting bow had been used in last week’s rampage, the victims, four women and a man, were stabbed to death. 
  <p class="updated_time"> 05:47 PM CT, Oct. 18 </p> 
@@ -188,8 +186,6 @@ permalink: /charts/news/
  [Showdown Over Northern Ireland Has a Key Offstage Player: Biden](https://www.nytimes.com/2021/10/18/world/europe/ireland-biden-eu-uk.html) NYT: As the U.K. and the European Union begin their wrangling over details of trade with Northern Ireland, President Biden has more than a passing interest in the final result. 
  <p class="updated_time"> 12:25 PM CT, Oct. 18 </p> 
  [The shortages hitting countries around the world](https://www.bbc.co.uk/news/explainers-58868636?at_medium=RSS&at_campaign=KARANGA) BBC: People and businesses across the world are facing shortages of everything from coal to coffee. 
- <p class="updated_time"> 11:47 AM CT, Oct. 18 </p> 
- [In Hungary’s Heartland, Orban Faces a Unified Challenge to His Rule](https://www.nytimes.com/2021/10/18/world/europe/hungary-viktor-orban-election.html) NYT: The country’s normally fractious opposition has rallied around a conservative mayor who just might be able to oust the authoritarian prime minister after more than a decade. 
  <p class="updated_time"> 07:30 AM CT, Oct. 18 </p> 
  [COP26: Does a climate summit need 25,000 people? And more questions](https://www.bbc.co.uk/news/science-environment-58925049?at_medium=RSS&at_campaign=KARANGA) BBC: BBC science correspondent Matt McGrath answers your questions about Glasgow's COP26 climate summit. 
  <p class="updated_time"> 06:56 PM CT, Oct. 17 </p> 
