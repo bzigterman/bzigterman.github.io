@@ -6,6 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 11:48 PM CT, Oct. 19 </p> 
+ [Your Wednesday Briefing](https://www.nytimes.com/2021/10/19/briefing/bolsanaro-coronavirus-myanmar-refugees.html) NYT: Calls to charge Bolsonaro with crimes against humanity. 
  <p class="updated_time"> 11:21 PM CT, Oct. 19 </p> 
  [Uttarakhand: At least 46 killed in floods in Himalayan state](https://www.bbc.co.uk/news/world-asia-india-58951456?at_medium=RSS&at_campaign=KARANGA) BBC: Unusually heavy rainfall has triggered flash floods in India's northern state of Uttarakhand. 
  <p class="updated_time"> 11:14 PM CT, Oct. 19 </p> 
@@ -16,8 +18,6 @@ permalink: /charts/news/
  [Michael Slater: Australian ex-cricketer arrested over alleged domestic violence](https://www.bbc.co.uk/news/world-australia-58976768?at_medium=RSS&at_campaign=KARANGA) BBC: The former batsman was arrested in Sydney over an alleged domestic violence incident. 
  <p class="updated_time"> 10:34 PM CT, Oct. 19 </p> 
  [Steve Bannon: Lawmakers vote to hold ex-Trump aide in contempt](https://www.bbc.co.uk/news/world-us-canada-58976196?at_medium=RSS&at_campaign=KARANGA) BBC: Steve Bannon could be prosecuted for refusing to give evidence to lawmakers investigating the Capitol riot. 
- <p class="updated_time"> 10:29 PM CT, Oct. 19 </p> 
- [Your Wednesday Briefing](https://www.nytimes.com/2021/10/19/briefing/bolsanaro-coronavirus-myanmar-refugees.html) NYT: Calls to charge Bolsonaro with homicide. 
  <p class="updated_time"> 10:28 PM CT, Oct. 19 </p> 
  [Britain Outlines Energy Plans Amid Dimming Prospects for Climate Summit](https://www.nytimes.com/2021/10/19/world/europe/britain-climate-change-cop26.html) NYT: In an effort to recapture momentum, Prime Minister Boris Johnson  announced a host of measures, including plans for a big expansion of electric vehicles, more offshore wind power and greater use of hydrogen. 
  <p class="updated_time"> 10:17 PM CT, Oct. 19 </p> 
