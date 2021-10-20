@@ -6,6 +6,16 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 06:57 AM CT, Oct. 20 </p> 
+ [Taliban Allow Polio Vaccine Program to Restart in Afghanistan](https://www.nytimes.com/2021/10/19/world/asia/taliban-polio-vaccines-afghanistan.html) NYT: Taliban leaders also agreed to allow women to be frontline workers for the effort, according to the World Health Organization and UNICEF. 
+ <p class="updated_time"> 06:54 AM CT, Oct. 20 </p> 
+ [COP26: Russia's Vladimir Putin will not attend climate summit](https://www.bbc.co.uk/news/world-europe-58977993?at_medium=RSS&at_campaign=KARANGA) BBC: No reason was given for the Russian leader's decision not to attend the conference in Glasgow. 
+ <p class="updated_time"> 06:53 AM CT, Oct. 20 </p> 
+ [Karim Benzema: French sex tape blackmail case trial starts](https://www.bbc.co.uk/news/world-europe-58977550?at_medium=RSS&at_campaign=KARANGA) BBC: The Real Madrid footballer is accused of complicity in an attempt to blackmail Mathieu Valbuena. 
+ <p class="updated_time"> 06:52 AM CT, Oct. 20 </p> 
+ [Britain Outlines Energy Plans Amid Dimming Prospects for Climate Summit](https://www.nytimes.com/2021/10/19/world/europe/britain-climate-change-cop26.html) NYT: In an effort to recapture momentum, Prime Minister Boris Johnson  announced a host of measures, including plans for a big expansion of electric vehicles, more offshore wind power and greater use of hydrogen. 
+ <p class="updated_time"> 06:48 AM CT, Oct. 20 </p> 
+ [Lekki toll gate shootings: Nigeria's 'massacre without blood or bodies'](https://www.bbc.co.uk/news/world-africa-58975493?at_medium=RSS&at_campaign=KARANGA) BBC: The BBC investigates what happened on the night 20 October 2020, when the Nigerian army opened fire on peaceful protesters in Lagos. 
  <p class="updated_time"> 06:23 AM CT, Oct. 20 </p> 
  [Guatemala: Riot police deployed after protesters breach Congress, set cars alight](https://www.bbc.co.uk/news/world-latin-america-58978584?at_medium=RSS&at_campaign=KARANGA) BBC: Riot police were deployed and lawmakers had to be evacuated amid the protests. 
  <p class="updated_time"> 06:20 AM CT, Oct. 20 </p> 
@@ -14,12 +24,8 @@ permalink: /charts/news/
  [Queen ‘Reluctantly’ Cancels Trip, Citing Medical Advice](https://www.nytimes.com/2021/10/20/world/europe/queen-elizabeth-northern-ireland.html) NYT: Britain’s 95-year-old monarch will not travel to Northern Ireland but is “in good spirits,” Buckingham Palace said. 
  <p class="updated_time"> 06:17 AM CT, Oct. 20 </p> 
  [New York City Plans Vaccine Mandate for All City Employees](https://www.nytimes.com/2021/10/20/nyregion/new-york-city-vaccine-mandate.html) NYT: The mandate will remove an option to take regular tests instead of getting a shot. 
- <p class="updated_time"> 06:13 AM CT, Oct. 20 </p> 
- [COP26: Russia's Vladimir Putin will not attend climate summit](https://www.bbc.co.uk/news/world-europe-58977993?at_medium=RSS&at_campaign=KARANGA) BBC: No reason was given for the Russian leader's decision not to attend the conference in Glasgow. 
  <p class="updated_time"> 06:12 AM CT, Oct. 20 </p> 
  [Transgender Woman Flees Malaysia After Wearing Hijab](https://www.nytimes.com/2021/10/20/world/asia/malaysia-transgender.html) NYT: The Islamic authorities want to imprison her for wearing female clothing at a religious event and threatened to put her in a rehabilitation camp where she could “return to the right path.” 
- <p class="updated_time"> 05:41 AM CT, Oct. 20 </p> 
- [Benzema on trial in French sex tape blackmail case](https://www.bbc.co.uk/news/world-europe-58977550?at_medium=RSS&at_campaign=KARANGA) BBC: The Real Madrid footballer is accused of complicity in an attempt to blackmail Mathieu Valbuena. 
  <p class="updated_time"> 05:25 AM CT, Oct. 20 </p> 
  [Where Are the Workers?](https://www.nytimes.com/2021/10/20/briefing/labor-shortage-us-low-wage-economy.html) NYT: How can so many Americans afford not to work? And will it last? 
  <p class="updated_time"> 04:43 AM CT, Oct. 20 </p> 
@@ -42,8 +48,12 @@ permalink: /charts/news/
  [Kidnappers in Haiti Demand $17 Million to Free Missionary Group](https://www.nytimes.com/2021/10/19/world/americas/haiti-missionaries-ransom.html) NYT: A gang abducted 17 people associated with a Christian aid group, including five children. Most of those being held are Americans; one is Canadian. 
  <p class="updated_time"> 03:16 AM CT, Oct. 20 </p> 
  [Bolsonaro's Pandemic Response Draws Claim of Crimes Against Humanity ](https://www.nytimes.com/2021/10/19/world/americas/bolsonaro-covid-19-brazil.html) NYT: A report from lawmakers initially said Jair Bolsonaro should be charged with mass homicide and genocide, accusing him of letting Covid-19 spread in a failed bid for herd immunity. 
+ <p class="updated_time"> 02:43 AM CT, Oct. 20 </p> 
+ [Queen Elizabeth Cancels Trip, Rests on Medical Advice](https://www.wsj.com/articles/queen-elizabeth-cancels-trip-rests-on-medical-advice-11634730185) WSJ: The queen called off a visit to Northern Ireland after doctors advised her to rest for a few days, a rare case in which Britain’s longest-serving monarch has had to step back from public duties owing to ill health. 
  <p class="updated_time"> 02:35 AM CT, Oct. 20 </p> 
  [Medical Groups Declare Youth Mental Health Crisis](https://www.nytimes.com/2021/10/19/world/covid-pandemic-children-mental-health.html) NYT: Medical groups said the coronavirus pandemic had worsened a mental health crisis among children and teenagers. 
+ <p class="updated_time"> 02:03 AM CT, Oct. 20 </p> 
+ [China Takes the Brakes Off Coal Production to Tackle Power Shortage](https://www.wsj.com/articles/china-takes-the-brakes-off-coal-production-to-tackle-power-shortage-11634727835) WSJ: The nation has ordered all coal mines to operate at full capacity, issued approvals for new mines and ordered major coal production bases in north and northwestern China to lower prices. 
  <p class="updated_time"> 01:35 AM CT, Oct. 20 </p> 
  [Covid: Brazil's Bolsonaro 'should be charged with crimes against humanity'](https://www.bbc.co.uk/news/world-latin-america-58976197?at_medium=RSS&at_campaign=KARANGA) BBC: A big inquiry is presenting final findings into the Brazilian leader's handling of the Covid-19 pandemic. 
  <p class="updated_time"> 12:05 AM CT, Oct. 20 </p> 
@@ -56,8 +66,6 @@ permalink: /charts/news/
  [Thousands Flee Myanmar for India Amid Fears of a Growing Refugee Crisis](https://www.nytimes.com/2021/10/19/world/asia/myanmar-refugees-india.html) NYT: For decades, armed conflict, political repression and targeted campaigns against minorities have forced hundreds of thousands of people to leave the country. Now many more are expected to follow. 
  <p class="updated_time"> 10:54 PM CT, Oct. 19 </p> 
  [Michael Slater: Australian ex-cricketer arrested over alleged domestic violence](https://www.bbc.co.uk/news/world-australia-58976768?at_medium=RSS&at_campaign=KARANGA) BBC: The former batsman was arrested in Sydney over an alleged domestic violence incident. 
- <p class="updated_time"> 10:28 PM CT, Oct. 19 </p> 
- [Britain Outlines Energy Plans Amid Dimming Prospects for Climate Summit](https://www.nytimes.com/2021/10/19/world/europe/britain-climate-change-cop26.html) NYT: In an effort to recapture momentum, Prime Minister Boris Johnson  announced a host of measures, including plans for a big expansion of electric vehicles, more offshore wind power and greater use of hydrogen. 
  <p class="updated_time"> 09:32 PM CT, Oct. 19 </p> 
  [North Korea claims test of new submarine-launched missile](https://www.bbc.co.uk/news/world-asia-58976195?at_medium=RSS&at_campaign=KARANGA) BBC: Pyongyang confirmed the test a day after South Korea detected a ballistic missile had been fired. 
  <p class="updated_time"> 08:34 PM CT, Oct. 19 </p> 
@@ -70,6 +78,8 @@ permalink: /charts/news/
  [Rachel Levine: Transgender official sworn in as four-star admiral](https://www.bbc.co.uk/news/world-us-canada-58974627?at_medium=RSS&at_campaign=KARANGA) BBC: Dr Rachel Levine is already the nation's most prominent openly transgender federal official. 
  <p class="updated_time"> 07:02 PM CT, Oct. 19 </p> 
  [North Korea Tests First Submarine-Launched Missile in Two Years](https://www.nytimes.com/2021/10/18/world/asia/north-korea-ballistic-missile-test-washington.html) NYT: The launch came after special envoys gathered to discuss how to deal with Pyongyang’s growing nuclear capabilities. 
+ <p class="updated_time"> 06:52 PM CT, Oct. 19 </p> 
+ [China's New Home Prices Fall for First Time in Six Years as Rules Bite](https://www.wsj.com/articles/chinas-new-home-prices-fall-for-first-time-in-six-years-as-rules-bite-11634701923) WSJ: Average prices in 70 major cities edged down 0.08% in September from the previous month, the first such month-on-month decline since 2015. 
  <p class="updated_time"> 06:27 PM CT, Oct. 19 </p> 
  [Sudan on the brink amid scramble for democracy](https://www.bbc.co.uk/news/world-africa-58970193?at_medium=RSS&at_campaign=KARANGA) BBC: A power-sharing deal between the military and civilians is under pressure with concerns of violence. 
  <p class="updated_time"> 06:23 PM CT, Oct. 19 </p> 
@@ -108,18 +118,20 @@ permalink: /charts/news/
  [U.S. to Issue Migration Appeal to South American Nations](https://www.wsj.com/articles/u-s-to-issue-migration-appeal-to-south-american-nations-11634669545) WSJ: Secretary of State Antony Blinken, in a meeting in Colombia, will urge countries to share responsibility for migration patterns. 
  <p class="updated_time"> 12:19 PM CT, Oct. 19 </p> 
  [School Attendance Falls for Homeless Students in N.Y.C. ](https://www.nytimes.com/2021/10/19/nyregion/new-york-city-homeless-school-attendance.html) NYT: Attendance rates for students living in shelters fell to just 73 percent in the first few weeks of the new school year, compared with around 90 percent for all students. 
+ <p class="updated_time"> 12:13 PM CT, Oct. 19 </p> 
+ [No Mask Required: The Joys and Fears of Seeing U.K. Theater Now](https://www.nytimes.com/2021/10/19/theater/british-theater-fans.html) NYT: With mask wearing and proof of vaccination not legally required, it’s up to venues and audience members to make their own decisions about coronavirus safety. 
  <p class="updated_time"> 11:52 AM CT, Oct. 19 </p> 
  [Ukraine's Covid Deaths Soar as Fake Vaccination Certificates Spread](https://www.nytimes.com/2021/10/19/world/europe/ukraine-covid-deaths.html) NYT: In the country with the lowest rate of coronavirus vaccination in Europe, the proliferation of fakes threatens to undermine Ukraine’s fight against the virus. 
  <p class="updated_time"> 11:49 AM CT, Oct. 19 </p> 
  [Reluctance among Russians to get vaccinated has led to a surge in cases and deaths.](https://www.nytimes.com/2021/10/19/world/apathy-and-mistrust-leave-russia-facing-the-risks-of-a-low-vaccination-rate.html) NYT: NA 
- <p class="updated_time"> 10:22 AM CT, Oct. 19 </p> 
- [Afghanistan Withdrawal to Be Subject of State Department Investigation](https://www.wsj.com/articles/afghanistan-withdrawal-to-be-subject-of-state-department-investigation-11634671379) WSJ: The department’s internal watchdog told U.S. lawmakers it would review the handling of embassy planning, refugees and the special immigrant visa program. 
+ <p class="updated_time"> 10:12 AM CT, Oct. 19 </p> 
+ [For Christian Aid Ministries, Charity in Haiti Turns to Chaos](https://www.nytimes.com/2021/10/17/world/americas/amish-missionary-group-kidnap.html) NYT: An organization based in Ohio and founded by Amish and Mennonites has been swept up in the violence roiling the country. 
  <p class="updated_time"> 10:09 AM CT, Oct. 19 </p> 
  [F.B.I. Is Working in Haiti to Recover Kidnapped Missionaries](https://www.nytimes.com/2021/10/18/world/americas/haiti-protests.html) NYT: The United States has a team on the ground to try to secure the release of 17 people taken by a gang in the latest example of the violence that is leaving Haitians desperate. 
- <p class="updated_time"> 09:29 AM CT, Oct. 19 </p> 
- [Taliban Allow Polio Vaccine Program to Restart in Afghanistan](https://www.nytimes.com/2021/10/19/world/asia/taliban-polio-vaccines-afghanistan.html) NYT: Taliban leaders also agreed to allow women to be frontline workers for the effort, according to the World Health Organization and UNICEF. 
  <p class="updated_time"> 09:26 AM CT, Oct. 19 </p> 
  [The Threat, in Perspective](https://www.nytimes.com/2021/10/19/briefing/colin-powell-covid-risk-older-americans.html) NYT: Colin Powell’s death highlights the continuing Covid risks to older people with medical conditions. 
+ <p class="updated_time"> 08:47 AM CT, Oct. 19 </p> 
+ [Mass Abduction of U.S. Missionaries Startles Even Kidnap-Weary Haiti](https://www.nytimes.com/2021/10/17/world/americas/haiti-missionaries-kidnap.html) NYT: “Where is this country going?” Gang members seized 16 Americans and one Canadian, among them five children, as they visited an orphanage. 
  <p class="updated_time"> 08:22 AM CT, Oct. 19 </p> 
  [Those Gifts You Want for the Holidays? Don’t Wait Too Long.](https://www.nytimes.com/2021/10/19/business/supply-chain-holidays.html) NYT: The supply chain disruption is shorthand for problems from factory closures to workers who are not working anymore. 
  <p class="updated_time"> 06:54 AM CT, Oct. 19 </p> 
@@ -130,12 +142,12 @@ permalink: /charts/news/
  [Is Brexit Hurting the U.K. Economy? Trade Data Flash a Warning](https://www.wsj.com/articles/is-brexit-hurting-the-u-k-economy-trade-export-import-european-union-england-11634651205) WSJ: The recovery is sputtering and some exporters say their separation from the European Union is the culprit; “harder, slower, more expensive, more difficult.” 
  <p class="updated_time"> 04:39 AM CT, Oct. 19 </p> 
  [Xi Faces Pushback on China's Bid to Tax Property](https://www.wsj.com/articles/in-tackling-chinas-real-estate-bubble-xi-jinping-faces-resistance-to-property-tax-plan-11634650751) WSJ: Chinese President Xi Jinping is facing strong resistance over a nationwide property-tax plan meant to help curb housing speculation, and he is now settling for a more limited rollout, people familiar with the matter said. 
+ <p class="updated_time"> 03:30 AM CT, Oct. 19 </p> 
+ [China Evergrande Gets Soft Treatment in Chinese Media](https://www.nytimes.com/2021/10/19/business/evergrande-media-china.html) NYT: Officials want to avert public panic about the property developer’s financial woes. But they also want to send a message to spendthrift corporations. 
  <p class="updated_time"> 03:18 AM CT, Oct. 19 </p> 
  [ Russia's Low Vaccination Rates Leads to Record-Breaking Toll](https://www.nytimes.com/2021/10/18/world/europe/russia-virus-vaccine.html) NYT: The country hit 1,000 deaths in a 24-hour period for the first time since the pandemic began, reflecting the risks of having a low vaccination rate. 
  <p class="updated_time"> 02:00 AM CT, Oct. 19 </p> 
  [These U.S. Veterans Won't Rest Until They've Kept a Promise to Afghans](https://www.nytimes.com/2021/10/19/world/us-veterans-afghan-evacuation.html) NYT: An informal network that includes former government and military officials is working around the clock to fulfill a pledge to save Afghans who put their lives on the line for America. 
- <p class="updated_time"> 01:43 AM CT, Oct. 19 </p> 
- [Satellites Sweep for World's Biggest Polluters](https://www.wsj.com/articles/who-are-the-worlds-biggest-climate-polluters-satellites-sweep-for-culprits-11634635980) WSJ: Governments are turning to the technology to expose hidden sources of greenhouse-gas emissions and monitor compliance with global pacts—as well as to point fingers at each other. 
  <p class="updated_time"> 11:02 PM CT, Oct. 18 </p> 
  [Ecuador’s President Declares State of Emergency to Battle Crime](https://www.nytimes.com/2021/10/19/world/americas/ecuador-state-of-emergency.html) NYT: Guillermo Lasso said the military and the police would patrol the streets to provide security to confront drug trafficking and other crimes. 
  <p class="updated_time"> 10:37 PM CT, Oct. 18 </p> 
@@ -150,8 +162,6 @@ permalink: /charts/news/
  [Russia Breaks Diplomatic Ties With NATO](https://www.nytimes.com/2021/10/18/world/europe/russia-nato.html) NYT: Moscow’s decision to end its diplomatic mission to the alliance will end a long, post-Cold War experiment in building trust between militaries. 
  <p class="updated_time"> 06:11 PM CT, Oct. 18 </p> 
  [In Norway Attack, ‘Sharp Object,’ Not Arrows, Killed 5, Police Say](https://www.nytimes.com/2021/10/18/world/europe/norway-attack.html) NYT: The Norwegian police on Monday said that while a hunting bow had been used in last week’s rampage, the victims, four women and a man, were stabbed to death. 
- <p class="updated_time"> 06:04 PM CT, Oct. 18 </p> 
- [Covid: Australia's Flying Doctors take vaccines to vast remote areas](https://www.bbc.co.uk/news/world-australia-58956564?at_medium=RSS&at_campaign=KARANGA) BBC: The famed service is helping solve the immense challenge of vaccinating remote Australia. 
  <p class="updated_time"> 05:47 PM CT, Oct. 18 </p> 
  [U.K. Leaders Praise Slain Lawmaker Amid Heightened Security Concerns](https://www.nytimes.com/2021/10/18/world/europe/david-amess-attack-parliament.html) NYT: Prime Minister Boris Johnson and members of Parliament paid tribute to David Amess, who was fatally stabbed last week. 
  <p class="updated_time"> 05:16 PM CT, Oct. 18 </p> 
@@ -178,6 +188,8 @@ permalink: /charts/news/
  [Taiwan Couple Are Suspected of Negligent Homicide in Building Fire](https://www.nytimes.com/2021/10/18/world/asia/taiwan-building-fire.html) NYT: Prosecutors accused a woman of leaving a burning incense coil unattended in the building in Kaohsiung. Her partner was accused of failing to remind her to douse the coil before leaving. 
  <p class="updated_time"> 07:30 AM CT, Oct. 18 </p> 
  [COP26: Does a climate summit need 25,000 people? And more questions](https://www.bbc.co.uk/news/science-environment-58925049?at_medium=RSS&at_campaign=KARANGA) BBC: BBC science correspondent Matt McGrath answers your questions about Glasgow's COP26 climate summit. 
+ <p class="updated_time"> 06:54 AM CT, Oct. 18 </p> 
+ [Prince William's Earthshot Prize Honors Costa Rica and Milan in Climate Fight](https://www.nytimes.com/2021/10/17/climate/earthshot-prizes-costa-rica-milan.html) NYT: Costa Rica and the city of Milan were among the five winners that each received one million pounds, or nearly $1.4 million, to continue sustainability and conservation efforts during a ceremony in London. 
  <p class="updated_time"> 05:41 AM CT, Oct. 18 </p> 
  [America’s Cash Glut](https://www.nytimes.com/2021/10/18/briefing/us-economy-cash-glut.html) NYT: The economy is almost doing too well. But there are some problems. 
  <p class="updated_time"> 04:00 AM CT, Oct. 18 </p> 
