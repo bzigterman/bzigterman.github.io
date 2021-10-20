@@ -6,6 +6,14 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 10:24 AM CT, Oct. 20 </p> 
+ [Bombing of Military Bus in Syrian Capital Kills 14](https://www.nytimes.com/2021/10/20/world/middleeast/syria-military-bus-bombing.html) NYT: President Bashar al-Assad has tightened his grip on Damascus, but the attack suggested that militants who oppose him can still do harm. 
+ <p class="updated_time"> 10:14 AM CT, Oct. 20 </p> 
+ [Syria war: Deadly bomb blasts hit military bus in Damascus](https://www.bbc.co.uk/news/world-middle-east-58930309?at_medium=RSS&at_campaign=KARANGA) BBC: At least 14 people are reported to have died in the bloodiest attack in the Syrian capital in years. 
+ <p class="updated_time"> 10:07 AM CT, Oct. 20 </p> 
+ [Heavy Rains in India and Nepal Kill Dozens](https://www.nytimes.com/2021/10/20/world/asia/india-nepal-floods-landslides.html) NYT: The death toll continued to rise on Wednesday as landslides and flooding damaged homes and stranded thousands of people. 
+ <p class="updated_time"> 10:06 AM CT, Oct. 20 </p> 
+ [Female Afghan Judges and Lawyers Now Fear For Their Lives](https://www.nytimes.com/2021/10/20/world/asia/afghan-judges-women-taliban.html) NYT: They fear that they or their loved ones could be tracked down and killed because of their work delivering justice to women. “We have lost everything — our jobs, our homes, the way we lived.” 
  <p class="updated_time"> 10:03 AM CT, Oct. 20 </p> 
  [De Blasio Announces Vaccine Mandate for All City Workers](https://www.nytimes.com/2021/10/20/nyregion/new-york-city-vaccine-mandate.html) NYT: The new mandate will apply to more than 160,000 employees, including police officers, firefighters and sanitation workers, whose vaccination rates have lagged. 
  <p class="updated_time"> 10:00 AM CT, Oct. 20 </p> 
@@ -13,11 +21,9 @@ permalink: /charts/news/
  <p class="updated_time"> 09:58 AM CT, Oct. 20 </p> 
  [Nikolas Cruz: Parkland gunman pleads guilty to murdering 17](https://www.bbc.co.uk/news/world-us-canada-58983965?at_medium=RSS&at_campaign=KARANGA) BBC: Nikolas Cruz could see life in prison or the death penalty over the 2018 Florida school shooting. 
  <p class="updated_time"> 09:54 AM CT, Oct. 20 </p> 
- [Russia Introduces Weeklong Office shutdown After Virus Deaths Rise](https://www.nytimes.com/2021/10/20/world/europe/russia-covid-restrictions.html) NYT: The measure, meant to slow the virus’s spread, is short of a full lockdown and only affects nonessential workers. 
+ [Russia Introduces Weeklong Office Shutdown After Covid Deaths Rise](https://www.nytimes.com/2021/10/20/world/europe/russia-covid-restrictions.html) NYT: The measure, meant to slow the virus’s spread, is short of a full lockdown and only affects nonessential workers. 
  <p class="updated_time"> 09:45 AM CT, Oct. 20 </p> 
  [Putin Won’t Go to Glasgow for Climate Conference](https://www.nytimes.com/2021/10/20/world/europe/putin-glasgow-climate-conference-cop26.html) NYT: President Vladimir V. Putin of Russia may make a speech by video at the United Nations summit, which is seen as pivotal in efforts to stem climate change. 
- <p class="updated_time"> 09:44 AM CT, Oct. 20 </p> 
- [Heavy Rains in India and Nepal Kill Dozens](https://www.nytimes.com/2021/10/20/world/asia/india-nepal-floods-landslides.html) NYT: The death toll continued to rise on Wednesday as landslides and flooding damaged homes and stranded thousands of people. 
  <p class="updated_time"> 09:09 AM CT, Oct. 20 </p> 
  [Navalny, Persistent Kremlin Critic, Wins E.U.’s Top Human Rights Award](https://www.nytimes.com/2021/10/20/world/europe/navalny-sakharov-prize-putin-russia.html) NYT: Aleksei A. Navalny, Russia’s most prominent opposition leader, who is currently in prison, received the Sakharov Prize. 
  <p class="updated_time"> 09:04 AM CT, Oct. 20 </p> 
@@ -28,8 +34,6 @@ permalink: /charts/news/
  [The Olympic Torch Arrives in Beijing Under Cloud of Protests, Covid](https://www.nytimes.com/2021/10/20/world/asia/olympics-torch-china-covid-protest.html) NYT: A subdued ceremony in Beijing on Wednesday sets the tone for the Winter Olympics of 2022, which will be held under extraordinary health protocols. 
  <p class="updated_time"> 07:59 AM CT, Oct. 20 </p> 
  [COP26: Russia's Vladimir Putin will not attend climate summit](https://www.bbc.co.uk/news/world-europe-58977993?at_medium=RSS&at_campaign=KARANGA) BBC: No reason was given for the Russian leader's decision not to attend the conference in Glasgow. 
- <p class="updated_time"> 07:23 AM CT, Oct. 20 </p> 
- [Syria war: Deadly bomb blasts hit military bus in Damascus](https://www.bbc.co.uk/news/world-middle-east-58930309?at_medium=RSS&at_campaign=KARANGA) BBC: At least 14 people are reported to have died in the bloodiest attack in the Syrian capital in years. 
  <p class="updated_time"> 07:14 AM CT, Oct. 20 </p> 
  [Egyptian man arrested after broadcasting face during robbery](https://www.bbc.co.uk/news/world-middle-east-58980533?at_medium=RSS&at_campaign=KARANGA) BBC: The Egyptian man accidentally showed his face after stealing a journalist's phone mid-livestream. 
  <p class="updated_time"> 06:57 AM CT, Oct. 20 </p> 
@@ -44,22 +48,26 @@ permalink: /charts/news/
  [Lekki toll gate shootings: Nigeria's 'massacre without blood or bodies'](https://www.bbc.co.uk/news/world-africa-58975493?at_medium=RSS&at_campaign=KARANGA) BBC: The BBC investigates what happened on the night 20 October 2020, when the Nigerian army opened fire on peaceful protesters in Lagos. 
  <p class="updated_time"> 06:23 AM CT, Oct. 20 </p> 
  [Guatemala: Riot police deployed after protesters breach Congress, set cars alight](https://www.bbc.co.uk/news/world-latin-america-58978584?at_medium=RSS&at_campaign=KARANGA) BBC: Riot police were deployed and lawmakers had to be evacuated amid the protests. 
- <p class="updated_time"> 06:20 AM CT, Oct. 20 </p> 
- [Bombing of Military Bus in Syrian Capital Kills 14](https://www.nytimes.com/2021/10/20/world/middleeast/syria-military-bus-bombing.html) NYT: President Bashar al-Assad has tightened his grip on Damascus, but the attack suggested that militants who oppose him can still do harm. 
  <p class="updated_time"> 06:18 AM CT, Oct. 20 </p> 
  [Queen ‘Reluctantly’ Cancels Trip, Citing Medical Advice](https://www.nytimes.com/2021/10/20/world/europe/queen-elizabeth-northern-ireland.html) NYT: Britain’s 95-year-old monarch will not travel to Northern Ireland but is “in good spirits,” Buckingham Palace said. 
  <p class="updated_time"> 06:12 AM CT, Oct. 20 </p> 
  [Transgender Woman Flees Malaysia After Wearing Hijab](https://www.nytimes.com/2021/10/20/world/asia/malaysia-transgender.html) NYT: The Islamic authorities want to imprison her for wearing female clothing at a religious event and threatened to put her in a rehabilitation camp where she could “return to the right path.” 
+ <p class="updated_time"> 06:00 AM CT, Oct. 20 </p> 
+ [Viking Artifacts Give Precise Date for Europeans' Earliest Presence in North America](https://www.wsj.com/articles/viking-artifacts-give-precise-date-for-europeans-earliest-presence-in-north-america-11634742000) WSJ: A new analysis of ancient wooden artifacts shows that Viking voyagers had crossed the Atlantic Ocean and were living in Newfoundland as far back as 1021. 
  <p class="updated_time"> 05:37 AM CT, Oct. 20 </p> 
  [China Takes the Brakes Off Coal Production to Tackle Power Shortage](https://www.wsj.com/articles/china-takes-the-brakes-off-coal-production-to-tackle-power-shortage-11634727835) WSJ: The nation has ordered all coal mines to operate at full capacity, issued approvals for new mines and ordered major coal production bases in north and northwestern China to lower prices. 
+ <p class="updated_time"> 05:28 AM CT, Oct. 20 </p> 
+ [Taliban Commander Who Launched Bombings in Kabul Is Now a Police Chief in Charge of Security](https://www.wsj.com/articles/taliban-commander-who-launched-bombings-in-kabul-is-now-a-police-chief-in-charge-of-security-11634740097) WSJ: Mawlawi Zubair Mutmaeen is one of thousands of former fighters thrown into mundane jobs as new government struggles to stay on its feet. 
  <p class="updated_time"> 05:25 AM CT, Oct. 20 </p> 
  [Where Are the Workers?](https://www.nytimes.com/2021/10/20/briefing/labor-shortage-us-low-wage-economy.html) NYT: How can so many Americans afford not to work? And will it last? 
+ <p class="updated_time"> 05:03 AM CT, Oct. 20 </p> 
+ [Syrian Regime Shelling Kills at Least 13, Including Children](https://www.wsj.com/articles/syrian-regime-shelling-kills-at-least-13-including-children-in-rebel-held-province-11634738613) WSJ: At least 13 people including several children were killed when government forces shelled a marketplace and roads in the last major section of the country held by rebels. 
+ <p class="updated_time"> 04:57 AM CT, Oct. 20 </p> 
+ [Chinese Cities Move to Support Housing Market as Prices Drop](https://www.wsj.com/articles/chinese-cities-move-to-support-housing-market-as-prices-drop-11634738243) WSJ: In recent weeks, more than a dozen Chinese cities, from northeastern Harbin to southwestern Kunming, have introduced measures to prop up falling prices 
  <p class="updated_time"> 04:43 AM CT, Oct. 20 </p> 
  [Capitol riot: Lawmakers vote to hold Steve Bannon in contempt](https://www.bbc.co.uk/news/world-us-canada-58976196?at_medium=RSS&at_campaign=KARANGA) BBC: Steve Bannon could be prosecuted for refusing to give evidence on the Capitol riot. 
  <p class="updated_time"> 04:39 AM CT, Oct. 20 </p> 
  [Aryan Khan: Bollywood actor's son bail plea rejected in drugs case](https://www.bbc.co.uk/news/world-asia-india-58829972?at_medium=RSS&at_campaign=KARANGA) BBC: Aryan Khan, son of Bollywood superstar Shah Rukh Khan, was arrested on 3 October over drug charges. 
- <p class="updated_time"> 04:00 AM CT, Oct. 20 </p> 
- [Female Afghan Judges and Lawyers Now Fear For Their Lives](https://www.nytimes.com/2021/10/20/world/asia/afghan-judges-women-taliban.html) NYT: They fear that they or their loved ones could be tracked down and killed because of their work delivering justice to women. “We have lost everything — our jobs, our homes, the way we lived.” 
  <p class="updated_time"> 04:00 AM CT, Oct. 20 </p> 
  [Writing About a Past Injustice Helped Her See What Has and Hasn’t Changed](https://www.nytimes.com/2021/10/20/books/nadifa-mohamed-fortune-men.html) NYT: Nadifa Mohamed is a Booker Prize finalist for her novel “The Fortune Men,” a story about a false accusation and the tragedy that resulted. 
  <p class="updated_time"> 04:00 AM CT, Oct. 20 </p> 
@@ -70,14 +78,16 @@ permalink: /charts/news/
  [Kidnappers in Haiti Demand $17 Million to Free Missionary Group](https://www.nytimes.com/2021/10/19/world/americas/haiti-missionaries-ransom.html) NYT: A gang abducted 17 people associated with a Christian aid group, including five children. Most of those being held are Americans; one is Canadian. 
  <p class="updated_time"> 03:16 AM CT, Oct. 20 </p> 
  [Bolsonaro's Pandemic Response Draws Claim of Crimes Against Humanity ](https://www.nytimes.com/2021/10/19/world/americas/bolsonaro-covid-19-brazil.html) NYT: A report from lawmakers initially said Jair Bolsonaro should be charged with mass homicide and genocide, accusing him of letting Covid-19 spread in a failed bid for herd immunity. 
+ <p class="updated_time"> 03:13 AM CT, Oct. 20 </p> 
+ [Chinese Military's Flexing Stokes New Uncertainty in Taiwan](https://www.wsj.com/articles/chinese-warplanes-lead-taiwanese-to-think-about-what-to-do-in-an-attack-11634732013) WSJ: Residents of the self-ruled island are used to living in the shadow of an authoritarian regime, but rising tensions with China are stoking uncertainty for some. 
  <p class="updated_time"> 02:43 AM CT, Oct. 20 </p> 
  [Queen Elizabeth Cancels Trip, Rests on Medical Advice](https://www.wsj.com/articles/queen-elizabeth-cancels-trip-rests-on-medical-advice-11634730185) WSJ: The queen called off a visit to Northern Ireland after doctors advised her to rest for a few days, a rare case in which Britain’s longest-serving monarch has had to step back from public duties owing to ill health. 
  <p class="updated_time"> 02:35 AM CT, Oct. 20 </p> 
  [Medical Groups Declare Youth Mental Health Crisis](https://www.nytimes.com/2021/10/19/world/covid-pandemic-children-mental-health.html) NYT: Medical groups said the coronavirus pandemic had worsened a mental health crisis among children and teenagers. 
+ <p class="updated_time"> 02:20 AM CT, Oct. 20 </p> 
+ [Russia Faces Difficult Balancing Act as It Hosts Taliban in Moscow](https://www.wsj.com/articles/russia-faces-difficult-balancing-act-as-it-hosts-taliban-in-moscow-11634722296) WSJ: Russia is seeking to stay on good terms with the new regime in Afghanistan while preventing an influx of refugees and the spread of a broader Islamist movement in what used to be the Soviet Union. 
  <p class="updated_time"> 01:35 AM CT, Oct. 20 </p> 
  [Covid: Brazil's Bolsonaro 'should be charged with crimes against humanity'](https://www.bbc.co.uk/news/world-latin-america-58976197?at_medium=RSS&at_campaign=KARANGA) BBC: A big inquiry is presenting final findings into the Brazilian leader's handling of the Covid-19 pandemic. 
- <p class="updated_time"> 12:05 AM CT, Oct. 20 </p> 
- [Almost Half of Afghan Evacuees at U.S. Bases Are Children, Pentagon Says](https://www.wsj.com/articles/almost-half-of-afghan-evacuees-at-u-s-bases-are-children-pentagon-says-11634720580) WSJ: About half of the 53,000 Afghan evacuees brought to the U.S. and living at military installations are children, the Pentagon told lawmakers in a recent letter, underscoring the variety of challenges facing officials trying to resettle Afghans. 
  <p class="updated_time"> 11:48 PM CT, Oct. 19 </p> 
  [Your Wednesday Briefing](https://www.nytimes.com/2021/10/19/briefing/bolsanaro-coronavirus-myanmar-refugees.html) NYT: Calls to charge Bolsonaro with crimes against humanity. 
  <p class="updated_time"> 11:21 PM CT, Oct. 19 </p> 
@@ -128,8 +138,6 @@ permalink: /charts/news/
  [Mix-and-Match Covid Boosters: Why They Just Might Work](https://www.nytimes.com/2021/10/19/health/covid-vaccine-mix-match.html) NYT: The F.D.A. may authorize booster shots of vaccines different from the ones that Americans originally received. The science behind the move is promising. 
  <p class="updated_time"> 01:14 PM CT, Oct. 19 </p> 
  [Tuberculosis, Like Covid, Spreads by Breathing, Scientists Report](https://www.nytimes.com/2021/10/19/health/tuberculosis-transmission-aerosols.html) NYT: The finding upends conventional wisdom regarding coughing, long thought to be the main route of transmission. 
- <p class="updated_time"> 12:48 PM CT, Oct. 19 </p> 
- [U.S. to Issue Migration Appeal to South American Nations](https://www.wsj.com/articles/u-s-to-issue-migration-appeal-to-south-american-nations-11634669545) WSJ: Secretary of State Antony Blinken, in a meeting in Colombia, will urge countries to share responsibility for migration patterns. 
  <p class="updated_time"> 12:19 PM CT, Oct. 19 </p> 
  [School Attendance Falls for Homeless Students in N.Y.C. ](https://www.nytimes.com/2021/10/19/nyregion/new-york-city-homeless-school-attendance.html) NYT: Attendance rates for students living in shelters fell to just 73 percent in the first few weeks of the new school year, compared with around 90 percent for all students. 
  <p class="updated_time"> 12:13 PM CT, Oct. 19 </p> 
@@ -144,10 +152,6 @@ permalink: /charts/news/
  [The Threat, in Perspective](https://www.nytimes.com/2021/10/19/briefing/colin-powell-covid-risk-older-americans.html) NYT: Colin Powell’s death highlights the continuing Covid risks to older people with medical conditions. 
  <p class="updated_time"> 08:22 AM CT, Oct. 19 </p> 
  [Those Gifts You Want for the Holidays? Don’t Wait Too Long.](https://www.nytimes.com/2021/10/19/business/supply-chain-holidays.html) NYT: The supply chain disruption is shorthand for problems from factory closures to workers who are not working anymore. 
- <p class="updated_time"> 05:49 AM CT, Oct. 19 </p> 
- [Gangs Threaten to Tip Haiti Into a Failed State](https://www.wsj.com/articles/gangs-threaten-to-tip-haiti-into-a-failed-state-11634654955) WSJ: Criminal rings, like the one that kidnapped American missionaries, control as much as two-thirds of Haiti, a lawless scenario that threatens regional stability. 
- <p class="updated_time"> 04:48 AM CT, Oct. 19 </p> 
- [Is Brexit Hurting the U.K. Economy? Trade Data Flash a Warning](https://www.wsj.com/articles/is-brexit-hurting-the-u-k-economy-trade-export-import-european-union-england-11634651205) WSJ: The recovery is sputtering and some exporters say their separation from the European Union is the culprit; “harder, slower, more expensive, more difficult.” 
  <p class="updated_time"> 04:39 AM CT, Oct. 19 </p> 
  [Xi Faces Pushback on China's Bid to Tax Property](https://www.wsj.com/articles/in-tackling-chinas-real-estate-bubble-xi-jinping-faces-resistance-to-property-tax-plan-11634650751) WSJ: Chinese President Xi Jinping is facing strong resistance over a nationwide property-tax plan meant to help curb housing speculation, and he is now settling for a more limited rollout, people familiar with the matter said. 
  <p class="updated_time"> 03:18 AM CT, Oct. 19 </p> 
