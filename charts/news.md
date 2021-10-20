@@ -6,6 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 10:17 PM CT, Oct. 19 </p> 
+ [Medical Groups Declare Youth Mental Health Crisis](https://www.nytimes.com/2021/10/19/world/covid-pandemic-children-mental-health.html) NYT: Medical groups said the coronavirus pandemic worsened an already existing mental health crisis among children and teens. 
  <p class="updated_time"> 10:05 PM CT, Oct. 19 </p> 
  [Thousands Flee Myanmar for India Amid Fears of a Growing Refugee Crisis](https://www.nytimes.com/2021/10/19/world/asia/myanmar-refugees-india.html) NYT: For decades, armed conflict, political repression and targeted campaigns against minorities have forced hundreds of thousands of people to leave the country. Now many more are expected to follow. 
  <p class="updated_time"> 09:32 PM CT, Oct. 19 </p> 
@@ -188,8 +190,6 @@ permalink: /charts/news/
  [Fake Polls and Tabloid Coverage on Demand: The Dark Side of Sebastian Kurz](https://www.nytimes.com/2021/10/17/world/europe/austria-sebastian-kurz-scandal-chancellor.html) NYT: The downfall of Austria’s onetime political Wunderkind put a spotlight on the cozy, sometimes corrupt, relationship between right-wing populists and parts of the news media. 
  <p class="updated_time"> 11:17 AM CT, Oct. 17 </p> 
  [Tunisians Recall Revolution Reluctantly, if at All: ‘It Just Faded Away’](https://www.nytimes.com/2021/10/17/world/middleeast/tunisia-revolution-memoro-monuments.html) NYT: When a monument to those killed in the 2011 uprising was recently damaged, few took notice or even cared in a town, and country, where there is now more regret than a wish to remember. 
- <p class="updated_time"> 08:12 AM CT, Oct. 17 </p> 
- [How a Stunning Lagoon in Spain Turned Into ‘Green Soup’](https://www.nytimes.com/2021/10/17/world/europe/spain-lagoon-pollution-mar-menor.html) NYT: Tons of dead fish have washed ashore in recent years from the Mar Menor, a once-crystalline lagoon on the Mediterranean coast that has become choked with algae. Farm pollution is mostly blamed. 
  <p class="updated_time"> 07:50 AM CT, Oct. 13 </p> 
  [What is climate change? A really simple guide](https://www.bbc.co.uk/news/science-environment-24021772?at_medium=RSS&at_campaign=KARANGA) BBC: World temperatures are rising because of human activity, and climate change now threatens every aspect of human life. 
 
