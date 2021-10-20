@@ -6,6 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 03:20 PM CT, Oct. 20 </p> 
+ [Navalny, Putin’s Imprisoned Foe, Wins E.U.’s Top Human Rights Award](https://www.nytimes.com/2021/10/20/world/europe/navalny-sakharov-prize-putin-russia.html) NYT: Aleksei A. Navalny, the Russian opposition leader who survived an assassination attempt only to be jailed, received the Sakharov Prize. 
  <p class="updated_time"> 03:05 PM CT, Oct. 20 </p> 
  [Heavy Rains in India and Nepal Kill Dozens](https://www.nytimes.com/2021/10/20/world/asia/india-nepal-floods-landslides.html) NYT: The death toll continued to rise on Wednesday as landslides and flooding damaged homes and stranded thousands of people. 
  <p class="updated_time"> 03:02 PM CT, Oct. 20 </p> 
@@ -44,8 +46,6 @@ permalink: /charts/news/
  [Flooding death toll passes 100 in Nepal and India's Uttarakhand](https://www.bbc.co.uk/news/world-asia-india-58951456?at_medium=RSS&at_campaign=KARANGA) BBC: Heavy rain triggers flash floods in India's northern state of Uttarakhand and parts of Nepal. 
  <p class="updated_time"> 12:22 PM CT, Oct. 20 </p> 
  [Spanish Court Agrees to Extradite Former Venezuela Spy Chief to U.S.](https://www.nytimes.com/2021/10/20/world/europe/spain-extradite-carvajal-venezuela.html) NYT: Hugo Carvajal, once a prominent figure in the government of the Venezuelan leader Nicolás Maduro, faces drug-trafficking charges in the United States. 
- <p class="updated_time"> 12:20 PM CT, Oct. 20 </p> 
- [Navalny, Putin’s Imprisoned Foe, Wins E.U.’s Top Human Rights Award](https://www.nytimes.com/2021/10/20/world/europe/navalny-sakharov-prize-putin-russia.html) NYT: Aleksei A. Navalny, the Russian opposition leader who survived an assassination attempt only to be jailed, received the Sakharov Prize. 
  <p class="updated_time"> 12:09 PM CT, Oct. 20 </p> 
  [De Blasio Announces Vaccine Mandate for All City Workers](https://www.nytimes.com/2021/10/20/nyregion/new-york-city-vaccine-mandate.html) NYT: The new mandate will apply to more than 160,000 employees, including police officers, firefighters and sanitation workers, whose vaccination rates have lagged. 
  <p class="updated_time"> 11:46 AM CT, Oct. 20 </p> 
