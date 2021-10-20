@@ -6,6 +6,12 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 08:06 AM CT, Oct. 20 </p> 
+ [The Olympic Torch Arrives in Beijing Under Cloud of Protests, Covid](https://www.nytimes.com/2021/10/20/world/asia/olympics-torch-china-covid-protest.html) NYT: A subdued ceremony in Beijing on Wednesday sets the tone for the Winter Olympics of 2022, which will be held under extraordinary health protocols. 
+ <p class="updated_time"> 07:59 AM CT, Oct. 20 </p> 
+ [COP26: Russia's Vladimir Putin will not attend climate summit](https://www.bbc.co.uk/news/world-europe-58977993?at_medium=RSS&at_campaign=KARANGA) BBC: No reason was given for the Russian leader's decision not to attend the conference in Glasgow. 
+ <p class="updated_time"> 07:56 AM CT, Oct. 20 </p> 
+ [Putin Won’t Go to Glasgow for Climate Conference](https://www.nytimes.com/2021/10/20/world/europe/putin-glasgow-climate-conference-cop26.html) NYT: President Vladimir V. Putin of Russia may make a speech by video at the United Nations summit, which is seen as pivotal in efforts to stem climate change. 
  <p class="updated_time"> 07:46 AM CT, Oct. 20 </p> 
  [De Blasio Announces Vaccine Mandate for All City Workers](https://www.nytimes.com/2021/10/20/nyregion/new-york-city-vaccine-mandate.html) NYT: The new mandate will apply to more than 160,000 employees, including police officers, firefighters and sanitation workers, whose vaccination rates have lagged. 
  <p class="updated_time"> 07:44 AM CT, Oct. 20 </p> 
@@ -16,8 +22,6 @@ permalink: /charts/news/
  [Egyptian man arrested after broadcasting face during robbery](https://www.bbc.co.uk/news/world-middle-east-58980533?at_medium=RSS&at_campaign=KARANGA) BBC: The Egyptian man accidentally showed his face after stealing a journalist's phone mid-livestream. 
  <p class="updated_time"> 06:57 AM CT, Oct. 20 </p> 
  [Taliban Allow Polio Vaccine Program to Restart in Afghanistan](https://www.nytimes.com/2021/10/19/world/asia/taliban-polio-vaccines-afghanistan.html) NYT: Taliban leaders also agreed to allow women to be frontline workers for the effort, according to the World Health Organization and UNICEF. 
- <p class="updated_time"> 06:54 AM CT, Oct. 20 </p> 
- [COP26: Russia's Vladimir Putin will not attend climate summit](https://www.bbc.co.uk/news/world-europe-58977993?at_medium=RSS&at_campaign=KARANGA) BBC: No reason was given for the Russian leader's decision not to attend the conference in Glasgow. 
  <p class="updated_time"> 06:54 AM CT, Oct. 20 </p> 
  [Shatta Wale: Ghana star arrested over death threat claim](https://www.bbc.co.uk/news/world-africa-58968366?at_medium=RSS&at_campaign=KARANGA) BBC: Shatta Wale said he was the victim of a gun attack - he's been accused of spreading false information. 
  <p class="updated_time"> 06:53 AM CT, Oct. 20 </p> 
@@ -40,10 +44,10 @@ permalink: /charts/news/
  [Capitol riot: Lawmakers vote to hold Steve Bannon in contempt](https://www.bbc.co.uk/news/world-us-canada-58976196?at_medium=RSS&at_campaign=KARANGA) BBC: Steve Bannon could be prosecuted for refusing to give evidence on the Capitol riot. 
  <p class="updated_time"> 04:39 AM CT, Oct. 20 </p> 
  [Aryan Khan: Bollywood actor's son bail plea rejected in drugs case](https://www.bbc.co.uk/news/world-asia-india-58829972?at_medium=RSS&at_campaign=KARANGA) BBC: Aryan Khan, son of Bollywood superstar Shah Rukh Khan, was arrested on 3 October over drug charges. 
- <p class="updated_time"> 04:18 AM CT, Oct. 20 </p> 
- [The Olympic Torch Arrives in Beijing Under Cloud of Protests, Covid](https://www.nytimes.com/2021/10/20/world/asia/olympics-torch-china-covid-protest.html) NYT: A subdued ceremony in Beijing on Wednesday sets the tone for the Winter Olympics of 2022, which will be held under extraordinary health protocols. 
  <p class="updated_time"> 04:00 AM CT, Oct. 20 </p> 
  [Female Afghan Judges and Lawyers Now Fear For Their Lives](https://www.nytimes.com/2021/10/20/world/asia/afghan-judges-women-taliban.html) NYT: They fear that they or their loved ones could be tracked down and killed because of their work delivering justice to women. “We have lost everything — our jobs, our homes, the way we lived.” 
+ <p class="updated_time"> 04:00 AM CT, Oct. 20 </p> 
+ [Boris Johnson Promotes Rising Wages Amid Shortages in U.K. ](https://www.nytimes.com/2021/10/20/business/boris-johnson-shortages-britain.html) NYT: Wages in some industries are rising because employers can’t find enough workers. That’s not a path to long-term growth, analysts say. 
  <p class="updated_time"> 04:00 AM CT, Oct. 20 </p> 
  [Writing About a Past Injustice Helped Her See What Has and Hasn’t Changed](https://www.nytimes.com/2021/10/20/books/nadifa-mohamed-fortune-men.html) NYT: Nadifa Mohamed is a Booker Prize finalist for her novel “The Fortune Men,” a story about a false accusation and the tragedy that resulted. 
  <p class="updated_time"> 04:00 AM CT, Oct. 20 </p> 
@@ -96,8 +100,6 @@ permalink: /charts/news/
  [The US suburban couple accused of a bungled treason plot](https://www.bbc.co.uk/news/world-us-canada-58920970?at_medium=RSS&at_campaign=KARANGA) BBC: The Toebbes seemed to have everything - so why did they allegedly try to sell nuclear secrets? 
  <p class="updated_time"> 06:10 PM CT, Oct. 19 </p> 
  [The Indian women widowed by Covid-19](https://www.bbc.co.uk/news/business-58149183?at_medium=RSS&at_campaign=KARANGA) BBC: In India, Covid has widowed thousands of women, who are now struggling to adjust to a new life. 
- <p class="updated_time"> 06:09 PM CT, Oct. 19 </p> 
- [FBI Raids Homes Linked to Russian Oligarch Oleg Deripaska](https://www.nytimes.com/2021/10/19/us/politics/oleg-deripaska-fbi-raid.html) NYT: Agents investigating whether Oleg Deripaska violated U.S. sanctions searched homes he has used in New York and Washington, D.C. 
  <p class="updated_time"> 06:07 PM CT, Oct. 19 </p> 
  [When a cobra became a murder weapon in India](https://www.bbc.co.uk/news/world-asia-india-58947068?at_medium=RSS&at_campaign=KARANGA) BBC: A 28-year-old man killed his wife using a cobra, in what prosecutors say is the first crime of its kind. 
  <p class="updated_time"> 05:13 PM CT, Oct. 19 </p> 
@@ -134,8 +136,6 @@ permalink: /charts/news/
  [F.B.I. Is Working in Haiti to Recover Kidnapped Missionaries](https://www.nytimes.com/2021/10/18/world/americas/haiti-protests.html) NYT: The United States has a team on the ground to try to secure the release of 17 people taken by a gang in the latest example of the violence that is leaving Haitians desperate. 
  <p class="updated_time"> 09:26 AM CT, Oct. 19 </p> 
  [The Threat, in Perspective](https://www.nytimes.com/2021/10/19/briefing/colin-powell-covid-risk-older-americans.html) NYT: Colin Powell’s death highlights the continuing Covid risks to older people with medical conditions. 
- <p class="updated_time"> 08:47 AM CT, Oct. 19 </p> 
- [Mass Abduction of U.S. Missionaries Startles Even Kidnap-Weary Haiti](https://www.nytimes.com/2021/10/17/world/americas/haiti-missionaries-kidnap.html) NYT: “Where is this country going?” Gang members seized 16 Americans and one Canadian, among them five children, as they visited an orphanage. 
  <p class="updated_time"> 08:22 AM CT, Oct. 19 </p> 
  [Those Gifts You Want for the Holidays? Don’t Wait Too Long.](https://www.nytimes.com/2021/10/19/business/supply-chain-holidays.html) NYT: The supply chain disruption is shorthand for problems from factory closures to workers who are not working anymore. 
  <p class="updated_time"> 05:49 AM CT, Oct. 19 </p> 
@@ -198,8 +198,6 @@ permalink: /charts/news/
  [I get abuse and threats online - why can't it be stopped?](https://www.bbc.co.uk/news/uk-58924168?at_medium=RSS&at_campaign=KARANGA) BBC: Online abuse against women is on the rise, but why aren't the police, government and social media sites doing more to stop it? 
  <p class="updated_time"> 06:13 PM CT, Oct. 17 </p> 
  [The climate activists who want Norway to end oil and gas production](https://www.bbc.co.uk/news/science-environment-58900652?at_medium=RSS&at_campaign=KARANGA) BBC: The BBC's Nick Beake meets the young climate activists trying to stop Norway drilling for oil and gas. 
- <p class="updated_time"> 07:50 AM CT, Oct. 13 </p> 
- [What is climate change? A really simple guide](https://www.bbc.co.uk/news/science-environment-24021772?at_medium=RSS&at_campaign=KARANGA) BBC: World temperatures are rising because of human activity, and climate change now threatens every aspect of human life. 
 
 
 
