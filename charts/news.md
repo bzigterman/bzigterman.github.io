@@ -6,22 +6,24 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 10:03 AM CT, Oct. 20 </p> 
+ [De Blasio Announces Vaccine Mandate for All City Workers](https://www.nytimes.com/2021/10/20/nyregion/new-york-city-vaccine-mandate.html) NYT: The new mandate will apply to more than 160,000 employees, including police officers, firefighters and sanitation workers, whose vaccination rates have lagged. 
+ <p class="updated_time"> 10:00 AM CT, Oct. 20 </p> 
+ [Ancient-DNA Researchers Set Ethical Guidelines for Their Work](https://www.nytimes.com/2021/10/20/science/ancient-dna-archaeology-ethics.html) NYT: New, international standards for handling ancient genetic material draw support from many scientists, criticism from others. 
+ <p class="updated_time"> 09:58 AM CT, Oct. 20 </p> 
+ [Nikolas Cruz: Parkland gunman pleads guilty to murdering 17](https://www.bbc.co.uk/news/world-us-canada-58983965?at_medium=RSS&at_campaign=KARANGA) BBC: Nikolas Cruz could see life in prison or the death penalty over the 2018 Florida school shooting. 
+ <p class="updated_time"> 09:54 AM CT, Oct. 20 </p> 
+ [Russia Introduces Weeklong Office shutdown After Virus Deaths Rise](https://www.nytimes.com/2021/10/20/world/europe/russia-covid-restrictions.html) NYT: The measure, meant to slow the virus’s spread, is short of a full lockdown and only affects nonessential workers. 
  <p class="updated_time"> 09:45 AM CT, Oct. 20 </p> 
  [Putin Won’t Go to Glasgow for Climate Conference](https://www.nytimes.com/2021/10/20/world/europe/putin-glasgow-climate-conference-cop26.html) NYT: President Vladimir V. Putin of Russia may make a speech by video at the United Nations summit, which is seen as pivotal in efforts to stem climate change. 
  <p class="updated_time"> 09:44 AM CT, Oct. 20 </p> 
  [Heavy Rains in India and Nepal Kill Dozens](https://www.nytimes.com/2021/10/20/world/asia/india-nepal-floods-landslides.html) NYT: The death toll continued to rise on Wednesday as landslides and flooding damaged homes and stranded thousands of people. 
- <p class="updated_time"> 09:36 AM CT, Oct. 20 </p> 
- [Russia Introduces Weeklong Office shutdown After Virus Deaths Rise](https://www.nytimes.com/2021/10/20/world/europe/russia-covid-restrictions.html) NYT: The measure, meant to slow the virus’s spread, is short of a full lockdown and only affects nonessential workers. 
- <p class="updated_time"> 09:28 AM CT, Oct. 20 </p> 
- [Nikolas Cruz: Parkland gunman pleads guilty to murdering 17](https://www.bbc.co.uk/news/world-us-canada-58983965?at_medium=RSS&at_campaign=KARANGA) BBC: Nikolas Cruz could see life in prison or the death penalty over the 2018 Florida school shooting. 
  <p class="updated_time"> 09:09 AM CT, Oct. 20 </p> 
  [Navalny, Persistent Kremlin Critic, Wins E.U.’s Top Human Rights Award](https://www.nytimes.com/2021/10/20/world/europe/navalny-sakharov-prize-putin-russia.html) NYT: Aleksei A. Navalny, Russia’s most prominent opposition leader, who is currently in prison, received the Sakharov Prize. 
  <p class="updated_time"> 09:04 AM CT, Oct. 20 </p> 
  [Boris Johnson Promotes Rising Wages Amid Shortages in U.K. ](https://www.nytimes.com/2021/10/20/business/boris-johnson-shortages-britain.html) NYT: Wages in some industries are rising because employers can’t find enough workers. That’s not a path to long-term growth, analysts say. 
  <p class="updated_time"> 08:56 AM CT, Oct. 20 </p> 
  [Gates Foundation Pledges $120 Million to Help Get Covid Pills Quickly to Poor Countries](https://www.nytimes.com/2021/10/20/health/covid-molnupiravir-gates-foundation.html) NYT: Regulatory hurdles and supply chain issues could slow efforts to produce generic versions of Merck’s antiviral molnupiravir for developing nations, despite licensing agreements. 
- <p class="updated_time"> 08:48 AM CT, Oct. 20 </p> 
- [De Blasio Announces Vaccine Mandate for All City Workers](https://www.nytimes.com/2021/10/20/nyregion/new-york-city-vaccine-mandate.html) NYT: The new mandate will apply to more than 160,000 employees, including police officers, firefighters and sanitation workers, whose vaccination rates have lagged. 
  <p class="updated_time"> 08:06 AM CT, Oct. 20 </p> 
  [The Olympic Torch Arrives in Beijing Under Cloud of Protests, Covid](https://www.nytimes.com/2021/10/20/world/asia/olympics-torch-china-covid-protest.html) NYT: A subdued ceremony in Beijing on Wednesday sets the tone for the Winter Olympics of 2022, which will be held under extraordinary health protocols. 
  <p class="updated_time"> 07:59 AM CT, Oct. 20 </p> 
@@ -186,8 +188,6 @@ permalink: /charts/news/
  [Myanmar Announces Amnesty for Thousands of Anti-Coup Protesters](https://www.nytimes.com/2021/10/18/world/asia/myanmar-military-amnesty-protesters.html) NYT: The junta, which seized power in February, said it was releasing the prisoners to mark the Lighting Festival, a three-day holiday that begins Tuesday. 
  <p class="updated_time"> 09:22 AM CT, Oct. 18 </p> 
  [Colin Powell dies of complications from Covid.](https://www.nytimes.com/2021/10/18/world/colin-powell-dies-at-84-of-complications-from-covid.html) NYT: NA 
- <p class="updated_time"> 08:19 AM CT, Oct. 18 </p> 
- [Taiwan Couple Are Suspected of Negligent Homicide in Building Fire](https://www.nytimes.com/2021/10/18/world/asia/taiwan-building-fire.html) NYT: Prosecutors accused a woman of leaving a burning incense coil unattended in the building in Kaohsiung. Her partner was accused of failing to remind her to douse the coil before leaving. 
  <p class="updated_time"> 07:30 AM CT, Oct. 18 </p> 
  [COP26: Does a climate summit need 25,000 people? And more questions](https://www.bbc.co.uk/news/science-environment-58925049?at_medium=RSS&at_campaign=KARANGA) BBC: BBC science correspondent Matt McGrath answers your questions about Glasgow's COP26 climate summit. 
  <p class="updated_time"> 05:41 AM CT, Oct. 18 </p> 
