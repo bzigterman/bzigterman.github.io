@@ -6,6 +6,12 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 10:36 AM CT, Oct. 20 </p> 
+ [Navalny, Putin’s Imprisoned Foe, Wins E.U.’s Top Human Rights Award](https://www.nytimes.com/2021/10/20/world/europe/navalny-sakharov-prize-putin-russia.html) NYT: Aleksei A. Navalny, the Russian opposition leader who survived an assassination attempt only to be jailed, received the Sakharov Prize. 
+ <p class="updated_time"> 10:33 AM CT, Oct. 20 </p> 
+ [Turkey Sours on Syrians, but Not in This Sleepy Town, Jolted Awake](https://www.nytimes.com/2021/10/20/world/europe/turkey-syria-border-refugees.html) NYT: As calls increase in Turkey for Syrian refugees to go home, Kilis, a border town transformed by the newcomers’ energy, has embraced the change. 
+ <p class="updated_time"> 10:27 AM CT, Oct. 20 </p> 
+ [Covid: Brazil's Bolsonaro 'should be charged with crimes against humanity'](https://www.bbc.co.uk/news/world-latin-america-58976197?at_medium=RSS&at_campaign=KARANGA) BBC: A big inquiry is presenting final findings into the Brazilian leader's handling of the Covid-19 pandemic. 
  <p class="updated_time"> 10:24 AM CT, Oct. 20 </p> 
  [Bombing of Military Bus in Syrian Capital Kills 14](https://www.nytimes.com/2021/10/20/world/middleeast/syria-military-bus-bombing.html) NYT: President Bashar al-Assad has tightened his grip on Damascus, but the attack suggested that militants who oppose him can still do harm. 
  <p class="updated_time"> 10:14 AM CT, Oct. 20 </p> 
@@ -24,8 +30,6 @@ permalink: /charts/news/
  [Russia Introduces Weeklong Office Shutdown After Covid Deaths Rise](https://www.nytimes.com/2021/10/20/world/europe/russia-covid-restrictions.html) NYT: The measure, meant to slow the virus’s spread, is short of a full lockdown and only affects nonessential workers. 
  <p class="updated_time"> 09:45 AM CT, Oct. 20 </p> 
  [Putin Won’t Go to Glasgow for Climate Conference](https://www.nytimes.com/2021/10/20/world/europe/putin-glasgow-climate-conference-cop26.html) NYT: President Vladimir V. Putin of Russia may make a speech by video at the United Nations summit, which is seen as pivotal in efforts to stem climate change. 
- <p class="updated_time"> 09:09 AM CT, Oct. 20 </p> 
- [Navalny, Persistent Kremlin Critic, Wins E.U.’s Top Human Rights Award](https://www.nytimes.com/2021/10/20/world/europe/navalny-sakharov-prize-putin-russia.html) NYT: Aleksei A. Navalny, Russia’s most prominent opposition leader, who is currently in prison, received the Sakharov Prize. 
  <p class="updated_time"> 09:04 AM CT, Oct. 20 </p> 
  [Boris Johnson Promotes Rising Wages Amid Shortages in U.K. ](https://www.nytimes.com/2021/10/20/business/boris-johnson-shortages-britain.html) NYT: Wages in some industries are rising because employers can’t find enough workers. That’s not a path to long-term growth, analysts say. 
  <p class="updated_time"> 08:56 AM CT, Oct. 20 </p> 
@@ -86,8 +90,6 @@ permalink: /charts/news/
  [Medical Groups Declare Youth Mental Health Crisis](https://www.nytimes.com/2021/10/19/world/covid-pandemic-children-mental-health.html) NYT: Medical groups said the coronavirus pandemic had worsened a mental health crisis among children and teenagers. 
  <p class="updated_time"> 02:20 AM CT, Oct. 20 </p> 
  [Russia Faces Difficult Balancing Act as It Hosts Taliban in Moscow](https://www.wsj.com/articles/russia-faces-difficult-balancing-act-as-it-hosts-taliban-in-moscow-11634722296) WSJ: Russia is seeking to stay on good terms with the new regime in Afghanistan while preventing an influx of refugees and the spread of a broader Islamist movement in what used to be the Soviet Union. 
- <p class="updated_time"> 01:35 AM CT, Oct. 20 </p> 
- [Covid: Brazil's Bolsonaro 'should be charged with crimes against humanity'](https://www.bbc.co.uk/news/world-latin-america-58976197?at_medium=RSS&at_campaign=KARANGA) BBC: A big inquiry is presenting final findings into the Brazilian leader's handling of the Covid-19 pandemic. 
  <p class="updated_time"> 11:48 PM CT, Oct. 19 </p> 
  [Your Wednesday Briefing](https://www.nytimes.com/2021/10/19/briefing/bolsanaro-coronavirus-myanmar-refugees.html) NYT: Calls to charge Bolsonaro with crimes against humanity. 
  <p class="updated_time"> 11:21 PM CT, Oct. 19 </p> 
@@ -196,8 +198,6 @@ permalink: /charts/news/
  [COP26: Does a climate summit need 25,000 people? And more questions](https://www.bbc.co.uk/news/science-environment-58925049?at_medium=RSS&at_campaign=KARANGA) BBC: BBC science correspondent Matt McGrath answers your questions about Glasgow's COP26 climate summit. 
  <p class="updated_time"> 05:41 AM CT, Oct. 18 </p> 
  [America’s Cash Glut](https://www.nytimes.com/2021/10/18/briefing/us-economy-cash-glut.html) NYT: The economy is almost doing too well. But there are some problems. 
- <p class="updated_time"> 04:00 AM CT, Oct. 18 </p> 
- [How a Nuclear Bomb Could Save Earth From a Stealthy Asteroid](https://www.nytimes.com/2021/10/18/science/asteroid-nuclear-bomb.html) NYT: An atomic blast is not the preferred solution for planetary defense, but 3-D models are helping scientists prepare for a worst-case scenario. 
  <p class="updated_time"> 06:56 PM CT, Oct. 17 </p> 
  [I get abuse and threats online - why can't it be stopped?](https://www.bbc.co.uk/news/uk-58924168?at_medium=RSS&at_campaign=KARANGA) BBC: Online abuse against women is on the rise, but why aren't the police, government and social media sites doing more to stop it? 
  <p class="updated_time"> 06:13 PM CT, Oct. 17 </p> 
