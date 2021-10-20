@@ -6,6 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 09:28 AM CT, Oct. 20 </p> 
+ [Nikolas Cruz: Parkland gunman pleads guilty to murdering 17](https://www.bbc.co.uk/news/world-us-canada-58983965?at_medium=RSS&at_campaign=KARANGA) BBC: Nikolas Cruz could see life in prison or the death penalty over the 2018 Florida school shooting. 
  <p class="updated_time"> 09:09 AM CT, Oct. 20 </p> 
  [Navalny, Persistent Kremlin Critic, Wins E.U.’s Top Human Rights Award](https://www.nytimes.com/2021/10/20/world/europe/navalny-sakharov-prize-putin-russia.html) NYT: Aleksei A. Navalny, Russia’s most prominent opposition leader, who is currently in prison, received the Sakharov Prize. 
  <p class="updated_time"> 09:04 AM CT, Oct. 20 </p> 
@@ -86,8 +88,6 @@ permalink: /charts/news/
  [In-N-Out Burger Was Briefly Closed for Breaking San Francisco Covid Protocols](https://www.nytimes.com/2021/10/19/world/san-francisco-in-n-out-burger-covid-vaccine.html) NYT: The popular burger chain said it refused to become “the vaccination police for any government.” 
  <p class="updated_time"> 07:31 PM CT, Oct. 19 </p> 
  [U.S.-Venezuela Tensions Heat Up Again After Extradition of Maduro Ally](https://www.nytimes.com/2021/10/19/us/politics/venezuela-maduro-biden.html) NYT: As Secretary of State Antony Blinken heads to the region, the window of opportunity for a political resolution has slammed shut. At least for now. 
- <p class="updated_time"> 07:16 PM CT, Oct. 19 </p> 
- [Rachel Levine: Transgender official sworn in as four-star admiral](https://www.bbc.co.uk/news/world-us-canada-58974627?at_medium=RSS&at_campaign=KARANGA) BBC: Dr Rachel Levine is already the nation's most prominent openly transgender federal official. 
  <p class="updated_time"> 07:02 PM CT, Oct. 19 </p> 
  [North Korea Tests First Submarine-Launched Missile in Two Years](https://www.nytimes.com/2021/10/18/world/asia/north-korea-ballistic-missile-test-washington.html) NYT: The launch came after special envoys gathered to discuss how to deal with Pyongyang’s growing nuclear capabilities. 
  <p class="updated_time"> 06:52 PM CT, Oct. 19 </p> 
