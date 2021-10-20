@@ -6,6 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 03:57 PM CT, Oct. 20 </p> 
+ [Gabby Petito: Apparent human remains found in search for fiancé Brian Laundrie](https://www.bbc.co.uk/news/world-us-canada-58989242?at_medium=RSS&at_campaign=KARANGA) BBC: Items owned by Gabby Petito's missing fiancé and apparent human remains have been found in Florida. 
  <p class="updated_time"> 03:20 PM CT, Oct. 20 </p> 
  [Navalny, Putin’s Imprisoned Foe, Wins E.U.’s Top Human Rights Award](https://www.nytimes.com/2021/10/20/world/europe/navalny-sakharov-prize-putin-russia.html) NYT: Aleksei A. Navalny, the Russian opposition leader who survived an assassination attempt only to be jailed, received the Sakharov Prize. 
  <p class="updated_time"> 03:05 PM CT, Oct. 20 </p> 
@@ -28,8 +30,6 @@ permalink: /charts/news/
  [Ancient-DNA Researchers Set Ethics Guidelines for Their Work](https://www.nytimes.com/2021/10/20/science/ancient-dna-archaeology-ethics.html) NYT: New, international standards for handling ancient genetic material draw support from many scientists, criticism from others. 
  <p class="updated_time"> 01:54 PM CT, Oct. 20 </p> 
  [Egypt imposes a vaccine mandate for all government workers and university students.](https://www.nytimes.com/2021/10/20/world/egypt-covid-vaccine-mandate.html) NYT: Officials expect major deliveries of doses by the end of the month to speed up the country’s vaccination efforts. 
- <p class="updated_time"> 01:53 PM CT, Oct. 20 </p> 
- [Gabby Petito: Items found in search for missing fiancé Brian Laundrie](https://www.bbc.co.uk/news/world-us-canada-58989242?at_medium=RSS&at_campaign=KARANGA) BBC: Items belonging to Gabby Petito's missing fiancé have been found in a Florida park, the FBI says. 
  <p class="updated_time"> 01:43 PM CT, Oct. 20 </p> 
  [Paris Hilton pushes for US youth care abuse reform](https://www.bbc.co.uk/news/world-us-canada-58988523?at_medium=RSS&at_campaign=KARANGA) BBC: The reality star spoke in Washington DC about her alleged abuse in residential care as a teenager. 
  <p class="updated_time"> 01:13 PM CT, Oct. 20 </p> 
@@ -46,8 +46,6 @@ permalink: /charts/news/
  [Flooding death toll passes 100 in Nepal and India's Uttarakhand](https://www.bbc.co.uk/news/world-asia-india-58951456?at_medium=RSS&at_campaign=KARANGA) BBC: Heavy rain triggers flash floods in India's northern state of Uttarakhand and parts of Nepal. 
  <p class="updated_time"> 12:22 PM CT, Oct. 20 </p> 
  [Spanish Court Agrees to Extradite Former Venezuela Spy Chief to U.S.](https://www.nytimes.com/2021/10/20/world/europe/spain-extradite-carvajal-venezuela.html) NYT: Hugo Carvajal, once a prominent figure in the government of the Venezuelan leader Nicolás Maduro, faces drug-trafficking charges in the United States. 
- <p class="updated_time"> 12:09 PM CT, Oct. 20 </p> 
- [De Blasio Announces Vaccine Mandate for All City Workers](https://www.nytimes.com/2021/10/20/nyregion/new-york-city-vaccine-mandate.html) NYT: The new mandate will apply to more than 160,000 employees, including police officers, firefighters and sanitation workers, whose vaccination rates have lagged. 
  <p class="updated_time"> 11:46 AM CT, Oct. 20 </p> 
  [Russian inmate who leaked torture videos alleges death threats](https://www.bbc.co.uk/news/world-europe-58978613?at_medium=RSS&at_campaign=KARANGA) BBC: Sergey Savelyev is seeking asylum in France after he leaked videos showing abuse in Russian prisons. 
  <p class="updated_time"> 11:37 AM CT, Oct. 20 </p> 
@@ -160,6 +158,8 @@ permalink: /charts/news/
  [Ukraine's Covid Deaths Soar as Fake Vaccination Certificates Spread](https://www.nytimes.com/2021/10/19/world/europe/ukraine-covid-deaths.html) NYT: In the country with the lowest rate of coronavirus vaccination in Europe, the proliferation of fakes threatens to undermine Ukraine’s fight against the virus. 
  <p class="updated_time"> 11:49 AM CT, Oct. 19 </p> 
  [Reluctance among Russians to get vaccinated has led to a surge in cases and deaths.](https://www.nytimes.com/2021/10/19/world/apathy-and-mistrust-leave-russia-facing-the-risks-of-a-low-vaccination-rate.html) NYT: NA 
+ <p class="updated_time"> 10:09 AM CT, Oct. 19 </p> 
+ [F.B.I. Is Working in Haiti to Recover Kidnapped Missionaries](https://www.nytimes.com/2021/10/18/world/americas/haiti-protests.html) NYT: The United States has a team on the ground to try to secure the release of 17 people taken by a gang in the latest example of the violence that is leaving Haitians desperate. 
  <p class="updated_time"> 09:26 AM CT, Oct. 19 </p> 
  [The Threat, in Perspective](https://www.nytimes.com/2021/10/19/briefing/colin-powell-covid-risk-older-americans.html) NYT: Colin Powell’s death highlights the continuing Covid risks to older people with medical conditions. 
  <p class="updated_time"> 03:18 AM CT, Oct. 19 </p> 
