@@ -52,6 +52,8 @@ permalink: /charts/news/
  [Heavy Rains in India and Nepal Kill Dozens](https://www.nytimes.com/2021/10/20/world/asia/india-nepal-floods-landslides.html) NYT: The death toll continued to rise on Wednesday as landslides and flooding damaged homes and stranded thousands of people. 
  <p class="updated_time"> 10:06 AM CT, Oct. 20 </p> 
  [Female Afghan Judges and Lawyers Now Fear For Their Lives](https://www.nytimes.com/2021/10/20/world/asia/afghan-judges-women-taliban.html) NYT: They fear that they or their loved ones could be tracked down and killed because of their work delivering justice to women. “We have lost everything — our jobs, our homes, the way we lived.” 
+ <p class="updated_time"> 09:32 AM CT, Oct. 20 </p> 
+ [Taliban Face Pressure Over New Afghan Government at Russia Conference](https://www.wsj.com/articles/russia-faces-difficult-balancing-act-as-it-hosts-taliban-in-moscow-11634722296) WSJ: Taliban representatives met with senior officials from Russia, China and other countries in Moscow, where they came under pressure to form a more inclusive government and pursue a friendly policy toward neighboring countries. 
  <p class="updated_time"> 09:04 AM CT, Oct. 20 </p> 
  [Boris Johnson Promotes Rising Wages Amid Shortages in U.K. ](https://www.nytimes.com/2021/10/20/business/boris-johnson-shortages-britain.html) NYT: Wages in some industries are rising because employers can’t find enough workers. That’s not a path to long-term growth, analysts say. 
  <p class="updated_time"> 08:56 AM CT, Oct. 20 </p> 
@@ -98,8 +100,6 @@ permalink: /charts/news/
  [Queen Elizabeth Cancels Trip, Rests on Medical Advice](https://www.wsj.com/articles/queen-elizabeth-cancels-trip-rests-on-medical-advice-11634730185) WSJ: The queen called off a visit to Northern Ireland after doctors advised her to rest for a few days, a rare case in which Britain’s longest-serving monarch has had to step back from public duties owing to ill health. 
  <p class="updated_time"> 02:35 AM CT, Oct. 20 </p> 
  [Medical Groups Declare Youth Mental Health Crisis](https://www.nytimes.com/2021/10/19/world/covid-pandemic-children-mental-health.html) NYT: Medical groups said the coronavirus pandemic had worsened a mental health crisis among children and teenagers. 
- <p class="updated_time"> 02:20 AM CT, Oct. 20 </p> 
- [Russia Faces Difficult Balancing Act as It Hosts Taliban in Moscow](https://www.wsj.com/articles/russia-faces-difficult-balancing-act-as-it-hosts-taliban-in-moscow-11634722296) WSJ: Russia is seeking to stay on good terms with the new regime in Afghanistan while preventing an influx of refugees and the spread of a broader Islamist movement in what used to be the Soviet Union. 
  <p class="updated_time"> 11:48 PM CT, Oct. 19 </p> 
  [Your Wednesday Briefing](https://www.nytimes.com/2021/10/19/briefing/bolsanaro-coronavirus-myanmar-refugees.html) NYT: Calls to charge Bolsonaro with crimes against humanity. 
  <p class="updated_time"> 11:06 PM CT, Oct. 19 </p> 
