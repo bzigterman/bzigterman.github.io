@@ -6,10 +6,10 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 09:09 AM CT, Oct. 20 </p> 
+ [Navalny, Persistent Kremlin Critic, Wins E.U.’s Top Human Rights Award](https://www.nytimes.com/2021/10/20/world/europe/navalny-sakharov-prize-putin-russia.html) NYT: Aleksei A. Navalny, Russia’s most prominent opposition leader, who is currently in prison, received the Sakharov Prize. 
  <p class="updated_time"> 09:04 AM CT, Oct. 20 </p> 
  [Boris Johnson Promotes Rising Wages Amid Shortages in U.K. ](https://www.nytimes.com/2021/10/20/business/boris-johnson-shortages-britain.html) NYT: Wages in some industries are rising because employers can’t find enough workers. That’s not a path to long-term growth, analysts say. 
- <p class="updated_time"> 09:03 AM CT, Oct. 20 </p> 
- [Navalny, Persistent Kremlin Critic, Wins E.U.’s Top Human Rights Award](https://www.nytimes.com/2021/10/20/world/europe/navalny-sakharov-prize-putin-russia.html) NYT: Aleksei A. Navalny, Russia’s most prominent opposition leader, who is currently in prison, received the Sakharov Prize. 
  <p class="updated_time"> 08:56 AM CT, Oct. 20 </p> 
  [Gates Foundation Pledges $120 Million to Help Get Covid Pills Quickly to Poor Countries](https://www.nytimes.com/2021/10/20/health/covid-molnupiravir-gates-foundation.html) NYT: Regulatory hurdles and supply chain issues could slow efforts to produce generic versions of Merck’s antiviral molnupiravir for developing nations, despite licensing agreements. 
  <p class="updated_time"> 08:48 AM CT, Oct. 20 </p> 
