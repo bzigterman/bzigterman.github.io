@@ -6,14 +6,14 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 05:52 PM CT, Oct. 20 </p> 
+ [Gabby Petito: 'Human remains' found in Brian Laundrie search](https://www.bbc.co.uk/news/world-us-canada-58989242?at_medium=RSS&at_campaign=KARANGA) BBC: Items owned by Gabby Petito's missing fiancé and apparent human remains have been found in Florida. 
  <p class="updated_time"> 05:39 PM CT, Oct. 20 </p> 
  [Covid Cases Rise in Some Caribbean Islands, W.H.O. Says](https://www.nytimes.com/2021/10/20/world/covid-caribbean-paho.html) NYT: Many nations and territories in the region have had trouble rolling out vaccination drives and need to ramp up testing, officials said. 
  <p class="updated_time"> 05:06 PM CT, Oct. 20 </p> 
  [UK agrees free trade deal with New Zealand](https://www.bbc.co.uk/news/business-58988711?at_medium=RSS&at_campaign=KARANGA) BBC: The government says consumers and businesses will benefit from deal, but it is unlikely to boost growth. 
  <p class="updated_time"> 05:00 PM CT, Oct. 20 </p> 
  [The Webb Telescope’s Latest Stumbling Block: Its Name](https://www.nytimes.com/2021/10/20/science/webb-telescope-astronomy-homophobia.html) NYT: The long-awaited successor to the Hubble Space Telescope is scheduled to launch in December. But the NASA official for whom it is named has been accused of homophobia. 
- <p class="updated_time"> 04:43 PM CT, Oct. 20 </p> 
- [Gabby Petito: Apparent human remains found in search for fiancé Brian Laundrie](https://www.bbc.co.uk/news/world-us-canada-58989242?at_medium=RSS&at_campaign=KARANGA) BBC: Items owned by Gabby Petito's missing fiancé and apparent human remains have been found in Florida. 
  <p class="updated_time"> 04:15 PM CT, Oct. 20 </p> 
  [Brazil Senate’s Pandemic Panel, in Last-Minute Shift, Softened Criminal Recommendations on Bolsonaro](https://www.nytimes.com/2021/10/20/world/americas/bolsonaro-pandemic-inquiry-crimes.html) NYT: Senators on the 11-member panel had second thoughts about the provability of homicide and genocide charges. Instead, they accused the president of “crimes against humanity.” 
  <p class="updated_time"> 04:07 PM CT, Oct. 20 </p> 
