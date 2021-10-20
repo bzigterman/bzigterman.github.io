@@ -6,8 +6,14 @@ permalink: /charts/news/
 
 ## World News
 
- <p class="updated_time"> 01:21 PM CT, Oct. 20 </p> 
- [Ancient-DNA Researchers Set Ethical Guidelines for Their Work](https://www.nytimes.com/2021/10/20/science/ancient-dna-archaeology-ethics.html) NYT: New, international standards for handling ancient genetic material draw support from many scientists, criticism from others. 
+ <p class="updated_time"> 01:59 PM CT, Oct. 20 </p> 
+ [Those Gifts You Want for the Holidays? Don’t Wait Too Long.](https://www.nytimes.com/2021/10/19/business/supply-chain-holidays.html) NYT: The supply chain disruption is shorthand for problems from factory closures to workers who are not working anymore. 
+ <p class="updated_time"> 01:58 PM CT, Oct. 20 </p> 
+ [Ancient-DNA Researchers Set Ethics Guidelines for Their Work](https://www.nytimes.com/2021/10/20/science/ancient-dna-archaeology-ethics.html) NYT: New, international standards for handling ancient genetic material draw support from many scientists, criticism from others. 
+ <p class="updated_time"> 01:54 PM CT, Oct. 20 </p> 
+ [Egypt imposes a vaccine mandate for all government workers and university students.](https://www.nytimes.com/2021/10/20/world/egypt-covid-vaccine-mandate.html) NYT: Officials expect major deliveries of doses by the end of the month to speed up the country’s vaccination efforts. 
+ <p class="updated_time"> 01:53 PM CT, Oct. 20 </p> 
+ [Gabby Petito: Items found in search for missing fiancé Brian Laundrie](https://www.bbc.co.uk/news/world-us-canada-58989242?at_medium=RSS&at_campaign=KARANGA) BBC: Items belonging to Gabby Petito's missing fiancé have been found in a Florida park, the FBI says. 
  <p class="updated_time"> 01:13 PM CT, Oct. 20 </p> 
  [Britain Resists Calls to Introduce Covid Restrictions](https://www.nytimes.com/2021/10/20/world/europe/britain-covid-cases.html) NYT: The number of new cases in Britain is among the highest in the world, but the government has said there is no need to impose indoor mask mandates or other restrictions. 
  <p class="updated_time"> 12:54 PM CT, Oct. 20 </p> 
@@ -82,8 +88,6 @@ permalink: /charts/news/
  [Where Are the Workers?](https://www.nytimes.com/2021/10/20/briefing/labor-shortage-us-low-wage-economy.html) NYT: How can so many Americans afford not to work? And will it last? 
  <p class="updated_time"> 05:03 AM CT, Oct. 20 </p> 
  [Syrian Regime Shelling Kills at Least 13, Including Children](https://www.wsj.com/articles/syrian-regime-shelling-kills-at-least-13-including-children-in-rebel-held-province-11634738613) WSJ: At least 13 people including several children were killed when government forces shelled a marketplace and roads in the last major section of the country held by rebels. 
- <p class="updated_time"> 04:43 AM CT, Oct. 20 </p> 
- [Capitol riot: Lawmakers vote to hold Steve Bannon in contempt](https://www.bbc.co.uk/news/world-us-canada-58976196?at_medium=RSS&at_campaign=KARANGA) BBC: Steve Bannon could be prosecuted for refusing to give evidence on the Capitol riot. 
  <p class="updated_time"> 04:39 AM CT, Oct. 20 </p> 
  [Aryan Khan: Bollywood actor's son bail plea rejected in drugs case](https://www.bbc.co.uk/news/world-asia-india-58829972?at_medium=RSS&at_campaign=KARANGA) BBC: Aryan Khan, son of Bollywood superstar Shah Rukh Khan, was arrested on 3 October over drug charges. 
  <p class="updated_time"> 04:00 AM CT, Oct. 20 </p> 
@@ -152,8 +156,6 @@ permalink: /charts/news/
  [F.B.I. Is Working in Haiti to Recover Kidnapped Missionaries](https://www.nytimes.com/2021/10/18/world/americas/haiti-protests.html) NYT: The United States has a team on the ground to try to secure the release of 17 people taken by a gang in the latest example of the violence that is leaving Haitians desperate. 
  <p class="updated_time"> 09:26 AM CT, Oct. 19 </p> 
  [The Threat, in Perspective](https://www.nytimes.com/2021/10/19/briefing/colin-powell-covid-risk-older-americans.html) NYT: Colin Powell’s death highlights the continuing Covid risks to older people with medical conditions. 
- <p class="updated_time"> 08:22 AM CT, Oct. 19 </p> 
- [Those Gifts You Want for the Holidays? Don’t Wait Too Long.](https://www.nytimes.com/2021/10/19/business/supply-chain-holidays.html) NYT: The supply chain disruption is shorthand for problems from factory closures to workers who are not working anymore. 
  <p class="updated_time"> 03:18 AM CT, Oct. 19 </p> 
  [ Russia's Low Vaccination Rates Leads to Record-Breaking Toll](https://www.nytimes.com/2021/10/18/world/europe/russia-virus-vaccine.html) NYT: The country hit 1,000 deaths in a 24-hour period for the first time since the pandemic began, reflecting the risks of having a low vaccination rate. 
  <p class="updated_time"> 11:02 PM CT, Oct. 18 </p> 
@@ -186,8 +188,6 @@ permalink: /charts/news/
  [Hello? This Is Colombia’s Antimachismo Hotline.](https://www.nytimes.com/2021/10/18/world/americas/colombia-machismo-hotline-masculinity.html) NYT: A new hotline in Bogotá takes calls from men struggling with jealousy, control and fear — and challenges long-held assumptions about masculinity. 
  <p class="updated_time"> 10:06 AM CT, Oct. 18 </p> 
  [Myanmar Announces Amnesty for Thousands of Anti-Coup Protesters](https://www.nytimes.com/2021/10/18/world/asia/myanmar-military-amnesty-protesters.html) NYT: The junta, which seized power in February, said it was releasing the prisoners to mark the Lighting Festival, a three-day holiday that begins Tuesday. 
- <p class="updated_time"> 09:22 AM CT, Oct. 18 </p> 
- [Colin Powell dies of complications from Covid.](https://www.nytimes.com/2021/10/18/world/colin-powell-dies-at-84-of-complications-from-covid.html) NYT: NA 
  <p class="updated_time"> 07:30 AM CT, Oct. 18 </p> 
  [COP26: Does a climate summit need 25,000 people? And more questions](https://www.bbc.co.uk/news/science-environment-58925049?at_medium=RSS&at_campaign=KARANGA) BBC: BBC science correspondent Matt McGrath answers your questions about Glasgow's COP26 climate summit. 
  <p class="updated_time"> 06:56 PM CT, Oct. 17 </p> 
