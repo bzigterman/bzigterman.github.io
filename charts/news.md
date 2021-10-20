@@ -6,8 +6,10 @@ permalink: /charts/news/
 
 ## World News
 
- <p class="updated_time"> 11:07 PM CT, Oct. 19 </p> 
- [Bolsonaro's Pandemic Handling Draws Explosive Allegation: Homicide](https://www.nytimes.com/2021/10/19/world/americas/bolsonaro-covid-19-brazil.html) NYT: A Senate committee’s report initially recommended that Jair Bolsonaro be charged with mass homicide and genocide, after concluding that he had purposely let the coronavirus kill Brazilians in a failed bid for herd immunity. 
+ <p class="updated_time"> 11:21 PM CT, Oct. 19 </p> 
+ [Uttarakhand: At least 46 killed in floods in Himalayan state](https://www.bbc.co.uk/news/world-asia-india-58951456?at_medium=RSS&at_campaign=KARANGA) BBC: Unusually heavy rainfall has triggered flash floods in India's northern state of Uttarakhand. 
+ <p class="updated_time"> 11:14 PM CT, Oct. 19 </p> 
+ [Bolsonaro's Pandemic Handling Draws Explosive Allegation: Homicide](https://www.nytimes.com/2021/10/19/world/americas/bolsonaro-covid-19-brazil.html) NYT: A report from lawmakers initially said Jair Bolsonaro should be charged with mass homicide and genocide, accusing him of letting Covid-19 spread in a failed bid for herd immunity. 
  <p class="updated_time"> 11:06 PM CT, Oct. 19 </p> 
  [Thousands Flee Myanmar for India Amid Fears of a Growing Refugee Crisis](https://www.nytimes.com/2021/10/19/world/asia/myanmar-refugees-india.html) NYT: For decades, armed conflict, political repression and targeted campaigns against minorities have forced hundreds of thousands of people to leave the country. Now many more are expected to follow. 
  <p class="updated_time"> 10:54 PM CT, Oct. 19 </p> 
@@ -51,7 +53,7 @@ permalink: /charts/news/
  <p class="updated_time"> 06:09 PM CT, Oct. 19 </p> 
  [FBI Raids Homes Linked to Russian Oligarch Oleg Deripaska](https://www.nytimes.com/2021/10/19/us/politics/oleg-deripaska-fbi-raid.html) NYT: Agents investigating whether Oleg Deripaska violated U.S. sanctions searched homes he has used in New York and Washington, D.C. 
  <p class="updated_time"> 06:07 PM CT, Oct. 19 </p> 
- [When a cobra became a murder weapon](https://www.bbc.co.uk/news/world-asia-india-58947068?at_medium=RSS&at_campaign=KARANGA) BBC: A 28-year-old man killed his wife using a cobra, in what prosecutors say is the first crime of its kind. 
+ [When a cobra became a murder weapon in India](https://www.bbc.co.uk/news/world-asia-india-58947068?at_medium=RSS&at_campaign=KARANGA) BBC: A 28-year-old man killed his wife using a cobra, in what prosecutors say is the first crime of its kind. 
  <p class="updated_time"> 05:47 PM CT, Oct. 19 </p> 
  [Washington Hears Echoes of the ’50s and Worries: Is This a Cold War With China?](https://www.nytimes.com/2021/10/17/us/politics/china-new-cold-war.html) NYT: Incursions into Taiwan’s air zone, a space launch and what looked like a prisoner swap raise a question that is about more than just semantics. It could signal a dangerous new mind-set. 
  <p class="updated_time"> 05:13 PM CT, Oct. 19 </p> 
@@ -96,8 +98,6 @@ permalink: /charts/news/
  [For Christian Aid Ministries, Charity in Haiti Turns to Chaos](https://www.nytimes.com/2021/10/17/world/americas/amish-missionary-group-kidnap.html) NYT: An organization based in Ohio and founded by Amish and Mennonites has been swept up in the violence roiling the country. 
  <p class="updated_time"> 10:09 AM CT, Oct. 19 </p> 
  [F.B.I. Is Working in Haiti to Recover Kidnapped Missionaries](https://www.nytimes.com/2021/10/18/world/americas/haiti-protests.html) NYT: The United States has a team on the ground to try to secure the release of 17 people taken by a gang in the latest example of the violence that is leaving Haitians desperate. 
- <p class="updated_time"> 10:04 AM CT, Oct. 19 </p> 
- [Polish PM accuses EU of blackmail as row over rule of law escalates](https://www.bbc.co.uk/news/world-europe-58955375?at_medium=RSS&at_campaign=KARANGA) BBC: Mateusz Morawiecki clashes with EU leaders over a Polish court ruling that rejected parts of EU law. 
  <p class="updated_time"> 09:29 AM CT, Oct. 19 </p> 
  [Taliban Allow Polio Vaccine Program to Restart in Afghanistan](https://www.nytimes.com/2021/10/19/world/asia/taliban-polio-vaccines-afghanistan.html) NYT: Taliban leaders also agreed to allow women to be frontline workers for the effort, according to the World Health Organization and UNICEF. 
  <p class="updated_time"> 09:26 AM CT, Oct. 19 </p> 
