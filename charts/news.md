@@ -6,32 +6,40 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 11:18 AM CT, Oct. 20 </p> 
+ [De Blasio Announces Vaccine Mandate for All City Workers](https://www.nytimes.com/2021/10/20/nyregion/new-york-city-vaccine-mandate.html) NYT: The new mandate will apply to more than 160,000 employees, including police officers, firefighters and sanitation workers, whose vaccination rates have lagged. 
+ <p class="updated_time"> 11:18 AM CT, Oct. 20 </p> 
+ [Nikolas Cruz: Parkland gunman pleads guilty to murdering 17](https://www.bbc.co.uk/news/world-us-canada-58983965?at_medium=RSS&at_campaign=KARANGA) BBC: Nikolas Cruz could see life in prison or the death penalty over the 2018 Florida school shooting. 
+ <p class="updated_time"> 11:08 AM CT, Oct. 20 </p> 
+ [Britain Resists Calls to Introduce Covid Restrictions](https://www.nytimes.com/2021/10/20/world/europe/britain-covid-cases.html) NYT: The number of new, daily cases in Britain are among the highest in the world, but the government has said there is no need to implement indoor mask mandates or impose other restrictions. 
+ <p class="updated_time"> 11:05 AM CT, Oct. 20 </p> 
+ [Karim Benzema: French sex tape blackmail case trial starts](https://www.bbc.co.uk/news/world-europe-58977550?at_medium=RSS&at_campaign=KARANGA) BBC: The Real Madrid footballer is accused of complicity in an attempt to blackmail Mathieu Valbuena. 
+ <p class="updated_time"> 11:05 AM CT, Oct. 20 </p> 
+ [Covid: Brazil's Bolsonaro 'should be charged with crimes against humanity'](https://www.bbc.co.uk/news/world-latin-america-58976197?at_medium=RSS&at_campaign=KARANGA) BBC: Brazil's president should be charged with crimes against humanity, a Senate-led inquiry says. 
+ <p class="updated_time"> 11:00 AM CT, Oct. 20 </p> 
+ [Putin Won’t Go to Glasgow for Climate Conference](https://www.nytimes.com/2021/10/20/world/europe/putin-glasgow-climate-conference-cop26.html) NYT: President Vladimir V. Putin of Russia may make a speech by video at the United Nations summit, which is seen as pivotal in efforts to stem climate change. 
+ <p class="updated_time"> 10:59 AM CT, Oct. 20 </p> 
+ [Russian inmate who fled after jail torture leaks](https://www.bbc.co.uk/news/world-europe-58978613?at_medium=RSS&at_campaign=KARANGA) BBC: Sergey Savelyev is seeking asylum in France after he leaked videos showing abuse in Russian jails. 
  <p class="updated_time"> 10:46 AM CT, Oct. 20 </p> 
  [School Attendance Falls for Homeless Students in N.Y.C. ](https://www.nytimes.com/2021/10/19/nyregion/new-york-city-homeless-school-attendance.html) NYT: Attendance rates for students living in shelters fell to just 73 percent in the first few weeks of the new school year, compared with around 90 percent for all students. 
  <p class="updated_time"> 10:36 AM CT, Oct. 20 </p> 
  [Navalny, Putin’s Imprisoned Foe, Wins E.U.’s Top Human Rights Award](https://www.nytimes.com/2021/10/20/world/europe/navalny-sakharov-prize-putin-russia.html) NYT: Aleksei A. Navalny, the Russian opposition leader who survived an assassination attempt only to be jailed, received the Sakharov Prize. 
  <p class="updated_time"> 10:33 AM CT, Oct. 20 </p> 
  [Turkey Sours on Syrians, but Not in This Sleepy Town, Jolted Awake](https://www.nytimes.com/2021/10/20/world/europe/turkey-syria-border-refugees.html) NYT: As calls increase in Turkey for Syrian refugees to go home, Kilis, a border town transformed by the newcomers’ energy, has embraced the change. 
- <p class="updated_time"> 10:27 AM CT, Oct. 20 </p> 
- [Covid: Brazil's Bolsonaro 'should be charged with crimes against humanity'](https://www.bbc.co.uk/news/world-latin-america-58976197?at_medium=RSS&at_campaign=KARANGA) BBC: A big inquiry is presenting final findings into the Brazilian leader's handling of the Covid-19 pandemic. 
  <p class="updated_time"> 10:24 AM CT, Oct. 20 </p> 
  [Bombing of Military Bus in Syrian Capital Kills 14](https://www.nytimes.com/2021/10/20/world/middleeast/syria-military-bus-bombing.html) NYT: President Bashar al-Assad has tightened his grip on Damascus, but the attack suggested that militants who oppose him can still do harm. 
+ <p class="updated_time"> 10:23 AM CT, Oct. 20 </p> 
+ [Hugo Carvajal: Spain to extradite Venezuela's ex-spy chief to US](https://www.bbc.co.uk/news/world-latin-america-58984103?at_medium=RSS&at_campaign=KARANGA) BBC: Hugo Carvajal faces drugs charges but may also have incriminating evidence against President Maduro. 
  <p class="updated_time"> 10:14 AM CT, Oct. 20 </p> 
  [Syria war: Deadly bomb blasts hit military bus in Damascus](https://www.bbc.co.uk/news/world-middle-east-58930309?at_medium=RSS&at_campaign=KARANGA) BBC: At least 14 people are reported to have died in the bloodiest attack in the Syrian capital in years. 
  <p class="updated_time"> 10:07 AM CT, Oct. 20 </p> 
  [Heavy Rains in India and Nepal Kill Dozens](https://www.nytimes.com/2021/10/20/world/asia/india-nepal-floods-landslides.html) NYT: The death toll continued to rise on Wednesday as landslides and flooding damaged homes and stranded thousands of people. 
  <p class="updated_time"> 10:06 AM CT, Oct. 20 </p> 
  [Female Afghan Judges and Lawyers Now Fear For Their Lives](https://www.nytimes.com/2021/10/20/world/asia/afghan-judges-women-taliban.html) NYT: They fear that they or their loved ones could be tracked down and killed because of their work delivering justice to women. “We have lost everything — our jobs, our homes, the way we lived.” 
- <p class="updated_time"> 10:03 AM CT, Oct. 20 </p> 
- [De Blasio Announces Vaccine Mandate for All City Workers](https://www.nytimes.com/2021/10/20/nyregion/new-york-city-vaccine-mandate.html) NYT: The new mandate will apply to more than 160,000 employees, including police officers, firefighters and sanitation workers, whose vaccination rates have lagged. 
  <p class="updated_time"> 10:00 AM CT, Oct. 20 </p> 
  [Ancient-DNA Researchers Set Ethical Guidelines for Their Work](https://www.nytimes.com/2021/10/20/science/ancient-dna-archaeology-ethics.html) NYT: New, international standards for handling ancient genetic material draw support from many scientists, criticism from others. 
- <p class="updated_time"> 09:58 AM CT, Oct. 20 </p> 
- [Nikolas Cruz: Parkland gunman pleads guilty to murdering 17](https://www.bbc.co.uk/news/world-us-canada-58983965?at_medium=RSS&at_campaign=KARANGA) BBC: Nikolas Cruz could see life in prison or the death penalty over the 2018 Florida school shooting. 
  <p class="updated_time"> 09:54 AM CT, Oct. 20 </p> 
  [Russia Introduces Weeklong Office Shutdown After Covid Deaths Rise](https://www.nytimes.com/2021/10/20/world/europe/russia-covid-restrictions.html) NYT: The measure, meant to slow the virus’s spread, is short of a full lockdown and only affects nonessential workers. 
- <p class="updated_time"> 09:45 AM CT, Oct. 20 </p> 
- [Putin Won’t Go to Glasgow for Climate Conference](https://www.nytimes.com/2021/10/20/world/europe/putin-glasgow-climate-conference-cop26.html) NYT: President Vladimir V. Putin of Russia may make a speech by video at the United Nations summit, which is seen as pivotal in efforts to stem climate change. 
  <p class="updated_time"> 09:04 AM CT, Oct. 20 </p> 
  [Boris Johnson Promotes Rising Wages Amid Shortages in U.K. ](https://www.nytimes.com/2021/10/20/business/boris-johnson-shortages-britain.html) NYT: Wages in some industries are rising because employers can’t find enough workers. That’s not a path to long-term growth, analysts say. 
  <p class="updated_time"> 08:56 AM CT, Oct. 20 </p> 
@@ -44,10 +52,6 @@ permalink: /charts/news/
  [Egyptian man arrested after broadcasting face during robbery](https://www.bbc.co.uk/news/world-middle-east-58980533?at_medium=RSS&at_campaign=KARANGA) BBC: The Egyptian man accidentally showed his face after stealing a journalist's phone mid-livestream. 
  <p class="updated_time"> 06:57 AM CT, Oct. 20 </p> 
  [Taliban Allow Polio Vaccine Program to Restart in Afghanistan](https://www.nytimes.com/2021/10/19/world/asia/taliban-polio-vaccines-afghanistan.html) NYT: Taliban leaders also agreed to allow women to be frontline workers for the effort, according to the World Health Organization and UNICEF. 
- <p class="updated_time"> 06:54 AM CT, Oct. 20 </p> 
- [Shatta Wale: Ghana star arrested over death threat claim](https://www.bbc.co.uk/news/world-africa-58968366?at_medium=RSS&at_campaign=KARANGA) BBC: Shatta Wale said he was the victim of a gun attack - he's been accused of spreading false information. 
- <p class="updated_time"> 06:53 AM CT, Oct. 20 </p> 
- [Karim Benzema: French sex tape blackmail case trial starts](https://www.bbc.co.uk/news/world-europe-58977550?at_medium=RSS&at_campaign=KARANGA) BBC: The Real Madrid footballer is accused of complicity in an attempt to blackmail Mathieu Valbuena. 
  <p class="updated_time"> 06:52 AM CT, Oct. 20 </p> 
  [Britain Outlines Energy Plans Amid Dimming Prospects for Climate Summit](https://www.nytimes.com/2021/10/19/world/europe/britain-climate-change-cop26.html) NYT: In an effort to recapture momentum, Prime Minister Boris Johnson  announced a host of measures, including plans for a big expansion of electric vehicles, more offshore wind power and greater use of hydrogen. 
  <p class="updated_time"> 06:48 AM CT, Oct. 20 </p> 
@@ -98,8 +102,6 @@ permalink: /charts/news/
  [Uttarakhand: At least 46 killed in floods in Himalayan state](https://www.bbc.co.uk/news/world-asia-india-58951456?at_medium=RSS&at_campaign=KARANGA) BBC: Unusually heavy rainfall has triggered flash floods in India's northern state of Uttarakhand. 
  <p class="updated_time"> 11:06 PM CT, Oct. 19 </p> 
  [Thousands Flee Myanmar for India Amid Fears of a Growing Refugee Crisis](https://www.nytimes.com/2021/10/19/world/asia/myanmar-refugees-india.html) NYT: For decades, armed conflict, political repression and targeted campaigns against minorities have forced hundreds of thousands of people to leave the country. Now many more are expected to follow. 
- <p class="updated_time"> 09:32 PM CT, Oct. 19 </p> 
- [North Korea claims test of new submarine-launched missile](https://www.bbc.co.uk/news/world-asia-58976195?at_medium=RSS&at_campaign=KARANGA) BBC: Pyongyang confirmed the test a day after South Korea detected a ballistic missile had been fired. 
  <p class="updated_time"> 08:34 PM CT, Oct. 19 </p> 
  [Fox News Anchor Neil Cavuto Tests Positive for Coronavirus](https://www.nytimes.com/2021/10/19/world/fox-news-neil-cavuto-positive-covid.html) NYT: The broadcaster has survived cancer and open-heart surgery and has multiple sclerosis. 
  <p class="updated_time"> 08:29 PM CT, Oct. 19 </p> 
@@ -196,8 +198,6 @@ permalink: /charts/news/
  [Colin Powell dies of complications from Covid.](https://www.nytimes.com/2021/10/18/world/colin-powell-dies-at-84-of-complications-from-covid.html) NYT: NA 
  <p class="updated_time"> 07:30 AM CT, Oct. 18 </p> 
  [COP26: Does a climate summit need 25,000 people? And more questions](https://www.bbc.co.uk/news/science-environment-58925049?at_medium=RSS&at_campaign=KARANGA) BBC: BBC science correspondent Matt McGrath answers your questions about Glasgow's COP26 climate summit. 
- <p class="updated_time"> 05:41 AM CT, Oct. 18 </p> 
- [America’s Cash Glut](https://www.nytimes.com/2021/10/18/briefing/us-economy-cash-glut.html) NYT: The economy is almost doing too well. But there are some problems. 
  <p class="updated_time"> 06:56 PM CT, Oct. 17 </p> 
  [I get abuse and threats online - why can't it be stopped?](https://www.bbc.co.uk/news/uk-58924168?at_medium=RSS&at_campaign=KARANGA) BBC: Online abuse against women is on the rise, but why aren't the police, government and social media sites doing more to stop it? 
  <p class="updated_time"> 06:13 PM CT, Oct. 17 </p> 
