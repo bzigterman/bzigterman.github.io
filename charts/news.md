@@ -27,7 +27,7 @@ permalink: /charts/news/
  <p class="updated_time"> 10:16 PM CT, Oct. 19 </p> 
  [IMF warns Afghanistan's economic slump will impact neighbours](https://www.bbc.co.uk/news/business-58950560?at_medium=RSS&at_campaign=KARANGA) BBC: Afghanistan's economic turmoil will fuel a refugee crisis impacting nearby countries, the fund warned. 
  <p class="updated_time"> 09:32 PM CT, Oct. 19 </p> 
- [North Korea claim test of new submarine-launched missile](https://www.bbc.co.uk/news/world-asia-58976195?at_medium=RSS&at_campaign=KARANGA) BBC: Pyongyang confirmed the test a day after South Korea detected a ballistic missile had been fired. 
+ [North Korea claims test of new submarine-launched missile](https://www.bbc.co.uk/news/world-asia-58976195?at_medium=RSS&at_campaign=KARANGA) BBC: Pyongyang confirmed the test a day after South Korea detected a ballistic missile had been fired. 
  <p class="updated_time"> 08:34 PM CT, Oct. 19 </p> 
  [Fox News Anchor Neil Cavuto Tests Positive for Coronavirus](https://www.nytimes.com/2021/10/19/world/fox-news-neil-cavuto-positive-covid.html) NYT: The broadcaster has survived cancer and open-heart surgery and has multiple sclerosis. 
  <p class="updated_time"> 08:29 PM CT, Oct. 19 </p> 
@@ -75,7 +75,7 @@ permalink: /charts/news/
  <p class="updated_time"> 02:42 PM CT, Oct. 19 </p> 
  [After Del Rio, Calls for Fairer Treatment of Black Migrants](https://www.nytimes.com/2021/10/19/us/politics/black-migrants-biden-border.html) NYT: The treatment of Haitians apprehended in Del Rio, Texas, has galvanized civil rights groups and others to press for change. 
  <p class="updated_time"> 02:29 PM CT, Oct. 19 </p> 
- [Navy report blames crew for devastating fire on the Bonhomme Richard](https://www.bbc.co.uk/news/world-us-canada-58975431?at_medium=RSS&at_campaign=KARANGA) BBC: The amphibious USS Bonhomme Richard was decommissioned after a fire burned on board for four days. 
+ [Navy report blames crew for devastating fire on the Bonhomme Richard](https://www.bbc.co.uk/news/world-us-canada-58975431?at_medium=RSS&at_campaign=KARANGA) BBC: The USS Bonhomme Richard was decommissioned after a fire burned on board for four days. 
  <p class="updated_time"> 02:23 PM CT, Oct. 19 </p> 
  [Unvaccinated State Workers in Washington and Massachusetts Face Job Loss](https://www.nytimes.com/2021/10/18/world/washington-massachusetts-employees-vaccination.html) NYT: New Jersey’s vaccine mandate for school and state workers also took effect this week, requiring employees to provide proof of vaccination or complete a Covid-19 test at least once a week. 
  <p class="updated_time"> 01:25 PM CT, Oct. 19 </p> 
