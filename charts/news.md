@@ -6,8 +6,12 @@ permalink: /charts/news/
 
 ## World News
 
- <p class="updated_time"> 01:50 PM CT, Oct. 21 </p> 
+ <p class="updated_time"> 02:20 PM CT, Oct. 21 </p> 
+ [On a Pacific Island, Russia Tests Its Battle Plan for Climate Change](https://www.nytimes.com/2021/10/19/world/europe/russia-climate-change.html) NYT: President Vladimir V. Putin long dismissed the threat posed by global warming. But fires, disasters and foreign pressure have prompted him to change course. 
+ <p class="updated_time"> 02:20 PM CT, Oct. 21 </p> 
  [Canada Settles on a Single 'Vaccine Passport' for Travel](https://www.nytimes.com/2021/10/21/world/canada-vaccine-passport-travel.html) NYT: The document, already in use in five of the country’s 10 provinces and all three of its territories, will replace a patchwork of programs across Canada. 
+ <p class="updated_time"> 02:16 PM CT, Oct. 21 </p> 
+ [With Covid Cases Rising, Moscow's Mayor Announces Lockdown ](https://www.nytimes.com/2021/10/21/world/moscow-lockdown.html) NYT: Like many countries, Russia has seesawed between tighter and looser pandemic restrictions. As the coronavirus claims more victims, the pendulum is now swinging toward tightening. 
  <p class="updated_time"> 01:30 PM CT, Oct. 21 </p> 
  [South Korea’s First Homemade Rocket Lifts Off but Is ‘One Step Short’](https://www.nytimes.com/2021/10/21/world/asia/south-korea-rocket.html) NYT: The country aspires to be a leader in space technology, with plans to land an uncrewed craft on the moon by 2030. President Moon Jae-in said the initial launch was excellent “for a first try.” 
  <p class="updated_time"> 01:11 PM CT, Oct. 21 </p> 
@@ -170,8 +174,6 @@ permalink: /charts/news/
  [Transgender U.S. Public Health Official Breaks Ground in Covid Fight](https://www.nytimes.com/2021/10/19/us/politics/rachel-levine-public-health-transgender.html) NYT: Admiral Rachel Levine is the first female four-star admiral in the history of the he U.S. Public Health Service Commissioned Corps, which she already leads in her role as assistant secretary. 
  <p class="updated_time"> 03:45 PM CT, Oct. 19 </p> 
  [Your Wednesday Briefing](https://www.nytimes.com/2021/10/19/briefing/australia-vaccines-evergrande-china-myanmar.html) NYT: Vaccine milestones in Australia and on tiny Pacific islands. 
- <p class="updated_time"> 03:03 PM CT, Oct. 19 </p> 
- [On a Pacific Island, Russia Tests Its Battle Plan for Climate Change](https://www.nytimes.com/2021/10/19/world/europe/russia-climate-change.html) NYT: President Vladimir V. Putin long dismissed the threat posed by global warming. But fires, disasters and foreign pressure have prompted him to change course. 
  <p class="updated_time"> 02:57 PM CT, Oct. 19 </p> 
  [They Fought Apartheid in South Africa. Now They Want Veterans’ Benefits.](https://www.nytimes.com/2021/10/19/world/africa/south-africa-apartheid-veterans-liberation-struggle.html) NYT: A protest movement by those who took up arms against apartheid has grown confrontational. More than 50 of them have been charged with kidnapping the country’s defense minister. 
  <p class="updated_time"> 02:42 PM CT, Oct. 19 </p> 
@@ -180,8 +182,6 @@ permalink: /charts/news/
  [Unvaccinated State Workers in Washington and Massachusetts Face Job Loss](https://www.nytimes.com/2021/10/18/world/washington-massachusetts-employees-vaccination.html) NYT: New Jersey’s vaccine mandate for school and state workers also took effect this week, requiring employees to provide proof of vaccination or complete a Covid-19 test at least once a week. 
  <p class="updated_time"> 01:25 PM CT, Oct. 19 </p> 
  [A Warning That Africa’s Last Glaciers Will Soon Vanish](https://www.nytimes.com/2021/10/19/world/africa/mountain-glaciers-disappear.html) NYT: While African nations contribute less than 4 percent of global greenhouse gas emissions, a U.N. report underscored the outsize impact that climate change is having on the continent. 
- <p class="updated_time"> 01:14 PM CT, Oct. 19 </p> 
- [Tuberculosis, Like Covid, Spreads by Breathing, Scientists Report](https://www.nytimes.com/2021/10/19/health/tuberculosis-transmission-aerosols.html) NYT: The finding upends conventional wisdom regarding coughing, long thought to be the main route of transmission. 
  <p class="updated_time"> 11:52 AM CT, Oct. 19 </p> 
  [Ukraine's Covid Deaths Soar as Fake Vaccination Certificates Spread](https://www.nytimes.com/2021/10/19/world/europe/ukraine-covid-deaths.html) NYT: In the country with the lowest rate of coronavirus vaccination in Europe, the proliferation of fakes threatens to undermine Ukraine’s fight against the virus. 
  <p class="updated_time"> 11:49 AM CT, Oct. 19 </p> 
