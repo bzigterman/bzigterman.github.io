@@ -1156,15 +1156,15 @@ html {
 <td class="gt_row gt_right">&minus;5&percnt;</td></tr>
     <tr><td class="gt_row gt_left gt_striped">New Vaccine Doses</td>
 <td class="gt_row gt_right gt_striped">955.0K</td>
-<td class="gt_row gt_right gt_striped">837.0K</td>
-<td class="gt_row gt_right gt_striped">&minus;12&percnt;</td></tr>
+<td class="gt_row gt_right gt_striped">831.0K</td>
+<td class="gt_row gt_right gt_striped">&minus;13&percnt;</td></tr>
     <tr><td class="gt_row gt_left">Fully Vaccinated</td>
 <td class="gt_row gt_right">186.0M</td>
-<td class="gt_row gt_right">189.0M</td>
+<td class="gt_row gt_right">190.0M</td>
 <td class="gt_row gt_right">+2&percnt;</td></tr>
     <tr><td class="gt_row gt_left gt_striped">Pct. Fully Vaccinated</td>
 <td class="gt_row gt_right gt_striped">55.4</td>
-<td class="gt_row gt_right gt_striped">56.3</td>
+<td class="gt_row gt_right gt_striped">56.4</td>
 <td class="gt_row gt_right gt_striped">+2&percnt;</td></tr>
   </tbody>
   <tfoot class="gt_sourcenotes">
@@ -1545,17 +1545,17 @@ html {
 <td class="gt_row gt_right gt_striped">6.8K</td>
 <td class="gt_row gt_right gt_striped">&minus;6&percnt;</td></tr>
     <tr><td class="gt_row gt_left">New Vaccine Doses</td>
-<td class="gt_row gt_right">24.9M</td>
-<td class="gt_row gt_right">19.9M</td>
-<td class="gt_row gt_right">&minus;20&percnt;</td></tr>
+<td class="gt_row gt_right">24.8M</td>
+<td class="gt_row gt_right">22.2M</td>
+<td class="gt_row gt_right">&minus;10&percnt;</td></tr>
     <tr><td class="gt_row gt_left gt_striped">Fully Vaccinated</td>
 <td class="gt_row gt_right gt_striped">2.7B</td>
 <td class="gt_row gt_right gt_striped">2.9B</td>
 <td class="gt_row gt_right gt_striped">+5&percnt;</td></tr>
     <tr><td class="gt_row gt_left">Pct. Fully Vaccinated</td>
 <td class="gt_row gt_right">34.6</td>
-<td class="gt_row gt_right">36.4</td>
-<td class="gt_row gt_right">+5&percnt;</td></tr>
+<td class="gt_row gt_right">36.6</td>
+<td class="gt_row gt_right">+6&percnt;</td></tr>
   </tbody>
   <tfoot class="gt_sourcenotes">
     <tr>
