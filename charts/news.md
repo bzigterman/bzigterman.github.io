@@ -6,7 +6,7 @@ permalink: /charts/news/
 
 ## World News
 
- <p class="updated_time"> 12:31 PM CT, Oct. 21 </p> 
+ <p class="updated_time"> 12:41 PM CT, Oct. 21 </p> 
  [‘It’s Terror’: In Haiti, Gangs Gain Power as Security Vacuum Grows](https://www.nytimes.com/2021/10/21/world/americas/haiti-gangs-kidnapping.html) NYT: Gangs have long held sway in the country, but their dominance has expanded in recent years and the government has been accused of using them as tools of repression. 
  <p class="updated_time"> 12:24 PM CT, Oct. 21 </p> 
  [U.K. Police Charge Suspect in David Amess Killing](https://www.nytimes.com/2021/10/21/world/europe/uk-david-amess-suspect-charged.html) NYT: Ali Harbi Ali, 25, was accused of murder and preparation of terrorist acts in the killing of David Amess, who was fatally stabbed last week. 
