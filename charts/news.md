@@ -6,8 +6,10 @@ permalink: /charts/news/
 
 ## World News
 
- <p class="updated_time"> 04:30 AM CT, Oct. 21 </p> 
+ <p class="updated_time"> 04:38 AM CT, Oct. 21 </p> 
  [India's Covid Vaccine Campaign Hits 1 Billion Doses](https://www.nytimes.com/2021/10/20/world/asia/india-vaccination-covid.html) NYT: Covid vaccination in has accelerated in India in recent weeks, with more than 70 percent of the adult population having received at least one dose of a vaccine. 
+ <p class="updated_time"> 04:29 AM CT, Oct. 21 </p> 
+ [Celtics Games Are Pulled in China After Enes Kanter’s Pro-Tibet Posts](https://www.nytimes.com/2021/10/21/sports/basketball/celtics-kanter-china-tibet.html) NYT: The Boston center called China’s leader, Xi Jinping, a “brutal dictator” on social media, igniting an online backlash in the country. The N.B.A.’s online partner stopped streaming the team’s games. 
  <p class="updated_time"> 04:24 AM CT, Oct. 21 </p> 
  [Cleo Smith: Police offer A$1m reward amid fears girl, 4, was abducted](https://www.bbc.co.uk/news/world-australia-58946569?at_medium=RSS&at_campaign=KARANGA) BBC: Cleo Smith, 4, vanished from a tent at a remote coastal campsite in Western Australia on Saturday. 
  <p class="updated_time"> 04:08 AM CT, Oct. 21 </p> 
@@ -120,8 +122,6 @@ permalink: /charts/news/
  [Female Afghan Judges and Lawyers Now Fear For Their Lives](https://www.nytimes.com/2021/10/20/world/asia/afghan-judges-women-taliban.html) NYT: They fear that they or their loved ones could be tracked down and killed because of their work delivering justice to women. “We have lost everything — our jobs, our homes, the way we lived.” 
  <p class="updated_time"> 09:32 AM CT, Oct. 20 </p> 
  [Taliban Face Pressure Over New Afghan Government at Russia Conference](https://www.wsj.com/articles/russia-faces-difficult-balancing-act-as-it-hosts-taliban-in-moscow-11634722296) WSJ: Taliban representatives met with senior officials from Russia, China and other countries in Moscow, where they came under pressure to form a more inclusive government and pursue a friendly policy toward neighboring countries. 
- <p class="updated_time"> 09:04 AM CT, Oct. 20 </p> 
- [Boris Johnson Promotes Rising Wages Amid Shortages in U.K. ](https://www.nytimes.com/2021/10/20/business/boris-johnson-shortages-britain.html) NYT: Wages in some industries are rising because employers can’t find enough workers. That’s not a path to long-term growth, analysts say. 
  <p class="updated_time"> 08:39 AM CT, Oct. 20 </p> 
  [Russia Orders People Not to Go to Work as Covid-19 Deaths Mount](https://www.wsj.com/articles/russia-orders-people-not-to-got-to-work-as-covid-19-deaths-mount-11634750559) WSJ: Russian President Vladimir Putin issued the order as cases have climbed, and neighboring Latvia launched a curfew after the seven-day average of deaths more than doubled. 
  <p class="updated_time"> 06:57 AM CT, Oct. 20 </p> 
