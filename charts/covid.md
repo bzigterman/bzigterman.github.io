@@ -359,9 +359,9 @@ html {
   </thead>
   <tbody class="gt_table_body">
     <tr><td class="gt_row gt_left">Cases</td>
-<td class="gt_row gt_right">44</td>
-<td class="gt_row gt_right">30</td>
-<td class="gt_row gt_right">&minus;31&percnt;</td></tr>
+<td class="gt_row gt_right">42</td>
+<td class="gt_row gt_right">31</td>
+<td class="gt_row gt_right">&minus;25&percnt;</td></tr>
     <tr><td class="gt_row gt_left gt_striped">Hospitalized</td>
 <td class="gt_row gt_right gt_striped">44</td>
 <td class="gt_row gt_right gt_striped">43</td>
@@ -371,9 +371,9 @@ html {
 <td class="gt_row gt_right">15</td>
 <td class="gt_row gt_right">+7&percnt;</td></tr>
     <tr><td class="gt_row gt_left gt_striped">New Vaccine Doses</td>
-<td class="gt_row gt_right gt_striped">580</td>
-<td class="gt_row gt_right gt_striped">498</td>
-<td class="gt_row gt_right gt_striped">&minus;14&percnt;</td></tr>
+<td class="gt_row gt_right gt_striped">632</td>
+<td class="gt_row gt_right gt_striped">474</td>
+<td class="gt_row gt_right gt_striped">&minus;25&percnt;</td></tr>
     <tr><td class="gt_row gt_left">Fully Vaccinated</td>
 <td class="gt_row gt_right">115,000</td>
 <td class="gt_row gt_right">116,000</td>
@@ -385,7 +385,7 @@ html {
   </tbody>
   <tfoot class="gt_sourcenotes">
     <tr>
-      <td class="gt_sourcenote" colspan="4">Latest data: Wednesday</td>
+      <td class="gt_sourcenote" colspan="4">Latest data: Thursday</td>
     </tr>
   </tfoot>
   
@@ -749,21 +749,21 @@ html {
   </thead>
   <tbody class="gt_table_body">
     <tr><td class="gt_row gt_left">Cases</td>
-<td class="gt_row gt_right">2.4K</td>
+<td class="gt_row gt_right">2.8K</td>
 <td class="gt_row gt_right">2.1K</td>
-<td class="gt_row gt_right">&minus;12&percnt;</td></tr>
+<td class="gt_row gt_right">&minus;27&percnt;</td></tr>
     <tr><td class="gt_row gt_left gt_striped">Hospitalized</td>
 <td class="gt_row gt_right gt_striped">1.6K</td>
-<td class="gt_row gt_right gt_striped">1.4K</td>
-<td class="gt_row gt_right gt_striped">&minus;14&percnt;</td></tr>
+<td class="gt_row gt_right gt_striped">1.3K</td>
+<td class="gt_row gt_right gt_striped">&minus;21&percnt;</td></tr>
     <tr><td class="gt_row gt_left">Deaths</td>
-<td class="gt_row gt_right">25</td>
-<td class="gt_row gt_right">29</td>
-<td class="gt_row gt_right">+16&percnt;</td></tr>
+<td class="gt_row gt_right">30</td>
+<td class="gt_row gt_right">27</td>
+<td class="gt_row gt_right">&minus;12&percnt;</td></tr>
     <tr><td class="gt_row gt_left gt_striped">New Vaccine Doses</td>
-<td class="gt_row gt_right gt_striped">28K</td>
+<td class="gt_row gt_right gt_striped">36K</td>
 <td class="gt_row gt_right gt_striped">29K</td>
-<td class="gt_row gt_right gt_striped">+7&percnt;</td></tr>
+<td class="gt_row gt_right gt_striped">&minus;19&percnt;</td></tr>
     <tr><td class="gt_row gt_left">Fully Vaccinated</td>
 <td class="gt_row gt_right">7.1M</td>
 <td class="gt_row gt_right">7.2M</td>
@@ -775,7 +775,7 @@ html {
   </tbody>
   <tfoot class="gt_sourcenotes">
     <tr>
-      <td class="gt_sourcenote" colspan="4">Latest data: Wednesday</td>
+      <td class="gt_sourcenote" colspan="4">Latest data: Thursday</td>
     </tr>
   </tfoot>
   
@@ -1570,8 +1570,8 @@ html {
 
 As of Wednesday, the 14-day percent change in average new cases was:
   
-- -31% in Champaign County
-- -25% in Illinois
+- -25% in Champaign County
+- -27% in Illinois
 - -25% in the United States
 - -6% worldwide
 
@@ -1583,7 +1583,7 @@ This chart measures how quickly the average number of new cases is changing, or 
 
 As of Wednesday, the 14-day percent change in average new deaths was:
   
-- -8% in Illinois
+- -13% in Illinois
 - -5% in the United States
 - -6% worldwide
 
