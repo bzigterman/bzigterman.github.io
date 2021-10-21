@@ -6,6 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 05:45 AM CT, Oct. 21 </p> 
+ [As Chinese Women Seek to Crack Male Professions, Schools Stand in the Way](https://www.nytimes.com/2021/10/21/world/asia/china-schools-gender-bias.html) NYT: In China, some academic programs accept only men or cap the number of female applicants, who often must test higher than their male counterparts. 
  <p class="updated_time"> 05:39 AM CT, Oct. 21 </p> 
  [Celtics Games Are Pulled in China After Enes Kanter’s Pro-Tibet Posts](https://www.nytimes.com/2021/10/21/sports/basketball/celtics-kanter-china-tibet.html) NYT: The Boston center called China’s leader, Xi Jinping, a “brutal dictator” on social media, igniting an online backlash in the country. The N.B.A.’s online partner stopped streaming the team’s games. 
  <p class="updated_time"> 05:35 AM CT, Oct. 21 </p> 
@@ -26,8 +28,6 @@ permalink: /charts/news/
  [Texas nurse guilty of killing patients by injecting them with air](https://www.bbc.co.uk/news/world-us-canada-58993678?at_medium=RSS&at_campaign=KARANGA) BBC: William Davis injected at least seven patients with air and could now face the death penalty. 
  <p class="updated_time"> 04:00 AM CT, Oct. 21 </p> 
  [Why Australia Won’t Commit to Slashing Carbon Emissions](https://www.nytimes.com/2021/10/21/world/australia/australia-coal-fossil-fuel-carbon.html) NYT: The country has fallen behind other developed nations in its commitment to slashing carbon emissions. Neither fires nor international pressure has pushed it away from coal and other fossil fuels. 
- <p class="updated_time"> 04:00 AM CT, Oct. 21 </p> 
- [As Chinese Women Seek to Crack Male Professions, Schools Stand in the Way](https://www.nytimes.com/2021/10/21/world/asia/china-schools-gender-bias.html) NYT: In China, some academic programs accept only men or cap the number of female applicants, who often must test higher than their male counterparts. 
  <p class="updated_time"> 03:37 AM CT, Oct. 21 </p> 
  [Death toll passes 180 in Nepal and India floods](https://www.bbc.co.uk/news/world-asia-india-58951456?at_medium=RSS&at_campaign=KARANGA) BBC: Heavy rain triggers flash floods and landslides in parts of India and Nepal. 
  <p class="updated_time"> 03:32 AM CT, Oct. 21 </p> 
