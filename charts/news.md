@@ -6,8 +6,12 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 12:00 PM CT, Oct. 21 </p> 
+ [Covid: Virus may have killed 80k-180k health workers, WHO says](https://www.bbc.co.uk/news/health-58973697?at_medium=RSS&at_campaign=KARANGA) BBC: The global health body says health care workers should be prioritised for vaccination. 
+ <p class="updated_time"> 11:52 AM CT, Oct. 21 </p> 
+ [With Splendor and Saints, Hispanic Society Shows Its Treasures](https://www.nytimes.com/2021/10/21/arts/design/hispanic-society-grolier-club.html) NYT: This gem of a museum in Upper Manhattan has reopened with an operatic eye-filler of religious sculptures we’re just learning to appreciate. 
  <p class="updated_time"> 11:43 AM CT, Oct. 21 </p> 
- [EU summit: Respect the club rules, Poland told at EU summit](https://www.bbc.co.uk/news/world-europe-58999963?at_medium=RSS&at_campaign=KARANGA) BBC: A dispute over whether EU law has supremacy over national laws overshadows the Brussels meeting. 
+ [EU summit: Respect the club rules, Poland told](https://www.bbc.co.uk/news/world-europe-58999963?at_medium=RSS&at_campaign=KARANGA) BBC: A dispute over whether EU law has supremacy over national laws overshadows the Brussels meeting. 
  <p class="updated_time"> 11:43 AM CT, Oct. 21 </p> 
  [Celtics Games Are Pulled in China After Enes Kanter’s Pro-Tibet Posts](https://www.nytimes.com/2021/10/21/sports/basketball/celtics-kanter-china-tibet.html) NYT: The Boston center called China’s leader, Xi Jinping, a “brutal dictator” on social media, igniting an online backlash in the country. The N.B.A.’s online partner stopped streaming the team’s games. 
  <p class="updated_time"> 11:33 AM CT, Oct. 21 </p> 
@@ -64,8 +68,6 @@ permalink: /charts/news/
  [Texas nurse guilty of killing patients by injecting them with air](https://www.bbc.co.uk/news/world-us-canada-58993678?at_medium=RSS&at_campaign=KARANGA) BBC: William Davis injected at least seven patients with air and could now face the death penalty. 
  <p class="updated_time"> 04:00 AM CT, Oct. 21 </p> 
  [Why Australia Won’t Commit to Slashing Carbon Emissions](https://www.nytimes.com/2021/10/21/world/australia/australia-coal-fossil-fuel-carbon.html) NYT: The country has fallen behind other developed nations in its commitment to slashing carbon emissions. Neither fires nor international pressure has pushed it away from coal and other fossil fuels. 
- <p class="updated_time"> 02:55 AM CT, Oct. 21 </p> 
- [Covid: WHO warns pandemic will drag on deep into 2022](https://www.bbc.co.uk/news/health-58973697?at_medium=RSS&at_campaign=KARANGA) BBC: Slow vaccine supply to poorer nations means the crisis will last longer than it needs to, experts say. 
  <p class="updated_time"> 02:27 AM CT, Oct. 21 </p> 
  [South Korea Launches First Homegrown Rocket, Satellite Into Space](https://www.wsj.com/articles/south-korea-launches-first-homegrown-rocket-and-satellite-into-space-11634815655) WSJ: The technology could help expand Seoul’s military satellite surveillance of Kim Jong Un’s regime to the north amid heightened tensions. 
  <p class="updated_time"> 02:20 AM CT, Oct. 21 </p> 
