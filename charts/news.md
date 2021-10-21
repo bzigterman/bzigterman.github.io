@@ -6,8 +6,12 @@ permalink: /charts/news/
 
 ## World News
 
- <p class="updated_time"> 04:07 AM CT, Oct. 21 </p> 
+ <p class="updated_time"> 04:30 AM CT, Oct. 21 </p> 
  [India's Covid Vaccine Campaign Hits 1 Billion Doses](https://www.nytimes.com/2021/10/20/world/asia/india-vaccination-covid.html) NYT: Covid vaccination in has accelerated in India in recent weeks, with more than 70 percent of the adult population having received at least one dose of a vaccine. 
+ <p class="updated_time"> 04:24 AM CT, Oct. 21 </p> 
+ [Cleo Smith: Police offer A$1m reward amid fears girl, 4, was abducted](https://www.bbc.co.uk/news/world-australia-58946569?at_medium=RSS&at_campaign=KARANGA) BBC: Cleo Smith, 4, vanished from a tent at a remote coastal campsite in Western Australia on Saturday. 
+ <p class="updated_time"> 04:08 AM CT, Oct. 21 </p> 
+ [Texas nurse guilty of killing patients by injecting them with air](https://www.bbc.co.uk/news/world-us-canada-58993678?at_medium=RSS&at_campaign=KARANGA) BBC: William Davis injected at least seven patients with air and could now face the death penalty. 
  <p class="updated_time"> 04:00 AM CT, Oct. 21 </p> 
  [Why Australia Won’t Commit to Slashing Carbon Emissions](https://www.nytimes.com/2021/10/21/world/australia/australia-coal-fossil-fuel-carbon.html) NYT: The country has fallen behind other developed nations in its commitment to slashing carbon emissions. Neither fires nor international pressure has pushed it away from coal and other fossil fuels. 
  <p class="updated_time"> 04:00 AM CT, Oct. 21 </p> 
@@ -60,10 +64,6 @@ permalink: /charts/news/
  [China: The patriotic 'ziganwu' bloggers who attack the West](https://www.bbc.co.uk/news/world-asia-china-58922011?at_medium=RSS&at_campaign=KARANGA) BBC: Their scathing posts have shot them to fame amid rising nationalist fervour - but they toe a fine line. 
  <p class="updated_time"> 06:12 PM CT, Oct. 20 </p> 
  [God and robots: Will AI transform religion?](https://www.bbc.co.uk/news/technology-58983047?at_medium=RSS&at_campaign=KARANGA) BBC: Robot "priests" can recite prayers, perform funerals, and even comfort those experiencing a spiritual crisis. 
- <p class="updated_time"> 05:52 PM CT, Oct. 20 </p> 
- [Gabby Petito: 'Human remains' found in Brian Laundrie search](https://www.bbc.co.uk/news/world-us-canada-58989242?at_medium=RSS&at_campaign=KARANGA) BBC: Items owned by Gabby Petito's missing fiancé and apparent human remains have been found in Florida. 
- <p class="updated_time"> 05:06 PM CT, Oct. 20 </p> 
- [UK agrees free trade deal with New Zealand](https://www.bbc.co.uk/news/business-58988711?at_medium=RSS&at_campaign=KARANGA) BBC: The government says consumers and businesses will benefit from deal, but it is unlikely to boost growth. 
  <p class="updated_time"> 05:00 PM CT, Oct. 20 </p> 
  [The Webb Telescope’s Latest Stumbling Block: Its Name](https://www.nytimes.com/2021/10/20/science/webb-telescope-astronomy-homophobia.html) NYT: The long-awaited successor to the Hubble Space Telescope is scheduled to launch in December. But the NASA official for whom it is named has been accused of homophobia. 
  <p class="updated_time"> 04:15 PM CT, Oct. 20 </p> 
