@@ -45,7 +45,7 @@ permalink: /charts/news/
  <p class="updated_time"> 06:12 PM CT, Oct. 20 </p> 
  [God and robots: Will AI transform religion?](https://www.bbc.co.uk/news/technology-58983047?at_medium=RSS&at_campaign=KARANGA) BBC: Robot "priests" can recite prayers, perform funerals, and even comfort those experiencing a spiritual crisis. 
  <p class="updated_time"> 06:03 PM CT, Oct. 20 </p> 
- [Covid: WHO warns pandemic will drag on into 2022](https://www.bbc.co.uk/news/health-58973697?at_medium=RSS&at_campaign=KARANGA) BBC: Slow vaccine supply to poorer nations means the crisis will last longer than it needs to, experts say. 
+ [Covid: WHO warns pandemic will drag on deep into 2022](https://www.bbc.co.uk/news/health-58973697?at_medium=RSS&at_campaign=KARANGA) BBC: Slow vaccine supply to poorer nations means the crisis will last longer than it needs to, experts say. 
  <p class="updated_time"> 05:52 PM CT, Oct. 20 </p> 
  [Gabby Petito: 'Human remains' found in Brian Laundrie search](https://www.bbc.co.uk/news/world-us-canada-58989242?at_medium=RSS&at_campaign=KARANGA) BBC: Items owned by Gabby Petito's missing fiancé and apparent human remains have been found in Florida. 
  <p class="updated_time"> 05:39 PM CT, Oct. 20 </p> 
