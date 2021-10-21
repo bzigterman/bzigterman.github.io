@@ -6,6 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 08:46 AM CT, Oct. 21 </p> 
+ [U.K. Police Charge Suspect in David Amess Killing](https://www.nytimes.com/2021/10/21/world/europe/uk-david-amess-suspect-charged.html) NYT: Ali Harbi Ali, 25, was accused of murder and preparation of terrorist acts in the killing of David Amess, who was fatally stabbed last week. 
  <p class="updated_time"> 07:59 AM CT, Oct. 21 </p> 
  [NFL to end race-based testing in dementia claims](https://www.bbc.co.uk/news/world-us-canada-58993679?at_medium=RSS&at_campaign=KARANGA) BBC: "Race-norming" made it harder for black players to prove brain injuries linked to their careers. 
  <p class="updated_time"> 07:56 AM CT, Oct. 21 </p> 
@@ -20,8 +22,6 @@ permalink: /charts/news/
  [Celtics Games Are Pulled in China After Enes Kanter’s Pro-Tibet Posts](https://www.nytimes.com/2021/10/21/sports/basketball/celtics-kanter-china-tibet.html) NYT: The Boston center called China’s leader, Xi Jinping, a “brutal dictator” on social media, igniting an online backlash in the country. The N.B.A.’s online partner stopped streaming the team’s games. 
  <p class="updated_time"> 07:16 AM CT, Oct. 21 </p> 
  [Female Afghan Judges and Lawyers Now Fear For Their Lives](https://www.nytimes.com/2021/10/21/world/asia/afghan-judges-women-taliban.html) NYT: They fear that they or their loved ones could be tracked down and killed because of their work delivering justice to women. “We have lost everything — our jobs, our homes, the way we lived.” 
- <p class="updated_time"> 06:55 AM CT, Oct. 21 </p> 
- [U.K. Police Charge Suspect in Killing of Lawmaker](https://www.nytimes.com/2021/10/21/world/europe/uk-david-amess-suspect-charged.html) NYT: Ali Harbi Ali, 25, was accused of murder and preparation of terrorist acts in the killing of David Amess, who was fatally stabbed last week. 
  <p class="updated_time"> 05:53 AM CT, Oct. 21 </p> 
  [Ruby Rose: Warner Bros hits back at Batwoman claims](https://www.bbc.co.uk/news/entertainment-arts-58993125?at_medium=RSS&at_campaign=KARANGA) BBC: The actress claimed in her Instagram story that there were poor working conditions on the show. 
  <p class="updated_time"> 05:45 AM CT, Oct. 21 </p> 
@@ -36,6 +36,8 @@ permalink: /charts/news/
  [God and robots: Will AI transform religion?](https://www.bbc.co.uk/news/technology-58983047?at_medium=RSS&at_campaign=KARANGA) BBC: Robot "priests" can recite prayers, perform funerals, and even comfort those experiencing a spiritual crisis. 
  <p class="updated_time"> 05:02 AM CT, Oct. 21 </p> 
  [South Korea launches first homegrown space rocket Nuri](https://www.bbc.co.uk/news/world-asia-58990718?at_medium=RSS&at_campaign=KARANGA) BBC: The launch completes all its stages but fails in its goal of putting a dummy satellite in orbit. 
+ <p class="updated_time"> 04:39 AM CT, Oct. 21 </p> 
+ [U.K. Charges Man With Murder of Lawmaker David Amess](https://www.wsj.com/articles/u-k-charges-ali-harbi-ali-with-murder-of-lawmaker-david-amess-11634823570) WSJ: British authorities charged a 25-year-old London man, Ali Harbi Ali, with murder and terrorism in the fatal stabbing of a Conservative lawmaker last week. 
  <p class="updated_time"> 04:38 AM CT, Oct. 21 </p> 
  [India's Covid Vaccine Campaign Hits 1 Billion Doses](https://www.nytimes.com/2021/10/20/world/asia/india-vaccination-covid.html) NYT: Covid vaccination in has accelerated in India in recent weeks, with more than 70 percent of the adult population having received at least one dose of a vaccine. 
  <p class="updated_time"> 04:24 AM CT, Oct. 21 </p> 
@@ -46,8 +48,12 @@ permalink: /charts/news/
  [Why Australia Won’t Commit to Slashing Carbon Emissions](https://www.nytimes.com/2021/10/21/world/australia/australia-coal-fossil-fuel-carbon.html) NYT: The country has fallen behind other developed nations in its commitment to slashing carbon emissions. Neither fires nor international pressure has pushed it away from coal and other fossil fuels. 
  <p class="updated_time"> 03:37 AM CT, Oct. 21 </p> 
  [Death toll passes 180 in Nepal and India floods](https://www.bbc.co.uk/news/world-asia-india-58951456?at_medium=RSS&at_campaign=KARANGA) BBC: Heavy rain triggers flash floods and landslides in parts of India and Nepal. 
+ <p class="updated_time"> 03:30 AM CT, Oct. 21 </p> 
+ [NBA's Enes Kanter Calls for Free Tibet, Sparks Chinese Backlash](https://www.wsj.com/articles/nbas-enes-kanter-calls-for-a-free-tibet-sparks-chinese-backlash-11634814575) WSJ: The sports league is in hot water in China again after the Boston Celtics center called China’s leader a brutal dictator. 
  <p class="updated_time"> 02:55 AM CT, Oct. 21 </p> 
  [Covid: WHO warns pandemic will drag on deep into 2022](https://www.bbc.co.uk/news/health-58973697?at_medium=RSS&at_campaign=KARANGA) BBC: Slow vaccine supply to poorer nations means the crisis will last longer than it needs to, experts say. 
+ <p class="updated_time"> 02:27 AM CT, Oct. 21 </p> 
+ [South Korea Launches First Homegrown Rocket, Satellite Into Space](https://www.wsj.com/articles/south-korea-launches-first-homegrown-rocket-and-satellite-into-space-11634815655) WSJ: The technology could help expand Seoul’s military satellite surveillance of Kim Jong Un’s regime to the north amid heightened tensions. 
  <p class="updated_time"> 02:20 AM CT, Oct. 21 </p> 
  [Why separatists in Cameroon and Nigeria have united](https://www.bbc.co.uk/news/world-africa-58726231?at_medium=RSS&at_campaign=KARANGA) BBC: Armed militias in the two countries are said to be helping each other with weapons and intelligence. 
  <p class="updated_time"> 02:11 AM CT, Oct. 21 </p> 
@@ -126,16 +132,12 @@ permalink: /charts/news/
  [Turkey Sours on Syrians, but Not in This Sleepy Town, Jolted Awake](https://www.nytimes.com/2021/10/20/world/europe/turkey-syria-border-refugees.html) NYT: As calls increase in Turkey for Syrian refugees to go home, Kilis, a border town transformed by the newcomers’ energy, has embraced the change. 
  <p class="updated_time"> 10:24 AM CT, Oct. 20 </p> 
  [Bombing of Military Bus in Syrian Capital Kills 14](https://www.nytimes.com/2021/10/20/world/middleeast/syria-military-bus-bombing.html) NYT: President Bashar al-Assad has tightened his grip on Damascus, but the attack suggested that militants who oppose him can still do harm. 
- <p class="updated_time"> 09:32 AM CT, Oct. 20 </p> 
- [Taliban Face Pressure Over New Afghan Government at Russia Conference](https://www.wsj.com/articles/russia-faces-difficult-balancing-act-as-it-hosts-taliban-in-moscow-11634722296) WSJ: Taliban representatives met with senior officials from Russia, China and other countries in Moscow, where they came under pressure to form a more inclusive government and pursue a friendly policy toward neighboring countries. 
  <p class="updated_time"> 06:57 AM CT, Oct. 20 </p> 
  [Taliban Allow Polio Vaccine Program to Restart in Afghanistan](https://www.nytimes.com/2021/10/19/world/asia/taliban-polio-vaccines-afghanistan.html) NYT: Taliban leaders also agreed to allow women to be frontline workers for the effort, according to the World Health Organization and UNICEF. 
  <p class="updated_time"> 06:48 AM CT, Oct. 20 </p> 
  [Lekki toll gate shootings: Nigeria's 'massacre without blood or bodies'](https://www.bbc.co.uk/news/world-africa-58975493?at_medium=RSS&at_campaign=KARANGA) BBC: The BBC investigates what happened on the night 20 October 2020, when the Nigerian army opened fire on peaceful protesters in Lagos. 
  <p class="updated_time"> 06:23 AM CT, Oct. 20 </p> 
  [Guatemala: Riot police deployed after protesters breach Congress, set cars alight](https://www.bbc.co.uk/news/world-latin-america-58978584?at_medium=RSS&at_campaign=KARANGA) BBC: Riot police were deployed and lawmakers had to be evacuated amid the protests. 
- <p class="updated_time"> 06:00 AM CT, Oct. 20 </p> 
- [Viking Artifacts Give Precise Date for Europeans' Earliest Presence in North America](https://www.wsj.com/articles/viking-artifacts-give-precise-date-for-europeans-earliest-presence-in-north-america-11634742000) WSJ: A new analysis of ancient wooden artifacts shows that Viking voyagers had crossed the Atlantic Ocean and were living in Newfoundland as far back as 1021. 
  <p class="updated_time"> 05:28 AM CT, Oct. 20 </p> 
  [Taliban Commander Who Launched Bombings in Kabul Is Now a Police Chief in Charge of Security](https://www.wsj.com/articles/taliban-commander-who-launched-bombings-in-kabul-is-now-a-police-chief-in-charge-of-security-11634740097) WSJ: Mawlawi Zubair Mutmaeen is one of thousands of former fighters thrown into mundane jobs as new government struggles to stay on its feet. 
  <p class="updated_time"> 05:25 AM CT, Oct. 20 </p> 
