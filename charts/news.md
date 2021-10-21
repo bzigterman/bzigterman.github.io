@@ -6,14 +6,20 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 10:28 AM CT, Oct. 21 </p> 
+ [Poland rule of law dispute overshadows EU summit](https://www.bbc.co.uk/news/world-europe-58999963?at_medium=RSS&at_campaign=KARANGA) BBC: Poland fumes at EU "blackmail", as other nations line up to defend the "critical" primacy of EU law. 
+ <p class="updated_time"> 10:22 AM CT, Oct. 21 </p> 
+ [US surgeons test pig kidney transplant in a human](https://www.bbc.co.uk/news/health-58993696?at_medium=RSS&at_campaign=KARANGA) BBC: The kidney, from a genetically-altered pig, appeared to function well, say the surgical team. 
+ <p class="updated_time"> 10:19 AM CT, Oct. 21 </p> 
+ [U.K. Police Charge Suspect in David Amess Killing](https://www.nytimes.com/2021/10/21/world/europe/uk-david-amess-suspect-charged.html) NYT: Ali Harbi Ali, 25, was accused of murder and preparation of terrorist acts in the killing of David Amess, who was fatally stabbed last week. 
+ <p class="updated_time"> 10:10 AM CT, Oct. 21 </p> 
+ [Melbourne: Celebrations as city exits sixth lockdown](https://www.bbc.co.uk/news/world-australia-58998418?at_medium=RSS&at_campaign=KARANGA) BBC: The Australian city has spent more than 260 days under restrictions since the pandemic began. 
  <p class="updated_time"> 09:36 AM CT, Oct. 21 </p> 
  [South Korea’s First Homemade Rocket Lifts Off but Is ‘One Step Short’](https://www.nytimes.com/2021/10/21/world/asia/south-korea-rocket.html) NYT: The country aspires to be a leader in space technology, with plans to land an uncrewed craft on the moon by 2030. President Moon Jae-in said the initial launch was excellent “for a first try.” 
  <p class="updated_time"> 09:27 AM CT, Oct. 21 </p> 
  [The Webb Telescope’s Latest Stumbling Block: Its Name](https://www.nytimes.com/2021/10/20/science/webb-telescope-astronomy-homophobia.html) NYT: The long-awaited successor to the Hubble Space Telescope is scheduled to launch in December. But the NASA official for whom it is named has been accused of homophobia. 
  <p class="updated_time"> 09:10 AM CT, Oct. 21 </p> 
  [Female Afghan Judges and Lawyers Now Fear For Their Lives](https://www.nytimes.com/2021/10/21/world/asia/afghan-judges-women-taliban.html) NYT: They fear that they or their loved ones could be tracked down and killed because of their work delivering justice to women. “We have lost everything — our jobs, our homes, the way we lived.” 
- <p class="updated_time"> 08:46 AM CT, Oct. 21 </p> 
- [U.K. Police Charge Suspect in David Amess Killing](https://www.nytimes.com/2021/10/21/world/europe/uk-david-amess-suspect-charged.html) NYT: Ali Harbi Ali, 25, was accused of murder and preparation of terrorist acts in the killing of David Amess, who was fatally stabbed last week. 
  <p class="updated_time"> 07:59 AM CT, Oct. 21 </p> 
  [NFL to end race-based testing in dementia claims](https://www.bbc.co.uk/news/world-us-canada-58993679?at_medium=RSS&at_campaign=KARANGA) BBC: "Race-norming" made it harder for black players to prove brain injuries linked to their careers. 
  <p class="updated_time"> 07:56 AM CT, Oct. 21 </p> 
@@ -22,8 +28,6 @@ permalink: /charts/news/
  [Tourists in Asia Navigate a Patchwork of Policies](https://www.nytimes.com/2021/10/21/world/asia/asia-travel-rules.html) NYT: NA 
  <p class="updated_time"> 07:27 AM CT, Oct. 21 </p> 
  [Haiti sees nearly 800 kidnappings so far this year, NGO says](https://www.bbc.co.uk/news/world-latin-america-58993730?at_medium=RSS&at_campaign=KARANGA) BBC: Gangs have taken more control amid political instability, abducting people from all walks of life. 
- <p class="updated_time"> 07:20 AM CT, Oct. 21 </p> 
- [US surgeons test pig kidney transplant in a human](https://www.bbc.co.uk/news/health-58993696?at_medium=RSS&at_campaign=KARANGA) BBC: The kidney, from a genetically-altered pig, appeared to function well, say the surgical team. 
  <p class="updated_time"> 07:17 AM CT, Oct. 21 </p> 
  [Celtics Games Are Pulled in China After Enes Kanter’s Pro-Tibet Posts](https://www.nytimes.com/2021/10/21/sports/basketball/celtics-kanter-china-tibet.html) NYT: The Boston center called China’s leader, Xi Jinping, a “brutal dictator” on social media, igniting an online backlash in the country. The N.B.A.’s online partner stopped streaming the team’s games. 
  <p class="updated_time"> 05:53 AM CT, Oct. 21 </p> 
@@ -31,7 +35,7 @@ permalink: /charts/news/
  <p class="updated_time"> 05:45 AM CT, Oct. 21 </p> 
  [As Chinese Women Seek to Crack Male Professions, Schools Stand in the Way](https://www.nytimes.com/2021/10/21/world/asia/china-schools-gender-bias.html) NYT: In China, some academic programs accept only men or cap the number of female applicants, who often must test higher than their male counterparts. 
  <p class="updated_time"> 05:33 AM CT, Oct. 21 </p> 
- [Xi Jinping Hasn't Left China in 21 Months](https://www.wsj.com/articles/xi-jinping-hasnt-left-china-in-21-months-keeping-diplomacy-virtual-11634826813) WSJ: The Chinese leader, his world travels interrupted by the pandemic, is expected to remain a face on a screen at global summits, despite a diplomatic campaign interrupted by pandemic and a dip in his global reputation. 
+ [Xi Jinping Hasn't Left China in 21 Months, Keeping Diplomacy Virtual](https://www.wsj.com/articles/xi-jinping-hasnt-left-china-in-21-months-keeping-diplomacy-virtual-11634826813) WSJ: The Chinese leader, his world travels interrupted by the pandemic, is expected to remain a face on a screen at global summits, despite a sagging global reputation. 
  <p class="updated_time"> 05:21 AM CT, Oct. 21 </p> 
  [The Full Truth](https://www.nytimes.com/2021/10/21/briefing/booster-shots-jj-rochelle-walensky.html) NYT: What happens when health officials tell it? 
  <p class="updated_time"> 05:07 AM CT, Oct. 21 </p> 
@@ -64,8 +68,6 @@ permalink: /charts/news/
  [How green politics are changing Europe](https://www.bbc.co.uk/news/world-europe-58910712?at_medium=RSS&at_campaign=KARANGA) BBC: The Greens performed well in German elections but they are having to adapt their policies to succeed. 
  <p class="updated_time"> 01:43 AM CT, Oct. 21 </p> 
  [Trump to launch new social media platform TRUTH Social](https://www.bbc.co.uk/news/world-us-canada-58990330?at_medium=RSS&at_campaign=KARANGA) BBC: The former US president was banned from Twitter and Facebook following the US Capitol riots. 
- <p class="updated_time"> 01:31 AM CT, Oct. 21 </p> 
- [COP26: Document leak reveals nations lobbying to change key climate report](https://www.bbc.co.uk/news/science-environment-58982445?at_medium=RSS&at_campaign=KARANGA) BBC: Countries are asking the UN to play down the need to move rapidly away from fossil fuels. 
  <p class="updated_time"> 12:59 AM CT, Oct. 21 </p> 
  [Covid-19 Herd Immunity Proves Elusive in U.K.](https://www.wsj.com/articles/covid-19-herd-immunity-proves-elusive-in-u-k-11634810364) WSJ: In the summer, the U.K. lifted most restrictions in the hope that immunity would keep the virus at bay, but recent rises in cases and deaths indicate that reliance on this doesn’t guarantee a quick victory. 
  <p class="updated_time"> 12:14 AM CT, Oct. 21 </p> 
