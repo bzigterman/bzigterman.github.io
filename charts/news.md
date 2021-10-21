@@ -6,14 +6,16 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 06:10 PM CT, Oct. 21 </p> 
+ [They Fought Apartheid in South Africa. Now They Want Veterans’ Benefits.](https://www.nytimes.com/2021/10/19/world/africa/south-africa-apartheid-veterans-liberation-struggle.html) NYT: A protest movement by those who took up arms against apartheid has grown confrontational. More than 50 of them have been charged with kidnapping the country’s defense minister. 
+ <p class="updated_time"> 06:10 PM CT, Oct. 21 </p> 
+ [In Haiti, Gangs Gain Power as Security Vacuum Grows](https://www.nytimes.com/2021/10/21/world/americas/haiti-gangs-kidnapping.html) NYT: Gangs have long held sway in the country, but their dominance has expanded in recent years and the government has been accused of using them as tools of repression. 
  <p class="updated_time"> 06:05 PM CT, Oct. 21 </p> 
  [Rise in Cases and Deaths Tests Britain’s Gamble on Few Virus Restrictions](https://www.nytimes.com/2021/10/21/world/europe/britain-virus.html) NYT: The country’s grand experiment — opening up with hardly any restrictions — is facing its toughest test yet. 
  <p class="updated_time"> 06:04 PM CT, Oct. 21 </p> 
  [Steve Bannon: House votes for ex-Trump aide to face contempt charge](https://www.bbc.co.uk/news/world-us-canada-59004409?at_medium=RSS&at_campaign=KARANGA) BBC: Only nine Republicans in the chamber voted to hold Mr Bannon in contempt. 
  <p class="updated_time"> 06:02 PM CT, Oct. 21 </p> 
  [Khaby Lame: What is the secret to success for the Senegal-born TikToker?](https://www.bbc.co.uk/news/world-africa-59003020?at_medium=RSS&at_campaign=KARANGA) BBC: How the Senegalese-born 21-year-old's myth-busting of "life hacks" made him a household name. 
- <p class="updated_time"> 05:51 PM CT, Oct. 21 </p> 
- [In Haiti, Gangs Gain Power as Security Vacuum Grows](https://www.nytimes.com/2021/10/21/world/americas/haiti-gangs-kidnapping.html) NYT: Gangs have long held sway in the country, but their dominance has expanded in recent years and the government has been accused of using them as tools of repression. 
  <p class="updated_time"> 05:48 PM CT, Oct. 21 </p> 
  [World's Health Care Workers Near Breaking Point, W.H.O warns](https://www.nytimes.com/2021/10/21/world/health-care-workers-burnout-who.html) NYT: The agency’s leaders also urged wealthy nations to take the lead in transferring doses of vaccines to the global South. 
  <p class="updated_time"> 05:46 PM CT, Oct. 21 </p> 
@@ -64,6 +66,8 @@ permalink: /charts/news/
  [Canada Settles on a Single 'Vaccine Passport' for Travel](https://www.nytimes.com/2021/10/21/world/canada-vaccine-passport-travel.html) NYT: The document, already in use in five of the country’s 10 provinces and all three of its territories, will replace a patchwork of programs across Canada. 
  <p class="updated_time"> 02:16 PM CT, Oct. 21 </p> 
  [With Covid Cases Rising, Moscow's Mayor Announces Lockdown ](https://www.nytimes.com/2021/10/21/world/moscow-lockdown.html) NYT: Like many countries, Russia has seesawed between tighter and looser pandemic restrictions. As the coronavirus claims more victims, the pendulum is now swinging toward tightening. 
+ <p class="updated_time"> 02:10 PM CT, Oct. 21 </p> 
+ [European Leaders Urge Caution in EU Clash With Poland](https://www.wsj.com/articles/european-leaders-urge-caution-in-eu-clash-with-poland-11634831250) WSJ: Germany, France and others fear fast action against Warsaw could do more damage to the bloc in the wake of a recent ruling by Poland’s constitutional tribunal that EU treaty law has become incompatible with Polish law. 
  <p class="updated_time"> 01:58 PM CT, Oct. 21 </p> 
  [La Palma: Scientists collect volcano samples](https://www.bbc.co.uk/news/world-europe-59003677?at_medium=RSS&at_campaign=KARANGA) BBC: Scientists will look at the viscosity of the red-hot lava from the ongoing Cumbre Vieja eruption. 
  <p class="updated_time"> 01:30 PM CT, Oct. 21 </p> 
@@ -72,8 +76,6 @@ permalink: /charts/news/
  [‘No Girls’: Women in Egypt Fight to Get Judgeships](https://www.nytimes.com/2021/10/20/world/middleeast/egypt-judges-women.html) NYT: On paper, women are free to apply for seats on Egyptian benches. In practice, they say, it is near impossible. 
  <p class="updated_time"> 12:55 PM CT, Oct. 21 </p> 
  [As Chinese Women Seek to Crack Male Professions, Schools Stand in the Way](https://www.nytimes.com/2021/10/21/world/asia/china-schools-gender-bias.html) NYT: In China, some academic programs accept only men or cap the number of female applicants, who often must test higher than their male counterparts. 
- <p class="updated_time"> 12:31 PM CT, Oct. 21 </p> 
- [European Leaders Urge Caution in EU Clash With Poland](https://www.wsj.com/articles/european-leaders-urge-caution-in-eu-clash-with-poland-11634831250) WSJ: Germany, France and others fear fast action against Warsaw could do more damage to the bloc in the wake of a recent ruling by Poland’s constitutional tribunal that EU treaty law has become incompatible with Polish law. 
  <p class="updated_time"> 12:00 PM CT, Oct. 21 </p> 
  [Covid: Virus may have killed 80k-180k health workers, WHO says](https://www.bbc.co.uk/news/health-58973697?at_medium=RSS&at_campaign=KARANGA) BBC: The global health body says healthcare workers should be prioritised for vaccination. 
  <p class="updated_time"> 11:43 AM CT, Oct. 21 </p> 
@@ -180,8 +182,6 @@ permalink: /charts/news/
  [Ros Atkins on… Europe's climate challenge](https://www.bbc.co.uk/news/science-environment-58970153?at_medium=RSS&at_campaign=KARANGA) BBC: Ros Atkins looks at how Europe is getting to grips with its emissions problem. 
  <p class="updated_time"> 03:45 PM CT, Oct. 19 </p> 
  [Your Wednesday Briefing](https://www.nytimes.com/2021/10/19/briefing/australia-vaccines-evergrande-china-myanmar.html) NYT: Vaccine milestones in Australia and on tiny Pacific islands. 
- <p class="updated_time"> 02:57 PM CT, Oct. 19 </p> 
- [They Fought Apartheid in South Africa. Now They Want Veterans’ Benefits.](https://www.nytimes.com/2021/10/19/world/africa/south-africa-apartheid-veterans-liberation-struggle.html) NYT: A protest movement by those who took up arms against apartheid has grown confrontational. More than 50 of them have been charged with kidnapping the country’s defense minister. 
  <p class="updated_time"> 01:25 PM CT, Oct. 19 </p> 
  [A Warning That Africa’s Last Glaciers Will Soon Vanish](https://www.nytimes.com/2021/10/19/world/africa/mountain-glaciers-disappear.html) NYT: While African nations contribute less than 4 percent of global greenhouse gas emissions, a U.N. report underscored the outsize impact that climate change is having on the continent. 
  <p class="updated_time"> 11:52 AM CT, Oct. 19 </p> 
