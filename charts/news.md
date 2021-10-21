@@ -6,6 +6,14 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 03:32 PM CT, Oct. 21 </p> 
+ [With Splendor and Saints, Hispanic Society Shows Its Treasures](https://www.nytimes.com/2021/10/21/arts/design/hispanic-society-grolier-club.html) NYT: This gem of a museum in Upper Manhattan has reopened with an operatic eye-filler of religious sculptures we’re just learning to appreciate. 
+ <p class="updated_time"> 03:29 PM CT, Oct. 21 </p> 
+ [Israel Moves to Allow Entry to Vaccinated Tourists ](https://www.nytimes.com/2021/10/21/world/israel-covid-tourists.html) NYT: The plan to reopen to international tourists for the first time since the pandemic began comes as infections are steadily declining in Israel after a fourth wave. 
+ <p class="updated_time"> 03:29 PM CT, Oct. 21 </p> 
+ [Climate change will bring global tension, US intelligence report says](https://www.bbc.co.uk/news/science-environment-59004088?at_medium=RSS&at_campaign=KARANGA) BBC: Countries will argue over a response and the poorest will suffer most, US intelligence says. 
+ <p class="updated_time"> 03:28 PM CT, Oct. 21 </p> 
+ [Steve Bannon: House votes for ex-Trump aide to face contempt charge](https://www.bbc.co.uk/news/world-us-canada-59004409?at_medium=RSS&at_campaign=KARANGA) BBC: Only nine Republicans in the chamber voted to hold Mr Bannon in contempt. 
  <p class="updated_time"> 03:10 PM CT, Oct. 21 </p> 
  [Syria Executes 24 People for Setting Wildfires, Calling It ‘Terrorism’](https://www.nytimes.com/2021/10/21/world/middleeast/syria-wildfire-executions.html) NYT: The sentences shocked rights groups, who saw it as a move by President Bashar al-Assad to appear tough after a crisis that hurt his loyalists. 
  <p class="updated_time"> 03:05 PM CT, Oct. 21 </p> 
@@ -38,8 +46,6 @@ permalink: /charts/news/
  [U.K. Police Charge Suspect in David Amess Killing](https://www.nytimes.com/2021/10/21/world/europe/uk-david-amess-suspect-charged.html) NYT: Ali Harbi Ali, 25, was accused of murder and preparation of terrorist acts in the killing of David Amess, who was fatally stabbed last week. 
  <p class="updated_time"> 12:00 PM CT, Oct. 21 </p> 
  [Covid: Virus may have killed 80k-180k health workers, WHO says](https://www.bbc.co.uk/news/health-58973697?at_medium=RSS&at_campaign=KARANGA) BBC: The global health body says healthcare workers should be prioritised for vaccination. 
- <p class="updated_time"> 11:52 AM CT, Oct. 21 </p> 
- [With Splendor and Saints, Hispanic Society Shows Its Treasures](https://www.nytimes.com/2021/10/21/arts/design/hispanic-society-grolier-club.html) NYT: This gem of a museum in Upper Manhattan has reopened with an operatic eye-filler of religious sculptures we’re just learning to appreciate. 
  <p class="updated_time"> 11:43 AM CT, Oct. 21 </p> 
  [EU summit: Respect the club rules, Poland told](https://www.bbc.co.uk/news/world-europe-58999963?at_medium=RSS&at_campaign=KARANGA) BBC: A dispute over whether EU law has supremacy over national laws overshadows the Brussels meeting. 
  <p class="updated_time"> 11:43 AM CT, Oct. 21 </p> 
@@ -76,8 +82,6 @@ permalink: /charts/news/
  [European Leaders Urge Caution in EU Clash With Poland](https://www.wsj.com/articles/european-leaders-urge-caution-in-eu-clash-with-poland-11634831250) WSJ: Germany, France and others fear fast action against Warsaw could do more damage to the bloc in the wake of a recent ruling by Poland’s constitutional tribunal that EU treaty law has become incompatible with Polish law. 
  <p class="updated_time"> 07:20 AM CT, Oct. 21 </p> 
  [Covid-19 Herd Immunity Proves Elusive in U.K.](https://www.wsj.com/articles/covid-19-herd-immunity-proves-elusive-in-u-k-11634810364) WSJ: In the summer, the U.K. lifted most restrictions in the hope that immunity would keep the virus at bay, but recent rises in cases and deaths indicate that reliance on this doesn’t guarantee a quick victory. 
- <p class="updated_time"> 05:53 AM CT, Oct. 21 </p> 
- [Ruby Rose: Warner Bros hits back at Batwoman claims](https://www.bbc.co.uk/news/entertainment-arts-58993125?at_medium=RSS&at_campaign=KARANGA) BBC: The actress claimed in her Instagram story that there were poor working conditions on the show. 
  <p class="updated_time"> 05:33 AM CT, Oct. 21 </p> 
  [Xi Jinping Hasn't Left China in 21 Months, Keeping Diplomacy Virtual](https://www.wsj.com/articles/xi-jinping-hasnt-left-china-in-21-months-keeping-diplomacy-virtual-11634826813) WSJ: The Chinese leader, his world travels interrupted by the pandemic, is expected to remain a face on a screen at global summits, despite a sagging global reputation. 
  <p class="updated_time"> 05:21 AM CT, Oct. 21 </p> 
@@ -94,8 +98,6 @@ permalink: /charts/news/
  [Why separatists in Cameroon and Nigeria have united](https://www.bbc.co.uk/news/world-africa-58726231?at_medium=RSS&at_campaign=KARANGA) BBC: Armed militias in the two countries are said to be helping each other with weapons and intelligence. 
  <p class="updated_time"> 02:11 AM CT, Oct. 21 </p> 
  [How green politics are changing Europe](https://www.bbc.co.uk/news/world-europe-58910712?at_medium=RSS&at_campaign=KARANGA) BBC: The Greens performed well in German elections but they are having to adapt their policies to succeed. 
- <p class="updated_time"> 01:43 AM CT, Oct. 21 </p> 
- [Trump to launch new social media platform TRUTH Social](https://www.bbc.co.uk/news/world-us-canada-58990330?at_medium=RSS&at_campaign=KARANGA) BBC: The former US president was banned from Twitter and Facebook following the US Capitol riots. 
  <p class="updated_time"> 12:14 AM CT, Oct. 21 </p> 
  [More games, more countries, more travel: Does European football care about its climate impact?](https://www.bbc.co.uk/sport/football/58595026?at_medium=RSS&at_campaign=KARANGA) BBC: European football is expanding, with more games in more countries than ever before. So how does that tally with the sport reducing its climate impact? 
  <p class="updated_time"> 11:35 PM CT, Oct. 20 </p> 
@@ -186,8 +188,6 @@ permalink: /charts/news/
  [A Warning That Africa’s Last Glaciers Will Soon Vanish](https://www.nytimes.com/2021/10/19/world/africa/mountain-glaciers-disappear.html) NYT: While African nations contribute less than 4 percent of global greenhouse gas emissions, a U.N. report underscored the outsize impact that climate change is having on the continent. 
  <p class="updated_time"> 11:52 AM CT, Oct. 19 </p> 
  [Ukraine's Covid Deaths Soar as Fake Vaccination Certificates Spread](https://www.nytimes.com/2021/10/19/world/europe/ukraine-covid-deaths.html) NYT: In the country with the lowest rate of coronavirus vaccination in Europe, the proliferation of fakes threatens to undermine Ukraine’s fight against the virus. 
- <p class="updated_time"> 09:26 AM CT, Oct. 19 </p> 
- [The Threat, in Perspective](https://www.nytimes.com/2021/10/19/briefing/colin-powell-covid-risk-older-americans.html) NYT: Colin Powell’s death highlights the continuing Covid risks to older people with medical conditions. 
  <p class="updated_time"> 07:30 AM CT, Oct. 18 </p> 
  [COP26: Does a climate summit need 25,000 people? And more questions](https://www.bbc.co.uk/news/science-environment-58925049?at_medium=RSS&at_campaign=KARANGA) BBC: BBC science correspondent Matt McGrath answers your questions about Glasgow's COP26 climate summit. 
  <p class="updated_time"> 06:56 PM CT, Oct. 17 </p> 
