@@ -6,14 +6,18 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 03:40 PM CT, Oct. 21 </p> 
+ [Rise in Cases and Deaths Tests Britain’s Gamble on Few Virus Restrictions](https://www.nytimes.com/2021/10/21/world/europe/britain-virus.html) NYT: The country’s grand experiment — opening up with hardly any restrictions — is facing its toughest test yet. 
+ <p class="updated_time"> 03:37 PM CT, Oct. 21 </p> 
+ [Melbourne: Celebrations as city exits sixth lockdown](https://www.bbc.co.uk/news/world-australia-58998418?at_medium=RSS&at_campaign=KARANGA) BBC: The Australian city has spent more than 260 days under restrictions since the pandemic began. 
+ <p class="updated_time"> 03:37 PM CT, Oct. 21 </p> 
+ [Steve Bannon: House votes for ex-Trump aide to face contempt charge](https://www.bbc.co.uk/news/world-us-canada-59004409?at_medium=RSS&at_campaign=KARANGA) BBC: Only nine Republicans in the chamber voted to hold Mr Bannon in contempt. 
  <p class="updated_time"> 03:32 PM CT, Oct. 21 </p> 
  [With Splendor and Saints, Hispanic Society Shows Its Treasures](https://www.nytimes.com/2021/10/21/arts/design/hispanic-society-grolier-club.html) NYT: This gem of a museum in Upper Manhattan has reopened with an operatic eye-filler of religious sculptures we’re just learning to appreciate. 
  <p class="updated_time"> 03:29 PM CT, Oct. 21 </p> 
  [Israel Moves to Allow Entry to Vaccinated Tourists ](https://www.nytimes.com/2021/10/21/world/israel-covid-tourists.html) NYT: The plan to reopen to international tourists for the first time since the pandemic began comes as infections are steadily declining in Israel after a fourth wave. 
  <p class="updated_time"> 03:29 PM CT, Oct. 21 </p> 
  [Climate change will bring global tension, US intelligence report says](https://www.bbc.co.uk/news/science-environment-59004088?at_medium=RSS&at_campaign=KARANGA) BBC: Countries will argue over a response and the poorest will suffer most, US intelligence says. 
- <p class="updated_time"> 03:28 PM CT, Oct. 21 </p> 
- [Steve Bannon: House votes for ex-Trump aide to face contempt charge](https://www.bbc.co.uk/news/world-us-canada-59004409?at_medium=RSS&at_campaign=KARANGA) BBC: Only nine Republicans in the chamber voted to hold Mr Bannon in contempt. 
  <p class="updated_time"> 03:10 PM CT, Oct. 21 </p> 
  [Syria Executes 24 People for Setting Wildfires, Calling It ‘Terrorism’](https://www.nytimes.com/2021/10/21/world/middleeast/syria-wildfire-executions.html) NYT: The sentences shocked rights groups, who saw it as a move by President Bashar al-Assad to appear tough after a crisis that hurt his loyalists. 
  <p class="updated_time"> 03:05 PM CT, Oct. 21 </p> 
@@ -22,8 +26,6 @@ permalink: /charts/news/
  [Bulgaria Faces a Surge in Coronavirus Cases](https://www.nytimes.com/2021/10/21/world/europe/bulgaria-covid-cases.html) NYT: NA 
  <p class="updated_time"> 02:59 PM CT, Oct. 21 </p> 
  [India's Covid Vaccine Campaign Hits 1 Billion Doses](https://www.nytimes.com/2021/10/20/world/asia/india-vaccination-covid.html) NYT: More than 70 percent of India’s adult population has now received at least one dose of a vaccine. Bulgaria, with the E.U.’s lowest vaccination rate, faces a case surge. 
- <p class="updated_time"> 02:47 PM CT, Oct. 21 </p> 
- [Rise in Cases and Deaths Tests Britain’s Gamble on Few Virus Restrictions](https://www.nytimes.com/2021/10/21/world/europe/britain-virus.html) NYT: The country’s grand experiment — opening up with hardly any restrictions — is facing its toughest test yet. 
  <p class="updated_time"> 02:34 PM CT, Oct. 21 </p> 
  [Enes Kanter: Boston Celtics star under fire over China comments](https://www.bbc.co.uk/news/world-asia-china-58998423?at_medium=RSS&at_campaign=KARANGA) BBC: Enes Kanter calls China's leader a "brutal dictator", while Beijing accuses him of seeking attention. 
  <p class="updated_time"> 02:31 PM CT, Oct. 21 </p> 
@@ -66,8 +68,6 @@ permalink: /charts/news/
  [Vikings settled in North America in 1021AD, study says](https://www.bbc.co.uk/news/world-us-canada-58996186?at_medium=RSS&at_campaign=KARANGA) BBC: Scientists say they have precisely dated a camp in Newfoundland, Canada, thanks to a new technique. 
  <p class="updated_time"> 10:22 AM CT, Oct. 21 </p> 
  [US surgeons test pig kidney transplant in a human](https://www.bbc.co.uk/news/health-58993696?at_medium=RSS&at_campaign=KARANGA) BBC: The kidney, from a genetically-altered pig, appeared to function well, say the surgical team. 
- <p class="updated_time"> 10:10 AM CT, Oct. 21 </p> 
- [Melbourne: Celebrations as city exits sixth lockdown](https://www.bbc.co.uk/news/world-australia-58998418?at_medium=RSS&at_campaign=KARANGA) BBC: The Australian city has spent more than 260 days under restrictions since the pandemic began. 
  <p class="updated_time"> 09:10 AM CT, Oct. 21 </p> 
  [Female Afghan Judges and Lawyers Now Fear For Their Lives](https://www.nytimes.com/2021/10/21/world/asia/afghan-judges-women-taliban.html) NYT: They fear that they or their loved ones could be tracked down and killed because of their work delivering justice to women. “We have lost everything — our jobs, our homes, the way we lived.” 
  <p class="updated_time"> 08:23 AM CT, Oct. 21 </p> 
