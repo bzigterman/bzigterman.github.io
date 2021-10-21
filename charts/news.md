@@ -6,10 +6,14 @@ permalink: /charts/news/
 
 ## World News
 
- <p class="updated_time"> 11:02 PM CT, Oct. 20 </p> 
- [Trump to launch new social media platform TRUTH Social](https://www.bbc.co.uk/news/world-us-canada-58990330?at_medium=RSS&at_campaign=KARANGA) BBC: The former US president said it would be used to "stand up to the tyranny of big tech". 
- <p class="updated_time"> 10:57 PM CT, Oct. 20 </p> 
+ <p class="updated_time"> 11:35 PM CT, Oct. 20 </p> 
  [Your Thursday Briefing](https://www.nytimes.com/2021/10/20/briefing/climate-change-coronavirus-britain.html) NYT: Plans to extract more fossil fuels. 
+ <p class="updated_time"> 11:24 PM CT, Oct. 20 </p> 
+ [Covid vaccine: India administers more than one billion Covid jabs](https://www.bbc.co.uk/news/world-asia-india-56345591?at_medium=RSS&at_campaign=KARANGA) BBC: But experts say the pace needs to pick up for India to meet its target of vaccinating all adults by 2021. 
+ <p class="updated_time"> 11:22 PM CT, Oct. 20 </p> 
+ [Trump to launch new social media platform TRUTH Social](https://www.bbc.co.uk/news/world-us-canada-58990330?at_medium=RSS&at_campaign=KARANGA) BBC: The former US president said it would be used to "stand up to the tyranny of big tech". 
+ <p class="updated_time"> 11:01 PM CT, Oct. 20 </p> 
+ [Tax cheat schemes cost governments billions](https://www.bbc.co.uk/news/business-58984813?at_medium=RSS&at_campaign=KARANGA) BBC: Major tax evasion and avoidance schemes have deprived countries of £127bn, research shows. 
  <p class="updated_time"> 10:44 PM CT, Oct. 20 </p> 
  [Evergrande shares fall 14% as trading resumes in Hong Kong](https://www.bbc.co.uk/news/business-58976991?at_medium=RSS&at_campaign=KARANGA) BBC: Shares of the Chinese property giant fell as much as 14% on Thursday morning in Hong Kong. 
  <p class="updated_time"> 10:29 PM CT, Oct. 20 </p> 
@@ -27,7 +31,7 @@ permalink: /charts/news/
  <p class="updated_time"> 07:51 PM CT, Oct. 20 </p> 
  [Blinken Cites ‘Democratic Reckoning’ in South America](https://www.nytimes.com/2021/10/20/world/americas/blinken-democracy-south-america.html) NYT: Secretary of State Antony Blinken warned of an eroding trust in democracy in the Western Hemisphere and described challenges posed to open government by authoritarian leaders. 
  <p class="updated_time"> 07:34 PM CT, Oct. 20 </p> 
- ['Human needs are weakening the Himalayas'](https://www.bbc.co.uk/news/world-asia-india-58895752?at_medium=RSS&at_campaign=KARANGA) BBC: Locals in the Indian state of Himachal Pradesh are demanding a stop to new hydro-power projects. 
+ [Himachal Pradesh: 'Human greed causing death and destruction in the Himalayas'](https://www.bbc.co.uk/news/world-asia-india-58895752?at_medium=RSS&at_campaign=KARANGA) BBC: Locals in the Indian state of Himachal Pradesh are demanding a stop to new hydro-power projects. 
  <p class="updated_time"> 06:55 PM CT, Oct. 20 </p> 
  [Netflix employees protest 'transphobic' Dave Chappelle comedy show](https://www.bbc.co.uk/news/world-us-canada-58990325?at_medium=RSS&at_campaign=KARANGA) BBC: Activists say the streaming giant's comedy special could fuel attacks on transgender people. 
  <p class="updated_time"> 06:19 PM CT, Oct. 20 </p> 
@@ -88,8 +92,6 @@ permalink: /charts/news/
  [Russian inmate who leaked torture videos alleges death threats](https://www.bbc.co.uk/news/world-europe-58978613?at_medium=RSS&at_campaign=KARANGA) BBC: Sergey Savelyev is seeking asylum in France after he leaked videos showing abuse in Russian prisons. 
  <p class="updated_time"> 11:20 AM CT, Oct. 20 </p> 
  [Queen ‘Reluctantly’ Cancels Trip, Citing Medical Advice](https://www.nytimes.com/2021/10/20/world/europe/queen-elizabeth-northern-ireland.html) NYT: Britain’s 95-year-old monarch will not travel to Northern Ireland but is “in good spirits,” Buckingham Palace said. 
- <p class="updated_time"> 11:18 AM CT, Oct. 20 </p> 
- [Nikolas Cruz: Parkland gunman pleads guilty to murdering 17](https://www.bbc.co.uk/news/world-us-canada-58983965?at_medium=RSS&at_campaign=KARANGA) BBC: Nikolas Cruz could see life in prison or the death penalty over the 2018 Florida school shooting. 
  <p class="updated_time"> 11:08 AM CT, Oct. 20 </p> 
  [China Tests Hypersonic Missile in Military Expansion](https://www.wsj.com/articles/china-tests-hypersonic-missile-in-military-expansion-11634744351) WSJ: China tested the missile, which orbited the globe before heading toward its target, in August, adding a new capability to its military buildup, U.S. officials said. 
  <p class="updated_time"> 11:00 AM CT, Oct. 20 </p> 
@@ -138,8 +140,6 @@ permalink: /charts/news/
  [In-N-Out Burger Was Briefly Closed for Breaking San Francisco Covid Protocols](https://www.nytimes.com/2021/10/19/world/san-francisco-in-n-out-burger-covid-vaccine.html) NYT: The popular burger chain said it refused to become “the vaccination police for any government.” 
  <p class="updated_time"> 07:02 PM CT, Oct. 19 </p> 
  [North Korea Tests First Submarine-Launched Missile in Two Years](https://www.nytimes.com/2021/10/18/world/asia/north-korea-ballistic-missile-test-washington.html) NYT: The launch came after special envoys gathered to discuss how to deal with Pyongyang’s growing nuclear capabilities. 
- <p class="updated_time"> 06:27 PM CT, Oct. 19 </p> 
- [Sudan on the brink amid scramble for democracy](https://www.bbc.co.uk/news/world-africa-58970193?at_medium=RSS&at_campaign=KARANGA) BBC: A power-sharing deal between the military and civilians is under pressure with concerns of violence. 
  <p class="updated_time"> 06:23 PM CT, Oct. 19 </p> 
  [Ros Atkins on… Europe's climate challenge](https://www.bbc.co.uk/news/science-environment-58970153?at_medium=RSS&at_campaign=KARANGA) BBC: Ros Atkins looks at how Europe is getting to grips with its emissions problem. 
  <p class="updated_time"> 06:20 PM CT, Oct. 19 </p> 
