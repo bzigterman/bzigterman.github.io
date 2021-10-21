@@ -6,6 +6,10 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 12:55 PM CT, Oct. 21 </p> 
+ [‘No Girls’: Women in Egypt Fight to Get Judgeships](https://www.nytimes.com/2021/10/20/world/middleeast/egypt-judges-women.html) NYT: On paper, women are free to apply for seats on Egyptian benches. In practice, they say, it is near impossible. 
+ <p class="updated_time"> 12:55 PM CT, Oct. 21 </p> 
+ [As Chinese Women Seek to Crack Male Professions, Schools Stand in the Way](https://www.nytimes.com/2021/10/21/world/asia/china-schools-gender-bias.html) NYT: In China, some academic programs accept only men or cap the number of female applicants, who often must test higher than their male counterparts. 
  <p class="updated_time"> 12:41 PM CT, Oct. 21 </p> 
  [‘It’s Terror’: In Haiti, Gangs Gain Power as Security Vacuum Grows](https://www.nytimes.com/2021/10/21/world/americas/haiti-gangs-kidnapping.html) NYT: Gangs have long held sway in the country, but their dominance has expanded in recent years and the government has been accused of using them as tools of repression. 
  <p class="updated_time"> 12:24 PM CT, Oct. 21 </p> 
@@ -54,8 +58,6 @@ permalink: /charts/news/
  [U.S. Intelligence Report Sounds New Climate Warning](https://www.wsj.com/articles/u-s-intelligence-report-sounds-new-climate-warning-11634829769) WSJ: A national intelligence assessment looking at the link between climate change and national security cited risks of cost disputes, Arctic conflict, drought and migration as temperatures rise. 
  <p class="updated_time"> 05:53 AM CT, Oct. 21 </p> 
  [Ruby Rose: Warner Bros hits back at Batwoman claims](https://www.bbc.co.uk/news/entertainment-arts-58993125?at_medium=RSS&at_campaign=KARANGA) BBC: The actress claimed in her Instagram story that there were poor working conditions on the show. 
- <p class="updated_time"> 05:45 AM CT, Oct. 21 </p> 
- [As Chinese Women Seek to Crack Male Professions, Schools Stand in the Way](https://www.nytimes.com/2021/10/21/world/asia/china-schools-gender-bias.html) NYT: In China, some academic programs accept only men or cap the number of female applicants, who often must test higher than their male counterparts. 
  <p class="updated_time"> 05:33 AM CT, Oct. 21 </p> 
  [Xi Jinping Hasn't Left China in 21 Months, Keeping Diplomacy Virtual](https://www.wsj.com/articles/xi-jinping-hasnt-left-china-in-21-months-keeping-diplomacy-virtual-11634826813) WSJ: The Chinese leader, his world travels interrupted by the pandemic, is expected to remain a face on a screen at global summits, despite a sagging global reputation. 
  <p class="updated_time"> 05:21 AM CT, Oct. 21 </p> 
@@ -104,8 +106,6 @@ permalink: /charts/news/
  [Heavy Rains in India and Nepal Kill Dozens](https://www.nytimes.com/2021/10/20/world/asia/india-nepal-floods-landslides.html) NYT: The death toll continued to rise on Wednesday as landslides and flooding damaged homes and stranded thousands of people. 
  <p class="updated_time"> 03:02 PM CT, Oct. 20 </p> 
  [Your Thursday Briefing](https://www.nytimes.com/2021/10/20/briefing/russia-covid-pollution-fossil-fuels-evergrande.html) NYT: Russia’s ‘non-working’ week. 
- <p class="updated_time"> 02:56 PM CT, Oct. 20 </p> 
- [Glass Ceiling Cracks in Egypt, but Would-Be Judges Still Hear: ‘No Girls’](https://www.nytimes.com/2021/10/20/world/middleeast/egypt-judges-women.html) NYT: On paper, women are free to apply for seats on Egyptian benches. In practice, they say, it is near impossible. 
  <p class="updated_time"> 02:46 PM CT, Oct. 20 </p> 
  [Paris Hilton: I couldn't sleep for 20 years from memories of youth care abuse](https://www.bbc.co.uk/news/world-us-canada-58988263?at_medium=RSS&at_campaign=KARANGA) BBC: Paris Hilton alleges she was strangled, slapped and watched in the shower while in a youth care facility. 
  <p class="updated_time"> 02:15 PM CT, Oct. 20 </p> 
