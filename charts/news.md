@@ -6,6 +6,10 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 06:54 PM CT, Oct. 21 </p> 
+ [Haitian Kidnappers Threaten to Kill Missionaries](https://www.nytimes.com/2021/10/21/world/americas/haiti-missionary-kidnapping-threat.html) NYT: As negotiators worked to secure the release of 17 people associated with an Ohio-based missionary group, their kidnappers released a video threatening their lives. 
+ <p class="updated_time"> 06:48 PM CT, Oct. 21 </p> 
+ [Bangladesh's Hindus living in fear following mob attacks](https://www.bbc.co.uk/news/world-asia-58999047?at_medium=RSS&at_campaign=KARANGA) BBC: Homes and temples of Hindu Bangladeshis have been torched across the country, and at least seven killed. 
  <p class="updated_time"> 06:40 PM CT, Oct. 21 </p> 
  [Russia's Covid nightmare driven by vaccine rejection](https://www.bbc.co.uk/news/world-europe-58998366?at_medium=RSS&at_campaign=KARANGA) BBC: More than 1,000 people are dying in Russia every day, and in Vologda only one in four is vaccinated. 
  <p class="updated_time"> 06:37 PM CT, Oct. 21 </p> 
@@ -18,6 +22,8 @@ permalink: /charts/news/
  [They Fought Apartheid in South Africa. Now They Want Veterans’ Benefits.](https://www.nytimes.com/2021/10/19/world/africa/south-africa-apartheid-veterans-liberation-struggle.html) NYT: A protest movement by those who took up arms against apartheid has grown confrontational. More than 50 of them have been charged with kidnapping the country’s defense minister. 
  <p class="updated_time"> 06:10 PM CT, Oct. 21 </p> 
  [In Haiti, Gangs Gain Power as Security Vacuum Grows](https://www.nytimes.com/2021/10/21/world/americas/haiti-gangs-kidnapping.html) NYT: Gangs have long held sway in the country, but their dominance has expanded in recent years and the government has been accused of using them as tools of repression. 
+ <p class="updated_time"> 06:07 PM CT, Oct. 21 </p> 
+ [Contrails: How tweaking flight plans can help the climate](https://www.bbc.co.uk/news/business-58769351?at_medium=RSS&at_campaign=KARANGA) BBC: Why experts say cutting contrails costs less than $1bn a year but may be worth so much more. 
  <p class="updated_time"> 06:05 PM CT, Oct. 21 </p> 
  [Rise in Cases and Deaths Tests Britain’s Gamble on Few Virus Restrictions](https://www.nytimes.com/2021/10/21/world/europe/britain-virus.html) NYT: The country’s grand experiment — opening up with hardly any restrictions — is facing its toughest test yet. 
  <p class="updated_time"> 06:04 PM CT, Oct. 21 </p> 
@@ -44,8 +50,6 @@ permalink: /charts/news/
  [Heat blamed for mysterious deaths of California hiker family](https://www.bbc.co.uk/news/world-us-canada-59003730?at_medium=RSS&at_campaign=KARANGA) BBC: The family of three and their dog were found dead on a trail in Devil's Gulch Valley two months ago. 
  <p class="updated_time"> 04:45 PM CT, Oct. 21 </p> 
  [U.K. Police Charge Suspect in David Amess Killing](https://www.nytimes.com/2021/10/21/world/europe/uk-david-amess-suspect-charged.html) NYT: Ali Harbi Ali, 25, was accused of murder and preparation of terrorist acts in the killing of David Amess, who was stabbed last week. 
- <p class="updated_time"> 04:43 PM CT, Oct. 21 </p> 
- [Haitian Kidnappers Threaten to Kill Missionaries](https://www.nytimes.com/2021/10/21/world/americas/haiti-missionary-kidnapping-threat.html) NYT: As negotiators worked to secure the release of 17 people associated with an Ohio-based missionary group, their kidnappers released a video threatening their lives. 
  <p class="updated_time"> 04:22 PM CT, Oct. 21 </p> 
  [Turkey Sours on Syrians, but Not in This Sleepy Town, Jolted Awake](https://www.nytimes.com/2021/10/20/world/europe/turkey-syria-border-refugees.html) NYT: As calls increase in Turkey for Syrian refugees to go home, Kilis, a border town transformed by the newcomers’ energy, has embraced the change. 
  <p class="updated_time"> 04:20 PM CT, Oct. 21 </p> 
@@ -120,12 +124,8 @@ permalink: /charts/news/
  [God and robots: Will AI transform religion?](https://www.bbc.co.uk/news/technology-58983047?at_medium=RSS&at_campaign=KARANGA) BBC: Robot "priests" can recite prayers, perform funerals, and even comfort those experiencing a spiritual crisis. 
  <p class="updated_time"> 04:00 AM CT, Oct. 21 </p> 
  [Why Australia Won’t Commit to Slashing Carbon Emissions](https://www.nytimes.com/2021/10/21/world/australia/australia-coal-fossil-fuel-carbon.html) NYT: The country has fallen behind other developed nations in its commitment to slashing carbon emissions. Neither fires nor international pressure has pushed it away from coal and other fossil fuels. 
- <p class="updated_time"> 02:20 AM CT, Oct. 21 </p> 
- [Why separatists in Cameroon and Nigeria have united](https://www.bbc.co.uk/news/world-africa-58726231?at_medium=RSS&at_campaign=KARANGA) BBC: Armed militias in the two countries are said to be helping each other with weapons and intelligence. 
  <p class="updated_time"> 02:11 AM CT, Oct. 21 </p> 
  [How green politics are changing Europe](https://www.bbc.co.uk/news/world-europe-58910712?at_medium=RSS&at_campaign=KARANGA) BBC: The Greens performed well in German elections but they are having to adapt their policies to succeed. 
- <p class="updated_time"> 12:14 AM CT, Oct. 21 </p> 
- [More games, more countries, more travel: Does European football care about its climate impact?](https://www.bbc.co.uk/sport/football/58595026?at_medium=RSS&at_campaign=KARANGA) BBC: European football is expanding, with more games in more countries than ever before. So how does that tally with the sport reducing its climate impact? 
  <p class="updated_time"> 11:35 PM CT, Oct. 20 </p> 
  [Your Thursday Briefing](https://www.nytimes.com/2021/10/20/briefing/climate-change-coronavirus-britain.html) NYT: Plans to extract more fossil fuels. 
  <p class="updated_time"> 11:01 PM CT, Oct. 20 </p> 
