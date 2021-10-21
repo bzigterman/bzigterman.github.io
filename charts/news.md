@@ -6,6 +6,10 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 02:36 PM CT, Oct. 21 </p> 
+ [N.I.H. Says Bat Research Group Failed to Submit Prompt Virus Findings](https://www.nytimes.com/2021/10/21/science/bats-covid-lab-leak-nih.html) NYT: The federal agency told a G.O.P. House member that it had notified EcoHealth Alliance, a group criticized for its U.S.-funded work with Wuhan scientists, to file data within five days. 
+ <p class="updated_time"> 02:34 PM CT, Oct. 21 </p> 
+ [Enes Kanter: Boston Celtics star under fire over China comments](https://www.bbc.co.uk/news/world-asia-china-58998423?at_medium=RSS&at_campaign=KARANGA) BBC: Enes Kanter calls China's leader a "brutal dictator", while Beijing accuses him of seeking attention. 
  <p class="updated_time"> 02:31 PM CT, Oct. 21 </p> 
  [US surgeon explains pig kidney-human transplant test](https://www.bbc.co.uk/news/health-59003998?at_medium=RSS&at_campaign=KARANGA) BBC: A US team says it successfully transplanted a genetically modified pig's kidney into a brain-dead human. 
  <p class="updated_time"> 02:20 PM CT, Oct. 21 </p> 
@@ -176,8 +180,6 @@ permalink: /charts/news/
  [Your Wednesday Briefing](https://www.nytimes.com/2021/10/19/briefing/australia-vaccines-evergrande-china-myanmar.html) NYT: Vaccine milestones in Australia and on tiny Pacific islands. 
  <p class="updated_time"> 02:57 PM CT, Oct. 19 </p> 
  [They Fought Apartheid in South Africa. Now They Want Veterans’ Benefits.](https://www.nytimes.com/2021/10/19/world/africa/south-africa-apartheid-veterans-liberation-struggle.html) NYT: A protest movement by those who took up arms against apartheid has grown confrontational. More than 50 of them have been charged with kidnapping the country’s defense minister. 
- <p class="updated_time"> 02:42 PM CT, Oct. 19 </p> 
- [After Del Rio, Calls for Fairer Treatment of Black Migrants](https://www.nytimes.com/2021/10/19/us/politics/black-migrants-biden-border.html) NYT: The treatment of Haitians apprehended in Del Rio, Texas, has galvanized civil rights groups and others to press for change. 
  <p class="updated_time"> 02:23 PM CT, Oct. 19 </p> 
  [Unvaccinated State Workers in Washington and Massachusetts Face Job Loss](https://www.nytimes.com/2021/10/18/world/washington-massachusetts-employees-vaccination.html) NYT: New Jersey’s vaccine mandate for school and state workers also took effect this week, requiring employees to provide proof of vaccination or complete a Covid-19 test at least once a week. 
  <p class="updated_time"> 01:25 PM CT, Oct. 19 </p> 
