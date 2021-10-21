@@ -6,14 +6,14 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 03:56 AM CT, Oct. 21 </p> 
+ [South Korea launches first homegrown space rocket Nuri](https://www.bbc.co.uk/news/world-asia-58990718?at_medium=RSS&at_campaign=KARANGA) BBC: The move marks a step forward in its space ambitions and comes amid an arms race with the North. 
  <p class="updated_time"> 03:37 AM CT, Oct. 21 </p> 
  [Death toll passes 180 in Nepal and India floods](https://www.bbc.co.uk/news/world-asia-india-58951456?at_medium=RSS&at_campaign=KARANGA) BBC: Heavy rain triggers flash floods and landslides in parts of India and Nepal. 
  <p class="updated_time"> 03:32 AM CT, Oct. 21 </p> 
  [Covid Cases Rise in Some Caribbean Islands, W.H.O. Says](https://www.nytimes.com/2021/10/20/world/americas/covid-caribbean-paho.html) NYT: Many nations and territories in the region have had trouble rolling out vaccination drives and need test more, officials said. 
  <p class="updated_time"> 03:14 AM CT, Oct. 21 </p> 
  [Squid's Victory? China streaming site accused of copying Squid Game](https://www.bbc.co.uk/news/world-asia-china-58991127?at_medium=RSS&at_campaign=KARANGA) BBC: Chinese streaming site Youku said that it was just a "draft" poster, but netizens weren't convinced. 
- <p class="updated_time"> 03:03 AM CT, Oct. 21 </p> 
- [South Korea launches first homegrown space rocket Nuri](https://www.bbc.co.uk/news/world-asia-58990718?at_medium=RSS&at_campaign=KARANGA) BBC: The move comes as the country pursues its space ambitions as an arms race with North Korea heats up. 
  <p class="updated_time"> 02:55 AM CT, Oct. 21 </p> 
  [Covid: WHO warns pandemic will drag on deep into 2022](https://www.bbc.co.uk/news/health-58973697?at_medium=RSS&at_campaign=KARANGA) BBC: Slow vaccine supply to poorer nations means the crisis will last longer than it needs to, experts say. 
  <p class="updated_time"> 02:20 AM CT, Oct. 21 </p> 
@@ -26,6 +26,8 @@ permalink: /charts/news/
  [COP26: Document leak reveals nations lobbying to change key climate report](https://www.bbc.co.uk/news/science-environment-58982445?at_medium=RSS&at_campaign=KARANGA) BBC: Countries are asking the UN to play down the need to move rapidly away from fossil fuels. 
  <p class="updated_time"> 12:25 AM CT, Oct. 21 </p> 
  [Covid vaccine: India administers more than one billion Covid jabs](https://www.bbc.co.uk/news/world-asia-india-56345591?at_medium=RSS&at_campaign=KARANGA) BBC: But experts say the pace needs to pick up for India to meet its target of vaccinating all adults by 2021. 
+ <p class="updated_time"> 12:14 AM CT, Oct. 21 </p> 
+ [More games, more countries, more travel: Does European football care about its climate impact?](https://www.bbc.co.uk/sport/football/58595026?at_medium=RSS&at_campaign=KARANGA) BBC: European football is expanding, with more games in more countries than ever before. So how does that tally with the sport reducing its climate impact? 
  <p class="updated_time"> 12:04 AM CT, Oct. 21 </p> 
  [Evergrande shares fall 14% as trading resumes in Hong Kong](https://www.bbc.co.uk/news/business-58976991?at_medium=RSS&at_campaign=KARANGA) BBC: Shares of the Chinese property giant fell as much as 14% on Thursday morning in Hong Kong. 
  <p class="updated_time"> 11:35 PM CT, Oct. 20 </p> 
@@ -148,8 +150,6 @@ permalink: /charts/news/
  [Ros Atkins on… Europe's climate challenge](https://www.bbc.co.uk/news/science-environment-58970153?at_medium=RSS&at_campaign=KARANGA) BBC: Ros Atkins looks at how Europe is getting to grips with its emissions problem. 
  <p class="updated_time"> 06:20 PM CT, Oct. 19 </p> 
  [Myanmar: Mass release of political prisoners](https://www.bbc.co.uk/news/world-asia-58976296?at_medium=RSS&at_campaign=KARANGA) BBC: Some of the political prisoners released by the authorities in Myanmar describe how they endured life in jail. 
- <p class="updated_time"> 06:07 PM CT, Oct. 19 </p> 
- [When a cobra became a murder weapon in India](https://www.bbc.co.uk/news/world-asia-india-58947068?at_medium=RSS&at_campaign=KARANGA) BBC: A 28-year-old man killed his wife using a cobra, in what prosecutors say is the first crime of its kind. 
  <p class="updated_time"> 05:13 PM CT, Oct. 19 </p> 
  [Transgender U.S. Public Health Official Breaks Ground in Covid Fight](https://www.nytimes.com/2021/10/19/us/politics/rachel-levine-public-health-transgender.html) NYT: Admiral Rachel Levine is the first female four-star admiral in the history of the he U.S. Public Health Service Commissioned Corps, which she already leads in her role as assistant secretary. 
  <p class="updated_time"> 03:45 PM CT, Oct. 19 </p> 
