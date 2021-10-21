@@ -6,6 +6,12 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 08:56 PM CT, Oct. 20 </p> 
+ [Thousands Flee Myanmar for India Amid Fears of a Growing Refugee Crisis](https://www.nytimes.com/2021/10/19/world/asia/myanmar-refugees-india.html) NYT: For decades, armed conflict, political repression and targeted campaigns against minorities have forced hundreds of thousands of people to leave the country. Now many more are expected to follow. 
+ <p class="updated_time"> 08:44 PM CT, Oct. 20 </p> 
+ [U.S.-Venezuela Tensions Heat Up Again After Extradition of Maduro Ally](https://www.nytimes.com/2021/10/19/us/politics/venezuela-maduro-biden.html) NYT: As Secretary of State Antony Blinken heads to the region, the window of opportunity for a political resolution has slammed shut. At least for now. 
+ <p class="updated_time"> 08:00 PM CT, Oct. 20 </p> 
+ [COP26: Document leak reveals nations lobbying to change key climate report](https://www.bbc.co.uk/news/science-environment-58982445?at_medium=RSS&at_campaign=KARANGA) BBC: Countries are asking the UN to play down the need to move rapidly away from fossil fuels. 
  <p class="updated_time"> 07:51 PM CT, Oct. 20 </p> 
  [Blinken Cites ‘Democratic Reckoning’ in South America](https://www.nytimes.com/2021/10/20/world/americas/blinken-democracy-south-america.html) NYT: Secretary of State Antony Blinken warned of an eroding trust in democracy in the Western Hemisphere and described challenges posed to open government by authoritarian leaders. 
  <p class="updated_time"> 07:34 PM CT, Oct. 20 </p> 
@@ -18,14 +24,14 @@ permalink: /charts/news/
  [China: The patriotic 'ziganwu' bloggers who attack the West](https://www.bbc.co.uk/news/world-asia-china-58922011?at_medium=RSS&at_campaign=KARANGA) BBC: Their scathing posts have shot them to fame amid rising nationalist fervour - but they toe a fine line. 
  <p class="updated_time"> 06:12 PM CT, Oct. 20 </p> 
  [God and robots: Will AI transform religion?](https://www.bbc.co.uk/news/technology-58983047?at_medium=RSS&at_campaign=KARANGA) BBC: Robot "priests" can recite prayers, perform funerals, and even comfort those experiencing a spiritual crisis. 
- <p class="updated_time"> 06:07 PM CT, Oct. 20 </p> 
- [The remote British island hoping to see more visitors](https://www.bbc.co.uk/news/business-58966376?at_medium=RSS&at_campaign=KARANGA) BBC: The territory of St Helena, which has remained coronavirus-free, wants a big rise in tourists. 
  <p class="updated_time"> 06:03 PM CT, Oct. 20 </p> 
  [Covid: WHO warns pandemic will drag on into 2022](https://www.bbc.co.uk/news/health-58973697?at_medium=RSS&at_campaign=KARANGA) BBC: Slow vaccine supply to poorer nations means the crisis will last longer than it needs to, experts say. 
  <p class="updated_time"> 05:52 PM CT, Oct. 20 </p> 
  [Gabby Petito: 'Human remains' found in Brian Laundrie search](https://www.bbc.co.uk/news/world-us-canada-58989242?at_medium=RSS&at_campaign=KARANGA) BBC: Items owned by Gabby Petito's missing fiancé and apparent human remains have been found in Florida. 
  <p class="updated_time"> 05:39 PM CT, Oct. 20 </p> 
  [Covid Cases Rise in Some Caribbean Islands, W.H.O. Says](https://www.nytimes.com/2021/10/20/world/covid-caribbean-paho.html) NYT: Many nations and territories in the region have had trouble rolling out vaccination drives and need to ramp up testing, officials said. 
+ <p class="updated_time"> 05:19 PM CT, Oct. 20 </p> 
+ [Covid boosters: FDA approves Moderna and J&J shots](https://www.bbc.co.uk/news/world-us-canada-58887929?at_medium=RSS&at_campaign=KARANGA) BBC: Americans will also be able to pick a different vaccine booster from the jab they initially received. 
  <p class="updated_time"> 05:06 PM CT, Oct. 20 </p> 
  [UK agrees free trade deal with New Zealand](https://www.bbc.co.uk/news/business-58988711?at_medium=RSS&at_campaign=KARANGA) BBC: The government says consumers and businesses will benefit from deal, but it is unlikely to boost growth. 
  <p class="updated_time"> 05:00 PM CT, Oct. 20 </p> 
@@ -128,14 +134,10 @@ permalink: /charts/news/
  [Medical Groups Declare Youth Mental Health Crisis](https://www.nytimes.com/2021/10/19/world/covid-pandemic-children-mental-health.html) NYT: Medical groups said the coronavirus pandemic had worsened a mental health crisis among children and teenagers. 
  <p class="updated_time"> 11:48 PM CT, Oct. 19 </p> 
  [Your Wednesday Briefing](https://www.nytimes.com/2021/10/19/briefing/bolsanaro-coronavirus-myanmar-refugees.html) NYT: Calls to charge Bolsonaro with crimes against humanity. 
- <p class="updated_time"> 11:06 PM CT, Oct. 19 </p> 
- [Thousands Flee Myanmar for India Amid Fears of a Growing Refugee Crisis](https://www.nytimes.com/2021/10/19/world/asia/myanmar-refugees-india.html) NYT: For decades, armed conflict, political repression and targeted campaigns against minorities have forced hundreds of thousands of people to leave the country. Now many more are expected to follow. 
  <p class="updated_time"> 08:34 PM CT, Oct. 19 </p> 
  [Fox News Anchor Neil Cavuto Tests Positive for Coronavirus](https://www.nytimes.com/2021/10/19/world/fox-news-neil-cavuto-positive-covid.html) NYT: The broadcaster has survived cancer and open-heart surgery and has multiple sclerosis. 
  <p class="updated_time"> 08:29 PM CT, Oct. 19 </p> 
  [In-N-Out Burger Was Briefly Closed for Breaking San Francisco Covid Protocols](https://www.nytimes.com/2021/10/19/world/san-francisco-in-n-out-burger-covid-vaccine.html) NYT: The popular burger chain said it refused to become “the vaccination police for any government.” 
- <p class="updated_time"> 07:31 PM CT, Oct. 19 </p> 
- [U.S.-Venezuela Tensions Heat Up Again After Extradition of Maduro Ally](https://www.nytimes.com/2021/10/19/us/politics/venezuela-maduro-biden.html) NYT: As Secretary of State Antony Blinken heads to the region, the window of opportunity for a political resolution has slammed shut. At least for now. 
  <p class="updated_time"> 07:02 PM CT, Oct. 19 </p> 
  [North Korea Tests First Submarine-Launched Missile in Two Years](https://www.nytimes.com/2021/10/18/world/asia/north-korea-ballistic-missile-test-washington.html) NYT: The launch came after special envoys gathered to discuss how to deal with Pyongyang’s growing nuclear capabilities. 
  <p class="updated_time"> 06:27 PM CT, Oct. 19 </p> 
