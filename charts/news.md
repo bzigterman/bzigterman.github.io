@@ -6,8 +6,16 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 03:32 AM CT, Oct. 21 </p> 
+ [Covid Cases Rise in Some Caribbean Islands, W.H.O. Says](https://www.nytimes.com/2021/10/20/world/americas/covid-caribbean-paho.html) NYT: Many nations and territories in the region have had trouble rolling out vaccination drives and need test more, officials said. 
+ <p class="updated_time"> 03:14 AM CT, Oct. 21 </p> 
+ [Squid's Victory? China streaming site accused of copying Squid Game](https://www.bbc.co.uk/news/world-asia-china-58991127?at_medium=RSS&at_campaign=KARANGA) BBC: Chinese streaming site Youku said that it was just a "draft" poster, but netizens weren't convinced. 
+ <p class="updated_time"> 03:03 AM CT, Oct. 21 </p> 
+ [South Korea launches first homegrown space rocket Nuri](https://www.bbc.co.uk/news/world-asia-58990718?at_medium=RSS&at_campaign=KARANGA) BBC: The move comes as the country pursues its space ambitions as an arms race with North Korea heats up. 
  <p class="updated_time"> 02:55 AM CT, Oct. 21 </p> 
  [Covid: WHO warns pandemic will drag on deep into 2022](https://www.bbc.co.uk/news/health-58973697?at_medium=RSS&at_campaign=KARANGA) BBC: Slow vaccine supply to poorer nations means the crisis will last longer than it needs to, experts say. 
+ <p class="updated_time"> 02:20 AM CT, Oct. 21 </p> 
+ [Why separatists in Cameroon and Nigeria have united](https://www.bbc.co.uk/news/world-africa-58726231?at_medium=RSS&at_campaign=KARANGA) BBC: Armed militias in the two countries are said to be helping each other with weapons and intelligence. 
  <p class="updated_time"> 02:11 AM CT, Oct. 21 </p> 
  [How green politics are changing Europe](https://www.bbc.co.uk/news/world-europe-58910712?at_medium=RSS&at_campaign=KARANGA) BBC: The Greens performed well in German elections but they are having to adapt their policies to succeed. 
  <p class="updated_time"> 01:43 AM CT, Oct. 21 </p> 
@@ -16,8 +24,6 @@ permalink: /charts/news/
  [COP26: Document leak reveals nations lobbying to change key climate report](https://www.bbc.co.uk/news/science-environment-58982445?at_medium=RSS&at_campaign=KARANGA) BBC: Countries are asking the UN to play down the need to move rapidly away from fossil fuels. 
  <p class="updated_time"> 12:25 AM CT, Oct. 21 </p> 
  [Covid vaccine: India administers more than one billion Covid jabs](https://www.bbc.co.uk/news/world-asia-india-56345591?at_medium=RSS&at_campaign=KARANGA) BBC: But experts say the pace needs to pick up for India to meet its target of vaccinating all adults by 2021. 
- <p class="updated_time"> 12:17 AM CT, Oct. 21 </p> 
- [Squid's Victory? China streaming site accused of copying Squid Game](https://www.bbc.co.uk/news/world-asia-china-58991127?at_medium=RSS&at_campaign=KARANGA) BBC: Chinese streaming site Youku said that it was just a "draft" poster, but netizens weren't convinced. 
  <p class="updated_time"> 12:04 AM CT, Oct. 21 </p> 
  [Evergrande shares fall 14% as trading resumes in Hong Kong](https://www.bbc.co.uk/news/business-58976991?at_medium=RSS&at_campaign=KARANGA) BBC: Shares of the Chinese property giant fell as much as 14% on Thursday morning in Hong Kong. 
  <p class="updated_time"> 11:48 PM CT, Oct. 20 </p> 
@@ -48,8 +54,6 @@ permalink: /charts/news/
  [God and robots: Will AI transform religion?](https://www.bbc.co.uk/news/technology-58983047?at_medium=RSS&at_campaign=KARANGA) BBC: Robot "priests" can recite prayers, perform funerals, and even comfort those experiencing a spiritual crisis. 
  <p class="updated_time"> 05:52 PM CT, Oct. 20 </p> 
  [Gabby Petito: 'Human remains' found in Brian Laundrie search](https://www.bbc.co.uk/news/world-us-canada-58989242?at_medium=RSS&at_campaign=KARANGA) BBC: Items owned by Gabby Petito's missing fiancé and apparent human remains have been found in Florida. 
- <p class="updated_time"> 05:39 PM CT, Oct. 20 </p> 
- [Covid Cases Rise in Some Caribbean Islands, W.H.O. Says](https://www.nytimes.com/2021/10/20/world/covid-caribbean-paho.html) NYT: Many nations and territories in the region have had trouble rolling out vaccination drives and need to ramp up testing, officials said. 
  <p class="updated_time"> 05:06 PM CT, Oct. 20 </p> 
  [UK agrees free trade deal with New Zealand](https://www.bbc.co.uk/news/business-58988711?at_medium=RSS&at_campaign=KARANGA) BBC: The government says consumers and businesses will benefit from deal, but it is unlikely to boost growth. 
  <p class="updated_time"> 05:00 PM CT, Oct. 20 </p> 
@@ -78,8 +82,6 @@ permalink: /charts/news/
  [Ancient-DNA Researchers Set Ethics Guidelines for Their Work](https://www.nytimes.com/2021/10/20/science/ancient-dna-archaeology-ethics.html) NYT: New, international standards for handling ancient genetic material draw support from many scientists, criticism from others. 
  <p class="updated_time"> 01:54 PM CT, Oct. 20 </p> 
  [Egypt imposes a vaccine mandate for all government workers and university students.](https://www.nytimes.com/2021/10/20/world/egypt-covid-vaccine-mandate.html) NYT: Officials expect major deliveries of doses by the end of the month to speed up the country’s vaccination efforts. 
- <p class="updated_time"> 01:43 PM CT, Oct. 20 </p> 
- [Paris Hilton pushes for US youth care abuse reform](https://www.bbc.co.uk/news/world-us-canada-58988523?at_medium=RSS&at_campaign=KARANGA) BBC: The reality star spoke in Washington DC about her alleged abuse in residential care as a teenager. 
  <p class="updated_time"> 01:13 PM CT, Oct. 20 </p> 
  [Britain Resists Calls to Introduce Covid Restrictions](https://www.nytimes.com/2021/10/20/world/europe/britain-covid-cases.html) NYT: The number of new cases in Britain is among the highest in the world, but the government has said there is no need to impose indoor mask mandates or other restrictions. 
  <p class="updated_time"> 12:54 PM CT, Oct. 20 </p> 
@@ -146,8 +148,6 @@ permalink: /charts/news/
  [Ros Atkins on… Europe's climate challenge](https://www.bbc.co.uk/news/science-environment-58970153?at_medium=RSS&at_campaign=KARANGA) BBC: Ros Atkins looks at how Europe is getting to grips with its emissions problem. 
  <p class="updated_time"> 06:20 PM CT, Oct. 19 </p> 
  [Myanmar: Mass release of political prisoners](https://www.bbc.co.uk/news/world-asia-58976296?at_medium=RSS&at_campaign=KARANGA) BBC: Some of the political prisoners released by the authorities in Myanmar describe how they endured life in jail. 
- <p class="updated_time"> 06:18 PM CT, Oct. 19 </p> 
- [The US suburban couple accused of a bungled treason plot](https://www.bbc.co.uk/news/world-us-canada-58920970?at_medium=RSS&at_campaign=KARANGA) BBC: The Toebbes seemed to have everything - so why did they allegedly try to sell nuclear secrets? 
  <p class="updated_time"> 06:07 PM CT, Oct. 19 </p> 
  [When a cobra became a murder weapon in India](https://www.bbc.co.uk/news/world-asia-india-58947068?at_medium=RSS&at_campaign=KARANGA) BBC: A 28-year-old man killed his wife using a cobra, in what prosecutors say is the first crime of its kind. 
  <p class="updated_time"> 05:13 PM CT, Oct. 19 </p> 
