@@ -6,12 +6,14 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 10:44 PM CT, Oct. 20 </p> 
+ [Evergrande shares fall 14% as trading resumes in Hong Kong](https://www.bbc.co.uk/news/business-58976991?at_medium=RSS&at_campaign=KARANGA) BBC: Shares of the Chinese property giant fell as much as 14% on Thursday morning in Hong Kong. 
  <p class="updated_time"> 10:29 PM CT, Oct. 20 </p> 
  [Spanish Court Agrees to Extradite Former Venezuela Spy Chief to U.S.](https://www.nytimes.com/2021/10/20/world/europe/spain-extradite-carvajal-venezuela.html) NYT: Hugo Carvajal, once a prominent figure in the government of the Venezuelan leader Nicolás Maduro, faces drug-trafficking charges in the United States. 
  <p class="updated_time"> 10:26 PM CT, Oct. 20 </p> 
  [Transgender Woman Flees Malaysia After Wearing Hijab](https://www.nytimes.com/2021/10/20/world/asia/malaysia-transgender.html) NYT: The Islamic authorities want to imprison her for wearing female clothing at a religious event and threatened to put her in a rehabilitation camp where she could “return to the right path.” 
- <p class="updated_time"> 10:13 PM CT, Oct. 20 </p> 
- [Evergrande shares fall 10% as trading resumes in Hong Kong](https://www.bbc.co.uk/news/business-58976991?at_medium=RSS&at_campaign=KARANGA) BBC: Shares of the Chinese property giant fell as much as 14% on Thursday morning in Hong Kong. 
+ <p class="updated_time"> 09:55 PM CT, Oct. 20 </p> 
+ [Trump to launch new social media platform TRUTH Social](https://www.bbc.co.uk/news/world-us-canada-58990330?at_medium=RSS&at_campaign=KARANGA) BBC: The former US president said it would be used to "stand up to the tyranny of big tech". 
  <p class="updated_time"> 09:54 PM CT, Oct. 20 </p> 
  [Zalmay Khalilzad, Biden’s Envoy for Afghanistan, Steps Down](https://www.nytimes.com/2021/10/18/us/politics/zalmay-khalilzad-afghanistan.html) NYT: An Afghan American and a rare Trump appointee who survived into the Biden administration, Mr. Khalilzad played a central role in the U.S. exit from the country. 
  <p class="updated_time"> 08:56 PM CT, Oct. 20 </p> 
@@ -86,8 +88,6 @@ permalink: /charts/news/
  [Queen ‘Reluctantly’ Cancels Trip, Citing Medical Advice](https://www.nytimes.com/2021/10/20/world/europe/queen-elizabeth-northern-ireland.html) NYT: Britain’s 95-year-old monarch will not travel to Northern Ireland but is “in good spirits,” Buckingham Palace said. 
  <p class="updated_time"> 11:18 AM CT, Oct. 20 </p> 
  [Nikolas Cruz: Parkland gunman pleads guilty to murdering 17](https://www.bbc.co.uk/news/world-us-canada-58983965?at_medium=RSS&at_campaign=KARANGA) BBC: Nikolas Cruz could see life in prison or the death penalty over the 2018 Florida school shooting. 
- <p class="updated_time"> 11:16 AM CT, Oct. 20 </p> 
- [Nigerian romance scam suspects targeted 100 women - FBI](https://www.bbc.co.uk/news/world-africa-58978287?at_medium=RSS&at_campaign=KARANGA) BBC: Eight Nigerian men are charged in South Africa after an international operation involving Interpol. 
  <p class="updated_time"> 11:08 AM CT, Oct. 20 </p> 
  [China Tests Hypersonic Missile in Military Expansion](https://www.wsj.com/articles/china-tests-hypersonic-missile-in-military-expansion-11634744351) WSJ: China tested the missile, which orbited the globe before heading toward its target, in August, adding a new capability to its military buildup, U.S. officials said. 
  <p class="updated_time"> 11:00 AM CT, Oct. 20 </p> 
