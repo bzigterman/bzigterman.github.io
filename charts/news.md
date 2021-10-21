@@ -6,14 +6,16 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 11:02 PM CT, Oct. 20 </p> 
+ [Trump to launch new social media platform TRUTH Social](https://www.bbc.co.uk/news/world-us-canada-58990330?at_medium=RSS&at_campaign=KARANGA) BBC: The former US president said it would be used to "stand up to the tyranny of big tech". 
+ <p class="updated_time"> 10:57 PM CT, Oct. 20 </p> 
+ [Your Thursday Briefing](https://www.nytimes.com/2021/10/20/briefing/climate-change-coronavirus-britain.html) NYT: Plans to extract more fossil fuels. 
  <p class="updated_time"> 10:44 PM CT, Oct. 20 </p> 
  [Evergrande shares fall 14% as trading resumes in Hong Kong](https://www.bbc.co.uk/news/business-58976991?at_medium=RSS&at_campaign=KARANGA) BBC: Shares of the Chinese property giant fell as much as 14% on Thursday morning in Hong Kong. 
  <p class="updated_time"> 10:29 PM CT, Oct. 20 </p> 
  [Spanish Court Agrees to Extradite Former Venezuela Spy Chief to U.S.](https://www.nytimes.com/2021/10/20/world/europe/spain-extradite-carvajal-venezuela.html) NYT: Hugo Carvajal, once a prominent figure in the government of the Venezuelan leader Nicolás Maduro, faces drug-trafficking charges in the United States. 
  <p class="updated_time"> 10:26 PM CT, Oct. 20 </p> 
  [Transgender Woman Flees Malaysia After Wearing Hijab](https://www.nytimes.com/2021/10/20/world/asia/malaysia-transgender.html) NYT: The Islamic authorities want to imprison her for wearing female clothing at a religious event and threatened to put her in a rehabilitation camp where she could “return to the right path.” 
- <p class="updated_time"> 09:55 PM CT, Oct. 20 </p> 
- [Trump to launch new social media platform TRUTH Social](https://www.bbc.co.uk/news/world-us-canada-58990330?at_medium=RSS&at_campaign=KARANGA) BBC: The former US president said it would be used to "stand up to the tyranny of big tech". 
  <p class="updated_time"> 09:54 PM CT, Oct. 20 </p> 
  [Zalmay Khalilzad, Biden’s Envoy for Afghanistan, Steps Down](https://www.nytimes.com/2021/10/18/us/politics/zalmay-khalilzad-afghanistan.html) NYT: An Afghan American and a rare Trump appointee who survived into the Biden administration, Mr. Khalilzad played a central role in the U.S. exit from the country. 
  <p class="updated_time"> 08:56 PM CT, Oct. 20 </p> 
@@ -170,8 +172,6 @@ permalink: /charts/news/
  [Reluctance among Russians to get vaccinated has led to a surge in cases and deaths.](https://www.nytimes.com/2021/10/19/world/apathy-and-mistrust-leave-russia-facing-the-risks-of-a-low-vaccination-rate.html) NYT: NA 
  <p class="updated_time"> 09:26 AM CT, Oct. 19 </p> 
  [The Threat, in Perspective](https://www.nytimes.com/2021/10/19/briefing/colin-powell-covid-risk-older-americans.html) NYT: Colin Powell’s death highlights the continuing Covid risks to older people with medical conditions. 
- <p class="updated_time"> 03:18 AM CT, Oct. 19 </p> 
- [ Russia's Low Vaccination Rates Leads to Record-Breaking Toll](https://www.nytimes.com/2021/10/18/world/europe/russia-virus-vaccine.html) NYT: The country hit 1,000 deaths in a 24-hour period for the first time since the pandemic began, reflecting the risks of having a low vaccination rate. 
  <p class="updated_time"> 11:02 PM CT, Oct. 18 </p> 
  [Ecuador’s President Declares State of Emergency to Battle Crime](https://www.nytimes.com/2021/10/19/world/americas/ecuador-state-of-emergency.html) NYT: Guillermo Lasso said the military and the police would patrol the streets to provide security to confront drug trafficking and other crimes. 
  <p class="updated_time"> 10:37 PM CT, Oct. 18 </p> 
