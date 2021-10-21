@@ -6,6 +6,12 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 04:22 PM CT, Oct. 21 </p> 
+ [Turkey Sours on Syrians, but Not in This Sleepy Town, Jolted Awake](https://www.nytimes.com/2021/10/20/world/europe/turkey-syria-border-refugees.html) NYT: As calls increase in Turkey for Syrian refugees to go home, Kilis, a border town transformed by the newcomers’ energy, has embraced the change. 
+ <p class="updated_time"> 04:20 PM CT, Oct. 21 </p> 
+ [Where Are the Workers?](https://www.nytimes.com/2021/10/20/briefing/labor-shortage-us-low-wage-economy.html) NYT: How can so many Americans afford not to work? And will it last? 
+ <p class="updated_time"> 04:20 PM CT, Oct. 21 </p> 
+ [Your Friday Briefing](https://www.nytimes.com/2021/10/21/briefing/australia-coal-british-covid-strategy-celtics.html) NYT: Why Australia won’t commit to emissions reductions. 
  <p class="updated_time"> 03:44 PM CT, Oct. 21 </p> 
  [N.I.H. Says Bat Research Group Failed to Submit Prompt Virus Findings](https://www.nytimes.com/2021/10/21/science/bats-covid-lab-leak-nih.html) NYT: The federal agency told a G.O.P. House member that it had notified EcoHealth Alliance, a group criticized for its U.S.-funded work with Wuhan scientists, to file data within five days. 
  <p class="updated_time"> 03:40 PM CT, Oct. 21 </p> 
@@ -154,16 +160,10 @@ permalink: /charts/news/
  [Putin Won’t Go to Glasgow for Climate Conference](https://www.nytimes.com/2021/10/20/world/europe/putin-glasgow-climate-conference-cop26.html) NYT: President Vladimir V. Putin of Russia may make a speech by video at the United Nations summit, which is seen as pivotal in efforts to stem climate change. 
  <p class="updated_time"> 10:46 AM CT, Oct. 20 </p> 
  [School Attendance Falls for Homeless Students in N.Y.C. ](https://www.nytimes.com/2021/10/19/nyregion/new-york-city-homeless-school-attendance.html) NYT: Attendance rates for students living in shelters fell to just 73 percent in the first few weeks of the new school year, compared with around 90 percent for all students. 
- <p class="updated_time"> 10:33 AM CT, Oct. 20 </p> 
- [Turkey Sours on Syrians, but Not in This Sleepy Town, Jolted Awake](https://www.nytimes.com/2021/10/20/world/europe/turkey-syria-border-refugees.html) NYT: As calls increase in Turkey for Syrian refugees to go home, Kilis, a border town transformed by the newcomers’ energy, has embraced the change. 
  <p class="updated_time"> 10:24 AM CT, Oct. 20 </p> 
  [Bombing of Military Bus in Syrian Capital Kills 14](https://www.nytimes.com/2021/10/20/world/middleeast/syria-military-bus-bombing.html) NYT: President Bashar al-Assad has tightened his grip on Damascus, but the attack suggested that militants who oppose him can still do harm. 
- <p class="updated_time"> 06:57 AM CT, Oct. 20 </p> 
- [Taliban Allow Polio Vaccine Program to Restart in Afghanistan](https://www.nytimes.com/2021/10/19/world/asia/taliban-polio-vaccines-afghanistan.html) NYT: Taliban leaders also agreed to allow women to be frontline workers for the effort, according to the World Health Organization and UNICEF. 
  <p class="updated_time"> 06:48 AM CT, Oct. 20 </p> 
  [Lekki toll gate shootings: Nigeria's 'massacre without blood or bodies'](https://www.bbc.co.uk/news/world-africa-58975493?at_medium=RSS&at_campaign=KARANGA) BBC: The BBC investigates what happened on the night 20 October 2020, when the Nigerian army opened fire on peaceful protesters in Lagos. 
- <p class="updated_time"> 05:25 AM CT, Oct. 20 </p> 
- [Where Are the Workers?](https://www.nytimes.com/2021/10/20/briefing/labor-shortage-us-low-wage-economy.html) NYT: How can so many Americans afford not to work? And will it last? 
  <p class="updated_time"> 04:00 AM CT, Oct. 20 </p> 
  [Writing About a Past Injustice Helped Her See What Has and Hasn’t Changed](https://www.nytimes.com/2021/10/20/books/nadifa-mohamed-fortune-men.html) NYT: Nadifa Mohamed is a Booker Prize finalist for her novel “The Fortune Men,” a story about a false accusation and the tragedy that resulted. 
  <p class="updated_time"> 04:00 AM CT, Oct. 20 </p> 
