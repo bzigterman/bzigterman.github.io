@@ -6,6 +6,10 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 05:21 AM CT, Oct. 21 </p> 
+ [The Full Truth](https://www.nytimes.com/2021/10/21/briefing/booster-shots-jj-rochelle-walensky.html) NYT: What happens when health officials tell it? 
+ <p class="updated_time"> 05:07 AM CT, Oct. 21 </p> 
+ [Barbados elects first ever president ahead of becoming republic](https://www.bbc.co.uk/news/world-latin-america-58993728?at_medium=RSS&at_campaign=KARANGA) BBC: The Caribbean nation is set to become a republic, removing Queen Elizabeth as its head of state. 
  <p class="updated_time"> 05:06 AM CT, Oct. 21 </p> 
  [God and robots: Will AI transform religion?](https://www.bbc.co.uk/news/technology-58983047?at_medium=RSS&at_campaign=KARANGA) BBC: Robot "priests" can recite prayers, perform funerals, and even comfort those experiencing a spiritual crisis. 
  <p class="updated_time"> 05:02 AM CT, Oct. 21 </p> 
@@ -38,6 +42,8 @@ permalink: /charts/news/
  [Trump to launch new social media platform TRUTH Social](https://www.bbc.co.uk/news/world-us-canada-58990330?at_medium=RSS&at_campaign=KARANGA) BBC: The former US president was banned from Twitter and Facebook following the US Capitol riots. 
  <p class="updated_time"> 01:31 AM CT, Oct. 21 </p> 
  [COP26: Document leak reveals nations lobbying to change key climate report](https://www.bbc.co.uk/news/science-environment-58982445?at_medium=RSS&at_campaign=KARANGA) BBC: Countries are asking the UN to play down the need to move rapidly away from fossil fuels. 
+ <p class="updated_time"> 12:59 AM CT, Oct. 21 </p> 
+ [Covid-19 Herd Immunity Proves Elusive in U.K.](https://www.wsj.com/articles/covid-19-herd-immunity-proves-elusive-in-u-k-11634810364) WSJ: In the summer, the U.K. lifted most restrictions in the hope that immunity would keep the virus at bay, but recent rises in cases and deaths indicate that reliance on this doesn’t guarantee a quick victory. 
  <p class="updated_time"> 12:25 AM CT, Oct. 21 </p> 
  [Covid vaccine: India administers more than one billion Covid jabs](https://www.bbc.co.uk/news/world-asia-india-56345591?at_medium=RSS&at_campaign=KARANGA) BBC: But experts say the pace needs to pick up for India to meet its target of vaccinating all adults by 2021. 
  <p class="updated_time"> 12:14 AM CT, Oct. 21 </p> 
@@ -62,8 +68,6 @@ permalink: /charts/news/
  [Blinken Cites ‘Democratic Reckoning’ in South America](https://www.nytimes.com/2021/10/20/world/americas/blinken-democracy-south-america.html) NYT: Secretary of State Antony Blinken warned of an eroding trust in democracy in the Western Hemisphere and described challenges posed to open government by authoritarian leaders. 
  <p class="updated_time"> 07:34 PM CT, Oct. 20 </p> 
  [Himachal Pradesh: 'Human greed causing death and destruction in the Himalayas'](https://www.bbc.co.uk/news/world-asia-india-58895752?at_medium=RSS&at_campaign=KARANGA) BBC: Locals in the Indian state of Himachal Pradesh are demanding a stop to new hydro-power projects. 
- <p class="updated_time"> 06:55 PM CT, Oct. 20 </p> 
- [Netflix employees protest 'transphobic' Dave Chappelle comedy show](https://www.bbc.co.uk/news/world-us-canada-58990325?at_medium=RSS&at_campaign=KARANGA) BBC: Activists say the streaming giant's comedy special could fuel attacks on transgender people. 
  <p class="updated_time"> 06:14 PM CT, Oct. 20 </p> 
  [China: The patriotic 'ziganwu' bloggers who attack the West](https://www.bbc.co.uk/news/world-asia-china-58922011?at_medium=RSS&at_campaign=KARANGA) BBC: Their scathing posts have shot them to fame amid rising nationalist fervour - but they toe a fine line. 
  <p class="updated_time"> 05:00 PM CT, Oct. 20 </p> 
@@ -94,6 +98,8 @@ permalink: /charts/news/
  [Egypt imposes a vaccine mandate for all government workers and university students.](https://www.nytimes.com/2021/10/20/world/egypt-covid-vaccine-mandate.html) NYT: Officials expect major deliveries of doses by the end of the month to speed up the country’s vaccination efforts. 
  <p class="updated_time"> 01:13 PM CT, Oct. 20 </p> 
  [Britain Resists Calls to Introduce Covid Restrictions](https://www.nytimes.com/2021/10/20/world/europe/britain-covid-cases.html) NYT: The number of new cases in Britain is among the highest in the world, but the government has said there is no need to impose indoor mask mandates or other restrictions. 
+ <p class="updated_time"> 12:56 PM CT, Oct. 20 </p> 
+ [Brazilian Panel Seeks Criminal Charges Against Bolsonaro](https://www.wsj.com/articles/brazilian-panel-recommends-criminal-charges-against-jair-bolsonaro-11634767002) WSJ: In the context of the Covid-19 crisis, the senate panel said President Jair Bolsonaro should be charged with crimes against humanity, failing to prevent deaths from an epidemic and misuse of public funds. 
  <p class="updated_time"> 12:54 PM CT, Oct. 20 </p> 
  [All Afghans have the right to a passport - Taliban](https://www.bbc.co.uk/news/world-asia-58989021?at_medium=RSS&at_campaign=KARANGA) BBC: But sports personalities, people seeking medical treatment or wanting to study abroad will be prioritised. 
  <p class="updated_time"> 12:49 PM CT, Oct. 20 </p> 
@@ -106,12 +112,8 @@ permalink: /charts/news/
  [Russian inmate who leaked torture videos alleges death threats](https://www.bbc.co.uk/news/world-europe-58978613?at_medium=RSS&at_campaign=KARANGA) BBC: Sergey Savelyev is seeking asylum in France after he leaked videos showing abuse in Russian prisons. 
  <p class="updated_time"> 11:20 AM CT, Oct. 20 </p> 
  [Queen ‘Reluctantly’ Cancels Trip, Citing Medical Advice](https://www.nytimes.com/2021/10/20/world/europe/queen-elizabeth-northern-ireland.html) NYT: Britain’s 95-year-old monarch will not travel to Northern Ireland but is “in good spirits,” Buckingham Palace said. 
- <p class="updated_time"> 11:08 AM CT, Oct. 20 </p> 
- [China Tests Hypersonic Missile in Military Expansion](https://www.wsj.com/articles/china-tests-hypersonic-missile-in-military-expansion-11634744351) WSJ: China tested the missile, which orbited the globe before heading toward its target, in August, adding a new capability to its military buildup, U.S. officials said. 
  <p class="updated_time"> 11:00 AM CT, Oct. 20 </p> 
  [Putin Won’t Go to Glasgow for Climate Conference](https://www.nytimes.com/2021/10/20/world/europe/putin-glasgow-climate-conference-cop26.html) NYT: President Vladimir V. Putin of Russia may make a speech by video at the United Nations summit, which is seen as pivotal in efforts to stem climate change. 
- <p class="updated_time"> 10:59 AM CT, Oct. 20 </p> 
- [Syrian Regime Shelling Kills at Least 13, Including Children](https://www.wsj.com/articles/syrian-regime-shelling-kills-at-least-13-including-children-in-rebel-held-province-11634738613) WSJ: At least 13 people including several children were killed when government forces shelled a marketplace and roads in the last major section of the country held by rebels. 
  <p class="updated_time"> 10:46 AM CT, Oct. 20 </p> 
  [School Attendance Falls for Homeless Students in N.Y.C. ](https://www.nytimes.com/2021/10/19/nyregion/new-york-city-homeless-school-attendance.html) NYT: Attendance rates for students living in shelters fell to just 73 percent in the first few weeks of the new school year, compared with around 90 percent for all students. 
  <p class="updated_time"> 10:33 AM CT, Oct. 20 </p> 
@@ -122,8 +124,6 @@ permalink: /charts/news/
  [Female Afghan Judges and Lawyers Now Fear For Their Lives](https://www.nytimes.com/2021/10/20/world/asia/afghan-judges-women-taliban.html) NYT: They fear that they or their loved ones could be tracked down and killed because of their work delivering justice to women. “We have lost everything — our jobs, our homes, the way we lived.” 
  <p class="updated_time"> 09:32 AM CT, Oct. 20 </p> 
  [Taliban Face Pressure Over New Afghan Government at Russia Conference](https://www.wsj.com/articles/russia-faces-difficult-balancing-act-as-it-hosts-taliban-in-moscow-11634722296) WSJ: Taliban representatives met with senior officials from Russia, China and other countries in Moscow, where they came under pressure to form a more inclusive government and pursue a friendly policy toward neighboring countries. 
- <p class="updated_time"> 08:39 AM CT, Oct. 20 </p> 
- [Russia Orders People Not to Go to Work as Covid-19 Deaths Mount](https://www.wsj.com/articles/russia-orders-people-not-to-got-to-work-as-covid-19-deaths-mount-11634750559) WSJ: Russian President Vladimir Putin issued the order as cases have climbed, and neighboring Latvia launched a curfew after the seven-day average of deaths more than doubled. 
  <p class="updated_time"> 06:57 AM CT, Oct. 20 </p> 
  [Taliban Allow Polio Vaccine Program to Restart in Afghanistan](https://www.nytimes.com/2021/10/19/world/asia/taliban-polio-vaccines-afghanistan.html) NYT: Taliban leaders also agreed to allow women to be frontline workers for the effort, according to the World Health Organization and UNICEF. 
  <p class="updated_time"> 06:48 AM CT, Oct. 20 </p> 
@@ -188,8 +188,6 @@ permalink: /charts/news/
  [In Norway Attack, ‘Sharp Object,’ Not Arrows, Killed 5, Police Say](https://www.nytimes.com/2021/10/18/world/europe/norway-attack.html) NYT: The Norwegian police on Monday said that while a hunting bow had been used in last week’s rampage, the victims, four women and a man, were stabbed to death. 
  <p class="updated_time"> 04:27 PM CT, Oct. 18 </p> 
  [What Scientists Know About the Risk of Breakthrough Covid Deaths](https://www.nytimes.com/2021/10/18/health/coronavirus-vaccine-powell-breakthrough.html) NYT: Deaths among people who have been fully vaccinated remain rare, but older adults and those with compromised immune systems are at much higher risk. 
- <p class="updated_time"> 03:56 PM CT, Oct. 18 </p> 
- [Your Tuesday Briefing](https://www.nytimes.com/2021/10/18/briefing/russia-covid-nato-china-banks.html) NYT: Russia hits a Covid death record. 
  <p class="updated_time"> 07:30 AM CT, Oct. 18 </p> 
  [COP26: Does a climate summit need 25,000 people? And more questions](https://www.bbc.co.uk/news/science-environment-58925049?at_medium=RSS&at_campaign=KARANGA) BBC: BBC science correspondent Matt McGrath answers your questions about Glasgow's COP26 climate summit. 
  <p class="updated_time"> 06:56 PM CT, Oct. 17 </p> 
