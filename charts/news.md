@@ -52,6 +52,8 @@ permalink: /charts/news/
  [As Chinese Women Seek to Crack Male Professions, Schools Stand in the Way](https://www.nytimes.com/2021/10/21/world/asia/china-schools-gender-bias.html) NYT: In China, some academic programs accept only men or cap the number of female applicants, who often must test higher than their male counterparts. 
  <p class="updated_time"> 12:41 PM CT, Oct. 21 </p> 
  [In Haiti, Gangs Gain Power as Security Vacuum Grows](https://www.nytimes.com/2021/10/21/world/americas/haiti-gangs-kidnapping.html) NYT: Gangs have long held sway in the country, but their dominance has expanded in recent years and the government has been accused of using them as tools of repression. 
+ <p class="updated_time"> 12:31 PM CT, Oct. 21 </p> 
+ [European Leaders Urge Caution in EU Clash With Poland](https://www.wsj.com/articles/european-leaders-urge-caution-in-eu-clash-with-poland-11634831250) WSJ: Germany, France and others fear fast action against Warsaw could do more damage to the bloc in the wake of a recent ruling by Poland’s constitutional tribunal that EU treaty law has become incompatible with Polish law. 
  <p class="updated_time"> 12:24 PM CT, Oct. 21 </p> 
  [U.K. Police Charge Suspect in David Amess Killing](https://www.nytimes.com/2021/10/21/world/europe/uk-david-amess-suspect-charged.html) NYT: Ali Harbi Ali, 25, was accused of murder and preparation of terrorist acts in the killing of David Amess, who was fatally stabbed last week. 
  <p class="updated_time"> 12:00 PM CT, Oct. 21 </p> 
@@ -86,8 +88,6 @@ permalink: /charts/news/
  [Tourists in Asia Navigate a Patchwork of Policies](https://www.nytimes.com/2021/10/21/world/asia/asia-travel-rules.html) NYT: NA 
  <p class="updated_time"> 07:23 AM CT, Oct. 21 </p> 
  [U.K. Charges Man With Murder of Lawmaker David Amess](https://www.wsj.com/articles/u-k-charges-ali-harbi-ali-with-murder-of-lawmaker-david-amess-11634823570) WSJ: British authorities charged a 25-year-old London man, Ali Harbi Ali, with murder and terrorism in the stabbing to death of the Conservative lawmaker last week. 
- <p class="updated_time"> 07:21 AM CT, Oct. 21 </p> 
- [European Leaders Urge Caution in EU Clash With Poland](https://www.wsj.com/articles/european-leaders-urge-caution-in-eu-clash-with-poland-11634831250) WSJ: Germany, France and others fear fast action against Warsaw could do more damage to the bloc in the wake of a recent ruling by Poland’s constitutional tribunal that EU treaty law has become incompatible with Polish law. 
  <p class="updated_time"> 07:20 AM CT, Oct. 21 </p> 
  [Covid-19 Herd Immunity Proves Elusive in U.K.](https://www.wsj.com/articles/covid-19-herd-immunity-proves-elusive-in-u-k-11634810364) WSJ: In the summer, the U.K. lifted most restrictions in the hope that immunity would keep the virus at bay, but recent rises in cases and deaths indicate that reliance on this doesn’t guarantee a quick victory. 
  <p class="updated_time"> 05:33 AM CT, Oct. 21 </p> 
