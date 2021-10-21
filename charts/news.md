@@ -6,10 +6,14 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 06:40 PM CT, Oct. 21 </p> 
+ [Russia's Covid nightmare driven by vaccine rejection](https://www.bbc.co.uk/news/world-europe-58998366?at_medium=RSS&at_campaign=KARANGA) BBC: More than 1,000 people are dying in Russia every day, and in Vologda only one in four is vaccinated. 
  <p class="updated_time"> 06:37 PM CT, Oct. 21 </p> 
  [New Zealand’s Chief Coroner Opens New Inquiry Into Mosque Attacks](https://www.nytimes.com/2021/10/21/world/australia/new-zealand-christchurch-investigation.html) NYT: The move came after pleas from dozens of families of those killed in Christchurch in 2019 when a white supremacist opened fire on Muslims at prayer. 
  <p class="updated_time"> 06:24 PM CT, Oct. 21 </p> 
  [Gabby Petito: Fiancé Brian Laundrie's remains found - FBI](https://www.bbc.co.uk/news/world-us-canada-59004831?at_medium=RSS&at_campaign=KARANGA) BBC: A skull was reportedly found in the hunt for Brian Laundrie, a person of interest in Gabby Petito's death. 
+ <p class="updated_time"> 06:23 PM CT, Oct. 21 </p> 
+ [Why the Newcastle United takeover is controversial](https://www.bbc.co.uk/news/world-middle-east-58930311?at_medium=RSS&at_campaign=KARANGA) BBC: Here are some of the reasons why the Saudi-led consortium has proved controversial. 
  <p class="updated_time"> 06:10 PM CT, Oct. 21 </p> 
  [They Fought Apartheid in South Africa. Now They Want Veterans’ Benefits.](https://www.nytimes.com/2021/10/19/world/africa/south-africa-apartheid-veterans-liberation-struggle.html) NYT: A protest movement by those who took up arms against apartheid has grown confrontational. More than 50 of them have been charged with kidnapping the country’s defense minister. 
  <p class="updated_time"> 06:10 PM CT, Oct. 21 </p> 
@@ -154,8 +158,6 @@ permalink: /charts/news/
  [Ancient-DNA Researchers Set Ethics Guidelines for Their Work](https://www.nytimes.com/2021/10/20/science/ancient-dna-archaeology-ethics.html) NYT: New, international standards for handling ancient genetic material draw support from many scientists, criticism from others. 
  <p class="updated_time"> 01:54 PM CT, Oct. 20 </p> 
  [Egypt imposes a vaccine mandate for all government workers and university students.](https://www.nytimes.com/2021/10/20/world/egypt-covid-vaccine-mandate.html) NYT: Officials expect major deliveries of doses by the end of the month to speed up the country’s vaccination efforts. 
- <p class="updated_time"> 12:54 PM CT, Oct. 20 </p> 
- [All Afghans have the right to a passport - Taliban](https://www.bbc.co.uk/news/world-asia-58989021?at_medium=RSS&at_campaign=KARANGA) BBC: But sports personalities, people seeking medical treatment or wanting to study abroad will be prioritised. 
  <p class="updated_time"> 12:29 PM CT, Oct. 20 </p> 
  [Britain Outlines Energy Plans Amid Dimming Prospects for Climate Summit](https://www.nytimes.com/2021/10/19/world/europe/britain-climate-change-cop26.html) NYT: In an effort to recapture momentum, Prime Minister Boris Johnson  announced a host of measures, including plans for a big expansion of electric vehicles, more offshore wind power and greater use of hydrogen. 
  <p class="updated_time"> 11:46 AM CT, Oct. 20 </p> 
