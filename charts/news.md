@@ -6,6 +6,10 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 06:37 PM CT, Oct. 21 </p> 
+ [New Zealand’s Chief Coroner Opens New Inquiry Into Mosque Attacks](https://www.nytimes.com/2021/10/21/world/australia/new-zealand-christchurch-investigation.html) NYT: The move came after pleas from dozens of families of those killed in Christchurch in 2019 when a white supremacist opened fire on Muslims at prayer. 
+ <p class="updated_time"> 06:24 PM CT, Oct. 21 </p> 
+ [Gabby Petito: Fiancé Brian Laundrie's remains found - FBI](https://www.bbc.co.uk/news/world-us-canada-59004831?at_medium=RSS&at_campaign=KARANGA) BBC: A skull was reportedly found in the hunt for Brian Laundrie, a person of interest in Gabby Petito's death. 
  <p class="updated_time"> 06:10 PM CT, Oct. 21 </p> 
  [They Fought Apartheid in South Africa. Now They Want Veterans’ Benefits.](https://www.nytimes.com/2021/10/19/world/africa/south-africa-apartheid-veterans-liberation-struggle.html) NYT: A protest movement by those who took up arms against apartheid has grown confrontational. More than 50 of them have been charged with kidnapping the country’s defense minister. 
  <p class="updated_time"> 06:10 PM CT, Oct. 21 </p> 
@@ -24,8 +28,6 @@ permalink: /charts/news/
  [Queen ‘Reluctantly’ Cancels Trip, Citing Medical Advice](https://www.nytimes.com/2021/10/20/world/europe/queen-elizabeth-northern-ireland.html) NYT: Britain’s 95-year-old monarch will not travel to Northern Ireland but is “in good spirits,” Buckingham Palace said. 
  <p class="updated_time"> 05:19 PM CT, Oct. 21 </p> 
  [Queen Elizabeth Was Hospitalized, Palace Discloses](https://www.nytimes.com/2021/10/21/world/europe/queen-elizabeth-health-hospital.html) NYT: She was discharged on Thursday after undergoing tests the day before and spending the night. The queen, 95, had just canceled a planned trip to Northern Ireland. 
- <p class="updated_time"> 05:15 PM CT, Oct. 21 </p> 
- [Gabby Petito: Fiancé Brian Laundrie's remains found - FBI](https://www.bbc.co.uk/news/world-us-canada-59004831?at_medium=RSS&at_campaign=KARANGA) BBC: A skull was reportedly found in the hunt for Brian Laundrie, a person of interest in Gabby Petito's death. 
  <p class="updated_time"> 04:59 PM CT, Oct. 21 </p> 
  [Russia Introduces Weeklong Office Shutdown After Covid Deaths Rise](https://www.nytimes.com/2021/10/20/world/europe/russia-covid-restrictions.html) NYT: The measure, meant to slow the spread of the coronavirus, is short of a full lockdown and only affects nonessential workers. 
  <p class="updated_time"> 04:58 PM CT, Oct. 21 </p> 
@@ -92,8 +94,6 @@ permalink: /charts/news/
  [Syria says it executed 24 people for starting 2020 wildfires](https://www.bbc.co.uk/news/world-middle-east-58997475?at_medium=RSS&at_campaign=KARANGA) BBC: The government alleges they admitted to igniting fires last year that left three people dead. 
  <p class="updated_time"> 11:09 AM CT, Oct. 21 </p> 
  [Big John, largest known triceratops skeleton, sold at auction](https://www.bbc.co.uk/news/world-europe-58998367?at_medium=RSS&at_campaign=KARANGA) BBC: The auction house said the skeleton was sold to a private collector for a European record of €6.65m. 
- <p class="updated_time"> 10:48 AM CT, Oct. 21 </p> 
- [New Zealand’s Chief Coroner Opens New Inquiry Into Mosque Attacks](https://www.nytimes.com/2021/10/21/world/australia/new-zealand-christchurch-investigation.html) NYT: The move came after pleas from dozens of families of those killed in 2019 when a white supremacist opened fire on Muslims at prayer. 
  <p class="updated_time"> 10:37 AM CT, Oct. 21 </p> 
  [Vikings settled in North America in 1021AD, study says](https://www.bbc.co.uk/news/world-us-canada-58996186?at_medium=RSS&at_campaign=KARANGA) BBC: Scientists say they have precisely dated a camp in Newfoundland, Canada, thanks to a new technique. 
  <p class="updated_time"> 10:22 AM CT, Oct. 21 </p> 
