@@ -6,12 +6,22 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 11:43 AM CT, Oct. 21 </p> 
+ [EU summit: Respect the club rules, Poland told at EU summit](https://www.bbc.co.uk/news/world-europe-58999963?at_medium=RSS&at_campaign=KARANGA) BBC: A dispute over whether EU law has supremacy over national laws overshadows the Brussels meeting. 
+ <p class="updated_time"> 11:43 AM CT, Oct. 21 </p> 
+ [Celtics Games Are Pulled in China After Enes Kanter’s Pro-Tibet Posts](https://www.nytimes.com/2021/10/21/sports/basketball/celtics-kanter-china-tibet.html) NYT: The Boston center called China’s leader, Xi Jinping, a “brutal dictator” on social media, igniting an online backlash in the country. The N.B.A.’s online partner stopped streaming the team’s games. 
+ <p class="updated_time"> 11:33 AM CT, Oct. 21 </p> 
+ [Robot artist Ai-Da released by Egyptian border guards](https://www.bbc.co.uk/news/world-us-canada-58993682?at_medium=RSS&at_campaign=KARANGA) BBC: Authorities, who held the robot for 10 days, feared that it may have been hiding covert spy tools. 
+ <p class="updated_time"> 11:27 AM CT, Oct. 21 </p> 
+ [The Webb Telescope’s Latest Stumbling Block: Its Name](https://www.nytimes.com/2021/10/20/science/webb-telescope-astronomy-homophobia.html) NYT: The long-awaited successor to the Hubble Space Telescope is scheduled to launch in December. But the NASA official for whom it is named has been accused of homophobia. 
+ <p class="updated_time"> 11:11 AM CT, Oct. 21 </p> 
+ [Syria says it executed 24 people for starting 2020 wildfires](https://www.bbc.co.uk/news/world-middle-east-58997475?at_medium=RSS&at_campaign=KARANGA) BBC: The government alleges they admitted to igniting fires last year that left three people dead. 
+ <p class="updated_time"> 11:09 AM CT, Oct. 21 </p> 
+ [Big John, largest known triceratops skeleton, sold at auction](https://www.bbc.co.uk/news/world-europe-58998367?at_medium=RSS&at_campaign=KARANGA) BBC: The auction house said the skeleton was sold to a private collector for a European record of €6.65m. 
  <p class="updated_time"> 10:48 AM CT, Oct. 21 </p> 
  [New Zealand’s Chief Coroner Opens New Inquiry Into Mosque Attacks](https://www.nytimes.com/2021/10/21/world/australia/new-zealand-christchurch-investigation.html) NYT: The move came after pleas from dozens of families of those killed in 2019 when a white supremacist opened fire on Muslims at prayer. 
  <p class="updated_time"> 10:37 AM CT, Oct. 21 </p> 
  [Vikings settled in North America in 1021AD, study says](https://www.bbc.co.uk/news/world-us-canada-58996186?at_medium=RSS&at_campaign=KARANGA) BBC: Scientists say they have precisely dated a camp in Newfoundland, Canada, thanks to a new technique. 
- <p class="updated_time"> 10:28 AM CT, Oct. 21 </p> 
- [Poland rule of law dispute overshadows EU summit](https://www.bbc.co.uk/news/world-europe-58999963?at_medium=RSS&at_campaign=KARANGA) BBC: Poland fumes at EU "blackmail", as other nations line up to defend the "critical" primacy of EU law. 
  <p class="updated_time"> 10:22 AM CT, Oct. 21 </p> 
  [US surgeons test pig kidney transplant in a human](https://www.bbc.co.uk/news/health-58993696?at_medium=RSS&at_campaign=KARANGA) BBC: The kidney, from a genetically-altered pig, appeared to function well, say the surgical team. 
  <p class="updated_time"> 10:19 AM CT, Oct. 21 </p> 
@@ -20,18 +30,20 @@ permalink: /charts/news/
  [Melbourne: Celebrations as city exits sixth lockdown](https://www.bbc.co.uk/news/world-australia-58998418?at_medium=RSS&at_campaign=KARANGA) BBC: The Australian city has spent more than 260 days under restrictions since the pandemic began. 
  <p class="updated_time"> 09:36 AM CT, Oct. 21 </p> 
  [South Korea’s First Homemade Rocket Lifts Off but Is ‘One Step Short’](https://www.nytimes.com/2021/10/21/world/asia/south-korea-rocket.html) NYT: The country aspires to be a leader in space technology, with plans to land an uncrewed craft on the moon by 2030. President Moon Jae-in said the initial launch was excellent “for a first try.” 
- <p class="updated_time"> 09:27 AM CT, Oct. 21 </p> 
- [The Webb Telescope’s Latest Stumbling Block: Its Name](https://www.nytimes.com/2021/10/20/science/webb-telescope-astronomy-homophobia.html) NYT: The long-awaited successor to the Hubble Space Telescope is scheduled to launch in December. But the NASA official for whom it is named has been accused of homophobia. 
  <p class="updated_time"> 09:10 AM CT, Oct. 21 </p> 
  [Female Afghan Judges and Lawyers Now Fear For Their Lives](https://www.nytimes.com/2021/10/21/world/asia/afghan-judges-women-taliban.html) NYT: They fear that they or their loved ones could be tracked down and killed because of their work delivering justice to women. “We have lost everything — our jobs, our homes, the way we lived.” 
  <p class="updated_time"> 07:59 AM CT, Oct. 21 </p> 
  [NFL to end race-based testing in dementia claims](https://www.bbc.co.uk/news/world-us-canada-58993679?at_medium=RSS&at_campaign=KARANGA) BBC: "Race-norming" made it harder for black players to prove brain injuries linked to their careers. 
  <p class="updated_time"> 07:29 AM CT, Oct. 21 </p> 
  [Tourists in Asia Navigate a Patchwork of Policies](https://www.nytimes.com/2021/10/21/world/asia/asia-travel-rules.html) NYT: NA 
- <p class="updated_time"> 07:27 AM CT, Oct. 21 </p> 
- [Haiti sees nearly 800 kidnappings so far this year, NGO says](https://www.bbc.co.uk/news/world-latin-america-58993730?at_medium=RSS&at_campaign=KARANGA) BBC: Gangs have taken more control amid political instability, abducting people from all walks of life. 
- <p class="updated_time"> 07:17 AM CT, Oct. 21 </p> 
- [Celtics Games Are Pulled in China After Enes Kanter’s Pro-Tibet Posts](https://www.nytimes.com/2021/10/21/sports/basketball/celtics-kanter-china-tibet.html) NYT: The Boston center called China’s leader, Xi Jinping, a “brutal dictator” on social media, igniting an online backlash in the country. The N.B.A.’s online partner stopped streaming the team’s games. 
+ <p class="updated_time"> 07:23 AM CT, Oct. 21 </p> 
+ [U.K. Charges Man With Murder of Lawmaker David Amess](https://www.wsj.com/articles/u-k-charges-ali-harbi-ali-with-murder-of-lawmaker-david-amess-11634823570) WSJ: British authorities charged a 25-year-old London man, Ali Harbi Ali, with murder and terrorism in the stabbing to death of the Conservative lawmaker last week. 
+ <p class="updated_time"> 07:21 AM CT, Oct. 21 </p> 
+ [European Leaders Urge Caution in EU Clash With Poland](https://www.wsj.com/articles/european-leaders-urge-caution-in-eu-clash-with-poland-11634831250) WSJ: Germany, France and others fear fast action against Warsaw could do more damage to the bloc in the wake of a recent ruling by Poland’s constitutional tribunal that EU treaty law has become incompatible with Polish law. 
+ <p class="updated_time"> 07:20 AM CT, Oct. 21 </p> 
+ [Covid-19 Herd Immunity Proves Elusive in U.K.](https://www.wsj.com/articles/covid-19-herd-immunity-proves-elusive-in-u-k-11634810364) WSJ: In the summer, the U.K. lifted most restrictions in the hope that immunity would keep the virus at bay, but recent rises in cases and deaths indicate that reliance on this doesn’t guarantee a quick victory. 
+ <p class="updated_time"> 06:49 AM CT, Oct. 21 </p> 
+ [U.S. Intelligence Report Sounds New Climate Warning](https://www.wsj.com/articles/u-s-intelligence-report-sounds-new-climate-warning-11634829769) WSJ: A national intelligence assessment looking at the link between climate change and national security cited risks of cost disputes, Arctic conflict, drought and migration as temperatures rise. 
  <p class="updated_time"> 05:53 AM CT, Oct. 21 </p> 
  [Ruby Rose: Warner Bros hits back at Batwoman claims](https://www.bbc.co.uk/news/entertainment-arts-58993125?at_medium=RSS&at_campaign=KARANGA) BBC: The actress claimed in her Instagram story that there were poor working conditions on the show. 
  <p class="updated_time"> 05:45 AM CT, Oct. 21 </p> 
@@ -40,14 +52,10 @@ permalink: /charts/news/
  [Xi Jinping Hasn't Left China in 21 Months, Keeping Diplomacy Virtual](https://www.wsj.com/articles/xi-jinping-hasnt-left-china-in-21-months-keeping-diplomacy-virtual-11634826813) WSJ: The Chinese leader, his world travels interrupted by the pandemic, is expected to remain a face on a screen at global summits, despite a sagging global reputation. 
  <p class="updated_time"> 05:21 AM CT, Oct. 21 </p> 
  [The Full Truth](https://www.nytimes.com/2021/10/21/briefing/booster-shots-jj-rochelle-walensky.html) NYT: What happens when health officials tell it? 
- <p class="updated_time"> 05:07 AM CT, Oct. 21 </p> 
- [Barbados elects first ever president ahead of becoming republic](https://www.bbc.co.uk/news/world-latin-america-58993728?at_medium=RSS&at_campaign=KARANGA) BBC: The Caribbean nation is set to become a republic, removing Queen Elizabeth as its head of state. 
  <p class="updated_time"> 05:06 AM CT, Oct. 21 </p> 
  [God and robots: Will AI transform religion?](https://www.bbc.co.uk/news/technology-58983047?at_medium=RSS&at_campaign=KARANGA) BBC: Robot "priests" can recite prayers, perform funerals, and even comfort those experiencing a spiritual crisis. 
  <p class="updated_time"> 05:02 AM CT, Oct. 21 </p> 
  [South Korea launches first homegrown space rocket Nuri](https://www.bbc.co.uk/news/world-asia-58990718?at_medium=RSS&at_campaign=KARANGA) BBC: The launch completes all its stages but fails in its goal of putting a dummy satellite in orbit. 
- <p class="updated_time"> 04:39 AM CT, Oct. 21 </p> 
- [U.K. Charges Man With Murder of Lawmaker David Amess](https://www.wsj.com/articles/u-k-charges-ali-harbi-ali-with-murder-of-lawmaker-david-amess-11634823570) WSJ: British authorities charged a 25-year-old London man, Ali Harbi Ali, with murder and terrorism in the fatal stabbing of a Conservative lawmaker last week. 
  <p class="updated_time"> 04:38 AM CT, Oct. 21 </p> 
  [India's Covid Vaccine Campaign Hits 1 Billion Doses](https://www.nytimes.com/2021/10/20/world/asia/india-vaccination-covid.html) NYT: Covid vaccination in has accelerated in India in recent weeks, with more than 70 percent of the adult population having received at least one dose of a vaccine. 
  <p class="updated_time"> 04:24 AM CT, Oct. 21 </p> 
@@ -56,10 +64,6 @@ permalink: /charts/news/
  [Texas nurse guilty of killing patients by injecting them with air](https://www.bbc.co.uk/news/world-us-canada-58993678?at_medium=RSS&at_campaign=KARANGA) BBC: William Davis injected at least seven patients with air and could now face the death penalty. 
  <p class="updated_time"> 04:00 AM CT, Oct. 21 </p> 
  [Why Australia Won’t Commit to Slashing Carbon Emissions](https://www.nytimes.com/2021/10/21/world/australia/australia-coal-fossil-fuel-carbon.html) NYT: The country has fallen behind other developed nations in its commitment to slashing carbon emissions. Neither fires nor international pressure has pushed it away from coal and other fossil fuels. 
- <p class="updated_time"> 03:37 AM CT, Oct. 21 </p> 
- [Death toll passes 180 in Nepal and India floods](https://www.bbc.co.uk/news/world-asia-india-58951456?at_medium=RSS&at_campaign=KARANGA) BBC: Heavy rain triggers flash floods and landslides in parts of India and Nepal. 
- <p class="updated_time"> 03:30 AM CT, Oct. 21 </p> 
- [NBA's Enes Kanter Calls for Free Tibet, Sparks Chinese Backlash](https://www.wsj.com/articles/nbas-enes-kanter-calls-for-a-free-tibet-sparks-chinese-backlash-11634814575) WSJ: The sports league is in hot water in China again after the Boston Celtics center called China’s leader a brutal dictator. 
  <p class="updated_time"> 02:55 AM CT, Oct. 21 </p> 
  [Covid: WHO warns pandemic will drag on deep into 2022](https://www.bbc.co.uk/news/health-58973697?at_medium=RSS&at_campaign=KARANGA) BBC: Slow vaccine supply to poorer nations means the crisis will last longer than it needs to, experts say. 
  <p class="updated_time"> 02:27 AM CT, Oct. 21 </p> 
@@ -70,8 +74,6 @@ permalink: /charts/news/
  [How green politics are changing Europe](https://www.bbc.co.uk/news/world-europe-58910712?at_medium=RSS&at_campaign=KARANGA) BBC: The Greens performed well in German elections but they are having to adapt their policies to succeed. 
  <p class="updated_time"> 01:43 AM CT, Oct. 21 </p> 
  [Trump to launch new social media platform TRUTH Social](https://www.bbc.co.uk/news/world-us-canada-58990330?at_medium=RSS&at_campaign=KARANGA) BBC: The former US president was banned from Twitter and Facebook following the US Capitol riots. 
- <p class="updated_time"> 12:59 AM CT, Oct. 21 </p> 
- [Covid-19 Herd Immunity Proves Elusive in U.K.](https://www.wsj.com/articles/covid-19-herd-immunity-proves-elusive-in-u-k-11634810364) WSJ: In the summer, the U.K. lifted most restrictions in the hope that immunity would keep the virus at bay, but recent rises in cases and deaths indicate that reliance on this doesn’t guarantee a quick victory. 
  <p class="updated_time"> 12:14 AM CT, Oct. 21 </p> 
  [More games, more countries, more travel: Does European football care about its climate impact?](https://www.bbc.co.uk/sport/football/58595026?at_medium=RSS&at_campaign=KARANGA) BBC: European football is expanding, with more games in more countries than ever before. So how does that tally with the sport reducing its climate impact? 
  <p class="updated_time"> 11:35 PM CT, Oct. 20 </p> 
@@ -142,8 +144,6 @@ permalink: /charts/news/
  [Lekki toll gate shootings: Nigeria's 'massacre without blood or bodies'](https://www.bbc.co.uk/news/world-africa-58975493?at_medium=RSS&at_campaign=KARANGA) BBC: The BBC investigates what happened on the night 20 October 2020, when the Nigerian army opened fire on peaceful protesters in Lagos. 
  <p class="updated_time"> 06:23 AM CT, Oct. 20 </p> 
  [Guatemala: Riot police deployed after protesters breach Congress, set cars alight](https://www.bbc.co.uk/news/world-latin-america-58978584?at_medium=RSS&at_campaign=KARANGA) BBC: Riot police were deployed and lawmakers had to be evacuated amid the protests. 
- <p class="updated_time"> 05:28 AM CT, Oct. 20 </p> 
- [Taliban Commander Who Launched Bombings in Kabul Is Now a Police Chief in Charge of Security](https://www.wsj.com/articles/taliban-commander-who-launched-bombings-in-kabul-is-now-a-police-chief-in-charge-of-security-11634740097) WSJ: Mawlawi Zubair Mutmaeen is one of thousands of former fighters thrown into mundane jobs as new government struggles to stay on its feet. 
  <p class="updated_time"> 05:25 AM CT, Oct. 20 </p> 
  [Where Are the Workers?](https://www.nytimes.com/2021/10/20/briefing/labor-shortage-us-low-wage-economy.html) NYT: How can so many Americans afford not to work? And will it last? 
  <p class="updated_time"> 04:00 AM CT, Oct. 20 </p> 
@@ -192,8 +192,6 @@ permalink: /charts/news/
  [Ecuador’s President Declares State of Emergency to Battle Crime](https://www.nytimes.com/2021/10/19/world/americas/ecuador-state-of-emergency.html) NYT: Guillermo Lasso said the military and the police would patrol the streets to provide security to confront drug trafficking and other crimes. 
  <p class="updated_time"> 10:37 PM CT, Oct. 18 </p> 
  [Your Tuesday Briefing](https://www.nytimes.com/2021/10/18/briefing/haiti-kidnapping-colin-powell.html) NYT: Efforts to recover a kidnapped group in Haiti. 
- <p class="updated_time"> 06:11 PM CT, Oct. 18 </p> 
- [In Norway Attack, ‘Sharp Object,’ Not Arrows, Killed 5, Police Say](https://www.nytimes.com/2021/10/18/world/europe/norway-attack.html) NYT: The Norwegian police on Monday said that while a hunting bow had been used in last week’s rampage, the victims, four women and a man, were stabbed to death. 
  <p class="updated_time"> 07:30 AM CT, Oct. 18 </p> 
  [COP26: Does a climate summit need 25,000 people? And more questions](https://www.bbc.co.uk/news/science-environment-58925049?at_medium=RSS&at_campaign=KARANGA) BBC: BBC science correspondent Matt McGrath answers your questions about Glasgow's COP26 climate summit. 
  <p class="updated_time"> 06:56 PM CT, Oct. 17 </p> 
