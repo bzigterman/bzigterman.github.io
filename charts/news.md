@@ -6,6 +6,10 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 10:48 AM CT, Oct. 21 </p> 
+ [New Zealand’s Chief Coroner Opens New Inquiry Into Mosque Attacks](https://www.nytimes.com/2021/10/21/world/australia/new-zealand-christchurch-investigation.html) NYT: The move came after pleas from dozens of families of those killed in 2019 when a white supremacist opened fire on Muslims at prayer. 
+ <p class="updated_time"> 10:37 AM CT, Oct. 21 </p> 
+ [Vikings settled in North America in 1021AD, study says](https://www.bbc.co.uk/news/world-us-canada-58996186?at_medium=RSS&at_campaign=KARANGA) BBC: Scientists say they have precisely dated a camp in Newfoundland, Canada, thanks to a new technique. 
  <p class="updated_time"> 10:28 AM CT, Oct. 21 </p> 
  [Poland rule of law dispute overshadows EU summit](https://www.bbc.co.uk/news/world-europe-58999963?at_medium=RSS&at_campaign=KARANGA) BBC: Poland fumes at EU "blackmail", as other nations line up to defend the "critical" primacy of EU law. 
  <p class="updated_time"> 10:22 AM CT, Oct. 21 </p> 
@@ -22,8 +26,6 @@ permalink: /charts/news/
  [Female Afghan Judges and Lawyers Now Fear For Their Lives](https://www.nytimes.com/2021/10/21/world/asia/afghan-judges-women-taliban.html) NYT: They fear that they or their loved ones could be tracked down and killed because of their work delivering justice to women. “We have lost everything — our jobs, our homes, the way we lived.” 
  <p class="updated_time"> 07:59 AM CT, Oct. 21 </p> 
  [NFL to end race-based testing in dementia claims](https://www.bbc.co.uk/news/world-us-canada-58993679?at_medium=RSS&at_campaign=KARANGA) BBC: "Race-norming" made it harder for black players to prove brain injuries linked to their careers. 
- <p class="updated_time"> 07:56 AM CT, Oct. 21 </p> 
- [Vikings settled in North America in 1021AD, study says](https://www.bbc.co.uk/news/world-us-canada-58996186?at_medium=RSS&at_campaign=KARANGA) BBC: Scientists say they have precisely dated a camp in Newfoundland, Canada, thanks to a new technique. 
  <p class="updated_time"> 07:29 AM CT, Oct. 21 </p> 
  [Tourists in Asia Navigate a Patchwork of Policies](https://www.nytimes.com/2021/10/21/world/asia/asia-travel-rules.html) NYT: NA 
  <p class="updated_time"> 07:27 AM CT, Oct. 21 </p> 
@@ -190,8 +192,6 @@ permalink: /charts/news/
  [Ecuador’s President Declares State of Emergency to Battle Crime](https://www.nytimes.com/2021/10/19/world/americas/ecuador-state-of-emergency.html) NYT: Guillermo Lasso said the military and the police would patrol the streets to provide security to confront drug trafficking and other crimes. 
  <p class="updated_time"> 10:37 PM CT, Oct. 18 </p> 
  [Your Tuesday Briefing](https://www.nytimes.com/2021/10/18/briefing/haiti-kidnapping-colin-powell.html) NYT: Efforts to recover a kidnapped group in Haiti. 
- <p class="updated_time"> 09:56 PM CT, Oct. 18 </p> 
- [Diver Discovers 900-Year-Old Sword Dating to the Crusades](https://www.nytimes.com/2021/10/18/world/middleeast/crusader-sword-found-israel.html) NYT: The sword, recovered off the coast of Israel, most likely belonged to a knight who fell into the sea or lost the weapon in battle, experts said. 
  <p class="updated_time"> 06:11 PM CT, Oct. 18 </p> 
  [In Norway Attack, ‘Sharp Object,’ Not Arrows, Killed 5, Police Say](https://www.nytimes.com/2021/10/18/world/europe/norway-attack.html) NYT: The Norwegian police on Monday said that while a hunting bow had been used in last week’s rampage, the victims, four women and a man, were stabbed to death. 
  <p class="updated_time"> 07:30 AM CT, Oct. 18 </p> 
