@@ -108,8 +108,6 @@ permalink: /charts/news/
  [Boris Johnson Promotes Rising Wages Amid Shortages in U.K. ](https://www.nytimes.com/2021/10/20/business/boris-johnson-shortages-britain.html) NYT: Wages in some industries are rising because employers can’t find enough workers. That’s not a path to long-term growth, analysts say. 
  <p class="updated_time"> 08:39 AM CT, Oct. 20 </p> 
  [Russia Orders People Not to Go to Work as Covid-19 Deaths Mount](https://www.wsj.com/articles/russia-orders-people-not-to-got-to-work-as-covid-19-deaths-mount-11634750559) WSJ: Russian President Vladimir Putin issued the order as cases have climbed, and neighboring Latvia launched a curfew after the seven-day average of deaths more than doubled. 
- <p class="updated_time"> 08:06 AM CT, Oct. 20 </p> 
- [The Olympic Torch Arrives in Beijing Under Cloud of Protests, Covid](https://www.nytimes.com/2021/10/20/world/asia/olympics-torch-china-covid-protest.html) NYT: A subdued ceremony in Beijing on Wednesday sets the tone for the Winter Olympics of 2022, which will be held under extraordinary health protocols. 
  <p class="updated_time"> 06:57 AM CT, Oct. 20 </p> 
  [Taliban Allow Polio Vaccine Program to Restart in Afghanistan](https://www.nytimes.com/2021/10/19/world/asia/taliban-polio-vaccines-afghanistan.html) NYT: Taliban leaders also agreed to allow women to be frontline workers for the effort, according to the World Health Organization and UNICEF. 
  <p class="updated_time"> 06:48 AM CT, Oct. 20 </p> 
@@ -130,8 +128,6 @@ permalink: /charts/news/
  [Kidnappers in Haiti Demand $17 Million to Free Missionary Group](https://www.nytimes.com/2021/10/19/world/americas/haiti-missionaries-ransom.html) NYT: A gang abducted 17 people associated with a Christian aid group, including five children. Most of those being held are Americans; one is Canadian. 
  <p class="updated_time"> 03:16 AM CT, Oct. 20 </p> 
  [Bolsonaro's Pandemic Response Draws Claim of Crimes Against Humanity ](https://www.nytimes.com/2021/10/19/world/americas/bolsonaro-covid-19-brazil.html) NYT: A report from lawmakers initially said Jair Bolsonaro should be charged with mass homicide and genocide, accusing him of letting Covid-19 spread in a failed bid for herd immunity. 
- <p class="updated_time"> 02:35 AM CT, Oct. 20 </p> 
- [Medical Groups Declare Youth Mental Health Crisis](https://www.nytimes.com/2021/10/19/world/covid-pandemic-children-mental-health.html) NYT: Medical groups said the coronavirus pandemic had worsened a mental health crisis among children and teenagers. 
  <p class="updated_time"> 11:48 PM CT, Oct. 19 </p> 
  [Your Wednesday Briefing](https://www.nytimes.com/2021/10/19/briefing/bolsanaro-coronavirus-myanmar-refugees.html) NYT: Calls to charge Bolsonaro with crimes against humanity. 
  <p class="updated_time"> 08:34 PM CT, Oct. 19 </p> 
@@ -174,6 +170,8 @@ permalink: /charts/news/
  [Reluctance among Russians to get vaccinated has led to a surge in cases and deaths.](https://www.nytimes.com/2021/10/19/world/apathy-and-mistrust-leave-russia-facing-the-risks-of-a-low-vaccination-rate.html) NYT: NA 
  <p class="updated_time"> 09:26 AM CT, Oct. 19 </p> 
  [The Threat, in Perspective](https://www.nytimes.com/2021/10/19/briefing/colin-powell-covid-risk-older-americans.html) NYT: Colin Powell’s death highlights the continuing Covid risks to older people with medical conditions. 
+ <p class="updated_time"> 03:18 AM CT, Oct. 19 </p> 
+ [ Russia's Low Vaccination Rates Leads to Record-Breaking Toll](https://www.nytimes.com/2021/10/18/world/europe/russia-virus-vaccine.html) NYT: The country hit 1,000 deaths in a 24-hour period for the first time since the pandemic began, reflecting the risks of having a low vaccination rate. 
  <p class="updated_time"> 11:02 PM CT, Oct. 18 </p> 
  [Ecuador’s President Declares State of Emergency to Battle Crime](https://www.nytimes.com/2021/10/19/world/americas/ecuador-state-of-emergency.html) NYT: Guillermo Lasso said the military and the police would patrol the streets to provide security to confront drug trafficking and other crimes. 
  <p class="updated_time"> 10:37 PM CT, Oct. 18 </p> 
@@ -184,6 +182,8 @@ permalink: /charts/news/
  [In Norway Attack, ‘Sharp Object,’ Not Arrows, Killed 5, Police Say](https://www.nytimes.com/2021/10/18/world/europe/norway-attack.html) NYT: The Norwegian police on Monday said that while a hunting bow had been used in last week’s rampage, the victims, four women and a man, were stabbed to death. 
  <p class="updated_time"> 05:47 PM CT, Oct. 18 </p> 
  [U.K. Leaders Praise Slain Lawmaker Amid Heightened Security Concerns](https://www.nytimes.com/2021/10/18/world/europe/david-amess-attack-parliament.html) NYT: Prime Minister Boris Johnson and members of Parliament paid tribute to David Amess, who was fatally stabbed last week. 
+ <p class="updated_time"> 05:16 PM CT, Oct. 18 </p> 
+ [An Official Wizard in New Zealand Loses His Job](https://www.nytimes.com/2021/10/18/world/australia/christchurch-new-zealand-wizard.html) NYT: The city of Christchurch has paid Ian Brackenbury Channell, 88, about $10,000 per year since 1998 for “acts of wizardry and other wizard-like services.” But he has been condemned recently for his jokes about women. 
  <p class="updated_time"> 04:27 PM CT, Oct. 18 </p> 
  [What Scientists Know About the Risk of Breakthrough Covid Deaths](https://www.nytimes.com/2021/10/18/health/coronavirus-vaccine-powell-breakthrough.html) NYT: Deaths among people who have been fully vaccinated remain rare, but older adults and those with compromised immune systems are at much higher risk. 
  <p class="updated_time"> 03:56 PM CT, Oct. 18 </p> 
