@@ -32,8 +32,6 @@ permalink: /charts/news/
  [Why Australia Won’t Commit to Slashing Carbon Emissions](https://www.nytimes.com/2021/10/21/world/australia/australia-coal-fossil-fuel-carbon.html) NYT: The country has fallen behind other developed nations in its commitment to slashing carbon emissions. Neither fires nor international pressure has pushed it away from coal and other fossil fuels. 
  <p class="updated_time"> 03:37 AM CT, Oct. 21 </p> 
  [Death toll passes 180 in Nepal and India floods](https://www.bbc.co.uk/news/world-asia-india-58951456?at_medium=RSS&at_campaign=KARANGA) BBC: Heavy rain triggers flash floods and landslides in parts of India and Nepal. 
- <p class="updated_time"> 03:32 AM CT, Oct. 21 </p> 
- [Covid Cases Rise in Some Caribbean Islands, W.H.O. Says](https://www.nytimes.com/2021/10/20/world/americas/covid-caribbean-paho.html) NYT: Many nations and territories in the region have had trouble rolling out vaccination drives and need test more, officials said. 
  <p class="updated_time"> 03:14 AM CT, Oct. 21 </p> 
  [Squid's Victory? China streaming site accused of copying Squid Game](https://www.bbc.co.uk/news/world-asia-china-58991127?at_medium=RSS&at_campaign=KARANGA) BBC: Chinese streaming site Youku said that it was just a "draft" poster, but netizens weren't convinced. 
  <p class="updated_time"> 02:55 AM CT, Oct. 21 </p> 
@@ -60,6 +58,8 @@ permalink: /charts/news/
  [Spanish Court Agrees to Extradite Former Venezuela Spy Chief to U.S.](https://www.nytimes.com/2021/10/20/world/europe/spain-extradite-carvajal-venezuela.html) NYT: Hugo Carvajal, once a prominent figure in the government of the Venezuelan leader Nicolás Maduro, faces drug-trafficking charges in the United States. 
  <p class="updated_time"> 10:26 PM CT, Oct. 20 </p> 
  [Transgender Woman Flees Malaysia After Wearing Hijab](https://www.nytimes.com/2021/10/20/world/asia/malaysia-transgender.html) NYT: The Islamic authorities want to imprison her for wearing female clothing at a religious event and threatened to put her in a rehabilitation camp where she could “return to the right path.” 
+ <p class="updated_time"> 09:54 PM CT, Oct. 20 </p> 
+ [Zalmay Khalilzad, Biden’s Envoy for Afghanistan, Steps Down](https://www.nytimes.com/2021/10/18/us/politics/zalmay-khalilzad-afghanistan.html) NYT: An Afghan American and a rare Trump appointee who survived into the Biden administration, Mr. Khalilzad played a central role in the U.S. exit from the country. 
  <p class="updated_time"> 08:56 PM CT, Oct. 20 </p> 
  [Thousands Flee Myanmar for India Amid Fears of a Growing Refugee Crisis](https://www.nytimes.com/2021/10/19/world/asia/myanmar-refugees-india.html) NYT: For decades, armed conflict, political repression and targeted campaigns against minorities have forced hundreds of thousands of people to leave the country. Now many more are expected to follow. 
  <p class="updated_time"> 08:44 PM CT, Oct. 20 </p> 
