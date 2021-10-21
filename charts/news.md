@@ -6,6 +6,10 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 04:50 PM CT, Oct. 21 </p> 
+ [Rise in Cases and Deaths Tests Britain’s Gamble on Few Virus Restrictions](https://www.nytimes.com/2021/10/21/world/europe/britain-virus.html) NYT: The country’s grand experiment — opening up with hardly any restrictions — is facing its toughest test yet. 
+ <p class="updated_time"> 04:45 PM CT, Oct. 21 </p> 
+ [U.K. Police Charge Suspect in David Amess Killing](https://www.nytimes.com/2021/10/21/world/europe/uk-david-amess-suspect-charged.html) NYT: Ali Harbi Ali, 25, was accused of murder and preparation of terrorist acts in the killing of David Amess, who was stabbed last week. 
  <p class="updated_time"> 04:43 PM CT, Oct. 21 </p> 
  [Haitian Kidnappers Threaten to Kill Missionaries](https://www.nytimes.com/2021/10/21/world/americas/haiti-missionary-kidnapping-threat.html) NYT: As negotiators worked to secure the release of 17 people associated with an Ohio-based missionary group, their kidnappers released a video threatening their lives. 
  <p class="updated_time"> 04:37 PM CT, Oct. 21 </p> 
@@ -18,8 +22,6 @@ permalink: /charts/news/
  [Your Friday Briefing](https://www.nytimes.com/2021/10/21/briefing/australia-coal-british-covid-strategy-celtics.html) NYT: Why Australia won’t commit to emissions reductions. 
  <p class="updated_time"> 03:44 PM CT, Oct. 21 </p> 
  [N.I.H. Says Bat Research Group Failed to Submit Prompt Virus Findings](https://www.nytimes.com/2021/10/21/science/bats-covid-lab-leak-nih.html) NYT: The federal agency told a G.O.P. House member that it had notified EcoHealth Alliance, a group criticized for its U.S.-funded work with Wuhan scientists, to file data within five days. 
- <p class="updated_time"> 03:40 PM CT, Oct. 21 </p> 
- [Rise in Cases and Deaths Tests Britain’s Gamble on Few Virus Restrictions](https://www.nytimes.com/2021/10/21/world/europe/britain-virus.html) NYT: The country’s grand experiment — opening up with hardly any restrictions — is facing its toughest test yet. 
  <p class="updated_time"> 03:37 PM CT, Oct. 21 </p> 
  [Melbourne: Celebrations as city exits sixth lockdown](https://www.bbc.co.uk/news/world-australia-58998418?at_medium=RSS&at_campaign=KARANGA) BBC: The Australian city has spent more than 260 days under restrictions since the pandemic began. 
  <p class="updated_time"> 03:37 PM CT, Oct. 21 </p> 
@@ -56,8 +58,6 @@ permalink: /charts/news/
  [In Haiti, Gangs Gain Power as Security Vacuum Grows](https://www.nytimes.com/2021/10/21/world/americas/haiti-gangs-kidnapping.html) NYT: Gangs have long held sway in the country, but their dominance has expanded in recent years and the government has been accused of using them as tools of repression. 
  <p class="updated_time"> 12:31 PM CT, Oct. 21 </p> 
  [European Leaders Urge Caution in EU Clash With Poland](https://www.wsj.com/articles/european-leaders-urge-caution-in-eu-clash-with-poland-11634831250) WSJ: Germany, France and others fear fast action against Warsaw could do more damage to the bloc in the wake of a recent ruling by Poland’s constitutional tribunal that EU treaty law has become incompatible with Polish law. 
- <p class="updated_time"> 12:24 PM CT, Oct. 21 </p> 
- [U.K. Police Charge Suspect in David Amess Killing](https://www.nytimes.com/2021/10/21/world/europe/uk-david-amess-suspect-charged.html) NYT: Ali Harbi Ali, 25, was accused of murder and preparation of terrorist acts in the killing of David Amess, who was fatally stabbed last week. 
  <p class="updated_time"> 12:00 PM CT, Oct. 21 </p> 
  [Covid: Virus may have killed 80k-180k health workers, WHO says](https://www.bbc.co.uk/news/health-58973697?at_medium=RSS&at_campaign=KARANGA) BBC: The global health body says healthcare workers should be prioritised for vaccination. 
  <p class="updated_time"> 11:43 AM CT, Oct. 21 </p> 
@@ -70,6 +70,8 @@ permalink: /charts/news/
  [Robot artist Ai-Da released by Egyptian border guards](https://www.bbc.co.uk/news/world-us-canada-58993682?at_medium=RSS&at_campaign=KARANGA) BBC: Authorities, who held the robot for 10 days, feared that it may have been hiding covert spy tools. 
  <p class="updated_time"> 11:27 AM CT, Oct. 21 </p> 
  [The Webb Telescope’s Latest Stumbling Block: Its Name](https://www.nytimes.com/2021/10/20/science/webb-telescope-astronomy-homophobia.html) NYT: The long-awaited successor to the Hubble Space Telescope is scheduled to launch in December. But the NASA official for whom it is named has been accused of homophobia. 
+ <p class="updated_time"> 11:18 AM CT, Oct. 21 </p> 
+ [Haiti Gang That Kidnapped U.S. Missionaries Threatens to Kill Them](https://www.wsj.com/articles/haiti-gang-that-kidnapped-u-s-missionaries-threatens-to-kill-them-11634841503) WSJ: The head of a Haitian gang holding 17 American and Canadian missionaries captive has threatened to kill them if a ransom isn’t paid, according to a video. 
  <p class="updated_time"> 11:11 AM CT, Oct. 21 </p> 
  [Syria says it executed 24 people for starting 2020 wildfires](https://www.bbc.co.uk/news/world-middle-east-58997475?at_medium=RSS&at_campaign=KARANGA) BBC: The government alleges they admitted to igniting fires last year that left three people dead. 
  <p class="updated_time"> 11:09 AM CT, Oct. 21 </p> 
@@ -102,8 +104,6 @@ permalink: /charts/news/
  [Cleo Smith: Police offer A$1m reward amid fears girl, 4, was abducted](https://www.bbc.co.uk/news/world-australia-58946569?at_medium=RSS&at_campaign=KARANGA) BBC: Cleo Smith, 4, vanished from a tent at a remote coastal campsite in Western Australia on Saturday. 
  <p class="updated_time"> 04:00 AM CT, Oct. 21 </p> 
  [Why Australia Won’t Commit to Slashing Carbon Emissions](https://www.nytimes.com/2021/10/21/world/australia/australia-coal-fossil-fuel-carbon.html) NYT: The country has fallen behind other developed nations in its commitment to slashing carbon emissions. Neither fires nor international pressure has pushed it away from coal and other fossil fuels. 
- <p class="updated_time"> 02:27 AM CT, Oct. 21 </p> 
- [South Korea Launches First Homegrown Rocket, Satellite Into Space](https://www.wsj.com/articles/south-korea-launches-first-homegrown-rocket-and-satellite-into-space-11634815655) WSJ: The technology could help expand Seoul’s military satellite surveillance of Kim Jong Un’s regime to the north amid heightened tensions. 
  <p class="updated_time"> 02:20 AM CT, Oct. 21 </p> 
  [Why separatists in Cameroon and Nigeria have united](https://www.bbc.co.uk/news/world-africa-58726231?at_medium=RSS&at_campaign=KARANGA) BBC: Armed militias in the two countries are said to be helping each other with weapons and intelligence. 
  <p class="updated_time"> 02:11 AM CT, Oct. 21 </p> 
