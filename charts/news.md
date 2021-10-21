@@ -6,6 +6,12 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 07:51 PM CT, Oct. 20 </p> 
+ [Blinken Cites ‘Democratic Reckoning’ in South America](https://www.nytimes.com/2021/10/20/world/americas/blinken-democracy-south-america.html) NYT: Secretary of State Antony Blinken warned of an eroding trust in democracy in the Western Hemisphere and described challenges posed to open government by authoritarian leaders. 
+ <p class="updated_time"> 07:34 PM CT, Oct. 20 </p> 
+ [The people trying to save the Himalayas](https://www.bbc.co.uk/news/world-asia-india-58895752?at_medium=RSS&at_campaign=KARANGA) BBC: Locals in the Indian state of Himachal Pradesh are demanding a stop to new hydro-power projects. 
+ <p class="updated_time"> 06:55 PM CT, Oct. 20 </p> 
+ [Netflix employees protest 'transphobic' Dave Chappelle comedy show](https://www.bbc.co.uk/news/world-us-canada-58990325?at_medium=RSS&at_campaign=KARANGA) BBC: Activists say the streaming giant's comedy special could fuel attacks on transgender people. 
  <p class="updated_time"> 06:19 PM CT, Oct. 20 </p> 
  [How green politics are changing Europe](https://www.bbc.co.uk/news/world-europe-58910712?at_medium=RSS&at_campaign=KARANGA) BBC: The Greens performed well in German elections but they are having to adapt their policies to succeed. 
  <p class="updated_time"> 06:14 PM CT, Oct. 20 </p> 
@@ -86,8 +92,6 @@ permalink: /charts/news/
  [Turkey Sours on Syrians, but Not in This Sleepy Town, Jolted Awake](https://www.nytimes.com/2021/10/20/world/europe/turkey-syria-border-refugees.html) NYT: As calls increase in Turkey for Syrian refugees to go home, Kilis, a border town transformed by the newcomers’ energy, has embraced the change. 
  <p class="updated_time"> 10:24 AM CT, Oct. 20 </p> 
  [Bombing of Military Bus in Syrian Capital Kills 14](https://www.nytimes.com/2021/10/20/world/middleeast/syria-military-bus-bombing.html) NYT: President Bashar al-Assad has tightened his grip on Damascus, but the attack suggested that militants who oppose him can still do harm. 
- <p class="updated_time"> 10:23 AM CT, Oct. 20 </p> 
- [Hugo Carvajal: Spain to extradite Venezuela's ex-spy chief to US](https://www.bbc.co.uk/news/world-latin-america-58984103?at_medium=RSS&at_campaign=KARANGA) BBC: Hugo Carvajal faces drugs charges but may also have incriminating evidence against President Maduro. 
  <p class="updated_time"> 10:06 AM CT, Oct. 20 </p> 
  [Female Afghan Judges and Lawyers Now Fear For Their Lives](https://www.nytimes.com/2021/10/20/world/asia/afghan-judges-women-taliban.html) NYT: They fear that they or their loved ones could be tracked down and killed because of their work delivering justice to women. “We have lost everything — our jobs, our homes, the way we lived.” 
  <p class="updated_time"> 09:32 AM CT, Oct. 20 </p> 
@@ -98,8 +102,6 @@ permalink: /charts/news/
  [Russia Orders People Not to Go to Work as Covid-19 Deaths Mount](https://www.wsj.com/articles/russia-orders-people-not-to-got-to-work-as-covid-19-deaths-mount-11634750559) WSJ: Russian President Vladimir Putin issued the order as cases have climbed, and neighboring Latvia launched a curfew after the seven-day average of deaths more than doubled. 
  <p class="updated_time"> 08:06 AM CT, Oct. 20 </p> 
  [The Olympic Torch Arrives in Beijing Under Cloud of Protests, Covid](https://www.nytimes.com/2021/10/20/world/asia/olympics-torch-china-covid-protest.html) NYT: A subdued ceremony in Beijing on Wednesday sets the tone for the Winter Olympics of 2022, which will be held under extraordinary health protocols. 
- <p class="updated_time"> 07:59 AM CT, Oct. 20 </p> 
- [COP26: Russia's Vladimir Putin will not attend climate summit](https://www.bbc.co.uk/news/world-europe-58977993?at_medium=RSS&at_campaign=KARANGA) BBC: No reason was given for the Russian leader's decision not to attend the conference in Glasgow. 
  <p class="updated_time"> 06:57 AM CT, Oct. 20 </p> 
  [Taliban Allow Polio Vaccine Program to Restart in Afghanistan](https://www.nytimes.com/2021/10/19/world/asia/taliban-polio-vaccines-afghanistan.html) NYT: Taliban leaders also agreed to allow women to be frontline workers for the effort, according to the World Health Organization and UNICEF. 
  <p class="updated_time"> 06:48 AM CT, Oct. 20 </p> 
@@ -170,8 +172,6 @@ permalink: /charts/news/
  [Reluctance among Russians to get vaccinated has led to a surge in cases and deaths.](https://www.nytimes.com/2021/10/19/world/apathy-and-mistrust-leave-russia-facing-the-risks-of-a-low-vaccination-rate.html) NYT: NA 
  <p class="updated_time"> 09:26 AM CT, Oct. 19 </p> 
  [The Threat, in Perspective](https://www.nytimes.com/2021/10/19/briefing/colin-powell-covid-risk-older-americans.html) NYT: Colin Powell’s death highlights the continuing Covid risks to older people with medical conditions. 
- <p class="updated_time"> 03:18 AM CT, Oct. 19 </p> 
- [ Russia's Low Vaccination Rates Leads to Record-Breaking Toll](https://www.nytimes.com/2021/10/18/world/europe/russia-virus-vaccine.html) NYT: The country hit 1,000 deaths in a 24-hour period for the first time since the pandemic began, reflecting the risks of having a low vaccination rate. 
  <p class="updated_time"> 11:02 PM CT, Oct. 18 </p> 
  [Ecuador’s President Declares State of Emergency to Battle Crime](https://www.nytimes.com/2021/10/19/world/americas/ecuador-state-of-emergency.html) NYT: Guillermo Lasso said the military and the police would patrol the streets to provide security to confront drug trafficking and other crimes. 
  <p class="updated_time"> 10:37 PM CT, Oct. 18 </p> 
