@@ -6,6 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 03:37 AM CT, Oct. 21 </p> 
+ [Death toll passes 180 in Nepal and India floods](https://www.bbc.co.uk/news/world-asia-india-58951456?at_medium=RSS&at_campaign=KARANGA) BBC: Heavy rain triggers flash floods and landslides in parts of India and Nepal. 
  <p class="updated_time"> 03:32 AM CT, Oct. 21 </p> 
  [Covid Cases Rise in Some Caribbean Islands, W.H.O. Says](https://www.nytimes.com/2021/10/20/world/americas/covid-caribbean-paho.html) NYT: Many nations and territories in the region have had trouble rolling out vaccination drives and need test more, officials said. 
  <p class="updated_time"> 03:14 AM CT, Oct. 21 </p> 
@@ -26,8 +28,6 @@ permalink: /charts/news/
  [Covid vaccine: India administers more than one billion Covid jabs](https://www.bbc.co.uk/news/world-asia-india-56345591?at_medium=RSS&at_campaign=KARANGA) BBC: But experts say the pace needs to pick up for India to meet its target of vaccinating all adults by 2021. 
  <p class="updated_time"> 12:04 AM CT, Oct. 21 </p> 
  [Evergrande shares fall 14% as trading resumes in Hong Kong](https://www.bbc.co.uk/news/business-58976991?at_medium=RSS&at_campaign=KARANGA) BBC: Shares of the Chinese property giant fell as much as 14% on Thursday morning in Hong Kong. 
- <p class="updated_time"> 11:48 PM CT, Oct. 20 </p> 
- [Death toll passes 150 in Nepal and India floods](https://www.bbc.co.uk/news/world-asia-india-58951456?at_medium=RSS&at_campaign=KARANGA) BBC: Heavy rain triggers flash floods and landslides in parts of India and Nepal. 
  <p class="updated_time"> 11:35 PM CT, Oct. 20 </p> 
  [Your Thursday Briefing](https://www.nytimes.com/2021/10/20/briefing/climate-change-coronavirus-britain.html) NYT: Plans to extract more fossil fuels. 
  <p class="updated_time"> 11:01 PM CT, Oct. 20 </p> 
