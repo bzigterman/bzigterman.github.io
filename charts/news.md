@@ -30,6 +30,8 @@ permalink: /charts/news/
  [Ruby Rose: Warner Bros hits back at Batwoman claims](https://www.bbc.co.uk/news/entertainment-arts-58993125?at_medium=RSS&at_campaign=KARANGA) BBC: The actress claimed in her Instagram story that there were poor working conditions on the show. 
  <p class="updated_time"> 05:45 AM CT, Oct. 21 </p> 
  [As Chinese Women Seek to Crack Male Professions, Schools Stand in the Way](https://www.nytimes.com/2021/10/21/world/asia/china-schools-gender-bias.html) NYT: In China, some academic programs accept only men or cap the number of female applicants, who often must test higher than their male counterparts. 
+ <p class="updated_time"> 05:33 AM CT, Oct. 21 </p> 
+ [Xi Jinping Hasn't Left China in 21 Months](https://www.wsj.com/articles/xi-jinping-hasnt-left-china-in-21-months-keeping-diplomacy-virtual-11634826813) WSJ: The Chinese leader, his world travels interrupted by the pandemic, is expected to remain a face on a screen at global summits, despite a diplomatic campaign interrupted by pandemic and a dip in his global reputation. 
  <p class="updated_time"> 05:21 AM CT, Oct. 21 </p> 
  [The Full Truth](https://www.nytimes.com/2021/10/21/briefing/booster-shots-jj-rochelle-walensky.html) NYT: What happens when health officials tell it? 
  <p class="updated_time"> 05:07 AM CT, Oct. 21 </p> 
@@ -110,8 +112,6 @@ permalink: /charts/news/
  [Egypt imposes a vaccine mandate for all government workers and university students.](https://www.nytimes.com/2021/10/20/world/egypt-covid-vaccine-mandate.html) NYT: Officials expect major deliveries of doses by the end of the month to speed up the country’s vaccination efforts. 
  <p class="updated_time"> 01:13 PM CT, Oct. 20 </p> 
  [Britain Resists Calls to Introduce Covid Restrictions](https://www.nytimes.com/2021/10/20/world/europe/britain-covid-cases.html) NYT: The number of new cases in Britain is among the highest in the world, but the government has said there is no need to impose indoor mask mandates or other restrictions. 
- <p class="updated_time"> 12:56 PM CT, Oct. 20 </p> 
- [Brazilian Panel Seeks Criminal Charges Against Bolsonaro](https://www.wsj.com/articles/brazilian-panel-recommends-criminal-charges-against-jair-bolsonaro-11634767002) WSJ: In the context of the Covid-19 crisis, the senate panel said President Jair Bolsonaro should be charged with crimes against humanity, failing to prevent deaths from an epidemic and misuse of public funds. 
  <p class="updated_time"> 12:54 PM CT, Oct. 20 </p> 
  [All Afghans have the right to a passport - Taliban](https://www.bbc.co.uk/news/world-asia-58989021?at_medium=RSS&at_campaign=KARANGA) BBC: But sports personalities, people seeking medical treatment or wanting to study abroad will be prioritised. 
  <p class="updated_time"> 12:49 PM CT, Oct. 20 </p> 
