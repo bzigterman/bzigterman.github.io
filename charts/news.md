@@ -6,16 +6,18 @@ permalink: /charts/news/
 
 ## World News
 
- <p class="updated_time"> 05:39 PM CT, Oct. 21 </p> 
+ <p class="updated_time"> 05:51 PM CT, Oct. 21 </p> 
  [In Haiti, Gangs Gain Power as Security Vacuum Grows](https://www.nytimes.com/2021/10/21/world/americas/haiti-gangs-kidnapping.html) NYT: Gangs have long held sway in the country, but their dominance has expanded in recent years and the government has been accused of using them as tools of repression. 
+ <p class="updated_time"> 05:48 PM CT, Oct. 21 </p> 
+ [World's Health Care Workers Near Breaking Point, W.H.O warns](https://www.nytimes.com/2021/10/21/world/health-care-workers-burnout-who.html) NYT: The agency’s leaders also urged wealthy nations to take the lead in transferring doses of vaccines to the global South. 
+ <p class="updated_time"> 05:46 PM CT, Oct. 21 </p> 
+ [N.I.H. Says Bat Research Group Failed to Submit Prompt Virus Findings](https://www.nytimes.com/2021/10/21/science/bats-covid-lab-leak-nih.html) NYT: The federal agency told a G.O.P. House member that it had notified EcoHealth Alliance, a group criticized for its U.S.-funded work with Wuhan scientists, to file data within five days. 
  <p class="updated_time"> 05:19 PM CT, Oct. 21 </p> 
  [Queen ‘Reluctantly’ Cancels Trip, Citing Medical Advice](https://www.nytimes.com/2021/10/20/world/europe/queen-elizabeth-northern-ireland.html) NYT: Britain’s 95-year-old monarch will not travel to Northern Ireland but is “in good spirits,” Buckingham Palace said. 
  <p class="updated_time"> 05:19 PM CT, Oct. 21 </p> 
  [Queen Elizabeth Was Hospitalized, Palace Discloses](https://www.nytimes.com/2021/10/21/world/europe/queen-elizabeth-health-hospital.html) NYT: She was discharged on Thursday after undergoing tests the day before and spending the night. The queen, 95, had just canceled a planned trip to Northern Ireland. 
  <p class="updated_time"> 05:15 PM CT, Oct. 21 </p> 
  [Gabby Petito: Fiancé Brian Laundrie's remains found - FBI](https://www.bbc.co.uk/news/world-us-canada-59004831?at_medium=RSS&at_campaign=KARANGA) BBC: A skull was reportedly found in the hunt for Brian Laundrie, a person of interest in Gabby Petito's death. 
- <p class="updated_time"> 05:02 PM CT, Oct. 21 </p> 
- [N.I.H. Says Bat Research Group Failed to Submit Prompt Virus Findings](https://www.nytimes.com/2021/10/21/science/bats-covid-lab-leak-nih.html) NYT: The federal agency told a G.O.P. House member that it had notified EcoHealth Alliance, a group criticized for its U.S.-funded work with Wuhan scientists, to file data within five days. 
  <p class="updated_time"> 04:59 PM CT, Oct. 21 </p> 
  [Russia Introduces Weeklong Office Shutdown After Covid Deaths Rise](https://www.nytimes.com/2021/10/20/world/europe/russia-covid-restrictions.html) NYT: The measure, meant to slow the spread of the coronavirus, is short of a full lockdown and only affects nonessential workers. 
  <p class="updated_time"> 04:58 PM CT, Oct. 21 </p> 
@@ -32,8 +34,6 @@ permalink: /charts/news/
  [U.K. Police Charge Suspect in David Amess Killing](https://www.nytimes.com/2021/10/21/world/europe/uk-david-amess-suspect-charged.html) NYT: Ali Harbi Ali, 25, was accused of murder and preparation of terrorist acts in the killing of David Amess, who was stabbed last week. 
  <p class="updated_time"> 04:43 PM CT, Oct. 21 </p> 
  [Haitian Kidnappers Threaten to Kill Missionaries](https://www.nytimes.com/2021/10/21/world/americas/haiti-missionary-kidnapping-threat.html) NYT: As negotiators worked to secure the release of 17 people associated with an Ohio-based missionary group, their kidnappers released a video threatening their lives. 
- <p class="updated_time"> 04:37 PM CT, Oct. 21 </p> 
- [World's Health Care Workers Near Breaking Point, W.H.O warns](https://www.nytimes.com/2021/10/21/world/health-care-workers-burnout-who.html) NYT: The agency’s leaders also urged wealthy nations to take the lead in transferring doses of vaccines to the global South. 
  <p class="updated_time"> 04:22 PM CT, Oct. 21 </p> 
  [Turkey Sours on Syrians, but Not in This Sleepy Town, Jolted Awake](https://www.nytimes.com/2021/10/20/world/europe/turkey-syria-border-refugees.html) NYT: As calls increase in Turkey for Syrian refugees to go home, Kilis, a border town transformed by the newcomers’ energy, has embraced the change. 
  <p class="updated_time"> 04:20 PM CT, Oct. 21 </p> 
