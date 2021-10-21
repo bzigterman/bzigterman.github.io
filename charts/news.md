@@ -17,7 +17,7 @@ permalink: /charts/news/
  <p class="updated_time"> 07:51 PM CT, Oct. 20 </p> 
  [Blinken Cites ‘Democratic Reckoning’ in South America](https://www.nytimes.com/2021/10/20/world/americas/blinken-democracy-south-america.html) NYT: Secretary of State Antony Blinken warned of an eroding trust in democracy in the Western Hemisphere and described challenges posed to open government by authoritarian leaders. 
  <p class="updated_time"> 07:34 PM CT, Oct. 20 </p> 
- [The people trying to save the Himalayas](https://www.bbc.co.uk/news/world-asia-india-58895752?at_medium=RSS&at_campaign=KARANGA) BBC: Locals in the Indian state of Himachal Pradesh are demanding a stop to new hydro-power projects. 
+ ['Human needs are weakening the Himalayas'](https://www.bbc.co.uk/news/world-asia-india-58895752?at_medium=RSS&at_campaign=KARANGA) BBC: Locals in the Indian state of Himachal Pradesh are demanding a stop to new hydro-power projects. 
  <p class="updated_time"> 06:55 PM CT, Oct. 20 </p> 
  [Netflix employees protest 'transphobic' Dave Chappelle comedy show](https://www.bbc.co.uk/news/world-us-canada-58990325?at_medium=RSS&at_campaign=KARANGA) BBC: Activists say the streaming giant's comedy special could fuel attacks on transgender people. 
  <p class="updated_time"> 06:19 PM CT, Oct. 20 </p> 
