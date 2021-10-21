@@ -6,14 +6,20 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 12:31 PM CT, Oct. 21 </p> 
+ [‘It’s Terror’: In Haiti, Gangs Gain Power as Security Vacuum Grows](https://www.nytimes.com/2021/10/21/world/americas/haiti-gangs-kidnapping.html) NYT: Gangs have long held sway in the country, but their dominance has expanded in recent years and the government has been accused of using them as tools of repression. 
+ <p class="updated_time"> 12:24 PM CT, Oct. 21 </p> 
+ [U.K. Police Charge Suspect in David Amess Killing](https://www.nytimes.com/2021/10/21/world/europe/uk-david-amess-suspect-charged.html) NYT: Ali Harbi Ali, 25, was accused of murder and preparation of terrorist acts in the killing of David Amess, who was fatally stabbed last week. 
  <p class="updated_time"> 12:00 PM CT, Oct. 21 </p> 
- [Covid: Virus may have killed 80k-180k health workers, WHO says](https://www.bbc.co.uk/news/health-58973697?at_medium=RSS&at_campaign=KARANGA) BBC: The global health body says health care workers should be prioritised for vaccination. 
+ [Covid: Virus may have killed 80k-180k health workers, WHO says](https://www.bbc.co.uk/news/health-58973697?at_medium=RSS&at_campaign=KARANGA) BBC: The global health body says healthcare workers should be prioritised for vaccination. 
  <p class="updated_time"> 11:52 AM CT, Oct. 21 </p> 
  [With Splendor and Saints, Hispanic Society Shows Its Treasures](https://www.nytimes.com/2021/10/21/arts/design/hispanic-society-grolier-club.html) NYT: This gem of a museum in Upper Manhattan has reopened with an operatic eye-filler of religious sculptures we’re just learning to appreciate. 
  <p class="updated_time"> 11:43 AM CT, Oct. 21 </p> 
  [EU summit: Respect the club rules, Poland told](https://www.bbc.co.uk/news/world-europe-58999963?at_medium=RSS&at_campaign=KARANGA) BBC: A dispute over whether EU law has supremacy over national laws overshadows the Brussels meeting. 
  <p class="updated_time"> 11:43 AM CT, Oct. 21 </p> 
  [Celtics Games Are Pulled in China After Enes Kanter’s Pro-Tibet Posts](https://www.nytimes.com/2021/10/21/sports/basketball/celtics-kanter-china-tibet.html) NYT: The Boston center called China’s leader, Xi Jinping, a “brutal dictator” on social media, igniting an online backlash in the country. The N.B.A.’s online partner stopped streaming the team’s games. 
+ <p class="updated_time"> 11:42 AM CT, Oct. 21 </p> 
+ [Amazon sees fresh push to unionise in New York](https://www.bbc.co.uk/news/business-59000574?at_medium=RSS&at_campaign=KARANGA) BBC: Warehouse workers in Staten Island hope to organise, in the latest labour push at the firm. 
  <p class="updated_time"> 11:33 AM CT, Oct. 21 </p> 
  [Robot artist Ai-Da released by Egyptian border guards](https://www.bbc.co.uk/news/world-us-canada-58993682?at_medium=RSS&at_campaign=KARANGA) BBC: Authorities, who held the robot for 10 days, feared that it may have been hiding covert spy tools. 
  <p class="updated_time"> 11:27 AM CT, Oct. 21 </p> 
@@ -28,8 +34,6 @@ permalink: /charts/news/
  [Vikings settled in North America in 1021AD, study says](https://www.bbc.co.uk/news/world-us-canada-58996186?at_medium=RSS&at_campaign=KARANGA) BBC: Scientists say they have precisely dated a camp in Newfoundland, Canada, thanks to a new technique. 
  <p class="updated_time"> 10:22 AM CT, Oct. 21 </p> 
  [US surgeons test pig kidney transplant in a human](https://www.bbc.co.uk/news/health-58993696?at_medium=RSS&at_campaign=KARANGA) BBC: The kidney, from a genetically-altered pig, appeared to function well, say the surgical team. 
- <p class="updated_time"> 10:19 AM CT, Oct. 21 </p> 
- [U.K. Police Charge Suspect in David Amess Killing](https://www.nytimes.com/2021/10/21/world/europe/uk-david-amess-suspect-charged.html) NYT: Ali Harbi Ali, 25, was accused of murder and preparation of terrorist acts in the killing of David Amess, who was fatally stabbed last week. 
  <p class="updated_time"> 10:10 AM CT, Oct. 21 </p> 
  [Melbourne: Celebrations as city exits sixth lockdown](https://www.bbc.co.uk/news/world-australia-58998418?at_medium=RSS&at_campaign=KARANGA) BBC: The Australian city has spent more than 260 days under restrictions since the pandemic began. 
  <p class="updated_time"> 09:36 AM CT, Oct. 21 </p> 
@@ -58,14 +62,10 @@ permalink: /charts/news/
  [The Full Truth](https://www.nytimes.com/2021/10/21/briefing/booster-shots-jj-rochelle-walensky.html) NYT: What happens when health officials tell it? 
  <p class="updated_time"> 05:06 AM CT, Oct. 21 </p> 
  [God and robots: Will AI transform religion?](https://www.bbc.co.uk/news/technology-58983047?at_medium=RSS&at_campaign=KARANGA) BBC: Robot "priests" can recite prayers, perform funerals, and even comfort those experiencing a spiritual crisis. 
- <p class="updated_time"> 05:02 AM CT, Oct. 21 </p> 
- [South Korea launches first homegrown space rocket Nuri](https://www.bbc.co.uk/news/world-asia-58990718?at_medium=RSS&at_campaign=KARANGA) BBC: The launch completes all its stages but fails in its goal of putting a dummy satellite in orbit. 
  <p class="updated_time"> 04:38 AM CT, Oct. 21 </p> 
  [India's Covid Vaccine Campaign Hits 1 Billion Doses](https://www.nytimes.com/2021/10/20/world/asia/india-vaccination-covid.html) NYT: Covid vaccination in has accelerated in India in recent weeks, with more than 70 percent of the adult population having received at least one dose of a vaccine. 
  <p class="updated_time"> 04:24 AM CT, Oct. 21 </p> 
  [Cleo Smith: Police offer A$1m reward amid fears girl, 4, was abducted](https://www.bbc.co.uk/news/world-australia-58946569?at_medium=RSS&at_campaign=KARANGA) BBC: Cleo Smith, 4, vanished from a tent at a remote coastal campsite in Western Australia on Saturday. 
- <p class="updated_time"> 04:08 AM CT, Oct. 21 </p> 
- [Texas nurse guilty of killing patients by injecting them with air](https://www.bbc.co.uk/news/world-us-canada-58993678?at_medium=RSS&at_campaign=KARANGA) BBC: William Davis injected at least seven patients with air and could now face the death penalty. 
  <p class="updated_time"> 04:00 AM CT, Oct. 21 </p> 
  [Why Australia Won’t Commit to Slashing Carbon Emissions](https://www.nytimes.com/2021/10/21/world/australia/australia-coal-fossil-fuel-carbon.html) NYT: The country has fallen behind other developed nations in its commitment to slashing carbon emissions. Neither fires nor international pressure has pushed it away from coal and other fossil fuels. 
  <p class="updated_time"> 02:27 AM CT, Oct. 21 </p> 
@@ -162,8 +162,6 @@ permalink: /charts/news/
  [Fox News Anchor Neil Cavuto Tests Positive for Coronavirus](https://www.nytimes.com/2021/10/19/world/fox-news-neil-cavuto-positive-covid.html) NYT: The broadcaster has survived cancer and open-heart surgery and has multiple sclerosis. 
  <p class="updated_time"> 08:29 PM CT, Oct. 19 </p> 
  [In-N-Out Burger Was Briefly Closed for Breaking San Francisco Covid Protocols](https://www.nytimes.com/2021/10/19/world/san-francisco-in-n-out-burger-covid-vaccine.html) NYT: The popular burger chain said it refused to become “the vaccination police for any government.” 
- <p class="updated_time"> 07:02 PM CT, Oct. 19 </p> 
- [North Korea Tests First Submarine-Launched Missile in Two Years](https://www.nytimes.com/2021/10/18/world/asia/north-korea-ballistic-missile-test-washington.html) NYT: The launch came after special envoys gathered to discuss how to deal with Pyongyang’s growing nuclear capabilities. 
  <p class="updated_time"> 06:23 PM CT, Oct. 19 </p> 
  [Ros Atkins on… Europe's climate challenge](https://www.bbc.co.uk/news/science-environment-58970153?at_medium=RSS&at_campaign=KARANGA) BBC: Ros Atkins looks at how Europe is getting to grips with its emissions problem. 
  <p class="updated_time"> 06:20 PM CT, Oct. 19 </p> 
