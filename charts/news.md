@@ -6,10 +6,14 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 10:29 PM CT, Oct. 20 </p> 
+ [Spanish Court Agrees to Extradite Former Venezuela Spy Chief to U.S.](https://www.nytimes.com/2021/10/20/world/europe/spain-extradite-carvajal-venezuela.html) NYT: Hugo Carvajal, once a prominent figure in the government of the Venezuelan leader Nicolás Maduro, faces drug-trafficking charges in the United States. 
+ <p class="updated_time"> 10:26 PM CT, Oct. 20 </p> 
+ [Transgender Woman Flees Malaysia After Wearing Hijab](https://www.nytimes.com/2021/10/20/world/asia/malaysia-transgender.html) NYT: The Islamic authorities want to imprison her for wearing female clothing at a religious event and threatened to put her in a rehabilitation camp where she could “return to the right path.” 
+ <p class="updated_time"> 10:13 PM CT, Oct. 20 </p> 
+ [Evergrande shares fall 10% as trading resumes in Hong Kong](https://www.bbc.co.uk/news/business-58976991?at_medium=RSS&at_campaign=KARANGA) BBC: Shares of the Chinese property giant fell as much as 14% on Thursday morning in Hong Kong. 
  <p class="updated_time"> 09:54 PM CT, Oct. 20 </p> 
  [Zalmay Khalilzad, Biden’s Envoy for Afghanistan, Steps Down](https://www.nytimes.com/2021/10/18/us/politics/zalmay-khalilzad-afghanistan.html) NYT: An Afghan American and a rare Trump appointee who survived into the Biden administration, Mr. Khalilzad played a central role in the U.S. exit from the country. 
- <p class="updated_time"> 09:54 PM CT, Oct. 20 </p> 
- [Evergrande shares fall 10% as trading resumes in Hong Kong](https://www.bbc.co.uk/news/business-58976991?at_medium=RSS&at_campaign=KARANGA) BBC: Shares of the Chinese property giant fell 10% on Thursday morning in Hong Kong. 
  <p class="updated_time"> 08:56 PM CT, Oct. 20 </p> 
  [Thousands Flee Myanmar for India Amid Fears of a Growing Refugee Crisis](https://www.nytimes.com/2021/10/19/world/asia/myanmar-refugees-india.html) NYT: For decades, armed conflict, political repression and targeted campaigns against minorities have forced hundreds of thousands of people to leave the country. Now many more are expected to follow. 
  <p class="updated_time"> 08:44 PM CT, Oct. 20 </p> 
@@ -76,8 +80,6 @@ permalink: /charts/news/
  [Britain Outlines Energy Plans Amid Dimming Prospects for Climate Summit](https://www.nytimes.com/2021/10/19/world/europe/britain-climate-change-cop26.html) NYT: In an effort to recapture momentum, Prime Minister Boris Johnson  announced a host of measures, including plans for a big expansion of electric vehicles, more offshore wind power and greater use of hydrogen. 
  <p class="updated_time"> 12:27 PM CT, Oct. 20 </p> 
  [Flooding death toll passes 100 in Nepal and India's Uttarakhand](https://www.bbc.co.uk/news/world-asia-india-58951456?at_medium=RSS&at_campaign=KARANGA) BBC: Heavy rain triggers flash floods in India's northern state of Uttarakhand and parts of Nepal. 
- <p class="updated_time"> 12:22 PM CT, Oct. 20 </p> 
- [Spanish Court Agrees to Extradite Former Venezuela Spy Chief to U.S.](https://www.nytimes.com/2021/10/20/world/europe/spain-extradite-carvajal-venezuela.html) NYT: Hugo Carvajal, once a prominent figure in the government of the Venezuelan leader Nicolás Maduro, faces drug-trafficking charges in the United States. 
  <p class="updated_time"> 11:46 AM CT, Oct. 20 </p> 
  [Russian inmate who leaked torture videos alleges death threats](https://www.bbc.co.uk/news/world-europe-58978613?at_medium=RSS&at_campaign=KARANGA) BBC: Sergey Savelyev is seeking asylum in France after he leaked videos showing abuse in Russian prisons. 
  <p class="updated_time"> 11:20 AM CT, Oct. 20 </p> 
@@ -114,8 +116,6 @@ permalink: /charts/news/
  [Lekki toll gate shootings: Nigeria's 'massacre without blood or bodies'](https://www.bbc.co.uk/news/world-africa-58975493?at_medium=RSS&at_campaign=KARANGA) BBC: The BBC investigates what happened on the night 20 October 2020, when the Nigerian army opened fire on peaceful protesters in Lagos. 
  <p class="updated_time"> 06:23 AM CT, Oct. 20 </p> 
  [Guatemala: Riot police deployed after protesters breach Congress, set cars alight](https://www.bbc.co.uk/news/world-latin-america-58978584?at_medium=RSS&at_campaign=KARANGA) BBC: Riot police were deployed and lawmakers had to be evacuated amid the protests. 
- <p class="updated_time"> 06:12 AM CT, Oct. 20 </p> 
- [Transgender Woman Flees Malaysia After Wearing Hijab](https://www.nytimes.com/2021/10/20/world/asia/malaysia-transgender.html) NYT: The Islamic authorities want to imprison her for wearing female clothing at a religious event and threatened to put her in a rehabilitation camp where she could “return to the right path.” 
  <p class="updated_time"> 06:00 AM CT, Oct. 20 </p> 
  [Viking Artifacts Give Precise Date for Europeans' Earliest Presence in North America](https://www.wsj.com/articles/viking-artifacts-give-precise-date-for-europeans-earliest-presence-in-north-america-11634742000) WSJ: A new analysis of ancient wooden artifacts shows that Viking voyagers had crossed the Atlantic Ocean and were living in Newfoundland as far back as 1021. 
  <p class="updated_time"> 05:28 AM CT, Oct. 20 </p> 
