@@ -6,6 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 05:39 PM CT, Oct. 21 </p> 
+ [In Haiti, Gangs Gain Power as Security Vacuum Grows](https://www.nytimes.com/2021/10/21/world/americas/haiti-gangs-kidnapping.html) NYT: Gangs have long held sway in the country, but their dominance has expanded in recent years and the government has been accused of using them as tools of repression. 
  <p class="updated_time"> 05:19 PM CT, Oct. 21 </p> 
  [Queen ‘Reluctantly’ Cancels Trip, Citing Medical Advice](https://www.nytimes.com/2021/10/20/world/europe/queen-elizabeth-northern-ireland.html) NYT: Britain’s 95-year-old monarch will not travel to Northern Ireland but is “in good spirits,” Buckingham Palace said. 
  <p class="updated_time"> 05:19 PM CT, Oct. 21 </p> 
@@ -68,8 +70,6 @@ permalink: /charts/news/
  [‘No Girls’: Women in Egypt Fight to Get Judgeships](https://www.nytimes.com/2021/10/20/world/middleeast/egypt-judges-women.html) NYT: On paper, women are free to apply for seats on Egyptian benches. In practice, they say, it is near impossible. 
  <p class="updated_time"> 12:55 PM CT, Oct. 21 </p> 
  [As Chinese Women Seek to Crack Male Professions, Schools Stand in the Way](https://www.nytimes.com/2021/10/21/world/asia/china-schools-gender-bias.html) NYT: In China, some academic programs accept only men or cap the number of female applicants, who often must test higher than their male counterparts. 
- <p class="updated_time"> 12:41 PM CT, Oct. 21 </p> 
- [In Haiti, Gangs Gain Power as Security Vacuum Grows](https://www.nytimes.com/2021/10/21/world/americas/haiti-gangs-kidnapping.html) NYT: Gangs have long held sway in the country, but their dominance has expanded in recent years and the government has been accused of using them as tools of repression. 
  <p class="updated_time"> 12:31 PM CT, Oct. 21 </p> 
  [European Leaders Urge Caution in EU Clash With Poland](https://www.wsj.com/articles/european-leaders-urge-caution-in-eu-clash-with-poland-11634831250) WSJ: Germany, France and others fear fast action against Warsaw could do more damage to the bloc in the wake of a recent ruling by Poland’s constitutional tribunal that EU treaty law has become incompatible with Polish law. 
  <p class="updated_time"> 12:00 PM CT, Oct. 21 </p> 
