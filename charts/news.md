@@ -6,6 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 12:42 AM CT, Oct. 21 </p> 
+ [COP26: Document leak reveals nations lobbying to change key climate report](https://www.bbc.co.uk/news/science-environment-58982445?at_medium=RSS&at_campaign=KARANGA) BBC: Countries are asking the UN to play down the need to move rapidly away from fossil fuels. 
  <p class="updated_time"> 12:25 AM CT, Oct. 21 </p> 
  [Covid vaccine: India administers more than one billion Covid jabs](https://www.bbc.co.uk/news/world-asia-india-56345591?at_medium=RSS&at_campaign=KARANGA) BBC: But experts say the pace needs to pick up for India to meet its target of vaccinating all adults by 2021. 
  <p class="updated_time"> 12:04 AM CT, Oct. 21 </p> 
@@ -28,8 +30,6 @@ permalink: /charts/news/
  [Thousands Flee Myanmar for India Amid Fears of a Growing Refugee Crisis](https://www.nytimes.com/2021/10/19/world/asia/myanmar-refugees-india.html) NYT: For decades, armed conflict, political repression and targeted campaigns against minorities have forced hundreds of thousands of people to leave the country. Now many more are expected to follow. 
  <p class="updated_time"> 08:44 PM CT, Oct. 20 </p> 
  [U.S.-Venezuela Tensions Heat Up Again After Extradition of Maduro Ally](https://www.nytimes.com/2021/10/19/us/politics/venezuela-maduro-biden.html) NYT: As Secretary of State Antony Blinken heads to the region, the window of opportunity for a political resolution has slammed shut. At least for now. 
- <p class="updated_time"> 08:00 PM CT, Oct. 20 </p> 
- [COP26: Document leak reveals nations lobbying to change key climate report](https://www.bbc.co.uk/news/science-environment-58982445?at_medium=RSS&at_campaign=KARANGA) BBC: Countries are asking the UN to play down the need to move rapidly away from fossil fuels. 
  <p class="updated_time"> 07:51 PM CT, Oct. 20 </p> 
  [Blinken Cites ‘Democratic Reckoning’ in South America](https://www.nytimes.com/2021/10/20/world/americas/blinken-democracy-south-america.html) NYT: Secretary of State Antony Blinken warned of an eroding trust in democracy in the Western Hemisphere and described challenges posed to open government by authoritarian leaders. 
  <p class="updated_time"> 07:34 PM CT, Oct. 20 </p> 
