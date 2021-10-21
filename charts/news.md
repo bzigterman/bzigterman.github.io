@@ -6,14 +6,22 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 07:29 AM CT, Oct. 21 </p> 
+ [Tourists in Asia Navigate a Patchwork of Policies](https://www.nytimes.com/2021/10/21/world/asia/asia-travel-rules.html) NYT: NA 
+ <p class="updated_time"> 07:27 AM CT, Oct. 21 </p> 
+ [Haiti sees nearly 800 kidnappings so far this year, NGO says](https://www.bbc.co.uk/news/world-latin-america-58993730?at_medium=RSS&at_campaign=KARANGA) BBC: Gangs have taken more control amid political instability, abducting people from all walks of life. 
+ <p class="updated_time"> 07:20 AM CT, Oct. 21 </p> 
+ [US surgeons test pig kidney transplant in a human](https://www.bbc.co.uk/news/health-58993696?at_medium=RSS&at_campaign=KARANGA) BBC: The kidney, from a genetically-altered pig, appeared to function well, say the surgical team. 
+ <p class="updated_time"> 07:17 AM CT, Oct. 21 </p> 
+ [Celtics Games Are Pulled in China After Enes Kanter’s Pro-Tibet Posts](https://www.nytimes.com/2021/10/21/sports/basketball/celtics-kanter-china-tibet.html) NYT: The Boston center called China’s leader, Xi Jinping, a “brutal dictator” on social media, igniting an online backlash in the country. The N.B.A.’s online partner stopped streaming the team’s games. 
+ <p class="updated_time"> 07:16 AM CT, Oct. 21 </p> 
+ [Female Afghan Judges and Lawyers Now Fear For Their Lives](https://www.nytimes.com/2021/10/21/world/asia/afghan-judges-women-taliban.html) NYT: They fear that they or their loved ones could be tracked down and killed because of their work delivering justice to women. “We have lost everything — our jobs, our homes, the way we lived.” 
  <p class="updated_time"> 06:55 AM CT, Oct. 21 </p> 
  [U.K. Police Charge Suspect in Killing of Lawmaker](https://www.nytimes.com/2021/10/21/world/europe/uk-david-amess-suspect-charged.html) NYT: Ali Harbi Ali, 25, was accused of murder and preparation of terrorist acts in the killing of David Amess, who was fatally stabbed last week. 
  <p class="updated_time"> 05:53 AM CT, Oct. 21 </p> 
  [Ruby Rose: Warner Bros hits back at Batwoman claims](https://www.bbc.co.uk/news/entertainment-arts-58993125?at_medium=RSS&at_campaign=KARANGA) BBC: The actress claimed in her Instagram story that there were poor working conditions on the show. 
  <p class="updated_time"> 05:45 AM CT, Oct. 21 </p> 
  [As Chinese Women Seek to Crack Male Professions, Schools Stand in the Way](https://www.nytimes.com/2021/10/21/world/asia/china-schools-gender-bias.html) NYT: In China, some academic programs accept only men or cap the number of female applicants, who often must test higher than their male counterparts. 
- <p class="updated_time"> 05:39 AM CT, Oct. 21 </p> 
- [Celtics Games Are Pulled in China After Enes Kanter’s Pro-Tibet Posts](https://www.nytimes.com/2021/10/21/sports/basketball/celtics-kanter-china-tibet.html) NYT: The Boston center called China’s leader, Xi Jinping, a “brutal dictator” on social media, igniting an online backlash in the country. The N.B.A.’s online partner stopped streaming the team’s games. 
  <p class="updated_time"> 05:35 AM CT, Oct. 21 </p> 
  [South Korea’s First Homemade Rocket Launch Declared a Partial Success](https://www.nytimes.com/2021/10/21/world/asia/south-korea-rocket.html) NYT: The country, which aspires to be a leader in space technology, says it has plans to land an uncrewed craft on the moon by 2030. 
  <p class="updated_time"> 05:21 AM CT, Oct. 21 </p> 
@@ -34,8 +42,6 @@ permalink: /charts/news/
  [Why Australia Won’t Commit to Slashing Carbon Emissions](https://www.nytimes.com/2021/10/21/world/australia/australia-coal-fossil-fuel-carbon.html) NYT: The country has fallen behind other developed nations in its commitment to slashing carbon emissions. Neither fires nor international pressure has pushed it away from coal and other fossil fuels. 
  <p class="updated_time"> 03:37 AM CT, Oct. 21 </p> 
  [Death toll passes 180 in Nepal and India floods](https://www.bbc.co.uk/news/world-asia-india-58951456?at_medium=RSS&at_campaign=KARANGA) BBC: Heavy rain triggers flash floods and landslides in parts of India and Nepal. 
- <p class="updated_time"> 03:14 AM CT, Oct. 21 </p> 
- [Squid's Victory? China streaming site accused of copying Squid Game](https://www.bbc.co.uk/news/world-asia-china-58991127?at_medium=RSS&at_campaign=KARANGA) BBC: Chinese streaming site Youku said that it was just a "draft" poster, but netizens weren't convinced. 
  <p class="updated_time"> 02:55 AM CT, Oct. 21 </p> 
  [Covid: WHO warns pandemic will drag on deep into 2022](https://www.bbc.co.uk/news/health-58973697?at_medium=RSS&at_campaign=KARANGA) BBC: Slow vaccine supply to poorer nations means the crisis will last longer than it needs to, experts say. 
  <p class="updated_time"> 02:20 AM CT, Oct. 21 </p> 
@@ -48,8 +54,6 @@ permalink: /charts/news/
  [COP26: Document leak reveals nations lobbying to change key climate report](https://www.bbc.co.uk/news/science-environment-58982445?at_medium=RSS&at_campaign=KARANGA) BBC: Countries are asking the UN to play down the need to move rapidly away from fossil fuels. 
  <p class="updated_time"> 12:59 AM CT, Oct. 21 </p> 
  [Covid-19 Herd Immunity Proves Elusive in U.K.](https://www.wsj.com/articles/covid-19-herd-immunity-proves-elusive-in-u-k-11634810364) WSJ: In the summer, the U.K. lifted most restrictions in the hope that immunity would keep the virus at bay, but recent rises in cases and deaths indicate that reliance on this doesn’t guarantee a quick victory. 
- <p class="updated_time"> 12:25 AM CT, Oct. 21 </p> 
- [Covid vaccine: India administers more than one billion Covid jabs](https://www.bbc.co.uk/news/world-asia-india-56345591?at_medium=RSS&at_campaign=KARANGA) BBC: But experts say the pace needs to pick up for India to meet its target of vaccinating all adults by 2021. 
  <p class="updated_time"> 12:14 AM CT, Oct. 21 </p> 
  [More games, more countries, more travel: Does European football care about its climate impact?](https://www.bbc.co.uk/sport/football/58595026?at_medium=RSS&at_campaign=KARANGA) BBC: European football is expanding, with more games in more countries than ever before. So how does that tally with the sport reducing its climate impact? 
  <p class="updated_time"> 11:35 PM CT, Oct. 20 </p> 
@@ -120,8 +124,6 @@ permalink: /charts/news/
  [Turkey Sours on Syrians, but Not in This Sleepy Town, Jolted Awake](https://www.nytimes.com/2021/10/20/world/europe/turkey-syria-border-refugees.html) NYT: As calls increase in Turkey for Syrian refugees to go home, Kilis, a border town transformed by the newcomers’ energy, has embraced the change. 
  <p class="updated_time"> 10:24 AM CT, Oct. 20 </p> 
  [Bombing of Military Bus in Syrian Capital Kills 14](https://www.nytimes.com/2021/10/20/world/middleeast/syria-military-bus-bombing.html) NYT: President Bashar al-Assad has tightened his grip on Damascus, but the attack suggested that militants who oppose him can still do harm. 
- <p class="updated_time"> 10:06 AM CT, Oct. 20 </p> 
- [Female Afghan Judges and Lawyers Now Fear For Their Lives](https://www.nytimes.com/2021/10/20/world/asia/afghan-judges-women-taliban.html) NYT: They fear that they or their loved ones could be tracked down and killed because of their work delivering justice to women. “We have lost everything — our jobs, our homes, the way we lived.” 
  <p class="updated_time"> 09:32 AM CT, Oct. 20 </p> 
  [Taliban Face Pressure Over New Afghan Government at Russia Conference](https://www.wsj.com/articles/russia-faces-difficult-balancing-act-as-it-hosts-taliban-in-moscow-11634722296) WSJ: Taliban representatives met with senior officials from Russia, China and other countries in Moscow, where they came under pressure to form a more inclusive government and pursue a friendly policy toward neighboring countries. 
  <p class="updated_time"> 06:57 AM CT, Oct. 20 </p> 
@@ -186,8 +188,6 @@ permalink: /charts/news/
  [Diver Discovers 900-Year-Old Sword Dating to the Crusades](https://www.nytimes.com/2021/10/18/world/middleeast/crusader-sword-found-israel.html) NYT: The sword, recovered off the coast of Israel, most likely belonged to a knight who fell into the sea or lost the weapon in battle, experts said. 
  <p class="updated_time"> 06:11 PM CT, Oct. 18 </p> 
  [In Norway Attack, ‘Sharp Object,’ Not Arrows, Killed 5, Police Say](https://www.nytimes.com/2021/10/18/world/europe/norway-attack.html) NYT: The Norwegian police on Monday said that while a hunting bow had been used in last week’s rampage, the victims, four women and a man, were stabbed to death. 
- <p class="updated_time"> 04:27 PM CT, Oct. 18 </p> 
- [What Scientists Know About the Risk of Breakthrough Covid Deaths](https://www.nytimes.com/2021/10/18/health/coronavirus-vaccine-powell-breakthrough.html) NYT: Deaths among people who have been fully vaccinated remain rare, but older adults and those with compromised immune systems are at much higher risk. 
  <p class="updated_time"> 07:30 AM CT, Oct. 18 </p> 
  [COP26: Does a climate summit need 25,000 people? And more questions](https://www.bbc.co.uk/news/science-environment-58925049?at_medium=RSS&at_campaign=KARANGA) BBC: BBC science correspondent Matt McGrath answers your questions about Glasgow's COP26 climate summit. 
  <p class="updated_time"> 06:56 PM CT, Oct. 17 </p> 
