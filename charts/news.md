@@ -6,7 +6,9 @@ permalink: /charts/news/
 
 ## World News
 
- <p class="updated_time"> 12:42 AM CT, Oct. 21 </p> 
+ <p class="updated_time"> 01:43 AM CT, Oct. 21 </p> 
+ [Trump to launch new social media platform TRUTH Social](https://www.bbc.co.uk/news/world-us-canada-58990330?at_medium=RSS&at_campaign=KARANGA) BBC: The former US president was banned from Twitter and Facebook following the US Capitol riots. 
+ <p class="updated_time"> 01:31 AM CT, Oct. 21 </p> 
  [COP26: Document leak reveals nations lobbying to change key climate report](https://www.bbc.co.uk/news/science-environment-58982445?at_medium=RSS&at_campaign=KARANGA) BBC: Countries are asking the UN to play down the need to move rapidly away from fossil fuels. 
  <p class="updated_time"> 12:25 AM CT, Oct. 21 </p> 
  [Covid vaccine: India administers more than one billion Covid jabs](https://www.bbc.co.uk/news/world-asia-india-56345591?at_medium=RSS&at_campaign=KARANGA) BBC: But experts say the pace needs to pick up for India to meet its target of vaccinating all adults by 2021. 
@@ -18,8 +20,6 @@ permalink: /charts/news/
  [Death toll passes 150 in Nepal and India floods](https://www.bbc.co.uk/news/world-asia-india-58951456?at_medium=RSS&at_campaign=KARANGA) BBC: Heavy rain triggers flash floods and landslides in parts of India and Nepal. 
  <p class="updated_time"> 11:35 PM CT, Oct. 20 </p> 
  [Your Thursday Briefing](https://www.nytimes.com/2021/10/20/briefing/climate-change-coronavirus-britain.html) NYT: Plans to extract more fossil fuels. 
- <p class="updated_time"> 11:22 PM CT, Oct. 20 </p> 
- [Trump to launch new social media platform TRUTH Social](https://www.bbc.co.uk/news/world-us-canada-58990330?at_medium=RSS&at_campaign=KARANGA) BBC: The former US president said it would be used to "stand up to the tyranny of big tech". 
  <p class="updated_time"> 11:01 PM CT, Oct. 20 </p> 
  [Tax cheat schemes cost governments billions](https://www.bbc.co.uk/news/business-58984813?at_medium=RSS&at_campaign=KARANGA) BBC: Major tax evasion and avoidance schemes have deprived countries of £127bn, research shows. 
  <p class="updated_time"> 10:29 PM CT, Oct. 20 </p> 
