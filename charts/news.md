@@ -6,6 +6,10 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 05:06 AM CT, Oct. 21 </p> 
+ [God and robots: Will AI transform religion?](https://www.bbc.co.uk/news/technology-58983047?at_medium=RSS&at_campaign=KARANGA) BBC: Robot "priests" can recite prayers, perform funerals, and even comfort those experiencing a spiritual crisis. 
+ <p class="updated_time"> 05:02 AM CT, Oct. 21 </p> 
+ [South Korea launches first homegrown space rocket Nuri](https://www.bbc.co.uk/news/world-asia-58990718?at_medium=RSS&at_campaign=KARANGA) BBC: The launch completes all its stages but fails in its goal of putting a dummy satellite in orbit. 
  <p class="updated_time"> 04:38 AM CT, Oct. 21 </p> 
  [India's Covid Vaccine Campaign Hits 1 Billion Doses](https://www.nytimes.com/2021/10/20/world/asia/india-vaccination-covid.html) NYT: Covid vaccination in has accelerated in India in recent weeks, with more than 70 percent of the adult population having received at least one dose of a vaccine. 
  <p class="updated_time"> 04:29 AM CT, Oct. 21 </p> 
@@ -18,8 +22,6 @@ permalink: /charts/news/
  [Why Australia Won’t Commit to Slashing Carbon Emissions](https://www.nytimes.com/2021/10/21/world/australia/australia-coal-fossil-fuel-carbon.html) NYT: The country has fallen behind other developed nations in its commitment to slashing carbon emissions. Neither fires nor international pressure has pushed it away from coal and other fossil fuels. 
  <p class="updated_time"> 04:00 AM CT, Oct. 21 </p> 
  [As Chinese Women Seek to Crack Male Professions, Schools Stand in the Way](https://www.nytimes.com/2021/10/21/world/asia/china-schools-gender-bias.html) NYT: In China, some academic programs accept only men or cap the number of female applicants, who often must test higher than their male counterparts. 
- <p class="updated_time"> 03:56 AM CT, Oct. 21 </p> 
- [South Korea launches first homegrown space rocket Nuri](https://www.bbc.co.uk/news/world-asia-58990718?at_medium=RSS&at_campaign=KARANGA) BBC: The move marks a step forward in its space ambitions and comes amid an arms race with the North. 
  <p class="updated_time"> 03:37 AM CT, Oct. 21 </p> 
  [Death toll passes 180 in Nepal and India floods](https://www.bbc.co.uk/news/world-asia-india-58951456?at_medium=RSS&at_campaign=KARANGA) BBC: Heavy rain triggers flash floods and landslides in parts of India and Nepal. 
  <p class="updated_time"> 03:32 AM CT, Oct. 21 </p> 
@@ -64,8 +66,6 @@ permalink: /charts/news/
  [Netflix employees protest 'transphobic' Dave Chappelle comedy show](https://www.bbc.co.uk/news/world-us-canada-58990325?at_medium=RSS&at_campaign=KARANGA) BBC: Activists say the streaming giant's comedy special could fuel attacks on transgender people. 
  <p class="updated_time"> 06:14 PM CT, Oct. 20 </p> 
  [China: The patriotic 'ziganwu' bloggers who attack the West](https://www.bbc.co.uk/news/world-asia-china-58922011?at_medium=RSS&at_campaign=KARANGA) BBC: Their scathing posts have shot them to fame amid rising nationalist fervour - but they toe a fine line. 
- <p class="updated_time"> 06:12 PM CT, Oct. 20 </p> 
- [God and robots: Will AI transform religion?](https://www.bbc.co.uk/news/technology-58983047?at_medium=RSS&at_campaign=KARANGA) BBC: Robot "priests" can recite prayers, perform funerals, and even comfort those experiencing a spiritual crisis. 
  <p class="updated_time"> 05:00 PM CT, Oct. 20 </p> 
  [The Webb Telescope’s Latest Stumbling Block: Its Name](https://www.nytimes.com/2021/10/20/science/webb-telescope-astronomy-homophobia.html) NYT: The long-awaited successor to the Hubble Space Telescope is scheduled to launch in December. But the NASA official for whom it is named has been accused of homophobia. 
  <p class="updated_time"> 04:15 PM CT, Oct. 20 </p> 
@@ -85,7 +85,7 @@ permalink: /charts/news/
  <p class="updated_time"> 02:15 PM CT, Oct. 20 </p> 
  [Gates Foundation Pledges $120 Million to Help Get Merck Covid Pills to Poor Countries](https://www.nytimes.com/2021/10/20/health/covid-molnupiravir-gates-foundation.html) NYT: Regulatory hurdles and supply chain issues could slow efforts to produce generic versions of Merck’s antiviral molnupiravir for developing nations, despite licensing agreements. 
  <p class="updated_time"> 02:11 PM CT, Oct. 20 </p> 
- [Iran Plans to Abandon One of Its Homegrown Covid Shots](https://www.nytimes.com/2021/10/20/world/iran-covid-vaccine-fakhravac.html) NYT: The defense ministry said there was too little demand for its Fakhravac vaccine to justify producing it, and blamed the health ministry for reneging on promised orders. 
+ [Iran Plans to Abandon One of Its Homegrown Covid Shots](https://www.nytimes.com/2021/10/20/world/middleeast/iran-covid-vaccine-fakhravac.html) NYT: The defense ministry said there was too little demand for its Fakhravac vaccine to justify producing it, and blamed the health ministry for reneging on promised orders. 
  <p class="updated_time"> 01:59 PM CT, Oct. 20 </p> 
  [Those Gifts You Want for the Holidays? Don’t Wait Too Long.](https://www.nytimes.com/2021/10/19/business/supply-chain-holidays.html) NYT: The supply chain disruption is shorthand for problems from factory closures to workers who are not working anymore. 
  <p class="updated_time"> 01:58 PM CT, Oct. 20 </p> 
