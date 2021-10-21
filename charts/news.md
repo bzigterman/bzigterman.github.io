@@ -6,12 +6,14 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 01:11 PM CT, Oct. 21 </p> 
+ [Kidnappers in Haiti Demand $17 Million to Free Missionary Group](https://www.nytimes.com/2021/10/19/world/americas/haiti-missionaries-ransom.html) NYT: A gang abducted 17 people associated with a Christian aid group, including five children. Most of those being held are Americans; one is Canadian. 
  <p class="updated_time"> 12:55 PM CT, Oct. 21 </p> 
  [‘No Girls’: Women in Egypt Fight to Get Judgeships](https://www.nytimes.com/2021/10/20/world/middleeast/egypt-judges-women.html) NYT: On paper, women are free to apply for seats on Egyptian benches. In practice, they say, it is near impossible. 
  <p class="updated_time"> 12:55 PM CT, Oct. 21 </p> 
  [As Chinese Women Seek to Crack Male Professions, Schools Stand in the Way](https://www.nytimes.com/2021/10/21/world/asia/china-schools-gender-bias.html) NYT: In China, some academic programs accept only men or cap the number of female applicants, who often must test higher than their male counterparts. 
  <p class="updated_time"> 12:41 PM CT, Oct. 21 </p> 
- [‘It’s Terror’: In Haiti, Gangs Gain Power as Security Vacuum Grows](https://www.nytimes.com/2021/10/21/world/americas/haiti-gangs-kidnapping.html) NYT: Gangs have long held sway in the country, but their dominance has expanded in recent years and the government has been accused of using them as tools of repression. 
+ [In Haiti, Gangs Gain Power as Security Vacuum Grows](https://www.nytimes.com/2021/10/21/world/americas/haiti-gangs-kidnapping.html) NYT: Gangs have long held sway in the country, but their dominance has expanded in recent years and the government has been accused of using them as tools of repression. 
  <p class="updated_time"> 12:24 PM CT, Oct. 21 </p> 
  [U.K. Police Charge Suspect in David Amess Killing](https://www.nytimes.com/2021/10/21/world/europe/uk-david-amess-suspect-charged.html) NYT: Ali Harbi Ali, 25, was accused of murder and preparation of terrorist acts in the killing of David Amess, who was fatally stabbed last week. 
  <p class="updated_time"> 12:00 PM CT, Oct. 21 </p> 
@@ -44,6 +46,8 @@ permalink: /charts/news/
  [South Korea’s First Homemade Rocket Lifts Off but Is ‘One Step Short’](https://www.nytimes.com/2021/10/21/world/asia/south-korea-rocket.html) NYT: The country aspires to be a leader in space technology, with plans to land an uncrewed craft on the moon by 2030. President Moon Jae-in said the initial launch was excellent “for a first try.” 
  <p class="updated_time"> 09:10 AM CT, Oct. 21 </p> 
  [Female Afghan Judges and Lawyers Now Fear For Their Lives](https://www.nytimes.com/2021/10/21/world/asia/afghan-judges-women-taliban.html) NYT: They fear that they or their loved ones could be tracked down and killed because of their work delivering justice to women. “We have lost everything — our jobs, our homes, the way we lived.” 
+ <p class="updated_time"> 08:23 AM CT, Oct. 21 </p> 
+ [India Hits One Billion Covid-19 Vaccines Administered](https://www.wsj.com/articles/india-hits-one-billion-covid-19-vaccines-administered-11634837017) WSJ: The milestone in a once-faltering inoculation campaign signals India could begin allowing more vaccine exports to developing countries soon. 
  <p class="updated_time"> 07:59 AM CT, Oct. 21 </p> 
  [NFL to end race-based testing in dementia claims](https://www.bbc.co.uk/news/world-us-canada-58993679?at_medium=RSS&at_campaign=KARANGA) BBC: "Race-norming" made it harder for black players to prove brain injuries linked to their careers. 
  <p class="updated_time"> 07:29 AM CT, Oct. 21 </p> 
@@ -54,8 +58,6 @@ permalink: /charts/news/
  [European Leaders Urge Caution in EU Clash With Poland](https://www.wsj.com/articles/european-leaders-urge-caution-in-eu-clash-with-poland-11634831250) WSJ: Germany, France and others fear fast action against Warsaw could do more damage to the bloc in the wake of a recent ruling by Poland’s constitutional tribunal that EU treaty law has become incompatible with Polish law. 
  <p class="updated_time"> 07:20 AM CT, Oct. 21 </p> 
  [Covid-19 Herd Immunity Proves Elusive in U.K.](https://www.wsj.com/articles/covid-19-herd-immunity-proves-elusive-in-u-k-11634810364) WSJ: In the summer, the U.K. lifted most restrictions in the hope that immunity would keep the virus at bay, but recent rises in cases and deaths indicate that reliance on this doesn’t guarantee a quick victory. 
- <p class="updated_time"> 06:49 AM CT, Oct. 21 </p> 
- [U.S. Intelligence Report Sounds New Climate Warning](https://www.wsj.com/articles/u-s-intelligence-report-sounds-new-climate-warning-11634829769) WSJ: A national intelligence assessment looking at the link between climate change and national security cited risks of cost disputes, Arctic conflict, drought and migration as temperatures rise. 
  <p class="updated_time"> 05:53 AM CT, Oct. 21 </p> 
  [Ruby Rose: Warner Bros hits back at Batwoman claims](https://www.bbc.co.uk/news/entertainment-arts-58993125?at_medium=RSS&at_campaign=KARANGA) BBC: The actress claimed in her Instagram story that there were poor working conditions on the show. 
  <p class="updated_time"> 05:33 AM CT, Oct. 21 </p> 
@@ -152,8 +154,6 @@ permalink: /charts/news/
  [Writing About a Past Injustice Helped Her See What Has and Hasn’t Changed](https://www.nytimes.com/2021/10/20/books/nadifa-mohamed-fortune-men.html) NYT: Nadifa Mohamed is a Booker Prize finalist for her novel “The Fortune Men,” a story about a false accusation and the tragedy that resulted. 
  <p class="updated_time"> 04:00 AM CT, Oct. 20 </p> 
  [1971: Paris Installs Giant Air Filters to Combat Pollution](https://www.nytimes.com/2021/10/20/world/europe/1971-paris-air-filters.html) NYT: Two towers, each measuring 16 and a half feet high, were installed in an area in the east of the city in an experiment to tackle contamination. 
- <p class="updated_time"> 03:30 AM CT, Oct. 20 </p> 
- [Kidnappers in Haiti Demand $17 Million to Free Missionary Group](https://www.nytimes.com/2021/10/19/world/americas/haiti-missionaries-ransom.html) NYT: A gang abducted 17 people associated with a Christian aid group, including five children. Most of those being held are Americans; one is Canadian. 
  <p class="updated_time"> 03:16 AM CT, Oct. 20 </p> 
  [Bolsonaro's Pandemic Response Draws Claim of Crimes Against Humanity ](https://www.nytimes.com/2021/10/19/world/americas/bolsonaro-covid-19-brazil.html) NYT: A report from lawmakers initially said Jair Bolsonaro should be charged with mass homicide and genocide, accusing him of letting Covid-19 spread in a failed bid for herd immunity. 
  <p class="updated_time"> 11:48 PM CT, Oct. 19 </p> 
@@ -190,8 +190,6 @@ permalink: /charts/news/
  [The Threat, in Perspective](https://www.nytimes.com/2021/10/19/briefing/colin-powell-covid-risk-older-americans.html) NYT: Colin Powell’s death highlights the continuing Covid risks to older people with medical conditions. 
  <p class="updated_time"> 11:02 PM CT, Oct. 18 </p> 
  [Ecuador’s President Declares State of Emergency to Battle Crime](https://www.nytimes.com/2021/10/19/world/americas/ecuador-state-of-emergency.html) NYT: Guillermo Lasso said the military and the police would patrol the streets to provide security to confront drug trafficking and other crimes. 
- <p class="updated_time"> 10:37 PM CT, Oct. 18 </p> 
- [Your Tuesday Briefing](https://www.nytimes.com/2021/10/18/briefing/haiti-kidnapping-colin-powell.html) NYT: Efforts to recover a kidnapped group in Haiti. 
  <p class="updated_time"> 07:30 AM CT, Oct. 18 </p> 
  [COP26: Does a climate summit need 25,000 people? And more questions](https://www.bbc.co.uk/news/science-environment-58925049?at_medium=RSS&at_campaign=KARANGA) BBC: BBC science correspondent Matt McGrath answers your questions about Glasgow's COP26 climate summit. 
  <p class="updated_time"> 06:56 PM CT, Oct. 17 </p> 
