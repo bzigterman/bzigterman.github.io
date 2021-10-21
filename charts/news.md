@@ -6,6 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 02:31 PM CT, Oct. 21 </p> 
+ [US surgeon explains pig kidney-human transplant test](https://www.bbc.co.uk/news/health-59003998?at_medium=RSS&at_campaign=KARANGA) BBC: A US team says it successfully transplanted a genetically modified pig's kidney into a brain-dead human. 
  <p class="updated_time"> 02:20 PM CT, Oct. 21 </p> 
  [On a Pacific Island, Russia Tests Its Battle Plan for Climate Change](https://www.nytimes.com/2021/10/19/world/europe/russia-climate-change.html) NYT: President Vladimir V. Putin long dismissed the threat posed by global warming. But fires, disasters and foreign pressure have prompted him to change course. 
  <p class="updated_time"> 02:20 PM CT, Oct. 21 </p> 
@@ -168,8 +170,6 @@ permalink: /charts/news/
  [In-N-Out Burger Was Briefly Closed for Breaking San Francisco Covid Protocols](https://www.nytimes.com/2021/10/19/world/san-francisco-in-n-out-burger-covid-vaccine.html) NYT: The popular burger chain said it refused to become “the vaccination police for any government.” 
  <p class="updated_time"> 06:23 PM CT, Oct. 19 </p> 
  [Ros Atkins on… Europe's climate challenge](https://www.bbc.co.uk/news/science-environment-58970153?at_medium=RSS&at_campaign=KARANGA) BBC: Ros Atkins looks at how Europe is getting to grips with its emissions problem. 
- <p class="updated_time"> 06:20 PM CT, Oct. 19 </p> 
- [Myanmar: Mass release of political prisoners](https://www.bbc.co.uk/news/world-asia-58976296?at_medium=RSS&at_campaign=KARANGA) BBC: Some of the political prisoners released by the authorities in Myanmar describe how they endured life in jail. 
  <p class="updated_time"> 05:13 PM CT, Oct. 19 </p> 
  [Transgender U.S. Public Health Official Breaks Ground in Covid Fight](https://www.nytimes.com/2021/10/19/us/politics/rachel-levine-public-health-transgender.html) NYT: Admiral Rachel Levine is the first female four-star admiral in the history of the he U.S. Public Health Service Commissioned Corps, which she already leads in her role as assistant secretary. 
  <p class="updated_time"> 03:45 PM CT, Oct. 19 </p> 
