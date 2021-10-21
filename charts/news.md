@@ -6,7 +6,19 @@ permalink: /charts/news/
 
 ## World News
 
- <p class="updated_time"> 04:50 PM CT, Oct. 21 </p> 
+ <p class="updated_time"> 05:10 PM CT, Oct. 21 </p> 
+ [Gabby Petito: Fiancé Brian Laundrie's remains found - FBI](https://www.bbc.co.uk/news/world-us-canada-59004831?at_medium=RSS&at_campaign=KARANGA) BBC: The FBI confirms Brian Laundrie, the missing fiancé of murdered blogger Gabby Petito, has been found dead. 
+ <p class="updated_time"> 05:02 PM CT, Oct. 21 </p> 
+ [N.I.H. Says Bat Research Group Failed to Submit Prompt Virus Findings](https://www.nytimes.com/2021/10/21/science/bats-covid-lab-leak-nih.html) NYT: The federal agency told a G.O.P. House member that it had notified EcoHealth Alliance, a group criticized for its U.S.-funded work with Wuhan scientists, to file data within five days. 
+ <p class="updated_time"> 04:59 PM CT, Oct. 21 </p> 
+ [Russia Introduces Weeklong Office Shutdown After Covid Deaths Rise](https://www.nytimes.com/2021/10/20/world/europe/russia-covid-restrictions.html) NYT: The measure, meant to slow the spread of the coronavirus, is short of a full lockdown and only affects nonessential workers. 
+ <p class="updated_time"> 04:58 PM CT, Oct. 21 </p> 
+ [Britain Resists Calls to Introduce Covid Restrictions](https://www.nytimes.com/2021/10/20/world/europe/britain-covid-cases.html) NYT: The number of new cases in Britain is among the highest in the world, but the government has said there is no need to impose indoor mask mandates or other restrictions. 
+ <p class="updated_time"> 04:58 PM CT, Oct. 21 </p> 
+ [Your Thursday Briefing](https://www.nytimes.com/2021/10/20/briefing/russia-covid-pollution-fossil-fuels-evergrande.html) NYT: Russia’s ‘non-working’ week. 
+ <p class="updated_time"> 04:58 PM CT, Oct. 21 </p> 
+ [India's Covid Vaccine Campaign Hits 1 Billion Doses](https://www.nytimes.com/2021/10/20/world/asia/india-vaccination-covid.html) NYT: More than 70 percent of India’s adult population has now received at least one dose of a vaccine. Bulgaria, with the E.U.’s lowest vaccination rate, faces a case surge. 
+ <p class="updated_time"> 04:57 PM CT, Oct. 21 </p> 
  [Rise in Cases and Deaths Tests Britain’s Gamble on Few Virus Restrictions](https://www.nytimes.com/2021/10/21/world/europe/britain-virus.html) NYT: The country’s grand experiment — opening up with hardly any restrictions — is facing its toughest test yet. 
  <p class="updated_time"> 04:45 PM CT, Oct. 21 </p> 
  [U.K. Police Charge Suspect in David Amess Killing](https://www.nytimes.com/2021/10/21/world/europe/uk-david-amess-suspect-charged.html) NYT: Ali Harbi Ali, 25, was accused of murder and preparation of terrorist acts in the killing of David Amess, who was stabbed last week. 
@@ -20,8 +32,6 @@ permalink: /charts/news/
  [Where Are the Workers?](https://www.nytimes.com/2021/10/20/briefing/labor-shortage-us-low-wage-economy.html) NYT: How can so many Americans afford not to work? And will it last? 
  <p class="updated_time"> 04:20 PM CT, Oct. 21 </p> 
  [Your Friday Briefing](https://www.nytimes.com/2021/10/21/briefing/australia-coal-british-covid-strategy-celtics.html) NYT: Why Australia won’t commit to emissions reductions. 
- <p class="updated_time"> 03:44 PM CT, Oct. 21 </p> 
- [N.I.H. Says Bat Research Group Failed to Submit Prompt Virus Findings](https://www.nytimes.com/2021/10/21/science/bats-covid-lab-leak-nih.html) NYT: The federal agency told a G.O.P. House member that it had notified EcoHealth Alliance, a group criticized for its U.S.-funded work with Wuhan scientists, to file data within five days. 
  <p class="updated_time"> 03:37 PM CT, Oct. 21 </p> 
  [Melbourne: Celebrations as city exits sixth lockdown](https://www.bbc.co.uk/news/world-australia-58998418?at_medium=RSS&at_campaign=KARANGA) BBC: The Australian city has spent more than 260 days under restrictions since the pandemic began. 
  <p class="updated_time"> 03:37 PM CT, Oct. 21 </p> 
@@ -29,15 +39,13 @@ permalink: /charts/news/
  <p class="updated_time"> 03:32 PM CT, Oct. 21 </p> 
  [With Splendor and Saints, Hispanic Society Shows Its Treasures](https://www.nytimes.com/2021/10/21/arts/design/hispanic-society-grolier-club.html) NYT: This gem of a museum in Upper Manhattan has reopened with an operatic eye-filler of religious sculptures we’re just learning to appreciate. 
  <p class="updated_time"> 03:29 PM CT, Oct. 21 </p> 
- [Israel Moves to Allow Entry to Vaccinated Tourists ](https://www.nytimes.com/2021/10/21/world/israel-covid-tourists.html) NYT: The plan to reopen to international tourists for the first time since the pandemic began comes as infections are steadily declining in Israel after a fourth wave. 
+ [Israel Moves to Allow Entry to Vaccinated Tourists ](https://www.nytimes.com/2021/10/21/world/travel-to-israel-covid.html) NYT: The plan to reopen to international tourists for the first time since the pandemic began comes as infections are steadily declining in Israel after a fourth wave. 
  <p class="updated_time"> 03:29 PM CT, Oct. 21 </p> 
  [Climate change will bring global tension, US intelligence report says](https://www.bbc.co.uk/news/science-environment-59004088?at_medium=RSS&at_campaign=KARANGA) BBC: Countries will argue over a response and the poorest will suffer most, US intelligence says. 
  <p class="updated_time"> 03:10 PM CT, Oct. 21 </p> 
  [Syria Executes 24 People for Setting Wildfires, Calling It ‘Terrorism’](https://www.nytimes.com/2021/10/21/world/middleeast/syria-wildfire-executions.html) NYT: The sentences shocked rights groups, who saw it as a move by President Bashar al-Assad to appear tough after a crisis that hurt his loyalists. 
  <p class="updated_time"> 02:59 PM CT, Oct. 21 </p> 
  [Bulgaria Faces a Surge in Coronavirus Cases](https://www.nytimes.com/2021/10/21/world/europe/bulgaria-covid-cases.html) NYT: NA 
- <p class="updated_time"> 02:59 PM CT, Oct. 21 </p> 
- [India's Covid Vaccine Campaign Hits 1 Billion Doses](https://www.nytimes.com/2021/10/20/world/asia/india-vaccination-covid.html) NYT: More than 70 percent of India’s adult population has now received at least one dose of a vaccine. Bulgaria, with the E.U.’s lowest vaccination rate, faces a case surge. 
  <p class="updated_time"> 02:34 PM CT, Oct. 21 </p> 
  [Enes Kanter: Boston Celtics star under fire over China comments](https://www.bbc.co.uk/news/world-asia-china-58998423?at_medium=RSS&at_campaign=KARANGA) BBC: Enes Kanter calls China's leader a "brutal dictator", while Beijing accuses him of seeking attention. 
  <p class="updated_time"> 02:31 PM CT, Oct. 21 </p> 
@@ -134,8 +142,6 @@ permalink: /charts/news/
  [Navalny, Putin’s Imprisoned Foe, Wins E.U.’s Top Human Rights Award](https://www.nytimes.com/2021/10/20/world/europe/navalny-sakharov-prize-putin-russia.html) NYT: Aleksei A. Navalny, the Russian opposition leader who survived an assassination attempt only to be jailed, received the Sakharov Prize. 
  <p class="updated_time"> 03:05 PM CT, Oct. 20 </p> 
  [Heavy Rains in India and Nepal Kill Dozens](https://www.nytimes.com/2021/10/20/world/asia/india-nepal-floods-landslides.html) NYT: The death toll continued to rise on Wednesday as landslides and flooding damaged homes and stranded thousands of people. 
- <p class="updated_time"> 03:02 PM CT, Oct. 20 </p> 
- [Your Thursday Briefing](https://www.nytimes.com/2021/10/20/briefing/russia-covid-pollution-fossil-fuels-evergrande.html) NYT: Russia’s ‘non-working’ week. 
  <p class="updated_time"> 02:46 PM CT, Oct. 20 </p> 
  [Paris Hilton: I couldn't sleep for 20 years from memories of youth care abuse](https://www.bbc.co.uk/news/world-us-canada-58988263?at_medium=RSS&at_campaign=KARANGA) BBC: Paris Hilton alleges she was strangled, slapped and watched in the shower while in a youth care facility. 
  <p class="updated_time"> 02:15 PM CT, Oct. 20 </p> 
@@ -146,12 +152,8 @@ permalink: /charts/news/
  [Ancient-DNA Researchers Set Ethics Guidelines for Their Work](https://www.nytimes.com/2021/10/20/science/ancient-dna-archaeology-ethics.html) NYT: New, international standards for handling ancient genetic material draw support from many scientists, criticism from others. 
  <p class="updated_time"> 01:54 PM CT, Oct. 20 </p> 
  [Egypt imposes a vaccine mandate for all government workers and university students.](https://www.nytimes.com/2021/10/20/world/egypt-covid-vaccine-mandate.html) NYT: Officials expect major deliveries of doses by the end of the month to speed up the country’s vaccination efforts. 
- <p class="updated_time"> 01:13 PM CT, Oct. 20 </p> 
- [Britain Resists Calls to Introduce Covid Restrictions](https://www.nytimes.com/2021/10/20/world/europe/britain-covid-cases.html) NYT: The number of new cases in Britain is among the highest in the world, but the government has said there is no need to impose indoor mask mandates or other restrictions. 
  <p class="updated_time"> 12:54 PM CT, Oct. 20 </p> 
  [All Afghans have the right to a passport - Taliban](https://www.bbc.co.uk/news/world-asia-58989021?at_medium=RSS&at_campaign=KARANGA) BBC: But sports personalities, people seeking medical treatment or wanting to study abroad will be prioritised. 
- <p class="updated_time"> 12:48 PM CT, Oct. 20 </p> 
- [Russia Introduces Weeklong Office Shutdown After Covid Deaths Rise](https://www.nytimes.com/2021/10/20/world/europe/russia-covid-restrictions.html) NYT: The measure, meant to slow the spread of the coronavirus, is short of a full lockdown and only affects nonessential workers. 
  <p class="updated_time"> 12:29 PM CT, Oct. 20 </p> 
  [Britain Outlines Energy Plans Amid Dimming Prospects for Climate Summit](https://www.nytimes.com/2021/10/19/world/europe/britain-climate-change-cop26.html) NYT: In an effort to recapture momentum, Prime Minister Boris Johnson  announced a host of measures, including plans for a big expansion of electric vehicles, more offshore wind power and greater use of hydrogen. 
  <p class="updated_time"> 11:46 AM CT, Oct. 20 </p> 
