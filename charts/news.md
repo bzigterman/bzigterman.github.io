@@ -10,6 +10,8 @@ permalink: /charts/news/
  [COP26: Document leak reveals nations lobbying to change key climate report](https://www.bbc.co.uk/news/science-environment-58982445?at_medium=RSS&at_campaign=KARANGA) BBC: Countries are asking the UN to play down the need to move rapidly away from fossil fuels. 
  <p class="updated_time"> 12:25 AM CT, Oct. 21 </p> 
  [Covid vaccine: India administers more than one billion Covid jabs](https://www.bbc.co.uk/news/world-asia-india-56345591?at_medium=RSS&at_campaign=KARANGA) BBC: But experts say the pace needs to pick up for India to meet its target of vaccinating all adults by 2021. 
+ <p class="updated_time"> 12:17 AM CT, Oct. 21 </p> 
+ [Squid's Victory? China streaming site accused of copying Squid Game](https://www.bbc.co.uk/news/world-asia-china-58991127?at_medium=RSS&at_campaign=KARANGA) BBC: Chinese streaming site Youku said that it was just a "draft" poster, but netizens weren't convinced. 
  <p class="updated_time"> 12:04 AM CT, Oct. 21 </p> 
  [Evergrande shares fall 14% as trading resumes in Hong Kong](https://www.bbc.co.uk/news/business-58976991?at_medium=RSS&at_campaign=KARANGA) BBC: Shares of the Chinese property giant fell as much as 14% on Thursday morning in Hong Kong. 
  <p class="updated_time"> 11:48 PM CT, Oct. 20 </p> 
@@ -146,8 +148,6 @@ permalink: /charts/news/
  [Myanmar: Mass release of political prisoners](https://www.bbc.co.uk/news/world-asia-58976296?at_medium=RSS&at_campaign=KARANGA) BBC: Some of the political prisoners released by the authorities in Myanmar describe how they endured life in jail. 
  <p class="updated_time"> 06:18 PM CT, Oct. 19 </p> 
  [The US suburban couple accused of a bungled treason plot](https://www.bbc.co.uk/news/world-us-canada-58920970?at_medium=RSS&at_campaign=KARANGA) BBC: The Toebbes seemed to have everything - so why did they allegedly try to sell nuclear secrets? 
- <p class="updated_time"> 06:10 PM CT, Oct. 19 </p> 
- [The Indian women widowed by Covid-19](https://www.bbc.co.uk/news/business-58149183?at_medium=RSS&at_campaign=KARANGA) BBC: In India, Covid has widowed thousands of women, who are now struggling to adjust to a new life. 
  <p class="updated_time"> 06:07 PM CT, Oct. 19 </p> 
  [When a cobra became a murder weapon in India](https://www.bbc.co.uk/news/world-asia-india-58947068?at_medium=RSS&at_campaign=KARANGA) BBC: A 28-year-old man killed his wife using a cobra, in what prosecutors say is the first crime of its kind. 
  <p class="updated_time"> 05:13 PM CT, Oct. 19 </p> 
