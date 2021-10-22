@@ -17,7 +17,7 @@ permalink: /charts/news/
  <p class="updated_time"> 03:07 PM CT, Oct. 22 </p> 
  [Alberta Investigation of Environmental Groups Falls Flat](https://www.nytimes.com/2021/10/22/world/canada/alberta-energy-inquiry.html) NYT: The report from a provincial inquiry into “anti-Alberta energy campaigns” didn’t back up Premier Jason Kenney’s allegations. 
  <p class="updated_time"> 03:06 PM CT, Oct. 22 </p> 
- [Middle East: Deadly Palestinian and Israeli clash](https://www.bbc.co.uk/news/world-59016195?at_medium=RSS&at_campaign=KARANGA) BBC: Eight people have been killed and hundreds injured in protests at the occupied West Bank. 
+ [Middle East: Palestinians and Israelis clash over hillside](https://www.bbc.co.uk/news/world-59016195?at_medium=RSS&at_campaign=KARANGA) BBC: Eight people have been killed and hundreds injured in protests at the occupied West Bank. 
  <p class="updated_time"> 03:02 PM CT, Oct. 22 </p> 
  [U.S. Ramps Up Covid Boosters as Poor Nations Await First Doses](https://www.nytimes.com/2021/10/22/world/covid-vaccine-disparities.html) NYT: The booster program underlines the disparity in vaccine access, with wealthier nations accounting for more than three-quarters of all doses administered so far. 
  <p class="updated_time"> 02:55 PM CT, Oct. 22 </p> 
