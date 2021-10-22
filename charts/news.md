@@ -6,6 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 03:21 PM CT, Oct. 22 </p> 
+ [Israel Accuses 6 Palestinian Rights Groups of Terrorism](https://www.nytimes.com/2021/10/22/world/middleeast/israel-palestinian-rights-groups.html) NYT: The Defense Ministry said the groups work for leftist militants. Critics said the charge was aimed at quelling scrutiny of Israeli rights abuses. 
  <p class="updated_time"> 03:18 PM CT, Oct. 22 </p> 
  [Barbados Elects Its First Head of State, Replacing Queen Elizabeth](https://www.nytimes.com/2021/10/22/world/americas/sandra-mason-barbados.html) NYT: The country’s Parliament chose Sandra Mason, the governor general, to assume the symbolic title, a decisive move to distance itself from Barbados’s colonial past. 
  <p class="updated_time"> 03:07 PM CT, Oct. 22 </p> 
@@ -43,7 +45,7 @@ permalink: /charts/news/
  <p class="updated_time"> 12:28 PM CT, Oct. 22 </p> 
  [‘Needle Spiking’ of Women in Britain Stirs Alarm Over New Kind of Assault](https://www.nytimes.com/2021/10/22/world/europe/needle-spiking-uk.html) NYT: Women are reporting being injected with syringes at crowded clubs in a horrifying variation of dropping pill into drinks. “This is a new depth,’’ said a former chief of police. 
  <p class="updated_time"> 12:23 PM CT, Oct. 22 </p> 
- [‘Morally, They Are Lost’: Gangs in Haiti, Breaking a Taboo, Target the Church](https://www.nytimes.com/2021/10/22/world/americas/haiti-gangs-church.html) NYT: A French priest in Haiti recalls his kidnapping by 400 Mawozo, the same gang holding 16 Americans and a Canadian, including children, for ransom. 
+ [Gangs in Haiti, Breaking a Taboo, Target the Church](https://www.nytimes.com/2021/10/22/world/americas/haiti-gangs-church.html) NYT: A French priest in Haiti recalls his kidnapping by 400 Mawozo, the same gang holding 16 Americans and a Canadian, including children, for ransom. 
  <p class="updated_time"> 11:22 AM CT, Oct. 22 </p> 
  [Poland’s Attacks on Rule of Law Leave Europe at Odds With Itself](https://www.nytimes.com/2021/10/22/world/europe/eu-poland-rule-of-law.html) NYT: E.U. leaders are facing an increasingly urgent question: What to do with a member that repeatedly violates a core principle, but refuses to leave the club? 
  <p class="updated_time"> 11:20 AM CT, Oct. 22 </p> 
@@ -178,8 +180,6 @@ permalink: /charts/news/
  [Blinken Cites ‘Democratic Reckoning’ in South America](https://www.nytimes.com/2021/10/20/world/americas/blinken-democracy-south-america.html) NYT: Secretary of State Antony Blinken warned of an eroding trust in democracy in the Western Hemisphere and described challenges posed to open government by authoritarian leaders. 
  <p class="updated_time"> 04:15 PM CT, Oct. 20 </p> 
  [Brazil Senate’s Pandemic Panel, in Last-Minute Shift, Softened Criminal Recommendations on Bolsonaro](https://www.nytimes.com/2021/10/20/world/americas/bolsonaro-pandemic-inquiry-crimes.html) NYT: Senators on the 11-member panel had second thoughts about the provability of homicide and genocide charges. Instead, they accused the president of “crimes against humanity.” 
- <p class="updated_time"> 02:15 PM CT, Oct. 20 </p> 
- [Gates Foundation Pledges $120 Million to Help Get Merck Covid Pills to Poor Countries](https://www.nytimes.com/2021/10/20/health/covid-molnupiravir-gates-foundation.html) NYT: Regulatory hurdles and supply chain issues could slow efforts to produce generic versions of Merck’s antiviral molnupiravir for developing nations, despite licensing agreements. 
  <p class="updated_time"> 02:11 PM CT, Oct. 20 </p> 
  [Iran Plans to Abandon One of Its Homegrown Covid Shots](https://www.nytimes.com/2021/10/20/world/middleeast/iran-covid-vaccine-fakhravac.html) NYT: The defense ministry said there was too little demand for its Fakhravac vaccine to justify producing it, and blamed the health ministry for reneging on promised orders. 
  <p class="updated_time"> 01:58 PM CT, Oct. 20 </p> 
