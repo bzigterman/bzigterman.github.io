@@ -6,7 +6,9 @@ permalink: /charts/news/
 
 ## World News
 
- <p class="updated_time"> 02:48 PM CT, Oct. 22 </p> 
+ <p class="updated_time"> 02:55 PM CT, Oct. 22 </p> 
+ [Amanda Knox Was Exonerated. That Doesn’t Mean She’s Free.](https://www.nytimes.com/2021/10/22/style/amanda-knox-ten-years-later.html) NYT: Ten years after being cleared of a heinous crime, she is still trying to tell her story on her own terms. 
+ <p class="updated_time"> 02:51 PM CT, Oct. 22 </p> 
  [U.S. Ramps Up Covid Boosters as Poor Nations Await First Doses](https://www.nytimes.com/2021/10/22/world/covid-vaccine-disparities.html) NYT: The booster program underlines the disparity in vaccine access, with wealthier nations accounting for more than three-quarters of all doses administered so far. 
  <p class="updated_time"> 02:31 PM CT, Oct. 22 </p> 
  [World's Health Care Workers Near Breaking Point, W.H.O warns](https://www.nytimes.com/2021/10/21/world/health-care-workers-burnout-who.html) NYT: The agency’s leaders also urged wealthy nations to take the lead in transferring doses of vaccines to the global South. 
@@ -38,8 +40,6 @@ permalink: /charts/news/
  [‘Needle Spiking’ of Women in Britain Stirs Alarm Over New Kind of Assault](https://www.nytimes.com/2021/10/22/world/europe/needle-spiking-uk.html) NYT: Women are reporting being injected with syringes at crowded clubs in a horrifying variation of dropping pill into drinks. “This is a new depth,’’ said a former chief of police. 
  <p class="updated_time"> 12:23 PM CT, Oct. 22 </p> 
  [‘Morally, They Are Lost’: Gangs in Haiti, Breaking a Taboo, Target the Church](https://www.nytimes.com/2021/10/22/world/americas/haiti-gangs-church.html) NYT: A French priest in Haiti recalls his kidnapping by 400 Mawozo, the same gang holding 16 Americans and a Canadian, including children, for ransom. 
- <p class="updated_time"> 12:04 PM CT, Oct. 22 </p> 
- [Amanda Knox Was Exonerated. That Doesn’t Mean She’s Free.](https://www.nytimes.com/2021/10/22/style/amanda-knox-ten-years-later.html) NYT: Ten years after being cleared of a heinous crime, she is still trying to tell her story on her own terms. 
  <p class="updated_time"> 11:22 AM CT, Oct. 22 </p> 
  [Poland’s Attacks on Rule of Law Leave Europe at Odds With Itself](https://www.nytimes.com/2021/10/22/world/europe/eu-poland-rule-of-law.html) NYT: E.U. leaders are facing an increasingly urgent question: What to do with a member that repeatedly violates a core principle, but refuses to leave the club? 
  <p class="updated_time"> 11:20 AM CT, Oct. 22 </p> 
