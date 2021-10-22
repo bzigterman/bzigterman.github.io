@@ -6,6 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 01:54 PM CT, Oct. 22 </p> 
+ [Russia Strengthens Its Internet Censorship Powers](https://www.nytimes.com/2021/10/22/technology/russia-internet-censorship-putin.html) NYT: Quietly built over two years, the Kremlin’s censorship infrastructure gives it sweeping power to block sites. Many fear a new age of digital isolation. 
  <p class="updated_time"> 01:40 PM CT, Oct. 22 </p> 
  [Shot cinematographer Hutchins 'an incredible artist'](https://www.bbc.co.uk/news/entertainment-arts-59007724?at_medium=RSS&at_campaign=KARANGA) BBC: Halyna Hutchins, who has died on a film set, had been named an American Cinematographer rising star. 
  <p class="updated_time"> 01:30 PM CT, Oct. 22 </p> 
@@ -40,8 +42,6 @@ permalink: /charts/news/
  [EU leaders give Merkel an ovation at final summit](https://www.bbc.co.uk/news/world-europe-59008892?at_medium=RSS&at_campaign=KARANGA) BBC: Chancellor Merkel bows out from her role at the EU's helm, praised as Europe's "compass". 
  <p class="updated_time"> 10:34 AM CT, Oct. 22 </p> 
  [Ohio mocked over wrong Wright brothers number plates](https://www.bbc.co.uk/news/world-us-canada-59008039?at_medium=RSS&at_campaign=KARANGA) BBC: The commemorative plate depicted a banner mistakenly attached to the front end of the historic plane. 
- <p class="updated_time"> 10:33 AM CT, Oct. 22 </p> 
- [Russia Strengthens Its Internet Censorship Powers](https://www.nytimes.com/2021/10/22/technology/russia-internet-censorship-putin.html) NYT: Quietly built over two years, the Kremlin’s censorship infrastructure gives it sweeping power to block sites. Many fear a new age of digital isolation. 
  <p class="updated_time"> 10:19 AM CT, Oct. 22 </p> 
  [Melbourne, 262 Days in Lockdown, Celebrates a Reopening](https://www.nytimes.com/2021/10/22/world/australia/melbourne-covid-lockdown-reopening.html) NYT: After hitting a vaccination target, Australia’s second largest city now has many fewer restrictions. 
  <p class="updated_time"> 09:45 AM CT, Oct. 22 </p> 
