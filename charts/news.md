@@ -6,7 +6,7 @@ permalink: /charts/news/
 
 ## World News
 
- <p class="updated_time"> 11:42 PM CT, Oct. 21 </p> 
+ <p class="updated_time"> 12:04 AM CT, Oct. 22 </p> 
  [Biden says US will defend Taiwan if China attacks](https://www.bbc.co.uk/news/world-asia-59005300?at_medium=RSS&at_campaign=KARANGA) BBC: His comments are an apparent departure from the long-held US policy of "strategic ambiguity". 
  <p class="updated_time"> 11:41 PM CT, Oct. 21 </p> 
  [Alec Baldwin fatally shoots woman with prop gun on movie set](https://www.bbc.co.uk/news/world-us-canada-59005500?at_medium=RSS&at_campaign=KARANGA) BBC: A man is also being treated in hospital after the firearm was discharged on set in New Mexico. 
