@@ -6,7 +6,7 @@ permalink: /charts/news/
 
 ## World News
 
- <p class="updated_time"> 01:19 AM CT, Oct. 22 </p> 
+ <p class="updated_time"> 02:02 AM CT, Oct. 22 </p> 
  [Biden says US will defend Taiwan if China attacks](https://www.bbc.co.uk/news/world-asia-59005300?at_medium=RSS&at_campaign=KARANGA) BBC: His comments are an apparent departure from the long-held US position of "strategic ambiguity". 
  <p class="updated_time"> 12:38 AM CT, Oct. 22 </p> 
  [N.I.H. Says Bat Research Group Failed to Submit Prompt Virus Findings](https://www.nytimes.com/2021/10/21/science/bats-covid-lab-leak-nih.html) NYT: The federal agency told a G.O.P. House member that it had notified EcoHealth Alliance, a group criticized for its U.S.-funded work with Wuhan scientists, to file data within five days. 
@@ -29,7 +29,7 @@ permalink: /charts/news/
  <p class="updated_time"> 08:43 PM CT, Oct. 21 </p> 
  [Brian Laundrie: Remains of Gabby Petito's fiancé found - FBI](https://www.bbc.co.uk/news/world-us-canada-59004831?at_medium=RSS&at_campaign=KARANGA) BBC: A skull was reportedly found in the hunt for Brian Laundrie, a person of interest in Gabby Petito's death. 
  <p class="updated_time"> 08:26 PM CT, Oct. 21 </p> 
- [One of world's last northern white rhinos retired from breeding scheme](https://www.bbc.co.uk/news/world-africa-59005006?at_medium=RSS&at_campaign=KARANGA) BBC: Najin, 32, has been part of a programme in Kenya trying to save her species from extinction. 
+ [Kenyan northern white rhino Najin retired from breeding scheme](https://www.bbc.co.uk/news/world-africa-59005006?at_medium=RSS&at_campaign=KARANGA) BBC: Najin, 32, has been part of a programme in Kenya trying to save her species from extinction. 
  <p class="updated_time"> 08:16 PM CT, Oct. 21 </p> 
  [Crime-hit Chicago grapples with police vaccine revolt](https://www.bbc.co.uk/news/world-us-canada-58989555?at_medium=RSS&at_campaign=KARANGA) BBC: Vaccination rates have lagged among US police, even as Covid-19 becomes their leading cause of death. 
  <p class="updated_time"> 07:58 PM CT, Oct. 21 </p> 
