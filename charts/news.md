@@ -6,8 +6,10 @@ permalink: /charts/news/
 
 ## World News
 
- <p class="updated_time"> 10:32 PM CT, Oct. 21 </p> 
+ <p class="updated_time"> 11:04 PM CT, Oct. 21 </p> 
  [Alec Baldwin fatally shoots woman with prop gun on movie set](https://www.bbc.co.uk/news/world-us-canada-59005500?at_medium=RSS&at_campaign=KARANGA) BBC: A man is also being treated in hospital after the firearm was discharged on set in New Mexico. 
+ <p class="updated_time"> 10:59 PM CT, Oct. 21 </p> 
+ [Your Friday Briefing](https://www.nytimes.com/2021/10/21/briefing/climate-change-donald-trump.html) NYT: The geopolitical risks of climate change. 
  <p class="updated_time"> 10:19 PM CT, Oct. 21 </p> 
  [Evergrande shares rise on report of bond interest payment](https://www.bbc.co.uk/news/business-58991340?at_medium=RSS&at_campaign=KARANGA) BBC: Shares opened up 6% after reports the Chinese property giant made a payment before a crucial deadline. 
  <p class="updated_time"> 09:54 PM CT, Oct. 21 </p> 
@@ -42,8 +44,6 @@ permalink: /charts/news/
  [Why the Newcastle United takeover is controversial](https://www.bbc.co.uk/news/world-middle-east-58930311?at_medium=RSS&at_campaign=KARANGA) BBC: Here are some of the reasons why the Saudi-led consortium has proved controversial. 
  <p class="updated_time"> 06:17 PM CT, Oct. 21 </p> 
  [Canadians hurt slipping in snow can now sue cities](https://www.bbc.co.uk/news/world-us-canada-59004529?at_medium=RSS&at_campaign=KARANGA) BBC: The Supreme Court rules in favour of a woman who was injured climbing a snowbank in British Columbia. 
- <p class="updated_time"> 06:10 PM CT, Oct. 21 </p> 
- [They Fought Apartheid in South Africa. Now They Want Veterans’ Benefits.](https://www.nytimes.com/2021/10/19/world/africa/south-africa-apartheid-veterans-liberation-struggle.html) NYT: A protest movement by those who took up arms against apartheid has grown confrontational. More than 50 of them have been charged with kidnapping the country’s defense minister. 
  <p class="updated_time"> 06:10 PM CT, Oct. 21 </p> 
  [In Haiti, Gangs Gain Power as Security Vacuum Grows](https://www.nytimes.com/2021/10/21/world/americas/haiti-gangs-kidnapping.html) NYT: Gangs have long held sway in the country, but their dominance has expanded in recent years and the government has been accused of using them as tools of repression. 
  <p class="updated_time"> 06:07 PM CT, Oct. 21 </p> 
