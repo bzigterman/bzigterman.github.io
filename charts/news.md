@@ -6,6 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 09:25 PM CT, Oct. 21 </p> 
+ [Haitian Kidnappers Threaten to Kill Missionaries](https://www.nytimes.com/2021/10/21/world/americas/haiti-missionary-kidnapping-threat.html) NYT: As negotiators worked to secure the release of 17 people associated with an Ohio-based missionary group, their kidnappers released a video threatening their lives. 
  <p class="updated_time"> 08:44 PM CT, Oct. 21 </p> 
  [Canada Settles on a Single 'Vaccine Passport' for Travel](https://www.nytimes.com/2021/10/21/world/canada-vaccine-passport-travel.html) NYT: The document, already in use in five of the country’s 10 provinces and all three of its territories, will replace a patchwork of programs across Canada. 
  <p class="updated_time"> 08:43 PM CT, Oct. 21 </p> 
@@ -22,8 +24,6 @@ permalink: /charts/news/
  [N.I.H. Says Bat Research Group Failed to Submit Prompt Virus Findings](https://www.nytimes.com/2021/10/21/science/bats-covid-lab-leak-nih.html) NYT: The federal agency told a G.O.P. House member that it had notified EcoHealth Alliance, a group criticized for its U.S.-funded work with Wuhan scientists, to file data within five days. 
  <p class="updated_time"> 07:23 PM CT, Oct. 21 </p> 
  [Melbourne: Celebrations as city exits sixth lockdown](https://www.bbc.co.uk/news/world-australia-58998418?at_medium=RSS&at_campaign=KARANGA) BBC: Australia's second largest city has seen over 260 days under restrictions in the pandemic so far. 
- <p class="updated_time"> 06:54 PM CT, Oct. 21 </p> 
- [Haitian Kidnappers Threaten to Kill Missionaries](https://www.nytimes.com/2021/10/21/world/americas/haiti-missionary-kidnapping-threat.html) NYT: As negotiators worked to secure the release of 17 people associated with an Ohio-based missionary group, their kidnappers released a video threatening their lives. 
  <p class="updated_time"> 06:51 PM CT, Oct. 21 </p> 
  [How Belarus is helping ‘tourists’ break into the EU](https://www.bbc.co.uk/news/world-58952867?at_medium=RSS&at_campaign=KARANGA) BBC: Belarus is accused of taking revenge for EU sanctions by offering migrants tourist visas, and helping them across its border. 
  <p class="updated_time"> 06:48 PM CT, Oct. 21 </p> 
