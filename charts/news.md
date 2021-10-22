@@ -6,10 +6,16 @@ permalink: /charts/news/
 
 ## World News
 
- <p class="updated_time"> 11:01 AM CT, Oct. 22 </p> 
- [Alec Baldwin 'shock and sadness' at film-set death](https://www.bbc.co.uk/news/world-us-canada-59015889?at_medium=RSS&at_campaign=KARANGA) BBC: Director of photography Halyna Hutchins was killed by a prop gun fired by the actor in New Mexico. 
- <p class="updated_time"> 10:51 AM CT, Oct. 22 </p> 
+ <p class="updated_time"> 11:25 AM CT, Oct. 22 </p> 
+ [Alec Baldwin 'heartbroken' over fatal film set shooting](https://www.bbc.co.uk/news/world-us-canada-59015889?at_medium=RSS&at_campaign=KARANGA) BBC: Director of photography Halyna Hutchins was killed by a prop gun fired by the actor in New Mexico. 
+ <p class="updated_time"> 11:22 AM CT, Oct. 22 </p> 
+ [Poland’s Attacks on Rule of Law Leave Europe at Odds With Itself](https://www.nytimes.com/2021/10/22/world/europe/eu-poland-rule-of-law.html) NYT: E.U. leaders are facing an increasingly urgent question: What to do with a member that repeatedly violates a core principle, but refuses to leave the club? 
+ <p class="updated_time"> 11:20 AM CT, Oct. 22 </p> 
+ [Robert Durst charged with murder of ex-wife who vanished in 1982](https://www.bbc.co.uk/news/world-us-canada-59015482?at_medium=RSS&at_campaign=KARANGA) BBC: The jailed real estate heir is facing a new second-degree murder charge, authorities say. 
+ <p class="updated_time"> 11:19 AM CT, Oct. 22 </p> 
  [Amanda Knox Was Exonerated. That Doesn’t Mean She’s Free.](https://www.nytimes.com/2021/10/22/style/amanda-knox-ten-years-later.html) NYT: Ten years after being cleared of a heinous crime, she is still trying to tell her story on her own terms. 
+ <p class="updated_time"> 10:48 AM CT, Oct. 22 </p> 
+ [EU leaders give Merkel an ovation at final summit](https://www.bbc.co.uk/news/world-europe-59008892?at_medium=RSS&at_campaign=KARANGA) BBC: Chancellor Merkel bows out from her role at the EU's helm, praised as Europe's "compass". 
  <p class="updated_time"> 10:38 AM CT, Oct. 22 </p> 
  [Eswatini protests: Nurses refuse to treat police after colleagues shot](https://www.bbc.co.uk/news/world-africa-59011033?at_medium=RSS&at_campaign=KARANGA) BBC: The health workers say security forces injured 30 colleagues when they opened fire at a protest. 
  <p class="updated_time"> 10:34 AM CT, Oct. 22 </p> 
@@ -22,8 +28,6 @@ permalink: /charts/news/
  [Pfizer Says Its Vaccine Is Highly Effective in 5- to 11-Year-Olds](https://www.nytimes.com/2021/10/22/us/politics/pfizer-vaccine-children-covid.html) NYT: The companies reported that a lower dose of the vaccine had a 90.7 percent efficacy rate in preventing symptomatic Covid-19 in a clinical trial. 
  <p class="updated_time"> 09:45 AM CT, Oct. 22 </p> 
  [Students sue Texas school district for banning long hair on boys](https://www.bbc.co.uk/news/world-us-canada-59013608?at_medium=RSS&at_campaign=KARANGA) BBC: Students were suspended and barred from school activities for wearing long hair, the suit says. 
- <p class="updated_time"> 09:18 AM CT, Oct. 22 </p> 
- [Poland’s Attacks on Rule of Law Leave Europe at Odds With Itself](https://www.nytimes.com/2021/10/22/world/europe/eu-poland-rule-of-law.html) NYT: E.U. leaders are facing an increasingly urgent question: What to do with a member that repeatedly violates a core principle, but refuses to leave the club? 
  <p class="updated_time"> 09:04 AM CT, Oct. 22 </p> 
  [Alec Baldwin: What are prop guns and why are they dangerous?](https://www.bbc.co.uk/news/world-us-canada-59006905?at_medium=RSS&at_campaign=KARANGA) BBC: An incident involving US actor Alec Baldwin puts the spotlight on an item often used on film sets. 
  <p class="updated_time"> 08:23 AM CT, Oct. 22 </p> 
@@ -82,8 +86,6 @@ permalink: /charts/news/
  [New Zealand Wants a 90% Vaccination Rate. Its Street Gangs May Hold the Key.](https://www.nytimes.com/2021/10/22/world/australia/new-zealand-vaccination-gangs.html) NYT: The country’s leaders have set aside some misgivings and cooperated with gang leaders to reach their communities. 
  <p class="updated_time"> 12:32 AM CT, Oct. 22 </p> 
  [Li Yundi: China's 'Piano Prince' detained for hiring prostitute](https://www.bbc.co.uk/news/world-asia-china-59005937?at_medium=RSS&at_campaign=KARANGA) BBC: Observers said his detention could be seen as a warning to other "immoral" celebrities. 
- <p class="updated_time"> 10:19 PM CT, Oct. 21 </p> 
- [Evergrande shares rise on report of bond interest payment](https://www.bbc.co.uk/news/business-58991340?at_medium=RSS&at_campaign=KARANGA) BBC: Shares opened up 6% after reports the Chinese property giant made a payment before a crucial deadline. 
  <p class="updated_time"> 09:54 PM CT, Oct. 21 </p> 
  [Searching for Australia’s Climate Tipping Point](https://www.nytimes.com/2021/10/21/world/australia/climate-change-tipping-point.html) NYT: The world, and most Australians, are increasingly disappointed by Australia’s lackluster approach to addressing climate change. 
  <p class="updated_time"> 09:49 PM CT, Oct. 21 </p> 
