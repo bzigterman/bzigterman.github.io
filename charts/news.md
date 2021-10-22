@@ -6,16 +6,20 @@ permalink: /charts/news/
 
 ## World News
 
- <p class="updated_time"> 09:53 AM CT, Oct. 22 </p> 
+ <p class="updated_time"> 10:19 AM CT, Oct. 22 </p> 
+ [Melbourne, 262 Days in Lockdown, Celebrates a Reopening](https://www.nytimes.com/2021/10/22/world/australia/melbourne-covid-lockdown-reopening.html) NYT: After hitting a vaccination target, Australia’s second largest city now has many fewer restrictions. 
+ <p class="updated_time"> 10:00 AM CT, Oct. 22 </p> 
  [Pfizer Says Its Vaccine Is Highly Effective in 5- to 11-Year-Olds](https://www.nytimes.com/2021/10/22/us/politics/pfizer-vaccine-children-covid.html) NYT: The companies reported that a lower dose of the vaccine had a 90.7 percent efficacy rate in preventing symptomatic Covid-19 in a clinical trial. 
+ <p class="updated_time"> 09:56 AM CT, Oct. 22 </p> 
+ [Alec Baldwin fatally shoots woman with prop gun on movie set](https://www.bbc.co.uk/news/world-us-canada-59005500?at_medium=RSS&at_campaign=KARANGA) BBC: A man is also being treated in hospital after the firearm was discharged on set in New Mexico. 
+ <p class="updated_time"> 09:45 AM CT, Oct. 22 </p> 
+ [Students sue Texas school district for banning long hair on boys](https://www.bbc.co.uk/news/world-us-canada-59013608?at_medium=RSS&at_campaign=KARANGA) BBC: Students were suspended and barred from school activities for wearing long hair, the suit says. 
  <p class="updated_time"> 09:24 AM CT, Oct. 22 </p> 
  [Eswatini protests: Nurses refuse to treat police after colleagues shot](https://www.bbc.co.uk/news/world-africa-59011033?at_medium=RSS&at_campaign=KARANGA) BBC: The health workers say security forces injured 30 colleagues when they opened fire at a protest. 
  <p class="updated_time"> 09:18 AM CT, Oct. 22 </p> 
  [Poland’s Attacks on Rule of Law Leave Europe at Odds With Itself](https://www.nytimes.com/2021/10/22/world/europe/eu-poland-rule-of-law.html) NYT: E.U. leaders are facing an increasingly urgent question: What to do with a member that repeatedly violates a core principle, but refuses to leave the club? 
  <p class="updated_time"> 09:04 AM CT, Oct. 22 </p> 
  [Alec Baldwin: What are prop guns and why are they dangerous?](https://www.bbc.co.uk/news/world-us-canada-59006905?at_medium=RSS&at_campaign=KARANGA) BBC: An incident involving US actor Alec Baldwin puts the spotlight on an item often used on film sets. 
- <p class="updated_time"> 08:30 AM CT, Oct. 22 </p> 
- [Melbourne, 262 Days in Lockdown, Celebrates a Reopening](https://www.nytimes.com/2021/10/22/world/australia/melbourne-covid-lockdown-reopening.html) NYT: After hitting a vaccination target, Australia’s second largest city now has many fewer restrictions. 
  <p class="updated_time"> 08:23 AM CT, Oct. 22 </p> 
  [World's Health Care Workers Near Breaking Point, W.H.O warns](https://www.nytimes.com/2021/10/21/world/health-care-workers-burnout-who.html) NYT: The agency’s leaders also urged wealthy nations to take the lead in transferring doses of vaccines to the global South. 
  <p class="updated_time"> 08:20 AM CT, Oct. 22 </p> 
@@ -34,6 +38,10 @@ permalink: /charts/news/
  [Mozambique: Tuskless elephant evolution linked to ivory hunting](https://www.bbc.co.uk/news/world-africa-59008037?at_medium=RSS&at_campaign=KARANGA) BBC: Scientists say poaching during Mozambique's civil war led to more females being born without tusks. 
  <p class="updated_time"> 06:20 AM CT, Oct. 22 </p> 
  [Putin Won’t Go to Glasgow for Climate Conference](https://www.nytimes.com/2021/10/20/world/europe/putin-glasgow-climate-conference-cop26.html) NYT: President Vladimir V. Putin of Russia may make a speech by video at the United Nations summit, which is seen as pivotal in efforts to stem climate change. 
+ <p class="updated_time"> 06:11 AM CT, Oct. 22 </p> 
+ [Service-Sector Strength Aids Global Growth](https://www.wsj.com/articles/supply-chain-bottlenecks-crimp-global-growth-boost-inflation-11634899014) WSJ: Supply-chain bottlenecks persist, but an easing of the Delta variant of Covid-19 has boosted growth in the U.S., Japan and Australia. 
+ <p class="updated_time"> 06:05 AM CT, Oct. 22 </p> 
+ [U.S., Allies Try to Move Beyond Disputes Over Afghanistan, Submarine Contract](https://www.wsj.com/articles/u-s-allies-try-to-move-beyond-disputes-over-afghanistan-submarine-contract-11634915159) WSJ: NATO defense ministers agreed to a new plan to defend Europe in case of a Russian attack and sought to ease tensions over Europe’s efforts to equip itself for more independent military action. 
  <p class="updated_time"> 05:50 AM CT, Oct. 22 </p> 
  [Russia Strengthens Its Internet Censorship Powers](https://www.nytimes.com/2021/10/22/technology/russia-internet-censorship-putin.html) NYT: Quietly built over two years, the Kremlin’s censorship infrastructure gives it sweeping power to block sites. Many fear a new age of digital isolation. 
  <p class="updated_time"> 05:36 AM CT, Oct. 22 </p> 
@@ -42,8 +50,6 @@ permalink: /charts/news/
  [An Arctic Dispatch](https://www.nytimes.com/2021/10/22/briefing/russia-climate-change-arctic.html) NYT: We visit a Russian town on the Arctic Ocean that sees climate change as an economic opportunity. 
  <p class="updated_time"> 05:21 AM CT, Oct. 22 </p> 
  [France to pay 38m citizens €100 each to ease costs](https://www.bbc.co.uk/news/world-europe-59008890?at_medium=RSS&at_campaign=KARANGA) BBC: The one-off payment to lower-income groups is prompted by the spike in fuel and energy prices. 
- <p class="updated_time"> 04:26 AM CT, Oct. 22 </p> 
- [Alec Baldwin fatally shoots woman with prop gun on movie set](https://www.bbc.co.uk/news/world-us-canada-59005500?at_medium=RSS&at_campaign=KARANGA) BBC: A man is also being treated in hospital after the firearm was discharged on set in New Mexico. 
  <p class="updated_time"> 04:14 AM CT, Oct. 22 </p> 
  [Bernard Haitink: Celebrated classical conductor dies at 92](https://www.bbc.co.uk/news/entertainment-arts-59002746?at_medium=RSS&at_campaign=KARANGA) BBC: Bernard Haitink led the world's top orchestras in London, Amsterdam, Chicago and Dresden. 
  <p class="updated_time"> 04:06 AM CT, Oct. 22 </p> 
@@ -70,8 +76,6 @@ permalink: /charts/news/
  [Mass Graves Stir Anger as Libya Seeks an Elusive Peace](https://www.wsj.com/articles/mass-graves-stir-anger-as-libya-seeks-an-elusive-peace-11634905670) WSJ: Residents and U.N. investigators say a militia group controlled by two brothers began rounding up residents and carrying out extrajudicial executions as a means of suppressing opposition to their rule. 
  <p class="updated_time"> 02:13 AM CT, Oct. 22 </p> 
  [New Zealand Wants a 90% Vaccination Rate. Its Street Gangs May Hold the Key.](https://www.nytimes.com/2021/10/22/world/australia/new-zealand-vaccination-gangs.html) NYT: The country’s leaders have set aside some misgivings and cooperated with gang leaders to reach their communities. 
- <p class="updated_time"> 01:36 AM CT, Oct. 22 </p> 
- [Supply-Chain Bottlenecks Crimp Global Growth, Boost Inflation](https://www.wsj.com/articles/supply-chain-bottlenecks-crimp-global-growth-boost-inflation-11634899014) WSJ: Europe’s recovery has slowed as factories scramble for parts, but an easing of restrictions has boosted growth in japan and Australia. 
  <p class="updated_time"> 12:32 AM CT, Oct. 22 </p> 
  [Li Yundi: China's 'Piano Prince' detained for hiring prostitute](https://www.bbc.co.uk/news/world-asia-china-59005937?at_medium=RSS&at_campaign=KARANGA) BBC: Observers said his detention could be seen as a warning to other "immoral" celebrities. 
  <p class="updated_time"> 10:19 PM CT, Oct. 21 </p> 
@@ -102,8 +106,6 @@ permalink: /charts/news/
  [In Haiti, Gangs Gain Power as Security Vacuum Grows](https://www.nytimes.com/2021/10/21/world/americas/haiti-gangs-kidnapping.html) NYT: Gangs have long held sway in the country, but their dominance has expanded in recent years and the government has been accused of using them as tools of repression. 
  <p class="updated_time"> 06:05 PM CT, Oct. 21 </p> 
  [Rise in Cases and Deaths Tests Britain’s Gamble on Few Virus Restrictions](https://www.nytimes.com/2021/10/21/world/europe/britain-virus.html) NYT: The country’s grand experiment — opening up with hardly any restrictions — is facing its toughest test yet. 
- <p class="updated_time"> 06:04 PM CT, Oct. 21 </p> 
- [Steve Bannon: House votes for ex-Trump aide to face contempt charge](https://www.bbc.co.uk/news/world-us-canada-59004409?at_medium=RSS&at_campaign=KARANGA) BBC: Only nine Republicans in the chamber voted to hold Mr Bannon in contempt. 
  <p class="updated_time"> 06:02 PM CT, Oct. 21 </p> 
  [Khaby Lame: What is the secret to success for the Senegal-born TikToker?](https://www.bbc.co.uk/news/world-africa-59003020?at_medium=RSS&at_campaign=KARANGA) BBC: How the Senegalese-born 21-year-old's myth-busting of "life hacks" made him a household name. 
  <p class="updated_time"> 05:19 PM CT, Oct. 21 </p> 
@@ -146,8 +148,6 @@ permalink: /charts/news/
  [As Chinese Women Seek to Crack Male Professions, Schools Stand in the Way](https://www.nytimes.com/2021/10/21/world/asia/china-schools-gender-bias.html) NYT: In China, some academic programs accept only men or cap the number of female applicants, who often must test higher than their male counterparts. 
  <p class="updated_time"> 11:27 AM CT, Oct. 21 </p> 
  [The Webb Telescope’s Latest Stumbling Block: Its Name](https://www.nytimes.com/2021/10/20/science/webb-telescope-astronomy-homophobia.html) NYT: The long-awaited successor to the Hubble Space Telescope is scheduled to launch in December. But the NASA official for whom it is named has been accused of homophobia. 
- <p class="updated_time"> 08:23 AM CT, Oct. 21 </p> 
- [India Hits One Billion Covid-19 Vaccines Administered](https://www.wsj.com/articles/india-hits-one-billion-covid-19-vaccines-administered-11634837017) WSJ: The milestone in a once-faltering inoculation campaign signals India could begin allowing more vaccine exports to developing countries soon. 
  <p class="updated_time"> 07:29 AM CT, Oct. 21 </p> 
  [Tourists in Asia Navigate a Patchwork of Policies](https://www.nytimes.com/2021/10/21/world/asia/asia-travel-rules.html) NYT: NA 
  <p class="updated_time"> 05:21 AM CT, Oct. 21 </p> 
