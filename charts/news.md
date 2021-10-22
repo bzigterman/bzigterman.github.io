@@ -6,6 +6,10 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 03:51 PM CT, Oct. 22 </p> 
+ [‘Needle Spiking’ of Women in Britain Stirs Alarm Over New Kind of Assault](https://www.nytimes.com/2021/10/22/world/europe/needle-spiking-uk.html) NYT: Women are reporting being injected with syringes at crowded clubs in a horrifying variation of dropping pill into drinks. “This is a new depth,’’ said a former chief of police. 
+ <p class="updated_time"> 03:46 PM CT, Oct. 22 </p> 
+ [Alec Baldwin 'heartbroken' over fatal film set shooting](https://www.bbc.co.uk/news/world-us-canada-59015889?at_medium=RSS&at_campaign=KARANGA) BBC: Director of photography Halyna Hutchins was killed by a prop gun fired by the actor in New Mexico. 
  <p class="updated_time"> 03:21 PM CT, Oct. 22 </p> 
  [Israel Accuses 6 Palestinian Rights Groups of Terrorism](https://www.nytimes.com/2021/10/22/world/middleeast/israel-palestinian-rights-groups.html) NYT: The Defense Ministry said the groups work for leftist militants. Critics said the charge was aimed at quelling scrutiny of Israeli rights abuses. 
  <p class="updated_time"> 03:18 PM CT, Oct. 22 </p> 
@@ -34,16 +38,12 @@ permalink: /charts/news/
  [Renato Casaro’s Posters Capture Films’ Essential Moments](https://www.nytimes.com/2021/10/22/world/europe/renato-casaro-movie-posters.html) NYT: Renato Casaro’s hand-drawn art has hooked movie audiences around the world since the 1950s. Tarantino and Stallone are big fans. One secret to his success? “You can’t cheat.” 
  <p class="updated_time"> 01:11 PM CT, Oct. 22 </p> 
  [Eswatini protests: Nurses refuse to treat police after colleagues shot](https://www.bbc.co.uk/news/world-africa-59011033?at_medium=RSS&at_campaign=KARANGA) BBC: The health workers say security forces injured 30 colleagues when they opened fire at a protest. 
- <p class="updated_time"> 01:04 PM CT, Oct. 22 </p> 
- [Alec Baldwin 'heartbroken' over fatal film set shooting](https://www.bbc.co.uk/news/world-us-canada-59015889?at_medium=RSS&at_campaign=KARANGA) BBC: Director of photography Halyna Hutchins was killed by a prop gun fired by the actor in New Mexico. 
  <p class="updated_time"> 12:51 PM CT, Oct. 22 </p> 
  [South African ex-policewoman killed relatives and boyfriend for insurance cash](https://www.bbc.co.uk/news/world-africa-59011042?at_medium=RSS&at_campaign=KARANGA) BBC: Nomia Rosemary Ndlovu killed five family members and her boyfriend for life insurance, a court rules. 
  <p class="updated_time"> 12:43 PM CT, Oct. 22 </p> 
  [In Haiti, Gangs Gain Power as Security Vacuum Grows](https://www.nytimes.com/2021/10/21/world/americas/haiti-gangs-kidnapping.html) NYT: Gangs have long held sway in the country, but their dominance has expanded in recent years and the government has been accused of using them as tools of repression. 
  <p class="updated_time"> 12:39 PM CT, Oct. 22 </p> 
  [Pfizer Says Its Vaccine Is Highly Effective in 5- to 11-Year-Olds](https://www.nytimes.com/2021/10/22/us/politics/pfizer-vaccine-children-covid.html) NYT: The companies reported that a lower dose of the vaccine had a 90.7 percent efficacy rate in preventing symptomatic Covid-19 in a clinical trial. 
- <p class="updated_time"> 12:28 PM CT, Oct. 22 </p> 
- [‘Needle Spiking’ of Women in Britain Stirs Alarm Over New Kind of Assault](https://www.nytimes.com/2021/10/22/world/europe/needle-spiking-uk.html) NYT: Women are reporting being injected with syringes at crowded clubs in a horrifying variation of dropping pill into drinks. “This is a new depth,’’ said a former chief of police. 
  <p class="updated_time"> 12:23 PM CT, Oct. 22 </p> 
  [Gangs in Haiti, Breaking a Taboo, Target the Church](https://www.nytimes.com/2021/10/22/world/americas/haiti-gangs-church.html) NYT: A French priest in Haiti recalls his kidnapping by 400 Mawozo, the same gang holding 16 Americans and a Canadian, including children, for ransom. 
  <p class="updated_time"> 11:22 AM CT, Oct. 22 </p> 
