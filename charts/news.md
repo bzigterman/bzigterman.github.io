@@ -6,6 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 01:40 PM CT, Oct. 22 </p> 
+ [Shot cinematographer Hutchins 'an incredible artist'](https://www.bbc.co.uk/news/entertainment-arts-59007724?at_medium=RSS&at_campaign=KARANGA) BBC: Halyna Hutchins, who has died on a film set, had been named an American Cinematographer rising star. 
  <p class="updated_time"> 01:30 PM CT, Oct. 22 </p> 
  [China Evergrande Makes Payment to Dodge Default, Media Says](https://www.nytimes.com/2021/10/21/business/china-evergrande-bond-payment.html) NYT: The troubled real estate giant faced the threat of default if it didn’t meet its obligations to foreign bondholders by Saturday. 
  <p class="updated_time"> 01:25 PM CT, Oct. 22 </p> 
@@ -54,8 +56,6 @@ permalink: /charts/news/
  [N.I.H. Says Bat Research Group Failed to Submit Prompt Virus Findings](https://www.nytimes.com/2021/10/21/science/bats-covid-lab-leak-nih.html) NYT: The federal agency told a G.O.P. House member that it had notified EcoHealth Alliance, a group criticized for its U.S.-funded work with Wuhan scientists, to file data within five days. 
  <p class="updated_time"> 07:43 AM CT, Oct. 22 </p> 
  [Contrails: How tweaking flight plans can help the climate](https://www.bbc.co.uk/news/business-58769351?at_medium=RSS&at_campaign=KARANGA) BBC: Why experts say cutting contrails costs less than $1bn a year but may be worth so much more. 
- <p class="updated_time"> 06:29 AM CT, Oct. 22 </p> 
- [Shot cinematographer Hutchins 'an incredible artist'](https://www.bbc.co.uk/news/entertainment-arts-59007724?at_medium=RSS&at_campaign=KARANGA) BBC: Halyna Hutchins, who has died on a film set, had been named an American Cinematographer rising star. 
  <p class="updated_time"> 06:25 AM CT, Oct. 22 </p> 
  [DR Congo students march into parliament demanding better teacher pay](https://www.bbc.co.uk/news/world-africa-59010951?at_medium=RSS&at_campaign=KARANGA) BBC: Students march into parliament in the Democratic Republic of Congo demanding better pay for teachers. 
  <p class="updated_time"> 06:23 AM CT, Oct. 22 </p> 
