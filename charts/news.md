@@ -48,8 +48,6 @@ permalink: /charts/news/
  [South African ex-policewoman killed relatives and boyfriend for insurance cash](https://www.bbc.co.uk/news/world-africa-59011042?at_medium=RSS&at_campaign=KARANGA) BBC: Nomia Rosemary Ndlovu killed five family members and her boyfriend for life insurance, a court rules. 
  <p class="updated_time"> 12:43 PM CT, Oct. 22 </p> 
  [In Haiti, Gangs Gain Power as Security Vacuum Grows](https://www.nytimes.com/2021/10/21/world/americas/haiti-gangs-kidnapping.html) NYT: Gangs have long held sway in the country, but their dominance has expanded in recent years and the government has been accused of using them as tools of repression. 
- <p class="updated_time"> 12:39 PM CT, Oct. 22 </p> 
- [Pfizer Says Its Vaccine Is Highly Effective in 5- to 11-Year-Olds](https://www.nytimes.com/2021/10/22/us/politics/pfizer-vaccine-children-covid.html) NYT: The companies reported that a lower dose of the vaccine had a 90.7 percent efficacy rate in preventing symptomatic Covid-19 in a clinical trial. 
  <p class="updated_time"> 12:23 PM CT, Oct. 22 </p> 
  [Gangs in Haiti, Breaking a Taboo, Target the Church](https://www.nytimes.com/2021/10/22/world/americas/haiti-gangs-church.html) NYT: A French priest in Haiti recalls his kidnapping by 400 Mawozo, the same gang holding 16 Americans and a Canadian, including children, for ransom. 
  <p class="updated_time"> 12:15 PM CT, Oct. 22 </p> 
@@ -134,6 +132,8 @@ permalink: /charts/news/
  [Rise in Cases and Deaths Tests Britain’s Gamble on Few Virus Restrictions](https://www.nytimes.com/2021/10/21/world/europe/britain-virus.html) NYT: The country’s grand experiment — opening up with hardly any restrictions — is facing its toughest test yet. 
  <p class="updated_time"> 05:19 PM CT, Oct. 21 </p> 
  [Queen Elizabeth Was Hospitalized, Palace Discloses](https://www.nytimes.com/2021/10/21/world/europe/queen-elizabeth-health-hospital.html) NYT: She was discharged on Thursday after undergoing tests the day before and spending the night. The queen, 95, had just canceled a planned trip to Northern Ireland. 
+ <p class="updated_time"> 04:58 PM CT, Oct. 21 </p> 
+ [Britain Resists Calls to Introduce Covid Restrictions](https://www.nytimes.com/2021/10/20/world/europe/britain-covid-cases.html) NYT: The number of new cases in Britain is among the highest in the world, but the government has said there is no need to impose indoor mask mandates or other restrictions. 
  <p class="updated_time"> 04:58 PM CT, Oct. 21 </p> 
  [Your Thursday Briefing](https://www.nytimes.com/2021/10/20/briefing/russia-covid-pollution-fossil-fuels-evergrande.html) NYT: Russia’s ‘non-working’ week. 
  <p class="updated_time"> 04:58 PM CT, Oct. 21 </p> 
