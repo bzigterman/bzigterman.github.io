@@ -6,6 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 03:52 AM CT, Oct. 22 </p> 
+ [Brian Laundrie: Remains of Gabby Petito's fiancé found - FBI](https://www.bbc.co.uk/news/world-us-canada-59004831?at_medium=RSS&at_campaign=KARANGA) BBC: A skull was reportedly found in the hunt for Brian Laundrie, a person of interest in Gabby Petito's death. 
  <p class="updated_time"> 03:46 AM CT, Oct. 22 </p> 
  [Your Friday Briefing](https://www.nytimes.com/2021/10/21/briefing/climate-change-donald-trump.html) NYT: The geopolitical risks of climate change. 
  <p class="updated_time"> 03:27 AM CT, Oct. 22 </p> 
@@ -30,8 +32,6 @@ permalink: /charts/news/
  [Haitian Kidnappers Threaten to Kill Missionaries](https://www.nytimes.com/2021/10/21/world/americas/haiti-missionary-kidnapping-threat.html) NYT: As negotiators worked to secure the release of 17 people associated with an Ohio-based missionary group, their kidnappers released a video threatening their lives. 
  <p class="updated_time"> 08:44 PM CT, Oct. 21 </p> 
  [Canada Settles on a Single 'Vaccine Passport' for Travel](https://www.nytimes.com/2021/10/21/world/canada-vaccine-passport-travel.html) NYT: The document, already in use in five of the country’s 10 provinces and all three of its territories, will replace a patchwork of programs across Canada. 
- <p class="updated_time"> 08:43 PM CT, Oct. 21 </p> 
- [Brian Laundrie: Remains of Gabby Petito's fiancé found - FBI](https://www.bbc.co.uk/news/world-us-canada-59004831?at_medium=RSS&at_campaign=KARANGA) BBC: A skull was reportedly found in the hunt for Brian Laundrie, a person of interest in Gabby Petito's death. 
  <p class="updated_time"> 08:26 PM CT, Oct. 21 </p> 
  [Kenyan northern white rhino Najin retired from breeding scheme](https://www.bbc.co.uk/news/world-africa-59005006?at_medium=RSS&at_campaign=KARANGA) BBC: Najin, 32, has been part of a programme in Kenya trying to save her species from extinction. 
  <p class="updated_time"> 08:16 PM CT, Oct. 21 </p> 
