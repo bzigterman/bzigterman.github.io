@@ -6,8 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
- <p class="updated_time"> 09:44 AM CT, Oct. 22 </p> 
- [Pfizer Says Its Vaccine Is Highly Effective in 5- to 11-Year-Olds](https://www.nytimes.com/2021/10/22/us/politics/pfizer-vaccine-children-covid.html) NYT: The company reported that a lower dose of the vaccine had a 90.7 percent efficacy rate in preventing symptomatic Covid-19 in a clinical trial. 
+ <p class="updated_time"> 09:53 AM CT, Oct. 22 </p> 
+ [Pfizer Says Its Vaccine Is Highly Effective in 5- to 11-Year-Olds](https://www.nytimes.com/2021/10/22/us/politics/pfizer-vaccine-children-covid.html) NYT: The companies reported that a lower dose of the vaccine had a 90.7 percent efficacy rate in preventing symptomatic Covid-19 in a clinical trial. 
  <p class="updated_time"> 09:24 AM CT, Oct. 22 </p> 
  [Eswatini protests: Nurses refuse to treat police after colleagues shot](https://www.bbc.co.uk/news/world-africa-59011033?at_medium=RSS&at_campaign=KARANGA) BBC: The health workers say security forces injured 30 colleagues when they opened fire at a protest. 
  <p class="updated_time"> 09:18 AM CT, Oct. 22 </p> 
