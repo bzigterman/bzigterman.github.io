@@ -6,8 +6,10 @@ permalink: /charts/news/
 
 ## World News
 
- <p class="updated_time"> 08:54 AM CT, Oct. 22 </p> 
+ <p class="updated_time"> 09:09 AM CT, Oct. 22 </p> 
  [Pfizer Says Its Vaccine Is Highly Effective in 5- to 11-Year-Olds](https://www.nytimes.com/2021/10/22/us/politics/pfizer-vaccine-children-covid.html) NYT: The company reported that a lower dose of the vaccine was 90.7 percent effective in preventing symptomatic Covid-19 in a clinical trial. 
+ <p class="updated_time"> 09:04 AM CT, Oct. 22 </p> 
+ [Alec Baldwin: What are prop guns and why are they dangerous?](https://www.bbc.co.uk/news/world-us-canada-59006905?at_medium=RSS&at_campaign=KARANGA) BBC: An incident involving US actor Alec Baldwin puts the spotlight on an item often used on film sets. 
  <p class="updated_time"> 08:30 AM CT, Oct. 22 </p> 
  [Melbourne, 262 Days in Lockdown, Celebrates a Reopening](https://www.nytimes.com/2021/10/22/world/australia/melbourne-covid-lockdown-reopening.html) NYT: After hitting a vaccination target, Australia’s second largest city now has many fewer restrictions. 
  <p class="updated_time"> 08:23 AM CT, Oct. 22 </p> 
@@ -22,8 +24,6 @@ permalink: /charts/news/
  [N.I.H. Says Bat Research Group Failed to Submit Prompt Virus Findings](https://www.nytimes.com/2021/10/21/science/bats-covid-lab-leak-nih.html) NYT: The federal agency told a G.O.P. House member that it had notified EcoHealth Alliance, a group criticized for its U.S.-funded work with Wuhan scientists, to file data within five days. 
  <p class="updated_time"> 07:43 AM CT, Oct. 22 </p> 
  [Contrails: How tweaking flight plans can help the climate](https://www.bbc.co.uk/news/business-58769351?at_medium=RSS&at_campaign=KARANGA) BBC: Why experts say cutting contrails costs less than $1bn a year but may be worth so much more. 
- <p class="updated_time"> 06:34 AM CT, Oct. 22 </p> 
- [Alec Baldwin: What are prop guns and why are they dangerous?](https://www.bbc.co.uk/news/world-us-canada-59006905?at_medium=RSS&at_campaign=KARANGA) BBC: An incident involving US actor Alec Baldwin puts the spotlight on an item often used on film sets. 
  <p class="updated_time"> 06:29 AM CT, Oct. 22 </p> 
  [Shot cinematographer Hutchins 'an incredible artist'](https://www.bbc.co.uk/news/entertainment-arts-59007724?at_medium=RSS&at_campaign=KARANGA) BBC: Halyna Hutchins, who has died on a film set, had been named an American Cinematographer rising star. 
  <p class="updated_time"> 06:25 AM CT, Oct. 22 </p> 
