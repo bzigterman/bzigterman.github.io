@@ -122,8 +122,6 @@ permalink: /charts/news/
  [As Chinese Women Seek to Crack Male Professions, Schools Stand in the Way](https://www.nytimes.com/2021/10/21/world/asia/china-schools-gender-bias.html) NYT: In China, some academic programs accept only men or cap the number of female applicants, who often must test higher than their male counterparts. 
  <p class="updated_time"> 12:00 PM CT, Oct. 21 </p> 
  [Covid: Virus may have killed 80k-180k health workers, WHO says](https://www.bbc.co.uk/news/health-58973697?at_medium=RSS&at_campaign=KARANGA) BBC: The global health body says healthcare workers should be prioritised for vaccination. 
- <p class="updated_time"> 11:43 AM CT, Oct. 21 </p> 
- [Celtics Games Are Pulled in China After Enes Kanter’s Pro-Tibet Posts](https://www.nytimes.com/2021/10/21/sports/basketball/celtics-kanter-china-tibet.html) NYT: The Boston center called China’s leader, Xi Jinping, a “brutal dictator” on social media, igniting an online backlash in the country. The N.B.A.’s online partner stopped streaming the team’s games. 
  <p class="updated_time"> 11:27 AM CT, Oct. 21 </p> 
  [The Webb Telescope’s Latest Stumbling Block: Its Name](https://www.nytimes.com/2021/10/20/science/webb-telescope-astronomy-homophobia.html) NYT: The long-awaited successor to the Hubble Space Telescope is scheduled to launch in December. But the NASA official for whom it is named has been accused of homophobia. 
  <p class="updated_time"> 09:10 AM CT, Oct. 21 </p> 
@@ -182,6 +180,8 @@ permalink: /charts/news/
  [Writing About a Past Injustice Helped Her See What Has and Hasn’t Changed](https://www.nytimes.com/2021/10/20/books/nadifa-mohamed-fortune-men.html) NYT: Nadifa Mohamed is a Booker Prize finalist for her novel “The Fortune Men,” a story about a false accusation and the tragedy that resulted. 
  <p class="updated_time"> 04:00 AM CT, Oct. 20 </p> 
  [1971: Paris Installs Giant Air Filters to Combat Pollution](https://www.nytimes.com/2021/10/20/world/europe/1971-paris-air-filters.html) NYT: Two towers, each measuring 16 and a half feet high, were installed in an area in the east of the city in an experiment to tackle contamination. 
+ <p class="updated_time"> 11:48 PM CT, Oct. 19 </p> 
+ [Your Wednesday Briefing](https://www.nytimes.com/2021/10/19/briefing/bolsanaro-coronavirus-myanmar-refugees.html) NYT: Calls to charge Bolsonaro with crimes against humanity. 
  <p class="updated_time"> 06:23 PM CT, Oct. 19 </p> 
  [Ros Atkins on… Europe's climate challenge](https://www.bbc.co.uk/news/science-environment-58970153?at_medium=RSS&at_campaign=KARANGA) BBC: Ros Atkins looks at how Europe is getting to grips with its emissions problem. 
  <p class="updated_time"> 07:30 AM CT, Oct. 18 </p> 
