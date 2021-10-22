@@ -6,18 +6,20 @@ permalink: /charts/news/
 
 ## World News
 
- <p class="updated_time"> 10:43 AM CT, Oct. 22 </p> 
+ <p class="updated_time"> 11:01 AM CT, Oct. 22 </p> 
+ [Alec Baldwin 'shock and sadness' at film-set death](https://www.bbc.co.uk/news/world-us-canada-59015889?at_medium=RSS&at_campaign=KARANGA) BBC: Director of photography Halyna Hutchins was killed by a prop gun fired by the actor in New Mexico. 
+ <p class="updated_time"> 10:51 AM CT, Oct. 22 </p> 
  [Amanda Knox Was Exonerated. That Doesn’t Mean She’s Free.](https://www.nytimes.com/2021/10/22/style/amanda-knox-ten-years-later.html) NYT: Ten years after being cleared of a heinous crime, she is still trying to tell her story on her own terms. 
  <p class="updated_time"> 10:38 AM CT, Oct. 22 </p> 
  [Eswatini protests: Nurses refuse to treat police after colleagues shot](https://www.bbc.co.uk/news/world-africa-59011033?at_medium=RSS&at_campaign=KARANGA) BBC: The health workers say security forces injured 30 colleagues when they opened fire at a protest. 
+ <p class="updated_time"> 10:34 AM CT, Oct. 22 </p> 
+ [Ohio mocked over wrong Wright brothers number plates](https://www.bbc.co.uk/news/world-us-canada-59008039?at_medium=RSS&at_campaign=KARANGA) BBC: The commemorative plate depicted a banner mistakenly attached to the front end of the historic plane. 
  <p class="updated_time"> 10:33 AM CT, Oct. 22 </p> 
  [Russia Strengthens Its Internet Censorship Powers](https://www.nytimes.com/2021/10/22/technology/russia-internet-censorship-putin.html) NYT: Quietly built over two years, the Kremlin’s censorship infrastructure gives it sweeping power to block sites. Many fear a new age of digital isolation. 
  <p class="updated_time"> 10:19 AM CT, Oct. 22 </p> 
  [Melbourne, 262 Days in Lockdown, Celebrates a Reopening](https://www.nytimes.com/2021/10/22/world/australia/melbourne-covid-lockdown-reopening.html) NYT: After hitting a vaccination target, Australia’s second largest city now has many fewer restrictions. 
  <p class="updated_time"> 10:00 AM CT, Oct. 22 </p> 
  [Pfizer Says Its Vaccine Is Highly Effective in 5- to 11-Year-Olds](https://www.nytimes.com/2021/10/22/us/politics/pfizer-vaccine-children-covid.html) NYT: The companies reported that a lower dose of the vaccine had a 90.7 percent efficacy rate in preventing symptomatic Covid-19 in a clinical trial. 
- <p class="updated_time"> 09:56 AM CT, Oct. 22 </p> 
- [Alec Baldwin fatally shoots woman with prop gun on movie set](https://www.bbc.co.uk/news/world-us-canada-59005500?at_medium=RSS&at_campaign=KARANGA) BBC: A man is also being treated in hospital after the firearm was discharged on set in New Mexico. 
  <p class="updated_time"> 09:45 AM CT, Oct. 22 </p> 
  [Students sue Texas school district for banning long hair on boys](https://www.bbc.co.uk/news/world-us-canada-59013608?at_medium=RSS&at_campaign=KARANGA) BBC: Students were suspended and barred from school activities for wearing long hair, the suit says. 
  <p class="updated_time"> 09:18 AM CT, Oct. 22 </p> 
