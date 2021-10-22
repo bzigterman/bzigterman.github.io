@@ -12,6 +12,8 @@ permalink: /charts/news/
  [Amanda Knox Was Exonerated. That Doesn’t Mean She’s Free.](https://www.nytimes.com/2021/10/22/style/amanda-knox-ten-years-later.html) NYT: Ten years after being cleared of a heinous crime, she is still trying to tell her story on her own terms. 
  <p class="updated_time"> 04:59 PM CT, Oct. 22 </p> 
  [Alberta Investigation of Environmental Groups Falls Flat](https://www.nytimes.com/2021/10/22/world/canada/alberta-energy-inquiry.html) NYT: The report from a provincial inquiry into “anti-Alberta energy campaigns” didn’t back up Premier Jason Kenney’s allegations. 
+ <p class="updated_time"> 04:56 PM CT, Oct. 22 </p> 
+ [Texas abortion law to stay in place until Supreme Court decision](https://www.bbc.co.uk/news/world-us-canada-59017479?at_medium=RSS&at_campaign=KARANGA) BBC: The controversial law will be tested next month when the court holds an expedited hearing. 
  <p class="updated_time"> 03:51 PM CT, Oct. 22 </p> 
  [‘Needle Spiking’ of Women in Britain Stirs Alarm Over New Kind of Assault](https://www.nytimes.com/2021/10/22/world/europe/needle-spiking-uk.html) NYT: Women are reporting being injected with syringes at crowded clubs in a horrifying variation of dropping pill into drinks. “This is a new depth,’’ said a former chief of police. 
  <p class="updated_time"> 03:46 PM CT, Oct. 22 </p> 
@@ -28,6 +30,8 @@ permalink: /charts/news/
  [World's Health Care Workers Near Breaking Point, W.H.O warns](https://www.nytimes.com/2021/10/21/world/health-care-workers-burnout-who.html) NYT: The agency’s leaders also urged wealthy nations to take the lead in transferring doses of vaccines to the global South. 
  <p class="updated_time"> 02:27 PM CT, Oct. 22 </p> 
  [U.N. Flight Thwarted as Fighting Grows in Ethiopia](https://www.nytimes.com/2021/10/22/world/africa/ethiopia-united-nations-aid.html) NYT: A humanitarian flight was ordered to abort a landing in the capital of Ethiopia’s Tigray region, epicenter of the conflict, as government airstrikes hit the area for a fourth day. 
+ <p class="updated_time"> 02:01 PM CT, Oct. 22 </p> 
+ [New Zealand announces a plan to move away from lockdowns.](https://www.nytimes.com/2021/10/22/world/new-zealand-announces-a-plan-to-move-away-from-lockdowns.html) NYT: NA 
  <p class="updated_time"> 01:54 PM CT, Oct. 22 </p> 
  [Russia Strengthens Its Internet Censorship Powers](https://www.nytimes.com/2021/10/22/technology/russia-internet-censorship-putin.html) NYT: Quietly built over two years, the Kremlin’s censorship infrastructure gives it sweeping power to block sites. Many fear a new age of digital isolation. 
  <p class="updated_time"> 01:40 PM CT, Oct. 22 </p> 
@@ -72,24 +76,28 @@ permalink: /charts/news/
  [N.I.H. Says Bat Research Group Failed to Submit Prompt Virus Findings](https://www.nytimes.com/2021/10/21/science/bats-covid-lab-leak-nih.html) NYT: The federal agency told a G.O.P. House member that it had notified EcoHealth Alliance, a group criticized for its U.S.-funded work with Wuhan scientists, to file data within five days. 
  <p class="updated_time"> 07:43 AM CT, Oct. 22 </p> 
  [Contrails: How tweaking flight plans can help the climate](https://www.bbc.co.uk/news/business-58769351?at_medium=RSS&at_campaign=KARANGA) BBC: Why experts say cutting contrails costs less than $1bn a year but may be worth so much more. 
+ <p class="updated_time"> 07:15 AM CT, Oct. 22 </p> 
+ [Bali reopens to foreign tourists, but government rules keep them away.](https://www.nytimes.com/2021/10/22/world/bali-reopens-to-foreign-tourists-but-government-rules-keep-them-away.html) NYT: NA 
  <p class="updated_time"> 06:23 AM CT, Oct. 22 </p> 
  [Mozambique: Tuskless elephant evolution linked to ivory hunting](https://www.bbc.co.uk/news/world-africa-59008037?at_medium=RSS&at_campaign=KARANGA) BBC: Scientists say poaching during Mozambique's civil war led to more females being born without tusks. 
  <p class="updated_time"> 06:11 AM CT, Oct. 22 </p> 
  [Service-Sector Strength Aids Global Growth](https://www.wsj.com/articles/supply-chain-bottlenecks-crimp-global-growth-boost-inflation-11634899014) WSJ: Supply-chain bottlenecks persist, but an easing of the Delta variant of Covid-19 has boosted growth in the U.S., Japan and Australia. 
+ <p class="updated_time"> 06:06 AM CT, Oct. 22 </p> 
+ [Britain opened up with hardly any restrictions, a gamble now facing its toughest test.](https://www.nytimes.com/2021/10/22/world/britain-opened-up-with-hardly-any-restrictions-a-gamble-now-facing-its-toughest-test.html) NYT: NA 
  <p class="updated_time"> 05:36 AM CT, Oct. 22 </p> 
  [Death after Alec Baldwin fires prop gun 'unfathomable'](https://www.bbc.co.uk/news/entertainment-arts-59008375?at_medium=RSS&at_campaign=KARANGA) BBC: A director who worked with Halyna Hutchins in 2020 describes the gun safety protocols films tend to use. 
  <p class="updated_time"> 05:25 AM CT, Oct. 22 </p> 
  [An Arctic Dispatch](https://www.nytimes.com/2021/10/22/briefing/russia-climate-change-arctic.html) NYT: We visit a Russian town on the Arctic Ocean that sees climate change as an economic opportunity. 
  <p class="updated_time"> 05:21 AM CT, Oct. 22 </p> 
  [France to pay 38m citizens €100 each to ease costs](https://www.bbc.co.uk/news/world-europe-59008890?at_medium=RSS&at_campaign=KARANGA) BBC: The one-off payment to lower-income groups is prompted by the spike in fuel and energy prices. 
+ <p class="updated_time"> 04:50 AM CT, Oct. 22 </p> 
+ [Thailand to Reopen to Vaccinated Travelers from Dozens of Countries](https://www.nytimes.com/2021/10/22/world/asia/thailand-covid-travel-quarantine.html) NYT: NA 
  <p class="updated_time"> 04:06 AM CT, Oct. 22 </p> 
  [How Russia Is Cashing In on Climate Change](https://www.nytimes.com/2021/10/22/world/europe/russia-arctic-climate-change-putin.html) NYT: Global warming may pose grave dangers around the world, but as one tiny Russian town on the Arctic Ocean shows, it can also be a ticket to prosperity. 
  <p class="updated_time"> 04:00 AM CT, Oct. 22 </p> 
  [India's Farmer Protesters Are Confronting Modi Head-On](https://www.nytimes.com/2021/10/22/world/asia/india-farmers-protests-modi.html) NYT: A year on, protesters against the country’s agricultural laws are taking an increasingly confrontational approach with the country’s leaders. 
  <p class="updated_time"> 04:00 AM CT, Oct. 22 </p> 
  [Flying With Your Pet? It Just Got a Lot More Difficult.](https://www.nytimes.com/2021/10/22/travel/pets-airlines-regulations.html) NYT: A recent C.D.C. rabies rule, pricey pet ‘tickets’ and limits on animals in airline cabins are making traveling with a pet more complicated. 
- <p class="updated_time"> 03:52 AM CT, Oct. 22 </p> 
- [Brian Laundrie: Remains of Gabby Petito's fiancé found - FBI](https://www.bbc.co.uk/news/world-us-canada-59004831?at_medium=RSS&at_campaign=KARANGA) BBC: A skull was reportedly found in the hunt for Brian Laundrie, a person of interest in Gabby Petito's death. 
  <p class="updated_time"> 03:46 AM CT, Oct. 22 </p> 
  [Your Friday Briefing](https://www.nytimes.com/2021/10/21/briefing/climate-change-donald-trump.html) NYT: The geopolitical risks of climate change. 
  <p class="updated_time"> 03:31 AM CT, Oct. 22 </p> 
@@ -100,8 +108,6 @@ permalink: /charts/news/
  [Mass Graves Stir Anger as Libya Seeks an Elusive Peace](https://www.wsj.com/articles/mass-graves-stir-anger-as-libya-seeks-an-elusive-peace-11634905670) WSJ: Residents and U.N. investigators say a militia group controlled by two brothers began rounding up residents and carrying out extrajudicial executions as a means of suppressing opposition to their rule. 
  <p class="updated_time"> 02:13 AM CT, Oct. 22 </p> 
  [New Zealand Wants a 90% Vaccination Rate. Its Street Gangs May Hold the Key.](https://www.nytimes.com/2021/10/22/world/australia/new-zealand-vaccination-gangs.html) NYT: The country’s leaders have set aside some misgivings and cooperated with gang leaders to reach their communities. 
- <p class="updated_time"> 12:32 AM CT, Oct. 22 </p> 
- [Li Yundi: China's 'Piano Prince' detained for hiring prostitute](https://www.bbc.co.uk/news/world-asia-china-59005937?at_medium=RSS&at_campaign=KARANGA) BBC: Observers said his detention could be seen as a warning to other "immoral" celebrities. 
  <p class="updated_time"> 09:54 PM CT, Oct. 21 </p> 
  [Searching for Australia’s Climate Tipping Point](https://www.nytimes.com/2021/10/21/world/australia/climate-change-tipping-point.html) NYT: The world, and most Australians, are increasingly disappointed by Australia’s lackluster approach to addressing climate change. 
  <p class="updated_time"> 09:49 PM CT, Oct. 21 </p> 
@@ -128,18 +134,12 @@ permalink: /charts/news/
  [Rise in Cases and Deaths Tests Britain’s Gamble on Few Virus Restrictions](https://www.nytimes.com/2021/10/21/world/europe/britain-virus.html) NYT: The country’s grand experiment — opening up with hardly any restrictions — is facing its toughest test yet. 
  <p class="updated_time"> 05:19 PM CT, Oct. 21 </p> 
  [Queen Elizabeth Was Hospitalized, Palace Discloses](https://www.nytimes.com/2021/10/21/world/europe/queen-elizabeth-health-hospital.html) NYT: She was discharged on Thursday after undergoing tests the day before and spending the night. The queen, 95, had just canceled a planned trip to Northern Ireland. 
- <p class="updated_time"> 04:59 PM CT, Oct. 21 </p> 
- [Russia Introduces Weeklong Office Shutdown After Covid Deaths Rise](https://www.nytimes.com/2021/10/20/world/europe/russia-covid-restrictions.html) NYT: The measure, meant to slow the spread of the coronavirus, is short of a full lockdown and only affects nonessential workers. 
- <p class="updated_time"> 04:58 PM CT, Oct. 21 </p> 
- [Britain Resists Calls to Introduce Covid Restrictions](https://www.nytimes.com/2021/10/20/world/europe/britain-covid-cases.html) NYT: The number of new cases in Britain is among the highest in the world, but the government has said there is no need to impose indoor mask mandates or other restrictions. 
  <p class="updated_time"> 04:58 PM CT, Oct. 21 </p> 
  [Your Thursday Briefing](https://www.nytimes.com/2021/10/20/briefing/russia-covid-pollution-fossil-fuels-evergrande.html) NYT: Russia’s ‘non-working’ week. 
  <p class="updated_time"> 04:58 PM CT, Oct. 21 </p> 
  [India's Covid Vaccine Campaign Hits 1 Billion Doses](https://www.nytimes.com/2021/10/20/world/asia/india-vaccination-covid.html) NYT: More than 70 percent of India’s adult population has now received at least one dose of a vaccine. Bulgaria, with the E.U.’s lowest vaccination rate, faces a case surge. 
  <p class="updated_time"> 04:26 PM CT, Oct. 21 </p> 
  [Haiti Gang That Kidnapped U.S. Missionaries Threatens to Kill Them](https://www.wsj.com/articles/haiti-gang-that-kidnapped-u-s-missionaries-threatens-to-kill-them-11634841503) WSJ: The head of a Haitian gang holding 17 American and Canadian missionaries captive has threatened to kill them if a ransom isn’t paid, according to a video. 
- <p class="updated_time"> 04:22 PM CT, Oct. 21 </p> 
- [Turkey Sours on Syrians, but Not in This Sleepy Town, Jolted Awake](https://www.nytimes.com/2021/10/20/world/europe/turkey-syria-border-refugees.html) NYT: As calls increase in Turkey for Syrian refugees to go home, Kilis, a border town transformed by the newcomers’ energy, has embraced the change. 
  <p class="updated_time"> 04:20 PM CT, Oct. 21 </p> 
  [Your Friday Briefing](https://www.nytimes.com/2021/10/21/briefing/australia-coal-british-covid-strategy-celtics.html) NYT: Why Australia won’t commit to emissions reductions. 
  <p class="updated_time"> 03:32 PM CT, Oct. 21 </p> 
@@ -182,8 +182,6 @@ permalink: /charts/news/
  [Brazil Senate’s Pandemic Panel, in Last-Minute Shift, Softened Criminal Recommendations on Bolsonaro](https://www.nytimes.com/2021/10/20/world/americas/bolsonaro-pandemic-inquiry-crimes.html) NYT: Senators on the 11-member panel had second thoughts about the provability of homicide and genocide charges. Instead, they accused the president of “crimes against humanity.” 
  <p class="updated_time"> 02:11 PM CT, Oct. 20 </p> 
  [Iran Plans to Abandon One of Its Homegrown Covid Shots](https://www.nytimes.com/2021/10/20/world/middleeast/iran-covid-vaccine-fakhravac.html) NYT: The defense ministry said there was too little demand for its Fakhravac vaccine to justify producing it, and blamed the health ministry for reneging on promised orders. 
- <p class="updated_time"> 01:58 PM CT, Oct. 20 </p> 
- [Ancient-DNA Researchers Set Ethics Guidelines for Their Work](https://www.nytimes.com/2021/10/20/science/ancient-dna-archaeology-ethics.html) NYT: New, international standards for handling ancient genetic material draw support from many scientists, criticism from others. 
  <p class="updated_time"> 01:54 PM CT, Oct. 20 </p> 
  [Egypt imposes a vaccine mandate for all government workers and university students.](https://www.nytimes.com/2021/10/20/world/egypt-covid-vaccine-mandate.html) NYT: Officials expect major deliveries of doses by the end of the month to speed up the country’s vaccination efforts. 
  <p class="updated_time"> 06:23 PM CT, Oct. 19 </p> 
