@@ -6,6 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 12:43 PM CT, Oct. 22 </p> 
+ [In Haiti, Gangs Gain Power as Security Vacuum Grows](https://www.nytimes.com/2021/10/21/world/americas/haiti-gangs-kidnapping.html) NYT: Gangs have long held sway in the country, but their dominance has expanded in recent years and the government has been accused of using them as tools of repression. 
  <p class="updated_time"> 12:39 PM CT, Oct. 22 </p> 
  [Pfizer Says Its Vaccine Is Highly Effective in 5- to 11-Year-Olds](https://www.nytimes.com/2021/10/22/us/politics/pfizer-vaccine-children-covid.html) NYT: The companies reported that a lower dose of the vaccine had a 90.7 percent efficacy rate in preventing symptomatic Covid-19 in a clinical trial. 
  <p class="updated_time"> 12:28 PM CT, Oct. 22 </p> 
@@ -112,8 +114,6 @@ permalink: /charts/news/
  [Russia's Covid nightmare driven by vaccine rejection](https://www.bbc.co.uk/news/world-europe-58998366?at_medium=RSS&at_campaign=KARANGA) BBC: More than 1,000 people are dying in Russia every day, and in Vologda only one in four is vaccinated. 
  <p class="updated_time"> 06:23 PM CT, Oct. 21 </p> 
  [Why the Newcastle United takeover is controversial](https://www.bbc.co.uk/news/world-middle-east-58930311?at_medium=RSS&at_campaign=KARANGA) BBC: Here are some of the reasons why the Saudi-led consortium has proved controversial. 
- <p class="updated_time"> 06:10 PM CT, Oct. 21 </p> 
- [In Haiti, Gangs Gain Power as Security Vacuum Grows](https://www.nytimes.com/2021/10/21/world/americas/haiti-gangs-kidnapping.html) NYT: Gangs have long held sway in the country, but their dominance has expanded in recent years and the government has been accused of using them as tools of repression. 
  <p class="updated_time"> 06:05 PM CT, Oct. 21 </p> 
  [Rise in Cases and Deaths Tests Britain’s Gamble on Few Virus Restrictions](https://www.nytimes.com/2021/10/21/world/europe/britain-virus.html) NYT: The country’s grand experiment — opening up with hardly any restrictions — is facing its toughest test yet. 
  <p class="updated_time"> 06:02 PM CT, Oct. 21 </p> 
