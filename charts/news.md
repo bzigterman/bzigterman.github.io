@@ -6,8 +6,12 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 05:36 AM CT, Oct. 22 </p> 
+ [Death after Alec Baldwin fires prop gun 'unfathomable'](https://www.bbc.co.uk/news/entertainment-arts-59008375?at_medium=RSS&at_campaign=KARANGA) BBC: A director who worked with Halyna Hutchins in 2020 describes the gun safety protocols films tend to use. 
  <p class="updated_time"> 05:25 AM CT, Oct. 22 </p> 
  [An Arctic Dispatch](https://www.nytimes.com/2021/10/22/briefing/russia-climate-change-arctic.html) NYT: We visit a Russian town on the Arctic Ocean that sees climate change as an economic opportunity. 
+ <p class="updated_time"> 05:09 AM CT, Oct. 22 </p> 
+ [What are prop guns and why are they dangerous?](https://www.bbc.co.uk/news/world-us-canada-59006905?at_medium=RSS&at_campaign=KARANGA) BBC: An incident involving US actor Alec Baldwin puts the spotlight on an item often used on film sets. 
  <p class="updated_time"> 05:08 AM CT, Oct. 22 </p> 
  [Halyna Hutchins: Rising star of film industry was 'an incredible artist'](https://www.bbc.co.uk/news/entertainment-arts-59007724?at_medium=RSS&at_campaign=KARANGA) BBC: Halyna Hutchins, who has died on a film set, had been named an American Cinematographer rising star. 
  <p class="updated_time"> 04:26 AM CT, Oct. 22 </p> 
@@ -124,8 +128,6 @@ permalink: /charts/news/
  [‘No Girls’: Women in Egypt Fight to Get Judgeships](https://www.nytimes.com/2021/10/20/world/middleeast/egypt-judges-women.html) NYT: On paper, women are free to apply for seats on Egyptian benches. In practice, they say, it is near impossible. 
  <p class="updated_time"> 12:55 PM CT, Oct. 21 </p> 
  [As Chinese Women Seek to Crack Male Professions, Schools Stand in the Way](https://www.nytimes.com/2021/10/21/world/asia/china-schools-gender-bias.html) NYT: In China, some academic programs accept only men or cap the number of female applicants, who often must test higher than their male counterparts. 
- <p class="updated_time"> 12:00 PM CT, Oct. 21 </p> 
- [Covid: Virus may have killed 80k-180k health workers, WHO says](https://www.bbc.co.uk/news/health-58973697?at_medium=RSS&at_campaign=KARANGA) BBC: The global health body says healthcare workers should be prioritised for vaccination. 
  <p class="updated_time"> 11:27 AM CT, Oct. 21 </p> 
  [The Webb Telescope’s Latest Stumbling Block: Its Name](https://www.nytimes.com/2021/10/20/science/webb-telescope-astronomy-homophobia.html) NYT: The long-awaited successor to the Hubble Space Telescope is scheduled to launch in December. But the NASA official for whom it is named has been accused of homophobia. 
  <p class="updated_time"> 09:10 AM CT, Oct. 21 </p> 
@@ -162,8 +164,6 @@ permalink: /charts/news/
  [Navalny, Putin’s Imprisoned Foe, Wins E.U.’s Top Human Rights Award](https://www.nytimes.com/2021/10/20/world/europe/navalny-sakharov-prize-putin-russia.html) NYT: Aleksei A. Navalny, the Russian opposition leader who survived an assassination attempt only to be jailed, received the Sakharov Prize. 
  <p class="updated_time"> 03:05 PM CT, Oct. 20 </p> 
  [Heavy Rains in India and Nepal Kill Dozens](https://www.nytimes.com/2021/10/20/world/asia/india-nepal-floods-landslides.html) NYT: The death toll continued to rise on Wednesday as landslides and flooding damaged homes and stranded thousands of people. 
- <p class="updated_time"> 02:46 PM CT, Oct. 20 </p> 
- [Paris Hilton: I couldn't sleep for 20 years from memories of youth care abuse](https://www.bbc.co.uk/news/world-us-canada-58988263?at_medium=RSS&at_campaign=KARANGA) BBC: Paris Hilton alleges she was strangled, slapped and watched in the shower while in a youth care facility. 
  <p class="updated_time"> 02:15 PM CT, Oct. 20 </p> 
  [Gates Foundation Pledges $120 Million to Help Get Merck Covid Pills to Poor Countries](https://www.nytimes.com/2021/10/20/health/covid-molnupiravir-gates-foundation.html) NYT: Regulatory hurdles and supply chain issues could slow efforts to produce generic versions of Merck’s antiviral molnupiravir for developing nations, despite licensing agreements. 
  <p class="updated_time"> 02:11 PM CT, Oct. 20 </p> 
