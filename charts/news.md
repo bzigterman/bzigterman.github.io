@@ -6,6 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 02:31 PM CT, Oct. 22 </p> 
+ [World's Health Care Workers Near Breaking Point, W.H.O warns](https://www.nytimes.com/2021/10/21/world/health-care-workers-burnout-who.html) NYT: The agency’s leaders also urged wealthy nations to take the lead in transferring doses of vaccines to the global South. 
  <p class="updated_time"> 02:27 PM CT, Oct. 22 </p> 
  [U.N. Flight Thwarted as Fighting Grows in Ethiopia](https://www.nytimes.com/2021/10/22/world/africa/ethiopia-united-nations-aid.html) NYT: A humanitarian flight was ordered to abort a landing in the capital of Ethiopia’s Tigray region, epicenter of the conflict, as government airstrikes hit the area for a fourth day. 
  <p class="updated_time"> 01:54 PM CT, Oct. 22 </p> 
@@ -50,8 +52,6 @@ permalink: /charts/news/
  [Students sue Texas school district for banning long hair on boys](https://www.bbc.co.uk/news/world-us-canada-59013608?at_medium=RSS&at_campaign=KARANGA) BBC: Students were suspended and barred from school activities for wearing long hair, the lawsuit says. 
  <p class="updated_time"> 09:04 AM CT, Oct. 22 </p> 
  [Alec Baldwin: What are prop guns and why are they dangerous?](https://www.bbc.co.uk/news/world-us-canada-59006905?at_medium=RSS&at_campaign=KARANGA) BBC: An incident involving US actor Alec Baldwin puts the spotlight on an item often used on film sets. 
- <p class="updated_time"> 08:23 AM CT, Oct. 22 </p> 
- [World's Health Care Workers Near Breaking Point, W.H.O warns](https://www.nytimes.com/2021/10/21/world/health-care-workers-burnout-who.html) NYT: The agency’s leaders also urged wealthy nations to take the lead in transferring doses of vaccines to the global South. 
  <p class="updated_time"> 08:20 AM CT, Oct. 22 </p> 
  [Crime-hit Chicago grapples with police vaccine revolt](https://www.bbc.co.uk/news/world-us-canada-58989555?at_medium=RSS&at_campaign=KARANGA) BBC: Vaccination rates have lagged among US police, even as Covid becomes their leading cause of death. 
  <p class="updated_time"> 07:49 AM CT, Oct. 22 </p> 
