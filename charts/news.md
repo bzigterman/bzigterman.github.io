@@ -13,7 +13,7 @@ permalink: /charts/news/
  <p class="updated_time"> 05:09 AM CT, Oct. 22 </p> 
  [What are prop guns and why are they dangerous?](https://www.bbc.co.uk/news/world-us-canada-59006905?at_medium=RSS&at_campaign=KARANGA) BBC: An incident involving US actor Alec Baldwin puts the spotlight on an item often used on film sets. 
  <p class="updated_time"> 05:08 AM CT, Oct. 22 </p> 
- [Halyna Hutchins: Rising star of film industry was 'an incredible artist'](https://www.bbc.co.uk/news/entertainment-arts-59007724?at_medium=RSS&at_campaign=KARANGA) BBC: Halyna Hutchins, who has died on a film set, had been named an American Cinematographer rising star. 
+ [Shot cinematographer Hutchins 'an incredible artist'](https://www.bbc.co.uk/news/entertainment-arts-59007724?at_medium=RSS&at_campaign=KARANGA) BBC: Halyna Hutchins, who has died on a film set, had been named an American Cinematographer rising star. 
  <p class="updated_time"> 04:26 AM CT, Oct. 22 </p> 
  [Alec Baldwin fatally shoots woman with prop gun on movie set](https://www.bbc.co.uk/news/world-us-canada-59005500?at_medium=RSS&at_campaign=KARANGA) BBC: A man is also being treated in hospital after the firearm was discharged on set in New Mexico. 
  <p class="updated_time"> 04:20 AM CT, Oct. 22 </p> 
