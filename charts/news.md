@@ -6,8 +6,10 @@ permalink: /charts/news/
 
 ## World News
 
- <p class="updated_time"> 10:11 PM CT, Oct. 21 </p> 
+ <p class="updated_time"> 10:32 PM CT, Oct. 21 </p> 
  [Alec Baldwin fatally shoots woman with prop gun on movie set](https://www.bbc.co.uk/news/world-us-canada-59005500?at_medium=RSS&at_campaign=KARANGA) BBC: A man is also being treated in hospital after the firearm was discharged on set in New Mexico. 
+ <p class="updated_time"> 10:19 PM CT, Oct. 21 </p> 
+ [Evergrande shares rise on report of bond interest payment](https://www.bbc.co.uk/news/business-58991340?at_medium=RSS&at_campaign=KARANGA) BBC: Shares opened up 6% after reports the Chinese property giant made a payment before a crucial deadline. 
  <p class="updated_time"> 09:54 PM CT, Oct. 21 </p> 
  [Searching for Australia’s Climate Tipping Point](https://www.nytimes.com/2021/10/21/world/australia/climate-change-tipping-point.html) NYT: The world, and most Australians, are increasingly disappointed by Australia’s lackluster approach to addressing climate change. 
  <p class="updated_time"> 09:49 PM CT, Oct. 21 </p> 
@@ -102,8 +104,6 @@ permalink: /charts/news/
  [As Chinese Women Seek to Crack Male Professions, Schools Stand in the Way](https://www.nytimes.com/2021/10/21/world/asia/china-schools-gender-bias.html) NYT: In China, some academic programs accept only men or cap the number of female applicants, who often must test higher than their male counterparts. 
  <p class="updated_time"> 12:00 PM CT, Oct. 21 </p> 
  [Covid: Virus may have killed 80k-180k health workers, WHO says](https://www.bbc.co.uk/news/health-58973697?at_medium=RSS&at_campaign=KARANGA) BBC: The global health body says healthcare workers should be prioritised for vaccination. 
- <p class="updated_time"> 11:43 AM CT, Oct. 21 </p> 
- [EU summit: Respect the club rules, Poland told](https://www.bbc.co.uk/news/world-europe-58999963?at_medium=RSS&at_campaign=KARANGA) BBC: A dispute over whether EU law has supremacy over national laws overshadows the Brussels meeting. 
  <p class="updated_time"> 11:43 AM CT, Oct. 21 </p> 
  [Celtics Games Are Pulled in China After Enes Kanter’s Pro-Tibet Posts](https://www.nytimes.com/2021/10/21/sports/basketball/celtics-kanter-china-tibet.html) NYT: The Boston center called China’s leader, Xi Jinping, a “brutal dictator” on social media, igniting an online backlash in the country. The N.B.A.’s online partner stopped streaming the team’s games. 
  <p class="updated_time"> 11:27 AM CT, Oct. 21 </p> 
