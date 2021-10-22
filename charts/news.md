@@ -6,7 +6,9 @@ permalink: /charts/news/
 
 ## World News
 
- <p class="updated_time"> 12:03 PM CT, Oct. 22 </p> 
+ <p class="updated_time"> 12:23 PM CT, Oct. 22 </p> 
+ [‘Morally, They Are Lost’: Gangs in Haiti, Breaking a Taboo, Target the Church](https://www.nytimes.com/2021/10/22/world/americas/haiti-gangs-church.html) NYT: A French priest in Haiti recalls his kidnapping by 400 Mawozo, the same gang holding 16 Americans and a Canadian, including children, for ransom. 
+ <p class="updated_time"> 12:04 PM CT, Oct. 22 </p> 
  [Amanda Knox Was Exonerated. That Doesn’t Mean She’s Free.](https://www.nytimes.com/2021/10/22/style/amanda-knox-ten-years-later.html) NYT: Ten years after being cleared of a heinous crime, she is still trying to tell her story on her own terms. 
  <p class="updated_time"> 11:25 AM CT, Oct. 22 </p> 
  [Alec Baldwin 'heartbroken' over fatal film set shooting](https://www.bbc.co.uk/news/world-us-canada-59015889?at_medium=RSS&at_campaign=KARANGA) BBC: Director of photography Halyna Hutchins was killed by a prop gun fired by the actor in New Mexico. 
@@ -114,8 +116,6 @@ permalink: /charts/news/
  [Rise in Cases and Deaths Tests Britain’s Gamble on Few Virus Restrictions](https://www.nytimes.com/2021/10/21/world/europe/britain-virus.html) NYT: The country’s grand experiment — opening up with hardly any restrictions — is facing its toughest test yet. 
  <p class="updated_time"> 06:02 PM CT, Oct. 21 </p> 
  [Khaby Lame: What is the secret to success for the Senegal-born TikToker?](https://www.bbc.co.uk/news/world-africa-59003020?at_medium=RSS&at_campaign=KARANGA) BBC: How the Senegalese-born 21-year-old's myth-busting of "life hacks" made him a household name. 
- <p class="updated_time"> 05:19 PM CT, Oct. 21 </p> 
- [Queen ‘Reluctantly’ Cancels Trip, Citing Medical Advice](https://www.nytimes.com/2021/10/20/world/europe/queen-elizabeth-northern-ireland.html) NYT: Britain’s 95-year-old monarch will not travel to Northern Ireland but is “in good spirits,” Buckingham Palace said. 
  <p class="updated_time"> 05:19 PM CT, Oct. 21 </p> 
  [Queen Elizabeth Was Hospitalized, Palace Discloses](https://www.nytimes.com/2021/10/21/world/europe/queen-elizabeth-health-hospital.html) NYT: She was discharged on Thursday after undergoing tests the day before and spending the night. The queen, 95, had just canceled a planned trip to Northern Ireland. 
  <p class="updated_time"> 04:59 PM CT, Oct. 21 </p> 
