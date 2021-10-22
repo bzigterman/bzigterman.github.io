@@ -6,7 +6,7 @@ permalink: /charts/news/
 
 ## World News
 
- <p class="updated_time"> 08:49 AM CT, Oct. 22 </p> 
+ <p class="updated_time"> 08:54 AM CT, Oct. 22 </p> 
  [Pfizer Says Its Vaccine Is Highly Effective in 5- to 11-Year-Olds](https://www.nytimes.com/2021/10/22/us/politics/pfizer-vaccine-children-covid.html) NYT: The company reported that a lower dose of the vaccine was 90.7 percent effective in preventing symptomatic Covid-19 in a clinical trial. 
  <p class="updated_time"> 08:30 AM CT, Oct. 22 </p> 
  [Melbourne, 262 Days in Lockdown, Celebrates a Reopening](https://www.nytimes.com/2021/10/22/world/australia/melbourne-covid-lockdown-reopening.html) NYT: After hitting a vaccination target, Australia’s second largest city now has many fewer restrictions. 
@@ -68,6 +68,8 @@ permalink: /charts/news/
  [Mass Graves Stir Anger as Libya Seeks an Elusive Peace](https://www.wsj.com/articles/mass-graves-stir-anger-as-libya-seeks-an-elusive-peace-11634905670) WSJ: Residents and U.N. investigators say a militia group controlled by two brothers began rounding up residents and carrying out extrajudicial executions as a means of suppressing opposition to their rule. 
  <p class="updated_time"> 02:13 AM CT, Oct. 22 </p> 
  [New Zealand Wants a 90% Vaccination Rate. Its Street Gangs May Hold the Key.](https://www.nytimes.com/2021/10/22/world/australia/new-zealand-vaccination-gangs.html) NYT: The country’s leaders have set aside some misgivings and cooperated with gang leaders to reach their communities. 
+ <p class="updated_time"> 01:36 AM CT, Oct. 22 </p> 
+ [Supply-Chain Bottlenecks Crimp Global Growth, Boost Inflation](https://www.wsj.com/articles/supply-chain-bottlenecks-crimp-global-growth-boost-inflation-11634899014) WSJ: Europe’s recovery has slowed as factories scramble for parts, but an easing of restrictions has boosted growth in japan and Australia. 
  <p class="updated_time"> 12:32 AM CT, Oct. 22 </p> 
  [Li Yundi: China's 'Piano Prince' detained for hiring prostitute](https://www.bbc.co.uk/news/world-asia-china-59005937?at_medium=RSS&at_campaign=KARANGA) BBC: Observers said his detention could be seen as a warning to other "immoral" celebrities. 
  <p class="updated_time"> 10:19 PM CT, Oct. 21 </p> 
@@ -134,8 +136,6 @@ permalink: /charts/news/
  [US surgeon explains pig kidney-human transplant test](https://www.bbc.co.uk/news/health-59003998?at_medium=RSS&at_campaign=KARANGA) BBC: A US team says it successfully transplanted a genetically modified pig's kidney into a brain-dead human. 
  <p class="updated_time"> 02:16 PM CT, Oct. 21 </p> 
  [With Covid Cases Rising, Moscow's Mayor Announces Lockdown ](https://www.nytimes.com/2021/10/21/world/moscow-lockdown.html) NYT: Like many countries, Russia has seesawed between tighter and looser pandemic restrictions. As the coronavirus claims more victims, the pendulum is now swinging toward tightening. 
- <p class="updated_time"> 02:10 PM CT, Oct. 21 </p> 
- [European Leaders Urge Caution in EU Clash With Poland](https://www.wsj.com/articles/european-leaders-urge-caution-in-eu-clash-with-poland-11634831250) WSJ: Germany, France and others fear fast action against Warsaw could do more damage to the bloc in the wake of a recent ruling by Poland’s constitutional tribunal that EU treaty law has become incompatible with Polish law. 
  <p class="updated_time"> 01:58 PM CT, Oct. 21 </p> 
  [La Palma: Scientists collect volcano samples](https://www.bbc.co.uk/news/world-europe-59003677?at_medium=RSS&at_campaign=KARANGA) BBC: Scientists will look at the viscosity of the red-hot lava from the ongoing Cumbre Vieja eruption. 
  <p class="updated_time"> 01:30 PM CT, Oct. 21 </p> 
