@@ -6,7 +6,7 @@ permalink: /charts/news/
 
 ## World News
 
- <p class="updated_time"> 08:34 AM CT, Oct. 22 </p> 
+ <p class="updated_time"> 08:49 AM CT, Oct. 22 </p> 
  [Pfizer Says Its Vaccine Is Highly Effective in 5- to 11-Year-Olds](https://www.nytimes.com/2021/10/22/us/politics/pfizer-vaccine-children-covid.html) NYT: The company reported that a lower dose of the vaccine was 90.7 percent effective in preventing symptomatic Covid-19 in a clinical trial. 
  <p class="updated_time"> 08:30 AM CT, Oct. 22 </p> 
  [Melbourne, 262 Days in Lockdown, Celebrates a Reopening](https://www.nytimes.com/2021/10/22/world/australia/melbourne-covid-lockdown-reopening.html) NYT: After hitting a vaccination target, Australia’s second largest city now has many fewer restrictions. 
