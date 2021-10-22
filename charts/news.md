@@ -8,6 +8,8 @@ permalink: /charts/news/
 
  <p class="updated_time"> 12:38 AM CT, Oct. 22 </p> 
  [N.I.H. Says Bat Research Group Failed to Submit Prompt Virus Findings](https://www.nytimes.com/2021/10/21/science/bats-covid-lab-leak-nih.html) NYT: The federal agency told a G.O.P. House member that it had notified EcoHealth Alliance, a group criticized for its U.S.-funded work with Wuhan scientists, to file data within five days. 
+ <p class="updated_time"> 12:32 AM CT, Oct. 22 </p> 
+ [Li Yundi: China's 'Piano Prince' detained for hiring prostitute](https://www.bbc.co.uk/news/world-asia-china-59005937?at_medium=RSS&at_campaign=KARANGA) BBC: Observers said his detention could be seen as a warning to other "immoral" celebrities. 
  <p class="updated_time"> 12:15 AM CT, Oct. 22 </p> 
  [Alec Baldwin fatally shoots woman with prop gun on movie set](https://www.bbc.co.uk/news/world-us-canada-59005500?at_medium=RSS&at_campaign=KARANGA) BBC: A man is also being treated in hospital after the firearm was discharged on set in New Mexico. 
  <p class="updated_time"> 12:04 AM CT, Oct. 22 </p> 
@@ -88,8 +90,6 @@ permalink: /charts/news/
  [Syria Executes 24 People for Setting Wildfires, Calling It ‘Terrorism’](https://www.nytimes.com/2021/10/21/world/middleeast/syria-wildfire-executions.html) NYT: The sentences shocked rights groups, who saw it as a move by President Bashar al-Assad to appear tough after a crisis that hurt his loyalists. 
  <p class="updated_time"> 02:59 PM CT, Oct. 21 </p> 
  [Bulgaria Faces a Surge in Coronavirus Cases](https://www.nytimes.com/2021/10/21/world/europe/bulgaria-covid-cases.html) NYT: NA 
- <p class="updated_time"> 02:34 PM CT, Oct. 21 </p> 
- [Enes Kanter: Boston Celtics star under fire over China comments](https://www.bbc.co.uk/news/world-asia-china-58998423?at_medium=RSS&at_campaign=KARANGA) BBC: Enes Kanter calls China's leader a "brutal dictator", while Beijing accuses him of seeking attention. 
  <p class="updated_time"> 02:31 PM CT, Oct. 21 </p> 
  [US surgeon explains pig kidney-human transplant test](https://www.bbc.co.uk/news/health-59003998?at_medium=RSS&at_campaign=KARANGA) BBC: A US team says it successfully transplanted a genetically modified pig's kidney into a brain-dead human. 
  <p class="updated_time"> 02:16 PM CT, Oct. 21 </p> 
