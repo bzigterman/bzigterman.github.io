@@ -8,6 +8,8 @@ permalink: /charts/news/
 
  <p class="updated_time"> 11:04 PM CT, Oct. 21 </p> 
  [Alec Baldwin fatally shoots woman with prop gun on movie set](https://www.bbc.co.uk/news/world-us-canada-59005500?at_medium=RSS&at_campaign=KARANGA) BBC: A man is also being treated in hospital after the firearm was discharged on set in New Mexico. 
+ <p class="updated_time"> 11:02 PM CT, Oct. 21 </p> 
+ [Biden says US will defend Taiwan if China attacks](https://www.bbc.co.uk/news/world-asia-59005300?at_medium=RSS&at_campaign=KARANGA) BBC: His comments are an apparent departure from the long-held US policy of "strategic ambiguity". 
  <p class="updated_time"> 10:59 PM CT, Oct. 21 </p> 
  [Your Friday Briefing](https://www.nytimes.com/2021/10/21/briefing/climate-change-donald-trump.html) NYT: The geopolitical risks of climate change. 
  <p class="updated_time"> 10:19 PM CT, Oct. 21 </p> 
@@ -158,8 +160,6 @@ permalink: /charts/news/
  [Ancient-DNA Researchers Set Ethics Guidelines for Their Work](https://www.nytimes.com/2021/10/20/science/ancient-dna-archaeology-ethics.html) NYT: New, international standards for handling ancient genetic material draw support from many scientists, criticism from others. 
  <p class="updated_time"> 01:54 PM CT, Oct. 20 </p> 
  [Egypt imposes a vaccine mandate for all government workers and university students.](https://www.nytimes.com/2021/10/20/world/egypt-covid-vaccine-mandate.html) NYT: Officials expect major deliveries of doses by the end of the month to speed up the country’s vaccination efforts. 
- <p class="updated_time"> 12:54 PM CT, Oct. 20 </p> 
- [All Afghans have the right to a passport - Taliban](https://www.bbc.co.uk/news/world-asia-58989021?at_medium=RSS&at_campaign=KARANGA) BBC: But sports personalities, people seeking medical treatment or wanting to study abroad will be prioritised. 
  <p class="updated_time"> 12:29 PM CT, Oct. 20 </p> 
  [Britain Outlines Energy Plans Amid Dimming Prospects for Climate Summit](https://www.nytimes.com/2021/10/19/world/europe/britain-climate-change-cop26.html) NYT: In an effort to recapture momentum, Prime Minister Boris Johnson  announced a host of measures, including plans for a big expansion of electric vehicles, more offshore wind power and greater use of hydrogen. 
  <p class="updated_time"> 11:00 AM CT, Oct. 20 </p> 
