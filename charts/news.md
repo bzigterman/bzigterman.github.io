@@ -46,6 +46,8 @@ permalink: /charts/news/
  [Pfizer Says Its Vaccine Is Highly Effective in 5- to 11-Year-Olds](https://www.nytimes.com/2021/10/22/us/politics/pfizer-vaccine-children-covid.html) NYT: The companies reported that a lower dose of the vaccine had a 90.7 percent efficacy rate in preventing symptomatic Covid-19 in a clinical trial. 
  <p class="updated_time"> 12:23 PM CT, Oct. 22 </p> 
  [Gangs in Haiti, Breaking a Taboo, Target the Church](https://www.nytimes.com/2021/10/22/world/americas/haiti-gangs-church.html) NYT: A French priest in Haiti recalls his kidnapping by 400 Mawozo, the same gang holding 16 Americans and a Canadian, including children, for ransom. 
+ <p class="updated_time"> 12:15 PM CT, Oct. 22 </p> 
+ [U.S., Allies Try to Move Beyond Disputes Over Afghanistan, Submarine Contract](https://www.wsj.com/articles/u-s-allies-try-to-move-beyond-disputes-over-afghanistan-submarine-contract-11634915159) WSJ: NATO defense ministers agreed to a new plan to defend Europe in case of a Russian attack and sought to ease tensions over Europe’s efforts to equip itself for more independent military action. 
  <p class="updated_time"> 11:22 AM CT, Oct. 22 </p> 
  [Poland’s Attacks on Rule of Law Leave Europe at Odds With Itself](https://www.nytimes.com/2021/10/22/world/europe/eu-poland-rule-of-law.html) NYT: E.U. leaders are facing an increasingly urgent question: What to do with a member that repeatedly violates a core principle, but refuses to leave the club? 
  <p class="updated_time"> 11:20 AM CT, Oct. 22 </p> 
@@ -72,8 +74,6 @@ permalink: /charts/news/
  [Mozambique: Tuskless elephant evolution linked to ivory hunting](https://www.bbc.co.uk/news/world-africa-59008037?at_medium=RSS&at_campaign=KARANGA) BBC: Scientists say poaching during Mozambique's civil war led to more females being born without tusks. 
  <p class="updated_time"> 06:11 AM CT, Oct. 22 </p> 
  [Service-Sector Strength Aids Global Growth](https://www.wsj.com/articles/supply-chain-bottlenecks-crimp-global-growth-boost-inflation-11634899014) WSJ: Supply-chain bottlenecks persist, but an easing of the Delta variant of Covid-19 has boosted growth in the U.S., Japan and Australia. 
- <p class="updated_time"> 06:05 AM CT, Oct. 22 </p> 
- [U.S., Allies Try to Move Beyond Disputes Over Afghanistan, Submarine Contract](https://www.wsj.com/articles/u-s-allies-try-to-move-beyond-disputes-over-afghanistan-submarine-contract-11634915159) WSJ: NATO defense ministers agreed to a new plan to defend Europe in case of a Russian attack and sought to ease tensions over Europe’s efforts to equip itself for more independent military action. 
  <p class="updated_time"> 05:36 AM CT, Oct. 22 </p> 
  [Death after Alec Baldwin fires prop gun 'unfathomable'](https://www.bbc.co.uk/news/entertainment-arts-59008375?at_medium=RSS&at_campaign=KARANGA) BBC: A director who worked with Halyna Hutchins in 2020 describes the gun safety protocols films tend to use. 
  <p class="updated_time"> 05:25 AM CT, Oct. 22 </p> 
