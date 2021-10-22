@@ -6,10 +6,12 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 05:25 AM CT, Oct. 22 </p> 
+ [An Arctic Dispatch](https://www.nytimes.com/2021/10/22/briefing/russia-climate-change-arctic.html) NYT: We visit a Russian town on the Arctic Ocean that sees climate change as an economic opportunity. 
+ <p class="updated_time"> 05:08 AM CT, Oct. 22 </p> 
+ [Halyna Hutchins: Rising star of film industry was 'an incredible artist'](https://www.bbc.co.uk/news/entertainment-arts-59007724?at_medium=RSS&at_campaign=KARANGA) BBC: Halyna Hutchins, who has died on a film set, had been named an American Cinematographer rising star. 
  <p class="updated_time"> 04:26 AM CT, Oct. 22 </p> 
  [Alec Baldwin fatally shoots woman with prop gun on movie set](https://www.bbc.co.uk/news/world-us-canada-59005500?at_medium=RSS&at_campaign=KARANGA) BBC: A man is also being treated in hospital after the firearm was discharged on set in New Mexico. 
- <p class="updated_time"> 04:24 AM CT, Oct. 22 </p> 
- [Halyna Hutchins: Rising star of film industry was 'an incredible artist'](https://www.bbc.co.uk/news/entertainment-arts-59007724?at_medium=RSS&at_campaign=KARANGA) BBC: Halyna Hutchins, who has died on a film set, had been named an American Cinematographer rising star. 
  <p class="updated_time"> 04:20 AM CT, Oct. 22 </p> 
  [Melbourne, 262 Days in Lockdown, Celebrates a Reopening](https://www.nytimes.com/2021/10/22/world/australia/melbourne-covid-lockdown-reopening.html) NYT: After hitting a vaccination target, Australia’s second largest city now has many fewer restrictions. 
  <p class="updated_time"> 04:14 AM CT, Oct. 22 </p> 
@@ -178,8 +180,6 @@ permalink: /charts/news/
  [Writing About a Past Injustice Helped Her See What Has and Hasn’t Changed](https://www.nytimes.com/2021/10/20/books/nadifa-mohamed-fortune-men.html) NYT: Nadifa Mohamed is a Booker Prize finalist for her novel “The Fortune Men,” a story about a false accusation and the tragedy that resulted. 
  <p class="updated_time"> 04:00 AM CT, Oct. 20 </p> 
  [1971: Paris Installs Giant Air Filters to Combat Pollution](https://www.nytimes.com/2021/10/20/world/europe/1971-paris-air-filters.html) NYT: Two towers, each measuring 16 and a half feet high, were installed in an area in the east of the city in an experiment to tackle contamination. 
- <p class="updated_time"> 11:48 PM CT, Oct. 19 </p> 
- [Your Wednesday Briefing](https://www.nytimes.com/2021/10/19/briefing/bolsanaro-coronavirus-myanmar-refugees.html) NYT: Calls to charge Bolsonaro with crimes against humanity. 
  <p class="updated_time"> 06:23 PM CT, Oct. 19 </p> 
  [Ros Atkins on… Europe's climate challenge](https://www.bbc.co.uk/news/science-environment-58970153?at_medium=RSS&at_campaign=KARANGA) BBC: Ros Atkins looks at how Europe is getting to grips with its emissions problem. 
  <p class="updated_time"> 07:30 AM CT, Oct. 18 </p> 
