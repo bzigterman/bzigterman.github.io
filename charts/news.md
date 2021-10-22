@@ -6,6 +6,10 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 09:49 PM CT, Oct. 21 </p> 
+ [U.K. Police Charge Suspect in David Amess Killing](https://www.nytimes.com/2021/10/21/world/europe/uk-david-amess-suspect-charged.html) NYT: Ali Harbi Ali, 25, was accused of murder and preparation of terrorist acts in the killing of David Amess, who was stabbed last week. 
+ <p class="updated_time"> 09:46 PM CT, Oct. 21 </p> 
+ [Woman shot dead on set of new Alec Baldwin movie Rust](https://www.bbc.co.uk/news/world-us-canada-59005500?at_medium=RSS&at_campaign=KARANGA) BBC: A man is also being treated in hospital during the accidental shooting at a film set in New Mexico. 
  <p class="updated_time"> 09:25 PM CT, Oct. 21 </p> 
  [Haitian Kidnappers Threaten to Kill Missionaries](https://www.nytimes.com/2021/10/21/world/americas/haiti-missionary-kidnapping-threat.html) NYT: As negotiators worked to secure the release of 17 people associated with an Ohio-based missionary group, their kidnappers released a video threatening their lives. 
  <p class="updated_time"> 08:44 PM CT, Oct. 21 </p> 
@@ -60,10 +64,6 @@ permalink: /charts/news/
  [Your Thursday Briefing](https://www.nytimes.com/2021/10/20/briefing/russia-covid-pollution-fossil-fuels-evergrande.html) NYT: Russia’s ‘non-working’ week. 
  <p class="updated_time"> 04:58 PM CT, Oct. 21 </p> 
  [India's Covid Vaccine Campaign Hits 1 Billion Doses](https://www.nytimes.com/2021/10/20/world/asia/india-vaccination-covid.html) NYT: More than 70 percent of India’s adult population has now received at least one dose of a vaccine. Bulgaria, with the E.U.’s lowest vaccination rate, faces a case surge. 
- <p class="updated_time"> 04:49 PM CT, Oct. 21 </p> 
- [Heat blamed for mysterious deaths of California hiker family](https://www.bbc.co.uk/news/world-us-canada-59003730?at_medium=RSS&at_campaign=KARANGA) BBC: The family of three and their dog were found dead on a trail in Devil's Gulch Valley two months ago. 
- <p class="updated_time"> 04:45 PM CT, Oct. 21 </p> 
- [U.K. Police Charge Suspect in David Amess Killing](https://www.nytimes.com/2021/10/21/world/europe/uk-david-amess-suspect-charged.html) NYT: Ali Harbi Ali, 25, was accused of murder and preparation of terrorist acts in the killing of David Amess, who was stabbed last week. 
  <p class="updated_time"> 04:26 PM CT, Oct. 21 </p> 
  [Haiti Gang That Kidnapped U.S. Missionaries Threatens to Kill Them](https://www.wsj.com/articles/haiti-gang-that-kidnapped-u-s-missionaries-threatens-to-kill-them-11634841503) WSJ: The head of a Haitian gang holding 17 American and Canadian missionaries captive has threatened to kill them if a ransom isn’t paid, according to a video. 
  <p class="updated_time"> 04:22 PM CT, Oct. 21 </p> 
@@ -106,8 +106,6 @@ permalink: /charts/news/
  [Celtics Games Are Pulled in China After Enes Kanter’s Pro-Tibet Posts](https://www.nytimes.com/2021/10/21/sports/basketball/celtics-kanter-china-tibet.html) NYT: The Boston center called China’s leader, Xi Jinping, a “brutal dictator” on social media, igniting an online backlash in the country. The N.B.A.’s online partner stopped streaming the team’s games. 
  <p class="updated_time"> 11:27 AM CT, Oct. 21 </p> 
  [The Webb Telescope’s Latest Stumbling Block: Its Name](https://www.nytimes.com/2021/10/20/science/webb-telescope-astronomy-homophobia.html) NYT: The long-awaited successor to the Hubble Space Telescope is scheduled to launch in December. But the NASA official for whom it is named has been accused of homophobia. 
- <p class="updated_time"> 10:37 AM CT, Oct. 21 </p> 
- [Vikings settled in North America in 1021AD, study says](https://www.bbc.co.uk/news/world-us-canada-58996186?at_medium=RSS&at_campaign=KARANGA) BBC: Scientists say they have precisely dated a camp in Newfoundland, Canada, thanks to a new technique. 
  <p class="updated_time"> 09:10 AM CT, Oct. 21 </p> 
  [Female Afghan Judges and Lawyers Now Fear For Their Lives](https://www.nytimes.com/2021/10/21/world/asia/afghan-judges-women-taliban.html) NYT: They fear that they or their loved ones could be tracked down and killed because of their work delivering justice to women. “We have lost everything — our jobs, our homes, the way we lived.” 
  <p class="updated_time"> 08:23 AM CT, Oct. 21 </p> 
