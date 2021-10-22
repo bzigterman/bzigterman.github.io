@@ -6,14 +6,14 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 01:19 AM CT, Oct. 22 </p> 
+ [Biden says US will defend Taiwan if China attacks](https://www.bbc.co.uk/news/world-asia-59005300?at_medium=RSS&at_campaign=KARANGA) BBC: His comments are an apparent departure from the long-held US position of "strategic ambiguity". 
  <p class="updated_time"> 12:38 AM CT, Oct. 22 </p> 
  [N.I.H. Says Bat Research Group Failed to Submit Prompt Virus Findings](https://www.nytimes.com/2021/10/21/science/bats-covid-lab-leak-nih.html) NYT: The federal agency told a G.O.P. House member that it had notified EcoHealth Alliance, a group criticized for its U.S.-funded work with Wuhan scientists, to file data within five days. 
  <p class="updated_time"> 12:32 AM CT, Oct. 22 </p> 
  [Li Yundi: China's 'Piano Prince' detained for hiring prostitute](https://www.bbc.co.uk/news/world-asia-china-59005937?at_medium=RSS&at_campaign=KARANGA) BBC: Observers said his detention could be seen as a warning to other "immoral" celebrities. 
  <p class="updated_time"> 12:15 AM CT, Oct. 22 </p> 
  [Alec Baldwin fatally shoots woman with prop gun on movie set](https://www.bbc.co.uk/news/world-us-canada-59005500?at_medium=RSS&at_campaign=KARANGA) BBC: A man is also being treated in hospital after the firearm was discharged on set in New Mexico. 
- <p class="updated_time"> 12:04 AM CT, Oct. 22 </p> 
- [Biden says US will defend Taiwan if China attacks](https://www.bbc.co.uk/news/world-asia-59005300?at_medium=RSS&at_campaign=KARANGA) BBC: His comments are an apparent departure from the long-held US policy of "strategic ambiguity". 
  <p class="updated_time"> 10:59 PM CT, Oct. 21 </p> 
  [Your Friday Briefing](https://www.nytimes.com/2021/10/21/briefing/climate-change-donald-trump.html) NYT: The geopolitical risks of climate change. 
  <p class="updated_time"> 10:19 PM CT, Oct. 21 </p> 
@@ -27,7 +27,7 @@ permalink: /charts/news/
  <p class="updated_time"> 08:44 PM CT, Oct. 21 </p> 
  [Canada Settles on a Single 'Vaccine Passport' for Travel](https://www.nytimes.com/2021/10/21/world/canada-vaccine-passport-travel.html) NYT: The document, already in use in five of the country’s 10 provinces and all three of its territories, will replace a patchwork of programs across Canada. 
  <p class="updated_time"> 08:43 PM CT, Oct. 21 </p> 
- [Gabby Petito: Fiancé Brian Laundrie's remains found - FBI](https://www.bbc.co.uk/news/world-us-canada-59004831?at_medium=RSS&at_campaign=KARANGA) BBC: A skull was reportedly found in the hunt for Brian Laundrie, a person of interest in Gabby Petito's death. 
+ [Brian Laundrie: Remains of Gabby Petito's fiancé found - FBI](https://www.bbc.co.uk/news/world-us-canada-59004831?at_medium=RSS&at_campaign=KARANGA) BBC: A skull was reportedly found in the hunt for Brian Laundrie, a person of interest in Gabby Petito's death. 
  <p class="updated_time"> 08:26 PM CT, Oct. 21 </p> 
  [One of world's last northern white rhinos retired from breeding scheme](https://www.bbc.co.uk/news/world-africa-59005006?at_medium=RSS&at_campaign=KARANGA) BBC: Najin, 32, has been part of a programme in Kenya trying to save her species from extinction. 
  <p class="updated_time"> 08:16 PM CT, Oct. 21 </p> 
