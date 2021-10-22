@@ -29,7 +29,7 @@ permalink: /charts/news/
  <p class="updated_time"> 04:01 AM CT, Oct. 22 </p> 
  [Ananya Panday: Anti-drugs agency questions Bollywood actress](https://www.bbc.co.uk/news/world-asia-india-59005872?at_medium=RSS&at_campaign=KARANGA) BBC: It has not specified why Ananya Panday has been questioned for a second day in a row. 
  <p class="updated_time"> 04:00 AM CT, Oct. 22 </p> 
- [Violence Strikes, and India’s Farmers Want You to See It](https://www.nytimes.com/2021/10/22/world/asia/india-farmers-protests-modi.html) NYT: A year on, protesters against the country’s agricultural laws are taking an increasingly confrontational approach with the country’s leaders. 
+ [India's Farmer Protesters Are Confronting Modi Head-On](https://www.nytimes.com/2021/10/22/world/asia/india-farmers-protests-modi.html) NYT: A year on, protesters against the country’s agricultural laws are taking an increasingly confrontational approach with the country’s leaders. 
  <p class="updated_time"> 04:00 AM CT, Oct. 22 </p> 
  [Renato Casaro’s Posters Capture Films’ Essential Moments](https://www.nytimes.com/2021/10/22/world/europe/renato-casaro-movie-posters.html) NYT: Renato Casaro’s hand-drawn art has hooked movie audiences around the world since the 1950s. Tarantino and Stallone are big fans. One secret to his success? “You can’t cheat.” 
  <p class="updated_time"> 04:00 AM CT, Oct. 22 </p> 
