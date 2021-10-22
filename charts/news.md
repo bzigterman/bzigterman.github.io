@@ -6,7 +6,11 @@ permalink: /charts/news/
 
 ## World News
 
- <p class="updated_time"> 07:03 AM CT, Oct. 22 </p> 
+ <p class="updated_time"> 07:58 AM CT, Oct. 22 </p> 
+ [China Evergrande Makes Payment to Dodge Default, Media Says](https://www.nytimes.com/2021/10/21/business/china-evergrande-bond-payment.html) NYT: The troubled real estate giant faced the threat of default if it didn’t meet its obligations to foreign bondholders by Saturday. 
+ <p class="updated_time"> 07:49 AM CT, Oct. 22 </p> 
+ [N.I.H. Says Bat Research Group Failed to Submit Prompt Virus Findings](https://www.nytimes.com/2021/10/21/science/bats-covid-lab-leak-nih.html) NYT: The federal agency told a G.O.P. House member that it had notified EcoHealth Alliance, a group criticized for its U.S.-funded work with Wuhan scientists, to file data within five days. 
+ <p class="updated_time"> 07:43 AM CT, Oct. 22 </p> 
  [Contrails: How tweaking flight plans can help the climate](https://www.bbc.co.uk/news/business-58769351?at_medium=RSS&at_campaign=KARANGA) BBC: Why experts say cutting contrails costs less than $1bn a year but may be worth so much more. 
  <p class="updated_time"> 06:34 AM CT, Oct. 22 </p> 
  [Alec Baldwin: What are prop guns and why are they dangerous?](https://www.bbc.co.uk/news/world-us-canada-59006905?at_medium=RSS&at_campaign=KARANGA) BBC: An incident involving US actor Alec Baldwin puts the spotlight on an item often used on film sets. 
@@ -52,10 +56,6 @@ permalink: /charts/news/
  [Biden says US will defend Taiwan if China attacks](https://www.bbc.co.uk/news/world-asia-59005300?at_medium=RSS&at_campaign=KARANGA) BBC: His comments are an apparent departure from the long-held US position of "strategic ambiguity". 
  <p class="updated_time"> 02:13 AM CT, Oct. 22 </p> 
  [New Zealand Wants a 90% Vaccination Rate. Its Street Gangs May Hold the Key.](https://www.nytimes.com/2021/10/22/world/australia/new-zealand-vaccination-gangs.html) NYT: The country’s leaders have set aside some misgivings and cooperated with gang leaders to reach their communities. 
- <p class="updated_time"> 12:38 AM CT, Oct. 22 </p> 
- [N.I.H. Says Bat Research Group Failed to Submit Prompt Virus Findings](https://www.nytimes.com/2021/10/21/science/bats-covid-lab-leak-nih.html) NYT: The federal agency told a G.O.P. House member that it had notified EcoHealth Alliance, a group criticized for its U.S.-funded work with Wuhan scientists, to file data within five days. 
- <p class="updated_time"> 12:37 AM CT, Oct. 22 </p> 
- [China Evergrande Makes Payment to Dodge Default, Media Says](https://www.nytimes.com/2021/10/21/business/china-evergrande-bond-payment.html) NYT: The troubled property giant faced the threat of default if it didn’t meet its obligations to foreign bondholders by Saturday. 
  <p class="updated_time"> 12:32 AM CT, Oct. 22 </p> 
  [Li Yundi: China's 'Piano Prince' detained for hiring prostitute](https://www.bbc.co.uk/news/world-asia-china-59005937?at_medium=RSS&at_campaign=KARANGA) BBC: Observers said his detention could be seen as a warning to other "immoral" celebrities. 
  <p class="updated_time"> 10:19 PM CT, Oct. 21 </p> 
