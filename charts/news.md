@@ -6,6 +6,10 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 09:24 AM CT, Oct. 22 </p> 
+ [Eswatini protests: Nurses refuse to treat police after colleagues shot](https://www.bbc.co.uk/news/world-africa-59011033?at_medium=RSS&at_campaign=KARANGA) BBC: The health workers say security forces injured 30 colleagues when they opened fire at a protest. 
+ <p class="updated_time"> 09:18 AM CT, Oct. 22 </p> 
+ [Poland’s Attacks on Rule of Law Leave Europe at Odds With Itself](https://www.nytimes.com/2021/10/22/world/europe/eu-poland-rule-of-law.html) NYT: E.U. leaders are facing an increasingly urgent question: What to do with a member that repeatedly violates a core principle, but refuses to leave the club? 
  <p class="updated_time"> 09:09 AM CT, Oct. 22 </p> 
  [Pfizer Says Its Vaccine Is Highly Effective in 5- to 11-Year-Olds](https://www.nytimes.com/2021/10/22/us/politics/pfizer-vaccine-children-covid.html) NYT: The company reported that a lower dose of the vaccine was 90.7 percent effective in preventing symptomatic Covid-19 in a clinical trial. 
  <p class="updated_time"> 09:04 AM CT, Oct. 22 </p> 
@@ -16,8 +20,6 @@ permalink: /charts/news/
  [World's Health Care Workers Near Breaking Point, W.H.O warns](https://www.nytimes.com/2021/10/21/world/health-care-workers-burnout-who.html) NYT: The agency’s leaders also urged wealthy nations to take the lead in transferring doses of vaccines to the global South. 
  <p class="updated_time"> 08:20 AM CT, Oct. 22 </p> 
  [Crime-hit Chicago grapples with police vaccine revolt](https://www.bbc.co.uk/news/world-us-canada-58989555?at_medium=RSS&at_campaign=KARANGA) BBC: Vaccination rates have lagged among US police, even as Covid becomes their leading cause of death. 
- <p class="updated_time"> 08:04 AM CT, Oct. 22 </p> 
- [Eswatini protests: Nurses refuse to treat police after colleagues shot](https://www.bbc.co.uk/news/world-africa-59011033?at_medium=RSS&at_campaign=KARANGA) BBC: The health workers say security forces injured 30 colleagues when they opened fire at a protest. 
  <p class="updated_time"> 07:58 AM CT, Oct. 22 </p> 
  [China Evergrande Makes Payment to Dodge Default, Media Says](https://www.nytimes.com/2021/10/21/business/china-evergrande-bond-payment.html) NYT: The troubled real estate giant faced the threat of default if it didn’t meet its obligations to foreign bondholders by Saturday. 
  <p class="updated_time"> 07:49 AM CT, Oct. 22 </p> 
@@ -146,8 +148,6 @@ permalink: /charts/news/
  [As Chinese Women Seek to Crack Male Professions, Schools Stand in the Way](https://www.nytimes.com/2021/10/21/world/asia/china-schools-gender-bias.html) NYT: In China, some academic programs accept only men or cap the number of female applicants, who often must test higher than their male counterparts. 
  <p class="updated_time"> 11:27 AM CT, Oct. 21 </p> 
  [The Webb Telescope’s Latest Stumbling Block: Its Name](https://www.nytimes.com/2021/10/20/science/webb-telescope-astronomy-homophobia.html) NYT: The long-awaited successor to the Hubble Space Telescope is scheduled to launch in December. But the NASA official for whom it is named has been accused of homophobia. 
- <p class="updated_time"> 09:10 AM CT, Oct. 21 </p> 
- [Female Afghan Judges and Lawyers Now Fear For Their Lives](https://www.nytimes.com/2021/10/21/world/asia/afghan-judges-women-taliban.html) NYT: They fear that they or their loved ones could be tracked down and killed because of their work delivering justice to women. “We have lost everything — our jobs, our homes, the way we lived.” 
  <p class="updated_time"> 08:23 AM CT, Oct. 21 </p> 
  [India Hits One Billion Covid-19 Vaccines Administered](https://www.wsj.com/articles/india-hits-one-billion-covid-19-vaccines-administered-11634837017) WSJ: The milestone in a once-faltering inoculation campaign signals India could begin allowing more vaccine exports to developing countries soon. 
  <p class="updated_time"> 07:29 AM CT, Oct. 21 </p> 
