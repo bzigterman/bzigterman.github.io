@@ -6,6 +6,12 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 08:23 AM CT, Oct. 22 </p> 
+ [World's Health Care Workers Near Breaking Point, W.H.O warns](https://www.nytimes.com/2021/10/21/world/health-care-workers-burnout-who.html) NYT: The agency’s leaders also urged wealthy nations to take the lead in transferring doses of vaccines to the global South. 
+ <p class="updated_time"> 08:20 AM CT, Oct. 22 </p> 
+ [Crime-hit Chicago grapples with police vaccine revolt](https://www.bbc.co.uk/news/world-us-canada-58989555?at_medium=RSS&at_campaign=KARANGA) BBC: Vaccination rates have lagged among US police, even as Covid becomes their leading cause of death. 
+ <p class="updated_time"> 08:04 AM CT, Oct. 22 </p> 
+ [Eswatini protests: Nurses refuse to treat police after colleagues shot](https://www.bbc.co.uk/news/world-africa-59011033?at_medium=RSS&at_campaign=KARANGA) BBC: The health workers say security forces injured 30 colleagues when they opened fire at a protest. 
  <p class="updated_time"> 07:58 AM CT, Oct. 22 </p> 
  [China Evergrande Makes Payment to Dodge Default, Media Says](https://www.nytimes.com/2021/10/21/business/china-evergrande-bond-payment.html) NYT: The troubled real estate giant faced the threat of default if it didn’t meet its obligations to foreign bondholders by Saturday. 
  <p class="updated_time"> 07:49 AM CT, Oct. 22 </p> 
@@ -19,7 +25,7 @@ permalink: /charts/news/
  <p class="updated_time"> 06:25 AM CT, Oct. 22 </p> 
  [DR Congo students march into parliament demanding better teacher pay](https://www.bbc.co.uk/news/world-africa-59010951?at_medium=RSS&at_campaign=KARANGA) BBC: Students march into parliament in the Democratic Republic of Congo demanding better pay for teachers. 
  <p class="updated_time"> 06:23 AM CT, Oct. 22 </p> 
- [Mozambique: Tuskless elephant evolution linked to Ivory hunting](https://www.bbc.co.uk/news/world-africa-59008037?at_medium=RSS&at_campaign=KARANGA) BBC: Scientists say poaching during Mozambique's civil war led to more females being born without tusks. 
+ [Mozambique: Tuskless elephant evolution linked to ivory hunting](https://www.bbc.co.uk/news/world-africa-59008037?at_medium=RSS&at_campaign=KARANGA) BBC: Scientists say poaching during Mozambique's civil war led to more females being born without tusks. 
  <p class="updated_time"> 06:20 AM CT, Oct. 22 </p> 
  [Putin Won’t Go to Glasgow for Climate Conference](https://www.nytimes.com/2021/10/20/world/europe/putin-glasgow-climate-conference-cop26.html) NYT: President Vladimir V. Putin of Russia may make a speech by video at the United Nations summit, which is seen as pivotal in efforts to stem climate change. 
  <p class="updated_time"> 05:50 AM CT, Oct. 22 </p> 
@@ -52,8 +58,12 @@ permalink: /charts/news/
  [Brian Laundrie: Remains of Gabby Petito's fiancé found - FBI](https://www.bbc.co.uk/news/world-us-canada-59004831?at_medium=RSS&at_campaign=KARANGA) BBC: A skull was reportedly found in the hunt for Brian Laundrie, a person of interest in Gabby Petito's death. 
  <p class="updated_time"> 03:46 AM CT, Oct. 22 </p> 
  [Your Friday Briefing](https://www.nytimes.com/2021/10/21/briefing/climate-change-donald-trump.html) NYT: The geopolitical risks of climate change. 
+ <p class="updated_time"> 03:31 AM CT, Oct. 22 </p> 
+ [White House Moves to Plan B for Glasgow Climate Summit](https://www.wsj.com/articles/biden-wants-to-show-world-hes-serious-about-cutting-emissions-despite-u-s-congress-pushback-11634905864) WSJ: The Biden administration is aiming to tout executive actions to curb methane and vehicle emissions as signs of progress toward its climate goals. 
  <p class="updated_time"> 03:27 AM CT, Oct. 22 </p> 
  [Biden says US will defend Taiwan if China attacks](https://www.bbc.co.uk/news/world-asia-59005300?at_medium=RSS&at_campaign=KARANGA) BBC: His comments are an apparent departure from the long-held US position of "strategic ambiguity". 
+ <p class="updated_time"> 03:27 AM CT, Oct. 22 </p> 
+ [Mass Graves Stir Anger as Libya Seeks an Elusive Peace](https://www.wsj.com/articles/mass-graves-stir-anger-as-libya-seeks-an-elusive-peace-11634905670) WSJ: Residents and U.N. investigators say a militia group controlled by two brothers began rounding up residents and carrying out extrajudicial executions as a means of suppressing opposition to their rule. 
  <p class="updated_time"> 02:13 AM CT, Oct. 22 </p> 
  [New Zealand Wants a 90% Vaccination Rate. Its Street Gangs May Hold the Key.](https://www.nytimes.com/2021/10/22/world/australia/new-zealand-vaccination-gangs.html) NYT: The country’s leaders have set aside some misgivings and cooperated with gang leaders to reach their communities. 
  <p class="updated_time"> 12:32 AM CT, Oct. 22 </p> 
@@ -68,8 +78,6 @@ permalink: /charts/news/
  [Haitian Kidnappers Threaten to Kill Missionaries](https://www.nytimes.com/2021/10/21/world/americas/haiti-missionary-kidnapping-threat.html) NYT: As negotiators worked to secure the release of 17 people associated with an Ohio-based missionary group, their kidnappers released a video threatening their lives. 
  <p class="updated_time"> 08:44 PM CT, Oct. 21 </p> 
  [Canada Settles on a Single 'Vaccine Passport' for Travel](https://www.nytimes.com/2021/10/21/world/canada-vaccine-passport-travel.html) NYT: The document, already in use in five of the country’s 10 provinces and all three of its territories, will replace a patchwork of programs across Canada. 
- <p class="updated_time"> 08:16 PM CT, Oct. 21 </p> 
- [Crime-hit Chicago grapples with police vaccine revolt](https://www.bbc.co.uk/news/world-us-canada-58989555?at_medium=RSS&at_campaign=KARANGA) BBC: Vaccination rates have lagged among US police, even as Covid-19 becomes their leading cause of death. 
  <p class="updated_time"> 07:58 PM CT, Oct. 21 </p> 
  [Li Yundi Is Detained in China on Suspicion of Prostitution](https://www.nytimes.com/2021/10/21/arts/music/li-yundi-china-prostitution.html) NYT: Li Yundi, a famous performer, was accused of soliciting a woman, state news outlets said. Officials often use such accusations against their enemies. 
  <p class="updated_time"> 07:36 PM CT, Oct. 21 </p> 
@@ -78,6 +86,8 @@ permalink: /charts/news/
  [How Belarus is helping ‘tourists’ break into the EU](https://www.bbc.co.uk/news/world-58952867?at_medium=RSS&at_campaign=KARANGA) BBC: Belarus is accused of taking revenge for EU sanctions by offering migrants tourist visas, and helping them across its border. 
  <p class="updated_time"> 06:48 PM CT, Oct. 21 </p> 
  [Bangladesh's Hindus living in fear following mob attacks](https://www.bbc.co.uk/news/world-asia-58999047?at_medium=RSS&at_campaign=KARANGA) BBC: Homes and temples of Hindu Bangladeshis have been torched across the country, and at least seven killed. 
+ <p class="updated_time"> 06:42 PM CT, Oct. 21 </p> 
+ [Global Finance Watchdog Censures Turkey Over Money Laundering, Terrorist Financing](https://www.wsj.com/articles/global-finance-watchdog-censures-turkey-over-money-laundering-terrorist-financing-11634874171) WSJ: The Financial Action Task Force added Turkey to its list of countries requiring special regulatory oversight for failing to stop money laundering and terrorist financing, a designation analysts say will rattle Ankara’s already shaky economy. 
  <p class="updated_time"> 06:40 PM CT, Oct. 21 </p> 
  [Russia's Covid nightmare driven by vaccine rejection](https://www.bbc.co.uk/news/world-europe-58998366?at_medium=RSS&at_campaign=KARANGA) BBC: More than 1,000 people are dying in Russia every day, and in Vologda only one in four is vaccinated. 
  <p class="updated_time"> 06:23 PM CT, Oct. 21 </p> 
@@ -90,8 +100,6 @@ permalink: /charts/news/
  [Steve Bannon: House votes for ex-Trump aide to face contempt charge](https://www.bbc.co.uk/news/world-us-canada-59004409?at_medium=RSS&at_campaign=KARANGA) BBC: Only nine Republicans in the chamber voted to hold Mr Bannon in contempt. 
  <p class="updated_time"> 06:02 PM CT, Oct. 21 </p> 
  [Khaby Lame: What is the secret to success for the Senegal-born TikToker?](https://www.bbc.co.uk/news/world-africa-59003020?at_medium=RSS&at_campaign=KARANGA) BBC: How the Senegalese-born 21-year-old's myth-busting of "life hacks" made him a household name. 
- <p class="updated_time"> 05:48 PM CT, Oct. 21 </p> 
- [World's Health Care Workers Near Breaking Point, W.H.O warns](https://www.nytimes.com/2021/10/21/world/health-care-workers-burnout-who.html) NYT: The agency’s leaders also urged wealthy nations to take the lead in transferring doses of vaccines to the global South. 
  <p class="updated_time"> 05:19 PM CT, Oct. 21 </p> 
  [Queen ‘Reluctantly’ Cancels Trip, Citing Medical Advice](https://www.nytimes.com/2021/10/20/world/europe/queen-elizabeth-northern-ireland.html) NYT: Britain’s 95-year-old monarch will not travel to Northern Ireland but is “in good spirits,” Buckingham Palace said. 
  <p class="updated_time"> 05:19 PM CT, Oct. 21 </p> 
@@ -142,12 +150,6 @@ permalink: /charts/news/
  [India Hits One Billion Covid-19 Vaccines Administered](https://www.wsj.com/articles/india-hits-one-billion-covid-19-vaccines-administered-11634837017) WSJ: The milestone in a once-faltering inoculation campaign signals India could begin allowing more vaccine exports to developing countries soon. 
  <p class="updated_time"> 07:29 AM CT, Oct. 21 </p> 
  [Tourists in Asia Navigate a Patchwork of Policies](https://www.nytimes.com/2021/10/21/world/asia/asia-travel-rules.html) NYT: NA 
- <p class="updated_time"> 07:23 AM CT, Oct. 21 </p> 
- [U.K. Charges Man With Murder of Lawmaker David Amess](https://www.wsj.com/articles/u-k-charges-ali-harbi-ali-with-murder-of-lawmaker-david-amess-11634823570) WSJ: British authorities charged a 25-year-old London man, Ali Harbi Ali, with murder and terrorism in the stabbing to death of the Conservative lawmaker last week. 
- <p class="updated_time"> 07:20 AM CT, Oct. 21 </p> 
- [Covid-19 Herd Immunity Proves Elusive in U.K.](https://www.wsj.com/articles/covid-19-herd-immunity-proves-elusive-in-u-k-11634810364) WSJ: In the summer, the U.K. lifted most restrictions in the hope that immunity would keep the virus at bay, but recent rises in cases and deaths indicate that reliance on this doesn’t guarantee a quick victory. 
- <p class="updated_time"> 05:33 AM CT, Oct. 21 </p> 
- [Xi Jinping Hasn't Left China in 21 Months, Keeping Diplomacy Virtual](https://www.wsj.com/articles/xi-jinping-hasnt-left-china-in-21-months-keeping-diplomacy-virtual-11634826813) WSJ: The Chinese leader, his world travels interrupted by the pandemic, is expected to remain a face on a screen at global summits, despite a sagging global reputation. 
  <p class="updated_time"> 05:21 AM CT, Oct. 21 </p> 
  [The Full Truth](https://www.nytimes.com/2021/10/21/briefing/booster-shots-jj-rochelle-walensky.html) NYT: What happens when health officials tell it? 
  <p class="updated_time"> 04:00 AM CT, Oct. 21 </p> 
