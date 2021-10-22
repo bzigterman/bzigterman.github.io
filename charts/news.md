@@ -6,18 +6,30 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 07:58 PM CT, Oct. 21 </p> 
+ [Li Yundi Is Detained in China on Suspicion of Prostitution](https://www.nytimes.com/2021/10/21/arts/music/li-yundi-china-prostitution.html) NYT: Li Yundi, a famous performer, was accused of soliciting a woman, state news outlets said. Officials often use such accusations against their enemies. 
+ <p class="updated_time"> 07:36 PM CT, Oct. 21 </p> 
+ [New Zealand’s Chief Coroner Opens New Inquiry Into Mosque Attacks](https://www.nytimes.com/2021/10/21/world/australia/new-zealand-christchurch-investigation.html) NYT: The move came after pleas from dozens of families of those killed in Christchurch in 2019 when a white supremacist opened fire on Muslims at prayer. 
+ <p class="updated_time"> 07:33 PM CT, Oct. 21 </p> 
+ [N.I.H. Says Bat Research Group Failed to Submit Prompt Virus Findings](https://www.nytimes.com/2021/10/21/science/bats-covid-lab-leak-nih.html) NYT: The federal agency told a G.O.P. House member that it had notified EcoHealth Alliance, a group criticized for its U.S.-funded work with Wuhan scientists, to file data within five days. 
+ <p class="updated_time"> 07:23 PM CT, Oct. 21 </p> 
+ [Melbourne: Celebrations as city exits sixth lockdown](https://www.bbc.co.uk/news/world-australia-58998418?at_medium=RSS&at_campaign=KARANGA) BBC: Australia's second largest city has seen over 260 days under restrictions in the pandemic so far. 
+ <p class="updated_time"> 07:22 PM CT, Oct. 21 </p> 
+ [Canada Settles on a Single 'Vaccine Passport' for Travel](https://www.nytimes.com/2021/10/21/world/canada-vaccine-passport-travel.html) NYT: The document, already in use in five of the country’s 10 provinces and all three of its territories, will replace a patchwork of programs across Canada. 
  <p class="updated_time"> 06:54 PM CT, Oct. 21 </p> 
  [Haitian Kidnappers Threaten to Kill Missionaries](https://www.nytimes.com/2021/10/21/world/americas/haiti-missionary-kidnapping-threat.html) NYT: As negotiators worked to secure the release of 17 people associated with an Ohio-based missionary group, their kidnappers released a video threatening their lives. 
+ <p class="updated_time"> 06:51 PM CT, Oct. 21 </p> 
+ [How Belarus is helping ‘tourists’ break into the EU](https://www.bbc.co.uk/news/world-58952867?at_medium=RSS&at_campaign=KARANGA) BBC: Belarus is accused of taking revenge for EU sanctions by offering migrants tourist visas, and helping them across its border. 
  <p class="updated_time"> 06:48 PM CT, Oct. 21 </p> 
  [Bangladesh's Hindus living in fear following mob attacks](https://www.bbc.co.uk/news/world-asia-58999047?at_medium=RSS&at_campaign=KARANGA) BBC: Homes and temples of Hindu Bangladeshis have been torched across the country, and at least seven killed. 
  <p class="updated_time"> 06:40 PM CT, Oct. 21 </p> 
  [Russia's Covid nightmare driven by vaccine rejection](https://www.bbc.co.uk/news/world-europe-58998366?at_medium=RSS&at_campaign=KARANGA) BBC: More than 1,000 people are dying in Russia every day, and in Vologda only one in four is vaccinated. 
- <p class="updated_time"> 06:37 PM CT, Oct. 21 </p> 
- [New Zealand’s Chief Coroner Opens New Inquiry Into Mosque Attacks](https://www.nytimes.com/2021/10/21/world/australia/new-zealand-christchurch-investigation.html) NYT: The move came after pleas from dozens of families of those killed in Christchurch in 2019 when a white supremacist opened fire on Muslims at prayer. 
  <p class="updated_time"> 06:24 PM CT, Oct. 21 </p> 
  [Gabby Petito: Fiancé Brian Laundrie's remains found - FBI](https://www.bbc.co.uk/news/world-us-canada-59004831?at_medium=RSS&at_campaign=KARANGA) BBC: A skull was reportedly found in the hunt for Brian Laundrie, a person of interest in Gabby Petito's death. 
  <p class="updated_time"> 06:23 PM CT, Oct. 21 </p> 
  [Why the Newcastle United takeover is controversial](https://www.bbc.co.uk/news/world-middle-east-58930311?at_medium=RSS&at_campaign=KARANGA) BBC: Here are some of the reasons why the Saudi-led consortium has proved controversial. 
+ <p class="updated_time"> 06:17 PM CT, Oct. 21 </p> 
+ [Canadians hurt slipping in snow can now sue cities](https://www.bbc.co.uk/news/world-us-canada-59004529?at_medium=RSS&at_campaign=KARANGA) BBC: The Supreme Court rules in favour of a woman who was injured climbing a snowbank in British Columbia. 
  <p class="updated_time"> 06:10 PM CT, Oct. 21 </p> 
  [They Fought Apartheid in South Africa. Now They Want Veterans’ Benefits.](https://www.nytimes.com/2021/10/19/world/africa/south-africa-apartheid-veterans-liberation-struggle.html) NYT: A protest movement by those who took up arms against apartheid has grown confrontational. More than 50 of them have been charged with kidnapping the country’s defense minister. 
  <p class="updated_time"> 06:10 PM CT, Oct. 21 </p> 
@@ -32,8 +44,6 @@ permalink: /charts/news/
  [Khaby Lame: What is the secret to success for the Senegal-born TikToker?](https://www.bbc.co.uk/news/world-africa-59003020?at_medium=RSS&at_campaign=KARANGA) BBC: How the Senegalese-born 21-year-old's myth-busting of "life hacks" made him a household name. 
  <p class="updated_time"> 05:48 PM CT, Oct. 21 </p> 
  [World's Health Care Workers Near Breaking Point, W.H.O warns](https://www.nytimes.com/2021/10/21/world/health-care-workers-burnout-who.html) NYT: The agency’s leaders also urged wealthy nations to take the lead in transferring doses of vaccines to the global South. 
- <p class="updated_time"> 05:46 PM CT, Oct. 21 </p> 
- [N.I.H. Says Bat Research Group Failed to Submit Prompt Virus Findings](https://www.nytimes.com/2021/10/21/science/bats-covid-lab-leak-nih.html) NYT: The federal agency told a G.O.P. House member that it had notified EcoHealth Alliance, a group criticized for its U.S.-funded work with Wuhan scientists, to file data within five days. 
  <p class="updated_time"> 05:19 PM CT, Oct. 21 </p> 
  [Queen ‘Reluctantly’ Cancels Trip, Citing Medical Advice](https://www.nytimes.com/2021/10/20/world/europe/queen-elizabeth-northern-ireland.html) NYT: Britain’s 95-year-old monarch will not travel to Northern Ireland but is “in good spirits,” Buckingham Palace said. 
  <p class="updated_time"> 05:19 PM CT, Oct. 21 </p> 
@@ -56,8 +66,6 @@ permalink: /charts/news/
  [Where Are the Workers?](https://www.nytimes.com/2021/10/20/briefing/labor-shortage-us-low-wage-economy.html) NYT: How can so many Americans afford not to work? And will it last? 
  <p class="updated_time"> 04:20 PM CT, Oct. 21 </p> 
  [Your Friday Briefing](https://www.nytimes.com/2021/10/21/briefing/australia-coal-british-covid-strategy-celtics.html) NYT: Why Australia won’t commit to emissions reductions. 
- <p class="updated_time"> 03:37 PM CT, Oct. 21 </p> 
- [Melbourne: Celebrations as city exits sixth lockdown](https://www.bbc.co.uk/news/world-australia-58998418?at_medium=RSS&at_campaign=KARANGA) BBC: The Australian city has spent more than 260 days under restrictions since the pandemic began. 
  <p class="updated_time"> 03:32 PM CT, Oct. 21 </p> 
  [With Splendor and Saints, Hispanic Society Shows Its Treasures](https://www.nytimes.com/2021/10/21/arts/design/hispanic-society-grolier-club.html) NYT: This gem of a museum in Upper Manhattan has reopened with an operatic eye-filler of religious sculptures we’re just learning to appreciate. 
  <p class="updated_time"> 03:29 PM CT, Oct. 21 </p> 
@@ -72,8 +80,6 @@ permalink: /charts/news/
  [Enes Kanter: Boston Celtics star under fire over China comments](https://www.bbc.co.uk/news/world-asia-china-58998423?at_medium=RSS&at_campaign=KARANGA) BBC: Enes Kanter calls China's leader a "brutal dictator", while Beijing accuses him of seeking attention. 
  <p class="updated_time"> 02:31 PM CT, Oct. 21 </p> 
  [US surgeon explains pig kidney-human transplant test](https://www.bbc.co.uk/news/health-59003998?at_medium=RSS&at_campaign=KARANGA) BBC: A US team says it successfully transplanted a genetically modified pig's kidney into a brain-dead human. 
- <p class="updated_time"> 02:20 PM CT, Oct. 21 </p> 
- [Canada Settles on a Single 'Vaccine Passport' for Travel](https://www.nytimes.com/2021/10/21/world/canada-vaccine-passport-travel.html) NYT: The document, already in use in five of the country’s 10 provinces and all three of its territories, will replace a patchwork of programs across Canada. 
  <p class="updated_time"> 02:16 PM CT, Oct. 21 </p> 
  [With Covid Cases Rising, Moscow's Mayor Announces Lockdown ](https://www.nytimes.com/2021/10/21/world/moscow-lockdown.html) NYT: Like many countries, Russia has seesawed between tighter and looser pandemic restrictions. As the coronavirus claims more victims, the pendulum is now swinging toward tightening. 
  <p class="updated_time"> 02:10 PM CT, Oct. 21 </p> 
@@ -100,12 +106,8 @@ permalink: /charts/news/
  [Haiti Gang That Kidnapped U.S. Missionaries Threatens to Kill Them](https://www.wsj.com/articles/haiti-gang-that-kidnapped-u-s-missionaries-threatens-to-kill-them-11634841503) WSJ: The head of a Haitian gang holding 17 American and Canadian missionaries captive has threatened to kill them if a ransom isn’t paid, according to a video. 
  <p class="updated_time"> 11:11 AM CT, Oct. 21 </p> 
  [Syria says it executed 24 people for starting 2020 wildfires](https://www.bbc.co.uk/news/world-middle-east-58997475?at_medium=RSS&at_campaign=KARANGA) BBC: The government alleges they admitted to igniting fires last year that left three people dead. 
- <p class="updated_time"> 11:09 AM CT, Oct. 21 </p> 
- [Big John, largest known triceratops skeleton, sold at auction](https://www.bbc.co.uk/news/world-europe-58998367?at_medium=RSS&at_campaign=KARANGA) BBC: The auction house said the skeleton was sold to a private collector for a European record of €6.65m. 
  <p class="updated_time"> 10:37 AM CT, Oct. 21 </p> 
  [Vikings settled in North America in 1021AD, study says](https://www.bbc.co.uk/news/world-us-canada-58996186?at_medium=RSS&at_campaign=KARANGA) BBC: Scientists say they have precisely dated a camp in Newfoundland, Canada, thanks to a new technique. 
- <p class="updated_time"> 10:22 AM CT, Oct. 21 </p> 
- [US surgeons test pig kidney transplant in a human](https://www.bbc.co.uk/news/health-58993696?at_medium=RSS&at_campaign=KARANGA) BBC: The kidney, from a genetically-altered pig, appeared to function well, say the surgical team. 
  <p class="updated_time"> 09:10 AM CT, Oct. 21 </p> 
  [Female Afghan Judges and Lawyers Now Fear For Their Lives](https://www.nytimes.com/2021/10/21/world/asia/afghan-judges-women-taliban.html) NYT: They fear that they or their loved ones could be tracked down and killed because of their work delivering justice to women. “We have lost everything — our jobs, our homes, the way we lived.” 
  <p class="updated_time"> 08:23 AM CT, Oct. 21 </p> 
@@ -142,8 +144,6 @@ permalink: /charts/news/
  [China: The patriotic 'ziganwu' bloggers who attack the West](https://www.bbc.co.uk/news/world-asia-china-58922011?at_medium=RSS&at_campaign=KARANGA) BBC: Their scathing posts have shot them to fame amid rising nationalist fervour - but they toe a fine line. 
  <p class="updated_time"> 04:15 PM CT, Oct. 20 </p> 
  [Brazil Senate’s Pandemic Panel, in Last-Minute Shift, Softened Criminal Recommendations on Bolsonaro](https://www.nytimes.com/2021/10/20/world/americas/bolsonaro-pandemic-inquiry-crimes.html) NYT: Senators on the 11-member panel had second thoughts about the provability of homicide and genocide charges. Instead, they accused the president of “crimes against humanity.” 
- <p class="updated_time"> 04:07 PM CT, Oct. 20 </p> 
- [Mix-and-Match Covid Boosters: Why They Just Might Work](https://www.nytimes.com/2021/10/19/health/covid-vaccine-mix-match.html) NYT: The F.D.A. may authorize booster shots of vaccines different from the ones that Americans originally received. The science behind the move is promising. 
  <p class="updated_time"> 03:20 PM CT, Oct. 20 </p> 
  [Navalny, Putin’s Imprisoned Foe, Wins E.U.’s Top Human Rights Award](https://www.nytimes.com/2021/10/20/world/europe/navalny-sakharov-prize-putin-russia.html) NYT: Aleksei A. Navalny, the Russian opposition leader who survived an assassination attempt only to be jailed, received the Sakharov Prize. 
  <p class="updated_time"> 03:05 PM CT, Oct. 20 </p> 
@@ -190,8 +190,6 @@ permalink: /charts/news/
  [Ukraine's Covid Deaths Soar as Fake Vaccination Certificates Spread](https://www.nytimes.com/2021/10/19/world/europe/ukraine-covid-deaths.html) NYT: In the country with the lowest rate of coronavirus vaccination in Europe, the proliferation of fakes threatens to undermine Ukraine’s fight against the virus. 
  <p class="updated_time"> 07:30 AM CT, Oct. 18 </p> 
  [COP26: Does a climate summit need 25,000 people? And more questions](https://www.bbc.co.uk/news/science-environment-58925049?at_medium=RSS&at_campaign=KARANGA) BBC: BBC science correspondent Matt McGrath answers your questions about Glasgow's COP26 climate summit. 
- <p class="updated_time"> 06:56 PM CT, Oct. 17 </p> 
- [I get abuse and threats online - why can't it be stopped?](https://www.bbc.co.uk/news/uk-58924168?at_medium=RSS&at_campaign=KARANGA) BBC: Online abuse against women is on the rise, but why aren't the police, government and social media sites doing more to stop it? 
  <p class="updated_time"> 06:13 PM CT, Oct. 17 </p> 
  [The climate activists who want Norway to end oil and gas production](https://www.bbc.co.uk/news/science-environment-58900652?at_medium=RSS&at_campaign=KARANGA) BBC: The BBC's Nick Beake meets the young climate activists trying to stop Norway drilling for oil and gas. 
 
