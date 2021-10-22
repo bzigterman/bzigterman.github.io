@@ -6,6 +6,10 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 12:39 PM CT, Oct. 22 </p> 
+ [Pfizer Says Its Vaccine Is Highly Effective in 5- to 11-Year-Olds](https://www.nytimes.com/2021/10/22/us/politics/pfizer-vaccine-children-covid.html) NYT: The companies reported that a lower dose of the vaccine had a 90.7 percent efficacy rate in preventing symptomatic Covid-19 in a clinical trial. 
+ <p class="updated_time"> 12:28 PM CT, Oct. 22 </p> 
+ [‘Needle Spiking’ of Women in Britain Stirs Alarm Over New Kind of Assault](https://www.nytimes.com/2021/10/22/world/europe/needle-spiking-uk.html) NYT: Women are reporting being injected with syringes at crowded clubs in a horrifying variation of dropping pill into drinks. “This is a new depth,’’ said a former chief of police. 
  <p class="updated_time"> 12:23 PM CT, Oct. 22 </p> 
  [‘Morally, They Are Lost’: Gangs in Haiti, Breaking a Taboo, Target the Church](https://www.nytimes.com/2021/10/22/world/americas/haiti-gangs-church.html) NYT: A French priest in Haiti recalls his kidnapping by 400 Mawozo, the same gang holding 16 Americans and a Canadian, including children, for ransom. 
  <p class="updated_time"> 12:04 PM CT, Oct. 22 </p> 
@@ -26,8 +30,6 @@ permalink: /charts/news/
  [Russia Strengthens Its Internet Censorship Powers](https://www.nytimes.com/2021/10/22/technology/russia-internet-censorship-putin.html) NYT: Quietly built over two years, the Kremlin’s censorship infrastructure gives it sweeping power to block sites. Many fear a new age of digital isolation. 
  <p class="updated_time"> 10:19 AM CT, Oct. 22 </p> 
  [Melbourne, 262 Days in Lockdown, Celebrates a Reopening](https://www.nytimes.com/2021/10/22/world/australia/melbourne-covid-lockdown-reopening.html) NYT: After hitting a vaccination target, Australia’s second largest city now has many fewer restrictions. 
- <p class="updated_time"> 10:00 AM CT, Oct. 22 </p> 
- [Pfizer Says Its Vaccine Is Highly Effective in 5- to 11-Year-Olds](https://www.nytimes.com/2021/10/22/us/politics/pfizer-vaccine-children-covid.html) NYT: The companies reported that a lower dose of the vaccine had a 90.7 percent efficacy rate in preventing symptomatic Covid-19 in a clinical trial. 
  <p class="updated_time"> 09:45 AM CT, Oct. 22 </p> 
  [Students sue Texas school district for banning long hair on boys](https://www.bbc.co.uk/news/world-us-canada-59013608?at_medium=RSS&at_campaign=KARANGA) BBC: Students were suspended and barred from school activities for wearing long hair, the lawsuit says. 
  <p class="updated_time"> 09:04 AM CT, Oct. 22 </p> 
@@ -166,8 +168,6 @@ permalink: /charts/news/
  [Your Thursday Briefing](https://www.nytimes.com/2021/10/20/briefing/climate-change-coronavirus-britain.html) NYT: Plans to extract more fossil fuels. 
  <p class="updated_time"> 10:29 PM CT, Oct. 20 </p> 
  [Spanish Court Agrees to Extradite Former Venezuela Spy Chief to U.S.](https://www.nytimes.com/2021/10/20/world/europe/spain-extradite-carvajal-venezuela.html) NYT: Hugo Carvajal, once a prominent figure in the government of the Venezuelan leader Nicolás Maduro, faces drug-trafficking charges in the United States. 
- <p class="updated_time"> 10:26 PM CT, Oct. 20 </p> 
- [Transgender Woman Flees Malaysia After Wearing Hijab](https://www.nytimes.com/2021/10/20/world/asia/malaysia-transgender.html) NYT: The Islamic authorities want to imprison her for wearing female clothing at a religious event and threatened to put her in a rehabilitation camp where she could “return to the right path.” 
  <p class="updated_time"> 07:51 PM CT, Oct. 20 </p> 
  [Blinken Cites ‘Democratic Reckoning’ in South America](https://www.nytimes.com/2021/10/20/world/americas/blinken-democracy-south-america.html) NYT: Secretary of State Antony Blinken warned of an eroding trust in democracy in the Western Hemisphere and described challenges posed to open government by authoritarian leaders. 
  <p class="updated_time"> 04:15 PM CT, Oct. 20 </p> 
