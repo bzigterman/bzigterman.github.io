@@ -6,6 +6,14 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 01:12 PM CT, Oct. 22 </p> 
+ [Alberta Investigation of Environmental Groups Falls Flat](https://www.nytimes.com/2021/10/22/world/canada/alberta-energy-inquiry.html) NYT: The report from a provincial inquiry into “anti-Alberta energy campaigns” didn’t back up Premier Jason Kenney’s allegations. 
+ <p class="updated_time"> 01:11 PM CT, Oct. 22 </p> 
+ [Eswatini protests: Nurses refuse to treat police after colleagues shot](https://www.bbc.co.uk/news/world-africa-59011033?at_medium=RSS&at_campaign=KARANGA) BBC: The health workers say security forces injured 30 colleagues when they opened fire at a protest. 
+ <p class="updated_time"> 01:04 PM CT, Oct. 22 </p> 
+ [Alec Baldwin 'heartbroken' over fatal film set shooting](https://www.bbc.co.uk/news/world-us-canada-59015889?at_medium=RSS&at_campaign=KARANGA) BBC: Director of photography Halyna Hutchins was killed by a prop gun fired by the actor in New Mexico. 
+ <p class="updated_time"> 12:51 PM CT, Oct. 22 </p> 
+ [South African ex-policewoman killed relatives and boyfriend for insurance cash](https://www.bbc.co.uk/news/world-africa-59011042?at_medium=RSS&at_campaign=KARANGA) BBC: Nomia Rosemary Ndlovu killed five family members and her boyfriend for life insurance, a court rules. 
  <p class="updated_time"> 12:43 PM CT, Oct. 22 </p> 
  [In Haiti, Gangs Gain Power as Security Vacuum Grows](https://www.nytimes.com/2021/10/21/world/americas/haiti-gangs-kidnapping.html) NYT: Gangs have long held sway in the country, but their dominance has expanded in recent years and the government has been accused of using them as tools of repression. 
  <p class="updated_time"> 12:39 PM CT, Oct. 22 </p> 
@@ -16,16 +24,12 @@ permalink: /charts/news/
  [‘Morally, They Are Lost’: Gangs in Haiti, Breaking a Taboo, Target the Church](https://www.nytimes.com/2021/10/22/world/americas/haiti-gangs-church.html) NYT: A French priest in Haiti recalls his kidnapping by 400 Mawozo, the same gang holding 16 Americans and a Canadian, including children, for ransom. 
  <p class="updated_time"> 12:04 PM CT, Oct. 22 </p> 
  [Amanda Knox Was Exonerated. That Doesn’t Mean She’s Free.](https://www.nytimes.com/2021/10/22/style/amanda-knox-ten-years-later.html) NYT: Ten years after being cleared of a heinous crime, she is still trying to tell her story on her own terms. 
- <p class="updated_time"> 11:25 AM CT, Oct. 22 </p> 
- [Alec Baldwin 'heartbroken' over fatal film set shooting](https://www.bbc.co.uk/news/world-us-canada-59015889?at_medium=RSS&at_campaign=KARANGA) BBC: Director of photography Halyna Hutchins was killed by a prop gun fired by the actor in New Mexico. 
  <p class="updated_time"> 11:22 AM CT, Oct. 22 </p> 
  [Poland’s Attacks on Rule of Law Leave Europe at Odds With Itself](https://www.nytimes.com/2021/10/22/world/europe/eu-poland-rule-of-law.html) NYT: E.U. leaders are facing an increasingly urgent question: What to do with a member that repeatedly violates a core principle, but refuses to leave the club? 
  <p class="updated_time"> 11:20 AM CT, Oct. 22 </p> 
  [Robert Durst charged with murder of ex-wife who vanished in 1982](https://www.bbc.co.uk/news/world-us-canada-59015482?at_medium=RSS&at_campaign=KARANGA) BBC: The jailed real estate heir is facing a new second-degree murder charge, authorities say. 
  <p class="updated_time"> 10:48 AM CT, Oct. 22 </p> 
  [EU leaders give Merkel an ovation at final summit](https://www.bbc.co.uk/news/world-europe-59008892?at_medium=RSS&at_campaign=KARANGA) BBC: Chancellor Merkel bows out from her role at the EU's helm, praised as Europe's "compass". 
- <p class="updated_time"> 10:38 AM CT, Oct. 22 </p> 
- [Eswatini protests: Nurses refuse to treat police after colleagues shot](https://www.bbc.co.uk/news/world-africa-59011033?at_medium=RSS&at_campaign=KARANGA) BBC: The health workers say security forces injured 30 colleagues when they opened fire at a protest. 
  <p class="updated_time"> 10:34 AM CT, Oct. 22 </p> 
  [Ohio mocked over wrong Wright brothers number plates](https://www.bbc.co.uk/news/world-us-canada-59008039?at_medium=RSS&at_campaign=KARANGA) BBC: The commemorative plate depicted a banner mistakenly attached to the front end of the historic plane. 
  <p class="updated_time"> 10:33 AM CT, Oct. 22 </p> 
@@ -64,12 +68,8 @@ permalink: /charts/news/
  [An Arctic Dispatch](https://www.nytimes.com/2021/10/22/briefing/russia-climate-change-arctic.html) NYT: We visit a Russian town on the Arctic Ocean that sees climate change as an economic opportunity. 
  <p class="updated_time"> 05:21 AM CT, Oct. 22 </p> 
  [France to pay 38m citizens €100 each to ease costs](https://www.bbc.co.uk/news/world-europe-59008890?at_medium=RSS&at_campaign=KARANGA) BBC: The one-off payment to lower-income groups is prompted by the spike in fuel and energy prices. 
- <p class="updated_time"> 04:14 AM CT, Oct. 22 </p> 
- [Bernard Haitink: Celebrated classical conductor dies at 92](https://www.bbc.co.uk/news/entertainment-arts-59002746?at_medium=RSS&at_campaign=KARANGA) BBC: Bernard Haitink led the world's top orchestras in London, Amsterdam, Chicago and Dresden. 
  <p class="updated_time"> 04:06 AM CT, Oct. 22 </p> 
  [How Russia Is Cashing In on Climate Change](https://www.nytimes.com/2021/10/22/world/europe/russia-arctic-climate-change-putin.html) NYT: Global warming may pose grave dangers around the world, but as one tiny Russian town on the Arctic Ocean shows, it can also be a ticket to prosperity. 
- <p class="updated_time"> 04:01 AM CT, Oct. 22 </p> 
- [Ananya Panday: Anti-drugs agency questions Bollywood actress](https://www.bbc.co.uk/news/world-asia-india-59005872?at_medium=RSS&at_campaign=KARANGA) BBC: It has not specified why Ananya Panday has been questioned for a second day in a row. 
  <p class="updated_time"> 04:00 AM CT, Oct. 22 </p> 
  [India's Farmer Protesters Are Confronting Modi Head-On](https://www.nytimes.com/2021/10/22/world/asia/india-farmers-protests-modi.html) NYT: A year on, protesters against the country’s agricultural laws are taking an increasingly confrontational approach with the country’s leaders. 
  <p class="updated_time"> 04:00 AM CT, Oct. 22 </p> 
@@ -184,8 +184,6 @@ permalink: /charts/news/
  [Ancient-DNA Researchers Set Ethics Guidelines for Their Work](https://www.nytimes.com/2021/10/20/science/ancient-dna-archaeology-ethics.html) NYT: New, international standards for handling ancient genetic material draw support from many scientists, criticism from others. 
  <p class="updated_time"> 01:54 PM CT, Oct. 20 </p> 
  [Egypt imposes a vaccine mandate for all government workers and university students.](https://www.nytimes.com/2021/10/20/world/egypt-covid-vaccine-mandate.html) NYT: Officials expect major deliveries of doses by the end of the month to speed up the country’s vaccination efforts. 
- <p class="updated_time"> 10:24 AM CT, Oct. 20 </p> 
- [Bombing of Military Bus in Syrian Capital Kills 14](https://www.nytimes.com/2021/10/20/world/middleeast/syria-military-bus-bombing.html) NYT: President Bashar al-Assad has tightened his grip on Damascus, but the attack suggested that militants who oppose him can still do harm. 
  <p class="updated_time"> 06:23 PM CT, Oct. 19 </p> 
  [Ros Atkins on… Europe's climate challenge](https://www.bbc.co.uk/news/science-environment-58970153?at_medium=RSS&at_campaign=KARANGA) BBC: Ros Atkins looks at how Europe is getting to grips with its emissions problem. 
  <p class="updated_time"> 07:30 AM CT, Oct. 18 </p> 
