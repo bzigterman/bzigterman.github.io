@@ -6,6 +6,12 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 10:38 AM CT, Oct. 22 </p> 
+ [Eswatini protests: Nurses refuse to treat police after colleagues shot](https://www.bbc.co.uk/news/world-africa-59011033?at_medium=RSS&at_campaign=KARANGA) BBC: The health workers say security forces injured 30 colleagues when they opened fire at a protest. 
+ <p class="updated_time"> 10:36 AM CT, Oct. 22 </p> 
+ [Amanda Knox Was Exonerated. That Doesn’t Mean She’s Free.](https://www.nytimes.com/2021/10/22/style/amanda-knox-ten-years-later.html) NYT: Ten years after being cleared of a heinous crime, she is still trying to tell her story on her own terms. 
+ <p class="updated_time"> 10:33 AM CT, Oct. 22 </p> 
+ [Russia Strengthens Its Internet Censorship Powers](https://www.nytimes.com/2021/10/22/technology/russia-internet-censorship-putin.html) NYT: Quietly built over two years, the Kremlin’s censorship infrastructure gives it sweeping power to block sites. Many fear a new age of digital isolation. 
  <p class="updated_time"> 10:19 AM CT, Oct. 22 </p> 
  [Melbourne, 262 Days in Lockdown, Celebrates a Reopening](https://www.nytimes.com/2021/10/22/world/australia/melbourne-covid-lockdown-reopening.html) NYT: After hitting a vaccination target, Australia’s second largest city now has many fewer restrictions. 
  <p class="updated_time"> 10:00 AM CT, Oct. 22 </p> 
@@ -14,8 +20,6 @@ permalink: /charts/news/
  [Alec Baldwin fatally shoots woman with prop gun on movie set](https://www.bbc.co.uk/news/world-us-canada-59005500?at_medium=RSS&at_campaign=KARANGA) BBC: A man is also being treated in hospital after the firearm was discharged on set in New Mexico. 
  <p class="updated_time"> 09:45 AM CT, Oct. 22 </p> 
  [Students sue Texas school district for banning long hair on boys](https://www.bbc.co.uk/news/world-us-canada-59013608?at_medium=RSS&at_campaign=KARANGA) BBC: Students were suspended and barred from school activities for wearing long hair, the suit says. 
- <p class="updated_time"> 09:24 AM CT, Oct. 22 </p> 
- [Eswatini protests: Nurses refuse to treat police after colleagues shot](https://www.bbc.co.uk/news/world-africa-59011033?at_medium=RSS&at_campaign=KARANGA) BBC: The health workers say security forces injured 30 colleagues when they opened fire at a protest. 
  <p class="updated_time"> 09:18 AM CT, Oct. 22 </p> 
  [Poland’s Attacks on Rule of Law Leave Europe at Odds With Itself](https://www.nytimes.com/2021/10/22/world/europe/eu-poland-rule-of-law.html) NYT: E.U. leaders are facing an increasingly urgent question: What to do with a member that repeatedly violates a core principle, but refuses to leave the club? 
  <p class="updated_time"> 09:04 AM CT, Oct. 22 </p> 
@@ -42,8 +46,6 @@ permalink: /charts/news/
  [Service-Sector Strength Aids Global Growth](https://www.wsj.com/articles/supply-chain-bottlenecks-crimp-global-growth-boost-inflation-11634899014) WSJ: Supply-chain bottlenecks persist, but an easing of the Delta variant of Covid-19 has boosted growth in the U.S., Japan and Australia. 
  <p class="updated_time"> 06:05 AM CT, Oct. 22 </p> 
  [U.S., Allies Try to Move Beyond Disputes Over Afghanistan, Submarine Contract](https://www.wsj.com/articles/u-s-allies-try-to-move-beyond-disputes-over-afghanistan-submarine-contract-11634915159) WSJ: NATO defense ministers agreed to a new plan to defend Europe in case of a Russian attack and sought to ease tensions over Europe’s efforts to equip itself for more independent military action. 
- <p class="updated_time"> 05:50 AM CT, Oct. 22 </p> 
- [Russia Strengthens Its Internet Censorship Powers](https://www.nytimes.com/2021/10/22/technology/russia-internet-censorship-putin.html) NYT: Quietly built over two years, the Kremlin’s censorship infrastructure gives it sweeping power to block sites. Many fear a new age of digital isolation. 
  <p class="updated_time"> 05:36 AM CT, Oct. 22 </p> 
  [Death after Alec Baldwin fires prop gun 'unfathomable'](https://www.bbc.co.uk/news/entertainment-arts-59008375?at_medium=RSS&at_campaign=KARANGA) BBC: A director who worked with Halyna Hutchins in 2020 describes the gun safety protocols films tend to use. 
  <p class="updated_time"> 05:25 AM CT, Oct. 22 </p> 
@@ -108,8 +110,6 @@ permalink: /charts/news/
  [Rise in Cases and Deaths Tests Britain’s Gamble on Few Virus Restrictions](https://www.nytimes.com/2021/10/21/world/europe/britain-virus.html) NYT: The country’s grand experiment — opening up with hardly any restrictions — is facing its toughest test yet. 
  <p class="updated_time"> 06:02 PM CT, Oct. 21 </p> 
  [Khaby Lame: What is the secret to success for the Senegal-born TikToker?](https://www.bbc.co.uk/news/world-africa-59003020?at_medium=RSS&at_campaign=KARANGA) BBC: How the Senegalese-born 21-year-old's myth-busting of "life hacks" made him a household name. 
- <p class="updated_time"> 05:19 PM CT, Oct. 21 </p> 
- [Queen ‘Reluctantly’ Cancels Trip, Citing Medical Advice](https://www.nytimes.com/2021/10/20/world/europe/queen-elizabeth-northern-ireland.html) NYT: Britain’s 95-year-old monarch will not travel to Northern Ireland but is “in good spirits,” Buckingham Palace said. 
  <p class="updated_time"> 05:19 PM CT, Oct. 21 </p> 
  [Queen Elizabeth Was Hospitalized, Palace Discloses](https://www.nytimes.com/2021/10/21/world/europe/queen-elizabeth-health-hospital.html) NYT: She was discharged on Thursday after undergoing tests the day before and spending the night. The queen, 95, had just canceled a planned trip to Northern Ireland. 
  <p class="updated_time"> 04:59 PM CT, Oct. 21 </p> 
