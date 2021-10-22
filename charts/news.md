@@ -6,6 +6,10 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 08:34 AM CT, Oct. 22 </p> 
+ [Pfizer Says Its Vaccine Is Highly Effective in 5- to 11-Year-Olds](https://www.nytimes.com/2021/10/22/us/politics/pfizer-vaccine-children-covid.html) NYT: The company reported that a lower dose of the vaccine was 90.7 percent effective in preventing symptomatic Covid-19 in a clinical trial. 
+ <p class="updated_time"> 08:30 AM CT, Oct. 22 </p> 
+ [Melbourne, 262 Days in Lockdown, Celebrates a Reopening](https://www.nytimes.com/2021/10/22/world/australia/melbourne-covid-lockdown-reopening.html) NYT: After hitting a vaccination target, Australia’s second largest city now has many fewer restrictions. 
  <p class="updated_time"> 08:23 AM CT, Oct. 22 </p> 
  [World's Health Care Workers Near Breaking Point, W.H.O warns](https://www.nytimes.com/2021/10/21/world/health-care-workers-burnout-who.html) NYT: The agency’s leaders also urged wealthy nations to take the lead in transferring doses of vaccines to the global South. 
  <p class="updated_time"> 08:20 AM CT, Oct. 22 </p> 
@@ -38,8 +42,6 @@ permalink: /charts/news/
  [France to pay 38m citizens €100 each to ease costs](https://www.bbc.co.uk/news/world-europe-59008890?at_medium=RSS&at_campaign=KARANGA) BBC: The one-off payment to lower-income groups is prompted by the spike in fuel and energy prices. 
  <p class="updated_time"> 04:26 AM CT, Oct. 22 </p> 
  [Alec Baldwin fatally shoots woman with prop gun on movie set](https://www.bbc.co.uk/news/world-us-canada-59005500?at_medium=RSS&at_campaign=KARANGA) BBC: A man is also being treated in hospital after the firearm was discharged on set in New Mexico. 
- <p class="updated_time"> 04:20 AM CT, Oct. 22 </p> 
- [Melbourne, 262 Days in Lockdown, Celebrates a Reopening](https://www.nytimes.com/2021/10/22/world/australia/melbourne-covid-lockdown-reopening.html) NYT: After hitting a vaccination target, Australia’s second largest city now has many fewer restrictions. 
  <p class="updated_time"> 04:14 AM CT, Oct. 22 </p> 
  [Bernard Haitink: Celebrated classical conductor dies at 92](https://www.bbc.co.uk/news/entertainment-arts-59002746?at_medium=RSS&at_campaign=KARANGA) BBC: Bernard Haitink led the world's top orchestras in London, Amsterdam, Chicago and Dresden. 
  <p class="updated_time"> 04:06 AM CT, Oct. 22 </p> 
@@ -180,8 +182,6 @@ permalink: /charts/news/
  [Egypt imposes a vaccine mandate for all government workers and university students.](https://www.nytimes.com/2021/10/20/world/egypt-covid-vaccine-mandate.html) NYT: Officials expect major deliveries of doses by the end of the month to speed up the country’s vaccination efforts. 
  <p class="updated_time"> 10:24 AM CT, Oct. 20 </p> 
  [Bombing of Military Bus in Syrian Capital Kills 14](https://www.nytimes.com/2021/10/20/world/middleeast/syria-military-bus-bombing.html) NYT: President Bashar al-Assad has tightened his grip on Damascus, but the attack suggested that militants who oppose him can still do harm. 
- <p class="updated_time"> 04:00 AM CT, Oct. 20 </p> 
- [Writing About a Past Injustice Helped Her See What Has and Hasn’t Changed](https://www.nytimes.com/2021/10/20/books/nadifa-mohamed-fortune-men.html) NYT: Nadifa Mohamed is a Booker Prize finalist for her novel “The Fortune Men,” a story about a false accusation and the tragedy that resulted. 
  <p class="updated_time"> 06:23 PM CT, Oct. 19 </p> 
  [Ros Atkins on… Europe's climate challenge](https://www.bbc.co.uk/news/science-environment-58970153?at_medium=RSS&at_campaign=KARANGA) BBC: Ros Atkins looks at how Europe is getting to grips with its emissions problem. 
  <p class="updated_time"> 07:30 AM CT, Oct. 18 </p> 
