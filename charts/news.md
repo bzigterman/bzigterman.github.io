@@ -6,6 +6,12 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 01:14 PM CT, Oct. 23 </p> 
+ [She Is Breaking Glass Ceilings in Space, but Facing Sexism on Earth](https://www.nytimes.com/2021/10/23/world/asia/china-space-women-wang-yaping.html) NYT: Sanitary pads and makeup: A Chinese astronaut’s six-month stay aboard the country’s space station has revealed conflicted cultural values toward gender. 
+ <p class="updated_time"> 01:11 PM CT, Oct. 23 </p> 
+ [Taliban Honor Suicide Bombers’ ‘Sacrifices’ in Bid to Rewrite History](https://www.nytimes.com/2021/10/23/world/asia/afghanistan-taliban-suicide-bombers.html) NYT: The new government brought together the bombers’ families at a publicized event, praising their actions but alienating those who have suffered at their hands. 
+ <p class="updated_time"> 01:10 PM CT, Oct. 23 </p> 
+ [Joel Souza, filmmaker wounded in Alec Baldwin gun incident, 'gutted' at friend's death](https://www.bbc.co.uk/news/world-us-canada-59024820?at_medium=RSS&at_campaign=KARANGA) BBC: Joel Souza, wounded by a gun fired by actor Alec Baldwin, grieves for lost friend Halyna Hutchins. 
  <p class="updated_time"> 01:05 PM CT, Oct. 23 </p> 
  [Turkey moves to throw out US and nine other envoys](https://www.bbc.co.uk/news/world-europe-59023465?at_medium=RSS&at_campaign=KARANGA) BBC: President Recep Tayyip Erdogan declares them "persona non grata" for urging an activist's release. 
  <p class="updated_time"> 12:57 PM CT, Oct. 23 </p> 
@@ -24,8 +30,6 @@ permalink: /charts/news/
  [Alex Quiñónez: Ecuador sprinter shot dead](https://www.bbc.co.uk/news/world-latin-america-59024487?at_medium=RSS&at_campaign=KARANGA) BBC: Quiñónez, one of the country's best known athletes, was shot in the city of Guayaquil. 
  <p class="updated_time"> 10:45 AM CT, Oct. 23 </p> 
  [U.S. Struggles With Afghan Evacuees Weeded Out, and Now in Limbo](https://www.nytimes.com/2021/10/23/us/politics/afghan-evacuees-kosovo.html) NYT: No final decisions have been made, but dozens red-flagged for apparent criminal pasts or links to militants have been sent to a base in Kosovo, where their fate is uncertain. 
- <p class="updated_time"> 09:36 AM CT, Oct. 23 </p> 
- [She Is Breaking Glass Ceilings in Space, but Facing Sexism on Earth](https://www.nytimes.com/2021/10/23/world/asia/china-space-women-wang-yaping.html) NYT: Sanitary pads and makeup: A Chinese astronaut’s six-month stay aboard the country’s space station has revealed conflicted cultural values toward gender. 
  <p class="updated_time"> 09:14 AM CT, Oct. 23 </p> 
  [Matteo Salvini: Right-wing Italy politician on trial for blocking migrant boat](https://www.bbc.co.uk/news/world-europe-59020839?at_medium=RSS&at_campaign=KARANGA) BBC: The right-wing politician is charged with kidnapping and dereliction of duty, which he denies. 
  <p class="updated_time"> 08:37 AM CT, Oct. 23 </p> 
@@ -44,8 +48,6 @@ permalink: /charts/news/
  [China Plans Property-Tax Trials as It Targets Speculation](https://www.wsj.com/articles/china-plots-property-tax-trials-as-it-targets-speculation-11634998929) WSJ: Beijing says it will conduct five-year property-tax pilot program in some regions, looking for ways to rein in real-estate speculation and distribute wealth more evenly. 
  <p class="updated_time"> 03:00 AM CT, Oct. 23 </p> 
  [A 12-Year-Old Girl Sparks Debate on Covid-19 Vaccines for Kids in Mexico](https://www.wsj.com/articles/a-12-year-old-girl-sparks-debate-on-covid-19-vaccines-for-kids-in-mexico-11634990403) WSJ: Zulma Gonzalez’s widely watched video challenging Mexico’s coronavirus czar pushed Mexico to vaccinate up to 1 million at-risk minors. 
- <p class="updated_time"> 02:19 AM CT, Oct. 23 </p> 
- [Alec Baldwin told gun was safe before fatal shooting - court records](https://www.bbc.co.uk/news/world-us-canada-59018391?at_medium=RSS&at_campaign=KARANGA) BBC: The actor was handed the weapon by an assistant director before Halyna Hutchins was shot, a warrant says. 
  <p class="updated_time"> 11:33 PM CT, Oct. 22 </p> 
  [Texas abortion law to stay in place until Supreme Court decision](https://www.bbc.co.uk/news/world-us-canada-59017479?at_medium=RSS&at_campaign=KARANGA) BBC: The controversial law will be tested next month when the court holds an expedited hearing. 
  <p class="updated_time"> 11:24 PM CT, Oct. 22 </p> 
@@ -140,8 +142,6 @@ permalink: /charts/news/
  [Khaby Lame: What is the secret to success for the Senegal-born TikToker?](https://www.bbc.co.uk/news/world-africa-59003020?at_medium=RSS&at_campaign=KARANGA) BBC: How the Senegalese-born 21-year-old's myth-busting of "life hacks" made him a household name. 
  <p class="updated_time"> 05:19 PM CT, Oct. 21 </p> 
  [Queen Elizabeth Was Hospitalized, Palace Discloses](https://www.nytimes.com/2021/10/21/world/europe/queen-elizabeth-health-hospital.html) NYT: She was discharged on Thursday after undergoing tests the day before and spending the night. The queen, 95, had just canceled a planned trip to Northern Ireland. 
- <p class="updated_time"> 04:58 PM CT, Oct. 21 </p> 
- [Your Thursday Briefing](https://www.nytimes.com/2021/10/20/briefing/russia-covid-pollution-fossil-fuels-evergrande.html) NYT: Russia’s ‘non-working’ week. 
  <p class="updated_time"> 04:58 PM CT, Oct. 21 </p> 
  [India's Covid Vaccine Campaign Hits 1 Billion Doses](https://www.nytimes.com/2021/10/20/world/asia/india-vaccination-covid.html) NYT: More than 70 percent of India’s adult population has now received at least one dose of a vaccine. Bulgaria, with the E.U.’s lowest vaccination rate, faces a case surge. 
  <p class="updated_time"> 04:20 PM CT, Oct. 21 </p> 
