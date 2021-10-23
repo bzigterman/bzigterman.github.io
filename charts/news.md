@@ -8,10 +8,14 @@ permalink: /charts/news/
 
  <p class="updated_time"> 09:44 PM CT, Oct. 22 </p> 
  [Alec Baldwin told gun was safe before fatal shooting - court records](https://www.bbc.co.uk/news/world-us-canada-59018391?at_medium=RSS&at_campaign=KARANGA) BBC: The actor was handed the weapon by an assistant director before Halyna Hutchins was shot, a warrant says. 
+ <p class="updated_time"> 08:37 PM CT, Oct. 22 </p> 
+ [Audio depicts Rust set after shooting](https://www.bbc.co.uk/news/world-us-canada-59018395?at_medium=RSS&at_campaign=KARANGA) BBC: Newly released recordings showed first responders’ activity after Baldwin shot Hutchins with a prop gun. 
  <p class="updated_time"> 07:26 PM CT, Oct. 22 </p> 
  [Abortion in Mexico: Fight for rights just beginning, women say](https://www.bbc.co.uk/news/world-latin-america-58900532?at_medium=RSS&at_campaign=KARANGA) BBC: Mexican women celebrate the Supreme Court ruling decriminalising abortion but say obstacles remain. 
  <p class="updated_time"> 07:26 PM CT, Oct. 22 </p> 
  [Former refugees in US to Afghans: 'You are not alone' ](https://www.bbc.co.uk/news/world-us-canada-58933699?at_medium=RSS&at_campaign=KARANGA) BBC: Refugees who fled their home countries to be in the US offer advice to America's newest refugees. 
+ <p class="updated_time"> 07:04 PM CT, Oct. 22 </p> 
+ [Saving a million salmon and a tribe in a historic drought](https://www.bbc.co.uk/news/world-us-canada-59018245?at_medium=RSS&at_campaign=KARANGA) BBC: Officials destroyed dams so salmon could swim upstream. It helped preserve the livelihoods of the Hupa tribe. 
  <p class="updated_time"> 06:54 PM CT, Oct. 22 </p> 
  [The soft toys parents hope connect kids to their faith](https://www.bbc.co.uk/news/business-58925796?at_medium=RSS&at_campaign=KARANGA) BBC: Why sales of 'singing' religious cuddly toys for very young children are booming. 
  <p class="updated_time"> 06:54 PM CT, Oct. 22 </p> 
@@ -64,8 +68,6 @@ permalink: /charts/news/
  [U.S., Allies Try to Move Beyond Disputes Over Afghanistan, Submarine Contract](https://www.wsj.com/articles/u-s-allies-try-to-move-beyond-disputes-over-afghanistan-submarine-contract-11634915159) WSJ: NATO defense ministers agreed to a new plan to defend Europe in case of a Russian attack and sought to ease tensions over Europe’s efforts to equip itself for more independent military action. 
  <p class="updated_time"> 11:22 AM CT, Oct. 22 </p> 
  [Poland’s Attacks on Rule of Law Leave Europe at Odds With Itself](https://www.nytimes.com/2021/10/22/world/europe/eu-poland-rule-of-law.html) NYT: E.U. leaders are facing an increasingly urgent question: What to do with a member that repeatedly violates a core principle, but refuses to leave the club? 
- <p class="updated_time"> 11:20 AM CT, Oct. 22 </p> 
- [Robert Durst charged with murder of ex-wife who vanished in 1982](https://www.bbc.co.uk/news/world-us-canada-59015482?at_medium=RSS&at_campaign=KARANGA) BBC: The jailed real estate heir is facing a new second-degree murder charge, authorities say. 
  <p class="updated_time"> 10:54 AM CT, Oct. 22 </p> 
  [Brazil Markets Hit by Worries About Government Spending](https://www.wsj.com/articles/brazil-markets-hit-by-worries-about-government-spending-11634932463) WSJ: The country’s stock market has lost about $70 billion in value this week after President Jair Bolsonaro moved to fund new handouts for the poor by altering a constitutional spending cap. 
  <p class="updated_time"> 10:34 AM CT, Oct. 22 </p> 
@@ -74,8 +76,6 @@ permalink: /charts/news/
  [Melbourne, 262 Days in Lockdown, Celebrates a Reopening](https://www.nytimes.com/2021/10/22/world/australia/melbourne-covid-lockdown-reopening.html) NYT: After hitting a vaccination target, Australia’s second largest city now has many fewer restrictions. 
  <p class="updated_time"> 09:45 AM CT, Oct. 22 </p> 
  [Students sue Texas school district for banning long hair on boys](https://www.bbc.co.uk/news/world-us-canada-59013608?at_medium=RSS&at_campaign=KARANGA) BBC: Students were suspended and barred from school activities for wearing long hair, the lawsuit says. 
- <p class="updated_time"> 09:04 AM CT, Oct. 22 </p> 
- [Alec Baldwin: What are prop guns and why are they dangerous?](https://www.bbc.co.uk/news/world-us-canada-59006905?at_medium=RSS&at_campaign=KARANGA) BBC: An incident involving US actor Alec Baldwin puts the spotlight on an item often used on film sets. 
  <p class="updated_time"> 07:49 AM CT, Oct. 22 </p> 
  [N.I.H. Says Bat Research Group Failed to Submit Prompt Virus Findings](https://www.nytimes.com/2021/10/21/science/bats-covid-lab-leak-nih.html) NYT: The federal agency told a G.O.P. House member that it had notified EcoHealth Alliance, a group criticized for its U.S.-funded work with Wuhan scientists, to file data within five days. 
  <p class="updated_time"> 07:43 AM CT, Oct. 22 </p> 
