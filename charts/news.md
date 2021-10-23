@@ -6,6 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 11:05 PM CT, Oct. 22 </p> 
+ [U.N. Flight Thwarted as Fighting Grows in Ethiopia](https://www.nytimes.com/2021/10/22/world/africa/ethiopia-united-nations-aid.html) NYT: A humanitarian flight was ordered to abort a landing in the capital of Ethiopia’s Tigray region, epicenter of the conflict, as government airstrikes hit the area for a fourth day. 
  <p class="updated_time"> 09:44 PM CT, Oct. 22 </p> 
  [Alec Baldwin told gun was safe before fatal shooting - court records](https://www.bbc.co.uk/news/world-us-canada-59018391?at_medium=RSS&at_campaign=KARANGA) BBC: The actor was handed the weapon by an assistant director before Halyna Hutchins was shot, a warrant says. 
  <p class="updated_time"> 08:37 PM CT, Oct. 22 </p> 
@@ -44,8 +46,6 @@ permalink: /charts/news/
  [U.S. Ramps Up Covid Boosters as Poor Nations Await First Doses](https://www.nytimes.com/2021/10/22/world/covid-vaccine-disparities.html) NYT: The booster program underlines the disparity in vaccine access, with wealthier nations accounting for more than three-quarters of all doses administered so far. 
  <p class="updated_time"> 02:31 PM CT, Oct. 22 </p> 
  [World's Health Care Workers Near Breaking Point, W.H.O warns](https://www.nytimes.com/2021/10/21/world/health-care-workers-burnout-who.html) NYT: The agency’s leaders also urged wealthy nations to take the lead in transferring doses of vaccines to the global South. 
- <p class="updated_time"> 02:27 PM CT, Oct. 22 </p> 
- [U.N. Flight Thwarted as Fighting Grows in Ethiopia](https://www.nytimes.com/2021/10/22/world/africa/ethiopia-united-nations-aid.html) NYT: A humanitarian flight was ordered to abort a landing in the capital of Ethiopia’s Tigray region, epicenter of the conflict, as government airstrikes hit the area for a fourth day. 
  <p class="updated_time"> 02:01 PM CT, Oct. 22 </p> 
  [New Zealand announces a plan to move away from lockdowns.](https://www.nytimes.com/2021/10/22/world/new-zealand-announces-a-plan-to-move-away-from-lockdowns.html) NYT: NA 
  <p class="updated_time"> 01:54 PM CT, Oct. 22 </p> 
