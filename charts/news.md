@@ -6,6 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 01:34 PM CT, Oct. 23 </p> 
+ [Erdogan Threatens to Expel 10 Western Ambassadors](https://www.nytimes.com/2021/10/23/world/europe/erdogan-turkey-ambassadors-persona-non-grata.html) NYT: The move follows a statement from the envoys demanding the release of a prominent philanthropist jailed since 2017. 
  <p class="updated_time"> 01:14 PM CT, Oct. 23 </p> 
  [She Is Breaking Glass Ceilings in Space, but Facing Sexism on Earth](https://www.nytimes.com/2021/10/23/world/asia/china-space-women-wang-yaping.html) NYT: Sanitary pads and makeup: A Chinese astronaut’s six-month stay aboard the country’s space station has revealed conflicted cultural values toward gender. 
  <p class="updated_time"> 01:11 PM CT, Oct. 23 </p> 
@@ -14,8 +16,6 @@ permalink: /charts/news/
  [Joel Souza, filmmaker wounded in Alec Baldwin gun incident, 'gutted' at friend's death](https://www.bbc.co.uk/news/world-us-canada-59024820?at_medium=RSS&at_campaign=KARANGA) BBC: Joel Souza, wounded by a gun fired by actor Alec Baldwin, grieves for lost friend Halyna Hutchins. 
  <p class="updated_time"> 01:05 PM CT, Oct. 23 </p> 
  [Turkey moves to throw out US and nine other envoys](https://www.bbc.co.uk/news/world-europe-59023465?at_medium=RSS&at_campaign=KARANGA) BBC: President Recep Tayyip Erdogan declares them "persona non grata" for urging an activist's release. 
- <p class="updated_time"> 12:57 PM CT, Oct. 23 </p> 
- [Erdogan Threatens to Expel 10 Western Ambassadors](https://www.nytimes.com/2021/10/23/world/europe/erdogan-turkey-ambassadors-persona-non-grata.html) NYT: The move follows a statement from the envoys demanding the release of a prominent philanthropist jailed since 2017. 
  <p class="updated_time"> 12:27 PM CT, Oct. 23 </p> 
  [‘Completely Lost’: For Some Afghans, Returning Home Is as Difficult as Fleeing](https://www.nytimes.com/2021/10/23/world/asia/afghans-returning-home.html) NYT: Thousands of Afghans who were in India for medical treatment when the country collapsed are now desperate to return, but have no money and no clear route home. 
  <p class="updated_time"> 12:23 PM CT, Oct. 23 </p> 
