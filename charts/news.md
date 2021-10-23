@@ -6,10 +6,10 @@ permalink: /charts/news/
 
 ## World News
 
- <p class="updated_time"> 02:46 PM CT, Oct. 23 </p> 
+ <p class="updated_time"> 03:04 PM CT, Oct. 23 </p> 
  [In India, Facebook Struggles to Combat Misinformation and Hate Speech ](https://www.nytimes.com/2021/10/23/technology/facebook-india-misinformation.html) NYT: Internal documents show a struggle with misinformation, hate speech and celebrations of violence in the country, the company’s biggest market. 
  <p class="updated_time"> 02:45 PM CT, Oct. 23 </p> 
- [Turkey moves to throw out US and nine other envoys](https://www.bbc.co.uk/news/world-europe-59023465?at_medium=RSS&at_campaign=KARANGA) BBC: President Recep Tayyip Erdogan declares them "persona non grata" for urging an activist's release. 
+ [Turkey moves to throw out US envoy and nine others](https://www.bbc.co.uk/news/world-europe-59023465?at_medium=RSS&at_campaign=KARANGA) BBC: President Recep Tayyip Erdogan declares them "persona non grata" for urging an activist's release. 
  <p class="updated_time"> 02:14 PM CT, Oct. 23 </p> 
  [Record-breaking ferris wheel opens in Dubai](https://www.bbc.co.uk/news/world-middle-east-59024669?at_medium=RSS&at_campaign=KARANGA) BBC: The massive wheel was opened in Dubai with a lavish fireworks display to mark the occasion. 
  <p class="updated_time"> 02:04 PM CT, Oct. 23 </p> 
@@ -34,6 +34,8 @@ permalink: /charts/news/
  [Alex Quiñónez: Ecuador sprinter shot dead](https://www.bbc.co.uk/news/world-latin-america-59024487?at_medium=RSS&at_campaign=KARANGA) BBC: Quiñónez, one of the country's best known athletes, was shot in the city of Guayaquil. 
  <p class="updated_time"> 10:45 AM CT, Oct. 23 </p> 
  [U.S. Struggles With Afghan Evacuees Weeded Out, and Now in Limbo](https://www.nytimes.com/2021/10/23/us/politics/afghan-evacuees-kosovo.html) NYT: No final decisions have been made, but dozens red-flagged for apparent criminal pasts or links to militants have been sent to a base in Kosovo, where their fate is uncertain. 
+ <p class="updated_time"> 10:12 AM CT, Oct. 23 </p> 
+ [Facebook Services Are Used to Spread Religious Hatred in India, Internal Documents Show](https://www.wsj.com/articles/facebook-services-are-used-to-spread-religious-hatred-in-india-internal-documents-show-11635016354) WSJ: Internal Facebook documents show its services are used to spread religious hatred in India. Company researchers identified calls to violence that coincided with the 2020 riots in Delhi that left 53 dead. 
  <p class="updated_time"> 09:14 AM CT, Oct. 23 </p> 
  [Matteo Salvini: Right-wing Italy politician on trial for blocking migrant boat](https://www.bbc.co.uk/news/world-europe-59020839?at_medium=RSS&at_campaign=KARANGA) BBC: The right-wing politician is charged with kidnapping and dereliction of duty, which he denies. 
  <p class="updated_time"> 08:37 AM CT, Oct. 23 </p> 
@@ -98,8 +100,6 @@ permalink: /charts/news/
  [U.S., Allies Try to Move Beyond Disputes Over Afghanistan, Submarine Contract](https://www.wsj.com/articles/u-s-allies-try-to-move-beyond-disputes-over-afghanistan-submarine-contract-11634915159) WSJ: NATO defense ministers agreed to a new plan to defend Europe in case of a Russian attack and sought to ease tensions over Europe’s efforts to equip itself for more independent military action. 
  <p class="updated_time"> 11:22 AM CT, Oct. 22 </p> 
  [Poland’s Attacks on Rule of Law Leave Europe at Odds With Itself](https://www.nytimes.com/2021/10/22/world/europe/eu-poland-rule-of-law.html) NYT: E.U. leaders are facing an increasingly urgent question: What to do with a member that repeatedly violates a core principle, but refuses to leave the club? 
- <p class="updated_time"> 10:54 AM CT, Oct. 22 </p> 
- [Brazil Markets Hit by Worries About Government Spending](https://www.wsj.com/articles/brazil-markets-hit-by-worries-about-government-spending-11634932463) WSJ: The country’s stock market has lost about $70 billion in value this week after President Jair Bolsonaro moved to fund new handouts for the poor by altering a constitutional spending cap. 
  <p class="updated_time"> 10:19 AM CT, Oct. 22 </p> 
  [Melbourne, 262 Days in Lockdown, Celebrates a Reopening](https://www.nytimes.com/2021/10/22/world/australia/melbourne-covid-lockdown-reopening.html) NYT: After hitting a vaccination target, Australia’s second largest city now has many fewer restrictions. 
  <p class="updated_time"> 07:49 AM CT, Oct. 22 </p> 
