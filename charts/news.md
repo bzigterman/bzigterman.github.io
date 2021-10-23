@@ -6,6 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 03:21 PM CT, Oct. 23 </p> 
+ [Biden Delays Release of Some J.F.K. Records, Citing Pandemic](https://www.nytimes.com/2021/10/23/world/americas/jfk-assassination-records-delayed-pandemic.html) NYT: The National Archives  require additional time to work on redactions, a White House statement on Friday said. 
  <p class="updated_time"> 03:04 PM CT, Oct. 23 </p> 
  [In India, Facebook Struggles to Combat Misinformation and Hate Speech ](https://www.nytimes.com/2021/10/23/technology/facebook-india-misinformation.html) NYT: Internal documents show a struggle with misinformation, hate speech and celebrations of violence in the country, the company’s biggest market. 
  <p class="updated_time"> 02:45 PM CT, Oct. 23 </p> 
@@ -26,6 +28,8 @@ permalink: /charts/news/
  [Agnes Tirop: Mourners pay respects to running star](https://www.bbc.co.uk/news/world-africa-59023302?at_medium=RSS&at_campaign=KARANGA) BBC: Many athletes turn out for the funeral of Agnes Tirop, who was found stabbed to death at her home. 
  <p class="updated_time"> 12:15 PM CT, Oct. 23 </p> 
  [Greta Thunberg: 'We need public pressure, not just summits'](https://www.bbc.co.uk/news/science-environment-59022846?at_medium=RSS&at_campaign=KARANGA) BBC: The climate activist speaks to the BBC about the COP26 conference, emissions targets and rickrolling. 
+ <p class="updated_time"> 12:01 PM CT, Oct. 23 </p> 
+ [Singapore will require vaccination or daily tests for workplace access next year.](https://www.nytimes.com/2021/10/23/world/singapore-will-require-vaccination-or-daily-tests-for-workplace-access-next-year.html) NYT: NA 
  <p class="updated_time"> 11:31 AM CT, Oct. 23 </p> 
  [‘Needle Spiking’ of Women in Britain Stirs Alarm Over New Kind of Assault](https://www.nytimes.com/2021/10/22/world/europe/needle-spiking-uk.html) NYT: Women are reporting being injected with syringes at crowded clubs in a horrifying variation of dropping pill into drinks. “This is a new depth,’’ said a former chief of police. 
  <p class="updated_time"> 11:11 AM CT, Oct. 23 </p> 
@@ -35,7 +39,11 @@ permalink: /charts/news/
  <p class="updated_time"> 10:45 AM CT, Oct. 23 </p> 
  [U.S. Struggles With Afghan Evacuees Weeded Out, and Now in Limbo](https://www.nytimes.com/2021/10/23/us/politics/afghan-evacuees-kosovo.html) NYT: No final decisions have been made, but dozens red-flagged for apparent criminal pasts or links to militants have been sent to a base in Kosovo, where their fate is uncertain. 
  <p class="updated_time"> 10:12 AM CT, Oct. 23 </p> 
- [Facebook Services Are Used to Spread Religious Hatred in India, Internal Documents Show](https://www.wsj.com/articles/facebook-services-are-used-to-spread-religious-hatred-in-india-internal-documents-show-11635016354) WSJ: Internal Facebook documents show its services are used to spread religious hatred in India. Company researchers identified calls to violence that coincided with the 2020 riots in Delhi that left 53 dead. 
+ [Facebook Apps Used to Spread Religious Hatred in India, Documents Show](https://www.wsj.com/articles/facebook-services-are-used-to-spread-religious-hatred-in-india-internal-documents-show-11635016354) WSJ: Internal Facebook documents show its services are used to spread religious hatred in India. Company researchers identified calls to violence that coincided with the 2020 riots in Delhi that left 53 dead. 
+ <p class="updated_time"> 09:31 AM CT, Oct. 23 </p> 
+ [Struggles over vaccine mandates, the death of Colin Powell: the week in Covid news.](https://www.nytimes.com/2021/10/23/world/americas/struggles-over-vaccine-mandates-the-death-of-colin-powell-the-week-in-covid-news.html) NYT: NA 
+ <p class="updated_time"> 09:17 AM CT, Oct. 23 </p> 
+ [New Zealand wants a 90% vaccination rate. Street gangs may hold the key.](https://www.nytimes.com/2021/10/23/world/new-zealand-wants-a-90-vaccination-rate-street-gangs-may-hold-the-key.html) NYT: NA 
  <p class="updated_time"> 09:14 AM CT, Oct. 23 </p> 
  [Matteo Salvini: Right-wing Italy politician on trial for blocking migrant boat](https://www.bbc.co.uk/news/world-europe-59020839?at_medium=RSS&at_campaign=KARANGA) BBC: The right-wing politician is charged with kidnapping and dereliction of duty, which he denies. 
  <p class="updated_time"> 08:37 AM CT, Oct. 23 </p> 
@@ -166,8 +174,6 @@ permalink: /charts/news/
  [South Korea’s First Homemade Rocket Lifts Off but Is ‘One Step Short’](https://www.nytimes.com/2021/10/21/world/asia/south-korea-rocket.html) NYT: The country aspires to be a leader in space technology, with plans to land an uncrewed craft on the moon by 2030. President Moon Jae-in said the initial launch was excellent “for a first try.” 
  <p class="updated_time"> 12:55 PM CT, Oct. 21 </p> 
  [As Chinese Women Seek to Crack Male Professions, Schools Stand in the Way](https://www.nytimes.com/2021/10/21/world/asia/china-schools-gender-bias.html) NYT: In China, some academic programs accept only men or cap the number of female applicants, who often must test higher than their male counterparts. 
- <p class="updated_time"> 11:27 AM CT, Oct. 21 </p> 
- [The Webb Telescope’s Latest Stumbling Block: Its Name](https://www.nytimes.com/2021/10/20/science/webb-telescope-astronomy-homophobia.html) NYT: The long-awaited successor to the Hubble Space Telescope is scheduled to launch in December. But the NASA official for whom it is named has been accused of homophobia. 
  <p class="updated_time"> 07:29 AM CT, Oct. 21 </p> 
  [Tourists in Asia Navigate a Patchwork of Policies](https://www.nytimes.com/2021/10/21/world/asia/asia-travel-rules.html) NYT: NA 
  <p class="updated_time"> 05:21 AM CT, Oct. 21 </p> 
@@ -176,10 +182,6 @@ permalink: /charts/news/
  [Why Australia Won’t Commit to Slashing Carbon Emissions](https://www.nytimes.com/2021/10/21/world/australia/australia-coal-fossil-fuel-carbon.html) NYT: The country has fallen behind other developed nations in its commitment to slashing carbon emissions. Neither fires nor international pressure has pushed it away from coal and other fossil fuels. 
  <p class="updated_time"> 02:11 AM CT, Oct. 21 </p> 
  [How green politics are changing Europe](https://www.bbc.co.uk/news/world-europe-58910712?at_medium=RSS&at_campaign=KARANGA) BBC: The Greens performed well in German elections but they are having to adapt their policies to succeed. 
- <p class="updated_time"> 11:35 PM CT, Oct. 20 </p> 
- [Your Thursday Briefing](https://www.nytimes.com/2021/10/20/briefing/climate-change-coronavirus-britain.html) NYT: Plans to extract more fossil fuels. 
- <p class="updated_time"> 07:51 PM CT, Oct. 20 </p> 
- [Blinken Cites ‘Democratic Reckoning’ in South America](https://www.nytimes.com/2021/10/20/world/americas/blinken-democracy-south-america.html) NYT: Secretary of State Antony Blinken warned of an eroding trust in democracy in the Western Hemisphere and described challenges posed to open government by authoritarian leaders. 
  <p class="updated_time"> 06:23 PM CT, Oct. 19 </p> 
  [Ros Atkins on… Europe's climate challenge](https://www.bbc.co.uk/news/science-environment-58970153?at_medium=RSS&at_campaign=KARANGA) BBC: Ros Atkins looks at how Europe is getting to grips with its emissions problem. 
  <p class="updated_time"> 07:30 AM CT, Oct. 18 </p> 
