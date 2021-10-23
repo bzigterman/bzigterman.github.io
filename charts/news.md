@@ -15,7 +15,7 @@ permalink: /charts/news/
  <p class="updated_time"> 11:05 PM CT, Oct. 22 </p> 
  [U.N. Flight Thwarted as Fighting Grows in Ethiopia](https://www.nytimes.com/2021/10/22/world/africa/ethiopia-united-nations-aid.html) NYT: A humanitarian flight was ordered to abort a landing in the capital of Ethiopia’s Tigray region, epicenter of the conflict, as government airstrikes hit the area for a fourth day. 
  <p class="updated_time"> 11:00 PM CT, Oct. 22 </p> 
- [Record high migrant detentions at US-Mexico border](https://www.bbc.co.uk/news/world-us-canada-59019791?at_medium=RSS&at_campaign=KARANGA) BBC: More than 1.7 million migrants were stopped in the past year, including 145,000 children. 
+ [Record high migrant detentions at US-Mexico border](https://www.bbc.co.uk/news/world-us-canada-59019791?at_medium=RSS&at_campaign=KARANGA) BBC: More than 1.7 million people were stopped in the past year, including 145,000 unaccompanied children. 
  <p class="updated_time"> 08:37 PM CT, Oct. 22 </p> 
  [Audio depicts Rust set after shooting](https://www.bbc.co.uk/news/world-us-canada-59018395?at_medium=RSS&at_campaign=KARANGA) BBC: Newly released recordings showed first responders’ activity after Baldwin shot Hutchins with a prop gun. 
  <p class="updated_time"> 07:26 PM CT, Oct. 22 </p> 
