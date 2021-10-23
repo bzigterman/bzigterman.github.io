@@ -6,8 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
- <p class="updated_time"> 09:26 PM CT, Oct. 22 </p> 
- [F.D.A. Regulators Add Weight to Approval of Pfizer Shot for Children](https://www.nytimes.com/2021/10/22/us/politics/pfizer-vaccine-children-covid.html) NYT: The findings could add momentum for F.D.A. authorization of the pediatric dose, perhaps as soon as next week, a long-awaited development that would affect 28 million children. 
+ <p class="updated_time"> 09:44 PM CT, Oct. 22 </p> 
+ [Alec Baldwin told gun was safe before fatal shooting - court records](https://www.bbc.co.uk/news/world-us-canada-59018391?at_medium=RSS&at_campaign=KARANGA) BBC: The actor was handed the weapon by an assistant director before Halyna Hutchins was shot, a warrant says. 
  <p class="updated_time"> 07:26 PM CT, Oct. 22 </p> 
  [Abortion in Mexico: Fight for rights just beginning, women say](https://www.bbc.co.uk/news/world-latin-america-58900532?at_medium=RSS&at_campaign=KARANGA) BBC: Mexican women celebrate the Supreme Court ruling decriminalising abortion but say obstacles remain. 
  <p class="updated_time"> 07:26 PM CT, Oct. 22 </p> 
@@ -30,8 +30,6 @@ permalink: /charts/news/
  [Texas abortion law to stay in place until Supreme Court decision](https://www.bbc.co.uk/news/world-us-canada-59017479?at_medium=RSS&at_campaign=KARANGA) BBC: The controversial law will be tested next month when the court holds an expedited hearing. 
  <p class="updated_time"> 03:51 PM CT, Oct. 22 </p> 
  [‘Needle Spiking’ of Women in Britain Stirs Alarm Over New Kind of Assault](https://www.nytimes.com/2021/10/22/world/europe/needle-spiking-uk.html) NYT: Women are reporting being injected with syringes at crowded clubs in a horrifying variation of dropping pill into drinks. “This is a new depth,’’ said a former chief of police. 
- <p class="updated_time"> 03:46 PM CT, Oct. 22 </p> 
- [Alec Baldwin 'heartbroken' over fatal film set shooting](https://www.bbc.co.uk/news/world-us-canada-59015889?at_medium=RSS&at_campaign=KARANGA) BBC: Director of photography Halyna Hutchins was killed by a prop gun fired by the actor in New Mexico. 
  <p class="updated_time"> 03:21 PM CT, Oct. 22 </p> 
  [Israel Accuses 6 Palestinian Rights Groups of Terrorism](https://www.nytimes.com/2021/10/22/world/middleeast/israel-palestinian-rights-groups.html) NYT: The Defense Ministry said the groups work for leftist militants. Critics said the charge was aimed at quelling scrutiny of Israeli rights abuses. 
  <p class="updated_time"> 03:18 PM CT, Oct. 22 </p> 
@@ -132,6 +130,8 @@ permalink: /charts/news/
  [Khaby Lame: What is the secret to success for the Senegal-born TikToker?](https://www.bbc.co.uk/news/world-africa-59003020?at_medium=RSS&at_campaign=KARANGA) BBC: How the Senegalese-born 21-year-old's myth-busting of "life hacks" made him a household name. 
  <p class="updated_time"> 05:19 PM CT, Oct. 21 </p> 
  [Queen Elizabeth Was Hospitalized, Palace Discloses](https://www.nytimes.com/2021/10/21/world/europe/queen-elizabeth-health-hospital.html) NYT: She was discharged on Thursday after undergoing tests the day before and spending the night. The queen, 95, had just canceled a planned trip to Northern Ireland. 
+ <p class="updated_time"> 04:58 PM CT, Oct. 21 </p> 
+ [Britain Resists Calls to Introduce Covid Restrictions](https://www.nytimes.com/2021/10/20/world/europe/britain-covid-cases.html) NYT: The number of new cases in Britain is among the highest in the world, but the government has said there is no need to impose indoor mask mandates or other restrictions. 
  <p class="updated_time"> 04:58 PM CT, Oct. 21 </p> 
  [Your Thursday Briefing](https://www.nytimes.com/2021/10/20/briefing/russia-covid-pollution-fossil-fuels-evergrande.html) NYT: Russia’s ‘non-working’ week. 
  <p class="updated_time"> 04:58 PM CT, Oct. 21 </p> 
