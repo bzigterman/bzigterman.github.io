@@ -6,6 +6,18 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 07:26 PM CT, Oct. 22 </p> 
+ [Abortion in Mexico: Fight for rights just beginning, women say](https://www.bbc.co.uk/news/world-latin-america-58900532?at_medium=RSS&at_campaign=KARANGA) BBC: Mexican women celebrate the Supreme Court ruling decriminalising abortion but say obstacles remain. 
+ <p class="updated_time"> 07:26 PM CT, Oct. 22 </p> 
+ [Former refugees in US to Afghans: 'You are not alone' ](https://www.bbc.co.uk/news/world-us-canada-58933699?at_medium=RSS&at_campaign=KARANGA) BBC: Refugees who fled their home countries to be in the US offer advice to America's newest refugees. 
+ <p class="updated_time"> 06:54 PM CT, Oct. 22 </p> 
+ [The soft toys parents hope connect kids to their faith](https://www.bbc.co.uk/news/business-58925796?at_medium=RSS&at_campaign=KARANGA) BBC: Why sales of 'singing' religious cuddly toys for very young children are booming. 
+ <p class="updated_time"> 06:54 PM CT, Oct. 22 </p> 
+ [Will Apple be the last US tech giant left in China?](https://www.bbc.co.uk/news/technology-59009796?at_medium=RSS&at_campaign=KARANGA) BBC: As Microsoft closes down the main version of LinkedIn, Apple looks more alone in China than ever. 
+ <p class="updated_time"> 06:52 PM CT, Oct. 22 </p> 
+ [Covid: Romania's health system torn apart by pandemic](https://www.bbc.co.uk/news/world-europe-58992090?at_medium=RSS&at_campaign=KARANGA) BBC: Intensive care beds are full, patients wait outside and vaccination rates are among Europe's lowest. 
+ <p class="updated_time"> 06:51 PM CT, Oct. 22 </p> 
+ [Trafficked to Europe for sex: A survivor’s story](https://www.bbc.co.uk/news/stories-58994212?at_medium=RSS&at_campaign=KARANGA) BBC: Expecting to become a carer in Copenhagen, Jewel was forced into prostitution. But two chance meetings enabled her to escape. 
  <p class="updated_time"> 05:55 PM CT, Oct. 22 </p> 
  [Kerala floods: Our son was buried by mud - we couldn't save him](https://www.bbc.co.uk/news/world-asia-india-59017142?at_medium=RSS&at_campaign=KARANGA) BBC: The walls of three-year-old Sachu's house collapsed when it was hit by heavy rain and flooding in Kerala. 
  <p class="updated_time"> 05:47 PM CT, Oct. 22 </p> 
@@ -34,8 +46,6 @@ permalink: /charts/news/
  [New Zealand announces a plan to move away from lockdowns.](https://www.nytimes.com/2021/10/22/world/new-zealand-announces-a-plan-to-move-away-from-lockdowns.html) NYT: NA 
  <p class="updated_time"> 01:54 PM CT, Oct. 22 </p> 
  [Russia Strengthens Its Internet Censorship Powers](https://www.nytimes.com/2021/10/22/technology/russia-internet-censorship-putin.html) NYT: Quietly built over two years, the Kremlin’s censorship infrastructure gives it sweeping power to block sites. Many fear a new age of digital isolation. 
- <p class="updated_time"> 01:40 PM CT, Oct. 22 </p> 
- [Shot cinematographer Hutchins 'an incredible artist'](https://www.bbc.co.uk/news/entertainment-arts-59007724?at_medium=RSS&at_campaign=KARANGA) BBC: Halyna Hutchins, who has died on a film set, had been named an American Cinematographer rising star. 
  <p class="updated_time"> 01:30 PM CT, Oct. 22 </p> 
  [China Evergrande Makes Payment to Dodge Default, Media Says](https://www.nytimes.com/2021/10/21/business/china-evergrande-bond-payment.html) NYT: The troubled real estate giant faced the threat of default if it didn’t meet its obligations to foreign bondholders by Saturday. 
  <p class="updated_time"> 01:25 PM CT, Oct. 22 </p> 
@@ -58,8 +68,6 @@ permalink: /charts/news/
  [Robert Durst charged with murder of ex-wife who vanished in 1982](https://www.bbc.co.uk/news/world-us-canada-59015482?at_medium=RSS&at_campaign=KARANGA) BBC: The jailed real estate heir is facing a new second-degree murder charge, authorities say. 
  <p class="updated_time"> 10:54 AM CT, Oct. 22 </p> 
  [Brazil Markets Hit by Worries About Government Spending](https://www.wsj.com/articles/brazil-markets-hit-by-worries-about-government-spending-11634932463) WSJ: The country’s stock market has lost about $70 billion in value this week after President Jair Bolsonaro moved to fund new handouts for the poor by altering a constitutional spending cap. 
- <p class="updated_time"> 10:48 AM CT, Oct. 22 </p> 
- [EU leaders give Merkel an ovation at final summit](https://www.bbc.co.uk/news/world-europe-59008892?at_medium=RSS&at_campaign=KARANGA) BBC: Chancellor Merkel bows out from her role at the EU's helm, praised as Europe's "compass". 
  <p class="updated_time"> 10:34 AM CT, Oct. 22 </p> 
  [Ohio mocked over wrong Wright brothers number plates](https://www.bbc.co.uk/news/world-us-canada-59008039?at_medium=RSS&at_campaign=KARANGA) BBC: The commemorative plate depicted a banner mistakenly attached to the front end of the historic plane. 
  <p class="updated_time"> 10:19 AM CT, Oct. 22 </p> 
@@ -68,16 +76,12 @@ permalink: /charts/news/
  [Students sue Texas school district for banning long hair on boys](https://www.bbc.co.uk/news/world-us-canada-59013608?at_medium=RSS&at_campaign=KARANGA) BBC: Students were suspended and barred from school activities for wearing long hair, the lawsuit says. 
  <p class="updated_time"> 09:04 AM CT, Oct. 22 </p> 
  [Alec Baldwin: What are prop guns and why are they dangerous?](https://www.bbc.co.uk/news/world-us-canada-59006905?at_medium=RSS&at_campaign=KARANGA) BBC: An incident involving US actor Alec Baldwin puts the spotlight on an item often used on film sets. 
- <p class="updated_time"> 08:20 AM CT, Oct. 22 </p> 
- [Crime-hit Chicago grapples with police vaccine revolt](https://www.bbc.co.uk/news/world-us-canada-58989555?at_medium=RSS&at_campaign=KARANGA) BBC: Vaccination rates have lagged among US police, even as Covid becomes their leading cause of death. 
  <p class="updated_time"> 07:49 AM CT, Oct. 22 </p> 
  [N.I.H. Says Bat Research Group Failed to Submit Prompt Virus Findings](https://www.nytimes.com/2021/10/21/science/bats-covid-lab-leak-nih.html) NYT: The federal agency told a G.O.P. House member that it had notified EcoHealth Alliance, a group criticized for its U.S.-funded work with Wuhan scientists, to file data within five days. 
  <p class="updated_time"> 07:43 AM CT, Oct. 22 </p> 
  [Contrails: How tweaking flight plans can help the climate](https://www.bbc.co.uk/news/business-58769351?at_medium=RSS&at_campaign=KARANGA) BBC: Why experts say cutting contrails costs less than $1bn a year but may be worth so much more. 
  <p class="updated_time"> 07:15 AM CT, Oct. 22 </p> 
  [Bali reopens to foreign tourists, but government rules keep them away.](https://www.nytimes.com/2021/10/22/world/bali-reopens-to-foreign-tourists-but-government-rules-keep-them-away.html) NYT: NA 
- <p class="updated_time"> 06:23 AM CT, Oct. 22 </p> 
- [Mozambique: Tuskless elephant evolution linked to ivory hunting](https://www.bbc.co.uk/news/world-africa-59008037?at_medium=RSS&at_campaign=KARANGA) BBC: Scientists say poaching during Mozambique's civil war led to more females being born without tusks. 
  <p class="updated_time"> 06:11 AM CT, Oct. 22 </p> 
  [Service-Sector Strength Aids Global Growth](https://www.wsj.com/articles/supply-chain-bottlenecks-crimp-global-growth-boost-inflation-11634899014) WSJ: Supply-chain bottlenecks persist, but an easing of the Delta variant of Covid-19 has boosted growth in the U.S., Japan and Australia. 
  <p class="updated_time"> 06:06 AM CT, Oct. 22 </p> 
@@ -118,18 +122,12 @@ permalink: /charts/news/
  [Li Yundi Is Detained in China on Suspicion of Prostitution](https://www.nytimes.com/2021/10/21/arts/music/li-yundi-china-prostitution.html) NYT: Li Yundi, a famous performer, was accused of soliciting a woman, state news outlets said. Officials often use such accusations against their enemies. 
  <p class="updated_time"> 07:36 PM CT, Oct. 21 </p> 
  [New Zealand’s Chief Coroner Opens New Inquiry Into Mosque Attacks](https://www.nytimes.com/2021/10/21/world/australia/new-zealand-christchurch-investigation.html) NYT: The move came after pleas from dozens of families of those killed in Christchurch in 2019 when a white supremacist opened fire on Muslims at prayer. 
- <p class="updated_time"> 06:51 PM CT, Oct. 21 </p> 
- [How Belarus is helping ‘tourists’ break into the EU](https://www.bbc.co.uk/news/world-58952867?at_medium=RSS&at_campaign=KARANGA) BBC: Belarus is accused of taking revenge for EU sanctions by offering migrants tourist visas, and helping them across its border. 
- <p class="updated_time"> 06:48 PM CT, Oct. 21 </p> 
- [Bangladesh's Hindus living in fear following mob attacks](https://www.bbc.co.uk/news/world-asia-58999047?at_medium=RSS&at_campaign=KARANGA) BBC: Homes and temples of Hindu Bangladeshis have been torched across the country, and at least seven killed. 
  <p class="updated_time"> 06:42 PM CT, Oct. 21 </p> 
  [Global Finance Watchdog Censures Turkey Over Money Laundering, Terrorist Financing](https://www.wsj.com/articles/global-finance-watchdog-censures-turkey-over-money-laundering-terrorist-financing-11634874171) WSJ: The Financial Action Task Force added Turkey to its list of countries requiring special regulatory oversight for failing to stop money laundering and terrorist financing, a designation analysts say will rattle Ankara’s already shaky economy. 
- <p class="updated_time"> 06:40 PM CT, Oct. 21 </p> 
- [Russia's Covid nightmare driven by vaccine rejection](https://www.bbc.co.uk/news/world-europe-58998366?at_medium=RSS&at_campaign=KARANGA) BBC: More than 1,000 people are dying in Russia every day, and in Vologda only one in four is vaccinated. 
- <p class="updated_time"> 06:23 PM CT, Oct. 21 </p> 
- [Why the Newcastle United takeover is controversial](https://www.bbc.co.uk/news/world-middle-east-58930311?at_medium=RSS&at_campaign=KARANGA) BBC: Here are some of the reasons why the Saudi-led consortium has proved controversial. 
  <p class="updated_time"> 06:05 PM CT, Oct. 21 </p> 
  [Rise in Cases and Deaths Tests Britain’s Gamble on Few Virus Restrictions](https://www.nytimes.com/2021/10/21/world/europe/britain-virus.html) NYT: The country’s grand experiment — opening up with hardly any restrictions — is facing its toughest test yet. 
+ <p class="updated_time"> 06:02 PM CT, Oct. 21 </p> 
+ [Khaby Lame: What is the secret to success for the Senegal-born TikToker?](https://www.bbc.co.uk/news/world-africa-59003020?at_medium=RSS&at_campaign=KARANGA) BBC: How the Senegalese-born 21-year-old's myth-busting of "life hacks" made him a household name. 
  <p class="updated_time"> 05:19 PM CT, Oct. 21 </p> 
  [Queen Elizabeth Was Hospitalized, Palace Discloses](https://www.nytimes.com/2021/10/21/world/europe/queen-elizabeth-health-hospital.html) NYT: She was discharged on Thursday after undergoing tests the day before and spending the night. The queen, 95, had just canceled a planned trip to Northern Ireland. 
  <p class="updated_time"> 04:58 PM CT, Oct. 21 </p> 
