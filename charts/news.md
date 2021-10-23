@@ -6,16 +6,16 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 04:10 PM CT, Oct. 23 </p> 
+ [Erdogan Threatens to Expel 10 Western Ambassadors](https://www.nytimes.com/2021/10/23/world/europe/erdogan-turkey-ambassadors-persona-non-grata.html) NYT: The move follows a statement from the envoys demanding the release of a prominent philanthropist jailed since 2017. 
  <p class="updated_time"> 03:21 PM CT, Oct. 23 </p> 
- [Biden Delays Release of Some J.F.K. Records, Citing Pandemic](https://www.nytimes.com/2021/10/23/world/americas/jfk-assassination-records-delayed-pandemic.html) NYT: The National Archives  require additional time to work on redactions, a White House statement on Friday said. 
+ [Biden Delays Release of Some J.F.K. Records, Citing Pandemic](https://www.nytimes.com/2021/10/23/world/americas/jfk-assassination-pandemic.html) NYT: The National Archives  require additional time to work on redactions, a White House statement on Friday said. 
  <p class="updated_time"> 03:04 PM CT, Oct. 23 </p> 
  [In India, Facebook Struggles to Combat Misinformation and Hate Speech ](https://www.nytimes.com/2021/10/23/technology/facebook-india-misinformation.html) NYT: Internal documents show a struggle with misinformation, hate speech and celebrations of violence in the country, the company’s biggest market. 
  <p class="updated_time"> 02:45 PM CT, Oct. 23 </p> 
  [Turkey moves to throw out US envoy and nine others](https://www.bbc.co.uk/news/world-europe-59023465?at_medium=RSS&at_campaign=KARANGA) BBC: President Recep Tayyip Erdogan declares them "persona non grata" for urging an activist's release. 
  <p class="updated_time"> 02:14 PM CT, Oct. 23 </p> 
  [Record-breaking ferris wheel opens in Dubai](https://www.bbc.co.uk/news/world-middle-east-59024669?at_medium=RSS&at_campaign=KARANGA) BBC: The massive wheel was opened in Dubai with a lavish fireworks display to mark the occasion. 
- <p class="updated_time"> 02:04 PM CT, Oct. 23 </p> 
- [Erdogan Threatens to Expel 10 Western Ambassadors](https://www.nytimes.com/2021/10/23/world/europe/erdogan-turkey-ambassadors-persona-non-grata.html) NYT: The move follows a statement from the envoys demanding the release of a prominent philanthropist jailed since 2017. 
  <p class="updated_time"> 01:14 PM CT, Oct. 23 </p> 
  [She Is Breaking Glass Ceilings in Space, but Facing Sexism on Earth](https://www.nytimes.com/2021/10/23/world/asia/china-space-women-wang-yaping.html) NYT: Sanitary pads and makeup: A Chinese astronaut’s six-month stay aboard the country’s space station has revealed conflicted cultural values toward gender. 
  <p class="updated_time"> 01:11 PM CT, Oct. 23 </p> 
@@ -39,7 +39,7 @@ permalink: /charts/news/
  <p class="updated_time"> 10:45 AM CT, Oct. 23 </p> 
  [U.S. Struggles With Afghan Evacuees Weeded Out, and Now in Limbo](https://www.nytimes.com/2021/10/23/us/politics/afghan-evacuees-kosovo.html) NYT: No final decisions have been made, but dozens red-flagged for apparent criminal pasts or links to militants have been sent to a base in Kosovo, where their fate is uncertain. 
  <p class="updated_time"> 10:12 AM CT, Oct. 23 </p> 
- [Facebook Apps Used to Spread Religious Hatred in India, Documents Show](https://www.wsj.com/articles/facebook-services-are-used-to-spread-religious-hatred-in-india-internal-documents-show-11635016354) WSJ: Internal Facebook documents show its services are used to spread religious hatred in India. Company researchers identified calls to violence that coincided with the 2020 riots in Delhi that left 53 dead. 
+ [Facebook Apps Used to Spread Religious Hatred in India, Documents Show](https://www.wsj.com/articles/facebook-services-are-used-to-spread-religious-hatred-in-india-internal-documents-show-11635016354) WSJ: Company researchers identified calls to violence that coincided with the 2020 riots in Delhi that left 53 dead. 
  <p class="updated_time"> 09:31 AM CT, Oct. 23 </p> 
  [Struggles over vaccine mandates, the death of Colin Powell: the week in Covid news.](https://www.nytimes.com/2021/10/23/world/americas/struggles-over-vaccine-mandates-the-death-of-colin-powell-the-week-in-covid-news.html) NYT: NA 
  <p class="updated_time"> 09:17 AM CT, Oct. 23 </p> 
