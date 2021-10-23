@@ -6,8 +6,14 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 11:33 PM CT, Oct. 22 </p> 
+ [Texas abortion law to stay in place until Supreme Court decision](https://www.bbc.co.uk/news/world-us-canada-59017479?at_medium=RSS&at_campaign=KARANGA) BBC: The controversial law will be tested next month when the court holds an expedited hearing. 
+ <p class="updated_time"> 11:24 PM CT, Oct. 22 </p> 
+ [Israel Accuses 6 Palestinian Rights Groups of Terrorism](https://www.nytimes.com/2021/10/22/world/middleeast/israel-palestinian-rights-groups.html) NYT: The Defense Ministry said the groups work for leftist militants. Critics said the charge was aimed at quelling scrutiny of Israeli rights abuses. 
  <p class="updated_time"> 11:05 PM CT, Oct. 22 </p> 
  [U.N. Flight Thwarted as Fighting Grows in Ethiopia](https://www.nytimes.com/2021/10/22/world/africa/ethiopia-united-nations-aid.html) NYT: A humanitarian flight was ordered to abort a landing in the capital of Ethiopia’s Tigray region, epicenter of the conflict, as government airstrikes hit the area for a fourth day. 
+ <p class="updated_time"> 11:00 PM CT, Oct. 22 </p> 
+ [Record high migrant detentions at US-Mexico border](https://www.bbc.co.uk/news/world-us-canada-59019791?at_medium=RSS&at_campaign=KARANGA) BBC: More than 1.7 million migrants were stopped in the past year, including 145,000 children. 
  <p class="updated_time"> 09:44 PM CT, Oct. 22 </p> 
  [Alec Baldwin told gun was safe before fatal shooting - court records](https://www.bbc.co.uk/news/world-us-canada-59018391?at_medium=RSS&at_campaign=KARANGA) BBC: The actor was handed the weapon by an assistant director before Halyna Hutchins was shot, a warrant says. 
  <p class="updated_time"> 08:37 PM CT, Oct. 22 </p> 
@@ -32,12 +38,8 @@ permalink: /charts/news/
  [Amanda Knox Was Exonerated. That Doesn’t Mean She’s Free.](https://www.nytimes.com/2021/10/22/style/amanda-knox-ten-years-later.html) NYT: Ten years after being cleared of a heinous crime, she is still trying to tell her story on her own terms. 
  <p class="updated_time"> 04:59 PM CT, Oct. 22 </p> 
  [Alberta Investigation of Environmental Groups Falls Flat](https://www.nytimes.com/2021/10/22/world/canada/alberta-energy-inquiry.html) NYT: The report from a provincial inquiry into “anti-Alberta energy campaigns” didn’t back up Premier Jason Kenney’s allegations. 
- <p class="updated_time"> 04:56 PM CT, Oct. 22 </p> 
- [Texas abortion law to stay in place until Supreme Court decision](https://www.bbc.co.uk/news/world-us-canada-59017479?at_medium=RSS&at_campaign=KARANGA) BBC: The controversial law will be tested next month when the court holds an expedited hearing. 
  <p class="updated_time"> 03:51 PM CT, Oct. 22 </p> 
  [‘Needle Spiking’ of Women in Britain Stirs Alarm Over New Kind of Assault](https://www.nytimes.com/2021/10/22/world/europe/needle-spiking-uk.html) NYT: Women are reporting being injected with syringes at crowded clubs in a horrifying variation of dropping pill into drinks. “This is a new depth,’’ said a former chief of police. 
- <p class="updated_time"> 03:21 PM CT, Oct. 22 </p> 
- [Israel Accuses 6 Palestinian Rights Groups of Terrorism](https://www.nytimes.com/2021/10/22/world/middleeast/israel-palestinian-rights-groups.html) NYT: The Defense Ministry said the groups work for leftist militants. Critics said the charge was aimed at quelling scrutiny of Israeli rights abuses. 
  <p class="updated_time"> 03:18 PM CT, Oct. 22 </p> 
  [Barbados Elects Its First Head of State, Replacing Queen Elizabeth](https://www.nytimes.com/2021/10/22/world/americas/sandra-mason-barbados.html) NYT: The country’s Parliament chose Sandra Mason, the governor general, to assume the symbolic title, a decisive move to distance itself from Barbados’s colonial past. 
  <p class="updated_time"> 03:06 PM CT, Oct. 22 </p> 
@@ -104,8 +106,6 @@ permalink: /charts/news/
  [Your Friday Briefing](https://www.nytimes.com/2021/10/21/briefing/climate-change-donald-trump.html) NYT: The geopolitical risks of climate change. 
  <p class="updated_time"> 03:31 AM CT, Oct. 22 </p> 
  [White House Moves to Plan B for Glasgow Climate Summit](https://www.wsj.com/articles/biden-wants-to-show-world-hes-serious-about-cutting-emissions-despite-u-s-congress-pushback-11634905864) WSJ: The Biden administration is aiming to tout executive actions to curb methane and vehicle emissions as signs of progress toward its climate goals. 
- <p class="updated_time"> 03:27 AM CT, Oct. 22 </p> 
- [Biden says US will defend Taiwan if China attacks](https://www.bbc.co.uk/news/world-asia-59005300?at_medium=RSS&at_campaign=KARANGA) BBC: His comments are an apparent departure from the long-held US position of "strategic ambiguity". 
  <p class="updated_time"> 03:27 AM CT, Oct. 22 </p> 
  [Mass Graves Stir Anger as Libya Seeks an Elusive Peace](https://www.wsj.com/articles/mass-graves-stir-anger-as-libya-seeks-an-elusive-peace-11634905670) WSJ: Residents and U.N. investigators say a militia group controlled by two brothers began rounding up residents and carrying out extrajudicial executions as a means of suppressing opposition to their rule. 
  <p class="updated_time"> 02:13 AM CT, Oct. 22 </p> 
