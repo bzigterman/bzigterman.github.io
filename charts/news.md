@@ -6,6 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 10:45 AM CT, Oct. 23 </p> 
+ [U.S. Struggles With Afghan Evacuees Weeded Out, and Now in Limbo](https://www.nytimes.com/2021/10/23/us/politics/afghan-evacuees-kosovo.html) NYT: No final decisions have been made, but dozens red-flagged for apparent criminal pasts or links to militants have been sent to a base in Kosovo, where their fate is uncertain. 
  <p class="updated_time"> 10:00 AM CT, Oct. 23 </p> 
  [Turkey moves to throw out US and nine other envoys](https://www.bbc.co.uk/news/world-europe-59023465?at_medium=RSS&at_campaign=KARANGA) BBC: President Recep Tayyip Erdogan declares them "persona non grata" for urging an activist's release. 
  <p class="updated_time"> 09:36 AM CT, Oct. 23 </p> 
@@ -178,8 +180,6 @@ permalink: /charts/news/
  [Blinken Cites ‘Democratic Reckoning’ in South America](https://www.nytimes.com/2021/10/20/world/americas/blinken-democracy-south-america.html) NYT: Secretary of State Antony Blinken warned of an eroding trust in democracy in the Western Hemisphere and described challenges posed to open government by authoritarian leaders. 
  <p class="updated_time"> 04:15 PM CT, Oct. 20 </p> 
  [Brazil Senate’s Pandemic Panel, in Last-Minute Shift, Softened Criminal Recommendations on Bolsonaro](https://www.nytimes.com/2021/10/20/world/americas/bolsonaro-pandemic-inquiry-crimes.html) NYT: Senators on the 11-member panel had second thoughts about the provability of homicide and genocide charges. Instead, they accused the president of “crimes against humanity.” 
- <p class="updated_time"> 02:11 PM CT, Oct. 20 </p> 
- [Iran Plans to Abandon One of Its Homegrown Covid Shots](https://www.nytimes.com/2021/10/20/world/middleeast/iran-covid-vaccine-fakhravac.html) NYT: The defense ministry said there was too little demand for its Fakhravac vaccine to justify producing it, and blamed the health ministry for reneging on promised orders. 
  <p class="updated_time"> 06:23 PM CT, Oct. 19 </p> 
  [Ros Atkins on… Europe's climate challenge](https://www.bbc.co.uk/news/science-environment-58970153?at_medium=RSS&at_campaign=KARANGA) BBC: Ros Atkins looks at how Europe is getting to grips with its emissions problem. 
  <p class="updated_time"> 07:30 AM CT, Oct. 18 </p> 
