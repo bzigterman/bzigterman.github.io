@@ -6,6 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 08:13 AM CT, Oct. 23 </p> 
+ [Saudi Arabia commits to net zero emissions by 2060](https://www.bbc.co.uk/news/world-middle-east-58955584?at_medium=RSS&at_campaign=KARANGA) BBC: The world's biggest oil exporter will cut carbon emissions, but not stop producing fossil fuels. 
  <p class="updated_time"> 07:23 AM CT, Oct. 23 </p> 
  [U.N. Flight Thwarted as Fighting Grows in Ethiopia](https://www.nytimes.com/2021/10/22/world/africa/ethiopia-united-nations-aid.html) NYT: A humanitarian flight was ordered to abort a landing in the capital of Ethiopia’s Tigray region, epicenter of the conflict, as government airstrikes hit the area for a fourth day. 
  <p class="updated_time"> 07:09 AM CT, Oct. 23 </p> 
@@ -24,8 +26,6 @@ permalink: /charts/news/
  [Israel Accuses 6 Palestinian Rights Groups of Terrorism](https://www.nytimes.com/2021/10/22/world/middleeast/israel-palestinian-rights-groups.html) NYT: The Defense Ministry said the groups work for leftist militants. Critics said the charge was aimed at quelling scrutiny of Israeli rights abuses. 
  <p class="updated_time"> 11:00 PM CT, Oct. 22 </p> 
  [Record high migrant detentions at US-Mexico border](https://www.bbc.co.uk/news/world-us-canada-59019791?at_medium=RSS&at_campaign=KARANGA) BBC: More than 1.7 million people were stopped in the past year, including 145,000 unaccompanied children. 
- <p class="updated_time"> 08:37 PM CT, Oct. 22 </p> 
- [Audio depicts Rust set after shooting](https://www.bbc.co.uk/news/world-us-canada-59018395?at_medium=RSS&at_campaign=KARANGA) BBC: Newly released recordings showed first responders’ activity after Baldwin shot Hutchins with a prop gun. 
  <p class="updated_time"> 07:26 PM CT, Oct. 22 </p> 
  [Abortion in Mexico: Fight for rights just beginning, women say](https://www.bbc.co.uk/news/world-latin-america-58900532?at_medium=RSS&at_campaign=KARANGA) BBC: Mexican women celebrate the Supreme Court ruling decriminalising abortion but say obstacles remain. 
  <p class="updated_time"> 07:26 PM CT, Oct. 22 </p> 
