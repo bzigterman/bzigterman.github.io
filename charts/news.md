@@ -6,6 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 08:37 AM CT, Oct. 23 </p> 
+ [Pakistan and India Face Off in Cricket's T20 World Cup](https://www.nytimes.com/2021/10/23/world/asia/cricket-india-pakistan.html) NYT: It’s one of the greatest rivalries in sports, when war off the field allows it — a contest of national identities that will be renewed this Sunday in a World Cup match. 
  <p class="updated_time"> 08:13 AM CT, Oct. 23 </p> 
  [Saudi Arabia commits to net zero emissions by 2060](https://www.bbc.co.uk/news/world-middle-east-58955584?at_medium=RSS&at_campaign=KARANGA) BBC: The world's biggest oil exporter will cut carbon emissions, but not stop producing fossil fuels. 
  <p class="updated_time"> 07:23 AM CT, Oct. 23 </p> 
@@ -14,8 +16,6 @@ permalink: /charts/news/
  [Turkish Opposition Begins Joining Ranks Against Erdogan](https://www.nytimes.com/2021/10/23/world/middleeast/turkey-erdogan-opposition.html) NYT: With an eye on elections, six parties are working on a plan to end a powerful presidency and return to a parliamentary system. 
  <p class="updated_time"> 06:02 AM CT, Oct. 23 </p> 
  [China seeks to lift homework pressures on schoolchildren](https://www.bbc.co.uk/news/world-asia-china-59020837?at_medium=RSS&at_campaign=KARANGA) BBC: A new law urges parents to allow children time for rest and exercise, and restrict time spent online. 
- <p class="updated_time"> 05:58 AM CT, Oct. 23 </p> 
- [Pakistan and India Face Off in Cricket's T20 World Cup](https://www.nytimes.com/2021/10/23/world/asia/cricket-india-pakistan.html) NYT: It’s one of the greatest rivalries in sports, when war off the field allows it — a contest of national identities that will be renewed this Sunday in a World Cup match. 
  <p class="updated_time"> 04:00 AM CT, Oct. 23 </p> 
  [She Is Breaking Glass Ceilings in Space, but Facing Sexism on Earth](https://www.nytimes.com/2021/10/23/world/asia/china-space-women-wang-yaping.html) NYT: Sanitary pads and makeup: A Chinese astronaut’s six-month stay aboard the country’s space station has revealed conflicted cultural values toward gender. 
  <p class="updated_time"> 02:19 AM CT, Oct. 23 </p> 
