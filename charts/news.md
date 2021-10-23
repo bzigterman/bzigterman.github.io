@@ -6,6 +6,14 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 06:20 PM CT, Oct. 23 </p> 
+ [Why Kenyan churches are banning politicians from pulpits](https://www.bbc.co.uk/news/world-africa-58666703?at_medium=RSS&at_campaign=KARANGA) BBC: Churches seek to wrestle back control of pulpits from politicians after years of cosy relations. 
+ <p class="updated_time"> 06:19 PM CT, Oct. 23 </p> 
+ [Iran: The painful choices of being pregnant and unmarried](https://www.bbc.co.uk/news/world-middle-east-58957045?at_medium=RSS&at_campaign=KARANGA) BBC: Abortion or emigration are often considered the only way out by cohabiting couples who conceive. 
+ <p class="updated_time"> 06:17 PM CT, Oct. 23 </p> 
+ [Fears of new arms race after Chinese missile test](https://www.bbc.co.uk/news/world-asia-59001850?at_medium=RSS&at_campaign=KARANGA) BBC: China's firing of a new nuclear-capable missile carried on a glider has raised questions about a US response. 
+ <p class="updated_time"> 06:14 PM CT, Oct. 23 </p> 
+ [What's next after the release of Meng Wanzhou?](https://www.bbc.co.uk/news/world-us-canada-58916557?at_medium=RSS&at_campaign=KARANGA) BBC: Ms Meng and the two Canadian Michaels are home - but will the relations with China ever be the same? 
  <p class="updated_time"> 05:13 PM CT, Oct. 23 </p> 
  [Biden Delays Release of Some J.F.K. Records, Citing Pandemic](https://www.nytimes.com/2021/10/23/world/americas/jfk-assassination-pandemic.html) NYT: The National Archives require additional time to work on redactions, a White House statement on Friday said. 
  <p class="updated_time"> 04:10 PM CT, Oct. 23 </p> 
@@ -14,6 +22,8 @@ permalink: /charts/news/
  [In India, Facebook Struggles to Combat Misinformation and Hate Speech ](https://www.nytimes.com/2021/10/23/technology/facebook-india-misinformation.html) NYT: Internal documents show a struggle with misinformation, hate speech and celebrations of violence in the country, the company’s biggest market. 
  <p class="updated_time"> 02:45 PM CT, Oct. 23 </p> 
  [Turkey moves to throw out US envoy and nine others](https://www.bbc.co.uk/news/world-europe-59023465?at_medium=RSS&at_campaign=KARANGA) BBC: President Recep Tayyip Erdogan declares them "persona non grata" for urging an activist's release. 
+ <p class="updated_time"> 02:44 PM CT, Oct. 23 </p> 
+ [How prop guns can go wrong ](https://www.bbc.co.uk/news/world-us-canada-59006905?at_medium=RSS&at_campaign=KARANGA) BBC: An incident involving US actor Alec Baldwin puts the spotlight on an item often used on film sets. 
  <p class="updated_time"> 02:14 PM CT, Oct. 23 </p> 
  [Record-breaking ferris wheel opens in Dubai](https://www.bbc.co.uk/news/world-middle-east-59024669?at_medium=RSS&at_campaign=KARANGA) BBC: The massive wheel was opened in Dubai with a lavish fireworks display to mark the occasion. 
  <p class="updated_time"> 01:14 PM CT, Oct. 23 </p> 
@@ -66,16 +76,6 @@ permalink: /charts/news/
  [Israel Accuses 6 Palestinian Rights Groups of Terrorism](https://www.nytimes.com/2021/10/22/world/middleeast/israel-palestinian-rights-groups.html) NYT: The Defense Ministry said the groups work for leftist militants. Critics said the charge was aimed at quelling scrutiny of Israeli rights abuses. 
  <p class="updated_time"> 11:00 PM CT, Oct. 22 </p> 
  [Record high migrant detentions at US-Mexico border](https://www.bbc.co.uk/news/world-us-canada-59019791?at_medium=RSS&at_campaign=KARANGA) BBC: More than 1.7 million people were stopped in the past year, including 145,000 unaccompanied children. 
- <p class="updated_time"> 07:26 PM CT, Oct. 22 </p> 
- [Abortion in Mexico: Fight for rights just beginning, women say](https://www.bbc.co.uk/news/world-latin-america-58900532?at_medium=RSS&at_campaign=KARANGA) BBC: Mexican women celebrate the Supreme Court ruling decriminalising abortion but say obstacles remain. 
- <p class="updated_time"> 07:26 PM CT, Oct. 22 </p> 
- [Former refugees in US to Afghans: 'You are not alone' ](https://www.bbc.co.uk/news/world-us-canada-58933699?at_medium=RSS&at_campaign=KARANGA) BBC: Refugees who fled their home countries to be in the US offer advice to America's newest refugees. 
- <p class="updated_time"> 06:54 PM CT, Oct. 22 </p> 
- [The soft toys parents hope connect kids to their faith](https://www.bbc.co.uk/news/business-58925796?at_medium=RSS&at_campaign=KARANGA) BBC: Why sales of 'singing' religious cuddly toys for very young children are booming. 
- <p class="updated_time"> 06:54 PM CT, Oct. 22 </p> 
- [Will Apple be the last US tech giant left in China?](https://www.bbc.co.uk/news/technology-59009796?at_medium=RSS&at_campaign=KARANGA) BBC: As Microsoft closes down the main version of LinkedIn, Apple looks more alone in China than ever. 
- <p class="updated_time"> 06:51 PM CT, Oct. 22 </p> 
- [Trafficked to Europe for sex: A survivor’s story](https://www.bbc.co.uk/news/stories-58994212?at_medium=RSS&at_campaign=KARANGA) BBC: Expecting to become a carer in Copenhagen, Jewel was forced into prostitution. But two chance meetings enabled her to get away. 
  <p class="updated_time"> 05:55 PM CT, Oct. 22 </p> 
  [Kerala floods: Our son was buried by mud - we couldn't save him](https://www.bbc.co.uk/news/world-asia-india-59017142?at_medium=RSS&at_campaign=KARANGA) BBC: The walls of three-year-old Sachu's house collapsed when it was hit by heavy rain and flooding in Kerala. 
  <p class="updated_time"> 04:59 PM CT, Oct. 22 </p> 
