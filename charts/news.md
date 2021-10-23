@@ -6,10 +6,10 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 05:58 AM CT, Oct. 23 </p> 
+ [Pakistan and India Face Off in Cricket's T20 World Cup](https://www.nytimes.com/2021/10/23/world/asia/cricket-india-pakistan.html) NYT: It’s one of the greatest rivalries in sports, when war off the field allows it — a contest of national identities that will be renewed this Sunday in a World Cup match. 
  <p class="updated_time"> 04:00 AM CT, Oct. 23 </p> 
  [She Is Breaking Glass Ceilings in Space, but Facing Sexism on Earth](https://www.nytimes.com/2021/10/23/world/asia/china-space-women.html) NYT: Sanitary pads and makeup: A Chinese astronaut’s six-month stay aboard the country’s space station has revealed conflicted cultural values toward gender. 
- <p class="updated_time"> 04:00 AM CT, Oct. 23 </p> 
- [Pakistan and India Face Off in Cricket's T20 World Cup](https://www.nytimes.com/2021/10/23/world/asia/cricket-india-pakistan.html) NYT: It’s one of the greatest rivalries in sports, when war off the field allows it — a contest of national identities that will be renewed this Sunday in a World Cup match. 
  <p class="updated_time"> 02:19 AM CT, Oct. 23 </p> 
  [Alec Baldwin told gun was safe before fatal shooting - court records](https://www.bbc.co.uk/news/world-us-canada-59018391?at_medium=RSS&at_campaign=KARANGA) BBC: The actor was handed the weapon by an assistant director before Halyna Hutchins was shot, a warrant says. 
  <p class="updated_time"> 11:33 PM CT, Oct. 22 </p> 
