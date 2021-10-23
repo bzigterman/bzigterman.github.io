@@ -6,7 +6,9 @@ permalink: /charts/news/
 
 ## World News
 
- <p class="updated_time"> 02:37 PM CT, Oct. 23 </p> 
+ <p class="updated_time"> 02:46 PM CT, Oct. 23 </p> 
+ [In India, Facebook Struggles to Combat Misinformation and Hate Speech ](https://www.nytimes.com/2021/10/23/technology/facebook-india-misinformation.html) NYT: Internal documents show a struggle with misinformation, hate speech and celebrations of violence in the country, the company’s biggest market. 
+ <p class="updated_time"> 02:45 PM CT, Oct. 23 </p> 
  [Turkey moves to throw out US and nine other envoys](https://www.bbc.co.uk/news/world-europe-59023465?at_medium=RSS&at_campaign=KARANGA) BBC: President Recep Tayyip Erdogan declares them "persona non grata" for urging an activist's release. 
  <p class="updated_time"> 02:14 PM CT, Oct. 23 </p> 
  [Record-breaking ferris wheel opens in Dubai](https://www.bbc.co.uk/news/world-middle-east-59024669?at_medium=RSS&at_campaign=KARANGA) BBC: The massive wheel was opened in Dubai with a lavish fireworks display to mark the occasion. 
