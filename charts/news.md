@@ -39,7 +39,7 @@ permalink: /charts/news/
  <p class="updated_time"> 10:45 AM CT, Oct. 23 </p> 
  [U.S. Struggles With Afghan Evacuees Weeded Out, and Now in Limbo](https://www.nytimes.com/2021/10/23/us/politics/afghan-evacuees-kosovo.html) NYT: No final decisions have been made, but dozens red-flagged for apparent criminal pasts or links to militants have been sent to a base in Kosovo, where their fate is uncertain. 
  <p class="updated_time"> 10:12 AM CT, Oct. 23 </p> 
- [Facebook Apps Used to Spread Religious Hatred in India, Documents Show](https://www.wsj.com/articles/facebook-services-are-used-to-spread-religious-hatred-in-india-internal-documents-show-11635016354) WSJ: Company researchers identified calls to violence that coincided with the 2020 riots in Delhi that left 53 dead. 
+ [Facebook Apps Are Used to Spread Hate in India, Documents Show](https://www.wsj.com/articles/facebook-services-are-used-to-spread-religious-hatred-in-india-internal-documents-show-11635016354) WSJ: Company researchers identified calls to violence that coincided with the 2020 riots in Delhi that left 53 dead. 
  <p class="updated_time"> 09:31 AM CT, Oct. 23 </p> 
  [Struggles over vaccine mandates, the death of Colin Powell: the week in Covid news.](https://www.nytimes.com/2021/10/23/world/americas/struggles-over-vaccine-mandates-the-death-of-colin-powell-the-week-in-covid-news.html) NYT: NA 
  <p class="updated_time"> 09:17 AM CT, Oct. 23 </p> 
