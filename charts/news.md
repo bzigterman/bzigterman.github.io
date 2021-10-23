@@ -19,7 +19,7 @@ permalink: /charts/news/
  <p class="updated_time"> 11:05 AM CT, Oct. 23 </p> 
  [Turkey moves to throw out US and nine other envoys](https://www.bbc.co.uk/news/world-europe-59023465?at_medium=RSS&at_campaign=KARANGA) BBC: President Recep Tayyip Erdogan declares them "persona non grata" for urging an activist's release. 
  <p class="updated_time"> 10:59 AM CT, Oct. 23 </p> 
- [Alex Quiñónez: Ecuador sprinter shot dead](https://www.bbc.co.uk/news/world-latin-america-59024487?at_medium=RSS&at_campaign=KARANGA) BBC: Quiñónez, one of the country's best known athletes, was shot in the city of Guyaquil. 
+ [Alex Quiñónez: Ecuador sprinter shot dead](https://www.bbc.co.uk/news/world-latin-america-59024487?at_medium=RSS&at_campaign=KARANGA) BBC: Quiñónez, one of the country's best known athletes, was shot in the city of Guayaquil. 
  <p class="updated_time"> 10:45 AM CT, Oct. 23 </p> 
  [U.S. Struggles With Afghan Evacuees Weeded Out, and Now in Limbo](https://www.nytimes.com/2021/10/23/us/politics/afghan-evacuees-kosovo.html) NYT: No final decisions have been made, but dozens red-flagged for apparent criminal pasts or links to militants have been sent to a base in Kosovo, where their fate is uncertain. 
  <p class="updated_time"> 09:36 AM CT, Oct. 23 </p> 
