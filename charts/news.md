@@ -6,6 +6,10 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 08:47 AM CT, Oct. 23 </p> 
+ [Agnes Tirop: Mourners pay respects to running star](https://www.bbc.co.uk/news/world-africa-59023302?at_medium=RSS&at_campaign=KARANGA) BBC: Many athletes turn out for the funeral of Agnes Tirop, who was found stabbed to death at her home. 
+ <p class="updated_time"> 08:41 AM CT, Oct. 23 </p> 
+ [Greta Thunberg: 'We need public pressure, not just summits'](https://www.bbc.co.uk/news/science-environment-59022846?at_medium=RSS&at_campaign=KARANGA) BBC: The climate activist speaks to the BBC about the COP26 conference, emissions targets and rickrolling. 
  <p class="updated_time"> 08:37 AM CT, Oct. 23 </p> 
  [Pakistan and India Face Off in Cricket's T20 World Cup](https://www.nytimes.com/2021/10/23/world/asia/cricket-india-pakistan.html) NYT: It’s one of the greatest rivalries in sports, when war off the field allows it — a contest of national identities that will be renewed this Sunday in a World Cup match. 
  <p class="updated_time"> 08:13 AM CT, Oct. 23 </p> 
@@ -16,8 +20,12 @@ permalink: /charts/news/
  [Turkish Opposition Begins Joining Ranks Against Erdogan](https://www.nytimes.com/2021/10/23/world/middleeast/turkey-erdogan-opposition.html) NYT: With an eye on elections, six parties are working on a plan to end a powerful presidency and return to a parliamentary system. 
  <p class="updated_time"> 06:02 AM CT, Oct. 23 </p> 
  [China seeks to lift homework pressures on schoolchildren](https://www.bbc.co.uk/news/world-asia-china-59020837?at_medium=RSS&at_campaign=KARANGA) BBC: A new law urges parents to allow children time for rest and exercise, and restrict time spent online. 
+ <p class="updated_time"> 04:40 AM CT, Oct. 23 </p> 
+ [Saudi Arabia Pledges 'Net Zero' Carbon Emissions by 2060](https://www.wsj.com/articles/saudi-arabia-pledges-net-zero-carbon-emissions-by-2060-11634979405) WSJ: Saudi Arabia pledged to reduce its net carbon emissions to zero by 2060 ahead of a United Nations climate summit, as one of the world’s top oil producers resists calls to cut investment in new oil and gas development. 
  <p class="updated_time"> 04:00 AM CT, Oct. 23 </p> 
  [She Is Breaking Glass Ceilings in Space, but Facing Sexism on Earth](https://www.nytimes.com/2021/10/23/world/asia/china-space-women-wang-yaping.html) NYT: Sanitary pads and makeup: A Chinese astronaut’s six-month stay aboard the country’s space station has revealed conflicted cultural values toward gender. 
+ <p class="updated_time"> 03:00 AM CT, Oct. 23 </p> 
+ [A 12-Year-Old Girl Sparks Debate on Covid-19 Vaccines for Kids in Mexico](https://www.wsj.com/articles/a-12-year-old-girl-sparks-debate-on-covid-19-vaccines-for-kids-in-mexico-11634990403) WSJ: Zulma Gonzalez’s widely watched video challenging Mexico’s coronavirus czar pushed Mexico to vaccinate up to 1 million at-risk minors. 
  <p class="updated_time"> 02:19 AM CT, Oct. 23 </p> 
  [Alec Baldwin told gun was safe before fatal shooting - court records](https://www.bbc.co.uk/news/world-us-canada-59018391?at_medium=RSS&at_campaign=KARANGA) BBC: The actor was handed the weapon by an assistant director before Halyna Hutchins was shot, a warrant says. 
  <p class="updated_time"> 11:33 PM CT, Oct. 22 </p> 
@@ -30,8 +38,6 @@ permalink: /charts/news/
  [Abortion in Mexico: Fight for rights just beginning, women say](https://www.bbc.co.uk/news/world-latin-america-58900532?at_medium=RSS&at_campaign=KARANGA) BBC: Mexican women celebrate the Supreme Court ruling decriminalising abortion but say obstacles remain. 
  <p class="updated_time"> 07:26 PM CT, Oct. 22 </p> 
  [Former refugees in US to Afghans: 'You are not alone' ](https://www.bbc.co.uk/news/world-us-canada-58933699?at_medium=RSS&at_campaign=KARANGA) BBC: Refugees who fled their home countries to be in the US offer advice to America's newest refugees. 
- <p class="updated_time"> 07:04 PM CT, Oct. 22 </p> 
- [Saving a million salmon and a tribe in a historic drought](https://www.bbc.co.uk/news/world-us-canada-59018245?at_medium=RSS&at_campaign=KARANGA) BBC: Officials destroyed dams so salmon could swim upstream. It helped preserve the livelihoods of the Hupa tribe. 
  <p class="updated_time"> 06:54 PM CT, Oct. 22 </p> 
  [The soft toys parents hope connect kids to their faith](https://www.bbc.co.uk/news/business-58925796?at_medium=RSS&at_campaign=KARANGA) BBC: Why sales of 'singing' religious cuddly toys for very young children are booming. 
  <p class="updated_time"> 06:54 PM CT, Oct. 22 </p> 
@@ -56,6 +62,8 @@ permalink: /charts/news/
  [U.S. Ramps Up Covid Boosters as Poor Nations Await First Doses](https://www.nytimes.com/2021/10/22/world/covid-vaccine-disparities.html) NYT: The booster program underlines the disparity in vaccine access, with wealthier nations accounting for more than three-quarters of all doses administered so far. 
  <p class="updated_time"> 02:31 PM CT, Oct. 22 </p> 
  [World's Health Care Workers Near Breaking Point, W.H.O warns](https://www.nytimes.com/2021/10/21/world/health-care-workers-burnout-who.html) NYT: The agency’s leaders also urged wealthy nations to take the lead in transferring doses of vaccines to the global South. 
+ <p class="updated_time"> 02:08 PM CT, Oct. 22 </p> 
+ [Haiti Overwhelmed by Wave of Kidnappings](https://www.wsj.com/articles/haiti-overwhelmed-by-wave-of-kidnappings-11634944106) WSJ: Kidnapping has become the great equalizer, as violent gangs target resident of both mansions and hovels, and all classes, ages and walks of life. 
  <p class="updated_time"> 02:01 PM CT, Oct. 22 </p> 
  [New Zealand announces a plan to move away from lockdowns.](https://www.nytimes.com/2021/10/22/world/new-zealand-announces-a-plan-to-move-away-from-lockdowns.html) NYT: NA 
  <p class="updated_time"> 01:54 PM CT, Oct. 22 </p> 
@@ -64,8 +72,6 @@ permalink: /charts/news/
  [Geert Jan van Oldenborgh, 59, Dies; Linked Weather Disasters to Climate Change](https://www.nytimes.com/2021/10/22/climate/geert-jan-van-oldenborgh-dead.html) NYT: With a colleague, he founded a group that quickly analyzes heat waves and other extreme events for signs of global warming’s influence. 
  <p class="updated_time"> 01:14 PM CT, Oct. 22 </p> 
  [Renato Casaro’s Posters Capture Films’ Essential Moments](https://www.nytimes.com/2021/10/22/world/europe/renato-casaro-movie-posters.html) NYT: Renato Casaro’s hand-drawn art has hooked movie audiences around the world since the 1950s. Tarantino and Stallone are big fans. One secret to his success? “You can’t cheat.” 
- <p class="updated_time"> 01:11 PM CT, Oct. 22 </p> 
- [Eswatini protests: Nurses refuse to treat police after colleagues shot](https://www.bbc.co.uk/news/world-africa-59011033?at_medium=RSS&at_campaign=KARANGA) BBC: The health workers say security forces injured 30 colleagues when they opened fire at a protest. 
  <p class="updated_time"> 12:51 PM CT, Oct. 22 </p> 
  [South African ex-policewoman killed relatives and boyfriend for insurance cash](https://www.bbc.co.uk/news/world-africa-59011042?at_medium=RSS&at_campaign=KARANGA) BBC: Nomia Rosemary Ndlovu killed five family members and her boyfriend for life insurance, a court rules. 
  <p class="updated_time"> 12:43 PM CT, Oct. 22 </p> 
@@ -76,6 +82,8 @@ permalink: /charts/news/
  [U.S., Allies Try to Move Beyond Disputes Over Afghanistan, Submarine Contract](https://www.wsj.com/articles/u-s-allies-try-to-move-beyond-disputes-over-afghanistan-submarine-contract-11634915159) WSJ: NATO defense ministers agreed to a new plan to defend Europe in case of a Russian attack and sought to ease tensions over Europe’s efforts to equip itself for more independent military action. 
  <p class="updated_time"> 11:22 AM CT, Oct. 22 </p> 
  [Poland’s Attacks on Rule of Law Leave Europe at Odds With Itself](https://www.nytimes.com/2021/10/22/world/europe/eu-poland-rule-of-law.html) NYT: E.U. leaders are facing an increasingly urgent question: What to do with a member that repeatedly violates a core principle, but refuses to leave the club? 
+ <p class="updated_time"> 11:14 AM CT, Oct. 22 </p> 
+ [White House, Clarifying Biden Remark, Says Taiwan Policy Hasn't Changed](https://www.wsj.com/articles/white-house-clarifying-biden-remark-says-taiwan-policy-hasnt-changed-11634933685) WSJ: The president, asked if the U.S. would come to Taiwan’s defense if China attacked, had said: "Yes, we have a commitment to do that.” 
  <p class="updated_time"> 10:54 AM CT, Oct. 22 </p> 
  [Brazil Markets Hit by Worries About Government Spending](https://www.wsj.com/articles/brazil-markets-hit-by-worries-about-government-spending-11634932463) WSJ: The country’s stock market has lost about $70 billion in value this week after President Jair Bolsonaro moved to fund new handouts for the poor by altering a constitutional spending cap. 
  <p class="updated_time"> 10:34 AM CT, Oct. 22 </p> 
@@ -108,10 +116,6 @@ permalink: /charts/news/
  [Flying With Your Pet? It Just Got a Lot More Difficult.](https://www.nytimes.com/2021/10/22/travel/pets-airlines-regulations.html) NYT: A recent C.D.C. rabies rule, pricey pet ‘tickets’ and limits on animals in airline cabins are making traveling with a pet more complicated. 
  <p class="updated_time"> 03:46 AM CT, Oct. 22 </p> 
  [Your Friday Briefing](https://www.nytimes.com/2021/10/21/briefing/climate-change-donald-trump.html) NYT: The geopolitical risks of climate change. 
- <p class="updated_time"> 03:31 AM CT, Oct. 22 </p> 
- [White House Moves to Plan B for Glasgow Climate Summit](https://www.wsj.com/articles/biden-wants-to-show-world-hes-serious-about-cutting-emissions-despite-u-s-congress-pushback-11634905864) WSJ: The Biden administration is aiming to tout executive actions to curb methane and vehicle emissions as signs of progress toward its climate goals. 
- <p class="updated_time"> 03:27 AM CT, Oct. 22 </p> 
- [Mass Graves Stir Anger as Libya Seeks an Elusive Peace](https://www.wsj.com/articles/mass-graves-stir-anger-as-libya-seeks-an-elusive-peace-11634905670) WSJ: Residents and U.N. investigators say a militia group controlled by two brothers began rounding up residents and carrying out extrajudicial executions as a means of suppressing opposition to their rule. 
  <p class="updated_time"> 02:13 AM CT, Oct. 22 </p> 
  [New Zealand Wants a 90% Vaccination Rate. Its Street Gangs May Hold the Key.](https://www.nytimes.com/2021/10/22/world/australia/new-zealand-vaccination-gangs.html) NYT: The country’s leaders have set aside some misgivings and cooperated with gang leaders to reach their communities. 
  <p class="updated_time"> 09:54 PM CT, Oct. 21 </p> 
@@ -126,8 +130,6 @@ permalink: /charts/news/
  [Li Yundi Is Detained in China on Suspicion of Prostitution](https://www.nytimes.com/2021/10/21/arts/music/li-yundi-china-prostitution.html) NYT: Li Yundi, a famous performer, was accused of soliciting a woman, state news outlets said. Officials often use such accusations against their enemies. 
  <p class="updated_time"> 07:36 PM CT, Oct. 21 </p> 
  [New Zealand’s Chief Coroner Opens New Inquiry Into Mosque Attacks](https://www.nytimes.com/2021/10/21/world/australia/new-zealand-christchurch-investigation.html) NYT: The move came after pleas from dozens of families of those killed in Christchurch in 2019 when a white supremacist opened fire on Muslims at prayer. 
- <p class="updated_time"> 06:42 PM CT, Oct. 21 </p> 
- [Global Finance Watchdog Censures Turkey Over Money Laundering, Terrorist Financing](https://www.wsj.com/articles/global-finance-watchdog-censures-turkey-over-money-laundering-terrorist-financing-11634874171) WSJ: The Financial Action Task Force added Turkey to its list of countries requiring special regulatory oversight for failing to stop money laundering and terrorist financing, a designation analysts say will rattle Ankara’s already shaky economy. 
  <p class="updated_time"> 06:05 PM CT, Oct. 21 </p> 
  [Rise in Cases and Deaths Tests Britain’s Gamble on Few Virus Restrictions](https://www.nytimes.com/2021/10/21/world/europe/britain-virus.html) NYT: The country’s grand experiment — opening up with hardly any restrictions — is facing its toughest test yet. 
  <p class="updated_time"> 06:02 PM CT, Oct. 21 </p> 
@@ -138,8 +140,6 @@ permalink: /charts/news/
  [Your Thursday Briefing](https://www.nytimes.com/2021/10/20/briefing/russia-covid-pollution-fossil-fuels-evergrande.html) NYT: Russia’s ‘non-working’ week. 
  <p class="updated_time"> 04:58 PM CT, Oct. 21 </p> 
  [India's Covid Vaccine Campaign Hits 1 Billion Doses](https://www.nytimes.com/2021/10/20/world/asia/india-vaccination-covid.html) NYT: More than 70 percent of India’s adult population has now received at least one dose of a vaccine. Bulgaria, with the E.U.’s lowest vaccination rate, faces a case surge. 
- <p class="updated_time"> 04:26 PM CT, Oct. 21 </p> 
- [Haiti Gang That Kidnapped U.S. Missionaries Threatens to Kill Them](https://www.wsj.com/articles/haiti-gang-that-kidnapped-u-s-missionaries-threatens-to-kill-them-11634841503) WSJ: The head of a Haitian gang holding 17 American and Canadian missionaries captive has threatened to kill them if a ransom isn’t paid, according to a video. 
  <p class="updated_time"> 04:20 PM CT, Oct. 21 </p> 
  [Your Friday Briefing](https://www.nytimes.com/2021/10/21/briefing/australia-coal-british-covid-strategy-celtics.html) NYT: Why Australia won’t commit to emissions reductions. 
  <p class="updated_time"> 03:32 PM CT, Oct. 21 </p> 
