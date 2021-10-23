@@ -6,8 +6,12 @@ permalink: /charts/news/
 
 ## World News
 
- <p class="updated_time"> 11:37 AM CT, Oct. 23 </p> 
+ <p class="updated_time"> 12:27 PM CT, Oct. 23 </p> 
  [‘Completely Lost’: For Some Afghans, Returning Home Is as Difficult as Fleeing](https://www.nytimes.com/2021/10/23/world/asia/afghans-returning-home.html) NYT: Thousands of Afghans who were in India for medical treatment when the country collapsed are now desperate to return, but have no money and no clear route home. 
+ <p class="updated_time"> 12:23 PM CT, Oct. 23 </p> 
+ [Agnes Tirop: Mourners pay respects to running star](https://www.bbc.co.uk/news/world-africa-59023302?at_medium=RSS&at_campaign=KARANGA) BBC: Many athletes turn out for the funeral of Agnes Tirop, who was found stabbed to death at her home. 
+ <p class="updated_time"> 12:15 PM CT, Oct. 23 </p> 
+ [Greta Thunberg: 'We need public pressure, not just summits'](https://www.bbc.co.uk/news/science-environment-59022846?at_medium=RSS&at_campaign=KARANGA) BBC: The climate activist speaks to the BBC about the COP26 conference, emissions targets and rickrolling. 
  <p class="updated_time"> 11:31 AM CT, Oct. 23 </p> 
  [‘Needle Spiking’ of Women in Britain Stirs Alarm Over New Kind of Assault](https://www.nytimes.com/2021/10/22/world/europe/needle-spiking-uk.html) NYT: Women are reporting being injected with syringes at crowded clubs in a horrifying variation of dropping pill into drinks. “This is a new depth,’’ said a former chief of police. 
  <p class="updated_time"> 11:11 AM CT, Oct. 23 </p> 
@@ -22,10 +26,6 @@ permalink: /charts/news/
  [She Is Breaking Glass Ceilings in Space, but Facing Sexism on Earth](https://www.nytimes.com/2021/10/23/world/asia/china-space-women-wang-yaping.html) NYT: Sanitary pads and makeup: A Chinese astronaut’s six-month stay aboard the country’s space station has revealed conflicted cultural values toward gender. 
  <p class="updated_time"> 09:14 AM CT, Oct. 23 </p> 
  [Matteo Salvini: Right-wing Italy politician on trial for blocking migrant boat](https://www.bbc.co.uk/news/world-europe-59020839?at_medium=RSS&at_campaign=KARANGA) BBC: The right-wing politician is charged with kidnapping and dereliction of duty, which he denies. 
- <p class="updated_time"> 08:47 AM CT, Oct. 23 </p> 
- [Agnes Tirop: Mourners pay respects to running star](https://www.bbc.co.uk/news/world-africa-59023302?at_medium=RSS&at_campaign=KARANGA) BBC: Many athletes turn out for the funeral of Agnes Tirop, who was found stabbed to death at her home. 
- <p class="updated_time"> 08:41 AM CT, Oct. 23 </p> 
- [Greta Thunberg: 'We need public pressure, not just summits'](https://www.bbc.co.uk/news/science-environment-59022846?at_medium=RSS&at_campaign=KARANGA) BBC: The climate activist speaks to the BBC about the COP26 conference, emissions targets and rickrolling. 
  <p class="updated_time"> 08:37 AM CT, Oct. 23 </p> 
  [Pakistan and India Face Off in Cricket's T20 World Cup](https://www.nytimes.com/2021/10/23/world/asia/cricket-india-pakistan.html) NYT: It’s one of the greatest rivalries in sports, when war off the field allows it — a contest of national identities that will be renewed this Sunday in a World Cup match. 
  <p class="updated_time"> 08:13 AM CT, Oct. 23 </p> 
@@ -38,6 +38,8 @@ permalink: /charts/news/
  [Saudi Arabia Pledges 'Net Zero' Carbon Emissions by 2060](https://www.wsj.com/articles/saudi-arabia-pledges-net-zero-carbon-emissions-by-2060-11634979405) WSJ: The goal, which comes ahead of the COP26 climate talks, doesn’t include emissions from the massive amounts of oil the kingdom exports to other countries. 
  <p class="updated_time"> 06:02 AM CT, Oct. 23 </p> 
  [China seeks to lift homework pressures on schoolchildren](https://www.bbc.co.uk/news/world-asia-china-59020837?at_medium=RSS&at_campaign=KARANGA) BBC: A new law urges parents to allow children time for rest and exercise, and restrict time spent online. 
+ <p class="updated_time"> 05:22 AM CT, Oct. 23 </p> 
+ [China Plans Property-Tax Trials as It Targets Speculation](https://www.wsj.com/articles/china-plots-property-tax-trials-as-it-targets-speculation-11634998929) WSJ: Beijing says it will conduct five-year property-tax pilot program in some regions, looking for ways to rein in real-estate speculation and distribute wealth more evenly. 
  <p class="updated_time"> 03:00 AM CT, Oct. 23 </p> 
  [A 12-Year-Old Girl Sparks Debate on Covid-19 Vaccines for Kids in Mexico](https://www.wsj.com/articles/a-12-year-old-girl-sparks-debate-on-covid-19-vaccines-for-kids-in-mexico-11634990403) WSJ: Zulma Gonzalez’s widely watched video challenging Mexico’s coronavirus czar pushed Mexico to vaccinate up to 1 million at-risk minors. 
  <p class="updated_time"> 02:19 AM CT, Oct. 23 </p> 
@@ -90,8 +92,6 @@ permalink: /charts/news/
  [U.S., Allies Try to Move Beyond Disputes Over Afghanistan, Submarine Contract](https://www.wsj.com/articles/u-s-allies-try-to-move-beyond-disputes-over-afghanistan-submarine-contract-11634915159) WSJ: NATO defense ministers agreed to a new plan to defend Europe in case of a Russian attack and sought to ease tensions over Europe’s efforts to equip itself for more independent military action. 
  <p class="updated_time"> 11:22 AM CT, Oct. 22 </p> 
  [Poland’s Attacks on Rule of Law Leave Europe at Odds With Itself](https://www.nytimes.com/2021/10/22/world/europe/eu-poland-rule-of-law.html) NYT: E.U. leaders are facing an increasingly urgent question: What to do with a member that repeatedly violates a core principle, but refuses to leave the club? 
- <p class="updated_time"> 11:14 AM CT, Oct. 22 </p> 
- [White House, Clarifying Biden Remark, Says Taiwan Policy Hasn't Changed](https://www.wsj.com/articles/white-house-clarifying-biden-remark-says-taiwan-policy-hasnt-changed-11634933685) WSJ: The president, asked if the U.S. would come to Taiwan’s defense if China attacked, had said: "Yes, we have a commitment to do that.” 
  <p class="updated_time"> 10:54 AM CT, Oct. 22 </p> 
  [Brazil Markets Hit by Worries About Government Spending](https://www.wsj.com/articles/brazil-markets-hit-by-worries-about-government-spending-11634932463) WSJ: The country’s stock market has lost about $70 billion in value this week after President Jair Bolsonaro moved to fund new handouts for the poor by altering a constitutional spending cap. 
  <p class="updated_time"> 10:19 AM CT, Oct. 22 </p> 
