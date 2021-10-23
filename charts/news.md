@@ -6,6 +6,10 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 11:37 AM CT, Oct. 23 </p> 
+ [‘Completely Lost’: For Some Afghans, Returning Home Is as Difficult as Fleeing](https://www.nytimes.com/2021/10/23/world/asia/afghans-returning-home.html) NYT: Thousands of Afghans who were in India for medical treatment when the country collapsed are now desperate to return, but have no money and no clear route home. 
+ <p class="updated_time"> 11:31 AM CT, Oct. 23 </p> 
+ [‘Needle Spiking’ of Women in Britain Stirs Alarm Over New Kind of Assault](https://www.nytimes.com/2021/10/22/world/europe/needle-spiking-uk.html) NYT: Women are reporting being injected with syringes at crowded clubs in a horrifying variation of dropping pill into drinks. “This is a new depth,’’ said a former chief of police. 
  <p class="updated_time"> 11:11 AM CT, Oct. 23 </p> 
  [Amanda Knox Was Exonerated. That Doesn’t Mean She’s Free.](https://www.nytimes.com/2021/10/22/style/amanda-knox-ten-years-later.html) NYT: Ten years after being cleared of a heinous crime, she is still trying to tell her story on her own terms. 
  <p class="updated_time"> 11:05 AM CT, Oct. 23 </p> 
@@ -58,8 +62,6 @@ permalink: /charts/news/
  [Kerala floods: Our son was buried by mud - we couldn't save him](https://www.bbc.co.uk/news/world-asia-india-59017142?at_medium=RSS&at_campaign=KARANGA) BBC: The walls of three-year-old Sachu's house collapsed when it was hit by heavy rain and flooding in Kerala. 
  <p class="updated_time"> 04:59 PM CT, Oct. 22 </p> 
  [Alberta Investigation of Environmental Groups Falls Flat](https://www.nytimes.com/2021/10/22/world/canada/alberta-energy-inquiry.html) NYT: The report from a provincial inquiry into “anti-Alberta energy campaigns” didn’t back up Premier Jason Kenney’s allegations. 
- <p class="updated_time"> 03:51 PM CT, Oct. 22 </p> 
- [‘Needle Spiking’ of Women in Britain Stirs Alarm Over New Kind of Assault](https://www.nytimes.com/2021/10/22/world/europe/needle-spiking-uk.html) NYT: Women are reporting being injected with syringes at crowded clubs in a horrifying variation of dropping pill into drinks. “This is a new depth,’’ said a former chief of police. 
  <p class="updated_time"> 03:18 PM CT, Oct. 22 </p> 
  [Barbados Elects Its First Head of State, Replacing Queen Elizabeth](https://www.nytimes.com/2021/10/22/world/americas/sandra-mason-barbados.html) NYT: The country’s Parliament chose Sandra Mason, the governor general, to assume the symbolic title, a decisive move to distance itself from Barbados’s colonial past. 
  <p class="updated_time"> 03:06 PM CT, Oct. 22 </p> 
@@ -176,8 +178,6 @@ permalink: /charts/news/
  [Your Thursday Briefing](https://www.nytimes.com/2021/10/20/briefing/climate-change-coronavirus-britain.html) NYT: Plans to extract more fossil fuels. 
  <p class="updated_time"> 07:51 PM CT, Oct. 20 </p> 
  [Blinken Cites ‘Democratic Reckoning’ in South America](https://www.nytimes.com/2021/10/20/world/americas/blinken-democracy-south-america.html) NYT: Secretary of State Antony Blinken warned of an eroding trust in democracy in the Western Hemisphere and described challenges posed to open government by authoritarian leaders. 
- <p class="updated_time"> 04:15 PM CT, Oct. 20 </p> 
- [Brazil Senate’s Pandemic Panel, in Last-Minute Shift, Softened Criminal Recommendations on Bolsonaro](https://www.nytimes.com/2021/10/20/world/americas/bolsonaro-pandemic-inquiry-crimes.html) NYT: Senators on the 11-member panel had second thoughts about the provability of homicide and genocide charges. Instead, they accused the president of “crimes against humanity.” 
  <p class="updated_time"> 06:23 PM CT, Oct. 19 </p> 
  [Ros Atkins on… Europe's climate challenge](https://www.bbc.co.uk/news/science-environment-58970153?at_medium=RSS&at_campaign=KARANGA) BBC: Ros Atkins looks at how Europe is getting to grips with its emissions problem. 
  <p class="updated_time"> 07:30 AM CT, Oct. 18 </p> 
