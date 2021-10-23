@@ -6,6 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 02:19 AM CT, Oct. 23 </p> 
+ [Alec Baldwin told gun was safe before fatal shooting - court records](https://www.bbc.co.uk/news/world-us-canada-59018391?at_medium=RSS&at_campaign=KARANGA) BBC: The actor was handed the weapon by an assistant director before Halyna Hutchins was shot, a warrant says. 
  <p class="updated_time"> 11:33 PM CT, Oct. 22 </p> 
  [Texas abortion law to stay in place until Supreme Court decision](https://www.bbc.co.uk/news/world-us-canada-59017479?at_medium=RSS&at_campaign=KARANGA) BBC: The controversial law will be tested next month when the court holds an expedited hearing. 
  <p class="updated_time"> 11:24 PM CT, Oct. 22 </p> 
@@ -14,8 +16,6 @@ permalink: /charts/news/
  [U.N. Flight Thwarted as Fighting Grows in Ethiopia](https://www.nytimes.com/2021/10/22/world/africa/ethiopia-united-nations-aid.html) NYT: A humanitarian flight was ordered to abort a landing in the capital of Ethiopia’s Tigray region, epicenter of the conflict, as government airstrikes hit the area for a fourth day. 
  <p class="updated_time"> 11:00 PM CT, Oct. 22 </p> 
  [Record high migrant detentions at US-Mexico border](https://www.bbc.co.uk/news/world-us-canada-59019791?at_medium=RSS&at_campaign=KARANGA) BBC: More than 1.7 million migrants were stopped in the past year, including 145,000 children. 
- <p class="updated_time"> 09:44 PM CT, Oct. 22 </p> 
- [Alec Baldwin told gun was safe before fatal shooting - court records](https://www.bbc.co.uk/news/world-us-canada-59018391?at_medium=RSS&at_campaign=KARANGA) BBC: The actor was handed the weapon by an assistant director before Halyna Hutchins was shot, a warrant says. 
  <p class="updated_time"> 08:37 PM CT, Oct. 22 </p> 
  [Audio depicts Rust set after shooting](https://www.bbc.co.uk/news/world-us-canada-59018395?at_medium=RSS&at_campaign=KARANGA) BBC: Newly released recordings showed first responders’ activity after Baldwin shot Hutchins with a prop gun. 
  <p class="updated_time"> 07:26 PM CT, Oct. 22 </p> 
@@ -31,7 +31,7 @@ permalink: /charts/news/
  <p class="updated_time"> 06:52 PM CT, Oct. 22 </p> 
  [Covid: Romania's health system torn apart by pandemic](https://www.bbc.co.uk/news/world-europe-58992090?at_medium=RSS&at_campaign=KARANGA) BBC: Intensive care beds are full, patients wait outside and vaccination rates are among Europe's lowest. 
  <p class="updated_time"> 06:51 PM CT, Oct. 22 </p> 
- [Trafficked to Europe for sex: A survivor’s story](https://www.bbc.co.uk/news/stories-58994212?at_medium=RSS&at_campaign=KARANGA) BBC: Expecting to become a carer in Copenhagen, Jewel was forced into prostitution. But two chance meetings enabled her to escape. 
+ [Trafficked to Europe for sex: A survivor’s story](https://www.bbc.co.uk/news/stories-58994212?at_medium=RSS&at_campaign=KARANGA) BBC: Expecting to become a carer in Copenhagen, Jewel was forced into prostitution. But two chance meetings enabled her to get away. 
  <p class="updated_time"> 05:55 PM CT, Oct. 22 </p> 
  [Kerala floods: Our son was buried by mud - we couldn't save him](https://www.bbc.co.uk/news/world-asia-india-59017142?at_medium=RSS&at_campaign=KARANGA) BBC: The walls of three-year-old Sachu's house collapsed when it was hit by heavy rain and flooding in Kerala. 
  <p class="updated_time"> 05:47 PM CT, Oct. 22 </p> 
