@@ -96,8 +96,6 @@ permalink: /charts/news/
  [Contrails: How tweaking flight plans can help the climate](https://www.bbc.co.uk/news/business-58769351?at_medium=RSS&at_campaign=KARANGA) BBC: Why experts say cutting contrails costs less than $1bn a year but may be worth so much more. 
  <p class="updated_time"> 07:15 AM CT, Oct. 22 </p> 
  [Bali reopens to foreign tourists, but government rules keep them away.](https://www.nytimes.com/2021/10/22/world/bali-reopens-to-foreign-tourists-but-government-rules-keep-them-away.html) NYT: NA 
- <p class="updated_time"> 06:11 AM CT, Oct. 22 </p> 
- [Service-Sector Strength Aids Global Growth](https://www.wsj.com/articles/supply-chain-bottlenecks-crimp-global-growth-boost-inflation-11634899014) WSJ: Supply-chain bottlenecks persist, but an easing of the Delta variant of Covid-19 has boosted growth in the U.S., Japan and Australia. 
  <p class="updated_time"> 06:06 AM CT, Oct. 22 </p> 
  [Britain opened up with hardly any restrictions, a gamble now facing its toughest test.](https://www.nytimes.com/2021/10/22/world/britain-opened-up-with-hardly-any-restrictions-a-gamble-now-facing-its-toughest-test.html) NYT: NA 
  <p class="updated_time"> 05:36 AM CT, Oct. 22 </p> 
