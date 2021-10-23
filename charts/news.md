@@ -6,10 +6,14 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 11:11 AM CT, Oct. 23 </p> 
+ [Amanda Knox Was Exonerated. That Doesn’t Mean She’s Free.](https://www.nytimes.com/2021/10/22/style/amanda-knox-ten-years-later.html) NYT: Ten years after being cleared of a heinous crime, she is still trying to tell her story on her own terms. 
+ <p class="updated_time"> 11:05 AM CT, Oct. 23 </p> 
+ [Turkey moves to throw out US and nine other envoys](https://www.bbc.co.uk/news/world-europe-59023465?at_medium=RSS&at_campaign=KARANGA) BBC: President Recep Tayyip Erdogan declares them "persona non grata" for urging an activist's release. 
+ <p class="updated_time"> 10:59 AM CT, Oct. 23 </p> 
+ [Alex Quiñónez: Ecuador sprinter shot dead](https://www.bbc.co.uk/news/world-latin-america-59024487?at_medium=RSS&at_campaign=KARANGA) BBC: Quiñónez, one of the country's best known athletes, was shot in the city of Guyaquil. 
  <p class="updated_time"> 10:45 AM CT, Oct. 23 </p> 
  [U.S. Struggles With Afghan Evacuees Weeded Out, and Now in Limbo](https://www.nytimes.com/2021/10/23/us/politics/afghan-evacuees-kosovo.html) NYT: No final decisions have been made, but dozens red-flagged for apparent criminal pasts or links to militants have been sent to a base in Kosovo, where their fate is uncertain. 
- <p class="updated_time"> 10:00 AM CT, Oct. 23 </p> 
- [Turkey moves to throw out US and nine other envoys](https://www.bbc.co.uk/news/world-europe-59023465?at_medium=RSS&at_campaign=KARANGA) BBC: President Recep Tayyip Erdogan declares them "persona non grata" for urging an activist's release. 
  <p class="updated_time"> 09:36 AM CT, Oct. 23 </p> 
  [She Is Breaking Glass Ceilings in Space, but Facing Sexism on Earth](https://www.nytimes.com/2021/10/23/world/asia/china-space-women-wang-yaping.html) NYT: Sanitary pads and makeup: A Chinese astronaut’s six-month stay aboard the country’s space station has revealed conflicted cultural values toward gender. 
  <p class="updated_time"> 09:14 AM CT, Oct. 23 </p> 
@@ -26,10 +30,10 @@ permalink: /charts/news/
  [U.N. Flight Thwarted as Fighting Grows in Ethiopia](https://www.nytimes.com/2021/10/22/world/africa/ethiopia-united-nations-aid.html) NYT: A humanitarian flight was ordered to abort a landing in the capital of Ethiopia’s Tigray region, epicenter of the conflict, as government airstrikes hit the area for a fourth day. 
  <p class="updated_time"> 07:09 AM CT, Oct. 23 </p> 
  [Turkish Opposition Begins Joining Ranks Against Erdogan](https://www.nytimes.com/2021/10/23/world/middleeast/turkey-erdogan-opposition.html) NYT: With an eye on elections, six parties are working on a plan to end a powerful presidency and return to a parliamentary system. 
+ <p class="updated_time"> 06:57 AM CT, Oct. 23 </p> 
+ [Saudi Arabia Pledges 'Net Zero' Carbon Emissions by 2060](https://www.wsj.com/articles/saudi-arabia-pledges-net-zero-carbon-emissions-by-2060-11634979405) WSJ: The goal, which comes ahead of the COP26 climate talks, doesn’t include emissions from the massive amounts of oil the kingdom exports to other countries. 
  <p class="updated_time"> 06:02 AM CT, Oct. 23 </p> 
  [China seeks to lift homework pressures on schoolchildren](https://www.bbc.co.uk/news/world-asia-china-59020837?at_medium=RSS&at_campaign=KARANGA) BBC: A new law urges parents to allow children time for rest and exercise, and restrict time spent online. 
- <p class="updated_time"> 04:40 AM CT, Oct. 23 </p> 
- [Saudi Arabia Pledges 'Net Zero' Carbon Emissions by 2060](https://www.wsj.com/articles/saudi-arabia-pledges-net-zero-carbon-emissions-by-2060-11634979405) WSJ: The goal, which comes ahead of the COP26 climate talks, doesn’t include emissions from the massive amounts of oil the kingdom exports to other countries. 
  <p class="updated_time"> 03:00 AM CT, Oct. 23 </p> 
  [A 12-Year-Old Girl Sparks Debate on Covid-19 Vaccines for Kids in Mexico](https://www.wsj.com/articles/a-12-year-old-girl-sparks-debate-on-covid-19-vaccines-for-kids-in-mexico-11634990403) WSJ: Zulma Gonzalez’s widely watched video challenging Mexico’s coronavirus czar pushed Mexico to vaccinate up to 1 million at-risk minors. 
  <p class="updated_time"> 02:19 AM CT, Oct. 23 </p> 
@@ -48,14 +52,10 @@ permalink: /charts/news/
  [The soft toys parents hope connect kids to their faith](https://www.bbc.co.uk/news/business-58925796?at_medium=RSS&at_campaign=KARANGA) BBC: Why sales of 'singing' religious cuddly toys for very young children are booming. 
  <p class="updated_time"> 06:54 PM CT, Oct. 22 </p> 
  [Will Apple be the last US tech giant left in China?](https://www.bbc.co.uk/news/technology-59009796?at_medium=RSS&at_campaign=KARANGA) BBC: As Microsoft closes down the main version of LinkedIn, Apple looks more alone in China than ever. 
- <p class="updated_time"> 06:52 PM CT, Oct. 22 </p> 
- [Covid: Romania's health system torn apart by pandemic](https://www.bbc.co.uk/news/world-europe-58992090?at_medium=RSS&at_campaign=KARANGA) BBC: Intensive care beds are full, patients wait outside and vaccination rates are among Europe's lowest. 
  <p class="updated_time"> 06:51 PM CT, Oct. 22 </p> 
  [Trafficked to Europe for sex: A survivor’s story](https://www.bbc.co.uk/news/stories-58994212?at_medium=RSS&at_campaign=KARANGA) BBC: Expecting to become a carer in Copenhagen, Jewel was forced into prostitution. But two chance meetings enabled her to get away. 
  <p class="updated_time"> 05:55 PM CT, Oct. 22 </p> 
  [Kerala floods: Our son was buried by mud - we couldn't save him](https://www.bbc.co.uk/news/world-asia-india-59017142?at_medium=RSS&at_campaign=KARANGA) BBC: The walls of three-year-old Sachu's house collapsed when it was hit by heavy rain and flooding in Kerala. 
- <p class="updated_time"> 05:47 PM CT, Oct. 22 </p> 
- [Amanda Knox Was Exonerated. That Doesn’t Mean She’s Free.](https://www.nytimes.com/2021/10/22/style/amanda-knox-ten-years-later.html) NYT: Ten years after being cleared of a heinous crime, she is still trying to tell her story on her own terms. 
  <p class="updated_time"> 04:59 PM CT, Oct. 22 </p> 
  [Alberta Investigation of Environmental Groups Falls Flat](https://www.nytimes.com/2021/10/22/world/canada/alberta-energy-inquiry.html) NYT: The report from a provincial inquiry into “anti-Alberta energy campaigns” didn’t back up Premier Jason Kenney’s allegations. 
  <p class="updated_time"> 03:51 PM CT, Oct. 22 </p> 
@@ -92,8 +92,6 @@ permalink: /charts/news/
  [White House, Clarifying Biden Remark, Says Taiwan Policy Hasn't Changed](https://www.wsj.com/articles/white-house-clarifying-biden-remark-says-taiwan-policy-hasnt-changed-11634933685) WSJ: The president, asked if the U.S. would come to Taiwan’s defense if China attacked, had said: "Yes, we have a commitment to do that.” 
  <p class="updated_time"> 10:54 AM CT, Oct. 22 </p> 
  [Brazil Markets Hit by Worries About Government Spending](https://www.wsj.com/articles/brazil-markets-hit-by-worries-about-government-spending-11634932463) WSJ: The country’s stock market has lost about $70 billion in value this week after President Jair Bolsonaro moved to fund new handouts for the poor by altering a constitutional spending cap. 
- <p class="updated_time"> 10:34 AM CT, Oct. 22 </p> 
- [Ohio mocked over wrong Wright brothers number plates](https://www.bbc.co.uk/news/world-us-canada-59008039?at_medium=RSS&at_campaign=KARANGA) BBC: The commemorative plate depicted a banner mistakenly attached to the front end of the historic plane. 
  <p class="updated_time"> 10:19 AM CT, Oct. 22 </p> 
  [Melbourne, 262 Days in Lockdown, Celebrates a Reopening](https://www.nytimes.com/2021/10/22/world/australia/melbourne-covid-lockdown-reopening.html) NYT: After hitting a vaccination target, Australia’s second largest city now has many fewer restrictions. 
  <p class="updated_time"> 07:49 AM CT, Oct. 22 </p> 
