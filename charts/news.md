@@ -23,7 +23,7 @@ permalink: /charts/news/
  <p class="updated_time"> 01:10 PM CT, Oct. 23 </p> 
  [Joel Souza, filmmaker wounded in Alec Baldwin gun incident, 'gutted' at friend's death](https://www.bbc.co.uk/news/world-us-canada-59024820?at_medium=RSS&at_campaign=KARANGA) BBC: Joel Souza, wounded by a gun fired by actor Alec Baldwin, grieves for lost friend Halyna Hutchins. 
  <p class="updated_time"> 12:27 PM CT, Oct. 23 </p> 
- [‘Completely Lost’: For Some Afghans, Returning Home Is as Difficult as Fleeing](https://www.nytimes.com/2021/10/23/world/asia/afghans-returning-home.html) NYT: Thousands of Afghans who were in India for medical treatment when the country collapsed are now desperate to return, but have no money and no clear route home. 
+ [Why Returning Home For Some Afghans Is as Difficult as Fleeing](https://www.nytimes.com/2021/10/23/world/asia/afghans-india-return-home.html) NYT: Thousands of Afghans who were in India for medical treatment when the country collapsed are now desperate to return, but have no money and no clear route home. 
  <p class="updated_time"> 12:23 PM CT, Oct. 23 </p> 
  [Agnes Tirop: Mourners pay respects to running star](https://www.bbc.co.uk/news/world-africa-59023302?at_medium=RSS&at_campaign=KARANGA) BBC: Many athletes turn out for the funeral of Agnes Tirop, who was found stabbed to death at her home. 
  <p class="updated_time"> 12:15 PM CT, Oct. 23 </p> 
