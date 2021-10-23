@@ -6,6 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 02:14 PM CT, Oct. 23 </p> 
+ [Record-breaking ferris wheel opens in Dubai](https://www.bbc.co.uk/news/world-middle-east-59024669?at_medium=RSS&at_campaign=KARANGA) BBC: The massive wheel was opened in Dubai with a lavish fireworks display to mark the occasion. 
  <p class="updated_time"> 02:04 PM CT, Oct. 23 </p> 
  [Erdogan Threatens to Expel 10 Western Ambassadors](https://www.nytimes.com/2021/10/23/world/europe/erdogan-turkey-ambassadors-persona-non-grata.html) NYT: The move follows a statement from the envoys demanding the release of a prominent philanthropist jailed since 2017. 
  <p class="updated_time"> 01:14 PM CT, Oct. 23 </p> 
@@ -86,8 +88,6 @@ permalink: /charts/news/
  [Geert Jan van Oldenborgh, 59, Dies; Linked Weather Disasters to Climate Change](https://www.nytimes.com/2021/10/22/climate/geert-jan-van-oldenborgh-dead.html) NYT: With a colleague, he founded a group that quickly analyzes heat waves and other extreme events for signs of global warming’s influence. 
  <p class="updated_time"> 01:14 PM CT, Oct. 22 </p> 
  [Renato Casaro’s Posters Capture Films’ Essential Moments](https://www.nytimes.com/2021/10/22/world/europe/renato-casaro-movie-posters.html) NYT: Renato Casaro’s hand-drawn art has hooked movie audiences around the world since the 1950s. Tarantino and Stallone are big fans. One secret to his success? “You can’t cheat.” 
- <p class="updated_time"> 12:51 PM CT, Oct. 22 </p> 
- [South African ex-policewoman killed relatives and boyfriend for insurance cash](https://www.bbc.co.uk/news/world-africa-59011042?at_medium=RSS&at_campaign=KARANGA) BBC: Nomia Rosemary Ndlovu killed five family members and her boyfriend for life insurance, a court rules. 
  <p class="updated_time"> 12:43 PM CT, Oct. 22 </p> 
  [In Haiti, Gangs Gain Power as Security Vacuum Grows](https://www.nytimes.com/2021/10/21/world/americas/haiti-gangs-kidnapping.html) NYT: Gangs have long held sway in the country, but their dominance has expanded in recent years and the government has been accused of using them as tools of repression. 
  <p class="updated_time"> 12:23 PM CT, Oct. 22 </p> 
