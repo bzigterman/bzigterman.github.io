@@ -14,6 +14,8 @@ permalink: /charts/news/
  [A World-Class World Expo](https://www.nytimes.com/2021/10/24/world/world-expo-dubai.html) NYT: The event in Dubai dazzles with extraordinary architectural achievements and a focus on the future of the planet. 
  <p class="updated_time"> 04:00 AM CT, Oct. 24 </p> 
  [At the World Expo Pavilions, Future Visions Combine Past and Present](https://www.nytimes.com/2021/10/24/world/world-expo-pavilions.html) NYT: Conversations with three figures integral to the conception of the expo. 
+ <p class="updated_time"> 04:00 AM CT, Oct. 24 </p> 
+ [I Was Hacked. The Spyware Used Against Me Makes Us All Vulnerable.](https://www.nytimes.com/2021/10/24/insider/hacking-nso-surveillance.html) NYT: Invasive hacking software sold to countries to fight terrorism is easily abused. Researchers say my phone was hacked twice, probably by Saudi Arabia. 
  <p class="updated_time"> 03:50 AM CT, Oct. 24 </p> 
  [Colombia's most wanted drug lord Otoniel captured](https://www.bbc.co.uk/news/world-latin-america-59026214?at_medium=RSS&at_campaign=KARANGA) BBC: The US had placed a $5m bounty on the head of Dairo Antonio Úsuga, better known as Otoniel. 
  <p class="updated_time"> 02:00 AM CT, Oct. 24 </p> 
@@ -178,8 +180,6 @@ permalink: /charts/news/
  [With Covid Cases Rising, Moscow's Mayor Announces Lockdown ](https://www.nytimes.com/2021/10/21/world/moscow-lockdown.html) NYT: Like many countries, Russia has seesawed between tighter and looser pandemic restrictions. As the coronavirus claims more victims, the pendulum is now swinging toward tightening. 
  <p class="updated_time"> 01:58 PM CT, Oct. 21 </p> 
  [La Palma: Scientists collect volcano samples](https://www.bbc.co.uk/news/world-europe-59003677?at_medium=RSS&at_campaign=KARANGA) BBC: Scientists will look at the viscosity of the red-hot lava from the ongoing Cumbre Vieja eruption. 
- <p class="updated_time"> 07:29 AM CT, Oct. 21 </p> 
- [Tourists in Asia Navigate a Patchwork of Policies](https://www.nytimes.com/2021/10/21/world/asia/asia-travel-rules.html) NYT: NA 
  <p class="updated_time"> 02:11 AM CT, Oct. 21 </p> 
  [How green politics are changing Europe](https://www.bbc.co.uk/news/world-europe-58910712?at_medium=RSS&at_campaign=KARANGA) BBC: The Greens performed well in German elections but they are having to adapt their policies to succeed. 
  <p class="updated_time"> 06:23 PM CT, Oct. 19 </p> 
