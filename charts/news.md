@@ -6,6 +6,10 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 11:43 AM CT, Oct. 24 </p> 
+ [Barcelona 1-2 Real Madrid: David Alaba scores as Real top La Liga](https://www.bbc.co.uk/sport/football/59023422?at_medium=RSS&at_campaign=KARANGA) BBC: Real Madrid beat Barcelona in a new-look El Clasico to go top of the La Liga table and leave Ronald Koeman's side down in eighth. 
+ <p class="updated_time"> 11:29 AM CT, Oct. 24 </p> 
+ [Nazanin Zaghari-Ratcliffe: Husband begins new hunger strike in London](https://www.bbc.co.uk/news/uk-59030936?at_medium=RSS&at_campaign=KARANGA) BBC: Aid worker Nazanin Zaghari-Ratcliffe is distraught at the prospect of returning to jail, her husband Richard says. 
  <p class="updated_time"> 10:43 AM CT, Oct. 24 </p> 
  [Kobe Bryant's wife Vanessa first heard of his death online](https://www.bbc.co.uk/news/world-us-canada-59024491?at_medium=RSS&at_campaign=KARANGA) BBC: Vanessa Bryant said she learned about the death of her husband by seeing "RIP Kobe" notifications. 
  <p class="updated_time"> 10:31 AM CT, Oct. 24 </p> 
@@ -64,8 +68,6 @@ permalink: /charts/news/
  [What's next after the release of Meng Wanzhou?](https://www.bbc.co.uk/news/world-us-canada-58916557?at_medium=RSS&at_campaign=KARANGA) BBC: Ms Meng and the two Canadian Michaels are home - but will the relations with China ever be the same? 
  <p class="updated_time"> 06:11 PM CT, Oct. 23 </p> 
  [Your pictures on the theme of minimalism](https://www.bbc.co.uk/news/in-pictures-58999674?at_medium=RSS&at_campaign=KARANGA) BBC: A selection of striking images from our readers around the world. 
- <p class="updated_time"> 04:49 PM CT, Oct. 23 </p> 
- [Bellator 269: Fedor Emelianenko claims stunning knockout in Moscow](https://www.bbc.co.uk/sport/mixed-martial-arts/59024365?at_medium=RSS&at_campaign=KARANGA) BBC: Russian MMA icon Fedor Emelianenko knocks out the number two-ranked heavyweight Tim Johnson in Bellator 269 in Moscow. 
  <p class="updated_time"> 04:10 PM CT, Oct. 23 </p> 
  [Erdogan Threatens to Expel 10 Western Ambassadors](https://www.nytimes.com/2021/10/23/world/europe/erdogan-turkey-ambassadors-persona-non-grata.html) NYT: The move follows a statement from the envoys demanding the release of a prominent philanthropist jailed since 2017. 
  <p class="updated_time"> 02:45 PM CT, Oct. 23 </p> 
@@ -84,8 +86,6 @@ permalink: /charts/news/
  [‘Needle Spiking’ of Women in Britain Stirs Alarm Over New Kind of Assault](https://www.nytimes.com/2021/10/22/world/europe/needle-spiking-uk.html) NYT: Women are reporting being injected with syringes at crowded clubs in a horrifying variation of dropping pill into drinks. “This is a new depth,’’ said a former chief of police. 
  <p class="updated_time"> 11:11 AM CT, Oct. 23 </p> 
  [Amanda Knox Was Exonerated. That Doesn’t Mean She’s Free.](https://www.nytimes.com/2021/10/22/style/amanda-knox-ten-years-later.html) NYT: Ten years after being cleared of a heinous crime, she is still trying to tell her story on her own terms. 
- <p class="updated_time"> 10:59 AM CT, Oct. 23 </p> 
- [Alex Quiñónez: Ecuador sprinter shot dead](https://www.bbc.co.uk/news/world-latin-america-59024487?at_medium=RSS&at_campaign=KARANGA) BBC: Quiñónez, one of the country's best known athletes, was shot in the city of Guayaquil. 
  <p class="updated_time"> 10:45 AM CT, Oct. 23 </p> 
  [U.S. Struggles With Afghan Evacuees Weeded Out, and Now in Limbo](https://www.nytimes.com/2021/10/23/us/politics/afghan-evacuees-kosovo.html) NYT: No final decisions have been made, but dozens red-flagged for apparent criminal pasts or links to militants have been sent to a base in Kosovo, where their fate is uncertain. 
  <p class="updated_time"> 10:12 AM CT, Oct. 23 </p> 
@@ -93,7 +93,7 @@ permalink: /charts/news/
  <p class="updated_time"> 09:31 AM CT, Oct. 23 </p> 
  [Struggles over vaccine mandates, the death of Colin Powell: the week in Covid news.](https://www.nytimes.com/2021/10/23/world/americas/struggles-over-vaccine-mandates-the-death-of-colin-powell-the-week-in-covid-news.html) NYT: NA 
  <p class="updated_time"> 08:37 AM CT, Oct. 23 </p> 
- [Pakistan and India Face Off in Cricket's T20 World Cup](https://www.nytimes.com/2021/10/23/world/asia/cricket-india-pakistan.html) NYT: It’s one of the greatest rivalries in sports, when war off the field allows it — a contest of national identities that will be renewed this Sunday in a World Cup match. 
+ [India and Pakistan Face Off in Cricket's T20 World Cup](https://www.nytimes.com/2021/10/23/world/asia/cricket-india-pakistan.html) NYT: It’s one of the greatest rivalries in sports, when war off the field allows it — a contest of national identities that will be renewed this Sunday in a World Cup match. 
  <p class="updated_time"> 07:23 AM CT, Oct. 23 </p> 
  [U.N. Flight Thwarted as Fighting Grows in Ethiopia](https://www.nytimes.com/2021/10/22/world/africa/ethiopia-united-nations-aid.html) NYT: A humanitarian flight was ordered to abort a landing in the capital of Ethiopia’s Tigray region, epicenter of the conflict, as government airstrikes hit the area for a fourth day. 
  <p class="updated_time"> 07:09 AM CT, Oct. 23 </p> 
