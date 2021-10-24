@@ -6,10 +6,14 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 12:24 PM CT, Oct. 24 </p> 
+ [A C.I.A. Fighter, a Somali Bomb Maker, and a Faltering Shadow War](https://www.nytimes.com/2021/10/24/world/africa/al-shabab-somalia-us-cia.html) NYT: The hunt for an elusive Somali militant illustrates why Al Shabab, despite a decade of American covert action, are at their strongest in years. 
+ <p class="updated_time"> 12:12 PM CT, Oct. 24 </p> 
+ [Kenyan Olympian’s Killing Exposes Surge of Violence Against Women](https://www.nytimes.com/2021/10/24/world/africa/kenyan-olympians-killing-exposes-surge-of-violence-against-women.html) NYT: Agnes Jebet Tirop, 25, a rising running star, was stabbed to death in her home this month. Her husband has been arrested. 
  <p class="updated_time"> 11:55 AM CT, Oct. 24 </p> 
  [Nazanin Zaghari-Ratcliffe: Husband begins new hunger strike in London](https://www.bbc.co.uk/news/uk-59030936?at_medium=RSS&at_campaign=KARANGA) BBC: Aid worker Nazanin Zaghari-Ratcliffe is distraught at the prospect of returning to jail, her husband Richard says. 
  <p class="updated_time"> 11:43 AM CT, Oct. 24 </p> 
- [Barcelona 1-2 Real Madrid: David Alaba scores as Real top La Liga](https://www.bbc.co.uk/sport/football/59023422?at_medium=RSS&at_campaign=KARANGA) BBC: Real Madrid beat Barcelona in a new-look El Clasico to go top of the La Liga table and leave Ronald Koeman's side down in eighth. 
+ [Barcelona 1-2 Real Madrid: David Alaba scores as Real top La Liga](https://www.bbc.co.uk/sport/football/59023422?at_medium=RSS&at_campaign=KARANGA) BBC: Real Madrid beat Barcelona in a new-look El Clasico to go top of La Liga and leave Ronald Koeman's side down in eighth. 
  <p class="updated_time"> 10:43 AM CT, Oct. 24 </p> 
  [Kobe Bryant's wife Vanessa first heard of his death online](https://www.bbc.co.uk/news/world-us-canada-59024491?at_medium=RSS&at_campaign=KARANGA) BBC: Vanessa Bryant said she learned about the death of her husband by seeing "RIP Kobe" notifications. 
  <p class="updated_time"> 10:31 AM CT, Oct. 24 </p> 
@@ -26,8 +30,8 @@ permalink: /charts/news/
  [Uganda: Suspected bomb attack in Kampala after terror warnings](https://www.bbc.co.uk/news/world-africa-59028210?at_medium=RSS&at_campaign=KARANGA) BBC: The suspected terrorist bombing comes a week after the UK warned about a possible attack. 
  <p class="updated_time"> 08:51 AM CT, Oct. 24 </p> 
  [German far-right group attempt to block migrants](https://www.bbc.co.uk/news/world-europe-59024490?at_medium=RSS&at_campaign=KARANGA) BBC: Police have stopped vigilantes armed with batons, pepper spray and a machete at the Polish border. 
- <p class="updated_time"> 08:44 AM CT, Oct. 24 </p> 
- [A C.I.A. Fighter, a Somali Bomb Maker, and a Faltering Shadow War](https://www.nytimes.com/2021/10/24/world/africa/al-shabab-somalia-us-cia.html) NYT: The hunt for an elusive Somali militant illustrates why Al Shabab, despite a decade of American covert action, are at their strongest in years. 
+ <p class="updated_time"> 08:11 AM CT, Oct. 24 </p> 
+ [Saudi Arabia Pledges 'Net Zero' Carbon Emissions by 2060](https://www.wsj.com/articles/saudi-arabia-pledges-net-zero-carbon-emissions-by-2060-11634979405) WSJ: The goal, which comes ahead of the COP26 climate talks, doesn’t include emissions from the massive amounts of oil the kingdom exports to other countries. 
  <p class="updated_time"> 07:59 AM CT, Oct. 24 </p> 
  [Halyna Hutchins: Vigil held in New Mexico for cinematographer](https://www.bbc.co.uk/news/world-us-canada-59029509?at_medium=RSS&at_campaign=KARANGA) BBC: The cinematographer was fatally shot by a prop gun while filming for western movie Rust. 
  <p class="updated_time"> 05:00 AM CT, Oct. 24 </p> 
@@ -98,8 +102,6 @@ permalink: /charts/news/
  [U.N. Flight Thwarted as Fighting Grows in Ethiopia](https://www.nytimes.com/2021/10/22/world/africa/ethiopia-united-nations-aid.html) NYT: A humanitarian flight was ordered to abort a landing in the capital of Ethiopia’s Tigray region, epicenter of the conflict, as government airstrikes hit the area for a fourth day. 
  <p class="updated_time"> 07:09 AM CT, Oct. 23 </p> 
  [Turkish Opposition Begins Joining Ranks Against Erdogan](https://www.nytimes.com/2021/10/23/world/middleeast/turkey-election-erdogan-opposition.html) NYT: With an eye on elections, six parties are working on a plan to end a powerful presidency and return to a parliamentary system. 
- <p class="updated_time"> 06:57 AM CT, Oct. 23 </p> 
- [Saudi Arabia Pledges 'Net Zero' Carbon Emissions by 2060](https://www.wsj.com/articles/saudi-arabia-pledges-net-zero-carbon-emissions-by-2060-11634979405) WSJ: The goal, which comes ahead of the COP26 climate talks, doesn’t include emissions from the massive amounts of oil the kingdom exports to other countries. 
  <p class="updated_time"> 03:00 AM CT, Oct. 23 </p> 
  [A 12-Year-Old Girl Sparks Debate on Covid-19 Vaccines for Kids in Mexico](https://www.wsj.com/articles/a-12-year-old-girl-sparks-debate-on-covid-19-vaccines-for-kids-in-mexico-11634990403) WSJ: Zulma Gonzalez’s widely watched video challenging Mexico’s coronavirus czar pushed Mexico to vaccinate up to 1 million at-risk minors. 
  <p class="updated_time"> 11:24 PM CT, Oct. 22 </p> 
