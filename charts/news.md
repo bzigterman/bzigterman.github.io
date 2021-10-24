@@ -6,6 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 12:32 AM CT, Oct. 24 </p> 
+ [Please Don’t Feed the Whale Sharks? Fishing Town Says It Must, to Prosper](https://www.nytimes.com/2021/10/24/world/asia/philippines-whale-shark-tourism.html) NYT: The chance to swim with the world’s biggest fish led to a tourism boom in a Philippines town, but conservation groups decry the hand-feeding that keeps the gentle giants around. 
  <p class="updated_time"> 11:10 PM CT, Oct. 23 </p> 
  [Picasso masterpieces fetch nearly $110m at Las Vegas auction](https://www.bbc.co.uk/news/world-us-canada-59026220?at_medium=RSS&at_campaign=KARANGA) BBC: The works, which were owned by MGM Resorts, featured in the Picasso Restaurant at the Bellagio Hotel. 
  <p class="updated_time"> 11:07 PM CT, Oct. 23 </p> 
@@ -152,8 +154,6 @@ permalink: /charts/news/
  [Rise in Cases and Deaths Tests Britain’s Gamble on Few Virus Restrictions](https://www.nytimes.com/2021/10/21/world/europe/britain-virus.html) NYT: The country’s grand experiment — opening up with hardly any restrictions — is facing its toughest test yet. 
  <p class="updated_time"> 05:19 PM CT, Oct. 21 </p> 
  [Queen Elizabeth Was Hospitalized, Palace Discloses](https://www.nytimes.com/2021/10/21/world/europe/queen-elizabeth-health-hospital.html) NYT: She was discharged on Thursday after undergoing tests the day before and spending the night. The queen, 95, had just canceled a planned trip to Northern Ireland. 
- <p class="updated_time"> 04:58 PM CT, Oct. 21 </p> 
- [India's Covid Vaccine Campaign Hits 1 Billion Doses](https://www.nytimes.com/2021/10/20/world/asia/india-vaccination-covid.html) NYT: More than 70 percent of India’s adult population has now received at least one dose of a vaccine. Bulgaria, with the E.U.’s lowest vaccination rate, faces a case surge. 
  <p class="updated_time"> 04:20 PM CT, Oct. 21 </p> 
  [Your Friday Briefing](https://www.nytimes.com/2021/10/21/briefing/australia-coal-british-covid-strategy-celtics.html) NYT: Why Australia won’t commit to emissions reductions. 
  <p class="updated_time"> 03:32 PM CT, Oct. 21 </p> 
