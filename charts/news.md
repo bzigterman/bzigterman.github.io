@@ -6,7 +6,13 @@ permalink: /charts/news/
 
 ## World News
 
- <p class="updated_time"> 01:07 PM CT, Oct. 24 </p> 
+ <p class="updated_time"> 01:21 PM CT, Oct. 24 </p> 
+ [Kenyan Olympian's Husband Is Arrested in Her Killing ](https://www.nytimes.com/2021/10/24/world/africa/agnes-jebet-tirop-stabbing-arrest.html) NYT: Agnes Jebet Tirop, 25, a rising running star, was stabbed to death in her home this month. Her husband has been arrested. 
+ <p class="updated_time"> 01:19 PM CT, Oct. 24 </p> 
+ [Please Don’t Feed the Whale Sharks? Fishing Town Says It Must, to Prosper.](https://www.nytimes.com/2021/10/24/world/asia/philippines-whale-shark-tourism.html) NYT: The chance to swim with the world’s biggest fish drew tourists to a Philippines town, but conservation groups denounce the hand-feeding that keeps the gentle creatures around. 
+ <p class="updated_time"> 01:13 PM CT, Oct. 24 </p> 
+ [Nazanin Zaghari-Ratcliffe: Husband begins new hunger strike in London](https://www.bbc.co.uk/news/uk-59030936?at_medium=RSS&at_campaign=KARANGA) BBC: Aid worker Nazanin Zaghari-Ratcliffe is distraught at the prospect of returning to jail, her husband Richard says. 
+ <p class="updated_time"> 01:12 PM CT, Oct. 24 </p> 
  [After Early Success, U.S. and Israel Now Lag on Vaccinations](https://www.nytimes.com/2021/10/24/world/united-states-israel-vaccination-rates.html) NYT: The big barrier to higher rates in both countries is stiff resistance among specific groups. 
  <p class="updated_time"> 01:05 PM CT, Oct. 24 </p> 
  [Cases Grow in Germany as Restrictions Set to Expire](https://www.nytimes.com/2021/10/24/world/germany-covid-surge.html) NYT: Infections have increased by 57 percent in the past two weeks, while deaths on average in the same period have increased by 11 percent. 
@@ -14,10 +20,6 @@ permalink: /charts/news/
  [T20 World Cup: Pakistan hammer India by 10 wickets to claim famous win](https://www.bbc.co.uk/sport/cricket/59030529?at_medium=RSS&at_campaign=KARANGA) BBC: Pakistan hammer India by 10 wickets to claim a famous win over their great rivals at the Men's T20 World Cup in Dubai. 
  <p class="updated_time"> 12:44 PM CT, Oct. 24 </p> 
  [A C.I.A. Fighter, a Somali Bomb Maker, and a Faltering Shadow War](https://www.nytimes.com/2021/10/24/world/africa/al-shabab-somalia-us-cia.html) NYT: The hunt for an elusive Somali militant illustrates why Al Shabab, despite a decade of American covert action, are at their strongest in years. 
- <p class="updated_time"> 12:12 PM CT, Oct. 24 </p> 
- [Kenyan Olympian's Husband Is Arrested in Her Killing ](https://www.nytimes.com/2021/10/24/world/africa/agnes-jebet-tirop-stabbing-arrest.html) NYT: Agnes Jebet Tirop, 25, a rising running star, was stabbed to death in her home this month. Her husband has been arrested. 
- <p class="updated_time"> 11:55 AM CT, Oct. 24 </p> 
- [Nazanin Zaghari-Ratcliffe: Husband begins new hunger strike in London](https://www.bbc.co.uk/news/uk-59030936?at_medium=RSS&at_campaign=KARANGA) BBC: Aid worker Nazanin Zaghari-Ratcliffe is distraught at the prospect of returning to jail, her husband Richard says. 
  <p class="updated_time"> 10:43 AM CT, Oct. 24 </p> 
  [Kobe Bryant's wife Vanessa first heard of his death online](https://www.bbc.co.uk/news/world-us-canada-59024491?at_medium=RSS&at_campaign=KARANGA) BBC: Vanessa Bryant said she learned about the death of her husband by seeing "RIP Kobe" notifications. 
  <p class="updated_time"> 10:31 AM CT, Oct. 24 </p> 
@@ -54,8 +56,6 @@ permalink: /charts/news/
  [Long Arm of Russian Law Reaches Obscure Siberian Church](https://www.nytimes.com/2021/10/24/world/europe/russia-church-repression-siberia.html) NYT: The arrest of the leader of a small religious group reveals that Russian repression reaches even to the depths of the Siberian forest. 
  <p class="updated_time"> 01:36 AM CT, Oct. 24 </p> 
  [Picasso masterpieces fetch nearly $110m at Las Vegas auction](https://www.bbc.co.uk/news/world-us-canada-59026220?at_medium=RSS&at_campaign=KARANGA) BBC: The works, which were owned by MGM Resorts, featured in the Picasso Restaurant at the Bellagio Hotel. 
- <p class="updated_time"> 12:51 AM CT, Oct. 24 </p> 
- [Please Don’t Feed the Whale Sharks? Fishing Town Says It Must, to Prosper.](https://www.nytimes.com/2021/10/24/world/asia/philippines-whale-shark-tourism.html) NYT: The chance to swim with the world’s biggest fish led to a tourism boom in a Philippines town, but conservation groups decry the hand-feeding that keeps the gentle giants around. 
  <p class="updated_time"> 11:07 PM CT, Oct. 23 </p> 
  [As Hong Kong’s Civil Society Buckles, One Group Tries to Hold On](https://www.nytimes.com/2021/10/24/world/asia/hong-kong-civil-society.html) NYT: Unions and other organizations have dissolved after facing pressure under a new security law. The Hong Kong Journalists Association is hoping it can avoid that fate. 
  <p class="updated_time"> 10:49 PM CT, Oct. 23 </p> 
