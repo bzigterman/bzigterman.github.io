@@ -6,7 +6,7 @@ permalink: /charts/news/
 
 ## World News
 
- <p class="updated_time"> 01:21 PM CT, Oct. 24 </p> 
+ <p class="updated_time"> 01:51 PM CT, Oct. 24 </p> 
  [Kenyan Olympian's Husband Is Arrested in Her Killing ](https://www.nytimes.com/2021/10/24/world/africa/agnes-jebet-tirop-stabbing-arrest.html) NYT: Agnes Jebet Tirop, 25, a rising running star, was stabbed to death in her home this month. Her husband has been arrested. 
  <p class="updated_time"> 01:19 PM CT, Oct. 24 </p> 
  [Please Don’t Feed the Whale Sharks? Fishing Town Says It Must, to Prosper.](https://www.nytimes.com/2021/10/24/world/asia/philippines-whale-shark-tourism.html) NYT: The chance to swim with the world’s biggest fish drew tourists to a Philippines town, but conservation groups denounce the hand-feeding that keeps the gentle creatures around. 
