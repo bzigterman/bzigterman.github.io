@@ -6,6 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 10:45 PM CT, Oct. 23 </p> 
+ [In India, Facebook Struggles to Combat Misinformation and Hate Speech ](https://www.nytimes.com/2021/10/23/technology/facebook-india-misinformation.html) NYT: Internal documents show a struggle with misinformation, hate speech and celebrations of violence in the country, the company’s biggest market. 
  <p class="updated_time"> 08:16 PM CT, Oct. 23 </p> 
  [Colombia's most wanted drug lord Otoniel captured](https://www.bbc.co.uk/news/world-latin-america-59026214?at_medium=RSS&at_campaign=KARANGA) BBC: The US had placed a $5m bounty on the head of Dairo Antonio Úsuga, better known as Otoniel. 
  <p class="updated_time"> 06:20 PM CT, Oct. 23 </p> 
@@ -20,8 +22,6 @@ permalink: /charts/news/
  [Biden Delays Release of Some J.F.K. Records, Citing Pandemic](https://www.nytimes.com/2021/10/23/world/americas/jfk-assassination-pandemic.html) NYT: The National Archives require additional time to work on redactions, a White House statement on Friday said. 
  <p class="updated_time"> 04:10 PM CT, Oct. 23 </p> 
  [Erdogan Threatens to Expel 10 Western Ambassadors](https://www.nytimes.com/2021/10/23/world/europe/erdogan-turkey-ambassadors-persona-non-grata.html) NYT: The move follows a statement from the envoys demanding the release of a prominent philanthropist jailed since 2017. 
- <p class="updated_time"> 03:04 PM CT, Oct. 23 </p> 
- [In India, Facebook Struggles to Combat Misinformation and Hate Speech ](https://www.nytimes.com/2021/10/23/technology/facebook-india-misinformation.html) NYT: Internal documents show a struggle with misinformation, hate speech and celebrations of violence in the country, the company’s biggest market. 
  <p class="updated_time"> 02:45 PM CT, Oct. 23 </p> 
  [Turkey moves to throw out US envoy and nine others](https://www.bbc.co.uk/news/world-europe-59023465?at_medium=RSS&at_campaign=KARANGA) BBC: President Recep Tayyip Erdogan declares them "persona non grata" for urging an activist's release. 
  <p class="updated_time"> 02:44 PM CT, Oct. 23 </p> 
