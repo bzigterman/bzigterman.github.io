@@ -39,7 +39,7 @@ permalink: /charts/news/
  <p class="updated_time"> 12:23 PM CT, Oct. 23 </p> 
  [Agnes Tirop: Mourners pay respects to running star](https://www.bbc.co.uk/news/world-africa-59023302?at_medium=RSS&at_campaign=KARANGA) BBC: Many athletes turn out for the funeral of Agnes Tirop, who was found stabbed to death at her home. 
  <p class="updated_time"> 12:15 PM CT, Oct. 23 </p> 
- [Greta Thunberg: 'We need public pressure, not just summits'](https://www.bbc.co.uk/news/science-environment-59022846?at_medium=RSS&at_campaign=KARANGA) BBC: The climate activist speaks to the BBC about the COP26 conference, emissions targets and rickrolling. 
+ [Greta: We need public pressure, not just summits](https://www.bbc.co.uk/news/science-environment-59022846?at_medium=RSS&at_campaign=KARANGA) BBC: The climate activist speaks to the BBC about the COP26 conference, emissions targets and rickrolling. 
  <p class="updated_time"> 12:01 PM CT, Oct. 23 </p> 
  [Singapore will require vaccination or daily tests for workplace access next year.](https://www.nytimes.com/2021/10/23/world/singapore-will-require-vaccination-or-daily-tests-for-workplace-access-next-year.html) NYT: NA 
  <p class="updated_time"> 11:31 AM CT, Oct. 23 </p> 
@@ -75,7 +75,7 @@ permalink: /charts/news/
  <p class="updated_time"> 11:24 PM CT, Oct. 22 </p> 
  [Israel Accuses 6 Palestinian Rights Groups of Terrorism](https://www.nytimes.com/2021/10/22/world/middleeast/israel-palestinian-rights-groups.html) NYT: The Defense Ministry said the groups work for leftist militants. Critics said the charge was aimed at quelling scrutiny of Israeli rights abuses. 
  <p class="updated_time"> 11:00 PM CT, Oct. 22 </p> 
- [Record high migrant detentions at US-Mexico border](https://www.bbc.co.uk/news/world-us-canada-59019791?at_medium=RSS&at_campaign=KARANGA) BBC: More than 1.7 million people were stopped in the past year, including 145,000 unaccompanied children. 
+ [Record migrant detentions at US-Mexico border](https://www.bbc.co.uk/news/world-us-canada-59019791?at_medium=RSS&at_campaign=KARANGA) BBC: More than 1.7 million people were stopped in the past year, including 145,000 unaccompanied children. 
  <p class="updated_time"> 05:55 PM CT, Oct. 22 </p> 
  [Kerala floods: Our son was buried by mud - we couldn't save him](https://www.bbc.co.uk/news/world-asia-india-59017142?at_medium=RSS&at_campaign=KARANGA) BBC: The walls of three-year-old Sachu's house collapsed when it was hit by heavy rain and flooding in Kerala. 
  <p class="updated_time"> 04:59 PM CT, Oct. 22 </p> 
