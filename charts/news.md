@@ -6,6 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 03:00 PM CT, Oct. 24 </p> 
+ [Struggles over vaccine mandates, the death of Colin Powell: the week in Covid news.](https://www.nytimes.com/2021/10/24/world/americas/struggles-over-vaccine-mandates-the-death-of-colin-powell-the-week-in-covid-news.html) NYT: NA 
  <p class="updated_time"> 02:09 PM CT, Oct. 24 </p> 
  [Canada: Evacuations as ship spews toxic gas off coast](https://www.bbc.co.uk/news/world-us-canada-59024496?at_medium=RSS&at_campaign=KARANGA) BBC: The Zim Kingston ship is burning but officials said there is no safety risk to people on land. 
  <p class="updated_time"> 02:02 PM CT, Oct. 24 </p> 
@@ -94,8 +96,6 @@ permalink: /charts/news/
  [U.S. Struggles With Afghan Evacuees Weeded Out, and Now in Limbo](https://www.nytimes.com/2021/10/23/us/politics/afghan-evacuees-kosovo.html) NYT: No final decisions have been made, but dozens red-flagged for apparent criminal pasts or links to militants have been sent to a base in Kosovo, where their fate is uncertain. 
  <p class="updated_time"> 10:12 AM CT, Oct. 23 </p> 
  [Facebook Apps Are Used to Spread Hate in India, Documents Show](https://www.wsj.com/articles/facebook-services-are-used-to-spread-religious-hatred-in-india-internal-documents-show-11635016354) WSJ: Company researchers identified calls to violence that coincided with the 2020 riots in Delhi that left 53 dead. 
- <p class="updated_time"> 09:31 AM CT, Oct. 23 </p> 
- [Struggles over vaccine mandates, the death of Colin Powell: the week in Covid news.](https://www.nytimes.com/2021/10/23/world/americas/struggles-over-vaccine-mandates-the-death-of-colin-powell-the-week-in-covid-news.html) NYT: NA 
  <p class="updated_time"> 08:37 AM CT, Oct. 23 </p> 
  [India and Pakistan Face Off in Cricket's T20 World Cup](https://www.nytimes.com/2021/10/23/world/asia/cricket-india-pakistan.html) NYT: It’s one of the greatest rivalries in sports, when war off the field allows it — a contest of national identities that will be renewed this Sunday in a World Cup match. 
  <p class="updated_time"> 07:23 AM CT, Oct. 23 </p> 
