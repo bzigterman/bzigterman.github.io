@@ -6,6 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 10:43 AM CT, Oct. 24 </p> 
+ [Kobe Bryant's wife Vanessa first heard of his death online](https://www.bbc.co.uk/news/world-us-canada-59024491?at_medium=RSS&at_campaign=KARANGA) BBC: Vanessa Bryant said she learned about the death of her husband by seeing "RIP Kobe" notifications. 
  <p class="updated_time"> 10:31 AM CT, Oct. 24 </p> 
  [Colombia's most wanted drug lord Otoniel captured](https://www.bbc.co.uk/news/world-latin-america-59026214?at_medium=RSS&at_campaign=KARANGA) BBC: The US had placed a $5m bounty on the head of Dairo Antonio Úsuga, better known as Otoniel. 
  <p class="updated_time"> 10:29 AM CT, Oct. 24 </p> 
@@ -76,8 +78,6 @@ permalink: /charts/news/
  [Taliban Honor Suicide Bombers in Bid to Rewrite History](https://www.nytimes.com/2021/10/23/world/asia/afghanistan-taliban-suicide-bombers.html) NYT: The new government brought together the bombers’ families at a publicized event, praising their actions but alienating those who have suffered at their hands. 
  <p class="updated_time"> 12:27 PM CT, Oct. 23 </p> 
  [Why Returning Home For Some Afghans Is as Difficult as Fleeing](https://www.nytimes.com/2021/10/23/world/asia/afghans-india-return-home.html) NYT: Thousands of Afghans who were in India for medical treatment when the country collapsed are now desperate to return, but have no money and no clear route home. 
- <p class="updated_time"> 12:15 PM CT, Oct. 23 </p> 
- [Greta: We need public pressure, not just summits](https://www.bbc.co.uk/news/science-environment-59022846?at_medium=RSS&at_campaign=KARANGA) BBC: The climate activist speaks to the BBC about the COP26 conference, emissions targets and rickrolling. 
  <p class="updated_time"> 12:01 PM CT, Oct. 23 </p> 
  [Singapore will require vaccination or daily tests for workplace access next year.](https://www.nytimes.com/2021/10/23/world/singapore-will-require-vaccination-or-daily-tests-for-workplace-access-next-year.html) NYT: NA 
  <p class="updated_time"> 11:31 AM CT, Oct. 23 </p> 
