@@ -6,6 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 03:32 PM CT, Oct. 24 </p> 
+ [Singer Ed Sheeran Tests Positive for Coronavirus](https://www.nytimes.com/2021/10/24/world/ed-sheeran-covid-positive.html) NYT: Mr. Sheeran said he would cancel upcoming public appearances while he is “self-isolating and following government guidelines.” 
  <p class="updated_time"> 03:00 PM CT, Oct. 24 </p> 
  [Struggles over vaccine mandates, the death of Colin Powell: the week in Covid news.](https://www.nytimes.com/2021/10/24/world/americas/struggles-over-vaccine-mandates-the-death-of-colin-powell-the-week-in-covid-news.html) NYT: NA 
  <p class="updated_time"> 02:09 PM CT, Oct. 24 </p> 
