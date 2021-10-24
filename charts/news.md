@@ -6,8 +6,10 @@ permalink: /charts/news/
 
 ## World News
 
- <p class="updated_time"> 07:03 AM CT, Oct. 24 </p> 
+ <p class="updated_time"> 08:26 AM CT, Oct. 24 </p> 
  [A C.I.A. Fighter, a Somali Bomb Maker, and a Faltering Shadow War](https://www.nytimes.com/2021/10/24/world/africa/al-shabab-somalia-us-cia.html) NYT: The hunt for an elusive Somali militant illustrates why Al Shabab, despite a decade of American covert action, are at their strongest in years. 
+ <p class="updated_time"> 07:59 AM CT, Oct. 24 </p> 
+ [Halyna Hutchins: Vigil held in New Mexico for cinematographer](https://www.bbc.co.uk/news/world-us-canada-59029509?at_medium=RSS&at_campaign=KARANGA) BBC: The cinematographer was fatally shot by a prop gun while filming for western movie Rust. 
  <p class="updated_time"> 04:58 AM CT, Oct. 24 </p> 
  [Uganda: Suspected bomb attack in Kampala after terror warnings](https://www.bbc.co.uk/news/world-africa-59028210?at_medium=RSS&at_campaign=KARANGA) BBC: The suspected terrorist bombing comes a week after the UK warned about a possible attack. 
  <p class="updated_time"> 04:51 AM CT, Oct. 24 </p> 
@@ -48,6 +50,8 @@ permalink: /charts/news/
  [Fears of new arms race after Chinese missile test](https://www.bbc.co.uk/news/world-asia-59001850?at_medium=RSS&at_campaign=KARANGA) BBC: China's firing of a new nuclear-capable missile carried on a glider has raised questions about a US response. 
  <p class="updated_time"> 06:14 PM CT, Oct. 23 </p> 
  [What's next after the release of Meng Wanzhou?](https://www.bbc.co.uk/news/world-us-canada-58916557?at_medium=RSS&at_campaign=KARANGA) BBC: Ms Meng and the two Canadian Michaels are home - but will the relations with China ever be the same? 
+ <p class="updated_time"> 06:11 PM CT, Oct. 23 </p> 
+ [Your pictures on the theme of minimalism](https://www.bbc.co.uk/news/in-pictures-58999674?at_medium=RSS&at_campaign=KARANGA) BBC: A selection of striking images from our readers around the world. 
  <p class="updated_time"> 05:13 PM CT, Oct. 23 </p> 
  [Biden Delays Release of Some J.F.K. Records, Citing Pandemic](https://www.nytimes.com/2021/10/23/world/americas/jfk-assassination-pandemic.html) NYT: The National Archives require additional time to work on redactions, a White House statement on Friday said. 
  <p class="updated_time"> 04:49 PM CT, Oct. 23 </p> 
@@ -62,8 +66,6 @@ permalink: /charts/news/
  [Record-breaking ferris wheel opens in Dubai](https://www.bbc.co.uk/news/world-middle-east-59024669?at_medium=RSS&at_campaign=KARANGA) BBC: The massive wheel was opened in Dubai with a lavish fireworks display to mark the occasion. 
  <p class="updated_time"> 01:11 PM CT, Oct. 23 </p> 
  [Taliban Honor Suicide Bombers in Bid to Rewrite History](https://www.nytimes.com/2021/10/23/world/asia/afghanistan-taliban-suicide-bombers.html) NYT: The new government brought together the bombers’ families at a publicized event, praising their actions but alienating those who have suffered at their hands. 
- <p class="updated_time"> 01:10 PM CT, Oct. 23 </p> 
- [Joel Souza, filmmaker wounded in Alec Baldwin gun incident, 'gutted' at friend's death](https://www.bbc.co.uk/news/world-us-canada-59024820?at_medium=RSS&at_campaign=KARANGA) BBC: Joel Souza, wounded by a gun fired by actor Alec Baldwin, grieves for lost friend Halyna Hutchins. 
  <p class="updated_time"> 12:27 PM CT, Oct. 23 </p> 
  [Why Returning Home For Some Afghans Is as Difficult as Fleeing](https://www.nytimes.com/2021/10/23/world/asia/afghans-india-return-home.html) NYT: Thousands of Afghans who were in India for medical treatment when the country collapsed are now desperate to return, but have no money and no clear route home. 
  <p class="updated_time"> 12:23 PM CT, Oct. 23 </p> 
