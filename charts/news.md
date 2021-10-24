@@ -126,6 +126,8 @@ permalink: /charts/news/
  [Poland’s Attacks on Rule of Law Leave Europe at Odds With Itself](https://www.nytimes.com/2021/10/22/world/europe/eu-poland-rule-of-law.html) NYT: E.U. leaders are facing an increasingly urgent question: What to do with a member that repeatedly violates a core principle, but refuses to leave the club? 
  <p class="updated_time"> 10:19 AM CT, Oct. 22 </p> 
  [Melbourne, 262 Days in Lockdown, Celebrates a Reopening](https://www.nytimes.com/2021/10/22/world/australia/melbourne-covid-lockdown-reopening.html) NYT: After hitting a vaccination target, Australia’s second largest city now has many fewer restrictions. 
+ <p class="updated_time"> 09:58 AM CT, Oct. 22 </p> 
+ [Climate change: Why Australia refuses to give up coal](https://www.bbc.co.uk/news/world-australia-57925798?at_medium=RSS&at_campaign=KARANGA) BBC: Australia is the only rich nation still wedded to coal, despite urgent calls to stop its use. 
  <p class="updated_time"> 07:49 AM CT, Oct. 22 </p> 
  [N.I.H. Says Bat Research Group Failed to Submit Prompt Virus Findings](https://www.nytimes.com/2021/10/21/science/bats-covid-lab-leak-nih.html) NYT: The federal agency told a G.O.P. House member that it had notified EcoHealth Alliance, a group criticized for its U.S.-funded work with Wuhan scientists, to file data within five days. 
  <p class="updated_time"> 07:43 AM CT, Oct. 22 </p> 
@@ -180,14 +182,12 @@ permalink: /charts/news/
  [With Covid Cases Rising, Moscow's Mayor Announces Lockdown ](https://www.nytimes.com/2021/10/21/world/moscow-lockdown.html) NYT: Like many countries, Russia has seesawed between tighter and looser pandemic restrictions. As the coronavirus claims more victims, the pendulum is now swinging toward tightening. 
  <p class="updated_time"> 01:58 PM CT, Oct. 21 </p> 
  [La Palma: Scientists collect volcano samples](https://www.bbc.co.uk/news/world-europe-59003677?at_medium=RSS&at_campaign=KARANGA) BBC: Scientists will look at the viscosity of the red-hot lava from the ongoing Cumbre Vieja eruption. 
- <p class="updated_time"> 02:11 AM CT, Oct. 21 </p> 
- [How green politics are changing Europe](https://www.bbc.co.uk/news/world-europe-58910712?at_medium=RSS&at_campaign=KARANGA) BBC: The Greens performed well in German elections but they are having to adapt their policies to succeed. 
- <p class="updated_time"> 06:23 PM CT, Oct. 19 </p> 
- [Ros Atkins on… Europe's climate challenge](https://www.bbc.co.uk/news/science-environment-58970153?at_medium=RSS&at_campaign=KARANGA) BBC: Ros Atkins looks at how Europe is getting to grips with its emissions problem. 
+ <p class="updated_time"> 01:31 AM CT, Oct. 21 </p> 
+ [COP26: Document leak reveals nations lobbying to change key climate report](https://www.bbc.co.uk/news/science-environment-58982445?at_medium=RSS&at_campaign=KARANGA) BBC: Countries are asking the UN to play down the need to move rapidly away from fossil fuels. 
+ <p class="updated_time"> 11:08 PM CT, Oct. 19 </p> 
+ [Climate change: Fossil fuel production set to soar over next decade](https://www.bbc.co.uk/news/science-environment-58971131?at_medium=RSS&at_campaign=KARANGA) BBC: Government plans to extract coal, oil and gas are incompatible with safe temperatures, says the UN. 
  <p class="updated_time"> 07:30 AM CT, Oct. 18 </p> 
  [COP26: Does a climate summit need 25,000 people? And more questions](https://www.bbc.co.uk/news/science-environment-58925049?at_medium=RSS&at_campaign=KARANGA) BBC: BBC science correspondent Matt McGrath answers your questions about Glasgow's COP26 climate summit. 
- <p class="updated_time"> 06:13 PM CT, Oct. 17 </p> 
- [The climate activists who want Norway to end oil and gas production](https://www.bbc.co.uk/news/science-environment-58900652?at_medium=RSS&at_campaign=KARANGA) BBC: The BBC's Nick Beake meets the young climate activists trying to stop Norway drilling for oil and gas. 
 
 
 
