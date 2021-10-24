@@ -27,7 +27,7 @@ permalink: /charts/news/
  <p class="updated_time"> 01:03 PM CT, Oct. 24 </p> 
  [T20 World Cup: Pakistan hammer India by 10 wickets to claim famous win](https://www.bbc.co.uk/sport/cricket/59030529?at_medium=RSS&at_campaign=KARANGA) BBC: Pakistan hammer India by 10 wickets to claim a famous win over their great rivals at the Men's T20 World Cup in Dubai. 
  <p class="updated_time"> 12:44 PM CT, Oct. 24 </p> 
- [A C.I.A. Fighter, a Somali Bomb Maker, and a Faltering Shadow War](https://www.nytimes.com/2021/10/24/world/africa/al-shabab-somalia-us-cia.html) NYT: The hunt for an elusive Somali militant illustrates why Al Shabab, despite a decade of American covert action, are at their strongest in years. 
+ [Inside the Decade-Long U.S. Fight Against Al Shabab in Somalia](https://www.nytimes.com/2021/10/24/world/africa/al-shabab-somalia-us-cia.html) NYT: The hunt for an elusive Somali militant illustrates why Al Shabab, despite a decade of American covert action, are at their strongest in years. 
  <p class="updated_time"> 10:43 AM CT, Oct. 24 </p> 
  [Kobe Bryant's wife Vanessa first heard of his death online](https://www.bbc.co.uk/news/world-us-canada-59024491?at_medium=RSS&at_campaign=KARANGA) BBC: Vanessa Bryant said she learned about the death of her husband by seeing "RIP Kobe" notifications. 
  <p class="updated_time"> 10:29 AM CT, Oct. 24 </p> 
