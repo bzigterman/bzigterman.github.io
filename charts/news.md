@@ -6,6 +6,10 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 04:51 AM CT, Oct. 24 </p> 
+ [She Is Breaking Glass Ceilings in Space, but Facing Sexism on Earth](https://www.nytimes.com/2021/10/23/world/asia/china-space-women-wang-yaping.html) NYT: Sanitary pads and makeup: A Chinese astronaut’s six-month stay aboard the country’s space station has revealed conflicted cultural values toward gender. 
+ <p class="updated_time"> 04:30 AM CT, Oct. 24 </p> 
+ [The Gravedigger's Wife: Somali love story wins Africa's top film prize](https://www.bbc.co.uk/news/world-africa-59027682?at_medium=RSS&at_campaign=KARANGA) BBC: Somali film The Gravedigger's Wife focuses on the lengths people go to save a loved one. 
  <p class="updated_time"> 04:00 AM CT, Oct. 24 </p> 
  [A C.I.A. Fighter, a Somali Bomb Maker, and a Faltering Shadow War](https://www.nytimes.com/2021/10/24/world/africa/al-shabab-somalia-us-cia.html) NYT: The hunt for an elusive Somali militant illustrates why Al Shabab, despite a decade of American covert action, are at their strongest in years. 
  <p class="updated_time"> 04:00 AM CT, Oct. 24 </p> 
@@ -46,8 +50,6 @@ permalink: /charts/news/
  [How prop guns can go wrong ](https://www.bbc.co.uk/news/world-us-canada-59006905?at_medium=RSS&at_campaign=KARANGA) BBC: An incident involving US actor Alec Baldwin puts the spotlight on an item often used on film sets. 
  <p class="updated_time"> 02:14 PM CT, Oct. 23 </p> 
  [Record-breaking ferris wheel opens in Dubai](https://www.bbc.co.uk/news/world-middle-east-59024669?at_medium=RSS&at_campaign=KARANGA) BBC: The massive wheel was opened in Dubai with a lavish fireworks display to mark the occasion. 
- <p class="updated_time"> 01:14 PM CT, Oct. 23 </p> 
- [She Is Breaking Glass Ceilings in Space, but Facing Sexism on Earth](https://www.nytimes.com/2021/10/23/world/asia/china-space-women-wang-yaping.html) NYT: Sanitary pads and makeup: A Chinese astronaut’s six-month stay aboard the country’s space station has revealed conflicted cultural values toward gender. 
  <p class="updated_time"> 01:11 PM CT, Oct. 23 </p> 
  [Taliban Honor Suicide Bombers in Bid to Rewrite History](https://www.nytimes.com/2021/10/23/world/asia/afghanistan-taliban-suicide-bombers.html) NYT: The new government brought together the bombers’ families at a publicized event, praising their actions but alienating those who have suffered at their hands. 
  <p class="updated_time"> 01:10 PM CT, Oct. 23 </p> 
@@ -92,8 +94,6 @@ permalink: /charts/news/
  [A 12-Year-Old Girl Sparks Debate on Covid-19 Vaccines for Kids in Mexico](https://www.wsj.com/articles/a-12-year-old-girl-sparks-debate-on-covid-19-vaccines-for-kids-in-mexico-11634990403) WSJ: Zulma Gonzalez’s widely watched video challenging Mexico’s coronavirus czar pushed Mexico to vaccinate up to 1 million at-risk minors. 
  <p class="updated_time"> 11:24 PM CT, Oct. 22 </p> 
  [Israel Accuses 6 Palestinian Rights Groups of Terrorism](https://www.nytimes.com/2021/10/22/world/middleeast/israel-palestinian-rights-groups.html) NYT: The Defense Ministry said the groups work for leftist militants. Critics said the charge was aimed at quelling scrutiny of Israeli rights abuses. 
- <p class="updated_time"> 11:00 PM CT, Oct. 22 </p> 
- [Record migrant detentions at US-Mexico border](https://www.bbc.co.uk/news/world-us-canada-59019791?at_medium=RSS&at_campaign=KARANGA) BBC: More than 1.7 million people were stopped in the past year, including 145,000 unaccompanied children. 
  <p class="updated_time"> 05:55 PM CT, Oct. 22 </p> 
  [Kerala floods: Our son was buried by mud - we couldn't save him](https://www.bbc.co.uk/news/world-asia-india-59017142?at_medium=RSS&at_campaign=KARANGA) BBC: The walls of three-year-old Sachu's house collapsed when it was hit by heavy rain and flooding in Kerala. 
  <p class="updated_time"> 04:59 PM CT, Oct. 22 </p> 
