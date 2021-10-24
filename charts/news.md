@@ -6,14 +6,14 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 12:35 PM CT, Oct. 24 </p> 
+ [T20 World Cup: Pakistan hammer India by 10 wickets to claim famous win](https://www.bbc.co.uk/sport/cricket/59030529?at_medium=RSS&at_campaign=KARANGA) BBC: Pakistan hammer India by 10 wickets to claim a famous win over their great rivals at the Men's T20 World Cup in Dubai. 
  <p class="updated_time"> 12:24 PM CT, Oct. 24 </p> 
  [A C.I.A. Fighter, a Somali Bomb Maker, and a Faltering Shadow War](https://www.nytimes.com/2021/10/24/world/africa/al-shabab-somalia-us-cia.html) NYT: The hunt for an elusive Somali militant illustrates why Al Shabab, despite a decade of American covert action, are at their strongest in years. 
  <p class="updated_time"> 12:12 PM CT, Oct. 24 </p> 
- [Kenyan Olympian’s Killing Exposes Surge of Violence Against Women](https://www.nytimes.com/2021/10/24/world/africa/kenyan-olympians-killing-exposes-surge-of-violence-against-women.html) NYT: Agnes Jebet Tirop, 25, a rising running star, was stabbed to death in her home this month. Her husband has been arrested. 
+ [Kenyan Olympian's Husband Is Arrested in Her Killing ](https://www.nytimes.com/2021/10/24/world/africa/agnes-jebet-tirop-stabbing-arrest.html) NYT: Agnes Jebet Tirop, 25, a rising running star, was stabbed to death in her home this month. Her husband has been arrested. 
  <p class="updated_time"> 11:55 AM CT, Oct. 24 </p> 
  [Nazanin Zaghari-Ratcliffe: Husband begins new hunger strike in London](https://www.bbc.co.uk/news/uk-59030936?at_medium=RSS&at_campaign=KARANGA) BBC: Aid worker Nazanin Zaghari-Ratcliffe is distraught at the prospect of returning to jail, her husband Richard says. 
- <p class="updated_time"> 11:43 AM CT, Oct. 24 </p> 
- [Barcelona 1-2 Real Madrid: David Alaba scores as Real top La Liga](https://www.bbc.co.uk/sport/football/59023422?at_medium=RSS&at_campaign=KARANGA) BBC: Real Madrid beat Barcelona in a new-look El Clasico to go top of La Liga and leave Ronald Koeman's side down in eighth. 
  <p class="updated_time"> 10:43 AM CT, Oct. 24 </p> 
  [Kobe Bryant's wife Vanessa first heard of his death online](https://www.bbc.co.uk/news/world-us-canada-59024491?at_medium=RSS&at_campaign=KARANGA) BBC: Vanessa Bryant said she learned about the death of her husband by seeing "RIP Kobe" notifications. 
  <p class="updated_time"> 10:31 AM CT, Oct. 24 </p> 
