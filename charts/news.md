@@ -6,6 +6,10 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 10:29 AM CT, Oct. 24 </p> 
+ [At the World Expo Pavilions, Future Visions Combine Past and Present](https://www.nytimes.com/2021/10/24/world/world-expo-pavilions.html) NYT: Conversations with three figures integral to the conception of the expo. 
+ <p class="updated_time"> 10:09 AM CT, Oct. 24 </p> 
+ [Colombia's most wanted drug lord Otoniel captured](https://www.bbc.co.uk/news/world-latin-america-59026214?at_medium=RSS&at_campaign=KARANGA) BBC: The US had placed a $5m bounty on the head of Dairo Antonio Úsuga, better known as Otoniel. 
  <p class="updated_time"> 10:00 AM CT, Oct. 24 </p> 
  [Cases Grow in Germany as Restrictions Set to Expire](https://www.nytimes.com/2021/10/24/world/germany-covid-surge.html) NYT: Infections have increased by 57 percent in the past two weeks, while deaths on average in the same period have increased by 11 percent. 
  <p class="updated_time"> 09:06 AM CT, Oct. 24 </p> 
@@ -31,11 +35,7 @@ permalink: /charts/news/
  <p class="updated_time"> 04:00 AM CT, Oct. 24 </p> 
  [A World-Class World Expo](https://www.nytimes.com/2021/10/24/world/world-expo-dubai.html) NYT: The event in Dubai dazzles with extraordinary architectural achievements and a focus on the future of the planet. 
  <p class="updated_time"> 04:00 AM CT, Oct. 24 </p> 
- [At the World Expo Pavilions, Future Visions Combine Past and Present](https://www.nytimes.com/2021/10/24/world/world-expo-pavilions.html) NYT: Conversations with three figures integral to the conception of the expo. 
- <p class="updated_time"> 04:00 AM CT, Oct. 24 </p> 
  [I Was Hacked. The Spyware Used Against Me Makes Us All Vulnerable.](https://www.nytimes.com/2021/10/24/insider/hacking-nso-surveillance.html) NYT: Invasive hacking software sold to countries to fight terrorism is easily abused. Researchers say my phone was hacked twice, probably by Saudi Arabia. 
- <p class="updated_time"> 03:50 AM CT, Oct. 24 </p> 
- [Colombia's most wanted drug lord Otoniel captured](https://www.bbc.co.uk/news/world-latin-america-59026214?at_medium=RSS&at_campaign=KARANGA) BBC: The US had placed a $5m bounty on the head of Dairo Antonio Úsuga, better known as Otoniel. 
  <p class="updated_time"> 02:48 AM CT, Oct. 24 </p> 
  [Endemic Covid-19 Has Arrived in Portugal. This Is What It Looks Like.](https://www.wsj.com/articles/endemic-covid-19-has-arrived-in-portugal-this-is-what-it-looks-like-11635073461) WSJ: The country has one of the world’s highest coronavirus vaccination rates. Its cautious return to normality is being closely watched by other countries as their inoculations inch higher. 
  <p class="updated_time"> 02:25 AM CT, Oct. 24 </p> 
