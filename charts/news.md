@@ -24,10 +24,10 @@ permalink: /charts/news/
  [I Was Hacked. The Spyware Used Against Me Makes Us All Vulnerable.](https://www.nytimes.com/2021/10/24/insider/hacking-nso-surveillance.html) NYT: Invasive hacking software sold to countries to fight terrorism is easily abused. Researchers say my phone was hacked twice, probably by Saudi Arabia. 
  <p class="updated_time"> 03:50 AM CT, Oct. 24 </p> 
  [Colombia's most wanted drug lord Otoniel captured](https://www.bbc.co.uk/news/world-latin-america-59026214?at_medium=RSS&at_campaign=KARANGA) BBC: The US had placed a $5m bounty on the head of Dairo Antonio Úsuga, better known as Otoniel. 
+ <p class="updated_time"> 02:48 AM CT, Oct. 24 </p> 
+ [Endemic Covid-19 Has Arrived in Portugal. This Is What It Looks Like.](https://www.wsj.com/articles/endemic-covid-19-has-arrived-in-portugal-this-is-what-it-looks-like-11635073461) WSJ: The country has one of the world’s highest coronavirus vaccination rates. Its cautious return to normality is being closely watched by other countries as their inoculations inch higher. 
  <p class="updated_time"> 02:25 AM CT, Oct. 24 </p> 
  [Atlanta Braves beat Los Angeles Dodgers to reach World Series against Houston Astros](https://www.bbc.co.uk/sport/baseball/59027349?at_medium=RSS&at_campaign=KARANGA) BBC: The Atlanta Braves beat the Los Angeles Dodgers to reach the 2021 World Series, where they will face the Houston Astros. 
- <p class="updated_time"> 02:04 AM CT, Oct. 24 </p> 
- [Endemic Covid-19 Has Arrived in Portugal. This Is What It Looks Like.](https://www.wsj.com/articles/endemic-covid-19-has-arrived-in-portugal-this-is-what-it-looks-like-11635073461) WSJ: The country has one of the world’s highest coronavirus vaccination rates. Its cautious return to normality is being closely watched by other countries as their inoculations inch higher. 
  <p class="updated_time"> 02:00 AM CT, Oct. 24 </p> 
  [Long Arm of Russian Law Reaches Obscure Siberian Church](https://www.nytimes.com/2021/10/24/world/europe/russia-church-repression-siberia.html) NYT: The arrest of the leader of a small religious group reveals that Russian repression reaches even to the depths of the Siberian forest. 
  <p class="updated_time"> 01:36 AM CT, Oct. 24 </p> 
