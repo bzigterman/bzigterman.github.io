@@ -6,7 +6,11 @@ permalink: /charts/news/
 
 ## World News
 
- <p class="updated_time"> 10:45 PM CT, Oct. 23 </p> 
+ <p class="updated_time"> 11:10 PM CT, Oct. 23 </p> 
+ [Picasso masterpieces fetch nearly $110m at Las Vegas auction](https://www.bbc.co.uk/news/world-us-canada-59026220?at_medium=RSS&at_campaign=KARANGA) BBC: The works, which were owned by MGM Resorts, featured in the Picasso Restaurant at the Bellagio Hotel. 
+ <p class="updated_time"> 11:07 PM CT, Oct. 23 </p> 
+ [As Hong Kong’s Civil Society Buckles, One Group Tries to Hold On](https://www.nytimes.com/2021/10/24/world/asia/hong-kong-civil-society.html) NYT: Unions and other organizations have dissolved after facing pressure under a new security law. The Hong Kong Journalists Association is hoping it can avoid that fate. 
+ <p class="updated_time"> 10:49 PM CT, Oct. 23 </p> 
  [In India, Facebook Struggles to Combat Misinformation and Hate Speech ](https://www.nytimes.com/2021/10/23/technology/facebook-india-misinformation.html) NYT: Internal documents show a struggle with misinformation, hate speech and celebrations of violence in the country, the company’s biggest market. 
  <p class="updated_time"> 08:16 PM CT, Oct. 23 </p> 
  [Colombia's most wanted drug lord Otoniel captured](https://www.bbc.co.uk/news/world-latin-america-59026214?at_medium=RSS&at_campaign=KARANGA) BBC: The US had placed a $5m bounty on the head of Dairo Antonio Úsuga, better known as Otoniel. 
@@ -146,8 +150,6 @@ permalink: /charts/news/
  [New Zealand’s Chief Coroner Opens New Inquiry Into Mosque Attacks](https://www.nytimes.com/2021/10/21/world/australia/new-zealand-christchurch-investigation.html) NYT: The move came after pleas from dozens of families of those killed in Christchurch in 2019 when a white supremacist opened fire on Muslims at prayer. 
  <p class="updated_time"> 06:05 PM CT, Oct. 21 </p> 
  [Rise in Cases and Deaths Tests Britain’s Gamble on Few Virus Restrictions](https://www.nytimes.com/2021/10/21/world/europe/britain-virus.html) NYT: The country’s grand experiment — opening up with hardly any restrictions — is facing its toughest test yet. 
- <p class="updated_time"> 06:02 PM CT, Oct. 21 </p> 
- [Khaby Lame: What is the secret to success for the Senegal-born TikToker?](https://www.bbc.co.uk/news/world-africa-59003020?at_medium=RSS&at_campaign=KARANGA) BBC: How the Senegalese-born 21-year-old's myth-busting of "life hacks" made him a household name. 
  <p class="updated_time"> 05:19 PM CT, Oct. 21 </p> 
  [Queen Elizabeth Was Hospitalized, Palace Discloses](https://www.nytimes.com/2021/10/21/world/europe/queen-elizabeth-health-hospital.html) NYT: She was discharged on Thursday after undergoing tests the day before and spending the night. The queen, 95, had just canceled a planned trip to Northern Ireland. 
  <p class="updated_time"> 04:58 PM CT, Oct. 21 </p> 
@@ -180,8 +182,6 @@ permalink: /charts/news/
  [Why Australia Won’t Commit to Slashing Carbon Emissions](https://www.nytimes.com/2021/10/21/world/australia/australia-coal-fossil-fuel-carbon.html) NYT: The country has fallen behind other developed nations in its commitment to slashing carbon emissions. Neither fires nor international pressure has pushed it away from coal and other fossil fuels. 
  <p class="updated_time"> 02:11 AM CT, Oct. 21 </p> 
  [How green politics are changing Europe](https://www.bbc.co.uk/news/world-europe-58910712?at_medium=RSS&at_campaign=KARANGA) BBC: The Greens performed well in German elections but they are having to adapt their policies to succeed. 
- <p class="updated_time"> 11:35 PM CT, Oct. 20 </p> 
- [Your Thursday Briefing](https://www.nytimes.com/2021/10/20/briefing/climate-change-coronavirus-britain.html) NYT: Plans to extract more fossil fuels. 
  <p class="updated_time"> 06:23 PM CT, Oct. 19 </p> 
  [Ros Atkins on… Europe's climate challenge](https://www.bbc.co.uk/news/science-environment-58970153?at_medium=RSS&at_campaign=KARANGA) BBC: Ros Atkins looks at how Europe is getting to grips with its emissions problem. 
  <p class="updated_time"> 07:30 AM CT, Oct. 18 </p> 
