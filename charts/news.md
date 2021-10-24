@@ -6,6 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 08:16 PM CT, Oct. 23 </p> 
+ [Colombia's most wanted drug lord Otoniel captured](https://www.bbc.co.uk/news/world-latin-america-59026214?at_medium=RSS&at_campaign=KARANGA) BBC: The US had placed a $5m bounty on the head of Dairo Antonio Usuga, better known as Otoniel. 
  <p class="updated_time"> 06:20 PM CT, Oct. 23 </p> 
  [Why Kenyan churches are banning politicians from pulpits](https://www.bbc.co.uk/news/world-africa-58666703?at_medium=RSS&at_campaign=KARANGA) BBC: Churches seek to wrestle back control of pulpits from politicians after years of cosy relations. 
  <p class="updated_time"> 06:19 PM CT, Oct. 23 </p> 
@@ -70,8 +72,6 @@ permalink: /charts/news/
  [China Plans Property-Tax Trials as It Targets Speculation](https://www.wsj.com/articles/china-plots-property-tax-trials-as-it-targets-speculation-11634998929) WSJ: Beijing says it will conduct five-year property-tax pilot program in some regions, looking for ways to rein in real-estate speculation and distribute wealth more evenly. 
  <p class="updated_time"> 03:00 AM CT, Oct. 23 </p> 
  [A 12-Year-Old Girl Sparks Debate on Covid-19 Vaccines for Kids in Mexico](https://www.wsj.com/articles/a-12-year-old-girl-sparks-debate-on-covid-19-vaccines-for-kids-in-mexico-11634990403) WSJ: Zulma Gonzalez’s widely watched video challenging Mexico’s coronavirus czar pushed Mexico to vaccinate up to 1 million at-risk minors. 
- <p class="updated_time"> 11:33 PM CT, Oct. 22 </p> 
- [Texas abortion law to stay in place until Supreme Court decision](https://www.bbc.co.uk/news/world-us-canada-59017479?at_medium=RSS&at_campaign=KARANGA) BBC: The controversial law will be tested next month when the court holds an expedited hearing. 
  <p class="updated_time"> 11:24 PM CT, Oct. 22 </p> 
  [Israel Accuses 6 Palestinian Rights Groups of Terrorism](https://www.nytimes.com/2021/10/22/world/middleeast/israel-palestinian-rights-groups.html) NYT: The Defense Ministry said the groups work for leftist militants. Critics said the charge was aimed at quelling scrutiny of Israeli rights abuses. 
  <p class="updated_time"> 11:00 PM CT, Oct. 22 </p> 
