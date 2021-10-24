@@ -6,14 +6,14 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 07:03 AM CT, Oct. 24 </p> 
+ [A C.I.A. Fighter, a Somali Bomb Maker, and a Faltering Shadow War](https://www.nytimes.com/2021/10/24/world/africa/al-shabab-somalia-us-cia.html) NYT: The hunt for an elusive Somali militant illustrates why Al Shabab, despite a decade of American covert action, are at their strongest in years. 
  <p class="updated_time"> 04:58 AM CT, Oct. 24 </p> 
  [Uganda: Suspected bomb attack in Kampala after terror warnings](https://www.bbc.co.uk/news/world-africa-59028210?at_medium=RSS&at_campaign=KARANGA) BBC: The suspected terrorist bombing comes a week after the UK warned about a possible attack. 
  <p class="updated_time"> 04:51 AM CT, Oct. 24 </p> 
  [She Is Breaking Glass Ceilings in Space, but Facing Sexism on Earth](https://www.nytimes.com/2021/10/23/world/asia/china-space-women-wang-yaping.html) NYT: Sanitary pads and makeup: A Chinese astronaut’s six-month stay aboard the country’s space station has revealed conflicted cultural values toward gender. 
  <p class="updated_time"> 04:30 AM CT, Oct. 24 </p> 
  [The Gravedigger's Wife: Somali love story wins Africa's top film prize at Fespaco](https://www.bbc.co.uk/news/world-africa-59027682?at_medium=RSS&at_campaign=KARANGA) BBC: Somali film The Gravedigger's Wife focuses on the lengths people go to save a loved one. 
- <p class="updated_time"> 04:00 AM CT, Oct. 24 </p> 
- [A C.I.A. Fighter, a Somali Bomb Maker, and a Faltering Shadow War](https://www.nytimes.com/2021/10/24/world/africa/al-shabab-somalia-us-cia.html) NYT: The hunt for an elusive Somali militant illustrates why Al Shabab, despite a decade of American covert action, are at their strongest in years. 
  <p class="updated_time"> 04:00 AM CT, Oct. 24 </p> 
  [Heavy Is the Burden on Japan’s Royal Women](https://www.nytimes.com/2021/10/24/world/asia/japans-princess-mako-wedding.html) NYT: A princess who will soon marry represents the third generation to suffer intense emotional distress in a country that often consigns women to rigid roles. 
  <p class="updated_time"> 04:00 AM CT, Oct. 24 </p> 
