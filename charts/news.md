@@ -6,6 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 04:58 AM CT, Oct. 24 </p> 
+ [Uganda: Suspected bomb attack in Kampala after terror warnings](https://www.bbc.co.uk/news/world-africa-59028210?at_medium=RSS&at_campaign=KARANGA) BBC: The suspected terrorist bombing comes a week after the UK warned about a possible attack. 
  <p class="updated_time"> 04:51 AM CT, Oct. 24 </p> 
  [She Is Breaking Glass Ceilings in Space, but Facing Sexism on Earth](https://www.nytimes.com/2021/10/23/world/asia/china-space-women-wang-yaping.html) NYT: Sanitary pads and makeup: A Chinese astronaut’s six-month stay aboard the country’s space station has revealed conflicted cultural values toward gender. 
  <p class="updated_time"> 04:30 AM CT, Oct. 24 </p> 
@@ -22,6 +24,8 @@ permalink: /charts/news/
  [I Was Hacked. The Spyware Used Against Me Makes Us All Vulnerable.](https://www.nytimes.com/2021/10/24/insider/hacking-nso-surveillance.html) NYT: Invasive hacking software sold to countries to fight terrorism is easily abused. Researchers say my phone was hacked twice, probably by Saudi Arabia. 
  <p class="updated_time"> 03:50 AM CT, Oct. 24 </p> 
  [Colombia's most wanted drug lord Otoniel captured](https://www.bbc.co.uk/news/world-latin-america-59026214?at_medium=RSS&at_campaign=KARANGA) BBC: The US had placed a $5m bounty on the head of Dairo Antonio Úsuga, better known as Otoniel. 
+ <p class="updated_time"> 02:25 AM CT, Oct. 24 </p> 
+ [Atlanta Braves beat Los Angeles Dodgers to reach World Series against Houston Astros](https://www.bbc.co.uk/sport/baseball/59027349?at_medium=RSS&at_campaign=KARANGA) BBC: The Atlanta Braves beat the Los Angeles Dodgers to reach the 2021 World Series, where they will face the Houston Astros. 
  <p class="updated_time"> 02:04 AM CT, Oct. 24 </p> 
  [Endemic Covid-19 Has Arrived in Portugal. This Is What It Looks Like.](https://www.wsj.com/articles/endemic-covid-19-has-arrived-in-portugal-this-is-what-it-looks-like-11635073461) WSJ: The country has one of the world’s highest coronavirus vaccination rates. Its cautious return to normality is being closely watched by other countries as their inoculations inch higher. 
  <p class="updated_time"> 02:00 AM CT, Oct. 24 </p> 
@@ -46,6 +50,8 @@ permalink: /charts/news/
  [What's next after the release of Meng Wanzhou?](https://www.bbc.co.uk/news/world-us-canada-58916557?at_medium=RSS&at_campaign=KARANGA) BBC: Ms Meng and the two Canadian Michaels are home - but will the relations with China ever be the same? 
  <p class="updated_time"> 05:13 PM CT, Oct. 23 </p> 
  [Biden Delays Release of Some J.F.K. Records, Citing Pandemic](https://www.nytimes.com/2021/10/23/world/americas/jfk-assassination-pandemic.html) NYT: The National Archives require additional time to work on redactions, a White House statement on Friday said. 
+ <p class="updated_time"> 04:49 PM CT, Oct. 23 </p> 
+ [Bellator 269: Fedor Emelianenko claims stunning knockout in Moscow](https://www.bbc.co.uk/sport/mixed-martial-arts/59024365?at_medium=RSS&at_campaign=KARANGA) BBC: Russian MMA icon Fedor Emelianenko knocks out the number two-ranked heavyweight Tim Johnson in Bellator 269 in Moscow. 
  <p class="updated_time"> 04:10 PM CT, Oct. 23 </p> 
  [Erdogan Threatens to Expel 10 Western Ambassadors](https://www.nytimes.com/2021/10/23/world/europe/erdogan-turkey-ambassadors-persona-non-grata.html) NYT: The move follows a statement from the envoys demanding the release of a prominent philanthropist jailed since 2017. 
  <p class="updated_time"> 02:45 PM CT, Oct. 23 </p> 
@@ -78,20 +84,14 @@ permalink: /charts/news/
  [Facebook Apps Are Used to Spread Hate in India, Documents Show](https://www.wsj.com/articles/facebook-services-are-used-to-spread-religious-hatred-in-india-internal-documents-show-11635016354) WSJ: Company researchers identified calls to violence that coincided with the 2020 riots in Delhi that left 53 dead. 
  <p class="updated_time"> 09:31 AM CT, Oct. 23 </p> 
  [Struggles over vaccine mandates, the death of Colin Powell: the week in Covid news.](https://www.nytimes.com/2021/10/23/world/americas/struggles-over-vaccine-mandates-the-death-of-colin-powell-the-week-in-covid-news.html) NYT: NA 
- <p class="updated_time"> 09:14 AM CT, Oct. 23 </p> 
- [Matteo Salvini: Right-wing Italy politician on trial for blocking migrant boat](https://www.bbc.co.uk/news/world-europe-59020839?at_medium=RSS&at_campaign=KARANGA) BBC: The right-wing politician is charged with kidnapping and dereliction of duty, which he denies. 
  <p class="updated_time"> 08:37 AM CT, Oct. 23 </p> 
  [Pakistan and India Face Off in Cricket's T20 World Cup](https://www.nytimes.com/2021/10/23/world/asia/cricket-india-pakistan.html) NYT: It’s one of the greatest rivalries in sports, when war off the field allows it — a contest of national identities that will be renewed this Sunday in a World Cup match. 
- <p class="updated_time"> 08:13 AM CT, Oct. 23 </p> 
- [Saudi Arabia commits to net zero emissions by 2060](https://www.bbc.co.uk/news/world-middle-east-58955584?at_medium=RSS&at_campaign=KARANGA) BBC: The world's biggest oil exporter will cut carbon emissions, but not stop producing fossil fuels. 
  <p class="updated_time"> 07:23 AM CT, Oct. 23 </p> 
  [U.N. Flight Thwarted as Fighting Grows in Ethiopia](https://www.nytimes.com/2021/10/22/world/africa/ethiopia-united-nations-aid.html) NYT: A humanitarian flight was ordered to abort a landing in the capital of Ethiopia’s Tigray region, epicenter of the conflict, as government airstrikes hit the area for a fourth day. 
  <p class="updated_time"> 07:09 AM CT, Oct. 23 </p> 
  [Turkish Opposition Begins Joining Ranks Against Erdogan](https://www.nytimes.com/2021/10/23/world/middleeast/turkey-election-erdogan-opposition.html) NYT: With an eye on elections, six parties are working on a plan to end a powerful presidency and return to a parliamentary system. 
  <p class="updated_time"> 06:57 AM CT, Oct. 23 </p> 
  [Saudi Arabia Pledges 'Net Zero' Carbon Emissions by 2060](https://www.wsj.com/articles/saudi-arabia-pledges-net-zero-carbon-emissions-by-2060-11634979405) WSJ: The goal, which comes ahead of the COP26 climate talks, doesn’t include emissions from the massive amounts of oil the kingdom exports to other countries. 
- <p class="updated_time"> 06:02 AM CT, Oct. 23 </p> 
- [China seeks to lift homework pressures on schoolchildren](https://www.bbc.co.uk/news/world-asia-china-59020837?at_medium=RSS&at_campaign=KARANGA) BBC: A new law urges parents to allow children time for rest and exercise, and restrict time spent online. 
  <p class="updated_time"> 05:22 AM CT, Oct. 23 </p> 
  [China Plans Property-Tax Trials as It Targets Speculation](https://www.wsj.com/articles/china-plots-property-tax-trials-as-it-targets-speculation-11634998929) WSJ: Beijing says it will conduct five-year property-tax pilot program in some regions, looking for ways to rein in real-estate speculation and distribute wealth more evenly. 
  <p class="updated_time"> 03:00 AM CT, Oct. 23 </p> 
