@@ -6,6 +6,10 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 04:24 PM CT, Oct. 24 </p> 
+ [James Michael Tyler: 11 of Gunther's funniest Friends moments](https://www.bbc.co.uk/news/entertainment-arts-57608696?at_medium=RSS&at_campaign=KARANGA) BBC: A look back at some of the character's highlights following actor James Michael Tyler's death. 
+ <p class="updated_time"> 04:19 PM CT, Oct. 24 </p> 
+ [James Michael Tyler: Friends' actor dies aged 59](https://www.bbc.co.uk/news/entertainment-arts-59032751?at_medium=RSS&at_campaign=KARANGA) BBC: The US actor, who played Gunther on the show, had been diagnosed with stage four prostate cancer. 
  <p class="updated_time"> 04:10 PM CT, Oct. 24 </p> 
  [She Is Breaking Glass Ceilings in Space, but Facing Sexism on Earth](https://www.nytimes.com/2021/10/23/world/asia/china-space-women-wang-yaping.html) NYT: Sanitary pads and makeup: A Chinese astronaut’s six-month stay aboard the country’s space station has revealed conflicted cultural values toward gender. 
  <p class="updated_time"> 04:05 PM CT, Oct. 24 </p> 
@@ -80,10 +84,6 @@ permalink: /charts/news/
  [Your pictures on the theme of minimalism](https://www.bbc.co.uk/news/in-pictures-58999674?at_medium=RSS&at_campaign=KARANGA) BBC: A selection of striking images from our readers around the world. 
  <p class="updated_time"> 04:10 PM CT, Oct. 23 </p> 
  [Erdogan Threatens to Expel 10 Western Ambassadors](https://www.nytimes.com/2021/10/23/world/europe/erdogan-turkey-ambassadors-persona-non-grata.html) NYT: The move follows a statement from the envoys demanding the release of a prominent philanthropist jailed since 2017. 
- <p class="updated_time"> 02:45 PM CT, Oct. 23 </p> 
- [Turkey moves to throw out US envoy and nine others](https://www.bbc.co.uk/news/world-europe-59023465?at_medium=RSS&at_campaign=KARANGA) BBC: President Recep Tayyip Erdogan declares them "persona non grata" for urging an activist's release. 
- <p class="updated_time"> 02:44 PM CT, Oct. 23 </p> 
- [How prop guns can go wrong ](https://www.bbc.co.uk/news/world-us-canada-59006905?at_medium=RSS&at_campaign=KARANGA) BBC: An incident involving US actor Alec Baldwin puts the spotlight on an item often used on film sets. 
  <p class="updated_time"> 02:14 PM CT, Oct. 23 </p> 
  [Record-breaking ferris wheel opens in Dubai](https://www.bbc.co.uk/news/world-middle-east-59024669?at_medium=RSS&at_campaign=KARANGA) BBC: The massive wheel was opened in Dubai with a lavish fireworks display to mark the occasion. 
  <p class="updated_time"> 01:11 PM CT, Oct. 23 </p> 
