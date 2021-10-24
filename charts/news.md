@@ -6,10 +6,10 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 11:55 AM CT, Oct. 24 </p> 
+ [Nazanin Zaghari-Ratcliffe: Husband begins new hunger strike in London](https://www.bbc.co.uk/news/uk-59030936?at_medium=RSS&at_campaign=KARANGA) BBC: Aid worker Nazanin Zaghari-Ratcliffe is distraught at the prospect of returning to jail, her husband Richard says. 
  <p class="updated_time"> 11:43 AM CT, Oct. 24 </p> 
  [Barcelona 1-2 Real Madrid: David Alaba scores as Real top La Liga](https://www.bbc.co.uk/sport/football/59023422?at_medium=RSS&at_campaign=KARANGA) BBC: Real Madrid beat Barcelona in a new-look El Clasico to go top of the La Liga table and leave Ronald Koeman's side down in eighth. 
- <p class="updated_time"> 11:29 AM CT, Oct. 24 </p> 
- [Nazanin Zaghari-Ratcliffe: Husband begins new hunger strike in London](https://www.bbc.co.uk/news/uk-59030936?at_medium=RSS&at_campaign=KARANGA) BBC: Aid worker Nazanin Zaghari-Ratcliffe is distraught at the prospect of returning to jail, her husband Richard says. 
  <p class="updated_time"> 10:43 AM CT, Oct. 24 </p> 
  [Kobe Bryant's wife Vanessa first heard of his death online](https://www.bbc.co.uk/news/world-us-canada-59024491?at_medium=RSS&at_campaign=KARANGA) BBC: Vanessa Bryant said she learned about the death of her husband by seeing "RIP Kobe" notifications. 
  <p class="updated_time"> 10:31 AM CT, Oct. 24 </p> 
@@ -37,7 +37,7 @@ permalink: /charts/news/
  <p class="updated_time"> 04:30 AM CT, Oct. 24 </p> 
  [The Gravedigger's Wife: Somali love story wins Africa's top film prize at Fespaco](https://www.bbc.co.uk/news/world-africa-59027682?at_medium=RSS&at_campaign=KARANGA) BBC: Somali film The Gravedigger's Wife focuses on the lengths people go to save a loved one. 
  <p class="updated_time"> 04:00 AM CT, Oct. 24 </p> 
- [Heavy Is the Burden on Japan’s Royal Women](https://www.nytimes.com/2021/10/24/world/asia/japans-princess-mako-wedding.html) NYT: A princess who will soon marry represents the third generation to suffer intense emotional distress in a country that often consigns women to rigid roles. 
+ [How Public Criticism Has Affected Japan's Royal Women](https://www.nytimes.com/2021/10/24/world/asia/japan-princess-mako-mental-health.html) NYT: A princess who will soon marry represents the third generation to suffer intense emotional distress in a country that often consigns women to rigid roles. 
  <p class="updated_time"> 04:00 AM CT, Oct. 24 </p> 
  [A World-Class World Expo](https://www.nytimes.com/2021/10/24/world/world-expo-dubai.html) NYT: The event in Dubai dazzles with extraordinary architectural achievements and a focus on the future of the planet. 
  <p class="updated_time"> 04:00 AM CT, Oct. 24 </p> 
