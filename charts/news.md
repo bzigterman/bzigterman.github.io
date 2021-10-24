@@ -11,7 +11,7 @@ permalink: /charts/news/
  <p class="updated_time"> 01:19 PM CT, Oct. 24 </p> 
  [Please Don’t Feed the Whale Sharks? Fishing Town Says It Must, to Prosper.](https://www.nytimes.com/2021/10/24/world/asia/philippines-whale-shark-tourism.html) NYT: The chance to swim with the world’s biggest fish drew tourists to a Philippines town, but conservation groups denounce the hand-feeding that keeps the gentle creatures around. 
  <p class="updated_time"> 01:13 PM CT, Oct. 24 </p> 
- [Nazanin Zaghari-Ratcliffe: Husband begins new hunger strike in London](https://www.bbc.co.uk/news/uk-59030936?at_medium=RSS&at_campaign=KARANGA) BBC: Aid worker Nazanin Zaghari-Ratcliffe is distraught at the prospect of returning to jail, her husband Richard says. 
+ [Nazanin Zaghari-Ratcliffe: Husband begins new hunger strike in London](https://www.bbc.co.uk/news/uk-59030936?at_medium=RSS&at_campaign=KARANGA) BBC: Aid worker Nazanin Zaghari-Ratcliffe is distraught at the prospect of returning to jail, her husband says. 
  <p class="updated_time"> 01:12 PM CT, Oct. 24 </p> 
  [After Early Success, U.S. and Israel Now Lag on Vaccinations](https://www.nytimes.com/2021/10/24/world/united-states-israel-vaccination-rates.html) NYT: The big barrier to higher rates in both countries is stiff resistance among specific groups. 
  <p class="updated_time"> 01:05 PM CT, Oct. 24 </p> 
@@ -106,12 +106,16 @@ permalink: /charts/news/
  [A 12-Year-Old Girl Sparks Debate on Covid-19 Vaccines for Kids in Mexico](https://www.wsj.com/articles/a-12-year-old-girl-sparks-debate-on-covid-19-vaccines-for-kids-in-mexico-11634990403) WSJ: Zulma Gonzalez’s widely watched video challenging Mexico’s coronavirus czar pushed Mexico to vaccinate up to 1 million at-risk minors. 
  <p class="updated_time"> 11:24 PM CT, Oct. 22 </p> 
  [Israel Accuses 6 Palestinian Rights Groups of Terrorism](https://www.nytimes.com/2021/10/22/world/middleeast/israel-palestinian-rights-groups.html) NYT: The Defense Ministry said the groups work for leftist militants. Critics said the charge was aimed at quelling scrutiny of Israeli rights abuses. 
+ <p class="updated_time"> 07:36 PM CT, Oct. 22 </p> 
+ [Illegal Border Crossings Soar to Record High, New Data Shows](https://www.nytimes.com/2021/10/22/us/politics/border-crossings-immigration-record-high.html) NYT: Migrants were encountered 1.7 million times in the last 12 months, the highest number of illegal crossings recorded since at least 1960. 
  <p class="updated_time"> 05:55 PM CT, Oct. 22 </p> 
  [Kerala floods: Our son was buried by mud - we couldn't save him](https://www.bbc.co.uk/news/world-asia-india-59017142?at_medium=RSS&at_campaign=KARANGA) BBC: The walls of three-year-old Sachu's house collapsed when it was hit by heavy rain and flooding in Kerala. 
  <p class="updated_time"> 04:59 PM CT, Oct. 22 </p> 
  [Alberta Investigation of Environmental Groups Falls Flat](https://www.nytimes.com/2021/10/22/world/canada/alberta-energy-inquiry.html) NYT: The report from a provincial inquiry into “anti-Alberta energy campaigns” didn’t back up Premier Jason Kenney’s allegations. 
  <p class="updated_time"> 03:18 PM CT, Oct. 22 </p> 
  [Barbados Elects Its First Head of State, Replacing Queen Elizabeth](https://www.nytimes.com/2021/10/22/world/americas/sandra-mason-barbados.html) NYT: The country’s Parliament chose Sandra Mason, the governor general, to assume the symbolic title, a decisive move to distance itself from Barbados’s colonial past. 
+ <p class="updated_time"> 03:15 PM CT, Oct. 22 </p> 
+ [U.S. Warns of Efforts by China to Collect Genetic Data](https://www.nytimes.com/2021/10/22/us/politics/china-genetic-data-collection.html) NYT: The National Counterintelligence and Security Center said American companies needed to better secure critical technologies as Beijing seeks to dominate the so-called bioeconomy. 
  <p class="updated_time"> 03:06 PM CT, Oct. 22 </p> 
  [Middle East: Palestinians and Israelis clash over hillside](https://www.bbc.co.uk/news/world-59016195?at_medium=RSS&at_campaign=KARANGA) BBC: Eight people have been killed and hundreds injured in protests at the occupied West Bank. 
  <p class="updated_time"> 03:02 PM CT, Oct. 22 </p> 
@@ -126,8 +130,6 @@ permalink: /charts/news/
  [Geert Jan van Oldenborgh, 59, Dies; Linked Weather Disasters to Climate Change](https://www.nytimes.com/2021/10/22/climate/geert-jan-van-oldenborgh-dead.html) NYT: With a colleague, he founded a group that quickly analyzes heat waves and other extreme events for signs of global warming’s influence. 
  <p class="updated_time"> 01:14 PM CT, Oct. 22 </p> 
  [Renato Casaro’s Posters Capture Films’ Essential Moments](https://www.nytimes.com/2021/10/22/world/europe/renato-casaro-movie-posters.html) NYT: Renato Casaro’s hand-drawn art has hooked movie audiences around the world since the 1950s. Tarantino and Stallone are big fans. One secret to his success? “You can’t cheat.” 
- <p class="updated_time"> 12:43 PM CT, Oct. 22 </p> 
- [In Haiti, Gangs Gain Power as Security Vacuum Grows](https://www.nytimes.com/2021/10/21/world/americas/haiti-gangs-kidnapping.html) NYT: Gangs have long held sway in the country, but their dominance has expanded in recent years and the government has been accused of using them as tools of repression. 
  <p class="updated_time"> 12:23 PM CT, Oct. 22 </p> 
  [Gangs in Haiti, Breaking a Taboo, Target the Church](https://www.nytimes.com/2021/10/22/world/americas/haiti-gangs-church.html) NYT: A French priest in Haiti recalls his kidnapping by 400 Mawozo, the same gang holding 16 Americans and a Canadian, including children, for ransom. 
  <p class="updated_time"> 11:22 AM CT, Oct. 22 </p> 
@@ -174,8 +176,6 @@ permalink: /charts/news/
  [Queen Elizabeth Was Hospitalized, Palace Discloses](https://www.nytimes.com/2021/10/21/world/europe/queen-elizabeth-health-hospital.html) NYT: She was discharged on Thursday after undergoing tests the day before and spending the night. The queen, 95, had just canceled a planned trip to Northern Ireland. 
  <p class="updated_time"> 04:20 PM CT, Oct. 21 </p> 
  [Your Friday Briefing](https://www.nytimes.com/2021/10/21/briefing/australia-coal-british-covid-strategy-celtics.html) NYT: Why Australia won’t commit to emissions reductions. 
- <p class="updated_time"> 03:32 PM CT, Oct. 21 </p> 
- [With Splendor and Saints, Hispanic Society Shows Its Treasures](https://www.nytimes.com/2021/10/21/arts/design/hispanic-society-grolier-club.html) NYT: This gem of a museum in Upper Manhattan has reopened with an operatic eye-filler of religious sculptures we’re just learning to appreciate. 
  <p class="updated_time"> 03:29 PM CT, Oct. 21 </p> 
  [Israel Moves to Allow Entry to Vaccinated Tourists ](https://www.nytimes.com/2021/10/21/world/travel-to-israel-covid.html) NYT: The plan to reopen to international tourists for the first time since the pandemic began comes as infections are steadily declining in Israel after a fourth wave. 
  <p class="updated_time"> 03:10 PM CT, Oct. 21 </p> 
