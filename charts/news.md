@@ -7,7 +7,7 @@ permalink: /charts/news/
 ## World News
 
  <p class="updated_time"> 08:16 PM CT, Oct. 23 </p> 
- [Colombia's most wanted drug lord Otoniel captured](https://www.bbc.co.uk/news/world-latin-america-59026214?at_medium=RSS&at_campaign=KARANGA) BBC: The US had placed a $5m bounty on the head of Dairo Antonio Usuga, better known as Otoniel. 
+ [Colombia's most wanted drug lord Otoniel captured](https://www.bbc.co.uk/news/world-latin-america-59026214?at_medium=RSS&at_campaign=KARANGA) BBC: The US had placed a $5m bounty on the head of Dairo Antonio Úsuga, better known as Otoniel. 
  <p class="updated_time"> 06:20 PM CT, Oct. 23 </p> 
  [Why Kenyan churches are banning politicians from pulpits](https://www.bbc.co.uk/news/world-africa-58666703?at_medium=RSS&at_campaign=KARANGA) BBC: Churches seek to wrestle back control of pulpits from politicians after years of cosy relations. 
  <p class="updated_time"> 06:19 PM CT, Oct. 23 </p> 
