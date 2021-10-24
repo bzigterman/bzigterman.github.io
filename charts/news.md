@@ -9,7 +9,7 @@ permalink: /charts/news/
  <p class="updated_time"> 02:09 PM CT, Oct. 24 </p> 
  [Canada: Evacuations as ship spews toxic gas off coast](https://www.bbc.co.uk/news/world-us-canada-59024496?at_medium=RSS&at_campaign=KARANGA) BBC: The Zim Kingston ship is burning but officials said there is no safety risk to people on land. 
  <p class="updated_time"> 02:02 PM CT, Oct. 24 </p> 
- [Colombian drug lord Otoniel to be extradited to US](https://www.bbc.co.uk/news/world-latin-america-59032300?at_medium=RSS&at_campaign=KARANGA) BBC: Otoniel, Colombian's most wanted drug lord, is to be extradited to the US after his capture. 
+ [Colombian drug lord Otoniel to be extradited to US](https://www.bbc.co.uk/news/world-latin-america-59032300?at_medium=RSS&at_campaign=KARANGA) BBC: US officials had placed a $5m (£3.6m) bounty on the head of Otoniel, Colombia's most wanted drug lord. 
  <p class="updated_time"> 01:51 PM CT, Oct. 24 </p> 
  [Kenyan Olympian's Husband Is Arrested in Her Killing ](https://www.nytimes.com/2021/10/24/world/africa/agnes-jebet-tirop-stabbing-arrest.html) NYT: Agnes Jebet Tirop, 25, a rising running star, was stabbed to death in her home this month. Her husband has been arrested. 
  <p class="updated_time"> 01:19 PM CT, Oct. 24 </p> 
