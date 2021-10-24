@@ -6,6 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 03:50 AM CT, Oct. 24 </p> 
+ [Colombia's most wanted drug lord Otoniel captured](https://www.bbc.co.uk/news/world-latin-america-59026214?at_medium=RSS&at_campaign=KARANGA) BBC: The US had placed a $5m bounty on the head of Dairo Antonio Úsuga, better known as Otoniel. 
  <p class="updated_time"> 02:00 AM CT, Oct. 24 </p> 
  [Long Arm of Russian Law Reaches Obscure Siberian Church](https://www.nytimes.com/2021/10/24/world/europe/russia-church-repression-siberia.html) NYT: The arrest of the leader of a small religious group reveals that Russian repression reaches even to the depths of the Siberian forest. 
  <p class="updated_time"> 01:36 AM CT, Oct. 24 </p> 
@@ -16,8 +18,6 @@ permalink: /charts/news/
  [As Hong Kong’s Civil Society Buckles, One Group Tries to Hold On](https://www.nytimes.com/2021/10/24/world/asia/hong-kong-civil-society.html) NYT: Unions and other organizations have dissolved after facing pressure under a new security law. The Hong Kong Journalists Association is hoping it can avoid that fate. 
  <p class="updated_time"> 10:49 PM CT, Oct. 23 </p> 
  [In India, Facebook Struggles to Combat Misinformation and Hate Speech ](https://www.nytimes.com/2021/10/23/technology/facebook-india-misinformation.html) NYT: Internal documents show a struggle with misinformation, hate speech and celebrations of violence in the country, the company’s biggest market. 
- <p class="updated_time"> 08:16 PM CT, Oct. 23 </p> 
- [Colombia's most wanted drug lord Otoniel captured](https://www.bbc.co.uk/news/world-latin-america-59026214?at_medium=RSS&at_campaign=KARANGA) BBC: The US had placed a $5m bounty on the head of Dairo Antonio Úsuga, better known as Otoniel. 
  <p class="updated_time"> 06:20 PM CT, Oct. 23 </p> 
  [Why Kenyan churches are banning politicians from pulpits](https://www.bbc.co.uk/news/world-africa-58666703?at_medium=RSS&at_campaign=KARANGA) BBC: Churches seek to wrestle back control of pulpits from politicians after years of cosy relations. 
  <p class="updated_time"> 06:19 PM CT, Oct. 23 </p> 
