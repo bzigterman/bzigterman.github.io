@@ -6,8 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
- <p class="updated_time"> 12:32 AM CT, Oct. 24 </p> 
- [Please Don’t Feed the Whale Sharks? Fishing Town Says It Must, to Prosper](https://www.nytimes.com/2021/10/24/world/asia/philippines-whale-shark-tourism.html) NYT: The chance to swim with the world’s biggest fish led to a tourism boom in a Philippines town, but conservation groups decry the hand-feeding that keeps the gentle giants around. 
+ <p class="updated_time"> 12:51 AM CT, Oct. 24 </p> 
+ [Please Don’t Feed the Whale Sharks? Fishing Town Says It Must, to Prosper.](https://www.nytimes.com/2021/10/24/world/asia/philippines-whale-shark-tourism.html) NYT: The chance to swim with the world’s biggest fish led to a tourism boom in a Philippines town, but conservation groups decry the hand-feeding that keeps the gentle giants around. 
  <p class="updated_time"> 11:10 PM CT, Oct. 23 </p> 
  [Picasso masterpieces fetch nearly $110m at Las Vegas auction](https://www.bbc.co.uk/news/world-us-canada-59026220?at_medium=RSS&at_campaign=KARANGA) BBC: The works, which were owned by MGM Resorts, featured in the Picasso Restaurant at the Bellagio Hotel. 
  <p class="updated_time"> 11:07 PM CT, Oct. 23 </p> 
