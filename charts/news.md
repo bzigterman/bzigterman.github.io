@@ -6,6 +6,10 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 06:22 PM CT, Oct. 24 </p> 
+ [Cases Grow in Germany as Restrictions Set to Expire](https://www.nytimes.com/2021/10/24/world/germany-covid-surge.html) NYT: Infections have increased by 57 percent in the past two weeks, while deaths on average in the same period have increased by 11 percent. 
+ <p class="updated_time"> 06:09 PM CT, Oct. 24 </p> 
+ [How can Coca-Cola solve its plastic problem?](https://www.bbc.co.uk/news/science-environment-59017151?at_medium=RSS&at_campaign=KARANGA) BBC: The drinks company has been named the world's biggest plastic polluter. 
  <p class="updated_time"> 06:04 PM CT, Oct. 24 </p> 
  [The Gambia: 'We are crying for justice'](https://www.bbc.co.uk/news/world-africa-59016290?at_medium=RSS&at_campaign=KARANGA) BBC: A report into alleged human rights abuses during the rule of former president Jammeh has been delayed. 
  <p class="updated_time"> 06:02 PM CT, Oct. 24 </p> 
@@ -38,8 +42,6 @@ permalink: /charts/news/
  [Nazanin Zaghari-Ratcliffe: Husband begins new hunger strike in London](https://www.bbc.co.uk/news/uk-59030936?at_medium=RSS&at_campaign=KARANGA) BBC: Aid worker Nazanin Zaghari-Ratcliffe is distraught at the prospect of returning to jail, her husband says. 
  <p class="updated_time"> 01:12 PM CT, Oct. 24 </p> 
  [After Early Success, U.S. and Israel Now Lag on Vaccinations](https://www.nytimes.com/2021/10/24/world/united-states-israel-vaccination-rates.html) NYT: The big barrier to higher rates in both countries is stiff resistance among specific groups. 
- <p class="updated_time"> 01:05 PM CT, Oct. 24 </p> 
- [Cases Grow in Germany as Restrictions Set to Expire](https://www.nytimes.com/2021/10/24/world/germany-covid-surge.html) NYT: Infections have increased by 57 percent in the past two weeks, while deaths on average in the same period have increased by 11 percent. 
  <p class="updated_time"> 01:03 PM CT, Oct. 24 </p> 
  [T20 World Cup: Pakistan hammer India by 10 wickets to claim famous win](https://www.bbc.co.uk/sport/cricket/59030529?at_medium=RSS&at_campaign=KARANGA) BBC: Pakistan hammer India by 10 wickets to claim a famous win over their great rivals at the Men's T20 World Cup in Dubai. 
  <p class="updated_time"> 12:44 PM CT, Oct. 24 </p> 
@@ -124,8 +126,6 @@ permalink: /charts/news/
  [Barbados Elects Its First Head of State, Replacing Queen Elizabeth](https://www.nytimes.com/2021/10/22/world/americas/sandra-mason-barbados.html) NYT: The country’s Parliament chose Sandra Mason, the governor general, to assume the symbolic title, a decisive move to distance itself from Barbados’s colonial past. 
  <p class="updated_time"> 03:15 PM CT, Oct. 22 </p> 
  [U.S. Warns of Efforts by China to Collect Genetic Data](https://www.nytimes.com/2021/10/22/us/politics/china-genetic-data-collection.html) NYT: The National Counterintelligence and Security Center said American companies needed to better secure critical technologies as Beijing seeks to dominate the so-called bioeconomy. 
- <p class="updated_time"> 03:06 PM CT, Oct. 22 </p> 
- [Middle East: Palestinians and Israelis clash over hillside](https://www.bbc.co.uk/news/world-59016195?at_medium=RSS&at_campaign=KARANGA) BBC: Eight people have been killed and hundreds injured in protests at the occupied West Bank. 
  <p class="updated_time"> 03:02 PM CT, Oct. 22 </p> 
  [U.S. Ramps Up Covid Boosters as Poor Nations Await First Doses](https://www.nytimes.com/2021/10/22/world/covid-vaccine-disparities.html) NYT: The booster program underlines the disparity in vaccine access, with wealthier nations accounting for more than three-quarters of all doses administered so far. 
  <p class="updated_time"> 02:31 PM CT, Oct. 22 </p> 
