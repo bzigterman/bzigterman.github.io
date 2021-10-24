@@ -6,8 +6,14 @@ permalink: /charts/news/
 
 ## World News
 
- <p class="updated_time"> 03:32 PM CT, Oct. 24 </p> 
+ <p class="updated_time"> 04:10 PM CT, Oct. 24 </p> 
+ [She Is Breaking Glass Ceilings in Space, but Facing Sexism on Earth](https://www.nytimes.com/2021/10/23/world/asia/china-space-women-wang-yaping.html) NYT: Sanitary pads and makeup: A Chinese astronaut’s six-month stay aboard the country’s space station has revealed conflicted cultural values toward gender. 
+ <p class="updated_time"> 04:05 PM CT, Oct. 24 </p> 
  [Singer Ed Sheeran Tests Positive for Coronavirus](https://www.nytimes.com/2021/10/24/world/ed-sheeran-covid-positive.html) NYT: Mr. Sheeran said he would cancel upcoming public appearances while he is “self-isolating and following government guidelines.” 
+ <p class="updated_time"> 04:04 PM CT, Oct. 24 </p> 
+ [Your Monday Briefing](https://www.nytimes.com/2021/10/24/briefing/your-monday-briefing.html) NYT: Facebook spreads misinformation in India. 
+ <p class="updated_time"> 04:02 PM CT, Oct. 24 </p> 
+ [As Hong Kong’s Civil Society Buckles, One Group Tries to Hold On](https://www.nytimes.com/2021/10/24/world/asia/hong-kong-civil-society.html) NYT: Unions and other organizations have dissolved after facing pressure under a new security law. The Hong Kong Journalists Association is hoping it can avoid that fate. 
  <p class="updated_time"> 03:00 PM CT, Oct. 24 </p> 
  [Struggles over vaccine mandates, the death of Colin Powell: the week in Covid news.](https://www.nytimes.com/2021/10/24/world/americas/struggles-over-vaccine-mandates-the-death-of-colin-powell-the-week-in-covid-news.html) NYT: NA 
  <p class="updated_time"> 02:09 PM CT, Oct. 24 </p> 
@@ -46,8 +52,6 @@ permalink: /charts/news/
  [Halyna Hutchins: Vigil held in New Mexico for cinematographer](https://www.bbc.co.uk/news/world-us-canada-59029509?at_medium=RSS&at_campaign=KARANGA) BBC: The cinematographer was fatally shot by a prop gun while filming for western movie Rust. 
  <p class="updated_time"> 05:00 AM CT, Oct. 24 </p> 
  [Covid-19 Sets Back China's Plans to Rebalance Its Economy](https://www.wsj.com/articles/covid-19-sets-back-chinas-plans-to-rebalance-its-economy-11635084000) WSJ: The pandemic-era boom in demand for Chinese goods boosted exports but made the country even more reliant on trade, leaving its economy vulnerable. 
- <p class="updated_time"> 04:51 AM CT, Oct. 24 </p> 
- [She Is Breaking Glass Ceilings in Space, but Facing Sexism on Earth](https://www.nytimes.com/2021/10/23/world/asia/china-space-women-wang-yaping.html) NYT: Sanitary pads and makeup: A Chinese astronaut’s six-month stay aboard the country’s space station has revealed conflicted cultural values toward gender. 
  <p class="updated_time"> 04:30 AM CT, Oct. 24 </p> 
  [The Gravedigger's Wife: Somali love story wins Africa's top film prize at Fespaco](https://www.bbc.co.uk/news/world-africa-59027682?at_medium=RSS&at_campaign=KARANGA) BBC: Somali film The Gravedigger's Wife focuses on the lengths people go to save a loved one. 
  <p class="updated_time"> 04:00 AM CT, Oct. 24 </p> 
@@ -60,8 +64,6 @@ permalink: /charts/news/
  [Long Arm of Russian Law Reaches Obscure Siberian Church](https://www.nytimes.com/2021/10/24/world/europe/russia-church-repression-siberia.html) NYT: The arrest of the leader of a small religious group reveals that Russian repression reaches even to the depths of the Siberian forest. 
  <p class="updated_time"> 01:36 AM CT, Oct. 24 </p> 
  [Picasso masterpieces fetch nearly $110m at Las Vegas auction](https://www.bbc.co.uk/news/world-us-canada-59026220?at_medium=RSS&at_campaign=KARANGA) BBC: The works, which were owned by MGM Resorts, featured in the Picasso Restaurant at the Bellagio Hotel. 
- <p class="updated_time"> 11:07 PM CT, Oct. 23 </p> 
- [As Hong Kong’s Civil Society Buckles, One Group Tries to Hold On](https://www.nytimes.com/2021/10/24/world/asia/hong-kong-civil-society.html) NYT: Unions and other organizations have dissolved after facing pressure under a new security law. The Hong Kong Journalists Association is hoping it can avoid that fate. 
  <p class="updated_time"> 10:49 PM CT, Oct. 23 </p> 
  [In India, Facebook Struggles to Combat Misinformation and Hate Speech ](https://www.nytimes.com/2021/10/23/technology/facebook-india-misinformation.html) NYT: Internal documents show a struggle with misinformation, hate speech and celebrations of violence in the country, the company’s biggest market. 
  <p class="updated_time"> 08:20 PM CT, Oct. 23 </p> 
@@ -168,8 +170,6 @@ permalink: /charts/news/
  [Searching for Australia’s Climate Tipping Point](https://www.nytimes.com/2021/10/21/world/australia/climate-change-tipping-point.html) NYT: The world, and most Australians, are increasingly disappointed by Australia’s lackluster approach to addressing climate change. 
  <p class="updated_time"> 09:25 PM CT, Oct. 21 </p> 
  [Haitian Kidnappers Threaten to Kill Missionaries](https://www.nytimes.com/2021/10/21/world/americas/haiti-missionary-kidnapping-threat.html) NYT: As negotiators worked to secure the release of 17 people associated with an Ohio-based missionary group, their kidnappers released a video threatening their lives. 
- <p class="updated_time"> 08:44 PM CT, Oct. 21 </p> 
- [Canada Settles on a Single 'Vaccine Passport' for Travel](https://www.nytimes.com/2021/10/21/world/canada-vaccine-passport-travel.html) NYT: The document, already in use in five of the country’s 10 provinces and all three of its territories, will replace a patchwork of programs across Canada. 
  <p class="updated_time"> 07:58 PM CT, Oct. 21 </p> 
  [Li Yundi Is Detained in China on Suspicion of Prostitution](https://www.nytimes.com/2021/10/21/arts/music/li-yundi-china-prostitution.html) NYT: Li Yundi, a famous performer, was accused of soliciting a woman, state news outlets said. Officials often use such accusations against their enemies. 
  <p class="updated_time"> 06:05 PM CT, Oct. 21 </p> 
