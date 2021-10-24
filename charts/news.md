@@ -6,12 +6,20 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 09:06 AM CT, Oct. 24 </p> 
+ [After Early Success, U.S. and Israel Now Lag on Vaccinations](https://www.nytimes.com/2021/10/24/world/united-states-israel-vaccination-rates.html) NYT: The big barrier to higher rates in both countries is stiff resistance among specific groups. 
+ <p class="updated_time"> 08:59 AM CT, Oct. 24 </p> 
+ [Biden Delays Release of Some J.F.K. Records, Citing Pandemic](https://www.nytimes.com/2021/10/23/world/americas/jfk-assassination-pandemic.html) NYT: The National Archives require additional time to work on redactions, a White House statement on Friday said. 
+ <p class="updated_time"> 08:57 AM CT, Oct. 24 </p> 
+ [Uganda: Suspected bomb attack in Kampala after terror warnings](https://www.bbc.co.uk/news/world-africa-59028210?at_medium=RSS&at_campaign=KARANGA) BBC: The suspected terrorist bombing comes a week after the UK warned about a possible attack. 
+ <p class="updated_time"> 08:51 AM CT, Oct. 24 </p> 
+ [German far-right group attempt to block migrants](https://www.bbc.co.uk/news/world-europe-59024490?at_medium=RSS&at_campaign=KARANGA) BBC: Police have stopped vigilantes armed with batons, pepper spray and a machete at the Polish border. 
  <p class="updated_time"> 08:44 AM CT, Oct. 24 </p> 
  [A C.I.A. Fighter, a Somali Bomb Maker, and a Faltering Shadow War](https://www.nytimes.com/2021/10/24/world/africa/al-shabab-somalia-us-cia.html) NYT: The hunt for an elusive Somali militant illustrates why Al Shabab, despite a decade of American covert action, are at their strongest in years. 
  <p class="updated_time"> 07:59 AM CT, Oct. 24 </p> 
  [Halyna Hutchins: Vigil held in New Mexico for cinematographer](https://www.bbc.co.uk/news/world-us-canada-59029509?at_medium=RSS&at_campaign=KARANGA) BBC: The cinematographer was fatally shot by a prop gun while filming for western movie Rust. 
- <p class="updated_time"> 04:58 AM CT, Oct. 24 </p> 
- [Uganda: Suspected bomb attack in Kampala after terror warnings](https://www.bbc.co.uk/news/world-africa-59028210?at_medium=RSS&at_campaign=KARANGA) BBC: The suspected terrorist bombing comes a week after the UK warned about a possible attack. 
+ <p class="updated_time"> 05:00 AM CT, Oct. 24 </p> 
+ [Covid-19 Sets Back China's Plans to Rebalance Its Economy](https://www.wsj.com/articles/covid-19-sets-back-chinas-plans-to-rebalance-its-economy-11635084000) WSJ: The pandemic-era boom in demand for Chinese goods boosted exports but made the country even more reliant on trade, leaving its economy vulnerable. 
  <p class="updated_time"> 04:51 AM CT, Oct. 24 </p> 
  [She Is Breaking Glass Ceilings in Space, but Facing Sexism on Earth](https://www.nytimes.com/2021/10/23/world/asia/china-space-women-wang-yaping.html) NYT: Sanitary pads and makeup: A Chinese astronaut’s six-month stay aboard the country’s space station has revealed conflicted cultural values toward gender. 
  <p class="updated_time"> 04:30 AM CT, Oct. 24 </p> 
@@ -52,8 +60,6 @@ permalink: /charts/news/
  [What's next after the release of Meng Wanzhou?](https://www.bbc.co.uk/news/world-us-canada-58916557?at_medium=RSS&at_campaign=KARANGA) BBC: Ms Meng and the two Canadian Michaels are home - but will the relations with China ever be the same? 
  <p class="updated_time"> 06:11 PM CT, Oct. 23 </p> 
  [Your pictures on the theme of minimalism](https://www.bbc.co.uk/news/in-pictures-58999674?at_medium=RSS&at_campaign=KARANGA) BBC: A selection of striking images from our readers around the world. 
- <p class="updated_time"> 05:13 PM CT, Oct. 23 </p> 
- [Biden Delays Release of Some J.F.K. Records, Citing Pandemic](https://www.nytimes.com/2021/10/23/world/americas/jfk-assassination-pandemic.html) NYT: The National Archives require additional time to work on redactions, a White House statement on Friday said. 
  <p class="updated_time"> 04:49 PM CT, Oct. 23 </p> 
  [Bellator 269: Fedor Emelianenko claims stunning knockout in Moscow](https://www.bbc.co.uk/sport/mixed-martial-arts/59024365?at_medium=RSS&at_campaign=KARANGA) BBC: Russian MMA icon Fedor Emelianenko knocks out the number two-ranked heavyweight Tim Johnson in Bellator 269 in Moscow. 
  <p class="updated_time"> 04:10 PM CT, Oct. 23 </p> 
@@ -68,8 +74,6 @@ permalink: /charts/news/
  [Taliban Honor Suicide Bombers in Bid to Rewrite History](https://www.nytimes.com/2021/10/23/world/asia/afghanistan-taliban-suicide-bombers.html) NYT: The new government brought together the bombers’ families at a publicized event, praising their actions but alienating those who have suffered at their hands. 
  <p class="updated_time"> 12:27 PM CT, Oct. 23 </p> 
  [Why Returning Home For Some Afghans Is as Difficult as Fleeing](https://www.nytimes.com/2021/10/23/world/asia/afghans-india-return-home.html) NYT: Thousands of Afghans who were in India for medical treatment when the country collapsed are now desperate to return, but have no money and no clear route home. 
- <p class="updated_time"> 12:23 PM CT, Oct. 23 </p> 
- [Agnes Tirop: Mourners pay respects to running star](https://www.bbc.co.uk/news/world-africa-59023302?at_medium=RSS&at_campaign=KARANGA) BBC: Many athletes turn out for the funeral of Agnes Tirop, who was found stabbed to death at her home. 
  <p class="updated_time"> 12:15 PM CT, Oct. 23 </p> 
  [Greta: We need public pressure, not just summits](https://www.bbc.co.uk/news/science-environment-59022846?at_medium=RSS&at_campaign=KARANGA) BBC: The climate activist speaks to the BBC about the COP26 conference, emissions targets and rickrolling. 
  <p class="updated_time"> 12:01 PM CT, Oct. 23 </p> 
@@ -94,8 +98,6 @@ permalink: /charts/news/
  [Turkish Opposition Begins Joining Ranks Against Erdogan](https://www.nytimes.com/2021/10/23/world/middleeast/turkey-election-erdogan-opposition.html) NYT: With an eye on elections, six parties are working on a plan to end a powerful presidency and return to a parliamentary system. 
  <p class="updated_time"> 06:57 AM CT, Oct. 23 </p> 
  [Saudi Arabia Pledges 'Net Zero' Carbon Emissions by 2060](https://www.wsj.com/articles/saudi-arabia-pledges-net-zero-carbon-emissions-by-2060-11634979405) WSJ: The goal, which comes ahead of the COP26 climate talks, doesn’t include emissions from the massive amounts of oil the kingdom exports to other countries. 
- <p class="updated_time"> 05:22 AM CT, Oct. 23 </p> 
- [China Plans Property-Tax Trials as It Targets Speculation](https://www.wsj.com/articles/china-plots-property-tax-trials-as-it-targets-speculation-11634998929) WSJ: Beijing says it will conduct five-year property-tax pilot program in some regions, looking for ways to rein in real-estate speculation and distribute wealth more evenly. 
  <p class="updated_time"> 03:00 AM CT, Oct. 23 </p> 
  [A 12-Year-Old Girl Sparks Debate on Covid-19 Vaccines for Kids in Mexico](https://www.wsj.com/articles/a-12-year-old-girl-sparks-debate-on-covid-19-vaccines-for-kids-in-mexico-11634990403) WSJ: Zulma Gonzalez’s widely watched video challenging Mexico’s coronavirus czar pushed Mexico to vaccinate up to 1 million at-risk minors. 
  <p class="updated_time"> 11:24 PM CT, Oct. 22 </p> 
@@ -176,8 +178,6 @@ permalink: /charts/news/
  [Israel Moves to Allow Entry to Vaccinated Tourists ](https://www.nytimes.com/2021/10/21/world/travel-to-israel-covid.html) NYT: The plan to reopen to international tourists for the first time since the pandemic began comes as infections are steadily declining in Israel after a fourth wave. 
  <p class="updated_time"> 03:10 PM CT, Oct. 21 </p> 
  [Syria Executes 24 People for Setting Wildfires, Calling It ‘Terrorism’](https://www.nytimes.com/2021/10/21/world/middleeast/syria-wildfire-executions.html) NYT: The sentences shocked rights groups, who saw it as a move by President Bashar al-Assad to appear tough after a crisis that hurt his loyalists. 
- <p class="updated_time"> 02:59 PM CT, Oct. 21 </p> 
- [Bulgaria Faces a Surge in Coronavirus Cases](https://www.nytimes.com/2021/10/21/world/europe/bulgaria-covid-cases.html) NYT: NA 
  <p class="updated_time"> 02:31 PM CT, Oct. 21 </p> 
  [US surgeon explains pig kidney-human transplant test](https://www.bbc.co.uk/news/health-59003998?at_medium=RSS&at_campaign=KARANGA) BBC: A US team says it successfully transplanted a genetically modified pig's kidney into a brain-dead human. 
  <p class="updated_time"> 02:16 PM CT, Oct. 21 </p> 
