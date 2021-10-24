@@ -9,7 +9,7 @@ permalink: /charts/news/
  <p class="updated_time"> 04:51 AM CT, Oct. 24 </p> 
  [She Is Breaking Glass Ceilings in Space, but Facing Sexism on Earth](https://www.nytimes.com/2021/10/23/world/asia/china-space-women-wang-yaping.html) NYT: Sanitary pads and makeup: A Chinese astronaut’s six-month stay aboard the country’s space station has revealed conflicted cultural values toward gender. 
  <p class="updated_time"> 04:30 AM CT, Oct. 24 </p> 
- [The Gravedigger's Wife: Somali love story wins Africa's top film prize](https://www.bbc.co.uk/news/world-africa-59027682?at_medium=RSS&at_campaign=KARANGA) BBC: Somali film The Gravedigger's Wife focuses on the lengths people go to save a loved one. 
+ [The Gravedigger's Wife: Somali love story wins Africa's top film prize at Fespaco](https://www.bbc.co.uk/news/world-africa-59027682?at_medium=RSS&at_campaign=KARANGA) BBC: Somali film The Gravedigger's Wife focuses on the lengths people go to save a loved one. 
  <p class="updated_time"> 04:00 AM CT, Oct. 24 </p> 
  [A C.I.A. Fighter, a Somali Bomb Maker, and a Faltering Shadow War](https://www.nytimes.com/2021/10/24/world/africa/al-shabab-somalia-us-cia.html) NYT: The hunt for an elusive Somali militant illustrates why Al Shabab, despite a decade of American covert action, are at their strongest in years. 
  <p class="updated_time"> 04:00 AM CT, Oct. 24 </p> 
@@ -22,6 +22,8 @@ permalink: /charts/news/
  [I Was Hacked. The Spyware Used Against Me Makes Us All Vulnerable.](https://www.nytimes.com/2021/10/24/insider/hacking-nso-surveillance.html) NYT: Invasive hacking software sold to countries to fight terrorism is easily abused. Researchers say my phone was hacked twice, probably by Saudi Arabia. 
  <p class="updated_time"> 03:50 AM CT, Oct. 24 </p> 
  [Colombia's most wanted drug lord Otoniel captured](https://www.bbc.co.uk/news/world-latin-america-59026214?at_medium=RSS&at_campaign=KARANGA) BBC: The US had placed a $5m bounty on the head of Dairo Antonio Úsuga, better known as Otoniel. 
+ <p class="updated_time"> 02:04 AM CT, Oct. 24 </p> 
+ [Endemic Covid-19 Has Arrived in Portugal. This Is What It Looks Like.](https://www.wsj.com/articles/endemic-covid-19-has-arrived-in-portugal-this-is-what-it-looks-like-11635073461) WSJ: The country has one of the world’s highest coronavirus vaccination rates. Its cautious return to normality is being closely watched by other countries as their inoculations inch higher. 
  <p class="updated_time"> 02:00 AM CT, Oct. 24 </p> 
  [Long Arm of Russian Law Reaches Obscure Siberian Church](https://www.nytimes.com/2021/10/24/world/europe/russia-church-repression-siberia.html) NYT: The arrest of the leader of a small religious group reveals that Russian repression reaches even to the depths of the Siberian forest. 
  <p class="updated_time"> 01:36 AM CT, Oct. 24 </p> 
@@ -32,6 +34,8 @@ permalink: /charts/news/
  [As Hong Kong’s Civil Society Buckles, One Group Tries to Hold On](https://www.nytimes.com/2021/10/24/world/asia/hong-kong-civil-society.html) NYT: Unions and other organizations have dissolved after facing pressure under a new security law. The Hong Kong Journalists Association is hoping it can avoid that fate. 
  <p class="updated_time"> 10:49 PM CT, Oct. 23 </p> 
  [In India, Facebook Struggles to Combat Misinformation and Hate Speech ](https://www.nytimes.com/2021/10/23/technology/facebook-india-misinformation.html) NYT: Internal documents show a struggle with misinformation, hate speech and celebrations of violence in the country, the company’s biggest market. 
+ <p class="updated_time"> 08:20 PM CT, Oct. 23 </p> 
+ [Qatar Voices Frustration Over U.S. Response to Drone Request](https://www.wsj.com/articles/qatar-voices-frustration-over-u-s-response-to-request-to-buy-drones-11635052841) WSJ: The U.S. ally is voicing frustration with the Biden administration for slow-walking a request to buy armed drones from the U.S. 
  <p class="updated_time"> 06:20 PM CT, Oct. 23 </p> 
  [Why Kenyan churches are banning politicians from pulpits](https://www.bbc.co.uk/news/world-africa-58666703?at_medium=RSS&at_campaign=KARANGA) BBC: Churches seek to wrestle back control of pulpits from politicians after years of cosy relations. 
  <p class="updated_time"> 06:19 PM CT, Oct. 23 </p> 
@@ -106,8 +110,6 @@ permalink: /charts/news/
  [U.S. Ramps Up Covid Boosters as Poor Nations Await First Doses](https://www.nytimes.com/2021/10/22/world/covid-vaccine-disparities.html) NYT: The booster program underlines the disparity in vaccine access, with wealthier nations accounting for more than three-quarters of all doses administered so far. 
  <p class="updated_time"> 02:31 PM CT, Oct. 22 </p> 
  [World's Health Care Workers Near Breaking Point, W.H.O warns](https://www.nytimes.com/2021/10/21/world/health-care-workers-burnout-who.html) NYT: The agency’s leaders also urged wealthy nations to take the lead in transferring doses of vaccines to the global South. 
- <p class="updated_time"> 02:08 PM CT, Oct. 22 </p> 
- [Haiti Overwhelmed by Wave of Kidnappings](https://www.wsj.com/articles/haiti-overwhelmed-by-wave-of-kidnappings-11634944106) WSJ: Kidnapping has become the great equalizer, as violent gangs target resident of both mansions and hovels, and all classes, ages and walks of life. 
  <p class="updated_time"> 02:01 PM CT, Oct. 22 </p> 
  [New Zealand announces a plan to move away from lockdowns.](https://www.nytimes.com/2021/10/22/world/new-zealand-announces-a-plan-to-move-away-from-lockdowns.html) NYT: NA 
  <p class="updated_time"> 01:54 PM CT, Oct. 22 </p> 
@@ -120,8 +122,6 @@ permalink: /charts/news/
  [In Haiti, Gangs Gain Power as Security Vacuum Grows](https://www.nytimes.com/2021/10/21/world/americas/haiti-gangs-kidnapping.html) NYT: Gangs have long held sway in the country, but their dominance has expanded in recent years and the government has been accused of using them as tools of repression. 
  <p class="updated_time"> 12:23 PM CT, Oct. 22 </p> 
  [Gangs in Haiti, Breaking a Taboo, Target the Church](https://www.nytimes.com/2021/10/22/world/americas/haiti-gangs-church.html) NYT: A French priest in Haiti recalls his kidnapping by 400 Mawozo, the same gang holding 16 Americans and a Canadian, including children, for ransom. 
- <p class="updated_time"> 12:15 PM CT, Oct. 22 </p> 
- [U.S., Allies Try to Move Beyond Disputes Over Afghanistan, Submarine Contract](https://www.wsj.com/articles/u-s-allies-try-to-move-beyond-disputes-over-afghanistan-submarine-contract-11634915159) WSJ: NATO defense ministers agreed to a new plan to defend Europe in case of a Russian attack and sought to ease tensions over Europe’s efforts to equip itself for more independent military action. 
  <p class="updated_time"> 11:22 AM CT, Oct. 22 </p> 
  [Poland’s Attacks on Rule of Law Leave Europe at Odds With Itself](https://www.nytimes.com/2021/10/22/world/europe/eu-poland-rule-of-law.html) NYT: E.U. leaders are facing an increasingly urgent question: What to do with a member that repeatedly violates a core principle, but refuses to leave the club? 
  <p class="updated_time"> 10:19 AM CT, Oct. 22 </p> 
