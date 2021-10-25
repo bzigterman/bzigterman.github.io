@@ -6,18 +6,20 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 06:57 AM CT, Oct. 25 </p> 
+ [Sudanese Prime Minister Abdalla Hamdok Is Detained in Apparent Coup](https://www.nytimes.com/live/2021/10/25/world/sudan-coup/coup) NYT: Demonstrators filled the streets of the capital, Khartoum, burning tires and chanting slogans, while internet access was sharply curtailed. 
  <p class="updated_time"> 06:50 AM CT, Oct. 25 </p> 
  [In India, Facebook Struggles to Combat Misinformation and Hate Speech ](https://www.nytimes.com/2021/10/23/technology/facebook-india-misinformation.html) NYT: Internal documents show a struggle with misinformation, hate speech and celebrations of violence in the country, the company’s biggest market. 
  <p class="updated_time"> 06:37 AM CT, Oct. 25 </p> 
  [Sudan's military dissolves civilian government and arrests leaders](https://www.bbc.co.uk/news/world-africa-59033142?at_medium=RSS&at_campaign=KARANGA) BBC: A leading general blames political infighting, as protesters in Khartoum denounce a coup. 
+ <p class="updated_time"> 06:21 AM CT, Oct. 25 </p> 
+ [Alec Baldwin was pointing gun at camera in Rust rehearsal, legal papers say](https://www.bbc.co.uk/news/entertainment-arts-59035483?at_medium=RSS&at_campaign=KARANGA) BBC: Legal papers shed light on what happened when actor Alec Baldwin fired a gun with tragic results. 
  <p class="updated_time"> 06:09 AM CT, Oct. 25 </p> 
  [‘Forced to sell my baby’ - Afghan families face extreme poverty](https://www.bbc.co.uk/news/world-asia-59034650?at_medium=RSS&at_campaign=KARANGA) BBC: The humanitarian crisis in Afghanistan could cost millions of lives if aid is not provided, the UN warns. 
  <p class="updated_time"> 06:01 AM CT, Oct. 25 </p> 
  [Tensions Between Sudan's Military and Civilian Leaders Had Been Growing](https://www.nytimes.com/2021/10/25/world/africa/sudan-military-coup-civilian.html) NYT: Civilians were set to rule the country for the first time in more than three decades. But the military was concerned about losing power. 
  <p class="updated_time"> 05:44 AM CT, Oct. 25 </p> 
  [Picking Their Fights](https://www.nytimes.com/2021/10/25/briefing/biden-congress-democrats-spending-bill.html) NYT: Creating temporary government programs could have big political benefits for Democrats. 
- <p class="updated_time"> 05:34 AM CT, Oct. 25 </p> 
- [Sudanese Prime Minister Abdalla Hamdok Is Detained in Apparent Coup](https://www.nytimes.com/live/2021/10/25/world/sudan-coup/coup) NYT: Demonstrators filled the streets of the capital, Khartoum, burning tires and chanting slogans, while internet access was sharply curtailed. 
  <p class="updated_time"> 05:18 AM CT, Oct. 25 </p> 
  [Traveling Through a Divided Israel](https://www.nytimes.com/2021/10/25/world/middleeast/israel-jews-palestinians-journey.html) NYT: Two Times journalists drive the length of Israel to discover what it means to be Israeli today. They meet a kaleidoscope of people, searching for belonging but far apart on how to find it. 
  <p class="updated_time"> 04:57 AM CT, Oct. 25 </p> 
@@ -108,10 +110,6 @@ permalink: /charts/news/
  [Colombia Captures Drug-Trafficking Kingpin Wanted by U.S.](https://www.wsj.com/articles/colombian-drug-trafficking-kingpin-otoniel-captured-was-wanted-by-u-s-11635091770) WSJ: The country said it has arrested the leader of a rural militia of more than 1,000 fighters who American prosecutors say oversaw a lucrative cocaine-smuggling network to the U.S. 
  <p class="updated_time"> 08:59 AM CT, Oct. 24 </p> 
  [Biden Delays Release of Some J.F.K. Records, Citing Pandemic](https://www.nytimes.com/2021/10/23/world/americas/jfk-assassination-pandemic.html) NYT: The National Archives require additional time to work on redactions, a White House statement on Friday said. 
- <p class="updated_time"> 08:51 AM CT, Oct. 24 </p> 
- [German far-right group attempt to block migrants](https://www.bbc.co.uk/news/world-europe-59024490?at_medium=RSS&at_campaign=KARANGA) BBC: Police have stopped vigilantes armed with batons, pepper spray and a machete at the Polish border. 
- <p class="updated_time"> 07:59 AM CT, Oct. 24 </p> 
- [Halyna Hutchins: Vigil held in New Mexico for cinematographer](https://www.bbc.co.uk/news/world-us-canada-59029509?at_medium=RSS&at_campaign=KARANGA) BBC: The cinematographer was fatally shot by a prop gun while filming for western movie Rust. 
  <p class="updated_time"> 07:10 AM CT, Oct. 24 </p> 
  [Turkey's Erdogan Threatens to Expel 10 Western Ambassadors, Including U.S. Envoy](https://www.wsj.com/articles/turkeys-erdogan-threatens-to-expel-10-western-ambassadors-including-u-s-envoy-11635088244) WSJ: The diplomats had recently called for the release of a Turkish philanthropist who has been jailed since 2017. If carried through, their expulsion would mark a sharp deterioration in relations between Turkey and the West. 
  <p class="updated_time"> 04:00 AM CT, Oct. 24 </p> 
