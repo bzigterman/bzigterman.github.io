@@ -359,21 +359,21 @@ html {
   </thead>
   <tbody class="gt_table_body">
     <tr><td class="gt_row gt_left">Cases</td>
-<td class="gt_row gt_right">42</td>
-<td class="gt_row gt_right">33</td>
-<td class="gt_row gt_right">&minus;22&percnt;</td></tr>
+<td class="gt_row gt_right">45</td>
+<td class="gt_row gt_right">31</td>
+<td class="gt_row gt_right">&minus;30&percnt;</td></tr>
     <tr><td class="gt_row gt_left gt_striped">Hospitalized</td>
 <td class="gt_row gt_right gt_striped">43</td>
 <td class="gt_row gt_right gt_striped">43</td>
 <td class="gt_row gt_right gt_striped">0&percnt;</td></tr>
     <tr><td class="gt_row gt_left">Monthly Deaths</td>
-<td class="gt_row gt_right">17</td>
 <td class="gt_row gt_right">15</td>
-<td class="gt_row gt_right">&minus;12&percnt;</td></tr>
+<td class="gt_row gt_right">13</td>
+<td class="gt_row gt_right">&minus;13&percnt;</td></tr>
     <tr><td class="gt_row gt_left gt_striped">New Vaccine Doses</td>
-<td class="gt_row gt_right gt_striped">569</td>
+<td class="gt_row gt_right gt_striped">499</td>
 <td class="gt_row gt_right gt_striped">479</td>
-<td class="gt_row gt_right gt_striped">&minus;16&percnt;</td></tr>
+<td class="gt_row gt_right gt_striped">&minus;4&percnt;</td></tr>
     <tr><td class="gt_row gt_left">Fully Vaccinated</td>
 <td class="gt_row gt_right">115,000</td>
 <td class="gt_row gt_right">116,000</td>
@@ -385,7 +385,7 @@ html {
   </tbody>
   <tfoot class="gt_sourcenotes">
     <tr>
-      <td class="gt_sourcenote" colspan="4">Latest data: Friday</td>
+      <td class="gt_sourcenote" colspan="4">Latest data: Monday</td>
     </tr>
   </tfoot>
   
@@ -749,23 +749,23 @@ html {
   </thead>
   <tbody class="gt_table_body">
     <tr><td class="gt_row gt_left">Cases</td>
-<td class="gt_row gt_right">2.2K</td>
-<td class="gt_row gt_right">2.2K</td>
-<td class="gt_row gt_right">&minus;4&percnt;</td></tr>
+<td class="gt_row gt_right">2.6K</td>
+<td class="gt_row gt_right">2.1K</td>
+<td class="gt_row gt_right">&minus;18&percnt;</td></tr>
     <tr><td class="gt_row gt_left gt_striped">Hospitalized</td>
-<td class="gt_row gt_right gt_striped">1.5K</td>
-<td class="gt_row gt_right gt_striped">1.3K</td>
-<td class="gt_row gt_right gt_striped">&minus;12&percnt;</td></tr>
+<td class="gt_row gt_right gt_striped">1.6K</td>
+<td class="gt_row gt_right gt_striped">1.2K</td>
+<td class="gt_row gt_right gt_striped">&minus;27&percnt;</td></tr>
     <tr><td class="gt_row gt_left">Deaths</td>
-<td class="gt_row gt_right">26</td>
-<td class="gt_row gt_right">26</td>
-<td class="gt_row gt_right">0&percnt;</td></tr>
+<td class="gt_row gt_right">29</td>
+<td class="gt_row gt_right">25</td>
+<td class="gt_row gt_right">&minus;11&percnt;</td></tr>
     <tr><td class="gt_row gt_left gt_striped">New Vaccine Doses</td>
-<td class="gt_row gt_right gt_striped">28K</td>
+<td class="gt_row gt_right gt_striped">27K</td>
 <td class="gt_row gt_right gt_striped">30K</td>
-<td class="gt_row gt_right gt_striped">+6&percnt;</td></tr>
+<td class="gt_row gt_right gt_striped">+10&percnt;</td></tr>
     <tr><td class="gt_row gt_left">Fully Vaccinated</td>
-<td class="gt_row gt_right">7.2M</td>
+<td class="gt_row gt_right">7.1M</td>
 <td class="gt_row gt_right">7.2M</td>
 <td class="gt_row gt_right">+1&percnt;</td></tr>
     <tr><td class="gt_row gt_left gt_striped">Pct. Fully Vaccinated</td>
@@ -775,7 +775,7 @@ html {
   </tbody>
   <tfoot class="gt_sourcenotes">
     <tr>
-      <td class="gt_sourcenote" colspan="4">Latest data: Friday</td>
+      <td class="gt_sourcenote" colspan="4">Latest data: Monday</td>
     </tr>
   </tfoot>
   
@@ -1570,8 +1570,8 @@ html {
 
 As of Sunday, the 14-day percent change in average new cases was:
   
-- -22% in Champaign County
-- -21% in Illinois
+- -30% in Champaign County
+- -18% in Illinois
 - -22% in the United States
 - 1% worldwide
 
@@ -1583,7 +1583,7 @@ This chart measures how quickly the average number of new cases is changing, or 
 
 As of Sunday, the 14-day percent change in average new deaths was:
   
-- -12% in Illinois
+- -11% in Illinois
 - 5% in the United States
 - 1% worldwide
 
