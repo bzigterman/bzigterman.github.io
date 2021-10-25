@@ -6,6 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 04:34 PM CT, Oct. 25 </p> 
+ [U.S. Halts Aid to Sudan Government After Coup](https://www.nytimes.com/2021/10/25/world/africa/us-aid-frozen-sudan.html) NYT: The Biden administration, calling for immediate restoration of the transition government, froze $700 million in direct aid. 
  <p class="updated_time"> 04:07 PM CT, Oct. 25 </p> 
  [Covid: Biden sets new rules as air travel to the US reopens](https://www.bbc.co.uk/news/world-us-canada-59044856?at_medium=RSS&at_campaign=KARANGA) BBC: All foreign travellers to the US will be required to show proof of vaccination or a negative test. 
  <p class="updated_time"> 03:56 PM CT, Oct. 25 </p> 
@@ -20,8 +22,6 @@ permalink: /charts/news/
  [Sudan Soldiers Gun Down Protesters, Doctors Group Says](https://www.nytimes.com/2021/10/25/world/africa/pro-democracy-protesters-flood-the-streets-of-sudans-capital.html) NYT: Protesters against the military coup took to the streets by the thousands and barricaded roads, and soldiers reportedly shot demonstrators outside army headquarters. 
  <p class="updated_time"> 03:09 PM CT, Oct. 25 </p> 
  [John Wayne Gacy murder victim named 45 years after vanishing](https://www.bbc.co.uk/news/world-us-canada-59040381?at_medium=RSS&at_campaign=KARANGA) BBC: Police identify the remains of a man killed by notorious murderer John Wayne Gacy in the 1970s. 
- <p class="updated_time"> 03:01 PM CT, Oct. 25 </p> 
- [U.S. Halts Aid to Sudan Government After Coup](https://www.nytimes.com/2021/10/25/world/africa/us-aid-frozen-sudan.html) NYT: The Biden administration, calling for immediate restoration of the transition government, froze $700 million in direct aid. 
  <p class="updated_time"> 02:12 PM CT, Oct. 25 </p> 
  [An Italian Politician’s Quest for Attention Gets a Boost From Richard Gere](https://www.nytimes.com/2021/10/25/world/europe/richard-gere-matteo-salvini-immigrant-trial.html) NYT: The actor may testify against Matteo Salvini, Italy’s former interior minister, in a case involving the treatment of migrants. 
  <p class="updated_time"> 02:09 PM CT, Oct. 25 </p> 
@@ -48,6 +48,8 @@ permalink: /charts/news/
  [Alec Baldwin film tragedy: What are the rules for guns on movie sets?](https://www.bbc.co.uk/news/entertainment-arts-59035488?at_medium=RSS&at_campaign=KARANGA) BBC: The regulations are under scrutiny after the death of a film-maker on the set of an Alec Baldwin film. 
  <p class="updated_time"> 10:26 AM CT, Oct. 25 </p> 
  [Sudan Coup Draws Thousands to the Streets in Protest](https://www.wsj.com/articles/sudanese-prime-minister-detained-in-apparent-military-coup-11635150306) WSJ: Pro-democracy protesters streamed into the streets of the capital to reject a military coup of the transitional government that has ruled the country since the ouster of longtime dictator Omar al-Bashir. 
+ <p class="updated_time"> 10:03 AM CT, Oct. 25 </p> 
+ [Russian Military Drills Near Afghan Border Deliver Warning to Extremists](https://www.wsj.com/articles/russian-military-drills-near-afghan-border-deliver-warning-to-extremists-11635188626) WSJ: A series of joint military exercises by Russia and allies in Central Asia signaled an intention to prevent terrorism or ethnic tensions in Afghanistan from spilling over into Moscow’s backyard. 
  <p class="updated_time"> 09:45 AM CT, Oct. 25 </p> 
  [Haiti fuel shortages threaten patients' lives - Unicef](https://www.bbc.co.uk/news/world-latin-america-59035552?at_medium=RSS&at_campaign=KARANGA) BBC: Hospitals say that without fuel they cannot operate crucial generators and hundreds could die. 
  <p class="updated_time"> 09:23 AM CT, Oct. 25 </p> 
@@ -78,8 +80,6 @@ permalink: /charts/news/
  [Does Taiwan's Military Stand a Chance Against China? Few Think So.](https://www.wsj.com/articles/taiwan-military-readiness-china-threat-us-defense-11635174187) WSJ: Poor preparation and low morale are pressing concerns for Taiwan’s armed forces. One conscript said his basic training mainly involved sweeping leaves, moving spare tires and pulling weeds. 
  <p class="updated_time"> 05:44 AM CT, Oct. 25 </p> 
  [Picking Their Fights](https://www.nytimes.com/2021/10/25/briefing/biden-congress-democrats-spending-bill.html) NYT: Creating temporary government programs could have big political benefits for Democrats. 
- <p class="updated_time"> 05:42 AM CT, Oct. 25 </p> 
- [Amnesty International Exits Hong Kong, Citing National Security Law](https://www.wsj.com/articles/amnesty-international-exits-hong-kong-citing-national-security-law-11635154415) WSJ: The organization plans to pull out of the city by the end of the year, marking one of the most prominent departures of a rights group since China’s imposition of the law. 
  <p class="updated_time"> 04:57 AM CT, Oct. 25 </p> 
  [As Hong Kong’s Civil Society Buckles, One Group Tries to Hold On](https://www.nytimes.com/2021/10/24/world/asia/hong-kong-civil-society.html) NYT: Unions and other organizations have dissolved after facing pressure under a new security law. The Hong Kong Journalists Association is hoping it can avoid that fate. 
  <p class="updated_time"> 04:13 AM CT, Oct. 25 </p> 
