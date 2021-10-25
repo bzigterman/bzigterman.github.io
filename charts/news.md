@@ -6,6 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 03:38 PM CT, Oct. 25 </p> 
+ [Your Tuesday Briefing](https://www.nytimes.com/2021/10/25/briefing/sudan-coup-moderna-kids-hong-kong.html) NYT: Sudan’s military seizes power. 
  <p class="updated_time"> 03:23 PM CT, Oct. 25 </p> 
  [Hong Kong’s National Security Law Explained](https://www.nytimes.com/article/hong-kong-security-law-speech.html) NYT: An activist, Ma Chun-man, was convicted of inciting secession after, he said, he chanted slogans to test the limits of the law. 
  <p class="updated_time"> 03:16 PM CT, Oct. 25 </p> 
@@ -192,8 +194,6 @@ permalink: /charts/news/
  [How Russia Is Cashing In on Climate Change](https://www.nytimes.com/2021/10/22/world/europe/russia-arctic-climate-change-putin.html) NYT: Global warming may pose grave dangers around the world, but as one tiny Russian town on the Arctic Ocean shows, it can also be a ticket to prosperity. 
  <p class="updated_time"> 04:00 AM CT, Oct. 22 </p> 
  [India's Farmer Protesters Are Confronting Modi Head-On](https://www.nytimes.com/2021/10/22/world/asia/india-farmers-protests-modi.html) NYT: A year on, protesters against the country’s agricultural laws are taking an increasingly confrontational approach with the country’s leaders. 
- <p class="updated_time"> 04:00 AM CT, Oct. 22 </p> 
- [Flying With Your Pet? It Just Got a Lot More Difficult.](https://www.nytimes.com/2021/10/22/travel/pets-airlines-regulations.html) NYT: A recent C.D.C. rabies rule, pricey pet ‘tickets’ and limits on animals in airline cabins are making traveling with a pet more complicated. 
 
 
 
