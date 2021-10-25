@@ -6,12 +6,12 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 10:16 AM CT, Oct. 25 </p> 
+ [Sudan's Prime Minister Abdalla Hamdok Is Detained in Apparent Coup](https://www.nytimes.com/live/2021/10/25/world/sudan-coup/coup) NYT: Demonstrators filled the streets of the capital, Khartoum, burning tires and chanting slogans, while internet access was sharply curtailed. 
  <p class="updated_time"> 09:48 AM CT, Oct. 25 </p> 
  [How 4 Weeks of U.S. Paid Leave Would Compare With the Rest of the World](https://www.nytimes.com/2021/10/25/upshot/paid-leave-democrats.html) NYT: The U.S. is one of six countries with no national paid leave. The Democrats have cut their plan to four weeks, which would still make it an outlier. 
  <p class="updated_time"> 09:45 AM CT, Oct. 25 </p> 
  [Haiti fuel shortages threaten patients' lives - Unicef](https://www.bbc.co.uk/news/world-latin-america-59035552?at_medium=RSS&at_campaign=KARANGA) BBC: Hospitals say that without fuel they cannot operate crucial generators and hundreds could die. 
- <p class="updated_time"> 09:43 AM CT, Oct. 25 </p> 
- [Sudan's Prime Minister Abdalla Hamdok Is Detained in Apparent Coup](https://www.nytimes.com/live/2021/10/25/world/sudan-coup/coup) NYT: Demonstrators filled the streets of the capital, Khartoum, burning tires and chanting slogans, while internet access was sharply curtailed. 
  <p class="updated_time"> 09:42 AM CT, Oct. 25 </p> 
  [Tensions Between Sudan's Military and Civilian Leaders Had Been Growing](https://www.nytimes.com/2021/10/25/world/africa/sudan-military-coup-civilian.html) NYT: Civilians were set to rule the country for the first time in more than three decades. But the military was concerned about losing power. 
  <p class="updated_time"> 09:23 AM CT, Oct. 25 </p> 
