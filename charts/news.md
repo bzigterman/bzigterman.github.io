@@ -45,7 +45,7 @@ permalink: /charts/news/
  <p class="updated_time"> 09:23 AM CT, Oct. 25 </p> 
  [Singer Ed Sheeran Tests Positive for Coronavirus](https://www.nytimes.com/2021/10/24/arts/music/ed-sheeran-covid-positive.html) NYT: Mr. Sheeran said he would cancel upcoming public appearances while he is “self-isolating and following government guidelines.” 
  <p class="updated_time"> 09:19 AM CT, Oct. 25 </p> 
- [Rich Nations Lag Behind in Meeting $100 Billion Climate-Funding Pledge](https://www.wsj.com/articles/rich-nations-lag-behind-in-meeting-100-billion-climate-funding-pledge-in-blow-to-cop26-11635184234) WSJ: Wealthy governments won’t fulfill a pledge to provide $100 billion a year to help developing countries fight climate change until at least 2023, according to a new report from climate negotiators, a setback that comes just days before the U.N. COP26 summit. 
+ [Rich Nations Lag Behind in Meeting Climate-Fund Pledge](https://www.wsj.com/articles/rich-nations-lag-behind-in-meeting-100-billion-climate-funding-pledge-in-blow-to-cop26-11635184234) WSJ: Wealthy governments won’t fulfill a pledge to provide $100 billion a year to help developing countries fight climate change until at least 2023, according to a new report from climate negotiators, a setback that comes just days before the U.N. COP26 summit. 
  <p class="updated_time"> 09:12 AM CT, Oct. 25 </p> 
  [German IS woman jailed for Yazidi girl's death in Iraq](https://www.bbc.co.uk/news/world-europe-59036964?at_medium=RSS&at_campaign=KARANGA) BBC: A Munich court jails a jihadi bride for 10 years for the agonising death of a Yazidi girl in 2015. 
  <p class="updated_time"> 09:05 AM CT, Oct. 25 </p> 
