@@ -6,14 +6,18 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 08:43 AM CT, Oct. 25 </p> 
+ [Saudi crown prince suggested killing King Abdullah, ex-official says](https://www.bbc.co.uk/news/world-middle-east-59032931?at_medium=RSS&at_campaign=KARANGA) BBC: Mohammed bin Salman discussed assassinating the late King Abdullah in 2014, Saad al-Jabri says. 
+ <p class="updated_time"> 08:43 AM CT, Oct. 25 </p> 
+ [Sudanese Prime Minister Abdalla Hamdok Is Detained in Apparent Coup](https://www.nytimes.com/live/2021/10/25/world/sudan-coup/coup) NYT: Demonstrators filled the streets of the capital, Khartoum, burning tires and chanting slogans, while internet access was sharply curtailed. 
  <p class="updated_time"> 08:38 AM CT, Oct. 25 </p> 
  [Ignoring Sanctions, Russia Renews Broad Cybersurveillance Operation](https://www.nytimes.com/2021/10/25/us/politics/russia-cybersurveillance-biden.html) NYT: The new campaign came only months after President Biden imposed sanctions on Moscow in response to a series of spy operations it had conducted around the world. 
+ <p class="updated_time"> 08:35 AM CT, Oct. 25 </p> 
+ [Eitan Biran: Crash survivor must be returned to Italy, court rules](https://www.bbc.co.uk/news/world-middle-east-59040375?at_medium=RSS&at_campaign=KARANGA) BBC: Eitan Biran, who survived a cable car crash, should go to Italy after a custody fight, a court rules. 
  <p class="updated_time"> 08:18 AM CT, Oct. 25 </p> 
  [Tensions Between Sudan's Military and Civilian Leaders Had Been Growing](https://www.nytimes.com/2021/10/25/world/africa/sudan-military-coup-civilian.html) NYT: Civilians were set to rule the country for the first time in more than three decades. But the military was concerned about losing power. 
  <p class="updated_time"> 08:15 AM CT, Oct. 25 </p> 
  [Traveling Through a Divided Israel](https://www.nytimes.com/2021/10/25/world/middleeast/israel-jews-palestinians-journey.html) NYT: Two Times journalists drive the length of Israel to discover what it means to be Israeli today. They meet a kaleidoscope of people, searching for belonging but far apart on how to find it. 
- <p class="updated_time"> 06:57 AM CT, Oct. 25 </p> 
- [Sudanese Prime Minister Abdalla Hamdok Is Detained in Apparent Coup](https://www.nytimes.com/live/2021/10/25/world/sudan-coup/coup) NYT: Demonstrators filled the streets of the capital, Khartoum, burning tires and chanting slogans, while internet access was sharply curtailed. 
  <p class="updated_time"> 06:50 AM CT, Oct. 25 </p> 
  [In India, Facebook Struggles to Combat Misinformation and Hate Speech ](https://www.nytimes.com/2021/10/23/technology/facebook-india-misinformation.html) NYT: Internal documents show a struggle with misinformation, hate speech and celebrations of violence in the country, the company’s biggest market. 
  <p class="updated_time"> 06:37 AM CT, Oct. 25 </p> 
@@ -58,8 +62,6 @@ permalink: /charts/news/
  [China postpones Beijing marathon due to Covid surge](https://www.bbc.co.uk/news/world-asia-china-59033165?at_medium=RSS&at_campaign=KARANGA) BBC: Around 30,000 people were expected to take part in the marathon on October 31. 
  <p class="updated_time"> 10:00 PM CT, Oct. 24 </p> 
  [SolarWinds Hackers Step Up Attacks on Tech Companies](https://www.wsj.com/articles/microsoft-solarwinds-hackers-continue-to-hit-technology-companies-11635145200) WSJ: The Russia-linked hackers behind last year’s compromise of a wide swath of the U.S. government and scores of private companies have redoubled their efforts in recent months, Microsoft cybersecurity experts said. 
- <p class="updated_time"> 08:38 PM CT, Oct. 24 </p> 
- [Uganda: One killed in bomb attack at Kampala bar](https://www.bbc.co.uk/news/world-africa-59028210?at_medium=RSS&at_campaign=KARANGA) BBC: Islamic State says it was behind the bombing - a week after the UK warned about a possible attack. 
  <p class="updated_time"> 07:53 PM CT, Oct. 24 </p> 
  [Michael Jordan's trainers sell for record $1.47m at auction](https://www.bbc.co.uk/news/world-us-canada-59032756?at_medium=RSS&at_campaign=KARANGA) BBC: The US basketball legend wore the pair of red and white trainers during his first NBA season in 1984. 
  <p class="updated_time"> 07:18 PM CT, Oct. 24 </p> 
