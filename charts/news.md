@@ -38,6 +38,8 @@ permalink: /charts/news/
  [Russia Challenges Biden Again With Broad Cybersurveillance Operation](https://www.nytimes.com/2021/10/25/us/politics/russia-cybersurveillance-biden.html) NYT: The new campaign came only months after President Biden imposed sanctions on Moscow in response to a series of spy operations it had conducted around the world. 
  <p class="updated_time"> 01:20 AM CT, Oct. 25 </p> 
  [Climate change quiz: Test your knowledge of how to reduce emissions](https://www.bbc.co.uk/news/science-environment-58996348?at_medium=RSS&at_campaign=KARANGA) BBC: How much do you know about the steps you could take to help curb climate change? 
+ <p class="updated_time"> 12:33 AM CT, Oct. 25 </p> 
+ [Amnesty International Exits Hong Kong, Citing National Security Law](https://www.wsj.com/articles/amnesty-international-exits-hong-kong-citing-national-security-law-11635154415) WSJ: The organization plans to pull out of the city by the end of the year, marking one of the most prominent departures of a rights group since China’s imposition of a sweeping new security law on Hong Kong. 
  <p class="updated_time"> 11:25 PM CT, Oct. 24 </p> 
  [Sudanese Prime Minister Detained in Apparent Coup](https://www.wsj.com/articles/sudanese-prime-minister-detained-in-apparent-military-coup-11635150306) WSJ: Sudan’s prime minister was detained following an apparent military coup of the transitional government that has been ruling the country since the ouster of longtime dictator Omar al-Bashir, the country’s information ministry and several government officials said. 
  <p class="updated_time"> 11:23 PM CT, Oct. 24 </p> 
@@ -102,8 +104,6 @@ permalink: /charts/news/
  [Biden Delays Release of Some J.F.K. Records, Citing Pandemic](https://www.nytimes.com/2021/10/23/world/americas/jfk-assassination-pandemic.html) NYT: The National Archives require additional time to work on redactions, a White House statement on Friday said. 
  <p class="updated_time"> 08:51 AM CT, Oct. 24 </p> 
  [German far-right group attempt to block migrants](https://www.bbc.co.uk/news/world-europe-59024490?at_medium=RSS&at_campaign=KARANGA) BBC: Police have stopped vigilantes armed with batons, pepper spray and a machete at the Polish border. 
- <p class="updated_time"> 08:43 AM CT, Oct. 24 </p> 
- [Endemic Covid-19 Has Arrived in Portugal. This Is What It Looks Like.](https://www.wsj.com/articles/endemic-covid-19-has-arrived-in-portugal-this-is-what-it-looks-like-11635073461) WSJ: The country has one of the world’s highest coronavirus vaccination rates. Its cautious return to normality is being closely watched by other countries as their inoculations inch higher. 
  <p class="updated_time"> 07:59 AM CT, Oct. 24 </p> 
  [Halyna Hutchins: Vigil held in New Mexico for cinematographer](https://www.bbc.co.uk/news/world-us-canada-59029509?at_medium=RSS&at_campaign=KARANGA) BBC: The cinematographer was fatally shot by a prop gun while filming for western movie Rust. 
  <p class="updated_time"> 07:10 AM CT, Oct. 24 </p> 
