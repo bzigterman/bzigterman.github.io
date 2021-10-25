@@ -6,6 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 01:30 AM CT, Oct. 25 </p> 
+ [As Hong Kong’s Civil Society Buckles, One Group Tries to Hold On](https://www.nytimes.com/2021/10/24/world/asia/hong-kong-civil-society.html) NYT: Unions and other organizations have dissolved after facing pressure under a new security law. The Hong Kong Journalists Association is hoping it can avoid that fate. 
  <p class="updated_time"> 01:08 AM CT, Oct. 25 </p> 
  [Sudanese Officials Detained by Military Amid Fears of a Coup](https://www.nytimes.com/live/2021/10/25/world/sudan-protests/sudan-protests) NYT: Demonstrators filled the streets, burning tires and chanting slogans in the capital, Khartoum, and there was a “significant disruption” to the internet. 
  <p class="updated_time"> 12:59 AM CT, Oct. 25 </p> 
@@ -52,8 +54,6 @@ permalink: /charts/news/
  [Singer Ed Sheeran Tests Positive for Coronavirus](https://www.nytimes.com/2021/10/24/world/ed-sheeran-covid-positive.html) NYT: Mr. Sheeran said he would cancel upcoming public appearances while he is “self-isolating and following government guidelines.” 
  <p class="updated_time"> 04:04 PM CT, Oct. 24 </p> 
  [Your Monday Briefing](https://www.nytimes.com/2021/10/24/briefing/your-monday-briefing.html) NYT: Facebook spreads misinformation in India. 
- <p class="updated_time"> 04:02 PM CT, Oct. 24 </p> 
- [As Hong Kong’s Civil Society Buckles, One Group Tries to Hold On](https://www.nytimes.com/2021/10/24/world/asia/hong-kong-civil-society.html) NYT: Unions and other organizations have dissolved after facing pressure under a new security law. The Hong Kong Journalists Association is hoping it can avoid that fate. 
  <p class="updated_time"> 03:00 PM CT, Oct. 24 </p> 
  [Struggles over vaccine mandates, the death of Colin Powell: the week in Covid news.](https://www.nytimes.com/2021/10/24/world/americas/struggles-over-vaccine-mandates-the-death-of-colin-powell-the-week-in-covid-news.html) NYT: NA 
  <p class="updated_time"> 02:02 PM CT, Oct. 24 </p> 
