@@ -6,6 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 10:24 PM CT, Oct. 24 </p> 
+ [In India, Facebook Struggles to Combat Misinformation and Hate Speech ](https://www.nytimes.com/2021/10/23/technology/facebook-india-misinformation.html) NYT: Internal documents show a struggle with misinformation, hate speech and celebrations of violence in the country, the company’s biggest market. 
  <p class="updated_time"> 09:46 PM CT, Oct. 24 </p> 
  [Your Monday Briefing](https://www.nytimes.com/2021/10/24/briefing/somalia-military-covid-vaccines.html) NYT: A failed playbook in Somalia. 
  <p class="updated_time"> 09:02 PM CT, Oct. 24 </p> 
@@ -92,8 +94,6 @@ permalink: /charts/news/
  [I Was Hacked. The Spyware Used Against Me Makes Us All Vulnerable.](https://www.nytimes.com/2021/10/24/insider/hacking-nso-surveillance.html) NYT: Invasive hacking software sold to countries to fight terrorism is easily abused. Researchers say my phone was hacked twice, probably by Saudi Arabia. 
  <p class="updated_time"> 02:00 AM CT, Oct. 24 </p> 
  [Religious Leader's Arrest Reveals Long Arm of Russian Law](https://www.nytimes.com/2021/10/24/world/europe/russia-church-repression-siberia.html) NYT: The arrest of the leader of a small religious group reveals that Russian repression reaches even to the depths of the Siberian forest. 
- <p class="updated_time"> 10:49 PM CT, Oct. 23 </p> 
- [In India, Facebook Struggles to Combat Misinformation and Hate Speech ](https://www.nytimes.com/2021/10/23/technology/facebook-india-misinformation.html) NYT: Internal documents show a struggle with misinformation, hate speech and celebrations of violence in the country, the company’s biggest market. 
  <p class="updated_time"> 08:20 PM CT, Oct. 23 </p> 
  [Qatar Voices Frustration Over U.S. Response to Drone Request](https://www.wsj.com/articles/qatar-voices-frustration-over-u-s-response-to-request-to-buy-drones-11635052841) WSJ: The U.S. ally is voicing frustration with the Biden administration for slow-walking a request to buy armed drones from the U.S. 
  <p class="updated_time"> 04:10 PM CT, Oct. 23 </p> 
