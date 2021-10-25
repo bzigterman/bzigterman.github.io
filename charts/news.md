@@ -6,6 +6,14 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 04:13 AM CT, Oct. 25 </p> 
+ [‘Needle Spiking’ of Women in Britain Stirs Alarm Over New Kind of Assault](https://www.nytimes.com/2021/10/22/world/europe/needle-spiking-uk.html) NYT: Women are reporting being injected with syringes at crowded clubs in a horrifying variation of dropping pills into drinks. “This is a new depth,’’ said a former chief of police. 
+ <p class="updated_time"> 04:00 AM CT, Oct. 25 </p> 
+ [Traveling Through a Divided Israel](https://www.nytimes.com/2021/10/25/world/middleeast/israel-jews-palestinians-journey.html) NYT: Two Times journalists drive the length of Israel to discover what it means to be Israeli today. They meet a kaleidoscope of people, searching for belonging but far apart on how to find it. 
+ <p class="updated_time"> 04:00 AM CT, Oct. 25 </p> 
+ [Inside the Thai Temple Where Tattoos Come to Life](https://www.nytimes.com/2021/10/25/travel/sak-yant-tattoo-thailand.html) NYT: Wat Bang Phra, a temple in central Thailand, is renowned as a center for sak yant, a style of tattoo art believed by some to convey protective powers. 
+ <p class="updated_time"> 04:00 AM CT, Oct. 25 </p> 
+ [How 4 Weeks of U.S. Paid Leave Would Compare With the Rest of the World](https://www.nytimes.com/2021/10/25/upshot/paid-leave-democrats.html) NYT: The U.S. is one of six countries with no national paid leave. The Democrats have cut their plan to four weeks, which would still make it an outlier. 
  <p class="updated_time"> 03:53 AM CT, Oct. 25 </p> 
  [Sudan's civilian leaders arrested amid coup reports](https://www.bbc.co.uk/news/world-africa-59033142?at_medium=RSS&at_campaign=KARANGA) BBC: It comes amid rising tensions between the country's military and civilian transitional authorities. 
  <p class="updated_time"> 03:52 AM CT, Oct. 25 </p> 
@@ -28,10 +36,16 @@ permalink: /charts/news/
  [As Hong Kong’s Civil Society Buckles, One Group Tries to Hold On](https://www.nytimes.com/2021/10/24/world/asia/hong-kong-civil-society.html) NYT: Unions and other organizations have dissolved after facing pressure under a new security law. The Hong Kong Journalists Association is hoping it can avoid that fate. 
  <p class="updated_time"> 01:20 AM CT, Oct. 25 </p> 
  [Climate change quiz: Test your knowledge of how to reduce emissions](https://www.bbc.co.uk/news/science-environment-58996348?at_medium=RSS&at_campaign=KARANGA) BBC: How much do you know about the steps you could take to help curb climate change? 
+ <p class="updated_time"> 11:25 PM CT, Oct. 24 </p> 
+ [Sudanese Prime Minister Detained in Apparent Coup](https://www.wsj.com/articles/sudanese-prime-minister-detained-in-apparent-military-coup-11635150306) WSJ: Sudan’s prime minister was detained following an apparent military coup of the transitional government that has been ruling the country since the ouster of longtime dictator Omar al-Bashir, the country’s information ministry and several government officials said. 
  <p class="updated_time"> 11:23 PM CT, Oct. 24 </p> 
  [Your Monday Briefing](https://www.nytimes.com/2021/10/24/briefing/somalia-military-covid-vaccines.html) NYT: A failed playbook in Somalia. 
  <p class="updated_time"> 10:31 PM CT, Oct. 24 </p> 
  [China postpones Beijing marathon due to Covid surge](https://www.bbc.co.uk/news/world-asia-china-59033165?at_medium=RSS&at_campaign=KARANGA) BBC: Around 30,000 people were expected to take part in the marathon on October 31. 
+ <p class="updated_time"> 10:00 PM CT, Oct. 24 </p> 
+ [SolarWinds Hackers Step Up Attacks on Tech Companies](https://www.wsj.com/articles/microsoft-solarwinds-hackers-continue-to-hit-technology-companies-11635145200) WSJ: The Russia-linked hackers behind last year’s compromise of a wide swath of the U.S. government and scores of private companies have redoubled their efforts in recent months, Microsoft cybersecurity experts said 
+ <p class="updated_time"> 09:25 PM CT, Oct. 24 </p> 
+ [Australia Backs $1.6 Billion Buy of Pacific Mobile Networks](https://www.wsj.com/articles/australia-backs-1-6-billion-buy-of-pacific-mobile-networks-11635143143) WSJ: The Australian government is financing the purchase of mobile networks in six Pacific countries, a move that foreign-policy experts say is designed to block a military rival from buying the strategically important assets. 
  <p class="updated_time"> 08:38 PM CT, Oct. 24 </p> 
  [Uganda: One killed in bomb attack at Kampala bar](https://www.bbc.co.uk/news/world-africa-59028210?at_medium=RSS&at_campaign=KARANGA) BBC: Islamic State says it was behind the bombing - a week after the UK warned about a possible attack. 
  <p class="updated_time"> 07:53 PM CT, Oct. 24 </p> 
@@ -58,6 +72,8 @@ permalink: /charts/news/
  [How can Coca-Cola solve its plastic problem?](https://www.bbc.co.uk/news/science-environment-59017151?at_medium=RSS&at_campaign=KARANGA) BBC: The drinks company has been named the world's biggest plastic polluter. 
  <p class="updated_time"> 06:04 PM CT, Oct. 24 </p> 
  [The Gambia: 'We are crying for justice'](https://www.bbc.co.uk/news/world-africa-59016290?at_medium=RSS&at_campaign=KARANGA) BBC: A report into alleged human rights abuses during the rule of former president Jammeh has been delayed. 
+ <p class="updated_time"> 06:03 PM CT, Oct. 24 </p> 
+ [Xi's 'Common Prosperity' in Theory and Practice](https://www.wsj.com/articles/xis-common-prosperity-in-theory-and-practice-11635130856) WSJ: President Xi Jinping’s vision for a more equal China has spooked investors. The recent release of a fuller version of his August remarks contains important hints on what “common prosperity” really means. 
  <p class="updated_time"> 06:02 PM CT, Oct. 24 </p> 
  [Inside the Indonesian cave where oldest animal art was found](https://www.bbc.co.uk/news/world-asia-58988252?at_medium=RSS&at_campaign=KARANGA) BBC: The BBC is given rare access to film the 45,500-year-old images found on an Indonesian island. 
  <p class="updated_time"> 04:24 PM CT, Oct. 24 </p> 
@@ -92,10 +108,6 @@ permalink: /charts/news/
  [Halyna Hutchins: Vigil held in New Mexico for cinematographer](https://www.bbc.co.uk/news/world-us-canada-59029509?at_medium=RSS&at_campaign=KARANGA) BBC: The cinematographer was fatally shot by a prop gun while filming for western movie Rust. 
  <p class="updated_time"> 07:10 AM CT, Oct. 24 </p> 
  [Turkey's Erdogan Threatens to Expel 10 Western Ambassadors, Including U.S. Envoy](https://www.wsj.com/articles/turkeys-erdogan-threatens-to-expel-10-western-ambassadors-including-u-s-envoy-11635088244) WSJ: The diplomats had recently called for the release of a Turkish philanthropist who has been jailed since 2017. If carried through, their expulsion would mark a sharp deterioration in relations between Turkey and the West. 
- <p class="updated_time"> 06:11 AM CT, Oct. 24 </p> 
- [French Nationalist TV Host Éric Zemmour, Inspired by Trump, Surges in Polls](https://www.wsj.com/articles/french-nationalist-tv-host-eric-zemmour-inspired-by-trump-surges-in-polls-11635088315) WSJ: Far-right pundit explores a presidential run in France, assembling a new electoral coalition that is siphoning off support from longtime standard-bearer Marine Le Pen and shaking up French politics. 
- <p class="updated_time"> 05:00 AM CT, Oct. 24 </p> 
- [Covid-19 Sets Back China's Plans to Rebalance Its Economy](https://www.wsj.com/articles/covid-19-sets-back-chinas-plans-to-rebalance-its-economy-11635084000) WSJ: The pandemic-era boom in demand for Chinese goods boosted exports but made the country even more reliant on trade, leaving its economy vulnerable. 
  <p class="updated_time"> 04:00 AM CT, Oct. 24 </p> 
  [How Public Criticism Has Affected Japan's Royal Women](https://www.nytimes.com/2021/10/24/world/asia/japan-princess-mako-mental-health.html) NYT: A princess who will soon marry represents the third generation to suffer intense emotional distress in a country that often consigns women to rigid roles. 
  <p class="updated_time"> 04:00 AM CT, Oct. 24 </p> 
@@ -104,8 +116,6 @@ permalink: /charts/news/
  [I Was Hacked. The Spyware Used Against Me Makes Us All Vulnerable.](https://www.nytimes.com/2021/10/24/insider/hacking-nso-surveillance.html) NYT: Invasive hacking software sold to countries to fight terrorism is easily abused. Researchers say my phone was hacked twice, probably by Saudi Arabia. 
  <p class="updated_time"> 02:00 AM CT, Oct. 24 </p> 
  [Religious Leader's Arrest Reveals Long Arm of Russian Law](https://www.nytimes.com/2021/10/24/world/europe/russia-church-repression-siberia.html) NYT: The arrest of the leader of a small religious group reveals that Russian repression reaches even to the depths of the Siberian forest. 
- <p class="updated_time"> 08:20 PM CT, Oct. 23 </p> 
- [Qatar Voices Frustration Over U.S. Response to Drone Request](https://www.wsj.com/articles/qatar-voices-frustration-over-u-s-response-to-request-to-buy-drones-11635052841) WSJ: The U.S. ally is voicing frustration with the Biden administration for slow-walking a request to buy armed drones from the U.S. 
  <p class="updated_time"> 04:10 PM CT, Oct. 23 </p> 
  [Erdogan Threatens to Expel 10 Western Ambassadors](https://www.nytimes.com/2021/10/23/world/europe/erdogan-turkey-ambassadors-persona-non-grata.html) NYT: The move follows a statement from the envoys demanding the release of a prominent philanthropist jailed since 2017. 
  <p class="updated_time"> 01:11 PM CT, Oct. 23 </p> 
@@ -114,8 +124,6 @@ permalink: /charts/news/
  [Why Returning Home For Some Afghans Is as Difficult as Fleeing](https://www.nytimes.com/2021/10/23/world/asia/afghans-india-return-home.html) NYT: Thousands of Afghans who were in India for medical treatment when the country collapsed are now desperate to return, but have no money and no clear route home. 
  <p class="updated_time"> 12:01 PM CT, Oct. 23 </p> 
  [Singapore will require vaccination or daily tests for workplace access next year.](https://www.nytimes.com/2021/10/23/world/singapore-will-require-vaccination-or-daily-tests-for-workplace-access-next-year.html) NYT: NA 
- <p class="updated_time"> 11:31 AM CT, Oct. 23 </p> 
- [‘Needle Spiking’ of Women in Britain Stirs Alarm Over New Kind of Assault](https://www.nytimes.com/2021/10/22/world/europe/needle-spiking-uk.html) NYT: Women are reporting being injected with syringes at crowded clubs in a horrifying variation of dropping pill into drinks. “This is a new depth,’’ said a former chief of police. 
  <p class="updated_time"> 11:11 AM CT, Oct. 23 </p> 
  [Amanda Knox Was Exonerated. That Doesn’t Mean She’s Free.](https://www.nytimes.com/2021/10/22/style/amanda-knox-ten-years-later.html) NYT: Ten years after being cleared of a heinous crime, she is still trying to tell her story on her own terms. 
  <p class="updated_time"> 10:45 AM CT, Oct. 23 </p> 
@@ -182,16 +190,10 @@ permalink: /charts/news/
  [New Zealand Wants a 90% Vaccination Rate. Its Street Gangs May Hold the Key.](https://www.nytimes.com/2021/10/22/world/australia/new-zealand-vaccination-gangs.html) NYT: The country’s leaders have set aside some misgivings and cooperated with gang leaders to reach their communities. 
  <p class="updated_time"> 09:54 PM CT, Oct. 21 </p> 
  [Searching for Australia’s Climate Tipping Point](https://www.nytimes.com/2021/10/21/world/australia/climate-change-tipping-point.html) NYT: The world, and most Australians, are increasingly disappointed by Australia’s lackluster approach to addressing climate change. 
- <p class="updated_time"> 09:25 PM CT, Oct. 21 </p> 
- [Haitian Kidnappers Threaten to Kill Missionaries](https://www.nytimes.com/2021/10/21/world/americas/haiti-missionary-kidnapping-threat.html) NYT: As negotiators worked to secure the release of 17 people associated with an Ohio-based missionary group, their kidnappers released a video threatening their lives. 
  <p class="updated_time"> 07:58 PM CT, Oct. 21 </p> 
  [Li Yundi Is Detained in China on Suspicion of Prostitution](https://www.nytimes.com/2021/10/21/arts/music/li-yundi-china-prostitution.html) NYT: Li Yundi, a famous performer, was accused of soliciting a woman, state news outlets said. Officials often use such accusations against their enemies. 
  <p class="updated_time"> 05:19 PM CT, Oct. 21 </p> 
  [Queen Elizabeth Was Hospitalized, Palace Discloses](https://www.nytimes.com/2021/10/21/world/europe/queen-elizabeth-health-hospital.html) NYT: She was discharged on Thursday after undergoing tests the day before and spending the night. The queen, 95, had just canceled a planned trip to Northern Ireland. 
- <p class="updated_time"> 04:20 PM CT, Oct. 21 </p> 
- [Your Friday Briefing](https://www.nytimes.com/2021/10/21/briefing/australia-coal-british-covid-strategy-celtics.html) NYT: Why Australia won’t commit to emissions reductions. 
- <p class="updated_time"> 03:29 PM CT, Oct. 21 </p> 
- [Israel Moves to Allow Entry to Vaccinated Tourists ](https://www.nytimes.com/2021/10/21/world/travel-to-israel-covid.html) NYT: The plan to reopen to international tourists for the first time since the pandemic began comes as infections are steadily declining in Israel after a fourth wave. 
 
 
 
