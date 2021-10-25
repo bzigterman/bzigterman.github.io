@@ -6,6 +6,16 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 12:01 PM CT, Oct. 25 </p> 
+ [Turkey dispute with US eases after threat to expel envoys](https://www.bbc.co.uk/news/world-europe-59042931?at_medium=RSS&at_campaign=KARANGA) BBC: Ten Western ambassadors had angered the Turkish president by urging a jailed activist's release. 
+ <p class="updated_time"> 11:42 AM CT, Oct. 25 </p> 
+ [German Woman Convicted of a Crime Against Humanity in Death of Yazidi Child](https://www.nytimes.com/2021/10/25/world/europe/germany-isis-yazidi-child.html) NYT: The woman was sentenced to 10 years in prison after a court found that she joined the Islamic State and enslaved a Yazidi mother and child, whom she left to die in the summer heat of Iraq in 2015. 
+ <p class="updated_time"> 11:35 AM CT, Oct. 25 </p> 
+ [How 4 Weeks of U.S. Paid Leave Would Compare With the Rest of the World](https://www.nytimes.com/2021/10/25/upshot/paid-leave-democrats.html) NYT: The U.S. is one of six countries with no national paid leave. The Democrats have cut their plan to four weeks, which would still make it an outlier. 
+ <p class="updated_time"> 11:34 AM CT, Oct. 25 </p> 
+ [A Jewish Far-Right Pundit Splits the French Jewish Community as He Rises](https://www.nytimes.com/2021/10/25/world/europe/eric-zemmour-france-jewish-bernard-henri-levy.html) NYT: Éric Zemmour, eyeing the presidency, tries to rehabilitate the wartime Vichy regime that collaborated with the Nazis as part of a campaign filled with provocations. 
+ <p class="updated_time"> 11:27 AM CT, Oct. 25 </p> 
+ [Sudan coup: Military dissolves civilian government and arrests leaders](https://www.bbc.co.uk/news/world-africa-59033142?at_medium=RSS&at_campaign=KARANGA) BBC: Protesters in Khartoum denounce the coup, as soldiers cut off main roads and restrict the internet. 
  <p class="updated_time"> 11:21 AM CT, Oct. 25 </p> 
  [Israeli cabinet backs huge spending plan for Arab minority](https://www.bbc.co.uk/news/world-middle-east-59039911?at_medium=RSS&at_campaign=KARANGA) BBC: Billions of dollars are earmarked for Israel's Arab minority, which has long complained of neglect. 
  <p class="updated_time"> 11:20 AM CT, Oct. 25 </p> 
@@ -16,12 +26,6 @@ permalink: /charts/news/
  [Sudan Soldiers Gun Down Protesters, Doctors Group Says](https://www.nytimes.com/2021/10/25/world/africa/pro-democracy-protesters-flood-the-streets-of-sudans-capital.html) NYT: Protesters against the military coup took to the streets by the thousands and barricaded roads, and soldiers reportedly shot demonstrators outside army headquarters. 
  <p class="updated_time"> 11:07 AM CT, Oct. 25 </p> 
  [Sudan's Prime Minister Abdalla Hamdok Is Detained in Apparent Coup](https://www.nytimes.com/live/2021/10/25/world/sudan-coup/coup) NYT: Demonstrators filled the streets of the capital, Khartoum, soldiers reportedly fired on some of them, gunfire echoed through the city and internet access was sharply curtailed. 
- <p class="updated_time"> 11:01 AM CT, Oct. 25 </p> 
- [A Jewish Far-Right Pundit Splits the French Jewish Community as He Rises](https://www.nytimes.com/2021/10/25/world/europe/eric-zemmour-france-jewish.html) NYT: Éric Zemmour, eyeing the presidency, tries to rehabilitate the wartime Vichy regime that collaborated with the Nazis as part of a campaign filled with provocations. 
- <p class="updated_time"> 10:23 AM CT, Oct. 25 </p> 
- [Sudan coup: Military dissolves civilian government and arrests leaders](https://www.bbc.co.uk/news/world-africa-59033142?at_medium=RSS&at_campaign=KARANGA) BBC: Protesters in Khartoum denounce the coup, as soldiers cut off main roads and restrict the internet. 
- <p class="updated_time"> 09:48 AM CT, Oct. 25 </p> 
- [How 4 Weeks of U.S. Paid Leave Would Compare With the Rest of the World](https://www.nytimes.com/2021/10/25/upshot/paid-leave-democrats.html) NYT: The U.S. is one of six countries with no national paid leave. The Democrats have cut their plan to four weeks, which would still make it an outlier. 
  <p class="updated_time"> 09:45 AM CT, Oct. 25 </p> 
  [Haiti fuel shortages threaten patients' lives - Unicef](https://www.bbc.co.uk/news/world-latin-america-59035552?at_medium=RSS&at_campaign=KARANGA) BBC: Hospitals say that without fuel they cannot operate crucial generators and hundreds could die. 
  <p class="updated_time"> 09:42 AM CT, Oct. 25 </p> 
@@ -42,6 +46,8 @@ permalink: /charts/news/
  [Eitan Biran: Crash survivor must be returned to Italy, court rules](https://www.bbc.co.uk/news/world-middle-east-59040375?at_medium=RSS&at_campaign=KARANGA) BBC: The six-year-old survivor of a cable car crash must be returned to his aunt in Italy, a court rules. 
  <p class="updated_time"> 08:15 AM CT, Oct. 25 </p> 
  [Traveling Through a Divided Israel](https://www.nytimes.com/2021/10/25/world/middleeast/israel-jews-palestinians-journey.html) NYT: Two Times journalists drive the length of Israel to discover what it means to be Israeli today. They meet a kaleidoscope of people, searching for belonging but far apart on how to find it. 
+ <p class="updated_time"> 07:29 AM CT, Oct. 25 </p> 
+ [Sudan Coup Draws Thousands to the Streets in Protest](https://www.wsj.com/articles/sudanese-prime-minister-detained-in-apparent-military-coup-11635150306) WSJ: Pro-democracy protesters streamed into the streets of the capital to reject a military coup of the transitional government that has ruled the country since the ouster of longtime dictator Omar al-Bashir. 
  <p class="updated_time"> 06:50 AM CT, Oct. 25 </p> 
  [In India, Facebook Struggles to Combat Misinformation and Hate Speech ](https://www.nytimes.com/2021/10/23/technology/facebook-india-misinformation.html) NYT: Internal documents show a struggle with misinformation, hate speech and celebrations of violence in the country, the company’s biggest market. 
  <p class="updated_time"> 06:09 AM CT, Oct. 25 </p> 
@@ -58,8 +64,6 @@ permalink: /charts/news/
  [‘Needle Spiking’ of Women in Britain Stirs Alarm Over New Kind of Assault](https://www.nytimes.com/2021/10/22/world/europe/needle-spiking-uk.html) NYT: Women are reporting being injected with syringes at crowded clubs in a horrifying variation of dropping pills into drinks. “This is a new depth,’’ said a former chief of police. 
  <p class="updated_time"> 04:00 AM CT, Oct. 25 </p> 
  [Inside the Thai Temple Where Tattoos Come to Life](https://www.nytimes.com/2021/10/25/travel/sak-yant-tattoo-thailand.html) NYT: Wat Bang Phra, a temple in central Thailand, is renowned as a center for sak yant, a style of tattoo art believed by some to convey protective powers. 
- <p class="updated_time"> 03:52 AM CT, Oct. 25 </p> 
- [Sudan Military Coup Draws Thousands to the Streets in Protest](https://www.wsj.com/articles/sudanese-prime-minister-detained-in-apparent-military-coup-11635150306) WSJ: Pro-democracy protesters streamed into the streets of the capital to reject a military coup of the transitional government that has ruled the country since the ouster of longtime dictator Omar al-Bashir. 
  <p class="updated_time"> 03:40 AM CT, Oct. 25 </p> 
  [With New Conviction, Hong Kong Uses Security Law to Clamp Down on Speech](https://www.nytimes.com/2021/10/25/world/asia/hong-kong-security-law-speech.html) NYT: An activist, Ma Chun-man, was convicted of inciting secession after, he said, he chanted slogans to test the limits of the law. 
  <p class="updated_time"> 03:13 AM CT, Oct. 25 </p> 
@@ -70,8 +74,6 @@ permalink: /charts/news/
  [Climate change quiz: Test your knowledge of how to reduce emissions](https://www.bbc.co.uk/news/science-environment-58996348?at_medium=RSS&at_campaign=KARANGA) BBC: How much do you know about the steps you could take to help curb climate change? 
  <p class="updated_time"> 11:23 PM CT, Oct. 24 </p> 
  [Your Monday Briefing](https://www.nytimes.com/2021/10/24/briefing/somalia-military-covid-vaccines.html) NYT: A failed playbook in Somalia. 
- <p class="updated_time"> 10:31 PM CT, Oct. 24 </p> 
- [China postpones Beijing marathon due to Covid surge](https://www.bbc.co.uk/news/world-asia-china-59033165?at_medium=RSS&at_campaign=KARANGA) BBC: Around 30,000 people were expected to take part in the marathon on October 31. 
  <p class="updated_time"> 10:00 PM CT, Oct. 24 </p> 
  [SolarWinds Hackers Step Up Attacks on Tech Companies](https://www.wsj.com/articles/microsoft-solarwinds-hackers-continue-to-hit-technology-companies-11635145200) WSJ: The Russia-linked hackers behind last year’s compromise of a wide swath of the U.S. government and scores of private companies have redoubled their efforts in recent months, Microsoft cybersecurity experts said. 
  <p class="updated_time"> 09:25 PM CT, Oct. 24 </p> 
@@ -114,16 +116,12 @@ permalink: /charts/news/
  [Inside the Decade-Long U.S. Fight Against Al Shabab in Somalia](https://www.nytimes.com/2021/10/24/world/africa/al-shabab-somalia-us-cia.html) NYT: The hunt for an elusive Somali militant illustrates why Al Shabab, despite a decade of American covert action, are at their strongest in years. 
  <p class="updated_time"> 10:29 AM CT, Oct. 24 </p> 
  [At the World Expo Pavilions, Future Visions Combine Past and Present](https://www.nytimes.com/2021/10/24/world/world-expo-pavilions.html) NYT: Conversations with three figures integral to the conception of the expo. 
- <p class="updated_time"> 08:59 AM CT, Oct. 24 </p> 
- [Biden Delays Release of Some J.F.K. Records, Citing Pandemic](https://www.nytimes.com/2021/10/23/world/americas/jfk-assassination-pandemic.html) NYT: The National Archives require additional time to work on redactions, a White House statement on Friday said. 
  <p class="updated_time"> 07:10 AM CT, Oct. 24 </p> 
  [Turkey's Erdogan Threatens to Expel 10 Western Ambassadors, Including U.S. Envoy](https://www.wsj.com/articles/turkeys-erdogan-threatens-to-expel-10-western-ambassadors-including-u-s-envoy-11635088244) WSJ: The diplomats had recently called for the release of a Turkish philanthropist who has been jailed since 2017. If carried through, their expulsion would mark a sharp deterioration in relations between Turkey and the West. 
  <p class="updated_time"> 04:00 AM CT, Oct. 24 </p> 
  [How Public Criticism Has Affected Japan's Royal Women](https://www.nytimes.com/2021/10/24/world/asia/japan-princess-mako-mental-health.html) NYT: A princess who will soon marry represents the third generation to suffer intense emotional distress in a country that often consigns women to rigid roles. 
  <p class="updated_time"> 04:00 AM CT, Oct. 24 </p> 
  [A World-Class World Expo](https://www.nytimes.com/2021/10/24/world/world-expo-dubai.html) NYT: The event in Dubai dazzles with extraordinary architectural achievements and a focus on the future of the planet. 
- <p class="updated_time"> 04:00 AM CT, Oct. 24 </p> 
- [I Was Hacked. The Spyware Used Against Me Makes Us All Vulnerable.](https://www.nytimes.com/2021/10/24/insider/hacking-nso-surveillance.html) NYT: Invasive hacking software sold to countries to fight terrorism is easily abused. Researchers say my phone was hacked twice, probably by Saudi Arabia. 
  <p class="updated_time"> 02:00 AM CT, Oct. 24 </p> 
  [Religious Leader's Arrest Reveals Long Arm of Russian Law](https://www.nytimes.com/2021/10/24/world/europe/russia-church-repression-siberia.html) NYT: The arrest of the leader of a small religious group reveals that Russian repression reaches even to the depths of the Siberian forest. 
  <p class="updated_time"> 04:10 PM CT, Oct. 23 </p> 
@@ -190,6 +188,8 @@ permalink: /charts/news/
  [India's Farmer Protesters Are Confronting Modi Head-On](https://www.nytimes.com/2021/10/22/world/asia/india-farmers-protests-modi.html) NYT: A year on, protesters against the country’s agricultural laws are taking an increasingly confrontational approach with the country’s leaders. 
  <p class="updated_time"> 04:00 AM CT, Oct. 22 </p> 
  [Flying With Your Pet? It Just Got a Lot More Difficult.](https://www.nytimes.com/2021/10/22/travel/pets-airlines-regulations.html) NYT: A recent C.D.C. rabies rule, pricey pet ‘tickets’ and limits on animals in airline cabins are making traveling with a pet more complicated. 
+ <p class="updated_time"> 03:46 AM CT, Oct. 22 </p> 
+ [Your Friday Briefing](https://www.nytimes.com/2021/10/21/briefing/climate-change-donald-trump.html) NYT: The geopolitical risks of climate change. 
  <p class="updated_time"> 02:13 AM CT, Oct. 22 </p> 
  [New Zealand Wants a 90% Vaccination Rate. Its Street Gangs May Hold the Key.](https://www.nytimes.com/2021/10/22/world/australia/new-zealand-vaccination-gangs.html) NYT: The country’s leaders have set aside some misgivings and cooperated with gang leaders to reach their communities. 
 
