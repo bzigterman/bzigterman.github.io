@@ -6,14 +6,14 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 02:39 AM CT, Oct. 25 </p> 
+ [Sudan's civilian leaders arrested amid coup reports](https://www.bbc.co.uk/news/world-africa-59033142?at_medium=RSS&at_campaign=KARANGA) BBC: It comes amid rising tensions between the country's military and civilian transitional authorities. 
  <p class="updated_time"> 02:22 AM CT, Oct. 25 </p> 
  [The American envoy to Sudan was there on Saturday as protests gained traction.](https://www.nytimes.com/2021/10/25/world/africa/the-american-envoy-to-sudan-was-there-on-saturday-as-protests-gained-traction.html) NYT: NA 
  <p class="updated_time"> 02:00 AM CT, Oct. 25 </p> 
  [Russia Challenges Biden Again With Broad Cybersurveillance Operation](https://www.nytimes.com/2021/10/25/us/politics/russia-cybersurveillance-biden.html) NYT: The new campaign came only months after President Biden imposed sanctions on Moscow in response to a series of spy operations it had conducted around the world. 
  <p class="updated_time"> 01:56 AM CT, Oct. 25 </p> 
  [Sudanese Prime Minister Abdalla Hamdok Is Detained in Apparent Coup](https://www.nytimes.com/live/2021/10/25/world/sudan-protests/coup) NYT: Demonstrators filled the streets, burning tires and chanting slogans in the capital, Khartoum, and there was a “significant disruption” to the internet. 
- <p class="updated_time"> 01:52 AM CT, Oct. 25 </p> 
- [Sudan's civilian leaders arrested amid coup reports](https://www.bbc.co.uk/news/world-africa-59033142?at_medium=RSS&at_campaign=KARANGA) BBC: It comes amid rising tensions between the country's military and civilian transitional authorities. 
  <p class="updated_time"> 01:30 AM CT, Oct. 25 </p> 
  [As Hong Kong’s Civil Society Buckles, One Group Tries to Hold On](https://www.nytimes.com/2021/10/24/world/asia/hong-kong-civil-society.html) NYT: Unions and other organizations have dissolved after facing pressure under a new security law. The Hong Kong Journalists Association is hoping it can avoid that fate. 
  <p class="updated_time"> 11:23 PM CT, Oct. 24 </p> 
