@@ -6,6 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 03:01 PM CT, Oct. 25 </p> 
+ [U.S. Halts Aid to Sudan Government After Coup](https://www.nytimes.com/2021/10/25/world/africa/us-aid-frozen-sudan.html) NYT: The Biden administration, calling for immediate restoration of the transition government, froze $700 million in direct aid. 
  <p class="updated_time"> 02:12 PM CT, Oct. 25 </p> 
  [An Italian Politician’s Quest for Attention Gets a Boost From Richard Gere](https://www.nytimes.com/2021/10/25/world/europe/richard-gere-matteo-salvini-immigrant-trial.html) NYT: The actor may testify against Matteo Salvini, Italy’s former interior minister, in a case involving the treatment of migrants. 
  <p class="updated_time"> 02:09 PM CT, Oct. 25 </p> 
@@ -160,8 +162,6 @@ permalink: /charts/news/
  [U.S. Warns of Efforts by China to Collect Genetic Data](https://www.nytimes.com/2021/10/22/us/politics/china-genetic-data-collection.html) NYT: The National Counterintelligence and Security Center said American companies needed to better secure critical technologies as Beijing seeks to dominate the so-called bioeconomy. 
  <p class="updated_time"> 02:01 PM CT, Oct. 22 </p> 
  [New Zealand announces a plan to move away from lockdowns.](https://www.nytimes.com/2021/10/22/world/new-zealand-announces-a-plan-to-move-away-from-lockdowns.html) NYT: NA 
- <p class="updated_time"> 01:54 PM CT, Oct. 22 </p> 
- [Russia Strengthens Its Internet Censorship Powers](https://www.nytimes.com/2021/10/22/technology/russia-internet-censorship-putin.html) NYT: Quietly built over two years, the Kremlin’s censorship infrastructure gives it sweeping power to block sites. Many fear a new age of digital isolation. 
  <p class="updated_time"> 01:25 PM CT, Oct. 22 </p> 
  [Geert Jan van Oldenborgh, 59, Dies; Linked Weather Disasters to Climate Change](https://www.nytimes.com/2021/10/22/climate/geert-jan-van-oldenborgh-dead.html) NYT: With a colleague, he founded a group that quickly analyzes heat waves and other extreme events for signs of global warming’s influence. 
  <p class="updated_time"> 01:14 PM CT, Oct. 22 </p> 
