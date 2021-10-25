@@ -6,6 +6,10 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 04:07 PM CT, Oct. 25 </p> 
+ [Covid: Biden sets new rules as air travel to the US reopens](https://www.bbc.co.uk/news/world-us-canada-59044856?at_medium=RSS&at_campaign=KARANGA) BBC: All foreign travellers to the US will be required to show proof of vaccination or a negative test. 
+ <p class="updated_time"> 03:56 PM CT, Oct. 25 </p> 
+ [Sudan coup: Three protesters killed and dozens injured](https://www.bbc.co.uk/news/world-africa-59045020?at_medium=RSS&at_campaign=KARANGA) BBC: Soldiers are said to have opened fire on large crowds opposing the military takeover. 
  <p class="updated_time"> 03:38 PM CT, Oct. 25 </p> 
  [Your Tuesday Briefing](https://www.nytimes.com/2021/10/25/briefing/sudan-coup-moderna-kids-hong-kong.html) NYT: Sudan’s military seizes power. 
  <p class="updated_time"> 03:23 PM CT, Oct. 25 </p> 
@@ -36,8 +40,6 @@ permalink: /charts/news/
  [How 4 Weeks of U.S. Paid Leave Would Compare With the Rest of the World](https://www.nytimes.com/2021/10/25/upshot/paid-leave-democrats.html) NYT: The U.S. is one of six countries with no national paid leave. The Democrats have cut their plan to four weeks, which would still make it an outlier. 
  <p class="updated_time"> 11:34 AM CT, Oct. 25 </p> 
  [A Jewish Far-Right Pundit Splits the French Jewish Community as He Rises](https://www.nytimes.com/2021/10/25/world/europe/eric-zemmour-france-jewish-bernard-henri-levy.html) NYT: Éric Zemmour, eyeing the presidency, tries to rehabilitate the wartime Vichy regime that collaborated with the Nazis as part of a campaign filled with provocations. 
- <p class="updated_time"> 11:27 AM CT, Oct. 25 </p> 
- [Sudan coup: Military dissolves civilian government and arrests leaders](https://www.bbc.co.uk/news/world-africa-59033142?at_medium=RSS&at_campaign=KARANGA) BBC: Protesters in Khartoum denounce the coup, as soldiers cut off main roads and restrict the internet. 
  <p class="updated_time"> 11:21 AM CT, Oct. 25 </p> 
  [Israeli cabinet backs huge spending plan for Arab minority](https://www.bbc.co.uk/news/world-middle-east-59039911?at_medium=RSS&at_campaign=KARANGA) BBC: Billions of dollars are earmarked for Israel's Arab minority, which has long complained of neglect. 
  <p class="updated_time"> 11:20 AM CT, Oct. 25 </p> 
@@ -80,8 +82,6 @@ permalink: /charts/news/
  [Amnesty International Exits Hong Kong, Citing National Security Law](https://www.wsj.com/articles/amnesty-international-exits-hong-kong-citing-national-security-law-11635154415) WSJ: The organization plans to pull out of the city by the end of the year, marking one of the most prominent departures of a rights group since China’s imposition of the law. 
  <p class="updated_time"> 04:57 AM CT, Oct. 25 </p> 
  [As Hong Kong’s Civil Society Buckles, One Group Tries to Hold On](https://www.nytimes.com/2021/10/24/world/asia/hong-kong-civil-society.html) NYT: Unions and other organizations have dissolved after facing pressure under a new security law. The Hong Kong Journalists Association is hoping it can avoid that fate. 
- <p class="updated_time"> 04:30 AM CT, Oct. 25 </p> 
- [Amnesty to close Hong Kong offices over National Security Law](https://www.bbc.co.uk/news/world-asia-59036714?at_medium=RSS&at_campaign=KARANGA) BBC: The human rights organisation says its staff are under threat from the city's national security law. 
  <p class="updated_time"> 04:13 AM CT, Oct. 25 </p> 
  [‘Needle Spiking’ of Women in Britain Stirs Alarm Over New Kind of Assault](https://www.nytimes.com/2021/10/22/world/europe/needle-spiking-uk.html) NYT: Women are reporting being injected with syringes at crowded clubs in a horrifying variation of dropping pills into drinks. “This is a new depth,’’ said a former chief of police. 
  <p class="updated_time"> 04:00 AM CT, Oct. 25 </p> 
