@@ -6,8 +6,14 @@ permalink: /charts/news/
 
 ## World News
 
- <p class="updated_time"> 02:39 AM CT, Oct. 25 </p> 
+ <p class="updated_time"> 03:16 AM CT, Oct. 25 </p> 
+ [With New Conviction, Hong Kong Uses Security Law to Clamp Down on Speech](https://www.nytimes.com/2021/10/25/world/asia/hong-kong-security-law-speech.html) NYT: An activist, Ma Chun-man, was convicted of inciting secession after, he said, he chanted slogans to test the limits of the law. 
+ <p class="updated_time"> 03:14 AM CT, Oct. 25 </p> 
  [Sudan's civilian leaders arrested amid coup reports](https://www.bbc.co.uk/news/world-africa-59033142?at_medium=RSS&at_campaign=KARANGA) BBC: It comes amid rising tensions between the country's military and civilian transitional authorities. 
+ <p class="updated_time"> 03:13 AM CT, Oct. 25 </p> 
+ [Colombian drug lord Otoniel to be extradited to US](https://www.bbc.co.uk/news/world-latin-america-59032300?at_medium=RSS&at_campaign=KARANGA) BBC: US officials had placed a $5m (£3.6m) bounty on the head of Otoniel, Colombia's most wanted drug lord. 
+ <p class="updated_time"> 02:30 AM CT, Oct. 25 </p> 
+ [Afghanistan facing desperate food crisis, UN warns](https://www.bbc.co.uk/news/world-asia-59011501?at_medium=RSS&at_campaign=KARANGA) BBC: The UN World Food Programme says half the population now faces acute food insecurity. 
  <p class="updated_time"> 02:22 AM CT, Oct. 25 </p> 
  [The American envoy to Sudan was there on Saturday as protests gained traction.](https://www.nytimes.com/2021/10/25/world/africa/the-american-envoy-to-sudan-was-there-on-saturday-as-protests-gained-traction.html) NYT: NA 
  <p class="updated_time"> 02:00 AM CT, Oct. 25 </p> 
@@ -16,6 +22,8 @@ permalink: /charts/news/
  [Sudanese Prime Minister Abdalla Hamdok Is Detained in Apparent Coup](https://www.nytimes.com/live/2021/10/25/world/sudan-protests/coup) NYT: Demonstrators filled the streets, burning tires and chanting slogans in the capital, Khartoum, and there was a “significant disruption” to the internet. 
  <p class="updated_time"> 01:30 AM CT, Oct. 25 </p> 
  [As Hong Kong’s Civil Society Buckles, One Group Tries to Hold On](https://www.nytimes.com/2021/10/24/world/asia/hong-kong-civil-society.html) NYT: Unions and other organizations have dissolved after facing pressure under a new security law. The Hong Kong Journalists Association is hoping it can avoid that fate. 
+ <p class="updated_time"> 01:20 AM CT, Oct. 25 </p> 
+ [Climate change quiz: Test your knowledge of how to reduce emissions](https://www.bbc.co.uk/news/science-environment-58996348?at_medium=RSS&at_campaign=KARANGA) BBC: How much do you know about the steps you could take to help curb climate change? 
  <p class="updated_time"> 11:23 PM CT, Oct. 24 </p> 
  [Your Monday Briefing](https://www.nytimes.com/2021/10/24/briefing/somalia-military-covid-vaccines.html) NYT: A failed playbook in Somalia. 
  <p class="updated_time"> 11:03 PM CT, Oct. 24 </p> 
@@ -34,6 +42,8 @@ permalink: /charts/news/
  [The bumpy road to India's electric car dreams](https://www.bbc.co.uk/news/world-asia-india-58977080?at_medium=RSS&at_campaign=KARANGA) BBC: New investments and incentives are making electric vehicles more viable. But is India ready for the change? 
  <p class="updated_time"> 07:02 PM CT, Oct. 24 </p> 
  [Tigray crisis: How the West has fallen out with Ethiopia's PM](https://www.bbc.co.uk/news/world-africa-58967302?at_medium=RSS&at_campaign=KARANGA) BBC: The EU and US threaten punitive action against the government and rebels as conflict escalates. 
+ <p class="updated_time"> 07:01 PM CT, Oct. 24 </p> 
+ [Climate change: How do we know it is happening and caused by humans?](https://www.bbc.co.uk/news/science-environment-58954530?at_medium=RSS&at_campaign=KARANGA) BBC: What's the evidence for global warming and how do we know it's being caused by human activity? 
  <p class="updated_time"> 07:00 PM CT, Oct. 24 </p> 
  [Climate change: The environmental disasters we've almost fixed](https://www.bbc.co.uk/news/science-environment-58874831?at_medium=RSS&at_campaign=KARANGA) BBC: From acid rain to the ozone hole: Can we learn from the environmental "success stories" of the past? 
  <p class="updated_time"> 06:59 PM CT, Oct. 24 </p> 
@@ -60,16 +70,10 @@ permalink: /charts/news/
  [Your Monday Briefing](https://www.nytimes.com/2021/10/24/briefing/your-monday-briefing.html) NYT: Facebook spreads misinformation in India. 
  <p class="updated_time"> 03:00 PM CT, Oct. 24 </p> 
  [Struggles over vaccine mandates, the death of Colin Powell: the week in Covid news.](https://www.nytimes.com/2021/10/24/world/americas/struggles-over-vaccine-mandates-the-death-of-colin-powell-the-week-in-covid-news.html) NYT: NA 
- <p class="updated_time"> 02:02 PM CT, Oct. 24 </p> 
- [Colombian drug lord Otoniel to be extradited to US](https://www.bbc.co.uk/news/world-latin-america-59032300?at_medium=RSS&at_campaign=KARANGA) BBC: US officials had placed a $5m (£3.6m) bounty on the head of Otoniel, Colombia's most wanted drug lord. 
  <p class="updated_time"> 01:51 PM CT, Oct. 24 </p> 
  [Kenyan Olympian's Husband Is Arrested in Her Killing ](https://www.nytimes.com/2021/10/24/world/africa/agnes-jebet-tirop-stabbing-arrest.html) NYT: Agnes Jebet Tirop, 25, a rising running star, was stabbed to death in her home this month. Her husband has been arrested. 
- <p class="updated_time"> 01:13 PM CT, Oct. 24 </p> 
- [Nazanin Zaghari-Ratcliffe: Husband begins new hunger strike in London](https://www.bbc.co.uk/news/uk-59030936?at_medium=RSS&at_campaign=KARANGA) BBC: Aid worker Nazanin Zaghari-Ratcliffe is distraught at the prospect of returning to jail, her husband says. 
  <p class="updated_time"> 01:12 PM CT, Oct. 24 </p> 
  [After Early Success, U.S. and Israel Now Lag on Vaccinations](https://www.nytimes.com/2021/10/24/world/united-states-israel-vaccination-rates.html) NYT: The big barrier to higher rates in both countries is stiff resistance among specific groups. 
- <p class="updated_time"> 01:03 PM CT, Oct. 24 </p> 
- [T20 World Cup: Pakistan hammer India by 10 wickets to claim famous win](https://www.bbc.co.uk/sport/cricket/59030529?at_medium=RSS&at_campaign=KARANGA) BBC: Pakistan hammer India by 10 wickets to claim a famous win over their great rivals at the Men's T20 World Cup in Dubai. 
  <p class="updated_time"> 12:44 PM CT, Oct. 24 </p> 
  [Inside the Decade-Long U.S. Fight Against Al Shabab in Somalia](https://www.nytimes.com/2021/10/24/world/africa/al-shabab-somalia-us-cia.html) NYT: The hunt for an elusive Somali militant illustrates why Al Shabab, despite a decade of American covert action, are at their strongest in years. 
  <p class="updated_time"> 10:43 AM CT, Oct. 24 </p> 
@@ -188,12 +192,6 @@ permalink: /charts/news/
  [Your Friday Briefing](https://www.nytimes.com/2021/10/21/briefing/australia-coal-british-covid-strategy-celtics.html) NYT: Why Australia won’t commit to emissions reductions. 
  <p class="updated_time"> 03:29 PM CT, Oct. 21 </p> 
  [Israel Moves to Allow Entry to Vaccinated Tourists ](https://www.nytimes.com/2021/10/21/world/travel-to-israel-covid.html) NYT: The plan to reopen to international tourists for the first time since the pandemic began comes as infections are steadily declining in Israel after a fourth wave. 
- <p class="updated_time"> 03:10 PM CT, Oct. 21 </p> 
- [Syria Executes 24 People for Setting Wildfires, Calling It ‘Terrorism’](https://www.nytimes.com/2021/10/21/world/middleeast/syria-wildfire-executions.html) NYT: The sentences shocked rights groups, who saw it as a move by President Bashar al-Assad to appear tough after a crisis that hurt his loyalists. 
- <p class="updated_time"> 01:31 AM CT, Oct. 21 </p> 
- [COP26: Document leak reveals nations lobbying to change key climate report](https://www.bbc.co.uk/news/science-environment-58982445?at_medium=RSS&at_campaign=KARANGA) BBC: Countries are asking the UN to play down the need to move rapidly away from fossil fuels. 
- <p class="updated_time"> 07:30 AM CT, Oct. 18 </p> 
- [COP26: Does a climate summit need 25,000 people? And more questions](https://www.bbc.co.uk/news/science-environment-58925049?at_medium=RSS&at_campaign=KARANGA) BBC: BBC science correspondent Matt McGrath answers your questions about Glasgow's COP26 climate summit. 
 
 
 
