@@ -6,12 +6,14 @@ permalink: /charts/news/
 
 ## World News
 
- <p class="updated_time"> 12:36 PM CT, Oct. 25 </p> 
+ <p class="updated_time"> 01:23 PM CT, Oct. 25 </p> 
+ [Turkish President Steps Back From Expulsions of 10 Western Diplomats](https://www.nytimes.com/2021/10/25/world/europe/erdogan-turkey-ambassador.html) NYT: The threatened expulsions had risked severe economic consequences and a rupture in the North Atlantic Treaty Organization. 
+ <p class="updated_time"> 01:21 PM CT, Oct. 25 </p> 
  [Sudan's Prime Minister Abdalla Hamdok Is Detained in Apparent Coup](https://www.nytimes.com/live/2021/10/25/world/sudan-coup/coup) NYT: Demonstrators filled the streets of the capital, Khartoum, soldiers reportedly fired on some of them, gunfire echoed through the city and internet access was sharply curtailed. 
+ <p class="updated_time"> 12:52 PM CT, Oct. 25 </p> 
+ [Collector returns Mayan artefact to Guatemala](https://www.bbc.co.uk/news/world-latin-america-59032480?at_medium=RSS&at_campaign=KARANGA) BBC: Plans to auction the fragment, which depicts the head of an ancient ruler, sparked a row in 2019. 
  <p class="updated_time"> 12:26 PM CT, Oct. 25 </p> 
  [With New Conviction, Hong Kong Uses Security Law to Clamp Down on Speech](https://www.nytimes.com/2021/10/25/world/asia/hong-kong-security-law-speech.html) NYT: An activist, Ma Chun-man, was convicted of inciting secession after, he said, he chanted slogans to test the limits of the law. 
- <p class="updated_time"> 12:26 PM CT, Oct. 25 </p> 
- [Turkish President Steps Back From Expulsions of 10 Western Diplomats](https://www.nytimes.com/2021/10/25/world/europe/erdogan-turkey-ambassador.html) NYT: The threatened expulsions had risked severe economic consequences and a rupture in the North Atlantic Treaty Organization. 
  <p class="updated_time"> 12:01 PM CT, Oct. 25 </p> 
  [Turkey dispute with US eases after threat to expel envoys](https://www.bbc.co.uk/news/world-europe-59042931?at_medium=RSS&at_campaign=KARANGA) BBC: Ten Western ambassadors had angered the Turkish president by urging a jailed activist's release. 
  <p class="updated_time"> 11:42 AM CT, Oct. 25 </p> 
@@ -36,6 +38,8 @@ permalink: /charts/news/
  [Tensions Between Sudan's Military and Civilian Leaders Had Been Growing](https://www.nytimes.com/2021/10/25/world/africa/sudan-military-coup-civilian.html) NYT: Civilians were set to rule the country for the first time in more than three decades. But the military was concerned about losing power. 
  <p class="updated_time"> 09:23 AM CT, Oct. 25 </p> 
  [Singer Ed Sheeran Tests Positive for Coronavirus](https://www.nytimes.com/2021/10/24/arts/music/ed-sheeran-covid-positive.html) NYT: Mr. Sheeran said he would cancel upcoming public appearances while he is “self-isolating and following government guidelines.” 
+ <p class="updated_time"> 09:19 AM CT, Oct. 25 </p> 
+ [Rich Nations Lag Behind in Meeting $100 Billion Climate-Funding Pledge](https://www.wsj.com/articles/rich-nations-lag-behind-in-meeting-100-billion-climate-funding-pledge-in-blow-to-cop26-11635184234) WSJ: Wealthy governments won’t fulfill a pledge to provide $100 billion a year to help developing countries fight climate change until at least 2023, according to a new report from climate negotiators, a setback that comes just days before the U.N. COP26 summit. 
  <p class="updated_time"> 09:12 AM CT, Oct. 25 </p> 
  [German IS woman jailed for Yazidi girl's death in Iraq](https://www.bbc.co.uk/news/world-europe-59036964?at_medium=RSS&at_campaign=KARANGA) BBC: A Munich court jails a jihadi bride for 10 years for the agonising death of a Yazidi girl in 2015. 
  <p class="updated_time"> 09:05 AM CT, Oct. 25 </p> 
@@ -56,8 +60,6 @@ permalink: /charts/news/
  [Sudan Coup Draws Thousands to the Streets in Protest](https://www.wsj.com/articles/sudanese-prime-minister-detained-in-apparent-military-coup-11635150306) WSJ: Pro-democracy protesters streamed into the streets of the capital to reject a military coup of the transitional government that has ruled the country since the ouster of longtime dictator Omar al-Bashir. 
  <p class="updated_time"> 06:50 AM CT, Oct. 25 </p> 
  [In India, Facebook Struggles to Combat Misinformation and Hate Speech ](https://www.nytimes.com/2021/10/23/technology/facebook-india-misinformation.html) NYT: Internal documents show a struggle with misinformation, hate speech and celebrations of violence in the country, the company’s biggest market. 
- <p class="updated_time"> 06:45 AM CT, Oct. 25 </p> 
- [State Department to Form New Cyber Office to Face Proliferating Global Challenges](https://www.wsj.com/articles/state-department-to-form-new-cyber-office-to-face-proliferating-global-challenges-11635176700) WSJ: The organizational changes are intended to confront cybersecurity challenges like ransomware and waning global digital freedom, the latest overhauls by the administration aimed at prioritizing cyber threats as a top-tier national security issue. 
  <p class="updated_time"> 06:09 AM CT, Oct. 25 </p> 
  [Afghan baby girl sold for $500 by starving family](https://www.bbc.co.uk/news/world-asia-59034650?at_medium=RSS&at_campaign=KARANGA) BBC: The BBC’s Yogita Limaye witnesses first-hand the extreme poverty engulfing millions in Afghanistan. 
  <p class="updated_time"> 06:05 AM CT, Oct. 25 </p> 
@@ -74,18 +76,12 @@ permalink: /charts/news/
  [‘Needle Spiking’ of Women in Britain Stirs Alarm Over New Kind of Assault](https://www.nytimes.com/2021/10/22/world/europe/needle-spiking-uk.html) NYT: Women are reporting being injected with syringes at crowded clubs in a horrifying variation of dropping pills into drinks. “This is a new depth,’’ said a former chief of police. 
  <p class="updated_time"> 04:00 AM CT, Oct. 25 </p> 
  [Inside the Thai Temple Where Tattoos Come to Life](https://www.nytimes.com/2021/10/25/travel/sak-yant-tattoo-thailand.html) NYT: Wat Bang Phra, a temple in central Thailand, is renowned as a center for sak yant, a style of tattoo art believed by some to convey protective powers. 
- <p class="updated_time"> 03:13 AM CT, Oct. 25 </p> 
- [Colombian drug lord Otoniel to be extradited to US](https://www.bbc.co.uk/news/world-latin-america-59032300?at_medium=RSS&at_campaign=KARANGA) BBC: US officials had placed a $5m (£3.6m) bounty on the head of Otoniel, Colombia's most wanted drug lord. 
- <p class="updated_time"> 02:53 AM CT, Oct. 25 </p> 
- [Australia Considers New Privacy Rules to Protect Children on Social Media](https://www.wsj.com/articles/australia-considers-new-privacy-rules-to-protect-children-on-social-media-11635162809) WSJ: Australia’s government on Monday released draft legislation that would enable the creation of a binding online-privacy code for tech companies like Facebook. 
  <p class="updated_time"> 01:20 AM CT, Oct. 25 </p> 
  [Climate change quiz: Test your knowledge of how to reduce emissions](https://www.bbc.co.uk/news/science-environment-58996348?at_medium=RSS&at_campaign=KARANGA) BBC: How much do you know about the steps you could take to help curb climate change? 
  <p class="updated_time"> 11:23 PM CT, Oct. 24 </p> 
  [Your Monday Briefing](https://www.nytimes.com/2021/10/24/briefing/somalia-military-covid-vaccines.html) NYT: A failed playbook in Somalia. 
  <p class="updated_time"> 10:00 PM CT, Oct. 24 </p> 
  [SolarWinds Hackers Step Up Attacks on Tech Companies](https://www.wsj.com/articles/microsoft-solarwinds-hackers-continue-to-hit-technology-companies-11635145200) WSJ: The Russia-linked hackers behind last year’s compromise of a wide swath of the U.S. government and scores of private companies have redoubled their efforts in recent months, Microsoft cybersecurity experts said. 
- <p class="updated_time"> 09:25 PM CT, Oct. 24 </p> 
- [Australia Backs $1.6 Billion Buy of Pacific Mobile Networks](https://www.wsj.com/articles/australia-backs-1-6-billion-buy-of-pacific-mobile-networks-11635143143) WSJ: The Australian government is financing the purchase of mobile networks in six Pacific countries, a move that foreign-policy experts say is designed to block a military rival from buying the strategically important assets. 
  <p class="updated_time"> 07:18 PM CT, Oct. 24 </p> 
  [Please Don’t Feed the Whale Sharks? Fishing Town Says It Must, to Prosper.](https://www.nytimes.com/2021/10/24/world/asia/philippines-whale-shark-tourism.html) NYT: The chance to swim with the world’s biggest fish drew tourists to a Philippines town, but conservation groups denounce the hand-feeding that keeps the gentle creatures around. 
  <p class="updated_time"> 07:02 PM CT, Oct. 24 </p> 
@@ -124,8 +120,6 @@ permalink: /charts/news/
  [Inside the Decade-Long U.S. Fight Against Al Shabab in Somalia](https://www.nytimes.com/2021/10/24/world/africa/al-shabab-somalia-us-cia.html) NYT: The hunt for an elusive Somali militant illustrates why Al Shabab, despite a decade of American covert action, are at their strongest in years. 
  <p class="updated_time"> 10:29 AM CT, Oct. 24 </p> 
  [At the World Expo Pavilions, Future Visions Combine Past and Present](https://www.nytimes.com/2021/10/24/world/world-expo-pavilions.html) NYT: Conversations with three figures integral to the conception of the expo. 
- <p class="updated_time"> 07:10 AM CT, Oct. 24 </p> 
- [Turkey's Erdogan Threatens to Expel 10 Western Ambassadors, Including U.S. Envoy](https://www.wsj.com/articles/turkeys-erdogan-threatens-to-expel-10-western-ambassadors-including-u-s-envoy-11635088244) WSJ: The diplomats had recently called for the release of a Turkish philanthropist who has been jailed since 2017. If carried through, their expulsion would mark a sharp deterioration in relations between Turkey and the West. 
  <p class="updated_time"> 04:00 AM CT, Oct. 24 </p> 
  [How Public Criticism Has Affected Japan's Royal Women](https://www.nytimes.com/2021/10/24/world/asia/japan-princess-mako-mental-health.html) NYT: A princess who will soon marry represents the third generation to suffer intense emotional distress in a country that often consigns women to rigid roles. 
  <p class="updated_time"> 04:00 AM CT, Oct. 24 </p> 
