@@ -82,8 +82,6 @@ permalink: /charts/news/
  [French Nationalist TV Host Éric Zemmour, Inspired by Trump, Surges in Polls](https://www.wsj.com/articles/french-nationalist-tv-host-eric-zemmour-inspired-by-trump-surges-in-polls-11635088315) WSJ: Far-right pundit explores a presidential run in France, assembling a new electoral coalition that is siphoning off support from longtime standard-bearer Marine Le Pen and shaking up French politics. 
  <p class="updated_time"> 05:00 AM CT, Oct. 24 </p> 
  [Covid-19 Sets Back China's Plans to Rebalance Its Economy](https://www.wsj.com/articles/covid-19-sets-back-chinas-plans-to-rebalance-its-economy-11635084000) WSJ: The pandemic-era boom in demand for Chinese goods boosted exports but made the country even more reliant on trade, leaving its economy vulnerable. 
- <p class="updated_time"> 04:30 AM CT, Oct. 24 </p> 
- [The Gravedigger's Wife: Somali love story wins Africa's top film prize at Fespaco](https://www.bbc.co.uk/news/world-africa-59027682?at_medium=RSS&at_campaign=KARANGA) BBC: Somali film The Gravedigger's Wife focuses on the lengths people go to save a loved one. 
  <p class="updated_time"> 04:00 AM CT, Oct. 24 </p> 
  [How Public Criticism Has Affected Japan's Royal Women](https://www.nytimes.com/2021/10/24/world/asia/japan-princess-mako-mental-health.html) NYT: A princess who will soon marry represents the third generation to suffer intense emotional distress in a country that often consigns women to rigid roles. 
  <p class="updated_time"> 04:00 AM CT, Oct. 24 </p> 
