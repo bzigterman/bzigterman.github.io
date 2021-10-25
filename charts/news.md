@@ -6,6 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 10:23 AM CT, Oct. 25 </p> 
+ [Sudan coup: Military dissolves civilian government and arrests leaders](https://www.bbc.co.uk/news/world-africa-59033142?at_medium=RSS&at_campaign=KARANGA) BBC: Protesters in Khartoum denounce the coup, as soldiers cut off main roads and restrict the internet. 
  <p class="updated_time"> 10:16 AM CT, Oct. 25 </p> 
  [Sudan's Prime Minister Abdalla Hamdok Is Detained in Apparent Coup](https://www.nytimes.com/live/2021/10/25/world/sudan-coup/coup) NYT: Demonstrators filled the streets of the capital, Khartoum, burning tires and chanting slogans, while internet access was sharply curtailed. 
  <p class="updated_time"> 09:48 AM CT, Oct. 25 </p> 
@@ -16,8 +18,6 @@ permalink: /charts/news/
  [Tensions Between Sudan's Military and Civilian Leaders Had Been Growing](https://www.nytimes.com/2021/10/25/world/africa/sudan-military-coup-civilian.html) NYT: Civilians were set to rule the country for the first time in more than three decades. But the military was concerned about losing power. 
  <p class="updated_time"> 09:23 AM CT, Oct. 25 </p> 
  [Singer Ed Sheeran Tests Positive for Coronavirus](https://www.nytimes.com/2021/10/24/arts/music/ed-sheeran-covid-positive.html) NYT: Mr. Sheeran said he would cancel upcoming public appearances while he is “self-isolating and following government guidelines.” 
- <p class="updated_time"> 09:21 AM CT, Oct. 25 </p> 
- [Sudan coup: Military dissolves civilian government and arrests leaders](https://www.bbc.co.uk/news/world-africa-59033142?at_medium=RSS&at_campaign=KARANGA) BBC: Protesters in Khartoum denounce the coup, as soldiers cut off main roads and restrict the internet. 
  <p class="updated_time"> 09:12 AM CT, Oct. 25 </p> 
  [German IS woman jailed for Yazidi girl's death in Iraq](https://www.bbc.co.uk/news/world-europe-59036964?at_medium=RSS&at_campaign=KARANGA) BBC: A Munich court jails a jihadi bride for 10 years for the agonising death of a Yazidi girl in 2015. 
  <p class="updated_time"> 09:05 AM CT, Oct. 25 </p> 
