@@ -58,8 +58,6 @@ permalink: /charts/news/
  [Colombian drug lord Otoniel to be extradited to US](https://www.bbc.co.uk/news/world-latin-america-59032300?at_medium=RSS&at_campaign=KARANGA) BBC: US officials had placed a $5m (£3.6m) bounty on the head of Otoniel, Colombia's most wanted drug lord. 
  <p class="updated_time"> 02:53 AM CT, Oct. 25 </p> 
  [Australia Considers New Privacy Rules to Protect Children on Social Media](https://www.wsj.com/articles/australia-considers-new-privacy-rules-to-protect-children-on-social-media-11635162809) WSJ: Australia’s government on Monday released draft legislation that would enable the creation of a binding online-privacy code for tech companies like Facebook. 
- <p class="updated_time"> 02:30 AM CT, Oct. 25 </p> 
- [Afghanistan facing desperate food crisis, UN warns](https://www.bbc.co.uk/news/world-asia-59011501?at_medium=RSS&at_campaign=KARANGA) BBC: The UN World Food Programme says half the population now faces acute food insecurity. 
  <p class="updated_time"> 01:20 AM CT, Oct. 25 </p> 
  [Climate change quiz: Test your knowledge of how to reduce emissions](https://www.bbc.co.uk/news/science-environment-58996348?at_medium=RSS&at_campaign=KARANGA) BBC: How much do you know about the steps you could take to help curb climate change? 
  <p class="updated_time"> 11:23 PM CT, Oct. 24 </p> 
@@ -68,6 +66,8 @@ permalink: /charts/news/
  [China postpones Beijing marathon due to Covid surge](https://www.bbc.co.uk/news/world-asia-china-59033165?at_medium=RSS&at_campaign=KARANGA) BBC: Around 30,000 people were expected to take part in the marathon on October 31. 
  <p class="updated_time"> 10:00 PM CT, Oct. 24 </p> 
  [SolarWinds Hackers Step Up Attacks on Tech Companies](https://www.wsj.com/articles/microsoft-solarwinds-hackers-continue-to-hit-technology-companies-11635145200) WSJ: The Russia-linked hackers behind last year’s compromise of a wide swath of the U.S. government and scores of private companies have redoubled their efforts in recent months, Microsoft cybersecurity experts said. 
+ <p class="updated_time"> 09:25 PM CT, Oct. 24 </p> 
+ [Australia Backs $1.6 Billion Buy of Pacific Mobile Networks](https://www.wsj.com/articles/australia-backs-1-6-billion-buy-of-pacific-mobile-networks-11635143143) WSJ: The Australian government is financing the purchase of mobile networks in six Pacific countries, a move that foreign-policy experts say is designed to block a military rival from buying the strategically important assets. 
  <p class="updated_time"> 07:53 PM CT, Oct. 24 </p> 
  [Michael Jordan's trainers sell for record $1.47m at auction](https://www.bbc.co.uk/news/world-us-canada-59032756?at_medium=RSS&at_campaign=KARANGA) BBC: The US basketball legend wore the pair of red and white trainers during his first NBA season in 1984. 
  <p class="updated_time"> 07:18 PM CT, Oct. 24 </p> 
@@ -110,8 +110,6 @@ permalink: /charts/news/
  [Inside the Decade-Long U.S. Fight Against Al Shabab in Somalia](https://www.nytimes.com/2021/10/24/world/africa/al-shabab-somalia-us-cia.html) NYT: The hunt for an elusive Somali militant illustrates why Al Shabab, despite a decade of American covert action, are at their strongest in years. 
  <p class="updated_time"> 10:29 AM CT, Oct. 24 </p> 
  [At the World Expo Pavilions, Future Visions Combine Past and Present](https://www.nytimes.com/2021/10/24/world/world-expo-pavilions.html) NYT: Conversations with three figures integral to the conception of the expo. 
- <p class="updated_time"> 09:01 AM CT, Oct. 24 </p> 
- [Colombia Captures Drug-Trafficking Kingpin Wanted by U.S.](https://www.wsj.com/articles/colombian-drug-trafficking-kingpin-otoniel-captured-was-wanted-by-u-s-11635091770) WSJ: The country said it has arrested the leader of a rural militia of more than 1,000 fighters who American prosecutors say oversaw a lucrative cocaine-smuggling network to the U.S. 
  <p class="updated_time"> 08:59 AM CT, Oct. 24 </p> 
  [Biden Delays Release of Some J.F.K. Records, Citing Pandemic](https://www.nytimes.com/2021/10/23/world/americas/jfk-assassination-pandemic.html) NYT: The National Archives require additional time to work on redactions, a White House statement on Friday said. 
  <p class="updated_time"> 07:10 AM CT, Oct. 24 </p> 
@@ -144,6 +142,8 @@ permalink: /charts/news/
  [Israel Accuses 6 Palestinian Rights Groups of Terrorism](https://www.nytimes.com/2021/10/22/world/middleeast/israel-palestinian-rights-groups.html) NYT: The Defense Ministry said the groups work for leftist militants. Critics said the charge was aimed at quelling scrutiny of Israeli rights abuses. 
  <p class="updated_time"> 07:36 PM CT, Oct. 22 </p> 
  [Illegal Border Crossings Soar to Record High, New Data Shows](https://www.nytimes.com/2021/10/22/us/politics/border-crossings-immigration-record-high.html) NYT: Migrants were encountered 1.7 million times in the last 12 months, the highest number of illegal crossings recorded since at least 1960. 
+ <p class="updated_time"> 05:55 PM CT, Oct. 22 </p> 
+ [Kerala floods: Our son was buried by mud - we couldn't save him](https://www.bbc.co.uk/news/world-asia-india-59017142?at_medium=RSS&at_campaign=KARANGA) BBC: The walls of three-year-old Sachu's house collapsed when it was hit by heavy rain and flooding in Kerala. 
  <p class="updated_time"> 04:59 PM CT, Oct. 22 </p> 
  [Alberta Investigation of Environmental Groups Falls Flat](https://www.nytimes.com/2021/10/22/world/canada/alberta-energy-inquiry.html) NYT: The report from a provincial inquiry into “anti-Alberta energy campaigns” didn’t back up Premier Jason Kenney’s allegations. 
  <p class="updated_time"> 03:18 PM CT, Oct. 22 </p> 
