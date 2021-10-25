@@ -6,6 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 10:31 PM CT, Oct. 24 </p> 
+ [China postpones Beijing marathon due to Covid surge](https://www.bbc.co.uk/news/world-asia-china-59033165?at_medium=RSS&at_campaign=KARANGA) BBC: Around 30,000 people were expected to take part in the marathon on October 31. 
  <p class="updated_time"> 10:24 PM CT, Oct. 24 </p> 
  [In India, Facebook Struggles to Combat Misinformation and Hate Speech ](https://www.nytimes.com/2021/10/23/technology/facebook-india-misinformation.html) NYT: Internal documents show a struggle with misinformation, hate speech and celebrations of violence in the country, the company’s biggest market. 
  <p class="updated_time"> 09:46 PM CT, Oct. 24 </p> 
@@ -52,8 +54,6 @@ permalink: /charts/news/
  [Facebook whistleblower meets safe content campaigner](https://www.bbc.co.uk/news/uk-59032290?at_medium=RSS&at_campaign=KARANGA) BBC: Molly, 14, died after viewing graphic content on Instagram, which is owned by Facebook. 
  <p class="updated_time"> 03:00 PM CT, Oct. 24 </p> 
  [Struggles over vaccine mandates, the death of Colin Powell: the week in Covid news.](https://www.nytimes.com/2021/10/24/world/americas/struggles-over-vaccine-mandates-the-death-of-colin-powell-the-week-in-covid-news.html) NYT: NA 
- <p class="updated_time"> 02:09 PM CT, Oct. 24 </p> 
- [Canada: Evacuations as ship spews toxic gas off coast](https://www.bbc.co.uk/news/world-us-canada-59024496?at_medium=RSS&at_campaign=KARANGA) BBC: The Zim Kingston ship is burning but officials said there is no safety risk to people on land. 
  <p class="updated_time"> 02:02 PM CT, Oct. 24 </p> 
  [Colombian drug lord Otoniel to be extradited to US](https://www.bbc.co.uk/news/world-latin-america-59032300?at_medium=RSS&at_campaign=KARANGA) BBC: US officials had placed a $5m (£3.6m) bounty on the head of Otoniel, Colombia's most wanted drug lord. 
  <p class="updated_time"> 01:51 PM CT, Oct. 24 </p> 
