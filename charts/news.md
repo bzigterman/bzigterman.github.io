@@ -6,14 +6,16 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 11:24 PM CT, Oct. 24 </p> 
+ [Sudan Rocked by Protests Amid Warnings of a Coup](https://www.nytimes.com/2021/10/25/world/africa/sudan-protests.html) NYT: Demonstrators burned tires and chanted slogans in the capital, Khartoum, and there was a “significant disruption” to the internet. 
+ <p class="updated_time"> 11:23 PM CT, Oct. 24 </p> 
+ [Your Monday Briefing](https://www.nytimes.com/2021/10/24/briefing/somalia-military-covid-vaccines.html) NYT: A failed playbook in Somalia. 
  <p class="updated_time"> 11:03 PM CT, Oct. 24 </p> 
  [James Michael Tyler: Friends actor dies aged 59](https://www.bbc.co.uk/news/entertainment-arts-59032751?at_medium=RSS&at_campaign=KARANGA) BBC: The actor, who played Gunther on the hit show, had been diagnosed with stage four prostate cancer. 
  <p class="updated_time"> 10:31 PM CT, Oct. 24 </p> 
  [China postpones Beijing marathon due to Covid surge](https://www.bbc.co.uk/news/world-asia-china-59033165?at_medium=RSS&at_campaign=KARANGA) BBC: Around 30,000 people were expected to take part in the marathon on October 31. 
  <p class="updated_time"> 10:24 PM CT, Oct. 24 </p> 
  [In India, Facebook Struggles to Combat Misinformation and Hate Speech ](https://www.nytimes.com/2021/10/23/technology/facebook-india-misinformation.html) NYT: Internal documents show a struggle with misinformation, hate speech and celebrations of violence in the country, the company’s biggest market. 
- <p class="updated_time"> 09:46 PM CT, Oct. 24 </p> 
- [Your Monday Briefing](https://www.nytimes.com/2021/10/24/briefing/somalia-military-covid-vaccines.html) NYT: A failed playbook in Somalia. 
  <p class="updated_time"> 08:38 PM CT, Oct. 24 </p> 
  [Uganda: One killed in bomb attack at Kampala bar](https://www.bbc.co.uk/news/world-africa-59028210?at_medium=RSS&at_campaign=KARANGA) BBC: Islamic State says it was behind the bombing - a week after the UK warned about a possible attack. 
  <p class="updated_time"> 07:53 PM CT, Oct. 24 </p> 
@@ -148,8 +150,6 @@ permalink: /charts/news/
  [Melbourne, 262 Days in Lockdown, Celebrates a Reopening](https://www.nytimes.com/2021/10/22/world/australia/melbourne-covid-lockdown-reopening.html) NYT: After hitting a vaccination target, Australia’s second largest city now has many fewer restrictions. 
  <p class="updated_time"> 09:58 AM CT, Oct. 22 </p> 
  [Climate change: Why Australia refuses to give up coal](https://www.bbc.co.uk/news/world-australia-57925798?at_medium=RSS&at_campaign=KARANGA) BBC: Australia is the only rich nation still wedded to coal, despite urgent calls to stop its use. 
- <p class="updated_time"> 07:49 AM CT, Oct. 22 </p> 
- [N.I.H. Says Bat Research Group Failed to Submit Prompt Virus Findings](https://www.nytimes.com/2021/10/21/science/bats-covid-lab-leak-nih.html) NYT: The federal agency told a G.O.P. House member that it had notified EcoHealth Alliance, a group criticized for its U.S.-funded work with Wuhan scientists, to file data within five days. 
  <p class="updated_time"> 07:43 AM CT, Oct. 22 </p> 
  [Contrails: How tweaking flight plans can help the climate](https://www.bbc.co.uk/news/business-58769351?at_medium=RSS&at_campaign=KARANGA) BBC: Why experts say cutting contrails costs less than $1bn a year but may be worth so much more. 
  <p class="updated_time"> 07:15 AM CT, Oct. 22 </p> 
