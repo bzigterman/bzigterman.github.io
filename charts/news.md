@@ -6,6 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 09:46 PM CT, Oct. 24 </p> 
+ [Your Monday Briefing](https://www.nytimes.com/2021/10/24/briefing/somalia-military-covid-vaccines.html) NYT: A failed playbook in Somalia. 
  <p class="updated_time"> 09:02 PM CT, Oct. 24 </p> 
  [James Michael Tyler: Friends actor dies aged 59](https://www.bbc.co.uk/news/entertainment-arts-59032751?at_medium=RSS&at_campaign=KARANGA) BBC: The actor, who played Gunther on the hit show, had been diagnosed with stage four prostate cancer. 
  <p class="updated_time"> 08:38 PM CT, Oct. 24 </p> 
@@ -186,8 +188,6 @@ permalink: /charts/news/
  [Israel Moves to Allow Entry to Vaccinated Tourists ](https://www.nytimes.com/2021/10/21/world/travel-to-israel-covid.html) NYT: The plan to reopen to international tourists for the first time since the pandemic began comes as infections are steadily declining in Israel after a fourth wave. 
  <p class="updated_time"> 03:10 PM CT, Oct. 21 </p> 
  [Syria Executes 24 People for Setting Wildfires, Calling It ‘Terrorism’](https://www.nytimes.com/2021/10/21/world/middleeast/syria-wildfire-executions.html) NYT: The sentences shocked rights groups, who saw it as a move by President Bashar al-Assad to appear tough after a crisis that hurt his loyalists. 
- <p class="updated_time"> 02:16 PM CT, Oct. 21 </p> 
- [With Covid Cases Rising, Moscow's Mayor Announces Lockdown ](https://www.nytimes.com/2021/10/21/world/moscow-lockdown.html) NYT: Like many countries, Russia has seesawed between tighter and looser pandemic restrictions. As the coronavirus claims more victims, the pendulum is now swinging toward tightening. 
  <p class="updated_time"> 01:31 AM CT, Oct. 21 </p> 
  [COP26: Document leak reveals nations lobbying to change key climate report](https://www.bbc.co.uk/news/science-environment-58982445?at_medium=RSS&at_campaign=KARANGA) BBC: Countries are asking the UN to play down the need to move rapidly away from fossil fuels. 
  <p class="updated_time"> 07:30 AM CT, Oct. 18 </p> 
