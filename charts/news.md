@@ -6,6 +6,14 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 09:48 AM CT, Oct. 25 </p> 
+ [How 4 Weeks of U.S. Paid Leave Would Compare With the Rest of the World](https://www.nytimes.com/2021/10/25/upshot/paid-leave-democrats.html) NYT: The U.S. is one of six countries with no national paid leave. The Democrats have cut their plan to four weeks, which would still make it an outlier. 
+ <p class="updated_time"> 09:45 AM CT, Oct. 25 </p> 
+ [Haiti fuel shortages threaten patients' lives - Unicef](https://www.bbc.co.uk/news/world-latin-america-59035552?at_medium=RSS&at_campaign=KARANGA) BBC: Hospitals say that without fuel they cannot operate crucial generators and hundreds could die. 
+ <p class="updated_time"> 09:43 AM CT, Oct. 25 </p> 
+ [Sudan's Prime Minister Abdalla Hamdok Is Detained in Apparent Coup](https://www.nytimes.com/live/2021/10/25/world/sudan-coup/coup) NYT: Demonstrators filled the streets of the capital, Khartoum, burning tires and chanting slogans, while internet access was sharply curtailed. 
+ <p class="updated_time"> 09:42 AM CT, Oct. 25 </p> 
+ [Tensions Between Sudan's Military and Civilian Leaders Had Been Growing](https://www.nytimes.com/2021/10/25/world/africa/sudan-military-coup-civilian.html) NYT: Civilians were set to rule the country for the first time in more than three decades. But the military was concerned about losing power. 
  <p class="updated_time"> 09:23 AM CT, Oct. 25 </p> 
  [Singer Ed Sheeran Tests Positive for Coronavirus](https://www.nytimes.com/2021/10/24/arts/music/ed-sheeran-covid-positive.html) NYT: Mr. Sheeran said he would cancel upcoming public appearances while he is “self-isolating and following government guidelines.” 
  <p class="updated_time"> 09:21 AM CT, Oct. 25 </p> 
@@ -18,14 +26,10 @@ permalink: /charts/news/
  [Amanda Knox Was Exonerated. That Doesn’t Mean She’s Free.](https://www.nytimes.com/2021/10/22/style/amanda-knox-ten-years-later.html) NYT: Ten years after being cleared of a heinous crime, she is still trying to tell her story on her own terms. 
  <p class="updated_time"> 08:43 AM CT, Oct. 25 </p> 
  [Saudi crown prince suggested killing King Abdullah, ex-official says](https://www.bbc.co.uk/news/world-middle-east-59032931?at_medium=RSS&at_campaign=KARANGA) BBC: Mohammed bin Salman discussed assassinating the late King Abdullah in 2014, Saad al-Jabri says. 
- <p class="updated_time"> 08:43 AM CT, Oct. 25 </p> 
- [Sudanese Prime Minister Abdalla Hamdok Is Detained in Apparent Coup](https://www.nytimes.com/live/2021/10/25/world/sudan-coup/coup) NYT: Demonstrators filled the streets of the capital, Khartoum, burning tires and chanting slogans, while internet access was sharply curtailed. 
  <p class="updated_time"> 08:38 AM CT, Oct. 25 </p> 
  [Ignoring Sanctions, Russia Renews Broad Cybersurveillance Operation](https://www.nytimes.com/2021/10/25/us/politics/russia-cybersurveillance-biden.html) NYT: The new campaign came only months after President Biden imposed sanctions on Moscow in response to a series of spy operations it had conducted around the world. 
  <p class="updated_time"> 08:35 AM CT, Oct. 25 </p> 
  [Eitan Biran: Crash survivor must be returned to Italy, court rules](https://www.bbc.co.uk/news/world-middle-east-59040375?at_medium=RSS&at_campaign=KARANGA) BBC: The six-year-old survivor of a cable car crash must be returned to his aunt in Italy, a court rules. 
- <p class="updated_time"> 08:18 AM CT, Oct. 25 </p> 
- [Tensions Between Sudan's Military and Civilian Leaders Had Been Growing](https://www.nytimes.com/2021/10/25/world/africa/sudan-military-coup-civilian.html) NYT: Civilians were set to rule the country for the first time in more than three decades. But the military was concerned about losing power. 
  <p class="updated_time"> 08:15 AM CT, Oct. 25 </p> 
  [Traveling Through a Divided Israel](https://www.nytimes.com/2021/10/25/world/middleeast/israel-jews-palestinians-journey.html) NYT: Two Times journalists drive the length of Israel to discover what it means to be Israeli today. They meet a kaleidoscope of people, searching for belonging but far apart on how to find it. 
  <p class="updated_time"> 06:50 AM CT, Oct. 25 </p> 
@@ -36,16 +40,14 @@ permalink: /charts/news/
  [Afghan baby girl sold for $500 by starving family](https://www.bbc.co.uk/news/world-asia-59034650?at_medium=RSS&at_campaign=KARANGA) BBC: The BBC’s Yogita Limaye witnesses first-hand the extreme poverty engulfing millions in Afghanistan. 
  <p class="updated_time"> 05:44 AM CT, Oct. 25 </p> 
  [Picking Their Fights](https://www.nytimes.com/2021/10/25/briefing/biden-congress-democrats-spending-bill.html) NYT: Creating temporary government programs could have big political benefits for Democrats. 
+ <p class="updated_time"> 05:42 AM CT, Oct. 25 </p> 
+ [Amnesty International Exits Hong Kong, Citing National Security Law](https://www.wsj.com/articles/amnesty-international-exits-hong-kong-citing-national-security-law-11635154415) WSJ: The organization plans to pull out of the city by the end of the year, marking one of the most prominent departures of a rights group since China’s imposition of the law. 
  <p class="updated_time"> 04:57 AM CT, Oct. 25 </p> 
  [As Hong Kong’s Civil Society Buckles, One Group Tries to Hold On](https://www.nytimes.com/2021/10/24/world/asia/hong-kong-civil-society.html) NYT: Unions and other organizations have dissolved after facing pressure under a new security law. The Hong Kong Journalists Association is hoping it can avoid that fate. 
- <p class="updated_time"> 04:45 AM CT, Oct. 25 </p> 
- [James Michael Tyler: Friends stars show 'gratitude' for Gunther actor](https://www.bbc.co.uk/news/entertainment-arts-59032751?at_medium=RSS&at_campaign=KARANGA) BBC: Jennifer Aniston says the show "would not have been the same" without the late James Michael Tyler. 
  <p class="updated_time"> 04:30 AM CT, Oct. 25 </p> 
  [Amnesty to close Hong Kong offices over National Security Law](https://www.bbc.co.uk/news/world-asia-59036714?at_medium=RSS&at_campaign=KARANGA) BBC: The human rights organisation says its staff are under threat from the city's national security law. 
  <p class="updated_time"> 04:13 AM CT, Oct. 25 </p> 
  [‘Needle Spiking’ of Women in Britain Stirs Alarm Over New Kind of Assault](https://www.nytimes.com/2021/10/22/world/europe/needle-spiking-uk.html) NYT: Women are reporting being injected with syringes at crowded clubs in a horrifying variation of dropping pills into drinks. “This is a new depth,’’ said a former chief of police. 
- <p class="updated_time"> 04:00 AM CT, Oct. 25 </p> 
- [How 4 Weeks of U.S. Paid Leave Would Compare With the Rest of the World](https://www.nytimes.com/2021/10/25/upshot/paid-leave-democrats.html) NYT: The U.S. is one of six countries with no national paid leave. The Democrats have cut their plan to four weeks, which would still make it an outlier. 
  <p class="updated_time"> 04:00 AM CT, Oct. 25 </p> 
  [Inside the Thai Temple Where Tattoos Come to Life](https://www.nytimes.com/2021/10/25/travel/sak-yant-tattoo-thailand.html) NYT: Wat Bang Phra, a temple in central Thailand, is renowned as a center for sak yant, a style of tattoo art believed by some to convey protective powers. 
  <p class="updated_time"> 03:52 AM CT, Oct. 25 </p> 
@@ -60,8 +62,6 @@ permalink: /charts/news/
  [Afghanistan facing desperate food crisis, UN warns](https://www.bbc.co.uk/news/world-asia-59011501?at_medium=RSS&at_campaign=KARANGA) BBC: The UN World Food Programme says half the population now faces acute food insecurity. 
  <p class="updated_time"> 01:20 AM CT, Oct. 25 </p> 
  [Climate change quiz: Test your knowledge of how to reduce emissions](https://www.bbc.co.uk/news/science-environment-58996348?at_medium=RSS&at_campaign=KARANGA) BBC: How much do you know about the steps you could take to help curb climate change? 
- <p class="updated_time"> 12:33 AM CT, Oct. 25 </p> 
- [Amnesty International Exits Hong Kong, Citing National Security Law](https://www.wsj.com/articles/amnesty-international-exits-hong-kong-citing-national-security-law-11635154415) WSJ: The organization plans to pull out of the city by the end of the year, marking one of the most prominent departures of a rights group since China’s imposition of a sweeping new security law on Hong Kong. 
  <p class="updated_time"> 11:23 PM CT, Oct. 24 </p> 
  [Your Monday Briefing](https://www.nytimes.com/2021/10/24/briefing/somalia-military-covid-vaccines.html) NYT: A failed playbook in Somalia. 
  <p class="updated_time"> 10:31 PM CT, Oct. 24 </p> 
