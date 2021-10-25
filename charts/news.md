@@ -9,7 +9,7 @@ permalink: /charts/news/
  <p class="updated_time"> 04:07 PM CT, Oct. 25 </p> 
  [Covid: Biden sets new rules as air travel to the US reopens](https://www.bbc.co.uk/news/world-us-canada-59044856?at_medium=RSS&at_campaign=KARANGA) BBC: All foreign travellers to the US will be required to show proof of vaccination or a negative test. 
  <p class="updated_time"> 03:56 PM CT, Oct. 25 </p> 
- [Sudan coup: Three protesters killed and dozens injured](https://www.bbc.co.uk/news/world-africa-59045020?at_medium=RSS&at_campaign=KARANGA) BBC: Soldiers are said to have opened fire on large crowds opposing the military takeover. 
+ [Sudan coup: Seven protesters killed and dozens injured](https://www.bbc.co.uk/news/world-africa-59045020?at_medium=RSS&at_campaign=KARANGA) BBC: Soldiers are said to have opened fire on large crowds opposing the military takeover. 
  <p class="updated_time"> 03:38 PM CT, Oct. 25 </p> 
  [Your Tuesday Briefing](https://www.nytimes.com/2021/10/25/briefing/sudan-coup-moderna-kids-hong-kong.html) NYT: Sudan’s military seizes power. 
  <p class="updated_time"> 03:23 PM CT, Oct. 25 </p> 
