@@ -19,7 +19,7 @@ permalink: /charts/news/
  <p class="updated_time"> 07:18 PM CT, Oct. 24 </p> 
  [Please Don’t Feed the Whale Sharks? Fishing Town Says It Must, to Prosper.](https://www.nytimes.com/2021/10/24/world/asia/philippines-whale-shark-tourism.html) NYT: The chance to swim with the world’s biggest fish drew tourists to a Philippines town, but conservation groups denounce the hand-feeding that keeps the gentle creatures around. 
  <p class="updated_time"> 07:02 PM CT, Oct. 24 </p> 
- [The bumpy road to India's electric car revolution](https://www.bbc.co.uk/news/world-asia-india-58977080?at_medium=RSS&at_campaign=KARANGA) BBC: New investments and incentives are making electric vehicles more viable. But is India ready for the change? 
+ [The bumpy road to India's electric car dreams](https://www.bbc.co.uk/news/world-asia-india-58977080?at_medium=RSS&at_campaign=KARANGA) BBC: New investments and incentives are making electric vehicles more viable. But is India ready for the change? 
  <p class="updated_time"> 07:02 PM CT, Oct. 24 </p> 
  [Tigray crisis: How the West has fallen out with Ethiopia's PM](https://www.bbc.co.uk/news/world-africa-58967302?at_medium=RSS&at_campaign=KARANGA) BBC: The EU and US threaten punitive action against the government and rebels as conflict escalates. 
  <p class="updated_time"> 07:00 PM CT, Oct. 24 </p> 
