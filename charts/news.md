@@ -6,6 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 02:22 AM CT, Oct. 25 </p> 
+ [The American envoy to Sudan was there on Saturday as protests gained traction.](https://www.nytimes.com/2021/10/25/world/africa/the-american-envoy-to-sudan-was-there-on-saturday-as-protests-gained-traction.html) NYT: NA 
  <p class="updated_time"> 02:00 AM CT, Oct. 25 </p> 
  [Russia Challenges Biden Again With Broad Cybersurveillance Operation](https://www.nytimes.com/2021/10/25/us/politics/russia-cybersurveillance-biden.html) NYT: The new campaign came only months after President Biden imposed sanctions on Moscow in response to a series of spy operations it had conducted around the world. 
  <p class="updated_time"> 01:56 AM CT, Oct. 25 </p> 
