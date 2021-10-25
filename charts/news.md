@@ -6,8 +6,16 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 04:57 AM CT, Oct. 25 </p> 
+ [As Hong Kong’s Civil Society Buckles, One Group Tries to Hold On](https://www.nytimes.com/2021/10/24/world/asia/hong-kong-civil-society.html) NYT: Unions and other organizations have dissolved after facing pressure under a new security law. The Hong Kong Journalists Association is hoping it can avoid that fate. 
+ <p class="updated_time"> 04:47 AM CT, Oct. 25 </p> 
+ [Climate change: Greenhouse gas concentrations reached new high in 2020](https://www.bbc.co.uk/news/science-environment-59016075?at_medium=RSS&at_campaign=KARANGA) BBC: Despite the pandemic, atmospheric levels of CO2 and methane once more broke records last year. 
  <p class="updated_time"> 04:45 AM CT, Oct. 25 </p> 
  [James Michael Tyler: Friends stars show 'gratitude' for Gunther actor](https://www.bbc.co.uk/news/entertainment-arts-59032751?at_medium=RSS&at_campaign=KARANGA) BBC: Jennifer Aniston says the show "would not have been the same" without the late James Michael Tyler. 
+ <p class="updated_time"> 04:38 AM CT, Oct. 25 </p> 
+ [German IS woman jailed for Yazidi girl's death in Iraq](https://www.bbc.co.uk/news/world-europe-59036964?at_medium=RSS&at_campaign=KARANGA) BBC: A Munich court jails a jihadi bride for 10 years for the agonising death of a Yazidi girl in 2015. 
+ <p class="updated_time"> 04:30 AM CT, Oct. 25 </p> 
+ [Amnesty to close Hong Kong offices over National Security Law](https://www.bbc.co.uk/news/world-asia-59036714?at_medium=RSS&at_campaign=KARANGA) BBC: The human rights organisation says its staff are under threat from the city's national security law. 
  <p class="updated_time"> 04:13 AM CT, Oct. 25 </p> 
  [‘Needle Spiking’ of Women in Britain Stirs Alarm Over New Kind of Assault](https://www.nytimes.com/2021/10/22/world/europe/needle-spiking-uk.html) NYT: Women are reporting being injected with syringes at crowded clubs in a horrifying variation of dropping pills into drinks. “This is a new depth,’’ said a former chief of police. 
  <p class="updated_time"> 04:00 AM CT, Oct. 25 </p> 
@@ -30,8 +38,6 @@ permalink: /charts/news/
  [Afghanistan facing desperate food crisis, UN warns](https://www.bbc.co.uk/news/world-asia-59011501?at_medium=RSS&at_campaign=KARANGA) BBC: The UN World Food Programme says half the population now faces acute food insecurity. 
  <p class="updated_time"> 02:00 AM CT, Oct. 25 </p> 
  [Russia Challenges Biden Again With Broad Cybersurveillance Operation](https://www.nytimes.com/2021/10/25/us/politics/russia-cybersurveillance-biden.html) NYT: The new campaign came only months after President Biden imposed sanctions on Moscow in response to a series of spy operations it had conducted around the world. 
- <p class="updated_time"> 01:30 AM CT, Oct. 25 </p> 
- [As Hong Kong’s Civil Society Buckles, One Group Tries to Hold On](https://www.nytimes.com/2021/10/24/world/asia/hong-kong-civil-society.html) NYT: Unions and other organizations have dissolved after facing pressure under a new security law. The Hong Kong Journalists Association is hoping it can avoid that fate. 
  <p class="updated_time"> 01:20 AM CT, Oct. 25 </p> 
  [Climate change quiz: Test your knowledge of how to reduce emissions](https://www.bbc.co.uk/news/science-environment-58996348?at_medium=RSS&at_campaign=KARANGA) BBC: How much do you know about the steps you could take to help curb climate change? 
  <p class="updated_time"> 11:25 PM CT, Oct. 24 </p> 
@@ -90,8 +96,6 @@ permalink: /charts/news/
  [After Early Success, U.S. and Israel Now Lag on Vaccinations](https://www.nytimes.com/2021/10/24/world/united-states-israel-vaccination-rates.html) NYT: The big barrier to higher rates in both countries is stiff resistance among specific groups. 
  <p class="updated_time"> 12:44 PM CT, Oct. 24 </p> 
  [Inside the Decade-Long U.S. Fight Against Al Shabab in Somalia](https://www.nytimes.com/2021/10/24/world/africa/al-shabab-somalia-us-cia.html) NYT: The hunt for an elusive Somali militant illustrates why Al Shabab, despite a decade of American covert action, are at their strongest in years. 
- <p class="updated_time"> 10:43 AM CT, Oct. 24 </p> 
- [Kobe Bryant's wife Vanessa first heard of his death online](https://www.bbc.co.uk/news/world-us-canada-59024491?at_medium=RSS&at_campaign=KARANGA) BBC: Vanessa Bryant said she learned about the death of her husband by seeing "RIP Kobe" notifications. 
  <p class="updated_time"> 10:29 AM CT, Oct. 24 </p> 
  [At the World Expo Pavilions, Future Visions Combine Past and Present](https://www.nytimes.com/2021/10/24/world/world-expo-pavilions.html) NYT: Conversations with three figures integral to the conception of the expo. 
  <p class="updated_time"> 09:01 AM CT, Oct. 24 </p> 
