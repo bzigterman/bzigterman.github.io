@@ -6,6 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 02:00 AM CT, Oct. 25 </p> 
+ [Russia Challenges Biden Again With Broad Cybersurveillance Operation](https://www.nytimes.com/2021/10/25/us/politics/russia-cybersurveillance-biden.html) NYT: The new campaign came only months after President Biden imposed sanctions on Moscow in response to a series of spy operations it had conducted around the world. 
  <p class="updated_time"> 01:56 AM CT, Oct. 25 </p> 
  [Sudanese Prime Minister Abdalla Hamdok Is Detained in Apparent Coup](https://www.nytimes.com/live/2021/10/25/world/sudan-protests/coup) NYT: Demonstrators filled the streets, burning tires and chanting slogans in the capital, Khartoum, and there was a “significant disruption” to the internet. 
  <p class="updated_time"> 01:52 AM CT, Oct. 25 </p> 
@@ -178,8 +180,6 @@ permalink: /charts/news/
  [Haitian Kidnappers Threaten to Kill Missionaries](https://www.nytimes.com/2021/10/21/world/americas/haiti-missionary-kidnapping-threat.html) NYT: As negotiators worked to secure the release of 17 people associated with an Ohio-based missionary group, their kidnappers released a video threatening their lives. 
  <p class="updated_time"> 07:58 PM CT, Oct. 21 </p> 
  [Li Yundi Is Detained in China on Suspicion of Prostitution](https://www.nytimes.com/2021/10/21/arts/music/li-yundi-china-prostitution.html) NYT: Li Yundi, a famous performer, was accused of soliciting a woman, state news outlets said. Officials often use such accusations against their enemies. 
- <p class="updated_time"> 06:05 PM CT, Oct. 21 </p> 
- [Rise in Cases and Deaths Tests Britain’s Gamble on Few Virus Restrictions](https://www.nytimes.com/2021/10/21/world/europe/britain-virus.html) NYT: The country’s grand experiment — opening up with hardly any restrictions — is facing its toughest test yet. 
  <p class="updated_time"> 05:19 PM CT, Oct. 21 </p> 
  [Queen Elizabeth Was Hospitalized, Palace Discloses](https://www.nytimes.com/2021/10/21/world/europe/queen-elizabeth-health-hospital.html) NYT: She was discharged on Thursday after undergoing tests the day before and spending the night. The queen, 95, had just canceled a planned trip to Northern Ireland. 
  <p class="updated_time"> 04:20 PM CT, Oct. 21 </p> 
