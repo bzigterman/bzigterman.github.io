@@ -15,7 +15,7 @@ permalink: /charts/news/
  <p class="updated_time"> 06:21 AM CT, Oct. 25 </p> 
  [Alec Baldwin was pointing gun at camera in Rust rehearsal, legal papers say](https://www.bbc.co.uk/news/entertainment-arts-59035483?at_medium=RSS&at_campaign=KARANGA) BBC: Legal papers shed light on what happened when actor Alec Baldwin fired a gun with tragic results. 
  <p class="updated_time"> 06:09 AM CT, Oct. 25 </p> 
- [‘Forced to sell my baby’ - Afghan families face extreme poverty](https://www.bbc.co.uk/news/world-asia-59034650?at_medium=RSS&at_campaign=KARANGA) BBC: The humanitarian crisis in Afghanistan could cost millions of lives if aid is not provided, the UN warns. 
+ [Afghan baby girl sold for $500 by starving family](https://www.bbc.co.uk/news/world-asia-59034650?at_medium=RSS&at_campaign=KARANGA) BBC: The BBC’s Yogita Limaye witnesses first-hand the extreme poverty engulfing millions in Afghanistan. 
  <p class="updated_time"> 06:01 AM CT, Oct. 25 </p> 
  [Tensions Between Sudan's Military and Civilian Leaders Had Been Growing](https://www.nytimes.com/2021/10/25/world/africa/sudan-military-coup-civilian.html) NYT: Civilians were set to rule the country for the first time in more than three decades. But the military was concerned about losing power. 
  <p class="updated_time"> 05:44 AM CT, Oct. 25 </p> 
@@ -33,13 +33,17 @@ permalink: /charts/news/
  <p class="updated_time"> 04:13 AM CT, Oct. 25 </p> 
  [‘Needle Spiking’ of Women in Britain Stirs Alarm Over New Kind of Assault](https://www.nytimes.com/2021/10/22/world/europe/needle-spiking-uk.html) NYT: Women are reporting being injected with syringes at crowded clubs in a horrifying variation of dropping pills into drinks. “This is a new depth,’’ said a former chief of police. 
  <p class="updated_time"> 04:00 AM CT, Oct. 25 </p> 
- [Inside the Thai Temple Where Tattoos Come to Life](https://www.nytimes.com/2021/10/25/travel/sak-yant-tattoo-thailand.html) NYT: Wat Bang Phra, a temple in central Thailand, is renowned as a center for sak yant, a style of tattoo art believed by some to convey protective powers. 
- <p class="updated_time"> 04:00 AM CT, Oct. 25 </p> 
  [How 4 Weeks of U.S. Paid Leave Would Compare With the Rest of the World](https://www.nytimes.com/2021/10/25/upshot/paid-leave-democrats.html) NYT: The U.S. is one of six countries with no national paid leave. The Democrats have cut their plan to four weeks, which would still make it an outlier. 
+ <p class="updated_time"> 04:00 AM CT, Oct. 25 </p> 
+ [Inside the Thai Temple Where Tattoos Come to Life](https://www.nytimes.com/2021/10/25/travel/sak-yant-tattoo-thailand.html) NYT: Wat Bang Phra, a temple in central Thailand, is renowned as a center for sak yant, a style of tattoo art believed by some to convey protective powers. 
  <p class="updated_time"> 03:40 AM CT, Oct. 25 </p> 
  [With New Conviction, Hong Kong Uses Security Law to Clamp Down on Speech](https://www.nytimes.com/2021/10/25/world/asia/hong-kong-security-law-speech.html) NYT: An activist, Ma Chun-man, was convicted of inciting secession after, he said, he chanted slogans to test the limits of the law. 
+ <p class="updated_time"> 03:38 AM CT, Oct. 25 </p> 
+ [Sudan Military Coup Draws Thousands to the Streets in Protest](https://www.wsj.com/articles/sudanese-prime-minister-detained-in-apparent-military-coup-11635150306) WSJ: Pro-democracy protesters streamed into the streets of the capital to reject a military coup of the transitional government that has ruled the country since the ouster of longtime dictator Omar al-Bashir. 
  <p class="updated_time"> 03:13 AM CT, Oct. 25 </p> 
  [Colombian drug lord Otoniel to be extradited to US](https://www.bbc.co.uk/news/world-latin-america-59032300?at_medium=RSS&at_campaign=KARANGA) BBC: US officials had placed a $5m (£3.6m) bounty on the head of Otoniel, Colombia's most wanted drug lord. 
+ <p class="updated_time"> 02:53 AM CT, Oct. 25 </p> 
+ [Australia Considers New Privacy Rules to Protect Children on Social Media](https://www.wsj.com/articles/australia-considers-new-privacy-rules-to-protect-children-on-social-media-11635162809) WSJ: Australia’s government on Monday released draft legislation that would enable the creation of a binding online-privacy code for tech companies like Facebook. 
  <p class="updated_time"> 02:30 AM CT, Oct. 25 </p> 
  [Afghanistan facing desperate food crisis, UN warns](https://www.bbc.co.uk/news/world-asia-59011501?at_medium=RSS&at_campaign=KARANGA) BBC: The UN World Food Programme says half the population now faces acute food insecurity. 
  <p class="updated_time"> 02:00 AM CT, Oct. 25 </p> 
@@ -48,16 +52,12 @@ permalink: /charts/news/
  [Climate change quiz: Test your knowledge of how to reduce emissions](https://www.bbc.co.uk/news/science-environment-58996348?at_medium=RSS&at_campaign=KARANGA) BBC: How much do you know about the steps you could take to help curb climate change? 
  <p class="updated_time"> 12:33 AM CT, Oct. 25 </p> 
  [Amnesty International Exits Hong Kong, Citing National Security Law](https://www.wsj.com/articles/amnesty-international-exits-hong-kong-citing-national-security-law-11635154415) WSJ: The organization plans to pull out of the city by the end of the year, marking one of the most prominent departures of a rights group since China’s imposition of a sweeping new security law on Hong Kong. 
- <p class="updated_time"> 11:25 PM CT, Oct. 24 </p> 
- [Sudanese Prime Minister Detained in Apparent Coup](https://www.wsj.com/articles/sudanese-prime-minister-detained-in-apparent-military-coup-11635150306) WSJ: Sudan’s prime minister was detained following an apparent military coup of the transitional government that has been ruling the country since the ouster of longtime dictator Omar al-Bashir, the country’s information ministry and several government officials said. 
  <p class="updated_time"> 11:23 PM CT, Oct. 24 </p> 
  [Your Monday Briefing](https://www.nytimes.com/2021/10/24/briefing/somalia-military-covid-vaccines.html) NYT: A failed playbook in Somalia. 
  <p class="updated_time"> 10:31 PM CT, Oct. 24 </p> 
  [China postpones Beijing marathon due to Covid surge](https://www.bbc.co.uk/news/world-asia-china-59033165?at_medium=RSS&at_campaign=KARANGA) BBC: Around 30,000 people were expected to take part in the marathon on October 31. 
  <p class="updated_time"> 10:00 PM CT, Oct. 24 </p> 
  [SolarWinds Hackers Step Up Attacks on Tech Companies](https://www.wsj.com/articles/microsoft-solarwinds-hackers-continue-to-hit-technology-companies-11635145200) WSJ: The Russia-linked hackers behind last year’s compromise of a wide swath of the U.S. government and scores of private companies have redoubled their efforts in recent months, Microsoft cybersecurity experts said. 
- <p class="updated_time"> 09:25 PM CT, Oct. 24 </p> 
- [Australia Backs $1.6 Billion Buy of Pacific Mobile Networks](https://www.wsj.com/articles/australia-backs-1-6-billion-buy-of-pacific-mobile-networks-11635143143) WSJ: The Australian government is financing the purchase of mobile networks in six Pacific countries, a move that foreign-policy experts say is designed to block a military rival from buying the strategically important assets. 
  <p class="updated_time"> 08:38 PM CT, Oct. 24 </p> 
  [Uganda: One killed in bomb attack at Kampala bar](https://www.bbc.co.uk/news/world-africa-59028210?at_medium=RSS&at_campaign=KARANGA) BBC: Islamic State says it was behind the bombing - a week after the UK warned about a possible attack. 
  <p class="updated_time"> 07:53 PM CT, Oct. 24 </p> 
@@ -84,8 +84,6 @@ permalink: /charts/news/
  [How can Coca-Cola solve its plastic problem?](https://www.bbc.co.uk/news/science-environment-59017151?at_medium=RSS&at_campaign=KARANGA) BBC: The drinks company has been named the world's biggest plastic polluter. 
  <p class="updated_time"> 06:04 PM CT, Oct. 24 </p> 
  [The Gambia: 'We are crying for justice'](https://www.bbc.co.uk/news/world-africa-59016290?at_medium=RSS&at_campaign=KARANGA) BBC: A report into alleged human rights abuses during the rule of former president Jammeh has been delayed. 
- <p class="updated_time"> 06:03 PM CT, Oct. 24 </p> 
- [Xi's 'Common Prosperity' in Theory and Practice](https://www.wsj.com/articles/xis-common-prosperity-in-theory-and-practice-11635130856) WSJ: President Xi Jinping’s vision for a more equal China has spooked investors. The recent release of a fuller version of his August remarks contains important hints on what “common prosperity” really means. 
  <p class="updated_time"> 06:02 PM CT, Oct. 24 </p> 
  [Inside the Indonesian cave where oldest animal art was found](https://www.bbc.co.uk/news/world-asia-58988252?at_medium=RSS&at_campaign=KARANGA) BBC: The BBC is given rare access to film the 45,500-year-old images found on an Indonesian island. 
  <p class="updated_time"> 04:24 PM CT, Oct. 24 </p> 
