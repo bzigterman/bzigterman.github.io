@@ -6,7 +6,7 @@ permalink: /charts/news/
 
 ## World News
 
- <p class="updated_time"> 06:33 PM CT, Oct. 25 </p> 
+ <p class="updated_time"> 06:49 PM CT, Oct. 25 </p> 
  [Sudan’s Military Seizes Power, Casting Democratic Transition Into Chaos](https://www.nytimes.com/2021/10/25/world/africa/sudan-military-coup.html) NYT: Civilian and military leaders were supposed to share power after a popular uprising in 2019 overthrew a decades-long dictatorship. On Monday the military detained the civilian prime minister. 
  <p class="updated_time"> 06:10 PM CT, Oct. 25 </p> 
  [Can Lego help save Singapore's coral reefs?](https://www.bbc.co.uk/news/world-asia-58784313?at_medium=RSS&at_campaign=KARANGA) BBC: Scientists in Singapore are using the popular building block in an effort to rejuvenate its reefs. 
