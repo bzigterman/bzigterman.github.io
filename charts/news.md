@@ -6,8 +6,18 @@ permalink: /charts/news/
 
 ## World News
 
- <p class="updated_time"> 10:53 AM CT, Oct. 25 </p> 
+ <p class="updated_time"> 11:21 AM CT, Oct. 25 </p> 
+ [Israeli cabinet backs huge spending plan for Arab minority](https://www.bbc.co.uk/news/world-middle-east-59039911?at_medium=RSS&at_campaign=KARANGA) BBC: Billions of dollars are earmarked for Israel's Arab minority, which has long complained of neglect. 
+ <p class="updated_time"> 11:20 AM CT, Oct. 25 </p> 
+ [Alec Baldwin was pointing gun at camera in Rust rehearsal, legal papers say](https://www.bbc.co.uk/news/entertainment-arts-59035483?at_medium=RSS&at_campaign=KARANGA) BBC: Legal papers shed light on what happened when actor Alec Baldwin fired a gun with tragic results. 
+ <p class="updated_time"> 11:19 AM CT, Oct. 25 </p> 
+ [Alec Baldwin film tragedy: What are the rules for guns on movie sets?](https://www.bbc.co.uk/news/entertainment-arts-59035488?at_medium=RSS&at_campaign=KARANGA) BBC: The regulations are under scrutiny after the death of a film-maker on the set of an Alec Baldwin film. 
+ <p class="updated_time"> 11:10 AM CT, Oct. 25 </p> 
+ [Sudan Soldiers Gun Down Protesters, Doctors Group Says](https://www.nytimes.com/2021/10/25/world/africa/pro-democracy-protesters-flood-the-streets-of-sudans-capital.html) NYT: Protesters against the military coup took to the streets by the thousands and barricaded roads, and soldiers reportedly shot demonstrators outside army headquarters. 
+ <p class="updated_time"> 11:07 AM CT, Oct. 25 </p> 
  [Sudan's Prime Minister Abdalla Hamdok Is Detained in Apparent Coup](https://www.nytimes.com/live/2021/10/25/world/sudan-coup/coup) NYT: Demonstrators filled the streets of the capital, Khartoum, soldiers reportedly fired on some of them, gunfire echoed through the city and internet access was sharply curtailed. 
+ <p class="updated_time"> 11:01 AM CT, Oct. 25 </p> 
+ [A Jewish Far-Right Pundit Splits the French Jewish Community as He Rises](https://www.nytimes.com/2021/10/25/world/europe/eric-zemmour-france-jewish.html) NYT: Éric Zemmour, eyeing the presidency, tries to rehabilitate the wartime Vichy regime that collaborated with the Nazis as part of a campaign filled with provocations. 
  <p class="updated_time"> 10:23 AM CT, Oct. 25 </p> 
  [Sudan coup: Military dissolves civilian government and arrests leaders](https://www.bbc.co.uk/news/world-africa-59033142?at_medium=RSS&at_campaign=KARANGA) BBC: Protesters in Khartoum denounce the coup, as soldiers cut off main roads and restrict the internet. 
  <p class="updated_time"> 09:48 AM CT, Oct. 25 </p> 
@@ -34,8 +44,6 @@ permalink: /charts/news/
  [Traveling Through a Divided Israel](https://www.nytimes.com/2021/10/25/world/middleeast/israel-jews-palestinians-journey.html) NYT: Two Times journalists drive the length of Israel to discover what it means to be Israeli today. They meet a kaleidoscope of people, searching for belonging but far apart on how to find it. 
  <p class="updated_time"> 06:50 AM CT, Oct. 25 </p> 
  [In India, Facebook Struggles to Combat Misinformation and Hate Speech ](https://www.nytimes.com/2021/10/23/technology/facebook-india-misinformation.html) NYT: Internal documents show a struggle with misinformation, hate speech and celebrations of violence in the country, the company’s biggest market. 
- <p class="updated_time"> 06:21 AM CT, Oct. 25 </p> 
- [Alec Baldwin was pointing gun at camera in Rust rehearsal, legal papers say](https://www.bbc.co.uk/news/entertainment-arts-59035483?at_medium=RSS&at_campaign=KARANGA) BBC: Legal papers shed light on what happened when actor Alec Baldwin fired a gun with tragic results. 
  <p class="updated_time"> 06:09 AM CT, Oct. 25 </p> 
  [Afghan baby girl sold for $500 by starving family](https://www.bbc.co.uk/news/world-asia-59034650?at_medium=RSS&at_campaign=KARANGA) BBC: The BBC’s Yogita Limaye witnesses first-hand the extreme poverty engulfing millions in Afghanistan. 
  <p class="updated_time"> 05:44 AM CT, Oct. 25 </p> 
@@ -68,12 +76,8 @@ permalink: /charts/news/
  [SolarWinds Hackers Step Up Attacks on Tech Companies](https://www.wsj.com/articles/microsoft-solarwinds-hackers-continue-to-hit-technology-companies-11635145200) WSJ: The Russia-linked hackers behind last year’s compromise of a wide swath of the U.S. government and scores of private companies have redoubled their efforts in recent months, Microsoft cybersecurity experts said. 
  <p class="updated_time"> 09:25 PM CT, Oct. 24 </p> 
  [Australia Backs $1.6 Billion Buy of Pacific Mobile Networks](https://www.wsj.com/articles/australia-backs-1-6-billion-buy-of-pacific-mobile-networks-11635143143) WSJ: The Australian government is financing the purchase of mobile networks in six Pacific countries, a move that foreign-policy experts say is designed to block a military rival from buying the strategically important assets. 
- <p class="updated_time"> 07:53 PM CT, Oct. 24 </p> 
- [Michael Jordan's trainers sell for record $1.47m at auction](https://www.bbc.co.uk/news/world-us-canada-59032756?at_medium=RSS&at_campaign=KARANGA) BBC: The US basketball legend wore the pair of red and white trainers during his first NBA season in 1984. 
  <p class="updated_time"> 07:18 PM CT, Oct. 24 </p> 
  [Please Don’t Feed the Whale Sharks? Fishing Town Says It Must, to Prosper.](https://www.nytimes.com/2021/10/24/world/asia/philippines-whale-shark-tourism.html) NYT: The chance to swim with the world’s biggest fish drew tourists to a Philippines town, but conservation groups denounce the hand-feeding that keeps the gentle creatures around. 
- <p class="updated_time"> 07:02 PM CT, Oct. 24 </p> 
- [The bumpy road to India's electric car dreams](https://www.bbc.co.uk/news/world-asia-india-58977080?at_medium=RSS&at_campaign=KARANGA) BBC: New investments and incentives are making electric vehicles more viable. But is India ready for the change? 
  <p class="updated_time"> 07:02 PM CT, Oct. 24 </p> 
  [Tigray crisis: How the West has fallen out with Ethiopia's PM](https://www.bbc.co.uk/news/world-africa-58967302?at_medium=RSS&at_campaign=KARANGA) BBC: The EU and US threaten punitive action against the government and rebels as conflict escalates. 
  <p class="updated_time"> 07:01 PM CT, Oct. 24 </p> 
@@ -186,12 +190,8 @@ permalink: /charts/news/
  [India's Farmer Protesters Are Confronting Modi Head-On](https://www.nytimes.com/2021/10/22/world/asia/india-farmers-protests-modi.html) NYT: A year on, protesters against the country’s agricultural laws are taking an increasingly confrontational approach with the country’s leaders. 
  <p class="updated_time"> 04:00 AM CT, Oct. 22 </p> 
  [Flying With Your Pet? It Just Got a Lot More Difficult.](https://www.nytimes.com/2021/10/22/travel/pets-airlines-regulations.html) NYT: A recent C.D.C. rabies rule, pricey pet ‘tickets’ and limits on animals in airline cabins are making traveling with a pet more complicated. 
- <p class="updated_time"> 03:46 AM CT, Oct. 22 </p> 
- [Your Friday Briefing](https://www.nytimes.com/2021/10/21/briefing/climate-change-donald-trump.html) NYT: The geopolitical risks of climate change. 
  <p class="updated_time"> 02:13 AM CT, Oct. 22 </p> 
  [New Zealand Wants a 90% Vaccination Rate. Its Street Gangs May Hold the Key.](https://www.nytimes.com/2021/10/22/world/australia/new-zealand-vaccination-gangs.html) NYT: The country’s leaders have set aside some misgivings and cooperated with gang leaders to reach their communities. 
- <p class="updated_time"> 09:54 PM CT, Oct. 21 </p> 
- [Searching for Australia’s Climate Tipping Point](https://www.nytimes.com/2021/10/21/world/australia/climate-change-tipping-point.html) NYT: The world, and most Australians, are increasingly disappointed by Australia’s lackluster approach to addressing climate change. 
 
 
 
