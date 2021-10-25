@@ -6,6 +6,14 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 03:23 PM CT, Oct. 25 </p> 
+ [Hong Kong’s National Security Law Explained](https://www.nytimes.com/article/hong-kong-security-law-speech.html) NYT: An activist, Ma Chun-man, was convicted of inciting secession after, he said, he chanted slogans to test the limits of the law. 
+ <p class="updated_time"> 03:16 PM CT, Oct. 25 </p> 
+ [Tensions Between Sudan's Military and Civilian Leaders Had Been Growing](https://www.nytimes.com/2021/10/25/world/africa/sudan-military-coup-civilian.html) NYT: Civilians were set to rule the country for the first time in more than three decades. But the military was concerned about losing power. 
+ <p class="updated_time"> 03:13 PM CT, Oct. 25 </p> 
+ [Sudan Soldiers Gun Down Protesters, Doctors Group Says](https://www.nytimes.com/2021/10/25/world/africa/pro-democracy-protesters-flood-the-streets-of-sudans-capital.html) NYT: Protesters against the military coup took to the streets by the thousands and barricaded roads, and soldiers reportedly shot demonstrators outside army headquarters. 
+ <p class="updated_time"> 03:09 PM CT, Oct. 25 </p> 
+ [John Wayne Gacy murder victim named 45 years after vanishing](https://www.bbc.co.uk/news/world-us-canada-59040381?at_medium=RSS&at_campaign=KARANGA) BBC: Police identify the remains of a man killed by notorious murderer John Wayne Gacy in the 1970s. 
  <p class="updated_time"> 03:01 PM CT, Oct. 25 </p> 
  [U.S. Halts Aid to Sudan Government After Coup](https://www.nytimes.com/2021/10/25/world/africa/us-aid-frozen-sudan.html) NYT: The Biden administration, calling for immediate restoration of the transition government, froze $700 million in direct aid. 
  <p class="updated_time"> 02:12 PM CT, Oct. 25 </p> 
@@ -18,8 +26,6 @@ permalink: /charts/news/
  [Turkish President Steps Back From Expulsions of 10 Western Diplomats](https://www.nytimes.com/2021/10/25/world/europe/erdogan-turkey-ambassador.html) NYT: The threatened expulsions had risked severe economic consequences and a rupture in the North Atlantic Treaty Organization. 
  <p class="updated_time"> 12:52 PM CT, Oct. 25 </p> 
  [Collector returns Mayan artefact to Guatemala](https://www.bbc.co.uk/news/world-latin-america-59032480?at_medium=RSS&at_campaign=KARANGA) BBC: Plans to auction the fragment, which depicts the head of an ancient ruler, sparked a row in 2019. 
- <p class="updated_time"> 12:26 PM CT, Oct. 25 </p> 
- [With New Conviction, Hong Kong Uses Security Law to Clamp Down on Speech](https://www.nytimes.com/2021/10/25/world/asia/hong-kong-security-law-speech.html) NYT: An activist, Ma Chun-man, was convicted of inciting secession after, he said, he chanted slogans to test the limits of the law. 
  <p class="updated_time"> 12:01 PM CT, Oct. 25 </p> 
  [Turkey dispute with US eases after threat to expel envoys](https://www.bbc.co.uk/news/world-europe-59042931?at_medium=RSS&at_campaign=KARANGA) BBC: Ten Western ambassadors had angered the Turkish president by urging a jailed activist's release. 
  <p class="updated_time"> 11:42 AM CT, Oct. 25 </p> 
@@ -36,14 +42,10 @@ permalink: /charts/news/
  [Alec Baldwin was pointing gun at camera in Rust rehearsal, legal papers say](https://www.bbc.co.uk/news/entertainment-arts-59035483?at_medium=RSS&at_campaign=KARANGA) BBC: Legal papers shed light on what happened when actor Alec Baldwin fired a gun with tragic results. 
  <p class="updated_time"> 11:19 AM CT, Oct. 25 </p> 
  [Alec Baldwin film tragedy: What are the rules for guns on movie sets?](https://www.bbc.co.uk/news/entertainment-arts-59035488?at_medium=RSS&at_campaign=KARANGA) BBC: The regulations are under scrutiny after the death of a film-maker on the set of an Alec Baldwin film. 
- <p class="updated_time"> 11:10 AM CT, Oct. 25 </p> 
- [Sudan Soldiers Gun Down Protesters, Doctors Group Says](https://www.nytimes.com/2021/10/25/world/africa/pro-democracy-protesters-flood-the-streets-of-sudans-capital.html) NYT: Protesters against the military coup took to the streets by the thousands and barricaded roads, and soldiers reportedly shot demonstrators outside army headquarters. 
  <p class="updated_time"> 10:26 AM CT, Oct. 25 </p> 
  [Sudan Coup Draws Thousands to the Streets in Protest](https://www.wsj.com/articles/sudanese-prime-minister-detained-in-apparent-military-coup-11635150306) WSJ: Pro-democracy protesters streamed into the streets of the capital to reject a military coup of the transitional government that has ruled the country since the ouster of longtime dictator Omar al-Bashir. 
  <p class="updated_time"> 09:45 AM CT, Oct. 25 </p> 
  [Haiti fuel shortages threaten patients' lives - Unicef](https://www.bbc.co.uk/news/world-latin-america-59035552?at_medium=RSS&at_campaign=KARANGA) BBC: Hospitals say that without fuel they cannot operate crucial generators and hundreds could die. 
- <p class="updated_time"> 09:42 AM CT, Oct. 25 </p> 
- [Tensions Between Sudan's Military and Civilian Leaders Had Been Growing](https://www.nytimes.com/2021/10/25/world/africa/sudan-military-coup-civilian.html) NYT: Civilians were set to rule the country for the first time in more than three decades. But the military was concerned about losing power. 
  <p class="updated_time"> 09:23 AM CT, Oct. 25 </p> 
  [Singer Ed Sheeran Tests Positive for Coronavirus](https://www.nytimes.com/2021/10/24/arts/music/ed-sheeran-covid-positive.html) NYT: Mr. Sheeran said he would cancel upcoming public appearances while he is “self-isolating and following government guidelines.” 
  <p class="updated_time"> 09:19 AM CT, Oct. 25 </p> 
