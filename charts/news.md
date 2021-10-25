@@ -8,6 +8,8 @@ permalink: /charts/news/
 
  <p class="updated_time"> 09:23 AM CT, Oct. 25 </p> 
  [Singer Ed Sheeran Tests Positive for Coronavirus](https://www.nytimes.com/2021/10/24/arts/music/ed-sheeran-covid-positive.html) NYT: Mr. Sheeran said he would cancel upcoming public appearances while he is “self-isolating and following government guidelines.” 
+ <p class="updated_time"> 09:21 AM CT, Oct. 25 </p> 
+ [Sudan coup: Military dissolves civilian government and arrests leaders](https://www.bbc.co.uk/news/world-africa-59033142?at_medium=RSS&at_campaign=KARANGA) BBC: Protesters in Khartoum denounce the coup, as soldiers cut off main roads and restrict the internet. 
  <p class="updated_time"> 09:12 AM CT, Oct. 25 </p> 
  [German IS woman jailed for Yazidi girl's death in Iraq](https://www.bbc.co.uk/news/world-europe-59036964?at_medium=RSS&at_campaign=KARANGA) BBC: A Munich court jails a jihadi bride for 10 years for the agonising death of a Yazidi girl in 2015. 
  <p class="updated_time"> 09:05 AM CT, Oct. 25 </p> 
@@ -28,8 +30,6 @@ permalink: /charts/news/
  [Traveling Through a Divided Israel](https://www.nytimes.com/2021/10/25/world/middleeast/israel-jews-palestinians-journey.html) NYT: Two Times journalists drive the length of Israel to discover what it means to be Israeli today. They meet a kaleidoscope of people, searching for belonging but far apart on how to find it. 
  <p class="updated_time"> 06:50 AM CT, Oct. 25 </p> 
  [In India, Facebook Struggles to Combat Misinformation and Hate Speech ](https://www.nytimes.com/2021/10/23/technology/facebook-india-misinformation.html) NYT: Internal documents show a struggle with misinformation, hate speech and celebrations of violence in the country, the company’s biggest market. 
- <p class="updated_time"> 06:37 AM CT, Oct. 25 </p> 
- [Sudan's military dissolves civilian government and arrests leaders](https://www.bbc.co.uk/news/world-africa-59033142?at_medium=RSS&at_campaign=KARANGA) BBC: A leading general blames political infighting, as protesters in Khartoum denounce a coup. 
  <p class="updated_time"> 06:21 AM CT, Oct. 25 </p> 
  [Alec Baldwin was pointing gun at camera in Rust rehearsal, legal papers say](https://www.bbc.co.uk/news/entertainment-arts-59035483?at_medium=RSS&at_campaign=KARANGA) BBC: Legal papers shed light on what happened when actor Alec Baldwin fired a gun with tragic results. 
  <p class="updated_time"> 06:09 AM CT, Oct. 25 </p> 
