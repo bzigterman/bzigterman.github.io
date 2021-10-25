@@ -6,6 +6,12 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 12:36 PM CT, Oct. 25 </p> 
+ [Sudan's Prime Minister Abdalla Hamdok Is Detained in Apparent Coup](https://www.nytimes.com/live/2021/10/25/world/sudan-coup/coup) NYT: Demonstrators filled the streets of the capital, Khartoum, soldiers reportedly fired on some of them, gunfire echoed through the city and internet access was sharply curtailed. 
+ <p class="updated_time"> 12:26 PM CT, Oct. 25 </p> 
+ [With New Conviction, Hong Kong Uses Security Law to Clamp Down on Speech](https://www.nytimes.com/2021/10/25/world/asia/hong-kong-security-law-speech.html) NYT: An activist, Ma Chun-man, was convicted of inciting secession after, he said, he chanted slogans to test the limits of the law. 
+ <p class="updated_time"> 12:26 PM CT, Oct. 25 </p> 
+ [Turkish President Steps Back From Expulsions of 10 Western Diplomats](https://www.nytimes.com/2021/10/25/world/europe/erdogan-turkey-ambassador.html) NYT: The threatened expulsions had risked severe economic consequences and a rupture in the North Atlantic Treaty Organization. 
  <p class="updated_time"> 12:01 PM CT, Oct. 25 </p> 
  [Turkey dispute with US eases after threat to expel envoys](https://www.bbc.co.uk/news/world-europe-59042931?at_medium=RSS&at_campaign=KARANGA) BBC: Ten Western ambassadors had angered the Turkish president by urging a jailed activist's release. 
  <p class="updated_time"> 11:42 AM CT, Oct. 25 </p> 
@@ -24,8 +30,6 @@ permalink: /charts/news/
  [Alec Baldwin film tragedy: What are the rules for guns on movie sets?](https://www.bbc.co.uk/news/entertainment-arts-59035488?at_medium=RSS&at_campaign=KARANGA) BBC: The regulations are under scrutiny after the death of a film-maker on the set of an Alec Baldwin film. 
  <p class="updated_time"> 11:10 AM CT, Oct. 25 </p> 
  [Sudan Soldiers Gun Down Protesters, Doctors Group Says](https://www.nytimes.com/2021/10/25/world/africa/pro-democracy-protesters-flood-the-streets-of-sudans-capital.html) NYT: Protesters against the military coup took to the streets by the thousands and barricaded roads, and soldiers reportedly shot demonstrators outside army headquarters. 
- <p class="updated_time"> 11:07 AM CT, Oct. 25 </p> 
- [Sudan's Prime Minister Abdalla Hamdok Is Detained in Apparent Coup](https://www.nytimes.com/live/2021/10/25/world/sudan-coup/coup) NYT: Demonstrators filled the streets of the capital, Khartoum, soldiers reportedly fired on some of them, gunfire echoed through the city and internet access was sharply curtailed. 
  <p class="updated_time"> 09:45 AM CT, Oct. 25 </p> 
  [Haiti fuel shortages threaten patients' lives - Unicef](https://www.bbc.co.uk/news/world-latin-america-59035552?at_medium=RSS&at_campaign=KARANGA) BBC: Hospitals say that without fuel they cannot operate crucial generators and hundreds could die. 
  <p class="updated_time"> 09:42 AM CT, Oct. 25 </p> 
@@ -46,12 +50,18 @@ permalink: /charts/news/
  [Eitan Biran: Crash survivor must be returned to Italy, court rules](https://www.bbc.co.uk/news/world-middle-east-59040375?at_medium=RSS&at_campaign=KARANGA) BBC: The six-year-old survivor of a cable car crash must be returned to his aunt in Italy, a court rules. 
  <p class="updated_time"> 08:15 AM CT, Oct. 25 </p> 
  [Traveling Through a Divided Israel](https://www.nytimes.com/2021/10/25/world/middleeast/israel-jews-palestinians-journey.html) NYT: Two Times journalists drive the length of Israel to discover what it means to be Israeli today. They meet a kaleidoscope of people, searching for belonging but far apart on how to find it. 
+ <p class="updated_time"> 07:34 AM CT, Oct. 25 </p> 
+ [First Yazidi Genocide Trial Ends In Conviction of German Woman](https://www.wsj.com/articles/first-yazidi-genocide-trial-ends-in-conviction-of-german-isis-member-11635178922) WSJ: A German court sentenced a member of the ISIS terror group to 10 years in prison for her role in the enslavement and killing of a 5-year-old girl. 
  <p class="updated_time"> 07:29 AM CT, Oct. 25 </p> 
  [Sudan Coup Draws Thousands to the Streets in Protest](https://www.wsj.com/articles/sudanese-prime-minister-detained-in-apparent-military-coup-11635150306) WSJ: Pro-democracy protesters streamed into the streets of the capital to reject a military coup of the transitional government that has ruled the country since the ouster of longtime dictator Omar al-Bashir. 
  <p class="updated_time"> 06:50 AM CT, Oct. 25 </p> 
  [In India, Facebook Struggles to Combat Misinformation and Hate Speech ](https://www.nytimes.com/2021/10/23/technology/facebook-india-misinformation.html) NYT: Internal documents show a struggle with misinformation, hate speech and celebrations of violence in the country, the company’s biggest market. 
+ <p class="updated_time"> 06:45 AM CT, Oct. 25 </p> 
+ [State Department to Form New Cyber Office to Face Proliferating Global Challenges](https://www.wsj.com/articles/state-department-to-form-new-cyber-office-to-face-proliferating-global-challenges-11635176700) WSJ: The organizational changes are intended to confront cybersecurity challenges like ransomware and waning global digital freedom, the latest overhauls by the administration aimed at prioritizing cyber threats as a top-tier national security issue. 
  <p class="updated_time"> 06:09 AM CT, Oct. 25 </p> 
  [Afghan baby girl sold for $500 by starving family](https://www.bbc.co.uk/news/world-asia-59034650?at_medium=RSS&at_campaign=KARANGA) BBC: The BBC’s Yogita Limaye witnesses first-hand the extreme poverty engulfing millions in Afghanistan. 
+ <p class="updated_time"> 06:05 AM CT, Oct. 25 </p> 
+ [Does Taiwan's Military Stand a Chance Against China? Few Think So.](https://www.wsj.com/articles/taiwan-military-readiness-china-threat-us-defense-11635174187) WSJ: Poor preparation and low morale are pressing concerns for Taiwan’s armed forces. One conscript said his basic training mainly involved sweeping leaves, moving spare tires and pulling weeds. 
  <p class="updated_time"> 05:44 AM CT, Oct. 25 </p> 
  [Picking Their Fights](https://www.nytimes.com/2021/10/25/briefing/biden-congress-democrats-spending-bill.html) NYT: Creating temporary government programs could have big political benefits for Democrats. 
  <p class="updated_time"> 05:42 AM CT, Oct. 25 </p> 
@@ -64,8 +74,6 @@ permalink: /charts/news/
  [‘Needle Spiking’ of Women in Britain Stirs Alarm Over New Kind of Assault](https://www.nytimes.com/2021/10/22/world/europe/needle-spiking-uk.html) NYT: Women are reporting being injected with syringes at crowded clubs in a horrifying variation of dropping pills into drinks. “This is a new depth,’’ said a former chief of police. 
  <p class="updated_time"> 04:00 AM CT, Oct. 25 </p> 
  [Inside the Thai Temple Where Tattoos Come to Life](https://www.nytimes.com/2021/10/25/travel/sak-yant-tattoo-thailand.html) NYT: Wat Bang Phra, a temple in central Thailand, is renowned as a center for sak yant, a style of tattoo art believed by some to convey protective powers. 
- <p class="updated_time"> 03:40 AM CT, Oct. 25 </p> 
- [With New Conviction, Hong Kong Uses Security Law to Clamp Down on Speech](https://www.nytimes.com/2021/10/25/world/asia/hong-kong-security-law-speech.html) NYT: An activist, Ma Chun-man, was convicted of inciting secession after, he said, he chanted slogans to test the limits of the law. 
  <p class="updated_time"> 03:13 AM CT, Oct. 25 </p> 
  [Colombian drug lord Otoniel to be extradited to US](https://www.bbc.co.uk/news/world-latin-america-59032300?at_medium=RSS&at_campaign=KARANGA) BBC: US officials had placed a $5m (£3.6m) bounty on the head of Otoniel, Colombia's most wanted drug lord. 
  <p class="updated_time"> 02:53 AM CT, Oct. 25 </p> 
@@ -188,8 +196,6 @@ permalink: /charts/news/
  [India's Farmer Protesters Are Confronting Modi Head-On](https://www.nytimes.com/2021/10/22/world/asia/india-farmers-protests-modi.html) NYT: A year on, protesters against the country’s agricultural laws are taking an increasingly confrontational approach with the country’s leaders. 
  <p class="updated_time"> 04:00 AM CT, Oct. 22 </p> 
  [Flying With Your Pet? It Just Got a Lot More Difficult.](https://www.nytimes.com/2021/10/22/travel/pets-airlines-regulations.html) NYT: A recent C.D.C. rabies rule, pricey pet ‘tickets’ and limits on animals in airline cabins are making traveling with a pet more complicated. 
- <p class="updated_time"> 03:46 AM CT, Oct. 22 </p> 
- [Your Friday Briefing](https://www.nytimes.com/2021/10/21/briefing/climate-change-donald-trump.html) NYT: The geopolitical risks of climate change. 
  <p class="updated_time"> 02:13 AM CT, Oct. 22 </p> 
  [New Zealand Wants a 90% Vaccination Rate. Its Street Gangs May Hold the Key.](https://www.nytimes.com/2021/10/22/world/australia/new-zealand-vaccination-gangs.html) NYT: The country’s leaders have set aside some misgivings and cooperated with gang leaders to reach their communities. 
 
