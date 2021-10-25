@@ -6,6 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 04:43 PM CT, Oct. 25 </p> 
+ [Alec Baldwin was pointing gun at camera in Rust rehearsal, legal papers say](https://www.bbc.co.uk/news/entertainment-arts-59035483?at_medium=RSS&at_campaign=KARANGA) BBC: Legal papers shed light on what happened when actor Alec Baldwin fired a gun with tragic results. 
  <p class="updated_time"> 04:34 PM CT, Oct. 25 </p> 
  [U.S. Halts Aid to Sudan Government After Coup](https://www.nytimes.com/2021/10/25/world/africa/us-aid-frozen-sudan.html) NYT: The Biden administration, calling for immediate restoration of the transition government, froze $700 million in direct aid. 
  <p class="updated_time"> 04:07 PM CT, Oct. 25 </p> 
@@ -42,8 +44,6 @@ permalink: /charts/news/
  [A Jewish Far-Right Pundit Splits the French Jewish Community as He Rises](https://www.nytimes.com/2021/10/25/world/europe/eric-zemmour-france-jewish-bernard-henri-levy.html) NYT: Éric Zemmour, eyeing the presidency, tries to rehabilitate the wartime Vichy regime that collaborated with the Nazis as part of a campaign filled with provocations. 
  <p class="updated_time"> 11:21 AM CT, Oct. 25 </p> 
  [Israeli cabinet backs huge spending plan for Arab minority](https://www.bbc.co.uk/news/world-middle-east-59039911?at_medium=RSS&at_campaign=KARANGA) BBC: Billions of dollars are earmarked for Israel's Arab minority, which has long complained of neglect. 
- <p class="updated_time"> 11:20 AM CT, Oct. 25 </p> 
- [Alec Baldwin was pointing gun at camera in Rust rehearsal, legal papers say](https://www.bbc.co.uk/news/entertainment-arts-59035483?at_medium=RSS&at_campaign=KARANGA) BBC: Legal papers shed light on what happened when actor Alec Baldwin fired a gun with tragic results. 
  <p class="updated_time"> 11:19 AM CT, Oct. 25 </p> 
  [Alec Baldwin film tragedy: What are the rules for guns on movie sets?](https://www.bbc.co.uk/news/entertainment-arts-59035488?at_medium=RSS&at_campaign=KARANGA) BBC: The regulations are under scrutiny after the death of a film-maker on the set of an Alec Baldwin film. 
  <p class="updated_time"> 10:26 AM CT, Oct. 25 </p> 
