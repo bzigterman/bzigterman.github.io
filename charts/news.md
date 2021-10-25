@@ -6,6 +6,10 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 09:05 AM CT, Oct. 25 </p> 
+ [Behold, the Worm Blob and Its Computerized Twin](https://www.nytimes.com/2021/10/25/science/worm-blobs.html) NYT: It wriggles. It pulls. It falls apart and comes back together. It is everything you wish for and everything you fear. 
+ <p class="updated_time"> 09:02 AM CT, Oct. 25 </p> 
+ [Amanda Knox Was Exonerated. That Doesn’t Mean She’s Free.](https://www.nytimes.com/2021/10/22/style/amanda-knox-ten-years-later.html) NYT: Ten years after being cleared of a heinous crime, she is still trying to tell her story on her own terms. 
  <p class="updated_time"> 08:43 AM CT, Oct. 25 </p> 
  [Saudi crown prince suggested killing King Abdullah, ex-official says](https://www.bbc.co.uk/news/world-middle-east-59032931?at_medium=RSS&at_campaign=KARANGA) BBC: Mohammed bin Salman discussed assassinating the late King Abdullah in 2014, Saad al-Jabri says. 
  <p class="updated_time"> 08:43 AM CT, Oct. 25 </p> 
@@ -13,7 +17,7 @@ permalink: /charts/news/
  <p class="updated_time"> 08:38 AM CT, Oct. 25 </p> 
  [Ignoring Sanctions, Russia Renews Broad Cybersurveillance Operation](https://www.nytimes.com/2021/10/25/us/politics/russia-cybersurveillance-biden.html) NYT: The new campaign came only months after President Biden imposed sanctions on Moscow in response to a series of spy operations it had conducted around the world. 
  <p class="updated_time"> 08:35 AM CT, Oct. 25 </p> 
- [Eitan Biran: Crash survivor must be returned to Italy, court rules](https://www.bbc.co.uk/news/world-middle-east-59040375?at_medium=RSS&at_campaign=KARANGA) BBC: Eitan Biran, who survived a cable car crash, should go to Italy after a custody fight, a court rules. 
+ [Eitan Biran: Crash survivor must be returned to Italy, court rules](https://www.bbc.co.uk/news/world-middle-east-59040375?at_medium=RSS&at_campaign=KARANGA) BBC: The six-year-old survivor of a cable car crash must return to his aunt in Italy, a court rules. 
  <p class="updated_time"> 08:18 AM CT, Oct. 25 </p> 
  [Tensions Between Sudan's Military and Civilian Leaders Had Been Growing](https://www.nytimes.com/2021/10/25/world/africa/sudan-military-coup-civilian.html) NYT: Civilians were set to rule the country for the first time in more than three decades. But the military was concerned about losing power. 
  <p class="updated_time"> 08:15 AM CT, Oct. 25 </p> 
@@ -128,8 +132,6 @@ permalink: /charts/news/
  [Why Returning Home For Some Afghans Is as Difficult as Fleeing](https://www.nytimes.com/2021/10/23/world/asia/afghans-india-return-home.html) NYT: Thousands of Afghans who were in India for medical treatment when the country collapsed are now desperate to return, but have no money and no clear route home. 
  <p class="updated_time"> 12:01 PM CT, Oct. 23 </p> 
  [Singapore will require vaccination or daily tests for workplace access next year.](https://www.nytimes.com/2021/10/23/world/singapore-will-require-vaccination-or-daily-tests-for-workplace-access-next-year.html) NYT: NA 
- <p class="updated_time"> 11:11 AM CT, Oct. 23 </p> 
- [Amanda Knox Was Exonerated. That Doesn’t Mean She’s Free.](https://www.nytimes.com/2021/10/22/style/amanda-knox-ten-years-later.html) NYT: Ten years after being cleared of a heinous crime, she is still trying to tell her story on her own terms. 
  <p class="updated_time"> 10:45 AM CT, Oct. 23 </p> 
  [U.S. Struggles With Afghan Evacuees Weeded Out, and Now in Limbo](https://www.nytimes.com/2021/10/23/us/politics/afghan-evacuees-kosovo.html) NYT: No final decisions have been made, but dozens red-flagged for apparent criminal pasts or links to militants have been sent to a base in Kosovo, where their fate is uncertain. 
  <p class="updated_time"> 08:37 AM CT, Oct. 23 </p> 
@@ -190,8 +192,6 @@ permalink: /charts/news/
  [New Zealand Wants a 90% Vaccination Rate. Its Street Gangs May Hold the Key.](https://www.nytimes.com/2021/10/22/world/australia/new-zealand-vaccination-gangs.html) NYT: The country’s leaders have set aside some misgivings and cooperated with gang leaders to reach their communities. 
  <p class="updated_time"> 09:54 PM CT, Oct. 21 </p> 
  [Searching for Australia’s Climate Tipping Point](https://www.nytimes.com/2021/10/21/world/australia/climate-change-tipping-point.html) NYT: The world, and most Australians, are increasingly disappointed by Australia’s lackluster approach to addressing climate change. 
- <p class="updated_time"> 07:58 PM CT, Oct. 21 </p> 
- [Li Yundi Is Detained in China on Suspicion of Prostitution](https://www.nytimes.com/2021/10/21/arts/music/li-yundi-china-prostitution.html) NYT: Li Yundi, a famous performer, was accused of soliciting a woman, state news outlets said. Officials often use such accusations against their enemies. 
 
 
 
