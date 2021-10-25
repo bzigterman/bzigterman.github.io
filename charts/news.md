@@ -6,6 +6,10 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 09:23 AM CT, Oct. 25 </p> 
+ [Singer Ed Sheeran Tests Positive for Coronavirus](https://www.nytimes.com/2021/10/24/arts/music/ed-sheeran-covid-positive.html) NYT: Mr. Sheeran said he would cancel upcoming public appearances while he is “self-isolating and following government guidelines.” 
+ <p class="updated_time"> 09:12 AM CT, Oct. 25 </p> 
+ [German IS woman jailed for Yazidi girl's death in Iraq](https://www.bbc.co.uk/news/world-europe-59036964?at_medium=RSS&at_campaign=KARANGA) BBC: A Munich court jails a jihadi bride for 10 years for the agonising death of a Yazidi girl in 2015. 
  <p class="updated_time"> 09:05 AM CT, Oct. 25 </p> 
  [Behold, the Worm Blob and Its Computerized Twin](https://www.nytimes.com/2021/10/25/science/worm-blobs.html) NYT: It wriggles. It pulls. It falls apart and comes back together. It is everything you wish for and everything you fear. 
  <p class="updated_time"> 09:02 AM CT, Oct. 25 </p> 
@@ -17,7 +21,7 @@ permalink: /charts/news/
  <p class="updated_time"> 08:38 AM CT, Oct. 25 </p> 
  [Ignoring Sanctions, Russia Renews Broad Cybersurveillance Operation](https://www.nytimes.com/2021/10/25/us/politics/russia-cybersurveillance-biden.html) NYT: The new campaign came only months after President Biden imposed sanctions on Moscow in response to a series of spy operations it had conducted around the world. 
  <p class="updated_time"> 08:35 AM CT, Oct. 25 </p> 
- [Eitan Biran: Crash survivor must be returned to Italy, court rules](https://www.bbc.co.uk/news/world-middle-east-59040375?at_medium=RSS&at_campaign=KARANGA) BBC: The six-year-old survivor of a cable car crash must return to his aunt in Italy, a court rules. 
+ [Eitan Biran: Crash survivor must be returned to Italy, court rules](https://www.bbc.co.uk/news/world-middle-east-59040375?at_medium=RSS&at_campaign=KARANGA) BBC: The six-year-old survivor of a cable car crash must be returned to his aunt in Italy, a court rules. 
  <p class="updated_time"> 08:18 AM CT, Oct. 25 </p> 
  [Tensions Between Sudan's Military and Civilian Leaders Had Been Growing](https://www.nytimes.com/2021/10/25/world/africa/sudan-military-coup-civilian.html) NYT: Civilians were set to rule the country for the first time in more than three decades. But the military was concerned about losing power. 
  <p class="updated_time"> 08:15 AM CT, Oct. 25 </p> 
@@ -36,8 +40,6 @@ permalink: /charts/news/
  [As Hong Kong’s Civil Society Buckles, One Group Tries to Hold On](https://www.nytimes.com/2021/10/24/world/asia/hong-kong-civil-society.html) NYT: Unions and other organizations have dissolved after facing pressure under a new security law. The Hong Kong Journalists Association is hoping it can avoid that fate. 
  <p class="updated_time"> 04:45 AM CT, Oct. 25 </p> 
  [James Michael Tyler: Friends stars show 'gratitude' for Gunther actor](https://www.bbc.co.uk/news/entertainment-arts-59032751?at_medium=RSS&at_campaign=KARANGA) BBC: Jennifer Aniston says the show "would not have been the same" without the late James Michael Tyler. 
- <p class="updated_time"> 04:38 AM CT, Oct. 25 </p> 
- [German IS woman jailed for Yazidi girl's death in Iraq](https://www.bbc.co.uk/news/world-europe-59036964?at_medium=RSS&at_campaign=KARANGA) BBC: A Munich court jails a jihadi bride for 10 years for the agonising death of a Yazidi girl in 2015. 
  <p class="updated_time"> 04:30 AM CT, Oct. 25 </p> 
  [Amnesty to close Hong Kong offices over National Security Law](https://www.bbc.co.uk/news/world-asia-59036714?at_medium=RSS&at_campaign=KARANGA) BBC: The human rights organisation says its staff are under threat from the city's national security law. 
  <p class="updated_time"> 04:13 AM CT, Oct. 25 </p> 
@@ -96,8 +98,6 @@ permalink: /charts/news/
  [James Michael Tyler: 11 of Gunther's funniest Friends moments](https://www.bbc.co.uk/news/entertainment-arts-57608696?at_medium=RSS&at_campaign=KARANGA) BBC: A look back at some of the character's highlights following actor James Michael Tyler's death. 
  <p class="updated_time"> 04:10 PM CT, Oct. 24 </p> 
  [She Is Breaking Glass Ceilings in Space, but Facing Sexism on Earth](https://www.nytimes.com/2021/10/23/world/asia/china-space-women-wang-yaping.html) NYT: Sanitary pads and makeup: A Chinese astronaut’s six-month stay aboard the country’s space station has revealed conflicted cultural values toward gender. 
- <p class="updated_time"> 04:05 PM CT, Oct. 24 </p> 
- [Singer Ed Sheeran Tests Positive for Coronavirus](https://www.nytimes.com/2021/10/24/world/ed-sheeran-covid-positive.html) NYT: Mr. Sheeran said he would cancel upcoming public appearances while he is “self-isolating and following government guidelines.” 
  <p class="updated_time"> 04:04 PM CT, Oct. 24 </p> 
  [Your Monday Briefing](https://www.nytimes.com/2021/10/24/briefing/your-monday-briefing.html) NYT: Facebook spreads misinformation in India. 
  <p class="updated_time"> 03:00 PM CT, Oct. 24 </p> 
