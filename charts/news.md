@@ -6,10 +6,10 @@ permalink: /charts/news/
 
 ## World News
 
- <p class="updated_time"> 12:21 AM CT, Oct. 25 </p> 
+ <p class="updated_time"> 12:56 AM CT, Oct. 25 </p> 
+ [Sudanese Officials Detained by Military Amid Fears of a Coup](https://www.nytimes.com/2021/10/25/world/africa/sudan-protests.html) NYT: Demonstrators filled the streets, burning tires and chanting slogans in the capital, Khartoum, and there was a “significant disruption” to the internet. 
+ <p class="updated_time"> 12:44 AM CT, Oct. 25 </p> 
  [Sudan's civilian leaders arrested amid coup reports](https://www.bbc.co.uk/news/world-africa-59033142?at_medium=RSS&at_campaign=KARANGA) BBC: It comes amid rising tensions between the country's military and civilian transitional authorities. 
- <p class="updated_time"> 12:10 AM CT, Oct. 25 </p> 
- [Sudan Rocked by Protests Amid Warnings of a Coup](https://www.nytimes.com/2021/10/25/world/africa/sudan-protests.html) NYT: Demonstrators burned tires and chanted slogans in the capital, Khartoum, and there was a “significant disruption” to the internet. 
  <p class="updated_time"> 11:23 PM CT, Oct. 24 </p> 
  [Your Monday Briefing](https://www.nytimes.com/2021/10/24/briefing/somalia-military-covid-vaccines.html) NYT: A failed playbook in Somalia. 
  <p class="updated_time"> 11:03 PM CT, Oct. 24 </p> 
