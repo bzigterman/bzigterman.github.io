@@ -6,6 +6,10 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 09:02 PM CT, Oct. 24 </p> 
+ [James Michael Tyler: Friends actor dies aged 59](https://www.bbc.co.uk/news/entertainment-arts-59032751?at_medium=RSS&at_campaign=KARANGA) BBC: The actor, who played Gunther on the hit show, had been diagnosed with stage four prostate cancer. 
+ <p class="updated_time"> 08:38 PM CT, Oct. 24 </p> 
+ [Uganda: One killed in bomb attack at Kampala bar](https://www.bbc.co.uk/news/world-africa-59028210?at_medium=RSS&at_campaign=KARANGA) BBC: Islamic State says it was behind the bombing - a week after the UK warned about a possible attack. 
  <p class="updated_time"> 07:53 PM CT, Oct. 24 </p> 
  [Michael Jordan's trainers sell for record $1.47m at auction](https://www.bbc.co.uk/news/world-us-canada-59032756?at_medium=RSS&at_campaign=KARANGA) BBC: The US basketball legend wore the pair of red and white trainers during his first NBA season in 1984. 
  <p class="updated_time"> 07:18 PM CT, Oct. 24 </p> 
@@ -30,8 +34,6 @@ permalink: /charts/news/
  [The Gambia: 'We are crying for justice'](https://www.bbc.co.uk/news/world-africa-59016290?at_medium=RSS&at_campaign=KARANGA) BBC: A report into alleged human rights abuses during the rule of former president Jammeh has been delayed. 
  <p class="updated_time"> 06:02 PM CT, Oct. 24 </p> 
  [Inside the Indonesian cave where oldest animal art was found](https://www.bbc.co.uk/news/world-asia-58988252?at_medium=RSS&at_campaign=KARANGA) BBC: The BBC is given rare access to film the 45,500-year-old images found on an Indonesian island. 
- <p class="updated_time"> 04:57 PM CT, Oct. 24 </p> 
- [James Michael Tyler: Friends' actor dies aged 59](https://www.bbc.co.uk/news/entertainment-arts-59032751?at_medium=RSS&at_campaign=KARANGA) BBC: The US actor, who played Gunther on the show, had been diagnosed with stage four prostate cancer. 
  <p class="updated_time"> 04:24 PM CT, Oct. 24 </p> 
  [James Michael Tyler: 11 of Gunther's funniest Friends moments](https://www.bbc.co.uk/news/entertainment-arts-57608696?at_medium=RSS&at_campaign=KARANGA) BBC: A look back at some of the character's highlights following actor James Michael Tyler's death. 
  <p class="updated_time"> 04:10 PM CT, Oct. 24 </p> 
@@ -68,8 +70,6 @@ permalink: /charts/news/
  [Colombia Captures Drug-Trafficking Kingpin Wanted by U.S.](https://www.wsj.com/articles/colombian-drug-trafficking-kingpin-otoniel-captured-was-wanted-by-u-s-11635091770) WSJ: The country said it has arrested the leader of a rural militia of more than 1,000 fighters who American prosecutors say oversaw a lucrative cocaine-smuggling network to the U.S. 
  <p class="updated_time"> 08:59 AM CT, Oct. 24 </p> 
  [Biden Delays Release of Some J.F.K. Records, Citing Pandemic](https://www.nytimes.com/2021/10/23/world/americas/jfk-assassination-pandemic.html) NYT: The National Archives require additional time to work on redactions, a White House statement on Friday said. 
- <p class="updated_time"> 08:57 AM CT, Oct. 24 </p> 
- [Uganda: Suspected bomb attack in Kampala after terror warnings](https://www.bbc.co.uk/news/world-africa-59028210?at_medium=RSS&at_campaign=KARANGA) BBC: The suspected terrorist bombing comes a week after the UK warned about a possible attack. 
  <p class="updated_time"> 08:51 AM CT, Oct. 24 </p> 
  [German far-right group attempt to block migrants](https://www.bbc.co.uk/news/world-europe-59024490?at_medium=RSS&at_campaign=KARANGA) BBC: Police have stopped vigilantes armed with batons, pepper spray and a machete at the Polish border. 
  <p class="updated_time"> 08:43 AM CT, Oct. 24 </p> 
