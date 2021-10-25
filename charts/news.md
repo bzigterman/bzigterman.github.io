@@ -6,12 +6,12 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 03:53 AM CT, Oct. 25 </p> 
+ [Sudan's civilian leaders arrested amid coup reports](https://www.bbc.co.uk/news/world-africa-59033142?at_medium=RSS&at_campaign=KARANGA) BBC: It comes amid rising tensions between the country's military and civilian transitional authorities. 
+ <p class="updated_time"> 03:52 AM CT, Oct. 25 </p> 
+ [Sudanese Prime Minister Abdalla Hamdok Is Detained in Apparent Coup](https://www.nytimes.com/live/2021/10/25/world/sudan-coup/coup) NYT: Demonstrators filled the streets of the capital, Khartoum, burning tires and chanting slogans while internet access was sharply curtailed. 
  <p class="updated_time"> 03:40 AM CT, Oct. 25 </p> 
  [With New Conviction, Hong Kong Uses Security Law to Clamp Down on Speech](https://www.nytimes.com/2021/10/25/world/asia/hong-kong-security-law-speech.html) NYT: An activist, Ma Chun-man, was convicted of inciting secession after, he said, he chanted slogans to test the limits of the law. 
- <p class="updated_time"> 03:34 AM CT, Oct. 25 </p> 
- [Sudan's civilian leaders arrested amid coup reports](https://www.bbc.co.uk/news/world-africa-59033142?at_medium=RSS&at_campaign=KARANGA) BBC: It comes amid rising tensions between the country's military and civilian transitional authorities. 
- <p class="updated_time"> 03:29 AM CT, Oct. 25 </p> 
- [Sudanese Prime Minister Abdalla Hamdok Is Detained in Apparent Coup](https://www.nytimes.com/live/2021/10/25/world/sudan-coup/coup) NYT: Demonstrators filled the streets, burning tires and chanting slogans in the capital, Khartoum, and there was a “significant disruption” to the internet. 
  <p class="updated_time"> 03:29 AM CT, Oct. 25 </p> 
  [James Michael Tyler: Friends stars show 'gratitude' for Gunther actor](https://www.bbc.co.uk/news/entertainment-arts-59032751?at_medium=RSS&at_campaign=KARANGA) BBC: Jennifer Aniston says the show "would not have been the same" without the late James Michael Tyler. 
  <p class="updated_time"> 03:25 AM CT, Oct. 25 </p> 
