@@ -6,6 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 06:09 AM CT, Oct. 25 </p> 
+ [‘Forced to sell my baby’ - Afghan families face extreme poverty](https://www.bbc.co.uk/news/world-asia-59034650?at_medium=RSS&at_campaign=KARANGA) BBC: The humanitarian crisis in Afghanistan could cost millions of lives if aid is not provided, the UN warns. 
  <p class="updated_time"> 06:01 AM CT, Oct. 25 </p> 
  [Tensions Between Sudan's Military and Civilian Leaders Had Been Growing](https://www.nytimes.com/2021/10/25/world/africa/sudan-military-coup-civilian.html) NYT: Civilians were set to rule the country for the first time in more than three decades. But the military was concerned about losing power. 
  <p class="updated_time"> 05:58 AM CT, Oct. 25 </p> 
@@ -142,8 +144,6 @@ permalink: /charts/news/
  [Israel Accuses 6 Palestinian Rights Groups of Terrorism](https://www.nytimes.com/2021/10/22/world/middleeast/israel-palestinian-rights-groups.html) NYT: The Defense Ministry said the groups work for leftist militants. Critics said the charge was aimed at quelling scrutiny of Israeli rights abuses. 
  <p class="updated_time"> 07:36 PM CT, Oct. 22 </p> 
  [Illegal Border Crossings Soar to Record High, New Data Shows](https://www.nytimes.com/2021/10/22/us/politics/border-crossings-immigration-record-high.html) NYT: Migrants were encountered 1.7 million times in the last 12 months, the highest number of illegal crossings recorded since at least 1960. 
- <p class="updated_time"> 05:55 PM CT, Oct. 22 </p> 
- [Kerala floods: Our son was buried by mud - we couldn't save him](https://www.bbc.co.uk/news/world-asia-india-59017142?at_medium=RSS&at_campaign=KARANGA) BBC: The walls of three-year-old Sachu's house collapsed when it was hit by heavy rain and flooding in Kerala. 
  <p class="updated_time"> 04:59 PM CT, Oct. 22 </p> 
  [Alberta Investigation of Environmental Groups Falls Flat](https://www.nytimes.com/2021/10/22/world/canada/alberta-energy-inquiry.html) NYT: The report from a provincial inquiry into “anti-Alberta energy campaigns” didn’t back up Premier Jason Kenney’s allegations. 
  <p class="updated_time"> 03:18 PM CT, Oct. 22 </p> 
