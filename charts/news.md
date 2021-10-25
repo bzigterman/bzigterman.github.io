@@ -6,6 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 04:27 AM CT, Oct. 25 </p> 
+ [James Michael Tyler: Friends stars show 'gratitude' for Gunther actor](https://www.bbc.co.uk/news/entertainment-arts-59032751?at_medium=RSS&at_campaign=KARANGA) BBC: Jennifer Aniston says the show "would not have been the same" without the late James Michael Tyler. 
  <p class="updated_time"> 04:13 AM CT, Oct. 25 </p> 
  [‘Needle Spiking’ of Women in Britain Stirs Alarm Over New Kind of Assault](https://www.nytimes.com/2021/10/22/world/europe/needle-spiking-uk.html) NYT: Women are reporting being injected with syringes at crowded clubs in a horrifying variation of dropping pills into drinks. “This is a new depth,’’ said a former chief of police. 
  <p class="updated_time"> 04:00 AM CT, Oct. 25 </p> 
@@ -20,16 +22,12 @@ permalink: /charts/news/
  [Sudanese Prime Minister Abdalla Hamdok Is Detained in Apparent Coup](https://www.nytimes.com/live/2021/10/25/world/sudan-coup/coup) NYT: Demonstrators filled the streets of the capital, Khartoum, burning tires and chanting slogans while internet access was sharply curtailed. 
  <p class="updated_time"> 03:40 AM CT, Oct. 25 </p> 
  [With New Conviction, Hong Kong Uses Security Law to Clamp Down on Speech](https://www.nytimes.com/2021/10/25/world/asia/hong-kong-security-law-speech.html) NYT: An activist, Ma Chun-man, was convicted of inciting secession after, he said, he chanted slogans to test the limits of the law. 
- <p class="updated_time"> 03:29 AM CT, Oct. 25 </p> 
- [James Michael Tyler: Friends stars show 'gratitude' for Gunther actor](https://www.bbc.co.uk/news/entertainment-arts-59032751?at_medium=RSS&at_campaign=KARANGA) BBC: Jennifer Aniston says the show "would not have been the same" without the late James Michael Tyler. 
  <p class="updated_time"> 03:25 AM CT, Oct. 25 </p> 
  [In India, Facebook Struggles to Combat Misinformation and Hate Speech ](https://www.nytimes.com/2021/10/23/technology/facebook-india-misinformation.html) NYT: Internal documents show a struggle with misinformation, hate speech and celebrations of violence in the country, the company’s biggest market. 
  <p class="updated_time"> 03:13 AM CT, Oct. 25 </p> 
  [Colombian drug lord Otoniel to be extradited to US](https://www.bbc.co.uk/news/world-latin-america-59032300?at_medium=RSS&at_campaign=KARANGA) BBC: US officials had placed a $5m (£3.6m) bounty on the head of Otoniel, Colombia's most wanted drug lord. 
  <p class="updated_time"> 02:30 AM CT, Oct. 25 </p> 
  [Afghanistan facing desperate food crisis, UN warns](https://www.bbc.co.uk/news/world-asia-59011501?at_medium=RSS&at_campaign=KARANGA) BBC: The UN World Food Programme says half the population now faces acute food insecurity. 
- <p class="updated_time"> 02:22 AM CT, Oct. 25 </p> 
- [The American envoy to Sudan was there on Saturday as protests gained traction.](https://www.nytimes.com/2021/10/25/world/africa/the-american-envoy-to-sudan-was-there-on-saturday-as-protests-gained-traction.html) NYT: NA 
  <p class="updated_time"> 02:00 AM CT, Oct. 25 </p> 
  [Russia Challenges Biden Again With Broad Cybersurveillance Operation](https://www.nytimes.com/2021/10/25/us/politics/russia-cybersurveillance-biden.html) NYT: The new campaign came only months after President Biden imposed sanctions on Moscow in response to a series of spy operations it had conducted around the world. 
  <p class="updated_time"> 01:30 AM CT, Oct. 25 </p> 
@@ -190,6 +188,8 @@ permalink: /charts/news/
  [New Zealand Wants a 90% Vaccination Rate. Its Street Gangs May Hold the Key.](https://www.nytimes.com/2021/10/22/world/australia/new-zealand-vaccination-gangs.html) NYT: The country’s leaders have set aside some misgivings and cooperated with gang leaders to reach their communities. 
  <p class="updated_time"> 09:54 PM CT, Oct. 21 </p> 
  [Searching for Australia’s Climate Tipping Point](https://www.nytimes.com/2021/10/21/world/australia/climate-change-tipping-point.html) NYT: The world, and most Australians, are increasingly disappointed by Australia’s lackluster approach to addressing climate change. 
+ <p class="updated_time"> 09:25 PM CT, Oct. 21 </p> 
+ [Haitian Kidnappers Threaten to Kill Missionaries](https://www.nytimes.com/2021/10/21/world/americas/haiti-missionary-kidnapping-threat.html) NYT: As negotiators worked to secure the release of 17 people associated with an Ohio-based missionary group, their kidnappers released a video threatening their lives. 
  <p class="updated_time"> 07:58 PM CT, Oct. 21 </p> 
  [Li Yundi Is Detained in China on Suspicion of Prostitution](https://www.nytimes.com/2021/10/21/arts/music/li-yundi-china-prostitution.html) NYT: Li Yundi, a famous performer, was accused of soliciting a woman, state news outlets said. Officials often use such accusations against their enemies. 
  <p class="updated_time"> 05:19 PM CT, Oct. 21 </p> 
