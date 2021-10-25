@@ -6,10 +6,14 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 05:34 AM CT, Oct. 25 </p> 
+ [Sudanese Prime Minister Abdalla Hamdok Is Detained in Apparent Coup](https://www.nytimes.com/live/2021/10/25/world/sudan-coup/coup) NYT: Demonstrators filled the streets of the capital, Khartoum, burning tires and chanting slogans, while internet access was sharply curtailed. 
+ <p class="updated_time"> 05:30 AM CT, Oct. 25 </p> 
+ [Sudan's military dissolves civilian government and arrests leaders](https://www.bbc.co.uk/news/world-africa-59033142?at_medium=RSS&at_campaign=KARANGA) BBC: A leading general blames political infighting, as protesters in Khartoum denounce a coup. 
+ <p class="updated_time"> 05:18 AM CT, Oct. 25 </p> 
+ [Traveling Through a Divided Israel](https://www.nytimes.com/2021/10/25/world/middleeast/israel-jews-palestinians-journey.html) NYT: Two Times journalists drive the length of Israel to discover what it means to be Israeli today. They meet a kaleidoscope of people, searching for belonging but far apart on how to find it. 
  <p class="updated_time"> 04:57 AM CT, Oct. 25 </p> 
  [As Hong Kong’s Civil Society Buckles, One Group Tries to Hold On](https://www.nytimes.com/2021/10/24/world/asia/hong-kong-civil-society.html) NYT: Unions and other organizations have dissolved after facing pressure under a new security law. The Hong Kong Journalists Association is hoping it can avoid that fate. 
- <p class="updated_time"> 04:47 AM CT, Oct. 25 </p> 
- [Climate change: Greenhouse gas concentrations reached new high in 2020](https://www.bbc.co.uk/news/science-environment-59016075?at_medium=RSS&at_campaign=KARANGA) BBC: Despite the pandemic, atmospheric levels of CO2 and methane once more broke records last year. 
  <p class="updated_time"> 04:45 AM CT, Oct. 25 </p> 
  [James Michael Tyler: Friends stars show 'gratitude' for Gunther actor](https://www.bbc.co.uk/news/entertainment-arts-59032751?at_medium=RSS&at_campaign=KARANGA) BBC: Jennifer Aniston says the show "would not have been the same" without the late James Michael Tyler. 
  <p class="updated_time"> 04:38 AM CT, Oct. 25 </p> 
@@ -19,15 +23,9 @@ permalink: /charts/news/
  <p class="updated_time"> 04:13 AM CT, Oct. 25 </p> 
  [‘Needle Spiking’ of Women in Britain Stirs Alarm Over New Kind of Assault](https://www.nytimes.com/2021/10/22/world/europe/needle-spiking-uk.html) NYT: Women are reporting being injected with syringes at crowded clubs in a horrifying variation of dropping pills into drinks. “This is a new depth,’’ said a former chief of police. 
  <p class="updated_time"> 04:00 AM CT, Oct. 25 </p> 
- [Traveling Through a Divided Israel](https://www.nytimes.com/2021/10/25/world/middleeast/israel-jews-palestinians-journey.html) NYT: Two Times journalists drive the length of Israel to discover what it means to be Israeli today. They meet a kaleidoscope of people, searching for belonging but far apart on how to find it. 
- <p class="updated_time"> 04:00 AM CT, Oct. 25 </p> 
  [Inside the Thai Temple Where Tattoos Come to Life](https://www.nytimes.com/2021/10/25/travel/sak-yant-tattoo-thailand.html) NYT: Wat Bang Phra, a temple in central Thailand, is renowned as a center for sak yant, a style of tattoo art believed by some to convey protective powers. 
  <p class="updated_time"> 04:00 AM CT, Oct. 25 </p> 
  [How 4 Weeks of U.S. Paid Leave Would Compare With the Rest of the World](https://www.nytimes.com/2021/10/25/upshot/paid-leave-democrats.html) NYT: The U.S. is one of six countries with no national paid leave. The Democrats have cut their plan to four weeks, which would still make it an outlier. 
- <p class="updated_time"> 03:53 AM CT, Oct. 25 </p> 
- [Sudan's civilian leaders arrested amid coup reports](https://www.bbc.co.uk/news/world-africa-59033142?at_medium=RSS&at_campaign=KARANGA) BBC: It comes amid rising tensions between the country's military and civilian transitional authorities. 
- <p class="updated_time"> 03:52 AM CT, Oct. 25 </p> 
- [Sudanese Prime Minister Abdalla Hamdok Is Detained in Apparent Coup](https://www.nytimes.com/live/2021/10/25/world/sudan-coup/coup) NYT: Demonstrators filled the streets of the capital, Khartoum, burning tires and chanting slogans while internet access was sharply curtailed. 
  <p class="updated_time"> 03:40 AM CT, Oct. 25 </p> 
  [With New Conviction, Hong Kong Uses Security Law to Clamp Down on Speech](https://www.nytimes.com/2021/10/25/world/asia/hong-kong-security-law-speech.html) NYT: An activist, Ma Chun-man, was convicted of inciting secession after, he said, he chanted slogans to test the limits of the law. 
  <p class="updated_time"> 03:25 AM CT, Oct. 25 </p> 
