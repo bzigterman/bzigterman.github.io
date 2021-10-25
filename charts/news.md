@@ -6,12 +6,14 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 06:01 AM CT, Oct. 25 </p> 
+ [Tensions Between Sudan's Military and Civilian Leaders Had Been Growing](https://www.nytimes.com/2021/10/25/world/africa/sudan-military-coup-civilian.html) NYT: Civilians were set to rule the country for the first time in more than three decades. But the military was concerned about losing power. 
+ <p class="updated_time"> 05:58 AM CT, Oct. 25 </p> 
+ [Sudan's military dissolves civilian government and arrests leaders](https://www.bbc.co.uk/news/world-africa-59033142?at_medium=RSS&at_campaign=KARANGA) BBC: A leading general blames political infighting, as protesters in Khartoum denounce a coup. 
  <p class="updated_time"> 05:44 AM CT, Oct. 25 </p> 
  [Picking Their Fights](https://www.nytimes.com/2021/10/25/briefing/biden-congress-democrats-spending-bill.html) NYT: Creating temporary government programs could have big political benefits for Democrats. 
  <p class="updated_time"> 05:34 AM CT, Oct. 25 </p> 
  [Sudanese Prime Minister Abdalla Hamdok Is Detained in Apparent Coup](https://www.nytimes.com/live/2021/10/25/world/sudan-coup/coup) NYT: Demonstrators filled the streets of the capital, Khartoum, burning tires and chanting slogans, while internet access was sharply curtailed. 
- <p class="updated_time"> 05:30 AM CT, Oct. 25 </p> 
- [Sudan's military dissolves civilian government and arrests leaders](https://www.bbc.co.uk/news/world-africa-59033142?at_medium=RSS&at_campaign=KARANGA) BBC: A leading general blames political infighting, as protesters in Khartoum denounce a coup. 
  <p class="updated_time"> 05:18 AM CT, Oct. 25 </p> 
  [Traveling Through a Divided Israel](https://www.nytimes.com/2021/10/25/world/middleeast/israel-jews-palestinians-journey.html) NYT: Two Times journalists drive the length of Israel to discover what it means to be Israeli today. They meet a kaleidoscope of people, searching for belonging but far apart on how to find it. 
  <p class="updated_time"> 04:57 AM CT, Oct. 25 </p> 
@@ -150,8 +152,6 @@ permalink: /charts/news/
  [U.S. Warns of Efforts by China to Collect Genetic Data](https://www.nytimes.com/2021/10/22/us/politics/china-genetic-data-collection.html) NYT: The National Counterintelligence and Security Center said American companies needed to better secure critical technologies as Beijing seeks to dominate the so-called bioeconomy. 
  <p class="updated_time"> 03:02 PM CT, Oct. 22 </p> 
  [U.S. Ramps Up Covid Boosters as Poor Nations Await First Doses](https://www.nytimes.com/2021/10/22/world/covid-vaccine-disparities.html) NYT: The booster program underlines the disparity in vaccine access, with wealthier nations accounting for more than three-quarters of all doses administered so far. 
- <p class="updated_time"> 02:31 PM CT, Oct. 22 </p> 
- [World's Health Care Workers Near Breaking Point, W.H.O warns](https://www.nytimes.com/2021/10/21/world/health-care-workers-burnout-who.html) NYT: The agency’s leaders also urged wealthy nations to take the lead in transferring doses of vaccines to the global South. 
  <p class="updated_time"> 02:01 PM CT, Oct. 22 </p> 
  [New Zealand announces a plan to move away from lockdowns.](https://www.nytimes.com/2021/10/22/world/new-zealand-announces-a-plan-to-move-away-from-lockdowns.html) NYT: NA 
  <p class="updated_time"> 01:54 PM CT, Oct. 22 </p> 
