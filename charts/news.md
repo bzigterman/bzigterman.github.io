@@ -6,6 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 11:48 PM CT, Oct. 24 </p> 
+ [Sudan: Senior civilian leaders arrested by armed men - reports](https://www.bbc.co.uk/news/world-africa-59033142?at_medium=RSS&at_campaign=KARANGA) BBC: It comes amid rising tensions between the country's military and civilian transitional authorities. 
  <p class="updated_time"> 11:24 PM CT, Oct. 24 </p> 
  [Sudan Rocked by Protests Amid Warnings of a Coup](https://www.nytimes.com/2021/10/25/world/africa/sudan-protests.html) NYT: Demonstrators burned tires and chanted slogans in the capital, Khartoum, and there was a “significant disruption” to the internet. 
  <p class="updated_time"> 11:23 PM CT, Oct. 24 </p> 
@@ -52,8 +54,6 @@ permalink: /charts/news/
  [Your Monday Briefing](https://www.nytimes.com/2021/10/24/briefing/your-monday-briefing.html) NYT: Facebook spreads misinformation in India. 
  <p class="updated_time"> 04:02 PM CT, Oct. 24 </p> 
  [As Hong Kong’s Civil Society Buckles, One Group Tries to Hold On](https://www.nytimes.com/2021/10/24/world/asia/hong-kong-civil-society.html) NYT: Unions and other organizations have dissolved after facing pressure under a new security law. The Hong Kong Journalists Association is hoping it can avoid that fate. 
- <p class="updated_time"> 03:15 PM CT, Oct. 24 </p> 
- [Facebook whistleblower meets safe content campaigner](https://www.bbc.co.uk/news/uk-59032290?at_medium=RSS&at_campaign=KARANGA) BBC: Molly, 14, died after viewing graphic content on Instagram, which is owned by Facebook. 
  <p class="updated_time"> 03:00 PM CT, Oct. 24 </p> 
  [Struggles over vaccine mandates, the death of Colin Powell: the week in Covid news.](https://www.nytimes.com/2021/10/24/world/americas/struggles-over-vaccine-mandates-the-death-of-colin-powell-the-week-in-covid-news.html) NYT: NA 
  <p class="updated_time"> 02:02 PM CT, Oct. 24 </p> 
