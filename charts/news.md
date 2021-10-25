@@ -6,6 +6,22 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 07:53 PM CT, Oct. 24 </p> 
+ [Michael Jordan's trainers sell for record $1.47m at auction](https://www.bbc.co.uk/news/world-us-canada-59032756?at_medium=RSS&at_campaign=KARANGA) BBC: The US basketball legend wore the pair of red and white trainers during his first NBA season in 1984. 
+ <p class="updated_time"> 07:18 PM CT, Oct. 24 </p> 
+ [Please Don’t Feed the Whale Sharks? Fishing Town Says It Must, to Prosper.](https://www.nytimes.com/2021/10/24/world/asia/philippines-whale-shark-tourism.html) NYT: The chance to swim with the world’s biggest fish drew tourists to a Philippines town, but conservation groups denounce the hand-feeding that keeps the gentle creatures around. 
+ <p class="updated_time"> 07:02 PM CT, Oct. 24 </p> 
+ [The bumpy road to India's electric car revolution](https://www.bbc.co.uk/news/world-asia-india-58977080?at_medium=RSS&at_campaign=KARANGA) BBC: New investments and incentives are making electric vehicles more viable. But is India ready for the change? 
+ <p class="updated_time"> 07:02 PM CT, Oct. 24 </p> 
+ [Tigray crisis: How the West has fallen out with Ethiopia's PM](https://www.bbc.co.uk/news/world-africa-58967302?at_medium=RSS&at_campaign=KARANGA) BBC: The EU and US threaten punitive action against the government and rebels as conflict escalates. 
+ <p class="updated_time"> 07:00 PM CT, Oct. 24 </p> 
+ [Climate change: The environmental disasters we've almost fixed](https://www.bbc.co.uk/news/science-environment-58874831?at_medium=RSS&at_campaign=KARANGA) BBC: From acid rain to the ozone hole: Can we learn from the environmental "success stories" of the past? 
+ <p class="updated_time"> 06:59 PM CT, Oct. 24 </p> 
+ [How China’s past shapes Xi's thinking - and his view of the world](https://www.bbc.co.uk/news/world-asia-58969969?at_medium=RSS&at_campaign=KARANGA) BBC: Heightened tensions with Taiwan has the world wondering where President Xi Jinping sees China on the world stage. 
+ <p class="updated_time"> 06:58 PM CT, Oct. 24 </p> 
+ [Living with the world's oldest mummies](https://www.bbc.co.uk/news/world-latin-america-58639748?at_medium=RSS&at_campaign=KARANGA) BBC: In a town in northern Chile it is not unusual for residents to stumble across ancient mummies. 
+ <p class="updated_time"> 06:57 PM CT, Oct. 24 </p> 
+ [Is internet addiction a growing problem?](https://www.bbc.co.uk/news/business-58979895?at_medium=RSS&at_campaign=KARANGA) BBC: Experts warn that the pandemic lockdowns have made more people vulnerable. 
  <p class="updated_time"> 06:22 PM CT, Oct. 24 </p> 
  [Cases Grow in Germany as Restrictions Set to Expire](https://www.nytimes.com/2021/10/24/world/germany-covid-surge.html) NYT: Infections have increased by 57 percent in the past two weeks, while deaths on average in the same period have increased by 11 percent. 
  <p class="updated_time"> 06:09 PM CT, Oct. 24 </p> 
@@ -36,8 +52,6 @@ permalink: /charts/news/
  [Colombian drug lord Otoniel to be extradited to US](https://www.bbc.co.uk/news/world-latin-america-59032300?at_medium=RSS&at_campaign=KARANGA) BBC: US officials had placed a $5m (£3.6m) bounty on the head of Otoniel, Colombia's most wanted drug lord. 
  <p class="updated_time"> 01:51 PM CT, Oct. 24 </p> 
  [Kenyan Olympian's Husband Is Arrested in Her Killing ](https://www.nytimes.com/2021/10/24/world/africa/agnes-jebet-tirop-stabbing-arrest.html) NYT: Agnes Jebet Tirop, 25, a rising running star, was stabbed to death in her home this month. Her husband has been arrested. 
- <p class="updated_time"> 01:19 PM CT, Oct. 24 </p> 
- [Please Don’t Feed the Whale Sharks? Fishing Town Says It Must, to Prosper.](https://www.nytimes.com/2021/10/24/world/asia/philippines-whale-shark-tourism.html) NYT: The chance to swim with the world’s biggest fish drew tourists to a Philippines town, but conservation groups denounce the hand-feeding that keeps the gentle creatures around. 
  <p class="updated_time"> 01:13 PM CT, Oct. 24 </p> 
  [Nazanin Zaghari-Ratcliffe: Husband begins new hunger strike in London](https://www.bbc.co.uk/news/uk-59030936?at_medium=RSS&at_campaign=KARANGA) BBC: Aid worker Nazanin Zaghari-Ratcliffe is distraught at the prospect of returning to jail, her husband says. 
  <p class="updated_time"> 01:12 PM CT, Oct. 24 </p> 
@@ -50,8 +64,8 @@ permalink: /charts/news/
  [Kobe Bryant's wife Vanessa first heard of his death online](https://www.bbc.co.uk/news/world-us-canada-59024491?at_medium=RSS&at_campaign=KARANGA) BBC: Vanessa Bryant said she learned about the death of her husband by seeing "RIP Kobe" notifications. 
  <p class="updated_time"> 10:29 AM CT, Oct. 24 </p> 
  [At the World Expo Pavilions, Future Visions Combine Past and Present](https://www.nytimes.com/2021/10/24/world/world-expo-pavilions.html) NYT: Conversations with three figures integral to the conception of the expo. 
- <p class="updated_time"> 10:14 AM CT, Oct. 24 </p> 
- [Saudi Arabia Pledges 'Net Zero' Carbon Emissions by 2060](https://www.wsj.com/articles/saudi-arabia-pledges-net-zero-carbon-emissions-by-2060-11634979405) WSJ: The goal, which comes ahead of the COP26 climate talks, doesn’t include emissions from the massive amounts of oil the kingdom exports to other countries. 
+ <p class="updated_time"> 09:01 AM CT, Oct. 24 </p> 
+ [Colombia Captures Drug-Trafficking Kingpin Wanted by U.S.](https://www.wsj.com/articles/colombian-drug-trafficking-kingpin-otoniel-captured-was-wanted-by-u-s-11635091770) WSJ: The country said it has arrested the leader of a rural militia of more than 1,000 fighters who American prosecutors say oversaw a lucrative cocaine-smuggling network to the U.S. 
  <p class="updated_time"> 08:59 AM CT, Oct. 24 </p> 
  [Biden Delays Release of Some J.F.K. Records, Citing Pandemic](https://www.nytimes.com/2021/10/23/world/americas/jfk-assassination-pandemic.html) NYT: The National Archives require additional time to work on redactions, a White House statement on Friday said. 
  <p class="updated_time"> 08:57 AM CT, Oct. 24 </p> 
@@ -62,6 +76,10 @@ permalink: /charts/news/
  [Endemic Covid-19 Has Arrived in Portugal. This Is What It Looks Like.](https://www.wsj.com/articles/endemic-covid-19-has-arrived-in-portugal-this-is-what-it-looks-like-11635073461) WSJ: The country has one of the world’s highest coronavirus vaccination rates. Its cautious return to normality is being closely watched by other countries as their inoculations inch higher. 
  <p class="updated_time"> 07:59 AM CT, Oct. 24 </p> 
  [Halyna Hutchins: Vigil held in New Mexico for cinematographer](https://www.bbc.co.uk/news/world-us-canada-59029509?at_medium=RSS&at_campaign=KARANGA) BBC: The cinematographer was fatally shot by a prop gun while filming for western movie Rust. 
+ <p class="updated_time"> 07:10 AM CT, Oct. 24 </p> 
+ [Turkey's Erdogan Threatens to Expel 10 Western Ambassadors, Including U.S. Envoy](https://www.wsj.com/articles/turkeys-erdogan-threatens-to-expel-10-western-ambassadors-including-u-s-envoy-11635088244) WSJ: The diplomats had recently called for the release of a Turkish philanthropist who has been jailed since 2017. If carried through, their expulsion would mark a sharp deterioration in relations between Turkey and the West. 
+ <p class="updated_time"> 06:11 AM CT, Oct. 24 </p> 
+ [French Nationalist TV Host Éric Zemmour, Inspired by Trump, Surges in Polls](https://www.wsj.com/articles/french-nationalist-tv-host-eric-zemmour-inspired-by-trump-surges-in-polls-11635088315) WSJ: Far-right pundit explores a presidential run in France, assembling a new electoral coalition that is siphoning off support from longtime standard-bearer Marine Le Pen and shaking up French politics. 
  <p class="updated_time"> 05:00 AM CT, Oct. 24 </p> 
  [Covid-19 Sets Back China's Plans to Rebalance Its Economy](https://www.wsj.com/articles/covid-19-sets-back-chinas-plans-to-rebalance-its-economy-11635084000) WSJ: The pandemic-era boom in demand for Chinese goods boosted exports but made the country even more reliant on trade, leaving its economy vulnerable. 
  <p class="updated_time"> 04:30 AM CT, Oct. 24 </p> 
@@ -73,23 +91,11 @@ permalink: /charts/news/
  <p class="updated_time"> 04:00 AM CT, Oct. 24 </p> 
  [I Was Hacked. The Spyware Used Against Me Makes Us All Vulnerable.](https://www.nytimes.com/2021/10/24/insider/hacking-nso-surveillance.html) NYT: Invasive hacking software sold to countries to fight terrorism is easily abused. Researchers say my phone was hacked twice, probably by Saudi Arabia. 
  <p class="updated_time"> 02:00 AM CT, Oct. 24 </p> 
- [Long Arm of Russian Law Reaches Obscure Siberian Church](https://www.nytimes.com/2021/10/24/world/europe/russia-church-repression-siberia.html) NYT: The arrest of the leader of a small religious group reveals that Russian repression reaches even to the depths of the Siberian forest. 
- <p class="updated_time"> 01:36 AM CT, Oct. 24 </p> 
- [Picasso masterpieces fetch nearly $110m at Las Vegas auction](https://www.bbc.co.uk/news/world-us-canada-59026220?at_medium=RSS&at_campaign=KARANGA) BBC: The works, which were owned by MGM Resorts, featured in the Picasso Restaurant at the Bellagio Hotel. 
+ [Religious Leader's Arrest Reveals Long Arm of Russian Law](https://www.nytimes.com/2021/10/24/world/europe/russia-church-repression-siberia.html) NYT: The arrest of the leader of a small religious group reveals that Russian repression reaches even to the depths of the Siberian forest. 
  <p class="updated_time"> 10:49 PM CT, Oct. 23 </p> 
  [In India, Facebook Struggles to Combat Misinformation and Hate Speech ](https://www.nytimes.com/2021/10/23/technology/facebook-india-misinformation.html) NYT: Internal documents show a struggle with misinformation, hate speech and celebrations of violence in the country, the company’s biggest market. 
  <p class="updated_time"> 08:20 PM CT, Oct. 23 </p> 
  [Qatar Voices Frustration Over U.S. Response to Drone Request](https://www.wsj.com/articles/qatar-voices-frustration-over-u-s-response-to-request-to-buy-drones-11635052841) WSJ: The U.S. ally is voicing frustration with the Biden administration for slow-walking a request to buy armed drones from the U.S. 
- <p class="updated_time"> 06:20 PM CT, Oct. 23 </p> 
- [Why Kenyan churches are banning politicians from pulpits](https://www.bbc.co.uk/news/world-africa-58666703?at_medium=RSS&at_campaign=KARANGA) BBC: Churches seek to wrestle back control of pulpits from politicians after years of cosy relations. 
- <p class="updated_time"> 06:19 PM CT, Oct. 23 </p> 
- [Iran: The painful choices of being pregnant and unmarried](https://www.bbc.co.uk/news/world-middle-east-58957045?at_medium=RSS&at_campaign=KARANGA) BBC: Abortion or emigration are often considered the only way out by cohabiting couples who conceive. 
- <p class="updated_time"> 06:17 PM CT, Oct. 23 </p> 
- [Fears of new arms race after Chinese missile test](https://www.bbc.co.uk/news/world-asia-59001850?at_medium=RSS&at_campaign=KARANGA) BBC: China's firing of a new nuclear-capable missile carried on a glider has raised questions about a US response. 
- <p class="updated_time"> 06:14 PM CT, Oct. 23 </p> 
- [What's next after the release of Meng Wanzhou?](https://www.bbc.co.uk/news/world-us-canada-58916557?at_medium=RSS&at_campaign=KARANGA) BBC: Ms Meng and the two Canadian Michaels are home - but will the relations with China ever be the same? 
- <p class="updated_time"> 06:11 PM CT, Oct. 23 </p> 
- [Your pictures on the theme of minimalism](https://www.bbc.co.uk/news/in-pictures-58999674?at_medium=RSS&at_campaign=KARANGA) BBC: A selection of striking images from our readers around the world. 
  <p class="updated_time"> 04:10 PM CT, Oct. 23 </p> 
  [Erdogan Threatens to Expel 10 Western Ambassadors](https://www.nytimes.com/2021/10/23/world/europe/erdogan-turkey-ambassadors-persona-non-grata.html) NYT: The move follows a statement from the envoys demanding the release of a prominent philanthropist jailed since 2017. 
  <p class="updated_time"> 01:11 PM CT, Oct. 23 </p> 
@@ -104,16 +110,12 @@ permalink: /charts/news/
  [Amanda Knox Was Exonerated. That Doesn’t Mean She’s Free.](https://www.nytimes.com/2021/10/22/style/amanda-knox-ten-years-later.html) NYT: Ten years after being cleared of a heinous crime, she is still trying to tell her story on her own terms. 
  <p class="updated_time"> 10:45 AM CT, Oct. 23 </p> 
  [U.S. Struggles With Afghan Evacuees Weeded Out, and Now in Limbo](https://www.nytimes.com/2021/10/23/us/politics/afghan-evacuees-kosovo.html) NYT: No final decisions have been made, but dozens red-flagged for apparent criminal pasts or links to militants have been sent to a base in Kosovo, where their fate is uncertain. 
- <p class="updated_time"> 10:12 AM CT, Oct. 23 </p> 
- [Facebook Apps Are Used to Spread Hate in India, Documents Show](https://www.wsj.com/articles/facebook-services-are-used-to-spread-religious-hatred-in-india-internal-documents-show-11635016354) WSJ: Company researchers identified calls to violence that coincided with the 2020 riots in Delhi that left 53 dead. 
  <p class="updated_time"> 08:37 AM CT, Oct. 23 </p> 
  [Cricket's T20 World Cup:  Pakistan and India Face Off](https://www.nytimes.com/2021/10/23/world/asia/cricket-india-pakistan.html) NYT: It’s one of the greatest rivalries in sports, when war off the field allows it — a contest of national identities that will be renewed this Sunday in a World Cup match. 
  <p class="updated_time"> 07:23 AM CT, Oct. 23 </p> 
  [U.N. Flight Thwarted as Fighting Grows in Ethiopia](https://www.nytimes.com/2021/10/22/world/africa/ethiopia-united-nations-aid.html) NYT: A humanitarian flight was ordered to abort a landing in the capital of Ethiopia’s Tigray region, epicenter of the conflict, as government airstrikes hit the area for a fourth day. 
  <p class="updated_time"> 07:09 AM CT, Oct. 23 </p> 
  [Turkish Opposition Begins Joining Ranks Against Erdogan](https://www.nytimes.com/2021/10/23/world/middleeast/turkey-election-erdogan-opposition.html) NYT: With an eye on elections, six parties are working on a plan to end a powerful presidency and return to a parliamentary system. 
- <p class="updated_time"> 03:00 AM CT, Oct. 23 </p> 
- [A 12-Year-Old Girl Sparks Debate on Covid-19 Vaccines for Kids in Mexico](https://www.wsj.com/articles/a-12-year-old-girl-sparks-debate-on-covid-19-vaccines-for-kids-in-mexico-11634990403) WSJ: Zulma Gonzalez’s widely watched video challenging Mexico’s coronavirus czar pushed Mexico to vaccinate up to 1 million at-risk minors. 
  <p class="updated_time"> 11:24 PM CT, Oct. 22 </p> 
  [Israel Accuses 6 Palestinian Rights Groups of Terrorism](https://www.nytimes.com/2021/10/22/world/middleeast/israel-palestinian-rights-groups.html) NYT: The Defense Ministry said the groups work for leftist militants. Critics said the charge was aimed at quelling scrutiny of Israeli rights abuses. 
  <p class="updated_time"> 07:36 PM CT, Oct. 22 </p> 
@@ -190,8 +192,6 @@ permalink: /charts/news/
  [With Covid Cases Rising, Moscow's Mayor Announces Lockdown ](https://www.nytimes.com/2021/10/21/world/moscow-lockdown.html) NYT: Like many countries, Russia has seesawed between tighter and looser pandemic restrictions. As the coronavirus claims more victims, the pendulum is now swinging toward tightening. 
  <p class="updated_time"> 01:31 AM CT, Oct. 21 </p> 
  [COP26: Document leak reveals nations lobbying to change key climate report](https://www.bbc.co.uk/news/science-environment-58982445?at_medium=RSS&at_campaign=KARANGA) BBC: Countries are asking the UN to play down the need to move rapidly away from fossil fuels. 
- <p class="updated_time"> 11:08 PM CT, Oct. 19 </p> 
- [Climate change: Fossil fuel production set to soar over next decade](https://www.bbc.co.uk/news/science-environment-58971131?at_medium=RSS&at_campaign=KARANGA) BBC: Government plans to extract coal, oil and gas are incompatible with safe temperatures, says the UN. 
  <p class="updated_time"> 07:30 AM CT, Oct. 18 </p> 
  [COP26: Does a climate summit need 25,000 people? And more questions](https://www.bbc.co.uk/news/science-environment-58925049?at_medium=RSS&at_campaign=KARANGA) BBC: BBC science correspondent Matt McGrath answers your questions about Glasgow's COP26 climate summit. 
 
