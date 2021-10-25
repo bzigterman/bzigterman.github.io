@@ -6,10 +6,12 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 05:42 PM CT, Oct. 25 </p> 
+ [Sudan’s Military Seizes Power, Casting Democratic Transition Into Chaos](https://www.nytimes.com/2021/10/25/world/africa/sudan-military-coup.html) NYT: Civilian and military leaders were supposed to share power after a popular uprising in 2019 overthrew a decades-long dictatorship. On Monday the military detained the civilian prime minister. 
+ <p class="updated_time"> 05:37 PM CT, Oct. 25 </p> 
+ [Egypt’s Leader Ends State of Emergency, Says It’s No Longer Needed](https://www.nytimes.com/2021/10/25/world/middleeast/egypt-sisi-state-emergency.html) NYT: The move by President Abdel Fattah el-Sisi theoretically rolls back sweeping powers the government wielded in the name of fighting terrorism, but critics called it a cosmetic change. 
  <p class="updated_time"> 05:34 PM CT, Oct. 25 </p> 
  [U.S. Halts Aid to Sudan Government After Coup](https://www.nytimes.com/2021/10/25/world/africa/us-aid-frozen-sudan.html) NYT: The Biden administration, calling for immediate restoration of the transition government, froze $700 million in direct aid. 
- <p class="updated_time"> 05:17 PM CT, Oct. 25 </p> 
- [Egypt’s Leader Ends State of Emergency, Says It’s No Longer Needed](https://www.nytimes.com/2021/10/25/world/middleeast/egypt-sisi-state-emergency.html) NYT: The move by President Abdel Fattah el-Sisi theoretically rolls back sweeping powers the government wielded in the name of fighting terrorism, but critics called it a cosmetic change. 
  <p class="updated_time"> 04:43 PM CT, Oct. 25 </p> 
  [Alec Baldwin was pointing gun at camera in Rust rehearsal, legal papers say](https://www.bbc.co.uk/news/entertainment-arts-59035483?at_medium=RSS&at_campaign=KARANGA) BBC: Legal papers shed light on what happened when actor Alec Baldwin fired a gun with tragic results. 
  <p class="updated_time"> 04:07 PM CT, Oct. 25 </p> 
@@ -192,8 +194,6 @@ permalink: /charts/news/
  [Thailand to Reopen to Vaccinated Travelers from Dozens of Countries](https://www.nytimes.com/2021/10/22/world/asia/thailand-covid-travel-quarantine.html) NYT: NA 
  <p class="updated_time"> 04:06 AM CT, Oct. 22 </p> 
  [How Russia Is Cashing In on Climate Change](https://www.nytimes.com/2021/10/22/world/europe/russia-arctic-climate-change-putin.html) NYT: Global warming may pose grave dangers around the world, but as one tiny Russian town on the Arctic Ocean shows, it can also be a ticket to prosperity. 
- <p class="updated_time"> 04:00 AM CT, Oct. 22 </p> 
- [India's Farmer Protesters Are Confronting Modi Head-On](https://www.nytimes.com/2021/10/22/world/asia/india-farmers-protests-modi.html) NYT: A year on, protesters against the country’s agricultural laws are taking an increasingly confrontational approach with the country’s leaders. 
 
 
 
