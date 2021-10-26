@@ -6,18 +6,20 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 02:29 PM CT, Oct. 26 </p> 
+ [Sudan army seized power to prevent civil war - coup leader](https://www.bbc.co.uk/news/world-africa-59052260?at_medium=RSS&at_campaign=KARANGA) BBC: Gen Burhan also said he had taken the deposed prime minister to his house "for his own safety." 
+ <p class="updated_time"> 02:29 PM CT, Oct. 26 </p> 
+ [Poland’s Heartland Would Rather Keep E.U. Money Than Break With Bloc](https://www.nytimes.com/2021/10/26/world/europe/poland-eu-aid.html) NYT: Despite the flame-throwing rhetoric of their leaders, conservative supporters of Poland’s ruling party are dependent on millions of euros in aid, and don’t want to risk it. 
+ <p class="updated_time"> 02:28 PM CT, Oct. 26 </p> 
+ [Roh Tae-woo, South Korean Leader During Move Toward Democracy, Dies at 88](https://www.nytimes.com/2021/10/26/world/asia/roh-tae-woo-dies.html) NYT: He played a role in a bloody crackdown on pro-democracy protesters in 1980 but went on to oversee his country’s winning 1988 Olympics bid. He was later mired in legal trouble. 
  <p class="updated_time"> 02:18 PM CT, Oct. 26 </p> 
  [She Climbed Yosemite's El Capitan to Celebrate Turning 70](https://www.nytimes.com/2021/10/26/sports/alex-honnold-mother-el-capitan.html) NYT: Dierdre Wolownick, whose son, Alex Honnold, is one of the world’s top rock climbers, ascended Yosemite’s El Capitan to celebrate her 70th birthday. 
- <p class="updated_time"> 02:16 PM CT, Oct. 26 </p> 
- [Poland’s Heartland Would Rather Keep E.U. Money Than Break With Bloc](https://www.nytimes.com/2021/10/26/world/europe/poland-eu-aid.html) NYT: Despite the flame-throwing rhetoric of their leaders, conservative supporters of Poland’s ruling party are dependent on millions of euros in aid, and don’t want to risk it. 
  <p class="updated_time"> 01:44 PM CT, Oct. 26 </p> 
  [Iranian Motorists Hit With Cyberattack at Filling Stations](https://www.nytimes.com/2021/10/26/world/middleeast/iran-gas-station-hack.html) NYT: Iranian news agencies reported that a cyberattack of unidentified origin had sabotaged a payment system. 
  <p class="updated_time"> 01:24 PM CT, Oct. 26 </p> 
  [Ignoring Sanctions, Russia Renews Broad Cybersurveillance Operation](https://www.nytimes.com/2021/10/25/us/politics/russia-cybersurveillance-biden.html) NYT: The new campaign came only months after President Biden imposed sanctions on Moscow in response to a series of spy operations it had conducted around the world. 
  <p class="updated_time"> 12:53 PM CT, Oct. 26 </p> 
  [3 Children and 1 Woman Drowned While Migrating Across the Aegean Sea](https://www.nytimes.com/2021/10/26/world/europe/children-die-greece-migrant-crossing.html) NYT: Migrant crossings are down and so are deaths at sea, but Tuesday’s incident was a reminder that dangers remain. 
- <p class="updated_time"> 12:27 PM CT, Oct. 26 </p> 
- [Sudan army seized power to prevent civil war - coup leader](https://www.bbc.co.uk/news/world-africa-59052260?at_medium=RSS&at_campaign=KARANGA) BBC: Gen Burhan also said he had taken the deposed prime minister to his house "for his own safety." 
  <p class="updated_time"> 12:18 PM CT, Oct. 26 </p> 
  [Rust: Assistant director had been sacked before over gun safety](https://www.bbc.co.uk/news/entertainment-arts-59055138?at_medium=RSS&at_campaign=KARANGA) BBC: Dave Halls had previously been dismissed from another film over gun safety violations. 
  <p class="updated_time"> 11:57 AM CT, Oct. 26 </p> 
@@ -42,8 +44,6 @@ permalink: /charts/news/
  [2 Days After Cricket Victory Over India, Pakistan Still Feels the High](https://www.nytimes.com/2021/10/26/world/asia/pakistan-cricket-victory-india.html) NYT: The nation is experiencing a much-needed burst of joy after it unexpectedly beat India in a cricket match in Dubai. 
  <p class="updated_time"> 11:04 AM CT, Oct. 26 </p> 
  [Trial in Holocaust Survivor's Killing Begins in France](https://www.nytimes.com/2021/10/26/world/europe/france-murder-trial-holocaust-survivor-mireille-knoll.html) NYT: Mireille Knoll, 85, was killed in 2018 in what prosecutors and the authorities called a hate crime. Decades earlier, she had escaped a notorious roundup of Jews. 
- <p class="updated_time"> 11:01 AM CT, Oct. 26 </p> 
- [Roh Tae-woo, South Korean Leader During Move Toward Democracy, Dies at 88](https://www.nytimes.com/2021/10/26/world/asia/roh-tae-woo-dies.html) NYT: He played a role in a bloody crackdown on pro-democracy protesters in 1980 but went on to oversee his country’s winning 1988 Olympics bid. He was later mired in legal trouble. 
  <p class="updated_time"> 10:20 AM CT, Oct. 26 </p> 
  [Manchester Arena bombing: Exclusive images of extradition of Hashem Abedi](https://www.bbc.co.uk/news/uk-59054530?at_medium=RSS&at_campaign=KARANGA) BBC: Watch as Hashem Abedi, the brother of the Manchester Arena bomber, is sent to Britain for trial. 
  <p class="updated_time"> 09:30 AM CT, Oct. 26 </p> 
