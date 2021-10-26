@@ -6,6 +6,10 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 02:18 PM CT, Oct. 26 </p> 
+ [She Climbed Yosemite's El Capitan to Celebrate Turning 70](https://www.nytimes.com/2021/10/26/sports/alex-honnold-mother-el-capitan.html) NYT: Dierdre Wolownick, whose son, Alex Honnold, is one of the world’s top rock climbers, ascended Yosemite’s El Capitan to celebrate her 70th birthday. 
+ <p class="updated_time"> 02:16 PM CT, Oct. 26 </p> 
+ [Poland’s Heartland Would Rather Keep E.U. Money Than Break With Bloc](https://www.nytimes.com/2021/10/26/world/europe/poland-eu-aid.html) NYT: Despite the flame-throwing rhetoric of their leaders, conservative supporters of Poland’s ruling party are dependent on millions of euros in aid, and don’t want to risk it. 
  <p class="updated_time"> 01:44 PM CT, Oct. 26 </p> 
  [Iranian Motorists Hit With Cyberattack at Filling Stations](https://www.nytimes.com/2021/10/26/world/middleeast/iran-gas-station-hack.html) NYT: Iranian news agencies reported that a cyberattack of unidentified origin had sabotaged a payment system. 
  <p class="updated_time"> 01:24 PM CT, Oct. 26 </p> 
@@ -84,8 +88,6 @@ permalink: /charts/news/
  [Ukraine Wins Back Golden Treasures at Center of Dispute With Russia](https://www.wsj.com/articles/dutch-court-upholds-ukraines-claim-to-treasures-found-in-crimea-11635256263) WSJ: A Dutch appeals court ruled in favor of Ukraine in the case of a priceless collection of Crimean gold that Ukraine and Russia both claimed as their own, the latest in a dispute that had come to epitomize the Black Sea peninsula’s complex history. 
  <p class="updated_time"> 04:43 AM CT, Oct. 26 </p> 
  [Sudan Soldiers Gun Down Protesters, Doctors Group Says](https://www.nytimes.com/2021/10/25/world/africa/sudan-coup-pro-democracy-protesters.html) NYT: Protesters against the military coup took to the streets by the thousands and barricaded roads, and soldiers reportedly shot demonstrators outside army headquarters. 
- <p class="updated_time"> 04:00 AM CT, Oct. 26 </p> 
- [She Climbed Yosemite's El Capitan to Celebrate Turning 70](https://www.nytimes.com/2021/10/26/sports/alex-honnold-mother-el-capitan.html) NYT: Dierdre Wolownick, whose son, Alex Honnold, is one of the world’s top rock climbers, ascended Yosemite’s El Capitan to celebrate her 70th birthday. 
  <p class="updated_time"> 03:47 AM CT, Oct. 26 </p> 
  [China's Energy Crisis Complicates Its Plans for Announcements Ahead of COP26](https://www.wsj.com/articles/chinas-energy-crisis-complicates-its-plans-for-climate-announcements-ahead-of-cop26-11635252471) WSJ: The worst power shortage in two decades is squeezing Chinese leaders between international climate expectations and the need to heat households in winter and keep factories going. 
  <p class="updated_time"> 03:40 AM CT, Oct. 26 </p> 
@@ -194,8 +196,6 @@ permalink: /charts/news/
  [Erdogan Threatens to Expel 10 Western Ambassadors](https://www.nytimes.com/2021/10/23/world/europe/erdogan-turkey-ambassadors-persona-non-grata.html) NYT: The move follows a statement from the envoys demanding the release of a prominent philanthropist jailed since 2017. 
  <p class="updated_time"> 01:11 PM CT, Oct. 23 </p> 
  [Taliban Honor Suicide Bombers in Bid to Rewrite History](https://www.nytimes.com/2021/10/23/world/asia/afghanistan-taliban-suicide-bombers.html) NYT: The new government brought together the bombers’ families at a publicized event, praising their actions but alienating those who have suffered at their hands. 
- <p class="updated_time"> 12:27 PM CT, Oct. 23 </p> 
- [Why Returning Home For Some Afghans Is as Difficult as Fleeing](https://www.nytimes.com/2021/10/23/world/asia/afghans-india-return-home.html) NYT: Thousands of Afghans who were in India for medical treatment when the country collapsed are now desperate to return, but have no money and no clear route home. 
  <p class="updated_time"> 12:01 PM CT, Oct. 23 </p> 
  [Singapore will require vaccination or daily tests for workplace access next year.](https://www.nytimes.com/2021/10/23/world/singapore-will-require-vaccination-or-daily-tests-for-workplace-access-next-year.html) NYT: NA 
 
