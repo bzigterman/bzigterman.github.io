@@ -80,8 +80,6 @@ permalink: /charts/news/
  [How 4 Weeks of U.S. Paid Leave Would Compare With the Rest of the World](https://www.nytimes.com/2021/10/25/upshot/paid-leave-democrats.html) NYT: The U.S. is one of six countries with no national paid leave. The Democrats have cut their plan to four weeks, which would still make it an outlier. 
  <p class="updated_time"> 11:34 AM CT, Oct. 25 </p> 
  [A Jewish Far-Right Pundit Splits the French Jewish Community as He Rises](https://www.nytimes.com/2021/10/25/world/europe/eric-zemmour-france-jewish-bernard-henri-levy.html) NYT: Éric Zemmour, eyeing the presidency, tries to rehabilitate the wartime Vichy regime that collaborated with the Nazis as part of a campaign filled with provocations. 
- <p class="updated_time"> 11:21 AM CT, Oct. 25 </p> 
- [Israeli cabinet backs huge spending plan for Arab minority](https://www.bbc.co.uk/news/world-middle-east-59039911?at_medium=RSS&at_campaign=KARANGA) BBC: Billions of dollars are earmarked for Israel's Arab minority, which has long complained of neglect. 
  <p class="updated_time"> 11:19 AM CT, Oct. 25 </p> 
  [Alec Baldwin film tragedy: What are the rules for guns on movie sets?](https://www.bbc.co.uk/news/entertainment-arts-59035488?at_medium=RSS&at_campaign=KARANGA) BBC: The regulations are under scrutiny after the death of a film-maker on the set of an Alec Baldwin film. 
  <p class="updated_time"> 11:10 AM CT, Oct. 25 </p> 
@@ -102,8 +100,6 @@ permalink: /charts/news/
  [Saudi crown prince suggested killing King Abdullah, ex-official says](https://www.bbc.co.uk/news/world-middle-east-59032931?at_medium=RSS&at_campaign=KARANGA) BBC: Mohammed bin Salman discussed assassinating the late King Abdullah in 2014, Saad al-Jabri says. 
  <p class="updated_time"> 08:38 AM CT, Oct. 25 </p> 
  [Ignoring Sanctions, Russia Renews Broad Cybersurveillance Operation](https://www.nytimes.com/2021/10/25/us/politics/russia-cybersurveillance-biden.html) NYT: The new campaign came only months after President Biden imposed sanctions on Moscow in response to a series of spy operations it had conducted around the world. 
- <p class="updated_time"> 08:35 AM CT, Oct. 25 </p> 
- [Eitan Biran: Crash survivor must be returned to Italy, court rules](https://www.bbc.co.uk/news/world-middle-east-59040375?at_medium=RSS&at_campaign=KARANGA) BBC: The six-year-old survivor of a cable car crash must be returned to his aunt in Italy, a court rules. 
  <p class="updated_time"> 07:34 AM CT, Oct. 25 </p> 
  [First Yazidi Genocide Trial Ends In Conviction of German Woman](https://www.wsj.com/articles/first-yazidi-genocide-trial-ends-in-conviction-of-german-isis-member-11635178922) WSJ: A German court sentenced a member of the ISIS terror group to 10 years in prison for her role in the enslavement and killing of a 5-year-old girl. 
  <p class="updated_time"> 06:50 AM CT, Oct. 25 </p> 
