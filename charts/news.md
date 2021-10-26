@@ -58,6 +58,8 @@ permalink: /charts/news/
  [Trial in Holocaust Survivor's Killing Begins in France](https://www.nytimes.com/2021/10/26/world/europe/france-murder-trial-holocaust-survivor-mireille-knoll.html) NYT: Mireille Knoll, 85, was killed in 2018 in what prosecutors and the authorities called a hate crime. Decades earlier, she had escaped a notorious roundup of Jews. 
  <p class="updated_time"> 10:20 AM CT, Oct. 26 </p> 
  [Manchester Arena bombing: Exclusive images of extradition of Hashem Abedi](https://www.bbc.co.uk/news/uk-59054530?at_medium=RSS&at_campaign=KARANGA) BBC: Watch as Hashem Abedi, the brother of the Manchester Arena bomber, is sent to Britain for trial. 
+ <p class="updated_time"> 10:00 AM CT, Oct. 26 </p> 
+ [Queen Elizabeth Cancels Trip to Glasgow for COP26 Summit After Advice to Rest](https://www.wsj.com/articles/queen-elizabeth-cancels-cop26-visit-after-advice-to-rest-11635274810) WSJ: Doctors urge the monarch not to travel to Scotland for the climate conference following her brief hospitalization last week and the cancelation of a trip to Northern Ireland. 
  <p class="updated_time"> 09:30 AM CT, Oct. 26 </p> 
  [Sudan Military Coup Leaves No Clear Path Out of Political, Economic Crises](https://www.wsj.com/articles/sudan-military-coup-leaves-no-clear-path-out-of-nations-political-economic-crises-11635272325) WSJ: Pro-democracy protesters vowed continued resistance to military takeover of transitional government that followed Bashir dictatorship. 
  <p class="updated_time"> 09:22 AM CT, Oct. 26 </p> 
@@ -88,8 +90,6 @@ permalink: /charts/news/
  [Sudan coup: Are military takeovers on the rise in Africa?](https://www.bbc.co.uk/news/world-africa-46783600?at_medium=RSS&at_campaign=KARANGA) BBC: Despite a series of coups in Africa recently, the longer-term trend for military takeovers is downwards. 
  <p class="updated_time"> 05:18 AM CT, Oct. 26 </p> 
  [Covid Cases Keep Falling](https://www.nytimes.com/2021/10/26/briefing/covid-cases-falling-delta.html) NYT: Covid cases have been falling in every region of the U.S., offering hope. 
- <p class="updated_time"> 04:51 AM CT, Oct. 26 </p> 
- [Ukraine Wins Back Golden Treasures at Center of Dispute With Russia](https://www.wsj.com/articles/dutch-court-upholds-ukraines-claim-to-treasures-found-in-crimea-11635256263) WSJ: A Dutch appeals court ruled in favor of Ukraine in the case of a priceless collection of Crimean gold that Ukraine and Russia both claimed as their own, the latest in a dispute that had come to epitomize the Black Sea peninsula’s complex history. 
  <p class="updated_time"> 04:43 AM CT, Oct. 26 </p> 
  [Sudan Soldiers Gun Down Protesters, Doctors Group Says](https://www.nytimes.com/2021/10/25/world/africa/sudan-coup-pro-democracy-protesters.html) NYT: Protesters against the military coup took to the streets by the thousands and barricaded roads, and soldiers reportedly shot demonstrators outside army headquarters. 
  <p class="updated_time"> 03:47 AM CT, Oct. 26 </p> 
