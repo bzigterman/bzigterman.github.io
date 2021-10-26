@@ -6,6 +6,10 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 01:27 AM CT, Oct. 26 </p> 
+ [Roh Tae-Woo, South Korean Leader as It Moved Toward Democracy, Dies at 88](https://www.nytimes.com/2021/10/26/world/asia/roh-tae-woo-dead.html) NYT: Mr. Roh, who played a role in a bloody crackdown on pro-democracy protesters in 1980 but also oversaw its winning 1988 Olympics bid, left a mixed legacy and was mired in legal trouble in his later years. 
+ <p class="updated_time"> 01:14 AM CT, Oct. 26 </p> 
+ [Sudan coup: Protests continue after military takeover](https://www.bbc.co.uk/news/world-africa-59045020?at_medium=RSS&at_campaign=KARANGA) BBC: Defiant protesters stay on the streets despite soldiers opening fire on crowds opposed to the coup. 
  <p class="updated_time"> 01:01 AM CT, Oct. 26 </p> 
  [Climate change: Australia pledges to reach net zero emissions by 2050](https://www.bbc.co.uk/news/world-australia-59046032?at_medium=RSS&at_campaign=KARANGA) BBC: The 2050 target controversially omits new short-term goals and cuts to fossil fuel industries. 
  <p class="updated_time"> 12:57 AM CT, Oct. 26 </p> 
@@ -29,7 +33,7 @@ permalink: /charts/news/
  <p class="updated_time"> 08:27 PM CT, Oct. 25 </p> 
  [Traveling Through a Divided Israel](https://www.nytimes.com/2021/10/25/world/middleeast/israel-jews-palestinians-journey.html) NYT: Two Times journalists drive the length of Israel to discover what it means to be Israeli today. They meet a kaleidoscope of people, searching for belonging but far apart on how to find it. 
  <p class="updated_time"> 08:02 PM CT, Oct. 25 </p> 
- [Does Taiwan's Military Stand a Chance Against China? Few Think So.](https://www.wsj.com/articles/taiwan-military-readiness-china-threat-us-defense-11635174187) WSJ: Poor preparation and low morale are pressing concerns for Taiwan’s armed forces. One conscript said his basic training mainly involved sweeping leaves, moving spare tires and pulling weeds. 
+ [Does Taiwan's Military Stand a Chance Against China? Few Think So](https://www.wsj.com/articles/taiwan-military-readiness-china-threat-us-defense-11635174187) WSJ: Poor preparation and low morale are pressing concerns for Taiwan’s armed forces. One conscript said his basic training mainly involved sweeping leaves, moving spare tires and pulling weeds. 
  <p class="updated_time"> 07:56 PM CT, Oct. 25 </p> 
  [Who is Abdalla Hamdok, Sudan Leader Ousted in Coup](https://www.nytimes.com/2021/10/25/world/africa/abdalla-hamdok-sudan.html) NYT: Sudan’s  prime minister spent much of his career at international institutions before joining his country’s government. Now he has been forced out. 
  <p class="updated_time"> 07:55 PM CT, Oct. 25 </p> 
@@ -54,14 +58,14 @@ permalink: /charts/news/
  [The Harder They Fall: 'Raising hell' in Netflix's all-black Western](https://www.bbc.co.uk/news/entertainment-arts-58765908?at_medium=RSS&at_campaign=KARANGA) BBC: London-born Jeymes Samuel directs Regina King and Idris Elba in The Harder They Fall. 
  <p class="updated_time"> 06:10 PM CT, Oct. 25 </p> 
  [Can Lego help save Singapore's coral reefs?](https://www.bbc.co.uk/news/world-asia-58784313?at_medium=RSS&at_campaign=KARANGA) BBC: Scientists in Singapore are using the popular building block in an effort to rejuvenate its reefs. 
+ <p class="updated_time"> 06:01 PM CT, Oct. 25 </p> 
+ [Climate change: Sir David Attenborough in 'act now' warning](https://www.bbc.co.uk/news/science-environment-59039485?at_medium=RSS&at_campaign=KARANGA) BBC: "If we don't act now, it'll be too late," warns Sir David Attenborough ahead of the COP26 climate summit. 
  <p class="updated_time"> 05:37 PM CT, Oct. 25 </p> 
  [Egypt’s Leader Ends State of Emergency, Says It’s No Longer Needed](https://www.nytimes.com/2021/10/25/world/middleeast/egypt-sisi-state-emergency.html) NYT: The move by President Abdel Fattah el-Sisi theoretically rolls back sweeping powers the government wielded in the name of fighting terrorism, but critics called it a cosmetic change. 
  <p class="updated_time"> 04:43 PM CT, Oct. 25 </p> 
  [Alec Baldwin was pointing gun at camera in Rust rehearsal, legal papers say](https://www.bbc.co.uk/news/entertainment-arts-59035483?at_medium=RSS&at_campaign=KARANGA) BBC: Legal papers shed light on what happened when actor Alec Baldwin fired a gun with tragic results. 
  <p class="updated_time"> 04:07 PM CT, Oct. 25 </p> 
  [Covid: Biden sets new rules as air travel to the US reopens](https://www.bbc.co.uk/news/world-us-canada-59044856?at_medium=RSS&at_campaign=KARANGA) BBC: All foreign travellers to the US will be required to show proof of vaccination or a negative test. 
- <p class="updated_time"> 03:56 PM CT, Oct. 25 </p> 
- [Sudan coup: Protesters killed and dozens injured](https://www.bbc.co.uk/news/world-africa-59045020?at_medium=RSS&at_campaign=KARANGA) BBC: Soldiers are said to have opened fire on large crowds opposing the military takeover. 
  <p class="updated_time"> 03:23 PM CT, Oct. 25 </p> 
  [Hong Kong’s National Security Law Explained](https://www.nytimes.com/article/hong-kong-security-law-speech.html) NYT: An activist, Ma Chun-man, was convicted of inciting secession after, he said, he chanted slogans to test the limits of the law. 
  <p class="updated_time"> 03:16 PM CT, Oct. 25 </p> 
@@ -124,8 +128,6 @@ permalink: /charts/news/
  [SolarWinds Hackers Step Up Attacks on Tech Companies](https://www.wsj.com/articles/microsoft-solarwinds-hackers-continue-to-hit-technology-companies-11635145200) WSJ: The Russia-linked hackers behind last year’s compromise of a wide swath of the U.S. government and scores of private companies have redoubled their efforts in recent months, Microsoft cybersecurity experts said. 
  <p class="updated_time"> 07:18 PM CT, Oct. 24 </p> 
  [Please Don’t Feed the Whale Sharks? Fishing Town Says It Must, to Prosper.](https://www.nytimes.com/2021/10/24/world/asia/philippines-whale-shark-tourism.html) NYT: The chance to swim with the world’s biggest fish drew tourists to a Philippines town, but conservation groups denounce the hand-feeding that keeps the gentle creatures around. 
- <p class="updated_time"> 07:01 PM CT, Oct. 24 </p> 
- [Climate change: How do we know it is happening and caused by humans?](https://www.bbc.co.uk/news/science-environment-58954530?at_medium=RSS&at_campaign=KARANGA) BBC: What's the evidence for global warming and how do we know it's being caused by human activity? 
  <p class="updated_time"> 07:00 PM CT, Oct. 24 </p> 
  [Climate change: The environmental disasters we've almost fixed](https://www.bbc.co.uk/news/science-environment-58874831?at_medium=RSS&at_campaign=KARANGA) BBC: From acid rain to the ozone hole: Can we learn from the environmental "success stories" of the past? 
  <p class="updated_time"> 06:59 PM CT, Oct. 24 </p> 
@@ -196,8 +198,6 @@ permalink: /charts/news/
  [Poland’s Attacks on Rule of Law Leave Europe at Odds With Itself](https://www.nytimes.com/2021/10/22/world/europe/eu-poland-rule-of-law.html) NYT: E.U. leaders are facing an increasingly urgent question: What to do with a member that repeatedly violates a core principle, but refuses to leave the club? 
  <p class="updated_time"> 07:15 AM CT, Oct. 22 </p> 
  [Bali reopens to foreign tourists, but government rules keep them away.](https://www.nytimes.com/2021/10/22/world/bali-reopens-to-foreign-tourists-but-government-rules-keep-them-away.html) NYT: NA 
- <p class="updated_time"> 06:34 AM CT, Oct. 22 </p> 
- [In the Russian Arctic, the First Stirrings of a Very Cold War](https://www.nytimes.com/2021/05/22/world/russia-us-arctic-military.html) NYT: Though the Russian military has little in common with liberal Western politicians or environmental groups like Greenpeace, it is taking ice melt in the Far North seriously. 
 
 
 
