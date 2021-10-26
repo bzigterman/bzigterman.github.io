@@ -6,7 +6,7 @@ permalink: /charts/news/
 
 ## World News
 
- <p class="updated_time"> 04:11 AM CT, Oct. 26 </p> 
+ <p class="updated_time"> 04:29 AM CT, Oct. 26 </p> 
  [Moderna to Sell Up to 110 Million Covid Vaccine Doses to African Countries](https://www.nytimes.com/2021/10/26/world/africa/covid-moderna-african-union.html) NYT: The first 15 million shots will be delivered by the end of this year to the continent with some of the world’s lowest vaccination rates. 
  <p class="updated_time"> 04:00 AM CT, Oct. 26 </p> 
  [She Climbed Yosemite's El Capitan to Celebrate Turning 70](https://www.nytimes.com/2021/10/26/sports/alex-honnold-mother-el-capitan.html) NYT: Dierdre Wolownick, whose son, Alex Honnold, is one of the world’s top rock climbers, ascended Yosemite’s El Capitan to celebrate her 70th birthday. 
