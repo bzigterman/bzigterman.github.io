@@ -6,6 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 02:50 AM CT, Oct. 26 </p> 
+ [Japan's Princess Mako finally marries commoner boyfriend Kei Komuro](https://www.bbc.co.uk/news/world-asia-59046476?at_medium=RSS&at_campaign=KARANGA) BBC: She will lose her royal status and has declined a $1.3m payment for leaving the family. 
  <p class="updated_time"> 02:29 AM CT, Oct. 26 </p> 
  [Climate change: Australia pledges net zero emissions by 2050](https://www.bbc.co.uk/news/world-australia-59046032?at_medium=RSS&at_campaign=KARANGA) BBC: The target controversially omits new short-term goals and cuts to fossil fuel industries. 
  <p class="updated_time"> 02:22 AM CT, Oct. 26 </p> 
@@ -14,8 +16,6 @@ permalink: /charts/news/
  [How to Map a Fly Brain in 20 Million Easy Steps](https://www.nytimes.com/2021/10/26/science/drosophila-fly-brain-connectome.html) NYT: An enormous new analysis of the wiring of the fruit fly brain is a milestone for the young field of modern connectomics, scientists say. 
  <p class="updated_time"> 02:00 AM CT, Oct. 26 </p> 
  [As Gangs’ Power Grows, Haiti’s Police Are Outgunned and Underpaid](https://www.nytimes.com/2021/10/26/world/americas/haiti-police-gangs.html) NYT: The police force, dependent on an increasingly depleted state, is finding itself underfunded, underequipped and severely underpaid, even as it faces stronger opponents. 
- <p class="updated_time"> 01:52 AM CT, Oct. 26 </p> 
- [Japan's Princess Mako finally marries commoner boyfriend Kei Komuro](https://www.bbc.co.uk/news/world-asia-59046476?at_medium=RSS&at_campaign=KARANGA) BBC: She will lose her royal status and has declined a $1.3m payment for leaving the family. 
  <p class="updated_time"> 01:36 AM CT, Oct. 26 </p> 
  [Royal Wedding in Japan Goes Off With Little Fanfare](https://www.nytimes.com/2021/10/25/world/asia/japan-royal-wedding-princess-mako.html) NYT: The torturous path to marriage for Princess Mako of Japan leads to a registry office in Tokyo and most likely a life abroad. 
  <p class="updated_time"> 01:27 AM CT, Oct. 26 </p> 
