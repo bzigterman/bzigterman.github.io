@@ -8,6 +8,8 @@ permalink: /charts/news/
 
  <p class="updated_time"> 03:33 PM CT, Oct. 26 </p> 
  [Your Wednesday Briefing](https://www.nytimes.com/2021/10/26/briefing/climate-glasgow-un-myanmar-pakistan-cricket.html) NYT: ‘Imminent peril’ from global warming. 
+ <p class="updated_time"> 03:31 PM CT, Oct. 26 </p> 
+ [Covid: FDA officials back Pfizer jab for children over five in US](https://www.bbc.co.uk/news/world-us-canada-59048318?at_medium=RSS&at_campaign=KARANGA) BBC: The Food and Drug Administration votes in favour, paving the way for emergency authorisation. 
  <p class="updated_time"> 03:24 PM CT, Oct. 26 </p> 
  [Sudan’s Prime Minister Is Detained at Home of General Who Led Coup](https://www.nytimes.com/2021/10/26/world/africa/sudan-coup-protests.html) NYT: Protesters demanding civilian rule flooded the streets of major cities a day after a military takeover. Many offices and businesses shut, answering a call for civil disobediences. 
  <p class="updated_time"> 03:12 PM CT, Oct. 26 </p> 
@@ -40,6 +42,8 @@ permalink: /charts/news/
  [Catania: Two dead as rare storm floods streets of Sicilian city](https://www.bbc.co.uk/news/world-europe-59048809?at_medium=RSS&at_campaign=KARANGA) BBC: The mayor orders people to stay at home as floods engulf the streets of Catania in southern Italy. 
  <p class="updated_time"> 11:50 AM CT, Oct. 26 </p> 
  [Princess Mako's Royal Wedding in Japan Goes Off With Little Fanfare](https://www.nytimes.com/2021/10/25/world/asia/japan-royal-wedding-princess-mako.html) NYT: The torturous path to marriage for Princess Mako of Japan, who gave up her title to marry a commoner, leads to a registry office in Tokyo and most likely a life abroad. 
+ <p class="updated_time"> 11:49 AM CT, Oct. 26 </p> 
+ [World's Climate Plans Fall Short of Paris Accord, U.N. Says](https://www.wsj.com/articles/u-n-finds-nations-climate-plans-fall-short-of-paris-accord-11635259447) WSJ: The world’s emissions reductions plans would allow far more global warming than targeted in the Paris climate accord, and some of the biggest emitters, including the U.S., aren’t on track to hit their targets, according to a United Nations report. 
  <p class="updated_time"> 11:46 AM CT, Oct. 26 </p> 
  [US revokes licence of top Chinese telecoms company](https://www.bbc.co.uk/news/business-59055360?at_medium=RSS&at_campaign=KARANGA) BBC: Washington has banned China Telecom from operating in America, citing "national security concerns". 
  <p class="updated_time"> 11:32 AM CT, Oct. 26 </p> 
@@ -70,16 +74,12 @@ permalink: /charts/news/
  [Céline's Newly Unearthed Work Causes a Stir in France](https://www.nytimes.com/2021/10/26/world/europe/celine-manuscripts-france.html) NYT: A legal battle is raging over manuscripts written by the antisemitic writer Louis-Ferdinand Céline that disappeared almost eight decades ago. 
  <p class="updated_time"> 08:05 AM CT, Oct. 26 </p> 
  [Joshua Kimmich: German footballer's vaccine hesitancy dismays experts](https://www.bbc.co.uk/news/world-europe-59048800?at_medium=RSS&at_campaign=KARANGA) BBC: Joshua Kimmich denied he was an "anti-vaxxer" after expressing unease about long-term side effects. 
- <p class="updated_time"> 08:03 AM CT, Oct. 26 </p> 
- [World's Climate Plans Fall Short of Paris Accord, U.N. Says](https://www.wsj.com/articles/u-n-finds-nations-climate-plans-fall-short-of-paris-accord-11635259447) WSJ: The world’s emissions reductions plans would allow far more global warming than targeted in the Paris climate accord, and some of the biggest emitters, including the U.S., aren’t on track to hit their targets, according to a United Nations report. 
  <p class="updated_time"> 07:47 AM CT, Oct. 26 </p> 
  [Who Is Abdalla Hamdok, Sudan Leader Ousted in Coup](https://www.nytimes.com/2021/10/25/world/africa/abdalla-hamdok-sudan.html) NYT: Sudan’s prime minister spent much of his career at international institutions before joining his country’s government. Now he has been forced out. 
  <p class="updated_time"> 07:41 AM CT, Oct. 26 </p> 
  [A Jewish Far-Right Pundit Splits the French Jewish Community as He Rises](https://www.nytimes.com/2021/10/25/world/europe/eric-zemmour-france-jewish-bernard-henri-levy.html) NYT: Éric Zemmour, eyeing the presidency, tries to rehabilitate the wartime Vichy regime that collaborated with the Nazis as part of a campaign filled with provocations. 
  <p class="updated_time"> 07:40 AM CT, Oct. 26 </p> 
  [U.S. Halts Aid to Sudan Government After Coup](https://www.nytimes.com/2021/10/25/world/africa/us-aid-frozen-sudan.html) NYT: The Biden administration, calling for immediate restoration of the transition government, froze $700 million in direct aid. 
- <p class="updated_time"> 06:58 AM CT, Oct. 26 </p> 
- [Crimean gold must return to Ukraine - Dutch court](https://www.bbc.co.uk/news/world-europe-59048895?at_medium=RSS&at_campaign=KARANGA) BBC: The legal wrangle has dragged on for seven years, since Russia annexed the peninsula from Ukraine. 
  <p class="updated_time"> 06:27 AM CT, Oct. 26 </p> 
  [Can Lego help save Singapore's coral reefs?](https://www.bbc.co.uk/news/world-asia-58784313?at_medium=RSS&at_campaign=KARANGA) BBC: Scientists in Singapore are using the popular building block in an effort to rejuvenate its reefs. 
  <p class="updated_time"> 05:31 AM CT, Oct. 26 </p> 
