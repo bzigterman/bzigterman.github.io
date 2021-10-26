@@ -6,8 +6,10 @@ permalink: /charts/news/
 
 ## World News
 
- <p class="updated_time"> 06:12 PM CT, Oct. 26 </p> 
- [Roh Tae-woo, South Korean Leader During Move Toward Democracy, Dies at 88](https://www.nytimes.com/2021/10/26/world/asia/roh-tae-woo-dies.html) NYT: He played a role in a bloody crackdown on pro-democracy protesters in 1980 but went on to oversee his country’s winning 1988 Olympics bid. He was later mired in legal trouble. 
+ <p class="updated_time"> 06:27 PM CT, Oct. 26 </p> 
+ [Roh Tae-woo, 88, South Korean Leader in Move Toward Democracy, Dies](https://www.nytimes.com/2021/10/26/world/asia/roh-tae-woo-dies.html) NYT: He played a role in a bloody crackdown on pro-democracy protesters in 1980, then oversaw his country’s winning 1988 Olympics bid. He was later mired in legal trouble. 
+ <p class="updated_time"> 06:22 PM CT, Oct. 26 </p> 
+ [2 Days After Cricket Victory Over India, Pakistan Still Feels the High](https://www.nytimes.com/2021/10/26/world/asia/pakistan-cricket-victory-india.html) NYT: The nation is experiencing a much-needed burst of joy after it unexpectedly beat India in a cricket match in Dubai. 
  <p class="updated_time"> 06:10 PM CT, Oct. 26 </p> 
  [Life at 50C: Surviving in Kuwait's 'unbearable' heat](https://www.bbc.co.uk/news/world-middle-east-59054893?at_medium=RSS&at_campaign=KARANGA) BBC: The Middle East is warming faster than much of the world, leaving Kuwaitis struggling with everyday life. 
  <p class="updated_time"> 06:08 PM CT, Oct. 26 </p> 
@@ -60,8 +62,6 @@ permalink: /charts/news/
  [Aung San Suu Kyi to Defend Herself in Myanmar 'Show Trial'](https://www.nytimes.com/2021/10/26/world/asia/myanmar-coup-trial-aung-san-suu-kyi.html) NYT: The United Nations has described the charges against the former leader as politically motivated. If convicted, she could face a maximum of 102 years in prison. 
  <p class="updated_time"> 11:20 AM CT, Oct. 26 </p> 
  [After a Year of ‘Rampant’ Cheating, Elite Bridge Tries to Clean Up](https://www.nytimes.com/2021/10/26/arts/contract-bridge-cheating.html) NYT: As the pandemic forced most players online, the problem of cheating consumed the game’s highest levels. Top players say a tight-lipped culture is finally changing. 
- <p class="updated_time"> 11:09 AM CT, Oct. 26 </p> 
- [2 Days After Cricket Victory Over India, Pakistan Still Feels the High](https://www.nytimes.com/2021/10/26/world/asia/pakistan-cricket-victory-india.html) NYT: The nation is experiencing a much-needed burst of joy after it unexpectedly beat India in a cricket match in Dubai. 
  <p class="updated_time"> 11:04 AM CT, Oct. 26 </p> 
  [Trial in Holocaust Survivor's Killing Begins in France](https://www.nytimes.com/2021/10/26/world/europe/france-murder-trial-holocaust-survivor-mireille-knoll.html) NYT: Mireille Knoll, 85, was killed in 2018 in what prosecutors and the authorities called a hate crime. Decades earlier, she had escaped a notorious roundup of Jews. 
  <p class="updated_time"> 10:20 AM CT, Oct. 26 </p> 
@@ -162,8 +162,6 @@ permalink: /charts/news/
  [Singer Ed Sheeran Tests Positive for Coronavirus](https://www.nytimes.com/2021/10/24/arts/music/ed-sheeran-covid-positive.html) NYT: Mr. Sheeran said he would cancel upcoming public appearances while he is “self-isolating and following government guidelines.” 
  <p class="updated_time"> 09:05 AM CT, Oct. 25 </p> 
  [Behold, the Worm Blob and Its Computerized Twin](https://www.nytimes.com/2021/10/25/science/worm-blobs.html) NYT: It wriggles. It pulls. It falls apart and comes back together. It is everything you wish for and everything you fear. 
- <p class="updated_time"> 06:50 AM CT, Oct. 25 </p> 
- [In India, Facebook Struggles to Combat Misinformation and Hate Speech ](https://www.nytimes.com/2021/10/23/technology/facebook-india-misinformation.html) NYT: Internal documents show a struggle with misinformation, hate speech and celebrations of violence in the country, the company’s biggest market. 
  <p class="updated_time"> 05:44 AM CT, Oct. 25 </p> 
  [Picking Their Fights](https://www.nytimes.com/2021/10/25/briefing/biden-congress-democrats-spending-bill.html) NYT: Creating temporary government programs could have big political benefits for Democrats. 
  <p class="updated_time"> 04:57 AM CT, Oct. 25 </p> 
