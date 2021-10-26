@@ -6,10 +6,12 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 09:04 PM CT, Oct. 25 </p> 
+ [Sudan’s Military Seizes Power, Casting Democratic Transition Into Chaos](https://www.nytimes.com/2021/10/25/world/africa/sudan-military-coup.html) NYT: Civilian and military leaders were supposed to share power after a popular uprising in 2019 overthrew a decades-long dictatorship. On Monday the military detained the civilian prime minister. 
  <p class="updated_time"> 08:27 PM CT, Oct. 25 </p> 
  [Traveling Through a Divided Israel](https://www.nytimes.com/2021/10/25/world/middleeast/israel-jews-palestinians-journey.html) NYT: Two Times journalists drive the length of Israel to discover what it means to be Israeli today. They meet a kaleidoscope of people, searching for belonging but far apart on how to find it. 
- <p class="updated_time"> 08:12 PM CT, Oct. 25 </p> 
- [Sudan’s Military Seizes Power, Casting Democratic Transition Into Chaos](https://www.nytimes.com/2021/10/25/world/africa/sudan-military-coup.html) NYT: Civilian and military leaders were supposed to share power after a popular uprising in 2019 overthrew a decades-long dictatorship. On Monday the military detained the civilian prime minister. 
+ <p class="updated_time"> 08:14 PM CT, Oct. 25 </p> 
+ [Climate change: Australia pledges to reach net zero emissions by 2050](https://www.bbc.co.uk/news/world-australia-59046032?at_medium=RSS&at_campaign=KARANGA) BBC: The 2050 target controversially omits new short-term goals and cuts to fossil fuel industries. 
  <p class="updated_time"> 07:59 PM CT, Oct. 25 </p> 
  [Eco-friendly sex: What is it and how does it impact on climate change?](https://www.bbc.co.uk/digihub/science-59037605?at_medium=RSS&at_campaign=KARANGA) BBC: As more people try to live environmentally friendly lives, how do we make sex more sustainable? 
  <p class="updated_time"> 07:56 PM CT, Oct. 25 </p> 
@@ -18,6 +20,8 @@ permalink: /charts/news/
  [Your Tuesday Briefing](https://www.nytimes.com/2021/10/25/briefing/sudan-coup-moderna-kids-hong-kong.html) NYT: Sudan’s military seizes power. 
  <p class="updated_time"> 07:55 PM CT, Oct. 25 </p> 
  [U.S. Halts Aid to Sudan Government After Coup](https://www.nytimes.com/2021/10/25/world/africa/us-aid-frozen-sudan.html) NYT: The Biden administration, calling for immediate restoration of the transition government, froze $700 million in direct aid. 
+ <p class="updated_time"> 07:20 PM CT, Oct. 25 </p> 
+ [Chappelle slams cancel culture amid Netflix transgender furore](https://www.bbc.co.uk/news/world-us-canada-59046022?at_medium=RSS&at_campaign=KARANGA) BBC: "I am not bending to anybody's demands," says the US comic of the transgender backlash he faces. 
  <p class="updated_time"> 07:20 PM CT, Oct. 25 </p> 
  ['Why I returned to Boko Haram and how I escaped'](https://www.bbc.co.uk/news/world-africa-59002677?at_medium=RSS&at_campaign=KARANGA) BBC: Aisha Yerima, who was kidnapped aged 21, tells of her time living with militants in Nigeria. 
  <p class="updated_time"> 07:12 PM CT, Oct. 25 </p> 
@@ -28,6 +32,8 @@ permalink: /charts/news/
  [Eitan Biran Custody Ruling Issued by Israeli Court](https://www.nytimes.com/2021/10/25/world/middleeast/eitan-biran-israel-court.html) NYT: Eitan Biran, the 6-year-old survivor of a cable car accident in Italy, should live there with his aunt, not his grandfather in Israel, ruled a judge in Tel Aviv. 
  <p class="updated_time"> 07:01 PM CT, Oct. 25 </p> 
  [How a supply chain shortage hurts local businesses](https://www.bbc.co.uk/news/world-us-canada-59042157?at_medium=RSS&at_campaign=KARANGA) BBC: A bottleneck could cost Daniel Liberson, an artisanal vinegar maker in Virginia, his small business. 
+ <p class="updated_time"> 06:48 PM CT, Oct. 25 </p> 
+ [Facebook earns $9bn despite whistleblower scandal](https://www.bbc.co.uk/news/business-59046002?at_medium=RSS&at_campaign=KARANGA) BBC: The firm posts strong profits as it continues to face negative press over leaked internal documents. 
  <p class="updated_time"> 06:45 PM CT, Oct. 25 </p> 
  [The Harder They Fall: 'Raising hell' in Netflix's all-black Western](https://www.bbc.co.uk/news/entertainment-arts-58765908?at_medium=RSS&at_campaign=KARANGA) BBC: London-born Jeymes Samuel directs Regina King and Idris Elba in The Harder They Fall. 
  <p class="updated_time"> 06:10 PM CT, Oct. 25 </p> 
@@ -54,8 +60,6 @@ permalink: /charts/news/
  [Turkish President Steps Back From Expulsions of 10 Western Diplomats](https://www.nytimes.com/2021/10/25/world/europe/erdogan-turkey-ambassador.html) NYT: The threatened expulsions had risked severe economic consequences and a rupture in the North Atlantic Treaty Organization. 
  <p class="updated_time"> 12:52 PM CT, Oct. 25 </p> 
  [Collector returns Mayan artefact to Guatemala](https://www.bbc.co.uk/news/world-latin-america-59032480?at_medium=RSS&at_campaign=KARANGA) BBC: Plans to auction the fragment, which depicts the head of an ancient ruler, sparked a row in 2019. 
- <p class="updated_time"> 12:01 PM CT, Oct. 25 </p> 
- [Turkey dispute with US eases after threat to expel envoys](https://www.bbc.co.uk/news/world-europe-59042931?at_medium=RSS&at_campaign=KARANGA) BBC: Ten Western ambassadors had angered the Turkish president by urging a jailed activist's release. 
  <p class="updated_time"> 11:42 AM CT, Oct. 25 </p> 
  [German Woman Convicted of a Crime Against Humanity in Death of Yazidi Child](https://www.nytimes.com/2021/10/25/world/europe/germany-isis-yazidi-child.html) NYT: The woman was sentenced to 10 years in prison after a court found that she joined the Islamic State and enslaved a Yazidi mother and child, whom she left to die in the summer heat of Iraq in 2015. 
  <p class="updated_time"> 11:35 AM CT, Oct. 25 </p> 
@@ -78,8 +82,6 @@ permalink: /charts/news/
  [Singer Ed Sheeran Tests Positive for Coronavirus](https://www.nytimes.com/2021/10/24/arts/music/ed-sheeran-covid-positive.html) NYT: Mr. Sheeran said he would cancel upcoming public appearances while he is “self-isolating and following government guidelines.” 
  <p class="updated_time"> 09:19 AM CT, Oct. 25 </p> 
  [Rich Nations Lag Behind in Meeting Climate Fund Pledge](https://www.wsj.com/articles/rich-nations-lag-behind-in-meeting-100-billion-climate-funding-pledge-in-blow-to-cop26-11635184234) WSJ: Wealthy governments won’t fulfill a pledge to provide $100 billion a year to help developing countries fight climate change until at least 2023, according to a new report from climate negotiators, a setback that comes just days before the U.N. COP26 summit. 
- <p class="updated_time"> 09:12 AM CT, Oct. 25 </p> 
- [German IS woman jailed for Yazidi girl's death in Iraq](https://www.bbc.co.uk/news/world-europe-59036964?at_medium=RSS&at_campaign=KARANGA) BBC: A Munich court jails a jihadi bride for 10 years for the agonising death of a Yazidi girl in 2015. 
  <p class="updated_time"> 09:05 AM CT, Oct. 25 </p> 
  [Behold, the Worm Blob and Its Computerized Twin](https://www.nytimes.com/2021/10/25/science/worm-blobs.html) NYT: It wriggles. It pulls. It falls apart and comes back together. It is everything you wish for and everything you fear. 
  <p class="updated_time"> 09:02 AM CT, Oct. 25 </p> 
