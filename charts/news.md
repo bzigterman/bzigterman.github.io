@@ -6,18 +6,20 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 10:10 AM CT, Oct. 26 </p> 
+ [Roh Tae-Woo, South Korean Leader During Move Toward Democracy, Dies at 88](https://www.nytimes.com/2021/10/26/world/asia/roh-tae-woo-dies.html) NYT: He played a role in a bloody crackdown on pro-democracy protesters in 1980 but went on to oversee his country’s winning 1988 Olympics bid. He was later mired in legal trouble. 
+ <p class="updated_time"> 09:58 AM CT, Oct. 26 </p> 
+ [Sudan’s Prime Minister Is Detained at Home of General Who Led Coup](https://www.nytimes.com/2021/10/26/world/africa/sudan-coup-protests.html) NYT: Protesters demanding civilian rule flooded into the streets of major cities a day after a military takeover. Many schools, banks and shops shut, answering a call for civil disobedience from pro-democracy groups. 
+ <p class="updated_time"> 09:56 AM CT, Oct. 26 </p> 
+ [2 Days After Cricket Victory Over India, Pakistan Still Feels the High](https://www.nytimes.com/2021/10/26/world/asia/pakistan-cricket-victory-india.html) NYT: The nation is experiencing a much-needed burst of joy after it unexpectedly beat India in a cricket match in Dubai. 
  <p class="updated_time"> 09:51 AM CT, Oct. 26 </p> 
  [After a Year of ‘Rampant’ Cheating, Elite Bridge Tries to Clean Up](https://www.nytimes.com/2021/10/26/arts/contract-bridge-cheating.html) NYT: As the pandemic forced most players online, the problem of cheating consumed the game’s highest levels. Top players say a tight-lipped culture is finally changing. 
  <p class="updated_time"> 09:49 AM CT, Oct. 26 </p> 
  [Sudan army seized power to prevent civil war - coup leader](https://www.bbc.co.uk/news/world-africa-59052260?at_medium=RSS&at_campaign=KARANGA) BBC: Gen Burhan also said he had taken the deposed prime minister to his house "for his own safety." 
  <p class="updated_time"> 09:22 AM CT, Oct. 26 </p> 
  [Iran Wanted U.S. Out of Afghanistan. It May Be Sorry the Wish Came True.](https://www.nytimes.com/2021/10/26/world/middleeast/iran-taliban-afghanistan.html) NYT: Iran is glad the Americans are gone, but the Taliban takeover of Afghanistan creates a host of problems for Tehran, with no easy solutions. 
- <p class="updated_time"> 09:16 AM CT, Oct. 26 </p> 
- [Sudan’s Prime Minister Is Detained at Home of General Who Led Coup](https://www.nytimes.com/2021/10/26/world/africa/sudan-coup-protests.html) NYT: Protesters demanding civilian rule flooded into the streets of major cities a day after a military takeover. Many schools, banks and shops shut, answering a call for civil disobedience from pro-democracy groups. 
  <p class="updated_time"> 09:00 AM CT, Oct. 26 </p> 
  [China Locks Down City of 4 Million to Subdue Covid Outbreak](https://www.nytimes.com/2021/10/26/world/asia/covid-china-lanzhou-lockdown.html) NYT: Lanzhou, with about four million people, reported six new coronavirus cases on Tuesday, and a total of 39 over the past week. 
- <p class="updated_time"> 08:52 AM CT, Oct. 26 </p> 
- [Roh Tae-Woo, South Korean Leader as It Moved Toward Democracy, Dies at 88](https://www.nytimes.com/2021/10/26/world/asia/roh-tae-woo-dies.html) NYT: Mr. Roh, who played a role in a bloody crackdown on pro-democracy protesters in 1980 but oversaw its winning 1988 Olympics bid, left a mixed legacy and was mired in legal trouble in his later years. 
  <p class="updated_time"> 08:51 AM CT, Oct. 26 </p> 
  [Traveling Through a Divided Israel](https://www.nytimes.com/2021/10/25/world/middleeast/israel-jews-palestinians-journey.html) NYT: Two Times journalists drive the length of Israel to discover what it means to be Israeli today. They meet a kaleidoscope of people, searching for belonging but far apart on how to find it. 
  <p class="updated_time"> 08:50 AM CT, Oct. 26 </p> 
@@ -192,8 +194,6 @@ permalink: /charts/news/
  [Singapore will require vaccination or daily tests for workplace access next year.](https://www.nytimes.com/2021/10/23/world/singapore-will-require-vaccination-or-daily-tests-for-workplace-access-next-year.html) NYT: NA 
  <p class="updated_time"> 10:45 AM CT, Oct. 23 </p> 
  [U.S. Struggles With Afghan Evacuees Weeded Out, and Now in Limbo](https://www.nytimes.com/2021/10/23/us/politics/afghan-evacuees-kosovo.html) NYT: No final decisions have been made, but dozens red-flagged for apparent criminal pasts or links to militants have been sent to a base in Kosovo, where their fate is uncertain. 
- <p class="updated_time"> 08:37 AM CT, Oct. 23 </p> 
- [Cricket's T20 World Cup:  Pakistan and India Face Off](https://www.nytimes.com/2021/10/23/world/asia/cricket-india-pakistan.html) NYT: It’s one of the greatest rivalries in sports, when war off the field allows it — a contest of national identities that will be renewed this Sunday in a World Cup match. 
  <p class="updated_time"> 07:09 AM CT, Oct. 23 </p> 
  [Turkish Opposition Begins Joining Ranks Against Erdogan](https://www.nytimes.com/2021/10/23/world/middleeast/turkey-election-erdogan-opposition.html) NYT: With an eye on elections, six parties are working on a plan to end a powerful presidency and return to a parliamentary system. 
 
