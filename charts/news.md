@@ -6,6 +6,10 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 06:34 AM CT, Oct. 26 </p> 
+ [Moderna to Sell Up to 110 Million Covid Vaccine Doses to African Countries](https://www.nytimes.com/2021/10/26/world/africa/covid-moderna-african-union.html) NYT: Moderna’s shots have previously gone almost entirely to wealthier countries. 
+ <p class="updated_time"> 06:27 AM CT, Oct. 26 </p> 
+ [Can Lego help save Singapore's coral reefs?](https://www.bbc.co.uk/news/world-asia-58784313?at_medium=RSS&at_campaign=KARANGA) BBC: Scientists in Singapore are using the popular building block in an effort to rejuvenate its reefs. 
  <p class="updated_time"> 05:31 AM CT, Oct. 26 </p> 
  [Japan's Princess Mako: The woman who gave up royal status to marry](https://www.bbc.co.uk/news/world-asia-59047632?at_medium=RSS&at_campaign=KARANGA) BBC: Japan's Princess Mako has finally married her college sweetheart, thus losing her royal status. 
  <p class="updated_time"> 05:24 AM CT, Oct. 26 </p> 
@@ -20,8 +24,6 @@ permalink: /charts/news/
  [China Locks Down City of 4 Million to Subdue Covid Outbreak](https://www.nytimes.com/2021/10/26/world/asia/covid-china-lanzhou-lockdown.html) NYT: Lanzhou, with about four million people, reported six new coronavirus cases on Tuesday, and a total of 39 over the past week. 
  <p class="updated_time"> 04:43 AM CT, Oct. 26 </p> 
  [Sudan Soldiers Gun Down Protesters, Doctors Group Says](https://www.nytimes.com/2021/10/25/world/africa/sudan-coup-pro-democracy-protesters.html) NYT: Protesters against the military coup took to the streets by the thousands and barricaded roads, and soldiers reportedly shot demonstrators outside army headquarters. 
- <p class="updated_time"> 04:29 AM CT, Oct. 26 </p> 
- [Moderna to Sell Up to 110 Million Covid Vaccine Doses to African Countries](https://www.nytimes.com/2021/10/26/world/africa/covid-moderna-african-union.html) NYT: The first 15 million shots will be delivered by the end of this year to the continent with some of the world’s lowest vaccination rates. 
  <p class="updated_time"> 04:00 AM CT, Oct. 26 </p> 
  [She Climbed Yosemite's El Capitan to Celebrate Turning 70](https://www.nytimes.com/2021/10/26/sports/alex-honnold-mother-el-capitan.html) NYT: Dierdre Wolownick, whose son, Alex Honnold, is one of the world’s top rock climbers, ascended Yosemite’s El Capitan to celebrate her 70th birthday. 
  <p class="updated_time"> 03:40 AM CT, Oct. 26 </p> 
@@ -84,8 +86,6 @@ permalink: /charts/news/
  [Facebook earns $9bn despite whistleblower scandal](https://www.bbc.co.uk/news/business-59046002?at_medium=RSS&at_campaign=KARANGA) BBC: The firm posts strong profits as it continues to face negative press over leaked internal documents. 
  <p class="updated_time"> 06:45 PM CT, Oct. 25 </p> 
  [The Harder They Fall: 'Raising hell' in Netflix's all-black Western](https://www.bbc.co.uk/news/entertainment-arts-58765908?at_medium=RSS&at_campaign=KARANGA) BBC: London-born Jeymes Samuel directs Regina King and Idris Elba in The Harder They Fall. 
- <p class="updated_time"> 06:10 PM CT, Oct. 25 </p> 
- [Can Lego help save Singapore's coral reefs?](https://www.bbc.co.uk/news/world-asia-58784313?at_medium=RSS&at_campaign=KARANGA) BBC: Scientists in Singapore are using the popular building block in an effort to rejuvenate its reefs. 
  <p class="updated_time"> 06:01 PM CT, Oct. 25 </p> 
  [Climate change: Sir David Attenborough in 'act now' warning](https://www.bbc.co.uk/news/science-environment-59039485?at_medium=RSS&at_campaign=KARANGA) BBC: "If we don't act now, it'll be too late," warns Sir David Attenborough ahead of the COP26 climate summit. 
  <p class="updated_time"> 05:37 PM CT, Oct. 25 </p> 
