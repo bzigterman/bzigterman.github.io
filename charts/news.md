@@ -6,12 +6,20 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 10:24 PM CT, Oct. 25 </p> 
+ [Sudan’s Military Seizes Power, Casting Democratic Transition Into Chaos](https://www.nytimes.com/2021/10/25/world/africa/sudan-military-coup.html) NYT: Civilian and military leaders were supposed to share power after a popular uprising in 2019 overthrew a decades-long dictatorship. On Monday the military detained the civilian prime minister. 
+ <p class="updated_time"> 10:20 PM CT, Oct. 25 </p> 
+ [How Public Criticism Has Affected Japan's Royal Women](https://www.nytimes.com/2021/10/24/world/asia/japan-princess-mako-mental-health.html) NYT: A princess who will soon marry represents the third generation to suffer intense emotional distress in a country that often consigns women to rigid roles. 
+ <p class="updated_time"> 10:13 PM CT, Oct. 25 </p> 
+ [Royal Wedding in Japan Goes Off With Little Fanfare](https://www.nytimes.com/2021/10/25/world/asia/japan-royal-wedding-princess-mako.html) NYT: The tortuous path to marriage for Princess Mako of Japan leads to a registry office in Tokyo and most likely a life abroad. 
+ <p class="updated_time"> 10:12 PM CT, Oct. 25 </p> 
+ [Eco-friendly sex: What is it and how does it impact on climate change?](https://www.bbc.co.uk/news/science-environment-59046518?at_medium=RSS&at_campaign=KARANGA) BBC: As more people try to live environmentally friendly lives, how do we make sex more sustainable? 
+ <p class="updated_time"> 10:10 PM CT, Oct. 25 </p> 
+ [Japan's Princess Mako finally marries commoner boyfriend Kei Komuro](https://www.bbc.co.uk/news/world-asia-59046476?at_medium=RSS&at_campaign=KARANGA) BBC: She will lose her royal status and has declined a $1.3m payment for leaving the family. 
+ <p class="updated_time"> 10:04 PM CT, Oct. 25 </p> 
+ [Blue Origin: Jeff Bezos unveils plans for 'space business park'](https://www.bbc.co.uk/news/world-us-canada-59046076?at_medium=RSS&at_campaign=KARANGA) BBC: His space company Blue Origin hopes its venture will replace the International Space Station. 
  <p class="updated_time"> 09:46 PM CT, Oct. 25 </p> 
  [Your Tuesday Briefing](https://www.nytimes.com/2021/10/25/briefing/sudan-coup-facebook-crisis.html) NYT: The military seizes power in Sudan. 
- <p class="updated_time"> 09:37 PM CT, Oct. 25 </p> 
- [Japan's Princess Mako finally marries commoner boyfriend Kei Komuro](https://www.bbc.co.uk/news/world-asia-59046476?at_medium=RSS&at_campaign=KARANGA) BBC: She will lose her royal status and has declined a $1.3m payment for leaving the family. 
- <p class="updated_time"> 09:04 PM CT, Oct. 25 </p> 
- [Sudan’s Military Seizes Power, Casting Democratic Transition Into Chaos](https://www.nytimes.com/2021/10/25/world/africa/sudan-military-coup.html) NYT: Civilian and military leaders were supposed to share power after a popular uprising in 2019 overthrew a decades-long dictatorship. On Monday the military detained the civilian prime minister. 
  <p class="updated_time"> 08:27 PM CT, Oct. 25 </p> 
  [Traveling Through a Divided Israel](https://www.nytimes.com/2021/10/25/world/middleeast/israel-jews-palestinians-journey.html) NYT: Two Times journalists drive the length of Israel to discover what it means to be Israeli today. They meet a kaleidoscope of people, searching for belonging but far apart on how to find it. 
  <p class="updated_time"> 08:14 PM CT, Oct. 25 </p> 
@@ -34,8 +42,6 @@ permalink: /charts/news/
  [Eitan Biran Custody Ruling Issued by Israeli Court](https://www.nytimes.com/2021/10/25/world/middleeast/eitan-biran-israel-court.html) NYT: Eitan Biran, the 6-year-old survivor of a cable car accident in Italy, should live there with his aunt, not his grandfather in Israel, ruled a judge in Tel Aviv. 
  <p class="updated_time"> 07:01 PM CT, Oct. 25 </p> 
  [How a supply chain shortage hurts local businesses](https://www.bbc.co.uk/news/world-us-canada-59042157?at_medium=RSS&at_campaign=KARANGA) BBC: A bottleneck could cost Daniel Liberson, an artisanal vinegar maker in Virginia, his small business. 
- <p class="updated_time"> 06:48 PM CT, Oct. 25 </p> 
- [Facebook earns $9bn despite whistleblower scandal](https://www.bbc.co.uk/news/business-59046002?at_medium=RSS&at_campaign=KARANGA) BBC: The firm posts strong profits as it continues to face negative press over leaked internal documents. 
  <p class="updated_time"> 06:48 PM CT, Oct. 25 </p> 
  [Facebook earns $9bn despite whistleblower scandal](https://www.bbc.co.uk/news/business-59046002?at_medium=RSS&at_campaign=KARANGA) BBC: The firm posts strong profits as it continues to face negative press over leaked internal documents. 
  <p class="updated_time"> 06:45 PM CT, Oct. 25 </p> 
@@ -153,8 +159,6 @@ permalink: /charts/news/
  <p class="updated_time"> 10:29 AM CT, Oct. 24 </p> 
  [At the World Expo Pavilions, Future Visions Combine Past and Present](https://www.nytimes.com/2021/10/24/world/world-expo-pavilions.html) NYT: Conversations with three figures integral to the conception of the expo. 
  <p class="updated_time"> 04:00 AM CT, Oct. 24 </p> 
- [How Public Criticism Has Affected Japan's Royal Women](https://www.nytimes.com/2021/10/24/world/asia/japan-princess-mako-mental-health.html) NYT: A princess who will soon marry represents the third generation to suffer intense emotional distress in a country that often consigns women to rigid roles. 
- <p class="updated_time"> 04:00 AM CT, Oct. 24 </p> 
  [A World-Class World Expo](https://www.nytimes.com/2021/10/24/world/world-expo-dubai.html) NYT: The event in Dubai dazzles with extraordinary architectural achievements and a focus on the future of the planet. 
  <p class="updated_time"> 02:00 AM CT, Oct. 24 </p> 
  [Religious Leader's Arrest Reveals Long Arm of Russian Law](https://www.nytimes.com/2021/10/24/world/europe/russia-church-repression-siberia.html) NYT: The arrest of the leader of a small religious group reveals that Russian repression reaches even to the depths of the Siberian forest. 
@@ -198,8 +202,6 @@ permalink: /charts/news/
  [In the Russian Arctic, the First Stirrings of a Very Cold War](https://www.nytimes.com/2021/05/22/world/russia-us-arctic-military.html) NYT: Though the Russian military has little in common with liberal Western politicians or environmental groups like Greenpeace, it is taking ice melt in the Far North seriously. 
  <p class="updated_time"> 06:06 AM CT, Oct. 22 </p> 
  [Britain opened up with hardly any restrictions, a gamble now facing its toughest test.](https://www.nytimes.com/2021/10/22/world/britain-opened-up-with-hardly-any-restrictions-a-gamble-now-facing-its-toughest-test.html) NYT: NA 
- <p class="updated_time"> 05:25 AM CT, Oct. 22 </p> 
- [An Arctic Dispatch](https://www.nytimes.com/2021/10/22/briefing/russia-climate-change-arctic.html) NYT: We visit a Russian town on the Arctic Ocean that sees climate change as an economic opportunity. 
 
 
 
