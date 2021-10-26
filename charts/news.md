@@ -6,6 +6,12 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 09:00 AM CT, Oct. 26 </p> 
+ [China Locks Down City of 4 Million to Subdue Covid Outbreak](https://www.nytimes.com/2021/10/26/world/asia/covid-china-lanzhou-lockdown.html) NYT: Lanzhou, with about four million people, reported six new coronavirus cases on Tuesday, and a total of 39 over the past week. 
+ <p class="updated_time"> 09:00 AM CT, Oct. 26 </p> 
+ [Sudan’s Detained Prime Minister Being Held at Home of General Who Led Coup](https://www.nytimes.com/2021/10/26/world/europe/sudan-coup-protests.html) NYT: Protesters demanding a return to civilian rule flooded into the streets of major cities again on Tuesday. Many schools, banks and shops shut, answering a call for civil disobedience from pro-democracy groups. 
+ <p class="updated_time"> 08:52 AM CT, Oct. 26 </p> 
+ [Roh Tae-Woo, South Korean Leader as It Moved Toward Democracy, Dies at 88](https://www.nytimes.com/2021/10/26/world/asia/roh-tae-woo-dies.html) NYT: Mr. Roh, who played a role in a bloody crackdown on pro-democracy protesters in 1980 but oversaw its winning 1988 Olympics bid, left a mixed legacy and was mired in legal trouble in his later years. 
  <p class="updated_time"> 08:51 AM CT, Oct. 26 </p> 
  [Traveling Through a Divided Israel](https://www.nytimes.com/2021/10/25/world/middleeast/israel-jews-palestinians-journey.html) NYT: Two Times journalists drive the length of Israel to discover what it means to be Israeli today. They meet a kaleidoscope of people, searching for belonging but far apart on how to find it. 
  <p class="updated_time"> 08:50 AM CT, Oct. 26 </p> 
@@ -30,8 +36,6 @@ permalink: /charts/news/
  [U.S. Halts Aid to Sudan Government After Coup](https://www.nytimes.com/2021/10/25/world/africa/us-aid-frozen-sudan.html) NYT: The Biden administration, calling for immediate restoration of the transition government, froze $700 million in direct aid. 
  <p class="updated_time"> 06:58 AM CT, Oct. 26 </p> 
  [Crimean gold must return to Ukraine - Dutch court](https://www.bbc.co.uk/news/world-europe-59048895?at_medium=RSS&at_campaign=KARANGA) BBC: The legal wrangle has dragged on for seven years, since Russia annexed the peninsula from Ukraine. 
- <p class="updated_time"> 06:56 AM CT, Oct. 26 </p> 
- [Sudan’s Shuttered Capital Pauses Before a Fresh Day of Protest](https://www.nytimes.com/2021/10/26/world/europe/sudan-coup-protests.html) NYT: Schools, banks and shops shut in the capital, Khartoum, and other cities in response to a call for civil disobedience from pro-democracy groups, a day after a military coup. 
  <p class="updated_time"> 06:27 AM CT, Oct. 26 </p> 
  [Can Lego help save Singapore's coral reefs?](https://www.bbc.co.uk/news/world-asia-58784313?at_medium=RSS&at_campaign=KARANGA) BBC: Scientists in Singapore are using the popular building block in an effort to rejuvenate its reefs. 
  <p class="updated_time"> 06:22 AM CT, Oct. 26 </p> 
@@ -44,8 +48,6 @@ permalink: /charts/news/
  [Covid Cases Keep Falling](https://www.nytimes.com/2021/10/26/briefing/covid-cases-falling-delta.html) NYT: Covid cases have been falling in every region of the U.S., offering hope. 
  <p class="updated_time"> 05:06 AM CT, Oct. 26 </p> 
  [Berlin attack: First aider dies 5 years after Christmas market murders](https://www.bbc.co.uk/news/world-europe-59048891?at_medium=RSS&at_campaign=KARANGA) BBC: Sascha Hüsges was badly injured when he rushed to help victims of the 2016 Christmas market attack. 
- <p class="updated_time"> 04:46 AM CT, Oct. 26 </p> 
- [China Locks Down City of 4 Million to Subdue Covid Outbreak](https://www.nytimes.com/2021/10/26/world/asia/covid-china-lanzhou-lockdown.html) NYT: Lanzhou, with about four million people, reported six new coronavirus cases on Tuesday, and a total of 39 over the past week. 
  <p class="updated_time"> 04:43 AM CT, Oct. 26 </p> 
  [Sudan Soldiers Gun Down Protesters, Doctors Group Says](https://www.nytimes.com/2021/10/25/world/africa/sudan-coup-pro-democracy-protesters.html) NYT: Protesters against the military coup took to the streets by the thousands and barricaded roads, and soldiers reportedly shot demonstrators outside army headquarters. 
  <p class="updated_time"> 04:00 AM CT, Oct. 26 </p> 
@@ -72,8 +74,6 @@ permalink: /charts/news/
  [Princess Mako's Royal Wedding in Japan Goes Off With Little Fanfare](https://www.nytimes.com/2021/10/25/world/asia/japan-royal-wedding-princess-mako.html) NYT: The torturous path to marriage for Princess Mako of Japan leads to a registry office in Tokyo and most likely a life abroad. 
  <p class="updated_time"> 01:34 AM CT, Oct. 26 </p> 
  [Japan's Princess Mako Loses Royal Status as She Marries a Commoner](https://www.wsj.com/articles/princess-mako-of-japan-marries-kei-komuro-loses-royal-status-11635216229) WSJ: Mako, in a statement before the cameras at a Tokyo hotel, said she was the one who urged her then-fiance and now husband, Kei Komuro, to establish a new life in the U.S., suggesting she found the scrutiny of being a royal in Japan unbearable. 
- <p class="updated_time"> 01:27 AM CT, Oct. 26 </p> 
- [Roh Tae-Woo, South Korean Leader as It Moved Toward Democracy, Dies at 88](https://www.nytimes.com/2021/10/26/world/asia/roh-tae-woo-dies.html) NYT: Mr. Roh, who played a role in a bloody crackdown on pro-democracy protesters in 1980 but also oversaw its winning 1988 Olympics bid, left a mixed legacy and was mired in legal trouble in his later years. 
  <p class="updated_time"> 12:30 AM CT, Oct. 26 </p> 
  [Severe Drought Hits South America](https://www.wsj.com/articles/severe-drought-hits-south-america-11635240602) WSJ: A shortage of rainfall has left parts of South America in drought, hindering a huge hydroelectric dam in Paraguay and impeding the river transport of goods. 
  <p class="updated_time"> 10:42 PM CT, Oct. 25 </p> 
