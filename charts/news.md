@@ -6,8 +6,10 @@ permalink: /charts/news/
 
 ## World News
 
- <p class="updated_time"> 09:37 AM CT, Oct. 26 </p> 
+ <p class="updated_time"> 09:51 AM CT, Oct. 26 </p> 
  [After a Year of ‘Rampant’ Cheating, Elite Bridge Tries to Clean Up](https://www.nytimes.com/2021/10/26/arts/contract-bridge-cheating.html) NYT: As the pandemic forced most players online, the problem of cheating consumed the game’s highest levels. Top players say a tight-lipped culture is finally changing. 
+ <p class="updated_time"> 09:49 AM CT, Oct. 26 </p> 
+ [Sudan army seized power to prevent civil war - coup leader](https://www.bbc.co.uk/news/world-africa-59052260?at_medium=RSS&at_campaign=KARANGA) BBC: Gen Burhan also said he had taken the deposed prime minister to his house "for his own safety." 
  <p class="updated_time"> 09:22 AM CT, Oct. 26 </p> 
  [Iran Wanted U.S. Out of Afghanistan. It May Be Sorry the Wish Came True.](https://www.nytimes.com/2021/10/26/world/middleeast/iran-taliban-afghanistan.html) NYT: Iran is glad the Americans are gone, but the Taliban takeover of Afghanistan creates a host of problems for Tehran, with no easy solutions. 
  <p class="updated_time"> 09:16 AM CT, Oct. 26 </p> 
@@ -26,8 +28,6 @@ permalink: /charts/news/
  [Climate change: UN emissions gap report a 'thundering wake-up call'](https://www.bbc.co.uk/news/science-environment-59049770?at_medium=RSS&at_campaign=KARANGA) BBC: Current carbon-cutting plans from nations would lead the world to climate catastrophe, says the UN. 
  <p class="updated_time"> 08:13 AM CT, Oct. 26 </p> 
  [Céline's Newly Unearthed Work Causes a Stir in France](https://www.nytimes.com/2021/10/26/world/europe/celine-manuscripts-france.html) NYT: A legal battle is raging over manuscripts written by the antisemitic writer Louis-Ferdinand Céline that disappeared almost eight decades ago. 
- <p class="updated_time"> 08:09 AM CT, Oct. 26 </p> 
- [Sudan coup: Protests continue after military takeover](https://www.bbc.co.uk/news/world-africa-59045020?at_medium=RSS&at_campaign=KARANGA) BBC: Defiant protesters stay on the streets despite soldiers opening fire on crowds opposed to the coup. 
  <p class="updated_time"> 08:05 AM CT, Oct. 26 </p> 
  [Joshua Kimmich: German footballer's vaccine hesitancy dismays experts](https://www.bbc.co.uk/news/world-europe-59048800?at_medium=RSS&at_campaign=KARANGA) BBC: Joshua Kimmich denied he was an "anti-vaxxer" after expressing unease about long-term side effects. 
  <p class="updated_time"> 07:53 AM CT, Oct. 26 </p> 
@@ -44,6 +44,8 @@ permalink: /charts/news/
  [Can Lego help save Singapore's coral reefs?](https://www.bbc.co.uk/news/world-asia-58784313?at_medium=RSS&at_campaign=KARANGA) BBC: Scientists in Singapore are using the popular building block in an effort to rejuvenate its reefs. 
  <p class="updated_time"> 06:22 AM CT, Oct. 26 </p> 
  [De Kock refuses to take knee before match](https://www.bbc.co.uk/sport/cricket/59051327?at_medium=RSS&at_campaign=KARANGA) BBC: Quinton de Kock makes himself unavailable for South Africa's T20 World Cup match against West Indies after refusing to take the knee. 
+ <p class="updated_time"> 05:44 AM CT, Oct. 26 </p> 
+ [World's Climate Plans Fall Short of Paris Accord, U.N. Says](https://www.wsj.com/articles/u-n-finds-nations-climate-plans-fall-short-of-paris-accord-11635259447) WSJ: The world’s emissions reductions plans would allow far more global warming than targeted in the Paris climate accord, and some of the biggest emitters, including the U.S., aren’t on track to hit their targets, according to a United Nations report. 
  <p class="updated_time"> 05:31 AM CT, Oct. 26 </p> 
  [Japan's Princess Mako: The woman who gave up royal status to marry](https://www.bbc.co.uk/news/world-asia-59047632?at_medium=RSS&at_campaign=KARANGA) BBC: Japan's Princess Mako has finally married her college sweetheart, thus losing her royal status. 
  <p class="updated_time"> 05:24 AM CT, Oct. 26 </p> 
@@ -52,10 +54,14 @@ permalink: /charts/news/
  [Covid Cases Keep Falling](https://www.nytimes.com/2021/10/26/briefing/covid-cases-falling-delta.html) NYT: Covid cases have been falling in every region of the U.S., offering hope. 
  <p class="updated_time"> 05:06 AM CT, Oct. 26 </p> 
  [Berlin attack: First aider dies 5 years after Christmas market murders](https://www.bbc.co.uk/news/world-europe-59048891?at_medium=RSS&at_campaign=KARANGA) BBC: Sascha Hüsges was badly injured when he rushed to help victims of the 2016 Christmas market attack. 
+ <p class="updated_time"> 04:51 AM CT, Oct. 26 </p> 
+ [Ukraine Wins Back Golden Treasures at Center of Dispute With Russia](https://www.wsj.com/articles/dutch-court-upholds-ukraines-claim-to-treasures-found-in-crimea-11635256263) WSJ: A Dutch appeals court ruled in favor of Ukraine in the case of a priceless collection of Crimean gold that Ukraine and Russia both claimed as their own, the latest in a dispute that had come to epitomize the Black Sea peninsula’s complex history. 
  <p class="updated_time"> 04:43 AM CT, Oct. 26 </p> 
  [Sudan Soldiers Gun Down Protesters, Doctors Group Says](https://www.nytimes.com/2021/10/25/world/africa/sudan-coup-pro-democracy-protesters.html) NYT: Protesters against the military coup took to the streets by the thousands and barricaded roads, and soldiers reportedly shot demonstrators outside army headquarters. 
  <p class="updated_time"> 04:00 AM CT, Oct. 26 </p> 
  [She Climbed Yosemite's El Capitan to Celebrate Turning 70](https://www.nytimes.com/2021/10/26/sports/alex-honnold-mother-el-capitan.html) NYT: Dierdre Wolownick, whose son, Alex Honnold, is one of the world’s top rock climbers, ascended Yosemite’s El Capitan to celebrate her 70th birthday. 
+ <p class="updated_time"> 03:47 AM CT, Oct. 26 </p> 
+ [China's Energy Crisis Complicates Its Plans for Announcements Ahead of COP26](https://www.wsj.com/articles/chinas-energy-crisis-complicates-its-plans-for-climate-announcements-ahead-of-cop26-11635252471) WSJ: The worst power shortage in two decades is squeezing Chinese leaders between international climate expectations and the need to heat households in winter and keep factories going. 
  <p class="updated_time"> 03:40 AM CT, Oct. 26 </p> 
  [Australia Pledges ‘Net Zero’ Emissions by 2050. Its Plan Makes That Hard to Believe.](https://www.nytimes.com/2021/10/26/world/australia/net-zero-delay.html) NYT: The country’s last-minute commitment before next week’s climate summit is built on hope for new technology, and little else. 
  <p class="updated_time"> 02:50 AM CT, Oct. 26 </p> 
@@ -70,14 +76,8 @@ permalink: /charts/news/
  [How to Map a Fly Brain in 20 Million Easy Steps](https://www.nytimes.com/2021/10/26/science/drosophila-fly-brain-connectome.html) NYT: An enormous new analysis of the wiring of the fruit fly brain is a milestone for the young field of modern connectomics, scientists say. 
  <p class="updated_time"> 02:00 AM CT, Oct. 26 </p> 
  [As Gangs’ Power Grows, Haiti’s Police Are Outgunned and Underpaid](https://www.nytimes.com/2021/10/26/world/americas/haiti-police-gangs.html) NYT: The police force, dependent on an increasingly depleted state, is finding itself underfunded, underequipped and severely underpaid, even as it faces stronger opponents. 
- <p class="updated_time"> 01:58 AM CT, Oct. 26 </p> 
- [Australia Commits to Net-Zero Emissions by 2050](https://www.wsj.com/articles/australia-commits-to-net-zero-emissions-by-2050-shedding-climate-outlier-status-11635245929) WSJ: One of the world’s biggest coal exporters and greenhouse-gas emitters per capita has adopted a net-zero plan just days before the start of a U.N. climate summit, ending its status as an outlier among developed nations. 
- <p class="updated_time"> 01:43 AM CT, Oct. 26 </p> 
- [Roh Tae-woo, Leader During South Korea's Transition to Democracy, Dies](https://www.wsj.com/articles/roh-tae-woo-leader-during-south-koreas-transition-to-democracy-dies-11635245017) WSJ: Roh Tae-woo, South Korea’s first democratically elected president who played a controversial role in the country’s transition from a military dictatorship, has died at the age of 88. 
  <p class="updated_time"> 01:36 AM CT, Oct. 26 </p> 
  [Princess Mako's Royal Wedding in Japan Goes Off With Little Fanfare](https://www.nytimes.com/2021/10/25/world/asia/japan-royal-wedding-princess-mako.html) NYT: The torturous path to marriage for Princess Mako of Japan leads to a registry office in Tokyo and most likely a life abroad. 
- <p class="updated_time"> 01:34 AM CT, Oct. 26 </p> 
- [Japan's Princess Mako Loses Royal Status as She Marries a Commoner](https://www.wsj.com/articles/princess-mako-of-japan-marries-kei-komuro-loses-royal-status-11635216229) WSJ: Mako, in a statement before the cameras at a Tokyo hotel, said she was the one who urged her then-fiance and now husband, Kei Komuro, to establish a new life in the U.S., suggesting she found the scrutiny of being a royal in Japan unbearable. 
  <p class="updated_time"> 12:30 AM CT, Oct. 26 </p> 
  [Severe Drought Hits South America](https://www.wsj.com/articles/severe-drought-hits-south-america-11635240602) WSJ: A shortage of rainfall has left parts of South America in drought, hindering a huge hydroelectric dam in Paraguay and impeding the river transport of goods. 
  <p class="updated_time"> 10:42 PM CT, Oct. 25 </p> 
@@ -92,8 +92,6 @@ permalink: /charts/news/
  [Blue Origin: Jeff Bezos unveils plans for 'space business park'](https://www.bbc.co.uk/news/world-us-canada-59046076?at_medium=RSS&at_campaign=KARANGA) BBC: His space company Blue Origin hopes its venture will replace the International Space Station. 
  <p class="updated_time"> 09:46 PM CT, Oct. 25 </p> 
  [Your Tuesday Briefing](https://www.nytimes.com/2021/10/25/briefing/sudan-coup-facebook-crisis.html) NYT: The military seizes power in Sudan. 
- <p class="updated_time"> 08:02 PM CT, Oct. 25 </p> 
- [Is Taiwan's Military Ready for War? Few Think So](https://www.wsj.com/articles/taiwan-military-readiness-china-threat-us-defense-11635174187) WSJ: Poor preparation and low morale are pressing concerns for Taiwan’s armed forces. One conscript said his basic training mainly involved sweeping leaves, moving spare tires and pulling weeds. 
  <p class="updated_time"> 07:55 PM CT, Oct. 25 </p> 
  [Your Tuesday Briefing](https://www.nytimes.com/2021/10/25/briefing/sudan-coup-moderna-kids-hong-kong.html) NYT: Sudan’s military seizes power. 
  <p class="updated_time"> 07:20 PM CT, Oct. 25 </p> 
