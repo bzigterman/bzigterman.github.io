@@ -6,18 +6,20 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 08:31 AM CT, Oct. 26 </p> 
+ [Brazil senators to vote on damning Covid report](https://www.bbc.co.uk/news/world-latin-america-59051105?at_medium=RSS&at_campaign=KARANGA) BBC: The report says that President Bolsonaro should be accused of crimes over his handling of the pandemic. 
  <p class="updated_time"> 08:15 AM CT, Oct. 26 </p> 
  [Climate change: UN emissions gap report a 'thundering wake-up call'](https://www.bbc.co.uk/news/science-environment-59049770?at_medium=RSS&at_campaign=KARANGA) BBC: Current carbon-cutting plans from nations would lead the world to climate catastrophe, says the UN. 
  <p class="updated_time"> 08:13 AM CT, Oct. 26 </p> 
  [Céline's Newly Unearthed Work Causes a Stir in France](https://www.nytimes.com/2021/10/26/world/europe/celine-manuscripts-france.html) NYT: A legal battle is raging over manuscripts written by the antisemitic writer Louis-Ferdinand Céline that disappeared almost eight decades ago. 
  <p class="updated_time"> 08:09 AM CT, Oct. 26 </p> 
  [Sudan coup: Protests continue after military takeover](https://www.bbc.co.uk/news/world-africa-59045020?at_medium=RSS&at_campaign=KARANGA) BBC: Defiant protesters stay on the streets despite soldiers opening fire on crowds opposed to the coup. 
+ <p class="updated_time"> 08:05 AM CT, Oct. 26 </p> 
+ [Joshua Kimmich: German footballer's vaccine hesitancy dismays experts](https://www.bbc.co.uk/news/world-europe-59048800?at_medium=RSS&at_campaign=KARANGA) BBC: Joshua Kimmich denied he was an "anti-vaxxer" after expressing unease about long-term side effects. 
  <p class="updated_time"> 07:53 AM CT, Oct. 26 </p> 
  [Aung San Suu Kyi to Defend Herself in Myanmar 'Show Trial'](https://www.nytimes.com/2021/10/26/world/asia/myanmar-coup-trial-aung-san-suu-kyi.html) NYT: The United Nations has described the charges against the former leader as politically motivated. If convicted, she could face a maximum of 102 years in prison. 
  <p class="updated_time"> 07:47 AM CT, Oct. 26 </p> 
  [Who Is Abdalla Hamdok, Sudan Leader Ousted in Coup](https://www.nytimes.com/2021/10/25/world/africa/abdalla-hamdok-sudan.html) NYT: Sudan’s prime minister spent much of his career at international institutions before joining his country’s government. Now he has been forced out. 
- <p class="updated_time"> 07:41 AM CT, Oct. 26 </p> 
- [Brazil senators to vote on damning Covid report](https://www.bbc.co.uk/news/world-latin-america-59051105?at_medium=RSS&at_campaign=KARANGA) BBC: The report says that President Bolsonaro should be accused of crimes over his handling of the pandemic. 
  <p class="updated_time"> 07:41 AM CT, Oct. 26 </p> 
  [A Jewish Far-Right Pundit Splits the French Jewish Community as He Rises](https://www.nytimes.com/2021/10/25/world/europe/eric-zemmour-france-jewish-bernard-henri-levy.html) NYT: Éric Zemmour, eyeing the presidency, tries to rehabilitate the wartime Vichy regime that collaborated with the Nazis as part of a campaign filled with provocations. 
  <p class="updated_time"> 07:40 AM CT, Oct. 26 </p> 
@@ -110,14 +112,10 @@ permalink: /charts/news/
  [Climate change: Sir David Attenborough in 'act now' warning](https://www.bbc.co.uk/news/science-environment-59039485?at_medium=RSS&at_campaign=KARANGA) BBC: "If we don't act now, it'll be too late," warns Sir David Attenborough ahead of the COP26 climate summit. 
  <p class="updated_time"> 05:37 PM CT, Oct. 25 </p> 
  [Egypt’s Leader Ends State of Emergency, Says It’s No Longer Needed](https://www.nytimes.com/2021/10/25/world/middleeast/egypt-sisi-state-emergency.html) NYT: The move by President Abdel Fattah el-Sisi theoretically rolls back sweeping powers the government wielded in the name of fighting terrorism, but critics called it a cosmetic change. 
- <p class="updated_time"> 04:07 PM CT, Oct. 25 </p> 
- [Covid: Biden sets new rules as air travel to the US reopens](https://www.bbc.co.uk/news/world-us-canada-59044856?at_medium=RSS&at_campaign=KARANGA) BBC: All foreign travellers to the US will be required to show proof of vaccination or a negative test. 
  <p class="updated_time"> 03:23 PM CT, Oct. 25 </p> 
  [Hong Kong’s National Security Law Explained](https://www.nytimes.com/article/hong-kong-security-law-speech.html) NYT: An activist, Ma Chun-man, was convicted of inciting secession after, he said, he chanted slogans to test the limits of the law. 
  <p class="updated_time"> 03:16 PM CT, Oct. 25 </p> 
  [Tensions Between Sudan's Military and Civilian Leaders Had Been Growing](https://www.nytimes.com/2021/10/25/world/africa/sudan-military-coup-civilian.html) NYT: Civilians were set to rule the country for the first time in more than three decades. But the military was concerned about losing power. 
- <p class="updated_time"> 02:49 PM CT, Oct. 25 </p> 
- [Signs of first planet found outside our galaxy](https://www.bbc.co.uk/news/science-environment-59044650?at_medium=RSS&at_campaign=KARANGA) BBC: Astronomers have found hints of what could be the first planet ever to be discovered outside our galaxy. 
  <p class="updated_time"> 01:37 PM CT, Oct. 25 </p> 
  [Turkish President Steps Back From Expulsions of 10 Western Diplomats](https://www.nytimes.com/2021/10/25/world/europe/erdogan-turkey-ambassador.html) NYT: The threatened expulsions had risked severe economic consequences and a rupture in the North Atlantic Treaty Organization. 
  <p class="updated_time"> 12:33 PM CT, Oct. 25 </p> 
