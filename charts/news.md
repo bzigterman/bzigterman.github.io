@@ -8,6 +8,8 @@ permalink: /charts/news/
 
  <p class="updated_time"> 06:41 PM CT, Oct. 26 </p> 
  [Justin Trudeau Introduces 'Reinvigorated' Cabinet](https://www.nytimes.com/2021/10/26/world/canada/justin-trudeau-cabinet.html) NYT: The Canadian prime minister failed to gain a majority in Parliament last month but acted otherwise when unveiling his new cabinet. 
+ <p class="updated_time"> 06:39 PM CT, Oct. 26 </p> 
+ [Alex Clare: The singer who chose his faith over Adele tour](https://www.bbc.co.uk/news/entertainment-arts-59007454?at_medium=RSS&at_campaign=KARANGA) BBC: Alex Clare on record label ultimatums and a hopeful return to a kinder music industry. 
  <p class="updated_time"> 06:32 PM CT, Oct. 26 </p> 
  [Covid: Charlize Theron wants fairer distribution of vaccines](https://www.bbc.co.uk/news/world-africa-59054894?at_medium=RSS&at_campaign=KARANGA) BBC: The actress tells the BBC that nations must start sharing jabs to help reach the WHO's vaccination goals. 
  <p class="updated_time"> 06:29 PM CT, Oct. 26 </p> 
@@ -94,8 +96,6 @@ permalink: /charts/news/
  [A Jewish Far-Right Pundit Splits the French Jewish Community as He Rises](https://www.nytimes.com/2021/10/25/world/europe/eric-zemmour-france-jewish-bernard-henri-levy.html) NYT: Éric Zemmour, eyeing the presidency, tries to rehabilitate the wartime Vichy regime that collaborated with the Nazis as part of a campaign filled with provocations. 
  <p class="updated_time"> 07:40 AM CT, Oct. 26 </p> 
  [U.S. Halts Aid to Sudan Government After Coup](https://www.nytimes.com/2021/10/25/world/africa/us-aid-frozen-sudan.html) NYT: The Biden administration, calling for immediate restoration of the transition government, froze $700 million in direct aid. 
- <p class="updated_time"> 05:31 AM CT, Oct. 26 </p> 
- [Japan's Princess Mako: The woman who gave up royal status to marry](https://www.bbc.co.uk/news/world-asia-59047632?at_medium=RSS&at_campaign=KARANGA) BBC: Japan's Princess Mako has finally married her college sweetheart, thus losing her royal status. 
  <p class="updated_time"> 05:24 AM CT, Oct. 26 </p> 
  [Sudan coup: Are military takeovers on the rise in Africa?](https://www.bbc.co.uk/news/world-africa-46783600?at_medium=RSS&at_campaign=KARANGA) BBC: Despite a series of coups in Africa recently, the longer-term trend for military takeovers is downwards. 
  <p class="updated_time"> 05:18 AM CT, Oct. 26 </p> 
