@@ -6,10 +6,10 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 09:16 AM CT, Oct. 26 </p> 
+ [Sudan’s Prime Minister Is Detained at Home of General Who Led Coup](https://www.nytimes.com/2021/10/26/world/africa/sudan-coup-protests.html) NYT: Protesters demanding civilian rule flooded into the streets of major cities a day after a military takeover. Many schools, banks and shops shut, answering a call for civil disobedience from pro-democracy groups. 
  <p class="updated_time"> 09:00 AM CT, Oct. 26 </p> 
  [China Locks Down City of 4 Million to Subdue Covid Outbreak](https://www.nytimes.com/2021/10/26/world/asia/covid-china-lanzhou-lockdown.html) NYT: Lanzhou, with about four million people, reported six new coronavirus cases on Tuesday, and a total of 39 over the past week. 
- <p class="updated_time"> 09:00 AM CT, Oct. 26 </p> 
- [Sudan’s Detained Prime Minister Being Held at Home of General Who Led Coup](https://www.nytimes.com/2021/10/26/world/europe/sudan-coup-protests.html) NYT: Protesters demanding a return to civilian rule flooded into the streets of major cities again on Tuesday. Many schools, banks and shops shut, answering a call for civil disobedience from pro-democracy groups. 
  <p class="updated_time"> 08:52 AM CT, Oct. 26 </p> 
  [Roh Tae-Woo, South Korean Leader as It Moved Toward Democracy, Dies at 88](https://www.nytimes.com/2021/10/26/world/asia/roh-tae-woo-dies.html) NYT: Mr. Roh, who played a role in a bloody crackdown on pro-democracy protesters in 1980 but oversaw its winning 1988 Olympics bid, left a mixed legacy and was mired in legal trouble in his later years. 
  <p class="updated_time"> 08:51 AM CT, Oct. 26 </p> 
@@ -198,8 +198,6 @@ permalink: /charts/news/
  [Israel Accuses 6 Palestinian Rights Groups of Terrorism](https://www.nytimes.com/2021/10/22/world/middleeast/israel-palestinian-rights-groups.html) NYT: The Defense Ministry said the groups work for leftist militants. Critics said the charge was aimed at quelling scrutiny of Israeli rights abuses. 
  <p class="updated_time"> 07:36 PM CT, Oct. 22 </p> 
  [Illegal Border Crossings Soar to Record High, New Data Shows](https://www.nytimes.com/2021/10/22/us/politics/border-crossings-immigration-record-high.html) NYT: Migrants were encountered 1.7 million times in the last 12 months, the highest number of illegal crossings recorded since at least 1960. 
- <p class="updated_time"> 03:18 PM CT, Oct. 22 </p> 
- [Barbados Elects Its First Head of State, Replacing Queen Elizabeth](https://www.nytimes.com/2021/10/22/world/americas/sandra-mason-barbados.html) NYT: The country’s Parliament chose Sandra Mason, the governor general, to assume the symbolic title, a decisive move to distance itself from Barbados’s colonial past. 
 
 
 
