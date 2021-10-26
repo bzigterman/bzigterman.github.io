@@ -6,6 +6,10 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 08:51 AM CT, Oct. 26 </p> 
+ [Traveling Through a Divided Israel](https://www.nytimes.com/2021/10/25/world/middleeast/israel-jews-palestinians-journey.html) NYT: Two Times journalists drive the length of Israel to discover what it means to be Israeli today. They meet a kaleidoscope of people, searching for belonging but far apart on how to find it. 
+ <p class="updated_time"> 08:50 AM CT, Oct. 26 </p> 
+ [Moderna to Sell Up to 110 Million Covid Vaccine Doses to African Countries](https://www.nytimes.com/2021/10/26/world/africa/covid-moderna-african-union.html) NYT: Moderna’s shots have previously gone almost entirely to wealthier countries. 
  <p class="updated_time"> 08:31 AM CT, Oct. 26 </p> 
  [Brazil senators to vote on damning Covid report](https://www.bbc.co.uk/news/world-latin-america-59051105?at_medium=RSS&at_campaign=KARANGA) BBC: The report says that President Bolsonaro should be accused of crimes over his handling of the pandemic. 
  <p class="updated_time"> 08:15 AM CT, Oct. 26 </p> 
@@ -28,8 +32,6 @@ permalink: /charts/news/
  [Crimean gold must return to Ukraine - Dutch court](https://www.bbc.co.uk/news/world-europe-59048895?at_medium=RSS&at_campaign=KARANGA) BBC: The legal wrangle has dragged on for seven years, since Russia annexed the peninsula from Ukraine. 
  <p class="updated_time"> 06:56 AM CT, Oct. 26 </p> 
  [Sudan’s Shuttered Capital Pauses Before a Fresh Day of Protest](https://www.nytimes.com/2021/10/26/world/europe/sudan-coup-protests.html) NYT: Schools, banks and shops shut in the capital, Khartoum, and other cities in response to a call for civil disobedience from pro-democracy groups, a day after a military coup. 
- <p class="updated_time"> 06:34 AM CT, Oct. 26 </p> 
- [Moderna to Sell Up to 110 Million Covid Vaccine Doses to African Countries](https://www.nytimes.com/2021/10/26/world/africa/covid-moderna-african-union.html) NYT: Moderna’s shots have previously gone almost entirely to wealthier countries. 
  <p class="updated_time"> 06:27 AM CT, Oct. 26 </p> 
  [Can Lego help save Singapore's coral reefs?](https://www.bbc.co.uk/news/world-asia-58784313?at_medium=RSS&at_campaign=KARANGA) BBC: Scientists in Singapore are using the popular building block in an effort to rejuvenate its reefs. 
  <p class="updated_time"> 06:22 AM CT, Oct. 26 </p> 
@@ -86,8 +88,6 @@ permalink: /charts/news/
  [Blue Origin: Jeff Bezos unveils plans for 'space business park'](https://www.bbc.co.uk/news/world-us-canada-59046076?at_medium=RSS&at_campaign=KARANGA) BBC: His space company Blue Origin hopes its venture will replace the International Space Station. 
  <p class="updated_time"> 09:46 PM CT, Oct. 25 </p> 
  [Your Tuesday Briefing](https://www.nytimes.com/2021/10/25/briefing/sudan-coup-facebook-crisis.html) NYT: The military seizes power in Sudan. 
- <p class="updated_time"> 08:27 PM CT, Oct. 25 </p> 
- [Traveling Through a Divided Israel](https://www.nytimes.com/2021/10/25/world/middleeast/israel-jews-palestinians-journey.html) NYT: Two Times journalists drive the length of Israel to discover what it means to be Israeli today. They meet a kaleidoscope of people, searching for belonging but far apart on how to find it. 
  <p class="updated_time"> 08:02 PM CT, Oct. 25 </p> 
  [Is Taiwan's Military Ready for War? Few Think So](https://www.wsj.com/articles/taiwan-military-readiness-china-threat-us-defense-11635174187) WSJ: Poor preparation and low morale are pressing concerns for Taiwan’s armed forces. One conscript said his basic training mainly involved sweeping leaves, moving spare tires and pulling weeds. 
  <p class="updated_time"> 07:55 PM CT, Oct. 25 </p> 
@@ -192,8 +192,6 @@ permalink: /charts/news/
  [U.S. Struggles With Afghan Evacuees Weeded Out, and Now in Limbo](https://www.nytimes.com/2021/10/23/us/politics/afghan-evacuees-kosovo.html) NYT: No final decisions have been made, but dozens red-flagged for apparent criminal pasts or links to militants have been sent to a base in Kosovo, where their fate is uncertain. 
  <p class="updated_time"> 08:37 AM CT, Oct. 23 </p> 
  [Cricket's T20 World Cup:  Pakistan and India Face Off](https://www.nytimes.com/2021/10/23/world/asia/cricket-india-pakistan.html) NYT: It’s one of the greatest rivalries in sports, when war off the field allows it — a contest of national identities that will be renewed this Sunday in a World Cup match. 
- <p class="updated_time"> 07:23 AM CT, Oct. 23 </p> 
- [U.N. Flight Thwarted as Fighting Grows in Ethiopia](https://www.nytimes.com/2021/10/22/world/africa/ethiopia-united-nations-aid.html) NYT: A humanitarian flight was ordered to abort a landing in the capital of Ethiopia’s Tigray region, epicenter of the conflict, as government airstrikes hit the area for a fourth day. 
  <p class="updated_time"> 07:09 AM CT, Oct. 23 </p> 
  [Turkish Opposition Begins Joining Ranks Against Erdogan](https://www.nytimes.com/2021/10/23/world/middleeast/turkey-election-erdogan-opposition.html) NYT: With an eye on elections, six parties are working on a plan to end a powerful presidency and return to a parliamentary system. 
  <p class="updated_time"> 11:24 PM CT, Oct. 22 </p> 
