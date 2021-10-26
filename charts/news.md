@@ -53,7 +53,7 @@ permalink: /charts/news/
  <p class="updated_time"> 07:20 PM CT, Oct. 25 </p> 
  ['Why I returned to Boko Haram and how I escaped'](https://www.bbc.co.uk/news/world-africa-59002677?at_medium=RSS&at_campaign=KARANGA) BBC: Aisha Yerima, who was kidnapped aged 21, tells of her time living with militants in Nigeria. 
  <p class="updated_time"> 07:12 PM CT, Oct. 25 </p> 
- [Climate change: Four things you can do to help fight climate change](https://www.bbc.co.uk/news/science-environment-58171814?at_medium=RSS&at_campaign=KARANGA) BBC: Small changes to our lifestyles and choices could limit our personal carbon footprint. 
+ [Climate change: Four things you can do about your carbon footprint](https://www.bbc.co.uk/news/science-environment-58171814?at_medium=RSS&at_campaign=KARANGA) BBC: Small changes to our lifestyles and choices could limit our personal carbon footprint. 
  <p class="updated_time"> 07:08 PM CT, Oct. 25 </p> 
  [Fleeing Afghanistan: 'Women are imprisoned, while the criminals are free'](https://www.bbc.co.uk/news/world-asia-59009470?at_medium=RSS&at_campaign=KARANGA) BBC: When Afghanistan fell, hundreds of female judges went into hiding. After months living in fear, 26 have escaped. 
  <p class="updated_time"> 07:08 PM CT, Oct. 25 </p> 
