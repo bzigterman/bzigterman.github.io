@@ -36,6 +36,8 @@ permalink: /charts/news/
  [How a supply chain shortage hurts local businesses](https://www.bbc.co.uk/news/world-us-canada-59042157?at_medium=RSS&at_campaign=KARANGA) BBC: A bottleneck could cost Daniel Liberson, an artisanal vinegar maker in Virginia, his small business. 
  <p class="updated_time"> 06:48 PM CT, Oct. 25 </p> 
  [Facebook earns $9bn despite whistleblower scandal](https://www.bbc.co.uk/news/business-59046002?at_medium=RSS&at_campaign=KARANGA) BBC: The firm posts strong profits as it continues to face negative press over leaked internal documents. 
+ <p class="updated_time"> 06:48 PM CT, Oct. 25 </p> 
+ [Facebook earns $9bn despite whistleblower scandal](https://www.bbc.co.uk/news/business-59046002?at_medium=RSS&at_campaign=KARANGA) BBC: The firm posts strong profits as it continues to face negative press over leaked internal documents. 
  <p class="updated_time"> 06:45 PM CT, Oct. 25 </p> 
  [The Harder They Fall: 'Raising hell' in Netflix's all-black Western](https://www.bbc.co.uk/news/entertainment-arts-58765908?at_medium=RSS&at_campaign=KARANGA) BBC: London-born Jeymes Samuel directs Regina King and Idris Elba in The Harder They Fall. 
  <p class="updated_time"> 06:10 PM CT, Oct. 25 </p> 
