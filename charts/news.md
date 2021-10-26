@@ -6,12 +6,18 @@ permalink: /charts/news/
 
 ## World News
 
- <p class="updated_time"> 05:35 PM CT, Oct. 26 </p> 
+ <p class="updated_time"> 06:12 PM CT, Oct. 26 </p> 
+ [Roh Tae-woo, South Korean Leader During Move Toward Democracy, Dies at 88](https://www.nytimes.com/2021/10/26/world/asia/roh-tae-woo-dies.html) NYT: He played a role in a bloody crackdown on pro-democracy protesters in 1980 but went on to oversee his country’s winning 1988 Olympics bid. He was later mired in legal trouble. 
+ <p class="updated_time"> 06:10 PM CT, Oct. 26 </p> 
+ [Life at 50C: Surviving in Kuwait's 'unbearable' heat](https://www.bbc.co.uk/news/world-middle-east-59054893?at_medium=RSS&at_campaign=KARANGA) BBC: The Middle East is warming faster than much of the world, leaving Kuwaitis struggling with everyday life. 
+ <p class="updated_time"> 06:08 PM CT, Oct. 26 </p> 
+ [Ros Atkins on... India's climate challenge](https://www.bbc.co.uk/news/world-asia-india-59049691?at_medium=RSS&at_campaign=KARANGA) BBC: A look at how India is trying to balance banishing poverty with meeting its climate commitments. 
+ <p class="updated_time"> 06:08 PM CT, Oct. 26 </p> 
  [Justin Trudeau Introduces 'Reinvigorated' Cabinet](https://www.nytimes.com/2021/10/26/world/canada/justin-trudeau-cabinet.html) NYT: The Canadian prime minister failed to gain a majority in Parliament last month but acted otherwise when unveiling his new cabinet. 
  <p class="updated_time"> 05:27 PM CT, Oct. 26 </p> 
  [Rust: Assistant director had been sacked before over gun safety](https://www.bbc.co.uk/news/entertainment-arts-59055138?at_medium=RSS&at_campaign=KARANGA) BBC: Dave Halls had previously been dismissed from another film over gun safety violations. 
  <p class="updated_time"> 05:05 PM CT, Oct. 26 </p> 
- [Poland’s Heartland Would Rather Keep E.U. Money Than Break With Bloc](https://www.nytimes.com/2021/10/26/world/europe/poland-eu-aid.html) NYT: Despite the flame-throwing rhetoric of their leaders, conservative supporters of Poland’s ruling party are dependent on millions of euros in aid, and don’t want to risk it. 
+ [Why Poland Would Rather Keep E.U. Money Than Break With Bloc](https://www.nytimes.com/2021/10/26/world/europe/poland-eu-aid.html) NYT: Despite the flame-throwing rhetoric of their leaders, conservative supporters of Poland’s ruling party are dependent on millions of euros in aid, and don’t want to risk it. 
  <p class="updated_time"> 04:55 PM CT, Oct. 26 </p> 
  [Iranian Motorists Hit With Cyberattack at Filling Stations](https://www.nytimes.com/2021/10/26/world/middleeast/iran-gas-station-hack.html) NYT: Iranian news agencies reported that a cyberattack of unidentified origin had sabotaged a payment system. 
  <p class="updated_time"> 04:38 PM CT, Oct. 26 </p> 
@@ -28,8 +34,6 @@ permalink: /charts/news/
  [Queen Elizabeth Will Skip Climate Summit in Glasgow](https://www.nytimes.com/2021/10/26/world/europe/queen-elizabeth-cop26-summit.html) NYT: The 95-year-old queen, after 70 years on the throne, is the oldest and longest-serving monarch in British history. 
  <p class="updated_time"> 02:29 PM CT, Oct. 26 </p> 
  [Sudan army seized power to prevent civil war - coup leader](https://www.bbc.co.uk/news/world-africa-59052260?at_medium=RSS&at_campaign=KARANGA) BBC: Gen Burhan also said he had taken the deposed prime minister to his house "for his own safety." 
- <p class="updated_time"> 02:28 PM CT, Oct. 26 </p> 
- [Roh Tae-woo, South Korean Leader During Move Toward Democracy, Dies at 88](https://www.nytimes.com/2021/10/26/world/asia/roh-tae-woo-dies.html) NYT: He played a role in a bloody crackdown on pro-democracy protesters in 1980 but went on to oversee his country’s winning 1988 Olympics bid. He was later mired in legal trouble. 
  <p class="updated_time"> 02:18 PM CT, Oct. 26 </p> 
  [She Climbed Yosemite's El Capitan to Celebrate Turning 70](https://www.nytimes.com/2021/10/26/sports/alex-honnold-mother-el-capitan.html) NYT: Dierdre Wolownick, whose son, Alex Honnold, is one of the world’s top rock climbers, ascended Yosemite’s El Capitan to celebrate her 70th birthday. 
  <p class="updated_time"> 01:57 PM CT, Oct. 26 </p> 
@@ -38,6 +42,8 @@ permalink: /charts/news/
  [Ignoring Sanctions, Russia Renews Broad Cybersurveillance Operation](https://www.nytimes.com/2021/10/25/us/politics/russia-cybersurveillance-biden.html) NYT: The new campaign came only months after President Biden imposed sanctions on Moscow in response to a series of spy operations it had conducted around the world. 
  <p class="updated_time"> 12:53 PM CT, Oct. 26 </p> 
  [3 Children and 1 Woman Drowned While Migrating Across the Aegean Sea](https://www.nytimes.com/2021/10/26/world/europe/children-die-greece-migrant-crossing.html) NYT: Migrant crossings are down and so are deaths at sea, but Tuesday’s incident was a reminder that dangers remain. 
+ <p class="updated_time"> 12:01 PM CT, Oct. 26 </p> 
+ [Charlottesville: Why are the ‘Unite the Right’ organisers on trial?](https://www.bbc.co.uk/news/world-us-canada-59054166?at_medium=RSS&at_campaign=KARANGA) BBC: Nine people injured at the 2017 far-right 'Unite the Right' rally in Virginia are suing organisers. 
  <p class="updated_time"> 11:57 AM CT, Oct. 26 </p> 
  [Catania: Floods swamp city centre streets as rare storm hits Sicily](https://www.bbc.co.uk/news/world-europe-59054531?at_medium=RSS&at_campaign=KARANGA) BBC: At least two people have died amid flooding caused by a rare storm in the city of Catania. 
  <p class="updated_time"> 11:55 AM CT, Oct. 26 </p> 
@@ -132,8 +138,6 @@ permalink: /charts/news/
  [Fleeing Afghanistan: 'Women are imprisoned, while the criminals are free'](https://www.bbc.co.uk/news/world-asia-59009470?at_medium=RSS&at_campaign=KARANGA) BBC: When Afghanistan fell, hundreds of female judges went into hiding. After months living in fear, 26 have escaped. 
  <p class="updated_time"> 07:08 PM CT, Oct. 25 </p> 
  [Eitan Biran Custody Ruling Issued by Israeli Court](https://www.nytimes.com/2021/10/25/world/middleeast/eitan-biran-israel-court.html) NYT: Eitan Biran, the 6-year-old survivor of a cable car accident in Italy, should live there with his aunt, not his grandfather in Israel, ruled a judge in Tel Aviv. 
- <p class="updated_time"> 07:01 PM CT, Oct. 25 </p> 
- [How a supply chain shortage hurts local businesses](https://www.bbc.co.uk/news/world-us-canada-59042157?at_medium=RSS&at_campaign=KARANGA) BBC: A bottleneck could cost Daniel Liberson, an artisanal vinegar maker in Virginia, his small business. 
  <p class="updated_time"> 06:45 PM CT, Oct. 25 </p> 
  [The Harder They Fall: 'Raising hell' in Netflix's all-black Western](https://www.bbc.co.uk/news/entertainment-arts-58765908?at_medium=RSS&at_campaign=KARANGA) BBC: London-born Jeymes Samuel directs Regina King and Idris Elba in The Harder They Fall. 
  <p class="updated_time"> 06:01 PM CT, Oct. 25 </p> 
@@ -160,8 +164,6 @@ permalink: /charts/news/
  [Behold, the Worm Blob and Its Computerized Twin](https://www.nytimes.com/2021/10/25/science/worm-blobs.html) NYT: It wriggles. It pulls. It falls apart and comes back together. It is everything you wish for and everything you fear. 
  <p class="updated_time"> 06:50 AM CT, Oct. 25 </p> 
  [In India, Facebook Struggles to Combat Misinformation and Hate Speech ](https://www.nytimes.com/2021/10/23/technology/facebook-india-misinformation.html) NYT: Internal documents show a struggle with misinformation, hate speech and celebrations of violence in the country, the company’s biggest market. 
- <p class="updated_time"> 06:09 AM CT, Oct. 25 </p> 
- [Afghan baby girl sold for $500 by starving family](https://www.bbc.co.uk/news/world-asia-59034650?at_medium=RSS&at_campaign=KARANGA) BBC: The BBC’s Yogita Limaye witnesses first-hand the extreme poverty engulfing millions in Afghanistan. 
  <p class="updated_time"> 05:44 AM CT, Oct. 25 </p> 
  [Picking Their Fights](https://www.nytimes.com/2021/10/25/briefing/biden-congress-democrats-spending-bill.html) NYT: Creating temporary government programs could have big political benefits for Democrats. 
  <p class="updated_time"> 04:57 AM CT, Oct. 25 </p> 
@@ -176,14 +178,8 @@ permalink: /charts/news/
  [Please Don’t Feed the Whale Sharks? Fishing Town Says It Must, to Prosper.](https://www.nytimes.com/2021/10/24/world/asia/philippines-whale-shark-tourism.html) NYT: The chance to swim with the world’s biggest fish drew tourists to a Philippines town, but conservation groups denounce the hand-feeding that keeps the gentle creatures around. 
  <p class="updated_time"> 07:00 PM CT, Oct. 24 </p> 
  [Climate change: The environmental disasters we've almost fixed](https://www.bbc.co.uk/news/science-environment-58874831?at_medium=RSS&at_campaign=KARANGA) BBC: From acid rain to the ozone hole: Can we learn from the environmental "success stories" of the past? 
- <p class="updated_time"> 06:59 PM CT, Oct. 24 </p> 
- [How China’s past shapes Xi's thinking - and his view of the world](https://www.bbc.co.uk/news/world-asia-58969969?at_medium=RSS&at_campaign=KARANGA) BBC: Heightened tensions with Taiwan has the world wondering where President Xi Jinping sees China on the world stage. 
- <p class="updated_time"> 06:57 PM CT, Oct. 24 </p> 
- [Is internet addiction a growing problem?](https://www.bbc.co.uk/news/business-58979895?at_medium=RSS&at_campaign=KARANGA) BBC: Experts warn that the pandemic lockdowns have made more people vulnerable. 
  <p class="updated_time"> 06:22 PM CT, Oct. 24 </p> 
  [Cases Grow in Germany as Restrictions Set to Expire](https://www.nytimes.com/2021/10/24/world/germany-covid-surge.html) NYT: Infections have increased by 57 percent in the past two weeks, while deaths on average in the same period have increased by 11 percent. 
- <p class="updated_time"> 04:24 PM CT, Oct. 24 </p> 
- [James Michael Tyler: 11 of Gunther's funniest Friends moments](https://www.bbc.co.uk/news/entertainment-arts-57608696?at_medium=RSS&at_campaign=KARANGA) BBC: A look back at some of the character's highlights following actor James Michael Tyler's death. 
  <p class="updated_time"> 04:04 PM CT, Oct. 24 </p> 
  [Your Monday Briefing](https://www.nytimes.com/2021/10/24/briefing/your-monday-briefing.html) NYT: Facebook spreads misinformation in India. 
  <p class="updated_time"> 01:51 PM CT, Oct. 24 </p> 
