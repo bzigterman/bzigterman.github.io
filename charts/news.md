@@ -6,8 +6,18 @@ permalink: /charts/news/
 
 ## World News
 
- <p class="updated_time"> 06:49 PM CT, Oct. 25 </p> 
+ <p class="updated_time"> 07:20 PM CT, Oct. 25 </p> 
+ ['Why I returned to Boko Haram and how I escaped'](https://www.bbc.co.uk/news/world-africa-59002677?at_medium=RSS&at_campaign=KARANGA) BBC: Aisha Yerima, who was kidnapped aged 21, tells of her time living with militants in Nigeria. 
+ <p class="updated_time"> 07:13 PM CT, Oct. 25 </p> 
  [Sudan’s Military Seizes Power, Casting Democratic Transition Into Chaos](https://www.nytimes.com/2021/10/25/world/africa/sudan-military-coup.html) NYT: Civilian and military leaders were supposed to share power after a popular uprising in 2019 overthrew a decades-long dictatorship. On Monday the military detained the civilian prime minister. 
+ <p class="updated_time"> 07:08 PM CT, Oct. 25 </p> 
+ [Fleeing Afghanistan: 'Women are imprisoned, while the criminals are free'](https://www.bbc.co.uk/news/world-asia-59009470?at_medium=RSS&at_campaign=KARANGA) BBC: When Afghanistan fell, hundreds of female judges went into hiding. After months living in fear, 26 have escaped. 
+ <p class="updated_time"> 07:08 PM CT, Oct. 25 </p> 
+ [Eitan Biran Custody Ruling Issued by Israeli Court](https://www.nytimes.com/2021/10/25/world/middleeast/eitan-biran-israel-court.html) NYT: Eitan Biran, the 6-year-old survivor of a cable car accident in Italy, should live there with his aunt, not his grandfather in Israel, ruled a judge in Tel Aviv. 
+ <p class="updated_time"> 07:01 PM CT, Oct. 25 </p> 
+ [How a supply chain shortage hurts local businesses](https://www.bbc.co.uk/news/world-us-canada-59042157?at_medium=RSS&at_campaign=KARANGA) BBC: A bottleneck could cost Daniel Liberson, an artisanal vinegar maker in Virginia, his small business. 
+ <p class="updated_time"> 06:45 PM CT, Oct. 25 </p> 
+ [The Harder They Fall: 'Raising hell' in Netflix's all-black Western](https://www.bbc.co.uk/news/entertainment-arts-58765908?at_medium=RSS&at_campaign=KARANGA) BBC: London-born Jeymes Samuel directs Regina King and Idris Elba in The Harder They Fall. 
  <p class="updated_time"> 06:10 PM CT, Oct. 25 </p> 
  [Can Lego help save Singapore's coral reefs?](https://www.bbc.co.uk/news/world-asia-58784313?at_medium=RSS&at_campaign=KARANGA) BBC: Scientists in Singapore are using the popular building block in an effort to rejuvenate its reefs. 
  <p class="updated_time"> 05:37 PM CT, Oct. 25 </p> 
@@ -34,8 +44,6 @@ permalink: /charts/news/
  [An Italian Politician’s Quest for Attention Gets a Boost From Richard Gere](https://www.nytimes.com/2021/10/25/world/europe/richard-gere-matteo-salvini-immigrant-trial.html) NYT: The actor may testify against Matteo Salvini, Italy’s former interior minister, in a case involving the treatment of migrants. 
  <p class="updated_time"> 02:09 PM CT, Oct. 25 </p> 
  [Who is Abdalla Hamdok, Sudan Leader Ousted in Coup](https://www.nytimes.com/2021/10/25/world/africa/abdalla-hamdok-sudan.html) NYT: Sudan’s  prime minister spent much of his career at international institutions before joining his country’s government. Now he has been forced out. 
- <p class="updated_time"> 01:44 PM CT, Oct. 25 </p> 
- [Sudan's Prime Minister Abdalla Hamdok Is Detained in Apparent Coup](https://www.nytimes.com/live/2021/10/25/world/sudan-coup/coup) NYT: Demonstrators filled the streets of the capital, Khartoum, soldiers reportedly fired on some of them, gunfire echoed through the city and internet access was sharply curtailed. 
  <p class="updated_time"> 01:37 PM CT, Oct. 25 </p> 
  [Turkish President Steps Back From Expulsions of 10 Western Diplomats](https://www.nytimes.com/2021/10/25/world/europe/erdogan-turkey-ambassador.html) NYT: The threatened expulsions had risked severe economic consequences and a rupture in the North Atlantic Treaty Organization. 
  <p class="updated_time"> 12:52 PM CT, Oct. 25 </p> 
@@ -102,8 +110,6 @@ permalink: /charts/news/
  [SolarWinds Hackers Step Up Attacks on Tech Companies](https://www.wsj.com/articles/microsoft-solarwinds-hackers-continue-to-hit-technology-companies-11635145200) WSJ: The Russia-linked hackers behind last year’s compromise of a wide swath of the U.S. government and scores of private companies have redoubled their efforts in recent months, Microsoft cybersecurity experts said. 
  <p class="updated_time"> 07:18 PM CT, Oct. 24 </p> 
  [Please Don’t Feed the Whale Sharks? Fishing Town Says It Must, to Prosper.](https://www.nytimes.com/2021/10/24/world/asia/philippines-whale-shark-tourism.html) NYT: The chance to swim with the world’s biggest fish drew tourists to a Philippines town, but conservation groups denounce the hand-feeding that keeps the gentle creatures around. 
- <p class="updated_time"> 07:02 PM CT, Oct. 24 </p> 
- [Tigray crisis: How the West has fallen out with Ethiopia's PM](https://www.bbc.co.uk/news/world-africa-58967302?at_medium=RSS&at_campaign=KARANGA) BBC: The EU and US threaten punitive action against the government and rebels as conflict escalates. 
  <p class="updated_time"> 07:01 PM CT, Oct. 24 </p> 
  [Climate change: How do we know it is happening and caused by humans?](https://www.bbc.co.uk/news/science-environment-58954530?at_medium=RSS&at_campaign=KARANGA) BBC: What's the evidence for global warming and how do we know it's being caused by human activity? 
  <p class="updated_time"> 07:00 PM CT, Oct. 24 </p> 
@@ -170,30 +176,16 @@ permalink: /charts/news/
  [Barbados Elects Its First Head of State, Replacing Queen Elizabeth](https://www.nytimes.com/2021/10/22/world/americas/sandra-mason-barbados.html) NYT: The country’s Parliament chose Sandra Mason, the governor general, to assume the symbolic title, a decisive move to distance itself from Barbados’s colonial past. 
  <p class="updated_time"> 03:15 PM CT, Oct. 22 </p> 
  [U.S. Warns of Efforts by China to Collect Genetic Data](https://www.nytimes.com/2021/10/22/us/politics/china-genetic-data-collection.html) NYT: The National Counterintelligence and Security Center said American companies needed to better secure critical technologies as Beijing seeks to dominate the so-called bioeconomy. 
- <p class="updated_time"> 02:01 PM CT, Oct. 22 </p> 
- [New Zealand announces a plan to move away from lockdowns.](https://www.nytimes.com/2021/10/22/world/new-zealand-announces-a-plan-to-move-away-from-lockdowns.html) NYT: NA 
  <p class="updated_time"> 01:25 PM CT, Oct. 22 </p> 
  [Geert Jan van Oldenborgh, 59, Dies; Linked Weather Disasters to Climate Change](https://www.nytimes.com/2021/10/22/climate/geert-jan-van-oldenborgh-dead.html) NYT: With a colleague, he founded a group that quickly analyzes heat waves and other extreme events for signs of global warming’s influence. 
  <p class="updated_time"> 12:23 PM CT, Oct. 22 </p> 
  [Gangs in Haiti, Breaking a Taboo, Target the Church](https://www.nytimes.com/2021/10/22/world/americas/haiti-gangs-church.html) NYT: A French priest in Haiti recalls his kidnapping by 400 Mawozo, the same gang holding 16 Americans and a Canadian, including children, for ransom. 
  <p class="updated_time"> 11:22 AM CT, Oct. 22 </p> 
  [Poland’s Attacks on Rule of Law Leave Europe at Odds With Itself](https://www.nytimes.com/2021/10/22/world/europe/eu-poland-rule-of-law.html) NYT: E.U. leaders are facing an increasingly urgent question: What to do with a member that repeatedly violates a core principle, but refuses to leave the club? 
- <p class="updated_time"> 10:19 AM CT, Oct. 22 </p> 
- [Melbourne, 262 Days in Lockdown, Celebrates a Reopening](https://www.nytimes.com/2021/10/22/world/australia/melbourne-covid-lockdown-reopening.html) NYT: After hitting a vaccination target, Australia’s second largest city now has many fewer restrictions. 
  <p class="updated_time"> 07:43 AM CT, Oct. 22 </p> 
  [Contrails: How tweaking flight plans can help the climate](https://www.bbc.co.uk/news/business-58769351?at_medium=RSS&at_campaign=KARANGA) BBC: Why experts say cutting contrails costs less than $1bn a year but may be worth so much more. 
  <p class="updated_time"> 07:15 AM CT, Oct. 22 </p> 
  [Bali reopens to foreign tourists, but government rules keep them away.](https://www.nytimes.com/2021/10/22/world/bali-reopens-to-foreign-tourists-but-government-rules-keep-them-away.html) NYT: NA 
- <p class="updated_time"> 06:06 AM CT, Oct. 22 </p> 
- [Britain opened up with hardly any restrictions, a gamble now facing its toughest test.](https://www.nytimes.com/2021/10/22/world/britain-opened-up-with-hardly-any-restrictions-a-gamble-now-facing-its-toughest-test.html) NYT: NA 
- <p class="updated_time"> 05:36 AM CT, Oct. 22 </p> 
- [Death after Alec Baldwin fires prop gun 'unfathomable'](https://www.bbc.co.uk/news/entertainment-arts-59008375?at_medium=RSS&at_campaign=KARANGA) BBC: A director who worked with Halyna Hutchins in 2020 describes the gun safety protocols films tend to use. 
- <p class="updated_time"> 05:25 AM CT, Oct. 22 </p> 
- [An Arctic Dispatch](https://www.nytimes.com/2021/10/22/briefing/russia-climate-change-arctic.html) NYT: We visit a Russian town on the Arctic Ocean that sees climate change as an economic opportunity. 
- <p class="updated_time"> 04:50 AM CT, Oct. 22 </p> 
- [Thailand to Reopen to Vaccinated Travelers from Dozens of Countries](https://www.nytimes.com/2021/10/22/world/asia/thailand-covid-travel-quarantine.html) NYT: NA 
- <p class="updated_time"> 04:06 AM CT, Oct. 22 </p> 
- [How Russia Is Cashing In on Climate Change](https://www.nytimes.com/2021/10/22/world/europe/russia-arctic-climate-change-putin.html) NYT: Global warming may pose grave dangers around the world, but as one tiny Russian town on the Arctic Ocean shows, it can also be a ticket to prosperity. 
 
 
 
