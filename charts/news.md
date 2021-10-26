@@ -6,10 +6,22 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 08:27 PM CT, Oct. 25 </p> 
+ [Traveling Through a Divided Israel](https://www.nytimes.com/2021/10/25/world/middleeast/israel-jews-palestinians-journey.html) NYT: Two Times journalists drive the length of Israel to discover what it means to be Israeli today. They meet a kaleidoscope of people, searching for belonging but far apart on how to find it. 
+ <p class="updated_time"> 08:12 PM CT, Oct. 25 </p> 
+ [Sudan’s Military Seizes Power, Casting Democratic Transition Into Chaos](https://www.nytimes.com/2021/10/25/world/africa/sudan-military-coup.html) NYT: Civilian and military leaders were supposed to share power after a popular uprising in 2019 overthrew a decades-long dictatorship. On Monday the military detained the civilian prime minister. 
+ <p class="updated_time"> 07:59 PM CT, Oct. 25 </p> 
+ [Eco-friendly sex: What is it and how does it impact on climate change?](https://www.bbc.co.uk/digihub/science-59037605?at_medium=RSS&at_campaign=KARANGA) BBC: As more people try to live environmentally friendly lives, how do we make sex more sustainable? 
+ <p class="updated_time"> 07:56 PM CT, Oct. 25 </p> 
+ [Who is Abdalla Hamdok, Sudan Leader Ousted in Coup](https://www.nytimes.com/2021/10/25/world/africa/abdalla-hamdok-sudan.html) NYT: Sudan’s  prime minister spent much of his career at international institutions before joining his country’s government. Now he has been forced out. 
+ <p class="updated_time"> 07:55 PM CT, Oct. 25 </p> 
+ [Your Tuesday Briefing](https://www.nytimes.com/2021/10/25/briefing/sudan-coup-moderna-kids-hong-kong.html) NYT: Sudan’s military seizes power. 
+ <p class="updated_time"> 07:55 PM CT, Oct. 25 </p> 
+ [U.S. Halts Aid to Sudan Government After Coup](https://www.nytimes.com/2021/10/25/world/africa/us-aid-frozen-sudan.html) NYT: The Biden administration, calling for immediate restoration of the transition government, froze $700 million in direct aid. 
  <p class="updated_time"> 07:20 PM CT, Oct. 25 </p> 
  ['Why I returned to Boko Haram and how I escaped'](https://www.bbc.co.uk/news/world-africa-59002677?at_medium=RSS&at_campaign=KARANGA) BBC: Aisha Yerima, who was kidnapped aged 21, tells of her time living with militants in Nigeria. 
- <p class="updated_time"> 07:13 PM CT, Oct. 25 </p> 
- [Sudan’s Military Seizes Power, Casting Democratic Transition Into Chaos](https://www.nytimes.com/2021/10/25/world/africa/sudan-military-coup.html) NYT: Civilian and military leaders were supposed to share power after a popular uprising in 2019 overthrew a decades-long dictatorship. On Monday the military detained the civilian prime minister. 
+ <p class="updated_time"> 07:12 PM CT, Oct. 25 </p> 
+ [Climate change: Four things you can do to help fight climate change](https://www.bbc.co.uk/news/science-environment-58171814?at_medium=RSS&at_campaign=KARANGA) BBC: Small changes to our lifestyles and choices could limit our personal carbon footprint. 
  <p class="updated_time"> 07:08 PM CT, Oct. 25 </p> 
  [Fleeing Afghanistan: 'Women are imprisoned, while the criminals are free'](https://www.bbc.co.uk/news/world-asia-59009470?at_medium=RSS&at_campaign=KARANGA) BBC: When Afghanistan fell, hundreds of female judges went into hiding. After months living in fear, 26 have escaped. 
  <p class="updated_time"> 07:08 PM CT, Oct. 25 </p> 
@@ -22,16 +34,12 @@ permalink: /charts/news/
  [Can Lego help save Singapore's coral reefs?](https://www.bbc.co.uk/news/world-asia-58784313?at_medium=RSS&at_campaign=KARANGA) BBC: Scientists in Singapore are using the popular building block in an effort to rejuvenate its reefs. 
  <p class="updated_time"> 05:37 PM CT, Oct. 25 </p> 
  [Egypt’s Leader Ends State of Emergency, Says It’s No Longer Needed](https://www.nytimes.com/2021/10/25/world/middleeast/egypt-sisi-state-emergency.html) NYT: The move by President Abdel Fattah el-Sisi theoretically rolls back sweeping powers the government wielded in the name of fighting terrorism, but critics called it a cosmetic change. 
- <p class="updated_time"> 05:34 PM CT, Oct. 25 </p> 
- [U.S. Halts Aid to Sudan Government After Coup](https://www.nytimes.com/2021/10/25/world/africa/us-aid-frozen-sudan.html) NYT: The Biden administration, calling for immediate restoration of the transition government, froze $700 million in direct aid. 
  <p class="updated_time"> 04:43 PM CT, Oct. 25 </p> 
  [Alec Baldwin was pointing gun at camera in Rust rehearsal, legal papers say](https://www.bbc.co.uk/news/entertainment-arts-59035483?at_medium=RSS&at_campaign=KARANGA) BBC: Legal papers shed light on what happened when actor Alec Baldwin fired a gun with tragic results. 
  <p class="updated_time"> 04:07 PM CT, Oct. 25 </p> 
  [Covid: Biden sets new rules as air travel to the US reopens](https://www.bbc.co.uk/news/world-us-canada-59044856?at_medium=RSS&at_campaign=KARANGA) BBC: All foreign travellers to the US will be required to show proof of vaccination or a negative test. 
  <p class="updated_time"> 03:56 PM CT, Oct. 25 </p> 
  [Sudan coup: Seven protesters killed and dozens injured](https://www.bbc.co.uk/news/world-africa-59045020?at_medium=RSS&at_campaign=KARANGA) BBC: Soldiers are said to have opened fire on large crowds opposing the military takeover. 
- <p class="updated_time"> 03:38 PM CT, Oct. 25 </p> 
- [Your Tuesday Briefing](https://www.nytimes.com/2021/10/25/briefing/sudan-coup-moderna-kids-hong-kong.html) NYT: Sudan’s military seizes power. 
  <p class="updated_time"> 03:23 PM CT, Oct. 25 </p> 
  [Hong Kong’s National Security Law Explained](https://www.nytimes.com/article/hong-kong-security-law-speech.html) NYT: An activist, Ma Chun-man, was convicted of inciting secession after, he said, he chanted slogans to test the limits of the law. 
  <p class="updated_time"> 03:16 PM CT, Oct. 25 </p> 
@@ -42,8 +50,6 @@ permalink: /charts/news/
  [John Wayne Gacy murder victim named 45 years after vanishing](https://www.bbc.co.uk/news/world-us-canada-59040381?at_medium=RSS&at_campaign=KARANGA) BBC: Police identify the remains of a man killed by notorious murderer John Wayne Gacy in the 1970s. 
  <p class="updated_time"> 02:12 PM CT, Oct. 25 </p> 
  [An Italian Politician’s Quest for Attention Gets a Boost From Richard Gere](https://www.nytimes.com/2021/10/25/world/europe/richard-gere-matteo-salvini-immigrant-trial.html) NYT: The actor may testify against Matteo Salvini, Italy’s former interior minister, in a case involving the treatment of migrants. 
- <p class="updated_time"> 02:09 PM CT, Oct. 25 </p> 
- [Who is Abdalla Hamdok, Sudan Leader Ousted in Coup](https://www.nytimes.com/2021/10/25/world/africa/abdalla-hamdok-sudan.html) NYT: Sudan’s  prime minister spent much of his career at international institutions before joining his country’s government. Now he has been forced out. 
  <p class="updated_time"> 01:37 PM CT, Oct. 25 </p> 
  [Turkish President Steps Back From Expulsions of 10 Western Diplomats](https://www.nytimes.com/2021/10/25/world/europe/erdogan-turkey-ambassador.html) NYT: The threatened expulsions had risked severe economic consequences and a rupture in the North Atlantic Treaty Organization. 
  <p class="updated_time"> 12:52 PM CT, Oct. 25 </p> 
@@ -60,6 +66,8 @@ permalink: /charts/news/
  [Israeli cabinet backs huge spending plan for Arab minority](https://www.bbc.co.uk/news/world-middle-east-59039911?at_medium=RSS&at_campaign=KARANGA) BBC: Billions of dollars are earmarked for Israel's Arab minority, which has long complained of neglect. 
  <p class="updated_time"> 11:19 AM CT, Oct. 25 </p> 
  [Alec Baldwin film tragedy: What are the rules for guns on movie sets?](https://www.bbc.co.uk/news/entertainment-arts-59035488?at_medium=RSS&at_campaign=KARANGA) BBC: The regulations are under scrutiny after the death of a film-maker on the set of an Alec Baldwin film. 
+ <p class="updated_time"> 11:10 AM CT, Oct. 25 </p> 
+ [COP26: What is the Glasgow climate conference and why is it important?](https://www.bbc.co.uk/news/science-environment-56901261?at_medium=RSS&at_campaign=KARANGA) BBC: A crucial climate change summit is being held in the UK - this is why it's important. 
  <p class="updated_time"> 10:26 AM CT, Oct. 25 </p> 
  [Sudan Coup Draws Thousands to the Streets in Protest](https://www.wsj.com/articles/sudanese-prime-minister-detained-in-apparent-military-coup-11635150306) WSJ: Pro-democracy protesters streamed into the streets of the capital to reject a military coup of the transitional government that has ruled the country since the ouster of longtime dictator Omar al-Bashir. 
  <p class="updated_time"> 10:03 AM CT, Oct. 25 </p> 
@@ -76,16 +84,12 @@ permalink: /charts/news/
  [Behold, the Worm Blob and Its Computerized Twin](https://www.nytimes.com/2021/10/25/science/worm-blobs.html) NYT: It wriggles. It pulls. It falls apart and comes back together. It is everything you wish for and everything you fear. 
  <p class="updated_time"> 09:02 AM CT, Oct. 25 </p> 
  [Amanda Knox Was Exonerated. That Doesn’t Mean She’s Free.](https://www.nytimes.com/2021/10/22/style/amanda-knox-ten-years-later.html) NYT: Ten years after being cleared of a heinous crime, she is still trying to tell her story on her own terms. 
- <p class="updated_time"> 08:55 AM CT, Oct. 25 </p> 
- [Climate change: Pledge of $100bn annual aid slips to 2023](https://www.bbc.co.uk/news/science-environment-59040538?at_medium=RSS&at_campaign=KARANGA) BBC: A key pledge on climate funding has still not been met, and the money is not sure to be there before 2023. 
  <p class="updated_time"> 08:43 AM CT, Oct. 25 </p> 
  [Saudi crown prince suggested killing King Abdullah, ex-official says](https://www.bbc.co.uk/news/world-middle-east-59032931?at_medium=RSS&at_campaign=KARANGA) BBC: Mohammed bin Salman discussed assassinating the late King Abdullah in 2014, Saad al-Jabri says. 
  <p class="updated_time"> 08:38 AM CT, Oct. 25 </p> 
  [Ignoring Sanctions, Russia Renews Broad Cybersurveillance Operation](https://www.nytimes.com/2021/10/25/us/politics/russia-cybersurveillance-biden.html) NYT: The new campaign came only months after President Biden imposed sanctions on Moscow in response to a series of spy operations it had conducted around the world. 
  <p class="updated_time"> 08:35 AM CT, Oct. 25 </p> 
  [Eitan Biran: Crash survivor must be returned to Italy, court rules](https://www.bbc.co.uk/news/world-middle-east-59040375?at_medium=RSS&at_campaign=KARANGA) BBC: The six-year-old survivor of a cable car crash must be returned to his aunt in Italy, a court rules. 
- <p class="updated_time"> 08:15 AM CT, Oct. 25 </p> 
- [Traveling Through a Divided Israel](https://www.nytimes.com/2021/10/25/world/middleeast/israel-jews-palestinians-journey.html) NYT: Two Times journalists drive the length of Israel to discover what it means to be Israeli today. They meet a kaleidoscope of people, searching for belonging but far apart on how to find it. 
  <p class="updated_time"> 07:34 AM CT, Oct. 25 </p> 
  [First Yazidi Genocide Trial Ends In Conviction of German Woman](https://www.wsj.com/articles/first-yazidi-genocide-trial-ends-in-conviction-of-german-isis-member-11635178922) WSJ: A German court sentenced a member of the ISIS terror group to 10 years in prison for her role in the enslavement and killing of a 5-year-old girl. 
  <p class="updated_time"> 06:50 AM CT, Oct. 25 </p> 
@@ -176,16 +180,24 @@ permalink: /charts/news/
  [Barbados Elects Its First Head of State, Replacing Queen Elizabeth](https://www.nytimes.com/2021/10/22/world/americas/sandra-mason-barbados.html) NYT: The country’s Parliament chose Sandra Mason, the governor general, to assume the symbolic title, a decisive move to distance itself from Barbados’s colonial past. 
  <p class="updated_time"> 03:15 PM CT, Oct. 22 </p> 
  [U.S. Warns of Efforts by China to Collect Genetic Data](https://www.nytimes.com/2021/10/22/us/politics/china-genetic-data-collection.html) NYT: The National Counterintelligence and Security Center said American companies needed to better secure critical technologies as Beijing seeks to dominate the so-called bioeconomy. 
+ <p class="updated_time"> 02:01 PM CT, Oct. 22 </p> 
+ [New Zealand announces a plan to move away from lockdowns.](https://www.nytimes.com/2021/10/22/world/new-zealand-announces-a-plan-to-move-away-from-lockdowns.html) NYT: NA 
  <p class="updated_time"> 01:25 PM CT, Oct. 22 </p> 
  [Geert Jan van Oldenborgh, 59, Dies; Linked Weather Disasters to Climate Change](https://www.nytimes.com/2021/10/22/climate/geert-jan-van-oldenborgh-dead.html) NYT: With a colleague, he founded a group that quickly analyzes heat waves and other extreme events for signs of global warming’s influence. 
  <p class="updated_time"> 12:23 PM CT, Oct. 22 </p> 
  [Gangs in Haiti, Breaking a Taboo, Target the Church](https://www.nytimes.com/2021/10/22/world/americas/haiti-gangs-church.html) NYT: A French priest in Haiti recalls his kidnapping by 400 Mawozo, the same gang holding 16 Americans and a Canadian, including children, for ransom. 
  <p class="updated_time"> 11:22 AM CT, Oct. 22 </p> 
  [Poland’s Attacks on Rule of Law Leave Europe at Odds With Itself](https://www.nytimes.com/2021/10/22/world/europe/eu-poland-rule-of-law.html) NYT: E.U. leaders are facing an increasingly urgent question: What to do with a member that repeatedly violates a core principle, but refuses to leave the club? 
- <p class="updated_time"> 07:43 AM CT, Oct. 22 </p> 
- [Contrails: How tweaking flight plans can help the climate](https://www.bbc.co.uk/news/business-58769351?at_medium=RSS&at_campaign=KARANGA) BBC: Why experts say cutting contrails costs less than $1bn a year but may be worth so much more. 
  <p class="updated_time"> 07:15 AM CT, Oct. 22 </p> 
  [Bali reopens to foreign tourists, but government rules keep them away.](https://www.nytimes.com/2021/10/22/world/bali-reopens-to-foreign-tourists-but-government-rules-keep-them-away.html) NYT: NA 
+ <p class="updated_time"> 06:34 AM CT, Oct. 22 </p> 
+ [In the Russian Arctic, the First Stirrings of a Very Cold War](https://www.nytimes.com/2021/05/22/world/russia-us-arctic-military.html) NYT: Though the Russian military has little in common with liberal Western politicians or environmental groups like Greenpeace, it is taking ice melt in the Far North seriously. 
+ <p class="updated_time"> 06:06 AM CT, Oct. 22 </p> 
+ [Britain opened up with hardly any restrictions, a gamble now facing its toughest test.](https://www.nytimes.com/2021/10/22/world/britain-opened-up-with-hardly-any-restrictions-a-gamble-now-facing-its-toughest-test.html) NYT: NA 
+ <p class="updated_time"> 05:25 AM CT, Oct. 22 </p> 
+ [An Arctic Dispatch](https://www.nytimes.com/2021/10/22/briefing/russia-climate-change-arctic.html) NYT: We visit a Russian town on the Arctic Ocean that sees climate change as an economic opportunity. 
+ <p class="updated_time"> 04:50 AM CT, Oct. 22 </p> 
+ [Thailand to Reopen to Vaccinated Travelers from Dozens of Countries](https://www.nytimes.com/2021/10/22/world/asia/thailand-covid-travel-quarantine.html) NYT: NA 
 
 
 
