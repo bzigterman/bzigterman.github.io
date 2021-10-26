@@ -6,7 +6,7 @@ permalink: /charts/news/
 
 ## World News
 
- <p class="updated_time"> 11:18 PM CT, Oct. 25 </p> 
+ <p class="updated_time"> 12:00 AM CT, Oct. 26 </p> 
  [Royal Wedding in Japan Goes Off With Little Fanfare](https://www.nytimes.com/2021/10/25/world/asia/japan-royal-wedding-princess-mako.html) NYT: The torturous path to marriage for Princess Mako of Japan leads to a registry office in Tokyo and most likely a life abroad. 
  <p class="updated_time"> 10:50 PM CT, Oct. 25 </p> 
  [Climate change: Australia pledges to reach net zero emissions by 2050](https://www.bbc.co.uk/news/world-australia-59046032?at_medium=RSS&at_campaign=KARANGA) BBC: The 2050 target controversially omits new short-term goals and cuts to fossil fuel industries. 
@@ -26,6 +26,8 @@ permalink: /charts/news/
  [Your Tuesday Briefing](https://www.nytimes.com/2021/10/25/briefing/sudan-coup-facebook-crisis.html) NYT: The military seizes power in Sudan. 
  <p class="updated_time"> 08:27 PM CT, Oct. 25 </p> 
  [Traveling Through a Divided Israel](https://www.nytimes.com/2021/10/25/world/middleeast/israel-jews-palestinians-journey.html) NYT: Two Times journalists drive the length of Israel to discover what it means to be Israeli today. They meet a kaleidoscope of people, searching for belonging but far apart on how to find it. 
+ <p class="updated_time"> 08:02 PM CT, Oct. 25 </p> 
+ [Does Taiwan's Military Stand a Chance Against China? Few Think So.](https://www.wsj.com/articles/taiwan-military-readiness-china-threat-us-defense-11635174187) WSJ: Poor preparation and low morale are pressing concerns for Taiwan’s armed forces. One conscript said his basic training mainly involved sweeping leaves, moving spare tires and pulling weeds. 
  <p class="updated_time"> 07:56 PM CT, Oct. 25 </p> 
  [Who is Abdalla Hamdok, Sudan Leader Ousted in Coup](https://www.nytimes.com/2021/10/25/world/africa/abdalla-hamdok-sudan.html) NYT: Sudan’s  prime minister spent much of his career at international institutions before joining his country’s government. Now he has been forced out. 
  <p class="updated_time"> 07:55 PM CT, Oct. 25 </p> 
@@ -108,8 +110,6 @@ permalink: /charts/news/
  [In India, Facebook Struggles to Combat Misinformation and Hate Speech ](https://www.nytimes.com/2021/10/23/technology/facebook-india-misinformation.html) NYT: Internal documents show a struggle with misinformation, hate speech and celebrations of violence in the country, the company’s biggest market. 
  <p class="updated_time"> 06:09 AM CT, Oct. 25 </p> 
  [Afghan baby girl sold for $500 by starving family](https://www.bbc.co.uk/news/world-asia-59034650?at_medium=RSS&at_campaign=KARANGA) BBC: The BBC’s Yogita Limaye witnesses first-hand the extreme poverty engulfing millions in Afghanistan. 
- <p class="updated_time"> 06:05 AM CT, Oct. 25 </p> 
- [Does Taiwan's Military Stand a Chance Against China? Few Think So.](https://www.wsj.com/articles/taiwan-military-readiness-china-threat-us-defense-11635174187) WSJ: Poor preparation and low morale are pressing concerns for Taiwan’s armed forces. One conscript said his basic training mainly involved sweeping leaves, moving spare tires and pulling weeds. 
  <p class="updated_time"> 05:44 AM CT, Oct. 25 </p> 
  [Picking Their Fights](https://www.nytimes.com/2021/10/25/briefing/biden-congress-democrats-spending-bill.html) NYT: Creating temporary government programs could have big political benefits for Democrats. 
  <p class="updated_time"> 04:57 AM CT, Oct. 25 </p> 
