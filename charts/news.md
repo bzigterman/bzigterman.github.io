@@ -6,6 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 03:12 PM CT, Oct. 26 </p> 
+ [Canadian PM Justin Trudeau holds major cabinet shakeup](https://www.bbc.co.uk/news/world-us-canada-59015485?at_medium=RSS&at_campaign=KARANGA) BBC: The major shuffle sees changes in portfolios including defence, the environment and foreign affairs. 
  <p class="updated_time"> 03:01 PM CT, Oct. 26 </p> 
  [Traveling Through a Divided Israel](https://www.nytimes.com/2021/10/25/world/middleeast/israel-jews-palestinians-journey.html) NYT: Two Times journalists drive the length of Israel to discover what it means to be Israeli today. They meet a kaleidoscope of people, searching for belonging but far apart on how to find it. 
  <p class="updated_time"> 03:00 PM CT, Oct. 26 </p> 
@@ -40,8 +42,6 @@ permalink: /charts/news/
  [US revokes licence of top Chinese telecoms company](https://www.bbc.co.uk/news/business-59055360?at_medium=RSS&at_campaign=KARANGA) BBC: Washington has banned China Telecom from operating in America, citing "national security concerns". 
  <p class="updated_time"> 11:45 AM CT, Oct. 26 </p> 
  [Sudan’s Prime Minister Is Detained at Home of General Who Led Coup](https://www.nytimes.com/2021/10/26/world/africa/sudan-coup-protests.html) NYT: Protesters demanding civilian rule flooded the streets of major cities a day after a military takeover. Many offices and businesses shut, answering a call for civil disobediences. 
- <p class="updated_time"> 11:41 AM CT, Oct. 26 </p> 
- [Canadian PM Justin Trudeau holds major cabinet shuffle](https://www.bbc.co.uk/news/world-us-canada-59015485?at_medium=RSS&at_campaign=KARANGA) BBC: The major shuffle sees changes in portfolios including defence, the environment and foreign affairs. 
  <p class="updated_time"> 11:32 AM CT, Oct. 26 </p> 
  [Self Esteem, a Pop Singer Who Wants Britain to ‘Prioritise Pleasure’](https://www.nytimes.com/2021/10/26/arts/music/self-esteem-prioritise-pleasure.html) NYT: Rebecca Lucy Taylor is touching a nerve with brutally honest songs about not having it all figured out. 
  <p class="updated_time"> 11:22 AM CT, Oct. 26 </p> 
