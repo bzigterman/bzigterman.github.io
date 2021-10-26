@@ -6,22 +6,32 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 11:57 AM CT, Oct. 26 </p> 
+ [Catania: Floods swamp city centre streets as rare storm hits Sicily](https://www.bbc.co.uk/news/world-europe-59054531?at_medium=RSS&at_campaign=KARANGA) BBC: At least two people have died amid flooding caused by a rare storm in the city of Catania. 
+ <p class="updated_time"> 11:55 AM CT, Oct. 26 </p> 
+ [Catania: Two dead as rare storm floods streets of Sicilian city](https://www.bbc.co.uk/news/world-europe-59048809?at_medium=RSS&at_campaign=KARANGA) BBC: The mayor orders people to stay at home as floods engulf the streets of Catania in southern Italy. 
+ <p class="updated_time"> 11:50 AM CT, Oct. 26 </p> 
+ [Princess Mako's Royal Wedding in Japan Goes Off With Little Fanfare](https://www.nytimes.com/2021/10/25/world/asia/japan-royal-wedding-princess-mako.html) NYT: The torturous path to marriage for Princess Mako of Japan, who gave up her title to marry a commoner, leads to a registry office in Tokyo and most likely a life abroad. 
+ <p class="updated_time"> 11:45 AM CT, Oct. 26 </p> 
+ [Sudan’s Prime Minister Is Detained at Home of General Who Led Coup](https://www.nytimes.com/2021/10/26/world/africa/sudan-coup-protests.html) NYT: Protesters demanding civilian rule flooded the streets of major cities a day after a military takeover. Many offices and businesses shut, answering a call for civil disobediences. 
+ <p class="updated_time"> 11:41 AM CT, Oct. 26 </p> 
+ [Canadian PM Justin Trudeau holds major cabinet shuffle](https://www.bbc.co.uk/news/world-us-canada-59015485?at_medium=RSS&at_campaign=KARANGA) BBC: The major shuffle sees changes in portfolios including defence, the environment and foreign affairs. 
+ <p class="updated_time"> 11:32 AM CT, Oct. 26 </p> 
+ [Self Esteem, a Pop Singer Who Wants Britain to ‘Prioritise Pleasure’](https://www.nytimes.com/2021/10/26/arts/music/self-esteem-prioritise-pleasure.html) NYT: Rebecca Lucy Taylor is touching a nerve with brutally honest songs about not having it all figured out. 
+ <p class="updated_time"> 11:22 AM CT, Oct. 26 </p> 
+ [Aung San Suu Kyi to Defend Herself in Myanmar 'Show Trial'](https://www.nytimes.com/2021/10/26/world/asia/myanmar-coup-trial-aung-san-suu-kyi.html) NYT: The United Nations has described the charges against the former leader as politically motivated. If convicted, she could face a maximum of 102 years in prison. 
+ <p class="updated_time"> 11:20 AM CT, Oct. 26 </p> 
+ [After a Year of ‘Rampant’ Cheating, Elite Bridge Tries to Clean Up](https://www.nytimes.com/2021/10/26/arts/contract-bridge-cheating.html) NYT: As the pandemic forced most players online, the problem of cheating consumed the game’s highest levels. Top players say a tight-lipped culture is finally changing. 
+ <p class="updated_time"> 11:09 AM CT, Oct. 26 </p> 
+ [2 Days After Cricket Victory Over India, Pakistan Still Feels the High](https://www.nytimes.com/2021/10/26/world/asia/pakistan-cricket-victory-india.html) NYT: The nation is experiencing a much-needed burst of joy after it unexpectedly beat India in a cricket match in Dubai. 
+ <p class="updated_time"> 11:04 AM CT, Oct. 26 </p> 
+ [Trial in Holocaust Survivor's Killing Begins in France](https://www.nytimes.com/2021/10/26/world/europe/france-murder-trial-holocaust-survivor-mireille-knoll.html) NYT: Mireille Knoll, 85, was killed in 2018 in what prosecutors and the authorities called a hate crime. Decades earlier, she had escaped a notorious roundup of Jews. 
  <p class="updated_time"> 11:01 AM CT, Oct. 26 </p> 
  [Roh Tae-woo, South Korean Leader During Move Toward Democracy, Dies at 88](https://www.nytimes.com/2021/10/26/world/asia/roh-tae-woo-dies.html) NYT: He played a role in a bloody crackdown on pro-democracy protesters in 1980 but went on to oversee his country’s winning 1988 Olympics bid. He was later mired in legal trouble. 
- <p class="updated_time"> 10:56 AM CT, Oct. 26 </p> 
- [Trial in Holocaust Survivor's Killing Begins in France](https://www.nytimes.com/2021/10/26/world/europe/france-murder-trial-holocaust-survivor-mireille-knoll.html) NYT: Mireille Knoll, 85, was killed in 2018 in what prosecutors and the authorities called a hate crime. Decades earlier, she had escaped a notorious roundup of Jews. 
- <p class="updated_time"> 10:54 AM CT, Oct. 26 </p> 
- [2 Days After Cricket Victory Over India, Pakistan Still Feels the High](https://www.nytimes.com/2021/10/26/world/asia/pakistan-cricket-victory-india.html) NYT: The nation is experiencing a much-needed burst of joy after it unexpectedly beat India in a cricket match in Dubai. 
- <p class="updated_time"> 10:47 AM CT, Oct. 26 </p> 
- [Sudan’s Prime Minister Is Detained at Home of General Who Led Coup](https://www.nytimes.com/2021/10/26/world/africa/sudan-coup-protests.html) NYT: Protesters demanding civilian rule flooded into the streets of major cities a day after a military takeover. Many schools, banks and shops shut, answering a call for civil disobedience from pro-democracy groups. 
- <p class="updated_time"> 10:36 AM CT, Oct. 26 </p> 
- [Catania: Two dead as rare storm floods streets of Sicilian city](https://www.bbc.co.uk/news/world-europe-59048809?at_medium=RSS&at_campaign=KARANGA) BBC: The mayor orders people to stay at home as floods engulf the streets of Catania in southern Italy. 
  <p class="updated_time"> 10:23 AM CT, Oct. 26 </p> 
  [Sudan army seized power to prevent civil war - coup leader](https://www.bbc.co.uk/news/world-africa-59052260?at_medium=RSS&at_campaign=KARANGA) BBC: Gen Burhan also said he had taken the deposed prime minister to his house "for his own safety." 
  <p class="updated_time"> 10:20 AM CT, Oct. 26 </p> 
- [Manchester Arena bombing: Exclusive images of extradition of Hashem Abedi](https://www.bbc.co.uk/news/uk-59054530?at_medium=RSS&at_campaign=KARANGA) BBC: Watch as Hashem Abedi, the brother of the Manchester Arena bomber, is sent to Britain to stand trial. 
- <p class="updated_time"> 09:51 AM CT, Oct. 26 </p> 
- [After a Year of ‘Rampant’ Cheating, Elite Bridge Tries to Clean Up](https://www.nytimes.com/2021/10/26/arts/contract-bridge-cheating.html) NYT: As the pandemic forced most players online, the problem of cheating consumed the game’s highest levels. Top players say a tight-lipped culture is finally changing. 
+ [Manchester Arena bombing: Exclusive images of extradition of Hashem Abedi](https://www.bbc.co.uk/news/uk-59054530?at_medium=RSS&at_campaign=KARANGA) BBC: Watch as Hashem Abedi, the brother of the Manchester Arena bomber, is sent to Britain for trial. 
  <p class="updated_time"> 09:22 AM CT, Oct. 26 </p> 
  [Iran Wanted U.S. Out of Afghanistan. It May Be Sorry the Wish Came True.](https://www.nytimes.com/2021/10/26/world/middleeast/iran-taliban-afghanistan.html) NYT: Iran is glad the Americans are gone, but the Taliban takeover of Afghanistan creates a host of problems for Tehran, with no easy solutions. 
  <p class="updated_time"> 09:00 AM CT, Oct. 26 </p> 
@@ -38,8 +48,6 @@ permalink: /charts/news/
  [Céline's Newly Unearthed Work Causes a Stir in France](https://www.nytimes.com/2021/10/26/world/europe/celine-manuscripts-france.html) NYT: A legal battle is raging over manuscripts written by the antisemitic writer Louis-Ferdinand Céline that disappeared almost eight decades ago. 
  <p class="updated_time"> 08:05 AM CT, Oct. 26 </p> 
  [Joshua Kimmich: German footballer's vaccine hesitancy dismays experts](https://www.bbc.co.uk/news/world-europe-59048800?at_medium=RSS&at_campaign=KARANGA) BBC: Joshua Kimmich denied he was an "anti-vaxxer" after expressing unease about long-term side effects. 
- <p class="updated_time"> 07:53 AM CT, Oct. 26 </p> 
- [Aung San Suu Kyi to Defend Herself in Myanmar 'Show Trial'](https://www.nytimes.com/2021/10/26/world/asia/myanmar-coup-trial-aung-san-suu-kyi.html) NYT: The United Nations has described the charges against the former leader as politically motivated. If convicted, she could face a maximum of 102 years in prison. 
  <p class="updated_time"> 07:47 AM CT, Oct. 26 </p> 
  [Who Is Abdalla Hamdok, Sudan Leader Ousted in Coup](https://www.nytimes.com/2021/10/25/world/africa/abdalla-hamdok-sudan.html) NYT: Sudan’s prime minister spent much of his career at international institutions before joining his country’s government. Now he has been forced out. 
  <p class="updated_time"> 07:41 AM CT, Oct. 26 </p> 
@@ -88,8 +96,6 @@ permalink: /charts/news/
  [Australia Commits to Net-Zero Emissions by 2050](https://www.wsj.com/articles/australia-commits-to-net-zero-emissions-by-2050-shedding-climate-outlier-status-11635245929) WSJ: One of the world’s biggest coal exporters and greenhouse-gas emitters per capita has adopted a net-zero plan just days before the start of a U.N. climate summit, ending its status as an outlier among developed nations. 
  <p class="updated_time"> 01:43 AM CT, Oct. 26 </p> 
  [Roh Tae-woo, Leader During South Korea's Transition to Democracy, Dies](https://www.wsj.com/articles/roh-tae-woo-leader-during-south-koreas-transition-to-democracy-dies-11635245017) WSJ: Roh Tae-woo, South Korea’s first democratically elected president who played a controversial role in the country’s transition from a military dictatorship, has died at the age of 88. 
- <p class="updated_time"> 01:36 AM CT, Oct. 26 </p> 
- [Princess Mako's Royal Wedding in Japan Goes Off With Little Fanfare](https://www.nytimes.com/2021/10/25/world/asia/japan-royal-wedding-princess-mako.html) NYT: The torturous path to marriage for Princess Mako of Japan leads to a registry office in Tokyo and most likely a life abroad. 
  <p class="updated_time"> 01:34 AM CT, Oct. 26 </p> 
  [Japan's Princess Mako Loses Royal Status as She Marries a Commoner](https://www.wsj.com/articles/princess-mako-of-japan-marries-kei-komuro-loses-royal-status-11635216229) WSJ: Mako, in a statement before the cameras at a Tokyo hotel, said she was the one who urged her then-fiance and now husband, Kei Komuro, to establish a new life in the U.S., suggesting she found the scrutiny of being a royal in Japan unbearable. 
  <p class="updated_time"> 12:30 AM CT, Oct. 26 </p> 
@@ -102,8 +108,6 @@ permalink: /charts/news/
  [How Public Criticism Has Affected Japan's Royal Women](https://www.nytimes.com/2021/10/24/world/asia/japan-princess-mako-mental-health.html) NYT: A princess who will soon marry represents the third generation to suffer intense emotional distress in a country that often consigns women to rigid roles. 
  <p class="updated_time"> 10:12 PM CT, Oct. 25 </p> 
  [Eco-friendly sex: What is it and how does it impact on climate change?](https://www.bbc.co.uk/news/science-environment-59046518?at_medium=RSS&at_campaign=KARANGA) BBC: As more people try to live environmentally friendly lives, how do we make sex more sustainable? 
- <p class="updated_time"> 10:04 PM CT, Oct. 25 </p> 
- [Blue Origin: Jeff Bezos unveils plans for 'space business park'](https://www.bbc.co.uk/news/world-us-canada-59046076?at_medium=RSS&at_campaign=KARANGA) BBC: His space company Blue Origin hopes its venture will replace the International Space Station. 
  <p class="updated_time"> 09:46 PM CT, Oct. 25 </p> 
  [Your Tuesday Briefing](https://www.nytimes.com/2021/10/25/briefing/sudan-coup-facebook-crisis.html) NYT: The military seizes power in Sudan. 
  <p class="updated_time"> 07:55 PM CT, Oct. 25 </p> 
@@ -170,8 +174,6 @@ permalink: /charts/news/
  [Is internet addiction a growing problem?](https://www.bbc.co.uk/news/business-58979895?at_medium=RSS&at_campaign=KARANGA) BBC: Experts warn that the pandemic lockdowns have made more people vulnerable. 
  <p class="updated_time"> 06:22 PM CT, Oct. 24 </p> 
  [Cases Grow in Germany as Restrictions Set to Expire](https://www.nytimes.com/2021/10/24/world/germany-covid-surge.html) NYT: Infections have increased by 57 percent in the past two weeks, while deaths on average in the same period have increased by 11 percent. 
- <p class="updated_time"> 06:09 PM CT, Oct. 24 </p> 
- [How can Coca-Cola solve its plastic problem?](https://www.bbc.co.uk/news/science-environment-59017151?at_medium=RSS&at_campaign=KARANGA) BBC: The drinks company has been named the world's biggest plastic polluter. 
  <p class="updated_time"> 04:24 PM CT, Oct. 24 </p> 
  [James Michael Tyler: 11 of Gunther's funniest Friends moments](https://www.bbc.co.uk/news/entertainment-arts-57608696?at_medium=RSS&at_campaign=KARANGA) BBC: A look back at some of the character's highlights following actor James Michael Tyler's death. 
  <p class="updated_time"> 04:04 PM CT, Oct. 24 </p> 
