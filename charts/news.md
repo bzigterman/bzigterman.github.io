@@ -6,8 +6,16 @@ permalink: /charts/news/
 
 ## World News
 
- <p class="updated_time"> 07:10 AM CT, Oct. 26 </p> 
+ <p class="updated_time"> 07:53 AM CT, Oct. 26 </p> 
  [Aung San Suu Kyi to Defend Herself in Myanmar 'Show Trial'](https://www.nytimes.com/2021/10/26/world/asia/myanmar-coup-trial-aung-san-suu-kyi.html) NYT: The United Nations has described the charges against the former leader as politically motivated. If convicted, she could face a maximum of 102 years in prison. 
+ <p class="updated_time"> 07:47 AM CT, Oct. 26 </p> 
+ [Who Is Abdalla Hamdok, Sudan Leader Ousted in Coup](https://www.nytimes.com/2021/10/25/world/africa/abdalla-hamdok-sudan.html) NYT: Sudan’s prime minister spent much of his career at international institutions before joining his country’s government. Now he has been forced out. 
+ <p class="updated_time"> 07:41 AM CT, Oct. 26 </p> 
+ [Brazil senators to vote on damning Covid report](https://www.bbc.co.uk/news/world-latin-america-59051105?at_medium=RSS&at_campaign=KARANGA) BBC: The report says that President Bolsonaro should be accused of crimes over his handling of the pandemic. 
+ <p class="updated_time"> 07:41 AM CT, Oct. 26 </p> 
+ [A Jewish Far-Right Pundit Splits the French Jewish Community as He Rises](https://www.nytimes.com/2021/10/25/world/europe/eric-zemmour-france-jewish-bernard-henri-levy.html) NYT: Éric Zemmour, eyeing the presidency, tries to rehabilitate the wartime Vichy regime that collaborated with the Nazis as part of a campaign filled with provocations. 
+ <p class="updated_time"> 07:40 AM CT, Oct. 26 </p> 
+ [U.S. Halts Aid to Sudan Government After Coup](https://www.nytimes.com/2021/10/25/world/africa/us-aid-frozen-sudan.html) NYT: The Biden administration, calling for immediate restoration of the transition government, froze $700 million in direct aid. 
  <p class="updated_time"> 06:58 AM CT, Oct. 26 </p> 
  [Crimean gold must return to Ukraine - Dutch court](https://www.bbc.co.uk/news/world-europe-59048895?at_medium=RSS&at_campaign=KARANGA) BBC: The legal wrangle has dragged on for seven years, since Russia annexed the peninsula from Ukraine. 
  <p class="updated_time"> 06:56 AM CT, Oct. 26 </p> 
@@ -36,6 +44,8 @@ permalink: /charts/news/
  [Australia Pledges ‘Net Zero’ Emissions by 2050. Its Plan Makes That Hard to Believe.](https://www.nytimes.com/2021/10/26/world/australia/net-zero-delay.html) NYT: The country’s last-minute commitment before next week’s climate summit is built on hope for new technology, and little else. 
  <p class="updated_time"> 02:50 AM CT, Oct. 26 </p> 
  [Japan's Princess Mako finally marries commoner boyfriend Kei Komuro](https://www.bbc.co.uk/news/world-asia-59046476?at_medium=RSS&at_campaign=KARANGA) BBC: She will lose her royal status and has declined a $1.3m payment for leaving the family. 
+ <p class="updated_time"> 02:46 AM CT, Oct. 26 </p> 
+ [Taiwan Gains Favor in Europe's East, Angering China](https://www.wsj.com/articles/taiwan-gains-favor-in-europes-east-angering-china-11635248811) WSJ: The intensifying links mirror tensions between the West and China over trade, military and human-rights issues. They also highlight differences within the West in how to approach an increasingly assertive China. 
  <p class="updated_time"> 02:29 AM CT, Oct. 26 </p> 
  [Climate change: Australia pledges net zero emissions by 2050](https://www.bbc.co.uk/news/world-australia-59046032?at_medium=RSS&at_campaign=KARANGA) BBC: The target controversially omits new short-term goals and cuts to fossil fuel industries. 
  <p class="updated_time"> 02:22 AM CT, Oct. 26 </p> 
@@ -44,6 +54,10 @@ permalink: /charts/news/
  [How to Map a Fly Brain in 20 Million Easy Steps](https://www.nytimes.com/2021/10/26/science/drosophila-fly-brain-connectome.html) NYT: An enormous new analysis of the wiring of the fruit fly brain is a milestone for the young field of modern connectomics, scientists say. 
  <p class="updated_time"> 02:00 AM CT, Oct. 26 </p> 
  [As Gangs’ Power Grows, Haiti’s Police Are Outgunned and Underpaid](https://www.nytimes.com/2021/10/26/world/americas/haiti-police-gangs.html) NYT: The police force, dependent on an increasingly depleted state, is finding itself underfunded, underequipped and severely underpaid, even as it faces stronger opponents. 
+ <p class="updated_time"> 01:58 AM CT, Oct. 26 </p> 
+ [Australia Commits to Net-Zero Emissions by 2050](https://www.wsj.com/articles/australia-commits-to-net-zero-emissions-by-2050-shedding-climate-outlier-status-11635245929) WSJ: One of the world’s biggest coal exporters and greenhouse-gas emitters per capita has adopted a net-zero plan just days before the start of a U.N. climate summit, ending its status as an outlier among developed nations. 
+ <p class="updated_time"> 01:43 AM CT, Oct. 26 </p> 
+ [Roh Tae-woo, Leader During South Korea's Transition to Democracy, Dies](https://www.wsj.com/articles/roh-tae-woo-leader-during-south-koreas-transition-to-democracy-dies-11635245017) WSJ: Roh Tae-woo, South Korea’s first democratically elected president who played a controversial role in the country’s transition from a military dictatorship, has died at the age of 88. 
  <p class="updated_time"> 01:36 AM CT, Oct. 26 </p> 
  [Princess Mako's Royal Wedding in Japan Goes Off With Little Fanfare](https://www.nytimes.com/2021/10/25/world/asia/japan-royal-wedding-princess-mako.html) NYT: The torturous path to marriage for Princess Mako of Japan leads to a registry office in Tokyo and most likely a life abroad. 
  <p class="updated_time"> 01:34 AM CT, Oct. 26 </p> 
@@ -68,12 +82,8 @@ permalink: /charts/news/
  [Traveling Through a Divided Israel](https://www.nytimes.com/2021/10/25/world/middleeast/israel-jews-palestinians-journey.html) NYT: Two Times journalists drive the length of Israel to discover what it means to be Israeli today. They meet a kaleidoscope of people, searching for belonging but far apart on how to find it. 
  <p class="updated_time"> 08:02 PM CT, Oct. 25 </p> 
  [Is Taiwan's Military Ready for War? Few Think So](https://www.wsj.com/articles/taiwan-military-readiness-china-threat-us-defense-11635174187) WSJ: Poor preparation and low morale are pressing concerns for Taiwan’s armed forces. One conscript said his basic training mainly involved sweeping leaves, moving spare tires and pulling weeds. 
- <p class="updated_time"> 07:56 PM CT, Oct. 25 </p> 
- [Who is Abdalla Hamdok, Sudan Leader Ousted in Coup](https://www.nytimes.com/2021/10/25/world/africa/abdalla-hamdok-sudan.html) NYT: Sudan’s  prime minister spent much of his career at international institutions before joining his country’s government. Now he has been forced out. 
  <p class="updated_time"> 07:55 PM CT, Oct. 25 </p> 
  [Your Tuesday Briefing](https://www.nytimes.com/2021/10/25/briefing/sudan-coup-moderna-kids-hong-kong.html) NYT: Sudan’s military seizes power. 
- <p class="updated_time"> 07:55 PM CT, Oct. 25 </p> 
- [U.S. Halts Aid to Sudan Government After Coup](https://www.nytimes.com/2021/10/25/world/africa/us-aid-frozen-sudan.html) NYT: The Biden administration, calling for immediate restoration of the transition government, froze $700 million in direct aid. 
  <p class="updated_time"> 07:20 PM CT, Oct. 25 </p> 
  [Chappelle slams cancel culture amid Netflix transgender furore](https://www.bbc.co.uk/news/world-us-canada-59046022?at_medium=RSS&at_campaign=KARANGA) BBC: "I am not bending to anybody's demands," says the US comic of the transgender backlash he faces. 
  <p class="updated_time"> 07:20 PM CT, Oct. 25 </p> 
@@ -100,8 +110,6 @@ permalink: /charts/news/
  [Hong Kong’s National Security Law Explained](https://www.nytimes.com/article/hong-kong-security-law-speech.html) NYT: An activist, Ma Chun-man, was convicted of inciting secession after, he said, he chanted slogans to test the limits of the law. 
  <p class="updated_time"> 03:16 PM CT, Oct. 25 </p> 
  [Tensions Between Sudan's Military and Civilian Leaders Had Been Growing](https://www.nytimes.com/2021/10/25/world/africa/sudan-military-coup-civilian.html) NYT: Civilians were set to rule the country for the first time in more than three decades. But the military was concerned about losing power. 
- <p class="updated_time"> 03:09 PM CT, Oct. 25 </p> 
- [John Wayne Gacy murder victim named 45 years after vanishing](https://www.bbc.co.uk/news/world-us-canada-59040381?at_medium=RSS&at_campaign=KARANGA) BBC: Police identify the remains of a man killed by notorious murderer John Wayne Gacy in the 1970s. 
  <p class="updated_time"> 02:49 PM CT, Oct. 25 </p> 
  [Signs of first planet found outside our galaxy](https://www.bbc.co.uk/news/science-environment-59044650?at_medium=RSS&at_campaign=KARANGA) BBC: Astronomers have found hints of what could be the first planet ever to be discovered outside our galaxy. 
  <p class="updated_time"> 01:37 PM CT, Oct. 25 </p> 
@@ -110,24 +118,16 @@ permalink: /charts/news/
  [The Rich World’s Promise of $100 Billion in Climate Aid Inches Forward](https://www.nytimes.com/2021/10/25/climate/100-billion-climate-aid-cop26.html) NYT: Diplomats announced a plan to make good on an unkept promise of climate aid, a key point of tension in upcoming global climate talks. 
  <p class="updated_time"> 11:35 AM CT, Oct. 25 </p> 
  [How 4 Weeks of U.S. Paid Leave Would Compare With the Rest of the World](https://www.nytimes.com/2021/10/25/upshot/paid-leave-democrats.html) NYT: The U.S. is one of six countries with no national paid leave. The Democrats have cut their plan to four weeks, which would still make it an outlier. 
- <p class="updated_time"> 11:34 AM CT, Oct. 25 </p> 
- [A Jewish Far-Right Pundit Splits the French Jewish Community as He Rises](https://www.nytimes.com/2021/10/25/world/europe/eric-zemmour-france-jewish-bernard-henri-levy.html) NYT: Éric Zemmour, eyeing the presidency, tries to rehabilitate the wartime Vichy regime that collaborated with the Nazis as part of a campaign filled with provocations. 
  <p class="updated_time"> 11:19 AM CT, Oct. 25 </p> 
  [Alec Baldwin film tragedy: What are the rules for guns on movie sets?](https://www.bbc.co.uk/news/entertainment-arts-59035488?at_medium=RSS&at_campaign=KARANGA) BBC: The regulations are under scrutiny after the death of a film-maker on the set of an Alec Baldwin film. 
  <p class="updated_time"> 11:10 AM CT, Oct. 25 </p> 
  [COP26: What is the Glasgow climate conference and why is it important?](https://www.bbc.co.uk/news/science-environment-56901261?at_medium=RSS&at_campaign=KARANGA) BBC: A crucial climate change summit is being held in the UK - this is why it's important. 
- <p class="updated_time"> 10:26 AM CT, Oct. 25 </p> 
- [Sudan Coup Draws Thousands to the Streets in Protest](https://www.wsj.com/articles/sudanese-prime-minister-detained-in-apparent-military-coup-11635150306) WSJ: Pro-democracy protesters streamed into the streets of the capital to reject a military coup of the transitional government that has ruled the country since the ouster of longtime dictator Omar al-Bashir. 
- <p class="updated_time"> 10:03 AM CT, Oct. 25 </p> 
- [Russian Military Drills Near Afghan Border Deliver Warning to Extremists](https://www.wsj.com/articles/russian-military-drills-near-afghan-border-deliver-warning-to-extremists-11635188626) WSJ: A series of joint military exercises by Russia and allies in Central Asia signaled an intention to prevent terrorism or ethnic tensions in Afghanistan from spilling over into Moscow’s backyard. 
  <p class="updated_time"> 09:23 AM CT, Oct. 25 </p> 
  [Singer Ed Sheeran Tests Positive for Coronavirus](https://www.nytimes.com/2021/10/24/arts/music/ed-sheeran-covid-positive.html) NYT: Mr. Sheeran said he would cancel upcoming public appearances while he is “self-isolating and following government guidelines.” 
  <p class="updated_time"> 09:05 AM CT, Oct. 25 </p> 
  [Behold, the Worm Blob and Its Computerized Twin](https://www.nytimes.com/2021/10/25/science/worm-blobs.html) NYT: It wriggles. It pulls. It falls apart and comes back together. It is everything you wish for and everything you fear. 
  <p class="updated_time"> 08:38 AM CT, Oct. 25 </p> 
  [Ignoring Sanctions, Russia Renews Broad Cybersurveillance Operation](https://www.nytimes.com/2021/10/25/us/politics/russia-cybersurveillance-biden.html) NYT: The new campaign came only months after President Biden imposed sanctions on Moscow in response to a series of spy operations it had conducted around the world. 
- <p class="updated_time"> 07:34 AM CT, Oct. 25 </p> 
- [First Yazidi Genocide Trial Ends In Conviction of German Woman](https://www.wsj.com/articles/first-yazidi-genocide-trial-ends-in-conviction-of-german-isis-member-11635178922) WSJ: A German court sentenced a member of the ISIS terror group to 10 years in prison for her role in the enslavement and killing of a 5-year-old girl. 
  <p class="updated_time"> 06:50 AM CT, Oct. 25 </p> 
  [In India, Facebook Struggles to Combat Misinformation and Hate Speech ](https://www.nytimes.com/2021/10/23/technology/facebook-india-misinformation.html) NYT: Internal documents show a struggle with misinformation, hate speech and celebrations of violence in the country, the company’s biggest market. 
  <p class="updated_time"> 06:09 AM CT, Oct. 25 </p> 
