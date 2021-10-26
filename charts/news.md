@@ -6,8 +6,10 @@ permalink: /charts/news/
 
 ## World News
 
- <p class="updated_time"> 05:14 PM CT, Oct. 26 </p> 
+ <p class="updated_time"> 05:27 PM CT, Oct. 26 </p> 
  [Justin Trudeau Introduces 'Reinvigorated' Cabinet](https://www.nytimes.com/2021/10/26/world/canada/justin-trudeau-cabinet.html) NYT: The Canadian prime minister failed to gain a majority in Parliament last month but acted otherwise when unveiling his new cabinet. 
+ <p class="updated_time"> 05:27 PM CT, Oct. 26 </p> 
+ [Rust: Assistant director had been sacked before over gun safety](https://www.bbc.co.uk/news/entertainment-arts-59055138?at_medium=RSS&at_campaign=KARANGA) BBC: Dave Halls had previously been dismissed from another film over gun safety violations. 
  <p class="updated_time"> 05:05 PM CT, Oct. 26 </p> 
  [Poland’s Heartland Would Rather Keep E.U. Money Than Break With Bloc](https://www.nytimes.com/2021/10/26/world/europe/poland-eu-aid.html) NYT: Despite the flame-throwing rhetoric of their leaders, conservative supporters of Poland’s ruling party are dependent on millions of euros in aid, and don’t want to risk it. 
  <p class="updated_time"> 04:55 PM CT, Oct. 26 </p> 
@@ -36,8 +38,6 @@ permalink: /charts/news/
  [Ignoring Sanctions, Russia Renews Broad Cybersurveillance Operation](https://www.nytimes.com/2021/10/25/us/politics/russia-cybersurveillance-biden.html) NYT: The new campaign came only months after President Biden imposed sanctions on Moscow in response to a series of spy operations it had conducted around the world. 
  <p class="updated_time"> 12:53 PM CT, Oct. 26 </p> 
  [3 Children and 1 Woman Drowned While Migrating Across the Aegean Sea](https://www.nytimes.com/2021/10/26/world/europe/children-die-greece-migrant-crossing.html) NYT: Migrant crossings are down and so are deaths at sea, but Tuesday’s incident was a reminder that dangers remain. 
- <p class="updated_time"> 12:18 PM CT, Oct. 26 </p> 
- [Rust: Assistant director had been sacked before over gun safety](https://www.bbc.co.uk/news/entertainment-arts-59055138?at_medium=RSS&at_campaign=KARANGA) BBC: Dave Halls had previously been dismissed from another film over gun safety violations. 
  <p class="updated_time"> 11:57 AM CT, Oct. 26 </p> 
  [Catania: Floods swamp city centre streets as rare storm hits Sicily](https://www.bbc.co.uk/news/world-europe-59054531?at_medium=RSS&at_campaign=KARANGA) BBC: At least two people have died amid flooding caused by a rare storm in the city of Catania. 
  <p class="updated_time"> 11:55 AM CT, Oct. 26 </p> 
