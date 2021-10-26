@@ -6,7 +6,7 @@ permalink: /charts/news/
 
 ## World News
 
- <p class="updated_time"> 10:35 AM CT, Oct. 26 </p> 
+ <p class="updated_time"> 10:43 AM CT, Oct. 26 </p> 
  [Roh Tae-woo, South Korean Leader During Move Toward Democracy, Dies at 88](https://www.nytimes.com/2021/10/26/world/asia/roh-tae-woo-dies.html) NYT: He played a role in a bloody crackdown on pro-democracy protesters in 1980 but went on to oversee his country’s winning 1988 Olympics bid. He was later mired in legal trouble. 
  <p class="updated_time"> 10:28 AM CT, Oct. 26 </p> 
  [Sudan’s Prime Minister Is Detained at Home of General Who Led Coup](https://www.nytimes.com/2021/10/26/world/africa/sudan-coup-protests.html) NYT: Protesters demanding civilian rule flooded into the streets of major cities a day after a military takeover. Many schools, banks and shops shut, answering a call for civil disobedience from pro-democracy groups. 
@@ -80,8 +80,14 @@ permalink: /charts/news/
  [How to Map a Fly Brain in 20 Million Easy Steps](https://www.nytimes.com/2021/10/26/science/drosophila-fly-brain-connectome.html) NYT: An enormous new analysis of the wiring of the fruit fly brain is a milestone for the young field of modern connectomics, scientists say. 
  <p class="updated_time"> 02:00 AM CT, Oct. 26 </p> 
  [As Gangs’ Power Grows, Haiti’s Police Are Outgunned and Underpaid](https://www.nytimes.com/2021/10/26/world/americas/haiti-police-gangs.html) NYT: The police force, dependent on an increasingly depleted state, is finding itself underfunded, underequipped and severely underpaid, even as it faces stronger opponents. 
+ <p class="updated_time"> 01:58 AM CT, Oct. 26 </p> 
+ [Australia Commits to Net-Zero Emissions by 2050](https://www.wsj.com/articles/australia-commits-to-net-zero-emissions-by-2050-shedding-climate-outlier-status-11635245929) WSJ: One of the world’s biggest coal exporters and greenhouse-gas emitters per capita has adopted a net-zero plan just days before the start of a U.N. climate summit, ending its status as an outlier among developed nations. 
+ <p class="updated_time"> 01:43 AM CT, Oct. 26 </p> 
+ [Roh Tae-woo, Leader During South Korea's Transition to Democracy, Dies](https://www.wsj.com/articles/roh-tae-woo-leader-during-south-koreas-transition-to-democracy-dies-11635245017) WSJ: Roh Tae-woo, South Korea’s first democratically elected president who played a controversial role in the country’s transition from a military dictatorship, has died at the age of 88. 
  <p class="updated_time"> 01:36 AM CT, Oct. 26 </p> 
  [Princess Mako's Royal Wedding in Japan Goes Off With Little Fanfare](https://www.nytimes.com/2021/10/25/world/asia/japan-royal-wedding-princess-mako.html) NYT: The torturous path to marriage for Princess Mako of Japan leads to a registry office in Tokyo and most likely a life abroad. 
+ <p class="updated_time"> 01:34 AM CT, Oct. 26 </p> 
+ [Japan's Princess Mako Loses Royal Status as She Marries a Commoner](https://www.wsj.com/articles/princess-mako-of-japan-marries-kei-komuro-loses-royal-status-11635216229) WSJ: Mako, in a statement before the cameras at a Tokyo hotel, said she was the one who urged her then-fiance and now husband, Kei Komuro, to establish a new life in the U.S., suggesting she found the scrutiny of being a royal in Japan unbearable. 
  <p class="updated_time"> 12:30 AM CT, Oct. 26 </p> 
  [Severe Drought Hits South America](https://www.wsj.com/articles/severe-drought-hits-south-america-11635240602) WSJ: A shortage of rainfall has left parts of South America in drought, hindering a huge hydroelectric dam in Paraguay and impeding the river transport of goods. 
  <p class="updated_time"> 10:42 PM CT, Oct. 25 </p> 
@@ -166,8 +172,6 @@ permalink: /charts/news/
  [How can Coca-Cola solve its plastic problem?](https://www.bbc.co.uk/news/science-environment-59017151?at_medium=RSS&at_campaign=KARANGA) BBC: The drinks company has been named the world's biggest plastic polluter. 
  <p class="updated_time"> 04:24 PM CT, Oct. 24 </p> 
  [James Michael Tyler: 11 of Gunther's funniest Friends moments](https://www.bbc.co.uk/news/entertainment-arts-57608696?at_medium=RSS&at_campaign=KARANGA) BBC: A look back at some of the character's highlights following actor James Michael Tyler's death. 
- <p class="updated_time"> 04:10 PM CT, Oct. 24 </p> 
- [She Is Breaking Glass Ceilings in Space, but Facing Sexism on Earth](https://www.nytimes.com/2021/10/23/world/asia/china-space-women-wang-yaping.html) NYT: Sanitary pads and makeup: A Chinese astronaut’s six-month stay aboard the country’s space station has revealed conflicted cultural values toward gender. 
  <p class="updated_time"> 04:04 PM CT, Oct. 24 </p> 
  [Your Monday Briefing](https://www.nytimes.com/2021/10/24/briefing/your-monday-briefing.html) NYT: Facebook spreads misinformation in India. 
  <p class="updated_time"> 03:00 PM CT, Oct. 24 </p> 
