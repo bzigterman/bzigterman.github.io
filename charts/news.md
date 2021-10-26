@@ -6,12 +6,18 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 12:27 PM CT, Oct. 26 </p> 
+ [Sudan army seized power to prevent civil war - coup leader](https://www.bbc.co.uk/news/world-africa-59052260?at_medium=RSS&at_campaign=KARANGA) BBC: Gen Burhan also said he had taken the deposed prime minister to his house "for his own safety." 
+ <p class="updated_time"> 12:18 PM CT, Oct. 26 </p> 
+ [Rust: Assistant director had been sacked before over gun safety](https://www.bbc.co.uk/news/entertainment-arts-59055138?at_medium=RSS&at_campaign=KARANGA) BBC: Dave Halls had previously been dismissed from another film over gun safety violations. 
  <p class="updated_time"> 11:57 AM CT, Oct. 26 </p> 
  [Catania: Floods swamp city centre streets as rare storm hits Sicily](https://www.bbc.co.uk/news/world-europe-59054531?at_medium=RSS&at_campaign=KARANGA) BBC: At least two people have died amid flooding caused by a rare storm in the city of Catania. 
  <p class="updated_time"> 11:55 AM CT, Oct. 26 </p> 
  [Catania: Two dead as rare storm floods streets of Sicilian city](https://www.bbc.co.uk/news/world-europe-59048809?at_medium=RSS&at_campaign=KARANGA) BBC: The mayor orders people to stay at home as floods engulf the streets of Catania in southern Italy. 
  <p class="updated_time"> 11:50 AM CT, Oct. 26 </p> 
  [Princess Mako's Royal Wedding in Japan Goes Off With Little Fanfare](https://www.nytimes.com/2021/10/25/world/asia/japan-royal-wedding-princess-mako.html) NYT: The torturous path to marriage for Princess Mako of Japan, who gave up her title to marry a commoner, leads to a registry office in Tokyo and most likely a life abroad. 
+ <p class="updated_time"> 11:46 AM CT, Oct. 26 </p> 
+ [US revokes licence of top Chinese telecoms company](https://www.bbc.co.uk/news/business-59055360?at_medium=RSS&at_campaign=KARANGA) BBC: Washington has banned China Telecom from operating in America, citing "national security concerns". 
  <p class="updated_time"> 11:45 AM CT, Oct. 26 </p> 
  [Sudan’s Prime Minister Is Detained at Home of General Who Led Coup](https://www.nytimes.com/2021/10/26/world/africa/sudan-coup-protests.html) NYT: Protesters demanding civilian rule flooded the streets of major cities a day after a military takeover. Many offices and businesses shut, answering a call for civil disobediences. 
  <p class="updated_time"> 11:41 AM CT, Oct. 26 </p> 
@@ -28,8 +34,6 @@ permalink: /charts/news/
  [Trial in Holocaust Survivor's Killing Begins in France](https://www.nytimes.com/2021/10/26/world/europe/france-murder-trial-holocaust-survivor-mireille-knoll.html) NYT: Mireille Knoll, 85, was killed in 2018 in what prosecutors and the authorities called a hate crime. Decades earlier, she had escaped a notorious roundup of Jews. 
  <p class="updated_time"> 11:01 AM CT, Oct. 26 </p> 
  [Roh Tae-woo, South Korean Leader During Move Toward Democracy, Dies at 88](https://www.nytimes.com/2021/10/26/world/asia/roh-tae-woo-dies.html) NYT: He played a role in a bloody crackdown on pro-democracy protesters in 1980 but went on to oversee his country’s winning 1988 Olympics bid. He was later mired in legal trouble. 
- <p class="updated_time"> 10:23 AM CT, Oct. 26 </p> 
- [Sudan army seized power to prevent civil war - coup leader](https://www.bbc.co.uk/news/world-africa-59052260?at_medium=RSS&at_campaign=KARANGA) BBC: Gen Burhan also said he had taken the deposed prime minister to his house "for his own safety." 
  <p class="updated_time"> 10:20 AM CT, Oct. 26 </p> 
  [Manchester Arena bombing: Exclusive images of extradition of Hashem Abedi](https://www.bbc.co.uk/news/uk-59054530?at_medium=RSS&at_campaign=KARANGA) BBC: Watch as Hashem Abedi, the brother of the Manchester Arena bomber, is sent to Britain for trial. 
  <p class="updated_time"> 09:22 AM CT, Oct. 26 </p> 
@@ -48,6 +52,8 @@ permalink: /charts/news/
  [Céline's Newly Unearthed Work Causes a Stir in France](https://www.nytimes.com/2021/10/26/world/europe/celine-manuscripts-france.html) NYT: A legal battle is raging over manuscripts written by the antisemitic writer Louis-Ferdinand Céline that disappeared almost eight decades ago. 
  <p class="updated_time"> 08:05 AM CT, Oct. 26 </p> 
  [Joshua Kimmich: German footballer's vaccine hesitancy dismays experts](https://www.bbc.co.uk/news/world-europe-59048800?at_medium=RSS&at_campaign=KARANGA) BBC: Joshua Kimmich denied he was an "anti-vaxxer" after expressing unease about long-term side effects. 
+ <p class="updated_time"> 08:03 AM CT, Oct. 26 </p> 
+ [World's Climate Plans Fall Short of Paris Accord, U.N. Says](https://www.wsj.com/articles/u-n-finds-nations-climate-plans-fall-short-of-paris-accord-11635259447) WSJ: The world’s emissions reductions plans would allow far more global warming than targeted in the Paris climate accord, and some of the biggest emitters, including the U.S., aren’t on track to hit their targets, according to a United Nations report. 
  <p class="updated_time"> 07:47 AM CT, Oct. 26 </p> 
  [Who Is Abdalla Hamdok, Sudan Leader Ousted in Coup](https://www.nytimes.com/2021/10/25/world/africa/abdalla-hamdok-sudan.html) NYT: Sudan’s prime minister spent much of his career at international institutions before joining his country’s government. Now he has been forced out. 
  <p class="updated_time"> 07:41 AM CT, Oct. 26 </p> 
@@ -60,16 +66,12 @@ permalink: /charts/news/
  [Can Lego help save Singapore's coral reefs?](https://www.bbc.co.uk/news/world-asia-58784313?at_medium=RSS&at_campaign=KARANGA) BBC: Scientists in Singapore are using the popular building block in an effort to rejuvenate its reefs. 
  <p class="updated_time"> 06:22 AM CT, Oct. 26 </p> 
  [De Kock refuses to take knee before match](https://www.bbc.co.uk/sport/cricket/59051327?at_medium=RSS&at_campaign=KARANGA) BBC: Quinton de Kock makes himself unavailable for South Africa's T20 World Cup match against West Indies after refusing to take the knee. 
- <p class="updated_time"> 05:44 AM CT, Oct. 26 </p> 
- [World's Climate Plans Fall Short of Paris Accord, U.N. Says](https://www.wsj.com/articles/u-n-finds-nations-climate-plans-fall-short-of-paris-accord-11635259447) WSJ: The world’s emissions reductions plans would allow far more global warming than targeted in the Paris climate accord, and some of the biggest emitters, including the U.S., aren’t on track to hit their targets, according to a United Nations report. 
  <p class="updated_time"> 05:31 AM CT, Oct. 26 </p> 
  [Japan's Princess Mako: The woman who gave up royal status to marry](https://www.bbc.co.uk/news/world-asia-59047632?at_medium=RSS&at_campaign=KARANGA) BBC: Japan's Princess Mako has finally married her college sweetheart, thus losing her royal status. 
  <p class="updated_time"> 05:24 AM CT, Oct. 26 </p> 
  [Sudan coup: Are military takeovers on the rise in Africa?](https://www.bbc.co.uk/news/world-africa-46783600?at_medium=RSS&at_campaign=KARANGA) BBC: Despite a series of coups in Africa recently, the longer-term trend for military takeovers is downwards. 
  <p class="updated_time"> 05:18 AM CT, Oct. 26 </p> 
  [Covid Cases Keep Falling](https://www.nytimes.com/2021/10/26/briefing/covid-cases-falling-delta.html) NYT: Covid cases have been falling in every region of the U.S., offering hope. 
- <p class="updated_time"> 05:06 AM CT, Oct. 26 </p> 
- [Berlin attack: First aider dies 5 years after Christmas market murders](https://www.bbc.co.uk/news/world-europe-59048891?at_medium=RSS&at_campaign=KARANGA) BBC: Sascha Hüsges was badly injured when he rushed to help victims of the 2016 Christmas market attack. 
  <p class="updated_time"> 04:51 AM CT, Oct. 26 </p> 
  [Ukraine Wins Back Golden Treasures at Center of Dispute With Russia](https://www.wsj.com/articles/dutch-court-upholds-ukraines-claim-to-treasures-found-in-crimea-11635256263) WSJ: A Dutch appeals court ruled in favor of Ukraine in the case of a priceless collection of Crimean gold that Ukraine and Russia both claimed as their own, the latest in a dispute that had come to epitomize the Black Sea peninsula’s complex history. 
  <p class="updated_time"> 04:43 AM CT, Oct. 26 </p> 
@@ -122,8 +124,6 @@ permalink: /charts/news/
  [Eitan Biran Custody Ruling Issued by Israeli Court](https://www.nytimes.com/2021/10/25/world/middleeast/eitan-biran-israel-court.html) NYT: Eitan Biran, the 6-year-old survivor of a cable car accident in Italy, should live there with his aunt, not his grandfather in Israel, ruled a judge in Tel Aviv. 
  <p class="updated_time"> 07:01 PM CT, Oct. 25 </p> 
  [How a supply chain shortage hurts local businesses](https://www.bbc.co.uk/news/world-us-canada-59042157?at_medium=RSS&at_campaign=KARANGA) BBC: A bottleneck could cost Daniel Liberson, an artisanal vinegar maker in Virginia, his small business. 
- <p class="updated_time"> 06:48 PM CT, Oct. 25 </p> 
- [Facebook earns $9bn despite whistleblower scandal](https://www.bbc.co.uk/news/business-59046002?at_medium=RSS&at_campaign=KARANGA) BBC: The firm posts strong profits as it continues to face negative press over leaked internal documents. 
  <p class="updated_time"> 06:45 PM CT, Oct. 25 </p> 
  [The Harder They Fall: 'Raising hell' in Netflix's all-black Western](https://www.bbc.co.uk/news/entertainment-arts-58765908?at_medium=RSS&at_campaign=KARANGA) BBC: London-born Jeymes Samuel directs Regina King and Idris Elba in The Harder They Fall. 
  <p class="updated_time"> 06:01 PM CT, Oct. 25 </p> 
