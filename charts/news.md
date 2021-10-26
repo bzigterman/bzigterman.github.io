@@ -6,6 +6,12 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 05:18 AM CT, Oct. 26 </p> 
+ [Covid Cases Keep Falling](https://www.nytimes.com/2021/10/26/briefing/covid-cases-falling-delta.html) NYT: Covid cases have been falling in every region of the U.S., offering hope. 
+ <p class="updated_time"> 05:06 AM CT, Oct. 26 </p> 
+ [Berlin attack: First aider dies 5 years after Christmas market murders](https://www.bbc.co.uk/news/world-europe-59048891?at_medium=RSS&at_campaign=KARANGA) BBC: Sascha Hüsges was badly injured when he rushed to help victims of the 2016 Christmas market attack. 
+ <p class="updated_time"> 04:55 AM CT, Oct. 26 </p> 
+ [Aung San Suu Kyi to Defend Herself in Myanmar 'Show Trial'](https://www.nytimes.com/2021/10/26/world/asia/myanmar-coup-trial-aung-san-suu-kyi.html) NYT: The United Nations has described the charges against the former leader as politically motivated. If convicted, she could face a maximum of 102 years in prison. 
  <p class="updated_time"> 04:46 AM CT, Oct. 26 </p> 
  [China Locks Down City of 4 Million to Subdue Covid Outbreak](https://www.nytimes.com/2021/10/26/world/asia/covid-china-lanzhou-lockdown.html) NYT: Lanzhou, with about four million people, reported six new coronavirus cases on Tuesday, and a total of 39 over the past week. 
  <p class="updated_time"> 04:43 AM CT, Oct. 26 </p> 
@@ -36,6 +42,8 @@ permalink: /charts/news/
  [Sudan coup: Protests continue after military takeover](https://www.bbc.co.uk/news/world-africa-59045020?at_medium=RSS&at_campaign=KARANGA) BBC: Defiant protesters stay on the streets despite soldiers opening fire on crowds opposed to the coup. 
  <p class="updated_time"> 12:50 AM CT, Oct. 26 </p> 
  [Japan's Princess Mako Loses Royal Status as She Marries College Sweetheart](https://www.wsj.com/articles/princess-mako-of-japan-marries-kei-komuro-loses-royal-status-11635216229) WSJ: Mako, in a statement before the cameras at a Tokyo hotel, said she was the one who urged her then-fiance and now husband, Kei Komuro, to establish a new life in the U.S., suggesting she found the scrutiny of being a royal in Japan unbearable. 
+ <p class="updated_time"> 12:30 AM CT, Oct. 26 </p> 
+ [Severe Drought Hits South America](https://www.wsj.com/articles/severe-drought-hits-south-america-11635240602) WSJ: A shortage of rainfall has left parts of South America in drought, hindering a huge hydroelectric dam in Paraguay and impeding the river transport of goods. 
  <p class="updated_time"> 10:42 PM CT, Oct. 25 </p> 
  [German Woman Convicted of a Crime Against Humanity in Death of Yazidi Child](https://www.nytimes.com/2021/10/25/world/europe/germany-isis-yazidi-child.html) NYT: The woman was sentenced to 10 years in prison after a court found that she joined the Islamic State and enslaved a Yazidi mother and child, whom she left to die in the summer heat of Iraq in 2015. 
  <p class="updated_time"> 10:24 PM CT, Oct. 25 </p> 
@@ -51,7 +59,7 @@ permalink: /charts/news/
  <p class="updated_time"> 08:27 PM CT, Oct. 25 </p> 
  [Traveling Through a Divided Israel](https://www.nytimes.com/2021/10/25/world/middleeast/israel-jews-palestinians-journey.html) NYT: Two Times journalists drive the length of Israel to discover what it means to be Israeli today. They meet a kaleidoscope of people, searching for belonging but far apart on how to find it. 
  <p class="updated_time"> 08:02 PM CT, Oct. 25 </p> 
- [Does Taiwan's Military Stand a Chance Against China? Few Think So](https://www.wsj.com/articles/taiwan-military-readiness-china-threat-us-defense-11635174187) WSJ: Poor preparation and low morale are pressing concerns for Taiwan’s armed forces. One conscript said his basic training mainly involved sweeping leaves, moving spare tires and pulling weeds. 
+ [Does Taiwan's Military Ready for War? Few Think So](https://www.wsj.com/articles/taiwan-military-readiness-china-threat-us-defense-11635174187) WSJ: Poor preparation and low morale are pressing concerns for Taiwan’s armed forces. One conscript said his basic training mainly involved sweeping leaves, moving spare tires and pulling weeds. 
  <p class="updated_time"> 07:56 PM CT, Oct. 25 </p> 
  [Who is Abdalla Hamdok, Sudan Leader Ousted in Coup](https://www.nytimes.com/2021/10/25/world/africa/abdalla-hamdok-sudan.html) NYT: Sudan’s  prime minister spent much of his career at international institutions before joining his country’s government. Now he has been forced out. 
  <p class="updated_time"> 07:55 PM CT, Oct. 25 </p> 
@@ -94,8 +102,6 @@ permalink: /charts/news/
  [Signs of first planet found outside our galaxy](https://www.bbc.co.uk/news/science-environment-59044650?at_medium=RSS&at_campaign=KARANGA) BBC: Astronomers have found hints of what could be the first planet ever to be discovered outside our galaxy. 
  <p class="updated_time"> 01:37 PM CT, Oct. 25 </p> 
  [Turkish President Steps Back From Expulsions of 10 Western Diplomats](https://www.nytimes.com/2021/10/25/world/europe/erdogan-turkey-ambassador.html) NYT: The threatened expulsions had risked severe economic consequences and a rupture in the North Atlantic Treaty Organization. 
- <p class="updated_time"> 12:52 PM CT, Oct. 25 </p> 
- [Collector returns Mayan artefact to Guatemala](https://www.bbc.co.uk/news/world-latin-america-59032480?at_medium=RSS&at_campaign=KARANGA) BBC: Plans to auction the fragment, which depicts the head of an ancient ruler, sparked a row in 2019. 
  <p class="updated_time"> 12:33 PM CT, Oct. 25 </p> 
  [The Rich World’s Promise of $100 Billion in Climate Aid Inches Forward](https://www.nytimes.com/2021/10/25/climate/100-billion-climate-aid-cop26.html) NYT: Diplomats announced a plan to make good on an unkept promise of climate aid, a key point of tension in upcoming global climate talks. 
  <p class="updated_time"> 11:35 AM CT, Oct. 25 </p> 
@@ -112,8 +118,6 @@ permalink: /charts/news/
  [Russian Military Drills Near Afghan Border Deliver Warning to Extremists](https://www.wsj.com/articles/russian-military-drills-near-afghan-border-deliver-warning-to-extremists-11635188626) WSJ: A series of joint military exercises by Russia and allies in Central Asia signaled an intention to prevent terrorism or ethnic tensions in Afghanistan from spilling over into Moscow’s backyard. 
  <p class="updated_time"> 09:23 AM CT, Oct. 25 </p> 
  [Singer Ed Sheeran Tests Positive for Coronavirus](https://www.nytimes.com/2021/10/24/arts/music/ed-sheeran-covid-positive.html) NYT: Mr. Sheeran said he would cancel upcoming public appearances while he is “self-isolating and following government guidelines.” 
- <p class="updated_time"> 09:19 AM CT, Oct. 25 </p> 
- [Rich Nations Lag Behind in Meeting Climate Fund Pledge](https://www.wsj.com/articles/rich-nations-lag-behind-in-meeting-100-billion-climate-funding-pledge-in-blow-to-cop26-11635184234) WSJ: Wealthy governments won’t fulfill a pledge to provide $100 billion a year to help developing countries fight climate change until at least 2023, according to a new report from climate negotiators, a setback that comes just days before the U.N. COP26 summit. 
  <p class="updated_time"> 09:05 AM CT, Oct. 25 </p> 
  [Behold, the Worm Blob and Its Computerized Twin](https://www.nytimes.com/2021/10/25/science/worm-blobs.html) NYT: It wriggles. It pulls. It falls apart and comes back together. It is everything you wish for and everything you fear. 
  <p class="updated_time"> 08:38 AM CT, Oct. 25 </p> 
@@ -128,24 +132,18 @@ permalink: /charts/news/
  [Picking Their Fights](https://www.nytimes.com/2021/10/25/briefing/biden-congress-democrats-spending-bill.html) NYT: Creating temporary government programs could have big political benefits for Democrats. 
  <p class="updated_time"> 04:57 AM CT, Oct. 25 </p> 
  [As Hong Kong’s Civil Society Buckles, One Group Tries to Hold On](https://www.nytimes.com/2021/10/24/world/asia/hong-kong-civil-society.html) NYT: Unions and other organizations have dissolved after facing pressure under a new security law. The Hong Kong Journalists Association is hoping it can avoid that fate. 
- <p class="updated_time"> 04:13 AM CT, Oct. 25 </p> 
- [‘Needle Spiking’ of Women in Britain Stirs Alarm Over New Kind of Assault](https://www.nytimes.com/2021/10/22/world/europe/needle-spiking-uk.html) NYT: Women are reporting being injected with syringes at crowded clubs in a horrifying variation of dropping pills into drinks. “This is a new depth,’’ said a former chief of police. 
  <p class="updated_time"> 04:00 AM CT, Oct. 25 </p> 
  [Inside the Thai Temple Where Tattoos Come to Life](https://www.nytimes.com/2021/10/25/travel/sak-yant-tattoo-thailand.html) NYT: Wat Bang Phra, a temple in central Thailand, is renowned as a center for sak yant, a style of tattoo art believed by some to convey protective powers. 
  <p class="updated_time"> 01:20 AM CT, Oct. 25 </p> 
  [Climate change quiz: Test your knowledge of how to reduce emissions](https://www.bbc.co.uk/news/science-environment-58996348?at_medium=RSS&at_campaign=KARANGA) BBC: How much do you know about the steps you could take to help curb climate change? 
  <p class="updated_time"> 11:23 PM CT, Oct. 24 </p> 
  [Your Monday Briefing](https://www.nytimes.com/2021/10/24/briefing/somalia-military-covid-vaccines.html) NYT: A failed playbook in Somalia. 
- <p class="updated_time"> 10:00 PM CT, Oct. 24 </p> 
- [SolarWinds Hackers Step Up Attacks on Tech Companies](https://www.wsj.com/articles/microsoft-solarwinds-hackers-continue-to-hit-technology-companies-11635145200) WSJ: The Russia-linked hackers behind last year’s compromise of a wide swath of the U.S. government and scores of private companies have redoubled their efforts in recent months, Microsoft cybersecurity experts said. 
  <p class="updated_time"> 07:18 PM CT, Oct. 24 </p> 
  [Please Don’t Feed the Whale Sharks? Fishing Town Says It Must, to Prosper.](https://www.nytimes.com/2021/10/24/world/asia/philippines-whale-shark-tourism.html) NYT: The chance to swim with the world’s biggest fish drew tourists to a Philippines town, but conservation groups denounce the hand-feeding that keeps the gentle creatures around. 
  <p class="updated_time"> 07:00 PM CT, Oct. 24 </p> 
  [Climate change: The environmental disasters we've almost fixed](https://www.bbc.co.uk/news/science-environment-58874831?at_medium=RSS&at_campaign=KARANGA) BBC: From acid rain to the ozone hole: Can we learn from the environmental "success stories" of the past? 
  <p class="updated_time"> 06:59 PM CT, Oct. 24 </p> 
  [How China’s past shapes Xi's thinking - and his view of the world](https://www.bbc.co.uk/news/world-asia-58969969?at_medium=RSS&at_campaign=KARANGA) BBC: Heightened tensions with Taiwan has the world wondering where President Xi Jinping sees China on the world stage. 
- <p class="updated_time"> 06:58 PM CT, Oct. 24 </p> 
- [Living with the world's oldest mummies](https://www.bbc.co.uk/news/world-latin-america-58639748?at_medium=RSS&at_campaign=KARANGA) BBC: In a town in northern Chile it is not unusual for residents to stumble across ancient mummies. 
  <p class="updated_time"> 06:57 PM CT, Oct. 24 </p> 
  [Is internet addiction a growing problem?](https://www.bbc.co.uk/news/business-58979895?at_medium=RSS&at_campaign=KARANGA) BBC: Experts warn that the pandemic lockdowns have made more people vulnerable. 
  <p class="updated_time"> 06:22 PM CT, Oct. 24 </p> 
@@ -202,8 +200,6 @@ permalink: /charts/news/
  [Barbados Elects Its First Head of State, Replacing Queen Elizabeth](https://www.nytimes.com/2021/10/22/world/americas/sandra-mason-barbados.html) NYT: The country’s Parliament chose Sandra Mason, the governor general, to assume the symbolic title, a decisive move to distance itself from Barbados’s colonial past. 
  <p class="updated_time"> 01:25 PM CT, Oct. 22 </p> 
  [Geert Jan van Oldenborgh, 59, Dies; Linked Weather Disasters to Climate Change](https://www.nytimes.com/2021/10/22/climate/geert-jan-van-oldenborgh-dead.html) NYT: With a colleague, he founded a group that quickly analyzes heat waves and other extreme events for signs of global warming’s influence. 
- <p class="updated_time"> 12:23 PM CT, Oct. 22 </p> 
- [Gangs in Haiti, Breaking a Taboo, Target the Church](https://www.nytimes.com/2021/10/22/world/americas/haiti-gangs-church.html) NYT: A French priest in Haiti recalls his kidnapping by 400 Mawozo, the same gang holding 16 Americans and a Canadian, including children, for ransom. 
 
 
 
