@@ -6,6 +6,12 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 08:15 AM CT, Oct. 26 </p> 
+ [Climate change: UN emissions gap report a 'thundering wake-up call'](https://www.bbc.co.uk/news/science-environment-59049770?at_medium=RSS&at_campaign=KARANGA) BBC: Current carbon-cutting plans from nations would lead the world to climate catastrophe, says the UN. 
+ <p class="updated_time"> 08:13 AM CT, Oct. 26 </p> 
+ [Céline's Newly Unearthed Work Causes a Stir in France](https://www.nytimes.com/2021/10/26/world/europe/celine-manuscripts-france.html) NYT: A legal battle is raging over manuscripts written by the antisemitic writer Louis-Ferdinand Céline that disappeared almost eight decades ago. 
+ <p class="updated_time"> 08:09 AM CT, Oct. 26 </p> 
+ [Sudan coup: Protests continue after military takeover](https://www.bbc.co.uk/news/world-africa-59045020?at_medium=RSS&at_campaign=KARANGA) BBC: Defiant protesters stay on the streets despite soldiers opening fire on crowds opposed to the coup. 
  <p class="updated_time"> 07:53 AM CT, Oct. 26 </p> 
  [Aung San Suu Kyi to Defend Herself in Myanmar 'Show Trial'](https://www.nytimes.com/2021/10/26/world/asia/myanmar-coup-trial-aung-san-suu-kyi.html) NYT: The United Nations has described the charges against the former leader as politically motivated. If convicted, she could face a maximum of 102 years in prison. 
  <p class="updated_time"> 07:47 AM CT, Oct. 26 </p> 
@@ -20,12 +26,12 @@ permalink: /charts/news/
  [Crimean gold must return to Ukraine - Dutch court](https://www.bbc.co.uk/news/world-europe-59048895?at_medium=RSS&at_campaign=KARANGA) BBC: The legal wrangle has dragged on for seven years, since Russia annexed the peninsula from Ukraine. 
  <p class="updated_time"> 06:56 AM CT, Oct. 26 </p> 
  [Sudan’s Shuttered Capital Pauses Before a Fresh Day of Protest](https://www.nytimes.com/2021/10/26/world/europe/sudan-coup-protests.html) NYT: Schools, banks and shops shut in the capital, Khartoum, and other cities in response to a call for civil disobedience from pro-democracy groups, a day after a military coup. 
- <p class="updated_time"> 06:43 AM CT, Oct. 26 </p> 
- [Sudan coup: Protests continue after military takeover](https://www.bbc.co.uk/news/world-africa-59045020?at_medium=RSS&at_campaign=KARANGA) BBC: Defiant protesters stay on the streets despite soldiers opening fire on crowds opposed to the coup. 
  <p class="updated_time"> 06:34 AM CT, Oct. 26 </p> 
  [Moderna to Sell Up to 110 Million Covid Vaccine Doses to African Countries](https://www.nytimes.com/2021/10/26/world/africa/covid-moderna-african-union.html) NYT: Moderna’s shots have previously gone almost entirely to wealthier countries. 
  <p class="updated_time"> 06:27 AM CT, Oct. 26 </p> 
  [Can Lego help save Singapore's coral reefs?](https://www.bbc.co.uk/news/world-asia-58784313?at_medium=RSS&at_campaign=KARANGA) BBC: Scientists in Singapore are using the popular building block in an effort to rejuvenate its reefs. 
+ <p class="updated_time"> 06:22 AM CT, Oct. 26 </p> 
+ [De Kock refuses to take knee before match](https://www.bbc.co.uk/sport/cricket/59051327?at_medium=RSS&at_campaign=KARANGA) BBC: Quinton de Kock makes himself unavailable for South Africa's T20 World Cup match against West Indies after refusing to take the knee. 
  <p class="updated_time"> 05:31 AM CT, Oct. 26 </p> 
  [Japan's Princess Mako: The woman who gave up royal status to marry](https://www.bbc.co.uk/news/world-asia-59047632?at_medium=RSS&at_campaign=KARANGA) BBC: Japan's Princess Mako has finally married her college sweetheart, thus losing her royal status. 
  <p class="updated_time"> 05:24 AM CT, Oct. 26 </p> 
@@ -63,7 +69,7 @@ permalink: /charts/news/
  <p class="updated_time"> 01:34 AM CT, Oct. 26 </p> 
  [Japan's Princess Mako Loses Royal Status as She Marries a Commoner](https://www.wsj.com/articles/princess-mako-of-japan-marries-kei-komuro-loses-royal-status-11635216229) WSJ: Mako, in a statement before the cameras at a Tokyo hotel, said she was the one who urged her then-fiance and now husband, Kei Komuro, to establish a new life in the U.S., suggesting she found the scrutiny of being a royal in Japan unbearable. 
  <p class="updated_time"> 01:27 AM CT, Oct. 26 </p> 
- [Roh Tae-Woo, South Korean Leader as It Moved Toward Democracy, Dies at 88](https://www.nytimes.com/2021/10/26/world/asia/roh-tae-woo-dead.html) NYT: Mr. Roh, who played a role in a bloody crackdown on pro-democracy protesters in 1980 but also oversaw its winning 1988 Olympics bid, left a mixed legacy and was mired in legal trouble in his later years. 
+ [Roh Tae-Woo, South Korean Leader as It Moved Toward Democracy, Dies at 88](https://www.nytimes.com/2021/10/26/world/asia/roh-tae-woo-dies.html) NYT: Mr. Roh, who played a role in a bloody crackdown on pro-democracy protesters in 1980 but also oversaw its winning 1988 Olympics bid, left a mixed legacy and was mired in legal trouble in his later years. 
  <p class="updated_time"> 12:30 AM CT, Oct. 26 </p> 
  [Severe Drought Hits South America](https://www.wsj.com/articles/severe-drought-hits-south-america-11635240602) WSJ: A shortage of rainfall has left parts of South America in drought, hindering a huge hydroelectric dam in Paraguay and impeding the river transport of goods. 
  <p class="updated_time"> 10:42 PM CT, Oct. 25 </p> 
@@ -156,8 +162,6 @@ permalink: /charts/news/
  [How can Coca-Cola solve its plastic problem?](https://www.bbc.co.uk/news/science-environment-59017151?at_medium=RSS&at_campaign=KARANGA) BBC: The drinks company has been named the world's biggest plastic polluter. 
  <p class="updated_time"> 06:04 PM CT, Oct. 24 </p> 
  [The Gambia: 'We are crying for justice'](https://www.bbc.co.uk/news/world-africa-59016290?at_medium=RSS&at_campaign=KARANGA) BBC: A report into alleged human rights abuses during the rule of former president Jammeh has been delayed. 
- <p class="updated_time"> 06:02 PM CT, Oct. 24 </p> 
- [Inside the Indonesian cave where oldest animal art was found](https://www.bbc.co.uk/news/world-asia-58988252?at_medium=RSS&at_campaign=KARANGA) BBC: The BBC is given rare access to film the 45,500-year-old images found on an Indonesian island. 
  <p class="updated_time"> 04:24 PM CT, Oct. 24 </p> 
  [James Michael Tyler: 11 of Gunther's funniest Friends moments](https://www.bbc.co.uk/news/entertainment-arts-57608696?at_medium=RSS&at_campaign=KARANGA) BBC: A look back at some of the character's highlights following actor James Michael Tyler's death. 
  <p class="updated_time"> 04:10 PM CT, Oct. 24 </p> 
@@ -200,8 +204,6 @@ permalink: /charts/news/
  [Illegal Border Crossings Soar to Record High, New Data Shows](https://www.nytimes.com/2021/10/22/us/politics/border-crossings-immigration-record-high.html) NYT: Migrants were encountered 1.7 million times in the last 12 months, the highest number of illegal crossings recorded since at least 1960. 
  <p class="updated_time"> 03:18 PM CT, Oct. 22 </p> 
  [Barbados Elects Its First Head of State, Replacing Queen Elizabeth](https://www.nytimes.com/2021/10/22/world/americas/sandra-mason-barbados.html) NYT: The country’s Parliament chose Sandra Mason, the governor general, to assume the symbolic title, a decisive move to distance itself from Barbados’s colonial past. 
- <p class="updated_time"> 01:25 PM CT, Oct. 22 </p> 
- [Geert Jan van Oldenborgh, 59, Dies; Linked Weather Disasters to Climate Change](https://www.nytimes.com/2021/10/22/climate/geert-jan-van-oldenborgh-dead.html) NYT: With a colleague, he founded a group that quickly analyzes heat waves and other extreme events for signs of global warming’s influence. 
 
 
 
