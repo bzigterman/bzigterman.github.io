@@ -6,12 +6,12 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 10:31 PM CT, Oct. 25 </p> 
+ [Royal Wedding in Japan Goes Off With Little Fanfare](https://www.nytimes.com/2021/10/25/world/asia/japan-royal-wedding-princess-mako.html) NYT: The torturous path to marriage for Princess Mako of Japan leads to a registry office in Tokyo and most likely a life abroad. 
  <p class="updated_time"> 10:24 PM CT, Oct. 25 </p> 
  [Sudan’s Military Seizes Power, Casting Democratic Transition Into Chaos](https://www.nytimes.com/2021/10/25/world/africa/sudan-military-coup.html) NYT: Civilian and military leaders were supposed to share power after a popular uprising in 2019 overthrew a decades-long dictatorship. On Monday the military detained the civilian prime minister. 
  <p class="updated_time"> 10:20 PM CT, Oct. 25 </p> 
  [How Public Criticism Has Affected Japan's Royal Women](https://www.nytimes.com/2021/10/24/world/asia/japan-princess-mako-mental-health.html) NYT: A princess who will soon marry represents the third generation to suffer intense emotional distress in a country that often consigns women to rigid roles. 
- <p class="updated_time"> 10:13 PM CT, Oct. 25 </p> 
- [Royal Wedding in Japan Goes Off With Little Fanfare](https://www.nytimes.com/2021/10/25/world/asia/japan-royal-wedding-princess-mako.html) NYT: The tortuous path to marriage for Princess Mako of Japan leads to a registry office in Tokyo and most likely a life abroad. 
  <p class="updated_time"> 10:12 PM CT, Oct. 25 </p> 
  [Eco-friendly sex: What is it and how does it impact on climate change?](https://www.bbc.co.uk/news/science-environment-59046518?at_medium=RSS&at_campaign=KARANGA) BBC: As more people try to live environmentally friendly lives, how do we make sex more sustainable? 
  <p class="updated_time"> 10:10 PM CT, Oct. 25 </p> 
@@ -70,6 +70,8 @@ permalink: /charts/news/
  [Turkish President Steps Back From Expulsions of 10 Western Diplomats](https://www.nytimes.com/2021/10/25/world/europe/erdogan-turkey-ambassador.html) NYT: The threatened expulsions had risked severe economic consequences and a rupture in the North Atlantic Treaty Organization. 
  <p class="updated_time"> 12:52 PM CT, Oct. 25 </p> 
  [Collector returns Mayan artefact to Guatemala](https://www.bbc.co.uk/news/world-latin-america-59032480?at_medium=RSS&at_campaign=KARANGA) BBC: Plans to auction the fragment, which depicts the head of an ancient ruler, sparked a row in 2019. 
+ <p class="updated_time"> 12:33 PM CT, Oct. 25 </p> 
+ [The Rich World’s Promise of $100 Billion in Climate Aid Inches Forward](https://www.nytimes.com/2021/10/25/climate/100-billion-climate-aid-cop26.html) NYT: Diplomats announced a plan to make good on an unkept promise of climate aid, a key point of tension in upcoming global climate talks. 
  <p class="updated_time"> 11:42 AM CT, Oct. 25 </p> 
  [German Woman Convicted of a Crime Against Humanity in Death of Yazidi Child](https://www.nytimes.com/2021/10/25/world/europe/germany-isis-yazidi-child.html) NYT: The woman was sentenced to 10 years in prison after a court found that she joined the Islamic State and enslaved a Yazidi mother and child, whom she left to die in the summer heat of Iraq in 2015. 
  <p class="updated_time"> 11:35 AM CT, Oct. 25 </p> 
@@ -200,8 +202,6 @@ permalink: /charts/news/
  [Bali reopens to foreign tourists, but government rules keep them away.](https://www.nytimes.com/2021/10/22/world/bali-reopens-to-foreign-tourists-but-government-rules-keep-them-away.html) NYT: NA 
  <p class="updated_time"> 06:34 AM CT, Oct. 22 </p> 
  [In the Russian Arctic, the First Stirrings of a Very Cold War](https://www.nytimes.com/2021/05/22/world/russia-us-arctic-military.html) NYT: Though the Russian military has little in common with liberal Western politicians or environmental groups like Greenpeace, it is taking ice melt in the Far North seriously. 
- <p class="updated_time"> 06:06 AM CT, Oct. 22 </p> 
- [Britain opened up with hardly any restrictions, a gamble now facing its toughest test.](https://www.nytimes.com/2021/10/22/world/britain-opened-up-with-hardly-any-restrictions-a-gamble-now-facing-its-toughest-test.html) NYT: NA 
 
 
 
