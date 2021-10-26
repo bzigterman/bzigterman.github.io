@@ -6,6 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 09:37 PM CT, Oct. 25 </p> 
+ [Japan's Princess Mako finally marries commoner boyfriend Kei Komuro](https://www.bbc.co.uk/news/world-asia-59046476?at_medium=RSS&at_campaign=KARANGA) BBC: She will lose her royal status and has declined a $1.3m payment for leaving the family. 
  <p class="updated_time"> 09:04 PM CT, Oct. 25 </p> 
  [Sudan’s Military Seizes Power, Casting Democratic Transition Into Chaos](https://www.nytimes.com/2021/10/25/world/africa/sudan-military-coup.html) NYT: Civilian and military leaders were supposed to share power after a popular uprising in 2019 overthrew a decades-long dictatorship. On Monday the military detained the civilian prime minister. 
  <p class="updated_time"> 08:27 PM CT, Oct. 25 </p> 
@@ -45,7 +47,7 @@ permalink: /charts/news/
  <p class="updated_time"> 04:07 PM CT, Oct. 25 </p> 
  [Covid: Biden sets new rules as air travel to the US reopens](https://www.bbc.co.uk/news/world-us-canada-59044856?at_medium=RSS&at_campaign=KARANGA) BBC: All foreign travellers to the US will be required to show proof of vaccination or a negative test. 
  <p class="updated_time"> 03:56 PM CT, Oct. 25 </p> 
- [Sudan coup: Seven protesters killed and dozens injured](https://www.bbc.co.uk/news/world-africa-59045020?at_medium=RSS&at_campaign=KARANGA) BBC: Soldiers are said to have opened fire on large crowds opposing the military takeover. 
+ [Sudan coup: Protesters killed and dozens injured](https://www.bbc.co.uk/news/world-africa-59045020?at_medium=RSS&at_campaign=KARANGA) BBC: Soldiers are said to have opened fire on large crowds opposing the military takeover. 
  <p class="updated_time"> 03:23 PM CT, Oct. 25 </p> 
  [Hong Kong’s National Security Law Explained](https://www.nytimes.com/article/hong-kong-security-law-speech.html) NYT: An activist, Ma Chun-man, was convicted of inciting secession after, he said, he chanted slogans to test the limits of the law. 
  <p class="updated_time"> 03:16 PM CT, Oct. 25 </p> 
@@ -76,8 +78,6 @@ permalink: /charts/news/
  [Sudan Coup Draws Thousands to the Streets in Protest](https://www.wsj.com/articles/sudanese-prime-minister-detained-in-apparent-military-coup-11635150306) WSJ: Pro-democracy protesters streamed into the streets of the capital to reject a military coup of the transitional government that has ruled the country since the ouster of longtime dictator Omar al-Bashir. 
  <p class="updated_time"> 10:03 AM CT, Oct. 25 </p> 
  [Russian Military Drills Near Afghan Border Deliver Warning to Extremists](https://www.wsj.com/articles/russian-military-drills-near-afghan-border-deliver-warning-to-extremists-11635188626) WSJ: A series of joint military exercises by Russia and allies in Central Asia signaled an intention to prevent terrorism or ethnic tensions in Afghanistan from spilling over into Moscow’s backyard. 
- <p class="updated_time"> 09:45 AM CT, Oct. 25 </p> 
- [Haiti fuel shortages threaten patients' lives - Unicef](https://www.bbc.co.uk/news/world-latin-america-59035552?at_medium=RSS&at_campaign=KARANGA) BBC: Hospitals say that without fuel they cannot operate crucial generators and hundreds could die. 
  <p class="updated_time"> 09:23 AM CT, Oct. 25 </p> 
  [Singer Ed Sheeran Tests Positive for Coronavirus](https://www.nytimes.com/2021/10/24/arts/music/ed-sheeran-covid-positive.html) NYT: Mr. Sheeran said he would cancel upcoming public appearances while he is “self-isolating and following government guidelines.” 
  <p class="updated_time"> 09:19 AM CT, Oct. 25 </p> 
