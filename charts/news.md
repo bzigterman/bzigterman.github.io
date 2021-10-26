@@ -6,16 +6,20 @@ permalink: /charts/news/
 
 ## World News
 
- <p class="updated_time"> 10:43 AM CT, Oct. 26 </p> 
+ <p class="updated_time"> 11:01 AM CT, Oct. 26 </p> 
  [Roh Tae-woo, South Korean Leader During Move Toward Democracy, Dies at 88](https://www.nytimes.com/2021/10/26/world/asia/roh-tae-woo-dies.html) NYT: He played a role in a bloody crackdown on pro-democracy protesters in 1980 but went on to oversee his country’s winning 1988 Olympics bid. He was later mired in legal trouble. 
- <p class="updated_time"> 10:28 AM CT, Oct. 26 </p> 
+ <p class="updated_time"> 10:56 AM CT, Oct. 26 </p> 
+ [Trial in Holocaust Survivor's Killing Begins in France](https://www.nytimes.com/2021/10/26/world/europe/france-murder-trial-holocaust-survivor-mireille-knoll.html) NYT: Mireille Knoll, 85, was killed in 2018 in what prosecutors and the authorities called a hate crime. Decades earlier, she had escaped a notorious roundup of Jews. 
+ <p class="updated_time"> 10:54 AM CT, Oct. 26 </p> 
+ [2 Days After Cricket Victory Over India, Pakistan Still Feels the High](https://www.nytimes.com/2021/10/26/world/asia/pakistan-cricket-victory-india.html) NYT: The nation is experiencing a much-needed burst of joy after it unexpectedly beat India in a cricket match in Dubai. 
+ <p class="updated_time"> 10:47 AM CT, Oct. 26 </p> 
  [Sudan’s Prime Minister Is Detained at Home of General Who Led Coup](https://www.nytimes.com/2021/10/26/world/africa/sudan-coup-protests.html) NYT: Protesters demanding civilian rule flooded into the streets of major cities a day after a military takeover. Many schools, banks and shops shut, answering a call for civil disobedience from pro-democracy groups. 
+ <p class="updated_time"> 10:36 AM CT, Oct. 26 </p> 
+ [Catania: Two dead as rare storm floods streets of Sicilian city](https://www.bbc.co.uk/news/world-europe-59048809?at_medium=RSS&at_campaign=KARANGA) BBC: The mayor orders people to stay at home as floods engulf the streets of Catania in southern Italy. 
  <p class="updated_time"> 10:23 AM CT, Oct. 26 </p> 
  [Sudan army seized power to prevent civil war - coup leader](https://www.bbc.co.uk/news/world-africa-59052260?at_medium=RSS&at_campaign=KARANGA) BBC: Gen Burhan also said he had taken the deposed prime minister to his house "for his own safety." 
  <p class="updated_time"> 10:20 AM CT, Oct. 26 </p> 
  [Manchester Arena bombing: Exclusive images of extradition of Hashem Abedi](https://www.bbc.co.uk/news/uk-59054530?at_medium=RSS&at_campaign=KARANGA) BBC: Watch as Hashem Abedi, the brother of the Manchester Arena bomber, is sent to Britain to stand trial. 
- <p class="updated_time"> 09:56 AM CT, Oct. 26 </p> 
- [2 Days After Cricket Victory Over India, Pakistan Still Feels the High](https://www.nytimes.com/2021/10/26/world/asia/pakistan-cricket-victory-india.html) NYT: The nation is experiencing a much-needed burst of joy after it unexpectedly beat India in a cricket match in Dubai. 
  <p class="updated_time"> 09:51 AM CT, Oct. 26 </p> 
  [After a Year of ‘Rampant’ Cheating, Elite Bridge Tries to Clean Up](https://www.nytimes.com/2021/10/26/arts/contract-bridge-cheating.html) NYT: As the pandemic forced most players online, the problem of cheating consumed the game’s highest levels. Top players say a tight-lipped culture is finally changing. 
  <p class="updated_time"> 09:22 AM CT, Oct. 26 </p> 
@@ -104,8 +108,6 @@ permalink: /charts/news/
  [Your Tuesday Briefing](https://www.nytimes.com/2021/10/25/briefing/sudan-coup-facebook-crisis.html) NYT: The military seizes power in Sudan. 
  <p class="updated_time"> 07:55 PM CT, Oct. 25 </p> 
  [Your Tuesday Briefing](https://www.nytimes.com/2021/10/25/briefing/sudan-coup-moderna-kids-hong-kong.html) NYT: Sudan’s military seizes power. 
- <p class="updated_time"> 07:20 PM CT, Oct. 25 </p> 
- [Chappelle slams cancel culture amid Netflix transgender furore](https://www.bbc.co.uk/news/world-us-canada-59046022?at_medium=RSS&at_campaign=KARANGA) BBC: "I am not bending to anybody's demands," says the US comic of the transgender backlash he faces. 
  <p class="updated_time"> 07:20 PM CT, Oct. 25 </p> 
  ['Why I returned to Boko Haram and how I escaped'](https://www.bbc.co.uk/news/world-africa-59002677?at_medium=RSS&at_campaign=KARANGA) BBC: Aisha Yerima, who was kidnapped aged 21, tells of her time living with militants in Nigeria. 
  <p class="updated_time"> 07:12 PM CT, Oct. 25 </p> 
@@ -198,8 +200,6 @@ permalink: /charts/news/
  [Singapore will require vaccination or daily tests for workplace access next year.](https://www.nytimes.com/2021/10/23/world/singapore-will-require-vaccination-or-daily-tests-for-workplace-access-next-year.html) NYT: NA 
  <p class="updated_time"> 10:45 AM CT, Oct. 23 </p> 
  [U.S. Struggles With Afghan Evacuees Weeded Out, and Now in Limbo](https://www.nytimes.com/2021/10/23/us/politics/afghan-evacuees-kosovo.html) NYT: No final decisions have been made, but dozens red-flagged for apparent criminal pasts or links to militants have been sent to a base in Kosovo, where their fate is uncertain. 
- <p class="updated_time"> 07:09 AM CT, Oct. 23 </p> 
- [Turkish Opposition Begins Joining Ranks Against Erdogan](https://www.nytimes.com/2021/10/23/world/middleeast/turkey-election-erdogan-opposition.html) NYT: With an eye on elections, six parties are working on a plan to end a powerful presidency and return to a parliamentary system. 
 
 
 
