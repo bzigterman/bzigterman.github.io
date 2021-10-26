@@ -6,6 +6,12 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 06:41 PM CT, Oct. 26 </p> 
+ [Justin Trudeau Introduces 'Reinvigorated' Cabinet](https://www.nytimes.com/2021/10/26/world/canada/justin-trudeau-cabinet.html) NYT: The Canadian prime minister failed to gain a majority in Parliament last month but acted otherwise when unveiling his new cabinet. 
+ <p class="updated_time"> 06:32 PM CT, Oct. 26 </p> 
+ [Covid: Charlize Theron wants fairer distribution of vaccines](https://www.bbc.co.uk/news/world-africa-59054894?at_medium=RSS&at_campaign=KARANGA) BBC: The actress tells the BBC that nations must start sharing jabs to help reach the WHO's vaccination goals. 
+ <p class="updated_time"> 06:29 PM CT, Oct. 26 </p> 
+ [Malkhan Singh: The surrender of India's bandit king](https://www.bbc.co.uk/news/world-asia-india-58831394?at_medium=RSS&at_campaign=KARANGA) BBC: Forty years ago, a photographer spent a week following India's dreaded "bandit king" Malkhan Singh. 
  <p class="updated_time"> 06:27 PM CT, Oct. 26 </p> 
  [Roh Tae-woo, 88, South Korean Leader in Move Toward Democracy, Dies](https://www.nytimes.com/2021/10/26/world/asia/roh-tae-woo-dies.html) NYT: He played a role in a bloody crackdown on pro-democracy protesters in 1980, then oversaw his country’s winning 1988 Olympics bid. He was later mired in legal trouble. 
  <p class="updated_time"> 06:22 PM CT, Oct. 26 </p> 
@@ -14,8 +20,6 @@ permalink: /charts/news/
  [Life at 50C: Surviving in Kuwait's 'unbearable' heat](https://www.bbc.co.uk/news/world-middle-east-59054893?at_medium=RSS&at_campaign=KARANGA) BBC: The Middle East is warming faster than much of the world, leaving Kuwaitis struggling with everyday life. 
  <p class="updated_time"> 06:08 PM CT, Oct. 26 </p> 
  [Ros Atkins on... India's climate challenge](https://www.bbc.co.uk/news/world-asia-india-59049691?at_medium=RSS&at_campaign=KARANGA) BBC: A look at how India is trying to balance banishing poverty with meeting its climate commitments. 
- <p class="updated_time"> 06:08 PM CT, Oct. 26 </p> 
- [Justin Trudeau Introduces 'Reinvigorated' Cabinet](https://www.nytimes.com/2021/10/26/world/canada/justin-trudeau-cabinet.html) NYT: The Canadian prime minister failed to gain a majority in Parliament last month but acted otherwise when unveiling his new cabinet. 
  <p class="updated_time"> 05:27 PM CT, Oct. 26 </p> 
  [Rust: Assistant director had been sacked before over gun safety](https://www.bbc.co.uk/news/entertainment-arts-59055138?at_medium=RSS&at_campaign=KARANGA) BBC: Dave Halls had previously been dismissed from another film over gun safety violations. 
  <p class="updated_time"> 05:05 PM CT, Oct. 26 </p> 
@@ -90,8 +94,6 @@ permalink: /charts/news/
  [A Jewish Far-Right Pundit Splits the French Jewish Community as He Rises](https://www.nytimes.com/2021/10/25/world/europe/eric-zemmour-france-jewish-bernard-henri-levy.html) NYT: Éric Zemmour, eyeing the presidency, tries to rehabilitate the wartime Vichy regime that collaborated with the Nazis as part of a campaign filled with provocations. 
  <p class="updated_time"> 07:40 AM CT, Oct. 26 </p> 
  [U.S. Halts Aid to Sudan Government After Coup](https://www.nytimes.com/2021/10/25/world/africa/us-aid-frozen-sudan.html) NYT: The Biden administration, calling for immediate restoration of the transition government, froze $700 million in direct aid. 
- <p class="updated_time"> 06:27 AM CT, Oct. 26 </p> 
- [Can Lego help save Singapore's coral reefs?](https://www.bbc.co.uk/news/world-asia-58784313?at_medium=RSS&at_campaign=KARANGA) BBC: Scientists in Singapore are using the popular building block in an effort to rejuvenate its reefs. 
  <p class="updated_time"> 05:31 AM CT, Oct. 26 </p> 
  [Japan's Princess Mako: The woman who gave up royal status to marry](https://www.bbc.co.uk/news/world-asia-59047632?at_medium=RSS&at_campaign=KARANGA) BBC: Japan's Princess Mako has finally married her college sweetheart, thus losing her royal status. 
  <p class="updated_time"> 05:24 AM CT, Oct. 26 </p> 
@@ -108,8 +110,6 @@ permalink: /charts/news/
  [Japan's Princess Mako finally marries commoner boyfriend Kei Komuro](https://www.bbc.co.uk/news/world-asia-59046476?at_medium=RSS&at_campaign=KARANGA) BBC: She will lose her royal status and has declined a $1.3m payment for leaving the family. 
  <p class="updated_time"> 02:46 AM CT, Oct. 26 </p> 
  [Taiwan Gains Favor in Europe's East, Angering China](https://www.wsj.com/articles/taiwan-gains-favor-in-europes-east-angering-china-11635248811) WSJ: The intensifying links mirror tensions between the West and China over trade, military and human-rights issues. They also highlight differences within the West in how to approach an increasingly assertive China. 
- <p class="updated_time"> 02:29 AM CT, Oct. 26 </p> 
- [Climate change: Australia pledges net zero emissions by 2050](https://www.bbc.co.uk/news/world-australia-59046032?at_medium=RSS&at_campaign=KARANGA) BBC: The target controversially omits new short-term goals and cuts to fossil fuel industries. 
  <p class="updated_time"> 02:22 AM CT, Oct. 26 </p> 
  [An Italian Politician’s Quest for Attention Gets a Boost From Richard Gere](https://www.nytimes.com/2021/10/25/world/europe/richard-gere-matteo-salvini-immigrant-trial.html) NYT: The actor may testify against Matteo Salvini, Italy’s former interior minister, in a case involving the treatment of migrants. 
  <p class="updated_time"> 02:00 AM CT, Oct. 26 </p> 
