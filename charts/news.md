@@ -6,6 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 04:55 PM CT, Oct. 26 </p> 
+ [Iranian Motorists Hit With Cyberattack at Filling Stations](https://www.nytimes.com/2021/10/26/world/middleeast/iran-gas-station-hack.html) NYT: Iranian news agencies reported that a cyberattack of unidentified origin had sabotaged a payment system. 
  <p class="updated_time"> 04:38 PM CT, Oct. 26 </p> 
  [Sudan’s Prime Minister Was Detained at Home of General Who Led Coup](https://www.nytimes.com/2021/10/26/world/africa/sudan-coup-protests.html) NYT: Protesters demanding civilian rule flooded the streets of major cities a day after a military takeover. Many offices and businesses shut, answering a call for civil disobediences. 
  <p class="updated_time"> 04:21 PM CT, Oct. 26 </p> 
@@ -28,8 +30,6 @@ permalink: /charts/news/
  [She Climbed Yosemite's El Capitan to Celebrate Turning 70](https://www.nytimes.com/2021/10/26/sports/alex-honnold-mother-el-capitan.html) NYT: Dierdre Wolownick, whose son, Alex Honnold, is one of the world’s top rock climbers, ascended Yosemite’s El Capitan to celebrate her 70th birthday. 
  <p class="updated_time"> 01:57 PM CT, Oct. 26 </p> 
  [Agnes Wanjiru murder: Kenya family's anger over UK army 'cover-up'](https://www.bbc.co.uk/news/world-africa-59051789?at_medium=RSS&at_campaign=KARANGA) BBC: Agnes Wanjiru was murdered nine years ago near a British army base in Kenya. 
- <p class="updated_time"> 01:44 PM CT, Oct. 26 </p> 
- [Iranian Motorists Hit With Cyberattack at Filling Stations](https://www.nytimes.com/2021/10/26/world/middleeast/iran-gas-station-hack.html) NYT: Iranian news agencies reported that a cyberattack of unidentified origin had sabotaged a payment system. 
  <p class="updated_time"> 01:24 PM CT, Oct. 26 </p> 
  [Ignoring Sanctions, Russia Renews Broad Cybersurveillance Operation](https://www.nytimes.com/2021/10/25/us/politics/russia-cybersurveillance-biden.html) NYT: The new campaign came only months after President Biden imposed sanctions on Moscow in response to a series of spy operations it had conducted around the world. 
  <p class="updated_time"> 12:53 PM CT, Oct. 26 </p> 
