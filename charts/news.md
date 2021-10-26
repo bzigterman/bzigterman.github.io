@@ -8,6 +8,8 @@ permalink: /charts/news/
 
  <p class="updated_time"> 05:31 AM CT, Oct. 26 </p> 
  [Japan's Princess Mako: The woman who gave up royal status to marry](https://www.bbc.co.uk/news/world-asia-59047632?at_medium=RSS&at_campaign=KARANGA) BBC: Japan's Princess Mako has finally married her college sweetheart, thus losing her royal status. 
+ <p class="updated_time"> 05:24 AM CT, Oct. 26 </p> 
+ [Sudan coup: Are military takeovers on the rise in Africa?](https://www.bbc.co.uk/news/world-africa-46783600?at_medium=RSS&at_campaign=KARANGA) BBC: Despite a series of coups in Africa recently, the longer-term trend for military takeovers is downwards. 
  <p class="updated_time"> 05:18 AM CT, Oct. 26 </p> 
  [Covid Cases Keep Falling](https://www.nytimes.com/2021/10/26/briefing/covid-cases-falling-delta.html) NYT: Covid cases have been falling in every region of the U.S., offering hope. 
  <p class="updated_time"> 05:06 AM CT, Oct. 26 </p> 
