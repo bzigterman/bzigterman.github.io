@@ -6,6 +6,12 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 07:10 AM CT, Oct. 26 </p> 
+ [Aung San Suu Kyi to Defend Herself in Myanmar 'Show Trial'](https://www.nytimes.com/2021/10/26/world/asia/myanmar-coup-trial-aung-san-suu-kyi.html) NYT: The United Nations has described the charges against the former leader as politically motivated. If convicted, she could face a maximum of 102 years in prison. 
+ <p class="updated_time"> 06:58 AM CT, Oct. 26 </p> 
+ [Crimean gold must return to Ukraine - Dutch court](https://www.bbc.co.uk/news/world-europe-59048895?at_medium=RSS&at_campaign=KARANGA) BBC: The legal wrangle has dragged on for seven years, since Russia annexed the peninsula from Ukraine. 
+ <p class="updated_time"> 06:56 AM CT, Oct. 26 </p> 
+ [Sudan’s Shuttered Capital Pauses Before a Fresh Day of Protest](https://www.nytimes.com/2021/10/26/world/europe/sudan-coup-protests.html) NYT: Schools, banks and shops shut in the capital, Khartoum, and other cities in response to a call for civil disobedience from pro-democracy groups, a day after a military coup. 
  <p class="updated_time"> 06:43 AM CT, Oct. 26 </p> 
  [Sudan coup: Protests continue after military takeover](https://www.bbc.co.uk/news/world-africa-59045020?at_medium=RSS&at_campaign=KARANGA) BBC: Defiant protesters stay on the streets despite soldiers opening fire on crowds opposed to the coup. 
  <p class="updated_time"> 06:34 AM CT, Oct. 26 </p> 
@@ -20,8 +26,6 @@ permalink: /charts/news/
  [Covid Cases Keep Falling](https://www.nytimes.com/2021/10/26/briefing/covid-cases-falling-delta.html) NYT: Covid cases have been falling in every region of the U.S., offering hope. 
  <p class="updated_time"> 05:06 AM CT, Oct. 26 </p> 
  [Berlin attack: First aider dies 5 years after Christmas market murders](https://www.bbc.co.uk/news/world-europe-59048891?at_medium=RSS&at_campaign=KARANGA) BBC: Sascha Hüsges was badly injured when he rushed to help victims of the 2016 Christmas market attack. 
- <p class="updated_time"> 04:55 AM CT, Oct. 26 </p> 
- [Aung San Suu Kyi to Defend Herself in Myanmar 'Show Trial'](https://www.nytimes.com/2021/10/26/world/asia/myanmar-coup-trial-aung-san-suu-kyi.html) NYT: The United Nations has described the charges against the former leader as politically motivated. If convicted, she could face a maximum of 102 years in prison. 
  <p class="updated_time"> 04:46 AM CT, Oct. 26 </p> 
  [China Locks Down City of 4 Million to Subdue Covid Outbreak](https://www.nytimes.com/2021/10/26/world/asia/covid-china-lanzhou-lockdown.html) NYT: Lanzhou, with about four million people, reported six new coronavirus cases on Tuesday, and a total of 39 over the past week. 
  <p class="updated_time"> 04:43 AM CT, Oct. 26 </p> 
@@ -90,8 +94,6 @@ permalink: /charts/news/
  [Climate change: Sir David Attenborough in 'act now' warning](https://www.bbc.co.uk/news/science-environment-59039485?at_medium=RSS&at_campaign=KARANGA) BBC: "If we don't act now, it'll be too late," warns Sir David Attenborough ahead of the COP26 climate summit. 
  <p class="updated_time"> 05:37 PM CT, Oct. 25 </p> 
  [Egypt’s Leader Ends State of Emergency, Says It’s No Longer Needed](https://www.nytimes.com/2021/10/25/world/middleeast/egypt-sisi-state-emergency.html) NYT: The move by President Abdel Fattah el-Sisi theoretically rolls back sweeping powers the government wielded in the name of fighting terrorism, but critics called it a cosmetic change. 
- <p class="updated_time"> 04:43 PM CT, Oct. 25 </p> 
- [Alec Baldwin was pointing gun at camera in Rust rehearsal, legal papers say](https://www.bbc.co.uk/news/entertainment-arts-59035483?at_medium=RSS&at_campaign=KARANGA) BBC: Legal papers shed light on what happened when actor Alec Baldwin fired a gun with tragic results. 
  <p class="updated_time"> 04:07 PM CT, Oct. 25 </p> 
  [Covid: Biden sets new rules as air travel to the US reopens](https://www.bbc.co.uk/news/world-us-canada-59044856?at_medium=RSS&at_campaign=KARANGA) BBC: All foreign travellers to the US will be required to show proof of vaccination or a negative test. 
  <p class="updated_time"> 03:23 PM CT, Oct. 25 </p> 
@@ -196,8 +198,6 @@ permalink: /charts/news/
  [Israel Accuses 6 Palestinian Rights Groups of Terrorism](https://www.nytimes.com/2021/10/22/world/middleeast/israel-palestinian-rights-groups.html) NYT: The Defense Ministry said the groups work for leftist militants. Critics said the charge was aimed at quelling scrutiny of Israeli rights abuses. 
  <p class="updated_time"> 07:36 PM CT, Oct. 22 </p> 
  [Illegal Border Crossings Soar to Record High, New Data Shows](https://www.nytimes.com/2021/10/22/us/politics/border-crossings-immigration-record-high.html) NYT: Migrants were encountered 1.7 million times in the last 12 months, the highest number of illegal crossings recorded since at least 1960. 
- <p class="updated_time"> 04:59 PM CT, Oct. 22 </p> 
- [Alberta Investigation of Environmental Groups Falls Flat](https://www.nytimes.com/2021/10/22/world/canada/alberta-energy-inquiry.html) NYT: The report from a provincial inquiry into “anti-Alberta energy campaigns” didn’t back up Premier Jason Kenney’s allegations. 
  <p class="updated_time"> 03:18 PM CT, Oct. 22 </p> 
  [Barbados Elects Its First Head of State, Replacing Queen Elizabeth](https://www.nytimes.com/2021/10/22/world/americas/sandra-mason-barbados.html) NYT: The country’s Parliament chose Sandra Mason, the governor general, to assume the symbolic title, a decisive move to distance itself from Barbados’s colonial past. 
  <p class="updated_time"> 01:25 PM CT, Oct. 22 </p> 
