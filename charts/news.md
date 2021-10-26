@@ -6,6 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 06:43 AM CT, Oct. 26 </p> 
+ [Sudan coup: Protests continue after military takeover](https://www.bbc.co.uk/news/world-africa-59045020?at_medium=RSS&at_campaign=KARANGA) BBC: Defiant protesters stay on the streets despite soldiers opening fire on crowds opposed to the coup. 
  <p class="updated_time"> 06:34 AM CT, Oct. 26 </p> 
  [Moderna to Sell Up to 110 Million Covid Vaccine Doses to African Countries](https://www.nytimes.com/2021/10/26/world/africa/covid-moderna-african-union.html) NYT: Moderna’s shots have previously gone almost entirely to wealthier countries. 
  <p class="updated_time"> 06:27 AM CT, Oct. 26 </p> 
@@ -44,8 +46,6 @@ permalink: /charts/news/
  [Japan's Princess Mako Loses Royal Status as She Marries a Commoner](https://www.wsj.com/articles/princess-mako-of-japan-marries-kei-komuro-loses-royal-status-11635216229) WSJ: Mako, in a statement before the cameras at a Tokyo hotel, said she was the one who urged her then-fiance and now husband, Kei Komuro, to establish a new life in the U.S., suggesting she found the scrutiny of being a royal in Japan unbearable. 
  <p class="updated_time"> 01:27 AM CT, Oct. 26 </p> 
  [Roh Tae-Woo, South Korean Leader as It Moved Toward Democracy, Dies at 88](https://www.nytimes.com/2021/10/26/world/asia/roh-tae-woo-dead.html) NYT: Mr. Roh, who played a role in a bloody crackdown on pro-democracy protesters in 1980 but also oversaw its winning 1988 Olympics bid, left a mixed legacy and was mired in legal trouble in his later years. 
- <p class="updated_time"> 01:14 AM CT, Oct. 26 </p> 
- [Sudan coup: Protests continue after military takeover](https://www.bbc.co.uk/news/world-africa-59045020?at_medium=RSS&at_campaign=KARANGA) BBC: Defiant protesters stay on the streets despite soldiers opening fire on crowds opposed to the coup. 
  <p class="updated_time"> 12:30 AM CT, Oct. 26 </p> 
  [Severe Drought Hits South America](https://www.wsj.com/articles/severe-drought-hits-south-america-11635240602) WSJ: A shortage of rainfall has left parts of South America in drought, hindering a huge hydroelectric dam in Paraguay and impeding the river transport of goods. 
  <p class="updated_time"> 10:42 PM CT, Oct. 25 </p> 
@@ -137,7 +137,7 @@ permalink: /charts/news/
  <p class="updated_time"> 04:00 AM CT, Oct. 25 </p> 
  [Inside the Thai Temple Where Tattoos Come to Life](https://www.nytimes.com/2021/10/25/travel/sak-yant-tattoo-thailand.html) NYT: Wat Bang Phra, a temple in central Thailand, is renowned as a center for sak yant, a style of tattoo art believed by some to convey protective powers. 
  <p class="updated_time"> 01:20 AM CT, Oct. 25 </p> 
- [Climate change quiz: Test your knowledge of how to reduce emissions](https://www.bbc.co.uk/news/science-environment-58996348?at_medium=RSS&at_campaign=KARANGA) BBC: How much do you know about the steps you could take to help curb climate change? 
+ [Climate change quiz: How can you cut your carbon emissions?](https://www.bbc.co.uk/news/science-environment-58996348?at_medium=RSS&at_campaign=KARANGA) BBC: How much do you know about the steps you could take to help curb climate change? 
  <p class="updated_time"> 11:23 PM CT, Oct. 24 </p> 
  [Your Monday Briefing](https://www.nytimes.com/2021/10/24/briefing/somalia-military-covid-vaccines.html) NYT: A failed playbook in Somalia. 
  <p class="updated_time"> 07:18 PM CT, Oct. 24 </p> 
