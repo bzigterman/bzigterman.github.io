@@ -59,7 +59,7 @@ permalink: /charts/news/
  <p class="updated_time"> 08:27 PM CT, Oct. 25 </p> 
  [Traveling Through a Divided Israel](https://www.nytimes.com/2021/10/25/world/middleeast/israel-jews-palestinians-journey.html) NYT: Two Times journalists drive the length of Israel to discover what it means to be Israeli today. They meet a kaleidoscope of people, searching for belonging but far apart on how to find it. 
  <p class="updated_time"> 08:02 PM CT, Oct. 25 </p> 
- [Does Taiwan's Military Ready for War? Few Think So](https://www.wsj.com/articles/taiwan-military-readiness-china-threat-us-defense-11635174187) WSJ: Poor preparation and low morale are pressing concerns for Taiwan’s armed forces. One conscript said his basic training mainly involved sweeping leaves, moving spare tires and pulling weeds. 
+ [Is Taiwan's Military Ready for War? Few Think So](https://www.wsj.com/articles/taiwan-military-readiness-china-threat-us-defense-11635174187) WSJ: Poor preparation and low morale are pressing concerns for Taiwan’s armed forces. One conscript said his basic training mainly involved sweeping leaves, moving spare tires and pulling weeds. 
  <p class="updated_time"> 07:56 PM CT, Oct. 25 </p> 
  [Who is Abdalla Hamdok, Sudan Leader Ousted in Coup](https://www.nytimes.com/2021/10/25/world/africa/abdalla-hamdok-sudan.html) NYT: Sudan’s  prime minister spent much of his career at international institutions before joining his country’s government. Now he has been forced out. 
  <p class="updated_time"> 07:55 PM CT, Oct. 25 </p> 
