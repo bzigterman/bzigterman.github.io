@@ -14,6 +14,8 @@ permalink: /charts/news/
  [Roh Tae-woo, South Korean Leader During Move Toward Democracy, Dies at 88](https://www.nytimes.com/2021/10/26/world/asia/roh-tae-woo-dies.html) NYT: He played a role in a bloody crackdown on pro-democracy protesters in 1980 but went on to oversee his country’s winning 1988 Olympics bid. He was later mired in legal trouble. 
  <p class="updated_time"> 02:18 PM CT, Oct. 26 </p> 
  [She Climbed Yosemite's El Capitan to Celebrate Turning 70](https://www.nytimes.com/2021/10/26/sports/alex-honnold-mother-el-capitan.html) NYT: Dierdre Wolownick, whose son, Alex Honnold, is one of the world’s top rock climbers, ascended Yosemite’s El Capitan to celebrate her 70th birthday. 
+ <p class="updated_time"> 01:57 PM CT, Oct. 26 </p> 
+ [Agnes Wanjiru murder: Kenya family's anger over UK army 'cover-up'](https://www.bbc.co.uk/news/world-africa-59051789?at_medium=RSS&at_campaign=KARANGA) BBC: Agnes Wanjiru was murdered nine years ago near a British army base in Kenya. 
  <p class="updated_time"> 01:44 PM CT, Oct. 26 </p> 
  [Iranian Motorists Hit With Cyberattack at Filling Stations](https://www.nytimes.com/2021/10/26/world/middleeast/iran-gas-station-hack.html) NYT: Iranian news agencies reported that a cyberattack of unidentified origin had sabotaged a payment system. 
  <p class="updated_time"> 01:24 PM CT, Oct. 26 </p> 
@@ -76,8 +78,6 @@ permalink: /charts/news/
  [Crimean gold must return to Ukraine - Dutch court](https://www.bbc.co.uk/news/world-europe-59048895?at_medium=RSS&at_campaign=KARANGA) BBC: The legal wrangle has dragged on for seven years, since Russia annexed the peninsula from Ukraine. 
  <p class="updated_time"> 06:27 AM CT, Oct. 26 </p> 
  [Can Lego help save Singapore's coral reefs?](https://www.bbc.co.uk/news/world-asia-58784313?at_medium=RSS&at_campaign=KARANGA) BBC: Scientists in Singapore are using the popular building block in an effort to rejuvenate its reefs. 
- <p class="updated_time"> 06:22 AM CT, Oct. 26 </p> 
- [De Kock refuses to take knee before match](https://www.bbc.co.uk/sport/cricket/59051327?at_medium=RSS&at_campaign=KARANGA) BBC: Quinton de Kock makes himself unavailable for South Africa's T20 World Cup match against West Indies after refusing to take the knee. 
  <p class="updated_time"> 05:31 AM CT, Oct. 26 </p> 
  [Japan's Princess Mako: The woman who gave up royal status to marry](https://www.bbc.co.uk/news/world-asia-59047632?at_medium=RSS&at_campaign=KARANGA) BBC: Japan's Princess Mako has finally married her college sweetheart, thus losing her royal status. 
  <p class="updated_time"> 05:24 AM CT, Oct. 26 </p> 
