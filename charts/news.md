@@ -6,14 +6,16 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 03:33 PM CT, Oct. 26 </p> 
+ [Your Wednesday Briefing](https://www.nytimes.com/2021/10/26/briefing/climate-glasgow-un-myanmar-pakistan-cricket.html) NYT: ‘Imminent peril’ from global warming. 
+ <p class="updated_time"> 03:24 PM CT, Oct. 26 </p> 
+ [Sudan’s Prime Minister Is Detained at Home of General Who Led Coup](https://www.nytimes.com/2021/10/26/world/africa/sudan-coup-protests.html) NYT: Protesters demanding civilian rule flooded the streets of major cities a day after a military takeover. Many offices and businesses shut, answering a call for civil disobediences. 
  <p class="updated_time"> 03:12 PM CT, Oct. 26 </p> 
  [Canadian PM Justin Trudeau holds major cabinet shakeup](https://www.bbc.co.uk/news/world-us-canada-59015485?at_medium=RSS&at_campaign=KARANGA) BBC: The major shuffle sees changes in portfolios including defence, the environment and foreign affairs. 
  <p class="updated_time"> 03:01 PM CT, Oct. 26 </p> 
  [Traveling Through a Divided Israel](https://www.nytimes.com/2021/10/25/world/middleeast/israel-jews-palestinians-journey.html) NYT: Two Times journalists drive the length of Israel to discover what it means to be Israeli today. They meet a kaleidoscope of people, searching for belonging but far apart on how to find it. 
  <p class="updated_time"> 03:00 PM CT, Oct. 26 </p> 
- [Queen Elizabeth, Advised to Rest, Will Skip Climate Summit in Glasgow](https://www.nytimes.com/2021/10/26/world/europe/queen-skips-climate-summit.html) NYT: The 95-year-old queen, after 70 years on the throne, is the oldest and longest-serving monarch in British history. 
- <p class="updated_time"> 03:00 PM CT, Oct. 26 </p> 
- [Your Wednesday Briefing](https://www.nytimes.com/2021/10/26/briefing/climate-glasgow-un-myanmar-pakistan-cricket.html) NYT: ‘Imminent peril’ from global warming. 
+ [Queen Elizabeth Will Skip Climate Summit in Glasgow](https://www.nytimes.com/2021/10/26/world/europe/queen-elizabeth-cop26-summit.html) NYT: The 95-year-old queen, after 70 years on the throne, is the oldest and longest-serving monarch in British history. 
  <p class="updated_time"> 02:29 PM CT, Oct. 26 </p> 
  [Sudan army seized power to prevent civil war - coup leader](https://www.bbc.co.uk/news/world-africa-59052260?at_medium=RSS&at_campaign=KARANGA) BBC: Gen Burhan also said he had taken the deposed prime minister to his house "for his own safety." 
  <p class="updated_time"> 02:29 PM CT, Oct. 26 </p> 
@@ -40,8 +42,6 @@ permalink: /charts/news/
  [Princess Mako's Royal Wedding in Japan Goes Off With Little Fanfare](https://www.nytimes.com/2021/10/25/world/asia/japan-royal-wedding-princess-mako.html) NYT: The torturous path to marriage for Princess Mako of Japan, who gave up her title to marry a commoner, leads to a registry office in Tokyo and most likely a life abroad. 
  <p class="updated_time"> 11:46 AM CT, Oct. 26 </p> 
  [US revokes licence of top Chinese telecoms company](https://www.bbc.co.uk/news/business-59055360?at_medium=RSS&at_campaign=KARANGA) BBC: Washington has banned China Telecom from operating in America, citing "national security concerns". 
- <p class="updated_time"> 11:45 AM CT, Oct. 26 </p> 
- [Sudan’s Prime Minister Is Detained at Home of General Who Led Coup](https://www.nytimes.com/2021/10/26/world/africa/sudan-coup-protests.html) NYT: Protesters demanding civilian rule flooded the streets of major cities a day after a military takeover. Many offices and businesses shut, answering a call for civil disobediences. 
  <p class="updated_time"> 11:32 AM CT, Oct. 26 </p> 
  [Self Esteem, a Pop Singer Who Wants Britain to ‘Prioritise Pleasure’](https://www.nytimes.com/2021/10/26/arts/music/self-esteem-prioritise-pleasure.html) NYT: Rebecca Lucy Taylor is touching a nerve with brutally honest songs about not having it all figured out. 
  <p class="updated_time"> 11:22 AM CT, Oct. 26 </p> 
