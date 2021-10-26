@@ -6,6 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 02:22 AM CT, Oct. 26 </p> 
+ [An Italian Politician’s Quest for Attention Gets a Boost From Richard Gere](https://www.nytimes.com/2021/10/25/world/europe/richard-gere-matteo-salvini-immigrant-trial.html) NYT: The actor may testify against Matteo Salvini, Italy’s former interior minister, in a case involving the treatment of migrants. 
  <p class="updated_time"> 02:00 AM CT, Oct. 26 </p> 
  [How to Map a Fly Brain in 20 Million Easy Steps](https://www.nytimes.com/2021/10/26/science/drosophila-fly-brain-connectome.html) NYT: An enormous new analysis of the wiring of the fruit fly brain is a milestone for the young field of modern connectomics, scientists say. 
  <p class="updated_time"> 02:00 AM CT, Oct. 26 </p> 
@@ -30,6 +32,8 @@ permalink: /charts/news/
  [How Public Criticism Has Affected Japan's Royal Women](https://www.nytimes.com/2021/10/24/world/asia/japan-princess-mako-mental-health.html) NYT: A princess who will soon marry represents the third generation to suffer intense emotional distress in a country that often consigns women to rigid roles. 
  <p class="updated_time"> 10:12 PM CT, Oct. 25 </p> 
  [Eco-friendly sex: What is it and how does it impact on climate change?](https://www.bbc.co.uk/news/science-environment-59046518?at_medium=RSS&at_campaign=KARANGA) BBC: As more people try to live environmentally friendly lives, how do we make sex more sustainable? 
+ <p class="updated_time"> 10:12 PM CT, Oct. 25 </p> 
+ [Princess Mako of Japan Marries Kei Komuro, Denounces Media](https://www.wsj.com/articles/princess-mako-of-japan-marries-kei-komuro-loses-royal-status-11635216229) WSJ: Mako, in a statement before the cameras at a Tokyo hotel, said she was the one who urged her then-fiance and now husband, Kei Komuro, to establish a new life in the U.S., suggesting she found the scrutiny of being a royal in Japan unbearable. 
  <p class="updated_time"> 10:04 PM CT, Oct. 25 </p> 
  [Blue Origin: Jeff Bezos unveils plans for 'space business park'](https://www.bbc.co.uk/news/world-us-canada-59046076?at_medium=RSS&at_campaign=KARANGA) BBC: His space company Blue Origin hopes its venture will replace the International Space Station. 
  <p class="updated_time"> 09:46 PM CT, Oct. 25 </p> 
@@ -80,8 +84,6 @@ permalink: /charts/news/
  [John Wayne Gacy murder victim named 45 years after vanishing](https://www.bbc.co.uk/news/world-us-canada-59040381?at_medium=RSS&at_campaign=KARANGA) BBC: Police identify the remains of a man killed by notorious murderer John Wayne Gacy in the 1970s. 
  <p class="updated_time"> 02:49 PM CT, Oct. 25 </p> 
  [Signs of first planet found outside our galaxy](https://www.bbc.co.uk/news/science-environment-59044650?at_medium=RSS&at_campaign=KARANGA) BBC: Astronomers have found hints of what could be the first planet ever to be discovered outside our galaxy. 
- <p class="updated_time"> 02:12 PM CT, Oct. 25 </p> 
- [An Italian Politician’s Quest for Attention Gets a Boost From Richard Gere](https://www.nytimes.com/2021/10/25/world/europe/richard-gere-matteo-salvini-immigrant-trial.html) NYT: The actor may testify against Matteo Salvini, Italy’s former interior minister, in a case involving the treatment of migrants. 
  <p class="updated_time"> 01:37 PM CT, Oct. 25 </p> 
  [Turkish President Steps Back From Expulsions of 10 Western Diplomats](https://www.nytimes.com/2021/10/25/world/europe/erdogan-turkey-ambassador.html) NYT: The threatened expulsions had risked severe economic consequences and a rupture in the North Atlantic Treaty Organization. 
  <p class="updated_time"> 12:52 PM CT, Oct. 25 </p> 
