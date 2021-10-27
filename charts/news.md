@@ -6,6 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 02:42 AM CT, Oct. 27 </p> 
+ [Brazilian senators vote to seek 9 criminal charges against Bolsonaro.](https://www.nytimes.com/2021/10/26/world/americas/brazil-bolsonaro-criminal-charges.html) NYT: A report accused President Jair Bolsonaro of causing thousands of unnecessary deaths by discouraging masks, ignoring offers of vaccines and promoting ineffective drugs. 
  <p class="updated_time"> 02:10 AM CT, Oct. 27 </p> 
  [Brazil senators back criminal charges against Bolsonaro over Covid handling](https://www.bbc.co.uk/news/world-latin-america-59051105?at_medium=RSS&at_campaign=KARANGA) BBC: Senators in Brazil vote to recommend charging the president over his handling of the pandemic. 
  <p class="updated_time"> 01:50 AM CT, Oct. 27 </p> 
@@ -190,8 +192,6 @@ permalink: /charts/news/
  [After Early Success, U.S. and Israel Now Lag on Vaccinations](https://www.nytimes.com/2021/10/24/world/united-states-israel-vaccination-rates.html) NYT: The big barrier to higher rates in both countries is stiff resistance among specific groups. 
  <p class="updated_time"> 12:44 PM CT, Oct. 24 </p> 
  [Inside the Decade-Long U.S. Fight Against Al Shabab in Somalia](https://www.nytimes.com/2021/10/24/world/africa/al-shabab-somalia-us-cia.html) NYT: The hunt for an elusive Somali militant illustrates why Al Shabab, despite a decade of American covert action, are at their strongest in years. 
- <p class="updated_time"> 10:29 AM CT, Oct. 24 </p> 
- [At the World Expo Pavilions, Future Visions Combine Past and Present](https://www.nytimes.com/2021/10/24/world/world-expo-pavilions.html) NYT: Conversations with three figures integral to the conception of the expo. 
  <p class="updated_time"> 04:00 AM CT, Oct. 24 </p> 
  [A World-Class World Expo](https://www.nytimes.com/2021/10/24/world/world-expo-dubai.html) NYT: The event in Dubai dazzles with extraordinary architectural achievements and a focus on the future of the planet. 
 
