@@ -6,10 +6,12 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 03:15 AM CT, Oct. 27 </p> 
+ [Brazil senators back criminal charges against Bolsonaro over Covid handling](https://www.bbc.co.uk/news/world-latin-america-59051105?at_medium=RSS&at_campaign=KARANGA) BBC: Senators in Brazil vote to recommend charging the president over his handling of the pandemic. 
  <p class="updated_time"> 02:42 AM CT, Oct. 27 </p> 
  [Brazilian senators vote to seek 9 criminal charges against Bolsonaro.](https://www.nytimes.com/2021/10/26/world/americas/brazil-bolsonaro-criminal-charges.html) NYT: A report accused President Jair Bolsonaro of causing thousands of unnecessary deaths by discouraging masks, ignoring offers of vaccines and promoting ineffective drugs. 
- <p class="updated_time"> 02:10 AM CT, Oct. 27 </p> 
- [Brazil senators back criminal charges against Bolsonaro over Covid handling](https://www.bbc.co.uk/news/world-latin-america-59051105?at_medium=RSS&at_campaign=KARANGA) BBC: Senators in Brazil vote to recommend charging the president over his handling of the pandemic. 
+ <p class="updated_time"> 02:39 AM CT, Oct. 27 </p> 
+ [Josh Cavallo: 'I'm a footballer and I'm gay,' says Australian player](https://www.bbc.co.uk/news/newsbeat-59060323?at_medium=RSS&at_campaign=KARANGA) BBC: The Adelaide United player has become the only current male professional footballer to do so. 
  <p class="updated_time"> 01:50 AM CT, Oct. 27 </p> 
  [Mort Sahl: Legendary comedian and satirist dies at age 94](https://www.bbc.co.uk/news/world-us-canada-59058489?at_medium=RSS&at_campaign=KARANGA) BBC: His political satire spared no side and revolutionised how stand-up comedy is now performed. 
  <p class="updated_time"> 12:51 AM CT, Oct. 27 </p> 
@@ -76,6 +78,8 @@ permalink: /charts/news/
  [Ignoring Sanctions, Russia Renews Broad Cybersurveillance Operation](https://www.nytimes.com/2021/10/25/us/politics/russia-cybersurveillance-biden.html) NYT: The new campaign came only months after President Biden imposed sanctions on Moscow in response to a series of spy operations it had conducted around the world. 
  <p class="updated_time"> 12:53 PM CT, Oct. 26 </p> 
  [3 Children and 1 Woman Drowned While Migrating Across the Aegean Sea](https://www.nytimes.com/2021/10/26/world/europe/children-die-greece-migrant-crossing.html) NYT: Migrant crossings are down and so are deaths at sea, but Tuesday’s incident was a reminder that dangers remain. 
+ <p class="updated_time"> 12:49 PM CT, Oct. 26 </p> 
+ [Terror Groups in Afghanistan Could Be Ready to Attack West in 6 Months](https://www.wsj.com/articles/terror-groups-in-afghanistan-could-be-ready-to-attack-west-in-6-months-u-s-says-11635284966) WSJ: A top Pentagon official tells senators that Islamic State wants to launch attacks, and that it isn’t clear if the Taliban can counter the threat. 
  <p class="updated_time"> 12:01 PM CT, Oct. 26 </p> 
  [Charlottesville: Why are the ‘Unite the Right’ organisers on trial?](https://www.bbc.co.uk/news/world-us-canada-59054166?at_medium=RSS&at_campaign=KARANGA) BBC: Nine people injured at the 2017 far-right 'Unite the Right' rally in Virginia are suing organisers. 
  <p class="updated_time"> 11:57 AM CT, Oct. 26 </p> 
