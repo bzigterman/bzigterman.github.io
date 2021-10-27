@@ -6,6 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 09:00 AM CT, Oct. 27 </p> 
+ [Josh Cavallo: 'I'm a footballer and I'm gay,' says Australian player](https://www.bbc.co.uk/news/newsbeat-59060323?at_medium=RSS&at_campaign=KARANGA) BBC: The Adelaide United footballer has become the only current top-flight male professional to do so. 
  <p class="updated_time"> 08:40 AM CT, Oct. 27 </p> 
  [US begins legal appeal to get Julian Assange extradited](https://www.bbc.co.uk/news/uk-59063976?at_medium=RSS&at_campaign=KARANGA) BBC: Lawyers for the US say a judge who blocked Julian Assange's extradition was misled by a psychiatrist. 
  <p class="updated_time"> 08:27 AM CT, Oct. 27 </p> 
@@ -32,8 +34,6 @@ permalink: /charts/news/
  [Sunao Tsuboi: Campaigning Hiroshima survivor dies aged 96](https://www.bbc.co.uk/news/world-asia-59060950?at_medium=RSS&at_campaign=KARANGA) BBC: Sunao Tsuboi met Barack Obama on his historic visit to the site of the world's first nuclear attack. 
  <p class="updated_time"> 05:00 AM CT, Oct. 27 </p> 
  [Spain grants joint custody of dog in rare ruling](https://www.bbc.co.uk/news/world-europe-59062132?at_medium=RSS&at_campaign=KARANGA) BBC: A lawyer calls the ruling pioneering as her client could declare herself as a "co-carer". 
- <p class="updated_time"> 04:50 AM CT, Oct. 27 </p> 
- [Josh Cavallo: 'I'm a footballer and I'm gay,' says Australian player](https://www.bbc.co.uk/news/newsbeat-59060323?at_medium=RSS&at_campaign=KARANGA) BBC: The Adelaide United footballer has become the only current top-flight male professional to do so. 
  <p class="updated_time"> 04:08 AM CT, Oct. 27 </p> 
  [Pope Francis to Visit Canada, Seeking Reconciliation With Indigenous Communities](https://www.wsj.com/articles/pope-francis-to-visit-canada-seeking-reconciliation-with-indigenous-communities-11635340084) WSJ: The plan follows scandals over the abuse of generations of indigenous children at church-run residential schools. 
  <p class="updated_time"> 04:00 AM CT, Oct. 27 </p> 
