@@ -34,6 +34,8 @@ permalink: /charts/news/
  [Sunao Tsuboi: Campaigning Hiroshima survivor dies aged 96](https://www.bbc.co.uk/news/world-asia-59060950?at_medium=RSS&at_campaign=KARANGA) BBC: Sunao Tsuboi met Barack Obama on his historic visit to the site of the world's first nuclear attack. 
  <p class="updated_time"> 05:00 AM CT, Oct. 27 </p> 
  [Spain grants joint custody of dog in rare ruling](https://www.bbc.co.uk/news/world-europe-59062132?at_medium=RSS&at_campaign=KARANGA) BBC: A lawyer calls the ruling pioneering as her client could declare herself as a "co-carer". 
+ <p class="updated_time"> 04:33 AM CT, Oct. 27 </p> 
+ [Poland Fined Over $1 Million a Day by EU in Clash Over Judiciary](https://www.wsj.com/articles/poland-fined-over-1-million-a-day-by-eu-in-clash-over-judiciary-11635341581) WSJ: The European Union’s top court handed down a record daily fine to Poland for failing to comply with its decisions, the latest blow in an escalating fight between Brussels and Warsaw over judicial independence. 
  <p class="updated_time"> 04:08 AM CT, Oct. 27 </p> 
  [Pope Francis to Visit Canada, Seeking Reconciliation With Indigenous Communities](https://www.wsj.com/articles/pope-francis-to-visit-canada-seeking-reconciliation-with-indigenous-communities-11635340084) WSJ: The plan follows scandals over the abuse of generations of indigenous children at church-run residential schools. 
  <p class="updated_time"> 04:00 AM CT, Oct. 27 </p> 
@@ -110,8 +112,6 @@ permalink: /charts/news/
  [Ignoring Sanctions, Russia Renews Broad Cybersurveillance Operation](https://www.nytimes.com/2021/10/25/us/politics/russia-cybersurveillance-biden.html) NYT: The new campaign came only months after President Biden imposed sanctions on Moscow in response to a series of spy operations it had conducted around the world. 
  <p class="updated_time"> 12:53 PM CT, Oct. 26 </p> 
  [3 Children and 1 Woman Drowned While Migrating Across the Aegean Sea](https://www.nytimes.com/2021/10/26/world/europe/children-die-greece-migrant-crossing.html) NYT: Migrant crossings are down and so are deaths at sea, but Tuesday’s incident was a reminder that dangers remain. 
- <p class="updated_time"> 12:49 PM CT, Oct. 26 </p> 
- [Terror Groups in Afghanistan Could Be Ready to Attack West in 6 Months](https://www.wsj.com/articles/terror-groups-in-afghanistan-could-be-ready-to-attack-west-in-6-months-u-s-says-11635284966) WSJ: A top Pentagon official tells senators that Islamic State wants to launch attacks, and that it isn’t clear if the Taliban can counter the threat. 
  <p class="updated_time"> 11:32 AM CT, Oct. 26 </p> 
  [Self Esteem, a Pop Singer Who Wants Britain to ‘Prioritise Pleasure’](https://www.nytimes.com/2021/10/26/arts/music/self-esteem-prioritise-pleasure.html) NYT: Rebecca Lucy Taylor is touching a nerve with brutally honest songs about not having it all figured out. 
  <p class="updated_time"> 11:22 AM CT, Oct. 26 </p> 
@@ -140,12 +140,12 @@ permalink: /charts/news/
  [Sudan Soldiers Gun Down Protesters, Doctors Group Says](https://www.nytimes.com/2021/10/25/world/africa/sudan-coup-pro-democracy-protesters.html) NYT: Protesters against the military coup took to the streets by the thousands and barricaded roads, and soldiers reportedly shot demonstrators outside army headquarters. 
  <p class="updated_time"> 03:40 AM CT, Oct. 26 </p> 
  [Australia Pledges ‘Net Zero’ Emissions by 2050. Its Plan Makes That Hard to Believe.](https://www.nytimes.com/2021/10/26/world/australia/net-zero-delay.html) NYT: The country’s last-minute commitment before next week’s climate summit is built on hope for new technology, and little else. 
- <p class="updated_time"> 02:46 AM CT, Oct. 26 </p> 
- [Taiwan Gains Favor in Europe's East, Angering China](https://www.wsj.com/articles/taiwan-gains-favor-in-europes-east-angering-china-11635248811) WSJ: The intensifying links mirror tensions between the West and China over trade, military and human-rights issues. They also highlight differences within the West in how to approach an increasingly assertive China. 
  <p class="updated_time"> 02:22 AM CT, Oct. 26 </p> 
  [An Italian Politician’s Quest for Attention Gets a Boost From Richard Gere](https://www.nytimes.com/2021/10/25/world/europe/richard-gere-matteo-salvini-immigrant-trial.html) NYT: The actor may testify against Matteo Salvini, Italy’s former interior minister, in a case involving the treatment of migrants. 
  <p class="updated_time"> 02:00 AM CT, Oct. 26 </p> 
  [How to Map a Fly Brain in 20 Million Easy Steps](https://www.nytimes.com/2021/10/26/science/drosophila-fly-brain-connectome.html) NYT: An enormous new analysis of the wiring of the fruit fly brain is a milestone for the young field of modern connectomics, scientists say. 
+ <p class="updated_time"> 12:30 AM CT, Oct. 26 </p> 
+ [Severe Drought Hits South America](https://www.wsj.com/articles/severe-drought-hits-south-america-11635240602) WSJ: A shortage of rainfall has left parts of South America in drought, hindering a huge hydroelectric dam in Paraguay and impeding the river transport of goods. 
  <p class="updated_time"> 10:42 PM CT, Oct. 25 </p> 
  [German Woman Convicted of a Crime Against Humanity in Death of Yazidi Child](https://www.nytimes.com/2021/10/25/world/europe/germany-isis-yazidi-child.html) NYT: The woman was sentenced to 10 years in prison after a court found that she joined the Islamic State and enslaved a Yazidi mother and child, whom she left to die in the summer heat of Iraq in 2015. 
  <p class="updated_time"> 10:24 PM CT, Oct. 25 </p> 
