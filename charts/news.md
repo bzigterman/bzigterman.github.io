@@ -23,7 +23,7 @@ permalink: /charts/news/
  <p class="updated_time"> 06:39 PM CT, Oct. 26 </p> 
  [Alex Clare: The singer who chose his faith over Adele tour](https://www.bbc.co.uk/news/entertainment-arts-59007454?at_medium=RSS&at_campaign=KARANGA) BBC: Alex Clare on record label ultimatums and a hopeful return to a kinder music industry. 
  <p class="updated_time"> 06:32 PM CT, Oct. 26 </p> 
- [Covid: Charlize Theron wants fairer distribution of vaccines](https://www.bbc.co.uk/news/world-africa-59054894?at_medium=RSS&at_campaign=KARANGA) BBC: The actress tells the BBC that nations must start sharing jabs to help reach the WHO's vaccination goals. 
+ [Covid: Charlize Theron wants fairer distribution of vaccines](https://www.bbc.co.uk/news/world-africa-59054894?at_medium=RSS&at_campaign=KARANGA) BBC: The actress tells the BBC nations must start sharing jabs to help reach the WHO's vaccination goals. 
  <p class="updated_time"> 06:29 PM CT, Oct. 26 </p> 
  [Malkhan Singh: The surrender of India's bandit king](https://www.bbc.co.uk/news/world-asia-india-58831394?at_medium=RSS&at_campaign=KARANGA) BBC: Forty years ago, a photographer spent a week following India's dreaded "bandit king" Malkhan Singh. 
  <p class="updated_time"> 06:27 PM CT, Oct. 26 </p> 
