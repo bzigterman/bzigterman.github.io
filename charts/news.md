@@ -6,7 +6,7 @@ permalink: /charts/news/
 
 ## World News
 
- <p class="updated_time"> 01:55 AM CT, Oct. 27 </p> 
+ <p class="updated_time"> 02:10 AM CT, Oct. 27 </p> 
  [Brazil senators back criminal charges against Bolsonaro over Covid handling](https://www.bbc.co.uk/news/world-latin-america-59051105?at_medium=RSS&at_campaign=KARANGA) BBC: Senators in Brazil vote to recommend charging the president over his handling of the pandemic. 
  <p class="updated_time"> 01:50 AM CT, Oct. 27 </p> 
  [Mort Sahl: Legendary comedian and satirist dies at age 94](https://www.bbc.co.uk/news/world-us-canada-59058489?at_medium=RSS&at_campaign=KARANGA) BBC: His political satire spared no side and revolutionised how stand-up comedy is now performed. 
