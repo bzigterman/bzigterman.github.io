@@ -6,6 +6,10 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 06:02 PM CT, Oct. 27 </p> 
+ [Ruth Negga on her latest role – as a black woman passing as white](https://www.bbc.co.uk/news/entertainment-arts-59067060?at_medium=RSS&at_campaign=KARANGA) BBC: Based on the 1929 book by Nella Larsen, the film tells the story of childhood friends who meet in later life. 
+ <p class="updated_time"> 05:57 PM CT, Oct. 27 </p> 
+ [China’s Weapon Tests Close to a ‘Sputnik Moment,’ U.S. General Says](https://www.nytimes.com/2021/10/27/us/politics/china-hypersonic-missile.html) NYT: Gen. Mark A. Milley said China’s testing of a hypersonic missile “has all of our attention.” 
  <p class="updated_time"> 05:52 PM CT, Oct. 27 </p> 
  [Australia to Ease Overseas Travel Rules for Vaccinated Residents](https://www.nytimes.com/2021/10/27/world/australia/australia-travel-abroad-vaccination.html) NYT: The eased restrictions will be the first stage in the country’s plan to reopen its borders since slamming them shut in 2020, separating families and leaving thousands stranded overseas. 
  <p class="updated_time"> 05:51 PM CT, Oct. 27 </p> 
@@ -30,8 +34,6 @@ permalink: /charts/news/
  [She Climbed Yosemite's El Capitan to Celebrate Turning 70](https://www.nytimes.com/2021/10/26/sports/alex-honnold-mother-el-capitan.html) NYT: Dierdre Wolownick, whose son, Alex Honnold, is one of the world’s top rock climbers, ascended Yosemite’s El Capitan to celebrate her 70th birthday. 
  <p class="updated_time"> 02:20 PM CT, Oct. 27 </p> 
  [The Rich World’s Promise of $100 Billion in Climate Aid Inches Forward](https://www.nytimes.com/2021/10/25/climate/100-billion-climate-aid-cop26.html) NYT: Diplomats announced a plan to make good on an unkept promise of climate aid, a key point of tension in upcoming global climate talks. 
- <p class="updated_time"> 02:17 PM CT, Oct. 27 </p> 
- [China’s Weapon Test Close to a ‘Sputnik Moment,’ U.S. General Says](https://www.nytimes.com/2021/10/27/us/politics/china-hypersonic-missile.html) NYT: Gen. Mark A. Milley said the Chinese test of a hypersonic missile “has all of our attention.” 
  <p class="updated_time"> 02:15 PM CT, Oct. 27 </p> 
  [U.N. Group Blames Unequal Vaccine Access for Bigger Global Economic Gap](https://www.nytimes.com/2021/10/27/world/united-nations-coronavirus.html) NYT: Wealthier countries with high vaccination rates have had speedier economic recoveries than poorer countries with low vaccination rates, the International Labor Organization said. 
  <p class="updated_time"> 01:57 PM CT, Oct. 27 </p> 
@@ -86,8 +88,6 @@ permalink: /charts/news/
  [Gangs Rule Much of Haiti. For Many, It Means No Fuel, No Power, No Food.](https://www.nytimes.com/2021/10/27/world/americas/haiti-gangs-fuel-shortage.html) NYT: A country in crisis is facing a severe fuel shortage that is pushing it to the brink of collapse. 
  <p class="updated_time"> 06:29 AM CT, Oct. 27 </p> 
  [Sister of Bataclan victim: 'We don't hate you'](https://www.bbc.co.uk/news/world-europe-59062002?at_medium=RSS&at_campaign=KARANGA) BBC: Nick Alexander died at a Paris rock gig during the assault by Islamic State (IS) extremists in 2015. 
- <p class="updated_time"> 06:23 AM CT, Oct. 27 </p> 
- [Bataclan attack: Reliving loss of my brother, Nick Alexander](https://www.bbc.co.uk/news/world-europe-59064877?at_medium=RSS&at_campaign=KARANGA) BBC: Zoe Alexander told the suspects in the 2015 Paris attacks trial that they are war with themselves. 
  <p class="updated_time"> 06:22 AM CT, Oct. 27 </p> 
  [Chinese Workers Say They Are Lured Abroad and Exploited for Belt-and-Road Jobs](https://www.wsj.com/articles/chinese-workers-say-they-are-lured-abroad-and-exploited-for-belt-and-road-jobs-11635348143) WSJ: Five laborers tried to sneak into Malaysia to escape low-paying work in Indonesia, and tens of thousands of workers are similarly desperate, a labor-rights group says. 
  <p class="updated_time"> 06:01 AM CT, Oct. 27 </p> 
