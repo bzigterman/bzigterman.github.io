@@ -48,10 +48,10 @@ permalink: /charts/news/
  [Why Scientists Have Spent Years Mapping This Creature’s Brain](https://www.nytimes.com/2021/10/26/science/drosophila-fly-brain-connectome.html) NYT: An enormous new analysis of the wiring of the fruit fly brain is a milestone for the young field of modern connectomics, researchers say. 
  <p class="updated_time"> 12:42 PM CT, Oct. 27 </p> 
  [Israel Advances Plan for New Settlements, in First for Bennett Era](https://www.nytimes.com/2021/10/27/world/middleeast/israel-settlements-west-bank.html) NYT: Approved despite the objections of the United States, critics say the new homes will consolidate Israel’s presence in the West Bank and make it harder to create a Palestinian state. 
+ <p class="updated_time"> 12:42 PM CT, Oct. 27 </p> 
+ [China's Hypersonic Missile Test Is Close to 'Sputnik Moment,' U.S. Military Chief Says](https://www.wsj.com/articles/u-s-military-chief-says-chinas-hypersonic-missile-test-is-close-to-sputnik-moment-11635344992) WSJ: Gen. Mark Milley described China’s recent test of a hypersonic missile as “very concerning” and said the Pentagon was focused on the development. 
  <p class="updated_time"> 12:35 PM CT, Oct. 27 </p> 
  [Climate change quiz: How can you cut your carbon emissions?](https://www.bbc.co.uk/news/science-environment-58996348?at_medium=RSS&at_campaign=KARANGA) BBC: How much do you know about the steps you could take to help curb climate change? 
- <p class="updated_time"> 12:11 PM CT, Oct. 27 </p> 
- [China's Hypersonic Missile Test Is Close to 'Sputnik Moment,' U.S. Military Chief Says](https://www.wsj.com/articles/u-s-military-chief-says-chinas-hypersonic-missile-test-is-close-to-sputnik-moment-11635344992) WSJ: Gen. Mark Milley described China’s recent test of a hypersonic missile as “very concerning” and said the Pentagon was focused on the development. 
  <p class="updated_time"> 12:09 PM CT, Oct. 27 </p> 
  [Wonders, and Horrors, Drawn From Boyhood in a War Zone](https://www.nytimes.com/2021/10/27/arts/design/petrit-halilaj-tate-kosovo-war.html) NYT: Petrit Halilaj became one of Kosovo’s most acclaimed artists with work that reflects on his country’s past. Now, he’s getting personal. 
  <p class="updated_time"> 11:45 AM CT, Oct. 27 </p> 
