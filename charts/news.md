@@ -6,6 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 10:38 PM CT, Oct. 26 </p> 
+ [Brazil senators back criminal charges against Bolsonaro over Covid handling](https://www.bbc.co.uk/news/world-latin-america-59051105?at_medium=RSS&at_campaign=KARANGA) BBC: A Brazilian senate inquiry recommends the president face charges for his handling of the pandemic. 
  <p class="updated_time"> 10:12 PM CT, Oct. 26 </p> 
  [Princess Mako's Royal Wedding in Japan Goes Off With Little Fanfare](https://www.nytimes.com/2021/10/25/world/asia/japan-royal-wedding-princess-mako.html) NYT: The torturous path to marriage for Princess Mako of Japan, who gave up her title to marry a commoner, leads to a registry office in Tokyo and most likely a life abroad. 
  <p class="updated_time"> 10:08 PM CT, Oct. 26 </p> 
@@ -26,8 +28,6 @@ permalink: /charts/news/
  [Lebanon: Beirut violence fuels fears of return to civil war](https://www.bbc.co.uk/news/world-middle-east-59035123?at_medium=RSS&at_campaign=KARANGA) BBC: A deadly flare-up shows how Lebanon's festering tensions could spiral into all-out conflict again. 
  <p class="updated_time"> 07:40 PM CT, Oct. 26 </p> 
  [Mort Sahl: Legendary comedian and satirist dies at age 94](https://www.bbc.co.uk/news/world-us-canada-59058489?at_medium=RSS&at_campaign=KARANGA) BBC: His political satire spared no side and revolutionised how stand-up comedy is now performed. 
- <p class="updated_time"> 07:29 PM CT, Oct. 26 </p> 
- [Brazil senators back criminal charges against Bolsonaro over Covid handling](https://www.bbc.co.uk/news/world-latin-america-59051105?at_medium=RSS&at_campaign=KARANGA) BBC: A Brazilian senate inquiry recommends the president face charges for his handling of the pandemic. 
  <p class="updated_time"> 07:00 PM CT, Oct. 26 </p> 
  [2 Days After Cricket Victory Over India, Pakistan Still Feels the High](https://www.nytimes.com/2021/10/26/world/asia/pakistan-cricket-victory-india.html) NYT: The nation is experiencing a much-needed burst of joy after it unexpectedly beat India in a cricket match in Dubai. 
  <p class="updated_time"> 06:41 PM CT, Oct. 26 </p> 
@@ -98,8 +98,6 @@ permalink: /charts/news/
  [Moderna to Sell Up to 110 Million Covid Vaccine Doses to African Countries](https://www.nytimes.com/2021/10/26/world/africa/covid-moderna-african-union.html) NYT: Moderna’s shots have previously gone almost entirely to wealthier countries. 
  <p class="updated_time"> 08:15 AM CT, Oct. 26 </p> 
  [Climate change: UN emissions gap report a 'thundering wake-up call'](https://www.bbc.co.uk/news/science-environment-59049770?at_medium=RSS&at_campaign=KARANGA) BBC: Current carbon-cutting plans from nations would lead the world to climate catastrophe, says the UN. 
- <p class="updated_time"> 08:05 AM CT, Oct. 26 </p> 
- [Joshua Kimmich: German footballer's vaccine hesitancy dismays experts](https://www.bbc.co.uk/news/world-europe-59048800?at_medium=RSS&at_campaign=KARANGA) BBC: Joshua Kimmich denied he was an "anti-vaxxer" after expressing unease about long-term side effects. 
  <p class="updated_time"> 07:47 AM CT, Oct. 26 </p> 
  [Who Is Abdalla Hamdok, Sudan Leader Ousted in Coup](https://www.nytimes.com/2021/10/25/world/africa/abdalla-hamdok-sudan.html) NYT: Sudan’s prime minister spent much of his career at international institutions before joining his country’s government. Now he has been forced out. 
  <p class="updated_time"> 07:41 AM CT, Oct. 26 </p> 
@@ -144,8 +142,6 @@ permalink: /charts/news/
  ['Why I returned to Boko Haram and how I escaped'](https://www.bbc.co.uk/news/world-africa-59002677?at_medium=RSS&at_campaign=KARANGA) BBC: Aisha Yerima, who was kidnapped aged 21, tells of her time living with militants in Nigeria. 
  <p class="updated_time"> 07:12 PM CT, Oct. 25 </p> 
  [Climate change: Four things you can do about your carbon footprint](https://www.bbc.co.uk/news/science-environment-58171814?at_medium=RSS&at_campaign=KARANGA) BBC: Small changes to our lifestyles and choices could limit our personal carbon footprint. 
- <p class="updated_time"> 07:08 PM CT, Oct. 25 </p> 
- [Fleeing Afghanistan: 'Women are imprisoned, while the criminals are free'](https://www.bbc.co.uk/news/world-asia-59009470?at_medium=RSS&at_campaign=KARANGA) BBC: When Afghanistan fell, hundreds of female judges went into hiding. After months living in fear, 26 have escaped. 
  <p class="updated_time"> 07:08 PM CT, Oct. 25 </p> 
  [Eitan Biran Custody Ruling Issued by Israeli Court](https://www.nytimes.com/2021/10/25/world/middleeast/eitan-biran-israel-court.html) NYT: Eitan Biran, the 6-year-old survivor of a cable car accident in Italy, should live there with his aunt, not his grandfather in Israel, ruled a judge in Tel Aviv. 
  <p class="updated_time"> 06:01 PM CT, Oct. 25 </p> 
