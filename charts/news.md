@@ -6,18 +6,24 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 12:52 PM CT, Oct. 27 </p> 
+ [Brazil Lawmakers Seek Indictment of Bolsonaro in Covid Pandemic](https://www.nytimes.com/live/2021/10/26/world/covid-vaccine-boosters/brazil-bolsonaro-criminal-charges) NYT: A report accused President Jair Bolsonaro of causing hundreds of thousands of deaths by discouraging masks, ignoring offers of vaccine and promoting ineffective drugs. 
+ <p class="updated_time"> 12:52 PM CT, Oct. 27 </p> 
+ [Japan’s Communists Are Hardly Radical, but Make a Handy Election Target](https://www.nytimes.com/2021/10/27/world/asia/japan-election-communist-party.html) NYT: They have minimal support in polls. But by teaming up with other opposition parties for the first time, they have been made a boogeyman by the unpopular party in power. 
+ <p class="updated_time"> 12:50 PM CT, Oct. 27 </p> 
+ [Pope Expresses ‘Willingness’ to Visit Canada for Indigenous Reconciliation](https://www.nytimes.com/2021/10/27/world/canada/pope-indigenous-apology.html) NYT: A National Truth and Reconciliation Commission has called for a papal apology for abuses at church-run schools for Indigenous children. 
+ <p class="updated_time"> 12:50 PM CT, Oct. 27 </p> 
+ [Why Scientists Have Spent Years Mapping This Creature’s Brain](https://www.nytimes.com/2021/10/26/science/drosophila-fly-brain-connectome.html) NYT: An enormous new analysis of the wiring of the fruit fly brain is a milestone for the young field of modern connectomics, researchers say. 
+ <p class="updated_time"> 12:42 PM CT, Oct. 27 </p> 
+ [Israel Advances Plan for New Settlements, in First for Bennett Era](https://www.nytimes.com/2021/10/27/world/middleeast/israel-settlements-west-bank.html) NYT: Approved despite the objections of the United States, critics say the new homes will consolidate Israel’s presence in the West Bank and make it harder to create a Palestinian state. 
  <p class="updated_time"> 12:35 PM CT, Oct. 27 </p> 
  [Climate change quiz: How can you cut your carbon emissions?](https://www.bbc.co.uk/news/science-environment-58996348?at_medium=RSS&at_campaign=KARANGA) BBC: How much do you know about the steps you could take to help curb climate change? 
  <p class="updated_time"> 12:34 PM CT, Oct. 27 </p> 
  [Alec Baldwin film tragedy: Actor fired live round, police say](https://www.bbc.co.uk/news/world-us-canada-59068976?at_medium=RSS&at_campaign=KARANGA) BBC: New Mexico authorities say it is too early to determine if arrests will be made or charges laid. 
- <p class="updated_time"> 12:18 PM CT, Oct. 27 </p> 
- [How 4 Weeks of U.S. Paid Leave Would Compare With the Rest of the World](https://www.nytimes.com/2021/10/25/upshot/paid-leave-democrats.html) NYT: The U.S. is one of six countries with no national paid leave. The Democrats have cut their plan to four weeks, which would still make it an outlier. 
  <p class="updated_time"> 12:10 PM CT, Oct. 27 </p> 
  [B.J. Novak’s Face Is on Products Worldwide. He’s Not Sure Why.](https://www.nytimes.com/2021/10/27/business/bj-novak-photo-public-domain-products.html) NYT: Someone put his image into the public domain, and now the actor and writer appears on an eclectic mix of products from China to Uruguay. “I am too amused to do anything about it,” he said on Instagram. 
  <p class="updated_time"> 12:09 PM CT, Oct. 27 </p> 
  [Wonders, and Horrors, Drawn From Boyhood in a War Zone](https://www.nytimes.com/2021/10/27/arts/design/petrit-halilaj-tate-kosovo-war.html) NYT: Petrit Halilaj became one of Kosovo’s most acclaimed artists with work that reflects on his country’s past. Now, he’s getting personal. 
- <p class="updated_time"> 11:57 AM CT, Oct. 27 </p> 
- [Pope Expresses ‘Willingness’ to Visit Canada for Indigenous Reconciliation](https://www.nytimes.com/2021/10/27/world/canada/pope-indigenous-apology.html) NYT: A National Truth and Reconciliation Commission has called for a papal apology for abuses at church-run schools for Indigenous children. 
  <p class="updated_time"> 11:45 AM CT, Oct. 27 </p> 
  [Israel advances plans for 3,000 new homes in West Bank settlements](https://www.bbc.co.uk/news/world-middle-east-59062909?at_medium=RSS&at_campaign=KARANGA) BBC: The move follows a strong public rebuke of Israeli policy from US President Biden's administration. 
  <p class="updated_time"> 11:14 AM CT, Oct. 27 </p> 
@@ -32,6 +38,10 @@ permalink: /charts/news/
  [Footballer Josh Cavallo on coming out as gay: 'It's my freedom day'](https://www.bbc.co.uk/news/world-australia-59068417?at_medium=RSS&at_campaign=KARANGA) BBC: Josh Cavallo has come out as gay - the only current top level male professional footballer to do so. 
  <p class="updated_time"> 10:00 AM CT, Oct. 27 </p> 
  [Merck Will Share Formula for its Covid Pill With Poor Countries](https://www.nytimes.com/2021/10/27/health/covid-pill-access-molnupiravir.html) NYT: The company announced a licensing deal that will allow the drug, molnupiravir, to be made and sold cheaply in 105 developing nations. 
+ <p class="updated_time"> 09:48 AM CT, Oct. 27 </p> 
+ [China’s Weapon Test Close to a ‘Sputnik Moment,’ U.S. General Says](https://www.nytimes.com/2021/10/27/us/politics/china-hypersonic-missile.html) NYT: Gen. Mark A. Milley said the Chinese test of a hypersonic missile “has all of our attention.” 
+ <p class="updated_time"> 09:11 AM CT, Oct. 27 </p> 
+ [At McKinsey, Widespread Furor Over Work With Planet’s Biggest Polluters](https://www.nytimes.com/2021/10/27/business/mckinsey-climate-change.html) NYT: A letter signed by more than 1,100 employees has called for change at the consulting firm, which has advised at least 43 of the 100 most environmentally damaging companies. 
  <p class="updated_time"> 09:00 AM CT, Oct. 27 </p> 
  [Josh Cavallo: 'I'm a footballer and I'm gay,' says Australian player](https://www.bbc.co.uk/news/newsbeat-59060323?at_medium=RSS&at_campaign=KARANGA) BBC: The Adelaide United footballer has become the only current top-flight male professional to do so. 
  <p class="updated_time"> 08:52 AM CT, Oct. 27 </p> 
@@ -72,8 +82,6 @@ permalink: /charts/news/
  [He Won the Nobel. Why Are His Books So Hard to Find?](https://www.nytimes.com/2021/10/27/books/abdulrazak-gurnah-nobel-prize-literature-afterlives.html) NYT: After Abdulrazak Gurnah was awarded this year’s Nobel Prize in Literature, he instantly gained a wider international audience, something publishers are now scrambling to accommodate. 
  <p class="updated_time"> 04:00 AM CT, Oct. 27 </p> 
  [Pastries and Persuasion: How a Global Tax Deal Got Done](https://www.nytimes.com/2021/10/27/us/politics/global-minimum-tax-deal.html) NYT: Over Zoom calls from basements and a breakfast in Brussels, faltering negotiations to remake the world’s tax architecture were revived. 
- <p class="updated_time"> 03:43 AM CT, Oct. 27 </p> 
- [Japan’s Communists Are Hardly Radical, but Make a Handy Election Target](https://www.nytimes.com/2021/10/27/world/asia/japan-election-communist-party.html) NYT: They have minimal support in polls. But by teaming up with other opposition parties for the first time, they have been made a boogeyman by the unpopular party in power. 
  <p class="updated_time"> 03:00 AM CT, Oct. 27 </p> 
  [Japan's Male-Dominated Ruling Party Takes a Chance on a Young Mother](https://www.wsj.com/articles/japans-male-dominated-ruling-party-takes-a-chance-on-a-sneaker-wearing-young-mother-11635336000) WSJ: Maiko Takahashi is one of a rare breed in Japan—a young mother and political newcomer running for the long-ruling LDP. Her race is among the battlegrounds that will decide whether new Prime Minister Fumio Kishida keeps his job. 
  <p class="updated_time"> 12:51 AM CT, Oct. 27 </p> 
@@ -148,14 +156,10 @@ permalink: /charts/news/
  [Sudan coup: Are military takeovers on the rise in Africa?](https://www.bbc.co.uk/news/world-africa-46783600?at_medium=RSS&at_campaign=KARANGA) BBC: Despite a series of coups in Africa recently, the longer-term trend for military takeovers is downwards. 
  <p class="updated_time"> 05:18 AM CT, Oct. 26 </p> 
  [Covid Cases Keep Falling](https://www.nytimes.com/2021/10/26/briefing/covid-cases-falling-delta.html) NYT: Covid cases have been falling in every region of the U.S., offering hope. 
- <p class="updated_time"> 04:43 AM CT, Oct. 26 </p> 
- [Sudan Soldiers Gun Down Protesters, Doctors Group Says](https://www.nytimes.com/2021/10/25/world/africa/sudan-coup-pro-democracy-protesters.html) NYT: Protesters against the military coup took to the streets by the thousands and barricaded roads, and soldiers reportedly shot demonstrators outside army headquarters. 
  <p class="updated_time"> 03:40 AM CT, Oct. 26 </p> 
  [Australia Pledges ‘Net Zero’ Emissions by 2050. Its Plan Makes That Hard to Believe.](https://www.nytimes.com/2021/10/26/world/australia/net-zero-delay.html) NYT: The country’s last-minute commitment before next week’s climate summit is built on hope for new technology, and little else. 
  <p class="updated_time"> 02:22 AM CT, Oct. 26 </p> 
  [An Italian Politician’s Quest for Attention Gets a Boost From Richard Gere](https://www.nytimes.com/2021/10/25/world/europe/richard-gere-matteo-salvini-immigrant-trial.html) NYT: The actor may testify against Matteo Salvini, Italy’s former interior minister, in a case involving the treatment of migrants. 
- <p class="updated_time"> 02:00 AM CT, Oct. 26 </p> 
- [How to Map a Fly Brain in 20 Million Easy Steps](https://www.nytimes.com/2021/10/26/science/drosophila-fly-brain-connectome.html) NYT: An enormous new analysis of the wiring of the fruit fly brain is a milestone for the young field of modern connectomics, scientists say. 
  <p class="updated_time"> 10:42 PM CT, Oct. 25 </p> 
  [German Woman Convicted of a Crime Against Humanity in Death of Yazidi Child](https://www.nytimes.com/2021/10/25/world/europe/germany-isis-yazidi-child.html) NYT: The woman was sentenced to 10 years in prison after a court found that she joined the Islamic State and enslaved a Yazidi mother and child, whom she left to die in the summer heat of Iraq in 2015. 
  <p class="updated_time"> 10:24 PM CT, Oct. 25 </p> 
@@ -176,8 +180,6 @@ permalink: /charts/news/
  [Climate change: Sir David Attenborough in 'act now' warning](https://www.bbc.co.uk/news/science-environment-59039485?at_medium=RSS&at_campaign=KARANGA) BBC: "If we don't act now, it'll be too late," warns Sir David Attenborough ahead of the COP26 climate summit. 
  <p class="updated_time"> 05:37 PM CT, Oct. 25 </p> 
  [Egypt’s Leader Ends State of Emergency, Says It’s No Longer Needed](https://www.nytimes.com/2021/10/25/world/middleeast/egypt-sisi-state-emergency.html) NYT: The move by President Abdel Fattah el-Sisi theoretically rolls back sweeping powers the government wielded in the name of fighting terrorism, but critics called it a cosmetic change. 
- <p class="updated_time"> 03:23 PM CT, Oct. 25 </p> 
- [Hong Kong’s National Security Law Explained](https://www.nytimes.com/article/hong-kong-security-law-speech.html) NYT: An activist, Ma Chun-man, was convicted of inciting secession after, he said, he chanted slogans to test the limits of the law. 
  <p class="updated_time"> 03:16 PM CT, Oct. 25 </p> 
  [Tensions Between Sudan's Military and Civilian Leaders Had Been Growing](https://www.nytimes.com/2021/10/25/world/africa/sudan-military-coup-civilian.html) NYT: Civilians were set to rule the country for the first time in more than three decades. But the military was concerned about losing power. 
  <p class="updated_time"> 01:37 PM CT, Oct. 25 </p> 
@@ -190,8 +192,6 @@ permalink: /charts/news/
  [Behold, the Worm Blob and Its Computerized Twin](https://www.nytimes.com/2021/10/25/science/worm-blobs.html) NYT: It wriggles. It pulls. It falls apart and comes back together. It is everything you wish for and everything you fear. 
  <p class="updated_time"> 05:44 AM CT, Oct. 25 </p> 
  [Picking Their Fights](https://www.nytimes.com/2021/10/25/briefing/biden-congress-democrats-spending-bill.html) NYT: Creating temporary government programs could have big political benefits for Democrats. 
- <p class="updated_time"> 04:00 AM CT, Oct. 25 </p> 
- [Inside the Thai Temple Where Tattoos Come to Life](https://www.nytimes.com/2021/10/25/travel/sak-yant-tattoo-thailand.html) NYT: Wat Bang Phra, a temple in central Thailand, is renowned as a center for sak yant, a style of tattoo art believed by some to convey protective powers. 
  <p class="updated_time"> 07:00 PM CT, Oct. 24 </p> 
  [Climate change: The environmental disasters we've almost fixed](https://www.bbc.co.uk/news/science-environment-58874831?at_medium=RSS&at_campaign=KARANGA) BBC: From acid rain to the ozone hole: Can we learn from the environmental "success stories" of the past? 
 
