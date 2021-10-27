@@ -6,7 +6,7 @@ permalink: /charts/news/
 
 ## World News
 
- <p class="updated_time"> 07:32 AM CT, Oct. 27 </p> 
+ <p class="updated_time"> 07:51 AM CT, Oct. 27 </p> 
  [US begins legal appeal to get Julian Assange extradited](https://www.bbc.co.uk/news/uk-59063976?at_medium=RSS&at_campaign=KARANGA) BBC: Lawyers for the US say a judge who blocked Julian Assange's extradition was misled by a psychiatrist. 
  <p class="updated_time"> 07:24 AM CT, Oct. 27 </p> 
  [As Gangs’ Power Grows, Haiti’s Police Are Outgunned and Underpaid](https://www.nytimes.com/2021/10/26/world/americas/haiti-police-gangs.html) NYT: The police force, dependent on an increasingly depleted state, is finding itself underfunded, underequipped and severely underpaid, even as it faces stronger opponents. 
