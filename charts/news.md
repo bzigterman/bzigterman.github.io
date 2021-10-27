@@ -6,6 +6,12 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 08:27 AM CT, Oct. 27 </p> 
+ [Australia to Ease Overseas Travel Rules for Vaccinated Residents](https://www.nytimes.com/2021/10/27/world/australia/australia-travel-abroad-vaccination.html) NYT: The eased restrictions will be the first stage in the country’s plan to reopen its borders since slamming them shut in 2020, separating families and leaving thousands stranded overseas. 
+ <p class="updated_time"> 08:19 AM CT, Oct. 27 </p> 
+ [Poland told to pay €1m a day in legal row with EU](https://www.bbc.co.uk/news/world-europe-59064883?at_medium=RSS&at_campaign=KARANGA) BBC: The ruling is the latest step in an escalating dispute over Poland's legal reforms. 
+ <p class="updated_time"> 08:11 AM CT, Oct. 27 </p> 
+ [Charlottesville: Why are the ‘Unite the Right’ organisers on trial?](https://www.bbc.co.uk/news/world-us-canada-59054166?at_medium=RSS&at_campaign=KARANGA) BBC: Nine people injured at the 2017 far-right 'Unite the Right' rally in Virginia are suing organisers. 
  <p class="updated_time"> 07:51 AM CT, Oct. 27 </p> 
  [US begins legal appeal to get Julian Assange extradited](https://www.bbc.co.uk/news/uk-59063976?at_medium=RSS&at_campaign=KARANGA) BBC: Lawyers for the US say a judge who blocked Julian Assange's extradition was misled by a psychiatrist. 
  <p class="updated_time"> 07:24 AM CT, Oct. 27 </p> 
@@ -28,8 +34,8 @@ permalink: /charts/news/
  [Spain grants joint custody of dog in rare ruling](https://www.bbc.co.uk/news/world-europe-59062132?at_medium=RSS&at_campaign=KARANGA) BBC: A lawyer calls the ruling pioneering as her client could declare herself as a "co-carer". 
  <p class="updated_time"> 04:50 AM CT, Oct. 27 </p> 
  [Josh Cavallo: 'I'm a footballer and I'm gay,' says Australian player](https://www.bbc.co.uk/news/newsbeat-59060323?at_medium=RSS&at_campaign=KARANGA) BBC: The Adelaide United footballer has become the only current top-flight male professional to do so. 
- <p class="updated_time"> 04:03 AM CT, Oct. 27 </p> 
- [Australians will soon be allowed to freely travel abroad if they are fully vaccinated.](https://www.nytimes.com/2021/10/27/world/australia/australia-travel-abroad-vaccination.html) NYT: The eased restrictions will be the first stage in the country’s plan to reopen its borders since slamming them shut in 2020, separating families and leaving thousands stranded overseas. 
+ <p class="updated_time"> 04:08 AM CT, Oct. 27 </p> 
+ [Pope Francis to Visit Canada, Seeking Reconciliation With Indigenous Communities](https://www.wsj.com/articles/pope-francis-to-visit-canada-seeking-reconciliation-with-indigenous-communities-11635340084) WSJ: The plan follows scandals over the abuse of generations of indigenous children at church-run residential schools. 
  <p class="updated_time"> 04:00 AM CT, Oct. 27 </p> 
  [He Won the Nobel. Why Are His Books So Hard to Find?](https://www.nytimes.com/2021/10/27/books/abdulrazak-gurnah-nobel-prize-literature-afterlives.html) NYT: After Abdulrazak Gurnah was awarded this year’s Nobel Prize in Literature, he instantly gained a wider international audience, something publishers are now scrambling to accommodate. 
  <p class="updated_time"> 04:00 AM CT, Oct. 27 </p> 
@@ -38,14 +44,14 @@ permalink: /charts/news/
  [Japan’s Communists Are Hardly Radical, but Make a Handy Election Target](https://www.nytimes.com/2021/10/27/world/asia/japan-election-communist-party.html) NYT: They have minimal support in polls. But by teaming up with other opposition parties for the first time, they have been made a boogeyman by the unpopular party in power. 
  <p class="updated_time"> 03:15 AM CT, Oct. 27 </p> 
  [Brazil senators back criminal charges against Bolsonaro over Covid handling](https://www.bbc.co.uk/news/world-latin-america-59051105?at_medium=RSS&at_campaign=KARANGA) BBC: Senators in Brazil vote to recommend charging the president over his handling of the pandemic. 
+ <p class="updated_time"> 03:00 AM CT, Oct. 27 </p> 
+ [Japan's Male-Dominated Ruling Party Takes a Chance on a Young Mother](https://www.wsj.com/articles/japans-male-dominated-ruling-party-takes-a-chance-on-a-sneaker-wearing-young-mother-11635336000) WSJ: Maiko Takahashi is one of a rare breed in Japan—a young mother and political newcomer running for the long-ruling LDP. Her race is among the battlegrounds that will decide whether new Prime Minister Fumio Kishida keeps his job. 
  <p class="updated_time"> 01:50 AM CT, Oct. 27 </p> 
  [Mort Sahl: Legendary comedian and satirist dies at age 94](https://www.bbc.co.uk/news/world-us-canada-59058489?at_medium=RSS&at_campaign=KARANGA) BBC: His political satire spared no side and revolutionised how stand-up comedy is now performed. 
  <p class="updated_time"> 12:51 AM CT, Oct. 27 </p> 
  [Your Wednesday Briefing](https://www.nytimes.com/2021/10/26/briefing/climate-glasgow-un-myanmar-pakistan-cricket.html) NYT: ‘Imminent peril’ from global warming. 
  <p class="updated_time"> 12:30 AM CT, Oct. 27 </p> 
  [Europe's Push to Loosen Russia's Hold on Gas Prices Bites Back](https://www.wsj.com/articles/europes-push-to-loosen-russian-influence-on-gas-prices-bites-back-11635327001) WSJ: A move to ditch oil-linked gas contracts paid off when gas was in ample supply but will cost EU members an estimated $30 billion this year. 
- <p class="updated_time"> 12:30 AM CT, Oct. 27 </p> 
- [Pope to Meet Biden Amid Tensions With U.S. Bishops](https://www.wsj.com/articles/pope-francis-and-president-biden-to-meet-as-both-face-abortion-tensions-with-u-s-bishops-11635327000) WSJ: As Joe Biden makes his first visit to the Vatican as president, U.S. clerics prepare to debate whether he and other Catholic politicians who support abortion rights should be granted Communion. 
  <p class="updated_time"> 12:30 AM CT, Oct. 27 </p> 
  [U.S. Takes Bitcoin Mining Crown After China Crackdown](https://www.wsj.com/articles/u-s-takes-bitcoin-mining-crown-after-china-crackdown-11635327002) WSJ: More than a third of the global computing power dedicated to mining bitcoin is now drawn from machines in the U.S., up from less than a fifth last spring. 
  <p class="updated_time"> 11:04 PM CT, Oct. 26 </p> 
@@ -106,10 +112,6 @@ permalink: /charts/news/
  [3 Children and 1 Woman Drowned While Migrating Across the Aegean Sea](https://www.nytimes.com/2021/10/26/world/europe/children-die-greece-migrant-crossing.html) NYT: Migrant crossings are down and so are deaths at sea, but Tuesday’s incident was a reminder that dangers remain. 
  <p class="updated_time"> 12:49 PM CT, Oct. 26 </p> 
  [Terror Groups in Afghanistan Could Be Ready to Attack West in 6 Months](https://www.wsj.com/articles/terror-groups-in-afghanistan-could-be-ready-to-attack-west-in-6-months-u-s-says-11635284966) WSJ: A top Pentagon official tells senators that Islamic State wants to launch attacks, and that it isn’t clear if the Taliban can counter the threat. 
- <p class="updated_time"> 12:01 PM CT, Oct. 26 </p> 
- [Charlottesville: Why are the ‘Unite the Right’ organisers on trial?](https://www.bbc.co.uk/news/world-us-canada-59054166?at_medium=RSS&at_campaign=KARANGA) BBC: Nine people injured at the 2017 far-right 'Unite the Right' rally in Virginia are suing organisers. 
- <p class="updated_time"> 11:49 AM CT, Oct. 26 </p> 
- [World's Climate Plans Fall Short of Paris Accord, U.N. Says](https://www.wsj.com/articles/u-n-finds-nations-climate-plans-fall-short-of-paris-accord-11635259447) WSJ: The world’s emissions reductions plans would allow far more global warming than targeted in the Paris climate accord, and some of the biggest emitters, including the U.S., aren’t on track to hit their targets, according to a United Nations report. 
  <p class="updated_time"> 11:32 AM CT, Oct. 26 </p> 
  [Self Esteem, a Pop Singer Who Wants Britain to ‘Prioritise Pleasure’](https://www.nytimes.com/2021/10/26/arts/music/self-esteem-prioritise-pleasure.html) NYT: Rebecca Lucy Taylor is touching a nerve with brutally honest songs about not having it all figured out. 
  <p class="updated_time"> 11:22 AM CT, Oct. 26 </p> 
@@ -118,10 +120,6 @@ permalink: /charts/news/
  [After a Year of ‘Rampant’ Cheating, Elite Bridge Tries to Clean Up](https://www.nytimes.com/2021/10/26/arts/contract-bridge-cheating.html) NYT: As the pandemic forced most players online, the problem of cheating consumed the game’s highest levels. Top players say a tight-lipped culture is finally changing. 
  <p class="updated_time"> 10:20 AM CT, Oct. 26 </p> 
  [Manchester Arena bombing: Exclusive images of extradition of Hashem Abedi](https://www.bbc.co.uk/news/uk-59054530?at_medium=RSS&at_campaign=KARANGA) BBC: Watch as Hashem Abedi, the brother of the Manchester Arena bomber, is sent to Britain for trial. 
- <p class="updated_time"> 10:00 AM CT, Oct. 26 </p> 
- [Queen Elizabeth Cancels COP26 Trip After Advice to Rest](https://www.wsj.com/articles/queen-elizabeth-cancels-cop26-visit-after-advice-to-rest-11635274810) WSJ: Doctors urge the monarch not to travel to Scotland for the climate conference following her brief hospitalization last week and the cancellation of a trip to Northern Ireland. 
- <p class="updated_time"> 09:30 AM CT, Oct. 26 </p> 
- [Sudan Military Coup Leaves No Clear Path Out of Political, Economic Crises](https://www.wsj.com/articles/sudan-military-coup-leaves-no-clear-path-out-of-nations-political-economic-crises-11635272325) WSJ: Pro-democracy protesters vowed continued resistance to military takeover of transitional government that followed Bashir dictatorship. 
  <p class="updated_time"> 09:22 AM CT, Oct. 26 </p> 
  [Iran Wanted U.S. Out of Afghanistan. It May Be Sorry the Wish Came True.](https://www.nytimes.com/2021/10/26/world/middleeast/iran-taliban-afghanistan.html) NYT: Iran is glad the Americans are gone, but the Taliban takeover of Afghanistan creates a host of problems for Tehran, with no easy solutions. 
  <p class="updated_time"> 09:00 AM CT, Oct. 26 </p> 
@@ -142,6 +140,8 @@ permalink: /charts/news/
  [Sudan Soldiers Gun Down Protesters, Doctors Group Says](https://www.nytimes.com/2021/10/25/world/africa/sudan-coup-pro-democracy-protesters.html) NYT: Protesters against the military coup took to the streets by the thousands and barricaded roads, and soldiers reportedly shot demonstrators outside army headquarters. 
  <p class="updated_time"> 03:40 AM CT, Oct. 26 </p> 
  [Australia Pledges ‘Net Zero’ Emissions by 2050. Its Plan Makes That Hard to Believe.](https://www.nytimes.com/2021/10/26/world/australia/net-zero-delay.html) NYT: The country’s last-minute commitment before next week’s climate summit is built on hope for new technology, and little else. 
+ <p class="updated_time"> 02:46 AM CT, Oct. 26 </p> 
+ [Taiwan Gains Favor in Europe's East, Angering China](https://www.wsj.com/articles/taiwan-gains-favor-in-europes-east-angering-china-11635248811) WSJ: The intensifying links mirror tensions between the West and China over trade, military and human-rights issues. They also highlight differences within the West in how to approach an increasingly assertive China. 
  <p class="updated_time"> 02:22 AM CT, Oct. 26 </p> 
  [An Italian Politician’s Quest for Attention Gets a Boost From Richard Gere](https://www.nytimes.com/2021/10/25/world/europe/richard-gere-matteo-salvini-immigrant-trial.html) NYT: The actor may testify against Matteo Salvini, Italy’s former interior minister, in a case involving the treatment of migrants. 
  <p class="updated_time"> 02:00 AM CT, Oct. 26 </p> 
