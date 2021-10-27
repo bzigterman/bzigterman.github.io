@@ -6,14 +6,18 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 01:19 PM CT, Oct. 27 </p> 
+ [Sudan coup: World Bank suspends aid after military takeover](https://www.bbc.co.uk/news/world-africa-59066654?at_medium=RSS&at_campaign=KARANGA) BBC: Pressure mounts on the military to restore civilian rule as international bodies respond. 
+ <p class="updated_time"> 01:14 PM CT, Oct. 27 </p> 
+ [Pope Expresses ‘Willingness’ to Visit Canada for Indigenous Reconciliation](https://www.nytimes.com/2021/10/27/world/canada/pope-indigenous-apology.html) NYT: A National Truth and Reconciliation Commission has called for a papal apology for abuses at church-run schools for Indigenous children. 
+ <p class="updated_time"> 01:14 PM CT, Oct. 27 </p> 
+ [Brazil Lawmakers Seek Indictment of Bolsonaro in Covid Pandemic](https://www.nytimes.com/live/2021/10/26/world/covid-vaccine-boosters/brazil-bolsonaro-criminal-charges) NYT: A report accused President Jair Bolsonaro of causing hundreds of thousands of deaths by discouraging masks, ignoring offers of vaccine and promoting ineffective drugs. 
+ <p class="updated_time"> 01:08 PM CT, Oct. 27 </p> 
+ [Benin Bronzes: 'My great-grandfather sculpted the looted treasures'](https://www.bbc.co.uk/news/world-africa-59065274?at_medium=RSS&at_campaign=KARANGA) BBC: Nigerians welcome the return of artefacts - including Cambridge University's cockerel - looted in 1897. 
  <p class="updated_time"> 12:57 PM CT, Oct. 27 </p> 
  [A Hot, Dusty Town in the Middle of Nowhere? We’ll Take It.](https://www.nytimes.com/2021/10/27/world/australia/free-land.html) NYT: A tiny town in Australia’s outback where the temperature can hit 113 degrees Fahrenheit drew global inquiries when it offered “free” land in a bid to expand its population. 
- <p class="updated_time"> 12:56 PM CT, Oct. 27 </p> 
- [Pope Expresses ‘Willingness’ to Visit Canada for Indigenous Reconciliation](https://www.nytimes.com/2021/10/27/world/canada/pope-indigenous-apology.html) NYT: A National Truth and Reconciliation Commission has called for a papal apology for abuses at church-run schools for Indigenous children. 
  <p class="updated_time"> 12:54 PM CT, Oct. 27 </p> 
  [Viktor Bryukhanov, Blamed for the Chernobyl Disaster, Dies at 85](https://www.nytimes.com/2021/10/27/world/europe/viktor-bryukhanov-dead.html) NYT: In charge of the plant in Ukraine, he was held responsible for the world’s worst nuclear-power disaster and imprisoned. 
- <p class="updated_time"> 12:52 PM CT, Oct. 27 </p> 
- [Brazil Lawmakers Seek Indictment of Bolsonaro in Covid Pandemic](https://www.nytimes.com/live/2021/10/26/world/covid-vaccine-boosters/brazil-bolsonaro-criminal-charges) NYT: A report accused President Jair Bolsonaro of causing hundreds of thousands of deaths by discouraging masks, ignoring offers of vaccine and promoting ineffective drugs. 
  <p class="updated_time"> 12:52 PM CT, Oct. 27 </p> 
  [Japan’s Communists Are Hardly Radical, but Make a Handy Election Target](https://www.nytimes.com/2021/10/27/world/asia/japan-election-communist-party.html) NYT: They have minimal support in polls. But by teaming up with other opposition parties for the first time, they have been made a boogeyman by the unpopular party in power. 
  <p class="updated_time"> 12:50 PM CT, Oct. 27 </p> 
@@ -34,8 +38,6 @@ permalink: /charts/news/
  [U.N. Group Blames Unequal Vaccine Access for Bigger Global Economic Gap](https://www.nytimes.com/2021/10/27/world/united-nations-coronavirus.html) NYT: Wealthier countries with high vaccination rates have had speedier economic recoveries than poorer countries with low vaccination rates, the International Labor Organization said. 
  <p class="updated_time"> 10:59 AM CT, Oct. 27 </p> 
  [Taliban Allow Girls to Return to Some High Schools, but With Big Caveats](https://www.nytimes.com/2021/10/27/world/asia/afghan-girls-school-taliban.html) NYT: In some provinces, teenage girls have been allowed to return to secondary schools, though some teachers and parents still have doubts about what this means about Taliban rule. 
- <p class="updated_time"> 10:28 AM CT, Oct. 27 </p> 
- [Sudan coup: World Bank suspends aid after military takeover](https://www.bbc.co.uk/news/world-africa-59066654?at_medium=RSS&at_campaign=KARANGA) BBC: Pressure mounts on the military to restore civilian rule as international bodies respond. 
  <p class="updated_time"> 10:26 AM CT, Oct. 27 </p> 
  [Brazil senators back criminal charges against Bolsonaro over Covid handling](https://www.bbc.co.uk/news/world-latin-america-59051105?at_medium=RSS&at_campaign=KARANGA) BBC: Senators in Brazil vote to recommend charging the president over his handling of the pandemic. 
  <p class="updated_time"> 10:22 AM CT, Oct. 27 </p> 
@@ -156,8 +158,6 @@ permalink: /charts/news/
  [A Jewish Far-Right Pundit Splits the French Jewish Community as He Rises](https://www.nytimes.com/2021/10/25/world/europe/eric-zemmour-france-jewish-bernard-henri-levy.html) NYT: Éric Zemmour, eyeing the presidency, tries to rehabilitate the wartime Vichy regime that collaborated with the Nazis as part of a campaign filled with provocations. 
  <p class="updated_time"> 07:40 AM CT, Oct. 26 </p> 
  [U.S. Halts Aid to Sudan Government After Coup](https://www.nytimes.com/2021/10/25/world/africa/us-aid-frozen-sudan.html) NYT: The Biden administration, calling for immediate restoration of the transition government, froze $700 million in direct aid. 
- <p class="updated_time"> 05:24 AM CT, Oct. 26 </p> 
- [Sudan coup: Are military takeovers on the rise in Africa?](https://www.bbc.co.uk/news/world-africa-46783600?at_medium=RSS&at_campaign=KARANGA) BBC: Despite a series of coups in Africa recently, the longer-term trend for military takeovers is downwards. 
  <p class="updated_time"> 05:18 AM CT, Oct. 26 </p> 
  [Covid Cases Keep Falling](https://www.nytimes.com/2021/10/26/briefing/covid-cases-falling-delta.html) NYT: Covid cases have been falling in every region of the U.S., offering hope. 
  <p class="updated_time"> 03:40 AM CT, Oct. 26 </p> 
@@ -174,8 +174,6 @@ permalink: /charts/news/
  [Your Tuesday Briefing](https://www.nytimes.com/2021/10/25/briefing/sudan-coup-facebook-crisis.html) NYT: The military seizes power in Sudan. 
  <p class="updated_time"> 07:55 PM CT, Oct. 25 </p> 
  [Your Tuesday Briefing](https://www.nytimes.com/2021/10/25/briefing/sudan-coup-moderna-kids-hong-kong.html) NYT: Sudan’s military seizes power. 
- <p class="updated_time"> 07:20 PM CT, Oct. 25 </p> 
- ['Why I returned to Boko Haram and how I escaped'](https://www.bbc.co.uk/news/world-africa-59002677?at_medium=RSS&at_campaign=KARANGA) BBC: Aisha Yerima, who was kidnapped aged 21, tells of her time living with militants in Nigeria. 
  <p class="updated_time"> 07:12 PM CT, Oct. 25 </p> 
  [Climate change: Four things you can do about your carbon footprint](https://www.bbc.co.uk/news/science-environment-58171814?at_medium=RSS&at_campaign=KARANGA) BBC: Small changes to our lifestyles and choices could limit our personal carbon footprint. 
  <p class="updated_time"> 07:08 PM CT, Oct. 25 </p> 
