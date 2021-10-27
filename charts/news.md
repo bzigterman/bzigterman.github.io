@@ -6,6 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 06:54 AM CT, Oct. 27 </p> 
+ [US begins legal appeal to get Julian Assange extradited](https://www.bbc.co.uk/news/uk-59063976?at_medium=RSS&at_campaign=KARANGA) BBC: Lawyers for the US say a judge who blocked Julian Assange's extradition was misled by a psychiatrist. 
  <p class="updated_time"> 06:45 AM CT, Oct. 27 </p> 
  [Merck Will Share Formula for its Covid Pill With Poor Countries](https://www.nytimes.com/2021/10/27/health/covid-pill-access-molnupiravir.html) NYT: The company announced a licensing deal that will allow the drug, molnupiravir, to be made and sold cheaply in 105 developing nations. 
  <p class="updated_time"> 06:38 AM CT, Oct. 27 </p> 
