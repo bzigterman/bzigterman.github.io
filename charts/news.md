@@ -6,8 +6,12 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 10:37 AM CT, Oct. 27 </p> 
+ [Wikileaks: US begins legal appeal to extradite Assange](https://www.bbc.co.uk/news/uk-59063976?at_medium=RSS&at_campaign=KARANGA) BBC: Lawyers for the US say a judge who blocked Julian Assange's extradition was misled by a psychiatrist. 
  <p class="updated_time"> 10:26 AM CT, Oct. 27 </p> 
  [Brazil senators back criminal charges against Bolsonaro over Covid handling](https://www.bbc.co.uk/news/world-latin-america-59051105?at_medium=RSS&at_campaign=KARANGA) BBC: Senators in Brazil vote to recommend charging the president over his handling of the pandemic. 
+ <p class="updated_time"> 10:22 AM CT, Oct. 27 </p> 
+ [Josh Cavallo: 'It's my freedom day and I’ve never been so happy'](https://www.bbc.co.uk/news/world-australia-59068417?at_medium=RSS&at_campaign=KARANGA) BBC: Josh Cavallo has come out as gay – the only current top level male professional footballer to do so. 
  <p class="updated_time"> 10:00 AM CT, Oct. 27 </p> 
  [Merck Will Share Formula for its Covid Pill With Poor Countries](https://www.nytimes.com/2021/10/27/health/covid-pill-access-molnupiravir.html) NYT: The company announced a licensing deal that will allow the drug, molnupiravir, to be made and sold cheaply in 105 developing nations. 
  <p class="updated_time"> 09:41 AM CT, Oct. 27 </p> 
@@ -16,8 +20,6 @@ permalink: /charts/news/
  [Josh Cavallo: 'I'm a footballer and I'm gay,' says Australian player](https://www.bbc.co.uk/news/newsbeat-59060323?at_medium=RSS&at_campaign=KARANGA) BBC: The Adelaide United footballer has become the only current top-flight male professional to do so. 
  <p class="updated_time"> 08:45 AM CT, Oct. 27 </p> 
  [Iran blames foreign country for cyberattack on petrol stations](https://www.bbc.co.uk/news/world-middle-east-59062907?at_medium=RSS&at_campaign=KARANGA) BBC: Tuesday's attack crippled a system that lets motorists buy subsidised petrol, causing long queues. 
- <p class="updated_time"> 08:40 AM CT, Oct. 27 </p> 
- [US begins legal appeal to get Julian Assange extradited](https://www.bbc.co.uk/news/uk-59063976?at_medium=RSS&at_campaign=KARANGA) BBC: Lawyers for the US say a judge who blocked Julian Assange's extradition was misled by a psychiatrist. 
  <p class="updated_time"> 08:27 AM CT, Oct. 27 </p> 
  [Australia to Ease Overseas Travel Rules for Vaccinated Residents](https://www.nytimes.com/2021/10/27/world/australia/australia-travel-abroad-vaccination.html) NYT: The eased restrictions will be the first stage in the country’s plan to reopen its borders since slamming them shut in 2020, separating families and leaving thousands stranded overseas. 
  <p class="updated_time"> 08:19 AM CT, Oct. 27 </p> 
@@ -70,8 +72,6 @@ permalink: /charts/news/
  [Trial in Holocaust Survivor's Killing Begins in France](https://www.nytimes.com/2021/10/26/world/europe/france-murder-trial-holocaust-survivor-mireille-knoll.html) NYT: Mireille Knoll, 85, was killed in 2018 in what prosecutors and the authorities called a hate crime. Decades earlier, she had escaped a notorious roundup of Jews. 
  <p class="updated_time"> 09:28 PM CT, Oct. 26 </p> 
  [Huma Abedin: Clinton aide details sex assault by US senator](https://www.bbc.co.uk/news/world-us-canada-59059289?at_medium=RSS&at_campaign=KARANGA) BBC: In a new book, Huma Abedin says she was assaulted after a senator invited her into his home. 
- <p class="updated_time"> 09:19 PM CT, Oct. 26 </p> 
- [Covid: Australia to end ban on citizens leaving country](https://www.bbc.co.uk/news/world-australia-59058945?at_medium=RSS&at_campaign=KARANGA) BBC: For the first time in 19 months, Australians will not need an exemption to travel overseas. 
  <p class="updated_time"> 08:55 PM CT, Oct. 26 </p> 
  [Moldova: Russia threatens gas supply in Europe's poorest state](https://www.bbc.co.uk/news/world-europe-59048894?at_medium=RSS&at_campaign=KARANGA) BBC: Moldova has made history by buying gas from somewhere other than Russia. How will the Kremlin react? 
  <p class="updated_time"> 08:21 PM CT, Oct. 26 </p> 
@@ -100,16 +100,12 @@ permalink: /charts/news/
  [Why Poland Would Rather Keep E.U. Money Than Break With Bloc](https://www.nytimes.com/2021/10/26/world/europe/poland-eu-aid.html) NYT: Despite the flame-throwing rhetoric of their leaders, conservative supporters of Poland’s ruling party are dependent on millions of euros in aid, and don’t want to risk it. 
  <p class="updated_time"> 04:55 PM CT, Oct. 26 </p> 
  [Iranian Motorists Hit With Cyberattack at Filling Stations](https://www.nytimes.com/2021/10/26/world/middleeast/iran-gas-station-hack.html) NYT: Iranian news agencies reported that a cyberattack of unidentified origin had sabotaged a payment system. 
- <p class="updated_time"> 04:21 PM CT, Oct. 26 </p> 
- [Covid: FDA officials back Pfizer jab for children over five in US](https://www.bbc.co.uk/news/world-us-canada-59048318?at_medium=RSS&at_campaign=KARANGA) BBC: Health experts say the benefits outweigh the risks and recommend the FDA authorise the vaccine. 
  <p class="updated_time"> 04:15 PM CT, Oct. 26 </p> 
  [Traveling Through a Divided Israel](https://www.nytimes.com/2021/10/25/world/middleeast/israel-jews-palestinians-journey.html) NYT: Two Times journalists drive the length of Israel to discover what it means to be Israeli today. They meet a kaleidoscope of people, searching for belonging but far apart on how to find it. 
  <p class="updated_time"> 03:00 PM CT, Oct. 26 </p> 
  [Queen Elizabeth Will Skip Climate Summit in Glasgow](https://www.nytimes.com/2021/10/26/world/europe/queen-elizabeth-cop26-summit.html) NYT: The 95-year-old queen, after 70 years on the throne, is the oldest and longest-serving monarch in British history. 
  <p class="updated_time"> 02:54 PM CT, Oct. 26 </p> 
  [New Zealand Expands Vaccine Mandate to Cover 40 Percent of Workers](https://www.nytimes.com/2021/10/26/world/asia/covid-new-zealand-vaccine-mandate.html) NYT: The rule will cover employees at restaurants, gyms, bars and hair salons. 
- <p class="updated_time"> 02:29 PM CT, Oct. 26 </p> 
- [Sudan army seized power to prevent civil war - coup leader](https://www.bbc.co.uk/news/world-africa-59052260?at_medium=RSS&at_campaign=KARANGA) BBC: Gen Burhan also said he had taken the deposed prime minister to his house "for his own safety." 
  <p class="updated_time"> 02:18 PM CT, Oct. 26 </p> 
  [She Climbed Yosemite's El Capitan to Celebrate Turning 70](https://www.nytimes.com/2021/10/26/sports/alex-honnold-mother-el-capitan.html) NYT: Dierdre Wolownick, whose son, Alex Honnold, is one of the world’s top rock climbers, ascended Yosemite’s El Capitan to celebrate her 70th birthday. 
  <p class="updated_time"> 01:24 PM CT, Oct. 26 </p> 
@@ -122,8 +118,6 @@ permalink: /charts/news/
  [Aung San Suu Kyi to Defend Herself in Myanmar 'Show Trial'](https://www.nytimes.com/2021/10/26/world/asia/myanmar-coup-trial-aung-san-suu-kyi.html) NYT: The United Nations has described the charges against the former leader as politically motivated. If convicted, she could face a maximum of 102 years in prison. 
  <p class="updated_time"> 11:20 AM CT, Oct. 26 </p> 
  [After a Year of ‘Rampant’ Cheating, Elite Bridge Tries to Clean Up](https://www.nytimes.com/2021/10/26/arts/contract-bridge-cheating.html) NYT: As the pandemic forced most players online, the problem of cheating consumed the game’s highest levels. Top players say a tight-lipped culture is finally changing. 
- <p class="updated_time"> 10:20 AM CT, Oct. 26 </p> 
- [Manchester Arena bombing: Exclusive images of extradition of Hashem Abedi](https://www.bbc.co.uk/news/uk-59054530?at_medium=RSS&at_campaign=KARANGA) BBC: Watch as Hashem Abedi, the brother of the Manchester Arena bomber, is sent to Britain for trial. 
  <p class="updated_time"> 09:22 AM CT, Oct. 26 </p> 
  [Iran Wanted U.S. Out of Afghanistan. It May Be Sorry the Wish Came True.](https://www.nytimes.com/2021/10/26/world/middleeast/iran-taliban-afghanistan.html) NYT: Iran is glad the Americans are gone, but the Taliban takeover of Afghanistan creates a host of problems for Tehran, with no easy solutions. 
  <p class="updated_time"> 09:00 AM CT, Oct. 26 </p> 
