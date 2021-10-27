@@ -6,6 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 04:15 AM CT, Oct. 27 </p> 
+ [Josh Cavallo: 'I'm a footballer and I'm gay,' says Australian player](https://www.bbc.co.uk/news/newsbeat-59060323?at_medium=RSS&at_campaign=KARANGA) BBC: The Adelaide United player has become the only current male professional footballer to do so. 
  <p class="updated_time"> 04:03 AM CT, Oct. 27 </p> 
  [Australians will soon be allowed to freely travel abroad if they are fully vaccinated.](https://www.nytimes.com/2021/10/27/world/australia/australia-travel-abroad-vaccination.html) NYT: The eased restrictions will be the first stage in the country’s plan to reopen its borders since slamming them shut in 2020, separating families and leaving thousands stranded overseas. 
  <p class="updated_time"> 04:00 AM CT, Oct. 27 </p> 
@@ -18,8 +20,6 @@ permalink: /charts/news/
  [Japan’s Communists Are Hardly Radical, but Make a Handy Election Target](https://www.nytimes.com/2021/10/27/world/asia/japan-election-communist-party.html) NYT: They have minimal support in polls. But by teaming up with other opposition parties for the first time, they have been made a boogeyman by the unpopular party in power. 
  <p class="updated_time"> 03:15 AM CT, Oct. 27 </p> 
  [Brazil senators back criminal charges against Bolsonaro over Covid handling](https://www.bbc.co.uk/news/world-latin-america-59051105?at_medium=RSS&at_campaign=KARANGA) BBC: Senators in Brazil vote to recommend charging the president over his handling of the pandemic. 
- <p class="updated_time"> 02:39 AM CT, Oct. 27 </p> 
- [Josh Cavallo: 'I'm a footballer and I'm gay,' says Australian player](https://www.bbc.co.uk/news/newsbeat-59060323?at_medium=RSS&at_campaign=KARANGA) BBC: The Adelaide United player has become the only current male professional footballer to do so. 
  <p class="updated_time"> 01:50 AM CT, Oct. 27 </p> 
  [Mort Sahl: Legendary comedian and satirist dies at age 94](https://www.bbc.co.uk/news/world-us-canada-59058489?at_medium=RSS&at_campaign=KARANGA) BBC: His political satire spared no side and revolutionised how stand-up comedy is now performed. 
  <p class="updated_time"> 12:51 AM CT, Oct. 27 </p> 
