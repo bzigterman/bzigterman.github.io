@@ -6,12 +6,16 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 12:57 PM CT, Oct. 27 </p> 
+ [A Hot, Dusty Town in the Middle of Nowhere? We’ll Take It.](https://www.nytimes.com/2021/10/27/world/australia/free-land.html) NYT: A tiny town in Australia’s outback where the temperature can hit 113 degrees Fahrenheit drew global inquiries when it offered “free” land in a bid to expand its population. 
+ <p class="updated_time"> 12:56 PM CT, Oct. 27 </p> 
+ [Pope Expresses ‘Willingness’ to Visit Canada for Indigenous Reconciliation](https://www.nytimes.com/2021/10/27/world/canada/pope-indigenous-apology.html) NYT: A National Truth and Reconciliation Commission has called for a papal apology for abuses at church-run schools for Indigenous children. 
+ <p class="updated_time"> 12:54 PM CT, Oct. 27 </p> 
+ [Viktor Bryukhanov, Blamed for the Chernobyl Disaster, Dies at 85](https://www.nytimes.com/2021/10/27/world/europe/viktor-bryukhanov-dead.html) NYT: In charge of the plant in Ukraine, he was held responsible for the world’s worst nuclear-power disaster and imprisoned. 
  <p class="updated_time"> 12:52 PM CT, Oct. 27 </p> 
  [Brazil Lawmakers Seek Indictment of Bolsonaro in Covid Pandemic](https://www.nytimes.com/live/2021/10/26/world/covid-vaccine-boosters/brazil-bolsonaro-criminal-charges) NYT: A report accused President Jair Bolsonaro of causing hundreds of thousands of deaths by discouraging masks, ignoring offers of vaccine and promoting ineffective drugs. 
  <p class="updated_time"> 12:52 PM CT, Oct. 27 </p> 
  [Japan’s Communists Are Hardly Radical, but Make a Handy Election Target](https://www.nytimes.com/2021/10/27/world/asia/japan-election-communist-party.html) NYT: They have minimal support in polls. But by teaming up with other opposition parties for the first time, they have been made a boogeyman by the unpopular party in power. 
- <p class="updated_time"> 12:50 PM CT, Oct. 27 </p> 
- [Pope Expresses ‘Willingness’ to Visit Canada for Indigenous Reconciliation](https://www.nytimes.com/2021/10/27/world/canada/pope-indigenous-apology.html) NYT: A National Truth and Reconciliation Commission has called for a papal apology for abuses at church-run schools for Indigenous children. 
  <p class="updated_time"> 12:50 PM CT, Oct. 27 </p> 
  [Why Scientists Have Spent Years Mapping This Creature’s Brain](https://www.nytimes.com/2021/10/26/science/drosophila-fly-brain-connectome.html) NYT: An enormous new analysis of the wiring of the fruit fly brain is a milestone for the young field of modern connectomics, researchers say. 
  <p class="updated_time"> 12:42 PM CT, Oct. 27 </p> 
@@ -54,6 +58,10 @@ permalink: /charts/news/
  [Poland told to pay €1m a day in legal row with EU](https://www.bbc.co.uk/news/world-europe-59064883?at_medium=RSS&at_campaign=KARANGA) BBC: The ruling is the latest step in an escalating dispute over Poland's legal reforms. 
  <p class="updated_time"> 08:11 AM CT, Oct. 27 </p> 
  [Charlottesville: Why are the ‘Unite the Right’ organisers on trial?](https://www.bbc.co.uk/news/world-us-canada-59054166?at_medium=RSS&at_campaign=KARANGA) BBC: Nine people injured at the 2017 far-right 'Unite the Right' rally in Virginia are suing organisers. 
+ <p class="updated_time"> 08:04 AM CT, Oct. 27 </p> 
+ [U.S. Argues Extradition of Julian Assange Should Go Ahead](https://www.wsj.com/articles/u-s-argues-extradition-of-wikileaks-founder-julian-assange-should-go-ahead-11635354265) WSJ: The U.S. presented arguments to a British court to overturn an earlier decision against extraditing the WikiLeaks founder. 
+ <p class="updated_time"> 07:52 AM CT, Oct. 27 </p> 
+ [U.K., Canada Lead West in Weaning Economies Off Covid-19 Pandemic Support](https://www.wsj.com/articles/u-k-canada-lead-west-in-weaning-economies-off-covid-19-pandemic-support-11635353559) WSJ: London’s new tax and spending policies, along with faster growth, are forecast to shrink the U.K.’s budget deficit in coming years. 
  <p class="updated_time"> 07:24 AM CT, Oct. 27 </p> 
  [As Gangs’ Power Grows, Haiti’s Police Are Outgunned and Underpaid](https://www.nytimes.com/2021/10/26/world/americas/haiti-police-gangs.html) NYT: The police force, dependent on an increasingly depleted state, is finding itself underfunded, underequipped and severely underpaid, even as it faces stronger opponents. 
  <p class="updated_time"> 07:07 AM CT, Oct. 27 </p> 
@@ -82,12 +90,8 @@ permalink: /charts/news/
  [He Won the Nobel. Why Are His Books So Hard to Find?](https://www.nytimes.com/2021/10/27/books/abdulrazak-gurnah-nobel-prize-literature-afterlives.html) NYT: After Abdulrazak Gurnah was awarded this year’s Nobel Prize in Literature, he instantly gained a wider international audience, something publishers are now scrambling to accommodate. 
  <p class="updated_time"> 04:00 AM CT, Oct. 27 </p> 
  [Pastries and Persuasion: How a Global Tax Deal Got Done](https://www.nytimes.com/2021/10/27/us/politics/global-minimum-tax-deal.html) NYT: Over Zoom calls from basements and a breakfast in Brussels, faltering negotiations to remake the world’s tax architecture were revived. 
- <p class="updated_time"> 03:00 AM CT, Oct. 27 </p> 
- [Japan's Male-Dominated Ruling Party Takes a Chance on a Young Mother](https://www.wsj.com/articles/japans-male-dominated-ruling-party-takes-a-chance-on-a-sneaker-wearing-young-mother-11635336000) WSJ: Maiko Takahashi is one of a rare breed in Japan—a young mother and political newcomer running for the long-ruling LDP. Her race is among the battlegrounds that will decide whether new Prime Minister Fumio Kishida keeps his job. 
  <p class="updated_time"> 12:51 AM CT, Oct. 27 </p> 
  [Your Wednesday Briefing](https://www.nytimes.com/2021/10/26/briefing/climate-glasgow-un-myanmar-pakistan-cricket.html) NYT: ‘Imminent peril’ from global warming. 
- <p class="updated_time"> 12:30 AM CT, Oct. 27 </p> 
- [Europe's Push to Loosen Russia's Hold on Gas Prices Bites Back](https://www.wsj.com/articles/europes-push-to-loosen-russian-influence-on-gas-prices-bites-back-11635327001) WSJ: A move to ditch oil-linked gas contracts paid off when gas was in ample supply but will cost EU members an estimated $30 billion this year. 
  <p class="updated_time"> 11:04 PM CT, Oct. 26 </p> 
  [Your Wednesday Briefing](https://www.nytimes.com/2021/10/27/briefing/climate-change-children-vaccines.html) NYT: Emissions plans fall short. 
  <p class="updated_time"> 10:12 PM CT, Oct. 26 </p> 
@@ -180,8 +184,6 @@ permalink: /charts/news/
  [Climate change: Sir David Attenborough in 'act now' warning](https://www.bbc.co.uk/news/science-environment-59039485?at_medium=RSS&at_campaign=KARANGA) BBC: "If we don't act now, it'll be too late," warns Sir David Attenborough ahead of the COP26 climate summit. 
  <p class="updated_time"> 05:37 PM CT, Oct. 25 </p> 
  [Egypt’s Leader Ends State of Emergency, Says It’s No Longer Needed](https://www.nytimes.com/2021/10/25/world/middleeast/egypt-sisi-state-emergency.html) NYT: The move by President Abdel Fattah el-Sisi theoretically rolls back sweeping powers the government wielded in the name of fighting terrorism, but critics called it a cosmetic change. 
- <p class="updated_time"> 03:16 PM CT, Oct. 25 </p> 
- [Tensions Between Sudan's Military and Civilian Leaders Had Been Growing](https://www.nytimes.com/2021/10/25/world/africa/sudan-military-coup-civilian.html) NYT: Civilians were set to rule the country for the first time in more than three decades. But the military was concerned about losing power. 
  <p class="updated_time"> 01:37 PM CT, Oct. 25 </p> 
  [Turkish President Steps Back From Expulsions of 10 Western Diplomats](https://www.nytimes.com/2021/10/25/world/europe/erdogan-turkey-ambassador.html) NYT: The threatened expulsions had risked severe economic consequences and a rupture in the North Atlantic Treaty Organization. 
  <p class="updated_time"> 12:33 PM CT, Oct. 25 </p> 
@@ -190,8 +192,6 @@ permalink: /charts/news/
  [COP26: What is the Glasgow climate conference and why is it important?](https://www.bbc.co.uk/news/science-environment-56901261?at_medium=RSS&at_campaign=KARANGA) BBC: A crucial climate change summit is being held in the UK - this is why it's important. 
  <p class="updated_time"> 09:05 AM CT, Oct. 25 </p> 
  [Behold, the Worm Blob and Its Computerized Twin](https://www.nytimes.com/2021/10/25/science/worm-blobs.html) NYT: It wriggles. It pulls. It falls apart and comes back together. It is everything you wish for and everything you fear. 
- <p class="updated_time"> 05:44 AM CT, Oct. 25 </p> 
- [Picking Their Fights](https://www.nytimes.com/2021/10/25/briefing/biden-congress-democrats-spending-bill.html) NYT: Creating temporary government programs could have big political benefits for Democrats. 
  <p class="updated_time"> 07:00 PM CT, Oct. 24 </p> 
  [Climate change: The environmental disasters we've almost fixed](https://www.bbc.co.uk/news/science-environment-58874831?at_medium=RSS&at_campaign=KARANGA) BBC: From acid rain to the ozone hole: Can we learn from the environmental "success stories" of the past? 
 
