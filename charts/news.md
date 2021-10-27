@@ -6,7 +6,7 @@ permalink: /charts/news/
 
 ## World News
 
- <p class="updated_time"> 12:39 AM CT, Oct. 27 </p> 
+ <p class="updated_time"> 12:51 AM CT, Oct. 27 </p> 
  [Your Wednesday Briefing](https://www.nytimes.com/2021/10/26/briefing/climate-glasgow-un-myanmar-pakistan-cricket.html) NYT: ‘Imminent peril’ from global warming. 
  <p class="updated_time"> 12:12 AM CT, Oct. 27 </p> 
  [Japan’s Communists Are Hardly Radical, but Make a Handy Election Target](https://www.nytimes.com/2021/10/27/world/asia/japan-election-communist-party.html) NYT: They have minimal support in polls. But by teaming up with other opposition parties for the first time, they have been made a boogeyman by the unpopular party in power. 
