@@ -6,12 +6,20 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 12:18 PM CT, Oct. 27 </p> 
+ [How 4 Weeks of U.S. Paid Leave Would Compare With the Rest of the World](https://www.nytimes.com/2021/10/25/upshot/paid-leave-democrats.html) NYT: The U.S. is one of six countries with no national paid leave. The Democrats have cut their plan to four weeks, which would still make it an outlier. 
+ <p class="updated_time"> 12:10 PM CT, Oct. 27 </p> 
+ [B.J. Novak’s Face Is on Products Worldwide. He’s Not Sure Why.](https://www.nytimes.com/2021/10/27/business/bj-novak-photo-public-domain-products.html) NYT: Someone put his image into the public domain, and now the actor and writer appears on an eclectic mix of products from China to Uruguay. “I am too amused to do anything about it,” he said on Instagram. 
+ <p class="updated_time"> 12:09 PM CT, Oct. 27 </p> 
+ [Wonders, and Horrors, Drawn From Boyhood in a War Zone](https://www.nytimes.com/2021/10/27/arts/design/petrit-halilaj-tate-kosovo-war.html) NYT: Petrit Halilaj became one of Kosovo’s most acclaimed artists with work that reflects on his country’s past. Now, he’s getting personal. 
+ <p class="updated_time"> 11:57 AM CT, Oct. 27 </p> 
+ [Pope Expresses ‘Willingness’ to Visit Canada for Indigenous Reconciliation](https://www.nytimes.com/2021/10/27/world/canada/pope-indigenous-apology.html) NYT: A National Truth and Reconciliation Commission has called for a papal apology for abuses at church-run schools for Indigenous children. 
+ <p class="updated_time"> 11:45 AM CT, Oct. 27 </p> 
+ [Israel advances plans for 3,000 new homes in West Bank settlements](https://www.bbc.co.uk/news/world-middle-east-59062909?at_medium=RSS&at_campaign=KARANGA) BBC: The move follows a strong public rebuke of Israeli policy from US President Biden's administration. 
  <p class="updated_time"> 11:14 AM CT, Oct. 27 </p> 
  [U.N. Group Blames Unequal Vaccine Access for Bigger Global Economic Gap](https://www.nytimes.com/2021/10/27/world/united-nations-coronavirus.html) NYT: Wealthier countries with high vaccination rates have had speedier economic recoveries than poorer countries with low vaccination rates, the International Labor Organization said. 
  <p class="updated_time"> 10:59 AM CT, Oct. 27 </p> 
  [Taliban Allow Girls to Return to Some High Schools, but With Big Caveats](https://www.nytimes.com/2021/10/27/world/asia/afghan-girls-school-taliban.html) NYT: In some provinces, teenage girls have been allowed to return to secondary schools, though some teachers and parents still have doubts about what this means about Taliban rule. 
- <p class="updated_time"> 10:37 AM CT, Oct. 27 </p> 
- [Wikileaks: US begins legal appeal to extradite Assange](https://www.bbc.co.uk/news/uk-59063976?at_medium=RSS&at_campaign=KARANGA) BBC: Lawyers for the US say a judge who blocked Julian Assange's extradition was misled by a psychiatrist. 
  <p class="updated_time"> 10:28 AM CT, Oct. 27 </p> 
  [Sudan coup: World Bank suspends aid after military takeover](https://www.bbc.co.uk/news/world-africa-59066654?at_medium=RSS&at_campaign=KARANGA) BBC: Pressure mounts on the military to restore civilian rule as international bodies respond. 
  <p class="updated_time"> 10:26 AM CT, Oct. 27 </p> 
@@ -34,12 +42,18 @@ permalink: /charts/news/
  [Charlottesville: Why are the ‘Unite the Right’ organisers on trial?](https://www.bbc.co.uk/news/world-us-canada-59054166?at_medium=RSS&at_campaign=KARANGA) BBC: Nine people injured at the 2017 far-right 'Unite the Right' rally in Virginia are suing organisers. 
  <p class="updated_time"> 07:24 AM CT, Oct. 27 </p> 
  [As Gangs’ Power Grows, Haiti’s Police Are Outgunned and Underpaid](https://www.nytimes.com/2021/10/26/world/americas/haiti-police-gangs.html) NYT: The police force, dependent on an increasingly depleted state, is finding itself underfunded, underequipped and severely underpaid, even as it faces stronger opponents. 
+ <p class="updated_time"> 07:07 AM CT, Oct. 27 </p> 
+ [Iran to Return to Nuclear Deal Talks Next Month](https://www.wsj.com/articles/iran-to-return-to-nuclear-deal-talks-in-vienna-next-month-11635348645) WSJ: Tehran will return by the end of November to negotiations on reviving the 2015 nuclear deal, its chief negotiator, Ali Bagheri, said on Wednesday. 
  <p class="updated_time"> 06:38 AM CT, Oct. 27 </p> 
  [Gangs Rule Much of Haiti. For Many, It Means No Fuel, No Power, No Food.](https://www.nytimes.com/2021/10/27/world/americas/haiti-gangs-fuel-shortage.html) NYT: A country in crisis is facing a severe fuel shortage that is pushing it to the brink of collapse. 
  <p class="updated_time"> 06:29 AM CT, Oct. 27 </p> 
  [Sister of Bataclan victim: 'We don't hate you'](https://www.bbc.co.uk/news/world-europe-59062002?at_medium=RSS&at_campaign=KARANGA) BBC: Nick Alexander died at a Paris rock gig during the assault by Islamic State (IS) extremists in 2015. 
  <p class="updated_time"> 06:23 AM CT, Oct. 27 </p> 
  [Bataclan attack: Reliving loss of my brother, Nick Alexander](https://www.bbc.co.uk/news/world-europe-59064877?at_medium=RSS&at_campaign=KARANGA) BBC: Zoe Alexander told the suspects in the 2015 Paris attacks trial that they are war with themselves. 
+ <p class="updated_time"> 06:22 AM CT, Oct. 27 </p> 
+ [Chinese Workers Say They Are Lured Abroad and Exploited for Belt-and-Road Jobs](https://www.wsj.com/articles/chinese-workers-say-they-are-lured-abroad-and-exploited-for-belt-and-road-jobs-11635348143) WSJ: Five laborers tried to sneak into Malaysia to escape low-paying work in Indonesia, and tens of thousands of workers are similarly desperate, a labor-rights group says. 
+ <p class="updated_time"> 06:01 AM CT, Oct. 27 </p> 
+ [China's Ambitious Climate Goals Collide With Reality, Hampering Global Efforts](https://www.wsj.com/articles/chinas-ambitious-climate-goals-collide-with-reality-imperiling-global-efforts-11635346919) WSJ: Beijing commits to net-zero emissions before 2060, but for years to come it will continue burning a lot of coal to keep its economy charging ahead. 
  <p class="updated_time"> 05:30 AM CT, Oct. 27 </p> 
  [The Mushy Middle](https://www.nytimes.com/2021/10/27/briefing/abortion-texas-roe-v-wade.html) NYT: We look at public opinion about abortion in Texas. 
  <p class="updated_time"> 05:27 AM CT, Oct. 27 </p> 
@@ -50,8 +64,6 @@ permalink: /charts/news/
  [Spain grants joint custody of dog in rare ruling](https://www.bbc.co.uk/news/world-europe-59062132?at_medium=RSS&at_campaign=KARANGA) BBC: A lawyer calls the ruling pioneering as her client could declare herself as a "co-carer". 
  <p class="updated_time"> 04:33 AM CT, Oct. 27 </p> 
  [Poland Fined Over $1 Million a Day by EU in Clash Over Judiciary](https://www.wsj.com/articles/poland-fined-over-1-million-a-day-by-eu-in-clash-over-judiciary-11635341581) WSJ: The European Union’s top court handed down a record daily fine to Poland for failing to comply with its decisions, the latest blow in an escalating fight between Brussels and Warsaw over judicial independence. 
- <p class="updated_time"> 04:08 AM CT, Oct. 27 </p> 
- [Pope Francis to Visit Canada, Seeking Reconciliation With Indigenous Communities](https://www.wsj.com/articles/pope-francis-to-visit-canada-seeking-reconciliation-with-indigenous-communities-11635340084) WSJ: The plan follows scandals over the abuse of generations of indigenous children at church-run residential schools. 
  <p class="updated_time"> 04:00 AM CT, Oct. 27 </p> 
  [He Won the Nobel. Why Are His Books So Hard to Find?](https://www.nytimes.com/2021/10/27/books/abdulrazak-gurnah-nobel-prize-literature-afterlives.html) NYT: After Abdulrazak Gurnah was awarded this year’s Nobel Prize in Literature, he instantly gained a wider international audience, something publishers are now scrambling to accommodate. 
  <p class="updated_time"> 04:00 AM CT, Oct. 27 </p> 
@@ -62,8 +74,6 @@ permalink: /charts/news/
  [Japan's Male-Dominated Ruling Party Takes a Chance on a Young Mother](https://www.wsj.com/articles/japans-male-dominated-ruling-party-takes-a-chance-on-a-sneaker-wearing-young-mother-11635336000) WSJ: Maiko Takahashi is one of a rare breed in Japan—a young mother and political newcomer running for the long-ruling LDP. Her race is among the battlegrounds that will decide whether new Prime Minister Fumio Kishida keeps his job. 
  <p class="updated_time"> 12:51 AM CT, Oct. 27 </p> 
  [Your Wednesday Briefing](https://www.nytimes.com/2021/10/26/briefing/climate-glasgow-un-myanmar-pakistan-cricket.html) NYT: ‘Imminent peril’ from global warming. 
- <p class="updated_time"> 12:30 AM CT, Oct. 27 </p> 
- [U.S. Takes Bitcoin Mining Crown After China Crackdown](https://www.wsj.com/articles/u-s-takes-bitcoin-mining-crown-after-china-crackdown-11635327002) WSJ: More than a third of the global computing power dedicated to mining bitcoin is now drawn from machines in the U.S., up from less than a fifth last spring. 
  <p class="updated_time"> 12:30 AM CT, Oct. 27 </p> 
  [Europe's Push to Loosen Russia's Hold on Gas Prices Bites Back](https://www.wsj.com/articles/europes-push-to-loosen-russian-influence-on-gas-prices-bites-back-11635327001) WSJ: A move to ditch oil-linked gas contracts paid off when gas was in ample supply but will cost EU members an estimated $30 billion this year. 
  <p class="updated_time"> 11:04 PM CT, Oct. 26 </p> 
@@ -110,8 +120,6 @@ permalink: /charts/news/
  [New Zealand Expands Vaccine Mandate to Cover 40 Percent of Workers](https://www.nytimes.com/2021/10/26/world/asia/covid-new-zealand-vaccine-mandate.html) NYT: The rule will cover employees at restaurants, gyms, bars and hair salons. 
  <p class="updated_time"> 02:18 PM CT, Oct. 26 </p> 
  [She Climbed Yosemite's El Capitan to Celebrate Turning 70](https://www.nytimes.com/2021/10/26/sports/alex-honnold-mother-el-capitan.html) NYT: Dierdre Wolownick, whose son, Alex Honnold, is one of the world’s top rock climbers, ascended Yosemite’s El Capitan to celebrate her 70th birthday. 
- <p class="updated_time"> 01:24 PM CT, Oct. 26 </p> 
- [Ignoring Sanctions, Russia Renews Broad Cybersurveillance Operation](https://www.nytimes.com/2021/10/25/us/politics/russia-cybersurveillance-biden.html) NYT: The new campaign came only months after President Biden imposed sanctions on Moscow in response to a series of spy operations it had conducted around the world. 
  <p class="updated_time"> 12:53 PM CT, Oct. 26 </p> 
  [3 Children and 1 Woman Drowned While Migrating Across the Aegean Sea](https://www.nytimes.com/2021/10/26/world/europe/children-die-greece-migrant-crossing.html) NYT: Migrant crossings are down and so are deaths at sea, but Tuesday’s incident was a reminder that dangers remain. 
  <p class="updated_time"> 11:32 AM CT, Oct. 26 </p> 
@@ -144,8 +152,6 @@ permalink: /charts/news/
  [An Italian Politician’s Quest for Attention Gets a Boost From Richard Gere](https://www.nytimes.com/2021/10/25/world/europe/richard-gere-matteo-salvini-immigrant-trial.html) NYT: The actor may testify against Matteo Salvini, Italy’s former interior minister, in a case involving the treatment of migrants. 
  <p class="updated_time"> 02:00 AM CT, Oct. 26 </p> 
  [How to Map a Fly Brain in 20 Million Easy Steps](https://www.nytimes.com/2021/10/26/science/drosophila-fly-brain-connectome.html) NYT: An enormous new analysis of the wiring of the fruit fly brain is a milestone for the young field of modern connectomics, scientists say. 
- <p class="updated_time"> 12:30 AM CT, Oct. 26 </p> 
- [Severe Drought Hits South America](https://www.wsj.com/articles/severe-drought-hits-south-america-11635240602) WSJ: A shortage of rainfall has left parts of South America in drought, hindering a huge hydroelectric dam in Paraguay and impeding the river transport of goods. 
  <p class="updated_time"> 10:42 PM CT, Oct. 25 </p> 
  [German Woman Convicted of a Crime Against Humanity in Death of Yazidi Child](https://www.nytimes.com/2021/10/25/world/europe/germany-isis-yazidi-child.html) NYT: The woman was sentenced to 10 years in prison after a court found that she joined the Islamic State and enslaved a Yazidi mother and child, whom she left to die in the summer heat of Iraq in 2015. 
  <p class="updated_time"> 10:24 PM CT, Oct. 25 </p> 
@@ -174,8 +180,6 @@ permalink: /charts/news/
  [Turkish President Steps Back From Expulsions of 10 Western Diplomats](https://www.nytimes.com/2021/10/25/world/europe/erdogan-turkey-ambassador.html) NYT: The threatened expulsions had risked severe economic consequences and a rupture in the North Atlantic Treaty Organization. 
  <p class="updated_time"> 12:33 PM CT, Oct. 25 </p> 
  [The Rich World’s Promise of $100 Billion in Climate Aid Inches Forward](https://www.nytimes.com/2021/10/25/climate/100-billion-climate-aid-cop26.html) NYT: Diplomats announced a plan to make good on an unkept promise of climate aid, a key point of tension in upcoming global climate talks. 
- <p class="updated_time"> 11:35 AM CT, Oct. 25 </p> 
- [How 4 Weeks of U.S. Paid Leave Would Compare With the Rest of the World](https://www.nytimes.com/2021/10/25/upshot/paid-leave-democrats.html) NYT: The U.S. is one of six countries with no national paid leave. The Democrats have cut their plan to four weeks, which would still make it an outlier. 
  <p class="updated_time"> 11:10 AM CT, Oct. 25 </p> 
  [COP26: What is the Glasgow climate conference and why is it important?](https://www.bbc.co.uk/news/science-environment-56901261?at_medium=RSS&at_campaign=KARANGA) BBC: A crucial climate change summit is being held in the UK - this is why it's important. 
  <p class="updated_time"> 09:05 AM CT, Oct. 25 </p> 
@@ -186,12 +190,8 @@ permalink: /charts/news/
  [Inside the Thai Temple Where Tattoos Come to Life](https://www.nytimes.com/2021/10/25/travel/sak-yant-tattoo-thailand.html) NYT: Wat Bang Phra, a temple in central Thailand, is renowned as a center for sak yant, a style of tattoo art believed by some to convey protective powers. 
  <p class="updated_time"> 01:20 AM CT, Oct. 25 </p> 
  [Climate change quiz: How can you cut your carbon emissions?](https://www.bbc.co.uk/news/science-environment-58996348?at_medium=RSS&at_campaign=KARANGA) BBC: How much do you know about the steps you could take to help curb climate change? 
- <p class="updated_time"> 11:23 PM CT, Oct. 24 </p> 
- [Your Monday Briefing](https://www.nytimes.com/2021/10/24/briefing/somalia-military-covid-vaccines.html) NYT: A failed playbook in Somalia. 
  <p class="updated_time"> 07:00 PM CT, Oct. 24 </p> 
  [Climate change: The environmental disasters we've almost fixed](https://www.bbc.co.uk/news/science-environment-58874831?at_medium=RSS&at_campaign=KARANGA) BBC: From acid rain to the ozone hole: Can we learn from the environmental "success stories" of the past? 
- <p class="updated_time"> 04:04 PM CT, Oct. 24 </p> 
- [Your Monday Briefing](https://www.nytimes.com/2021/10/24/briefing/your-monday-briefing.html) NYT: Facebook spreads misinformation in India. 
 
 
 
