@@ -6,6 +6,12 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 02:20 PM CT, Oct. 27 </p> 
+ [The Rich World’s Promise of $100 Billion in Climate Aid Inches Forward](https://www.nytimes.com/2021/10/25/climate/100-billion-climate-aid-cop26.html) NYT: Diplomats announced a plan to make good on an unkept promise of climate aid, a key point of tension in upcoming global climate talks. 
+ <p class="updated_time"> 02:17 PM CT, Oct. 27 </p> 
+ [China’s Weapon Test Close to a ‘Sputnik Moment,’ U.S. General Says](https://www.nytimes.com/2021/10/27/us/politics/china-hypersonic-missile.html) NYT: Gen. Mark A. Milley said the Chinese test of a hypersonic missile “has all of our attention.” 
+ <p class="updated_time"> 02:15 PM CT, Oct. 27 </p> 
+ [U.N. Group Blames Unequal Vaccine Access for Bigger Global Economic Gap](https://www.nytimes.com/2021/10/27/world/united-nations-coronavirus.html) NYT: Wealthier countries with high vaccination rates have had speedier economic recoveries than poorer countries with low vaccination rates, the International Labor Organization said. 
  <p class="updated_time"> 01:57 PM CT, Oct. 27 </p> 
  [Brazil Lawmakers Seek Indictment of Bolsonaro in Covid Pandemic](https://www.nytimes.com/live/2021/10/26/world/covid-vaccine-boosters/brazil-bolsonaro-criminal-charges) NYT: A report accused President Jair Bolsonaro of causing hundreds of thousands of deaths by discouraging masks, ignoring offers of vaccine and promoting ineffective drugs. 
  <p class="updated_time"> 01:56 PM CT, Oct. 27 </p> 
@@ -40,14 +46,10 @@ permalink: /charts/news/
  [Wonders, and Horrors, Drawn From Boyhood in a War Zone](https://www.nytimes.com/2021/10/27/arts/design/petrit-halilaj-tate-kosovo-war.html) NYT: Petrit Halilaj became one of Kosovo’s most acclaimed artists with work that reflects on his country’s past. Now, he’s getting personal. 
  <p class="updated_time"> 11:45 AM CT, Oct. 27 </p> 
  [Israel advances plans for 3,000 new homes in West Bank settlements](https://www.bbc.co.uk/news/world-middle-east-59062909?at_medium=RSS&at_campaign=KARANGA) BBC: The move follows a strong public rebuke of Israeli policy from US President Biden's administration. 
- <p class="updated_time"> 11:14 AM CT, Oct. 27 </p> 
- [U.N. Group Blames Unequal Vaccine Access for Bigger Global Economic Gap](https://www.nytimes.com/2021/10/27/world/united-nations-coronavirus.html) NYT: Wealthier countries with high vaccination rates have had speedier economic recoveries than poorer countries with low vaccination rates, the International Labor Organization said. 
  <p class="updated_time"> 10:26 AM CT, Oct. 27 </p> 
  [Brazil senators back criminal charges against Bolsonaro over Covid handling](https://www.bbc.co.uk/news/world-latin-america-59051105?at_medium=RSS&at_campaign=KARANGA) BBC: Senators in Brazil vote to recommend charging the president over his handling of the pandemic. 
  <p class="updated_time"> 10:22 AM CT, Oct. 27 </p> 
  [Footballer Josh Cavallo on coming out as gay: 'It's my freedom day'](https://www.bbc.co.uk/news/world-australia-59068417?at_medium=RSS&at_campaign=KARANGA) BBC: Josh Cavallo has come out as gay - the only current top level male professional footballer to do so. 
- <p class="updated_time"> 09:48 AM CT, Oct. 27 </p> 
- [China’s Weapon Test Close to a ‘Sputnik Moment,’ U.S. General Says](https://www.nytimes.com/2021/10/27/us/politics/china-hypersonic-missile.html) NYT: Gen. Mark A. Milley said the Chinese test of a hypersonic missile “has all of our attention.” 
  <p class="updated_time"> 09:36 AM CT, Oct. 27 </p> 
  [Iran to Return to Nuclear Deal Talks Next Month](https://www.wsj.com/articles/iran-to-return-to-nuclear-deal-talks-in-vienna-next-month-11635348645) WSJ: Tehran will return to negotiations on reviving the 2015 nuclear deal by the end of November, its chief negotiator said Wednesday. 
  <p class="updated_time"> 09:11 AM CT, Oct. 27 </p> 
@@ -184,8 +186,6 @@ permalink: /charts/news/
  [Egypt’s Leader Ends State of Emergency, Says It’s No Longer Needed](https://www.nytimes.com/2021/10/25/world/middleeast/egypt-sisi-state-emergency.html) NYT: The move by President Abdel Fattah el-Sisi theoretically rolls back sweeping powers the government wielded in the name of fighting terrorism, but critics called it a cosmetic change. 
  <p class="updated_time"> 01:37 PM CT, Oct. 25 </p> 
  [Turkish President Steps Back From Expulsions of 10 Western Diplomats](https://www.nytimes.com/2021/10/25/world/europe/erdogan-turkey-ambassador.html) NYT: The threatened expulsions had risked severe economic consequences and a rupture in the North Atlantic Treaty Organization. 
- <p class="updated_time"> 12:33 PM CT, Oct. 25 </p> 
- [The Rich World’s Promise of $100 Billion in Climate Aid Inches Forward](https://www.nytimes.com/2021/10/25/climate/100-billion-climate-aid-cop26.html) NYT: Diplomats announced a plan to make good on an unkept promise of climate aid, a key point of tension in upcoming global climate talks. 
  <p class="updated_time"> 11:10 AM CT, Oct. 25 </p> 
  [COP26: What is the Glasgow climate conference and why is it important?](https://www.bbc.co.uk/news/science-environment-56901261?at_medium=RSS&at_campaign=KARANGA) BBC: A crucial climate change summit is being held in the UK - this is why it's important. 
  <p class="updated_time"> 09:05 AM CT, Oct. 25 </p> 
