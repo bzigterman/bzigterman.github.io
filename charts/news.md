@@ -6,8 +6,10 @@ permalink: /charts/news/
 
 ## World News
 
- <p class="updated_time"> 01:25 AM CT, Oct. 27 </p> 
+ <p class="updated_time"> 01:55 AM CT, Oct. 27 </p> 
  [Brazil senators back criminal charges against Bolsonaro over Covid handling](https://www.bbc.co.uk/news/world-latin-america-59051105?at_medium=RSS&at_campaign=KARANGA) BBC: Senators in Brazil vote to recommend charging the president over his handling of the pandemic. 
+ <p class="updated_time"> 01:50 AM CT, Oct. 27 </p> 
+ [Mort Sahl: Legendary comedian and satirist dies at age 94](https://www.bbc.co.uk/news/world-us-canada-59058489?at_medium=RSS&at_campaign=KARANGA) BBC: His political satire spared no side and revolutionised how stand-up comedy is now performed. 
  <p class="updated_time"> 12:51 AM CT, Oct. 27 </p> 
  [Your Wednesday Briefing](https://www.nytimes.com/2021/10/26/briefing/climate-glasgow-un-myanmar-pakistan-cricket.html) NYT: ‘Imminent peril’ from global warming. 
  <p class="updated_time"> 12:12 AM CT, Oct. 27 </p> 
@@ -32,8 +34,6 @@ permalink: /charts/news/
  [Sudan coup: Why the army is gambling with the future](https://www.bbc.co.uk/news/world-africa-59050473?at_medium=RSS&at_campaign=KARANGA) BBC: The generals fear they are at risk if civilian rule demands accountability, argues Alex de Waal. 
  <p class="updated_time"> 07:47 PM CT, Oct. 26 </p> 
  [Lebanon: Beirut violence fuels fears of return to civil war](https://www.bbc.co.uk/news/world-middle-east-59035123?at_medium=RSS&at_campaign=KARANGA) BBC: A deadly flare-up shows how Lebanon's festering tensions could spiral into all-out conflict again. 
- <p class="updated_time"> 07:40 PM CT, Oct. 26 </p> 
- [Mort Sahl: Legendary comedian and satirist dies at age 94](https://www.bbc.co.uk/news/world-us-canada-59058489?at_medium=RSS&at_campaign=KARANGA) BBC: His political satire spared no side and revolutionised how stand-up comedy is now performed. 
  <p class="updated_time"> 07:00 PM CT, Oct. 26 </p> 
  [2 Days After Cricket Victory Over India, Pakistan Still Feels the High](https://www.nytimes.com/2021/10/26/world/asia/pakistan-cricket-victory-india.html) NYT: The nation is experiencing a much-needed burst of joy after it unexpectedly beat India in a cricket match in Dubai. 
  <p class="updated_time"> 06:41 PM CT, Oct. 26 </p> 
