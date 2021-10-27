@@ -6,6 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 01:40 PM CT, Oct. 27 </p> 
+ [Iran Will Rejoin Nuclear Talks, Top Negotiator Says](https://www.nytimes.com/2021/10/27/world/middleeast/iran-nuclear-talks.html) NYT: Negotiations on reviving the 2015 nuclear accord are to resume in November, but it is unclear if the United States will take part in them. 
  <p class="updated_time"> 01:19 PM CT, Oct. 27 </p> 
  [Sudan coup: World Bank suspends aid after military takeover](https://www.bbc.co.uk/news/world-africa-59066654?at_medium=RSS&at_campaign=KARANGA) BBC: Pressure mounts on the military to restore civilian rule as international bodies respond. 
  <p class="updated_time"> 01:14 PM CT, Oct. 27 </p> 
@@ -46,6 +48,8 @@ permalink: /charts/news/
  [Merck Will Share Formula for its Covid Pill With Poor Countries](https://www.nytimes.com/2021/10/27/health/covid-pill-access-molnupiravir.html) NYT: The company announced a licensing deal that will allow the drug, molnupiravir, to be made and sold cheaply in 105 developing nations. 
  <p class="updated_time"> 09:48 AM CT, Oct. 27 </p> 
  [China’s Weapon Test Close to a ‘Sputnik Moment,’ U.S. General Says](https://www.nytimes.com/2021/10/27/us/politics/china-hypersonic-missile.html) NYT: Gen. Mark A. Milley said the Chinese test of a hypersonic missile “has all of our attention.” 
+ <p class="updated_time"> 09:36 AM CT, Oct. 27 </p> 
+ [Iran to Return to Nuclear Deal Talks Next Month](https://www.wsj.com/articles/iran-to-return-to-nuclear-deal-talks-in-vienna-next-month-11635348645) WSJ: Tehran will return to negotiations on reviving the 2015 nuclear deal by the end of November, its chief negotiator said Wednesday. 
  <p class="updated_time"> 09:11 AM CT, Oct. 27 </p> 
  [At McKinsey, Widespread Furor Over Work With Planet’s Biggest Polluters](https://www.nytimes.com/2021/10/27/business/mckinsey-climate-change.html) NYT: A letter signed by more than 1,100 employees has called for change at the consulting firm, which has advised at least 43 of the 100 most environmentally damaging companies. 
  <p class="updated_time"> 09:00 AM CT, Oct. 27 </p> 
@@ -66,8 +70,6 @@ permalink: /charts/news/
  [U.K., Canada Lead West in Weaning Economies Off Covid-19 Pandemic Support](https://www.wsj.com/articles/u-k-canada-lead-west-in-weaning-economies-off-covid-19-pandemic-support-11635353559) WSJ: London’s new tax and spending policies, along with faster growth, are forecast to shrink the U.K.’s budget deficit in coming years. 
  <p class="updated_time"> 07:24 AM CT, Oct. 27 </p> 
  [As Gangs’ Power Grows, Haiti’s Police Are Outgunned and Underpaid](https://www.nytimes.com/2021/10/26/world/americas/haiti-police-gangs.html) NYT: The police force, dependent on an increasingly depleted state, is finding itself underfunded, underequipped and severely underpaid, even as it faces stronger opponents. 
- <p class="updated_time"> 07:07 AM CT, Oct. 27 </p> 
- [Iran to Return to Nuclear Deal Talks Next Month](https://www.wsj.com/articles/iran-to-return-to-nuclear-deal-talks-in-vienna-next-month-11635348645) WSJ: Tehran will return by the end of November to negotiations on reviving the 2015 nuclear deal, its chief negotiator, Ali Bagheri, said on Wednesday. 
  <p class="updated_time"> 06:38 AM CT, Oct. 27 </p> 
  [Gangs Rule Much of Haiti. For Many, It Means No Fuel, No Power, No Food.](https://www.nytimes.com/2021/10/27/world/americas/haiti-gangs-fuel-shortage.html) NYT: A country in crisis is facing a severe fuel shortage that is pushing it to the brink of collapse. 
  <p class="updated_time"> 06:29 AM CT, Oct. 27 </p> 
