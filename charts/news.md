@@ -6,14 +6,14 @@ permalink: /charts/news/
 
 ## World News
 
- <p class="updated_time"> 06:18 AM CT, Oct. 27 </p> 
- [South Korea to Strictly Enforce Covid Rules on Halloween](https://www.nytimes.com/live/2021/10/27/world/covid-vaccine-boosters/south-korea-covid-halloween) NYT: The authorities are worried that the festivities could threaten the country’s reopening plans next month. 
+ <p class="updated_time"> 06:29 AM CT, Oct. 27 </p> 
+ [Sister of Bataclan victim: 'We don't hate you'](https://www.bbc.co.uk/news/world-europe-59062002?at_medium=RSS&at_campaign=KARANGA) BBC: Nick Alexander died at a Paris rock gig during the assault by Islamic State (IS) extremists in 2015. 
+ <p class="updated_time"> 06:23 AM CT, Oct. 27 </p> 
+ [Bataclan attack: Reliving loss of my brother, Nick Alexander](https://www.bbc.co.uk/news/world-europe-59064877?at_medium=RSS&at_campaign=KARANGA) BBC: Zoe Alexander told the suspects in the 2015 Paris attacks trial that they are war with themselves. 
  <p class="updated_time"> 05:30 AM CT, Oct. 27 </p> 
  [The Mushy Middle](https://www.nytimes.com/2021/10/27/briefing/abortion-texas-roe-v-wade.html) NYT: We look at public opinion about abortion in Texas. 
  <p class="updated_time"> 05:27 AM CT, Oct. 27 </p> 
  [Hong Kong passes new film censorship law](https://www.bbc.co.uk/news/world-asia-china-59047633?at_medium=RSS&at_campaign=KARANGA) BBC: Authorities will have the power to ban films deemed to violate China's national security interests. 
- <p class="updated_time"> 05:27 AM CT, Oct. 27 </p> 
- [Sister of Bataclan victim: 'We don't hate you'](https://www.bbc.co.uk/news/world-europe-59062002?at_medium=RSS&at_campaign=KARANGA) BBC: Nick Alexander died at a Paris rock gig during the assault by Islamic State (IS) extremists in 2015. 
  <p class="updated_time"> 05:13 AM CT, Oct. 27 </p> 
  [Sunao Tsuboi: Campaigning Hiroshima survivor dies aged 96](https://www.bbc.co.uk/news/world-asia-59060950?at_medium=RSS&at_campaign=KARANGA) BBC: Sunao Tsuboi met Barack Obama on his historic visit to the site of the world's first nuclear attack. 
  <p class="updated_time"> 05:00 AM CT, Oct. 27 </p> 
@@ -104,8 +104,6 @@ permalink: /charts/news/
  [Terror Groups in Afghanistan Could Be Ready to Attack West in 6 Months](https://www.wsj.com/articles/terror-groups-in-afghanistan-could-be-ready-to-attack-west-in-6-months-u-s-says-11635284966) WSJ: A top Pentagon official tells senators that Islamic State wants to launch attacks, and that it isn’t clear if the Taliban can counter the threat. 
  <p class="updated_time"> 12:01 PM CT, Oct. 26 </p> 
  [Charlottesville: Why are the ‘Unite the Right’ organisers on trial?](https://www.bbc.co.uk/news/world-us-canada-59054166?at_medium=RSS&at_campaign=KARANGA) BBC: Nine people injured at the 2017 far-right 'Unite the Right' rally in Virginia are suing organisers. 
- <p class="updated_time"> 11:57 AM CT, Oct. 26 </p> 
- [Catania: Floods swamp city centre streets as rare storm hits Sicily](https://www.bbc.co.uk/news/world-europe-59054531?at_medium=RSS&at_campaign=KARANGA) BBC: At least two people have died amid flooding caused by a rare storm in the city of Catania. 
  <p class="updated_time"> 11:49 AM CT, Oct. 26 </p> 
  [World's Climate Plans Fall Short of Paris Accord, U.N. Says](https://www.wsj.com/articles/u-n-finds-nations-climate-plans-fall-short-of-paris-accord-11635259447) WSJ: The world’s emissions reductions plans would allow far more global warming than targeted in the Paris climate accord, and some of the biggest emitters, including the U.S., aren’t on track to hit their targets, according to a United Nations report. 
  <p class="updated_time"> 11:32 AM CT, Oct. 26 </p> 
@@ -194,6 +192,8 @@ permalink: /charts/news/
  [Climate change: The environmental disasters we've almost fixed](https://www.bbc.co.uk/news/science-environment-58874831?at_medium=RSS&at_campaign=KARANGA) BBC: From acid rain to the ozone hole: Can we learn from the environmental "success stories" of the past? 
  <p class="updated_time"> 04:04 PM CT, Oct. 24 </p> 
  [Your Monday Briefing](https://www.nytimes.com/2021/10/24/briefing/your-monday-briefing.html) NYT: Facebook spreads misinformation in India. 
+ <p class="updated_time"> 01:51 PM CT, Oct. 24 </p> 
+ [Kenyan Olympian's Husband Is Arrested in Her Killing ](https://www.nytimes.com/2021/10/24/world/africa/agnes-jebet-tirop-stabbing-arrest.html) NYT: Agnes Jebet Tirop, 25, a rising running star, was stabbed to death in her home this month. Her husband has been arrested. 
 
 
 
