@@ -6,6 +6,10 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 12:35 PM CT, Oct. 27 </p> 
+ [Climate change quiz: How can you cut your carbon emissions?](https://www.bbc.co.uk/news/science-environment-58996348?at_medium=RSS&at_campaign=KARANGA) BBC: How much do you know about the steps you could take to help curb climate change? 
+ <p class="updated_time"> 12:34 PM CT, Oct. 27 </p> 
+ [Alec Baldwin film tragedy: Actor fired live round, police say](https://www.bbc.co.uk/news/world-us-canada-59068976?at_medium=RSS&at_campaign=KARANGA) BBC: New Mexico authorities say it is too early to determine if arrests will be made or charges laid. 
  <p class="updated_time"> 12:18 PM CT, Oct. 27 </p> 
  [How 4 Weeks of U.S. Paid Leave Would Compare With the Rest of the World](https://www.nytimes.com/2021/10/25/upshot/paid-leave-democrats.html) NYT: The U.S. is one of six countries with no national paid leave. The Democrats have cut their plan to four weeks, which would still make it an outlier. 
  <p class="updated_time"> 12:10 PM CT, Oct. 27 </p> 
@@ -188,8 +192,6 @@ permalink: /charts/news/
  [Picking Their Fights](https://www.nytimes.com/2021/10/25/briefing/biden-congress-democrats-spending-bill.html) NYT: Creating temporary government programs could have big political benefits for Democrats. 
  <p class="updated_time"> 04:00 AM CT, Oct. 25 </p> 
  [Inside the Thai Temple Where Tattoos Come to Life](https://www.nytimes.com/2021/10/25/travel/sak-yant-tattoo-thailand.html) NYT: Wat Bang Phra, a temple in central Thailand, is renowned as a center for sak yant, a style of tattoo art believed by some to convey protective powers. 
- <p class="updated_time"> 01:20 AM CT, Oct. 25 </p> 
- [Climate change quiz: How can you cut your carbon emissions?](https://www.bbc.co.uk/news/science-environment-58996348?at_medium=RSS&at_campaign=KARANGA) BBC: How much do you know about the steps you could take to help curb climate change? 
  <p class="updated_time"> 07:00 PM CT, Oct. 24 </p> 
  [Climate change: The environmental disasters we've almost fixed](https://www.bbc.co.uk/news/science-environment-58874831?at_medium=RSS&at_campaign=KARANGA) BBC: From acid rain to the ozone hole: Can we learn from the environmental "success stories" of the past? 
 
