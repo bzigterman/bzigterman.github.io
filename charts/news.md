@@ -6,10 +6,12 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 05:52 PM CT, Oct. 27 </p> 
+ [Australia to Ease Overseas Travel Rules for Vaccinated Residents](https://www.nytimes.com/2021/10/27/world/australia/australia-travel-abroad-vaccination.html) NYT: The eased restrictions will be the first stage in the country’s plan to reopen its borders since slamming them shut in 2020, separating families and leaving thousands stranded overseas. 
+ <p class="updated_time"> 05:51 PM CT, Oct. 27 </p> 
+ [B.J. Novak’s Face Is on Products Worldwide. He’s Not Sure Why.](https://www.nytimes.com/2021/10/27/business/bj-novak-photo-public-domain-products.html) NYT: An image of the actor appears on an eclectic mix of products from China to Uruguay. “I am too amused to do anything about it,” he said on Instagram. 
  <p class="updated_time"> 05:14 PM CT, Oct. 27 </p> 
  [Sudan coup: World Bank suspends aid after military takeover](https://www.bbc.co.uk/news/world-africa-59066654?at_medium=RSS&at_campaign=KARANGA) BBC: Pressure mounts on the military to restore civilian rule as international bodies respond. 
- <p class="updated_time"> 05:03 PM CT, Oct. 27 </p> 
- [B.J. Novak’s Face Is on Products Worldwide. He’s Not Sure Why.](https://www.nytimes.com/2021/10/27/business/bj-novak-photo-public-domain-products.html) NYT: An image of the actor appears on an eclectic mix of products from China to Uruguay. “I am too amused to do anything about it,” he said on Instagram. 
  <p class="updated_time"> 04:50 PM CT, Oct. 27 </p> 
  [Alec Baldwin shooting: Sheriff describes film set 'complacency'](https://www.bbc.co.uk/news/world-us-canada-59068976?at_medium=RSS&at_campaign=KARANGA) BBC: New Mexico authorities are so far refusing to rule out bringing criminal charges in the case. 
  <p class="updated_time"> 04:41 PM CT, Oct. 27 </p> 
@@ -72,8 +74,6 @@ permalink: /charts/news/
  [Claudette Colvin: US civil rights pioneer wants record cleared](https://www.bbc.co.uk/news/world-us-canada-59047634?at_medium=RSS&at_campaign=KARANGA) BBC: Claudette Colvin was just 15 in 1955 when she refused to give up her seat on a bus for a white person. 
  <p class="updated_time"> 08:45 AM CT, Oct. 27 </p> 
  [Iran blames foreign country for cyberattack on petrol stations](https://www.bbc.co.uk/news/world-middle-east-59062907?at_medium=RSS&at_campaign=KARANGA) BBC: Tuesday's attack crippled a system that lets motorists buy subsidised petrol, causing long queues. 
- <p class="updated_time"> 08:27 AM CT, Oct. 27 </p> 
- [Australia to Ease Overseas Travel Rules for Vaccinated Residents](https://www.nytimes.com/2021/10/27/world/australia/australia-travel-abroad-vaccination.html) NYT: The eased restrictions will be the first stage in the country’s plan to reopen its borders since slamming them shut in 2020, separating families and leaving thousands stranded overseas. 
  <p class="updated_time"> 08:11 AM CT, Oct. 27 </p> 
  [Charlottesville: Why are the ‘Unite the Right’ organisers on trial?](https://www.bbc.co.uk/news/world-us-canada-59054166?at_medium=RSS&at_campaign=KARANGA) BBC: Nine people injured at the 2017 far-right 'Unite the Right' rally in Virginia are suing organisers. 
  <p class="updated_time"> 08:04 AM CT, Oct. 27 </p> 
