@@ -6,6 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 05:30 AM CT, Oct. 27 </p> 
+ [The Mushy Middle](https://www.nytimes.com/2021/10/27/briefing/abortion-texas-roe-v-wade.html) NYT: We look at public opinion about abortion in Texas. 
  <p class="updated_time"> 05:13 AM CT, Oct. 27 </p> 
  [Sunao Tsuboi: Campaigning Hiroshima survivor dies aged 96](https://www.bbc.co.uk/news/world-asia-59060950?at_medium=RSS&at_campaign=KARANGA) BBC: Sunao Tsuboi met Barack Obama on his historic visit to the site of the world's first nuclear attack. 
  <p class="updated_time"> 05:00 AM CT, Oct. 27 </p> 
@@ -30,6 +32,12 @@ permalink: /charts/news/
  [Mort Sahl: Legendary comedian and satirist dies at age 94](https://www.bbc.co.uk/news/world-us-canada-59058489?at_medium=RSS&at_campaign=KARANGA) BBC: His political satire spared no side and revolutionised how stand-up comedy is now performed. 
  <p class="updated_time"> 12:51 AM CT, Oct. 27 </p> 
  [Your Wednesday Briefing](https://www.nytimes.com/2021/10/26/briefing/climate-glasgow-un-myanmar-pakistan-cricket.html) NYT: ‘Imminent peril’ from global warming. 
+ <p class="updated_time"> 12:30 AM CT, Oct. 27 </p> 
+ [Europe's Push to Loosen Russia's Hold on Gas Prices Bites Back](https://www.wsj.com/articles/europes-push-to-loosen-russian-influence-on-gas-prices-bites-back-11635327001) WSJ: A move to ditch oil-linked gas contracts paid off when gas was in ample supply but will cost EU members an estimated $30 billion this year. 
+ <p class="updated_time"> 12:30 AM CT, Oct. 27 </p> 
+ [Pope to Meet Biden Amid Tensions With U.S. Bishops](https://www.wsj.com/articles/pope-francis-and-president-biden-to-meet-as-both-face-abortion-tensions-with-u-s-bishops-11635327000) WSJ: As Joe Biden makes his first visit to the Vatican as president, U.S. clerics prepare to debate whether he and other Catholic politicians who support abortion rights should be granted Communion. 
+ <p class="updated_time"> 12:30 AM CT, Oct. 27 </p> 
+ [U.S. Takes Bitcoin Mining Crown After China Crackdown](https://www.wsj.com/articles/u-s-takes-bitcoin-mining-crown-after-china-crackdown-11635327002) WSJ: More than a third of the global computing power dedicated to mining bitcoin is now drawn from machines in the U.S., up from less than a fifth last spring. 
  <p class="updated_time"> 11:04 PM CT, Oct. 26 </p> 
  [Your Wednesday Briefing](https://www.nytimes.com/2021/10/27/briefing/climate-change-children-vaccines.html) NYT: Emissions plans fall short. 
  <p class="updated_time"> 10:12 PM CT, Oct. 26 </p> 
@@ -130,20 +138,14 @@ permalink: /charts/news/
  [Covid Cases Keep Falling](https://www.nytimes.com/2021/10/26/briefing/covid-cases-falling-delta.html) NYT: Covid cases have been falling in every region of the U.S., offering hope. 
  <p class="updated_time"> 04:43 AM CT, Oct. 26 </p> 
  [Sudan Soldiers Gun Down Protesters, Doctors Group Says](https://www.nytimes.com/2021/10/25/world/africa/sudan-coup-pro-democracy-protesters.html) NYT: Protesters against the military coup took to the streets by the thousands and barricaded roads, and soldiers reportedly shot demonstrators outside army headquarters. 
- <p class="updated_time"> 03:47 AM CT, Oct. 26 </p> 
- [China's Energy Crisis Complicates Its Plans for Announcements Ahead of COP26](https://www.wsj.com/articles/chinas-energy-crisis-complicates-its-plans-for-climate-announcements-ahead-of-cop26-11635252471) WSJ: The worst power shortage in two decades is squeezing Chinese leaders between international climate expectations and the need to heat households in winter and keep factories going. 
  <p class="updated_time"> 03:40 AM CT, Oct. 26 </p> 
  [Australia Pledges ‘Net Zero’ Emissions by 2050. Its Plan Makes That Hard to Believe.](https://www.nytimes.com/2021/10/26/world/australia/net-zero-delay.html) NYT: The country’s last-minute commitment before next week’s climate summit is built on hope for new technology, and little else. 
- <p class="updated_time"> 02:46 AM CT, Oct. 26 </p> 
- [Taiwan Gains Favor in Europe's East, Angering China](https://www.wsj.com/articles/taiwan-gains-favor-in-europes-east-angering-china-11635248811) WSJ: The intensifying links mirror tensions between the West and China over trade, military and human-rights issues. They also highlight differences within the West in how to approach an increasingly assertive China. 
  <p class="updated_time"> 02:22 AM CT, Oct. 26 </p> 
  [An Italian Politician’s Quest for Attention Gets a Boost From Richard Gere](https://www.nytimes.com/2021/10/25/world/europe/richard-gere-matteo-salvini-immigrant-trial.html) NYT: The actor may testify against Matteo Salvini, Italy’s former interior minister, in a case involving the treatment of migrants. 
  <p class="updated_time"> 02:00 AM CT, Oct. 26 </p> 
  [How to Map a Fly Brain in 20 Million Easy Steps](https://www.nytimes.com/2021/10/26/science/drosophila-fly-brain-connectome.html) NYT: An enormous new analysis of the wiring of the fruit fly brain is a milestone for the young field of modern connectomics, scientists say. 
  <p class="updated_time"> 02:00 AM CT, Oct. 26 </p> 
  [As Gangs’ Power Grows, Haiti’s Police Are Outgunned and Underpaid](https://www.nytimes.com/2021/10/26/world/americas/haiti-police-gangs.html) NYT: The police force, dependent on an increasingly depleted state, is finding itself underfunded, underequipped and severely underpaid, even as it faces stronger opponents. 
- <p class="updated_time"> 12:30 AM CT, Oct. 26 </p> 
- [Severe Drought Hits South America](https://www.wsj.com/articles/severe-drought-hits-south-america-11635240602) WSJ: A shortage of rainfall has left parts of South America in drought, hindering a huge hydroelectric dam in Paraguay and impeding the river transport of goods. 
  <p class="updated_time"> 10:42 PM CT, Oct. 25 </p> 
  [German Woman Convicted of a Crime Against Humanity in Death of Yazidi Child](https://www.nytimes.com/2021/10/25/world/europe/germany-isis-yazidi-child.html) NYT: The woman was sentenced to 10 years in prison after a court found that she joined the Islamic State and enslaved a Yazidi mother and child, whom she left to die in the summer heat of Iraq in 2015. 
  <p class="updated_time"> 10:24 PM CT, Oct. 25 </p> 
@@ -190,8 +192,6 @@ permalink: /charts/news/
  [Your Monday Briefing](https://www.nytimes.com/2021/10/24/briefing/somalia-military-covid-vaccines.html) NYT: A failed playbook in Somalia. 
  <p class="updated_time"> 07:00 PM CT, Oct. 24 </p> 
  [Climate change: The environmental disasters we've almost fixed](https://www.bbc.co.uk/news/science-environment-58874831?at_medium=RSS&at_campaign=KARANGA) BBC: From acid rain to the ozone hole: Can we learn from the environmental "success stories" of the past? 
- <p class="updated_time"> 06:22 PM CT, Oct. 24 </p> 
- [Cases Grow in Germany as Restrictions Set to Expire](https://www.nytimes.com/2021/10/24/world/germany-covid-surge.html) NYT: Infections have increased by 57 percent in the past two weeks, while deaths on average in the same period have increased by 11 percent. 
  <p class="updated_time"> 04:04 PM CT, Oct. 24 </p> 
  [Your Monday Briefing](https://www.nytimes.com/2021/10/24/briefing/your-monday-briefing.html) NYT: Facebook spreads misinformation in India. 
  <p class="updated_time"> 01:51 PM CT, Oct. 24 </p> 
