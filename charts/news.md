@@ -6,14 +6,20 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 01:57 PM CT, Oct. 27 </p> 
+ [Brazil Lawmakers Seek Indictment of Bolsonaro in Covid Pandemic](https://www.nytimes.com/live/2021/10/26/world/covid-vaccine-boosters/brazil-bolsonaro-criminal-charges) NYT: A report accused President Jair Bolsonaro of causing hundreds of thousands of deaths by discouraging masks, ignoring offers of vaccine and promoting ineffective drugs. 
+ <p class="updated_time"> 01:56 PM CT, Oct. 27 </p> 
+ [Merck Will Share Formula for its Covid Pill With Poor Countries](https://www.nytimes.com/2021/10/27/health/covid-pill-access-molnupiravir.html) NYT: The company announced a licensing deal that will allow the drug, molnupiravir, to be made and sold cheaply in 105 developing nations. 
+ <p class="updated_time"> 01:56 PM CT, Oct. 27 </p> 
+ [Alec Baldwin Rust shooting: Actor fired live round, police say](https://www.bbc.co.uk/news/world-us-canada-59068976?at_medium=RSS&at_campaign=KARANGA) BBC: New Mexico authorities say it is too early to determine if arrests will be made or charges laid. 
+ <p class="updated_time"> 01:51 PM CT, Oct. 27 </p> 
+ [Taliban Allow Girls to Return to Some High Schools, but With Big Caveats](https://www.nytimes.com/2021/10/27/world/asia/afghan-girls-school-taliban.html) NYT: In some provinces, teenage girls have been allowed to return to secondary schools, though some teachers and parents still have doubts about what this means about Taliban rule. 
  <p class="updated_time"> 01:40 PM CT, Oct. 27 </p> 
  [Iran Will Rejoin Nuclear Talks, Top Negotiator Says](https://www.nytimes.com/2021/10/27/world/middleeast/iran-nuclear-talks.html) NYT: Negotiations on reviving the 2015 nuclear accord are to resume in November, but it is unclear if the United States will take part in them. 
  <p class="updated_time"> 01:19 PM CT, Oct. 27 </p> 
  [Sudan coup: World Bank suspends aid after military takeover](https://www.bbc.co.uk/news/world-africa-59066654?at_medium=RSS&at_campaign=KARANGA) BBC: Pressure mounts on the military to restore civilian rule as international bodies respond. 
  <p class="updated_time"> 01:14 PM CT, Oct. 27 </p> 
  [Pope Expresses ‘Willingness’ to Visit Canada for Indigenous Reconciliation](https://www.nytimes.com/2021/10/27/world/canada/pope-indigenous-apology.html) NYT: A National Truth and Reconciliation Commission has called for a papal apology for abuses at church-run schools for Indigenous children. 
- <p class="updated_time"> 01:14 PM CT, Oct. 27 </p> 
- [Brazil Lawmakers Seek Indictment of Bolsonaro in Covid Pandemic](https://www.nytimes.com/live/2021/10/26/world/covid-vaccine-boosters/brazil-bolsonaro-criminal-charges) NYT: A report accused President Jair Bolsonaro of causing hundreds of thousands of deaths by discouraging masks, ignoring offers of vaccine and promoting ineffective drugs. 
  <p class="updated_time"> 01:08 PM CT, Oct. 27 </p> 
  [Benin Bronzes: 'My great-grandfather sculpted the looted treasures'](https://www.bbc.co.uk/news/world-africa-59065274?at_medium=RSS&at_campaign=KARANGA) BBC: Nigerians welcome the return of artefacts - including Cambridge University's cockerel - looted in 1897. 
  <p class="updated_time"> 12:57 PM CT, Oct. 27 </p> 
@@ -28,8 +34,6 @@ permalink: /charts/news/
  [Israel Advances Plan for New Settlements, in First for Bennett Era](https://www.nytimes.com/2021/10/27/world/middleeast/israel-settlements-west-bank.html) NYT: Approved despite the objections of the United States, critics say the new homes will consolidate Israel’s presence in the West Bank and make it harder to create a Palestinian state. 
  <p class="updated_time"> 12:35 PM CT, Oct. 27 </p> 
  [Climate change quiz: How can you cut your carbon emissions?](https://www.bbc.co.uk/news/science-environment-58996348?at_medium=RSS&at_campaign=KARANGA) BBC: How much do you know about the steps you could take to help curb climate change? 
- <p class="updated_time"> 12:34 PM CT, Oct. 27 </p> 
- [Alec Baldwin film tragedy: Actor fired live round, police say](https://www.bbc.co.uk/news/world-us-canada-59068976?at_medium=RSS&at_campaign=KARANGA) BBC: New Mexico authorities say it is too early to determine if arrests will be made or charges laid. 
  <p class="updated_time"> 12:10 PM CT, Oct. 27 </p> 
  [B.J. Novak’s Face Is on Products Worldwide. He’s Not Sure Why.](https://www.nytimes.com/2021/10/27/business/bj-novak-photo-public-domain-products.html) NYT: Someone put his image into the public domain, and now the actor and writer appears on an eclectic mix of products from China to Uruguay. “I am too amused to do anything about it,” he said on Instagram. 
  <p class="updated_time"> 12:09 PM CT, Oct. 27 </p> 
@@ -38,14 +42,10 @@ permalink: /charts/news/
  [Israel advances plans for 3,000 new homes in West Bank settlements](https://www.bbc.co.uk/news/world-middle-east-59062909?at_medium=RSS&at_campaign=KARANGA) BBC: The move follows a strong public rebuke of Israeli policy from US President Biden's administration. 
  <p class="updated_time"> 11:14 AM CT, Oct. 27 </p> 
  [U.N. Group Blames Unequal Vaccine Access for Bigger Global Economic Gap](https://www.nytimes.com/2021/10/27/world/united-nations-coronavirus.html) NYT: Wealthier countries with high vaccination rates have had speedier economic recoveries than poorer countries with low vaccination rates, the International Labor Organization said. 
- <p class="updated_time"> 10:59 AM CT, Oct. 27 </p> 
- [Taliban Allow Girls to Return to Some High Schools, but With Big Caveats](https://www.nytimes.com/2021/10/27/world/asia/afghan-girls-school-taliban.html) NYT: In some provinces, teenage girls have been allowed to return to secondary schools, though some teachers and parents still have doubts about what this means about Taliban rule. 
  <p class="updated_time"> 10:26 AM CT, Oct. 27 </p> 
  [Brazil senators back criminal charges against Bolsonaro over Covid handling](https://www.bbc.co.uk/news/world-latin-america-59051105?at_medium=RSS&at_campaign=KARANGA) BBC: Senators in Brazil vote to recommend charging the president over his handling of the pandemic. 
  <p class="updated_time"> 10:22 AM CT, Oct. 27 </p> 
  [Footballer Josh Cavallo on coming out as gay: 'It's my freedom day'](https://www.bbc.co.uk/news/world-australia-59068417?at_medium=RSS&at_campaign=KARANGA) BBC: Josh Cavallo has come out as gay - the only current top level male professional footballer to do so. 
- <p class="updated_time"> 10:00 AM CT, Oct. 27 </p> 
- [Merck Will Share Formula for its Covid Pill With Poor Countries](https://www.nytimes.com/2021/10/27/health/covid-pill-access-molnupiravir.html) NYT: The company announced a licensing deal that will allow the drug, molnupiravir, to be made and sold cheaply in 105 developing nations. 
  <p class="updated_time"> 09:48 AM CT, Oct. 27 </p> 
  [China’s Weapon Test Close to a ‘Sputnik Moment,’ U.S. General Says](https://www.nytimes.com/2021/10/27/us/politics/china-hypersonic-missile.html) NYT: Gen. Mark A. Milley said the Chinese test of a hypersonic missile “has all of our attention.” 
  <p class="updated_time"> 09:36 AM CT, Oct. 27 </p> 
@@ -132,8 +132,6 @@ permalink: /charts/news/
  [Why Poland Would Rather Keep E.U. Money Than Break With Bloc](https://www.nytimes.com/2021/10/26/world/europe/poland-eu-aid.html) NYT: Despite the flame-throwing rhetoric of their leaders, conservative supporters of Poland’s ruling party are dependent on millions of euros in aid, and don’t want to risk it. 
  <p class="updated_time"> 04:55 PM CT, Oct. 26 </p> 
  [Iranian Motorists Hit With Cyberattack at Filling Stations](https://www.nytimes.com/2021/10/26/world/middleeast/iran-gas-station-hack.html) NYT: Iranian news agencies reported that a cyberattack of unidentified origin had sabotaged a payment system. 
- <p class="updated_time"> 04:15 PM CT, Oct. 26 </p> 
- [Traveling Through a Divided Israel](https://www.nytimes.com/2021/10/25/world/middleeast/israel-jews-palestinians-journey.html) NYT: Two Times journalists drive the length of Israel to discover what it means to be Israeli today. They meet a kaleidoscope of people, searching for belonging but far apart on how to find it. 
  <p class="updated_time"> 03:00 PM CT, Oct. 26 </p> 
  [Queen Elizabeth Will Skip Climate Summit in Glasgow](https://www.nytimes.com/2021/10/26/world/europe/queen-elizabeth-cop26-summit.html) NYT: The 95-year-old queen, after 70 years on the throne, is the oldest and longest-serving monarch in British history. 
  <p class="updated_time"> 02:54 PM CT, Oct. 26 </p> 
