@@ -6,6 +6,16 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 08:21 PM CT, Oct. 26 </p> 
+ [Céline's Newly Unearthed Work Causes a Stir in France](https://www.nytimes.com/2021/10/26/world/europe/celine-manuscripts-france.html) NYT: A legal battle is raging over manuscripts written by the antisemitic writer Louis-Ferdinand Céline that disappeared almost eight decades ago. 
+ <p class="updated_time"> 08:15 PM CT, Oct. 26 </p> 
+ [Sudan coup: Why the army is gambling with the future](https://www.bbc.co.uk/news/world-africa-59050473?at_medium=RSS&at_campaign=KARANGA) BBC: The generals fear they are at risk if civilian rule demands accountability, argues Alex de Waal. 
+ <p class="updated_time"> 07:47 PM CT, Oct. 26 </p> 
+ [Lebanon: Beirut violence fuels fears of return to civil war](https://www.bbc.co.uk/news/world-middle-east-59035123?at_medium=RSS&at_campaign=KARANGA) BBC: A deadly flare-up shows how Lebanon's festering tensions could spiral into all-out conflict again. 
+ <p class="updated_time"> 07:40 PM CT, Oct. 26 </p> 
+ [Mort Sahl: Legendary comedian and satirist dies at age 94](https://www.bbc.co.uk/news/world-us-canada-59058489?at_medium=RSS&at_campaign=KARANGA) BBC: His political satire spared no side and revolutionised how stand-up comedy is now performed. 
+ <p class="updated_time"> 07:29 PM CT, Oct. 26 </p> 
+ [Brazil senators back criminal charges against Bolsonaro over Covid handling](https://www.bbc.co.uk/news/world-latin-america-59051105?at_medium=RSS&at_campaign=KARANGA) BBC: A Brazilian senate inquiry recommends the president face charges for his handling of the pandemic. 
  <p class="updated_time"> 07:00 PM CT, Oct. 26 </p> 
  [2 Days After Cricket Victory Over India, Pakistan Still Feels the High](https://www.nytimes.com/2021/10/26/world/asia/pakistan-cricket-victory-india.html) NYT: The nation is experiencing a much-needed burst of joy after it unexpectedly beat India in a cricket match in Dubai. 
  <p class="updated_time"> 06:41 PM CT, Oct. 26 </p> 
@@ -75,7 +85,7 @@ permalink: /charts/news/
  <p class="updated_time"> 10:20 AM CT, Oct. 26 </p> 
  [Manchester Arena bombing: Exclusive images of extradition of Hashem Abedi](https://www.bbc.co.uk/news/uk-59054530?at_medium=RSS&at_campaign=KARANGA) BBC: Watch as Hashem Abedi, the brother of the Manchester Arena bomber, is sent to Britain for trial. 
  <p class="updated_time"> 10:00 AM CT, Oct. 26 </p> 
- [Queen Elizabeth Cancels Trip to Glasgow for COP26 Summit After Advice to Rest](https://www.wsj.com/articles/queen-elizabeth-cancels-cop26-visit-after-advice-to-rest-11635274810) WSJ: Doctors urge the monarch not to travel to Scotland for the climate conference following her brief hospitalization last week and the cancelation of a trip to Northern Ireland. 
+ [Queen Elizabeth Cancels Trip to Glasgow for COP26 Summit After Advice to Rest](https://www.wsj.com/articles/queen-elizabeth-cancels-cop26-visit-after-advice-to-rest-11635274810) WSJ: Doctors urge the monarch not to travel to Scotland for the climate conference following her brief hospitalization last week and the cancellation of a trip to Northern Ireland. 
  <p class="updated_time"> 09:30 AM CT, Oct. 26 </p> 
  [Sudan Military Coup Leaves No Clear Path Out of Political, Economic Crises](https://www.wsj.com/articles/sudan-military-coup-leaves-no-clear-path-out-of-nations-political-economic-crises-11635272325) WSJ: Pro-democracy protesters vowed continued resistance to military takeover of transitional government that followed Bashir dictatorship. 
  <p class="updated_time"> 09:22 AM CT, Oct. 26 </p> 
@@ -84,12 +94,8 @@ permalink: /charts/news/
  [China Locks Down City of 4 Million to Subdue Covid Outbreak](https://www.nytimes.com/2021/10/26/world/asia/covid-china-lanzhou-lockdown.html) NYT: Lanzhou, with about four million people, reported six new coronavirus cases on Tuesday, and a total of 39 over the past week. 
  <p class="updated_time"> 08:50 AM CT, Oct. 26 </p> 
  [Moderna to Sell Up to 110 Million Covid Vaccine Doses to African Countries](https://www.nytimes.com/2021/10/26/world/africa/covid-moderna-african-union.html) NYT: Moderna’s shots have previously gone almost entirely to wealthier countries. 
- <p class="updated_time"> 08:31 AM CT, Oct. 26 </p> 
- [Brazil senators to vote on damning Covid report](https://www.bbc.co.uk/news/world-latin-america-59051105?at_medium=RSS&at_campaign=KARANGA) BBC: The report says that President Bolsonaro should be accused of crimes over his handling of the pandemic. 
  <p class="updated_time"> 08:15 AM CT, Oct. 26 </p> 
  [Climate change: UN emissions gap report a 'thundering wake-up call'](https://www.bbc.co.uk/news/science-environment-59049770?at_medium=RSS&at_campaign=KARANGA) BBC: Current carbon-cutting plans from nations would lead the world to climate catastrophe, says the UN. 
- <p class="updated_time"> 08:13 AM CT, Oct. 26 </p> 
- [Céline's Newly Unearthed Work Causes a Stir in France](https://www.nytimes.com/2021/10/26/world/europe/celine-manuscripts-france.html) NYT: A legal battle is raging over manuscripts written by the antisemitic writer Louis-Ferdinand Céline that disappeared almost eight decades ago. 
  <p class="updated_time"> 08:05 AM CT, Oct. 26 </p> 
  [Joshua Kimmich: German footballer's vaccine hesitancy dismays experts](https://www.bbc.co.uk/news/world-europe-59048800?at_medium=RSS&at_campaign=KARANGA) BBC: Joshua Kimmich denied he was an "anti-vaxxer" after expressing unease about long-term side effects. 
  <p class="updated_time"> 07:47 AM CT, Oct. 26 </p> 
@@ -140,8 +146,6 @@ permalink: /charts/news/
  [Fleeing Afghanistan: 'Women are imprisoned, while the criminals are free'](https://www.bbc.co.uk/news/world-asia-59009470?at_medium=RSS&at_campaign=KARANGA) BBC: When Afghanistan fell, hundreds of female judges went into hiding. After months living in fear, 26 have escaped. 
  <p class="updated_time"> 07:08 PM CT, Oct. 25 </p> 
  [Eitan Biran Custody Ruling Issued by Israeli Court](https://www.nytimes.com/2021/10/25/world/middleeast/eitan-biran-israel-court.html) NYT: Eitan Biran, the 6-year-old survivor of a cable car accident in Italy, should live there with his aunt, not his grandfather in Israel, ruled a judge in Tel Aviv. 
- <p class="updated_time"> 06:45 PM CT, Oct. 25 </p> 
- [The Harder They Fall: 'Raising hell' in Netflix's all-black Western](https://www.bbc.co.uk/news/entertainment-arts-58765908?at_medium=RSS&at_campaign=KARANGA) BBC: London-born Jeymes Samuel directs Regina King and Idris Elba in The Harder They Fall. 
  <p class="updated_time"> 06:01 PM CT, Oct. 25 </p> 
  [Climate change: Sir David Attenborough in 'act now' warning](https://www.bbc.co.uk/news/science-environment-59039485?at_medium=RSS&at_campaign=KARANGA) BBC: "If we don't act now, it'll be too late," warns Sir David Attenborough ahead of the COP26 climate summit. 
  <p class="updated_time"> 05:37 PM CT, Oct. 25 </p> 
@@ -156,8 +160,6 @@ permalink: /charts/news/
  [The Rich World’s Promise of $100 Billion in Climate Aid Inches Forward](https://www.nytimes.com/2021/10/25/climate/100-billion-climate-aid-cop26.html) NYT: Diplomats announced a plan to make good on an unkept promise of climate aid, a key point of tension in upcoming global climate talks. 
  <p class="updated_time"> 11:35 AM CT, Oct. 25 </p> 
  [How 4 Weeks of U.S. Paid Leave Would Compare With the Rest of the World](https://www.nytimes.com/2021/10/25/upshot/paid-leave-democrats.html) NYT: The U.S. is one of six countries with no national paid leave. The Democrats have cut their plan to four weeks, which would still make it an outlier. 
- <p class="updated_time"> 11:19 AM CT, Oct. 25 </p> 
- [Alec Baldwin film tragedy: What are the rules for guns on movie sets?](https://www.bbc.co.uk/news/entertainment-arts-59035488?at_medium=RSS&at_campaign=KARANGA) BBC: The regulations are under scrutiny after the death of a film-maker on the set of an Alec Baldwin film. 
  <p class="updated_time"> 11:10 AM CT, Oct. 25 </p> 
  [COP26: What is the Glasgow climate conference and why is it important?](https://www.bbc.co.uk/news/science-environment-56901261?at_medium=RSS&at_campaign=KARANGA) BBC: A crucial climate change summit is being held in the UK - this is why it's important. 
  <p class="updated_time"> 09:23 AM CT, Oct. 25 </p> 
