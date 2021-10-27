@@ -6,6 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 03:21 PM CT, Oct. 27 </p> 
+ [Your Thursday Briefing](https://www.nytimes.com/2021/10/27/briefing/merck-covid-pill-japan-elections.html) NYT: A Covid pill could help hundreds of countries. 
  <p class="updated_time"> 02:48 PM CT, Oct. 27 </p> 
  [B.J. Novak’s Face Is on Products Worldwide. He’s Not Sure Why.](https://www.nytimes.com/2021/10/27/business/bj-novak-photo-public-domain-products.html) NYT: Someone put his image into the public domain, and now the actor and writer appears on an eclectic mix of products from China to Uruguay. “I am too amused to do anything about it,” he said on Instagram. 
  <p class="updated_time"> 02:29 PM CT, Oct. 27 </p> 
@@ -188,8 +190,6 @@ permalink: /charts/news/
  [Turkish President Steps Back From Expulsions of 10 Western Diplomats](https://www.nytimes.com/2021/10/25/world/europe/erdogan-turkey-ambassador.html) NYT: The threatened expulsions had risked severe economic consequences and a rupture in the North Atlantic Treaty Organization. 
  <p class="updated_time"> 11:10 AM CT, Oct. 25 </p> 
  [COP26: What is the Glasgow climate conference and why is it important?](https://www.bbc.co.uk/news/science-environment-56901261?at_medium=RSS&at_campaign=KARANGA) BBC: A crucial climate change summit is being held in the UK - this is why it's important. 
- <p class="updated_time"> 09:05 AM CT, Oct. 25 </p> 
- [Behold, the Worm Blob and Its Computerized Twin](https://www.nytimes.com/2021/10/25/science/worm-blobs.html) NYT: It wriggles. It pulls. It falls apart and comes back together. It is everything you wish for and everything you fear. 
  <p class="updated_time"> 07:00 PM CT, Oct. 24 </p> 
  [Climate change: The environmental disasters we've almost fixed](https://www.bbc.co.uk/news/science-environment-58874831?at_medium=RSS&at_campaign=KARANGA) BBC: From acid rain to the ozone hole: Can we learn from the environmental "success stories" of the past? 
 
