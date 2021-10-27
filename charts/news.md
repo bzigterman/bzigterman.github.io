@@ -6,6 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 03:43 AM CT, Oct. 27 </p> 
+ [Japan’s Communists Are Hardly Radical, but Make a Handy Election Target](https://www.nytimes.com/2021/10/27/world/asia/japan-election-communist-party.html) NYT: They have minimal support in polls. But by teaming up with other opposition parties for the first time, they have been made a boogeyman by the unpopular party in power. 
  <p class="updated_time"> 03:15 AM CT, Oct. 27 </p> 
  [Brazil senators back criminal charges against Bolsonaro over Covid handling](https://www.bbc.co.uk/news/world-latin-america-59051105?at_medium=RSS&at_campaign=KARANGA) BBC: Senators in Brazil vote to recommend charging the president over his handling of the pandemic. 
  <p class="updated_time"> 02:42 AM CT, Oct. 27 </p> 
@@ -16,8 +18,6 @@ permalink: /charts/news/
  [Mort Sahl: Legendary comedian and satirist dies at age 94](https://www.bbc.co.uk/news/world-us-canada-59058489?at_medium=RSS&at_campaign=KARANGA) BBC: His political satire spared no side and revolutionised how stand-up comedy is now performed. 
  <p class="updated_time"> 12:51 AM CT, Oct. 27 </p> 
  [Your Wednesday Briefing](https://www.nytimes.com/2021/10/26/briefing/climate-glasgow-un-myanmar-pakistan-cricket.html) NYT: ‘Imminent peril’ from global warming. 
- <p class="updated_time"> 12:12 AM CT, Oct. 27 </p> 
- [Japan’s Communists Are Hardly Radical, but Make a Handy Election Target](https://www.nytimes.com/2021/10/27/world/asia/japan-election-communist-party.html) NYT: They have minimal support in polls. But by teaming up with other opposition parties for the first time, they have been made a boogeyman by the unpopular party in power. 
  <p class="updated_time"> 11:04 PM CT, Oct. 26 </p> 
  [Your Wednesday Briefing](https://www.nytimes.com/2021/10/27/briefing/climate-change-children-vaccines.html) NYT: Emissions plans fall short. 
  <p class="updated_time"> 10:12 PM CT, Oct. 26 </p> 
