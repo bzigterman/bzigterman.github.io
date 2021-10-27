@@ -6,6 +6,10 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 06:19 PM CT, Oct. 27 </p> 
+ [Climate change: Can India meet its targets?](https://www.bbc.co.uk/news/world-asia-india-58922398?at_medium=RSS&at_campaign=KARANGA) BBC: As a major global climate summit approaches, is the Indian government on track to meet its own commitments? 
+ <p class="updated_time"> 06:15 PM CT, Oct. 27 </p> 
+ [Covid passes set to stay as Europe heads for winter](https://www.bbc.co.uk/news/world-europe-58973334?at_medium=RSS&at_campaign=KARANGA) BBC: There have been protests but much of Europe has accepted the QR codes as a means of extending freedoms. 
  <p class="updated_time"> 06:02 PM CT, Oct. 27 </p> 
  [Ruth Negga on her latest role – as a black woman passing as white](https://www.bbc.co.uk/news/entertainment-arts-59067060?at_medium=RSS&at_campaign=KARANGA) BBC: Based on the 1929 book by Nella Larsen, the film tells the story of childhood friends who meet in later life. 
  <p class="updated_time"> 05:57 PM CT, Oct. 27 </p> 
@@ -118,18 +122,12 @@ permalink: /charts/news/
  [Céline's Newly Unearthed Work Causes a Stir in France](https://www.nytimes.com/2021/10/26/world/europe/celine-manuscripts-france.html) NYT: A legal battle is raging over manuscripts written by the antisemitic writer Louis-Ferdinand Céline that disappeared almost eight decades ago. 
  <p class="updated_time"> 08:15 PM CT, Oct. 26 </p> 
  [Sudan coup: Why the army is gambling with the future](https://www.bbc.co.uk/news/world-africa-59050473?at_medium=RSS&at_campaign=KARANGA) BBC: The generals fear they are at risk if civilian rule demands accountability, argues Alex de Waal. 
- <p class="updated_time"> 07:47 PM CT, Oct. 26 </p> 
- [Lebanon: Beirut violence fuels fears of return to civil war](https://www.bbc.co.uk/news/world-middle-east-59035123?at_medium=RSS&at_campaign=KARANGA) BBC: A deadly flare-up shows how Lebanon's festering tensions could spiral into all-out conflict again. 
  <p class="updated_time"> 07:00 PM CT, Oct. 26 </p> 
  [2 Days After Cricket Victory Over India, Pakistan Still Feels the High](https://www.nytimes.com/2021/10/26/world/asia/pakistan-cricket-victory-india.html) NYT: The nation is experiencing a much-needed burst of joy after it unexpectedly beat India in a cricket match in Dubai. 
  <p class="updated_time"> 06:41 PM CT, Oct. 26 </p> 
  [Justin Trudeau Introduces 'Reinvigorated' Cabinet](https://www.nytimes.com/2021/10/26/world/canada/justin-trudeau-cabinet.html) NYT: The Canadian prime minister failed to gain a majority in Parliament last month but acted otherwise when unveiling his new cabinet. 
- <p class="updated_time"> 06:39 PM CT, Oct. 26 </p> 
- [Alex Clare: The singer who chose his faith over Adele tour](https://www.bbc.co.uk/news/entertainment-arts-59007454?at_medium=RSS&at_campaign=KARANGA) BBC: Alex Clare on record label ultimatums and a hopeful return to a kinder music industry. 
  <p class="updated_time"> 06:32 PM CT, Oct. 26 </p> 
  [Covid: Charlize Theron wants fairer distribution of vaccines](https://www.bbc.co.uk/news/world-africa-59054894?at_medium=RSS&at_campaign=KARANGA) BBC: The actress tells the BBC nations must start sharing jabs to help reach the WHO's vaccination goals. 
- <p class="updated_time"> 06:29 PM CT, Oct. 26 </p> 
- [Malkhan Singh: The surrender of India's bandit king](https://www.bbc.co.uk/news/world-asia-india-58831394?at_medium=RSS&at_campaign=KARANGA) BBC: Forty years ago, a photographer spent a week following India's dreaded "bandit king" Malkhan Singh. 
  <p class="updated_time"> 06:27 PM CT, Oct. 26 </p> 
  [Roh Tae-woo, 88, South Korean Leader in Move Toward Democracy, Dies](https://www.nytimes.com/2021/10/26/world/asia/roh-tae-woo-dies.html) NYT: He played a role in a bloody crackdown on pro-democracy protesters in 1980, then oversaw his country’s winning 1988 Olympics bid. He was later mired in legal trouble. 
  <p class="updated_time"> 06:10 PM CT, Oct. 26 </p> 
