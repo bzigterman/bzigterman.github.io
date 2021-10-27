@@ -8,6 +8,8 @@ permalink: /charts/news/
 
  <p class="updated_time"> 09:28 PM CT, Oct. 26 </p> 
  [Huma Abedin: Clinton aide details sex assault by US senator](https://www.bbc.co.uk/news/world-us-canada-59059289?at_medium=RSS&at_campaign=KARANGA) BBC: In a new book, Huma Abedin says she was assaulted after a senator invited her into his home. 
+ <p class="updated_time"> 09:19 PM CT, Oct. 26 </p> 
+ [Covid: Australia to end ban on citizens leaving country](https://www.bbc.co.uk/news/world-australia-59058945?at_medium=RSS&at_campaign=KARANGA) BBC: For the first time in 19 months, Australians will not need an exemption to travel overseas. 
  <p class="updated_time"> 08:55 PM CT, Oct. 26 </p> 
  [Moldova: Russia threatens gas supply in Europe's poorest state](https://www.bbc.co.uk/news/world-europe-59048894?at_medium=RSS&at_campaign=KARANGA) BBC: Moldova has made history by buying gas from somewhere other than Russia. How will the Kremlin react? 
  <p class="updated_time"> 08:21 PM CT, Oct. 26 </p> 
@@ -68,8 +70,6 @@ permalink: /charts/news/
  [Charlottesville: Why are the ‘Unite the Right’ organisers on trial?](https://www.bbc.co.uk/news/world-us-canada-59054166?at_medium=RSS&at_campaign=KARANGA) BBC: Nine people injured at the 2017 far-right 'Unite the Right' rally in Virginia are suing organisers. 
  <p class="updated_time"> 11:57 AM CT, Oct. 26 </p> 
  [Catania: Floods swamp city centre streets as rare storm hits Sicily](https://www.bbc.co.uk/news/world-europe-59054531?at_medium=RSS&at_campaign=KARANGA) BBC: At least two people have died amid flooding caused by a rare storm in the city of Catania. 
- <p class="updated_time"> 11:55 AM CT, Oct. 26 </p> 
- [Catania: Two dead as rare storm floods streets of Sicilian city](https://www.bbc.co.uk/news/world-europe-59048809?at_medium=RSS&at_campaign=KARANGA) BBC: The mayor orders people to stay at home as floods engulf the streets of Catania in southern Italy. 
  <p class="updated_time"> 11:50 AM CT, Oct. 26 </p> 
  [Princess Mako's Royal Wedding in Japan Goes Off With Little Fanfare](https://www.nytimes.com/2021/10/25/world/asia/japan-royal-wedding-princess-mako.html) NYT: The torturous path to marriage for Princess Mako of Japan, who gave up her title to marry a commoner, leads to a registry office in Tokyo and most likely a life abroad. 
  <p class="updated_time"> 11:49 AM CT, Oct. 26 </p> 
@@ -87,7 +87,7 @@ permalink: /charts/news/
  <p class="updated_time"> 10:20 AM CT, Oct. 26 </p> 
  [Manchester Arena bombing: Exclusive images of extradition of Hashem Abedi](https://www.bbc.co.uk/news/uk-59054530?at_medium=RSS&at_campaign=KARANGA) BBC: Watch as Hashem Abedi, the brother of the Manchester Arena bomber, is sent to Britain for trial. 
  <p class="updated_time"> 10:00 AM CT, Oct. 26 </p> 
- [Queen Elizabeth Cancels Trip to Glasgow for COP26 Summit After Advice to Rest](https://www.wsj.com/articles/queen-elizabeth-cancels-cop26-visit-after-advice-to-rest-11635274810) WSJ: Doctors urge the monarch not to travel to Scotland for the climate conference following her brief hospitalization last week and the cancellation of a trip to Northern Ireland. 
+ [Queen Elizabeth Cancels COP26 Trip After Advice to Rest](https://www.wsj.com/articles/queen-elizabeth-cancels-cop26-visit-after-advice-to-rest-11635274810) WSJ: Doctors urge the monarch not to travel to Scotland for the climate conference following her brief hospitalization last week and the cancellation of a trip to Northern Ireland. 
  <p class="updated_time"> 09:30 AM CT, Oct. 26 </p> 
  [Sudan Military Coup Leaves No Clear Path Out of Political, Economic Crises](https://www.wsj.com/articles/sudan-military-coup-leaves-no-clear-path-out-of-nations-political-economic-crises-11635272325) WSJ: Pro-democracy protesters vowed continued resistance to military takeover of transitional government that followed Bashir dictatorship. 
  <p class="updated_time"> 09:22 AM CT, Oct. 26 </p> 
