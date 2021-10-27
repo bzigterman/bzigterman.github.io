@@ -6,12 +6,18 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 04:03 AM CT, Oct. 27 </p> 
+ [Australians will soon be allowed to freely travel abroad if they are fully vaccinated.](https://www.nytimes.com/2021/10/27/world/australia/australia-travel-abroad-vaccination.html) NYT: The eased restrictions will be the first stage in the country’s plan to reopen its borders since slamming them shut in 2020, separating families and leaving thousands stranded overseas. 
+ <p class="updated_time"> 04:00 AM CT, Oct. 27 </p> 
+ [He Won the Nobel. Why Are His Books So Hard to Find?](https://www.nytimes.com/2021/10/27/books/abdulrazak-gurnah-nobel-prize-literature-afterlives.html) NYT: After Abdulrazak Gurnah was awarded this year’s Nobel Prize in Literature, he instantly gained a wider international audience, something publishers are now scrambling to accommodate. 
+ <p class="updated_time"> 04:00 AM CT, Oct. 27 </p> 
+ [Pastries and Persuasion: How a Global Tax Deal Got Done](https://www.nytimes.com/2021/10/27/us/politics/pastries-and-persuasion-how-a-global-tax-deal-got-done.html) NYT: Over Zoom calls from basements and a breakfast in Brussels, faltering negotiations to remake the world’s tax architecture were revived. 
+ <p class="updated_time"> 04:00 AM CT, Oct. 27 </p> 
+ [Gangs Rule Much of Haiti. For Many, It Means No Fuel, No Power, No Food.](https://www.nytimes.com/2021/10/27/world/americas/haiti-gangs-fuel-shortage.html) NYT: A country in crisis is facing a severe fuel shortage that is pushing it to the brink of collapse. 
  <p class="updated_time"> 03:43 AM CT, Oct. 27 </p> 
  [Japan’s Communists Are Hardly Radical, but Make a Handy Election Target](https://www.nytimes.com/2021/10/27/world/asia/japan-election-communist-party.html) NYT: They have minimal support in polls. But by teaming up with other opposition parties for the first time, they have been made a boogeyman by the unpopular party in power. 
  <p class="updated_time"> 03:15 AM CT, Oct. 27 </p> 
  [Brazil senators back criminal charges against Bolsonaro over Covid handling](https://www.bbc.co.uk/news/world-latin-america-59051105?at_medium=RSS&at_campaign=KARANGA) BBC: Senators in Brazil vote to recommend charging the president over his handling of the pandemic. 
- <p class="updated_time"> 02:42 AM CT, Oct. 27 </p> 
- [Brazilian senators vote to seek 9 criminal charges against Bolsonaro.](https://www.nytimes.com/2021/10/26/world/americas/brazil-bolsonaro-criminal-charges.html) NYT: A report accused President Jair Bolsonaro of causing thousands of unnecessary deaths by discouraging masks, ignoring offers of vaccines and promoting ineffective drugs. 
  <p class="updated_time"> 02:39 AM CT, Oct. 27 </p> 
  [Josh Cavallo: 'I'm a footballer and I'm gay,' says Australian player](https://www.bbc.co.uk/news/newsbeat-59060323?at_medium=RSS&at_campaign=KARANGA) BBC: The Adelaide United player has become the only current male professional footballer to do so. 
  <p class="updated_time"> 01:50 AM CT, Oct. 27 </p> 
@@ -140,8 +146,6 @@ permalink: /charts/news/
  [German Woman Convicted of a Crime Against Humanity in Death of Yazidi Child](https://www.nytimes.com/2021/10/25/world/europe/germany-isis-yazidi-child.html) NYT: The woman was sentenced to 10 years in prison after a court found that she joined the Islamic State and enslaved a Yazidi mother and child, whom she left to die in the summer heat of Iraq in 2015. 
  <p class="updated_time"> 10:24 PM CT, Oct. 25 </p> 
  [Sudan’s Military Seizes Power, Casting Democratic Transition Into Chaos](https://www.nytimes.com/2021/10/25/world/africa/sudan-military-coup.html) NYT: Civilian and military leaders were supposed to share power after a popular uprising in 2019 overthrew a decades-long dictatorship. On Monday the military detained the civilian prime minister. 
- <p class="updated_time"> 10:20 PM CT, Oct. 25 </p> 
- [How Public Criticism Has Affected Japan's Royal Women](https://www.nytimes.com/2021/10/24/world/asia/japan-princess-mako-mental-health.html) NYT: A princess who will soon marry represents the third generation to suffer intense emotional distress in a country that often consigns women to rigid roles. 
  <p class="updated_time"> 10:12 PM CT, Oct. 25 </p> 
  [Eco-friendly sex: What is it and how does it impact on climate change?](https://www.bbc.co.uk/news/science-environment-59046518?at_medium=RSS&at_campaign=KARANGA) BBC: As more people try to live environmentally friendly lives, how do we make sex more sustainable? 
  <p class="updated_time"> 09:46 PM CT, Oct. 25 </p> 
@@ -194,10 +198,6 @@ permalink: /charts/news/
  [Kenyan Olympian's Husband Is Arrested in Her Killing ](https://www.nytimes.com/2021/10/24/world/africa/agnes-jebet-tirop-stabbing-arrest.html) NYT: Agnes Jebet Tirop, 25, a rising running star, was stabbed to death in her home this month. Her husband has been arrested. 
  <p class="updated_time"> 01:12 PM CT, Oct. 24 </p> 
  [After Early Success, U.S. and Israel Now Lag on Vaccinations](https://www.nytimes.com/2021/10/24/world/united-states-israel-vaccination-rates.html) NYT: The big barrier to higher rates in both countries is stiff resistance among specific groups. 
- <p class="updated_time"> 12:44 PM CT, Oct. 24 </p> 
- [Inside the Decade-Long U.S. Fight Against Al Shabab in Somalia](https://www.nytimes.com/2021/10/24/world/africa/al-shabab-somalia-us-cia.html) NYT: The hunt for an elusive Somali militant illustrates why Al Shabab, despite a decade of American covert action, are at their strongest in years. 
- <p class="updated_time"> 04:00 AM CT, Oct. 24 </p> 
- [A World-Class World Expo](https://www.nytimes.com/2021/10/24/world/world-expo-dubai.html) NYT: The event in Dubai dazzles with extraordinary architectural achievements and a focus on the future of the planet. 
 
 
 
