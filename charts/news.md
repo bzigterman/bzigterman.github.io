@@ -6,6 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 12:39 AM CT, Oct. 27 </p> 
+ [Your Wednesday Briefing](https://www.nytimes.com/2021/10/26/briefing/climate-glasgow-un-myanmar-pakistan-cricket.html) NYT: ‘Imminent peril’ from global warming. 
  <p class="updated_time"> 12:12 AM CT, Oct. 27 </p> 
  [Japan’s Communists Are Hardly Radical, but Make a Handy Election Target](https://www.nytimes.com/2021/10/27/world/asia/japan-election-communist-party.html) NYT: They have minimal support in polls. But by teaming up with other opposition parties for the first time, they have been made a boogeyman by the unpopular party in power. 
  <p class="updated_time"> 11:04 PM CT, Oct. 26 </p> 
@@ -56,8 +58,6 @@ permalink: /charts/news/
  [Covid: FDA officials back Pfizer jab for children over five in US](https://www.bbc.co.uk/news/world-us-canada-59048318?at_medium=RSS&at_campaign=KARANGA) BBC: Health experts say the benefits outweigh the risks and recommend the FDA authorise the vaccine. 
  <p class="updated_time"> 04:15 PM CT, Oct. 26 </p> 
  [Traveling Through a Divided Israel](https://www.nytimes.com/2021/10/25/world/middleeast/israel-jews-palestinians-journey.html) NYT: Two Times journalists drive the length of Israel to discover what it means to be Israeli today. They meet a kaleidoscope of people, searching for belonging but far apart on how to find it. 
- <p class="updated_time"> 03:33 PM CT, Oct. 26 </p> 
- [Your Wednesday Briefing](https://www.nytimes.com/2021/10/26/briefing/climate-glasgow-un-myanmar-pakistan-cricket.html) NYT: ‘Imminent peril’ from global warming. 
  <p class="updated_time"> 03:12 PM CT, Oct. 26 </p> 
  [Canadian PM Justin Trudeau holds major cabinet shakeup](https://www.bbc.co.uk/news/world-us-canada-59015485?at_medium=RSS&at_campaign=KARANGA) BBC: The major shuffle sees changes in portfolios including defence, the environment and foreign affairs. 
  <p class="updated_time"> 03:00 PM CT, Oct. 26 </p> 
