@@ -20,6 +20,8 @@ permalink: /charts/news/
  [Poland told to pay €1m a day in legal row with EU](https://www.bbc.co.uk/news/world-europe-59064883?at_medium=RSS&at_campaign=KARANGA) BBC: The ruling is the latest step in an escalating dispute over Poland's legal reforms. 
  <p class="updated_time"> 03:21 PM CT, Oct. 27 </p> 
  [Your Thursday Briefing](https://www.nytimes.com/2021/10/27/briefing/merck-covid-pill-japan-elections.html) NYT: A Covid pill could help hundreds of countries. 
+ <p class="updated_time"> 02:48 PM CT, Oct. 27 </p> 
+ [Pope Francis to visit Canada for indigenous reconciliation](https://www.bbc.co.uk/news/world-us-canada-59066724?at_medium=RSS&at_campaign=KARANGA) BBC: The visit follows renewed attention on indigenous children who died at residential schools. 
  <p class="updated_time"> 02:29 PM CT, Oct. 27 </p> 
  [Queen Elizabeth Will Skip Climate Summit in Glasgow](https://www.nytimes.com/2021/10/26/world/europe/queen-elizabeth-cop26-summit.html) NYT: The 95-year-old queen, after 70 years on the throne, is the oldest and longest-serving monarch in British history. 
  <p class="updated_time"> 02:24 PM CT, Oct. 27 </p> 
@@ -94,8 +96,6 @@ permalink: /charts/news/
  [The Mushy Middle](https://www.nytimes.com/2021/10/27/briefing/abortion-texas-roe-v-wade.html) NYT: We look at public opinion about abortion in Texas. 
  <p class="updated_time"> 05:27 AM CT, Oct. 27 </p> 
  [Hong Kong passes new film censorship law](https://www.bbc.co.uk/news/world-asia-china-59047633?at_medium=RSS&at_campaign=KARANGA) BBC: Authorities will have the power to ban films deemed to violate China's national security interests. 
- <p class="updated_time"> 05:13 AM CT, Oct. 27 </p> 
- [Sunao Tsuboi: Campaigning Hiroshima survivor dies aged 96](https://www.bbc.co.uk/news/world-asia-59060950?at_medium=RSS&at_campaign=KARANGA) BBC: Sunao Tsuboi met Barack Obama on his historic visit to the site of the world's first nuclear attack. 
  <p class="updated_time"> 05:00 AM CT, Oct. 27 </p> 
  [Spain grants joint custody of dog in rare ruling](https://www.bbc.co.uk/news/world-europe-59062132?at_medium=RSS&at_campaign=KARANGA) BBC: A lawyer calls the ruling pioneering as her client could declare herself as a "co-carer". 
  <p class="updated_time"> 04:00 AM CT, Oct. 27 </p> 
