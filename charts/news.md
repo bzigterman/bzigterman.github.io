@@ -6,6 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 07:00 PM CT, Oct. 26 </p> 
+ [2 Days After Cricket Victory Over India, Pakistan Still Feels the High](https://www.nytimes.com/2021/10/26/world/asia/pakistan-cricket-victory-india.html) NYT: The nation is experiencing a much-needed burst of joy after it unexpectedly beat India in a cricket match in Dubai. 
  <p class="updated_time"> 06:41 PM CT, Oct. 26 </p> 
  [Justin Trudeau Introduces 'Reinvigorated' Cabinet](https://www.nytimes.com/2021/10/26/world/canada/justin-trudeau-cabinet.html) NYT: The Canadian prime minister failed to gain a majority in Parliament last month but acted otherwise when unveiling his new cabinet. 
  <p class="updated_time"> 06:39 PM CT, Oct. 26 </p> 
@@ -16,8 +18,6 @@ permalink: /charts/news/
  [Malkhan Singh: The surrender of India's bandit king](https://www.bbc.co.uk/news/world-asia-india-58831394?at_medium=RSS&at_campaign=KARANGA) BBC: Forty years ago, a photographer spent a week following India's dreaded "bandit king" Malkhan Singh. 
  <p class="updated_time"> 06:27 PM CT, Oct. 26 </p> 
  [Roh Tae-woo, 88, South Korean Leader in Move Toward Democracy, Dies](https://www.nytimes.com/2021/10/26/world/asia/roh-tae-woo-dies.html) NYT: He played a role in a bloody crackdown on pro-democracy protesters in 1980, then oversaw his country’s winning 1988 Olympics bid. He was later mired in legal trouble. 
- <p class="updated_time"> 06:22 PM CT, Oct. 26 </p> 
- [2 Days After Cricket Victory Over India, Pakistan Still Feels the High](https://www.nytimes.com/2021/10/26/world/asia/pakistan-cricket-victory-india.html) NYT: The nation is experiencing a much-needed burst of joy after it unexpectedly beat India in a cricket match in Dubai. 
  <p class="updated_time"> 06:10 PM CT, Oct. 26 </p> 
  [Life at 50C: Surviving in Kuwait's 'unbearable' heat](https://www.bbc.co.uk/news/world-middle-east-59054893?at_medium=RSS&at_campaign=KARANGA) BBC: The Middle East is warming faster than much of the world, leaving Kuwaitis struggling with everyday life. 
  <p class="updated_time"> 06:08 PM CT, Oct. 26 </p> 
@@ -40,6 +40,8 @@ permalink: /charts/news/
  [Canadian PM Justin Trudeau holds major cabinet shakeup](https://www.bbc.co.uk/news/world-us-canada-59015485?at_medium=RSS&at_campaign=KARANGA) BBC: The major shuffle sees changes in portfolios including defence, the environment and foreign affairs. 
  <p class="updated_time"> 03:00 PM CT, Oct. 26 </p> 
  [Queen Elizabeth Will Skip Climate Summit in Glasgow](https://www.nytimes.com/2021/10/26/world/europe/queen-elizabeth-cop26-summit.html) NYT: The 95-year-old queen, after 70 years on the throne, is the oldest and longest-serving monarch in British history. 
+ <p class="updated_time"> 02:54 PM CT, Oct. 26 </p> 
+ [New Zealand Expands Vaccine Mandate to Cover 40 Percent of Workers](https://www.nytimes.com/2021/10/26/world/asia/covid-new-zealand-vaccine-mandate.html) NYT: The rule will cover employees at restaurants, gyms, bars and hair salons. 
  <p class="updated_time"> 02:29 PM CT, Oct. 26 </p> 
  [Sudan army seized power to prevent civil war - coup leader](https://www.bbc.co.uk/news/world-africa-59052260?at_medium=RSS&at_campaign=KARANGA) BBC: Gen Burhan also said he had taken the deposed prime minister to his house "for his own safety." 
  <p class="updated_time"> 02:18 PM CT, Oct. 26 </p> 
@@ -96,6 +98,8 @@ permalink: /charts/news/
  [A Jewish Far-Right Pundit Splits the French Jewish Community as He Rises](https://www.nytimes.com/2021/10/25/world/europe/eric-zemmour-france-jewish-bernard-henri-levy.html) NYT: Éric Zemmour, eyeing the presidency, tries to rehabilitate the wartime Vichy regime that collaborated with the Nazis as part of a campaign filled with provocations. 
  <p class="updated_time"> 07:40 AM CT, Oct. 26 </p> 
  [U.S. Halts Aid to Sudan Government After Coup](https://www.nytimes.com/2021/10/25/world/africa/us-aid-frozen-sudan.html) NYT: The Biden administration, calling for immediate restoration of the transition government, froze $700 million in direct aid. 
+ <p class="updated_time"> 06:27 AM CT, Oct. 26 </p> 
+ [Can Lego help save Singapore's coral reefs?](https://www.bbc.co.uk/news/world-asia-58784313?at_medium=RSS&at_campaign=KARANGA) BBC: Scientists in Singapore are using the popular building block in an effort to rejuvenate its reefs. 
  <p class="updated_time"> 05:24 AM CT, Oct. 26 </p> 
  [Sudan coup: Are military takeovers on the rise in Africa?](https://www.bbc.co.uk/news/world-africa-46783600?at_medium=RSS&at_campaign=KARANGA) BBC: Despite a series of coups in Africa recently, the longer-term trend for military takeovers is downwards. 
  <p class="updated_time"> 05:18 AM CT, Oct. 26 </p> 
@@ -106,8 +110,6 @@ permalink: /charts/news/
  [China's Energy Crisis Complicates Its Plans for Announcements Ahead of COP26](https://www.wsj.com/articles/chinas-energy-crisis-complicates-its-plans-for-climate-announcements-ahead-of-cop26-11635252471) WSJ: The worst power shortage in two decades is squeezing Chinese leaders between international climate expectations and the need to heat households in winter and keep factories going. 
  <p class="updated_time"> 03:40 AM CT, Oct. 26 </p> 
  [Australia Pledges ‘Net Zero’ Emissions by 2050. Its Plan Makes That Hard to Believe.](https://www.nytimes.com/2021/10/26/world/australia/net-zero-delay.html) NYT: The country’s last-minute commitment before next week’s climate summit is built on hope for new technology, and little else. 
- <p class="updated_time"> 02:50 AM CT, Oct. 26 </p> 
- [Japan's Princess Mako finally marries commoner boyfriend Kei Komuro](https://www.bbc.co.uk/news/world-asia-59046476?at_medium=RSS&at_campaign=KARANGA) BBC: She will lose her royal status and has declined a $1.3m payment for leaving the family. 
  <p class="updated_time"> 02:46 AM CT, Oct. 26 </p> 
  [Taiwan Gains Favor in Europe's East, Angering China](https://www.wsj.com/articles/taiwan-gains-favor-in-europes-east-angering-china-11635248811) WSJ: The intensifying links mirror tensions between the West and China over trade, military and human-rights issues. They also highlight differences within the West in how to approach an increasingly assertive China. 
  <p class="updated_time"> 02:22 AM CT, Oct. 26 </p> 
@@ -162,10 +164,10 @@ permalink: /charts/news/
  [Singer Ed Sheeran Tests Positive for Coronavirus](https://www.nytimes.com/2021/10/24/arts/music/ed-sheeran-covid-positive.html) NYT: Mr. Sheeran said he would cancel upcoming public appearances while he is “self-isolating and following government guidelines.” 
  <p class="updated_time"> 09:05 AM CT, Oct. 25 </p> 
  [Behold, the Worm Blob and Its Computerized Twin](https://www.nytimes.com/2021/10/25/science/worm-blobs.html) NYT: It wriggles. It pulls. It falls apart and comes back together. It is everything you wish for and everything you fear. 
+ <p class="updated_time"> 06:09 AM CT, Oct. 25 </p> 
+ [Afghan baby girl sold for $500 by starving family](https://www.bbc.co.uk/news/world-asia-59034650?at_medium=RSS&at_campaign=KARANGA) BBC: The BBC’s Yogita Limaye witnesses first-hand the extreme poverty engulfing millions in Afghanistan. 
  <p class="updated_time"> 05:44 AM CT, Oct. 25 </p> 
  [Picking Their Fights](https://www.nytimes.com/2021/10/25/briefing/biden-congress-democrats-spending-bill.html) NYT: Creating temporary government programs could have big political benefits for Democrats. 
- <p class="updated_time"> 04:57 AM CT, Oct. 25 </p> 
- [As Hong Kong’s Civil Society Buckles, One Group Tries to Hold On](https://www.nytimes.com/2021/10/24/world/asia/hong-kong-civil-society.html) NYT: Unions and other organizations have dissolved after facing pressure under a new security law. The Hong Kong Journalists Association is hoping it can avoid that fate. 
  <p class="updated_time"> 04:00 AM CT, Oct. 25 </p> 
  [Inside the Thai Temple Where Tattoos Come to Life](https://www.nytimes.com/2021/10/25/travel/sak-yant-tattoo-thailand.html) NYT: Wat Bang Phra, a temple in central Thailand, is renowned as a center for sak yant, a style of tattoo art believed by some to convey protective powers. 
  <p class="updated_time"> 01:20 AM CT, Oct. 25 </p> 
