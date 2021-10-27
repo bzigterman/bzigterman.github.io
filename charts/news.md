@@ -6,6 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 06:18 AM CT, Oct. 27 </p> 
+ [South Korea to Strictly Enforce Covid Rules on Halloween](https://www.nytimes.com/live/2021/10/27/world/covid-vaccine-boosters/south-korea-covid-halloween) NYT: The authorities are worried that the festivities could threaten the country’s reopening plans next month. 
  <p class="updated_time"> 05:30 AM CT, Oct. 27 </p> 
  [The Mushy Middle](https://www.nytimes.com/2021/10/27/briefing/abortion-texas-roe-v-wade.html) NYT: We look at public opinion about abortion in Texas. 
  <p class="updated_time"> 05:27 AM CT, Oct. 27 </p> 
@@ -192,8 +194,6 @@ permalink: /charts/news/
  [Climate change: The environmental disasters we've almost fixed](https://www.bbc.co.uk/news/science-environment-58874831?at_medium=RSS&at_campaign=KARANGA) BBC: From acid rain to the ozone hole: Can we learn from the environmental "success stories" of the past? 
  <p class="updated_time"> 04:04 PM CT, Oct. 24 </p> 
  [Your Monday Briefing](https://www.nytimes.com/2021/10/24/briefing/your-monday-briefing.html) NYT: Facebook spreads misinformation in India. 
- <p class="updated_time"> 01:51 PM CT, Oct. 24 </p> 
- [Kenyan Olympian's Husband Is Arrested in Her Killing ](https://www.nytimes.com/2021/10/24/world/africa/agnes-jebet-tirop-stabbing-arrest.html) NYT: Agnes Jebet Tirop, 25, a rising running star, was stabbed to death in her home this month. Her husband has been arrested. 
 
 
 
