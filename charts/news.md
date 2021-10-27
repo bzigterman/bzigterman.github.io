@@ -6,10 +6,12 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 05:14 PM CT, Oct. 27 </p> 
+ [Sudan coup: World Bank suspends aid after military takeover](https://www.bbc.co.uk/news/world-africa-59066654?at_medium=RSS&at_campaign=KARANGA) BBC: Pressure mounts on the military to restore civilian rule as international bodies respond. 
+ <p class="updated_time"> 05:03 PM CT, Oct. 27 </p> 
+ [B.J. Novak’s Face Is on Products Worldwide. He’s Not Sure Why.](https://www.nytimes.com/2021/10/27/business/bj-novak-photo-public-domain-products.html) NYT: An image of the actor appears on an eclectic mix of products from China to Uruguay. “I am too amused to do anything about it,” he said on Instagram. 
  <p class="updated_time"> 04:50 PM CT, Oct. 27 </p> 
  [Alec Baldwin shooting: Sheriff describes film set 'complacency'](https://www.bbc.co.uk/news/world-us-canada-59068976?at_medium=RSS&at_campaign=KARANGA) BBC: New Mexico authorities are so far refusing to rule out bringing criminal charges in the case. 
- <p class="updated_time"> 04:42 PM CT, Oct. 27 </p> 
- [B.J. Novak’s Face Is on Products Worldwide. He’s Not Sure Why.](https://www.nytimes.com/2021/10/27/business/bj-novak-photo-public-domain-products.html) NYT: Someone put his image online, and now the actor and writer appears on an eclectic mix of products from China to Uruguay. “I am too amused to do anything about it,” he said on Instagram. 
  <p class="updated_time"> 04:41 PM CT, Oct. 27 </p> 
  [Pope Expresses ‘Willingness’ to Visit Canada for Indigenous Reconciliation](https://www.nytimes.com/2021/10/27/world/canada/pope-indigenous-apology.html) NYT: A National Truth and Reconciliation Commission has called for a papal apology for abuses at church-run schools for Indigenous children. 
  <p class="updated_time"> 04:07 PM CT, Oct. 27 </p> 
@@ -34,8 +36,6 @@ permalink: /charts/news/
  [Taliban Allow Girls to Return to Some High Schools, but With Big Caveats](https://www.nytimes.com/2021/10/27/world/asia/afghan-girls-school-taliban.html) NYT: In some provinces, teenage girls have been allowed to return to secondary schools, though some teachers and parents still have doubts about what this means about Taliban rule. 
  <p class="updated_time"> 01:40 PM CT, Oct. 27 </p> 
  [Iran Will Rejoin Nuclear Talks, Top Negotiator Says](https://www.nytimes.com/2021/10/27/world/middleeast/iran-nuclear-talks.html) NYT: Negotiations on reviving the 2015 nuclear accord are to resume in November, but it is unclear if the United States will take part in them. 
- <p class="updated_time"> 01:19 PM CT, Oct. 27 </p> 
- [Sudan coup: World Bank suspends aid after military takeover](https://www.bbc.co.uk/news/world-africa-59066654?at_medium=RSS&at_campaign=KARANGA) BBC: Pressure mounts on the military to restore civilian rule as international bodies respond. 
  <p class="updated_time"> 01:08 PM CT, Oct. 27 </p> 
  [Benin Bronzes: 'My great-grandfather sculpted the looted treasures'](https://www.bbc.co.uk/news/world-africa-59065274?at_medium=RSS&at_campaign=KARANGA) BBC: Nigerians welcome the return of artefacts - including Cambridge University's cockerel - looted in 1897. 
  <p class="updated_time"> 12:57 PM CT, Oct. 27 </p> 
