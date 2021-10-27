@@ -6,6 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 11:04 PM CT, Oct. 26 </p> 
+ [Your Wednesday Briefing](https://www.nytimes.com/2021/10/27/briefing/climate-change-children-vaccines.html) NYT: Emissions plans fall short. 
  <p class="updated_time"> 10:38 PM CT, Oct. 26 </p> 
  [Brazil senators back criminal charges against Bolsonaro over Covid handling](https://www.bbc.co.uk/news/world-latin-america-59051105?at_medium=RSS&at_campaign=KARANGA) BBC: A Brazilian senate inquiry recommends the president face charges for his handling of the pandemic. 
  <p class="updated_time"> 10:12 PM CT, Oct. 26 </p> 
@@ -174,8 +176,6 @@ permalink: /charts/news/
  [Climate change quiz: How can you cut your carbon emissions?](https://www.bbc.co.uk/news/science-environment-58996348?at_medium=RSS&at_campaign=KARANGA) BBC: How much do you know about the steps you could take to help curb climate change? 
  <p class="updated_time"> 11:23 PM CT, Oct. 24 </p> 
  [Your Monday Briefing](https://www.nytimes.com/2021/10/24/briefing/somalia-military-covid-vaccines.html) NYT: A failed playbook in Somalia. 
- <p class="updated_time"> 07:18 PM CT, Oct. 24 </p> 
- [Please Don’t Feed the Whale Sharks? Fishing Town Says It Must, to Prosper.](https://www.nytimes.com/2021/10/24/world/asia/philippines-whale-shark-tourism.html) NYT: The chance to swim with the world’s biggest fish drew tourists to a Philippines town, but conservation groups denounce the hand-feeding that keeps the gentle creatures around. 
  <p class="updated_time"> 07:00 PM CT, Oct. 24 </p> 
  [Climate change: The environmental disasters we've almost fixed](https://www.bbc.co.uk/news/science-environment-58874831?at_medium=RSS&at_campaign=KARANGA) BBC: From acid rain to the ozone hole: Can we learn from the environmental "success stories" of the past? 
  <p class="updated_time"> 06:22 PM CT, Oct. 24 </p> 
