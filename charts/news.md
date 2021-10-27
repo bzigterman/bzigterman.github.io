@@ -6,6 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 06:38 AM CT, Oct. 27 </p> 
+ [Gangs Rule Much of Haiti. For Many, It Means No Fuel, No Power, No Food.](https://www.nytimes.com/2021/10/27/world/americas/haiti-gangs-fuel-shortage.html) NYT: A country in crisis is facing a severe fuel shortage that is pushing it to the brink of collapse. 
  <p class="updated_time"> 06:29 AM CT, Oct. 27 </p> 
  [Sister of Bataclan victim: 'We don't hate you'](https://www.bbc.co.uk/news/world-europe-59062002?at_medium=RSS&at_campaign=KARANGA) BBC: Nick Alexander died at a Paris rock gig during the assault by Islamic State (IS) extremists in 2015. 
  <p class="updated_time"> 06:23 AM CT, Oct. 27 </p> 
@@ -28,8 +30,6 @@ permalink: /charts/news/
  [He Won the Nobel. Why Are His Books So Hard to Find?](https://www.nytimes.com/2021/10/27/books/abdulrazak-gurnah-nobel-prize-literature-afterlives.html) NYT: After Abdulrazak Gurnah was awarded this year’s Nobel Prize in Literature, he instantly gained a wider international audience, something publishers are now scrambling to accommodate. 
  <p class="updated_time"> 04:00 AM CT, Oct. 27 </p> 
  [Pastries and Persuasion: How a Global Tax Deal Got Done](https://www.nytimes.com/2021/10/27/us/politics/global-minimum-tax-deal.html) NYT: Over Zoom calls from basements and a breakfast in Brussels, faltering negotiations to remake the world’s tax architecture were revived. 
- <p class="updated_time"> 04:00 AM CT, Oct. 27 </p> 
- [Gangs Rule Much of Haiti. For Many, It Means No Fuel, No Power, No Food.](https://www.nytimes.com/2021/10/27/world/americas/haiti-gangs-fuel-shortage.html) NYT: A country in crisis is facing a severe fuel shortage that is pushing it to the brink of collapse. 
  <p class="updated_time"> 03:43 AM CT, Oct. 27 </p> 
  [Japan’s Communists Are Hardly Radical, but Make a Handy Election Target](https://www.nytimes.com/2021/10/27/world/asia/japan-election-communist-party.html) NYT: They have minimal support in polls. But by teaming up with other opposition parties for the first time, they have been made a boogeyman by the unpopular party in power. 
  <p class="updated_time"> 03:15 AM CT, Oct. 27 </p> 
