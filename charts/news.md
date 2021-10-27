@@ -55,9 +55,9 @@ permalink: /charts/news/
  <p class="updated_time"> 12:51 AM CT, Oct. 27 </p> 
  [Your Wednesday Briefing](https://www.nytimes.com/2021/10/26/briefing/climate-glasgow-un-myanmar-pakistan-cricket.html) NYT: ‘Imminent peril’ from global warming. 
  <p class="updated_time"> 12:30 AM CT, Oct. 27 </p> 
- [Europe's Push to Loosen Russia's Hold on Gas Prices Bites Back](https://www.wsj.com/articles/europes-push-to-loosen-russian-influence-on-gas-prices-bites-back-11635327001) WSJ: A move to ditch oil-linked gas contracts paid off when gas was in ample supply but will cost EU members an estimated $30 billion this year. 
- <p class="updated_time"> 12:30 AM CT, Oct. 27 </p> 
  [U.S. Takes Bitcoin Mining Crown After China Crackdown](https://www.wsj.com/articles/u-s-takes-bitcoin-mining-crown-after-china-crackdown-11635327002) WSJ: More than a third of the global computing power dedicated to mining bitcoin is now drawn from machines in the U.S., up from less than a fifth last spring. 
+ <p class="updated_time"> 12:30 AM CT, Oct. 27 </p> 
+ [Europe's Push to Loosen Russia's Hold on Gas Prices Bites Back](https://www.wsj.com/articles/europes-push-to-loosen-russian-influence-on-gas-prices-bites-back-11635327001) WSJ: A move to ditch oil-linked gas contracts paid off when gas was in ample supply but will cost EU members an estimated $30 billion this year. 
  <p class="updated_time"> 11:04 PM CT, Oct. 26 </p> 
  [Your Wednesday Briefing](https://www.nytimes.com/2021/10/27/briefing/climate-change-children-vaccines.html) NYT: Emissions plans fall short. 
  <p class="updated_time"> 10:12 PM CT, Oct. 26 </p> 
