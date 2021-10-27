@@ -6,8 +6,12 @@ permalink: /charts/news/
 
 ## World News
 
- <p class="updated_time"> 04:15 AM CT, Oct. 27 </p> 
- [Josh Cavallo: 'I'm a footballer and I'm gay,' says Australian player](https://www.bbc.co.uk/news/newsbeat-59060323?at_medium=RSS&at_campaign=KARANGA) BBC: The Adelaide United player has become the only current male professional footballer to do so. 
+ <p class="updated_time"> 05:00 AM CT, Oct. 27 </p> 
+ [Spain grants joint custody of dog in rare ruling](https://www.bbc.co.uk/news/world-europe-59062132?at_medium=RSS&at_campaign=KARANGA) BBC: A lawyer calls the ruling pioneering as her client could declare herself as a "co-carer". 
+ <p class="updated_time"> 05:00 AM CT, Oct. 27 </p> 
+ [Merck Will Share Formula for its Covid Pill With Poor Countries](https://www.nytimes.com/2021/10/27/health/covid-pill-access-molnupiravir.html) NYT: The company announced a licensing deal that will allow the drug, molnupiravir, to be made and sold cheaply in 105 developing nations. 
+ <p class="updated_time"> 04:50 AM CT, Oct. 27 </p> 
+ [Josh Cavallo: 'I'm a footballer and I'm gay,' says Australian player](https://www.bbc.co.uk/news/newsbeat-59060323?at_medium=RSS&at_campaign=KARANGA) BBC: The Adelaide United footballer has become the only current top-flight male professional to do so. 
  <p class="updated_time"> 04:03 AM CT, Oct. 27 </p> 
  [Australians will soon be allowed to freely travel abroad if they are fully vaccinated.](https://www.nytimes.com/2021/10/27/world/australia/australia-travel-abroad-vaccination.html) NYT: The eased restrictions will be the first stage in the country’s plan to reopen its borders since slamming them shut in 2020, separating families and leaving thousands stranded overseas. 
  <p class="updated_time"> 04:00 AM CT, Oct. 27 </p> 
@@ -68,8 +72,6 @@ permalink: /charts/news/
  [Covid: FDA officials back Pfizer jab for children over five in US](https://www.bbc.co.uk/news/world-us-canada-59048318?at_medium=RSS&at_campaign=KARANGA) BBC: Health experts say the benefits outweigh the risks and recommend the FDA authorise the vaccine. 
  <p class="updated_time"> 04:15 PM CT, Oct. 26 </p> 
  [Traveling Through a Divided Israel](https://www.nytimes.com/2021/10/25/world/middleeast/israel-jews-palestinians-journey.html) NYT: Two Times journalists drive the length of Israel to discover what it means to be Israeli today. They meet a kaleidoscope of people, searching for belonging but far apart on how to find it. 
- <p class="updated_time"> 03:12 PM CT, Oct. 26 </p> 
- [Canadian PM Justin Trudeau holds major cabinet shakeup](https://www.bbc.co.uk/news/world-us-canada-59015485?at_medium=RSS&at_campaign=KARANGA) BBC: The major shuffle sees changes in portfolios including defence, the environment and foreign affairs. 
  <p class="updated_time"> 03:00 PM CT, Oct. 26 </p> 
  [Queen Elizabeth Will Skip Climate Summit in Glasgow](https://www.nytimes.com/2021/10/26/world/europe/queen-elizabeth-cop26-summit.html) NYT: The 95-year-old queen, after 70 years on the throne, is the oldest and longest-serving monarch in British history. 
  <p class="updated_time"> 02:54 PM CT, Oct. 26 </p> 
@@ -78,8 +80,6 @@ permalink: /charts/news/
  [Sudan army seized power to prevent civil war - coup leader](https://www.bbc.co.uk/news/world-africa-59052260?at_medium=RSS&at_campaign=KARANGA) BBC: Gen Burhan also said he had taken the deposed prime minister to his house "for his own safety." 
  <p class="updated_time"> 02:18 PM CT, Oct. 26 </p> 
  [She Climbed Yosemite's El Capitan to Celebrate Turning 70](https://www.nytimes.com/2021/10/26/sports/alex-honnold-mother-el-capitan.html) NYT: Dierdre Wolownick, whose son, Alex Honnold, is one of the world’s top rock climbers, ascended Yosemite’s El Capitan to celebrate her 70th birthday. 
- <p class="updated_time"> 01:57 PM CT, Oct. 26 </p> 
- [Agnes Wanjiru murder: Kenya family's anger over UK army 'cover-up'](https://www.bbc.co.uk/news/world-africa-59051789?at_medium=RSS&at_campaign=KARANGA) BBC: Agnes Wanjiru was murdered nine years ago near a British army base in Kenya. 
  <p class="updated_time"> 01:24 PM CT, Oct. 26 </p> 
  [Ignoring Sanctions, Russia Renews Broad Cybersurveillance Operation](https://www.nytimes.com/2021/10/25/us/politics/russia-cybersurveillance-biden.html) NYT: The new campaign came only months after President Biden imposed sanctions on Moscow in response to a series of spy operations it had conducted around the world. 
  <p class="updated_time"> 12:53 PM CT, Oct. 26 </p> 
@@ -178,8 +178,6 @@ permalink: /charts/news/
  [Singer Ed Sheeran Tests Positive for Coronavirus](https://www.nytimes.com/2021/10/24/arts/music/ed-sheeran-covid-positive.html) NYT: Mr. Sheeran said he would cancel upcoming public appearances while he is “self-isolating and following government guidelines.” 
  <p class="updated_time"> 09:05 AM CT, Oct. 25 </p> 
  [Behold, the Worm Blob and Its Computerized Twin](https://www.nytimes.com/2021/10/25/science/worm-blobs.html) NYT: It wriggles. It pulls. It falls apart and comes back together. It is everything you wish for and everything you fear. 
- <p class="updated_time"> 06:09 AM CT, Oct. 25 </p> 
- [Afghan baby girl sold for $500 by starving family](https://www.bbc.co.uk/news/world-asia-59034650?at_medium=RSS&at_campaign=KARANGA) BBC: The BBC’s Yogita Limaye witnesses first-hand the extreme poverty engulfing millions in Afghanistan. 
  <p class="updated_time"> 05:44 AM CT, Oct. 25 </p> 
  [Picking Their Fights](https://www.nytimes.com/2021/10/25/briefing/biden-congress-democrats-spending-bill.html) NYT: Creating temporary government programs could have big political benefits for Democrats. 
  <p class="updated_time"> 04:00 AM CT, Oct. 25 </p> 
@@ -196,8 +194,6 @@ permalink: /charts/news/
  [Your Monday Briefing](https://www.nytimes.com/2021/10/24/briefing/your-monday-briefing.html) NYT: Facebook spreads misinformation in India. 
  <p class="updated_time"> 01:51 PM CT, Oct. 24 </p> 
  [Kenyan Olympian's Husband Is Arrested in Her Killing ](https://www.nytimes.com/2021/10/24/world/africa/agnes-jebet-tirop-stabbing-arrest.html) NYT: Agnes Jebet Tirop, 25, a rising running star, was stabbed to death in her home this month. Her husband has been arrested. 
- <p class="updated_time"> 01:12 PM CT, Oct. 24 </p> 
- [After Early Success, U.S. and Israel Now Lag on Vaccinations](https://www.nytimes.com/2021/10/24/world/united-states-israel-vaccination-rates.html) NYT: The big barrier to higher rates in both countries is stiff resistance among specific groups. 
 
 
 
