@@ -6,6 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 03:44 PM CT, Oct. 27 </p> 
+ [Poland told to pay €1m a day in legal row with EU](https://www.bbc.co.uk/news/world-europe-59064883?at_medium=RSS&at_campaign=KARANGA) BBC: The ruling is the latest step in an escalating dispute over Poland's legal reforms. 
  <p class="updated_time"> 03:21 PM CT, Oct. 27 </p> 
  [Your Thursday Briefing](https://www.nytimes.com/2021/10/27/briefing/merck-covid-pill-japan-elections.html) NYT: A Covid pill could help hundreds of countries. 
  <p class="updated_time"> 02:48 PM CT, Oct. 27 </p> 
@@ -68,8 +70,6 @@ permalink: /charts/news/
  [Iran blames foreign country for cyberattack on petrol stations](https://www.bbc.co.uk/news/world-middle-east-59062907?at_medium=RSS&at_campaign=KARANGA) BBC: Tuesday's attack crippled a system that lets motorists buy subsidised petrol, causing long queues. 
  <p class="updated_time"> 08:27 AM CT, Oct. 27 </p> 
  [Australia to Ease Overseas Travel Rules for Vaccinated Residents](https://www.nytimes.com/2021/10/27/world/australia/australia-travel-abroad-vaccination.html) NYT: The eased restrictions will be the first stage in the country’s plan to reopen its borders since slamming them shut in 2020, separating families and leaving thousands stranded overseas. 
- <p class="updated_time"> 08:19 AM CT, Oct. 27 </p> 
- [Poland told to pay €1m a day in legal row with EU](https://www.bbc.co.uk/news/world-europe-59064883?at_medium=RSS&at_campaign=KARANGA) BBC: The ruling is the latest step in an escalating dispute over Poland's legal reforms. 
  <p class="updated_time"> 08:11 AM CT, Oct. 27 </p> 
  [Charlottesville: Why are the ‘Unite the Right’ organisers on trial?](https://www.bbc.co.uk/news/world-us-canada-59054166?at_medium=RSS&at_campaign=KARANGA) BBC: Nine people injured at the 2017 far-right 'Unite the Right' rally in Virginia are suing organisers. 
  <p class="updated_time"> 08:04 AM CT, Oct. 27 </p> 
