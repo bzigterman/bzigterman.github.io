@@ -6,6 +6,10 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 09:28 PM CT, Oct. 26 </p> 
+ [Huma Abedin: Clinton aide details sex assault by US senator](https://www.bbc.co.uk/news/world-us-canada-59059289?at_medium=RSS&at_campaign=KARANGA) BBC: In a new book, Huma Abedin says she was assaulted after a senator invited her into his home. 
+ <p class="updated_time"> 08:55 PM CT, Oct. 26 </p> 
+ [Moldova: Russia threatens gas supply in Europe's poorest state](https://www.bbc.co.uk/news/world-europe-59048894?at_medium=RSS&at_campaign=KARANGA) BBC: Moldova has made history by buying gas from somewhere other than Russia. How will the Kremlin react? 
  <p class="updated_time"> 08:21 PM CT, Oct. 26 </p> 
  [Céline's Newly Unearthed Work Causes a Stir in France](https://www.nytimes.com/2021/10/26/world/europe/celine-manuscripts-france.html) NYT: A legal battle is raging over manuscripts written by the antisemitic writer Louis-Ferdinand Céline that disappeared almost eight decades ago. 
  <p class="updated_time"> 08:15 PM CT, Oct. 26 </p> 
@@ -32,8 +36,6 @@ permalink: /charts/news/
  [Life at 50C: Surviving in Kuwait's 'unbearable' heat](https://www.bbc.co.uk/news/world-middle-east-59054893?at_medium=RSS&at_campaign=KARANGA) BBC: The Middle East is warming faster than much of the world, leaving Kuwaitis struggling with everyday life. 
  <p class="updated_time"> 06:08 PM CT, Oct. 26 </p> 
  [Ros Atkins on... India's climate challenge](https://www.bbc.co.uk/news/world-asia-india-59049691?at_medium=RSS&at_campaign=KARANGA) BBC: A look at how India is trying to balance banishing poverty with meeting its climate commitments. 
- <p class="updated_time"> 05:27 PM CT, Oct. 26 </p> 
- [Rust: Assistant director had been sacked before over gun safety](https://www.bbc.co.uk/news/entertainment-arts-59055138?at_medium=RSS&at_campaign=KARANGA) BBC: Dave Halls had previously been dismissed from another film over gun safety violations. 
  <p class="updated_time"> 05:05 PM CT, Oct. 26 </p> 
  [Why Poland Would Rather Keep E.U. Money Than Break With Bloc](https://www.nytimes.com/2021/10/26/world/europe/poland-eu-aid.html) NYT: Despite the flame-throwing rhetoric of their leaders, conservative supporters of Poland’s ruling party are dependent on millions of euros in aid, and don’t want to risk it. 
  <p class="updated_time"> 04:55 PM CT, Oct. 26 </p> 
