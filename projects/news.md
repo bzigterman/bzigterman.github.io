@@ -180,8 +180,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/10/28/iowa-new-congressional-map-517485">Iowa approves new congressional map with 3 competitive districts</a> Politico: Former President Donald Trump narrowly carried each of the three swing seats under the new lines. 
  <p class="updated_time"> 06:58 PM CT, Oct. 28 </p> 
  <a href="https://www.politico.com/news/2021/10/28/budget-deal-democrats-biden-framework-517469">Your guide to the huge Dem deal: 14 new policies and what could stop them</a> Politico: Democrats revealed a framework for a $1.75 trillion spending deal, but areas such as health care, child care and climate change are missing major party priorities. 
- <p class="updated_time"> 06:51 PM CT, Oct. 28 </p> 
- <a href="https://www.nytimes.com/2021/10/28/us/politics/biden-democrats-spending-bill.html">Biden Implores Democrats to Support Transformative Agenda</a> NYT: “The House and Senate majorities and my presidency will be determined by what happens in the next week,” President Biden told lawmakers on Thursday. 
+ <p class="updated_time"> 06:53 PM CT, Oct. 28 </p> 
+ <a href="https://www.nytimes.com/2021/10/28/us/politics/biden-democrats-spending-bill.html">Biden Implores Democrats to Support His Transformative Agenda</a> NYT: “The House and Senate majorities and my presidency will be determined by what happens in the next week,” President Biden told lawmakers on Thursday. 
  <p class="updated_time"> 06:50 PM CT, Oct. 28 </p> 
  <a href="https://www.nytimes.com/2021/10/27/us/politics/democrats-reconciliation-bill-negotiations.html">Racing the Clock, Democrats Grasp for a Deal on Biden’s Agenda</a> NYT: Democrats struggled to bridge crucial differences over what to include in and how to pay for their social policy and climate plan. 
  <p class="updated_time"> 06:50 PM CT, Oct. 28 </p> 
