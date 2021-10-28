@@ -6,12 +6,14 @@ permalink: /projects/news/
 
 ## World News
 
+ <p class="updated_time"> 03:16 PM CT, Oct. 28 </p> 
+ [In Japan Elections, Rural Voters Count More Than Those in Big Cities](https://www.nytimes.com/2021/10/28/world/asia/japan-election-rural-urban.html) NYT: The disproportionate weight of rural voters in Japan gives sparsely populated parts of the country more representation — and more government largess — than urban areas, perpetuating what critics call an unfair system. 
+ <p class="updated_time"> 03:09 PM CT, Oct. 28 </p> 
+ [Taliban Allow Girls to Return to Some High Schools, but With Big Caveats](https://www.nytimes.com/2021/10/27/world/asia/afghan-girls-school-taliban.html) NYT: In some provinces, teenage girls have been allowed to return to secondary schools, though some teachers and parents still have doubts about what this means about Taliban rule. 
  <p class="updated_time"> 02:45 PM CT, Oct. 28 </p> 
  [Facebook changes its name to Meta in major rebrand](https://www.bbc.co.uk/news/technology-59083601?at_medium=RSS&at_campaign=KARANGA) BBC: The social media giant says the new name will better encompass what it does. 
  <p class="updated_time"> 02:27 PM CT, Oct. 28 </p> 
  [Japan's Covid Cases Drop Drastically After Summer Peak](https://www.nytimes.com/2021/10/28/world/asia/japan-covid-drop.html) NYT: Just a few months ago, the country was recording tens of thousands of cases daily. Now the numbers are in the hundreds each day. 
- <p class="updated_time"> 02:09 PM CT, Oct. 28 </p> 
- [In Japan Elections, Rural Voters Count More Than Those in Big Cities](https://www.nytimes.com/2021/10/28/world/asia/japan-election-rural-urban.html) NYT: The disproportionate weight of rural voters in Japan gives sparsely populated parts of the country more representation — and more government largess — than urban areas, perpetuating what critics call an unfair system. 
  <p class="updated_time"> 01:38 PM CT, Oct. 28 </p> 
  [Oakland's Plan: Transfer or Unenroll Unvaccinated Students](https://www.nytimes.com/2021/10/28/world/oakland-schools-vaccine-mandate-enforcement.html) NYT: Students who do not comply with the school district’s vaccine mandate will have two choices: switch to an independent-study school or be dropped from the rolls. 
  <p class="updated_time"> 01:29 PM CT, Oct. 28 </p> 
@@ -40,6 +42,8 @@ permalink: /projects/news/
  [Covid: Moscow shops and restaurants shut in partial lockdown](https://www.bbc.co.uk/news/world-europe-59076152?at_medium=RSS&at_campaign=KARANGA) BBC: Russia closes non-essential services and sends workers home amid record Covid deaths. 
  <p class="updated_time"> 08:37 AM CT, Oct. 28 </p> 
  [Beijing Olympics: China to Ease Covid Guidelines for Athletes in Bubble](https://www.nytimes.com/2021/10/28/world/asia/china-covid-olympics.html) NYT: Competitors will still face strict rules at what is shaping up to be the most extraordinarily regulated, large-scale sporting event since the pandemic’s start and could be expelled for breaking them. 
+ <p class="updated_time"> 08:11 AM CT, Oct. 28 </p> 
+ [New Zealand will cut the amount of quarantine time for travelers in half.](https://www.nytimes.com/2021/10/28/world/new-zealand-will-cut-the-amount-of-quarantine-time-for-travelers-in-half.html) NYT: NA 
  <p class="updated_time"> 07:37 AM CT, Oct. 28 </p> 
  [Laos makes Asia's largest ever drug bust](https://www.bbc.co.uk/news/world-asia-59062134?at_medium=RSS&at_campaign=KARANGA) BBC: A truck was carrying 55 million amphethamine tablets and over 1.5 tonnes of crystal methamphetamine. 
  <p class="updated_time"> 07:15 AM CT, Oct. 28 </p> 
@@ -68,8 +72,6 @@ permalink: /projects/news/
  [No Squid Game Halloween costumes, New York schools say](https://www.bbc.co.uk/news/world-us-canada-59075823?at_medium=RSS&at_campaign=KARANGA) BBC: The primary schools have warned parents about the Netflix series' "violent messages". 
  <p class="updated_time"> 04:11 AM CT, Oct. 28 </p> 
  [China Sticks to Covid-Zero Policies, Despite Rising Pressure to Ease Restrictions](https://www.wsj.com/articles/china-sticks-to-covid-zero-policies-despite-rising-pressure-to-ease-restrictions-11635426664) WSJ: Businesses have urged Beijing to implement a plan to end the strict pandemic regime, warning of the increasing economic toll, as much of the world has begun opening borders. 
- <p class="updated_time"> 03:41 AM CT, Oct. 28 </p> 
- [Wes Anderson’s Dream of France, and the Paris I Remember](https://www.nytimes.com/2021/10/28/movies/french-dispatch-paris.html) NYT: With “The French Dispatch,” the director’s latest, yet another American artist falls under the country’s spell. The Times’s Paris bureau chief recalls when the same thing happened to him. 
  <p class="updated_time"> 03:36 AM CT, Oct. 28 </p> 
  [Hellishly Hot Tiny Town Offers ‘Free’ Land. Hundreds of Calls Came In.](https://www.nytimes.com/2021/10/27/world/australia/free-land.html) NYT: The town in Australia’s outback, where the temperature can hit 113 degrees Fahrenheit, drew global inquiries when it offered “free” land in a bid to expand its population. 
  <p class="updated_time"> 03:13 AM CT, Oct. 28 </p> 
@@ -110,8 +112,6 @@ permalink: /projects/news/
  [She Climbed Yosemite's El Capitan to Celebrate Turning 70](https://www.nytimes.com/2021/10/26/sports/alex-honnold-mother-el-capitan.html) NYT: Dierdre Wolownick, whose son, Alex Honnold, is one of the world’s top rock climbers, ascended Yosemite’s El Capitan to celebrate her 70th birthday. 
  <p class="updated_time"> 02:15 PM CT, Oct. 27 </p> 
  [U.N. Group Blames Unequal Vaccine Access for Bigger Global Economic Gap](https://www.nytimes.com/2021/10/27/world/united-nations-coronavirus.html) NYT: Wealthier countries with high vaccination rates have had speedier economic recoveries than poorer countries with low vaccination rates, the International Labor Organization said. 
- <p class="updated_time"> 01:51 PM CT, Oct. 27 </p> 
- [Taliban Allow Girls to Return to Some High Schools, but With Big Caveats](https://www.nytimes.com/2021/10/27/world/asia/afghan-girls-school-taliban.html) NYT: In some provinces, teenage girls have been allowed to return to secondary schools, though some teachers and parents still have doubts about what this means about Taliban rule. 
  <p class="updated_time"> 01:40 PM CT, Oct. 27 </p> 
  [Iran Will Rejoin Nuclear Talks, Top Negotiator Says](https://www.nytimes.com/2021/10/27/world/middleeast/iran-nuclear-talks.html) NYT: Negotiations on reviving the 2015 nuclear accord are to resume in November, but it is unclear if the United States will take part in them. 
  <p class="updated_time"> 01:08 PM CT, Oct. 27 </p> 
