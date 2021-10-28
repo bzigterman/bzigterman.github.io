@@ -6,7 +6,7 @@ permalink: /charts/news/
 
 ## World News
 
- <p class="updated_time"> 11:57 PM CT, Oct. 27 </p> 
+ <p class="updated_time"> 12:12 AM CT, Oct. 28 </p> 
  [Fishing rights row: French threats disappointing, says Frost](https://www.bbc.co.uk/news/uk-59069951?at_medium=RSS&at_campaign=KARANGA) BBC: The Brexit minister seeks "urgent clarification" after France says it will block ports to UK boats. 
  <p class="updated_time"> 11:10 PM CT, Oct. 27 </p> 
  [Why China Is the World’s Last ‘Zero Covid’ Holdout](https://www.nytimes.com/2021/10/27/world/asia/china-zero-covid-virus.html) NYT: The government has staked its political legitimacy on controlling the virus better than other countries, especially its geopolitical rivals. 
