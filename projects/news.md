@@ -7,12 +7,12 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:44 PM CT, Oct. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59083395?at_medium=RSS&at_campaign=KARANGA">Climate change: Major US oil companies face grilling by Congress</a> BBC: House Democrats accuse major oil companies of misleading the public for decades. 
  <p class="updated_time"> 04:25 PM CT, Oct. 28 </p> 
  <a href="https://www.nytimes.com/2021/10/28/world/meatpacking-workers-covid-cases-deaths.html">Covid Hit U.S. Meat Plants Far Harder Than Thought, Report Says</a> NYT: The industry had three times as many Covid infections in the pandemic’s early months as previously believed, a select committee says. 
  <p class="updated_time"> 04:01 PM CT, Oct. 28 </p> 
  <a href="https://www.nytimes.com/2021/10/28/briefing/covid-zero-china-coal-cop-26.html">Your Friday Briefing</a> NYT: China sticks to a ‘zero-Covid’ strategy. 
- <p class="updated_time"> 03:59 PM CT, Oct. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59083395?at_medium=RSS&at_campaign=KARANGA">Climate change: Major US oil companies face grilling by Congress</a> BBC: House Democrats accuse major oil companies of misleading the public for decades. 
  <p class="updated_time"> 03:16 PM CT, Oct. 28 </p> 
  <a href="https://www.nytimes.com/2021/10/28/world/asia/japan-election-rural-urban.html">In Japan Elections, Rural Voters Count More Than Those in Big Cities</a> NYT: The disproportionate weight of rural voters in Japan gives sparsely populated parts of the country more representation — and more government largess — than urban areas, perpetuating what critics call an unfair system. 
  <p class="updated_time"> 03:09 PM CT, Oct. 28 </p> 
@@ -192,6 +192,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:44 PM CT, Oct. 28 </p> 
+ <a href="https://www.nytimes.com/2021/10/28/us/politics/progressives-infrastructure-biden-pelosi-support.html">Progressives Unmoved by Biden Request for Fast Vote on Infrastructure</a> NYT: Their opposition meant that House leaders were unlikely to be able to muster enough votes to pass the bill on Thursday as they had hoped, despite President Biden’s entreaties. 
  <p class="updated_time"> 04:25 PM CT, Oct. 28 </p> 
  <a href="https://www.nytimes.com/2021/10/28/us/politics/supreme-court-oklahoma-executions.html">Supreme Court Lets Two Oklahoma Executions Proceed</a> NYT: By a 5-to-3 vote, the justices lifted a stay of execution that had been imposed by a federal appeals court in a challenge to the state’s lethal injection protocols. 
  <p class="updated_time"> 04:17 PM CT, Oct. 28 </p> 
@@ -224,8 +226,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/27/us/politics/supreme-court-texas-abortion.html">Briefs Draw Battle Lines as Texas Abortion Law Nears Supreme Court</a> NYT: The justices, who will hear arguments on Monday in two cases challenging the state’s near-total ban, required the parties to file their briefs with extraordinary speed. 
  <p class="updated_time"> 07:33 PM CT, Oct. 27 </p> 
  <a href="https://www.nytimes.com/2021/10/27/us/politics/merrick-garland-justice-department-schools-memo.html">Republicans Assail Garland Over Justice Department Schools Memo</a> NYT: Republicans said the Biden administration was seeking to intimidate parents concerned about school policies. The attorney general cited a spike in threats. 
- <p class="updated_time"> 07:24 PM CT, Oct. 27 </p> 
- <a href="https://www.nytimes.com/2021/10/27/us/politics/china-hypersonic-missile.html">China’s Weapon Tests Close to a ‘Sputnik Moment,’ U.S. General Says</a> NYT: Gen. Mark A. Milley said China’s testing of a hypersonic missile “has all of our attention.” 
  <p class="updated_time"> 06:43 PM CT, Oct. 27 </p> 
  <a href="https://www.nytimes.com/2021/10/27/us/politics/diplomats-security-blinken.html">State Department Eases Restrictions for Diplomats Abroad</a> NYT: The State Department is easing some restrictions after employees said that their jobs overseas were harder than they needed to be. 
  <p class="updated_time"> 06:24 PM CT, Oct. 27 </p> 
