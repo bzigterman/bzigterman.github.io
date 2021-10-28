@@ -6,8 +6,10 @@ permalink: /projects/news/
 
 ## World News
 
- <p class="updated_time"> 01:58 PM CT, Oct. 28 </p> 
+ <p class="updated_time"> 02:11 PM CT, Oct. 28 </p> 
  [Facebook changes its name to Meta in major rebrand](https://www.bbc.co.uk/news/technology-59083601?at_medium=RSS&at_campaign=KARANGA) BBC: The social media giant says the new name will better encompass what it does. 
+ <p class="updated_time"> 02:09 PM CT, Oct. 28 </p> 
+ [In Japan Elections, Rural Voters Count More Than Those in Big Cities](https://www.nytimes.com/2021/10/28/world/asia/japan-election-rural-urban.html) NYT: The disproportionate weight of rural voters in Japan gives sparsely populated parts of the country more representation — and more government largess — than urban areas, perpetuating what critics call an unfair system. 
  <p class="updated_time"> 01:38 PM CT, Oct. 28 </p> 
  [Oakland's Plan: Transfer or Unenroll Unvaccinated Students](https://www.nytimes.com/2021/10/28/world/oakland-schools-vaccine-mandate-enforcement.html) NYT: Students who do not comply with the school district’s vaccine mandate will have two choices: switch to an independent-study school or be dropped from the rolls. 
  <p class="updated_time"> 01:29 PM CT, Oct. 28 </p> 
@@ -24,8 +26,6 @@ permalink: /projects/news/
  [Meeting of Francis and Biden Will Highlight Rift With U.S. Bishops](https://www.nytimes.com/2021/10/28/world/europe/pope-biden-catholic-church-rift.html) NYT: The pope and president, who will meet at the Vatican on Friday, are common targets of conservative American bishops seeking to undercut them. 
  <p class="updated_time"> 11:48 AM CT, Oct. 28 </p> 
  [After Time of ‘Real Terror,’ City’s Resilience Is Symbolized in Statue](https://www.nytimes.com/2021/10/28/world/europe/brescia-italy-winged-victory.html) NYT: Brescia, Italy, was one of the first Western cities devastated by the pandemic. It has adopted a famed ancient statue, “Winged Victory,” as the emblem of its recovery — and a prod for visits. 
- <p class="updated_time"> 11:16 AM CT, Oct. 28 </p> 
- [In Japan Elections, Rural Voters Count More Than Those in Big Cities](https://www.nytimes.com/2021/10/28/world/asia/japan-election-rural-urban.html) NYT: The disproportionate weight of rural voters in Japan gives sparsely populated parts of the country more representation — and more government largess — than urban areas, perpetuating what critics call an unfair system. 
  <p class="updated_time"> 11:15 AM CT, Oct. 28 </p> 
  [Japan’s Communists Are Hardly Radical, but Make a Handy Election Target](https://www.nytimes.com/2021/10/27/world/asia/japan-election-communist-party.html) NYT: They have minimal support in polls. But by teaming up with other opposition parties for the first time, they have been made a boogeyman by the unpopular party in power. 
  <p class="updated_time"> 10:42 AM CT, Oct. 28 </p> 
