@@ -10,6 +10,10 @@ permalink: /charts/news/
  [Meeting Between Francis and Biden Will Highlight Their Rift With American Bishops](https://www.nytimes.com/2021/10/28/world/europe/pope-biden-catholic-church-rift.html) NYT: The pope and president, who meet at the Vatican on Friday, are the common targets of conservative American bishops seeking to undercut them. 
  <p class="updated_time"> 04:46 AM CT, Oct. 28 </p> 
  [Why China Is the World’s Last ‘Zero Covid’ Holdout](https://www.nytimes.com/2021/10/27/world/asia/china-zero-covid-virus.html) NYT: The government has staked its political legitimacy on controlling the virus better than other countries, especially its geopolitical rivals. 
+ <p class="updated_time"> 04:44 AM CT, Oct. 28 </p> 
+ [Covid: Moscow shops and restaurants shut in partial lockdown](https://www.bbc.co.uk/news/world-europe-59076152?at_medium=RSS&at_campaign=KARANGA) BBC: Russia closes non-essential services and sends workers home amid record Covid deaths. 
+ <p class="updated_time"> 04:21 AM CT, Oct. 28 </p> 
+ [No Squid Game Halloween costumes, New York schools say](https://www.bbc.co.uk/news/world-us-canada-59075823?at_medium=RSS&at_campaign=KARANGA) BBC: The primary schools have warned parents about the Netflix series' "violent messages". 
  <p class="updated_time"> 04:11 AM CT, Oct. 28 </p> 
  [Japan's Covid Cases Drop Drastically After Summer Peak](https://www.nytimes.com/2021/10/28/world/asia/japan-covid-drop.html) NYT: Just a few months ago, the country was recording tens of thousands of cases daily. Now the numbers are in the hundreds each day. 
  <p class="updated_time"> 04:02 AM CT, Oct. 28 </p> 
@@ -68,8 +72,6 @@ permalink: /charts/news/
  [Pope Expresses ‘Willingness’ to Visit Canada for Indigenous Reconciliation](https://www.nytimes.com/2021/10/27/world/canada/pope-indigenous-apology.html) NYT: A National Truth and Reconciliation Commission has called for a papal apology for abuses at church-run schools for Indigenous children. 
  <p class="updated_time"> 04:07 PM CT, Oct. 27 </p> 
  [Merck Will Share Formula for Its Covid Pill With Poor Countries](https://www.nytimes.com/2021/10/27/health/covid-pill-access-molnupiravir.html) NYT: The company announced a licensing deal that will allow the drug, molnupiravir, to be made and sold cheaply in 105 developing nations. 
- <p class="updated_time"> 03:44 PM CT, Oct. 27 </p> 
- [Poland told to pay €1m a day in legal row with EU](https://www.bbc.co.uk/news/world-europe-59064883?at_medium=RSS&at_campaign=KARANGA) BBC: The ruling is the latest step in an escalating dispute over Poland's legal reforms. 
  <p class="updated_time"> 02:29 PM CT, Oct. 27 </p> 
  [Queen Elizabeth Will Skip Climate Summit in Glasgow](https://www.nytimes.com/2021/10/26/world/europe/queen-elizabeth-cop26-summit.html) NYT: The 95-year-old queen, after 70 years on the throne, is the oldest and longest-serving monarch in British history. 
  <p class="updated_time"> 02:24 PM CT, Oct. 27 </p> 
