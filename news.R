@@ -12,7 +12,7 @@ politico_politics <- tidyfeed("http://rss.politico.com/congress.xml") %>%
   select(feed_title, item_pub_date,item_title, item_link, item_description) %>%
   filter(!is.na(item_description)) %>%
   mutate(feed = "Politico") %>%
-  mutate(utc_time = force_tz(item_pub_date, tz = "US/Mountain")) %>%
+  mutate(utc_time = force_tz(item_pub_date, tz = "US/Pacific")) %>%
   mutate(central_time = with_tz(utc_time, tz = "America/Chicago")) %>%
   mutate(clean_time = strftime(x = central_time, 
                                tz = "US/Central",
