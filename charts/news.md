@@ -6,6 +6,18 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 05:27 AM CT, Oct. 28 </p> 
+ [UK boat detained by France amid fishing rights row](https://www.bbc.co.uk/news/uk-59073715?at_medium=RSS&at_campaign=KARANGA) BBC: A minister says his officials are "urgently" investigating the situation surrounding the detained boat. 
+ <p class="updated_time"> 05:26 AM CT, Oct. 28 </p> 
+ [British fishing trawler detained by French authorities](https://www.bbc.co.uk/news/world-europe-59075793?at_medium=RSS&at_campaign=KARANGA) BBC: Two British ships caught up in post-Brexit fishing rights row in French waters. 
+ <p class="updated_time"> 05:25 AM CT, Oct. 28 </p> 
+ [Beijing Olympics: China to Ease Rules for Athletes in Bubble](https://www.nytimes.com/2021/10/28/world/asia/china-covid-olympics.html) NYT: Vaccinated athletes will not have to quarantine, but competitors will still face strict rules and could be expelled for breaking them. 
+ <p class="updated_time"> 05:16 AM CT, Oct. 28 </p> 
+ [A Wealth Tax](https://www.nytimes.com/2021/10/28/briefing/wealth-tax-spending-bill-manchin.html) NYT: What are the pluses and minuses? 
+ <p class="updated_time"> 05:13 AM CT, Oct. 28 </p> 
+ [Climate change: Major US oil companies to testify in Congress](https://www.bbc.co.uk/news/world-us-canada-59075686?at_medium=RSS&at_campaign=KARANGA) BBC: A US congressional hearing will examine whether oil companies misled the public about climate change. 
+ <p class="updated_time"> 05:12 AM CT, Oct. 28 </p> 
+ [Israel Advances Plan for New Settlement Homes, in First for Bennett Era](https://www.nytimes.com/2021/10/27/world/middleeast/israel-settlements-west-bank.html) NYT: Approved despite the objections of the United States, critics say the new building will consolidate Israel’s presence in the West Bank and make it harder to create a Palestinian state. 
  <p class="updated_time"> 04:47 AM CT, Oct. 28 </p> 
  [Meeting Between Francis and Biden Will Highlight Their Rift With American Bishops](https://www.nytimes.com/2021/10/28/world/europe/pope-biden-catholic-church-rift.html) NYT: The pope and president, who meet at the Vatican on Friday, are the common targets of conservative American bishops seeking to undercut them. 
  <p class="updated_time"> 04:46 AM CT, Oct. 28 </p> 
@@ -16,8 +28,6 @@ permalink: /charts/news/
  [No Squid Game Halloween costumes, New York schools say](https://www.bbc.co.uk/news/world-us-canada-59075823?at_medium=RSS&at_campaign=KARANGA) BBC: The primary schools have warned parents about the Netflix series' "violent messages". 
  <p class="updated_time"> 04:11 AM CT, Oct. 28 </p> 
  [Japan's Covid Cases Drop Drastically After Summer Peak](https://www.nytimes.com/2021/10/28/world/asia/japan-covid-drop.html) NYT: Just a few months ago, the country was recording tens of thousands of cases daily. Now the numbers are in the hundreds each day. 
- <p class="updated_time"> 04:02 AM CT, Oct. 28 </p> 
- [UK boat detained by France amid fishing rights row](https://www.bbc.co.uk/news/uk-59073715?at_medium=RSS&at_campaign=KARANGA) BBC: A French minister says the boat did not have a licence to fish in French waters and was seized. 
  <p class="updated_time"> 03:41 AM CT, Oct. 28 </p> 
  [Wes Anderson’s Dream of France, and the Paris I Remember](https://www.nytimes.com/2021/10/28/movies/french-dispatch-paris.html) NYT: With “The French Dispatch,” the director’s latest, yet another American artist falls under the country’s spell. The Times’s Paris bureau chief recalls when the same thing happened to him. 
  <p class="updated_time"> 03:36 AM CT, Oct. 28 </p> 
@@ -30,6 +40,8 @@ permalink: /charts/news/
  [Helping Chinatown's elderly during the pandemic](https://www.bbc.co.uk/news/world-us-canada-59071514?at_medium=RSS&at_campaign=KARANGA) BBC: A volunteer army is delivering hundreds of meals to elderly East-Asians in New York. 
  <p class="updated_time"> 02:51 AM CT, Oct. 28 </p> 
  [Sitting Bull: DNA confirms great-grandson's identity](https://www.bbc.co.uk/news/world-us-canada-59062133?at_medium=RSS&at_campaign=KARANGA) BBC: A sample of the Native American leader's hair confirms the identity of his great-grandson. 
+ <p class="updated_time"> 01:00 AM CT, Oct. 28 </p> 
+ [Intelligence Agencies Failed to Predict Rapid Fall of Kabul](https://www.wsj.com/articles/four-u-s-intelligence-agencies-produced-extensive-reports-on-afghanistan-but-all-failed-to-predict-kabuls-rapid-collapse-11635415201) WSJ: Agencies offered scattershot assessments of the staying power of the Afghan military and government, a review of wide-ranging summaries of classified material by The Wall Street Journal shows. 
  <p class="updated_time"> 12:34 AM CT, Oct. 28 </p> 
  [ICC T20 World Cup: India arrests Muslims for cheering Pakistan cricket team](https://www.bbc.co.uk/news/world-asia-india-59059494?at_medium=RSS&at_campaign=KARANGA) BBC: Several people have been arrested for supporting Pakistan during Sunday's T20 World Cup cricket game. 
  <p class="updated_time"> 12:29 AM CT, Oct. 28 </p> 
@@ -48,16 +60,12 @@ permalink: /charts/news/
  [Sudan coup: World Bank suspends aid after military takeover](https://www.bbc.co.uk/news/world-africa-59066654?at_medium=RSS&at_campaign=KARANGA) BBC: Pressure mounts on the military to restore civilian rule as international bodies respond. 
  <p class="updated_time"> 09:24 PM CT, Oct. 27 </p> 
  [Covid Cases Keep Falling](https://www.nytimes.com/2021/10/26/briefing/covid-cases-falling-delta.html) NYT: Covid cases have been falling in every region of the U.S., offering hope. 
- <p class="updated_time"> 09:17 PM CT, Oct. 27 </p> 
- [Huma Abedin: Clinton aide details unwanted kiss by US senator](https://www.bbc.co.uk/news/world-us-canada-59059289?at_medium=RSS&at_campaign=KARANGA) BBC: In a new book, Huma Abedin says the senator made an unwelcome advance after inviting her into his home. 
  <p class="updated_time"> 07:39 PM CT, Oct. 27 </p> 
  [Chinese missile launch very concerning, says top US general](https://www.bbc.co.uk/news/world-us-canada-59072616?at_medium=RSS&at_campaign=KARANGA) BBC: Gen Milley's comments were the first US acknowledgment of claims China tested a hypersonic missile. 
  <p class="updated_time"> 07:29 PM CT, Oct. 27 </p> 
  ['You have to prove your faith when you're dating as a black Muslim'](https://www.bbc.co.uk/news/newsbeat-59010749?at_medium=RSS&at_campaign=KARANGA) BBC: Radio 1 Newsbeat speaks to black Muslims about their experiences in the dating world and society. 
  <p class="updated_time"> 07:24 PM CT, Oct. 27 </p> 
  [China’s Weapon Tests Close to a ‘Sputnik Moment,’ U.S. General Says](https://www.nytimes.com/2021/10/27/us/politics/china-hypersonic-missile.html) NYT: Gen. Mark A. Milley said China’s testing of a hypersonic missile “has all of our attention.” 
- <p class="updated_time"> 07:15 PM CT, Oct. 27 </p> 
- [Israel Advances Plan for New Settlements, in First for Bennett Era](https://www.nytimes.com/2021/10/27/world/middleeast/israel-settlements-west-bank.html) NYT: Approved despite the objections of the United States, critics say the new homes will consolidate Israel’s presence in the West Bank and make it harder to create a Palestinian state. 
  <p class="updated_time"> 06:35 PM CT, Oct. 27 </p> 
  [Climate change: Polls shows rising demand for government action](https://www.bbc.co.uk/news/science-environment-59067471?at_medium=RSS&at_campaign=KARANGA) BBC: Ahead of COP26, a BBC World Service poll finds growing support for strong political leadership. 
  <p class="updated_time"> 06:19 PM CT, Oct. 27 </p> 
@@ -90,8 +98,6 @@ permalink: /charts/news/
  [Japan’s Communists Are Hardly Radical, but Make a Handy Election Target](https://www.nytimes.com/2021/10/27/world/asia/japan-election-communist-party.html) NYT: They have minimal support in polls. But by teaming up with other opposition parties for the first time, they have been made a boogeyman by the unpopular party in power. 
  <p class="updated_time"> 12:50 PM CT, Oct. 27 </p> 
  [Why Scientists Have Spent Years Mapping This Creature’s Brain](https://www.nytimes.com/2021/10/26/science/drosophila-fly-brain-connectome.html) NYT: An enormous new analysis of the wiring of the fruit fly brain is a milestone for the young field of modern connectomics, researchers say. 
- <p class="updated_time"> 12:42 PM CT, Oct. 27 </p> 
- [China's Hypersonic Missile Test Is Close to 'Sputnik Moment,' U.S. Military Chief Says](https://www.wsj.com/articles/u-s-military-chief-says-chinas-hypersonic-missile-test-is-close-to-sputnik-moment-11635344992) WSJ: Gen. Mark Milley described China’s recent test of a hypersonic missile as “very concerning” and said the Pentagon was focused on the development. 
  <p class="updated_time"> 12:09 PM CT, Oct. 27 </p> 
  [Wonders, and Horrors, Drawn From Boyhood in a War Zone](https://www.nytimes.com/2021/10/27/arts/design/petrit-halilaj-tate-kosovo-war.html) NYT: Petrit Halilaj became one of Kosovo’s most acclaimed artists with work that reflects on his country’s past. Now, he’s getting personal. 
  <p class="updated_time"> 10:22 AM CT, Oct. 27 </p> 
@@ -132,8 +138,6 @@ permalink: /charts/news/
  [2 Days After Cricket Victory Over India, Pakistan Still Feels the High](https://www.nytimes.com/2021/10/26/world/asia/pakistan-cricket-victory-india.html) NYT: The nation is experiencing a much-needed burst of joy after it unexpectedly beat India in a cricket match in Dubai. 
  <p class="updated_time"> 06:41 PM CT, Oct. 26 </p> 
  [Justin Trudeau Introduces 'Reinvigorated' Cabinet](https://www.nytimes.com/2021/10/26/world/canada/justin-trudeau-cabinet.html) NYT: The Canadian prime minister failed to gain a majority in Parliament last month but acted otherwise when unveiling his new cabinet. 
- <p class="updated_time"> 06:32 PM CT, Oct. 26 </p> 
- [Covid: Charlize Theron wants fairer distribution of vaccines](https://www.bbc.co.uk/news/world-africa-59054894?at_medium=RSS&at_campaign=KARANGA) BBC: The actress tells the BBC nations must start sharing jabs to help reach the WHO's vaccination goals. 
  <p class="updated_time"> 06:27 PM CT, Oct. 26 </p> 
  [Roh Tae-woo, 88, South Korean Leader in Move Toward Democracy, Dies](https://www.nytimes.com/2021/10/26/world/asia/roh-tae-woo-dies.html) NYT: He played a role in a bloody crackdown on pro-democracy protesters in 1980, then oversaw his country’s winning 1988 Olympics bid. He was later mired in legal trouble. 
  <p class="updated_time"> 06:10 PM CT, Oct. 26 </p> 
@@ -160,8 +164,6 @@ permalink: /charts/news/
  [Moderna to Sell Up to 110 Million Covid Vaccine Doses to African Countries](https://www.nytimes.com/2021/10/26/world/africa/covid-moderna-african-union.html) NYT: Moderna’s shots have previously gone almost entirely to wealthier countries. 
  <p class="updated_time"> 03:40 AM CT, Oct. 26 </p> 
  [Australia Pledges ‘Net Zero’ Emissions by 2050. Its Plan Makes That Hard to Believe.](https://www.nytimes.com/2021/10/26/world/australia/net-zero-delay.html) NYT: The country’s last-minute commitment before next week’s climate summit is built on hope for new technology, and little else. 
- <p class="updated_time"> 10:24 PM CT, Oct. 25 </p> 
- [Sudan’s Military Seizes Power, Casting Democratic Transition Into Chaos](https://www.nytimes.com/2021/10/25/world/africa/sudan-military-coup.html) NYT: Civilian and military leaders were supposed to share power after a popular uprising in 2019 overthrew a decades-long dictatorship. On Monday the military detained the civilian prime minister. 
  <p class="updated_time"> 10:12 PM CT, Oct. 25 </p> 
  [Eco-friendly sex: What is it and how does it impact on climate change?](https://www.bbc.co.uk/news/science-environment-59046518?at_medium=RSS&at_campaign=KARANGA) BBC: As more people try to live environmentally friendly lives, how do we make sex more sustainable? 
  <p class="updated_time"> 09:46 PM CT, Oct. 25 </p> 
@@ -172,8 +174,6 @@ permalink: /charts/news/
  [Eitan Biran Custody Ruling Issued by Israeli Court](https://www.nytimes.com/2021/10/25/world/middleeast/eitan-biran-israel-court.html) NYT: Eitan Biran, the 6-year-old survivor of a cable car accident in Italy, should live there with his aunt, not his grandfather in Israel, ruled a judge in Tel Aviv. 
  <p class="updated_time"> 06:01 PM CT, Oct. 25 </p> 
  [Climate change: Sir David Attenborough in 'act now' warning](https://www.bbc.co.uk/news/science-environment-59039485?at_medium=RSS&at_campaign=KARANGA) BBC: "If we don't act now, it'll be too late," warns Sir David Attenborough ahead of the COP26 climate summit. 
- <p class="updated_time"> 05:37 PM CT, Oct. 25 </p> 
- [Egypt’s Leader Ends State of Emergency, Says It’s No Longer Needed](https://www.nytimes.com/2021/10/25/world/middleeast/egypt-sisi-state-emergency.html) NYT: The move by President Abdel Fattah el-Sisi theoretically rolls back sweeping powers the government wielded in the name of fighting terrorism, but critics called it a cosmetic change. 
  <p class="updated_time"> 11:10 AM CT, Oct. 25 </p> 
  [COP26: What is the Glasgow climate conference and why is it important?](https://www.bbc.co.uk/news/science-environment-56901261?at_medium=RSS&at_campaign=KARANGA) BBC: A crucial climate change summit is being held in the UK - this is why it's important. 
  <p class="updated_time"> 07:00 PM CT, Oct. 24 </p> 
