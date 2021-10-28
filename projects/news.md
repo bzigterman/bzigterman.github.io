@@ -6,10 +6,14 @@ permalink: /projects/news/
 
 ## World News
 
+ <p class="updated_time"> 01:38 PM CT, Oct. 28 </p> 
+ [Oakland's Plan: Transfer or Unenroll Unvaccinated Students](https://www.nytimes.com/2021/10/28/world/oakland-schools-vaccine-mandate-enforcement.html) NYT: Students who do not comply with the school district’s vaccine mandate will have two choices: switch to an independent-study school or be dropped from the rolls. 
+ <p class="updated_time"> 01:36 PM CT, Oct. 28 </p> 
+ [Facebook changes its name to Meta in major rebrand](https://www.bbc.co.uk/news/technology-59083601?at_medium=RSS&at_campaign=KARANGA) BBC: The social media giant says the new name will better encompass what it does. 
+ <p class="updated_time"> 01:29 PM CT, Oct. 28 </p> 
+ [France and the United States Seek an Elusive Reconciliation](https://www.nytimes.com/2021/10/28/world/europe/france-biden-macron-g20.html) NYT: The Biden administration is poised to offer the French some defense-related emollients after their falling out over a sabotaged submarine deal. But some damage may last. 
  <p class="updated_time"> 01:06 PM CT, Oct. 28 </p> 
  [Syringe Shortage Likely to Add to Africa's Vaccine Barriers, W.H.O. Says](https://www.nytimes.com/2021/10/28/world/africa/africa-syringe-shortages-who.html) NYT: The continent already suffers from high infection levels, low vaccination rates and limited, unpredictable deliveries of vaccine doses. 
- <p class="updated_time"> 01:04 PM CT, Oct. 28 </p> 
- [Oakland's Plan: Transfer or Unenroll Unvaccinated Students](https://www.nytimes.com/2021/10/28/world/oakland-schools-vaccine-mandate-enforcement.html) NYT: Students who do not comply with the school district’s vaccine mandate will have two choices: switch to an independent-study school or be dropped from the rolls. 
  <p class="updated_time"> 12:59 PM CT, Oct. 28 </p> 
  [New York Braces for Staffing Shortages as Vaccine Deadline Nears](https://www.nytimes.com/2021/10/28/nyregion/new-york-vaccine-mandate-police-fire.html) NYT: Thousands of workers in the city’s uniformed services are not yet in compliance with a vaccine mandate for city workers that takes effect Monday. 
  <p class="updated_time"> 12:22 PM CT, Oct. 28 </p> 
@@ -48,8 +52,6 @@ permalink: /projects/news/
  [India's Missile Test Seen as Warning to China After Breakdown in Border Talks](https://www.wsj.com/articles/indias-missile-test-seen-as-warning-to-china-after-breakdown-in-border-talks-11635433146) WSJ: Security experts said the launch of the Agni-5 missile, the only one in India’s arsenal capable of reaching Beijing, was a pointed reminder to China that the South Asian nation has the firepower to fight back if border tensions flare up again. 
  <p class="updated_time"> 05:52 AM CT, Oct. 28 </p> 
  [Hundreds of sea turtles wash up dead in Mexico](https://www.bbc.co.uk/news/world-latin-america-59077086?at_medium=RSS&at_campaign=KARANGA) BBC: Scientists think the turtles may have become tangled in abandoned fishing nets and drowned. 
- <p class="updated_time"> 05:27 AM CT, Oct. 28 </p> 
- [Rémy Daillet: Conspiracist charged over alleged French coup plot](https://www.bbc.co.uk/news/world-europe-59075902?at_medium=RSS&at_campaign=KARANGA) BBC: Rémy Daillet is accused of forming an extremist group to plan attacks against the French state. 
  <p class="updated_time"> 05:26 AM CT, Oct. 28 </p> 
  [British fishing trawler detained by French authorities](https://www.bbc.co.uk/news/world-europe-59075793?at_medium=RSS&at_campaign=KARANGA) BBC: Two British ships caught up in post-Brexit fishing rights row in French waters. 
  <p class="updated_time"> 05:16 AM CT, Oct. 28 </p> 
@@ -136,8 +138,6 @@ permalink: /projects/news/
  [Your Wednesday Briefing](https://www.nytimes.com/2021/10/26/briefing/climate-glasgow-un-myanmar-pakistan-cricket.html) NYT: ‘Imminent peril’ from global warming. 
  <p class="updated_time"> 11:04 PM CT, Oct. 26 </p> 
  [Your Wednesday Briefing](https://www.nytimes.com/2021/10/27/briefing/climate-change-children-vaccines.html) NYT: Emissions plans fall short. 
- <p class="updated_time"> 10:12 PM CT, Oct. 26 </p> 
- [Princess Mako's Royal Wedding in Japan Goes Off With Little Fanfare](https://www.nytimes.com/2021/10/25/world/asia/japan-royal-wedding-princess-mako.html) NYT: The torturous path to marriage for Princess Mako of Japan, who gave up her title to marry a commoner, leads to a registry office in Tokyo and most likely a life abroad. 
  <p class="updated_time"> 10:08 PM CT, Oct. 26 </p> 
  [Sudan’s Prime Minister Was Detained at Home of General Who Led Coup](https://www.nytimes.com/2021/10/26/world/africa/sudan-coup-protests.html) NYT: Protesters demanding civilian rule flooded the streets of major cities a day after a military takeover. Many offices and businesses shut, answering a call for civil disobediences. 
  <p class="updated_time"> 10:08 PM CT, Oct. 26 </p> 
