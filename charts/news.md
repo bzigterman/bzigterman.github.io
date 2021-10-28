@@ -6,6 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 08:23 AM CT, Oct. 28 </p> 
+ [Beijing Olympics: China to Ease Rules for Athletes in Bubble](https://www.nytimes.com/2021/10/28/world/asia/china-covid-olympics.html) NYT: Vaccinated athletes will not have to quarantine, but competitors will still face strict rules and could be expelled for breaking them. 
  <p class="updated_time"> 07:37 AM CT, Oct. 28 </p> 
  [Laos makes Southeast Asia's largest ever drug bust](https://www.bbc.co.uk/news/world-asia-59062134?at_medium=RSS&at_campaign=KARANGA) BBC: A truck was carrying 55 million amphethamine tablets and over 1.5 tonnes of crystal methamphetamine. 
  <p class="updated_time"> 06:19 AM CT, Oct. 28 </p> 
@@ -20,8 +22,6 @@ permalink: /charts/news/
  [Rémy Daillet: Conspiracist charged over alleged French coup plot](https://www.bbc.co.uk/news/world-europe-59075902?at_medium=RSS&at_campaign=KARANGA) BBC: Rémy Daillet is accused of forming an extremist group to plan attacks against the French state. 
  <p class="updated_time"> 05:26 AM CT, Oct. 28 </p> 
  [British fishing trawler detained by French authorities](https://www.bbc.co.uk/news/world-europe-59075793?at_medium=RSS&at_campaign=KARANGA) BBC: Two British ships caught up in post-Brexit fishing rights row in French waters. 
- <p class="updated_time"> 05:25 AM CT, Oct. 28 </p> 
- [Beijing Olympics: China to Ease Rules for Athletes in Bubble](https://www.nytimes.com/2021/10/28/world/asia/china-covid-olympics.html) NYT: Vaccinated athletes will not have to quarantine, but competitors will still face strict rules and could be expelled for breaking them. 
  <p class="updated_time"> 05:16 AM CT, Oct. 28 </p> 
  [A Wealth Tax](https://www.nytimes.com/2021/10/28/briefing/wealth-tax-spending-bill-manchin.html) NYT: What are the pluses and minuses? 
  <p class="updated_time"> 05:13 AM CT, Oct. 28 </p> 
