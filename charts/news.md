@@ -6,6 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 03:36 AM CT, Oct. 28 </p> 
+ [Hellishly Hot Tiny Town Offers ‘Free’ Land. Hundreds of Calls Came In.](https://www.nytimes.com/2021/10/27/world/australia/free-land.html) NYT: The town in Australia’s outback, where the temperature can hit 113 degrees Fahrenheit, drew global inquiries when it offered “free” land in a bid to expand its population. 
  <p class="updated_time"> 03:30 AM CT, Oct. 28 </p> 
  [Covid passes set to stay as Europe heads for winter](https://www.bbc.co.uk/news/world-europe-58973334?at_medium=RSS&at_campaign=KARANGA) BBC: There have been protests but much of Europe has accepted the QR codes as a means of extending freedoms. 
  <p class="updated_time"> 03:13 AM CT, Oct. 28 </p> 
@@ -40,8 +42,6 @@ permalink: /charts/news/
  [Huma Abedin: Clinton aide details unwanted kiss by US senator](https://www.bbc.co.uk/news/world-us-canada-59059289?at_medium=RSS&at_campaign=KARANGA) BBC: In a new book, Huma Abedin says the senator made an unwelcome advance after inviting her into his home. 
  <p class="updated_time"> 07:39 PM CT, Oct. 27 </p> 
  [Chinese missile launch very concerning, says top US general](https://www.bbc.co.uk/news/world-us-canada-59072616?at_medium=RSS&at_campaign=KARANGA) BBC: Gen Milley's comments were the first US acknowledgment of claims China tested a hypersonic missile. 
- <p class="updated_time"> 07:34 PM CT, Oct. 27 </p> 
- [Hellishly Hot Tiny Town Offers ‘Free’ Land. Hundreds of Calls Came In.](https://www.nytimes.com/2021/10/27/world/australia/free-land.html) NYT: The town in Australia’s outback, where the temperature can hit 113 degrees Fahrenheit, drew global inquiries when it offered “free” land in a bid to expand its population. 
  <p class="updated_time"> 07:29 PM CT, Oct. 27 </p> 
  ['You have to prove your faith when you're dating as a black Muslim'](https://www.bbc.co.uk/news/newsbeat-59010749?at_medium=RSS&at_campaign=KARANGA) BBC: Radio 1 Newsbeat speaks to black Muslims about their experiences in the dating world and society. 
  <p class="updated_time"> 07:24 PM CT, Oct. 27 </p> 
