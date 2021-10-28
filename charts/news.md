@@ -50,6 +50,8 @@ permalink: /charts/news/
  [Pope Expresses ‘Willingness’ to Visit Canada for Indigenous Reconciliation](https://www.nytimes.com/2021/10/27/world/canada/pope-indigenous-apology.html) NYT: A National Truth and Reconciliation Commission has called for a papal apology for abuses at church-run schools for Indigenous children. 
  <p class="updated_time"> 04:07 PM CT, Oct. 27 </p> 
  [Merck Will Share Formula for Its Covid Pill With Poor Countries](https://www.nytimes.com/2021/10/27/health/covid-pill-access-molnupiravir.html) NYT: The company announced a licensing deal that will allow the drug, molnupiravir, to be made and sold cheaply in 105 developing nations. 
+ <p class="updated_time"> 03:54 PM CT, Oct. 27 </p> 
+ [Fishing rights row: French threats disappointing, says Frost](https://www.bbc.co.uk/news/uk-59069951?at_medium=RSS&at_campaign=KARANGA) BBC: The Brexit minister seeks "urgent clarification" after France says it will block ports to UK boats. 
  <p class="updated_time"> 03:44 PM CT, Oct. 27 </p> 
  [Poland told to pay €1m a day in legal row with EU](https://www.bbc.co.uk/news/world-europe-59064883?at_medium=RSS&at_campaign=KARANGA) BBC: The ruling is the latest step in an escalating dispute over Poland's legal reforms. 
  <p class="updated_time"> 02:48 PM CT, Oct. 27 </p> 
@@ -84,8 +86,6 @@ permalink: /charts/news/
  [Footballer Josh Cavallo on coming out as gay: 'It's my freedom day'](https://www.bbc.co.uk/news/world-australia-59068417?at_medium=RSS&at_campaign=KARANGA) BBC: Josh Cavallo has come out as gay - the only current top level male professional footballer to do so. 
  <p class="updated_time"> 09:36 AM CT, Oct. 27 </p> 
  [Iran to Return to Nuclear Deal Talks Next Month](https://www.wsj.com/articles/iran-to-return-to-nuclear-deal-talks-in-vienna-next-month-11635348645) WSJ: Tehran will return to negotiations on reviving the 2015 nuclear deal by the end of November, its chief negotiator said Wednesday. 
- <p class="updated_time"> 09:00 AM CT, Oct. 27 </p> 
- [Josh Cavallo: 'I'm a footballer and I'm gay,' says Australian player](https://www.bbc.co.uk/news/newsbeat-59060323?at_medium=RSS&at_campaign=KARANGA) BBC: The Adelaide United footballer has become the only current top-flight male professional to do so. 
  <p class="updated_time"> 08:52 AM CT, Oct. 27 </p> 
  [Claudette Colvin: US civil rights pioneer wants record cleared](https://www.bbc.co.uk/news/world-us-canada-59047634?at_medium=RSS&at_campaign=KARANGA) BBC: Claudette Colvin was just 15 in 1955 when she refused to give up her seat on a bus for a white person. 
  <p class="updated_time"> 08:45 AM CT, Oct. 27 </p> 
