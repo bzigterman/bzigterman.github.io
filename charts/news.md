@@ -40,6 +40,8 @@ permalink: /charts/news/
  [China’s Weapon Tests Close to a ‘Sputnik Moment,’ U.S. General Says](https://www.nytimes.com/2021/10/27/us/politics/china-hypersonic-missile.html) NYT: Gen. Mark A. Milley said China’s testing of a hypersonic missile “has all of our attention.” 
  <p class="updated_time"> 07:15 PM CT, Oct. 27 </p> 
  [Israel Advances Plan for New Settlements, in First for Bennett Era](https://www.nytimes.com/2021/10/27/world/middleeast/israel-settlements-west-bank.html) NYT: Approved despite the objections of the United States, critics say the new homes will consolidate Israel’s presence in the West Bank and make it harder to create a Palestinian state. 
+ <p class="updated_time"> 06:35 PM CT, Oct. 27 </p> 
+ [Climate change: Polls shows rising demand for government action](https://www.bbc.co.uk/news/science-environment-59067471?at_medium=RSS&at_campaign=KARANGA) BBC: Ahead of COP26, a BBC World Service poll finds growing support for strong political leadership. 
  <p class="updated_time"> 06:19 PM CT, Oct. 27 </p> 
  [Climate change: Can India meet its targets?](https://www.bbc.co.uk/news/world-asia-india-58922398?at_medium=RSS&at_campaign=KARANGA) BBC: As a major global climate summit approaches, is the Indian government on track to meet its own commitments? 
  <p class="updated_time"> 06:15 PM CT, Oct. 27 </p> 
@@ -88,8 +90,6 @@ permalink: /charts/news/
  [Iran to Return to Nuclear Deal Talks Next Month](https://www.wsj.com/articles/iran-to-return-to-nuclear-deal-talks-in-vienna-next-month-11635348645) WSJ: Tehran will return to negotiations on reviving the 2015 nuclear deal by the end of November, its chief negotiator said Wednesday. 
  <p class="updated_time"> 08:52 AM CT, Oct. 27 </p> 
  [Claudette Colvin: US civil rights pioneer wants record cleared](https://www.bbc.co.uk/news/world-us-canada-59047634?at_medium=RSS&at_campaign=KARANGA) BBC: Claudette Colvin was just 15 in 1955 when she refused to give up her seat on a bus for a white person. 
- <p class="updated_time"> 08:45 AM CT, Oct. 27 </p> 
- [Iran blames foreign country for cyberattack on petrol stations](https://www.bbc.co.uk/news/world-middle-east-59062907?at_medium=RSS&at_campaign=KARANGA) BBC: Tuesday's attack crippled a system that lets motorists buy subsidised petrol, causing long queues. 
  <p class="updated_time"> 08:04 AM CT, Oct. 27 </p> 
  [U.S. Argues Extradition of Julian Assange Should Go Ahead](https://www.wsj.com/articles/u-s-argues-extradition-of-wikileaks-founder-julian-assange-should-go-ahead-11635354265) WSJ: The U.S. presented arguments to a British court to overturn an earlier decision against extraditing the WikiLeaks founder. 
  <p class="updated_time"> 07:52 AM CT, Oct. 27 </p> 
