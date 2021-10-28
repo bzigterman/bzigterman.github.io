@@ -7,10 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:40 PM CT, Oct. 28 </p> 
- <a href="https://www.nytimes.com/2021/10/28/nyregion/new-york-vaccine-mandate-police-fire.html">New York Braces for Staffing Shortages as Vaccine Deadline Nears</a> NYT: Thousands of workers in the city’s uniformed services are not yet in compliance with a vaccine mandate for city workers that takes effect Monday. 
  <p class="updated_time"> 06:30 PM CT, Oct. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59083395?at_medium=RSS&at_campaign=KARANGA">Climate change: Major US oil companies face grilling by Congress</a> BBC: Democrats in Congress accuse major oil companies of misleading the public for decades - a claim they deny. 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59083395?at_medium=RSS&at_campaign=KARANGA">Climate change: Major US oil companies face grilling by Congress</a> BBC: The hearing in Congress marks the first time oil executives have answered climate questions under oath 
  <p class="updated_time"> 06:02 PM CT, Oct. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59073986?at_medium=RSS&at_campaign=KARANGA">Japan election: Why the ruling party keeps winning</a> BBC: As Sunday's polls approach, we look at why it is so difficult to defeat the ruling party. 
  <p class="updated_time"> 05:26 PM CT, Oct. 28 </p> 
@@ -119,6 +117,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-59065274?at_medium=RSS&at_campaign=KARANGA">Benin Bronzes: 'My great-grandfather sculpted the looted treasures'</a> BBC: Nigerians welcome the return of artefacts - including Cambridge University's cockerel - looted in 1897. 
  <p class="updated_time"> 12:54 PM CT, Oct. 27 </p> 
  <a href="https://www.nytimes.com/2021/10/27/world/europe/viktor-bryukhanov-dead.html">Viktor Bryukhanov, Blamed for the Chernobyl Disaster, Dies at 85</a> NYT: In charge of the plant in Ukraine, he was held responsible for the world’s worst nuclear-power disaster and imprisoned. 
+ <p class="updated_time"> 12:50 PM CT, Oct. 27 </p> 
+ <a href="https://www.nytimes.com/2021/10/26/science/drosophila-fly-brain-connectome.html">Why Scientists Have Spent Years Mapping This Creature’s Brain</a> NYT: An enormous new analysis of the wiring of the fruit fly brain is a milestone for the young field of modern connectomics, researchers say. 
  <p class="updated_time"> 12:09 PM CT, Oct. 27 </p> 
  <a href="https://www.nytimes.com/2021/10/27/arts/design/petrit-halilaj-tate-kosovo-war.html">Wonders, and Horrors, Drawn From Boyhood in a War Zone</a> NYT: Petrit Halilaj became one of Kosovo’s most acclaimed artists with work that reflects on his country’s past. Now, he’s getting personal. 
  <p class="updated_time"> 10:22 AM CT, Oct. 27 </p> 
@@ -176,43 +176,43 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
- <p class="updated_time"> 07:45 PM CT, Oct. 28 </p> 
+ <p class="updated_time"> 08:45 PM CT, Oct. 28 </p> 
  <a href="https://www.politico.com/news/2021/10/28/iowa-new-congressional-map-517485">Iowa approves new congressional map with 3 competitive districts</a> Politico: Former President Donald Trump narrowly carried each of the three swing seats under the new lines. 
- <p class="updated_time"> 06:44 PM CT, Oct. 28 </p> 
+ <p class="updated_time"> 06:58 PM CT, Oct. 28 </p> 
+ <a href="https://www.politico.com/news/2021/10/28/budget-deal-democrats-biden-framework-517469">Your guide to the huge Dem deal: 14 new policies and what could stop them</a> Politico: Democrats revealed a framework for a $1.75 trillion spending deal, but areas such as health care, child care and climate change are missing major party priorities. 
+ <p class="updated_time"> 06:51 PM CT, Oct. 28 </p> 
  <a href="https://www.nytimes.com/2021/10/28/us/politics/biden-democrats-spending-bill.html">Biden Implores Democrats to Support Transformative Agenda</a> NYT: “The House and Senate majorities and my presidency will be determined by what happens in the next week,” President Biden told lawmakers on Thursday. 
+ <p class="updated_time"> 06:50 PM CT, Oct. 28 </p> 
+ <a href="https://www.nytimes.com/2021/10/27/us/politics/democrats-reconciliation-bill-negotiations.html">Racing the Clock, Democrats Grasp for a Deal on Biden’s Agenda</a> NYT: Democrats struggled to bridge crucial differences over what to include in and how to pay for their social policy and climate plan. 
+ <p class="updated_time"> 06:50 PM CT, Oct. 28 </p> 
+ <a href="https://www.nytimes.com/2021/10/28/us/politics/biden-tax-plan-increases.html">How $2 Trillion in Tax Increases in Biden's Bill Target Companies and the Rich</a> NYT: The proposal to fund the president’s sprawling spending plan mostly turns up the dial on more conventional tax policies, while trying to curb maneuvers that allow tax avoidance. 
+ <p class="updated_time"> 06:49 PM CT, Oct. 28 </p> 
+ <a href="https://www.nytimes.com/2021/10/28/us/politics/spending-plan-bill-biden.html">Here's What's in Biden's $1.85 Trillion Spending Plan</a> NYT: White House officials refused to say if all holdout Democrats in Congress had expressed support for the framework. 
+ <p class="updated_time"> 06:49 PM CT, Oct. 28 </p> 
+ <a href="https://www.nytimes.com/2021/10/28/upshot/biden-taxes-billionaires-millionaires.html">Billionaires Beat the Working Rich in Biden's Spending Bill </a> NYT: One by one, tax proposals that would have slowed dynastic wealth have been tossed from the agreement. 
  <p class="updated_time"> 06:32 PM CT, Oct. 28 </p> 
  <a href="https://www.nytimes.com/2021/10/28/climate/climate-change-framework-bill.html">Climate Change Became the Central Part of Biden Spending Bill</a> NYT: As paid family leave and other priorities were taken out of the president’s plan, the largest piece became a $555 billion plan to fight climate change. 
  <p class="updated_time"> 06:31 PM CT, Oct. 28 </p> 
- <a href="https://www.nytimes.com/2021/10/28/us/politics/biden-framework.html">A Social Policy ‘Framework’ Fails to Secure a Biden Victory</a> NYT: President Biden went to the Capitol to detail a compromise on social safety net and climate legislation, but he couldn’t break the liberal blockade on another priority, infrastructure. 
+ <a href="https://www.nytimes.com/2021/10/28/us/politics/biden-framework-bill-plan.html">A Social Policy ‘Framework’ Fails to Secure a Biden Victory</a> NYT: President Biden went to the Capitol to detail a compromise on social safety net and climate legislation, but he couldn’t break the liberal blockade on another priority, infrastructure. 
  <p class="updated_time"> 06:24 PM CT, Oct. 28 </p> 
  <a href="https://www.nytimes.com/2021/10/28/us/politics/progressives-infrastructure-biden-pelosi-support.html">Progressives Unmoved by Biden Request for Fast Vote on Infrastructure</a> NYT: Their opposition complicated plans for House leaders, who decided against holding a vote on the bill on Thursday despite President Biden’s entreaties earlier in the day. 
- <p class="updated_time"> 05:58 PM CT, Oct. 28 </p> 
- <a href="https://www.politico.com/news/2021/10/28/budget-deal-democrats-biden-framework-517469">Your guide to the huge Dem deal: 14 new policies and what could stop them</a> Politico: Democrats revealed a framework for a $1.75 trillion spending deal, but areas such as health care, child care and climate change are missing major party priorities. 
  <p class="updated_time"> 05:30 PM CT, Oct. 28 </p> 
  <a href="https://www.nytimes.com/2021/10/28/us/politics/elections-november.html">Will We See Red or Blue Mirages in Election Results on Tuesday?</a> NYT: Mail-in ballots skewed early returns in some states in 2020. Will the trend repeat itself on Tuesday? 
  <p class="updated_time"> 05:18 PM CT, Oct. 28 </p> 
  <a href="https://www.nytimes.com/2021/10/27/us/politics/supreme-court-texas-abortion.html">Briefs Draw Battle Lines as Texas Abortion Law Nears Supreme Court</a> NYT: The justices, who will hear arguments on Monday in two cases challenging the state’s near-total ban, required the parties to file their briefs with extraordinary speed. 
  <p class="updated_time"> 05:16 PM CT, Oct. 28 </p> 
  <a href="https://www.nytimes.com/2021/10/28/us/politics/supreme-court-oklahoma-executions.html">Supreme Court Lets Two Oklahoma Executions Proceed</a> NYT: By a 5-to-3 vote, the justices lifted a stay of execution that had been imposed by a federal appeals court in a challenge to the state’s lethal injection protocols. 
- <p class="updated_time"> 04:50 PM CT, Oct. 28 </p> 
- <a href="https://www.nytimes.com/2021/10/28/us/politics/spending-plan-bill-biden.html">Here's What's in Biden's $1.85 Trillion Spending Plan</a> NYT: White House officials refused to say if all holdout Democrats in Congress had expressed support for the framework. 
- <p class="updated_time"> 04:17 PM CT, Oct. 28 </p> 
- <a href="https://www.nytimes.com/2021/10/27/us/politics/democrats-reconciliation-bill-negotiations.html">Racing the Clock, Democrats Grasp for a Deal on Biden’s Agenda</a> NYT: Democrats struggled to bridge crucial differences over what to include in and how to pay for their social policy and climate plan. 
- <p class="updated_time"> 04:17 PM CT, Oct. 28 </p> 
- <a href="https://www.nytimes.com/2021/10/28/us/politics/biden-tax-plan-increases.html">How $2 Trillion in Tax Increases in Biden's Bill Target Companies and the Rich</a> NYT: The proposal to fund the president’s sprawling spending plan mostly turns up the dial on more conventional tax policies, while trying to curb maneuvers that allow tax avoidance. 
- <p class="updated_time"> 04:16 PM CT, Oct. 28 </p> 
- <a href="https://www.nytimes.com/2021/10/28/upshot/biden-taxes-billionaires-millionaires.html">Billionaires Beat the Working Rich in Biden's Spending Bill </a> NYT: One by one, tax proposals that would have slowed dynastic wealth have been tossed from the agreement. 
+ <p class="updated_time"> 04:41 PM CT, Oct. 28 </p> 
+ <a href="https://www.politico.com/news/2021/10/28/liberals-weigh-settling-for-half-a-loaf-517456">Liberals weigh their options: Settle for half a loaf, or fight</a> Politico: President Joe Biden and Democratic leaders are asking for their votes on a $1.75 trillion social spending blueprint. They're not totally sold yet. 
  <p class="updated_time"> 04:11 PM CT, Oct. 28 </p> 
  <a href="https://www.nytimes.com/2021/10/28/us/politics/biden-immigration.html">An Immigration Overhaul is Part of Biden's Spending Framework</a> NYT: Included in the plan is a proposal to protect millions of undocumented immigrants who are longtime residents of the country from deportation. 
- <p class="updated_time"> 03:41 PM CT, Oct. 28 </p> 
- <a href="https://www.politico.com/news/2021/10/28/liberals-weigh-settling-for-half-a-loaf-517456">Liberals weigh their options: Settle for half a loaf, or fight</a> Politico: President Joe Biden and Democratic leaders are asking for their votes on a $1.75 trillion social spending blueprint. They're not totally sold yet. 
  <p class="updated_time"> 01:21 PM CT, Oct. 28 </p> 
  <a href="https://www.nytimes.com/2021/10/28/business/media/tucker-carlson-geraldo-rivera-fox.html">Geraldo Rivera criticizes his Fox News colleague Tucker Carlson.</a> NYT: “I’m probably going to get in trouble for this,” Mr. Rivera said after taking issue with “false flag” claims in Mr. Carlson’s upcoming three-part series, “Patriot Purge.” 
+ <p class="updated_time"> 10:21 AM CT, Oct. 28 </p> 
+ <a href="https://www.politico.com/news/2021/10/28/sinema-biden-prescription-drug-deal-517422">Sinema reached prescription drug negotiation deal with Biden</a> Politico: But the issue was left out of the framework the White House released publicly on Thursday morning, leaving its fate uncertain. 
  <p class="updated_time"> 09:31 AM CT, Oct. 28 </p> 
  <a href="https://www.nytimes.com/article/transgender-athlete-ban.html">Transgender Athletes Face Bans From Girls’ Sports in 10 U.S. States</a> NYT: Over the past two years, nine states have enacted laws to bar transgender girls and women from competing in girls’ and women’s sports. Another relied on an executive order for a ban. 
- <p class="updated_time"> 09:21 AM CT, Oct. 28 </p> 
- <a href="https://www.politico.com/news/2021/10/28/sinema-biden-prescription-drug-deal-517422">Sinema reached prescription drug negotiation deal with Biden</a> Politico: But the issue was left out of the framework the White House released publicly on Thursday morning, leaving its fate uncertain. 
- <p class="updated_time"> 08:17 AM CT, Oct. 28 </p> 
+ <p class="updated_time"> 09:17 AM CT, Oct. 28 </p> 
  <a href="https://www.politico.com/news/2021/10/28/biden-house-democrats-517416">Dems punt House infrastructure vote in blow to Biden agenda</a> Politico: The left is frustrated over pared-back social spending. Speaker Nancy Pelosi wanted to show momentum — but she doesn't have the votes yet. 
  <p class="updated_time"> 06:56 AM CT, Oct. 28 </p> 
  <a href="https://www.nytimes.com/2021/10/27/us/politics/beloved-toni-morrison-virginia.html">Fight Over Toni Morrison Novel Inflames Virginia Governor's Race</a> NYT: A Republican ad featured a mother who had tried to have “Beloved” banned from her son’s curriculum. Democrats saw a coded racist message. 
@@ -224,29 +224,29 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/27/us/politics/diplomats-security-blinken.html">State Department Eases Restrictions for Diplomats Abroad</a> NYT: The State Department is easing some restrictions after employees said that their jobs overseas were harder than they needed to be. 
  <p class="updated_time"> 06:24 PM CT, Oct. 27 </p> 
  <a href="https://www.nytimes.com/2021/10/27/us/politics/paid-family-leave-manchin.html">Paid Family Leave Plan Is Likely to Be Cut From Budget Bill</a> NYT: Democrats had already scaled back the proposal to four weeks from 12 weeks as they worked to shrink the cost of the bill amid resistance from centrist holdouts. 
- <p class="updated_time"> 04:48 PM CT, Oct. 27 </p> 
+ <p class="updated_time"> 05:48 PM CT, Oct. 27 </p> 
  <a href="https://www.politico.com/news/2021/10/27/democrats-immigration-gambit-loses-steam-517352">Dems' last-ditch immigration gambit loses steam</a> Politico: Even if President Joe Biden can get fellow Democrats to add reform provisions to a broad social spending deal, the Senate parliamentarian can squash them. 
  <p class="updated_time"> 03:40 PM CT, Oct. 27 </p> 
  <a href="https://www.nytimes.com/2021/10/27/us/politics/budget-bill-republicans.html">Shut Out on Budget Bill, Republicans Take Shots From the Sidelines</a> NYT: The party is stepping up its attacks on the safety net measure that Democrats are shaping entirely on their own. 
- <p class="updated_time"> 11:33 AM CT, Oct. 27 </p> 
+ <p class="updated_time"> 12:33 PM CT, Oct. 27 </p> 
  <a href="https://www.politico.com/news/2021/10/27/mark-warner-havana-syndrome-intel-517331">Warner calls lack of Havana Syndrome intel ‘very, very problematic’</a> Politico: But the Senate Intelligence Committee chair insisted lawmakers are “absolutely on top of this.” 
- <p class="updated_time"> 10:25 AM CT, Oct. 27 </p> 
+ <p class="updated_time"> 11:25 AM CT, Oct. 27 </p> 
  <a href="https://www.politico.com/news/2021/10/27/top-dems-social-spending-deal-manchin-sinema-517332">Liberal frustration imperils quick Dem social spending deal</a> Politico: President Biden will visit the House Democratic Caucus on Thursday morning, delaying his planned departure on a foreign trip. 
- <p class="updated_time"> 10:22 PM CT, Oct. 26 </p> 
+ <p class="updated_time"> 11:22 PM CT, Oct. 26 </p> 
  <a href="https://www.politico.com/news/2021/10/26/january-6-committee-trump-lawyer-testimony-517310">Jan. 6 committee to seek testimony from Trump lawyer who drafted strategy to overturn election</a> Politico: John Eastman crafted a legal analysis to help the outgoing president try to overturn the 2020 results. 
- <p class="updated_time"> 04:40 PM CT, Oct. 26 </p> 
+ <p class="updated_time"> 05:40 PM CT, Oct. 26 </p> 
  <a href="https://www.politico.com/news/2021/10/26/man-arrested-for-threatening-matt-gaetz-517217">California man arrested for allegedly threatening Matt Gaetz</a> Politico: Eugene Huelsman allegedly left death threat in phone message for Florida GOP congressman days after Jan. 6 assault on Capitol. 
- <p class="updated_time"> 12:41 PM CT, Oct. 26 </p> 
+ <p class="updated_time"> 01:41 PM CT, Oct. 26 </p> 
  <a href="https://www.politico.com/news/2021/10/26/joe-manchin-irs-reporting-spending-bill-517194">Manchin: IRS reporting requirements likely 'going to be gone' from spending bill</a> Politico: Democrats have been on the defensive over that proposal for weeks now, with both the banking industry and Republicans calling it an unfair intrusion into people’s everyday finances. 
- <p class="updated_time"> 11:56 AM CT, Oct. 26 </p> 
+ <p class="updated_time"> 12:56 PM CT, Oct. 26 </p> 
  <a href="https://www.politico.com/news/2021/10/26/billionaires-tax-tension-517179">Dems confront flagging momentum for $1T-plus deal</a> Politico: The president was meeting with Sens. Kyrsten Sinema and Joe Manchin on Tuesday evening. 
- <p class="updated_time"> 04:31 AM CT, Oct. 26 </p> 
+ <p class="updated_time"> 05:31 AM CT, Oct. 26 </p> 
  <a href="https://www.politico.com/news/2021/10/26/liberals-priorities-fall-517138">Liberals grit teeth as their priorities fall by wayside</a> Politico: Democratic leaders are telling members to embrace the party bill, even as progressives see several major policy goals tossed. 
- <p class="updated_time"> 04:30 AM CT, Oct. 26 </p> 
+ <p class="updated_time"> 05:30 AM CT, Oct. 26 </p> 
  <a href="https://www.politico.com/news/2021/10/26/curious-case-of-nancy-mace-517159">The curious case of Nancy Mace</a> Politico: After Jan. 6, one GOP freshman swung away from Donald Trump then seemed to swing back — until a recent vote that nudged her back away. 
- <p class="updated_time"> 04:18 PM CT, Oct. 25 </p> 
+ <p class="updated_time"> 05:18 PM CT, Oct. 25 </p> 
  <a href="https://www.politico.com/news/2021/10/25/jan-6-investigators-steve-bannon-associate-517087">Jan. 6 investigators privately question Bannon associate</a> Politico: The panel investigating the Capitol attack brought in a conservative activist linked to Steve Bannon's We Build The Wall effort. 
- <p class="updated_time"> 01:19 PM CT, Oct. 25 </p> 
+ <p class="updated_time"> 02:19 PM CT, Oct. 25 </p> 
  <a href="https://www.politico.com/news/2021/10/25/manchin-closes-in-on-deal-with-white-house-517069">Fellow Dems lobby Manchin as he gets closer to 'yes'</a> Politico: But he's still insistent on a $1.5 trillion top line for social spending, while party leaders want a bill closer to $2 trillion. 
 
 
