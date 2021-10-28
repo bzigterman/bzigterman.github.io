@@ -6,6 +6,10 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 10:07 PM CT, Oct. 27 </p> 
+ [Your Thursday Briefing](https://www.nytimes.com/2021/10/27/briefing/merck-pill-china-hypersonic-missile.html) NYT: More access to a Covid-19 antiviral pill. 
+ <p class="updated_time"> 10:04 PM CT, Oct. 27 </p> 
+ [Sudan coup: World Bank suspends aid after military takeover](https://www.bbc.co.uk/news/world-africa-59066654?at_medium=RSS&at_campaign=KARANGA) BBC: Pressure mounts on the military to restore civilian rule as international bodies respond. 
  <p class="updated_time"> 09:24 PM CT, Oct. 27 </p> 
  [Covid Cases Keep Falling](https://www.nytimes.com/2021/10/26/briefing/covid-cases-falling-delta.html) NYT: Covid cases have been falling in every region of the U.S., offering hope. 
  <p class="updated_time"> 09:17 PM CT, Oct. 27 </p> 
@@ -32,8 +36,6 @@ permalink: /charts/news/
  [Australia to Ease Overseas Travel Rules for Vaccinated Residents](https://www.nytimes.com/2021/10/27/world/australia/australia-travel-abroad-vaccination.html) NYT: The eased restrictions will be the first stage in the country’s plan to reopen its borders since slamming them shut in 2020, separating families and leaving thousands stranded overseas. 
  <p class="updated_time"> 05:51 PM CT, Oct. 27 </p> 
  [B.J. Novak’s Face Is on Products Worldwide. He’s Not Sure Why.](https://www.nytimes.com/2021/10/27/business/bj-novak-photo-public-domain-products.html) NYT: An image of the actor appears on an eclectic mix of products from China to Uruguay. “I am too amused to do anything about it,” he said on Instagram. 
- <p class="updated_time"> 05:14 PM CT, Oct. 27 </p> 
- [Sudan coup: World Bank suspends aid after military takeover](https://www.bbc.co.uk/news/world-africa-59066654?at_medium=RSS&at_campaign=KARANGA) BBC: Pressure mounts on the military to restore civilian rule as international bodies respond. 
  <p class="updated_time"> 04:41 PM CT, Oct. 27 </p> 
  [Pope Expresses ‘Willingness’ to Visit Canada for Indigenous Reconciliation](https://www.nytimes.com/2021/10/27/world/canada/pope-indigenous-apology.html) NYT: A National Truth and Reconciliation Commission has called for a papal apology for abuses at church-run schools for Indigenous children. 
  <p class="updated_time"> 04:07 PM CT, Oct. 27 </p> 
@@ -48,8 +50,6 @@ permalink: /charts/news/
  [Queen Elizabeth Will Skip Climate Summit in Glasgow](https://www.nytimes.com/2021/10/26/world/europe/queen-elizabeth-cop26-summit.html) NYT: The 95-year-old queen, after 70 years on the throne, is the oldest and longest-serving monarch in British history. 
  <p class="updated_time"> 02:24 PM CT, Oct. 27 </p> 
  [She Climbed Yosemite's El Capitan to Celebrate Turning 70](https://www.nytimes.com/2021/10/26/sports/alex-honnold-mother-el-capitan.html) NYT: Dierdre Wolownick, whose son, Alex Honnold, is one of the world’s top rock climbers, ascended Yosemite’s El Capitan to celebrate her 70th birthday. 
- <p class="updated_time"> 02:20 PM CT, Oct. 27 </p> 
- [The Rich World’s Promise of $100 Billion in Climate Aid Inches Forward](https://www.nytimes.com/2021/10/25/climate/100-billion-climate-aid-cop26.html) NYT: Diplomats announced a plan to make good on an unkept promise of climate aid, a key point of tension in upcoming global climate talks. 
  <p class="updated_time"> 02:15 PM CT, Oct. 27 </p> 
  [U.N. Group Blames Unequal Vaccine Access for Bigger Global Economic Gap](https://www.nytimes.com/2021/10/27/world/united-nations-coronavirus.html) NYT: Wealthier countries with high vaccination rates have had speedier economic recoveries than poorer countries with low vaccination rates, the International Labor Organization said. 
  <p class="updated_time"> 01:51 PM CT, Oct. 27 </p> 
