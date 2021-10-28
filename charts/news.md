@@ -6,6 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 11:57 PM CT, Oct. 27 </p> 
+ [Fishing rights row: French threats disappointing, says Frost](https://www.bbc.co.uk/news/uk-59069951?at_medium=RSS&at_campaign=KARANGA) BBC: The Brexit minister seeks "urgent clarification" after France says it will block ports to UK boats. 
  <p class="updated_time"> 11:10 PM CT, Oct. 27 </p> 
  [Why China Is the World’s Last ‘Zero Covid’ Holdout](https://www.nytimes.com/2021/10/27/world/asia/china-zero-covid-virus.html) NYT: The government has staked its political legitimacy on controlling the virus better than other countries, especially its geopolitical rivals. 
  <p class="updated_time"> 11:01 PM CT, Oct. 27 </p> 
@@ -50,8 +52,6 @@ permalink: /charts/news/
  [Pope Expresses ‘Willingness’ to Visit Canada for Indigenous Reconciliation](https://www.nytimes.com/2021/10/27/world/canada/pope-indigenous-apology.html) NYT: A National Truth and Reconciliation Commission has called for a papal apology for abuses at church-run schools for Indigenous children. 
  <p class="updated_time"> 04:07 PM CT, Oct. 27 </p> 
  [Merck Will Share Formula for Its Covid Pill With Poor Countries](https://www.nytimes.com/2021/10/27/health/covid-pill-access-molnupiravir.html) NYT: The company announced a licensing deal that will allow the drug, molnupiravir, to be made and sold cheaply in 105 developing nations. 
- <p class="updated_time"> 03:54 PM CT, Oct. 27 </p> 
- [Fishing rights row: French threats disappointing, says Frost](https://www.bbc.co.uk/news/uk-59069951?at_medium=RSS&at_campaign=KARANGA) BBC: The Brexit minister seeks "urgent clarification" after France says it will block ports to UK boats. 
  <p class="updated_time"> 03:44 PM CT, Oct. 27 </p> 
  [Poland told to pay €1m a day in legal row with EU](https://www.bbc.co.uk/news/world-europe-59064883?at_medium=RSS&at_campaign=KARANGA) BBC: The ruling is the latest step in an escalating dispute over Poland's legal reforms. 
  <p class="updated_time"> 02:48 PM CT, Oct. 27 </p> 
