@@ -2,7 +2,51 @@ library(tidyRSS)
 library(tidyverse)
 library(lubridate)
 
+past_week <- ymd_hms(now()) - days(7)
+
+
 # gather news ----
+
+## politics ----
+politico_politics <- tidyfeed("http://rss.politico.com/congress.xml") %>%
+  select(feed_title, item_pub_date,item_title, item_link, item_description) %>%
+  mutate(feed = "Politico")
+politico_playbook <- tidyfeed("http://rss.politico.com/playbook.xml") %>%
+  select(feed_title, item_pub_date,item_title, item_link, item_description) %>%
+  mutate(feed = "Politico")
+nyt_politics <- tidyfeed("https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml") %>%
+  select(feed_title, item_pub_date,item_title, item_link, item_description) %>%
+  mutate(feed = "NYT")
+
+
+politics_news <- full_join(politico_politics, politico_playbook) %>%
+  full_join(nyt_politics) %>%
+  filter(item_pub_date > past_week) %>%
+  arrange(desc(item_pub_date)) %>%
+  mutate(item_md_link = paste("[",item_title,"](",item_link,")",
+                              sep = "")) %>%
+  mutate(feed_plus_description = paste(feed,": ",item_description,
+                                       sep = ""))%>%
+  mutate(utc_time = force_tz(item_pub_date, tz = "UTC")) %>%
+  mutate(central_time = with_tz(utc_time, tz = "America/Chicago")) %>%
+  mutate(clean_time = strftime(x = central_time, 
+                               tz = "US/Central",
+                               format = "%I:%M% %p CT, %b. %d"))
+
+
+### create list ----
+politics_news_lines <- c()
+for (x in 1:nrow(politics_news)) {
+  line=paste("<p class=\"updated_time\">",
+             politics_news$clean_time[[x]],
+             "</p>",
+             "\n",
+             politics_news$item_md_link[[x]], 
+             politics_news$feed_plus_description[[x]],
+             "\n")
+  politics_news_lines = paste(politics_news_lines, line)
+}
+politics_news_lines 
 
 ## world ----
 
@@ -15,8 +59,6 @@ wsj <- tidyfeed("https://feeds.a.dj.com/rss/RSSWorldNews.xml")%>%
 bbc <- tidyfeed("http://feeds.bbci.co.uk/news/world/rss.xml")%>%
   select(feed_title, item_pub_date,item_title, item_link, item_description)%>%
   mutate(feed = "BBC")
-
-past_week <- ymd_hms(now()) - days(7)
 
 world_news <- full_join(nyt, wsj) %>%
   full_join(bbc) %>%
@@ -32,8 +74,8 @@ world_news <- full_join(nyt, wsj) %>%
                                tz = "US/Central",
                                format = "%I:%M% %p CT, %b. %d"))
 
-# create list ----
-lines <- c()
+### create list ----
+world_news_lines <- c()
 for (x in 1:nrow(world_news)) {
   line=paste("<p class=\"updated_time\">",
              world_news$clean_time[[x]],
@@ -42,9 +84,9 @@ for (x in 1:nrow(world_news)) {
              world_news$item_md_link[[x]], 
              world_news$feed_plus_description[[x]],
              "\n")
-  lines = paste(lines, line)
+  world_news_lines = paste(world_news_lines, line)
 }
-lines 
+world_news_lines 
 
 # web text ----
 
@@ -57,7 +99,11 @@ permalink: /projects/news/
 
 ## World News
 
-",lines,"
+",world_news_lines,"
+
+## Politics
+
+",politics_news_lines,"
 
 ",
 sep = ""
