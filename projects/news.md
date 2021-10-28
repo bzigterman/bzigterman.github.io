@@ -6,10 +6,10 @@ permalink: /projects/news/
 
 ## World News
 
+ <p class="updated_time"> 01:58 PM CT, Oct. 28 </p> 
+ [Facebook changes its name to Meta in major rebrand](https://www.bbc.co.uk/news/technology-59083601?at_medium=RSS&at_campaign=KARANGA) BBC: The social media giant says the new name will better encompass what it does. 
  <p class="updated_time"> 01:38 PM CT, Oct. 28 </p> 
  [Oakland's Plan: Transfer or Unenroll Unvaccinated Students](https://www.nytimes.com/2021/10/28/world/oakland-schools-vaccine-mandate-enforcement.html) NYT: Students who do not comply with the school district’s vaccine mandate will have two choices: switch to an independent-study school or be dropped from the rolls. 
- <p class="updated_time"> 01:36 PM CT, Oct. 28 </p> 
- [Facebook changes its name to Meta in major rebrand](https://www.bbc.co.uk/news/technology-59083601?at_medium=RSS&at_campaign=KARANGA) BBC: The social media giant says the new name will better encompass what it does. 
  <p class="updated_time"> 01:29 PM CT, Oct. 28 </p> 
  [France and the United States Seek an Elusive Reconciliation](https://www.nytimes.com/2021/10/28/world/europe/france-biden-macron-g20.html) NYT: The Biden administration is poised to offer the French some defense-related emollients after their falling out over a sabotaged submarine deal. But some damage may last. 
  <p class="updated_time"> 01:06 PM CT, Oct. 28 </p> 
