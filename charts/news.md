@@ -6,8 +6,14 @@ permalink: /charts/news/
 
 ## World News
 
- <p class="updated_time"> 03:52 AM CT, Oct. 28 </p> 
- [ Morshyn, a Ukrainian Town, Succeeds With Vaccine Experiment](https://www.nytimes.com/2021/10/27/world/europe/ukraine-covid-vaccination-campaign.html) NYT: A government vaccine blitz in a small spa town that relies on tourist revenues led to a precipitous drop in Covid cases and deaths. 
+ <p class="updated_time"> 04:11 AM CT, Oct. 28 </p> 
+ [Japan's Covid Cases Drop Drastically After Summer Peak](https://www.nytimes.com/2021/10/28/world/asia/japan-covid-drop.html) NYT: Just a few months ago, the country was recording tens of thousands of cases daily. Now the numbers are in the hundreds each day. 
+ <p class="updated_time"> 04:02 AM CT, Oct. 28 </p> 
+ [UK boat detained by France amid fishing rights row](https://www.bbc.co.uk/news/uk-59073715?at_medium=RSS&at_campaign=KARANGA) BBC: A French minister says the boat did not have a licence to fish in French waters and was seized. 
+ <p class="updated_time"> 04:00 AM CT, Oct. 28 </p> 
+ [Meeting Between Francis and Biden Will Highlight Their Rift With American Bishops](https://www.nytimes.com/2021/10/28/world/europe/pope-biden-catholic-church-rift.html) NYT: The pope and president, who meet at the Vatican on Friday, are the common targets of conservative American bishops seeking to undercut them. 
+ <p class="updated_time"> 03:41 AM CT, Oct. 28 </p> 
+ [Wes Anderson’s Dream of France, and the Paris I Remember](https://www.nytimes.com/2021/10/28/movies/french-dispatch-paris.html) NYT: With “The French Dispatch,” the director’s latest, yet another American artist falls under the country’s spell. The Times’s Paris bureau chief recalls when the same thing happened to him. 
  <p class="updated_time"> 03:36 AM CT, Oct. 28 </p> 
  [Hellishly Hot Tiny Town Offers ‘Free’ Land. Hundreds of Calls Came In.](https://www.nytimes.com/2021/10/27/world/australia/free-land.html) NYT: The town in Australia’s outback, where the temperature can hit 113 degrees Fahrenheit, drew global inquiries when it offered “free” land in a bid to expand its population. 
  <p class="updated_time"> 03:30 AM CT, Oct. 28 </p> 
@@ -16,8 +22,6 @@ permalink: /charts/news/
  [China limits construction of 'super high-rise buildings'](https://www.bbc.co.uk/news/world-asia-china-59046480?at_medium=RSS&at_campaign=KARANGA) BBC: The decision is being seen as part of a larger bid to crackdown on vanity projects. 
  <p class="updated_time"> 02:57 AM CT, Oct. 28 </p> 
  [Helping Chinatown's elderly during the pandemic](https://www.bbc.co.uk/news/world-us-canada-59071514?at_medium=RSS&at_campaign=KARANGA) BBC: A volunteer army is delivering hundreds of meals to elderly East-Asians in New York. 
- <p class="updated_time"> 02:54 AM CT, Oct. 28 </p> 
- [UK boat detained by France amid fishing rights row](https://www.bbc.co.uk/news/uk-59073715?at_medium=RSS&at_campaign=KARANGA) BBC: A French minister says the boat did not have a licence to fish in French waters and was seized. 
  <p class="updated_time"> 02:51 AM CT, Oct. 28 </p> 
  [Sitting Bull: DNA confirms great-grandson's identity](https://www.bbc.co.uk/news/world-us-canada-59062133?at_medium=RSS&at_campaign=KARANGA) BBC: A sample of the Native American leader's hair confirms the identity of his great-grandson. 
  <p class="updated_time"> 12:34 AM CT, Oct. 28 </p> 
@@ -152,8 +156,6 @@ permalink: /charts/news/
  [Iran Wanted U.S. Out of Afghanistan. It May Be Sorry the Wish Came True.](https://www.nytimes.com/2021/10/26/world/middleeast/iran-taliban-afghanistan.html) NYT: Iran is glad the Americans are gone, but the Taliban takeover of Afghanistan creates a host of problems for Tehran, with no easy solutions. 
  <p class="updated_time"> 08:50 AM CT, Oct. 26 </p> 
  [Moderna to Sell Up to 110 Million Covid Vaccine Doses to African Countries](https://www.nytimes.com/2021/10/26/world/africa/covid-moderna-african-union.html) NYT: Moderna’s shots have previously gone almost entirely to wealthier countries. 
- <p class="updated_time"> 07:40 AM CT, Oct. 26 </p> 
- [U.S. Halts Aid to Sudan Government After Coup](https://www.nytimes.com/2021/10/25/world/africa/us-aid-frozen-sudan.html) NYT: The Biden administration, calling for immediate restoration of the transition government, froze $700 million in direct aid. 
  <p class="updated_time"> 03:40 AM CT, Oct. 26 </p> 
  [Australia Pledges ‘Net Zero’ Emissions by 2050. Its Plan Makes That Hard to Believe.](https://www.nytimes.com/2021/10/26/world/australia/net-zero-delay.html) NYT: The country’s last-minute commitment before next week’s climate summit is built on hope for new technology, and little else. 
  <p class="updated_time"> 10:24 PM CT, Oct. 25 </p> 
@@ -162,8 +164,6 @@ permalink: /charts/news/
  [Eco-friendly sex: What is it and how does it impact on climate change?](https://www.bbc.co.uk/news/science-environment-59046518?at_medium=RSS&at_campaign=KARANGA) BBC: As more people try to live environmentally friendly lives, how do we make sex more sustainable? 
  <p class="updated_time"> 09:46 PM CT, Oct. 25 </p> 
  [Your Tuesday Briefing](https://www.nytimes.com/2021/10/25/briefing/sudan-coup-facebook-crisis.html) NYT: The military seizes power in Sudan. 
- <p class="updated_time"> 07:55 PM CT, Oct. 25 </p> 
- [Your Tuesday Briefing](https://www.nytimes.com/2021/10/25/briefing/sudan-coup-moderna-kids-hong-kong.html) NYT: Sudan’s military seizes power. 
  <p class="updated_time"> 07:12 PM CT, Oct. 25 </p> 
  [Climate change: Four things you can do about your carbon footprint](https://www.bbc.co.uk/news/science-environment-58171814?at_medium=RSS&at_campaign=KARANGA) BBC: Small changes to our lifestyles and choices could limit our personal carbon footprint. 
  <p class="updated_time"> 07:08 PM CT, Oct. 25 </p> 
