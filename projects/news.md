@@ -7,10 +7,12 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:25 PM CT, Oct. 28 </p> 
+ <a href="https://www.nytimes.com/2021/10/28/world/meatpacking-workers-covid-cases-deaths.html">Covid Hit U.S. Meat Plants Far Harder Than Thought, Report Says</a> NYT: The industry had three times as many Covid infections in the pandemic’s early months as previously believed, a select committee says. 
  <p class="updated_time"> 04:01 PM CT, Oct. 28 </p> 
  <a href="https://www.nytimes.com/2021/10/28/briefing/covid-zero-china-coal-cop-26.html">Your Friday Briefing</a> NYT: China sticks to a ‘zero-Covid’ strategy. 
- <p class="updated_time"> 03:26 PM CT, Oct. 28 </p> 
- <a href="https://www.nytimes.com/2021/10/28/world/meatpacking-workers-covid-cases-deaths.html">Covid Hit U.S. Meat Plants Far Harder Than Thought, Report Says</a> NYT: The industry had three times as many Covid infections in the pandemic’s early months as previously believed, a select committee says. 
+ <p class="updated_time"> 03:59 PM CT, Oct. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59083395?at_medium=RSS&at_campaign=KARANGA">Climate change: Major US oil companies face grilling by Congress</a> BBC: House Democrats accuse major oil companies of misleading the public for decades. 
  <p class="updated_time"> 03:16 PM CT, Oct. 28 </p> 
  <a href="https://www.nytimes.com/2021/10/28/world/asia/japan-election-rural-urban.html">In Japan Elections, Rural Voters Count More Than Those in Big Cities</a> NYT: The disproportionate weight of rural voters in Japan gives sparsely populated parts of the country more representation — and more government largess — than urban areas, perpetuating what critics call an unfair system. 
  <p class="updated_time"> 03:09 PM CT, Oct. 28 </p> 
@@ -190,6 +192,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:25 PM CT, Oct. 28 </p> 
+ <a href="https://www.nytimes.com/2021/10/28/us/politics/supreme-court-oklahoma-executions.html">Supreme Court Lets Two Oklahoma Executions Proceed</a> NYT: By a 5-to-3 vote, the justices lifted a stay of execution that had been imposed by a federal appeals court in a challenge to the state’s lethal injection protocols. 
  <p class="updated_time"> 04:17 PM CT, Oct. 28 </p> 
  <a href="https://www.nytimes.com/2021/10/27/us/politics/democrats-reconciliation-bill-negotiations.html">Racing the Clock, Democrats Grasp for a Deal on Biden’s Agenda</a> NYT: Democrats struggled to bridge crucial differences over what to include in and how to pay for their social policy and climate plan. 
  <p class="updated_time"> 04:17 PM CT, Oct. 28 </p> 
@@ -202,30 +206,18 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/28/us/politics/immigration-biden-plan.html">An Immigration Overhaul is Part of Biden's Spending Framework</a> NYT: Included in the plan is a proposal to protect millions of undocumented immigrants who are longtime residents of the country from deportation. 
  <p class="updated_time"> 01:21 PM CT, Oct. 28 </p> 
  <a href="https://www.nytimes.com/2021/10/28/business/media/tucker-carlson-geraldo-rivera-fox.html">Geraldo Rivera criticizes his Fox News colleague Tucker Carlson.</a> NYT: “I’m probably going to get in trouble for this,” Mr. Rivera said after taking issue with “false flag” claims in Mr. Carlson’s upcoming three-part series, “Patriot Purge.” 
- <p class="updated_time"> 10:57 AM CT, Oct. 28 </p> 
- <a href="https://www.nytimes.com/2021/10/27/us/politics/manchin-billionaires-tax.html">Manchin Denounces Billionaires Tax as Divisive</a> NYT: The plan stakes out new territory by putting levies on unrealized gains in the value of billionaires’ liquid assets, such as stocks, bonds and cash. 
- <p class="updated_time"> 10:51 AM CT, Oct. 28 </p> 
- <a href="https://www.politico.com/video/2021/10/28/big-oil-hearing-katie-porter-388892">Lawmaker grills Big Oil execs with M&Ms and bags of rice</a> Politico: NA 
- <p class="updated_time"> 09:41 AM CT, Oct. 28 </p> 
+ <p class="updated_time"> 03:41 PM CT, Oct. 28 </p> 
  <a href="https://www.politico.com/news/2021/10/28/liberals-weigh-settling-for-half-a-loaf-517456">Liberals weigh their options: Settle for half a loaf, or fight</a> Politico: President Joe Biden and Democratic leaders are asking for their votes on a $1.75 trillion social spending blueprint. They're not totally sold yet. 
  <p class="updated_time"> 09:31 AM CT, Oct. 28 </p> 
  <a href="https://www.nytimes.com/article/transgender-athlete-ban.html">Transgender Athletes Face Bans From Girls’ Sports in 10 U.S. States</a> NYT: Over the past two years, nine states have enacted laws to bar transgender girls and women from competing in girls’ and women’s sports. Another relied on an executive order for a ban. 
- <p class="updated_time"> 09:16 AM CT, Oct. 28 </p> 
- <a href="https://www.politico.com/video/2021/10/28/pelosi-asked-about-progressive-caucus-dissension-on-bif-vote-388672">Pelosi asked about progressive caucus dissension on BIF vote</a> Politico: NA 
  <p class="updated_time"> 09:13 AM CT, Oct. 28 </p> 
  <a href="https://www.nytimes.com/2021/10/27/us/black-women-mayor-us-cities.html">8 Black Women Who Are Mayors in Some of the U.S.'s Biggest Cities</a> NYT: Black women achieved a historic milestone as mayors of eight major American cities this year. Political analysts say the record number points to “the age of Black women in politics.” 
- <p class="updated_time"> 07:44 AM CT, Oct. 28 </p> 
- <a href="https://www.politico.com/video/2021/10/28/sanders-calls-out-gaps-in-infrastructure-bill-signals-house-should-hold-off-on-vote-388524">Sanders calls out 'gaps' in infrastructure bill, signals House should hold off on vote</a> Politico: NA 
  <p class="updated_time"> 06:56 AM CT, Oct. 28 </p> 
  <a href="https://www.nytimes.com/2021/10/27/us/politics/beloved-toni-morrison-virginia.html">Fight Over Toni Morrison Novel Inflames Virginia Governor's Race</a> NYT: A Republican ad featured a mother who had tried to have “Beloved” banned from her son’s curriculum. Democrats saw a coded racist message. 
- <p class="updated_time"> 04:54 AM CT, Oct. 28 </p> 
- <a href="https://www.politico.com/video/2021/10/28/aoc-says-passing-bif-alone-is-not-a-positive-climate-message-388292">AOC says passing BIF alone is not a 'positive Climate message'</a> Politico: NA 
- <p class="updated_time"> 03:21 AM CT, Oct. 28 </p> 
+ <p class="updated_time"> 09:21 AM CT, Oct. 28 </p> 
  <a href="https://www.politico.com/news/2021/10/28/sinema-biden-prescription-drug-deal-517422">Sinema reached prescription drug negotiation deal with Biden</a> Politico: But the issue was left out of the framework the White House released publicly on Thursday morning, leaving its fate uncertain. 
- <p class="updated_time"> 02:17 AM CT, Oct. 28 </p> 
+ <p class="updated_time"> 08:17 AM CT, Oct. 28 </p> 
  <a href="https://www.politico.com/news/2021/10/28/biden-house-democrats-517416">Pelosi works to unstick liberal resistance on Biden agenda</a> Politico: The left is frustrated over pared-back social spending. The speaker wants an infrastructure bill passed as soon as Thursday — but she doesn't have the votes yet. 
- <p class="updated_time"> 12:44 AM CT, Oct. 28 </p> 
- <a href="https://www.politico.com/newsletters/playbook/2021/10/28/biden-launches-rescue-mission-before-rome-494881">POLITICO Playbook: Biden launches rescue mission before Rome</a> Politico: And Biden prepares for his overseas trip. 
  <p class="updated_time"> 10:32 PM CT, Oct. 27 </p> 
  <a href="https://www.nytimes.com/2021/10/27/us/politics/democrats-rush-rewrite-tax-code.html">Democrats Rush to Rewrite U.S. Tax Code in Days</a> NYT: Lawmakers are racing to finalize legislation to pay for new spending initiatives. The process usually takes months, but they are trying to do it in days. 
  <p class="updated_time"> 08:17 PM CT, Oct. 27 </p> 
@@ -246,64 +238,32 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/27/us/politics/election-day-2021-voting-guide.html">Where Do I Vote? We Answer This and Other Election Day 2021 Questions</a> NYT: Local and statewide elections are being held around the country on Tuesday. Here are some of the Election Day basics. 
  <p class="updated_time"> 01:26 PM CT, Oct. 27 </p> 
  <a href="https://www.nytimes.com/2021/10/27/us/politics/biden-immigration-ice-schools-hospitals.html">Biden Bars Immigration Enforcement in 'Protected Areas’</a> NYT: The Biden administration included schools, hospitals, parades and places of worship on a list of areas off limits to immigration arrests or other types of enforcement. 
- <p class="updated_time"> 10:48 AM CT, Oct. 27 </p> 
+ <p class="updated_time"> 04:48 PM CT, Oct. 27 </p> 
  <a href="https://www.politico.com/news/2021/10/27/democrats-immigration-gambit-loses-steam-517352">Dems' last-ditch immigration gambit loses steam</a> Politico: Even if President Joe Biden can get fellow Democrats to add reform provisions to a broad social spending deal, the Senate parliamentarian can squash them. 
- <p class="updated_time"> 07:10 AM CT, Oct. 27 </p> 
- <a href="https://www.politico.com/video/2021/10/27/manchin-gives-an-update-on-spending-bill-negotiations-387517">Manchin gives an update on spending bill negotiations</a> Politico: NA 
- <p class="updated_time"> 06:21 AM CT, Oct. 27 </p> 
- <a href="https://www.politico.com/video/2021/10/27/warner-on-filibuster-i-would-carve-out-an-exception-around-voting-rights-387439">Warner on filibuster: I would 'carve out an exception around voting rights'</a> Politico: NA 
- <p class="updated_time"> 06:18 AM CT, Oct. 27 </p> 
- <a href="https://www.politico.com/video/2021/10/27/warner-on-spending-bill-negotiation-i-wouldnt-be-surprised-if-speaker-pelosi-pulled-a-rabbit-out-of-the-hat-387417">Warner on spending bill negotiation: 'I wouldn't be surprised if Speaker Pelosi pulled a rabbit out of the hat'</a> Politico: NA 
- <p class="updated_time"> 06:16 AM CT, Oct. 27 </p> 
- <a href="https://www.politico.com/video/2021/10/27/warner-weighs-in-on-va-gubernatorial-race-387403">Warner weighs in on VA gubernatorial race</a> Politico: NA 
- <p class="updated_time"> 05:53 AM CT, Oct. 27 </p> 
- <a href="https://www.politico.com/video/2021/10/27/warner-previous-administration-just-whiffed-on-handling-havana-syndrome-387281">Warner: Previous administration 'just whiffed' on handling Havana Syndrome</a> Politico: NA 
- <p class="updated_time"> 05:33 AM CT, Oct. 27 </p> 
+ <p class="updated_time"> 11:33 AM CT, Oct. 27 </p> 
  <a href="https://www.politico.com/news/2021/10/27/mark-warner-havana-syndrome-intel-517331">Warner calls lack of Havana Syndrome intel ‘very, very problematic’</a> Politico: But the Senate Intelligence Committee chair insisted lawmakers are “absolutely on top of this.” 
- <p class="updated_time"> 04:25 AM CT, Oct. 27 </p> 
+ <p class="updated_time"> 10:25 AM CT, Oct. 27 </p> 
  <a href="https://www.politico.com/news/2021/10/27/top-dems-social-spending-deal-manchin-sinema-517332">Liberal frustration imperils quick Dem social spending deal</a> Politico: President Biden will visit the House Democratic Caucus on Thursday morning, delaying his planned departure on a foreign trip. 
- <p class="updated_time"> 12:16 AM CT, Oct. 27 </p> 
- <a href="https://www.politico.com/newsletters/playbook/2021/10/27/except-for-every-sticking-point-dems-are-close-to-a-deal-494862">POLITICO Playbook: Except for every sticking point, Dems are close to a deal</a> Politico: And Mitch McConnell lines up behind Herschel Walker in Georgia. 
- <p class="updated_time"> 04:22 PM CT, Oct. 26 </p> 
+ <p class="updated_time"> 10:22 PM CT, Oct. 26 </p> 
  <a href="https://www.politico.com/news/2021/10/26/january-6-committee-trump-lawyer-testimony-517310">Jan. 6 committee to seek testimony from Trump lawyer who drafted strategy to overturn election</a> Politico: John Eastman crafted a legal analysis to help the outgoing president try to overturn the 2020 results. 
- <p class="updated_time"> 10:40 AM CT, Oct. 26 </p> 
+ <p class="updated_time"> 04:40 PM CT, Oct. 26 </p> 
  <a href="https://www.politico.com/news/2021/10/26/man-arrested-for-threatening-matt-gaetz-517217">California man arrested for allegedly threatening Matt Gaetz</a> Politico: Eugene Huelsman allegedly left death threat in phone message for Florida GOP congressman days after Jan. 6 assault on Capitol. 
- <p class="updated_time"> 09:40 AM CT, Oct. 26 </p> 
- <a href="https://www.politico.com/video/2021/10/26/chuck-schumer-spending-deal-386404">Schumer projects confidence on spending bill deal</a> Politico: NA 
- <p class="updated_time"> 09:29 AM CT, Oct. 26 </p> 
- <a href="https://www.politico.com/video/2021/10/26/180-second-wrap-snapchat-tiktok-and-youtube-execs-testify-at-senate-hearing-386370">180 second wrap: Snapchat, TikTok and YouTube execs testify at Senate hearing</a> Politico: NA 
- <p class="updated_time"> 07:26 AM CT, Oct. 26 </p> 
- <a href="https://www.politico.com/video/2021/10/26/sienfeld-presidency-romney-criticizes-bidens-handling-of-spending-bill-negotiation-386228">'Seinfeld Presidency': Romney criticizes Biden's handling of spending bill negotiation</a> Politico: NA 
- <p class="updated_time"> 06:41 AM CT, Oct. 26 </p> 
+ <p class="updated_time"> 12:41 PM CT, Oct. 26 </p> 
  <a href="https://www.politico.com/news/2021/10/26/joe-manchin-irs-reporting-spending-bill-517194">Manchin: IRS reporting requirements likely 'going to be gone' from spending bill</a> Politico: Democrats have been on the defensive over that proposal for weeks now, with both the banking industry and Republicans calling it an unfair intrusion into people’s everyday finances. 
- <p class="updated_time"> 05:56 AM CT, Oct. 26 </p> 
+ <p class="updated_time"> 11:56 AM CT, Oct. 26 </p> 
  <a href="https://www.politico.com/news/2021/10/26/billionaires-tax-tension-517179">Dems confront flagging momentum for $1T-plus deal</a> Politico: The president was meeting with Sens. Kyrsten Sinema and Joe Manchin on Tuesday evening. 
- <p class="updated_time"> 05:44 AM CT, Oct. 26 </p> 
- <a href="https://www.politico.com/video/2021/10/26/bernie-sanders-reconciliation-manchin-sinema-386136">Sanders takes a hard line against demands by Manchin, Sinema</a> Politico: NA 
- <p class="updated_time"> 12:10 AM CT, Oct. 26 </p> 
- <a href="https://www.politico.com/newsletters/playbook/2021/10/26/bidens-new-problem-on-the-left-494842">POLITICO Playbook: Biden’s new problem on the left</a> Politico: And the White House goes all-in for Terry McAuliffe in Virginia. 
- <p class="updated_time"> 10:31 PM CT, Oct. 25 </p> 
+ <p class="updated_time"> 04:31 AM CT, Oct. 26 </p> 
  <a href="https://www.politico.com/news/2021/10/26/liberals-priorities-fall-517138">Liberals grit teeth as their priorities fall by wayside</a> Politico: Democratic leaders are telling members to embrace the party bill, even as progressives see several major policy goals tossed. 
- <p class="updated_time"> 10:30 PM CT, Oct. 25 </p> 
+ <p class="updated_time"> 04:30 AM CT, Oct. 26 </p> 
  <a href="https://www.politico.com/news/2021/10/26/curious-case-of-nancy-mace-517159">The curious case of Nancy Mace</a> Politico: After Jan. 6, one GOP freshman swung away from Donald Trump then seemed to swing back — until a recent vote that nudged her back away. 
- <p class="updated_time"> 10:18 AM CT, Oct. 25 </p> 
+ <p class="updated_time"> 04:18 PM CT, Oct. 25 </p> 
  <a href="https://www.politico.com/news/2021/10/25/jan-6-investigators-steve-bannon-associate-517087">Jan. 6 investigators privately question Bannon associate</a> Politico: The panel investigating the Capitol attack brought in a conservative activist linked to Steve Bannon's We Build The Wall effort. 
- <p class="updated_time"> 07:19 AM CT, Oct. 25 </p> 
+ <p class="updated_time"> 01:19 PM CT, Oct. 25 </p> 
  <a href="https://www.politico.com/news/2021/10/25/manchin-closes-in-on-deal-with-white-house-517069">Fellow Dems lobby Manchin as he gets closer to 'yes'</a> Politico: But he's still insistent on a $1.5 trillion top line for social spending, while party leaders want a bill closer to $2 trillion. 
- <p class="updated_time"> 07:16 AM CT, Oct. 25 </p> 
- <a href="https://www.politico.com/video/2021/10/25/joe-manchin-deal-spending-plan-385506">Manchin speaks out: Deal on ‘conceptual framework’ could happen this week</a> Politico: NA 
- <p class="updated_time"> 12:06 AM CT, Oct. 25 </p> 
- <a href="https://www.politico.com/newsletters/playbook/2021/10/25/the-9-most-important-days-of-bidens-presidency-494826">POLITICO Playbook: The 9 most important days of Biden’s presidency</a> Politico: And President Joe Biden's approval rating hits a new low. 
- <p class="updated_time"> 10:31 PM CT, Oct. 24 </p> 
+ <p class="updated_time"> 04:31 AM CT, Oct. 25 </p> 
  <a href="https://www.politico.com/news/2021/10/25/whats-still-in-the-dem-megabill-cheat-sheet-on-12-big-topics-516844">What's still in the Dem megabill? Cheat sheet on 12 big topics</a> Politico: The child tax credit, free community college, health care provisions and more all look drastically different from what Democrats first envisioned. 
- <p class="updated_time"> 10:31 PM CT, Oct. 24 </p> 
+ <p class="updated_time"> 04:31 AM CT, Oct. 25 </p> 
  <a href="https://www.politico.com/news/2021/10/25/democrats-agenda-china-bill-516799">There’s another big Dem agenda holdup: A stalled China competitiveness bill</a> Politico: The party's senators, who have already passed their version of the key national-security initiative, are pressuring House colleagues to act. 
- <p class="updated_time"> 05:33 AM CT, Oct. 24 </p> 
- <a href="https://www.politico.com/newsletters/playbook/2021/10/24/mcauliffe-and-youngkin-put-their-cards-on-the-table-494820">POLITICO Playbook: McAuliffe and Youngkin put their cards on the table</a> Politico: And Chuck Schumer and Joe Manchin go to Delaware for a chat with President Joe Biden. 
- <p class="updated_time"> 03:46 AM CT, Oct. 23 </p> 
- <a href="https://www.politico.com/newsletters/playbook/2021/10/23/facebook-news-floods-the-news-feeds-494819">POLITICO Playbook: Facebook news floods the news feeds</a> Politico: And Lev Parnas is found guilty. 
- <p class="updated_time"> 12:16 AM CT, Oct. 22 </p> 
- <a href="https://www.politico.com/newsletters/playbook/2021/10/22/nightlife-loving-eric-adams-has-a-friend-in-rupert-murdoch-494808">POLITICO Playbook: Nightlife-loving Eric Adams has a friend in Rupert Murdoch</a> Politico: And Biden gets into the reconciliation nitty-gritty. 
 
 
 </details>
