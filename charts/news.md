@@ -6,6 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 12:34 AM CT, Oct. 28 </p> 
+ [ICC T20 World Cup: India arrests Muslims for cheering Pakistan cricket team](https://www.bbc.co.uk/news/world-asia-india-59059494?at_medium=RSS&at_campaign=KARANGA) BBC: Several people have been arrested for supporting Pakistan during Sunday's T20 World Cup cricket game. 
  <p class="updated_time"> 12:29 AM CT, Oct. 28 </p> 
  [Alec Baldwin shooting: Criminal charges may be filed, prosecutor says](https://www.bbc.co.uk/news/world-us-canada-59068976?at_medium=RSS&at_campaign=KARANGA) BBC: A US prosecutor says "all options are on the table" over the shooting involving actor Alec Baldwin. 
  <p class="updated_time"> 12:12 AM CT, Oct. 28 </p> 
@@ -80,8 +82,6 @@ permalink: /charts/news/
  [Wonders, and Horrors, Drawn From Boyhood in a War Zone](https://www.nytimes.com/2021/10/27/arts/design/petrit-halilaj-tate-kosovo-war.html) NYT: Petrit Halilaj became one of Kosovo’s most acclaimed artists with work that reflects on his country’s past. Now, he’s getting personal. 
  <p class="updated_time"> 11:45 AM CT, Oct. 27 </p> 
  [Israel advances plans for 3,000 new homes in West Bank settlements](https://www.bbc.co.uk/news/world-middle-east-59062909?at_medium=RSS&at_campaign=KARANGA) BBC: The move follows a strong public rebuke of Israeli policy from US President Biden's administration. 
- <p class="updated_time"> 10:26 AM CT, Oct. 27 </p> 
- [Brazil senators back criminal charges against Bolsonaro over Covid handling](https://www.bbc.co.uk/news/world-latin-america-59051105?at_medium=RSS&at_campaign=KARANGA) BBC: Senators in Brazil vote to recommend charging the president over his handling of the pandemic. 
  <p class="updated_time"> 10:22 AM CT, Oct. 27 </p> 
  [Footballer Josh Cavallo on coming out as gay: 'It's my freedom day'](https://www.bbc.co.uk/news/world-australia-59068417?at_medium=RSS&at_campaign=KARANGA) BBC: Josh Cavallo has come out as gay - the only current top level male professional footballer to do so. 
  <p class="updated_time"> 09:36 AM CT, Oct. 27 </p> 
