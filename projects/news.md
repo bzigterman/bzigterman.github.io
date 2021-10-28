@@ -192,6 +192,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:55 PM CT, Oct. 28 </p> 
+ <a href="https://www.nytimes.com/2021/10/27/us/politics/biden-immigration-ice-schools-hospitals.html">Biden Bars Immigration Enforcement in 'Protected Areas’</a> NYT: The Biden administration included schools, hospitals, parades and places of worship on a list of areas off limits to immigration arrests or other types of enforcement. 
  <p class="updated_time"> 04:53 PM CT, Oct. 28 </p> 
  <a href="https://www.nytimes.com/2021/10/28/us/politics/progressives-infrastructure-biden-pelosi-support.html">Progressives Unmoved by Biden Request for Fast Vote on Infrastructure</a> NYT: Their opposition meant that House leaders were unlikely to be able to muster enough votes to pass the bill on Thursday as they had hoped, despite President Biden’s entreaties. 
  <p class="updated_time"> 04:50 PM CT, Oct. 28 </p> 
@@ -208,6 +210,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/28/us/politics/biden-immigration.html">An Immigration Overhaul is Part of Biden's Spending Framework</a> NYT: Included in the plan is a proposal to protect millions of undocumented immigrants who are longtime residents of the country from deportation. 
  <p class="updated_time"> 01:21 PM CT, Oct. 28 </p> 
  <a href="https://www.nytimes.com/2021/10/28/business/media/tucker-carlson-geraldo-rivera-fox.html">Geraldo Rivera criticizes his Fox News colleague Tucker Carlson.</a> NYT: “I’m probably going to get in trouble for this,” Mr. Rivera said after taking issue with “false flag” claims in Mr. Carlson’s upcoming three-part series, “Patriot Purge.” 
+ <p class="updated_time"> 05:58 PM CT, Oct. 28 </p> 
+ <a href="https://www.politico.com/news/2021/10/28/budget-deal-democrats-biden-framework-517469">Your guide to the huge Dem deal: 14 new policies and what could stop them</a> Politico: Democrats revealed a framework for a $1.75 trillion spending deal, but areas such as health care, child care and climate change are missing major party priorities. 
  <p class="updated_time"> 03:41 PM CT, Oct. 28 </p> 
  <a href="https://www.politico.com/news/2021/10/28/liberals-weigh-settling-for-half-a-loaf-517456">Liberals weigh their options: Settle for half a loaf, or fight</a> Politico: President Joe Biden and Democratic leaders are asking for their votes on a $1.75 trillion social spending blueprint. They're not totally sold yet. 
  <p class="updated_time"> 09:31 AM CT, Oct. 28 </p> 
@@ -236,8 +240,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/27/us/politics/budget-bill-republicans.html">Shut Out on Budget Bill, Republicans Take Shots From the Sidelines</a> NYT: The party is stepping up its attacks on the safety net measure that Democrats are shaping entirely on their own. 
  <p class="updated_time"> 02:03 PM CT, Oct. 27 </p> 
  <a href="https://www.nytimes.com/2021/10/27/us/politics/election-day-2021-voting-guide.html">Where Do I Vote? We Answer This and Other Election Day 2021 Questions</a> NYT: Local and statewide elections are being held around the country on Tuesday. Here are some of the Election Day basics. 
- <p class="updated_time"> 01:26 PM CT, Oct. 27 </p> 
- <a href="https://www.nytimes.com/2021/10/27/us/politics/biden-immigration-ice-schools-hospitals.html">Biden Bars Immigration Enforcement in 'Protected Areas’</a> NYT: The Biden administration included schools, hospitals, parades and places of worship on a list of areas off limits to immigration arrests or other types of enforcement. 
  <p class="updated_time"> 04:48 PM CT, Oct. 27 </p> 
  <a href="https://www.politico.com/news/2021/10/27/democrats-immigration-gambit-loses-steam-517352">Dems' last-ditch immigration gambit loses steam</a> Politico: Even if President Joe Biden can get fellow Democrats to add reform provisions to a broad social spending deal, the Senate parliamentarian can squash them. 
  <p class="updated_time"> 11:33 AM CT, Oct. 27 </p> 
@@ -262,8 +264,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/10/25/manchin-closes-in-on-deal-with-white-house-517069">Fellow Dems lobby Manchin as he gets closer to 'yes'</a> Politico: But he's still insistent on a $1.5 trillion top line for social spending, while party leaders want a bill closer to $2 trillion. 
  <p class="updated_time"> 04:31 AM CT, Oct. 25 </p> 
  <a href="https://www.politico.com/news/2021/10/25/whats-still-in-the-dem-megabill-cheat-sheet-on-12-big-topics-516844">What's still in the Dem megabill? Cheat sheet on 12 big topics</a> Politico: The child tax credit, free community college, health care provisions and more all look drastically different from what Democrats first envisioned. 
- <p class="updated_time"> 04:31 AM CT, Oct. 25 </p> 
- <a href="https://www.politico.com/news/2021/10/25/democrats-agenda-china-bill-516799">There’s another big Dem agenda holdup: A stalled China competitiveness bill</a> Politico: The party's senators, who have already passed their version of the key national-security initiative, are pressuring House colleagues to act. 
 
 
 </details>
