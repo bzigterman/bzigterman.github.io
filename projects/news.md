@@ -6,7 +6,7 @@ permalink: /projects/news/
 
 ## World News
 
- <p class="updated_time"> 12:51 PM CT, Oct. 28 </p> 
+ <p class="updated_time"> 12:59 PM CT, Oct. 28 </p> 
  [New York Braces for Staffing Shortages as Vaccine Deadline Nears](https://www.nytimes.com/2021/10/28/nyregion/new-york-vaccine-mandate-police-fire.html) NYT: Thousands of workers in the city’s uniformed services are not yet in compliance with a vaccine mandate for city workers that takes effect Monday. 
  <p class="updated_time"> 12:43 PM CT, Oct. 28 </p> 
  [Syringe Shortage Likely to Add to Africa's Vaccine Barriers, W.H.O. Says](https://www.nytimes.com/2021/10/28/world/africa/africa-syringe-shortages-who.html) NYT: The continent already suffers from high infection levels, low vaccination rates and limited, unpredictable deliveries of vaccine doses. 
