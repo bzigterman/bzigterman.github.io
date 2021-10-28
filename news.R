@@ -25,6 +25,10 @@ politics_news <- full_join(politico_politics, politico_playbook) %>%
   arrange(desc(item_pub_date)) %>%
   mutate(item_md_link = paste("[",item_title,"](",item_link,")",
                               sep = "")) %>%
+  mutate(item_html_link = paste("<a href=\"",
+                                item_link,"\">",
+                                item_title,"</a>",
+                                sep = "")) %>%
   mutate(feed_plus_description = paste(feed,": ",item_description,
                                        sep = ""))%>%
   mutate(utc_time = force_tz(item_pub_date, tz = "UTC")) %>%
@@ -66,6 +70,10 @@ world_news <- full_join(nyt, wsj) %>%
   arrange(desc(item_pub_date)) %>%
   mutate(item_md_link = paste("[",item_title,"](",item_link,")",
                               sep = "")) %>%
+  mutate(item_html_link = paste("<a href=\"",
+                                item_link,"\">",
+                                item_title,"</a>",
+                                sep = "")) %>%
   mutate(feed_plus_description = paste(feed,": ",item_description,
                                        sep = ""))%>%
   mutate(utc_time = force_tz(item_pub_date, tz = "UTC")) %>%
