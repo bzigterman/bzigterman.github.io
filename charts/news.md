@@ -1,7 +1,7 @@
 ---
 layout: page
 title: News River
-permalink: /charts/news/
+permalink: /projects/news/
 ---
 
 ## World News

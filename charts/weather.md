@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Weather
-permalink: /charts/weather/
+permalink: /projects/weather/
 ---
 
 ## Severe Weather Outlook

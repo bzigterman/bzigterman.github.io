@@ -707,7 +707,7 @@ web_text <- paste(
   "---
 layout: page
 title: Economic Indicators
-permalink: /charts/economy/
+permalink: /projects/economy/
 ---
 
 ## Champaign County
@@ -743,5 +743,5 @@ Data retrieved from the [Federal Reserve Bank of St. Louis](https://fred.stlouis
 ",
 sep = ""
 )
-write_lines(web_text,"charts/economy.md")
+write_lines(web_text,"projects/economy.md")
 

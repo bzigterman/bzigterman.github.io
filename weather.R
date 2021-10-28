@@ -13,7 +13,7 @@ web_text <- paste(
   "---
 layout: page
 title: Weather
-permalink: /charts/weather/
+permalink: /projects/weather/
 ---
 
 ## Severe Weather Outlook
@@ -26,6 +26,6 @@ Source: [NWS](https://www.spc.noaa.gov)
 sep = ""
 )
 
-write_lines(web_text,"charts/weather.md")
+write_lines(web_text,"projects/weather.md")
 
 

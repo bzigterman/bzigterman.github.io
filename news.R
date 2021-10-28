@@ -52,7 +52,7 @@ web_text <- paste(
   "---
 layout: page
 title: News River
-permalink: /charts/news/
+permalink: /projects/news/
 ---
 
 ## World News
@@ -63,6 +63,6 @@ permalink: /charts/news/
 sep = ""
 )
 
-write_lines(web_text,"charts/news.md")
+write_lines(web_text,"projects/news.md")
 
 

@@ -918,7 +918,7 @@ web_text <- paste(
   "---
 layout: page
 title: Baseball Standings
-permalink: /charts/baseball/
+permalink: /projects/baseball/
 ---
 
 ",now_html," 
@@ -943,5 +943,5 @@ permalink: /charts/baseball/
 sep = ""
 )
 if (standings_the_same != TRUE) {
-  write_lines(web_text,"charts/baseball.md")
+  write_lines(web_text,"projects/baseball.md")
 }

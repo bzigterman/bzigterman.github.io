@@ -1,7 +1,7 @@
 ---
 layout: page
 title: COVID-19
-permalink: /charts/covid
+permalink: /projects/covid
 ---
 
 ## Champaign County

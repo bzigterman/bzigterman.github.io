@@ -920,7 +920,7 @@ web_text <- paste(
   "---
 layout: page
 title: COVID-19
-permalink: /charts/covid
+permalink: /projects/covid
 ---
 
 ## Champaign County
@@ -996,5 +996,5 @@ if (champaign_avg_new_cases >= 0 &&
     champaign_month_ago_vaccinated <= 100 &&
     champaign_month_ago_new_doses >= 0
 ) {
-  write_lines(web_text,"charts/covid.md")
+  write_lines(web_text,"projects/covid.md")
 }
