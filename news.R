@@ -10,17 +10,36 @@ past_week <- ymd_hms(now()) - days(7)
 ## politics ----
 politico_politics <- tidyfeed("http://rss.politico.com/congress.xml") %>%
   select(feed_title, item_pub_date,item_title, item_link, item_description) %>%
-  mutate(feed = "Politico")
-politico_playbook <- tidyfeed("http://rss.politico.com/playbook.xml") %>%
-  select(feed_title, item_pub_date,item_title, item_link, item_description) %>%
-  mutate(feed = "Politico")
+  filter(!is.na(item_description)) %>%
+  mutate(feed = "Politico") %>%
+  mutate(utc_time = force_tz(item_pub_date, tz = "US/Mountain")) %>%
+  mutate(central_time = with_tz(utc_time, tz = "America/Chicago")) %>%
+  mutate(clean_time = strftime(x = central_time, 
+                               tz = "US/Central",
+                               format = "%I:%M% %p CT, %b. %d"))
+
+# politico_playbook <- tidyfeed("http://rss.politico.com/playbook.xml") %>%
+#   select(feed_title, item_pub_date,item_title, item_link, item_description) %>%
+#   mutate(feed = "Politico") %>%
+#   mutate(utc_time = force_tz(item_pub_date, tz = "US/Eastern")) %>%
+#   mutate(central_time = with_tz(utc_time, tz = "America/Chicago")) %>%
+#   mutate(clean_time = strftime(x = central_time, 
+#                                tz = "US/Central",
+#                                format = "%I:%M% %p CT, %b. %d"))
+
 nyt_politics <- tidyfeed("https://rss.nytimes.com/services/xml/rss/nyt/Politics.xml") %>%
   select(feed_title, item_pub_date,item_title, item_link, item_description) %>%
-  mutate(feed = "NYT")
+  mutate(feed = "NYT") %>%
+  mutate(utc_time = force_tz(item_pub_date, tz = "UTC")) %>%
+  mutate(central_time = with_tz(utc_time, tz = "America/Chicago")) %>%
+  mutate(clean_time = strftime(x = central_time, 
+                               tz = "US/Central",
+                               format = "%I:%M% %p CT, %b. %d"))
 
 
-politics_news <- full_join(politico_politics, politico_playbook) %>%
-  full_join(nyt_politics) %>%
+
+politics_news <- full_join(politico_politics, nyt_politics) %>%
+  #full_join(nyt_politics) %>%
   filter(item_pub_date > past_week) %>%
   arrange(desc(item_pub_date)) %>%
   mutate(item_md_link = paste("[",item_title,"](",item_link,")",
@@ -30,12 +49,7 @@ politics_news <- full_join(politico_politics, politico_playbook) %>%
                                 item_title,"</a>",
                                 sep = "")) %>%
   mutate(feed_plus_description = paste(feed,": ",item_description,
-                                       sep = ""))%>%
-  mutate(utc_time = force_tz(item_pub_date, tz = "UTC")) %>%
-  mutate(central_time = with_tz(utc_time, tz = "America/Chicago")) %>%
-  mutate(clean_time = strftime(x = central_time, 
-                               tz = "US/Central",
-                               format = "%I:%M% %p CT, %b. %d"))
+                                       sep = ""))
 
 
 ### create list ----
