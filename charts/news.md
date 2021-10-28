@@ -6,8 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
- <p class="updated_time"> 08:23 AM CT, Oct. 28 </p> 
- [Beijing Olympics: China to Ease Rules for Athletes in Bubble](https://www.nytimes.com/2021/10/28/world/asia/china-covid-olympics.html) NYT: Vaccinated athletes will not have to quarantine, but competitors will still face strict rules and could be expelled for breaking them. 
+ <p class="updated_time"> 08:37 AM CT, Oct. 28 </p> 
+ [Beijing Olympics: China to Ease Rules for Athletes in Bubble](https://www.nytimes.com/2021/10/28/world/asia/china-covid-olympics.html) NYT: Competitors will still face strict rules at what is shaping up to be the most extraordinarily regulated, large-scale sporting event since the pandemic’s start and could be expelled for breaking them. 
  <p class="updated_time"> 07:37 AM CT, Oct. 28 </p> 
  [Laos makes Southeast Asia's largest ever drug bust](https://www.bbc.co.uk/news/world-asia-59062134?at_medium=RSS&at_campaign=KARANGA) BBC: A truck was carrying 55 million amphethamine tablets and over 1.5 tonnes of crystal methamphetamine. 
  <p class="updated_time"> 06:19 AM CT, Oct. 28 </p> 
