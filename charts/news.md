@@ -6,6 +6,12 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 11:01 PM CT, Oct. 27 </p> 
+ [Your Thursday Briefing](https://www.nytimes.com/2021/10/27/briefing/merck-covid-pill-japan-elections.html) NYT: A Covid pill could help hundreds of countries. 
+ <p class="updated_time"> 11:00 PM CT, Oct. 27 </p> 
+ [China Locks Down City of 4 Million to Subdue Covid Outbreak](https://www.nytimes.com/2021/10/26/world/asia/covid-china-lanzhou-lockdown.html) NYT: Lanzhou, with about four million people, reported six new coronavirus cases on Tuesday, and a total of 39 over the past week. 
+ <p class="updated_time"> 10:57 PM CT, Oct. 27 </p> 
+ [Why China Is the World’s Last ‘Zero Covid’ Holdout](https://www.nytimes.com/2021/10/27/world/asia/china-zero-covid-virus.html) NYT: The government has staked its political legitimacy on controlling the virus better than other countries, especially its geopolitical rivals. 
  <p class="updated_time"> 10:43 PM CT, Oct. 27 </p> 
  [Gangs Rule Much of Haiti. For Many, It Means No Fuel, No Power, No Food.](https://www.nytimes.com/2021/10/27/world/americas/haiti-gangs-fuel-shortage.html) NYT: A country in crisis is facing a severe fuel shortage that is pushing it to the brink of collapse. 
  <p class="updated_time"> 10:07 PM CT, Oct. 27 </p> 
@@ -44,8 +50,6 @@ permalink: /charts/news/
  [Merck Will Share Formula for Its Covid Pill With Poor Countries](https://www.nytimes.com/2021/10/27/health/covid-pill-access-molnupiravir.html) NYT: The company announced a licensing deal that will allow the drug, molnupiravir, to be made and sold cheaply in 105 developing nations. 
  <p class="updated_time"> 03:44 PM CT, Oct. 27 </p> 
  [Poland told to pay €1m a day in legal row with EU](https://www.bbc.co.uk/news/world-europe-59064883?at_medium=RSS&at_campaign=KARANGA) BBC: The ruling is the latest step in an escalating dispute over Poland's legal reforms. 
- <p class="updated_time"> 03:21 PM CT, Oct. 27 </p> 
- [Your Thursday Briefing](https://www.nytimes.com/2021/10/27/briefing/merck-covid-pill-japan-elections.html) NYT: A Covid pill could help hundreds of countries. 
  <p class="updated_time"> 02:48 PM CT, Oct. 27 </p> 
  [Pope Francis to visit Canada for indigenous reconciliation](https://www.bbc.co.uk/news/world-us-canada-59066724?at_medium=RSS&at_campaign=KARANGA) BBC: The visit follows renewed attention on indigenous children who died at residential schools. 
  <p class="updated_time"> 02:29 PM CT, Oct. 27 </p> 
@@ -144,12 +148,8 @@ permalink: /charts/news/
  [After a Year of ‘Rampant’ Cheating, Elite Bridge Tries to Clean Up](https://www.nytimes.com/2021/10/26/arts/contract-bridge-cheating.html) NYT: As the pandemic forced most players online, the problem of cheating consumed the game’s highest levels. Top players say a tight-lipped culture is finally changing. 
  <p class="updated_time"> 09:22 AM CT, Oct. 26 </p> 
  [Iran Wanted U.S. Out of Afghanistan. It May Be Sorry the Wish Came True.](https://www.nytimes.com/2021/10/26/world/middleeast/iran-taliban-afghanistan.html) NYT: Iran is glad the Americans are gone, but the Taliban takeover of Afghanistan creates a host of problems for Tehran, with no easy solutions. 
- <p class="updated_time"> 09:00 AM CT, Oct. 26 </p> 
- [China Locks Down City of 4 Million to Subdue Covid Outbreak](https://www.nytimes.com/2021/10/26/world/asia/covid-china-lanzhou-lockdown.html) NYT: Lanzhou, with about four million people, reported six new coronavirus cases on Tuesday, and a total of 39 over the past week. 
  <p class="updated_time"> 08:50 AM CT, Oct. 26 </p> 
  [Moderna to Sell Up to 110 Million Covid Vaccine Doses to African Countries](https://www.nytimes.com/2021/10/26/world/africa/covid-moderna-african-union.html) NYT: Moderna’s shots have previously gone almost entirely to wealthier countries. 
- <p class="updated_time"> 07:47 AM CT, Oct. 26 </p> 
- [Who Is Abdalla Hamdok, Sudan Leader Ousted in Coup](https://www.nytimes.com/2021/10/25/world/africa/abdalla-hamdok-sudan.html) NYT: Sudan’s prime minister spent much of his career at international institutions before joining his country’s government. Now he has been forced out. 
  <p class="updated_time"> 07:40 AM CT, Oct. 26 </p> 
  [U.S. Halts Aid to Sudan Government After Coup](https://www.nytimes.com/2021/10/25/world/africa/us-aid-frozen-sudan.html) NYT: The Biden administration, calling for immediate restoration of the transition government, froze $700 million in direct aid. 
  <p class="updated_time"> 03:40 AM CT, Oct. 26 </p> 
