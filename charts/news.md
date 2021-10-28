@@ -6,6 +6,10 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 06:19 AM CT, Oct. 28 </p> 
+ [Film-maker who exposed East Timor massacre dies](https://www.bbc.co.uk/news/entertainment-arts-59075271?at_medium=RSS&at_campaign=KARANGA) BBC: Max Stahl went from children's TV host to award-winning film-maker and East Timor national hero. 
+ <p class="updated_time"> 06:12 AM CT, Oct. 28 </p> 
+ [Covid: Moscow shops and restaurants shut in partial lockdown](https://www.bbc.co.uk/news/world-europe-59076152?at_medium=RSS&at_campaign=KARANGA) BBC: Russia closes non-essential services and sends workers home amid record Covid deaths. 
  <p class="updated_time"> 06:02 AM CT, Oct. 28 </p> 
  [Laos makes Southeast Asia's largest ever drug bust](https://www.bbc.co.uk/news/world-asia-59062134?at_medium=RSS&at_campaign=KARANGA) BBC: A truck was carrying 55 million amphethamine tablets and over 1.5 tonnes of crystal methamphetamine. 
  <p class="updated_time"> 05:52 AM CT, Oct. 28 </p> 
@@ -14,8 +18,6 @@ permalink: /charts/news/
  [US issues first gender-neutral 'X' passport](https://www.bbc.co.uk/news/world-us-canada-59076614?at_medium=RSS&at_campaign=KARANGA) BBC: The document has an "X" in the gender box, to show the holder does not identify as male or female. 
  <p class="updated_time"> 05:27 AM CT, Oct. 28 </p> 
  [Rémy Daillet: Conspiracist charged over alleged French coup plot](https://www.bbc.co.uk/news/world-europe-59075902?at_medium=RSS&at_campaign=KARANGA) BBC: Rémy Daillet is accused of forming an extremist group to plan attacks against the French state. 
- <p class="updated_time"> 05:27 AM CT, Oct. 28 </p> 
- [Film-maker who exposed East Timor massacre dies](https://www.bbc.co.uk/news/entertainment-arts-59075271?at_medium=RSS&at_campaign=KARANGA) BBC: Max Stahl went from children's TV host to award-winning film-maker and East Timor national hero. 
  <p class="updated_time"> 05:26 AM CT, Oct. 28 </p> 
  [British fishing trawler detained by French authorities](https://www.bbc.co.uk/news/world-europe-59075793?at_medium=RSS&at_campaign=KARANGA) BBC: Two British ships caught up in post-Brexit fishing rights row in French waters. 
  <p class="updated_time"> 05:25 AM CT, Oct. 28 </p> 
@@ -23,15 +25,13 @@ permalink: /charts/news/
  <p class="updated_time"> 05:16 AM CT, Oct. 28 </p> 
  [A Wealth Tax](https://www.nytimes.com/2021/10/28/briefing/wealth-tax-spending-bill-manchin.html) NYT: What are the pluses and minuses? 
  <p class="updated_time"> 05:13 AM CT, Oct. 28 </p> 
- [Climate change: Major US oil companies to testify in Congress](https://www.bbc.co.uk/news/world-us-canada-59075686?at_medium=RSS&at_campaign=KARANGA) BBC: A US congressional hearing will examine whether oil companies misled the public about climate change. 
+ [Climate change: Major US oil companies to be quizzed in Congress](https://www.bbc.co.uk/news/world-us-canada-59075686?at_medium=RSS&at_campaign=KARANGA) BBC: A US congressional hearing will examine whether oil companies misled the public about climate change. 
  <p class="updated_time"> 05:12 AM CT, Oct. 28 </p> 
  [Israel Advances Plan for New Settlement Homes, in First for Bennett Era](https://www.nytimes.com/2021/10/27/world/middleeast/israel-settlements-west-bank.html) NYT: Approved despite the objections of the United States, critics say the new building will consolidate Israel’s presence in the West Bank and make it harder to create a Palestinian state. 
  <p class="updated_time"> 04:47 AM CT, Oct. 28 </p> 
  [Meeting Between Francis and Biden Will Highlight Their Rift With American Bishops](https://www.nytimes.com/2021/10/28/world/europe/pope-biden-catholic-church-rift.html) NYT: The pope and president, who meet at the Vatican on Friday, are the common targets of conservative American bishops seeking to undercut them. 
  <p class="updated_time"> 04:46 AM CT, Oct. 28 </p> 
  [Why China Is the World’s Last ‘Zero Covid’ Holdout](https://www.nytimes.com/2021/10/27/world/asia/china-zero-covid-virus.html) NYT: The government has staked its political legitimacy on controlling the virus better than other countries, especially its geopolitical rivals. 
- <p class="updated_time"> 04:44 AM CT, Oct. 28 </p> 
- [Covid: Moscow shops and restaurants shut in partial lockdown](https://www.bbc.co.uk/news/world-europe-59076152?at_medium=RSS&at_campaign=KARANGA) BBC: Russia closes non-essential services and sends workers home amid record Covid deaths. 
  <p class="updated_time"> 04:21 AM CT, Oct. 28 </p> 
  [No Squid Game Halloween costumes, New York schools say](https://www.bbc.co.uk/news/world-us-canada-59075823?at_medium=RSS&at_campaign=KARANGA) BBC: The primary schools have warned parents about the Netflix series' "violent messages". 
  <p class="updated_time"> 04:11 AM CT, Oct. 28 </p> 
@@ -48,6 +48,8 @@ permalink: /charts/news/
  [Helping Chinatown's elderly during the pandemic](https://www.bbc.co.uk/news/world-us-canada-59071514?at_medium=RSS&at_campaign=KARANGA) BBC: A volunteer army is delivering hundreds of meals to elderly East-Asians in New York. 
  <p class="updated_time"> 02:51 AM CT, Oct. 28 </p> 
  [Sitting Bull: DNA confirms great-grandson's identity](https://www.bbc.co.uk/news/world-us-canada-59062133?at_medium=RSS&at_campaign=KARANGA) BBC: A sample of the Native American leader's hair confirms the identity of his great-grandson. 
+ <p class="updated_time"> 02:12 AM CT, Oct. 28 </p> 
+ [Global Migration Plummeted During Pandemic, but Labor Shortages Drive Rebound](https://www.wsj.com/articles/global-migration-plummeted-during-pandemic-but-labor-shortages-drive-rebound-11635419559) WSJ: Industries that had come to rely heavily on migrant workers have been struggling as economies reopen and businesses scramble to satisfy a huge surge in demand. 
  <p class="updated_time"> 01:00 AM CT, Oct. 28 </p> 
  [Intelligence Agencies Failed to Predict Rapid Fall of Kabul](https://www.wsj.com/articles/four-u-s-intelligence-agencies-produced-extensive-reports-on-afghanistan-but-all-failed-to-predict-kabuls-rapid-collapse-11635415201) WSJ: Agencies offered scattershot assessments of the staying power of the Afghan military and government, a review of wide-ranging summaries of classified material by The Wall Street Journal shows. 
  <p class="updated_time"> 11:01 PM CT, Oct. 27 </p> 
@@ -102,8 +104,6 @@ permalink: /charts/news/
  [Footballer Josh Cavallo on coming out as gay: 'It's my freedom day'](https://www.bbc.co.uk/news/world-australia-59068417?at_medium=RSS&at_campaign=KARANGA) BBC: Josh Cavallo has come out as gay - the only current top level male professional footballer to do so. 
  <p class="updated_time"> 09:36 AM CT, Oct. 27 </p> 
  [Iran to Return to Nuclear Deal Talks Next Month](https://www.wsj.com/articles/iran-to-return-to-nuclear-deal-talks-in-vienna-next-month-11635348645) WSJ: Tehran will return to negotiations on reviving the 2015 nuclear deal by the end of November, its chief negotiator said Wednesday. 
- <p class="updated_time"> 08:04 AM CT, Oct. 27 </p> 
- [U.S. Argues Extradition of Julian Assange Should Go Ahead](https://www.wsj.com/articles/u-s-argues-extradition-of-wikileaks-founder-julian-assange-should-go-ahead-11635354265) WSJ: The U.S. presented arguments to a British court to overturn an earlier decision against extraditing the WikiLeaks founder. 
  <p class="updated_time"> 07:52 AM CT, Oct. 27 </p> 
  [U.K., Canada Lead West in Weaning Economies Off Covid-19 Pandemic Support](https://www.wsj.com/articles/u-k-canada-lead-west-in-weaning-economies-off-covid-19-pandemic-support-11635353559) WSJ: London’s new tax and spending policies, along with faster growth, are forecast to shrink the U.K.’s budget deficit in coming years. 
  <p class="updated_time"> 07:24 AM CT, Oct. 27 </p> 
@@ -111,7 +111,7 @@ permalink: /charts/news/
  <p class="updated_time"> 06:22 AM CT, Oct. 27 </p> 
  [Chinese Workers Say They Are Lured Abroad and Exploited for Belt-and-Road Jobs](https://www.wsj.com/articles/chinese-workers-say-they-are-lured-abroad-and-exploited-for-belt-and-road-jobs-11635348143) WSJ: Five laborers tried to sneak into Malaysia to escape low-paying work in Indonesia, and tens of thousands of workers are similarly desperate, a labor-rights group says. 
  <p class="updated_time"> 06:01 AM CT, Oct. 27 </p> 
- [China's Ambitious Climate Goals Collide With Reality, Hampering Global Efforts](https://www.wsj.com/articles/chinas-ambitious-climate-goals-collide-with-reality-imperiling-global-efforts-11635346919) WSJ: Beijing commits to net-zero emissions before 2060, but for years to come it will continue burning a lot of coal to keep its economy charging ahead. 
+ [China's Ambitious Climate Goals Collide With Reality](https://www.wsj.com/articles/chinas-ambitious-climate-goals-collide-with-reality-imperiling-global-efforts-11635346919) WSJ: Beijing commits to net-zero emissions before 2060, but for years to come it will continue burning a lot of coal to keep its economy charging ahead. 
  <p class="updated_time"> 05:30 AM CT, Oct. 27 </p> 
  [The Mushy Middle](https://www.nytimes.com/2021/10/27/briefing/abortion-texas-roe-v-wade.html) NYT: We look at public opinion about abortion in Texas. 
  <p class="updated_time"> 04:00 AM CT, Oct. 27 </p> 
