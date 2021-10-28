@@ -6,10 +6,12 @@ permalink: /projects/news/
 
 ## World News
 
+ <p class="updated_time"> 01:06 PM CT, Oct. 28 </p> 
+ [Syringe Shortage Likely to Add to Africa's Vaccine Barriers, W.H.O. Says](https://www.nytimes.com/2021/10/28/world/africa/africa-syringe-shortages-who.html) NYT: The continent already suffers from high infection levels, low vaccination rates and limited, unpredictable deliveries of vaccine doses. 
+ <p class="updated_time"> 01:04 PM CT, Oct. 28 </p> 
+ [Oakland's Plan: Transfer or Unenroll Unvaccinated Students](https://www.nytimes.com/2021/10/28/world/oakland-schools-vaccine-mandate-enforcement.html) NYT: Students who do not comply with the school district’s vaccine mandate will have two choices: switch to an independent-study school or be dropped from the rolls. 
  <p class="updated_time"> 12:59 PM CT, Oct. 28 </p> 
  [New York Braces for Staffing Shortages as Vaccine Deadline Nears](https://www.nytimes.com/2021/10/28/nyregion/new-york-vaccine-mandate-police-fire.html) NYT: Thousands of workers in the city’s uniformed services are not yet in compliance with a vaccine mandate for city workers that takes effect Monday. 
- <p class="updated_time"> 12:43 PM CT, Oct. 28 </p> 
- [Syringe Shortage Likely to Add to Africa's Vaccine Barriers, W.H.O. Says](https://www.nytimes.com/2021/10/28/world/africa/africa-syringe-shortages-who.html) NYT: The continent already suffers from high infection levels, low vaccination rates and limited, unpredictable deliveries of vaccine doses. 
  <p class="updated_time"> 12:22 PM CT, Oct. 28 </p> 
  [Biden announces revamped $1.75 trillion social spending plan](https://www.bbc.co.uk/news/world-us-canada-59081791?at_medium=RSS&at_campaign=KARANGA) BBC: The president said that his party was "on board" though the scaled-back plan's fate is uncertain. 
  <p class="updated_time"> 12:04 PM CT, Oct. 28 </p> 
@@ -174,8 +176,6 @@ permalink: /projects/news/
  [Australia Pledges ‘Net Zero’ Emissions by 2050. Its Plan Makes That Hard to Believe.](https://www.nytimes.com/2021/10/26/world/australia/net-zero-delay.html) NYT: The country’s last-minute commitment before next week’s climate summit is built on hope for new technology, and little else. 
  <p class="updated_time"> 10:12 PM CT, Oct. 25 </p> 
  [Eco-friendly sex: What is it and how does it impact on climate change?](https://www.bbc.co.uk/news/science-environment-59046518?at_medium=RSS&at_campaign=KARANGA) BBC: As more people try to live environmentally friendly lives, how do we make sex more sustainable? 
- <p class="updated_time"> 09:46 PM CT, Oct. 25 </p> 
- [Your Tuesday Briefing](https://www.nytimes.com/2021/10/25/briefing/sudan-coup-facebook-crisis.html) NYT: The military seizes power in Sudan. 
  <p class="updated_time"> 07:12 PM CT, Oct. 25 </p> 
  [Climate change: Four things you can do about your carbon footprint](https://www.bbc.co.uk/news/science-environment-58171814?at_medium=RSS&at_campaign=KARANGA) BBC: Small changes to our lifestyles and choices could limit our personal carbon footprint. 
  <p class="updated_time"> 06:01 PM CT, Oct. 25 </p> 
