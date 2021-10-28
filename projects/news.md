@@ -4,8 +4,11 @@ title: News River
 permalink: /projects/news/
 ---
 
-## World News
+<details>
+<summary>World News</summary>
 
+ <p class="updated_time"> 04:01 PM CT, Oct. 28 </p> 
+ [Your Friday Briefing](https://www.nytimes.com/2021/10/28/briefing/covid-zero-china-coal-cop-26.html) NYT: China sticks to a ‘zero-Covid’ strategy. 
  <p class="updated_time"> 03:26 PM CT, Oct. 28 </p> 
  [Covid Hit U.S. Meat Plants Far Harder Than Thought, Report Says](https://www.nytimes.com/2021/10/28/world/meatpacking-workers-covid-cases-deaths.html) NYT: The industry had three times as many Covid infections in the pandemic’s early months as previously believed, a select committee says. 
  <p class="updated_time"> 03:16 PM CT, Oct. 28 </p> 
@@ -150,8 +153,6 @@ permalink: /projects/news/
  [2 Days After Cricket Victory Over India, Pakistan Still Feels the High](https://www.nytimes.com/2021/10/26/world/asia/pakistan-cricket-victory-india.html) NYT: The nation is experiencing a much-needed burst of joy after it unexpectedly beat India in a cricket match in Dubai. 
  <p class="updated_time"> 06:41 PM CT, Oct. 26 </p> 
  [Justin Trudeau Introduces 'Reinvigorated' Cabinet](https://www.nytimes.com/2021/10/26/world/canada/justin-trudeau-cabinet.html) NYT: The Canadian prime minister failed to gain a majority in Parliament last month but acted otherwise when unveiling his new cabinet. 
- <p class="updated_time"> 06:27 PM CT, Oct. 26 </p> 
- [Roh Tae-woo, 88, South Korean Leader in Move Toward Democracy, Dies](https://www.nytimes.com/2021/10/26/world/asia/roh-tae-woo-dies.html) NYT: He played a role in a bloody crackdown on pro-democracy protesters in 1980, then oversaw his country’s winning 1988 Olympics bid. He was later mired in legal trouble. 
  <p class="updated_time"> 06:10 PM CT, Oct. 26 </p> 
  [Life at 50C: Surviving in Kuwait's 'unbearable' heat](https://www.bbc.co.uk/news/world-middle-east-59054893?at_medium=RSS&at_campaign=KARANGA) BBC: The Middle East is warming faster than much of the world, leaving Kuwaitis struggling with everyday life. 
  <p class="updated_time"> 06:08 PM CT, Oct. 26 </p> 
@@ -186,7 +187,10 @@ permalink: /projects/news/
  [Climate change: The environmental disasters we've almost fixed](https://www.bbc.co.uk/news/science-environment-58874831?at_medium=RSS&at_campaign=KARANGA) BBC: From acid rain to the ozone hole: Can we learn from the environmental "success stories" of the past? 
 
 
-## Politics
+</details>
+
+<details>
+<summary>Politics</summary>
 
  <p class="updated_time"> 02:54 PM CT, Oct. 28 </p> 
  [Billionaires Beat the Working Rich in Biden's Spending Bill ](https://www.nytimes.com/2021/10/28/upshot/biden-taxes-billionaires-millionaires.html) NYT: One by one, tax proposals that would have slowed dynastic wealth have been tossed from the agreement. 
@@ -303,5 +307,7 @@ permalink: /projects/news/
  <p class="updated_time"> 12:16 AM CT, Oct. 22 </p> 
  [POLITICO Playbook: Nightlife-loving Eric Adams has a friend in Rupert Murdoch](https://www.politico.com/newsletters/playbook/2021/10/22/nightlife-loving-eric-adams-has-a-friend-in-rupert-murdoch-494808) Politico: And Biden gets into the reconciliation nitty-gritty. 
 
+
+</details>
 
 

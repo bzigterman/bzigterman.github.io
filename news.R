@@ -97,13 +97,19 @@ title: News River
 permalink: /projects/news/
 ---
 
-## World News
+<details>
+<summary>World News</summary>
 
 ",world_news_lines,"
 
-## Politics
+</details>
+
+<details>
+<summary>Politics</summary>
 
 ",politics_news_lines,"
+
+</details>
 
 ",
 sep = ""
