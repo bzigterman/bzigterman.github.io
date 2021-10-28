@@ -6,14 +6,16 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 11:10 PM CT, Oct. 27 </p> 
+ [Why China Is the World’s Last ‘Zero Covid’ Holdout](https://www.nytimes.com/2021/10/27/world/asia/china-zero-covid-virus.html) NYT: The government has staked its political legitimacy on controlling the virus better than other countries, especially its geopolitical rivals. 
  <p class="updated_time"> 11:01 PM CT, Oct. 27 </p> 
  [Your Thursday Briefing](https://www.nytimes.com/2021/10/27/briefing/merck-covid-pill-japan-elections.html) NYT: A Covid pill could help hundreds of countries. 
  <p class="updated_time"> 11:00 PM CT, Oct. 27 </p> 
  [China Locks Down City of 4 Million to Subdue Covid Outbreak](https://www.nytimes.com/2021/10/26/world/asia/covid-china-lanzhou-lockdown.html) NYT: Lanzhou, with about four million people, reported six new coronavirus cases on Tuesday, and a total of 39 over the past week. 
- <p class="updated_time"> 10:57 PM CT, Oct. 27 </p> 
- [Why China Is the World’s Last ‘Zero Covid’ Holdout](https://www.nytimes.com/2021/10/27/world/asia/china-zero-covid-virus.html) NYT: The government has staked its political legitimacy on controlling the virus better than other countries, especially its geopolitical rivals. 
  <p class="updated_time"> 10:43 PM CT, Oct. 27 </p> 
  [Gangs Rule Much of Haiti. For Many, It Means No Fuel, No Power, No Food.](https://www.nytimes.com/2021/10/27/world/americas/haiti-gangs-fuel-shortage.html) NYT: A country in crisis is facing a severe fuel shortage that is pushing it to the brink of collapse. 
+ <p class="updated_time"> 10:26 PM CT, Oct. 27 </p> 
+ [China limits construction of 'super high-rise buildings'](https://www.bbc.co.uk/news/world-asia-china-59046480?at_medium=RSS&at_campaign=KARANGA) BBC: The decision is being seen as part of a larger bid to crackdown on vanity projects. 
  <p class="updated_time"> 10:07 PM CT, Oct. 27 </p> 
  [Your Thursday Briefing](https://www.nytimes.com/2021/10/27/briefing/merck-pill-china-hypersonic-missile.html) NYT: More access to a Covid-19 antiviral pill. 
  <p class="updated_time"> 10:04 PM CT, Oct. 27 </p> 
@@ -94,8 +96,6 @@ permalink: /charts/news/
  [U.K., Canada Lead West in Weaning Economies Off Covid-19 Pandemic Support](https://www.wsj.com/articles/u-k-canada-lead-west-in-weaning-economies-off-covid-19-pandemic-support-11635353559) WSJ: London’s new tax and spending policies, along with faster growth, are forecast to shrink the U.K.’s budget deficit in coming years. 
  <p class="updated_time"> 07:24 AM CT, Oct. 27 </p> 
  [As Gangs’ Power Grows, Haiti’s Police Are Outgunned and Underpaid](https://www.nytimes.com/2021/10/26/world/americas/haiti-police-gangs.html) NYT: The police force, dependent on an increasingly depleted state, is finding itself underfunded, underequipped and severely underpaid, even as it faces stronger opponents. 
- <p class="updated_time"> 06:29 AM CT, Oct. 27 </p> 
- [Sister of Bataclan victim: 'We don't hate you'](https://www.bbc.co.uk/news/world-europe-59062002?at_medium=RSS&at_campaign=KARANGA) BBC: Nick Alexander died at a Paris rock gig during the assault by Islamic State (IS) extremists in 2015. 
  <p class="updated_time"> 06:22 AM CT, Oct. 27 </p> 
  [Chinese Workers Say They Are Lured Abroad and Exploited for Belt-and-Road Jobs](https://www.wsj.com/articles/chinese-workers-say-they-are-lured-abroad-and-exploited-for-belt-and-road-jobs-11635348143) WSJ: Five laborers tried to sneak into Malaysia to escape low-paying work in Indonesia, and tens of thousands of workers are similarly desperate, a labor-rights group says. 
  <p class="updated_time"> 06:01 AM CT, Oct. 27 </p> 
