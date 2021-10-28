@@ -6,8 +6,10 @@ permalink: /projects/news/
 
 ## World News
 
- <p class="updated_time"> 12:22 PM CT, Oct. 28 </p> 
+ <p class="updated_time"> 12:51 PM CT, Oct. 28 </p> 
  [New York Braces for Staffing Shortages as Vaccine Deadline Nears](https://www.nytimes.com/2021/10/28/nyregion/new-york-vaccine-mandate-police-fire.html) NYT: Thousands of workers in the city’s uniformed services are not yet in compliance with a vaccine mandate for city workers that takes effect Monday. 
+ <p class="updated_time"> 12:43 PM CT, Oct. 28 </p> 
+ [Syringe Shortage Likely to Add to Africa's Vaccine Barriers, W.H.O. Says](https://www.nytimes.com/2021/10/28/world/africa/africa-syringe-shortages-who.html) NYT: The continent already suffers from high infection levels, low vaccination rates and limited, unpredictable deliveries of vaccine doses. 
  <p class="updated_time"> 12:22 PM CT, Oct. 28 </p> 
  [Biden announces revamped $1.75 trillion social spending plan](https://www.bbc.co.uk/news/world-us-canada-59081791?at_medium=RSS&at_campaign=KARANGA) BBC: The president said that his party was "on board" though the scaled-back plan's fate is uncertain. 
  <p class="updated_time"> 12:04 PM CT, Oct. 28 </p> 
@@ -132,6 +134,8 @@ permalink: /projects/news/
  [Your Wednesday Briefing](https://www.nytimes.com/2021/10/26/briefing/climate-glasgow-un-myanmar-pakistan-cricket.html) NYT: ‘Imminent peril’ from global warming. 
  <p class="updated_time"> 11:04 PM CT, Oct. 26 </p> 
  [Your Wednesday Briefing](https://www.nytimes.com/2021/10/27/briefing/climate-change-children-vaccines.html) NYT: Emissions plans fall short. 
+ <p class="updated_time"> 10:12 PM CT, Oct. 26 </p> 
+ [Princess Mako's Royal Wedding in Japan Goes Off With Little Fanfare](https://www.nytimes.com/2021/10/25/world/asia/japan-royal-wedding-princess-mako.html) NYT: The torturous path to marriage for Princess Mako of Japan, who gave up her title to marry a commoner, leads to a registry office in Tokyo and most likely a life abroad. 
  <p class="updated_time"> 10:08 PM CT, Oct. 26 </p> 
  [Sudan’s Prime Minister Was Detained at Home of General Who Led Coup](https://www.nytimes.com/2021/10/26/world/africa/sudan-coup-protests.html) NYT: Protesters demanding civilian rule flooded the streets of major cities a day after a military takeover. Many offices and businesses shut, answering a call for civil disobediences. 
  <p class="updated_time"> 10:08 PM CT, Oct. 26 </p> 
@@ -166,8 +170,12 @@ permalink: /projects/news/
  [Iran Wanted U.S. Out of Afghanistan. It May Be Sorry the Wish Came True.](https://www.nytimes.com/2021/10/26/world/middleeast/iran-taliban-afghanistan.html) NYT: Iran is glad the Americans are gone, but the Taliban takeover of Afghanistan creates a host of problems for Tehran, with no easy solutions. 
  <p class="updated_time"> 08:50 AM CT, Oct. 26 </p> 
  [Moderna to Sell Up to 110 Million Covid Vaccine Doses to African Countries](https://www.nytimes.com/2021/10/26/world/africa/covid-moderna-african-union.html) NYT: Moderna’s shots have previously gone almost entirely to wealthier countries. 
+ <p class="updated_time"> 03:40 AM CT, Oct. 26 </p> 
+ [Australia Pledges ‘Net Zero’ Emissions by 2050. Its Plan Makes That Hard to Believe.](https://www.nytimes.com/2021/10/26/world/australia/net-zero-delay.html) NYT: The country’s last-minute commitment before next week’s climate summit is built on hope for new technology, and little else. 
  <p class="updated_time"> 10:12 PM CT, Oct. 25 </p> 
  [Eco-friendly sex: What is it and how does it impact on climate change?](https://www.bbc.co.uk/news/science-environment-59046518?at_medium=RSS&at_campaign=KARANGA) BBC: As more people try to live environmentally friendly lives, how do we make sex more sustainable? 
+ <p class="updated_time"> 09:46 PM CT, Oct. 25 </p> 
+ [Your Tuesday Briefing](https://www.nytimes.com/2021/10/25/briefing/sudan-coup-facebook-crisis.html) NYT: The military seizes power in Sudan. 
  <p class="updated_time"> 07:12 PM CT, Oct. 25 </p> 
  [Climate change: Four things you can do about your carbon footprint](https://www.bbc.co.uk/news/science-environment-58171814?at_medium=RSS&at_campaign=KARANGA) BBC: Small changes to our lifestyles and choices could limit our personal carbon footprint. 
  <p class="updated_time"> 06:01 PM CT, Oct. 25 </p> 
