@@ -7,8 +7,10 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:30 PM CT, Oct. 28 </p> 
+ <p class="updated_time"> 06:16 PM CT, Oct. 28 </p> 
  <a href="https://www.nytimes.com/2021/10/28/nyregion/new-york-vaccine-mandate-police-fire.html">New York Braces for Staffing Shortages as Vaccine Deadline Nears</a> NYT: Thousands of workers in the city’s uniformed services are not yet in compliance with a vaccine mandate for city workers that takes effect Monday. 
+ <p class="updated_time"> 06:02 PM CT, Oct. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59073986?at_medium=RSS&at_campaign=KARANGA">Japan election: Why the ruling party keeps winning</a> BBC: As Sunday's polls approach, we look at why it is so difficult to defeat the ruling party. 
  <p class="updated_time"> 05:26 PM CT, Oct. 28 </p> 
  <a href="https://www.nytimes.com/2021/10/28/world/europe/france-detains-british-boat.html">France Detains British Boat as a Fight Over Fishing Rights Escalates</a> NYT: The British government summoned France’s ambassador for talks over the incident, the latest sign of cross-Channel tension between the two countries. 
  <p class="updated_time"> 04:44 PM CT, Oct. 28 </p> 
@@ -155,8 +157,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/26/world/canada/justin-trudeau-cabinet.html">Justin Trudeau Introduces 'Reinvigorated' Cabinet</a> NYT: The Canadian prime minister failed to gain a majority in Parliament last month but acted otherwise when unveiling his new cabinet. 
  <p class="updated_time"> 06:10 PM CT, Oct. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59054893?at_medium=RSS&at_campaign=KARANGA">Life at 50C: Surviving in Kuwait's 'unbearable' heat</a> BBC: The Middle East is warming faster than much of the world, leaving Kuwaitis struggling with everyday life. 
- <p class="updated_time"> 06:08 PM CT, Oct. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-59049691?at_medium=RSS&at_campaign=KARANGA">Ros Atkins on... India's climate challenge</a> BBC: A look at how India is trying to balance banishing poverty with meeting its climate commitments. 
  <p class="updated_time"> 05:05 PM CT, Oct. 26 </p> 
  <a href="https://www.nytimes.com/2021/10/26/world/europe/poland-eu-aid.html">Why Poland Would Rather Keep E.U. Money Than Break With Bloc</a> NYT: Despite the flame-throwing rhetoric of their leaders, conservative supporters of Poland’s ruling party are dependent on millions of euros in aid, and don’t want to risk it. 
  <p class="updated_time"> 04:55 PM CT, Oct. 26 </p> 
@@ -192,7 +192,9 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
- <p class="updated_time"> 05:42 PM CT, Oct. 28 </p> 
+ <p class="updated_time"> 06:24 PM CT, Oct. 28 </p> 
+ <a href="https://www.nytimes.com/2021/10/28/us/politics/progressives-infrastructure-biden-pelosi-support.html">Progressives Unmoved by Biden Request for Fast Vote on Infrastructure</a> NYT: Their opposition complicated plans for House leaders, who decided against holding a vote on the bill on Thursday despite President Biden’s entreaties earlier in the day. 
+ <p class="updated_time"> 06:17 PM CT, Oct. 28 </p> 
  <a href="https://www.nytimes.com/2021/10/28/climate/climate-change-framework-bill.html">Climate Change Became the Central Part of Biden Spending Bill</a> NYT: As paid family leave and other priorities were taken out of the president’s plan, the largest piece became a $555 billion plan to fight climate change. 
  <p class="updated_time"> 05:30 PM CT, Oct. 28 </p> 
  <a href="https://www.nytimes.com/2021/10/28/us/politics/elections-november.html">Will We See Red or Blue Mirages in Election Results on Tuesday?</a> NYT: Mail-in ballots skewed early returns in some states in 2020. Will the trend repeat itself on Tuesday? 
@@ -200,8 +202,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/27/us/politics/supreme-court-texas-abortion.html">Briefs Draw Battle Lines as Texas Abortion Law Nears Supreme Court</a> NYT: The justices, who will hear arguments on Monday in two cases challenging the state’s near-total ban, required the parties to file their briefs with extraordinary speed. 
  <p class="updated_time"> 05:16 PM CT, Oct. 28 </p> 
  <a href="https://www.nytimes.com/2021/10/28/us/politics/supreme-court-oklahoma-executions.html">Supreme Court Lets Two Oklahoma Executions Proceed</a> NYT: By a 5-to-3 vote, the justices lifted a stay of execution that had been imposed by a federal appeals court in a challenge to the state’s lethal injection protocols. 
- <p class="updated_time"> 04:53 PM CT, Oct. 28 </p> 
- <a href="https://www.nytimes.com/2021/10/28/us/politics/progressives-infrastructure-biden-pelosi-support.html">Progressives Unmoved by Biden Request for Fast Vote on Infrastructure</a> NYT: Their opposition meant that House leaders were unlikely to be able to muster enough votes to pass the bill on Thursday as they had hoped, despite President Biden’s entreaties. 
  <p class="updated_time"> 04:50 PM CT, Oct. 28 </p> 
  <a href="https://www.nytimes.com/2021/10/28/us/politics/spending-plan-bill-biden.html">Here's What's in Biden's $1.85 Trillion Spending Plan</a> NYT: White House officials refused to say if all holdout Democrats in Congress had expressed support for the framework. 
  <p class="updated_time"> 04:17 PM CT, Oct. 28 </p> 
