@@ -6,14 +6,18 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 07:24 PM CT, Oct. 27 </p> 
+ [China’s Weapon Tests Close to a ‘Sputnik Moment,’ U.S. General Says](https://www.nytimes.com/2021/10/27/us/politics/china-hypersonic-missile.html) NYT: Gen. Mark A. Milley said China’s testing of a hypersonic missile “has all of our attention.” 
+ <p class="updated_time"> 07:20 PM CT, Oct. 27 </p> 
+ [Tiny Town With Hellish Temps Seeks More People. Hundreds of Calls Came In.](https://www.nytimes.com/2021/10/27/world/australia/free-land.html) NYT: The town in Australia’s outback, where the temperature can hit 113 degrees Fahrenheit, drew global inquiries when it offered “free” land in a bid to expand its population. 
+ <p class="updated_time"> 07:15 PM CT, Oct. 27 </p> 
+ [Israel Advances Plan for New Settlements, in First for Bennett Era](https://www.nytimes.com/2021/10/27/world/middleeast/israel-settlements-west-bank.html) NYT: Approved despite the objections of the United States, critics say the new homes will consolidate Israel’s presence in the West Bank and make it harder to create a Palestinian state. 
  <p class="updated_time"> 06:19 PM CT, Oct. 27 </p> 
  [Climate change: Can India meet its targets?](https://www.bbc.co.uk/news/world-asia-india-58922398?at_medium=RSS&at_campaign=KARANGA) BBC: As a major global climate summit approaches, is the Indian government on track to meet its own commitments? 
  <p class="updated_time"> 06:15 PM CT, Oct. 27 </p> 
  [Covid passes set to stay as Europe heads for winter](https://www.bbc.co.uk/news/world-europe-58973334?at_medium=RSS&at_campaign=KARANGA) BBC: There have been protests but much of Europe has accepted the QR codes as a means of extending freedoms. 
  <p class="updated_time"> 06:02 PM CT, Oct. 27 </p> 
  [Ruth Negga on her latest role – as a black woman passing as white](https://www.bbc.co.uk/news/entertainment-arts-59067060?at_medium=RSS&at_campaign=KARANGA) BBC: Based on the 1929 book by Nella Larsen, the film tells the story of childhood friends who meet in later life. 
- <p class="updated_time"> 05:57 PM CT, Oct. 27 </p> 
- [China’s Weapon Tests Close to a ‘Sputnik Moment,’ U.S. General Says](https://www.nytimes.com/2021/10/27/us/politics/china-hypersonic-missile.html) NYT: Gen. Mark A. Milley said China’s testing of a hypersonic missile “has all of our attention.” 
  <p class="updated_time"> 05:52 PM CT, Oct. 27 </p> 
  [Australia to Ease Overseas Travel Rules for Vaccinated Residents](https://www.nytimes.com/2021/10/27/world/australia/australia-travel-abroad-vaccination.html) NYT: The eased restrictions will be the first stage in the country’s plan to reopen its borders since slamming them shut in 2020, separating families and leaving thousands stranded overseas. 
  <p class="updated_time"> 05:51 PM CT, Oct. 27 </p> 
@@ -40,24 +44,18 @@ permalink: /charts/news/
  [The Rich World’s Promise of $100 Billion in Climate Aid Inches Forward](https://www.nytimes.com/2021/10/25/climate/100-billion-climate-aid-cop26.html) NYT: Diplomats announced a plan to make good on an unkept promise of climate aid, a key point of tension in upcoming global climate talks. 
  <p class="updated_time"> 02:15 PM CT, Oct. 27 </p> 
  [U.N. Group Blames Unequal Vaccine Access for Bigger Global Economic Gap](https://www.nytimes.com/2021/10/27/world/united-nations-coronavirus.html) NYT: Wealthier countries with high vaccination rates have had speedier economic recoveries than poorer countries with low vaccination rates, the International Labor Organization said. 
- <p class="updated_time"> 01:57 PM CT, Oct. 27 </p> 
- [Brazil Lawmakers Seek Indictment of Bolsonaro in Covid Pandemic](https://www.nytimes.com/live/2021/10/26/world/covid-vaccine-boosters/brazil-bolsonaro-criminal-charges) NYT: A report accused President Jair Bolsonaro of causing hundreds of thousands of deaths by discouraging masks, ignoring offers of vaccine and promoting ineffective drugs. 
  <p class="updated_time"> 01:51 PM CT, Oct. 27 </p> 
  [Taliban Allow Girls to Return to Some High Schools, but With Big Caveats](https://www.nytimes.com/2021/10/27/world/asia/afghan-girls-school-taliban.html) NYT: In some provinces, teenage girls have been allowed to return to secondary schools, though some teachers and parents still have doubts about what this means about Taliban rule. 
  <p class="updated_time"> 01:40 PM CT, Oct. 27 </p> 
  [Iran Will Rejoin Nuclear Talks, Top Negotiator Says](https://www.nytimes.com/2021/10/27/world/middleeast/iran-nuclear-talks.html) NYT: Negotiations on reviving the 2015 nuclear accord are to resume in November, but it is unclear if the United States will take part in them. 
  <p class="updated_time"> 01:08 PM CT, Oct. 27 </p> 
  [Benin Bronzes: 'My great-grandfather sculpted the looted treasures'](https://www.bbc.co.uk/news/world-africa-59065274?at_medium=RSS&at_campaign=KARANGA) BBC: Nigerians welcome the return of artefacts - including Cambridge University's cockerel - looted in 1897. 
- <p class="updated_time"> 12:57 PM CT, Oct. 27 </p> 
- [A Hot, Dusty Town in the Middle of Nowhere? We’ll Take It.](https://www.nytimes.com/2021/10/27/world/australia/free-land.html) NYT: A tiny town in Australia’s outback where the temperature can hit 113 degrees Fahrenheit drew global inquiries when it offered “free” land in a bid to expand its population. 
  <p class="updated_time"> 12:54 PM CT, Oct. 27 </p> 
  [Viktor Bryukhanov, Blamed for the Chernobyl Disaster, Dies at 85](https://www.nytimes.com/2021/10/27/world/europe/viktor-bryukhanov-dead.html) NYT: In charge of the plant in Ukraine, he was held responsible for the world’s worst nuclear-power disaster and imprisoned. 
  <p class="updated_time"> 12:52 PM CT, Oct. 27 </p> 
  [Japan’s Communists Are Hardly Radical, but Make a Handy Election Target](https://www.nytimes.com/2021/10/27/world/asia/japan-election-communist-party.html) NYT: They have minimal support in polls. But by teaming up with other opposition parties for the first time, they have been made a boogeyman by the unpopular party in power. 
  <p class="updated_time"> 12:50 PM CT, Oct. 27 </p> 
  [Why Scientists Have Spent Years Mapping This Creature’s Brain](https://www.nytimes.com/2021/10/26/science/drosophila-fly-brain-connectome.html) NYT: An enormous new analysis of the wiring of the fruit fly brain is a milestone for the young field of modern connectomics, researchers say. 
- <p class="updated_time"> 12:42 PM CT, Oct. 27 </p> 
- [Israel Advances Plan for New Settlements, in First for Bennett Era](https://www.nytimes.com/2021/10/27/world/middleeast/israel-settlements-west-bank.html) NYT: Approved despite the objections of the United States, critics say the new homes will consolidate Israel’s presence in the West Bank and make it harder to create a Palestinian state. 
  <p class="updated_time"> 12:42 PM CT, Oct. 27 </p> 
  [China's Hypersonic Missile Test Is Close to 'Sputnik Moment,' U.S. Military Chief Says](https://www.wsj.com/articles/u-s-military-chief-says-chinas-hypersonic-missile-test-is-close-to-sputnik-moment-11635344992) WSJ: Gen. Mark Milley described China’s recent test of a hypersonic missile as “very concerning” and said the Pentagon was focused on the development. 
  <p class="updated_time"> 12:35 PM CT, Oct. 27 </p> 
@@ -72,8 +70,6 @@ permalink: /charts/news/
  [Footballer Josh Cavallo on coming out as gay: 'It's my freedom day'](https://www.bbc.co.uk/news/world-australia-59068417?at_medium=RSS&at_campaign=KARANGA) BBC: Josh Cavallo has come out as gay - the only current top level male professional footballer to do so. 
  <p class="updated_time"> 09:36 AM CT, Oct. 27 </p> 
  [Iran to Return to Nuclear Deal Talks Next Month](https://www.wsj.com/articles/iran-to-return-to-nuclear-deal-talks-in-vienna-next-month-11635348645) WSJ: Tehran will return to negotiations on reviving the 2015 nuclear deal by the end of November, its chief negotiator said Wednesday. 
- <p class="updated_time"> 09:11 AM CT, Oct. 27 </p> 
- [At McKinsey, Widespread Furor Over Work With Planet’s Biggest Polluters](https://www.nytimes.com/2021/10/27/business/mckinsey-climate-change.html) NYT: A letter signed by more than 1,100 employees has called for change at the consulting firm, which has advised at least 43 of the 100 most environmentally damaging companies. 
  <p class="updated_time"> 09:00 AM CT, Oct. 27 </p> 
  [Josh Cavallo: 'I'm a footballer and I'm gay,' says Australian player](https://www.bbc.co.uk/news/newsbeat-59060323?at_medium=RSS&at_campaign=KARANGA) BBC: The Adelaide United footballer has become the only current top-flight male professional to do so. 
  <p class="updated_time"> 08:52 AM CT, Oct. 27 </p> 
@@ -156,8 +152,6 @@ permalink: /charts/news/
  [Moderna to Sell Up to 110 Million Covid Vaccine Doses to African Countries](https://www.nytimes.com/2021/10/26/world/africa/covid-moderna-african-union.html) NYT: Moderna’s shots have previously gone almost entirely to wealthier countries. 
  <p class="updated_time"> 07:47 AM CT, Oct. 26 </p> 
  [Who Is Abdalla Hamdok, Sudan Leader Ousted in Coup](https://www.nytimes.com/2021/10/25/world/africa/abdalla-hamdok-sudan.html) NYT: Sudan’s prime minister spent much of his career at international institutions before joining his country’s government. Now he has been forced out. 
- <p class="updated_time"> 07:41 AM CT, Oct. 26 </p> 
- [A Jewish Far-Right Pundit Splits the French Jewish Community as He Rises](https://www.nytimes.com/2021/10/25/world/europe/eric-zemmour-france-jewish-bernard-henri-levy.html) NYT: Éric Zemmour, eyeing the presidency, tries to rehabilitate the wartime Vichy regime that collaborated with the Nazis as part of a campaign filled with provocations. 
  <p class="updated_time"> 07:40 AM CT, Oct. 26 </p> 
  [U.S. Halts Aid to Sudan Government After Coup](https://www.nytimes.com/2021/10/25/world/africa/us-aid-frozen-sudan.html) NYT: The Biden administration, calling for immediate restoration of the transition government, froze $700 million in direct aid. 
  <p class="updated_time"> 05:18 AM CT, Oct. 26 </p> 
@@ -166,8 +160,6 @@ permalink: /charts/news/
  [Australia Pledges ‘Net Zero’ Emissions by 2050. Its Plan Makes That Hard to Believe.](https://www.nytimes.com/2021/10/26/world/australia/net-zero-delay.html) NYT: The country’s last-minute commitment before next week’s climate summit is built on hope for new technology, and little else. 
  <p class="updated_time"> 02:22 AM CT, Oct. 26 </p> 
  [An Italian Politician’s Quest for Attention Gets a Boost From Richard Gere](https://www.nytimes.com/2021/10/25/world/europe/richard-gere-matteo-salvini-immigrant-trial.html) NYT: The actor may testify against Matteo Salvini, Italy’s former interior minister, in a case involving the treatment of migrants. 
- <p class="updated_time"> 10:42 PM CT, Oct. 25 </p> 
- [German Woman Convicted of a Crime Against Humanity in Death of Yazidi Child](https://www.nytimes.com/2021/10/25/world/europe/germany-isis-yazidi-child.html) NYT: The woman was sentenced to 10 years in prison after a court found that she joined the Islamic State and enslaved a Yazidi mother and child, whom she left to die in the summer heat of Iraq in 2015. 
  <p class="updated_time"> 10:24 PM CT, Oct. 25 </p> 
  [Sudan’s Military Seizes Power, Casting Democratic Transition Into Chaos](https://www.nytimes.com/2021/10/25/world/africa/sudan-military-coup.html) NYT: Civilian and military leaders were supposed to share power after a popular uprising in 2019 overthrew a decades-long dictatorship. On Monday the military detained the civilian prime minister. 
  <p class="updated_time"> 10:12 PM CT, Oct. 25 </p> 
