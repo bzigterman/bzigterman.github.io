@@ -6,14 +6,16 @@ permalink: /projects/news/
 
 ## World News
 
+ <p class="updated_time"> 09:02 AM CT, Oct. 28 </p> 
+ [Covid: Moscow shops and restaurants shut in partial lockdown](https://www.bbc.co.uk/news/world-europe-59076152?at_medium=RSS&at_campaign=KARANGA) BBC: Russia closes non-essential services and sends workers home amid record Covid deaths. 
  <p class="updated_time"> 08:37 AM CT, Oct. 28 </p> 
  [Beijing Olympics: China to Ease Rules for Athletes in Bubble](https://www.nytimes.com/2021/10/28/world/asia/china-covid-olympics.html) NYT: Competitors will still face strict rules at what is shaping up to be the most extraordinarily regulated, large-scale sporting event since the pandemic’s start and could be expelled for breaking them. 
  <p class="updated_time"> 07:37 AM CT, Oct. 28 </p> 
  [Laos makes Southeast Asia's largest ever drug bust](https://www.bbc.co.uk/news/world-asia-59062134?at_medium=RSS&at_campaign=KARANGA) BBC: A truck was carrying 55 million amphethamine tablets and over 1.5 tonnes of crystal methamphetamine. 
  <p class="updated_time"> 06:19 AM CT, Oct. 28 </p> 
  [Film-maker who exposed East Timor massacre dies](https://www.bbc.co.uk/news/entertainment-arts-59075271?at_medium=RSS&at_campaign=KARANGA) BBC: Max Stahl went from children's TV host to award-winning film-maker and East Timor national hero. 
- <p class="updated_time"> 06:12 AM CT, Oct. 28 </p> 
- [Covid: Moscow shops and restaurants shut in partial lockdown](https://www.bbc.co.uk/news/world-europe-59076152?at_medium=RSS&at_campaign=KARANGA) BBC: Russia closes non-essential services and sends workers home amid record Covid deaths. 
+ <p class="updated_time"> 06:00 AM CT, Oct. 28 </p> 
+ [Ali al-Nimr: Saudi child protester who faced death penalty released](https://www.bbc.co.uk/news/world-middle-east-59075486?at_medium=RSS&at_campaign=KARANGA) BBC: Ali al-Nimr, who was arrested when he was 17, was originally sentenced to death by beheading. 
  <p class="updated_time"> 05:52 AM CT, Oct. 28 </p> 
  [Hundreds of sea turtles wash up dead in Mexico](https://www.bbc.co.uk/news/world-latin-america-59077086?at_medium=RSS&at_campaign=KARANGA) BBC: Scientists think the turtles may have become tangled in abandoned fishing nets and drowned. 
  <p class="updated_time"> 05:45 AM CT, Oct. 28 </p> 
@@ -24,18 +26,20 @@ permalink: /projects/news/
  [British fishing trawler detained by French authorities](https://www.bbc.co.uk/news/world-europe-59075793?at_medium=RSS&at_campaign=KARANGA) BBC: Two British ships caught up in post-Brexit fishing rights row in French waters. 
  <p class="updated_time"> 05:16 AM CT, Oct. 28 </p> 
  [A Wealth Tax](https://www.nytimes.com/2021/10/28/briefing/wealth-tax-spending-bill-manchin.html) NYT: What are the pluses and minuses? 
- <p class="updated_time"> 05:13 AM CT, Oct. 28 </p> 
- [Climate change: Major US oil companies to be quizzed in Congress](https://www.bbc.co.uk/news/world-us-canada-59075686?at_medium=RSS&at_campaign=KARANGA) BBC: A US congressional hearing will examine whether oil companies misled the public about climate change. 
  <p class="updated_time"> 05:12 AM CT, Oct. 28 </p> 
  [Israel Advances Plan for New Settlement Homes, in First for Bennett Era](https://www.nytimes.com/2021/10/27/world/middleeast/israel-settlements-west-bank.html) NYT: Approved despite the objections of the United States, critics say the new building will consolidate Israel’s presence in the West Bank and make it harder to create a Palestinian state. 
  <p class="updated_time"> 04:47 AM CT, Oct. 28 </p> 
  [Meeting Between Francis and Biden Will Highlight Their Rift With American Bishops](https://www.nytimes.com/2021/10/28/world/europe/pope-biden-catholic-church-rift.html) NYT: The pope and president, who meet at the Vatican on Friday, are the common targets of conservative American bishops seeking to undercut them. 
  <p class="updated_time"> 04:46 AM CT, Oct. 28 </p> 
  [Why China Is the World’s Last ‘Zero Covid’ Holdout](https://www.nytimes.com/2021/10/27/world/asia/china-zero-covid-virus.html) NYT: The government has staked its political legitimacy on controlling the virus better than other countries, especially its geopolitical rivals. 
+ <p class="updated_time"> 04:26 AM CT, Oct. 28 </p> 
+ [Facebook Faces Official Questions in India Over Policing of Hate Speech](https://www.wsj.com/articles/facebook-faces-official-questions-in-india-over-policing-of-hate-speech-11635427582) WSJ: India’s government is asking Facebook for details about how it monitors and removes inflammatory content on its platform in the country, following reports that say Facebook researchers had determined the company’s services contain inflammatory content in India. 
  <p class="updated_time"> 04:21 AM CT, Oct. 28 </p> 
  [No Squid Game Halloween costumes, New York schools say](https://www.bbc.co.uk/news/world-us-canada-59075823?at_medium=RSS&at_campaign=KARANGA) BBC: The primary schools have warned parents about the Netflix series' "violent messages". 
  <p class="updated_time"> 04:11 AM CT, Oct. 28 </p> 
  [Japan's Covid Cases Drop Drastically After Summer Peak](https://www.nytimes.com/2021/10/28/world/asia/japan-covid-drop.html) NYT: Just a few months ago, the country was recording tens of thousands of cases daily. Now the numbers are in the hundreds each day. 
+ <p class="updated_time"> 04:11 AM CT, Oct. 28 </p> 
+ [China Sticks to Covid-Zero Policies, Despite Rising Pressure to Ease Restrictions](https://www.wsj.com/articles/china-sticks-to-covid-zero-policies-despite-rising-pressure-to-ease-restrictions-11635426664) WSJ: Businesses have urged Beijing to implement a plan to end the strict pandemic regime, warning of the increasing economic toll, as much of the world has begun opening borders. 
  <p class="updated_time"> 03:41 AM CT, Oct. 28 </p> 
  [Wes Anderson’s Dream of France, and the Paris I Remember](https://www.nytimes.com/2021/10/28/movies/french-dispatch-paris.html) NYT: With “The French Dispatch,” the director’s latest, yet another American artist falls under the country’s spell. The Times’s Paris bureau chief recalls when the same thing happened to him. 
  <p class="updated_time"> 03:36 AM CT, Oct. 28 </p> 
@@ -46,8 +50,6 @@ permalink: /projects/news/
  [China limits construction of 'super high-rise buildings'](https://www.bbc.co.uk/news/world-asia-china-59046480?at_medium=RSS&at_campaign=KARANGA) BBC: The decision is being seen as part of a larger bid to crackdown on vanity projects. 
  <p class="updated_time"> 03:03 AM CT, Oct. 28 </p> 
  [ECB Keeps Stimulus Unchanged Despite High Inflation](https://www.wsj.com/articles/ecb-keeps-stimulus-unchanged-despite-high-inflation-11635422592) WSJ: The European Central Bank said it would keep its large monetary stimulus unchanged, delaying a decision on whether to phase out easy money in response to surging inflation. 
- <p class="updated_time"> 02:57 AM CT, Oct. 28 </p> 
- [Helping Chinatown's elderly during the pandemic](https://www.bbc.co.uk/news/world-us-canada-59071514?at_medium=RSS&at_campaign=KARANGA) BBC: A volunteer army is delivering hundreds of meals to elderly East-Asians in New York. 
  <p class="updated_time"> 02:51 AM CT, Oct. 28 </p> 
  [Sitting Bull: DNA confirms great-grandson's identity](https://www.bbc.co.uk/news/world-us-canada-59062133?at_medium=RSS&at_campaign=KARANGA) BBC: A sample of the Native American leader's hair confirms the identity of his great-grandson. 
  <p class="updated_time"> 02:12 AM CT, Oct. 28 </p> 
@@ -104,14 +106,10 @@ permalink: /projects/news/
  [Wonders, and Horrors, Drawn From Boyhood in a War Zone](https://www.nytimes.com/2021/10/27/arts/design/petrit-halilaj-tate-kosovo-war.html) NYT: Petrit Halilaj became one of Kosovo’s most acclaimed artists with work that reflects on his country’s past. Now, he’s getting personal. 
  <p class="updated_time"> 10:22 AM CT, Oct. 27 </p> 
  [Footballer Josh Cavallo on coming out as gay: 'It's my freedom day'](https://www.bbc.co.uk/news/world-australia-59068417?at_medium=RSS&at_campaign=KARANGA) BBC: Josh Cavallo has come out as gay - the only current top level male professional footballer to do so. 
- <p class="updated_time"> 09:36 AM CT, Oct. 27 </p> 
- [Iran to Return to Nuclear Deal Talks Next Month](https://www.wsj.com/articles/iran-to-return-to-nuclear-deal-talks-in-vienna-next-month-11635348645) WSJ: Tehran will return to negotiations on reviving the 2015 nuclear deal by the end of November, its chief negotiator said Wednesday. 
  <p class="updated_time"> 07:52 AM CT, Oct. 27 </p> 
  [U.K., Canada Lead West in Weaning Economies Off Covid-19 Pandemic Support](https://www.wsj.com/articles/u-k-canada-lead-west-in-weaning-economies-off-covid-19-pandemic-support-11635353559) WSJ: London’s new tax and spending policies, along with faster growth, are forecast to shrink the U.K.’s budget deficit in coming years. 
  <p class="updated_time"> 07:24 AM CT, Oct. 27 </p> 
  [As Gangs’ Power Grows, Haiti’s Police Are Outgunned and Underpaid](https://www.nytimes.com/2021/10/26/world/americas/haiti-police-gangs.html) NYT: The police force, dependent on an increasingly depleted state, is finding itself underfunded, underequipped and severely underpaid, even as it faces stronger opponents. 
- <p class="updated_time"> 06:01 AM CT, Oct. 27 </p> 
- [China's Ambitious Climate Goals Collide With Reality](https://www.wsj.com/articles/chinas-ambitious-climate-goals-collide-with-reality-imperiling-global-efforts-11635346919) WSJ: Beijing commits to net-zero emissions before 2060, but for years to come it will continue burning a lot of coal to keep its economy charging ahead. 
  <p class="updated_time"> 05:30 AM CT, Oct. 27 </p> 
  [The Mushy Middle](https://www.nytimes.com/2021/10/27/briefing/abortion-texas-roe-v-wade.html) NYT: We look at public opinion about abortion in Texas. 
  <p class="updated_time"> 04:00 AM CT, Oct. 27 </p> 
