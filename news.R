@@ -45,7 +45,7 @@ for (x in 1:nrow(politics_news)) {
              politics_news$clean_time[[x]],
              "</p>",
              "\n",
-             politics_news$item_md_link[[x]], 
+             politics_news$item_html_link[[x]], 
              politics_news$feed_plus_description[[x]],
              "\n")
   politics_news_lines = paste(politics_news_lines, line)
@@ -89,7 +89,7 @@ for (x in 1:nrow(world_news)) {
              world_news$clean_time[[x]],
              "</p>",
              "\n",
-             world_news$item_md_link[[x]], 
+             world_news$item_html_link[[x]], 
              world_news$feed_plus_description[[x]],
              "\n")
   world_news_lines = paste(world_news_lines, line)
@@ -101,7 +101,7 @@ world_news_lines
 web_text <- paste(
   "---
 layout: page
-title: News River
+title: News Rivers
 permalink: /projects/news/
 ---
 
