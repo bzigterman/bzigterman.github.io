@@ -6,10 +6,18 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 09:24 PM CT, Oct. 27 </p> 
+ [Covid Cases Keep Falling](https://www.nytimes.com/2021/10/26/briefing/covid-cases-falling-delta.html) NYT: Covid cases have been falling in every region of the U.S., offering hope. 
+ <p class="updated_time"> 09:17 PM CT, Oct. 27 </p> 
+ [Huma Abedin: Clinton aide details unwanted kiss by US senator](https://www.bbc.co.uk/news/world-us-canada-59059289?at_medium=RSS&at_campaign=KARANGA) BBC: In a new book, Huma Abedin says the senator made an unwelcome advance after inviting her into his home. 
+ <p class="updated_time"> 07:39 PM CT, Oct. 27 </p> 
+ [Chinese missile launch very concerning, says top US general](https://www.bbc.co.uk/news/world-us-canada-59072616?at_medium=RSS&at_campaign=KARANGA) BBC: Gen Milley's comments were the first US acknowledgment of claims China tested a hypersonic missile. 
  <p class="updated_time"> 07:34 PM CT, Oct. 27 </p> 
  [Hellishly Hot Tiny Town Offers ‘Free’ Land. Hundreds of Calls Came In.](https://www.nytimes.com/2021/10/27/world/australia/free-land.html) NYT: The town in Australia’s outback, where the temperature can hit 113 degrees Fahrenheit, drew global inquiries when it offered “free” land in a bid to expand its population. 
  <p class="updated_time"> 07:30 PM CT, Oct. 27 </p> 
  [Alec Baldwin shooting: Criminal charges may be filed, prosecutor says](https://www.bbc.co.uk/news/world-us-canada-59068976?at_medium=RSS&at_campaign=KARANGA) BBC: A US prosecutor says "all options are on the table" over the shooting involving actor Alec Baldwin. 
+ <p class="updated_time"> 07:29 PM CT, Oct. 27 </p> 
+ ['You have to prove your faith when you're dating as a black Muslim'](https://www.bbc.co.uk/news/newsbeat-59010749?at_medium=RSS&at_campaign=KARANGA) BBC: Radio 1 Newsbeat speaks to black Muslims about their experiences in the dating world and society. 
  <p class="updated_time"> 07:24 PM CT, Oct. 27 </p> 
  [China’s Weapon Tests Close to a ‘Sputnik Moment,’ U.S. General Says](https://www.nytimes.com/2021/10/27/us/politics/china-hypersonic-missile.html) NYT: Gen. Mark A. Milley said China’s testing of a hypersonic missile “has all of our attention.” 
  <p class="updated_time"> 07:15 PM CT, Oct. 27 </p> 
@@ -74,8 +82,6 @@ permalink: /charts/news/
  [Claudette Colvin: US civil rights pioneer wants record cleared](https://www.bbc.co.uk/news/world-us-canada-59047634?at_medium=RSS&at_campaign=KARANGA) BBC: Claudette Colvin was just 15 in 1955 when she refused to give up her seat on a bus for a white person. 
  <p class="updated_time"> 08:45 AM CT, Oct. 27 </p> 
  [Iran blames foreign country for cyberattack on petrol stations](https://www.bbc.co.uk/news/world-middle-east-59062907?at_medium=RSS&at_campaign=KARANGA) BBC: Tuesday's attack crippled a system that lets motorists buy subsidised petrol, causing long queues. 
- <p class="updated_time"> 08:11 AM CT, Oct. 27 </p> 
- [Charlottesville: Why are the ‘Unite the Right’ organisers on trial?](https://www.bbc.co.uk/news/world-us-canada-59054166?at_medium=RSS&at_campaign=KARANGA) BBC: Nine people injured at the 2017 far-right 'Unite the Right' rally in Virginia are suing organisers. 
  <p class="updated_time"> 08:04 AM CT, Oct. 27 </p> 
  [U.S. Argues Extradition of Julian Assange Should Go Ahead](https://www.wsj.com/articles/u-s-argues-extradition-of-wikileaks-founder-julian-assange-should-go-ahead-11635354265) WSJ: The U.S. presented arguments to a British court to overturn an earlier decision against extraditing the WikiLeaks founder. 
  <p class="updated_time"> 07:52 AM CT, Oct. 27 </p> 
@@ -92,10 +98,6 @@ permalink: /charts/news/
  [China's Ambitious Climate Goals Collide With Reality, Hampering Global Efforts](https://www.wsj.com/articles/chinas-ambitious-climate-goals-collide-with-reality-imperiling-global-efforts-11635346919) WSJ: Beijing commits to net-zero emissions before 2060, but for years to come it will continue burning a lot of coal to keep its economy charging ahead. 
  <p class="updated_time"> 05:30 AM CT, Oct. 27 </p> 
  [The Mushy Middle](https://www.nytimes.com/2021/10/27/briefing/abortion-texas-roe-v-wade.html) NYT: We look at public opinion about abortion in Texas. 
- <p class="updated_time"> 05:27 AM CT, Oct. 27 </p> 
- [Hong Kong passes new film censorship law](https://www.bbc.co.uk/news/world-asia-china-59047633?at_medium=RSS&at_campaign=KARANGA) BBC: Authorities will have the power to ban films deemed to violate China's national security interests. 
- <p class="updated_time"> 05:00 AM CT, Oct. 27 </p> 
- [Spain grants joint custody of dog in rare ruling](https://www.bbc.co.uk/news/world-europe-59062132?at_medium=RSS&at_campaign=KARANGA) BBC: A lawyer calls the ruling pioneering as her client could declare herself as a "co-carer". 
  <p class="updated_time"> 04:00 AM CT, Oct. 27 </p> 
  [He Won the Nobel. Why Are His Books So Hard to Find?](https://www.nytimes.com/2021/10/27/books/abdulrazak-gurnah-nobel-prize-literature-afterlives.html) NYT: After Abdulrazak Gurnah was awarded this year’s Nobel Prize in Literature, he instantly gained a wider international audience, something publishers are now scrambling to accommodate. 
  <p class="updated_time"> 04:00 AM CT, Oct. 27 </p> 
@@ -112,12 +114,8 @@ permalink: /charts/news/
  [Sudan’s Prime Minister Was Detained at Home of General Who Led Coup](https://www.nytimes.com/2021/10/26/world/africa/sudan-coup-protests.html) NYT: Protesters demanding civilian rule flooded the streets of major cities a day after a military takeover. Many offices and businesses shut, answering a call for civil disobediences. 
  <p class="updated_time"> 10:08 PM CT, Oct. 26 </p> 
  [Trial in Holocaust Survivor's Killing Begins in France](https://www.nytimes.com/2021/10/26/world/europe/france-murder-trial-holocaust-survivor-mireille-knoll.html) NYT: Mireille Knoll, 85, was killed in 2018 in what prosecutors and the authorities called a hate crime. Decades earlier, she had escaped a notorious roundup of Jews. 
- <p class="updated_time"> 08:55 PM CT, Oct. 26 </p> 
- [Moldova: Russia threatens gas supply in Europe's poorest state](https://www.bbc.co.uk/news/world-europe-59048894?at_medium=RSS&at_campaign=KARANGA) BBC: Moldova has made history by buying gas from somewhere other than Russia. How will the Kremlin react? 
  <p class="updated_time"> 08:21 PM CT, Oct. 26 </p> 
  [Céline's Newly Unearthed Work Causes a Stir in France](https://www.nytimes.com/2021/10/26/world/europe/celine-manuscripts-france.html) NYT: A legal battle is raging over manuscripts written by the antisemitic writer Louis-Ferdinand Céline that disappeared almost eight decades ago. 
- <p class="updated_time"> 08:15 PM CT, Oct. 26 </p> 
- [Sudan coup: Why the army is gambling with the future](https://www.bbc.co.uk/news/world-africa-59050473?at_medium=RSS&at_campaign=KARANGA) BBC: The generals fear they are at risk if civilian rule demands accountability, argues Alex de Waal. 
  <p class="updated_time"> 07:00 PM CT, Oct. 26 </p> 
  [2 Days After Cricket Victory Over India, Pakistan Still Feels the High](https://www.nytimes.com/2021/10/26/world/asia/pakistan-cricket-victory-india.html) NYT: The nation is experiencing a much-needed burst of joy after it unexpectedly beat India in a cricket match in Dubai. 
  <p class="updated_time"> 06:41 PM CT, Oct. 26 </p> 
@@ -154,8 +152,6 @@ permalink: /charts/news/
  [Who Is Abdalla Hamdok, Sudan Leader Ousted in Coup](https://www.nytimes.com/2021/10/25/world/africa/abdalla-hamdok-sudan.html) NYT: Sudan’s prime minister spent much of his career at international institutions before joining his country’s government. Now he has been forced out. 
  <p class="updated_time"> 07:40 AM CT, Oct. 26 </p> 
  [U.S. Halts Aid to Sudan Government After Coup](https://www.nytimes.com/2021/10/25/world/africa/us-aid-frozen-sudan.html) NYT: The Biden administration, calling for immediate restoration of the transition government, froze $700 million in direct aid. 
- <p class="updated_time"> 05:18 AM CT, Oct. 26 </p> 
- [Covid Cases Keep Falling](https://www.nytimes.com/2021/10/26/briefing/covid-cases-falling-delta.html) NYT: Covid cases have been falling in every region of the U.S., offering hope. 
  <p class="updated_time"> 03:40 AM CT, Oct. 26 </p> 
  [Australia Pledges ‘Net Zero’ Emissions by 2050. Its Plan Makes That Hard to Believe.](https://www.nytimes.com/2021/10/26/world/australia/net-zero-delay.html) NYT: The country’s last-minute commitment before next week’s climate summit is built on hope for new technology, and little else. 
  <p class="updated_time"> 02:22 AM CT, Oct. 26 </p> 
