@@ -6,12 +6,12 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 07:37 AM CT, Oct. 28 </p> 
+ [Laos makes Southeast Asia's largest ever drug bust](https://www.bbc.co.uk/news/world-asia-59062134?at_medium=RSS&at_campaign=KARANGA) BBC: A truck was carrying 55 million amphethamine tablets and over 1.5 tonnes of crystal methamphetamine. 
  <p class="updated_time"> 06:19 AM CT, Oct. 28 </p> 
  [Film-maker who exposed East Timor massacre dies](https://www.bbc.co.uk/news/entertainment-arts-59075271?at_medium=RSS&at_campaign=KARANGA) BBC: Max Stahl went from children's TV host to award-winning film-maker and East Timor national hero. 
  <p class="updated_time"> 06:12 AM CT, Oct. 28 </p> 
  [Covid: Moscow shops and restaurants shut in partial lockdown](https://www.bbc.co.uk/news/world-europe-59076152?at_medium=RSS&at_campaign=KARANGA) BBC: Russia closes non-essential services and sends workers home amid record Covid deaths. 
- <p class="updated_time"> 06:02 AM CT, Oct. 28 </p> 
- [Laos makes Southeast Asia's largest ever drug bust](https://www.bbc.co.uk/news/world-asia-59062134?at_medium=RSS&at_campaign=KARANGA) BBC: A truck was carrying 55 million amphethamine tablets and over 1.5 tonnes of crystal methamphetamine. 
  <p class="updated_time"> 05:52 AM CT, Oct. 28 </p> 
  [Hundreds of sea turtles wash up dead in Mexico](https://www.bbc.co.uk/news/world-latin-america-59077086?at_medium=RSS&at_campaign=KARANGA) BBC: Scientists think the turtles may have become tangled in abandoned fishing nets and drowned. 
  <p class="updated_time"> 05:45 AM CT, Oct. 28 </p> 
@@ -44,6 +44,8 @@ permalink: /charts/news/
  [Covid passes set to stay as Europe heads for winter](https://www.bbc.co.uk/news/world-europe-58973334?at_medium=RSS&at_campaign=KARANGA) BBC: There have been protests but much of Europe has accepted the QR codes as a means of extending freedoms. 
  <p class="updated_time"> 03:13 AM CT, Oct. 28 </p> 
  [China limits construction of 'super high-rise buildings'](https://www.bbc.co.uk/news/world-asia-china-59046480?at_medium=RSS&at_campaign=KARANGA) BBC: The decision is being seen as part of a larger bid to crackdown on vanity projects. 
+ <p class="updated_time"> 03:03 AM CT, Oct. 28 </p> 
+ [ECB Keeps Stimulus Unchanged Despite High Inflation](https://www.wsj.com/articles/ecb-keeps-stimulus-unchanged-despite-high-inflation-11635422592) WSJ: The European Central Bank said it would keep its large monetary stimulus unchanged, delaying a decision on whether to phase out easy money in response to surging inflation. 
  <p class="updated_time"> 02:57 AM CT, Oct. 28 </p> 
  [Helping Chinatown's elderly during the pandemic](https://www.bbc.co.uk/news/world-us-canada-59071514?at_medium=RSS&at_campaign=KARANGA) BBC: A volunteer army is delivering hundreds of meals to elderly East-Asians in New York. 
  <p class="updated_time"> 02:51 AM CT, Oct. 28 </p> 
@@ -108,8 +110,6 @@ permalink: /charts/news/
  [U.K., Canada Lead West in Weaning Economies Off Covid-19 Pandemic Support](https://www.wsj.com/articles/u-k-canada-lead-west-in-weaning-economies-off-covid-19-pandemic-support-11635353559) WSJ: London’s new tax and spending policies, along with faster growth, are forecast to shrink the U.K.’s budget deficit in coming years. 
  <p class="updated_time"> 07:24 AM CT, Oct. 27 </p> 
  [As Gangs’ Power Grows, Haiti’s Police Are Outgunned and Underpaid](https://www.nytimes.com/2021/10/26/world/americas/haiti-police-gangs.html) NYT: The police force, dependent on an increasingly depleted state, is finding itself underfunded, underequipped and severely underpaid, even as it faces stronger opponents. 
- <p class="updated_time"> 06:22 AM CT, Oct. 27 </p> 
- [Chinese Workers Say They Are Lured Abroad and Exploited for Belt-and-Road Jobs](https://www.wsj.com/articles/chinese-workers-say-they-are-lured-abroad-and-exploited-for-belt-and-road-jobs-11635348143) WSJ: Five laborers tried to sneak into Malaysia to escape low-paying work in Indonesia, and tens of thousands of workers are similarly desperate, a labor-rights group says. 
  <p class="updated_time"> 06:01 AM CT, Oct. 27 </p> 
  [China's Ambitious Climate Goals Collide With Reality](https://www.wsj.com/articles/chinas-ambitious-climate-goals-collide-with-reality-imperiling-global-efforts-11635346919) WSJ: Beijing commits to net-zero emissions before 2060, but for years to come it will continue burning a lot of coal to keep its economy charging ahead. 
  <p class="updated_time"> 05:30 AM CT, Oct. 27 </p> 
