@@ -12,7 +12,7 @@ I like to make stuff with the R programming language, and here is where I collec
 
 ## [Baseball Standings]({{ site.baseurl }}/projects/baseball)
 
-## [News River]({{ site.baseurl }}/projects/news)
+## [News Rivers]({{ site.baseurl }}/projects/news)
 
 ## [Weather]({{ site.baseurl }}/projects/weather)
 
