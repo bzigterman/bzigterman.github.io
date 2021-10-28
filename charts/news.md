@@ -6,10 +6,12 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 07:34 PM CT, Oct. 27 </p> 
+ [Hellishly Hot Tiny Town Offers ‘Free’ Land. Hundreds of Calls Came In.](https://www.nytimes.com/2021/10/27/world/australia/free-land.html) NYT: The town in Australia’s outback, where the temperature can hit 113 degrees Fahrenheit, drew global inquiries when it offered “free” land in a bid to expand its population. 
+ <p class="updated_time"> 07:30 PM CT, Oct. 27 </p> 
+ [Alec Baldwin shooting: Criminal charges may be filed, prosecutor says](https://www.bbc.co.uk/news/world-us-canada-59068976?at_medium=RSS&at_campaign=KARANGA) BBC: A US prosecutor says "all options are on the table" over the shooting involving actor Alec Baldwin. 
  <p class="updated_time"> 07:24 PM CT, Oct. 27 </p> 
  [China’s Weapon Tests Close to a ‘Sputnik Moment,’ U.S. General Says](https://www.nytimes.com/2021/10/27/us/politics/china-hypersonic-missile.html) NYT: Gen. Mark A. Milley said China’s testing of a hypersonic missile “has all of our attention.” 
- <p class="updated_time"> 07:20 PM CT, Oct. 27 </p> 
- [Tiny Town With Hellish Temps Seeks More People. Hundreds of Calls Came In.](https://www.nytimes.com/2021/10/27/world/australia/free-land.html) NYT: The town in Australia’s outback, where the temperature can hit 113 degrees Fahrenheit, drew global inquiries when it offered “free” land in a bid to expand its population. 
  <p class="updated_time"> 07:15 PM CT, Oct. 27 </p> 
  [Israel Advances Plan for New Settlements, in First for Bennett Era](https://www.nytimes.com/2021/10/27/world/middleeast/israel-settlements-west-bank.html) NYT: Approved despite the objections of the United States, critics say the new homes will consolidate Israel’s presence in the West Bank and make it harder to create a Palestinian state. 
  <p class="updated_time"> 06:19 PM CT, Oct. 27 </p> 
@@ -24,8 +26,6 @@ permalink: /charts/news/
  [B.J. Novak’s Face Is on Products Worldwide. He’s Not Sure Why.](https://www.nytimes.com/2021/10/27/business/bj-novak-photo-public-domain-products.html) NYT: An image of the actor appears on an eclectic mix of products from China to Uruguay. “I am too amused to do anything about it,” he said on Instagram. 
  <p class="updated_time"> 05:14 PM CT, Oct. 27 </p> 
  [Sudan coup: World Bank suspends aid after military takeover](https://www.bbc.co.uk/news/world-africa-59066654?at_medium=RSS&at_campaign=KARANGA) BBC: Pressure mounts on the military to restore civilian rule as international bodies respond. 
- <p class="updated_time"> 04:50 PM CT, Oct. 27 </p> 
- [Alec Baldwin shooting: Sheriff describes film set 'complacency'](https://www.bbc.co.uk/news/world-us-canada-59068976?at_medium=RSS&at_campaign=KARANGA) BBC: New Mexico authorities are so far refusing to rule out bringing criminal charges in the case. 
  <p class="updated_time"> 04:41 PM CT, Oct. 27 </p> 
  [Pope Expresses ‘Willingness’ to Visit Canada for Indigenous Reconciliation](https://www.nytimes.com/2021/10/27/world/canada/pope-indigenous-apology.html) NYT: A National Truth and Reconciliation Commission has called for a papal apology for abuses at church-run schools for Indigenous children. 
  <p class="updated_time"> 04:07 PM CT, Oct. 27 </p> 
@@ -58,8 +58,6 @@ permalink: /charts/news/
  [Why Scientists Have Spent Years Mapping This Creature’s Brain](https://www.nytimes.com/2021/10/26/science/drosophila-fly-brain-connectome.html) NYT: An enormous new analysis of the wiring of the fruit fly brain is a milestone for the young field of modern connectomics, researchers say. 
  <p class="updated_time"> 12:42 PM CT, Oct. 27 </p> 
  [China's Hypersonic Missile Test Is Close to 'Sputnik Moment,' U.S. Military Chief Says](https://www.wsj.com/articles/u-s-military-chief-says-chinas-hypersonic-missile-test-is-close-to-sputnik-moment-11635344992) WSJ: Gen. Mark Milley described China’s recent test of a hypersonic missile as “very concerning” and said the Pentagon was focused on the development. 
- <p class="updated_time"> 12:35 PM CT, Oct. 27 </p> 
- [Climate change quiz: How can you cut your carbon emissions?](https://www.bbc.co.uk/news/science-environment-58996348?at_medium=RSS&at_campaign=KARANGA) BBC: How much do you know about the steps you could take to help curb climate change? 
  <p class="updated_time"> 12:09 PM CT, Oct. 27 </p> 
  [Wonders, and Horrors, Drawn From Boyhood in a War Zone](https://www.nytimes.com/2021/10/27/arts/design/petrit-halilaj-tate-kosovo-war.html) NYT: Petrit Halilaj became one of Kosovo’s most acclaimed artists with work that reflects on his country’s past. Now, he’s getting personal. 
  <p class="updated_time"> 11:45 AM CT, Oct. 27 </p> 
@@ -100,6 +98,8 @@ permalink: /charts/news/
  [Spain grants joint custody of dog in rare ruling](https://www.bbc.co.uk/news/world-europe-59062132?at_medium=RSS&at_campaign=KARANGA) BBC: A lawyer calls the ruling pioneering as her client could declare herself as a "co-carer". 
  <p class="updated_time"> 04:00 AM CT, Oct. 27 </p> 
  [He Won the Nobel. Why Are His Books So Hard to Find?](https://www.nytimes.com/2021/10/27/books/abdulrazak-gurnah-nobel-prize-literature-afterlives.html) NYT: After Abdulrazak Gurnah was awarded this year’s Nobel Prize in Literature, he instantly gained a wider international audience, something publishers are now scrambling to accommodate. 
+ <p class="updated_time"> 04:00 AM CT, Oct. 27 </p> 
+ [Japan Stays Tough on Marijuana as Other Nations Loosen Up](https://www.nytimes.com/2021/10/27/business/cbd-japan-cannabis-marijuana.html) NYT: Some Japanese who have gone abroad and been exposed to the benefits of cannabis derivatives, particularly CBD, are hoping Japan will change course. But the government shows little inclination. 
  <p class="updated_time"> 04:00 AM CT, Oct. 27 </p> 
  [Pastries and Persuasion: How a Global Tax Deal Got Done](https://www.nytimes.com/2021/10/27/us/politics/global-minimum-tax-deal.html) NYT: Over Zoom calls from basements and a breakfast in Brussels, faltering negotiations to remake the world’s tax architecture were revived. 
  <p class="updated_time"> 12:51 AM CT, Oct. 27 </p> 
@@ -176,8 +176,6 @@ permalink: /charts/news/
  [Climate change: Sir David Attenborough in 'act now' warning](https://www.bbc.co.uk/news/science-environment-59039485?at_medium=RSS&at_campaign=KARANGA) BBC: "If we don't act now, it'll be too late," warns Sir David Attenborough ahead of the COP26 climate summit. 
  <p class="updated_time"> 05:37 PM CT, Oct. 25 </p> 
  [Egypt’s Leader Ends State of Emergency, Says It’s No Longer Needed](https://www.nytimes.com/2021/10/25/world/middleeast/egypt-sisi-state-emergency.html) NYT: The move by President Abdel Fattah el-Sisi theoretically rolls back sweeping powers the government wielded in the name of fighting terrorism, but critics called it a cosmetic change. 
- <p class="updated_time"> 01:37 PM CT, Oct. 25 </p> 
- [Turkish President Steps Back From Expulsions of 10 Western Diplomats](https://www.nytimes.com/2021/10/25/world/europe/erdogan-turkey-ambassador.html) NYT: The threatened expulsions had risked severe economic consequences and a rupture in the North Atlantic Treaty Organization. 
  <p class="updated_time"> 11:10 AM CT, Oct. 25 </p> 
  [COP26: What is the Glasgow climate conference and why is it important?](https://www.bbc.co.uk/news/science-environment-56901261?at_medium=RSS&at_campaign=KARANGA) BBC: A crucial climate change summit is being held in the UK - this is why it's important. 
  <p class="updated_time"> 07:00 PM CT, Oct. 24 </p> 
