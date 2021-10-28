@@ -192,12 +192,14 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:42 PM CT, Oct. 28 </p> 
+ <a href="https://www.nytimes.com/2021/10/28/climate/climate-change-framework-bill.html">Climate Change Became the Central Part of Biden Spending Bill</a> NYT: As paid family leave and other priorities were taken out of the president’s plan, the largest piece became a $555 billion plan to fight climate change. 
+ <p class="updated_time"> 05:30 PM CT, Oct. 28 </p> 
+ <a href="https://www.nytimes.com/2021/10/28/us/politics/elections-november.html">Will We See Red or Blue Mirages in Election Results on Tuesday?</a> NYT: Mail-in ballots skewed early returns in some states in 2020. Will the trend repeat itself on Tuesday? 
  <p class="updated_time"> 05:18 PM CT, Oct. 28 </p> 
  <a href="https://www.nytimes.com/2021/10/27/us/politics/supreme-court-texas-abortion.html">Briefs Draw Battle Lines as Texas Abortion Law Nears Supreme Court</a> NYT: The justices, who will hear arguments on Monday in two cases challenging the state’s near-total ban, required the parties to file their briefs with extraordinary speed. 
  <p class="updated_time"> 05:16 PM CT, Oct. 28 </p> 
  <a href="https://www.nytimes.com/2021/10/28/us/politics/supreme-court-oklahoma-executions.html">Supreme Court Lets Two Oklahoma Executions Proceed</a> NYT: By a 5-to-3 vote, the justices lifted a stay of execution that had been imposed by a federal appeals court in a challenge to the state’s lethal injection protocols. 
- <p class="updated_time"> 04:55 PM CT, Oct. 28 </p> 
- <a href="https://www.nytimes.com/2021/10/27/us/politics/biden-immigration-ice-schools-hospitals.html">Biden Bars Immigration Enforcement in 'Protected Areas’</a> NYT: The Biden administration included schools, hospitals, parades and places of worship on a list of areas off limits to immigration arrests or other types of enforcement. 
  <p class="updated_time"> 04:53 PM CT, Oct. 28 </p> 
  <a href="https://www.nytimes.com/2021/10/28/us/politics/progressives-infrastructure-biden-pelosi-support.html">Progressives Unmoved by Biden Request for Fast Vote on Infrastructure</a> NYT: Their opposition meant that House leaders were unlikely to be able to muster enough votes to pass the bill on Thursday as they had hoped, despite President Biden’s entreaties. 
  <p class="updated_time"> 04:50 PM CT, Oct. 28 </p> 
@@ -218,8 +220,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/10/28/liberals-weigh-settling-for-half-a-loaf-517456">Liberals weigh their options: Settle for half a loaf, or fight</a> Politico: President Joe Biden and Democratic leaders are asking for their votes on a $1.75 trillion social spending blueprint. They're not totally sold yet. 
  <p class="updated_time"> 09:31 AM CT, Oct. 28 </p> 
  <a href="https://www.nytimes.com/article/transgender-athlete-ban.html">Transgender Athletes Face Bans From Girls’ Sports in 10 U.S. States</a> NYT: Over the past two years, nine states have enacted laws to bar transgender girls and women from competing in girls’ and women’s sports. Another relied on an executive order for a ban. 
- <p class="updated_time"> 09:13 AM CT, Oct. 28 </p> 
- <a href="https://www.nytimes.com/2021/10/27/us/black-women-mayor-us-cities.html">8 Black Women Who Are Mayors in Some of the U.S.'s Biggest Cities</a> NYT: Black women achieved a historic milestone as mayors of eight major American cities this year. Political analysts say the record number points to “the age of Black women in politics.” 
  <p class="updated_time"> 06:56 AM CT, Oct. 28 </p> 
  <a href="https://www.nytimes.com/2021/10/27/us/politics/beloved-toni-morrison-virginia.html">Fight Over Toni Morrison Novel Inflames Virginia Governor's Race</a> NYT: A Republican ad featured a mother who had tried to have “Beloved” banned from her son’s curriculum. Democrats saw a coded racist message. 
  <p class="updated_time"> 09:21 AM CT, Oct. 28 </p> 
