@@ -6,10 +6,18 @@ permalink: /projects/news/
 
 ## World News
 
- <p class="updated_time"> 11:23 AM CT, Oct. 28 </p> 
- [Biden announces revamped $1.75 trillion social spending plan](https://www.bbc.co.uk/news/world-us-canada-59081791?at_medium=RSS&at_campaign=KARANGA) BBC: The president said that his party was "on board" as he prepares to roll out a new spending bill. 
+ <p class="updated_time"> 12:22 PM CT, Oct. 28 </p> 
+ [New York Braces for Staffing Shortages as Vaccine Deadline Nears](https://www.nytimes.com/2021/10/28/nyregion/new-york-vaccine-mandate-police-fire.html) NYT: Thousands of workers in the city’s uniformed services are not yet in compliance with a vaccine mandate for city workers that takes effect Monday. 
+ <p class="updated_time"> 12:22 PM CT, Oct. 28 </p> 
+ [Biden announces revamped $1.75 trillion social spending plan](https://www.bbc.co.uk/news/world-us-canada-59081791?at_medium=RSS&at_campaign=KARANGA) BBC: The president said that his party was "on board" though the scaled-back plan's fate is uncertain. 
+ <p class="updated_time"> 12:04 PM CT, Oct. 28 </p> 
+ [Polio and Measles Vaccines Lag for Children Across the World ](https://www.nytimes.com/2021/10/28/health/polio-measles-vaccinations-covid.html) NYT: Millions of young children did not get immunized against polio, measles and other diseases. 
+ <p class="updated_time"> 12:03 PM CT, Oct. 28 </p> 
+ [Meeting of Francis and Biden Will Highlight Rift With U.S. Bishops](https://www.nytimes.com/2021/10/28/world/europe/pope-biden-catholic-church-rift.html) NYT: The pope and president, who will meet at the Vatican on Friday, are common targets of conservative American bishops seeking to undercut them. 
+ <p class="updated_time"> 11:48 AM CT, Oct. 28 </p> 
+ [After Time of ‘Real Terror,’ City’s Resilience Is Symbolized in Statue](https://www.nytimes.com/2021/10/28/world/europe/brescia-italy-winged-victory.html) NYT: Brescia, Italy, was one of the first Western cities devastated by the pandemic. It has adopted a famed ancient statue, “Winged Victory,” as the emblem of its recovery — and a prod for visits. 
  <p class="updated_time"> 11:16 AM CT, Oct. 28 </p> 
- [In Japan, Rural Voters Count More Than Those in Big Cities. It Shows.](https://www.nytimes.com/2021/10/28/world/asia/japan-election-rural-urban.html) NYT: The disproportionate weight of rural voters in Japan gives sparsely populated parts of the country more representation — and more government largess — than urban areas, perpetuating what critics call an unfair system. 
+ [In Japan Elections, Rural Voters Count More Than Those in Big Cities](https://www.nytimes.com/2021/10/28/world/asia/japan-election-rural-urban.html) NYT: The disproportionate weight of rural voters in Japan gives sparsely populated parts of the country more representation — and more government largess — than urban areas, perpetuating what critics call an unfair system. 
  <p class="updated_time"> 11:15 AM CT, Oct. 28 </p> 
  [Japan’s Communists Are Hardly Radical, but Make a Handy Election Target](https://www.nytimes.com/2021/10/27/world/asia/japan-election-communist-party.html) NYT: They have minimal support in polls. But by teaming up with other opposition parties for the first time, they have been made a boogeyman by the unpopular party in power. 
  <p class="updated_time"> 10:42 AM CT, Oct. 28 </p> 
@@ -44,8 +52,6 @@ permalink: /projects/news/
  [A Wealth Tax](https://www.nytimes.com/2021/10/28/briefing/wealth-tax-spending-bill-manchin.html) NYT: What are the pluses and minuses? 
  <p class="updated_time"> 05:12 AM CT, Oct. 28 </p> 
  [Israel Advances Plan for New Settlement Homes, in First for Bennett Era](https://www.nytimes.com/2021/10/27/world/middleeast/israel-settlements-west-bank.html) NYT: Approved despite the objections of the United States, critics say the new building will consolidate Israel’s presence in the West Bank and make it harder to create a Palestinian state. 
- <p class="updated_time"> 04:47 AM CT, Oct. 28 </p> 
- [Meeting Between Francis and Biden Will Highlight Their Rift With American Bishops](https://www.nytimes.com/2021/10/28/world/europe/pope-biden-catholic-church-rift.html) NYT: The pope and president, who meet at the Vatican on Friday, are the common targets of conservative American bishops seeking to undercut them. 
  <p class="updated_time"> 04:46 AM CT, Oct. 28 </p> 
  [Why China Is the World’s Last ‘Zero Covid’ Holdout](https://www.nytimes.com/2021/10/27/world/asia/china-zero-covid-virus.html) NYT: The government has staked its political legitimacy on controlling the virus better than other countries, especially its geopolitical rivals. 
  <p class="updated_time"> 04:26 AM CT, Oct. 28 </p> 
@@ -126,8 +132,6 @@ permalink: /projects/news/
  [Your Wednesday Briefing](https://www.nytimes.com/2021/10/26/briefing/climate-glasgow-un-myanmar-pakistan-cricket.html) NYT: ‘Imminent peril’ from global warming. 
  <p class="updated_time"> 11:04 PM CT, Oct. 26 </p> 
  [Your Wednesday Briefing](https://www.nytimes.com/2021/10/27/briefing/climate-change-children-vaccines.html) NYT: Emissions plans fall short. 
- <p class="updated_time"> 10:12 PM CT, Oct. 26 </p> 
- [Princess Mako's Royal Wedding in Japan Goes Off With Little Fanfare](https://www.nytimes.com/2021/10/25/world/asia/japan-royal-wedding-princess-mako.html) NYT: The torturous path to marriage for Princess Mako of Japan, who gave up her title to marry a commoner, leads to a registry office in Tokyo and most likely a life abroad. 
  <p class="updated_time"> 10:08 PM CT, Oct. 26 </p> 
  [Sudan’s Prime Minister Was Detained at Home of General Who Led Coup](https://www.nytimes.com/2021/10/26/world/africa/sudan-coup-protests.html) NYT: Protesters demanding civilian rule flooded the streets of major cities a day after a military takeover. Many offices and businesses shut, answering a call for civil disobediences. 
  <p class="updated_time"> 10:08 PM CT, Oct. 26 </p> 
@@ -162,12 +166,8 @@ permalink: /projects/news/
  [Iran Wanted U.S. Out of Afghanistan. It May Be Sorry the Wish Came True.](https://www.nytimes.com/2021/10/26/world/middleeast/iran-taliban-afghanistan.html) NYT: Iran is glad the Americans are gone, but the Taliban takeover of Afghanistan creates a host of problems for Tehran, with no easy solutions. 
  <p class="updated_time"> 08:50 AM CT, Oct. 26 </p> 
  [Moderna to Sell Up to 110 Million Covid Vaccine Doses to African Countries](https://www.nytimes.com/2021/10/26/world/africa/covid-moderna-african-union.html) NYT: Moderna’s shots have previously gone almost entirely to wealthier countries. 
- <p class="updated_time"> 03:40 AM CT, Oct. 26 </p> 
- [Australia Pledges ‘Net Zero’ Emissions by 2050. Its Plan Makes That Hard to Believe.](https://www.nytimes.com/2021/10/26/world/australia/net-zero-delay.html) NYT: The country’s last-minute commitment before next week’s climate summit is built on hope for new technology, and little else. 
  <p class="updated_time"> 10:12 PM CT, Oct. 25 </p> 
  [Eco-friendly sex: What is it and how does it impact on climate change?](https://www.bbc.co.uk/news/science-environment-59046518?at_medium=RSS&at_campaign=KARANGA) BBC: As more people try to live environmentally friendly lives, how do we make sex more sustainable? 
- <p class="updated_time"> 09:46 PM CT, Oct. 25 </p> 
- [Your Tuesday Briefing](https://www.nytimes.com/2021/10/25/briefing/sudan-coup-facebook-crisis.html) NYT: The military seizes power in Sudan. 
  <p class="updated_time"> 07:12 PM CT, Oct. 25 </p> 
  [Climate change: Four things you can do about your carbon footprint](https://www.bbc.co.uk/news/science-environment-58171814?at_medium=RSS&at_campaign=KARANGA) BBC: Small changes to our lifestyles and choices could limit our personal carbon footprint. 
  <p class="updated_time"> 06:01 PM CT, Oct. 25 </p> 
