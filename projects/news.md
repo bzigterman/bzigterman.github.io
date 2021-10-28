@@ -6,7 +6,9 @@ permalink: /projects/news/
 
 ## World News
 
- <p class="updated_time"> 02:11 PM CT, Oct. 28 </p> 
+ <p class="updated_time"> 02:27 PM CT, Oct. 28 </p> 
+ [Japan's Covid Cases Drop Drastically After Summer Peak](https://www.nytimes.com/2021/10/28/world/asia/japan-covid-drop.html) NYT: Just a few months ago, the country was recording tens of thousands of cases daily. Now the numbers are in the hundreds each day. 
+ <p class="updated_time"> 02:20 PM CT, Oct. 28 </p> 
  [Facebook changes its name to Meta in major rebrand](https://www.bbc.co.uk/news/technology-59083601?at_medium=RSS&at_campaign=KARANGA) BBC: The social media giant says the new name will better encompass what it does. 
  <p class="updated_time"> 02:09 PM CT, Oct. 28 </p> 
  [In Japan Elections, Rural Voters Count More Than Those in Big Cities](https://www.nytimes.com/2021/10/28/world/asia/japan-election-rural-urban.html) NYT: The disproportionate weight of rural voters in Japan gives sparsely populated parts of the country more representation — and more government largess — than urban areas, perpetuating what critics call an unfair system. 
@@ -64,8 +66,6 @@ permalink: /projects/news/
  [Facebook Faces Official Questions in India Over Policing of Hate Speech](https://www.wsj.com/articles/facebook-faces-official-questions-in-india-over-policing-of-hate-speech-11635427582) WSJ: India’s government is asking Facebook for details about how it monitors and removes inflammatory content on its platform in the country, following reports that say Facebook researchers had determined the company’s services contain inflammatory content in India. 
  <p class="updated_time"> 04:21 AM CT, Oct. 28 </p> 
  [No Squid Game Halloween costumes, New York schools say](https://www.bbc.co.uk/news/world-us-canada-59075823?at_medium=RSS&at_campaign=KARANGA) BBC: The primary schools have warned parents about the Netflix series' "violent messages". 
- <p class="updated_time"> 04:11 AM CT, Oct. 28 </p> 
- [Japan's Covid Cases Drop Drastically After Summer Peak](https://www.nytimes.com/2021/10/28/world/asia/japan-covid-drop.html) NYT: Just a few months ago, the country was recording tens of thousands of cases daily. Now the numbers are in the hundreds each day. 
  <p class="updated_time"> 04:11 AM CT, Oct. 28 </p> 
  [China Sticks to Covid-Zero Policies, Despite Rising Pressure to Ease Restrictions](https://www.wsj.com/articles/china-sticks-to-covid-zero-policies-despite-rising-pressure-to-ease-restrictions-11635426664) WSJ: Businesses have urged Beijing to implement a plan to end the strict pandemic regime, warning of the increasing economic toll, as much of the world has begun opening borders. 
  <p class="updated_time"> 03:41 AM CT, Oct. 28 </p> 
