@@ -6,12 +6,16 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 03:13 AM CT, Oct. 28 </p> 
+ [China limits construction of 'super high-rise buildings'](https://www.bbc.co.uk/news/world-asia-china-59046480?at_medium=RSS&at_campaign=KARANGA) BBC: The decision is being seen as part of a larger bid to crackdown on vanity projects. 
+ <p class="updated_time"> 02:54 AM CT, Oct. 28 </p> 
+ [UK boat detained by France amid fishing rights row](https://www.bbc.co.uk/news/uk-59073715?at_medium=RSS&at_campaign=KARANGA) BBC: A French minister says the boat did not have a licence to fish in French waters and was seized. 
  <p class="updated_time"> 12:34 AM CT, Oct. 28 </p> 
  [ICC T20 World Cup: India arrests Muslims for cheering Pakistan cricket team](https://www.bbc.co.uk/news/world-asia-india-59059494?at_medium=RSS&at_campaign=KARANGA) BBC: Several people have been arrested for supporting Pakistan during Sunday's T20 World Cup cricket game. 
  <p class="updated_time"> 12:29 AM CT, Oct. 28 </p> 
  [Alec Baldwin shooting: Criminal charges may be filed, prosecutor says](https://www.bbc.co.uk/news/world-us-canada-59068976?at_medium=RSS&at_campaign=KARANGA) BBC: A US prosecutor says "all options are on the table" over the shooting involving actor Alec Baldwin. 
- <p class="updated_time"> 12:12 AM CT, Oct. 28 </p> 
- [Fishing rights row: French threats disappointing, says Frost](https://www.bbc.co.uk/news/uk-59069951?at_medium=RSS&at_campaign=KARANGA) BBC: The Brexit minister seeks "urgent clarification" after France says it will block ports to UK boats. 
+ <p class="updated_time"> 12:24 AM CT, Oct. 28 </p> 
+ [China rations diesel amid fuel shortages](https://www.bbc.co.uk/news/business-59059093?at_medium=RSS&at_campaign=KARANGA) BBC: It is likely to contribute to the global supply chain crisis and inflation, analysts told the BBC. 
  <p class="updated_time"> 11:10 PM CT, Oct. 27 </p> 
  [Why China Is the World’s Last ‘Zero Covid’ Holdout](https://www.nytimes.com/2021/10/27/world/asia/china-zero-covid-virus.html) NYT: The government has staked its political legitimacy on controlling the virus better than other countries, especially its geopolitical rivals. 
  <p class="updated_time"> 11:01 PM CT, Oct. 27 </p> 
@@ -20,8 +24,6 @@ permalink: /charts/news/
  [China Locks Down City of 4 Million to Subdue Covid Outbreak](https://www.nytimes.com/2021/10/26/world/asia/covid-china-lanzhou-lockdown.html) NYT: Lanzhou, with about four million people, reported six new coronavirus cases on Tuesday, and a total of 39 over the past week. 
  <p class="updated_time"> 10:43 PM CT, Oct. 27 </p> 
  [Gangs Rule Much of Haiti. For Many, It Means No Fuel, No Power, No Food.](https://www.nytimes.com/2021/10/27/world/americas/haiti-gangs-fuel-shortage.html) NYT: A country in crisis is facing a severe fuel shortage that is pushing it to the brink of collapse. 
- <p class="updated_time"> 10:26 PM CT, Oct. 27 </p> 
- [China limits construction of 'super high-rise buildings'](https://www.bbc.co.uk/news/world-asia-china-59046480?at_medium=RSS&at_campaign=KARANGA) BBC: The decision is being seen as part of a larger bid to crackdown on vanity projects. 
  <p class="updated_time"> 10:07 PM CT, Oct. 27 </p> 
  [Your Thursday Briefing](https://www.nytimes.com/2021/10/27/briefing/merck-pill-china-hypersonic-missile.html) NYT: More access to a Covid-19 antiviral pill. 
  <p class="updated_time"> 10:04 PM CT, Oct. 27 </p> 
@@ -88,8 +90,6 @@ permalink: /charts/news/
  [Footballer Josh Cavallo on coming out as gay: 'It's my freedom day'](https://www.bbc.co.uk/news/world-australia-59068417?at_medium=RSS&at_campaign=KARANGA) BBC: Josh Cavallo has come out as gay - the only current top level male professional footballer to do so. 
  <p class="updated_time"> 09:36 AM CT, Oct. 27 </p> 
  [Iran to Return to Nuclear Deal Talks Next Month](https://www.wsj.com/articles/iran-to-return-to-nuclear-deal-talks-in-vienna-next-month-11635348645) WSJ: Tehran will return to negotiations on reviving the 2015 nuclear deal by the end of November, its chief negotiator said Wednesday. 
- <p class="updated_time"> 08:52 AM CT, Oct. 27 </p> 
- [Claudette Colvin: US civil rights pioneer wants record cleared](https://www.bbc.co.uk/news/world-us-canada-59047634?at_medium=RSS&at_campaign=KARANGA) BBC: Claudette Colvin was just 15 in 1955 when she refused to give up her seat on a bus for a white person. 
  <p class="updated_time"> 08:04 AM CT, Oct. 27 </p> 
  [U.S. Argues Extradition of Julian Assange Should Go Ahead](https://www.wsj.com/articles/u-s-argues-extradition-of-wikileaks-founder-julian-assange-should-go-ahead-11635354265) WSJ: The U.S. presented arguments to a British court to overturn an earlier decision against extraditing the WikiLeaks founder. 
  <p class="updated_time"> 07:52 AM CT, Oct. 27 </p> 
