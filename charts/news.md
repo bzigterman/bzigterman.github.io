@@ -7,7 +7,9 @@ permalink: /charts/news/
 ## World News
 
  <p class="updated_time"> 05:27 AM CT, Oct. 28 </p> 
- [UK boat detained by France amid fishing rights row](https://www.bbc.co.uk/news/uk-59073715?at_medium=RSS&at_campaign=KARANGA) BBC: A minister says his officials are "urgently" investigating the situation surrounding the detained boat. 
+ [Rémy Daillet: Conspiracist charged over alleged French coup plot](https://www.bbc.co.uk/news/world-europe-59075902?at_medium=RSS&at_campaign=KARANGA) BBC: Rémy Daillet is accused of forming an extremist group to plan attacks against the French state. 
+ <p class="updated_time"> 05:27 AM CT, Oct. 28 </p> 
+ [Film-maker who exposed East Timor massacre dies](https://www.bbc.co.uk/news/entertainment-arts-59075271?at_medium=RSS&at_campaign=KARANGA) BBC: Max Stahl went from children's TV host to award-winning film-maker and East Timor national hero. 
  <p class="updated_time"> 05:26 AM CT, Oct. 28 </p> 
  [British fishing trawler detained by French authorities](https://www.bbc.co.uk/news/world-europe-59075793?at_medium=RSS&at_campaign=KARANGA) BBC: Two British ships caught up in post-Brexit fishing rights row in French waters. 
  <p class="updated_time"> 05:25 AM CT, Oct. 28 </p> 
@@ -56,8 +58,6 @@ permalink: /charts/news/
  [Gangs Rule Much of Haiti. For Many, It Means No Fuel, No Power, No Food.](https://www.nytimes.com/2021/10/27/world/americas/haiti-gangs-fuel-shortage.html) NYT: A country in crisis is facing a severe fuel shortage that is pushing it to the brink of collapse. 
  <p class="updated_time"> 10:07 PM CT, Oct. 27 </p> 
  [Your Thursday Briefing](https://www.nytimes.com/2021/10/27/briefing/merck-pill-china-hypersonic-missile.html) NYT: More access to a Covid-19 antiviral pill. 
- <p class="updated_time"> 10:04 PM CT, Oct. 27 </p> 
- [Sudan coup: World Bank suspends aid after military takeover](https://www.bbc.co.uk/news/world-africa-59066654?at_medium=RSS&at_campaign=KARANGA) BBC: Pressure mounts on the military to restore civilian rule as international bodies respond. 
  <p class="updated_time"> 09:24 PM CT, Oct. 27 </p> 
  [Covid Cases Keep Falling](https://www.nytimes.com/2021/10/26/briefing/covid-cases-falling-delta.html) NYT: Covid cases have been falling in every region of the U.S., offering hope. 
  <p class="updated_time"> 07:39 PM CT, Oct. 27 </p> 
