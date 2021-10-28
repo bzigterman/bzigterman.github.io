@@ -6,24 +6,36 @@ permalink: /projects/news/
 
 ## World News
 
+ <p class="updated_time"> 11:23 AM CT, Oct. 28 </p> 
+ [Biden announces revamped $1.75 trillion social spending plan](https://www.bbc.co.uk/news/world-us-canada-59081791?at_medium=RSS&at_campaign=KARANGA) BBC: The president said that his party was "on board" as he prepares to roll out a new spending bill. 
+ <p class="updated_time"> 11:16 AM CT, Oct. 28 </p> 
+ [In Japan, Rural Voters Count More Than Those in Big Cities. It Shows.](https://www.nytimes.com/2021/10/28/world/asia/japan-election-rural-urban.html) NYT: The disproportionate weight of rural voters in Japan gives sparsely populated parts of the country more representation — and more government largess — than urban areas, perpetuating what critics call an unfair system. 
+ <p class="updated_time"> 11:15 AM CT, Oct. 28 </p> 
+ [Japan’s Communists Are Hardly Radical, but Make a Handy Election Target](https://www.nytimes.com/2021/10/27/world/asia/japan-election-communist-party.html) NYT: They have minimal support in polls. But by teaming up with other opposition parties for the first time, they have been made a boogeyman by the unpopular party in power. 
  <p class="updated_time"> 10:42 AM CT, Oct. 28 </p> 
  [Covid passes set to stay as Europe heads for winter](https://www.bbc.co.uk/news/world-europe-58973334?at_medium=RSS&at_campaign=KARANGA) BBC: There have been protests but much of Europe has accepted the QR codes as a means of extending freedoms. 
+ <p class="updated_time"> 10:30 AM CT, Oct. 28 </p> 
+ [French and Australian leaders hold first talks after submarine row](https://www.bbc.co.uk/news/world-59082112?at_medium=RSS&at_campaign=KARANGA) BBC: French President Macron tells Australian Prime Minister Morrison the relation of trust is now broken. 
  <p class="updated_time"> 10:28 AM CT, Oct. 28 </p> 
  [Saudi Finance Official Is Missing From Conference He Hosts](https://www.nytimes.com/2021/10/28/world/middleeast/saudi-investment-covid.html) NYT: The unexplained absence of Yasir al-Rumayyan, who oversees the kingdom’s sovereign wealth fund, has highlighted concerns about a lack of transparency. 
  <p class="updated_time"> 09:02 AM CT, Oct. 28 </p> 
  [Covid: Moscow shops and restaurants shut in partial lockdown](https://www.bbc.co.uk/news/world-europe-59076152?at_medium=RSS&at_campaign=KARANGA) BBC: Russia closes non-essential services and sends workers home amid record Covid deaths. 
  <p class="updated_time"> 08:37 AM CT, Oct. 28 </p> 
- [Beijing Olympics: China to Ease Rules for Athletes in Bubble](https://www.nytimes.com/2021/10/28/world/asia/china-covid-olympics.html) NYT: Competitors will still face strict rules at what is shaping up to be the most extraordinarily regulated, large-scale sporting event since the pandemic’s start and could be expelled for breaking them. 
+ [Beijing Olympics: China to Ease Covid Guidelines for Athletes in Bubble](https://www.nytimes.com/2021/10/28/world/asia/china-covid-olympics.html) NYT: Competitors will still face strict rules at what is shaping up to be the most extraordinarily regulated, large-scale sporting event since the pandemic’s start and could be expelled for breaking them. 
  <p class="updated_time"> 07:37 AM CT, Oct. 28 </p> 
- [Laos makes Southeast Asia's largest ever drug bust](https://www.bbc.co.uk/news/world-asia-59062134?at_medium=RSS&at_campaign=KARANGA) BBC: A truck was carrying 55 million amphethamine tablets and over 1.5 tonnes of crystal methamphetamine. 
+ [Laos makes Asia's largest ever drug bust](https://www.bbc.co.uk/news/world-asia-59062134?at_medium=RSS&at_campaign=KARANGA) BBC: A truck was carrying 55 million amphethamine tablets and over 1.5 tonnes of crystal methamphetamine. 
+ <p class="updated_time"> 07:15 AM CT, Oct. 28 </p> 
+ [ECB, Diverging From Fed, Sticks With Negative Rates](https://www.wsj.com/articles/ecb-keeps-stimulus-unchanged-despite-high-inflation-11635422592) WSJ: The European Central Bank said it would keep its large monetary stimulus unchanged, and bank President Christine Lagarde stressed the view that a recent rise in inflation would be temporary. 
+ <p class="updated_time"> 06:25 AM CT, Oct. 28 </p> 
+ [Taiwanese President Confirms U.S. Troop Deployment on Island](https://www.wsj.com/articles/taiwanese-president-confirms-u-s-troop-deployment-on-island-11635433900) WSJ: Tsai Ing-wen noted a “range of cooperation with the U.S.,” in comments that followed a recent Wall Street Journal report that a small contingent of Marines and a special-operations unit had been training Taiwanese forces. 
  <p class="updated_time"> 06:19 AM CT, Oct. 28 </p> 
  [Film-maker who exposed East Timor massacre dies](https://www.bbc.co.uk/news/entertainment-arts-59075271?at_medium=RSS&at_campaign=KARANGA) BBC: Max Stahl went from children's TV host to award-winning film-maker and East Timor national hero. 
  <p class="updated_time"> 06:00 AM CT, Oct. 28 </p> 
  [Ali al-Nimr: Saudi child protester who faced death penalty released](https://www.bbc.co.uk/news/world-middle-east-59075486?at_medium=RSS&at_campaign=KARANGA) BBC: Ali al-Nimr, who was arrested when he was 17, was originally sentenced to death by beheading. 
+ <p class="updated_time"> 05:59 AM CT, Oct. 28 </p> 
+ [India's Missile Test Seen as Warning to China After Breakdown in Border Talks](https://www.wsj.com/articles/indias-missile-test-seen-as-warning-to-china-after-breakdown-in-border-talks-11635433146) WSJ: Security experts said the launch of the Agni-5 missile, the only one in India’s arsenal capable of reaching Beijing, was a pointed reminder to China that the South Asian nation has the firepower to fight back if border tensions flare up again. 
  <p class="updated_time"> 05:52 AM CT, Oct. 28 </p> 
  [Hundreds of sea turtles wash up dead in Mexico](https://www.bbc.co.uk/news/world-latin-america-59077086?at_medium=RSS&at_campaign=KARANGA) BBC: Scientists think the turtles may have become tangled in abandoned fishing nets and drowned. 
- <p class="updated_time"> 05:45 AM CT, Oct. 28 </p> 
- [US issues first gender-neutral 'X' passport](https://www.bbc.co.uk/news/world-us-canada-59076614?at_medium=RSS&at_campaign=KARANGA) BBC: The document has an "X" in the gender box, to show the holder does not identify as male or female. 
  <p class="updated_time"> 05:27 AM CT, Oct. 28 </p> 
  [Rémy Daillet: Conspiracist charged over alleged French coup plot](https://www.bbc.co.uk/news/world-europe-59075902?at_medium=RSS&at_campaign=KARANGA) BBC: Rémy Daillet is accused of forming an extremist group to plan attacks against the French state. 
  <p class="updated_time"> 05:26 AM CT, Oct. 28 </p> 
@@ -50,12 +62,8 @@ permalink: /projects/news/
  [Hellishly Hot Tiny Town Offers ‘Free’ Land. Hundreds of Calls Came In.](https://www.nytimes.com/2021/10/27/world/australia/free-land.html) NYT: The town in Australia’s outback, where the temperature can hit 113 degrees Fahrenheit, drew global inquiries when it offered “free” land in a bid to expand its population. 
  <p class="updated_time"> 03:13 AM CT, Oct. 28 </p> 
  [China limits construction of 'super high-rise buildings'](https://www.bbc.co.uk/news/world-asia-china-59046480?at_medium=RSS&at_campaign=KARANGA) BBC: The decision is being seen as part of a larger bid to crackdown on vanity projects. 
- <p class="updated_time"> 03:03 AM CT, Oct. 28 </p> 
- [ECB Keeps Stimulus Unchanged Despite High Inflation](https://www.wsj.com/articles/ecb-keeps-stimulus-unchanged-despite-high-inflation-11635422592) WSJ: The European Central Bank said it would keep its large monetary stimulus unchanged, delaying a decision on whether to phase out easy money in response to surging inflation. 
  <p class="updated_time"> 02:51 AM CT, Oct. 28 </p> 
  [Sitting Bull: DNA confirms great-grandson's identity](https://www.bbc.co.uk/news/world-us-canada-59062133?at_medium=RSS&at_campaign=KARANGA) BBC: A sample of the Native American leader's hair confirms the identity of his great-grandson. 
- <p class="updated_time"> 02:12 AM CT, Oct. 28 </p> 
- [Global Migration Plummeted During Pandemic, but Labor Shortages Drive Rebound](https://www.wsj.com/articles/global-migration-plummeted-during-pandemic-but-labor-shortages-drive-rebound-11635419559) WSJ: Industries that had come to rely heavily on migrant workers have been struggling as economies reopen and businesses scramble to satisfy a huge surge in demand. 
  <p class="updated_time"> 01:00 AM CT, Oct. 28 </p> 
  [Intelligence Agencies Failed to Predict Rapid Fall of Kabul](https://www.wsj.com/articles/four-u-s-intelligence-agencies-produced-extensive-reports-on-afghanistan-but-all-failed-to-predict-kabuls-rapid-collapse-11635415201) WSJ: Agencies offered scattershot assessments of the staying power of the Afghan military and government, a review of wide-ranging summaries of classified material by The Wall Street Journal shows. 
  <p class="updated_time"> 11:01 PM CT, Oct. 27 </p> 
@@ -72,8 +80,6 @@ permalink: /projects/news/
  ['You have to prove your faith when you're dating as a black Muslim'](https://www.bbc.co.uk/news/newsbeat-59010749?at_medium=RSS&at_campaign=KARANGA) BBC: Radio 1 Newsbeat speaks to black Muslims about their experiences in the dating world and society. 
  <p class="updated_time"> 07:24 PM CT, Oct. 27 </p> 
  [China’s Weapon Tests Close to a ‘Sputnik Moment,’ U.S. General Says](https://www.nytimes.com/2021/10/27/us/politics/china-hypersonic-missile.html) NYT: Gen. Mark A. Milley said China’s testing of a hypersonic missile “has all of our attention.” 
- <p class="updated_time"> 06:35 PM CT, Oct. 27 </p> 
- [Climate change: Polls shows rising demand for government action](https://www.bbc.co.uk/news/science-environment-59067471?at_medium=RSS&at_campaign=KARANGA) BBC: Ahead of COP26, a BBC World Service poll finds growing support for strong political leadership. 
  <p class="updated_time"> 06:19 PM CT, Oct. 27 </p> 
  [Climate change: Can India meet its targets?](https://www.bbc.co.uk/news/world-asia-india-58922398?at_medium=RSS&at_campaign=KARANGA) BBC: As a major global climate summit approaches, is the Indian government on track to meet its own commitments? 
  <p class="updated_time"> 06:02 PM CT, Oct. 27 </p> 
@@ -100,16 +106,12 @@ permalink: /projects/news/
  [Benin Bronzes: 'My great-grandfather sculpted the looted treasures'](https://www.bbc.co.uk/news/world-africa-59065274?at_medium=RSS&at_campaign=KARANGA) BBC: Nigerians welcome the return of artefacts - including Cambridge University's cockerel - looted in 1897. 
  <p class="updated_time"> 12:54 PM CT, Oct. 27 </p> 
  [Viktor Bryukhanov, Blamed for the Chernobyl Disaster, Dies at 85](https://www.nytimes.com/2021/10/27/world/europe/viktor-bryukhanov-dead.html) NYT: In charge of the plant in Ukraine, he was held responsible for the world’s worst nuclear-power disaster and imprisoned. 
- <p class="updated_time"> 12:52 PM CT, Oct. 27 </p> 
- [Japan’s Communists Are Hardly Radical, but Make a Handy Election Target](https://www.nytimes.com/2021/10/27/world/asia/japan-election-communist-party.html) NYT: They have minimal support in polls. But by teaming up with other opposition parties for the first time, they have been made a boogeyman by the unpopular party in power. 
  <p class="updated_time"> 12:50 PM CT, Oct. 27 </p> 
  [Why Scientists Have Spent Years Mapping This Creature’s Brain](https://www.nytimes.com/2021/10/26/science/drosophila-fly-brain-connectome.html) NYT: An enormous new analysis of the wiring of the fruit fly brain is a milestone for the young field of modern connectomics, researchers say. 
  <p class="updated_time"> 12:09 PM CT, Oct. 27 </p> 
  [Wonders, and Horrors, Drawn From Boyhood in a War Zone](https://www.nytimes.com/2021/10/27/arts/design/petrit-halilaj-tate-kosovo-war.html) NYT: Petrit Halilaj became one of Kosovo’s most acclaimed artists with work that reflects on his country’s past. Now, he’s getting personal. 
  <p class="updated_time"> 10:22 AM CT, Oct. 27 </p> 
  [Footballer Josh Cavallo on coming out as gay: 'It's my freedom day'](https://www.bbc.co.uk/news/world-australia-59068417?at_medium=RSS&at_campaign=KARANGA) BBC: Josh Cavallo has come out as gay - the only current top level male professional footballer to do so. 
- <p class="updated_time"> 07:52 AM CT, Oct. 27 </p> 
- [U.K., Canada Lead West in Weaning Economies Off Covid-19 Pandemic Support](https://www.wsj.com/articles/u-k-canada-lead-west-in-weaning-economies-off-covid-19-pandemic-support-11635353559) WSJ: London’s new tax and spending policies, along with faster growth, are forecast to shrink the U.K.’s budget deficit in coming years. 
  <p class="updated_time"> 07:24 AM CT, Oct. 27 </p> 
  [As Gangs’ Power Grows, Haiti’s Police Are Outgunned and Underpaid](https://www.nytimes.com/2021/10/26/world/americas/haiti-police-gangs.html) NYT: The police force, dependent on an increasingly depleted state, is finding itself underfunded, underequipped and severely underpaid, even as it faces stronger opponents. 
  <p class="updated_time"> 05:30 AM CT, Oct. 27 </p> 
