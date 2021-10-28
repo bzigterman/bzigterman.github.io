@@ -6,10 +6,16 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 03:30 AM CT, Oct. 28 </p> 
+ [Covid passes set to stay as Europe heads for winter](https://www.bbc.co.uk/news/world-europe-58973334?at_medium=RSS&at_campaign=KARANGA) BBC: There have been protests but much of Europe has accepted the QR codes as a means of extending freedoms. 
  <p class="updated_time"> 03:13 AM CT, Oct. 28 </p> 
  [China limits construction of 'super high-rise buildings'](https://www.bbc.co.uk/news/world-asia-china-59046480?at_medium=RSS&at_campaign=KARANGA) BBC: The decision is being seen as part of a larger bid to crackdown on vanity projects. 
+ <p class="updated_time"> 02:57 AM CT, Oct. 28 </p> 
+ [Helping Chinatown's elderly during the pandemic](https://www.bbc.co.uk/news/world-us-canada-59071514?at_medium=RSS&at_campaign=KARANGA) BBC: A volunteer army is delivering hundreds of meals to elderly East-Asians in New York. 
  <p class="updated_time"> 02:54 AM CT, Oct. 28 </p> 
  [UK boat detained by France amid fishing rights row](https://www.bbc.co.uk/news/uk-59073715?at_medium=RSS&at_campaign=KARANGA) BBC: A French minister says the boat did not have a licence to fish in French waters and was seized. 
+ <p class="updated_time"> 02:51 AM CT, Oct. 28 </p> 
+ [Sitting Bull: DNA confirms great-grandson's identity](https://www.bbc.co.uk/news/world-us-canada-59062133?at_medium=RSS&at_campaign=KARANGA) BBC: A sample of the Native American leader's hair confirms the identity of his great-grandson. 
  <p class="updated_time"> 12:34 AM CT, Oct. 28 </p> 
  [ICC T20 World Cup: India arrests Muslims for cheering Pakistan cricket team](https://www.bbc.co.uk/news/world-asia-india-59059494?at_medium=RSS&at_campaign=KARANGA) BBC: Several people have been arrested for supporting Pakistan during Sunday's T20 World Cup cricket game. 
  <p class="updated_time"> 12:29 AM CT, Oct. 28 </p> 
@@ -46,8 +52,6 @@ permalink: /charts/news/
  [Climate change: Polls shows rising demand for government action](https://www.bbc.co.uk/news/science-environment-59067471?at_medium=RSS&at_campaign=KARANGA) BBC: Ahead of COP26, a BBC World Service poll finds growing support for strong political leadership. 
  <p class="updated_time"> 06:19 PM CT, Oct. 27 </p> 
  [Climate change: Can India meet its targets?](https://www.bbc.co.uk/news/world-asia-india-58922398?at_medium=RSS&at_campaign=KARANGA) BBC: As a major global climate summit approaches, is the Indian government on track to meet its own commitments? 
- <p class="updated_time"> 06:15 PM CT, Oct. 27 </p> 
- [Covid passes set to stay as Europe heads for winter](https://www.bbc.co.uk/news/world-europe-58973334?at_medium=RSS&at_campaign=KARANGA) BBC: There have been protests but much of Europe has accepted the QR codes as a means of extending freedoms. 
  <p class="updated_time"> 06:02 PM CT, Oct. 27 </p> 
  [Ruth Negga on her latest role – as a black woman passing as white](https://www.bbc.co.uk/news/entertainment-arts-59067060?at_medium=RSS&at_campaign=KARANGA) BBC: Based on the 1929 book by Nella Larsen, the film tells the story of childhood friends who meet in later life. 
  <p class="updated_time"> 05:52 PM CT, Oct. 27 </p> 
@@ -60,8 +64,6 @@ permalink: /charts/news/
  [Merck Will Share Formula for Its Covid Pill With Poor Countries](https://www.nytimes.com/2021/10/27/health/covid-pill-access-molnupiravir.html) NYT: The company announced a licensing deal that will allow the drug, molnupiravir, to be made and sold cheaply in 105 developing nations. 
  <p class="updated_time"> 03:44 PM CT, Oct. 27 </p> 
  [Poland told to pay €1m a day in legal row with EU](https://www.bbc.co.uk/news/world-europe-59064883?at_medium=RSS&at_campaign=KARANGA) BBC: The ruling is the latest step in an escalating dispute over Poland's legal reforms. 
- <p class="updated_time"> 02:48 PM CT, Oct. 27 </p> 
- [Pope Francis to visit Canada for indigenous reconciliation](https://www.bbc.co.uk/news/world-us-canada-59066724?at_medium=RSS&at_campaign=KARANGA) BBC: The visit follows renewed attention on indigenous children who died at residential schools. 
  <p class="updated_time"> 02:29 PM CT, Oct. 27 </p> 
  [Queen Elizabeth Will Skip Climate Summit in Glasgow](https://www.nytimes.com/2021/10/26/world/europe/queen-elizabeth-cop26-summit.html) NYT: The 95-year-old queen, after 70 years on the throne, is the oldest and longest-serving monarch in British history. 
  <p class="updated_time"> 02:24 PM CT, Oct. 27 </p> 
@@ -84,8 +86,6 @@ permalink: /charts/news/
  [China's Hypersonic Missile Test Is Close to 'Sputnik Moment,' U.S. Military Chief Says](https://www.wsj.com/articles/u-s-military-chief-says-chinas-hypersonic-missile-test-is-close-to-sputnik-moment-11635344992) WSJ: Gen. Mark Milley described China’s recent test of a hypersonic missile as “very concerning” and said the Pentagon was focused on the development. 
  <p class="updated_time"> 12:09 PM CT, Oct. 27 </p> 
  [Wonders, and Horrors, Drawn From Boyhood in a War Zone](https://www.nytimes.com/2021/10/27/arts/design/petrit-halilaj-tate-kosovo-war.html) NYT: Petrit Halilaj became one of Kosovo’s most acclaimed artists with work that reflects on his country’s past. Now, he’s getting personal. 
- <p class="updated_time"> 11:45 AM CT, Oct. 27 </p> 
- [Israel advances plans for 3,000 new homes in West Bank settlements](https://www.bbc.co.uk/news/world-middle-east-59062909?at_medium=RSS&at_campaign=KARANGA) BBC: The move follows a strong public rebuke of Israeli policy from US President Biden's administration. 
  <p class="updated_time"> 10:22 AM CT, Oct. 27 </p> 
  [Footballer Josh Cavallo on coming out as gay: 'It's my freedom day'](https://www.bbc.co.uk/news/world-australia-59068417?at_medium=RSS&at_campaign=KARANGA) BBC: Josh Cavallo has come out as gay - the only current top level male professional footballer to do so. 
  <p class="updated_time"> 09:36 AM CT, Oct. 27 </p> 
