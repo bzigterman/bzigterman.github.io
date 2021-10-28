@@ -6,6 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 03:52 AM CT, Oct. 28 </p> 
+ [ Morshyn, a Ukrainian Town, Succeeds With Vaccine Experiment](https://www.nytimes.com/2021/10/27/world/europe/ukraine-covid-vaccination-campaign.html) NYT: A government vaccine blitz in a small spa town that relies on tourist revenues led to a precipitous drop in Covid cases and deaths. 
  <p class="updated_time"> 03:36 AM CT, Oct. 28 </p> 
  [Hellishly Hot Tiny Town Offers ‘Free’ Land. Hundreds of Calls Came In.](https://www.nytimes.com/2021/10/27/world/australia/free-land.html) NYT: The town in Australia’s outback, where the temperature can hit 113 degrees Fahrenheit, drew global inquiries when it offered “free” land in a bid to expand its population. 
  <p class="updated_time"> 03:30 AM CT, Oct. 28 </p> 
@@ -154,8 +156,6 @@ permalink: /charts/news/
  [U.S. Halts Aid to Sudan Government After Coup](https://www.nytimes.com/2021/10/25/world/africa/us-aid-frozen-sudan.html) NYT: The Biden administration, calling for immediate restoration of the transition government, froze $700 million in direct aid. 
  <p class="updated_time"> 03:40 AM CT, Oct. 26 </p> 
  [Australia Pledges ‘Net Zero’ Emissions by 2050. Its Plan Makes That Hard to Believe.](https://www.nytimes.com/2021/10/26/world/australia/net-zero-delay.html) NYT: The country’s last-minute commitment before next week’s climate summit is built on hope for new technology, and little else. 
- <p class="updated_time"> 02:22 AM CT, Oct. 26 </p> 
- [An Italian Politician’s Quest for Attention Gets a Boost From Richard Gere](https://www.nytimes.com/2021/10/25/world/europe/richard-gere-matteo-salvini-immigrant-trial.html) NYT: The actor may testify against Matteo Salvini, Italy’s former interior minister, in a case involving the treatment of migrants. 
  <p class="updated_time"> 10:24 PM CT, Oct. 25 </p> 
  [Sudan’s Military Seizes Power, Casting Democratic Transition Into Chaos](https://www.nytimes.com/2021/10/25/world/africa/sudan-military-coup.html) NYT: Civilian and military leaders were supposed to share power after a popular uprising in 2019 overthrew a decades-long dictatorship. On Monday the military detained the civilian prime minister. 
  <p class="updated_time"> 10:12 PM CT, Oct. 25 </p> 
