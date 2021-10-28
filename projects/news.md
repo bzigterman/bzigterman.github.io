@@ -18,7 +18,7 @@ permalink: /projects/news/
  <p class="updated_time"> 03:09 PM CT, Oct. 28 </p> 
  <a href="https://www.nytimes.com/2021/10/27/world/asia/afghan-girls-school-taliban.html">Taliban Allow Girls to Return to Some High Schools, but With Big Caveats</a> NYT: In some provinces, teenage girls have been allowed to return to secondary schools, though some teachers and parents still have doubts about what this means about Taliban rule. 
  <p class="updated_time"> 02:45 PM CT, Oct. 28 </p> 
- <a href="https://www.bbc.co.uk/news/technology-59083601?at_medium=RSS&at_campaign=KARANGA">Facebook changes its name to Meta in major rebrand</a> BBC: The social media giant says the new name will better encompass what it does. 
+ <a href="https://www.bbc.co.uk/news/technology-59083601?at_medium=RSS&at_campaign=KARANGA">Facebook changes its name to Meta in rebrand</a> BBC: The social media giant says the new name will better encompass what it does. 
  <p class="updated_time"> 02:27 PM CT, Oct. 28 </p> 
  <a href="https://www.nytimes.com/2021/10/28/world/asia/japan-covid-drop.html">Japan's Covid Cases Drop Drastically After Summer Peak</a> NYT: Just a few months ago, the country was recording tens of thousands of cases daily. Now the numbers are in the hundreds each day. 
  <p class="updated_time"> 01:38 PM CT, Oct. 28 </p> 
@@ -192,20 +192,20 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
- <p class="updated_time"> 04:44 PM CT, Oct. 28 </p> 
+ <p class="updated_time"> 04:53 PM CT, Oct. 28 </p> 
  <a href="https://www.nytimes.com/2021/10/28/us/politics/progressives-infrastructure-biden-pelosi-support.html">Progressives Unmoved by Biden Request for Fast Vote on Infrastructure</a> NYT: Their opposition meant that House leaders were unlikely to be able to muster enough votes to pass the bill on Thursday as they had hoped, despite President Biden’s entreaties. 
+ <p class="updated_time"> 04:50 PM CT, Oct. 28 </p> 
+ <a href="https://www.nytimes.com/2021/10/28/us/politics/spending-plan-bill-biden.html">Here's What's in Biden's $1.85 Trillion Spending Plan</a> NYT: White House officials refused to say if all holdout Democrats in Congress had expressed support for the framework. 
  <p class="updated_time"> 04:25 PM CT, Oct. 28 </p> 
  <a href="https://www.nytimes.com/2021/10/28/us/politics/supreme-court-oklahoma-executions.html">Supreme Court Lets Two Oklahoma Executions Proceed</a> NYT: By a 5-to-3 vote, the justices lifted a stay of execution that had been imposed by a federal appeals court in a challenge to the state’s lethal injection protocols. 
  <p class="updated_time"> 04:17 PM CT, Oct. 28 </p> 
  <a href="https://www.nytimes.com/2021/10/27/us/politics/democrats-reconciliation-bill-negotiations.html">Racing the Clock, Democrats Grasp for a Deal on Biden’s Agenda</a> NYT: Democrats struggled to bridge crucial differences over what to include in and how to pay for their social policy and climate plan. 
  <p class="updated_time"> 04:17 PM CT, Oct. 28 </p> 
- <a href="https://www.nytimes.com/2021/10/28/us/politics/biden-tax-increases.html">How Biden’s $2 Trillion in Tax Increases Target Companies and the Rich</a> NYT: The proposal to fund the president’s sprawling spending plan mostly turns up the dial on more conventional tax policies, while trying to curb maneuvers that allow tax avoidance. 
- <p class="updated_time"> 04:16 PM CT, Oct. 28 </p> 
- <a href="https://www.nytimes.com/2021/10/28/us/politics/budget-spending-plan.html">Here's What's in Biden's $1.85 Trillion Spending Plan</a> NYT: White House officials refused to say if all holdout Democrats in Congress had expressed support for the framework. 
+ <a href="https://www.nytimes.com/2021/10/28/us/politics/biden-tax-plan-increases.html">How $2 Trillion in Tax Increases in Biden's Bill Target Companies and the Rich</a> NYT: The proposal to fund the president’s sprawling spending plan mostly turns up the dial on more conventional tax policies, while trying to curb maneuvers that allow tax avoidance. 
  <p class="updated_time"> 04:16 PM CT, Oct. 28 </p> 
  <a href="https://www.nytimes.com/2021/10/28/upshot/biden-taxes-billionaires-millionaires.html">Billionaires Beat the Working Rich in Biden's Spending Bill </a> NYT: One by one, tax proposals that would have slowed dynastic wealth have been tossed from the agreement. 
  <p class="updated_time"> 04:11 PM CT, Oct. 28 </p> 
- <a href="https://www.nytimes.com/2021/10/28/us/politics/immigration-biden-plan.html">An Immigration Overhaul is Part of Biden's Spending Framework</a> NYT: Included in the plan is a proposal to protect millions of undocumented immigrants who are longtime residents of the country from deportation. 
+ <a href="https://www.nytimes.com/2021/10/28/us/politics/biden-immigration.html">An Immigration Overhaul is Part of Biden's Spending Framework</a> NYT: Included in the plan is a proposal to protect millions of undocumented immigrants who are longtime residents of the country from deportation. 
  <p class="updated_time"> 01:21 PM CT, Oct. 28 </p> 
  <a href="https://www.nytimes.com/2021/10/28/business/media/tucker-carlson-geraldo-rivera-fox.html">Geraldo Rivera criticizes his Fox News colleague Tucker Carlson.</a> NYT: “I’m probably going to get in trouble for this,” Mr. Rivera said after taking issue with “false flag” claims in Mr. Carlson’s upcoming three-part series, “Patriot Purge.” 
  <p class="updated_time"> 03:41 PM CT, Oct. 28 </p> 
