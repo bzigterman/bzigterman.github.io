@@ -70,7 +70,8 @@ politics_news_lines
 
 nyt <- tidyfeed("https://rss.nytimes.com/services/xml/rss/nyt/World.xml") %>%
   select(feed_title, item_pub_date,item_title, item_link, item_description) %>%
-  mutate(feed = "NYT")
+  mutate(feed = "NYT") %>%
+  filter(!grepl("briefing",item_link))
 wsj <- tidyfeed("https://feeds.a.dj.com/rss/RSSWorldNews.xml")%>%
   select(feed_title, item_pub_date,item_title, item_link, item_description)%>%
   mutate(feed = "WSJ")
