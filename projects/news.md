@@ -6,6 +6,8 @@ permalink: /projects/news/
 
 ## World News
 
+ <p class="updated_time"> 10:28 AM CT, Oct. 28 </p> 
+ [Saudi Finance Official Is Missing From Conference He Hosts](https://www.nytimes.com/2021/10/28/world/middleeast/saudi-investment-covid.html) NYT: The unexplained absence of Yasir al-Rumayyan, who oversees the kingdom’s sovereign wealth fund, has highlighted concerns about a lack of transparency. 
  <p class="updated_time"> 09:02 AM CT, Oct. 28 </p> 
  [Covid: Moscow shops and restaurants shut in partial lockdown](https://www.bbc.co.uk/news/world-europe-59076152?at_medium=RSS&at_campaign=KARANGA) BBC: Russia closes non-essential services and sends workers home amid record Covid deaths. 
  <p class="updated_time"> 08:37 AM CT, Oct. 28 </p> 
@@ -166,8 +168,6 @@ permalink: /projects/news/
  [Your Tuesday Briefing](https://www.nytimes.com/2021/10/25/briefing/sudan-coup-facebook-crisis.html) NYT: The military seizes power in Sudan. 
  <p class="updated_time"> 07:12 PM CT, Oct. 25 </p> 
  [Climate change: Four things you can do about your carbon footprint](https://www.bbc.co.uk/news/science-environment-58171814?at_medium=RSS&at_campaign=KARANGA) BBC: Small changes to our lifestyles and choices could limit our personal carbon footprint. 
- <p class="updated_time"> 07:08 PM CT, Oct. 25 </p> 
- [Eitan Biran Custody Ruling Issued by Israeli Court](https://www.nytimes.com/2021/10/25/world/middleeast/eitan-biran-israel-court.html) NYT: Eitan Biran, the 6-year-old survivor of a cable car accident in Italy, should live there with his aunt, not his grandfather in Israel, ruled a judge in Tel Aviv. 
  <p class="updated_time"> 06:01 PM CT, Oct. 25 </p> 
  [Climate change: Sir David Attenborough in 'act now' warning](https://www.bbc.co.uk/news/science-environment-59039485?at_medium=RSS&at_campaign=KARANGA) BBC: "If we don't act now, it'll be too late," warns Sir David Attenborough ahead of the COP26 climate summit. 
  <p class="updated_time"> 11:10 AM CT, Oct. 25 </p> 
