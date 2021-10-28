@@ -40,8 +40,8 @@ nyt_politics <- tidyfeed("https://rss.nytimes.com/services/xml/rss/nyt/Politics.
 
 politics_news <- full_join(politico_politics, nyt_politics) %>%
   #full_join(nyt_politics) %>%
-  filter(item_pub_date > past_week) %>%
-  arrange(desc(item_pub_date)) %>%
+  filter(central_time > past_week) %>%
+  arrange(desc(central_time)) %>%
   mutate(item_md_link = paste("[",item_title,"](",item_link,")",
                               sep = "")) %>%
   mutate(item_html_link = paste("<a href=\"",
@@ -80,8 +80,6 @@ bbc <- tidyfeed("http://feeds.bbci.co.uk/news/world/rss.xml")%>%
 
 world_news <- full_join(nyt, wsj) %>%
   full_join(bbc) %>%
-  filter(item_pub_date > past_week) %>%
-  arrange(desc(item_pub_date)) %>%
   mutate(item_md_link = paste("[",item_title,"](",item_link,")",
                               sep = "")) %>%
   mutate(item_html_link = paste("<a href=\"",
@@ -92,6 +90,8 @@ world_news <- full_join(nyt, wsj) %>%
                                        sep = ""))%>%
   mutate(utc_time = force_tz(item_pub_date, tz = "UTC")) %>%
   mutate(central_time = with_tz(utc_time, tz = "America/Chicago")) %>%
+  filter(central_time > past_week) %>%
+  arrange(desc(central_time)) %>%
   mutate(clean_time = strftime(x = central_time, 
                                tz = "US/Central",
                                format = "%I:%M% %p CT, %b. %d"))
