@@ -190,14 +190,16 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:17 PM CT, Oct. 28 </p> 
+ <a href="https://www.nytimes.com/2021/10/27/us/politics/democrats-reconciliation-bill-negotiations.html">Racing the Clock, Democrats Grasp for a Deal on Biden’s Agenda</a> NYT: Democrats struggled to bridge crucial differences over what to include in and how to pay for their social policy and climate plan. 
+ <p class="updated_time"> 04:17 PM CT, Oct. 28 </p> 
+ <a href="https://www.nytimes.com/2021/10/28/us/politics/biden-tax-increases.html">How Biden’s $2 Trillion in Tax Increases Target Companies and the Rich</a> NYT: The proposal to fund the president’s sprawling spending plan mostly turns up the dial on more conventional tax policies, while trying to curb maneuvers that allow tax avoidance. 
+ <p class="updated_time"> 04:16 PM CT, Oct. 28 </p> 
+ <a href="https://www.nytimes.com/2021/10/28/us/politics/budget-spending-plan.html">Here's What's in Biden's $1.85 Trillion Spending Plan</a> NYT: White House officials refused to say if all holdout Democrats in Congress had expressed support for the framework. 
+ <p class="updated_time"> 04:16 PM CT, Oct. 28 </p> 
+ <a href="https://www.nytimes.com/2021/10/28/upshot/biden-taxes-billionaires-millionaires.html">Billionaires Beat the Working Rich in Biden's Spending Bill </a> NYT: One by one, tax proposals that would have slowed dynastic wealth have been tossed from the agreement. 
  <p class="updated_time"> 04:11 PM CT, Oct. 28 </p> 
  <a href="https://www.nytimes.com/2021/10/28/us/politics/immigration-biden-plan.html">An Immigration Overhaul is Part of Biden's Spending Framework</a> NYT: Included in the plan is a proposal to protect millions of undocumented immigrants who are longtime residents of the country from deportation. 
- <p class="updated_time"> 02:54 PM CT, Oct. 28 </p> 
- <a href="https://www.nytimes.com/2021/10/28/upshot/biden-taxes-billionaires-millionaires.html">Billionaires Beat the Working Rich in Biden's Spending Bill </a> NYT: One by one, tax proposals that would have slowed dynastic wealth have been tossed from the agreement. 
- <p class="updated_time"> 02:33 PM CT, Oct. 28 </p> 
- <a href="https://www.nytimes.com/2021/10/28/us/politics/budget-spending-plan.html">Here's What's in Biden's $1.85 Trillion Spending Plan</a> NYT: White House officials refused to say if all holdout Democrats in Congress had expressed support for the framework. 
- <p class="updated_time"> 02:12 PM CT, Oct. 28 </p> 
- <a href="https://www.nytimes.com/2021/10/28/us/politics/biden-tax-increases.html">How Biden’s $2 Trillion in Tax Increases Target Companies and the Rich</a> NYT: The proposal to fund the president’s sprawling spending plan mostly turns up the dial on more conventional tax policies, while trying to curb maneuvers that allow tax avoidance. 
  <p class="updated_time"> 01:21 PM CT, Oct. 28 </p> 
  <a href="https://www.nytimes.com/2021/10/28/business/media/tucker-carlson-geraldo-rivera-fox.html">Geraldo Rivera criticizes his Fox News colleague Tucker Carlson.</a> NYT: “I’m probably going to get in trouble for this,” Mr. Rivera said after taking issue with “false flag” claims in Mr. Carlson’s upcoming three-part series, “Patriot Purge.” 
  <p class="updated_time"> 10:57 AM CT, Oct. 28 </p> 
@@ -224,8 +226,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/10/28/biden-house-democrats-517416">Pelosi works to unstick liberal resistance on Biden agenda</a> Politico: The left is frustrated over pared-back social spending. The speaker wants an infrastructure bill passed as soon as Thursday — but she doesn't have the votes yet. 
  <p class="updated_time"> 12:44 AM CT, Oct. 28 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/10/28/biden-launches-rescue-mission-before-rome-494881">POLITICO Playbook: Biden launches rescue mission before Rome</a> Politico: And Biden prepares for his overseas trip. 
- <p class="updated_time"> 11:39 PM CT, Oct. 27 </p> 
- <a href="https://www.nytimes.com/2021/10/27/us/politics/democrats-reconciliation-bill-negotiations.html">Racing the Clock, Democrats Grasp for a Deal on Biden’s Agenda</a> NYT: Democrats struggled to bridge crucial differences over what to include in and how to pay for their social policy and climate plan. 
  <p class="updated_time"> 10:32 PM CT, Oct. 27 </p> 
  <a href="https://www.nytimes.com/2021/10/27/us/politics/democrats-rush-rewrite-tax-code.html">Democrats Rush to Rewrite U.S. Tax Code in Days</a> NYT: Lawmakers are racing to finalize legislation to pay for new spending initiatives. The process usually takes months, but they are trying to do it in days. 
  <p class="updated_time"> 08:17 PM CT, Oct. 27 </p> 
