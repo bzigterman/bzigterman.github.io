@@ -6,6 +6,8 @@ permalink: /projects/news/
 
 ## World News
 
+ <p class="updated_time"> 10:42 AM CT, Oct. 28 </p> 
+ [Covid passes set to stay as Europe heads for winter](https://www.bbc.co.uk/news/world-europe-58973334?at_medium=RSS&at_campaign=KARANGA) BBC: There have been protests but much of Europe has accepted the QR codes as a means of extending freedoms. 
  <p class="updated_time"> 10:28 AM CT, Oct. 28 </p> 
  [Saudi Finance Official Is Missing From Conference He Hosts](https://www.nytimes.com/2021/10/28/world/middleeast/saudi-investment-covid.html) NYT: The unexplained absence of Yasir al-Rumayyan, who oversees the kingdom’s sovereign wealth fund, has highlighted concerns about a lack of transparency. 
  <p class="updated_time"> 09:02 AM CT, Oct. 28 </p> 
@@ -46,8 +48,6 @@ permalink: /projects/news/
  [Wes Anderson’s Dream of France, and the Paris I Remember](https://www.nytimes.com/2021/10/28/movies/french-dispatch-paris.html) NYT: With “The French Dispatch,” the director’s latest, yet another American artist falls under the country’s spell. The Times’s Paris bureau chief recalls when the same thing happened to him. 
  <p class="updated_time"> 03:36 AM CT, Oct. 28 </p> 
  [Hellishly Hot Tiny Town Offers ‘Free’ Land. Hundreds of Calls Came In.](https://www.nytimes.com/2021/10/27/world/australia/free-land.html) NYT: The town in Australia’s outback, where the temperature can hit 113 degrees Fahrenheit, drew global inquiries when it offered “free” land in a bid to expand its population. 
- <p class="updated_time"> 03:30 AM CT, Oct. 28 </p> 
- [Covid passes set to stay as Europe heads for winter](https://www.bbc.co.uk/news/world-europe-58973334?at_medium=RSS&at_campaign=KARANGA) BBC: There have been protests but much of Europe has accepted the QR codes as a means of extending freedoms. 
  <p class="updated_time"> 03:13 AM CT, Oct. 28 </p> 
  [China limits construction of 'super high-rise buildings'](https://www.bbc.co.uk/news/world-asia-china-59046480?at_medium=RSS&at_campaign=KARANGA) BBC: The decision is being seen as part of a larger bid to crackdown on vanity projects. 
  <p class="updated_time"> 03:03 AM CT, Oct. 28 </p> 
