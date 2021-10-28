@@ -6,6 +6,12 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 06:02 AM CT, Oct. 28 </p> 
+ [Laos makes Southeast Asia's largest ever drug bust](https://www.bbc.co.uk/news/world-asia-59062134?at_medium=RSS&at_campaign=KARANGA) BBC: A truck was carrying 55 million amphethamine tablets and over 1.5 tonnes of crystal methamphetamine. 
+ <p class="updated_time"> 05:52 AM CT, Oct. 28 </p> 
+ [Hundreds of sea turtles wash up dead in Mexico](https://www.bbc.co.uk/news/world-latin-america-59077086?at_medium=RSS&at_campaign=KARANGA) BBC: Scientists think the turtles may have become tangled in abandoned fishing nets and drowned. 
+ <p class="updated_time"> 05:45 AM CT, Oct. 28 </p> 
+ [US issues first gender-neutral 'X' passport](https://www.bbc.co.uk/news/world-us-canada-59076614?at_medium=RSS&at_campaign=KARANGA) BBC: The document has an "X" in the gender box, to show the holder does not identify as male or female. 
  <p class="updated_time"> 05:27 AM CT, Oct. 28 </p> 
  [Rémy Daillet: Conspiracist charged over alleged French coup plot](https://www.bbc.co.uk/news/world-europe-59075902?at_medium=RSS&at_campaign=KARANGA) BBC: Rémy Daillet is accused of forming an extremist group to plan attacks against the French state. 
  <p class="updated_time"> 05:27 AM CT, Oct. 28 </p> 
@@ -44,12 +50,6 @@ permalink: /charts/news/
  [Sitting Bull: DNA confirms great-grandson's identity](https://www.bbc.co.uk/news/world-us-canada-59062133?at_medium=RSS&at_campaign=KARANGA) BBC: A sample of the Native American leader's hair confirms the identity of his great-grandson. 
  <p class="updated_time"> 01:00 AM CT, Oct. 28 </p> 
  [Intelligence Agencies Failed to Predict Rapid Fall of Kabul](https://www.wsj.com/articles/four-u-s-intelligence-agencies-produced-extensive-reports-on-afghanistan-but-all-failed-to-predict-kabuls-rapid-collapse-11635415201) WSJ: Agencies offered scattershot assessments of the staying power of the Afghan military and government, a review of wide-ranging summaries of classified material by The Wall Street Journal shows. 
- <p class="updated_time"> 12:34 AM CT, Oct. 28 </p> 
- [ICC T20 World Cup: India arrests Muslims for cheering Pakistan cricket team](https://www.bbc.co.uk/news/world-asia-india-59059494?at_medium=RSS&at_campaign=KARANGA) BBC: Several people have been arrested for supporting Pakistan during Sunday's T20 World Cup cricket game. 
- <p class="updated_time"> 12:29 AM CT, Oct. 28 </p> 
- [Alec Baldwin shooting: Criminal charges may be filed, prosecutor says](https://www.bbc.co.uk/news/world-us-canada-59068976?at_medium=RSS&at_campaign=KARANGA) BBC: A US prosecutor says "all options are on the table" over the shooting involving actor Alec Baldwin. 
- <p class="updated_time"> 12:24 AM CT, Oct. 28 </p> 
- [China rations diesel amid fuel shortages](https://www.bbc.co.uk/news/business-59059093?at_medium=RSS&at_campaign=KARANGA) BBC: It is likely to contribute to the global supply chain crisis and inflation, analysts told the BBC. 
  <p class="updated_time"> 11:01 PM CT, Oct. 27 </p> 
  [Your Thursday Briefing](https://www.nytimes.com/2021/10/27/briefing/merck-covid-pill-japan-elections.html) NYT: A Covid pill could help hundreds of countries. 
  <p class="updated_time"> 11:00 PM CT, Oct. 27 </p> 
@@ -60,8 +60,6 @@ permalink: /charts/news/
  [Your Thursday Briefing](https://www.nytimes.com/2021/10/27/briefing/merck-pill-china-hypersonic-missile.html) NYT: More access to a Covid-19 antiviral pill. 
  <p class="updated_time"> 09:24 PM CT, Oct. 27 </p> 
  [Covid Cases Keep Falling](https://www.nytimes.com/2021/10/26/briefing/covid-cases-falling-delta.html) NYT: Covid cases have been falling in every region of the U.S., offering hope. 
- <p class="updated_time"> 07:39 PM CT, Oct. 27 </p> 
- [Chinese missile launch very concerning, says top US general](https://www.bbc.co.uk/news/world-us-canada-59072616?at_medium=RSS&at_campaign=KARANGA) BBC: Gen Milley's comments were the first US acknowledgment of claims China tested a hypersonic missile. 
  <p class="updated_time"> 07:29 PM CT, Oct. 27 </p> 
  ['You have to prove your faith when you're dating as a black Muslim'](https://www.bbc.co.uk/news/newsbeat-59010749?at_medium=RSS&at_campaign=KARANGA) BBC: Radio 1 Newsbeat speaks to black Muslims about their experiences in the dating world and society. 
  <p class="updated_time"> 07:24 PM CT, Oct. 27 </p> 
