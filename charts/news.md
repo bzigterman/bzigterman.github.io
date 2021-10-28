@@ -6,6 +6,8 @@ permalink: /charts/news/
 
 ## World News
 
+ <p class="updated_time"> 12:29 AM CT, Oct. 28 </p> 
+ [Alec Baldwin shooting: Criminal charges may be filed, prosecutor says](https://www.bbc.co.uk/news/world-us-canada-59068976?at_medium=RSS&at_campaign=KARANGA) BBC: A US prosecutor says "all options are on the table" over the shooting involving actor Alec Baldwin. 
  <p class="updated_time"> 12:12 AM CT, Oct. 28 </p> 
  [Fishing rights row: French threats disappointing, says Frost](https://www.bbc.co.uk/news/uk-59069951?at_medium=RSS&at_campaign=KARANGA) BBC: The Brexit minister seeks "urgent clarification" after France says it will block ports to UK boats. 
  <p class="updated_time"> 11:10 PM CT, Oct. 27 </p> 
@@ -30,8 +32,6 @@ permalink: /charts/news/
  [Chinese missile launch very concerning, says top US general](https://www.bbc.co.uk/news/world-us-canada-59072616?at_medium=RSS&at_campaign=KARANGA) BBC: Gen Milley's comments were the first US acknowledgment of claims China tested a hypersonic missile. 
  <p class="updated_time"> 07:34 PM CT, Oct. 27 </p> 
  [Hellishly Hot Tiny Town Offers ‘Free’ Land. Hundreds of Calls Came In.](https://www.nytimes.com/2021/10/27/world/australia/free-land.html) NYT: The town in Australia’s outback, where the temperature can hit 113 degrees Fahrenheit, drew global inquiries when it offered “free” land in a bid to expand its population. 
- <p class="updated_time"> 07:30 PM CT, Oct. 27 </p> 
- [Alec Baldwin shooting: Criminal charges may be filed, prosecutor says](https://www.bbc.co.uk/news/world-us-canada-59068976?at_medium=RSS&at_campaign=KARANGA) BBC: A US prosecutor says "all options are on the table" over the shooting involving actor Alec Baldwin. 
  <p class="updated_time"> 07:29 PM CT, Oct. 27 </p> 
  ['You have to prove your faith when you're dating as a black Muslim'](https://www.bbc.co.uk/news/newsbeat-59010749?at_medium=RSS&at_campaign=KARANGA) BBC: Radio 1 Newsbeat speaks to black Muslims about their experiences in the dating world and society. 
  <p class="updated_time"> 07:24 PM CT, Oct. 27 </p> 
