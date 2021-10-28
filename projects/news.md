@@ -7,18 +7,16 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:40 PM CT, Oct. 28 </p> 
+ <a href="https://www.nytimes.com/2021/10/28/nyregion/new-york-vaccine-mandate-police-fire.html">New York Braces for Staffing Shortages as Vaccine Deadline Nears</a> NYT: Thousands of workers in the city’s uniformed services are not yet in compliance with a vaccine mandate for city workers that takes effect Monday. 
  <p class="updated_time"> 06:30 PM CT, Oct. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59083395?at_medium=RSS&at_campaign=KARANGA">Climate change: Major US oil companies face grilling by Congress</a> BBC: Democrats in Congress accuse major oil companies of misleading the public for decades - a claim they deny. 
- <p class="updated_time"> 06:16 PM CT, Oct. 28 </p> 
- <a href="https://www.nytimes.com/2021/10/28/nyregion/new-york-vaccine-mandate-police-fire.html">New York Braces for Staffing Shortages as Vaccine Deadline Nears</a> NYT: Thousands of workers in the city’s uniformed services are not yet in compliance with a vaccine mandate for city workers that takes effect Monday. 
  <p class="updated_time"> 06:02 PM CT, Oct. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59073986?at_medium=RSS&at_campaign=KARANGA">Japan election: Why the ruling party keeps winning</a> BBC: As Sunday's polls approach, we look at why it is so difficult to defeat the ruling party. 
  <p class="updated_time"> 05:26 PM CT, Oct. 28 </p> 
  <a href="https://www.nytimes.com/2021/10/28/world/europe/france-detains-british-boat.html">France Detains British Boat as a Fight Over Fishing Rights Escalates</a> NYT: The British government summoned France’s ambassador for talks over the incident, the latest sign of cross-Channel tension between the two countries. 
  <p class="updated_time"> 04:25 PM CT, Oct. 28 </p> 
  <a href="https://www.nytimes.com/2021/10/28/world/meatpacking-workers-covid-cases-deaths.html">Covid Hit U.S. Meat Plants Far Harder Than Thought, Report Says</a> NYT: The industry had three times as many Covid infections in the pandemic’s early months as previously believed, a select committee says. 
- <p class="updated_time"> 04:01 PM CT, Oct. 28 </p> 
- <a href="https://www.nytimes.com/2021/10/28/briefing/covid-zero-china-coal-cop-26.html">Your Friday Briefing</a> NYT: China sticks to a ‘zero-Covid’ strategy. 
  <p class="updated_time"> 03:16 PM CT, Oct. 28 </p> 
  <a href="https://www.nytimes.com/2021/10/28/world/asia/japan-election-rural-urban.html">In Japan Elections, Rural Voters Count More Than Those in Big Cities</a> NYT: The disproportionate weight of rural voters in Japan gives sparsely populated parts of the country more representation — and more government largess — than urban areas, perpetuating what critics call an unfair system. 
  <p class="updated_time"> 03:09 PM CT, Oct. 28 </p> 
@@ -71,8 +69,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-latin-america-59077086?at_medium=RSS&at_campaign=KARANGA">Hundreds of sea turtles wash up dead in Mexico</a> BBC: Scientists think the turtles may have become tangled in abandoned fishing nets and drowned. 
  <p class="updated_time"> 05:26 AM CT, Oct. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59075793?at_medium=RSS&at_campaign=KARANGA">British fishing trawler detained by French authorities</a> BBC: Two British ships caught up in post-Brexit fishing rights row in French waters. 
- <p class="updated_time"> 05:16 AM CT, Oct. 28 </p> 
- <a href="https://www.nytimes.com/2021/10/28/briefing/wealth-tax-spending-bill-manchin.html">A Wealth Tax</a> NYT: What are the pluses and minuses? 
  <p class="updated_time"> 05:12 AM CT, Oct. 28 </p> 
  <a href="https://www.nytimes.com/2021/10/27/world/middleeast/israel-settlements-west-bank.html">Israel Advances Plan for New Settlement Homes, in First for Bennett Era</a> NYT: Approved despite the objections of the United States, critics say the new building will consolidate Israel’s presence in the West Bank and make it harder to create a Palestinian state. 
  <p class="updated_time"> 04:46 AM CT, Oct. 28 </p> 
@@ -91,16 +87,10 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59062133?at_medium=RSS&at_campaign=KARANGA">Sitting Bull: DNA confirms great-grandson's identity</a> BBC: A sample of the Native American leader's hair confirms the identity of his great-grandson. 
  <p class="updated_time"> 01:00 AM CT, Oct. 28 </p> 
  <a href="https://www.wsj.com/articles/four-u-s-intelligence-agencies-produced-extensive-reports-on-afghanistan-but-all-failed-to-predict-kabuls-rapid-collapse-11635415201">Intelligence Agencies Failed to Predict Rapid Fall of Kabul</a> WSJ: Agencies offered scattershot assessments of the staying power of the Afghan military and government, a review of wide-ranging summaries of classified material by The Wall Street Journal shows. 
- <p class="updated_time"> 11:01 PM CT, Oct. 27 </p> 
- <a href="https://www.nytimes.com/2021/10/27/briefing/merck-covid-pill-japan-elections.html">Your Thursday Briefing</a> NYT: A Covid pill could help hundreds of countries. 
  <p class="updated_time"> 11:00 PM CT, Oct. 27 </p> 
  <a href="https://www.nytimes.com/2021/10/26/world/asia/covid-china-lanzhou-lockdown.html">China Locks Down City of 4 Million to Subdue Covid Outbreak</a> NYT: Lanzhou, with about four million people, reported six new coronavirus cases on Tuesday, and a total of 39 over the past week. 
  <p class="updated_time"> 10:43 PM CT, Oct. 27 </p> 
  <a href="https://www.nytimes.com/2021/10/27/world/americas/haiti-gangs-fuel-shortage.html">Gangs Rule Much of Haiti. For Many, It Means No Fuel, No Power, No Food.</a> NYT: A country in crisis is facing a severe fuel shortage that is pushing it to the brink of collapse. 
- <p class="updated_time"> 10:07 PM CT, Oct. 27 </p> 
- <a href="https://www.nytimes.com/2021/10/27/briefing/merck-pill-china-hypersonic-missile.html">Your Thursday Briefing</a> NYT: More access to a Covid-19 antiviral pill. 
- <p class="updated_time"> 09:24 PM CT, Oct. 27 </p> 
- <a href="https://www.nytimes.com/2021/10/26/briefing/covid-cases-falling-delta.html">Covid Cases Keep Falling</a> NYT: Covid cases have been falling in every region of the U.S., offering hope. 
  <p class="updated_time"> 07:29 PM CT, Oct. 27 </p> 
  <a href="https://www.bbc.co.uk/news/newsbeat-59010749?at_medium=RSS&at_campaign=KARANGA">'You have to prove your faith when you're dating as a black Muslim'</a> BBC: Radio 1 Newsbeat speaks to black Muslims about their experiences in the dating world and society. 
  <p class="updated_time"> 07:24 PM CT, Oct. 27 </p> 
@@ -133,18 +123,12 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/27/arts/design/petrit-halilaj-tate-kosovo-war.html">Wonders, and Horrors, Drawn From Boyhood in a War Zone</a> NYT: Petrit Halilaj became one of Kosovo’s most acclaimed artists with work that reflects on his country’s past. Now, he’s getting personal. 
  <p class="updated_time"> 10:22 AM CT, Oct. 27 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59068417?at_medium=RSS&at_campaign=KARANGA">Footballer Josh Cavallo on coming out as gay: 'It's my freedom day'</a> BBC: Josh Cavallo has come out as gay - the only current top level male professional footballer to do so. 
- <p class="updated_time"> 05:30 AM CT, Oct. 27 </p> 
- <a href="https://www.nytimes.com/2021/10/27/briefing/abortion-texas-roe-v-wade.html">The Mushy Middle</a> NYT: We look at public opinion about abortion in Texas. 
  <p class="updated_time"> 04:00 AM CT, Oct. 27 </p> 
  <a href="https://www.nytimes.com/2021/10/27/books/abdulrazak-gurnah-nobel-prize-literature-afterlives.html">He Won the Nobel. Why Are His Books So Hard to Find?</a> NYT: After Abdulrazak Gurnah was awarded this year’s Nobel Prize in Literature, he instantly gained a wider international audience, something publishers are now scrambling to accommodate. 
  <p class="updated_time"> 04:00 AM CT, Oct. 27 </p> 
  <a href="https://www.nytimes.com/2021/10/27/business/cbd-japan-cannabis-marijuana.html">Japan Stays Tough on Marijuana as Other Nations Loosen Up</a> NYT: Some Japanese who have gone abroad and been exposed to the benefits of cannabis derivatives, particularly CBD, are hoping Japan will change course. But the government shows little inclination. 
  <p class="updated_time"> 04:00 AM CT, Oct. 27 </p> 
  <a href="https://www.nytimes.com/2021/10/27/us/politics/global-minimum-tax-deal.html">Pastries and Persuasion: How a Global Tax Deal Got Done</a> NYT: Over Zoom calls from basements and a breakfast in Brussels, faltering negotiations to remake the world’s tax architecture were revived. 
- <p class="updated_time"> 12:51 AM CT, Oct. 27 </p> 
- <a href="https://www.nytimes.com/2021/10/26/briefing/climate-glasgow-un-myanmar-pakistan-cricket.html">Your Wednesday Briefing</a> NYT: ‘Imminent peril’ from global warming. 
- <p class="updated_time"> 11:04 PM CT, Oct. 26 </p> 
- <a href="https://www.nytimes.com/2021/10/27/briefing/climate-change-children-vaccines.html">Your Wednesday Briefing</a> NYT: Emissions plans fall short. 
  <p class="updated_time"> 10:08 PM CT, Oct. 26 </p> 
  <a href="https://www.nytimes.com/2021/10/26/world/africa/sudan-coup-protests.html">Sudan’s Prime Minister Was Detained at Home of General Who Led Coup</a> NYT: Protesters demanding civilian rule flooded the streets of major cities a day after a military takeover. Many offices and businesses shut, answering a call for civil disobediences. 
  <p class="updated_time"> 10:08 PM CT, Oct. 26 </p> 
@@ -192,6 +176,10 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:45 PM CT, Oct. 28 </p> 
+ <a href="https://www.politico.com/news/2021/10/28/iowa-new-congressional-map-517485">Iowa approves new congressional map with 3 competitive districts</a> Politico: Former President Donald Trump narrowly carried each of the three swing seats under the new lines. 
+ <p class="updated_time"> 06:44 PM CT, Oct. 28 </p> 
+ <a href="https://www.nytimes.com/2021/10/28/us/politics/biden-democrats-spending-bill.html">Biden Implores Democrats to Support Transformative Agenda</a> NYT: “The House and Senate majorities and my presidency will be determined by what happens in the next week,” President Biden told lawmakers on Thursday. 
  <p class="updated_time"> 06:32 PM CT, Oct. 28 </p> 
  <a href="https://www.nytimes.com/2021/10/28/climate/climate-change-framework-bill.html">Climate Change Became the Central Part of Biden Spending Bill</a> NYT: As paid family leave and other priorities were taken out of the president’s plan, the largest piece became a $555 billion plan to fight climate change. 
  <p class="updated_time"> 06:31 PM CT, Oct. 28 </p> 
@@ -240,8 +228,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/10/27/democrats-immigration-gambit-loses-steam-517352">Dems' last-ditch immigration gambit loses steam</a> Politico: Even if President Joe Biden can get fellow Democrats to add reform provisions to a broad social spending deal, the Senate parliamentarian can squash them. 
  <p class="updated_time"> 03:40 PM CT, Oct. 27 </p> 
  <a href="https://www.nytimes.com/2021/10/27/us/politics/budget-bill-republicans.html">Shut Out on Budget Bill, Republicans Take Shots From the Sidelines</a> NYT: The party is stepping up its attacks on the safety net measure that Democrats are shaping entirely on their own. 
- <p class="updated_time"> 02:03 PM CT, Oct. 27 </p> 
- <a href="https://www.nytimes.com/2021/10/27/us/politics/election-day-2021-voting-guide.html">Where Do I Vote? We Answer This and Other Election Day 2021 Questions</a> NYT: Local and statewide elections are being held around the country on Tuesday. Here are some of the Election Day basics. 
  <p class="updated_time"> 11:33 AM CT, Oct. 27 </p> 
  <a href="https://www.politico.com/news/2021/10/27/mark-warner-havana-syndrome-intel-517331">Warner calls lack of Havana Syndrome intel ‘very, very problematic’</a> Politico: But the Senate Intelligence Committee chair insisted lawmakers are “absolutely on top of this.” 
  <p class="updated_time"> 10:25 AM CT, Oct. 27 </p> 
@@ -262,8 +248,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/10/25/jan-6-investigators-steve-bannon-associate-517087">Jan. 6 investigators privately question Bannon associate</a> Politico: The panel investigating the Capitol attack brought in a conservative activist linked to Steve Bannon's We Build The Wall effort. 
  <p class="updated_time"> 01:19 PM CT, Oct. 25 </p> 
  <a href="https://www.politico.com/news/2021/10/25/manchin-closes-in-on-deal-with-white-house-517069">Fellow Dems lobby Manchin as he gets closer to 'yes'</a> Politico: But he's still insistent on a $1.5 trillion top line for social spending, while party leaders want a bill closer to $2 trillion. 
- <p class="updated_time"> 04:31 AM CT, Oct. 25 </p> 
- <a href="https://www.politico.com/news/2021/10/25/whats-still-in-the-dem-megabill-cheat-sheet-on-12-big-topics-516844">What's still in the Dem megabill? Cheat sheet on 12 big topics</a> Politico: The child tax credit, free community college, health care provisions and more all look drastically different from what Democrats first envisioned. 
 
 
 </details>
