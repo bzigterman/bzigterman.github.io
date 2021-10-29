@@ -4,7 +4,7 @@ title: Baseball Standings
 permalink: /projects/baseball/
 ---
 
-<p class="updated_time"> Latest data: 12:42 PM CT, October 18</p> 
+<p class="updated_time"> Latest data: 09:19 PM CT, October 28</p> 
 
 ### Games Above .500
 
