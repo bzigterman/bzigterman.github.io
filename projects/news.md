@@ -7,12 +7,18 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:14 PM CT, Oct. 29 </p> 
+ <a href="https://www.nytimes.com/2021/10/29/world/nyc-vaccine-mandate-resistance.html">Tensions Rise with Next Phase of NYCs Vaccine Mandate</a> NYT: Vaccinations in the Police Department rose by at least 5 percent over the last week, but to a lesser extent in the Fire and Sanitation Departments. 
+ <p class="updated_time"> 06:12 PM CT, Oct. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59098305?at_medium=RSS&at_campaign=KARANGA">Canada challenges compensation order for indigenous children</a> BBC: The Trudeau government opposes the court order to pay C$40,000 to each residential school survivor. 
+ <p class="updated_time"> 06:04 PM CT, Oct. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/in-pictures-59077933?at_medium=RSS&at_campaign=KARANGA">Week in pictures: 23 - 29 October 2021</a> BBC: A selection of powerful images from all over the globe, taken this week. 
  <p class="updated_time"> 06:03 PM CT, Oct. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59090127?at_medium=RSS&at_campaign=KARANGA">The viral basketball star changing views on Muslim women in sport</a> BBC: Viral basketball sensation Jamad Fiin's videos have racked up millions of views online. 
  <p class="updated_time"> 06:03 PM CT, Oct. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59076452?at_medium=RSS&at_campaign=KARANGA">COP26: African climate activists' message to world leaders</a> BBC: Young climate activists from Africa share their message to world leaders at COP26. 
  <p class="updated_time"> 06:01 PM CT, Oct. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59098425?at_medium=RSS&at_campaign=KARANGA">La Palma: Learning to live with lava</a> BBC: Residents on the Spanish island share how Cumbre Vieja's eruption has changed their lives. 
+ <a href="https://www.bbc.co.uk/news/world-europe-59098425?at_medium=RSS&at_campaign=KARANGA">La Palma: Living with lava</a> BBC: Residents on the Spanish island share how Cumbre Vieja's eruption has changed their lives. 
  <p class="updated_time"> 05:50 PM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/world/europe/biden-eases-fray-with-france-and-savors-meeting-with-pope-as-europe-trip-begins.html">Biden Eases Fray with France and Savors Meeting with Pope as Europe Trip Begins</a> NYT: Mr. Biden sought to mend ties with France’s president over a sabotaged French submarine contract, and expressed gratitude toward Pope Francis after a 90-minute meeting. 
  <p class="updated_time"> 05:11 PM CT, Oct. 29 </p> 
@@ -65,8 +71,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59096297?at_medium=RSS&at_campaign=KARANGA">La Palma: 'Lava bomb' speeds down Cumbre Vieja volcano</a> BBC: Watch a ball of solidified molten rock rolling down from the Cumbre Vieja volcano. 
  <p class="updated_time"> 11:15 AM CT, Oct. 29 </p> 
  <a href="https://www.wsj.com/articles/china-gives-itself-wiggle-room-on-climate-change-goals-11635538164">China Adds Wiggle Room on Climate Change</a> WSJ: China’s plans for reducing its greenhouse-gas emissions—including recent revisions made amid a power crisis—have disappointed climate advocates who had hoped for an ambitious road map from Beijing. 
- <p class="updated_time"> 11:11 AM CT, Oct. 29 </p> 
- <a href="https://www.bbc.co.uk/news/uk-politics-59090943?at_medium=RSS&at_campaign=KARANGA">Greta Thunberg: Activist calls on banks to stop funding climate 'destruction'</a> BBC: The Swedish campaigner is in the UK to take part in protests ahead of next week's COP26 conference. 
  <p class="updated_time"> 10:55 AM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/world/europe/appeal-julian-assange-extradition.html">British Court Hears Appeal in Julian Assange Extradition Case</a> NYT: The outcome is not expected to be known for weeks, but the hearing was the latest step in a continuing attempt to extradite the WikiLeaks founder to the U.S. to face espionage charges. 
  <p class="updated_time"> 10:54 AM CT, Oct. 29 </p> 
@@ -149,8 +153,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59073986?at_medium=RSS&at_campaign=KARANGA">Japan election: How the elderly keep the ruling party in power</a> BBC: As Sunday's polls approach, we look at why it is so difficult to defeat the ruling party. 
  <p class="updated_time"> 04:25 PM CT, Oct. 28 </p> 
  <a href="https://www.nytimes.com/2021/10/28/world/meatpacking-workers-covid-cases-deaths.html">Covid Hit U.S. Meat Plants Far Harder Than Thought, Report Says</a> NYT: The industry had three times as many Covid infections in the pandemic’s early months as previously believed, a select committee says. 
- <p class="updated_time"> 03:09 PM CT, Oct. 28 </p> 
- <a href="https://www.nytimes.com/2021/10/27/world/asia/afghan-girls-school-taliban.html">Taliban Allow Girls to Return to Some High Schools, but With Big Caveats</a> NYT: In some provinces, teenage girls have been allowed to return to secondary schools, though some teachers and parents still have doubts about what this means about Taliban rule. 
  <p class="updated_time"> 02:27 PM CT, Oct. 28 </p> 
  <a href="https://www.nytimes.com/2021/10/28/world/asia/japan-covid-drop.html">Japan's Covid Cases Drop Drastically After Summer Peak</a> NYT: Just a few months ago, the country was recording tens of thousands of cases daily. Now the numbers are in the hundreds each day. 
  <p class="updated_time"> 01:38 PM CT, Oct. 28 </p> 
@@ -211,7 +213,7 @@ permalink: /projects/news/
  <p class="updated_time"> 05:30 PM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/us/politics/coronavirus-origin-intelligence-report.html">Origin of Virus May Remain Murky, U.S. Intelligence Agencies Say</a> NYT: A declassified report said a clearer answer would require more information from Beijing or new discoveries and reiterated divisions over natural causes vs. a lab leak. 
  <p class="updated_time"> 05:30 PM CT, Oct. 29 </p> 
- <a href="https://www.politico.com/news/2021/10/29/you-have-a-manchin-problem-paid-leave-tossed-aside-despite-wooing-of-wva-senator-517731">'You have a Manchin problem.' Paid leave tossed aside despite wooing of W.Va. senator</a> Politico: "We kept hearing, 'You have a Manchin problem,'" Molly Day, executive director of Paid Leave for the U.S., said. "So we kept digging in." 
+ <a href="https://www.politico.com/news/2021/10/29/you-have-a-manchin-problem-paid-leave-tossed-aside-despite-wooing-of-wva-senator-517731">Manchin upends paid leave, a benefit ‘personal to the president’</a> Politico: "We kept hearing, 'You have a Manchin problem,'" Molly Day, executive director of Paid Leave for the U.S., said. "So we kept digging in." 
  <p class="updated_time"> 05:02 PM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/us/politics/covid-vaccine-children.html">FDA Clears Pfizer Coronavirus Vaccine for Young Children</a> NYT: The shot could bring relief to parents anxious about their children getting sick, though some experts worry that those most at risk may slip through the cracks. 
  <p class="updated_time"> 04:49 PM CT, Oct. 29 </p> 
