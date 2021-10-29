@@ -32,7 +32,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:08 PM CT, Oct. 28 </p> 
  <a href="https://www.bbc.co.uk/news/business-58815695?at_medium=RSS&at_campaign=KARANGA">Why the vending machine is making a comeback</a> BBC: From milkshakes to pizzas, new vending machines are selling an expanding range of products. 
  <p class="updated_time"> 06:02 PM CT, Oct. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59073986?at_medium=RSS&at_campaign=KARANGA">Japan election: Why the ruling party keeps winning</a> BBC: As Sunday's polls approach, we look at why it is so difficult to defeat the ruling party. 
+ <a href="https://www.bbc.co.uk/news/world-asia-59073986?at_medium=RSS&at_campaign=KARANGA">Japan election: How the elderly keep the ruling party in power</a> BBC: As Sunday's polls approach, we look at why it is so difficult to defeat the ruling party. 
  <p class="updated_time"> 05:26 PM CT, Oct. 28 </p> 
  <a href="https://www.nytimes.com/2021/10/28/world/europe/france-detains-british-boat.html">France Detains British Boat as a Fight Over Fishing Rights Escalates</a> NYT: The British government summoned France’s ambassador for talks over the incident, the latest sign of cross-Channel tension between the two countries. 
  <p class="updated_time"> 04:25 PM CT, Oct. 28 </p> 
@@ -180,6 +180,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:52 PM CT, Oct. 28 </p> 
+ <a href="https://www.nytimes.com/2021/10/28/us/politics/supreme-court-oklahoma-executions.html">After Supreme Court Lifts Stay, Oklahoma Executes Inmate</a> NYT: The inmate, John Marion Grant, convulsed and vomited as he was put to death. The court also cleared the way for another execution next month. 
  <p class="updated_time"> 09:05 PM CT, Oct. 28 </p> 
  <a href="https://www.nytimes.com/2021/10/28/us/politics/biden-immigration.html">An Immigration Overhaul is Part of Biden's Spending Framework</a> NYT: Included in the plan is a proposal to protect millions of undocumented immigrants who are longtime residents of the country from deportation. 
  <p class="updated_time"> 09:05 PM CT, Oct. 28 </p> 
@@ -208,8 +210,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/28/us/politics/elections-november.html">Will We See Red or Blue Mirages in Election Results on Tuesday?</a> NYT: Mail-in ballots skewed early returns in some states in 2020. Will the trend repeat itself on Tuesday? 
  <p class="updated_time"> 05:18 PM CT, Oct. 28 </p> 
  <a href="https://www.nytimes.com/2021/10/27/us/politics/supreme-court-texas-abortion.html">Briefs Draw Battle Lines as Texas Abortion Law Nears Supreme Court</a> NYT: The justices, who will hear arguments on Monday in two cases challenging the state’s near-total ban, required the parties to file their briefs with extraordinary speed. 
- <p class="updated_time"> 05:16 PM CT, Oct. 28 </p> 
- <a href="https://www.nytimes.com/2021/10/28/us/politics/supreme-court-oklahoma-executions.html">Supreme Court Lets Two Oklahoma Executions Proceed</a> NYT: By a 5-to-3 vote, the justices lifted a stay of execution that had been imposed by a federal appeals court in a challenge to the state’s lethal injection protocols. 
  <p class="updated_time"> 04:58 PM CT, Oct. 28 </p> 
  <a href="https://www.politico.com/news/2021/10/28/budget-deal-democrats-biden-framework-517469">Your guide to the huge Dem deal: 14 new policies and what could stop them</a> Politico: Democrats revealed a framework for a $1.75 trillion spending deal, but areas such as health care, child care and climate change are missing major party priorities. 
  <p class="updated_time"> 02:41 PM CT, Oct. 28 </p> 
