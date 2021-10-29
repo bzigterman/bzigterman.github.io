@@ -7,10 +7,16 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:06 AM CT, Oct. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59089381?at_medium=RSS&at_campaign=KARANGA">Kemerovo fire: Jail terms for bosses over Russian mall disaster</a> BBC: A leisure centre blaze in 2018 killed 60 people, most of them children, in a Siberian city. 
+ <p class="updated_time"> 04:51 AM CT, Oct. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-57483492?at_medium=RSS&at_campaign=KARANGA">Why China's climate policy matters to us all</a> BBC: The global battle against climate change is likely to be won or lost in China. 
  <p class="updated_time"> 04:34 AM CT, Oct. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59085806?at_medium=RSS&at_campaign=KARANGA">Biden lands in Europe ahead of COP26 climate summit</a> BBC: The US president arrives but his signature climate proposals are yet to pass through Congress. 
  <p class="updated_time"> 04:22 AM CT, Oct. 29 </p> 
  <a href="https://www.bbc.co.uk/news/business-59059097?at_medium=RSS&at_campaign=KARANGA">Squid Game cryptocurrency rockets in first few days of trading</a> BBC: The popular Netflix show has now spawned a cryptocurrency - and it's soaring. 
+ <p class="updated_time"> 04:20 AM CT, Oct. 29 </p> 
+ <a href="https://www.nytimes.com/2021/10/29/world/the-popes-us-visit-in-2015-was-a-powerful-moment-for-biden.html">The pope’s U.S. visit in 2015 was a powerful moment for Biden.</a> NYT: NA 
  <p class="updated_time"> 04:00 AM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/world/europe/roma-hip-hop-band-serbia-pretty-loud.html">‘Different Way of Fighting’: Lyrics Are the Weapons of All-Women Roma Band</a> NYT: Many Roma women face pressures to marry young and take on traditional gender roles. Pretty Loud, a hip-hop group from Serbia, wants girls to decide for themselves. 
  <p class="updated_time"> 03:06 AM CT, Oct. 29 </p> 
@@ -23,6 +29,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/29/us/politics/biden-summit.html">‘America Is Back,’ Biden Declared in June. The World Is About to Test Him.</a> NYT: Arriving in Europe with an unfinished economic and environmental spending plan, the president will confront new challenges, some self-inflicted, at two major summits. 
  <p class="updated_time"> 01:50 AM CT, Oct. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59075041?at_medium=RSS&at_campaign=KARANGA">Pope urges 'radical' climate response in exclusive BBC message</a> BBC: In an exclusive message recorded for the BBC, Pope Francis addresses world leaders ahead of COP26. 
+ <p class="updated_time"> 01:21 AM CT, Oct. 29 </p> 
+ <a href="https://www.wsj.com/articles/biden-pope-francis-meet-amid-controversy-over-abortion-11635502337">Biden, Pope Francis Meet Amid Controversy Over Abortion</a> WSJ: The meeting is expected to focus on climate change but has been overshadowed by controversy among church leaders over President Biden’s support for abortion rights. 
  <p class="updated_time"> 01:17 AM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/world/australia/saying-goodbye-to-melbournes-long-lockdown-again.html">Saying Goodbye to Melbourne’s Long Lockdown (Again)</a> NYT: It’s been a year and a day since the first time Melbourne reopened. Some things have changed. Some haven’t. 
  <p class="updated_time"> 01:01 AM CT, Oct. 29 </p> 
@@ -31,18 +39,20 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/science-environment-59053809?at_medium=RSS&at_campaign=KARANGA">Arnold Schwarzenegger calls leaders 'liars' over climate</a> BBC: The actor and former governor of California speaks to BBC radio 4 ahead of the COP26 climate summit. 
  <p class="updated_time"> 11:31 PM CT, Oct. 28 </p> 
  <a href="https://www.nytimes.com/2021/10/28/world/asia/japan-election-rural-urban.html">In Japan Elections, Rural Voters Count More Than Those in Big Cities</a> NYT: The disproportionate weight of rural voters in Japan gives sparsely populated parts of the country more representation — and more government largess — than urban areas, perpetuating what critics call an unfair system. 
+ <p class="updated_time"> 11:16 PM CT, Oct. 28 </p> 
+ <a href="https://www.wsj.com/articles/myanmar-unrest-may-be-driving-regional-meth-surge-u-n-drug-agency-says-11635495405">Myanmar Unrest May Be Driving Regional Meth Surge, U.N. Drug Agency Says</a> WSJ: Authorities in Laos seized a record haul of methamphetamine, prompting concern that the military coup in neighboring Myanmar boosted the region’s drug trade 
  <p class="updated_time"> 11:15 PM CT, Oct. 28 </p> 
  <a href="https://www.nytimes.com/2021/10/29/world/australia/nuclear-powered-submarines.html">Nuclear-Powered Submarines for Australia? Maybe Not So Fast.</a> NYT: Australia’s plan to build the submarines with U.S. and British help faces big hurdles. Supporters say they can be overcome. Critics say they may be too much. 
  <p class="updated_time"> 10:45 PM CT, Oct. 28 </p> 
  <a href="https://www.nytimes.com/2021/10/28/world/europe/brescia-italy-winged-victory.html">After Time of ‘Real Terror,’ City’s Resilience Is Symbolized in Statue</a> NYT: Brescia, Italy, was one of the first Western cities devastated by the pandemic. It has adopted a famed ancient statue, “Winged Victory,” as the emblem of its recovery — and a prod for visits. 
  <p class="updated_time"> 10:41 PM CT, Oct. 28 </p> 
  <a href="https://www.nytimes.com/2021/10/28/world/middleeast/saudi-investment-covid.html">Yasir al-Rumayyan Missing From Saudi Arabia's Investment Conference</a> NYT: The unexplained absence of Yasir al-Rumayyan, who oversees the kingdom’s sovereign wealth fund, has highlighted concerns about a lack of transparency. 
+ <p class="updated_time"> 10:14 PM CT, Oct. 28 </p> 
+ <a href="https://www.wsj.com/articles/g-20-climate-talks-threatened-by-clash-over-coal-ahead-of-cop26-11635491696">G-20 Climate Talks Threatened by Clash Over Coal</a> WSJ: Leaders from the Group of 20 major economies are split over phasing out coal and limiting global warming to 1.5 degrees Celsius, officials said, throwing into doubt whether ambitious climate change targets can be hit. 
  <p class="updated_time"> 09:29 PM CT, Oct. 28 </p> 
  <a href="https://www.nytimes.com/2021/10/27/world/australia/free-land.html">What Happened When a Hellishly Hot Tiny Town Offered ‘Free’ Land</a> NYT: The town in Australia’s outback, where the temperature can hit 113 degrees Fahrenheit, drew hundreds of global inquiries when it put out the call in a bid to expand its population. 
  <p class="updated_time"> 08:45 PM CT, Oct. 28 </p> 
  <a href="https://www.bbc.co.uk/news/technology-59072745?at_medium=RSS&at_campaign=KARANGA">Inside the controversial US gunshot-detection firm</a> BBC: BBC News has been given access to ShotSpotter, the controversial US technology company that detects gunshots. 
- <p class="updated_time"> 08:26 PM CT, Oct. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59085937?at_medium=RSS&at_campaign=KARANGA">Andrew Cuomo: Ex-NY governor accused of groping in court filing</a> BBC: The criminal complaint alleges the ex-NY governor forcibly touched a woman at the governor's mansion. 
  <p class="updated_time"> 08:11 PM CT, Oct. 28 </p> 
  <a href="https://www.nytimes.com/2021/10/26/world/europe/queen-elizabeth-cop26-summit.html">Queen Elizabeth Will Skip Climate Summit in Glasgow</a> NYT: The 95-year-old queen, after 70 years on the throne, is the oldest and longest-serving monarch in British history. 
  <p class="updated_time"> 07:27 PM CT, Oct. 28 </p> 
@@ -91,8 +101,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/28/world/asia/china-covid-olympics.html">Beijing Olympics: China to Ease Covid Guidelines for Athletes in Bubble</a> NYT: Competitors will still face strict rules at what is shaping up to be the most extraordinarily regulated, large-scale sporting event since the pandemic’s start and could be expelled for breaking them. 
  <p class="updated_time"> 08:11 AM CT, Oct. 28 </p> 
  <a href="https://www.nytimes.com/2021/10/28/world/new-zealand-will-cut-the-amount-of-quarantine-time-for-travelers-in-half.html">New Zealand will cut the amount of quarantine time for travelers in half.</a> NYT: NA 
- <p class="updated_time"> 07:15 AM CT, Oct. 28 </p> 
- <a href="https://www.wsj.com/articles/ecb-keeps-stimulus-unchanged-despite-high-inflation-11635422592">ECB, Diverging From Fed, Sticks With Negative Rates</a> WSJ: The European Central Bank said it would keep its large monetary stimulus unchanged, and bank President Christine Lagarde stressed the view that a recent rise in inflation would be temporary. 
  <p class="updated_time"> 06:25 AM CT, Oct. 28 </p> 
  <a href="https://www.wsj.com/articles/taiwanese-president-confirms-u-s-troop-deployment-on-island-11635433900">Taiwanese President Confirms U.S. Troop Deployment on Island</a> WSJ: Tsai Ing-wen noted a “range of cooperation with the U.S.,” in comments that followed a recent Wall Street Journal report that a small contingent of Marines and a special-operations unit had been training Taiwanese forces. 
  <p class="updated_time"> 05:59 AM CT, Oct. 28 </p> 
@@ -103,10 +111,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/27/world/middleeast/israel-settlements-west-bank.html">Israel Advances Plan for New Settlement Homes, in First for Bennett Era</a> NYT: Approved despite the objections of the United States, critics say the new building will consolidate Israel’s presence in the West Bank and make it harder to create a Palestinian state. 
  <p class="updated_time"> 04:46 AM CT, Oct. 28 </p> 
  <a href="https://www.nytimes.com/2021/10/27/world/asia/china-zero-covid-virus.html">Why China Is the World’s Last ‘Zero Covid’ Holdout</a> NYT: The government has staked its political legitimacy on controlling the virus better than other countries, especially its geopolitical rivals. 
- <p class="updated_time"> 04:26 AM CT, Oct. 28 </p> 
- <a href="https://www.wsj.com/articles/facebook-faces-official-questions-in-india-over-policing-of-hate-speech-11635427582">Facebook Faces Official Questions in India Over Policing of Hate Speech</a> WSJ: India’s government is asking Facebook for details about how it monitors and removes inflammatory content on its platform in the country, following reports that say Facebook researchers had determined the company’s services contain inflammatory content in India. 
- <p class="updated_time"> 04:11 AM CT, Oct. 28 </p> 
- <a href="https://www.wsj.com/articles/china-sticks-to-covid-zero-policies-despite-rising-pressure-to-ease-restrictions-11635426664">China Sticks to Covid-Zero Policies, Despite Rising Pressure to Ease Restrictions</a> WSJ: Businesses have urged Beijing to implement a plan to end the strict pandemic regime, warning of the increasing economic toll, as much of the world has begun opening borders. 
  <p class="updated_time"> 03:41 AM CT, Oct. 28 </p> 
  <a href="https://www.nytimes.com/2021/10/28/movies/french-dispatch-paris.html">Wes Anderson’s Dream of France, and the Paris I Remember</a> NYT: With “The French Dispatch,” the director’s latest, yet another American artist falls under the country’s spell. The Times’s Paris bureau chief recalls when the same thing happened to him. 
  <p class="updated_time"> 01:00 AM CT, Oct. 28 </p> 
@@ -155,10 +159,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/26/world/europe/children-die-greece-migrant-crossing.html">3 Children and 1 Woman Drowned While Migrating Across the Aegean Sea</a> NYT: Migrant crossings are down and so are deaths at sea, but Tuesday’s incident was a reminder that dangers remain. 
  <p class="updated_time"> 11:32 AM CT, Oct. 26 </p> 
  <a href="https://www.nytimes.com/2021/10/26/arts/music/self-esteem-prioritise-pleasure.html">Self Esteem, a Pop Singer Who Wants Britain to ‘Prioritise Pleasure’</a> NYT: Rebecca Lucy Taylor is touching a nerve with brutally honest songs about not having it all figured out. 
- <p class="updated_time"> 11:20 AM CT, Oct. 26 </p> 
- <a href="https://www.nytimes.com/2021/10/26/arts/contract-bridge-cheating.html">After a Year of ‘Rampant’ Cheating, Elite Bridge Tries to Clean Up</a> NYT: As the pandemic forced most players online, the problem of cheating consumed the game’s highest levels. Top players say a tight-lipped culture is finally changing. 
- <p class="updated_time"> 09:22 AM CT, Oct. 26 </p> 
- <a href="https://www.nytimes.com/2021/10/26/world/middleeast/iran-taliban-afghanistan.html">Iran Wanted U.S. Out of Afghanistan. It May Be Sorry the Wish Came True.</a> NYT: Iran is glad the Americans are gone, but the Taliban takeover of Afghanistan creates a host of problems for Tehran, with no easy solutions. 
  <p class="updated_time"> 10:12 PM CT, Oct. 25 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59046518?at_medium=RSS&at_campaign=KARANGA">Eco-friendly sex: What is it and how does it impact on climate change?</a> BBC: As more people try to live environmentally friendly lives, how do we make sex more sustainable? 
  <p class="updated_time"> 07:12 PM CT, Oct. 25 </p> 
@@ -172,8 +172,10 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
- <p class="updated_time"> 04:00 AM CT, Oct. 29 </p> 
+ <p class="updated_time"> 05:24 AM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/us/politics/glenn-youngkin-virginia-governors-race.html">Glenn Youngkin Was a Traditional Republican. Then He Became a Culture Warrior.</a> NYT: As he runs for governor of Virginia, Mr. Youngkin has built a coalition, as one prominent conservative described it, of Trump voters and angry parents. 
+ <p class="updated_time"> 05:23 AM CT, Oct. 29 </p> 
+ <a href="https://www.nytimes.com/2021/10/28/us/politics/biden-framework-bill-plan.html">A Social Policy ‘Framework’ Fails to Secure a Biden Victory</a> NYT: President Biden went to the Capitol to detail a compromise on social safety net and climate legislation, but he couldn’t break the liberal blockade on another priority, infrastructure. 
  <p class="updated_time"> 04:00 AM CT, Oct. 29 </p> 
  <a href="https://www.politico.com/news/2021/10/29/joe-manchin-houseboat-activists-517482">The activists outside Joe Manchin’s houseboat</a> Politico: On this episode of Playbook Deep Dive, we take you alongside the activists rowing outside Sen. Joe Manchin’s houseboat — and inside the halls of the Capitol — to talk about whether the demonstrations are having any real impact on the Democrats’ reconciliation bill. 
  <p class="updated_time"> 03:31 AM CT, Oct. 29 </p> 
@@ -196,8 +198,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/28/us/politics/trump-family-separation-border.html">Families Separated at Border Under Trump Policy May Each Receive Up to $450,000</a> NYT: After the Trump administration separated migrant parents from children at the southern border, President Biden pledged to make it up to the families. 
  <p class="updated_time"> 07:34 PM CT, Oct. 28 </p> 
  <a href="https://www.nytimes.com/2021/10/28/climate/climate-change-framework-bill.html">Climate Change Became the Largest Part of Biden Spending Bill</a> NYT: As paid family leave and other priorities were taken out of the president’s plan, the largest piece became a $555 billion plan to fight climate change. 
- <p class="updated_time"> 07:20 PM CT, Oct. 28 </p> 
- <a href="https://www.nytimes.com/2021/10/28/us/politics/biden-framework-bill-plan.html">A Social Policy ‘Framework’ Fails to Secure a Biden Victory</a> NYT: President Biden went to the Capitol to detail a compromise on social safety net and climate legislation, but he couldn’t break the liberal blockade on another priority, infrastructure. 
  <p class="updated_time"> 07:08 PM CT, Oct. 28 </p> 
  <a href="https://www.nytimes.com/2021/10/28/us/politics/california-ports-supply-chain.html">Program to Lend Billions to Aid California’s Supply-Chain Infrastructure</a> NYT: The Transportation Department and the state are teaming up on the program, which aims to prevent a repeat of the supply-chain crisis by bolstering ports and other sources of bottlenecks. 
  <p class="updated_time"> 06:53 PM CT, Oct. 28 </p> 
