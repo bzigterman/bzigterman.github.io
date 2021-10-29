@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:06 AM CT, Oct. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59088348?at_medium=RSS&at_campaign=KARANGA">Heather Mack: Bali 'suitcase murder' accomplice released early</a> BBC: Heather Mack had been in jail for helping to kill her mother and stuffing her body into a suitcase. 
  <p class="updated_time"> 02:56 AM CT, Oct. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59087800?at_medium=RSS&at_campaign=KARANGA">Palestinians unveil huge mosaic in West Bank desert castle</a> BBC: The restored mosaic at Hisham's Palace in the city of Jericho is one of the largest in the world. 
  <p class="updated_time"> 02:00 AM CT, Oct. 29 </p> 
@@ -42,7 +44,7 @@ permalink: /projects/news/
  <p class="updated_time"> 07:27 PM CT, Oct. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59073105?at_medium=RSS&at_campaign=KARANGA">Indonesia calls for vaccine equity after Covid toll</a> BBC: In an exclusive interview, President Joko Widodo urges rich countries to share their vaccines. 
  <p class="updated_time"> 07:27 PM CT, Oct. 28 </p> 
- <a href="https://www.bbc.co.uk/news/58956714?at_medium=RSS&at_campaign=KARANGA">Climate Change: What are the big polluters doing to cut carbon emissions?</a> BBC: The top CO2-producing nations all have plans to tackle global warming - but what progress are they making? 
+ <a href="https://www.bbc.co.uk/news/58956714?at_medium=RSS&at_campaign=KARANGA">Climate change: What are the big polluters doing to cut carbon emissions?</a> BBC: The top CO2-producing nations all have plans to tackle global warming - but what progress are they making? 
  <p class="updated_time"> 07:26 PM CT, Oct. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59080871?at_medium=RSS&at_campaign=KARANGA">The Taliban’s secretive war against IS</a> BBC: Jalalabad is the frontline in murky and bloody battle between two groups, and the death toll is rising. 
  <p class="updated_time"> 07:25 PM CT, Oct. 28 </p> 
@@ -52,7 +54,7 @@ permalink: /projects/news/
  <p class="updated_time"> 07:24 PM CT, Oct. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59075044?at_medium=RSS&at_campaign=KARANGA">Mikheil Saakashvili: Hunger-striking ex-leader rattles Georgia from jail</a> BBC: Mikheil Saakashvili was president, but is now in prison as the government tries to silence him. 
  <p class="updated_time"> 07:22 PM CT, Oct. 28 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-59067310?at_medium=RSS&at_campaign=KARANGA">COP26: Four numbers that set the stage for climate change negotiations</a> BBC: The Queen cancelling her appearance and a climate pledge delayed - what do they mean for COP26? 
+ <a href="https://www.bbc.co.uk/news/science-environment-59067310?at_medium=RSS&at_campaign=KARANGA">COP26: Four numbers to remember ahead of the climate change summit</a> BBC: The Queen cancelling her appearance and a climate pledge delayed - what do they mean for COP26? 
  <p class="updated_time"> 06:56 PM CT, Oct. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59085935?at_medium=RSS&at_campaign=KARANGA">Two US neo-Nazis from 'the Base' jailed for terrorist plot</a> BBC: The sentence comes as part of a federal government crackdown on violent white nationalists. 
  <p class="updated_time"> 06:30 PM CT, Oct. 28 </p> 
@@ -91,8 +93,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/ecb-keeps-stimulus-unchanged-despite-high-inflation-11635422592">ECB, Diverging From Fed, Sticks With Negative Rates</a> WSJ: The European Central Bank said it would keep its large monetary stimulus unchanged, and bank President Christine Lagarde stressed the view that a recent rise in inflation would be temporary. 
  <p class="updated_time"> 06:25 AM CT, Oct. 28 </p> 
  <a href="https://www.wsj.com/articles/taiwanese-president-confirms-u-s-troop-deployment-on-island-11635433900">Taiwanese President Confirms U.S. Troop Deployment on Island</a> WSJ: Tsai Ing-wen noted a “range of cooperation with the U.S.,” in comments that followed a recent Wall Street Journal report that a small contingent of Marines and a special-operations unit had been training Taiwanese forces. 
- <p class="updated_time"> 06:00 AM CT, Oct. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-59075486?at_medium=RSS&at_campaign=KARANGA">Ali al-Nimr: Saudi child protester who faced death penalty released</a> BBC: Ali al-Nimr, who was arrested when he was 17, was originally sentenced to death by beheading. 
  <p class="updated_time"> 05:59 AM CT, Oct. 28 </p> 
  <a href="https://www.wsj.com/articles/indias-missile-test-seen-as-warning-to-china-after-breakdown-in-border-talks-11635433146">India's Missile Test Seen as Warning to China After Breakdown in Border Talks</a> WSJ: Security experts said the launch of the Agni-5 missile, the only one in India’s arsenal capable of reaching Beijing, was a pointed reminder to China that the South Asian nation has the firepower to fight back if border tensions flare up again. 
  <p class="updated_time"> 05:26 AM CT, Oct. 28 </p> 
@@ -170,6 +170,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:31 AM CT, Oct. 29 </p> 
+ <a href="https://www.politico.com/news/2021/10/29/democrats-infrastructure-week-517487">Weary Dems keep reliving Infrastructure Week</a> Politico: It's a nightmare on Capitol Hill for the president's party, as October passes by without a deal. 
  <p class="updated_time"> 02:00 AM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/us/politics/biden-summit.html">‘America Is Back,’ Biden Declared in June. The World Is About to Test Him.</a> NYT: Arriving in Europe with an unfinished economic and environmental spending plan, the president will confront new challenges, some self-inflicted, at two major summits. 
  <p class="updated_time"> 11:15 PM CT, Oct. 28 </p> 
