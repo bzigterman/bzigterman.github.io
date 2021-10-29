@@ -7,16 +7,20 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:29 PM CT, Oct. 28 </p> 
+ <a href="https://www.nytimes.com/2021/10/27/world/australia/free-land.html">What Happened When a Hellishly Hot Tiny Town Offered ‘Free’ Land</a> NYT: The town in Australia’s outback, where the temperature can hit 113 degrees Fahrenheit, drew hundreds of global inquiries when it put out the call in a bid to expand its population. 
  <p class="updated_time"> 08:45 PM CT, Oct. 28 </p> 
  <a href="https://www.nytimes.com/2021/10/26/world/europe/celine-manuscripts-france.html">Céline's Newly Unearthed Work Causes a Stir in France</a> NYT: A legal battle is raging over manuscripts written by the antisemitic writer Louis-Ferdinand Céline that disappeared almost eight decades ago. 
+ <p class="updated_time"> 08:45 PM CT, Oct. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/technology-59072745?at_medium=RSS&at_campaign=KARANGA">Inside the controversial US gunshot-detection firm</a> BBC: BBC News has been given access to ShotSpotter, the controversial US technology company that detects gunshots. 
+ <p class="updated_time"> 08:26 PM CT, Oct. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59085937?at_medium=RSS&at_campaign=KARANGA">Andrew Cuomo: Ex-NY governor accused of groping in court filing</a> BBC: The criminal complaint alleges the ex-NY governor forcibly touched a woman at the governor's mansion. 
  <p class="updated_time"> 08:11 PM CT, Oct. 28 </p> 
  <a href="https://www.nytimes.com/2021/10/26/world/europe/queen-elizabeth-cop26-summit.html">Queen Elizabeth Will Skip Climate Summit in Glasgow</a> NYT: The 95-year-old queen, after 70 years on the throne, is the oldest and longest-serving monarch in British history. 
  <p class="updated_time"> 07:27 PM CT, Oct. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59073105?at_medium=RSS&at_campaign=KARANGA">Indonesia calls for vaccine equity after Covid toll</a> BBC: In an exclusive interview, President Joko Widodo urges rich countries to share their vaccines. 
  <p class="updated_time"> 07:26 PM CT, Oct. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59080871?at_medium=RSS&at_campaign=KARANGA">The Taliban’s secretive war against IS</a> BBC: Jalalabad is the frontline in murky and bloody battle between two groups, and the death toll is rising. 
- <p class="updated_time"> 07:25 PM CT, Oct. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-58992093?at_medium=RSS&at_campaign=KARANGA">Europe's floods: Lessons from German tragedy</a> BBC: Recriminations have followed the July floods and the alleged failure to alert residents. 
  <p class="updated_time"> 07:25 PM CT, Oct. 28 </p> 
  <a href="https://www.bbc.co.uk/news/59048827?at_medium=RSS&at_campaign=KARANGA">Ethiopia food crisis: Why does PM have a problem with wheat aid?</a> BBC: Ethiopia has been increasing its wheat production, but this is yet to catch up with growing wheat demand. 
  <p class="updated_time"> 07:24 PM CT, Oct. 28 </p> 
@@ -93,10 +97,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/china-sticks-to-covid-zero-policies-despite-rising-pressure-to-ease-restrictions-11635426664">China Sticks to Covid-Zero Policies, Despite Rising Pressure to Ease Restrictions</a> WSJ: Businesses have urged Beijing to implement a plan to end the strict pandemic regime, warning of the increasing economic toll, as much of the world has begun opening borders. 
  <p class="updated_time"> 03:41 AM CT, Oct. 28 </p> 
  <a href="https://www.nytimes.com/2021/10/28/movies/french-dispatch-paris.html">Wes Anderson’s Dream of France, and the Paris I Remember</a> NYT: With “The French Dispatch,” the director’s latest, yet another American artist falls under the country’s spell. The Times’s Paris bureau chief recalls when the same thing happened to him. 
- <p class="updated_time"> 03:36 AM CT, Oct. 28 </p> 
- <a href="https://www.nytimes.com/2021/10/27/world/australia/free-land.html">Hellishly Hot Tiny Town Offers ‘Free’ Land. Hundreds of Calls Came In.</a> NYT: The town in Australia’s outback, where the temperature can hit 113 degrees Fahrenheit, drew global inquiries when it offered “free” land in a bid to expand its population. 
- <p class="updated_time"> 02:51 AM CT, Oct. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59062133?at_medium=RSS&at_campaign=KARANGA">Sitting Bull: DNA confirms great-grandson's identity</a> BBC: A sample of the Native American leader's hair confirms the identity of his great-grandson. 
  <p class="updated_time"> 01:00 AM CT, Oct. 28 </p> 
  <a href="https://www.wsj.com/articles/four-u-s-intelligence-agencies-produced-extensive-reports-on-afghanistan-but-all-failed-to-predict-kabuls-rapid-collapse-11635415201">Intelligence Agencies Failed to Predict Rapid Fall of Kabul</a> WSJ: Agencies offered scattershot assessments of the staying power of the Afghan military and government, a review of wide-ranging summaries of classified material by The Wall Street Journal shows. 
  <p class="updated_time"> 11:00 PM CT, Oct. 27 </p> 
@@ -143,6 +143,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/26/world/canada/justin-trudeau-cabinet.html">Justin Trudeau Introduces 'Reinvigorated' Cabinet</a> NYT: The Canadian prime minister failed to gain a majority in Parliament last month but acted otherwise when unveiling his new cabinet. 
  <p class="updated_time"> 06:10 PM CT, Oct. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59054893?at_medium=RSS&at_campaign=KARANGA">Life at 50C: Surviving in Kuwait's 'unbearable' heat</a> BBC: The Middle East is warming faster than much of the world, leaving Kuwaitis struggling with everyday life. 
+ <p class="updated_time"> 06:08 PM CT, Oct. 26 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-59049691?at_medium=RSS&at_campaign=KARANGA">Ros Atkins on... India's climate challenge</a> BBC: A look at how India is trying to balance banishing poverty with meeting its climate commitments. 
  <p class="updated_time"> 05:05 PM CT, Oct. 26 </p> 
  <a href="https://www.nytimes.com/2021/10/26/world/europe/poland-eu-aid.html">Why Poland Would Rather Keep E.U. Money Than Break With Bloc</a> NYT: Despite the flame-throwing rhetoric of their leaders, conservative supporters of Poland’s ruling party are dependent on millions of euros in aid, and don’t want to risk it. 
  <p class="updated_time"> 04:55 PM CT, Oct. 26 </p> 
@@ -178,6 +180,10 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:05 PM CT, Oct. 28 </p> 
+ <a href="https://www.nytimes.com/2021/10/28/us/politics/biden-immigration.html">An Immigration Overhaul is Part of Biden's Spending Framework</a> NYT: Included in the plan is a proposal to protect millions of undocumented immigrants who are longtime residents of the country from deportation. 
+ <p class="updated_time"> 09:05 PM CT, Oct. 28 </p> 
+ <a href="https://www.nytimes.com/2021/10/28/us/politics/progressives-infrastructure-biden-pelosi-support.html">Progressives Unmoved by Biden Request for Fast Vote on Infrastructure</a> NYT: Their opposition complicated plans for House leaders, who decided against holding a vote on the bill on Thursday despite President Biden’s entreaties earlier in the day. 
  <p class="updated_time"> 08:44 PM CT, Oct. 28 </p> 
  <a href="https://www.nytimes.com/2021/10/28/us/politics/trump-family-separation-border.html">Families Separated at Border Under Trump Policy May Each Receive Up to $450,000</a> NYT: After the Trump administration separated migrant parents from children at the southern border, President Biden pledged to make it up to the families. 
  <p class="updated_time"> 07:34 PM CT, Oct. 28 </p> 
@@ -198,8 +204,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/28/upshot/biden-taxes-billionaires-millionaires.html">Billionaires Beat the Working Rich in Biden's Spending Bill </a> NYT: One by one, tax proposals that would have slowed dynastic wealth have been tossed from the agreement. 
  <p class="updated_time"> 06:45 PM CT, Oct. 28 </p> 
  <a href="https://www.politico.com/news/2021/10/28/iowa-new-congressional-map-517485">Iowa approves new congressional map with 3 competitive districts</a> Politico: Former President Donald Trump narrowly carried each of the three swing seats under the new lines. 
- <p class="updated_time"> 06:24 PM CT, Oct. 28 </p> 
- <a href="https://www.nytimes.com/2021/10/28/us/politics/progressives-infrastructure-biden-pelosi-support.html">Progressives Unmoved by Biden Request for Fast Vote on Infrastructure</a> NYT: Their opposition complicated plans for House leaders, who decided against holding a vote on the bill on Thursday despite President Biden’s entreaties earlier in the day. 
  <p class="updated_time"> 05:30 PM CT, Oct. 28 </p> 
  <a href="https://www.nytimes.com/2021/10/28/us/politics/elections-november.html">Will We See Red or Blue Mirages in Election Results on Tuesday?</a> NYT: Mail-in ballots skewed early returns in some states in 2020. Will the trend repeat itself on Tuesday? 
  <p class="updated_time"> 05:18 PM CT, Oct. 28 </p> 
@@ -208,8 +212,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/28/us/politics/supreme-court-oklahoma-executions.html">Supreme Court Lets Two Oklahoma Executions Proceed</a> NYT: By a 5-to-3 vote, the justices lifted a stay of execution that had been imposed by a federal appeals court in a challenge to the state’s lethal injection protocols. 
  <p class="updated_time"> 04:58 PM CT, Oct. 28 </p> 
  <a href="https://www.politico.com/news/2021/10/28/budget-deal-democrats-biden-framework-517469">Your guide to the huge Dem deal: 14 new policies and what could stop them</a> Politico: Democrats revealed a framework for a $1.75 trillion spending deal, but areas such as health care, child care and climate change are missing major party priorities. 
- <p class="updated_time"> 04:11 PM CT, Oct. 28 </p> 
- <a href="https://www.nytimes.com/2021/10/28/us/politics/biden-immigration.html">An Immigration Overhaul is Part of Biden's Spending Framework</a> NYT: Included in the plan is a proposal to protect millions of undocumented immigrants who are longtime residents of the country from deportation. 
  <p class="updated_time"> 02:41 PM CT, Oct. 28 </p> 
  <a href="https://www.politico.com/news/2021/10/28/liberals-weigh-settling-for-half-a-loaf-517456">Liberals weigh their options: Settle for half a loaf, or fight</a> Politico: President Joe Biden and Democratic leaders are asking for their votes on a $1.75 trillion social spending blueprint. They're not totally sold yet. 
  <p class="updated_time"> 01:21 PM CT, Oct. 28 </p> 
