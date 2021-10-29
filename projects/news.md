@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:48 AM CT, Oct. 29 </p> 
+ <a href="https://www.nytimes.com/2021/10/29/world/europe/uk-covid-travel-red-list.html">U.K. Drops Last 7 Countries From England's Covid 'Red List'</a> NYT: The easing of travel restrictions comes as another part of Britain warns that it may reintroduce some Covid rules. 
  <p class="updated_time"> 06:46 AM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/28/movies/french-dispatch-paris.html">Wes Anderson’s Dream of France, and the Paris I Remember</a> NYT: With “The French Dispatch,” the director’s latest, yet another American artist falls under the country’s spell. The Times’s Paris bureau chief recalls when the same thing happened to him. 
  <p class="updated_time"> 06:35 AM CT, Oct. 29 </p> 
@@ -147,8 +149,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/27/us/politics/global-minimum-tax-deal.html">Pastries and Persuasion: How a Global Tax Deal Got Done</a> NYT: Over Zoom calls from basements and a breakfast in Brussels, faltering negotiations to remake the world’s tax architecture were revived. 
  <p class="updated_time"> 10:08 PM CT, Oct. 26 </p> 
  <a href="https://www.nytimes.com/2021/10/26/world/europe/france-murder-trial-holocaust-survivor-mireille-knoll.html">Trial in Holocaust Survivor's Killing Begins in France</a> NYT: Mireille Knoll, 85, was killed in 2018 in what prosecutors and the authorities called a hate crime. Decades earlier, she had escaped a notorious roundup of Jews. 
- <p class="updated_time"> 07:00 PM CT, Oct. 26 </p> 
- <a href="https://www.nytimes.com/2021/10/26/world/asia/pakistan-cricket-victory-india.html">2 Days After Cricket Victory Over India, Pakistan Still Feels the High</a> NYT: The nation is experiencing a much-needed burst of joy after it unexpectedly beat India in a cricket match in Dubai. 
  <p class="updated_time"> 06:41 PM CT, Oct. 26 </p> 
  <a href="https://www.nytimes.com/2021/10/26/world/canada/justin-trudeau-cabinet.html">Justin Trudeau Introduces 'Reinvigorated' Cabinet</a> NYT: The Canadian prime minister failed to gain a majority in Parliament last month but acted otherwise when unveiling his new cabinet. 
  <p class="updated_time"> 06:10 PM CT, Oct. 26 </p> 
