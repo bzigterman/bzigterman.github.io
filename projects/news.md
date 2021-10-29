@@ -11,10 +11,14 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/29/world/biden-pope-communion-abortion.html">Biden: Pope Says He Should Keep Receiving Communion</a> NYT: President Biden said abortion had not come up in their private meeting. “We just talked about the fact he was happy that I was a good Catholic and I should keep receiving communion,” he said. 
  <p class="updated_time"> 10:06 AM CT, Oct. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59085806?at_medium=RSS&at_campaign=KARANGA">COP26: Biden on diplomatic drive ahead of climate summit</a> BBC: The US president met the pope in the first of a series of diplomatic meetings ahead of COP26. 
+ <p class="updated_time"> 10:01 AM CT, Oct. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59015486?at_medium=RSS&at_campaign=KARANGA">Mike Ward: Comedian wins free speech case in top court</a> BBC: The legal row over a comedy routine about a young disabled singer has ended after nearly a decade. 
  <p class="updated_time"> 10:00 AM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/world/europe/spanish-writer-carmen-mola-true-identity.html">Behind a Top Female Name in Spanish Crime Fiction: Three Men</a> NYT: Carmen Mola, a novelist publishing under a pen name, seemed to shatter a glass ceiling in the world of Spanish books. But when the author’s true identity was revealed while claiming a big prize, it was a shock. 
  <p class="updated_time"> 09:47 AM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/world/asia/tonga-first-covid-case.html">Tonga Reports First Covid Case, Nearly 2 Years Into Pandemic</a> NYT: The Pacific island, 1,100 miles from New Zealand, has quarantined all airport employees on duty after a flight with an infected passenger arrived. 
+ <p class="updated_time"> 09:46 AM CT, Oct. 29 </p> 
+ <a href="https://www.nytimes.com/2021/10/29/climate/europe-energy-crisis-cop.html">How Rising Energy Prices Have Complicated Europe's Climate Crisis</a> NYT: Prices for power have soared, and some politicians are now trying to use that as a lever to slow action on climate change, a strategy with far-reaching consequences. 
  <p class="updated_time"> 09:34 AM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/us/hurricane-storm-season.html">Is Hurricane Season Still Going? You Bet.</a> NYT: There hasn’t been a named storm in the Atlantic Ocean since early October, but about a month remains in the hurricane season. “Don’t raid your hurricane supplies yet,” said one meteorologist. 
  <p class="updated_time"> 08:42 AM CT, Oct. 29 </p> 
@@ -83,8 +87,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/27/world/australia/free-land.html">What Happened When a Hellishly Hot Tiny Town Offered ‘Free’ Land</a> NYT: The town in Australia’s outback, where the temperature can hit 113 degrees Fahrenheit, drew hundreds of global inquiries when it put out the call in a bid to expand its population. 
  <p class="updated_time"> 08:45 PM CT, Oct. 28 </p> 
  <a href="https://www.bbc.co.uk/news/technology-59072745?at_medium=RSS&at_campaign=KARANGA">Inside the controversial US gunshot-detection firm</a> BBC: BBC News has been given access to ShotSpotter, the controversial US technology company that detects gunshots. 
- <p class="updated_time"> 07:27 PM CT, Oct. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59073105?at_medium=RSS&at_campaign=KARANGA">Indonesia calls for vaccine equity after Covid toll</a> BBC: In an exclusive interview, President Joko Widodo urges rich countries to share their vaccines. 
+ <p class="updated_time"> 08:11 PM CT, Oct. 28 </p> 
+ <a href="https://www.nytimes.com/2021/10/26/world/europe/queen-elizabeth-cop26-summit.html">Queen Elizabeth Will Skip Climate Summit in Glasgow</a> NYT: The 95-year-old queen, after 70 years on the throne, is the oldest and longest-serving monarch in British history. 
  <p class="updated_time"> 07:27 PM CT, Oct. 28 </p> 
  <a href="https://www.bbc.co.uk/news/58956714?at_medium=RSS&at_campaign=KARANGA">Climate change: What are the big polluters doing to cut carbon emissions?</a> BBC: The top CO2-producing nations all have plans to tackle global warming - but what progress are they making? 
  <p class="updated_time"> 07:26 PM CT, Oct. 28 </p> 
@@ -163,8 +167,12 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/27/books/abdulrazak-gurnah-nobel-prize-literature-afterlives.html">He Won the Nobel. Why Are His Books So Hard to Find?</a> NYT: After Abdulrazak Gurnah was awarded this year’s Nobel Prize in Literature, he instantly gained a wider international audience, something publishers are now scrambling to accommodate. 
  <p class="updated_time"> 04:00 AM CT, Oct. 27 </p> 
  <a href="https://www.nytimes.com/2021/10/27/us/politics/global-minimum-tax-deal.html">Pastries and Persuasion: How a Global Tax Deal Got Done</a> NYT: Over Zoom calls from basements and a breakfast in Brussels, faltering negotiations to remake the world’s tax architecture were revived. 
+ <p class="updated_time"> 06:41 PM CT, Oct. 26 </p> 
+ <a href="https://www.nytimes.com/2021/10/26/world/canada/justin-trudeau-cabinet.html">Justin Trudeau Introduces 'Reinvigorated' Cabinet</a> NYT: The Canadian prime minister failed to gain a majority in Parliament last month but acted otherwise when unveiling his new cabinet. 
  <p class="updated_time"> 06:10 PM CT, Oct. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59054893?at_medium=RSS&at_campaign=KARANGA">Life at 50C: Surviving in Kuwait's 'unbearable' heat</a> BBC: The Middle East is warming faster than much of the world, leaving Kuwaitis struggling with everyday life. 
+ <p class="updated_time"> 05:05 PM CT, Oct. 26 </p> 
+ <a href="https://www.nytimes.com/2021/10/26/world/europe/poland-eu-aid.html">Why Poland Would Rather Keep E.U. Money Than Break With Bloc</a> NYT: Despite the flame-throwing rhetoric of their leaders, conservative supporters of Poland’s ruling party are dependent on millions of euros in aid, and don’t want to risk it. 
  <p class="updated_time"> 07:12 PM CT, Oct. 25 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-58171814?at_medium=RSS&at_campaign=KARANGA">Climate change: Four things you can do about your carbon footprint</a> BBC: Small changes to our lifestyles and choices could limit our personal carbon footprint. 
  <p class="updated_time"> 11:10 AM CT, Oct. 25 </p> 
@@ -248,8 +256,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/10/26/joe-manchin-irs-reporting-spending-bill-517194">Manchin: IRS reporting requirements likely 'going to be gone' from spending bill</a> Politico: Democrats have been on the defensive over that proposal for weeks now, with both the banking industry and Republicans calling it an unfair intrusion into people’s everyday finances. 
  <p class="updated_time"> 10:56 AM CT, Oct. 26 </p> 
  <a href="https://www.politico.com/news/2021/10/26/billionaires-tax-tension-517179">Dems confront flagging momentum for $1T-plus deal</a> Politico: The president was meeting with Sens. Kyrsten Sinema and Joe Manchin on Tuesday evening. 
- <p class="updated_time"> 03:31 AM CT, Oct. 26 </p> 
- <a href="https://www.politico.com/news/2021/10/26/liberals-priorities-fall-517138">Liberals grit teeth as their priorities fall by wayside</a> Politico: Democratic leaders are telling members to embrace the party bill, even as progressives see several major policy goals tossed. 
 
 
 </details>
