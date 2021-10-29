@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:55 AM CT, Oct. 29 </p> 
+ <a href="https://www.nytimes.com/2021/10/29/world/europe/appeal-julian-assange-extradition.html">British Court Hears Appeal in Julian Assange Extradition Case</a> NYT: The outcome is not expected to be known for weeks, but the hearing was the latest step in a continuing attempt to extradite the WikiLeaks founder to the U.S. to face espionage charges. 
  <p class="updated_time"> 10:37 AM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/world/biden-pope-communion-abortion.html">Biden: Pope Says He Should Keep Receiving Communion</a> NYT: President Biden said abortion had not come up in their private meeting. “We just talked about the fact he was happy that I was a good Catholic and I should keep receiving communion,” he said. 
  <p class="updated_time"> 10:06 AM CT, Oct. 29 </p> 
@@ -47,12 +49,16 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/g-20-climate-talks-threatened-by-clash-over-coal-ahead-of-cop26-11635491696">G-20 Climate Talks Threatened by Clash Over Coal</a> WSJ: Leaders from the Group of 20 major economies are split over phasing out coal and limiting global warming to 1.5 degrees Celsius, officials said, throwing into doubt whether ambitious climate change targets can be hit. 
  <p class="updated_time"> 05:37 AM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/world/as-biden-and-francis-prepare-to-meet-the-us-catholic-church-remains-divided.html">As Biden and Francis meet, the U.S. Catholic Church remains divided.</a> NYT: NA 
+ <p class="updated_time"> 05:30 AM CT, Oct. 29 </p> 
+ <a href="https://www.wsj.com/articles/u-s-takes-aim-at-irans-drone-program-seeing-risk-to-mideast-stability-11635517853">U.S. Takes Aim at Iran's Drone Program</a> WSJ: The Biden administration levied sanctions against several Iranian companies and executives that it tied to Tehran’s drone program as U.S. security and military officials grow increasingly concerned about it. 
  <p class="updated_time"> 05:06 AM CT, Oct. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59089381?at_medium=RSS&at_campaign=KARANGA">Kemerovo fire: Jail terms for bosses over Russian mall disaster</a> BBC: A leisure centre blaze in 2018 killed 60 people, most of them children, in a Siberian city. 
  <p class="updated_time"> 04:56 AM CT, Oct. 29 </p> 
  <a href="https://www.bbc.co.uk/news/uk-politics-59084086?at_medium=RSS&at_campaign=KARANGA">COP26: Has Boris Johnson got what it takes to get a deal?</a> BBC: The UN climate summit is a huge test of diplomacy for the UK prime minister, with considerable political risks. 
  <p class="updated_time"> 04:51 AM CT, Oct. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-57483492?at_medium=RSS&at_campaign=KARANGA">Why China's climate policy matters to us all</a> BBC: The global battle against climate change is likely to be won or lost in China. 
+ <p class="updated_time"> 04:33 AM CT, Oct. 29 </p> 
+ <a href="https://www.wsj.com/articles/covid-19-cases-drop-in-southeast-asia-easing-supply-chain-crunch-11635514413">Covid-19 Cases Drop in Southeast Asia, Easing Supply-Chain Crunch</a> WSJ: Factories have reopened and production is steadily picking up in major manufacturing areas of Southeast Asia, easing some of the supply-chain constraints that companies blame for lost sales. 
  <p class="updated_time"> 04:22 AM CT, Oct. 29 </p> 
  <a href="https://www.bbc.co.uk/news/business-59059097?at_medium=RSS&at_campaign=KARANGA">Squid Game cryptocurrency rockets in first few days of trading</a> BBC: The popular Netflix show has now spawned a cryptocurrency - and it's soaring. 
  <p class="updated_time"> 04:20 AM CT, Oct. 29 </p> 
@@ -67,6 +73,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/business-59088757?at_medium=RSS&at_campaign=KARANGA">Is Hong Kong's label as Asia's financial capital at risk? </a> BBC: With the 2019 protests and imposition of the National Security Law, plus Covid-19 border closures, is Hong Kong's label as Asia's financial capital at risk? Katie Silver reports 
  <p class="updated_time"> 02:56 AM CT, Oct. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59087800?at_medium=RSS&at_campaign=KARANGA">Palestinians unveil huge mosaic in West Bank desert castle</a> BBC: The restored mosaic at Hisham's Palace in the city of Jericho is one of the largest in the world. 
+ <p class="updated_time"> 02:09 AM CT, Oct. 29 </p> 
+ <a href="https://www.wsj.com/articles/eurozone-economy-outpaces-u-s-china-but-tougher-times-lie-ahead-11635505779">Eurozone Economy Outpaces U.S., China</a> WSJ: The loosening of social restrictions and widespread vaccinations powered the region’s comeback from the Covid-19 pandemic, but supply-chain bottlenecks and rising prices are expected to hold growth back in the coming months. 
  <p class="updated_time"> 02:00 AM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/us/politics/biden-summit.html">‘America Is Back,’ Biden Declared in June. The World Is About to Test Him.</a> NYT: Arriving in Europe with an unfinished economic and environmental spending plan, the president will confront new challenges, some self-inflicted, at two major summits. 
  <p class="updated_time"> 01:50 AM CT, Oct. 29 </p> 
@@ -171,8 +179,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/26/world/canada/justin-trudeau-cabinet.html">Justin Trudeau Introduces 'Reinvigorated' Cabinet</a> NYT: The Canadian prime minister failed to gain a majority in Parliament last month but acted otherwise when unveiling his new cabinet. 
  <p class="updated_time"> 06:10 PM CT, Oct. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59054893?at_medium=RSS&at_campaign=KARANGA">Life at 50C: Surviving in Kuwait's 'unbearable' heat</a> BBC: The Middle East is warming faster than much of the world, leaving Kuwaitis struggling with everyday life. 
- <p class="updated_time"> 05:05 PM CT, Oct. 26 </p> 
- <a href="https://www.nytimes.com/2021/10/26/world/europe/poland-eu-aid.html">Why Poland Would Rather Keep E.U. Money Than Break With Bloc</a> NYT: Despite the flame-throwing rhetoric of their leaders, conservative supporters of Poland’s ruling party are dependent on millions of euros in aid, and don’t want to risk it. 
  <p class="updated_time"> 07:12 PM CT, Oct. 25 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-58171814?at_medium=RSS&at_campaign=KARANGA">Climate change: Four things you can do about your carbon footprint</a> BBC: Small changes to our lifestyles and choices could limit our personal carbon footprint. 
  <p class="updated_time"> 11:10 AM CT, Oct. 25 </p> 
@@ -184,6 +190,10 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:09 AM CT, Oct. 29 </p> 
+ <a href="https://www.nytimes.com/2021/10/29/us/politics/covid-vaccine-children.html">F.D.A. Expected to Clear Pfizer Coronavirus Vaccine for Young Children</a> NYT: Experts said the shot could bring relief to parents anxious about their children getting sick, though some worry that those most at risk may slip through the cracks. 
+ <p class="updated_time"> 11:03 AM CT, Oct. 29 </p> 
+ <a href="https://www.nytimes.com/2021/10/29/arts/in-this-house-yard-signs.html">In This House, We List Our Beliefs in the Yard</a> NYT: How a lawn sign inspired by mom décor became a liberal mantra — and a symbol of a political battle over white womanhood. 
  <p class="updated_time"> 10:06 AM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/us/politics/adam-kinzinger-illinois-election.html">Adam Kinzinger, a Republican Trump Critic, Won’t Seek Re-election in House</a> NYT: Mr. Kinzinger’s electoral fate was largely sealed when Illinois Democrats adopted a new congressional map that eliminated the district he has represented for the last decade. 
  <p class="updated_time"> 09:58 AM CT, Oct. 29 </p> 
@@ -221,8 +231,6 @@ permalink: /projects/news/
  <p class="updated_time"> 07:08 PM CT, Oct. 28 </p> 
  <a href="https://www.nytimes.com/2021/10/28/us/politics/california-ports-supply-chain.html">Program to Lend Billions to Aid California’s Supply-Chain Infrastructure</a> NYT: The Transportation Department and the state are teaming up on the program, which aims to prevent a repeat of the supply-chain crisis by bolstering ports and other sources of bottlenecks. 
  <p class="updated_time"> 06:50 PM CT, Oct. 28 </p> 
- <a href="https://www.nytimes.com/2021/10/27/us/politics/democrats-reconciliation-bill-negotiations.html">Racing the Clock, Democrats Grasp for a Deal on Biden’s Agenda</a> NYT: Democrats struggled to bridge crucial differences over what to include in and how to pay for their social policy and climate plan. 
- <p class="updated_time"> 06:50 PM CT, Oct. 28 </p> 
  <a href="https://www.nytimes.com/2021/10/28/us/politics/biden-tax-plan-increases.html">How Biden’s $2 Trillion in Tax Increases Target Companies and the Rich</a> NYT: The proposal to fund the president’s sprawling spending plan mostly turns up the dial on more conventional tax policies, while trying to curb maneuvers that allow tax avoidance. 
  <p class="updated_time"> 06:49 PM CT, Oct. 28 </p> 
  <a href="https://www.nytimes.com/2021/10/28/us/politics/spending-plan-bill-biden.html">Here's What's in Biden's $1.85 Trillion Spending Plan</a> NYT: White House officials refused to say if all holdout Democrats in Congress had expressed support for the framework. 
@@ -240,8 +248,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/10/28/sinema-biden-prescription-drug-deal-517422">Sinema reached prescription drug negotiation deal with Biden</a> Politico: But the issue was left out of the framework the White House released publicly on Thursday morning, leaving its fate uncertain. 
  <p class="updated_time"> 07:17 AM CT, Oct. 28 </p> 
  <a href="https://www.politico.com/news/2021/10/28/biden-house-democrats-517416">Dems punt House infrastructure vote in blow to Biden agenda</a> Politico: The left is frustrated over pared-back social spending. Speaker Nancy Pelosi wanted to show momentum — but she doesn't have the votes yet. 
- <p class="updated_time"> 07:33 PM CT, Oct. 27 </p> 
- <a href="https://www.nytimes.com/2021/10/27/us/politics/merrick-garland-justice-department-schools-memo.html">Republicans Assail Garland Over Justice Department Schools Memo</a> NYT: Republicans said the Biden administration was seeking to intimidate parents concerned about school policies. The attorney general cited a spike in threats. 
  <p class="updated_time"> 03:48 PM CT, Oct. 27 </p> 
  <a href="https://www.politico.com/news/2021/10/27/democrats-immigration-gambit-loses-steam-517352">Dems' last-ditch immigration gambit loses steam</a> Politico: Even if President Joe Biden can get fellow Democrats to add reform provisions to a broad social spending deal, the Senate parliamentarian can squash them. 
  <p class="updated_time"> 10:33 AM CT, Oct. 27 </p> 
