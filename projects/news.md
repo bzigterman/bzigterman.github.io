@@ -7,16 +7,16 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:31 PM CT, Oct. 28 </p> 
+ <a href="https://www.nytimes.com/2021/10/28/world/asia/japan-election-rural-urban.html">In Japan Elections, Rural Voters Count More Than Those in Big Cities</a> NYT: The disproportionate weight of rural voters in Japan gives sparsely populated parts of the country more representation — and more government largess — than urban areas, perpetuating what critics call an unfair system. 
  <p class="updated_time"> 11:15 PM CT, Oct. 28 </p> 
  <a href="https://www.nytimes.com/2021/10/29/world/australia/nuclear-powered-submarines.html">Nuclear-Powered Submarines for Australia? Maybe Not So Fast.</a> NYT: Australia’s plan to build the submarines with U.S. and British help faces big hurdles. Supporters say they can be overcome. Critics say they may be too much. 
  <p class="updated_time"> 11:04 PM CT, Oct. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59085806?at_medium=RSS&at_campaign=KARANGA">Biden lands in Europe with domestic spending plans in limbo</a> BBC: The president's fellow Democrats abandon plans for a vote, leaving his whole platform up in the air. 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59085806?at_medium=RSS&at_campaign=KARANGA">Biden lands in Europe with domestic spending plans in limbo</a> BBC: The US president is attending two summits, while his $2.75tn (£2tn) spending plans are up in the air. 
  <p class="updated_time"> 10:45 PM CT, Oct. 28 </p> 
  <a href="https://www.nytimes.com/2021/10/28/world/europe/brescia-italy-winged-victory.html">After Time of ‘Real Terror,’ City’s Resilience Is Symbolized in Statue</a> NYT: Brescia, Italy, was one of the first Western cities devastated by the pandemic. It has adopted a famed ancient statue, “Winged Victory,” as the emblem of its recovery — and a prod for visits. 
  <p class="updated_time"> 10:41 PM CT, Oct. 28 </p> 
  <a href="https://www.nytimes.com/2021/10/28/world/middleeast/saudi-investment-covid.html">Yasir al-Rumayyan Missing From Saudi Arabia's Investment Conference</a> NYT: The unexplained absence of Yasir al-Rumayyan, who oversees the kingdom’s sovereign wealth fund, has highlighted concerns about a lack of transparency. 
- <p class="updated_time"> 10:40 PM CT, Oct. 28 </p> 
- <a href="https://www.nytimes.com/2021/10/28/world/asia/japan-election-rural-urban.html">In Japan Elections, Rural Voters Count More Than Those in Big Cities</a> NYT: The disproportionate weight of rural voters in Japan gives sparsely populated parts of the country more representation — and more government largess — than urban areas, perpetuating what critics call an unfair system. 
  <p class="updated_time"> 09:29 PM CT, Oct. 28 </p> 
  <a href="https://www.nytimes.com/2021/10/27/world/australia/free-land.html">What Happened When a Hellishly Hot Tiny Town Offered ‘Free’ Land</a> NYT: The town in Australia’s outback, where the temperature can hit 113 degrees Fahrenheit, drew hundreds of global inquiries when it put out the call in a bid to expand its population. 
  <p class="updated_time"> 08:45 PM CT, Oct. 28 </p> 
@@ -127,8 +127,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/27/books/abdulrazak-gurnah-nobel-prize-literature-afterlives.html">He Won the Nobel. Why Are His Books So Hard to Find?</a> NYT: After Abdulrazak Gurnah was awarded this year’s Nobel Prize in Literature, he instantly gained a wider international audience, something publishers are now scrambling to accommodate. 
  <p class="updated_time"> 04:00 AM CT, Oct. 27 </p> 
  <a href="https://www.nytimes.com/2021/10/27/us/politics/global-minimum-tax-deal.html">Pastries and Persuasion: How a Global Tax Deal Got Done</a> NYT: Over Zoom calls from basements and a breakfast in Brussels, faltering negotiations to remake the world’s tax architecture were revived. 
- <p class="updated_time"> 10:08 PM CT, Oct. 26 </p> 
- <a href="https://www.nytimes.com/2021/10/26/world/africa/sudan-coup-protests.html">Sudan’s Prime Minister Was Detained at Home of General Who Led Coup</a> NYT: Protesters demanding civilian rule flooded the streets of major cities a day after a military takeover. Many offices and businesses shut, answering a call for civil disobediences. 
  <p class="updated_time"> 10:08 PM CT, Oct. 26 </p> 
  <a href="https://www.nytimes.com/2021/10/26/world/europe/france-murder-trial-holocaust-survivor-mireille-knoll.html">Trial in Holocaust Survivor's Killing Begins in France</a> NYT: Mireille Knoll, 85, was killed in 2018 in what prosecutors and the authorities called a hate crime. Decades earlier, she had escaped a notorious roundup of Jews. 
  <p class="updated_time"> 07:00 PM CT, Oct. 26 </p> 
