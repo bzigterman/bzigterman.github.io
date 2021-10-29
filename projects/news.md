@@ -174,12 +174,14 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:41 AM CT, Oct. 29 </p> 
+ <a href="https://www.nytimes.com/2021/10/27/us/politics/beloved-toni-morrison-virginia.html">Fight Over Toni Morrison Novel Inflames Virginia Governor's Race</a> NYT: A Republican ad featured a mother who had tried to have “Beloved” banned from her son’s curriculum. Democrats saw a coded racist message. 
+ <p class="updated_time"> 07:39 AM CT, Oct. 29 </p> 
+ <a href="https://www.nytimes.com/2021/10/29/us/politics/glenn-youngkin-virginia-governors-race.html">Glenn Youngkin Was a Traditional Republican. Then He Became a Culture Warrior.</a> NYT: As he runs for governor of Virginia, Mr. Youngkin has built a coalition, as one prominent conservative described it, of Trump voters and angry parents. 
  <p class="updated_time"> 07:06 AM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/world/australia/nuclear-powered-submarines.html">Nuclear-Powered Submarines for Australia? Maybe Not So Fast.</a> NYT: Australia’s plan to build the submarines with U.S. and British help faces big hurdles. Supporters say they can be overcome. Critics say they may be too much. 
  <p class="updated_time"> 06:07 AM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/28/us/politics/infrastructure-bill-spending-plan.html">The President's Gamble: Biden Implores Democrats to Support His Agenda</a> NYT: “The House and Senate majorities and my presidency will be determined by what happens in the next week,” President Biden told lawmakers on Thursday. 
- <p class="updated_time"> 05:24 AM CT, Oct. 29 </p> 
- <a href="https://www.nytimes.com/2021/10/29/us/politics/glenn-youngkin-virginia-governors-race.html">Glenn Youngkin Was a Traditional Republican. Then He Became a Culture Warrior.</a> NYT: As he runs for governor of Virginia, Mr. Youngkin has built a coalition, as one prominent conservative described it, of Trump voters and angry parents. 
  <p class="updated_time"> 05:23 AM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/28/us/politics/biden-framework-bill-plan.html">A Social Policy ‘Framework’ Fails to Secure a Biden Victory</a> NYT: President Biden went to the Capitol to detail a compromise on social safety net and climate legislation, but he couldn’t break the liberal blockade on another priority, infrastructure. 
  <p class="updated_time"> 04:00 AM CT, Oct. 29 </p> 
@@ -224,8 +226,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/10/28/sinema-biden-prescription-drug-deal-517422">Sinema reached prescription drug negotiation deal with Biden</a> Politico: But the issue was left out of the framework the White House released publicly on Thursday morning, leaving its fate uncertain. 
  <p class="updated_time"> 07:17 AM CT, Oct. 28 </p> 
  <a href="https://www.politico.com/news/2021/10/28/biden-house-democrats-517416">Dems punt House infrastructure vote in blow to Biden agenda</a> Politico: The left is frustrated over pared-back social spending. Speaker Nancy Pelosi wanted to show momentum — but she doesn't have the votes yet. 
- <p class="updated_time"> 06:56 AM CT, Oct. 28 </p> 
- <a href="https://www.nytimes.com/2021/10/27/us/politics/beloved-toni-morrison-virginia.html">Fight Over Toni Morrison Novel Inflames Virginia Governor's Race</a> NYT: A Republican ad featured a mother who had tried to have “Beloved” banned from her son’s curriculum. Democrats saw a coded racist message. 
  <p class="updated_time"> 07:33 PM CT, Oct. 27 </p> 
  <a href="https://www.nytimes.com/2021/10/27/us/politics/merrick-garland-justice-department-schools-memo.html">Republicans Assail Garland Over Justice Department Schools Memo</a> NYT: Republicans said the Biden administration was seeking to intimidate parents concerned about school policies. The attorney general cited a spike in threats. 
  <p class="updated_time"> 03:48 PM CT, Oct. 27 </p> 
