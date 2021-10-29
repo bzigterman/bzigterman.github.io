@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:11 PM CT, Oct. 29 </p> 
+ <a href="https://www.nytimes.com/2021/10/29/world/canada/dune-denis-villeneuve-canadians.html">The Canadians Behind ‘Dune’</a> NYT: A science fiction opus was heavily guided by Canadian talent, starting with the director, Denis Villeneuve, who lives in Montreal. 
  <p class="updated_time"> 04:48 PM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/world/europe/biden-macron-submarine-deal.html">Biden Calls Handling of Australia Deal That Angered France 'Clumsy'</a> NYT: “I had been under the impression long before that France had been informed,” President Biden said. 
  <p class="updated_time"> 04:37 PM CT, Oct. 29 </p> 
@@ -23,6 +25,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/29/world/africa/sudan-coup-general.html">‘They Lied.’ Inside the Frantic Days Leading to Sudan’s Coup</a> NYT: The American envoy, Jeffrey Feltman, was given assurances that seemed to head off a military takeover. Hours later, Lt. Gen. Abdel Fattah al-Burhan made his move. 
  <p class="updated_time"> 02:17 PM CT, Oct. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59085806?at_medium=RSS&at_campaign=KARANGA">Biden: We were clumsy over France submarine row</a> BBC: The US president meets his French counterpart in the wake of a diplomatic row over a submarine deal. 
+ <p class="updated_time"> 02:11 PM CT, Oct. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59097703?at_medium=RSS&at_campaign=KARANGA">California condors: Virgin births discovered in critically endangered birds</a> BBC: Scientists discover California condors can give birth without any male genetic DNA. 
  <p class="updated_time"> 01:58 PM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/world/europe/queen-elizabeth-2-weeks-rest.html">Queen Elizabeth Urged by Doctors to Rest at Least 2 Weeks</a> NYT: The advice from her medical team has heightened the worry about the health of the 95-year-old monarch, who has canceled the public appearances that had been on her calendar. 
  <p class="updated_time"> 01:57 PM CT, Oct. 29 </p> 
@@ -93,8 +97,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/29/world/as-biden-and-francis-prepare-to-meet-the-us-catholic-church-remains-divided.html">As Biden and Francis meet, the U.S. Catholic Church remains divided.</a> NYT: NA 
  <p class="updated_time"> 05:17 AM CT, Oct. 29 </p> 
  <a href="https://www.wsj.com/articles/glasgow-expects-25-000-climate-summit-guests-it-has-just-15-000-hotel-rooms-11635517039">Glasgow Expects 25,000 Climate Summit Guests. It Has Just 15,000 Hotel Rooms.</a> WSJ: Visitors from 120 countries start arriving this weekend for the climate change meeting, but not everyone has found a place to stay; ‘most stressful’ 
- <p class="updated_time"> 05:06 AM CT, Oct. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59089381?at_medium=RSS&at_campaign=KARANGA">Kemerovo fire: Jail terms for bosses over Russian mall disaster</a> BBC: A leisure centre blaze in 2018 killed 60 people, most of them children, in a Siberian city. 
  <p class="updated_time"> 04:56 AM CT, Oct. 29 </p> 
  <a href="https://www.bbc.co.uk/news/uk-politics-59084086?at_medium=RSS&at_campaign=KARANGA">COP26: Has Boris Johnson got what it takes to get a deal?</a> BBC: The UN climate summit is a huge test of diplomacy for the UK prime minister, with considerable political risks. 
  <p class="updated_time"> 04:51 AM CT, Oct. 29 </p> 
@@ -177,8 +179,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/27/business/bj-novak-photo-public-domain-products.html">B.J. Novak’s Face Is on Products Worldwide. He’s Not Sure Why.</a> NYT: An image of the actor appears on an eclectic mix of products from China to Uruguay. “I am too amused to do anything about it,” he said on Instagram. 
  <p class="updated_time"> 04:41 PM CT, Oct. 27 </p> 
  <a href="https://www.nytimes.com/2021/10/27/world/canada/pope-indigenous-apology.html">Pope Expresses ‘Willingness’ to Visit Canada for Indigenous Reconciliation</a> NYT: A National Truth and Reconciliation Commission has called for a papal apology for abuses at church-run schools for Indigenous children. 
- <p class="updated_time"> 04:07 PM CT, Oct. 27 </p> 
- <a href="https://www.nytimes.com/2021/10/27/health/covid-pill-access-molnupiravir.html">Merck Will Share Formula for Its Covid Pill With Poor Countries</a> NYT: The company announced a licensing deal that will allow the drug, molnupiravir, to be made and sold cheaply in 105 developing nations. 
  <p class="updated_time"> 02:15 PM CT, Oct. 27 </p> 
  <a href="https://www.nytimes.com/2021/10/27/world/united-nations-coronavirus.html">U.N. Group Blames Unequal Vaccine Access for Bigger Global Economic Gap</a> NYT: Wealthier countries with high vaccination rates have had speedier economic recoveries than poorer countries with low vaccination rates, the International Labor Organization said. 
  <p class="updated_time"> 01:40 PM CT, Oct. 27 </p> 
@@ -198,10 +198,12 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:02 PM CT, Oct. 29 </p> 
+ <a href="https://www.nytimes.com/2021/10/29/us/politics/covid-vaccine-children.html">F.D.A. Clears Pfizer Coronavirus Vaccine for Young Children</a> NYT: The shot could bring relief to parents anxious about their children getting sick, though some experts worry that those most at risk may slip through the cracks. 
  <p class="updated_time"> 04:49 PM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/business/trump-spac-digital-world.html">Trump’s $300 Million SPAC Deal May Have Skirted Securities Laws</a> NYT: The former president began discussing a deal with a ‘blank check’ company early this year. Investors weren’t told. 
  <p class="updated_time"> 04:47 PM CT, Oct. 29 </p> 
- <a href="https://www.politico.com/news/2021/10/29/biden-agenda-stalled-again-chaos-517711">Confrontations, chaos, confusion: How Biden's agenda stalled yet again</a> Politico: It started when a top House progressive and the White House chief of staff got on the phone. It ended with sheer Democratic frustration. 
+ <a href="https://www.politico.com/news/2021/10/29/biden-agenda-stalled-again-chaos-517711">Jayapal warned Klain not to push an infrastructure vote. Then chaos ensued.</a> Politico: It started when a top House progressive and the White House chief of staff got on the phone. It ended with sheer Democratic frustration. 
  <p class="updated_time"> 04:35 PM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/28/us/politics/guantanamo-detainee-torture.html">For First Time in Public, a Detainee Describes Torture at C.I.A. Black Sites</a> NYT: In a sentencing hearing, Majid Khan, a Pakistani who lived in suburban Baltimore before joining Al Qaeda, detailed dungeonlike conditions and episodes of abuse. 
  <p class="updated_time"> 04:24 PM CT, Oct. 29 </p> 
@@ -212,8 +214,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/29/us/politics/immigration-remain-mexico.html">Another Attempt to End 'Remain in Mexico' Immigration Policy</a> NYT: A court ordered the administration in August to reinstate the program, which forces some migrants to wait in Mexico while their asylum cases are pending. 
  <p class="updated_time"> 03:19 PM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/upshot/democrats-preschool-child-care.html">What the Democrats’ Plan Would Do for Parents</a> NYT: Paid family leave was dropped. Public pre-K and subsidized child care remain, and could substantially lower the cost of raising children. 
- <p class="updated_time"> 03:16 PM CT, Oct. 29 </p> 
- <a href="https://www.nytimes.com/2021/10/29/us/politics/covid-vaccine-children.html">F.D.A. Clears Pfizer Coronavirus Vaccine for Young Children</a> NYT: Experts said the shot could bring relief to parents anxious about their children getting sick, though some worry that those most at risk may slip through the cracks. 
  <p class="updated_time"> 03:04 PM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/nyregion/letitia-james-governor.html">Letitia James Is Running for Governor of New York</a> NYT: The attorney general, who oversaw the inquiry into sexual harassment allegations against Andrew Cuomo, will challenge Gov. Kathy Hochul for the Democratic nomination. 
  <p class="updated_time"> 02:43 PM CT, Oct. 29 </p> 
