@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:01 PM CT, Oct. 29 </p> 
+ <p class="updated_time"> 03:27 PM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/article/day-of-the-dead-mexico.html">What Is Day of the Dead and How Is the Mexican Holiday Celebrated?</a> NYT: Popularized by Hollywood in films like “Coco” and the James Bond franchise, Día de Muertos is a centuries-old tradition that has roots in Indigenous culture. 
  <p class="updated_time"> 02:30 PM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/world/europe/uk-covid-travel-red-list.html">U.K. Drops Last 7 Countries From England's Covid 'Red List'</a> NYT: The easing of travel restrictions comes as another part of Britain warns that it may reintroduce some Covid rules. 
@@ -45,6 +45,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59015486?at_medium=RSS&at_campaign=KARANGA">Mike Ward: Comedian who mocked young disabled singer wins free speech case</a> BBC: The legal row over a comedy routine about a young disabled singer has ended after nearly a decade. 
  <p class="updated_time"> 11:23 AM CT, Oct. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59096297?at_medium=RSS&at_campaign=KARANGA">La Palma: 'Lava bomb' speeds down Cumbre Vieja volcano</a> BBC: Watch a ball of solidified molten rock rolling down from the Cumbre Vieja volcano. 
+ <p class="updated_time"> 11:15 AM CT, Oct. 29 </p> 
+ <a href="https://www.wsj.com/articles/china-gives-itself-wiggle-room-on-climate-change-goals-11635538164">China Adds Wiggle Room on Climate Change</a> WSJ: China’s plans for reducing its greenhouse-gas emissions—including recent revisions made amid a power crisis—have disappointed climate advocates who had hoped for an ambitious road map from Beijing. 
  <p class="updated_time"> 11:11 AM CT, Oct. 29 </p> 
  <a href="https://www.bbc.co.uk/news/uk-politics-59090943?at_medium=RSS&at_campaign=KARANGA">Greta Thunberg: Activist calls on banks to stop funding climate 'destruction'</a> BBC: The Swedish campaigner is in the UK to take part in protests ahead of next week's COP26 conference. 
  <p class="updated_time"> 10:55 AM CT, Oct. 29 </p> 
@@ -104,7 +106,7 @@ permalink: /projects/news/
  <p class="updated_time"> 02:09 AM CT, Oct. 29 </p> 
  <a href="https://www.wsj.com/articles/eurozone-economy-outpaces-u-s-china-but-tougher-times-lie-ahead-11635505779">Eurozone Economy Outpaces U.S., China</a> WSJ: The loosening of social restrictions and widespread vaccinations powered the region’s comeback from the Covid-19 pandemic, but supply-chain bottlenecks and rising prices are expected to hold growth back in the coming months. 
  <p class="updated_time"> 02:00 AM CT, Oct. 29 </p> 
- <a href="https://www.nytimes.com/2021/10/29/us/politics/biden-summit.html">‘America Is Back,’ Biden Declared in June. The World Is About to Test Him.</a> NYT: Arriving in Europe with an unfinished economic and environmental spending plan, the president will confront new challenges, some self-inflicted, at two major summits. 
+ <a href="https://www.nytimes.com/2021/10/29/us/politics/biden-g20-summit.html">Biden Declared 'America is Back' in June. The World Is About to Test Him.</a> NYT: Arriving in Europe with an unfinished economic and environmental spending plan, the president will confront new challenges, some self-inflicted, at two major summits. 
  <p class="updated_time"> 01:17 AM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/world/australia/saying-goodbye-to-melbournes-long-lockdown-again.html">Saying Goodbye to Melbourne’s Long Lockdown (Again)</a> NYT: It’s been a year and a day since the first time Melbourne reopened. Some things have changed. Some haven’t. 
  <p class="updated_time"> 01:01 AM CT, Oct. 29 </p> 
@@ -198,6 +200,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:27 PM CT, Oct. 29 </p> 
+ <a href="https://www.nytimes.com/2021/10/29/us/politics/immigration-remain-mexico.html">Another Attempt to End 'Remain in Mexico' Immigration Policy</a> NYT: A court ordered the administration in August to reinstate the program, which forces some migrants to wait in Mexico while their asylum cases are pending. 
  <p class="updated_time"> 03:19 PM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/upshot/democrats-preschool-child-care.html">What the Democrats’ Plan Would Do for Parents</a> NYT: Paid family leave was dropped. Public pre-K and subsidized child care remain, and could substantially lower the cost of raising children. 
  <p class="updated_time"> 03:16 PM CT, Oct. 29 </p> 
@@ -208,8 +212,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/29/arts/in-this-house-yard-signs.html">In This House, We List Our Beliefs in the Yard</a> NYT: How a lawn sign inspired by mom décor became a liberal mantra — and a symbol of a political battle over white womanhood. 
  <p class="updated_time"> 02:28 PM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/us/politics/adam-kinzinger-illinois-election.html">Adam Kinzinger, a Republican Trump Critic, Won’t Seek Re-election in House</a> NYT: Illinois Democrats eliminated Mr. Kinzinger’s district in a new congressional map. He was one of 10 House Republicans who voted to impeach former President Donald J. Trump. 
- <p class="updated_time"> 01:53 PM CT, Oct. 29 </p> 
- <a href="https://www.nytimes.com/2021/10/29/us/politics/immigration-remain-mexico.html">Another Attempt to End 'Remain in Mexico' Immigration Policy</a> NYT: A court ordered the administration in August to reinstate the program, which forces some migrants to wait in Mexico while their asylum cases are pending. 
  <p class="updated_time"> 01:53 PM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/28/us/politics/guantanamo-detainee-torture.html">For First Time in Public, a Detainee Describes Torture at C.I.A. Black Sites</a> NYT: In a sentencing hearing, Majid Khan, a Pakistani who lived in suburban Baltimore before joining Al Qaeda, detailed dungeonlike conditions and episodes of abuse. 
  <p class="updated_time"> 01:49 PM CT, Oct. 29 </p> 
@@ -237,7 +239,7 @@ permalink: /projects/news/
  <p class="updated_time"> 03:31 AM CT, Oct. 29 </p> 
  <a href="https://www.politico.com/news/2021/10/29/democrats-infrastructure-week-517487">Dems limp out of another stumble-ending month</a> Politico: It's a nightmare on Capitol Hill for the president's party, as October passes by without a deal. 
  <p class="updated_time"> 02:00 AM CT, Oct. 29 </p> 
- <a href="https://www.nytimes.com/2021/10/29/us/politics/biden-summit.html">‘America Is Back,’ Biden Declared in June. The World Is About to Test Him.</a> NYT: Arriving in Europe with an unfinished economic and environmental spending plan, the president will confront new challenges, some self-inflicted, at two major summits. 
+ <a href="https://www.nytimes.com/2021/10/29/us/politics/biden-g20-summit.html">Biden Declared 'America is Back' in June. The World Is About to Test Him.</a> NYT: Arriving in Europe with an unfinished economic and environmental spending plan, the president will confront new challenges, some self-inflicted, at two major summits. 
  <p class="updated_time"> 10:48 PM CT, Oct. 28 </p> 
  <a href="https://www.nytimes.com/2021/10/28/us/politics/supreme-court-oklahoma-executions.html">After Supreme Court Lifts Stay, Oklahoma Executes Inmate</a> NYT: The prisoner, John Marion Grant, convulsed and vomited as he was put to death by lethal injection. The court also cleared the way for another execution next month. 
  <p class="updated_time"> 09:05 PM CT, Oct. 28 </p> 
