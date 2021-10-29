@@ -198,10 +198,10 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:51 PM CT, Oct. 29 </p> 
+ <a href="https://www.nytimes.com/2021/10/29/us/politics/covid-vaccine-children.html">F.D.A. Clears Pfizer Coronavirus Vaccine for Young Children</a> NYT: Experts said the shot could bring relief to parents anxious about their children getting sick, though some worry that those most at risk may slip through the cracks. 
  <p class="updated_time"> 02:43 PM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/arts/in-this-house-yard-signs.html">In This House, We List Our Beliefs in the Yard</a> NYT: How a lawn sign inspired by mom décor became a liberal mantra — and a symbol of a political battle over white womanhood. 
- <p class="updated_time"> 02:29 PM CT, Oct. 29 </p> 
- <a href="https://www.nytimes.com/2021/10/29/us/politics/covid-vaccine-children.html">F.D.A. Clears Pfizer Coronavirus Vaccine for Young Children</a> NYT: Experts said the shot could bring relief to parents anxious about their children getting sick, though some worry that those most at risk may slip through the cracks. 
  <p class="updated_time"> 02:28 PM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/us/politics/adam-kinzinger-illinois-election.html">Adam Kinzinger, a Republican Trump Critic, Won’t Seek Re-election in House</a> NYT: Illinois Democrats eliminated Mr. Kinzinger’s district in a new congressional map. He was one of 10 House Republicans who voted to impeach former President Donald J. Trump. 
  <p class="updated_time"> 01:53 PM CT, Oct. 29 </p> 
