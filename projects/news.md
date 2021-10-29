@@ -178,10 +178,10 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:26 PM CT, Oct. 28 </p> 
+ <a href="https://www.nytimes.com/2021/10/28/us/politics/supreme-court-oklahoma-executions.html">After Supreme Court Lifts Stay, Oklahoma Executes Inmate</a> NYT: The inmate, John Marion Grant, convulsed and vomited as he was put to death. The court also cleared the way for another execution next month. 
  <p class="updated_time"> 10:20 PM CT, Oct. 28 </p> 
  <a href="https://www.nytimes.com/2021/10/28/us/politics/guantanamo-detainee-torture.html">For First Time in Public, a Detainee Describes Torture at C.I.A. Black Sites</a> NYT: In a sentencing hearing, Majid Khan, a Pakistani who lived in suburban Baltimore before joining Al Qaeda, detailed dungeonlike conditions and episodes of abuse. 
- <p class="updated_time"> 09:52 PM CT, Oct. 28 </p> 
- <a href="https://www.nytimes.com/2021/10/28/us/politics/supreme-court-oklahoma-executions.html">After Supreme Court Lifts Stay, Oklahoma Executes Inmate</a> NYT: The inmate, John Marion Grant, convulsed and vomited as he was put to death. The court also cleared the way for another execution next month. 
  <p class="updated_time"> 09:05 PM CT, Oct. 28 </p> 
  <a href="https://www.nytimes.com/2021/10/28/us/politics/biden-immigration.html">An Immigration Overhaul is Part of Biden's Spending Framework</a> NYT: Included in the plan is a proposal to protect millions of undocumented immigrants who are longtime residents of the country from deportation. 
  <p class="updated_time"> 09:05 PM CT, Oct. 28 </p> 
