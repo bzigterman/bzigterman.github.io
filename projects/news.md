@@ -7,8 +7,10 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:34 AM CT, Oct. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59085806?at_medium=RSS&at_campaign=KARANGA">Biden lands in Europe ahead of COP26 climate summit</a> BBC: The US president arrives as his signature climate proposals are yet to pass through Congress. 
  <p class="updated_time"> 04:22 AM CT, Oct. 29 </p> 
- <a href="https://www.bbc.co.uk/news/business-59059097?at_medium=RSS&at_campaign=KARANGA">Squid Game cryptocurrency soars 2,300% in first few days</a> BBC: The popular Netflix show has now spawned a cryptocurrency - and it's soaring. 
+ <a href="https://www.bbc.co.uk/news/business-59059097?at_medium=RSS&at_campaign=KARANGA">Squid Game cryptocurrency rockets in first few days of trading</a> BBC: The popular Netflix show has now spawned a cryptocurrency - and it's soaring. 
  <p class="updated_time"> 04:00 AM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/world/europe/roma-hip-hop-band-serbia-pretty-loud.html">‘Different Way of Fighting’: Lyrics Are the Weapons of All-Women Roma Band</a> NYT: Many Roma women face pressures to marry young and take on traditional gender roles. Pretty Loud, a hip-hop group from Serbia, wants girls to decide for themselves. 
  <p class="updated_time"> 03:06 AM CT, Oct. 29 </p> 
@@ -25,8 +27,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/29/world/australia/saying-goodbye-to-melbournes-long-lockdown-again.html">Saying Goodbye to Melbourne’s Long Lockdown (Again)</a> NYT: It’s been a year and a day since the first time Melbourne reopened. Some things have changed. Some haven’t. 
  <p class="updated_time"> 01:01 AM CT, Oct. 29 </p> 
  <a href="https://www.bbc.co.uk/news/uk-59087309?at_medium=RSS&at_campaign=KARANGA">Gordon Brown calls for richer countries to airlift surplus Covid vaccines</a> BBC: Former UK prime minister Gordon Brown has called for richer countries to airlift surplus Covid vaccines. 
- <p class="updated_time"> 01:00 AM CT, Oct. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59085806?at_medium=RSS&at_campaign=KARANGA">Biden lands in Europe with domestic spending plans in limbo</a> BBC: The US president is attending two summits, while his $2.75tn (£2tn) spending plans are up in the air. 
  <p class="updated_time"> 12:00 AM CT, Oct. 29 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59053809?at_medium=RSS&at_campaign=KARANGA">Arnold Schwarzenegger calls leaders 'liars' over climate</a> BBC: The actor and former governor of California speaks to BBC radio 4 ahead of the COP26 climate summit. 
  <p class="updated_time"> 11:31 PM CT, Oct. 28 </p> 
