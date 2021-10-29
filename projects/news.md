@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:45 PM CT, Oct. 28 </p> 
+ <a href="https://www.nytimes.com/2021/10/26/world/europe/celine-manuscripts-france.html">Céline's Newly Unearthed Work Causes a Stir in France</a> NYT: A legal battle is raging over manuscripts written by the antisemitic writer Louis-Ferdinand Céline that disappeared almost eight decades ago. 
+ <p class="updated_time"> 08:11 PM CT, Oct. 28 </p> 
+ <a href="https://www.nytimes.com/2021/10/26/world/europe/queen-elizabeth-cop26-summit.html">Queen Elizabeth Will Skip Climate Summit in Glasgow</a> NYT: The 95-year-old queen, after 70 years on the throne, is the oldest and longest-serving monarch in British history. 
  <p class="updated_time"> 07:27 PM CT, Oct. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59073105?at_medium=RSS&at_campaign=KARANGA">Indonesia calls for vaccine equity after Covid toll</a> BBC: In an exclusive interview, President Joko Widodo urges rich countries to share their vaccines. 
  <p class="updated_time"> 07:26 PM CT, Oct. 28 </p> 
@@ -87,6 +91,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59075823?at_medium=RSS&at_campaign=KARANGA">No Squid Game Halloween costumes, New York schools say</a> BBC: The primary schools have warned parents about the Netflix series' "violent messages". 
  <p class="updated_time"> 04:11 AM CT, Oct. 28 </p> 
  <a href="https://www.wsj.com/articles/china-sticks-to-covid-zero-policies-despite-rising-pressure-to-ease-restrictions-11635426664">China Sticks to Covid-Zero Policies, Despite Rising Pressure to Ease Restrictions</a> WSJ: Businesses have urged Beijing to implement a plan to end the strict pandemic regime, warning of the increasing economic toll, as much of the world has begun opening borders. 
+ <p class="updated_time"> 03:41 AM CT, Oct. 28 </p> 
+ <a href="https://www.nytimes.com/2021/10/28/movies/french-dispatch-paris.html">Wes Anderson’s Dream of France, and the Paris I Remember</a> NYT: With “The French Dispatch,” the director’s latest, yet another American artist falls under the country’s spell. The Times’s Paris bureau chief recalls when the same thing happened to him. 
  <p class="updated_time"> 03:36 AM CT, Oct. 28 </p> 
  <a href="https://www.nytimes.com/2021/10/27/world/australia/free-land.html">Hellishly Hot Tiny Town Offers ‘Free’ Land. Hundreds of Calls Came In.</a> NYT: The town in Australia’s outback, where the temperature can hit 113 degrees Fahrenheit, drew global inquiries when it offered “free” land in a bid to expand its population. 
  <p class="updated_time"> 02:51 AM CT, Oct. 28 </p> 
@@ -109,8 +115,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/27/world/canada/pope-indigenous-apology.html">Pope Expresses ‘Willingness’ to Visit Canada for Indigenous Reconciliation</a> NYT: A National Truth and Reconciliation Commission has called for a papal apology for abuses at church-run schools for Indigenous children. 
  <p class="updated_time"> 04:07 PM CT, Oct. 27 </p> 
  <a href="https://www.nytimes.com/2021/10/27/health/covid-pill-access-molnupiravir.html">Merck Will Share Formula for Its Covid Pill With Poor Countries</a> NYT: The company announced a licensing deal that will allow the drug, molnupiravir, to be made and sold cheaply in 105 developing nations. 
- <p class="updated_time"> 02:29 PM CT, Oct. 27 </p> 
- <a href="https://www.nytimes.com/2021/10/26/world/europe/queen-elizabeth-cop26-summit.html">Queen Elizabeth Will Skip Climate Summit in Glasgow</a> NYT: The 95-year-old queen, after 70 years on the throne, is the oldest and longest-serving monarch in British history. 
  <p class="updated_time"> 02:24 PM CT, Oct. 27 </p> 
  <a href="https://www.nytimes.com/2021/10/26/sports/alex-honnold-mother-el-capitan.html">She Climbed Yosemite's El Capitan to Celebrate Turning 70</a> NYT: Dierdre Wolownick, whose son, Alex Honnold, is one of the world’s top rock climbers, ascended Yosemite’s El Capitan to celebrate her 70th birthday. 
  <p class="updated_time"> 02:15 PM CT, Oct. 27 </p> 
@@ -119,8 +123,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/27/world/middleeast/iran-nuclear-talks.html">Iran Will Rejoin Nuclear Talks, Top Negotiator Says</a> NYT: Negotiations on reviving the 2015 nuclear accord are to resume in November, but it is unclear if the United States will take part in them. 
  <p class="updated_time"> 12:54 PM CT, Oct. 27 </p> 
  <a href="https://www.nytimes.com/2021/10/27/world/europe/viktor-bryukhanov-dead.html">Viktor Bryukhanov, Blamed for the Chernobyl Disaster, Dies at 85</a> NYT: In charge of the plant in Ukraine, he was held responsible for the world’s worst nuclear-power disaster and imprisoned. 
- <p class="updated_time"> 12:50 PM CT, Oct. 27 </p> 
- <a href="https://www.nytimes.com/2021/10/26/science/drosophila-fly-brain-connectome.html">Why Scientists Have Spent Years Mapping This Creature’s Brain</a> NYT: An enormous new analysis of the wiring of the fruit fly brain is a milestone for the young field of modern connectomics, researchers say. 
  <p class="updated_time"> 12:09 PM CT, Oct. 27 </p> 
  <a href="https://www.nytimes.com/2021/10/27/arts/design/petrit-halilaj-tate-kosovo-war.html">Wonders, and Horrors, Drawn From Boyhood in a War Zone</a> NYT: Petrit Halilaj became one of Kosovo’s most acclaimed artists with work that reflects on his country’s past. Now, he’s getting personal. 
  <p class="updated_time"> 10:22 AM CT, Oct. 27 </p> 
@@ -135,8 +137,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/26/world/africa/sudan-coup-protests.html">Sudan’s Prime Minister Was Detained at Home of General Who Led Coup</a> NYT: Protesters demanding civilian rule flooded the streets of major cities a day after a military takeover. Many offices and businesses shut, answering a call for civil disobediences. 
  <p class="updated_time"> 10:08 PM CT, Oct. 26 </p> 
  <a href="https://www.nytimes.com/2021/10/26/world/europe/france-murder-trial-holocaust-survivor-mireille-knoll.html">Trial in Holocaust Survivor's Killing Begins in France</a> NYT: Mireille Knoll, 85, was killed in 2018 in what prosecutors and the authorities called a hate crime. Decades earlier, she had escaped a notorious roundup of Jews. 
- <p class="updated_time"> 08:21 PM CT, Oct. 26 </p> 
- <a href="https://www.nytimes.com/2021/10/26/world/europe/celine-manuscripts-france.html">Céline's Newly Unearthed Work Causes a Stir in France</a> NYT: A legal battle is raging over manuscripts written by the antisemitic writer Louis-Ferdinand Céline that disappeared almost eight decades ago. 
  <p class="updated_time"> 07:00 PM CT, Oct. 26 </p> 
  <a href="https://www.nytimes.com/2021/10/26/world/asia/pakistan-cricket-victory-india.html">2 Days After Cricket Victory Over India, Pakistan Still Feels the High</a> NYT: The nation is experiencing a much-needed burst of joy after it unexpectedly beat India in a cricket match in Dubai. 
  <p class="updated_time"> 06:41 PM CT, Oct. 26 </p> 
@@ -178,8 +178,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
- <p class="updated_time"> 07:54 PM CT, Oct. 28 </p> 
- <a href="https://www.nytimes.com/2021/10/28/us/politics/family-separation-trump-policy-compensation.html">Families Separated Under Trump Policy Could Get Compensated</a> NYT: After the Trump administration separated migrant parents from children at the southern border, President Biden pledged to make it up to the families. 
+ <p class="updated_time"> 08:44 PM CT, Oct. 28 </p> 
+ <a href="https://www.nytimes.com/2021/10/28/us/politics/trump-family-separation-border.html">Families Separated at Border Under Trump Policy May Each Receive Up to $450,000</a> NYT: After the Trump administration separated migrant parents from children at the southern border, President Biden pledged to make it up to the families. 
  <p class="updated_time"> 07:34 PM CT, Oct. 28 </p> 
  <a href="https://www.nytimes.com/2021/10/28/climate/climate-change-framework-bill.html">Climate Change Became the Largest Part of Biden Spending Bill</a> NYT: As paid family leave and other priorities were taken out of the president’s plan, the largest piece became a $555 billion plan to fight climate change. 
  <p class="updated_time"> 07:20 PM CT, Oct. 28 </p> 
@@ -187,7 +187,7 @@ permalink: /projects/news/
  <p class="updated_time"> 07:08 PM CT, Oct. 28 </p> 
  <a href="https://www.nytimes.com/2021/10/28/us/politics/california-ports-supply-chain.html">Program to Lend Billions to Aid California’s Supply-Chain Infrastructure</a> NYT: The Transportation Department and the state are teaming up on the program, which aims to prevent a repeat of the supply-chain crisis by bolstering ports and other sources of bottlenecks. 
  <p class="updated_time"> 06:53 PM CT, Oct. 28 </p> 
- <a href="https://www.nytimes.com/2021/10/28/us/politics/biden-democrats-spending-bill.html">Biden Implores Democrats to Support His Transformative Agenda</a> NYT: “The House and Senate majorities and my presidency will be determined by what happens in the next week,” President Biden told lawmakers on Thursday. 
+ <a href="https://www.nytimes.com/2021/10/28/us/politics/infrastructure-bill-spending-plan.html">The President's Gamble: Biden Implores Democrats to Support His Agenda</a> NYT: “The House and Senate majorities and my presidency will be determined by what happens in the next week,” President Biden told lawmakers on Thursday. 
  <p class="updated_time"> 06:50 PM CT, Oct. 28 </p> 
  <a href="https://www.nytimes.com/2021/10/27/us/politics/democrats-reconciliation-bill-negotiations.html">Racing the Clock, Democrats Grasp for a Deal on Biden’s Agenda</a> NYT: Democrats struggled to bridge crucial differences over what to include in and how to pay for their social policy and climate plan. 
  <p class="updated_time"> 06:50 PM CT, Oct. 28 </p> 
