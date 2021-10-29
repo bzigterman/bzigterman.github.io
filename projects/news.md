@@ -7,6 +7,16 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:52 AM CT, Oct. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59085806?at_medium=RSS&at_campaign=KARANGA">Biden: We were clumsy over France submarine row</a> BBC: The US president meets his French counterpart in the wake of a diplomatic row over a submarine deal. 
+ <p class="updated_time"> 11:52 AM CT, Oct. 29 </p> 
+ <a href="https://www.nytimes.com/2021/10/29/world/europe/biden-macron-submarine-deal.html">Biden Calls Handling of Australia Deal That Angered France 'Clumsy'</a> NYT: “I had been under the impression long before that France had been informed,” President Biden said. 
+ <p class="updated_time"> 11:48 AM CT, Oct. 29 </p> 
+ <a href="https://www.nytimes.com/2021/10/28/world/europe/france-detains-british-boat.html">France Detains British Boat as a Fight Over Fishing Rights Escalates</a> NYT: The British government summoned France’s ambassador for talks over the incident, the latest sign of cross-Channel tension between the two countries. 
+ <p class="updated_time"> 11:47 AM CT, Oct. 29 </p> 
+ <a href="https://www.nytimes.com/2021/10/29/world/europe/a-dispute-between-the-uk-and-france-over-fishing-rights-simmers-as-the-g20-summit-approaches.html">A dispute between the U.K. and France over fishing rights simmers as the G20 summit approaches.</a> NYT: The matter is expected to be a topic of discussion for the nations’ leaders this weekend. 
+ <p class="updated_time"> 11:47 AM CT, Oct. 29 </p> 
+ <a href="https://www.nytimes.com/2021/10/28/world/europe/pope-biden-catholic-church-rift.html">Meeting of Francis and Biden Will Highlight Rift With U.S. Bishops</a> NYT: The pope and president, who will meet at the Vatican on Friday, are common targets of conservative American bishops seeking to undercut them. 
  <p class="updated_time"> 11:38 AM CT, Oct. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59095026?at_medium=RSS&at_campaign=KARANGA">Sicily floods: Stay at home warning as Cyclone Apollo hits</a> BBC: Streets are flooded and train lines blocked as the Italian island of Sicily is hit again by storms. 
  <p class="updated_time"> 11:31 AM CT, Oct. 29 </p> 
@@ -23,8 +33,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/29/world/europe/appeal-julian-assange-extradition.html">British Court Hears Appeal in Julian Assange Extradition Case</a> NYT: The outcome is not expected to be known for weeks, but the hearing was the latest step in a continuing attempt to extradite the WikiLeaks founder to the U.S. to face espionage charges. 
  <p class="updated_time"> 10:54 AM CT, Oct. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59090072?at_medium=RSS&at_campaign=KARANGA">Puneeth Rajkumar: Indian film star dies age 46</a> BBC: The star of Kannada cinema featured in more than 29 films during his career. 
- <p class="updated_time"> 10:06 AM CT, Oct. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59085806?at_medium=RSS&at_campaign=KARANGA">COP26: Biden on diplomatic drive ahead of climate summit</a> BBC: The US president met the pope in the first of a series of diplomatic meetings ahead of COP26. 
+ <p class="updated_time"> 10:53 AM CT, Oct. 29 </p> 
+ <a href="https://www.nytimes.com/2021/10/29/world/europe/biden-pope-communion.html">Critics Try to Pressure Francis in Battle Over Biden and Communion</a> NYT: Some American prelates wanted the pope to challenge the president over his support for abortion rights. A U.S. bishop and cardinal put out pointed messages before his meeting with Francis. 
  <p class="updated_time"> 10:00 AM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/world/europe/spanish-writer-carmen-mola-true-identity.html">Behind a Top Female Name in Spanish Crime Fiction: Three Men</a> NYT: Carmen Mola, a novelist publishing under a pen name, seemed to shatter a glass ceiling in the world of Spanish books. But when the author’s true identity was revealed while claiming a big prize, it was a shock. 
  <p class="updated_time"> 09:47 AM CT, Oct. 29 </p> 
@@ -35,9 +45,7 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/29/us/hurricane-storm-season.html">Is Hurricane Season Still Going? You Bet.</a> NYT: There hasn’t been a named storm in the Atlantic Ocean since early October, but about a month remains in the hurricane season. “Don’t raid your hurricane supplies yet,” said one meteorologist. 
  <p class="updated_time"> 08:37 AM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/world/asia/pope-francis-modi-india.html">Pope Francis to Meet India's Narendra Modi for the First Time</a> NYT: The meeting comes amid increasing attacks on Christians in the South Asian nation, which is home to one of Asia’s oldest Christian populations. 
- <p class="updated_time"> 08:14 AM CT, Oct. 29 </p> 
- <a href="https://www.nytimes.com/2021/10/29/world/europe/a-dispute-between-the-uk-and-france-over-fishing-rights-simmers-as-the-g20-summit-approaches.html">A dispute between the U.K. and France over fishing rights simmers as the G20 summit approaches.</a> NYT: The matter is expected to be a topic of discussion for the nations’ leaders this weekend. 
- <p class="updated_time"> 07:39 AM CT, Oct. 29 </p> 
+ <p class="updated_time"> 07:51 AM CT, Oct. 29 </p> 
  <a href="https://www.wsj.com/articles/biden-pope-francis-meet-amid-controversy-over-abortion-11635502337">Biden Says Pope Told Him He Is a Good Catholic</a> WSJ: President Biden said the pope told him to continue receiving Communion despite criticism from U.S. bishops over the president’s stance on abortion. 
  <p class="updated_time"> 07:27 AM CT, Oct. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-59090067?at_medium=RSS&at_campaign=KARANGA">Meta: Facebook's new name ridiculed by Hebrew speakers</a> BBC: The social media giant joins a number of companies that have fallen foul of translation blunders. 
@@ -55,8 +63,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/29/world/europe/will-the-vatican-grant-press-access-to-the-biden-pope-meeting-so-far-the-answer-is-no.html">Will the Vatican grant press access to the Biden-pope meeting? So far, the answer is no.</a> NYT: NA 
  <p class="updated_time"> 06:46 AM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/28/movies/french-dispatch-paris.html">Wes Anderson’s Dream of France, and the Paris I Remember</a> NYT: With “The French Dispatch,” the director’s latest, yet another American artist falls under the country’s spell. The Times’s Paris bureau chief recalls when the same thing happened to him. 
- <p class="updated_time"> 05:42 AM CT, Oct. 29 </p> 
- <a href="https://www.nytimes.com/2021/10/28/world/europe/pope-biden-catholic-church-rift.html">Meeting of Francis and Biden Will Highlight Rift With U.S. Bishops</a> NYT: The pope and president, who will meet at the Vatican on Friday, are common targets of conservative American bishops seeking to undercut them. 
  <p class="updated_time"> 05:38 AM CT, Oct. 29 </p> 
  <a href="https://www.wsj.com/articles/g-20-climate-talks-threatened-by-clash-over-coal-ahead-of-cop26-11635491696">G-20 Climate Talks Threatened by Clash Over Coal</a> WSJ: Leaders from the Group of 20 major economies are split over phasing out coal and limiting global warming to 1.5 degrees Celsius, officials said, throwing into doubt whether ambitious climate change targets can be hit. 
  <p class="updated_time"> 05:37 AM CT, Oct. 29 </p> 
@@ -101,8 +107,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/27/world/australia/free-land.html">What Happened When a Hellishly Hot Tiny Town Offered ‘Free’ Land</a> NYT: The town in Australia’s outback, where the temperature can hit 113 degrees Fahrenheit, drew hundreds of global inquiries when it put out the call in a bid to expand its population. 
  <p class="updated_time"> 08:45 PM CT, Oct. 28 </p> 
  <a href="https://www.bbc.co.uk/news/technology-59072745?at_medium=RSS&at_campaign=KARANGA">Inside the controversial US gunshot-detection firm</a> BBC: BBC News has been given access to ShotSpotter, the controversial US technology company that detects gunshots. 
- <p class="updated_time"> 08:11 PM CT, Oct. 28 </p> 
- <a href="https://www.nytimes.com/2021/10/26/world/europe/queen-elizabeth-cop26-summit.html">Queen Elizabeth Will Skip Climate Summit in Glasgow</a> NYT: The 95-year-old queen, after 70 years on the throne, is the oldest and longest-serving monarch in British history. 
  <p class="updated_time"> 07:26 PM CT, Oct. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59080871?at_medium=RSS&at_campaign=KARANGA">The Taliban’s secretive war against IS</a> BBC: Jalalabad is the frontline in murky and bloody battle between two groups, and the death toll is rising. 
  <p class="updated_time"> 07:25 PM CT, Oct. 28 </p> 
@@ -117,8 +121,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/business-58815695?at_medium=RSS&at_campaign=KARANGA">Why the vending machine is making a comeback</a> BBC: From milkshakes to pizzas, new vending machines are selling an expanding range of products. 
  <p class="updated_time"> 06:02 PM CT, Oct. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59073986?at_medium=RSS&at_campaign=KARANGA">Japan election: How the elderly keep the ruling party in power</a> BBC: As Sunday's polls approach, we look at why it is so difficult to defeat the ruling party. 
- <p class="updated_time"> 05:26 PM CT, Oct. 28 </p> 
- <a href="https://www.nytimes.com/2021/10/28/world/europe/france-detains-british-boat.html">France Detains British Boat as a Fight Over Fishing Rights Escalates</a> NYT: The British government summoned France’s ambassador for talks over the incident, the latest sign of cross-Channel tension between the two countries. 
  <p class="updated_time"> 04:25 PM CT, Oct. 28 </p> 
  <a href="https://www.nytimes.com/2021/10/28/world/meatpacking-workers-covid-cases-deaths.html">Covid Hit U.S. Meat Plants Far Harder Than Thought, Report Says</a> NYT: The industry had three times as many Covid infections in the pandemic’s early months as previously believed, a select committee says. 
  <p class="updated_time"> 03:09 PM CT, Oct. 28 </p> 
@@ -177,8 +179,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/27/books/abdulrazak-gurnah-nobel-prize-literature-afterlives.html">He Won the Nobel. Why Are His Books So Hard to Find?</a> NYT: After Abdulrazak Gurnah was awarded this year’s Nobel Prize in Literature, he instantly gained a wider international audience, something publishers are now scrambling to accommodate. 
  <p class="updated_time"> 04:00 AM CT, Oct. 27 </p> 
  <a href="https://www.nytimes.com/2021/10/27/us/politics/global-minimum-tax-deal.html">Pastries and Persuasion: How a Global Tax Deal Got Done</a> NYT: Over Zoom calls from basements and a breakfast in Brussels, faltering negotiations to remake the world’s tax architecture were revived. 
- <p class="updated_time"> 06:41 PM CT, Oct. 26 </p> 
- <a href="https://www.nytimes.com/2021/10/26/world/canada/justin-trudeau-cabinet.html">Justin Trudeau Introduces 'Reinvigorated' Cabinet</a> NYT: The Canadian prime minister failed to gain a majority in Parliament last month but acted otherwise when unveiling his new cabinet. 
  <p class="updated_time"> 07:12 PM CT, Oct. 25 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-58171814?at_medium=RSS&at_campaign=KARANGA">Climate change: Four things you can do about your carbon footprint</a> BBC: Small changes to our lifestyles and choices could limit our personal carbon footprint. 
  <p class="updated_time"> 11:10 AM CT, Oct. 25 </p> 
@@ -190,6 +190,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:01 PM CT, Oct. 29 </p> 
+ <a href="https://www.nytimes.com/2021/10/29/us/politics/big-hires-big-money-and-a-dc-blitz-a-bold-plan-to-dominate-crypto.html">Big Hires, Big Money and a D.C. Blitz: A Bold Plan to Dominate Crypto</a> NYT: The Silicon Valley firm Andreessen Horowitz, whose founders played big roles in the development of the internet, aims to own a huge part of the digital currency world — and set the rules for it, too. 
  <p class="updated_time"> 11:34 AM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/us/politics/adam-kinzinger-illinois-election.html">Adam Kinzinger, a Republican Trump Critic, Won’t Seek Re-election in House</a> NYT: Illinois Democrats eliminated Mr. Kinzinger’s district in a new congressional map. He was one of 10 House Republicans who voted to impeach former President Donald J. Trump. 
  <p class="updated_time"> 11:09 AM CT, Oct. 29 </p> 
@@ -232,8 +234,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/28/us/politics/california-ports-supply-chain.html">Program to Lend Billions to Aid California’s Supply-Chain Infrastructure</a> NYT: The Transportation Department and the state are teaming up on the program, which aims to prevent a repeat of the supply-chain crisis by bolstering ports and other sources of bottlenecks. 
  <p class="updated_time"> 06:50 PM CT, Oct. 28 </p> 
  <a href="https://www.nytimes.com/2021/10/28/us/politics/biden-tax-plan-increases.html">How Biden’s $2 Trillion in Tax Increases Target Companies and the Rich</a> NYT: The proposal to fund the president’s sprawling spending plan mostly turns up the dial on more conventional tax policies, while trying to curb maneuvers that allow tax avoidance. 
- <p class="updated_time"> 06:49 PM CT, Oct. 28 </p> 
- <a href="https://www.nytimes.com/2021/10/28/us/politics/spending-plan-bill-biden.html">Here's What's in Biden's $1.85 Trillion Spending Plan</a> NYT: White House officials refused to say if all holdout Democrats in Congress had expressed support for the framework. 
  <p class="updated_time"> 06:49 PM CT, Oct. 28 </p> 
  <a href="https://www.nytimes.com/2021/10/28/upshot/biden-taxes-billionaires-millionaires.html">Billionaires Beat the Working Rich in Biden's Spending Bill </a> NYT: One by one, tax proposals that would have slowed dynastic wealth have been tossed from the agreement. 
  <p class="updated_time"> 06:45 PM CT, Oct. 28 </p> 
