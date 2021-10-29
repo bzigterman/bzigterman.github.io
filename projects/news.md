@@ -7,8 +7,26 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:45 PM CT, Oct. 28 </p> 
+ <a href="https://www.nytimes.com/2021/10/26/world/europe/celine-manuscripts-france.html">Céline's Newly Unearthed Work Causes a Stir in France</a> NYT: A legal battle is raging over manuscripts written by the antisemitic writer Louis-Ferdinand Céline that disappeared almost eight decades ago. 
+ <p class="updated_time"> 08:11 PM CT, Oct. 28 </p> 
+ <a href="https://www.nytimes.com/2021/10/26/world/europe/queen-elizabeth-cop26-summit.html">Queen Elizabeth Will Skip Climate Summit in Glasgow</a> NYT: The 95-year-old queen, after 70 years on the throne, is the oldest and longest-serving monarch in British history. 
+ <p class="updated_time"> 07:27 PM CT, Oct. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59073105?at_medium=RSS&at_campaign=KARANGA">Indonesia calls for vaccine equity after Covid toll</a> BBC: In an exclusive interview, President Joko Widodo urges rich countries to share their vaccines. 
+ <p class="updated_time"> 07:26 PM CT, Oct. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59080871?at_medium=RSS&at_campaign=KARANGA">The Taliban’s secretive war against IS</a> BBC: Jalalabad is the frontline in murky and bloody battle between two groups, and the death toll is rising. 
+ <p class="updated_time"> 07:25 PM CT, Oct. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-58992093?at_medium=RSS&at_campaign=KARANGA">Europe's floods: Lessons from German tragedy</a> BBC: Recriminations have followed the July floods and the alleged failure to alert residents. 
+ <p class="updated_time"> 07:25 PM CT, Oct. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/59048827?at_medium=RSS&at_campaign=KARANGA">Ethiopia food crisis: Why does PM have a problem with wheat aid?</a> BBC: Ethiopia has been increasing its wheat production, but this is yet to catch up with growing wheat demand. 
+ <p class="updated_time"> 07:24 PM CT, Oct. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59075044?at_medium=RSS&at_campaign=KARANGA">Mikheil Saakashvili: Hunger-striking ex-leader rattles Georgia from jail</a> BBC: Mikheil Saakashvili was president, but is now in prison as the government tries to silence him. 
+ <p class="updated_time"> 06:56 PM CT, Oct. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59085935?at_medium=RSS&at_campaign=KARANGA">Two US neo-Nazis from 'the Base' jailed for terrorist plot</a> BBC: The sentence comes as part of a federal government crackdown on violent white nationalists. 
  <p class="updated_time"> 06:30 PM CT, Oct. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59083395?at_medium=RSS&at_campaign=KARANGA">Climate change: Major US oil companies face grilling by Congress</a> BBC: The hearing in Congress marks the first time oil executives have answered climate questions under oath 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59083395?at_medium=RSS&at_campaign=KARANGA">Climate change: Major US oil companies face grilling by Congress</a> BBC: The hearing in Congress marks the first time top oil executives have answered questions under oath 
+ <p class="updated_time"> 06:08 PM CT, Oct. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/business-58815695?at_medium=RSS&at_campaign=KARANGA">Why the vending machine is making a comeback</a> BBC: From milkshakes to pizzas, new vending machines are selling an expanding range of products. 
  <p class="updated_time"> 06:02 PM CT, Oct. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59073986?at_medium=RSS&at_campaign=KARANGA">Japan election: Why the ruling party keeps winning</a> BBC: As Sunday's polls approach, we look at why it is so difficult to defeat the ruling party. 
  <p class="updated_time"> 05:26 PM CT, Oct. 28 </p> 
@@ -39,8 +57,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/28/world/europe/brescia-italy-winged-victory.html">After Time of ‘Real Terror,’ City’s Resilience Is Symbolized in Statue</a> NYT: Brescia, Italy, was one of the first Western cities devastated by the pandemic. It has adopted a famed ancient statue, “Winged Victory,” as the emblem of its recovery — and a prod for visits. 
  <p class="updated_time"> 11:15 AM CT, Oct. 28 </p> 
  <a href="https://www.nytimes.com/2021/10/27/world/asia/japan-election-communist-party.html">Japan’s Communists Are Hardly Radical, but Make a Handy Election Target</a> NYT: They have minimal support in polls. But by teaming up with other opposition parties for the first time, they have been made a boogeyman by the unpopular party in power. 
- <p class="updated_time"> 10:42 AM CT, Oct. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-58973334?at_medium=RSS&at_campaign=KARANGA">Covid passes set to stay as Europe heads for winter</a> BBC: There have been protests but much of Europe has accepted the QR codes as a means of extending freedoms. 
  <p class="updated_time"> 10:30 AM CT, Oct. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-59082112?at_medium=RSS&at_campaign=KARANGA">French and Australian leaders hold first talks after submarine row</a> BBC: French President Macron tells Australian Prime Minister Morrison the relation of trust is now broken. 
  <p class="updated_time"> 10:28 AM CT, Oct. 28 </p> 
@@ -63,8 +79,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-middle-east-59075486?at_medium=RSS&at_campaign=KARANGA">Ali al-Nimr: Saudi child protester who faced death penalty released</a> BBC: Ali al-Nimr, who was arrested when he was 17, was originally sentenced to death by beheading. 
  <p class="updated_time"> 05:59 AM CT, Oct. 28 </p> 
  <a href="https://www.wsj.com/articles/indias-missile-test-seen-as-warning-to-china-after-breakdown-in-border-talks-11635433146">India's Missile Test Seen as Warning to China After Breakdown in Border Talks</a> WSJ: Security experts said the launch of the Agni-5 missile, the only one in India’s arsenal capable of reaching Beijing, was a pointed reminder to China that the South Asian nation has the firepower to fight back if border tensions flare up again. 
- <p class="updated_time"> 05:52 AM CT, Oct. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-59077086?at_medium=RSS&at_campaign=KARANGA">Hundreds of sea turtles wash up dead in Mexico</a> BBC: Scientists think the turtles may have become tangled in abandoned fishing nets and drowned. 
  <p class="updated_time"> 05:26 AM CT, Oct. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59075793?at_medium=RSS&at_campaign=KARANGA">British fishing trawler detained by French authorities</a> BBC: Two British ships caught up in post-Brexit fishing rights row in French waters. 
  <p class="updated_time"> 05:12 AM CT, Oct. 28 </p> 
@@ -77,10 +91,10 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59075823?at_medium=RSS&at_campaign=KARANGA">No Squid Game Halloween costumes, New York schools say</a> BBC: The primary schools have warned parents about the Netflix series' "violent messages". 
  <p class="updated_time"> 04:11 AM CT, Oct. 28 </p> 
  <a href="https://www.wsj.com/articles/china-sticks-to-covid-zero-policies-despite-rising-pressure-to-ease-restrictions-11635426664">China Sticks to Covid-Zero Policies, Despite Rising Pressure to Ease Restrictions</a> WSJ: Businesses have urged Beijing to implement a plan to end the strict pandemic regime, warning of the increasing economic toll, as much of the world has begun opening borders. 
+ <p class="updated_time"> 03:41 AM CT, Oct. 28 </p> 
+ <a href="https://www.nytimes.com/2021/10/28/movies/french-dispatch-paris.html">Wes Anderson’s Dream of France, and the Paris I Remember</a> NYT: With “The French Dispatch,” the director’s latest, yet another American artist falls under the country’s spell. The Times’s Paris bureau chief recalls when the same thing happened to him. 
  <p class="updated_time"> 03:36 AM CT, Oct. 28 </p> 
  <a href="https://www.nytimes.com/2021/10/27/world/australia/free-land.html">Hellishly Hot Tiny Town Offers ‘Free’ Land. Hundreds of Calls Came In.</a> NYT: The town in Australia’s outback, where the temperature can hit 113 degrees Fahrenheit, drew global inquiries when it offered “free” land in a bid to expand its population. 
- <p class="updated_time"> 03:13 AM CT, Oct. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-59046480?at_medium=RSS&at_campaign=KARANGA">China limits construction of 'super high-rise buildings'</a> BBC: The decision is being seen as part of a larger bid to crackdown on vanity projects. 
  <p class="updated_time"> 02:51 AM CT, Oct. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59062133?at_medium=RSS&at_campaign=KARANGA">Sitting Bull: DNA confirms great-grandson's identity</a> BBC: A sample of the Native American leader's hair confirms the identity of his great-grandson. 
  <p class="updated_time"> 01:00 AM CT, Oct. 28 </p> 
@@ -89,12 +103,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/26/world/asia/covid-china-lanzhou-lockdown.html">China Locks Down City of 4 Million to Subdue Covid Outbreak</a> NYT: Lanzhou, with about four million people, reported six new coronavirus cases on Tuesday, and a total of 39 over the past week. 
  <p class="updated_time"> 10:43 PM CT, Oct. 27 </p> 
  <a href="https://www.nytimes.com/2021/10/27/world/americas/haiti-gangs-fuel-shortage.html">Gangs Rule Much of Haiti. For Many, It Means No Fuel, No Power, No Food.</a> NYT: A country in crisis is facing a severe fuel shortage that is pushing it to the brink of collapse. 
- <p class="updated_time"> 07:29 PM CT, Oct. 27 </p> 
- <a href="https://www.bbc.co.uk/news/newsbeat-59010749?at_medium=RSS&at_campaign=KARANGA">'You have to prove your faith when you're dating as a black Muslim'</a> BBC: Radio 1 Newsbeat speaks to black Muslims about their experiences in the dating world and society. 
  <p class="updated_time"> 07:24 PM CT, Oct. 27 </p> 
  <a href="https://www.nytimes.com/2021/10/27/us/politics/china-hypersonic-missile.html">China’s Weapon Tests Close to a ‘Sputnik Moment,’ U.S. General Says</a> NYT: Gen. Mark A. Milley said China’s testing of a hypersonic missile “has all of our attention.” 
- <p class="updated_time"> 06:19 PM CT, Oct. 27 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-58922398?at_medium=RSS&at_campaign=KARANGA">Climate change: Can India meet its targets?</a> BBC: As a major global climate summit approaches, is the Indian government on track to meet its own commitments? 
  <p class="updated_time"> 06:02 PM CT, Oct. 27 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59067060?at_medium=RSS&at_campaign=KARANGA">Ruth Negga on her latest role – as a black woman passing as white</a> BBC: Based on the 1929 book by Nella Larsen, the film tells the story of childhood friends who meet in later life. 
  <p class="updated_time"> 05:52 PM CT, Oct. 27 </p> 
@@ -105,20 +115,14 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/27/world/canada/pope-indigenous-apology.html">Pope Expresses ‘Willingness’ to Visit Canada for Indigenous Reconciliation</a> NYT: A National Truth and Reconciliation Commission has called for a papal apology for abuses at church-run schools for Indigenous children. 
  <p class="updated_time"> 04:07 PM CT, Oct. 27 </p> 
  <a href="https://www.nytimes.com/2021/10/27/health/covid-pill-access-molnupiravir.html">Merck Will Share Formula for Its Covid Pill With Poor Countries</a> NYT: The company announced a licensing deal that will allow the drug, molnupiravir, to be made and sold cheaply in 105 developing nations. 
- <p class="updated_time"> 02:29 PM CT, Oct. 27 </p> 
- <a href="https://www.nytimes.com/2021/10/26/world/europe/queen-elizabeth-cop26-summit.html">Queen Elizabeth Will Skip Climate Summit in Glasgow</a> NYT: The 95-year-old queen, after 70 years on the throne, is the oldest and longest-serving monarch in British history. 
  <p class="updated_time"> 02:24 PM CT, Oct. 27 </p> 
  <a href="https://www.nytimes.com/2021/10/26/sports/alex-honnold-mother-el-capitan.html">She Climbed Yosemite's El Capitan to Celebrate Turning 70</a> NYT: Dierdre Wolownick, whose son, Alex Honnold, is one of the world’s top rock climbers, ascended Yosemite’s El Capitan to celebrate her 70th birthday. 
  <p class="updated_time"> 02:15 PM CT, Oct. 27 </p> 
  <a href="https://www.nytimes.com/2021/10/27/world/united-nations-coronavirus.html">U.N. Group Blames Unequal Vaccine Access for Bigger Global Economic Gap</a> NYT: Wealthier countries with high vaccination rates have had speedier economic recoveries than poorer countries with low vaccination rates, the International Labor Organization said. 
  <p class="updated_time"> 01:40 PM CT, Oct. 27 </p> 
  <a href="https://www.nytimes.com/2021/10/27/world/middleeast/iran-nuclear-talks.html">Iran Will Rejoin Nuclear Talks, Top Negotiator Says</a> NYT: Negotiations on reviving the 2015 nuclear accord are to resume in November, but it is unclear if the United States will take part in them. 
- <p class="updated_time"> 01:08 PM CT, Oct. 27 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59065274?at_medium=RSS&at_campaign=KARANGA">Benin Bronzes: 'My great-grandfather sculpted the looted treasures'</a> BBC: Nigerians welcome the return of artefacts - including Cambridge University's cockerel - looted in 1897. 
  <p class="updated_time"> 12:54 PM CT, Oct. 27 </p> 
  <a href="https://www.nytimes.com/2021/10/27/world/europe/viktor-bryukhanov-dead.html">Viktor Bryukhanov, Blamed for the Chernobyl Disaster, Dies at 85</a> NYT: In charge of the plant in Ukraine, he was held responsible for the world’s worst nuclear-power disaster and imprisoned. 
- <p class="updated_time"> 12:50 PM CT, Oct. 27 </p> 
- <a href="https://www.nytimes.com/2021/10/26/science/drosophila-fly-brain-connectome.html">Why Scientists Have Spent Years Mapping This Creature’s Brain</a> NYT: An enormous new analysis of the wiring of the fruit fly brain is a milestone for the young field of modern connectomics, researchers say. 
  <p class="updated_time"> 12:09 PM CT, Oct. 27 </p> 
  <a href="https://www.nytimes.com/2021/10/27/arts/design/petrit-halilaj-tate-kosovo-war.html">Wonders, and Horrors, Drawn From Boyhood in a War Zone</a> NYT: Petrit Halilaj became one of Kosovo’s most acclaimed artists with work that reflects on his country’s past. Now, he’s getting personal. 
  <p class="updated_time"> 10:22 AM CT, Oct. 27 </p> 
@@ -133,8 +137,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/26/world/africa/sudan-coup-protests.html">Sudan’s Prime Minister Was Detained at Home of General Who Led Coup</a> NYT: Protesters demanding civilian rule flooded the streets of major cities a day after a military takeover. Many offices and businesses shut, answering a call for civil disobediences. 
  <p class="updated_time"> 10:08 PM CT, Oct. 26 </p> 
  <a href="https://www.nytimes.com/2021/10/26/world/europe/france-murder-trial-holocaust-survivor-mireille-knoll.html">Trial in Holocaust Survivor's Killing Begins in France</a> NYT: Mireille Knoll, 85, was killed in 2018 in what prosecutors and the authorities called a hate crime. Decades earlier, she had escaped a notorious roundup of Jews. 
- <p class="updated_time"> 08:21 PM CT, Oct. 26 </p> 
- <a href="https://www.nytimes.com/2021/10/26/world/europe/celine-manuscripts-france.html">Céline's Newly Unearthed Work Causes a Stir in France</a> NYT: A legal battle is raging over manuscripts written by the antisemitic writer Louis-Ferdinand Céline that disappeared almost eight decades ago. 
  <p class="updated_time"> 07:00 PM CT, Oct. 26 </p> 
  <a href="https://www.nytimes.com/2021/10/26/world/asia/pakistan-cricket-victory-india.html">2 Days After Cricket Victory Over India, Pakistan Still Feels the High</a> NYT: The nation is experiencing a much-needed burst of joy after it unexpectedly beat India in a cricket match in Dubai. 
  <p class="updated_time"> 06:41 PM CT, Oct. 26 </p> 
@@ -176,12 +178,16 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
- <p class="updated_time"> 08:45 PM CT, Oct. 28 </p> 
- <a href="https://www.politico.com/news/2021/10/28/iowa-new-congressional-map-517485">Iowa approves new congressional map with 3 competitive districts</a> Politico: Former President Donald Trump narrowly carried each of the three swing seats under the new lines. 
- <p class="updated_time"> 06:58 PM CT, Oct. 28 </p> 
- <a href="https://www.politico.com/news/2021/10/28/budget-deal-democrats-biden-framework-517469">Your guide to the huge Dem deal: 14 new policies and what could stop them</a> Politico: Democrats revealed a framework for a $1.75 trillion spending deal, but areas such as health care, child care and climate change are missing major party priorities. 
+ <p class="updated_time"> 08:44 PM CT, Oct. 28 </p> 
+ <a href="https://www.nytimes.com/2021/10/28/us/politics/trump-family-separation-border.html">Families Separated at Border Under Trump Policy May Each Receive Up to $450,000</a> NYT: After the Trump administration separated migrant parents from children at the southern border, President Biden pledged to make it up to the families. 
+ <p class="updated_time"> 07:34 PM CT, Oct. 28 </p> 
+ <a href="https://www.nytimes.com/2021/10/28/climate/climate-change-framework-bill.html">Climate Change Became the Largest Part of Biden Spending Bill</a> NYT: As paid family leave and other priorities were taken out of the president’s plan, the largest piece became a $555 billion plan to fight climate change. 
+ <p class="updated_time"> 07:20 PM CT, Oct. 28 </p> 
+ <a href="https://www.nytimes.com/2021/10/28/us/politics/biden-framework-bill-plan.html">A Social Policy ‘Framework’ Fails to Secure a Biden Victory</a> NYT: President Biden went to the Capitol to detail a compromise on social safety net and climate legislation, but he couldn’t break the liberal blockade on another priority, infrastructure. 
+ <p class="updated_time"> 07:08 PM CT, Oct. 28 </p> 
+ <a href="https://www.nytimes.com/2021/10/28/us/politics/california-ports-supply-chain.html">Program to Lend Billions to Aid California’s Supply-Chain Infrastructure</a> NYT: The Transportation Department and the state are teaming up on the program, which aims to prevent a repeat of the supply-chain crisis by bolstering ports and other sources of bottlenecks. 
  <p class="updated_time"> 06:53 PM CT, Oct. 28 </p> 
- <a href="https://www.nytimes.com/2021/10/28/us/politics/biden-democrats-spending-bill.html">Biden Implores Democrats to Support His Transformative Agenda</a> NYT: “The House and Senate majorities and my presidency will be determined by what happens in the next week,” President Biden told lawmakers on Thursday. 
+ <a href="https://www.nytimes.com/2021/10/28/us/politics/infrastructure-bill-spending-plan.html">The President's Gamble: Biden Implores Democrats to Support His Agenda</a> NYT: “The House and Senate majorities and my presidency will be determined by what happens in the next week,” President Biden told lawmakers on Thursday. 
  <p class="updated_time"> 06:50 PM CT, Oct. 28 </p> 
  <a href="https://www.nytimes.com/2021/10/27/us/politics/democrats-reconciliation-bill-negotiations.html">Racing the Clock, Democrats Grasp for a Deal on Biden’s Agenda</a> NYT: Democrats struggled to bridge crucial differences over what to include in and how to pay for their social policy and climate plan. 
  <p class="updated_time"> 06:50 PM CT, Oct. 28 </p> 
@@ -190,10 +196,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/28/us/politics/spending-plan-bill-biden.html">Here's What's in Biden's $1.85 Trillion Spending Plan</a> NYT: White House officials refused to say if all holdout Democrats in Congress had expressed support for the framework. 
  <p class="updated_time"> 06:49 PM CT, Oct. 28 </p> 
  <a href="https://www.nytimes.com/2021/10/28/upshot/biden-taxes-billionaires-millionaires.html">Billionaires Beat the Working Rich in Biden's Spending Bill </a> NYT: One by one, tax proposals that would have slowed dynastic wealth have been tossed from the agreement. 
- <p class="updated_time"> 06:32 PM CT, Oct. 28 </p> 
- <a href="https://www.nytimes.com/2021/10/28/climate/climate-change-framework-bill.html">Climate Change Became the Central Part of Biden Spending Bill</a> NYT: As paid family leave and other priorities were taken out of the president’s plan, the largest piece became a $555 billion plan to fight climate change. 
- <p class="updated_time"> 06:31 PM CT, Oct. 28 </p> 
- <a href="https://www.nytimes.com/2021/10/28/us/politics/biden-framework-bill-plan.html">A Social Policy ‘Framework’ Fails to Secure a Biden Victory</a> NYT: President Biden went to the Capitol to detail a compromise on social safety net and climate legislation, but he couldn’t break the liberal blockade on another priority, infrastructure. 
+ <p class="updated_time"> 06:45 PM CT, Oct. 28 </p> 
+ <a href="https://www.politico.com/news/2021/10/28/iowa-new-congressional-map-517485">Iowa approves new congressional map with 3 competitive districts</a> Politico: Former President Donald Trump narrowly carried each of the three swing seats under the new lines. 
  <p class="updated_time"> 06:24 PM CT, Oct. 28 </p> 
  <a href="https://www.nytimes.com/2021/10/28/us/politics/progressives-infrastructure-biden-pelosi-support.html">Progressives Unmoved by Biden Request for Fast Vote on Infrastructure</a> NYT: Their opposition complicated plans for House leaders, who decided against holding a vote on the bill on Thursday despite President Biden’s entreaties earlier in the day. 
  <p class="updated_time"> 05:30 PM CT, Oct. 28 </p> 
@@ -202,17 +206,17 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/27/us/politics/supreme-court-texas-abortion.html">Briefs Draw Battle Lines as Texas Abortion Law Nears Supreme Court</a> NYT: The justices, who will hear arguments on Monday in two cases challenging the state’s near-total ban, required the parties to file their briefs with extraordinary speed. 
  <p class="updated_time"> 05:16 PM CT, Oct. 28 </p> 
  <a href="https://www.nytimes.com/2021/10/28/us/politics/supreme-court-oklahoma-executions.html">Supreme Court Lets Two Oklahoma Executions Proceed</a> NYT: By a 5-to-3 vote, the justices lifted a stay of execution that had been imposed by a federal appeals court in a challenge to the state’s lethal injection protocols. 
- <p class="updated_time"> 04:41 PM CT, Oct. 28 </p> 
- <a href="https://www.politico.com/news/2021/10/28/liberals-weigh-settling-for-half-a-loaf-517456">Liberals weigh their options: Settle for half a loaf, or fight</a> Politico: President Joe Biden and Democratic leaders are asking for their votes on a $1.75 trillion social spending blueprint. They're not totally sold yet. 
+ <p class="updated_time"> 04:58 PM CT, Oct. 28 </p> 
+ <a href="https://www.politico.com/news/2021/10/28/budget-deal-democrats-biden-framework-517469">Your guide to the huge Dem deal: 14 new policies and what could stop them</a> Politico: Democrats revealed a framework for a $1.75 trillion spending deal, but areas such as health care, child care and climate change are missing major party priorities. 
  <p class="updated_time"> 04:11 PM CT, Oct. 28 </p> 
  <a href="https://www.nytimes.com/2021/10/28/us/politics/biden-immigration.html">An Immigration Overhaul is Part of Biden's Spending Framework</a> NYT: Included in the plan is a proposal to protect millions of undocumented immigrants who are longtime residents of the country from deportation. 
+ <p class="updated_time"> 02:41 PM CT, Oct. 28 </p> 
+ <a href="https://www.politico.com/news/2021/10/28/liberals-weigh-settling-for-half-a-loaf-517456">Liberals weigh their options: Settle for half a loaf, or fight</a> Politico: President Joe Biden and Democratic leaders are asking for their votes on a $1.75 trillion social spending blueprint. They're not totally sold yet. 
  <p class="updated_time"> 01:21 PM CT, Oct. 28 </p> 
  <a href="https://www.nytimes.com/2021/10/28/business/media/tucker-carlson-geraldo-rivera-fox.html">Geraldo Rivera criticizes his Fox News colleague Tucker Carlson.</a> NYT: “I’m probably going to get in trouble for this,” Mr. Rivera said after taking issue with “false flag” claims in Mr. Carlson’s upcoming three-part series, “Patriot Purge.” 
- <p class="updated_time"> 10:21 AM CT, Oct. 28 </p> 
+ <p class="updated_time"> 08:21 AM CT, Oct. 28 </p> 
  <a href="https://www.politico.com/news/2021/10/28/sinema-biden-prescription-drug-deal-517422">Sinema reached prescription drug negotiation deal with Biden</a> Politico: But the issue was left out of the framework the White House released publicly on Thursday morning, leaving its fate uncertain. 
- <p class="updated_time"> 09:31 AM CT, Oct. 28 </p> 
- <a href="https://www.nytimes.com/article/transgender-athlete-ban.html">Transgender Athletes Face Bans From Girls’ Sports in 10 U.S. States</a> NYT: Over the past two years, nine states have enacted laws to bar transgender girls and women from competing in girls’ and women’s sports. Another relied on an executive order for a ban. 
- <p class="updated_time"> 09:17 AM CT, Oct. 28 </p> 
+ <p class="updated_time"> 07:17 AM CT, Oct. 28 </p> 
  <a href="https://www.politico.com/news/2021/10/28/biden-house-democrats-517416">Dems punt House infrastructure vote in blow to Biden agenda</a> Politico: The left is frustrated over pared-back social spending. Speaker Nancy Pelosi wanted to show momentum — but she doesn't have the votes yet. 
  <p class="updated_time"> 06:56 AM CT, Oct. 28 </p> 
  <a href="https://www.nytimes.com/2021/10/27/us/politics/beloved-toni-morrison-virginia.html">Fight Over Toni Morrison Novel Inflames Virginia Governor's Race</a> NYT: A Republican ad featured a mother who had tried to have “Beloved” banned from her son’s curriculum. Democrats saw a coded racist message. 
@@ -224,29 +228,27 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/27/us/politics/diplomats-security-blinken.html">State Department Eases Restrictions for Diplomats Abroad</a> NYT: The State Department is easing some restrictions after employees said that their jobs overseas were harder than they needed to be. 
  <p class="updated_time"> 06:24 PM CT, Oct. 27 </p> 
  <a href="https://www.nytimes.com/2021/10/27/us/politics/paid-family-leave-manchin.html">Paid Family Leave Plan Is Likely to Be Cut From Budget Bill</a> NYT: Democrats had already scaled back the proposal to four weeks from 12 weeks as they worked to shrink the cost of the bill amid resistance from centrist holdouts. 
- <p class="updated_time"> 05:48 PM CT, Oct. 27 </p> 
+ <p class="updated_time"> 03:48 PM CT, Oct. 27 </p> 
  <a href="https://www.politico.com/news/2021/10/27/democrats-immigration-gambit-loses-steam-517352">Dems' last-ditch immigration gambit loses steam</a> Politico: Even if President Joe Biden can get fellow Democrats to add reform provisions to a broad social spending deal, the Senate parliamentarian can squash them. 
- <p class="updated_time"> 03:40 PM CT, Oct. 27 </p> 
- <a href="https://www.nytimes.com/2021/10/27/us/politics/budget-bill-republicans.html">Shut Out on Budget Bill, Republicans Take Shots From the Sidelines</a> NYT: The party is stepping up its attacks on the safety net measure that Democrats are shaping entirely on their own. 
- <p class="updated_time"> 12:33 PM CT, Oct. 27 </p> 
+ <p class="updated_time"> 10:33 AM CT, Oct. 27 </p> 
  <a href="https://www.politico.com/news/2021/10/27/mark-warner-havana-syndrome-intel-517331">Warner calls lack of Havana Syndrome intel ‘very, very problematic’</a> Politico: But the Senate Intelligence Committee chair insisted lawmakers are “absolutely on top of this.” 
- <p class="updated_time"> 11:25 AM CT, Oct. 27 </p> 
+ <p class="updated_time"> 09:25 AM CT, Oct. 27 </p> 
  <a href="https://www.politico.com/news/2021/10/27/top-dems-social-spending-deal-manchin-sinema-517332">Liberal frustration imperils quick Dem social spending deal</a> Politico: President Biden will visit the House Democratic Caucus on Thursday morning, delaying his planned departure on a foreign trip. 
- <p class="updated_time"> 11:22 PM CT, Oct. 26 </p> 
+ <p class="updated_time"> 09:22 PM CT, Oct. 26 </p> 
  <a href="https://www.politico.com/news/2021/10/26/january-6-committee-trump-lawyer-testimony-517310">Jan. 6 committee to seek testimony from Trump lawyer who drafted strategy to overturn election</a> Politico: John Eastman crafted a legal analysis to help the outgoing president try to overturn the 2020 results. 
- <p class="updated_time"> 05:40 PM CT, Oct. 26 </p> 
+ <p class="updated_time"> 03:40 PM CT, Oct. 26 </p> 
  <a href="https://www.politico.com/news/2021/10/26/man-arrested-for-threatening-matt-gaetz-517217">California man arrested for allegedly threatening Matt Gaetz</a> Politico: Eugene Huelsman allegedly left death threat in phone message for Florida GOP congressman days after Jan. 6 assault on Capitol. 
- <p class="updated_time"> 01:41 PM CT, Oct. 26 </p> 
+ <p class="updated_time"> 11:41 AM CT, Oct. 26 </p> 
  <a href="https://www.politico.com/news/2021/10/26/joe-manchin-irs-reporting-spending-bill-517194">Manchin: IRS reporting requirements likely 'going to be gone' from spending bill</a> Politico: Democrats have been on the defensive over that proposal for weeks now, with both the banking industry and Republicans calling it an unfair intrusion into people’s everyday finances. 
- <p class="updated_time"> 12:56 PM CT, Oct. 26 </p> 
+ <p class="updated_time"> 10:56 AM CT, Oct. 26 </p> 
  <a href="https://www.politico.com/news/2021/10/26/billionaires-tax-tension-517179">Dems confront flagging momentum for $1T-plus deal</a> Politico: The president was meeting with Sens. Kyrsten Sinema and Joe Manchin on Tuesday evening. 
- <p class="updated_time"> 05:31 AM CT, Oct. 26 </p> 
+ <p class="updated_time"> 03:31 AM CT, Oct. 26 </p> 
  <a href="https://www.politico.com/news/2021/10/26/liberals-priorities-fall-517138">Liberals grit teeth as their priorities fall by wayside</a> Politico: Democratic leaders are telling members to embrace the party bill, even as progressives see several major policy goals tossed. 
- <p class="updated_time"> 05:30 AM CT, Oct. 26 </p> 
+ <p class="updated_time"> 03:30 AM CT, Oct. 26 </p> 
  <a href="https://www.politico.com/news/2021/10/26/curious-case-of-nancy-mace-517159">The curious case of Nancy Mace</a> Politico: After Jan. 6, one GOP freshman swung away from Donald Trump then seemed to swing back — until a recent vote that nudged her back away. 
- <p class="updated_time"> 05:18 PM CT, Oct. 25 </p> 
+ <p class="updated_time"> 03:18 PM CT, Oct. 25 </p> 
  <a href="https://www.politico.com/news/2021/10/25/jan-6-investigators-steve-bannon-associate-517087">Jan. 6 investigators privately question Bannon associate</a> Politico: The panel investigating the Capitol attack brought in a conservative activist linked to Steve Bannon's We Build The Wall effort. 
- <p class="updated_time"> 02:19 PM CT, Oct. 25 </p> 
+ <p class="updated_time"> 12:19 PM CT, Oct. 25 </p> 
  <a href="https://www.politico.com/news/2021/10/25/manchin-closes-in-on-deal-with-white-house-517069">Fellow Dems lobby Manchin as he gets closer to 'yes'</a> Politico: But he's still insistent on a $1.5 trillion top line for social spending, while party leaders want a bill closer to $2 trillion. 
 
 
