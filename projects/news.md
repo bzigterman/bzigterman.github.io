@@ -7,18 +7,20 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:57 PM CT, Oct. 29 </p> 
- <a href="https://www.nytimes.com/2021/10/29/world/africa/sudan-coup-general.html">‘They Lied to Him.’ Inside the Frantic Days Leading to Sudan’s Coup</a> NYT: The American envoy, Jeffrey Feltman, was given assurances that seemed to head off a military takeover. Hours later, Lt. Gen. Abdel Fattah al-Burhan made his move. 
+ <p class="updated_time"> 01:41 PM CT, Oct. 29 </p> 
+ <a href="https://www.nytimes.com/2021/10/29/world/asia/tonga-first-covid-case.html">Tonga Reports First Covid Case, Nearly 2 Years Into Pandemic</a> NYT: The Pacific island, 1,100 miles from New Zealand, has quarantined all airport employees on duty after a flight with an infected passenger arrived. 
+ <p class="updated_time"> 01:35 PM CT, Oct. 29 </p> 
+ <a href="https://www.nytimes.com/2021/10/29/world/africa/sudan-coup-general.html">‘They Lied.’ Inside the Frantic Days Leading to Sudan’s Coup</a> NYT: The American envoy, Jeffrey Feltman, was given assurances that seemed to head off a military takeover. Hours later, Lt. Gen. Abdel Fattah al-Burhan made his move. 
+ <p class="updated_time"> 01:35 PM CT, Oct. 29 </p> 
+ <a href="https://www.nytimes.com/article/day-of-the-dead-mexico.html">What Is Day of the Dead and How Is the Mexican Holiday Celebrated?</a> NYT: Popularized by Hollywood in films like “Coco” and the James Bond franchise, Día de Muertos is a centuries-old tradition that has roots in Indigenous culture. 
+ <p class="updated_time"> 01:16 PM CT, Oct. 29 </p> 
+ <a href="https://www.nytimes.com/2021/10/29/world/europe/biden-pope-communion-abortion.html">Biden: Pope Says He Should Keep Receiving Communion</a> NYT: President Biden said abortion had not come up in their private meeting. “We just talked about the fact he was happy that I was a good Catholic and I should keep receiving communion,” he said. 
  <p class="updated_time"> 12:56 PM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/nyregion/nyc-schools-enrollment-covid.html">N.Y.C. Public School Enrollment Declined 4.5 Percent During the Pandemic</a> NYT: The city lost by far the largest number of students in its recent history between the fall of 2019 and the fall of 2020. 
- <p class="updated_time"> 12:56 PM CT, Oct. 29 </p> 
- <a href="https://www.nytimes.com/2021/10/29/world/americas/day-of-the-dead-mexico.html">What Is Day of the Dead, the Mexican Holiday?</a> NYT: Popularized by Hollywood in films like “Coco” and the James Bond franchise, Día de Muertos is a centuries-old tradition that has roots in Indigenous culture. 
  <p class="updated_time"> 12:51 PM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/world/europe/queen-elizabeth-2-weeks-rest.html">Queen Elizabeth Urged by Doctors to Rest at Least 2 Weeks</a> NYT: The advice from her medical team has heightened the worry about the health of the 95-year-old monarch, who has canceled the public appearances that had been on her calendar. 
  <p class="updated_time"> 12:46 PM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/world/bidens-meeting-with-pope-francis-is-a-diplomatic-visit-tinged-with-the-personal.html">The president’s meeting with Pope Francis was a diplomatic visit tinged with the personal.</a> NYT: NA 
- <p class="updated_time"> 12:40 PM CT, Oct. 29 </p> 
- <a href="https://www.nytimes.com/2021/10/29/world/biden-pope-communion-abortion.html">Biden: Pope Says He Should Keep Receiving Communion</a> NYT: President Biden said abortion had not come up in their private meeting. “We just talked about the fact he was happy that I was a good Catholic and I should keep receiving communion,” he said. 
  <p class="updated_time"> 12:15 PM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/world/europe/biden-macron-submarine-deal.html">Biden Calls Handling of Australia Deal That Angered France 'Clumsy'</a> NYT: “I had been under the impression long before that France had been informed,” President Biden said. 
  <p class="updated_time"> 12:05 PM CT, Oct. 29 </p> 
@@ -49,8 +51,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/29/world/europe/biden-pope-communion.html">Critics Try to Pressure Francis in Battle Over Biden and Communion</a> NYT: Some American prelates wanted the pope to challenge the president over his support for abortion rights. A U.S. bishop and cardinal put out pointed messages before his meeting with Francis. 
  <p class="updated_time"> 10:00 AM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/world/europe/spanish-writer-carmen-mola-true-identity.html">Behind a Top Female Name in Spanish Crime Fiction: Three Men</a> NYT: Carmen Mola, a novelist publishing under a pen name, seemed to shatter a glass ceiling in the world of Spanish books. But when the author’s true identity was revealed while claiming a big prize, it was a shock. 
- <p class="updated_time"> 09:47 AM CT, Oct. 29 </p> 
- <a href="https://www.nytimes.com/2021/10/29/world/asia/tonga-first-covid-case.html">Tonga Reports First Covid Case, Nearly 2 Years Into Pandemic</a> NYT: The Pacific island, 1,100 miles from New Zealand, has quarantined all airport employees on duty after a flight with an infected passenger arrived. 
  <p class="updated_time"> 09:46 AM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/climate/europe-energy-crisis-cop.html">How Rising Energy Prices Have Complicated Europe's Climate Crisis</a> NYT: Prices for power have soared, and some politicians are now trying to use that as a lever to slow action on climate change, a strategy with far-reaching consequences. 
  <p class="updated_time"> 09:34 AM CT, Oct. 29 </p> 
@@ -131,6 +131,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/business-58815695?at_medium=RSS&at_campaign=KARANGA">Why the vending machine is making a comeback</a> BBC: From milkshakes to pizzas, new vending machines are selling an expanding range of products. 
  <p class="updated_time"> 06:02 PM CT, Oct. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59073986?at_medium=RSS&at_campaign=KARANGA">Japan election: How the elderly keep the ruling party in power</a> BBC: As Sunday's polls approach, we look at why it is so difficult to defeat the ruling party. 
+ <p class="updated_time"> 04:52 PM CT, Oct. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59085804?at_medium=RSS&at_campaign=KARANGA">The moment Facebook became Meta</a> BBC: Meta, the rebranded Facebook, made its debut at the company’s headquarters with a new sign today. 
  <p class="updated_time"> 04:25 PM CT, Oct. 28 </p> 
  <a href="https://www.nytimes.com/2021/10/28/world/meatpacking-workers-covid-cases-deaths.html">Covid Hit U.S. Meat Plants Far Harder Than Thought, Report Says</a> NYT: The industry had three times as many Covid infections in the pandemic’s early months as previously believed, a select committee says. 
  <p class="updated_time"> 03:09 PM CT, Oct. 28 </p> 
@@ -163,8 +165,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/four-u-s-intelligence-agencies-produced-extensive-reports-on-afghanistan-but-all-failed-to-predict-kabuls-rapid-collapse-11635415201">Intelligence Agencies Failed to Predict Rapid Fall of Kabul</a> WSJ: Agencies offered scattershot assessments of the staying power of the Afghan military and government, a review of wide-ranging summaries of classified material by The Wall Street Journal shows. 
  <p class="updated_time"> 07:24 PM CT, Oct. 27 </p> 
  <a href="https://www.nytimes.com/2021/10/27/us/politics/china-hypersonic-missile.html">China’s Weapon Tests Close to a ‘Sputnik Moment,’ U.S. General Says</a> NYT: Gen. Mark A. Milley said China’s testing of a hypersonic missile “has all of our attention.” 
- <p class="updated_time"> 06:02 PM CT, Oct. 27 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-59067060?at_medium=RSS&at_campaign=KARANGA">Ruth Negga on her latest role – as a black woman passing as white</a> BBC: Based on the 1929 book by Nella Larsen, the film tells the story of childhood friends who meet in later life. 
  <p class="updated_time"> 05:52 PM CT, Oct. 27 </p> 
  <a href="https://www.nytimes.com/2021/10/27/world/australia/australia-travel-abroad-vaccination.html">Australia to Ease Overseas Travel Rules for Vaccinated Residents</a> NYT: The eased restrictions will be the first stage in the country’s plan to reopen its borders since slamming them shut in 2020, separating families and leaving thousands stranded overseas. 
  <p class="updated_time"> 05:51 PM CT, Oct. 27 </p> 
@@ -196,12 +196,16 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 01:36 PM CT, Oct. 29 </p> 
+ <a href="https://www.nytimes.com/2021/10/29/us/politics/richmond-virginia-elections.html">Why a Changing Richmond and Its Suburbs Are Key to Virginia’s Vote</a> NYT: The region has been an engine of Democratic victories, but now the party is on defense as Republicans go after swing voters with worries about schools. 
+ <p class="updated_time"> 01:17 PM CT, Oct. 29 </p> 
+ <a href="https://www.nytimes.com/2021/10/28/us/politics/infrastructure-bill-spending-plan.html">The President's Gamble: Biden Implores Democrats to Support His Agenda</a> NYT: “The House and Senate majorities and my presidency will be determined by what happens in the next week,” President Biden told lawmakers on Thursday. 
  <p class="updated_time"> 12:58 PM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/us/politics/immigration-remain-mexico.html">Another Attempt to End 'Remain in Mexico' Immigration Policy</a> NYT: A court ordered the administration in August to reinstate the program, which forces some migrants to wait in Mexico while their asylum cases are pending. 
  <p class="updated_time"> 12:43 PM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/nyregion/letitia-james-governor.html">Letitia James Declares Her Candidacy for N.Y. Governor</a> NYT: The attorney general, who oversaw the inquiry into sexual harassment allegations against Andrew Cuomo, will challenge Gov. Kathy Hochul for the Democratic nomination. 
  <p class="updated_time"> 12:21 PM CT, Oct. 29 </p> 
- <a href="https://www.nytimes.com/2021/10/29/us/politics/andreessen-horowitz-lobbying-cryptocurrency.html">Big Hires, Big Money and a D.C. Blitz: A Bold Plan to Dominate Crypto</a> NYT: The Silicon Valley firm Andreessen Horowitz, whose founders played big roles in the development of the internet, aims to own a huge part of the digital currency world — and set the rules for it, too. 
+ <a href="https://www.nytimes.com/2021/10/29/us/politics/andreessen-horowitz-lobbying-cryptocurrency.html">Andreessen Horowitz's Plan to Dominate Crypto</a> NYT: The Silicon Valley firm Andreessen Horowitz, whose founders played big roles in the development of the internet, aims to own a huge part of the digital currency world — and set the rules for it, too. 
  <p class="updated_time"> 12:20 PM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/28/upshot/biden-taxes-billionaires-millionaires.html">Billionaires Beat the Working Rich in Biden's Spending Bill </a> NYT: One by one, tax proposals that would have slowed dynastic wealth have been tossed from the agreement. 
  <p class="updated_time"> 11:34 AM CT, Oct. 29 </p> 
@@ -214,8 +218,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/10/29/jan-6-committee-capitol-rioter-517602">Jan. 6 committee set to interview rioter who breached the Capitol</a> Politico: Heather Shaner, an attorney who represents multiple defendants in Jan. 6 cases, confirmed that one of her clients will be remotely interviewed Friday afternoon. 
  <p class="updated_time"> 09:37 AM CT, Oct. 29 </p> 
  <a href="https://www.politico.com/news/2021/10/29/rep-adam-kinzinger-wont-seek-reelection-next-year-517599">Kinzinger retiring from Congress, vows 'broader fight nationwide' against Trumpism</a> Politico: The Illinois lawmaker is one of the most prominent Trump critics among House Republicans. 
- <p class="updated_time"> 09:01 AM CT, Oct. 29 </p> 
- <a href="https://www.nytimes.com/2021/10/28/us/politics/infrastructure-bill-spending-plan.html">The President's Gamble: Biden Implores Democrats to Support His Agenda</a> NYT: “The House and Senate majorities and my presidency will be determined by what happens in the next week,” President Biden told lawmakers on Thursday. 
  <p class="updated_time"> 08:34 AM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/us/politics/glenn-youngkin-virginia-governors-race.html">Glenn Youngkin Was a Traditional Republican. Then He Became a Culture Warrior.</a> NYT: As he runs for governor of Virginia, Mr. Youngkin has built a coalition, as one prominent conservative described it, of Trump voters and angry parents. 
  <p class="updated_time"> 08:29 AM CT, Oct. 29 </p> 
@@ -230,8 +232,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/10/29/democrats-infrastructure-week-517487">Dems limp out of another stumble-ending month</a> Politico: It's a nightmare on Capitol Hill for the president's party, as October passes by without a deal. 
  <p class="updated_time"> 02:00 AM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/us/politics/biden-summit.html">‘America Is Back,’ Biden Declared in June. The World Is About to Test Him.</a> NYT: Arriving in Europe with an unfinished economic and environmental spending plan, the president will confront new challenges, some self-inflicted, at two major summits. 
- <p class="updated_time"> 11:10 PM CT, Oct. 28 </p> 
- <a href="https://www.nytimes.com/2021/10/28/business/media/tucker-carlson-geraldo-rivera-fox.html">Geraldo Rivera criticizes his Fox News colleague Tucker Carlson.</a> NYT: “I’m probably going to get in trouble for this,” Mr. Rivera said after taking issue with “false flag” claims in Mr. Carlson’s upcoming three-part series, “Patriot Purge.” 
  <p class="updated_time"> 11:08 PM CT, Oct. 28 </p> 
  <a href="https://www.nytimes.com/2021/10/28/us/politics/guantanamo-detainee-torture.html">For First Time in Public, a Detainee Describes Torture at C.I.A. Black Sites</a> NYT: In a sentencing hearing, Majid Khan, a Pakistani who lived in suburban Baltimore before joining Al Qaeda, detailed dungeonlike conditions and episodes of abuse. 
  <p class="updated_time"> 10:48 PM CT, Oct. 28 </p> 
