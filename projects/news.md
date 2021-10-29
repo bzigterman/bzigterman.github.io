@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:21 PM CT, Oct. 29 </p> 
+ <p class="updated_time"> 05:50 PM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/world/europe/biden-eases-fray-with-france-and-savors-meeting-with-pope-as-europe-trip-begins.html">Biden Eases Fray with France and Savors Meeting with Pope as Europe Trip Begins</a> NYT: Mr. Biden sought to mend ties with France’s president over a sabotaged French submarine contract, and expressed gratitude toward Pope Francis after a 90-minute meeting. 
  <p class="updated_time"> 05:11 PM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/world/canada/dune-denis-villeneuve-canadians.html">The Canadians Behind ‘Dune’</a> NYT: A science fiction opus was heavily guided by Canadian talent, starting with the director, Denis Villeneuve, who lives in Montreal. 
@@ -200,6 +200,10 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:46 PM CT, Oct. 29 </p> 
+ <a href="https://www.nytimes.com/2021/10/29/arts/in-this-house-yard-signs.html">‘In This House’ Yard Signs, and Their Curious Power</a> NYT: How a lawn sign inspired by mom décor became a liberal mantra — and a symbol of a political battle over white womanhood. 
+ <p class="updated_time"> 05:46 PM CT, Oct. 29 </p> 
+ <a href="https://www.nytimes.com/2021/10/29/us/politics/office-access-justice-legal-aid.html">Garland Revives Effort to Expand Access to Legal Aid</a> NYT: The attorney general acted to reverse a Trump administration decision to cut off funding for the Office for Access to Justice, an Obama-era program to give poor defendants legal representation. 
  <p class="updated_time"> 05:36 PM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/us/politics/immigration-green-cards-visas-democrats.html">Green Card Backlog Focus of Democrats' Latest Immigration Effort</a> NYT: A proposal in President Biden’s social spending bill would make hundreds of thousands of unused green cards available for immigrants. But it faces an uncertain future under Senate rules. 
  <p class="updated_time"> 05:30 PM CT, Oct. 29 </p> 
@@ -226,14 +230,12 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/29/upshot/democrats-preschool-child-care.html">What the Democrats’ Plan Would Do for Parents</a> NYT: Paid family leave was dropped. Public pre-K and subsidized child care remain, and could substantially lower the cost of raising children. 
  <p class="updated_time"> 03:04 PM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/nyregion/letitia-james-governor.html">Letitia James Is Running for Governor of New York</a> NYT: The attorney general, who oversaw the inquiry into sexual harassment allegations against Andrew Cuomo, will challenge Gov. Kathy Hochul for the Democratic nomination. 
- <p class="updated_time"> 02:43 PM CT, Oct. 29 </p> 
- <a href="https://www.nytimes.com/2021/10/29/arts/in-this-house-yard-signs.html">In This House, We List Our Beliefs in the Yard</a> NYT: How a lawn sign inspired by mom décor became a liberal mantra — and a symbol of a political battle over white womanhood. 
  <p class="updated_time"> 02:28 PM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/us/politics/adam-kinzinger-illinois-election.html">Adam Kinzinger, a Republican Trump Critic, Won’t Seek Re-election in House</a> NYT: Illinois Democrats eliminated Mr. Kinzinger’s district in a new congressional map. He was one of 10 House Republicans who voted to impeach former President Donald J. Trump. 
  <p class="updated_time"> 01:49 PM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/us/politics/andreessen-horowitz-lobbying-cryptocurrency.html">Andreessen Horowitz's Plan to Dominate Crypto</a> NYT: The Silicon Valley firm Andreessen Horowitz, whose founders played big roles in the development of the internet, aims to own a huge part of the digital currency world — and set the rules for it, too. 
  <p class="updated_time"> 01:47 PM CT, Oct. 29 </p> 
- <a href="https://www.nytimes.com/2021/10/29/us/politics/crypto-venture-capitalists-commerce.html">How Venture Capitalists Think Crypto Will Reshape Commerce</a> NYT: From banking to gaming, investors are sending billions of dollars to crypto inventors who seek to disrupt industries. Here’s a look at some of those bets. 
+ <a href="https://www.nytimes.com/2021/10/29/us/politics/crypto-currency-venture-capitalists.html">How Venture Capitalists Think Cryptocurrency Will Reshape Commerce</a> NYT: From banking to gaming, investors are sending billions of dollars to crypto inventors who seek to disrupt industries. Here’s a look at some of those bets. 
  <p class="updated_time"> 01:36 PM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/us/politics/richmond-virginia-elections.html">Why a Changing Richmond and Its Suburbs Are Key to Virginia’s Vote</a> NYT: The region has been an engine of Democratic victories, but now the party is on defense as Republicans go after swing voters with worries about schools. 
  <p class="updated_time"> 01:17 PM CT, Oct. 29 </p> 
