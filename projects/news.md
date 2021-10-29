@@ -7,10 +7,12 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:15 PM CT, Oct. 29 </p> 
+ <a href="https://www.nytimes.com/2021/10/29/world/europe/biden-macron-submarine-deal.html">Biden Calls Handling of Australia Deal That Angered France 'Clumsy'</a> NYT: “I had been under the impression long before that France had been informed,” President Biden said. 
+ <p class="updated_time"> 12:05 PM CT, Oct. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59096571?at_medium=RSS&at_campaign=KARANGA">Poland to build Belarus border wall to block migrant influx</a> BBC: The wall to curb a wave of migrants entering from Belarus has been approved by Poland's parliament. 
  <p class="updated_time"> 11:52 AM CT, Oct. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59085806?at_medium=RSS&at_campaign=KARANGA">Biden: We were clumsy over France submarine row</a> BBC: The US president meets his French counterpart in the wake of a diplomatic row over a submarine deal. 
- <p class="updated_time"> 11:52 AM CT, Oct. 29 </p> 
- <a href="https://www.nytimes.com/2021/10/29/world/europe/biden-macron-submarine-deal.html">Biden Calls Handling of Australia Deal That Angered France 'Clumsy'</a> NYT: “I had been under the impression long before that France had been informed,” President Biden said. 
  <p class="updated_time"> 11:48 AM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/28/world/europe/france-detains-british-boat.html">France Detains British Boat as a Fight Over Fishing Rights Escalates</a> NYT: The British government summoned France’s ambassador for talks over the incident, the latest sign of cross-Channel tension between the two countries. 
  <p class="updated_time"> 11:47 AM CT, Oct. 29 </p> 
@@ -89,8 +91,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/eurozone-economy-outpaces-u-s-china-but-tougher-times-lie-ahead-11635505779">Eurozone Economy Outpaces U.S., China</a> WSJ: The loosening of social restrictions and widespread vaccinations powered the region’s comeback from the Covid-19 pandemic, but supply-chain bottlenecks and rising prices are expected to hold growth back in the coming months. 
  <p class="updated_time"> 02:00 AM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/us/politics/biden-summit.html">‘America Is Back,’ Biden Declared in June. The World Is About to Test Him.</a> NYT: Arriving in Europe with an unfinished economic and environmental spending plan, the president will confront new challenges, some self-inflicted, at two major summits. 
- <p class="updated_time"> 01:50 AM CT, Oct. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59075041?at_medium=RSS&at_campaign=KARANGA">Pope urges 'radical' climate response in exclusive BBC message</a> BBC: In an exclusive message recorded for the BBC, Pope Francis addresses world leaders ahead of COP26. 
  <p class="updated_time"> 01:17 AM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/world/australia/saying-goodbye-to-melbournes-long-lockdown-again.html">Saying Goodbye to Melbourne’s Long Lockdown (Again)</a> NYT: It’s been a year and a day since the first time Melbourne reopened. Some things have changed. Some haven’t. 
  <p class="updated_time"> 01:01 AM CT, Oct. 29 </p> 
@@ -190,8 +190,10 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
- <p class="updated_time"> 12:01 PM CT, Oct. 29 </p> 
- <a href="https://www.nytimes.com/2021/10/29/us/politics/big-hires-big-money-and-a-dc-blitz-a-bold-plan-to-dominate-crypto.html">Big Hires, Big Money and a D.C. Blitz: A Bold Plan to Dominate Crypto</a> NYT: The Silicon Valley firm Andreessen Horowitz, whose founders played big roles in the development of the internet, aims to own a huge part of the digital currency world — and set the rules for it, too. 
+ <p class="updated_time"> 12:21 PM CT, Oct. 29 </p> 
+ <a href="https://www.nytimes.com/2021/10/29/us/politics/andreessen-horowitz-lobbying-cryptocurrency.html">Big Hires, Big Money and a D.C. Blitz: A Bold Plan to Dominate Crypto</a> NYT: The Silicon Valley firm Andreessen Horowitz, whose founders played big roles in the development of the internet, aims to own a huge part of the digital currency world — and set the rules for it, too. 
+ <p class="updated_time"> 12:20 PM CT, Oct. 29 </p> 
+ <a href="https://www.nytimes.com/2021/10/28/upshot/biden-taxes-billionaires-millionaires.html">Billionaires Beat the Working Rich in Biden's Spending Bill </a> NYT: One by one, tax proposals that would have slowed dynastic wealth have been tossed from the agreement. 
  <p class="updated_time"> 11:34 AM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/us/politics/adam-kinzinger-illinois-election.html">Adam Kinzinger, a Republican Trump Critic, Won’t Seek Re-election in House</a> NYT: Illinois Democrats eliminated Mr. Kinzinger’s district in a new congressional map. He was one of 10 House Republicans who voted to impeach former President Donald J. Trump. 
  <p class="updated_time"> 11:09 AM CT, Oct. 29 </p> 
@@ -234,8 +236,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/28/us/politics/california-ports-supply-chain.html">Program to Lend Billions to Aid California’s Supply-Chain Infrastructure</a> NYT: The Transportation Department and the state are teaming up on the program, which aims to prevent a repeat of the supply-chain crisis by bolstering ports and other sources of bottlenecks. 
  <p class="updated_time"> 06:50 PM CT, Oct. 28 </p> 
  <a href="https://www.nytimes.com/2021/10/28/us/politics/biden-tax-plan-increases.html">How Biden’s $2 Trillion in Tax Increases Target Companies and the Rich</a> NYT: The proposal to fund the president’s sprawling spending plan mostly turns up the dial on more conventional tax policies, while trying to curb maneuvers that allow tax avoidance. 
- <p class="updated_time"> 06:49 PM CT, Oct. 28 </p> 
- <a href="https://www.nytimes.com/2021/10/28/upshot/biden-taxes-billionaires-millionaires.html">Billionaires Beat the Working Rich in Biden's Spending Bill </a> NYT: One by one, tax proposals that would have slowed dynastic wealth have been tossed from the agreement. 
  <p class="updated_time"> 06:45 PM CT, Oct. 28 </p> 
  <a href="https://www.politico.com/news/2021/10/28/iowa-new-congressional-map-517485">Iowa approves new congressional map with 3 competitive districts</a> Politico: Former President Donald Trump narrowly carried each of the three swing seats under the new lines. 
  <p class="updated_time"> 05:30 PM CT, Oct. 28 </p> 
