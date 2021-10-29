@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:35 AM CT, Oct. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59085806?at_medium=RSS&at_campaign=KARANGA">COP26: Biden lands in Europe ahead of climate summit</a> BBC: The US president arrives but his signature climate proposals are yet to pass through Congress. 
  <p class="updated_time"> 05:42 AM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/28/world/europe/pope-biden-catholic-church-rift.html">Meeting of Francis and Biden Will Highlight Rift With U.S. Bishops</a> NYT: The pope and president, who will meet at the Vatican on Friday, are common targets of conservative American bishops seeking to undercut them. 
  <p class="updated_time"> 05:06 AM CT, Oct. 29 </p> 
@@ -15,8 +17,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/uk-politics-59084086?at_medium=RSS&at_campaign=KARANGA">COP26: Has Boris Johnson got what it takes to get a deal?</a> BBC: The UN climate summit is a huge test of diplomacy for the UK prime minister, with considerable political risks. 
  <p class="updated_time"> 04:51 AM CT, Oct. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-57483492?at_medium=RSS&at_campaign=KARANGA">Why China's climate policy matters to us all</a> BBC: The global battle against climate change is likely to be won or lost in China. 
- <p class="updated_time"> 04:34 AM CT, Oct. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59085806?at_medium=RSS&at_campaign=KARANGA">Biden lands in Europe ahead of COP26 climate summit</a> BBC: The US president arrives but his signature climate proposals are yet to pass through Congress. 
  <p class="updated_time"> 04:22 AM CT, Oct. 29 </p> 
  <a href="https://www.bbc.co.uk/news/business-59059097?at_medium=RSS&at_campaign=KARANGA">Squid Game cryptocurrency rockets in first few days of trading</a> BBC: The popular Netflix show has now spawned a cryptocurrency - and it's soaring. 
  <p class="updated_time"> 04:20 AM CT, Oct. 29 </p> 
