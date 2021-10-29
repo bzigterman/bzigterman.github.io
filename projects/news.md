@@ -15,6 +15,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59085806?at_medium=RSS&at_campaign=KARANGA">Biden lands in Europe with domestic spending plans in limbo</a> BBC: The US president is attending two summits, while his $2.75tn (£2tn) spending plans are up in the air. 
  <p class="updated_time"> 12:00 AM CT, Oct. 29 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59036814?at_medium=RSS&at_campaign=KARANGA">COP26: Arnold Schwarzenegger angered by world leaders' climate policies</a> BBC: The Terminator actor also says reducing meat intake does not have to mean sacrificing something. 
+ <p class="updated_time"> 11:41 PM CT, Oct. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/business-59059097?at_medium=RSS&at_campaign=KARANGA">Squid Game cryptocurrency soars 2300% in first few days</a> BBC: The popular Netflix show has now spawned its new cryptocurrency - and its soaring. 
  <p class="updated_time"> 11:31 PM CT, Oct. 28 </p> 
  <a href="https://www.nytimes.com/2021/10/28/world/asia/japan-election-rural-urban.html">In Japan Elections, Rural Voters Count More Than Those in Big Cities</a> NYT: The disproportionate weight of rural voters in Japan gives sparsely populated parts of the country more representation — and more government largess — than urban areas, perpetuating what critics call an unfair system. 
  <p class="updated_time"> 11:15 PM CT, Oct. 28 </p> 
@@ -85,8 +87,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/28/world/asia/china-covid-olympics.html">Beijing Olympics: China to Ease Covid Guidelines for Athletes in Bubble</a> NYT: Competitors will still face strict rules at what is shaping up to be the most extraordinarily regulated, large-scale sporting event since the pandemic’s start and could be expelled for breaking them. 
  <p class="updated_time"> 08:11 AM CT, Oct. 28 </p> 
  <a href="https://www.nytimes.com/2021/10/28/world/new-zealand-will-cut-the-amount-of-quarantine-time-for-travelers-in-half.html">New Zealand will cut the amount of quarantine time for travelers in half.</a> NYT: NA 
- <p class="updated_time"> 07:37 AM CT, Oct. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59062134?at_medium=RSS&at_campaign=KARANGA">Laos makes Asia's largest ever drug bust</a> BBC: A truck was carrying 55 million amphethamine tablets and over 1.5 tonnes of crystal methamphetamine. 
  <p class="updated_time"> 07:15 AM CT, Oct. 28 </p> 
  <a href="https://www.wsj.com/articles/ecb-keeps-stimulus-unchanged-despite-high-inflation-11635422592">ECB, Diverging From Fed, Sticks With Negative Rates</a> WSJ: The European Central Bank said it would keep its large monetary stimulus unchanged, and bank President Christine Lagarde stressed the view that a recent rise in inflation would be temporary. 
  <p class="updated_time"> 06:25 AM CT, Oct. 28 </p> 
