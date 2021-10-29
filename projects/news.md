@@ -7,12 +7,14 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:37 AM CT, Oct. 29 </p> 
+ <a href="https://www.nytimes.com/2021/10/29/world/asia/pope-francis-modi-india.html">Pope Francis to Meet India's Narendra Modi for the First Time</a> NYT: The meeting comes amid increasing attacks on Christians in the South Asian nation, which is home to one of Asia’s oldest Christian populations. 
+ <p class="updated_time"> 08:36 AM CT, Oct. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59085806?at_medium=RSS&at_campaign=KARANGA">COP26: Biden lands in Europe ahead of climate summit</a> BBC: The US president met the pope in the first of a series of diplomatic meetings ahead of COP26. 
  <p class="updated_time"> 08:14 AM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/world/europe/a-dispute-between-the-uk-and-france-over-fishing-rights-simmers-as-the-g20-summit-approaches.html">A dispute between the U.K. and France over fishing rights simmers as the G20 summit approaches.</a> NYT: The matter is expected to be a topic of discussion for the nations’ leaders this weekend. 
- <p class="updated_time"> 08:08 AM CT, Oct. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59085806?at_medium=RSS&at_campaign=KARANGA">COP26: Biden lands in Europe ahead of climate summit</a> BBC: The US president met the pope in the first of a series of diplomatic meetings ahead of COP26. 
  <p class="updated_time"> 07:27 AM CT, Oct. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-59090067?at_medium=RSS&at_campaign=KARANGA">Meta: Facebook's new name ridiculed by Hebrew speakers</a> BBC: The social media giant joins a number of companies that have encountered translation blunders. 
+ <a href="https://www.bbc.co.uk/news/world-59090067?at_medium=RSS&at_campaign=KARANGA">Meta: Facebook's new name ridiculed by Hebrew speakers</a> BBC: The social media giant joins a number of companies that have fallen foul of translation blunders. 
  <p class="updated_time"> 07:17 AM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/world/europe/cop26-pope-francis-climate.html">Pope Francis Urges 'Radical' Action at COP26 Climate Summit</a> NYT: Only urgent action can “offer concrete hope to future generations,” the pope said in a reflection broadcast on BBC radio. 
  <p class="updated_time"> 07:13 AM CT, Oct. 29 </p> 
@@ -29,8 +31,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/28/world/europe/pope-biden-catholic-church-rift.html">Meeting of Francis and Biden Will Highlight Rift With U.S. Bishops</a> NYT: The pope and president, who will meet at the Vatican on Friday, are common targets of conservative American bishops seeking to undercut them. 
  <p class="updated_time"> 05:37 AM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/world/as-biden-and-francis-prepare-to-meet-the-us-catholic-church-remains-divided.html">As Biden and Francis meet, the U.S. Catholic Church remains divided.</a> NYT: NA 
- <p class="updated_time"> 05:11 AM CT, Oct. 29 </p> 
- <a href="https://www.nytimes.com/2021/10/29/world/asia/pope-francis-modi-india.html">Pope Francis to Meet India's Narendra Modi for the First Time</a> NYT: The meeting comes amid increasing attacks on Christians in the South Asian nation, which is home to one of Asia’s oldest Christian populations. 
  <p class="updated_time"> 05:06 AM CT, Oct. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59089381?at_medium=RSS&at_campaign=KARANGA">Kemerovo fire: Jail terms for bosses over Russian mall disaster</a> BBC: A leisure centre blaze in 2018 killed 60 people, most of them children, in a Siberian city. 
  <p class="updated_time"> 04:56 AM CT, Oct. 29 </p> 
@@ -174,10 +174,12 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:34 AM CT, Oct. 29 </p> 
+ <a href="https://www.nytimes.com/2021/10/29/us/politics/glenn-youngkin-virginia-governors-race.html">Glenn Youngkin Was a Traditional Republican. Then He Became a Culture Warrior.</a> NYT: As he runs for governor of Virginia, Mr. Youngkin has built a coalition, as one prominent conservative described it, of Trump voters and angry parents. 
+ <p class="updated_time"> 08:29 AM CT, Oct. 29 </p> 
+ <a href="https://www.nytimes.com/2021/10/28/climate/climate-change-framework-bill.html">Climate Change Became the Largest Part of Biden Spending Bill</a> NYT: As paid family leave and other priorities were taken out of the president’s plan, the largest piece became a $555 billion plan to fight climate change. 
  <p class="updated_time"> 07:41 AM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/27/us/politics/beloved-toni-morrison-virginia.html">Fight Over Toni Morrison Novel Inflames Virginia Governor's Race</a> NYT: A Republican ad featured a mother who had tried to have “Beloved” banned from her son’s curriculum. Democrats saw a coded racist message. 
- <p class="updated_time"> 07:39 AM CT, Oct. 29 </p> 
- <a href="https://www.nytimes.com/2021/10/29/us/politics/glenn-youngkin-virginia-governors-race.html">Glenn Youngkin Was a Traditional Republican. Then He Became a Culture Warrior.</a> NYT: As he runs for governor of Virginia, Mr. Youngkin has built a coalition, as one prominent conservative described it, of Trump voters and angry parents. 
  <p class="updated_time"> 07:06 AM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/world/australia/nuclear-powered-submarines.html">Nuclear-Powered Submarines for Australia? Maybe Not So Fast.</a> NYT: Australia’s plan to build the submarines with U.S. and British help faces big hurdles. Supporters say they can be overcome. Critics say they may be too much. 
  <p class="updated_time"> 06:07 AM CT, Oct. 29 </p> 
@@ -202,8 +204,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/28/us/politics/progressives-infrastructure-biden-pelosi-support.html">Progressives Unmoved by Biden Request for Fast Vote on Infrastructure</a> NYT: Their opposition complicated plans for House leaders, who decided against holding a vote on the bill on Thursday despite President Biden’s entreaties earlier in the day. 
  <p class="updated_time"> 08:44 PM CT, Oct. 28 </p> 
  <a href="https://www.nytimes.com/2021/10/28/us/politics/trump-family-separation-border.html">Families Separated at Border Under Trump Policy May Each Receive Up to $450,000</a> NYT: After the Trump administration separated migrant parents from children at the southern border, President Biden pledged to make it up to the families. 
- <p class="updated_time"> 07:34 PM CT, Oct. 28 </p> 
- <a href="https://www.nytimes.com/2021/10/28/climate/climate-change-framework-bill.html">Climate Change Became the Largest Part of Biden Spending Bill</a> NYT: As paid family leave and other priorities were taken out of the president’s plan, the largest piece became a $555 billion plan to fight climate change. 
  <p class="updated_time"> 07:08 PM CT, Oct. 28 </p> 
  <a href="https://www.nytimes.com/2021/10/28/us/politics/california-ports-supply-chain.html">Program to Lend Billions to Aid California’s Supply-Chain Infrastructure</a> NYT: The Transportation Department and the state are teaming up on the program, which aims to prevent a repeat of the supply-chain crisis by bolstering ports and other sources of bottlenecks. 
  <p class="updated_time"> 06:50 PM CT, Oct. 28 </p> 
