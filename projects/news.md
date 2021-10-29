@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:00 AM CT, Oct. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/science-environment-59036814?at_medium=RSS&at_campaign=KARANGA">COP26: Arnold Schwarzenegger angered by world leaders' climate policies</a> BBC: The Terminator actor also says reducing meat intake does not have to mean sacrificing something. 
  <p class="updated_time"> 11:31 PM CT, Oct. 28 </p> 
  <a href="https://www.nytimes.com/2021/10/28/world/asia/japan-election-rural-urban.html">In Japan Elections, Rural Voters Count More Than Those in Big Cities</a> NYT: The disproportionate weight of rural voters in Japan gives sparsely populated parts of the country more representation — and more government largess — than urban areas, perpetuating what critics call an unfair system. 
  <p class="updated_time"> 11:15 PM CT, Oct. 28 </p> 
@@ -79,8 +81,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/ecb-keeps-stimulus-unchanged-despite-high-inflation-11635422592">ECB, Diverging From Fed, Sticks With Negative Rates</a> WSJ: The European Central Bank said it would keep its large monetary stimulus unchanged, and bank President Christine Lagarde stressed the view that a recent rise in inflation would be temporary. 
  <p class="updated_time"> 06:25 AM CT, Oct. 28 </p> 
  <a href="https://www.wsj.com/articles/taiwanese-president-confirms-u-s-troop-deployment-on-island-11635433900">Taiwanese President Confirms U.S. Troop Deployment on Island</a> WSJ: Tsai Ing-wen noted a “range of cooperation with the U.S.,” in comments that followed a recent Wall Street Journal report that a small contingent of Marines and a special-operations unit had been training Taiwanese forces. 
- <p class="updated_time"> 06:19 AM CT, Oct. 28 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-59075271?at_medium=RSS&at_campaign=KARANGA">Film-maker who exposed East Timor massacre dies</a> BBC: Max Stahl went from children's TV host to award-winning film-maker and East Timor national hero. 
  <p class="updated_time"> 06:00 AM CT, Oct. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59075486?at_medium=RSS&at_campaign=KARANGA">Ali al-Nimr: Saudi child protester who faced death penalty released</a> BBC: Ali al-Nimr, who was arrested when he was 17, was originally sentenced to death by beheading. 
  <p class="updated_time"> 05:59 AM CT, Oct. 28 </p> 
