@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:50 AM CT, Oct. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59075041?at_medium=RSS&at_campaign=KARANGA">Pope urges 'radical' climate response in exclusive BBC message</a> BBC: In an exclusive message recorded for the BBC, Pope Francis addresses world leaders ahead of COP26. 
  <p class="updated_time"> 01:17 AM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/world/australia/saying-goodbye-to-melbournes-long-lockdown-again.html">Saying Goodbye to Melbourne’s Long Lockdown (Again)</a> NYT: It’s been a year and a day since the first time Melbourne reopened. Some things have changed. Some haven’t. 
  <p class="updated_time"> 01:01 AM CT, Oct. 29 </p> 
@@ -79,8 +81,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/28/world/europe/pope-biden-catholic-church-rift.html">Meeting of Francis and Biden Will Highlight Rift With U.S. Bishops</a> NYT: The pope and president, who will meet at the Vatican on Friday, are common targets of conservative American bishops seeking to undercut them. 
  <p class="updated_time"> 11:15 AM CT, Oct. 28 </p> 
  <a href="https://www.nytimes.com/2021/10/27/world/asia/japan-election-communist-party.html">Japan’s Communists Are Hardly Radical, but Make a Handy Election Target</a> NYT: They have minimal support in polls. But by teaming up with other opposition parties for the first time, they have been made a boogeyman by the unpopular party in power. 
- <p class="updated_time"> 10:30 AM CT, Oct. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-59082112?at_medium=RSS&at_campaign=KARANGA">French and Australian leaders hold first talks after submarine row</a> BBC: French President Macron tells Australian Prime Minister Morrison the relation of trust is now broken. 
  <p class="updated_time"> 09:02 AM CT, Oct. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59076152?at_medium=RSS&at_campaign=KARANGA">Covid: Moscow shops and restaurants shut in partial lockdown</a> BBC: Russia closes non-essential services and sends workers home amid record Covid deaths. 
  <p class="updated_time"> 08:37 AM CT, Oct. 28 </p> 
