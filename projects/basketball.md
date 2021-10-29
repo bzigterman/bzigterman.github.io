@@ -4,9 +4,7 @@ title: Basketball Standings
 permalink: /projects/basketball/
 ---
 
-<p class="updated_time"> Latest data: 09:17 PM CT, October 28</p> 
-
-## Standings
+<p class="updated_time"> Latest data: 10:17 PM CT, October 28</p> 
 
 ![Standings]({{ site.baseurl }}/plots/nba_team_rank.png)
 
