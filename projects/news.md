@@ -202,6 +202,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:48 PM CT, Oct. 29 </p> 
+ <a href="https://www.nytimes.com/2021/10/29/us/politics/immigration-green-cards-visas-democrats.html">Green Card Backlog Focus of Democrats' Latest Immigration Effort</a> NYT: A proposal in President Biden’s social spending bill would make hundreds of thousands of unused green cards available for immigrants. But it faces an uncertain future under Senate rules. 
  <p class="updated_time"> 06:37 PM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/us/politics/a-global-tax-deal-is-at-hand-heres-how-it-would-work.html">A Global Tax Deal Is at Hand. Here’s How It Would Work.</a> NYT: President Biden will sign on to an international pact aimed at ending profit-shifting by large companies. Here’s a look at what it means. 
  <p class="updated_time"> 05:50 PM CT, Oct. 29 </p> 
@@ -210,8 +212,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/29/arts/in-this-house-yard-signs.html">‘In This House’ Yard Signs, and Their Curious Power</a> NYT: How a lawn sign inspired by mom décor became a liberal mantra — and a symbol of a political battle over white womanhood. 
  <p class="updated_time"> 05:46 PM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/us/politics/office-access-justice-legal-aid.html">Garland Revives Effort to Expand Access to Legal Aid</a> NYT: The attorney general acted to reverse a Trump administration decision to cut off funding for the Office for Access to Justice, an Obama-era program to give poor defendants legal representation. 
- <p class="updated_time"> 05:36 PM CT, Oct. 29 </p> 
- <a href="https://www.nytimes.com/2021/10/29/us/politics/immigration-green-cards-visas-democrats.html">Green Card Backlog Focus of Democrats' Latest Immigration Effort</a> NYT: A proposal in President Biden’s social spending bill would make hundreds of thousands of unused green cards available for immigrants. But it faces an uncertain future under Senate rules. 
  <p class="updated_time"> 05:30 PM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/us/politics/coronavirus-origin-intelligence-report.html">Origin of Virus May Remain Murky, U.S. Intelligence Agencies Say</a> NYT: A declassified report said a clearer answer would require more information from Beijing or new discoveries and reiterated divisions over natural causes vs. a lab leak. 
  <p class="updated_time"> 05:30 PM CT, Oct. 29 </p> 
@@ -242,8 +242,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/29/us/politics/crypto-currency-venture-capitalists.html">How Venture Capitalists Think Cryptocurrency Will Reshape Commerce</a> NYT: From banking to gaming, investors are sending billions of dollars to crypto inventors who seek to disrupt industries. Here’s a look at some of those bets. 
  <p class="updated_time"> 01:36 PM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/us/politics/richmond-virginia-elections.html">Why a Changing Richmond and Its Suburbs Are Key to Virginia’s Vote</a> NYT: The region has been an engine of Democratic victories, but now the party is on defense as Republicans go after swing voters with worries about schools. 
- <p class="updated_time"> 01:17 PM CT, Oct. 29 </p> 
- <a href="https://www.nytimes.com/2021/10/28/us/politics/infrastructure-bill-spending-plan.html">The President's Gamble: Biden Implores Democrats to Support His Agenda</a> NYT: “The House and Senate majorities and my presidency will be determined by what happens in the next week,” President Biden told lawmakers on Thursday. 
  <p class="updated_time"> 09:58 AM CT, Oct. 29 </p> 
  <a href="https://www.politico.com/news/2021/10/29/jan-6-committee-capitol-rioter-517602">Jan. 6 committee set to interview rioter who breached the Capitol</a> Politico: Heather Shaner, an attorney who represents multiple defendants in Jan. 6 cases, confirmed that one of her clients will be remotely interviewed Friday afternoon. 
  <p class="updated_time"> 09:37 AM CT, Oct. 29 </p> 
