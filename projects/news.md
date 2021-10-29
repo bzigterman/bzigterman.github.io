@@ -9,6 +9,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 02:21 PM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/world/africa/sudan-coup-general.html">‘They Lied.’ Inside the Frantic Days Leading to Sudan’s Coup</a> NYT: The American envoy, Jeffrey Feltman, was given assurances that seemed to head off a military takeover. Hours later, Lt. Gen. Abdel Fattah al-Burhan made his move. 
+ <p class="updated_time"> 02:17 PM CT, Oct. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59085806?at_medium=RSS&at_campaign=KARANGA">Biden: We were clumsy over France submarine row</a> BBC: The US president meets his French counterpart in the wake of a diplomatic row over a submarine deal. 
  <p class="updated_time"> 01:58 PM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/world/europe/queen-elizabeth-2-weeks-rest.html">Queen Elizabeth Urged by Doctors to Rest at Least 2 Weeks</a> NYT: The advice from her medical team has heightened the worry about the health of the 95-year-old monarch, who has canceled the public appearances that had been on her calendar. 
  <p class="updated_time"> 01:57 PM CT, Oct. 29 </p> 
@@ -29,8 +31,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/29/world/europe/biden-macron-submarine-deal.html">Biden Calls Handling of Australia Deal That Angered France 'Clumsy'</a> NYT: “I had been under the impression long before that France had been informed,” President Biden said. 
  <p class="updated_time"> 12:05 PM CT, Oct. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59096571?at_medium=RSS&at_campaign=KARANGA">Poland to build Belarus border wall to block migrant influx</a> BBC: The wall to curb a wave of migrants entering from Belarus has been approved by Poland's parliament. 
- <p class="updated_time"> 11:52 AM CT, Oct. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59085806?at_medium=RSS&at_campaign=KARANGA">Biden: We were clumsy over France submarine row</a> BBC: The US president meets his French counterpart in the wake of a diplomatic row over a submarine deal. 
  <p class="updated_time"> 11:48 AM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/28/world/europe/france-detains-british-boat.html">France Detains British Boat as a Fight Over Fishing Rights Escalates</a> NYT: The British government summoned France’s ambassador for talks over the incident, the latest sign of cross-Channel tension between the two countries. 
  <p class="updated_time"> 11:47 AM CT, Oct. 29 </p> 
@@ -198,8 +198,10 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
- <p class="updated_time"> 02:19 PM CT, Oct. 29 </p> 
+ <p class="updated_time"> 02:29 PM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/us/politics/covid-vaccine-children.html">F.D.A. Clears Pfizer Coronavirus Vaccine for Young Children</a> NYT: Experts said the shot could bring relief to parents anxious about their children getting sick, though some worry that those most at risk may slip through the cracks. 
+ <p class="updated_time"> 02:28 PM CT, Oct. 29 </p> 
+ <a href="https://www.nytimes.com/2021/10/29/us/politics/adam-kinzinger-illinois-election.html">Adam Kinzinger, a Republican Trump Critic, Won’t Seek Re-election in House</a> NYT: Illinois Democrats eliminated Mr. Kinzinger’s district in a new congressional map. He was one of 10 House Republicans who voted to impeach former President Donald J. Trump. 
  <p class="updated_time"> 01:53 PM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/us/politics/immigration-remain-mexico.html">Another Attempt to End 'Remain in Mexico' Immigration Policy</a> NYT: A court ordered the administration in August to reinstate the program, which forces some migrants to wait in Mexico while their asylum cases are pending. 
  <p class="updated_time"> 01:53 PM CT, Oct. 29 </p> 
@@ -216,8 +218,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/28/us/politics/infrastructure-bill-spending-plan.html">The President's Gamble: Biden Implores Democrats to Support His Agenda</a> NYT: “The House and Senate majorities and my presidency will be determined by what happens in the next week,” President Biden told lawmakers on Thursday. 
  <p class="updated_time"> 12:20 PM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/28/upshot/biden-taxes-billionaires-millionaires.html">Billionaires Beat the Working Rich in Biden's Spending Bill </a> NYT: One by one, tax proposals that would have slowed dynastic wealth have been tossed from the agreement. 
- <p class="updated_time"> 11:34 AM CT, Oct. 29 </p> 
- <a href="https://www.nytimes.com/2021/10/29/us/politics/adam-kinzinger-illinois-election.html">Adam Kinzinger, a Republican Trump Critic, Won’t Seek Re-election in House</a> NYT: Illinois Democrats eliminated Mr. Kinzinger’s district in a new congressional map. He was one of 10 House Republicans who voted to impeach former President Donald J. Trump. 
  <p class="updated_time"> 11:03 AM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/arts/in-this-house-yard-signs.html">In This House, We List Our Beliefs in the Yard</a> NYT: How a lawn sign inspired by mom décor became a liberal mantra — and a symbol of a political battle over white womanhood. 
  <p class="updated_time"> 09:58 AM CT, Oct. 29 </p> 
