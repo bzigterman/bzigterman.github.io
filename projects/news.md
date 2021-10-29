@@ -7,6 +7,12 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:45 PM CT, Oct. 28 </p> 
+ <a href="https://www.nytimes.com/2021/10/28/world/europe/brescia-italy-winged-victory.html">After Time of ‘Real Terror,’ City’s Resilience Is Symbolized in Statue</a> NYT: Brescia, Italy, was one of the first Western cities devastated by the pandemic. It has adopted a famed ancient statue, “Winged Victory,” as the emblem of its recovery — and a prod for visits. 
+ <p class="updated_time"> 10:41 PM CT, Oct. 28 </p> 
+ <a href="https://www.nytimes.com/2021/10/28/world/middleeast/saudi-investment-covid.html">Yasir al-Rumayyan Missing From Saudi Arabia's Investment Conference</a> NYT: The unexplained absence of Yasir al-Rumayyan, who oversees the kingdom’s sovereign wealth fund, has highlighted concerns about a lack of transparency. 
+ <p class="updated_time"> 10:40 PM CT, Oct. 28 </p> 
+ <a href="https://www.nytimes.com/2021/10/28/world/asia/japan-election-rural-urban.html">In Japan Elections, Rural Voters Count More Than Those in Big Cities</a> NYT: The disproportionate weight of rural voters in Japan gives sparsely populated parts of the country more representation — and more government largess — than urban areas, perpetuating what critics call an unfair system. 
  <p class="updated_time"> 09:29 PM CT, Oct. 28 </p> 
  <a href="https://www.nytimes.com/2021/10/27/world/australia/free-land.html">What Happened When a Hellishly Hot Tiny Town Offered ‘Free’ Land</a> NYT: The town in Australia’s outback, where the temperature can hit 113 degrees Fahrenheit, drew hundreds of global inquiries when it put out the call in a bid to expand its population. 
  <p class="updated_time"> 08:45 PM CT, Oct. 28 </p> 
@@ -37,8 +43,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/28/world/europe/france-detains-british-boat.html">France Detains British Boat as a Fight Over Fishing Rights Escalates</a> NYT: The British government summoned France’s ambassador for talks over the incident, the latest sign of cross-Channel tension between the two countries. 
  <p class="updated_time"> 04:25 PM CT, Oct. 28 </p> 
  <a href="https://www.nytimes.com/2021/10/28/world/meatpacking-workers-covid-cases-deaths.html">Covid Hit U.S. Meat Plants Far Harder Than Thought, Report Says</a> NYT: The industry had three times as many Covid infections in the pandemic’s early months as previously believed, a select committee says. 
- <p class="updated_time"> 03:16 PM CT, Oct. 28 </p> 
- <a href="https://www.nytimes.com/2021/10/28/world/asia/japan-election-rural-urban.html">In Japan Elections, Rural Voters Count More Than Those in Big Cities</a> NYT: The disproportionate weight of rural voters in Japan gives sparsely populated parts of the country more representation — and more government largess — than urban areas, perpetuating what critics call an unfair system. 
  <p class="updated_time"> 03:09 PM CT, Oct. 28 </p> 
  <a href="https://www.nytimes.com/2021/10/27/world/asia/afghan-girls-school-taliban.html">Taliban Allow Girls to Return to Some High Schools, but With Big Caveats</a> NYT: In some provinces, teenage girls have been allowed to return to secondary schools, though some teachers and parents still have doubts about what this means about Taliban rule. 
  <p class="updated_time"> 02:45 PM CT, Oct. 28 </p> 
@@ -57,14 +61,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/28/health/polio-measles-vaccinations-covid.html">Polio and Measles Vaccines Lag for Children Across the World </a> NYT: Millions of young children did not get immunized against polio, measles and other diseases. 
  <p class="updated_time"> 12:03 PM CT, Oct. 28 </p> 
  <a href="https://www.nytimes.com/2021/10/28/world/europe/pope-biden-catholic-church-rift.html">Meeting of Francis and Biden Will Highlight Rift With U.S. Bishops</a> NYT: The pope and president, who will meet at the Vatican on Friday, are common targets of conservative American bishops seeking to undercut them. 
- <p class="updated_time"> 11:48 AM CT, Oct. 28 </p> 
- <a href="https://www.nytimes.com/2021/10/28/world/europe/brescia-italy-winged-victory.html">After Time of ‘Real Terror,’ City’s Resilience Is Symbolized in Statue</a> NYT: Brescia, Italy, was one of the first Western cities devastated by the pandemic. It has adopted a famed ancient statue, “Winged Victory,” as the emblem of its recovery — and a prod for visits. 
  <p class="updated_time"> 11:15 AM CT, Oct. 28 </p> 
  <a href="https://www.nytimes.com/2021/10/27/world/asia/japan-election-communist-party.html">Japan’s Communists Are Hardly Radical, but Make a Handy Election Target</a> NYT: They have minimal support in polls. But by teaming up with other opposition parties for the first time, they have been made a boogeyman by the unpopular party in power. 
  <p class="updated_time"> 10:30 AM CT, Oct. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-59082112?at_medium=RSS&at_campaign=KARANGA">French and Australian leaders hold first talks after submarine row</a> BBC: French President Macron tells Australian Prime Minister Morrison the relation of trust is now broken. 
- <p class="updated_time"> 10:28 AM CT, Oct. 28 </p> 
- <a href="https://www.nytimes.com/2021/10/28/world/middleeast/saudi-investment-covid.html">Saudi Finance Official Is Missing From Conference He Hosts</a> NYT: The unexplained absence of Yasir al-Rumayyan, who oversees the kingdom’s sovereign wealth fund, has highlighted concerns about a lack of transparency. 
  <p class="updated_time"> 09:02 AM CT, Oct. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59076152?at_medium=RSS&at_campaign=KARANGA">Covid: Moscow shops and restaurants shut in partial lockdown</a> BBC: Russia closes non-essential services and sends workers home amid record Covid deaths. 
  <p class="updated_time"> 08:37 AM CT, Oct. 28 </p> 
@@ -178,8 +178,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
- <p class="updated_time"> 10:26 PM CT, Oct. 28 </p> 
- <a href="https://www.nytimes.com/2021/10/28/us/politics/supreme-court-oklahoma-executions.html">After Supreme Court Lifts Stay, Oklahoma Executes Inmate</a> NYT: The inmate, John Marion Grant, convulsed and vomited as he was put to death. The court also cleared the way for another execution next month. 
+ <p class="updated_time"> 10:44 PM CT, Oct. 28 </p> 
+ <a href="https://www.nytimes.com/2021/10/28/us/politics/supreme-court-oklahoma-executions.html">After Supreme Court Lifts Stay, Oklahoma Executes Inmate</a> NYT: The prisoner, John Marion Grant, convulsed and vomited as he was put to death by lethal injection. The court also cleared the way for another execution next month. 
  <p class="updated_time"> 10:20 PM CT, Oct. 28 </p> 
  <a href="https://www.nytimes.com/2021/10/28/us/politics/guantanamo-detainee-torture.html">For First Time in Public, a Detainee Describes Torture at C.I.A. Black Sites</a> NYT: In a sentencing hearing, Majid Khan, a Pakistani who lived in suburban Baltimore before joining Al Qaeda, detailed dungeonlike conditions and episodes of abuse. 
  <p class="updated_time"> 09:05 PM CT, Oct. 28 </p> 
