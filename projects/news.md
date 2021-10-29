@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:00 AM CT, Oct. 29 </p> 
+ <a href="https://www.nytimes.com/2021/10/29/us/politics/biden-summit.html">‘America Is Back,’ Biden Declared in June. The World Is About to Test Him.</a> NYT: Arriving in Europe with an unfinished economic and environmental spending plan, the president will confront new challenges, some self-inflicted, at two major summits. 
  <p class="updated_time"> 01:50 AM CT, Oct. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59075041?at_medium=RSS&at_campaign=KARANGA">Pope urges 'radical' climate response in exclusive BBC message</a> BBC: In an exclusive message recorded for the BBC, Pope Francis addresses world leaders ahead of COP26. 
  <p class="updated_time"> 01:17 AM CT, Oct. 29 </p> 
@@ -16,7 +18,7 @@ permalink: /projects/news/
  <p class="updated_time"> 01:00 AM CT, Oct. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59085806?at_medium=RSS&at_campaign=KARANGA">Biden lands in Europe with domestic spending plans in limbo</a> BBC: The US president is attending two summits, while his $2.75tn (£2tn) spending plans are up in the air. 
  <p class="updated_time"> 12:00 AM CT, Oct. 29 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-59036814?at_medium=RSS&at_campaign=KARANGA">COP26: Arnold Schwarzenegger angered by world leaders' climate policies</a> BBC: The Terminator actor also says reducing meat intake does not have to mean sacrificing something. 
+ <a href="https://www.bbc.co.uk/news/science-environment-59053809?at_medium=RSS&at_campaign=KARANGA">Arnold Schwarzenegger calls leaders 'liars' over climate</a> BBC: The actor and former governor of California speaks to BBC radio 4 ahead of the COP26 climate summit. 
  <p class="updated_time"> 11:41 PM CT, Oct. 28 </p> 
  <a href="https://www.bbc.co.uk/news/business-59059097?at_medium=RSS&at_campaign=KARANGA">Squid Game cryptocurrency soars 2300% in first few days</a> BBC: The popular Netflix show has now spawned its new cryptocurrency - and its soaring. 
  <p class="updated_time"> 11:31 PM CT, Oct. 28 </p> 
@@ -29,8 +31,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/28/world/middleeast/saudi-investment-covid.html">Yasir al-Rumayyan Missing From Saudi Arabia's Investment Conference</a> NYT: The unexplained absence of Yasir al-Rumayyan, who oversees the kingdom’s sovereign wealth fund, has highlighted concerns about a lack of transparency. 
  <p class="updated_time"> 09:29 PM CT, Oct. 28 </p> 
  <a href="https://www.nytimes.com/2021/10/27/world/australia/free-land.html">What Happened When a Hellishly Hot Tiny Town Offered ‘Free’ Land</a> NYT: The town in Australia’s outback, where the temperature can hit 113 degrees Fahrenheit, drew hundreds of global inquiries when it put out the call in a bid to expand its population. 
- <p class="updated_time"> 08:45 PM CT, Oct. 28 </p> 
- <a href="https://www.nytimes.com/2021/10/26/world/europe/celine-manuscripts-france.html">Céline's Newly Unearthed Work Causes a Stir in France</a> NYT: A legal battle is raging over manuscripts written by the antisemitic writer Louis-Ferdinand Céline that disappeared almost eight decades ago. 
  <p class="updated_time"> 08:45 PM CT, Oct. 28 </p> 
  <a href="https://www.bbc.co.uk/news/technology-59072745?at_medium=RSS&at_campaign=KARANGA">Inside the controversial US gunshot-detection firm</a> BBC: BBC News has been given access to ShotSpotter, the controversial US technology company that detects gunshots. 
  <p class="updated_time"> 08:26 PM CT, Oct. 28 </p> 
@@ -170,6 +170,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:00 AM CT, Oct. 29 </p> 
+ <a href="https://www.nytimes.com/2021/10/29/us/politics/biden-summit.html">‘America Is Back,’ Biden Declared in June. The World Is About to Test Him.</a> NYT: Arriving in Europe with an unfinished economic and environmental spending plan, the president will confront new challenges, some self-inflicted, at two major summits. 
  <p class="updated_time"> 11:15 PM CT, Oct. 28 </p> 
  <a href="https://www.nytimes.com/2021/10/29/world/australia/nuclear-powered-submarines.html">Nuclear-Powered Submarines for Australia? Maybe Not So Fast.</a> NYT: Australia’s plan to build the submarines with U.S. and British help faces big hurdles. Supporters say they can be overcome. Critics say they may be too much. 
  <p class="updated_time"> 11:10 PM CT, Oct. 28 </p> 
@@ -204,8 +206,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/10/28/iowa-new-congressional-map-517485">Iowa approves new congressional map with 3 competitive districts</a> Politico: Former President Donald Trump narrowly carried each of the three swing seats under the new lines. 
  <p class="updated_time"> 05:30 PM CT, Oct. 28 </p> 
  <a href="https://www.nytimes.com/2021/10/28/us/politics/elections-november.html">Will We See Red or Blue Mirages in Election Results on Tuesday?</a> NYT: Mail-in ballots skewed early returns in some states in 2020. Will the trend repeat itself on Tuesday? 
- <p class="updated_time"> 05:18 PM CT, Oct. 28 </p> 
- <a href="https://www.nytimes.com/2021/10/27/us/politics/supreme-court-texas-abortion.html">Briefs Draw Battle Lines as Texas Abortion Law Nears Supreme Court</a> NYT: The justices, who will hear arguments on Monday in two cases challenging the state’s near-total ban, required the parties to file their briefs with extraordinary speed. 
  <p class="updated_time"> 04:58 PM CT, Oct. 28 </p> 
  <a href="https://www.politico.com/news/2021/10/28/budget-deal-democrats-biden-framework-517469">Your guide to the huge Dem deal: 14 new policies and what could stop them</a> Politico: Democrats revealed a framework for a $1.75 trillion spending deal, but areas such as health care, child care and climate change are missing major party priorities. 
  <p class="updated_time"> 02:41 PM CT, Oct. 28 </p> 
