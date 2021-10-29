@@ -7,8 +7,12 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:42 AM CT, Oct. 29 </p> 
+ <a href="https://www.nytimes.com/2021/10/28/world/europe/pope-biden-catholic-church-rift.html">Meeting of Francis and Biden Will Highlight Rift With U.S. Bishops</a> NYT: The pope and president, who will meet at the Vatican on Friday, are common targets of conservative American bishops seeking to undercut them. 
  <p class="updated_time"> 05:06 AM CT, Oct. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59089381?at_medium=RSS&at_campaign=KARANGA">Kemerovo fire: Jail terms for bosses over Russian mall disaster</a> BBC: A leisure centre blaze in 2018 killed 60 people, most of them children, in a Siberian city. 
+ <p class="updated_time"> 04:56 AM CT, Oct. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-politics-59084086?at_medium=RSS&at_campaign=KARANGA">COP26: Has Boris Johnson got what it takes to get a deal?</a> BBC: The UN climate summit is a huge test of diplomacy for the UK prime minister, with considerable political risks. 
  <p class="updated_time"> 04:51 AM CT, Oct. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-57483492?at_medium=RSS&at_campaign=KARANGA">Why China's climate policy matters to us all</a> BBC: The global battle against climate change is likely to be won or lost in China. 
  <p class="updated_time"> 04:34 AM CT, Oct. 29 </p> 
@@ -93,8 +97,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/28/world/africa/africa-syringe-shortages-who.html">Syringe Shortage Likely to Add to Africa's Vaccine Barriers, W.H.O. Says</a> NYT: The continent already suffers from high infection levels, low vaccination rates and limited, unpredictable deliveries of vaccine doses. 
  <p class="updated_time"> 12:04 PM CT, Oct. 28 </p> 
  <a href="https://www.nytimes.com/2021/10/28/health/polio-measles-vaccinations-covid.html">Polio and Measles Vaccines Lag for Children Across the World </a> NYT: Millions of young children did not get immunized against polio, measles and other diseases. 
- <p class="updated_time"> 12:03 PM CT, Oct. 28 </p> 
- <a href="https://www.nytimes.com/2021/10/28/world/europe/pope-biden-catholic-church-rift.html">Meeting of Francis and Biden Will Highlight Rift With U.S. Bishops</a> NYT: The pope and president, who will meet at the Vatican on Friday, are common targets of conservative American bishops seeking to undercut them. 
  <p class="updated_time"> 11:15 AM CT, Oct. 28 </p> 
  <a href="https://www.nytimes.com/2021/10/27/world/asia/japan-election-communist-party.html">Japan’s Communists Are Hardly Radical, but Make a Handy Election Target</a> NYT: They have minimal support in polls. But by teaming up with other opposition parties for the first time, they have been made a boogeyman by the unpopular party in power. 
  <p class="updated_time"> 08:37 AM CT, Oct. 28 </p> 
@@ -159,8 +161,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/26/world/europe/children-die-greece-migrant-crossing.html">3 Children and 1 Woman Drowned While Migrating Across the Aegean Sea</a> NYT: Migrant crossings are down and so are deaths at sea, but Tuesday’s incident was a reminder that dangers remain. 
  <p class="updated_time"> 11:32 AM CT, Oct. 26 </p> 
  <a href="https://www.nytimes.com/2021/10/26/arts/music/self-esteem-prioritise-pleasure.html">Self Esteem, a Pop Singer Who Wants Britain to ‘Prioritise Pleasure’</a> NYT: Rebecca Lucy Taylor is touching a nerve with brutally honest songs about not having it all figured out. 
- <p class="updated_time"> 10:12 PM CT, Oct. 25 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-59046518?at_medium=RSS&at_campaign=KARANGA">Eco-friendly sex: What is it and how does it impact on climate change?</a> BBC: As more people try to live environmentally friendly lives, how do we make sex more sustainable? 
  <p class="updated_time"> 07:12 PM CT, Oct. 25 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-58171814?at_medium=RSS&at_campaign=KARANGA">Climate change: Four things you can do about your carbon footprint</a> BBC: Small changes to our lifestyles and choices could limit our personal carbon footprint. 
  <p class="updated_time"> 11:10 AM CT, Oct. 25 </p> 
