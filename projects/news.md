@@ -7,20 +7,22 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:21 PM CT, Oct. 29 </p> 
+ <a href="https://www.nytimes.com/2021/10/29/world/africa/sudan-coup-general.html">‘They Lied.’ Inside the Frantic Days Leading to Sudan’s Coup</a> NYT: The American envoy, Jeffrey Feltman, was given assurances that seemed to head off a military takeover. Hours later, Lt. Gen. Abdel Fattah al-Burhan made his move. 
+ <p class="updated_time"> 01:58 PM CT, Oct. 29 </p> 
+ <a href="https://www.nytimes.com/2021/10/29/world/europe/queen-elizabeth-2-weeks-rest.html">Queen Elizabeth Urged by Doctors to Rest at Least 2 Weeks</a> NYT: The advice from her medical team has heightened the worry about the health of the 95-year-old monarch, who has canceled the public appearances that had been on her calendar. 
+ <p class="updated_time"> 01:57 PM CT, Oct. 29 </p> 
+ <a href="https://www.nytimes.com/2021/10/29/world/europe/biden-pope-communion-abortion.html">Biden: Pope Says He Should Keep Receiving Communion</a> NYT: President Biden said abortion had not come up in their private meeting. “We just talked about the fact he was happy that I was a good Catholic and I should keep receiving communion,” he said. 
+ <p class="updated_time"> 01:54 PM CT, Oct. 29 </p> 
+ <a href="https://www.nytimes.com/2021/10/29/nyregion/nyc-schools-enrollment-covid.html">N.Y.C. Public School Enrollment Declined 4.5 Percent During the Pandemic</a> NYT: The city lost by far the largest number of students in its recent history between the fall of 2019 and the fall of 2020. 
  <p class="updated_time"> 01:52 PM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/article/day-of-the-dead-mexico.html">What Is Day of the Dead and How Is the Mexican Holiday Celebrated?</a> NYT: Popularized by Hollywood in films like “Coco” and the James Bond franchise, Día de Muertos is a centuries-old tradition that has roots in Indigenous culture. 
  <p class="updated_time"> 01:45 PM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/world/europe/a-dispute-between-the-uk-and-france-over-fishing-rights-simmers-as-the-g20-summit-approaches.html">A dispute between the U.K. and France over fishing rights simmers as the G20 summit begins.</a> NYT: The matter is expected to be a topic of discussion for the nations’ leaders this weekend. 
  <p class="updated_time"> 01:41 PM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/world/asia/tonga-first-covid-case.html">Tonga Reports First Covid Case, Nearly 2 Years Into Pandemic</a> NYT: The Pacific island, 1,100 miles from New Zealand, has quarantined all airport employees on duty after a flight with an infected passenger arrived. 
- <p class="updated_time"> 01:35 PM CT, Oct. 29 </p> 
- <a href="https://www.nytimes.com/2021/10/29/world/africa/sudan-coup-general.html">‘They Lied.’ Inside the Frantic Days Leading to Sudan’s Coup</a> NYT: The American envoy, Jeffrey Feltman, was given assurances that seemed to head off a military takeover. Hours later, Lt. Gen. Abdel Fattah al-Burhan made his move. 
- <p class="updated_time"> 01:16 PM CT, Oct. 29 </p> 
- <a href="https://www.nytimes.com/2021/10/29/world/europe/biden-pope-communion-abortion.html">Biden: Pope Says He Should Keep Receiving Communion</a> NYT: President Biden said abortion had not come up in their private meeting. “We just talked about the fact he was happy that I was a good Catholic and I should keep receiving communion,” he said. 
- <p class="updated_time"> 12:56 PM CT, Oct. 29 </p> 
- <a href="https://www.nytimes.com/2021/10/29/nyregion/nyc-schools-enrollment-covid.html">N.Y.C. Public School Enrollment Declined 4.5 Percent During the Pandemic</a> NYT: The city lost by far the largest number of students in its recent history between the fall of 2019 and the fall of 2020. 
- <p class="updated_time"> 12:51 PM CT, Oct. 29 </p> 
- <a href="https://www.nytimes.com/2021/10/29/world/europe/queen-elizabeth-2-weeks-rest.html">Queen Elizabeth Urged by Doctors to Rest at Least 2 Weeks</a> NYT: The advice from her medical team has heightened the worry about the health of the 95-year-old monarch, who has canceled the public appearances that had been on her calendar. 
+ <p class="updated_time"> 01:11 PM CT, Oct. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-59039919?at_medium=RSS&at_campaign=KARANGA">Palestinian groups branded terrorists by Israel say they are being silenced</a> BBC: Six human rights groups outlawed by Israel say they are being silenced and want the ban removed. 
  <p class="updated_time"> 12:46 PM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/world/bidens-meeting-with-pope-francis-is-a-diplomatic-visit-tinged-with-the-personal.html">The president’s meeting with Pope Francis was a diplomatic visit tinged with the personal.</a> NYT: NA 
  <p class="updated_time"> 12:15 PM CT, Oct. 29 </p> 
@@ -53,6 +55,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/29/world/europe/spanish-writer-carmen-mola-true-identity.html">Behind a Top Female Name in Spanish Crime Fiction: Three Men</a> NYT: Carmen Mola, a novelist publishing under a pen name, seemed to shatter a glass ceiling in the world of Spanish books. But when the author’s true identity was revealed while claiming a big prize, it was a shock. 
  <p class="updated_time"> 09:46 AM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/climate/europe-energy-crisis-cop.html">How Rising Energy Prices Have Complicated Europe's Climate Crisis</a> NYT: Prices for power have soared, and some politicians are now trying to use that as a lever to slow action on climate change, a strategy with far-reaching consequences. 
+ <p class="updated_time"> 09:39 AM CT, Oct. 29 </p> 
+ <a href="https://www.wsj.com/articles/queen-elizabeth-calls-off-official-visits-for-two-weeks-on-medical-advice-11635532785">Queen Elizabeth Calls Off Official Visits for Two Weeks on Medical Advice</a> WSJ: The 95-year-old monarch already had pulled out from the United Nations climate-change summit in Scotland next week on medical advice. 
  <p class="updated_time"> 09:34 AM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/us/hurricane-storm-season.html">Is Hurricane Season Still Going? You Bet.</a> NYT: There hasn’t been a named storm in the Atlantic Ocean since early October, but about a month remains in the hurricane season. “Don’t raid your hurricane supplies yet,” said one meteorologist. 
  <p class="updated_time"> 08:37 AM CT, Oct. 29 </p> 
@@ -79,6 +83,8 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/g-20-climate-talks-threatened-by-clash-over-coal-ahead-of-cop26-11635491696">G-20 Climate Talks Threatened by Clash Over Coal</a> WSJ: Leaders from the Group of 20 major economies are split over phasing out coal and limiting global warming to 1.5 degrees Celsius, officials said, throwing into doubt whether ambitious climate change targets can be hit. 
  <p class="updated_time"> 05:37 AM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/world/as-biden-and-francis-prepare-to-meet-the-us-catholic-church-remains-divided.html">As Biden and Francis meet, the U.S. Catholic Church remains divided.</a> NYT: NA 
+ <p class="updated_time"> 05:17 AM CT, Oct. 29 </p> 
+ <a href="https://www.wsj.com/articles/glasgow-expects-25-000-climate-summit-guests-it-has-just-15-000-hotel-rooms-11635517039">Glasgow Expects 25,000 Climate Summit Guests. It Has Just 15,000 Hotel Rooms.</a> WSJ: Visitors from 120 countries start arriving this weekend for the climate change meeting, but not everyone has found a place to stay; ‘most stressful’ 
  <p class="updated_time"> 05:06 AM CT, Oct. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59089381?at_medium=RSS&at_campaign=KARANGA">Kemerovo fire: Jail terms for bosses over Russian mall disaster</a> BBC: A leisure centre blaze in 2018 killed 60 people, most of them children, in a Siberian city. 
  <p class="updated_time"> 04:56 AM CT, Oct. 29 </p> 
@@ -95,8 +101,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/29/world/europe/roma-hip-hop-band-serbia-pretty-loud.html">‘Different Way of Fighting’: Lyrics Are the Weapons of All-Women Roma Band</a> NYT: Many Roma women face pressures to marry young and take on traditional gender roles. Pretty Loud, a hip-hop group from Serbia, wants girls to decide for themselves. 
  <p class="updated_time"> 03:06 AM CT, Oct. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59088348?at_medium=RSS&at_campaign=KARANGA">Heather Mack: Bali 'suitcase murder' accomplice released early</a> BBC: Heather Mack had been in jail for helping to kill her mother and stuffing her body into a suitcase. 
- <p class="updated_time"> 02:56 AM CT, Oct. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-59087800?at_medium=RSS&at_campaign=KARANGA">Palestinians unveil huge mosaic in West Bank desert castle</a> BBC: The restored mosaic at Hisham's Palace in the city of Jericho is one of the largest in the world. 
  <p class="updated_time"> 02:09 AM CT, Oct. 29 </p> 
  <a href="https://www.wsj.com/articles/eurozone-economy-outpaces-u-s-china-but-tougher-times-lie-ahead-11635505779">Eurozone Economy Outpaces U.S., China</a> WSJ: The loosening of social restrictions and widespread vaccinations powered the region’s comeback from the Covid-19 pandemic, but supply-chain bottlenecks and rising prices are expected to hold growth back in the coming months. 
  <p class="updated_time"> 02:00 AM CT, Oct. 29 </p> 
@@ -147,6 +151,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/28/world/africa/africa-syringe-shortages-who.html">Syringe Shortage Likely to Add to Africa's Vaccine Barriers, W.H.O. Says</a> NYT: The continent already suffers from high infection levels, low vaccination rates and limited, unpredictable deliveries of vaccine doses. 
  <p class="updated_time"> 12:04 PM CT, Oct. 28 </p> 
  <a href="https://www.nytimes.com/2021/10/28/health/polio-measles-vaccinations-covid.html">Polio and Measles Vaccines Lag for Children Across the World </a> NYT: Millions of young children did not get immunized against polio, measles and other diseases. 
+ <p class="updated_time"> 10:39 AM CT, Oct. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59082976?at_medium=RSS&at_campaign=KARANGA">Dramatic footage shows tornado cut across Texas highway</a> BBC: The twister flung trees and cars into the air and affected 100 homes, officials said. 
  <p class="updated_time"> 08:37 AM CT, Oct. 28 </p> 
  <a href="https://www.nytimes.com/2021/10/28/world/asia/china-covid-olympics.html">Beijing Olympics: China to Ease Covid Guidelines for Athletes in Bubble</a> NYT: Competitors will still face strict rules at what is shaping up to be the most extraordinarily regulated, large-scale sporting event since the pandemic’s start and could be expelled for breaking them. 
  <p class="updated_time"> 08:11 AM CT, Oct. 28 </p> 
@@ -155,8 +161,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/taiwanese-president-confirms-u-s-troop-deployment-on-island-11635433900">Taiwanese President Confirms U.S. Troop Deployment on Island</a> WSJ: Tsai Ing-wen noted a “range of cooperation with the U.S.,” in comments that followed a recent Wall Street Journal report that a small contingent of Marines and a special-operations unit had been training Taiwanese forces. 
  <p class="updated_time"> 05:59 AM CT, Oct. 28 </p> 
  <a href="https://www.wsj.com/articles/indias-missile-test-seen-as-warning-to-china-after-breakdown-in-border-talks-11635433146">India's Missile Test Seen as Warning to China After Breakdown in Border Talks</a> WSJ: Security experts said the launch of the Agni-5 missile, the only one in India’s arsenal capable of reaching Beijing, was a pointed reminder to China that the South Asian nation has the firepower to fight back if border tensions flare up again. 
- <p class="updated_time"> 05:26 AM CT, Oct. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59075793?at_medium=RSS&at_campaign=KARANGA">British fishing trawler detained by French authorities</a> BBC: Two British ships caught up in post-Brexit fishing rights row in French waters. 
  <p class="updated_time"> 05:12 AM CT, Oct. 28 </p> 
  <a href="https://www.nytimes.com/2021/10/27/world/middleeast/israel-settlements-west-bank.html">Israel Advances Plan for New Settlement Homes, in First for Bennett Era</a> NYT: Approved despite the objections of the United States, critics say the new building will consolidate Israel’s presence in the West Bank and make it harder to create a Palestinian state. 
  <p class="updated_time"> 04:46 AM CT, Oct. 28 </p> 
@@ -183,8 +187,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/27/arts/design/petrit-halilaj-tate-kosovo-war.html">Wonders, and Horrors, Drawn From Boyhood in a War Zone</a> NYT: Petrit Halilaj became one of Kosovo’s most acclaimed artists with work that reflects on his country’s past. Now, he’s getting personal. 
  <p class="updated_time"> 04:00 AM CT, Oct. 27 </p> 
  <a href="https://www.nytimes.com/2021/10/27/books/abdulrazak-gurnah-nobel-prize-literature-afterlives.html">He Won the Nobel. Why Are His Books So Hard to Find?</a> NYT: After Abdulrazak Gurnah was awarded this year’s Nobel Prize in Literature, he instantly gained a wider international audience, something publishers are now scrambling to accommodate. 
- <p class="updated_time"> 04:00 AM CT, Oct. 27 </p> 
- <a href="https://www.nytimes.com/2021/10/27/us/politics/global-minimum-tax-deal.html">Pastries and Persuasion: How a Global Tax Deal Got Done</a> NYT: Over Zoom calls from basements and a breakfast in Brussels, faltering negotiations to remake the world’s tax architecture were revived. 
  <p class="updated_time"> 07:12 PM CT, Oct. 25 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-58171814?at_medium=RSS&at_campaign=KARANGA">Climate change: Four things you can do about your carbon footprint</a> BBC: Small changes to our lifestyles and choices could limit our personal carbon footprint. 
  <p class="updated_time"> 11:10 AM CT, Oct. 25 </p> 
@@ -196,6 +198,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:19 PM CT, Oct. 29 </p> 
+ <a href="https://www.nytimes.com/2021/10/29/us/politics/covid-vaccine-children.html">F.D.A. Clears Pfizer Coronavirus Vaccine for Young Children</a> NYT: Experts said the shot could bring relief to parents anxious about their children getting sick, though some worry that those most at risk may slip through the cracks. 
  <p class="updated_time"> 01:53 PM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/us/politics/immigration-remain-mexico.html">Another Attempt to End 'Remain in Mexico' Immigration Policy</a> NYT: A court ordered the administration in August to reinstate the program, which forces some migrants to wait in Mexico while their asylum cases are pending. 
  <p class="updated_time"> 01:53 PM CT, Oct. 29 </p> 
@@ -214,8 +218,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/28/upshot/biden-taxes-billionaires-millionaires.html">Billionaires Beat the Working Rich in Biden's Spending Bill </a> NYT: One by one, tax proposals that would have slowed dynastic wealth have been tossed from the agreement. 
  <p class="updated_time"> 11:34 AM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/us/politics/adam-kinzinger-illinois-election.html">Adam Kinzinger, a Republican Trump Critic, Won’t Seek Re-election in House</a> NYT: Illinois Democrats eliminated Mr. Kinzinger’s district in a new congressional map. He was one of 10 House Republicans who voted to impeach former President Donald J. Trump. 
- <p class="updated_time"> 11:09 AM CT, Oct. 29 </p> 
- <a href="https://www.nytimes.com/2021/10/29/us/politics/covid-vaccine-children.html">F.D.A. Expected to Clear Pfizer Coronavirus Vaccine for Young Children</a> NYT: Experts said the shot could bring relief to parents anxious about their children getting sick, though some worry that those most at risk may slip through the cracks. 
  <p class="updated_time"> 11:03 AM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/arts/in-this-house-yard-signs.html">In This House, We List Our Beliefs in the Yard</a> NYT: How a lawn sign inspired by mom décor became a liberal mantra — and a symbol of a political battle over white womanhood. 
  <p class="updated_time"> 09:58 AM CT, Oct. 29 </p> 
@@ -246,8 +248,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/28/us/politics/trump-family-separation-border.html">Families Separated at Border Under Trump Policy May Each Receive Up to $450,000</a> NYT: After the Trump administration separated migrant parents from children at the southern border, President Biden pledged to make it up to the families. 
  <p class="updated_time"> 07:08 PM CT, Oct. 28 </p> 
  <a href="https://www.nytimes.com/2021/10/28/us/politics/california-ports-supply-chain.html">Program to Lend Billions to Aid California’s Supply-Chain Infrastructure</a> NYT: The Transportation Department and the state are teaming up on the program, which aims to prevent a repeat of the supply-chain crisis by bolstering ports and other sources of bottlenecks. 
- <p class="updated_time"> 06:50 PM CT, Oct. 28 </p> 
- <a href="https://www.nytimes.com/2021/10/28/us/politics/biden-tax-plan-increases.html">How Biden’s $2 Trillion in Tax Increases Target Companies and the Rich</a> NYT: The proposal to fund the president’s sprawling spending plan mostly turns up the dial on more conventional tax policies, while trying to curb maneuvers that allow tax avoidance. 
  <p class="updated_time"> 06:45 PM CT, Oct. 28 </p> 
  <a href="https://www.politico.com/news/2021/10/28/iowa-new-congressional-map-517485">Iowa approves new congressional map with 3 competitive districts</a> Politico: Former President Donald Trump narrowly carried each of the three swing seats under the new lines. 
  <p class="updated_time"> 05:30 PM CT, Oct. 28 </p> 
