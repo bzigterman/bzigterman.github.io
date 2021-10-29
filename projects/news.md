@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:15 PM CT, Oct. 28 </p> 
+ <a href="https://www.nytimes.com/2021/10/29/world/australia/nuclear-powered-submarines.html">Nuclear-Powered Submarines for Australia? Maybe Not So Fast.</a> NYT: Australia’s plan to build the submarines with U.S. and British help faces big hurdles. Supporters say they can be overcome. Critics say they may be too much. 
+ <p class="updated_time"> 11:04 PM CT, Oct. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59085806?at_medium=RSS&at_campaign=KARANGA">Biden lands in Europe with domestic spending plans in limbo</a> BBC: The president's fellow Democrats abandon plans for a vote, leaving his whole platform up in the air. 
  <p class="updated_time"> 10:45 PM CT, Oct. 28 </p> 
  <a href="https://www.nytimes.com/2021/10/28/world/europe/brescia-italy-winged-victory.html">After Time of ‘Real Terror,’ City’s Resilience Is Symbolized in Statue</a> NYT: Brescia, Italy, was one of the first Western cities devastated by the pandemic. It has adopted a famed ancient statue, “Winged Victory,” as the emblem of its recovery — and a prod for visits. 
  <p class="updated_time"> 10:41 PM CT, Oct. 28 </p> 
@@ -55,8 +59,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/28/world/europe/france-biden-macron-g20.html">France and the United States Seek an Elusive Reconciliation</a> NYT: The Biden administration is poised to offer the French some defense-related emollients after their falling out over a sabotaged submarine deal. But some damage may last. 
  <p class="updated_time"> 01:06 PM CT, Oct. 28 </p> 
  <a href="https://www.nytimes.com/2021/10/28/world/africa/africa-syringe-shortages-who.html">Syringe Shortage Likely to Add to Africa's Vaccine Barriers, W.H.O. Says</a> NYT: The continent already suffers from high infection levels, low vaccination rates and limited, unpredictable deliveries of vaccine doses. 
- <p class="updated_time"> 12:22 PM CT, Oct. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59081791?at_medium=RSS&at_campaign=KARANGA">Biden announces revamped $1.75 trillion social spending plan</a> BBC: The president said that his party was "on board" though the scaled-back plan's fate is uncertain. 
  <p class="updated_time"> 12:04 PM CT, Oct. 28 </p> 
  <a href="https://www.nytimes.com/2021/10/28/health/polio-measles-vaccinations-covid.html">Polio and Measles Vaccines Lag for Children Across the World </a> NYT: Millions of young children did not get immunized against polio, measles and other diseases. 
  <p class="updated_time"> 12:03 PM CT, Oct. 28 </p> 
@@ -97,8 +99,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/28/movies/french-dispatch-paris.html">Wes Anderson’s Dream of France, and the Paris I Remember</a> NYT: With “The French Dispatch,” the director’s latest, yet another American artist falls under the country’s spell. The Times’s Paris bureau chief recalls when the same thing happened to him. 
  <p class="updated_time"> 01:00 AM CT, Oct. 28 </p> 
  <a href="https://www.wsj.com/articles/four-u-s-intelligence-agencies-produced-extensive-reports-on-afghanistan-but-all-failed-to-predict-kabuls-rapid-collapse-11635415201">Intelligence Agencies Failed to Predict Rapid Fall of Kabul</a> WSJ: Agencies offered scattershot assessments of the staying power of the Afghan military and government, a review of wide-ranging summaries of classified material by The Wall Street Journal shows. 
- <p class="updated_time"> 11:00 PM CT, Oct. 27 </p> 
- <a href="https://www.nytimes.com/2021/10/26/world/asia/covid-china-lanzhou-lockdown.html">China Locks Down City of 4 Million to Subdue Covid Outbreak</a> NYT: Lanzhou, with about four million people, reported six new coronavirus cases on Tuesday, and a total of 39 over the past week. 
  <p class="updated_time"> 10:43 PM CT, Oct. 27 </p> 
  <a href="https://www.nytimes.com/2021/10/27/world/americas/haiti-gangs-fuel-shortage.html">Gangs Rule Much of Haiti. For Many, It Means No Fuel, No Power, No Food.</a> NYT: A country in crisis is facing a severe fuel shortage that is pushing it to the brink of collapse. 
  <p class="updated_time"> 07:24 PM CT, Oct. 27 </p> 
@@ -113,8 +113,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/27/world/canada/pope-indigenous-apology.html">Pope Expresses ‘Willingness’ to Visit Canada for Indigenous Reconciliation</a> NYT: A National Truth and Reconciliation Commission has called for a papal apology for abuses at church-run schools for Indigenous children. 
  <p class="updated_time"> 04:07 PM CT, Oct. 27 </p> 
  <a href="https://www.nytimes.com/2021/10/27/health/covid-pill-access-molnupiravir.html">Merck Will Share Formula for Its Covid Pill With Poor Countries</a> NYT: The company announced a licensing deal that will allow the drug, molnupiravir, to be made and sold cheaply in 105 developing nations. 
- <p class="updated_time"> 02:24 PM CT, Oct. 27 </p> 
- <a href="https://www.nytimes.com/2021/10/26/sports/alex-honnold-mother-el-capitan.html">She Climbed Yosemite's El Capitan to Celebrate Turning 70</a> NYT: Dierdre Wolownick, whose son, Alex Honnold, is one of the world’s top rock climbers, ascended Yosemite’s El Capitan to celebrate her 70th birthday. 
  <p class="updated_time"> 02:15 PM CT, Oct. 27 </p> 
  <a href="https://www.nytimes.com/2021/10/27/world/united-nations-coronavirus.html">U.N. Group Blames Unequal Vaccine Access for Bigger Global Economic Gap</a> NYT: Wealthier countries with high vaccination rates have had speedier economic recoveries than poorer countries with low vaccination rates, the International Labor Organization said. 
  <p class="updated_time"> 01:40 PM CT, Oct. 27 </p> 
@@ -127,8 +125,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-australia-59068417?at_medium=RSS&at_campaign=KARANGA">Footballer Josh Cavallo on coming out as gay: 'It's my freedom day'</a> BBC: Josh Cavallo has come out as gay - the only current top level male professional footballer to do so. 
  <p class="updated_time"> 04:00 AM CT, Oct. 27 </p> 
  <a href="https://www.nytimes.com/2021/10/27/books/abdulrazak-gurnah-nobel-prize-literature-afterlives.html">He Won the Nobel. Why Are His Books So Hard to Find?</a> NYT: After Abdulrazak Gurnah was awarded this year’s Nobel Prize in Literature, he instantly gained a wider international audience, something publishers are now scrambling to accommodate. 
- <p class="updated_time"> 04:00 AM CT, Oct. 27 </p> 
- <a href="https://www.nytimes.com/2021/10/27/business/cbd-japan-cannabis-marijuana.html">Japan Stays Tough on Marijuana as Other Nations Loosen Up</a> NYT: Some Japanese who have gone abroad and been exposed to the benefits of cannabis derivatives, particularly CBD, are hoping Japan will change course. But the government shows little inclination. 
  <p class="updated_time"> 04:00 AM CT, Oct. 27 </p> 
  <a href="https://www.nytimes.com/2021/10/27/us/politics/global-minimum-tax-deal.html">Pastries and Persuasion: How a Global Tax Deal Got Done</a> NYT: Over Zoom calls from basements and a breakfast in Brussels, faltering negotiations to remake the world’s tax architecture were revived. 
  <p class="updated_time"> 10:08 PM CT, Oct. 26 </p> 
@@ -153,14 +149,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/26/world/europe/children-die-greece-migrant-crossing.html">3 Children and 1 Woman Drowned While Migrating Across the Aegean Sea</a> NYT: Migrant crossings are down and so are deaths at sea, but Tuesday’s incident was a reminder that dangers remain. 
  <p class="updated_time"> 11:32 AM CT, Oct. 26 </p> 
  <a href="https://www.nytimes.com/2021/10/26/arts/music/self-esteem-prioritise-pleasure.html">Self Esteem, a Pop Singer Who Wants Britain to ‘Prioritise Pleasure’</a> NYT: Rebecca Lucy Taylor is touching a nerve with brutally honest songs about not having it all figured out. 
- <p class="updated_time"> 11:22 AM CT, Oct. 26 </p> 
- <a href="https://www.nytimes.com/2021/10/26/world/asia/myanmar-coup-trial-aung-san-suu-kyi.html">Aung San Suu Kyi to Defend Herself in Myanmar 'Show Trial'</a> NYT: The United Nations has described the charges against the former leader as politically motivated. If convicted, she could face a maximum of 102 years in prison. 
  <p class="updated_time"> 11:20 AM CT, Oct. 26 </p> 
  <a href="https://www.nytimes.com/2021/10/26/arts/contract-bridge-cheating.html">After a Year of ‘Rampant’ Cheating, Elite Bridge Tries to Clean Up</a> NYT: As the pandemic forced most players online, the problem of cheating consumed the game’s highest levels. Top players say a tight-lipped culture is finally changing. 
  <p class="updated_time"> 09:22 AM CT, Oct. 26 </p> 
  <a href="https://www.nytimes.com/2021/10/26/world/middleeast/iran-taliban-afghanistan.html">Iran Wanted U.S. Out of Afghanistan. It May Be Sorry the Wish Came True.</a> NYT: Iran is glad the Americans are gone, but the Taliban takeover of Afghanistan creates a host of problems for Tehran, with no easy solutions. 
- <p class="updated_time"> 08:50 AM CT, Oct. 26 </p> 
- <a href="https://www.nytimes.com/2021/10/26/world/africa/covid-moderna-african-union.html">Moderna to Sell Up to 110 Million Covid Vaccine Doses to African Countries</a> NYT: Moderna’s shots have previously gone almost entirely to wealthier countries. 
  <p class="updated_time"> 10:12 PM CT, Oct. 25 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59046518?at_medium=RSS&at_campaign=KARANGA">Eco-friendly sex: What is it and how does it impact on climate change?</a> BBC: As more people try to live environmentally friendly lives, how do we make sex more sustainable? 
  <p class="updated_time"> 07:12 PM CT, Oct. 25 </p> 
@@ -178,10 +170,14 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:15 PM CT, Oct. 28 </p> 
+ <a href="https://www.nytimes.com/2021/10/29/world/australia/nuclear-powered-submarines.html">Nuclear-Powered Submarines for Australia? Maybe Not So Fast.</a> NYT: Australia’s plan to build the submarines with U.S. and British help faces big hurdles. Supporters say they can be overcome. Critics say they may be too much. 
+ <p class="updated_time"> 11:10 PM CT, Oct. 28 </p> 
+ <a href="https://www.nytimes.com/2021/10/28/business/media/tucker-carlson-geraldo-rivera-fox.html">Geraldo Rivera criticizes his Fox News colleague Tucker Carlson.</a> NYT: “I’m probably going to get in trouble for this,” Mr. Rivera said after taking issue with “false flag” claims in Mr. Carlson’s upcoming three-part series, “Patriot Purge.” 
+ <p class="updated_time"> 11:08 PM CT, Oct. 28 </p> 
+ <a href="https://www.nytimes.com/2021/10/28/us/politics/guantanamo-detainee-torture.html">For First Time in Public, a Detainee Describes Torture at C.I.A. Black Sites</a> NYT: In a sentencing hearing, Majid Khan, a Pakistani who lived in suburban Baltimore before joining Al Qaeda, detailed dungeonlike conditions and episodes of abuse. 
  <p class="updated_time"> 10:48 PM CT, Oct. 28 </p> 
  <a href="https://www.nytimes.com/2021/10/28/us/politics/supreme-court-oklahoma-executions.html">After Supreme Court Lifts Stay, Oklahoma Executes Inmate</a> NYT: The prisoner, John Marion Grant, convulsed and vomited as he was put to death by lethal injection. The court also cleared the way for another execution next month. 
- <p class="updated_time"> 10:20 PM CT, Oct. 28 </p> 
- <a href="https://www.nytimes.com/2021/10/28/us/politics/guantanamo-detainee-torture.html">For First Time in Public, a Detainee Describes Torture at C.I.A. Black Sites</a> NYT: In a sentencing hearing, Majid Khan, a Pakistani who lived in suburban Baltimore before joining Al Qaeda, detailed dungeonlike conditions and episodes of abuse. 
  <p class="updated_time"> 09:05 PM CT, Oct. 28 </p> 
  <a href="https://www.nytimes.com/2021/10/28/us/politics/biden-immigration.html">An Immigration Overhaul is Part of Biden's Spending Framework</a> NYT: Included in the plan is a proposal to protect millions of undocumented immigrants who are longtime residents of the country from deportation. 
  <p class="updated_time"> 09:05 PM CT, Oct. 28 </p> 
@@ -214,8 +210,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/10/28/budget-deal-democrats-biden-framework-517469">Your guide to the huge Dem deal: 14 new policies and what could stop them</a> Politico: Democrats revealed a framework for a $1.75 trillion spending deal, but areas such as health care, child care and climate change are missing major party priorities. 
  <p class="updated_time"> 02:41 PM CT, Oct. 28 </p> 
  <a href="https://www.politico.com/news/2021/10/28/liberals-weigh-settling-for-half-a-loaf-517456">Liberals weigh their options: Settle for half a loaf, or fight</a> Politico: President Joe Biden and Democratic leaders are asking for their votes on a $1.75 trillion social spending blueprint. They're not totally sold yet. 
- <p class="updated_time"> 01:21 PM CT, Oct. 28 </p> 
- <a href="https://www.nytimes.com/2021/10/28/business/media/tucker-carlson-geraldo-rivera-fox.html">Geraldo Rivera criticizes his Fox News colleague Tucker Carlson.</a> NYT: “I’m probably going to get in trouble for this,” Mr. Rivera said after taking issue with “false flag” claims in Mr. Carlson’s upcoming three-part series, “Patriot Purge.” 
  <p class="updated_time"> 08:21 AM CT, Oct. 28 </p> 
  <a href="https://www.politico.com/news/2021/10/28/sinema-biden-prescription-drug-deal-517422">Sinema reached prescription drug negotiation deal with Biden</a> Politico: But the issue was left out of the framework the White House released publicly on Thursday morning, leaving its fate uncertain. 
  <p class="updated_time"> 07:17 AM CT, Oct. 28 </p> 
@@ -226,8 +220,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/27/us/politics/democrats-rush-rewrite-tax-code.html">Democrats Rush to Rewrite U.S. Tax Code in Days</a> NYT: Lawmakers are racing to finalize legislation to pay for new spending initiatives. The process usually takes months, but they are trying to do it in days. 
  <p class="updated_time"> 07:33 PM CT, Oct. 27 </p> 
  <a href="https://www.nytimes.com/2021/10/27/us/politics/merrick-garland-justice-department-schools-memo.html">Republicans Assail Garland Over Justice Department Schools Memo</a> NYT: Republicans said the Biden administration was seeking to intimidate parents concerned about school policies. The attorney general cited a spike in threats. 
- <p class="updated_time"> 06:43 PM CT, Oct. 27 </p> 
- <a href="https://www.nytimes.com/2021/10/27/us/politics/diplomats-security-blinken.html">State Department Eases Restrictions for Diplomats Abroad</a> NYT: The State Department is easing some restrictions after employees said that their jobs overseas were harder than they needed to be. 
  <p class="updated_time"> 03:48 PM CT, Oct. 27 </p> 
  <a href="https://www.politico.com/news/2021/10/27/democrats-immigration-gambit-loses-steam-517352">Dems' last-ditch immigration gambit loses steam</a> Politico: Even if President Joe Biden can get fellow Democrats to add reform provisions to a broad social spending deal, the Senate parliamentarian can squash them. 
  <p class="updated_time"> 10:33 AM CT, Oct. 27 </p> 
