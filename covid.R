@@ -43,7 +43,8 @@ hospitalizations_by_date <- hospitalizations %>%
   group_by(Date) %>%
   summarise(sum_hospitalized = sum(total)) %>%
   mutate(avg_hospitalized = sum_hospitalized/7) %>%
-  mutate(CountyName = "Champaign")
+  mutate(CountyName = "Champaign") %>%
+  mutate(Date = Date + days(7))
 
 ### set variables ----
 champaign_avg_hospitalized <- format(round(signif(tail(hospitalizations_by_date$avg_hospitalized,1),3)),big.mark=",")
