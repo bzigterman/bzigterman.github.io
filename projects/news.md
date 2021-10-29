@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:42 AM CT, Oct. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-politics-59090943?at_medium=RSS&at_campaign=KARANGA">Greta Thunberg: Activist calls on banks to stop funding climate 'destruction'</a> BBC: The Swedish campaigner is in the UK to take part in protests ahead of next week's COP26 conference. 
  <p class="updated_time"> 08:37 AM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/world/asia/pope-francis-modi-india.html">Pope Francis to Meet India's Narendra Modi for the First Time</a> NYT: The meeting comes amid increasing attacks on Christians in the South Asian nation, which is home to one of Asia’s oldest Christian populations. 
  <p class="updated_time"> 08:36 AM CT, Oct. 29 </p> 
@@ -89,8 +91,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59075044?at_medium=RSS&at_campaign=KARANGA">Mikheil Saakashvili: Hunger-striking ex-leader rattles Georgia from jail</a> BBC: Mikheil Saakashvili was president, but is now in prison as the government tries to silence him. 
  <p class="updated_time"> 07:22 PM CT, Oct. 28 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59067310?at_medium=RSS&at_campaign=KARANGA">COP26: Four numbers to remember ahead of the climate change summit</a> BBC: The Queen cancelling her appearance and a climate pledge delayed - what do they mean for COP26? 
- <p class="updated_time"> 06:56 PM CT, Oct. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59085935?at_medium=RSS&at_campaign=KARANGA">Two US neo-Nazis from 'the Base' jailed for terrorist plot</a> BBC: The sentence comes as part of a federal government crackdown on violent white nationalists. 
  <p class="updated_time"> 06:08 PM CT, Oct. 28 </p> 
  <a href="https://www.bbc.co.uk/news/business-58815695?at_medium=RSS&at_campaign=KARANGA">Why the vending machine is making a comeback</a> BBC: From milkshakes to pizzas, new vending machines are selling an expanding range of products. 
  <p class="updated_time"> 06:02 PM CT, Oct. 28 </p> 
