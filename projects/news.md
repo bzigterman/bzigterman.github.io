@@ -31,12 +31,18 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/26/world/europe/queen-elizabeth-cop26-summit.html">Queen Elizabeth Will Skip Climate Summit in Glasgow</a> NYT: The 95-year-old queen, after 70 years on the throne, is the oldest and longest-serving monarch in British history. 
  <p class="updated_time"> 07:27 PM CT, Oct. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59073105?at_medium=RSS&at_campaign=KARANGA">Indonesia calls for vaccine equity after Covid toll</a> BBC: In an exclusive interview, President Joko Widodo urges rich countries to share their vaccines. 
+ <p class="updated_time"> 07:27 PM CT, Oct. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/58956714?at_medium=RSS&at_campaign=KARANGA">Climate Change: What are the big polluters doing to cut carbon emissions?</a> BBC: The top CO2-producing nations all have plans to tackle global warming - but what progress are they making? 
  <p class="updated_time"> 07:26 PM CT, Oct. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59080871?at_medium=RSS&at_campaign=KARANGA">The Taliban’s secretive war against IS</a> BBC: Jalalabad is the frontline in murky and bloody battle between two groups, and the death toll is rising. 
+ <p class="updated_time"> 07:25 PM CT, Oct. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-58992093?at_medium=RSS&at_campaign=KARANGA">Europe's floods: Lessons from German tragedy</a> BBC: Recriminations have followed the July floods and the alleged failure to alert residents. 
  <p class="updated_time"> 07:25 PM CT, Oct. 28 </p> 
  <a href="https://www.bbc.co.uk/news/59048827?at_medium=RSS&at_campaign=KARANGA">Ethiopia food crisis: Why does PM have a problem with wheat aid?</a> BBC: Ethiopia has been increasing its wheat production, but this is yet to catch up with growing wheat demand. 
  <p class="updated_time"> 07:24 PM CT, Oct. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59075044?at_medium=RSS&at_campaign=KARANGA">Mikheil Saakashvili: Hunger-striking ex-leader rattles Georgia from jail</a> BBC: Mikheil Saakashvili was president, but is now in prison as the government tries to silence him. 
+ <p class="updated_time"> 07:22 PM CT, Oct. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/science-environment-59067310?at_medium=RSS&at_campaign=KARANGA">COP26: Four numbers that set the stage for climate change negotiations</a> BBC: The Queen cancelling her appearance and a climate pledge delayed - what do they mean for COP26? 
  <p class="updated_time"> 06:56 PM CT, Oct. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59085935?at_medium=RSS&at_campaign=KARANGA">Two US neo-Nazis from 'the Base' jailed for terrorist plot</a> BBC: The sentence comes as part of a federal government crackdown on violent white nationalists. 
  <p class="updated_time"> 06:30 PM CT, Oct. 28 </p> 
@@ -155,12 +161,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/science-environment-59046518?at_medium=RSS&at_campaign=KARANGA">Eco-friendly sex: What is it and how does it impact on climate change?</a> BBC: As more people try to live environmentally friendly lives, how do we make sex more sustainable? 
  <p class="updated_time"> 07:12 PM CT, Oct. 25 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-58171814?at_medium=RSS&at_campaign=KARANGA">Climate change: Four things you can do about your carbon footprint</a> BBC: Small changes to our lifestyles and choices could limit our personal carbon footprint. 
- <p class="updated_time"> 06:01 PM CT, Oct. 25 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-59039485?at_medium=RSS&at_campaign=KARANGA">Climate change: Sir David Attenborough in 'act now' warning</a> BBC: "If we don't act now, it'll be too late," warns Sir David Attenborough ahead of the COP26 climate summit. 
  <p class="updated_time"> 11:10 AM CT, Oct. 25 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-56901261?at_medium=RSS&at_campaign=KARANGA">COP26: What is the Glasgow climate conference and why is it important?</a> BBC: A crucial climate change summit is being held in the UK - this is why it's important. 
- <p class="updated_time"> 07:00 PM CT, Oct. 24 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-58874831?at_medium=RSS&at_campaign=KARANGA">Climate change: The environmental disasters we've almost fixed</a> BBC: From acid rain to the ozone hole: Can we learn from the environmental "success stories" of the past? 
 
 
 </details>
