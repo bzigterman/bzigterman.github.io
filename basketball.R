@@ -172,7 +172,7 @@ west_standings <- western %>%
 nba_standings <- full_join(east_standings, west_standings)
 
 # standings check ----
-old_standings <- read_csv("data/standings.csv",
+old_standings <- read_csv("data/nba_standings.csv",
                           col_types = cols(
                             conference = col_character(),
                             team_label = col_character(),
@@ -190,7 +190,7 @@ standings_check <- nba_standings %>%
   select(conference, team_label, wins, losses, win_pct_text)
 standings_the_same <- all_equal(standings_check, old_standings)
 if (standings_the_same != TRUE) { 
-  write_csv(standings_check,"data/standings.csv")
+  write_csv(standings_check,"data/nba_standings.csv")
 }
 
 
