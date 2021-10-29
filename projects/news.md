@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:34 AM CT, Oct. 29 </p> 
+ <a href="https://www.nytimes.com/2021/10/29/us/hurricane-storm-season.html">Is Hurricane Season Still Going? You Bet.</a> NYT: There hasn’t been a named storm in the Atlantic Ocean since early October, but about a month remains in the hurricane season. “Don’t raid your hurricane supplies yet,” said one meteorologist. 
  <p class="updated_time"> 08:42 AM CT, Oct. 29 </p> 
  <a href="https://www.bbc.co.uk/news/uk-politics-59090943?at_medium=RSS&at_campaign=KARANGA">Greta Thunberg: Activist calls on banks to stop funding climate 'destruction'</a> BBC: The Swedish campaigner is in the UK to take part in protests ahead of next week's COP26 conference. 
  <p class="updated_time"> 08:37 AM CT, Oct. 29 </p> 
@@ -161,8 +163,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/26/world/canada/justin-trudeau-cabinet.html">Justin Trudeau Introduces 'Reinvigorated' Cabinet</a> NYT: The Canadian prime minister failed to gain a majority in Parliament last month but acted otherwise when unveiling his new cabinet. 
  <p class="updated_time"> 06:10 PM CT, Oct. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59054893?at_medium=RSS&at_campaign=KARANGA">Life at 50C: Surviving in Kuwait's 'unbearable' heat</a> BBC: The Middle East is warming faster than much of the world, leaving Kuwaitis struggling with everyday life. 
- <p class="updated_time"> 05:05 PM CT, Oct. 26 </p> 
- <a href="https://www.nytimes.com/2021/10/26/world/europe/poland-eu-aid.html">Why Poland Would Rather Keep E.U. Money Than Break With Bloc</a> NYT: Despite the flame-throwing rhetoric of their leaders, conservative supporters of Poland’s ruling party are dependent on millions of euros in aid, and don’t want to risk it. 
  <p class="updated_time"> 07:12 PM CT, Oct. 25 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-58171814?at_medium=RSS&at_campaign=KARANGA">Climate change: Four things you can do about your carbon footprint</a> BBC: Small changes to our lifestyles and choices could limit our personal carbon footprint. 
  <p class="updated_time"> 11:10 AM CT, Oct. 25 </p> 
@@ -174,6 +174,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:37 AM CT, Oct. 29 </p> 
+ <a href="https://www.politico.com/news/2021/10/29/rep-adam-kinzinger-wont-seek-reelection-next-year-517599">Rep. Adam Kinzinger won't seek reelection next year</a> Politico: He was one of the most prominent critics of former President Donald Trump in the House Republican Conference. 
  <p class="updated_time"> 09:01 AM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/28/us/politics/infrastructure-bill-spending-plan.html">The President's Gamble: Biden Implores Democrats to Support His Agenda</a> NYT: “The House and Senate majorities and my presidency will be determined by what happens in the next week,” President Biden told lawmakers on Thursday. 
  <p class="updated_time"> 08:34 AM CT, Oct. 29 </p> 
@@ -246,8 +248,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/10/26/liberals-priorities-fall-517138">Liberals grit teeth as their priorities fall by wayside</a> Politico: Democratic leaders are telling members to embrace the party bill, even as progressives see several major policy goals tossed. 
  <p class="updated_time"> 03:30 AM CT, Oct. 26 </p> 
  <a href="https://www.politico.com/news/2021/10/26/curious-case-of-nancy-mace-517159">The curious case of Nancy Mace</a> Politico: After Jan. 6, one GOP freshman swung away from Donald Trump then seemed to swing back — until a recent vote that nudged her back away. 
- <p class="updated_time"> 03:18 PM CT, Oct. 25 </p> 
- <a href="https://www.politico.com/news/2021/10/25/jan-6-investigators-steve-bannon-associate-517087">Jan. 6 investigators privately question Bannon associate</a> Politico: The panel investigating the Capitol attack brought in a conservative activist linked to Steve Bannon's We Build The Wall effort. 
 
 
 </details>
