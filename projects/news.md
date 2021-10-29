@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:00 AM CT, Oct. 29 </p> 
+ <a href="https://www.nytimes.com/2021/10/29/world/europe/roma-hip-hop-band-serbia-pretty-loud.html">‘Different Way of Fighting’: Lyrics Are the Weapons of All-Women Roma Band</a> NYT: Many Roma women face pressures to marry young and take on traditional gender roles. Pretty Loud, a hip-hop group from Serbia, wants girls to decide for themselves. 
  <p class="updated_time"> 03:06 AM CT, Oct. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59088348?at_medium=RSS&at_campaign=KARANGA">Heather Mack: Bali 'suitcase murder' accomplice released early</a> BBC: Heather Mack had been in jail for helping to kill her mother and stuffing her body into a suitcase. 
  <p class="updated_time"> 03:03 AM CT, Oct. 29 </p> 
@@ -170,6 +172,10 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:00 AM CT, Oct. 29 </p> 
+ <a href="https://www.nytimes.com/2021/10/29/us/politics/glenn-youngkin-virginia-governors-race.html">Glenn Youngkin Was a Traditional Republican. Then He Became a Culture Warrior.</a> NYT: As he runs for governor of Virginia, Mr. Youngkin has built a coalition, as one prominent conservative described it, of Trump voters and angry parents. 
+ <p class="updated_time"> 04:00 AM CT, Oct. 29 </p> 
+ <a href="https://www.politico.com/news/2021/10/29/joe-manchin-houseboat-activists-517482">The activists outside Joe Manchin’s houseboat</a> Politico: On this episode of Playbook Deep Dive, we take you alongside the activists rowing outside Sen. Joe Manchin’s houseboat — and inside the halls of the Capitol — to talk about whether the demonstrations are having any real impact on the Democrats’ reconciliation bill. 
  <p class="updated_time"> 03:31 AM CT, Oct. 29 </p> 
  <a href="https://www.politico.com/news/2021/10/29/democrats-infrastructure-week-517487">Weary Dems keep reliving Infrastructure Week</a> Politico: It's a nightmare on Capitol Hill for the president's party, as October passes by without a deal. 
  <p class="updated_time"> 02:00 AM CT, Oct. 29 </p> 
@@ -218,8 +224,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/10/28/biden-house-democrats-517416">Dems punt House infrastructure vote in blow to Biden agenda</a> Politico: The left is frustrated over pared-back social spending. Speaker Nancy Pelosi wanted to show momentum — but she doesn't have the votes yet. 
  <p class="updated_time"> 06:56 AM CT, Oct. 28 </p> 
  <a href="https://www.nytimes.com/2021/10/27/us/politics/beloved-toni-morrison-virginia.html">Fight Over Toni Morrison Novel Inflames Virginia Governor's Race</a> NYT: A Republican ad featured a mother who had tried to have “Beloved” banned from her son’s curriculum. Democrats saw a coded racist message. 
- <p class="updated_time"> 10:32 PM CT, Oct. 27 </p> 
- <a href="https://www.nytimes.com/2021/10/27/us/politics/democrats-rush-rewrite-tax-code.html">Democrats Rush to Rewrite U.S. Tax Code in Days</a> NYT: Lawmakers are racing to finalize legislation to pay for new spending initiatives. The process usually takes months, but they are trying to do it in days. 
  <p class="updated_time"> 07:33 PM CT, Oct. 27 </p> 
  <a href="https://www.nytimes.com/2021/10/27/us/politics/merrick-garland-justice-department-schools-memo.html">Republicans Assail Garland Over Justice Department Schools Memo</a> NYT: Republicans said the Biden administration was seeking to intimidate parents concerned about school policies. The attorney general cited a spike in threats. 
  <p class="updated_time"> 03:48 PM CT, Oct. 27 </p> 
@@ -242,8 +246,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/10/26/curious-case-of-nancy-mace-517159">The curious case of Nancy Mace</a> Politico: After Jan. 6, one GOP freshman swung away from Donald Trump then seemed to swing back — until a recent vote that nudged her back away. 
  <p class="updated_time"> 03:18 PM CT, Oct. 25 </p> 
  <a href="https://www.politico.com/news/2021/10/25/jan-6-investigators-steve-bannon-associate-517087">Jan. 6 investigators privately question Bannon associate</a> Politico: The panel investigating the Capitol attack brought in a conservative activist linked to Steve Bannon's We Build The Wall effort. 
- <p class="updated_time"> 12:19 PM CT, Oct. 25 </p> 
- <a href="https://www.politico.com/news/2021/10/25/manchin-closes-in-on-deal-with-white-house-517069">Fellow Dems lobby Manchin as he gets closer to 'yes'</a> Politico: But he's still insistent on a $1.5 trillion top line for social spending, while party leaders want a bill closer to $2 trillion. 
 
 
 </details>
