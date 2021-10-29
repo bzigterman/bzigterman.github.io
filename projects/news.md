@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:45 PM CT, Oct. 29 </p> 
+ <a href="https://www.nytimes.com/2021/10/29/health/cdc-covid-vaccine-protection.html">Vaccination Offers More Protection Against Covid Than Previous Infection</a> NYT: The study of 7,000 people found that unvaccinated people who had Covid were five times as likely to get infected again as fully vaccinated people who never had the disease. 
  <p class="updated_time"> 03:27 PM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/article/day-of-the-dead-mexico.html">What Is Day of the Dead and How Is the Mexican Holiday Celebrated?</a> NYT: Popularized by Hollywood in films like “Coco” and the James Bond franchise, Día de Muertos is a centuries-old tradition that has roots in Indigenous culture. 
  <p class="updated_time"> 02:30 PM CT, Oct. 29 </p> 
@@ -187,8 +189,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/27/world/europe/viktor-bryukhanov-dead.html">Viktor Bryukhanov, Blamed for the Chernobyl Disaster, Dies at 85</a> NYT: In charge of the plant in Ukraine, he was held responsible for the world’s worst nuclear-power disaster and imprisoned. 
  <p class="updated_time"> 12:09 PM CT, Oct. 27 </p> 
  <a href="https://www.nytimes.com/2021/10/27/arts/design/petrit-halilaj-tate-kosovo-war.html">Wonders, and Horrors, Drawn From Boyhood in a War Zone</a> NYT: Petrit Halilaj became one of Kosovo’s most acclaimed artists with work that reflects on his country’s past. Now, he’s getting personal. 
- <p class="updated_time"> 04:00 AM CT, Oct. 27 </p> 
- <a href="https://www.nytimes.com/2021/10/27/books/abdulrazak-gurnah-nobel-prize-literature-afterlives.html">He Won the Nobel. Why Are His Books So Hard to Find?</a> NYT: After Abdulrazak Gurnah was awarded this year’s Nobel Prize in Literature, he instantly gained a wider international audience, something publishers are now scrambling to accommodate. 
  <p class="updated_time"> 07:12 PM CT, Oct. 25 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-58171814?at_medium=RSS&at_campaign=KARANGA">Climate change: Four things you can do about your carbon footprint</a> BBC: Small changes to our lifestyles and choices could limit our personal carbon footprint. 
  <p class="updated_time"> 11:10 AM CT, Oct. 25 </p> 
