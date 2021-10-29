@@ -7,12 +7,14 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:52 PM CT, Oct. 29 </p> 
+ <a href="https://www.nytimes.com/article/day-of-the-dead-mexico.html">What Is Day of the Dead and How Is the Mexican Holiday Celebrated?</a> NYT: Popularized by Hollywood in films like “Coco” and the James Bond franchise, Día de Muertos is a centuries-old tradition that has roots in Indigenous culture. 
+ <p class="updated_time"> 01:45 PM CT, Oct. 29 </p> 
+ <a href="https://www.nytimes.com/2021/10/29/world/europe/a-dispute-between-the-uk-and-france-over-fishing-rights-simmers-as-the-g20-summit-approaches.html">A dispute between the U.K. and France over fishing rights simmers as the G20 summit begins.</a> NYT: The matter is expected to be a topic of discussion for the nations’ leaders this weekend. 
  <p class="updated_time"> 01:41 PM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/world/asia/tonga-first-covid-case.html">Tonga Reports First Covid Case, Nearly 2 Years Into Pandemic</a> NYT: The Pacific island, 1,100 miles from New Zealand, has quarantined all airport employees on duty after a flight with an infected passenger arrived. 
  <p class="updated_time"> 01:35 PM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/world/africa/sudan-coup-general.html">‘They Lied.’ Inside the Frantic Days Leading to Sudan’s Coup</a> NYT: The American envoy, Jeffrey Feltman, was given assurances that seemed to head off a military takeover. Hours later, Lt. Gen. Abdel Fattah al-Burhan made his move. 
- <p class="updated_time"> 01:35 PM CT, Oct. 29 </p> 
- <a href="https://www.nytimes.com/article/day-of-the-dead-mexico.html">What Is Day of the Dead and How Is the Mexican Holiday Celebrated?</a> NYT: Popularized by Hollywood in films like “Coco” and the James Bond franchise, Día de Muertos is a centuries-old tradition that has roots in Indigenous culture. 
  <p class="updated_time"> 01:16 PM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/world/europe/biden-pope-communion-abortion.html">Biden: Pope Says He Should Keep Receiving Communion</a> NYT: President Biden said abortion had not come up in their private meeting. “We just talked about the fact he was happy that I was a good Catholic and I should keep receiving communion,” he said. 
  <p class="updated_time"> 12:56 PM CT, Oct. 29 </p> 
@@ -29,8 +31,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59085806?at_medium=RSS&at_campaign=KARANGA">Biden: We were clumsy over France submarine row</a> BBC: The US president meets his French counterpart in the wake of a diplomatic row over a submarine deal. 
  <p class="updated_time"> 11:48 AM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/28/world/europe/france-detains-british-boat.html">France Detains British Boat as a Fight Over Fishing Rights Escalates</a> NYT: The British government summoned France’s ambassador for talks over the incident, the latest sign of cross-Channel tension between the two countries. 
- <p class="updated_time"> 11:47 AM CT, Oct. 29 </p> 
- <a href="https://www.nytimes.com/2021/10/29/world/europe/a-dispute-between-the-uk-and-france-over-fishing-rights-simmers-as-the-g20-summit-approaches.html">A dispute between the U.K. and France over fishing rights simmers as the G20 summit approaches.</a> NYT: The matter is expected to be a topic of discussion for the nations’ leaders this weekend. 
  <p class="updated_time"> 11:47 AM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/28/world/europe/pope-biden-catholic-church-rift.html">Meeting of Francis and Biden Will Highlight Rift With U.S. Bishops</a> NYT: The pope and president, who will meet at the Vatican on Friday, are common targets of conservative American bishops seeking to undercut them. 
  <p class="updated_time"> 11:38 AM CT, Oct. 29 </p> 
@@ -196,16 +196,20 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 01:53 PM CT, Oct. 29 </p> 
+ <a href="https://www.nytimes.com/2021/10/29/us/politics/immigration-remain-mexico.html">Another Attempt to End 'Remain in Mexico' Immigration Policy</a> NYT: A court ordered the administration in August to reinstate the program, which forces some migrants to wait in Mexico while their asylum cases are pending. 
+ <p class="updated_time"> 01:53 PM CT, Oct. 29 </p> 
+ <a href="https://www.nytimes.com/2021/10/28/us/politics/guantanamo-detainee-torture.html">For First Time in Public, a Detainee Describes Torture at C.I.A. Black Sites</a> NYT: In a sentencing hearing, Majid Khan, a Pakistani who lived in suburban Baltimore before joining Al Qaeda, detailed dungeonlike conditions and episodes of abuse. 
+ <p class="updated_time"> 01:50 PM CT, Oct. 29 </p> 
+ <a href="https://www.nytimes.com/2021/10/29/nyregion/letitia-james-governor.html">Letitia James Is Running for Governor of New York</a> NYT: The attorney general, who oversaw the inquiry into sexual harassment allegations against Andrew Cuomo, will challenge Gov. Kathy Hochul for the Democratic nomination. 
+ <p class="updated_time"> 01:49 PM CT, Oct. 29 </p> 
+ <a href="https://www.nytimes.com/2021/10/29/us/politics/andreessen-horowitz-lobbying-cryptocurrency.html">Andreessen Horowitz's Plan to Dominate Crypto</a> NYT: The Silicon Valley firm Andreessen Horowitz, whose founders played big roles in the development of the internet, aims to own a huge part of the digital currency world — and set the rules for it, too. 
+ <p class="updated_time"> 01:47 PM CT, Oct. 29 </p> 
+ <a href="https://www.nytimes.com/2021/10/29/us/politics/crypto-venture-capitalists-commerce.html">How Venture Capitalists Think Crypto Will Reshape Commerce</a> NYT: From banking to gaming, investors are sending billions of dollars to crypto inventors who seek to disrupt industries. Here’s a look at some of those bets. 
  <p class="updated_time"> 01:36 PM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/us/politics/richmond-virginia-elections.html">Why a Changing Richmond and Its Suburbs Are Key to Virginia’s Vote</a> NYT: The region has been an engine of Democratic victories, but now the party is on defense as Republicans go after swing voters with worries about schools. 
  <p class="updated_time"> 01:17 PM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/28/us/politics/infrastructure-bill-spending-plan.html">The President's Gamble: Biden Implores Democrats to Support His Agenda</a> NYT: “The House and Senate majorities and my presidency will be determined by what happens in the next week,” President Biden told lawmakers on Thursday. 
- <p class="updated_time"> 12:58 PM CT, Oct. 29 </p> 
- <a href="https://www.nytimes.com/2021/10/29/us/politics/immigration-remain-mexico.html">Another Attempt to End 'Remain in Mexico' Immigration Policy</a> NYT: A court ordered the administration in August to reinstate the program, which forces some migrants to wait in Mexico while their asylum cases are pending. 
- <p class="updated_time"> 12:43 PM CT, Oct. 29 </p> 
- <a href="https://www.nytimes.com/2021/10/29/nyregion/letitia-james-governor.html">Letitia James Declares Her Candidacy for N.Y. Governor</a> NYT: The attorney general, who oversaw the inquiry into sexual harassment allegations against Andrew Cuomo, will challenge Gov. Kathy Hochul for the Democratic nomination. 
- <p class="updated_time"> 12:21 PM CT, Oct. 29 </p> 
- <a href="https://www.nytimes.com/2021/10/29/us/politics/andreessen-horowitz-lobbying-cryptocurrency.html">Andreessen Horowitz's Plan to Dominate Crypto</a> NYT: The Silicon Valley firm Andreessen Horowitz, whose founders played big roles in the development of the internet, aims to own a huge part of the digital currency world — and set the rules for it, too. 
  <p class="updated_time"> 12:20 PM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/28/upshot/biden-taxes-billionaires-millionaires.html">Billionaires Beat the Working Rich in Biden's Spending Bill </a> NYT: One by one, tax proposals that would have slowed dynastic wealth have been tossed from the agreement. 
  <p class="updated_time"> 11:34 AM CT, Oct. 29 </p> 
@@ -232,8 +236,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/10/29/democrats-infrastructure-week-517487">Dems limp out of another stumble-ending month</a> Politico: It's a nightmare on Capitol Hill for the president's party, as October passes by without a deal. 
  <p class="updated_time"> 02:00 AM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/us/politics/biden-summit.html">‘America Is Back,’ Biden Declared in June. The World Is About to Test Him.</a> NYT: Arriving in Europe with an unfinished economic and environmental spending plan, the president will confront new challenges, some self-inflicted, at two major summits. 
- <p class="updated_time"> 11:08 PM CT, Oct. 28 </p> 
- <a href="https://www.nytimes.com/2021/10/28/us/politics/guantanamo-detainee-torture.html">For First Time in Public, a Detainee Describes Torture at C.I.A. Black Sites</a> NYT: In a sentencing hearing, Majid Khan, a Pakistani who lived in suburban Baltimore before joining Al Qaeda, detailed dungeonlike conditions and episodes of abuse. 
  <p class="updated_time"> 10:48 PM CT, Oct. 28 </p> 
  <a href="https://www.nytimes.com/2021/10/28/us/politics/supreme-court-oklahoma-executions.html">After Supreme Court Lifts Stay, Oklahoma Executes Inmate</a> NYT: The prisoner, John Marion Grant, convulsed and vomited as he was put to death by lethal injection. The court also cleared the way for another execution next month. 
  <p class="updated_time"> 09:05 PM CT, Oct. 28 </p> 
