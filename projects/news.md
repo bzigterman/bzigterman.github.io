@@ -8,7 +8,7 @@ permalink: /projects/news/
 <summary>World News</summary>
 
  <p class="updated_time"> 04:34 AM CT, Oct. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59085806?at_medium=RSS&at_campaign=KARANGA">Biden lands in Europe ahead of COP26 climate summit</a> BBC: The US president arrives as his signature climate proposals are yet to pass through Congress. 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59085806?at_medium=RSS&at_campaign=KARANGA">Biden lands in Europe ahead of COP26 climate summit</a> BBC: The US president arrives but his signature climate proposals are yet to pass through Congress. 
  <p class="updated_time"> 04:22 AM CT, Oct. 29 </p> 
  <a href="https://www.bbc.co.uk/news/business-59059097?at_medium=RSS&at_campaign=KARANGA">Squid Game cryptocurrency rockets in first few days of trading</a> BBC: The popular Netflix show has now spawned a cryptocurrency - and it's soaring. 
  <p class="updated_time"> 04:00 AM CT, Oct. 29 </p> 
