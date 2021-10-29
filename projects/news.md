@@ -20,7 +20,7 @@ permalink: /projects/news/
  <p class="updated_time"> 12:00 AM CT, Oct. 29 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59053809?at_medium=RSS&at_campaign=KARANGA">Arnold Schwarzenegger calls leaders 'liars' over climate</a> BBC: The actor and former governor of California speaks to BBC radio 4 ahead of the COP26 climate summit. 
  <p class="updated_time"> 11:41 PM CT, Oct. 28 </p> 
- <a href="https://www.bbc.co.uk/news/business-59059097?at_medium=RSS&at_campaign=KARANGA">Squid Game cryptocurrency soars 2300% in first few days</a> BBC: The popular Netflix show has now spawned its new cryptocurrency - and its soaring. 
+ <a href="https://www.bbc.co.uk/news/business-59059097?at_medium=RSS&at_campaign=KARANGA">Squid Game cryptocurrency soars 2300% in first few days</a> BBC: The popular Netflix show has now spawned its new cryptocurrency - and it's soaring. 
  <p class="updated_time"> 11:31 PM CT, Oct. 28 </p> 
  <a href="https://www.nytimes.com/2021/10/28/world/asia/japan-election-rural-urban.html">In Japan Elections, Rural Voters Count More Than Those in Big Cities</a> NYT: The disproportionate weight of rural voters in Japan gives sparsely populated parts of the country more representation — and more government largess — than urban areas, perpetuating what critics call an unfair system. 
  <p class="updated_time"> 11:15 PM CT, Oct. 28 </p> 
