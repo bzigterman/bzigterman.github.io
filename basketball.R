@@ -215,7 +215,7 @@ western_playoffs_rect <- (if_else(
   6.5,
   5.5))[1]
 
-eastern_plot <- ggplot(eastern_standings, aes(x = reorder(team_label, win_pct), 
+western_plot <- ggplot(western_standings, aes(x = reorder(team_label, win_pct), 
                                           y = win_pct)) +
   # geom_rect(xmin = al_playoffs_rect, xmax = Inf,
   #           ymin = -Inf, ymax = Inf,
@@ -241,7 +241,7 @@ eastern_plot <- ggplot(eastern_standings, aes(x = reorder(team_label, win_pct),
   theme_minimal() +
   labs(x = NULL,
        y = NULL,
-       title = "Eastern Conference") +
+       title = "Western") +
   theme(
     legend.title = element_blank(),
     panel.grid.major.y = element_line(colour = "grey93"),
@@ -254,10 +254,10 @@ eastern_plot <- ggplot(eastern_standings, aes(x = reorder(team_label, win_pct),
     legend.key.size = unit(.1,"in"),
     legend.box.spacing = unit(0,"in")
   )
-eastern_plot
+western_plot
 
 
-western_plot <- ggplot(western_standings, aes(x = reorder(team_label, -win_pct), 
+eastern_plot <- ggplot(eastern_standings, aes(x = reorder(team_label, -win_pct), 
                                           y = win_pct)) +
   # geom_rect(xmin = -Inf, xmax = nl_playoffs_rect,
   #           ymin = -Inf, ymax = Inf,
@@ -284,7 +284,7 @@ western_plot <- ggplot(western_standings, aes(x = reorder(team_label, -win_pct),
   theme_minimal() +
   labs(x = NULL,
        y = NULL,
-       title = "Western Conference") +
+       title = "Eastern") +
   theme(    
     legend.title = element_blank(),
     plot.background = element_rect(fill = "white", color = "white"),
@@ -296,13 +296,63 @@ western_plot <- ggplot(western_standings, aes(x = reorder(team_label, -win_pct),
     legend.key.size = unit(.1,"in"),
     legend.box.spacing = unit(0,"in")
   )
-western_plot
-plot_grid(eastern_plot,western_plot,
+eastern_plot
+plot_grid(western_plot,eastern_plot,
           align = "h") 
 
 ggsave("plots/nba_team_rank.png",
        width = 8, height = 8*(628/1200),
        dpi = 320)
+
+
+# conference standings charts ----
+conference_standings_plot <- function(conference) {
+  ggplot(conference, aes(x = game_n,
+                     y = net_wins,
+                     color= team,
+                     label = team_label)) +
+    #coord_fixed(xlim = c(0,162)) +
+    geom_hline(yintercept = 0,
+               color = "grey10",
+               size = .2) +
+    geom_vline(xintercept = 82,
+               color = "grey50",
+               size = .2) +
+    geom_line() +
+    geom_text(aes(x = game_n + 10),
+              family = "mono",
+              size = 4) +
+    scale_x_continuous(breaks = c(0,41, 82)) +
+    scale_y_continuous(position = "right") +
+    # scale_color_brewer(palette = "Set1",
+    #                    guide = NULL) +
+    scale_color_discrete(guide = NULL) +
+    # scale_color_manual(values = c("#27251F","#E31937","#0C2340","#BD9B60","#002B5C"),
+    #                  guide = NULL) +
+    coord_cartesian(xlim = c(0,87)) +
+    theme_minimal() +
+    labs(title = conference$conference,
+         #caption = "Source: FiveThirtyEight",
+         x = NULL,
+         y = NULL) +
+    theme(
+      plot.background = element_rect(fill = "white", color = "white"),
+      panel.grid = element_blank(),
+      legend.title = element_blank(),
+      axis.ticks.x = element_line(color = "grey60", size = 0.25),
+      panel.grid.major.y = element_line(colour = "grey93"),
+      axis.ticks.y = element_line(color = "grey60"),
+      plot.caption = element_text(color = "grey40")
+    )
+}
+eastern_plot <- conference_standings_plot(eastern)
+western_plot <- conference_standings_plot(western)
+
+plot_grid(western_plot, eastern_plot,
+          align = "hv")
+
+ggsave("plots/nba_standings.png",
+       width = 8, height = 4, dpi = 320)
 
 
 # make web page ----
@@ -325,7 +375,9 @@ permalink: /projects/basketball/
 
 ",now_html," 
 
-![Standings]({{ site.baseurl }}/plots/nba_team_rank.png)
+![Team Rank]({{ site.baseurl }}/plots/nba_team_rank.png)
+
+![Standings]({{ site.baseurl }}/plots/nba_standings.png)
 
 <p class=\"updated_time\">Source: <a href=\"https://github.com/fivethirtyeight/data/tree/master/nba-forecasts\">FiveThirtyEight</a>. <a href=\"https://github.com/fivethirtyeight/data/blob/master/LICENSE\">CC-BY-4.0 License</a>.</p> 
 
