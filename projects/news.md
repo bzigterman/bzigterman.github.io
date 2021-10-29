@@ -7,10 +7,10 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:52 AM CT, Oct. 29 </p> 
+ <p class="updated_time"> 10:06 AM CT, Oct. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59085806?at_medium=RSS&at_campaign=KARANGA">COP26: Biden on diplomatic drive ahead of climate summit</a> BBC: The US president met the pope in the first of a series of diplomatic meetings ahead of COP26. 
- <p class="updated_time"> 09:47 AM CT, Oct. 29 </p> 
- <a href="https://www.nytimes.com/2021/10/29/world/asia/tonga-first-covid-case.html">Tonga Reports First Covid Case, Nearly 2 Years Into Pandemic</a> NYT: The Pacific island, 1,100 miles from New Zealand, has quarantined all airport employees on duty after a flight with an infected passenger arrived. 
+ <p class="updated_time"> 10:00 AM CT, Oct. 29 </p> 
+ <a href="https://www.nytimes.com/2021/10/29/world/europe/spanish-writer-carmen-mola-true-identity.html">Behind a Top Female Name in Spanish Crime Fiction: Three Men</a> NYT: Carmen Mola, a novelist publishing under a pen name, seemed to shatter a glass ceiling in the world of Spanish books. But when the author’s true identity was revealed while claiming a big prize, it was a shock. 
  <p class="updated_time"> 09:34 AM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/us/hurricane-storm-season.html">Is Hurricane Season Still Going? You Bet.</a> NYT: There hasn’t been a named storm in the Atlantic Ocean since early October, but about a month remains in the hurricane season. “Don’t raid your hurricane supplies yet,” said one meteorologist. 
  <p class="updated_time"> 08:42 AM CT, Oct. 29 </p> 
@@ -174,18 +174,18 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:06 AM CT, Oct. 29 </p> 
+ <a href="https://www.nytimes.com/2021/10/29/us/politics/adam-kinzinger-illinois-election.html">Adam Kinzinger, a Republican Trump Critic, Won’t Seek Re-election in House</a> NYT: Mr. Kinzinger’s electoral fate was largely sealed when Illinois Democrats adopted a new congressional map that eliminated the district he has represented for the last decade. 
  <p class="updated_time"> 09:58 AM CT, Oct. 29 </p> 
  <a href="https://www.politico.com/news/2021/10/29/jan-6-committee-capitol-rioter-517602">Jan. 6 committee set to interview rioter who breached the Capitol</a> Politico: Heather Shaner, an attorney who represents multiple defendants in Jan. 6 cases, confirmed that one of her clients will be remotely interviewed Friday afternoon. 
  <p class="updated_time"> 09:37 AM CT, Oct. 29 </p> 
- <a href="https://www.politico.com/news/2021/10/29/rep-adam-kinzinger-wont-seek-reelection-next-year-517599">Rep. Adam Kinzinger won't seek reelection next year</a> Politico: He was one of the most prominent critics of former President Donald Trump in the House Republican Conference. 
+ <a href="https://www.politico.com/news/2021/10/29/rep-adam-kinzinger-wont-seek-reelection-next-year-517599">Rep. Adam Kinzinger won't seek reelection next year</a> Politico: The Illinois lawmaker is one of the most prominent Trump critics among House Republicans. 
  <p class="updated_time"> 09:01 AM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/28/us/politics/infrastructure-bill-spending-plan.html">The President's Gamble: Biden Implores Democrats to Support His Agenda</a> NYT: “The House and Senate majorities and my presidency will be determined by what happens in the next week,” President Biden told lawmakers on Thursday. 
  <p class="updated_time"> 08:34 AM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/us/politics/glenn-youngkin-virginia-governors-race.html">Glenn Youngkin Was a Traditional Republican. Then He Became a Culture Warrior.</a> NYT: As he runs for governor of Virginia, Mr. Youngkin has built a coalition, as one prominent conservative described it, of Trump voters and angry parents. 
  <p class="updated_time"> 08:29 AM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/28/climate/climate-change-framework-bill.html">Climate Change Became the Largest Part of Biden Spending Bill</a> NYT: As paid family leave and other priorities were taken out of the president’s plan, the largest piece became a $555 billion plan to fight climate change. 
- <p class="updated_time"> 07:41 AM CT, Oct. 29 </p> 
- <a href="https://www.nytimes.com/2021/10/27/us/politics/beloved-toni-morrison-virginia.html">Fight Over Toni Morrison Novel Inflames Virginia Governor's Race</a> NYT: A Republican ad featured a mother who had tried to have “Beloved” banned from her son’s curriculum. Democrats saw a coded racist message. 
  <p class="updated_time"> 07:06 AM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/world/australia/nuclear-powered-submarines.html">Nuclear-Powered Submarines for Australia? Maybe Not So Fast.</a> NYT: Australia’s plan to build the submarines with U.S. and British help faces big hurdles. Supporters say they can be overcome. Critics say they may be too much. 
  <p class="updated_time"> 05:23 AM CT, Oct. 29 </p> 
@@ -193,7 +193,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:00 AM CT, Oct. 29 </p> 
  <a href="https://www.politico.com/news/2021/10/29/joe-manchin-houseboat-activists-517482">The activists outside Joe Manchin’s houseboat</a> Politico: On this episode of Playbook Deep Dive, we take you alongside the activists rowing outside Sen. Joe Manchin’s houseboat — and inside the halls of the Capitol — to talk about whether the demonstrations are having any real impact on the Democrats’ reconciliation bill. 
  <p class="updated_time"> 03:31 AM CT, Oct. 29 </p> 
- <a href="https://www.politico.com/news/2021/10/29/democrats-infrastructure-week-517487">Weary Dems keep reliving Infrastructure Week</a> Politico: It's a nightmare on Capitol Hill for the president's party, as October passes by without a deal. 
+ <a href="https://www.politico.com/news/2021/10/29/democrats-infrastructure-week-517487">Dems limp out of another stumble-ending month</a> Politico: It's a nightmare on Capitol Hill for the president's party, as October passes by without a deal. 
  <p class="updated_time"> 02:00 AM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/us/politics/biden-summit.html">‘America Is Back,’ Biden Declared in June. The World Is About to Test Him.</a> NYT: Arriving in Europe with an unfinished economic and environmental spending plan, the president will confront new challenges, some self-inflicted, at two major summits. 
  <p class="updated_time"> 11:10 PM CT, Oct. 28 </p> 
