@@ -9,6 +9,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 03:06 AM CT, Oct. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59088348?at_medium=RSS&at_campaign=KARANGA">Heather Mack: Bali 'suitcase murder' accomplice released early</a> BBC: Heather Mack had been in jail for helping to kill her mother and stuffing her body into a suitcase. 
+ <p class="updated_time"> 03:03 AM CT, Oct. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/business-59088757?at_medium=RSS&at_campaign=KARANGA">Is Hong Kong's label as Asia's financial capital at risk? </a> BBC: With the 2019 protests and imposition of the National Security Law, plus Covid-19 border closures, is Hong Kong's label as Asia's financial capital at risk? Katie Silver reports 
  <p class="updated_time"> 02:56 AM CT, Oct. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59087800?at_medium=RSS&at_campaign=KARANGA">Palestinians unveil huge mosaic in West Bank desert castle</a> BBC: The restored mosaic at Hisham's Palace in the city of Jericho is one of the largest in the world. 
  <p class="updated_time"> 02:00 AM CT, Oct. 29 </p> 
@@ -57,8 +59,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/science-environment-59067310?at_medium=RSS&at_campaign=KARANGA">COP26: Four numbers to remember ahead of the climate change summit</a> BBC: The Queen cancelling her appearance and a climate pledge delayed - what do they mean for COP26? 
  <p class="updated_time"> 06:56 PM CT, Oct. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59085935?at_medium=RSS&at_campaign=KARANGA">Two US neo-Nazis from 'the Base' jailed for terrorist plot</a> BBC: The sentence comes as part of a federal government crackdown on violent white nationalists. 
- <p class="updated_time"> 06:30 PM CT, Oct. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59083395?at_medium=RSS&at_campaign=KARANGA">Climate change: Major US oil companies face grilling by Congress</a> BBC: The hearing in Congress marks the first time top oil executives have answered questions under oath 
  <p class="updated_time"> 06:08 PM CT, Oct. 28 </p> 
  <a href="https://www.bbc.co.uk/news/business-58815695?at_medium=RSS&at_campaign=KARANGA">Why the vending machine is making a comeback</a> BBC: From milkshakes to pizzas, new vending machines are selling an expanding range of products. 
  <p class="updated_time"> 06:02 PM CT, Oct. 28 </p> 
