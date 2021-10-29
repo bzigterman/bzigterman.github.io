@@ -7,14 +7,24 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:38 AM CT, Oct. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59095026?at_medium=RSS&at_campaign=KARANGA">Sicily floods: Stay at home warning as Cyclone Apollo hits</a> BBC: Streets are flooded and train lines blocked as the Italian island of Sicily is hit again by storms. 
+ <p class="updated_time"> 11:31 AM CT, Oct. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/58956714?at_medium=RSS&at_campaign=KARANGA">Climate change: What are the big polluters doing to cut carbon emissions?</a> BBC: The top emissions-producing nations all have plans to tackle global warming, but what progress are they making? 
+ <p class="updated_time"> 11:25 AM CT, Oct. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59015486?at_medium=RSS&at_campaign=KARANGA">Mike Ward: Comedian who mocked young disabled singer wins free speech case</a> BBC: The legal row over a comedy routine about a young disabled singer has ended after nearly a decade. 
+ <p class="updated_time"> 11:23 AM CT, Oct. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59096297?at_medium=RSS&at_campaign=KARANGA">La Palma: 'Lava bomb' speeds down Cumbre Vieja volcano</a> BBC: Watch a ball of solidified molten rock rolling down from the Cumbre Vieja volcano. 
+ <p class="updated_time"> 11:11 AM CT, Oct. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-politics-59090943?at_medium=RSS&at_campaign=KARANGA">Greta Thunberg: Activist calls on banks to stop funding climate 'destruction'</a> BBC: The Swedish campaigner is in the UK to take part in protests ahead of next week's COP26 conference. 
+ <p class="updated_time"> 11:09 AM CT, Oct. 29 </p> 
+ <a href="https://www.nytimes.com/2021/10/29/world/biden-pope-communion-abortion.html">Biden: Pope Says He Should Keep Receiving Communion</a> NYT: President Biden said abortion had not come up in their private meeting. “We just talked about the fact he was happy that I was a good Catholic and I should keep receiving communion,” he said. 
  <p class="updated_time"> 10:55 AM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/world/europe/appeal-julian-assange-extradition.html">British Court Hears Appeal in Julian Assange Extradition Case</a> NYT: The outcome is not expected to be known for weeks, but the hearing was the latest step in a continuing attempt to extradite the WikiLeaks founder to the U.S. to face espionage charges. 
- <p class="updated_time"> 10:37 AM CT, Oct. 29 </p> 
- <a href="https://www.nytimes.com/2021/10/29/world/biden-pope-communion-abortion.html">Biden: Pope Says He Should Keep Receiving Communion</a> NYT: President Biden said abortion had not come up in their private meeting. “We just talked about the fact he was happy that I was a good Catholic and I should keep receiving communion,” he said. 
+ <p class="updated_time"> 10:54 AM CT, Oct. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-59090072?at_medium=RSS&at_campaign=KARANGA">Puneeth Rajkumar: Indian film star dies age 46</a> BBC: The star of Kannada cinema featured in more than 29 films during his career. 
  <p class="updated_time"> 10:06 AM CT, Oct. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59085806?at_medium=RSS&at_campaign=KARANGA">COP26: Biden on diplomatic drive ahead of climate summit</a> BBC: The US president met the pope in the first of a series of diplomatic meetings ahead of COP26. 
- <p class="updated_time"> 10:01 AM CT, Oct. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59015486?at_medium=RSS&at_campaign=KARANGA">Mike Ward: Comedian wins free speech case in top court</a> BBC: The legal row over a comedy routine about a young disabled singer has ended after nearly a decade. 
  <p class="updated_time"> 10:00 AM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/world/europe/spanish-writer-carmen-mola-true-identity.html">Behind a Top Female Name in Spanish Crime Fiction: Three Men</a> NYT: Carmen Mola, a novelist publishing under a pen name, seemed to shatter a glass ceiling in the world of Spanish books. But when the author’s true identity was revealed while claiming a big prize, it was a shock. 
  <p class="updated_time"> 09:47 AM CT, Oct. 29 </p> 
@@ -23,14 +33,16 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/29/climate/europe-energy-crisis-cop.html">How Rising Energy Prices Have Complicated Europe's Climate Crisis</a> NYT: Prices for power have soared, and some politicians are now trying to use that as a lever to slow action on climate change, a strategy with far-reaching consequences. 
  <p class="updated_time"> 09:34 AM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/us/hurricane-storm-season.html">Is Hurricane Season Still Going? You Bet.</a> NYT: There hasn’t been a named storm in the Atlantic Ocean since early October, but about a month remains in the hurricane season. “Don’t raid your hurricane supplies yet,” said one meteorologist. 
- <p class="updated_time"> 08:42 AM CT, Oct. 29 </p> 
- <a href="https://www.bbc.co.uk/news/uk-politics-59090943?at_medium=RSS&at_campaign=KARANGA">Greta Thunberg: Activist calls on banks to stop funding climate 'destruction'</a> BBC: The Swedish campaigner is in the UK to take part in protests ahead of next week's COP26 conference. 
  <p class="updated_time"> 08:37 AM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/world/asia/pope-francis-modi-india.html">Pope Francis to Meet India's Narendra Modi for the First Time</a> NYT: The meeting comes amid increasing attacks on Christians in the South Asian nation, which is home to one of Asia’s oldest Christian populations. 
  <p class="updated_time"> 08:14 AM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/world/europe/a-dispute-between-the-uk-and-france-over-fishing-rights-simmers-as-the-g20-summit-approaches.html">A dispute between the U.K. and France over fishing rights simmers as the G20 summit approaches.</a> NYT: The matter is expected to be a topic of discussion for the nations’ leaders this weekend. 
+ <p class="updated_time"> 07:39 AM CT, Oct. 29 </p> 
+ <a href="https://www.wsj.com/articles/biden-pope-francis-meet-amid-controversy-over-abortion-11635502337">Biden Says Pope Told Him He Is a Good Catholic</a> WSJ: President Biden said the pope told him to continue receiving Communion despite criticism from U.S. bishops over the president’s stance on abortion. 
  <p class="updated_time"> 07:27 AM CT, Oct. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-59090067?at_medium=RSS&at_campaign=KARANGA">Meta: Facebook's new name ridiculed by Hebrew speakers</a> BBC: The social media giant joins a number of companies that have fallen foul of translation blunders. 
+ <p class="updated_time"> 07:25 AM CT, Oct. 29 </p> 
+ <a href="https://www.wsj.com/articles/u-s-takes-aim-at-irans-drone-program-seeing-risk-to-mideast-stability-11635517853">U.S. Takes Aim at Iran's Drone Program</a> WSJ: The Biden administration levied sanctions against several Iranian companies and executives that it tied to Tehran’s drone program as U.S. security and military officials grow increasingly concerned about it. 
  <p class="updated_time"> 07:17 AM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/world/europe/cop26-pope-francis-climate.html">Pope Francis Urges 'Radical' Action at COP26 Climate Summit</a> NYT: Only urgent action can “offer concrete hope to future generations,” the pope said in a reflection broadcast on BBC radio. 
  <p class="updated_time"> 07:13 AM CT, Oct. 29 </p> 
@@ -49,8 +61,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/g-20-climate-talks-threatened-by-clash-over-coal-ahead-of-cop26-11635491696">G-20 Climate Talks Threatened by Clash Over Coal</a> WSJ: Leaders from the Group of 20 major economies are split over phasing out coal and limiting global warming to 1.5 degrees Celsius, officials said, throwing into doubt whether ambitious climate change targets can be hit. 
  <p class="updated_time"> 05:37 AM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/world/as-biden-and-francis-prepare-to-meet-the-us-catholic-church-remains-divided.html">As Biden and Francis meet, the U.S. Catholic Church remains divided.</a> NYT: NA 
- <p class="updated_time"> 05:30 AM CT, Oct. 29 </p> 
- <a href="https://www.wsj.com/articles/u-s-takes-aim-at-irans-drone-program-seeing-risk-to-mideast-stability-11635517853">U.S. Takes Aim at Iran's Drone Program</a> WSJ: The Biden administration levied sanctions against several Iranian companies and executives that it tied to Tehran’s drone program as U.S. security and military officials grow increasingly concerned about it. 
  <p class="updated_time"> 05:06 AM CT, Oct. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59089381?at_medium=RSS&at_campaign=KARANGA">Kemerovo fire: Jail terms for bosses over Russian mall disaster</a> BBC: A leisure centre blaze in 2018 killed 60 people, most of them children, in a Siberian city. 
  <p class="updated_time"> 04:56 AM CT, Oct. 29 </p> 
@@ -63,14 +73,10 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/business-59059097?at_medium=RSS&at_campaign=KARANGA">Squid Game cryptocurrency rockets in first few days of trading</a> BBC: The popular Netflix show has now spawned a cryptocurrency - and it's soaring. 
  <p class="updated_time"> 04:20 AM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/world/the-popes-us-visit-in-2015-was-a-powerful-moment-for-biden.html">The pope’s U.S. visit in 2015 was a powerful moment for Biden.</a> NYT: NA 
- <p class="updated_time"> 04:12 AM CT, Oct. 29 </p> 
- <a href="https://www.wsj.com/articles/biden-pope-francis-meet-amid-controversy-over-abortion-11635502337">Biden, Pope Francis Meet Amid Controversy Over Abortion</a> WSJ: The meeting is expected to focus on climate change but has been overshadowed by controversy among church leaders over President Biden’s support for abortion rights. 
  <p class="updated_time"> 04:00 AM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/world/europe/roma-hip-hop-band-serbia-pretty-loud.html">‘Different Way of Fighting’: Lyrics Are the Weapons of All-Women Roma Band</a> NYT: Many Roma women face pressures to marry young and take on traditional gender roles. Pretty Loud, a hip-hop group from Serbia, wants girls to decide for themselves. 
  <p class="updated_time"> 03:06 AM CT, Oct. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59088348?at_medium=RSS&at_campaign=KARANGA">Heather Mack: Bali 'suitcase murder' accomplice released early</a> BBC: Heather Mack had been in jail for helping to kill her mother and stuffing her body into a suitcase. 
- <p class="updated_time"> 03:03 AM CT, Oct. 29 </p> 
- <a href="https://www.bbc.co.uk/news/business-59088757?at_medium=RSS&at_campaign=KARANGA">Is Hong Kong's label as Asia's financial capital at risk? </a> BBC: With the 2019 protests and imposition of the National Security Law, plus Covid-19 border closures, is Hong Kong's label as Asia's financial capital at risk? Katie Silver reports 
  <p class="updated_time"> 02:56 AM CT, Oct. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59087800?at_medium=RSS&at_campaign=KARANGA">Palestinians unveil huge mosaic in West Bank desert castle</a> BBC: The restored mosaic at Hisham's Palace in the city of Jericho is one of the largest in the world. 
  <p class="updated_time"> 02:09 AM CT, Oct. 29 </p> 
@@ -97,8 +103,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/technology-59072745?at_medium=RSS&at_campaign=KARANGA">Inside the controversial US gunshot-detection firm</a> BBC: BBC News has been given access to ShotSpotter, the controversial US technology company that detects gunshots. 
  <p class="updated_time"> 08:11 PM CT, Oct. 28 </p> 
  <a href="https://www.nytimes.com/2021/10/26/world/europe/queen-elizabeth-cop26-summit.html">Queen Elizabeth Will Skip Climate Summit in Glasgow</a> NYT: The 95-year-old queen, after 70 years on the throne, is the oldest and longest-serving monarch in British history. 
- <p class="updated_time"> 07:27 PM CT, Oct. 28 </p> 
- <a href="https://www.bbc.co.uk/news/58956714?at_medium=RSS&at_campaign=KARANGA">Climate change: What are the big polluters doing to cut carbon emissions?</a> BBC: The top CO2-producing nations all have plans to tackle global warming - but what progress are they making? 
  <p class="updated_time"> 07:26 PM CT, Oct. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59080871?at_medium=RSS&at_campaign=KARANGA">The Taliban’s secretive war against IS</a> BBC: Jalalabad is the frontline in murky and bloody battle between two groups, and the death toll is rising. 
  <p class="updated_time"> 07:25 PM CT, Oct. 28 </p> 
@@ -169,16 +173,12 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/27/world/europe/viktor-bryukhanov-dead.html">Viktor Bryukhanov, Blamed for the Chernobyl Disaster, Dies at 85</a> NYT: In charge of the plant in Ukraine, he was held responsible for the world’s worst nuclear-power disaster and imprisoned. 
  <p class="updated_time"> 12:09 PM CT, Oct. 27 </p> 
  <a href="https://www.nytimes.com/2021/10/27/arts/design/petrit-halilaj-tate-kosovo-war.html">Wonders, and Horrors, Drawn From Boyhood in a War Zone</a> NYT: Petrit Halilaj became one of Kosovo’s most acclaimed artists with work that reflects on his country’s past. Now, he’s getting personal. 
- <p class="updated_time"> 10:22 AM CT, Oct. 27 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-59068417?at_medium=RSS&at_campaign=KARANGA">Footballer Josh Cavallo on coming out as gay: 'It's my freedom day'</a> BBC: Josh Cavallo has come out as gay - the only current top level male professional footballer to do so. 
  <p class="updated_time"> 04:00 AM CT, Oct. 27 </p> 
  <a href="https://www.nytimes.com/2021/10/27/books/abdulrazak-gurnah-nobel-prize-literature-afterlives.html">He Won the Nobel. Why Are His Books So Hard to Find?</a> NYT: After Abdulrazak Gurnah was awarded this year’s Nobel Prize in Literature, he instantly gained a wider international audience, something publishers are now scrambling to accommodate. 
  <p class="updated_time"> 04:00 AM CT, Oct. 27 </p> 
  <a href="https://www.nytimes.com/2021/10/27/us/politics/global-minimum-tax-deal.html">Pastries and Persuasion: How a Global Tax Deal Got Done</a> NYT: Over Zoom calls from basements and a breakfast in Brussels, faltering negotiations to remake the world’s tax architecture were revived. 
  <p class="updated_time"> 06:41 PM CT, Oct. 26 </p> 
  <a href="https://www.nytimes.com/2021/10/26/world/canada/justin-trudeau-cabinet.html">Justin Trudeau Introduces 'Reinvigorated' Cabinet</a> NYT: The Canadian prime minister failed to gain a majority in Parliament last month but acted otherwise when unveiling his new cabinet. 
- <p class="updated_time"> 06:10 PM CT, Oct. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-59054893?at_medium=RSS&at_campaign=KARANGA">Life at 50C: Surviving in Kuwait's 'unbearable' heat</a> BBC: The Middle East is warming faster than much of the world, leaving Kuwaitis struggling with everyday life. 
  <p class="updated_time"> 07:12 PM CT, Oct. 25 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-58171814?at_medium=RSS&at_campaign=KARANGA">Climate change: Four things you can do about your carbon footprint</a> BBC: Small changes to our lifestyles and choices could limit our personal carbon footprint. 
  <p class="updated_time"> 11:10 AM CT, Oct. 25 </p> 
@@ -190,16 +190,16 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:34 AM CT, Oct. 29 </p> 
+ <a href="https://www.nytimes.com/2021/10/29/us/politics/adam-kinzinger-illinois-election.html">Adam Kinzinger, a Republican Trump Critic, Won’t Seek Re-election in House</a> NYT: Illinois Democrats eliminated Mr. Kinzinger’s district in a new congressional map. He was one of 10 House Republicans who voted to impeach former President Donald J. Trump. 
  <p class="updated_time"> 11:09 AM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/us/politics/covid-vaccine-children.html">F.D.A. Expected to Clear Pfizer Coronavirus Vaccine for Young Children</a> NYT: Experts said the shot could bring relief to parents anxious about their children getting sick, though some worry that those most at risk may slip through the cracks. 
  <p class="updated_time"> 11:03 AM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/arts/in-this-house-yard-signs.html">In This House, We List Our Beliefs in the Yard</a> NYT: How a lawn sign inspired by mom décor became a liberal mantra — and a symbol of a political battle over white womanhood. 
- <p class="updated_time"> 10:06 AM CT, Oct. 29 </p> 
- <a href="https://www.nytimes.com/2021/10/29/us/politics/adam-kinzinger-illinois-election.html">Adam Kinzinger, a Republican Trump Critic, Won’t Seek Re-election in House</a> NYT: Mr. Kinzinger’s electoral fate was largely sealed when Illinois Democrats adopted a new congressional map that eliminated the district he has represented for the last decade. 
  <p class="updated_time"> 09:58 AM CT, Oct. 29 </p> 
  <a href="https://www.politico.com/news/2021/10/29/jan-6-committee-capitol-rioter-517602">Jan. 6 committee set to interview rioter who breached the Capitol</a> Politico: Heather Shaner, an attorney who represents multiple defendants in Jan. 6 cases, confirmed that one of her clients will be remotely interviewed Friday afternoon. 
  <p class="updated_time"> 09:37 AM CT, Oct. 29 </p> 
- <a href="https://www.politico.com/news/2021/10/29/rep-adam-kinzinger-wont-seek-reelection-next-year-517599">Rep. Adam Kinzinger won't seek reelection next year</a> Politico: The Illinois lawmaker is one of the most prominent Trump critics among House Republicans. 
+ <a href="https://www.politico.com/news/2021/10/29/rep-adam-kinzinger-wont-seek-reelection-next-year-517599">Kinzinger retiring from Congress, vows 'broader fight nationwide' against Trumpism</a> Politico: The Illinois lawmaker is one of the most prominent Trump critics among House Republicans. 
  <p class="updated_time"> 09:01 AM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/28/us/politics/infrastructure-bill-spending-plan.html">The President's Gamble: Biden Implores Democrats to Support His Agenda</a> NYT: “The House and Senate majorities and my presidency will be determined by what happens in the next week,” President Biden told lawmakers on Thursday. 
  <p class="updated_time"> 08:34 AM CT, Oct. 29 </p> 
