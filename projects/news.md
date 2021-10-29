@@ -7,10 +7,12 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:37 PM CT, Oct. 29 </p> 
+ <a href="https://www.nytimes.com/article/day-of-the-dead-mexico.html">What Is Day of the Dead and How Is the Mexican Holiday Celebrated?</a> NYT: Popularized by Hollywood in films like “Coco” and the James Bond franchise, Día de Muertos is a centuries-old tradition that has roots in Indigenous culture. 
+ <p class="updated_time"> 04:32 PM CT, Oct. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-59096578?at_medium=RSS&at_campaign=KARANGA">Saudi Arabia expels Lebanon ambassador amid Yemen row</a> BBC: The kingdom is also recalling its envoy from Beirut over "insulting" remarks by a Lebanese minister. 
  <p class="updated_time"> 03:45 PM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/health/cdc-covid-vaccine-protection.html">Vaccination Offers More Protection Against Covid Than Previous Infection</a> NYT: The study of 7,000 people found that unvaccinated people who had Covid were five times as likely to get infected again as fully vaccinated people who never had the disease. 
- <p class="updated_time"> 03:27 PM CT, Oct. 29 </p> 
- <a href="https://www.nytimes.com/article/day-of-the-dead-mexico.html">What Is Day of the Dead and How Is the Mexican Holiday Celebrated?</a> NYT: Popularized by Hollywood in films like “Coco” and the James Bond franchise, Día de Muertos is a centuries-old tradition that has roots in Indigenous culture. 
  <p class="updated_time"> 02:30 PM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/world/europe/uk-covid-travel-red-list.html">U.K. Drops Last 7 Countries From England's Covid 'Red List'</a> NYT: The easing of travel restrictions comes as another part of Britain warns that it may reintroduce some Covid rules. 
  <p class="updated_time"> 02:26 PM CT, Oct. 29 </p> 
@@ -113,8 +115,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/29/world/australia/saying-goodbye-to-melbournes-long-lockdown-again.html">Saying Goodbye to Melbourne’s Long Lockdown (Again)</a> NYT: It’s been a year and a day since the first time Melbourne reopened. Some things have changed. Some haven’t. 
  <p class="updated_time"> 01:01 AM CT, Oct. 29 </p> 
  <a href="https://www.bbc.co.uk/news/uk-59087309?at_medium=RSS&at_campaign=KARANGA">Gordon Brown calls for richer countries to airlift surplus Covid vaccines</a> BBC: Former UK prime minister Gordon Brown has called for richer countries to airlift surplus Covid vaccines. 
- <p class="updated_time"> 12:00 AM CT, Oct. 29 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-59053809?at_medium=RSS&at_campaign=KARANGA">Arnold Schwarzenegger calls leaders 'liars' over climate</a> BBC: The actor and former governor of California speaks to BBC radio 4 ahead of the COP26 climate summit. 
  <p class="updated_time"> 11:31 PM CT, Oct. 28 </p> 
  <a href="https://www.nytimes.com/2021/10/28/world/asia/japan-election-rural-urban.html">In Japan Elections, Rural Voters Count More Than Those in Big Cities</a> NYT: The disproportionate weight of rural voters in Japan gives sparsely populated parts of the country more representation — and more government largess — than urban areas, perpetuating what critics call an unfair system. 
  <p class="updated_time"> 11:16 PM CT, Oct. 28 </p> 
@@ -200,6 +200,10 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:35 PM CT, Oct. 29 </p> 
+ <a href="https://www.nytimes.com/2021/10/28/us/politics/guantanamo-detainee-torture.html">For First Time in Public, a Detainee Describes Torture at C.I.A. Black Sites</a> NYT: In a sentencing hearing, Majid Khan, a Pakistani who lived in suburban Baltimore before joining Al Qaeda, detailed dungeonlike conditions and episodes of abuse. 
+ <p class="updated_time"> 04:31 PM CT, Oct. 29 </p> 
+ <a href="https://www.nytimes.com/2021/10/29/business/trump-spac-digital-world.html">Trump’s $300 Million SPAC Deal May Have Skirted Securities Laws</a> NYT: The former president began discussing a deal with a ‘blank check’ company early this year. Investors weren’t told. 
  <p class="updated_time"> 04:24 PM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/business/economy/september-pce-inflation.html">Inflation Remains High, the Fed's Favored Inflation Index Shows</a> NYT: The Federal Reserve is closely watching inflation, and the numbers have been sharply elevated in recent months. 
  <p class="updated_time"> 04:08 PM CT, Oct. 29 </p> 
@@ -216,8 +220,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/29/arts/in-this-house-yard-signs.html">In This House, We List Our Beliefs in the Yard</a> NYT: How a lawn sign inspired by mom décor became a liberal mantra — and a symbol of a political battle over white womanhood. 
  <p class="updated_time"> 02:28 PM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/us/politics/adam-kinzinger-illinois-election.html">Adam Kinzinger, a Republican Trump Critic, Won’t Seek Re-election in House</a> NYT: Illinois Democrats eliminated Mr. Kinzinger’s district in a new congressional map. He was one of 10 House Republicans who voted to impeach former President Donald J. Trump. 
- <p class="updated_time"> 01:53 PM CT, Oct. 29 </p> 
- <a href="https://www.nytimes.com/2021/10/28/us/politics/guantanamo-detainee-torture.html">For First Time in Public, a Detainee Describes Torture at C.I.A. Black Sites</a> NYT: In a sentencing hearing, Majid Khan, a Pakistani who lived in suburban Baltimore before joining Al Qaeda, detailed dungeonlike conditions and episodes of abuse. 
  <p class="updated_time"> 01:49 PM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/us/politics/andreessen-horowitz-lobbying-cryptocurrency.html">Andreessen Horowitz's Plan to Dominate Crypto</a> NYT: The Silicon Valley firm Andreessen Horowitz, whose founders played big roles in the development of the internet, aims to own a huge part of the digital currency world — and set the rules for it, too. 
  <p class="updated_time"> 01:47 PM CT, Oct. 29 </p> 
