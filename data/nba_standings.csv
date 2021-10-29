@@ -14,13 +14,13 @@ Eastern,BKN,2,3,.400
 Eastern,ORL,1,4,.200
 Eastern,IND,1,4,.200
 Eastern,DET,0,4,.0
-Western,GSW,4,0,.1000
 Western,UTA,4,0,.1000
+Western,GSW,4,1,.800
 Western,MIN,3,1,.750
 Western,DAL,3,1,.750
+Western,MEM,3,2,.600
 Western,SAC,2,2,.500
 Western,POR,2,2,.500
-Western,MEM,2,2,.500
 Western,DEN,2,2,.500
 Western,LAL,2,3,.400
 Western,LAC,1,3,.250
