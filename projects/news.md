@@ -7,14 +7,18 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:17 AM CT, Oct. 29 </p> 
+ <a href="https://www.nytimes.com/2021/10/29/world/australia/saying-goodbye-to-melbournes-long-lockdown-again.html">Saying Goodbye to Melbourne’s Long Lockdown (Again)</a> NYT: It’s been a year and a day since the first time Melbourne reopened. Some things have changed. Some haven’t. 
+ <p class="updated_time"> 01:01 AM CT, Oct. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-59087309?at_medium=RSS&at_campaign=KARANGA">Gordon Brown calls for richer countries to airlift surplus Covid vaccines</a> BBC: Former UK prime minister Gordon Brown has called for richer countries to airlift surplus Covid vaccines. 
+ <p class="updated_time"> 01:00 AM CT, Oct. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59085806?at_medium=RSS&at_campaign=KARANGA">Biden lands in Europe with domestic spending plans in limbo</a> BBC: The US president is attending two summits, while his $2.75tn (£2tn) spending plans are up in the air. 
  <p class="updated_time"> 12:00 AM CT, Oct. 29 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59036814?at_medium=RSS&at_campaign=KARANGA">COP26: Arnold Schwarzenegger angered by world leaders' climate policies</a> BBC: The Terminator actor also says reducing meat intake does not have to mean sacrificing something. 
  <p class="updated_time"> 11:31 PM CT, Oct. 28 </p> 
  <a href="https://www.nytimes.com/2021/10/28/world/asia/japan-election-rural-urban.html">In Japan Elections, Rural Voters Count More Than Those in Big Cities</a> NYT: The disproportionate weight of rural voters in Japan gives sparsely populated parts of the country more representation — and more government largess — than urban areas, perpetuating what critics call an unfair system. 
  <p class="updated_time"> 11:15 PM CT, Oct. 28 </p> 
  <a href="https://www.nytimes.com/2021/10/29/world/australia/nuclear-powered-submarines.html">Nuclear-Powered Submarines for Australia? Maybe Not So Fast.</a> NYT: Australia’s plan to build the submarines with U.S. and British help faces big hurdles. Supporters say they can be overcome. Critics say they may be too much. 
- <p class="updated_time"> 11:04 PM CT, Oct. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59085806?at_medium=RSS&at_campaign=KARANGA">Biden lands in Europe with domestic spending plans in limbo</a> BBC: The US president is attending two summits, while his $2.75tn (£2tn) spending plans are up in the air. 
  <p class="updated_time"> 10:45 PM CT, Oct. 28 </p> 
  <a href="https://www.nytimes.com/2021/10/28/world/europe/brescia-italy-winged-victory.html">After Time of ‘Real Terror,’ City’s Resilience Is Symbolized in Statue</a> NYT: Brescia, Italy, was one of the first Western cities devastated by the pandemic. It has adopted a famed ancient statue, “Winged Victory,” as the emblem of its recovery — and a prod for visits. 
  <p class="updated_time"> 10:41 PM CT, Oct. 28 </p> 
@@ -141,14 +145,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/26/world/canada/justin-trudeau-cabinet.html">Justin Trudeau Introduces 'Reinvigorated' Cabinet</a> NYT: The Canadian prime minister failed to gain a majority in Parliament last month but acted otherwise when unveiling his new cabinet. 
  <p class="updated_time"> 06:10 PM CT, Oct. 26 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59054893?at_medium=RSS&at_campaign=KARANGA">Life at 50C: Surviving in Kuwait's 'unbearable' heat</a> BBC: The Middle East is warming faster than much of the world, leaving Kuwaitis struggling with everyday life. 
- <p class="updated_time"> 06:08 PM CT, Oct. 26 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-59049691?at_medium=RSS&at_campaign=KARANGA">Ros Atkins on... India's climate challenge</a> BBC: A look at how India is trying to balance banishing poverty with meeting its climate commitments. 
  <p class="updated_time"> 05:05 PM CT, Oct. 26 </p> 
  <a href="https://www.nytimes.com/2021/10/26/world/europe/poland-eu-aid.html">Why Poland Would Rather Keep E.U. Money Than Break With Bloc</a> NYT: Despite the flame-throwing rhetoric of their leaders, conservative supporters of Poland’s ruling party are dependent on millions of euros in aid, and don’t want to risk it. 
  <p class="updated_time"> 04:55 PM CT, Oct. 26 </p> 
  <a href="https://www.nytimes.com/2021/10/26/world/middleeast/iran-gas-station-hack.html">Iranian Motorists Hit With Cyberattack at Filling Stations</a> NYT: Iranian news agencies reported that a cyberattack of unidentified origin had sabotaged a payment system. 
- <p class="updated_time"> 02:54 PM CT, Oct. 26 </p> 
- <a href="https://www.nytimes.com/2021/10/26/world/asia/covid-new-zealand-vaccine-mandate.html">New Zealand Expands Vaccine Mandate to Cover 40 Percent of Workers</a> NYT: The rule will cover employees at restaurants, gyms, bars and hair salons. 
  <p class="updated_time"> 12:53 PM CT, Oct. 26 </p> 
  <a href="https://www.nytimes.com/2021/10/26/world/europe/children-die-greece-migrant-crossing.html">3 Children and 1 Woman Drowned While Migrating Across the Aegean Sea</a> NYT: Migrant crossings are down and so are deaths at sea, but Tuesday’s incident was a reminder that dangers remain. 
  <p class="updated_time"> 11:32 AM CT, Oct. 26 </p> 
