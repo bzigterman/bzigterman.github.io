@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:44 PM CT, Oct. 30 </p> 
+ <a href="https://www.nytimes.com/2021/10/30/world/europe/g20-rome-protests.html">Protesters Set to Demonstrate Over G20 Summit in Rome</a> NYT: Several thousands protesters gathered in downtown Rome, representing a broad range of groups and causes: students and vaccine skeptics, labor union members and climate-change activists 
  <p class="updated_time"> 04:36 PM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/30/world/biden-communion-rome-g20.html">Biden Receives Communion at Rome Church</a> NYT: Some conservative bishops in the United States have said the president should be denied communion because of his support for abortion rights. 
  <p class="updated_time"> 04:16 PM CT, Oct. 30 </p> 
@@ -43,8 +45,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/30/world/americas/g20-summit-rome-covid-protests-biden-draghi.html">Pressure Grows on G20 Nations to Get Covid Vaccines to the Poor</a> NYT: The world’s leaders are focusing on preventing future pandemics, but experts say rich nations are not doing enough to help the poor survive the current one. 
  <p class="updated_time"> 11:16 AM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/30/world/europe/g20-biden-corporate-tax-agreement.html">Biden Finds Raising Corporate Tax Rates Easier Abroad Than at Home</a> NYT: As the Group of 20 seals a new global minimum tax for companies, the president has scaled back his plans to tax U.S. corporations more. 
- <p class="updated_time"> 10:55 AM CT, Oct. 30 </p> 
- <a href="https://www.nytimes.com/2021/10/30/world/europe/g20-rome-protests.html">Protesters Set to Demonstrate Over G20 Summit in Rome</a> NYT: Several thousands protesters gathered in downtown Rome, representing a broad range of groups and causes: students and vaccine skeptics, labor union members and climate-change activists 
  <p class="updated_time"> 10:51 AM CT, Oct. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59102411?at_medium=RSS&at_campaign=KARANGA">'I feel free' - LGBT Afghan refugees arrive in UK</a> BBC: The BBC speaks to one of 29 LGBT refugees who fled the Taliban, fearing for their lives. 
  <p class="updated_time"> 10:21 AM CT, Oct. 30 </p> 
@@ -175,8 +175,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/sport/cycling/59063160?at_medium=RSS&at_campaign=KARANGA">Marshall 'Major' Taylor: The first black American world champion & his fight to the top</a> BBC: Marshall 'Major' Taylor was the first black American to become a world champion, in 1899. This is his largely forgotten story. 
  <p class="updated_time"> 04:25 PM CT, Oct. 28 </p> 
  <a href="https://www.nytimes.com/2021/10/28/world/meatpacking-workers-covid-cases-deaths.html">Covid Hit U.S. Meat Plants Far Harder Than Thought, Report Says</a> NYT: The industry had three times as many Covid infections in the pandemic’s early months as previously believed, a select committee says. 
- <p class="updated_time"> 01:38 PM CT, Oct. 28 </p> 
- <a href="https://www.nytimes.com/2021/10/28/world/oakland-schools-vaccine-mandate-enforcement.html">Oakland's Plan: Transfer or Unenroll Unvaccinated Students</a> NYT: Students who do not comply with the school district’s vaccine mandate will have two choices: switch to an independent-study school or be dropped from the rolls. 
  <p class="updated_time"> 07:12 PM CT, Oct. 25 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-58171814?at_medium=RSS&at_campaign=KARANGA">Climate change: Four things you can do about your carbon footprint</a> BBC: Small changes to our lifestyles and choices could limit our personal carbon footprint. 
  <p class="updated_time"> 11:10 AM CT, Oct. 25 </p> 
