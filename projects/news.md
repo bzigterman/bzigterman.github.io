@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:42 PM CT, Oct. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59103901?at_medium=RSS&at_campaign=KARANGA">Sudan coup: Thousands take to streets in new protests</a> BBC: Three people are reportedly killed as crowds press for a return to a civilian-led government. 
  <p class="updated_time"> 01:39 PM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/30/world/americas/nyc-police-fire-vaccine-mandate.html">More New York City workers get Covid shots as deadline nears, but tensions remain.</a> NYT: The city’s effort to compel most city employees to receive the coronavirus vaccine before Monday appears to have rapidly boosted inoculation rates. 
  <p class="updated_time"> 01:27 PM CT, Oct. 30 </p> 
@@ -35,8 +37,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/30/world/europe/g20-summit-covid-vaccines.html">Pressure Grows on G20 Nations to Get Covid Vaccines to Poorer Countries</a> NYT: Talk at the summit is focused on preventing future pandemics. Critics say the current one must be addressed first. 
  <p class="updated_time"> 10:21 AM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/30/world/africa/south-africa-elections-anc.html">A South African Town Lacks Water and Electricity. But Mayors? It Has Two.</a> NYT: Dysfunctional and collapsing rural towns may test voters’ loyalty to the ruling African National Congress party in nationwide municipal elections on Monday. 
- <p class="updated_time"> 09:52 AM CT, Oct. 30 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59103901?at_medium=RSS&at_campaign=KARANGA">Sudan coup: Thousands take to streets in new protests</a> BBC: Two people are reportedly killed as crowds press for a return to a civilian-led government. 
  <p class="updated_time"> 09:52 AM CT, Oct. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59101411?at_medium=RSS&at_campaign=KARANGA">Japan undersea volcano: Artist tries to swim in floating pumice stone</a> BBC: An eruption from an undersea volcano has coated the coastal waters off a Japanese island in pumice. 
  <p class="updated_time"> 09:13 AM CT, Oct. 30 </p> 
