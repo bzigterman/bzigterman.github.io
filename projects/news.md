@@ -7,12 +7,12 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:49 PM CT, Oct. 29 </p> 
+ <a href="https://www.nytimes.com/2021/10/29/world/nyc-vaccine-mandate-resistance.html">Tensions Rise with Next Phase of NYCs Vaccine Mandate</a> NYT: Not all of the city’s crucial departments reported significant upticks in vaccinations. Tensions were running high, and garbage was piling up on the streets. 
  <p class="updated_time"> 08:23 PM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/world/vaccine-mandate-states-sue.html">10 Republican-led States Sue Over Biden's Vaccine Mandate</a> NYT: The lawsuit is being led by Missouri’s attorney general, Eric Schmitt, and the attorney general of Nebraska, Doug Peterson. 
  <p class="updated_time"> 08:14 PM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/world/africa/sudan-coup-general.html">‘They Lied.’ Inside the Frantic Days Leading to Sudan’s Coup</a> NYT: The American envoy, Jeffrey Feltman, was given assurances that seemed to head off a military takeover. Hours later, Lt. Gen. Abdel Fattah al-Burhan made his move. 
- <p class="updated_time"> 08:10 PM CT, Oct. 29 </p> 
- <a href="https://www.nytimes.com/2021/10/29/world/nyc-vaccine-mandate-resistance.html">Tensions Rise with Next Phase of NYCs Vaccine Mandate</a> NYT: Vaccinations also rose in the Police Department, but tensions were running high in the city and garbage was piling up on the streets. 
  <p class="updated_time"> 07:25 PM CT, Oct. 29 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59054696?at_medium=RSS&at_campaign=KARANGA">COP26: What do the poorest countries want from climate summit?</a> BBC: Rich countries will get most of the attention, but developing countries are on climate change's front line. 
  <p class="updated_time"> 07:13 PM CT, Oct. 29 </p> 
@@ -61,12 +61,16 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/29/world/asia/tonga-first-covid-case.html">Tonga Reports First Covid Case, Nearly 2 Years Into Pandemic</a> NYT: The Pacific island, 1,100 miles from New Zealand, has quarantined all airport employees on duty after a flight with an infected passenger arrived. 
  <p class="updated_time"> 12:46 PM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/world/bidens-meeting-with-pope-francis-is-a-diplomatic-visit-tinged-with-the-personal.html">The president’s meeting with Pope Francis was a diplomatic visit tinged with the personal.</a> NYT: NA 
+ <p class="updated_time"> 12:18 PM CT, Oct. 29 </p> 
+ <a href="https://www.wsj.com/articles/in-meeting-with-macron-biden-says-u-s-handling-of-australia-submarine-deal-was-clumsy-11635531356">Meeting Macron, Biden Calls Handling of Australia Submarine Deal 'Clumsy'</a> WSJ: The French and U.S. leaders sought to overcome tensions on the eve of a G-20 summit after a diplomatic spat over the U.S., U.K. and Australia security pact. 
  <p class="updated_time"> 12:05 PM CT, Oct. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59096571?at_medium=RSS&at_campaign=KARANGA">Poland to build Belarus border wall to block migrant influx</a> BBC: The wall to curb a wave of migrants entering from Belarus has been approved by Poland's parliament. 
  <p class="updated_time"> 11:48 AM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/28/world/europe/france-detains-british-boat.html">France Detains British Boat as a Fight Over Fishing Rights Escalates</a> NYT: The British government summoned France’s ambassador for talks over the incident, the latest sign of cross-Channel tension between the two countries. 
  <p class="updated_time"> 11:47 AM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/28/world/europe/pope-biden-catholic-church-rift.html">Meeting of Francis and Biden Will Highlight Rift With U.S. Bishops</a> NYT: The pope and president, who will meet at the Vatican on Friday, are common targets of conservative American bishops seeking to undercut them. 
+ <p class="updated_time"> 11:44 AM CT, Oct. 29 </p> 
+ <a href="https://www.wsj.com/articles/haitis-powerful-gangs-hold-country-hostage-over-fuel-11635540289">Haiti's Powerful Gangs Hold Country Hostage Over Fuel</a> WSJ: The country’s largest gang has blocked access to the fuel terminal that provides 70% of gas supplies, demanding the prime minister’s resignation. 
  <p class="updated_time"> 11:38 AM CT, Oct. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59095026?at_medium=RSS&at_campaign=KARANGA">Sicily floods: Stay at home warning as Cyclone Apollo hits</a> BBC: Streets are flooded and train lines blocked as the Italian island of Sicily is hit again by storms. 
  <p class="updated_time"> 11:31 AM CT, Oct. 29 </p> 
@@ -204,6 +208,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:54 PM CT, Oct. 29 </p> 
+ <a href="https://www.nytimes.com/2021/10/29/upshot/democrats-preschool-child-care.html">What the Democrats’ Plan Would Do for Parents</a> NYT: Paid family leave was dropped. Public pre-K and subsidized child care remain, and could substantially lower the cost of raising children. 
  <p class="updated_time"> 08:18 PM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/us/politics/covid-vaccine-children.html">FDA Clears Pfizer Coronavirus Vaccine for Young Children</a> NYT: The shot could bring relief to parents anxious about their children getting sick, though some experts worry that those most at risk may slip through the cracks. 
  <p class="updated_time"> 08:01 PM CT, Oct. 29 </p> 
@@ -230,8 +236,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/29/business/economy/september-pce-inflation.html">Inflation Remains High, the Fed's Favored Inflation Index Shows</a> NYT: The Federal Reserve is closely watching inflation, and the numbers have been sharply elevated in recent months. 
  <p class="updated_time"> 03:27 PM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/us/politics/immigration-remain-mexico.html">Another Attempt to End 'Remain in Mexico' Immigration Policy</a> NYT: A court ordered the administration in August to reinstate the program, which forces some migrants to wait in Mexico while their asylum cases are pending. 
- <p class="updated_time"> 03:19 PM CT, Oct. 29 </p> 
- <a href="https://www.nytimes.com/2021/10/29/upshot/democrats-preschool-child-care.html">What the Democrats’ Plan Would Do for Parents</a> NYT: Paid family leave was dropped. Public pre-K and subsidized child care remain, and could substantially lower the cost of raising children. 
  <p class="updated_time"> 03:04 PM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/nyregion/letitia-james-governor.html">Letitia James Is Running for Governor of New York</a> NYT: The attorney general, who oversaw the inquiry into sexual harassment allegations against Andrew Cuomo, will challenge Gov. Kathy Hochul for the Democratic nomination. 
  <p class="updated_time"> 02:28 PM CT, Oct. 29 </p> 
