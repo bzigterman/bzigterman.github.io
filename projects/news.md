@@ -37,6 +37,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-59103901?at_medium=RSS&at_campaign=KARANGA">Sudan coup: Thousands take to streets in new protests</a> BBC: Two people are reportedly killed as crowds press for a return to a civilian-led government. 
  <p class="updated_time"> 09:52 AM CT, Oct. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59101411?at_medium=RSS&at_campaign=KARANGA">Japan undersea volcano: Artist tries to swim in floating pumice stone</a> BBC: An eruption from an undersea volcano has coated the coastal waters off a Japanese island in pumice. 
+ <p class="updated_time"> 09:13 AM CT, Oct. 30 </p> 
+ <a href="https://www.wsj.com/articles/sudanese-pro-democracy-protesters-march-in-defiance-of-military-coup-11635603536">Sudanese Security Forces Fire Bullets at Anti-Coup Protesters</a> WSJ: Sudanese security forces fired bullets and teargas into throngs of protesters, trying to disperse mass demonstrations against a military coup that has disrupted the country’s fragile transition to democracy following the ouster of longtime dictator Omar al-Bashir. 
  <p class="updated_time"> 09:09 AM CT, Oct. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59076157?at_medium=RSS&at_campaign=KARANGA">La Palma volcano survivors shaken but determined to rebuild</a> BBC: A vast lava flow reshapes a Canary Islands landscape, but does not crush the locals' hopes. 
  <p class="updated_time"> 09:02 AM CT, Oct. 30 </p> 
@@ -51,8 +53,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/science-environment-59054696?at_medium=RSS&at_campaign=KARANGA">COP26: What do the poorest countries want from climate summit?</a> BBC: Rich countries will get most of the attention, but developing countries are on climate change's front line. 
  <p class="updated_time"> 06:33 AM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/29/world/asia/pope-francis-modi-india.html">Pope Francis to Meet India's Narendra Modi for the First Time</a> NYT: The meeting comes amid increasing attacks on Christians in the South Asian nation, which is home to one of Asia’s oldest Christian populations. 
- <p class="updated_time"> 05:18 AM CT, Oct. 30 </p> 
- <a href="https://www.wsj.com/articles/sudanese-pro-democracy-protesters-march-in-defiance-of-military-coup-11635603536">Sudanese Pro-Democracy Protesters March in Defiance of Military Coup</a> WSJ: Western diplomats and the United Nations urged the military to let the protests go ahead peacefully and warned against a violent crackdown. 
  <p class="updated_time"> 05:16 AM CT, Oct. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59101592?at_medium=RSS&at_campaign=KARANGA">Ancient wooden Mayan canoe unearthed almost intact in Mexico</a> BBC: Archaeologists discovered the boat during construction work on a new tourist train network. 
  <p class="updated_time"> 05:08 AM CT, Oct. 30 </p> 
@@ -190,6 +190,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 01:16 PM CT, Oct. 30 </p> 
+ <a href="https://www.nytimes.com/2021/10/30/us/politics/eastman-pence-capitol-riot.html">John Eastman Blamed Pence for Violence at Jan. 6 Riot</a> NYT: John Eastman, the author of a memo that some in both parties liken to a blueprint for a coup, sent a hostile email to the vice president’s chief counsel as the mob attacked. 
  <p class="updated_time"> 12:30 PM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/29/world/europe/biden-g20.html">Biden Eases Fray With France and Savors Meeting With Pope as Europe Trip Begins</a> NYT: Mr. Biden sought to mend ties with France’s president over a sabotaged French submarine contract, and expressed gratitude toward Pope Francis after a 90-minute meeting. 
  <p class="updated_time"> 12:03 PM CT, Oct. 30 </p> 
@@ -212,8 +214,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/30/us/politics/trump-capitol-riot-inquiry.html">Court Filing Lists Documents Trump Seeks to Withhold From Jan. 6 Inquiry</a> NYT: The National Archives says the former president is asserting executive privilege over phone logs, notes and other records concerning the attack on the Capitol. 
  <p class="updated_time"> 04:00 AM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/30/science/tsar-bomba-60.html">Tsar Bomba Nuclear Test 60 Years Ago Didn't Make J.F.K. Flinch</a> NYT: A new study offers insights into how the United States reacted to Tsar Bomba, a planet shaker that made the deadly Hiroshima blast look tame. 
- <p class="updated_time"> 11:31 PM CT, Oct. 29 </p> 
- <a href="https://www.nytimes.com/2021/10/29/us/politics/covid-vaccine-children.html">FDA Clears Pfizer Coronavirus Vaccine for Young Children</a> NYT: The shot could bring relief to parents anxious about their children getting sick, though some experts worry that those most at risk may slip through the cracks. 
  <p class="updated_time"> 10:27 PM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/us/politics/andreessen-horowitz-lobbying-cryptocurrency.html">Andreessen Horowitz's Plan to Dominate Crypto</a> NYT: The Silicon Valley firm Andreessen Horowitz, whose founders played big roles in the development of the internet, aims to own a huge part of the digital currency world — and set the rules for it, too. 
  <p class="updated_time"> 10:16 PM CT, Oct. 29 </p> 
