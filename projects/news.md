@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:36 PM CT, Oct. 30 </p> 
+ <a href="https://www.nytimes.com/2021/10/30/world/biden-communion-rome-g20.html">Biden Receives Communion at Rome Church</a> NYT: Some conservative bishops in the United States have said the president should be denied communion because of his support for abortion rights. 
  <p class="updated_time"> 04:16 PM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/30/world/europe/g20-summit-merkel-scholz.html">Merkel's Likely Successor to Join Her for G20 Summit Talks</a> NYT: Olaf Scholz, who would have attended the G20 summit as finance minister, will also join Angela Merkel for talks with world leaders. 
  <p class="updated_time"> 04:01 PM CT, Oct. 30 </p> 
@@ -175,8 +177,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/28/world/meatpacking-workers-covid-cases-deaths.html">Covid Hit U.S. Meat Plants Far Harder Than Thought, Report Says</a> NYT: The industry had three times as many Covid infections in the pandemic’s early months as previously believed, a select committee says. 
  <p class="updated_time"> 01:38 PM CT, Oct. 28 </p> 
  <a href="https://www.nytimes.com/2021/10/28/world/oakland-schools-vaccine-mandate-enforcement.html">Oakland's Plan: Transfer or Unenroll Unvaccinated Students</a> NYT: Students who do not comply with the school district’s vaccine mandate will have two choices: switch to an independent-study school or be dropped from the rolls. 
- <p class="updated_time"> 01:06 PM CT, Oct. 28 </p> 
- <a href="https://www.nytimes.com/2021/10/28/world/africa/africa-syringe-shortages-who.html">Syringe Shortage Likely to Add to Africa's Vaccine Barriers, W.H.O. Says</a> NYT: The continent already suffers from high infection levels, low vaccination rates and limited, unpredictable deliveries of vaccine doses. 
  <p class="updated_time"> 07:12 PM CT, Oct. 25 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-58171814?at_medium=RSS&at_campaign=KARANGA">Climate change: Four things you can do about your carbon footprint</a> BBC: Small changes to our lifestyles and choices could limit our personal carbon footprint. 
  <p class="updated_time"> 11:10 AM CT, Oct. 25 </p> 
