@@ -19,10 +19,16 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/29/world/europe/biden-g20.html">Biden Eases Fray With France and Savors Meeting With Pope as Europe Trip Begins</a> NYT: Mr. Biden sought to mend ties with France’s president over a sabotaged French submarine contract, and expressed gratitude toward Pope Francis after a 90-minute meeting. 
  <p class="updated_time"> 03:52 AM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/30/world/europe/g20-summit-rome-security.html">Italy Deploys Vast Security at G20 Summit to Avoid Repeat of Past Chaos</a> NYT: In 2001, a Group of 8 summit in Genoa was met with protests that turned violent. 
+ <p class="updated_time"> 03:30 AM CT, Oct. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/world-59101218?at_medium=RSS&at_campaign=KARANGA">G20: Climate and Covid top agenda as world leaders meet</a> BBC: The G20 leaders are holding their first face-to-face meeting since the start of the pandemic. 
  <p class="updated_time"> 03:28 AM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/30/world/europe/g20-rome-protests.html">Protesters Set to Demonstrate Over G20 Summit in Rome</a> NYT: “There will be many of us,” one organizer said of a demonstration planned to coincide with the G20 gathering. 
+ <p class="updated_time"> 03:12 AM CT, Oct. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59101584?at_medium=RSS&at_campaign=KARANGA">Tonga records first coronavirus case since start of pandemic</a> BBC: The island nation was one of the last countries in the world not to have reported any infections. 
  <p class="updated_time"> 03:08 AM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/30/world/africa/sudan-protests-coup.html">As Sudan Prepares for Protests, U.S. Warns Generals Against Violence</a> NYT: Activists called for a “march of millions” on Saturday, days after the military seized power. American officials said peaceful demonstrations must be permitted. 
+ <p class="updated_time"> 02:39 AM CT, Oct. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-59101408?at_medium=RSS&at_campaign=KARANGA">The Rolling Stones: Robot dog 'Spot' shares Mick Jagger's moves</a> BBC: A unique robotic version of Start Me Up celebrates 40 years since the release of The Rolling Stones' Tattoo You album. 
  <p class="updated_time"> 12:13 AM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/29/world/nyc-vaccine-mandate-resistance.html">Tensions Rise with Next Phase of NYCs Vaccine Mandate</a> NYT: Last-minute shots brought thousands more workers in the Police, Fire and Sanitation Departments into compliance. 
  <p class="updated_time"> 11:59 PM CT, Oct. 29 </p> 
@@ -93,16 +99,12 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59095026?at_medium=RSS&at_campaign=KARANGA">Sicily floods: Stay at home warning as Cyclone Apollo hits</a> BBC: Streets are flooded and train lines blocked as the Italian island of Sicily is hit again by storms. 
  <p class="updated_time"> 11:31 AM CT, Oct. 29 </p> 
  <a href="https://www.bbc.co.uk/news/58956714?at_medium=RSS&at_campaign=KARANGA">Climate change: What are the big polluters doing to cut carbon emissions?</a> BBC: The top emissions-producing nations all have plans to tackle global warming, but what progress are they making? 
- <p class="updated_time"> 11:25 AM CT, Oct. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59015486?at_medium=RSS&at_campaign=KARANGA">Mike Ward: Comedian who mocked young disabled singer wins free speech case</a> BBC: The legal row over a comedy routine about a young disabled singer has ended after nearly a decade. 
  <p class="updated_time"> 11:23 AM CT, Oct. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59096297?at_medium=RSS&at_campaign=KARANGA">La Palma: 'Lava bomb' speeds down Cumbre Vieja volcano</a> BBC: Watch a ball of solidified molten rock rolling down from the Cumbre Vieja volcano. 
  <p class="updated_time"> 11:15 AM CT, Oct. 29 </p> 
  <a href="https://www.wsj.com/articles/china-gives-itself-wiggle-room-on-climate-change-goals-11635538164">China Adds Wiggle Room on Climate Change</a> WSJ: China’s plans for reducing its greenhouse-gas emissions—including recent revisions made amid a power crisis—have disappointed climate advocates who had hoped for an ambitious road map from Beijing. 
  <p class="updated_time"> 10:55 AM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/world/europe/appeal-julian-assange-extradition.html">British Court Hears Appeal in Julian Assange Extradition Case</a> NYT: The outcome is not expected to be known for weeks, but the hearing was the latest step in a continuing attempt to extradite the WikiLeaks founder to the U.S. to face espionage charges. 
- <p class="updated_time"> 10:54 AM CT, Oct. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-59090072?at_medium=RSS&at_campaign=KARANGA">Puneeth Rajkumar: Indian film star dies age 46</a> BBC: The star of Kannada cinema featured in more than 29 films during his career. 
  <p class="updated_time"> 10:53 AM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/world/europe/biden-pope-communion.html">Critics Try to Pressure Francis in Battle Over Biden and Communion</a> NYT: Some American prelates wanted the pope to challenge the president over his support for abortion rights. A U.S. bishop and cardinal put out pointed messages before his meeting with Francis. 
  <p class="updated_time"> 10:00 AM CT, Oct. 29 </p> 
@@ -117,8 +119,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/29/world/asia/pope-francis-modi-india.html">Pope Francis to Meet India's Narendra Modi for the First Time</a> NYT: The meeting comes amid increasing attacks on Christians in the South Asian nation, which is home to one of Asia’s oldest Christian populations. 
  <p class="updated_time"> 07:51 AM CT, Oct. 29 </p> 
  <a href="https://www.wsj.com/articles/biden-pope-francis-meet-amid-controversy-over-abortion-11635502337">Biden Says Pope Told Him He Is a Good Catholic</a> WSJ: President Biden said the pope told him to continue receiving Communion despite criticism from U.S. bishops over the president’s stance on abortion. 
- <p class="updated_time"> 07:27 AM CT, Oct. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-59090067?at_medium=RSS&at_campaign=KARANGA">Meta: Facebook's new name ridiculed by Hebrew speakers</a> BBC: The social media giant joins a number of companies that have fallen foul of translation blunders. 
  <p class="updated_time"> 07:17 AM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/world/europe/cop26-pope-francis-climate.html">Pope Francis Urges 'Radical' Action at COP26 Climate Summit</a> NYT: Only urgent action can “offer concrete hope to future generations,” the pope said in a reflection broadcast on BBC radio. 
  <p class="updated_time"> 07:13 AM CT, Oct. 29 </p> 
@@ -139,8 +139,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-china-57483492?at_medium=RSS&at_campaign=KARANGA">Why China's climate policy matters to us all</a> BBC: The global battle against climate change is likely to be won or lost in China. 
  <p class="updated_time"> 04:33 AM CT, Oct. 29 </p> 
  <a href="https://www.wsj.com/articles/covid-19-cases-drop-in-southeast-asia-easing-supply-chain-crunch-11635514413">Covid-19 Cases Drop in Southeast Asia, Easing Supply-Chain Crunch</a> WSJ: Factories have reopened and production is steadily picking up in major manufacturing areas of Southeast Asia, easing some of the supply-chain constraints that companies blame for lost sales. 
- <p class="updated_time"> 04:22 AM CT, Oct. 29 </p> 
- <a href="https://www.bbc.co.uk/news/business-59059097?at_medium=RSS&at_campaign=KARANGA">Squid Game cryptocurrency rockets in first few days of trading</a> BBC: The popular Netflix show has now spawned a cryptocurrency - and it's soaring. 
  <p class="updated_time"> 04:20 AM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/world/the-popes-us-visit-in-2015-was-a-powerful-moment-for-biden.html">The pope’s U.S. visit in 2015 was a powerful moment for Biden.</a> NYT: NA 
  <p class="updated_time"> 04:00 AM CT, Oct. 29 </p> 
