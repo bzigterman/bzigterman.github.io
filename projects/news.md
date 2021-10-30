@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:39 AM CT, Oct. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-59103657?at_medium=RSS&at_campaign=KARANGA">Indian PM Narendra Modi invites Pope for visit</a> BBC: The invitation is a significant turnaround, after negotiations for a papal visit collapsed in 2017. 
  <p class="updated_time"> 08:16 AM CT, Oct. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-59101218?at_medium=RSS&at_campaign=KARANGA">G20: Climate and Covid top agenda as world leaders meet</a> BBC: The G20 leaders are holding their first face-to-face meeting since the start of the pandemic. 
  <p class="updated_time"> 08:15 AM CT, Oct. 30 </p> 
@@ -19,6 +21,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-middle-east-59096578?at_medium=RSS&at_campaign=KARANGA">Saudi Arabia expels Lebanon ambassador amid Yemen row</a> BBC: The kingdom is also recalling its envoy from Beirut over "insulting" remarks by a Lebanese minister. 
  <p class="updated_time"> 07:35 AM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/30/world/middleeast/g20-summit-iran-nuclear.html">G20 Agenda Includes Nuclear Impasse With Iran</a> NYT: Biden administration officials have suggested that time is running out to salvage the 2015 accord under which Iran sharply curtailed its nuclear activities. 
+ <p class="updated_time"> 07:05 AM CT, Oct. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59076157?at_medium=RSS&at_campaign=KARANGA">La Palma volcano survivors shaken but determined to rebuild</a> BBC: A vast lava flow reshapes a Canary Islands landscape, but does not crush the locals' hopes. 
  <p class="updated_time"> 06:50 AM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/30/world/africa/sudan-protests-coup.html">On Key Day of Protest for Sudan, U.S. Warns Generals Against Violence</a> NYT: Demonstrations began across the country in response to calls for a “march of millions” against a return to military rule. American officials said peaceful protests must be permitted. 
  <p class="updated_time"> 06:43 AM CT, Oct. 30 </p> 
@@ -111,8 +115,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/28/world/europe/pope-biden-catholic-church-rift.html">Meeting of Francis and Biden Will Highlight Rift With U.S. Bishops</a> NYT: The pope and president, who will meet at the Vatican on Friday, are common targets of conservative American bishops seeking to undercut them. 
  <p class="updated_time"> 11:44 AM CT, Oct. 29 </p> 
  <a href="https://www.wsj.com/articles/haitis-powerful-gangs-hold-country-hostage-over-fuel-11635540289">Haiti's Powerful Gangs Hold Country Hostage Over Fuel</a> WSJ: The country’s largest gang has blocked access to the fuel terminal that provides 70% of gas supplies, demanding the prime minister’s resignation. 
- <p class="updated_time"> 11:38 AM CT, Oct. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59095026?at_medium=RSS&at_campaign=KARANGA">Sicily floods: Stay at home warning as Cyclone Apollo hits</a> BBC: Streets are flooded and train lines blocked as the Italian island of Sicily is hit again by storms. 
  <p class="updated_time"> 11:31 AM CT, Oct. 29 </p> 
  <a href="https://www.bbc.co.uk/news/58956714?at_medium=RSS&at_campaign=KARANGA">Climate change: What are the big polluters doing to cut carbon emissions?</a> BBC: The top emissions-producing nations all have plans to tackle global warming, but what progress are they making? 
  <p class="updated_time"> 11:23 AM CT, Oct. 29 </p> 
@@ -173,8 +175,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59073986?at_medium=RSS&at_campaign=KARANGA">Japan election: How the elderly keep the ruling party in power</a> BBC: As Sunday's polls approach, we look at why it is so difficult to defeat the ruling party. 
  <p class="updated_time"> 06:01 PM CT, Oct. 28 </p> 
  <a href="https://www.bbc.co.uk/sport/cycling/59063160?at_medium=RSS&at_campaign=KARANGA">Marshall 'Major' Taylor: The first black American world champion & his fight to the top</a> BBC: Marshall 'Major' Taylor was the first black American to become a world champion, in 1899. This is his largely forgotten story. 
- <p class="updated_time"> 04:52 PM CT, Oct. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59085804?at_medium=RSS&at_campaign=KARANGA">The moment Facebook became Meta</a> BBC: Meta, the rebranded Facebook, made its debut at the company’s headquarters with a new sign today. 
  <p class="updated_time"> 04:25 PM CT, Oct. 28 </p> 
  <a href="https://www.nytimes.com/2021/10/28/world/meatpacking-workers-covid-cases-deaths.html">Covid Hit U.S. Meat Plants Far Harder Than Thought, Report Says</a> NYT: The industry had three times as many Covid infections in the pandemic’s early months as previously believed, a select committee says. 
  <p class="updated_time"> 02:27 PM CT, Oct. 28 </p> 
