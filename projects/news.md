@@ -7,6 +7,12 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:00 AM CT, Oct. 30 </p> 
+ <a href="https://www.nytimes.com/2021/10/30/travel/rick-steves-europe-tours.html">Rick Steves on the Return of Travel and Why It Matters</a> NYT: The travel writer and TV personality is back in Europe, planning itineraries for next year. Travel, he says, can help us understand the world. Here’s how he recommends doing it. 
+ <p class="updated_time"> 03:59 AM CT, Oct. 30 </p> 
+ <a href="https://www.nytimes.com/2021/10/29/world/europe/biden-g20.html">Biden Eases Fray With France and Savors Meeting With Pope as Europe Trip Begins</a> NYT: Mr. Biden sought to mend ties with France’s president over a sabotaged French submarine contract, and expressed gratitude toward Pope Francis after a 90-minute meeting. 
+ <p class="updated_time"> 03:52 AM CT, Oct. 30 </p> 
+ <a href="https://www.nytimes.com/2021/10/30/world/europe/g20-summit-rome-security.html">Italy Deploys Vast Security at G20 Summit to Avoid Repeat of Past Chaos</a> NYT: In 2001, a Group of 8 summit in Genoa was met with protests that turned violent. 
  <p class="updated_time"> 03:28 AM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/30/world/europe/g20-rome-protests.html">Protesters Set to Demonstrate Over G20 Summit in Rome</a> NYT: “There will be many of us,” one organizer said of a demonstration planned to coincide with the G20 gathering. 
  <p class="updated_time"> 03:08 AM CT, Oct. 30 </p> 
@@ -23,8 +29,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/29/world/africa/sudan-coup-general.html">‘They Lied.’ Inside the Frantic Days Leading to Sudan’s Coup</a> NYT: The American envoy, Jeffrey Feltman, was given assurances that seemed to head off a military takeover. Hours later, Lt. Gen. Abdel Fattah al-Burhan made his move. 
  <p class="updated_time"> 07:25 PM CT, Oct. 29 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59054696?at_medium=RSS&at_campaign=KARANGA">COP26: What do the poorest countries want from climate summit?</a> BBC: Rich countries will get most of the attention, but developing countries are on climate change's front line. 
- <p class="updated_time"> 07:13 PM CT, Oct. 29 </p> 
- <a href="https://www.nytimes.com/2021/10/29/world/europe/biden-g20.html">Biden Eases Fray with France and Savors Meeting with Pope as Europe Trip Begins</a> NYT: Mr. Biden sought to mend ties with France’s president over a sabotaged French submarine contract, and expressed gratitude toward Pope Francis after a 90-minute meeting. 
  <p class="updated_time"> 06:56 PM CT, Oct. 29 </p> 
  <a href="https://www.bbc.co.uk/news/newsbeat-58972808?at_medium=RSS&at_campaign=KARANGA">The 17-year-old making films fun for deaf children</a> BBC: Mariella, 17, made an app during lockdown that's helping some kids enjoy films for the first time. 
  <p class="updated_time"> 06:37 PM CT, Oct. 29 </p> 
@@ -189,16 +193,12 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/taiwanese-president-confirms-u-s-troop-deployment-on-island-11635433900">Taiwanese President Confirms U.S. Troop Deployment on Island</a> WSJ: Tsai Ing-wen noted a “range of cooperation with the U.S.,” in comments that followed a recent Wall Street Journal report that a small contingent of Marines and a special-operations unit had been training Taiwanese forces. 
  <p class="updated_time"> 05:59 AM CT, Oct. 28 </p> 
  <a href="https://www.wsj.com/articles/indias-missile-test-seen-as-warning-to-china-after-breakdown-in-border-talks-11635433146">India's Missile Test Seen as Warning to China After Breakdown in Border Talks</a> WSJ: Security experts said the launch of the Agni-5 missile, the only one in India’s arsenal capable of reaching Beijing, was a pointed reminder to China that the South Asian nation has the firepower to fight back if border tensions flare up again. 
- <p class="updated_time"> 05:12 AM CT, Oct. 28 </p> 
- <a href="https://www.nytimes.com/2021/10/27/world/middleeast/israel-settlements-west-bank.html">Israel Advances Plan for New Settlement Homes, in First for Bennett Era</a> NYT: Approved despite the objections of the United States, critics say the new building will consolidate Israel’s presence in the West Bank and make it harder to create a Palestinian state. 
  <p class="updated_time"> 04:46 AM CT, Oct. 28 </p> 
  <a href="https://www.nytimes.com/2021/10/27/world/asia/china-zero-covid-virus.html">Why China Is the World’s Last ‘Zero Covid’ Holdout</a> NYT: The government has staked its political legitimacy on controlling the virus better than other countries, especially its geopolitical rivals. 
  <p class="updated_time"> 01:00 AM CT, Oct. 28 </p> 
  <a href="https://www.wsj.com/articles/four-u-s-intelligence-agencies-produced-extensive-reports-on-afghanistan-but-all-failed-to-predict-kabuls-rapid-collapse-11635415201">Intelligence Agencies Failed to Predict Rapid Fall of Kabul</a> WSJ: Agencies offered scattershot assessments of the staying power of the Afghan military and government, a review of wide-ranging summaries of classified material by The Wall Street Journal shows. 
  <p class="updated_time"> 01:40 PM CT, Oct. 27 </p> 
  <a href="https://www.nytimes.com/2021/10/27/world/middleeast/iran-nuclear-talks.html">Iran Will Rejoin Nuclear Talks, Top Negotiator Says</a> NYT: Negotiations on reviving the 2015 nuclear accord are to resume in November, but it is unclear if the United States will take part in them. 
- <p class="updated_time"> 12:54 PM CT, Oct. 27 </p> 
- <a href="https://www.nytimes.com/2021/10/27/world/europe/viktor-bryukhanov-dead.html">Viktor Bryukhanov, Blamed for the Chernobyl Disaster, Dies at 85</a> NYT: In charge of the plant in Ukraine, he was held responsible for the world’s worst nuclear-power disaster and imprisoned. 
  <p class="updated_time"> 07:12 PM CT, Oct. 25 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-58171814?at_medium=RSS&at_campaign=KARANGA">Climate change: Four things you can do about your carbon footprint</a> BBC: Small changes to our lifestyles and choices could limit our personal carbon footprint. 
  <p class="updated_time"> 11:10 AM CT, Oct. 25 </p> 
@@ -210,6 +210,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:59 AM CT, Oct. 30 </p> 
+ <a href="https://www.nytimes.com/2021/10/29/world/europe/biden-g20.html">Biden Eases Fray With France and Savors Meeting With Pope as Europe Trip Begins</a> NYT: Mr. Biden sought to mend ties with France’s president over a sabotaged French submarine contract, and expressed gratitude toward Pope Francis after a 90-minute meeting. 
  <p class="updated_time"> 11:31 PM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/us/politics/covid-vaccine-children.html">FDA Clears Pfizer Coronavirus Vaccine for Young Children</a> NYT: The shot could bring relief to parents anxious about their children getting sick, though some experts worry that those most at risk may slip through the cracks. 
  <p class="updated_time"> 10:27 PM CT, Oct. 29 </p> 
@@ -222,8 +224,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/29/arts/in-this-house-yard-signs.html">‘In This House’ Yard Signs, and Their Curious Power</a> NYT: How a lawn sign inspired by mom décor became a liberal mantra — and a symbol of a political battle over white womanhood. 
  <p class="updated_time"> 07:52 PM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/us/politics/immigration-green-cards-visas.html">Democrats’ Plan to Overhaul Legal Immigration Focuses on Green Card Backlog</a> NYT: A proposal in President Biden’s social spending bill would make hundreds of thousands of unused green cards available for immigrants. But it faces an uncertain future under Senate rules. 
- <p class="updated_time"> 07:13 PM CT, Oct. 29 </p> 
- <a href="https://www.nytimes.com/2021/10/29/world/europe/biden-g20.html">Biden Eases Fray with France and Savors Meeting with Pope as Europe Trip Begins</a> NYT: Mr. Biden sought to mend ties with France’s president over a sabotaged French submarine contract, and expressed gratitude toward Pope Francis after a 90-minute meeting. 
  <p class="updated_time"> 06:37 PM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/us/politics/a-global-tax-deal-is-at-hand-heres-how-it-would-work.html">A Global Tax Deal Is at Hand. Here’s How It Would Work.</a> NYT: President Biden will sign on to an international pact aimed at ending profit-shifting by large companies. Here’s a look at what it means. 
  <p class="updated_time"> 05:46 PM CT, Oct. 29 </p> 
