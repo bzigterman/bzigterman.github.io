@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:33 PM CT, Oct. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/stories-59075832?at_medium=RSS&at_campaign=KARANGA">A lifetime with the Yanomami people of the Amazon</a> BBC: The photographer who spent 50 years fighting to protect indigenous people. 
  <p class="updated_time"> 06:07 PM CT, Oct. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59107040?at_medium=RSS&at_campaign=KARANGA">Alec Baldwin makes first public comments on 'one in a trillion' shooting</a> BBC: In his first public comments, the actor says the cinematographer he accidentally shot was his friend. 
  <p class="updated_time"> 06:01 PM CT, Oct. 30 </p> 
@@ -179,8 +181,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/28/world/meatpacking-workers-covid-cases-deaths.html">Covid Hit U.S. Meat Plants Far Harder Than Thought, Report Says</a> NYT: The industry had three times as many Covid infections in the pandemic’s early months as previously believed, a select committee says. 
  <p class="updated_time"> 07:12 PM CT, Oct. 25 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-58171814?at_medium=RSS&at_campaign=KARANGA">Climate change: Four things you can do about your carbon footprint</a> BBC: Small changes to our lifestyles and choices could limit our personal carbon footprint. 
- <p class="updated_time"> 11:10 AM CT, Oct. 25 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-56901261?at_medium=RSS&at_campaign=KARANGA">COP26: What is the Glasgow climate conference and why is it important?</a> BBC: A crucial climate change summit is being held in the UK - this is why it's important. 
 
 
 </details>
