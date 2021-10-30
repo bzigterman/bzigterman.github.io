@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:13 AM CT, Oct. 30 </p> 
+ <a href="https://www.nytimes.com/2021/10/30/world/europe/g20-rome-protests.html">Protesters Set to Demonstrate Over G20 Summit in Rome</a> NYT: NA 
+ <p class="updated_time"> 03:08 AM CT, Oct. 30 </p> 
+ <a href="https://www.nytimes.com/2021/10/30/world/africa/sudan-protests-coup.html">As Sudan Prepares for Protests, U.S. Warns Generals Against Violence</a> NYT: Activists called for a “march of millions” on Saturday, days after the military seized power. American officials said peaceful demonstrations must be permitted. 
  <p class="updated_time"> 12:13 AM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/29/world/nyc-vaccine-mandate-resistance.html">Tensions Rise with Next Phase of NYCs Vaccine Mandate</a> NYT: Last-minute shots brought thousands more workers in the Police, Fire and Sanitation Departments into compliance. 
  <p class="updated_time"> 11:59 PM CT, Oct. 29 </p> 
@@ -191,10 +195,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/27/world/asia/china-zero-covid-virus.html">Why China Is the World’s Last ‘Zero Covid’ Holdout</a> NYT: The government has staked its political legitimacy on controlling the virus better than other countries, especially its geopolitical rivals. 
  <p class="updated_time"> 01:00 AM CT, Oct. 28 </p> 
  <a href="https://www.wsj.com/articles/four-u-s-intelligence-agencies-produced-extensive-reports-on-afghanistan-but-all-failed-to-predict-kabuls-rapid-collapse-11635415201">Intelligence Agencies Failed to Predict Rapid Fall of Kabul</a> WSJ: Agencies offered scattershot assessments of the staying power of the Afghan military and government, a review of wide-ranging summaries of classified material by The Wall Street Journal shows. 
- <p class="updated_time"> 05:51 PM CT, Oct. 27 </p> 
- <a href="https://www.nytimes.com/2021/10/27/business/bj-novak-photo-public-domain-products.html">B.J. Novak’s Face Is on Products Worldwide. He’s Not Sure Why.</a> NYT: An image of the actor appears on an eclectic mix of products from China to Uruguay. “I am too amused to do anything about it,” he said on Instagram. 
- <p class="updated_time"> 04:41 PM CT, Oct. 27 </p> 
- <a href="https://www.nytimes.com/2021/10/27/world/canada/pope-indigenous-apology.html">Pope Expresses ‘Willingness’ to Visit Canada for Indigenous Reconciliation</a> NYT: A National Truth and Reconciliation Commission has called for a papal apology for abuses at church-run schools for Indigenous children. 
  <p class="updated_time"> 01:40 PM CT, Oct. 27 </p> 
  <a href="https://www.nytimes.com/2021/10/27/world/middleeast/iran-nuclear-talks.html">Iran Will Rejoin Nuclear Talks, Top Negotiator Says</a> NYT: Negotiations on reviving the 2015 nuclear accord are to resume in November, but it is unclear if the United States will take part in them. 
  <p class="updated_time"> 12:54 PM CT, Oct. 27 </p> 
