@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:19 AM CT, Oct. 30 </p> 
+ <p class="updated_time"> 09:32 AM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/30/world/africa/sudan-protests-coup.html">Protesters Killed in Sudan on Day Seen as a Litmus Test for the Military</a> NYT: Two demonstrators were fatally shot, a doctors’ group said, as crowds answered activists’ call for a “march of millions” against a coup that has threatened the country’s democratic transition. 
  <p class="updated_time"> 09:09 AM CT, Oct. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59076157?at_medium=RSS&at_campaign=KARANGA">La Palma volcano survivors shaken but determined to rebuild</a> BBC: A vast lava flow reshapes a Canary Islands landscape, but does not crush the locals' hopes. 
