@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:19 AM CT, Oct. 30 </p> 
+ <a href="https://www.nytimes.com/2021/10/30/world/africa/sudan-protests-coup.html">Protesters Killed in Sudan on Day Seen as a Litmus Test for the Military</a> NYT: Two demonstrators were fatally shot, a doctors’ group said, as crowds answered activists’ call for a “march of millions” against a coup that has threatened the country’s democratic transition. 
  <p class="updated_time"> 09:09 AM CT, Oct. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59076157?at_medium=RSS&at_campaign=KARANGA">La Palma volcano survivors shaken but determined to rebuild</a> BBC: A vast lava flow reshapes a Canary Islands landscape, but does not crush the locals' hopes. 
  <p class="updated_time"> 09:09 AM CT, Oct. 30 </p> 
@@ -31,14 +33,16 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-middle-east-59096578?at_medium=RSS&at_campaign=KARANGA">Saudi Arabia expels Lebanon ambassador amid Yemen row</a> BBC: The kingdom is also recalling its envoy from Beirut over "insulting" remarks by a Lebanese minister. 
  <p class="updated_time"> 07:35 AM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/30/world/middleeast/g20-summit-iran-nuclear.html">G20 Agenda Includes Nuclear Impasse With Iran</a> NYT: Biden administration officials have suggested that time is running out to salvage the 2015 accord under which Iran sharply curtailed its nuclear activities. 
- <p class="updated_time"> 06:50 AM CT, Oct. 30 </p> 
- <a href="https://www.nytimes.com/2021/10/30/world/africa/sudan-protests-coup.html">On Key Day of Protest for Sudan, U.S. Warns Generals Against Violence</a> NYT: Demonstrations began across the country in response to calls for a “march of millions” against a return to military rule. American officials said peaceful protests must be permitted. 
  <p class="updated_time"> 06:43 AM CT, Oct. 30 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59054696?at_medium=RSS&at_campaign=KARANGA">COP26: What do the poorest countries want from climate summit?</a> BBC: Rich countries will get most of the attention, but developing countries are on climate change's front line. 
  <p class="updated_time"> 06:33 AM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/29/world/asia/pope-francis-modi-india.html">Pope Francis to Meet India's Narendra Modi for the First Time</a> NYT: The meeting comes amid increasing attacks on Christians in the South Asian nation, which is home to one of Asia’s oldest Christian populations. 
+ <p class="updated_time"> 05:18 AM CT, Oct. 30 </p> 
+ <a href="https://www.wsj.com/articles/sudanese-pro-democracy-protesters-march-in-defiance-of-military-coup-11635603536">Sudanese Pro-Democracy Protesters March in Defiance of Military Coup</a> WSJ: Crowds of demonstrators flooded the streets of the capital and other cities in a show of defiance against a military coup that has disrupted Sudan’s fragile transition to democracy. 
  <p class="updated_time"> 05:16 AM CT, Oct. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59101592?at_medium=RSS&at_campaign=KARANGA">Ancient wooden Mayan canoe unearthed almost intact in Mexico</a> BBC: Archaeologists discovered the boat during construction work on a new tourist train network. 
+ <p class="updated_time"> 05:08 AM CT, Oct. 30 </p> 
+ <a href="https://www.wsj.com/articles/g-20-to-back-tax-overhaul-that-makes-rich-countries-big-winners-11635586202">G-20 Leaders Back Deal to Overhaul Corporate Tax</a> WSJ: Leaders of the world’s biggest economies endorsed a deal on corporate taxation this weekend from which the U.S. and other richer countries are set to benefit the most. 
  <p class="updated_time"> 04:42 AM CT, Oct. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59101584?at_medium=RSS&at_campaign=KARANGA">Tonga records first coronavirus case since start of pandemic</a> BBC: The island nation was one of the last countries in the world not to have reported any infections. 
  <p class="updated_time"> 04:30 AM CT, Oct. 30 </p> 
@@ -53,8 +57,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/30/world/europe/g20-summit-rome-security.html">Italy Deploys Vast Security in Anticipation of G20 Protests</a> NYT: In 2001, a Group of 8 summit in Genoa was met with protests that turned violent. 
  <p class="updated_time"> 03:28 AM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/30/world/europe/g20-rome-protests.html">Protesters Set to Demonstrate Over G20 Summit in Rome</a> NYT: “There will be many of us,” one organizer said of a demonstration planned to coincide with the G20 gathering. 
- <p class="updated_time"> 03:22 AM CT, Oct. 30 </p> 
- <a href="https://www.wsj.com/articles/g-20-leaders-begin-rome-summit-amid-big-differences-on-climate-change-11635586202">G-20 Summit Begins Amid Big Differences on Climate Change</a> WSJ: President Biden and other leaders of the Group of 20 major economies began their two-day summit in Rome, seeking to find consensus on climate change, security and the global economy. 
  <p class="updated_time"> 02:39 AM CT, Oct. 30 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59101408?at_medium=RSS&at_campaign=KARANGA">The Rolling Stones: Robot dog 'Spot' shares Mick Jagger's moves</a> BBC: A unique robotic version of Start Me Up celebrates 40 years since the release of The Rolling Stones' Tattoo You album. 
  <p class="updated_time"> 11:59 PM CT, Oct. 29 </p> 
@@ -151,8 +153,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/29/world/australia/saying-goodbye-to-melbournes-long-lockdown-again.html">Saying Goodbye to Melbourne’s Long Lockdown (Again)</a> NYT: It’s been a year and a day since the first time Melbourne reopened. Some things have changed. Some haven’t. 
  <p class="updated_time"> 11:31 PM CT, Oct. 28 </p> 
  <a href="https://www.nytimes.com/2021/10/28/world/asia/japan-election-rural-urban.html">In Japan Elections, Rural Voters Count More Than Those in Big Cities</a> NYT: The disproportionate weight of rural voters in Japan gives sparsely populated parts of the country more representation — and more government largess — than urban areas, perpetuating what critics call an unfair system. 
- <p class="updated_time"> 11:16 PM CT, Oct. 28 </p> 
- <a href="https://www.wsj.com/articles/myanmar-unrest-may-be-driving-regional-meth-surge-u-n-drug-agency-says-11635495405">Myanmar Unrest May Be Driving Regional Meth Surge, U.N. Drug Agency Says</a> WSJ: Authorities in Laos seized a record haul of methamphetamine, prompting concern that the military coup in neighboring Myanmar boosted the region’s drug trade. 
  <p class="updated_time"> 10:45 PM CT, Oct. 28 </p> 
  <a href="https://www.nytimes.com/2021/10/28/world/europe/brescia-italy-winged-victory.html">After Time of ‘Real Terror,’ City’s Resilience Is Symbolized in Statue</a> NYT: Brescia, Italy, was one of the first Western cities devastated by the pandemic. It has adopted a famed ancient statue, “Winged Victory,” as the emblem of its recovery — and a prod for visits. 
  <p class="updated_time"> 08:45 PM CT, Oct. 28 </p> 
