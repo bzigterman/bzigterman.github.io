@@ -7,18 +7,20 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:39 PM CT, Oct. 30 </p> 
+ <a href="https://www.nytimes.com/2021/10/30/world/middleeast/g20-summit-iran-nuclear.html">G20 Agenda Includes Nuclear Impasse With Iran</a> NYT: Biden administration officials have suggested that time is running out to salvage the 2015 accord under which Iran sharply curtailed its nuclear activities. 
+ <p class="updated_time"> 12:38 PM CT, Oct. 30 </p> 
+ <a href="https://www.nytimes.com/2021/10/30/world/africa/sudan-protests-coup.html">Protesters Killed in Sudan on Day Seen as a Test for the Military</a> NYT: Two demonstrators were fatally shot, a doctors’ group said, as crowds answered activists’ call for a “march of millions” against a coup that has threatened the country’s democratic transition. 
+ <p class="updated_time"> 12:30 PM CT, Oct. 30 </p> 
+ <a href="https://www.nytimes.com/2021/10/29/world/europe/biden-g20.html">Biden Eases Fray With France and Savors Meeting With Pope as Europe Trip Begins</a> NYT: Mr. Biden sought to mend ties with France’s president over a sabotaged French submarine contract, and expressed gratitude toward Pope Francis after a 90-minute meeting. 
  <p class="updated_time"> 12:10 PM CT, Oct. 30 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59104781?at_medium=RSS&at_campaign=KARANGA">Igor Kirillov: TV man known as the face of the USSR dies at 89</a> BBC: He was Soviet TV's chief newsreader, anchoring major events in the country that collapsed in 1991. 
+ <a href="https://www.bbc.co.uk/news/world-europe-59104781?at_medium=RSS&at_campaign=KARANGA">Igor Kirillov: TV man known as the face of the USSR dies at 89</a> BBC: Soviet TV's chief newsreader anchored major events in the country that collapsed in 1991. 
  <p class="updated_time"> 12:08 PM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/30/world/europe/russia-gas-pipeline-nordstream-putin.html">A Russian Pipeline Changes Direction, and Energy Politics Come to the Fore</a> NYT: Amid an energy crunch in Europe, one of Russia’s largest natural gas pipelines began pulling gas out of Western Europe back eastward, Russian news agencies reported. 
- <p class="updated_time"> 12:08 PM CT, Oct. 30 </p> 
- <a href="https://www.nytimes.com/2021/10/30/world/middleeast/g20-summit-iran-nuclear.html">G20 Agenda Includes Nuclear Impasse With Iran</a> NYT: Biden administration officials have suggested that time is running out to salvage the 2015 accord under which Iran sharply curtailed its nuclear activities. 
  <p class="updated_time"> 12:03 PM CT, Oct. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-59101218?at_medium=RSS&at_campaign=KARANGA">G20: World leaders agree to historic corporate tax deal</a> BBC: Leaders at the G20 in Rome endorse a proposal that sets a minimum tax rate of 15% on big businesses. 
  <p class="updated_time"> 11:52 AM CT, Oct. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59096578?at_medium=RSS&at_campaign=KARANGA">Saudi Arabia expels Lebanon ambassador amid Yemen row</a> BBC: The UAE, Kuwait and Bahrain also take diplomatic action in solidarity with the Saudis. 
- <p class="updated_time"> 11:50 AM CT, Oct. 30 </p> 
- <a href="https://www.nytimes.com/2021/10/30/world/africa/sudan-protests-coup.html">Protesters Killed in Sudan on Day Seen as a Litmus Test for the Military</a> NYT: Two demonstrators were fatally shot, a doctors’ group said, as crowds answered activists’ call for a “march of millions” against a coup that has threatened the country’s democratic transition. 
  <p class="updated_time"> 11:40 AM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/30/world/americas/g20-summit-rome-covid-protests-biden-draghi.html">Pressure Grows on G20 Nations to Get Covid Vaccines to the Poor</a> NYT: The world’s leaders are focusing on preventing future pandemics, but experts say rich nations are not doing enough to help the poor survive the current one. 
  <p class="updated_time"> 11:16 AM CT, Oct. 30 </p> 
@@ -45,8 +47,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-india-59103657?at_medium=RSS&at_campaign=KARANGA">Indian PM Narendra Modi invites Pope for visit</a> BBC: The invitation is a significant turnaround, after negotiations for a papal visit collapsed in 2017. 
  <p class="updated_time"> 08:12 AM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/30/world/what-is-the-g20.html">What Is the G20?</a> NYT: The Group of 20 aims to unite world leaders around shared economic, political and health challenges. It also serves as an all-purpose jamboree of diplomatic activity. 
- <p class="updated_time"> 08:10 AM CT, Oct. 30 </p> 
- <a href="https://www.nytimes.com/2021/10/29/world/europe/biden-g20.html">Biden Eases Fray With France and Savors Meeting With Pope as Europe Trip Begins</a> NYT: Mr. Biden sought to mend ties with France’s president over a sabotaged French submarine contract, and expressed gratitude toward Pope Francis after a 90-minute meeting. 
  <p class="updated_time"> 06:43 AM CT, Oct. 30 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59054696?at_medium=RSS&at_campaign=KARANGA">COP26: What do the poorest countries want from climate summit?</a> BBC: Rich countries will get most of the attention, but developing countries are on climate change's front line. 
  <p class="updated_time"> 06:33 AM CT, Oct. 30 </p> 
@@ -190,6 +190,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:30 PM CT, Oct. 30 </p> 
+ <a href="https://www.nytimes.com/2021/10/29/world/europe/biden-g20.html">Biden Eases Fray With France and Savors Meeting With Pope as Europe Trip Begins</a> NYT: Mr. Biden sought to mend ties with France’s president over a sabotaged French submarine contract, and expressed gratitude toward Pope Francis after a 90-minute meeting. 
  <p class="updated_time"> 12:03 PM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/30/us/politics/virginia-governors-election.html">Both Parties Await Election Result in Virginia, and What It Bodes for the Battles Ahead</a> NYT: Republicans hope to hit on a recipe for renewal, while Democrats worry that a loss could force them to defend seats in blue states next year. 
  <p class="updated_time"> 11:40 AM CT, Oct. 30 </p> 
@@ -202,8 +204,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/30/world/europe/g20-biden-corporate-tax-agreement.html">Biden Finds Raising Corporate Tax Rates Easier Abroad Than at Home</a> NYT: As the Group of 20 seals a new global minimum tax for companies, the president has scaled back his plans to tax U.S. corporations more. 
  <p class="updated_time"> 10:35 AM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/29/us/politics/crypto-currency-venture-capitalists.html">How Venture Capitalists Think Cryptocurrency Will Reshape Commerce</a> NYT: From banking to gaming, investors are sending billions of dollars to crypto inventors who seek to disrupt industries. Here’s a look at some of those bets. 
- <p class="updated_time"> 08:10 AM CT, Oct. 30 </p> 
- <a href="https://www.nytimes.com/2021/10/29/world/europe/biden-g20.html">Biden Eases Fray With France and Savors Meeting With Pope as Europe Trip Begins</a> NYT: Mr. Biden sought to mend ties with France’s president over a sabotaged French submarine contract, and expressed gratitude toward Pope Francis after a 90-minute meeting. 
  <p class="updated_time"> 06:00 AM CT, Oct. 30 </p> 
  <a href="https://www.politico.com/news/2021/10/30/dems-race-to-renovate-bidens-domestic-policy-foundation-517782">Dems race to renovate Biden's domestic-policy foundation</a> Politico: “There are of course dozens of proposals that folks are going to make a last-ditch effort to add to it,” Sen. Chris Coons (D-Del.) said of the president’s social spending framework. 
  <p class="updated_time"> 05:01 AM CT, Oct. 30 </p> 
