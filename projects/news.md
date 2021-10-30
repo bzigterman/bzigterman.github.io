@@ -10,6 +10,8 @@ permalink: /projects/news/
  <p class="updated_time"> 09:52 AM CT, Oct. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59103901?at_medium=RSS&at_campaign=KARANGA">Sudan coup: Thousands take to streets in new protests</a> BBC: Two people are reportedly killed as crowds press for a return to a civilian-led government. 
  <p class="updated_time"> 09:52 AM CT, Oct. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59101411?at_medium=RSS&at_campaign=KARANGA">Japan undersea volcano: Artist tries to swim in floating pumice stone</a> BBC: An eruption from an undersea volcano in August has coated the coastal waters off Okinawa in pumice. 
+ <p class="updated_time"> 09:52 AM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/30/world/americas/g20-summit-rome-covid-protests-biden-draghi.html">Pressure Grows on G20 Nations to Get Covid Vaccines to the Poor</a> NYT: The world’s leaders are focusing on preventing future pandemics, but experts say rich nations are not doing enough to help the poor survive the current one. 
  <p class="updated_time"> 09:32 AM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/30/world/africa/sudan-protests-coup.html">Protesters Killed in Sudan on Day Seen as a Litmus Test for the Military</a> NYT: Two demonstrators were fatally shot, a doctors’ group said, as crowds answered activists’ call for a “march of millions” against a coup that has threatened the country’s democratic transition. 
@@ -40,7 +42,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:33 AM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/29/world/asia/pope-francis-modi-india.html">Pope Francis to Meet India's Narendra Modi for the First Time</a> NYT: The meeting comes amid increasing attacks on Christians in the South Asian nation, which is home to one of Asia’s oldest Christian populations. 
  <p class="updated_time"> 05:18 AM CT, Oct. 30 </p> 
- <a href="https://www.wsj.com/articles/sudanese-pro-democracy-protesters-march-in-defiance-of-military-coup-11635603536">Sudanese Pro-Democracy Protesters March in Defiance of Military Coup</a> WSJ: Crowds of demonstrators flooded the streets of the capital and other cities in a show of defiance against a military coup that has disrupted Sudan’s fragile transition to democracy. 
+ <a href="https://www.wsj.com/articles/sudanese-pro-democracy-protesters-march-in-defiance-of-military-coup-11635603536">Sudanese Pro-Democracy Protesters March in Defiance of Military Coup</a> WSJ: Western diplomats and the United Nations urged the military to let the protests go ahead peacefully and warned against a violent crackdown. 
  <p class="updated_time"> 05:16 AM CT, Oct. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59101592?at_medium=RSS&at_campaign=KARANGA">Ancient wooden Mayan canoe unearthed almost intact in Mexico</a> BBC: Archaeologists discovered the boat during construction work on a new tourist train network. 
  <p class="updated_time"> 05:08 AM CT, Oct. 30 </p> 
@@ -113,6 +115,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/29/world/bidens-meeting-with-pope-francis-is-a-diplomatic-visit-tinged-with-the-personal.html">The president’s meeting with Pope Francis was a diplomatic visit tinged with the personal.</a> NYT: NA 
  <p class="updated_time"> 11:48 AM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/28/world/europe/france-detains-british-boat.html">France Detains British Boat as a Fight Over Fishing Rights Escalates</a> NYT: The British government summoned France’s ambassador for talks over the incident, the latest sign of cross-Channel tension between the two countries. 
+ <p class="updated_time"> 11:47 AM CT, Oct. 29 </p> 
+ <a href="https://www.nytimes.com/2021/10/28/world/europe/pope-biden-catholic-church-rift.html">Meeting of Francis and Biden Will Highlight Rift With U.S. Bishops</a> NYT: The pope and president, who will meet at the Vatican on Friday, are common targets of conservative American bishops seeking to undercut them. 
  <p class="updated_time"> 11:44 AM CT, Oct. 29 </p> 
  <a href="https://www.wsj.com/articles/haitis-powerful-gangs-hold-country-hostage-over-fuel-11635540289">Haiti's Powerful Gangs Hold Country Hostage Over Fuel</a> WSJ: The country’s largest gang has blocked access to the fuel terminal that provides 70% of gas supplies, demanding the prime minister’s resignation. 
  <p class="updated_time"> 11:31 AM CT, Oct. 29 </p> 
@@ -159,8 +163,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/technology-59072745?at_medium=RSS&at_campaign=KARANGA">Inside the controversial US gunshot-detection firm</a> BBC: BBC News has been given access to ShotSpotter, the controversial US technology company that detects gunshots. 
  <p class="updated_time"> 07:22 PM CT, Oct. 28 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59067310?at_medium=RSS&at_campaign=KARANGA">COP26: Four numbers to remember ahead of the climate change summit</a> BBC: The Queen cancelling her appearance and a climate pledge delayed - what do they mean for COP26? 
- <p class="updated_time"> 06:02 PM CT, Oct. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59073986?at_medium=RSS&at_campaign=KARANGA">Japan election: How the elderly keep the ruling party in power</a> BBC: As Sunday's polls approach, we look at why it is so difficult to defeat the ruling party. 
  <p class="updated_time"> 06:01 PM CT, Oct. 28 </p> 
  <a href="https://www.bbc.co.uk/sport/cycling/59063160?at_medium=RSS&at_campaign=KARANGA">Marshall 'Major' Taylor: The first black American world champion & his fight to the top</a> BBC: Marshall 'Major' Taylor was the first black American to become a world champion, in 1899. This is his largely forgotten story. 
  <p class="updated_time"> 04:25 PM CT, Oct. 28 </p> 
@@ -177,8 +179,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/28/world/asia/china-covid-olympics.html">Beijing Olympics: China to Ease Covid Guidelines for Athletes in Bubble</a> NYT: Competitors will still face strict rules at what is shaping up to be the most extraordinarily regulated, large-scale sporting event since the pandemic’s start and could be expelled for breaking them. 
  <p class="updated_time"> 08:11 AM CT, Oct. 28 </p> 
  <a href="https://www.nytimes.com/2021/10/28/world/new-zealand-will-cut-the-amount-of-quarantine-time-for-travelers-in-half.html">New Zealand will cut the amount of quarantine time for travelers in half.</a> NYT: NA 
- <p class="updated_time"> 04:46 AM CT, Oct. 28 </p> 
- <a href="https://www.nytimes.com/2021/10/27/world/asia/china-zero-covid-virus.html">Why China Is the World’s Last ‘Zero Covid’ Holdout</a> NYT: The government has staked its political legitimacy on controlling the virus better than other countries, especially its geopolitical rivals. 
  <p class="updated_time"> 07:12 PM CT, Oct. 25 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-58171814?at_medium=RSS&at_campaign=KARANGA">Climate change: Four things you can do about your carbon footprint</a> BBC: Small changes to our lifestyles and choices could limit our personal carbon footprint. 
  <p class="updated_time"> 11:10 AM CT, Oct. 25 </p> 
