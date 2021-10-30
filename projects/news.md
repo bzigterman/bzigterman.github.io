@@ -7,6 +7,14 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:16 AM CT, Oct. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/world-59101218?at_medium=RSS&at_campaign=KARANGA">G20: Climate and Covid top agenda as world leaders meet</a> BBC: The G20 leaders are holding their first face-to-face meeting since the start of the pandemic. 
+ <p class="updated_time"> 08:15 AM CT, Oct. 30 </p> 
+ <a href="https://www.nytimes.com/2021/10/30/world/europe/g20-biden-corporate-tax-agreement.html">Biden Finds Raising Corporate Tax Rates Easier Abroad Than at Home</a> NYT: As the Group of 20 seals a new global minimum tax for companies, the president has scaled back his plans to tax U.S. corporations more. 
+ <p class="updated_time"> 08:12 AM CT, Oct. 30 </p> 
+ <a href="https://www.nytimes.com/2021/10/30/world/what-is-the-g20.html">What Is the G20?</a> NYT: The Group of 20 aims to unite world leaders around shared economic, political and health challenges. It also serves as an all-purpose jamboree of diplomatic activity. 
+ <p class="updated_time"> 08:10 AM CT, Oct. 30 </p> 
+ <a href="https://www.nytimes.com/2021/10/29/world/europe/biden-g20.html">Biden Eases Fray With France and Savors Meeting With Pope as Europe Trip Begins</a> NYT: Mr. Biden sought to mend ties with France’s president over a sabotaged French submarine contract, and expressed gratitude toward Pope Francis after a 90-minute meeting. 
  <p class="updated_time"> 07:38 AM CT, Oct. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59096578?at_medium=RSS&at_campaign=KARANGA">Saudi Arabia expels Lebanon ambassador amid Yemen row</a> BBC: The kingdom is also recalling its envoy from Beirut over "insulting" remarks by a Lebanese minister. 
  <p class="updated_time"> 07:35 AM CT, Oct. 30 </p> 
@@ -19,12 +27,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/30/world/europe/g20-summit-covid-vaccines.html">Pressure Grows on G20 Nations to Get Covid Vaccines to Poorer Countries</a> NYT: Talk at the summit is focused on preventing future pandemics. Critics say the current one must be addressed first. 
  <p class="updated_time"> 06:33 AM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/29/world/asia/pope-francis-modi-india.html">Pope Francis to Meet India's Narendra Modi for the First Time</a> NYT: The meeting comes amid increasing attacks on Christians in the South Asian nation, which is home to one of Asia’s oldest Christian populations. 
- <p class="updated_time"> 06:30 AM CT, Oct. 30 </p> 
- <a href="https://www.nytimes.com/2021/10/30/world/europe/g20-biden-corporate-tax-agreement.html">Biden Finds Raising Corporate Tax Rates Easier Abroad Than at Home</a> NYT: As the Group of 20 seals a new global minimum tax for companies, the president has scaled back his plans to tax U.S. corporations more. 
- <p class="updated_time"> 06:02 AM CT, Oct. 30 </p> 
- <a href="https://www.bbc.co.uk/news/world-59101218?at_medium=RSS&at_campaign=KARANGA">G20: Climate and Covid top agenda as world leaders meet</a> BBC: The G20 leaders are holding their first face-to-face meeting since the start of the pandemic. 
- <p class="updated_time"> 05:22 AM CT, Oct. 30 </p> 
- <a href="https://www.nytimes.com/2021/10/29/world/europe/biden-g20.html">Biden Eases Fray With France and Savors Meeting With Pope as Europe Trip Begins</a> NYT: Mr. Biden sought to mend ties with France’s president over a sabotaged French submarine contract, and expressed gratitude toward Pope Francis after a 90-minute meeting. 
  <p class="updated_time"> 05:16 AM CT, Oct. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59101592?at_medium=RSS&at_campaign=KARANGA">Ancient wooden Mayan canoe unearthed almost intact in Mexico</a> BBC: Archaeologists discovered the boat during construction work on a new tourist train network. 
  <p class="updated_time"> 04:42 AM CT, Oct. 30 </p> 
@@ -36,7 +38,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:00 AM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/30/travel/rick-steves-europe-tours.html">Rick Steves on the Return of Travel and Why It Matters</a> NYT: The travel writer and TV personality is back in Europe, planning itineraries for next year. Travel, he says, can help us understand the world. Here’s how he recommends doing it. 
  <p class="updated_time"> 03:52 AM CT, Oct. 30 </p> 
- <a href="https://www.nytimes.com/2021/10/30/world/europe/g20-summit-rome-security.html">Italy Deploys Vast Security at G20 Summit to Avoid Repeat of Past Chaos</a> NYT: In 2001, a Group of 8 summit in Genoa was met with protests that turned violent. 
+ <a href="https://www.nytimes.com/2021/10/30/world/europe/g20-summit-rome-security.html">Italy Deploys Vast Security in Anticipation of G20 Protests</a> NYT: In 2001, a Group of 8 summit in Genoa was met with protests that turned violent. 
  <p class="updated_time"> 03:28 AM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/30/world/europe/g20-rome-protests.html">Protesters Set to Demonstrate Over G20 Summit in Rome</a> NYT: “There will be many of us,” one organizer said of a demonstration planned to coincide with the G20 gathering. 
  <p class="updated_time"> 03:22 AM CT, Oct. 30 </p> 
@@ -206,12 +208,12 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
- <p class="updated_time"> 06:30 AM CT, Oct. 30 </p> 
+ <p class="updated_time"> 08:15 AM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/30/world/europe/g20-biden-corporate-tax-agreement.html">Biden Finds Raising Corporate Tax Rates Easier Abroad Than at Home</a> NYT: As the Group of 20 seals a new global minimum tax for companies, the president has scaled back his plans to tax U.S. corporations more. 
+ <p class="updated_time"> 08:10 AM CT, Oct. 30 </p> 
+ <a href="https://www.nytimes.com/2021/10/29/world/europe/biden-g20.html">Biden Eases Fray With France and Savors Meeting With Pope as Europe Trip Begins</a> NYT: Mr. Biden sought to mend ties with France’s president over a sabotaged French submarine contract, and expressed gratitude toward Pope Francis after a 90-minute meeting. 
  <p class="updated_time"> 06:00 AM CT, Oct. 30 </p> 
  <a href="https://www.politico.com/news/2021/10/30/dems-race-to-renovate-bidens-domestic-policy-foundation-517782">Dems race to renovate Biden's domestic-policy foundation</a> Politico: “There are of course dozens of proposals that folks are going to make a last-ditch effort to add to it,” Sen. Chris Coons (D-Del.) said of the president’s social spending framework. 
- <p class="updated_time"> 05:22 AM CT, Oct. 30 </p> 
- <a href="https://www.nytimes.com/2021/10/29/world/europe/biden-g20.html">Biden Eases Fray With France and Savors Meeting With Pope as Europe Trip Begins</a> NYT: Mr. Biden sought to mend ties with France’s president over a sabotaged French submarine contract, and expressed gratitude toward Pope Francis after a 90-minute meeting. 
  <p class="updated_time"> 05:01 AM CT, Oct. 30 </p> 
  <a href="https://www.politico.com/news/2021/10/30/call-logs-speech-drafts-among-records-trump-is-trying-to-block-from-jan-6-investigators-517796">Call logs, speech drafts among records Trump is trying to block from Jan. 6 investigators</a> Politico: The former president's effort to suppress more than 750 pages of records is far broader than previously known, a new court filing reveals. 
  <p class="updated_time"> 04:02 AM CT, Oct. 30 </p> 
