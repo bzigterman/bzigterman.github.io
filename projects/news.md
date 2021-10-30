@@ -7,12 +7,14 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:56 PM CT, Oct. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/newsbeat-58972808?at_medium=RSS&at_campaign=KARANGA">The 17-year-old making films fun for deaf children</a> BBC: Mariella, 17, made an app during lockdown that's helping some kids enjoy films for the first time. 
  <p class="updated_time"> 06:37 PM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/us/politics/a-global-tax-deal-is-at-hand-heres-how-it-would-work.html">A Global Tax Deal Is at Hand. Here’s How It Would Work.</a> NYT: President Biden will sign on to an international pact aimed at ending profit-shifting by large companies. Here’s a look at what it means. 
  <p class="updated_time"> 06:14 PM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/world/nyc-vaccine-mandate-resistance.html">Tensions Rise with Next Phase of NYCs Vaccine Mandate</a> NYT: Vaccinations in the Police Department rose by at least 5 percent over the last week, but to a lesser extent in the Fire and Sanitation Departments. 
  <p class="updated_time"> 06:12 PM CT, Oct. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59098305?at_medium=RSS&at_campaign=KARANGA">Canada challenges compensation order for indigenous children</a> BBC: The Trudeau government opposes the court order to pay C$40,000 to each indigenous child. 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59098305?at_medium=RSS&at_campaign=KARANGA">Canada challenges compensation order for indigenous children</a> BBC: The Trudeau government has been told to issue payouts because it underfunded First Nations services. 
  <p class="updated_time"> 06:04 PM CT, Oct. 29 </p> 
  <a href="https://www.bbc.co.uk/news/in-pictures-59077933?at_medium=RSS&at_campaign=KARANGA">Week in pictures: 23 - 29 October 2021</a> BBC: A selection of powerful images from all over the globe, taken this week. 
  <p class="updated_time"> 06:03 PM CT, Oct. 29 </p> 
@@ -153,6 +155,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/business-58815695?at_medium=RSS&at_campaign=KARANGA">Why the vending machine is making a comeback</a> BBC: From milkshakes to pizzas, new vending machines are selling an expanding range of products. 
  <p class="updated_time"> 06:02 PM CT, Oct. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59073986?at_medium=RSS&at_campaign=KARANGA">Japan election: How the elderly keep the ruling party in power</a> BBC: As Sunday's polls approach, we look at why it is so difficult to defeat the ruling party. 
+ <p class="updated_time"> 06:01 PM CT, Oct. 28 </p> 
+ <a href="https://www.bbc.co.uk/sport/cycling/59063160?at_medium=RSS&at_campaign=KARANGA">Marshall 'Major' Taylor: The first black American world champion & his fight to the top</a> BBC: Marshall 'Major' Taylor was the first black American to become a world champion, in 1899. This is his largely forgotten story. 
  <p class="updated_time"> 04:25 PM CT, Oct. 28 </p> 
  <a href="https://www.nytimes.com/2021/10/28/world/meatpacking-workers-covid-cases-deaths.html">Covid Hit U.S. Meat Plants Far Harder Than Thought, Report Says</a> NYT: The industry had three times as many Covid infections in the pandemic’s early months as previously believed, a select committee says. 
  <p class="updated_time"> 02:27 PM CT, Oct. 28 </p> 
@@ -202,12 +206,12 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:13 PM CT, Oct. 29 </p> 
+ <a href="https://www.nytimes.com/2021/10/29/world/europe/biden-eases-fray-with-france-and-savors-meeting-with-pope-as-europe-trip-begins.html">Biden Eases Fray with France and Savors Meeting with Pope as Europe Trip Begins</a> NYT: Mr. Biden sought to mend ties with France’s president over a sabotaged French submarine contract, and expressed gratitude toward Pope Francis after a 90-minute meeting. 
  <p class="updated_time"> 06:48 PM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/us/politics/immigration-green-cards-visas-democrats.html">Green Card Backlog Focus of Democrats' Latest Immigration Effort</a> NYT: A proposal in President Biden’s social spending bill would make hundreds of thousands of unused green cards available for immigrants. But it faces an uncertain future under Senate rules. 
  <p class="updated_time"> 06:37 PM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/us/politics/a-global-tax-deal-is-at-hand-heres-how-it-would-work.html">A Global Tax Deal Is at Hand. Here’s How It Would Work.</a> NYT: President Biden will sign on to an international pact aimed at ending profit-shifting by large companies. Here’s a look at what it means. 
- <p class="updated_time"> 05:50 PM CT, Oct. 29 </p> 
- <a href="https://www.nytimes.com/2021/10/29/world/europe/biden-eases-fray-with-france-and-savors-meeting-with-pope-as-europe-trip-begins.html">Biden Eases Fray with France and Savors Meeting with Pope as Europe Trip Begins</a> NYT: Mr. Biden sought to mend ties with France’s president over a sabotaged French submarine contract, and expressed gratitude toward Pope Francis after a 90-minute meeting. 
  <p class="updated_time"> 05:46 PM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/arts/in-this-house-yard-signs.html">‘In This House’ Yard Signs, and Their Curious Power</a> NYT: How a lawn sign inspired by mom décor became a liberal mantra — and a symbol of a political battle over white womanhood. 
  <p class="updated_time"> 05:46 PM CT, Oct. 29 </p> 
@@ -256,8 +260,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/10/29/democrats-infrastructure-week-517487">Dems limp out of another stumble-ending month</a> Politico: It's a nightmare on Capitol Hill for the president's party, as October passes by without a deal. 
  <p class="updated_time"> 02:00 AM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/us/politics/biden-g20-summit.html">Biden Declared 'America is Back' in June. The World Is About to Test Him.</a> NYT: Arriving in Europe with an unfinished economic and environmental spending plan, the president will confront new challenges, some self-inflicted, at two major summits. 
- <p class="updated_time"> 07:08 PM CT, Oct. 28 </p> 
- <a href="https://www.nytimes.com/2021/10/28/us/politics/california-ports-supply-chain.html">Program to Lend Billions to Aid California’s Supply-Chain Infrastructure</a> NYT: The Transportation Department and the state are teaming up on the program, which aims to prevent a repeat of the supply-chain crisis by bolstering ports and other sources of bottlenecks. 
  <p class="updated_time"> 06:45 PM CT, Oct. 28 </p> 
  <a href="https://www.politico.com/news/2021/10/28/iowa-new-congressional-map-517485">Iowa approves new congressional map with 3 competitive districts</a> Politico: Former President Donald Trump narrowly carried each of the three swing seats under the new lines. 
  <p class="updated_time"> 04:58 PM CT, Oct. 28 </p> 
