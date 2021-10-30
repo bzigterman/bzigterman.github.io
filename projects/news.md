@@ -7,6 +7,12 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:07 PM CT, Oct. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59107040?at_medium=RSS&at_campaign=KARANGA">Alec Baldwin makes first public comments on 'one in a trillion' shooting</a> BBC: In his first public comments, the actor says the cinematographer he accidentally shot was his friend. 
+ <p class="updated_time"> 06:01 PM CT, Oct. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-59084408?at_medium=RSS&at_campaign=KARANGA">Israeli woman jailed three times for refusing to join the army</a> BBC: Most Jewish Israelis do military service. But a small number, like Shahar, take an ideological stance. 
+ <p class="updated_time"> 06:01 PM CT, Oct. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59093226?at_medium=RSS&at_campaign=KARANGA">The women reviving a vanishing legacy of Sufi music in Kashmir</a> BBC: This six-piece band has overcome a lot of opposition to be able to play Islamic devotional music. 
  <p class="updated_time"> 04:51 PM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/30/world/biden-communion-rome-g20.html">Biden Receives Communion at Rome Church</a> NYT: Some conservative bishops in the United States have said the president should be denied communion because of his support for abortion rights. 
  <p class="updated_time"> 04:44 PM CT, Oct. 30 </p> 
@@ -71,6 +77,8 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/ai-weiwei-traces-a-century-of-making-authorities-squirm-11635606000">Ai Weiwei Traces a Century of Making Authorities Squirm</a> WSJ: A new memoir by world-famous artist-provocateur Ai Weiwei, “1000 Years of Joys and Sorrows,” traces a century of his family’s ups and downs with authorities; it’s being published in more than 20 countries—though not China. 
  <p class="updated_time"> 05:16 AM CT, Oct. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59101592?at_medium=RSS&at_campaign=KARANGA">Ancient wooden Mayan canoe unearthed almost intact in Mexico</a> BBC: Archaeologists discovered the boat during construction work on a new tourist train network. 
+ <p class="updated_time"> 04:42 AM CT, Oct. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59101584?at_medium=RSS&at_campaign=KARANGA">Tonga records first coronavirus case since start of pandemic</a> BBC: The island nation was one of the last countries in the world not to have reported any infections. 
  <p class="updated_time"> 04:00 AM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/30/world/asia/china-xi-jinping-g20.html">Xi Hasn’t Left China in 21 Months. Covid May Be Only Part of the Reason.</a> NYT: Xi Jinping’s lack of face time with world leaders signals a turn inward on domestic issues and a reluctance to compromise on the global stage. 
  <p class="updated_time"> 04:00 AM CT, Oct. 30 </p> 
@@ -91,8 +99,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/newsbeat-58972808?at_medium=RSS&at_campaign=KARANGA">The 17-year-old making films fun for deaf children</a> BBC: Mariella, 17, made an app during lockdown that's helping some kids enjoy films for the first time. 
  <p class="updated_time"> 06:37 PM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/us/politics/g20-global-tax-deal.html">A Global Tax Deal Is at Hand. Here’s How It Would Work.</a> NYT: President Biden will sign on to an international pact aimed at ending profit-shifting by large companies. Here’s a look at what it means. 
- <p class="updated_time"> 06:12 PM CT, Oct. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59098305?at_medium=RSS&at_campaign=KARANGA">Canada challenges compensation order for indigenous children</a> BBC: The Trudeau government has been told to issue payouts because it underfunded First Nations services. 
  <p class="updated_time"> 06:04 PM CT, Oct. 29 </p> 
  <a href="https://www.bbc.co.uk/news/in-pictures-59077933?at_medium=RSS&at_campaign=KARANGA">Week in pictures: 23 - 29 October 2021</a> BBC: A selection of powerful images from all over the globe, taken this week. 
  <p class="updated_time"> 06:03 PM CT, Oct. 29 </p> 
@@ -169,16 +175,12 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/technology-59072745?at_medium=RSS&at_campaign=KARANGA">Inside the controversial US gunshot-detection firm</a> BBC: BBC News has been given access to ShotSpotter, the controversial US technology company that detects gunshots. 
  <p class="updated_time"> 07:22 PM CT, Oct. 28 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59067310?at_medium=RSS&at_campaign=KARANGA">COP26: Four numbers to remember ahead of the climate change summit</a> BBC: The Queen cancelling her appearance and a climate pledge delayed - what do they mean for COP26? 
- <p class="updated_time"> 06:02 PM CT, Oct. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59073986?at_medium=RSS&at_campaign=KARANGA">Japan election: How the elderly keep the ruling party in power</a> BBC: As Sunday's polls approach, we look at why it is so difficult to defeat the ruling party. 
  <p class="updated_time"> 06:01 PM CT, Oct. 28 </p> 
  <a href="https://www.bbc.co.uk/sport/cycling/59063160?at_medium=RSS&at_campaign=KARANGA">Marshall 'Major' Taylor: The first black American world champion & his fight to the top</a> BBC: Marshall 'Major' Taylor was the first black American to become a world champion, in 1899. This is his largely forgotten story. 
  <p class="updated_time"> 04:25 PM CT, Oct. 28 </p> 
  <a href="https://www.nytimes.com/2021/10/28/world/meatpacking-workers-covid-cases-deaths.html">Covid Hit U.S. Meat Plants Far Harder Than Thought, Report Says</a> NYT: The industry had three times as many Covid infections in the pandemic’s early months as previously believed, a select committee says. 
  <p class="updated_time"> 07:12 PM CT, Oct. 25 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-58171814?at_medium=RSS&at_campaign=KARANGA">Climate change: Four things you can do about your carbon footprint</a> BBC: Small changes to our lifestyles and choices could limit our personal carbon footprint. 
- <p class="updated_time"> 11:10 AM CT, Oct. 25 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-56901261?at_medium=RSS&at_campaign=KARANGA">COP26: What is the Glasgow climate conference and why is it important?</a> BBC: A crucial climate change summit is being held in the UK - this is why it's important. 
 
 
 </details>
