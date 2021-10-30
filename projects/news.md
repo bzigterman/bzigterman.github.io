@@ -7,10 +7,10 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:26 AM CT, Oct. 30 </p> 
+ <a href="https://www.nytimes.com/2021/10/30/world/europe/g20-biden-corporate-tax-agreement.html">Biden Finds Raising Corporate Tax Rates Easier Abroad Than at Home</a> NYT: As the Group of 20 seals a new global minimum tax for companies, the president has scaled back his plans to tax U.S. corporations more. 
  <p class="updated_time"> 06:02 AM CT, Oct. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-59101218?at_medium=RSS&at_campaign=KARANGA">G20: Climate and Covid top agenda as world leaders meet</a> BBC: The G20 leaders are holding their first face-to-face meeting since the start of the pandemic. 
- <p class="updated_time"> 05:29 AM CT, Oct. 30 </p> 
- <a href="https://www.nytimes.com/2021/10/30/world/europe/g20-biden-corporate-tax-agreement.html">Biden Finds Raising Corporate Tax Rates Easier Abroad Than at Home</a> NYT: As the Group of 20 seals a new global minimum tax for companies, the president has scaled back his plans to tax U.S. corporations more. 
  <p class="updated_time"> 05:22 AM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/29/world/europe/biden-g20.html">Biden Eases Fray With France and Savors Meeting With Pope as Europe Trip Begins</a> NYT: Mr. Biden sought to mend ties with France’s president over a sabotaged French submarine contract, and expressed gratitude toward Pope Francis after a 90-minute meeting. 
  <p class="updated_time"> 05:16 AM CT, Oct. 30 </p> 
@@ -202,10 +202,10 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:30 AM CT, Oct. 30 </p> 
+ <a href="https://www.nytimes.com/2021/10/30/world/europe/g20-biden-corporate-tax-agreement.html">Biden Finds Raising Corporate Tax Rates Easier Abroad Than at Home</a> NYT: As the Group of 20 seals a new global minimum tax for companies, the president has scaled back his plans to tax U.S. corporations more. 
  <p class="updated_time"> 06:00 AM CT, Oct. 30 </p> 
  <a href="https://www.politico.com/news/2021/10/30/dems-race-to-renovate-bidens-domestic-policy-foundation-517782">Dems race to renovate Biden's domestic-policy foundation</a> Politico: “There are of course dozens of proposals that folks are going to make a last-ditch effort to add to it,” Sen. Chris Coons (D-Del.) said of the president’s social spending framework. 
- <p class="updated_time"> 05:29 AM CT, Oct. 30 </p> 
- <a href="https://www.nytimes.com/2021/10/30/world/europe/g20-biden-corporate-tax-agreement.html">Biden Finds Raising Corporate Tax Rates Easier Abroad Than at Home</a> NYT: As the Group of 20 seals a new global minimum tax for companies, the president has scaled back his plans to tax U.S. corporations more. 
  <p class="updated_time"> 05:22 AM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/29/world/europe/biden-g20.html">Biden Eases Fray With France and Savors Meeting With Pope as Europe Trip Begins</a> NYT: Mr. Biden sought to mend ties with France’s president over a sabotaged French submarine contract, and expressed gratitude toward Pope Francis after a 90-minute meeting. 
  <p class="updated_time"> 05:01 AM CT, Oct. 30 </p> 
