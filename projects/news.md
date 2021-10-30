@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:43 AM CT, Oct. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/science-environment-59054696?at_medium=RSS&at_campaign=KARANGA">COP26: What do the poorest countries want from climate summit?</a> BBC: Rich countries will get most of the attention, but developing countries are on climate change's front line. 
+ <p class="updated_time"> 06:43 AM CT, Oct. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-59096578?at_medium=RSS&at_campaign=KARANGA">Saudi Arabia expels Lebanon ambassador amid Yemen row</a> BBC: The kingdom is also recalling its envoy from Beirut over "insulting" remarks by a Lebanese minister. 
  <p class="updated_time"> 06:34 AM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/30/world/europe/g20-summit-covid-vaccines.html">Pressure Grows on G20 Nations to Get Covid Vaccines to Poorer Countries</a> NYT: Talk at the summit is focused on preventing future pandemics. Critics say the current one must be addressed first. 
  <p class="updated_time"> 06:33 AM CT, Oct. 30 </p> 
@@ -23,8 +27,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59101584?at_medium=RSS&at_campaign=KARANGA">Tonga records first coronavirus case since start of pandemic</a> BBC: The island nation was one of the last countries in the world not to have reported any infections. 
  <p class="updated_time"> 04:30 AM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/30/world/europe/g20-summit-merkel-scholz.html">Merkel's Likely Successor to Join Her for G20 Summit Talks</a> NYT: Olaf Scholz, who would have attended the G20 summit as finance minister, will also join Angela Merkel for talks with world leaders. 
- <p class="updated_time"> 04:19 AM CT, Oct. 30 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-59096578?at_medium=RSS&at_campaign=KARANGA">Saudi Arabia expels Lebanon ambassador amid Yemen row</a> BBC: The kingdom is also recalling its envoy from Beirut over "insulting" remarks by a Lebanese minister. 
  <p class="updated_time"> 04:00 AM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/30/world/asia/china-xi-jinping-g20.html">Xi Hasn’t Left China in 21 Months. Covid May Be Only Part of the Reason.</a> NYT: Xi Jinping’s lack of face time with world leaders signals a turn inward on domestic issues and a reluctance to compromise on the global stage. 
  <p class="updated_time"> 04:00 AM CT, Oct. 30 </p> 
@@ -53,8 +55,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/29/world/africa/sudan-coup-general.html">‘They Lied.’ Inside the Frantic Days Leading to Sudan’s Coup</a> NYT: The American envoy, Jeffrey Feltman, was given assurances that seemed to head off a military takeover. Hours later, Lt. Gen. Abdel Fattah al-Burhan made his move. 
  <p class="updated_time"> 07:37 PM CT, Oct. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59059493?at_medium=RSS&at_campaign=KARANGA">T20 World Cup: The toxic trolling of India's cricket stars</a> BBC: As online abuse becomes the main form of venting, many worry about the toxicity cricketers face on social media. 
- <p class="updated_time"> 07:25 PM CT, Oct. 29 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-59054696?at_medium=RSS&at_campaign=KARANGA">COP26: What do the poorest countries want from climate summit?</a> BBC: Rich countries will get most of the attention, but developing countries are on climate change's front line. 
  <p class="updated_time"> 06:56 PM CT, Oct. 29 </p> 
  <a href="https://www.bbc.co.uk/news/newsbeat-58972808?at_medium=RSS&at_campaign=KARANGA">The 17-year-old making films fun for deaf children</a> BBC: Mariella, 17, made an app during lockdown that's helping some kids enjoy films for the first time. 
  <p class="updated_time"> 06:37 PM CT, Oct. 29 </p> 
