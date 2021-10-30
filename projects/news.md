@@ -7,12 +7,14 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:38 AM CT, Oct. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-59096578?at_medium=RSS&at_campaign=KARANGA">Saudi Arabia expels Lebanon ambassador amid Yemen row</a> BBC: The kingdom is also recalling its envoy from Beirut over "insulting" remarks by a Lebanese minister. 
+ <p class="updated_time"> 07:35 AM CT, Oct. 30 </p> 
+ <a href="https://www.nytimes.com/2021/10/30/world/middleeast/g20-summit-iran-nuclear.html">G20 Agenda Includes Nuclear Impasse With Iran</a> NYT: Biden administration officials have suggested that time is running out to salvage the 2015 accord under which Iran sharply curtailed its nuclear activities. 
  <p class="updated_time"> 06:50 AM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/30/world/africa/sudan-protests-coup.html">On Key Day of Protest for Sudan, U.S. Warns Generals Against Violence</a> NYT: Demonstrations began across the country in response to calls for a “march of millions” against a return to military rule. American officials said peaceful protests must be permitted. 
  <p class="updated_time"> 06:43 AM CT, Oct. 30 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59054696?at_medium=RSS&at_campaign=KARANGA">COP26: What do the poorest countries want from climate summit?</a> BBC: Rich countries will get most of the attention, but developing countries are on climate change's front line. 
- <p class="updated_time"> 06:43 AM CT, Oct. 30 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-59096578?at_medium=RSS&at_campaign=KARANGA">Saudi Arabia expels Lebanon ambassador amid Yemen row</a> BBC: The kingdom is also recalling its envoy from Beirut over "insulting" remarks by a Lebanese minister. 
  <p class="updated_time"> 06:34 AM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/30/world/europe/g20-summit-covid-vaccines.html">Pressure Grows on G20 Nations to Get Covid Vaccines to Poorer Countries</a> NYT: Talk at the summit is focused on preventing future pandemics. Critics say the current one must be addressed first. 
  <p class="updated_time"> 06:33 AM CT, Oct. 30 </p> 
@@ -37,12 +39,12 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/30/world/europe/g20-summit-rome-security.html">Italy Deploys Vast Security at G20 Summit to Avoid Repeat of Past Chaos</a> NYT: In 2001, a Group of 8 summit in Genoa was met with protests that turned violent. 
  <p class="updated_time"> 03:28 AM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/30/world/europe/g20-rome-protests.html">Protesters Set to Demonstrate Over G20 Summit in Rome</a> NYT: “There will be many of us,” one organizer said of a demonstration planned to coincide with the G20 gathering. 
+ <p class="updated_time"> 03:22 AM CT, Oct. 30 </p> 
+ <a href="https://www.wsj.com/articles/g-20-leaders-begin-rome-summit-amid-big-differences-on-climate-change-11635586202">G-20 Summit Begins Amid Big Differences on Climate Change</a> WSJ: President Biden and other leaders of the Group of 20 major economies began their two-day summit in Rome, seeking to find consensus on climate change, security and the global economy. 
  <p class="updated_time"> 02:39 AM CT, Oct. 30 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59101408?at_medium=RSS&at_campaign=KARANGA">The Rolling Stones: Robot dog 'Spot' shares Mick Jagger's moves</a> BBC: A unique robotic version of Start Me Up celebrates 40 years since the release of The Rolling Stones' Tattoo You album. 
  <p class="updated_time"> 02:32 AM CT, Oct. 30 </p> 
  <a href="https://www.wsj.com/articles/queen-elizabeth-calls-off-official-visits-for-two-weeks-on-medical-advice-11635532785">Queen Elizabeth Calls Off Official Visits for Two Weeks on Medical Advice</a> WSJ: The 95-year-old monarch already had pulled out from the United Nations climate-change summit in Scotland next week on medical advice. 
- <p class="updated_time"> 12:30 AM CT, Oct. 30 </p> 
- <a href="https://www.wsj.com/articles/g-20-leaders-begin-rome-summit-amid-big-differences-on-climate-change-11635586202">G-20 Summit Begins Amid Big Differences on Climate Change</a> WSJ: President Biden and other leaders of the Group of 20 major economies began their two-day summit in Rome, seeking to find consensus on climate change, security and the global economy. 
  <p class="updated_time"> 12:13 AM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/29/world/nyc-vaccine-mandate-resistance.html">Tensions Rise with Next Phase of NYCs Vaccine Mandate</a> NYT: Last-minute shots brought thousands more workers in the Police, Fire and Sanitation Departments into compliance. 
  <p class="updated_time"> 11:59 PM CT, Oct. 29 </p> 
