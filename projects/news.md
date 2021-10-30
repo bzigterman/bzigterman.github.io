@@ -41,6 +41,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/30/world/asia/china-xi-jinping-g20.html">Xi Hasn’t Left China in 21 Months. Covid May Be Only Part of the Reason.</a> NYT: Xi Jinping’s lack of face time with world leaders signals a turn inward on domestic issues and a reluctance to compromise on the global stage. 
  <p class="updated_time"> 04:00 AM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/30/travel/rick-steves-europe-tours.html">Rick Steves on the Return of Travel and Why It Matters</a> NYT: The travel writer and TV personality is back in Europe, planning itineraries for next year. Travel, he says, can help us understand the world. Here’s how he recommends doing it. 
+ <p class="updated_time"> 04:00 AM CT, Oct. 30 </p> 
+ <a href="https://www.wsj.com/articles/cop26-climate-summit-consensus-is-sought-after-decades-of-false-starts-11635598801">Climate Summit to Convene After Decades of False Starts</a> WSJ: The Glasgow conference marks the latest attempt to move beyond the withdrawals of carbon emitters including the U.S. and disputes on the financial burden. 
  <p class="updated_time"> 03:52 AM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/30/world/europe/g20-summit-rome-security.html">Italy Deploys Vast Security in Anticipation of G20 Protests</a> NYT: In 2001, a Group of 8 summit in Genoa was met with protests that turned violent. 
  <p class="updated_time"> 03:28 AM CT, Oct. 30 </p> 
@@ -49,8 +51,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/g-20-leaders-begin-rome-summit-amid-big-differences-on-climate-change-11635586202">G-20 Summit Begins Amid Big Differences on Climate Change</a> WSJ: President Biden and other leaders of the Group of 20 major economies began their two-day summit in Rome, seeking to find consensus on climate change, security and the global economy. 
  <p class="updated_time"> 02:39 AM CT, Oct. 30 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59101408?at_medium=RSS&at_campaign=KARANGA">The Rolling Stones: Robot dog 'Spot' shares Mick Jagger's moves</a> BBC: A unique robotic version of Start Me Up celebrates 40 years since the release of The Rolling Stones' Tattoo You album. 
- <p class="updated_time"> 02:32 AM CT, Oct. 30 </p> 
- <a href="https://www.wsj.com/articles/queen-elizabeth-calls-off-official-visits-for-two-weeks-on-medical-advice-11635532785">Queen Elizabeth Calls Off Official Visits for Two Weeks on Medical Advice</a> WSJ: The 95-year-old monarch already had pulled out from the United Nations climate-change summit in Scotland next week on medical advice. 
  <p class="updated_time"> 12:13 AM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/29/world/nyc-vaccine-mandate-resistance.html">Tensions Rise with Next Phase of NYCs Vaccine Mandate</a> NYT: Last-minute shots brought thousands more workers in the Police, Fire and Sanitation Departments into compliance. 
  <p class="updated_time"> 11:59 PM CT, Oct. 29 </p> 
@@ -107,8 +107,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/29/world/asia/tonga-first-covid-case.html">Tonga Reports First Covid Case, Nearly 2 Years Into Pandemic</a> NYT: The Pacific island, 1,100 miles from New Zealand, has quarantined all airport employees on duty after a flight with an infected passenger arrived. 
  <p class="updated_time"> 12:46 PM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/world/bidens-meeting-with-pope-francis-is-a-diplomatic-visit-tinged-with-the-personal.html">The president’s meeting with Pope Francis was a diplomatic visit tinged with the personal.</a> NYT: NA 
- <p class="updated_time"> 12:18 PM CT, Oct. 29 </p> 
- <a href="https://www.wsj.com/articles/in-meeting-with-macron-biden-says-u-s-handling-of-australia-submarine-deal-was-clumsy-11635531356">Meeting Macron, Biden Calls Handling of Australia Submarine Deal 'Clumsy'</a> WSJ: The French and U.S. leaders sought to overcome tensions on the eve of a G-20 summit after a diplomatic spat over the U.S., U.K. and Australia security pact. 
  <p class="updated_time"> 11:48 AM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/28/world/europe/france-detains-british-boat.html">France Detains British Boat as a Fight Over Fishing Rights Escalates</a> NYT: The British government summoned France’s ambassador for talks over the incident, the latest sign of cross-Channel tension between the two countries. 
  <p class="updated_time"> 11:47 AM CT, Oct. 29 </p> 
@@ -131,8 +129,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/29/climate/europe-energy-crisis-cop.html">How Rising Energy Prices Have Complicated Europe's Climate Crisis</a> NYT: Prices for power have soared, and some politicians are now trying to use that as a lever to slow action on climate change, a strategy with far-reaching consequences. 
  <p class="updated_time"> 09:34 AM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/us/hurricane-storm-season.html">Is Hurricane Season Still Going? You Bet.</a> NYT: There hasn’t been a named storm in the Atlantic Ocean since early October, but about a month remains in the hurricane season. “Don’t raid your hurricane supplies yet,” said one meteorologist. 
- <p class="updated_time"> 07:51 AM CT, Oct. 29 </p> 
- <a href="https://www.wsj.com/articles/biden-pope-francis-meet-amid-controversy-over-abortion-11635502337">Biden Says Pope Told Him He Is a Good Catholic</a> WSJ: President Biden said the pope told him to continue receiving Communion despite criticism from U.S. bishops over the president’s stance on abortion. 
  <p class="updated_time"> 07:17 AM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/world/europe/cop26-pope-francis-climate.html">Pope Francis Urges 'Radical' Action at COP26 Climate Summit</a> NYT: Only urgent action can “offer concrete hope to future generations,” the pope said in a reflection broadcast on BBC radio. 
  <p class="updated_time"> 07:13 AM CT, Oct. 29 </p> 
@@ -141,22 +137,14 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/29/world/australia/nuclear-powered-submarines.html">Nuclear-Powered Submarines for Australia? Maybe Not So Fast.</a> NYT: Australia’s plan to build the submarines with U.S. and British help faces big hurdles. Supporters say they can be overcome. Critics say they may be too much. 
  <p class="updated_time"> 06:47 AM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/world/europe/will-the-vatican-grant-press-access-to-the-biden-pope-meeting-so-far-the-answer-is-no.html">Will the Vatican grant press access to the Biden-pope meeting? So far, the answer is no.</a> NYT: NA 
- <p class="updated_time"> 05:38 AM CT, Oct. 29 </p> 
- <a href="https://www.wsj.com/articles/g-20-climate-talks-threatened-by-clash-over-coal-ahead-of-cop26-11635491696">G-20 Climate Talks Threatened by Clash Over Coal</a> WSJ: Leaders from the Group of 20 major economies are split over phasing out coal and limiting global warming to 1.5 degrees Celsius, officials said, throwing into doubt whether ambitious climate change targets can be hit. 
  <p class="updated_time"> 05:37 AM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/world/as-biden-and-francis-prepare-to-meet-the-us-catholic-church-remains-divided.html">As Biden and Francis meet, the U.S. Catholic Church remains divided.</a> NYT: NA 
- <p class="updated_time"> 05:17 AM CT, Oct. 29 </p> 
- <a href="https://www.wsj.com/articles/glasgow-expects-25-000-climate-summit-guests-it-has-just-15-000-hotel-rooms-11635517039">Glasgow Expects 25,000 Climate Summit Guests. It Has Just 15,000 Hotel Rooms.</a> WSJ: Visitors from 120 countries start arriving this weekend for the climate change meeting, but not everyone has found a place to stay; ‘most stressful’ 
  <p class="updated_time"> 04:56 AM CT, Oct. 29 </p> 
  <a href="https://www.bbc.co.uk/news/uk-politics-59084086?at_medium=RSS&at_campaign=KARANGA">COP26: Has Boris Johnson got what it takes to get a deal?</a> BBC: The UN climate summit is a huge test of diplomacy for the UK prime minister, with considerable political risks. 
- <p class="updated_time"> 04:33 AM CT, Oct. 29 </p> 
- <a href="https://www.wsj.com/articles/covid-19-cases-drop-in-southeast-asia-easing-supply-chain-crunch-11635514413">Covid-19 Cases Drop in Southeast Asia, Easing Supply-Chain Crunch</a> WSJ: Factories have reopened and production is steadily picking up in major manufacturing areas of Southeast Asia, easing some of the supply-chain constraints that companies blame for lost sales. 
  <p class="updated_time"> 04:20 AM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/world/the-popes-us-visit-in-2015-was-a-powerful-moment-for-biden.html">The pope’s U.S. visit in 2015 was a powerful moment for Biden.</a> NYT: NA 
  <p class="updated_time"> 04:00 AM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/world/europe/roma-hip-hop-band-serbia-pretty-loud.html">‘Different Way of Fighting’: Lyrics Are the Weapons of All-Women Roma Band</a> NYT: Many Roma women face pressures to marry young and take on traditional gender roles. Pretty Loud, a hip-hop group from Serbia, wants girls to decide for themselves. 
- <p class="updated_time"> 02:09 AM CT, Oct. 29 </p> 
- <a href="https://www.wsj.com/articles/eurozone-economy-outpaces-u-s-china-but-tougher-times-lie-ahead-11635505779">Eurozone Economy Outpaces U.S., China</a> WSJ: The loosening of social restrictions and widespread vaccinations powered the region’s comeback from the Covid-19 pandemic, but supply-chain bottlenecks and rising prices are expected to hold growth back in the coming months. 
  <p class="updated_time"> 02:00 AM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/us/politics/biden-g20-summit.html">Biden Declared 'America is Back' in June. The World Is About to Test Him.</a> NYT: Arriving in Europe with an unfinished economic and environmental spending plan, the president will confront new challenges, some self-inflicted, at two major summits. 
  <p class="updated_time"> 01:17 AM CT, Oct. 29 </p> 
@@ -189,14 +177,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/28/world/asia/china-covid-olympics.html">Beijing Olympics: China to Ease Covid Guidelines for Athletes in Bubble</a> NYT: Competitors will still face strict rules at what is shaping up to be the most extraordinarily regulated, large-scale sporting event since the pandemic’s start and could be expelled for breaking them. 
  <p class="updated_time"> 08:11 AM CT, Oct. 28 </p> 
  <a href="https://www.nytimes.com/2021/10/28/world/new-zealand-will-cut-the-amount-of-quarantine-time-for-travelers-in-half.html">New Zealand will cut the amount of quarantine time for travelers in half.</a> NYT: NA 
- <p class="updated_time"> 06:25 AM CT, Oct. 28 </p> 
- <a href="https://www.wsj.com/articles/taiwanese-president-confirms-u-s-troop-deployment-on-island-11635433900">Taiwanese President Confirms U.S. Troop Deployment on Island</a> WSJ: Tsai Ing-wen noted a “range of cooperation with the U.S.,” in comments that followed a recent Wall Street Journal report that a small contingent of Marines and a special-operations unit had been training Taiwanese forces. 
- <p class="updated_time"> 05:59 AM CT, Oct. 28 </p> 
- <a href="https://www.wsj.com/articles/indias-missile-test-seen-as-warning-to-china-after-breakdown-in-border-talks-11635433146">India's Missile Test Seen as Warning to China After Breakdown in Border Talks</a> WSJ: Security experts said the launch of the Agni-5 missile, the only one in India’s arsenal capable of reaching Beijing, was a pointed reminder to China that the South Asian nation has the firepower to fight back if border tensions flare up again. 
  <p class="updated_time"> 04:46 AM CT, Oct. 28 </p> 
  <a href="https://www.nytimes.com/2021/10/27/world/asia/china-zero-covid-virus.html">Why China Is the World’s Last ‘Zero Covid’ Holdout</a> NYT: The government has staked its political legitimacy on controlling the virus better than other countries, especially its geopolitical rivals. 
- <p class="updated_time"> 01:00 AM CT, Oct. 28 </p> 
- <a href="https://www.wsj.com/articles/four-u-s-intelligence-agencies-produced-extensive-reports-on-afghanistan-but-all-failed-to-predict-kabuls-rapid-collapse-11635415201">Intelligence Agencies Failed to Predict Rapid Fall of Kabul</a> WSJ: Agencies offered scattershot assessments of the staying power of the Afghan military and government, a review of wide-ranging summaries of classified material by The Wall Street Journal shows. 
  <p class="updated_time"> 07:12 PM CT, Oct. 25 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-58171814?at_medium=RSS&at_campaign=KARANGA">Climate change: Four things you can do about your carbon footprint</a> BBC: Small changes to our lifestyles and choices could limit our personal carbon footprint. 
  <p class="updated_time"> 11:10 AM CT, Oct. 25 </p> 
