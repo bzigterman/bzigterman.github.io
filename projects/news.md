@@ -186,7 +186,7 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
- <p class="updated_time"> 04:58 PM CT, Oct. 30 </p> 
+ <p class="updated_time"> 05:24 PM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/30/movies/alec-baldwin-rust-shooting-timeline.html">How the Shooting on the Alec Baldwin Set Happened</a> NYT: A reconstruction of the events leading up to the fatal shooting of the cinematographer of “Rust,” the Alec Baldwin western, reveals a troubled production and a series of errors. 
  <p class="updated_time"> 01:58 PM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/30/us/politics/virginia-governors-election.html">What the Virginia Election Result Will Mean for Democrats and Republicans</a> NYT: Republicans hope to hit on a recipe for renewal, while Democrats worry that a loss could force them to defend seats in blue states next year. 
