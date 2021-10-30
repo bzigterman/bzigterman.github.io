@@ -43,6 +43,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/29/world/vaccine-mandate-states-sue.html">10 Republican-led States Sue Over Biden's Vaccine Mandate</a> NYT: The lawsuit is being led by Missouri’s attorney general, Eric Schmitt, and the attorney general of Nebraska, Doug Peterson. 
  <p class="updated_time"> 08:14 PM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/world/africa/sudan-coup-general.html">‘They Lied.’ Inside the Frantic Days Leading to Sudan’s Coup</a> NYT: The American envoy, Jeffrey Feltman, was given assurances that seemed to head off a military takeover. Hours later, Lt. Gen. Abdel Fattah al-Burhan made his move. 
+ <p class="updated_time"> 07:37 PM CT, Oct. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-59059493?at_medium=RSS&at_campaign=KARANGA">T20 World Cup: The toxic trolling of India's cricket stars</a> BBC: As online abuse becomes the main form of venting, many worry about the toxicity cricketers face on social media. 
  <p class="updated_time"> 07:25 PM CT, Oct. 29 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59054696?at_medium=RSS&at_campaign=KARANGA">COP26: What do the poorest countries want from climate summit?</a> BBC: Rich countries will get most of the attention, but developing countries are on climate change's front line. 
  <p class="updated_time"> 06:56 PM CT, Oct. 29 </p> 
@@ -137,8 +139,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/glasgow-expects-25-000-climate-summit-guests-it-has-just-15-000-hotel-rooms-11635517039">Glasgow Expects 25,000 Climate Summit Guests. It Has Just 15,000 Hotel Rooms.</a> WSJ: Visitors from 120 countries start arriving this weekend for the climate change meeting, but not everyone has found a place to stay; ‘most stressful’ 
  <p class="updated_time"> 04:56 AM CT, Oct. 29 </p> 
  <a href="https://www.bbc.co.uk/news/uk-politics-59084086?at_medium=RSS&at_campaign=KARANGA">COP26: Has Boris Johnson got what it takes to get a deal?</a> BBC: The UN climate summit is a huge test of diplomacy for the UK prime minister, with considerable political risks. 
- <p class="updated_time"> 04:51 AM CT, Oct. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-57483492?at_medium=RSS&at_campaign=KARANGA">Why China's climate policy matters to us all</a> BBC: The global battle against climate change is likely to be won or lost in China. 
  <p class="updated_time"> 04:33 AM CT, Oct. 29 </p> 
  <a href="https://www.wsj.com/articles/covid-19-cases-drop-in-southeast-asia-easing-supply-chain-crunch-11635514413">Covid-19 Cases Drop in Southeast Asia, Easing Supply-Chain Crunch</a> WSJ: Factories have reopened and production is steadily picking up in major manufacturing areas of Southeast Asia, easing some of the supply-chain constraints that companies blame for lost sales. 
  <p class="updated_time"> 04:20 AM CT, Oct. 29 </p> 
@@ -159,16 +159,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/28/world/europe/brescia-italy-winged-victory.html">After Time of ‘Real Terror,’ City’s Resilience Is Symbolized in Statue</a> NYT: Brescia, Italy, was one of the first Western cities devastated by the pandemic. It has adopted a famed ancient statue, “Winged Victory,” as the emblem of its recovery — and a prod for visits. 
  <p class="updated_time"> 08:45 PM CT, Oct. 28 </p> 
  <a href="https://www.bbc.co.uk/news/technology-59072745?at_medium=RSS&at_campaign=KARANGA">Inside the controversial US gunshot-detection firm</a> BBC: BBC News has been given access to ShotSpotter, the controversial US technology company that detects gunshots. 
- <p class="updated_time"> 07:26 PM CT, Oct. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59080871?at_medium=RSS&at_campaign=KARANGA">The Taliban’s secretive war against IS</a> BBC: Jalalabad is the frontline in murky and bloody battle between two groups, and the death toll is rising. 
- <p class="updated_time"> 07:25 PM CT, Oct. 28 </p> 
- <a href="https://www.bbc.co.uk/news/59048827?at_medium=RSS&at_campaign=KARANGA">Ethiopia food crisis: Why does PM have a problem with wheat aid?</a> BBC: Ethiopia has been increasing its wheat production, but this is yet to catch up with growing wheat demand. 
- <p class="updated_time"> 07:24 PM CT, Oct. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59075044?at_medium=RSS&at_campaign=KARANGA">Mikheil Saakashvili: Hunger-striking ex-leader rattles Georgia from jail</a> BBC: Mikheil Saakashvili was president, but is now in prison as the government tries to silence him. 
  <p class="updated_time"> 07:22 PM CT, Oct. 28 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59067310?at_medium=RSS&at_campaign=KARANGA">COP26: Four numbers to remember ahead of the climate change summit</a> BBC: The Queen cancelling her appearance and a climate pledge delayed - what do they mean for COP26? 
- <p class="updated_time"> 06:08 PM CT, Oct. 28 </p> 
- <a href="https://www.bbc.co.uk/news/business-58815695?at_medium=RSS&at_campaign=KARANGA">Why the vending machine is making a comeback</a> BBC: From milkshakes to pizzas, new vending machines are selling an expanding range of products. 
  <p class="updated_time"> 06:02 PM CT, Oct. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59073986?at_medium=RSS&at_campaign=KARANGA">Japan election: How the elderly keep the ruling party in power</a> BBC: As Sunday's polls approach, we look at why it is so difficult to defeat the ruling party. 
  <p class="updated_time"> 06:01 PM CT, Oct. 28 </p> 
