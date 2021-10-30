@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
- <p class="updated_time"> 10:35 AM CT, Oct. 30 </p> 
+ <p class="updated_time"> 10:39 AM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/30/world/middleeast/g20-summit-iran-nuclear.html">G20 Agenda Includes Nuclear Impasse With Iran</a> NYT: Biden administration officials have suggested that time is running out to salvage the 2015 accord under which Iran sharply curtailed its nuclear activities. 
  <p class="updated_time"> 10:21 AM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/30/world/africa/south-africa-elections-anc.html">A South African Town Lacks Water and Electricity. But Mayors? It Has Two.</a> NYT: Dysfunctional and collapsing rural towns may test voters’ loyalty to the ruling African National Congress party in nationwide municipal elections on Monday. 
@@ -190,6 +190,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:35 AM CT, Oct. 30 </p> 
+ <a href="https://www.nytimes.com/2021/10/29/us/politics/crypto-currency-venture-capitalists.html">How Venture Capitalists Think Cryptocurrency Will Reshape Commerce</a> NYT: From banking to gaming, investors are sending billions of dollars to crypto inventors who seek to disrupt industries. Here’s a look at some of those bets. 
  <p class="updated_time"> 09:52 AM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/30/world/americas/g20-summit-rome-covid-protests-biden-draghi.html">Pressure Grows on G20 Nations to Get Covid Vaccines to the Poor</a> NYT: The world’s leaders are focusing on preventing future pandemics, but experts say rich nations are not doing enough to help the poor survive the current one. 
  <p class="updated_time"> 08:15 AM CT, Oct. 30 </p> 
@@ -234,8 +236,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/29/nyregion/letitia-james-governor.html">Letitia James Is Running for Governor of New York</a> NYT: The attorney general, who oversaw the inquiry into sexual harassment allegations against Andrew Cuomo, will challenge Gov. Kathy Hochul for the Democratic nomination. 
  <p class="updated_time"> 02:28 PM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/us/politics/adam-kinzinger-illinois-election.html">Adam Kinzinger, a Republican Trump Critic, Won’t Seek Re-election in House</a> NYT: Illinois Democrats eliminated Mr. Kinzinger’s district in a new congressional map. He was one of 10 House Republicans who voted to impeach former President Donald J. Trump. 
- <p class="updated_time"> 01:47 PM CT, Oct. 29 </p> 
- <a href="https://www.nytimes.com/2021/10/29/us/politics/crypto-currency-venture-capitalists.html">How Venture Capitalists Think Cryptocurrency Will Reshape Commerce</a> NYT: From banking to gaming, investors are sending billions of dollars to crypto inventors who seek to disrupt industries. Here’s a look at some of those bets. 
  <p class="updated_time"> 01:36 PM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/us/politics/richmond-virginia-elections.html">Why a Changing Richmond and Its Suburbs Are Key to Virginia’s Vote</a> NYT: The region has been an engine of Democratic victories, but now the party is on defense as Republicans go after swing voters with worries about schools. 
  <p class="updated_time"> 09:58 AM CT, Oct. 29 </p> 
