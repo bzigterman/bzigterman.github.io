@@ -87,8 +87,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/cop26-climate-summit-consensus-is-sought-after-decades-of-false-starts-11635598801">Climate Summit to Convene After Decades of False Starts</a> WSJ: COP26 in Glasgow marks countries’ latest attempt to reduce global greenhouse gas emissions. 
  <p class="updated_time"> 03:52 AM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/30/world/europe/g20-summit-rome-security.html">Italy Deploys Vast Security in Anticipation of G20 Protests</a> NYT: In 2001, a Group of 8 summit in Genoa was met with protests that turned violent. 
- <p class="updated_time"> 02:39 AM CT, Oct. 30 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-59101408?at_medium=RSS&at_campaign=KARANGA">The Rolling Stones: Robot dog 'Spot' shares Mick Jagger's moves</a> BBC: A unique robotic version of Start Me Up celebrates 40 years since the release of The Rolling Stones' Tattoo You album. 
  <p class="updated_time"> 10:47 PM CT, Oct. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59100114?at_medium=RSS&at_campaign=KARANGA">Covid-19 origins may never be known, US intelligence agencies say</a> BBC: But US agencies say the virus, first identified in China, was not developed as a biological weapon. 
  <p class="updated_time"> 08:14 PM CT, Oct. 29 </p> 
@@ -181,6 +179,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/28/world/meatpacking-workers-covid-cases-deaths.html">Covid Hit U.S. Meat Plants Far Harder Than Thought, Report Says</a> NYT: The industry had three times as many Covid infections in the pandemic’s early months as previously believed, a select committee says. 
  <p class="updated_time"> 07:12 PM CT, Oct. 25 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-58171814?at_medium=RSS&at_campaign=KARANGA">Climate change: Four things you can do about your carbon footprint</a> BBC: Small changes to our lifestyles and choices could limit our personal carbon footprint. 
+ <p class="updated_time"> 11:10 AM CT, Oct. 25 </p> 
+ <a href="https://www.bbc.co.uk/news/science-environment-56901261?at_medium=RSS&at_campaign=KARANGA">COP26: What is the Glasgow climate conference and why is it important?</a> BBC: A crucial climate change summit is being held in the UK - this is why it's important. 
 
 
 </details>
