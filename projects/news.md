@@ -7,6 +7,14 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:22 AM CT, Oct. 30 </p> 
+ <a href="https://www.nytimes.com/2021/10/29/world/europe/biden-g20.html">Biden Eases Fray With France and Savors Meeting With Pope as Europe Trip Begins</a> NYT: Mr. Biden sought to mend ties with France’s president over a sabotaged French submarine contract, and expressed gratitude toward Pope Francis after a 90-minute meeting. 
+ <p class="updated_time"> 05:20 AM CT, Oct. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/world-59101218?at_medium=RSS&at_campaign=KARANGA">G20: Climate and Covid top agenda as world leaders meet</a> BBC: The G20 leaders are holding their first face-to-face meeting since the start of the pandemic. 
+ <p class="updated_time"> 05:16 AM CT, Oct. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-59101592?at_medium=RSS&at_campaign=KARANGA">Ancient wooden Mayan canoe unearthed almost intact in Mexico</a> BBC: Archaeologists discovered the boat during construction work on a new tourist train network. 
+ <p class="updated_time"> 05:13 AM CT, Oct. 30 </p> 
+ <a href="https://www.nytimes.com/2021/10/30/world/europe/g20-biden-corporate-tax-agreement.html">Biden Finds Raising Corporate Tax Rates Easier Abroad Than at Home</a> NYT: As the Group of 20 seals a new global minimum tax for companies, the president has scaled back his plans to tax U.S. corporations more. 
  <p class="updated_time"> 04:42 AM CT, Oct. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59101584?at_medium=RSS&at_campaign=KARANGA">Tonga records first coronavirus case since start of pandemic</a> BBC: The island nation was one of the last countries in the world not to have reported any infections. 
  <p class="updated_time"> 04:30 AM CT, Oct. 30 </p> 
@@ -17,12 +25,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/30/world/asia/china-xi-jinping-g20.html">Xi Hasn’t Left China in 21 Months. Covid May Be Only Part of the Reason.</a> NYT: Xi Jinping’s lack of face time with world leaders signals a turn inward on domestic issues and a reluctance to compromise on the global stage. 
  <p class="updated_time"> 04:00 AM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/30/travel/rick-steves-europe-tours.html">Rick Steves on the Return of Travel and Why It Matters</a> NYT: The travel writer and TV personality is back in Europe, planning itineraries for next year. Travel, he says, can help us understand the world. Here’s how he recommends doing it. 
- <p class="updated_time"> 03:59 AM CT, Oct. 30 </p> 
- <a href="https://www.nytimes.com/2021/10/29/world/europe/biden-g20.html">Biden Eases Fray With France and Savors Meeting With Pope as Europe Trip Begins</a> NYT: Mr. Biden sought to mend ties with France’s president over a sabotaged French submarine contract, and expressed gratitude toward Pope Francis after a 90-minute meeting. 
  <p class="updated_time"> 03:52 AM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/30/world/europe/g20-summit-rome-security.html">Italy Deploys Vast Security at G20 Summit to Avoid Repeat of Past Chaos</a> NYT: In 2001, a Group of 8 summit in Genoa was met with protests that turned violent. 
- <p class="updated_time"> 03:30 AM CT, Oct. 30 </p> 
- <a href="https://www.bbc.co.uk/news/world-59101218?at_medium=RSS&at_campaign=KARANGA">G20: Climate and Covid top agenda as world leaders meet</a> BBC: The G20 leaders are holding their first face-to-face meeting since the start of the pandemic. 
  <p class="updated_time"> 03:28 AM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/30/world/europe/g20-rome-protests.html">Protesters Set to Demonstrate Over G20 Summit in Rome</a> NYT: “There will be many of us,” one organizer said of a demonstration planned to coincide with the G20 gathering. 
  <p class="updated_time"> 03:08 AM CT, Oct. 30 </p> 
@@ -87,8 +91,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/29/world/bidens-meeting-with-pope-francis-is-a-diplomatic-visit-tinged-with-the-personal.html">The president’s meeting with Pope Francis was a diplomatic visit tinged with the personal.</a> NYT: NA 
  <p class="updated_time"> 12:18 PM CT, Oct. 29 </p> 
  <a href="https://www.wsj.com/articles/in-meeting-with-macron-biden-says-u-s-handling-of-australia-submarine-deal-was-clumsy-11635531356">Meeting Macron, Biden Calls Handling of Australia Submarine Deal 'Clumsy'</a> WSJ: The French and U.S. leaders sought to overcome tensions on the eve of a G-20 summit after a diplomatic spat over the U.S., U.K. and Australia security pact. 
- <p class="updated_time"> 12:05 PM CT, Oct. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59096571?at_medium=RSS&at_campaign=KARANGA">Poland to build Belarus border wall to block migrant influx</a> BBC: The wall to curb a wave of migrants entering from Belarus has been approved by Poland's parliament. 
  <p class="updated_time"> 11:48 AM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/28/world/europe/france-detains-british-boat.html">France Detains British Boat as a Fight Over Fishing Rights Escalates</a> NYT: The British government summoned France’s ambassador for talks over the incident, the latest sign of cross-Channel tension between the two countries. 
  <p class="updated_time"> 11:47 AM CT, Oct. 29 </p> 
@@ -195,8 +197,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/27/world/asia/china-zero-covid-virus.html">Why China Is the World’s Last ‘Zero Covid’ Holdout</a> NYT: The government has staked its political legitimacy on controlling the virus better than other countries, especially its geopolitical rivals. 
  <p class="updated_time"> 01:00 AM CT, Oct. 28 </p> 
  <a href="https://www.wsj.com/articles/four-u-s-intelligence-agencies-produced-extensive-reports-on-afghanistan-but-all-failed-to-predict-kabuls-rapid-collapse-11635415201">Intelligence Agencies Failed to Predict Rapid Fall of Kabul</a> WSJ: Agencies offered scattershot assessments of the staying power of the Afghan military and government, a review of wide-ranging summaries of classified material by The Wall Street Journal shows. 
- <p class="updated_time"> 01:40 PM CT, Oct. 27 </p> 
- <a href="https://www.nytimes.com/2021/10/27/world/middleeast/iran-nuclear-talks.html">Iran Will Rejoin Nuclear Talks, Top Negotiator Says</a> NYT: Negotiations on reviving the 2015 nuclear accord are to resume in November, but it is unclear if the United States will take part in them. 
  <p class="updated_time"> 07:12 PM CT, Oct. 25 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-58171814?at_medium=RSS&at_campaign=KARANGA">Climate change: Four things you can do about your carbon footprint</a> BBC: Small changes to our lifestyles and choices could limit our personal carbon footprint. 
  <p class="updated_time"> 11:10 AM CT, Oct. 25 </p> 
@@ -208,6 +208,10 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:22 AM CT, Oct. 30 </p> 
+ <a href="https://www.nytimes.com/2021/10/29/world/europe/biden-g20.html">Biden Eases Fray With France and Savors Meeting With Pope as Europe Trip Begins</a> NYT: Mr. Biden sought to mend ties with France’s president over a sabotaged French submarine contract, and expressed gratitude toward Pope Francis after a 90-minute meeting. 
+ <p class="updated_time"> 05:13 AM CT, Oct. 30 </p> 
+ <a href="https://www.nytimes.com/2021/10/30/world/europe/g20-biden-corporate-tax-agreement.html">Biden Finds Raising Corporate Tax Rates Easier Abroad Than at Home</a> NYT: As the Group of 20 seals a new global minimum tax for companies, the president has scaled back his plans to tax U.S. corporations more. 
  <p class="updated_time"> 05:01 AM CT, Oct. 30 </p> 
  <a href="https://www.politico.com/news/2021/10/30/call-logs-speech-drafts-among-records-trump-is-trying-to-block-from-jan-6-investigators-517796">Call logs, speech drafts among records Trump is trying to block from Jan. 6 investigators</a> Politico: The former president's effort to suppress more than 750 pages of records is far broader than previously known, a new court filing reveals. 
  <p class="updated_time"> 04:02 AM CT, Oct. 30 </p> 
@@ -216,8 +220,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/30/movies/alec-baldwin-rust-shooting-timeline.html">How the Shooting on the Alec Baldwin Set Happened</a> NYT: A reconstruction of the events leading up to the fatal shooting of the cinematographer of “Rust,” the Alec Baldwin western, reveals a troubled production and a series of errors. 
  <p class="updated_time"> 04:00 AM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/30/science/tsar-bomba-60.html">Tsar Bomba Nuclear Test 60 Years Ago Didn't Make J.F.K. Flinch</a> NYT: A new study offers insights into how the United States reacted to Tsar Bomba, a planet shaker that made the deadly Hiroshima blast look tame. 
- <p class="updated_time"> 03:59 AM CT, Oct. 30 </p> 
- <a href="https://www.nytimes.com/2021/10/29/world/europe/biden-g20.html">Biden Eases Fray With France and Savors Meeting With Pope as Europe Trip Begins</a> NYT: Mr. Biden sought to mend ties with France’s president over a sabotaged French submarine contract, and expressed gratitude toward Pope Francis after a 90-minute meeting. 
  <p class="updated_time"> 11:31 PM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/us/politics/covid-vaccine-children.html">FDA Clears Pfizer Coronavirus Vaccine for Young Children</a> NYT: The shot could bring relief to parents anxious about their children getting sick, though some experts worry that those most at risk may slip through the cracks. 
  <p class="updated_time"> 10:27 PM CT, Oct. 29 </p> 
@@ -256,8 +258,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/10/29/jan-6-committee-capitol-rioter-517602">Jan. 6 committee set to interview rioter who breached the Capitol</a> Politico: Heather Shaner, an attorney who represents multiple defendants in Jan. 6 cases, confirmed that one of her clients will be remotely interviewed Friday afternoon. 
  <p class="updated_time"> 09:37 AM CT, Oct. 29 </p> 
  <a href="https://www.politico.com/news/2021/10/29/rep-adam-kinzinger-wont-seek-reelection-next-year-517599">Kinzinger retiring from Congress, vows 'broader fight nationwide' against Trumpism</a> Politico: The Illinois lawmaker is one of the most prominent Trump critics among House Republicans. 
- <p class="updated_time"> 08:34 AM CT, Oct. 29 </p> 
- <a href="https://www.nytimes.com/2021/10/29/us/politics/glenn-youngkin-virginia-governors-race.html">Glenn Youngkin Was a Traditional Republican. Then He Became a Culture Warrior.</a> NYT: As he runs for governor of Virginia, Mr. Youngkin has built a coalition, as one prominent conservative described it, of Trump voters and angry parents. 
  <p class="updated_time"> 04:00 AM CT, Oct. 29 </p> 
  <a href="https://www.politico.com/news/2021/10/29/joe-manchin-houseboat-activists-517482">The activists outside Joe Manchin’s houseboat</a> Politico: On this episode of Playbook Deep Dive, we take you alongside the activists rowing outside Sen. Joe Manchin’s houseboat — and inside the halls of the Capitol — to talk about whether the demonstrations are having any real impact on the Democrats’ reconciliation bill. 
  <p class="updated_time"> 03:31 AM CT, Oct. 29 </p> 
