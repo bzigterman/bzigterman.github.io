@@ -7,8 +7,12 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:16 AM CT, Oct. 30 </p> 
+ <a href="https://www.nytimes.com/2021/10/30/world/europe/g20-biden-corporate-tax-agreement.html">Biden Finds Raising Corporate Tax Rates Easier Abroad Than at Home</a> NYT: As the Group of 20 seals a new global minimum tax for companies, the president has scaled back his plans to tax U.S. corporations more. 
  <p class="updated_time"> 10:55 AM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/30/world/europe/g20-rome-protests.html">Protesters Set to Demonstrate Over G20 Summit in Rome</a> NYT: Several thousands protesters gathered in downtown Rome, representing a broad range of groups and causes: students and vaccine skeptics, labor union members and climate-change activists 
+ <p class="updated_time"> 10:51 AM CT, Oct. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59102411?at_medium=RSS&at_campaign=KARANGA">'I feel free': LGBT Afghan refugees arrive in UK</a> BBC: The BBC speaks to one of 29 LGBT refugees who fled the Taliban, fearing for their lives. 
  <p class="updated_time"> 10:47 AM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/30/world/europe/g20-summit-covid-vaccines.html">Pressure Grows on G20 Nations to Get Covid Vaccines to Poorer Countries</a> NYT: Talk at the summit is focused on preventing future pandemics. Critics say the current one must be addressed first. 
  <p class="updated_time"> 10:39 AM CT, Oct. 30 </p> 
@@ -33,8 +37,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/29/world/nyc-vaccine-mandate-resistance.html">Tensions Rise with Next Phase of NYCs Vaccine Mandate</a> NYT: Last-minute shots brought thousands more workers in the Police, Fire and Sanitation Departments into compliance. 
  <p class="updated_time"> 08:39 AM CT, Oct. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59103657?at_medium=RSS&at_campaign=KARANGA">Indian PM Narendra Modi invites Pope for visit</a> BBC: The invitation is a significant turnaround, after negotiations for a papal visit collapsed in 2017. 
- <p class="updated_time"> 08:15 AM CT, Oct. 30 </p> 
- <a href="https://www.nytimes.com/2021/10/30/world/europe/g20-biden-corporate-tax-agreement.html">Biden Finds Raising Corporate Tax Rates Easier Abroad Than at Home</a> NYT: As the Group of 20 seals a new global minimum tax for companies, the president has scaled back his plans to tax U.S. corporations more. 
  <p class="updated_time"> 08:12 AM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/30/world/what-is-the-g20.html">What Is the G20?</a> NYT: The Group of 20 aims to unite world leaders around shared economic, political and health challenges. It also serves as an all-purpose jamboree of diplomatic activity. 
  <p class="updated_time"> 08:10 AM CT, Oct. 30 </p> 
@@ -99,8 +101,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/29/health/vaccination-covid.html">CDC Study Suggests Vaccination Offers More Protection Against Covid Than Prior Infection</a> NYT: The study of 7,000 people found that unvaccinated people who had Covid were five times as likely to get infected again as fully vaccinated people who never had the disease. 
  <p class="updated_time"> 02:30 PM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/world/europe/uk-covid-travel-red-list.html">U.K. Drops Last 7 Countries From England's Covid 'Red List'</a> NYT: The easing of travel restrictions comes as another part of Britain warns that it may reintroduce some Covid rules. 
- <p class="updated_time"> 02:26 PM CT, Oct. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59094763?at_medium=RSS&at_campaign=KARANGA">Fetty Wap: US rapper charged with drug trafficking</a> BBC: The artist was arrested at a stadium in New York City before his concert. 
  <p class="updated_time"> 01:58 PM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/world/europe/queen-elizabeth-2-weeks-rest.html">Queen Elizabeth Urged by Doctors to Rest at Least 2 Weeks</a> NYT: The advice from her medical team has heightened the worry about the health of the 95-year-old monarch, who has canceled the public appearances that had been on her calendar. 
  <p class="updated_time"> 01:57 PM CT, Oct. 29 </p> 
@@ -190,12 +190,16 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:28 AM CT, Oct. 30 </p> 
+ <a href="https://www.nytimes.com/2021/10/30/movies/alec-baldwin-rust-shooting-timeline.html">How the Shooting on the Alec Baldwin Set Happened</a> NYT: A reconstruction of the events leading up to the fatal shooting of the cinematographer of “Rust,” the Alec Baldwin western, reveals a troubled production and a series of errors. 
+ <p class="updated_time"> 11:16 AM CT, Oct. 30 </p> 
+ <a href="https://www.nytimes.com/2021/10/30/world/europe/g20-biden-corporate-tax-agreement.html">Biden Finds Raising Corporate Tax Rates Easier Abroad Than at Home</a> NYT: As the Group of 20 seals a new global minimum tax for companies, the president has scaled back his plans to tax U.S. corporations more. 
+ <p class="updated_time"> 11:00 AM CT, Oct. 30 </p> 
+ <a href="https://www.nytimes.com/2021/10/30/us/politics/virginia-governors-election.html">Both Parties Await Election Result in Virginia, and What It Bodes for the Battles Ahead</a> NYT: Republicans hope to hit on a recipe for renewal, while Democrats worry that a loss could force them to defend seats in blue states next year. 
  <p class="updated_time"> 10:35 AM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/29/us/politics/crypto-currency-venture-capitalists.html">How Venture Capitalists Think Cryptocurrency Will Reshape Commerce</a> NYT: From banking to gaming, investors are sending billions of dollars to crypto inventors who seek to disrupt industries. Here’s a look at some of those bets. 
  <p class="updated_time"> 09:52 AM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/30/world/americas/g20-summit-rome-covid-protests-biden-draghi.html">Pressure Grows on G20 Nations to Get Covid Vaccines to the Poor</a> NYT: The world’s leaders are focusing on preventing future pandemics, but experts say rich nations are not doing enough to help the poor survive the current one. 
- <p class="updated_time"> 08:15 AM CT, Oct. 30 </p> 
- <a href="https://www.nytimes.com/2021/10/30/world/europe/g20-biden-corporate-tax-agreement.html">Biden Finds Raising Corporate Tax Rates Easier Abroad Than at Home</a> NYT: As the Group of 20 seals a new global minimum tax for companies, the president has scaled back his plans to tax U.S. corporations more. 
  <p class="updated_time"> 08:10 AM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/29/world/europe/biden-g20.html">Biden Eases Fray With France and Savors Meeting With Pope as Europe Trip Begins</a> NYT: Mr. Biden sought to mend ties with France’s president over a sabotaged French submarine contract, and expressed gratitude toward Pope Francis after a 90-minute meeting. 
  <p class="updated_time"> 06:00 AM CT, Oct. 30 </p> 
@@ -204,8 +208,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/10/30/call-logs-speech-drafts-among-records-trump-is-trying-to-block-from-jan-6-investigators-517796">Call logs, speech drafts among records Trump is trying to block from Jan. 6 investigators</a> Politico: The former president's effort to suppress more than 750 pages of records is far broader than previously known, a new court filing reveals. 
  <p class="updated_time"> 04:02 AM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/30/us/politics/trump-capitol-riot-inquiry.html">Court Filing Lists Documents Trump Seeks to Withhold From Jan. 6 Inquiry</a> NYT: The National Archives says the former president is asserting executive privilege over phone logs, notes and other records concerning the attack on the Capitol. 
- <p class="updated_time"> 04:00 AM CT, Oct. 30 </p> 
- <a href="https://www.nytimes.com/2021/10/30/movies/alec-baldwin-rust-shooting-timeline.html">How the Shooting on the Alec Baldwin Set Happened</a> NYT: A reconstruction of the events leading up to the fatal shooting of the cinematographer of “Rust,” the Alec Baldwin western, reveals a troubled production and a series of errors. 
  <p class="updated_time"> 04:00 AM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/30/science/tsar-bomba-60.html">Tsar Bomba Nuclear Test 60 Years Ago Didn't Make J.F.K. Flinch</a> NYT: A new study offers insights into how the United States reacted to Tsar Bomba, a planet shaker that made the deadly Hiroshima blast look tame. 
  <p class="updated_time"> 11:31 PM CT, Oct. 29 </p> 
@@ -234,8 +236,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/29/us/politics/immigration-remain-mexico.html">Another Attempt to End 'Remain in Mexico' Immigration Policy</a> NYT: A court ordered the administration in August to reinstate the program, which forces some migrants to wait in Mexico while their asylum cases are pending. 
  <p class="updated_time"> 03:04 PM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/nyregion/letitia-james-governor.html">Letitia James Is Running for Governor of New York</a> NYT: The attorney general, who oversaw the inquiry into sexual harassment allegations against Andrew Cuomo, will challenge Gov. Kathy Hochul for the Democratic nomination. 
- <p class="updated_time"> 02:28 PM CT, Oct. 29 </p> 
- <a href="https://www.nytimes.com/2021/10/29/us/politics/adam-kinzinger-illinois-election.html">Adam Kinzinger, a Republican Trump Critic, Won’t Seek Re-election in House</a> NYT: Illinois Democrats eliminated Mr. Kinzinger’s district in a new congressional map. He was one of 10 House Republicans who voted to impeach former President Donald J. Trump. 
  <p class="updated_time"> 01:36 PM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/us/politics/richmond-virginia-elections.html">Why a Changing Richmond and Its Suburbs Are Key to Virginia’s Vote</a> NYT: The region has been an engine of Democratic victories, but now the party is on defense as Republicans go after swing voters with worries about schools. 
  <p class="updated_time"> 09:58 AM CT, Oct. 29 </p> 
