@@ -363,6 +363,195 @@ plot_grid(western_plot, eastern_plot,
 ggsave("plots/nba_standings.png",
        width = 8, height = 4, dpi = 320)
 
+# conference standings table ----
+
+western_standings <- western %>%
+  filter(!is.na(team_label)) %>%
+  arrange(desc(win_pct)) %>%
+  mutate(league_place = row_number()) 
+# al_standings_elim <- al_standings %>%
+#   mutate(fifth_place_wins = al_standings$wins[[5]]) %>%
+#   mutate(league_elimination_number = if_else(league_place != 1:5,
+#                                              (163 - fifth_place_wins - losses),
+#                                              NULL))
+eastern_standings <- eastern %>%
+  filter(!is.na(team_label)) %>%
+  arrange(desc(win_pct)) %>%
+  mutate(league_place = row_number()) 
+# nl_standings_elim <- nl_standings %>%
+#   mutate(fifth_place_wins = nl_standings$wins[[5]]) %>%
+#   mutate(league_elimination_number = if_else(league_place != 1:5,
+#                                              (163 - fifth_place_wins - losses),
+#                                              NULL))
+
+nba_standings <- full_join(western_standings, eastern_standings) %>%
+  #full_join(division_standings) %>%
+  select(logo_url, team_label, wins, losses, net_wins, win_pct, 
+         win_pct_text, games_remaining, last_ten, conference, outcomes)
+
+# al_standings_magic <- mlb_standings %>%
+#   filter(league == "AL") %>%
+#   mutate(division_leaders = case_when(
+#     division_place == 1 & division == "AL Central" ~ "C",
+#     division_place == 1 & division == "AL East"    ~ "E",
+#     division_place == 1 & division == "AL West"    ~ "W",
+#     TRUE                                           ~ "")
+#   ) %>%
+#   group_by(division_leaders) %>%
+#   mutate(wild_card_rank = rank(desc(win_pct), ties.method = "first")) %>%
+#   mutate(wild_cardss = 
+#            ifelse(division_leaders == "W" | 
+#                     division_leaders == "C" | 
+#                     division_leaders == "E",
+#                   division_leaders,
+#                   paste("WC",wild_card_rank,sep="")
+#            )) %>%
+#   mutate(wild_cards = 
+#            ifelse(wild_cardss == "WC1",
+#                   "WC",
+#                   ifelse(wild_cardss == "WC2",
+#                          "WC",
+#                          ifelse(division_magic_number=="✓",
+#                                 paste(division_leaders,division_magic_number,sep=""),
+#                                 division_leaders)
+#                   ))) %>%
+#   ungroup() %>%
+#   mutate(second_wc_wins = if_else(wild_cardss == "WC2",
+#                                   wins,
+#                                   NULL)) %>%
+#   fill(second_wc_wins, 
+#        .direction = "downup") %>%
+#   mutate(second_wc_losses = if_else(wild_cardss == "WC2",
+#                                     losses,
+#                                     NULL)) %>%
+#   fill(second_wc_losses, 
+#        .direction = "downup") %>%
+#   mutate(second_wc_net_wins = second_wc_wins-second_wc_losses) %>%
+#   mutate(league_elim_number = if_else(wild_cards == "",
+#                                       (163 - second_wc_wins - losses),
+#                                       NULL)) %>%
+#   mutate(division_or_elim = ifelse(wild_cards != "",
+#                                    wild_cards,
+#                                    ifelse(league_elim_number <= 0,
+#                                           "—",
+#                                           league_elim_number))) %>%
+#   mutate(wc_games_behind = (second_wc_net_wins - net_wins)/2) %>%
+#   mutate(wc_games_behind = 
+#            ifelse(division_leaders == "W" | 
+#                     division_leaders == "C" | 
+#                     division_leaders == "E",
+#                   wild_cards,
+#                   (second_wc_net_wins - net_wins)/2
+#            )
+#   )
+# 
+# nl_standings_magic <- mlb_standings %>%
+#   filter(league == "NL") %>%
+#   mutate(division_leaders = case_when(
+#     division_place == 1 & division == "NL Central" ~ "C",
+#     division_place == 1 & division == "NL East"    ~ "E",
+#     division_place == 1 & division == "NL West"    ~ "W",
+#     TRUE                                           ~ "")
+#   ) %>%
+#   group_by(division_leaders) %>%
+#   mutate(wild_card_rank = rank(desc(win_pct), ties.method = "first")) %>%
+#   mutate(wild_cardss = 
+#            ifelse(division_leaders == "W" | 
+#                     division_leaders == "C" | 
+#                     division_leaders == "E",
+#                   division_leaders,
+#                   paste("WC",wild_card_rank,sep="")
+#            )) %>%
+#   mutate(wild_cards = 
+#            ifelse(wild_cardss == "WC1",
+#                   "WC",
+#                   ifelse(wild_cardss == "WC2",
+#                          "WC",
+#                          ifelse(division_magic_number=="✓",
+#                                 paste(division_leaders,division_magic_number,sep=""),
+#                                 division_leaders)
+#                   ))) %>%
+#   ungroup() %>%
+#   mutate(second_wc_wins = if_else(wild_cardss == "WC2",
+#                                   wins,
+#                                   NULL)) %>%
+#   fill(second_wc_wins, 
+#        .direction = "downup") %>%
+#   mutate(second_wc_losses = if_else(wild_cardss == "WC2",
+#                                     losses,
+#                                     NULL)) %>%
+#   fill(second_wc_losses, 
+#        .direction = "downup") %>%
+#   mutate(second_wc_net_wins = second_wc_wins-second_wc_losses) %>%
+#   mutate(league_elim_number = if_else(wild_cards == "",
+#                                       (163 - second_wc_wins - losses),
+#                                       NULL)) %>%
+#   mutate(division_or_elim = ifelse(wild_cards != "",
+#                                    wild_cards,
+#                                    ifelse(league_elim_number <= 0,
+#                                           "—",
+#                                           league_elim_number))) %>%
+#   mutate(wc_games_behind = (second_wc_net_wins - net_wins)/2) %>%
+#   mutate(wc_games_behind = 
+#            ifelse(division_leaders == "W" | 
+#                     division_leaders == "C" | 
+#                     division_leaders == "E",
+#                   wild_cards,
+#                   (second_wc_net_wins - net_wins)/2
+#            )
+#   )
+
+#mlb_standings_magic <- full_join(al_standings_magic, nl_standings_magic)
+
+nba_standings_table <- nba_standings %>%
+  select(logo_url, team_label, wins, losses,
+         win_pct,win_pct_text,outcomes, conference) %>%
+  group_by(conference) %>%
+  arrange(conference,desc(win_pct)) %>%
+  gt() %>%
+  gt_theme_espn() %>%
+  gt_plt_winloss(outcomes, max_wins = 20,
+                 type = "pill") %>%
+  text_transform(
+    locations = cells_body(columns = logo_url),
+    fn = function(x) {
+      web_image(
+        url = x,
+        height = px(12)
+      )
+    }
+  ) %>%
+  cols_hide(columns = c(win_pct)) %>%
+  cols_align(
+    align = c("right"),
+    columns = c(win_pct_text, logo_url, outcomes)
+  ) %>%
+  cols_label(
+    logo_url = "",
+    team_label = "Team",
+    wins = "W",
+    losses = "L",
+    win_pct_text = "Pct",
+    outcomes = html("Last 20<br>Games")
+  ) %>%
+  # opt_table_font(font = c("verdana","calibri","menlo","consolas","monospace","helvetica", "arial", "sans-serif")) %>%
+  tab_options(
+    table.width = pct(100),
+    data_row.padding = px(4),
+    table.font.size = px(12)
+  )  %>%
+  opt_all_caps(all_caps = TRUE)
+nba_standings_table
+nba_standings_table_html <- as_raw_html(nba_standings_table, inline_css = FALSE)
+better_nba_standings_divs <- gsub("[#][a-z]{10}",
+                              "#nba_standings_table", 
+                              x = nba_standings_table_html)
+better_wild_card_standings_table_html <- gsub("[\"][a-z]{10}",
+                                              "\"nba_standings_table",
+                                              x = better_nba_standings_divs)
+
+
+
 
 # make web page ----
 now <- as_datetime(now())
@@ -385,6 +574,8 @@ permalink: /projects/basketball/
 ",now_html," 
 
 ![Team Rank]({{ site.baseurl }}/plots/nba_team_rank.png)
+
+",better_wild_card_standings_table_html," 
 
 ![Standings]({{ site.baseurl }}/plots/nba_standings.png)
 
