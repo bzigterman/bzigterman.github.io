@@ -7,10 +7,10 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:51 PM CT, Oct. 30 </p> 
+ <a href="https://www.nytimes.com/2021/10/30/world/biden-communion-rome-g20.html">Biden Receives Communion at Rome Church</a> NYT: Some conservative bishops in the United States have said the president should be denied communion because of his support for abortion rights. 
  <p class="updated_time"> 04:44 PM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/30/world/europe/g20-rome-protests.html">Protesters Set to Demonstrate Over G20 Summit in Rome</a> NYT: Several thousands protesters gathered in downtown Rome, representing a broad range of groups and causes: students and vaccine skeptics, labor union members and climate-change activists 
- <p class="updated_time"> 04:36 PM CT, Oct. 30 </p> 
- <a href="https://www.nytimes.com/2021/10/30/world/biden-communion-rome-g20.html">Biden Receives Communion at Rome Church</a> NYT: Some conservative bishops in the United States have said the president should be denied communion because of his support for abortion rights. 
  <p class="updated_time"> 04:16 PM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/30/world/europe/g20-summit-merkel-scholz.html">Merkel's Likely Successor to Join Her for G20 Summit Talks</a> NYT: Olaf Scholz, who would have attended the G20 summit as finance minister, will also join Angela Merkel for talks with world leaders. 
  <p class="updated_time"> 04:01 PM CT, Oct. 30 </p> 
@@ -45,6 +45,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/30/world/americas/g20-summit-rome-covid-protests-biden-draghi.html">Pressure Grows on G20 Nations to Get Covid Vaccines to the Poor</a> NYT: The world’s leaders are focusing on preventing future pandemics, but experts say rich nations are not doing enough to help the poor survive the current one. 
  <p class="updated_time"> 11:16 AM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/30/world/europe/g20-biden-corporate-tax-agreement.html">Biden Finds Raising Corporate Tax Rates Easier Abroad Than at Home</a> NYT: As the Group of 20 seals a new global minimum tax for companies, the president has scaled back his plans to tax U.S. corporations more. 
+ <p class="updated_time"> 11:01 AM CT, Oct. 30 </p> 
+ <a href="https://www.nytimes.com/2021/10/30/world/chinas-xi-and-other-world-leaders-are-not-at-the-summit.html">China’s Xi and other world leaders are not at the summit.</a> NYT: NA 
  <p class="updated_time"> 10:51 AM CT, Oct. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59102411?at_medium=RSS&at_campaign=KARANGA">'I feel free' - LGBT Afghan refugees arrive in UK</a> BBC: The BBC speaks to one of 29 LGBT refugees who fled the Taliban, fearing for their lives. 
  <p class="updated_time"> 10:21 AM CT, Oct. 30 </p> 
@@ -79,8 +81,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/30/world/europe/g20-summit-rome-security.html">Italy Deploys Vast Security in Anticipation of G20 Protests</a> NYT: In 2001, a Group of 8 summit in Genoa was met with protests that turned violent. 
  <p class="updated_time"> 02:39 AM CT, Oct. 30 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59101408?at_medium=RSS&at_campaign=KARANGA">The Rolling Stones: Robot dog 'Spot' shares Mick Jagger's moves</a> BBC: A unique robotic version of Start Me Up celebrates 40 years since the release of The Rolling Stones' Tattoo You album. 
- <p class="updated_time"> 11:59 PM CT, Oct. 29 </p> 
- <a href="https://www.nytimes.com/2021/10/28/world/europe/france-biden-macron-g20.html">France and the United States Seek an Elusive Reconciliation</a> NYT: The Biden administration is poised to offer the French some defense-related emollients after their falling out over a sabotaged submarine deal. But some damage may last. 
  <p class="updated_time"> 10:47 PM CT, Oct. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59100114?at_medium=RSS&at_campaign=KARANGA">Covid-19 origins may never be known, US intelligence agencies say</a> BBC: But US agencies say the virus, first identified in China, was not developed as a biological weapon. 
  <p class="updated_time"> 08:14 PM CT, Oct. 29 </p> 
@@ -186,6 +186,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:58 PM CT, Oct. 30 </p> 
+ <a href="https://www.nytimes.com/2021/10/30/movies/alec-baldwin-rust-shooting-timeline.html">How the Shooting on the Alec Baldwin Set Happened</a> NYT: A reconstruction of the events leading up to the fatal shooting of the cinematographer of “Rust,” the Alec Baldwin western, reveals a troubled production and a series of errors. 
  <p class="updated_time"> 01:58 PM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/30/us/politics/virginia-governors-election.html">What the Virginia Election Result Will Mean for Democrats and Republicans</a> NYT: Republicans hope to hit on a recipe for renewal, while Democrats worry that a loss could force them to defend seats in blue states next year. 
  <p class="updated_time"> 01:16 PM CT, Oct. 30 </p> 
@@ -196,8 +198,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/30/world/americas/g20-summit-rome-covid-protests-biden-draghi.html">Pressure Grows on G20 Nations to Get Covid Vaccines to the Poor</a> NYT: The world’s leaders are focusing on preventing future pandemics, but experts say rich nations are not doing enough to help the poor survive the current one. 
  <p class="updated_time"> 11:39 AM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/29/us/politics/richmond-virginia-elections.html">Why a Changing Richmond and Its Suburbs Are Key to Virginia’s Vote</a> NYT: The region has been an engine of Democratic victories, but now the party is on defense as Republicans go after swing voters with worries about schools. 
- <p class="updated_time"> 11:28 AM CT, Oct. 30 </p> 
- <a href="https://www.nytimes.com/2021/10/30/movies/alec-baldwin-rust-shooting-timeline.html">How the Shooting on the Alec Baldwin Set Happened</a> NYT: A reconstruction of the events leading up to the fatal shooting of the cinematographer of “Rust,” the Alec Baldwin western, reveals a troubled production and a series of errors. 
  <p class="updated_time"> 11:16 AM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/30/world/europe/g20-biden-corporate-tax-agreement.html">Biden Finds Raising Corporate Tax Rates Easier Abroad Than at Home</a> NYT: As the Group of 20 seals a new global minimum tax for companies, the president has scaled back his plans to tax U.S. corporations more. 
  <p class="updated_time"> 10:35 AM CT, Oct. 30 </p> 
