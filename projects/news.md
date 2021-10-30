@@ -33,6 +33,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/30/world/africa/sudan-protests-coup.html">As Sudan Prepares for Protests, U.S. Warns Generals Against Violence</a> NYT: Activists called for a “march of millions” on Saturday, days after the military seized power. American officials said peaceful demonstrations must be permitted. 
  <p class="updated_time"> 02:39 AM CT, Oct. 30 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59101408?at_medium=RSS&at_campaign=KARANGA">The Rolling Stones: Robot dog 'Spot' shares Mick Jagger's moves</a> BBC: A unique robotic version of Start Me Up celebrates 40 years since the release of The Rolling Stones' Tattoo You album. 
+ <p class="updated_time"> 12:30 AM CT, Oct. 30 </p> 
+ <a href="https://www.wsj.com/articles/g-20-leaders-begin-rome-summit-amid-big-differences-on-climate-change-11635586202">G-20 Summit Begins Amid Big Differences on Climate Change</a> WSJ: President Biden and other leaders of the Group of 20 major economies began their two-day summit in Rome, seeking to find consensus on climate change, security and the global economy. 
  <p class="updated_time"> 12:13 AM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/29/world/nyc-vaccine-mandate-resistance.html">Tensions Rise with Next Phase of NYCs Vaccine Mandate</a> NYT: Last-minute shots brought thousands more workers in the Police, Fire and Sanitation Departments into compliance. 
  <p class="updated_time"> 11:59 PM CT, Oct. 29 </p> 
