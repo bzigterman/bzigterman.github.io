@@ -29,6 +29,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59090127?at_medium=RSS&at_campaign=KARANGA">The viral basketball star changing views on Muslim women in sport</a> BBC: Viral basketball sensation Jamad Fiin's videos have racked up millions of views online. 
  <p class="updated_time"> 06:03 PM CT, Oct. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59076452?at_medium=RSS&at_campaign=KARANGA">COP26: African climate activists' message to world leaders</a> BBC: Young climate activists from Africa share their message to world leaders at COP26. 
+ <p class="updated_time"> 06:03 PM CT, Oct. 29 </p> 
+ <a href="https://www.wsj.com/articles/u-s-takes-aim-at-irans-drone-program-seeing-risk-to-mideast-stability-11635517853">U.S. Takes Aim at Iran's Drone Program</a> WSJ: The Biden administration levied sanctions against several Iranian companies and executives that it tied to Tehran’s drone program as U.S. security and military officials grow increasingly concerned about it. 
  <p class="updated_time"> 06:01 PM CT, Oct. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59098425?at_medium=RSS&at_campaign=KARANGA">La Palma: Living with lava</a> BBC: Residents on the Spanish island share how Cumbre Vieja's eruption has changed their lives. 
  <p class="updated_time"> 05:11 PM CT, Oct. 29 </p> 
@@ -101,8 +103,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/biden-pope-francis-meet-amid-controversy-over-abortion-11635502337">Biden Says Pope Told Him He Is a Good Catholic</a> WSJ: President Biden said the pope told him to continue receiving Communion despite criticism from U.S. bishops over the president’s stance on abortion. 
  <p class="updated_time"> 07:27 AM CT, Oct. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-59090067?at_medium=RSS&at_campaign=KARANGA">Meta: Facebook's new name ridiculed by Hebrew speakers</a> BBC: The social media giant joins a number of companies that have fallen foul of translation blunders. 
- <p class="updated_time"> 07:25 AM CT, Oct. 29 </p> 
- <a href="https://www.wsj.com/articles/u-s-takes-aim-at-irans-drone-program-seeing-risk-to-mideast-stability-11635517853">U.S. Takes Aim at Iran's Drone Program</a> WSJ: The Biden administration levied sanctions against several Iranian companies and executives that it tied to Tehran’s drone program as U.S. security and military officials grow increasingly concerned about it. 
  <p class="updated_time"> 07:17 AM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/world/europe/cop26-pope-francis-climate.html">Pope Francis Urges 'Radical' Action at COP26 Climate Summit</a> NYT: Only urgent action can “offer concrete hope to future generations,” the pope said in a reflection broadcast on BBC radio. 
  <p class="updated_time"> 07:13 AM CT, Oct. 29 </p> 
@@ -208,6 +208,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:03 PM CT, Oct. 29 </p> 
+ <a href="https://www.nytimes.com/2021/10/29/us/politics/coronavirus-origin-intelligence-report.html">Origin of Virus May Remain Murky, U.S. Intelligence Agencies Say</a> NYT: A declassified report said a clearer answer would require more information from Beijing or new discoveries and reiterated divisions over natural causes vs. a lab leak. 
  <p class="updated_time"> 08:54 PM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/upshot/democrats-preschool-child-care.html">What the Democrats’ Plan Would Do for Parents</a> NYT: Paid family leave was dropped. Public pre-K and subsidized child care remain, and could substantially lower the cost of raising children. 
  <p class="updated_time"> 08:18 PM CT, Oct. 29 </p> 
@@ -222,8 +224,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/29/us/politics/a-global-tax-deal-is-at-hand-heres-how-it-would-work.html">A Global Tax Deal Is at Hand. Here’s How It Would Work.</a> NYT: President Biden will sign on to an international pact aimed at ending profit-shifting by large companies. Here’s a look at what it means. 
  <p class="updated_time"> 05:46 PM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/us/politics/office-access-justice-legal-aid.html">Garland Revives Effort to Expand Access to Legal Aid</a> NYT: The attorney general acted to reverse a Trump administration decision to cut off funding for the Office for Access to Justice, an Obama-era program to give poor defendants legal representation. 
- <p class="updated_time"> 05:30 PM CT, Oct. 29 </p> 
- <a href="https://www.nytimes.com/2021/10/29/us/politics/coronavirus-origin-intelligence-report.html">Origin of Virus May Remain Murky, U.S. Intelligence Agencies Say</a> NYT: A declassified report said a clearer answer would require more information from Beijing or new discoveries and reiterated divisions over natural causes vs. a lab leak. 
  <p class="updated_time"> 05:30 PM CT, Oct. 29 </p> 
  <a href="https://www.politico.com/news/2021/10/29/you-have-a-manchin-problem-paid-leave-tossed-aside-despite-wooing-of-wva-senator-517731">Manchin upends paid leave, a benefit ‘personal to the president’</a> Politico: "We kept hearing, 'You have a Manchin problem,'" Molly Day, executive director of Paid Leave for the U.S., said. "So we kept digging in." 
  <p class="updated_time"> 04:49 PM CT, Oct. 29 </p> 
