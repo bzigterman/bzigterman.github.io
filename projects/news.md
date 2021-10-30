@@ -7,7 +7,11 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:26 AM CT, Oct. 30 </p> 
+ <p class="updated_time"> 06:34 AM CT, Oct. 30 </p> 
+ <a href="https://www.nytimes.com/2021/10/30/world/europe/g20-summit-covid-vaccines.html">Pressure Grows on G20 Nations to Get Covid Vaccines to Poorer Countries</a> NYT: Talk at the summit is focused on preventing future pandemics. Critics say the current one must be addressed first. 
+ <p class="updated_time"> 06:33 AM CT, Oct. 30 </p> 
+ <a href="https://www.nytimes.com/2021/10/29/world/asia/pope-francis-modi-india.html">Pope Francis to Meet India's Narendra Modi for the First Time</a> NYT: The meeting comes amid increasing attacks on Christians in the South Asian nation, which is home to one of Asia’s oldest Christian populations. 
+ <p class="updated_time"> 06:30 AM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/30/world/europe/g20-biden-corporate-tax-agreement.html">Biden Finds Raising Corporate Tax Rates Easier Abroad Than at Home</a> NYT: As the Group of 20 seals a new global minimum tax for companies, the president has scaled back his plans to tax U.S. corporations more. 
  <p class="updated_time"> 06:02 AM CT, Oct. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-59101218?at_medium=RSS&at_campaign=KARANGA">G20: Climate and Covid top agenda as world leaders meet</a> BBC: The G20 leaders are holding their first face-to-face meeting since the start of the pandemic. 
@@ -33,6 +37,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/30/world/africa/sudan-protests-coup.html">As Sudan Prepares for Protests, U.S. Warns Generals Against Violence</a> NYT: Activists called for a “march of millions” on Saturday, days after the military seized power. American officials said peaceful demonstrations must be permitted. 
  <p class="updated_time"> 02:39 AM CT, Oct. 30 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59101408?at_medium=RSS&at_campaign=KARANGA">The Rolling Stones: Robot dog 'Spot' shares Mick Jagger's moves</a> BBC: A unique robotic version of Start Me Up celebrates 40 years since the release of The Rolling Stones' Tattoo You album. 
+ <p class="updated_time"> 02:32 AM CT, Oct. 30 </p> 
+ <a href="https://www.wsj.com/articles/queen-elizabeth-calls-off-official-visits-for-two-weeks-on-medical-advice-11635532785">Queen Elizabeth Calls Off Official Visits for Two Weeks on Medical Advice</a> WSJ: The 95-year-old monarch already had pulled out from the United Nations climate-change summit in Scotland next week on medical advice. 
  <p class="updated_time"> 12:30 AM CT, Oct. 30 </p> 
  <a href="https://www.wsj.com/articles/g-20-leaders-begin-rome-summit-amid-big-differences-on-climate-change-11635586202">G-20 Summit Begins Amid Big Differences on Climate Change</a> WSJ: President Biden and other leaders of the Group of 20 major economies began their two-day summit in Rome, seeking to find consensus on climate change, security and the global economy. 
  <p class="updated_time"> 12:13 AM CT, Oct. 30 </p> 
@@ -117,12 +123,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/29/world/europe/spanish-writer-carmen-mola-true-identity.html">Behind a Top Female Name in Spanish Crime Fiction: Three Men</a> NYT: Carmen Mola, a novelist publishing under a pen name, seemed to shatter a glass ceiling in the world of Spanish books. But when the author’s true identity was revealed while claiming a big prize, it was a shock. 
  <p class="updated_time"> 09:46 AM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/climate/europe-energy-crisis-cop.html">How Rising Energy Prices Have Complicated Europe's Climate Crisis</a> NYT: Prices for power have soared, and some politicians are now trying to use that as a lever to slow action on climate change, a strategy with far-reaching consequences. 
- <p class="updated_time"> 09:39 AM CT, Oct. 29 </p> 
- <a href="https://www.wsj.com/articles/queen-elizabeth-calls-off-official-visits-for-two-weeks-on-medical-advice-11635532785">Queen Elizabeth Calls Off Official Visits for Two Weeks on Medical Advice</a> WSJ: The 95-year-old monarch already had pulled out from the United Nations climate-change summit in Scotland next week on medical advice. 
  <p class="updated_time"> 09:34 AM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/us/hurricane-storm-season.html">Is Hurricane Season Still Going? You Bet.</a> NYT: There hasn’t been a named storm in the Atlantic Ocean since early October, but about a month remains in the hurricane season. “Don’t raid your hurricane supplies yet,” said one meteorologist. 
- <p class="updated_time"> 08:37 AM CT, Oct. 29 </p> 
- <a href="https://www.nytimes.com/2021/10/29/world/asia/pope-francis-modi-india.html">Pope Francis to Meet India's Narendra Modi for the First Time</a> NYT: The meeting comes amid increasing attacks on Christians in the South Asian nation, which is home to one of Asia’s oldest Christian populations. 
  <p class="updated_time"> 07:51 AM CT, Oct. 29 </p> 
  <a href="https://www.wsj.com/articles/biden-pope-francis-meet-amid-controversy-over-abortion-11635502337">Biden Says Pope Told Him He Is a Good Catholic</a> WSJ: President Biden said the pope told him to continue receiving Communion despite criticism from U.S. bishops over the president’s stance on abortion. 
  <p class="updated_time"> 07:17 AM CT, Oct. 29 </p> 
