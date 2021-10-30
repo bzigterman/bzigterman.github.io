@@ -521,6 +521,9 @@ nba_standings_table <- nba_standings %>%
       )
     }
   ) %>%
+  row_group_order(
+    groups = c("Western", "Eastern")
+  ) %>%
   cols_hide(columns = c(win_pct)) %>%
   cols_align(
     align = c("right"),
