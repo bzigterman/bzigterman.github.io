@@ -206,20 +206,23 @@ western_standings <- nba_standings %>%
   filter(conference == "Western") %>%
   arrange(desc(win_pct)) %>%
   select(team_label, win_pct, win_pct_text)
-eastern_playoffs_rect <- (if_else(
-  slice(eastern_standings, n = 5)[2] == slice(eastern_standings, n = 6)[2],
-  9.5,
-  10.5))[1]
 western_playoffs_rect <- (if_else(
   slice(western_standings, n = 5)[2] == slice(western_standings, n = 6)[2],
+  9.5,
+  10.5))[1]
+eastern_playoffs_rect <- (if_else(
+  slice(eastern_standings, n = 5)[2] == slice(eastern_standings, n = 6)[2],
   6.5,
   5.5))[1]
 
 western_plot <- ggplot(western_standings, aes(x = reorder(team_label, win_pct), 
                                           y = win_pct)) +
-  # geom_rect(xmin = al_playoffs_rect, xmax = Inf,
-  #           ymin = -Inf, ymax = Inf,
-  #           fill = "grey85") +
+  geom_rect(xmin = 9.5, xmax = Inf,
+            ymin = nba_min, ymax = Inf,
+            fill = "grey85") +
+  geom_rect(xmin = 5.5, xmax = 9.5,
+            ymin = nba_min, ymax = Inf,
+            fill = "grey95") +
   geom_hline(yintercept = 0.5,
              color = "grey50",
              size = .2) +
@@ -259,6 +262,12 @@ western_plot
 
 eastern_plot <- ggplot(eastern_standings, aes(x = reorder(team_label, -win_pct), 
                                           y = win_pct)) +
+  geom_rect(xmin = -Inf, xmax = 6.5,
+            ymin = nba_min, ymax = Inf,
+            fill = "grey85") +
+  geom_rect(xmin = 6.5, xmax = 10.5,
+            ymin = nba_min, ymax = Inf,
+            fill = "grey95") +
   # geom_rect(xmin = -Inf, xmax = nl_playoffs_rect,
   #           ymin = -Inf, ymax = Inf,
   #           fill = "grey85") +
