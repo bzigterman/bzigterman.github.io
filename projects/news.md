@@ -32,7 +32,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:01 PM CT, Oct. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59098425?at_medium=RSS&at_campaign=KARANGA">La Palma: Living with lava</a> BBC: Residents on the Spanish island share how Cumbre Vieja's eruption has changed their lives. 
  <p class="updated_time"> 05:11 PM CT, Oct. 29 </p> 
- <a href="https://www.nytimes.com/2021/10/29/world/canada/dune-denis-villeneuve-canadians.html">The Canadians Behind ‘Dune’</a> NYT: A science fiction opus was heavily guided by Canadian talent, starting with the director, Denis Villeneuve, who lives in Montreal. 
+ <a href="https://www.nytimes.com/2021/10/29/world/canada/dune-movie.html">‘Dune’ May Be Set in a Distant Time and Place, but the Film Has Canadian Roots</a> NYT: A science fiction opus was heavily guided by Canadian talent, starting with the director, Denis Villeneuve, who lives in Montreal. 
  <p class="updated_time"> 04:48 PM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/world/europe/biden-macron-submarine-deal.html">Biden Calls Handling of Australia Deal That Angered France 'Clumsy'</a> NYT: “I had been under the impression long before that France had been informed,” President Biden said. 
  <p class="updated_time"> 04:37 PM CT, Oct. 29 </p> 
