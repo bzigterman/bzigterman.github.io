@@ -7,20 +7,20 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:15 PM CT, Oct. 30 </p> 
+ <a href="https://www.nytimes.com/2021/10/30/world/americas/nyc-police-fire-vaccine-mandate.html">More New York City workers get Covid shots as deadline nears, but tensions remain.</a> NYT: The city’s effort to compel most city employees to receive the coronavirus vaccine before Monday appears to have rapidly boosted inoculation rates. 
+ <p class="updated_time"> 03:11 PM CT, Oct. 30 </p> 
+ <a href="https://www.nytimes.com/2021/10/30/world/africa/sudan-protests-coup.html">Protesters Killed in Sudan on Day Seen as a Test for the Military</a> NYT: Three demonstrators were fatally shot, a doctors’ group said, as crowds answered activists’ call for a “march of millions” against a coup that has threatened the country’s democratic transition. 
  <p class="updated_time"> 02:41 PM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/30/world/what-is-the-g20.html">What Is the G20?</a> NYT: The Group of 20 aims to unite world leaders around shared economic, political and health challenges. It also serves as an all-purpose jamboree of diplomatic activity. 
  <p class="updated_time"> 02:30 PM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/30/world/g20-photos.html">Photos From the G20 Summit in Rome</a> NYT: Colorful protests outside the G20 meetings, and in them, exchanges between world leaders. 
  <p class="updated_time"> 02:01 PM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/30/world/europe/g20-summit-covid-vaccines.html">Pressure Grows on G20 Nations to Get Covid Vaccines to Poorer Countries</a> NYT: Talk at the summit is focused on preventing future pandemics. Critics say the current one must be addressed first. 
- <p class="updated_time"> 01:59 PM CT, Oct. 30 </p> 
- <a href="https://www.nytimes.com/2021/10/30/world/africa/sudan-protests-coup.html">Protesters Killed in Sudan on Day Seen as a Test for the Military</a> NYT: Three demonstrators were fatally shot, a doctors’ group said, as crowds answered activists’ call for a “march of millions” against a coup that has threatened the country’s democratic transition. 
  <p class="updated_time"> 01:53 PM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/30/world/middleeast/lebanon-ambassadors-saudi-gulf.html">Gulf States Withdraw Ambassadors to Lebanon Over Criticism of Yemen War</a> NYT: With a few stray comments from a minor minister, Lebanon once again found itself caught in the rivalry between Saudi Arabia and Iran, underscoring just how vulnerable it is to the whims of its more powerful neighbors. 
  <p class="updated_time"> 01:42 PM CT, Oct. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59103901?at_medium=RSS&at_campaign=KARANGA">Sudan coup: Thousands take to streets in new protests</a> BBC: Three people are reportedly killed as crowds press for a return to a civilian-led government. 
- <p class="updated_time"> 01:39 PM CT, Oct. 30 </p> 
- <a href="https://www.nytimes.com/2021/10/30/world/americas/nyc-police-fire-vaccine-mandate.html">More New York City workers get Covid shots as deadline nears, but tensions remain.</a> NYT: The city’s effort to compel most city employees to receive the coronavirus vaccine before Monday appears to have rapidly boosted inoculation rates. 
  <p class="updated_time"> 01:27 PM CT, Oct. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59096578?at_medium=RSS&at_campaign=KARANGA">Saudi Arabia expels Lebanon ambassador amid Yemen row</a> BBC: The UAE, Kuwait and Bahrain also take diplomatic action in solidarity with the Saudis. 
  <p class="updated_time"> 12:43 PM CT, Oct. 30 </p> 
@@ -39,8 +39,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/30/world/europe/g20-biden-corporate-tax-agreement.html">Biden Finds Raising Corporate Tax Rates Easier Abroad Than at Home</a> NYT: As the Group of 20 seals a new global minimum tax for companies, the president has scaled back his plans to tax U.S. corporations more. 
  <p class="updated_time"> 10:55 AM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/30/world/europe/g20-rome-protests.html">Protesters Set to Demonstrate Over G20 Summit in Rome</a> NYT: Several thousands protesters gathered in downtown Rome, representing a broad range of groups and causes: students and vaccine skeptics, labor union members and climate-change activists 
+ <p class="updated_time"> 10:55 AM CT, Oct. 30 </p> 
+ <a href="https://www.wsj.com/articles/g-20-leaders-begin-rome-summit-amid-big-differences-on-climate-change-11635586202">At G-20 Summit, U.S. Agrees to Relax Tariffs on European Steel</a> WSJ: Biden and European leaders worked to defuse trade tensions at the gathering in Rome, where Western leaders also called on Iran to comply with a nuclear accord. 
  <p class="updated_time"> 10:51 AM CT, Oct. 30 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59102411?at_medium=RSS&at_campaign=KARANGA">'I feel free': LGBT Afghan refugees arrive in UK</a> BBC: The BBC speaks to one of 29 LGBT refugees who fled the Taliban, fearing for their lives. 
+ <a href="https://www.bbc.co.uk/news/world-asia-59102411?at_medium=RSS&at_campaign=KARANGA">'I feel free' - LGBT Afghan refugees arrive in UK</a> BBC: The BBC speaks to one of 29 LGBT refugees who fled the Taliban, fearing for their lives. 
  <p class="updated_time"> 10:21 AM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/30/world/africa/south-africa-elections-anc.html">A South African Town Lacks Water and Electricity. But Mayors? It Has Two.</a> NYT: Dysfunctional and collapsing rural towns may test voters’ loyalty to the ruling African National Congress party in nationwide municipal elections on Monday. 
  <p class="updated_time"> 09:52 AM CT, Oct. 30 </p> 
@@ -59,10 +61,10 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/science-environment-59054696?at_medium=RSS&at_campaign=KARANGA">COP26: What do the poorest countries want from climate summit?</a> BBC: Rich countries will get most of the attention, but developing countries are on climate change's front line. 
  <p class="updated_time"> 06:33 AM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/29/world/asia/pope-francis-modi-india.html">Pope Francis to Meet India's Narendra Modi for the First Time</a> NYT: The meeting comes amid increasing attacks on Christians in the South Asian nation, which is home to one of Asia’s oldest Christian populations. 
+ <p class="updated_time"> 06:00 AM CT, Oct. 30 </p> 
+ <a href="https://www.wsj.com/articles/ai-weiwei-traces-a-century-of-making-authorities-squirm-11635606000">Ai Weiwei Traces a Century of Making Authorities Squirm</a> WSJ: A new memoir by world-famous artist-provocateur Ai Weiwei, “1000 Years of Joys and Sorrows,” traces a century of his family’s ups and downs with authorities; it’s being published in more than 20 countries—though not China. 
  <p class="updated_time"> 05:16 AM CT, Oct. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59101592?at_medium=RSS&at_campaign=KARANGA">Ancient wooden Mayan canoe unearthed almost intact in Mexico</a> BBC: Archaeologists discovered the boat during construction work on a new tourist train network. 
- <p class="updated_time"> 05:08 AM CT, Oct. 30 </p> 
- <a href="https://www.wsj.com/articles/g-20-to-back-tax-overhaul-that-makes-rich-countries-big-winners-11635586202">G-20 Leaders Back Deal to Overhaul Corporate Tax</a> WSJ: Leaders of the world’s biggest economies endorsed a deal on corporate taxation this weekend from which the U.S. and other richer countries are set to benefit the most. 
  <p class="updated_time"> 04:30 AM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/30/world/europe/g20-summit-merkel-scholz.html">Merkel's Likely Successor to Join Her for G20 Summit Talks</a> NYT: Olaf Scholz, who would have attended the G20 summit as finance minister, will also join Angela Merkel for talks with world leaders. 
  <p class="updated_time"> 04:00 AM CT, Oct. 30 </p> 
