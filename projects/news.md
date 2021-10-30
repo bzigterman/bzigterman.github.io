@@ -29,12 +29,12 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/30/world/middleeast/g20-summit-iran-nuclear.html">G20 Agenda Includes Nuclear Impasse With Iran</a> NYT: Biden administration officials have suggested that time is running out to salvage the 2015 accord under which Iran sharply curtailed its nuclear activities. 
  <p class="updated_time"> 12:30 PM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/29/world/europe/biden-g20.html">Biden Eases Fray With France and Savors Meeting With Pope as Europe Trip Begins</a> NYT: Mr. Biden sought to mend ties with France’s president over a sabotaged French submarine contract, and expressed gratitude toward Pope Francis after a 90-minute meeting. 
+ <p class="updated_time"> 12:24 PM CT, Oct. 30 </p> 
+ <a href="https://www.wsj.com/articles/g-20-leaders-begin-rome-summit-amid-big-differences-on-climate-change-11635586202">At G-20 Summit, U.S. Agrees to Relax Tariffs on European Steel</a> WSJ: Biden and European leaders worked to defuse trade tensions at the gathering in Rome, where Western leaders also called on Iran to comply with a nuclear accord. 
  <p class="updated_time"> 12:10 PM CT, Oct. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59104781?at_medium=RSS&at_campaign=KARANGA">Igor Kirillov: TV man known as the face of the USSR dies at 89</a> BBC: Soviet TV's chief newsreader anchored major events in the country that collapsed in 1991. 
  <p class="updated_time"> 12:08 PM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/30/world/europe/russia-gas-pipeline-nordstream-putin.html">A Russian Pipeline Changes Direction, and Energy Politics Come to the Fore</a> NYT: Amid an energy crunch in Europe, one of Russia’s largest natural gas pipelines began pulling gas out of Western Europe back eastward, Russian news agencies reported. 
- <p class="updated_time"> 12:08 PM CT, Oct. 30 </p> 
- <a href="https://www.wsj.com/articles/g-20-leaders-begin-rome-summit-amid-big-differences-on-climate-change-11635586202">At G-20 Summit, U.S. Agrees to Relax Tariffs on European Steel</a> WSJ: Biden and European leaders worked to defuse trade tensions at the gathering in Rome, where Western leaders also called on Iran to comply with a nuclear accord. 
  <p class="updated_time"> 12:03 PM CT, Oct. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-59101218?at_medium=RSS&at_campaign=KARANGA">G20: World leaders agree to historic corporate tax deal</a> BBC: Leaders at the G20 in Rome endorse a proposal that sets a minimum tax rate of 15% on big businesses. 
  <p class="updated_time"> 11:40 AM CT, Oct. 30 </p> 
