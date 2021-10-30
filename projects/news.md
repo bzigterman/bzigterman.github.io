@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:59 PM CT, Oct. 30 </p> 
+ <a href="https://www.nytimes.com/2021/10/30/world/africa/sudan-protests-coup.html">Protesters Killed in Sudan on Day Seen as a Test for the Military</a> NYT: Three demonstrators were fatally shot, a doctors’ group said, as crowds answered activists’ call for a “march of millions” against a coup that has threatened the country’s democratic transition. 
+ <p class="updated_time"> 01:53 PM CT, Oct. 30 </p> 
+ <a href="https://www.nytimes.com/2021/10/30/world/middleeast/lebanon-ambassadors-saudi-gulf.html">Gulf States Withdraw Ambassadors to Lebanon Over Criticism of Yemen War</a> NYT: With a few stray comments from a minor minister, Lebanon once again found itself caught in the rivalry between Saudi Arabia and Iran, underscoring just how vulnerable it is to the whims of its more powerful neighbors. 
  <p class="updated_time"> 01:42 PM CT, Oct. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59103901?at_medium=RSS&at_campaign=KARANGA">Sudan coup: Thousands take to streets in new protests</a> BBC: Three people are reportedly killed as crowds press for a return to a civilian-led government. 
  <p class="updated_time"> 01:39 PM CT, Oct. 30 </p> 
@@ -15,8 +19,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-middle-east-59096578?at_medium=RSS&at_campaign=KARANGA">Saudi Arabia expels Lebanon ambassador amid Yemen row</a> BBC: The UAE, Kuwait and Bahrain also take diplomatic action in solidarity with the Saudis. 
  <p class="updated_time"> 12:43 PM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/30/world/middleeast/g20-summit-iran-nuclear.html">G20 Agenda Includes Nuclear Impasse With Iran</a> NYT: Biden administration officials have suggested that time is running out to salvage the 2015 accord under which Iran sharply curtailed its nuclear activities. 
- <p class="updated_time"> 12:38 PM CT, Oct. 30 </p> 
- <a href="https://www.nytimes.com/2021/10/30/world/africa/sudan-protests-coup.html">Protesters Killed in Sudan on Day Seen as a Test for the Military</a> NYT: Two demonstrators were fatally shot, a doctors’ group said, as crowds answered activists’ call for a “march of millions” against a coup that has threatened the country’s democratic transition. 
  <p class="updated_time"> 12:30 PM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/29/world/europe/biden-g20.html">Biden Eases Fray With France and Savors Meeting With Pope as Europe Trip Begins</a> NYT: Mr. Biden sought to mend ties with France’s president over a sabotaged French submarine contract, and expressed gratitude toward Pope Francis after a 90-minute meeting. 
  <p class="updated_time"> 12:10 PM CT, Oct. 30 </p> 
@@ -139,8 +141,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/29/us/hurricane-storm-season.html">Is Hurricane Season Still Going? You Bet.</a> NYT: There hasn’t been a named storm in the Atlantic Ocean since early October, but about a month remains in the hurricane season. “Don’t raid your hurricane supplies yet,” said one meteorologist. 
  <p class="updated_time"> 07:17 AM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/world/europe/cop26-pope-francis-climate.html">Pope Francis Urges 'Radical' Action at COP26 Climate Summit</a> NYT: Only urgent action can “offer concrete hope to future generations,” the pope said in a reflection broadcast on BBC radio. 
- <p class="updated_time"> 07:13 AM CT, Oct. 29 </p> 
- <a href="https://www.nytimes.com/2021/10/28/world/middleeast/saudi-investment-covid.html">Yasir al-Rumayyan Missing From Saudi Arabia's Investment Conference</a> NYT: The unexplained absence of Yasir al-Rumayyan, who oversees the kingdom’s sovereign wealth fund, has highlighted concerns about a lack of transparency. 
  <p class="updated_time"> 07:06 AM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/world/australia/nuclear-powered-submarines.html">Nuclear-Powered Submarines for Australia? Maybe Not So Fast.</a> NYT: Australia’s plan to build the submarines with U.S. and British help faces big hurdles. Supporters say they can be overcome. Critics say they may be too much. 
  <p class="updated_time"> 06:47 AM CT, Oct. 29 </p> 
@@ -188,12 +188,12 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 01:58 PM CT, Oct. 30 </p> 
+ <a href="https://www.nytimes.com/2021/10/30/us/politics/virginia-governors-election.html">Both Parties Await Election Result in Virginia, and What It Bodes for the Battles Ahead</a> NYT: Republicans hope to hit on a recipe for renewal, while Democrats worry that a loss could force them to defend seats in blue states next year. 
  <p class="updated_time"> 01:16 PM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/30/us/politics/eastman-pence-capitol-riot.html">John Eastman Blamed Pence for Violence at Jan. 6 Riot</a> NYT: John Eastman, the author of a memo that some in both parties liken to a blueprint for a coup, sent a hostile email to the vice president’s chief counsel as the mob attacked. 
  <p class="updated_time"> 12:30 PM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/29/world/europe/biden-g20.html">Biden Eases Fray With France and Savors Meeting With Pope as Europe Trip Begins</a> NYT: Mr. Biden sought to mend ties with France’s president over a sabotaged French submarine contract, and expressed gratitude toward Pope Francis after a 90-minute meeting. 
- <p class="updated_time"> 12:03 PM CT, Oct. 30 </p> 
- <a href="https://www.nytimes.com/2021/10/30/us/politics/virginia-governors-election.html">Both Parties Await Election Result in Virginia, and What It Bodes for the Battles Ahead</a> NYT: Republicans hope to hit on a recipe for renewal, while Democrats worry that a loss could force them to defend seats in blue states next year. 
  <p class="updated_time"> 11:40 AM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/30/world/americas/g20-summit-rome-covid-protests-biden-draghi.html">Pressure Grows on G20 Nations to Get Covid Vaccines to the Poor</a> NYT: The world’s leaders are focusing on preventing future pandemics, but experts say rich nations are not doing enough to help the poor survive the current one. 
  <p class="updated_time"> 11:39 AM CT, Oct. 30 </p> 
