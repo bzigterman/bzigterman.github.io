@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:50 AM CT, Oct. 30 </p> 
+ <a href="https://www.nytimes.com/2021/10/30/world/africa/sudan-protests-coup.html">On Key Day of Protest for Sudan, U.S. Warns Generals Against Violence</a> NYT: Demonstrations began across the country in response to calls for a “march of millions” against a return to military rule. American officials said peaceful protests must be permitted. 
  <p class="updated_time"> 06:43 AM CT, Oct. 30 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59054696?at_medium=RSS&at_campaign=KARANGA">COP26: What do the poorest countries want from climate summit?</a> BBC: Rich countries will get most of the attention, but developing countries are on climate change's front line. 
  <p class="updated_time"> 06:43 AM CT, Oct. 30 </p> 
@@ -35,8 +37,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/30/world/europe/g20-summit-rome-security.html">Italy Deploys Vast Security at G20 Summit to Avoid Repeat of Past Chaos</a> NYT: In 2001, a Group of 8 summit in Genoa was met with protests that turned violent. 
  <p class="updated_time"> 03:28 AM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/30/world/europe/g20-rome-protests.html">Protesters Set to Demonstrate Over G20 Summit in Rome</a> NYT: “There will be many of us,” one organizer said of a demonstration planned to coincide with the G20 gathering. 
- <p class="updated_time"> 03:08 AM CT, Oct. 30 </p> 
- <a href="https://www.nytimes.com/2021/10/30/world/africa/sudan-protests-coup.html">As Sudan Prepares for Protests, U.S. Warns Generals Against Violence</a> NYT: Activists called for a “march of millions” on Saturday, days after the military seized power. American officials said peaceful demonstrations must be permitted. 
  <p class="updated_time"> 02:39 AM CT, Oct. 30 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59101408?at_medium=RSS&at_campaign=KARANGA">The Rolling Stones: Robot dog 'Spot' shares Mick Jagger's moves</a> BBC: A unique robotic version of Start Me Up celebrates 40 years since the release of The Rolling Stones' Tattoo You album. 
  <p class="updated_time"> 02:32 AM CT, Oct. 30 </p> 
