@@ -7,12 +7,20 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:23 PM CT, Oct. 29 </p> 
+ <a href="https://www.nytimes.com/2021/10/29/world/vaccine-mandate-states-sue.html">10 Republican-led States Sue Over Biden's Vaccine Mandate</a> NYT: The lawsuit is being led by Missouri’s attorney general, Eric Schmitt, and the attorney general of Nebraska, Doug Peterson. 
+ <p class="updated_time"> 08:14 PM CT, Oct. 29 </p> 
+ <a href="https://www.nytimes.com/2021/10/29/world/africa/sudan-coup-general.html">‘They Lied.’ Inside the Frantic Days Leading to Sudan’s Coup</a> NYT: The American envoy, Jeffrey Feltman, was given assurances that seemed to head off a military takeover. Hours later, Lt. Gen. Abdel Fattah al-Burhan made his move. 
+ <p class="updated_time"> 08:10 PM CT, Oct. 29 </p> 
+ <a href="https://www.nytimes.com/2021/10/29/world/nyc-vaccine-mandate-resistance.html">Tensions Rise with Next Phase of NYCs Vaccine Mandate</a> NYT: Vaccinations also rose in the Police Department, but tensions were running high in the city and garbage was piling up on the streets. 
+ <p class="updated_time"> 07:25 PM CT, Oct. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/science-environment-59054696?at_medium=RSS&at_campaign=KARANGA">COP26: What do the poorest countries want from climate summit?</a> BBC: Rich countries will get most of the attention, but developing countries are on climate change's front line. 
+ <p class="updated_time"> 07:13 PM CT, Oct. 29 </p> 
+ <a href="https://www.nytimes.com/2021/10/29/world/europe/biden-eases-fray-with-france-and-savors-meeting-with-pope-as-europe-trip-begins.html">Biden Eases Fray with France and Savors Meeting with Pope as Europe Trip Begins</a> NYT: Mr. Biden sought to mend ties with France’s president over a sabotaged French submarine contract, and expressed gratitude toward Pope Francis after a 90-minute meeting. 
  <p class="updated_time"> 06:56 PM CT, Oct. 29 </p> 
  <a href="https://www.bbc.co.uk/news/newsbeat-58972808?at_medium=RSS&at_campaign=KARANGA">The 17-year-old making films fun for deaf children</a> BBC: Mariella, 17, made an app during lockdown that's helping some kids enjoy films for the first time. 
  <p class="updated_time"> 06:37 PM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/us/politics/a-global-tax-deal-is-at-hand-heres-how-it-would-work.html">A Global Tax Deal Is at Hand. Here’s How It Would Work.</a> NYT: President Biden will sign on to an international pact aimed at ending profit-shifting by large companies. Here’s a look at what it means. 
- <p class="updated_time"> 06:14 PM CT, Oct. 29 </p> 
- <a href="https://www.nytimes.com/2021/10/29/world/nyc-vaccine-mandate-resistance.html">Tensions Rise with Next Phase of NYCs Vaccine Mandate</a> NYT: Vaccinations in the Police Department rose by at least 5 percent over the last week, but to a lesser extent in the Fire and Sanitation Departments. 
  <p class="updated_time"> 06:12 PM CT, Oct. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59098305?at_medium=RSS&at_campaign=KARANGA">Canada challenges compensation order for indigenous children</a> BBC: The Trudeau government has been told to issue payouts because it underfunded First Nations services. 
  <p class="updated_time"> 06:04 PM CT, Oct. 29 </p> 
@@ -23,8 +31,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-59076452?at_medium=RSS&at_campaign=KARANGA">COP26: African climate activists' message to world leaders</a> BBC: Young climate activists from Africa share their message to world leaders at COP26. 
  <p class="updated_time"> 06:01 PM CT, Oct. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59098425?at_medium=RSS&at_campaign=KARANGA">La Palma: Living with lava</a> BBC: Residents on the Spanish island share how Cumbre Vieja's eruption has changed their lives. 
- <p class="updated_time"> 05:50 PM CT, Oct. 29 </p> 
- <a href="https://www.nytimes.com/2021/10/29/world/europe/biden-eases-fray-with-france-and-savors-meeting-with-pope-as-europe-trip-begins.html">Biden Eases Fray with France and Savors Meeting with Pope as Europe Trip Begins</a> NYT: Mr. Biden sought to mend ties with France’s president over a sabotaged French submarine contract, and expressed gratitude toward Pope Francis after a 90-minute meeting. 
  <p class="updated_time"> 05:11 PM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/world/canada/dune-denis-villeneuve-canadians.html">The Canadians Behind ‘Dune’</a> NYT: A science fiction opus was heavily guided by Canadian talent, starting with the director, Denis Villeneuve, who lives in Montreal. 
  <p class="updated_time"> 04:48 PM CT, Oct. 29 </p> 
@@ -34,13 +40,11 @@ permalink: /projects/news/
  <p class="updated_time"> 04:32 PM CT, Oct. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59096578?at_medium=RSS&at_campaign=KARANGA">Saudi Arabia expels Lebanon ambassador amid Yemen row</a> BBC: The kingdom is also recalling its envoy from Beirut over "insulting" remarks by a Lebanese minister. 
  <p class="updated_time"> 03:45 PM CT, Oct. 29 </p> 
- <a href="https://www.nytimes.com/2021/10/29/health/cdc-covid-vaccine-protection.html">Vaccination Offers More Protection Against Covid Than Previous Infection</a> NYT: The study of 7,000 people found that unvaccinated people who had Covid were five times as likely to get infected again as fully vaccinated people who never had the disease. 
+ <a href="https://www.nytimes.com/2021/10/29/health/vaccination-covid.html">CDC Study Suggests Vaccination Offers More Protection Against Covid Than Prior Infection</a> NYT: The study of 7,000 people found that unvaccinated people who had Covid were five times as likely to get infected again as fully vaccinated people who never had the disease. 
  <p class="updated_time"> 02:30 PM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/world/europe/uk-covid-travel-red-list.html">U.K. Drops Last 7 Countries From England's Covid 'Red List'</a> NYT: The easing of travel restrictions comes as another part of Britain warns that it may reintroduce some Covid rules. 
  <p class="updated_time"> 02:26 PM CT, Oct. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59094763?at_medium=RSS&at_campaign=KARANGA">Fetty Wap: US rapper charged with drug trafficking</a> BBC: The artist was arrested at a stadium in New York City before his concert. 
- <p class="updated_time"> 02:21 PM CT, Oct. 29 </p> 
- <a href="https://www.nytimes.com/2021/10/29/world/africa/sudan-coup-general.html">‘They Lied.’ Inside the Frantic Days Leading to Sudan’s Coup</a> NYT: The American envoy, Jeffrey Feltman, was given assurances that seemed to head off a military takeover. Hours later, Lt. Gen. Abdel Fattah al-Burhan made his move. 
  <p class="updated_time"> 02:17 PM CT, Oct. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59085806?at_medium=RSS&at_campaign=KARANGA">Biden: We were clumsy over France submarine row</a> BBC: The US president meets his French counterpart in the wake of a diplomatic row over a submarine deal. 
  <p class="updated_time"> 02:11 PM CT, Oct. 29 </p> 
@@ -55,8 +59,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/29/world/europe/a-dispute-between-the-uk-and-france-over-fishing-rights-simmers-as-the-g20-summit-approaches.html">A dispute between the U.K. and France over fishing rights simmers as the G20 summit begins.</a> NYT: The matter is expected to be a topic of discussion for the nations’ leaders this weekend. 
  <p class="updated_time"> 01:41 PM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/world/asia/tonga-first-covid-case.html">Tonga Reports First Covid Case, Nearly 2 Years Into Pandemic</a> NYT: The Pacific island, 1,100 miles from New Zealand, has quarantined all airport employees on duty after a flight with an infected passenger arrived. 
- <p class="updated_time"> 01:11 PM CT, Oct. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-59039919?at_medium=RSS&at_campaign=KARANGA">Palestinian groups branded terrorists by Israel say they are being silenced</a> BBC: Six human rights groups outlawed by Israel say they are being silenced and want the ban removed. 
  <p class="updated_time"> 12:46 PM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/world/bidens-meeting-with-pope-francis-is-a-diplomatic-visit-tinged-with-the-personal.html">The president’s meeting with Pope Francis was a diplomatic visit tinged with the personal.</a> NYT: NA 
  <p class="updated_time"> 12:05 PM CT, Oct. 29 </p> 
@@ -144,8 +146,6 @@ permalink: /projects/news/
  <p class="updated_time"> 07:26 PM CT, Oct. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59080871?at_medium=RSS&at_campaign=KARANGA">The Taliban’s secretive war against IS</a> BBC: Jalalabad is the frontline in murky and bloody battle between two groups, and the death toll is rising. 
  <p class="updated_time"> 07:25 PM CT, Oct. 28 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-58992093?at_medium=RSS&at_campaign=KARANGA">Europe's floods: Lessons from German tragedy</a> BBC: Recriminations have followed the July floods and the alleged failure to alert residents. 
- <p class="updated_time"> 07:25 PM CT, Oct. 28 </p> 
  <a href="https://www.bbc.co.uk/news/59048827?at_medium=RSS&at_campaign=KARANGA">Ethiopia food crisis: Why does PM have a problem with wheat aid?</a> BBC: Ethiopia has been increasing its wheat production, but this is yet to catch up with growing wheat demand. 
  <p class="updated_time"> 07:24 PM CT, Oct. 28 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59075044?at_medium=RSS&at_campaign=KARANGA">Mikheil Saakashvili: Hunger-striking ex-leader rattles Georgia from jail</a> BBC: Mikheil Saakashvili was president, but is now in prison as the government tries to silence him. 
@@ -157,6 +157,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59073986?at_medium=RSS&at_campaign=KARANGA">Japan election: How the elderly keep the ruling party in power</a> BBC: As Sunday's polls approach, we look at why it is so difficult to defeat the ruling party. 
  <p class="updated_time"> 06:01 PM CT, Oct. 28 </p> 
  <a href="https://www.bbc.co.uk/sport/cycling/59063160?at_medium=RSS&at_campaign=KARANGA">Marshall 'Major' Taylor: The first black American world champion & his fight to the top</a> BBC: Marshall 'Major' Taylor was the first black American to become a world champion, in 1899. This is his largely forgotten story. 
+ <p class="updated_time"> 04:52 PM CT, Oct. 28 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59085804?at_medium=RSS&at_campaign=KARANGA">The moment Facebook became Meta</a> BBC: Meta, the rebranded Facebook, made its debut at the company’s headquarters with a new sign today. 
  <p class="updated_time"> 04:25 PM CT, Oct. 28 </p> 
  <a href="https://www.nytimes.com/2021/10/28/world/meatpacking-workers-covid-cases-deaths.html">Covid Hit U.S. Meat Plants Far Harder Than Thought, Report Says</a> NYT: The industry had three times as many Covid infections in the pandemic’s early months as previously believed, a select committee says. 
  <p class="updated_time"> 02:27 PM CT, Oct. 28 </p> 
@@ -187,14 +189,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/27/business/bj-novak-photo-public-domain-products.html">B.J. Novak’s Face Is on Products Worldwide. He’s Not Sure Why.</a> NYT: An image of the actor appears on an eclectic mix of products from China to Uruguay. “I am too amused to do anything about it,” he said on Instagram. 
  <p class="updated_time"> 04:41 PM CT, Oct. 27 </p> 
  <a href="https://www.nytimes.com/2021/10/27/world/canada/pope-indigenous-apology.html">Pope Expresses ‘Willingness’ to Visit Canada for Indigenous Reconciliation</a> NYT: A National Truth and Reconciliation Commission has called for a papal apology for abuses at church-run schools for Indigenous children. 
- <p class="updated_time"> 02:15 PM CT, Oct. 27 </p> 
- <a href="https://www.nytimes.com/2021/10/27/world/united-nations-coronavirus.html">U.N. Group Blames Unequal Vaccine Access for Bigger Global Economic Gap</a> NYT: Wealthier countries with high vaccination rates have had speedier economic recoveries than poorer countries with low vaccination rates, the International Labor Organization said. 
  <p class="updated_time"> 01:40 PM CT, Oct. 27 </p> 
  <a href="https://www.nytimes.com/2021/10/27/world/middleeast/iran-nuclear-talks.html">Iran Will Rejoin Nuclear Talks, Top Negotiator Says</a> NYT: Negotiations on reviving the 2015 nuclear accord are to resume in November, but it is unclear if the United States will take part in them. 
  <p class="updated_time"> 12:54 PM CT, Oct. 27 </p> 
  <a href="https://www.nytimes.com/2021/10/27/world/europe/viktor-bryukhanov-dead.html">Viktor Bryukhanov, Blamed for the Chernobyl Disaster, Dies at 85</a> NYT: In charge of the plant in Ukraine, he was held responsible for the world’s worst nuclear-power disaster and imprisoned. 
- <p class="updated_time"> 12:09 PM CT, Oct. 27 </p> 
- <a href="https://www.nytimes.com/2021/10/27/arts/design/petrit-halilaj-tate-kosovo-war.html">Wonders, and Horrors, Drawn From Boyhood in a War Zone</a> NYT: Petrit Halilaj became one of Kosovo’s most acclaimed artists with work that reflects on his country’s past. Now, he’s getting personal. 
  <p class="updated_time"> 07:12 PM CT, Oct. 25 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-58171814?at_medium=RSS&at_campaign=KARANGA">Climate change: Four things you can do about your carbon footprint</a> BBC: Small changes to our lifestyles and choices could limit our personal carbon footprint. 
  <p class="updated_time"> 11:10 AM CT, Oct. 25 </p> 
@@ -206,22 +204,22 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:18 PM CT, Oct. 29 </p> 
+ <a href="https://www.nytimes.com/2021/10/29/us/politics/covid-vaccine-children.html">FDA Clears Pfizer Coronavirus Vaccine for Young Children</a> NYT: The shot could bring relief to parents anxious about their children getting sick, though some experts worry that those most at risk may slip through the cracks. 
+ <p class="updated_time"> 08:01 PM CT, Oct. 29 </p> 
+ <a href="https://www.nytimes.com/2021/10/29/arts/in-this-house-yard-signs.html">‘In This House’ Yard Signs, and Their Curious Power</a> NYT: How a lawn sign inspired by mom décor became a liberal mantra — and a symbol of a political battle over white womanhood. 
+ <p class="updated_time"> 07:52 PM CT, Oct. 29 </p> 
+ <a href="https://www.nytimes.com/2021/10/29/us/politics/immigration-green-cards-visas.html">Democrats’ Plan to Overhaul Legal Immigration Focuses on Green Card Backlog</a> NYT: A proposal in President Biden’s social spending bill would make hundreds of thousands of unused green cards available for immigrants. But it faces an uncertain future under Senate rules. 
  <p class="updated_time"> 07:13 PM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/world/europe/biden-eases-fray-with-france-and-savors-meeting-with-pope-as-europe-trip-begins.html">Biden Eases Fray with France and Savors Meeting with Pope as Europe Trip Begins</a> NYT: Mr. Biden sought to mend ties with France’s president over a sabotaged French submarine contract, and expressed gratitude toward Pope Francis after a 90-minute meeting. 
- <p class="updated_time"> 06:48 PM CT, Oct. 29 </p> 
- <a href="https://www.nytimes.com/2021/10/29/us/politics/immigration-green-cards-visas-democrats.html">Green Card Backlog Focus of Democrats' Latest Immigration Effort</a> NYT: A proposal in President Biden’s social spending bill would make hundreds of thousands of unused green cards available for immigrants. But it faces an uncertain future under Senate rules. 
  <p class="updated_time"> 06:37 PM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/us/politics/a-global-tax-deal-is-at-hand-heres-how-it-would-work.html">A Global Tax Deal Is at Hand. Here’s How It Would Work.</a> NYT: President Biden will sign on to an international pact aimed at ending profit-shifting by large companies. Here’s a look at what it means. 
- <p class="updated_time"> 05:46 PM CT, Oct. 29 </p> 
- <a href="https://www.nytimes.com/2021/10/29/arts/in-this-house-yard-signs.html">‘In This House’ Yard Signs, and Their Curious Power</a> NYT: How a lawn sign inspired by mom décor became a liberal mantra — and a symbol of a political battle over white womanhood. 
  <p class="updated_time"> 05:46 PM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/us/politics/office-access-justice-legal-aid.html">Garland Revives Effort to Expand Access to Legal Aid</a> NYT: The attorney general acted to reverse a Trump administration decision to cut off funding for the Office for Access to Justice, an Obama-era program to give poor defendants legal representation. 
  <p class="updated_time"> 05:30 PM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/us/politics/coronavirus-origin-intelligence-report.html">Origin of Virus May Remain Murky, U.S. Intelligence Agencies Say</a> NYT: A declassified report said a clearer answer would require more information from Beijing or new discoveries and reiterated divisions over natural causes vs. a lab leak. 
  <p class="updated_time"> 05:30 PM CT, Oct. 29 </p> 
  <a href="https://www.politico.com/news/2021/10/29/you-have-a-manchin-problem-paid-leave-tossed-aside-despite-wooing-of-wva-senator-517731">Manchin upends paid leave, a benefit ‘personal to the president’</a> Politico: "We kept hearing, 'You have a Manchin problem,'" Molly Day, executive director of Paid Leave for the U.S., said. "So we kept digging in." 
- <p class="updated_time"> 05:02 PM CT, Oct. 29 </p> 
- <a href="https://www.nytimes.com/2021/10/29/us/politics/covid-vaccine-children.html">FDA Clears Pfizer Coronavirus Vaccine for Young Children</a> NYT: The shot could bring relief to parents anxious about their children getting sick, though some experts worry that those most at risk may slip through the cracks. 
  <p class="updated_time"> 04:49 PM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/business/trump-spac-digital-world.html">Trump’s $300 Million SPAC Deal May Have Skirted Securities Laws</a> NYT: The former president began discussing a deal with a ‘blank check’ company early this year. Investors weren’t told. 
  <p class="updated_time"> 04:47 PM CT, Oct. 29 </p> 
@@ -230,8 +228,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/28/us/politics/guantanamo-detainee-torture.html">For First Time in Public, a Detainee Describes Torture at C.I.A. Black Sites</a> NYT: In a sentencing hearing, Majid Khan, a Pakistani who lived in suburban Baltimore before joining Al Qaeda, detailed dungeonlike conditions and episodes of abuse. 
  <p class="updated_time"> 04:24 PM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/business/economy/september-pce-inflation.html">Inflation Remains High, the Fed's Favored Inflation Index Shows</a> NYT: The Federal Reserve is closely watching inflation, and the numbers have been sharply elevated in recent months. 
- <p class="updated_time"> 04:08 PM CT, Oct. 29 </p> 
- <a href="https://www.nytimes.com/2021/10/28/us/politics/trump-family-separation-border.html">Families Separated at Border Under Trump Policy May Each Receive Up to $450,000</a> NYT: After the Trump administration separated migrant parents from children at the southern border, President Biden pledged to make it up to the families. 
  <p class="updated_time"> 03:27 PM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/us/politics/immigration-remain-mexico.html">Another Attempt to End 'Remain in Mexico' Immigration Policy</a> NYT: A court ordered the administration in August to reinstate the program, which forces some migrants to wait in Mexico while their asylum cases are pending. 
  <p class="updated_time"> 03:19 PM CT, Oct. 29 </p> 
