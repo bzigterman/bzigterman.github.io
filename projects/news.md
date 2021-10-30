@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:42 AM CT, Oct. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59101584?at_medium=RSS&at_campaign=KARANGA">Tonga records first coronavirus case since start of pandemic</a> BBC: The island nation was one of the last countries in the world not to have reported any infections. 
  <p class="updated_time"> 04:30 AM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/30/world/europe/g20-summit-merkel-scholz.html">Merkel's Likely Successor to Join Her for G20 Summit Talks</a> NYT: Olaf Scholz, who would have attended the G20 summit as finance minister, will also join Angela Merkel for talks with world leaders. 
  <p class="updated_time"> 04:19 AM CT, Oct. 30 </p> 
@@ -23,8 +25,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-59101218?at_medium=RSS&at_campaign=KARANGA">G20: Climate and Covid top agenda as world leaders meet</a> BBC: The G20 leaders are holding their first face-to-face meeting since the start of the pandemic. 
  <p class="updated_time"> 03:28 AM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/30/world/europe/g20-rome-protests.html">Protesters Set to Demonstrate Over G20 Summit in Rome</a> NYT: “There will be many of us,” one organizer said of a demonstration planned to coincide with the G20 gathering. 
- <p class="updated_time"> 03:12 AM CT, Oct. 30 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59101584?at_medium=RSS&at_campaign=KARANGA">Tonga records first coronavirus case since start of pandemic</a> BBC: The island nation was one of the last countries in the world not to have reported any infections. 
  <p class="updated_time"> 03:08 AM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/30/world/africa/sudan-protests-coup.html">As Sudan Prepares for Protests, U.S. Warns Generals Against Violence</a> NYT: Activists called for a “march of millions” on Saturday, days after the military seized power. American officials said peaceful demonstrations must be permitted. 
  <p class="updated_time"> 02:39 AM CT, Oct. 30 </p> 
