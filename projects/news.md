@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:38 AM CT, Oct. 31 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59110828?at_medium=RSS&at_campaign=KARANGA">Japan election: Ruling LDP set for reduced majority - polls</a> BBC: Polls predict new Prime Minister Fumio Kishida's party will have a reduced majority in the lower house. 
  <p class="updated_time"> 07:23 AM CT, Oct. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59103659?at_medium=RSS&at_campaign=KARANGA">Man dies during bull-running event in Spanish city of Onda</a> BBC: Authorities said the man suffered a head wound and had an artery punctured in his thigh by the bull. 
  <p class="updated_time"> 06:51 AM CT, Oct. 31 </p> 
@@ -97,8 +99,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/29/world/nyc-vaccine-mandate-resistance.html">Tensions Rise with Next Phase of NYCs Vaccine Mandate</a> NYT: Last-minute shots brought thousands more workers in the Police, Fire and Sanitation Departments into compliance. 
  <p class="updated_time"> 06:00 AM CT, Oct. 30 </p> 
  <a href="https://www.wsj.com/articles/ai-weiwei-traces-a-century-of-making-authorities-squirm-11635606000">Ai Weiwei Traces a Century of Making Authorities Squirm</a> WSJ: A new memoir by world-famous artist-provocateur Ai Weiwei, “1000 Years of Joys and Sorrows,” traces a century of his family’s ups and downs with authorities; it’s being published in more than 20 countries—though not China. 
- <p class="updated_time"> 04:42 AM CT, Oct. 30 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59101584?at_medium=RSS&at_campaign=KARANGA">Tonga records first coronavirus case since start of pandemic</a> BBC: The island nation was one of the last countries in the world not to have reported any infections. 
  <p class="updated_time"> 04:00 AM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/30/world/asia/china-xi-jinping-g20.html">Xi Hasn’t Left China in 21 Months. Covid May Be Only Part of the Reason.</a> NYT: Xi Jinping’s lack of face time with world leaders signals a turn inward on domestic issues and a reluctance to compromise on the global stage. 
  <p class="updated_time"> 04:00 AM CT, Oct. 30 </p> 
