@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:51 AM CT, Oct. 31 </p> 
+ <a href="https://www.bbc.co.uk/news/world-59087311?at_medium=RSS&at_campaign=KARANGA">ICYMI: A baby rhino and million dollar trainers</a> BBC: A roundup of stories you might have missed this week, including a hoverbike and million dollar trainers. 
  <p class="updated_time"> 06:24 AM CT, Oct. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59109560?at_medium=RSS&at_campaign=KARANGA">Yemen: Nine killed in Aden airport car bomb</a> BBC: The attack near Aden's airport is the deadliest to strike the temporary capital since last year. 
  <p class="updated_time"> 05:52 AM CT, Oct. 31 </p> 
@@ -95,8 +97,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/29/world/nyc-vaccine-mandate-resistance.html">Tensions Rise with Next Phase of NYCs Vaccine Mandate</a> NYT: Last-minute shots brought thousands more workers in the Police, Fire and Sanitation Departments into compliance. 
  <p class="updated_time"> 06:00 AM CT, Oct. 30 </p> 
  <a href="https://www.wsj.com/articles/ai-weiwei-traces-a-century-of-making-authorities-squirm-11635606000">Ai Weiwei Traces a Century of Making Authorities Squirm</a> WSJ: A new memoir by world-famous artist-provocateur Ai Weiwei, “1000 Years of Joys and Sorrows,” traces a century of his family’s ups and downs with authorities; it’s being published in more than 20 countries—though not China. 
- <p class="updated_time"> 05:16 AM CT, Oct. 30 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-59101592?at_medium=RSS&at_campaign=KARANGA">Ancient wooden Mayan canoe unearthed almost intact in Mexico</a> BBC: Archaeologists discovered the boat during construction work on a new tourist train network. 
  <p class="updated_time"> 04:42 AM CT, Oct. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59101584?at_medium=RSS&at_campaign=KARANGA">Tonga records first coronavirus case since start of pandemic</a> BBC: The island nation was one of the last countries in the world not to have reported any infections. 
  <p class="updated_time"> 04:00 AM CT, Oct. 30 </p> 
