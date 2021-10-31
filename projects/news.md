@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:26 AM CT, Oct. 31 </p> 
+ <a href="https://www.nytimes.com/2021/10/30/world/g20-photos.html">Photos From the G20 Summit in Rome</a> NYT: Colorful protests outside the G20 meetings, and in them, exchanges between world leaders. 
+ <p class="updated_time"> 04:14 AM CT, Oct. 31 </p> 
+ <a href="https://www.nytimes.com/2021/10/30/world/americas/g20-summit-rome-covid-protests-biden-draghi.html">Pressure Grows on G20 Nations to Get Covid Vaccines to the Poor</a> NYT: The world’s leaders are focusing on preventing future pandemics, but experts say rich nations are not doing enough to help the poor survive the current one. 
  <p class="updated_time"> 04:00 AM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/31/world/europe/uk-police-sexual-misconduct.html">U.K. Police Struggle to Curb Abuse of Women by Their Own Officers</a> NYT: Sexual misconduct by police officers has prompted outrage across Britain, and led to increasing skepticism that departments can investigate or discipline employees who abuse women. 
  <p class="updated_time"> 03:54 AM CT, Oct. 31 </p> 
@@ -17,8 +21,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/science-environment-59105878?at_medium=RSS&at_campaign=KARANGA">COP26: 'Moment of truth' as world meets for climate summit</a> BBC: COP26 begins in Glasgow, amid dire warnings for the future if urgent climate action is not taken. 
  <p class="updated_time"> 11:10 PM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/30/world/middleeast/lebanon-ambassadors-saudi-gulf.html">Gulf States Withdraw Ambassadors to Lebanon Over Criticism of Yemen War</a> NYT: With a few stray comments from a minor minister, Lebanon once again found itself caught in the rivalry between Saudi Arabia and Iran, underscoring just how vulnerable it is to the whims of its more powerful neighbors. 
- <p class="updated_time"> 11:07 PM CT, Oct. 30 </p> 
- <a href="https://www.nytimes.com/2021/10/30/world/americas/g20-summit-rome-covid-protests-biden-draghi.html">Pressure Grows on G20 Nations to Get Covid Vaccines to the Poor</a> NYT: The world’s leaders are focusing on preventing future pandemics, but experts say rich nations are not doing enough to help the poor survive the current one. 
  <p class="updated_time"> 09:45 PM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/30/world/asia/japan-election-fumio-kishida.html">Japan Election: Kishida Struggles to Connect With Voters</a> NYT: The governing Liberal Democrats are expected to win Sunday, despite having chosen a prime minister, Fumio Kishida, who’s known for his lack of charisma. 
  <p class="updated_time"> 08:26 PM CT, Oct. 30 </p> 
@@ -53,8 +55,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-middle-east-59096578?at_medium=RSS&at_campaign=KARANGA">Saudi Arabia expels Lebanon ambassador amid Yemen row</a> BBC: The UAE, Kuwait and Bahrain also take diplomatic action in solidarity with the Saudis. 
  <p class="updated_time"> 03:11 PM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/30/world/africa/sudan-protests-coup.html">Protesters Killed in Sudan on Day Seen as a Test for the Military</a> NYT: Three demonstrators were fatally shot, a doctors’ group said, as crowds answered activists’ call for a “march of millions” against a coup that has threatened the country’s democratic transition. 
- <p class="updated_time"> 02:30 PM CT, Oct. 30 </p> 
- <a href="https://www.nytimes.com/2021/10/30/world/g20-photos.html">Photos From the G20 Summit in Rome</a> NYT: Colorful protests outside the G20 meetings, and in them, exchanges between world leaders. 
  <p class="updated_time"> 02:01 PM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/30/world/europe/g20-summit-covid-vaccines.html">Pressure Grows on G20 Nations to Get Covid Vaccines to Poorer Countries</a> NYT: Talk at the summit is focused on preventing future pandemics. Critics say the current one must be addressed first. 
  <p class="updated_time"> 12:43 PM CT, Oct. 30 </p> 
