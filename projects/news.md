@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:10 PM CT, Oct. 30 </p> 
+ <a href="https://www.nytimes.com/2021/10/30/world/middleeast/lebanon-ambassadors-saudi-gulf.html">Gulf States Withdraw Ambassadors to Lebanon Over Criticism of Yemen War</a> NYT: With a few stray comments from a minor minister, Lebanon once again found itself caught in the rivalry between Saudi Arabia and Iran, underscoring just how vulnerable it is to the whims of its more powerful neighbors. 
+ <p class="updated_time"> 11:07 PM CT, Oct. 30 </p> 
+ <a href="https://www.nytimes.com/2021/10/30/world/americas/g20-summit-rome-covid-protests-biden-draghi.html">Pressure Grows on G20 Nations to Get Covid Vaccines to the Poor</a> NYT: The world’s leaders are focusing on preventing future pandemics, but experts say rich nations are not doing enough to help the poor survive the current one. 
  <p class="updated_time"> 09:45 PM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/30/world/asia/japan-election-fumio-kishida.html">Japan Election: Kishida Struggles to Connect With Voters</a> NYT: The governing Liberal Democrats are expected to win Sunday, despite having chosen a prime minister, Fumio Kishida, who’s known for his lack of charisma. 
  <p class="updated_time"> 08:26 PM CT, Oct. 30 </p> 
@@ -47,8 +51,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/30/world/g20-photos.html">Photos From the G20 Summit in Rome</a> NYT: Colorful protests outside the G20 meetings, and in them, exchanges between world leaders. 
  <p class="updated_time"> 02:01 PM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/30/world/europe/g20-summit-covid-vaccines.html">Pressure Grows on G20 Nations to Get Covid Vaccines to Poorer Countries</a> NYT: Talk at the summit is focused on preventing future pandemics. Critics say the current one must be addressed first. 
- <p class="updated_time"> 01:53 PM CT, Oct. 30 </p> 
- <a href="https://www.nytimes.com/2021/10/30/world/middleeast/lebanon-ambassadors-saudi-gulf.html">Gulf States Withdraw Ambassadors to Lebanon Over Criticism of Yemen War</a> NYT: With a few stray comments from a minor minister, Lebanon once again found itself caught in the rivalry between Saudi Arabia and Iran, underscoring just how vulnerable it is to the whims of its more powerful neighbors. 
  <p class="updated_time"> 01:03 PM CT, Oct. 30 </p> 
  <a href="https://www.bbc.co.uk/news/uk-scotland-58669173?at_medium=RSS&at_campaign=KARANGA">COP26: How Glasgow is hosting world leaders</a> BBC: About 120 world leaders from US President Joe Biden to the prime minister of Andorra will be in Glasgow for COP26. 
  <p class="updated_time"> 12:43 PM CT, Oct. 30 </p> 
@@ -63,8 +65,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/30/world/europe/russia-gas-pipeline-nordstream-putin.html">A Russian Pipeline Changes Direction, and Energy Politics Come to the Fore</a> NYT: Amid an energy crunch in Europe, one of Russia’s largest natural gas pipelines began pulling gas out of Western Europe back eastward, Russian news agencies reported. 
  <p class="updated_time"> 12:03 PM CT, Oct. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-59101218?at_medium=RSS&at_campaign=KARANGA">G20: World leaders agree to historic corporate tax deal</a> BBC: Leaders at the G20 in Rome endorse a proposal that sets a minimum tax rate of 15% on big businesses. 
- <p class="updated_time"> 11:40 AM CT, Oct. 30 </p> 
- <a href="https://www.nytimes.com/2021/10/30/world/americas/g20-summit-rome-covid-protests-biden-draghi.html">Pressure Grows on G20 Nations to Get Covid Vaccines to the Poor</a> NYT: The world’s leaders are focusing on preventing future pandemics, but experts say rich nations are not doing enough to help the poor survive the current one. 
  <p class="updated_time"> 11:16 AM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/30/world/europe/g20-biden-corporate-tax-agreement.html">Biden Finds Raising Corporate Tax Rates Easier Abroad Than at Home</a> NYT: As the Group of 20 seals a new global minimum tax for companies, the president has scaled back his plans to tax U.S. corporations more. 
  <p class="updated_time"> 11:01 AM CT, Oct. 30 </p> 
@@ -185,8 +185,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/technology-59072745?at_medium=RSS&at_campaign=KARANGA">Inside the controversial US gunshot-detection firm</a> BBC: BBC News has been given access to ShotSpotter, the controversial US technology company that detects gunshots. 
  <p class="updated_time"> 06:01 PM CT, Oct. 28 </p> 
  <a href="https://www.bbc.co.uk/sport/cycling/59063160?at_medium=RSS&at_campaign=KARANGA">Marshall 'Major' Taylor: The first black American world champion & his fight to the top</a> BBC: Marshall 'Major' Taylor was the first black American to become a world champion, in 1899. This is his largely forgotten story. 
- <p class="updated_time"> 11:10 AM CT, Oct. 25 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-56901261?at_medium=RSS&at_campaign=KARANGA">COP26: What is the Glasgow climate conference and why is it important?</a> BBC: A crucial climate change summit is being held in the UK - this is why it's important. 
 
 
 </details>
@@ -194,6 +192,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:07 PM CT, Oct. 30 </p> 
+ <a href="https://www.nytimes.com/2021/10/30/world/americas/g20-summit-rome-covid-protests-biden-draghi.html">Pressure Grows on G20 Nations to Get Covid Vaccines to the Poor</a> NYT: The world’s leaders are focusing on preventing future pandemics, but experts say rich nations are not doing enough to help the poor survive the current one. 
  <p class="updated_time"> 05:24 PM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/30/movies/alec-baldwin-rust-shooting-timeline.html">How the Shooting on the Alec Baldwin Set Happened</a> NYT: A reconstruction of the events leading up to the fatal shooting of the cinematographer of “Rust,” the Alec Baldwin western, reveals a troubled production and a series of errors. 
  <p class="updated_time"> 01:58 PM CT, Oct. 30 </p> 
@@ -202,8 +202,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/30/us/politics/eastman-pence-capitol-riot.html">John Eastman Blamed Pence for Violence at Jan. 6 Riot</a> NYT: John Eastman, the author of a memo that some in both parties liken to a blueprint for a coup, sent a hostile email to the vice president’s chief counsel as the mob attacked. 
  <p class="updated_time"> 12:30 PM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/29/world/europe/biden-g20.html">Biden Eases Fray With France and Savors Meeting With Pope as Europe Trip Begins</a> NYT: Mr. Biden sought to mend ties with France’s president over a sabotaged French submarine contract, and expressed gratitude toward Pope Francis after a 90-minute meeting. 
- <p class="updated_time"> 11:40 AM CT, Oct. 30 </p> 
- <a href="https://www.nytimes.com/2021/10/30/world/americas/g20-summit-rome-covid-protests-biden-draghi.html">Pressure Grows on G20 Nations to Get Covid Vaccines to the Poor</a> NYT: The world’s leaders are focusing on preventing future pandemics, but experts say rich nations are not doing enough to help the poor survive the current one. 
  <p class="updated_time"> 11:39 AM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/29/us/politics/richmond-virginia-elections.html">Why a Changing Richmond and Its Suburbs Are Key to Virginia’s Vote</a> NYT: The region has been an engine of Democratic victories, but now the party is on defense as Republicans go after swing voters with worries about schools. 
  <p class="updated_time"> 11:16 AM CT, Oct. 30 </p> 
