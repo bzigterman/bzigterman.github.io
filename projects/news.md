@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:26 AM CT, Oct. 31 </p> 
+ <a href="https://www.nytimes.com/2021/10/31/world/europe/biden-putin-russia-united-states.html">Rivals on World Stage, Russia and U.S. Quietly Seek Areas of Accord</a> NYT: There have been a series of beneath-the-surface meetings between the two countries as the Biden Administration applies a more sober approach to relations with the Kremlin. 
  <p class="updated_time"> 07:38 AM CT, Oct. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59110828?at_medium=RSS&at_campaign=KARANGA">Japan election: Ruling LDP set for reduced majority - polls</a> BBC: Polls predict new Prime Minister Fumio Kishida's party will have a reduced majority in the lower house. 
  <p class="updated_time"> 07:23 AM CT, Oct. 31 </p> 
