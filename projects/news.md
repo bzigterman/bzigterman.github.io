@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:28 PM CT, Oct. 31 </p> 
+ <a href="https://www.nytimes.com/2021/10/31/world/nyc-firefighters-police-vaccine-mandate.html">Over 2,000 New York City Firefighters Took Sick Days as Vaccine Mandate Looms</a> NYT: More than 22,000 municipal workers remained unvaccinated a day ahead of a city deadline to get their first dose of a coronavirus vaccine. 
  <p class="updated_time"> 02:10 PM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/31/world/europe/biden-putin-russia-united-states.html">Rivals on World Stage, Russia and U.S. Quietly Seek Areas of Accord</a> NYT: There have been a series of beneath-the-surface meetings between the two countries as the Biden administration applies a more sober approach to relations with the Kremlin. 
  <p class="updated_time"> 02:08 PM CT, Oct. 31 </p> 
@@ -173,8 +175,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/29/world/europe/cop26-pope-francis-climate.html">Pope Francis Urges 'Radical' Action at COP26 Climate Summit</a> NYT: Only urgent action can “offer concrete hope to future generations,” the pope said in a reflection broadcast on BBC radio. 
  <p class="updated_time"> 06:47 AM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/world/europe/will-the-vatican-grant-press-access-to-the-biden-pope-meeting-so-far-the-answer-is-no.html">Will the Vatican grant press access to the Biden-pope meeting? So far, the answer is no.</a> NYT: NA 
- <p class="updated_time"> 04:20 AM CT, Oct. 29 </p> 
- <a href="https://www.nytimes.com/2021/10/29/world/the-popes-us-visit-in-2015-was-a-powerful-moment-for-biden.html">The pope’s U.S. visit in 2015 was a powerful moment for Biden.</a> NYT: NA 
  <p class="updated_time"> 04:00 AM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/world/europe/roma-hip-hop-band-serbia-pretty-loud.html">‘Different Way of Fighting’: Lyrics Are the Weapons of All-Women Roma Band</a> NYT: Many Roma women face pressures to marry young and take on traditional gender roles. Pretty Loud, a hip-hop group from Serbia, wants girls to decide for themselves. 
  <p class="updated_time"> 11:10 AM CT, Oct. 25 </p> 
@@ -186,6 +186,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:22 PM CT, Oct. 31 </p> 
+ <a href="https://www.nytimes.com/2021/10/31/us/politics/texas-abortion-law-supreme-court.html">When Will the Supreme Court Hear Arguments on the Texas Abortion Law?</a> NYT: The New York Times will be streaming the oral arguments and providing live coverage of the proceedings when they begin at 10 a.m. Eastern. 
  <p class="updated_time"> 02:10 PM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/31/world/europe/biden-putin-russia-united-states.html">Rivals on World Stage, Russia and U.S. Quietly Seek Areas of Accord</a> NYT: There have been a series of beneath-the-surface meetings between the two countries as the Biden administration applies a more sober approach to relations with the Kremlin. 
  <p class="updated_time"> 02:04 PM CT, Oct. 31 </p> 
@@ -232,8 +234,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/29/us/politics/coronavirus-origin-intelligence-report.html">Origin of Virus May Remain Murky, U.S. Intelligence Agencies Say</a> NYT: A declassified report said a clearer answer would require more information from Beijing or new discoveries and reiterated divisions over natural causes vs. a lab leak. 
  <p class="updated_time"> 07:52 PM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/us/politics/immigration-green-cards-visas.html">Democrats’ Plan to Overhaul Legal Immigration Focuses on Green Card Backlog</a> NYT: A proposal in President Biden’s social spending bill would make hundreds of thousands of unused green cards available for immigrants. But it faces an uncertain future under Senate rules. 
- <p class="updated_time"> 06:30 PM CT, Oct. 29 </p> 
- <a href="https://www.nytimes.com/2021/10/29/us/politics/maine-coronavirus-vaccine.html">Supreme Court Won’t Block Maine’s Vaccine Mandate for Health Care Workers</a> NYT: A state regulation that does not allow exemptions on religious grounds was challenged by workers who said taking a coronavirus vaccine was at odds with their faith. 
  <p class="updated_time"> 05:46 PM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/us/politics/office-access-justice-legal-aid.html">Garland Revives Effort to Expand Access to Legal Aid</a> NYT: The attorney general acted to reverse a Trump administration decision to cut off funding for the Office for Access to Justice, an Obama-era program to give poor defendants legal representation. 
  <p class="updated_time"> 05:30 PM CT, Oct. 29 </p> 
