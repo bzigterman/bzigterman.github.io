@@ -10,6 +10,8 @@ permalink: /projects/news/
  <p class="updated_time"> 10:38 AM CT, Oct. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59103664?at_medium=RSS&at_campaign=KARANGA">Several injured in knife and arson attack on Tokyo underground train</a> BBC: Police have arrested a man in his 20s at the scene of the incident on an underground train line. 
  <p class="updated_time"> 10:22 AM CT, Oct. 31 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59112729?at_medium=RSS&at_campaign=KARANGA">Tokyo knife and arson attack: The moment train passengers flee</a> BBC: Video shows people trying to escape as smoke and flames fill a carriage. 
+ <p class="updated_time"> 10:22 AM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/30/world/asia/japan-election-fumio-kishida.html">Japan Election: Kishida Struggles to Connect With Voters</a> NYT: The governing Liberal Democrats won on Sunday, despite having chosen a prime minister, Fumio Kishida, who’s known for his lack of charisma. 
  <p class="updated_time"> 10:10 AM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/31/world/europe/uk-police-sexual-misconduct.html">U.K. Police Struggle to Curb Abuse of Women by Their Own Officers</a> NYT: Sexual misconduct by police officers has prompted outrage across Britain and led to increasing skepticism that departments can investigate or discipline employees who abuse women. 
@@ -100,7 +102,7 @@ permalink: /projects/news/
  <p class="updated_time"> 09:52 AM CT, Oct. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59101411?at_medium=RSS&at_campaign=KARANGA">Japan undersea volcano: Artist tries to swim in floating pumice stone</a> BBC: An eruption from an undersea volcano has coated the coastal waters off a Japanese island in pumice. 
  <p class="updated_time"> 09:13 AM CT, Oct. 30 </p> 
- <a href="https://www.wsj.com/articles/sudanese-pro-democracy-protesters-march-in-defiance-of-military-coup-11635603536">Sudanese Security Forces Fire Bullets at Anti-Coup Protesters</a> WSJ: Sudanese security forces fired bullets and teargas into throngs of protesters, trying to disperse mass demonstrations against a military coup that has disrupted the country’s fragile transition to democracy following the ouster of longtime dictator Omar al-Bashir. 
+ <a href="https://www.wsj.com/articles/sudanese-pro-democracy-protesters-march-in-defiance-of-military-coup-11635603536">Sudanese Security Forces Fire Bullets at Anti-Coup Protesters</a> WSJ: Sudanese security forces fired bullets and teargas into throngs of protesters, trying to disperse mass demonstrations against a military coup. 
  <p class="updated_time"> 09:02 AM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/29/world/vaccine-mandate-states-sue.html">10 Republican-led States Sue Over Biden's Vaccine Mandate</a> NYT: The lawsuit is being led by Missouri’s attorney general, Eric Schmitt, and the attorney general of Nebraska, Doug Peterson. 
  <p class="updated_time"> 09:02 AM CT, Oct. 30 </p> 
@@ -123,8 +125,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-59076452?at_medium=RSS&at_campaign=KARANGA">COP26: African climate activists' message to world leaders</a> BBC: Young climate activists from Africa share their message to world leaders at COP26. 
  <p class="updated_time"> 06:03 PM CT, Oct. 29 </p> 
  <a href="https://www.wsj.com/articles/u-s-takes-aim-at-irans-drone-program-seeing-risk-to-mideast-stability-11635517853">U.S. Takes Aim at Iran's Drone Program</a> WSJ: The Biden administration levied sanctions against several Iranian companies and executives that it tied to Tehran’s drone program as U.S. security and military officials grow increasingly concerned about it. 
- <p class="updated_time"> 06:01 PM CT, Oct. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59098425?at_medium=RSS&at_campaign=KARANGA">La Palma: Living with lava</a> BBC: Residents on the Spanish island share how Cumbre Vieja's eruption has changed their lives. 
  <p class="updated_time"> 05:11 PM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/world/canada/dune-movie.html">‘Dune’ May Be Set in a Distant Time and Place, but the Film Has Canadian Roots</a> NYT: A science fiction opus was heavily guided by Canadian talent, starting with the director, Denis Villeneuve, who lives in Montreal. 
  <p class="updated_time"> 04:48 PM CT, Oct. 29 </p> 
