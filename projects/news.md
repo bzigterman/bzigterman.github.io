@@ -7,12 +7,12 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:57 PM CT, Oct. 31 </p> 
+ <a href="https://www.nytimes.com/2021/10/31/us/politics/guantanamo-torture-letter.html">U.S. Military Jury Condemns Terrorist’s Torture and Urges Clemency</a> NYT: Seven senior officers rebuked the government’s treatment of an admitted terrorist in a handwritten letter from the jury room at Guantánamo Bay. 
  <p class="updated_time"> 03:51 PM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/31/world/europe/biden-putin-russia-united-states.html">Rivals on World Stage, Russia and U.S. Quietly Seek Areas of Accord</a> NYT: There have been a series of beneath-the-surface meetings between the two countries as the Biden administration applies a more sober approach to relations with the Kremlin. 
  <p class="updated_time"> 03:47 PM CT, Oct. 31 </p> 
  <a href="https://www.bbc.co.uk/news/uk-politics-59109804?at_medium=RSS&at_campaign=KARANGA">UK and France blame each other over fishing row stalemate</a> BBC: Johnson says Macron should "de-escalate the rhetoric" and Macron says the "ball is in Britain's court". 
- <p class="updated_time"> 03:43 PM CT, Oct. 31 </p> 
- <a href="https://www.nytimes.com/2021/10/31/us/politics/guantanamo-torture-letter.html">U.S. Military Jury Condemns Terrorist’s Torture and Urges Clemency</a> NYT: Seven senior officers rebuked the government’s treatment of an admitted terrorist in a handwritten letter from the jury room at Guantánamo Bay. 
  <p class="updated_time"> 03:40 PM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/30/world/asia/japan-election-fumio-kishida.html">Japan Election: Kishida Struggles to Connect With Voters</a> NYT: The governing Liberal Democrats won on Sunday, despite having chosen a prime minister, Fumio Kishida, who’s known for his lack of charisma. 
  <p class="updated_time"> 03:33 PM CT, Oct. 31 </p> 
@@ -33,6 +33,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59103664?at_medium=RSS&at_campaign=KARANGA">At least 17 injured in Tokyo subway knife and arson attack</a> BBC: Video footage shows passengers desperately running from fire and a man said to be wielding a knife. 
  <p class="updated_time"> 01:18 PM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/30/business/economy/biden-steel-tariffs-europe.html">Biden Rolls Back Trump's Metal Tariffs On European Union</a> NYT: The deal, which comes as U.S. and E.U. allies meet in Rome, will keep some trade protections in place in a nod to metalworking unions that supported President Biden. 
+ <p class="updated_time"> 12:02 PM CT, Oct. 31 </p> 
+ <a href="https://www.wsj.com/articles/left-behind-after-u-s-withdrawal-some-former-afghan-spies-and-soldiers-turn-to-islamic-state-11635691605">Former Afghan Spies and Soldiers Turn to ISIS After U.S. Exit</a> WSJ: Hunted by the Taliban and lacking income, some members of Afghanistan’s disbanded security forces are enlisting in the only force currently challenging the country’s new rules. 
  <p class="updated_time"> 11:52 AM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/31/world/europe/g20-climate-temperature-rise.html">G20 Leaders Agree on 1.5-Degree Climate Goal</a> NYT: Countries will “pursue efforts” to limit global temperature rise to 1.5 degrees Celsius, compared with preindustrial times. 
  <p class="updated_time"> 11:49 AM CT, Oct. 31 </p> 
@@ -69,8 +71,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/30/world/europe/g20-biden-corporate-tax-agreement.html">Biden Finds Raising Corporate Tax Rates Easier Abroad Than at Home</a> NYT: As the Group of 20 seals a new global minimum tax for companies, the president has scaled back his plans to tax U.S. corporations more. 
  <p class="updated_time"> 05:49 AM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/29/world/europe/biden-g20.html">Biden Eases Fray With France and Savors Meeting With Pope as Europe Trip Begins</a> NYT: Mr. Biden sought to mend ties with France’s president over a sabotaged French submarine contract, and expressed gratitude toward Pope Francis after a 90-minute meeting. 
- <p class="updated_time"> 05:46 AM CT, Oct. 31 </p> 
- <a href="https://www.wsj.com/articles/left-behind-after-u-s-withdrawal-some-former-afghan-spies-and-soldiers-turn-to-islamic-state-11635691605">Former Afghan Spies and Soldiers Turn to ISIS After U.S. Exit</a> WSJ: Hunted by the Taliban and lacking income, some members of Afghanistan’s disbanded security forces are enlisting in the only force currently challenging the country’s new rules. 
  <p class="updated_time"> 05:41 AM CT, Oct. 31 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59110260?at_medium=RSS&at_campaign=KARANGA">Greta Thunberg: It's never too late to do as much as we can</a> BBC: Activist Greta Thunberg is still hopeful the world can achieve "massive changes" to combat climate change. 
  <p class="updated_time"> 05:12 AM CT, Oct. 31 </p> 
@@ -184,16 +184,16 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:57 PM CT, Oct. 31 </p> 
+ <a href="https://www.nytimes.com/2021/10/31/us/politics/guantanamo-torture-letter.html">U.S. Military Jury Condemns Terrorist’s Torture and Urges Clemency</a> NYT: Seven senior officers rebuked the government’s treatment of an admitted terrorist in a handwritten letter from the jury room at Guantánamo Bay. 
+ <p class="updated_time"> 03:55 PM CT, Oct. 31 </p> 
+ <a href="https://www.nytimes.com/2021/10/31/us/politics/texas-abortion-law-supreme-court.html">When Will the Supreme Court Hear Arguments on the Texas Abortion Law?</a> NYT: The New York Times will be streaming the oral arguments and providing live coverage of the proceedings when they begin at 10 a.m. Eastern. 
  <p class="updated_time"> 03:51 PM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/31/world/europe/biden-putin-russia-united-states.html">Rivals on World Stage, Russia and U.S. Quietly Seek Areas of Accord</a> NYT: There have been a series of beneath-the-surface meetings between the two countries as the Biden administration applies a more sober approach to relations with the Kremlin. 
- <p class="updated_time"> 03:43 PM CT, Oct. 31 </p> 
- <a href="https://www.nytimes.com/2021/10/31/us/politics/guantanamo-torture-letter.html">U.S. Military Jury Condemns Terrorist’s Torture and Urges Clemency</a> NYT: Seven senior officers rebuked the government’s treatment of an admitted terrorist in a handwritten letter from the jury room at Guantánamo Bay. 
  <p class="updated_time"> 03:34 PM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/31/business/economy/global-shipping-delays-shortages.html">Global Shipping Delays Loom Over Retailers for the Holidays</a> NYT: The travails of a Chicago fishing company’s advent calendar highlight the supply chain hurdles for businesses trying to deliver items in time for the holidays. 
  <p class="updated_time"> 03:11 PM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/31/climate/g20-coal.html">G20 Nations Agree to New Limits on Coal-Burning Power Plants</a> NYT: The world’s largest economies will stop financing coal plants abroad, though that falls far short of what’s needed to fight climate change, raising fears of half-steps at this week’s U.N. summit. 
- <p class="updated_time"> 02:34 PM CT, Oct. 31 </p> 
- <a href="https://www.nytimes.com/2021/10/31/us/politics/texas-abortion-law-supreme-court.html">When Will the Supreme Court Hear Arguments on the Texas Abortion Law?</a> NYT: The New York Times will be streaming the oral arguments and providing live coverage of the proceedings when they begin at 10 a.m. Eastern. 
  <p class="updated_time"> 01:18 PM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/30/business/economy/biden-steel-tariffs-europe.html">Biden Rolls Back Trump's Metal Tariffs On European Union</a> NYT: The deal, which comes as U.S. and E.U. allies meet in Rome, will keep some trade protections in place in a nod to metalworking unions that supported President Biden. 
  <p class="updated_time"> 12:46 PM CT, Oct. 31 </p> 
