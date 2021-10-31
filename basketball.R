@@ -576,11 +576,11 @@ permalink: /projects/basketball/
 
 ",now_html," 
 
-![Team Rank]({{ site.baseurl }}/plots/nba_team_rank.png)
+![Standings]({{ site.baseurl }}/plots/nba_standings.png)
 
 ",better_wild_card_standings_table_html," 
 
-![Standings]({{ site.baseurl }}/plots/nba_standings.png)
+![Team Rank]({{ site.baseurl }}/plots/nba_team_rank.png)
 
 <p class=\"updated_time\">Source: <a href=\"https://github.com/fivethirtyeight/data/tree/master/nba-forecasts\">FiveThirtyEight</a>. <a href=\"https://github.com/fivethirtyeight/data/blob/master/LICENSE\">CC-BY-4.0 License</a>.</p> 
 
