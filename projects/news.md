@@ -7,6 +7,18 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:51 AM CT, Oct. 31 </p> 
+ <a href="https://www.nytimes.com/2021/10/30/world/americas/g20-summit-rome-covid-protests-biden-draghi.html">Pressure Grows on G20 Nations to Get Covid Vaccines to the Poor</a> NYT: The world’s leaders are focusing on preventing future pandemics, but experts say rich nations are not doing enough to help the poor survive the current one. 
+ <p class="updated_time"> 05:51 AM CT, Oct. 31 </p> 
+ <a href="https://www.nytimes.com/2021/10/29/us/politics/g20-global-tax-deal.html">A Global Tax Deal Is at Hand. Here’s How It Would Work.</a> NYT: President Biden will sign on to an international pact aimed at ending profit-shifting by large companies. Here’s a look at what it means. 
+ <p class="updated_time"> 05:50 AM CT, Oct. 31 </p> 
+ <a href="https://www.nytimes.com/2021/10/29/us/politics/biden-g20-summit.html">Biden Declared 'America is Back' in June. The World Is About to Test Him.</a> NYT: Arriving in Europe with an unfinished economic and environmental spending plan, the president will confront new challenges, some self-inflicted, at two major summits. 
+ <p class="updated_time"> 05:50 AM CT, Oct. 31 </p> 
+ <a href="https://www.nytimes.com/2021/10/30/world/europe/g20-biden-corporate-tax-agreement.html">Biden Finds Raising Corporate Tax Rates Easier Abroad Than at Home</a> NYT: As the Group of 20 seals a new global minimum tax for companies, the president has scaled back his plans to tax U.S. corporations more. 
+ <p class="updated_time"> 05:50 AM CT, Oct. 31 </p> 
+ <a href="https://www.nytimes.com/2021/10/29/world/asia/pope-francis-modi-india.html">Pope Francis to Meet India's Narendra Modi for the First Time</a> NYT: The meeting comes amid increasing attacks on Christians in the South Asian nation, which is home to one of Asia’s oldest Christian populations. 
+ <p class="updated_time"> 05:49 AM CT, Oct. 31 </p> 
+ <a href="https://www.nytimes.com/2021/10/29/world/europe/biden-g20.html">Biden Eases Fray With France and Savors Meeting With Pope as Europe Trip Begins</a> NYT: Mr. Biden sought to mend ties with France’s president over a sabotaged French submarine contract, and expressed gratitude toward Pope Francis after a 90-minute meeting. 
  <p class="updated_time"> 05:13 AM CT, Oct. 31 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59105878?at_medium=RSS&at_campaign=KARANGA">COP26: 'Moment of truth' as world meets for climate summit</a> BBC: COP26 begins in Glasgow, amid dire warnings for the future if urgent climate action is not taken. 
  <p class="updated_time"> 05:12 AM CT, Oct. 31 </p> 
@@ -15,8 +27,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-59109186?at_medium=RSS&at_campaign=KARANGA">G20 in final push to reach deal on climate at Rome summit</a> BBC: The leaders of the world's richest economies are looking for an agreement ahead of COP26. 
  <p class="updated_time"> 04:26 AM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/30/world/g20-photos.html">Photos From the G20 Summit in Rome</a> NYT: Colorful protests outside the G20 meetings, and in them, exchanges between world leaders. 
- <p class="updated_time"> 04:14 AM CT, Oct. 31 </p> 
- <a href="https://www.nytimes.com/2021/10/30/world/americas/g20-summit-rome-covid-protests-biden-draghi.html">Pressure Grows on G20 Nations to Get Covid Vaccines to the Poor</a> NYT: The world’s leaders are focusing on preventing future pandemics, but experts say rich nations are not doing enough to help the poor survive the current one. 
  <p class="updated_time"> 04:00 AM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/31/world/europe/uk-police-sexual-misconduct.html">U.K. Police Struggle to Curb Abuse of Women by Their Own Officers</a> NYT: Sexual misconduct by police officers has prompted outrage across Britain, and led to increasing skepticism that departments can investigate or discipline employees who abuse women. 
  <p class="updated_time"> 03:54 AM CT, Oct. 31 </p> 
@@ -63,14 +73,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/30/world/europe/g20-summit-covid-vaccines.html">Pressure Grows on G20 Nations to Get Covid Vaccines to Poorer Countries</a> NYT: Talk at the summit is focused on preventing future pandemics. Critics say the current one must be addressed first. 
  <p class="updated_time"> 12:43 PM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/30/world/middleeast/g20-summit-iran-nuclear.html">G20 Agenda Includes Nuclear Impasse With Iran</a> NYT: Biden administration officials have suggested that time is running out to salvage the 2015 accord under which Iran sharply curtailed its nuclear activities. 
- <p class="updated_time"> 12:30 PM CT, Oct. 30 </p> 
- <a href="https://www.nytimes.com/2021/10/29/world/europe/biden-g20.html">Biden Eases Fray With France and Savors Meeting With Pope as Europe Trip Begins</a> NYT: Mr. Biden sought to mend ties with France’s president over a sabotaged French submarine contract, and expressed gratitude toward Pope Francis after a 90-minute meeting. 
  <p class="updated_time"> 12:24 PM CT, Oct. 30 </p> 
  <a href="https://www.wsj.com/articles/g-20-leaders-begin-rome-summit-amid-big-differences-on-climate-change-11635586202">At G-20 Summit, U.S. Agrees to Relax Tariffs on European Steel</a> WSJ: Biden and European leaders worked to defuse trade tensions at the gathering in Rome, where Western leaders also called on Iran to comply with a nuclear accord. 
  <p class="updated_time"> 12:08 PM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/30/world/europe/russia-gas-pipeline-nordstream-putin.html">A Russian Pipeline Changes Direction, and Energy Politics Come to the Fore</a> NYT: Amid an energy crunch in Europe, one of Russia’s largest natural gas pipelines began pulling gas out of Western Europe back eastward, Russian news agencies reported. 
- <p class="updated_time"> 11:16 AM CT, Oct. 30 </p> 
- <a href="https://www.nytimes.com/2021/10/30/world/europe/g20-biden-corporate-tax-agreement.html">Biden Finds Raising Corporate Tax Rates Easier Abroad Than at Home</a> NYT: As the Group of 20 seals a new global minimum tax for companies, the president has scaled back his plans to tax U.S. corporations more. 
  <p class="updated_time"> 11:01 AM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/30/world/chinas-xi-and-other-world-leaders-are-not-at-the-summit.html">China’s Xi and other world leaders are not at the summit.</a> NYT: NA 
  <p class="updated_time"> 10:51 AM CT, Oct. 30 </p> 
@@ -87,8 +93,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/29/world/nyc-vaccine-mandate-resistance.html">Tensions Rise with Next Phase of NYCs Vaccine Mandate</a> NYT: Last-minute shots brought thousands more workers in the Police, Fire and Sanitation Departments into compliance. 
  <p class="updated_time"> 08:39 AM CT, Oct. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59103657?at_medium=RSS&at_campaign=KARANGA">Indian PM Narendra Modi invites Pope for visit</a> BBC: The invitation is a significant turnaround, after negotiations for a papal visit collapsed in 2017. 
- <p class="updated_time"> 06:33 AM CT, Oct. 30 </p> 
- <a href="https://www.nytimes.com/2021/10/29/world/asia/pope-francis-modi-india.html">Pope Francis to Meet India's Narendra Modi for the First Time</a> NYT: The meeting comes amid increasing attacks on Christians in the South Asian nation, which is home to one of Asia’s oldest Christian populations. 
  <p class="updated_time"> 06:00 AM CT, Oct. 30 </p> 
  <a href="https://www.wsj.com/articles/ai-weiwei-traces-a-century-of-making-authorities-squirm-11635606000">Ai Weiwei Traces a Century of Making Authorities Squirm</a> WSJ: A new memoir by world-famous artist-provocateur Ai Weiwei, “1000 Years of Joys and Sorrows,” traces a century of his family’s ups and downs with authorities; it’s being published in more than 20 countries—though not China. 
  <p class="updated_time"> 05:16 AM CT, Oct. 30 </p> 
@@ -109,8 +113,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-india-59059493?at_medium=RSS&at_campaign=KARANGA">T20 World Cup: The toxic trolling of India's cricket stars</a> BBC: As online abuse becomes the main form of venting, many worry about the toxicity cricketers face on social media. 
  <p class="updated_time"> 06:56 PM CT, Oct. 29 </p> 
  <a href="https://www.bbc.co.uk/news/newsbeat-58972808?at_medium=RSS&at_campaign=KARANGA">The 17-year-old making films fun for deaf children</a> BBC: Mariella, 17, made an app during lockdown that's helping some kids enjoy films for the first time. 
- <p class="updated_time"> 06:37 PM CT, Oct. 29 </p> 
- <a href="https://www.nytimes.com/2021/10/29/us/politics/g20-global-tax-deal.html">A Global Tax Deal Is at Hand. Here’s How It Would Work.</a> NYT: President Biden will sign on to an international pact aimed at ending profit-shifting by large companies. Here’s a look at what it means. 
  <p class="updated_time"> 06:04 PM CT, Oct. 29 </p> 
  <a href="https://www.bbc.co.uk/news/in-pictures-59077933?at_medium=RSS&at_campaign=KARANGA">Week in pictures: 23 - 29 October 2021</a> BBC: A selection of powerful images from all over the globe, taken this week. 
  <p class="updated_time"> 06:03 PM CT, Oct. 29 </p> 
@@ -175,8 +177,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/29/world/the-popes-us-visit-in-2015-was-a-powerful-moment-for-biden.html">The pope’s U.S. visit in 2015 was a powerful moment for Biden.</a> NYT: NA 
  <p class="updated_time"> 04:00 AM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/world/europe/roma-hip-hop-band-serbia-pretty-loud.html">‘Different Way of Fighting’: Lyrics Are the Weapons of All-Women Roma Band</a> NYT: Many Roma women face pressures to marry young and take on traditional gender roles. Pretty Loud, a hip-hop group from Serbia, wants girls to decide for themselves. 
- <p class="updated_time"> 02:00 AM CT, Oct. 29 </p> 
- <a href="https://www.nytimes.com/2021/10/29/us/politics/biden-g20-summit.html">Biden Declared 'America is Back' in June. The World Is About to Test Him.</a> NYT: Arriving in Europe with an unfinished economic and environmental spending plan, the president will confront new challenges, some self-inflicted, at two major summits. 
  <p class="updated_time"> 01:17 AM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/world/australia/saying-goodbye-to-melbournes-long-lockdown-again.html">Saying Goodbye to Melbourne’s Long Lockdown (Again)</a> NYT: It’s been a year and a day since the first time Melbourne reopened. Some things have changed. Some haven’t. 
  <p class="updated_time"> 08:45 PM CT, Oct. 28 </p> 
@@ -192,6 +192,12 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:51 AM CT, Oct. 31 </p> 
+ <a href="https://www.nytimes.com/2021/10/29/us/politics/g20-global-tax-deal.html">A Global Tax Deal Is at Hand. Here’s How It Would Work.</a> NYT: President Biden will sign on to an international pact aimed at ending profit-shifting by large companies. Here’s a look at what it means. 
+ <p class="updated_time"> 05:50 AM CT, Oct. 31 </p> 
+ <a href="https://www.nytimes.com/2021/10/30/world/europe/g20-biden-corporate-tax-agreement.html">Biden Finds Raising Corporate Tax Rates Easier Abroad Than at Home</a> NYT: As the Group of 20 seals a new global minimum tax for companies, the president has scaled back his plans to tax U.S. corporations more. 
+ <p class="updated_time"> 05:49 AM CT, Oct. 31 </p> 
+ <a href="https://www.nytimes.com/2021/10/29/world/europe/biden-g20.html">Biden Eases Fray With France and Savors Meeting With Pope as Europe Trip Begins</a> NYT: Mr. Biden sought to mend ties with France’s president over a sabotaged French submarine contract, and expressed gratitude toward Pope Francis after a 90-minute meeting. 
  <p class="updated_time"> 04:14 AM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/30/world/americas/g20-summit-rome-covid-protests-biden-draghi.html">Pressure Grows on G20 Nations to Get Covid Vaccines to the Poor</a> NYT: The world’s leaders are focusing on preventing future pandemics, but experts say rich nations are not doing enough to help the poor survive the current one. 
  <p class="updated_time"> 05:24 PM CT, Oct. 30 </p> 
@@ -200,12 +206,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/30/us/politics/virginia-governors-election.html">What the Virginia Election Result Will Mean for Democrats and Republicans</a> NYT: Republicans hope to hit on a recipe for renewal, while Democrats worry that a loss could force them to defend seats in blue states next year. 
  <p class="updated_time"> 01:16 PM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/30/us/politics/eastman-pence-capitol-riot.html">John Eastman Blamed Pence for Violence at Jan. 6 Riot</a> NYT: John Eastman, the author of a memo that some in both parties liken to a blueprint for a coup, sent a hostile email to the vice president’s chief counsel as the mob attacked. 
- <p class="updated_time"> 12:30 PM CT, Oct. 30 </p> 
- <a href="https://www.nytimes.com/2021/10/29/world/europe/biden-g20.html">Biden Eases Fray With France and Savors Meeting With Pope as Europe Trip Begins</a> NYT: Mr. Biden sought to mend ties with France’s president over a sabotaged French submarine contract, and expressed gratitude toward Pope Francis after a 90-minute meeting. 
  <p class="updated_time"> 11:39 AM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/29/us/politics/richmond-virginia-elections.html">Why a Changing Richmond and Its Suburbs Are Key to Virginia’s Vote</a> NYT: The region has been an engine of Democratic victories, but now the party is on defense as Republicans go after swing voters with worries about schools. 
- <p class="updated_time"> 11:16 AM CT, Oct. 30 </p> 
- <a href="https://www.nytimes.com/2021/10/30/world/europe/g20-biden-corporate-tax-agreement.html">Biden Finds Raising Corporate Tax Rates Easier Abroad Than at Home</a> NYT: As the Group of 20 seals a new global minimum tax for companies, the president has scaled back his plans to tax U.S. corporations more. 
  <p class="updated_time"> 10:35 AM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/29/us/politics/crypto-currency-venture-capitalists.html">How Venture Capitalists Think Cryptocurrency Will Reshape Commerce</a> NYT: From banking to gaming, investors are sending billions of dollars to crypto inventors who seek to disrupt industries. Here’s a look at some of those bets. 
  <p class="updated_time"> 06:00 AM CT, Oct. 30 </p> 
@@ -226,8 +228,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/29/arts/in-this-house-yard-signs.html">‘In This House’ Yard Signs, and Their Curious Power</a> NYT: How a lawn sign inspired by mom décor became a liberal mantra — and a symbol of a political battle over white womanhood. 
  <p class="updated_time"> 07:52 PM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/us/politics/immigration-green-cards-visas.html">Democrats’ Plan to Overhaul Legal Immigration Focuses on Green Card Backlog</a> NYT: A proposal in President Biden’s social spending bill would make hundreds of thousands of unused green cards available for immigrants. But it faces an uncertain future under Senate rules. 
- <p class="updated_time"> 06:37 PM CT, Oct. 29 </p> 
- <a href="https://www.nytimes.com/2021/10/29/us/politics/g20-global-tax-deal.html">A Global Tax Deal Is at Hand. Here’s How It Would Work.</a> NYT: President Biden will sign on to an international pact aimed at ending profit-shifting by large companies. Here’s a look at what it means. 
  <p class="updated_time"> 05:46 PM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/us/politics/office-access-justice-legal-aid.html">Garland Revives Effort to Expand Access to Legal Aid</a> NYT: The attorney general acted to reverse a Trump administration decision to cut off funding for the Office for Access to Justice, an Obama-era program to give poor defendants legal representation. 
  <p class="updated_time"> 05:30 PM CT, Oct. 29 </p> 
