@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:23 AM CT, Oct. 31 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59103659?at_medium=RSS&at_campaign=KARANGA">Man dies during bull-running event in Spanish city of Onda</a> BBC: Authorities said the man suffered a head wound and had an artery punctured in his thigh by the bull. 
  <p class="updated_time"> 06:51 AM CT, Oct. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-59087311?at_medium=RSS&at_campaign=KARANGA">ICYMI: A baby rhino and million dollar trainers</a> BBC: A roundup of stories you might have missed this week, including a hoverbike and million dollar trainers. 
  <p class="updated_time"> 06:24 AM CT, Oct. 31 </p> 
@@ -55,8 +57,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/science-environment-59051407?at_medium=RSS&at_campaign=KARANGA">Climate change: What's it like living in a place where it's 50C?</a> BBC: The BBC has spoken to people around the world about how extreme heat is changing their lives. 
  <p class="updated_time"> 06:51 PM CT, Oct. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59029517?at_medium=RSS&at_campaign=KARANGA">How the Taliban takeover changed my life</a> BBC: From office workers to students, Afghans share how their lives have changed since August. 
- <p class="updated_time"> 06:33 PM CT, Oct. 30 </p> 
- <a href="https://www.bbc.co.uk/news/stories-59075832?at_medium=RSS&at_campaign=KARANGA">A lifetime with the Yanomami people of the Amazon</a> BBC: The photographer who spent 50 years fighting to protect indigenous people. 
  <p class="updated_time"> 06:07 PM CT, Oct. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59107040?at_medium=RSS&at_campaign=KARANGA">Alec Baldwin makes first public comments on 'one in a trillion' shooting</a> BBC: In his first public comments, the actor says the cinematographer he accidentally shot was his friend. 
  <p class="updated_time"> 06:01 PM CT, Oct. 30 </p> 
@@ -181,8 +181,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/technology-59072745?at_medium=RSS&at_campaign=KARANGA">Inside the controversial US gunshot-detection firm</a> BBC: BBC News has been given access to ShotSpotter, the controversial US technology company that detects gunshots. 
  <p class="updated_time"> 06:01 PM CT, Oct. 28 </p> 
  <a href="https://www.bbc.co.uk/sport/cycling/59063160?at_medium=RSS&at_campaign=KARANGA">Marshall 'Major' Taylor: The first black American world champion & his fight to the top</a> BBC: Marshall 'Major' Taylor was the first black American to become a world champion, in 1899. This is his largely forgotten story. 
- <p class="updated_time"> 11:10 AM CT, Oct. 25 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-56901261?at_medium=RSS&at_campaign=KARANGA">COP26: What is the Glasgow climate conference and why is it important?</a> BBC: A crucial climate change summit is being held in the UK - this is why it's important. 
 
 
 </details>
