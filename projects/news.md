@@ -7,8 +7,18 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:26 PM CT, Oct. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/stories-59064579?at_medium=RSS&at_campaign=KARANGA">‘As a child I saw the plane crash that killed my sisters'</a> BBC: Harriet was waving her sisters off when the plane left the runway and burned. Now she's finding others linked to the tragedy. 
+ <p class="updated_time"> 08:10 PM CT, Oct. 30 </p> 
+ <a href="https://www.nytimes.com/2021/10/30/world/americas/nyc-police-fire-vaccine-mandate.html">More New York City workers get Covid shots as deadline nears, but tensions remain.</a> NYT: The city’s effort to compel most city employees to receive the coronavirus vaccine before Monday appears to have rapidly boosted inoculation rates. 
+ <p class="updated_time"> 07:52 PM CT, Oct. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59085675?at_medium=RSS&at_campaign=KARANGA">The white student braving racial politics in South Africa</a> BBC: Jess Griesel faces a backlash for joining a party that backs the interests of poor black South Africans. 
+ <p class="updated_time"> 07:23 PM CT, Oct. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/science-environment-59078198?at_medium=RSS&at_campaign=KARANGA">Can COP26 really save the planet?</a> BBC: Past COPs our science editor went to didn't stop climate change - will this one be any different? 
  <p class="updated_time"> 07:13 PM CT, Oct. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59103901?at_medium=RSS&at_campaign=KARANGA">Sudan coup: Three killed in protests against military takeover</a> BBC: Activists say security forces fired live rounds and tear gas at crowds, injuring around 100 people. 
+ <p class="updated_time"> 07:13 PM CT, Oct. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/science-environment-59051407?at_medium=RSS&at_campaign=KARANGA">Climate change: What's it like living in a place where it's 50C?</a> BBC: The BBC has spoken to people around the world about how extreme heat is changing their lives. 
  <p class="updated_time"> 06:51 PM CT, Oct. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59029517?at_medium=RSS&at_campaign=KARANGA">How the Taliban takeover changed my life</a> BBC: From office workers to students, Afghans share how their lives have changed since August. 
  <p class="updated_time"> 06:33 PM CT, Oct. 30 </p> 
@@ -27,8 +37,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/30/world/europe/g20-summit-merkel-scholz.html">Merkel's Likely Successor to Join Her for G20 Summit Talks</a> NYT: Olaf Scholz, who would have attended the G20 summit as finance minister, will also join Angela Merkel for talks with world leaders. 
  <p class="updated_time"> 04:01 PM CT, Oct. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59096578?at_medium=RSS&at_campaign=KARANGA">Saudi Arabia expels Lebanon ambassador amid Yemen row</a> BBC: The UAE, Kuwait and Bahrain also take diplomatic action in solidarity with the Saudis. 
- <p class="updated_time"> 03:15 PM CT, Oct. 30 </p> 
- <a href="https://www.nytimes.com/2021/10/30/world/americas/nyc-police-fire-vaccine-mandate.html">More New York City workers get Covid shots as deadline nears, but tensions remain.</a> NYT: The city’s effort to compel most city employees to receive the coronavirus vaccine before Monday appears to have rapidly boosted inoculation rates. 
  <p class="updated_time"> 03:11 PM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/30/world/africa/sudan-protests-coup.html">Protesters Killed in Sudan on Day Seen as a Test for the Military</a> NYT: Three demonstrators were fatally shot, a doctors’ group said, as crowds answered activists’ call for a “march of millions” against a coup that has threatened the country’s democratic transition. 
  <p class="updated_time"> 02:41 PM CT, Oct. 30 </p> 
@@ -39,6 +47,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/30/world/europe/g20-summit-covid-vaccines.html">Pressure Grows on G20 Nations to Get Covid Vaccines to Poorer Countries</a> NYT: Talk at the summit is focused on preventing future pandemics. Critics say the current one must be addressed first. 
  <p class="updated_time"> 01:53 PM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/30/world/middleeast/lebanon-ambassadors-saudi-gulf.html">Gulf States Withdraw Ambassadors to Lebanon Over Criticism of Yemen War</a> NYT: With a few stray comments from a minor minister, Lebanon once again found itself caught in the rivalry between Saudi Arabia and Iran, underscoring just how vulnerable it is to the whims of its more powerful neighbors. 
+ <p class="updated_time"> 01:03 PM CT, Oct. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-scotland-58669173?at_medium=RSS&at_campaign=KARANGA">COP26: How Glasgow is hosting world leaders</a> BBC: About 120 world leaders from US President Joe Biden to the prime minister of Andorra will be in Glasgow for COP26. 
  <p class="updated_time"> 12:43 PM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/30/world/middleeast/g20-summit-iran-nuclear.html">G20 Agenda Includes Nuclear Impasse With Iran</a> NYT: Biden administration officials have suggested that time is running out to salvage the 2015 accord under which Iran sharply curtailed its nuclear activities. 
  <p class="updated_time"> 12:30 PM CT, Oct. 30 </p> 
@@ -73,8 +83,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/29/world/nyc-vaccine-mandate-resistance.html">Tensions Rise with Next Phase of NYCs Vaccine Mandate</a> NYT: Last-minute shots brought thousands more workers in the Police, Fire and Sanitation Departments into compliance. 
  <p class="updated_time"> 08:39 AM CT, Oct. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59103657?at_medium=RSS&at_campaign=KARANGA">Indian PM Narendra Modi invites Pope for visit</a> BBC: The invitation is a significant turnaround, after negotiations for a papal visit collapsed in 2017. 
- <p class="updated_time"> 06:43 AM CT, Oct. 30 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-59054696?at_medium=RSS&at_campaign=KARANGA">COP26: What do the poorest countries want from climate summit?</a> BBC: Rich countries will get most of the attention, but developing countries are on climate change's front line. 
  <p class="updated_time"> 06:33 AM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/29/world/asia/pope-francis-modi-india.html">Pope Francis to Meet India's Narendra Modi for the First Time</a> NYT: The meeting comes amid increasing attacks on Christians in the South Asian nation, which is home to one of Asia’s oldest Christian populations. 
  <p class="updated_time"> 06:00 AM CT, Oct. 30 </p> 
@@ -137,8 +145,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/28/world/europe/france-detains-british-boat.html">France Detains British Boat as a Fight Over Fishing Rights Escalates</a> NYT: The British government summoned France’s ambassador for talks over the incident, the latest sign of cross-Channel tension between the two countries. 
  <p class="updated_time"> 11:44 AM CT, Oct. 29 </p> 
  <a href="https://www.wsj.com/articles/haitis-powerful-gangs-hold-country-hostage-over-fuel-11635540289">Haiti's Powerful Gangs Hold Country Hostage Over Fuel</a> WSJ: The country’s largest gang has blocked access to the fuel terminal that provides 70% of gas supplies, demanding the prime minister’s resignation. 
- <p class="updated_time"> 11:31 AM CT, Oct. 29 </p> 
- <a href="https://www.bbc.co.uk/news/58956714?at_medium=RSS&at_campaign=KARANGA">Climate change: What are the big polluters doing to cut carbon emissions?</a> BBC: The top emissions-producing nations all have plans to tackle global warming, but what progress are they making? 
  <p class="updated_time"> 11:23 AM CT, Oct. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59096297?at_medium=RSS&at_campaign=KARANGA">La Palma: 'Lava bomb' speeds down Cumbre Vieja volcano</a> BBC: Watch a ball of solidified molten rock rolling down from the Cumbre Vieja volcano. 
  <p class="updated_time"> 11:15 AM CT, Oct. 29 </p> 
@@ -153,6 +159,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/29/climate/europe-energy-crisis-cop.html">How Rising Energy Prices Have Complicated Europe's Climate Crisis</a> NYT: Prices for power have soared, and some politicians are now trying to use that as a lever to slow action on climate change, a strategy with far-reaching consequences. 
  <p class="updated_time"> 09:34 AM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/us/hurricane-storm-season.html">Is Hurricane Season Still Going? You Bet.</a> NYT: There hasn’t been a named storm in the Atlantic Ocean since early October, but about a month remains in the hurricane season. “Don’t raid your hurricane supplies yet,” said one meteorologist. 
+ <p class="updated_time"> 09:32 AM CT, Oct. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/science-environment-58925049?at_medium=RSS&at_campaign=KARANGA">COP26: What effect does methane have on climate change? And more questions</a> BBC: BBC science correspondent Matt McGrath answers your questions about Glasgow's COP26 climate summit. 
  <p class="updated_time"> 07:17 AM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/world/europe/cop26-pope-francis-climate.html">Pope Francis Urges 'Radical' Action at COP26 Climate Summit</a> NYT: Only urgent action can “offer concrete hope to future generations,” the pope said in a reflection broadcast on BBC radio. 
  <p class="updated_time"> 07:06 AM CT, Oct. 29 </p> 
@@ -161,8 +169,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/29/world/europe/will-the-vatican-grant-press-access-to-the-biden-pope-meeting-so-far-the-answer-is-no.html">Will the Vatican grant press access to the Biden-pope meeting? So far, the answer is no.</a> NYT: NA 
  <p class="updated_time"> 05:37 AM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/world/as-biden-and-francis-prepare-to-meet-the-us-catholic-church-remains-divided.html">As Biden and Francis meet, the U.S. Catholic Church remains divided.</a> NYT: NA 
- <p class="updated_time"> 04:56 AM CT, Oct. 29 </p> 
- <a href="https://www.bbc.co.uk/news/uk-politics-59084086?at_medium=RSS&at_campaign=KARANGA">COP26: Has Boris Johnson got what it takes to get a deal?</a> BBC: The UN climate summit is a huge test of diplomacy for the UK prime minister, with considerable political risks. 
  <p class="updated_time"> 04:20 AM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/world/the-popes-us-visit-in-2015-was-a-powerful-moment-for-biden.html">The pope’s U.S. visit in 2015 was a powerful moment for Biden.</a> NYT: NA 
  <p class="updated_time"> 04:00 AM CT, Oct. 29 </p> 
@@ -175,14 +181,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/28/world/europe/brescia-italy-winged-victory.html">After Time of ‘Real Terror,’ City’s Resilience Is Symbolized in Statue</a> NYT: Brescia, Italy, was one of the first Western cities devastated by the pandemic. It has adopted a famed ancient statue, “Winged Victory,” as the emblem of its recovery — and a prod for visits. 
  <p class="updated_time"> 08:45 PM CT, Oct. 28 </p> 
  <a href="https://www.bbc.co.uk/news/technology-59072745?at_medium=RSS&at_campaign=KARANGA">Inside the controversial US gunshot-detection firm</a> BBC: BBC News has been given access to ShotSpotter, the controversial US technology company that detects gunshots. 
- <p class="updated_time"> 07:22 PM CT, Oct. 28 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-59067310?at_medium=RSS&at_campaign=KARANGA">COP26: Four numbers to remember ahead of the climate change summit</a> BBC: The Queen cancelling her appearance and a climate pledge delayed - what do they mean for COP26? 
  <p class="updated_time"> 06:01 PM CT, Oct. 28 </p> 
  <a href="https://www.bbc.co.uk/sport/cycling/59063160?at_medium=RSS&at_campaign=KARANGA">Marshall 'Major' Taylor: The first black American world champion & his fight to the top</a> BBC: Marshall 'Major' Taylor was the first black American to become a world champion, in 1899. This is his largely forgotten story. 
  <p class="updated_time"> 04:25 PM CT, Oct. 28 </p> 
  <a href="https://www.nytimes.com/2021/10/28/world/meatpacking-workers-covid-cases-deaths.html">Covid Hit U.S. Meat Plants Far Harder Than Thought, Report Says</a> NYT: The industry had three times as many Covid infections in the pandemic’s early months as previously believed, a select committee says. 
- <p class="updated_time"> 07:12 PM CT, Oct. 25 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-58171814?at_medium=RSS&at_campaign=KARANGA">Climate change: Four things you can do about your carbon footprint</a> BBC: Small changes to our lifestyles and choices could limit our personal carbon footprint. 
 
 
 </details>
