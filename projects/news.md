@@ -7,9 +7,11 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:23 AM CT, Oct. 31 </p> 
+ <p class="updated_time"> 11:52 AM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/31/world/europe/g20-climate-temperature-rise.html">G20 Leaders Agree on 1.5-Degree Climate Goal</a> NYT: Countries will “pursue efforts” to limit global temperature rise to 1.5 degrees Celsius, compared with preindustrial times. 
- <p class="updated_time"> 11:12 AM CT, Oct. 31 </p> 
+ <p class="updated_time"> 11:49 AM CT, Oct. 31 </p> 
+ <a href="https://www.nytimes.com/2021/10/31/world/asia/afghanistan-taliban-artists.html">Afghan Art Flourished for 20 Years. Can It Survive the New Taliban Regime?</a> NYT: So far, the Taliban have not banned art outright. But many artists have fled Afghanistan, fearing for their work and their lives. 
+ <p class="updated_time"> 11:38 AM CT, Oct. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-59109186?at_medium=RSS&at_campaign=KARANGA">G20 pledge climate action but make few commitments</a> BBC: The agreement between the world's richest economies makes no reference to cutting emissions by 2050. 
  <p class="updated_time"> 10:38 AM CT, Oct. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59103664?at_medium=RSS&at_campaign=KARANGA">Several injured in knife and arson attack on Tokyo underground train</a> BBC: Police have arrested a man in his 20s at the scene of the incident on an underground train line. 
@@ -167,8 +169,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/science-environment-58925049?at_medium=RSS&at_campaign=KARANGA">COP26: What effect does methane have on climate change? And more questions</a> BBC: BBC science correspondent Matt McGrath answers your questions about Glasgow's COP26 climate summit. 
  <p class="updated_time"> 07:17 AM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/world/europe/cop26-pope-francis-climate.html">Pope Francis Urges 'Radical' Action at COP26 Climate Summit</a> NYT: Only urgent action can “offer concrete hope to future generations,” the pope said in a reflection broadcast on BBC radio. 
- <p class="updated_time"> 07:06 AM CT, Oct. 29 </p> 
- <a href="https://www.nytimes.com/2021/10/29/world/australia/nuclear-powered-submarines.html">Nuclear-Powered Submarines for Australia? Maybe Not So Fast.</a> NYT: Australia’s plan to build the submarines with U.S. and British help faces big hurdles. Supporters say they can be overcome. Critics say they may be too much. 
  <p class="updated_time"> 06:47 AM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/world/europe/will-the-vatican-grant-press-access-to-the-biden-pope-meeting-so-far-the-answer-is-no.html">Will the Vatican grant press access to the Biden-pope meeting? So far, the answer is no.</a> NYT: NA 
  <p class="updated_time"> 05:37 AM CT, Oct. 29 </p> 
