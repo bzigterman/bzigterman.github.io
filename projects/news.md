@@ -177,12 +177,12 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/29/us/politics/biden-g20-summit.html">Biden Declared 'America is Back' in June. The World Is About to Test Him.</a> NYT: Arriving in Europe with an unfinished economic and environmental spending plan, the president will confront new challenges, some self-inflicted, at two major summits. 
  <p class="updated_time"> 01:17 AM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/world/australia/saying-goodbye-to-melbournes-long-lockdown-again.html">Saying Goodbye to Melbourne’s Long Lockdown (Again)</a> NYT: It’s been a year and a day since the first time Melbourne reopened. Some things have changed. Some haven’t. 
- <p class="updated_time"> 10:45 PM CT, Oct. 28 </p> 
- <a href="https://www.nytimes.com/2021/10/28/world/europe/brescia-italy-winged-victory.html">After Time of ‘Real Terror,’ City’s Resilience Is Symbolized in Statue</a> NYT: Brescia, Italy, was one of the first Western cities devastated by the pandemic. It has adopted a famed ancient statue, “Winged Victory,” as the emblem of its recovery — and a prod for visits. 
  <p class="updated_time"> 08:45 PM CT, Oct. 28 </p> 
  <a href="https://www.bbc.co.uk/news/technology-59072745?at_medium=RSS&at_campaign=KARANGA">Inside the controversial US gunshot-detection firm</a> BBC: BBC News has been given access to ShotSpotter, the controversial US technology company that detects gunshots. 
  <p class="updated_time"> 06:01 PM CT, Oct. 28 </p> 
  <a href="https://www.bbc.co.uk/sport/cycling/59063160?at_medium=RSS&at_campaign=KARANGA">Marshall 'Major' Taylor: The first black American world champion & his fight to the top</a> BBC: Marshall 'Major' Taylor was the first black American to become a world champion, in 1899. This is his largely forgotten story. 
+ <p class="updated_time"> 04:25 PM CT, Oct. 28 </p> 
+ <a href="https://www.nytimes.com/2021/10/28/world/meatpacking-workers-covid-cases-deaths.html">Covid Hit U.S. Meat Plants Far Harder Than Thought, Report Says</a> NYT: The industry had three times as many Covid infections in the pandemic’s early months as previously believed, a select committee says. 
 
 
 </details>
