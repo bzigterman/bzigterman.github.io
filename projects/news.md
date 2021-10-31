@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:30 AM CT, Oct. 31 </p> 
+ <a href="https://www.bbc.co.uk/news/world-59109186?at_medium=RSS&at_campaign=KARANGA">G20 in final push to reach deal on climate at Rome summit</a> BBC: The leaders of the world's richest economies are looking for an agreement ahead of COP26. 
  <p class="updated_time"> 04:26 AM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/30/world/g20-photos.html">Photos From the G20 Summit in Rome</a> NYT: Colorful protests outside the G20 meetings, and in them, exchanges between world leaders. 
  <p class="updated_time"> 04:14 AM CT, Oct. 31 </p> 
@@ -67,8 +69,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59104781?at_medium=RSS&at_campaign=KARANGA">Igor Kirillov: TV man known as the face of the USSR dies at 89</a> BBC: Soviet TV's chief newsreader anchored major events in the country that collapsed in 1991. 
  <p class="updated_time"> 12:08 PM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/30/world/europe/russia-gas-pipeline-nordstream-putin.html">A Russian Pipeline Changes Direction, and Energy Politics Come to the Fore</a> NYT: Amid an energy crunch in Europe, one of Russia’s largest natural gas pipelines began pulling gas out of Western Europe back eastward, Russian news agencies reported. 
- <p class="updated_time"> 12:03 PM CT, Oct. 30 </p> 
- <a href="https://www.bbc.co.uk/news/world-59101218?at_medium=RSS&at_campaign=KARANGA">G20: World leaders agree to historic corporate tax deal</a> BBC: Leaders at the G20 in Rome endorse a proposal that sets a minimum tax rate of 15% on big businesses. 
  <p class="updated_time"> 11:16 AM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/30/world/europe/g20-biden-corporate-tax-agreement.html">Biden Finds Raising Corporate Tax Rates Easier Abroad Than at Home</a> NYT: As the Group of 20 seals a new global minimum tax for companies, the president has scaled back his plans to tax U.S. corporations more. 
  <p class="updated_time"> 11:01 AM CT, Oct. 30 </p> 
