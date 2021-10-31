@@ -8,6 +8,6 @@ permalink: /projects/weather/
 
 ![](https://www.spc.noaa.gov/products/activity_loop.gif)
 
-Source: [NWS](https://www.spc.noaa.gov)
+<p class="updated_time">Source: <a href="https://www.spc.noaa.gov">NWS</a>.</p> 
 
 
