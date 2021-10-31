@@ -7,12 +7,14 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:38 AM CT, Oct. 31 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59103664?at_medium=RSS&at_campaign=KARANGA">Several injured in knife and arson attack on Tokyo underground train</a> BBC: Police have arrested a man in his 20s at the scene of the incident on an underground train line. 
+ <p class="updated_time"> 10:22 AM CT, Oct. 31 </p> 
+ <a href="https://www.nytimes.com/2021/10/30/world/asia/japan-election-fumio-kishida.html">Japan Election: Kishida Struggles to Connect With Voters</a> NYT: The governing Liberal Democrats won on Sunday, despite having chosen a prime minister, Fumio Kishida, who’s known for his lack of charisma. 
  <p class="updated_time"> 10:10 AM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/31/world/europe/uk-police-sexual-misconduct.html">U.K. Police Struggle to Curb Abuse of Women by Their Own Officers</a> NYT: Sexual misconduct by police officers has prompted outrage across Britain and led to increasing skepticism that departments can investigate or discipline employees who abuse women. 
  <p class="updated_time"> 10:06 AM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/31/us/politics/saudi-investment-conference-trump-allies.html">Trump Allies Are Prominent at Saudi Investment Conference</a> NYT: But the Biden administration sent only a deputy commerce secretary to the high-profile gathering, amid shifts in global politics and diplomatic strains. 
- <p class="updated_time"> 10:05 AM CT, Oct. 31 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59103664?at_medium=RSS&at_campaign=KARANGA">Several injured in knife and arson attack on Tokyo underground train</a> BBC: Police have arrested a man in his 20s at the scene of the incident on an underground train line. 
  <p class="updated_time"> 09:33 AM CT, Oct. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59110828?at_medium=RSS&at_campaign=KARANGA">Japan election: Ruling LDP set for reduced majority - exit polls</a> BBC: Prime Minister Fumio Kishida's party will have a reduced majority in the lower house, exit polls say. 
  <p class="updated_time"> 09:33 AM CT, Oct. 31 </p> 
@@ -57,8 +59,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/sport/59089726?at_medium=RSS&at_campaign=KARANGA">Black History Month: Five sportspeople whose hair is their magic</a> BBC: Patsy Goodwin looks at five athletes who have made their hair their superpower and inspired a generation of young black people to do the same. 
  <p class="updated_time"> 11:10 PM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/30/world/middleeast/lebanon-ambassadors-saudi-gulf.html">Gulf States Withdraw Ambassadors to Lebanon Over Criticism of Yemen War</a> NYT: With a few stray comments from a minor minister, Lebanon once again found itself caught in the rivalry between Saudi Arabia and Iran, underscoring just how vulnerable it is to the whims of its more powerful neighbors. 
- <p class="updated_time"> 09:45 PM CT, Oct. 30 </p> 
- <a href="https://www.nytimes.com/2021/10/30/world/asia/japan-election-fumio-kishida.html">Japan Election: Kishida Struggles to Connect With Voters</a> NYT: The governing Liberal Democrats are expected to win Sunday, despite having chosen a prime minister, Fumio Kishida, who’s known for his lack of charisma. 
  <p class="updated_time"> 08:26 PM CT, Oct. 30 </p> 
  <a href="https://www.bbc.co.uk/news/stories-59064579?at_medium=RSS&at_campaign=KARANGA">‘As a child I saw the plane crash that killed my sisters'</a> BBC: Harriet was waving her sisters off when the plane left the runway and burned. Now she's finding others linked to the tragedy. 
  <p class="updated_time"> 08:10 PM CT, Oct. 30 </p> 
@@ -188,6 +188,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:30 AM CT, Oct. 31 </p> 
+ <a href="https://www.nytimes.com/2021/10/31/us/politics/paid-family-leave.html">Why Paid Family Leave’s Demise This Time Could Fuel It Later</a> NYT: In failing to secure a benefit with bipartisan appeal, President Biden joins a long line of frustrated politicians. But some Republicans say it could be resurrected on its own. 
  <p class="updated_time"> 10:11 AM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/30/us/politics/virginia-governors-election.html">What the Virginia Election Result Will Mean for Democrats and Republicans</a> NYT: Republicans hope to hit on a recipe for renewal, while Democrats worry that a loss could force them to defend seats in blue states next year. 
  <p class="updated_time"> 10:06 AM CT, Oct. 31 </p> 
@@ -236,8 +238,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/10/29/biden-agenda-stalled-again-chaos-517711">Jayapal warned Klain not to push an infrastructure vote. Then chaos ensued.</a> Politico: It started when a top House progressive and the White House chief of staff got on the phone. It ended with sheer Democratic frustration. 
  <p class="updated_time"> 03:27 PM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/us/politics/immigration-remain-mexico.html">Another Attempt to End 'Remain in Mexico' Immigration Policy</a> NYT: A court ordered the administration in August to reinstate the program, which forces some migrants to wait in Mexico while their asylum cases are pending. 
- <p class="updated_time"> 03:04 PM CT, Oct. 29 </p> 
- <a href="https://www.nytimes.com/2021/10/29/nyregion/letitia-james-governor.html">Letitia James Is Running for Governor of New York</a> NYT: The attorney general, who oversaw the inquiry into sexual harassment allegations against Andrew Cuomo, will challenge Gov. Kathy Hochul for the Democratic nomination. 
  <p class="updated_time"> 09:58 AM CT, Oct. 29 </p> 
  <a href="https://www.politico.com/news/2021/10/29/jan-6-committee-capitol-rioter-517602">Jan. 6 committee set to interview rioter who breached the Capitol</a> Politico: Heather Shaner, an attorney who represents multiple defendants in Jan. 6 cases, confirmed that one of her clients will be remotely interviewed Friday afternoon. 
  <p class="updated_time"> 09:37 AM CT, Oct. 29 </p> 
