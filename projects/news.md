@@ -7,12 +7,14 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:25 AM CT, Oct. 31 </p> 
+ <p class="updated_time"> 09:33 AM CT, Oct. 31 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59110828?at_medium=RSS&at_campaign=KARANGA">Japan election: Ruling LDP set for reduced majority - exit polls</a> BBC: Prime Minister Fumio Kishida's party will have a reduced majority in the lower house, exit polls say. 
+ <p class="updated_time"> 09:33 AM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/31/world/europe/biden-putin-russia-united-states.html">Rivals on World Stage, Russia and U.S. Quietly Seek Areas of Accord</a> NYT: There have been a series of beneath-the-surface meetings between the two countries as the Biden administration applies a more sober approach to relations with the Kremlin. 
+ <p class="updated_time"> 09:26 AM CT, Oct. 31 </p> 
+ <a href="https://www.bbc.co.uk/news/world-59109186?at_medium=RSS&at_campaign=KARANGA">G20 pledge climate action but make few commitments</a> BBC: The agreement between the world's richest economies makes no reference to cutting emissions by 2050. 
  <p class="updated_time"> 09:07 AM CT, Oct. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59103664?at_medium=RSS&at_campaign=KARANGA">Several injured in Tokyo knife and arson attack on train</a> BBC: Police have arrested a man in his 20s at the scene of the incident along a major Tokyo train line. 
- <p class="updated_time"> 08:54 AM CT, Oct. 31 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59110828?at_medium=RSS&at_campaign=KARANGA">Japan election: Ruling LDP set for reduced majority - exit polls</a> BBC: Prime Minister Fumio Kishida's party will have a reduced majority in the lower house, exit polls say. 
  <p class="updated_time"> 08:29 AM CT, Oct. 31 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59110239?at_medium=RSS&at_campaign=KARANGA">Stars of music enter the Rock and Roll Hall of Fame</a> BBC: Carole King, Jay-Z and Foo Fighters and others were inducted at a star studded Rock and Roll Hall of Fame ceremony. 
  <p class="updated_time"> 08:23 AM CT, Oct. 31 </p> 
@@ -25,8 +27,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-59087311?at_medium=RSS&at_campaign=KARANGA">ICYMI: A baby rhino and million dollar trainers</a> BBC: A roundup of stories you might have missed this week, including a hoverbike and million dollar trainers. 
  <p class="updated_time"> 06:24 AM CT, Oct. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59109560?at_medium=RSS&at_campaign=KARANGA">Yemen: Nine killed in Aden airport car bomb</a> BBC: The attack near Aden's airport is the deadliest to strike the temporary capital since last year. 
- <p class="updated_time"> 05:52 AM CT, Oct. 31 </p> 
- <a href="https://www.bbc.co.uk/news/world-59109186?at_medium=RSS&at_campaign=KARANGA">G20 in final push to reach deal on climate at Rome summit</a> BBC: The leaders of the world's richest economies are looking for an agreement ahead of COP26. 
  <p class="updated_time"> 05:51 AM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/30/world/americas/g20-summit-rome-covid-protests-biden-draghi.html">Pressure Grows on G20 Nations to Get Covid Vaccines to the Poor</a> NYT: The world’s leaders are focusing on preventing future pandemics, but experts say rich nations are not doing enough to help the poor survive the current one. 
  <p class="updated_time"> 05:51 AM CT, Oct. 31 </p> 
