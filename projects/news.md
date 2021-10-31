@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:00 AM CT, Oct. 31 </p> 
+ <a href="https://www.nytimes.com/2021/10/31/world/europe/uk-police-sexual-misconduct.html">U.K. Police Struggle to Curb Abuse of Women by Their Own Officers</a> NYT: Sexual misconduct by police officers has prompted outrage across Britain, and led to increasing skepticism that departments can investigate or discipline employees who abuse women. 
+ <p class="updated_time"> 03:54 AM CT, Oct. 31 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-scotland-58669173?at_medium=RSS&at_campaign=KARANGA">COP26: How Glasgow is hosting world leaders</a> BBC: About 120 world leaders from US President Joe Biden to the prime minister of Andorra will be in Glasgow for COP26. 
  <p class="updated_time"> 03:38 AM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/30/world/what-is-the-g20.html">What Is the G20?</a> NYT: The Group of 20 aims to unite world leaders around shared economic, political and health challenges. It also serves as an all-purpose jamboree of diplomatic activity. 
  <p class="updated_time"> 02:02 AM CT, Oct. 31 </p> 
@@ -53,8 +57,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/30/world/g20-photos.html">Photos From the G20 Summit in Rome</a> NYT: Colorful protests outside the G20 meetings, and in them, exchanges between world leaders. 
  <p class="updated_time"> 02:01 PM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/30/world/europe/g20-summit-covid-vaccines.html">Pressure Grows on G20 Nations to Get Covid Vaccines to Poorer Countries</a> NYT: Talk at the summit is focused on preventing future pandemics. Critics say the current one must be addressed first. 
- <p class="updated_time"> 01:03 PM CT, Oct. 30 </p> 
- <a href="https://www.bbc.co.uk/news/uk-scotland-58669173?at_medium=RSS&at_campaign=KARANGA">COP26: How Glasgow is hosting world leaders</a> BBC: About 120 world leaders from US President Joe Biden to the prime minister of Andorra will be in Glasgow for COP26. 
  <p class="updated_time"> 12:43 PM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/30/world/middleeast/g20-summit-iran-nuclear.html">G20 Agenda Includes Nuclear Impasse With Iran</a> NYT: Biden administration officials have suggested that time is running out to salvage the 2015 accord under which Iran sharply curtailed its nuclear activities. 
  <p class="updated_time"> 12:30 PM CT, Oct. 30 </p> 
@@ -181,8 +183,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/technology-59072745?at_medium=RSS&at_campaign=KARANGA">Inside the controversial US gunshot-detection firm</a> BBC: BBC News has been given access to ShotSpotter, the controversial US technology company that detects gunshots. 
  <p class="updated_time"> 06:01 PM CT, Oct. 28 </p> 
  <a href="https://www.bbc.co.uk/sport/cycling/59063160?at_medium=RSS&at_campaign=KARANGA">Marshall 'Major' Taylor: The first black American world champion & his fight to the top</a> BBC: Marshall 'Major' Taylor was the first black American to become a world champion, in 1899. This is his largely forgotten story. 
- <p class="updated_time"> 04:25 PM CT, Oct. 28 </p> 
- <a href="https://www.nytimes.com/2021/10/28/world/meatpacking-workers-covid-cases-deaths.html">Covid Hit U.S. Meat Plants Far Harder Than Thought, Report Says</a> NYT: The industry had three times as many Covid infections in the pandemic’s early months as previously believed, a select committee says. 
 
 
 </details>
@@ -190,7 +190,7 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
- <p class="updated_time"> 11:07 PM CT, Oct. 30 </p> 
+ <p class="updated_time"> 04:14 AM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/30/world/americas/g20-summit-rome-covid-protests-biden-draghi.html">Pressure Grows on G20 Nations to Get Covid Vaccines to the Poor</a> NYT: The world’s leaders are focusing on preventing future pandemics, but experts say rich nations are not doing enough to help the poor survive the current one. 
  <p class="updated_time"> 05:24 PM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/30/movies/alec-baldwin-rust-shooting-timeline.html">How the Shooting on the Alec Baldwin Set Happened</a> NYT: A reconstruction of the events leading up to the fatal shooting of the cinematographer of “Rust,” the Alec Baldwin western, reveals a troubled production and a series of errors. 
