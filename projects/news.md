@@ -39,6 +39,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59103664?at_medium=RSS&at_campaign=KARANGA">At least 17 injured in Tokyo subway knife and arson attack</a> BBC: Video footage shows passengers desperately running from fire and a man said to be wielding a knife. 
  <p class="updated_time"> 01:18 PM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/30/business/economy/biden-steel-tariffs-europe.html">Biden Rolls Back Trump's Metal Tariffs On European Union</a> NYT: The deal, which comes as U.S. and E.U. allies meet in Rome, will keep some trade protections in place in a nod to metalworking unions that supported President Biden. 
+ <p class="updated_time"> 12:56 PM CT, Oct. 31 </p> 
+ <a href="https://www.wsj.com/articles/japans-ruling-coalition-set-to-keep-majority-in-election-projection-shows-11635679065">Japan's Ruling Party Keeps Majority in Election</a> WSJ: The ruling Liberal Democratic Party won a clear majority in national elections, allowing new Prime Minister Fumio Kishida to build a solid foundation for a government tackling security threats from China and North Korea. 
  <p class="updated_time"> 12:02 PM CT, Oct. 31 </p> 
  <a href="https://www.wsj.com/articles/left-behind-after-u-s-withdrawal-some-former-afghan-spies-and-soldiers-turn-to-islamic-state-11635691605">Former Afghan Spies and Soldiers Turn to ISIS After U.S. Exit</a> WSJ: Hunted by the Taliban and lacking income, some members of Afghanistan’s disbanded security forces are enlisting in the only force currently challenging the country’s new rules. 
  <p class="updated_time"> 11:52 AM CT, Oct. 31 </p> 
@@ -55,8 +57,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/31/world/europe/uk-police-sexual-misconduct.html">U.K. Police Struggle to Curb Abuse of Women by Their Own Officers</a> NYT: Sexual misconduct by police officers has prompted outrage across Britain and led to increasing skepticism that departments can investigate or discipline employees who abuse women. 
  <p class="updated_time"> 10:06 AM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/31/us/politics/saudi-investment-conference-trump-allies.html">Trump Allies Are Prominent at Saudi Investment Conference</a> NYT: But the Biden administration sent only a deputy commerce secretary to the high-profile gathering, amid shifts in global politics and diplomatic strains. 
- <p class="updated_time"> 09:02 AM CT, Oct. 31 </p> 
- <a href="https://www.wsj.com/articles/japans-ruling-coalition-set-to-keep-majority-in-election-projection-shows-11635679065">Japan's Ruling Party Keeps Majority in Election</a> WSJ: The ruling Liberal Democratic Party won a clear majority in national elections, allowing new Prime Minister Fumio Kishida to build a solid foundation for a government tackling security threats from China and North Korea. 
  <p class="updated_time"> 08:58 AM CT, Oct. 31 </p> 
  <a href="https://www.wsj.com/articles/a-nation-learns-to-love-movie-popcornwithout-the-movie-11635703138">A Nation Learns to Love Movie Popcorn---Without the Movie</a> WSJ: South Korea’s Covid-19 restrictions banned eating popcorn in theaters, so moviegoers chowed down in the lobby or had tubs delivered to their homes. Others went rogue; ‘I chewed as quietly as I could.’ 
  <p class="updated_time"> 08:29 AM CT, Oct. 31 </p> 
@@ -177,6 +177,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/science-environment-58925049?at_medium=RSS&at_campaign=KARANGA">COP26: What effect does methane have on climate change? And more questions</a> BBC: BBC science correspondent Matt McGrath answers your questions about Glasgow's COP26 climate summit. 
  <p class="updated_time"> 04:00 AM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/world/europe/roma-hip-hop-band-serbia-pretty-loud.html">‘Different Way of Fighting’: Lyrics Are the Weapons of All-Women Roma Band</a> NYT: Many Roma women face pressures to marry young and take on traditional gender roles. Pretty Loud, a hip-hop group from Serbia, wants girls to decide for themselves. 
+ <p class="updated_time"> 11:10 AM CT, Oct. 25 </p> 
+ <a href="https://www.bbc.co.uk/news/science-environment-56901261?at_medium=RSS&at_campaign=KARANGA">COP26: What is the Glasgow climate conference and why is it important?</a> BBC: A crucial climate change summit is being held in the UK - this is why it's important. 
 
 
 </details>
