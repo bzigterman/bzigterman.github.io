@@ -7,14 +7,18 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:10 AM CT, Oct. 31 </p> 
+ <a href="https://www.nytimes.com/2021/10/31/world/europe/uk-police-sexual-misconduct.html">U.K. Police Struggle to Curb Abuse of Women by Their Own Officers</a> NYT: Sexual misconduct by police officers has prompted outrage across Britain and led to increasing skepticism that departments can investigate or discipline employees who abuse women. 
+ <p class="updated_time"> 10:06 AM CT, Oct. 31 </p> 
+ <a href="https://www.nytimes.com/2021/10/31/us/politics/saudi-investment-conference-trump-allies.html">Trump Allies Are Prominent at Saudi Investment Conference</a> NYT: But the Biden administration sent only a deputy commerce secretary to the high-profile gathering, amid shifts in global politics and diplomatic strains. 
+ <p class="updated_time"> 10:05 AM CT, Oct. 31 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59103664?at_medium=RSS&at_campaign=KARANGA">Several injured in knife and arson attack on Tokyo underground train</a> BBC: Police have arrested a man in his 20s at the scene of the incident on an underground train line. 
  <p class="updated_time"> 09:33 AM CT, Oct. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59110828?at_medium=RSS&at_campaign=KARANGA">Japan election: Ruling LDP set for reduced majority - exit polls</a> BBC: Prime Minister Fumio Kishida's party will have a reduced majority in the lower house, exit polls say. 
  <p class="updated_time"> 09:33 AM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/31/world/europe/biden-putin-russia-united-states.html">Rivals on World Stage, Russia and U.S. Quietly Seek Areas of Accord</a> NYT: There have been a series of beneath-the-surface meetings between the two countries as the Biden administration applies a more sober approach to relations with the Kremlin. 
  <p class="updated_time"> 09:26 AM CT, Oct. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-59109186?at_medium=RSS&at_campaign=KARANGA">G20 pledge climate action but make few commitments</a> BBC: The agreement between the world's richest economies makes no reference to cutting emissions by 2050. 
- <p class="updated_time"> 09:07 AM CT, Oct. 31 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59103664?at_medium=RSS&at_campaign=KARANGA">Several injured in Tokyo knife and arson attack on train</a> BBC: Police have arrested a man in his 20s at the scene of the incident along a major Tokyo train line. 
  <p class="updated_time"> 08:29 AM CT, Oct. 31 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59110239?at_medium=RSS&at_campaign=KARANGA">Stars of music enter the Rock and Roll Hall of Fame</a> BBC: Carole King, Jay-Z and Foo Fighters and others were inducted at a star studded Rock and Roll Hall of Fame ceremony. 
  <p class="updated_time"> 08:23 AM CT, Oct. 31 </p> 
@@ -45,8 +49,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59103658?at_medium=RSS&at_campaign=KARANGA">'Father of tiramisu' Ado Campeol dies aged 93</a> BBC: Campeol owned a restaurant in Italy where the dessert was invented by his wife and a pastry chef. 
  <p class="updated_time"> 04:26 AM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/30/world/g20-photos.html">Photos From the G20 Summit in Rome</a> NYT: Colorful protests outside the G20 meetings, and in them, exchanges between world leaders. 
- <p class="updated_time"> 04:00 AM CT, Oct. 31 </p> 
- <a href="https://www.nytimes.com/2021/10/31/world/europe/uk-police-sexual-misconduct.html">U.K. Police Struggle to Curb Abuse of Women by Their Own Officers</a> NYT: Sexual misconduct by police officers has prompted outrage across Britain, and led to increasing skepticism that departments can investigate or discipline employees who abuse women. 
  <p class="updated_time"> 03:54 AM CT, Oct. 31 </p> 
  <a href="https://www.bbc.co.uk/news/uk-scotland-58669173?at_medium=RSS&at_campaign=KARANGA">COP26: How Glasgow is hosting world leaders</a> BBC: About 120 world leaders from US President Joe Biden to the prime minister of Andorra will be in Glasgow for COP26. 
  <p class="updated_time"> 03:38 AM CT, Oct. 31 </p> 
@@ -186,6 +188,12 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:11 AM CT, Oct. 31 </p> 
+ <a href="https://www.nytimes.com/2021/10/30/us/politics/virginia-governors-election.html">What the Virginia Election Result Will Mean for Democrats and Republicans</a> NYT: Republicans hope to hit on a recipe for renewal, while Democrats worry that a loss could force them to defend seats in blue states next year. 
+ <p class="updated_time"> 10:06 AM CT, Oct. 31 </p> 
+ <a href="https://www.nytimes.com/2021/10/31/us/politics/saudi-investment-conference-trump-allies.html">Trump Allies Are Prominent at Saudi Investment Conference</a> NYT: But the Biden administration sent only a deputy commerce secretary to the high-profile gathering, amid shifts in global politics and diplomatic strains. 
+ <p class="updated_time"> 09:58 AM CT, Oct. 31 </p> 
+ <a href="https://www.nytimes.com/2021/10/31/us/politics/kavanaugh-texas-abortion-law.html">In Texas Abortion Law Case, a Spotlight on Brett Kavanaugh</a> NYT: If the Supreme Court is to reverse course after refusing to block the law in September, at least one conservative justice must change positions. Justice Kavanaugh is the most likely candidate. 
  <p class="updated_time"> 09:16 AM CT, Oct. 31 </p> 
  <a href="https://www.politico.com/news/2021/10/31/kinzinger-house-republicans-trump-517943">Kinzinger wants House Republicans to find some courage</a> Politico: The Illinois Republican, who announced he was not seeking reelection, hopes those who will remain in Congress will stand up to former President Donald Trump. 
  <p class="updated_time"> 05:51 AM CT, Oct. 31 </p> 
@@ -198,8 +206,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/29/world/europe/biden-g20.html">Biden Eases Fray With France and Savors Meeting With Pope as Europe Trip Begins</a> NYT: Mr. Biden sought to mend ties with France’s president over a sabotaged French submarine contract, and expressed gratitude toward Pope Francis after a 90-minute meeting. 
  <p class="updated_time"> 05:24 PM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/30/movies/alec-baldwin-rust-shooting-timeline.html">How the Shooting on the Alec Baldwin Set Happened</a> NYT: A reconstruction of the events leading up to the fatal shooting of the cinematographer of “Rust,” the Alec Baldwin western, reveals a troubled production and a series of errors. 
- <p class="updated_time"> 01:58 PM CT, Oct. 30 </p> 
- <a href="https://www.nytimes.com/2021/10/30/us/politics/virginia-governors-election.html">What the Virginia Election Result Will Mean for Democrats and Republicans</a> NYT: Republicans hope to hit on a recipe for renewal, while Democrats worry that a loss could force them to defend seats in blue states next year. 
  <p class="updated_time"> 01:16 PM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/30/us/politics/eastman-pence-capitol-riot.html">John Eastman Blamed Pence for Violence at Jan. 6 Riot</a> NYT: John Eastman, the author of a memo that some in both parties liken to a blueprint for a coup, sent a hostile email to the vice president’s chief counsel as the mob attacked. 
  <p class="updated_time"> 11:39 AM CT, Oct. 30 </p> 
@@ -214,14 +220,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/30/us/politics/trump-capitol-riot-inquiry.html">Court Filing Lists Documents Trump Seeks to Withhold From Jan. 6 Inquiry</a> NYT: The National Archives says the former president is asserting executive privilege over phone logs, notes and other records concerning the attack on the Capitol. 
  <p class="updated_time"> 04:00 AM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/30/science/tsar-bomba-60.html">Tsar Bomba Nuclear Test 60 Years Ago Didn't Make J.F.K. Flinch</a> NYT: A new study offers insights into how the United States reacted to Tsar Bomba, a planet shaker that made the deadly Hiroshima blast look tame. 
- <p class="updated_time"> 10:27 PM CT, Oct. 29 </p> 
- <a href="https://www.nytimes.com/2021/10/29/us/politics/andreessen-horowitz-lobbying-cryptocurrency.html">Andreessen Horowitz's Plan to Dominate Crypto</a> NYT: The Silicon Valley firm Andreessen Horowitz, whose founders played big roles in the development of the internet, aims to own a huge part of the digital currency world — and set the rules for it, too. 
  <p class="updated_time"> 10:16 PM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/upshot/democrats-preschool-child-care.html">What the Democrats’ Plan Would Do for Parents</a> NYT: Paid family leave was dropped. Public pre-K and subsidized child care remain, and could substantially lower the cost of raising children. 
  <p class="updated_time"> 10:03 PM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/us/politics/coronavirus-origin-intelligence-report.html">Origin of Virus May Remain Murky, U.S. Intelligence Agencies Say</a> NYT: A declassified report said a clearer answer would require more information from Beijing or new discoveries and reiterated divisions over natural causes vs. a lab leak. 
- <p class="updated_time"> 08:01 PM CT, Oct. 29 </p> 
- <a href="https://www.nytimes.com/2021/10/29/arts/in-this-house-yard-signs.html">‘In This House’ Yard Signs, and Their Curious Power</a> NYT: How a lawn sign inspired by mom décor became a liberal mantra — and a symbol of a political battle over white womanhood. 
  <p class="updated_time"> 07:52 PM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/us/politics/immigration-green-cards-visas.html">Democrats’ Plan to Overhaul Legal Immigration Focuses on Green Card Backlog</a> NYT: A proposal in President Biden’s social spending bill would make hundreds of thousands of unused green cards available for immigrants. But it faces an uncertain future under Senate rules. 
  <p class="updated_time"> 05:46 PM CT, Oct. 29 </p> 
