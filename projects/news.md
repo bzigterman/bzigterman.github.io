@@ -186,6 +186,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 01:40 PM CT, Oct. 31 </p> 
+ <a href="https://www.nytimes.com/2021/10/31/business/economy/global-shipping-delays.html">Global Shipping Delays Loom Over Retailers for the Holidays</a> NYT: The travails of a Chicago fishing company’s advent calendar highlight the supply chain hurdles for businesses trying to deliver items in time for the holidays. 
  <p class="updated_time"> 01:18 PM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/30/business/economy/biden-steel-tariffs-europe.html">Biden Rolls Back Trump's Metal Tariffs On European Union</a> NYT: The deal, which comes as U.S. and E.U. allies meet in Rome, will keep some trade protections in place in a nod to metalworking unions that supported President Biden. 
  <p class="updated_time"> 12:46 PM CT, Oct. 31 </p> 
@@ -236,8 +238,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/29/us/politics/office-access-justice-legal-aid.html">Garland Revives Effort to Expand Access to Legal Aid</a> NYT: The attorney general acted to reverse a Trump administration decision to cut off funding for the Office for Access to Justice, an Obama-era program to give poor defendants legal representation. 
  <p class="updated_time"> 05:30 PM CT, Oct. 29 </p> 
  <a href="https://www.politico.com/news/2021/10/29/you-have-a-manchin-problem-paid-leave-tossed-aside-despite-wooing-of-wva-senator-517731">Manchin upends paid leave, a benefit ‘personal to the president’</a> Politico: "We kept hearing, 'You have a Manchin problem,'" Molly Day, executive director of Paid Leave for the U.S., said. "So we kept digging in." 
- <p class="updated_time"> 04:49 PM CT, Oct. 29 </p> 
- <a href="https://www.nytimes.com/2021/10/29/business/trump-spac-digital-world.html">Trump’s $300 Million SPAC Deal May Have Skirted Securities Laws</a> NYT: The former president began discussing a deal with a ‘blank check’ company early this year. Investors weren’t told. 
  <p class="updated_time"> 04:47 PM CT, Oct. 29 </p> 
  <a href="https://www.politico.com/news/2021/10/29/biden-agenda-stalled-again-chaos-517711">Jayapal warned Klain not to push an infrastructure vote. Then chaos ensued.</a> Politico: It started when a top House progressive and the White House chief of staff got on the phone. It ended with sheer Democratic frustration. 
  <p class="updated_time"> 09:58 AM CT, Oct. 29 </p> 
