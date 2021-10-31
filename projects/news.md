@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:52 AM CT, Oct. 31 </p> 
+ <a href="https://www.bbc.co.uk/news/world-59109186?at_medium=RSS&at_campaign=KARANGA">G20 in final push to reach deal on climate at Rome summit</a> BBC: The leaders of the world's richest economies are looking for an agreement ahead of COP26. 
  <p class="updated_time"> 05:51 AM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/30/world/americas/g20-summit-rome-covid-protests-biden-draghi.html">Pressure Grows on G20 Nations to Get Covid Vaccines to the Poor</a> NYT: The world’s leaders are focusing on preventing future pandemics, but experts say rich nations are not doing enough to help the poor survive the current one. 
  <p class="updated_time"> 05:51 AM CT, Oct. 31 </p> 
@@ -23,8 +25,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/science-environment-59105878?at_medium=RSS&at_campaign=KARANGA">COP26: 'Moment of truth' as world meets for climate summit</a> BBC: COP26 begins in Glasgow, amid dire warnings for the future if urgent climate action is not taken. 
  <p class="updated_time"> 05:12 AM CT, Oct. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59103658?at_medium=RSS&at_campaign=KARANGA">'Father of tiramisu' Ado Campeol dies aged 93</a> BBC: Campeol owned a restaurant in Italy where the dessert was invented by his wife and a pastry chef. 
- <p class="updated_time"> 04:30 AM CT, Oct. 31 </p> 
- <a href="https://www.bbc.co.uk/news/world-59109186?at_medium=RSS&at_campaign=KARANGA">G20 in final push to reach deal on climate at Rome summit</a> BBC: The leaders of the world's richest economies are looking for an agreement ahead of COP26. 
  <p class="updated_time"> 04:26 AM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/30/world/g20-photos.html">Photos From the G20 Summit in Rome</a> NYT: Colorful protests outside the G20 meetings, and in them, exchanges between world leaders. 
  <p class="updated_time"> 04:00 AM CT, Oct. 31 </p> 
@@ -193,13 +193,13 @@ permalink: /projects/news/
 <summary>Politics</summary>
 
  <p class="updated_time"> 05:51 AM CT, Oct. 31 </p> 
+ <a href="https://www.nytimes.com/2021/10/30/world/americas/g20-summit-rome-covid-protests-biden-draghi.html">Pressure Grows on G20 Nations to Get Covid Vaccines to the Poor</a> NYT: The world’s leaders are focusing on preventing future pandemics, but experts say rich nations are not doing enough to help the poor survive the current one. 
+ <p class="updated_time"> 05:51 AM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/29/us/politics/g20-global-tax-deal.html">A Global Tax Deal Is at Hand. Here’s How It Would Work.</a> NYT: President Biden will sign on to an international pact aimed at ending profit-shifting by large companies. Here’s a look at what it means. 
  <p class="updated_time"> 05:50 AM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/30/world/europe/g20-biden-corporate-tax-agreement.html">Biden Finds Raising Corporate Tax Rates Easier Abroad Than at Home</a> NYT: As the Group of 20 seals a new global minimum tax for companies, the president has scaled back his plans to tax U.S. corporations more. 
  <p class="updated_time"> 05:49 AM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/29/world/europe/biden-g20.html">Biden Eases Fray With France and Savors Meeting With Pope as Europe Trip Begins</a> NYT: Mr. Biden sought to mend ties with France’s president over a sabotaged French submarine contract, and expressed gratitude toward Pope Francis after a 90-minute meeting. 
- <p class="updated_time"> 04:14 AM CT, Oct. 31 </p> 
- <a href="https://www.nytimes.com/2021/10/30/world/americas/g20-summit-rome-covid-protests-biden-draghi.html">Pressure Grows on G20 Nations to Get Covid Vaccines to the Poor</a> NYT: The world’s leaders are focusing on preventing future pandemics, but experts say rich nations are not doing enough to help the poor survive the current one. 
  <p class="updated_time"> 05:24 PM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/30/movies/alec-baldwin-rust-shooting-timeline.html">How the Shooting on the Alec Baldwin Set Happened</a> NYT: A reconstruction of the events leading up to the fatal shooting of the cinematographer of “Rust,” the Alec Baldwin western, reveals a troubled production and a series of errors. 
  <p class="updated_time"> 01:58 PM CT, Oct. 30 </p> 
