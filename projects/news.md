@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:07 AM CT, Oct. 31 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59103664?at_medium=RSS&at_campaign=KARANGA">Several injured in Tokyo knife and arson attack on train</a> BBC: Police have arrested a man in his 20s at the scene of the incident along a major Tokyo train line. 
+ <p class="updated_time"> 08:54 AM CT, Oct. 31 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59110828?at_medium=RSS&at_campaign=KARANGA">Japan election: Ruling LDP set for reduced majority - exit polls</a> BBC: Prime Minister Fumio Kishida's party will have a reduced majority in the lower house, exit polls say. 
  <p class="updated_time"> 08:29 AM CT, Oct. 31 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59110239?at_medium=RSS&at_campaign=KARANGA">Stars of music enter the Rock and Roll Hall of Fame</a> BBC: Carole King, Jay-Z and Foo Fighters and others were inducted at a star studded Rock and Roll Hall of Fame ceremony. 
  <p class="updated_time"> 08:26 AM CT, Oct. 31 </p> 
@@ -15,8 +19,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-59109729?at_medium=RSS&at_campaign=KARANGA">Sudan coup: Khartoum barricaded by pro-democracy activists</a> BBC: Three people were reportedly killed and 100 wounded after a crackdown on mass protests on Saturday. 
  <p class="updated_time"> 07:53 AM CT, Oct. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59104781?at_medium=RSS&at_campaign=KARANGA">Igor Kirillov: TV man known as the face of the USSR dies at 89</a> BBC: Soviet TV's chief newsreader anchored major events in the country that collapsed in 1991. 
- <p class="updated_time"> 07:38 AM CT, Oct. 31 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59110828?at_medium=RSS&at_campaign=KARANGA">Japan election: Ruling LDP set for reduced majority - polls</a> BBC: Polls predict new Prime Minister Fumio Kishida's party will have a reduced majority in the lower house. 
  <p class="updated_time"> 07:23 AM CT, Oct. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59103659?at_medium=RSS&at_campaign=KARANGA">Man dies during bull-running event in Spanish city of Onda</a> BBC: Authorities said the man suffered a head wound and had an artery punctured in his thigh by the bull. 
  <p class="updated_time"> 06:51 AM CT, Oct. 31 </p> 
@@ -65,8 +67,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/science-environment-59051407?at_medium=RSS&at_campaign=KARANGA">Climate change: What's it like living in a place where it's 50C?</a> BBC: The BBC has spoken to people around the world about how extreme heat is changing their lives. 
  <p class="updated_time"> 06:51 PM CT, Oct. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59029517?at_medium=RSS&at_campaign=KARANGA">How the Taliban takeover changed my life</a> BBC: From office workers to students, Afghans share how their lives have changed since August. 
- <p class="updated_time"> 06:07 PM CT, Oct. 30 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59107040?at_medium=RSS&at_campaign=KARANGA">Alec Baldwin makes first public comments on 'one in a trillion' shooting</a> BBC: In his first public comments, the actor says the cinematographer he accidentally shot was his friend. 
  <p class="updated_time"> 06:01 PM CT, Oct. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59084408?at_medium=RSS&at_campaign=KARANGA">Israeli woman jailed three times for refusing to join the army</a> BBC: Most Jewish Israelis do military service. But a small number, like Shahar, take an ideological stance. 
  <p class="updated_time"> 06:01 PM CT, Oct. 30 </p> 
@@ -183,6 +183,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/technology-59072745?at_medium=RSS&at_campaign=KARANGA">Inside the controversial US gunshot-detection firm</a> BBC: BBC News has been given access to ShotSpotter, the controversial US technology company that detects gunshots. 
  <p class="updated_time"> 06:01 PM CT, Oct. 28 </p> 
  <a href="https://www.bbc.co.uk/sport/cycling/59063160?at_medium=RSS&at_campaign=KARANGA">Marshall 'Major' Taylor: The first black American world champion & his fight to the top</a> BBC: Marshall 'Major' Taylor was the first black American to become a world champion, in 1899. This is his largely forgotten story. 
+ <p class="updated_time"> 11:10 AM CT, Oct. 25 </p> 
+ <a href="https://www.bbc.co.uk/news/science-environment-56901261?at_medium=RSS&at_campaign=KARANGA">COP26: What is the Glasgow climate conference and why is it important?</a> BBC: A crucial climate change summit is being held in the UK - this is why it's important. 
 
 
 </details>
