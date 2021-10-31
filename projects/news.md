@@ -7,8 +7,12 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:51 PM CT, Oct. 31 </p> 
+ <p class="updated_time"> 05:41 PM CT, Oct. 31 </p> 
+ <a href="https://www.nytimes.com/2021/10/31/world/nyc-firefighters-police-vaccine-mandate.html">Over 2,000 New York City Firefighters Took Sick Days as Vaccine Mandate Looms</a> NYT: More than 22,000 municipal workers remained unvaccinated a day before a city deadline to get their first dose of a coronavirus vaccine. 
+ <p class="updated_time"> 05:39 PM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/31/world/americas/brazil-police-kill-25-bank-gang.html">Brazilian Police Kill 25 Accused of Planning Bank Heists</a> NYT: The police say an operation against a gang planning bank robberies killed at least 25 suspects in the Brazilian state of Minas Gerais on Sunday. 
+ <p class="updated_time"> 05:27 PM CT, Oct. 31 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59106907?at_medium=RSS&at_campaign=KARANGA">One dead in Czech cable car crash</a> BBC: The incident at a popular tourist site happened when one cabin came loose from its cable and fell. 
  <p class="updated_time"> 04:37 PM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/31/climate/climate-change-biden-cop26.html">At Climate Talks, Biden Will Try to Sell American Leadership to Skeptics</a> NYT: The president wants to assure Glasgow’s climate summit that the U.S. is serious about climate change. But he lacks a legislative win at home. 
  <p class="updated_time"> 04:37 PM CT, Oct. 31 </p> 
@@ -29,8 +33,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59113437?at_medium=RSS&at_campaign=KARANGA">Biden at G20: Russia and China 'didn't show up' on climate</a> BBC: US President Joe Biden addresses disappointment by some about what was agreed at the G20 ahead of COP26. 
  <p class="updated_time"> 03:07 PM CT, Oct. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59110828?at_medium=RSS&at_campaign=KARANGA">Japan election: Ruling LDP retains majority - exit polls</a> BBC: Prime Minister Fumio Kishida's ruling LDP party wins enough votes to stay in power, exit polls say. 
- <p class="updated_time"> 02:32 PM CT, Oct. 31 </p> 
- <a href="https://www.nytimes.com/2021/10/31/world/nyc-firefighters-police-vaccine-mandate.html">Over 2,000 New York City Firefighters Took Sick Days as Vaccine Mandate Looms</a> NYT: More than 22,000 municipal workers remained unvaccinated a day before a city deadline to get their first dose of a coronavirus vaccine. 
  <p class="updated_time"> 02:26 PM CT, Oct. 31 </p> 
  <a href="https://www.bbc.co.uk/sport/tennis/59111275?at_medium=RSS&at_campaign=KARANGA">Vienna Open: Alexander Zverev beats Frances Tiafoe for title</a> BBC: Alexander Zverev continues his dominant form since the summer, beating Frances Tiafoe in the Vienna Open final. 
  <p class="updated_time"> 02:08 PM CT, Oct. 31 </p> 
@@ -63,8 +65,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59110239?at_medium=RSS&at_campaign=KARANGA">Stars of music enter the Rock and Roll Hall of Fame</a> BBC: Carole King, Jay-Z and Foo Fighters and others were inducted at a star studded Rock and Roll Hall of Fame ceremony. 
  <p class="updated_time"> 08:23 AM CT, Oct. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59109729?at_medium=RSS&at_campaign=KARANGA">Sudan coup: Khartoum barricaded by pro-democracy activists</a> BBC: Three people were reportedly killed and 100 wounded after a crackdown on mass protests on Saturday. 
- <p class="updated_time"> 07:53 AM CT, Oct. 31 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59104781?at_medium=RSS&at_campaign=KARANGA">Igor Kirillov: TV man known as the face of the USSR dies at 89</a> BBC: Soviet TV's chief newsreader anchored major events in the country that collapsed in 1991. 
  <p class="updated_time"> 07:23 AM CT, Oct. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59103659?at_medium=RSS&at_campaign=KARANGA">Man dies during bull-running event in Spanish city of Onda</a> BBC: Authorities said the man suffered a head wound and had an artery punctured in his thigh by the bull. 
  <p class="updated_time"> 06:24 AM CT, Oct. 31 </p> 
