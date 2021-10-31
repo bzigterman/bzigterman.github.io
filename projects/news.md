@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:37 PM CT, Oct. 31 </p> 
+ <a href="https://www.nytimes.com/2021/10/31/climate/climate-change-biden-cop26.html">At Climate Talks, Biden Will Try to Sell American Leadership to Skeptics</a> NYT: The president wants to assure Glasgow’s climate summit that the U.S. is serious about climate change. But he lacks a legislative win at home. 
  <p class="updated_time"> 04:27 PM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/30/world/asia/japan-election-fumio-kishida.html">Japan Election: Kishida Struggles to Connect With Voters</a> NYT: The governing Liberal Democrats won on Sunday, despite having chosen a prime minister, Fumio Kishida, who’s known for his lack of charisma. 
  <p class="updated_time"> 03:57 PM CT, Oct. 31 </p> 
@@ -149,8 +151,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/article/day-of-the-dead-mexico.html">What Is Day of the Dead and How Is the Mexican Holiday Celebrated?</a> NYT: Popularized by Hollywood in films like “Coco” and the James Bond franchise, Día de Muertos is a centuries-old tradition that has roots in Indigenous culture. 
  <p class="updated_time"> 03:45 PM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/health/vaccination-covid.html">CDC Study Suggests Vaccination Offers More Protection Against Covid Than Prior Infection</a> NYT: The study of 7,000 people found that unvaccinated people who had Covid were five times as likely to get infected again as fully vaccinated people who never had the disease. 
- <p class="updated_time"> 02:30 PM CT, Oct. 29 </p> 
- <a href="https://www.nytimes.com/2021/10/29/world/europe/uk-covid-travel-red-list.html">U.K. Drops Last 7 Countries From England's Covid 'Red List'</a> NYT: The easing of travel restrictions comes as another part of Britain warns that it may reintroduce some Covid rules. 
  <p class="updated_time"> 01:58 PM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/world/europe/queen-elizabeth-2-weeks-rest.html">Queen Elizabeth Urged by Doctors to Rest at Least 2 Weeks</a> NYT: The advice from her medical team has heightened the worry about the health of the 95-year-old monarch, who has canceled the public appearances that had been on her calendar. 
  <p class="updated_time"> 01:57 PM CT, Oct. 29 </p> 
@@ -163,8 +163,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/29/world/asia/tonga-first-covid-case.html">Tonga Reports First Covid Case, Nearly 2 Years Into Pandemic</a> NYT: The Pacific island, 1,100 miles from New Zealand, has quarantined all airport employees on duty after a flight with an infected passenger arrived. 
  <p class="updated_time"> 10:55 AM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/world/europe/appeal-julian-assange-extradition.html">British Court Hears Appeal in Julian Assange Extradition Case</a> NYT: The outcome is not expected to be known for weeks, but the hearing was the latest step in a continuing attempt to extradite the WikiLeaks founder to the U.S. to face espionage charges. 
- <p class="updated_time"> 10:53 AM CT, Oct. 29 </p> 
- <a href="https://www.nytimes.com/2021/10/29/world/europe/biden-pope-communion.html">Critics Try to Pressure Francis in Battle Over Biden and Communion</a> NYT: Some American prelates wanted the pope to challenge the president over his support for abortion rights. A U.S. bishop and cardinal put out pointed messages before his meeting with Francis. 
  <p class="updated_time"> 10:00 AM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/world/europe/spanish-writer-carmen-mola-true-identity.html">Behind a Top Female Name in Spanish Crime Fiction: Three Men</a> NYT: Carmen Mola, a novelist publishing under a pen name, seemed to shatter a glass ceiling in the world of Spanish books. But when the author’s true identity was revealed while claiming a big prize, it was a shock. 
  <p class="updated_time"> 09:46 AM CT, Oct. 29 </p> 
@@ -184,6 +182,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:37 PM CT, Oct. 31 </p> 
+ <a href="https://www.nytimes.com/2021/10/31/climate/climate-change-biden-cop26.html">At Climate Talks, Biden Will Try to Sell American Leadership to Skeptics</a> NYT: The president wants to assure Glasgow’s climate summit that the U.S. is serious about climate change. But he lacks a legislative win at home. 
  <p class="updated_time"> 04:26 PM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/31/us/politics/virginia-governors-race-youngkin-mcauliffe.html">In the Final Days Before Virginia Votes, Both Sides Claim Momentum</a> NYT: Glenn Youngkin and Terry McAuliffe crisscrossed Virginia on the last weekend of what has become an increasingly close race for governor. 
  <p class="updated_time"> 04:20 PM CT, Oct. 31 </p> 
@@ -232,8 +232,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/30/us/politics/trump-capitol-riot-inquiry.html">Court Filing Lists Documents Trump Seeks to Withhold From Jan. 6 Inquiry</a> NYT: The National Archives says the former president is asserting executive privilege over phone logs, notes and other records concerning the attack on the Capitol. 
  <p class="updated_time"> 04:00 AM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/30/science/tsar-bomba-60.html">Tsar Bomba Nuclear Test 60 Years Ago Didn't Make J.F.K. Flinch</a> NYT: A new study offers insights into how the United States reacted to Tsar Bomba, a planet shaker that made the deadly Hiroshima blast look tame. 
- <p class="updated_time"> 05:46 PM CT, Oct. 29 </p> 
- <a href="https://www.nytimes.com/2021/10/29/us/politics/office-access-justice-legal-aid.html">Garland Revives Effort to Expand Access to Legal Aid</a> NYT: The attorney general acted to reverse a Trump administration decision to cut off funding for the Office for Access to Justice, an Obama-era program to give poor defendants legal representation. 
  <p class="updated_time"> 05:30 PM CT, Oct. 29 </p> 
  <a href="https://www.politico.com/news/2021/10/29/you-have-a-manchin-problem-paid-leave-tossed-aside-despite-wooing-of-wva-senator-517731">Manchin upends paid leave, a benefit ‘personal to the president’</a> Politico: "We kept hearing, 'You have a Manchin problem,'" Molly Day, executive director of Paid Leave for the U.S., said. "So we kept digging in." 
  <p class="updated_time"> 04:47 PM CT, Oct. 29 </p> 
