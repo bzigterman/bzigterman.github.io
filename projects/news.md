@@ -7,8 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:28 PM CT, Oct. 31 </p> 
- <a href="https://www.nytimes.com/2021/10/31/world/nyc-firefighters-police-vaccine-mandate.html">Over 2,000 New York City Firefighters Took Sick Days as Vaccine Mandate Looms</a> NYT: More than 22,000 municipal workers remained unvaccinated a day ahead of a city deadline to get their first dose of a coronavirus vaccine. 
+ <p class="updated_time"> 02:32 PM CT, Oct. 31 </p> 
+ <a href="https://www.nytimes.com/2021/10/31/world/nyc-firefighters-police-vaccine-mandate.html">Over 2,000 New York City Firefighters Took Sick Days as Vaccine Mandate Looms</a> NYT: More than 22,000 municipal workers remained unvaccinated a day before a city deadline to get their first dose of a coronavirus vaccine. 
  <p class="updated_time"> 02:10 PM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/31/world/europe/biden-putin-russia-united-states.html">Rivals on World Stage, Russia and U.S. Quietly Seek Areas of Accord</a> NYT: There have been a series of beneath-the-surface meetings between the two countries as the Biden administration applies a more sober approach to relations with the Kremlin. 
  <p class="updated_time"> 02:08 PM CT, Oct. 31 </p> 
@@ -29,10 +29,16 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/30/world/asia/japan-election-fumio-kishida.html">Japan Election: Kishida Struggles to Connect With Voters</a> NYT: The governing Liberal Democrats won on Sunday, despite having chosen a prime minister, Fumio Kishida, who’s known for his lack of charisma. 
  <p class="updated_time"> 10:10 AM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/31/world/europe/uk-police-sexual-misconduct.html">U.K. Police Struggle to Curb Abuse of Women by Their Own Officers</a> NYT: Sexual misconduct by police officers has prompted outrage across Britain and led to increasing skepticism that departments can investigate or discipline employees who abuse women. 
+ <p class="updated_time"> 10:07 AM CT, Oct. 31 </p> 
+ <a href="https://www.wsj.com/articles/g-20-nations-wrangle-over-climate-change-goals-ahead-of-cop26-11635680984">G-20 Disagreements Point to Challenges for COP26 Summit</a> WSJ: The world’s leading economies express aspiration of limiting global warming to 1.5 degrees Celsius, but don’t find a consensus on how to do it, foreshadowing difficult negotiations at the United Nations-sponsored climate summit. 
  <p class="updated_time"> 10:06 AM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/31/us/politics/saudi-investment-conference-trump-allies.html">Trump Allies Are Prominent at Saudi Investment Conference</a> NYT: But the Biden administration sent only a deputy commerce secretary to the high-profile gathering, amid shifts in global politics and diplomatic strains. 
  <p class="updated_time"> 09:33 AM CT, Oct. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59110828?at_medium=RSS&at_campaign=KARANGA">Japan election: Ruling LDP set for reduced majority - exit polls</a> BBC: Prime Minister Fumio Kishida's party will have a reduced majority in the lower house, exit polls say. 
+ <p class="updated_time"> 09:02 AM CT, Oct. 31 </p> 
+ <a href="https://www.wsj.com/articles/japans-ruling-coalition-set-to-keep-majority-in-election-projection-shows-11635679065">Japan's Ruling Party Keeps Majority in Election</a> WSJ: The ruling Liberal Democratic Party won a clear majority in national elections, allowing new Prime Minister Fumio Kishida to build a solid foundation for a government tackling security threats from China and North Korea. 
+ <p class="updated_time"> 08:58 AM CT, Oct. 31 </p> 
+ <a href="https://www.wsj.com/articles/a-nation-learns-to-love-movie-popcornwithout-the-movie-11635703138">A Nation Learns to Love Movie Popcorn---Without the Movie</a> WSJ: South Korea’s Covid-19 restrictions banned eating popcorn in theaters, so moviegoers chowed down in the lobby or had tubs delivered to their homes. Others went rogue; ‘I chewed as quietly as I could.’ 
  <p class="updated_time"> 08:29 AM CT, Oct. 31 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59110239?at_medium=RSS&at_campaign=KARANGA">Stars of music enter the Rock and Roll Hall of Fame</a> BBC: Carole King, Jay-Z and Foo Fighters and others were inducted at a star studded Rock and Roll Hall of Fame ceremony. 
  <p class="updated_time"> 08:23 AM CT, Oct. 31 </p> 
@@ -55,6 +61,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/29/world/asia/pope-francis-modi-india.html">Pope Francis to Meet India's Narendra Modi for the First Time</a> NYT: The meeting comes amid increasing attacks on Christians in the South Asian nation, which is home to one of Asia’s oldest Christian populations. 
  <p class="updated_time"> 05:49 AM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/29/world/europe/biden-g20.html">Biden Eases Fray With France and Savors Meeting With Pope as Europe Trip Begins</a> NYT: Mr. Biden sought to mend ties with France’s president over a sabotaged French submarine contract, and expressed gratitude toward Pope Francis after a 90-minute meeting. 
+ <p class="updated_time"> 05:46 AM CT, Oct. 31 </p> 
+ <a href="https://www.wsj.com/articles/left-behind-after-u-s-withdrawal-some-former-afghan-spies-and-soldiers-turn-to-islamic-state-11635691605">Former Afghan Spies and Soldiers Turn to ISIS After U.S. Exit</a> WSJ: Hunted by the Taliban and lacking income, some members of Afghanistan’s disbanded security forces are enlisting in the only force currently challenging the country’s new rules. 
  <p class="updated_time"> 05:41 AM CT, Oct. 31 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59110260?at_medium=RSS&at_campaign=KARANGA">Greta Thunberg: It's never too late to do as much as we can</a> BBC: Activist Greta Thunberg is still hopeful the world can achieve "massive changes" to combat climate change. 
  <p class="updated_time"> 05:12 AM CT, Oct. 31 </p> 
@@ -85,6 +93,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-middle-east-59084408?at_medium=RSS&at_campaign=KARANGA">Israeli woman jailed three times for refusing to join the army</a> BBC: Most Jewish Israelis do military service. But a small number, like Shahar, take an ideological stance. 
  <p class="updated_time"> 06:01 PM CT, Oct. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59093226?at_medium=RSS&at_campaign=KARANGA">The women reviving a vanishing legacy of Sufi music in Kashmir</a> BBC: This six-piece band has overcome a lot of opposition to be able to play Islamic devotional music. 
+ <p class="updated_time"> 05:36 PM CT, Oct. 30 </p> 
+ <a href="https://www.wsj.com/articles/chinas-manufacturing-activity-contracts-for-second-straight-month-11635645642">China's Manufacturing Activity Contracts for Second Straight Month</a> WSJ: New data adds evidence that growth momentum has weakened as the country’s manufacturing sector is weighed down by soaring raw material costs, a widespread power crisis and a slowdown in the property sector. 
  <p class="updated_time"> 04:51 PM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/30/world/biden-communion-rome-g20.html">Biden Receives Communion at Rome Church</a> NYT: Some conservative bishops in the United States have said the president should be denied communion because of his support for abortion rights. 
  <p class="updated_time"> 04:44 PM CT, Oct. 30 </p> 
@@ -97,8 +107,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/30/world/europe/g20-summit-covid-vaccines.html">Pressure Grows on G20 Nations to Get Covid Vaccines to Poorer Countries</a> NYT: Talk at the summit is focused on preventing future pandemics. Critics say the current one must be addressed first. 
  <p class="updated_time"> 12:43 PM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/30/world/middleeast/g20-summit-iran-nuclear.html">G20 Agenda Includes Nuclear Impasse With Iran</a> NYT: Biden administration officials have suggested that time is running out to salvage the 2015 accord under which Iran sharply curtailed its nuclear activities. 
- <p class="updated_time"> 12:24 PM CT, Oct. 30 </p> 
- <a href="https://www.wsj.com/articles/g-20-leaders-begin-rome-summit-amid-big-differences-on-climate-change-11635586202">At G-20 Summit, U.S. Agrees to Relax Tariffs on European Steel</a> WSJ: Biden and European leaders worked to defuse trade tensions at the gathering in Rome, where Western leaders also called on Iran to comply with a nuclear accord. 
  <p class="updated_time"> 12:08 PM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/30/world/europe/russia-gas-pipeline-nordstream-putin.html">A Russian Pipeline Changes Direction, and Energy Politics Come to the Fore</a> NYT: Amid an energy crunch in Europe, one of Russia’s largest natural gas pipelines began pulling gas out of Western Europe back eastward, Russian news agencies reported. 
  <p class="updated_time"> 11:01 AM CT, Oct. 30 </p> 
@@ -109,14 +117,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/30/world/africa/south-africa-elections-anc.html">A South African Town Lacks Water and Electricity. But Mayors? It Has Two.</a> NYT: Dysfunctional and collapsing rural towns may test voters’ loyalty to the ruling African National Congress party in nationwide municipal elections on Monday. 
  <p class="updated_time"> 09:52 AM CT, Oct. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59101411?at_medium=RSS&at_campaign=KARANGA">Japan undersea volcano: Artist tries to swim in floating pumice stone</a> BBC: An eruption from an undersea volcano has coated the coastal waters off a Japanese island in pumice. 
- <p class="updated_time"> 09:13 AM CT, Oct. 30 </p> 
- <a href="https://www.wsj.com/articles/sudanese-pro-democracy-protesters-march-in-defiance-of-military-coup-11635603536">Sudanese Security Forces Fire Bullets at Anti-Coup Protesters</a> WSJ: Sudanese security forces fired bullets and teargas into throngs of protesters, trying to disperse mass demonstrations against a military coup. 
  <p class="updated_time"> 09:02 AM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/29/world/vaccine-mandate-states-sue.html">10 Republican-led States Sue Over Biden's Vaccine Mandate</a> NYT: The lawsuit is being led by Missouri’s attorney general, Eric Schmitt, and the attorney general of Nebraska, Doug Peterson. 
  <p class="updated_time"> 09:02 AM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/29/world/nyc-vaccine-mandate-resistance.html">Tensions Rise with Next Phase of NYCs Vaccine Mandate</a> NYT: Last-minute shots brought thousands more workers in the Police, Fire and Sanitation Departments into compliance. 
- <p class="updated_time"> 06:00 AM CT, Oct. 30 </p> 
- <a href="https://www.wsj.com/articles/ai-weiwei-traces-a-century-of-making-authorities-squirm-11635606000">Ai Weiwei Traces a Century of Making Authorities Squirm</a> WSJ: A new memoir by world-famous artist-provocateur Ai Weiwei, “1000 Years of Joys and Sorrows,” traces a century of his family’s ups and downs with authorities; it’s being published in more than 20 countries—though not China. 
  <p class="updated_time"> 04:00 AM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/30/world/asia/china-xi-jinping-g20.html">Xi Hasn’t Left China in 21 Months. Covid May Be Only Part of the Reason.</a> NYT: Xi Jinping’s lack of face time with world leaders signals a turn inward on domestic issues and a reluctance to compromise on the global stage. 
  <p class="updated_time"> 04:00 AM CT, Oct. 30 </p> 
@@ -133,8 +137,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-india-59059493?at_medium=RSS&at_campaign=KARANGA">T20 World Cup: The toxic trolling of India's cricket stars</a> BBC: As online abuse becomes the main form of venting, many worry about the toxicity cricketers face on social media. 
  <p class="updated_time"> 06:03 PM CT, Oct. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59076452?at_medium=RSS&at_campaign=KARANGA">COP26: African climate activists' message to world leaders</a> BBC: Young climate activists from Africa share their message to world leaders at COP26. 
- <p class="updated_time"> 06:03 PM CT, Oct. 29 </p> 
- <a href="https://www.wsj.com/articles/u-s-takes-aim-at-irans-drone-program-seeing-risk-to-mideast-stability-11635517853">U.S. Takes Aim at Iran's Drone Program</a> WSJ: The Biden administration levied sanctions against several Iranian companies and executives that it tied to Tehran’s drone program as U.S. security and military officials grow increasingly concerned about it. 
  <p class="updated_time"> 05:11 PM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/world/canada/dune-movie.html">‘Dune’ May Be Set in a Distant Time and Place, but the Film Has Canadian Roots</a> NYT: A science fiction opus was heavily guided by Canadian talent, starting with the director, Denis Villeneuve, who lives in Montreal. 
  <p class="updated_time"> 04:48 PM CT, Oct. 29 </p> 
@@ -155,10 +157,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/29/world/europe/a-dispute-between-the-uk-and-france-over-fishing-rights-simmers-as-the-g20-summit-approaches.html">A dispute between the U.K. and France over fishing rights simmers as the G20 summit begins.</a> NYT: The matter is expected to be a topic of discussion for the nations’ leaders this weekend. 
  <p class="updated_time"> 01:41 PM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/world/asia/tonga-first-covid-case.html">Tonga Reports First Covid Case, Nearly 2 Years Into Pandemic</a> NYT: The Pacific island, 1,100 miles from New Zealand, has quarantined all airport employees on duty after a flight with an infected passenger arrived. 
- <p class="updated_time"> 11:44 AM CT, Oct. 29 </p> 
- <a href="https://www.wsj.com/articles/haitis-powerful-gangs-hold-country-hostage-over-fuel-11635540289">Haiti's Powerful Gangs Hold Country Hostage Over Fuel</a> WSJ: The country’s largest gang has blocked access to the fuel terminal that provides 70% of gas supplies, demanding the prime minister’s resignation. 
- <p class="updated_time"> 11:15 AM CT, Oct. 29 </p> 
- <a href="https://www.wsj.com/articles/china-gives-itself-wiggle-room-on-climate-change-goals-11635538164">China Adds Wiggle Room on Climate Change</a> WSJ: China’s plans for reducing its greenhouse-gas emissions—including recent revisions made amid a power crisis—have disappointed climate advocates who had hoped for an ambitious road map from Beijing. 
  <p class="updated_time"> 10:55 AM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/world/europe/appeal-julian-assange-extradition.html">British Court Hears Appeal in Julian Assange Extradition Case</a> NYT: The outcome is not expected to be known for weeks, but the hearing was the latest step in a continuing attempt to extradite the WikiLeaks founder to the U.S. to face espionage charges. 
  <p class="updated_time"> 10:53 AM CT, Oct. 29 </p> 
@@ -186,7 +184,7 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
- <p class="updated_time"> 02:22 PM CT, Oct. 31 </p> 
+ <p class="updated_time"> 02:34 PM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/31/us/politics/texas-abortion-law-supreme-court.html">When Will the Supreme Court Hear Arguments on the Texas Abortion Law?</a> NYT: The New York Times will be streaming the oral arguments and providing live coverage of the proceedings when they begin at 10 a.m. Eastern. 
  <p class="updated_time"> 02:10 PM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/31/world/europe/biden-putin-russia-united-states.html">Rivals on World Stage, Russia and U.S. Quietly Seek Areas of Accord</a> NYT: There have been a series of beneath-the-surface meetings between the two countries as the Biden administration applies a more sober approach to relations with the Kremlin. 
