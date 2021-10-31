@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:24 AM CT, Oct. 31 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-59109560?at_medium=RSS&at_campaign=KARANGA">Yemen: Nine killed in Aden airport car bomb</a> BBC: The attack near Aden's airport is the deadliest to strike the temporary capital since last year. 
  <p class="updated_time"> 06:23 AM CT, Oct. 31 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59105878?at_medium=RSS&at_campaign=KARANGA">COP26: 'Moment of truth' as world meets for climate summit</a> BBC: COP26 begins in Glasgow, amid dire warnings for the future if urgent climate action is not taken. 
  <p class="updated_time"> 05:52 AM CT, Oct. 31 </p> 
@@ -91,8 +93,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/29/world/vaccine-mandate-states-sue.html">10 Republican-led States Sue Over Biden's Vaccine Mandate</a> NYT: The lawsuit is being led by Missouri’s attorney general, Eric Schmitt, and the attorney general of Nebraska, Doug Peterson. 
  <p class="updated_time"> 09:02 AM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/29/world/nyc-vaccine-mandate-resistance.html">Tensions Rise with Next Phase of NYCs Vaccine Mandate</a> NYT: Last-minute shots brought thousands more workers in the Police, Fire and Sanitation Departments into compliance. 
- <p class="updated_time"> 08:39 AM CT, Oct. 30 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-59103657?at_medium=RSS&at_campaign=KARANGA">Indian PM Narendra Modi invites Pope for visit</a> BBC: The invitation is a significant turnaround, after negotiations for a papal visit collapsed in 2017. 
  <p class="updated_time"> 06:00 AM CT, Oct. 30 </p> 
  <a href="https://www.wsj.com/articles/ai-weiwei-traces-a-century-of-making-authorities-squirm-11635606000">Ai Weiwei Traces a Century of Making Authorities Squirm</a> WSJ: A new memoir by world-famous artist-provocateur Ai Weiwei, “1000 Years of Joys and Sorrows,” traces a century of his family’s ups and downs with authorities; it’s being published in more than 20 countries—though not China. 
  <p class="updated_time"> 05:16 AM CT, Oct. 30 </p> 
