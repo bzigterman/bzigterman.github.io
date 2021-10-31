@@ -9,8 +9,6 @@ permalink: /projects/news/
 
  <p class="updated_time"> 06:24 AM CT, Oct. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59109560?at_medium=RSS&at_campaign=KARANGA">Yemen: Nine killed in Aden airport car bomb</a> BBC: The attack near Aden's airport is the deadliest to strike the temporary capital since last year. 
- <p class="updated_time"> 06:23 AM CT, Oct. 31 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-59105878?at_medium=RSS&at_campaign=KARANGA">COP26: 'Moment of truth' as world meets for climate summit</a> BBC: COP26 begins in Glasgow, amid dire warnings for the future if urgent climate action is not taken. 
  <p class="updated_time"> 05:52 AM CT, Oct. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-59109186?at_medium=RSS&at_campaign=KARANGA">G20 in final push to reach deal on climate at Rome summit</a> BBC: The leaders of the world's richest economies are looking for an agreement ahead of COP26. 
  <p class="updated_time"> 05:51 AM CT, Oct. 31 </p> 
@@ -25,6 +23,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/29/world/asia/pope-francis-modi-india.html">Pope Francis to Meet India's Narendra Modi for the First Time</a> NYT: The meeting comes amid increasing attacks on Christians in the South Asian nation, which is home to one of Asia’s oldest Christian populations. 
  <p class="updated_time"> 05:49 AM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/29/world/europe/biden-g20.html">Biden Eases Fray With France and Savors Meeting With Pope as Europe Trip Begins</a> NYT: Mr. Biden sought to mend ties with France’s president over a sabotaged French submarine contract, and expressed gratitude toward Pope Francis after a 90-minute meeting. 
+ <p class="updated_time"> 05:41 AM CT, Oct. 31 </p> 
+ <a href="https://www.bbc.co.uk/news/science-environment-59110260?at_medium=RSS&at_campaign=KARANGA">Greta Thunberg: It's never too late to do as much as we can</a> BBC: Activist Greta Thunberg is still hopeful the world can achieve "massive changes" to combat climate change. 
  <p class="updated_time"> 05:12 AM CT, Oct. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59103658?at_medium=RSS&at_campaign=KARANGA">'Father of tiramisu' Ado Campeol dies aged 93</a> BBC: Campeol owned a restaurant in Italy where the dessert was invented by his wife and a pastry chef. 
  <p class="updated_time"> 04:26 AM CT, Oct. 31 </p> 
@@ -149,8 +149,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/28/world/europe/france-detains-british-boat.html">France Detains British Boat as a Fight Over Fishing Rights Escalates</a> NYT: The British government summoned France’s ambassador for talks over the incident, the latest sign of cross-Channel tension between the two countries. 
  <p class="updated_time"> 11:44 AM CT, Oct. 29 </p> 
  <a href="https://www.wsj.com/articles/haitis-powerful-gangs-hold-country-hostage-over-fuel-11635540289">Haiti's Powerful Gangs Hold Country Hostage Over Fuel</a> WSJ: The country’s largest gang has blocked access to the fuel terminal that provides 70% of gas supplies, demanding the prime minister’s resignation. 
- <p class="updated_time"> 11:23 AM CT, Oct. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59096297?at_medium=RSS&at_campaign=KARANGA">La Palma: 'Lava bomb' speeds down Cumbre Vieja volcano</a> BBC: Watch a ball of solidified molten rock rolling down from the Cumbre Vieja volcano. 
  <p class="updated_time"> 11:15 AM CT, Oct. 29 </p> 
  <a href="https://www.wsj.com/articles/china-gives-itself-wiggle-room-on-climate-change-goals-11635538164">China Adds Wiggle Room on Climate Change</a> WSJ: China’s plans for reducing its greenhouse-gas emissions—including recent revisions made amid a power crisis—have disappointed climate advocates who had hoped for an ambitious road map from Beijing. 
  <p class="updated_time"> 10:55 AM CT, Oct. 29 </p> 
