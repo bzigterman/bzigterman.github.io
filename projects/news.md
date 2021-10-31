@@ -8,7 +8,7 @@ permalink: /projects/news/
 <summary>World News</summary>
 
  <p class="updated_time"> 12:40 PM CT, Oct. 31 </p> 
- <a href="https://www.nytimes.com/2021/10/31/world/moderan-covid-vaccine-teens-myocarditis.html">F.D.A. Is Reviewing If Moderna Vaccine Causes Heart Problems in Adolescents</a> NYT: The F.D.A. has notified Moderna that it needs more time to review the vaccine’s safety and may not deliver a decision until January. 
+ <a href="https://www.nytimes.com/2021/10/31/world/moderna-covid-vaccine-teens-myocarditis.html">F.D.A. Is Reviewing If Moderna Vaccine Causes Heart Problems in Adolescents</a> NYT: The F.D.A. has notified Moderna that it needs more time to review the vaccine’s safety and may not deliver a decision until January. 
  <p class="updated_time"> 12:06 PM CT, Oct. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-59109186?at_medium=RSS&at_campaign=KARANGA">G20 pledge climate action but make few commitments</a> BBC: The agreement between the world's richest economies makes no reference to cutting emissions by 2050. 
  <p class="updated_time"> 11:52 AM CT, Oct. 31 </p> 
@@ -177,6 +177,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/29/world/the-popes-us-visit-in-2015-was-a-powerful-moment-for-biden.html">The pope’s U.S. visit in 2015 was a powerful moment for Biden.</a> NYT: NA 
  <p class="updated_time"> 04:00 AM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/world/europe/roma-hip-hop-band-serbia-pretty-loud.html">‘Different Way of Fighting’: Lyrics Are the Weapons of All-Women Roma Band</a> NYT: Many Roma women face pressures to marry young and take on traditional gender roles. Pretty Loud, a hip-hop group from Serbia, wants girls to decide for themselves. 
+ <p class="updated_time"> 11:10 AM CT, Oct. 25 </p> 
+ <a href="https://www.bbc.co.uk/news/science-environment-56901261?at_medium=RSS&at_campaign=KARANGA">COP26: What is the Glasgow climate conference and why is it important?</a> BBC: A crucial climate change summit is being held in the UK - this is why it's important. 
 
 
 </details>
