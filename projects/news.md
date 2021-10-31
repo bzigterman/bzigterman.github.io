@@ -7,8 +7,14 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:29 AM CT, Oct. 31 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-59110239?at_medium=RSS&at_campaign=KARANGA">Stars of music enter the Rock and Roll Hall of Fame</a> BBC: Carole King, Jay-Z and Foo Fighters and others were inducted at a star studded Rock and Roll Hall of Fame ceremony. 
  <p class="updated_time"> 08:26 AM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/31/world/europe/biden-putin-russia-united-states.html">Rivals on World Stage, Russia and U.S. Quietly Seek Areas of Accord</a> NYT: There have been a series of beneath-the-surface meetings between the two countries as the Biden Administration applies a more sober approach to relations with the Kremlin. 
+ <p class="updated_time"> 08:23 AM CT, Oct. 31 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59109729?at_medium=RSS&at_campaign=KARANGA">Sudan coup: Khartoum barricaded by pro-democracy activists</a> BBC: Three people were reportedly killed and 100 wounded after a crackdown on mass protests on Saturday. 
+ <p class="updated_time"> 07:53 AM CT, Oct. 31 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59104781?at_medium=RSS&at_campaign=KARANGA">Igor Kirillov: TV man known as the face of the USSR dies at 89</a> BBC: Soviet TV's chief newsreader anchored major events in the country that collapsed in 1991. 
  <p class="updated_time"> 07:38 AM CT, Oct. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59110828?at_medium=RSS&at_campaign=KARANGA">Japan election: Ruling LDP set for reduced majority - polls</a> BBC: Polls predict new Prime Minister Fumio Kishida's party will have a reduced majority in the lower house. 
  <p class="updated_time"> 07:23 AM CT, Oct. 31 </p> 
@@ -56,8 +62,6 @@ permalink: /projects/news/
  <p class="updated_time"> 07:23 PM CT, Oct. 30 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59078198?at_medium=RSS&at_campaign=KARANGA">Can COP26 really save the planet?</a> BBC: Past COPs our science editor went to didn't stop climate change - will this one be any different? 
  <p class="updated_time"> 07:13 PM CT, Oct. 30 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59103901?at_medium=RSS&at_campaign=KARANGA">Sudan coup: Three killed in protests against military takeover</a> BBC: Activists say security forces fired live rounds and tear gas at crowds, injuring around 100 people. 
- <p class="updated_time"> 07:13 PM CT, Oct. 30 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59051407?at_medium=RSS&at_campaign=KARANGA">Climate change: What's it like living in a place where it's 50C?</a> BBC: The BBC has spoken to people around the world about how extreme heat is changing their lives. 
  <p class="updated_time"> 06:51 PM CT, Oct. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59029517?at_medium=RSS&at_campaign=KARANGA">How the Taliban takeover changed my life</a> BBC: From office workers to students, Afghans share how their lives have changed since August. 
@@ -73,8 +77,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/30/world/europe/g20-rome-protests.html">Protesters Set to Demonstrate Over G20 Summit in Rome</a> NYT: Several thousands protesters gathered in downtown Rome, representing a broad range of groups and causes: students and vaccine skeptics, labor union members and climate-change activists 
  <p class="updated_time"> 04:16 PM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/30/world/europe/g20-summit-merkel-scholz.html">Merkel's Likely Successor to Join Her for G20 Summit Talks</a> NYT: Olaf Scholz, who would have attended the G20 summit as finance minister, will also join Angela Merkel for talks with world leaders. 
- <p class="updated_time"> 04:01 PM CT, Oct. 30 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-59096578?at_medium=RSS&at_campaign=KARANGA">Saudi Arabia expels Lebanon ambassador amid Yemen row</a> BBC: The UAE, Kuwait and Bahrain also take diplomatic action in solidarity with the Saudis. 
  <p class="updated_time"> 03:11 PM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/30/world/africa/sudan-protests-coup.html">Protesters Killed in Sudan on Day Seen as a Test for the Military</a> NYT: Three demonstrators were fatally shot, a doctors’ group said, as crowds answered activists’ call for a “march of millions” against a coup that has threatened the country’s democratic transition. 
  <p class="updated_time"> 02:01 PM CT, Oct. 30 </p> 
@@ -117,8 +119,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/newsbeat-58972808?at_medium=RSS&at_campaign=KARANGA">The 17-year-old making films fun for deaf children</a> BBC: Mariella, 17, made an app during lockdown that's helping some kids enjoy films for the first time. 
  <p class="updated_time"> 06:04 PM CT, Oct. 29 </p> 
  <a href="https://www.bbc.co.uk/news/in-pictures-59077933?at_medium=RSS&at_campaign=KARANGA">Week in pictures: 23 - 29 October 2021</a> BBC: A selection of powerful images from all over the globe, taken this week. 
- <p class="updated_time"> 06:03 PM CT, Oct. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59090127?at_medium=RSS&at_campaign=KARANGA">The viral basketball star changing views on Muslim women in sport</a> BBC: Viral basketball sensation Jamad Fiin's videos have racked up millions of views online. 
  <p class="updated_time"> 06:03 PM CT, Oct. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59076452?at_medium=RSS&at_campaign=KARANGA">COP26: African climate activists' message to world leaders</a> BBC: Young climate activists from Africa share their message to world leaders at COP26. 
  <p class="updated_time"> 06:03 PM CT, Oct. 29 </p> 
