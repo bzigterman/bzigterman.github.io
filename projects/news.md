@@ -40,7 +40,7 @@ permalink: /projects/news/
  <p class="updated_time"> 11:49 AM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/31/world/asia/afghanistan-taliban-artists.html">Afghan Art Flourished for 20 Years. Can It Survive the New Taliban Regime?</a> NYT: So far, the Taliban have not banned art outright. But many artists have fled Afghanistan, fearing for their work and their lives. 
  <p class="updated_time"> 11:37 AM CT, Oct. 31 </p> 
- <a href="https://www.wsj.com/articles/g-20-nations-wrangle-over-climate-change-goals-ahead-of-cop26-11635680984">G-20 Disagreements Point to Challenges for COP26 Summit</a> WSJ: The world’s leading economies express aspiration of limiting global warming to 1.5 degrees Celsius, but don’t find a consensus on how to do it, foreshadowing difficult negotiations at the United Nations-sponsored climate summit. 
+ <a href="https://www.wsj.com/articles/g-20-nations-wrangle-over-climate-change-goals-ahead-of-cop26-11635680984">G-20 Disagreements Point to Challenges for COP26 Summit</a> WSJ: The world’s leading economies expressed aspirations of limiting global warming to 1.5 degrees Celsius, but didn’t find a consensus on how to do it, foreshadowing difficult negotiations at the United Nations-sponsored climate summit. 
  <p class="updated_time"> 10:22 AM CT, Oct. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59112729?at_medium=RSS&at_campaign=KARANGA">Tokyo knife and arson attack: The moment train passengers flee</a> BBC: Video shows people trying to escape as smoke and flames fill a carriage. 
  <p class="updated_time"> 10:12 AM CT, Oct. 31 </p> 
@@ -184,10 +184,10 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:20 PM CT, Oct. 31 </p> 
+ <a href="https://www.nytimes.com/2021/10/31/us/politics/texas-abortion-law-supreme-court.html">When Will the Supreme Court Hear Arguments on the Texas Abortion Law?</a> NYT: The New York Times will be streaming the oral arguments and providing live coverage of the proceedings when they begin at 10 a.m. Eastern. 
  <p class="updated_time"> 03:57 PM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/31/us/politics/guantanamo-torture-letter.html">U.S. Military Jury Condemns Terrorist’s Torture and Urges Clemency</a> NYT: Seven senior officers rebuked the government’s treatment of an admitted terrorist in a handwritten letter from the jury room at Guantánamo Bay. 
- <p class="updated_time"> 03:55 PM CT, Oct. 31 </p> 
- <a href="https://www.nytimes.com/2021/10/31/us/politics/texas-abortion-law-supreme-court.html">When Will the Supreme Court Hear Arguments on the Texas Abortion Law?</a> NYT: The New York Times will be streaming the oral arguments and providing live coverage of the proceedings when they begin at 10 a.m. Eastern. 
  <p class="updated_time"> 03:51 PM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/31/world/europe/biden-putin-russia-united-states.html">Rivals on World Stage, Russia and U.S. Quietly Seek Areas of Accord</a> NYT: There have been a series of beneath-the-surface meetings between the two countries as the Biden administration applies a more sober approach to relations with the Kremlin. 
  <p class="updated_time"> 03:34 PM CT, Oct. 31 </p> 
