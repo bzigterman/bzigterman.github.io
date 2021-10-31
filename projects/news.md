@@ -185,6 +185,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/sport/cycling/59063160?at_medium=RSS&at_campaign=KARANGA">Marshall 'Major' Taylor: The first black American world champion & his fight to the top</a> BBC: Marshall 'Major' Taylor was the first black American to become a world champion, in 1899. This is his largely forgotten story. 
  <p class="updated_time"> 04:25 PM CT, Oct. 28 </p> 
  <a href="https://www.nytimes.com/2021/10/28/world/meatpacking-workers-covid-cases-deaths.html">Covid Hit U.S. Meat Plants Far Harder Than Thought, Report Says</a> NYT: The industry had three times as many Covid infections in the pandemic’s early months as previously believed, a select committee says. 
+ <p class="updated_time"> 11:10 AM CT, Oct. 25 </p> 
+ <a href="https://www.bbc.co.uk/news/science-environment-56901261?at_medium=RSS&at_campaign=KARANGA">COP26: What is the Glasgow climate conference and why is it important?</a> BBC: A crucial climate change summit is being held in the UK - this is why it's important. 
 
 
 </details>
