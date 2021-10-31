@@ -188,6 +188,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:45 AM CT, Oct. 31 </p> 
+ <a href="https://www.politico.com/news/2021/10/31/democrats-race-prescription-drug-deal-517974">Democrats race to clinch prescription drug deal</a> Politico: Prescription drug reform was left out of last week’s draft proposal due to ongoing disagreements. 
  <p class="updated_time"> 10:30 AM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/31/us/politics/paid-family-leave.html">Why Paid Family Leave’s Demise This Time Could Fuel It Later</a> NYT: In failing to secure a benefit with bipartisan appeal, President Biden joins a long line of frustrated politicians. But some Republicans say it could be resurrected on its own. 
  <p class="updated_time"> 10:11 AM CT, Oct. 31 </p> 
