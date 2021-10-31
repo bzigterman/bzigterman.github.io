@@ -196,8 +196,10 @@ if (standings_the_same != TRUE) {
 
 
 # pennant race chart ----
-nba_min <-  .9*min(nba_standings$win_pct)
+nba_min <-  .8*min(nba_standings$win_pct)
 nba_max <- 1.05*max(nba_standings$win_pct)
+nudge <- -.0461118*(nba_max-nba_min)
+
 eastern_standings <- nba_standings %>%
   filter(conference == "Eastern") %>%
   arrange(desc(win_pct)) %>%
@@ -218,10 +220,10 @@ eastern_playoffs_rect <- (if_else(
 western_plot <- ggplot(western_standings, aes(x = reorder(team_label, win_pct), 
                                           y = win_pct)) +
   geom_rect(xmin = 9.5, xmax = Inf,
-            ymin = nba_min, ymax = Inf,
+            ymin = -Inf, ymax = Inf,
             fill = "grey85") +
   geom_rect(xmin = 5.5, xmax = 9.5,
-            ymin = nba_min, ymax = Inf,
+            ymin = -Inf, ymax = Inf,
             fill = "grey95") +
   geom_hline(yintercept = 0.5,
              color = "grey50",
@@ -237,7 +239,7 @@ western_plot <- ggplot(western_standings, aes(x = reorder(team_label, win_pct),
             color = "white",
             angle = 270,
             size = 3.9,
-            nudge_y = -.049) +
+            nudge_y = -.035) +
   # geom_text(aes(label = division_leaders),
   #           family = "mono",
   #           nudge_y = .011) +
@@ -263,10 +265,10 @@ western_plot
 eastern_plot <- ggplot(eastern_standings, aes(x = reorder(team_label, -win_pct), 
                                           y = win_pct)) +
   geom_rect(xmin = -Inf, xmax = 6.5,
-            ymin = nba_min, ymax = Inf,
+            ymin = -Inf, ymax = Inf,
             fill = "grey85") +
   geom_rect(xmin = 6.5, xmax = 10.5,
-            ymin = nba_min, ymax = Inf,
+            ymin = -Inf, ymax = Inf,
             fill = "grey95") +
   # geom_rect(xmin = -Inf, xmax = nl_playoffs_rect,
   #           ymin = -Inf, ymax = Inf,
@@ -285,7 +287,7 @@ eastern_plot <- ggplot(eastern_standings, aes(x = reorder(team_label, -win_pct),
             color = "white",
             angle = 270,
             size = 3.9,
-            nudge_y = -.049) +
+            nudge_y = -.035) +
   # geom_text(aes(label = division_leaders),
   #           family = "mono",
   #           nudge_y = .011) +
