@@ -20,7 +20,7 @@ permalink: /projects/weather/
 
 ",severe_weather_outlook_url,"
 
-<p class=\"updated_time\">Source: <a href=\"https://www.spc.noaa.gov\">NWS</a>.</p> 
+<p class=\"updated_time\">Source: <a href=\"https://www.spc.noaa.gov\">NOAA/NWS Storm Prediction Center</a>.</p> 
 
 ",
 sep = ""
