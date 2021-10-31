@@ -9,6 +9,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 03:11 PM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/31/climate/g20-coal.html">G20 Nations Agree to New Limits on Coal-Burning Power Plants</a> NYT: The world’s largest economies will stop financing coal plants abroad, though that falls far short of what’s needed to fight climate change, raising fears of half-steps at this week’s U.N. summit. 
+ <p class="updated_time"> 03:08 PM CT, Oct. 31 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59113437?at_medium=RSS&at_campaign=KARANGA">Biden at G20: Russia and China 'didn't show up' on climate</a> BBC: US President Joe Biden addresses disappointment by some about what was agreed at the G20 ahead of COP26. 
  <p class="updated_time"> 03:07 PM CT, Oct. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59110828?at_medium=RSS&at_campaign=KARANGA">Japan election: Ruling LDP retains majority - exit polls</a> BBC: Prime Minister Fumio Kishida's ruling LDP party wins enough votes to stay in power, exit polls say. 
  <p class="updated_time"> 02:32 PM CT, Oct. 31 </p> 
@@ -95,8 +97,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59029517?at_medium=RSS&at_campaign=KARANGA">How the Taliban takeover changed my life</a> BBC: From office workers to students, Afghans share how their lives have changed since August. 
  <p class="updated_time"> 06:01 PM CT, Oct. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59084408?at_medium=RSS&at_campaign=KARANGA">Israeli woman jailed three times for refusing to join the army</a> BBC: Most Jewish Israelis do military service. But a small number, like Shahar, take an ideological stance. 
- <p class="updated_time"> 06:01 PM CT, Oct. 30 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59093226?at_medium=RSS&at_campaign=KARANGA">The women reviving a vanishing legacy of Sufi music in Kashmir</a> BBC: This six-piece band has overcome a lot of opposition to be able to play Islamic devotional music. 
  <p class="updated_time"> 05:36 PM CT, Oct. 30 </p> 
  <a href="https://www.wsj.com/articles/chinas-manufacturing-activity-contracts-for-second-straight-month-11635645642">China's Manufacturing Activity Contracts for Second Straight Month</a> WSJ: New data adds evidence that growth momentum has weakened as the country’s manufacturing sector is weighed down by soaring raw material costs, a widespread power crisis and a slowdown in the property sector. 
  <p class="updated_time"> 04:51 PM CT, Oct. 30 </p> 
