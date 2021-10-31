@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:13 PM CT, Oct. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59103901?at_medium=RSS&at_campaign=KARANGA">Sudan coup: Three killed in protests against military takeover</a> BBC: Activists say security forces fired live rounds and tear gas at crowds, injuring around 100 people. 
+ <p class="updated_time"> 06:51 PM CT, Oct. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59029517?at_medium=RSS&at_campaign=KARANGA">How the Taliban takeover changed my life</a> BBC: From office workers to students, Afghans share how their lives have changed since August. 
  <p class="updated_time"> 06:33 PM CT, Oct. 30 </p> 
  <a href="https://www.bbc.co.uk/news/stories-59075832?at_medium=RSS&at_campaign=KARANGA">A lifetime with the Yanomami people of the Amazon</a> BBC: The photographer who spent 50 years fighting to protect indigenous people. 
  <p class="updated_time"> 06:07 PM CT, Oct. 30 </p> 
@@ -35,8 +39,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/30/world/europe/g20-summit-covid-vaccines.html">Pressure Grows on G20 Nations to Get Covid Vaccines to Poorer Countries</a> NYT: Talk at the summit is focused on preventing future pandemics. Critics say the current one must be addressed first. 
  <p class="updated_time"> 01:53 PM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/30/world/middleeast/lebanon-ambassadors-saudi-gulf.html">Gulf States Withdraw Ambassadors to Lebanon Over Criticism of Yemen War</a> NYT: With a few stray comments from a minor minister, Lebanon once again found itself caught in the rivalry between Saudi Arabia and Iran, underscoring just how vulnerable it is to the whims of its more powerful neighbors. 
- <p class="updated_time"> 01:42 PM CT, Oct. 30 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59103901?at_medium=RSS&at_campaign=KARANGA">Sudan coup: Thousands take to streets in new protests</a> BBC: Three people are reportedly killed as crowds press for a return to a civilian-led government. 
  <p class="updated_time"> 12:43 PM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/30/world/middleeast/g20-summit-iran-nuclear.html">G20 Agenda Includes Nuclear Impasse With Iran</a> NYT: Biden administration officials have suggested that time is running out to salvage the 2015 accord under which Iran sharply curtailed its nuclear activities. 
  <p class="updated_time"> 12:30 PM CT, Oct. 30 </p> 
