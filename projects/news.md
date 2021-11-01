@@ -186,6 +186,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:30 AM CT, Nov. 01 </p> 
+ <a href="https://www.politico.com/news/2021/11/01/gop-relishes-political-upsides-517847">GOP relishes political upsides as Dems toil for unity</a> Politico: The House Republican conference is mostly avoiding the spotlight these days, getting fewer tough questions as the opposing party struggles. It doesn't mind at all. 
  <p class="updated_time"> 02:00 AM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/nyregion/democratic-party-ny.html">What Does It Mean to Be a New York Democrat These Days?</a> NYT: A series of Election Day contests may serve as a barometer of how far left Democratic voters in New York State want their party to go. 
  <p class="updated_time"> 11:23 PM CT, Oct. 31 </p> 
@@ -264,8 +266,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/10/27/mark-warner-havana-syndrome-intel-517331">Warner calls lack of Havana Syndrome intel ‘very, very problematic’</a> Politico: But the Senate Intelligence Committee chair insisted lawmakers are “absolutely on top of this.” 
  <p class="updated_time"> 09:25 AM CT, Oct. 27 </p> 
  <a href="https://www.politico.com/news/2021/10/27/top-dems-social-spending-deal-manchin-sinema-517332">Liberal frustration imperils quick Dem social spending deal</a> Politico: President Biden will visit the House Democratic Caucus on Thursday morning, delaying his planned departure on a foreign trip. 
- <p class="updated_time"> 09:22 PM CT, Oct. 26 </p> 
- <a href="https://www.politico.com/news/2021/10/26/january-6-committee-trump-lawyer-testimony-517310">Jan. 6 committee to seek testimony from Trump lawyer who drafted strategy to overturn election</a> Politico: John Eastman crafted a legal analysis to help the outgoing president try to overturn the 2020 results. 
 
 
 </details>
