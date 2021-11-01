@@ -7,8 +7,12 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:17 PM CT, Nov. 01 </p> 
+ <p class="updated_time"> 01:23 PM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/live/2021/11/01/world/cop26-climate-change-summit">COP26 Live Updates: Climate Change Is a ‘Challenge of Our Collective Lifetime,’ Biden Says</a> NYT: António Guterres, the U.N. secretary general, opened the conference with a blistering critique of the world’s failure to unite to address global warming. 
+ <p class="updated_time"> 01:18 PM CT, Nov. 01 </p> 
+ <a href="https://www.nytimes.com/2021/11/01/world/asia/modi-india-cop26-renewable-energy.html">India Will Sharply Increase Renewable Energy, Modi Says</a> NYT: Wealthy nations need to spend $1 trillion to help developing nations like India make the transition to renewables, Prime Minister Modi said. 
+ <p class="updated_time"> 01:18 PM CT, Nov. 01 </p> 
+ <a href="https://www.nytimes.com/2021/11/01/world/europe/britain-climate-change.html">Once a Leading Polluter, the U.K. Is Now Trying to Lead on Climate Change</a> NYT: On the eve of a global climate summit, Britain’s evolution from fossil fuels to clean energy is on display. But experts question whether its commitment is sufficient, and whether it can persuade other nations to meet meaningful goals. 
  <p class="updated_time"> 01:04 PM CT, Nov. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59125228?at_medium=RSS&at_campaign=KARANGA">Deaths confirmed in Nigeria high-rise building collapse in Lagos</a> BBC: Police say three people have died while many more are feared trapped in the rubble in Lagos. 
  <p class="updated_time"> 12:57 PM CT, Nov. 01 </p> 
@@ -29,8 +33,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-59125138?at_medium=RSS&at_campaign=KARANGA">COP26: David Attenborough says world is looking to leaders</a> BBC: The naturalist urges climate summit delegates to "turn tragedy into triumph" for young people. 
  <p class="updated_time"> 11:43 AM CT, Nov. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59124419?at_medium=RSS&at_campaign=KARANGA">Military officers condemn CIA torture as a stain on America</a> BBC: Military jury asks for clemency in case of Majid Khan and rebukes his alleged treatment by the CIA. 
- <p class="updated_time"> 11:33 AM CT, Nov. 01 </p> 
- <a href="https://www.nytimes.com/2021/11/01/world/europe/britain-climate-change.html">Once a Leading Polluter, the U.K. Is Now Trying to Lead on Climate Change</a> NYT: On the eve of a global climate summit, Britain’s evolution from fossil fuels to clean energy is on display. But experts question whether its commitment is sufficient, and whether it can persuade other nations to meet meaningful goals. 
  <p class="updated_time"> 11:11 AM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/biden-emissions-cop26-glasgow.html">Biden Calls for Tougher Actions on Emissions at COP26</a> NYT: “We have only a brief window” to avoid the most disastrous effects of global warming, President Biden warned at the United Nations climate summit. 
  <p class="updated_time"> 11:07 AM CT, Nov. 01 </p> 
@@ -135,8 +137,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/31/world/asia/afghanistan-taliban-artists.html">Afghan Art Flourished for 20 Years. Can It Survive the New Taliban Regime?</a> NYT: So far, the Taliban have not banned art outright. But many artists have fled Afghanistan, fearing for their work and their lives. 
  <p class="updated_time"> 10:06 AM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/31/us/politics/saudi-investment-conference-trump-allies.html">Trump Allies Are Prominent at Saudi Investment Conference</a> NYT: But the Biden administration sent only a deputy commerce secretary to the high-profile gathering, amid shifts in global politics and diplomatic strains. 
- <p class="updated_time"> 05:51 AM CT, Oct. 31 </p> 
- <a href="https://www.nytimes.com/2021/10/30/world/americas/g20-summit-rome-covid-protests-biden-draghi.html">Pressure Grows on G20 Nations to Get Covid Vaccines to the Poor</a> NYT: The world’s leaders are focusing on preventing future pandemics, but experts say rich nations are not doing enough to help the poor survive the current one. 
  <p class="updated_time"> 05:50 AM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/30/world/europe/g20-biden-corporate-tax-agreement.html">Biden Finds Raising Corporate Tax Rates Easier Abroad Than at Home</a> NYT: As the Group of 20 seals a new global minimum tax for companies, the president has scaled back his plans to tax U.S. corporations more. 
  <p class="updated_time"> 04:26 AM CT, Oct. 31 </p> 
