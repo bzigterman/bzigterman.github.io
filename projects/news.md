@@ -7,8 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:37 PM CT, Nov. 01 </p> 
- <a href="https://www.nytimes.com/live/2021/11/01/world/cop26-climate-change-summit">COP26 Live Updates: Climate Change Is ‘Ravaging the World,’ Biden Tells Summit</a> NYT: António Guterres, the U.N. secretary general, opened the conference with a blistering critique of the world’s failure to unite to address global warming. 
+ <p class="updated_time"> 12:49 PM CT, Nov. 01 </p> 
+ <a href="https://www.nytimes.com/live/2021/11/01/world/cop26-climate-change-summit">COP26 Live Updates: Climate Change Is a ‘Challenge of Our Collective Lifetime,’ Biden Says</a> NYT: António Guterres, the U.N. secretary general, opened the conference with a blistering critique of the world’s failure to unite to address global warming. 
  <p class="updated_time"> 12:30 PM CT, Nov. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59125143?at_medium=RSS&at_campaign=KARANGA">COP26: India PM Narendra Modi pledges net zero by 2070</a> BBC: The pledge misses a key goal of the COP26 summit for all nations to commit to net zero by 2050. 
  <p class="updated_time"> 12:23 PM CT, Nov. 01 </p> 
