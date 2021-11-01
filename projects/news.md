@@ -29,6 +29,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/01/world/europe/david-attenborough-cop26.html">David Attenborough Urges Leaders at COP26 Summit to ‘Rewrite Our Story’</a> NYT: “If working apart we are force powerful enough to destabilize our planet,” the naturalist said, “surely working together we are powerful enough to save it.” 
  <p class="updated_time"> 01:53 PM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/biden-emissions-cop26-glasgow.html">Biden Calls for Tougher Actions on Emissions at COP26</a> NYT: “We have only a brief window” to avoid the most disastrous effects of global warming, President Biden warned at the United Nations climate summit. 
+ <p class="updated_time"> 01:37 PM CT, Nov. 01 </p> 
+ <a href="https://www.wsj.com/articles/cop26-kicks-off-in-glasgow-amid-sharp-divides-over-climate-goals-11635767355">At COP26, Biden Calls for More Action on Climate as Divides Widen</a> WSJ: As U.S. president says the coming decade will be decisive for avoiding the most destructive effects of global warming, India gives slower-than-expected deadline for slashing its carbon emissions. 
  <p class="updated_time"> 01:18 PM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/europe/britain-climate-change.html">Once a Leading Polluter, the U.K. Is Now Trying to Lead on Climate Change</a> NYT: On the eve of a global climate summit, Britain’s evolution from fossil fuels to clean energy is on display. But experts question whether its commitment is sufficient, and whether it can persuade other nations to meet meaningful goals. 
  <p class="updated_time"> 12:57 PM CT, Nov. 01 </p> 
@@ -83,8 +85,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/01/world/asia/thailand-reopens-tourists-quarantine.html">Thailand Reopens to Tourists Without Requiring Quarantine</a> NYT: About a fifth of the nation’s economy depends on the vacation industry. Before the pandemic, the country was one of the world’s top destinations, drawing nearly 40 million visitors in 2019. 
  <p class="updated_time"> 06:49 AM CT, Nov. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59119621?at_medium=RSS&at_campaign=KARANGA">Covid-19: Single case shuts down Shanghai Disneyland</a> BBC: The Chinese theme park closes for at least two days after a visitor tests positive. 
- <p class="updated_time"> 06:43 AM CT, Nov. 01 </p> 
- <a href="https://www.wsj.com/articles/cop26-kicks-off-in-glasgow-amid-sharp-divides-over-climate-goals-11635767355">At COP26, Biden Calls for Climate Action Amid Wide Divisions</a> WSJ: The U.S. president said the coming decade will be decisive, as world leaders faced large gaps over how to slash emissions quickly enough to avoid the most destructive effects of global warming. 
  <p class="updated_time"> 06:32 AM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/10/31/us/ramaphosa-anc-south-africa.html">He Brokered Apartheid’s End. Can He Save South Africa’s Liberation Party?</a> NYT: President Cyril Ramaphosa ascended to office on a reputation as a great negotiator and consensus builder. Now he must persuade voters to stick with the party of Nelson Mandela. 
  <p class="updated_time"> 06:05 AM CT, Nov. 01 </p> 
@@ -168,10 +168,10 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:27 PM CT, Nov. 01 </p> 
+ <a href="https://www.nytimes.com/2021/11/01/us/linwood-holton-dead.html">Linwood Holton, 98,Virginia Governor Who Pushed for Racial Equality, Dies</a> NYT: The first Republican governor of the state in almost a century, he seemed to herald a new, post-racial South. He later became disillusioned with his own party. 
  <p class="updated_time"> 05:16 PM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/us/politics/youngkin-trump-mcauliffe-virginia-governor.html">As Youngkin Tries to Finesse Trump, McAuliffe Conjures His Comeback</a> NYT: Barnstorming Virginia, the candidates for governor hammered away at their core arguments. For the Republican: parents’ involvement in schools. For the Democrat: Trump redux. 
- <p class="updated_time"> 05:00 PM CT, Nov. 01 </p> 
- <a href="https://www.nytimes.com/2021/11/01/us/linwood-holton-dead.html">Linwood Holton, Virginia Governor Who Pushed for Racial Equality, Dies at 98</a> NYT: The first Republican governor of the state in almost a century, he seemed to herald a new, post-racial South. He later became disillusioned with his own party. 
  <p class="updated_time"> 04:59 PM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/us/politics/medicaid-uninsured.html">Democrats’ Bill Would Cover Poor Uninsured Adults, Up to a Point</a> NYT: The $1.85 trillion social policy bill would provide free private health insurance for more than two million adults locked out of coverage, but only for four years. 
  <p class="updated_time"> 04:52 PM CT, Nov. 01 </p> 
