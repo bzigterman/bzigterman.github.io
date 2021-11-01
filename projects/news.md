@@ -160,8 +160,12 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
- <p class="updated_time"> 02:19 PM CT, Nov. 01 </p> 
+ <p class="updated_time"> 02:29 PM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/us/politics/manchin-endorse-framework.html">Manchin Refuses to Endorse Safety Net Bill, Dampening Hopes of a Quick Vote</a> NYT: The Democratic senator, a crucial swing vote, demanded more time to evaluate the economic and fiscal ramifications of the $1.85 trillion plan, frustrating plans for a House vote this week. 
+ <p class="updated_time"> 02:29 PM CT, Nov. 01 </p> 
+ <a href="https://www.nytimes.com/2021/11/01/us/politics/supreme-court-texas-abortion-law.html">Supreme Court Hints That It May Allow Challenge to Texas Abortion Law</a> NYT: In two arguments on Monday, the justices considered challenges from abortion providers and the Biden administration to a law that bans abortions after about six weeks. 
+ <p class="updated_time"> 02:28 PM CT, Nov. 01 </p> 
+ <a href="https://www.nytimes.com/2021/11/01/us/politics/youngkin-trump-mcauliffe-virginia-governor.html">As Youngkin Tries to Finesse Trump, McAuliffe Conjures His Comeback</a> NYT: Barnstorming Virginia, the candidates for governor hammered away at their core arguments. For the Republican: parents’ involvement in schools. For the Democrat: Trump redux. 
  <p class="updated_time"> 02:01 PM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/business/stablecoins-cryptocurrency-regulation.html">Regulators Ask Congress to Create New Rules for Cryptocurrencies</a> NYT: A Treasury Department report says stablecoin issuers should operate like banks to avoid destabilizing runs that could erode financial stability. 
  <p class="updated_time"> 01:35 PM CT, Nov. 01 </p> 
@@ -194,14 +198,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/31/us/lets-go-brandon-southwest-airlines.html">Why a Pilot Is Under Investigation for Saying ‘Let’s Go Brandon’</a> NYT: His remarks went viral after he repeated the chant, which is understood to be code for swearing at President Biden, during a Southwest Airlines flight. 
  <p class="updated_time"> 08:57 PM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/31/us/politics/guantanamo-torture-letter.html">U.S. Military Jury Condemns Terrorist’s Torture and Urges Clemency</a> NYT: Seven senior officers rebuked the government’s treatment of an admitted terrorist in a handwritten letter from the jury room at Guantánamo Bay. 
- <p class="updated_time"> 06:06 PM CT, Oct. 31 </p> 
- <a href="https://www.nytimes.com/2021/10/31/business/economy/global-shipping-delays-shortages.html">Global Shipping Delays Loom Over Retailers for the Holidays</a> NYT: The travails of a Chicago fishing company’s advent calendar highlight the supply chain hurdles for businesses trying to deliver items in time for the holidays. 
  <p class="updated_time"> 04:37 PM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/31/climate/climate-change-biden-cop26.html">At Climate Talks, Biden Will Try to Sell American Leadership to Skeptics</a> NYT: The president wants to assure Glasgow’s climate summit that the U.S. is serious about climate change. But he lacks a legislative win at home. 
  <p class="updated_time"> 04:26 PM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/31/us/politics/virginia-governors-race-youngkin-mcauliffe.html">In the Final Days Before Virginia Votes, Both Sides Claim Momentum</a> NYT: Glenn Youngkin and Terry McAuliffe crisscrossed Virginia on the last weekend of what has become an increasingly close race for governor. 
- <p class="updated_time"> 03:11 PM CT, Oct. 31 </p> 
- <a href="https://www.nytimes.com/2021/10/31/climate/g20-coal.html">G20 Nations Agree to New Limits on Coal-Burning Power Plants</a> NYT: The world’s largest economies will stop financing coal plants abroad, though that falls far short of what’s needed to fight climate change, raising fears of half-steps at this week’s U.N. summit. 
  <p class="updated_time"> 12:46 PM CT, Oct. 31 </p> 
  <a href="https://www.politico.com/news/2021/10/31/john-curtis-climate-summit-glasgow-518013">What Utah Republican John Curtis is bringing to the U.N. climate summit</a> Politico: As a conservative House Republican focused on climate change, he’s charting his own course. 
  <p class="updated_time"> 10:45 AM CT, Oct. 31 </p> 
