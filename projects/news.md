@@ -7,7 +7,9 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:42 AM CT, Nov. 01 </p> 
+ <p class="updated_time"> 03:20 AM CT, Nov. 01 </p> 
+ <a href="https://www.nytimes.com/2021/11/01/world/europe/what-to-watch-for-on-monday-at-cop26.html">What to Watch For At Cop26 on Monday and Tuesday</a> NYT: Prime Minister Boris Johnson will welcome leaders, who will then lay out “concrete actions and credible plans.” David Attenborough and Prince Charles will also speak. 
+ <p class="updated_time"> 03:12 AM CT, Nov. 01 </p> 
  <a href="https://www.bbc.co.uk/news/business-59117084?at_medium=RSS&at_campaign=KARANGA">Barclays boss Jes Staley steps down over Epstein inquiry</a> BBC: Jes Staley is leaving the bank following an investigation into his links to sex offender Jeffrey Epstein. 
  <p class="updated_time"> 02:02 AM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/asia/new-zealand-bird-contest-bat.html">New Zealand Held a Contest for Bird of the Year. The Birds Lost.</a> NYT: The long-tailed bat, one of the country’s only two native land mammals, flew away with the top prize. 
@@ -29,6 +31,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/31/world/biden-g20-covid-climate.html">Struggling at Home, Biden Is Buoyed by G20 Trip Abroad</a> NYT: A trip to Rome invigorated a president whose poll numbers are slumping at home, but who projected confidence in his foreign and domestic agenda. 
  <p class="updated_time"> 11:22 PM CT, Oct. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59115346?at_medium=RSS&at_campaign=KARANGA">New Zealand bat flies away with bird of the year award</a> BBC: The win, seen by some as a much-needed PR victory for bats, has ruffled feathers among bird-lovers. 
+ <p class="updated_time"> 10:59 PM CT, Oct. 31 </p> 
+ <a href="https://www.wsj.com/articles/bidens-glasgow-challenge-is-to-convince-world-that-u-s-can-lead-on-climate-11635685201">Biden's Glasgow Challenge Is to Convince World That U.S. Can Lead on Climate</a> WSJ: The president seeks to rally global support for tough climate measures even as his domestic policy faces uncertainty. 
  <p class="updated_time"> 08:57 PM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/31/us/politics/guantanamo-torture-letter.html">U.S. Military Jury Condemns Terrorist’s Torture and Urges Clemency</a> NYT: Seven senior officers rebuked the government’s treatment of an admitted terrorist in a handwritten letter from the jury room at Guantánamo Bay. 
  <p class="updated_time"> 08:14 PM CT, Oct. 31 </p> 
@@ -87,8 +91,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/left-behind-after-u-s-withdrawal-some-former-afghan-spies-and-soldiers-turn-to-islamic-state-11635691605">Former Afghan Spies and Soldiers Turn to ISIS After U.S. Exit</a> WSJ: Hunted by the Taliban and lacking income, some members of Afghanistan’s disbanded security forces are enlisting in the only force currently challenging the country’s new rules. 
  <p class="updated_time"> 11:49 AM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/31/world/asia/afghanistan-taliban-artists.html">Afghan Art Flourished for 20 Years. Can It Survive the New Taliban Regime?</a> NYT: So far, the Taliban have not banned art outright. But many artists have fled Afghanistan, fearing for their work and their lives. 
- <p class="updated_time"> 10:29 AM CT, Oct. 31 </p> 
- <a href="https://www.wsj.com/articles/bidens-glasgow-challenge-is-to-convince-world-that-u-s-can-lead-on-climate-11635685201">Biden's Glasgow Challenge Is to Convince World That U.S. Can Lead on Climate</a> WSJ: The president seeks to rally global support for tough climate measures even as his domestic policy faces uncertainty. 
  <p class="updated_time"> 10:22 AM CT, Oct. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59112729?at_medium=RSS&at_campaign=KARANGA">Tokyo knife and arson attack: The moment train passengers flee</a> BBC: Video shows people trying to escape as smoke and flames fill a carriage. 
  <p class="updated_time"> 10:12 AM CT, Oct. 31 </p> 
@@ -165,8 +167,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/29/health/vaccination-covid.html">CDC Study Suggests Vaccination Offers More Protection Against Covid Than Prior Infection</a> NYT: The study of 7,000 people found that unvaccinated people who had Covid were five times as likely to get infected again as fully vaccinated people who never had the disease. 
  <p class="updated_time"> 01:58 PM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/world/europe/queen-elizabeth-2-weeks-rest.html">Queen Elizabeth Urged by Doctors to Rest at Least 2 Weeks</a> NYT: The advice from her medical team has heightened the worry about the health of the 95-year-old monarch, who has canceled the public appearances that had been on her calendar. 
- <p class="updated_time"> 01:57 PM CT, Oct. 29 </p> 
- <a href="https://www.nytimes.com/2021/10/29/world/europe/biden-pope-communion-abortion.html">Biden: Pope Says He Should Keep Receiving Communion</a> NYT: President Biden said abortion had not come up in their private meeting. “We just talked about the fact he was happy that I was a good Catholic and I should keep receiving communion,” he said. 
  <p class="updated_time"> 01:54 PM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/nyregion/nyc-schools-enrollment-covid.html">N.Y.C. Public School Enrollment Declined 4.5 Percent During the Pandemic</a> NYT: The city lost by far the largest number of students in its recent history between the fall of 2019 and the fall of 2020. 
  <p class="updated_time"> 11:31 AM CT, Oct. 29 </p> 
@@ -179,8 +179,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/29/climate/europe-energy-crisis-cop.html">How Rising Energy Prices Have Complicated Europe's Climate Crisis</a> NYT: Prices for power have soared, and some politicians are now trying to use that as a lever to slow action on climate change, a strategy with far-reaching consequences. 
  <p class="updated_time"> 07:12 PM CT, Oct. 25 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-58171814?at_medium=RSS&at_campaign=KARANGA">Climate change: Four things you can do about your carbon footprint</a> BBC: Small changes to our lifestyles and choices could limit our personal carbon footprint. 
- <p class="updated_time"> 11:10 AM CT, Oct. 25 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-56901261?at_medium=RSS&at_campaign=KARANGA">COP26: What is the Glasgow climate conference and why is it important?</a> BBC: A crucial climate change summit is being held in the UK - this is why it's important. 
 
 
 </details>
