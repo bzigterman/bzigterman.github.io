@@ -7,12 +7,12 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:46 PM CT, Nov. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59125653?at_medium=RSS&at_campaign=KARANGA">US Supreme Court hears arguments in controversial Texas abortion case</a> BBC: The justices will decide whether providers and the government can challenge Texas' abortion ban. 
  <p class="updated_time"> 03:39 PM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/live/2021/11/01/world/cop26-climate-change-summit">COP26 Live Updates: Climate Change Is a ‘Challenge of Our Collective Lifetime,’ Biden Says</a> NYT: In a meeting with world leaders after his address, Mr. Biden apologized for the U.S. withdrawal from the Paris Agreement under former President Donald J. Trump. The move “put us sort of behind the eight ball,” he said. 
  <p class="updated_time"> 03:39 PM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/europe/greta-thunberg-cop26-glasgow.html">Greta Thunberg Arrives in Glasgow for COP26 and Joins a Protest</a> NYT: The activist, whose solo climate strikes in 2018 helped fuel a youth climate movement, was greeted like a rock star upon arriving in the city, according to videos. 
- <p class="updated_time"> 03:29 PM CT, Nov. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59125653?at_medium=RSS&at_campaign=KARANGA">US Supreme Court hears arguments in controversial Texas abortion case</a> BBC: The justices will decide whether providers and the government can challenge Texas' abortion ban. 
  <p class="updated_time"> 03:22 PM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/10/31/climate/climate-change-biden-cop26.html">At Climate Talks, Biden Will Try to Sell American Leadership to Skeptics</a> NYT: The president wants to assure Glasgow’s climate summit that the U.S. is serious about climate change. But he lacks a legislative win at home. 
  <p class="updated_time"> 03:12 PM CT, Nov. 01 </p> 
