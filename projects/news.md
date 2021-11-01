@@ -7,8 +7,12 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:48 PM CT, Nov. 01 </p> 
- <a href="https://www.nytimes.com/live/2021/11/01/world/cop26-climate-change-summit">COP26 Live Updates: Climate Change Is a ‘Challenge of Our Collective Lifetime,’ Biden Says</a> NYT: In a meeting with world leaders after his address, Mr. Biden apologized for the U.S. withdrawal from the Paris Agreement under former President Donald J. Trump. The move “put us sort of behind the eight ball,” he said. 
+ <p class="updated_time"> 06:14 PM CT, Nov. 01 </p> 
+ <a href="https://www.nytimes.com/2021/10/31/world/nyc-firefighters-police-vaccine-mandate.html">Over 2,000 New York City Firefighters Took Sick Days as Vaccine Mandate Looms</a> NYT: More than 22,000 municipal workers remained unvaccinated a day before a city deadline to get their first dose of a coronavirus vaccine. 
+ <p class="updated_time"> 06:05 PM CT, Nov. 01 </p> 
+ <a href="https://www.nytimes.com/live/2021/11/01/world/cop26-climate-change-summit">Key Moments from Day 1 of the COP26 Climate Change Summit</a> NYT: Meeting in Glasgow, Scotland, President Biden and a host of other world leaders sounded dire warnings, but hopes for breakthrough action are muted. 
+ <p class="updated_time"> 06:03 PM CT, Nov. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-59128159?at_medium=RSS&at_campaign=KARANGA">Day of the Dead parade returns to Mexico City after Covid</a> BBC: The James Bond-inspired carnival fills Mexico City with skeletons, dancers and giant sculptures. 
  <p class="updated_time"> 05:48 PM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/queen-elizabeth-cop26.html"> Queen Elizabeth Urges Climate Action in COP26 Video</a> NYT: The 95-year-old monarch gave her address by video, after doctors advised her to rest and not go to the summit. Prince Charles attended and delivered a similar message. 
  <p class="updated_time"> 05:43 PM CT, Nov. 01 </p> 
@@ -107,8 +111,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/mariners-can-now-get-covid-19-vaccines-at-port-after-months-stranded-at-sea-11635759001">Stranded Mariners Can Now Get Covid Vaccines at Port</a> WSJ: Crews on cargo ships are receiving shots world-wide, preventing more supply-chain disruptions and allowing them to finally disembark. 
  <p class="updated_time"> 12:04 AM CT, Nov. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59115079?at_medium=RSS&at_campaign=KARANGA">Covid: Emotional reunions as Australia's border reopens</a> BBC: International travellers hug loved ones at Sydney Airport for the first time in 20 months. 
- <p class="updated_time"> 11:48 PM CT, Oct. 31 </p> 
- <a href="https://www.nytimes.com/2021/10/31/world/nyc-firefighters-police-vaccine-mandate.html">Over 2,000 New York City Firefighters Took Sick Days as Vaccine Mandate Looms</a> NYT: More than 22,000 municipal workers remained unvaccinated a day before a city deadline to get their first dose of a coronavirus vaccine. 
  <p class="updated_time"> 11:23 PM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/31/world/biden-g20-covid-climate.html">Struggling at Home, Biden Is Buoyed by G20 Trip Abroad</a> NYT: A trip to Rome invigorated a president whose poll numbers are slumping at home, but who projected confidence in his foreign and domestic agenda. 
  <p class="updated_time"> 08:57 PM CT, Oct. 31 </p> 
@@ -119,8 +121,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/30/world/asia/japan-election-fumio-kishida.html">Japan Election: Kishida Struggles to Connect With Voters</a> NYT: The governing Liberal Democrats won on Sunday, despite having chosen a prime minister, Fumio Kishida, who’s known for his lack of charisma. 
  <p class="updated_time"> 07:11 PM CT, Oct. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59093224?at_medium=RSS&at_campaign=KARANGA">Bam Bus: Three women, one cheating ex and an adventure</a> BBC: Bekah, Abi and Morgan became friends after discovering they were all dating the same man. 
- <p class="updated_time"> 07:05 PM CT, Oct. 31 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-58976336?at_medium=RSS&at_campaign=KARANGA">Mount Augustus: Preserving Australia's lesser-known sacred rock</a> BBC: Aboriginal rangers step up efforts to preserve Mount Augustus - a landmark twice the size of Uluru. 
  <p class="updated_time"> 07:03 PM CT, Oct. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59097021?at_medium=RSS&at_campaign=KARANGA">Libya: Thousands of migrants and refugees camp on UN's doorstep</a> BBC: Thousands of people are on the streets after fleeing overcrowded detention centres in Libya's capital. 
  <p class="updated_time"> 07:01 PM CT, Oct. 31 </p> 
@@ -168,7 +168,7 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
- <p class="updated_time"> 05:53 PM CT, Nov. 01 </p> 
+ <p class="updated_time"> 06:14 PM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/us/politics/manchin-endorse-framework.html">Manchin Raises Doubts on Safety Net Bill, Complicating Path to Quick Vote</a> NYT: Senator Joe Manchin III of West Virginia, a crucial Democratic swing vote, demanded more time to evaluate the economic and fiscal impact of the $1.85 trillion bill. 
  <p class="updated_time"> 05:27 PM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/us/linwood-holton-dead.html">Linwood Holton, 98,Virginia Governor Who Pushed for Racial Equality, Dies</a> NYT: The first Republican governor of the state in almost a century, he seemed to herald a new, post-racial South. He later became disillusioned with his own party. 
