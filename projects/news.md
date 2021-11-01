@@ -7,12 +7,14 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:44 PM CT, Nov. 01 </p> 
+ <p class="updated_time"> 05:48 PM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/live/2021/11/01/world/cop26-climate-change-summit">COP26 Live Updates: Climate Change Is a ‘Challenge of Our Collective Lifetime,’ Biden Says</a> NYT: In a meeting with world leaders after his address, Mr. Biden apologized for the U.S. withdrawal from the Paris Agreement under former President Donald J. Trump. The move “put us sort of behind the eight ball,” he said. 
- <p class="updated_time"> 05:21 PM CT, Nov. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59125228?at_medium=RSS&at_campaign=KARANGA">Nigeria building collapse: At leastfour killed in Lagos</a> BBC: Rescue efforts are underway in Lagos, with many people feared trapped under the rubble. 
- <p class="updated_time"> 05:19 PM CT, Nov. 01 </p> 
+ <p class="updated_time"> 05:48 PM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/queen-elizabeth-cop26.html"> Queen Elizabeth Urges Climate Action in COP26 Video</a> NYT: The 95-year-old monarch gave her address by video, after doctors advised her to rest and not go to the summit. Prince Charles attended and delivered a similar message. 
+ <p class="updated_time"> 05:43 PM CT, Nov. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59124427?at_medium=RSS&at_campaign=KARANGA">Dr Aaron Beck: Cognitive behavioural therapy pioneer dies aged 100</a> BBC: Dr Aaron Beck's work is considered revolutionary worldwide for the treatment of mental health. 
+ <p class="updated_time"> 05:21 PM CT, Nov. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59125228?at_medium=RSS&at_campaign=KARANGA">Nigeria building collapse: At least four killed in Lagos</a> BBC: Rescue efforts are underway in Lagos, with many people feared trapped under the rubble. 
  <p class="updated_time"> 04:49 PM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/australia/australia-border-reopening-covid.html">Australia Allows Residents, Citizens to Return as Borders Open</a> NYT: After 18 months of strict measures to combat the pandemic, the states of New South Wales and Victoria relaxed restrictions on citizens and permanent residents seeking to travel back from overseas. 
  <p class="updated_time"> 04:38 PM CT, Nov. 01 </p> 
@@ -59,8 +61,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/01/world/5-million-covid-deaths.html">Global Covid Death Toll Surpasses 5 Million, but Full Count Is Higher</a> NYT: Many countries do not accurately report their figures, and many Covid deaths are misattributed, experts say. 
  <p class="updated_time"> 10:40 AM CT, Nov. 01 </p> 
  <a href="https://www.bbc.co.uk/news/technology-59121165?at_medium=RSS&at_campaign=KARANGA">Chinese version of Fortnite to close in November</a> BBC: Epic Games has not explained the decision to end the Fortress Night game in the country. 
- <p class="updated_time"> 10:38 AM CT, Nov. 01 </p> 
- <a href="https://www.bbc.co.uk/news/uk-politics-59117529?at_medium=RSS&at_campaign=KARANGA">UK could take legal action against France over fishing row, says Liz Truss</a> BBC: The foreign secretary accuses France of "unfair behaviour" as it warns it could block British boats. 
  <p class="updated_time"> 10:34 AM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/europe/what-to-watch-monday-cop26.html">What to Watch For At COP26 on Monday and Tuesday</a> NYT: Prime Minister Boris Johnson was first to welcome leaders, who will then lay out “concrete actions and credible plans.” David Attenborough and Prince Charles are also speaking. 
  <p class="updated_time"> 10:15 AM CT, Nov. 01 </p> 
@@ -168,6 +168,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:53 PM CT, Nov. 01 </p> 
+ <a href="https://www.nytimes.com/2021/11/01/us/politics/manchin-endorse-framework.html">Manchin Raises Doubts on Safety Net Bill, Complicating Path to Quick Vote</a> NYT: Senator Joe Manchin III of West Virginia, a crucial Democratic swing vote, demanded more time to evaluate the economic and fiscal impact of the $1.85 trillion bill. 
  <p class="updated_time"> 05:27 PM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/us/linwood-holton-dead.html">Linwood Holton, 98,Virginia Governor Who Pushed for Racial Equality, Dies</a> NYT: The first Republican governor of the state in almost a century, he seemed to herald a new, post-racial South. He later became disillusioned with his own party. 
  <p class="updated_time"> 05:16 PM CT, Nov. 01 </p> 
@@ -190,8 +192,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/01/us/politics/ballot-initiatives-voters-voting.html">Desperate for Housing Options, Communities Turn to Ballot Initiatives</a> NYT: Cities and counties will vote on measures, like tax increases and curbs on Airbnb, aimed at creating more affordable housing. 
  <p class="updated_time"> 03:38 PM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/business/stablecoins-cryptocurrency-regulation.html">Regulators Ask Congress to Create New Rules for Cryptocurrencies</a> NYT: A Treasury Department report says stablecoin issuers should operate like banks to avoid destabilizing runs that could erode financial stability. 
- <p class="updated_time"> 02:30 PM CT, Nov. 01 </p> 
- <a href="https://www.nytimes.com/2021/11/01/us/politics/manchin-endorse-framework.html">Manchin Refuses to Endorse Safety Net Bill, Dampening Hopes of a Quick Vote</a> NYT: The Democratic senator, a crucial swing vote, demanded more time to evaluate the economic and fiscal ramifications of the $1.85 trillion plan, frustrating plans for a House vote this week. 
  <p class="updated_time"> 01:35 PM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/books/review/both-and-huma-abedin.html">Book Review: 'Both/And,' by Huma Abedin</a> NYT: “Both/And” may not be the most introspective memoir, but it gives readers a front-row view of heartache and humiliation. 
  <p class="updated_time"> 12:05 PM CT, Nov. 01 </p> 
