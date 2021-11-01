@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:21 PM CT, Nov. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-59125143?at_medium=RSS&at_campaign=KARANGA">COP26: India PM Narendra Modi pledges net zero by 2070</a> BBC: The pledge misses a key goal of the COP26 summit for all nations to commit to net zero by 2050. 
  <p class="updated_time"> 03:54 PM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/live/2021/11/01/world/cop26-climate-change-summit">COP26 Live Updates: Climate Change Is a ‘Challenge of Our Collective Lifetime,’ Biden Says</a> NYT: In a meeting with world leaders after his address, Mr. Biden apologized for the U.S. withdrawal from the Paris Agreement under former President Donald J. Trump. The move “put us sort of behind the eight ball,” he said. 
  <p class="updated_time"> 03:46 PM CT, Nov. 01 </p> 
@@ -17,8 +19,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/31/climate/climate-change-biden-cop26.html">At Climate Talks, Biden Will Try to Sell American Leadership to Skeptics</a> NYT: The president wants to assure Glasgow’s climate summit that the U.S. is serious about climate change. But he lacks a legislative win at home. 
  <p class="updated_time"> 03:12 PM CT, Nov. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59125228?at_medium=RSS&at_campaign=KARANGA">Nigeria building collapse: At least three killed in Lagos</a> BBC: Rescue efforts are underway in Lagos, with many people feared trapped under the rubble. 
- <p class="updated_time"> 02:36 PM CT, Nov. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-59125143?at_medium=RSS&at_campaign=KARANGA">COP26: India PM Narendra Modi pledges net zero by 2070</a> BBC: The pledge misses a key goal of the COP26 summit for all nations to commit to net zero by 2050. 
  <p class="updated_time"> 01:59 PM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/europe/david-attenborough-cop26.html">David Attenborough Urges Leaders at COP26 Summit to ‘Rewrite Our Story’</a> NYT: “If working apart we are force powerful enough to destabilize our planet,” the naturalist said, “surely working together we are powerful enough to save it.” 
  <p class="updated_time"> 01:53 PM CT, Nov. 01 </p> 
