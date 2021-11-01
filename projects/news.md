@@ -7,8 +7,16 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:52 AM CT, Nov. 01 </p> 
+ <p class="updated_time"> 09:07 AM CT, Nov. 01 </p> 
+ <a href="https://www.nytimes.com/2021/11/01/world/asia/new-zealand-bird-contest-bat.html">New Zealand Long-Tailed Bat Wins Bird of the Year</a> NYT: The long-tailed bat, one of the country’s only two native land mammals, flew away with the top prize. 
+ <p class="updated_time"> 09:06 AM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/live/2021/11/01/world/cop26-climate-change-summit">COP26 Live Updates: ‘We Are Digging Our Own Graves,’ U.N. Leader Warns at Climate Summit</a> NYT: António Guterres, the U.N. secretary general, opened the conference with a blistering critique of the world’s failure to unite to address global warming. President Biden is expected to address the conference soon. 
+ <p class="updated_time"> 09:06 AM CT, Nov. 01 </p> 
+ <a href="https://www.nytimes.com/2021/11/01/world/europe/david-attenborough-cop26.html">David Attenborough Urges Leaders at COP26 Summit to ‘Rewrite Our Story’</a> NYT: “If working apart we are force powerful enough to destabilize our planet,” the naturalist said, “surely working together we are powerful enough to save it.” 
+ <p class="updated_time"> 08:58 AM CT, Nov. 01 </p> 
+ <a href="https://www.nytimes.com/2021/11/01/sports/women-beach-handball-bikini.html">Handball Federation Ends Bikini Bottom Requirement for Women</a> NYT: After outrage over a fine levied against the Norwegian women’s beach handball team for competing in shorts, the sport’s international federation said it was changing its rules. 
+ <p class="updated_time"> 08:57 AM CT, Nov. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/business-59117084?at_medium=RSS&at_campaign=KARANGA">Barclays boss Jes Staley in shock exit angry at Epstein probe</a> BBC: Jes Staley is leaving the bank following an investigation into his links to sex offender Jeffrey Epstein. 
  <p class="updated_time"> 08:42 AM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/europe/cop26-climate-antonio-guterres.html">U.N. Leader Warns of 'Climate Catastrophe' at COP26 Summit</a> NYT: He urged countries to review their climate pledges annually rather than every five years as called for in the 2015 Paris accord. 
  <p class="updated_time"> 08:39 AM CT, Nov. 01 </p> 
@@ -27,8 +35,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/01/world/asia/thailand-reopens-tourists-quarantine.html">Thailand Reopens to Tourists Without Requiring Quarantine</a> NYT: About a fifth of the nation’s economy depends on the vacation industry. Before the pandemic, the country was one of the world’s top destinations, drawing nearly 40 million visitors in 2019. 
  <p class="updated_time"> 07:25 AM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/10/29/world/nyc-vaccine-mandate-resistance.html">Tensions Rise with Next Phase of NYCs Vaccine Mandate</a> NYT: Last-minute shots brought thousands more workers in the Police, Fire and Sanitation Departments into compliance. 
- <p class="updated_time"> 07:24 AM CT, Nov. 01 </p> 
- <a href="https://www.bbc.co.uk/news/business-59117084?at_medium=RSS&at_campaign=KARANGA">Barclays boss Jes Staley in shock exit over Epstein inquiry</a> BBC: Jes Staley is leaving the bank following an investigation into his links to sex offender Jeffrey Epstein. 
  <p class="updated_time"> 06:49 AM CT, Nov. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59119621?at_medium=RSS&at_campaign=KARANGA">Covid-19: Single case shuts down Shanghai Disneyland</a> BBC: The Chinese theme park closes for at least two days after a visitor tests positive. 
  <p class="updated_time"> 06:43 AM CT, Nov. 01 </p> 
@@ -47,8 +53,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/01/world/europe/climate-conference-kicks-off-in-glasgow-with-floods-and-low-expectations.html">Climate conference kicks off in Glasgow with floods and low expectations.</a> NYT: NA 
  <p class="updated_time"> 04:03 AM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/europe/greta-thunberg-cop26-glasgow.html">Greta Thunberg Is Mobbed as She Arrives in Glasgow for COP26</a> NYT: Ms. Thunberg, whose solo climate strikes in 2018 helped fuel a global youth climate movement, was greeted with a mix of cheers and yells, according to videos. 
- <p class="updated_time"> 02:02 AM CT, Nov. 01 </p> 
- <a href="https://www.nytimes.com/2021/11/01/world/asia/new-zealand-bird-contest-bat.html">New Zealand Held a Contest for Bird of the Year. The Birds Lost.</a> NYT: The long-tailed bat, one of the country’s only two native land mammals, flew away with the top prize. 
  <p class="updated_time"> 01:42 AM CT, Nov. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59110828?at_medium=RSS&at_campaign=KARANGA">Japan election: PM Fumio Kishida declares victory for ruling LDP</a> BBC: He has defied initial expectations to lead the Liberal Democratic Party to a comfortable majority. 
  <p class="updated_time"> 01:09 AM CT, Nov. 01 </p> 
@@ -123,8 +127,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/29/us/politics/g20-global-tax-deal.html">A Global Tax Deal Is at Hand. Here’s How It Would Work.</a> NYT: President Biden will sign on to an international pact aimed at ending profit-shifting by large companies. Here’s a look at what it means. 
  <p class="updated_time"> 05:50 AM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/30/world/europe/g20-biden-corporate-tax-agreement.html">Biden Finds Raising Corporate Tax Rates Easier Abroad Than at Home</a> NYT: As the Group of 20 seals a new global minimum tax for companies, the president has scaled back his plans to tax U.S. corporations more. 
- <p class="updated_time"> 05:49 AM CT, Oct. 31 </p> 
- <a href="https://www.nytimes.com/2021/10/29/world/europe/biden-g20.html">Biden Eases Fray With France and Savors Meeting With Pope as Europe Trip Begins</a> NYT: Mr. Biden sought to mend ties with France’s president over a sabotaged French submarine contract, and expressed gratitude toward Pope Francis after a 90-minute meeting. 
  <p class="updated_time"> 04:26 AM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/30/world/g20-photos.html">Photos From the G20 Summit in Rome</a> NYT: Colorful protests outside the G20 meetings, and in them, exchanges between world leaders. 
  <p class="updated_time"> 03:38 AM CT, Oct. 31 </p> 
@@ -161,8 +163,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/30/travel/rick-steves-europe-tours.html">Rick Steves on the Return of Travel and Why It Matters</a> NYT: The travel writer and TV personality is back in Europe, planning itineraries for next year. Travel, he says, can help us understand the world. Here’s how he recommends doing it. 
  <p class="updated_time"> 03:52 AM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/30/world/europe/g20-summit-rome-security.html">Italy Deploys Vast Security in Anticipation of G20 Protests</a> NYT: In 2001, a Group of 8 summit in Genoa was met with protests that turned violent. 
- <p class="updated_time"> 10:03 PM CT, Oct. 29 </p> 
- <a href="https://www.nytimes.com/2021/10/29/us/politics/coronavirus-origin-intelligence-report.html">Origin of Virus May Remain Murky, U.S. Intelligence Agencies Say</a> NYT: A declassified report said a clearer answer would require more information from Beijing or new discoveries and reiterated divisions over natural causes vs. a lab leak. 
  <p class="updated_time"> 10:00 AM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/world/europe/spanish-writer-carmen-mola-true-identity.html">Behind a Top Female Name in Spanish Crime Fiction: Three Men</a> NYT: Carmen Mola, a novelist publishing under a pen name, seemed to shatter a glass ceiling in the world of Spanish books. But when the author’s true identity was revealed while claiming a big prize, it was a shock. 
 
@@ -172,14 +172,14 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:04 AM CT, Nov. 01 </p> 
+ <a href="https://www.nytimes.com/2021/10/31/us/politics/texas-abortion-law-supreme-court.html">When Will the Supreme Court Hear Arguments on the Texas Abortion Law?</a> NYT: The New York Times will be streaming the oral arguments and providing live coverage of the proceedings when they begin at 10 a.m. Eastern. 
+ <p class="updated_time"> 08:57 AM CT, Nov. 01 </p> 
+ <a href="https://www.nytimes.com/2021/11/01/books/huma-abedin-book-weiner-hillary-clinton.html">7 Takeaways From Huma Abedin's Book</a> NYT: In her new memoir, “Both/And,” Hillary Clinton’s longtime aide opens up about her ex-husband, the 2016 election and more. 
  <p class="updated_time"> 08:02 AM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/10/31/us/politics/kavanaugh-texas-abortion-law.html">In Texas Abortion Law Case, a Spotlight on Brett Kavanaugh</a> NYT: If the Supreme Court is to reverse course after refusing to block the law in September, at least one conservative justice must change positions. Justice Kavanaugh is the most likely candidate. 
- <p class="updated_time"> 08:00 AM CT, Nov. 01 </p> 
- <a href="https://www.nytimes.com/2021/10/31/us/politics/texas-abortion-law-supreme-court.html">When Will the Supreme Court Hear Arguments on the Texas Abortion Law?</a> NYT: The New York Times will be streaming the oral arguments and providing live coverage of the proceedings when they begin at 10 a.m. Eastern. 
  <p class="updated_time"> 07:54 AM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/books/review/both-and-huma-abedin.html">Book Review: 'Both/And,' by Huma Abedin</a> NYT: “Both/And” may not be the most introspective memoir, but it gives readers a front-row view of heartache and humiliation. 
- <p class="updated_time"> 07:52 AM CT, Nov. 01 </p> 
- <a href="https://www.nytimes.com/2021/11/01/books/huma-abedin-book-weiner-hillary-clinton.html">7 Takeaways From Huma Abedin's Book</a> NYT: In her new memoir, “Both/And,” Hillary Clinton’s longtime aide opens up about her ex-husband, the 2016 election and more. 
  <p class="updated_time"> 06:23 AM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/us/politics/ballot-initiatives-voters-voting.html">Desperate for Housing Options, Communities Turn to Ballot Initiatives</a> NYT: Cities and counties will vote on measures, like tax increases and curbs on Airbnb, aimed at creating more affordable housing. 
  <p class="updated_time"> 03:30 AM CT, Nov. 01 </p> 
