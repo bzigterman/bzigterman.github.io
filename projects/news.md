@@ -7,10 +7,12 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:37 PM CT, Nov. 01 </p> 
+ <a href="https://www.nytimes.com/live/2021/11/01/world/cop26-climate-change-summit">COP26 Live Updates: Climate Change Is ‘Ravaging the World,’ Biden Tells Summit</a> NYT: António Guterres, the U.N. secretary general, opened the conference with a blistering critique of the world’s failure to unite to address global warming. 
+ <p class="updated_time"> 12:30 PM CT, Nov. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-59125143?at_medium=RSS&at_campaign=KARANGA">COP26: India PM Narendra Modi pledges net zero by 2070</a> BBC: The pledge misses a key goal of the COP26 summit for all nations to commit to net zero by 2050. 
  <p class="updated_time"> 12:23 PM CT, Nov. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59125228?at_medium=RSS&at_campaign=KARANGA">People feared trapped in Nigeria high-rise collapse in Lagos</a> BBC: The multi-storey building in Lagos was under construction before being reduced to a pile of rubble. 
- <p class="updated_time"> 12:13 PM CT, Nov. 01 </p> 
- <a href="https://www.nytimes.com/live/2021/11/01/world/cop26-climate-change-summit">COP26 Live Updates: Climate Change Is ‘Ravaging the World,’ Biden Tells Summit</a> NYT: António Guterres, the U.N. secretary general, opened the conference with a blistering critique of the world’s failure to unite to address global warming. 
  <p class="updated_time"> 12:13 PM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/europe/cop26-climate-antonio-guterres.html">U.N. Leader, António Guterres, Warns of 'Climate Catastrophe' at COP26</a> NYT: He urged countries to review their climate pledges annually rather than every five years as called for in the 2015 Paris accord. 
  <p class="updated_time"> 12:10 PM CT, Nov. 01 </p> 
@@ -67,8 +69,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/01/world/asia/thailand-reopens-tourists-quarantine.html">Thailand Reopens to Tourists Without Requiring Quarantine</a> NYT: About a fifth of the nation’s economy depends on the vacation industry. Before the pandemic, the country was one of the world’s top destinations, drawing nearly 40 million visitors in 2019. 
  <p class="updated_time"> 06:49 AM CT, Nov. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59119621?at_medium=RSS&at_campaign=KARANGA">Covid-19: Single case shuts down Shanghai Disneyland</a> BBC: The Chinese theme park closes for at least two days after a visitor tests positive. 
- <p class="updated_time"> 06:43 AM CT, Nov. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-59118693?at_medium=RSS&at_campaign=KARANGA">Yemen war: Deadly missile attack on Marib religious school</a> BBC: The Yemeni government blames Houthi rebels for the attack, which killed or wounded 29 civilians. 
  <p class="updated_time"> 06:43 AM CT, Nov. 01 </p> 
  <a href="https://www.wsj.com/articles/cop26-kicks-off-in-glasgow-amid-sharp-divides-over-climate-goals-11635767355">At COP26, Biden Calls for Climate Action Amid Wide Divisions</a> WSJ: The U.S. president said the coming decade will be decisive, as world leaders faced large gaps over how to slash emissions quickly enough to avoid the most destructive effects of global warming. 
  <p class="updated_time"> 06:32 AM CT, Nov. 01 </p> 
