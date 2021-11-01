@@ -7,12 +7,16 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:59 AM CT, Nov. 01 </p> 
- <a href="https://www.nytimes.com/live/2021/11/01/world/cop26-climate-change-summit">COP26 Live Updates: Biden Addresses Climate Summit</a> NYT: António Guterres, the U.N. secretary general, opened the conference with a blistering critique of the world’s failure to unite to address global warming. 
- <p class="updated_time"> 09:58 AM CT, Nov. 01 </p> 
- <a href="https://www.nytimes.com/2021/11/01/world/europe/cop16-global-leaders-attending.html">Who Is Attending Cop26 Climate Summit, and Who Isn't</a> NYT: The presence of heads of state and government is not just symbolic. Real work gets done among leaders that cannot happen among lower-level diplomats. 
- <p class="updated_time"> 09:56 AM CT, Nov. 01 </p> 
+ <p class="updated_time"> 10:19 AM CT, Nov. 01 </p> 
+ <a href="https://www.nytimes.com/live/2021/11/01/world/cop26-climate-change-summit">COP26 Live Updates: Climate Change Is ‘Ravaging the World,’ Biden Tells Summit</a> NYT: António Guterres, the U.N. secretary general, opened the conference with a blistering critique of the world’s failure to unite to address global warming. 
+ <p class="updated_time"> 10:15 AM CT, Nov. 01 </p> 
+ <a href="https://www.nytimes.com/2021/11/01/world/middleeast/egypt-security-military.html">Egypt Poised to Expand Security Powers of President and Military</a> NYT: Amendments to a terrorism law will strengthen the grip of the government, just days after it appeared to loosen up by lifting a state of emergency. 
+ <p class="updated_time"> 10:05 AM CT, Nov. 01 </p> 
+ <a href="https://www.nytimes.com/2021/11/01/world/europe/cop26-global-leaders-attending.html">Who Is Attending the COP26 Climate Summit, and Who Isn't</a> NYT: The presence of heads of state and government is not just symbolic. Real work gets done among leaders that cannot happen among lower-level diplomats. 
+ <p class="updated_time"> 10:02 AM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/europe/greta-thunberg-cop26-glasgow.html">Greta Thunberg Is Mobbed as She Arrives in Glasgow for COP26</a> NYT: The activist, whose solo climate strikes in 2018 helped fuel a youth climate movement, was greeted with a mix of cheers and yells upon arriving in the city, according to videos. 
+ <p class="updated_time"> 09:58 AM CT, Nov. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-59119731?at_medium=RSS&at_campaign=KARANGA">Covid-19 deaths pass five million worldwide</a> BBC: Vaccines have slowed the death rate, but officials warn of worrying rises in some countries. 
  <p class="updated_time"> 09:51 AM CT, Nov. 01 </p> 
  <a href="https://www.bbc.co.uk/news/business-59117084?at_medium=RSS&at_campaign=KARANGA">Barclays boss Jes Staley in shock exit angry at Epstein probe</a> BBC: Jes Staley is leaving the bank following an investigation into his links to sex offender Jeffrey Epstein. 
  <p class="updated_time"> 09:27 AM CT, Nov. 01 </p> 
@@ -23,6 +27,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/technology-59121165?at_medium=RSS&at_campaign=KARANGA">Chinese version of Fortnite to close</a> BBC: Epic Games has not explained the decision to end the game in China. 
  <p class="updated_time"> 09:19 AM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/5-million-covid-deaths.html">Official Global Covid Death Toll Surpasses 5 Million, but Full Count Is Higher</a> NYT: Many countries do not accurately report their figures, and many Covid deaths are misattributed, experts say. 
+ <p class="updated_time"> 09:16 AM CT, Nov. 01 </p> 
+ <a href="https://www.nytimes.com/2021/11/01/world/bidens-glasgow-pitch-this-time-the-us-is-serious-about-climate-change.html">Biden’s Glasgow pitch: This time, the U.S. is serious about climate change.</a> NYT: NA 
  <p class="updated_time"> 09:14 AM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/europe/what-to-watch-monday-cop26.html">What to Watch For At COP26 on Monday and Tuesday</a> NYT: Prime Minister Boris Johnson was first to welcome leaders, who will then lay out “concrete actions and credible plans.” David Attenborough and Prince Charles are also speaking. 
  <p class="updated_time"> 09:13 AM CT, Nov. 01 </p> 
@@ -35,8 +41,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/01/sports/women-beach-handball-bikini.html">Handball Federation Ends Bikini Bottom Requirement for Women</a> NYT: After outrage over a fine levied against the Norwegian women’s beach handball team for competing in shorts, the sport’s international federation said it was changing its rules. 
  <p class="updated_time"> 08:39 AM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/10/30/world/middleeast/lebanon-ambassadors-saudi-gulf.html">Gulf States Withdraw Ambassadors to Lebanon Over Criticism of Yemen War</a> NYT: With a few stray comments from a minor minister, Lebanon once again found itself caught in the rivalry between Saudi Arabia and Iran, underscoring just how vulnerable it is to the whims of its more powerful neighbors. 
- <p class="updated_time"> 08:26 AM CT, Nov. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-59119731?at_medium=RSS&at_campaign=KARANGA">Covid-19 deaths pass five million worldwide</a> BBC: Vaccines have slowed the death rate, but officials warn of worrying rises in some countries. 
  <p class="updated_time"> 07:58 AM CT, Nov. 01 </p> 
  <a href="https://www.bbc.co.uk/news/uk-politics-59117529?at_medium=RSS&at_campaign=KARANGA">UK could take legal action against France over fishing row, says Liz Truss</a> BBC: The foreign secretary accuses France of "unfair behaviour" as it warns it could block British boats. 
  <p class="updated_time"> 07:43 AM CT, Nov. 01 </p> 
@@ -137,8 +141,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/30/world/europe/g20-biden-corporate-tax-agreement.html">Biden Finds Raising Corporate Tax Rates Easier Abroad Than at Home</a> NYT: As the Group of 20 seals a new global minimum tax for companies, the president has scaled back his plans to tax U.S. corporations more. 
  <p class="updated_time"> 04:26 AM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/30/world/g20-photos.html">Photos From the G20 Summit in Rome</a> NYT: Colorful protests outside the G20 meetings, and in them, exchanges between world leaders. 
- <p class="updated_time"> 03:38 AM CT, Oct. 31 </p> 
- <a href="https://www.nytimes.com/2021/10/30/world/what-is-the-g20.html">What Is the G20?</a> NYT: The Group of 20 aims to unite world leaders around shared economic, political and health challenges. It also serves as an all-purpose jamboree of diplomatic activity. 
  <p class="updated_time"> 08:10 PM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/30/world/americas/nyc-police-fire-vaccine-mandate.html">More New York City workers get Covid shots as deadline nears, but tensions remain.</a> NYT: The city’s effort to compel most city employees to receive the coronavirus vaccine before Monday appears to have rapidly boosted inoculation rates. 
  <p class="updated_time"> 04:51 PM CT, Oct. 30 </p> 
@@ -161,8 +163,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/30/world/asia/china-xi-jinping-g20.html">Xi Hasn’t Left China in 21 Months. Covid May Be Only Part of the Reason.</a> NYT: Xi Jinping’s lack of face time with world leaders signals a turn inward on domestic issues and a reluctance to compromise on the global stage. 
  <p class="updated_time"> 04:00 AM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/30/travel/rick-steves-europe-tours.html">Rick Steves on the Return of Travel and Why It Matters</a> NYT: The travel writer and TV personality is back in Europe, planning itineraries for next year. Travel, he says, can help us understand the world. Here’s how he recommends doing it. 
- <p class="updated_time"> 03:52 AM CT, Oct. 30 </p> 
- <a href="https://www.nytimes.com/2021/10/30/world/europe/g20-summit-rome-security.html">Italy Deploys Vast Security in Anticipation of G20 Protests</a> NYT: In 2001, a Group of 8 summit in Genoa was met with protests that turned violent. 
  <p class="updated_time"> 10:00 AM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/world/europe/spanish-writer-carmen-mola-true-identity.html">Behind a Top Female Name in Spanish Crime Fiction: Three Men</a> NYT: Carmen Mola, a novelist publishing under a pen name, seemed to shatter a glass ceiling in the world of Spanish books. But when the author’s true identity was revealed while claiming a big prize, it was a shock. 
 
@@ -172,10 +172,12 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
- <p class="updated_time"> 09:42 AM CT, Nov. 01 </p> 
- <a href="https://www.nytimes.com/2021/11/01/us/politics/marc-hearron-attorney-abortion.html">Marc Hearron, Attorney for Abortion Providers, Has Deep Texas Ties</a> NYT: Mr. Hearron has worked on pro bono cases involving reproductive rights and L.G.B.T.Q. rights. 
- <p class="updated_time"> 09:28 AM CT, Nov. 01 </p> 
- <a href="https://www.nytimes.com/2021/11/01/us/politics/heres-what-the-texas-law-prohibits.html">Here’s what the Texas law prohibits.</a> NYT: NA 
+ <p class="updated_time"> 10:19 AM CT, Nov. 01 </p> 
+ <a href="https://www.nytimes.com/2021/11/01/us/politics/marc-hearron-abortion-supreme-court.html">Who is Marc Hearron? Attorney for Abortion Providers, Has Deep Texas Ties</a> NYT: Mr. Hearron has worked on pro bono cases involving reproductive rights and L.G.B.T.Q. rights. 
+ <p class="updated_time"> 10:09 AM CT, Nov. 01 </p> 
+ <a href="https://www.nytimes.com/2021/11/01/us/politics/texas-abortion-law-facts.html">Here's What The Texas Abortion Law Prohibits</a> NYT: Abortions are now illegal in Texas after “cardiac activity” is detectable, usually around six weeks’ gestation. 
+ <p class="updated_time"> 10:01 AM CT, Nov. 01 </p> 
+ <a href="https://www.nytimes.com/2021/11/01/us/politics/challenging-the-texas-abortion-law.html">Why is it So Hard to Challenge the Texas Abortion Law?</a> NYT: The structure of the law, which delegates enforcement authority to millions of people, means there is no obvious person whom its opponents can sue. 
  <p class="updated_time"> 08:57 AM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/books/huma-abedin-book-weiner-hillary-clinton.html">7 Takeaways From Huma Abedin's Book</a> NYT: In her new memoir, “Both/And,” Hillary Clinton’s longtime aide opens up about her ex-husband, the 2016 election and more. 
  <p class="updated_time"> 08:02 AM CT, Nov. 01 </p> 
@@ -218,8 +220,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/31/us/politics/saudi-investment-conference-trump-allies.html">Trump Allies Are Prominent at Saudi Investment Conference</a> NYT: But the Biden administration sent only a deputy commerce secretary to the high-profile gathering, amid shifts in global politics and diplomatic strains. 
  <p class="updated_time"> 09:16 AM CT, Oct. 31 </p> 
  <a href="https://www.politico.com/news/2021/10/31/kinzinger-house-republicans-trump-517943">Kinzinger wants House Republicans to find some courage</a> Politico: The Illinois Republican, who announced he was not seeking reelection, hopes those who will remain in Congress will stand up to former President Donald Trump. 
- <p class="updated_time"> 01:16 PM CT, Oct. 30 </p> 
- <a href="https://www.nytimes.com/2021/10/30/us/politics/eastman-pence-capitol-riot.html">John Eastman Blamed Pence for Violence at Jan. 6 Riot</a> NYT: John Eastman, the author of a memo that some in both parties liken to a blueprint for a coup, sent a hostile email to the vice president’s chief counsel as the mob attacked. 
  <p class="updated_time"> 06:00 AM CT, Oct. 30 </p> 
  <a href="https://www.politico.com/news/2021/10/30/dems-race-to-renovate-bidens-domestic-policy-foundation-517782">Dems race to renovate Biden's domestic-policy foundation</a> Politico: “There are of course dozens of proposals that folks are going to make a last-ditch effort to add to it,” Sen. Chris Coons (D-Del.) said of the president’s social spending framework. 
  <p class="updated_time"> 05:01 AM CT, Oct. 30 </p> 
