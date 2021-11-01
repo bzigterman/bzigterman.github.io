@@ -7,12 +7,14 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:32 AM CT, Nov. 01 </p> 
- <a href="https://www.nytimes.com/live/2021/11/01/world/cop26-climate-change-summit">COP26 Live Updates: ‘We Are Digging Our Own Graves,’ U.N. Leader Warns at Climate Summit</a> NYT: António Guterres, the U.N. secretary general, opened the conference with a blistering critique of the world’s failure to unite against global warming. President Biden is expected to address the conference soon. 
+ <p class="updated_time"> 09:46 AM CT, Nov. 01 </p> 
+ <a href="https://www.nytimes.com/live/2021/11/01/world/cop26-climate-change-summit">COP26 Live Updates: Biden to Address Climate Summit</a> NYT: António Guterres, the U.N. secretary general, opened the conference with a blistering critique of the world’s failure to unite to address global warming. 
  <p class="updated_time"> 09:27 AM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/asia/pakistan-protests-negotiations-tlp.html">After Violent Standoff, Pakistan Strikes Deal With Banned Islamist Group</a> NYT: The pact, announced Sunday, defused a crisis that had paralyzed several cities, but it also highlighted the government’s struggle to assert itself against religious extremists. 
  <p class="updated_time"> 09:23 AM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/europe/cop26-climate-antonio-guterres.html">U.N. Leader, António Guterres, Warns of 'Climate Catastrophe' at COP26</a> NYT: He urged countries to review their climate pledges annually rather than every five years as called for in the 2015 Paris accord. 
+ <p class="updated_time"> 09:22 AM CT, Nov. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/technology-59121165?at_medium=RSS&at_campaign=KARANGA">Chinese version of Fortnite to close</a> BBC: Epic Games has not explained the decision to end the game in China. 
  <p class="updated_time"> 09:19 AM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/5-million-covid-deaths.html">Official Global Covid Death Toll Surpasses 5 Million, but Full Count Is Higher</a> NYT: Many countries do not accurately report their figures, and many Covid deaths are misattributed, experts say. 
  <p class="updated_time"> 09:14 AM CT, Nov. 01 </p> 
@@ -39,6 +41,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/01/travel/soviet-era-metros.html">The Stunning Grandeur of Soviet-Era Metros</a> NYT: Between 2014 and 2020, Frank Herfort visited more than 770 metro stations in 19 cities, creating a remarkable archive of architectural and artistic splendor. 
  <p class="updated_time"> 07:41 AM CT, Nov. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59054146?at_medium=RSS&at_campaign=KARANGA">Real life Succession battle plagues Canada's top wireless firm</a> BBC: A bitter power struggle at Rogers Communications has gone from 'Succession' to 'Game of Thrones'. 
+ <p class="updated_time"> 07:28 AM CT, Nov. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59119319?at_medium=RSS&at_campaign=KARANGA">Attila Hildmann: Judiciary mole suspected of leaks to conspiracist</a> BBC: Berlin officials say Covid lockdown sceptic Attila Hildmann was passed data about a probe into him. 
  <p class="updated_time"> 07:26 AM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/asia/thailand-reopens-tourists-quarantine.html">Thailand Reopens to Tourists Without Requiring Quarantine</a> NYT: About a fifth of the nation’s economy depends on the vacation industry. Before the pandemic, the country was one of the world’s top destinations, drawing nearly 40 million visitors in 2019. 
  <p class="updated_time"> 06:49 AM CT, Nov. 01 </p> 
@@ -93,16 +97,12 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/31/us/politics/guantanamo-torture-letter.html">U.S. Military Jury Condemns Terrorist’s Torture and Urges Clemency</a> NYT: Seven senior officers rebuked the government’s treatment of an admitted terrorist in a handwritten letter from the jury room at Guantánamo Bay. 
  <p class="updated_time"> 08:00 PM CT, Oct. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59054570?at_medium=RSS&at_campaign=KARANGA">How film-school reject Khadar Ahmed is winning prizes and hearts</a> BBC: Finnish-Somali prize-winning director Khadar Ahmed credits Africa for his great storytelling. 
- <p class="updated_time"> 07:14 PM CT, Oct. 31 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-58895749?at_medium=RSS&at_campaign=KARANGA">Climate change: The Indian village that could disappear under water</a> BBC: A village in the eastern coast of India faces the risk of going under water amid rising sea levels. 
  <p class="updated_time"> 07:12 PM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/30/world/asia/japan-election-fumio-kishida.html">Japan Election: Kishida Struggles to Connect With Voters</a> NYT: The governing Liberal Democrats won on Sunday, despite having chosen a prime minister, Fumio Kishida, who’s known for his lack of charisma. 
  <p class="updated_time"> 07:11 PM CT, Oct. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59093224?at_medium=RSS&at_campaign=KARANGA">Bam Bus: Three women, one cheating ex and an adventure</a> BBC: Bekah, Abi and Morgan became friends after discovering they were all dating the same man. 
  <p class="updated_time"> 07:05 PM CT, Oct. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-58976336?at_medium=RSS&at_campaign=KARANGA">Mount Augustus: Preserving Australia's lesser-known sacred rock</a> BBC: Aboriginal rangers step up efforts to preserve Mount Augustus - a landmark twice the size of Uluru. 
- <p class="updated_time"> 07:04 PM CT, Oct. 31 </p> 
- <a href="https://www.bbc.co.uk/news/business-58976987?at_medium=RSS&at_campaign=KARANGA">How Japan's new PM is promising a 'new capitalism'</a> BBC: Will leader Fumio Kishida's plans to share the wealth materialise? 
  <p class="updated_time"> 07:03 PM CT, Oct. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59097021?at_medium=RSS&at_campaign=KARANGA">Libya: Thousands of migrants and refugees camp on UN's doorstep</a> BBC: Thousands of people are on the streets after fleeing overcrowded detention centres in Libya's capital. 
  <p class="updated_time"> 07:01 PM CT, Oct. 31 </p> 
@@ -127,8 +127,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/30/business/economy/biden-steel-tariffs-europe.html">Biden Rolls Back Trump's Metal Tariffs On European Union</a> NYT: The deal, which comes as U.S. and E.U. allies meet in Rome, will keep some trade protections in place in a nod to metalworking unions that supported President Biden. 
  <p class="updated_time"> 11:49 AM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/31/world/asia/afghanistan-taliban-artists.html">Afghan Art Flourished for 20 Years. Can It Survive the New Taliban Regime?</a> NYT: So far, the Taliban have not banned art outright. But many artists have fled Afghanistan, fearing for their work and their lives. 
- <p class="updated_time"> 10:22 AM CT, Oct. 31 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59112729?at_medium=RSS&at_campaign=KARANGA">Tokyo knife and arson attack: The moment train passengers flee</a> BBC: Video shows people trying to escape as smoke and flames fill a carriage. 
  <p class="updated_time"> 10:06 AM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/31/us/politics/saudi-investment-conference-trump-allies.html">Trump Allies Are Prominent at Saudi Investment Conference</a> NYT: But the Biden administration sent only a deputy commerce secretary to the high-profile gathering, amid shifts in global politics and diplomatic strains. 
  <p class="updated_time"> 05:51 AM CT, Oct. 31 </p> 
@@ -139,10 +137,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/30/world/g20-photos.html">Photos From the G20 Summit in Rome</a> NYT: Colorful protests outside the G20 meetings, and in them, exchanges between world leaders. 
  <p class="updated_time"> 03:38 AM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/30/world/what-is-the-g20.html">What Is the G20?</a> NYT: The Group of 20 aims to unite world leaders around shared economic, political and health challenges. It also serves as an all-purpose jamboree of diplomatic activity. 
- <p class="updated_time"> 01:25 AM CT, Oct. 31 </p> 
- <a href="https://www.bbc.co.uk/sport/59089726?at_medium=RSS&at_campaign=KARANGA">Black History Month: Five sportspeople whose hair is their magic</a> BBC: Patsy Goodwin looks at five athletes who have made their hair their superpower and inspired a generation of young black people to do the same. 
- <p class="updated_time"> 08:26 PM CT, Oct. 30 </p> 
- <a href="https://www.bbc.co.uk/news/stories-59064579?at_medium=RSS&at_campaign=KARANGA">‘As a child I saw the plane crash that killed my sisters'</a> BBC: Harriet was waving her sisters off when the plane left the runway and burned. Now she's finding others linked to the tragedy. 
  <p class="updated_time"> 08:10 PM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/30/world/americas/nyc-police-fire-vaccine-mandate.html">More New York City workers get Covid shots as deadline nears, but tensions remain.</a> NYT: The city’s effort to compel most city employees to receive the coronavirus vaccine before Monday appears to have rapidly boosted inoculation rates. 
  <p class="updated_time"> 04:51 PM CT, Oct. 30 </p> 
@@ -178,6 +172,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:42 AM CT, Nov. 01 </p> 
+ <a href="https://www.nytimes.com/2021/11/01/us/politics/marc-hearron-attorney-abortion.html">Marc Hearron, Attorney for Abortion Providers, Has Deep Texas Ties</a> NYT: Mr. Hearron has worked on pro bono cases involving reproductive rights and L.G.B.T.Q. rights. 
  <p class="updated_time"> 09:28 AM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/us/politics/heres-what-the-texas-law-prohibits.html">Here’s what the Texas law prohibits.</a> NYT: NA 
  <p class="updated_time"> 08:57 AM CT, Nov. 01 </p> 
@@ -218,8 +214,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/10/31/democrats-race-prescription-drug-deal-517974">Dems close in on Medicare prescription drug negotiation compromise</a> Politico: The issue was left out of last week’s social spending framework, but it may yet show up in the final bill. 
  <p class="updated_time"> 10:30 AM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/31/us/politics/paid-family-leave.html">Why Paid Family Leave’s Demise This Time Could Fuel It Later</a> NYT: In failing to secure a benefit with bipartisan appeal, President Biden joins a long line of frustrated politicians. But some Republicans say it could be resurrected on its own. 
- <p class="updated_time"> 10:11 AM CT, Oct. 31 </p> 
- <a href="https://www.nytimes.com/2021/10/30/us/politics/virginia-governors-election.html">What the Virginia Election Result Will Mean for Democrats and Republicans</a> NYT: Republicans hope to hit on a recipe for renewal, while Democrats worry that a loss could force them to defend seats in blue states next year. 
  <p class="updated_time"> 10:06 AM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/31/us/politics/saudi-investment-conference-trump-allies.html">Trump Allies Are Prominent at Saudi Investment Conference</a> NYT: But the Biden administration sent only a deputy commerce secretary to the high-profile gathering, amid shifts in global politics and diplomatic strains. 
  <p class="updated_time"> 09:16 AM CT, Oct. 31 </p> 
