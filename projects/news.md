@@ -7,8 +7,10 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:23 PM CT, Nov. 01 </p> 
+ <p class="updated_time"> 01:39 PM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/live/2021/11/01/world/cop26-climate-change-summit">COP26 Live Updates: Climate Change Is a ‘Challenge of Our Collective Lifetime,’ Biden Says</a> NYT: António Guterres, the U.N. secretary general, opened the conference with a blistering critique of the world’s failure to unite to address global warming. 
+ <p class="updated_time"> 01:39 PM CT, Nov. 01 </p> 
+ <a href="https://www.nytimes.com/2021/11/01/world/biden-emissions-cop26-glasgow.html">Biden Calls for Tougher Actions on Emissions at COP26</a> NYT: “We have only a brief window” to avoid the most disastrous effects of global warming, President Biden warned at the United Nations climate summit. 
  <p class="updated_time"> 01:18 PM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/asia/modi-india-cop26-renewable-energy.html">India Will Sharply Increase Renewable Energy, Modi Says</a> NYT: Wealthy nations need to spend $1 trillion to help developing nations like India make the transition to renewables, Prime Minister Modi said. 
  <p class="updated_time"> 01:18 PM CT, Nov. 01 </p> 
@@ -33,8 +35,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-59125138?at_medium=RSS&at_campaign=KARANGA">COP26: David Attenborough says world is looking to leaders</a> BBC: The naturalist urges climate summit delegates to "turn tragedy into triumph" for young people. 
  <p class="updated_time"> 11:43 AM CT, Nov. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59124419?at_medium=RSS&at_campaign=KARANGA">Military officers condemn CIA torture as a stain on America</a> BBC: Military jury asks for clemency in case of Majid Khan and rebukes his alleged treatment by the CIA. 
- <p class="updated_time"> 11:11 AM CT, Nov. 01 </p> 
- <a href="https://www.nytimes.com/2021/11/01/world/biden-emissions-cop26-glasgow.html">Biden Calls for Tougher Actions on Emissions at COP26</a> NYT: “We have only a brief window” to avoid the most disastrous effects of global warming, President Biden warned at the United Nations climate summit. 
  <p class="updated_time"> 11:07 AM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/5-million-covid-deaths.html">Global Covid Death Toll Surpasses 5 Million, but Full Count Is Higher</a> NYT: Many countries do not accurately report their figures, and many Covid deaths are misattributed, experts say. 
  <p class="updated_time"> 10:40 AM CT, Nov. 01 </p> 
@@ -164,6 +164,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 01:35 PM CT, Nov. 01 </p> 
+ <a href="https://www.nytimes.com/2021/11/01/books/review/both-and-huma-abedin.html">Book Review: 'Both/And,' by Huma Abedin</a> NYT: “Both/And” may not be the most introspective memoir, but it gives readers a front-row view of heartache and humiliation. 
  <p class="updated_time"> 12:05 PM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/nyregion/democratic-party-ny.html">How New York Elections Will Shape the Future of the Democratic Party</a> NYT: A series of Election Day contests may serve as a barometer of how far left Democratic voters in New York State want their party to go. 
  <p class="updated_time"> 11:35 AM CT, Nov. 01 </p> 
@@ -172,8 +174,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/01/us/politics/what-is-ex-parte.html">What is Ex Parte Young?</a> NYT: The 1908 case held that state officials could be sued in federal court to prevent them from enforcing unconstitutional laws. 
  <p class="updated_time"> 11:22 AM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/us/politics/judd-stone-abortion.html">Who is Judd Stone II? Texas Solicitor General Makes Supreme Court Debut</a> NYT: Stone is a former clerk to Justice Antonin Scalia and former chief counsel to Senator Ted Cruz. 
- <p class="updated_time"> 11:17 AM CT, Nov. 01 </p> 
- <a href="https://www.nytimes.com/2021/11/01/books/review/both-and-huma-abedin.html">Book Review: 'Both/And,' by Huma Abedin</a> NYT: “Both/And” may not be the most introspective memoir, but it gives readers a front-row view of heartache and humiliation. 
  <p class="updated_time"> 11:16 AM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/us/politics/marc-hearron-abortion-supreme-court.html">Who is Marc Hearron? Attorney for Abortion Providers, Has Deep Texas Ties</a> NYT: Mr. Hearron has worked on pro bono cases involving reproductive rights and L.G.B.T.Q. rights. 
  <p class="updated_time"> 11:16 AM CT, Nov. 01 </p> 
