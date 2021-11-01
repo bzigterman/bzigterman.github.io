@@ -7,10 +7,12 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:34 AM CT, Nov. 01 </p> 
+ <p class="updated_time"> 08:40 AM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/live/2021/11/01/world/cop26-climate-change-summit">COP26 Live Updates: ‘We Are Digging Our Own Graves,’ U.N. Leader Warns at Climate Summit</a> NYT: António Guterres, the U.N. secretary general, opened the conference with a blistering critique of the world’s failure to unite to address global warming. President Biden is expected to address the conference soon. 
- <p class="updated_time"> 08:28 AM CT, Nov. 01 </p> 
+ <p class="updated_time"> 08:39 AM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/10/30/world/middleeast/lebanon-ambassadors-saudi-gulf.html">Gulf States Withdraw Ambassadors to Lebanon Over Criticism of Yemen War</a> NYT: With a few stray comments from a minor minister, Lebanon once again found itself caught in the rivalry between Saudi Arabia and Iran, underscoring just how vulnerable it is to the whims of its more powerful neighbors. 
+ <p class="updated_time"> 08:26 AM CT, Nov. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-59119731?at_medium=RSS&at_campaign=KARANGA">Covid-19 deaths pass five million worldwide</a> BBC: Vaccines have slowed the death rate, but officials warn of worrying rises in some countries. 
  <p class="updated_time"> 08:15 AM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/europe/what-to-watch-monday-cop26.html">What to Watch For At COP26 on Monday and Tuesday</a> NYT: Prime Minister Boris Johnson was first to welcome leaders, who will then lay out “concrete actions and credible plans.” David Attenborough and Prince Charles are also speaking. 
  <p class="updated_time"> 07:59 AM CT, Nov. 01 </p> 
@@ -83,8 +85,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/business-59044820?at_medium=RSS&at_campaign=KARANGA">Can we stomach the latest food innovations?</a> BBC: Our growing appetite for novel food tech - from lab grown meat to nano-packaging. 
  <p class="updated_time"> 06:25 PM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/31/world/europe/g20-climate-temperature-rise.html">G20 Leaders Agree on 1.5-Degree Climate Goal</a> NYT: Countries will “pursue efforts” to limit global temperature rise to 1.5 degrees Celsius, compared with preindustrial times. 
- <p class="updated_time"> 06:15 PM CT, Oct. 31 </p> 
- <a href="https://www.bbc.co.uk/news/world-59113710?at_medium=RSS&at_campaign=KARANGA">Aukus: French president says Australian PM lied over submarine deal</a> BBC: Asked if Australia's leader was untruthful, France's president responds: "I don't think, I know." 
  <p class="updated_time"> 05:39 PM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/31/world/americas/brazil-police-kill-25-bank-gang.html">Brazilian Police Kill 25 Accused of Planning Bank Heists</a> NYT: The police say an operation against a gang planning bank robberies killed at least 25 suspects in the Brazilian state of Minas Gerais on Sunday. 
  <p class="updated_time"> 04:40 PM CT, Oct. 31 </p> 
