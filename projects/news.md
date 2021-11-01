@@ -117,14 +117,10 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/stories-59064579?at_medium=RSS&at_campaign=KARANGA">‘As a child I saw the plane crash that killed my sisters'</a> BBC: Harriet was waving her sisters off when the plane left the runway and burned. Now she's finding others linked to the tragedy. 
  <p class="updated_time"> 08:10 PM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/30/world/americas/nyc-police-fire-vaccine-mandate.html">More New York City workers get Covid shots as deadline nears, but tensions remain.</a> NYT: The city’s effort to compel most city employees to receive the coronavirus vaccine before Monday appears to have rapidly boosted inoculation rates. 
- <p class="updated_time"> 07:52 PM CT, Oct. 30 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59085675?at_medium=RSS&at_campaign=KARANGA">The white student braving racial politics in South Africa</a> BBC: Jess Griesel faces a backlash for joining a party that backs the interests of poor black South Africans. 
  <p class="updated_time"> 07:23 PM CT, Oct. 30 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59078198?at_medium=RSS&at_campaign=KARANGA">Can COP26 really save the planet?</a> BBC: Past COPs our science editor went to didn't stop climate change - will this one be any different? 
  <p class="updated_time"> 07:13 PM CT, Oct. 30 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59051407?at_medium=RSS&at_campaign=KARANGA">Climate change: What's it like living in a place where it's 50C?</a> BBC: The BBC has spoken to people around the world about how extreme heat is changing their lives. 
- <p class="updated_time"> 06:51 PM CT, Oct. 30 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59029517?at_medium=RSS&at_campaign=KARANGA">How the Taliban takeover changed my life</a> BBC: From office workers to students, Afghans share how their lives have changed since August. 
  <p class="updated_time"> 04:51 PM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/30/world/biden-communion-rome-g20.html">Biden Receives Communion at Rome Church</a> NYT: Some conservative bishops in the United States have said the president should be denied communion because of his support for abortion rights. 
  <p class="updated_time"> 04:44 PM CT, Oct. 30 </p> 
