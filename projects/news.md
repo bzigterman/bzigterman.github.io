@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:49 PM CT, Nov. 01 </p> 
+ <a href="https://www.nytimes.com/2021/11/01/world/australia/australia-border-reopening-covid.html">Australia Allows Residents, Citizens to Return as Borders Open</a> NYT: After 18 months of strict measures to combat the pandemic, the states of New South Wales and Victoria relaxed restrictions on citizens and permanent residents seeking to travel back from overseas. 
  <p class="updated_time"> 04:38 PM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/live/2021/11/01/world/cop26-climate-change-summit">COP26 Live Updates: Climate Change Is a ‘Challenge of Our Collective Lifetime,’ Biden Says</a> NYT: In a meeting with world leaders after his address, Mr. Biden apologized for the U.S. withdrawal from the Paris Agreement under former President Donald J. Trump. The move “put us sort of behind the eight ball,” he said. 
  <p class="updated_time"> 04:38 PM CT, Nov. 01 </p> 
@@ -89,8 +91,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/01/world/chinas-push-to-burn-more-coal-puts-climate-goals-at-risk.html">China’s push to burn more coal puts climate goals at risk.</a> NYT: NA 
  <p class="updated_time"> 05:50 AM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/10/31/world/europe/uk-police-sexual-misconduct.html">U.K. Police Struggle to Curb Abuse of Women by Their Own Officers</a> NYT: Sexual misconduct by police officers has prompted outrage across Britain and led to increasing skepticism that departments can investigate or discipline employees who abuse women. 
- <p class="updated_time"> 05:03 AM CT, Nov. 01 </p> 
- <a href="https://www.nytimes.com/2021/11/01/world/australia/australia-border-reopening-covid.html">Australia Allows Residents, Citizens to Return as Borders Open</a> NYT: After 18 months of strict measures to combat the pandemic, the states of New South Wales and Victoria relaxed restrictions on citizens and permanent residents seeking to travel back from overseas. 
  <p class="updated_time"> 05:02 AM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/europe/climate-conference-kicks-off-in-glasgow-with-floods-and-low-expectations.html">Climate conference kicks off in Glasgow with floods and low expectations.</a> NYT: NA 
  <p class="updated_time"> 04:07 AM CT, Nov. 01 </p> 
@@ -168,6 +168,12 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:52 PM CT, Nov. 01 </p> 
+ <a href="https://www.nytimes.com/2021/11/01/us/politics/texas-abortion-law-supreme-court.html">Supreme Court Hints That It May Allow Challenge to Texas Abortion Law</a> NYT: In two arguments on Monday, the justices considered challenges from abortion providers and the Biden administration to a law that bans abortions after about six weeks. 
+ <p class="updated_time"> 04:52 PM CT, Nov. 01 </p> 
+ <a href="https://www.nytimes.com/2021/11/01/us/politics/challenging-the-texas-abortion-law.html">Why is it So Hard to Challenge the Texas Abortion Law?</a> NYT: The structure of the law, which delegates enforcement authority to millions of people, means there is no obvious person whom its opponents can sue. 
+ <p class="updated_time"> 04:51 PM CT, Nov. 01 </p> 
+ <a href="https://www.nytimes.com/2021/11/01/us/politics/marc-hearron-abortion-supreme-court.html">Who is Marc Hearron? Attorney for Abortion Providers, Has Deep Texas Ties</a> NYT: Mr. Hearron has worked on pro bono cases involving reproductive rights and L.G.B.T.Q. rights. 
  <p class="updated_time"> 04:06 PM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/us/politics/budget-plan-medicaid-coverage-gap.html">Budget Plan Offers Fix for Medicaid Coverage Gap, for Now</a> NYT: The $1.85 trillion social policy bill would provide free private health insurance for more than two million adults locked out of coverage, but only for four years. 
  <p class="updated_time"> 04:00 PM CT, Nov. 01 </p> 
@@ -182,8 +188,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/01/business/stablecoins-cryptocurrency-regulation.html">Regulators Ask Congress to Create New Rules for Cryptocurrencies</a> NYT: A Treasury Department report says stablecoin issuers should operate like banks to avoid destabilizing runs that could erode financial stability. 
  <p class="updated_time"> 03:22 PM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/10/31/climate/climate-change-biden-cop26.html">At Climate Talks, Biden Will Try to Sell American Leadership to Skeptics</a> NYT: The president wants to assure Glasgow’s climate summit that the U.S. is serious about climate change. But he lacks a legislative win at home. 
- <p class="updated_time"> 03:21 PM CT, Nov. 01 </p> 
- <a href="https://www.nytimes.com/2021/11/01/us/politics/texas-abortion-law-supreme-court.html">Supreme Court Hints That It May Allow Challenge to Texas Abortion Law</a> NYT: In two arguments on Monday, the justices considered challenges from abortion providers and the Biden administration to a law that bans abortions after about six weeks. 
  <p class="updated_time"> 02:59 PM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/us/politics/youngkin-trump-mcauliffe-virginia-governor.html">As Youngkin Tries to Finesse Trump, McAuliffe Conjures His Comeback</a> NYT: Barnstorming Virginia, the candidates for governor hammered away at their core arguments. For the Republican: parents’ involvement in schools. For the Democrat: Trump redux. 
  <p class="updated_time"> 02:30 PM CT, Nov. 01 </p> 
@@ -198,10 +202,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/01/us/politics/what-is-ex-parte.html">What is Ex Parte Young?</a> NYT: The 1908 case held that state officials could be sued in federal court to prevent them from enforcing unconstitutional laws. 
  <p class="updated_time"> 11:22 AM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/us/politics/judd-stone-abortion.html">Who is Judd Stone II? Texas Solicitor General Makes Supreme Court Debut</a> NYT: Stone is a former clerk to Justice Antonin Scalia and former chief counsel to Senator Ted Cruz. 
- <p class="updated_time"> 11:16 AM CT, Nov. 01 </p> 
- <a href="https://www.nytimes.com/2021/11/01/us/politics/marc-hearron-abortion-supreme-court.html">Who is Marc Hearron? Attorney for Abortion Providers, Has Deep Texas Ties</a> NYT: Mr. Hearron has worked on pro bono cases involving reproductive rights and L.G.B.T.Q. rights. 
- <p class="updated_time"> 10:01 AM CT, Nov. 01 </p> 
- <a href="https://www.nytimes.com/2021/11/01/us/politics/challenging-the-texas-abortion-law.html">Why is it So Hard to Challenge the Texas Abortion Law?</a> NYT: The structure of the law, which delegates enforcement authority to millions of people, means there is no obvious person whom its opponents can sue. 
  <p class="updated_time"> 08:57 AM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/books/huma-abedin-book-weiner-hillary-clinton.html">7 Takeaways From Huma Abedin's Book</a> NYT: In her new memoir, “Both/And,” Hillary Clinton’s longtime aide opens up about her ex-husband, the 2016 election and more. 
  <p class="updated_time"> 03:30 AM CT, Nov. 01 </p> 
