@@ -7,8 +7,12 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:56 PM CT, Nov. 01 </p> 
+ <p class="updated_time"> 03:25 PM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/live/2021/11/01/world/cop26-climate-change-summit">COP26 Live Updates: Climate Change Is a ‘Challenge of Our Collective Lifetime,’ Biden Says</a> NYT: In a meeting with world leaders after his address, Mr. Biden apologized for the U.S. withdrawal from the Paris Agreement under former President Donald J. Trump. The move “put us sort of behind the eight ball,” he said. 
+ <p class="updated_time"> 03:22 PM CT, Nov. 01 </p> 
+ <a href="https://www.nytimes.com/2021/10/31/climate/climate-change-biden-cop26.html">At Climate Talks, Biden Will Try to Sell American Leadership to Skeptics</a> NYT: The president wants to assure Glasgow’s climate summit that the U.S. is serious about climate change. But he lacks a legislative win at home. 
+ <p class="updated_time"> 03:12 PM CT, Nov. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59125228?at_medium=RSS&at_campaign=KARANGA">Nigeria building collapse: At least three killed in Lagos</a> BBC: Rescue efforts are underway in Lagos, with many people feared trapped under the rubble. 
  <p class="updated_time"> 02:36 PM CT, Nov. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59125143?at_medium=RSS&at_campaign=KARANGA">COP26: India PM Narendra Modi pledges net zero by 2070</a> BBC: The pledge misses a key goal of the COP26 summit for all nations to commit to net zero by 2050. 
  <p class="updated_time"> 01:59 PM CT, Nov. 01 </p> 
@@ -19,8 +23,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/01/world/asia/modi-india-cop26-renewable-energy.html">India Will Sharply Increase Renewable Energy, Modi Says</a> NYT: Wealthy nations need to spend $1 trillion to help developing nations like India make the transition to renewables, Prime Minister Modi said. 
  <p class="updated_time"> 01:18 PM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/europe/britain-climate-change.html">Once a Leading Polluter, the U.K. Is Now Trying to Lead on Climate Change</a> NYT: On the eve of a global climate summit, Britain’s evolution from fossil fuels to clean energy is on display. But experts question whether its commitment is sufficient, and whether it can persuade other nations to meet meaningful goals. 
- <p class="updated_time"> 01:04 PM CT, Nov. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59125228?at_medium=RSS&at_campaign=KARANGA">Deaths confirmed in Nigeria high-rise building collapse in Lagos</a> BBC: Police say three people have died while many more are feared trapped in the rubble in Lagos. 
  <p class="updated_time"> 12:57 PM CT, Nov. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59095778?at_medium=RSS&at_campaign=KARANGA">Oromo Liberation Army: On the ground with Ethiopian fighters</a> BBC: The BBC's Catherine Byaruhanga gains special access to Ethiopia's Oromo Liberation Army. 
  <p class="updated_time"> 12:13 PM CT, Nov. 01 </p> 
@@ -60,7 +62,7 @@ permalink: /projects/news/
  <p class="updated_time"> 09:13 AM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/john-kerry-cop26.html">John Kerry Plays Down COP26 Expectations</a> NYT: “Glasgow was never ever going to get every country joining up,” Mr. Kerry said. He’s already looking to next year to build on pledges that nations have made and push them to do more. 
  <p class="updated_time"> 09:08 AM CT, Nov. 01 </p> 
- <a href="https://www.nytimes.com/2021/11/01/world/asia/new-zealand-bird-contest-bat.html">New Zealand Long-Tailed Bat Wins Bird of the Year</a> NYT: The long-tailed bat, one of the country’s only two native land mammals, flew away with the top prize. 
+ <a href="https://www.nytimes.com/2021/11/01/world/asia/new-zealand-bird-bats.html">New Zealand Held a Contest for Bird of the Year. The Birds Lost.</a> NYT: The long-tailed bat, one of the country’s only two native land mammals, flew away with the top prize. 
  <p class="updated_time"> 08:58 AM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/sports/women-beach-handball-bikini.html">Handball Federation Ends Bikini Bottom Requirement for Women</a> NYT: After outrage over a fine levied against the Norwegian women’s beach handball team for competing in shorts, the sport’s international federation said it was changing its rules. 
  <p class="updated_time"> 08:39 AM CT, Nov. 01 </p> 
@@ -120,8 +122,6 @@ permalink: /projects/news/
  <p class="updated_time"> 05:39 PM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/31/world/americas/brazil-police-kill-25-bank-gang.html">Brazilian Police Kill 25 Accused of Planning Bank Heists</a> NYT: The police say an operation against a gang planning bank robberies killed at least 25 suspects in the Brazilian state of Minas Gerais on Sunday. 
  <p class="updated_time"> 04:37 PM CT, Oct. 31 </p> 
- <a href="https://www.nytimes.com/2021/10/31/climate/climate-change-biden-cop26.html">At Climate Talks, Biden Will Try to Sell American Leadership to Skeptics</a> NYT: The president wants to assure Glasgow’s climate summit that the U.S. is serious about climate change. But he lacks a legislative win at home. 
- <p class="updated_time"> 04:37 PM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/31/world/word.html">“Vax” is Oxford’s 2021 Word of the Year</a> NYT: NA 
  <p class="updated_time"> 03:51 PM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/31/world/europe/biden-putin-russia-united-states.html">Rivals on World Stage, Russia and U.S. Quietly Seek Areas of Accord</a> NYT: There have been a series of beneath-the-surface meetings between the two countries as the Biden administration applies a more sober approach to relations with the Kremlin. 
@@ -160,16 +160,20 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
- <p class="updated_time"> 02:45 PM CT, Nov. 01 </p> 
+ <p class="updated_time"> 03:22 PM CT, Nov. 01 </p> 
+ <a href="https://www.nytimes.com/2021/10/31/climate/climate-change-biden-cop26.html">At Climate Talks, Biden Will Try to Sell American Leadership to Skeptics</a> NYT: The president wants to assure Glasgow’s climate summit that the U.S. is serious about climate change. But he lacks a legislative win at home. 
+ <p class="updated_time"> 03:21 PM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/us/politics/supreme-court-texas-abortion-law.html">Supreme Court Hints That It May Allow Challenge to Texas Abortion Law</a> NYT: In two arguments on Monday, the justices considered challenges from abortion providers and the Biden administration to a law that bans abortions after about six weeks. 
+ <p class="updated_time"> 03:20 PM CT, Nov. 01 </p> 
+ <a href="https://www.nytimes.com/2021/11/01/climate/biden-oil-gas-cop26.html">Even as Biden Pushes Clean Energy, He Seeks More Oil Production</a> NYT: President Biden acknowledged “it seems like an irony” that he is asking energy-rich nations to boost oil production as he implores the world to tackle climate change. 
+ <p class="updated_time"> 02:59 PM CT, Nov. 01 </p> 
+ <a href="https://www.nytimes.com/2021/11/01/us/politics/youngkin-trump-mcauliffe-virginia-governor.html">As Youngkin Tries to Finesse Trump, McAuliffe Conjures His Comeback</a> NYT: Barnstorming Virginia, the candidates for governor hammered away at their core arguments. For the Republican: parents’ involvement in schools. For the Democrat: Trump redux. 
  <p class="updated_time"> 02:41 PM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/us/politics/pfizer-children-covid-vaccine.html">Pfizer Pediatric Vaccination Program to Be ‘at Full Strength’ Next Week, White House Says</a> NYT: “We are planning on some vaccinations towards the end of this week,” said Jeffrey D. Zients, a top White House official, adding that the government will deliver a total of 15 million doses “across the next week or so.” 
  <p class="updated_time"> 02:35 PM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/business/stablecoins-cryptocurrency-regulation.html">Regulators Ask Congress to Create New Rules for Cryptocurrencies</a> NYT: A Treasury Department report says stablecoin issuers should operate like banks to avoid destabilizing runs that could erode financial stability. 
  <p class="updated_time"> 02:30 PM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/us/politics/manchin-endorse-framework.html">Manchin Refuses to Endorse Safety Net Bill, Dampening Hopes of a Quick Vote</a> NYT: The Democratic senator, a crucial swing vote, demanded more time to evaluate the economic and fiscal ramifications of the $1.85 trillion plan, frustrating plans for a House vote this week. 
- <p class="updated_time"> 02:28 PM CT, Nov. 01 </p> 
- <a href="https://www.nytimes.com/2021/11/01/us/politics/youngkin-trump-mcauliffe-virginia-governor.html">As Youngkin Tries to Finesse Trump, McAuliffe Conjures His Comeback</a> NYT: Barnstorming Virginia, the candidates for governor hammered away at their core arguments. For the Republican: parents’ involvement in schools. For the Democrat: Trump redux. 
  <p class="updated_time"> 01:35 PM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/books/review/both-and-huma-abedin.html">Book Review: 'Both/And,' by Huma Abedin</a> NYT: “Both/And” may not be the most introspective memoir, but it gives readers a front-row view of heartache and humiliation. 
  <p class="updated_time"> 12:05 PM CT, Nov. 01 </p> 
@@ -198,8 +202,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/31/us/lets-go-brandon-southwest-airlines.html">Why a Pilot Is Under Investigation for Saying ‘Let’s Go Brandon’</a> NYT: His remarks went viral after he repeated the chant, which is understood to be code for swearing at President Biden, during a Southwest Airlines flight. 
  <p class="updated_time"> 08:57 PM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/31/us/politics/guantanamo-torture-letter.html">U.S. Military Jury Condemns Terrorist’s Torture and Urges Clemency</a> NYT: Seven senior officers rebuked the government’s treatment of an admitted terrorist in a handwritten letter from the jury room at Guantánamo Bay. 
- <p class="updated_time"> 04:37 PM CT, Oct. 31 </p> 
- <a href="https://www.nytimes.com/2021/10/31/climate/climate-change-biden-cop26.html">At Climate Talks, Biden Will Try to Sell American Leadership to Skeptics</a> NYT: The president wants to assure Glasgow’s climate summit that the U.S. is serious about climate change. But he lacks a legislative win at home. 
  <p class="updated_time"> 04:26 PM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/31/us/politics/virginia-governors-race-youngkin-mcauliffe.html">In the Final Days Before Virginia Votes, Both Sides Claim Momentum</a> NYT: Glenn Youngkin and Terry McAuliffe crisscrossed Virginia on the last weekend of what has become an increasingly close race for governor. 
  <p class="updated_time"> 12:46 PM CT, Oct. 31 </p> 
