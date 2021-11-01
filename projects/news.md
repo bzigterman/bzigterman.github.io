@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:05 PM CT, Oct. 31 </p> 
+ <a href="https://www.nytimes.com/2021/11/01/world/europe/britain-climate-change.html">Once a Leading Polluter, the U.K. Is Now Trying to Lead on Climate Change</a> NYT: On the eve of a global climate summit, Britain’s evolution from fossil fuels to clean energy is on display. But experts question whether its commitment is sufficient, and whether it can persuade other nations to meet meaningful goals. 
  <p class="updated_time"> 09:58 PM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/31/world/biden-g20-covid-climate.html">Struggling at Home, Biden Is Buoyed by G20 Trip Abroad</a> NYT: A trip to Rome invigorated a president whose poll numbers are slumping at home, but who projected confidence in his foreign and domestic agenda. 
  <p class="updated_time"> 09:49 PM CT, Oct. 31 </p> 
@@ -177,14 +179,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/29/world/europe/spanish-writer-carmen-mola-true-identity.html">Behind a Top Female Name in Spanish Crime Fiction: Three Men</a> NYT: Carmen Mola, a novelist publishing under a pen name, seemed to shatter a glass ceiling in the world of Spanish books. But when the author’s true identity was revealed while claiming a big prize, it was a shock. 
  <p class="updated_time"> 09:46 AM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/climate/europe-energy-crisis-cop.html">How Rising Energy Prices Have Complicated Europe's Climate Crisis</a> NYT: Prices for power have soared, and some politicians are now trying to use that as a lever to slow action on climate change, a strategy with far-reaching consequences. 
- <p class="updated_time"> 09:34 AM CT, Oct. 29 </p> 
- <a href="https://www.nytimes.com/2021/10/29/us/hurricane-storm-season.html">Is Hurricane Season Still Going? You Bet.</a> NYT: There hasn’t been a named storm in the Atlantic Ocean since early October, but about a month remains in the hurricane season. “Don’t raid your hurricane supplies yet,” said one meteorologist. 
  <p class="updated_time"> 04:00 AM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/world/europe/roma-hip-hop-band-serbia-pretty-loud.html">‘Different Way of Fighting’: Lyrics Are the Weapons of All-Women Roma Band</a> NYT: Many Roma women face pressures to marry young and take on traditional gender roles. Pretty Loud, a hip-hop group from Serbia, wants girls to decide for themselves. 
  <p class="updated_time"> 07:12 PM CT, Oct. 25 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-58171814?at_medium=RSS&at_campaign=KARANGA">Climate change: Four things you can do about your carbon footprint</a> BBC: Small changes to our lifestyles and choices could limit our personal carbon footprint. 
- <p class="updated_time"> 11:10 AM CT, Oct. 25 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-56901261?at_medium=RSS&at_campaign=KARANGA">COP26: What is the Glasgow climate conference and why is it important?</a> BBC: A crucial climate change summit is being held in the UK - this is why it's important. 
 
 
 </details>
