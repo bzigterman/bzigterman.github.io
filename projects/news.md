@@ -7,10 +7,16 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:04 PM CT, Nov. 01 </p> 
+ <a href="https://www.nytimes.com/live/2021/11/01/world/cop26-climate-change-summit">COP26 Live Updates: Climate Change Is ‘Ravaging the World,’ Biden Tells Summit</a> NYT: António Guterres, the U.N. secretary general, opened the conference with a blistering critique of the world’s failure to unite to address global warming. 
+ <p class="updated_time"> 11:55 AM CT, Nov. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59125228?at_medium=RSS&at_campaign=KARANGA">People feared trapped in Nigeria high-rise collapse in Lagos</a> BBC: The multi-storey building in Lagos was under construction before being reduced to a pile of rubble. 
+ <p class="updated_time"> 11:50 AM CT, Nov. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-59119321?at_medium=RSS&at_campaign=KARANGA">Handball federation changes uniform rules after bikini row</a> BBC: A campaign had pushed for an overhaul after Norway's team were fined for wearing shorts in July. 
+ <p class="updated_time"> 11:43 AM CT, Nov. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59124419?at_medium=RSS&at_campaign=KARANGA">Military officers condemn CIA torture as a stain on America</a> BBC: Military jury asks for clemency in case of Majid Khan and rebukes his alleged treatment by the CIA. 
  <p class="updated_time"> 11:33 AM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/europe/britain-climate-change.html">Once a Leading Polluter, the U.K. Is Now Trying to Lead on Climate Change</a> NYT: On the eve of a global climate summit, Britain’s evolution from fossil fuels to clean energy is on display. But experts question whether its commitment is sufficient, and whether it can persuade other nations to meet meaningful goals. 
- <p class="updated_time"> 11:25 AM CT, Nov. 01 </p> 
- <a href="https://www.nytimes.com/live/2021/11/01/world/cop26-climate-change-summit">COP26 Live Updates: Climate Change Is ‘Ravaging the World,’ Biden Tells Summit</a> NYT: António Guterres, the U.N. secretary general, opened the conference with a blistering critique of the world’s failure to unite to address global warming. 
  <p class="updated_time"> 11:11 AM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/biden-emissions-cop26-glasgow.html">Biden Calls for Tougher Actions on Emissions at COP26</a> NYT: “We have only a brief window” to avoid the most disastrous effects of global warming, President Biden warned at the United Nations climate summit. 
  <p class="updated_time"> 11:07 AM CT, Nov. 01 </p> 
@@ -20,7 +26,7 @@ permalink: /projects/news/
  <p class="updated_time"> 10:38 AM CT, Nov. 01 </p> 
  <a href="https://www.bbc.co.uk/news/uk-politics-59117529?at_medium=RSS&at_campaign=KARANGA">UK could take legal action against France over fishing row, says Liz Truss</a> BBC: The foreign secretary accuses France of "unfair behaviour" as it warns it could block British boats. 
  <p class="updated_time"> 10:38 AM CT, Nov. 01 </p> 
- <a href="https://www.nytimes.com/2021/11/01/world/europe/greta-thunberg-cop26-glasgow.html">Greta Thunberg Is Mobbed as She Arrives in Glasgow for COP26</a> NYT: The activist, whose solo climate strikes in 2018 helped fuel a youth climate movement, was greeted like a rock star upon arriving in the city, according to videos. 
+ <a href="https://www.nytimes.com/2021/11/01/world/europe/greta-thunberg-cop26-glasgow.html">Greta Thunberg Arrives in Glasgow for COP26 and Joins a Protest</a> NYT: The activist, whose solo climate strikes in 2018 helped fuel a youth climate movement, was greeted like a rock star upon arriving in the city, according to videos. 
  <p class="updated_time"> 10:34 AM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/europe/what-to-watch-monday-cop26.html">What to Watch For At COP26 on Monday and Tuesday</a> NYT: Prime Minister Boris Johnson was first to welcome leaders, who will then lay out “concrete actions and credible plans.” David Attenborough and Prince Charles are also speaking. 
  <p class="updated_time"> 10:15 AM CT, Nov. 01 </p> 
@@ -69,14 +75,10 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59103664?at_medium=RSS&at_campaign=KARANGA">Japanese man in Joker costume injures 17 in knife attack on Tokyo train</a> BBC: Video footage shows passengers desperately running from fire and the man who was wielding a knife. 
  <p class="updated_time"> 05:50 AM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/10/31/world/europe/uk-police-sexual-misconduct.html">U.K. Police Struggle to Curb Abuse of Women by Their Own Officers</a> NYT: Sexual misconduct by police officers has prompted outrage across Britain and led to increasing skepticism that departments can investigate or discipline employees who abuse women. 
- <p class="updated_time"> 05:48 AM CT, Nov. 01 </p> 
- <a href="https://www.wsj.com/articles/myanmar-resistance-groups-lure-and-aid-military-defectors-11635759001">Myanmar Resistance Groups Lure Military Defectors</a> WSJ: Since the military seized power in a February coup, opposition groups say more than 2,500 police and soldiers have defected. 
  <p class="updated_time"> 05:03 AM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/australia/australia-border-reopening-covid.html">Australia Allows Residents, Citizens to Return as Borders Open</a> NYT: After 18 months of strict measures to combat the pandemic, the states of New South Wales and Victoria relaxed restrictions on citizens and permanent residents seeking to travel back from overseas. 
  <p class="updated_time"> 05:02 AM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/europe/climate-conference-kicks-off-in-glasgow-with-floods-and-low-expectations.html">Climate conference kicks off in Glasgow with floods and low expectations.</a> NYT: NA 
- <p class="updated_time"> 04:17 AM CT, Nov. 01 </p> 
- <a href="https://www.wsj.com/articles/greta-thunberg-climate-summit-glasgow-cop-11635772563">Greta Thunberg's Dad Won't Be With Her at the Climate Summit---And He's Thrilled</a> WSJ: The young activist turned 18, leaving her parents free to get back to their lives. ‘We have jobs’ 
  <p class="updated_time"> 04:07 AM CT, Nov. 01 </p> 
  <a href="https://www.wsj.com/articles/lebanon-faces-deepening-economic-crisis-as-saudis-cut-ties-over-iran-11635772026">Lebanon Faces Deepening Economic Crisis as Saudis Cut Ties Over Iran</a> WSJ: Saudi Arabia banned imports from Lebanon and, along with three other Gulf states, expelled its ambassador following remarks by an official about the war in Yemen. 
  <p class="updated_time"> 03:19 AM CT, Nov. 01 </p> 
@@ -85,22 +87,14 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/01/world/michael-bloomberg-announces-an-effort-to-shut-down-coal-in-25-countries.html">Michael Bloomberg announces an effort to shut down coal in 25 countries.</a> NYT: NA 
  <p class="updated_time"> 02:14 AM CT, Nov. 01 </p> 
  <a href="https://www.wsj.com/articles/japanese-elections-fail-to-produce-gains-for-women-11635765296">Japanese Elections Fail to Produce Gains for Women</a> WSJ: The result of Japan’s election—a victory for the long-ruling Liberal Democratic Party—was familiar in another way as well. Less than one in 10 of the victorious candidates were women. 
- <p class="updated_time"> 01:42 AM CT, Nov. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59110828?at_medium=RSS&at_campaign=KARANGA">Japan election: PM Fumio Kishida declares victory for ruling LDP</a> BBC: He has defied initial expectations to lead the Liberal Democratic Party to a comfortable majority. 
  <p class="updated_time"> 12:30 AM CT, Nov. 01 </p> 
  <a href="https://www.wsj.com/articles/mariners-can-now-get-covid-19-vaccines-at-port-after-months-stranded-at-sea-11635759001">Stranded Mariners Can Now Get Covid Vaccines at Port</a> WSJ: Crews on cargo ships are receiving shots world-wide, preventing more supply-chain disruptions and allowing them to finally disembark. 
- <p class="updated_time"> 12:30 AM CT, Nov. 01 </p> 
- <a href="https://www.wsj.com/articles/central-banks-fuel-new-bets-on-tighter-money-as-inflation-rises-globally-11635759002">Central Banks Fuel New Bets on Tighter Money as Inflation Rises Globally</a> WSJ: Stubbornly high inflation across more wealthy economies last week prompted a shakeout in bond markets as investors began expecting policy makers to quickly tighten monetary policy. 
  <p class="updated_time"> 12:04 AM CT, Nov. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59115079?at_medium=RSS&at_campaign=KARANGA">Covid: Emotional reunions as Australia's border reopens</a> BBC: International travellers hug loved ones at Sydney Airport for the first time in 20 months. 
  <p class="updated_time"> 11:48 PM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/31/world/nyc-firefighters-police-vaccine-mandate.html">Over 2,000 New York City Firefighters Took Sick Days as Vaccine Mandate Looms</a> NYT: More than 22,000 municipal workers remained unvaccinated a day before a city deadline to get their first dose of a coronavirus vaccine. 
- <p class="updated_time"> 11:35 PM CT, Oct. 31 </p> 
- <a href="https://www.bbc.co.uk/news/business-59115395?at_medium=RSS&at_campaign=KARANGA">Thailand reopens to vaccinated tourists from over 60 nations</a> BBC: Authorities hope reopening will generate $30bn for the tourism sector despite ongoing restrictions. 
  <p class="updated_time"> 11:23 PM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/31/world/biden-g20-covid-climate.html">Struggling at Home, Biden Is Buoyed by G20 Trip Abroad</a> NYT: A trip to Rome invigorated a president whose poll numbers are slumping at home, but who projected confidence in his foreign and domestic agenda. 
- <p class="updated_time"> 11:22 PM CT, Oct. 31 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59115346?at_medium=RSS&at_campaign=KARANGA">New Zealand bat flies away with bird of the year award</a> BBC: The win, seen by some as a much-needed PR victory for bats, has ruffled feathers among bird-lovers. 
  <p class="updated_time"> 08:57 PM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/31/us/politics/guantanamo-torture-letter.html">U.S. Military Jury Condemns Terrorist’s Torture and Urges Clemency</a> NYT: Seven senior officers rebuked the government’s treatment of an admitted terrorist in a handwritten letter from the jury room at Guantánamo Bay. 
  <p class="updated_time"> 08:00 PM CT, Oct. 31 </p> 
@@ -147,8 +141,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/30/world/americas/nyc-police-fire-vaccine-mandate.html">More New York City workers get Covid shots as deadline nears, but tensions remain.</a> NYT: The city’s effort to compel most city employees to receive the coronavirus vaccine before Monday appears to have rapidly boosted inoculation rates. 
  <p class="updated_time"> 04:51 PM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/30/world/biden-communion-rome-g20.html">Biden Receives Communion at Rome Church</a> NYT: Some conservative bishops in the United States have said the president should be denied communion because of his support for abortion rights. 
- <p class="updated_time"> 04:16 PM CT, Oct. 30 </p> 
- <a href="https://www.nytimes.com/2021/10/30/world/europe/g20-summit-merkel-scholz.html">Merkel's Likely Successor to Join Her for G20 Summit Talks</a> NYT: Olaf Scholz, who would have attended the G20 summit as finance minister, will also join Angela Merkel for talks with world leaders. 
  <p class="updated_time"> 03:11 PM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/30/world/africa/sudan-protests-coup.html">Protesters Killed in Sudan on Day Seen as a Test for the Military</a> NYT: Three demonstrators were fatally shot, a doctors’ group said, as crowds answered activists’ call for a “march of millions” against a coup that has threatened the country’s democratic transition. 
  <p class="updated_time"> 02:01 PM CT, Oct. 30 </p> 
@@ -172,12 +164,12 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:35 AM CT, Nov. 01 </p> 
+ <a href="https://www.nytimes.com/2021/11/01/us/politics/brett-kavanaugh-abortion.html">Will Justice Brett Kavanaugh Change His Position on Abortion?</a> NYT: Justice Kavanaugh has consistently supported abortion restrictions, but occasionally stakes out more moderate positions than his colleagues. 
  <p class="updated_time"> 11:27 AM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/us/politics/what-is-ex-parte.html">What is Ex Parte Young?</a> NYT: The 1908 case held that state officials could be sued in federal court to prevent them from enforcing unconstitutional laws. 
  <p class="updated_time"> 11:22 AM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/us/politics/judd-stone-abortion.html">Who is Judd Stone II? Texas Solicitor General Makes Supreme Court Debut</a> NYT: Stone is a former clerk to Justice Antonin Scalia and former chief counsel to Senator Ted Cruz. 
- <p class="updated_time"> 11:21 AM CT, Nov. 01 </p> 
- <a href="https://www.nytimes.com/2021/11/01/us/politics/brett-kavanaugh-abortion.html">Will Justice Brett Kavanaugh Change His Position on Abortion?</a> NYT: Justice Kavanaugh has consistently supported abortion restrictions, but occasionally stakes out more moderate positions than his colleagues. 
  <p class="updated_time"> 11:17 AM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/books/review/both-and-huma-abedin.html">Book Review: 'Both/And,' by Huma Abedin</a> NYT: “Both/And” may not be the most introspective memoir, but it gives readers a front-row view of heartache and humiliation. 
  <p class="updated_time"> 11:16 AM CT, Nov. 01 </p> 
@@ -250,8 +242,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/10/27/democrats-immigration-gambit-loses-steam-517352">Dems' last-ditch immigration gambit loses steam</a> Politico: Even if President Joe Biden can get fellow Democrats to add reform provisions to a broad social spending deal, the Senate parliamentarian can squash them. 
  <p class="updated_time"> 10:33 AM CT, Oct. 27 </p> 
  <a href="https://www.politico.com/news/2021/10/27/mark-warner-havana-syndrome-intel-517331">Warner calls lack of Havana Syndrome intel ‘very, very problematic’</a> Politico: But the Senate Intelligence Committee chair insisted lawmakers are “absolutely on top of this.” 
- <p class="updated_time"> 09:25 AM CT, Oct. 27 </p> 
- <a href="https://www.politico.com/news/2021/10/27/top-dems-social-spending-deal-manchin-sinema-517332">Liberal frustration imperils quick Dem social spending deal</a> Politico: President Biden will visit the House Democratic Caucus on Thursday morning, delaying his planned departure on a foreign trip. 
 
 
 </details>
