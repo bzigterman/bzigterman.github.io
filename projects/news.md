@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:13 AM CT, Nov. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59110828?at_medium=RSS&at_campaign=KARANGA">Japan election: PM Fumio Kishida declares victory for ruling LDP</a> BBC: He has defied initial expectations to lead the Liberal Democratic Party to a comfortable majority. 
+ <p class="updated_time"> 01:09 AM CT, Nov. 01 </p> 
+ <a href="https://www.nytimes.com/2021/11/01/world/europe/britain-climate-change.html">Once a Leading Polluter, the U.K. Is Now Trying to Lead on Climate Change</a> NYT: On the eve of a global climate summit, Britain’s evolution from fossil fuels to clean energy is on display. But experts question whether its commitment is sufficient, and whether it can persuade other nations to meet meaningful goals. 
  <p class="updated_time"> 11:48 PM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/31/world/nyc-firefighters-police-vaccine-mandate.html">Over 2,000 New York City Firefighters Took Sick Days as Vaccine Mandate Looms</a> NYT: More than 22,000 municipal workers remained unvaccinated a day before a city deadline to get their first dose of a coronavirus vaccine. 
  <p class="updated_time"> 11:35 PM CT, Oct. 31 </p> 
@@ -17,12 +21,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/31/world/biden-g20-covid-climate.html">Struggling at Home, Biden Is Buoyed by G20 Trip Abroad</a> NYT: A trip to Rome invigorated a president whose poll numbers are slumping at home, but who projected confidence in his foreign and domestic agenda. 
  <p class="updated_time"> 11:22 PM CT, Oct. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59115346?at_medium=RSS&at_campaign=KARANGA">New Zealand bat flies away with bird of the year award</a> BBC: The win, seen by some as a much-needed PR victory for bats, has ruffled feathers among bird-lovers. 
- <p class="updated_time"> 11:05 PM CT, Oct. 31 </p> 
- <a href="https://www.nytimes.com/2021/11/01/world/europe/britain-climate-change.html">Once a Leading Polluter, the U.K. Is Now Trying to Lead on Climate Change</a> NYT: On the eve of a global climate summit, Britain’s evolution from fossil fuels to clean energy is on display. But experts question whether its commitment is sufficient, and whether it can persuade other nations to meet meaningful goals. 
  <p class="updated_time"> 08:57 PM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/31/us/politics/guantanamo-torture-letter.html">U.S. Military Jury Condemns Terrorist’s Torture and Urges Clemency</a> NYT: Seven senior officers rebuked the government’s treatment of an admitted terrorist in a handwritten letter from the jury room at Guantánamo Bay. 
- <p class="updated_time"> 08:36 PM CT, Oct. 31 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59110828?at_medium=RSS&at_campaign=KARANGA">Japan election: Ruling LDP retains single-party majority</a> BBC: Fumio Kishida has defied initial expectations to lead the LDP to a comfortable majority. 
  <p class="updated_time"> 08:14 PM CT, Oct. 31 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59114255?at_medium=RSS&at_campaign=KARANGA">COP26: The issues that stand in the way of progress</a> BBC: As the serious business of negotiation finally begins in Glasgow, we look at the key barriers to progress. 
  <p class="updated_time"> 08:00 PM CT, Oct. 31 </p> 
@@ -179,6 +179,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/29/world/europe/roma-hip-hop-band-serbia-pretty-loud.html">‘Different Way of Fighting’: Lyrics Are the Weapons of All-Women Roma Band</a> NYT: Many Roma women face pressures to marry young and take on traditional gender roles. Pretty Loud, a hip-hop group from Serbia, wants girls to decide for themselves. 
  <p class="updated_time"> 07:12 PM CT, Oct. 25 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-58171814?at_medium=RSS&at_campaign=KARANGA">Climate change: Four things you can do about your carbon footprint</a> BBC: Small changes to our lifestyles and choices could limit our personal carbon footprint. 
+ <p class="updated_time"> 11:10 AM CT, Oct. 25 </p> 
+ <a href="https://www.bbc.co.uk/news/science-environment-56901261?at_medium=RSS&at_campaign=KARANGA">COP26: What is the Glasgow climate conference and why is it important?</a> BBC: A crucial climate change summit is being held in the UK - this is why it's important. 
 
 
 </details>
