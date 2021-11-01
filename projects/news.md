@@ -7,14 +7,16 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
- <p class="updated_time"> 07:46 AM CT, Nov. 01 </p> 
+ <p class="updated_time"> 08:07 AM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/live/2021/11/01/world/cop26-climate-change-summit">COP26 Live Updates: Global Climate Summit Begins in Glasgow as Peril of Warming Planet Grows</a> NYT: Countries are under pressure to sharply cut greenhouse gas emissions and limit the rise in global temperatures. As the 12-day gathering gets underway, leaders including President Biden will promise action. 
+ <p class="updated_time"> 07:59 AM CT, Nov. 01 </p> 
+ <a href="https://www.nytimes.com/article/day-of-the-dead-mexico.html">What Is Day of the Dead and How Is the Mexican Holiday Celebrated?</a> NYT: Popularized globally by Hollywood in films like “Coco” and the James Bond franchise, Día de Muertos is a centuries-old tradition that has roots in Indigenous culture. 
+ <p class="updated_time"> 07:58 AM CT, Nov. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-politics-59117529?at_medium=RSS&at_campaign=KARANGA">UK could take legal action against France over fishing row, says Liz Truss</a> BBC: The foreign secretary accuses France of "unfair behaviour" as it warns it could block British boats. 
  <p class="updated_time"> 07:43 AM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/travel/soviet-era-metros.html">The Stunning Grandeur of Soviet-Era Metros</a> NYT: Between 2014 and 2020, Frank Herfort visited more than 770 metro stations in 19 cities, creating a remarkable archive of architectural and artistic splendor. 
  <p class="updated_time"> 07:41 AM CT, Nov. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59054146?at_medium=RSS&at_campaign=KARANGA">Real life Succession battle plagues Canada's top wireless firm</a> BBC: A bitter power struggle at Rogers Communications has gone from 'Succession' to 'Game of Thrones'. 
- <p class="updated_time"> 07:26 AM CT, Nov. 01 </p> 
- <a href="https://www.bbc.co.uk/news/uk-politics-59117529?at_medium=RSS&at_campaign=KARANGA">UK could take legal action against France over fishing row, says Liz Truss</a> BBC: The foreign secretary accuses France of "unfair behaviour" as it warns it could block British boats. 
  <p class="updated_time"> 07:26 AM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/asia/thailand-reopens-tourists-quarantine.html">Thailand Reopens to Tourists Without Requiring Quarantine</a> NYT: About a fifth of the nation’s economy depends on the vacation industry. Before the pandemic, the country was one of the world’s top destinations, drawing nearly 40 million visitors in 2019. 
  <p class="updated_time"> 07:25 AM CT, Nov. 01 </p> 
@@ -22,7 +24,7 @@ permalink: /projects/news/
  <p class="updated_time"> 07:24 AM CT, Nov. 01 </p> 
  <a href="https://www.bbc.co.uk/news/business-59117084?at_medium=RSS&at_campaign=KARANGA">Barclays boss Jes Staley in shock exit over Epstein inquiry</a> BBC: Jes Staley is leaving the bank following an investigation into his links to sex offender Jeffrey Epstein. 
  <p class="updated_time"> 06:49 AM CT, Nov. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-59119621?at_medium=RSS&at_campaign=KARANGA">Covid-19: Single case shuts down Shanghai Disneyland</a> BBC: The Chinese theme park closes for at lest two days after a visitor tests positive. 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-59119621?at_medium=RSS&at_campaign=KARANGA">Covid-19: Single case shuts down Shanghai Disneyland</a> BBC: The Chinese theme park closes for at least two days after a visitor tests positive. 
  <p class="updated_time"> 06:43 AM CT, Nov. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59118693?at_medium=RSS&at_campaign=KARANGA">Yemen war: Deadly missile attack on Marib religious school</a> BBC: The Yemeni government blames Houthi rebels for the attack, which killed or wounded 29 civilians. 
  <p class="updated_time"> 06:32 AM CT, Nov. 01 </p> 
@@ -165,8 +167,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/29/world/africa/sudan-coup-general.html">‘They Lied.’ Inside the Frantic Days Leading to Sudan’s Coup</a> NYT: The American envoy, Jeffrey Feltman, was given assurances that seemed to head off a military takeover. Hours later, Lt. Gen. Abdel Fattah al-Burhan made his move. 
  <p class="updated_time"> 05:11 PM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/world/canada/dune-movie.html">‘Dune’ May Be Set in a Distant Time and Place, but the Film Has Canadian Roots</a> NYT: A science fiction opus was heavily guided by Canadian talent, starting with the director, Denis Villeneuve, who lives in Montreal. 
- <p class="updated_time"> 04:37 PM CT, Oct. 29 </p> 
- <a href="https://www.nytimes.com/article/day-of-the-dead-mexico.html">What Is Day of the Dead and How Is the Mexican Holiday Celebrated?</a> NYT: Popularized by Hollywood in films like “Coco” and the James Bond franchise, Día de Muertos is a centuries-old tradition that has roots in Indigenous culture. 
  <p class="updated_time"> 10:00 AM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/world/europe/spanish-writer-carmen-mola-true-identity.html">Behind a Top Female Name in Spanish Crime Fiction: Three Men</a> NYT: Carmen Mola, a novelist publishing under a pen name, seemed to shatter a glass ceiling in the world of Spanish books. But when the author’s true identity was revealed while claiming a big prize, it was a shock. 
  <p class="updated_time"> 09:46 AM CT, Oct. 29 </p> 
@@ -178,6 +178,14 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:02 AM CT, Nov. 01 </p> 
+ <a href="https://www.nytimes.com/2021/10/31/us/politics/kavanaugh-texas-abortion-law.html">In Texas Abortion Law Case, a Spotlight on Brett Kavanaugh</a> NYT: If the Supreme Court is to reverse course after refusing to block the law in September, at least one conservative justice must change positions. Justice Kavanaugh is the most likely candidate. 
+ <p class="updated_time"> 08:00 AM CT, Nov. 01 </p> 
+ <a href="https://www.nytimes.com/2021/10/31/us/politics/texas-abortion-law-supreme-court.html">When Will the Supreme Court Hear Arguments on the Texas Abortion Law?</a> NYT: The New York Times will be streaming the oral arguments and providing live coverage of the proceedings when they begin at 10 a.m. Eastern. 
+ <p class="updated_time"> 07:54 AM CT, Nov. 01 </p> 
+ <a href="https://www.nytimes.com/2021/11/01/books/review/both-and-huma-abedin.html">Book Review: 'Both/And,' by Huma Abedin</a> NYT: “Both/And” may not be the most introspective memoir, but it gives readers a front-row view of heartache and humiliation. 
+ <p class="updated_time"> 07:52 AM CT, Nov. 01 </p> 
+ <a href="https://www.nytimes.com/2021/11/01/books/huma-abedin-book-weiner-hillary-clinton.html">7 Takeaways From Huma Abedin's Book</a> NYT: In her new memoir, “Both/And,” Hillary Clinton’s longtime aide opens up about her ex-husband, the 2016 election and more. 
  <p class="updated_time"> 06:23 AM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/us/politics/ballot-initiatives-voters-voting.html">Desperate for Housing Options, Communities Turn to Ballot Initiatives</a> NYT: Cities and counties will vote on measures, like tax increases and curbs on Airbnb, aimed at creating more affordable housing. 
  <p class="updated_time"> 03:30 AM CT, Nov. 01 </p> 
@@ -198,8 +206,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/31/climate/climate-change-biden-cop26.html">At Climate Talks, Biden Will Try to Sell American Leadership to Skeptics</a> NYT: The president wants to assure Glasgow’s climate summit that the U.S. is serious about climate change. But he lacks a legislative win at home. 
  <p class="updated_time"> 04:26 PM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/31/us/politics/virginia-governors-race-youngkin-mcauliffe.html">In the Final Days Before Virginia Votes, Both Sides Claim Momentum</a> NYT: Glenn Youngkin and Terry McAuliffe crisscrossed Virginia on the last weekend of what has become an increasingly close race for governor. 
- <p class="updated_time"> 04:20 PM CT, Oct. 31 </p> 
- <a href="https://www.nytimes.com/2021/10/31/us/politics/texas-abortion-law-supreme-court.html">When Will the Supreme Court Hear Arguments on the Texas Abortion Law?</a> NYT: The New York Times will be streaming the oral arguments and providing live coverage of the proceedings when they begin at 10 a.m. Eastern. 
  <p class="updated_time"> 03:51 PM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/31/world/europe/biden-putin-russia-united-states.html">Rivals on World Stage, Russia and U.S. Quietly Seek Areas of Accord</a> NYT: There have been a series of beneath-the-surface meetings between the two countries as the Biden administration applies a more sober approach to relations with the Kremlin. 
  <p class="updated_time"> 03:11 PM CT, Oct. 31 </p> 
@@ -216,14 +222,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/30/us/politics/virginia-governors-election.html">What the Virginia Election Result Will Mean for Democrats and Republicans</a> NYT: Republicans hope to hit on a recipe for renewal, while Democrats worry that a loss could force them to defend seats in blue states next year. 
  <p class="updated_time"> 10:06 AM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/31/us/politics/saudi-investment-conference-trump-allies.html">Trump Allies Are Prominent at Saudi Investment Conference</a> NYT: But the Biden administration sent only a deputy commerce secretary to the high-profile gathering, amid shifts in global politics and diplomatic strains. 
- <p class="updated_time"> 09:58 AM CT, Oct. 31 </p> 
- <a href="https://www.nytimes.com/2021/10/31/us/politics/kavanaugh-texas-abortion-law.html">In Texas Abortion Law Case, a Spotlight on Brett Kavanaugh</a> NYT: If the Supreme Court is to reverse course after refusing to block the law in September, at least one conservative justice must change positions. Justice Kavanaugh is the most likely candidate. 
  <p class="updated_time"> 09:16 AM CT, Oct. 31 </p> 
  <a href="https://www.politico.com/news/2021/10/31/kinzinger-house-republicans-trump-517943">Kinzinger wants House Republicans to find some courage</a> Politico: The Illinois Republican, who announced he was not seeking reelection, hopes those who will remain in Congress will stand up to former President Donald Trump. 
- <p class="updated_time"> 05:51 AM CT, Oct. 31 </p> 
- <a href="https://www.nytimes.com/2021/10/30/world/americas/g20-summit-rome-covid-protests-biden-draghi.html">Pressure Grows on G20 Nations to Get Covid Vaccines to the Poor</a> NYT: The world’s leaders are focusing on preventing future pandemics, but experts say rich nations are not doing enough to help the poor survive the current one. 
- <p class="updated_time"> 05:50 AM CT, Oct. 31 </p> 
- <a href="https://www.nytimes.com/2021/10/30/world/europe/g20-biden-corporate-tax-agreement.html">Biden Finds Raising Corporate Tax Rates Easier Abroad Than at Home</a> NYT: As the Group of 20 seals a new global minimum tax for companies, the president has scaled back his plans to tax U.S. corporations more. 
  <p class="updated_time"> 01:16 PM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/30/us/politics/eastman-pence-capitol-riot.html">John Eastman Blamed Pence for Violence at Jan. 6 Riot</a> NYT: John Eastman, the author of a memo that some in both parties liken to a blueprint for a coup, sent a hostile email to the vice president’s chief counsel as the mob attacked. 
  <p class="updated_time"> 06:00 AM CT, Oct. 30 </p> 
