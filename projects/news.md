@@ -7,16 +7,16 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:40 AM CT, Nov. 01 </p> 
+ <p class="updated_time"> 08:52 AM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/live/2021/11/01/world/cop26-climate-change-summit">COP26 Live Updates: ‘We Are Digging Our Own Graves,’ U.N. Leader Warns at Climate Summit</a> NYT: António Guterres, the U.N. secretary general, opened the conference with a blistering critique of the world’s failure to unite to address global warming. President Biden is expected to address the conference soon. 
+ <p class="updated_time"> 08:42 AM CT, Nov. 01 </p> 
+ <a href="https://www.nytimes.com/2021/11/01/world/europe/cop26-climate-antonio-guterres.html">U.N. Leader Warns of 'Climate Catastrophe' at COP26 Summit</a> NYT: He urged countries to review their climate pledges annually rather than every five years as called for in the 2015 Paris accord. 
  <p class="updated_time"> 08:39 AM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/10/30/world/middleeast/lebanon-ambassadors-saudi-gulf.html">Gulf States Withdraw Ambassadors to Lebanon Over Criticism of Yemen War</a> NYT: With a few stray comments from a minor minister, Lebanon once again found itself caught in the rivalry between Saudi Arabia and Iran, underscoring just how vulnerable it is to the whims of its more powerful neighbors. 
  <p class="updated_time"> 08:26 AM CT, Nov. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-59119731?at_medium=RSS&at_campaign=KARANGA">Covid-19 deaths pass five million worldwide</a> BBC: Vaccines have slowed the death rate, but officials warn of worrying rises in some countries. 
  <p class="updated_time"> 08:15 AM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/europe/what-to-watch-monday-cop26.html">What to Watch For At COP26 on Monday and Tuesday</a> NYT: Prime Minister Boris Johnson was first to welcome leaders, who will then lay out “concrete actions and credible plans.” David Attenborough and Prince Charles are also speaking. 
- <p class="updated_time"> 07:59 AM CT, Nov. 01 </p> 
- <a href="https://www.nytimes.com/article/day-of-the-dead-mexico.html">What Is Day of the Dead and How Is the Mexican Holiday Celebrated?</a> NYT: Popularized globally by Hollywood in films like “Coco” and the James Bond franchise, Día de Muertos is a centuries-old tradition that has roots in Indigenous culture. 
  <p class="updated_time"> 07:58 AM CT, Nov. 01 </p> 
  <a href="https://www.bbc.co.uk/news/uk-politics-59117529?at_medium=RSS&at_campaign=KARANGA">UK could take legal action against France over fishing row, says Liz Truss</a> BBC: The foreign secretary accuses France of "unfair behaviour" as it warns it could block British boats. 
  <p class="updated_time"> 07:43 AM CT, Nov. 01 </p> 
@@ -163,14 +163,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/30/world/europe/g20-summit-rome-security.html">Italy Deploys Vast Security in Anticipation of G20 Protests</a> NYT: In 2001, a Group of 8 summit in Genoa was met with protests that turned violent. 
  <p class="updated_time"> 10:03 PM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/us/politics/coronavirus-origin-intelligence-report.html">Origin of Virus May Remain Murky, U.S. Intelligence Agencies Say</a> NYT: A declassified report said a clearer answer would require more information from Beijing or new discoveries and reiterated divisions over natural causes vs. a lab leak. 
- <p class="updated_time"> 08:14 PM CT, Oct. 29 </p> 
- <a href="https://www.nytimes.com/2021/10/29/world/africa/sudan-coup-general.html">‘They Lied.’ Inside the Frantic Days Leading to Sudan’s Coup</a> NYT: The American envoy, Jeffrey Feltman, was given assurances that seemed to head off a military takeover. Hours later, Lt. Gen. Abdel Fattah al-Burhan made his move. 
- <p class="updated_time"> 05:11 PM CT, Oct. 29 </p> 
- <a href="https://www.nytimes.com/2021/10/29/world/canada/dune-movie.html">‘Dune’ May Be Set in a Distant Time and Place, but the Film Has Canadian Roots</a> NYT: A science fiction opus was heavily guided by Canadian talent, starting with the director, Denis Villeneuve, who lives in Montreal. 
  <p class="updated_time"> 10:00 AM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/world/europe/spanish-writer-carmen-mola-true-identity.html">Behind a Top Female Name in Spanish Crime Fiction: Three Men</a> NYT: Carmen Mola, a novelist publishing under a pen name, seemed to shatter a glass ceiling in the world of Spanish books. But when the author’s true identity was revealed while claiming a big prize, it was a shock. 
- <p class="updated_time"> 09:46 AM CT, Oct. 29 </p> 
- <a href="https://www.nytimes.com/2021/10/29/climate/europe-energy-crisis-cop.html">How Rising Energy Prices Have Complicated Europe's Climate Crisis</a> NYT: Prices for power have soared, and some politicians are now trying to use that as a lever to slow action on climate change, a strategy with far-reaching consequences. 
 
 
 </details>
