@@ -7,12 +7,14 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:38 PM CT, Nov. 01 </p> 
+ <a href="https://www.nytimes.com/live/2021/11/01/world/cop26-climate-change-summit">COP26 Live Updates: Climate Change Is a ‘Challenge of Our Collective Lifetime,’ Biden Says</a> NYT: In a meeting with world leaders after his address, Mr. Biden apologized for the U.S. withdrawal from the Paris Agreement under former President Donald J. Trump. The move “put us sort of behind the eight ball,” he said. 
+ <p class="updated_time"> 04:38 PM CT, Nov. 01 </p> 
+ <a href="https://www.nytimes.com/2021/11/01/world/asia/modi-india-cop26-renewable-energy.html">India Will Sharply Increase Renewable Energy, Modi Says</a> NYT: Wealthy nations need to spend $1 trillion to help developing nations like India make the transition to renewables, Prime Minister Modi said. 
  <p class="updated_time"> 04:25 PM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/africa/nigeria-building-collapse-.html">Nigeria Building Collapse Kills at Least 4 With Many More Trapped</a> NYT: As many as 100 workers were feared trapped at a construction site in Lagos, where building collapses are common, with contractors using shoddy materials and regulations often not enforced. 
  <p class="updated_time"> 04:21 PM CT, Nov. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59125143?at_medium=RSS&at_campaign=KARANGA">COP26: India PM Narendra Modi pledges net zero by 2070</a> BBC: The pledge misses a key goal of the COP26 summit for all nations to commit to net zero by 2050. 
- <p class="updated_time"> 03:54 PM CT, Nov. 01 </p> 
- <a href="https://www.nytimes.com/live/2021/11/01/world/cop26-climate-change-summit">COP26 Live Updates: Climate Change Is a ‘Challenge of Our Collective Lifetime,’ Biden Says</a> NYT: In a meeting with world leaders after his address, Mr. Biden apologized for the U.S. withdrawal from the Paris Agreement under former President Donald J. Trump. The move “put us sort of behind the eight ball,” he said. 
  <p class="updated_time"> 03:46 PM CT, Nov. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59125653?at_medium=RSS&at_campaign=KARANGA">US Supreme Court hears arguments in controversial Texas abortion case</a> BBC: The justices will decide whether providers and the government can challenge Texas' abortion ban. 
  <p class="updated_time"> 03:39 PM CT, Nov. 01 </p> 
@@ -26,11 +28,11 @@ permalink: /projects/news/
  <p class="updated_time"> 01:53 PM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/biden-emissions-cop26-glasgow.html">Biden Calls for Tougher Actions on Emissions at COP26</a> NYT: “We have only a brief window” to avoid the most disastrous effects of global warming, President Biden warned at the United Nations climate summit. 
  <p class="updated_time"> 01:18 PM CT, Nov. 01 </p> 
- <a href="https://www.nytimes.com/2021/11/01/world/asia/modi-india-cop26-renewable-energy.html">India Will Sharply Increase Renewable Energy, Modi Says</a> NYT: Wealthy nations need to spend $1 trillion to help developing nations like India make the transition to renewables, Prime Minister Modi said. 
- <p class="updated_time"> 01:18 PM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/europe/britain-climate-change.html">Once a Leading Polluter, the U.K. Is Now Trying to Lead on Climate Change</a> NYT: On the eve of a global climate summit, Britain’s evolution from fossil fuels to clean energy is on display. But experts question whether its commitment is sufficient, and whether it can persuade other nations to meet meaningful goals. 
  <p class="updated_time"> 12:57 PM CT, Nov. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59095778?at_medium=RSS&at_campaign=KARANGA">Oromo Liberation Army: On the ground with Ethiopian fighters</a> BBC: The BBC's Catherine Byaruhanga gains special access to Ethiopia's Oromo Liberation Army. 
+ <p class="updated_time"> 12:22 PM CT, Nov. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/58956714?at_medium=RSS&at_campaign=KARANGA">Climate change: What are the big polluters doing to cut carbon emissions?</a> BBC: The top emissions-producing nations all have plans to tackle global warming, but what progress are they making? 
  <p class="updated_time"> 12:13 PM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/europe/cop26-climate-antonio-guterres.html">U.N. Leader, António Guterres, Warns of 'Climate Catastrophe' at COP26</a> NYT: He urged countries to review their climate pledges annually rather than every five years as called for in the 2015 Paris accord. 
  <p class="updated_time"> 12:10 PM CT, Nov. 01 </p> 
@@ -39,6 +41,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/01/travel/soviet-era-metros.html">The Stunning Grandeur of Soviet-Era Metros</a> NYT: Between 2014 and 2020, Frank Herfort visited more than 770 metro stations in 19 cities, creating a remarkable archive of architectural and artistic splendor. 
  <p class="updated_time"> 12:03 PM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/10/31/world/shanghai-disney-covid.html">Shanghai Disneyland Temporarily Shut by ‘Severe’ Virus Outbreak</a> NYT: NA 
+ <p class="updated_time"> 11:59 AM CT, Nov. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/science-environment-59121480?at_medium=RSS&at_campaign=KARANGA">My day at COP26: 'I told world leaders: We're not drowning, we're fighting'</a> BBC: Samoan climate activist Brianna Fruean addressed world leaders at COP26 - she describes what it felt like to speak up for Pacific islanders. 
  <p class="updated_time"> 11:50 AM CT, Nov. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-59119321?at_medium=RSS&at_campaign=KARANGA">Handball federation changes uniform rules after bikini row</a> BBC: A campaign had pushed for an overhaul after Norway's team were fined for wearing shorts in July. 
  <p class="updated_time"> 11:45 AM CT, Nov. 01 </p> 
@@ -145,12 +149,18 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/30/world/g20-photos.html">Photos From the G20 Summit in Rome</a> NYT: Colorful protests outside the G20 meetings, and in them, exchanges between world leaders. 
  <p class="updated_time"> 08:10 PM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/30/world/americas/nyc-police-fire-vaccine-mandate.html">More New York City workers get Covid shots as deadline nears, but tensions remain.</a> NYT: The city’s effort to compel most city employees to receive the coronavirus vaccine before Monday appears to have rapidly boosted inoculation rates. 
+ <p class="updated_time"> 07:23 PM CT, Oct. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/science-environment-59078198?at_medium=RSS&at_campaign=KARANGA">Can COP26 really save the planet?</a> BBC: Past COPs our science editor went to didn't stop climate change - will this one be any different? 
+ <p class="updated_time"> 07:13 PM CT, Oct. 30 </p> 
+ <a href="https://www.bbc.co.uk/news/science-environment-59051407?at_medium=RSS&at_campaign=KARANGA">Climate change: What's it like living in a place where it's 50C?</a> BBC: The BBC has spoken to people around the world about how extreme heat is changing their lives. 
  <p class="updated_time"> 04:51 PM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/30/world/biden-communion-rome-g20.html">Biden Receives Communion at Rome Church</a> NYT: Some conservative bishops in the United States have said the president should be denied communion because of his support for abortion rights. 
  <p class="updated_time"> 03:11 PM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/30/world/africa/sudan-protests-coup.html">Protesters Killed in Sudan on Day Seen as a Test for the Military</a> NYT: Three demonstrators were fatally shot, a doctors’ group said, as crowds answered activists’ call for a “march of millions” against a coup that has threatened the country’s democratic transition. 
  <p class="updated_time"> 12:08 PM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/30/world/europe/russia-gas-pipeline-nordstream-putin.html">A Russian Pipeline Changes Direction, and Energy Politics Come to the Fore</a> NYT: Amid an energy crunch in Europe, one of Russia’s largest natural gas pipelines began pulling gas out of Western Europe back eastward, Russian news agencies reported. 
+ <p class="updated_time"> 07:12 PM CT, Oct. 25 </p> 
+ <a href="https://www.bbc.co.uk/news/science-environment-58171814?at_medium=RSS&at_campaign=KARANGA">Climate change: Four things you can do about your carbon footprint</a> BBC: Small changes to our lifestyles and choices could limit our personal carbon footprint. 
 
 
 </details>
@@ -173,7 +183,7 @@ permalink: /projects/news/
  <p class="updated_time"> 03:22 PM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/10/31/climate/climate-change-biden-cop26.html">At Climate Talks, Biden Will Try to Sell American Leadership to Skeptics</a> NYT: The president wants to assure Glasgow’s climate summit that the U.S. is serious about climate change. But he lacks a legislative win at home. 
  <p class="updated_time"> 03:21 PM CT, Nov. 01 </p> 
- <a href="https://www.nytimes.com/2021/11/01/us/politics/supreme-court-texas-abortion-law.html">Supreme Court Hints That It May Allow Challenge to Texas Abortion Law</a> NYT: In two arguments on Monday, the justices considered challenges from abortion providers and the Biden administration to a law that bans abortions after about six weeks. 
+ <a href="https://www.nytimes.com/2021/11/01/us/politics/texas-abortion-law-supreme-court.html">Supreme Court Hints That It May Allow Challenge to Texas Abortion Law</a> NYT: In two arguments on Monday, the justices considered challenges from abortion providers and the Biden administration to a law that bans abortions after about six weeks. 
  <p class="updated_time"> 02:59 PM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/us/politics/youngkin-trump-mcauliffe-virginia-governor.html">As Youngkin Tries to Finesse Trump, McAuliffe Conjures His Comeback</a> NYT: Barnstorming Virginia, the candidates for governor hammered away at their core arguments. For the Republican: parents’ involvement in schools. For the Democrat: Trump redux. 
  <p class="updated_time"> 02:30 PM CT, Nov. 01 </p> 
