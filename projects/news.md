@@ -7,14 +7,16 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:02 AM CT, Nov. 01 </p> 
+ <a href="https://www.nytimes.com/2021/11/01/world/asia/new-zealand-bird-contest-bat.html">New Zealand Held a Contest for Bird of the Year. The Birds Lost.</a> NYT: The long-tailed bat, one of the country’s only two native land mammals, flew away with the top prize. 
  <p class="updated_time"> 01:50 AM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/australia/australia-border-reopening-covid.html">Australia Allows Residents, Citizens to Return as Borders Open</a> NYT: The government lifted restrictions on citizens and permanent residents seeking to return to the country. Australians no longer need to obtain an exemption to leave. 
  <p class="updated_time"> 01:42 AM CT, Nov. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59110828?at_medium=RSS&at_campaign=KARANGA">Japan election: PM Fumio Kishida declares victory for ruling LDP</a> BBC: He has defied initial expectations to lead the Liberal Democratic Party to a comfortable majority. 
- <p class="updated_time"> 01:41 AM CT, Nov. 01 </p> 
- <a href="https://www.nytimes.com/2021/11/01/world/asia/new-zealand-bird-contest-bat.html">New Zealand Held a Contest for Bird of the Year. The Birds Lost.</a> NYT: One of the country’s only two native land mammals, a long-tailed bat, flew away with the top prize. 
  <p class="updated_time"> 01:09 AM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/europe/britain-climate-change.html">Once a Leading Polluter, the U.K. Is Now Trying to Lead on Climate Change</a> NYT: On the eve of a global climate summit, Britain’s evolution from fossil fuels to clean energy is on display. But experts question whether its commitment is sufficient, and whether it can persuade other nations to meet meaningful goals. 
+ <p class="updated_time"> 12:04 AM CT, Nov. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-59115079?at_medium=RSS&at_campaign=KARANGA">Covid: Emotional reunions as Australia's border reopens</a> BBC: International travellers hug loved ones at Sydney Airport for the first time in 20 months. 
  <p class="updated_time"> 11:48 PM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/31/world/nyc-firefighters-police-vaccine-mandate.html">Over 2,000 New York City Firefighters Took Sick Days as Vaccine Mandate Looms</a> NYT: More than 22,000 municipal workers remained unvaccinated a day before a city deadline to get their first dose of a coronavirus vaccine. 
  <p class="updated_time"> 11:35 PM CT, Oct. 31 </p> 
@@ -97,8 +99,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/31/us/politics/saudi-investment-conference-trump-allies.html">Trump Allies Are Prominent at Saudi Investment Conference</a> NYT: But the Biden administration sent only a deputy commerce secretary to the high-profile gathering, amid shifts in global politics and diplomatic strains. 
  <p class="updated_time"> 08:58 AM CT, Oct. 31 </p> 
  <a href="https://www.wsj.com/articles/a-nation-learns-to-love-movie-popcornwithout-the-movie-11635703138">A Nation Learns to Love Movie Popcorn---Without the Movie</a> WSJ: South Korea’s Covid-19 restrictions banned eating popcorn in theaters, so moviegoers chowed down in the lobby or had tubs delivered to their homes. Others went rogue; ‘I chewed as quietly as I could.’ 
- <p class="updated_time"> 08:29 AM CT, Oct. 31 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-59110239?at_medium=RSS&at_campaign=KARANGA">Stars of music enter the Rock and Roll Hall of Fame</a> BBC: Carole King, Jay-Z and Foo Fighters and others were inducted at a star studded Rock and Roll Hall of Fame ceremony. 
  <p class="updated_time"> 05:51 AM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/30/world/americas/g20-summit-rome-covid-protests-biden-draghi.html">Pressure Grows on G20 Nations to Get Covid Vaccines to the Poor</a> NYT: The world’s leaders are focusing on preventing future pandemics, but experts say rich nations are not doing enough to help the poor survive the current one. 
  <p class="updated_time"> 05:51 AM CT, Oct. 31 </p> 
@@ -188,6 +188,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:00 AM CT, Nov. 01 </p> 
+ <a href="https://www.nytimes.com/2021/11/01/nyregion/democratic-party-ny.html">What Does It Mean to Be a New York Democrat These Days?</a> NYT: A series of Election Day contests may serve as a barometer of how far left Democratic voters in New York State want their party to go. 
  <p class="updated_time"> 11:23 PM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/31/world/biden-g20-covid-climate.html">Struggling at Home, Biden Is Buoyed by G20 Trip Abroad</a> NYT: A trip to Rome invigorated a president whose poll numbers are slumping at home, but who projected confidence in his foreign and domestic agenda. 
  <p class="updated_time"> 08:59 PM CT, Oct. 31 </p> 
@@ -228,8 +230,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/30/world/americas/g20-summit-rome-covid-protests-biden-draghi.html">Pressure Grows on G20 Nations to Get Covid Vaccines to the Poor</a> NYT: The world’s leaders are focusing on preventing future pandemics, but experts say rich nations are not doing enough to help the poor survive the current one. 
  <p class="updated_time"> 05:50 AM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/30/world/europe/g20-biden-corporate-tax-agreement.html">Biden Finds Raising Corporate Tax Rates Easier Abroad Than at Home</a> NYT: As the Group of 20 seals a new global minimum tax for companies, the president has scaled back his plans to tax U.S. corporations more. 
- <p class="updated_time"> 05:24 PM CT, Oct. 30 </p> 
- <a href="https://www.nytimes.com/2021/10/30/movies/alec-baldwin-rust-shooting-timeline.html">How the Shooting on the Alec Baldwin Set Happened</a> NYT: A reconstruction of the events leading up to the fatal shooting of the cinematographer of “Rust,” the Alec Baldwin western, reveals a troubled production and a series of errors. 
  <p class="updated_time"> 01:16 PM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/30/us/politics/eastman-pence-capitol-riot.html">John Eastman Blamed Pence for Violence at Jan. 6 Riot</a> NYT: John Eastman, the author of a memo that some in both parties liken to a blueprint for a coup, sent a hostile email to the vice president’s chief counsel as the mob attacked. 
  <p class="updated_time"> 06:00 AM CT, Oct. 30 </p> 
