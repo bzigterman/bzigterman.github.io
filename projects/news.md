@@ -7,10 +7,12 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:23 PM CT, Nov. 01 </p> 
+ <a href="https://www.nytimes.com/live/2021/11/01/world/cop26-climate-change-summit">COP26 Live Updates: Climate Change Is a ‘Challenge of Our Collective Lifetime,’ Biden Says</a> NYT: In a meeting with world leaders after his address, Mr. Biden apologized for the U.S. withdrawal from the Paris Agreement under former President Donald J. Trump. The move “put us sort of behind the eight ball,” he said. 
+ <p class="updated_time"> 05:21 PM CT, Nov. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59125228?at_medium=RSS&at_campaign=KARANGA">Nigeria building collapse: At leastfour killed in Lagos</a> BBC: Rescue efforts are underway in Lagos, with many people feared trapped under the rubble. 
  <p class="updated_time"> 04:49 PM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/australia/australia-border-reopening-covid.html">Australia Allows Residents, Citizens to Return as Borders Open</a> NYT: After 18 months of strict measures to combat the pandemic, the states of New South Wales and Victoria relaxed restrictions on citizens and permanent residents seeking to travel back from overseas. 
- <p class="updated_time"> 04:38 PM CT, Nov. 01 </p> 
- <a href="https://www.nytimes.com/live/2021/11/01/world/cop26-climate-change-summit">COP26 Live Updates: Climate Change Is a ‘Challenge of Our Collective Lifetime,’ Biden Says</a> NYT: In a meeting with world leaders after his address, Mr. Biden apologized for the U.S. withdrawal from the Paris Agreement under former President Donald J. Trump. The move “put us sort of behind the eight ball,” he said. 
  <p class="updated_time"> 04:38 PM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/asia/modi-india-cop26-renewable-energy.html">India Will Sharply Increase Renewable Energy, Modi Says</a> NYT: Wealthy nations need to spend $1 trillion to help developing nations like India make the transition to renewables, Prime Minister Modi said. 
  <p class="updated_time"> 04:25 PM CT, Nov. 01 </p> 
@@ -23,8 +25,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/01/world/europe/greta-thunberg-cop26-glasgow.html">Greta Thunberg Arrives in Glasgow for COP26 and Joins a Protest</a> NYT: The activist, whose solo climate strikes in 2018 helped fuel a youth climate movement, was greeted like a rock star upon arriving in the city, according to videos. 
  <p class="updated_time"> 03:22 PM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/10/31/climate/climate-change-biden-cop26.html">At Climate Talks, Biden Will Try to Sell American Leadership to Skeptics</a> NYT: The president wants to assure Glasgow’s climate summit that the U.S. is serious about climate change. But he lacks a legislative win at home. 
- <p class="updated_time"> 03:12 PM CT, Nov. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59125228?at_medium=RSS&at_campaign=KARANGA">Nigeria building collapse: At least three killed in Lagos</a> BBC: Rescue efforts are underway in Lagos, with many people feared trapped under the rubble. 
  <p class="updated_time"> 01:59 PM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/europe/david-attenborough-cop26.html">David Attenborough Urges Leaders at COP26 Summit to ‘Rewrite Our Story’</a> NYT: “If working apart we are force powerful enough to destabilize our planet,” the naturalist said, “surely working together we are powerful enough to save it.” 
  <p class="updated_time"> 01:53 PM CT, Nov. 01 </p> 
@@ -168,6 +168,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:16 PM CT, Nov. 01 </p> 
+ <a href="https://www.nytimes.com/2021/11/01/us/politics/youngkin-trump-mcauliffe-virginia-governor.html">As Youngkin Tries to Finesse Trump, McAuliffe Conjures His Comeback</a> NYT: Barnstorming Virginia, the candidates for governor hammered away at their core arguments. For the Republican: parents’ involvement in schools. For the Democrat: Trump redux. 
  <p class="updated_time"> 05:00 PM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/us/linwood-holton-dead.html">Linwood Holton, Virginia Governor Who Pushed for Racial Equality, Dies at 98</a> NYT: The first Republican governor of the state in almost a century, he seemed to herald a new, post-racial South. He later became disillusioned with his own party. 
  <p class="updated_time"> 04:59 PM CT, Nov. 01 </p> 
@@ -188,8 +190,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/01/us/politics/ballot-initiatives-voters-voting.html">Desperate for Housing Options, Communities Turn to Ballot Initiatives</a> NYT: Cities and counties will vote on measures, like tax increases and curbs on Airbnb, aimed at creating more affordable housing. 
  <p class="updated_time"> 03:38 PM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/business/stablecoins-cryptocurrency-regulation.html">Regulators Ask Congress to Create New Rules for Cryptocurrencies</a> NYT: A Treasury Department report says stablecoin issuers should operate like banks to avoid destabilizing runs that could erode financial stability. 
- <p class="updated_time"> 02:59 PM CT, Nov. 01 </p> 
- <a href="https://www.nytimes.com/2021/11/01/us/politics/youngkin-trump-mcauliffe-virginia-governor.html">As Youngkin Tries to Finesse Trump, McAuliffe Conjures His Comeback</a> NYT: Barnstorming Virginia, the candidates for governor hammered away at their core arguments. For the Republican: parents’ involvement in schools. For the Democrat: Trump redux. 
  <p class="updated_time"> 02:30 PM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/us/politics/manchin-endorse-framework.html">Manchin Refuses to Endorse Safety Net Bill, Dampening Hopes of a Quick Vote</a> NYT: The Democratic senator, a crucial swing vote, demanded more time to evaluate the economic and fiscal ramifications of the $1.85 trillion plan, frustrating plans for a House vote this week. 
  <p class="updated_time"> 01:35 PM CT, Nov. 01 </p> 
