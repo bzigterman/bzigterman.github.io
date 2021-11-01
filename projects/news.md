@@ -7,10 +7,10 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:57 AM CT, Nov. 01 </p> 
+ <a href="https://www.nytimes.com/2021/11/01/world/5-million-covid-deaths.html">Global Covid Death Toll Surpasses 5 Million, but Full Count Is Higher</a> NYT: Many countries do not accurately report their figures, and many Covid deaths are misattributed, experts say. 
  <p class="updated_time"> 10:50 AM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/live/2021/11/01/world/cop26-climate-change-summit">COP26 Live Updates: Climate Change Is ‘Ravaging the World,’ Biden Tells Summit</a> NYT: António Guterres, the U.N. secretary general, opened the conference with a blistering critique of the world’s failure to unite to address global warming. 
- <p class="updated_time"> 10:45 AM CT, Nov. 01 </p> 
- <a href="https://www.nytimes.com/2021/11/01/world/5-million-covid-deaths.html">Global Covid Death Toll Surpasses 5 Million, but Full Count Is Higher</a> NYT: Many countries do not accurately report their figures, and many Covid deaths are misattributed, experts say. 
  <p class="updated_time"> 10:40 AM CT, Nov. 01 </p> 
  <a href="https://www.bbc.co.uk/news/technology-59121165?at_medium=RSS&at_campaign=KARANGA">Chinese version of Fortnite to close in November</a> BBC: Epic Games has not explained the decision to end the Fortress Night game in the country. 
  <p class="updated_time"> 10:38 AM CT, Nov. 01 </p> 
@@ -172,10 +172,12 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:52 AM CT, Nov. 01 </p> 
+ <a href="https://www.nytimes.com/2021/11/01/books/review/both-and-huma-abedin.html">Book Review: 'Both/And,' by Huma Abedin</a> NYT: “Both/And” may not be the most introspective memoir, but it gives readers a front-row view of heartache and humiliation. 
  <p class="updated_time"> 10:45 AM CT, Nov. 01 </p> 
- <a href="https://www.nytimes.com/2021/11/01/us/politics/will-justice-brett-kavanaugh-change-his-position.html">Will Justice Brett Kavanaugh change his position?</a> NYT: Justice Kavanaugh has consistently supported abortion restrictions, but occasionally stakes out more moderate positions than his colleagues. 
+ <a href="https://www.nytimes.com/2021/11/01/us/politics/brett-kavanaugh-abortion.html">Will Justice Brett Kavanaugh Change His Position on Abortion?</a> NYT: Justice Kavanaugh has consistently supported abortion restrictions, but occasionally stakes out more moderate positions than his colleagues. 
  <p class="updated_time"> 10:45 AM CT, Nov. 01 </p> 
- <a href="https://www.nytimes.com/2021/11/01/us/politics/judd-stone-ii-the-texas-solicitor-general-makes-his-supreme-court-debut.html">Judd Stone II, the Texas solicitor general, makes his Supreme Court debut.</a> NYT: Stone is a former clerk to Justice Antonin Scalia and former chief counsel to Senator Ted Cruz. 
+ <a href="https://www.nytimes.com/2021/11/01/us/politics/judd-stone-abortion.html">Who is Judd Stone II? Texas Solicitor General Makes Supreme Court Debut</a> NYT: Stone is a former clerk to Justice Antonin Scalia and former chief counsel to Senator Ted Cruz. 
  <p class="updated_time"> 10:29 AM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/10/31/nyregion/city-council-nyc-election.html">The Places in New York City Where Republicans Still Stand a Chance</a> NYT: In some New York City Council races, supporting former President Donald Trump is seen as a positive by voters. 
  <p class="updated_time"> 10:19 AM CT, Nov. 01 </p> 
@@ -188,8 +190,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/01/books/huma-abedin-book-weiner-hillary-clinton.html">7 Takeaways From Huma Abedin's Book</a> NYT: In her new memoir, “Both/And,” Hillary Clinton’s longtime aide opens up about her ex-husband, the 2016 election and more. 
  <p class="updated_time"> 08:02 AM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/10/31/us/politics/kavanaugh-texas-abortion-law.html">In Texas Abortion Law Case, a Spotlight on Brett Kavanaugh</a> NYT: If the Supreme Court is to reverse course after refusing to block the law in September, at least one conservative justice must change positions. Justice Kavanaugh is the most likely candidate. 
- <p class="updated_time"> 07:54 AM CT, Nov. 01 </p> 
- <a href="https://www.nytimes.com/2021/11/01/books/review/both-and-huma-abedin.html">Book Review: 'Both/And,' by Huma Abedin</a> NYT: “Both/And” may not be the most introspective memoir, but it gives readers a front-row view of heartache and humiliation. 
  <p class="updated_time"> 06:23 AM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/us/politics/ballot-initiatives-voters-voting.html">Desperate for Housing Options, Communities Turn to Ballot Initiatives</a> NYT: Cities and counties will vote on measures, like tax increases and curbs on Airbnb, aimed at creating more affordable housing. 
  <p class="updated_time"> 03:30 AM CT, Nov. 01 </p> 
