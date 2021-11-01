@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:32 AM CT, Nov. 01 </p> 
+ <a href="https://www.nytimes.com/2021/10/31/us/ramaphosa-anc-south-africa.html">He Brokered Apartheid’s End. Can He Save South Africa’s Liberation Party?</a> NYT: President Cyril Ramaphosa ascended to office on a reputation as a great negotiator and consensus builder. Now he must persuade voters to stick with the party of Nelson Mandela. 
  <p class="updated_time"> 06:24 AM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/live/2021/11/01/world/cop26-climate-change-summit">COP26 Live Updates: As Peril of Warming Planet Grows, World Leaders Gather in Glasgow</a> NYT: Countries are under pressure to limit the rise in global temperatures. As the 12-day gathering gets underway, leaders including President Biden will promise action. 
  <p class="updated_time"> 06:22 AM CT, Nov. 01 </p> 
@@ -91,8 +93,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59113437?at_medium=RSS&at_campaign=KARANGA">Biden at G20: Russia and China 'didn't show up' on climate</a> BBC: US President Joe Biden addresses disappointment by some about what was agreed at the G20 ahead of COP26. 
  <p class="updated_time"> 02:08 PM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/31/world/moderna-covid-vaccine-teens-myocarditis.html">F.D.A. Is Reviewing If Moderna Vaccine Causes Heart Problems in Adolescents</a> NYT: The F.D.A. has notified Moderna that it needs more time to review the vaccine’s safety and may not deliver a decision until January. 
- <p class="updated_time"> 01:34 PM CT, Oct. 31 </p> 
- <a href="https://www.nytimes.com/2021/10/31/us/ramaphosa-anc-south-africa.html">He Brokered Apartheid’s End. Can He Save South Africa’s Liberation Party?</a> NYT: President Cyril Ramaphosa ascended to office on a reputation as a great negotiator and consensus builder. Now he must convince voters to stick with the party of Nelson Mandela. 
  <p class="updated_time"> 01:18 PM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/30/business/economy/biden-steel-tariffs-europe.html">Biden Rolls Back Trump's Metal Tariffs On European Union</a> NYT: The deal, which comes as U.S. and E.U. allies meet in Rome, will keep some trade protections in place in a nod to metalworking unions that supported President Biden. 
  <p class="updated_time"> 01:14 PM CT, Oct. 31 </p> 
