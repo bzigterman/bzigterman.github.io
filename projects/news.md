@@ -7,12 +7,12 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:46 PM CT, Nov. 01 </p> 
+ <a href="https://www.nytimes.com/live/2021/11/01/world/cop26-climate-change-summit">Key Moments From Day 1 of the COP26 Climate Change Summit</a> NYT: Meeting in Glasgow, Scotland, President Biden and a host of other world leaders sounded dire warnings, but hopes for breakthrough action are muted. 
  <p class="updated_time"> 06:25 PM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/africa/nigeria-building-collapse-.html">Nigeria Building Collapse Kills at Least 4 With Many More Trapped</a> NYT: As many as 100 workers were feared trapped at a construction site in Lagos, where building collapses are common, with contractors using shoddy materials and regulations often not enforced. 
  <p class="updated_time"> 06:14 PM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/10/31/world/nyc-firefighters-police-vaccine-mandate.html">Over 2,000 New York City Firefighters Took Sick Days as Vaccine Mandate Looms</a> NYT: More than 22,000 municipal workers remained unvaccinated a day before a city deadline to get their first dose of a coronavirus vaccine. 
- <p class="updated_time"> 06:05 PM CT, Nov. 01 </p> 
- <a href="https://www.nytimes.com/live/2021/11/01/world/cop26-climate-change-summit">Key Moments from Day 1 of the COP26 Climate Change Summit</a> NYT: Meeting in Glasgow, Scotland, President Biden and a host of other world leaders sounded dire warnings, but hopes for breakthrough action are muted. 
  <p class="updated_time"> 06:03 PM CT, Nov. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59128159?at_medium=RSS&at_campaign=KARANGA">Day of the Dead parade returns to Mexico City after Covid</a> BBC: The James Bond-inspired carnival fills Mexico City with skeletons, dancers and giant sculptures. 
  <p class="updated_time"> 05:48 PM CT, Nov. 01 </p> 
