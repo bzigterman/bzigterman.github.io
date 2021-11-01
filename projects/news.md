@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:49 PM CT, Oct. 31 </p> 
+ <a href="https://www.nytimes.com/2021/10/31/world/nyc-firefighters-police-vaccine-mandate.html">Over 2,000 New York City Firefighters Took Sick Days as Vaccine Mandate Looms</a> NYT: More than 22,000 municipal workers remained unvaccinated a day before a city deadline to get their first dose of a coronavirus vaccine. 
  <p class="updated_time"> 08:57 PM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/31/us/politics/guantanamo-torture-letter.html">U.S. Military Jury Condemns Terrorist’s Torture and Urges Clemency</a> NYT: Seven senior officers rebuked the government’s treatment of an admitted terrorist in a handwritten letter from the jury room at Guantánamo Bay. 
  <p class="updated_time"> 08:36 PM CT, Oct. 31 </p> 
@@ -39,8 +41,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-59113710?at_medium=RSS&at_campaign=KARANGA">Aukus: French president says Australian PM lied over submarine deal</a> BBC: Asked if Australia's leader was untruthful, France's president responds: "I don't think, I know." 
  <p class="updated_time"> 06:14 PM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/31/world/biden-g20-covid-climate.html">Struggling at Home, Biden Is Buoyed by G20 Trip Abroad</a> NYT: A trip to Rome invigorated a president whose poll numbers are slumping at home, but who projected confidence in his foreign and domestic agenda. 
- <p class="updated_time"> 05:41 PM CT, Oct. 31 </p> 
- <a href="https://www.nytimes.com/2021/10/31/world/nyc-firefighters-police-vaccine-mandate.html">Over 2,000 New York City Firefighters Took Sick Days as Vaccine Mandate Looms</a> NYT: More than 22,000 municipal workers remained unvaccinated a day before a city deadline to get their first dose of a coronavirus vaccine. 
  <p class="updated_time"> 05:39 PM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/31/world/americas/brazil-police-kill-25-bank-gang.html">Brazilian Police Kill 25 Accused of Planning Bank Heists</a> NYT: The police say an operation against a gang planning bank robberies killed at least 25 suspects in the Brazilian state of Minas Gerais on Sunday. 
  <p class="updated_time"> 05:27 PM CT, Oct. 31 </p> 
