@@ -7,18 +7,26 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
- <p class="updated_time"> 07:17 AM CT, Nov. 01 </p> 
- <a href="https://www.nytimes.com/live/2021/11/01/world/cop26-climate-change-summit">COP26 Live Updates: As Peril of Warming Planet Grows, World Leaders Gather in Glasgow</a> NYT: Countries are under pressure to sharply cut greenhouse gas emissions and limit the rise in global temperatures. As the 12-day gathering gets underway, leaders including President Biden will promise action. 
- <p class="updated_time"> 07:07 AM CT, Nov. 01 </p> 
+ <p class="updated_time"> 07:46 AM CT, Nov. 01 </p> 
+ <a href="https://www.nytimes.com/live/2021/11/01/world/cop26-climate-change-summit">COP26 Live Updates: Global Climate Summit Begins in Glasgow as Peril of Warming Planet Grows</a> NYT: Countries are under pressure to sharply cut greenhouse gas emissions and limit the rise in global temperatures. As the 12-day gathering gets underway, leaders including President Biden will promise action. 
+ <p class="updated_time"> 07:43 AM CT, Nov. 01 </p> 
+ <a href="https://www.nytimes.com/2021/11/01/travel/soviet-era-metros.html">The Stunning Grandeur of Soviet-Era Metros</a> NYT: Between 2014 and 2020, Frank Herfort visited more than 770 metro stations in 19 cities, creating a remarkable archive of architectural and artistic splendor. 
+ <p class="updated_time"> 07:41 AM CT, Nov. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59054146?at_medium=RSS&at_campaign=KARANGA">Real life Succession battle plagues Canada's top wireless firm</a> BBC: A bitter power struggle at Rogers Communications has gone from 'Succession' to 'Game of Thrones'. 
+ <p class="updated_time"> 07:26 AM CT, Nov. 01 </p> 
  <a href="https://www.bbc.co.uk/news/uk-politics-59117529?at_medium=RSS&at_campaign=KARANGA">UK could take legal action against France over fishing row, says Liz Truss</a> BBC: The foreign secretary accuses France of "unfair behaviour" as it warns it could block British boats. 
+ <p class="updated_time"> 07:26 AM CT, Nov. 01 </p> 
+ <a href="https://www.nytimes.com/2021/11/01/world/asia/thailand-reopens-tourists-quarantine.html">Thailand Reopens to Tourists Without Requiring Quarantine</a> NYT: About a fifth of the nation’s economy depends on the vacation industry. Before the pandemic, the country was one of the world’s top destinations, drawing nearly 40 million visitors in 2019. 
+ <p class="updated_time"> 07:25 AM CT, Nov. 01 </p> 
+ <a href="https://www.nytimes.com/2021/10/29/world/nyc-vaccine-mandate-resistance.html">Tensions Rise with Next Phase of NYCs Vaccine Mandate</a> NYT: Last-minute shots brought thousands more workers in the Police, Fire and Sanitation Departments into compliance. 
+ <p class="updated_time"> 07:24 AM CT, Nov. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/business-59117084?at_medium=RSS&at_campaign=KARANGA">Barclays boss Jes Staley in shock exit over Epstein inquiry</a> BBC: Jes Staley is leaving the bank following an investigation into his links to sex offender Jeffrey Epstein. 
  <p class="updated_time"> 06:49 AM CT, Nov. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59119621?at_medium=RSS&at_campaign=KARANGA">Covid-19: Single case shuts down Shanghai Disneyland</a> BBC: The Chinese theme park closes for at lest two days after a visitor tests positive. 
  <p class="updated_time"> 06:43 AM CT, Nov. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59118693?at_medium=RSS&at_campaign=KARANGA">Yemen war: Deadly missile attack on Marib religious school</a> BBC: The Yemeni government blames Houthi rebels for the attack, which killed or wounded 29 civilians. 
  <p class="updated_time"> 06:32 AM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/10/31/us/ramaphosa-anc-south-africa.html">He Brokered Apartheid’s End. Can He Save South Africa’s Liberation Party?</a> NYT: President Cyril Ramaphosa ascended to office on a reputation as a great negotiator and consensus builder. Now he must persuade voters to stick with the party of Nelson Mandela. 
- <p class="updated_time"> 06:22 AM CT, Nov. 01 </p> 
- <a href="https://www.bbc.co.uk/news/business-59117084?at_medium=RSS&at_campaign=KARANGA">Barclays boss Jes Staley in shock exit over Epstein inquiry</a> BBC: Jes Staley is leaving the bank following an investigation into his links to sex offender Jeffrey Epstein. 
  <p class="updated_time"> 06:03 AM CT, Nov. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59103664?at_medium=RSS&at_campaign=KARANGA">Japanese man in Joker costume injures 17 in knife attack on Tokyo train</a> BBC: Video footage shows passengers desperately running from fire and the man who was wielding a knife. 
  <p class="updated_time"> 05:50 AM CT, Nov. 01 </p> 
@@ -33,8 +41,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/01/world/europe/climate-conference-kicks-off-in-glasgow-with-floods-and-low-expectations.html">Climate conference kicks off in Glasgow with floods and low expectations.</a> NYT: NA 
  <p class="updated_time"> 04:03 AM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/europe/greta-thunberg-cop26-glasgow.html">Greta Thunberg Is Mobbed as She Arrives in Glasgow for COP26</a> NYT: Ms. Thunberg, whose solo climate strikes in 2018 helped fuel a global youth climate movement, was greeted with a mix of cheers and yells, according to videos. 
- <p class="updated_time"> 04:00 AM CT, Nov. 01 </p> 
- <a href="https://www.nytimes.com/2021/11/01/travel/soviet-era-metros.html">The Stunning Grandeur of Soviet-Era Metros</a> NYT: Between 2014 and 2020, Frank Herfort visited more than 770 metro stations in 19 cities, creating a remarkable archive of architectural and artistic splendor. 
  <p class="updated_time"> 02:02 AM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/asia/new-zealand-bird-contest-bat.html">New Zealand Held a Contest for Bird of the Year. The Birds Lost.</a> NYT: The long-tailed bat, one of the country’s only two native land mammals, flew away with the top prize. 
  <p class="updated_time"> 01:42 AM CT, Nov. 01 </p> 
@@ -57,8 +63,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/31/us/politics/guantanamo-torture-letter.html">U.S. Military Jury Condemns Terrorist’s Torture and Urges Clemency</a> NYT: Seven senior officers rebuked the government’s treatment of an admitted terrorist in a handwritten letter from the jury room at Guantánamo Bay. 
  <p class="updated_time"> 08:00 PM CT, Oct. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59054570?at_medium=RSS&at_campaign=KARANGA">How film-school reject Khadar Ahmed is winning prizes and hearts</a> BBC: Finnish-Somali prize-winning director Khadar Ahmed credits Africa for his great storytelling. 
- <p class="updated_time"> 07:24 PM CT, Oct. 31 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59054146?at_medium=RSS&at_campaign=KARANGA">Real life Succession battle plagues Canada's largest telecoms firm</a> BBC: A bitter power struggle at Rogers Communications has gone from 'Succession' to 'Game of Thrones'. 
  <p class="updated_time"> 07:14 PM CT, Oct. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-58895749?at_medium=RSS&at_campaign=KARANGA">Climate change: The Indian village that could disappear under water</a> BBC: A village in the eastern coast of India faces the risk of going under water amid rising sea levels. 
  <p class="updated_time"> 07:12 PM CT, Oct. 31 </p> 
@@ -149,8 +153,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/30/world/africa/south-africa-elections-anc.html">A South African Town Lacks Water and Electricity. But Mayors? It Has Two.</a> NYT: Dysfunctional and collapsing rural towns may test voters’ loyalty to the ruling African National Congress party in nationwide municipal elections on Monday. 
  <p class="updated_time"> 09:02 AM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/29/world/vaccine-mandate-states-sue.html">10 Republican-led States Sue Over Biden's Vaccine Mandate</a> NYT: The lawsuit is being led by Missouri’s attorney general, Eric Schmitt, and the attorney general of Nebraska, Doug Peterson. 
- <p class="updated_time"> 09:02 AM CT, Oct. 30 </p> 
- <a href="https://www.nytimes.com/2021/10/29/world/nyc-vaccine-mandate-resistance.html">Tensions Rise with Next Phase of NYCs Vaccine Mandate</a> NYT: Last-minute shots brought thousands more workers in the Police, Fire and Sanitation Departments into compliance. 
  <p class="updated_time"> 04:00 AM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/30/world/asia/china-xi-jinping-g20.html">Xi Hasn’t Left China in 21 Months. Covid May Be Only Part of the Reason.</a> NYT: Xi Jinping’s lack of face time with world leaders signals a turn inward on domestic issues and a reluctance to compromise on the global stage. 
  <p class="updated_time"> 04:00 AM CT, Oct. 30 </p> 
