@@ -7,6 +7,16 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:36 PM CT, Oct. 31 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59110828?at_medium=RSS&at_campaign=KARANGA">Japan election: Ruling LDP retains single-party majority</a> BBC: Fumio Kishida has defied initial expectations to lead the LDP to a comfortable majority. 
+ <p class="updated_time"> 08:14 PM CT, Oct. 31 </p> 
+ <a href="https://www.bbc.co.uk/news/science-environment-59114255?at_medium=RSS&at_campaign=KARANGA">COP26: The issues that stand in the way of progress</a> BBC: As the serious business of negotiation finally begins in Glasgow, we look at the key barriers to progress. 
+ <p class="updated_time"> 08:00 PM CT, Oct. 31 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59054570?at_medium=RSS&at_campaign=KARANGA">How film-school reject Khadar Ahmed is winning prizes and hearts</a> BBC: Finnish-Somali prize-winning director Khadar Ahmed credits Africa for his great storytelling. 
+ <p class="updated_time"> 07:58 PM CT, Oct. 31 </p> 
+ <a href="https://www.nytimes.com/2021/10/31/us/politics/guantanamo-torture-letter.html">U.S. Military Jury Condemns Terrorist’s Torture and Urges Clemency</a> NYT: Seven senior officers rebuked the government’s treatment of an admitted terrorist in a handwritten letter from the jury room at Guantánamo Bay. 
+ <p class="updated_time"> 07:24 PM CT, Oct. 31 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59054146?at_medium=RSS&at_campaign=KARANGA">Real life Succession battle plagues Canada's largest telecoms firm</a> BBC: A bitter power struggle at Rogers Communications has gone from 'Succession' to 'Game of Thrones'. 
  <p class="updated_time"> 07:14 PM CT, Oct. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-58895749?at_medium=RSS&at_campaign=KARANGA">Climate change: The Indian village that could disappear under water</a> BBC: A village in the eastern coast of India faces the risk of going under water amid rising sea levels. 
  <p class="updated_time"> 07:12 PM CT, Oct. 31 </p> 
@@ -15,8 +25,12 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59093224?at_medium=RSS&at_campaign=KARANGA">Bam Bus: Three women, one cheating ex and an adventure</a> BBC: Bekah, Abi and Morgan became friends after discovering they were all dating the same man. 
  <p class="updated_time"> 07:05 PM CT, Oct. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-58976336?at_medium=RSS&at_campaign=KARANGA">Mount Augustus: Preserving Australia's lesser-known sacred rock</a> BBC: Aboriginal rangers step up efforts to preserve Mount Augustus - a landmark twice the size of Uluru. 
+ <p class="updated_time"> 07:04 PM CT, Oct. 31 </p> 
+ <a href="https://www.bbc.co.uk/news/business-58976987?at_medium=RSS&at_campaign=KARANGA">How Japan's new PM is promising a 'new capitalism'</a> BBC: Will leader Fumio Kishida's plans to share the wealth materialise? 
  <p class="updated_time"> 07:03 PM CT, Oct. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59097021?at_medium=RSS&at_campaign=KARANGA">Libya: Thousands of migrants and refugees camp on UN's doorstep</a> BBC: Thousands of people are on the streets after fleeing overcrowded detention centres in Libya's capital. 
+ <p class="updated_time"> 07:01 PM CT, Oct. 31 </p> 
+ <a href="https://www.bbc.co.uk/news/business-59044820?at_medium=RSS&at_campaign=KARANGA">Can we stomach the latest food innovations?</a> BBC: Our growing appetite for novel food tech - from lab grown meat to nano-packaging. 
  <p class="updated_time"> 06:55 PM CT, Oct. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59103664?at_medium=RSS&at_campaign=KARANGA">Tokyo subway knife and fire attack leaves 17 injured</a> BBC: Video footage shows passengers desperately running from fire and a man said to be wielding a knife. 
  <p class="updated_time"> 06:25 PM CT, Oct. 31 </p> 
@@ -31,12 +45,12 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/31/world/americas/brazil-police-kill-25-bank-gang.html">Brazilian Police Kill 25 Accused of Planning Bank Heists</a> NYT: The police say an operation against a gang planning bank robberies killed at least 25 suspects in the Brazilian state of Minas Gerais on Sunday. 
  <p class="updated_time"> 05:27 PM CT, Oct. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59106907?at_medium=RSS&at_campaign=KARANGA">One dead in Czech cable car crash</a> BBC: The incident at a popular tourist site happened when one cabin came loose from its cable and fell. 
+ <p class="updated_time"> 04:40 PM CT, Oct. 31 </p> 
+ <a href="https://www.wsj.com/articles/g-20-nations-wrangle-over-climate-change-goals-ahead-of-cop26-11635680984">G-20 Disagreements Point to Challenges for COP26 Summit</a> WSJ: The world’s leading economies expressed aspirations of limiting global warming to 1.5 degrees Celsius, but didn’t find a consensus on how to do it, foreshadowing difficult negotiations at the United Nations-sponsored climate summit. 
  <p class="updated_time"> 04:37 PM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/31/climate/climate-change-biden-cop26.html">At Climate Talks, Biden Will Try to Sell American Leadership to Skeptics</a> NYT: The president wants to assure Glasgow’s climate summit that the U.S. is serious about climate change. But he lacks a legislative win at home. 
  <p class="updated_time"> 04:37 PM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/31/world/word.html">“Vax” is Oxford’s 2021 Word of the Year</a> NYT: NA 
- <p class="updated_time"> 03:57 PM CT, Oct. 31 </p> 
- <a href="https://www.nytimes.com/2021/10/31/us/politics/guantanamo-torture-letter.html">U.S. Military Jury Condemns Terrorist’s Torture and Urges Clemency</a> NYT: Seven senior officers rebuked the government’s treatment of an admitted terrorist in a handwritten letter from the jury room at Guantánamo Bay. 
  <p class="updated_time"> 03:51 PM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/31/world/europe/biden-putin-russia-united-states.html">Rivals on World Stage, Russia and U.S. Quietly Seek Areas of Accord</a> NYT: There have been a series of beneath-the-surface meetings between the two countries as the Biden administration applies a more sober approach to relations with the Kremlin. 
  <p class="updated_time"> 03:47 PM CT, Oct. 31 </p> 
@@ -47,8 +61,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/31/climate/g20-coal.html">G20 Nations Agree to New Limits on Coal-Burning Power Plants</a> NYT: The world’s largest economies will stop financing coal plants abroad, though that falls far short of what’s needed to fight climate change, raising fears of half-steps at this week’s U.N. summit. 
  <p class="updated_time"> 03:08 PM CT, Oct. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59113437?at_medium=RSS&at_campaign=KARANGA">Biden at G20: Russia and China 'didn't show up' on climate</a> BBC: US President Joe Biden addresses disappointment by some about what was agreed at the G20 ahead of COP26. 
- <p class="updated_time"> 03:07 PM CT, Oct. 31 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59110828?at_medium=RSS&at_campaign=KARANGA">Japan election: Ruling LDP retains majority - exit polls</a> BBC: Prime Minister Fumio Kishida's ruling LDP party wins enough votes to stay in power, exit polls say. 
  <p class="updated_time"> 02:08 PM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/31/world/moderna-covid-vaccine-teens-myocarditis.html">F.D.A. Is Reviewing If Moderna Vaccine Causes Heart Problems in Adolescents</a> NYT: The F.D.A. has notified Moderna that it needs more time to review the vaccine’s safety and may not deliver a decision until January. 
  <p class="updated_time"> 01:18 PM CT, Oct. 31 </p> 
@@ -61,8 +73,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/left-behind-after-u-s-withdrawal-some-former-afghan-spies-and-soldiers-turn-to-islamic-state-11635691605">Former Afghan Spies and Soldiers Turn to ISIS After U.S. Exit</a> WSJ: Hunted by the Taliban and lacking income, some members of Afghanistan’s disbanded security forces are enlisting in the only force currently challenging the country’s new rules. 
  <p class="updated_time"> 11:49 AM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/31/world/asia/afghanistan-taliban-artists.html">Afghan Art Flourished for 20 Years. Can It Survive the New Taliban Regime?</a> NYT: So far, the Taliban have not banned art outright. But many artists have fled Afghanistan, fearing for their work and their lives. 
- <p class="updated_time"> 11:37 AM CT, Oct. 31 </p> 
- <a href="https://www.wsj.com/articles/g-20-nations-wrangle-over-climate-change-goals-ahead-of-cop26-11635680984">G-20 Disagreements Point to Challenges for COP26 Summit</a> WSJ: The world’s leading economies expressed aspirations of limiting global warming to 1.5 degrees Celsius, but didn’t find a consensus on how to do it, foreshadowing difficult negotiations at the United Nations-sponsored climate summit. 
  <p class="updated_time"> 10:29 AM CT, Oct. 31 </p> 
  <a href="https://www.wsj.com/articles/bidens-glasgow-challenge-is-to-convince-world-that-u-s-can-lead-on-climate-11635685201">Biden's Glasgow Challenge Is to Convince World That U.S. Can Lead on Climate</a> WSJ: The president seeks to rally global support for tough climate measures even as his domestic policy faces uncertainty. 
  <p class="updated_time"> 10:22 AM CT, Oct. 31 </p> 
@@ -89,14 +99,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/30/world/europe/g20-biden-corporate-tax-agreement.html">Biden Finds Raising Corporate Tax Rates Easier Abroad Than at Home</a> NYT: As the Group of 20 seals a new global minimum tax for companies, the president has scaled back his plans to tax U.S. corporations more. 
  <p class="updated_time"> 05:49 AM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/29/world/europe/biden-g20.html">Biden Eases Fray With France and Savors Meeting With Pope as Europe Trip Begins</a> NYT: Mr. Biden sought to mend ties with France’s president over a sabotaged French submarine contract, and expressed gratitude toward Pope Francis after a 90-minute meeting. 
- <p class="updated_time"> 05:41 AM CT, Oct. 31 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-59110260?at_medium=RSS&at_campaign=KARANGA">Greta Thunberg: It's never too late to do as much as we can</a> BBC: Activist Greta Thunberg is still hopeful the world can achieve "massive changes" to combat climate change. 
  <p class="updated_time"> 05:12 AM CT, Oct. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59103658?at_medium=RSS&at_campaign=KARANGA">'Father of tiramisu' Ado Campeol dies aged 93</a> BBC: Campeol owned a restaurant in Italy where the dessert was invented by his wife and a pastry chef. 
  <p class="updated_time"> 04:26 AM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/30/world/g20-photos.html">Photos From the G20 Summit in Rome</a> NYT: Colorful protests outside the G20 meetings, and in them, exchanges between world leaders. 
- <p class="updated_time"> 03:54 AM CT, Oct. 31 </p> 
- <a href="https://www.bbc.co.uk/news/uk-scotland-58669173?at_medium=RSS&at_campaign=KARANGA">COP26: How Glasgow is hosting world leaders</a> BBC: About 120 world leaders from US President Joe Biden to the prime minister of Andorra will be in Glasgow for COP26. 
  <p class="updated_time"> 03:38 AM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/30/world/what-is-the-g20.html">What Is the G20?</a> NYT: The Group of 20 aims to unite world leaders around shared economic, political and health challenges. It also serves as an all-purpose jamboree of diplomatic activity. 
  <p class="updated_time"> 01:25 AM CT, Oct. 31 </p> 
@@ -147,8 +153,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/29/us/politics/coronavirus-origin-intelligence-report.html">Origin of Virus May Remain Murky, U.S. Intelligence Agencies Say</a> NYT: A declassified report said a clearer answer would require more information from Beijing or new discoveries and reiterated divisions over natural causes vs. a lab leak. 
  <p class="updated_time"> 08:14 PM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/world/africa/sudan-coup-general.html">‘They Lied.’ Inside the Frantic Days Leading to Sudan’s Coup</a> NYT: The American envoy, Jeffrey Feltman, was given assurances that seemed to head off a military takeover. Hours later, Lt. Gen. Abdel Fattah al-Burhan made his move. 
- <p class="updated_time"> 07:37 PM CT, Oct. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-59059493?at_medium=RSS&at_campaign=KARANGA">T20 World Cup: The toxic trolling of India's cricket stars</a> BBC: As online abuse becomes the main form of venting, many worry about the toxicity cricketers face on social media. 
  <p class="updated_time"> 05:11 PM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/world/canada/dune-movie.html">‘Dune’ May Be Set in a Distant Time and Place, but the Film Has Canadian Roots</a> NYT: A science fiction opus was heavily guided by Canadian talent, starting with the director, Denis Villeneuve, who lives in Montreal. 
  <p class="updated_time"> 04:48 PM CT, Oct. 29 </p> 
@@ -165,6 +169,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/29/nyregion/nyc-schools-enrollment-covid.html">N.Y.C. Public School Enrollment Declined 4.5 Percent During the Pandemic</a> NYT: The city lost by far the largest number of students in its recent history between the fall of 2019 and the fall of 2020. 
  <p class="updated_time"> 01:41 PM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/world/asia/tonga-first-covid-case.html">Tonga Reports First Covid Case, Nearly 2 Years Into Pandemic</a> NYT: The Pacific island, 1,100 miles from New Zealand, has quarantined all airport employees on duty after a flight with an infected passenger arrived. 
+ <p class="updated_time"> 11:31 AM CT, Oct. 29 </p> 
+ <a href="https://www.bbc.co.uk/news/58956714?at_medium=RSS&at_campaign=KARANGA">Climate change: What are the big polluters doing to cut carbon emissions?</a> BBC: The top emissions-producing nations all have plans to tackle global warming, but what progress are they making? 
  <p class="updated_time"> 10:55 AM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/world/europe/appeal-julian-assange-extradition.html">British Court Hears Appeal in Julian Assange Extradition Case</a> NYT: The outcome is not expected to be known for weeks, but the hearing was the latest step in a continuing attempt to extradite the WikiLeaks founder to the U.S. to face espionage charges. 
  <p class="updated_time"> 10:00 AM CT, Oct. 29 </p> 
@@ -173,10 +179,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/29/climate/europe-energy-crisis-cop.html">How Rising Energy Prices Have Complicated Europe's Climate Crisis</a> NYT: Prices for power have soared, and some politicians are now trying to use that as a lever to slow action on climate change, a strategy with far-reaching consequences. 
  <p class="updated_time"> 09:34 AM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/us/hurricane-storm-season.html">Is Hurricane Season Still Going? You Bet.</a> NYT: There hasn’t been a named storm in the Atlantic Ocean since early October, but about a month remains in the hurricane season. “Don’t raid your hurricane supplies yet,” said one meteorologist. 
- <p class="updated_time"> 09:32 AM CT, Oct. 29 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-58925049?at_medium=RSS&at_campaign=KARANGA">COP26: What effect does methane have on climate change? And more questions</a> BBC: BBC science correspondent Matt McGrath answers your questions about Glasgow's COP26 climate summit. 
  <p class="updated_time"> 04:00 AM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/world/europe/roma-hip-hop-band-serbia-pretty-loud.html">‘Different Way of Fighting’: Lyrics Are the Weapons of All-Women Roma Band</a> NYT: Many Roma women face pressures to marry young and take on traditional gender roles. Pretty Loud, a hip-hop group from Serbia, wants girls to decide for themselves. 
+ <p class="updated_time"> 07:12 PM CT, Oct. 25 </p> 
+ <a href="https://www.bbc.co.uk/news/science-environment-58171814?at_medium=RSS&at_campaign=KARANGA">Climate change: Four things you can do about your carbon footprint</a> BBC: Small changes to our lifestyles and choices could limit our personal carbon footprint. 
 
 
 </details>
@@ -184,10 +190,12 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:58 PM CT, Oct. 31 </p> 
+ <a href="https://www.nytimes.com/2021/10/31/us/politics/guantanamo-torture-letter.html">U.S. Military Jury Condemns Terrorist’s Torture and Urges Clemency</a> NYT: Seven senior officers rebuked the government’s treatment of an admitted terrorist in a handwritten letter from the jury room at Guantánamo Bay. 
+ <p class="updated_time"> 07:49 PM CT, Oct. 31 </p> 
+ <a href="https://www.nytimes.com/2021/10/31/us/lets-go-brandon-southwest-airlines.html">Why a Pilot Is Under Investigation for Saying ‘Let’s Go Brandon’</a> NYT: A derisive chant that originated at a NASCAR race went viral. But some people say a pilot’s remark during a Southwest Airlines flight was out of line. 
  <p class="updated_time"> 07:10 PM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/31/nyregion/city-council-nyc-election.html">The Places in New York City Where Republicans Still Stand a Chance</a> NYT: In some New York City Council races, supporting former President Donald Trump is seen as a positive by voters. 
- <p class="updated_time"> 07:06 PM CT, Oct. 31 </p> 
- <a href="https://www.nytimes.com/2021/10/31/us/lets-go-brandon-southwest-airlines.html">Why a Pilot Is Under Investigation for Saying ‘Let’s Go Brandon’</a> NYT: A joke that originated at a NASCAR race went viral. But some people say a pilot’s remark during a Southwest Airlines flight was out of line. 
  <p class="updated_time"> 06:14 PM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/31/world/biden-g20-covid-climate.html">Struggling at Home, Biden Is Buoyed by G20 Trip Abroad</a> NYT: A trip to Rome invigorated a president whose poll numbers are slumping at home, but who projected confidence in his foreign and domestic agenda. 
  <p class="updated_time"> 06:06 PM CT, Oct. 31 </p> 
@@ -198,8 +206,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/31/us/politics/virginia-governors-race-youngkin-mcauliffe.html">In the Final Days Before Virginia Votes, Both Sides Claim Momentum</a> NYT: Glenn Youngkin and Terry McAuliffe crisscrossed Virginia on the last weekend of what has become an increasingly close race for governor. 
  <p class="updated_time"> 04:20 PM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/31/us/politics/texas-abortion-law-supreme-court.html">When Will the Supreme Court Hear Arguments on the Texas Abortion Law?</a> NYT: The New York Times will be streaming the oral arguments and providing live coverage of the proceedings when they begin at 10 a.m. Eastern. 
- <p class="updated_time"> 03:57 PM CT, Oct. 31 </p> 
- <a href="https://www.nytimes.com/2021/10/31/us/politics/guantanamo-torture-letter.html">U.S. Military Jury Condemns Terrorist’s Torture and Urges Clemency</a> NYT: Seven senior officers rebuked the government’s treatment of an admitted terrorist in a handwritten letter from the jury room at Guantánamo Bay. 
  <p class="updated_time"> 03:51 PM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/31/world/europe/biden-putin-russia-united-states.html">Rivals on World Stage, Russia and U.S. Quietly Seek Areas of Accord</a> NYT: There have been a series of beneath-the-surface meetings between the two countries as the Biden administration applies a more sober approach to relations with the Kremlin. 
  <p class="updated_time"> 03:11 PM CT, Oct. 31 </p> 
