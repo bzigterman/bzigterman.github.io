@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:56 PM CT, Nov. 01 </p> 
+ <a href="https://www.nytimes.com/2021/11/01/world/europe/cop26-glasgow-biden-climate.html">At COP26 Summit, Urgent Pleas to Combat Global Warning</a> NYT: The opening day of a climate summit was heavy on dire warnings and light on substantive proposals as leaders in Glasgow met to discuss a warming world. 
+ <p class="updated_time"> 06:49 PM CT, Nov. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59128875?at_medium=RSS&at_campaign=KARANGA">COP26: Was US President Biden sleeping or just resting his eyes?</a> BBC: Video footage from the climate summit shows US President Joe Biden sitting with his eyes closed. 
  <p class="updated_time"> 06:46 PM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/live/2021/11/01/world/cop26-climate-change-summit">Key Moments From Day 1 of the COP26 Climate Change Summit</a> NYT: Meeting in Glasgow, Scotland, President Biden and a host of other world leaders sounded dire warnings, but hopes for breakthrough action are muted. 
  <p class="updated_time"> 06:25 PM CT, Nov. 01 </p> 
@@ -119,8 +123,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-59054570?at_medium=RSS&at_campaign=KARANGA">How film-school reject Khadar Ahmed is winning prizes and hearts</a> BBC: Finnish-Somali prize-winning director Khadar Ahmed credits Africa for his great storytelling. 
  <p class="updated_time"> 07:12 PM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/30/world/asia/japan-election-fumio-kishida.html">Japan Election: Kishida Struggles to Connect With Voters</a> NYT: The governing Liberal Democrats won on Sunday, despite having chosen a prime minister, Fumio Kishida, who’s known for his lack of charisma. 
- <p class="updated_time"> 07:11 PM CT, Oct. 31 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59093224?at_medium=RSS&at_campaign=KARANGA">Bam Bus: Three women, one cheating ex and an adventure</a> BBC: Bekah, Abi and Morgan became friends after discovering they were all dating the same man. 
  <p class="updated_time"> 07:03 PM CT, Oct. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59097021?at_medium=RSS&at_campaign=KARANGA">Libya: Thousands of migrants and refugees camp on UN's doorstep</a> BBC: Thousands of people are on the streets after fleeing overcrowded detention centres in Libya's capital. 
  <p class="updated_time"> 07:01 PM CT, Oct. 31 </p> 
@@ -149,8 +151,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/30/world/europe/g20-biden-corporate-tax-agreement.html">Biden Finds Raising Corporate Tax Rates Easier Abroad Than at Home</a> NYT: As the Group of 20 seals a new global minimum tax for companies, the president has scaled back his plans to tax U.S. corporations more. 
  <p class="updated_time"> 04:26 AM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/30/world/g20-photos.html">Photos From the G20 Summit in Rome</a> NYT: Colorful protests outside the G20 meetings, and in them, exchanges between world leaders. 
- <p class="updated_time"> 08:10 PM CT, Oct. 30 </p> 
- <a href="https://www.nytimes.com/2021/10/30/world/americas/nyc-police-fire-vaccine-mandate.html">More New York City workers get Covid shots as deadline nears, but tensions remain.</a> NYT: The city’s effort to compel most city employees to receive the coronavirus vaccine before Monday appears to have rapidly boosted inoculation rates. 
  <p class="updated_time"> 07:23 PM CT, Oct. 30 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59078198?at_medium=RSS&at_campaign=KARANGA">Can COP26 really save the planet?</a> BBC: Past COPs our science editor went to didn't stop climate change - will this one be any different? 
  <p class="updated_time"> 07:13 PM CT, Oct. 30 </p> 
