@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:09 AM CT, Nov. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59103664?at_medium=RSS&at_campaign=KARANGA">Japanese man injures 17 in knife attack on Tokyo train</a> BBC: Video footage shows passengers desperately running from fire and the man who was wielding a knife. 
  <p class="updated_time"> 04:03 AM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/europe/greta-thunberg-cop26-glasgow.html">Greta Thunberg Is Mobbed as She Arrives in Glasgow for COP26</a> NYT: Ms. Thunberg, whose solo climate strikes in 2018 helped fuel a global youth climate movement, was greeted with a mix of cheers and yells, according to videos. 
  <p class="updated_time"> 04:00 AM CT, Nov. 01 </p> 
@@ -29,8 +31,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/31/world/nyc-firefighters-police-vaccine-mandate.html">Over 2,000 New York City Firefighters Took Sick Days as Vaccine Mandate Looms</a> NYT: More than 22,000 municipal workers remained unvaccinated a day before a city deadline to get their first dose of a coronavirus vaccine. 
  <p class="updated_time"> 11:35 PM CT, Oct. 31 </p> 
  <a href="https://www.bbc.co.uk/news/business-59115395?at_medium=RSS&at_campaign=KARANGA">Thailand reopens to vaccinated tourists from over 60 nations</a> BBC: Authorities hope reopening will generate $30bn for the tourism sector despite ongoing restrictions. 
- <p class="updated_time"> 11:33 PM CT, Oct. 31 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59103664?at_medium=RSS&at_campaign=KARANGA">Japanese man dressed as Joker injures 17 on Tokyo train</a> BBC: Video footage shows passengers desperately running from fire and the man who was wielding a knife. 
  <p class="updated_time"> 11:23 PM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/31/world/biden-g20-covid-climate.html">Struggling at Home, Biden Is Buoyed by G20 Trip Abroad</a> NYT: A trip to Rome invigorated a president whose poll numbers are slumping at home, but who projected confidence in his foreign and domestic agenda. 
  <p class="updated_time"> 11:22 PM CT, Oct. 31 </p> 
