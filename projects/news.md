@@ -7,24 +7,32 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:07 AM CT, Nov. 01 </p> 
+ <p class="updated_time"> 09:28 AM CT, Nov. 01 </p> 
+ <a href="https://www.nytimes.com/live/2021/11/01/world/cop26-climate-change-summit">COP26 Live Updates: ‘We Are Digging Our Own Graves,’ U.N. Leader Warns at Climate Summit</a> NYT: António Guterres, the U.N. secretary general, opened the conference with a blistering critique of the world’s failure to unite against global warming. President Biden is expected to address the conference soon. 
+ <p class="updated_time"> 09:27 AM CT, Nov. 01 </p> 
+ <a href="https://www.nytimes.com/2021/11/01/world/asia/pakistan-protests-negotiations-tlp.html">After Violent Standoff, Pakistan Strikes Deal With Banned Islamist Group</a> NYT: The pact, announced Sunday, defused a crisis that had paralyzed several cities, but it also highlighted the government’s struggle to assert itself against religious extremists. 
+ <p class="updated_time"> 09:23 AM CT, Nov. 01 </p> 
+ <a href="https://www.nytimes.com/2021/11/01/world/europe/cop26-climate-antonio-guterres.html">U.N. Leader, António Guterres, Warns of 'Climate Catastrophe' at COP26</a> NYT: He urged countries to review their climate pledges annually rather than every five years as called for in the 2015 Paris accord. 
+ <p class="updated_time"> 09:19 AM CT, Nov. 01 </p> 
+ <a href="https://www.nytimes.com/2021/11/01/world/5-million-covid-deaths.html">Official Global Covid Death Toll Surpasses 5 Million, but Full Count Is Higher</a> NYT: Many countries do not accurately report their figures, and many Covid deaths are misattributed, experts say. 
+ <p class="updated_time"> 09:14 AM CT, Nov. 01 </p> 
+ <a href="https://www.nytimes.com/2021/11/01/world/europe/what-to-watch-monday-cop26.html">What to Watch For At COP26 on Monday and Tuesday</a> NYT: Prime Minister Boris Johnson was first to welcome leaders, who will then lay out “concrete actions and credible plans.” David Attenborough and Prince Charles are also speaking. 
+ <p class="updated_time"> 09:13 AM CT, Nov. 01 </p> 
+ <a href="https://www.nytimes.com/2021/11/01/world/john-kerry-cop26.html">John Kerry Plays Down COP26 Expectations</a> NYT: “Glasgow was never ever going to get every country joining up,” Mr. Kerry said. He’s already looking to next year to build on pledges that nations have made and push them to do more. 
+ <p class="updated_time"> 09:13 AM CT, Nov. 01 </p> 
+ <a href="https://www.nytimes.com/2021/11/01/world/europe/greta-thunberg-cop26-glasgow.html">Greta Thunberg Is Mobbed as She Arrives in Glasgow for COP26</a> NYT: Ms. Thunberg, whose solo climate strikes in 2018 helped fuel a global youth climate movement, was greeted with a mix of cheers and yells, according to videos. 
+ <p class="updated_time"> 09:08 AM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/asia/new-zealand-bird-contest-bat.html">New Zealand Long-Tailed Bat Wins Bird of the Year</a> NYT: The long-tailed bat, one of the country’s only two native land mammals, flew away with the top prize. 
- <p class="updated_time"> 09:06 AM CT, Nov. 01 </p> 
- <a href="https://www.nytimes.com/live/2021/11/01/world/cop26-climate-change-summit">COP26 Live Updates: ‘We Are Digging Our Own Graves,’ U.N. Leader Warns at Climate Summit</a> NYT: António Guterres, the U.N. secretary general, opened the conference with a blistering critique of the world’s failure to unite to address global warming. President Biden is expected to address the conference soon. 
  <p class="updated_time"> 09:06 AM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/europe/david-attenborough-cop26.html">David Attenborough Urges Leaders at COP26 Summit to ‘Rewrite Our Story’</a> NYT: “If working apart we are force powerful enough to destabilize our planet,” the naturalist said, “surely working together we are powerful enough to save it.” 
  <p class="updated_time"> 08:58 AM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/sports/women-beach-handball-bikini.html">Handball Federation Ends Bikini Bottom Requirement for Women</a> NYT: After outrage over a fine levied against the Norwegian women’s beach handball team for competing in shorts, the sport’s international federation said it was changing its rules. 
  <p class="updated_time"> 08:57 AM CT, Nov. 01 </p> 
  <a href="https://www.bbc.co.uk/news/business-59117084?at_medium=RSS&at_campaign=KARANGA">Barclays boss Jes Staley in shock exit angry at Epstein probe</a> BBC: Jes Staley is leaving the bank following an investigation into his links to sex offender Jeffrey Epstein. 
- <p class="updated_time"> 08:42 AM CT, Nov. 01 </p> 
- <a href="https://www.nytimes.com/2021/11/01/world/europe/cop26-climate-antonio-guterres.html">U.N. Leader Warns of 'Climate Catastrophe' at COP26 Summit</a> NYT: He urged countries to review their climate pledges annually rather than every five years as called for in the 2015 Paris accord. 
  <p class="updated_time"> 08:39 AM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/10/30/world/middleeast/lebanon-ambassadors-saudi-gulf.html">Gulf States Withdraw Ambassadors to Lebanon Over Criticism of Yemen War</a> NYT: With a few stray comments from a minor minister, Lebanon once again found itself caught in the rivalry between Saudi Arabia and Iran, underscoring just how vulnerable it is to the whims of its more powerful neighbors. 
  <p class="updated_time"> 08:26 AM CT, Nov. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-59119731?at_medium=RSS&at_campaign=KARANGA">Covid-19 deaths pass five million worldwide</a> BBC: Vaccines have slowed the death rate, but officials warn of worrying rises in some countries. 
- <p class="updated_time"> 08:15 AM CT, Nov. 01 </p> 
- <a href="https://www.nytimes.com/2021/11/01/world/europe/what-to-watch-monday-cop26.html">What to Watch For At COP26 on Monday and Tuesday</a> NYT: Prime Minister Boris Johnson was first to welcome leaders, who will then lay out “concrete actions and credible plans.” David Attenborough and Prince Charles are also speaking. 
  <p class="updated_time"> 07:58 AM CT, Nov. 01 </p> 
  <a href="https://www.bbc.co.uk/news/uk-politics-59117529?at_medium=RSS&at_campaign=KARANGA">UK could take legal action against France over fishing row, says Liz Truss</a> BBC: The foreign secretary accuses France of "unfair behaviour" as it warns it could block British boats. 
  <p class="updated_time"> 07:43 AM CT, Nov. 01 </p> 
@@ -33,26 +41,24 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59054146?at_medium=RSS&at_campaign=KARANGA">Real life Succession battle plagues Canada's top wireless firm</a> BBC: A bitter power struggle at Rogers Communications has gone from 'Succession' to 'Game of Thrones'. 
  <p class="updated_time"> 07:26 AM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/asia/thailand-reopens-tourists-quarantine.html">Thailand Reopens to Tourists Without Requiring Quarantine</a> NYT: About a fifth of the nation’s economy depends on the vacation industry. Before the pandemic, the country was one of the world’s top destinations, drawing nearly 40 million visitors in 2019. 
- <p class="updated_time"> 07:25 AM CT, Nov. 01 </p> 
- <a href="https://www.nytimes.com/2021/10/29/world/nyc-vaccine-mandate-resistance.html">Tensions Rise with Next Phase of NYCs Vaccine Mandate</a> NYT: Last-minute shots brought thousands more workers in the Police, Fire and Sanitation Departments into compliance. 
  <p class="updated_time"> 06:49 AM CT, Nov. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59119621?at_medium=RSS&at_campaign=KARANGA">Covid-19: Single case shuts down Shanghai Disneyland</a> BBC: The Chinese theme park closes for at least two days after a visitor tests positive. 
  <p class="updated_time"> 06:43 AM CT, Nov. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59118693?at_medium=RSS&at_campaign=KARANGA">Yemen war: Deadly missile attack on Marib religious school</a> BBC: The Yemeni government blames Houthi rebels for the attack, which killed or wounded 29 civilians. 
  <p class="updated_time"> 06:32 AM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/10/31/us/ramaphosa-anc-south-africa.html">He Brokered Apartheid’s End. Can He Save South Africa’s Liberation Party?</a> NYT: President Cyril Ramaphosa ascended to office on a reputation as a great negotiator and consensus builder. Now he must persuade voters to stick with the party of Nelson Mandela. 
+ <p class="updated_time"> 06:05 AM CT, Nov. 01 </p> 
+ <a href="https://www.nytimes.com/2021/11/01/world/chinas-push-to-burn-more-coal-puts-climate-goals-at-risk.html">China’s push to burn more coal puts climate goals at risk.</a> NYT: NA 
  <p class="updated_time"> 06:03 AM CT, Nov. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59103664?at_medium=RSS&at_campaign=KARANGA">Japanese man in Joker costume injures 17 in knife attack on Tokyo train</a> BBC: Video footage shows passengers desperately running from fire and the man who was wielding a knife. 
  <p class="updated_time"> 05:50 AM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/10/31/world/europe/uk-police-sexual-misconduct.html">U.K. Police Struggle to Curb Abuse of Women by Their Own Officers</a> NYT: Sexual misconduct by police officers has prompted outrage across Britain and led to increasing skepticism that departments can investigate or discipline employees who abuse women. 
- <p class="updated_time"> 05:44 AM CT, Nov. 01 </p> 
- <a href="https://www.nytimes.com/2021/11/01/world/john-kerry-cop26.html">John Kerry Plays Down COP26 Expectations</a> NYT: “Glasgow was never ever going to get every country joining up,” Mr. Kerry said. He’s already looking to next year to build on pledges that nations have made and push them to do more. 
  <p class="updated_time"> 05:03 AM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/australia/australia-border-reopening-covid.html">Australia Allows Residents, Citizens to Return as Borders Open</a> NYT: After 18 months of strict measures to combat the pandemic, the states of New South Wales and Victoria relaxed restrictions on citizens and permanent residents seeking to travel back from overseas. 
  <p class="updated_time"> 05:02 AM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/europe/climate-conference-kicks-off-in-glasgow-with-floods-and-low-expectations.html">Climate conference kicks off in Glasgow with floods and low expectations.</a> NYT: NA 
- <p class="updated_time"> 04:03 AM CT, Nov. 01 </p> 
- <a href="https://www.nytimes.com/2021/11/01/world/europe/greta-thunberg-cop26-glasgow.html">Greta Thunberg Is Mobbed as She Arrives in Glasgow for COP26</a> NYT: Ms. Thunberg, whose solo climate strikes in 2018 helped fuel a global youth climate movement, was greeted with a mix of cheers and yells, according to videos. 
+ <p class="updated_time"> 03:00 AM CT, Nov. 01 </p> 
+ <a href="https://www.nytimes.com/2021/11/01/world/michael-bloomberg-announces-an-effort-to-shut-down-coal-in-25-countries.html">Michael Bloomberg announces an effort to shut down coal in 25 countries.</a> NYT: NA 
  <p class="updated_time"> 01:42 AM CT, Nov. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59110828?at_medium=RSS&at_campaign=KARANGA">Japan election: PM Fumio Kishida declares victory for ruling LDP</a> BBC: He has defied initial expectations to lead the Liberal Democratic Party to a comfortable majority. 
  <p class="updated_time"> 01:09 AM CT, Nov. 01 </p> 
@@ -123,8 +129,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/a-nation-learns-to-love-movie-popcornwithout-the-movie-11635703138">A Nation Learns to Love Movie Popcorn---Without the Movie</a> WSJ: South Korea’s Covid-19 restrictions banned eating popcorn in theaters, so moviegoers chowed down in the lobby or had tubs delivered to their homes. Others went rogue; ‘I chewed as quietly as I could.’ 
  <p class="updated_time"> 05:51 AM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/30/world/americas/g20-summit-rome-covid-protests-biden-draghi.html">Pressure Grows on G20 Nations to Get Covid Vaccines to the Poor</a> NYT: The world’s leaders are focusing on preventing future pandemics, but experts say rich nations are not doing enough to help the poor survive the current one. 
- <p class="updated_time"> 05:51 AM CT, Oct. 31 </p> 
- <a href="https://www.nytimes.com/2021/10/29/us/politics/g20-global-tax-deal.html">A Global Tax Deal Is at Hand. Here’s How It Would Work.</a> NYT: President Biden will sign on to an international pact aimed at ending profit-shifting by large companies. Here’s a look at what it means. 
  <p class="updated_time"> 05:50 AM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/30/world/europe/g20-biden-corporate-tax-agreement.html">Biden Finds Raising Corporate Tax Rates Easier Abroad Than at Home</a> NYT: As the Group of 20 seals a new global minimum tax for companies, the president has scaled back his plans to tax U.S. corporations more. 
  <p class="updated_time"> 04:26 AM CT, Oct. 31 </p> 
@@ -155,8 +159,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/30/world/chinas-xi-and-other-world-leaders-are-not-at-the-summit.html">China’s Xi and other world leaders are not at the summit.</a> NYT: NA 
  <p class="updated_time"> 10:21 AM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/30/world/africa/south-africa-elections-anc.html">A South African Town Lacks Water and Electricity. But Mayors? It Has Two.</a> NYT: Dysfunctional and collapsing rural towns may test voters’ loyalty to the ruling African National Congress party in nationwide municipal elections on Monday. 
- <p class="updated_time"> 09:02 AM CT, Oct. 30 </p> 
- <a href="https://www.nytimes.com/2021/10/29/world/vaccine-mandate-states-sue.html">10 Republican-led States Sue Over Biden's Vaccine Mandate</a> NYT: The lawsuit is being led by Missouri’s attorney general, Eric Schmitt, and the attorney general of Nebraska, Doug Peterson. 
  <p class="updated_time"> 04:00 AM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/30/world/asia/china-xi-jinping-g20.html">Xi Hasn’t Left China in 21 Months. Covid May Be Only Part of the Reason.</a> NYT: Xi Jinping’s lack of face time with world leaders signals a turn inward on domestic issues and a reluctance to compromise on the global stage. 
  <p class="updated_time"> 04:00 AM CT, Oct. 30 </p> 
@@ -172,8 +174,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
- <p class="updated_time"> 09:04 AM CT, Nov. 01 </p> 
- <a href="https://www.nytimes.com/2021/10/31/us/politics/texas-abortion-law-supreme-court.html">When Will the Supreme Court Hear Arguments on the Texas Abortion Law?</a> NYT: The New York Times will be streaming the oral arguments and providing live coverage of the proceedings when they begin at 10 a.m. Eastern. 
+ <p class="updated_time"> 09:28 AM CT, Nov. 01 </p> 
+ <a href="https://www.nytimes.com/2021/11/01/us/politics/heres-what-the-texas-law-prohibits.html">Here’s what the Texas law prohibits.</a> NYT: NA 
  <p class="updated_time"> 08:57 AM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/books/huma-abedin-book-weiner-hillary-clinton.html">7 Takeaways From Huma Abedin's Book</a> NYT: In her new memoir, “Both/And,” Hillary Clinton’s longtime aide opens up about her ex-husband, the 2016 election and more. 
  <p class="updated_time"> 08:02 AM CT, Nov. 01 </p> 
