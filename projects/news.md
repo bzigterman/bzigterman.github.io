@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:16 AM CT, Nov. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/business-59117084?at_medium=RSS&at_campaign=KARANGA">Barclays boss Jes Staley steps down over Epstein inquiry</a> BBC: Jes Staley is leaving the bank following an investigation into his links to sex offender Jeffrey Epstein. 
  <p class="updated_time"> 05:06 AM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/europe/what-to-watch-for-on-monday-at-cop26.html">What to Watch For At Cop26 on Monday and Tuesday</a> NYT: Prime Minister Boris Johnson will welcome leaders, who will then lay out “concrete actions and credible plans.” David Attenborough and Prince Charles will also speak. 
  <p class="updated_time"> 05:05 AM CT, Nov. 01 </p> 
@@ -21,8 +23,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/01/world/europe/greta-thunberg-cop26-glasgow.html">Greta Thunberg Is Mobbed as She Arrives in Glasgow for COP26</a> NYT: Ms. Thunberg, whose solo climate strikes in 2018 helped fuel a global youth climate movement, was greeted with a mix of cheers and yells, according to videos. 
  <p class="updated_time"> 04:00 AM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/travel/soviet-era-metros.html">The Stunning Grandeur of Soviet-Era Metros</a> NYT: Between 2014 and 2020, Frank Herfort visited more than 770 metro stations in 19 cities, creating a remarkable archive of architectural and artistic splendor. 
- <p class="updated_time"> 03:41 AM CT, Nov. 01 </p> 
- <a href="https://www.bbc.co.uk/news/business-59117084?at_medium=RSS&at_campaign=KARANGA">Barclays boss Jes Staley steps down over Epstein inquiry</a> BBC: Jes Staley is leaving the bank following an investigation into his links to sex offender Jeffrey Epstein. 
  <p class="updated_time"> 02:02 AM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/asia/new-zealand-bird-contest-bat.html">New Zealand Held a Contest for Bird of the Year. The Birds Lost.</a> NYT: The long-tailed bat, one of the country’s only two native land mammals, flew away with the top prize. 
  <p class="updated_time"> 01:42 AM CT, Nov. 01 </p> 
@@ -169,8 +169,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/article/day-of-the-dead-mexico.html">What Is Day of the Dead and How Is the Mexican Holiday Celebrated?</a> NYT: Popularized by Hollywood in films like “Coco” and the James Bond franchise, Día de Muertos is a centuries-old tradition that has roots in Indigenous culture. 
  <p class="updated_time"> 03:45 PM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/health/vaccination-covid.html">CDC Study Suggests Vaccination Offers More Protection Against Covid Than Prior Infection</a> NYT: The study of 7,000 people found that unvaccinated people who had Covid were five times as likely to get infected again as fully vaccinated people who never had the disease. 
- <p class="updated_time"> 01:54 PM CT, Oct. 29 </p> 
- <a href="https://www.nytimes.com/2021/10/29/nyregion/nyc-schools-enrollment-covid.html">N.Y.C. Public School Enrollment Declined 4.5 Percent During the Pandemic</a> NYT: The city lost by far the largest number of students in its recent history between the fall of 2019 and the fall of 2020. 
  <p class="updated_time"> 11:31 AM CT, Oct. 29 </p> 
  <a href="https://www.bbc.co.uk/news/58956714?at_medium=RSS&at_campaign=KARANGA">Climate change: What are the big polluters doing to cut carbon emissions?</a> BBC: The top emissions-producing nations all have plans to tackle global warming, but what progress are they making? 
  <p class="updated_time"> 10:00 AM CT, Oct. 29 </p> 
