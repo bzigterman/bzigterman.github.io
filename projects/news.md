@@ -7,12 +7,20 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
- <p class="updated_time"> 10:33 AM CT, Nov. 01 </p> 
+ <p class="updated_time"> 10:50 AM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/live/2021/11/01/world/cop26-climate-change-summit">COP26 Live Updates: Climate Change Is ‘Ravaging the World,’ Biden Tells Summit</a> NYT: António Guterres, the U.N. secretary general, opened the conference with a blistering critique of the world’s failure to unite to address global warming. 
+ <p class="updated_time"> 10:45 AM CT, Nov. 01 </p> 
+ <a href="https://www.nytimes.com/2021/11/01/world/5-million-covid-deaths.html">Global Covid Death Toll Surpasses 5 Million, but Full Count Is Higher</a> NYT: Many countries do not accurately report their figures, and many Covid deaths are misattributed, experts say. 
+ <p class="updated_time"> 10:40 AM CT, Nov. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/technology-59121165?at_medium=RSS&at_campaign=KARANGA">Chinese version of Fortnite to close in November</a> BBC: Epic Games has not explained the decision to end the Fortress Night game in the country. 
+ <p class="updated_time"> 10:38 AM CT, Nov. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-politics-59117529?at_medium=RSS&at_campaign=KARANGA">UK could take legal action against France over fishing row, says Liz Truss</a> BBC: The foreign secretary accuses France of "unfair behaviour" as it warns it could block British boats. 
+ <p class="updated_time"> 10:38 AM CT, Nov. 01 </p> 
+ <a href="https://www.nytimes.com/2021/11/01/world/europe/greta-thunberg-cop26-glasgow.html">Greta Thunberg Is Mobbed as She Arrives in Glasgow for COP26</a> NYT: The activist, whose solo climate strikes in 2018 helped fuel a youth climate movement, was greeted like a rock star upon arriving in the city, according to videos. 
+ <p class="updated_time"> 10:34 AM CT, Nov. 01 </p> 
+ <a href="https://www.nytimes.com/2021/11/01/world/europe/what-to-watch-monday-cop26.html">What to Watch For At COP26 on Monday and Tuesday</a> NYT: Prime Minister Boris Johnson was first to welcome leaders, who will then lay out “concrete actions and credible plans.” David Attenborough and Prince Charles are also speaking. 
  <p class="updated_time"> 10:28 AM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/biden-emissions-cop26-glasgow.html">Biden Calls for Tougher Actions on Emissions at COP26</a> NYT: “We have only a brief window” to avoid the most disastrous effects of global warming, President Biden warned at the United Nations climate summit. 
- <p class="updated_time"> 10:23 AM CT, Nov. 01 </p> 
- <a href="https://www.nytimes.com/2021/11/01/world/europe/greta-thunberg-cop26-glasgow.html">Greta Thunberg Is Mobbed as She Arrives in Glasgow for COP26</a> NYT: The activist, whose solo climate strikes in 2018 helped fuel a youth climate movement, was greeted like a rock star upon arriving in the city, according to videos. 
  <p class="updated_time"> 10:15 AM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/middleeast/egypt-security-military.html">Egypt Poised to Expand Security Powers of President and Military</a> NYT: Amendments to a terrorism law will strengthen the grip of the government, just days after it appeared to loosen up by lifting a state of emergency. 
  <p class="updated_time"> 10:05 AM CT, Nov. 01 </p> 
@@ -25,14 +33,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/01/world/asia/pakistan-protests-negotiations-tlp.html">After Violent Standoff, Pakistan Strikes Deal With Banned Islamist Group</a> NYT: The pact, announced Sunday, defused a crisis that had paralyzed several cities, but it also highlighted the government’s struggle to assert itself against religious extremists. 
  <p class="updated_time"> 09:23 AM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/europe/cop26-climate-antonio-guterres.html">U.N. Leader, António Guterres, Warns of 'Climate Catastrophe' at COP26</a> NYT: He urged countries to review their climate pledges annually rather than every five years as called for in the 2015 Paris accord. 
- <p class="updated_time"> 09:22 AM CT, Nov. 01 </p> 
- <a href="https://www.bbc.co.uk/news/technology-59121165?at_medium=RSS&at_campaign=KARANGA">Chinese version of Fortnite to close</a> BBC: Epic Games has not explained the decision to end the game in China. 
- <p class="updated_time"> 09:19 AM CT, Nov. 01 </p> 
- <a href="https://www.nytimes.com/2021/11/01/world/5-million-covid-deaths.html">Official Global Covid Death Toll Surpasses 5 Million, but Full Count Is Higher</a> NYT: Many countries do not accurately report their figures, and many Covid deaths are misattributed, experts say. 
  <p class="updated_time"> 09:16 AM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/bidens-glasgow-pitch-this-time-the-us-is-serious-about-climate-change.html">Biden’s Glasgow pitch: This time, the U.S. is serious about climate change.</a> NYT: NA 
- <p class="updated_time"> 09:14 AM CT, Nov. 01 </p> 
- <a href="https://www.nytimes.com/2021/11/01/world/europe/what-to-watch-monday-cop26.html">What to Watch For At COP26 on Monday and Tuesday</a> NYT: Prime Minister Boris Johnson was first to welcome leaders, who will then lay out “concrete actions and credible plans.” David Attenborough and Prince Charles are also speaking. 
  <p class="updated_time"> 09:13 AM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/john-kerry-cop26.html">John Kerry Plays Down COP26 Expectations</a> NYT: “Glasgow was never ever going to get every country joining up,” Mr. Kerry said. He’s already looking to next year to build on pledges that nations have made and push them to do more. 
  <p class="updated_time"> 09:08 AM CT, Nov. 01 </p> 
@@ -43,8 +45,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/01/sports/women-beach-handball-bikini.html">Handball Federation Ends Bikini Bottom Requirement for Women</a> NYT: After outrage over a fine levied against the Norwegian women’s beach handball team for competing in shorts, the sport’s international federation said it was changing its rules. 
  <p class="updated_time"> 08:39 AM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/10/30/world/middleeast/lebanon-ambassadors-saudi-gulf.html">Gulf States Withdraw Ambassadors to Lebanon Over Criticism of Yemen War</a> NYT: With a few stray comments from a minor minister, Lebanon once again found itself caught in the rivalry between Saudi Arabia and Iran, underscoring just how vulnerable it is to the whims of its more powerful neighbors. 
- <p class="updated_time"> 07:58 AM CT, Nov. 01 </p> 
- <a href="https://www.bbc.co.uk/news/uk-politics-59117529?at_medium=RSS&at_campaign=KARANGA">UK could take legal action against France over fishing row, says Liz Truss</a> BBC: The foreign secretary accuses France of "unfair behaviour" as it warns it could block British boats. 
  <p class="updated_time"> 07:43 AM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/travel/soviet-era-metros.html">The Stunning Grandeur of Soviet-Era Metros</a> NYT: Between 2014 and 2020, Frank Herfort visited more than 770 metro stations in 19 cities, creating a remarkable archive of architectural and artistic splendor. 
  <p class="updated_time"> 07:41 AM CT, Nov. 01 </p> 
@@ -57,10 +57,10 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-china-59119621?at_medium=RSS&at_campaign=KARANGA">Covid-19: Single case shuts down Shanghai Disneyland</a> BBC: The Chinese theme park closes for at least two days after a visitor tests positive. 
  <p class="updated_time"> 06:43 AM CT, Nov. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59118693?at_medium=RSS&at_campaign=KARANGA">Yemen war: Deadly missile attack on Marib religious school</a> BBC: The Yemeni government blames Houthi rebels for the attack, which killed or wounded 29 civilians. 
+ <p class="updated_time"> 06:43 AM CT, Nov. 01 </p> 
+ <a href="https://www.wsj.com/articles/cop26-kicks-off-in-glasgow-amid-sharp-divides-over-climate-goals-11635767355">At COP26, Biden Calls for Climate Action Amid Wide Divisions</a> WSJ: The U.S. president said the coming decade will be decisive, as world leaders faced large gaps over how to slash emissions quickly enough to avoid the most destructive effects of global warming. 
  <p class="updated_time"> 06:32 AM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/10/31/us/ramaphosa-anc-south-africa.html">He Brokered Apartheid’s End. Can He Save South Africa’s Liberation Party?</a> NYT: President Cyril Ramaphosa ascended to office on a reputation as a great negotiator and consensus builder. Now he must persuade voters to stick with the party of Nelson Mandela. 
- <p class="updated_time"> 06:20 AM CT, Nov. 01 </p> 
- <a href="https://www.wsj.com/articles/cop26-kicks-off-in-glasgow-amid-sharp-divides-over-climate-goals-11635767355">At COP26, Biden Calls for Climate Action Amid Wide Divisions</a> WSJ: The U.S. president said the coming decade will be decisive, as world leaders faced large gaps over how to slash emissions quickly enough to avoid the most destructive effects of global warming. 
  <p class="updated_time"> 06:05 AM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/chinas-push-to-burn-more-coal-puts-climate-goals-at-risk.html">China’s push to burn more coal puts climate goals at risk.</a> NYT: NA 
  <p class="updated_time"> 06:03 AM CT, Nov. 01 </p> 
@@ -172,6 +172,10 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:45 AM CT, Nov. 01 </p> 
+ <a href="https://www.nytimes.com/2021/11/01/us/politics/will-justice-brett-kavanaugh-change-his-position.html">Will Justice Brett Kavanaugh change his position?</a> NYT: Justice Kavanaugh has consistently supported abortion restrictions, but occasionally stakes out more moderate positions than his colleagues. 
+ <p class="updated_time"> 10:45 AM CT, Nov. 01 </p> 
+ <a href="https://www.nytimes.com/2021/11/01/us/politics/judd-stone-ii-the-texas-solicitor-general-makes-his-supreme-court-debut.html">Judd Stone II, the Texas solicitor general, makes his Supreme Court debut.</a> NYT: Stone is a former clerk to Justice Antonin Scalia and former chief counsel to Senator Ted Cruz. 
  <p class="updated_time"> 10:29 AM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/10/31/nyregion/city-council-nyc-election.html">The Places in New York City Where Republicans Still Stand a Chance</a> NYT: In some New York City Council races, supporting former President Donald Trump is seen as a positive by voters. 
  <p class="updated_time"> 10:19 AM CT, Nov. 01 </p> 
@@ -204,12 +208,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/31/climate/climate-change-biden-cop26.html">At Climate Talks, Biden Will Try to Sell American Leadership to Skeptics</a> NYT: The president wants to assure Glasgow’s climate summit that the U.S. is serious about climate change. But he lacks a legislative win at home. 
  <p class="updated_time"> 04:26 PM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/31/us/politics/virginia-governors-race-youngkin-mcauliffe.html">In the Final Days Before Virginia Votes, Both Sides Claim Momentum</a> NYT: Glenn Youngkin and Terry McAuliffe crisscrossed Virginia on the last weekend of what has become an increasingly close race for governor. 
- <p class="updated_time"> 03:51 PM CT, Oct. 31 </p> 
- <a href="https://www.nytimes.com/2021/10/31/world/europe/biden-putin-russia-united-states.html">Rivals on World Stage, Russia and U.S. Quietly Seek Areas of Accord</a> NYT: There have been a series of beneath-the-surface meetings between the two countries as the Biden administration applies a more sober approach to relations with the Kremlin. 
  <p class="updated_time"> 03:11 PM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/31/climate/g20-coal.html">G20 Nations Agree to New Limits on Coal-Burning Power Plants</a> NYT: The world’s largest economies will stop financing coal plants abroad, though that falls far short of what’s needed to fight climate change, raising fears of half-steps at this week’s U.N. summit. 
- <p class="updated_time"> 01:18 PM CT, Oct. 31 </p> 
- <a href="https://www.nytimes.com/2021/10/30/business/economy/biden-steel-tariffs-europe.html">Biden Rolls Back Trump's Metal Tariffs On European Union</a> NYT: The deal, which comes as U.S. and E.U. allies meet in Rome, will keep some trade protections in place in a nod to metalworking unions that supported President Biden. 
  <p class="updated_time"> 12:46 PM CT, Oct. 31 </p> 
  <a href="https://www.politico.com/news/2021/10/31/john-curtis-climate-summit-glasgow-518013">What Utah Republican John Curtis is bringing to the U.N. climate summit</a> Politico: As a conservative House Republican focused on climate change, he’s charting his own course. 
  <p class="updated_time"> 10:45 AM CT, Oct. 31 </p> 
