@@ -7,6 +7,18 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:14 PM CT, Oct. 31 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-58895749?at_medium=RSS&at_campaign=KARANGA">Climate change: The Indian village that could disappear under water</a> BBC: A village in the eastern coast of India faces the risk of going under water amid rising sea levels. 
+ <p class="updated_time"> 07:12 PM CT, Oct. 31 </p> 
+ <a href="https://www.nytimes.com/2021/10/30/world/asia/japan-election-fumio-kishida.html">Japan Election: Kishida Struggles to Connect With Voters</a> NYT: The governing Liberal Democrats won on Sunday, despite having chosen a prime minister, Fumio Kishida, who’s known for his lack of charisma. 
+ <p class="updated_time"> 07:11 PM CT, Oct. 31 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59093224?at_medium=RSS&at_campaign=KARANGA">Bam Bus: Three women, one cheating ex and an adventure</a> BBC: Bekah, Abi and Morgan became friends after discovering they were all dating the same man. 
+ <p class="updated_time"> 07:05 PM CT, Oct. 31 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-58976336?at_medium=RSS&at_campaign=KARANGA">Mount Augustus: Preserving Australia's lesser-known sacred rock</a> BBC: Aboriginal rangers step up efforts to preserve Mount Augustus - a landmark twice the size of Uluru. 
+ <p class="updated_time"> 07:03 PM CT, Oct. 31 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59097021?at_medium=RSS&at_campaign=KARANGA">Libya: Thousands of migrants and refugees camp on UN's doorstep</a> BBC: Thousands of people are on the streets after fleeing overcrowded detention centres in Libya's capital. 
+ <p class="updated_time"> 06:55 PM CT, Oct. 31 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59103664?at_medium=RSS&at_campaign=KARANGA">Tokyo subway knife and fire attack leaves 17 injured</a> BBC: Video footage shows passengers desperately running from fire and a man said to be wielding a knife. 
  <p class="updated_time"> 06:25 PM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/31/world/europe/g20-climate-temperature-rise.html">G20 Leaders Agree on 1.5-Degree Climate Goal</a> NYT: Countries will “pursue efforts” to limit global temperature rise to 1.5 degrees Celsius, compared with preindustrial times. 
  <p class="updated_time"> 06:15 PM CT, Oct. 31 </p> 
@@ -23,8 +35,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/31/climate/climate-change-biden-cop26.html">At Climate Talks, Biden Will Try to Sell American Leadership to Skeptics</a> NYT: The president wants to assure Glasgow’s climate summit that the U.S. is serious about climate change. But he lacks a legislative win at home. 
  <p class="updated_time"> 04:37 PM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/31/world/word.html">“Vax” is Oxford’s 2021 Word of the Year</a> NYT: NA 
- <p class="updated_time"> 04:27 PM CT, Oct. 31 </p> 
- <a href="https://www.nytimes.com/2021/10/30/world/asia/japan-election-fumio-kishida.html">Japan Election: Kishida Struggles to Connect With Voters</a> NYT: The governing Liberal Democrats won on Sunday, despite having chosen a prime minister, Fumio Kishida, who’s known for his lack of charisma. 
  <p class="updated_time"> 03:57 PM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/31/us/politics/guantanamo-torture-letter.html">U.S. Military Jury Condemns Terrorist’s Torture and Urges Clemency</a> NYT: Seven senior officers rebuked the government’s treatment of an admitted terrorist in a handwritten letter from the jury room at Guantánamo Bay. 
  <p class="updated_time"> 03:51 PM CT, Oct. 31 </p> 
@@ -39,14 +49,12 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59113437?at_medium=RSS&at_campaign=KARANGA">Biden at G20: Russia and China 'didn't show up' on climate</a> BBC: US President Joe Biden addresses disappointment by some about what was agreed at the G20 ahead of COP26. 
  <p class="updated_time"> 03:07 PM CT, Oct. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59110828?at_medium=RSS&at_campaign=KARANGA">Japan election: Ruling LDP retains majority - exit polls</a> BBC: Prime Minister Fumio Kishida's ruling LDP party wins enough votes to stay in power, exit polls say. 
- <p class="updated_time"> 02:26 PM CT, Oct. 31 </p> 
- <a href="https://www.bbc.co.uk/sport/tennis/59111275?at_medium=RSS&at_campaign=KARANGA">Vienna Open: Alexander Zverev beats Frances Tiafoe for title</a> BBC: Alexander Zverev continues his dominant form since the summer, beating Frances Tiafoe in the Vienna Open final. 
  <p class="updated_time"> 02:08 PM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/31/world/moderna-covid-vaccine-teens-myocarditis.html">F.D.A. Is Reviewing If Moderna Vaccine Causes Heart Problems in Adolescents</a> NYT: The F.D.A. has notified Moderna that it needs more time to review the vaccine’s safety and may not deliver a decision until January. 
- <p class="updated_time"> 01:22 PM CT, Oct. 31 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59103664?at_medium=RSS&at_campaign=KARANGA">At least 17 injured in Tokyo subway knife and arson attack</a> BBC: Video footage shows passengers desperately running from fire and a man said to be wielding a knife. 
  <p class="updated_time"> 01:18 PM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/30/business/economy/biden-steel-tariffs-europe.html">Biden Rolls Back Trump's Metal Tariffs On European Union</a> NYT: The deal, which comes as U.S. and E.U. allies meet in Rome, will keep some trade protections in place in a nod to metalworking unions that supported President Biden. 
+ <p class="updated_time"> 01:14 PM CT, Oct. 31 </p> 
+ <a href="https://www.wsj.com/articles/u-s-arrests-fugitive-chinese-businessman-alleging-visa-fraud-11635718485">U.S. Arrests Fugitive Chinese Businessman, Alleging Visa Fraud</a> WSJ: Shi Jianxiang, who is wanted in China after the collapse of his fintech empire, lied about his name on visa forms, the Justice Department says. 
  <p class="updated_time"> 12:56 PM CT, Oct. 31 </p> 
  <a href="https://www.wsj.com/articles/japans-ruling-coalition-set-to-keep-majority-in-election-projection-shows-11635679065">Japan's Ruling Party Keeps Majority in Election</a> WSJ: The ruling Liberal Democratic Party won a clear majority in national elections, allowing new Prime Minister Fumio Kishida to build a solid foundation for a government tackling security threats from China and North Korea. 
  <p class="updated_time"> 12:02 PM CT, Oct. 31 </p> 
@@ -55,6 +63,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/31/world/asia/afghanistan-taliban-artists.html">Afghan Art Flourished for 20 Years. Can It Survive the New Taliban Regime?</a> NYT: So far, the Taliban have not banned art outright. But many artists have fled Afghanistan, fearing for their work and their lives. 
  <p class="updated_time"> 11:37 AM CT, Oct. 31 </p> 
  <a href="https://www.wsj.com/articles/g-20-nations-wrangle-over-climate-change-goals-ahead-of-cop26-11635680984">G-20 Disagreements Point to Challenges for COP26 Summit</a> WSJ: The world’s leading economies expressed aspirations of limiting global warming to 1.5 degrees Celsius, but didn’t find a consensus on how to do it, foreshadowing difficult negotiations at the United Nations-sponsored climate summit. 
+ <p class="updated_time"> 10:29 AM CT, Oct. 31 </p> 
+ <a href="https://www.wsj.com/articles/bidens-glasgow-challenge-is-to-convince-world-that-u-s-can-lead-on-climate-11635685201">Biden's Glasgow Challenge Is to Convince World That U.S. Can Lead on Climate</a> WSJ: The president seeks to rally global support for tough climate measures even as his domestic policy faces uncertainty. 
  <p class="updated_time"> 10:22 AM CT, Oct. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59112729?at_medium=RSS&at_campaign=KARANGA">Tokyo knife and arson attack: The moment train passengers flee</a> BBC: Video shows people trying to escape as smoke and flames fill a carriage. 
  <p class="updated_time"> 10:12 AM CT, Oct. 31 </p> 
@@ -67,8 +77,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/a-nation-learns-to-love-movie-popcornwithout-the-movie-11635703138">A Nation Learns to Love Movie Popcorn---Without the Movie</a> WSJ: South Korea’s Covid-19 restrictions banned eating popcorn in theaters, so moviegoers chowed down in the lobby or had tubs delivered to their homes. Others went rogue; ‘I chewed as quietly as I could.’ 
  <p class="updated_time"> 08:29 AM CT, Oct. 31 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59110239?at_medium=RSS&at_campaign=KARANGA">Stars of music enter the Rock and Roll Hall of Fame</a> BBC: Carole King, Jay-Z and Foo Fighters and others were inducted at a star studded Rock and Roll Hall of Fame ceremony. 
- <p class="updated_time"> 08:23 AM CT, Oct. 31 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59109729?at_medium=RSS&at_campaign=KARANGA">Sudan coup: Khartoum barricaded by pro-democracy activists</a> BBC: Three people were reportedly killed and 100 wounded after a crackdown on mass protests on Saturday. 
  <p class="updated_time"> 07:23 AM CT, Oct. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59103659?at_medium=RSS&at_campaign=KARANGA">Man dies during bull-running event in Spanish city of Onda</a> BBC: Authorities said the man suffered a head wound and had an artery punctured in his thigh by the bull. 
  <p class="updated_time"> 06:24 AM CT, Oct. 31 </p> 
@@ -107,10 +115,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/science-environment-59051407?at_medium=RSS&at_campaign=KARANGA">Climate change: What's it like living in a place where it's 50C?</a> BBC: The BBC has spoken to people around the world about how extreme heat is changing their lives. 
  <p class="updated_time"> 06:51 PM CT, Oct. 30 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59029517?at_medium=RSS&at_campaign=KARANGA">How the Taliban takeover changed my life</a> BBC: From office workers to students, Afghans share how their lives have changed since August. 
- <p class="updated_time"> 06:01 PM CT, Oct. 30 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-59084408?at_medium=RSS&at_campaign=KARANGA">Israeli woman jailed three times for refusing to join the army</a> BBC: Most Jewish Israelis do military service. But a small number, like Shahar, take an ideological stance. 
- <p class="updated_time"> 05:36 PM CT, Oct. 30 </p> 
- <a href="https://www.wsj.com/articles/chinas-manufacturing-activity-contracts-for-second-straight-month-11635645642">China's Manufacturing Activity Contracts for Second Straight Month</a> WSJ: New data adds evidence that growth momentum has weakened as the country’s manufacturing sector is weighed down by soaring raw material costs, a widespread power crisis and a slowdown in the property sector. 
  <p class="updated_time"> 04:51 PM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/30/world/biden-communion-rome-g20.html">Biden Receives Communion at Rome Church</a> NYT: Some conservative bishops in the United States have said the president should be denied communion because of his support for abortion rights. 
  <p class="updated_time"> 04:44 PM CT, Oct. 30 </p> 
@@ -129,8 +133,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/30/world/chinas-xi-and-other-world-leaders-are-not-at-the-summit.html">China’s Xi and other world leaders are not at the summit.</a> NYT: NA 
  <p class="updated_time"> 10:21 AM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/30/world/africa/south-africa-elections-anc.html">A South African Town Lacks Water and Electricity. But Mayors? It Has Two.</a> NYT: Dysfunctional and collapsing rural towns may test voters’ loyalty to the ruling African National Congress party in nationwide municipal elections on Monday. 
- <p class="updated_time"> 09:52 AM CT, Oct. 30 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59101411?at_medium=RSS&at_campaign=KARANGA">Japan undersea volcano: Artist tries to swim in floating pumice stone</a> BBC: An eruption from an undersea volcano has coated the coastal waters off a Japanese island in pumice. 
  <p class="updated_time"> 09:02 AM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/29/world/vaccine-mandate-states-sue.html">10 Republican-led States Sue Over Biden's Vaccine Mandate</a> NYT: The lawsuit is being led by Missouri’s attorney general, Eric Schmitt, and the attorney general of Nebraska, Doug Peterson. 
  <p class="updated_time"> 09:02 AM CT, Oct. 30 </p> 
@@ -139,8 +141,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/30/world/asia/china-xi-jinping-g20.html">Xi Hasn’t Left China in 21 Months. Covid May Be Only Part of the Reason.</a> NYT: Xi Jinping’s lack of face time with world leaders signals a turn inward on domestic issues and a reluctance to compromise on the global stage. 
  <p class="updated_time"> 04:00 AM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/30/travel/rick-steves-europe-tours.html">Rick Steves on the Return of Travel and Why It Matters</a> NYT: The travel writer and TV personality is back in Europe, planning itineraries for next year. Travel, he says, can help us understand the world. Here’s how he recommends doing it. 
- <p class="updated_time"> 04:00 AM CT, Oct. 30 </p> 
- <a href="https://www.wsj.com/articles/cop26-climate-summit-consensus-is-sought-after-decades-of-false-starts-11635598801">Climate Summit to Convene After Decades of False Starts</a> WSJ: COP26 in Glasgow marks countries’ latest attempt to reduce global greenhouse gas emissions. 
  <p class="updated_time"> 03:52 AM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/30/world/europe/g20-summit-rome-security.html">Italy Deploys Vast Security in Anticipation of G20 Protests</a> NYT: In 2001, a Group of 8 summit in Genoa was met with protests that turned violent. 
  <p class="updated_time"> 10:03 PM CT, Oct. 29 </p> 
@@ -149,8 +149,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/29/world/africa/sudan-coup-general.html">‘They Lied.’ Inside the Frantic Days Leading to Sudan’s Coup</a> NYT: The American envoy, Jeffrey Feltman, was given assurances that seemed to head off a military takeover. Hours later, Lt. Gen. Abdel Fattah al-Burhan made his move. 
  <p class="updated_time"> 07:37 PM CT, Oct. 29 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59059493?at_medium=RSS&at_campaign=KARANGA">T20 World Cup: The toxic trolling of India's cricket stars</a> BBC: As online abuse becomes the main form of venting, many worry about the toxicity cricketers face on social media. 
- <p class="updated_time"> 06:03 PM CT, Oct. 29 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59076452?at_medium=RSS&at_campaign=KARANGA">COP26: African climate activists' message to world leaders</a> BBC: Young climate activists from Africa share their message to world leaders at COP26. 
  <p class="updated_time"> 05:11 PM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/world/canada/dune-movie.html">‘Dune’ May Be Set in a Distant Time and Place, but the Film Has Canadian Roots</a> NYT: A science fiction opus was heavily guided by Canadian talent, starting with the director, Denis Villeneuve, who lives in Montreal. 
  <p class="updated_time"> 04:48 PM CT, Oct. 29 </p> 
@@ -179,8 +177,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/science-environment-58925049?at_medium=RSS&at_campaign=KARANGA">COP26: What effect does methane have on climate change? And more questions</a> BBC: BBC science correspondent Matt McGrath answers your questions about Glasgow's COP26 climate summit. 
  <p class="updated_time"> 04:00 AM CT, Oct. 29 </p> 
  <a href="https://www.nytimes.com/2021/10/29/world/europe/roma-hip-hop-band-serbia-pretty-loud.html">‘Different Way of Fighting’: Lyrics Are the Weapons of All-Women Roma Band</a> NYT: Many Roma women face pressures to marry young and take on traditional gender roles. Pretty Loud, a hip-hop group from Serbia, wants girls to decide for themselves. 
- <p class="updated_time"> 11:10 AM CT, Oct. 25 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-56901261?at_medium=RSS&at_campaign=KARANGA">COP26: What is the Glasgow climate conference and why is it important?</a> BBC: A crucial climate change summit is being held in the UK - this is why it's important. 
 
 
 </details>
@@ -188,6 +184,10 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:10 PM CT, Oct. 31 </p> 
+ <a href="https://www.nytimes.com/2021/10/31/nyregion/city-council-nyc-election.html">The Places in New York City Where Republicans Still Stand a Chance</a> NYT: In some New York City Council races, supporting former President Donald Trump is seen as a positive by voters. 
+ <p class="updated_time"> 07:06 PM CT, Oct. 31 </p> 
+ <a href="https://www.nytimes.com/2021/10/31/us/lets-go-brandon-southwest-airlines.html">Why a Pilot Is Under Investigation for Saying ‘Let’s Go Brandon’</a> NYT: A joke that originated at a NASCAR race went viral. But some people say a pilot’s remark during a Southwest Airlines flight was out of line. 
  <p class="updated_time"> 06:14 PM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/31/world/biden-g20-covid-climate.html">Struggling at Home, Biden Is Buoyed by G20 Trip Abroad</a> NYT: A trip to Rome invigorated a president whose poll numbers are slumping at home, but who projected confidence in his foreign and domestic agenda. 
  <p class="updated_time"> 06:06 PM CT, Oct. 31 </p> 
@@ -208,8 +208,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/30/business/economy/biden-steel-tariffs-europe.html">Biden Rolls Back Trump's Metal Tariffs On European Union</a> NYT: The deal, which comes as U.S. and E.U. allies meet in Rome, will keep some trade protections in place in a nod to metalworking unions that supported President Biden. 
  <p class="updated_time"> 12:46 PM CT, Oct. 31 </p> 
  <a href="https://www.politico.com/news/2021/10/31/john-curtis-climate-summit-glasgow-518013">What Utah Republican John Curtis is bringing to the U.N. climate summit</a> Politico: As a conservative House Republican focused on climate change, he’s charting his own course. 
- <p class="updated_time"> 12:41 PM CT, Oct. 31 </p> 
- <a href="https://www.nytimes.com/2021/10/31/nyregion/city-council-nyc-election.html">The Places in New York City Where Republicans Still Stand a Chance</a> NYT: In some New York City Council races, supporting former President Donald Trump is seen as a positive by voters. 
  <p class="updated_time"> 10:45 AM CT, Oct. 31 </p> 
  <a href="https://www.politico.com/news/2021/10/31/democrats-race-prescription-drug-deal-517974">Dems close in on Medicare prescription drug negotiation compromise</a> Politico: The issue was left out of last week’s social spending framework, but it may yet show up in the final bill. 
  <p class="updated_time"> 10:30 AM CT, Oct. 31 </p> 
@@ -236,8 +234,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/10/30/call-logs-speech-drafts-among-records-trump-is-trying-to-block-from-jan-6-investigators-517796">Call logs, speech drafts among records Trump is trying to block from Jan. 6 investigators</a> Politico: The former president's effort to suppress more than 750 pages of records is far broader than previously known, a new court filing reveals. 
  <p class="updated_time"> 04:02 AM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/30/us/politics/trump-capitol-riot-inquiry.html">Court Filing Lists Documents Trump Seeks to Withhold From Jan. 6 Inquiry</a> NYT: The National Archives says the former president is asserting executive privilege over phone logs, notes and other records concerning the attack on the Capitol. 
- <p class="updated_time"> 04:00 AM CT, Oct. 30 </p> 
- <a href="https://www.nytimes.com/2021/10/30/science/tsar-bomba-60.html">Tsar Bomba Nuclear Test 60 Years Ago Didn't Make J.F.K. Flinch</a> NYT: A new study offers insights into how the United States reacted to Tsar Bomba, a planet shaker that made the deadly Hiroshima blast look tame. 
  <p class="updated_time"> 05:30 PM CT, Oct. 29 </p> 
  <a href="https://www.politico.com/news/2021/10/29/you-have-a-manchin-problem-paid-leave-tossed-aside-despite-wooing-of-wva-senator-517731">Manchin upends paid leave, a benefit ‘personal to the president’</a> Politico: "We kept hearing, 'You have a Manchin problem,'" Molly Day, executive director of Paid Leave for the U.S., said. "So we kept digging in." 
  <p class="updated_time"> 04:47 PM CT, Oct. 29 </p> 
