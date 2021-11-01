@@ -7,12 +7,22 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:04 PM CT, Nov. 01 </p> 
- <a href="https://www.nytimes.com/live/2021/11/01/world/cop26-climate-change-summit">COP26 Live Updates: Climate Change Is ‘Ravaging the World,’ Biden Tells Summit</a> NYT: António Guterres, the U.N. secretary general, opened the conference with a blistering critique of the world’s failure to unite to address global warming. 
- <p class="updated_time"> 11:55 AM CT, Nov. 01 </p> 
+ <p class="updated_time"> 12:23 PM CT, Nov. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59125228?at_medium=RSS&at_campaign=KARANGA">People feared trapped in Nigeria high-rise collapse in Lagos</a> BBC: The multi-storey building in Lagos was under construction before being reduced to a pile of rubble. 
+ <p class="updated_time"> 12:13 PM CT, Nov. 01 </p> 
+ <a href="https://www.nytimes.com/live/2021/11/01/world/cop26-climate-change-summit">COP26 Live Updates: Climate Change Is ‘Ravaging the World,’ Biden Tells Summit</a> NYT: António Guterres, the U.N. secretary general, opened the conference with a blistering critique of the world’s failure to unite to address global warming. 
+ <p class="updated_time"> 12:13 PM CT, Nov. 01 </p> 
+ <a href="https://www.nytimes.com/2021/11/01/world/europe/cop26-climate-antonio-guterres.html">U.N. Leader, António Guterres, Warns of 'Climate Catastrophe' at COP26</a> NYT: He urged countries to review their climate pledges annually rather than every five years as called for in the 2015 Paris accord. 
+ <p class="updated_time"> 12:10 PM CT, Nov. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/business-59117084?at_medium=RSS&at_campaign=KARANGA">Barclays boss Jes Staley in shock exit angry at Epstein probe</a> BBC: Jes Staley is leaving the bank following an investigation into his links to sex offender Jeffrey Epstein. 
+ <p class="updated_time"> 12:08 PM CT, Nov. 01 </p> 
+ <a href="https://www.nytimes.com/2021/11/01/travel/soviet-era-metros.html">The Stunning Grandeur of Soviet-Era Metros</a> NYT: Between 2014 and 2020, Frank Herfort visited more than 770 metro stations in 19 cities, creating a remarkable archive of architectural and artistic splendor. 
+ <p class="updated_time"> 12:03 PM CT, Nov. 01 </p> 
+ <a href="https://www.nytimes.com/2021/10/31/world/shanghai-disney-covid.html">Shanghai Disneyland Temporarily Shut by ‘Severe’ Virus Outbreak</a> NYT: NA 
  <p class="updated_time"> 11:50 AM CT, Nov. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-59119321?at_medium=RSS&at_campaign=KARANGA">Handball federation changes uniform rules after bikini row</a> BBC: A campaign had pushed for an overhaul after Norway's team were fined for wearing shorts in July. 
+ <p class="updated_time"> 11:45 AM CT, Nov. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-59125138?at_medium=RSS&at_campaign=KARANGA">COP26: David Attenborough says world is looking to leaders</a> BBC: The naturalist urges climate summit delegates to "turn tragedy into triumph" for young people. 
  <p class="updated_time"> 11:43 AM CT, Nov. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59124419?at_medium=RSS&at_campaign=KARANGA">Military officers condemn CIA torture as a stain on America</a> BBC: Military jury asks for clemency in case of Majid Khan and rebukes his alleged treatment by the CIA. 
  <p class="updated_time"> 11:33 AM CT, Nov. 01 </p> 
@@ -35,12 +45,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/01/world/europe/cop26-global-leaders-attending.html">Who Is Attending the COP26 Climate Summit, and Who Isn't</a> NYT: The presence of heads of state and government is not just symbolic. Real work gets done among leaders that cannot happen among lower-level diplomats. 
  <p class="updated_time"> 09:58 AM CT, Nov. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-59119731?at_medium=RSS&at_campaign=KARANGA">Covid-19 deaths pass five million worldwide</a> BBC: Vaccines have slowed the death rate, but officials warn of worrying rises in some countries. 
- <p class="updated_time"> 09:51 AM CT, Nov. 01 </p> 
- <a href="https://www.bbc.co.uk/news/business-59117084?at_medium=RSS&at_campaign=KARANGA">Barclays boss Jes Staley in shock exit angry at Epstein probe</a> BBC: Jes Staley is leaving the bank following an investigation into his links to sex offender Jeffrey Epstein. 
  <p class="updated_time"> 09:27 AM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/asia/pakistan-protests-negotiations-tlp.html">After Violent Standoff, Pakistan Strikes Deal With Banned Islamist Group</a> NYT: The pact, announced Sunday, defused a crisis that had paralyzed several cities, but it also highlighted the government’s struggle to assert itself against religious extremists. 
- <p class="updated_time"> 09:23 AM CT, Nov. 01 </p> 
- <a href="https://www.nytimes.com/2021/11/01/world/europe/cop26-climate-antonio-guterres.html">U.N. Leader, António Guterres, Warns of 'Climate Catastrophe' at COP26</a> NYT: He urged countries to review their climate pledges annually rather than every five years as called for in the 2015 Paris accord. 
  <p class="updated_time"> 09:16 AM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/bidens-glasgow-pitch-this-time-the-us-is-serious-about-climate-change.html">Biden’s Glasgow pitch: This time, the U.S. is serious about climate change.</a> NYT: NA 
  <p class="updated_time"> 09:13 AM CT, Nov. 01 </p> 
@@ -53,8 +59,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/01/sports/women-beach-handball-bikini.html">Handball Federation Ends Bikini Bottom Requirement for Women</a> NYT: After outrage over a fine levied against the Norwegian women’s beach handball team for competing in shorts, the sport’s international federation said it was changing its rules. 
  <p class="updated_time"> 08:39 AM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/10/30/world/middleeast/lebanon-ambassadors-saudi-gulf.html">Gulf States Withdraw Ambassadors to Lebanon Over Criticism of Yemen War</a> NYT: With a few stray comments from a minor minister, Lebanon once again found itself caught in the rivalry between Saudi Arabia and Iran, underscoring just how vulnerable it is to the whims of its more powerful neighbors. 
- <p class="updated_time"> 07:43 AM CT, Nov. 01 </p> 
- <a href="https://www.nytimes.com/2021/11/01/travel/soviet-era-metros.html">The Stunning Grandeur of Soviet-Era Metros</a> NYT: Between 2014 and 2020, Frank Herfort visited more than 770 metro stations in 19 cities, creating a remarkable archive of architectural and artistic splendor. 
  <p class="updated_time"> 07:41 AM CT, Nov. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59054146?at_medium=RSS&at_campaign=KARANGA">Real life Succession battle plagues Canada's top wireless firm</a> BBC: A bitter power struggle at Rogers Communications has gone from 'Succession' to 'Game of Thrones'. 
  <p class="updated_time"> 07:28 AM CT, Nov. 01 </p> 
@@ -143,10 +147,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/30/world/biden-communion-rome-g20.html">Biden Receives Communion at Rome Church</a> NYT: Some conservative bishops in the United States have said the president should be denied communion because of his support for abortion rights. 
  <p class="updated_time"> 03:11 PM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/30/world/africa/sudan-protests-coup.html">Protesters Killed in Sudan on Day Seen as a Test for the Military</a> NYT: Three demonstrators were fatally shot, a doctors’ group said, as crowds answered activists’ call for a “march of millions” against a coup that has threatened the country’s democratic transition. 
- <p class="updated_time"> 02:01 PM CT, Oct. 30 </p> 
- <a href="https://www.nytimes.com/2021/10/30/world/europe/g20-summit-covid-vaccines.html">Pressure Grows on G20 Nations to Get Covid Vaccines to Poorer Countries</a> NYT: Talk at the summit is focused on preventing future pandemics. Critics say the current one must be addressed first. 
- <p class="updated_time"> 12:43 PM CT, Oct. 30 </p> 
- <a href="https://www.nytimes.com/2021/10/30/world/middleeast/g20-summit-iran-nuclear.html">G20 Agenda Includes Nuclear Impasse With Iran</a> NYT: Biden administration officials have suggested that time is running out to salvage the 2015 accord under which Iran sharply curtailed its nuclear activities. 
  <p class="updated_time"> 12:08 PM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/30/world/europe/russia-gas-pipeline-nordstream-putin.html">A Russian Pipeline Changes Direction, and Energy Politics Come to the Fore</a> NYT: Amid an energy crunch in Europe, one of Russia’s largest natural gas pipelines began pulling gas out of Western Europe back eastward, Russian news agencies reported. 
  <p class="updated_time"> 11:01 AM CT, Oct. 30 </p> 
@@ -164,6 +164,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:05 PM CT, Nov. 01 </p> 
+ <a href="https://www.nytimes.com/2021/11/01/nyregion/democratic-party-ny.html">How New York Elections Will Shape the Future of the Democratic Party</a> NYT: A series of Election Day contests may serve as a barometer of how far left Democratic voters in New York State want their party to go. 
  <p class="updated_time"> 11:35 AM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/us/politics/brett-kavanaugh-abortion.html">Will Justice Brett Kavanaugh Change His Position on Abortion?</a> NYT: Justice Kavanaugh has consistently supported abortion restrictions, but occasionally stakes out more moderate positions than his colleagues. 
  <p class="updated_time"> 11:27 AM CT, Nov. 01 </p> 
@@ -176,8 +178,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/01/us/politics/marc-hearron-abortion-supreme-court.html">Who is Marc Hearron? Attorney for Abortion Providers, Has Deep Texas Ties</a> NYT: Mr. Hearron has worked on pro bono cases involving reproductive rights and L.G.B.T.Q. rights. 
  <p class="updated_time"> 11:16 AM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/us/politics/texas-abortion-law-facts.html">Here's What The Texas Abortion Law Prohibits</a> NYT: Abortions are now illegal in Texas after “cardiac activity” is detectable, usually around six weeks’ gestation. 
- <p class="updated_time"> 11:07 AM CT, Nov. 01 </p> 
- <a href="https://www.nytimes.com/2021/11/01/nyregion/democratic-party-ny.html">How New York Elections Will Shape the Future of the Democratic Party</a> NYT: A series of Election Day contests may serve as a barometer of how far left Democratic voters in New York State want their party to go. 
  <p class="updated_time"> 10:29 AM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/10/31/nyregion/city-council-nyc-election.html">The Places in New York City Where Republicans Still Stand a Chance</a> NYT: In some New York City Council races, supporting former President Donald Trump is seen as a positive by voters. 
  <p class="updated_time"> 10:01 AM CT, Nov. 01 </p> 
