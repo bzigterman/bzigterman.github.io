@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:28 AM CT, Nov. 01 </p> 
+ <p class="updated_time"> 09:32 AM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/live/2021/11/01/world/cop26-climate-change-summit">COP26 Live Updates: ‘We Are Digging Our Own Graves,’ U.N. Leader Warns at Climate Summit</a> NYT: António Guterres, the U.N. secretary general, opened the conference with a blistering critique of the world’s failure to unite against global warming. President Biden is expected to address the conference soon. 
  <p class="updated_time"> 09:27 AM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/asia/pakistan-protests-negotiations-tlp.html">After Violent Standoff, Pakistan Strikes Deal With Banned Islamist Group</a> NYT: The pact, announced Sunday, defused a crisis that had paralyzed several cities, but it also highlighted the government’s struggle to assert itself against religious extremists. 
@@ -57,12 +57,28 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/01/world/australia/australia-border-reopening-covid.html">Australia Allows Residents, Citizens to Return as Borders Open</a> NYT: After 18 months of strict measures to combat the pandemic, the states of New South Wales and Victoria relaxed restrictions on citizens and permanent residents seeking to travel back from overseas. 
  <p class="updated_time"> 05:02 AM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/europe/climate-conference-kicks-off-in-glasgow-with-floods-and-low-expectations.html">Climate conference kicks off in Glasgow with floods and low expectations.</a> NYT: NA 
+ <p class="updated_time"> 04:34 AM CT, Nov. 01 </p> 
+ <a href="https://www.wsj.com/articles/cop26-kicks-off-in-glasgow-amid-sharp-divides-over-climate-goals-11635767355">COP26 Kicks Off in Glasgow Amid Sharp Divides Over Climate Goals</a> WSJ: The United Nations summit opened a day after leaders of the Group of 20 major economies made little progress over the weekend hammering out specific climate goals many had hoped would ease discussions in Glasgow. 
+ <p class="updated_time"> 04:17 AM CT, Nov. 01 </p> 
+ <a href="https://www.wsj.com/articles/greta-thunberg-climate-summit-glasgow-cop-11635772563">Greta Thunberg's Dad Won't Be With Her at the Climate Summit---And He's Thrilled</a> WSJ: The young activist turned 18, leaving her parents free to get back to their lives. ‘We have jobs’ 
+ <p class="updated_time"> 04:07 AM CT, Nov. 01 </p> 
+ <a href="https://www.wsj.com/articles/lebanon-faces-deepening-economic-crisis-as-saudis-cut-ties-over-iran-11635772026">Lebanon Faces Deepening Economic Crisis as Saudis Cut Ties Over Iran</a> WSJ: Saudi Arabia banned imports from Lebanon and, along with three other Gulf states, expelled its ambassador following remarks by an official about the war in Yemen. 
+ <p class="updated_time"> 03:19 AM CT, Nov. 01 </p> 
+ <a href="https://www.wsj.com/articles/some-of-the-worlds-last-covid-19-travel-holdouts-are-reopening-11635769187">Some of the World's Last Covid-19 Travel Holdouts Are Reopening</a> WSJ: Australia is allowing its citizens to travel freely into and out of the country if they are vaccinated, while Thailand began permitting vaccinated tourists from many countries to enter without requiring extended quarantines. 
  <p class="updated_time"> 03:00 AM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/michael-bloomberg-announces-an-effort-to-shut-down-coal-in-25-countries.html">Michael Bloomberg announces an effort to shut down coal in 25 countries.</a> NYT: NA 
+ <p class="updated_time"> 02:14 AM CT, Nov. 01 </p> 
+ <a href="https://www.wsj.com/articles/japanese-elections-fail-to-produce-gains-for-women-11635765296">Japanese Elections Fail to Produce Gains for Women</a> WSJ: The result of Japan’s election—a victory for the long-ruling Liberal Democratic Party—was familiar in another way as well. Less than one in 10 of the victorious candidates were women. 
  <p class="updated_time"> 01:42 AM CT, Nov. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59110828?at_medium=RSS&at_campaign=KARANGA">Japan election: PM Fumio Kishida declares victory for ruling LDP</a> BBC: He has defied initial expectations to lead the Liberal Democratic Party to a comfortable majority. 
  <p class="updated_time"> 01:09 AM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/europe/britain-climate-change.html">Once a Leading Polluter, the U.K. Is Now Trying to Lead on Climate Change</a> NYT: On the eve of a global climate summit, Britain’s evolution from fossil fuels to clean energy is on display. But experts question whether its commitment is sufficient, and whether it can persuade other nations to meet meaningful goals. 
+ <p class="updated_time"> 12:30 AM CT, Nov. 01 </p> 
+ <a href="https://www.wsj.com/articles/mariners-can-now-get-covid-19-vaccines-at-port-after-months-stranded-at-sea-11635759001">Stranded Mariners Can Now Get Covid Vaccines at Port</a> WSJ: Crews on cargo ships are receiving shots world-wide, preventing more supply-chain disruptions and allowing them to finally disembark. 
+ <p class="updated_time"> 12:30 AM CT, Nov. 01 </p> 
+ <a href="https://www.wsj.com/articles/myanmar-resistance-groups-lure-and-aid-military-defectors-11635759001">Myanmar Resistance Groups Lure Military Defectors</a> WSJ: Since the military seized power in a February coup, opposition groups say more than 2,500 police and soldiers have defected. 
+ <p class="updated_time"> 12:30 AM CT, Nov. 01 </p> 
+ <a href="https://www.wsj.com/articles/central-banks-fuel-new-bets-on-tighter-money-as-inflation-rises-globally-11635759002">Central Banks Fuel New Bets on Tighter Money as Inflation Rises Globally</a> WSJ: Stubbornly high inflation across more wealthy economies last week prompted a shakeout in bond markets as investors began expecting policy makers to quickly tighten monetary policy. 
  <p class="updated_time"> 12:04 AM CT, Nov. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59115079?at_medium=RSS&at_campaign=KARANGA">Covid: Emotional reunions as Australia's border reopens</a> BBC: International travellers hug loved ones at Sydney Airport for the first time in 20 months. 
  <p class="updated_time"> 11:48 PM CT, Oct. 31 </p> 
@@ -73,8 +89,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/31/world/biden-g20-covid-climate.html">Struggling at Home, Biden Is Buoyed by G20 Trip Abroad</a> NYT: A trip to Rome invigorated a president whose poll numbers are slumping at home, but who projected confidence in his foreign and domestic agenda. 
  <p class="updated_time"> 11:22 PM CT, Oct. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59115346?at_medium=RSS&at_campaign=KARANGA">New Zealand bat flies away with bird of the year award</a> BBC: The win, seen by some as a much-needed PR victory for bats, has ruffled feathers among bird-lovers. 
- <p class="updated_time"> 10:59 PM CT, Oct. 31 </p> 
- <a href="https://www.wsj.com/articles/bidens-glasgow-challenge-is-to-convince-world-that-u-s-can-lead-on-climate-11635685201">Biden's Glasgow Challenge Is to Convince World That U.S. Can Lead on Climate</a> WSJ: The president seeks to rally global support for tough climate measures even as his domestic policy faces uncertainty. 
  <p class="updated_time"> 08:57 PM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/31/us/politics/guantanamo-torture-letter.html">U.S. Military Jury Condemns Terrorist’s Torture and Urges Clemency</a> NYT: Seven senior officers rebuked the government’s treatment of an admitted terrorist in a handwritten letter from the jury room at Guantánamo Bay. 
  <p class="updated_time"> 08:00 PM CT, Oct. 31 </p> 
@@ -97,8 +111,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/31/world/europe/g20-climate-temperature-rise.html">G20 Leaders Agree on 1.5-Degree Climate Goal</a> NYT: Countries will “pursue efforts” to limit global temperature rise to 1.5 degrees Celsius, compared with preindustrial times. 
  <p class="updated_time"> 05:39 PM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/31/world/americas/brazil-police-kill-25-bank-gang.html">Brazilian Police Kill 25 Accused of Planning Bank Heists</a> NYT: The police say an operation against a gang planning bank robberies killed at least 25 suspects in the Brazilian state of Minas Gerais on Sunday. 
- <p class="updated_time"> 04:40 PM CT, Oct. 31 </p> 
- <a href="https://www.wsj.com/articles/g-20-nations-wrangle-over-climate-change-goals-ahead-of-cop26-11635680984">G-20 Disagreements Point to Challenges for COP26 Summit</a> WSJ: The world’s leading economies expressed aspirations of limiting global warming to 1.5 degrees Celsius, but didn’t find a consensus on how to do it, foreshadowing difficult negotiations at the United Nations-sponsored climate summit. 
  <p class="updated_time"> 04:37 PM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/31/climate/climate-change-biden-cop26.html">At Climate Talks, Biden Will Try to Sell American Leadership to Skeptics</a> NYT: The president wants to assure Glasgow’s climate summit that the U.S. is serious about climate change. But he lacks a legislative win at home. 
  <p class="updated_time"> 04:37 PM CT, Oct. 31 </p> 
@@ -113,20 +125,12 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/31/world/moderna-covid-vaccine-teens-myocarditis.html">F.D.A. Is Reviewing If Moderna Vaccine Causes Heart Problems in Adolescents</a> NYT: The F.D.A. has notified Moderna that it needs more time to review the vaccine’s safety and may not deliver a decision until January. 
  <p class="updated_time"> 01:18 PM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/30/business/economy/biden-steel-tariffs-europe.html">Biden Rolls Back Trump's Metal Tariffs On European Union</a> NYT: The deal, which comes as U.S. and E.U. allies meet in Rome, will keep some trade protections in place in a nod to metalworking unions that supported President Biden. 
- <p class="updated_time"> 01:14 PM CT, Oct. 31 </p> 
- <a href="https://www.wsj.com/articles/u-s-arrests-fugitive-chinese-businessman-alleging-visa-fraud-11635718485">U.S. Arrests Fugitive Chinese Businessman, Alleging Visa Fraud</a> WSJ: Shi Jianxiang, who is wanted in China after the collapse of his fintech empire, lied about his name on visa forms, the Justice Department says. 
- <p class="updated_time"> 12:56 PM CT, Oct. 31 </p> 
- <a href="https://www.wsj.com/articles/japans-ruling-coalition-set-to-keep-majority-in-election-projection-shows-11635679065">Japan's Ruling Party Keeps Majority in Election</a> WSJ: The ruling Liberal Democratic Party won a clear majority in national elections, allowing new Prime Minister Fumio Kishida to build a solid foundation for a government tackling security threats from China and North Korea. 
- <p class="updated_time"> 12:02 PM CT, Oct. 31 </p> 
- <a href="https://www.wsj.com/articles/left-behind-after-u-s-withdrawal-some-former-afghan-spies-and-soldiers-turn-to-islamic-state-11635691605">Former Afghan Spies and Soldiers Turn to ISIS After U.S. Exit</a> WSJ: Hunted by the Taliban and lacking income, some members of Afghanistan’s disbanded security forces are enlisting in the only force currently challenging the country’s new rules. 
  <p class="updated_time"> 11:49 AM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/31/world/asia/afghanistan-taliban-artists.html">Afghan Art Flourished for 20 Years. Can It Survive the New Taliban Regime?</a> NYT: So far, the Taliban have not banned art outright. But many artists have fled Afghanistan, fearing for their work and their lives. 
  <p class="updated_time"> 10:22 AM CT, Oct. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59112729?at_medium=RSS&at_campaign=KARANGA">Tokyo knife and arson attack: The moment train passengers flee</a> BBC: Video shows people trying to escape as smoke and flames fill a carriage. 
  <p class="updated_time"> 10:06 AM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/31/us/politics/saudi-investment-conference-trump-allies.html">Trump Allies Are Prominent at Saudi Investment Conference</a> NYT: But the Biden administration sent only a deputy commerce secretary to the high-profile gathering, amid shifts in global politics and diplomatic strains. 
- <p class="updated_time"> 08:58 AM CT, Oct. 31 </p> 
- <a href="https://www.wsj.com/articles/a-nation-learns-to-love-movie-popcornwithout-the-movie-11635703138">A Nation Learns to Love Movie Popcorn---Without the Movie</a> WSJ: South Korea’s Covid-19 restrictions banned eating popcorn in theaters, so moviegoers chowed down in the lobby or had tubs delivered to their homes. Others went rogue; ‘I chewed as quietly as I could.’ 
  <p class="updated_time"> 05:51 AM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/30/world/americas/g20-summit-rome-covid-protests-biden-draghi.html">Pressure Grows on G20 Nations to Get Covid Vaccines to the Poor</a> NYT: The world’s leaders are focusing on preventing future pandemics, but experts say rich nations are not doing enough to help the poor survive the current one. 
  <p class="updated_time"> 05:50 AM CT, Oct. 31 </p> 
