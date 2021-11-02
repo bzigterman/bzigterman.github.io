@@ -44,7 +44,7 @@ permalink: /projects/news/
  <p class="updated_time"> 07:01 PM CT, Nov. 01 </p> 
  <a href="https://www.bbc.co.uk/news/business-58788040?at_medium=RSS&at_campaign=KARANGA">Why Africa urgently needs its own genetic library</a> BBC: Genetically profiling three million Africans could be key for better healthcare, argue scientists. 
  <p class="updated_time"> 06:59 PM CT, Nov. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-59128618?at_medium=RSS&at_campaign=KARANGA">COP26: Minister in wheelchair unable to attend summit</a> BBC: Karine Elharrar tweets that it is "sad" that "the UN does not provide accessibility to its events". 
+ <a href="https://www.bbc.co.uk/news/world-59128618?at_medium=RSS&at_campaign=KARANGA">COP26: Wheelchair using minister unable to attend summit</a> BBC: Karine Elharrar tweets that it is "sad" that "the UN does not provide accessibility to its events". 
  <p class="updated_time"> 06:49 PM CT, Nov. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59128875?at_medium=RSS&at_campaign=KARANGA">COP26: Was US President Biden asleep or just resting his eyes?</a> BBC: Video footage from the climate summit shows US President Joe Biden sitting with his eyes closed. 
  <p class="updated_time"> 06:38 PM CT, Nov. 01 </p> 
