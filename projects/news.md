@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:46 PM CT, Nov. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-59143494?at_medium=RSS&at_campaign=KARANGA">Cleo Smith: Missing 4-year-old found alive in Australia</a> BBC: Four-year-old Cleo Smith is found alive more than two weeks after vanishing from an Australian campsite. 
  <p class="updated_time"> 05:39 PM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/africa/nigeria-building-collapse-.html">Nigeria Building Collapse Kills at Least 5 With Many More Trapped</a> NYT: As many as 100 workers were feared trapped at a construction site in Lagos, where building collapses are common, with contractors using shoddy materials and regulations often not enforced. 
  <p class="updated_time"> 05:35 PM CT, Nov. 02 </p> 
@@ -15,8 +17,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59140788?at_medium=RSS&at_campaign=KARANGA">Two dead after seven-storey fall at Abba tribute concert</a> BBC: Around 1,000 people had gathered at the venue in Sweden before a person fell and hit two others. 
  <p class="updated_time"> 05:13 PM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/02/world/africa/ethiopia-state-of-emergency.html">Ethiopia Declares State of Emergency as Rebels Advance Toward Capital</a> NYT: In a milestone in the yearlong conflict, the government called on civilians to arm themselves and defend Addis Ababa after Tigrayan forces captured two towns nearby. 
- <p class="updated_time"> 05:13 PM CT, Nov. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-59143494?at_medium=RSS&at_campaign=KARANGA">Cleo Smith: Missing 4-year-old found alive in Australia</a> BBC: Four-year-old Cleo Smith is found alive more than two weeks after vanishing from an Australian campsite. 
  <p class="updated_time"> 04:54 PM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/02/us/politics/biden-us-leadership-cop26.html">Biden Tries to Reassert American Leadership, and His Own</a> NYT: President Biden hoped his personal style of politicking could help him build global consensus on fighting climate change. But as he has learned in Washington, charm offensives have their limits. 
  <p class="updated_time"> 04:28 PM CT, Nov. 02 </p> 
@@ -186,12 +186,14 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:44 PM CT, Nov. 02 </p> 
+ <a href="https://www.nytimes.com/2021/11/02/climate/biden-methane-climate.html">Biden Administration Moves to Limit Methane, a Potent Greenhouse Gas</a> NYT: The new rule was announced at a U.N. summit where the United States is facing skepticism about its commitment to climate change. 
+ <p class="updated_time"> 05:43 PM CT, Nov. 02 </p> 
+ <a href="https://www.politico.com/news/2021/11/02/social-spending-bill-immigration-citizenship-518606">Dems aim to squeeze immigration into social spending bill — without path to citizenship</a> Politico: There's still a distinct possibility the Senate rules referee will strike down the reform attempt Democrats are pushing into their $1.75 trillion bill. 
  <p class="updated_time"> 05:38 PM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/02/us/politics/salt-cap-tax-deduction.html">Democrats Push for Agreement on Tax Deduction That Benefits the Rich</a> NYT: Lawmakers are coalescing around a deal to suspend a $10,000 cap on state and local tax deductions that was imposed during the Trump administration. 
  <p class="updated_time"> 05:25 PM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/02/us/politics/vaccine-mandate-military.html">Military Grants Few Vaccine Exemptions as Deadlines Loom</a> NYT: The majority of active-duty troops have gotten a mandatory coronavirus vaccine ahead of deadline, with religious-based exemptions largely dismissed. 
- <p class="updated_time"> 05:17 PM CT, Nov. 02 </p> 
- <a href="https://www.nytimes.com/2021/11/02/climate/biden-methane-climate.html">Biden Administration Moves to Limit Methane, a Potent Greenhouse Gas</a> NYT: The new rule was announced at a U.N. summit where the United States is facing skepticism about its commitment to climate change. 
  <p class="updated_time"> 05:05 PM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/02/us/politics/election-results-polls-closing.html">Races to Watch on Election Day</a> NYT: The Virginia governor’s race will be closely studied for clues about the midterms, and new mayors will be chosen in New York, Boston, Buffalo, Atlanta and more. 
  <p class="updated_time"> 04:54 PM CT, Nov. 02 </p> 
