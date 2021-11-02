@@ -89,8 +89,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/01/world/americas/cop26-indigenous-txai-surui.html">From the Amazon to Glasgow: An Indigenous activist says, ‘We have no more time.’</a> NYT: Txai Suruí told world leaders at COP26 that their timetables for reducing carbon emissions and scaling back the use of fossil fuels were inadequate. 
  <p class="updated_time"> 06:57 AM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/02/world/americas/cop26-galapagos-islands.html">Ecuador Vows at COP26 to Create Marine Reserve for Galápagos Islands</a> NYT: President Guillermo Lasso said his government had agreed with Ecuador’s fishery, tourism and conservation sectors to establish a marine reserve of more than 23,000 square miles. 
- <p class="updated_time"> 06:49 AM CT, Nov. 02 </p> 
- <a href="https://www.wsj.com/articles/netflix-pulls-pine-gap-episodes-as-chinas-rivals-object-11635868179">Netflix Pulls 'Pine Gap' Episodes as China's Rivals Object</a> WSJ: The Philippines and Vietnam have taken issue with how the series portrays Beijing’s territorial claims in the South China Sea. 
  <p class="updated_time"> 06:14 AM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/02/business/squid-coin-crypto-scam.html">Squid Cryptocurrency Crashes, and Investors Lose Money</a> NYT: The digital money, called Squid, began trading last week for a penny. It soared spectacularly, before the money vanished. 
  <p class="updated_time"> 06:13 AM CT, Nov. 02 </p> 
@@ -129,8 +127,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/uk-wales-59050953?at_medium=RSS&at_campaign=KARANGA">COP26: Climate change graph 'needs more colours' as world gets hotter</a> BBC: The creator of the graphic representing world temperature said it will get "darker and darker". 
  <p class="updated_time"> 10:39 PM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/europe/what-to-watch-monday-cop26.html">What to Watch For At COP26 on Monday and Tuesday</a> NYT: Prime Minister Boris Johnson was first to welcome leaders, who will then lay out “concrete actions and credible plans.” David Attenborough and Prince Charles are also speaking. 
- <p class="updated_time"> 09:19 PM CT, Nov. 01 </p> 
- <a href="https://www.wsj.com/articles/reserve-bank-of-australia-abandons-key-stimulus-tool-11635833961">Reserve Bank of Australia Abandons Key Stimulus Tool</a> WSJ: The RBA said it would stop using yield caps and abandoned a view that its benchmark interest rate won’t rise until 2024, joining other central banks that are tightening policy as inflation risks mount. 
  <p class="updated_time"> 08:01 PM CT, Nov. 01 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59114449?at_medium=RSS&at_campaign=KARANGA">COP26: What climate summit means for one woman in Bangladesh</a> BBC: What do decisions made at a summit in Glasgow mean for a woman in a village on the front line of climate change? 
  <p class="updated_time"> 07:51 PM CT, Nov. 01 </p> 
@@ -192,6 +188,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:16 PM CT, Nov. 02 </p> 
+ <a href="https://www.nytimes.com/2021/11/02/business/economy/fed-jerome-powell-rates-inflation.html">Fed Expected to Announce Plan to Slow Bond Buying Amid Rapid Inflation</a> NYT: The Federal Reserve is expected to announce a plan to taper off its bond buying. With inflation surging, economists’ eyes are already turning to rates. 
  <p class="updated_time"> 02:14 PM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/02/books/penguin-random-house-simon-schuster-merger-lawsuit.html">Justice Dept. Sues Penguin Random House Over Simon & Schuster Deal</a> NYT: The Biden administration’s rejection of the proposed $2.18 billion publishing merger reflects a changing atmosphere in Washington toward consolidation. 
  <p class="updated_time"> 02:11 PM CT, Nov. 02 </p> 
@@ -224,8 +222,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/01/us/politics/medicaid-uninsured.html">Democrats’ Bill Would Cover Poor Uninsured Adults, Up to a Point</a> NYT: The $1.85 trillion social policy bill would provide free private health insurance for more than two million adults locked out of coverage, but only for four years. 
  <p class="updated_time"> 06:14 PM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/us/politics/manchin-endorse-framework.html">Manchin Raises Doubts on Safety Net Bill, Complicating Path to Quick Vote</a> NYT: Senator Joe Manchin III of West Virginia, a crucial Democratic swing vote, demanded more time to evaluate the economic and fiscal impact of the $1.85 trillion bill. 
- <p class="updated_time"> 04:52 PM CT, Nov. 01 </p> 
- <a href="https://www.nytimes.com/2021/11/01/us/politics/challenging-the-texas-abortion-law.html">Why is it So Hard to Challenge the Texas Abortion Law?</a> NYT: The structure of the law, which delegates enforcement authority to millions of people, means there is no obvious person whom its opponents can sue. 
  <p class="updated_time"> 04:51 PM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/us/politics/marc-hearron-abortion-supreme-court.html">Who is Marc Hearron? Attorney for Abortion Providers, Has Deep Texas Ties</a> NYT: Mr. Hearron has worked on pro bono cases involving reproductive rights and L.G.B.T.Q. rights. 
  <p class="updated_time"> 11:35 AM CT, Nov. 01 </p> 
