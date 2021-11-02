@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:09 AM CT, Nov. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-59132811?at_medium=RSS&at_campaign=KARANGA">COP26: Boris Johnson apologises to minister over wheelchair access</a> BBC: UK prime minister says sorry for "confusion" to Israeli minister who was unable to get into COP26. 
+ <p class="updated_time"> 09:56 AM CT, Nov. 02 </p> 
+ <a href="https://www.nytimes.com/2021/11/02/world/biden-cop26-climate-change-pledge.html">Biden Pledges $3 Billion to Help the World Adapt to Climate Change</a> NYT: The amount is half as much as what was recently proposed for a six-mile sea wall to protect Miami from the Atlantic Ocean. 
  <p class="updated_time"> 09:44 AM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/02/science/climate-change-archaeology.html">As Earth Warms, Human History Is Melting Away</a> NYT: Climate change is revealing long-frozen artifacts and animals to archaeologists. But the window for study is slender and shrinking. 
  <p class="updated_time"> 09:40 AM CT, Nov. 02 </p> 
@@ -25,8 +29,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/technology-59122605?at_medium=RSS&at_campaign=KARANGA">Tesla opens its chargers to other electric cars</a> BBC: A pilot scheme in the Netherlands is intended to pave the way for large-scale global expansion. 
  <p class="updated_time"> 08:40 AM CT, Nov. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59125228?at_medium=RSS&at_campaign=KARANGA">Nigeria Ikoyi building collapse: Race to find survivors</a> BBC: At least 10 people have died and many are feared trapped under rubble at the site in Lagos. 
- <p class="updated_time"> 08:31 AM CT, Nov. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-59132811?at_medium=RSS&at_campaign=KARANGA">COP26: Boris Johnson apologises to minister over wheelchair access</a> BBC: UK prime minister says sorry for "confusion" to Israeli minister who was unable to get into COP26. 
  <p class="updated_time"> 08:29 AM CT, Nov. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59133027?at_medium=RSS&at_campaign=KARANGA">China urges families to store basic supplies in case of emergency</a> BBC: The advice, amid Covid lockdowns and vegetable supply concerns, sparks some panic buying. 
  <p class="updated_time"> 08:22 AM CT, Nov. 02 </p> 
@@ -47,8 +49,12 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/02/world/americas/cop26-galapagos-islands.html">Ecuador Vows at COP26 to Create Marine Reserve for Galápagos Islands</a> NYT: President Guillermo Lasso said his government had agreed with Ecuador’s fishery, tourism and conservation sectors to establish a marine reserve of more than 23,000 square miles. 
  <p class="updated_time"> 06:13 AM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/02/world/day-2-of-the-climate-summit-should-bring-the-first-concrete-commitments.html">Day 2 of the climate summit brings the first concrete commitments.</a> NYT: The U.S. is expected to announce plans to regulate methane, a potent greenhouse gas, and there is international agreement to tackle deforestation. 
+ <p class="updated_time"> 05:49 AM CT, Nov. 02 </p> 
+ <a href="https://www.wsj.com/articles/a-rabbi-searches-for-a-congregation-in-saudi-arabia-birthplace-of-islam-11635864559">A Rabbi Searches for a Congregation in Saudi Arabia, Birthplace of Islam</a> WSJ: Jacob Herzog wants to offer religious services to Jewish expats. So far, the kingdom isn’t interested, but he’s undaunted; ‘Have to make a leap of faith.’ 
  <p class="updated_time"> 05:25 AM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/02/world/reduce-fossil-fuels-long-term-but-pump-more-now-biden-says-angering-activists.html">Reduce fossil fuels in the long term but pump more now, Biden says, angering activists.</a> NYT: NA 
+ <p class="updated_time"> 05:22 AM CT, Nov. 02 </p> 
+ <a href="https://www.wsj.com/articles/tariffs-climate-change-greenhouse-gases-manufacturing-steel-11635862305">Tariffs to Tackle Climate Change Gain Momentum. The Idea Could Reshape Industries.</a> WSJ: Wealthy nations are proposing tariffs on imports like steel and cement that result in high carbon emissions. The proposals could boost U.S. manufacturers—but could also undermine world trade rules and even trigger trade disputes. 
  <p class="updated_time"> 05:00 AM CT, Nov. 02 </p> 
  <a href="https://www.wsj.com/articles/afghanistans-main-military-hospital-hit-by-two-explosions-gunfire-11635847126">Attack on Kabul Military Hospital Leaves at Least 23 Dead</a> WSJ: The complex attack bore the hallmarks of Islamic State, which has intensified the tempo of strikes against Taliban targets and the country’s Shiite minority in recent weeks. 
  <p class="updated_time"> 04:16 AM CT, Nov. 02 </p> 
@@ -58,7 +64,7 @@ permalink: /projects/news/
  <p class="updated_time"> 03:59 AM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/europe/queen-elizabeth-cop26.html"> Queen Elizabeth Urges Climate Action in COP26 Video</a> NYT: The 95-year-old monarch gave her address by video, after doctors advised her to rest and not go to the summit. Prince Charles attended and delivered a similar message. 
  <p class="updated_time"> 03:57 AM CT, Nov. 02 </p> 
- <a href="https://www.wsj.com/articles/yahoo-pulls-out-of-china-ending-tumultuous-two-decade-relationship-11635848926">Yahoo Quits China, Ending a Rocky Two-Decade Relationship</a> WSJ: The company cited an increasingly challenging business and legal environment in the country, and is the second well-known U.S. tech firm to downsize China operations in less than a month. 
+ <a href="https://www.wsj.com/articles/yahoo-pulls-out-of-china-ending-tumultuous-two-decade-relationship-11635848926">Yahoo Quits China, Ending a Rocky Two-Decade Relationship</a> WSJ: The company cited an increasingly challenging business and legal environment in the country. It is the second well-known U.S. tech firm to downsize China operations in less than a month. 
  <p class="updated_time"> 03:50 AM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/asia/modi-india-cop26-renewable-energy.html">India Will Sharply Increase Renewable Energy, Modi Says</a> NYT: Wealthy nations need to spend $1 trillion to help developing nations like India make the transition to renewables, Prime Minister Modi said. 
  <p class="updated_time"> 03:44 AM CT, Nov. 02 </p> 
@@ -83,6 +89,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/01/world/europe/cop26-glasgow-biden-climate.html">At COP26 Summit, Urgent Pleas to Combat Global Warning</a> NYT: The opening day of a climate summit was heavy on dire warnings and light on substantive proposals as leaders in Glasgow met to discuss a warming world. 
  <p class="updated_time"> 10:39 PM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/europe/what-to-watch-monday-cop26.html">What to Watch For At COP26 on Monday and Tuesday</a> NYT: Prime Minister Boris Johnson was first to welcome leaders, who will then lay out “concrete actions and credible plans.” David Attenborough and Prince Charles are also speaking. 
+ <p class="updated_time"> 09:19 PM CT, Nov. 01 </p> 
+ <a href="https://www.wsj.com/articles/reserve-bank-of-australia-abandons-key-stimulus-tool-11635833961">Reserve Bank of Australia Abandons Key Stimulus Tool</a> WSJ: The RBA said it would stop using yield caps and abandoned a view that its benchmark interest rate won’t rise until 2024, joining other central banks that are tightening policy as inflation risks mount. 
  <p class="updated_time"> 08:01 PM CT, Nov. 01 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59114449?at_medium=RSS&at_campaign=KARANGA">COP26: What climate summit means for one woman in Bangladesh</a> BBC: What do decisions made at a summit in Glasgow mean for a woman in a village on the front line of climate change? 
  <p class="updated_time"> 07:51 PM CT, Nov. 01 </p> 
@@ -111,8 +119,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/01/world/europe/david-attenborough-cop26.html">David Attenborough Urges Leaders at COP26 Summit to ‘Rewrite Our Story’</a> NYT: “If working apart we are force powerful enough to destabilize our planet,” the naturalist said, “surely working together we are powerful enough to save it.” 
  <p class="updated_time"> 01:53 PM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/biden-emissions-cop26-glasgow.html">Biden Calls for Tougher Actions on Emissions at COP26</a> NYT: “We have only a brief window” to avoid the most disastrous effects of global warming, President Biden warned at the United Nations climate summit. 
- <p class="updated_time"> 01:37 PM CT, Nov. 01 </p> 
- <a href="https://www.wsj.com/articles/cop26-kicks-off-in-glasgow-amid-sharp-divides-over-climate-goals-11635767355">At COP26, Biden Calls for More Action on Climate as Divides Widen</a> WSJ: As U.S. president says the coming decade will be decisive for avoiding the most destructive effects of global warming, India gives slower-than-expected deadline for slashing its carbon emissions. 
  <p class="updated_time"> 01:18 PM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/europe/britain-climate-change.html">Once a Leading Polluter, the U.K. Is Now Trying to Lead on Climate Change</a> NYT: On the eve of a global climate summit, Britain’s evolution from fossil fuels to clean energy is on display. But experts question whether its commitment is sufficient, and whether it can persuade other nations to meet meaningful goals. 
  <p class="updated_time"> 01:11 PM CT, Nov. 01 </p> 
@@ -145,16 +151,12 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/31/world/europe/uk-police-sexual-misconduct.html">U.K. Police Struggle to Curb Abuse of Women by Their Own Officers</a> NYT: Sexual misconduct by police officers has prompted outrage across Britain and led to increasing skepticism that departments can investigate or discipline employees who abuse women. 
  <p class="updated_time"> 05:02 AM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/europe/climate-conference-kicks-off-in-glasgow-with-floods-and-low-expectations.html">Climate conference kicks off in Glasgow with floods and low expectations.</a> NYT: NA 
- <p class="updated_time"> 03:19 AM CT, Nov. 01 </p> 
- <a href="https://www.wsj.com/articles/some-of-the-worlds-last-covid-19-travel-holdouts-are-reopening-11635769187">Some of the World's Last Covid-19 Travel Holdouts Are Reopening</a> WSJ: Australia is allowing its citizens to travel freely into and out of the country if they are vaccinated, while Thailand began permitting vaccinated tourists from many countries to enter without requiring extended quarantines. 
  <p class="updated_time"> 03:00 AM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/michael-bloomberg-announces-an-effort-to-shut-down-coal-in-25-countries.html">Michael Bloomberg announces an effort to shut down coal in 25 countries.</a> NYT: NA 
  <p class="updated_time"> 11:23 PM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/31/world/biden-g20-covid-climate.html">Struggling at Home, Biden Is Buoyed by G20 Trip Abroad</a> NYT: A trip to Rome invigorated a president whose poll numbers are slumping at home, but who projected confidence in his foreign and domestic agenda. 
  <p class="updated_time"> 08:57 PM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/31/us/politics/guantanamo-torture-letter.html">U.S. Military Jury Condemns Terrorist’s Torture and Urges Clemency</a> NYT: Seven senior officers rebuked the government’s treatment of an admitted terrorist in a handwritten letter from the jury room at Guantánamo Bay. 
- <p class="updated_time"> 06:25 PM CT, Oct. 31 </p> 
- <a href="https://www.nytimes.com/2021/10/31/world/europe/g20-climate-temperature-rise.html">G20 Leaders Agree on 1.5-Degree Climate Goal</a> NYT: Countries will “pursue efforts” to limit global temperature rise to 1.5 degrees Celsius, compared with preindustrial times. 
  <p class="updated_time"> 05:39 PM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/31/world/americas/brazil-police-kill-25-bank-gang.html">Brazilian Police Kill 25 Accused of Planning Bank Heists</a> NYT: The police say an operation against a gang planning bank robberies killed at least 25 suspects in the Brazilian state of Minas Gerais on Sunday. 
  <p class="updated_time"> 03:11 PM CT, Oct. 31 </p> 
@@ -172,6 +174,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:54 AM CT, Nov. 02 </p> 
+ <a href="https://www.nytimes.com/2021/11/01/us/politics/youngkin-trump-mcauliffe-virginia-governor.html">As Youngkin Tries to Finesse Trump, McAuliffe Conjures His Comeback</a> NYT: Barnstorming Virginia, the candidates for governor hammered away at their core arguments. For the Republican: parents’ involvement in schools. For the Democrat: Trump redux. 
  <p class="updated_time"> 09:19 AM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/02/us/politics/election-results-polls-closing.html">Election Day 2021: What to Watch in Tuesday’s Elections</a> NYT: The Virginia governor’s race will be closely studied for clues about the midterms, and new mayors will be chosen in New York, Boston, Buffalo, Atlanta and more. 
  <p class="updated_time"> 07:24 AM CT, Nov. 02 </p> 
@@ -186,8 +190,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/01/us/linwood-holton-dead.html">Linwood Holton, 98,Virginia Governor Who Pushed for Racial Equality, Dies</a> NYT: The first Republican governor of the state in almost a century, he seemed to herald a new, post-racial South. He later became disillusioned with his own party. 
  <p class="updated_time"> 09:33 PM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/us/politics/medicaid-uninsured.html">Democrats’ Bill Would Cover Poor Uninsured Adults, Up to a Point</a> NYT: The $1.85 trillion social policy bill would provide free private health insurance for more than two million adults locked out of coverage, but only for four years. 
- <p class="updated_time"> 08:17 PM CT, Nov. 01 </p> 
- <a href="https://www.nytimes.com/2021/11/01/us/politics/youngkin-trump-mcauliffe-virginia-governor.html">As Youngkin Tries to Finesse Trump, McAuliffe Conjures His Comeback</a> NYT: Barnstorming Virginia, the candidates for governor hammered away at their core arguments. For the Republican: parents’ involvement in schools. For the Democrat: Trump redux. 
  <p class="updated_time"> 07:09 PM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/climate/biden-oil-gas-cop26.html">Even as Biden Pushes Clean Energy, He Seeks More Oil Production</a> NYT: President Biden acknowledged “it seems like an irony” that he is asking energy-rich nations to boost oil production as he implores the world to tackle climate change. 
  <p class="updated_time"> 07:07 PM CT, Nov. 01 </p> 
@@ -248,8 +250,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/10/28/biden-house-democrats-517416">Dems punt House infrastructure vote in blow to Biden agenda</a> Politico: The left is frustrated over pared-back social spending. Speaker Nancy Pelosi wanted to show momentum — but she doesn't have the votes yet. 
  <p class="updated_time"> 03:48 PM CT, Oct. 27 </p> 
  <a href="https://www.politico.com/news/2021/10/27/democrats-immigration-gambit-loses-steam-517352">Dems' last-ditch immigration gambit loses steam</a> Politico: Even if President Joe Biden can get fellow Democrats to add reform provisions to a broad social spending deal, the Senate parliamentarian can squash them. 
- <p class="updated_time"> 10:33 AM CT, Oct. 27 </p> 
- <a href="https://www.politico.com/news/2021/10/27/mark-warner-havana-syndrome-intel-517331">Warner calls lack of Havana Syndrome intel ‘very, very problematic’</a> Politico: But the Senate Intelligence Committee chair insisted lawmakers are “absolutely on top of this.” 
 
 
 </details>
