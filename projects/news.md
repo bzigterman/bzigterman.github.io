@@ -7,14 +7,16 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:25 AM CT, Nov. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/science-environment-59088498?at_medium=RSS&at_campaign=KARANGA">COP26: World leaders promise to end deforestation by 2030</a> BBC: More than 100 nations - including Brazil, Russia and Indonesia - sign COP26's first major deal. 
+ <p class="updated_time"> 05:18 AM CT, Nov. 02 </p> 
+ <a href="https://www.nytimes.com/article/tropical-storm-wanda-hurricane.html">Tropical Storm Wanda Moves Across the Atlantic</a> NYT: The storm, which was about 800 miles west of the Azores, was not expected to pose any danger to land, the National Hurricane Center said. 
+ <p class="updated_time"> 05:17 AM CT, Nov. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-59132811?at_medium=RSS&at_campaign=KARANGA">COP26: UK apologises to Israeli minister for wheelchair access problems</a> BBC: Israeli minister Karine Elharrar waited for two hours outside the Glasgow venue but couldn't get inside. 
  <p class="updated_time"> 05:08 AM CT, Nov. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59131282?at_medium=RSS&at_campaign=KARANGA">COP26: US to stop methane leaks from oil and gas wells</a> BBC: The Biden administration plans to restore tough rules curbing one of the most potent greenhouse gases. 
  <p class="updated_time"> 05:08 AM CT, Nov. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59125228?at_medium=RSS&at_campaign=KARANGA">Nigeria Ikoyi building collapse: Race to find survivors</a> BBC: Rescuers have worked through the night in Lagos, with many people feared trapped under rubble. 
- <p class="updated_time"> 04:58 AM CT, Nov. 02 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-59088498?at_medium=RSS&at_campaign=KARANGA">COP26: World leaders promise to end deforestation by 2030</a> BBC: More than 100 nations - including Brazil, Russia and Indonesia - sign COP26's first major deal. 
- <p class="updated_time"> 04:43 AM CT, Nov. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-59132811?at_medium=RSS&at_campaign=KARANGA">COP26: UK apologises to Israeli minister for wheelchair access problems</a> BBC: Israeli minister Karine Elharrar waited for two hours outside the Glasgow venue but couldn't get inside. 
  <p class="updated_time"> 04:16 AM CT, Nov. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59087189?at_medium=RSS&at_campaign=KARANGA">Spain energy crisis: Soaring bills hamper recovery from Covid</a> BBC: Spain is less connected to the international grid than other EU countries and prices are surging. 
  <p class="updated_time"> 04:00 AM CT, Nov. 02 </p> 
@@ -155,14 +157,10 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59113437?at_medium=RSS&at_campaign=KARANGA">Biden at G20: Russia and China 'didn't show up' on climate</a> BBC: US President Joe Biden addresses disappointment by some about what was agreed at the G20 ahead of COP26. 
  <p class="updated_time"> 02:08 PM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/31/world/moderna-covid-vaccine-teens-myocarditis.html">F.D.A. Is Reviewing If Moderna Vaccine Causes Heart Problems in Adolescents</a> NYT: The F.D.A. has notified Moderna that it needs more time to review the vaccine’s safety and may not deliver a decision until January. 
- <p class="updated_time"> 01:18 PM CT, Oct. 31 </p> 
- <a href="https://www.nytimes.com/2021/10/30/business/economy/biden-steel-tariffs-europe.html">Biden Rolls Back Trump's Metal Tariffs On European Union</a> NYT: The deal, which comes as U.S. and E.U. allies meet in Rome, will keep some trade protections in place in a nod to metalworking unions that supported President Biden. 
  <p class="updated_time"> 11:49 AM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/31/world/asia/afghanistan-taliban-artists.html">Afghan Art Flourished for 20 Years. Can It Survive the New Taliban Regime?</a> NYT: So far, the Taliban have not banned art outright. But many artists have fled Afghanistan, fearing for their work and their lives. 
  <p class="updated_time"> 10:06 AM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/31/us/politics/saudi-investment-conference-trump-allies.html">Trump Allies Are Prominent at Saudi Investment Conference</a> NYT: But the Biden administration sent only a deputy commerce secretary to the high-profile gathering, amid shifts in global politics and diplomatic strains. 
- <p class="updated_time"> 04:51 PM CT, Oct. 30 </p> 
- <a href="https://www.nytimes.com/2021/10/30/world/biden-communion-rome-g20.html">Biden Receives Communion at Rome Church</a> NYT: Some conservative bishops in the United States have said the president should be denied communion because of his support for abortion rights. 
 
 
 </details>
@@ -170,10 +168,10 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:24 AM CT, Nov. 02 </p> 
+ <a href="https://www.nytimes.com/2021/11/02/climate/biden-methane-climate.html">Biden Administration Moves to Limit Methane, a Potent Greenhouse Gas</a> NYT: The new rule was announced at a U.N. summit where the United States is facing skepticism about its commitment to climate change. 
  <p class="updated_time"> 03:39 AM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/01/business/stablecoins-cryptocurrency-regulation.html">Regulators Ask Congress to Create New Rules for Cryptocurrencies</a> NYT: A Treasury Department report says stablecoin issuers should operate like banks to avoid destabilizing runs that could erode financial stability. 
- <p class="updated_time"> 03:17 AM CT, Nov. 02 </p> 
- <a href="https://www.nytimes.com/2021/11/02/climate/biden-methane-climate.html">Biden Administration Moves to Limit Methane, a Potent Greenhouse Gas</a> NYT: A new rule will be announced at a U.N. summit where the United States is facing skepticism about its commitment to climate change, aides said. 
  <p class="updated_time"> 12:10 AM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/europe/cop26-glasgow-biden-climate.html">At COP26 Summit, Urgent Pleas to Combat Global Warning</a> NYT: The opening day of a climate summit was heavy on dire warnings and light on substantive proposals as leaders in Glasgow met to discuss a warming world. 
  <p class="updated_time"> 11:01 PM CT, Nov. 01 </p> 
