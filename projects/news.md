@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:50 PM CT, Nov. 02 </p> 
+ <a href="https://www.nytimes.com/2021/11/02/world/europe/climate-summit-methane-forests.html">With Methane and Forest Deals, Climate Summit Offers Hope After Gloomy Start</a> NYT: Agreements to reduce methane gas emissions and protect the world’s forests were reached Tuesday at the U.N.-sponsored meeting, as President Biden chided the leaders of Russia and China for not showing up. 
  <p class="updated_time"> 05:46 PM CT, Nov. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59143494?at_medium=RSS&at_campaign=KARANGA">Cleo Smith: Missing 4-year-old found alive in Australia</a> BBC: Four-year-old Cleo Smith is found alive more than two weeks after vanishing from an Australian campsite. 
  <p class="updated_time"> 05:39 PM CT, Nov. 02 </p> 
@@ -97,8 +99,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/01/world/americas/cop26-indigenous-txai-surui.html">From the Amazon to Glasgow: An Indigenous activist says, ‘We have no more time.’</a> NYT: Txai Suruí told world leaders at COP26 that their timetables for reducing carbon emissions and scaling back the use of fossil fuels were inadequate. 
  <p class="updated_time"> 06:57 AM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/02/world/americas/cop26-galapagos-islands.html">Ecuador Vows at COP26 to Create Marine Reserve for Galápagos Islands</a> NYT: President Guillermo Lasso said his government had agreed with Ecuador’s fishery, tourism and conservation sectors to establish a marine reserve of more than 23,000 square miles. 
- <p class="updated_time"> 06:14 AM CT, Nov. 02 </p> 
- <a href="https://www.nytimes.com/2021/11/02/business/squid-coin-crypto-scam.html">Squid Cryptocurrency Crashes, and Investors Lose Money</a> NYT: The digital money, called Squid, began trading last week for a penny. It soared spectacularly, before the money vanished. 
  <p class="updated_time"> 06:13 AM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/02/world/day-2-of-the-climate-summit-should-bring-the-first-concrete-commitments.html">Day 2 of the climate summit brings the first concrete commitments.</a> NYT: The U.S. is expected to announce plans to regulate methane, a potent greenhouse gas, and there is international agreement to tackle deforestation. 
  <p class="updated_time"> 05:49 AM CT, Nov. 02 </p> 
@@ -186,6 +186,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:57 PM CT, Nov. 02 </p> 
+ <a href="https://www.nytimes.com/2021/11/02/us/politics/prescription-drug-prices-medicare.html">Democrats Reach Deal to Control Drug Prices in Bill</a> NYT: The provision would, for the first time, allow the government to negotiate prices for some medicines covered by Medicare. 
  <p class="updated_time"> 05:44 PM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/02/climate/biden-methane-climate.html">Biden Administration Moves to Limit Methane, a Potent Greenhouse Gas</a> NYT: The new rule was announced at a U.N. summit where the United States is facing skepticism about its commitment to climate change. 
  <p class="updated_time"> 05:43 PM CT, Nov. 02 </p> 
@@ -202,8 +204,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/02/books/penguin-random-house-simon-schuster-merger-lawsuit.html">Justice Dept. Sues Penguin Random House Over Simon & Schuster Deal</a> NYT: The Biden administration’s rejection of the proposed $2.18 billion publishing merger reflects a changing atmosphere in Washington toward consolidation. 
  <p class="updated_time"> 04:06 PM CT, Nov. 02 </p> 
  <a href="https://www.politico.com/news/2021/11/02/end-of-sinema-manchin-manchema-518569">The end of Manchema</a> Politico: Once united on cutting the cost of their party's social spending bill, the centrists from West Virginia and Arizona are now going their own way. 
- <p class="updated_time"> 03:52 PM CT, Nov. 02 </p> 
- <a href="https://www.nytimes.com/2021/11/02/us/politics/prescription-drug-prices-medicare.html">Democrats Reach Deal to Control Drug Prices in Bill</a> NYT: The provision would, for the first time, allow the government to negotiate prices for some medicines covered by Medicare. 
  <p class="updated_time"> 03:25 PM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/02/business/economy/fed-jerome-powell-rates-inflation.html">Fed Expected to Announce Plan to Slow Bond Buying Amid Rapid Inflation</a> NYT: The Federal Reserve is expected to announce a plan to taper off its bond buying. With inflation surging, economists’ eyes are already turning to rates. 
  <p class="updated_time"> 03:04 PM CT, Nov. 02 </p> 
