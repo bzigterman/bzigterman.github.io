@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:29 AM CT, Nov. 02 </p> 
+ <p class="updated_time"> 01:04 AM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/02/climate/cop26-deforestation.html">Global Leaders Pledge to End Deforestation by 2030</a> NYT: The measure reflects a growing recognition of nature’s role in helping mitigate global warming. 
  <p class="updated_time"> 12:11 AM CT, Nov. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59125143?at_medium=RSS&at_campaign=KARANGA">COP26: India PM Narendra Modi pledges net zero by 2070</a> BBC: The pledge misses a key goal of the COP26 summit for all nations to commit to net zero by 2050. 
