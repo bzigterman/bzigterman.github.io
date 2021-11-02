@@ -7,10 +7,10 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:37 PM CT, Nov. 01 </p> 
+ <a href="https://www.nytimes.com/2021/11/01/world/europe/cop26-glasgow-biden-climate.html">At COP26 Summit, Urgent Pleas to Combat Global Warning</a> NYT: The opening day of a climate summit was heavy on dire warnings and light on substantive proposals as leaders in Glasgow met to discuss a warming world. 
  <p class="updated_time"> 10:57 PM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/live/2021/11/01/world/cop26-climate-change-summit">Key Moments From Day 1 of the COP26 Climate Change Summit</a> NYT: Meeting in Glasgow, Scotland, President Biden and a host of other world leaders sounded dire warnings, but hopes for breakthrough action are muted. 
- <p class="updated_time"> 10:43 PM CT, Nov. 01 </p> 
- <a href="https://www.nytimes.com/2021/11/01/world/europe/cop26-glasgow-biden-climate.html">At COP26 Summit, Urgent Pleas to Combat Global Warning</a> NYT: The opening day of a climate summit was heavy on dire warnings and light on substantive proposals as leaders in Glasgow met to discuss a warming world. 
  <p class="updated_time"> 10:39 PM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/europe/what-to-watch-monday-cop26.html">What to Watch For At COP26 on Monday and Tuesday</a> NYT: Prime Minister Boris Johnson was first to welcome leaders, who will then lay out “concrete actions and credible plans.” David Attenborough and Prince Charles are also speaking. 
  <p class="updated_time"> 10:31 PM CT, Nov. 01 </p> 
@@ -20,7 +20,7 @@ permalink: /projects/news/
  <p class="updated_time"> 08:59 PM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/queen-elizabeth-cop26.html"> Queen Elizabeth Urges Climate Action in COP26 Video</a> NYT: The 95-year-old monarch gave her address by video, after doctors advised her to rest and not go to the summit. Prince Charles attended and delivered a similar message. 
  <p class="updated_time"> 08:29 PM CT, Nov. 01 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-59088498?at_medium=RSS&at_campaign=KARANGA">COP26: World leaders promise to end deforestation by 2030</a> BBC: Some 100 nations including Brazil, Russia and Indonesia will vow to protect forests when they sign COP26's first major deal. 
+ <a href="https://www.bbc.co.uk/news/science-environment-59088498?at_medium=RSS&at_campaign=KARANGA">COP26: World leaders promise to end deforestation by 2030</a> BBC: More than 100 nations including Brazil, Russia and Indonesia will vow to protect forests when they sign COP26's first major deal. 
  <p class="updated_time"> 08:23 PM CT, Nov. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59125228?at_medium=RSS&at_campaign=KARANGA">Nigeria building collapse: Race to find survivors as dozens still missing</a> BBC: Rescue efforts continue through the night in Lagos, with many people feared trapped under rubble. 
  <p class="updated_time"> 08:01 PM CT, Nov. 01 </p> 
@@ -39,6 +39,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/01/world/john-kerry-cop26.html">John Kerry Plays Down COP26 Expectations</a> NYT: “Glasgow was never ever going to get every country joining up,” Mr. Kerry said. He’s already looking to next year to build on pledges that nations have made and push them to do more. 
  <p class="updated_time"> 07:01 PM CT, Nov. 01 </p> 
  <a href="https://www.bbc.co.uk/news/business-58788040?at_medium=RSS&at_campaign=KARANGA">Why Africa urgently needs its own genetic library</a> BBC: Genetically profiling three million Africans could be key for better healthcare, argue scientists. 
+ <p class="updated_time"> 06:59 PM CT, Nov. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-59128618?at_medium=RSS&at_campaign=KARANGA">COP26: Minister in wheelchair unable to attend summit</a> BBC: Karine Elharrar tweets that it is "sad" that "the UN does not provide accessibility to its events". 
  <p class="updated_time"> 06:49 PM CT, Nov. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59128875?at_medium=RSS&at_campaign=KARANGA">COP26: Was US President Biden asleep or just resting his eyes?</a> BBC: Video footage from the climate summit shows US President Joe Biden sitting with his eyes closed. 
  <p class="updated_time"> 06:38 PM CT, Nov. 01 </p> 
@@ -166,12 +168,12 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:37 PM CT, Nov. 01 </p> 
+ <a href="https://www.nytimes.com/2021/11/01/world/europe/cop26-glasgow-biden-climate.html">At COP26 Summit, Urgent Pleas to Combat Global Warning</a> NYT: The opening day of a climate summit was heavy on dire warnings and light on substantive proposals as leaders in Glasgow met to discuss a warming world. 
  <p class="updated_time"> 11:01 PM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/02/us/politics/election-results-polls-closing.html">What to Watch in Tuesday’s Elections: Virginia, Mayor’s Races and Policing</a> NYT: The Virginia governor’s race will be closely studied for clues about the midterms, and new mayors will be chosen in New York, Boston, Buffalo, Atlanta and more. 
  <p class="updated_time"> 10:57 PM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/us/linwood-holton-dead.html">Linwood Holton, 98,Virginia Governor Who Pushed for Racial Equality, Dies</a> NYT: The first Republican governor of the state in almost a century, he seemed to herald a new, post-racial South. He later became disillusioned with his own party. 
- <p class="updated_time"> 10:43 PM CT, Nov. 01 </p> 
- <a href="https://www.nytimes.com/2021/11/01/world/europe/cop26-glasgow-biden-climate.html">At COP26 Summit, Urgent Pleas to Combat Global Warning</a> NYT: The opening day of a climate summit was heavy on dire warnings and light on substantive proposals as leaders in Glasgow met to discuss a warming world. 
  <p class="updated_time"> 10:39 PM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/business/stablecoins-cryptocurrency-regulation.html">Regulators Ask Congress to Create New Rules for Cryptocurrencies</a> NYT: A Treasury Department report says stablecoin issuers should operate like banks to avoid destabilizing runs that could erode financial stability. 
  <p class="updated_time"> 09:33 PM CT, Nov. 01 </p> 
