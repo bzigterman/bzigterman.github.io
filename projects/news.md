@@ -7,14 +7,14 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:29 AM CT, Nov. 02 </p> 
+ <a href="https://www.nytimes.com/2021/11/02/climate/cop26-deforestation.html">Global Leaders Pledge to End Deforestation by 2030</a> NYT: The measure reflects a growing recognition of nature’s role in helping mitigate global warming. 
  <p class="updated_time"> 12:11 AM CT, Nov. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59125143?at_medium=RSS&at_campaign=KARANGA">COP26: India PM Narendra Modi pledges net zero by 2070</a> BBC: The pledge misses a key goal of the COP26 summit for all nations to commit to net zero by 2050. 
  <p class="updated_time"> 12:10 AM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/europe/cop26-glasgow-biden-climate.html">At COP26 Summit, Urgent Pleas to Combat Global Warning</a> NYT: The opening day of a climate summit was heavy on dire warnings and light on substantive proposals as leaders in Glasgow met to discuss a warming world. 
  <p class="updated_time"> 11:51 PM CT, Nov. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59129894?at_medium=RSS&at_campaign=KARANGA">Nicaragua accused of running internet troll farm</a> BBC: Facebook parent firm Meta removes hundreds of fake accounts said to be part of a disinformation campaign. 
- <p class="updated_time"> 11:46 PM CT, Nov. 01 </p> 
- <a href="https://www.nytimes.com/2021/11/02/climate/cop26-deforestation.html">Global Leaders Pledge to End Deforestation by 2030</a> NYT: Brazil, China and the United States are among the signatories to a declaration that seeks to preserve critical forests that can absorb carbon dioxide and slow the rise in global warming. 
  <p class="updated_time"> 10:57 PM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/live/2021/11/01/world/cop26-climate-change-summit">Key Moments From Day 1 of the COP26 Climate Change Summit</a> NYT: Meeting in Glasgow, Scotland, President Biden and a host of other world leaders sounded dire warnings, but hopes for breakthrough action are muted. 
  <p class="updated_time"> 10:39 PM CT, Nov. 01 </p> 
