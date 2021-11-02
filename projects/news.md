@@ -7,12 +7,14 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:46 AM CT, Nov. 02 </p> 
+ <p class="updated_time"> 05:08 AM CT, Nov. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59131282?at_medium=RSS&at_campaign=KARANGA">COP26: US to stop methane leaks from oil and gas wells</a> BBC: The Biden administration plans to restore tough rules curbing one of the most potent greenhouse gases. 
+ <p class="updated_time"> 05:08 AM CT, Nov. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59125228?at_medium=RSS&at_campaign=KARANGA">Nigeria Ikoyi building collapse: Race to find survivors</a> BBC: Rescuers have worked through the night in Lagos, with many people feared trapped under rubble. 
+ <p class="updated_time"> 04:58 AM CT, Nov. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/science-environment-59088498?at_medium=RSS&at_campaign=KARANGA">COP26: World leaders promise to end deforestation by 2030</a> BBC: More than 100 nations - including Brazil, Russia and Indonesia - sign COP26's first major deal. 
  <p class="updated_time"> 04:43 AM CT, Nov. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-59132811?at_medium=RSS&at_campaign=KARANGA">COP26: UK apologises to Israeli minister for wheelchair access problems</a> BBC: Israeli minister Karine Elharrar waited for two hours outside the Glasgow venue but couldn't get inside. 
- <p class="updated_time"> 04:20 AM CT, Nov. 02 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-59088498?at_medium=RSS&at_campaign=KARANGA">COP26: World leaders promise to end deforestation by 2030</a> BBC: More than 100 nations including Brazil, Russia and Indonesia are expected to sign COP26's first major deal. 
  <p class="updated_time"> 04:16 AM CT, Nov. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59087189?at_medium=RSS&at_campaign=KARANGA">Spain energy crisis: Soaring bills hamper recovery from Covid</a> BBC: Spain is less connected to the international grid than other EU countries and prices are surging. 
  <p class="updated_time"> 04:00 AM CT, Nov. 02 </p> 
@@ -27,8 +29,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/02/climate/cop26-deforestation.html">Global Leaders Pledge to End Deforestation by 2030</a> NYT: The measure reflects a growing recognition of nature’s role in helping mitigate global warming. 
  <p class="updated_time"> 03:01 AM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/europe/cop26-global-leaders-attending.html">Who Is Attending the COP26 Climate Summit, and Who Isn't</a> NYT: The presence of heads of state and government is not just symbolic. Real work gets done among leaders that cannot happen among lower-level diplomats. 
- <p class="updated_time"> 02:42 AM CT, Nov. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59125228?at_medium=RSS&at_campaign=KARANGA">Nigeria building collapse: Race to find survivors as dozens still missing</a> BBC: Rescuers have worked through the night in Lagos, with many people feared trapped under rubble. 
  <p class="updated_time"> 02:24 AM CT, Nov. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59128683?at_medium=RSS&at_campaign=KARANGA">COP26 Bangladesh: If tidal surges destroy our house, where will we go?</a> BBC: How villagers in Bangladesh's coastal areas are struggling with the impact of climate change. 
  <p class="updated_time"> 02:00 AM CT, Nov. 02 </p> 
