@@ -7,14 +7,16 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:51 PM CT, Nov. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-59129894?at_medium=RSS&at_campaign=KARANGA">Nicaragua accused of running internet troll farm</a> BBC: Facebook parent firm Meta removes hundreds of fake accounts said to be part of a disinformation campaign. 
+ <p class="updated_time"> 11:46 PM CT, Nov. 01 </p> 
+ <a href="https://www.nytimes.com/2021/11/02/climate/cop26-deforestation.html">Global Leaders Pledge to End Deforestation by 2030</a> NYT: Brazil, China and the United States are among the signatories to a declaration that seeks to preserve critical forests that can absorb carbon dioxide and slow the rise in global warming. 
  <p class="updated_time"> 11:37 PM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/europe/cop26-glasgow-biden-climate.html">At COP26 Summit, Urgent Pleas to Combat Global Warning</a> NYT: The opening day of a climate summit was heavy on dire warnings and light on substantive proposals as leaders in Glasgow met to discuss a warming world. 
  <p class="updated_time"> 10:57 PM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/live/2021/11/01/world/cop26-climate-change-summit">Key Moments From Day 1 of the COP26 Climate Change Summit</a> NYT: Meeting in Glasgow, Scotland, President Biden and a host of other world leaders sounded dire warnings, but hopes for breakthrough action are muted. 
  <p class="updated_time"> 10:39 PM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/europe/what-to-watch-monday-cop26.html">What to Watch For At COP26 on Monday and Tuesday</a> NYT: Prime Minister Boris Johnson was first to welcome leaders, who will then lay out “concrete actions and credible plans.” David Attenborough and Prince Charles are also speaking. 
- <p class="updated_time"> 10:31 PM CT, Nov. 01 </p> 
- <a href="https://www.nytimes.com/2021/11/02/climate/cop26-deforestation.html">Global Leaders Pledge to End Deforestation by 2030</a> NYT: Brazil, China and the United States are among the signatories to a declaration that seeks to preserve critical forests that can absorb carbon dioxide and slow the rise in global warming. 
  <p class="updated_time"> 09:05 PM CT, Nov. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59129048?at_medium=RSS&at_campaign=KARANGA">Scott Morrison: Australian PM rejects 'sledging' from France amid row</a> BBC: Scott Morrison was accused by Emmanuel Macron of lying about plans to scrap a submarine deal. 
  <p class="updated_time"> 08:59 PM CT, Nov. 01 </p> 
@@ -97,8 +99,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/01/world/middleeast/egypt-security-military.html">Egypt Poised to Expand Security Powers of President and Military</a> NYT: Amendments to a terrorism law will strengthen the grip of the government, just days after it appeared to loosen up by lifting a state of emergency. 
  <p class="updated_time"> 10:05 AM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/europe/cop26-global-leaders-attending.html">Who Is Attending the COP26 Climate Summit, and Who Isn't</a> NYT: The presence of heads of state and government is not just symbolic. Real work gets done among leaders that cannot happen among lower-level diplomats. 
- <p class="updated_time"> 09:58 AM CT, Nov. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-59119731?at_medium=RSS&at_campaign=KARANGA">Covid-19 deaths pass five million worldwide</a> BBC: Vaccines have slowed the death rate, but officials warn of worrying rises in some countries. 
  <p class="updated_time"> 09:27 AM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/asia/pakistan-protests-negotiations-tlp.html">After Violent Standoff, Pakistan Strikes Deal With Banned Islamist Group</a> NYT: The pact, announced Sunday, defused a crisis that had paralyzed several cities, but it also highlighted the government’s struggle to assert itself against religious extremists. 
  <p class="updated_time"> 09:16 AM CT, Nov. 01 </p> 
