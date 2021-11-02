@@ -7,8 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:11 PM CT, Nov. 02 </p> 
- <a href="https://www.nytimes.com/2021/11/02/world/middleeast/palestinian-jerusalem-eviction-jarrah.html">Palestinian Families Reject Deal in Area That Set Off Gaza Conflict</a> NYT: The threatened evictions of Palestinian residents of the Sheikh Jarrah neighborhood of East Jerusalem led to a war in Gaza last May. 
+ <p class="updated_time"> 02:43 PM CT, Nov. 02 </p> 
+ <a href="https://www.nytimes.com/2021/11/02/world/middleeast/palestinian-jerusalem-eviction-jarrah.html">Palestinian Families Reject Deal in Area That Helped Set Off Gaza Conflict</a> NYT: The threatened evictions of Palestinian residents of the Sheikh Jarrah neighborhood of East Jerusalem led to a war in Gaza last May. 
  <p class="updated_time"> 01:43 PM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/02/world/americas/brazil-climate.html">Once a Climate Leader, Brazil Falls Short in Glasgow</a> NYT: The country’s proposals show a desire to burnish its image, but President Jair Bolsonaro’s record and his absence from the summit cast doubt on its commitment to reversing course. 
  <p class="updated_time"> 01:42 PM CT, Nov. 02 </p> 
@@ -186,6 +186,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:40 PM CT, Nov. 02 </p> 
+ <a href="https://www.politico.com/news/2021/11/02/congress-standstill-shutdown-debt-518567">Congress hits ‘standstill’ as December shutdown, debt cliff near</a> Politico: "There should be a motto around here: ‘Why do today what we can do tomorrow?’ It's ridiculous," said Sen. Jon Tester. 
  <p class="updated_time"> 02:33 PM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/02/books/penguin-random-house-simon-schuster-merger-lawsuit.html">Justice Dept. Sues Penguin Random House Over Simon & Schuster Deal</a> NYT: The Biden administration’s rejection of the proposed $2.18 billion publishing merger reflects a changing atmosphere in Washington toward consolidation. 
  <p class="updated_time"> 02:29 PM CT, Nov. 02 </p> 
