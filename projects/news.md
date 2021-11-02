@@ -7,6 +7,14 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:19 AM CT, Nov. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59125228?at_medium=RSS&at_campaign=KARANGA">Nigeria Ikoyi building collapse: Race to find survivors</a> BBC: At least 10 people have died and many are feared trapped under rubble at the site in Lagos. 
+ <p class="updated_time"> 11:10 AM CT, Nov. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59134431?at_medium=RSS&at_campaign=KARANGA">Ethiopia's Tigray crisis: Citizens urged to defend Addis Ababa against rebels</a> BBC: Addis Ababa residents are told to register weapons and protect their areas as rebels advance. 
+ <p class="updated_time"> 11:03 AM CT, Nov. 02 </p> 
+ <a href="https://www.nytimes.com/2021/11/02/world/john-kerry-climate-aid-cop26.html">John Kerry Says $100 Billion in Climate Aid Per Year Is Within Reach</a> NYT: John Kerry, the American special climate envoy, said the United States had rejoined the a coalition of countries pushing for more aggressive action. 
+ <p class="updated_time"> 10:45 AM CT, Nov. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59133079?at_medium=RSS&at_campaign=KARANGA">Ex-Fifa president Blatter and ex-Uefa boss Platini charged with fraud</a> BBC: The former football officials now face trial after an investigation into a controversial payment. 
  <p class="updated_time"> 10:28 AM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/02/world/europe/cop26-jeff-bezos-climate.html">Jeff Bezos Makes $2 Billion Environmental Pledge at COP26 Summit</a> NYT: The billionaire called the loss of Earth’s forests “a profound and urgent danger to us all.” 
  <p class="updated_time"> 10:21 AM CT, Nov. 02 </p> 
@@ -25,8 +33,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/science-environment-59131945?at_medium=RSS&at_campaign=KARANGA">COP26: Joe Biden says methane reduction pledge will make 'huge difference'</a> BBC: More than 80 countries at the COP26 summit have pledged to cut methane emissions by 30% by 2030. 
  <p class="updated_time"> 09:40 AM CT, Nov. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59133026?at_medium=RSS&at_campaign=KARANGA">More than 20 killed in attack on Kabul military hospital</a> BBC: There were two explosions and gunfire at the site of the Sardar Daud Khan military hospital. 
- <p class="updated_time"> 09:39 AM CT, Nov. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59134431?at_medium=RSS&at_campaign=KARANGA">Ethiopia's Tigray crisis: Citizens urged to defend Addis Ababa against rebels</a> BBC: Addis Ababa residents are told to register weapons and protect their areas as rebels advance. 
  <p class="updated_time"> 09:33 AM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/02/world/asia/afghanistan-kabul-hospital-attack.html">Dozens Killed in Attack on Military Hospital in Afghanistan’s Capital</a> NYT: No group has claimed responsibility for the violence, but the Islamic State has struck more often since the fall of the U.S.-backed government in August. 
  <p class="updated_time"> 09:24 AM CT, Nov. 02 </p> 
@@ -35,8 +41,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/business-59132104?at_medium=RSS&at_campaign=KARANGA">COP26: Bezos pledges $2bn for restoring nature</a> BBC: Amazon founder Jeff Bezos tells the COP26 climate meeting he was inspired by his recent space trip. 
  <p class="updated_time"> 08:52 AM CT, Nov. 02 </p> 
  <a href="https://www.bbc.co.uk/news/technology-59122605?at_medium=RSS&at_campaign=KARANGA">Tesla opens its chargers to other electric cars</a> BBC: A pilot scheme in the Netherlands is intended to pave the way for large-scale global expansion. 
- <p class="updated_time"> 08:40 AM CT, Nov. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59125228?at_medium=RSS&at_campaign=KARANGA">Nigeria Ikoyi building collapse: Race to find survivors</a> BBC: At least 10 people have died and many are feared trapped under rubble at the site in Lagos. 
  <p class="updated_time"> 08:29 AM CT, Nov. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59133027?at_medium=RSS&at_campaign=KARANGA">China urges families to store basic supplies in case of emergency</a> BBC: The advice, amid Covid lockdowns and vegetable supply concerns, sparks some panic buying. 
  <p class="updated_time"> 08:22 AM CT, Nov. 02 </p> 
@@ -109,8 +113,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/01/world/john-kerry-cop26.html">John Kerry Plays Down COP26 Expectations</a> NYT: “Glasgow was never ever going to get every country joining up,” Mr. Kerry said. He’s already looking to next year to build on pledges that nations have made and push them to do more. 
  <p class="updated_time"> 07:01 PM CT, Nov. 01 </p> 
  <a href="https://www.bbc.co.uk/news/business-58788040?at_medium=RSS&at_campaign=KARANGA">Why Africa urgently needs its own genetic library</a> BBC: Genetically profiling three million Africans could be key for better healthcare, argue scientists. 
- <p class="updated_time"> 06:49 PM CT, Nov. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59128875?at_medium=RSS&at_campaign=KARANGA">COP26: Was US President Biden asleep or just resting his eyes?</a> BBC: Video footage from the climate summit shows US President Joe Biden sitting with his eyes closed. 
  <p class="updated_time"> 06:38 PM CT, Nov. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59071864?at_medium=RSS&at_campaign=KARANGA">Virginia election: A tight race for the governor's mansion</a> BBC: The close gubernatorial battle in this key state is being seen as a referendum on the Biden presidency. 
  <p class="updated_time"> 06:14 PM CT, Nov. 01 </p> 
