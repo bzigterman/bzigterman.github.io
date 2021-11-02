@@ -7,12 +7,14 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:28 PM CT, Nov. 02 </p> 
+ <a href="https://www.nytimes.com/2021/11/02/world/asia/afghanistan-kabul-hospital-attack.html">Dozens Killed in ISIS Attack on Military Hospital in Afghanistan’s Capital</a> NYT: The fall of the Western-backed government in August and the Taliban takeover of the country have been followed by an increase in Islamic State attacks across Afghanistan. 
  <p class="updated_time"> 04:24 PM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/02/world/africa/nigeria-lagos-building-collapse.html">Building in Nigeria Had ‘Abnormalities’ Before Collapse</a> NYT: At least 20 people were killed when the high-rise in an upscale neighborhood in the commercial capital of Lagos crumbled on Monday afternoon. 
  <p class="updated_time"> 04:19 PM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/02/science/climate-change-archaeology.html">As Earth Warms, Old Mayhem and Secrets Emerge From the Ice</a> NYT: Climate change is revealing long-frozen artifacts and animals to archaeologists. But the window for study is slender and shrinking. 
  <p class="updated_time"> 03:51 PM CT, Nov. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59133026?at_medium=RSS&at_campaign=KARANGA">More than 20 killed in attack on Kabul military hospital</a> BBC: The Islamic State affiliate IS-K claims responsibility for the Sardar Daud Khan hospital attack. 
+ <a href="https://www.bbc.co.uk/news/world-asia-59133026?at_medium=RSS&at_campaign=KARANGA">More than 20 killed in attack on Kabul military hospital</a> BBC: The Islamic State affiliate IS-K says it carried out the Sardar Daud Khan hospital attack. 
  <p class="updated_time"> 03:49 PM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/02/us/politics/biden-us-leadership-cop26.html">Biden Tries to Reassert American Leadership, and His Own</a> NYT: President Biden hoped his personal style of politicking could help him build global consensus on fighting climate change. But as he has learned in Washington, charm offensives have their limits. 
  <p class="updated_time"> 03:45 PM CT, Nov. 02 </p> 
@@ -51,8 +53,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59130948?at_medium=RSS&at_campaign=KARANGA">Polish abortion law protests over woman's hospital death</a> BBC: A family's lawyer links the death of a 30-year-old mother to tighter abortion laws. 
  <p class="updated_time"> 12:25 PM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/02/world/asia/china-slander-law.html">China Makes It a Crime to Mock Country's Heroes</a> NYT: Under a new law, China has zealously prosecuted even the perceived slander of Communist figures, broadening Xi Jinping’s campaign to dominate party orthodoxy. 
- <p class="updated_time"> 12:18 PM CT, Nov. 02 </p> 
- <a href="https://www.nytimes.com/2021/11/02/world/asia/afghanistan-kabul-hospital-attack.html">Dozens Killed in Attack on Military Hospital in Afghanistan’s Capital</a> NYT: No group has claimed responsibility for the violence, but the Islamic State has struck more often since the fall of the U.S.-backed government in August. 
  <p class="updated_time"> 12:16 PM CT, Nov. 02 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-58925049?at_medium=RSS&at_campaign=KARANGA">COP26: Should there be limits on meat eating? And more questions</a> BBC: BBC correspondents answer your questions about Glasgow's COP26 climate summit. 
  <p class="updated_time"> 12:13 PM CT, Nov. 02 </p> 
