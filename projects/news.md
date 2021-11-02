@@ -7,20 +7,28 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:28 AM CT, Nov. 02 </p> 
+ <a href="https://www.nytimes.com/2021/11/02/world/europe/cop26-jeff-bezos-climate.html">Jeff Bezos Makes $2 Billion Environmental Pledge at COP26 Summit</a> NYT: The billionaire called the loss of Earth’s forests “a profound and urgent danger to us all.” 
+ <p class="updated_time"> 10:21 AM CT, Nov. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/science-environment-59088498?at_medium=RSS&at_campaign=KARANGA">COP26: World leaders promise to end deforestation by 2030</a> BBC: More than 100 nations - including Brazil, Russia and Indonesia - sign COP26's first major deal. 
+ <p class="updated_time"> 10:20 AM CT, Nov. 02 </p> 
+ <a href="https://www.nytimes.com/2021/11/02/world/asia/china-slander-law.html">China Makes It a Crime to Mock Country's Heroes</a> NYT: Under a new law, China has zealously prosecuted even the perceived slander of Communist figures, broadening Xi Jinping’s campaign to dominate party orthodoxy. 
+ <p class="updated_time"> 10:20 AM CT, Nov. 02 </p> 
+ <a href="https://www.nytimes.com/2021/11/02/world/europe/deforestation-climate-change.html">Fossil Fuel Spending Far Outstrips COP26's Funding for Forests</a> NYT: As the world stares down the barrel of climate catastrophe and a worsening biodiversity crisis, the forests that are remain are crucial. 
  <p class="updated_time"> 10:09 AM CT, Nov. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-59132811?at_medium=RSS&at_campaign=KARANGA">COP26: Boris Johnson apologises to minister over wheelchair access</a> BBC: UK prime minister says sorry for "confusion" to Israeli minister who was unable to get into COP26. 
  <p class="updated_time"> 09:56 AM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/02/world/biden-cop26-climate-change-pledge.html">Biden Pledges $3 Billion to Help the World Adapt to Climate Change</a> NYT: The amount is half as much as what was recently proposed for a six-mile sea wall to protect Miami from the Atlantic Ocean. 
  <p class="updated_time"> 09:44 AM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/02/science/climate-change-archaeology.html">As Earth Warms, Human History Is Melting Away</a> NYT: Climate change is revealing long-frozen artifacts and animals to archaeologists. But the window for study is slender and shrinking. 
+ <p class="updated_time"> 09:44 AM CT, Nov. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/science-environment-59131945?at_medium=RSS&at_campaign=KARANGA">COP26: Joe Biden says methane reduction pledge will make 'huge difference'</a> BBC: More than 80 countries at the COP26 summit have pledged to cut methane emissions by 30% by 2030. 
  <p class="updated_time"> 09:40 AM CT, Nov. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59133026?at_medium=RSS&at_campaign=KARANGA">More than 20 killed in attack on Kabul military hospital</a> BBC: There were two explosions and gunfire at the site of the Sardar Daud Khan military hospital. 
  <p class="updated_time"> 09:39 AM CT, Nov. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59134431?at_medium=RSS&at_campaign=KARANGA">Ethiopia's Tigray crisis: Citizens urged to defend Addis Ababa against rebels</a> BBC: Addis Ababa residents are told to register weapons and protect their areas as rebels advance. 
  <p class="updated_time"> 09:33 AM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/02/world/asia/afghanistan-kabul-hospital-attack.html">Dozens Killed in Attack on Military Hospital in Afghanistan’s Capital</a> NYT: No group has claimed responsibility for the violence, but the Islamic State has struck more often since the fall of the U.S.-backed government in August. 
- <p class="updated_time"> 09:32 AM CT, Nov. 02 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-59088498?at_medium=RSS&at_campaign=KARANGA">COP26: World leaders promise to end deforestation by 2030</a> BBC: More than 100 nations - including Brazil, Russia and Indonesia - sign COP26's first major deal. 
  <p class="updated_time"> 09:24 AM CT, Nov. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-59137828?at_medium=RSS&at_campaign=KARANGA">COP26: US and EU announce global pledge to slash methane</a> BBC: The Global Methane Pledge aims to cut methane emissions by 30% by 2030, compared with 2020 levels. 
  <p class="updated_time"> 09:24 AM CT, Nov. 02 </p> 
@@ -33,8 +41,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-china-59133027?at_medium=RSS&at_campaign=KARANGA">China urges families to store basic supplies in case of emergency</a> BBC: The advice, amid Covid lockdowns and vegetable supply concerns, sparks some panic buying. 
  <p class="updated_time"> 08:22 AM CT, Nov. 02 </p> 
  <a href="https://www.bbc.co.uk/news/technology-59136937?at_medium=RSS&at_campaign=KARANGA">Yahoo pulls out of China over 'challenging' business conditions</a> BBC: The US giant follows other Western tech firms out of a country that is tightening its regulations. 
- <p class="updated_time"> 08:19 AM CT, Nov. 02 </p> 
- <a href="https://www.nytimes.com/2021/11/02/world/europe/cop26-jeff-bezos-climate.html">Jeff Bezos Makes $2 Billion Environmental Pledge at COP26 Summit</a> NYT: The billionaire called the loss of Earth’s forests “a profound and urgent danger to us all.” 
  <p class="updated_time"> 08:18 AM CT, Nov. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59133076?at_medium=RSS&at_campaign=KARANGA">Why Syrians face deportation from Turkey over banana jokes</a> BBC: Turkish authorities accuse some Syrians of "inciting hatred" for eating bananas. Here's why. 
  <p class="updated_time"> 08:15 AM CT, Nov. 02 </p> 
@@ -59,8 +65,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/afghanistans-main-military-hospital-hit-by-two-explosions-gunfire-11635847126">Attack on Kabul Military Hospital Leaves at Least 23 Dead</a> WSJ: The complex attack bore the hallmarks of Islamic State, which has intensified the tempo of strikes against Taliban targets and the country’s Shiite minority in recent weeks. 
  <p class="updated_time"> 04:16 AM CT, Nov. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59087189?at_medium=RSS&at_campaign=KARANGA">Spain energy crisis: Soaring bills hamper recovery from Covid</a> BBC: Spain is less connected to the international grid than other EU countries and prices are surging. 
- <p class="updated_time"> 04:00 AM CT, Nov. 02 </p> 
- <a href="https://www.nytimes.com/2021/11/02/world/asia/china-slander-law.html">China Makes It a Crime to Mock Country's Heroes</a> NYT: Under a new law, China has zealously prosecuted even the perceived slander of Communist figures, broadening Xi Jinping’s campaign to dominate party orthodoxy. 
  <p class="updated_time"> 03:59 AM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/europe/queen-elizabeth-cop26.html"> Queen Elizabeth Urges Climate Action in COP26 Video</a> NYT: The 95-year-old monarch gave her address by video, after doctors advised her to rest and not go to the summit. Prince Charles attended and delivered a similar message. 
  <p class="updated_time"> 03:57 AM CT, Nov. 02 </p> 
@@ -161,12 +165,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/31/world/americas/brazil-police-kill-25-bank-gang.html">Brazilian Police Kill 25 Accused of Planning Bank Heists</a> NYT: The police say an operation against a gang planning bank robberies killed at least 25 suspects in the Brazilian state of Minas Gerais on Sunday. 
  <p class="updated_time"> 03:11 PM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/31/climate/g20-coal.html">G20 Nations Agree to New Limits on Coal-Burning Power Plants</a> NYT: The world’s largest economies will stop financing coal plants abroad, though that falls far short of what’s needed to fight climate change, raising fears of half-steps at this week’s U.N. summit. 
- <p class="updated_time"> 03:08 PM CT, Oct. 31 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59113437?at_medium=RSS&at_campaign=KARANGA">Biden at G20: Russia and China 'didn't show up' on climate</a> BBC: US President Joe Biden addresses disappointment by some about what was agreed at the G20 ahead of COP26. 
  <p class="updated_time"> 02:08 PM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/31/world/moderna-covid-vaccine-teens-myocarditis.html">F.D.A. Is Reviewing If Moderna Vaccine Causes Heart Problems in Adolescents</a> NYT: The F.D.A. has notified Moderna that it needs more time to review the vaccine’s safety and may not deliver a decision until January. 
- <p class="updated_time"> 11:49 AM CT, Oct. 31 </p> 
- <a href="https://www.nytimes.com/2021/10/31/world/asia/afghanistan-taliban-artists.html">Afghan Art Flourished for 20 Years. Can It Survive the New Taliban Regime?</a> NYT: So far, the Taliban have not banned art outright. But many artists have fled Afghanistan, fearing for their work and their lives. 
 
 
 </details>
@@ -174,12 +174,14 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:27 AM CT, Nov. 02 </p> 
+ <a href="https://www.nytimes.com/2021/11/02/books/penguin-random-house-simon-schuster-merger-lawsuit.html">Justice Dept. Sues Penguin Random House Over Simon & Schuster Deal</a> NYT: The Biden administration’s rejection of the proposed publishing merger reflects a changing atmosphere in Washington toward consolidation. 
+ <p class="updated_time"> 10:24 AM CT, Nov. 02 </p> 
+ <a href="https://www.nytimes.com/2021/11/02/climate/biden-methane-climate.html">Biden Administration Moves to Limit Methane, a Potent Greenhouse Gas</a> NYT: The new rule was announced at a U.N. summit where the United States is facing skepticism about its commitment to climate change. 
  <p class="updated_time"> 09:54 AM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/01/us/politics/youngkin-trump-mcauliffe-virginia-governor.html">As Youngkin Tries to Finesse Trump, McAuliffe Conjures His Comeback</a> NYT: Barnstorming Virginia, the candidates for governor hammered away at their core arguments. For the Republican: parents’ involvement in schools. For the Democrat: Trump redux. 
  <p class="updated_time"> 09:19 AM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/02/us/politics/election-results-polls-closing.html">Election Day 2021: What to Watch in Tuesday’s Elections</a> NYT: The Virginia governor’s race will be closely studied for clues about the midterms, and new mayors will be chosen in New York, Boston, Buffalo, Atlanta and more. 
- <p class="updated_time"> 07:24 AM CT, Nov. 02 </p> 
- <a href="https://www.nytimes.com/2021/11/02/climate/biden-methane-climate.html">Biden Administration Moves to Limit Methane, a Potent Greenhouse Gas</a> NYT: The new rule was announced at a U.N. summit where the United States is facing skepticism about its commitment to climate change. 
  <p class="updated_time"> 06:59 AM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/01/us/politics/pfizer-children-covid-vaccine.html">Pfizer Pediatric Vaccination Program to Be ‘at Full Strength’ Next Week, White House Says</a> NYT: “We are planning on some vaccinations towards the end of this week,” said Jeffrey D. Zients, a top White House official, adding that the government will deliver a total of 15 million doses “across the next week or so.” 
  <p class="updated_time"> 03:39 AM CT, Nov. 02 </p> 
@@ -192,8 +194,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/01/us/politics/medicaid-uninsured.html">Democrats’ Bill Would Cover Poor Uninsured Adults, Up to a Point</a> NYT: The $1.85 trillion social policy bill would provide free private health insurance for more than two million adults locked out of coverage, but only for four years. 
  <p class="updated_time"> 07:09 PM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/climate/biden-oil-gas-cop26.html">Even as Biden Pushes Clean Energy, He Seeks More Oil Production</a> NYT: President Biden acknowledged “it seems like an irony” that he is asking energy-rich nations to boost oil production as he implores the world to tackle climate change. 
- <p class="updated_time"> 07:07 PM CT, Nov. 01 </p> 
- <a href="https://www.nytimes.com/2021/11/01/us/politics/texas-abortion-law-supreme-court.html">Supreme Court Hints That It May Allow Challenge to Texas Abortion Law</a> NYT: In two arguments on Monday, the justices considered challenges from abortion providers and the Biden administration to a law that bans abortions after about six weeks. 
  <p class="updated_time"> 06:14 PM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/us/politics/manchin-endorse-framework.html">Manchin Raises Doubts on Safety Net Bill, Complicating Path to Quick Vote</a> NYT: Senator Joe Manchin III of West Virginia, a crucial Democratic swing vote, demanded more time to evaluate the economic and fiscal impact of the $1.85 trillion bill. 
  <p class="updated_time"> 04:52 PM CT, Nov. 01 </p> 
