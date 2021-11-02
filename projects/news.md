@@ -7,6 +7,12 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:39 PM CT, Nov. 02 </p> 
+ <a href="https://www.nytimes.com/2021/11/01/world/africa/nigeria-building-collapse-.html">Nigeria Building Collapse Kills at Least 5 With Many More Trapped</a> NYT: As many as 100 workers were feared trapped at a construction site in Lagos, where building collapses are common, with contractors using shoddy materials and regulations often not enforced. 
+ <p class="updated_time"> 05:35 PM CT, Nov. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-59138578?at_medium=RSS&at_campaign=KARANGA">COP26: Biden attacks China and Russia leaders for missing summit</a> BBC: The US president calls the Chinese leader's absence from the Glasgow summit a "big mistake". 
+ <p class="updated_time"> 05:33 PM CT, Nov. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59140788?at_medium=RSS&at_campaign=KARANGA">Two dead after seven-storey fall at Abba tribute concert</a> BBC: Around 1,000 people had gathered at the venue in Sweden before a person fell and hit two others. 
  <p class="updated_time"> 05:13 PM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/02/world/africa/ethiopia-state-of-emergency.html">Ethiopia Declares State of Emergency as Rebels Advance Toward Capital</a> NYT: In a milestone in the yearlong conflict, the government called on civilians to arm themselves and defend Addis Ababa after Tigrayan forces captured two towns nearby. 
  <p class="updated_time"> 05:13 PM CT, Nov. 02 </p> 
@@ -23,8 +29,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59133026?at_medium=RSS&at_campaign=KARANGA">More than 20 killed in attack on Kabul military hospital</a> BBC: The Islamic State affiliate IS-K says it carried out the Sardar Daud Khan hospital attack. 
  <p class="updated_time"> 03:45 PM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/02/world/americas/brazil-climate.html">Once a Climate Leader, Brazil Falls Short in Glasgow</a> NYT: The country’s proposals show a desire to burnish its image, but President Jair Bolsonaro’s record and his absence from the summit cast doubt on its commitment to reversing course. 
- <p class="updated_time"> 03:35 PM CT, Nov. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-59138578?at_medium=RSS&at_campaign=KARANGA">COP26: Biden attacks China and Russia leaders for missing summit</a> BBC: The US president calls the Chinese leader's absence from the Glasgow summit a "big mistake". 
  <p class="updated_time"> 03:06 PM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/02/world/europe/cop26-jeff-bezos-climate.html">Jeff Bezos Makes $2 Billion Environmental Pledge at COP26 Summit</a> NYT: The billionaire called the loss of Earth’s forests “a profound and urgent danger to us all.” 
  <p class="updated_time"> 02:56 PM CT, Nov. 02 </p> 
@@ -69,8 +73,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-59134431?at_medium=RSS&at_campaign=KARANGA">Ethiopia's Tigray crisis: Citizens urged to defend Addis Ababa against rebels</a> BBC: Addis Ababa residents are told to register weapons and protect areas as rebels advance. 
  <p class="updated_time"> 11:19 AM CT, Nov. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59125228?at_medium=RSS&at_campaign=KARANGA">Nigeria Ikoyi building collapse: Race to find survivors</a> BBC: At least 15 people have died and many are feared trapped under rubble at the site in Lagos. 
- <p class="updated_time"> 10:21 AM CT, Nov. 02 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-59088498?at_medium=RSS&at_campaign=KARANGA">COP26: World leaders promise to end deforestation by 2030</a> BBC: More than 100 nations - including Brazil, Russia and Indonesia - sign COP26's first major deal. 
  <p class="updated_time"> 10:20 AM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/02/world/europe/deforestation-climate-change.html">How the COP26 Deforestation Pledge Measures Up</a> NYT: As the world stares down the barrel of climate catastrophe and a worsening biodiversity crisis, the forests that are remain are crucial. 
  <p class="updated_time"> 09:56 AM CT, Nov. 02 </p> 
@@ -127,8 +129,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/01/world/asia/pakistan-protests-negotiations-tlp.html">After Violent Standoff, Pakistan Strikes Deal With Banned Islamist Group</a> NYT: The pact, announced Sunday, defused a crisis that had paralyzed several cities, but it also highlighted the government’s struggle to assert itself against religious extremists. 
  <p class="updated_time"> 01:49 AM CT, Nov. 02 </p> 
  <a href="https://www.wsj.com/articles/cop26-leaders-agree-to-end-deforestation-by-2030-11635844937">Leaders Agree to End Deforestation by 2030</a> WSJ: World leaders at the COP26 summit, including the U.S., China and Brazil, agreed to a deal aimed at ending and then reversing deforestation by 2030, committing nearly $20 billion of public and private funds to protect and restore forests. 
- <p class="updated_time"> 01:40 AM CT, Nov. 02 </p> 
- <a href="https://www.nytimes.com/2021/11/01/world/africa/nigeria-building-collapse-.html">Nigeria Building Collapse Kills at Least 5 With Many More Trapped</a> NYT: As many as 100 workers were feared trapped at a construction site in Lagos, where building collapses are common, with contractors using shoddy materials and regulations often not enforced. 
  <p class="updated_time"> 12:59 AM CT, Nov. 02 </p> 
  <a href="https://www.bbc.co.uk/news/uk-wales-59050953?at_medium=RSS&at_campaign=KARANGA">COP26: Climate change graph 'needs more colours' as world gets hotter</a> BBC: The creator of the graphic representing world temperature said it will get "darker and darker". 
  <p class="updated_time"> 10:39 PM CT, Nov. 01 </p> 
@@ -186,6 +186,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:38 PM CT, Nov. 02 </p> 
+ <a href="https://www.nytimes.com/2021/11/02/us/politics/salt-cap-tax-deduction.html">Democrats Push for Agreement on Tax Deduction That Benefits the Rich</a> NYT: Lawmakers are coalescing around a deal to suspend a $10,000 cap on state and local tax deductions that was imposed during the Trump administration. 
  <p class="updated_time"> 05:25 PM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/02/us/politics/vaccine-mandate-military.html">Military Grants Few Vaccine Exemptions as Deadlines Loom</a> NYT: The majority of active-duty troops have gotten a mandatory coronavirus vaccine ahead of deadline, with religious-based exemptions largely dismissed. 
  <p class="updated_time"> 05:17 PM CT, Nov. 02 </p> 
@@ -228,8 +230,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/01/us/politics/medicaid-uninsured.html">Democrats’ Bill Would Cover Poor Uninsured Adults, Up to a Point</a> NYT: The $1.85 trillion social policy bill would provide free private health insurance for more than two million adults locked out of coverage, but only for four years. 
  <p class="updated_time"> 06:14 PM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/us/politics/manchin-endorse-framework.html">Manchin Raises Doubts on Safety Net Bill, Complicating Path to Quick Vote</a> NYT: Senator Joe Manchin III of West Virginia, a crucial Democratic swing vote, demanded more time to evaluate the economic and fiscal impact of the $1.85 trillion bill. 
- <p class="updated_time"> 11:35 AM CT, Nov. 01 </p> 
- <a href="https://www.nytimes.com/2021/11/01/us/politics/brett-kavanaugh-abortion.html">Will Justice Brett Kavanaugh Change His Position on Abortion?</a> NYT: Justice Kavanaugh has consistently supported abortion restrictions, but occasionally stakes out more moderate positions than his colleagues. 
  <p class="updated_time"> 11:27 AM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/us/politics/what-is-ex-parte.html">What is Ex Parte Young?</a> NYT: The 1908 case held that state officials could be sued in federal court to prevent them from enforcing unconstitutional laws. 
  <p class="updated_time"> 03:30 AM CT, Nov. 01 </p> 
