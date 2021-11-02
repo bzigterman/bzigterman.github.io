@@ -43,8 +43,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/uk-wales-59050953?at_medium=RSS&at_campaign=KARANGA">COP26: Climate change graph 'needs more colours' as world gets hotter</a> BBC: The creator of the graphic representing world temperature said it will get "darker and darker". 
  <p class="updated_time"> 12:12 AM CT, Nov. 02 </p> 
  <a href="https://www.bbc.co.uk/news/business-59129466?at_medium=RSS&at_campaign=KARANGA">Squid Game crypto token collapses in apparent scam</a> BBC: Inspired by the hugely popular Netflix series Squid Game, the tokens had rocketed in value. 
- <p class="updated_time"> 12:11 AM CT, Nov. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-59125143?at_medium=RSS&at_campaign=KARANGA">COP26: India PM Narendra Modi pledges net zero by 2070</a> BBC: The pledge misses a key goal of the COP26 summit for all nations to commit to net zero by 2050. 
  <p class="updated_time"> 12:10 AM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/europe/cop26-glasgow-biden-climate.html">At COP26 Summit, Urgent Pleas to Combat Global Warning</a> NYT: The opening day of a climate summit was heavy on dire warnings and light on substantive proposals as leaders in Glasgow met to discuss a warming world. 
  <p class="updated_time"> 11:52 PM CT, Nov. 01 </p> 
