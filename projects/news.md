@@ -7,12 +7,14 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:46 AM CT, Nov. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59131282?at_medium=RSS&at_campaign=KARANGA">COP26: US to stop methane leaks from oil and gas wells</a> BBC: The Biden administration plans to restore tough rules curbing one of the most potent greenhouse gases. 
+ <p class="updated_time"> 04:43 AM CT, Nov. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-59132811?at_medium=RSS&at_campaign=KARANGA">COP26: UK apologises to Israeli minister for wheelchair access problems</a> BBC: Israeli minister Karine Elharrar waited for two hours outside the Glasgow venue but couldn't get inside. 
  <p class="updated_time"> 04:20 AM CT, Nov. 02 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59088498?at_medium=RSS&at_campaign=KARANGA">COP26: World leaders promise to end deforestation by 2030</a> BBC: More than 100 nations including Brazil, Russia and Indonesia are expected to sign COP26's first major deal. 
  <p class="updated_time"> 04:16 AM CT, Nov. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59087189?at_medium=RSS&at_campaign=KARANGA">Spain energy crisis: Soaring bills hamper recovery from Covid</a> BBC: Spain is less connected to the international grid than other EU countries and prices are surging. 
- <p class="updated_time"> 04:03 AM CT, Nov. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-59128618?at_medium=RSS&at_campaign=KARANGA">COP26: Wheelchair-using minister unable to attend summit</a> BBC: Karine Elharrar tweets that it is "sad... the UN does not provide accessibility to its events". 
  <p class="updated_time"> 04:00 AM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/02/world/asia/china-slander-law.html">China Makes It a Crime to Mock Country's Heroes</a> NYT: Under a new law, China has zealously prosecuted even the perceived slander of Communist figures, broadening Xi Jinping’s campaign to dominate party orthodoxy. 
  <p class="updated_time"> 03:59 AM CT, Nov. 02 </p> 
@@ -45,8 +47,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/business-59129466?at_medium=RSS&at_campaign=KARANGA">Squid Game crypto token collapses in apparent scam</a> BBC: Inspired by the hugely popular Netflix series Squid Game, the tokens had rocketed in value. 
  <p class="updated_time"> 12:10 AM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/europe/cop26-glasgow-biden-climate.html">At COP26 Summit, Urgent Pleas to Combat Global Warning</a> NYT: The opening day of a climate summit was heavy on dire warnings and light on substantive proposals as leaders in Glasgow met to discuss a warming world. 
- <p class="updated_time"> 11:52 PM CT, Nov. 01 </p> 
- <a href="https://www.bbc.co.uk/sport/horse-racing/59129052?at_medium=RSS&at_campaign=KARANGA">Melbourne Cup: Verry Elleegant wins Australia's biggest race</a> BBC: The mare upsets favourite Incentivise and Britain's Spanish Mission to claim Australia's prestigious race. 
  <p class="updated_time"> 11:51 PM CT, Nov. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59129894?at_medium=RSS&at_campaign=KARANGA">Nicaragua accused of running internet troll farm</a> BBC: Facebook parent firm Meta removes hundreds of fake accounts said to be part of a disinformation campaign. 
  <p class="updated_time"> 10:39 PM CT, Nov. 01 </p> 
