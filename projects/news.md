@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:16 AM CT, Nov. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59087189?at_medium=RSS&at_campaign=KARANGA">Spain energy crisis: Soaring bills hamper recovery from Covid</a> BBC: Spain is less connected to the international grid than other EU countries and prices are surging. 
+ <p class="updated_time"> 04:03 AM CT, Nov. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-59128618?at_medium=RSS&at_campaign=KARANGA">COP26: Wheelchair-using minister unable to attend summit</a> BBC: Karine Elharrar tweets that it is "sad... the UN does not provide accessibility to its events". 
  <p class="updated_time"> 04:00 AM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/02/world/asia/china-slander-law.html">China Makes It a Crime to Mock Country's Heroes</a> NYT: Under a new law, China has zealously prosecuted even the perceived slander of Communist figures, broadening Xi Jinping’s campaign to dominate party orthodoxy. 
  <p class="updated_time"> 03:59 AM CT, Nov. 02 </p> 
@@ -55,8 +59,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/science-environment-59114449?at_medium=RSS&at_campaign=KARANGA">COP26: What climate summit means for one woman in Bangladesh</a> BBC: What do decisions made at a summit in Glasgow mean for a woman in a village on the front line of climate change? 
  <p class="updated_time"> 07:51 PM CT, Nov. 01 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59053257?at_medium=RSS&at_campaign=KARANGA">Climate change: Five dealmakers who will influence the outcome at COP26</a> BBC: Who are the people who will determine the success or failure of the climate summit? 
- <p class="updated_time"> 07:46 PM CT, Nov. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59087189?at_medium=RSS&at_campaign=KARANGA">Spain energy crisis: Soaring bills hamper recovery from Covid</a> BBC: Spain is less connected to the international grid than other EU countries and prices are surging. 
  <p class="updated_time"> 07:05 PM CT, Nov. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-58961286?at_medium=RSS&at_campaign=KARANGA">Climate change: Should we save or exploit the vanishing Amazon?</a> BBC: The BBC's Orla Guerin meets four Amazon-dwellers with differing views on the rainforest's protection. 
  <p class="updated_time"> 07:02 PM CT, Nov. 01 </p> 
@@ -67,8 +69,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/01/world/john-kerry-cop26.html">John Kerry Plays Down COP26 Expectations</a> NYT: “Glasgow was never ever going to get every country joining up,” Mr. Kerry said. He’s already looking to next year to build on pledges that nations have made and push them to do more. 
  <p class="updated_time"> 07:01 PM CT, Nov. 01 </p> 
  <a href="https://www.bbc.co.uk/news/business-58788040?at_medium=RSS&at_campaign=KARANGA">Why Africa urgently needs its own genetic library</a> BBC: Genetically profiling three million Africans could be key for better healthcare, argue scientists. 
- <p class="updated_time"> 06:59 PM CT, Nov. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-59128618?at_medium=RSS&at_campaign=KARANGA">COP26: Wheelchair-using minister unable to attend summit</a> BBC: Karine Elharrar tweets that it is "sad" that "the UN does not provide accessibility to its events". 
  <p class="updated_time"> 06:49 PM CT, Nov. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59128875?at_medium=RSS&at_campaign=KARANGA">COP26: Was US President Biden asleep or just resting his eyes?</a> BBC: Video footage from the climate summit shows US President Joe Biden sitting with his eyes closed. 
  <p class="updated_time"> 06:38 PM CT, Nov. 01 </p> 
