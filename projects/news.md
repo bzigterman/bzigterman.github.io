@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:45 AM CT, Nov. 02 </p> 
+ <a href="https://www.nytimes.com/2021/11/02/science/climate-change-archaeology.html">As Earth Warms, Human History Is Melting Away</a> NYT: Climate change is revealing long-frozen artifacts and animals to archaeologists. But the window for study is slender and shrinking. 
+ <p class="updated_time"> 08:40 AM CT, Nov. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59125228?at_medium=RSS&at_campaign=KARANGA">Nigeria Ikoyi building collapse: Race to find survivors</a> BBC: At least 10 people have died and many are feared trapped under rubble at the site in Lagos. 
  <p class="updated_time"> 08:31 AM CT, Nov. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-59132811?at_medium=RSS&at_campaign=KARANGA">COP26: Boris Johnson apologises to minister over wheelchair access</a> BBC: UK prime minister says sorry for "confusion" to Israeli minister who was unable to get into COP26. 
  <p class="updated_time"> 08:29 AM CT, Nov. 02 </p> 
@@ -21,8 +25,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/02/world/asia/china-food-shortages-winter.html">China Urges Families to Stock up on Food for Winter</a> NYT: State-run news media said that the directives were to prepare for emergencies like coronavirus lockdowns as the country pursues its “zero Covid” policy. 
  <p class="updated_time"> 08:10 AM CT, Nov. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59133026?at_medium=RSS&at_campaign=KARANGA">Explosions and gunfire at Kabul military hospital in deadly attack</a> BBC: Unconfirmed reports suggest at least 15 have died in an attack at Sardar Daud Khan hospital. 
- <p class="updated_time"> 07:34 AM CT, Nov. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59125228?at_medium=RSS&at_campaign=KARANGA">Nigeria Ikoyi building collapse: Race to find survivors</a> BBC: At least 10 people have died and many are feared trapped under rubble at the site in Lagos. 
  <p class="updated_time"> 07:32 AM CT, Nov. 02 </p> 
  <a href="https://www.bbc.co.uk/news/business-59132104?at_medium=RSS&at_campaign=KARANGA">COP26: Bezos pledges $2bn for restoring nature</a> BBC: Amazon founder Jeff Bezos tells the COP26 climate meeting he was inspired by his recent space trip. 
  <p class="updated_time"> 07:23 AM CT, Nov. 02 </p> 
@@ -61,8 +63,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/afghanistans-main-military-hospital-hit-by-two-explosions-gunfire-11635847126">At Least 23 Killed in Two Explosions, Gunfire at Kabul's Main Military Hospital</a> WSJ: The complex attack bore the hallmarks of Islamic State, which has intensified the tempo of strikes against Taliban targets and the country’s Shiite minority in recent weeks. 
  <p class="updated_time"> 02:24 AM CT, Nov. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59128683?at_medium=RSS&at_campaign=KARANGA">COP26 Bangladesh: If tidal surges destroy our house, where will we go?</a> BBC: How villagers in Bangladesh's coastal areas are struggling with the impact of climate change. 
- <p class="updated_time"> 02:00 AM CT, Nov. 02 </p> 
- <a href="https://www.nytimes.com/2021/11/02/science/climate-change-archaeology.html">As Earth Warms, Human History Is Melting Away</a> NYT: Climate change is revealing long-frozen artifacts and animals to archaeologists. But the window for study is slender and shrinking. 
  <p class="updated_time"> 02:00 AM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/02/world/middleeast/gaza-wedding-debt-prison.html">Men in Gaza Imprisoned Over Wedding Loans</a> NYT: Like many men in Gaza, Wasfi al-Garosha regularly returns to prison for failing to repay a wedding loan. His trip back, always on foot, reveals much about the stresses of life in the Strip. 
  <p class="updated_time"> 02:00 AM CT, Nov. 02 </p> 
