@@ -75,8 +75,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-59137828?at_medium=RSS&at_campaign=KARANGA">COP26: US and EU announce global pledge to slash methane</a> BBC: The Global Methane Pledge aims to cut methane emissions by 30% by 2030, compared with 2020 levels. 
  <p class="updated_time"> 09:24 AM CT, Nov. 02 </p> 
  <a href="https://www.bbc.co.uk/news/business-59132104?at_medium=RSS&at_campaign=KARANGA">COP26: Bezos pledges $2bn for restoring nature</a> BBC: Amazon founder Jeff Bezos tells the COP26 climate meeting he was inspired by his recent space trip. 
- <p class="updated_time"> 08:52 AM CT, Nov. 02 </p> 
- <a href="https://www.bbc.co.uk/news/technology-59122605?at_medium=RSS&at_campaign=KARANGA">Tesla opens its chargers to other electric cars</a> BBC: A pilot scheme in the Netherlands is intended to pave the way for large-scale global expansion. 
  <p class="updated_time"> 08:29 AM CT, Nov. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59133027?at_medium=RSS&at_campaign=KARANGA">China urges families to store basic supplies in case of emergency</a> BBC: The advice, amid Covid lockdowns and vegetable supply concerns, sparks some panic buying. 
  <p class="updated_time"> 08:18 AM CT, Nov. 02 </p> 
@@ -188,10 +186,12 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:33 PM CT, Nov. 02 </p> 
+ <a href="https://www.nytimes.com/2021/11/02/books/penguin-random-house-simon-schuster-merger-lawsuit.html">Justice Dept. Sues Penguin Random House Over Simon & Schuster Deal</a> NYT: The Biden administration’s rejection of the proposed $2.18 billion publishing merger reflects a changing atmosphere in Washington toward consolidation. 
+ <p class="updated_time"> 02:29 PM CT, Nov. 02 </p> 
+ <a href="https://www.nytimes.com/2021/11/02/us/politics/conservatives-new-york-gun-law.html">Prominent Conservatives Back Letting States Limit Guns in Public</a> NYT: A brief filed in a major gun control case to be heard on Wednesday by the Supreme Court argued that limits on the public carrying of weapons were consistent with the Second Amendment. 
  <p class="updated_time"> 02:16 PM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/02/business/economy/fed-jerome-powell-rates-inflation.html">Fed Expected to Announce Plan to Slow Bond Buying Amid Rapid Inflation</a> NYT: The Federal Reserve is expected to announce a plan to taper off its bond buying. With inflation surging, economists’ eyes are already turning to rates. 
- <p class="updated_time"> 02:14 PM CT, Nov. 02 </p> 
- <a href="https://www.nytimes.com/2021/11/02/books/penguin-random-house-simon-schuster-merger-lawsuit.html">Justice Dept. Sues Penguin Random House Over Simon & Schuster Deal</a> NYT: The Biden administration’s rejection of the proposed $2.18 billion publishing merger reflects a changing atmosphere in Washington toward consolidation. 
  <p class="updated_time"> 02:11 PM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/02/us/politics/manchin-methane-fee.html">Democrats Work to Salvage Methane Fee Amid Opposition From Manchin</a> NYT: Senator Joe Manchin III of West Virginia, a Democratic holdout, is still working to weaken or jettison a proposed fee on emissions of methane, a powerful pollutant. 
  <p class="updated_time"> 02:08 PM CT, Nov. 02 </p> 
@@ -199,9 +199,7 @@ permalink: /projects/news/
  <p class="updated_time"> 02:02 PM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/02/us/politics/us-land-border-travel.html">Travelers by Land Should Ready Documents, U.S. Officials Say</a> NYT: The reopening comes just ahead of the holiday season, clearing the way for tourists and other nonessential travelers after about 19 months of border closures 
  <p class="updated_time"> 01:22 PM CT, Nov. 02 </p> 
- <a href="https://www.politico.com/news/2021/11/02/dems-drug-pricing-518554">‘Real sign of progress’: Dems nearing deal on drug pricing</a> Politico: An outline of the most recent policy, obtained by POLITICO, would empower the government to negotiate the cost of 30 drugs by 2028, and would carve out exceptions for small biotech companies. 
- <p class="updated_time"> 01:17 PM CT, Nov. 02 </p> 
- <a href="https://www.nytimes.com/2021/11/02/us/politics/conservatives-new-york-gun-law.html">Prominent Conservatives Back Letting States Limit Guns in Public</a> NYT: A brief filed in a major gun control case to be heard on Wednesday by the Supreme Court argued that limits on the public carrying of weapons were consistent with the Second Amendment. 
+ <a href="https://www.politico.com/news/2021/11/02/dems-drug-pricing-518554">‘A massive step forward’: Democrats clinch drug pricing deal</a> Politico: The new compromise deal, which is far weaker than the original House version, has the blessing of Sen. Kysten Sinema. 
  <p class="updated_time"> 12:55 PM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/02/us/politics/election-results-polls-closing.html">What to Watch in Tuesday’s Elections</a> NYT: The Virginia governor’s race will be closely studied for clues about the midterms, and new mayors will be chosen in New York, Boston, Buffalo, Atlanta and more. 
  <p class="updated_time"> 12:42 PM CT, Nov. 02 </p> 
