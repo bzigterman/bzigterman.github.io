@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:14 PM CT, Nov. 02 </p> 
+ <p class="updated_time"> 03:35 PM CT, Nov. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-59138578?at_medium=RSS&at_campaign=KARANGA">COP26: Biden attacks China and Russia leaders for missing summit</a> BBC: The US president calls the Chinese leader's absence from the Glasgow summit a "big mistake". 
  <p class="updated_time"> 03:06 PM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/02/world/europe/cop26-jeff-bezos-climate.html">Jeff Bezos Makes $2 Billion Environmental Pledge at COP26 Summit</a> NYT: The billionaire called the loss of Earth’s forests “a profound and urgent danger to us all.” 
@@ -139,8 +139,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/business-58788040?at_medium=RSS&at_campaign=KARANGA">Why Africa urgently needs its own genetic library</a> BBC: Genetically profiling three million Africans could be key for better healthcare, argue scientists. 
  <p class="updated_time"> 06:38 PM CT, Nov. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59071864?at_medium=RSS&at_campaign=KARANGA">Virginia election: A tight race for the governor's mansion</a> BBC: The close gubernatorial battle in this key state is being seen as a referendum on the Biden presidency. 
- <p class="updated_time"> 06:14 PM CT, Nov. 01 </p> 
- <a href="https://www.nytimes.com/2021/10/31/world/nyc-firefighters-police-vaccine-mandate.html">Over 2,000 New York City Firefighters Took Sick Days as Vaccine Mandate Looms</a> NYT: More than 22,000 municipal workers remained unvaccinated a day before a city deadline to get their first dose of a coronavirus vaccine. 
  <p class="updated_time"> 04:49 PM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/australia/australia-border-reopening-covid.html">Australia Allows Residents, Citizens to Return as Borders Open</a> NYT: After 18 months of strict measures to combat the pandemic, the states of New South Wales and Victoria relaxed restrictions on citizens and permanent residents seeking to travel back from overseas. 
  <p class="updated_time"> 03:39 PM CT, Nov. 01 </p> 
