@@ -7,6 +7,12 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:29 AM CT, Nov. 02 </p> 
+ <a href="https://www.nytimes.com/2021/11/02/world/europe/cop26-jeff-bezos-climate.html">Jeff Bezos Makes $2 Billion Environmental Pledge at COP26 Summit</a> NYT: The billionaire called the loss of Earth’s forests “a profound and urgent danger to us all.” 
+ <p class="updated_time"> 06:24 AM CT, Nov. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59125228?at_medium=RSS&at_campaign=KARANGA">Nigeria Ikoyi building collapse: Race to find survivors</a> BBC: Rescuers have worked through the night in Lagos, with many people feared trapped under rubble. 
+ <p class="updated_time"> 06:21 AM CT, Nov. 02 </p> 
+ <a href="https://www.nytimes.com/2021/11/02/world/asia/china-food-shortages-winter.html">China Urges Families to Stock up on Food for Winter</a> NYT: State-run news media said that the directives were to prepare for emergencies like coronavirus lockdowns as the country pursues its “zero Covid” policy. 
  <p class="updated_time"> 06:13 AM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/02/world/day-2-of-the-climate-summit-should-bring-the-first-concrete-commitments.html">Day 2 of the climate summit brings the first concrete commitments.</a> NYT: The U.S. is expected to announce plans to regulate methane, a potent greenhouse gas, and there is international agreement to tackle deforestation. 
  <p class="updated_time"> 06:08 AM CT, Nov. 02 </p> 
@@ -19,8 +25,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-59132811?at_medium=RSS&at_campaign=KARANGA">COP26: UK apologises to Israeli minister for wheelchair access problems</a> BBC: Israeli minister Karine Elharrar waited for two hours outside the Glasgow venue but couldn't get inside. 
  <p class="updated_time"> 05:18 AM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/article/tropical-storm-wanda-hurricane.html">Tropical Storm Wanda Moves Across the Atlantic</a> NYT: The storm, which was about 800 miles west of the Azores, was not expected to pose any danger to land, the National Hurricane Center said. 
- <p class="updated_time"> 05:08 AM CT, Nov. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59125228?at_medium=RSS&at_campaign=KARANGA">Nigeria Ikoyi building collapse: Race to find survivors</a> BBC: Rescuers have worked through the night in Lagos, with many people feared trapped under rubble. 
  <p class="updated_time"> 04:16 AM CT, Nov. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59087189?at_medium=RSS&at_campaign=KARANGA">Spain energy crisis: Soaring bills hamper recovery from Covid</a> BBC: Spain is less connected to the international grid than other EU countries and prices are surging. 
  <p class="updated_time"> 04:00 AM CT, Nov. 02 </p> 
@@ -141,8 +145,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/31/world/biden-g20-covid-climate.html">Struggling at Home, Biden Is Buoyed by G20 Trip Abroad</a> NYT: A trip to Rome invigorated a president whose poll numbers are slumping at home, but who projected confidence in his foreign and domestic agenda. 
  <p class="updated_time"> 08:57 PM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/31/us/politics/guantanamo-torture-letter.html">U.S. Military Jury Condemns Terrorist’s Torture and Urges Clemency</a> NYT: Seven senior officers rebuked the government’s treatment of an admitted terrorist in a handwritten letter from the jury room at Guantánamo Bay. 
- <p class="updated_time"> 07:12 PM CT, Oct. 31 </p> 
- <a href="https://www.nytimes.com/2021/10/30/world/asia/japan-election-fumio-kishida.html">Japan Election: Kishida Struggles to Connect With Voters</a> NYT: The governing Liberal Democrats won on Sunday, despite having chosen a prime minister, Fumio Kishida, who’s known for his lack of charisma. 
  <p class="updated_time"> 07:03 PM CT, Oct. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59097021?at_medium=RSS&at_campaign=KARANGA">Libya: Thousands of migrants and refugees camp on UN's doorstep</a> BBC: Thousands of people are on the streets after fleeing overcrowded detention centres in Libya's capital. 
  <p class="updated_time"> 06:25 PM CT, Oct. 31 </p> 
@@ -151,8 +153,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/31/world/americas/brazil-police-kill-25-bank-gang.html">Brazilian Police Kill 25 Accused of Planning Bank Heists</a> NYT: The police say an operation against a gang planning bank robberies killed at least 25 suspects in the Brazilian state of Minas Gerais on Sunday. 
  <p class="updated_time"> 04:37 PM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/31/world/word.html">“Vax” is Oxford’s 2021 Word of the Year</a> NYT: NA 
- <p class="updated_time"> 03:51 PM CT, Oct. 31 </p> 
- <a href="https://www.nytimes.com/2021/10/31/world/europe/biden-putin-russia-united-states.html">Rivals on World Stage, Russia and U.S. Quietly Seek Areas of Accord</a> NYT: There have been a series of beneath-the-surface meetings between the two countries as the Biden administration applies a more sober approach to relations with the Kremlin. 
  <p class="updated_time"> 03:11 PM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/31/climate/g20-coal.html">G20 Nations Agree to New Limits on Coal-Burning Power Plants</a> NYT: The world’s largest economies will stop financing coal plants abroad, though that falls far short of what’s needed to fight climate change, raising fears of half-steps at this week’s U.N. summit. 
  <p class="updated_time"> 03:08 PM CT, Oct. 31 </p> 
