@@ -7,22 +7,34 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:29 PM CT, Nov. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/science-environment-59088498?at_medium=RSS&at_campaign=KARANGA">COP26: World leaders promise to end deforestation by 2030</a> BBC: More than 100 world leaders will vow to protect forests when they sign COP26's first major deal on Tuesday. 
+ <p class="updated_time"> 08:23 PM CT, Nov. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59125228?at_medium=RSS&at_campaign=KARANGA">Nigeria building collapse: Race to find survivors as dozens still missing</a> BBC: Rescue efforts continue through the night in Lagos, with many people feared trapped under rubble. 
+ <p class="updated_time"> 08:01 PM CT, Nov. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/science-environment-59114449?at_medium=RSS&at_campaign=KARANGA">COP26: What climate summit means for one woman in Bangladesh</a> BBC: What do decisions made at a summit in Glasgow mean for a woman in a village on the front line of climate change? 
+ <p class="updated_time"> 07:51 PM CT, Nov. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/science-environment-59053257?at_medium=RSS&at_campaign=KARANGA">Climate change: Five dealmakers who will influence the outcome at COP26</a> BBC: Who are the people who will determine the success or failure of the climate summit? 
+ <p class="updated_time"> 07:49 PM CT, Nov. 01 </p> 
+ <a href="https://www.nytimes.com/2021/11/01/world/europe/cop26-glasgow-biden-climate.html">At COP26 Summit, Urgent Pleas to Combat Global Warning</a> NYT: The opening day of a climate summit was heavy on dire warnings and light on substantive proposals as leaders in Glasgow met to discuss a warming world. 
  <p class="updated_time"> 07:46 PM CT, Nov. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59087189?at_medium=RSS&at_campaign=KARANGA">Spain energy crisis: Soaring bills hamper recovery from Covid</a> BBC: Spain is less connected to the international grid than other EU countries and prices are surging. 
- <p class="updated_time"> 07:26 PM CT, Nov. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59125228?at_medium=RSS&at_campaign=KARANGA">Nigeria building collapse: At least four killed in Lagos</a> BBC: Rescue efforts are under way in Lagos, with many people feared trapped under the rubble. 
  <p class="updated_time"> 07:06 PM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/live/2021/11/01/world/cop26-climate-change-summit">Key Moments From Day 1 of the COP26 Climate Change Summit</a> NYT: Meeting in Glasgow, Scotland, President Biden and a host of other world leaders sounded dire warnings, but hopes for breakthrough action are muted. 
  <p class="updated_time"> 07:05 PM CT, Nov. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-58961286?at_medium=RSS&at_campaign=KARANGA">Climate change: Should we save or exploit the vanishing Amazon?</a> BBC: The BBC's Orla Guerin meets four Amazon-dwellers with differing views on the rainforest's protection. 
  <p class="updated_time"> 07:02 PM CT, Nov. 01 </p> 
+ <a href="https://www.bbc.co.uk/sport/baseball/59078788?at_medium=RSS&at_campaign=KARANGA">World Series: The sports data pioneer who spotted baseball's big fix of 1919</a> BBC: The World Series was rigged. Hugh Fullerton's revolutionary analysis backed it up. But in 1919 his calls were ignored by a game now transformed by data. 
+ <p class="updated_time"> 07:02 PM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/10/31/climate/climate-change-biden-cop26.html">At Climate Talks, Biden Will Try to Sell American Leadership to Skeptics</a> NYT: The president wants to assure Glasgow’s climate summit that the U.S. is serious about climate change. But he lacks a legislative win at home. 
  <p class="updated_time"> 07:01 PM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/john-kerry-cop26.html">John Kerry Plays Down COP26 Expectations</a> NYT: “Glasgow was never ever going to get every country joining up,” Mr. Kerry said. He’s already looking to next year to build on pledges that nations have made and push them to do more. 
- <p class="updated_time"> 06:56 PM CT, Nov. 01 </p> 
- <a href="https://www.nytimes.com/2021/11/01/world/europe/cop26-glasgow-biden-climate.html">At COP26 Summit, Urgent Pleas to Combat Global Warning</a> NYT: The opening day of a climate summit was heavy on dire warnings and light on substantive proposals as leaders in Glasgow met to discuss a warming world. 
+ <p class="updated_time"> 07:01 PM CT, Nov. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/business-58788040?at_medium=RSS&at_campaign=KARANGA">Why Africa urgently needs its own genetic library</a> BBC: Genetically profiling three million Africans could be key for better healthcare, argue scientists. 
  <p class="updated_time"> 06:49 PM CT, Nov. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59128875?at_medium=RSS&at_campaign=KARANGA">COP26: Was US President Biden asleep or just resting his eyes?</a> BBC: Video footage from the climate summit shows US President Joe Biden sitting with his eyes closed. 
+ <p class="updated_time"> 06:38 PM CT, Nov. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59071864?at_medium=RSS&at_campaign=KARANGA">Virginia election: A tight race for the governor's mansion</a> BBC: The close gubernatorial battle in this key state is being seen as a referendum on the Biden presidency. 
  <p class="updated_time"> 06:25 PM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/africa/nigeria-building-collapse-.html">Nigeria Building Collapse Kills at Least 4 With Many More Trapped</a> NYT: As many as 100 workers were feared trapped at a construction site in Lagos, where building collapses are common, with contractors using shoddy materials and regulations often not enforced. 
  <p class="updated_time"> 06:14 PM CT, Nov. 01 </p> 
@@ -33,8 +45,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/01/world/queen-elizabeth-cop26.html"> Queen Elizabeth Urges Climate Action in COP26 Video</a> NYT: The 95-year-old monarch gave her address by video, after doctors advised her to rest and not go to the summit. Prince Charles attended and delivered a similar message. 
  <p class="updated_time"> 05:43 PM CT, Nov. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59124427?at_medium=RSS&at_campaign=KARANGA">Dr Aaron Beck: Cognitive behavioural therapy pioneer dies aged 100</a> BBC: Dr Aaron Beck's work is considered revolutionary worldwide for the treatment of mental health. 
- <p class="updated_time"> 05:31 PM CT, Nov. 01 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-59088498?at_medium=RSS&at_campaign=KARANGA">COP26: World leaders promise to end deforestation by 2030</a> BBC: More than 100 world leaders will vow to protect forests when they sign COP26's first major deal on Tuesday. 
  <p class="updated_time"> 04:49 PM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/australia/australia-border-reopening-covid.html">Australia Allows Residents, Citizens to Return as Borders Open</a> NYT: After 18 months of strict measures to combat the pandemic, the states of New South Wales and Victoria relaxed restrictions on citizens and permanent residents seeking to travel back from overseas. 
  <p class="updated_time"> 04:38 PM CT, Nov. 01 </p> 
@@ -53,10 +63,10 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/cop26-kicks-off-in-glasgow-amid-sharp-divides-over-climate-goals-11635767355">At COP26, Biden Calls for More Action on Climate as Divides Widen</a> WSJ: As U.S. president says the coming decade will be decisive for avoiding the most destructive effects of global warming, India gives slower-than-expected deadline for slashing its carbon emissions. 
  <p class="updated_time"> 01:18 PM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/europe/britain-climate-change.html">Once a Leading Polluter, the U.K. Is Now Trying to Lead on Climate Change</a> NYT: On the eve of a global climate summit, Britain’s evolution from fossil fuels to clean energy is on display. But experts question whether its commitment is sufficient, and whether it can persuade other nations to meet meaningful goals. 
+ <p class="updated_time"> 01:11 PM CT, Nov. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/science-environment-48025650?at_medium=RSS&at_campaign=KARANGA">Climate change: Is Greta Thunberg right about UK carbon emissions?</a> BBC: The climate activist has questioned the UK's figure on its carbon emissions reduction. 
  <p class="updated_time"> 12:57 PM CT, Nov. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59095778?at_medium=RSS&at_campaign=KARANGA">Oromo Liberation Army: On the ground with Ethiopian fighters</a> BBC: The BBC's Catherine Byaruhanga gains special access to Ethiopia's Oromo Liberation Army. 
- <p class="updated_time"> 12:22 PM CT, Nov. 01 </p> 
- <a href="https://www.bbc.co.uk/news/58956714?at_medium=RSS&at_campaign=KARANGA">Climate change: What are the big polluters doing to cut carbon emissions?</a> BBC: The top emissions-producing nations all have plans to tackle global warming, but what progress are they making? 
  <p class="updated_time"> 12:13 PM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/europe/cop26-climate-antonio-guterres.html">U.N. Leader, António Guterres, Warns of 'Climate Catastrophe' at COP26</a> NYT: He urged countries to review their climate pledges annually rather than every five years as called for in the 2015 Paris accord. 
  <p class="updated_time"> 12:10 PM CT, Nov. 01 </p> 
@@ -95,8 +105,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/01/sports/women-beach-handball-bikini.html">Handball Federation Ends Bikini Bottom Requirement for Women</a> NYT: After outrage over a fine levied against the Norwegian women’s beach handball team for competing in shorts, the sport’s international federation said it was changing its rules. 
  <p class="updated_time"> 08:39 AM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/10/30/world/middleeast/lebanon-ambassadors-saudi-gulf.html">Gulf States Withdraw Ambassadors to Lebanon Over Criticism of Yemen War</a> NYT: With a few stray comments from a minor minister, Lebanon once again found itself caught in the rivalry between Saudi Arabia and Iran, underscoring just how vulnerable it is to the whims of its more powerful neighbors. 
- <p class="updated_time"> 07:41 AM CT, Nov. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59054146?at_medium=RSS&at_campaign=KARANGA">Real life Succession battle plagues Canada's top wireless firm</a> BBC: A bitter power struggle at Rogers Communications has gone from 'Succession' to 'Game of Thrones'. 
  <p class="updated_time"> 07:26 AM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/asia/thailand-reopens-tourists-quarantine.html">Thailand Reopens to Tourists Without Requiring Quarantine</a> NYT: About a fifth of the nation’s economy depends on the vacation industry. Before the pandemic, the country was one of the world’s top destinations, drawing nearly 40 million visitors in 2019. 
  <p class="updated_time"> 06:32 AM CT, Nov. 01 </p> 
@@ -125,8 +133,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/30/world/asia/japan-election-fumio-kishida.html">Japan Election: Kishida Struggles to Connect With Voters</a> NYT: The governing Liberal Democrats won on Sunday, despite having chosen a prime minister, Fumio Kishida, who’s known for his lack of charisma. 
  <p class="updated_time"> 07:03 PM CT, Oct. 31 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59097021?at_medium=RSS&at_campaign=KARANGA">Libya: Thousands of migrants and refugees camp on UN's doorstep</a> BBC: Thousands of people are on the streets after fleeing overcrowded detention centres in Libya's capital. 
- <p class="updated_time"> 07:01 PM CT, Oct. 31 </p> 
- <a href="https://www.bbc.co.uk/news/business-59044820?at_medium=RSS&at_campaign=KARANGA">Can we stomach the latest food innovations?</a> BBC: Our growing appetite for novel food tech - from lab grown meat to nano-packaging. 
  <p class="updated_time"> 06:25 PM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/31/world/europe/g20-climate-temperature-rise.html">G20 Leaders Agree on 1.5-Degree Climate Goal</a> NYT: Countries will “pursue efforts” to limit global temperature rise to 1.5 degrees Celsius, compared with preindustrial times. 
  <p class="updated_time"> 05:39 PM CT, Oct. 31 </p> 
@@ -151,8 +157,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/30/world/g20-photos.html">Photos From the G20 Summit in Rome</a> NYT: Colorful protests outside the G20 meetings, and in them, exchanges between world leaders. 
  <p class="updated_time"> 08:10 PM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/30/world/americas/nyc-police-fire-vaccine-mandate.html">More New York City workers get Covid shots as deadline nears, but tensions remain.</a> NYT: The city’s effort to compel most city employees to receive the coronavirus vaccine before Monday appears to have rapidly boosted inoculation rates. 
- <p class="updated_time"> 07:13 PM CT, Oct. 30 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-59051407?at_medium=RSS&at_campaign=KARANGA">Climate change: What's it like living in a place where it's 50C?</a> BBC: The BBC has spoken to people around the world about how extreme heat is changing their lives. 
  <p class="updated_time"> 04:51 PM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/30/world/biden-communion-rome-g20.html">Biden Receives Communion at Rome Church</a> NYT: Some conservative bishops in the United States have said the president should be denied communion because of his support for abortion rights. 
 
@@ -162,14 +166,14 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
- <p class="updated_time"> 07:28 PM CT, Nov. 01 </p> 
+ <p class="updated_time"> 08:17 PM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/us/politics/youngkin-trump-mcauliffe-virginia-governor.html">As Youngkin Tries to Finesse Trump, McAuliffe Conjures His Comeback</a> NYT: Barnstorming Virginia, the candidates for governor hammered away at their core arguments. For the Republican: parents’ involvement in schools. For the Democrat: Trump redux. 
+ <p class="updated_time"> 07:49 PM CT, Nov. 01 </p> 
+ <a href="https://www.nytimes.com/2021/11/01/world/europe/cop26-glasgow-biden-climate.html">At COP26 Summit, Urgent Pleas to Combat Global Warning</a> NYT: The opening day of a climate summit was heavy on dire warnings and light on substantive proposals as leaders in Glasgow met to discuss a warming world. 
  <p class="updated_time"> 07:09 PM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/climate/biden-oil-gas-cop26.html">Even as Biden Pushes Clean Energy, He Seeks More Oil Production</a> NYT: President Biden acknowledged “it seems like an irony” that he is asking energy-rich nations to boost oil production as he implores the world to tackle climate change. 
  <p class="updated_time"> 07:07 PM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/us/politics/texas-abortion-law-supreme-court.html">Supreme Court Hints That It May Allow Challenge to Texas Abortion Law</a> NYT: In two arguments on Monday, the justices considered challenges from abortion providers and the Biden administration to a law that bans abortions after about six weeks. 
- <p class="updated_time"> 06:56 PM CT, Nov. 01 </p> 
- <a href="https://www.nytimes.com/2021/11/01/world/europe/cop26-glasgow-biden-climate.html">At COP26 Summit, Urgent Pleas to Combat Global Warning</a> NYT: The opening day of a climate summit was heavy on dire warnings and light on substantive proposals as leaders in Glasgow met to discuss a warming world. 
  <p class="updated_time"> 06:14 PM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/us/politics/manchin-endorse-framework.html">Manchin Raises Doubts on Safety Net Bill, Complicating Path to Quick Vote</a> NYT: Senator Joe Manchin III of West Virginia, a crucial Democratic swing vote, demanded more time to evaluate the economic and fiscal impact of the $1.85 trillion bill. 
  <p class="updated_time"> 05:27 PM CT, Nov. 01 </p> 
