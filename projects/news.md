@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:43 PM CT, Nov. 02 </p> 
+ <a href="https://www.nytimes.com/2021/11/02/world/americas/brazil-climate.html">Once a Climate Leader, Brazil Falls Short in Glasgow</a> NYT: The country’s proposals show a desire to burnish its image, but President Jair Bolsonaro’s record and his absence from the summit cast doubt on its commitment to reversing course. 
+ <p class="updated_time"> 01:42 PM CT, Nov. 02 </p> 
+ <a href="https://www.nytimes.com/2021/11/02/world/john-kerry-climate-aid-cop26.html">John Kerry Says $100 Billion in Climate Aid Per Year Is Within Reach</a> NYT: John Kerry, the American special climate envoy, said the United States had rejoined the a coalition of countries pushing for more aggressive action. 
  <p class="updated_time"> 01:28 PM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/02/climate/cop26-deforestation.html">Global Leaders Pledge to End Deforestation by 2030</a> NYT: The landmark agreement reflects a growing recognition of nature’s role in helping to address global warming. Still, critics said it wasn’t ambitious enough. 
  <p class="updated_time"> 01:28 PM CT, Nov. 02 </p> 
@@ -21,12 +25,12 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-59135169?at_medium=RSS&at_campaign=KARANGA">COP26: South Africa hails deal to end reliance on coal</a> BBC: More than 80% of South Africa's power is generated with coal - its sulphur smell polluting large areas. 
  <p class="updated_time"> 12:52 PM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/john-kerry-cop26.html">John Kerry Plays Down COP26 Expectations</a> NYT: “Glasgow was never ever going to get every country joining up,” Mr. Kerry said. He’s already looking to next year to build on pledges that nations have made and push them to do more. 
+ <p class="updated_time"> 12:49 PM CT, Nov. 02 </p> 
+ <a href="https://www.nytimes.com/2021/11/02/sports/soccer/fifa-blatter-platini-fraud-charges.html">Former FIFA Officials Face Fraud Charges Over Secret Payment</a> NYT: Sepp Blatter is accused of breaking Swiss law in approving a $2 million payment from soccer’s governing body to a onetime ally, Michel Platini. 
  <p class="updated_time"> 12:42 PM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/10/31/climate/climate-change-biden-cop26.html">At Climate Talks, Biden Will Try to Sell American Leadership to Skeptics</a> NYT: The president wants to assure Glasgow’s climate summit that the U.S. is serious about climate change. But he lacks a legislative win at home. 
  <p class="updated_time"> 12:42 PM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/europe/cop26-glasgow-biden-climate.html">At COP26 Summit, Urgent Pleas to Combat Global Warning</a> NYT: The opening day of a climate summit was heavy on dire warnings and light on substantive proposals as leaders in Glasgow met to discuss a warming world. 
- <p class="updated_time"> 12:28 PM CT, Nov. 02 </p> 
- <a href="https://www.nytimes.com/2021/11/02/world/americas/brazil-climate.html">Once a Climate Leader, Brazil Falls Short in Glasgow</a> NYT: The country’s proposals show a desire to burnish its image, but President Jair Bolsonaro’s record and his absence from the summit cast doubt on its commitment to reversing course. 
  <p class="updated_time"> 12:28 PM CT, Nov. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59130948?at_medium=RSS&at_campaign=KARANGA">Polish abortion law protests over woman's hospital death</a> BBC: A family's lawyer links the death of a 30-year-old mother to tighter abortion laws. 
  <p class="updated_time"> 12:25 PM CT, Nov. 02 </p> 
@@ -51,8 +55,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-59134431?at_medium=RSS&at_campaign=KARANGA">Ethiopia's Tigray crisis: Citizens urged to defend Addis Ababa against rebels</a> BBC: Addis Ababa residents are told to register weapons and protect areas as rebels advance. 
  <p class="updated_time"> 11:19 AM CT, Nov. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59125228?at_medium=RSS&at_campaign=KARANGA">Nigeria Ikoyi building collapse: Race to find survivors</a> BBC: At least 15 people have died and many are feared trapped under rubble at the site in Lagos. 
- <p class="updated_time"> 11:03 AM CT, Nov. 02 </p> 
- <a href="https://www.nytimes.com/2021/11/02/world/john-kerry-climate-aid-cop26.html">John Kerry Says $100 Billion in Climate Aid Per Year Is Within Reach</a> NYT: John Kerry, the American special climate envoy, said the United States had rejoined the a coalition of countries pushing for more aggressive action. 
  <p class="updated_time"> 10:21 AM CT, Nov. 02 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59088498?at_medium=RSS&at_campaign=KARANGA">COP26: World leaders promise to end deforestation by 2030</a> BBC: More than 100 nations - including Brazil, Russia and Indonesia - sign COP26's first major deal. 
  <p class="updated_time"> 10:20 AM CT, Nov. 02 </p> 
@@ -179,8 +181,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/31/us/politics/guantanamo-torture-letter.html">U.S. Military Jury Condemns Terrorist’s Torture and Urges Clemency</a> NYT: Seven senior officers rebuked the government’s treatment of an admitted terrorist in a handwritten letter from the jury room at Guantánamo Bay. 
  <p class="updated_time"> 05:39 PM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/31/world/americas/brazil-police-kill-25-bank-gang.html">Brazilian Police Kill 25 Accused of Planning Bank Heists</a> NYT: The police say an operation against a gang planning bank robberies killed at least 25 suspects in the Brazilian state of Minas Gerais on Sunday. 
- <p class="updated_time"> 03:11 PM CT, Oct. 31 </p> 
- <a href="https://www.nytimes.com/2021/10/31/climate/g20-coal.html">G20 Nations Agree to New Limits on Coal-Burning Power Plants</a> NYT: The world’s largest economies will stop financing coal plants abroad, though that falls far short of what’s needed to fight climate change, raising fears of half-steps at this week’s U.N. summit. 
  <p class="updated_time"> 02:08 PM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/31/world/moderna-covid-vaccine-teens-myocarditis.html">F.D.A. Is Reviewing If Moderna Vaccine Causes Heart Problems in Adolescents</a> NYT: The F.D.A. has notified Moderna that it needs more time to review the vaccine’s safety and may not deliver a decision until January. 
 
@@ -190,6 +190,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 01:51 PM CT, Nov. 02 </p> 
+ <a href="https://www.nytimes.com/2021/11/02/books/penguin-random-house-simon-schuster-merger-lawsuit.html">Justice Dept. Sues Penguin Random House Over Simon & Schuster Deal</a> NYT: The Biden administration’s rejection of the proposed $2.18 billion publishing merger reflects a changing atmosphere in Washington toward consolidation. 
  <p class="updated_time"> 01:22 PM CT, Nov. 02 </p> 
  <a href="https://www.politico.com/news/2021/11/02/dems-drug-pricing-518554">‘Real sign of progress’: Dems nearing deal on drug pricing</a> Politico: An outline of the most recent policy, obtained by POLITICO, would empower the government to negotiate the cost of 30 drugs by 2028, and would carve out exceptions for small biotech companies. 
  <p class="updated_time"> 01:17 PM CT, Nov. 02 </p> 
@@ -202,8 +204,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/01/world/europe/cop26-glasgow-biden-climate.html">At COP26 Summit, Urgent Pleas to Combat Global Warning</a> NYT: The opening day of a climate summit was heavy on dire warnings and light on substantive proposals as leaders in Glasgow met to discuss a warming world. 
  <p class="updated_time"> 12:42 PM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/01/climate/biden-oil-gas-cop26.html">Even as Biden Pushes Clean Energy, He Seeks More Oil Production</a> NYT: President Biden acknowledged “it seems like an irony” that he is asking energy-rich nations to boost oil production as he implores the world to tackle climate change. 
- <p class="updated_time"> 12:14 PM CT, Nov. 02 </p> 
- <a href="https://www.nytimes.com/2021/11/02/books/penguin-random-house-simon-schuster-merger-lawsuit.html">Justice Dept. Sues Penguin Random House Over Simon & Schuster Deal</a> NYT: The Biden administration’s rejection of the proposed $2.18 billion publishing merger reflects a changing atmosphere in Washington toward consolidation. 
  <p class="updated_time"> 09:54 AM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/01/us/politics/youngkin-trump-mcauliffe-virginia-governor.html">As Youngkin Tries to Finesse Trump, McAuliffe Conjures His Comeback</a> NYT: Barnstorming Virginia, the candidates for governor hammered away at their core arguments. For the Republican: parents’ involvement in schools. For the Democrat: Trump redux. 
  <p class="updated_time"> 06:59 AM CT, Nov. 02 </p> 
