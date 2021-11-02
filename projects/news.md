@@ -7,28 +7,30 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:39 AM CT, Nov. 02 </p> 
+ <a href="https://www.nytimes.com/2021/11/02/world/europe/cop26-jeff-bezos-climate.html">Jeff Bezos Makes $2 Billion Environmental Pledge at COP26 Summit</a> NYT: The billionaire called the loss of Earth’s forests “a profound and urgent danger to us all.” 
+ <p class="updated_time"> 07:34 AM CT, Nov. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59125228?at_medium=RSS&at_campaign=KARANGA">Nigeria Ikoyi building collapse: Race to find survivors</a> BBC: At least 10 people have died and many are feared trapped under rubble at the site in Lagos. 
+ <p class="updated_time"> 07:23 AM CT, Nov. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/science-environment-59088498?at_medium=RSS&at_campaign=KARANGA">COP26: World leaders promise to end deforestation by 2030</a> BBC: More than 100 nations - including Brazil, Russia and Indonesia - sign COP26's first major deal. 
+ <p class="updated_time"> 07:20 AM CT, Nov. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-59132811?at_medium=RSS&at_campaign=KARANGA">COP26: We must act on accessibility, says Israeli minister</a> BBC: Israel's Karine Elharrar was unable to access the climate summit in her wheelchair on Monday. 
+ <p class="updated_time"> 07:20 AM CT, Nov. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-59136233?at_medium=RSS&at_campaign=KARANGA">Brazil: Amazon parrot plays peekaboo with CCTV traffic camera</a> BBC: A turquoise-fronted amazon parrot was captured investigating a CCTV camera in Curitiba, Brazil. 
  <p class="updated_time"> 07:13 AM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/02/climate/cop26-deforestation.html">Global Leaders Pledge to End Deforestation by 2030</a> NYT: The measure reflects a growing recognition of nature’s role in helping mitigate global warming. 
  <p class="updated_time"> 07:03 AM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/americas/cop26-indigenous-txai-surui.html">From the Amazon to Glasgow: An Indigenous activist says, ‘We have no more time.’</a> NYT: Txai Suruí told world leaders at COP26 that their timetables for reducing carbon emissions and scaling back the use of fossil fuels were inadequate. 
  <p class="updated_time"> 06:57 AM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/02/world/americas/cop26-galapagos-islands.html">Ecuador Vows at COP26 to Create Marine Reserve for Galápagos Islands</a> NYT: President Guillermo Lasso said his government had agreed with Ecuador’s fishery, tourism and conservation sectors to establish a marine reserve of more than 23,000 square miles. 
- <p class="updated_time"> 06:56 AM CT, Nov. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59125228?at_medium=RSS&at_campaign=KARANGA">Nigeria Ikoyi building collapse: Race to find survivors</a> BBC: Rescuers have worked through the night in Lagos, with many people feared trapped under rubble. 
- <p class="updated_time"> 06:54 AM CT, Nov. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-59132811?at_medium=RSS&at_campaign=KARANGA">COP26: We must act on accessibility, says Israeli minister</a> BBC: Israel's Karine Elharrar was unable to access the climate summit in her wheelchair on Monday. 
  <p class="updated_time"> 06:51 AM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/02/world/asia/afghanistan-hospital-attack.html">Military Hospital in Afghan Capital Targeted in Attack, Taliban Say</a> NYT: No group has claimed responsibility for the violence, but the Islamic State has struck more often since the fall of the U.S.-backed government in August. 
- <p class="updated_time"> 06:29 AM CT, Nov. 02 </p> 
- <a href="https://www.nytimes.com/2021/11/02/world/europe/cop26-jeff-bezos-climate.html">Jeff Bezos Makes $2 Billion Environmental Pledge at COP26 Summit</a> NYT: The billionaire called the loss of Earth’s forests “a profound and urgent danger to us all.” 
  <p class="updated_time"> 06:21 AM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/02/world/asia/china-food-shortages-winter.html">China Urges Families to Stock up on Food for Winter</a> NYT: State-run news media said that the directives were to prepare for emergencies like coronavirus lockdowns as the country pursues its “zero Covid” policy. 
  <p class="updated_time"> 06:13 AM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/02/world/day-2-of-the-climate-summit-should-bring-the-first-concrete-commitments.html">Day 2 of the climate summit brings the first concrete commitments.</a> NYT: The U.S. is expected to announce plans to regulate methane, a potent greenhouse gas, and there is international agreement to tackle deforestation. 
- <p class="updated_time"> 06:08 AM CT, Nov. 02 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-59088498?at_medium=RSS&at_campaign=KARANGA">COP26: World leaders promise to end deforestation by 2030</a> BBC: More than 100 nations - including Brazil, Russia and Indonesia - sign COP26's first major deal. 
  <p class="updated_time"> 05:56 AM CT, Nov. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59131282?at_medium=RSS&at_campaign=KARANGA">COP26: US to stop methane leaks from oil and gas wells</a> BBC: The Biden administration plans to restore tough rules curbing one of the most potent greenhouse gases. 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59131282?at_medium=RSS&at_campaign=KARANGA">COP26: US to tackle methane leaks from oil and gas wells</a> BBC: The Biden administration plans to restore tough rules curbing one of the most potent greenhouse gases. 
  <p class="updated_time"> 05:52 AM CT, Nov. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59133026?at_medium=RSS&at_campaign=KARANGA">Explosions and gunfire heard at Kabul military hospital</a> BBC: Unconfirmed reports suggest at least 15 have been killed in an attack at Sardar Dawood Khan hospital. 
  <p class="updated_time"> 05:25 AM CT, Nov. 02 </p> 
@@ -45,8 +47,12 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/01/world/asia/new-zealand-bird-bats.html">New Zealand Held a Bird Contest. A Bat Won.</a> NYT: The long-tailed bat, one of the country’s only two native land mammals, flew away with the top prize. 
  <p class="updated_time"> 03:01 AM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/europe/cop26-global-leaders-attending.html">Who Is Attending the COP26 Climate Summit, and Who Isn't</a> NYT: The presence of heads of state and government is not just symbolic. Real work gets done among leaders that cannot happen among lower-level diplomats. 
+ <p class="updated_time"> 02:56 AM CT, Nov. 02 </p> 
+ <a href="https://www.wsj.com/articles/afghanistans-main-military-hospital-hit-by-two-explosions-gunfire-11635847126">At Least 23 Killed in Two Explosions, Gunfire at Kabul's Main Military Hospital</a> WSJ: The complex attack bore the hallmarks of Islamic State, which has intensified the tempo of strikes against Taliban targets and the country’s Shiite minority in recent weeks. 
  <p class="updated_time"> 02:24 AM CT, Nov. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59128683?at_medium=RSS&at_campaign=KARANGA">COP26 Bangladesh: If tidal surges destroy our house, where will we go?</a> BBC: How villagers in Bangladesh's coastal areas are struggling with the impact of climate change. 
+ <p class="updated_time"> 02:15 AM CT, Nov. 02 </p> 
+ <a href="https://www.wsj.com/articles/yahoo-pulls-out-of-china-ending-tumultuous-two-decade-relationship-11635848926">Yahoo Quits China, Ending a Rocky Two-Decade Relationship</a> WSJ: The company cited an increasingly challenging business and legal environment in the country, and is the second well-known U.S. tech firm to downsize China operations in less than a month. 
  <p class="updated_time"> 02:00 AM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/02/science/climate-change-archaeology.html">As Earth Warms, Human History Is Melting Away</a> NYT: Climate change is revealing long-frozen artifacts and animals to archaeologists. But the window for study is slender and shrinking. 
  <p class="updated_time"> 02:00 AM CT, Nov. 02 </p> 
@@ -55,6 +61,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/02/business/car-shortage-global.html">How Car Shortages Are Putting the Economy at Risk</a> NYT: Because so many jobs depend on automaking, the industry’s production problems are causing the pain to ripple. 
  <p class="updated_time"> 01:53 AM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/asia/pakistan-protests-negotiations-tlp.html">After Violent Standoff, Pakistan Strikes Deal With Banned Islamist Group</a> NYT: The pact, announced Sunday, defused a crisis that had paralyzed several cities, but it also highlighted the government’s struggle to assert itself against religious extremists. 
+ <p class="updated_time"> 01:49 AM CT, Nov. 02 </p> 
+ <a href="https://www.wsj.com/articles/cop26-leaders-agree-to-end-deforestation-by-2030-11635844937">Leaders Agree to End Deforestation by 2030</a> WSJ: World leaders at the COP26 summit, including the U.S., China and Brazil, agreed to a deal aimed at ending and then reversing deforestation by 2030, committing nearly $20 billion of public and private funds to protect and restore forests. 
  <p class="updated_time"> 01:40 AM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/africa/nigeria-building-collapse-.html">Nigeria Building Collapse Kills at Least 5 With Many More Trapped</a> NYT: As many as 100 workers were feared trapped at a construction site in Lagos, where building collapses are common, with contractors using shoddy materials and regulations often not enforced. 
  <p class="updated_time"> 12:59 AM CT, Nov. 02 </p> 
@@ -135,22 +143,14 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/31/world/europe/uk-police-sexual-misconduct.html">U.K. Police Struggle to Curb Abuse of Women by Their Own Officers</a> NYT: Sexual misconduct by police officers has prompted outrage across Britain and led to increasing skepticism that departments can investigate or discipline employees who abuse women. 
  <p class="updated_time"> 05:02 AM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/europe/climate-conference-kicks-off-in-glasgow-with-floods-and-low-expectations.html">Climate conference kicks off in Glasgow with floods and low expectations.</a> NYT: NA 
- <p class="updated_time"> 04:07 AM CT, Nov. 01 </p> 
- <a href="https://www.wsj.com/articles/lebanon-faces-deepening-economic-crisis-as-saudis-cut-ties-over-iran-11635772026">Lebanon Faces Deepening Economic Crisis as Saudis Cut Ties Over Iran</a> WSJ: Saudi Arabia banned imports from Lebanon and, along with three other Gulf states, expelled its ambassador following remarks by an official about the war in Yemen. 
  <p class="updated_time"> 03:19 AM CT, Nov. 01 </p> 
  <a href="https://www.wsj.com/articles/some-of-the-worlds-last-covid-19-travel-holdouts-are-reopening-11635769187">Some of the World's Last Covid-19 Travel Holdouts Are Reopening</a> WSJ: Australia is allowing its citizens to travel freely into and out of the country if they are vaccinated, while Thailand began permitting vaccinated tourists from many countries to enter without requiring extended quarantines. 
  <p class="updated_time"> 03:00 AM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/michael-bloomberg-announces-an-effort-to-shut-down-coal-in-25-countries.html">Michael Bloomberg announces an effort to shut down coal in 25 countries.</a> NYT: NA 
- <p class="updated_time"> 02:14 AM CT, Nov. 01 </p> 
- <a href="https://www.wsj.com/articles/japanese-elections-fail-to-produce-gains-for-women-11635765296">Japanese Elections Fail to Produce Gains for Women</a> WSJ: The result of Japan’s election—a victory for the long-ruling Liberal Democratic Party—was familiar in another way as well. Less than one in 10 of the victorious candidates were women. 
- <p class="updated_time"> 12:30 AM CT, Nov. 01 </p> 
- <a href="https://www.wsj.com/articles/mariners-can-now-get-covid-19-vaccines-at-port-after-months-stranded-at-sea-11635759001">Stranded Mariners Can Now Get Covid Vaccines at Port</a> WSJ: Crews on cargo ships are receiving shots world-wide, preventing more supply-chain disruptions and allowing them to finally disembark. 
  <p class="updated_time"> 11:23 PM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/31/world/biden-g20-covid-climate.html">Struggling at Home, Biden Is Buoyed by G20 Trip Abroad</a> NYT: A trip to Rome invigorated a president whose poll numbers are slumping at home, but who projected confidence in his foreign and domestic agenda. 
  <p class="updated_time"> 08:57 PM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/31/us/politics/guantanamo-torture-letter.html">U.S. Military Jury Condemns Terrorist’s Torture and Urges Clemency</a> NYT: Seven senior officers rebuked the government’s treatment of an admitted terrorist in a handwritten letter from the jury room at Guantánamo Bay. 
- <p class="updated_time"> 07:03 PM CT, Oct. 31 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59097021?at_medium=RSS&at_campaign=KARANGA">Libya: Thousands of migrants and refugees camp on UN's doorstep</a> BBC: Thousands of people are on the streets after fleeing overcrowded detention centres in Libya's capital. 
  <p class="updated_time"> 06:25 PM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/31/world/europe/g20-climate-temperature-rise.html">G20 Leaders Agree on 1.5-Degree Climate Goal</a> NYT: Countries will “pursue efforts” to limit global temperature rise to 1.5 degrees Celsius, compared with preindustrial times. 
  <p class="updated_time"> 05:39 PM CT, Oct. 31 </p> 
@@ -170,10 +170,10 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:24 AM CT, Nov. 02 </p> 
+ <a href="https://www.nytimes.com/2021/11/02/climate/biden-methane-climate.html">Biden Administration Moves to Limit Methane, a Potent Greenhouse Gas</a> NYT: The new rule was announced at a U.N. summit where the United States is facing skepticism about its commitment to climate change. 
  <p class="updated_time"> 06:59 AM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/01/us/politics/pfizer-children-covid-vaccine.html">Pfizer Pediatric Vaccination Program to Be ‘at Full Strength’ Next Week, White House Says</a> NYT: “We are planning on some vaccinations towards the end of this week,” said Jeffrey D. Zients, a top White House official, adding that the government will deliver a total of 15 million doses “across the next week or so.” 
- <p class="updated_time"> 05:24 AM CT, Nov. 02 </p> 
- <a href="https://www.nytimes.com/2021/11/02/climate/biden-methane-climate.html">Biden Administration Moves to Limit Methane, a Potent Greenhouse Gas</a> NYT: The new rule was announced at a U.N. summit where the United States is facing skepticism about its commitment to climate change. 
  <p class="updated_time"> 03:39 AM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/01/business/stablecoins-cryptocurrency-regulation.html">Regulators Ask Congress to Create New Rules for Cryptocurrencies</a> NYT: A Treasury Department report says stablecoin issuers should operate like banks to avoid destabilizing runs that could erode financial stability. 
  <p class="updated_time"> 12:10 AM CT, Nov. 02 </p> 
