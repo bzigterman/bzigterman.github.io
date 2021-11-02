@@ -7,6 +7,12 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:31 AM CT, Nov. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-59132811?at_medium=RSS&at_campaign=KARANGA">COP26: Boris Johnson apologises to minister over wheelchair access</a> BBC: UK prime minister says sorry for "confusion" to Israeli minister who was unable to get into COP26. 
+ <p class="updated_time"> 08:29 AM CT, Nov. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-59133027?at_medium=RSS&at_campaign=KARANGA">China urges families to store basic supplies in case of emergency</a> BBC: The advice, amid Covid lockdowns and vegetable supply concerns, sparks some panic buying. 
+ <p class="updated_time"> 08:22 AM CT, Nov. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/technology-59136937?at_medium=RSS&at_campaign=KARANGA">Yahoo pulls out of China over 'challenging' business conditions</a> BBC: The US giant follows other Western tech firms out of a country that is tightening its regulations. 
  <p class="updated_time"> 08:19 AM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/02/world/europe/cop26-jeff-bezos-climate.html">Jeff Bezos Makes $2 Billion Environmental Pledge at COP26 Summit</a> NYT: The billionaire called the loss of Earth’s forests “a profound and urgent danger to us all.” 
  <p class="updated_time"> 08:18 AM CT, Nov. 02 </p> 
@@ -15,8 +21,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/02/world/asia/china-food-shortages-winter.html">China Urges Families to Stock up on Food for Winter</a> NYT: State-run news media said that the directives were to prepare for emergencies like coronavirus lockdowns as the country pursues its “zero Covid” policy. 
  <p class="updated_time"> 08:10 AM CT, Nov. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59133026?at_medium=RSS&at_campaign=KARANGA">Explosions and gunfire at Kabul military hospital in deadly attack</a> BBC: Unconfirmed reports suggest at least 15 have died in an attack at Sardar Daud Khan hospital. 
- <p class="updated_time"> 08:09 AM CT, Nov. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-59132811?at_medium=RSS&at_campaign=KARANGA">COP26: Boris Johnson apologises to minister over wheelchair access</a> BBC: UK prime minister says sorry for "confusion" to Israeli minister who was unable to get into COP26. 
  <p class="updated_time"> 07:34 AM CT, Nov. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59125228?at_medium=RSS&at_campaign=KARANGA">Nigeria Ikoyi building collapse: Race to find survivors</a> BBC: At least 10 people have died and many are feared trapped under rubble at the site in Lagos. 
  <p class="updated_time"> 07:32 AM CT, Nov. 02 </p> 
@@ -71,12 +75,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/01/world/africa/nigeria-building-collapse-.html">Nigeria Building Collapse Kills at Least 5 With Many More Trapped</a> NYT: As many as 100 workers were feared trapped at a construction site in Lagos, where building collapses are common, with contractors using shoddy materials and regulations often not enforced. 
  <p class="updated_time"> 12:59 AM CT, Nov. 02 </p> 
  <a href="https://www.bbc.co.uk/news/uk-wales-59050953?at_medium=RSS&at_campaign=KARANGA">COP26: Climate change graph 'needs more colours' as world gets hotter</a> BBC: The creator of the graphic representing world temperature said it will get "darker and darker". 
- <p class="updated_time"> 12:12 AM CT, Nov. 02 </p> 
- <a href="https://www.bbc.co.uk/news/business-59129466?at_medium=RSS&at_campaign=KARANGA">Squid Game crypto token collapses in apparent scam</a> BBC: Inspired by the hugely popular Netflix series Squid Game, the tokens had rocketed in value. 
  <p class="updated_time"> 12:10 AM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/europe/cop26-glasgow-biden-climate.html">At COP26 Summit, Urgent Pleas to Combat Global Warning</a> NYT: The opening day of a climate summit was heavy on dire warnings and light on substantive proposals as leaders in Glasgow met to discuss a warming world. 
- <p class="updated_time"> 11:51 PM CT, Nov. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-59129894?at_medium=RSS&at_campaign=KARANGA">Nicaragua accused of running internet troll farm</a> BBC: Facebook parent firm Meta removes hundreds of fake accounts said to be part of a disinformation campaign. 
  <p class="updated_time"> 10:39 PM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/europe/what-to-watch-monday-cop26.html">What to Watch For At COP26 on Monday and Tuesday</a> NYT: Prime Minister Boris Johnson was first to welcome leaders, who will then lay out “concrete actions and credible plans.” David Attenborough and Prince Charles are also speaking. 
  <p class="updated_time"> 08:01 PM CT, Nov. 01 </p> 
