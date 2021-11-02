@@ -7,12 +7,22 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:40 AM CT, Nov. 02 </p> 
+ <a href="https://www.nytimes.com/2021/11/01/world/africa/nigeria-building-collapse-.html">Nigeria Building Collapse Kills at Least 5 With Many More Trapped</a> NYT: As many as 100 workers were feared trapped at a construction site in Lagos, where building collapses are common, with contractors using shoddy materials and regulations often not enforced. 
+ <p class="updated_time"> 01:34 AM CT, Nov. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/science-environment-59088498?at_medium=RSS&at_campaign=KARANGA">COP26: World leaders promise to end deforestation by 2030</a> BBC: More than 100 nations including Brazil, Russia and Indonesia are expected to sign COP26's first major deal. 
  <p class="updated_time"> 01:04 AM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/02/climate/cop26-deforestation.html">Global Leaders Pledge to End Deforestation by 2030</a> NYT: The measure reflects a growing recognition of nature’s role in helping mitigate global warming. 
+ <p class="updated_time"> 12:59 AM CT, Nov. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-wales-59050953?at_medium=RSS&at_campaign=KARANGA">COP26: Climate change graph 'needs more colours' as world gets hotter</a> BBC: The creator of the graphic representing world temperature said it will get "darker and darker". 
+ <p class="updated_time"> 12:12 AM CT, Nov. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/business-59129466?at_medium=RSS&at_campaign=KARANGA">Squid Game crypto token collapses in apparent scam</a> BBC: Inspired by the hugely popular Netflix series Squid Game, the tokens had rocketed in value. 
  <p class="updated_time"> 12:11 AM CT, Nov. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59125143?at_medium=RSS&at_campaign=KARANGA">COP26: India PM Narendra Modi pledges net zero by 2070</a> BBC: The pledge misses a key goal of the COP26 summit for all nations to commit to net zero by 2050. 
  <p class="updated_time"> 12:10 AM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/europe/cop26-glasgow-biden-climate.html">At COP26 Summit, Urgent Pleas to Combat Global Warning</a> NYT: The opening day of a climate summit was heavy on dire warnings and light on substantive proposals as leaders in Glasgow met to discuss a warming world. 
+ <p class="updated_time"> 11:52 PM CT, Nov. 01 </p> 
+ <a href="https://www.bbc.co.uk/sport/horse-racing/59129052?at_medium=RSS&at_campaign=KARANGA">Melbourne Cup: Verry Elleegant wins Australia's biggest race</a> BBC: The mare upsets favourite Incentivise and Britain's Spanish Mission to claim Australia's prestigious race. 
  <p class="updated_time"> 11:51 PM CT, Nov. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59129894?at_medium=RSS&at_campaign=KARANGA">Nicaragua accused of running internet troll farm</a> BBC: Facebook parent firm Meta removes hundreds of fake accounts said to be part of a disinformation campaign. 
  <p class="updated_time"> 10:57 PM CT, Nov. 01 </p> 
@@ -23,8 +33,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-australia-59129048?at_medium=RSS&at_campaign=KARANGA">Scott Morrison: Australian PM rejects 'sledging' from France amid row</a> BBC: Scott Morrison was accused by Emmanuel Macron of lying about plans to scrap a submarine deal. 
  <p class="updated_time"> 08:59 PM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/queen-elizabeth-cop26.html"> Queen Elizabeth Urges Climate Action in COP26 Video</a> NYT: The 95-year-old monarch gave her address by video, after doctors advised her to rest and not go to the summit. Prince Charles attended and delivered a similar message. 
- <p class="updated_time"> 08:29 PM CT, Nov. 01 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-59088498?at_medium=RSS&at_campaign=KARANGA">COP26: World leaders promise to end deforestation by 2030</a> BBC: More than 100 nations including Brazil, Russia and Indonesia will vow to protect forests when they sign COP26's first major deal. 
  <p class="updated_time"> 08:23 PM CT, Nov. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59125228?at_medium=RSS&at_campaign=KARANGA">Nigeria building collapse: Race to find survivors as dozens still missing</a> BBC: Rescue efforts continue through the night in Lagos, with many people feared trapped under rubble. 
  <p class="updated_time"> 08:01 PM CT, Nov. 01 </p> 
@@ -44,25 +52,19 @@ permalink: /projects/news/
  <p class="updated_time"> 07:01 PM CT, Nov. 01 </p> 
  <a href="https://www.bbc.co.uk/news/business-58788040?at_medium=RSS&at_campaign=KARANGA">Why Africa urgently needs its own genetic library</a> BBC: Genetically profiling three million Africans could be key for better healthcare, argue scientists. 
  <p class="updated_time"> 06:59 PM CT, Nov. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-59128618?at_medium=RSS&at_campaign=KARANGA">COP26: Wheelchair using minister unable to attend summit</a> BBC: Karine Elharrar tweets that it is "sad" that "the UN does not provide accessibility to its events". 
+ <a href="https://www.bbc.co.uk/news/world-59128618?at_medium=RSS&at_campaign=KARANGA">COP26: Wheelchair-using minister unable to attend summit</a> BBC: Karine Elharrar tweets that it is "sad" that "the UN does not provide accessibility to its events". 
  <p class="updated_time"> 06:49 PM CT, Nov. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59128875?at_medium=RSS&at_campaign=KARANGA">COP26: Was US President Biden asleep or just resting his eyes?</a> BBC: Video footage from the climate summit shows US President Joe Biden sitting with his eyes closed. 
  <p class="updated_time"> 06:38 PM CT, Nov. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59071864?at_medium=RSS&at_campaign=KARANGA">Virginia election: A tight race for the governor's mansion</a> BBC: The close gubernatorial battle in this key state is being seen as a referendum on the Biden presidency. 
- <p class="updated_time"> 06:25 PM CT, Nov. 01 </p> 
- <a href="https://www.nytimes.com/2021/11/01/world/africa/nigeria-building-collapse-.html">Nigeria Building Collapse Kills at Least 4 With Many More Trapped</a> NYT: As many as 100 workers were feared trapped at a construction site in Lagos, where building collapses are common, with contractors using shoddy materials and regulations often not enforced. 
  <p class="updated_time"> 06:14 PM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/10/31/world/nyc-firefighters-police-vaccine-mandate.html">Over 2,000 New York City Firefighters Took Sick Days as Vaccine Mandate Looms</a> NYT: More than 22,000 municipal workers remained unvaccinated a day before a city deadline to get their first dose of a coronavirus vaccine. 
  <p class="updated_time"> 06:03 PM CT, Nov. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59128159?at_medium=RSS&at_campaign=KARANGA">Day of the Dead parade returns to Mexico City after Covid</a> BBC: The James Bond-inspired carnival fills Mexico City with skeletons, dancers and giant sculptures. 
- <p class="updated_time"> 05:43 PM CT, Nov. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59124427?at_medium=RSS&at_campaign=KARANGA">Dr Aaron Beck: Cognitive behavioural therapy pioneer dies aged 100</a> BBC: Dr Aaron Beck's work is considered revolutionary worldwide for the treatment of mental health. 
  <p class="updated_time"> 04:49 PM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/australia/australia-border-reopening-covid.html">Australia Allows Residents, Citizens to Return as Borders Open</a> NYT: After 18 months of strict measures to combat the pandemic, the states of New South Wales and Victoria relaxed restrictions on citizens and permanent residents seeking to travel back from overseas. 
  <p class="updated_time"> 04:38 PM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/asia/modi-india-cop26-renewable-energy.html">India Will Sharply Increase Renewable Energy, Modi Says</a> NYT: Wealthy nations need to spend $1 trillion to help developing nations like India make the transition to renewables, Prime Minister Modi said. 
- <p class="updated_time"> 03:46 PM CT, Nov. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59125653?at_medium=RSS&at_campaign=KARANGA">US Supreme Court hears arguments in controversial Texas abortion case</a> BBC: The justices will decide whether providers and the government can challenge Texas' abortion ban. 
  <p class="updated_time"> 03:39 PM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/europe/greta-thunberg-cop26-glasgow.html">Greta Thunberg Arrives in Glasgow for COP26 and Joins a Protest</a> NYT: The activist, whose solo climate strikes in 2018 helped fuel a youth climate movement, was greeted like a rock star upon arriving in the city, according to videos. 
  <p class="updated_time"> 01:59 PM CT, Nov. 01 </p> 
@@ -79,8 +81,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-59095778?at_medium=RSS&at_campaign=KARANGA">Oromo Liberation Army: On the ground with Ethiopian fighters</a> BBC: The BBC's Catherine Byaruhanga gains special access to Ethiopia's Oromo Liberation Army. 
  <p class="updated_time"> 12:13 PM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/europe/cop26-climate-antonio-guterres.html">U.N. Leader, António Guterres, Warns of 'Climate Catastrophe' at COP26</a> NYT: He urged countries to review their climate pledges annually rather than every five years as called for in the 2015 Paris accord. 
- <p class="updated_time"> 12:10 PM CT, Nov. 01 </p> 
- <a href="https://www.bbc.co.uk/news/business-59117084?at_medium=RSS&at_campaign=KARANGA">Barclays boss Jes Staley in shock exit angry at Epstein probe</a> BBC: Jes Staley is leaving the bank following an investigation into his links to sex offender Jeffrey Epstein. 
  <p class="updated_time"> 12:08 PM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/travel/soviet-era-metros.html">The Stunning Grandeur of Soviet-Era Metros</a> NYT: Between 2014 and 2020, Frank Herfort visited more than 770 metro stations in 19 cities, creating a remarkable archive of architectural and artistic splendor. 
  <p class="updated_time"> 12:03 PM CT, Nov. 01 </p> 
@@ -89,10 +89,10 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/science-environment-59121480?at_medium=RSS&at_campaign=KARANGA">My day at COP26: 'I told world leaders: We're not drowning, we're fighting'</a> BBC: Samoan climate activist Brianna Fruean addressed world leaders at COP26 - she describes what it felt like to speak up for Pacific islanders. 
  <p class="updated_time"> 11:50 AM CT, Nov. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-59119321?at_medium=RSS&at_campaign=KARANGA">Handball federation changes uniform rules after bikini row</a> BBC: A campaign had pushed for an overhaul after Norway's team were fined for wearing shorts in July. 
- <p class="updated_time"> 11:45 AM CT, Nov. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-59125138?at_medium=RSS&at_campaign=KARANGA">COP26: David Attenborough says world is looking to leaders</a> BBC: The naturalist urges climate summit delegates to "turn tragedy into triumph" for young people. 
  <p class="updated_time"> 11:43 AM CT, Nov. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59124419?at_medium=RSS&at_campaign=KARANGA">Military officers condemn CIA torture as a stain on America</a> BBC: Military jury asks for clemency in case of Majid Khan and rebukes his alleged treatment by the CIA. 
+ <p class="updated_time"> 11:34 AM CT, Nov. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59121470?at_medium=RSS&at_campaign=KARANGA">Timed Teaser: Who entered the Rock & Roll Hall of Fame?</a> BBC: Test your knowledge of the news these last few days - 10 questions, 10 seconds each. Go! 
  <p class="updated_time"> 11:07 AM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/5-million-covid-deaths.html">Global Covid Death Toll Surpasses 5 Million, but Full Count Is Higher</a> NYT: Many countries do not accurately report their figures, and many Covid deaths are misattributed, experts say. 
  <p class="updated_time"> 10:15 AM CT, Nov. 01 </p> 
@@ -129,6 +129,8 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/japanese-elections-fail-to-produce-gains-for-women-11635765296">Japanese Elections Fail to Produce Gains for Women</a> WSJ: The result of Japan’s election—a victory for the long-ruling Liberal Democratic Party—was familiar in another way as well. Less than one in 10 of the victorious candidates were women. 
  <p class="updated_time"> 12:30 AM CT, Nov. 01 </p> 
  <a href="https://www.wsj.com/articles/mariners-can-now-get-covid-19-vaccines-at-port-after-months-stranded-at-sea-11635759001">Stranded Mariners Can Now Get Covid Vaccines at Port</a> WSJ: Crews on cargo ships are receiving shots world-wide, preventing more supply-chain disruptions and allowing them to finally disembark. 
+ <p class="updated_time"> 12:04 AM CT, Nov. 01 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-59115079?at_medium=RSS&at_campaign=KARANGA">Covid: Emotional reunions as Australia's border reopens</a> BBC: International travellers hug loved ones at Sydney Airport for the first time in 20 months. 
  <p class="updated_time"> 11:23 PM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/31/world/biden-g20-covid-climate.html">Struggling at Home, Biden Is Buoyed by G20 Trip Abroad</a> NYT: A trip to Rome invigorated a president whose poll numbers are slumping at home, but who projected confidence in his foreign and domestic agenda. 
  <p class="updated_time"> 08:57 PM CT, Oct. 31 </p> 
