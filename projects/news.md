@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:11 PM CT, Nov. 02 </p> 
+ <a href="https://www.nytimes.com/2021/11/02/world/middleeast/palestinian-jerusalem-eviction-jarrah.html">Palestinian Families Reject Deal in Area That Set Off Gaza Conflict</a> NYT: The threatened evictions of Palestinian residents of the Sheikh Jarrah neighborhood of East Jerusalem led to a war in Gaza last May. 
  <p class="updated_time"> 01:43 PM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/02/world/americas/brazil-climate.html">Once a Climate Leader, Brazil Falls Short in Glasgow</a> NYT: The country’s proposals show a desire to burnish its image, but President Jair Bolsonaro’s record and his absence from the summit cast doubt on its commitment to reversing course. 
  <p class="updated_time"> 01:42 PM CT, Nov. 02 </p> 
@@ -42,7 +44,7 @@ permalink: /projects/news/
  <p class="updated_time"> 12:13 PM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/02/technology/facebook-facial-recognition.html">Facebook Plans to Shut Down Its Facial Recognition System</a> NYT: Saying it wants “to find the right balance” with the technology, the social network will delete the face scan data of more than one billion users. 
  <p class="updated_time"> 12:02 PM CT, Nov. 02 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-59140269?at_medium=RSS&at_campaign=KARANGA">My day at COP26: 'What it's like to fight for my country's survival'</a> BBC: Kathy Jetn̄il-Kijiner, a poet and activist, is at COP26 as a climate envoy for the Marshall Islands in the Pacific Ocean. 
+ <a href="https://www.bbc.co.uk/news/science-environment-59140269?at_medium=RSS&at_campaign=KARANGA">My day at COP26: 'My island home is threatened - we have no hill to run to'</a> BBC: Kathy Jetn̄il-Kijiner, a poet and activist, is at COP26 as a climate envoy for the Marshall Islands in the Pacific Ocean. 
  <p class="updated_time"> 11:50 AM CT, Nov. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59133026?at_medium=RSS&at_campaign=KARANGA">More than 20 killed in attack on Kabul military hospital</a> BBC: There were two explosions and gunfire at the site of the Sardar Daud Khan military hospital. 
  <p class="updated_time"> 11:47 AM CT, Nov. 02 </p> 
@@ -190,18 +192,20 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
- <p class="updated_time"> 01:55 PM CT, Nov. 02 </p> 
- <a href="https://www.nytimes.com/2021/11/02/us/politics/democrats-reach-deal-to-lower-drug-prices-in-social-policy-bill.html">Democrats Reach Deal to Control Drug Prices in Social Policy Bill</a> NYT: The provision would, for the first time, allow the government to negotiate prices for some medicines covered by Medicare. 
- <p class="updated_time"> 01:52 PM CT, Nov. 02 </p> 
- <a href="https://www.nytimes.com/2021/11/02/us/politics/manchin-methane-fee.html">Democrats Work to Salvage Methane Fee Amid Opposition From Manchin</a> NYT: Senator Joe Manchin III of West Virginia, a Democratic holdout, is still working to weaken or jettison a proposed fee on emissions of methane, a powerful pollutant. 
- <p class="updated_time"> 01:51 PM CT, Nov. 02 </p> 
+ <p class="updated_time"> 02:14 PM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/02/books/penguin-random-house-simon-schuster-merger-lawsuit.html">Justice Dept. Sues Penguin Random House Over Simon & Schuster Deal</a> NYT: The Biden administration’s rejection of the proposed $2.18 billion publishing merger reflects a changing atmosphere in Washington toward consolidation. 
+ <p class="updated_time"> 02:11 PM CT, Nov. 02 </p> 
+ <a href="https://www.nytimes.com/2021/11/02/us/politics/manchin-methane-fee.html">Democrats Work to Salvage Methane Fee Amid Opposition From Manchin</a> NYT: Senator Joe Manchin III of West Virginia, a Democratic holdout, is still working to weaken or jettison a proposed fee on emissions of methane, a powerful pollutant. 
+ <p class="updated_time"> 02:08 PM CT, Nov. 02 </p> 
+ <a href="https://www.nytimes.com/2021/11/02/us/politics/democrats-drug-prices-deal.html">Democrats Reach Deal to Control Drug Prices in Social Policy Bill</a> NYT: The provision would, for the first time, allow the government to negotiate prices for some medicines covered by Medicare. 
+ <p class="updated_time"> 02:02 PM CT, Nov. 02 </p> 
+ <a href="https://www.nytimes.com/2021/11/02/us/politics/us-land-border-travel.html">Travelers by Land Should Ready Documents, U.S. Officials Say</a> NYT: The reopening comes just ahead of the holiday season, clearing the way for tourists and other nonessential travelers after about 19 months of border closures 
  <p class="updated_time"> 01:22 PM CT, Nov. 02 </p> 
  <a href="https://www.politico.com/news/2021/11/02/dems-drug-pricing-518554">‘Real sign of progress’: Dems nearing deal on drug pricing</a> Politico: An outline of the most recent policy, obtained by POLITICO, would empower the government to negotiate the cost of 30 drugs by 2028, and would carve out exceptions for small biotech companies. 
  <p class="updated_time"> 01:17 PM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/02/us/politics/conservatives-new-york-gun-law.html">Prominent Conservatives Back Letting States Limit Guns in Public</a> NYT: A brief filed in a major gun control case to be heard on Wednesday by the Supreme Court argued that limits on the public carrying of weapons were consistent with the Second Amendment. 
  <p class="updated_time"> 12:55 PM CT, Nov. 02 </p> 
- <a href="https://www.nytimes.com/2021/11/02/us/politics/election-results-polls-closing.html">Election Day 2021: What to Watch in Tuesday’s Elections</a> NYT: The Virginia governor’s race will be closely studied for clues about the midterms, and new mayors will be chosen in New York, Boston, Buffalo, Atlanta and more. 
+ <a href="https://www.nytimes.com/2021/11/02/us/politics/election-results-polls-closing.html">What to Watch in Tuesday’s Elections</a> NYT: The Virginia governor’s race will be closely studied for clues about the midterms, and new mayors will be chosen in New York, Boston, Buffalo, Atlanta and more. 
  <p class="updated_time"> 12:42 PM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/02/climate/biden-methane-climate.html">Biden Administration Moves to Limit Methane, a Potent Greenhouse Gas</a> NYT: The new rule was announced at a U.N. summit where the United States is facing skepticism about its commitment to climate change. 
  <p class="updated_time"> 12:42 PM CT, Nov. 02 </p> 
@@ -224,8 +228,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/01/us/politics/challenging-the-texas-abortion-law.html">Why is it So Hard to Challenge the Texas Abortion Law?</a> NYT: The structure of the law, which delegates enforcement authority to millions of people, means there is no obvious person whom its opponents can sue. 
  <p class="updated_time"> 04:51 PM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/us/politics/marc-hearron-abortion-supreme-court.html">Who is Marc Hearron? Attorney for Abortion Providers, Has Deep Texas Ties</a> NYT: Mr. Hearron has worked on pro bono cases involving reproductive rights and L.G.B.T.Q. rights. 
- <p class="updated_time"> 03:55 PM CT, Nov. 01 </p> 
- <a href="https://www.nytimes.com/2021/11/01/us/politics/texas-abortion-law-facts.html">Here's What The Texas Abortion Law Prohibits</a> NYT: Abortions are now illegal in Texas after “cardiac activity” is detectable, usually at around six weeks of pregnancy. 
  <p class="updated_time"> 11:35 AM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/us/politics/brett-kavanaugh-abortion.html">Will Justice Brett Kavanaugh Change His Position on Abortion?</a> NYT: Justice Kavanaugh has consistently supported abortion restrictions, but occasionally stakes out more moderate positions than his colleagues. 
  <p class="updated_time"> 11:27 AM CT, Nov. 01 </p> 
