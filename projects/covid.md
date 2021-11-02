@@ -1155,17 +1155,17 @@ html {
 <td class="gt_row gt_right">1.3K</td>
 <td class="gt_row gt_right">&minus;24&percnt;</td></tr>
     <tr><td class="gt_row gt_left gt_striped">New Vaccine Doses</td>
-<td class="gt_row gt_right gt_striped">830.0K</td>
-<td class="gt_row gt_right gt_striped">1.2M</td>
-<td class="gt_row gt_right gt_striped">+49&percnt;</td></tr>
+<td class="gt_row gt_right gt_striped">717.0K</td>
+<td class="gt_row gt_right gt_striped">802.0K</td>
+<td class="gt_row gt_right gt_striped">+12&percnt;</td></tr>
     <tr><td class="gt_row gt_left">Fully Vaccinated</td>
 <td class="gt_row gt_right">189.0M</td>
-<td class="gt_row gt_right">193.0M</td>
-<td class="gt_row gt_right">+2&percnt;</td></tr>
+<td class="gt_row gt_right">191.0M</td>
+<td class="gt_row gt_right">+1&percnt;</td></tr>
     <tr><td class="gt_row gt_left gt_striped">Pct. Fully Vaccinated</td>
 <td class="gt_row gt_right gt_striped">56.3</td>
-<td class="gt_row gt_right gt_striped">57.3</td>
-<td class="gt_row gt_right gt_striped">+2&percnt;</td></tr>
+<td class="gt_row gt_right gt_striped">56.8</td>
+<td class="gt_row gt_right gt_striped">+1&percnt;</td></tr>
   </tbody>
   <tfoot class="gt_sourcenotes">
     <tr>
@@ -1545,16 +1545,16 @@ html {
 <td class="gt_row gt_right gt_striped">7.2K</td>
 <td class="gt_row gt_right gt_striped">+6&percnt;</td></tr>
     <tr><td class="gt_row gt_left">New Vaccine Doses</td>
-<td class="gt_row gt_right">22.8M</td>
-<td class="gt_row gt_right">28.4M</td>
-<td class="gt_row gt_right">+25&percnt;</td></tr>
+<td class="gt_row gt_right">22.6M</td>
+<td class="gt_row gt_right">28.0M</td>
+<td class="gt_row gt_right">+24&percnt;</td></tr>
     <tr><td class="gt_row gt_left gt_striped">Fully Vaccinated</td>
 <td class="gt_row gt_right gt_striped">2.9B</td>
 <td class="gt_row gt_right gt_striped">3.1B</td>
 <td class="gt_row gt_right gt_striped">+7&percnt;</td></tr>
     <tr><td class="gt_row gt_left">Pct. Fully Vaccinated</td>
 <td class="gt_row gt_right">36.3</td>
-<td class="gt_row gt_right">38.9</td>
+<td class="gt_row gt_right">38.8</td>
 <td class="gt_row gt_right">+7&percnt;</td></tr>
   </tbody>
   <tfoot class="gt_sourcenotes">
