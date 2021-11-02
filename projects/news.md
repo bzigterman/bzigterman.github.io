@@ -7,16 +7,20 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:19 AM CT, Nov. 02 </p> 
+ <a href="https://www.nytimes.com/2021/11/02/world/europe/cop26-jeff-bezos-climate.html">Jeff Bezos Makes $2 Billion Environmental Pledge at COP26 Summit</a> NYT: The billionaire called the loss of Earth’s forests “a profound and urgent danger to us all.” 
+ <p class="updated_time"> 08:18 AM CT, Nov. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59133076?at_medium=RSS&at_campaign=KARANGA">Why Syrians face deportation from Turkey over banana jokes</a> BBC: Turkish authorities accuse some Syrians of "inciting hatred" for eating bananas. Here's why. 
  <p class="updated_time"> 08:15 AM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/02/world/asia/china-food-shortages-winter.html">China Urges Families to Stock up on Food for Winter</a> NYT: State-run news media said that the directives were to prepare for emergencies like coronavirus lockdowns as the country pursues its “zero Covid” policy. 
  <p class="updated_time"> 08:10 AM CT, Nov. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59133026?at_medium=RSS&at_campaign=KARANGA">Explosions and gunfire at Kabul military hospital in deadly attack</a> BBC: Unconfirmed reports suggest at least 15 have died in an attack at Sardar Daud Khan hospital. 
  <p class="updated_time"> 08:09 AM CT, Nov. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-59132811?at_medium=RSS&at_campaign=KARANGA">COP26: Boris Johnson apologises to minister over wheelchair access</a> BBC: UK prime minister says sorry for "confusion" to Israeli minister who was unable to get into COP26. 
- <p class="updated_time"> 07:39 AM CT, Nov. 02 </p> 
- <a href="https://www.nytimes.com/2021/11/02/world/europe/cop26-jeff-bezos-climate.html">Jeff Bezos Makes $2 Billion Environmental Pledge at COP26 Summit</a> NYT: The billionaire called the loss of Earth’s forests “a profound and urgent danger to us all.” 
  <p class="updated_time"> 07:34 AM CT, Nov. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59125228?at_medium=RSS&at_campaign=KARANGA">Nigeria Ikoyi building collapse: Race to find survivors</a> BBC: At least 10 people have died and many are feared trapped under rubble at the site in Lagos. 
+ <p class="updated_time"> 07:32 AM CT, Nov. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/business-59132104?at_medium=RSS&at_campaign=KARANGA">COP26: Bezos pledges $2bn for restoring nature</a> BBC: Amazon founder Jeff Bezos tells the COP26 climate meeting he was inspired by his recent space trip. 
  <p class="updated_time"> 07:23 AM CT, Nov. 02 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59088498?at_medium=RSS&at_campaign=KARANGA">COP26: World leaders promise to end deforestation by 2030</a> BBC: More than 100 nations - including Brazil, Russia and Indonesia - sign COP26's first major deal. 
  <p class="updated_time"> 07:20 AM CT, Nov. 02 </p> 
@@ -75,8 +79,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-latin-america-59129894?at_medium=RSS&at_campaign=KARANGA">Nicaragua accused of running internet troll farm</a> BBC: Facebook parent firm Meta removes hundreds of fake accounts said to be part of a disinformation campaign. 
  <p class="updated_time"> 10:39 PM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/europe/what-to-watch-monday-cop26.html">What to Watch For At COP26 on Monday and Tuesday</a> NYT: Prime Minister Boris Johnson was first to welcome leaders, who will then lay out “concrete actions and credible plans.” David Attenborough and Prince Charles are also speaking. 
- <p class="updated_time"> 09:05 PM CT, Nov. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-59129048?at_medium=RSS&at_campaign=KARANGA">Scott Morrison: Australian PM rejects 'sledging' from France amid row</a> BBC: Scott Morrison was accused by Emmanuel Macron of lying about plans to scrap a submarine deal. 
  <p class="updated_time"> 08:01 PM CT, Nov. 01 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59114449?at_medium=RSS&at_campaign=KARANGA">COP26: What climate summit means for one woman in Bangladesh</a> BBC: What do decisions made at a summit in Glasgow mean for a woman in a village on the front line of climate change? 
  <p class="updated_time"> 07:51 PM CT, Nov. 01 </p> 
@@ -121,8 +123,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/01/travel/soviet-era-metros.html">The Stunning Grandeur of Soviet-Era Metros</a> NYT: Between 2014 and 2020, Frank Herfort visited more than 770 metro stations in 19 cities, creating a remarkable archive of architectural and artistic splendor. 
  <p class="updated_time"> 11:45 AM CT, Nov. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-59125138?at_medium=RSS&at_campaign=KARANGA">COP26: David Attenborough says world is looking to leaders</a> BBC: The naturalist urges climate summit delegates to "turn tragedy into triumph" for young people. 
- <p class="updated_time"> 11:43 AM CT, Nov. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59124419?at_medium=RSS&at_campaign=KARANGA">Military officers condemn CIA torture as a stain on America</a> BBC: Military jury asks for clemency in case of Majid Khan and rebukes his alleged treatment by the CIA. 
  <p class="updated_time"> 11:34 AM CT, Nov. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59121470?at_medium=RSS&at_campaign=KARANGA">Timed Teaser: Who entered the Rock & Roll Hall of Fame?</a> BBC: Test your knowledge of the news these last few days - 10 questions, 10 seconds each. Go! 
  <p class="updated_time"> 11:07 AM CT, Nov. 01 </p> 
@@ -170,6 +170,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:28 AM CT, Nov. 02 </p> 
+ <a href="https://www.nytimes.com/2021/11/02/us/politics/election-results-polls-closing.html">Election Day 2021: What to Watch in Tuesday’s Elections</a> NYT: The Virginia governor’s race will be closely studied for clues about the midterms, and new mayors will be chosen in New York, Boston, Buffalo, Atlanta and more. 
  <p class="updated_time"> 07:24 AM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/02/climate/biden-methane-climate.html">Biden Administration Moves to Limit Methane, a Potent Greenhouse Gas</a> NYT: The new rule was announced at a U.N. summit where the United States is facing skepticism about its commitment to climate change. 
  <p class="updated_time"> 06:59 AM CT, Nov. 02 </p> 
@@ -178,8 +180,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/01/business/stablecoins-cryptocurrency-regulation.html">Regulators Ask Congress to Create New Rules for Cryptocurrencies</a> NYT: A Treasury Department report says stablecoin issuers should operate like banks to avoid destabilizing runs that could erode financial stability. 
  <p class="updated_time"> 12:10 AM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/europe/cop26-glasgow-biden-climate.html">At COP26 Summit, Urgent Pleas to Combat Global Warning</a> NYT: The opening day of a climate summit was heavy on dire warnings and light on substantive proposals as leaders in Glasgow met to discuss a warming world. 
- <p class="updated_time"> 11:01 PM CT, Nov. 01 </p> 
- <a href="https://www.nytimes.com/2021/11/02/us/politics/election-results-polls-closing.html">Election Day 2021: What to Watch in Tuesday’s Elections</a> NYT: The Virginia governor’s race will be closely studied for clues about the midterms, and new mayors will be chosen in New York, Boston, Buffalo, Atlanta and more. 
  <p class="updated_time"> 10:57 PM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/us/linwood-holton-dead.html">Linwood Holton, 98,Virginia Governor Who Pushed for Racial Equality, Dies</a> NYT: The first Republican governor of the state in almost a century, he seemed to herald a new, post-racial South. He later became disillusioned with his own party. 
  <p class="updated_time"> 09:33 PM CT, Nov. 01 </p> 
