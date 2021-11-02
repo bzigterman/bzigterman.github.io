@@ -7,14 +7,18 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:44 AM CT, Nov. 02 </p> 
+ <a href="https://www.nytimes.com/2021/11/02/science/climate-change-archaeology.html">As Earth Warms, Human History Is Melting Away</a> NYT: Climate change is revealing long-frozen artifacts and animals to archaeologists. But the window for study is slender and shrinking. 
+ <p class="updated_time"> 09:40 AM CT, Nov. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59133026?at_medium=RSS&at_campaign=KARANGA">More than 20 killed in attack on Kabul military hospital</a> BBC: There were two explosions and gunfire at the site of the Sardar Daud Khan military hospital. 
  <p class="updated_time"> 09:33 AM CT, Nov. 02 </p> 
- <a href="https://www.nytimes.com/2021/11/02/world/asia/afghanistan-hospital-attack.html">Dozens Killed in Attack on Military Hospital in Afghanistan’s Capital</a> NYT: No group has claimed responsibility for the violence, but the Islamic State has struck more often since the fall of the U.S.-backed government in August. 
+ <a href="https://www.nytimes.com/2021/11/02/world/asia/afghanistan-kabul-hospital-attack.html">Dozens Killed in Attack on Military Hospital in Afghanistan’s Capital</a> NYT: No group has claimed responsibility for the violence, but the Islamic State has struck more often since the fall of the U.S.-backed government in August. 
+ <p class="updated_time"> 09:32 AM CT, Nov. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/science-environment-59088498?at_medium=RSS&at_campaign=KARANGA">COP26: World leaders promise to end deforestation by 2030</a> BBC: More than 100 nations - including Brazil, Russia and Indonesia - sign COP26's first major deal. 
  <p class="updated_time"> 09:24 AM CT, Nov. 02 </p> 
  <a href="https://www.bbc.co.uk/news/business-59132104?at_medium=RSS&at_campaign=KARANGA">COP26: Bezos pledges $2bn for restoring nature</a> BBC: Amazon founder Jeff Bezos tells the COP26 climate meeting he was inspired by his recent space trip. 
  <p class="updated_time"> 08:52 AM CT, Nov. 02 </p> 
  <a href="https://www.bbc.co.uk/news/technology-59122605?at_medium=RSS&at_campaign=KARANGA">Tesla opens its chargers to other electric cars</a> BBC: A pilot scheme in the Netherlands is intended to pave the way for large-scale global expansion. 
- <p class="updated_time"> 08:45 AM CT, Nov. 02 </p> 
- <a href="https://www.nytimes.com/2021/11/02/science/climate-change-archaeology.html">As Earth Warms, Human History Is Melting Away</a> NYT: Climate change is revealing long-frozen artifacts and animals to archaeologists. But the window for study is slender and shrinking. 
  <p class="updated_time"> 08:40 AM CT, Nov. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59125228?at_medium=RSS&at_campaign=KARANGA">Nigeria Ikoyi building collapse: Race to find survivors</a> BBC: At least 10 people have died and many are feared trapped under rubble at the site in Lagos. 
  <p class="updated_time"> 08:31 AM CT, Nov. 02 </p> 
@@ -29,10 +33,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59133076?at_medium=RSS&at_campaign=KARANGA">Why Syrians face deportation from Turkey over banana jokes</a> BBC: Turkish authorities accuse some Syrians of "inciting hatred" for eating bananas. Here's why. 
  <p class="updated_time"> 08:15 AM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/02/world/asia/china-food-shortages-winter.html">China Urges Families to Stock up on Food for Winter</a> NYT: State-run news media said that the directives were to prepare for emergencies like coronavirus lockdowns as the country pursues its “zero Covid” policy. 
- <p class="updated_time"> 08:10 AM CT, Nov. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59133026?at_medium=RSS&at_campaign=KARANGA">Explosions and gunfire at Kabul military hospital in deadly attack</a> BBC: Unconfirmed reports suggest at least 15 have died in an attack at Sardar Daud Khan hospital. 
- <p class="updated_time"> 07:23 AM CT, Nov. 02 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-59088498?at_medium=RSS&at_campaign=KARANGA">COP26: World leaders promise to end deforestation by 2030</a> BBC: More than 100 nations - including Brazil, Russia and Indonesia - sign COP26's first major deal. 
  <p class="updated_time"> 07:20 AM CT, Nov. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59136233?at_medium=RSS&at_campaign=KARANGA">Brazil: Amazon parrot plays peekaboo with CCTV traffic camera</a> BBC: A turquoise-fronted amazon parrot was captured investigating a CCTV camera in Curitiba, Brazil. 
  <p class="updated_time"> 07:13 AM CT, Nov. 02 </p> 
