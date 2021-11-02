@@ -7,16 +7,20 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:28 PM CT, Nov. 02 </p> 
+ <a href="https://www.nytimes.com/2021/11/02/climate/cop26-deforestation.html">Global Leaders Pledge to End Deforestation by 2030</a> NYT: The landmark agreement reflects a growing recognition of nature’s role in helping to address global warming. Still, critics said it wasn’t ambitious enough. 
+ <p class="updated_time"> 01:28 PM CT, Nov. 02 </p> 
+ <a href="https://www.nytimes.com/2021/11/01/sports/women-beach-handball-bikini.html">Handball Federation Ends Bikini Bottom Requirement for Women</a> NYT: After outrage over a fine levied against the Norwegian women’s beach handball team for competing in shorts, the sport’s international federation said it was changing its rules. 
+ <p class="updated_time"> 01:27 PM CT, Nov. 02 </p> 
+ <a href="https://www.nytimes.com/2021/11/02/world/africa/ethiopia-state-of-emergency.html">Ethiopia Declares State of Emergency as Rebels Advance Toward Capital</a> NYT: In a milestone in the yearlong conflict, the government called on civilians to pick up arms and prepare to defend Addis Ababa after Tigrayan forces captured two key towns about 160 miles away. 
+ <p class="updated_time"> 01:22 PM CT, Nov. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59133079?at_medium=RSS&at_campaign=KARANGA">Ex-Fifa president Blatter and ex-Uefa boss Platini charged with fraud</a> BBC: Sepp Blatter and Michel Platini, former world and European football heads, are charged with fraud. 
  <p class="updated_time"> 01:01 PM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/02/world/europe/united-states-russia-william-burns.html">U.S.-Russia Engagement Deepens as C.I.A. Head Travels to Moscow</a> NYT: It was at least the fourth trip to Moscow since July by a senior American official as the two sides seek to stabilize a volatile relationship. 
- <p class="updated_time"> 12:54 PM CT, Nov. 02 </p> 
- <a href="https://www.nytimes.com/2021/11/02/climate/cop26-deforestation.html">Global Leaders Pledge to End Deforestation by 2030</a> NYT: The landmark agreement reflects a growing recognition of nature’s role in helping to address global warming. Still, critics said it wasn’t ambitious enough. 
  <p class="updated_time"> 12:52 PM CT, Nov. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59135169?at_medium=RSS&at_campaign=KARANGA">COP26: South Africa hails deal to end reliance on coal</a> BBC: More than 80% of South Africa's power is generated with coal - its sulphur smell polluting large areas. 
  <p class="updated_time"> 12:52 PM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/john-kerry-cop26.html">John Kerry Plays Down COP26 Expectations</a> NYT: “Glasgow was never ever going to get every country joining up,” Mr. Kerry said. He’s already looking to next year to build on pledges that nations have made and push them to do more. 
- <p class="updated_time"> 12:50 PM CT, Nov. 02 </p> 
- <a href="https://www.nytimes.com/2021/11/02/world/africa/ethiopia-state-of-emergency.html">Ethiopia Declares State of Emergency as Rebels Advance Toward Capital</a> NYT: In a milestone in the yearlong conflict, the government called on civilians to pick up arms and prepare to defend Addis Ababa after Tigrayan forces captured two key towns about 160 miles away. 
  <p class="updated_time"> 12:42 PM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/10/31/climate/climate-change-biden-cop26.html">At Climate Talks, Biden Will Try to Sell American Leadership to Skeptics</a> NYT: The president wants to assure Glasgow’s climate summit that the U.S. is serious about climate change. But he lacks a legislative win at home. 
  <p class="updated_time"> 12:42 PM CT, Nov. 02 </p> 
@@ -33,8 +37,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/science-environment-58925049?at_medium=RSS&at_campaign=KARANGA">COP26: Should there be limits on meat eating? And more questions</a> BBC: BBC correspondents answer your questions about Glasgow's COP26 climate summit. 
  <p class="updated_time"> 12:13 PM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/02/technology/facebook-facial-recognition.html">Facebook Plans to Shut Down Its Facial Recognition System</a> NYT: Saying it wants “to find the right balance” with the technology, the social network will delete the face scan data of more than one billion users. 
- <p class="updated_time"> 12:07 PM CT, Nov. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59133079?at_medium=RSS&at_campaign=KARANGA">Ex-Fifa president Blatter and ex-Uefa boss Platini charged with fraud</a> BBC: Sepp Blatter and Michel Platini, the former heads of world and European football, are charged with fraud. 
  <p class="updated_time"> 12:02 PM CT, Nov. 02 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59140269?at_medium=RSS&at_campaign=KARANGA">My day at COP26: 'What it's like to fight for my country's survival'</a> BBC: Kathy Jetn̄il-Kijiner, a poet and activist, is at COP26 as a climate envoy for the Marshall Islands in the Pacific Ocean. 
  <p class="updated_time"> 11:50 AM CT, Nov. 02 </p> 
@@ -46,7 +48,7 @@ permalink: /projects/news/
  <p class="updated_time"> 11:40 AM CT, Nov. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59092935?at_medium=RSS&at_campaign=KARANGA">Auschwitz tattoo stamp auction in Jerusalem sparks fury</a> BBC: Tools used to brand inmates at the Nazi death camp are being auctioned, angering Jewish leaders. 
  <p class="updated_time"> 11:35 AM CT, Nov. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59134431?at_medium=RSS&at_campaign=KARANGA">Ethiopia's Tigray crisis: Citizens urged to defend Addis Ababa against rebels</a> BBC: Addis Ababa residents are told to register weapons and protect areas as rebels reportedly advance. 
+ <a href="https://www.bbc.co.uk/news/world-africa-59134431?at_medium=RSS&at_campaign=KARANGA">Ethiopia's Tigray crisis: Citizens urged to defend Addis Ababa against rebels</a> BBC: Addis Ababa residents are told to register weapons and protect areas as rebels advance. 
  <p class="updated_time"> 11:19 AM CT, Nov. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59125228?at_medium=RSS&at_campaign=KARANGA">Nigeria Ikoyi building collapse: Race to find survivors</a> BBC: At least 15 people have died and many are feared trapped under rubble at the site in Lagos. 
  <p class="updated_time"> 11:03 AM CT, Nov. 02 </p> 
@@ -63,6 +65,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/02/science/climate-change-archaeology.html">As Earth Warms, Human History Is Melting Away</a> NYT: Climate change is revealing long-frozen artifacts and animals to archaeologists. But the window for study is slender and shrinking. 
  <p class="updated_time"> 09:44 AM CT, Nov. 02 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59131945?at_medium=RSS&at_campaign=KARANGA">COP26: Joe Biden says methane reduction pledge will make 'huge difference'</a> BBC: More than 80 countries at the COP26 summit have pledged to cut methane emissions by 30% by 2030. 
+ <p class="updated_time"> 09:28 AM CT, Nov. 02 </p> 
+ <a href="https://www.wsj.com/articles/afghanistans-main-military-hospital-hit-by-two-explosions-gunfire-11635847126">Attack on Kabul Military Hospital Leaves at Least 23 Dead</a> WSJ: Islamic State militants stormed Afghanistan’s main military hospital and killed at least 23 people in the latest eruption of violence since the country’s U.S.-backed government collapsed in mid-August. 
  <p class="updated_time"> 09:24 AM CT, Nov. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-59137828?at_medium=RSS&at_campaign=KARANGA">COP26: US and EU announce global pledge to slash methane</a> BBC: The Global Methane Pledge aims to cut methane emissions by 30% by 2030, compared with 2020 levels. 
  <p class="updated_time"> 09:24 AM CT, Nov. 02 </p> 
@@ -93,8 +97,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/02/world/reduce-fossil-fuels-long-term-but-pump-more-now-biden-says-angering-activists.html">Reduce fossil fuels in the long term but pump more now, Biden says, angering activists.</a> NYT: NA 
  <p class="updated_time"> 05:22 AM CT, Nov. 02 </p> 
  <a href="https://www.wsj.com/articles/tariffs-climate-change-greenhouse-gases-manufacturing-steel-11635862305">Tariffs to Tackle Climate Change Gain Momentum. The Idea Could Reshape Industries.</a> WSJ: Wealthy nations are proposing tariffs on imports like steel and cement that result in high carbon emissions. The proposals could boost U.S. manufacturers—but could also undermine world trade rules and even trigger trade disputes. 
- <p class="updated_time"> 05:00 AM CT, Nov. 02 </p> 
- <a href="https://www.wsj.com/articles/afghanistans-main-military-hospital-hit-by-two-explosions-gunfire-11635847126">Attack on Kabul Military Hospital Leaves at Least 23 Dead</a> WSJ: The complex attack bore the hallmarks of Islamic State, which has intensified the tempo of strikes against Taliban targets and the country’s Shiite minority in recent weeks. 
  <p class="updated_time"> 04:16 AM CT, Nov. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59087189?at_medium=RSS&at_campaign=KARANGA">Spain energy crisis: Soaring bills hamper recovery from Covid</a> BBC: Spain is less connected to the international grid than other EU countries and prices are surging. 
  <p class="updated_time"> 03:59 AM CT, Nov. 02 </p> 
@@ -147,8 +149,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/01/world/biden-emissions-cop26-glasgow.html">Biden Calls for Tougher Actions on Emissions at COP26</a> NYT: “We have only a brief window” to avoid the most disastrous effects of global warming, President Biden warned at the United Nations climate summit. 
  <p class="updated_time"> 01:18 PM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/europe/britain-climate-change.html">Once a Leading Polluter, the U.K. Is Now Trying to Lead on Climate Change</a> NYT: On the eve of a global climate summit, Britain’s evolution from fossil fuels to clean energy is on display. But experts question whether its commitment is sufficient, and whether it can persuade other nations to meet meaningful goals. 
- <p class="updated_time"> 01:11 PM CT, Nov. 01 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-48025650?at_medium=RSS&at_campaign=KARANGA">Climate change: Is Greta Thunberg right about UK carbon emissions?</a> BBC: The climate activist has questioned the UK's figure on its carbon emissions reduction. 
  <p class="updated_time"> 12:57 PM CT, Nov. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59095778?at_medium=RSS&at_campaign=KARANGA">Oromo Liberation Army: On the ground with Ethiopian fighters</a> BBC: The BBC's Catherine Byaruhanga gains special access to Ethiopia's Oromo Liberation Army. 
  <p class="updated_time"> 12:13 PM CT, Nov. 01 </p> 
@@ -163,8 +163,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/01/world/middleeast/egypt-security-military.html">Egypt Poised to Expand Security Powers of President and Military</a> NYT: Amendments to a terrorism law will strengthen the grip of the government, just days after it appeared to loosen up by lifting a state of emergency. 
  <p class="updated_time"> 09:16 AM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/bidens-glasgow-pitch-this-time-the-us-is-serious-about-climate-change.html">Biden’s Glasgow pitch: This time, the U.S. is serious about climate change.</a> NYT: NA 
- <p class="updated_time"> 08:58 AM CT, Nov. 01 </p> 
- <a href="https://www.nytimes.com/2021/11/01/sports/women-beach-handball-bikini.html">Handball Federation Ends Bikini Bottom Requirement for Women</a> NYT: After outrage over a fine levied against the Norwegian women’s beach handball team for competing in shorts, the sport’s international federation said it was changing its rules. 
  <p class="updated_time"> 07:26 AM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/asia/thailand-reopens-tourists-quarantine.html">Thailand Reopens to Tourists Without Requiring Quarantine</a> NYT: About a fifth of the nation’s economy depends on the vacation industry. Before the pandemic, the country was one of the world’s top destinations, drawing nearly 40 million visitors in 2019. 
  <p class="updated_time"> 06:05 AM CT, Nov. 01 </p> 
@@ -192,6 +190,10 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 01:22 PM CT, Nov. 02 </p> 
+ <a href="https://www.politico.com/news/2021/11/02/dems-drug-pricing-518554">‘Real sign of progress’: Dems nearing deal on drug pricing</a> Politico: An outline of the most recent policy, obtained by POLITICO, would empower the government to negotiate the cost of 30 drugs by 2028, and would carve out exceptions for small biotech companies. 
+ <p class="updated_time"> 01:17 PM CT, Nov. 02 </p> 
+ <a href="https://www.nytimes.com/2021/11/02/us/politics/conservatives-new-york-gun-law.html">Prominent Conservatives Back Letting States Limit Guns in Public</a> NYT: A brief filed in a major gun control case to be heard on Wednesday by the Supreme Court argued that limits on the public carrying of weapons were consistent with the Second Amendment. 
  <p class="updated_time"> 12:55 PM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/02/us/politics/election-results-polls-closing.html">Election Day 2021: What to Watch in Tuesday’s Elections</a> NYT: The Virginia governor’s race will be closely studied for clues about the midterms, and new mayors will be chosen in New York, Boston, Buffalo, Atlanta and more. 
  <p class="updated_time"> 12:42 PM CT, Nov. 02 </p> 
@@ -220,8 +222,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/01/us/politics/marc-hearron-abortion-supreme-court.html">Who is Marc Hearron? Attorney for Abortion Providers, Has Deep Texas Ties</a> NYT: Mr. Hearron has worked on pro bono cases involving reproductive rights and L.G.B.T.Q. rights. 
  <p class="updated_time"> 03:55 PM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/us/politics/texas-abortion-law-facts.html">Here's What The Texas Abortion Law Prohibits</a> NYT: Abortions are now illegal in Texas after “cardiac activity” is detectable, usually at around six weeks of pregnancy. 
- <p class="updated_time"> 03:41 PM CT, Nov. 01 </p> 
- <a href="https://www.nytimes.com/2021/11/01/us/politics/ballot-initiatives-voters-voting.html">Desperate for Housing Options, Communities Turn to Ballot Initiatives</a> NYT: Cities and counties will vote on measures, like tax increases and curbs on Airbnb, aimed at creating more affordable housing. 
  <p class="updated_time"> 01:35 PM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/books/review/both-and-huma-abedin.html">Book Review: 'Both/And,' by Huma Abedin</a> NYT: “Both/And” may not be the most introspective memoir, but it gives readers a front-row view of heartache and humiliation. 
  <p class="updated_time"> 11:35 AM CT, Nov. 01 </p> 
