@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:13 PM CT, Nov. 02 </p> 
+ <a href="https://www.nytimes.com/2021/11/02/technology/facebook-facial-recognition.html">Facebook Plans to Shut Down Its Facial Recognition System</a> NYT: Saying it wants “to find the right balance” with the technology, the social network will delete the face scan data of more than one billion users. 
  <p class="updated_time"> 05:50 PM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/02/world/europe/climate-summit-methane-forests.html">With Methane and Forest Deals, Climate Summit Offers Hope After Gloomy Start</a> NYT: Agreements to reduce methane gas emissions and protect the world’s forests were reached Tuesday at the U.N.-sponsored meeting, as President Biden chided the leaders of Russia and China for not showing up. 
  <p class="updated_time"> 05:46 PM CT, Nov. 02 </p> 
@@ -63,8 +65,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/02/world/asia/china-slander-law.html">China Makes It a Crime to Mock Country's Heroes</a> NYT: Under a new law, China has zealously prosecuted even the perceived slander of Communist figures, broadening Xi Jinping’s campaign to dominate party orthodoxy. 
  <p class="updated_time"> 12:16 PM CT, Nov. 02 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-58925049?at_medium=RSS&at_campaign=KARANGA">COP26: Should there be limits on meat eating? And more questions</a> BBC: BBC correspondents answer your questions about Glasgow's COP26 climate summit. 
- <p class="updated_time"> 12:13 PM CT, Nov. 02 </p> 
- <a href="https://www.nytimes.com/2021/11/02/technology/facebook-facial-recognition.html">Facebook Plans to Shut Down Its Facial Recognition System</a> NYT: Saying it wants “to find the right balance” with the technology, the social network will delete the face scan data of more than one billion users. 
  <p class="updated_time"> 12:02 PM CT, Nov. 02 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59140269?at_medium=RSS&at_campaign=KARANGA">My day at COP26: 'My island home is threatened - we have no hill to run to'</a> BBC: Kathy Jetn̄il-Kijiner, a poet and activist, is at COP26 as a climate envoy for the Marshall Islands in the Pacific Ocean. 
  <p class="updated_time"> 11:43 AM CT, Nov. 02 </p> 
@@ -186,8 +186,14 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
- <p class="updated_time"> 05:57 PM CT, Nov. 02 </p> 
+ <p class="updated_time"> 06:24 PM CT, Nov. 02 </p> 
+ <a href="https://www.nytimes.com/2021/11/02/us/politics/conservatives-new-york-gun-law.html">Prominent Conservatives Back Letting States Limit Guns in Public</a> NYT: A brief filed in a major gun control case to be heard on Wednesday by the Supreme Court argued that limits on the public carrying of weapons were consistent with the Second Amendment. 
+ <p class="updated_time"> 06:21 PM CT, Nov. 02 </p> 
+ <a href="https://www.politico.com/news/2021/11/02/josh-hawley-state-department-nominees-confirmation-518642">Josh Hawley blocks confirmation of several State Dept. nominees</a> Politico: The Republican senator, who is unhappy about the withdrawal from Afghanistan, objected to eight of the nine nominations Democrats sought to unanimously approve. 
+ <p class="updated_time"> 06:14 PM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/02/us/politics/prescription-drug-prices-medicare.html">Democrats Reach Deal to Control Drug Prices in Bill</a> NYT: The provision would, for the first time, allow the government to negotiate prices for some medicines covered by Medicare. 
+ <p class="updated_time"> 06:10 PM CT, Nov. 02 </p> 
+ <a href="https://www.nytimes.com/2021/11/02/us/politics/supreme-court-free-speech-censure.html">Supreme Court Hears Free Speech Case on Politician’s Censure</a> NYT: The justices seemed inclined to find a narrow way to reject the argument that the censure of an elected official in Houston ran afoul of the First Amendment. 
  <p class="updated_time"> 05:44 PM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/02/climate/biden-methane-climate.html">Biden Administration Moves to Limit Methane, a Potent Greenhouse Gas</a> NYT: The new rule was announced at a U.N. summit where the United States is facing skepticism about its commitment to climate change. 
  <p class="updated_time"> 05:43 PM CT, Nov. 02 </p> 
@@ -212,8 +218,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/01/world/europe/cop26-glasgow-biden-climate.html">At COP26 Summit, Urgent Pleas to Combat Global Warning</a> NYT: The opening day of a climate summit was heavy on dire warnings and light on substantive proposals as leaders in Glasgow met to discuss a warming world. 
  <p class="updated_time"> 02:40 PM CT, Nov. 02 </p> 
  <a href="https://www.politico.com/news/2021/11/02/congress-standstill-shutdown-debt-518567">Congress hits ‘standstill’ as December shutdown, debt cliff near</a> Politico: "There should be a motto around here: ‘Why do today what we can do tomorrow?’ It's ridiculous," said Sen. Jon Tester. 
- <p class="updated_time"> 02:29 PM CT, Nov. 02 </p> 
- <a href="https://www.nytimes.com/2021/11/02/us/politics/conservatives-new-york-gun-law.html">Prominent Conservatives Back Letting States Limit Guns in Public</a> NYT: A brief filed in a major gun control case to be heard on Wednesday by the Supreme Court argued that limits on the public carrying of weapons were consistent with the Second Amendment. 
  <p class="updated_time"> 02:11 PM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/02/us/politics/methane-emissions-fee.html">Democrats Work to Salvage Methane Fee Amid Opposition From Manchin</a> NYT: Senator Joe Manchin III of West Virginia, a Democratic holdout, is still working to weaken or jettison a proposed fee on emissions of methane, a powerful pollutant. 
  <p class="updated_time"> 02:02 PM CT, Nov. 02 </p> 
@@ -232,8 +236,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/01/us/politics/medicaid-uninsured.html">Democrats’ Bill Would Cover Poor Uninsured Adults, Up to a Point</a> NYT: The $1.85 trillion social policy bill would provide free private health insurance for more than two million adults locked out of coverage, but only for four years. 
  <p class="updated_time"> 06:14 PM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/us/politics/manchin-endorse-framework.html">Manchin Raises Doubts on Safety Net Bill, Complicating Path to Quick Vote</a> NYT: Senator Joe Manchin III of West Virginia, a crucial Democratic swing vote, demanded more time to evaluate the economic and fiscal impact of the $1.85 trillion bill. 
- <p class="updated_time"> 11:27 AM CT, Nov. 01 </p> 
- <a href="https://www.nytimes.com/2021/11/01/us/politics/what-is-ex-parte.html">What is Ex Parte Young?</a> NYT: The 1908 case held that state officials could be sued in federal court to prevent them from enforcing unconstitutional laws. 
  <p class="updated_time"> 03:30 AM CT, Nov. 01 </p> 
  <a href="https://www.politico.com/news/2021/11/01/gop-relishes-political-upsides-517847">'They're probably going to put us back in power': GOP basks in Dem discord</a> Politico: The House Republican conference is mostly avoiding the spotlight these days, getting fewer tough questions as the opposing party struggles. It doesn't mind at all. 
  <p class="updated_time"> 12:46 PM CT, Oct. 31 </p> 
@@ -268,8 +270,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/10/28/sinema-biden-prescription-drug-deal-517422">Sinema reached prescription drug negotiation deal with Biden</a> Politico: But the issue was left out of the framework the White House released publicly on Thursday morning, leaving its fate uncertain. 
  <p class="updated_time"> 07:17 AM CT, Oct. 28 </p> 
  <a href="https://www.politico.com/news/2021/10/28/biden-house-democrats-517416">Dems punt House infrastructure vote in blow to Biden agenda</a> Politico: The left is frustrated over pared-back social spending. Speaker Nancy Pelosi wanted to show momentum — but she doesn't have the votes yet. 
- <p class="updated_time"> 03:48 PM CT, Oct. 27 </p> 
- <a href="https://www.politico.com/news/2021/10/27/democrats-immigration-gambit-loses-steam-517352">Dems' last-ditch immigration gambit loses steam</a> Politico: Even if President Joe Biden can get fellow Democrats to add reform provisions to a broad social spending deal, the Senate parliamentarian can squash them. 
 
 
 </details>
