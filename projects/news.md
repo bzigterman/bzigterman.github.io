@@ -7,10 +7,14 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:13 AM CT, Nov. 02 </p> 
+ <a href="https://www.nytimes.com/2021/11/02/world/day-2-of-the-climate-summit-should-bring-the-first-concrete-commitments.html">Day 2 of the climate summit brings the first concrete commitments.</a> NYT: The U.S. is expected to announce plans to regulate methane, a potent greenhouse gas, and there is international agreement to tackle deforestation. 
  <p class="updated_time"> 06:08 AM CT, Nov. 02 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59088498?at_medium=RSS&at_campaign=KARANGA">COP26: World leaders promise to end deforestation by 2030</a> BBC: More than 100 nations - including Brazil, Russia and Indonesia - sign COP26's first major deal. 
  <p class="updated_time"> 05:56 AM CT, Nov. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59131282?at_medium=RSS&at_campaign=KARANGA">COP26: US to stop methane leaks from oil and gas wells</a> BBC: The Biden administration plans to restore tough rules curbing one of the most potent greenhouse gases. 
+ <p class="updated_time"> 05:52 AM CT, Nov. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59133026?at_medium=RSS&at_campaign=KARANGA">Explosions and gunfire heard at Kabul military hospital</a> BBC: Unconfirmed reports suggest at least 15 have been killed in an attack at Sardar Dawood Khan hospital. 
  <p class="updated_time"> 05:41 AM CT, Nov. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-59132811?at_medium=RSS&at_campaign=KARANGA">COP26: UK apologises to Israeli minister for wheelchair access problems</a> BBC: Israeli minister Karine Elharrar waited for two hours outside the Glasgow venue but couldn't get inside. 
  <p class="updated_time"> 05:18 AM CT, Nov. 02 </p> 
@@ -99,8 +103,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/01/travel/soviet-era-metros.html">The Stunning Grandeur of Soviet-Era Metros</a> NYT: Between 2014 and 2020, Frank Herfort visited more than 770 metro stations in 19 cities, creating a remarkable archive of architectural and artistic splendor. 
  <p class="updated_time"> 12:03 PM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/10/31/world/shanghai-disney-covid.html">Shanghai Disneyland Temporarily Shut by ‘Severe’ Virus Outbreak</a> NYT: NA 
- <p class="updated_time"> 11:50 AM CT, Nov. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-59119321?at_medium=RSS&at_campaign=KARANGA">Handball federation changes uniform rules after bikini row</a> BBC: A campaign had pushed for an overhaul after Norway's team were fined for wearing shorts in July. 
  <p class="updated_time"> 11:45 AM CT, Nov. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-59125138?at_medium=RSS&at_campaign=KARANGA">COP26: David Attenborough says world is looking to leaders</a> BBC: The naturalist urges climate summit delegates to "turn tragedy into triumph" for young people. 
  <p class="updated_time"> 11:43 AM CT, Nov. 01 </p> 
