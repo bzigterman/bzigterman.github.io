@@ -166,6 +166,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:33 PM CT, Nov. 01 </p> 
+ <a href="https://www.nytimes.com/2021/11/01/us/politics/medicaid-uninsured.html">Democrats’ Bill Would Cover Poor Uninsured Adults, Up to a Point</a> NYT: The $1.85 trillion social policy bill would provide free private health insurance for more than two million adults locked out of coverage, but only for four years. 
  <p class="updated_time"> 08:17 PM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/us/politics/youngkin-trump-mcauliffe-virginia-governor.html">As Youngkin Tries to Finesse Trump, McAuliffe Conjures His Comeback</a> NYT: Barnstorming Virginia, the candidates for governor hammered away at their core arguments. For the Republican: parents’ involvement in schools. For the Democrat: Trump redux. 
  <p class="updated_time"> 07:49 PM CT, Nov. 01 </p> 
@@ -178,8 +180,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/01/us/politics/manchin-endorse-framework.html">Manchin Raises Doubts on Safety Net Bill, Complicating Path to Quick Vote</a> NYT: Senator Joe Manchin III of West Virginia, a crucial Democratic swing vote, demanded more time to evaluate the economic and fiscal impact of the $1.85 trillion bill. 
  <p class="updated_time"> 05:27 PM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/us/linwood-holton-dead.html">Linwood Holton, 98,Virginia Governor Who Pushed for Racial Equality, Dies</a> NYT: The first Republican governor of the state in almost a century, he seemed to herald a new, post-racial South. He later became disillusioned with his own party. 
- <p class="updated_time"> 04:59 PM CT, Nov. 01 </p> 
- <a href="https://www.nytimes.com/2021/11/01/us/politics/medicaid-uninsured.html">Democrats’ Bill Would Cover Poor Uninsured Adults, Up to a Point</a> NYT: The $1.85 trillion social policy bill would provide free private health insurance for more than two million adults locked out of coverage, but only for four years. 
  <p class="updated_time"> 04:52 PM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/us/politics/challenging-the-texas-abortion-law.html">Why is it So Hard to Challenge the Texas Abortion Law?</a> NYT: The structure of the law, which delegates enforcement authority to millions of people, means there is no obvious person whom its opponents can sue. 
  <p class="updated_time"> 04:51 PM CT, Nov. 01 </p> 
