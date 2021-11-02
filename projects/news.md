@@ -7,16 +7,20 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:46 AM CT, Nov. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-59132811?at_medium=RSS&at_campaign=KARANGA">COP26: We must act on accessibility, says Israeli minister</a> BBC: Karine Elharrar has now gained access to the UN climate summit, where she will meet Boris Johnson. 
- <p class="updated_time"> 06:44 AM CT, Nov. 02 </p> 
- <a href="https://www.nytimes.com/2021/11/02/world/asia/afghanistan-hospital-attack.html">Afghanistan Military Hospital Targeted in Kabul Attack, Taliban Say</a> NYT: No group has claimed responsibility for the violence, but the Islamic State has struck more often since the fall of the U.S.-backed government in August. 
- <p class="updated_time"> 06:35 AM CT, Nov. 02 </p> 
- <a href="https://www.nytimes.com/2021/11/02/climate/cop26-deforestation.html">Global Leaders Pledge to End Deforestation by 2030</a> NYT: The measure reflects a growing recognition of nature’s role in helping to mitigate global warming. 
+ <p class="updated_time"> 07:13 AM CT, Nov. 02 </p> 
+ <a href="https://www.nytimes.com/2021/11/02/climate/cop26-deforestation.html">Global Leaders Pledge to End Deforestation by 2030</a> NYT: The measure reflects a growing recognition of nature’s role in helping mitigate global warming. 
+ <p class="updated_time"> 07:03 AM CT, Nov. 02 </p> 
+ <a href="https://www.nytimes.com/2021/11/01/world/americas/cop26-indigenous-txai-surui.html">From the Amazon to Glasgow: An Indigenous activist says, ‘We have no more time.’</a> NYT: Txai Suruí told world leaders at COP26 that their timetables for reducing carbon emissions and scaling back the use of fossil fuels were inadequate. 
+ <p class="updated_time"> 06:57 AM CT, Nov. 02 </p> 
+ <a href="https://www.nytimes.com/2021/11/02/world/americas/cop26-galapagos-islands.html">Ecuador Vows at COP26 to Create Marine Reserve for Galápagos Islands</a> NYT: President Guillermo Lasso said his government had agreed with Ecuador’s fishery, tourism and conservation sectors to establish a marine reserve of more than 23,000 square miles. 
+ <p class="updated_time"> 06:56 AM CT, Nov. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59125228?at_medium=RSS&at_campaign=KARANGA">Nigeria Ikoyi building collapse: Race to find survivors</a> BBC: Rescuers have worked through the night in Lagos, with many people feared trapped under rubble. 
+ <p class="updated_time"> 06:54 AM CT, Nov. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-59132811?at_medium=RSS&at_campaign=KARANGA">COP26: We must act on accessibility, says Israeli minister</a> BBC: Israel's Karine Elharrar was unable to access the climate summit in her wheelchair on Monday. 
+ <p class="updated_time"> 06:51 AM CT, Nov. 02 </p> 
+ <a href="https://www.nytimes.com/2021/11/02/world/asia/afghanistan-hospital-attack.html">Military Hospital in Afghan Capital Targeted in Attack, Taliban Say</a> NYT: No group has claimed responsibility for the violence, but the Islamic State has struck more often since the fall of the U.S.-backed government in August. 
  <p class="updated_time"> 06:29 AM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/02/world/europe/cop26-jeff-bezos-climate.html">Jeff Bezos Makes $2 Billion Environmental Pledge at COP26 Summit</a> NYT: The billionaire called the loss of Earth’s forests “a profound and urgent danger to us all.” 
- <p class="updated_time"> 06:24 AM CT, Nov. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59125228?at_medium=RSS&at_campaign=KARANGA">Nigeria Ikoyi building collapse: Race to find survivors</a> BBC: Rescuers have worked through the night in Lagos, with many people feared trapped under rubble. 
  <p class="updated_time"> 06:21 AM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/02/world/asia/china-food-shortages-winter.html">China Urges Families to Stock up on Food for Winter</a> NYT: State-run news media said that the directives were to prepare for emergencies like coronavirus lockdowns as the country pursues its “zero Covid” policy. 
  <p class="updated_time"> 06:13 AM CT, Nov. 02 </p> 
@@ -27,6 +31,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59131282?at_medium=RSS&at_campaign=KARANGA">COP26: US to stop methane leaks from oil and gas wells</a> BBC: The Biden administration plans to restore tough rules curbing one of the most potent greenhouse gases. 
  <p class="updated_time"> 05:52 AM CT, Nov. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59133026?at_medium=RSS&at_campaign=KARANGA">Explosions and gunfire heard at Kabul military hospital</a> BBC: Unconfirmed reports suggest at least 15 have been killed in an attack at Sardar Dawood Khan hospital. 
+ <p class="updated_time"> 05:25 AM CT, Nov. 02 </p> 
+ <a href="https://www.nytimes.com/2021/11/02/world/reduce-fossil-fuels-long-term-but-pump-more-now-biden-says-angering-activists.html">Reduce fossil fuels in the long term but pump more now, Biden says, angering activists.</a> NYT: NA 
  <p class="updated_time"> 04:16 AM CT, Nov. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59087189?at_medium=RSS&at_campaign=KARANGA">Spain energy crisis: Soaring bills hamper recovery from Covid</a> BBC: Spain is less connected to the international grid than other EU countries and prices are surging. 
  <p class="updated_time"> 04:00 AM CT, Nov. 02 </p> 
@@ -105,8 +111,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/01/world/europe/cop26-climate-antonio-guterres.html">U.N. Leader, António Guterres, Warns of 'Climate Catastrophe' at COP26</a> NYT: He urged countries to review their climate pledges annually rather than every five years as called for in the 2015 Paris accord. 
  <p class="updated_time"> 12:08 PM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/travel/soviet-era-metros.html">The Stunning Grandeur of Soviet-Era Metros</a> NYT: Between 2014 and 2020, Frank Herfort visited more than 770 metro stations in 19 cities, creating a remarkable archive of architectural and artistic splendor. 
- <p class="updated_time"> 12:03 PM CT, Nov. 01 </p> 
- <a href="https://www.nytimes.com/2021/10/31/world/shanghai-disney-covid.html">Shanghai Disneyland Temporarily Shut by ‘Severe’ Virus Outbreak</a> NYT: NA 
  <p class="updated_time"> 11:45 AM CT, Nov. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-59125138?at_medium=RSS&at_campaign=KARANGA">COP26: David Attenborough says world is looking to leaders</a> BBC: The naturalist urges climate summit delegates to "turn tragedy into triumph" for young people. 
  <p class="updated_time"> 11:43 AM CT, Nov. 01 </p> 
@@ -151,8 +155,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/31/world/europe/g20-climate-temperature-rise.html">G20 Leaders Agree on 1.5-Degree Climate Goal</a> NYT: Countries will “pursue efforts” to limit global temperature rise to 1.5 degrees Celsius, compared with preindustrial times. 
  <p class="updated_time"> 05:39 PM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/31/world/americas/brazil-police-kill-25-bank-gang.html">Brazilian Police Kill 25 Accused of Planning Bank Heists</a> NYT: The police say an operation against a gang planning bank robberies killed at least 25 suspects in the Brazilian state of Minas Gerais on Sunday. 
- <p class="updated_time"> 04:37 PM CT, Oct. 31 </p> 
- <a href="https://www.nytimes.com/2021/10/31/world/word.html">“Vax” is Oxford’s 2021 Word of the Year</a> NYT: NA 
  <p class="updated_time"> 03:11 PM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/31/climate/g20-coal.html">G20 Nations Agree to New Limits on Coal-Burning Power Plants</a> NYT: The world’s largest economies will stop financing coal plants abroad, though that falls far short of what’s needed to fight climate change, raising fears of half-steps at this week’s U.N. summit. 
  <p class="updated_time"> 03:08 PM CT, Oct. 31 </p> 
@@ -161,8 +163,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/31/world/moderna-covid-vaccine-teens-myocarditis.html">F.D.A. Is Reviewing If Moderna Vaccine Causes Heart Problems in Adolescents</a> NYT: The F.D.A. has notified Moderna that it needs more time to review the vaccine’s safety and may not deliver a decision until January. 
  <p class="updated_time"> 11:49 AM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/31/world/asia/afghanistan-taliban-artists.html">Afghan Art Flourished for 20 Years. Can It Survive the New Taliban Regime?</a> NYT: So far, the Taliban have not banned art outright. But many artists have fled Afghanistan, fearing for their work and their lives. 
- <p class="updated_time"> 10:06 AM CT, Oct. 31 </p> 
- <a href="https://www.nytimes.com/2021/10/31/us/politics/saudi-investment-conference-trump-allies.html">Trump Allies Are Prominent at Saudi Investment Conference</a> NYT: But the Biden administration sent only a deputy commerce secretary to the high-profile gathering, amid shifts in global politics and diplomatic strains. 
 
 
 </details>
@@ -170,6 +170,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:59 AM CT, Nov. 02 </p> 
+ <a href="https://www.nytimes.com/2021/11/01/us/politics/pfizer-children-covid-vaccine.html">Pfizer Pediatric Vaccination Program to Be ‘at Full Strength’ Next Week, White House Says</a> NYT: “We are planning on some vaccinations towards the end of this week,” said Jeffrey D. Zients, a top White House official, adding that the government will deliver a total of 15 million doses “across the next week or so.” 
  <p class="updated_time"> 05:24 AM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/02/climate/biden-methane-climate.html">Biden Administration Moves to Limit Methane, a Potent Greenhouse Gas</a> NYT: The new rule was announced at a U.N. summit where the United States is facing skepticism about its commitment to climate change. 
  <p class="updated_time"> 03:39 AM CT, Nov. 02 </p> 
@@ -177,7 +179,7 @@ permalink: /projects/news/
  <p class="updated_time"> 12:10 AM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/europe/cop26-glasgow-biden-climate.html">At COP26 Summit, Urgent Pleas to Combat Global Warning</a> NYT: The opening day of a climate summit was heavy on dire warnings and light on substantive proposals as leaders in Glasgow met to discuss a warming world. 
  <p class="updated_time"> 11:01 PM CT, Nov. 01 </p> 
- <a href="https://www.nytimes.com/2021/11/02/us/politics/election-results-polls-closing.html">What to Watch in Tuesday’s Elections: Virginia, Mayor’s Races and Policing</a> NYT: The Virginia governor’s race will be closely studied for clues about the midterms, and new mayors will be chosen in New York, Boston, Buffalo, Atlanta and more. 
+ <a href="https://www.nytimes.com/2021/11/02/us/politics/election-results-polls-closing.html">Election Day 2021: What to Watch in Tuesday’s Elections</a> NYT: The Virginia governor’s race will be closely studied for clues about the midterms, and new mayors will be chosen in New York, Boston, Buffalo, Atlanta and more. 
  <p class="updated_time"> 10:57 PM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/us/linwood-holton-dead.html">Linwood Holton, 98,Virginia Governor Who Pushed for Racial Equality, Dies</a> NYT: The first Republican governor of the state in almost a century, he seemed to herald a new, post-racial South. He later became disillusioned with his own party. 
  <p class="updated_time"> 09:33 PM CT, Nov. 01 </p> 
@@ -194,8 +196,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/01/us/politics/challenging-the-texas-abortion-law.html">Why is it So Hard to Challenge the Texas Abortion Law?</a> NYT: The structure of the law, which delegates enforcement authority to millions of people, means there is no obvious person whom its opponents can sue. 
  <p class="updated_time"> 04:51 PM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/us/politics/marc-hearron-abortion-supreme-court.html">Who is Marc Hearron? Attorney for Abortion Providers, Has Deep Texas Ties</a> NYT: Mr. Hearron has worked on pro bono cases involving reproductive rights and L.G.B.T.Q. rights. 
- <p class="updated_time"> 04:00 PM CT, Nov. 01 </p> 
- <a href="https://www.nytimes.com/2021/11/01/us/politics/pfizer-children-covid-vaccine.html">Pfizer Pediatric Vaccination Program to Be ‘at Full Strength’ Next Week, White House Says</a> NYT: “We are planning on some vaccinations towards the end of this week,” said Jeffrey D. Zients, a top White House official, adding that the government will deliver a total of 15 million doses “across the next week or so.” 
  <p class="updated_time"> 03:55 PM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/us/politics/texas-abortion-law-facts.html">Here's What The Texas Abortion Law Prohibits</a> NYT: Abortions are now illegal in Texas after “cardiac activity” is detectable, usually at around six weeks of pregnancy. 
  <p class="updated_time"> 03:41 PM CT, Nov. 01 </p> 
