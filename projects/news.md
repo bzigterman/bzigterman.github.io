@@ -7,6 +7,12 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:31 AM CT, Nov. 02 </p> 
+ <a href="https://www.nytimes.com/live/2021/11/01/world/cop26-climate-change-summit">Key Moments From Day 1 of the COP26 Climate Change Summit</a> NYT: Meeting in Glasgow, President Biden and a host of other world leaders sounded dire warnings, but hopes for breakthrough action are muted. 
+ <p class="updated_time"> 02:25 AM CT, Nov. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/science-environment-59088498?at_medium=RSS&at_campaign=KARANGA">COP26: World leaders promise to end deforestation by 2030</a> BBC: More than 100 nations including Brazil, Russia and Indonesia are expected to sign COP26's first major deal. 
+ <p class="updated_time"> 02:24 AM CT, Nov. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59128683?at_medium=RSS&at_campaign=KARANGA">COP26 Bangladesh: If tidal surges destroy our house, where will we go?</a> BBC: How villagers in Bangladesh's coastal areas are struggling with the impact of climate change. 
  <p class="updated_time"> 02:00 AM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/02/science/climate-change-archaeology.html">As Earth Warms, Human History Is Melting Away</a> NYT: Climate change is revealing long-frozen artifacts and animals to archaeologists. But the window for study is slender and shrinking. 
  <p class="updated_time"> 02:00 AM CT, Nov. 02 </p> 
@@ -17,8 +23,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/01/world/asia/pakistan-protests-negotiations-tlp.html">After Violent Standoff, Pakistan Strikes Deal With Banned Islamist Group</a> NYT: The pact, announced Sunday, defused a crisis that had paralyzed several cities, but it also highlighted the government’s struggle to assert itself against religious extremists. 
  <p class="updated_time"> 01:40 AM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/africa/nigeria-building-collapse-.html">Nigeria Building Collapse Kills at Least 5 With Many More Trapped</a> NYT: As many as 100 workers were feared trapped at a construction site in Lagos, where building collapses are common, with contractors using shoddy materials and regulations often not enforced. 
- <p class="updated_time"> 01:34 AM CT, Nov. 02 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-59088498?at_medium=RSS&at_campaign=KARANGA">COP26: World leaders promise to end deforestation by 2030</a> BBC: More than 100 nations including Brazil, Russia and Indonesia are expected to sign COP26's first major deal. 
  <p class="updated_time"> 01:04 AM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/02/climate/cop26-deforestation.html">Global Leaders Pledge to End Deforestation by 2030</a> NYT: The measure reflects a growing recognition of nature’s role in helping mitigate global warming. 
  <p class="updated_time"> 12:59 AM CT, Nov. 02 </p> 
@@ -33,8 +37,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/sport/horse-racing/59129052?at_medium=RSS&at_campaign=KARANGA">Melbourne Cup: Verry Elleegant wins Australia's biggest race</a> BBC: The mare upsets favourite Incentivise and Britain's Spanish Mission to claim Australia's prestigious race. 
  <p class="updated_time"> 11:51 PM CT, Nov. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59129894?at_medium=RSS&at_campaign=KARANGA">Nicaragua accused of running internet troll farm</a> BBC: Facebook parent firm Meta removes hundreds of fake accounts said to be part of a disinformation campaign. 
- <p class="updated_time"> 10:57 PM CT, Nov. 01 </p> 
- <a href="https://www.nytimes.com/live/2021/11/01/world/cop26-climate-change-summit">Key Moments From Day 1 of the COP26 Climate Change Summit</a> NYT: Meeting in Glasgow, Scotland, President Biden and a host of other world leaders sounded dire warnings, but hopes for breakthrough action are muted. 
  <p class="updated_time"> 10:39 PM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/europe/what-to-watch-monday-cop26.html">What to Watch For At COP26 on Monday and Tuesday</a> NYT: Prime Minister Boris Johnson was first to welcome leaders, who will then lay out “concrete actions and credible plans.” David Attenborough and Prince Charles are also speaking. 
  <p class="updated_time"> 09:05 PM CT, Nov. 01 </p> 
@@ -133,8 +135,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/japanese-elections-fail-to-produce-gains-for-women-11635765296">Japanese Elections Fail to Produce Gains for Women</a> WSJ: The result of Japan’s election—a victory for the long-ruling Liberal Democratic Party—was familiar in another way as well. Less than one in 10 of the victorious candidates were women. 
  <p class="updated_time"> 12:30 AM CT, Nov. 01 </p> 
  <a href="https://www.wsj.com/articles/mariners-can-now-get-covid-19-vaccines-at-port-after-months-stranded-at-sea-11635759001">Stranded Mariners Can Now Get Covid Vaccines at Port</a> WSJ: Crews on cargo ships are receiving shots world-wide, preventing more supply-chain disruptions and allowing them to finally disembark. 
- <p class="updated_time"> 12:04 AM CT, Nov. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-59115079?at_medium=RSS&at_campaign=KARANGA">Covid: Emotional reunions as Australia's border reopens</a> BBC: International travellers hug loved ones at Sydney Airport for the first time in 20 months. 
  <p class="updated_time"> 11:23 PM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/31/world/biden-g20-covid-climate.html">Struggling at Home, Biden Is Buoyed by G20 Trip Abroad</a> NYT: A trip to Rome invigorated a president whose poll numbers are slumping at home, but who projected confidence in his foreign and domestic agenda. 
  <p class="updated_time"> 08:57 PM CT, Oct. 31 </p> 
