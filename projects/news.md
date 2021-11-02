@@ -43,6 +43,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/59136545?at_medium=RSS&at_campaign=KARANGA">Deforestation: Which countries are still cutting down trees?</a> BBC: World leaders have pledged to stop and reverse deforestation. How do their records stack up? 
  <p class="updated_time"> 01:42 PM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/02/world/john-kerry-climate-aid-cop26.html">John Kerry Says $100 Billion in Climate Aid Per Year Is Within Reach</a> NYT: John Kerry, the American special climate envoy, said the United States had rejoined the a coalition of countries pushing for more aggressive action. 
+ <p class="updated_time"> 01:41 PM CT, Nov. 02 </p> 
+ <a href="https://www.wsj.com/articles/biden-says-xi-putin-cede-climate-influence-by-missing-glasgow-summit-11635888947">Biden Says Xi, Putin Cede Climate Influence by Missing Glasgow Summit</a> WSJ: The comments marked the second time in recent days that President Biden had singled out Chinese President Xi Jinping and Russian President Vladimir Putin for not attending the climate summit in person. 
  <p class="updated_time"> 01:28 PM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/02/climate/cop26-deforestation.html">Global Leaders Pledge to End Deforestation by 2030</a> NYT: The landmark agreement reflects a growing recognition of nature’s role in helping to address global warming. Still, critics said it wasn’t ambitious enough. 
  <p class="updated_time"> 01:28 PM CT, Nov. 02 </p> 
@@ -111,12 +113,12 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59087189?at_medium=RSS&at_campaign=KARANGA">Spain energy crisis: Soaring bills hamper recovery from Covid</a> BBC: Spain is less connected to the international grid than other EU countries and prices are surging. 
  <p class="updated_time"> 03:59 AM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/europe/queen-elizabeth-cop26.html"> Queen Elizabeth Urges Climate Action in COP26 Video</a> NYT: The 95-year-old monarch gave her address by video, after doctors advised her to rest and not go to the summit. Prince Charles attended and delivered a similar message. 
- <p class="updated_time"> 03:57 AM CT, Nov. 02 </p> 
- <a href="https://www.wsj.com/articles/yahoo-pulls-out-of-china-ending-tumultuous-two-decade-relationship-11635848926">Yahoo Quits China, Ending a Rocky Two-Decade Relationship</a> WSJ: The company cited an increasingly challenging business and legal environment in the country. It is the second well-known U.S. tech firm to downsize China operations in less than a month. 
  <p class="updated_time"> 03:50 AM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/asia/modi-india-cop26-renewable-energy.html">India Will Sharply Increase Renewable Energy, Modi Says</a> NYT: Wealthy nations need to spend $1 trillion to help developing nations like India make the transition to renewables, Prime Minister Modi said. 
  <p class="updated_time"> 03:44 AM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/asia/new-zealand-bird-bats.html">New Zealand Held a Bird Contest. A Bat Won.</a> NYT: The long-tailed bat, one of the country’s only two native land mammals, flew away with the top prize. 
+ <p class="updated_time"> 03:26 AM CT, Nov. 02 </p> 
+ <a href="https://www.wsj.com/articles/visa-restrictions-on-chinese-students-endanger-u-s-innovation-edge-universities-say-11635856001">Visa Restrictions on Chinese Students Endanger U.S. Innovation</a> WSJ: A Trump-era ban has made it all but impossible for Chinese nationals from universities with close ties to China’s defense industry to obtain visas to study in the U.S. 
  <p class="updated_time"> 03:01 AM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/europe/cop26-global-leaders-attending.html">Who Is Attending the COP26 Climate Summit, and Who Isn't</a> NYT: The presence of heads of state and government is not just symbolic. Real work gets done among leaders that cannot happen among lower-level diplomats. 
  <p class="updated_time"> 02:24 AM CT, Nov. 02 </p> 
@@ -186,6 +188,10 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:35 PM CT, Nov. 02 </p> 
+ <a href="https://www.nytimes.com/2021/11/02/us/politics/election-results-polls-closing.html">Races to Watch on Election Day</a> NYT: The Virginia governor’s race will be closely studied for clues about the midterms, and new mayors will be chosen in New York, Boston, Buffalo, Atlanta and more. 
+ <p class="updated_time"> 06:35 PM CT, Nov. 02 </p> 
+ <a href="https://www.nytimes.com/2021/11/02/us/politics/charlottesville-trial-holocaust.html">Holocaust Scholar to Testify at Charlottesville Trial</a> NYT: In a Charlottesville courtroom, Deborah E. Lipstadt will testify to the persistence of antisemitism, and its links to present-day politics. 
  <p class="updated_time"> 06:24 PM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/02/us/politics/conservatives-new-york-gun-law.html">Prominent Conservatives Back Letting States Limit Guns in Public</a> NYT: A brief filed in a major gun control case to be heard on Wednesday by the Supreme Court argued that limits on the public carrying of weapons were consistent with the Second Amendment. 
  <p class="updated_time"> 06:21 PM CT, Nov. 02 </p> 
@@ -202,8 +208,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/02/us/politics/salt-cap-tax-deduction.html">Democrats Push for Agreement on Tax Deduction That Benefits the Rich</a> NYT: Lawmakers are coalescing around a deal to suspend a $10,000 cap on state and local tax deductions that was imposed during the Trump administration. 
  <p class="updated_time"> 05:25 PM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/02/us/politics/vaccine-mandate-military.html">Military Grants Few Vaccine Exemptions as Deadlines Loom</a> NYT: The majority of active-duty troops have gotten a mandatory coronavirus vaccine ahead of deadline, with religious-based exemptions largely dismissed. 
- <p class="updated_time"> 05:05 PM CT, Nov. 02 </p> 
- <a href="https://www.nytimes.com/2021/11/02/us/politics/election-results-polls-closing.html">Races to Watch on Election Day</a> NYT: The Virginia governor’s race will be closely studied for clues about the midterms, and new mayors will be chosen in New York, Boston, Buffalo, Atlanta and more. 
  <p class="updated_time"> 04:54 PM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/02/us/politics/biden-us-leadership-cop26.html">Biden Tries to Reassert American Leadership, and His Own</a> NYT: President Biden hoped his personal style of politicking could help him build global consensus on fighting climate change. But as he has learned in Washington, charm offensives have their limits. 
  <p class="updated_time"> 04:41 PM CT, Nov. 02 </p> 
@@ -228,8 +232,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/01/climate/biden-oil-gas-cop26.html">Even as Biden Pushes Clean Energy, He Seeks More Oil Production</a> NYT: President Biden acknowledged “it seems like an irony” that he is asking energy-rich nations to boost oil production as he implores the world to tackle climate change. 
  <p class="updated_time"> 09:54 AM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/01/us/politics/youngkin-trump-mcauliffe-virginia-governor.html">As Youngkin Tries to Finesse Trump, McAuliffe Conjures His Comeback</a> NYT: Barnstorming Virginia, the candidates for governor hammered away at their core arguments. For the Republican: parents’ involvement in schools. For the Democrat: Trump redux. 
- <p class="updated_time"> 03:39 AM CT, Nov. 02 </p> 
- <a href="https://www.nytimes.com/2021/11/01/business/stablecoins-cryptocurrency-regulation.html">Regulators Ask Congress to Create New Rules for Cryptocurrencies</a> NYT: A Treasury Department report says stablecoin issuers should operate like banks to avoid destabilizing runs that could erode financial stability. 
  <p class="updated_time"> 10:57 PM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/us/linwood-holton-dead.html">Linwood Holton, 98,Virginia Governor Who Pushed for Racial Equality, Dies</a> NYT: The first Republican governor of the state in almost a century, he seemed to herald a new, post-racial South. He later became disillusioned with his own party. 
  <p class="updated_time"> 09:33 PM CT, Nov. 01 </p> 
