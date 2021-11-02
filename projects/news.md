@@ -7,18 +7,20 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
- <p class="updated_time"> 10:44 PM CT, Nov. 01 </p> 
+ <p class="updated_time"> 10:57 PM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/live/2021/11/01/world/cop26-climate-change-summit">Key Moments From Day 1 of the COP26 Climate Change Summit</a> NYT: Meeting in Glasgow, Scotland, President Biden and a host of other world leaders sounded dire warnings, but hopes for breakthrough action are muted. 
  <p class="updated_time"> 10:43 PM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/europe/cop26-glasgow-biden-climate.html">At COP26 Summit, Urgent Pleas to Combat Global Warning</a> NYT: The opening day of a climate summit was heavy on dire warnings and light on substantive proposals as leaders in Glasgow met to discuss a warming world. 
  <p class="updated_time"> 10:39 PM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/europe/what-to-watch-monday-cop26.html">What to Watch For At COP26 on Monday and Tuesday</a> NYT: Prime Minister Boris Johnson was first to welcome leaders, who will then lay out “concrete actions and credible plans.” David Attenborough and Prince Charles are also speaking. 
+ <p class="updated_time"> 10:31 PM CT, Nov. 01 </p> 
+ <a href="https://www.nytimes.com/2021/11/02/climate/cop26-deforestation.html">Global Leaders Pledge to End Deforestation by 2030</a> NYT: Brazil, China and the United States are among the signatories to a declaration that seeks to preserve critical forests that can absorb carbon dioxide and slow the rise in global warming. 
  <p class="updated_time"> 09:05 PM CT, Nov. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59129048?at_medium=RSS&at_campaign=KARANGA">Scott Morrison: Australian PM rejects 'sledging' from France amid row</a> BBC: Scott Morrison was accused by Emmanuel Macron of lying about plans to scrap a submarine deal. 
  <p class="updated_time"> 08:59 PM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/queen-elizabeth-cop26.html"> Queen Elizabeth Urges Climate Action in COP26 Video</a> NYT: The 95-year-old monarch gave her address by video, after doctors advised her to rest and not go to the summit. Prince Charles attended and delivered a similar message. 
  <p class="updated_time"> 08:29 PM CT, Nov. 01 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-59088498?at_medium=RSS&at_campaign=KARANGA">COP26: World leaders promise to end deforestation by 2030</a> BBC: More than 100 world leaders will vow to protect forests when they sign COP26's first major deal on Tuesday. 
+ <a href="https://www.bbc.co.uk/news/science-environment-59088498?at_medium=RSS&at_campaign=KARANGA">COP26: World leaders promise to end deforestation by 2030</a> BBC: Some 100 nations including Brazil, Russia and Indonesia will vow to protect forests when they sign COP26's first major deal. 
  <p class="updated_time"> 08:23 PM CT, Nov. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59125228?at_medium=RSS&at_campaign=KARANGA">Nigeria building collapse: Race to find survivors as dozens still missing</a> BBC: Rescue efforts continue through the night in Lagos, with many people feared trapped under rubble. 
  <p class="updated_time"> 08:01 PM CT, Nov. 01 </p> 
@@ -155,8 +157,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/10/31/us/politics/saudi-investment-conference-trump-allies.html">Trump Allies Are Prominent at Saudi Investment Conference</a> NYT: But the Biden administration sent only a deputy commerce secretary to the high-profile gathering, amid shifts in global politics and diplomatic strains. 
  <p class="updated_time"> 04:26 AM CT, Oct. 31 </p> 
  <a href="https://www.nytimes.com/2021/10/30/world/g20-photos.html">Photos From the G20 Summit in Rome</a> NYT: Colorful protests outside the G20 meetings, and in them, exchanges between world leaders. 
- <p class="updated_time"> 08:10 PM CT, Oct. 30 </p> 
- <a href="https://www.nytimes.com/2021/10/30/world/americas/nyc-police-fire-vaccine-mandate.html">More New York City workers get Covid shots as deadline nears, but tensions remain.</a> NYT: The city’s effort to compel most city employees to receive the coronavirus vaccine before Monday appears to have rapidly boosted inoculation rates. 
  <p class="updated_time"> 04:51 PM CT, Oct. 30 </p> 
  <a href="https://www.nytimes.com/2021/10/30/world/biden-communion-rome-g20.html">Biden Receives Communion at Rome Church</a> NYT: Some conservative bishops in the United States have said the president should be denied communion because of his support for abortion rights. 
 
@@ -166,6 +166,10 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:01 PM CT, Nov. 01 </p> 
+ <a href="https://www.nytimes.com/2021/11/02/us/politics/election-results-polls-closing.html">What to Watch in Tuesday’s Elections: Virginia, Mayor’s Races and Policing</a> NYT: The Virginia governor’s race will be closely studied for clues about the midterms, and new mayors will be chosen in New York, Boston, Buffalo, Atlanta and more. 
+ <p class="updated_time"> 10:57 PM CT, Nov. 01 </p> 
+ <a href="https://www.nytimes.com/2021/11/01/us/linwood-holton-dead.html">Linwood Holton, 98,Virginia Governor Who Pushed for Racial Equality, Dies</a> NYT: The first Republican governor of the state in almost a century, he seemed to herald a new, post-racial South. He later became disillusioned with his own party. 
  <p class="updated_time"> 10:43 PM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/europe/cop26-glasgow-biden-climate.html">At COP26 Summit, Urgent Pleas to Combat Global Warning</a> NYT: The opening day of a climate summit was heavy on dire warnings and light on substantive proposals as leaders in Glasgow met to discuss a warming world. 
  <p class="updated_time"> 10:39 PM CT, Nov. 01 </p> 
@@ -180,8 +184,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/01/us/politics/texas-abortion-law-supreme-court.html">Supreme Court Hints That It May Allow Challenge to Texas Abortion Law</a> NYT: In two arguments on Monday, the justices considered challenges from abortion providers and the Biden administration to a law that bans abortions after about six weeks. 
  <p class="updated_time"> 06:14 PM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/us/politics/manchin-endorse-framework.html">Manchin Raises Doubts on Safety Net Bill, Complicating Path to Quick Vote</a> NYT: Senator Joe Manchin III of West Virginia, a crucial Democratic swing vote, demanded more time to evaluate the economic and fiscal impact of the $1.85 trillion bill. 
- <p class="updated_time"> 05:27 PM CT, Nov. 01 </p> 
- <a href="https://www.nytimes.com/2021/11/01/us/linwood-holton-dead.html">Linwood Holton, 98,Virginia Governor Who Pushed for Racial Equality, Dies</a> NYT: The first Republican governor of the state in almost a century, he seemed to herald a new, post-racial South. He later became disillusioned with his own party. 
  <p class="updated_time"> 04:52 PM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/us/politics/challenging-the-texas-abortion-law.html">Why is it So Hard to Challenge the Texas Abortion Law?</a> NYT: The structure of the law, which delegates enforcement authority to millions of people, means there is no obvious person whom its opponents can sue. 
  <p class="updated_time"> 04:51 PM CT, Nov. 01 </p> 
@@ -206,8 +208,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/01/books/huma-abedin-book-weiner-hillary-clinton.html">7 Takeaways From Huma Abedin's Book</a> NYT: In her new memoir, “Both/And,” Hillary Clinton’s longtime aide opens up about her ex-husband, the 2016 election and more. 
  <p class="updated_time"> 03:30 AM CT, Nov. 01 </p> 
  <a href="https://www.politico.com/news/2021/11/01/gop-relishes-political-upsides-517847">'They're probably going to put us back in power': GOP basks in Dem discord</a> Politico: The House Republican conference is mostly avoiding the spotlight these days, getting fewer tough questions as the opposing party struggles. It doesn't mind at all. 
- <p class="updated_time"> 08:59 PM CT, Oct. 31 </p> 
- <a href="https://www.nytimes.com/2021/10/31/us/lets-go-brandon-southwest-airlines.html">Why a Pilot Is Under Investigation for Saying ‘Let’s Go Brandon’</a> NYT: His remarks went viral after he repeated the chant, which is understood to be code for swearing at President Biden, during a Southwest Airlines flight. 
  <p class="updated_time"> 12:46 PM CT, Oct. 31 </p> 
  <a href="https://www.politico.com/news/2021/10/31/john-curtis-climate-summit-glasgow-518013">What Utah Republican John Curtis is bringing to the U.N. climate summit</a> Politico: As a conservative House Republican focused on climate change, he’s charting his own course. 
  <p class="updated_time"> 10:45 AM CT, Oct. 31 </p> 
