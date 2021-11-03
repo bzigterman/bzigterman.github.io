@@ -7,14 +7,20 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:17 AM CT, Nov. 03 </p> 
+ <a href="https://www.nytimes.com/2021/11/03/world/australia/missing-cleo-smith.html">Cleo Smith, 4, Is Found 18 Days After She Vanishes in Australia</a> NYT: Cleo Smith disappeared one night while camping with her family in a remote area of Australia. She was found “alive and well” in a locked house, and a man was detained. 
+ <p class="updated_time"> 11:04 AM CT, Nov. 03 </p> 
+ <a href="https://www.nytimes.com/2021/11/03/world/australia/australia-scott-morrison-cop26.html">What Did Scott Morrison, Australia's Leader, Accomplish at COP26?</a> NYT: Prime Minister Scott Morrison did not announce any firm plans to move away from the country’s deep investment in fossil fuel production. 
+ <p class="updated_time"> 11:03 AM CT, Nov. 03 </p> 
+ <a href="https://www.nytimes.com/2021/11/03/world/europe/cop26-summit-lines.html">COP26 Summit Attendees Frustrated With Long Lines and Access</a> NYT: One veteran of the annual gathering described it as the “poorest planed” to date. A young American activist called it a “hellscape.” 
+ <p class="updated_time"> 10:58 AM CT, Nov. 03 </p> 
+ <a href="https://www.nytimes.com/2021/11/03/world/yellen-green-bonds-climate-change.html">U.S. to Provide $500 Million for Green Bonds, Yellen Says</a> NYT: Ms. Yellen said wealthy countries had pledged billions of dollars to tackle climate change, but the real cost is in the trillions. 
  <p class="updated_time"> 10:52 AM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/africa/ethiopia-war-un-report.html">Atrocities on All Sides in Ethiopia, U.N. Says as Rebels Advance</a> NYT: The United Nations report on the civil war, released as Tigrayan rebels near the capital, was written under significant constraints imposed by the government. 
  <p class="updated_time"> 10:47 AM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/asia/sunao-tsuboi-dead.html">Sunao Tsuboi, 96, Dies; Hiroshima Victim Who Lived to Tell His Story</a> NYT: After suffering through the agony of the attack and its aftermath, he devoted himself to spreading the message that nuclear weapons should be abolished. 
  <p class="updated_time"> 10:17 AM CT, Nov. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59149728?at_medium=RSS&at_campaign=KARANGA">Galapagos marine reserve: Conservationists hail expansion</a> BBC: Conservationists say the move will protect migration routes for many endangered species. 
- <p class="updated_time"> 10:08 AM CT, Nov. 03 </p> 
- <a href="https://www.nytimes.com/2021/11/03/world/europe/cop26-summit-lines.html">COP26 Summit Attendees Frustrated With Long Lines and Access</a> NYT: One veteran of the annual gathering described it as the “poorest planed” to date. A young American activist called it a “hellscape.” 
  <p class="updated_time"> 10:06 AM CT, Nov. 03 </p> 
  <a href="https://www.bbc.co.uk/news/59135899?at_medium=RSS&at_campaign=KARANGA">COP26: What's the climate impact of private jets?</a> BBC: World leaders' use of private jets to attend the climate summit has been called into question. 
  <p class="updated_time"> 10:05 AM CT, Nov. 03 </p> 
@@ -32,8 +38,6 @@ permalink: /projects/news/
  <p class="updated_time"> 09:13 AM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/europe/cop26-glasgow-biden-climate.html">At COP26 Summit, Urgent Pleas to Combat Global Warning</a> NYT: The opening day of a climate summit was heavy on dire warnings and light on substantive proposals as leaders in Glasgow met to discuss a warming world. 
  <p class="updated_time"> 09:08 AM CT, Nov. 03 </p> 
- <a href="https://www.nytimes.com/2021/11/03/world/australia/australia-scott-morrison-cop26.html">What Did Scott Morrison, Australia's Leader, Accomplish at COP26?</a> NYT: Prime Minister Scott Morrison did not announce any firm plans to move away from the country’s deep investment in fossil fuel production. 
- <p class="updated_time"> 09:08 AM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/europe/global-energy-alliance-fund-cop26.html">New $10.5 Billion Fund Aims to Spur Green Energy in Poor Countries</a> NYT: Its backers say it will jump-start investments in clean energy that would not otherwise draw private investors. 
  <p class="updated_time"> 09:07 AM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/europe/cop26-climate-change-finance-industry.html"> Financial Industry, With $130 Trillion, to Pursue Climate Goals </a> NYT: The pledge would transform the international financial system, but critics say it falls short on fossil fuels. 
@@ -45,14 +49,10 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59147487?at_medium=RSS&at_campaign=KARANGA">Sophie Pétronin: France criticises saved hostage who went back to Mali</a> BBC: Sophie Pétronin, 76, was freed in October 2020 but returned to Mali despite being refused a visa. 
  <p class="updated_time"> 08:41 AM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/americas/brazil-presents-itself-as-part-of-the-solution-but-critics-see-a-climate-scofflaw.html">Brazil presents itself as part of the solution, but critics see a climate scofflaw.</a> NYT: NA 
- <p class="updated_time"> 08:00 AM CT, Nov. 03 </p> 
- <a href="https://www.nytimes.com/2021/11/03/world/australia/missing-cleo-smith.html">Cleo Smith, 4, Is Found 18 Days After She Vanishes in Australia</a> NYT: Cleo Smith disappeared one night while camping with her family in a remote area of Australia. She was found “alive and well” in a locked house, and a man was detained. 
  <p class="updated_time"> 07:10 AM CT, Nov. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59144556?at_medium=RSS&at_campaign=KARANGA">Cleo Smith: How Australian police found the missing four-year-old</a> BBC: The discovery of the girl follows a huge search operation covering a remote part of Australia. 
  <p class="updated_time"> 07:07 AM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/europe/belgium-congo-kidnapping.html">Torn From Parents in the Belgian Congo, Women Seek Reparations</a> NYT: Belgium has apologized for the kidnapping and deportation of thousands of mixed-race children under its colonial rule. Survivors say that reparations should be the next step. 
- <p class="updated_time"> 06:53 AM CT, Nov. 03 </p> 
- <a href="https://www.nytimes.com/2021/11/03/world/yellen-green-bonds-climate-change.html">U.S. to Provide $500 Million for Green Bonds, Yellen Says</a> NYT: The Treasury secretary said wealthy countries had pledged billions of dollars to tackle climate change, but the real cost is in the trillions. 
  <p class="updated_time"> 06:49 AM CT, Nov. 03 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59146864?at_medium=RSS&at_campaign=KARANGA">Alec Baldwin shares post defending Rust film set safety</a> BBC: The actor shares a post from Rust's costume designer following the death of Halyna Hutchins. 
  <p class="updated_time"> 06:47 AM CT, Nov. 03 </p> 
@@ -163,8 +163,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/science-environment-59114449?at_medium=RSS&at_campaign=KARANGA">COP26: What climate summit means for one woman in Bangladesh</a> BBC: What do decisions made at a summit in Glasgow mean for a woman in a village on the front line of climate change? 
  <p class="updated_time"> 07:05 PM CT, Nov. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-58961286?at_medium=RSS&at_campaign=KARANGA">Climate change: Should we save or exploit the vanishing Amazon?</a> BBC: The BBC's Orla Guerin meets four Amazon-dwellers with differing views on the rainforest's protection. 
- <p class="updated_time"> 11:07 AM CT, Nov. 01 </p> 
- <a href="https://www.nytimes.com/2021/11/01/world/5-million-covid-deaths.html">Global Covid Death Toll Surpasses 5 Million, but Full Count Is Higher</a> NYT: Many countries do not accurately report their figures, and many Covid deaths are misattributed, experts say. 
  <p class="updated_time"> 10:15 AM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/middleeast/egypt-security-military.html">Egypt Poised to Expand Security Powers of President and Military</a> NYT: Amendments to a terrorism law will strengthen the grip of the government, just days after it appeared to loosen up by lifting a state of emergency. 
 
@@ -174,6 +172,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:03 AM CT, Nov. 03 </p> 
+ <a href="https://www.nytimes.com/2021/11/03/us/politics/black-voters-in-virginia-refuse-to-be-blamed-for-a-major-democratic-defeat.html">Black voters in Virginia refuse to be blamed for a major Democratic defeat.</a> NYT: Black state leaders and voters said the results were a sign that the party could not rely on minority voters to cover its cratering totals in white areas of the state. 
  <p class="updated_time"> 10:44 AM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/us/politics/democrats-virginia-governor-race.html">What Youngkin's Win in the Virginia Governor Race Means for Democrats</a> NYT: Less than a year after taking power in Washington, the party faces a grim immediate future, struggling to energize voters without a presidential foil and losing messaging wars to Republicans. 
  <p class="updated_time"> 10:11 AM CT, Nov. 03 </p> 
@@ -232,8 +232,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/11/02/youngkins-crowds-dwarf-mcauliffes-on-election-eve-494939">POLITICO Playbook: Youngkin’s crowds dwarf McAuliffe’s on election eve</a> Politico: And progressives stay the course after Joe Manchin flips them the bird. 
  <p class="updated_time"> 10:57 PM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/us/linwood-holton-dead.html">Linwood Holton, 98,Virginia Governor Who Pushed for Racial Equality, Dies</a> NYT: The first Republican governor of the state in almost a century, he seemed to herald a new, post-racial South. He later became disillusioned with his own party. 
- <p class="updated_time"> 09:33 PM CT, Nov. 01 </p> 
- <a href="https://www.nytimes.com/2021/11/01/us/politics/medicaid-uninsured.html">Democrats’ Bill Would Cover Poor Uninsured Adults, Up to a Point</a> NYT: The $1.85 trillion social policy bill would provide free private health insurance for more than two million adults locked out of coverage, but only for four years. 
  <p class="updated_time"> 05:09 AM CT, Nov. 01 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/01/its-zero-hour-for-virginia-and-build-back-better-494921">POLITICO Playbook: It’s zero hour for Virginia and Build Back Better</a> Politico: And the Supreme Court takes up the Texas abortion law. 
  <p class="updated_time"> 03:30 AM CT, Nov. 01 </p> 
