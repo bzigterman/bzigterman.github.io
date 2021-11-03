@@ -7,6 +7,12 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:13 AM CT, Nov. 03 </p> 
+ <a href="https://www.nytimes.com/2021/11/01/world/europe/cop26-glasgow-biden-climate.html">At COP26 Summit, Urgent Pleas to Combat Global Warning</a> NYT: The opening day of a climate summit was heavy on dire warnings and light on substantive proposals as leaders in Glasgow met to discuss a warming world. 
+ <p class="updated_time"> 09:11 AM CT, Nov. 03 </p> 
+ <a href="https://www.nytimes.com/2021/11/03/world/africa/ethiopia-war-un-report.html">Atrocities on All Sides in Ethiopia’s War, U.N. Says as Rebels Advance</a> NYT: The United Nations report, released during a state of emergency as rebel forces near the capital, was written under significant constraints imposed by the government. 
+ <p class="updated_time"> 09:09 AM CT, Nov. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59144293?at_medium=RSS&at_campaign=KARANGA">Glenn Youngkin: Win for Republican in Virginia governor vote</a> BBC: Glenn Youngkin's victory is a blow for Joe Biden, who won the state in the presidential election. 
  <p class="updated_time"> 09:08 AM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/australia/australia-scott-morrison-cop26.html">What Did Scott Morrison, Australia's Leader, Accomplish at COP26?</a> NYT: Prime Minister Scott Morrison did not announce any firm plans to move away from the country’s deep investment in fossil fuel production. 
  <p class="updated_time"> 09:08 AM CT, Nov. 03 </p> 
@@ -19,14 +25,10 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59147487?at_medium=RSS&at_campaign=KARANGA">Sophie Pétronin: France criticises saved hostage who went back to Mali</a> BBC: Sophie Pétronin, 76, was freed in October 2020 but returned to Mali despite being refused a visa. 
  <p class="updated_time"> 08:41 AM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/americas/brazil-presents-itself-as-part-of-the-solution-but-critics-see-a-climate-scofflaw.html">Brazil presents itself as part of the solution, but critics see a climate scofflaw.</a> NYT: NA 
- <p class="updated_time"> 08:35 AM CT, Nov. 03 </p> 
- <a href="https://www.nytimes.com/2021/11/03/world/africa/ethiopia-war-un-report.html">Atrocities on All Sides in Ethiopia’s War, U.N. Says as Rebels Advance</a> NYT: The United Nations report, released during a state of emergency as rebel forces near the capital, was written under significant constraints imposed by the government. 
  <p class="updated_time"> 08:00 AM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/australia/missing-cleo-smith.html">Cleo Smith, 4, Is Found 18 Days After She Vanishes in Australia</a> NYT: Cleo Smith disappeared one night while camping with her family in a remote area of Australia. She was found “alive and well” in a locked house, and a man was detained. 
  <p class="updated_time"> 07:10 AM CT, Nov. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59144556?at_medium=RSS&at_campaign=KARANGA">Cleo Smith: How Australian police found the missing four-year-old</a> BBC: The discovery of the girl follows a huge search operation covering a remote part of Australia. 
- <p class="updated_time"> 07:08 AM CT, Nov. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59144293?at_medium=RSS&at_campaign=KARANGA">Glenn Youngkin: Win for Republican in Virginia governor vote</a> BBC: Glenn Youngkin's victory is a blow for Joe Biden, who won the state in the presidential election. 
  <p class="updated_time"> 07:07 AM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/europe/belgium-congo-kidnapping.html">Torn From Parents in the Belgian Congo, Women Seek Reparations</a> NYT: Belgium has apologized for the kidnapping and deportation of thousands of mixed-race children under its colonial rule. Survivors say that reparations should be the next step. 
  <p class="updated_time"> 06:53 AM CT, Nov. 03 </p> 
@@ -97,8 +99,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/02/world/americas/brazil-climate.html">Once a Climate Leader, Brazil Falls Short in Glasgow</a> NYT: The country’s proposals show a desire to burnish its image, but President Jair Bolsonaro’s record and his absence from the summit cast doubt on its commitment to reversing course. 
  <p class="updated_time"> 03:06 PM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/02/world/europe/cop26-jeff-bezos-climate.html">Jeff Bezos Makes $2 Billion Environmental Pledge at COP26 Summit</a> NYT: The billionaire called the loss of Earth’s forests “a profound and urgent danger to us all.” 
- <p class="updated_time"> 02:56 PM CT, Nov. 02 </p> 
- <a href="https://www.nytimes.com/2021/11/01/world/europe/cop26-glasgow-biden-climate.html">At COP26 Summit, Urgent Pleas to Combat Global Warning</a> NYT: The opening day of a climate summit was heavy on dire warnings and light on substantive proposals as leaders in Glasgow met to discuss a warming world. 
  <p class="updated_time"> 02:43 PM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/02/world/middleeast/palestinian-jerusalem-eviction-jarrah.html">Palestinian Families Reject Deal in Area That Helped Set Off Gaza Conflict</a> NYT: The threatened evictions of Palestinian residents of the Sheikh Jarrah neighborhood of East Jerusalem led to a war in Gaza last May. 
  <p class="updated_time"> 02:25 PM CT, Nov. 02 </p> 
@@ -174,12 +174,14 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:13 AM CT, Nov. 03 </p> 
+ <a href="https://www.nytimes.com/2021/11/02/nyregion/eric-adams-mayor.html">Eric Adams Is Elected Mayor of New York City</a> NYT: Mr. Adams, a Democrat and former police captain, will be the second Black mayor in the city’s history. 
+ <p class="updated_time"> 09:13 AM CT, Nov. 03 </p> 
+ <a href="https://www.nytimes.com/2021/11/01/world/europe/cop26-glasgow-biden-climate.html">At COP26 Summit, Urgent Pleas to Combat Global Warning</a> NYT: The opening day of a climate summit was heavy on dire warnings and light on substantive proposals as leaders in Glasgow met to discuss a warming world. 
  <p class="updated_time"> 08:54 AM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/us/politics/democrats-virginia-governor-race.html">What Youngkin's Win in the Virginia Governor Race Means for Democrats</a> NYT: Less than a year after taking power in Washington, the party faces a grim immediate future, struggling to energize voters without a presidential foil and losing messaging wars to Republicans. 
  <p class="updated_time"> 08:48 AM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/style/eric-adams-style.html">Eric Adams's Style: ‘Everything About You Must Say Power’</a> NYT: New York City’s new mayor, Eric Adams, pays a lot of attention to what he wears. You should, too. 
- <p class="updated_time"> 08:15 AM CT, Nov. 03 </p> 
- <a href="https://www.nytimes.com/2021/11/02/nyregion/eric-adams-mayor.html">Eric Adams Is Elected Mayor of New York City</a> NYT: Mr. Adams, a Democrat and former police captain, will be the second Black mayor in the city’s history. 
  <p class="updated_time"> 07:46 AM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/02/us/politics/election-results-polls-closing.html">Races to Watch on Election Day</a> NYT: The Virginia governor’s race will be closely studied for clues about the midterms, and new mayors will be chosen in New York, Boston, Buffalo, Atlanta and more. 
  <p class="updated_time"> 05:17 AM CT, Nov. 03 </p> 
@@ -216,8 +218,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/02/end-of-sinema-manchin-manchema-518569">The end of Manchema</a> Politico: Once united on cutting the cost of their party's social spending bill, the centrists from West Virginia and Arizona are now going their own way. 
  <p class="updated_time"> 03:25 PM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/02/business/economy/fed-jerome-powell-rates-inflation.html">Fed Expected to Announce Plan to Slow Bond Buying Amid Rapid Inflation</a> NYT: The Federal Reserve is expected to announce a plan to taper off its bond buying. With inflation surging, economists’ eyes are already turning to rates. 
- <p class="updated_time"> 02:56 PM CT, Nov. 02 </p> 
- <a href="https://www.nytimes.com/2021/11/01/world/europe/cop26-glasgow-biden-climate.html">At COP26 Summit, Urgent Pleas to Combat Global Warning</a> NYT: The opening day of a climate summit was heavy on dire warnings and light on substantive proposals as leaders in Glasgow met to discuss a warming world. 
  <p class="updated_time"> 02:40 PM CT, Nov. 02 </p> 
  <a href="https://www.politico.com/news/2021/11/02/congress-standstill-shutdown-debt-518567">Congress hits ‘standstill’ as December shutdown, debt cliff near</a> Politico: "There should be a motto around here: ‘Why do today what we can do tomorrow?’ It's ridiculous," said Sen. Jon Tester. 
  <p class="updated_time"> 02:11 PM CT, Nov. 02 </p> 
