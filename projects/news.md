@@ -7,12 +7,20 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:43 PM CT, Nov. 02 </p> 
+ <a href="https://www.nytimes.com/2021/11/02/world/europe/climate-summit-methane-forests.html">With Methane and Forest Deals, Climate Summit Offers Hope After Gloomy Start</a> NYT: Agreements to reduce methane gas emissions and protect the world’s forests were reached Tuesday at the U.N.-sponsored meeting, as President Biden chided the leaders of Russia and China for not showing up. 
+ <p class="updated_time"> 07:33 PM CT, Nov. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59044853?at_medium=RSS&at_campaign=KARANGA">Covid: US fully approves Pfizer vaccine for children over five</a> BBC: Children aged five to 11 can now receive the Pfizer jab, clearing the way for millions to get vaccinated. 
+ <p class="updated_time"> 07:22 PM CT, Nov. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59130945?at_medium=RSS&at_campaign=KARANGA">Bosnian leader stokes fears of Balkan breakup</a> BBC: Bosnian Serb Milorad Dodik has threatened to secede, raising fears in Bosnia and the West. 
+ <p class="updated_time"> 07:09 PM CT, Nov. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-59130556?at_medium=RSS&at_campaign=KARANGA">T20 World Cup: When Indian fans are jailed for celebrating Pakistan's win</a> BBC: The arrest of Muslims for cheering Pakistan's cricket win sparks concerns about freedom of speech in India. 
+ <p class="updated_time"> 07:05 PM CT, Nov. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/business-59059092?at_medium=RSS&at_campaign=KARANGA">Border closures threaten Hong Kong's financial hub status</a> BBC: As countries in the region reopen, the city is now one of the most closed places in the world. 
  <p class="updated_time"> 06:45 PM CT, Nov. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59143494?at_medium=RSS&at_campaign=KARANGA">Cleo Smith: Missing 4-year-old found alive in Australia</a> BBC: Four-year-old Cleo Smith is found alive more than two weeks after vanishing from an Australian campsite. 
  <p class="updated_time"> 06:13 PM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/02/technology/facebook-facial-recognition.html">Facebook Plans to Shut Down Its Facial Recognition System</a> NYT: Saying it wants “to find the right balance” with the technology, the social network will delete the face scan data of more than one billion users. 
- <p class="updated_time"> 05:50 PM CT, Nov. 02 </p> 
- <a href="https://www.nytimes.com/2021/11/02/world/europe/climate-summit-methane-forests.html">With Methane and Forest Deals, Climate Summit Offers Hope After Gloomy Start</a> NYT: Agreements to reduce methane gas emissions and protect the world’s forests were reached Tuesday at the U.N.-sponsored meeting, as President Biden chided the leaders of Russia and China for not showing up. 
  <p class="updated_time"> 05:39 PM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/africa/nigeria-building-collapse-.html">Nigeria Building Collapse Kills at Least 5 With Many More Trapped</a> NYT: As many as 100 workers were feared trapped at a construction site in Lagos, where building collapses are common, with contractors using shoddy materials and regulations often not enforced. 
  <p class="updated_time"> 05:35 PM CT, Nov. 02 </p> 
@@ -21,6 +29,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59140788?at_medium=RSS&at_campaign=KARANGA">Two dead after seven-storey fall at Abba tribute concert</a> BBC: Around 1,000 people had gathered at the venue in Sweden before a person fell and hit two others. 
  <p class="updated_time"> 05:13 PM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/02/world/africa/ethiopia-state-of-emergency.html">Ethiopia Declares State of Emergency as Rebels Advance Toward Capital</a> NYT: In a milestone in the yearlong conflict, the government called on civilians to arm themselves and defend Addis Ababa after Tigrayan forces captured two towns nearby. 
+ <p class="updated_time"> 05:03 PM CT, Nov. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59044854?at_medium=RSS&at_campaign=KARANGA">Job-seekers turn to TikTok to post 'CareerTok' CVs</a> BBC: Will the video sharing platform become the future of recruitment? 
  <p class="updated_time"> 04:54 PM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/02/us/politics/biden-us-leadership-cop26.html">Biden Tries to Reassert American Leadership, and His Own</a> NYT: President Biden hoped his personal style of politicking could help him build global consensus on fighting climate change. But as he has learned in Washington, charm offensives have their limits. 
  <p class="updated_time"> 04:28 PM CT, Nov. 02 </p> 
@@ -51,6 +61,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/01/sports/women-beach-handball-bikini.html">Handball Federation Ends Bikini Bottom Requirement for Women</a> NYT: After outrage over a fine levied against the Norwegian women’s beach handball team for competing in shorts, the sport’s international federation said it was changing its rules. 
  <p class="updated_time"> 01:22 PM CT, Nov. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59133079?at_medium=RSS&at_campaign=KARANGA">Ex-Fifa president Blatter and ex-Uefa boss Platini charged with fraud</a> BBC: Sepp Blatter and Michel Platini, former world and European football heads, are charged with fraud. 
+ <p class="updated_time"> 01:20 PM CT, Nov. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/59135899?at_medium=RSS&at_campaign=KARANGA">COP26: What's the climate impact of private jets?</a> BBC: World leaders' use of private jets to attend the climate summit has been called into question. 
  <p class="updated_time"> 01:01 PM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/02/world/europe/united-states-russia-william-burns.html">U.S.-Russia Engagement Deepens as C.I.A. Head Travels to Moscow</a> NYT: It was at least the fourth trip to Moscow since July by a senior American official as the two sides seek to stabilize a volatile relationship. 
  <p class="updated_time"> 12:52 PM CT, Nov. 02 </p> 
@@ -83,16 +95,14 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/02/world/biden-cop26-climate-change-pledge.html">Biden Pledges $3 Billion to Help the World Adapt to Climate Change</a> NYT: The amount is half as much as what was recently proposed for a six-mile sea wall to protect Miami from the Atlantic Ocean. 
  <p class="updated_time"> 09:44 AM CT, Nov. 02 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59131945?at_medium=RSS&at_campaign=KARANGA">COP26: Joe Biden says methane reduction pledge will make 'huge difference'</a> BBC: More than 80 countries at the COP26 summit have pledged to cut methane emissions by 30% by 2030. 
+ <p class="updated_time"> 09:37 AM CT, Nov. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/science-environment-58874518?at_medium=RSS&at_campaign=KARANGA">What is net zero and how are the UK and other countries doing?</a> BBC: Experts have recommended developed countries adopt targets to reduce emissions to net zero by 2050. 
  <p class="updated_time"> 09:28 AM CT, Nov. 02 </p> 
  <a href="https://www.wsj.com/articles/afghanistans-main-military-hospital-hit-by-two-explosions-gunfire-11635847126">Attack on Kabul Military Hospital Leaves at Least 23 Dead</a> WSJ: Islamic State militants stormed Afghanistan’s main military hospital and killed at least 23 people in the latest eruption of violence since the country’s U.S.-backed government collapsed in mid-August. 
  <p class="updated_time"> 09:24 AM CT, Nov. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-59137828?at_medium=RSS&at_campaign=KARANGA">COP26: US and EU announce global pledge to slash methane</a> BBC: The Global Methane Pledge aims to cut methane emissions by 30% by 2030, compared with 2020 levels. 
  <p class="updated_time"> 09:24 AM CT, Nov. 02 </p> 
  <a href="https://www.bbc.co.uk/news/business-59132104?at_medium=RSS&at_campaign=KARANGA">COP26: Bezos pledges $2bn for restoring nature</a> BBC: Amazon founder Jeff Bezos tells the COP26 climate meeting he was inspired by his recent space trip. 
- <p class="updated_time"> 08:29 AM CT, Nov. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-59133027?at_medium=RSS&at_campaign=KARANGA">China urges families to store basic supplies in case of emergency</a> BBC: The advice, amid Covid lockdowns and vegetable supply concerns, sparks some panic buying. 
- <p class="updated_time"> 08:18 AM CT, Nov. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59133076?at_medium=RSS&at_campaign=KARANGA">Why Syrians face deportation from Turkey over banana jokes</a> BBC: Turkish authorities accuse some Syrians of "inciting hatred" for eating bananas. Here's why. 
  <p class="updated_time"> 08:15 AM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/02/world/asia/china-food-shortages-winter.html">China Urges Families to Stock up on Food for Winter</a> NYT: State-run news media said that the directives were to prepare for emergencies like coronavirus lockdowns as the country pursues its “zero Covid” policy. 
  <p class="updated_time"> 07:20 AM CT, Nov. 02 </p> 
@@ -109,8 +119,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/02/world/reduce-fossil-fuels-long-term-but-pump-more-now-biden-says-angering-activists.html">Reduce fossil fuels in the long term but pump more now, Biden says, angering activists.</a> NYT: NA 
  <p class="updated_time"> 05:22 AM CT, Nov. 02 </p> 
  <a href="https://www.wsj.com/articles/tariffs-climate-change-greenhouse-gases-manufacturing-steel-11635862305">Tariffs to Tackle Climate Change Gain Momentum. The Idea Could Reshape Industries.</a> WSJ: Wealthy nations are proposing tariffs on imports like steel and cement that result in high carbon emissions. The proposals could boost U.S. manufacturers—but could also undermine world trade rules and even trigger trade disputes. 
- <p class="updated_time"> 04:16 AM CT, Nov. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59087189?at_medium=RSS&at_campaign=KARANGA">Spain energy crisis: Soaring bills hamper recovery from Covid</a> BBC: Spain is less connected to the international grid than other EU countries and prices are surging. 
  <p class="updated_time"> 03:59 AM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/europe/queen-elizabeth-cop26.html"> Queen Elizabeth Urges Climate Action in COP26 Video</a> NYT: The 95-year-old monarch gave her address by video, after doctors advised her to rest and not go to the summit. Prince Charles attended and delivered a similar message. 
  <p class="updated_time"> 03:50 AM CT, Nov. 02 </p> 
@@ -131,18 +139,12 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/01/world/asia/pakistan-protests-negotiations-tlp.html">After Violent Standoff, Pakistan Strikes Deal With Banned Islamist Group</a> NYT: The pact, announced Sunday, defused a crisis that had paralyzed several cities, but it also highlighted the government’s struggle to assert itself against religious extremists. 
  <p class="updated_time"> 01:49 AM CT, Nov. 02 </p> 
  <a href="https://www.wsj.com/articles/cop26-leaders-agree-to-end-deforestation-by-2030-11635844937">Leaders Agree to End Deforestation by 2030</a> WSJ: World leaders at the COP26 summit, including the U.S., China and Brazil, agreed to a deal aimed at ending and then reversing deforestation by 2030, committing nearly $20 billion of public and private funds to protect and restore forests. 
- <p class="updated_time"> 12:59 AM CT, Nov. 02 </p> 
- <a href="https://www.bbc.co.uk/news/uk-wales-59050953?at_medium=RSS&at_campaign=KARANGA">COP26: Climate change graph 'needs more colours' as world gets hotter</a> BBC: The creator of the graphic representing world temperature said it will get "darker and darker". 
  <p class="updated_time"> 10:39 PM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/europe/what-to-watch-monday-cop26.html">What to Watch For At COP26 on Monday and Tuesday</a> NYT: Prime Minister Boris Johnson was first to welcome leaders, who will then lay out “concrete actions and credible plans.” David Attenborough and Prince Charles are also speaking. 
  <p class="updated_time"> 08:01 PM CT, Nov. 01 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59114449?at_medium=RSS&at_campaign=KARANGA">COP26: What climate summit means for one woman in Bangladesh</a> BBC: What do decisions made at a summit in Glasgow mean for a woman in a village on the front line of climate change? 
- <p class="updated_time"> 07:51 PM CT, Nov. 01 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-59053257?at_medium=RSS&at_campaign=KARANGA">Climate change: Five dealmakers who will influence the outcome at COP26</a> BBC: Who are the people who will determine the success or failure of the climate summit? 
  <p class="updated_time"> 07:05 PM CT, Nov. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-58961286?at_medium=RSS&at_campaign=KARANGA">Climate change: Should we save or exploit the vanishing Amazon?</a> BBC: The BBC's Orla Guerin meets four Amazon-dwellers with differing views on the rainforest's protection. 
- <p class="updated_time"> 07:01 PM CT, Nov. 01 </p> 
- <a href="https://www.bbc.co.uk/news/business-58788040?at_medium=RSS&at_campaign=KARANGA">Why Africa urgently needs its own genetic library</a> BBC: Genetically profiling three million Africans could be key for better healthcare, argue scientists. 
  <p class="updated_time"> 06:38 PM CT, Nov. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59071864?at_medium=RSS&at_campaign=KARANGA">Virginia election: A tight race for the governor's mansion</a> BBC: The close gubernatorial battle in this key state is being seen as a referendum on the Biden presidency. 
  <p class="updated_time"> 04:49 PM CT, Nov. 01 </p> 
@@ -161,8 +163,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/01/world/europe/cop26-climate-antonio-guterres.html">U.N. Leader, António Guterres, Warns of 'Climate Catastrophe' at COP26</a> NYT: He urged countries to review their climate pledges annually rather than every five years as called for in the 2015 Paris accord. 
  <p class="updated_time"> 12:08 PM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/travel/soviet-era-metros.html">The Stunning Grandeur of Soviet-Era Metros</a> NYT: Between 2014 and 2020, Frank Herfort visited more than 770 metro stations in 19 cities, creating a remarkable archive of architectural and artistic splendor. 
- <p class="updated_time"> 11:34 AM CT, Nov. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59121470?at_medium=RSS&at_campaign=KARANGA">Timed Teaser: Who entered the Rock & Roll Hall of Fame?</a> BBC: Test your knowledge of the news these last few days - 10 questions, 10 seconds each. Go! 
  <p class="updated_time"> 11:07 AM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/5-million-covid-deaths.html">Global Covid Death Toll Surpasses 5 Million, but Full Count Is Higher</a> NYT: Many countries do not accurately report their figures, and many Covid deaths are misattributed, experts say. 
  <p class="updated_time"> 10:15 AM CT, Nov. 01 </p> 
@@ -188,6 +188,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:14 PM CT, Nov. 02 </p> 
+ <a href="https://www.nytimes.com/2021/11/02/us/politics/vaccine-mandate-military.html">Military Grants Few Vaccine Exemptions as Deadlines Loom</a> NYT: The majority of active-duty troops have gotten a mandatory coronavirus vaccine ahead of deadline, with religious-based exemptions largely dismissed. 
  <p class="updated_time"> 06:55 PM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/02/us/politics/charlottesville-trial-holocaust.html">Holocaust Scholar to Testify at Charlottesville Trial</a> NYT: In a Charlottesville courtroom, Deborah E. Lipstadt will testify to the persistence of antisemitism, and its links to present-day politics. 
  <p class="updated_time"> 06:35 PM CT, Nov. 02 </p> 
@@ -206,8 +208,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/02/social-spending-bill-immigration-citizenship-518606">Dems aim to squeeze immigration into social spending bill — without path to citizenship</a> Politico: There's still a distinct possibility the Senate rules referee will strike down the reform attempt Democrats are pushing into their $1.75 trillion bill. 
  <p class="updated_time"> 05:38 PM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/02/us/politics/salt-cap-tax-deduction.html">Democrats Push for Agreement on Tax Deduction That Benefits the Rich</a> NYT: Lawmakers are coalescing around a deal to suspend a $10,000 cap on state and local tax deductions that was imposed during the Trump administration. 
- <p class="updated_time"> 05:25 PM CT, Nov. 02 </p> 
- <a href="https://www.nytimes.com/2021/11/02/us/politics/vaccine-mandate-military.html">Military Grants Few Vaccine Exemptions as Deadlines Loom</a> NYT: The majority of active-duty troops have gotten a mandatory coronavirus vaccine ahead of deadline, with religious-based exemptions largely dismissed. 
  <p class="updated_time"> 04:54 PM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/02/us/politics/biden-us-leadership-cop26.html">Biden Tries to Reassert American Leadership, and His Own</a> NYT: President Biden hoped his personal style of politicking could help him build global consensus on fighting climate change. But as he has learned in Washington, charm offensives have their limits. 
  <p class="updated_time"> 04:41 PM CT, Nov. 02 </p> 
