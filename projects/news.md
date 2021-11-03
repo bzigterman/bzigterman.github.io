@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:35 PM CT, Nov. 03 </p> 
+ <p class="updated_time"> 02:53 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/africa/ethiopia-war-un-report.html">Ethiopia’s Leader Vows to ‘Bury This Enemy,’ Even as Rebels Advance</a> NYT: A United Nations report, released as Tigrayan rebels near the capital, documents atrocities on all sides in a year-old civil war. 
  <p class="updated_time"> 02:32 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/europe/greece-covid-restrictions.html">Greece Tightens Covid Restrictions on the Unvaccinated</a> NYT: The restrictions start Saturday and target unvaccinated people, said the country’s health minister, Thanos Plevris. 
@@ -174,6 +174,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:50 PM CT, Nov. 03 </p> 
+ <a href="https://www.nytimes.com/2021/11/03/us/politics/rescind-medals-wounded-knee-massacre.html">Lawmakers Ask Biden to Rescind Medals for Wounded Knee Massacre</a> NYT: Seventeen members of Congress said they believed it was within President Biden’s authority to revoke Medals of Honor “when appropriate.” 
  <p class="updated_time"> 02:28 PM CT, Nov. 03 </p> 
  <a href="https://www.politico.com/news/2021/11/03/senate-republicans-voting-reform-block-519082">Senate GOP blocks latest Dem push for voting reform</a> Politico: Alaska Sen. Lisa Murkowski was the only Republican to join Democrats on the voting bill named for the late Rep. John Lewis (D-Ga.). 
  <p class="updated_time"> 01:47 PM CT, Nov. 03 </p> 
@@ -200,8 +202,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/03/style/eric-adams-style.html">Eric Adams's Style: ‘Everything About You Must Say Power’</a> NYT: New York City’s new mayor, Eric Adams, pays a lot of attention to what he wears. You should, too. 
  <p class="updated_time"> 05:22 AM CT, Nov. 03 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/03/let-the-democratic-freakout-begin-494958">POLITICO Playbook: Let the Democratic freakout begin</a> Politico: And Democrats try to get the reconciliation bill over the finish line. 
- <p class="updated_time"> 05:17 AM CT, Nov. 03 </p> 
- <a href="https://www.nytimes.com/2021/11/02/us/politics/conservatives-new-york-gun-law.html">Prominent Conservatives Back Letting States Limit Guns in Public</a> NYT: A brief filed in a major gun control case to be heard on Wednesday by the Supreme Court argued that limits on the public carrying of weapons were consistent with the Second Amendment. 
  <p class="updated_time"> 05:10 AM CT, Nov. 03 </p> 
  <a href="https://www.politico.com/news/2021/11/03/democrats-biden-agenda-election-results-518935">Dems vow to plow forward on Biden agenda, even after election faceplants</a> Politico: “I don’t think this complicates passage. I think it helps accelerate it.” 
  <p class="updated_time"> 04:06 AM CT, Nov. 03 </p> 
@@ -270,8 +270,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/10/29/joe-manchin-houseboat-activists-517482">The activists outside Joe Manchin’s houseboat</a> Politico: On this episode of Playbook Deep Dive, we take you alongside the activists rowing outside Sen. Joe Manchin’s houseboat — and inside the halls of the Capitol — to talk about whether the demonstrations are having any real impact on the Democrats’ reconciliation bill. 
  <p class="updated_time"> 03:31 AM CT, Oct. 29 </p> 
  <a href="https://www.politico.com/news/2021/10/29/democrats-infrastructure-week-517487">Dems limp out of another stumble-ending month</a> Politico: It's a nightmare on Capitol Hill for the president's party, as October passes by without a deal. 
- <p class="updated_time"> 06:45 PM CT, Oct. 28 </p> 
- <a href="https://www.politico.com/news/2021/10/28/iowa-new-congressional-map-517485">Iowa approves new congressional map with 3 competitive districts</a> Politico: Former President Donald Trump narrowly carried each of the three swing seats under the new lines. 
  <p class="updated_time"> 05:44 AM CT, Oct. 28 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/10/28/biden-launches-rescue-mission-before-rome-494881">POLITICO Playbook: Biden launches rescue mission before Rome</a> Politico: And Biden prepares for his overseas trip. 
 
