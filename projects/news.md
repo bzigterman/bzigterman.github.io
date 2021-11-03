@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:59 PM CT, Nov. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59144293?at_medium=RSS&at_campaign=KARANGA">Glenn Youngkin: Republican seizes lead in Virginia governor race</a> BBC: A Republican gain in a state won comfortably by Mr Biden a year ago would unnerve his Democrats. 
+ <p class="updated_time"> 08:30 PM CT, Nov. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/business-59093560?at_medium=RSS&at_campaign=KARANGA">Australia jobs: 'The staffing issue is impossible'</a> BBC: Can free flights and rent lure the foreign workers back to Australia who quit when Covid arrived? 
  <p class="updated_time"> 07:43 PM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/02/world/europe/climate-summit-methane-forests.html">With Methane and Forest Deals, Climate Summit Offers Hope After Gloomy Start</a> NYT: Agreements to reduce methane gas emissions and protect the world’s forests were reached Tuesday at the U.N.-sponsored meeting, as President Biden chided the leaders of Russia and China for not showing up. 
  <p class="updated_time"> 07:33 PM CT, Nov. 02 </p> 
@@ -101,8 +105,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/afghanistans-main-military-hospital-hit-by-two-explosions-gunfire-11635847126">Attack on Kabul Military Hospital Leaves at Least 23 Dead</a> WSJ: Islamic State militants stormed Afghanistan’s main military hospital and killed at least 23 people in the latest eruption of violence since the country’s U.S.-backed government collapsed in mid-August. 
  <p class="updated_time"> 09:24 AM CT, Nov. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-59137828?at_medium=RSS&at_campaign=KARANGA">COP26: US and EU announce global pledge to slash methane</a> BBC: The Global Methane Pledge aims to cut methane emissions by 30% by 2030, compared with 2020 levels. 
- <p class="updated_time"> 09:24 AM CT, Nov. 02 </p> 
- <a href="https://www.bbc.co.uk/news/business-59132104?at_medium=RSS&at_campaign=KARANGA">COP26: Bezos pledges $2bn for restoring nature</a> BBC: Amazon founder Jeff Bezos tells the COP26 climate meeting he was inspired by his recent space trip. 
  <p class="updated_time"> 08:15 AM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/02/world/asia/china-food-shortages-winter.html">China Urges Families to Stock up on Food for Winter</a> NYT: State-run news media said that the directives were to prepare for emergencies like coronavirus lockdowns as the country pursues its “zero Covid” policy. 
  <p class="updated_time"> 07:20 AM CT, Nov. 02 </p> 
@@ -188,12 +190,14 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:47 PM CT, Nov. 02 </p> 
+ <a href="https://www.nytimes.com/2021/11/02/nyregion/eric-adams-mayor.html">Eric Adams Is Elected Mayor of New York City</a> NYT: Mr. Adams, a Democrat and former police captain, will be the second Black mayor in the city’s history. 
+ <p class="updated_time"> 08:24 PM CT, Nov. 02 </p> 
+ <a href="https://www.nytimes.com/2021/11/02/us/politics/election-results-polls-closing.html">Races to Watch on Election Day</a> NYT: The Virginia governor’s race will be closely studied for clues about the midterms, and new mayors will be chosen in New York, Boston, Buffalo, Atlanta and more. 
  <p class="updated_time"> 07:14 PM CT, Nov. 02 </p> 
- <a href="https://www.nytimes.com/2021/11/02/us/politics/vaccine-mandate-military.html">Military Grants Few Vaccine Exemptions as Deadlines Loom</a> NYT: The majority of active-duty troops have gotten a mandatory coronavirus vaccine ahead of deadline, with religious-based exemptions largely dismissed. 
+ <a href="https://www.nytimes.com/2021/11/02/us/politics/vaccine-military-army.html">Military Grants Few Vaccine Exemptions as Deadlines Loom</a> NYT: The majority of active-duty troops have gotten a mandatory coronavirus vaccine ahead of deadline, with religious-based exemptions largely dismissed. 
  <p class="updated_time"> 06:55 PM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/02/us/politics/charlottesville-trial-holocaust.html">Holocaust Scholar to Testify at Charlottesville Trial</a> NYT: In a Charlottesville courtroom, Deborah E. Lipstadt will testify to the persistence of antisemitism, and its links to present-day politics. 
- <p class="updated_time"> 06:35 PM CT, Nov. 02 </p> 
- <a href="https://www.nytimes.com/2021/11/02/us/politics/election-results-polls-closing.html">Races to Watch on Election Day</a> NYT: The Virginia governor’s race will be closely studied for clues about the midterms, and new mayors will be chosen in New York, Boston, Buffalo, Atlanta and more. 
  <p class="updated_time"> 06:24 PM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/02/us/politics/conservatives-new-york-gun-law.html">Prominent Conservatives Back Letting States Limit Guns in Public</a> NYT: A brief filed in a major gun control case to be heard on Wednesday by the Supreme Court argued that limits on the public carrying of weapons were consistent with the Second Amendment. 
  <p class="updated_time"> 06:21 PM CT, Nov. 02 </p> 
@@ -236,8 +240,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/01/us/linwood-holton-dead.html">Linwood Holton, 98,Virginia Governor Who Pushed for Racial Equality, Dies</a> NYT: The first Republican governor of the state in almost a century, he seemed to herald a new, post-racial South. He later became disillusioned with his own party. 
  <p class="updated_time"> 09:33 PM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/us/politics/medicaid-uninsured.html">Democrats’ Bill Would Cover Poor Uninsured Adults, Up to a Point</a> NYT: The $1.85 trillion social policy bill would provide free private health insurance for more than two million adults locked out of coverage, but only for four years. 
- <p class="updated_time"> 06:14 PM CT, Nov. 01 </p> 
- <a href="https://www.nytimes.com/2021/11/01/us/politics/manchin-endorse-framework.html">Manchin Raises Doubts on Safety Net Bill, Complicating Path to Quick Vote</a> NYT: Senator Joe Manchin III of West Virginia, a crucial Democratic swing vote, demanded more time to evaluate the economic and fiscal impact of the $1.85 trillion bill. 
  <p class="updated_time"> 03:30 AM CT, Nov. 01 </p> 
  <a href="https://www.politico.com/news/2021/11/01/gop-relishes-political-upsides-517847">'They're probably going to put us back in power': GOP basks in Dem discord</a> Politico: The House Republican conference is mostly avoiding the spotlight these days, getting fewer tough questions as the opposing party struggles. It doesn't mind at all. 
  <p class="updated_time"> 12:46 PM CT, Oct. 31 </p> 
