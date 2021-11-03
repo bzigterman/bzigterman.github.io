@@ -7,8 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:50 PM CT, Nov. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59144293?at_medium=RSS&at_campaign=KARANGA">Glenn Youngkin: Republican set to win Virginia governor race - US media</a> BBC: A Republican gain in a state won comfortably by Mr Biden a year ago will unnerve his Democrats. 
+ <p class="updated_time"> 12:10 AM CT, Nov. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59144293?at_medium=RSS&at_campaign=KARANGA">Glenn Youngkin: Republican set to win Virginia governor race - US media</a> BBC: Glenn Youngkin's victory in the race for governor will be seen as a huge blow for President Joe Biden. 
  <p class="updated_time"> 11:48 PM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/australia/missing-cleo-smith.html">Cleo Smith, 4, Is Found 18 Days After She Vanishes in Australia</a> NYT: Cleo Smith had disappeared while camping with her family in a remote area of Australia. She was found “alive and well” in a locked house, and a man was detained. 
  <p class="updated_time"> 11:35 PM CT, Nov. 02 </p> 
