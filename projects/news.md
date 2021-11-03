@@ -7,6 +7,12 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:52 AM CT, Nov. 03 </p> 
+ <a href="https://www.nytimes.com/2021/11/03/world/africa/ethiopia-war-un-report.html">Atrocities on All Sides in Ethiopia, U.N. Says as Rebels Advance</a> NYT: The United Nations report on the civil war, released as Tigrayan rebels near the capital, was written under significant constraints imposed by the government. 
+ <p class="updated_time"> 10:47 AM CT, Nov. 03 </p> 
+ <a href="https://www.nytimes.com/2021/11/03/world/asia/sunao-tsuboi-dead.html">Sunao Tsuboi, 96, Dies; Hiroshima Victim Who Lived to Tell His Story</a> NYT: After suffering through the agony of the attack and its aftermath, he devoted himself to spreading the message that nuclear weapons should be abolished. 
+ <p class="updated_time"> 10:17 AM CT, Nov. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-59149728?at_medium=RSS&at_campaign=KARANGA">Galapagos marine reserve: Conservationists hail expansion</a> BBC: Conservationists say the move will protect migration routes for many endangered species. 
  <p class="updated_time"> 10:08 AM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/europe/cop26-summit-lines.html">COP26 Summit Attendees Frustrated With Long Lines and Access</a> NYT: One veteran of the annual gathering described it as the “poorest planed” to date. A young American activist called it a “hellscape.” 
  <p class="updated_time"> 10:06 AM CT, Nov. 03 </p> 
@@ -19,12 +25,12 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59144293?at_medium=RSS&at_campaign=KARANGA">Glenn Youngkin: Win for Republican in Virginia governor vote</a> BBC: Glenn Youngkin's victory is a blow for Joe Biden, who won the state in the presidential election. 
  <p class="updated_time"> 09:36 AM CT, Nov. 03 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59150807?at_medium=RSS&at_campaign=KARANGA">COP26 climate change summit: So far, so good-ish</a> BBC: Three days into the COP26 global climate summit, and the mood is quietly optimistic. 
+ <p class="updated_time"> 09:35 AM CT, Nov. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-59151884?at_medium=RSS&at_campaign=KARANGA">Auschwitz tattoo stamp auction suspended by Israeli court</a> BBC: Holocaust survivors denounced the auction of tools used to brand inmates at the Nazi death camp. 
  <p class="updated_time"> 09:27 AM CT, Nov. 03 </p> 
  <a href="https://www.bbc.co.uk/news/business-59147390?at_medium=RSS&at_campaign=KARANGA">Mark Carney at COP26: Countries should have a carbon price</a> BBC: Carbon taxes will not happen overnight, the UK prime minister’s finance adviser for COP26 says. 
  <p class="updated_time"> 09:13 AM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/europe/cop26-glasgow-biden-climate.html">At COP26 Summit, Urgent Pleas to Combat Global Warning</a> NYT: The opening day of a climate summit was heavy on dire warnings and light on substantive proposals as leaders in Glasgow met to discuss a warming world. 
- <p class="updated_time"> 09:11 AM CT, Nov. 03 </p> 
- <a href="https://www.nytimes.com/2021/11/03/world/africa/ethiopia-war-un-report.html">Atrocities on All Sides in Ethiopia’s War, U.N. Says as Rebels Advance</a> NYT: The United Nations report, released during a state of emergency as rebel forces near the capital, was written under significant constraints imposed by the government. 
  <p class="updated_time"> 09:08 AM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/australia/australia-scott-morrison-cop26.html">What Did Scott Morrison, Australia's Leader, Accomplish at COP26?</a> NYT: Prime Minister Scott Morrison did not announce any firm plans to move away from the country’s deep investment in fossil fuel production. 
  <p class="updated_time"> 09:08 AM CT, Nov. 03 </p> 
@@ -88,7 +94,7 @@ permalink: /projects/news/
  <p class="updated_time"> 08:49 PM CT, Nov. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59144313?at_medium=RSS&at_campaign=KARANGA">Jacinda Ardern: 'We know we need to do more' to tackle climate change</a> BBC: Jacinda Ardern defends New Zealand's climate policies, and its role as a Pacific nation. 
  <p class="updated_time"> 07:49 PM CT, Nov. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59138848?at_medium=RSS&at_campaign=KARANGA">US mothers divided on vaccines for young children</a> BBC: Everyone in the Simon family contracted Covid-19, but their nine-year-old daughter McKenna went to hospital. 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59138848?at_medium=RSS&at_campaign=KARANGA">US mothers divided on vaccines for young children</a> BBC: Everyone in the Simon family contracted Covid-19, but nine-year-old daughter Makenna went to hospital. 
  <p class="updated_time"> 07:33 PM CT, Nov. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59044853?at_medium=RSS&at_campaign=KARANGA">Covid: US fully approves Pfizer vaccine for children over five</a> BBC: Children aged five to 11 can now receive the Pfizer jab, clearing the way for millions to get vaccinated. 
  <p class="updated_time"> 07:09 PM CT, Nov. 02 </p> 
@@ -97,8 +103,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/02/technology/facebook-facial-recognition.html">Facebook Plans to Shut Down Its Facial Recognition System</a> NYT: Saying it wants “to find the right balance” with the technology, the social network will delete the face scan data of more than one billion users. 
  <p class="updated_time"> 05:39 PM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/africa/nigeria-building-collapse-.html">Nigeria Building Collapse Kills at Least 5 With Many More Trapped</a> NYT: As many as 100 workers were feared trapped at a construction site in Lagos, where building collapses are common, with contractors using shoddy materials and regulations often not enforced. 
- <p class="updated_time"> 05:35 PM CT, Nov. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-59138578?at_medium=RSS&at_campaign=KARANGA">COP26: Biden attacks China and Russia leaders for missing summit</a> BBC: The US president calls the Chinese leader's absence from the Glasgow summit a "big mistake". 
  <p class="updated_time"> 05:33 PM CT, Nov. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59140788?at_medium=RSS&at_campaign=KARANGA">Two dead after seven-storey fall at Abba tribute concert</a> BBC: Around 1,000 people had gathered at the venue in Sweden before a person fell and hit two others. 
  <p class="updated_time"> 05:13 PM CT, Nov. 02 </p> 
@@ -107,8 +111,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/02/world/africa/nigeria-lagos-building-collapse.html">Building in Nigeria Had ‘Abnormalities’ Before Collapse</a> NYT: At least 20 people were killed when the high-rise in an upscale neighborhood in the commercial capital of Lagos crumbled on Monday afternoon. 
  <p class="updated_time"> 04:19 PM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/02/science/climate-change-archaeology.html">As Earth Warms, Old Mayhem and Secrets Emerge From the Ice</a> NYT: Climate change is revealing long-frozen artifacts and animals to archaeologists. But the window for study is slender and shrinking. 
- <p class="updated_time"> 03:51 PM CT, Nov. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59133026?at_medium=RSS&at_campaign=KARANGA">More than 20 killed in attack on Kabul military hospital</a> BBC: The Islamic State affiliate IS-K says it carried out the Sardar Daud Khan hospital attack. 
  <p class="updated_time"> 03:45 PM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/02/world/americas/brazil-climate.html">Once a Climate Leader, Brazil Falls Short in Glasgow</a> NYT: The country’s proposals show a desire to burnish its image, but President Jair Bolsonaro’s record and his absence from the summit cast doubt on its commitment to reversing course. 
  <p class="updated_time"> 03:06 PM CT, Nov. 02 </p> 
@@ -161,8 +163,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/science-environment-59114449?at_medium=RSS&at_campaign=KARANGA">COP26: What climate summit means for one woman in Bangladesh</a> BBC: What do decisions made at a summit in Glasgow mean for a woman in a village on the front line of climate change? 
  <p class="updated_time"> 07:05 PM CT, Nov. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-58961286?at_medium=RSS&at_campaign=KARANGA">Climate change: Should we save or exploit the vanishing Amazon?</a> BBC: The BBC's Orla Guerin meets four Amazon-dwellers with differing views on the rainforest's protection. 
- <p class="updated_time"> 01:59 PM CT, Nov. 01 </p> 
- <a href="https://www.nytimes.com/2021/11/01/world/europe/david-attenborough-cop26.html">David Attenborough Urges Leaders at COP26 Summit to ‘Rewrite Our Story’</a> NYT: “If working apart we are force powerful enough to destabilize our planet,” the naturalist said, “surely working together we are powerful enough to save it.” 
  <p class="updated_time"> 11:07 AM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/5-million-covid-deaths.html">Global Covid Death Toll Surpasses 5 Million, but Full Count Is Higher</a> NYT: Many countries do not accurately report their figures, and many Covid deaths are misattributed, experts say. 
  <p class="updated_time"> 10:15 AM CT, Nov. 01 </p> 
@@ -174,7 +174,7 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
- <p class="updated_time"> 10:15 AM CT, Nov. 03 </p> 
+ <p class="updated_time"> 10:44 AM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/us/politics/democrats-virginia-governor-race.html">What Youngkin's Win in the Virginia Governor Race Means for Democrats</a> NYT: Less than a year after taking power in Washington, the party faces a grim immediate future, struggling to energize voters without a presidential foil and losing messaging wars to Republicans. 
  <p class="updated_time"> 10:11 AM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/02/nyregion/eric-adams-mayor.html">Eric Adams Is Elected Mayor of New York City</a> NYT: Mr. Adams, a Democrat and former police captain, will be the second Black mayor in the city’s history. 
@@ -184,6 +184,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/03/style/eric-adams-style.html">Eric Adams's Style: ‘Everything About You Must Say Power’</a> NYT: New York City’s new mayor, Eric Adams, pays a lot of attention to what he wears. You should, too. 
  <p class="updated_time"> 07:46 AM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/02/us/politics/election-results-polls-closing.html">Races to Watch on Election Day</a> NYT: The Virginia governor’s race will be closely studied for clues about the midterms, and new mayors will be chosen in New York, Boston, Buffalo, Atlanta and more. 
+ <p class="updated_time"> 05:22 AM CT, Nov. 03 </p> 
+ <a href="https://www.politico.com/newsletters/playbook/2021/11/03/let-the-democratic-freakout-begin-494958">POLITICO Playbook: Let the Democratic freakout begin</a> Politico: And Democrats try to get the reconciliation bill over the finish line. 
  <p class="updated_time"> 05:17 AM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/02/us/politics/conservatives-new-york-gun-law.html">Prominent Conservatives Back Letting States Limit Guns in Public</a> NYT: A brief filed in a major gun control case to be heard on Wednesday by the Supreme Court argued that limits on the public carrying of weapons were consistent with the Second Amendment. 
  <p class="updated_time"> 05:10 AM CT, Nov. 03 </p> 
@@ -226,18 +228,26 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/02/us/politics/us-land-border-travel.html">Travelers by Land Should Ready Documents, U.S. Officials Say</a> NYT: The reopening comes just ahead of the holiday season, clearing the way for tourists and other nonessential travelers after about 19 months of border closures 
  <p class="updated_time"> 01:22 PM CT, Nov. 02 </p> 
  <a href="https://www.politico.com/news/2021/11/02/dems-drug-pricing-518554">‘A massive step forward’: Democrats clinch drug pricing deal</a> Politico: The new compromise deal, which is far weaker than the original House version, has the blessing of Sen. Kyrsten Sinema. 
+ <p class="updated_time"> 05:12 AM CT, Nov. 02 </p> 
+ <a href="https://www.politico.com/newsletters/playbook/2021/11/02/youngkins-crowds-dwarf-mcauliffes-on-election-eve-494939">POLITICO Playbook: Youngkin’s crowds dwarf McAuliffe’s on election eve</a> Politico: And progressives stay the course after Joe Manchin flips them the bird. 
  <p class="updated_time"> 10:57 PM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/us/linwood-holton-dead.html">Linwood Holton, 98,Virginia Governor Who Pushed for Racial Equality, Dies</a> NYT: The first Republican governor of the state in almost a century, he seemed to herald a new, post-racial South. He later became disillusioned with his own party. 
  <p class="updated_time"> 09:33 PM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/us/politics/medicaid-uninsured.html">Democrats’ Bill Would Cover Poor Uninsured Adults, Up to a Point</a> NYT: The $1.85 trillion social policy bill would provide free private health insurance for more than two million adults locked out of coverage, but only for four years. 
+ <p class="updated_time"> 05:09 AM CT, Nov. 01 </p> 
+ <a href="https://www.politico.com/newsletters/playbook/2021/11/01/its-zero-hour-for-virginia-and-build-back-better-494921">POLITICO Playbook: It’s zero hour for Virginia and Build Back Better</a> Politico: And the Supreme Court takes up the Texas abortion law. 
  <p class="updated_time"> 03:30 AM CT, Nov. 01 </p> 
  <a href="https://www.politico.com/news/2021/11/01/gop-relishes-political-upsides-517847">'They're probably going to put us back in power': GOP basks in Dem discord</a> Politico: The House Republican conference is mostly avoiding the spotlight these days, getting fewer tough questions as the opposing party struggles. It doesn't mind at all. 
  <p class="updated_time"> 12:46 PM CT, Oct. 31 </p> 
  <a href="https://www.politico.com/news/2021/10/31/john-curtis-climate-summit-glasgow-518013">What Utah Republican John Curtis is bringing to the U.N. climate summit</a> Politico: As a conservative House Republican focused on climate change, he’s charting his own course. 
  <p class="updated_time"> 10:45 AM CT, Oct. 31 </p> 
  <a href="https://www.politico.com/news/2021/10/31/democrats-race-prescription-drug-deal-517974">Dems close in on Medicare prescription drug negotiation compromise</a> Politico: The issue was left out of last week’s social spending framework, but it may yet show up in the final bill. 
+ <p class="updated_time"> 10:01 AM CT, Oct. 31 </p> 
+ <a href="https://www.politico.com/newsletters/playbook/2021/10/31/franken-rules-out-run-against-gillibrand-494915">POLITICO Playbook: Franken rules out run against Gillibrand</a> Politico: And Glenn Youngkin and Terry McAuliffe race to the finish line in Virginia. 
  <p class="updated_time"> 09:16 AM CT, Oct. 31 </p> 
  <a href="https://www.politico.com/news/2021/10/31/kinzinger-house-republicans-trump-517943">Kinzinger wants House Republicans to find some courage</a> Politico: The Illinois Republican, who announced he was not seeking reelection, hopes those who will remain in Congress will stand up to former President Donald Trump. 
+ <p class="updated_time"> 08:48 AM CT, Oct. 30 </p> 
+ <a href="https://www.politico.com/newsletters/playbook/2021/10/30/bidens-promise-to-progressives-494914">POLITICO Playbook: Biden’s promise to progressives</a> Politico: And the Supreme Court plans to hear two major cases. 
  <p class="updated_time"> 06:00 AM CT, Oct. 30 </p> 
  <a href="https://www.politico.com/news/2021/10/30/dems-race-to-renovate-bidens-domestic-policy-foundation-517782">Dems race to renovate Biden's domestic-policy foundation</a> Politico: “There are of course dozens of proposals that folks are going to make a last-ditch effort to add to it,” Sen. Chris Coons (D-Del.) said of the president’s social spending framework. 
  <p class="updated_time"> 05:01 AM CT, Oct. 30 </p> 
@@ -250,6 +260,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/10/29/jan-6-committee-capitol-rioter-517602">Jan. 6 committee set to interview rioter who breached the Capitol</a> Politico: Heather Shaner, an attorney who represents multiple defendants in Jan. 6 cases, confirmed that one of her clients will be remotely interviewed Friday afternoon. 
  <p class="updated_time"> 09:37 AM CT, Oct. 29 </p> 
  <a href="https://www.politico.com/news/2021/10/29/rep-adam-kinzinger-wont-seek-reelection-next-year-517599">Kinzinger retiring from Congress, vows 'broader fight nationwide' against Trumpism</a> Politico: The Illinois lawmaker is one of the most prominent Trump critics among House Republicans. 
+ <p class="updated_time"> 05:13 AM CT, Oct. 29 </p> 
+ <a href="https://www.politico.com/newsletters/playbook/2021/10/29/why-joe-biden-already-won-494900">POLITICO Playbook: Why Joe Biden already won</a> Politico: And Republicans find an enthusiasm edge in the Virginia governor race. 
  <p class="updated_time"> 04:00 AM CT, Oct. 29 </p> 
  <a href="https://www.politico.com/news/2021/10/29/joe-manchin-houseboat-activists-517482">The activists outside Joe Manchin’s houseboat</a> Politico: On this episode of Playbook Deep Dive, we take you alongside the activists rowing outside Sen. Joe Manchin’s houseboat — and inside the halls of the Capitol — to talk about whether the demonstrations are having any real impact on the Democrats’ reconciliation bill. 
  <p class="updated_time"> 03:31 AM CT, Oct. 29 </p> 
@@ -260,6 +272,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/10/28/budget-deal-democrats-biden-framework-517469">Your guide to the huge Dem deal: 14 new policies and what could stop them</a> Politico: Democrats revealed a framework for a $1.75 trillion spending deal, but areas such as health care, child care and climate change are missing major party priorities. 
  <p class="updated_time"> 02:41 PM CT, Oct. 28 </p> 
  <a href="https://www.politico.com/news/2021/10/28/liberals-weigh-settling-for-half-a-loaf-517456">Liberals weigh their options: Settle for half a loaf, or fight</a> Politico: President Joe Biden and Democratic leaders are asking for their votes on a $1.75 trillion social spending blueprint. They're not totally sold yet. 
+ <p class="updated_time"> 05:44 AM CT, Oct. 28 </p> 
+ <a href="https://www.politico.com/newsletters/playbook/2021/10/28/biden-launches-rescue-mission-before-rome-494881">POLITICO Playbook: Biden launches rescue mission before Rome</a> Politico: And Biden prepares for his overseas trip. 
 
 
 </details>
