@@ -7,8 +7,12 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:16 PM CT, Nov. 03 </p> 
+ <a href="https://www.nytimes.com/2021/11/03/us/politics/drone-strike-kabul-child.html">Video Showed Child in Area Minutes Before Kabul Drone Strike</a> NYT: An investigation of the airstrike, which mistakenly killed 10 civilians, including seven children, did not recommend any disciplinary action. 
  <p class="updated_time"> 03:09 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/climate/al-gore-cop26.html">At COP26, Gore Says Satellite Emissions Monitoring Helps Climate-Change Fight</a> NYT: Real-time checks on where greenhouse gases are being produced may prove a powerful weapon in the fight to cool the earth. 
+ <p class="updated_time"> 03:00 PM CT, Nov. 03 </p> 
+ <a href="https://www.nytimes.com/article/ethiopia-tigray-conflict-explained.html">Why Is Ethiopia at War in the Tigray Region? </a> NYT: The civil war has shifted dramatically since Prime Minister Abiy Ahmed began a military campaign in the Tigray region a year ago. With Tigrayan fighters advancing toward the capital, Ethiopia is at risk of collapse. 
  <p class="updated_time"> 02:53 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/books/booker-prize-winner-damon-galgut-the-promise.html">Damon Galgut Wins Booker Prize for ‘The Promise’</a> NYT: The novelist, shortlisted for two of his previous books, received one of the world’s most prestigious literary awards for his cutting depiction of a white family in post-apartheid South Africa. 
  <p class="updated_time"> 02:53 PM CT, Nov. 03 </p> 
@@ -95,8 +99,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/science-environment-58925049?at_medium=RSS&at_campaign=KARANGA">COP26: Can countries be forced to meet net zero targets? And more questions</a> BBC: BBC correspondents answer your questions about Glasgow's COP26 climate summit. 
  <p class="updated_time"> 06:16 AM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/africa/south-africa-coal-renewables.html">South Africa to Get $8.5 billion to Shift From Coal to Renewables</a> NYT: Developing nations have long said they need aid from wealthy countries to shift to renewable energy. South Africa may show how that would work in practice. 
- <p class="updated_time"> 06:06 AM CT, Nov. 03 </p> 
- <a href="https://www.nytimes.com/2021/11/01/world/asia/modi-india-cop26-renewable-energy.html">India Will Sharply Increase Renewable Energy, Modi Says</a> NYT: Wealthy nations need to spend $1 trillion to help developing nations like India make the transition to renewables, Prime Minister Modi said. 
  <p class="updated_time"> 06:03 AM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/02/world/europe/climate-summit-methane-forests.html">With Methane and Forest Deals, Climate Summit Offers Hope After Gloomy Start</a> NYT: Agreements to reduce methane gas emissions and protect the world’s forests were reached Tuesday at the U.N.-sponsored meeting, as President Biden chided the leaders of Russia and China for not showing up. 
  <p class="updated_time"> 04:58 AM CT, Nov. 03 </p> 
@@ -175,6 +177,8 @@ permalink: /projects/news/
 <summary>Politics</summary>
 
  <p class="updated_time"> 03:16 PM CT, Nov. 03 </p> 
+ <a href="https://www.nytimes.com/2021/11/03/us/politics/drone-strike-kabul-child.html">Video Footage Showed at Least 1 Child Near Site Minutes Before Drone Strike in Kabul</a> NYT: An investigation of the airstrike, which mistakenly killed 10 civilians, including seven children, did not recommend any disciplinary action. 
+ <p class="updated_time"> 03:16 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/business/media/smartmatic-newsmax-oan.html">Smartmatic Sues Newsmax and One America News Network, Claiming Defamation</a> NYT: Smartmatic, an election technology company that faced baseless accusations of rigging the 2020 election, has filed a similar lawsuit against Fox News. 
  <p class="updated_time"> 02:54 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/us/politics/rescind-medals-wounded-knee-massacre.html">Lawmakers Ask Biden to Rescind Medals for Wounded Knee Massacre</a> NYT: Seventeen members of Congress said they believed it was within President Biden’s authority to revoke Medals of Honor “when appropriate.” 
@@ -230,8 +234,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/02/end-of-sinema-manchin-manchema-518569">The end of Manchema</a> Politico: Once united on cutting the cost of their party's social spending bill, the centrists from West Virginia and Arizona are now going their own way. 
  <p class="updated_time"> 02:40 PM CT, Nov. 02 </p> 
  <a href="https://www.politico.com/news/2021/11/02/congress-standstill-shutdown-debt-518567">Congress hits ‘standstill’ as December shutdown, debt cliff near</a> Politico: "There should be a motto around here: ‘Why do today what we can do tomorrow?’ It's ridiculous," said Sen. Jon Tester. 
- <p class="updated_time"> 02:11 PM CT, Nov. 02 </p> 
- <a href="https://www.nytimes.com/2021/11/02/us/politics/methane-emissions-fee.html">Democrats Work to Salvage Methane Fee Amid Opposition From Manchin</a> NYT: Senator Joe Manchin III of West Virginia, a Democratic holdout, is still working to weaken or jettison a proposed fee on emissions of methane, a powerful pollutant. 
  <p class="updated_time"> 02:02 PM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/02/us/politics/us-land-border-travel.html">Travelers by Land Should Ready Documents, U.S. Officials Say</a> NYT: The reopening comes just ahead of the holiday season, clearing the way for tourists and other nonessential travelers after about 19 months of border closures 
  <p class="updated_time"> 01:22 PM CT, Nov. 02 </p> 
