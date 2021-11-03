@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:45 PM CT, Nov. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59144293?at_medium=RSS&at_campaign=KARANGA">Glenn Youngkin: Republican seizes lead in Virginia governor race</a> BBC: A Republican gain in a state won comfortably by Mr Biden a year ago would unnerve his Democrats. 
  <p class="updated_time"> 09:31 PM CT, Nov. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59143893?at_medium=RSS&at_campaign=KARANGA">Minneapolis rejects move to replace police department</a> BBC: The vote comes six months after a white police officer was convicted of the murder of George Floyd. 
  <p class="updated_time"> 09:27 PM CT, Nov. 02 </p> 
@@ -15,8 +17,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/01/world/biden-emissions-cop26-glasgow.html">Biden Calls for Tougher Actions on Emissions at COP26</a> NYT: “We have only a brief window” to avoid the most disastrous effects of global warming, President Biden warned at the United Nations climate summit. 
  <p class="updated_time"> 09:27 PM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/10/31/climate/climate-change-biden-cop26.html">At Climate Talks, Biden Will Try to Sell American Leadership to Skeptics</a> NYT: The president wants to assure Glasgow’s climate summit that the U.S. is serious about climate change. But he lacks a legislative win at home. 
- <p class="updated_time"> 09:21 PM CT, Nov. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59144293?at_medium=RSS&at_campaign=KARANGA">Glenn Youngkin: Republican seizes lead in Virginia governor race</a> BBC: A Republican gain in a state won comfortably by Mr Biden a year ago would unnerve his Democrats. 
  <p class="updated_time"> 08:30 PM CT, Nov. 02 </p> 
  <a href="https://www.bbc.co.uk/news/business-59093560?at_medium=RSS&at_campaign=KARANGA">Australia jobs: 'The staffing issue is impossible'</a> BBC: Can free flights and rent lure the foreign workers back to Australia who quit when Covid arrived? 
  <p class="updated_time"> 07:43 PM CT, Nov. 02 </p> 
