@@ -7,6 +7,7 @@ library(ggforce)
 library(gt)
 library(gtExtras)
 library(zoo)
+library(rvest)
 
 fredr_set_key(Sys.getenv("FRED_API_KEY"))
 
@@ -702,6 +703,64 @@ ggplot(data, aes(x = date,
 ggsave("plots/champaign_housing.png",
        width = 8, height = 8*(628/1200), dpi = 320)
 
+# Illinois ----
+## flash index ----
+flash_index_archive <- read_html("https://igpa.uillinois.edu/page/flash-index-archive")
+flash_index <- flash_index_archive %>% html_node("table") %>% 
+  html_table(header = TRUE) %>%
+  rename(Year = 1) %>%
+  na_if("-") %>%
+  mutate(across(where(is.character),as.double)) %>%
+  pivot_longer(!Year) %>%
+  mutate(date = ym(paste(Year,name))) %>%
+  select(date,value) %>%
+  arrange(date)
+
+
+data <- flash_index %>%
+  drop_na()
+recent_data <- data %>%
+  filter(date > recent_years) %>%
+  mutate(short_date = paste(month(date, label = TRUE, abbr = FALSE)))
+
+ggplot(data = data,
+       aes(x = date,
+           y = value)) +
+  geom_point(size = .4,
+             aes(color = value > 100)) +
+  geom_line(color = "grey60",
+            size = .4) +
+  labs(title = "Flash Index",
+       caption = paste("Source: Institute of Government and Public Affairs at the University of Illinois. Latest data:",
+                       tail(recent_data$short_date,1))) +
+  geom_hline(yintercept = 100,
+             color = "grey10",
+             size = .2) +
+  xlab(NULL) +
+  ylab(NULL) +
+  scale_y_continuous(position = "right") +
+  scale_x_date(expand = expansion(mult = c(0, 0))) +
+  scale_color_manual(guide = "none",
+                    values = c("#b32704","#199fa8")) +
+  facet_zoom(x = date > recent_years,
+             zoom.size = 4,
+             ylim = c(min(recent_data$value),
+                      max(recent_data$value)),
+             #show.area = FALSE,
+             horizontal = FALSE) +
+  theme_bw() +
+  theme(axis.text.y = element_text(size = 10),
+        axis.text.x = element_text(size = 8),
+        # panel.grid.minor = element_blank(),
+        # panel.background = element_blank(),
+        # panel.grid.major.x = element_line(colour = "grey93"),
+        panel.grid.major.y = element_line(colour = "grey93"),
+        # #strip.text = element_text(size = 11),
+        #strip.background = element_blank(),
+        plot.caption = element_text(colour = "grey40"))
+
+ggsave("plots/il_flash_index.png", width = 8, height = 8*(628/1200), dpi = 320)
+
 # make web page ----
 web_text <- paste(
   "---
@@ -721,6 +780,12 @@ permalink: /projects/economy/
 ![Housing]({{ site.baseurl }}/plots/champaign_housing.png)
 
 ",better_cu_housing_table_html,"
+
+## Illinois
+
+![Flash Index]({{ site.baseurl }}/plots/plots/il_flash_index.png)
+
+Source: [Institute of Government and Public Affairs at the University of Illinois](https://igpa.uillinois.edu/page/flash-index-archive).
 
 ## United States
 
