@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:49 AM CT, Nov. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59144293?at_medium=RSS&at_campaign=KARANGA">Glenn Youngkin: Win for Republican in Virginia governor vote</a> BBC: Glenn Youngkin's victory is a blow for Joe Biden, who won the state in the presidential election. 
  <p class="updated_time"> 04:39 AM CT, Nov. 03 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-58874518?at_medium=RSS&at_campaign=KARANGA">What is net zero and how are the UK and other countries doing?</a> BBC: Experts have recommended developed countries adopt targets to reduce emissions to net zero by 2050. 
  <p class="updated_time"> 04:19 AM CT, Nov. 03 </p> 
@@ -23,8 +25,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-59143627?at_medium=RSS&at_campaign=KARANGA">Ethiopia's Tigray crisis: Report says war crimes may have been committed</a> BBC: Extra-judicial executions, torture and rape were documented in the Tigray conflict, a new report says. 
  <p class="updated_time"> 03:32 AM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/africa/south-africa-coal-renewables.html">South Africa to Get $8.5 billion to Shift From Coal to Renewables</a> NYT: Developing nations have long said they need aid from wealthy countries to shift to renewable energy. South Africa may show how that would work in practice. 
- <p class="updated_time"> 02:46 AM CT, Nov. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59144293?at_medium=RSS&at_campaign=KARANGA">Glenn Youngkin: Win for Republican in Virginia governor vote</a> BBC: Glenn Youngkin's victory is a blow for Joe Biden, who won the state in the presidential election. 
  <p class="updated_time"> 02:35 AM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/asia/china-metoo-peng-shuai-zhang-gaoli.html">China's Peng Shuai Makes #MeToo Claim Against Zhang Gaoli</a> NYT: Peng Shuai’s accusation against Zhang Gaoli takes the country’s budding #MeToo movement to the top echelons of the Communist Party for the first time. 
  <p class="updated_time"> 02:13 AM CT, Nov. 03 </p> 
