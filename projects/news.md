@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:00 PM CT, Nov. 03 </p> 
+ <a href="https://www.nytimes.com/2021/11/03/world/weapons-ukraine-russia.html">Weapons Tracing Study Implicates Russia in Ukraine Conflict</a> NYT: One of the most comprehensive studies to date of weaponry in the war in Ukraine shows a panoply of Russian-supplied arms that has helped fuel the war. 
  <p class="updated_time"> 05:29 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/uk-fossil-fuel-coal-cop26.html">18 Countries to Phase Out Coal, According to Leaked Document</a> NYT: The countries, banks and other organizations that make up a new coalition will commit to ending all investment in new coal power generation domestically and internationally. 
  <p class="updated_time"> 05:28 PM CT, Nov. 03 </p> 
@@ -86,7 +88,7 @@ permalink: /projects/news/
  <p class="updated_time"> 10:06 AM CT, Nov. 03 </p> 
  <a href="https://www.bbc.co.uk/news/59135899?at_medium=RSS&at_campaign=KARANGA">COP26: What's the climate impact of private jets?</a> BBC: World leaders' use of private jets to attend the climate summit has been called into question. 
  <p class="updated_time"> 10:04 AM CT, Nov. 03 </p> 
- <a href="https://www.wsj.com/articles/chinese-tennis-stars-accusation-against-retired-top-leader-causes-a-stir-online-11635966240">Chinese Tennis Star Peng Shuai's Accusation Against Retired Top Leader Causes Online Stir</a> WSJ: Professional athlete Peng Shuai’s post alleging sexual assault by former Vice Premier Zhang Gaoli disappeared after about 20 minutes, but the claim has turned a spotlight on perceived abuses by powerful political figures. 
+ <a href="https://www.wsj.com/articles/chinese-tennis-stars-accusation-against-retired-top-leader-causes-a-stir-online-11635966240">Chinese Tennis Star Peng Shuai's Accusation Against a Retired Top Leader Causes Online Stir</a> WSJ: Professional athlete Peng Shuai’s post alleging sexual assault by former Vice Premier Zhang Gaoli disappeared after about 20 minutes, but the claim has turned a spotlight on perceived abuses by powerful political figures. 
  <p class="updated_time"> 09:56 AM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/02/world/asia/afghanistan-kabul-hospital-attack.html">Dozens Killed in ISIS Attack on Military Hospital in Afghanistan’s Capital</a> NYT: The fall of the Western-backed government in August and the Taliban takeover of the country have been followed by an increase in Islamic State attacks across Afghanistan. 
  <p class="updated_time"> 09:36 AM CT, Nov. 03 </p> 
@@ -184,12 +186,14 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:52 PM CT, Nov. 03 </p> 
+ <a href="https://www.nytimes.com/2021/11/03/us/politics/supreme-court-guns-second-amendment.html">Justices’ Questions Suggest New York Gun Control Law Is Unlikely to Survive</a> NYT: The law, which imposes strict limits on carrying guns in public, faced a skeptical reception from the Supreme Court on Wednesday. 
+ <p class="updated_time"> 05:51 PM CT, Nov. 03 </p> 
+ <a href="https://www.nytimes.com/2021/11/03/business/economy/fed-taper-bond-buying.html">Federal Reserve Announces Plan to Slow Bond Buying Program</a> NYT: The Federal Reserve is dealing with high inflation at a time when millions of workers remain on the job market’s sidelines. Wednesday’s announcement that it will slow bond purchases is a step toward more normal monetary policy. 
  <p class="updated_time"> 05:35 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/us/politics/democrats-virginia-governor-race.html">What Youngkin's Win in the Virginia Governor Race Means for Democrats</a> NYT: Less than a year after taking power in Washington, the party faces a grim immediate future, struggling to energize voters without a presidential foil and losing messaging wars to Republicans. 
  <p class="updated_time"> 05:35 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/us/politics/senate-republicans-voting-rights-act.html">Republicans Block a Second Voting Rights Bill in the Senate</a> NYT: Democrats hope that a filibuster of a measure named for former Representative John Lewis of Georgia, the civil rights icon, will help build momentum for a change in Senate rules. 
- <p class="updated_time"> 05:30 PM CT, Nov. 03 </p> 
- <a href="https://www.nytimes.com/2021/11/03/business/economy/fed-taper-bond-buying.html">Federal Reserve Announces Plan to Slow Bond Buying Program</a> NYT: The Federal Reserve is dealing with high inflation at a time when millions of workers remain on the job market’s sidelines. Wednesday’s announcement that it will slow bond purchases is a step toward more normal monetary policy. 
  <p class="updated_time"> 05:20 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/us/politics/drone-strike-kabul-child.html">Video Showed Child in Area Minutes Before Kabul Drone Strike</a> NYT: An investigation of the Aug. 29 airstrike, which mistakenly killed 10 civilians, including seven children, did not recommend any disciplinary action. 
  <p class="updated_time"> 05:01 PM CT, Nov. 03 </p> 
