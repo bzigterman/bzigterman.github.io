@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:25 AM CT, Nov. 03 </p> 
+ <a href="https://www.nytimes.com/2021/11/03/world/europe/global-energy-alliance-fund-cop26.html">New $10.5 Billion Fund Aims to Spur Green Energy in Poor Countries</a> NYT: Its backers say it will jump-start investments in clean energy that would not otherwise draw private investors. 
+ <p class="updated_time"> 06:25 AM CT, Nov. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-59147507?at_medium=RSS&at_campaign=KARANGA">Britney Spears blames mum for 'ruining my life' with conservatorship</a> BBC: As her father requests an end to Spears' conservatorship, the star claims it was her mother's idea. 
  <p class="updated_time"> 06:16 AM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/africa/south-africa-coal-renewables.html">South Africa to Get $8.5 billion to Shift From Coal to Renewables</a> NYT: Developing nations have long said they need aid from wealthy countries to shift to renewable energy. South Africa may show how that would work in practice. 
  <p class="updated_time"> 06:10 AM CT, Nov. 03 </p> 
@@ -17,8 +21,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-59143627?at_medium=RSS&at_campaign=KARANGA">Ethiopia's Tigray crisis: Report says war crimes may have been committed</a> BBC: Extra-judicial executions, torture and rape were documented in the Tigray conflict, a new report says. 
  <p class="updated_time"> 06:03 AM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/02/world/europe/climate-summit-methane-forests.html">With Methane and Forest Deals, Climate Summit Offers Hope After Gloomy Start</a> NYT: Agreements to reduce methane gas emissions and protect the world’s forests were reached Tuesday at the U.N.-sponsored meeting, as President Biden chided the leaders of Russia and China for not showing up. 
- <p class="updated_time"> 05:17 AM CT, Nov. 03 </p> 
- <a href="https://www.nytimes.com/2021/11/03/world/europe/cop26-green-energy-fund.html">New $10.5 Billion Fund Aims to Spur Green Energy in Poor Countries</a> NYT: Its backers say it will jump-start investments in clean energy that would not otherwise draw private investors. 
  <p class="updated_time"> 05:14 AM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/europe/cop26-climate-change-finance-industry.html"> Financial Industry, With $130 Trillion, to Pursue Climate Goals </a> NYT: The pledge would transform the international financial system, but critics say it falls short on fossil fuels. 
  <p class="updated_time"> 04:49 AM CT, Nov. 03 </p> 
@@ -119,8 +121,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/02/world/israel-energy-minister-cop26-wheelchair-access.html">Karine Elharrar, Israel's Energy Minister, Couldn't Attend COP26 Events in Her Wheelchair</a> NYT: NA 
  <p class="updated_time"> 11:35 AM CT, Nov. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59134431?at_medium=RSS&at_campaign=KARANGA">Ethiopia's Tigray crisis: Citizens urged to defend Addis Ababa against rebels</a> BBC: Addis Ababa residents are told to register weapons and protect areas as rebels advance. 
- <p class="updated_time"> 11:19 AM CT, Nov. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59125228?at_medium=RSS&at_campaign=KARANGA">Nigeria Ikoyi building collapse: Race to find survivors</a> BBC: At least 15 people have died and many are feared trapped under rubble at the site in Lagos. 
  <p class="updated_time"> 10:20 AM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/02/world/europe/deforestation-climate-change.html">How the COP26 Deforestation Pledge Measures Up</a> NYT: As the world stares down the barrel of climate catastrophe and a worsening biodiversity crisis, the forests that are remain are crucial. 
  <p class="updated_time"> 09:44 AM CT, Nov. 02 </p> 
