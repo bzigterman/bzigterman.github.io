@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:16 AM CT, Nov. 03 </p> 
+ <a href="https://www.nytimes.com/2021/11/03/world/africa/south-africa-coal-renewables.html">South Africa to Get $8.5 billion to Shift From Coal to Renewables</a> NYT: Developing nations have long said they need aid from wealthy countries to shift to renewable energy. South Africa may show how that would work in practice. 
+ <p class="updated_time"> 06:10 AM CT, Nov. 03 </p> 
+ <a href="https://www.nytimes.com/2021/11/03/world/yellen-green-bonds-climate-change.html">U.S. to Provide $500 Million for Green Bonds, Yellen Says</a> NYT: The Treasury secretary said wealthy countries had pledged billions of dollars to tackle climate change, but the real cost is in the trillions. 
  <p class="updated_time"> 06:06 AM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/asia/modi-india-cop26-renewable-energy.html">India Will Sharply Increase Renewable Energy, Modi Says</a> NYT: Wealthy nations need to spend $1 trillion to help developing nations like India make the transition to renewables, Prime Minister Modi said. 
  <p class="updated_time"> 06:03 AM CT, Nov. 03 </p> 
@@ -31,8 +35,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/03/world/asia/squid-game-korea-bts.html">From BTS to ‘Squid Game’: How South Korea Became a Cultural Juggernaut</a> NYT: The country was once largely known for cars and smartphones, but a global audience has become mesmerized by its entertainment, and creators say success didn’t happen overnight. 
  <p class="updated_time"> 03:58 AM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/europe/belgium-congo-kidnapping.html">Torn From Parents in the Belgian Congo, Women Seek Reparations</a> NYT: Belgium has apologized for the kidnapping and deportation of thousands of mixed-race children under its colonial rule. Survivors say that reparations should be the next step. 
- <p class="updated_time"> 03:32 AM CT, Nov. 03 </p> 
- <a href="https://www.nytimes.com/2021/11/03/world/africa/south-africa-coal-renewables.html">South Africa to Get $8.5 billion to Shift From Coal to Renewables</a> NYT: Developing nations have long said they need aid from wealthy countries to shift to renewable energy. South Africa may show how that would work in practice. 
  <p class="updated_time"> 02:35 AM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/asia/china-metoo-peng-shuai-zhang-gaoli.html">China's Peng Shuai Makes #MeToo Claim Against Zhang Gaoli</a> NYT: Peng Shuai’s accusation against Zhang Gaoli takes the country’s budding #MeToo movement to the top echelons of the Communist Party for the first time. 
  <p class="updated_time"> 02:13 AM CT, Nov. 03 </p> 
@@ -157,8 +159,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/science-environment-59114449?at_medium=RSS&at_campaign=KARANGA">COP26: What climate summit means for one woman in Bangladesh</a> BBC: What do decisions made at a summit in Glasgow mean for a woman in a village on the front line of climate change? 
  <p class="updated_time"> 07:05 PM CT, Nov. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-58961286?at_medium=RSS&at_campaign=KARANGA">Climate change: Should we save or exploit the vanishing Amazon?</a> BBC: The BBC's Orla Guerin meets four Amazon-dwellers with differing views on the rainforest's protection. 
- <p class="updated_time"> 03:39 PM CT, Nov. 01 </p> 
- <a href="https://www.nytimes.com/2021/11/01/world/europe/greta-thunberg-cop26-glasgow.html">Greta Thunberg Arrives in Glasgow for COP26 and Joins a Protest</a> NYT: The activist, whose solo climate strikes in 2018 helped fuel a youth climate movement, was greeted like a rock star upon arriving in the city, according to videos. 
  <p class="updated_time"> 01:59 PM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/europe/david-attenborough-cop26.html">David Attenborough Urges Leaders at COP26 Summit to ‘Rewrite Our Story’</a> NYT: “If working apart we are force powerful enough to destabilize our planet,” the naturalist said, “surely working together we are powerful enough to save it.” 
  <p class="updated_time"> 12:13 PM CT, Nov. 01 </p> 
