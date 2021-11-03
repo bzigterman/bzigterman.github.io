@@ -783,7 +783,7 @@ permalink: /projects/economy/
 
 ## Illinois
 
-![Flash Index]({{ site.baseurl }}/plots/plots/il_flash_index.png)
+![Flash Index]({{ site.baseurl }}/plots/il_flash_index.png)
 
 Source: [Institute of Government and Public Affairs at the University of Illinois](https://igpa.uillinois.edu/page/flash-index-archive).
 
