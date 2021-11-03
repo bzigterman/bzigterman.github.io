@@ -188,20 +188,20 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:40 PM CT, Nov. 03 </p> 
+ <a href="https://www.nytimes.com/2021/11/03/business/economy/fed-taper-bond-buying.html">Federal Reserve Announces Plan to Slow Bond Buying Program</a> NYT: The Federal Reserve is dealing with high inflation at a time when millions of workers remain on the job market’s sidelines. Wednesday’s announcement that it will slow bond purchases is a step toward more normal monetary policy. 
+ <p class="updated_time"> 06:37 PM CT, Nov. 03 </p> 
+ <a href="https://www.nytimes.com/2021/11/03/us/politics/schools-republican-campaign-issues.html">Republicans Pounce on Schools as a Wedge Issue to Unite the Party</a> NYT: Rallying around what it calls “parental rights,” the party is pushing to build on its victories this week by stoking white resentment and tapping into broader anger at the education system. 
  <p class="updated_time"> 06:30 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/us/politics/democrats-virginia-biden-congress.html">Democrats, Stung by Losses, Press Forward on Biden Agenda</a> NYT: Disappointed by a defeat in Virginia and a closer-than-expected race in New Jersey, Democrats were working toward quick action on key bills to show they could govern. 
  <p class="updated_time"> 06:17 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/us/politics/virginia-governor-youngkin-trump.html">Youngkin’s Dance With Trump Was Pivotal. But Is It Repeatable?</a> NYT: Glenn Youngkin’s victory in Virginia may inspire Republican imitators vying to win over Trump supporters without embracing the former president outright. 
- <p class="updated_time"> 06:16 PM CT, Nov. 03 </p> 
- <a href="https://www.nytimes.com/2021/11/03/us/politics/schools-republican-campaign-issues.html">Republicans Pounce on Schools as a Wedge Issue to Unite the Party</a> NYT: Rallying around what it calls “parental rights,” the party is pushing to build on its victories this week by stoking white resentment and tapping into broader anger at the education system. 
  <p class="updated_time"> 06:15 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/us/politics/senate-republicans-voting-rights-act.html">Republicans Block a Second Voting Rights Bill in the Senate</a> NYT: Democrats hope that a filibuster of a measure named for former Representative John Lewis of Georgia, the civil rights icon, will help build momentum for a change in Senate rules. 
  <p class="updated_time"> 06:13 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/us/politics/supreme-court-guns-second-amendment.html">Justices’ Questions Suggest New York Gun Control Law Is Unlikely to Survive</a> NYT: The law, which imposes strict limits on carrying guns in public, faced a skeptical reception from the Supreme Court on Wednesday. 
  <p class="updated_time"> 06:00 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/us/politics/biden-covid-vaccine-kids.html">Biden Urges Parents to Get Their Younger Children Vaccinated</a> NYT: A vaccination program for children will roll out next week with more doses shipping each day, he said, calling it “a day of relief and celebration.” 
- <p class="updated_time"> 05:51 PM CT, Nov. 03 </p> 
- <a href="https://www.nytimes.com/2021/11/03/business/economy/fed-taper-bond-buying.html">Federal Reserve Announces Plan to Slow Bond Buying Program</a> NYT: The Federal Reserve is dealing with high inflation at a time when millions of workers remain on the job market’s sidelines. Wednesday’s announcement that it will slow bond purchases is a step toward more normal monetary policy. 
  <p class="updated_time"> 05:35 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/us/politics/democrats-virginia-governor-race.html">What Youngkin's Win in the Virginia Governor Race Means for Democrats</a> NYT: Less than a year after taking power in Washington, the party faces a grim immediate future, struggling to energize voters without a presidential foil and losing messaging wars to Republicans. 
  <p class="updated_time"> 05:20 PM CT, Nov. 03 </p> 
