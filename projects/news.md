@@ -11,6 +11,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/03/world/europe/cop26-greenwashing-protest.html">Protesters March Against ‘Greenwashing' at COP26</a> NYT: As the focus of the Glasgow summit turns to funding, protesters call for greater accountability for companies’ climate promises. 
  <p class="updated_time"> 12:27 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/europe/cop26-glasgow-biden-climate.html">At COP26 Summit, Urgent Pleas to Combat Global Warning</a> NYT: The opening day of a climate summit was heavy on dire warnings and light on substantive proposals as leaders in Glasgow met to discuss a warming world. 
+ <p class="updated_time"> 12:27 PM CT, Nov. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/technology-59149651?at_medium=RSS&at_campaign=KARANGA">NSO Group: Israeli spyware company added to US trade blacklist</a> BBC: NSO Group, which makes the Pegasus spyware, acted against US interests, officials say. 
  <p class="updated_time"> 12:19 PM CT, Nov. 03 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59135039?at_medium=RSS&at_campaign=KARANGA">2021: A year of wild weather</a> BBC: If emissions continue rising, Europe can expect 50C heatwaves every three years, the Met Office says. 
  <p class="updated_time"> 12:18 PM CT, Nov. 03 </p> 
@@ -71,8 +73,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/03/world/europe/belgium-congo-kidnapping.html">Torn From Parents in the Belgian Congo, Women Seek Reparations</a> NYT: Belgium has apologized for the kidnapping and deportation of thousands of mixed-race children under its colonial rule. Survivors say that reparations should be the next step. 
  <p class="updated_time"> 06:49 AM CT, Nov. 03 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59146864?at_medium=RSS&at_campaign=KARANGA">Alec Baldwin shares post defending Rust film set safety</a> BBC: The actor shares a post from Rust's costume designer following the death of Halyna Hutchins. 
- <p class="updated_time"> 06:47 AM CT, Nov. 03 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-59147507?at_medium=RSS&at_campaign=KARANGA">Britney Spears blames mum for 'ruining my life' with conservatorship</a> BBC: The star claims the legal arrangement was her mother's idea, and "she secretly ruined my life". 
  <p class="updated_time"> 06:43 AM CT, Nov. 03 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-58925049?at_medium=RSS&at_campaign=KARANGA">COP26: Can countries be forced to meet net zero targets? And more questions</a> BBC: BBC correspondents answer your questions about Glasgow's COP26 climate summit. 
  <p class="updated_time"> 06:16 AM CT, Nov. 03 </p> 
@@ -172,12 +172,16 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:40 PM CT, Nov. 03 </p> 
+ <a href="https://www.nytimes.com/2021/11/03/us/politics/democrats-virginia-biden-congress.html">Democrats, Stung by Electoral Losses, Press Forward on Biden Agenda</a> NYT: Disappointed by a loss in Virginia and a closer-than-expected race in New Jersey, Democrats were working toward quick action on key bills to show they could govern. 
+ <p class="updated_time"> 12:38 PM CT, Nov. 03 </p> 
+ <a href="https://www.nytimes.com/2021/11/03/us/politics/china-military-nuclear.html">China Could Have 1,000 Nuclear Warheads by 2030, Pentagon Says</a> NYT: Gen. Mark A. Milley, chairman of the Joint Chiefs of Staff, called Beijing the “No. 1” nation-state military challenger to the United States. 
+ <p class="updated_time"> 12:36 PM CT, Nov. 03 </p> 
+ <a href="https://www.politico.com/news/2021/11/03/democrats-virginia-congress-519051">Dems keep butting heads after Virginia shellacking</a> Politico: Most agreed that the dismal election results underscored the need to move past the infighting that’s defined their majorities for months. There’s hardly any agreement on much else. 
  <p class="updated_time"> 11:46 AM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/business/economy/biden-trade-policy-steel.html">European Steel Plan Shows Biden’s Bid to Merge Climate and Trade Policy</a> NYT: A potential agreement on steel trade provides the clearest look yet at how the Biden administration plans to implement a trade policy that is both protectionist and progressive 
  <p class="updated_time"> 11:38 AM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/business/nso-group-spyware-blacklist.html">The U.S. blacklists the NSO Group, an Israeli spyware firm.</a> NYT: NSO and three other companies were added to a list that blocks foreign companies from buying certain types of sensitive American technology without a license. 
- <p class="updated_time"> 11:30 AM CT, Nov. 03 </p> 
- <a href="https://www.nytimes.com/2021/11/03/us/politics/china-military-nuclear.html">China Could Have 1,000 Nuclear Warheads by 2030, Pentagon Says</a> NYT: Gen. Mark A. Milley, chairman of the Joint Chiefs of Staff, called Beijing the “No. 1” nation-state military challenger to the United States. 
  <p class="updated_time"> 11:03 AM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/us/politics/black-voters-virginia.html">Black voters in Virginia refuse to be blamed for a major Democratic defeat.</a> NYT: Black state leaders and voters said the results were a sign that the party could not rely on minority voters to cover its cratering totals in white areas of the state. 
  <p class="updated_time"> 10:44 AM CT, Nov. 03 </p> 
@@ -210,8 +214,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/02/us/politics/prescription-drug-prices-medicare.html">Democrats Reach Deal to Control Drug Prices in Bill</a> NYT: The provision would, for the first time, allow the government to negotiate prices for some medicines covered by Medicare. 
  <p class="updated_time"> 06:10 PM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/02/us/politics/supreme-court-free-speech-censure.html">Supreme Court Hears Free Speech Case on Politician’s Censure</a> NYT: The justices seemed inclined to find a narrow way to reject the argument that the censure of an elected official in Houston ran afoul of the First Amendment. 
- <p class="updated_time"> 05:44 PM CT, Nov. 02 </p> 
- <a href="https://www.nytimes.com/2021/11/02/climate/biden-methane-climate.html">Biden Administration Moves to Limit Methane, a Potent Greenhouse Gas</a> NYT: The new rule was announced at a U.N. summit where the United States is facing skepticism about its commitment to climate change. 
  <p class="updated_time"> 05:43 PM CT, Nov. 02 </p> 
  <a href="https://www.politico.com/news/2021/11/02/social-spending-bill-immigration-citizenship-518606">Dems aim to squeeze immigration into social spending bill — without path to citizenship</a> Politico: There's still a distinct possibility the Senate rules referee will strike down the reform attempt Democrats are pushing into their $1.75 trillion bill. 
  <p class="updated_time"> 05:38 PM CT, Nov. 02 </p> 
