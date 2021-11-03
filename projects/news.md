@@ -7,10 +7,12 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:18 PM CT, Nov. 03 </p> 
+ <a href="https://www.nytimes.com/2021/11/03/world/australia/missing-cleo-smith.html">Cleo Smith, 4, Is Found 18 Days After She Vanishes in Australia</a> NYT: Cleo Smith disappeared one night while camping with her family in a remote area of Australia. She was found “alive and well” in a locked house, and a man was detained. 
+ <p class="updated_time"> 04:07 PM CT, Nov. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-59154988?at_medium=RSS&at_campaign=KARANGA">Iran nuclear deal: Talks to resume within weeks</a> BBC: Vienna will play host, more than three years after the US abandoned a landmark agreement. 
  <p class="updated_time"> 03:58 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/02/world/europe/climate-summit-methane-forests.html">With Methane and Forest Deals, Climate Summit Offers Hope After Gloomy Start</a> NYT: Agreements to reduce methane gas emissions and protect the world’s forests were reached Tuesday at the U.N.-sponsored meeting, as President Biden chided the leaders of Russia and China for not showing up. 
- <p class="updated_time"> 03:27 PM CT, Nov. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-59154988?at_medium=RSS&at_campaign=KARANGA">Iran nuclear deal: Talks to resume within weeks</a> BBC: Vienna will play host, more than three years after the US abandoned a landmark agreement. 
  <p class="updated_time"> 03:16 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/us/politics/drone-strike-kabul-child.html">Video Showed Child in Area Minutes Before Kabul Drone Strike</a> NYT: An investigation of the airstrike, which mistakenly killed 10 civilians, including seven children, did not recommend any disciplinary action. 
  <p class="updated_time"> 03:09 PM CT, Nov. 03 </p> 
@@ -61,8 +63,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/03/world/yellen-green-bonds-climate-change.html">U.S. to Provide $500 Million for Green Bonds, Yellen Says</a> NYT: Ms. Yellen said wealthy countries had pledged billions of dollars to tackle climate change, but the real cost is in the trillions. 
  <p class="updated_time"> 11:25 AM CT, Nov. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59149698?at_medium=RSS&at_campaign=KARANGA">Peng Shuai: Chinese tennis star makes sexual assault claims</a> BBC: It is the first time sexual assault allegations have been made against a senior Chinese leader. 
- <p class="updated_time"> 11:17 AM CT, Nov. 03 </p> 
- <a href="https://www.nytimes.com/2021/11/03/world/australia/missing-cleo-smith.html">Cleo Smith, 4, Is Found 18 Days After She Vanishes in Australia</a> NYT: Cleo Smith disappeared one night while camping with her family in a remote area of Australia. She was found “alive and well” in a locked house, and a man was detained. 
  <p class="updated_time"> 11:04 AM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/australia/australia-scott-morrison-cop26.html">What Did Scott Morrison, Australia's Leader, Accomplish at COP26?</a> NYT: Prime Minister Scott Morrison did not announce any firm plans to move away from the country’s deep investment in fossil fuel production. 
  <p class="updated_time"> 10:47 AM CT, Nov. 03 </p> 
@@ -74,7 +74,7 @@ permalink: /projects/news/
  <p class="updated_time"> 10:06 AM CT, Nov. 03 </p> 
  <a href="https://www.bbc.co.uk/news/59135899?at_medium=RSS&at_campaign=KARANGA">COP26: What's the climate impact of private jets?</a> BBC: World leaders' use of private jets to attend the climate summit has been called into question. 
  <p class="updated_time"> 10:04 AM CT, Nov. 03 </p> 
- <a href="https://www.wsj.com/articles/chinese-tennis-stars-accusation-against-retired-top-leader-causes-a-stir-online-11635966240">Chinese Tennis Star's Accusation Against Retired Top Leader Causes Online Stir</a> WSJ: Professional athlete Peng Shuai’s post alleging sexual assault by former Vice Premier Zhang Gaoli disappeared after about 20 minutes, but the claim has turned a spotlight on perceived abuses by powerful political figures. 
+ <a href="https://www.wsj.com/articles/chinese-tennis-stars-accusation-against-retired-top-leader-causes-a-stir-online-11635966240">Chinese Tennis Star Peng Shuai's Accusation Against Retired Top Leader Causes Online Stir</a> WSJ: Professional athlete Peng Shuai’s post alleging sexual assault by former Vice Premier Zhang Gaoli disappeared after about 20 minutes, but the claim has turned a spotlight on perceived abuses by powerful political figures. 
  <p class="updated_time"> 09:56 AM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/02/world/asia/afghanistan-kabul-hospital-attack.html">Dozens Killed in ISIS Attack on Military Hospital in Afghanistan’s Capital</a> NYT: The fall of the Western-backed government in August and the Taliban takeover of the country have been followed by an increase in Islamic State attacks across Afghanistan. 
  <p class="updated_time"> 09:36 AM CT, Nov. 03 </p> 
@@ -176,6 +176,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:05 PM CT, Nov. 03 </p> 
+ <a href="https://www.nytimes.com/2021/11/03/us/politics/biden-covid-vaccine-kids.html">Biden Urges Parents to Get Their Younger Children Vaccinated</a> NYT: President Biden said that “for parents all over this country, this is a day of relief and celebration,” adding that the vaccination program was ramping up this week with more doses being shipped out each day, 
  <p class="updated_time"> 03:37 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/us/politics/paid-leave-democrats.html">House Democrats Revive Paid Leave Program, Ignoring Manchin’s Concerns</a> NYT: The House plans to add a provision to provide four weeks of federally paid family and medical leave to their social policy bill, but it is all but certain to be jettisoned by the Senate. 
  <p class="updated_time"> 03:30 PM CT, Nov. 03 </p> 
@@ -189,7 +191,7 @@ permalink: /projects/news/
  <p class="updated_time"> 02:54 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/us/politics/rescind-medals-wounded-knee-massacre.html">Lawmakers Ask Biden to Rescind Medals for Wounded Knee Massacre</a> NYT: Seventeen members of Congress said they believed it was within President Biden’s authority to revoke Medals of Honor “when appropriate.” 
  <p class="updated_time"> 02:28 PM CT, Nov. 03 </p> 
- <a href="https://www.politico.com/news/2021/11/03/senate-republicans-voting-reform-block-519082">Senate GOP blocks latest Dem push for voting reform</a> Politico: Alaska Sen. Lisa Murkowski was the only Republican to join Democrats on the voting bill named for the late Rep. John Lewis (D-Ga.). 
+ <a href="https://www.politico.com/news/2021/11/03/senate-republicans-voting-reform-block-519082">Senate GOP blocks latest Dem push for voting reform</a> Politico: Alaska’s Lisa Murkowski was the only Republican to join Democrats on the voting bill named for the late Rep. John Lewis. 
  <p class="updated_time"> 01:44 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/business/economy/fed-taper-bond-buying.html">Federal Reserve Announces Plan to Slow Bond Buying Program</a> NYT: The Federal Reserve is dealing with high inflation at a time when millions of workers remain on the job market’s sidelines. 
  <p class="updated_time"> 12:40 PM CT, Nov. 03 </p> 
