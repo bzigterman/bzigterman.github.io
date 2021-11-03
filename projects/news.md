@@ -7,12 +7,20 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:08 AM CT, Nov. 03 </p> 
+ <a href="https://www.nytimes.com/2021/11/03/world/australia/australia-scott-morrison-cop26.html">What Did Scott Morrison, Australia's Leader, Accomplish at COP26?</a> NYT: Prime Minister Scott Morrison did not announce any firm plans to move away from the country’s deep investment in fossil fuel production. 
+ <p class="updated_time"> 09:08 AM CT, Nov. 03 </p> 
+ <a href="https://www.nytimes.com/2021/11/03/world/europe/global-energy-alliance-fund-cop26.html">New $10.5 Billion Fund Aims to Spur Green Energy in Poor Countries</a> NYT: Its backers say it will jump-start investments in clean energy that would not otherwise draw private investors. 
+ <p class="updated_time"> 09:07 AM CT, Nov. 03 </p> 
+ <a href="https://www.nytimes.com/2021/11/03/world/europe/cop26-climate-change-finance-industry.html"> Financial Industry, With $130 Trillion, to Pursue Climate Goals </a> NYT: The pledge would transform the international financial system, but critics say it falls short on fossil fuels. 
+ <p class="updated_time"> 08:48 AM CT, Nov. 03 </p> 
+ <a href="https://www.nytimes.com/2021/11/03/world/europe/cop26-greenwashing-protest.html">Protesters March Against ‘Greenwashing' at COP26</a> NYT: As the focus of the Glasgow summit turns to funding, protesters call for greater accountability for companies’ climate promises. 
+ <p class="updated_time"> 08:44 AM CT, Nov. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59147487?at_medium=RSS&at_campaign=KARANGA">Sophie Pétronin: France criticises saved hostage who went back to Mali</a> BBC: Sophie Pétronin, 76, was freed in October 2020 but returned to Mali despite being refused a visa. 
  <p class="updated_time"> 08:41 AM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/americas/brazil-presents-itself-as-part-of-the-solution-but-critics-see-a-climate-scofflaw.html">Brazil presents itself as part of the solution, but critics see a climate scofflaw.</a> NYT: NA 
  <p class="updated_time"> 08:35 AM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/africa/ethiopia-war-un-report.html">Atrocities on All Sides in Ethiopia’s War, U.N. Says as Rebels Advance</a> NYT: The United Nations report, released during a state of emergency as rebel forces near the capital, was written under significant constraints imposed by the government. 
- <p class="updated_time"> 08:26 AM CT, Nov. 03 </p> 
- <a href="https://www.nytimes.com/2021/11/03/world/australia/australia-scott-morrison-cop26.html">What Did Scott Morrison, Australia's Leader, Accomplish at COP26?</a> NYT: Prime Minister Scott Morrison did not announce any firm plans to move away from the country’s deep investment in fossil fuel production. 
  <p class="updated_time"> 08:00 AM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/australia/missing-cleo-smith.html">Cleo Smith, 4, Is Found 18 Days After She Vanishes in Australia</a> NYT: Cleo Smith disappeared one night while camping with her family in a remote area of Australia. She was found “alive and well” in a locked house, and a man was detained. 
  <p class="updated_time"> 07:10 AM CT, Nov. 03 </p> 
@@ -21,8 +29,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59144293?at_medium=RSS&at_campaign=KARANGA">Glenn Youngkin: Win for Republican in Virginia governor vote</a> BBC: Glenn Youngkin's victory is a blow for Joe Biden, who won the state in the presidential election. 
  <p class="updated_time"> 07:07 AM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/europe/belgium-congo-kidnapping.html">Torn From Parents in the Belgian Congo, Women Seek Reparations</a> NYT: Belgium has apologized for the kidnapping and deportation of thousands of mixed-race children under its colonial rule. Survivors say that reparations should be the next step. 
- <p class="updated_time"> 06:58 AM CT, Nov. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59147487?at_medium=RSS&at_campaign=KARANGA">Sophie Pétronin: Search for French ex-hostage who returned to Mali</a> BBC: Sophie Pétronin, 76, was freed in October 2020 but returned to Mali despite being refused a visa. 
  <p class="updated_time"> 06:53 AM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/yellen-green-bonds-climate-change.html">U.S. to Provide $500 Million for Green Bonds, Yellen Says</a> NYT: The Treasury secretary said wealthy countries had pledged billions of dollars to tackle climate change, but the real cost is in the trillions. 
  <p class="updated_time"> 06:49 AM CT, Nov. 03 </p> 
@@ -31,8 +37,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59147507?at_medium=RSS&at_campaign=KARANGA">Britney Spears blames mum for 'ruining my life' with conservatorship</a> BBC: The star claims the legal arrangement was her mother's idea, and "she secretly ruined my life". 
  <p class="updated_time"> 06:43 AM CT, Nov. 03 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-58925049?at_medium=RSS&at_campaign=KARANGA">COP26: Can countries be forced to meet net zero targets? And more questions</a> BBC: BBC correspondents answer your questions about Glasgow's COP26 climate summit. 
- <p class="updated_time"> 06:25 AM CT, Nov. 03 </p> 
- <a href="https://www.nytimes.com/2021/11/03/world/europe/global-energy-alliance-fund-cop26.html">New $10.5 Billion Fund Aims to Spur Green Energy in Poor Countries</a> NYT: Its backers say it will jump-start investments in clean energy that would not otherwise draw private investors. 
  <p class="updated_time"> 06:16 AM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/africa/south-africa-coal-renewables.html">South Africa to Get $8.5 billion to Shift From Coal to Renewables</a> NYT: Developing nations have long said they need aid from wealthy countries to shift to renewable energy. South Africa may show how that would work in practice. 
  <p class="updated_time"> 06:06 AM CT, Nov. 03 </p> 
@@ -41,8 +45,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-59143627?at_medium=RSS&at_campaign=KARANGA">Ethiopia's Tigray crisis: Report says war crimes may have been committed</a> BBC: Extra-judicial executions, torture and rape were documented in the Tigray conflict, a new report says. 
  <p class="updated_time"> 06:03 AM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/02/world/europe/climate-summit-methane-forests.html">With Methane and Forest Deals, Climate Summit Offers Hope After Gloomy Start</a> NYT: Agreements to reduce methane gas emissions and protect the world’s forests were reached Tuesday at the U.N.-sponsored meeting, as President Biden chided the leaders of Russia and China for not showing up. 
- <p class="updated_time"> 05:14 AM CT, Nov. 03 </p> 
- <a href="https://www.nytimes.com/2021/11/03/world/europe/cop26-climate-change-finance-industry.html"> Financial Industry, With $130 Trillion, to Pursue Climate Goals </a> NYT: The pledge would transform the international financial system, but critics say it falls short on fossil fuels. 
  <p class="updated_time"> 04:58 AM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/climate/ban-ki-moon-green-economy.html">Governments Must Invest in Jobs in Green Economy, Ban Ki-moon Says.</a> NYT: His comments come amid rising concern that transitioning to a greener economy could provoke a backlash if the cost falls to low- and middle-income people. 
  <p class="updated_time"> 04:39 AM CT, Nov. 03 </p> 
@@ -58,7 +60,7 @@ permalink: /projects/news/
  <p class="updated_time"> 02:13 AM CT, Nov. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59146086?at_medium=RSS&at_campaign=KARANGA">Cleo Smith: Missing four-year-old found alive weeks after vanishing</a> BBC: Cleo Smith disappeared from her family's tent at a campsite in Western Australia 18 days ago. 
  <p class="updated_time"> 12:23 AM CT, Nov. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-59143494?at_medium=RSS&at_campaign=KARANGA">Cleo Smith: Missing 4-year-old found alive in Australia</a> BBC: Four-year-old Cleo Smith is found alive more than two weeks after vanishing from an Australian campsite. 
+ <a href="https://www.bbc.co.uk/news/world-australia-59143494?at_medium=RSS&at_campaign=KARANGA">Cleo Smith: Missing 4-year-old found alive in Australia</a> BBC: Four-year-old Cleo Smith is found more than two weeks after vanishing from an Australian campsite. 
  <p class="updated_time"> 11:35 PM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/02/world/middleeast/gaza-wedding-debt-prison.html">Men in Gaza Imprisoned Over Wedding Loans</a> NYT: Like many men in Gaza, Wasfi al-Garosha regularly returns to prison for failing to repay a wedding loan. His trip back, always on foot, reveals much about the stresses of life in the Strip. 
  <p class="updated_time"> 09:31 PM CT, Nov. 02 </p> 
@@ -165,8 +167,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/01/world/5-million-covid-deaths.html">Global Covid Death Toll Surpasses 5 Million, but Full Count Is Higher</a> NYT: Many countries do not accurately report their figures, and many Covid deaths are misattributed, experts say. 
  <p class="updated_time"> 10:15 AM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/middleeast/egypt-security-military.html">Egypt Poised to Expand Security Powers of President and Military</a> NYT: Amendments to a terrorism law will strengthen the grip of the government, just days after it appeared to loosen up by lifting a state of emergency. 
- <p class="updated_time"> 07:26 AM CT, Nov. 01 </p> 
- <a href="https://www.nytimes.com/2021/11/01/world/asia/thailand-reopens-tourists-quarantine.html">Thailand Reopens to Tourists Without Requiring Quarantine</a> NYT: About a fifth of the nation’s economy depends on the vacation industry. Before the pandemic, the country was one of the world’s top destinations, drawing nearly 40 million visitors in 2019. 
 
 
 </details>
@@ -174,6 +174,10 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:54 AM CT, Nov. 03 </p> 
+ <a href="https://www.nytimes.com/2021/11/03/us/politics/democrats-virginia-governor-race.html">What Youngkin's Win in the Virginia Governor Race Means for Democrats</a> NYT: Less than a year after taking power in Washington, the party faces a grim immediate future, struggling to energize voters without a presidential foil and losing messaging wars to Republicans. 
+ <p class="updated_time"> 08:48 AM CT, Nov. 03 </p> 
+ <a href="https://www.nytimes.com/2021/11/03/style/eric-adams-style.html">Eric Adams's Style: ‘Everything About You Must Say Power’</a> NYT: New York City’s new mayor, Eric Adams, pays a lot of attention to what he wears. You should, too. 
  <p class="updated_time"> 08:15 AM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/02/nyregion/eric-adams-mayor.html">Eric Adams Is Elected Mayor of New York City</a> NYT: Mr. Adams, a Democrat and former police captain, will be the second Black mayor in the city’s history. 
  <p class="updated_time"> 07:46 AM CT, Nov. 03 </p> 
@@ -184,14 +188,10 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/03/democrats-biden-agenda-election-results-518935">Dems vow to plow forward on Biden agenda, even after election faceplants</a> Politico: “I don’t think this complicates passage. I think it helps accelerate it.” 
  <p class="updated_time"> 04:06 AM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/02/us/politics/biden-cop26.html">Biden Tries to Reassert American Leadership, and His Own</a> NYT: President Biden hoped his personal style of politicking could help him build global consensus on fighting climate change. But as he has learned in Washington, charm offensives have their limits. 
- <p class="updated_time"> 04:00 AM CT, Nov. 03 </p> 
- <a href="https://www.nytimes.com/2021/11/03/us/politics/democrats-virginia-governor-race.html">What Youngkin's Win in the Virginia Governor Race Means for Democrats</a> NYT: Less than a year after taking power in Washington, the party faces a grim immediate future, struggling to energize voters without a presidential foil and losing messaging wars to Republicans. 
  <p class="updated_time"> 03:30 AM CT, Nov. 03 </p> 
  <a href="https://www.politico.com/news/2021/11/03/stephanie-murphy-long-game-518607">Stephanie Murphy's defiant long game to keep Dems in power</a> Politico: The voice of House battleground Democrats isn't afraid to openly criticize her party leaders if she thinks it will help them keep the House in 2022. 
  <p class="updated_time"> 03:30 AM CT, Nov. 03 </p> 
  <a href="https://www.politico.com/news/2021/11/03/gop-trump-baseless-election-fraud-claims-518603">1 year later, GOP still chained to Trump's baseless election fraud claims</a> Politico: Some Republicans fear the former president's continued fixation on his loss threatens to deter their base from voting. But many of them are still staying silent. 
- <p class="updated_time"> 09:27 PM CT, Nov. 02 </p> 
- <a href="https://www.nytimes.com/2021/11/01/climate/biden-oil-gas-cop26.html">Even as Biden Pushes Clean Energy, He Seeks More Oil Production</a> NYT: President Biden acknowledged “it seems like an irony” that he is asking energy-rich nations to boost oil production as he implores the world to tackle climate change. 
  <p class="updated_time"> 07:45 PM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/02/health/covid-vaccine-children-cdc.html">C.D.C. Recommends Covid Vaccine for Younger Children</a> NYT: With the agency director’s sign-off, children ages 5 to 11 could begin to receive the shots this week. 
  <p class="updated_time"> 07:14 PM CT, Nov. 02 </p> 
