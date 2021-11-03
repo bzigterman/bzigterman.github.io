@@ -54,7 +54,7 @@ permalink: /projects/news/
  <p class="updated_time"> 11:04 AM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/australia/australia-scott-morrison-cop26.html">What Did Scott Morrison, Australia's Leader, Accomplish at COP26?</a> NYT: Prime Minister Scott Morrison did not announce any firm plans to move away from the country’s deep investment in fossil fuel production. 
  <p class="updated_time"> 10:52 AM CT, Nov. 03 </p> 
- <a href="https://www.nytimes.com/2021/11/03/world/africa/ethiopia-war-un-report.html">Atrocities on All Sides in Ethiopia, U.N. Says as Rebels Advance</a> NYT: The United Nations report on the civil war, released as Tigrayan rebels near the capital, was written under significant constraints imposed by the government. 
+ <a href="https://www.nytimes.com/2021/11/03/world/africa/ethiopia-war-un-report.html">Ethiopia’s Leader Vows to ‘Bury This Enemy,’ Even as Rebels Advance</a> NYT: A United Nations report, released as Tigrayan rebels near the capital, documents atrocities on all sides in a year-old civil war. 
  <p class="updated_time"> 10:47 AM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/asia/sunao-tsuboi-dead.html">Sunao Tsuboi, 96, Dies; Hiroshima Victim Who Lived to Tell His Story</a> NYT: After suffering through the agony of the attack and its aftermath, he devoted himself to spreading the message that nuclear weapons should be abolished. 
  <p class="updated_time"> 10:30 AM CT, Nov. 03 </p> 
@@ -172,9 +172,11 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:28 PM CT, Nov. 03 </p> 
+ <a href="https://www.politico.com/news/2021/11/03/senate-republicans-voting-reform-block-519082">Senate GOP blocks latest Dem push for voting reform</a> Politico: Alaska Sen. Lisa Murkowski was the only Republican to join Democrats on the voting bill named for the late Rep. John Lewis (D-Ga.). 
  <p class="updated_time"> 01:47 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/business/media/smartmatic-newsmax-oan.html">Smartmatic Sues Newsmax and One America News Network, Claiming Defamation</a> NYT: Smartmatic, an election technology company that faced baseless accusations of rigging the 2020 election, has filed a similar lawsuit against Fox News. 
- <p class="updated_time"> 01:43 PM CT, Nov. 03 </p> 
+ <p class="updated_time"> 01:44 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/business/economy/fed-taper-bond-buying.html">Federal Reserve Announces Plan to Slow Bond Buying Program</a> NYT: The Federal Reserve is dealing with high inflation at a time when millions of workers remain on the job market’s sidelines. 
  <p class="updated_time"> 12:40 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/us/politics/democrats-virginia-biden-congress.html">Democrats, Stung by Electoral Losses, Press Forward on Biden Agenda</a> NYT: Disappointed by a loss in Virginia and a closer-than-expected race in New Jersey, Democrats were working toward quick action on key bills to show they could govern. 
@@ -268,8 +270,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/10/29/democrats-infrastructure-week-517487">Dems limp out of another stumble-ending month</a> Politico: It's a nightmare on Capitol Hill for the president's party, as October passes by without a deal. 
  <p class="updated_time"> 06:45 PM CT, Oct. 28 </p> 
  <a href="https://www.politico.com/news/2021/10/28/iowa-new-congressional-map-517485">Iowa approves new congressional map with 3 competitive districts</a> Politico: Former President Donald Trump narrowly carried each of the three swing seats under the new lines. 
- <p class="updated_time"> 04:58 PM CT, Oct. 28 </p> 
- <a href="https://www.politico.com/news/2021/10/28/budget-deal-democrats-biden-framework-517469">Your guide to the huge Dem deal: 14 new policies and what could stop them</a> Politico: Democrats revealed a framework for a $1.75 trillion spending deal, but areas such as health care, child care and climate change are missing major party priorities. 
  <p class="updated_time"> 05:44 AM CT, Oct. 28 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/10/28/biden-launches-rescue-mission-before-rome-494881">POLITICO Playbook: Biden launches rescue mission before Rome</a> Politico: And Biden prepares for his overseas trip. 
 
