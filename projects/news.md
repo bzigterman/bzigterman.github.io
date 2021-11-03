@@ -57,6 +57,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/03/world/africa/ethiopia-war-un-report.html">Atrocities on All Sides in Ethiopia, U.N. Says as Rebels Advance</a> NYT: The United Nations report on the civil war, released as Tigrayan rebels near the capital, was written under significant constraints imposed by the government. 
  <p class="updated_time"> 10:47 AM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/asia/sunao-tsuboi-dead.html">Sunao Tsuboi, 96, Dies; Hiroshima Victim Who Lived to Tell His Story</a> NYT: After suffering through the agony of the attack and its aftermath, he devoted himself to spreading the message that nuclear weapons should be abolished. 
+ <p class="updated_time"> 10:30 AM CT, Nov. 03 </p> 
+ <a href="https://www.nytimes.com/2021/11/03/world/as-deadlines-loom-the-us-military-grants-few-vaccine-exemptions.html">As deadlines loom, the U.S. military grants few vaccine exemptions.</a> NYT: NA 
  <p class="updated_time"> 10:17 AM CT, Nov. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59149728?at_medium=RSS&at_campaign=KARANGA">Galapagos marine reserve: Conservationists hail expansion</a> BBC: Conservationists say the move will protect migration routes for many endangered species. 
  <p class="updated_time"> 10:06 AM CT, Nov. 03 </p> 
