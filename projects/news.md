@@ -186,22 +186,24 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
- <p class="updated_time"> 05:52 PM CT, Nov. 03 </p> 
+ <p class="updated_time"> 06:17 PM CT, Nov. 03 </p> 
+ <a href="https://www.nytimes.com/2021/11/03/us/politics/virginia-governor-youngkin-trump.html">Youngkin’s Dance With Trump Was Pivotal. But Is It Repeatable?</a> NYT: Glenn Youngkin’s victory in Virginia may inspire Republican imitators vying to win over Trump supporters without embracing the former president outright. 
+ <p class="updated_time"> 06:16 PM CT, Nov. 03 </p> 
+ <a href="https://www.nytimes.com/2021/11/03/us/politics/schools-republican-campaign-issues.html">Republicans Pounce on Schools as a Wedge Issue to Unite the Party</a> NYT: Rallying around what it calls “parental rights,” the party is pushing to build on its victories this week by stoking white resentment and tapping into broader anger at the education system. 
+ <p class="updated_time"> 06:15 PM CT, Nov. 03 </p> 
+ <a href="https://www.nytimes.com/2021/11/03/us/politics/senate-republicans-voting-rights-act.html">Republicans Block a Second Voting Rights Bill in the Senate</a> NYT: Democrats hope that a filibuster of a measure named for former Representative John Lewis of Georgia, the civil rights icon, will help build momentum for a change in Senate rules. 
+ <p class="updated_time"> 06:13 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/us/politics/supreme-court-guns-second-amendment.html">Justices’ Questions Suggest New York Gun Control Law Is Unlikely to Survive</a> NYT: The law, which imposes strict limits on carrying guns in public, faced a skeptical reception from the Supreme Court on Wednesday. 
+ <p class="updated_time"> 06:00 PM CT, Nov. 03 </p> 
+ <a href="https://www.nytimes.com/2021/11/03/us/politics/biden-covid-vaccine-kids.html">Biden Urges Parents to Get Their Younger Children Vaccinated</a> NYT: A vaccination program for children will roll out next week with more doses shipping each day, he said, calling it “a day of relief and celebration.” 
  <p class="updated_time"> 05:51 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/business/economy/fed-taper-bond-buying.html">Federal Reserve Announces Plan to Slow Bond Buying Program</a> NYT: The Federal Reserve is dealing with high inflation at a time when millions of workers remain on the job market’s sidelines. Wednesday’s announcement that it will slow bond purchases is a step toward more normal monetary policy. 
  <p class="updated_time"> 05:35 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/us/politics/democrats-virginia-governor-race.html">What Youngkin's Win in the Virginia Governor Race Means for Democrats</a> NYT: Less than a year after taking power in Washington, the party faces a grim immediate future, struggling to energize voters without a presidential foil and losing messaging wars to Republicans. 
- <p class="updated_time"> 05:35 PM CT, Nov. 03 </p> 
- <a href="https://www.nytimes.com/2021/11/03/us/politics/senate-republicans-voting-rights-act.html">Republicans Block a Second Voting Rights Bill in the Senate</a> NYT: Democrats hope that a filibuster of a measure named for former Representative John Lewis of Georgia, the civil rights icon, will help build momentum for a change in Senate rules. 
  <p class="updated_time"> 05:20 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/us/politics/drone-strike-kabul-child.html">Video Showed Child in Area Minutes Before Kabul Drone Strike</a> NYT: An investigation of the Aug. 29 airstrike, which mistakenly killed 10 civilians, including seven children, did not recommend any disciplinary action. 
- <p class="updated_time"> 05:01 PM CT, Nov. 03 </p> 
- <a href="https://www.nytimes.com/2021/11/03/us/politics/biden-covid-vaccine-kids.html">Biden Urges Parents to Get Their Younger Children Vaccinated</a> NYT: President Biden said that “for parents all over this country, this is a day of relief and celebration,” adding that the vaccination program was ramping up this week with more doses being shipped out each day. 
  <p class="updated_time"> 04:56 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/us/politics/democrat-losses-2022.html">Reeling From Surprise Losses, Democrats Sound the Alarm for 2022</a> NYT: Party officials say the White House and Congress must do more to address the electorate’s deep malaise or risk watching voters lurch back toward the G.O.P. by default. 
- <p class="updated_time"> 04:47 PM CT, Nov. 03 </p> 
- <a href="https://www.nytimes.com/2021/11/02/health/covid-vaccine-children-cdc.html">C.D.C. Recommends Covid Vaccine for Younger Children</a> NYT: With the agency director’s sign-off, children ages 5 to 11 could begin to receive the shots this week. 
  <p class="updated_time"> 04:40 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/us/politics/air-force-reaches-vaccine-deadline.html">U.S. Air Force Has a 97 Percent Vaccine Rate for Active Duty Troops</a> NYT: While the Air Force has the earliest deadline, active duty members in all branches are nearing their goals — until Reserve and National Guard forces are counted. 
  <p class="updated_time"> 04:30 PM CT, Nov. 03 </p> 
@@ -240,8 +242,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/02/us/politics/charlottesville-trial-holocaust.html">Holocaust Scholar to Testify at Charlottesville Trial</a> NYT: In a Charlottesville courtroom, Deborah E. Lipstadt will testify to the persistence of antisemitism, and its links to present-day politics. 
  <p class="updated_time"> 06:21 PM CT, Nov. 02 </p> 
  <a href="https://www.politico.com/news/2021/11/02/josh-hawley-state-department-nominees-confirmation-518642">Josh Hawley blocks confirmation of several State Dept. nominees</a> Politico: The Republican senator, who is unhappy about the withdrawal from Afghanistan, objected to eight of the nine nominations Democrats sought to unanimously approve. 
- <p class="updated_time"> 06:10 PM CT, Nov. 02 </p> 
- <a href="https://www.nytimes.com/2021/11/02/us/politics/supreme-court-free-speech-censure.html">Supreme Court Hears Free Speech Case on Politician’s Censure</a> NYT: The justices seemed inclined to find a narrow way to reject the argument that the censure of an elected official in Houston ran afoul of the First Amendment. 
  <p class="updated_time"> 05:43 PM CT, Nov. 02 </p> 
  <a href="https://www.politico.com/news/2021/11/02/social-spending-bill-immigration-citizenship-518606">Dems aim to squeeze immigration into social spending bill — without path to citizenship</a> Politico: There's still a distinct possibility the Senate rules referee will strike down the reform attempt Democrats are pushing into their $1.75 trillion bill. 
  <p class="updated_time"> 04:06 PM CT, Nov. 02 </p> 
