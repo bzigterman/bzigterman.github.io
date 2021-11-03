@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:27 PM CT, Nov. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-59154988?at_medium=RSS&at_campaign=KARANGA">Iran nuclear deal: Talks to resume within weeks</a> BBC: Vienna will play host, more than three years after the US abandoned a landmark agreement. 
  <p class="updated_time"> 03:16 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/us/politics/drone-strike-kabul-child.html">Video Showed Child in Area Minutes Before Kabul Drone Strike</a> NYT: An investigation of the airstrike, which mistakenly killed 10 civilians, including seven children, did not recommend any disciplinary action. 
  <p class="updated_time"> 03:09 PM CT, Nov. 03 </p> 
@@ -29,8 +31,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59144293?at_medium=RSS&at_campaign=KARANGA">Glenn Youngkin: Win for Republican in Virginia governor vote</a> BBC: Glenn Youngkin's victory is a blow for Joe Biden, who won the state in the presidential election. 
  <p class="updated_time"> 01:46 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/europe/cop26-greenwashing-protest.html">Protesters March Against ‘Greenwashing' at COP26</a> NYT: As the focus of the Glasgow summit turns to funding, protesters call for greater accountability for companies’ climate promises. 
- <p class="updated_time"> 12:50 PM CT, Nov. 03 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-59146864?at_medium=RSS&at_campaign=KARANGA">Alec Baldwin shares post defending Rust film set safety</a> BBC: The actor shares a post from Rust's costume designer following the death of Halyna Hutchins. 
  <p class="updated_time"> 12:42 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/europe/cop26-summit-lines.html">COP26 Summit Attendees Frustrated With Long Lines and Access</a> NYT: One veteran of the annual gathering described it as the “poorest planed” to date. A young American activist called it a “hellscape.” 
  <p class="updated_time"> 12:42 PM CT, Nov. 03 </p> 
@@ -50,7 +50,7 @@ permalink: /projects/news/
  <p class="updated_time"> 11:58 AM CT, Nov. 03 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59138692?at_medium=RSS&at_campaign=KARANGA">My Day at COP26: ‘My police dog doesn't care if Biden is here - he gets on with the job’</a> BBC: Sgt Lynsey Buchanan-Barlas and her dog Nico have been searching Glasgow’s streets for explosives ahead of COP26. 
  <p class="updated_time"> 11:49 AM CT, Nov. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59155674?at_medium=RSS&at_campaign=KARANGA">Halloween's over - what should I do with my costume?</a> BBC: We asked experts: how bad is Halloween textile waste, and how can you avoid adding to it? 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59155674?at_medium=RSS&at_campaign=KARANGA">Halloween's over - what should I do with my costume?</a> BBC: We asked experts: how bad is Halloween textile waste and how can you avoid adding to it? 
  <p class="updated_time"> 11:46 AM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/business/economy/biden-trade-policy-steel.html">European Steel Plan Shows Biden’s Bid to Merge Climate and Trade Policy</a> NYT: A potential agreement on steel trade provides the clearest look yet at how the Biden administration plans to implement a trade policy that is both protectionist and progressive 
  <p class="updated_time"> 11:36 AM CT, Nov. 03 </p> 
@@ -176,8 +176,14 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:37 PM CT, Nov. 03 </p> 
+ <a href="https://www.nytimes.com/2021/11/03/us/politics/paid-leave-democrats.html">House Democrats Revive Paid Leave Program, Ignoring Manchin’s Concerns</a> NYT: The House plans to add a provision to provide four weeks of federally paid family and medical leave to their social policy bill, but it is all but certain to be jettisoned by the Senate. 
+ <p class="updated_time"> 03:30 PM CT, Nov. 03 </p> 
+ <a href="https://www.nytimes.com/2021/11/03/us/politics/air-force-reaches-vaccine-deadline.html">U.S. Air Force Has a 97 Percent Vaccine Rate for Active Duty Troops</a> NYT: While the Air Force has the earliest deadline, active duty members in all branches are nearing their goals — until Reserve and National Guard forces are counted. 
+ <p class="updated_time"> 03:30 PM CT, Nov. 03 </p> 
+ <a href="https://www.nytimes.com/2021/11/03/us/politics/senate-republicans-voting-rights-act.html">Republicans Block a Second Voting Rights Bill in the Senate</a> NYT: Democrats hope that a filibuster of a measure named for former Representative John Lewis of Georgia, the civil rights icon, will help build momentum for a change in Senate rules. 
  <p class="updated_time"> 03:16 PM CT, Nov. 03 </p> 
- <a href="https://www.nytimes.com/2021/11/03/us/politics/drone-strike-kabul-child.html">Video Footage Showed at Least 1 Child Near Site Minutes Before Drone Strike in Kabul</a> NYT: An investigation of the airstrike, which mistakenly killed 10 civilians, including seven children, did not recommend any disciplinary action. 
+ <a href="https://www.nytimes.com/2021/11/03/us/politics/drone-strike-kabul-child.html">Video Showed Child in Area Minutes Before Kabul Drone Strike</a> NYT: An investigation of the airstrike, which mistakenly killed 10 civilians, including seven children, did not recommend any disciplinary action. 
  <p class="updated_time"> 03:16 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/business/media/smartmatic-newsmax-oan.html">Smartmatic Sues Newsmax and One America News Network, Claiming Defamation</a> NYT: Smartmatic, an election technology company that faced baseless accusations of rigging the 2020 election, has filed a similar lawsuit against Fox News. 
  <p class="updated_time"> 02:54 PM CT, Nov. 03 </p> 
@@ -222,8 +228,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/02/us/politics/charlottesville-trial-holocaust.html">Holocaust Scholar to Testify at Charlottesville Trial</a> NYT: In a Charlottesville courtroom, Deborah E. Lipstadt will testify to the persistence of antisemitism, and its links to present-day politics. 
  <p class="updated_time"> 06:21 PM CT, Nov. 02 </p> 
  <a href="https://www.politico.com/news/2021/11/02/josh-hawley-state-department-nominees-confirmation-518642">Josh Hawley blocks confirmation of several State Dept. nominees</a> Politico: The Republican senator, who is unhappy about the withdrawal from Afghanistan, objected to eight of the nine nominations Democrats sought to unanimously approve. 
- <p class="updated_time"> 06:14 PM CT, Nov. 02 </p> 
- <a href="https://www.nytimes.com/2021/11/02/us/politics/prescription-drug-prices-medicare.html">Democrats Reach Deal to Control Drug Prices in Bill</a> NYT: The provision would, for the first time, allow the government to negotiate prices for some medicines covered by Medicare. 
  <p class="updated_time"> 06:10 PM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/02/us/politics/supreme-court-free-speech-censure.html">Supreme Court Hears Free Speech Case on Politician’s Censure</a> NYT: The justices seemed inclined to find a narrow way to reject the argument that the censure of an elected official in Houston ran afoul of the First Amendment. 
  <p class="updated_time"> 05:43 PM CT, Nov. 02 </p> 
@@ -234,8 +238,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/02/end-of-sinema-manchin-manchema-518569">The end of Manchema</a> Politico: Once united on cutting the cost of their party's social spending bill, the centrists from West Virginia and Arizona are now going their own way. 
  <p class="updated_time"> 02:40 PM CT, Nov. 02 </p> 
  <a href="https://www.politico.com/news/2021/11/02/congress-standstill-shutdown-debt-518567">Congress hits ‘standstill’ as December shutdown, debt cliff near</a> Politico: "There should be a motto around here: ‘Why do today what we can do tomorrow?’ It's ridiculous," said Sen. Jon Tester. 
- <p class="updated_time"> 02:02 PM CT, Nov. 02 </p> 
- <a href="https://www.nytimes.com/2021/11/02/us/politics/us-land-border-travel.html">Travelers by Land Should Ready Documents, U.S. Officials Say</a> NYT: The reopening comes just ahead of the holiday season, clearing the way for tourists and other nonessential travelers after about 19 months of border closures 
  <p class="updated_time"> 01:22 PM CT, Nov. 02 </p> 
  <a href="https://www.politico.com/news/2021/11/02/dems-drug-pricing-518554">‘A massive step forward’: Democrats clinch drug pricing deal</a> Politico: The new compromise deal, which is far weaker than the original House version, has the blessing of Sen. Kyrsten Sinema. 
  <p class="updated_time"> 05:12 AM CT, Nov. 02 </p> 
