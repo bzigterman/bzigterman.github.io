@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:01 PM CT, Nov. 03 </p> 
+ <a href="https://www.nytimes.com/2021/11/03/climate/al-gore-cop26.html">At COP26, Gore Says Satellite Emissions Monitoring Helps Climate-Change Fight</a> NYT: Real-time checks on where greenhouse gases are being produced may prove a powerful weapon in the fight to cool the earth. 
+ <p class="updated_time"> 12:50 PM CT, Nov. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-59146864?at_medium=RSS&at_campaign=KARANGA">Alec Baldwin shares post defending Rust film set safety</a> BBC: The actor shares a post from Rust's costume designer following the death of Halyna Hutchins. 
  <p class="updated_time"> 12:45 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/europe/cop26-climate-change-finance-industry.html"> Financial Industry, With $130 Trillion, to Pursue Climate Goals </a> NYT: The pledge would transform the international financial system, but critics say it falls short on fossil fuels. 
  <p class="updated_time"> 12:42 PM CT, Nov. 03 </p> 
@@ -15,14 +19,14 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/01/world/europe/cop26-glasgow-biden-climate.html">At COP26 Summit, Urgent Pleas to Combat Global Warning</a> NYT: The opening day of a climate summit was heavy on dire warnings and light on substantive proposals as leaders in Glasgow met to discuss a warming world. 
  <p class="updated_time"> 12:42 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/02/world/europe/cop26-jeff-bezos-climate.html">Jeff Bezos Makes $2 Billion Environmental Pledge at COP26 Summit</a> NYT: The billionaire called the loss of Earth’s forests “a profound and urgent danger to us all.” 
+ <p class="updated_time"> 12:34 PM CT, Nov. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59154984?at_medium=RSS&at_campaign=KARANGA">Facebook deletes Ethiopia PM's post that urged citizens to 'bury' rebels</a> BBC: The social giant deletes Abiy Ahmed's post which urged citizens to "bury" a rebel group. 
  <p class="updated_time"> 12:28 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/europe/cop26-greenwashing-protest.html">Protesters March Against ‘Greenwashing' at COP26</a> NYT: As the focus of the Glasgow summit turns to funding, protesters call for greater accountability for companies’ climate promises. 
  <p class="updated_time"> 12:27 PM CT, Nov. 03 </p> 
  <a href="https://www.bbc.co.uk/news/technology-59149651?at_medium=RSS&at_campaign=KARANGA">NSO Group: Israeli spyware company added to US trade blacklist</a> BBC: NSO Group, which makes the Pegasus spyware, acted against US interests, officials say. 
  <p class="updated_time"> 12:19 PM CT, Nov. 03 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59135039?at_medium=RSS&at_campaign=KARANGA">2021: A year of wild weather</a> BBC: If emissions continue rising, Europe can expect 50C heatwaves every three years, the Met Office says. 
- <p class="updated_time"> 12:18 PM CT, Nov. 03 </p> 
- <a href="https://www.nytimes.com/2021/11/03/climate/al-gore-cop26.html">At COP26, Gore Says Satellite Emissions Monitoring Helps Climate-Change Fight</a> NYT: Real-time checks on where greenhouse gases are being produced may prove a powerful weapon in the fight to cool the earth. 
  <p class="updated_time"> 12:12 PM CT, Nov. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59147487?at_medium=RSS&at_campaign=KARANGA">Sophie Pétronin: France criticises saved hostage who went back to Mali</a> BBC: Sophie Pétronin, 76, was freed in October 2020 but returned to Mali despite being refused a visa. 
  <p class="updated_time"> 12:08 PM CT, Nov. 03 </p> 
@@ -77,16 +81,12 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-australia-59144556?at_medium=RSS&at_campaign=KARANGA">Cleo Smith: How Australian police found the missing four-year-old</a> BBC: The discovery of the girl follows a huge search operation covering a remote part of Australia. 
  <p class="updated_time"> 07:07 AM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/europe/belgium-congo-kidnapping.html">Torn From Parents in the Belgian Congo, Women Seek Reparations</a> NYT: Belgium has apologized for the kidnapping and deportation of thousands of mixed-race children under its colonial rule. Survivors say that reparations should be the next step. 
- <p class="updated_time"> 06:49 AM CT, Nov. 03 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-59146864?at_medium=RSS&at_campaign=KARANGA">Alec Baldwin shares post defending Rust film set safety</a> BBC: The actor shares a post from Rust's costume designer following the death of Halyna Hutchins. 
  <p class="updated_time"> 06:43 AM CT, Nov. 03 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-58925049?at_medium=RSS&at_campaign=KARANGA">COP26: Can countries be forced to meet net zero targets? And more questions</a> BBC: BBC correspondents answer your questions about Glasgow's COP26 climate summit. 
  <p class="updated_time"> 06:16 AM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/africa/south-africa-coal-renewables.html">South Africa to Get $8.5 billion to Shift From Coal to Renewables</a> NYT: Developing nations have long said they need aid from wealthy countries to shift to renewable energy. South Africa may show how that would work in practice. 
  <p class="updated_time"> 06:06 AM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/asia/modi-india-cop26-renewable-energy.html">India Will Sharply Increase Renewable Energy, Modi Says</a> NYT: Wealthy nations need to spend $1 trillion to help developing nations like India make the transition to renewables, Prime Minister Modi said. 
- <p class="updated_time"> 06:03 AM CT, Nov. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59143627?at_medium=RSS&at_campaign=KARANGA">Ethiopia's Tigray crisis: Report says war crimes may have been committed</a> BBC: Extra-judicial executions, torture and rape were documented in the Tigray conflict, a new report says. 
  <p class="updated_time"> 06:03 AM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/02/world/europe/climate-summit-methane-forests.html">With Methane and Forest Deals, Climate Summit Offers Hope After Gloomy Start</a> NYT: Agreements to reduce methane gas emissions and protect the world’s forests were reached Tuesday at the U.N.-sponsored meeting, as President Biden chided the leaders of Russia and China for not showing up. 
  <p class="updated_time"> 04:58 AM CT, Nov. 03 </p> 
@@ -172,6 +172,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 01:00 PM CT, Nov. 03 </p> 
+ <a href="https://www.nytimes.com/2021/11/03/business/economy/fed-taper-bond-buying.html">Federal Reserve Announces Plan to Slow Bond Buying Program</a> NYT: The Federal Reserve is dealing with high inflation at a time when millions of workers remain on the job market’s sidelines. 
  <p class="updated_time"> 12:40 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/us/politics/democrats-virginia-biden-congress.html">Democrats, Stung by Electoral Losses, Press Forward on Biden Agenda</a> NYT: Disappointed by a loss in Virginia and a closer-than-expected race in New Jersey, Democrats were working toward quick action on key bills to show they could govern. 
  <p class="updated_time"> 12:38 PM CT, Nov. 03 </p> 
@@ -218,8 +220,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/02/social-spending-bill-immigration-citizenship-518606">Dems aim to squeeze immigration into social spending bill — without path to citizenship</a> Politico: There's still a distinct possibility the Senate rules referee will strike down the reform attempt Democrats are pushing into their $1.75 trillion bill. 
  <p class="updated_time"> 05:38 PM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/02/us/politics/salt-cap-tax-deduction.html">Democrats Push for Agreement on Tax Deduction That Benefits the Rich</a> NYT: Lawmakers are coalescing around a deal to suspend a $10,000 cap on state and local tax deductions that was imposed during the Trump administration. 
- <p class="updated_time"> 04:41 PM CT, Nov. 02 </p> 
- <a href="https://www.nytimes.com/2021/11/02/books/penguin-random-house-simon-schuster-merger-lawsuit.html">Justice Dept. Sues Penguin Random House Over Simon & Schuster Deal</a> NYT: The Biden administration’s rejection of the proposed $2.18 billion publishing merger reflects a changing atmosphere in Washington toward consolidation. 
  <p class="updated_time"> 04:06 PM CT, Nov. 02 </p> 
  <a href="https://www.politico.com/news/2021/11/02/end-of-sinema-manchin-manchema-518569">The end of Manchema</a> Politico: Once united on cutting the cost of their party's social spending bill, the centrists from West Virginia and Arizona are now going their own way. 
  <p class="updated_time"> 03:25 PM CT, Nov. 02 </p> 
