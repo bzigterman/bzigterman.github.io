@@ -7,6 +7,12 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:15 AM CT, Nov. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59063624?at_medium=RSS&at_campaign=KARANGA">The woman defying the Taliban on girls' education</a> BBC: A UK woman set up an online school for Afghan girls. Weeks in, she has nearly a thousand students. 
+ <p class="updated_time"> 04:10 AM CT, Nov. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/science-environment-58874518?at_medium=RSS&at_campaign=KARANGA">What is net zero and how are the UK and other countries doing?</a> BBC: Experts have recommended developed countries adopt targets to reduce emissions to net zero by 2050. 
+ <p class="updated_time"> 04:06 AM CT, Nov. 03 </p> 
+ <a href="https://www.nytimes.com/2021/11/02/us/politics/biden-cop26.html">Biden Tries to Reassert American Leadership, and His Own</a> NYT: President Biden hoped his personal style of politicking could help him build global consensus on fighting climate change. But as he has learned in Washington, charm offensives have their limits. 
  <p class="updated_time"> 04:00 AM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/asia/squid-game-korea-bts.html">From BTS to ‘Squid Game’: How South Korea Became a Cultural Juggernaut</a> NYT: The country was once largely known for cars and smartphones, but a global audience has become mesmerized by its entertainment, and creators say success didn’t happen overnight. 
  <p class="updated_time"> 03:58 AM CT, Nov. 03 </p> 
@@ -59,8 +65,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/02/world/africa/ethiopia-state-of-emergency.html">Ethiopia Declares State of Emergency as Rebels Advance Toward Capital</a> NYT: In a milestone in the yearlong conflict, the government called on civilians to arm themselves and defend Addis Ababa after Tigrayan forces captured two towns nearby. 
  <p class="updated_time"> 05:03 PM CT, Nov. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59044854?at_medium=RSS&at_campaign=KARANGA">Job-seekers turn to TikTok to post 'CareerTok' CVs</a> BBC: Will the video sharing platform become the future of recruitment? 
- <p class="updated_time"> 04:54 PM CT, Nov. 02 </p> 
- <a href="https://www.nytimes.com/2021/11/02/us/politics/biden-cop26.html">Biden Tries to Reassert American Leadership, and His Own</a> NYT: President Biden hoped his personal style of politicking could help him build global consensus on fighting climate change. But as he has learned in Washington, charm offensives have their limits. 
  <p class="updated_time"> 04:28 PM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/02/world/asia/afghanistan-kabul-hospital-attack.html">Dozens Killed in ISIS Attack on Military Hospital in Afghanistan’s Capital</a> NYT: The fall of the Western-backed government in August and the Taliban takeover of the country have been followed by an increase in Islamic State attacks across Afghanistan. 
  <p class="updated_time"> 04:24 PM CT, Nov. 02 </p> 
@@ -113,8 +117,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/02/world/europe/deforestation-climate-change.html">How the COP26 Deforestation Pledge Measures Up</a> NYT: As the world stares down the barrel of climate catastrophe and a worsening biodiversity crisis, the forests that are remain are crucial. 
  <p class="updated_time"> 09:44 AM CT, Nov. 02 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59131945?at_medium=RSS&at_campaign=KARANGA">COP26: Joe Biden says methane reduction pledge will make 'huge difference'</a> BBC: More than 80 countries at the COP26 summit have pledged to cut methane emissions by 30% by 2030. 
- <p class="updated_time"> 09:37 AM CT, Nov. 02 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-58874518?at_medium=RSS&at_campaign=KARANGA">What is net zero and how are the UK and other countries doing?</a> BBC: Experts have recommended developed countries adopt targets to reduce emissions to net zero by 2050. 
  <p class="updated_time"> 09:28 AM CT, Nov. 02 </p> 
  <a href="https://www.wsj.com/articles/afghanistans-main-military-hospital-hit-by-two-explosions-gunfire-11635847126">Attack on Kabul Military Hospital Leaves at Least 23 Dead</a> WSJ: Islamic State militants stormed Afghanistan’s main military hospital and killed at least 23 people in the latest eruption of violence since the country’s U.S.-backed government collapsed in mid-August. 
  <p class="updated_time"> 08:15 AM CT, Nov. 02 </p> 
@@ -180,6 +182,10 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:06 AM CT, Nov. 03 </p> 
+ <a href="https://www.nytimes.com/2021/11/02/us/politics/biden-cop26.html">Biden Tries to Reassert American Leadership, and His Own</a> NYT: President Biden hoped his personal style of politicking could help him build global consensus on fighting climate change. But as he has learned in Washington, charm offensives have their limits. 
+ <p class="updated_time"> 04:00 AM CT, Nov. 03 </p> 
+ <a href="https://www.nytimes.com/2021/11/03/us/politics/democrats-virginia-governor-race.html">What Youngkin's Win in the Virginia Governor Race Means for Democrats</a> NYT: Less than a year after taking power in Washington, the party faces a grim immediate future, struggling to energize voters without a presidential foil and losing messaging wars to Republicans. 
  <p class="updated_time"> 03:30 AM CT, Nov. 03 </p> 
  <a href="https://www.politico.com/news/2021/11/03/stephanie-murphy-long-game-518607">Stephanie Murphy's defiant long game to keep Dems in power</a> Politico: The voice of House battleground Democrats isn't afraid to openly criticize her party leaders if she thinks it will help them keep the House in 2022. 
  <p class="updated_time"> 03:30 AM CT, Nov. 03 </p> 
@@ -210,16 +216,12 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/02/social-spending-bill-immigration-citizenship-518606">Dems aim to squeeze immigration into social spending bill — without path to citizenship</a> Politico: There's still a distinct possibility the Senate rules referee will strike down the reform attempt Democrats are pushing into their $1.75 trillion bill. 
  <p class="updated_time"> 05:38 PM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/02/us/politics/salt-cap-tax-deduction.html">Democrats Push for Agreement on Tax Deduction That Benefits the Rich</a> NYT: Lawmakers are coalescing around a deal to suspend a $10,000 cap on state and local tax deductions that was imposed during the Trump administration. 
- <p class="updated_time"> 04:54 PM CT, Nov. 02 </p> 
- <a href="https://www.nytimes.com/2021/11/02/us/politics/biden-cop26.html">Biden Tries to Reassert American Leadership, and His Own</a> NYT: President Biden hoped his personal style of politicking could help him build global consensus on fighting climate change. But as he has learned in Washington, charm offensives have their limits. 
  <p class="updated_time"> 04:41 PM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/02/books/penguin-random-house-simon-schuster-merger-lawsuit.html">Justice Dept. Sues Penguin Random House Over Simon & Schuster Deal</a> NYT: The Biden administration’s rejection of the proposed $2.18 billion publishing merger reflects a changing atmosphere in Washington toward consolidation. 
  <p class="updated_time"> 04:06 PM CT, Nov. 02 </p> 
  <a href="https://www.politico.com/news/2021/11/02/end-of-sinema-manchin-manchema-518569">The end of Manchema</a> Politico: Once united on cutting the cost of their party's social spending bill, the centrists from West Virginia and Arizona are now going their own way. 
  <p class="updated_time"> 03:25 PM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/02/business/economy/fed-jerome-powell-rates-inflation.html">Fed Expected to Announce Plan to Slow Bond Buying Amid Rapid Inflation</a> NYT: The Federal Reserve is expected to announce a plan to taper off its bond buying. With inflation surging, economists’ eyes are already turning to rates. 
- <p class="updated_time"> 03:04 PM CT, Nov. 02 </p> 
- <a href="https://www.nytimes.com/2021/11/01/us/politics/pfizer-children-covid-vaccine.html">Pfizer Pediatric Vaccination Program to Be ‘at Full Strength’ Next Week, White House Says</a> NYT: “We are planning on some vaccinations towards the end of this week,” said Jeffrey D. Zients, a top White House official, adding that the government will deliver a total of 15 million doses “across the next week or so.” 
  <p class="updated_time"> 02:56 PM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/europe/cop26-glasgow-biden-climate.html">At COP26 Summit, Urgent Pleas to Combat Global Warning</a> NYT: The opening day of a climate summit was heavy on dire warnings and light on substantive proposals as leaders in Glasgow met to discuss a warming world. 
  <p class="updated_time"> 02:40 PM CT, Nov. 02 </p> 
