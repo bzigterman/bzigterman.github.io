@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:58 PM CT, Nov. 03 </p> 
+ <a href="https://www.nytimes.com/2021/11/02/world/europe/climate-summit-methane-forests.html">With Methane and Forest Deals, Climate Summit Offers Hope After Gloomy Start</a> NYT: Agreements to reduce methane gas emissions and protect the world’s forests were reached Tuesday at the U.N.-sponsored meeting, as President Biden chided the leaders of Russia and China for not showing up. 
  <p class="updated_time"> 03:27 PM CT, Nov. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59154988?at_medium=RSS&at_campaign=KARANGA">Iran nuclear deal: Talks to resume within weeks</a> BBC: Vienna will play host, more than three years after the US abandoned a landmark agreement. 
  <p class="updated_time"> 03:16 PM CT, Nov. 03 </p> 
@@ -99,8 +101,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/science-environment-58925049?at_medium=RSS&at_campaign=KARANGA">COP26: Can countries be forced to meet net zero targets? And more questions</a> BBC: BBC correspondents answer your questions about Glasgow's COP26 climate summit. 
  <p class="updated_time"> 06:16 AM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/africa/south-africa-coal-renewables.html">South Africa to Get $8.5 billion to Shift From Coal to Renewables</a> NYT: Developing nations have long said they need aid from wealthy countries to shift to renewable energy. South Africa may show how that would work in practice. 
- <p class="updated_time"> 06:03 AM CT, Nov. 03 </p> 
- <a href="https://www.nytimes.com/2021/11/02/world/europe/climate-summit-methane-forests.html">With Methane and Forest Deals, Climate Summit Offers Hope After Gloomy Start</a> NYT: Agreements to reduce methane gas emissions and protect the world’s forests were reached Tuesday at the U.N.-sponsored meeting, as President Biden chided the leaders of Russia and China for not showing up. 
  <p class="updated_time"> 04:58 AM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/climate/ban-ki-moon-green-economy.html">Governments Must Invest in Jobs in Green Economy, Ban Ki-moon Says.</a> NYT: His comments come amid rising concern that transitioning to a greener economy could provoke a backlash if the cost falls to low- and middle-income people. 
  <p class="updated_time"> 04:39 AM CT, Nov. 03 </p> 
