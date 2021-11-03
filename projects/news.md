@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:29 AM CT, Nov. 03 </p> 
+ <a href="https://www.nytimes.com/2021/11/03/world/asia/isis-afghanistan-taliban.html">ISIS Poses a Growing Threat to New Taliban Government in Afghanistan</a> NYT: The Taliban takeover was supposed to bring an end to war, the new government promised. But a growing insurgency is upending security and raising alarms for the international community. 
+ <p class="updated_time"> 09:27 AM CT, Nov. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/business-59147390?at_medium=RSS&at_campaign=KARANGA">Mark Carney at COP26: Countries should have a carbon price</a> BBC: Carbon taxes will not happen overnight, the UK prime minister’s finance adviser for COP26 says. 
  <p class="updated_time"> 09:13 AM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/europe/cop26-glasgow-biden-climate.html">At COP26 Summit, Urgent Pleas to Combat Global Warning</a> NYT: The opening day of a climate summit was heavy on dire warnings and light on substantive proposals as leaders in Glasgow met to discuss a warming world. 
  <p class="updated_time"> 09:11 AM CT, Nov. 03 </p> 
@@ -129,8 +133,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/afghanistans-main-military-hospital-hit-by-two-explosions-gunfire-11635847126">Attack on Kabul Military Hospital Leaves at Least 23 Dead</a> WSJ: Islamic State militants stormed Afghanistan’s main military hospital and killed at least 23 people in the latest eruption of violence since the country’s U.S.-backed government collapsed in mid-August. 
  <p class="updated_time"> 08:15 AM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/02/world/asia/china-food-shortages-winter.html">China Urges Families to Stock up on Food for Winter</a> NYT: State-run news media said that the directives were to prepare for emergencies like coronavirus lockdowns as the country pursues its “zero Covid” policy. 
- <p class="updated_time"> 07:20 AM CT, Nov. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-59136233?at_medium=RSS&at_campaign=KARANGA">Brazil: Amazon parrot plays peekaboo with CCTV traffic camera</a> BBC: A turquoise-fronted amazon parrot was captured investigating a CCTV camera in Curitiba, Brazil. 
  <p class="updated_time"> 07:03 AM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/americas/cop26-indigenous-txai-surui.html">From the Amazon to Glasgow: An Indigenous activist says, ‘We have no more time.’</a> NYT: Txai Suruí told world leaders at COP26 that their timetables for reducing carbon emissions and scaling back the use of fossil fuels were inadequate. 
  <p class="updated_time"> 06:57 AM CT, Nov. 02 </p> 
@@ -161,8 +163,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-latin-america-58961286?at_medium=RSS&at_campaign=KARANGA">Climate change: Should we save or exploit the vanishing Amazon?</a> BBC: The BBC's Orla Guerin meets four Amazon-dwellers with differing views on the rainforest's protection. 
  <p class="updated_time"> 01:59 PM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/europe/david-attenborough-cop26.html">David Attenborough Urges Leaders at COP26 Summit to ‘Rewrite Our Story’</a> NYT: “If working apart we are force powerful enough to destabilize our planet,” the naturalist said, “surely working together we are powerful enough to save it.” 
- <p class="updated_time"> 12:13 PM CT, Nov. 01 </p> 
- <a href="https://www.nytimes.com/2021/11/01/world/europe/cop26-climate-antonio-guterres.html">U.N. Leader, António Guterres, Warns of 'Climate Catastrophe' at COP26</a> NYT: He urged countries to review their climate pledges annually rather than every five years as called for in the 2015 Paris accord. 
  <p class="updated_time"> 11:07 AM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/5-million-covid-deaths.html">Global Covid Death Toll Surpasses 5 Million, but Full Count Is Higher</a> NYT: Many countries do not accurately report their figures, and many Covid deaths are misattributed, experts say. 
  <p class="updated_time"> 10:15 AM CT, Nov. 01 </p> 
