@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:17 AM CT, Nov. 03 </p> 
+ <a href="https://www.nytimes.com/2021/11/03/world/europe/cop26-green-energy-fund.html">New $10.5 Billion Fund Aims to Spur Green Energy in Poor Countries</a> NYT: Its backers say it will jump-start investments in clean energy that would not otherwise draw private investors. 
+ <p class="updated_time"> 05:14 AM CT, Nov. 03 </p> 
+ <a href="https://www.nytimes.com/2021/11/03/world/europe/cop26-climate-change-finance-industry.html"> Financial Industry, With $130 Trillion, to Pursue Climate Goals </a> NYT: The pledge would transform the international financial system, but critics say it falls short on fossil fuels. 
  <p class="updated_time"> 04:58 AM CT, Nov. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59143627?at_medium=RSS&at_campaign=KARANGA">Ethiopia's Tigray crisis: Report says war crimes may have been committed</a> BBC: Extra-judicial executions, torture and rape were documented in the Tigray conflict, a new report says. 
  <p class="updated_time"> 04:49 AM CT, Nov. 03 </p> 
@@ -149,8 +153,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/01/world/asia/pakistan-protests-negotiations-tlp.html">After Violent Standoff, Pakistan Strikes Deal With Banned Islamist Group</a> NYT: The pact, announced Sunday, defused a crisis that had paralyzed several cities, but it also highlighted the government’s struggle to assert itself against religious extremists. 
  <p class="updated_time"> 01:49 AM CT, Nov. 02 </p> 
  <a href="https://www.wsj.com/articles/cop26-leaders-agree-to-end-deforestation-by-2030-11635844937">Leaders Agree to End Deforestation by 2030</a> WSJ: World leaders at the COP26 summit, including the U.S., China and Brazil, agreed to a deal aimed at ending and then reversing deforestation by 2030, committing nearly $20 billion of public and private funds to protect and restore forests. 
- <p class="updated_time"> 10:39 PM CT, Nov. 01 </p> 
- <a href="https://www.nytimes.com/2021/11/01/world/europe/what-to-watch-monday-cop26.html">What to Watch For At COP26 on Monday and Tuesday</a> NYT: Prime Minister Boris Johnson was first to welcome leaders, who will then lay out “concrete actions and credible plans.” David Attenborough and Prince Charles are also speaking. 
  <p class="updated_time"> 08:01 PM CT, Nov. 01 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59114449?at_medium=RSS&at_campaign=KARANGA">COP26: What climate summit means for one woman in Bangladesh</a> BBC: What do decisions made at a summit in Glasgow mean for a woman in a village on the front line of climate change? 
  <p class="updated_time"> 07:05 PM CT, Nov. 01 </p> 
@@ -173,8 +175,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/01/world/asia/thailand-reopens-tourists-quarantine.html">Thailand Reopens to Tourists Without Requiring Quarantine</a> NYT: About a fifth of the nation’s economy depends on the vacation industry. Before the pandemic, the country was one of the world’s top destinations, drawing nearly 40 million visitors in 2019. 
  <p class="updated_time"> 06:05 AM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/chinas-push-to-burn-more-coal-puts-climate-goals-at-risk.html">China’s push to burn more coal puts climate goals at risk.</a> NYT: NA 
- <p class="updated_time"> 05:02 AM CT, Nov. 01 </p> 
- <a href="https://www.nytimes.com/2021/11/01/world/europe/climate-conference-kicks-off-in-glasgow-with-floods-and-low-expectations.html">Climate conference kicks off in Glasgow with floods and low expectations.</a> NYT: NA 
 
 
 </details>
@@ -182,6 +182,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:17 AM CT, Nov. 03 </p> 
+ <a href="https://www.nytimes.com/2021/11/02/us/politics/conservatives-new-york-gun-law.html">Prominent Conservatives Back Letting States Limit Guns in Public</a> NYT: A brief filed in a major gun control case to be heard on Wednesday by the Supreme Court argued that limits on the public carrying of weapons were consistent with the Second Amendment. 
  <p class="updated_time"> 05:10 AM CT, Nov. 03 </p> 
  <a href="https://www.politico.com/news/2021/11/03/democrats-biden-agenda-election-results-518935">Dems vow to plow forward on Biden agenda, even after election faceplants</a> Politico: “I don’t think this complicates passage. I think it helps accelerate it.” 
  <p class="updated_time"> 04:30 AM CT, Nov. 03 </p> 
@@ -204,8 +206,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/02/us/politics/vaccine-military-army.html">Military Grants Few Coronavirus Vaccine Exemptions as Deadlines Loom</a> NYT: The majority of active-duty troops have gotten a mandatory coronavirus vaccine ahead of deadline, with religious-based exemptions largely dismissed. 
  <p class="updated_time"> 06:55 PM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/02/us/politics/charlottesville-trial-holocaust.html">Holocaust Scholar to Testify at Charlottesville Trial</a> NYT: In a Charlottesville courtroom, Deborah E. Lipstadt will testify to the persistence of antisemitism, and its links to present-day politics. 
- <p class="updated_time"> 06:24 PM CT, Nov. 02 </p> 
- <a href="https://www.nytimes.com/2021/11/02/us/politics/conservatives-new-york-gun-law.html">Prominent Conservatives Back Letting States Limit Guns in Public</a> NYT: A brief filed in a major gun control case to be heard on Wednesday by the Supreme Court argued that limits on the public carrying of weapons were consistent with the Second Amendment. 
  <p class="updated_time"> 06:21 PM CT, Nov. 02 </p> 
  <a href="https://www.politico.com/news/2021/11/02/josh-hawley-state-department-nominees-confirmation-518642">Josh Hawley blocks confirmation of several State Dept. nominees</a> Politico: The Republican senator, who is unhappy about the withdrawal from Afghanistan, objected to eight of the nine nominations Democrats sought to unanimously approve. 
  <p class="updated_time"> 06:14 PM CT, Nov. 02 </p> 
