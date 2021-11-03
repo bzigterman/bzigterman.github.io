@@ -7,14 +7,16 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:09 AM CT, Nov. 03 </p> 
+ <a href="https://www.nytimes.com/2021/11/03/world/australia/missing-cleo-smith.html">Cleo Smith, 4, Is Found 18 Days After She Vanishes in Australia</a> NYT: Cleo Smith disappeared in the dead of night while camping with her family in a remote area of Australia. She was found “alive and well” in a locked house, and a man was detained. 
+ <p class="updated_time"> 03:02 AM CT, Nov. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59143627?at_medium=RSS&at_campaign=KARANGA">Ethiopia's Tigray crisis: Report says war crimes may have been committed</a> BBC: All sides in the Tigray conflict have violated international human rights, a new report says. 
  <p class="updated_time"> 02:46 AM CT, Nov. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59144293?at_medium=RSS&at_campaign=KARANGA">Glenn Youngkin: Win for Republican in Virginia governor vote</a> BBC: Glenn Youngkin's victory is a blow for Joe Biden, who won the state in the presidential election. 
  <p class="updated_time"> 02:35 AM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/asia/china-metoo-peng-shuai-zhang-gaoli.html">China's Peng Shuai Makes #MeToo Claim Against Zhang Gaoli</a> NYT: Peng Shuai’s accusation against Zhang Gaoli takes the country’s budding #MeToo movement to the top echelons of the Communist Party for the first time. 
  <p class="updated_time"> 02:06 AM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/south-africa-coal-renewables.html">South Africa to Get $8.5 billion to Shift From Coal to Renewables</a> NYT: Developing nations have long said they need aid from wealthy countries to shift to renewable energy. South Africa may show how that would work in practice. 
- <p class="updated_time"> 01:33 AM CT, Nov. 03 </p> 
- <a href="https://www.nytimes.com/2021/11/03/world/australia/missing-cleo-smith.html">Cleo Smith, 4, Is Found 18 Days After She Vanishes in Australia</a> NYT: Cleo Smith had disappeared while camping with her family in a remote area of Australia. She was found “alive and well” in a locked house, and a man was detained. 
  <p class="updated_time"> 12:55 AM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/europe/belgium-congo-kidnapping.html">Torn From Parents in the Belgian Congo, Women Seek Reparations</a> NYT: Belgium has apologized for the kidnapping and deportation of thousands of mixed-race children under its colonial rule. Survivors say that reparations should be the next step. 
  <p class="updated_time"> 12:23 AM CT, Nov. 03 </p> 
@@ -97,8 +99,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/science-environment-59140269?at_medium=RSS&at_campaign=KARANGA">My day at COP26: 'My island home is threatened - we have no hill to run to'</a> BBC: Kathy Jetn̄il-Kijiner, a poet and activist, is at COP26 as a climate envoy for the Marshall Islands in the Pacific Ocean. 
  <p class="updated_time"> 11:43 AM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/02/world/israel-energy-minister-cop26-wheelchair-access.html">Karine Elharrar, Israel's Energy Minister, Couldn't Attend COP26 Events in Her Wheelchair</a> NYT: NA 
- <p class="updated_time"> 11:40 AM CT, Nov. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-59092935?at_medium=RSS&at_campaign=KARANGA">Auschwitz tattoo stamp auction in Jerusalem sparks fury</a> BBC: Tools used to brand inmates at the Nazi death camp are being auctioned, angering Jewish leaders. 
  <p class="updated_time"> 11:35 AM CT, Nov. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59134431?at_medium=RSS&at_campaign=KARANGA">Ethiopia's Tigray crisis: Citizens urged to defend Addis Ababa against rebels</a> BBC: Addis Ababa residents are told to register weapons and protect areas as rebels advance. 
  <p class="updated_time"> 11:19 AM CT, Nov. 02 </p> 
