@@ -7,10 +7,16 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:45 PM CT, Nov. 03 </p> 
+ <a href="https://www.nytimes.com/2021/11/03/world/europe/cop26-climate-change-finance-industry.html"> Financial Industry, With $130 Trillion, to Pursue Climate Goals </a> NYT: The pledge would transform the international financial system, but critics say it falls short on fossil fuels. 
+ <p class="updated_time"> 12:42 PM CT, Nov. 03 </p> 
+ <a href="https://www.nytimes.com/2021/11/03/world/europe/cop26-summit-lines.html">COP26 Summit Attendees Frustrated With Long Lines and Access</a> NYT: One veteran of the annual gathering described it as the “poorest planed” to date. A young American activist called it a “hellscape.” 
+ <p class="updated_time"> 12:42 PM CT, Nov. 03 </p> 
+ <a href="https://www.nytimes.com/2021/11/01/world/europe/cop26-glasgow-biden-climate.html">At COP26 Summit, Urgent Pleas to Combat Global Warning</a> NYT: The opening day of a climate summit was heavy on dire warnings and light on substantive proposals as leaders in Glasgow met to discuss a warming world. 
+ <p class="updated_time"> 12:42 PM CT, Nov. 03 </p> 
+ <a href="https://www.nytimes.com/2021/11/02/world/europe/cop26-jeff-bezos-climate.html">Jeff Bezos Makes $2 Billion Environmental Pledge at COP26 Summit</a> NYT: The billionaire called the loss of Earth’s forests “a profound and urgent danger to us all.” 
  <p class="updated_time"> 12:28 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/europe/cop26-greenwashing-protest.html">Protesters March Against ‘Greenwashing' at COP26</a> NYT: As the focus of the Glasgow summit turns to funding, protesters call for greater accountability for companies’ climate promises. 
- <p class="updated_time"> 12:27 PM CT, Nov. 03 </p> 
- <a href="https://www.nytimes.com/2021/11/01/world/europe/cop26-glasgow-biden-climate.html">At COP26 Summit, Urgent Pleas to Combat Global Warning</a> NYT: The opening day of a climate summit was heavy on dire warnings and light on substantive proposals as leaders in Glasgow met to discuss a warming world. 
  <p class="updated_time"> 12:27 PM CT, Nov. 03 </p> 
  <a href="https://www.bbc.co.uk/news/technology-59149651?at_medium=RSS&at_campaign=KARANGA">NSO Group: Israeli spyware company added to US trade blacklist</a> BBC: NSO Group, which makes the Pegasus spyware, acted against US interests, officials say. 
  <p class="updated_time"> 12:19 PM CT, Nov. 03 </p> 
@@ -37,8 +43,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/03/world/australia/missing-cleo-smith.html">Cleo Smith, 4, Is Found 18 Days After She Vanishes in Australia</a> NYT: Cleo Smith disappeared one night while camping with her family in a remote area of Australia. She was found “alive and well” in a locked house, and a man was detained. 
  <p class="updated_time"> 11:04 AM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/australia/australia-scott-morrison-cop26.html">What Did Scott Morrison, Australia's Leader, Accomplish at COP26?</a> NYT: Prime Minister Scott Morrison did not announce any firm plans to move away from the country’s deep investment in fossil fuel production. 
- <p class="updated_time"> 11:03 AM CT, Nov. 03 </p> 
- <a href="https://www.nytimes.com/2021/11/03/world/europe/cop26-summit-lines.html">COP26 Summit Attendees Frustrated With Long Lines and Access</a> NYT: One veteran of the annual gathering described it as the “poorest planed” to date. A young American activist called it a “hellscape.” 
  <p class="updated_time"> 10:52 AM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/africa/ethiopia-war-un-report.html">Atrocities on All Sides in Ethiopia, U.N. Says as Rebels Advance</a> NYT: The United Nations report on the civil war, released as Tigrayan rebels near the capital, was written under significant constraints imposed by the government. 
  <p class="updated_time"> 10:47 AM CT, Nov. 03 </p> 
@@ -61,12 +65,14 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/business-59147390?at_medium=RSS&at_campaign=KARANGA">Mark Carney at COP26: Countries should have a carbon price</a> BBC: Carbon taxes will not happen overnight, the UK prime minister’s finance adviser for COP26 says. 
  <p class="updated_time"> 09:08 AM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/europe/global-energy-alliance-fund-cop26.html">New $10.5 Billion Fund Aims to Spur Green Energy in Poor Countries</a> NYT: Its backers say it will jump-start investments in clean energy that would not otherwise draw private investors. 
- <p class="updated_time"> 09:07 AM CT, Nov. 03 </p> 
- <a href="https://www.nytimes.com/2021/11/03/world/europe/cop26-climate-change-finance-industry.html"> Financial Industry, With $130 Trillion, to Pursue Climate Goals </a> NYT: The pledge would transform the international financial system, but critics say it falls short on fossil fuels. 
  <p class="updated_time"> 09:06 AM CT, Nov. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59149035?at_medium=RSS&at_campaign=KARANGA">Hijab campaign tweets pulled by Council of Europe after French backlash</a> BBC: The Council of Europe released the posts for a campaign against anti-Muslim discrimination. 
  <p class="updated_time"> 08:41 AM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/americas/brazil-presents-itself-as-part-of-the-solution-but-critics-see-a-climate-scofflaw.html">Brazil presents itself as part of the solution, but critics see a climate scofflaw.</a> NYT: NA 
+ <p class="updated_time"> 08:31 AM CT, Nov. 03 </p> 
+ <a href="https://www.wsj.com/articles/cop26-negotiators-make-progress-on-carbon-trading-rules-11635959365">COP26 Negotiators Make Progress on Carbon-Trading Rules</a> WSJ: A U.N.-backed framework for cross-border carbon markets could foster a system long sought by many businesses. 
+ <p class="updated_time"> 08:03 AM CT, Nov. 03 </p> 
+ <a href="https://www.wsj.com/articles/french-australian-ties-deteriorate-in-wake-of-u-s-submarine-pact-11635959019">French-Australian Ties Deteriorate In Wake of U.S. Submarine Pact</a> WSJ: Paris and Canberra trade barbs over September’s deal for Washington to share submarine technology with Australia. 
  <p class="updated_time"> 07:10 AM CT, Nov. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59144556?at_medium=RSS&at_campaign=KARANGA">Cleo Smith: How Australian police found the missing four-year-old</a> BBC: The discovery of the girl follows a huge search operation covering a remote part of Australia. 
  <p class="updated_time"> 07:07 AM CT, Nov. 03 </p> 
@@ -93,8 +99,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/02/us/politics/biden-cop26.html">Biden Tries to Reassert American Leadership, and His Own</a> NYT: President Biden hoped his personal style of politicking could help him build global consensus on fighting climate change. But as he has learned in Washington, charm offensives have their limits. 
  <p class="updated_time"> 04:00 AM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/asia/squid-game-korea-bts.html">From BTS to ‘Squid Game’: How South Korea Became a Cultural Juggernaut</a> NYT: The country was once largely known for cars and smartphones, but a global audience has become mesmerized by its entertainment, and creators say success didn’t happen overnight. 
- <p class="updated_time"> 03:33 AM CT, Nov. 03 </p> 
- <a href="https://www.wsj.com/articles/financial-system-makes-big-promises-on-climate-change-at-cop26-summit-11635897675">Financial System Makes Big Promises on Climate Change at COP26 Summit</a> WSJ: The global finance industry, its regulators and investors pledged trillions in funding to reduce carbon emissions. 
  <p class="updated_time"> 03:17 AM CT, Nov. 03 </p> 
  <a href="https://www.wsj.com/articles/military-coups-in-africa-at-highest-level-since-end-of-colonialism-11635941829">Military Coups in Africa at Highest Level Since End of Colonialism</a> WSJ: Sudan’s military coup—the fourth in Africa this year—underscores the increasingly complex international backdrop that is helping fuel a surge in military takeovers that have almost disappeared in other parts of the globe. 
  <p class="updated_time"> 02:35 AM CT, Nov. 03 </p> 
@@ -127,8 +131,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/02/science/climate-change-archaeology.html">As Earth Warms, Old Mayhem and Secrets Emerge From the Ice</a> NYT: Climate change is revealing long-frozen artifacts and animals to archaeologists. But the window for study is slender and shrinking. 
  <p class="updated_time"> 03:45 PM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/02/world/americas/brazil-climate.html">Once a Climate Leader, Brazil Falls Short in Glasgow</a> NYT: The country’s proposals show a desire to burnish its image, but President Jair Bolsonaro’s record and his absence from the summit cast doubt on its commitment to reversing course. 
- <p class="updated_time"> 03:06 PM CT, Nov. 02 </p> 
- <a href="https://www.nytimes.com/2021/11/02/world/europe/cop26-jeff-bezos-climate.html">Jeff Bezos Makes $2 Billion Environmental Pledge at COP26 Summit</a> NYT: The billionaire called the loss of Earth’s forests “a profound and urgent danger to us all.” 
  <p class="updated_time"> 02:43 PM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/02/world/middleeast/palestinian-jerusalem-eviction-jarrah.html">Palestinian Families Reject Deal in Area That Helped Set Off Gaza Conflict</a> NYT: The threatened evictions of Palestinian residents of the Sheikh Jarrah neighborhood of East Jerusalem led to a war in Gaza last May. 
  <p class="updated_time"> 02:25 PM CT, Nov. 02 </p> 
@@ -161,8 +163,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/01/world/europe/queen-elizabeth-cop26.html"> Queen Elizabeth Urges Climate Action in COP26 Video</a> NYT: The 95-year-old monarch gave her address by video, after doctors advised her to rest and not go to the summit. Prince Charles attended and delivered a similar message. 
  <p class="updated_time"> 02:00 AM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/02/business/car-shortage-global-economy.html">How Car Shortages Are Putting the Economy at Risk</a> NYT: Because so many jobs depend on automaking, the industry’s production problems are causing the pain to ripple. 
- <p class="updated_time"> 01:49 AM CT, Nov. 02 </p> 
- <a href="https://www.wsj.com/articles/cop26-leaders-agree-to-end-deforestation-by-2030-11635844937">Leaders Agree to End Deforestation by 2030</a> WSJ: World leaders at the COP26 summit, including the U.S., China and Brazil, agreed to a deal aimed at ending and then reversing deforestation by 2030, committing nearly $20 billion of public and private funds to protect and restore forests. 
  <p class="updated_time"> 07:05 PM CT, Nov. 01 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-58961286?at_medium=RSS&at_campaign=KARANGA">Climate change: Should we save or exploit the vanishing Amazon?</a> BBC: The BBC's Orla Guerin meets four Amazon-dwellers with differing views on the rainforest's protection. 
 
@@ -270,8 +270,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/10/28/iowa-new-congressional-map-517485">Iowa approves new congressional map with 3 competitive districts</a> Politico: Former President Donald Trump narrowly carried each of the three swing seats under the new lines. 
  <p class="updated_time"> 04:58 PM CT, Oct. 28 </p> 
  <a href="https://www.politico.com/news/2021/10/28/budget-deal-democrats-biden-framework-517469">Your guide to the huge Dem deal: 14 new policies and what could stop them</a> Politico: Democrats revealed a framework for a $1.75 trillion spending deal, but areas such as health care, child care and climate change are missing major party priorities. 
- <p class="updated_time"> 02:41 PM CT, Oct. 28 </p> 
- <a href="https://www.politico.com/news/2021/10/28/liberals-weigh-settling-for-half-a-loaf-517456">Liberals weigh their options: Settle for half a loaf, or fight</a> Politico: President Joe Biden and Democratic leaders are asking for their votes on a $1.75 trillion social spending blueprint. They're not totally sold yet. 
  <p class="updated_time"> 05:44 AM CT, Oct. 28 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/10/28/biden-launches-rescue-mission-before-rome-494881">POLITICO Playbook: Biden launches rescue mission before Rome</a> Politico: And Biden prepares for his overseas trip. 
 
