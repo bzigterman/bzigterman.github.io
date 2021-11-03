@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:01 PM CT, Nov. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59153059?at_medium=RSS&at_campaign=KARANGA">Lockerbie bombing: Libya could work with US on extradition</a> BBC: Its foreign minister is "positive" in the case of a man wanted by the US over the 1988 plane bombing. 
  <p class="updated_time"> 01:56 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/europe/cop26-climate-change-finance-industry.html"> Financial Industry, With $130 Trillion, to Pursue Climate Goals </a> NYT: The pledge would transform the international financial system, but critics say it falls short on fossil fuels. 
  <p class="updated_time"> 01:54 PM CT, Nov. 03 </p> 
@@ -107,8 +109,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/if-you-dont-have-money-you-have-sisters-afghan-men-use-taliban-rule-to-settle-scores-11635937324">Afghan Men Use Taliban Rule to Victimize Women, Settle Scores</a> WSJ: Since the Taliban’s takeover of Afghanistan, women across the country say they have had to flee or marry family friends to avoid being forcibly married off. 
  <p class="updated_time"> 01:46 AM CT, Nov. 03 </p> 
  <a href="https://www.wsj.com/articles/how-the-financial-sector-is-addressing-climate-change-and-why-it-matters-11635936383">Financial Sector's Role in Solving Climate Change</a> WSJ: At COP26 in Glasgow, former central banker Mark Carney worked to reach global agreements with the financial sector to use their sway to reduce emissions. Here are some of the key points and what they mean. 
- <p class="updated_time"> 12:23 AM CT, Nov. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-59143494?at_medium=RSS&at_campaign=KARANGA">Cleo Smith: Missing 4-year-old found alive in Australia</a> BBC: Four-year-old Cleo Smith is found more than two weeks after vanishing from an Australian campsite. 
  <p class="updated_time"> 11:35 PM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/02/world/middleeast/gaza-wedding-debt-prison.html">Men in Gaza Imprisoned Over Wedding Loans</a> NYT: Like many men in Gaza, Wasfi al-Garosha regularly returns to prison for failing to repay a wedding loan. His trip back, always on foot, reveals much about the stresses of life in the Strip. 
  <p class="updated_time"> 09:27 PM CT, Nov. 02 </p> 
