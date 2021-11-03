@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:09 PM CT, Nov. 03 </p> 
+ <a href="https://www.nytimes.com/2021/11/03/climate/al-gore-cop26.html">At COP26, Gore Says Satellite Emissions Monitoring Helps Climate-Change Fight</a> NYT: Real-time checks on where greenhouse gases are being produced may prove a powerful weapon in the fight to cool the earth. 
+ <p class="updated_time"> 02:53 PM CT, Nov. 03 </p> 
+ <a href="https://www.nytimes.com/2021/11/03/books/booker-prize-winner-damon-galgut-the-promise.html">Damon Galgut Wins Booker Prize for ‘The Promise’</a> NYT: The novelist, shortlisted for two of his previous books, received one of the world’s most prestigious literary awards for his cutting depiction of a white family in post-apartheid South Africa. 
  <p class="updated_time"> 02:53 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/africa/ethiopia-war-un-report.html">Ethiopia’s Leader Vows to ‘Bury This Enemy,’ Even as Rebels Advance</a> NYT: A United Nations report, released as Tigrayan rebels near the capital, documents atrocities on all sides in a year-old civil war. 
  <p class="updated_time"> 02:32 PM CT, Nov. 03 </p> 
@@ -21,8 +25,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59144293?at_medium=RSS&at_campaign=KARANGA">Glenn Youngkin: Win for Republican in Virginia governor vote</a> BBC: Glenn Youngkin's victory is a blow for Joe Biden, who won the state in the presidential election. 
  <p class="updated_time"> 01:46 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/europe/cop26-greenwashing-protest.html">Protesters March Against ‘Greenwashing' at COP26</a> NYT: As the focus of the Glasgow summit turns to funding, protesters call for greater accountability for companies’ climate promises. 
- <p class="updated_time"> 01:01 PM CT, Nov. 03 </p> 
- <a href="https://www.nytimes.com/2021/11/03/climate/al-gore-cop26.html">At COP26, Gore Says Satellite Emissions Monitoring Helps Climate-Change Fight</a> NYT: Real-time checks on where greenhouse gases are being produced may prove a powerful weapon in the fight to cool the earth. 
  <p class="updated_time"> 12:50 PM CT, Nov. 03 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59146864?at_medium=RSS&at_campaign=KARANGA">Alec Baldwin shares post defending Rust film set safety</a> BBC: The actor shares a post from Rust's costume designer following the death of Halyna Hutchins. 
  <p class="updated_time"> 12:42 PM CT, Nov. 03 </p> 
@@ -65,6 +67,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-latin-america-59149728?at_medium=RSS&at_campaign=KARANGA">Galapagos marine reserve: Conservationists hail expansion</a> BBC: Conservationists say the move will protect migration routes for many endangered species. 
  <p class="updated_time"> 10:06 AM CT, Nov. 03 </p> 
  <a href="https://www.bbc.co.uk/news/59135899?at_medium=RSS&at_campaign=KARANGA">COP26: What's the climate impact of private jets?</a> BBC: World leaders' use of private jets to attend the climate summit has been called into question. 
+ <p class="updated_time"> 10:04 AM CT, Nov. 03 </p> 
+ <a href="https://www.wsj.com/articles/chinese-tennis-stars-accusation-against-retired-top-leader-causes-a-stir-online-11635966240">Chinese Tennis Star's Accusation Against Retired Top Leader Causes Online Stir</a> WSJ: Professional athlete Peng Shuai’s post alleging sexual assault by former Vice Premier Zhang Gaoli disappeared after about 20 minutes, but the claim has turned a spotlight on perceived abuses by powerful political figures. 
  <p class="updated_time"> 09:56 AM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/02/world/asia/afghanistan-kabul-hospital-attack.html">Dozens Killed in ISIS Attack on Military Hospital in Afghanistan’s Capital</a> NYT: The fall of the Western-backed government in August and the Taliban takeover of the country have been followed by an increase in Islamic State attacks across Afghanistan. 
  <p class="updated_time"> 09:36 AM CT, Nov. 03 </p> 
@@ -139,8 +143,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/59136545?at_medium=RSS&at_campaign=KARANGA">Deforestation: Which countries are still cutting down trees?</a> BBC: World leaders have pledged to stop and reverse deforestation. How do their records stack up? 
  <p class="updated_time"> 01:42 PM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/02/world/john-kerry-climate-aid-cop26.html">John Kerry Says $100 Billion in Climate Aid Per Year Is Within Reach</a> NYT: John Kerry, the American special climate envoy, said the United States had rejoined the a coalition of countries pushing for more aggressive action. 
- <p class="updated_time"> 01:41 PM CT, Nov. 02 </p> 
- <a href="https://www.wsj.com/articles/biden-says-xi-putin-cede-climate-influence-by-missing-glasgow-summit-11635888947">Biden Says Xi, Putin Cede Climate Influence by Missing Glasgow Summit</a> WSJ: The comments marked the second time in recent days that President Biden had singled out Chinese President Xi Jinping and Russian President Vladimir Putin for not attending the climate summit in person. 
  <p class="updated_time"> 01:01 PM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/02/world/europe/united-states-russia-william-burns.html">U.S.-Russia Engagement Deepens as C.I.A. Head Travels to Moscow</a> NYT: It was at least the fourth trip to Moscow since July by a senior American official as the two sides seek to stabilize a volatile relationship. 
  <p class="updated_time"> 12:25 PM CT, Nov. 02 </p> 
@@ -153,8 +155,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/02/world/europe/deforestation-climate-change.html">How the COP26 Deforestation Pledge Measures Up</a> NYT: As the world stares down the barrel of climate catastrophe and a worsening biodiversity crisis, the forests that are remain are crucial. 
  <p class="updated_time"> 08:15 AM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/02/world/asia/china-food-shortages-winter.html">China Urges Families to Stock up on Food for Winter</a> NYT: State-run news media said that the directives were to prepare for emergencies like coronavirus lockdowns as the country pursues its “zero Covid” policy. 
- <p class="updated_time"> 07:03 AM CT, Nov. 02 </p> 
- <a href="https://www.nytimes.com/2021/11/01/world/americas/cop26-indigenous-txai-surui.html">From the Amazon to Glasgow: An Indigenous activist says, ‘We have no more time.’</a> NYT: Txai Suruí told world leaders at COP26 that their timetables for reducing carbon emissions and scaling back the use of fossil fuels were inadequate. 
  <p class="updated_time"> 06:57 AM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/02/world/americas/cop26-galapagos-islands.html">Ecuador Vows at COP26 to Create Marine Reserve for Galápagos Islands</a> NYT: President Guillermo Lasso said his government had agreed with Ecuador’s fishery, tourism and conservation sectors to establish a marine reserve of more than 23,000 square miles. 
  <p class="updated_time"> 06:13 AM CT, Nov. 02 </p> 
@@ -174,12 +174,12 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
- <p class="updated_time"> 02:50 PM CT, Nov. 03 </p> 
+ <p class="updated_time"> 03:16 PM CT, Nov. 03 </p> 
+ <a href="https://www.nytimes.com/2021/11/03/business/media/smartmatic-newsmax-oan.html">Smartmatic Sues Newsmax and One America News Network, Claiming Defamation</a> NYT: Smartmatic, an election technology company that faced baseless accusations of rigging the 2020 election, has filed a similar lawsuit against Fox News. 
+ <p class="updated_time"> 02:54 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/us/politics/rescind-medals-wounded-knee-massacre.html">Lawmakers Ask Biden to Rescind Medals for Wounded Knee Massacre</a> NYT: Seventeen members of Congress said they believed it was within President Biden’s authority to revoke Medals of Honor “when appropriate.” 
  <p class="updated_time"> 02:28 PM CT, Nov. 03 </p> 
  <a href="https://www.politico.com/news/2021/11/03/senate-republicans-voting-reform-block-519082">Senate GOP blocks latest Dem push for voting reform</a> Politico: Alaska Sen. Lisa Murkowski was the only Republican to join Democrats on the voting bill named for the late Rep. John Lewis (D-Ga.). 
- <p class="updated_time"> 01:47 PM CT, Nov. 03 </p> 
- <a href="https://www.nytimes.com/2021/11/03/business/media/smartmatic-newsmax-oan.html">Smartmatic Sues Newsmax and One America News Network, Claiming Defamation</a> NYT: Smartmatic, an election technology company that faced baseless accusations of rigging the 2020 election, has filed a similar lawsuit against Fox News. 
  <p class="updated_time"> 01:44 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/business/economy/fed-taper-bond-buying.html">Federal Reserve Announces Plan to Slow Bond Buying Program</a> NYT: The Federal Reserve is dealing with high inflation at a time when millions of workers remain on the job market’s sidelines. 
  <p class="updated_time"> 12:40 PM CT, Nov. 03 </p> 
