@@ -386,6 +386,12 @@ html {
 </table>
 </div>
 
+## Illinois
+
+![Flash Index]({{ site.baseurl }}/plots/plots/il_flash_index.png)
+
+Source: [Institute of Government and Public Affairs at the University of Illinois](https://igpa.uillinois.edu/page/flash-index-archive).
+
 ## United States
 
 ![Unemployment Rate]({{ site.baseurl }}/plots/unemployment_rate.png)
