@@ -31,6 +31,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/03/world/europe/global-energy-alliance-fund-cop26.html">New $10.5 Billion Fund Aims to Spur Green Energy in Poor Countries</a> NYT: Its backers say it will jump-start investments in clean energy that would not otherwise draw private investors. 
  <p class="updated_time"> 09:07 AM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/europe/cop26-climate-change-finance-industry.html"> Financial Industry, With $130 Trillion, to Pursue Climate Goals </a> NYT: The pledge would transform the international financial system, but critics say it falls short on fossil fuels. 
+ <p class="updated_time"> 09:06 AM CT, Nov. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59149035?at_medium=RSS&at_campaign=KARANGA">Hijab campaign tweets pulled by Council of Europe after French backlash</a> BBC: The Council of Europe released the posts for a campaign against anti-Muslim discrimination. 
  <p class="updated_time"> 08:48 AM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/europe/cop26-greenwashing-protest.html">Protesters March Against ‘Greenwashing' at COP26</a> NYT: As the focus of the Glasgow summit turns to funding, protesters call for greater accountability for companies’ climate promises. 
  <p class="updated_time"> 08:44 AM CT, Nov. 03 </p> 
@@ -121,8 +123,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/biden-says-xi-putin-cede-climate-influence-by-missing-glasgow-summit-11635888947">Biden Says Xi, Putin Cede Climate Influence by Missing Glasgow Summit</a> WSJ: The comments marked the second time in recent days that President Biden had singled out Chinese President Xi Jinping and Russian President Vladimir Putin for not attending the climate summit in person. 
  <p class="updated_time"> 01:01 PM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/02/world/europe/united-states-russia-william-burns.html">U.S.-Russia Engagement Deepens as C.I.A. Head Travels to Moscow</a> NYT: It was at least the fourth trip to Moscow since July by a senior American official as the two sides seek to stabilize a volatile relationship. 
- <p class="updated_time"> 12:28 PM CT, Nov. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59130948?at_medium=RSS&at_campaign=KARANGA">Polish abortion law protests over woman's hospital death</a> BBC: A family's lawyer links the death of a 30-year-old mother to tighter abortion laws. 
  <p class="updated_time"> 12:25 PM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/02/world/asia/china-slander-law.html">China Makes It a Crime to Mock Country's Heroes</a> NYT: Under a new law, China has zealously prosecuted even the perceived slander of Communist figures, broadening Xi Jinping’s campaign to dominate party orthodoxy. 
  <p class="updated_time"> 12:02 PM CT, Nov. 02 </p> 
