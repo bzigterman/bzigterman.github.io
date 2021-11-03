@@ -7,6 +7,12 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:47 PM CT, Nov. 02 </p> 
+ <a href="https://www.nytimes.com/2021/11/03/world/australia/missing-cleo-smith.html">Cleo Smith, 4, Is Found 18 Days After She Vanishes in Australia</a> NYT: The 4-year-old had disappeared while camping with her family in a remote area of Australia. She was found “alive and well” in a locked house. 
+ <p class="updated_time"> 11:35 PM CT, Nov. 02 </p> 
+ <a href="https://www.nytimes.com/2021/11/02/world/middleeast/gaza-wedding-debt-prison.html">Men in Gaza Imprisoned Over Wedding Loans</a> NYT: Like many men in Gaza, Wasfi al-Garosha regularly returns to prison for failing to repay a wedding loan. His trip back, always on foot, reveals much about the stresses of life in the Strip. 
+ <p class="updated_time"> 11:32 PM CT, Nov. 02 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-59143494?at_medium=RSS&at_campaign=KARANGA">Cleo Smith: Missing 4-year-old found alive in Australia</a> BBC: Four-year-old Cleo Smith is found alive more than two weeks after vanishing from an Australian campsite. 
  <p class="updated_time"> 11:10 PM CT, Nov. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59144293?at_medium=RSS&at_campaign=KARANGA">Glenn Youngkin: Republican leads in Virginia governor race</a> BBC: A Republican gain in a state won comfortably by Mr Biden a year ago would unnerve his Democrats. 
  <p class="updated_time"> 09:31 PM CT, Nov. 02 </p> 
@@ -15,8 +21,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/02/world/biden-cop26-climate-change-pledge.html">Biden Pledges $3 Billion to Help the World Adapt to Climate Change</a> NYT: The amount is half as much as what was recently proposed for a six-mile sea wall to protect Miami from the Atlantic Ocean. 
  <p class="updated_time"> 09:27 PM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/biden-emissions-cop26-glasgow.html">Biden Calls for Tougher Actions on Emissions at COP26</a> NYT: “We have only a brief window” to avoid the most disastrous effects of global warming, President Biden warned at the United Nations climate summit. 
- <p class="updated_time"> 09:27 PM CT, Nov. 02 </p> 
- <a href="https://www.nytimes.com/2021/10/31/climate/climate-change-biden-cop26.html">At Climate Talks, Biden Will Try to Sell American Leadership to Skeptics</a> NYT: The president wants to assure Glasgow’s climate summit that the U.S. is serious about climate change. But he lacks a legislative win at home. 
  <p class="updated_time"> 08:30 PM CT, Nov. 02 </p> 
  <a href="https://www.bbc.co.uk/news/business-59093560?at_medium=RSS&at_campaign=KARANGA">Australia jobs: 'The staffing issue is impossible'</a> BBC: Can free flights and rent lure the foreign workers back to Australia who quit when Covid arrived? 
  <p class="updated_time"> 07:43 PM CT, Nov. 02 </p> 
@@ -29,8 +33,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-india-59130556?at_medium=RSS&at_campaign=KARANGA">T20 World Cup: When Indian fans are jailed for celebrating Pakistan's win</a> BBC: The arrest of Muslims for cheering Pakistan's cricket win sparks concerns about freedom of speech in India. 
  <p class="updated_time"> 07:05 PM CT, Nov. 02 </p> 
  <a href="https://www.bbc.co.uk/news/business-59059092?at_medium=RSS&at_campaign=KARANGA">Border closures threaten Hong Kong's financial hub status</a> BBC: As countries in the region reopen, the city is now one of the most closed places in the world. 
- <p class="updated_time"> 06:45 PM CT, Nov. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-59143494?at_medium=RSS&at_campaign=KARANGA">Cleo Smith: Missing 4-year-old found alive in Australia</a> BBC: Four-year-old Cleo Smith is found alive more than two weeks after vanishing from an Australian campsite. 
  <p class="updated_time"> 06:13 PM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/02/technology/facebook-facial-recognition.html">Facebook Plans to Shut Down Its Facial Recognition System</a> NYT: Saying it wants “to find the right balance” with the technology, the social network will delete the face scan data of more than one billion users. 
  <p class="updated_time"> 05:39 PM CT, Nov. 02 </p> 
@@ -68,8 +70,6 @@ permalink: /projects/news/
  <p class="updated_time"> 01:41 PM CT, Nov. 02 </p> 
  <a href="https://www.wsj.com/articles/biden-says-xi-putin-cede-climate-influence-by-missing-glasgow-summit-11635888947">Biden Says Xi, Putin Cede Climate Influence by Missing Glasgow Summit</a> WSJ: The comments marked the second time in recent days that President Biden had singled out Chinese President Xi Jinping and Russian President Vladimir Putin for not attending the climate summit in person. 
  <p class="updated_time"> 01:28 PM CT, Nov. 02 </p> 
- <a href="https://www.nytimes.com/2021/11/02/climate/cop26-deforestation.html">Global Leaders Pledge to End Deforestation by 2030</a> NYT: The landmark agreement reflects a growing recognition of nature’s role in helping to address global warming. Still, critics said it wasn’t ambitious enough. 
- <p class="updated_time"> 01:28 PM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/01/sports/women-beach-handball-bikini.html">Handball Federation Ends Bikini Bottom Requirement for Women</a> NYT: After outrage over a fine levied against the Norwegian women’s beach handball team for competing in shorts, the sport’s international federation said it was changing its rules. 
  <p class="updated_time"> 01:22 PM CT, Nov. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59133079?at_medium=RSS&at_campaign=KARANGA">Ex-Fifa president Blatter and ex-Uefa boss Platini charged with fraud</a> BBC: Sepp Blatter and Michel Platini, former world and European football heads, are charged with fraud. 
@@ -81,8 +81,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-59135169?at_medium=RSS&at_campaign=KARANGA">COP26: South Africa hails deal to end reliance on coal</a> BBC: More than 80% of South Africa's power is generated with coal - its sulphur smell polluting large areas. 
  <p class="updated_time"> 12:52 PM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/john-kerry-cop26.html">John Kerry Plays Down COP26 Expectations</a> NYT: “Glasgow was never ever going to get every country joining up,” Mr. Kerry said. He’s already looking to next year to build on pledges that nations have made and push them to do more. 
- <p class="updated_time"> 12:49 PM CT, Nov. 02 </p> 
- <a href="https://www.nytimes.com/2021/11/02/sports/soccer/fifa-blatter-platini-fraud-charges.html">Former FIFA Officials Face Fraud Charges Over Secret Payment</a> NYT: Sepp Blatter is accused of breaking Swiss law in approving a $2 million payment from soccer’s governing body to a onetime ally, Michel Platini. 
  <p class="updated_time"> 12:28 PM CT, Nov. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59130948?at_medium=RSS&at_campaign=KARANGA">Polish abortion law protests over woman's hospital death</a> BBC: A family's lawyer links the death of a 30-year-old mother to tighter abortion laws. 
  <p class="updated_time"> 12:25 PM CT, Nov. 02 </p> 
@@ -136,8 +134,6 @@ permalink: /projects/news/
  <p class="updated_time"> 02:24 AM CT, Nov. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59128683?at_medium=RSS&at_campaign=KARANGA">COP26 Bangladesh: If tidal surges destroy our house, where will we go?</a> BBC: How villagers in Bangladesh's coastal areas are struggling with the impact of climate change. 
  <p class="updated_time"> 02:00 AM CT, Nov. 02 </p> 
- <a href="https://www.nytimes.com/2021/11/02/world/middleeast/gaza-wedding-debt-prison.html">Men in Gaza Imprisoned Over Wedding Loans</a> NYT: Like many men in Gaza, Wasfi al-Garosha regularly returns to prison for failing to repay a wedding loan. His trip back, always on foot, reveals much about the stresses of life in the Strip. 
- <p class="updated_time"> 02:00 AM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/02/business/car-shortage-global-economy.html">How Car Shortages Are Putting the Economy at Risk</a> NYT: Because so many jobs depend on automaking, the industry’s production problems are causing the pain to ripple. 
  <p class="updated_time"> 01:53 AM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/asia/pakistan-protests-negotiations-tlp.html">After Violent Standoff, Pakistan Strikes Deal With Banned Islamist Group</a> NYT: The pact, announced Sunday, defused a crisis that had paralyzed several cities, but it also highlighted the government’s struggle to assert itself against religious extremists. 
@@ -179,10 +175,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/01/world/europe/climate-conference-kicks-off-in-glasgow-with-floods-and-low-expectations.html">Climate conference kicks off in Glasgow with floods and low expectations.</a> NYT: NA 
  <p class="updated_time"> 03:00 AM CT, Nov. 01 </p> 
  <a href="https://www.nytimes.com/2021/11/01/world/michael-bloomberg-announces-an-effort-to-shut-down-coal-in-25-countries.html">Michael Bloomberg announces an effort to shut down coal in 25 countries.</a> NYT: NA 
- <p class="updated_time"> 11:23 PM CT, Oct. 31 </p> 
- <a href="https://www.nytimes.com/2021/10/31/world/biden-g20-covid-climate.html">Struggling at Home, Biden Is Buoyed by G20 Trip Abroad</a> NYT: A trip to Rome invigorated a president whose poll numbers are slumping at home, but who projected confidence in his foreign and domestic agenda. 
- <p class="updated_time"> 05:39 PM CT, Oct. 31 </p> 
- <a href="https://www.nytimes.com/2021/10/31/world/americas/brazil-police-kill-25-bank-gang.html">Brazilian Police Kill 25 Accused of Planning Bank Heists</a> NYT: The police say an operation against a gang planning bank robberies killed at least 25 suspects in the Brazilian state of Minas Gerais on Sunday. 
 
 
 </details>
