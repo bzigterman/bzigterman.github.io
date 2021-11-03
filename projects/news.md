@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:25 AM CT, Nov. 03 </p> 
+ <a href="https://www.nytimes.com/2021/11/03/world/africa/ethiopia-war-un-report.html">Atrocities on All Sides in Ethiopia’s War, U.N. Says as Rebels Advance</a> NYT: The United Nations report, released during a state of emergency as rebel forces near the capital, was written under significant constraints imposed by the government. 
  <p class="updated_time"> 07:10 AM CT, Nov. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59144556?at_medium=RSS&at_campaign=KARANGA">Cleo Smith: How Australian police found the missing four-year-old</a> BBC: The discovery of the girl follows a huge search operation covering a remote part of Australia. 
  <p class="updated_time"> 07:08 AM CT, Nov. 03 </p> 
@@ -17,8 +19,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59147487?at_medium=RSS&at_campaign=KARANGA">Sophie Pétronin: Search for French ex-hostage who returned to Mali</a> BBC: Sophie Pétronin, 76, was freed in October 2020 but returned to Mali despite being refused a visa. 
  <p class="updated_time"> 06:53 AM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/yellen-green-bonds-climate-change.html">U.S. to Provide $500 Million for Green Bonds, Yellen Says</a> NYT: The Treasury secretary said wealthy countries had pledged billions of dollars to tackle climate change, but the real cost is in the trillions. 
- <p class="updated_time"> 06:50 AM CT, Nov. 03 </p> 
- <a href="https://www.nytimes.com/2021/11/03/world/africa/ethiopia-war-un-report.html">Atrocities on All Sides in Ethiopia’s War, U.N. Says as Rebels Advance</a> NYT: The United Nations report, released during a state of emergency as rebel forces near the capital, was written under significant constraints imposed by the government. 
  <p class="updated_time"> 06:49 AM CT, Nov. 03 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59146864?at_medium=RSS&at_campaign=KARANGA">Alec Baldwin shares post defending Rust film set safety</a> BBC: The actor shares a post from Rust's costume designer following the death of Halyna Hutchins. 
  <p class="updated_time"> 06:47 AM CT, Nov. 03 </p> 
@@ -37,6 +37,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/02/world/europe/climate-summit-methane-forests.html">With Methane and Forest Deals, Climate Summit Offers Hope After Gloomy Start</a> NYT: Agreements to reduce methane gas emissions and protect the world’s forests were reached Tuesday at the U.N.-sponsored meeting, as President Biden chided the leaders of Russia and China for not showing up. 
  <p class="updated_time"> 05:14 AM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/europe/cop26-climate-change-finance-industry.html"> Financial Industry, With $130 Trillion, to Pursue Climate Goals </a> NYT: The pledge would transform the international financial system, but critics say it falls short on fossil fuels. 
+ <p class="updated_time"> 04:58 AM CT, Nov. 03 </p> 
+ <a href="https://www.nytimes.com/2021/11/03/climate/ban-ki-moon-green-economy.html">Governments Must Invest in Jobs in Green Economy, Ban Ki-moon Says.</a> NYT: His comments come amid rising concern that transitioning to a greener economy could provoke a backlash if the cost falls to low- and middle-income people. 
  <p class="updated_time"> 04:39 AM CT, Nov. 03 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-58874518?at_medium=RSS&at_campaign=KARANGA">What is net zero and how are the UK and other countries doing?</a> BBC: Experts have recommended developed countries adopt targets to reduce emissions to net zero by 2050. 
  <p class="updated_time"> 04:19 AM CT, Nov. 03 </p> 
@@ -115,8 +117,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/02/world/europe/united-states-russia-william-burns.html">U.S.-Russia Engagement Deepens as C.I.A. Head Travels to Moscow</a> NYT: It was at least the fourth trip to Moscow since July by a senior American official as the two sides seek to stabilize a volatile relationship. 
  <p class="updated_time"> 12:52 PM CT, Nov. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59135169?at_medium=RSS&at_campaign=KARANGA">COP26: South Africa hails deal to end reliance on coal</a> BBC: More than 80% of South Africa's power is generated with coal - its sulphur smell polluting large areas. 
- <p class="updated_time"> 12:52 PM CT, Nov. 02 </p> 
- <a href="https://www.nytimes.com/2021/11/01/world/john-kerry-cop26.html">John Kerry Plays Down COP26 Expectations</a> NYT: “Glasgow was never ever going to get every country joining up,” Mr. Kerry said. He’s already looking to next year to build on pledges that nations have made and push them to do more. 
  <p class="updated_time"> 12:28 PM CT, Nov. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59130948?at_medium=RSS&at_campaign=KARANGA">Polish abortion law protests over woman's hospital death</a> BBC: A family's lawyer links the death of a 30-year-old mother to tighter abortion laws. 
  <p class="updated_time"> 12:25 PM CT, Nov. 02 </p> 
@@ -180,12 +180,12 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:46 AM CT, Nov. 03 </p> 
+ <a href="https://www.nytimes.com/2021/11/02/us/politics/election-results-polls-closing.html">Races to Watch on Election Day</a> NYT: The Virginia governor’s race will be closely studied for clues about the midterms, and new mayors will be chosen in New York, Boston, Buffalo, Atlanta and more. 
  <p class="updated_time"> 05:17 AM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/02/us/politics/conservatives-new-york-gun-law.html">Prominent Conservatives Back Letting States Limit Guns in Public</a> NYT: A brief filed in a major gun control case to be heard on Wednesday by the Supreme Court argued that limits on the public carrying of weapons were consistent with the Second Amendment. 
  <p class="updated_time"> 05:10 AM CT, Nov. 03 </p> 
  <a href="https://www.politico.com/news/2021/11/03/democrats-biden-agenda-election-results-518935">Dems vow to plow forward on Biden agenda, even after election faceplants</a> Politico: “I don’t think this complicates passage. I think it helps accelerate it.” 
- <p class="updated_time"> 04:30 AM CT, Nov. 03 </p> 
- <a href="https://www.nytimes.com/2021/11/02/us/politics/election-results-polls-closing.html">Races to Watch on Election Day</a> NYT: The Virginia governor’s race will be closely studied for clues about the midterms, and new mayors will be chosen in New York, Boston, Buffalo, Atlanta and more. 
  <p class="updated_time"> 04:06 AM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/02/us/politics/biden-cop26.html">Biden Tries to Reassert American Leadership, and His Own</a> NYT: President Biden hoped his personal style of politicking could help him build global consensus on fighting climate change. But as he has learned in Washington, charm offensives have their limits. 
  <p class="updated_time"> 04:00 AM CT, Nov. 03 </p> 
