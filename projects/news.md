@@ -7,8 +7,10 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
- <p class="updated_time"> 07:01 AM CT, Nov. 04 </p> 
- <a href="https://www.nytimes.com/2021/11/04/world/europe/uk-merck-pill-molnupravir.html">The U.K. approves Merck’s molnupiravir, making it the first pill to be endorsed for treating Covid.</a> NYT: The British authorities said that the antiviral drug was “safe and effective” in reducing the risk of hospitalization and death for those at increased risk of severe symptoms. 
+ <p class="updated_time"> 08:11 AM CT, Nov. 04 </p> 
+ <a href="https://www.nytimes.com/2021/11/04/world/europe/uk-merck-pill-molnupravir.html"> The U.K. Approves Merck's Covid Pill</a> NYT: The British authorities said that the antiviral drug was “safe and effective” in reducing the risk of hospitalization and death for those at increased risk of severe symptoms. 
+ <p class="updated_time"> 07:42 AM CT, Nov. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59160525?at_medium=RSS&at_campaign=KARANGA">Covid: Record German cases as WHO warns of Europe deaths</a> BBC: Almost 34,000 cases are reported in Germany as the WHO warns of half a million more deaths in Europe. 
  <p class="updated_time"> 06:24 AM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/world/australia/charge-cleo-smith.html">Cleo Smith Abduction: Australian Man Is Charged After 18-Day Search </a> NYT: The legal action came as the Australian authorities continued to address questions about how the police had been able to find Cleo Smith, who vanished from a remote campsite. 
  <p class="updated_time"> 06:05 AM CT, Nov. 04 </p> 
@@ -129,8 +131,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/03/business/economy/biden-trade-policy-steel.html">European Steel Plan Shows Biden’s Bid to Merge Climate and Trade Policy</a> NYT: A potential agreement on steel trade provides the clearest look yet at how the Biden administration plans to implement a trade policy that is both protectionist and progressive 
  <p class="updated_time"> 11:28 AM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/yellen-green-bonds-climate-change.html">U.S. to Provide $500 Million for Green Bonds, Yellen Says</a> NYT: Ms. Yellen said wealthy countries had pledged billions of dollars to tackle climate change, but the real cost is in the trillions. 
- <p class="updated_time"> 11:25 AM CT, Nov. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-59149698?at_medium=RSS&at_campaign=KARANGA">Peng Shuai: Chinese tennis star makes sexual assault claims</a> BBC: It is the first time sexual assault allegations have been made against a senior Chinese leader. 
  <p class="updated_time"> 10:47 AM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/asia/sunao-tsuboi-dead.html">Sunao Tsuboi, 96, Dies; Hiroshima Victim Who Lived to Tell His Story</a> NYT: After suffering through the agony of the attack and its aftermath, he devoted himself to spreading the message that nuclear weapons should be abolished. 
  <p class="updated_time"> 10:30 AM CT, Nov. 03 </p> 
