@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:45 AM CT, Nov. 04 </p> 
+ <a href="https://www.nytimes.com/2021/11/03/us/mayor-eric-garcetti-of-los-angeles-tests-positive-for-the-virus.html">Mayor Eric Garcetti of Los Angeles tests positive for the virus.</a> NYT: Mr. Garcetti’s office said the mayor, who is in Scotland for a conference on climate change, was feeling good and had been fully vaccinated. 
  <p class="updated_time"> 08:36 AM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/world/australia/charge-cleo-smith.html">Cleo Smith Abduction: Australian Man Is Charged After 18-Day Search </a> NYT: The legal action came as the Australian authorities continued to address questions about how the police had been able to find Cleo Smith, who vanished from a remote campsite. 
  <p class="updated_time"> 08:19 AM CT, Nov. 04 </p> 
@@ -31,8 +33,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/03/world/australia/australia-scott-morrison-cop26.html">What Did Scott Morrison, Australia's Leader, Accomplish at COP26?</a> NYT: Prime Minister Scott Morrison did not announce any firm plans to move away from the country’s deep investment in fossil fuel production. 
  <p class="updated_time"> 04:46 AM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/uk-fossil-fuel-coal-cop26.html">18 Countries to Phase Out Coal, According to Leaked Document</a> NYT: The countries, banks and other organizations that make up a new coalition will commit to ending all investment in new coal power generation domestically and internationally. 
- <p class="updated_time"> 04:46 AM CT, Nov. 04 </p> 
- <a href="https://www.nytimes.com/2021/11/03/world/mayor-eric-garcetti-of-los-angeles-tests-positive-for-the-virus.html">Mayor Eric Garcetti of Los Angeles tests positive for the virus.</a> NYT: Mr. Garcetti’s office said the mayor, who is in Scotland for a conference on climate change, was feeling good and had been fully vaccinated. 
  <p class="updated_time"> 04:45 AM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/europe/global-energy-alliance-fund-cop26.html">New $10.5 Billion Fund Aims to Spur Green Energy in Poor Countries</a> NYT: Its backers say it will jump-start investments in clean energy that would not otherwise draw private investors. 
  <p class="updated_time"> 04:44 AM CT, Nov. 04 </p> 
