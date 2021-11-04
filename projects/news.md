@@ -7,12 +7,14 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:05 PM CT, Nov. 04 </p> 
+ <a href="https://www.nytimes.com/2021/11/04/world/africa/ethiopia-tigray-crackdown.html">Crackdown Sweeps Ethiopia’s Capital as War Draws Near</a> NYT: Government forces were going to door to door in the Ethiopian capital, rounding up ethnic Tigrayans, members of the same ethnic group as the rebels closing in. 
  <p class="updated_time"> 02:33 PM CT, Nov. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59166081?at_medium=RSS&at_campaign=KARANGA">South Africa municipal elections: Who are the winners and losers?</a> BBC: The party of Nelson Mandela gets less than 50% nationwide for the first time since the end of apartheid. 
  <p class="updated_time"> 02:32 PM CT, Nov. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59161936?at_medium=RSS&at_campaign=KARANGA">Somizi Mhlongo: Gay TV star cancels Zimbabwe trip after churches complain</a> BBC: Somizi Mhlongo cancels a trip after a religious coalition tried to ban him because of his sexuality. 
  <p class="updated_time"> 01:54 PM CT, Nov. 04 </p> 
- <a href="https://www.nytimes.com/2021/11/04/world/europe/britain-france-johnson-macron.html">Bitterness Over Brexit Lies Behind Fraying France-U.K. Relations</a> NYT: A recent dispute over fishing rights illuminates a broader and more fundamental disagreement over Britain’s decision to leave the European Union. 
+ <a href="https://www.nytimes.com/2021/11/04/world/europe/brexit-britain-france-johnson-macron.html">Bitterness Over Brexit Lies Behind Fraying France-U.K. Relations</a> NYT: A recent dispute over fishing rights illuminates a broader and more fundamental disagreement over Britain’s decision to leave the European Union. 
  <p class="updated_time"> 01:39 PM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/europe/belgium-congo-kidnapping.html">Torn From Parents in the Belgian Congo, Women Seek Reparations</a> NYT: Belgium has apologized for the kidnapping and deportation of thousands of mixed-race children under its colonial rule. Survivors say that reparations should be the next step. 
  <p class="updated_time"> 01:33 PM CT, Nov. 04 </p> 
@@ -75,8 +77,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-australia-59162188?at_medium=RSS&at_campaign=KARANGA">Cleo Smith: Australian man charged over four-year-old's abduction</a> BBC: The four-year-old was found in a locked home 18 days after disappearing while on holiday with family. 
  <p class="updated_time"> 05:32 AM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/asia/china-metoo-peng-shuai-zhang-gaoli.html">China's Peng Shuai Makes #MeToo Claim Against Zhang Gaoli</a> NYT: Peng Shuai’s accusation against Zhang Gaoli takes the country’s budding #MeToo movement to the top echelons of the Communist Party for the first time. 
- <p class="updated_time"> 05:26 AM CT, Nov. 04 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-56901261?at_medium=RSS&at_campaign=KARANGA">COP26: What is the Glasgow climate conference and why is it important?</a> BBC: A crucial climate change summit is being held in the UK - this is why it's important. 
  <p class="updated_time"> 04:53 AM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/australia/australia-scott-morrison-cop26.html">What Did Scott Morrison, Australia's Leader, Accomplish at COP26?</a> NYT: Prime Minister Scott Morrison did not announce any firm plans to move away from the country’s deep investment in fossil fuel production. 
  <p class="updated_time"> 04:46 AM CT, Nov. 04 </p> 
@@ -169,8 +169,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/03/world/asia/squid-game-korea-bts.html">From BTS to ‘Squid Game’: How South Korea Became a Cultural Juggernaut</a> NYT: The country was once largely known for cars and smartphones, but a global audience has become mesmerized by its entertainment, and creators say success didn’t happen overnight. 
  <p class="updated_time"> 02:13 AM CT, Nov. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59146086?at_medium=RSS&at_campaign=KARANGA">Cleo Smith: Missing four-year-old found alive weeks after vanishing</a> BBC: Cleo Smith disappeared from her family's tent at a campsite in Western Australia 18 days ago. 
- <p class="updated_time"> 06:13 PM CT, Nov. 02 </p> 
- <a href="https://www.nytimes.com/2021/11/02/technology/facebook-facial-recognition.html">Facebook Plans to Shut Down Its Facial Recognition System</a> NYT: Saying it wants “to find the right balance” with the technology, the social network will delete the face scan data of more than one billion users. 
  <p class="updated_time"> 05:13 PM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/02/world/africa/ethiopia-state-of-emergency.html">Ethiopia Declares State of Emergency as Rebels Advance Toward Capital</a> NYT: In a milestone in the yearlong conflict, the government called on civilians to arm themselves and defend Addis Ababa after Tigrayan forces captured two towns nearby. 
  <p class="updated_time"> 04:24 PM CT, Nov. 02 </p> 
@@ -188,7 +186,13 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
- <p class="updated_time"> 02:56 PM CT, Nov. 04 </p> 
+ <p class="updated_time"> 03:12 PM CT, Nov. 04 </p> 
+ <a href="https://www.nytimes.com/2021/11/04/us/politics/atlanta-mayor-runoff-felicia-moore.html">Felicia Moore, Andre Dickens Will Compete for Atlanta Mayor; Kasim Reed Falls Short</a> NYT: Two candidates, Felicia Moore and Andre Dickens, will compete in a runoff on Nov. 30. 
+ <p class="updated_time"> 03:01 PM CT, Nov. 04 </p> 
+ <a href="https://www.nytimes.com/2021/11/03/us/politics/democrat-losses-2022.html">Reeling From Surprise Losses, Democrats Sound the Alarm for 2022</a> NYT: Party officials say the White House and Congress must do more to address the electorate’s deep malaise or risk watching voters lurch back toward the G.O.P. by default. 
+ <p class="updated_time"> 03:01 PM CT, Nov. 04 </p> 
+ <a href="https://www.nytimes.com/2021/11/04/us/politics/biden-donors-white-house.html">Why Big Donors to Biden's 2020 Campaign Are Frustrated</a> NYT: Some of the top Democratic contributors have become increasingly frustrated with a lack of communication from the White House — and impatient with inaction on voting rights. 
+ <p class="updated_time"> 02:57 PM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/us/politics/igor-danchenko-arrested-steele-dossier.html">Authorities Arrest Analyst Who Contributed to Steele Dossier</a> NYT: Igor Danchenko, a Russia analyst who worked with Christopher Steele, the author of a dossier of rumors and unproven assertions about Donald J. Trump, was indicted as part of the Durham investigation. 
  <p class="updated_time"> 02:54 PM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/article/vaccine-mandate-biden-osha.html">OSHA's Vaccine Mandate: Your Questions Answered</a> NYT: We’re answering your questions about the new OSHA rules for employers with 100 or more workers. This F.A.Q. was last updated at 3:30 p.m. 
@@ -196,8 +200,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/04/us/politics/trump-jan-6-documents.html">Judge Questions Trump’s Grounds for Keeping Jan. 6 Documents Secret</a> NYT: In a hearing on Thursday, a federal judge voiced skepticism about the former president’s claim that hundreds of pages of documents related to the riot should be shielded by executive privilege. 
  <p class="updated_time"> 02:41 PM CT, Nov. 04 </p> 
  <a href="https://www.politico.com/news/2021/11/04/house-megabill-passage-manchin-last-word-519570">Manchin will get last word, even as House races to pass megabill</a> Politico: House Democratic leaders and progressives want to speed toward passage of a bill that won't have a smooth ride through the Senate. 
- <p class="updated_time"> 02:40 PM CT, Nov. 04 </p> 
- <a href="https://www.nytimes.com/2021/11/04/us/politics/atlanta-mayor-runoff-felicia-moore.html">Felicia Moore, Andre Dickens Will Compete for Atlanta Mayor; Kasim Reed Falls Short</a> NYT: Two candidates, Felicia Moore and Andre Dickens, will compete in a runoff on Nov. 30. 
  <p class="updated_time"> 02:26 PM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/us/politics/robert-santos-census-bureau.html">Robert Santos Confirmed as First Latino to Lead Census Bureau</a> NYT: The confirmation on Thursday brings a permanent head to the agency after a turbulent period under the Trump administration. 
  <p class="updated_time"> 02:16 PM CT, Nov. 04 </p> 
@@ -206,8 +208,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/04/us/politics/democrats-spending-bill-budget-tricks.html">Democrats Employ Budget Gimmicks They Once Derided</a> NYT: Budget experts say true cost of legislation could be $4 trillion as lawmakers rely on sleights of hand to bring down the price tag. 
  <p class="updated_time"> 01:35 PM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/us/politics/house-democrats-biden.html">House Democrats Hunt for Votes to Pass Biden’s Domestic Agenda</a> NYT: Speaker Nancy Pelosi wants a vote as soon as Thursday night on a $1.85 trillion social policy and climate bill, but moderates are pushing back. 
- <p class="updated_time"> 01:16 PM CT, Nov. 04 </p> 
- <a href="https://www.nytimes.com/2021/11/04/us/politics/biden-donors-white-house.html">Why Big Donors to Biden's 2020 Campaign Are Frustrated</a> NYT: Some of the top Democratic contributors have become increasingly frustrated with a lack of communication from the White House — and impatient with inaction on voting rights. 
  <p class="updated_time"> 11:54 AM CT, Nov. 04 </p> 
  <a href="https://www.politico.com/news/2021/11/04/pelosi-domestic-agenda-519503">Pelosi aims to push domestic agenda double-whammy, despite centrist holdouts</a> Politico: Moderate Democrats still have concerns over immigration reforms and whether the bill will be fully paid for. 
  <p class="updated_time"> 11:49 AM CT, Nov. 04 </p> 
@@ -220,8 +220,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/03/us/politics/air-force-reaches-vaccine-deadline.html">U.S. Air Force Has a 97 Percent Vaccine Rate for Active Duty Troops</a> NYT: While the Air Force has the earliest deadline, active duty members in all branches are nearing their goals — until Reserve and National Guard forces are counted. 
  <p class="updated_time"> 11:26 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/us/politics/rescind-medals-wounded-knee-massacre.html">Lawmakers Ask Biden to Rescind Medals for Wounded Knee Massacre</a> NYT: Seventeen members of Congress said they believed it was within President Biden’s authority to revoke Medals of Honor “when appropriate.” 
- <p class="updated_time"> 11:00 PM CT, Nov. 03 </p> 
- <a href="https://www.nytimes.com/2021/11/03/us/politics/democrat-losses-2022.html">Reeling From Surprise Losses, Democrats Sound the Alarm for 2022</a> NYT: Party officials say the White House and Congress must do more to address the electorate’s deep malaise or risk watching voters lurch back toward the G.O.P. by default. 
  <p class="updated_time"> 08:37 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/us/politics/biden-rejects-payments-migrants.html">Biden Rejects $450,000 Payments for Separated Migrants</a> NYT: “That’s not going to happen,” the president said about proposed compensation for a Trump administration policy that divided thousands of parents and children. 
  <p class="updated_time"> 07:53 PM CT, Nov. 03 </p> 
