@@ -7,12 +7,14 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:47 AM CT, Nov. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-england-london-59049960?at_medium=RSS&at_campaign=KARANGA">European manhunt for London burglaries that targeted celebrities</a> BBC: Alfredo Lindley is accused of involvement in burglaries that targeted stars including Frank Lampard. 
  <p class="updated_time"> 12:33 AM CT, Nov. 04 </p> 
  <a href="https://www.bbc.co.uk/news/health-59148620?at_medium=RSS&at_campaign=KARANGA">HPV vaccine cutting cervical cancer by nearly 90%</a> BBC: Researchers say regular cervical screening may not be necessary because of the success of the vaccine. 
- <p class="updated_time"> 12:23 AM CT, Nov. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-59144556?at_medium=RSS&at_campaign=KARANGA">Cleo Smith: How Australian police found the missing four-year-old</a> BBC: The discovery of the girl follows a huge search operation covering a remote part of Australia. 
  <p class="updated_time"> 11:39 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/australia/missing-cleo-smith.html">Cleo Smith, 4, Is Found 18 Days After She Vanishes in Australia</a> NYT: Cleo Smith disappeared one night while camping with her family in a remote area of Australia. She was found “alive and well” in a locked house, and a man was detained. 
+ <p class="updated_time"> 11:16 PM CT, Nov. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-59159331?at_medium=RSS&at_campaign=KARANGA">Charges likely in Australia child disappearance case</a> BBC: A 36-year-old man will likely be charged in connection with Cleo Smith's disappearance later today. 
  <p class="updated_time"> 10:52 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/asia/covaxin-covid-vaccine-who.html">Covaxin, Vaccine Developed in India, Gets W.H.O. Clearance</a> NYT: The vaccine is the eighth coronavirus vaccine to receive the global health body’s green light. 
  <p class="updated_time"> 10:32 PM CT, Nov. 03 </p> 
@@ -63,6 +65,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/02/world/europe/climate-summit-methane-forests.html">With Methane and Forest Deals, Climate Summit Offers Hope After Gloomy Start</a> NYT: Agreements to reduce methane gas emissions and protect the world’s forests were reached Tuesday at the U.N.-sponsored meeting, as President Biden chided the leaders of Russia and China for not showing up. 
  <p class="updated_time"> 03:09 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/climate/al-gore-cop26.html">At COP26, Gore Says Satellite Emissions Monitoring Helps Climate-Change Fight</a> NYT: Real-time checks on where greenhouse gases are being produced may prove a powerful weapon in the fight to cool the earth. 
+ <p class="updated_time"> 03:01 PM CT, Nov. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-59149960?at_medium=RSS&at_campaign=KARANGA">Damon Galgut wins Booker Prize with 'tour de force' novel The Promise</a> BBC: South African author Damon Galgut wins the prestigious literary award at the third attempt. 
  <p class="updated_time"> 03:00 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/article/ethiopia-tigray-conflict-explained.html">Why Is Ethiopia at War in the Tigray Region? </a> NYT: The civil war has shifted dramatically since Prime Minister Abiy Ahmed began a military campaign in the Tigray region a year ago. With Tigrayan fighters advancing toward the capital, Ethiopia is at risk of collapse. 
  <p class="updated_time"> 02:32 PM CT, Nov. 03 </p> 
@@ -91,10 +95,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/technology-59149651?at_medium=RSS&at_campaign=KARANGA">NSO Group: Israeli spyware company added to US trade blacklist</a> BBC: NSO Group, which makes the Pegasus spyware, acted against US interests, officials say. 
  <p class="updated_time"> 12:19 PM CT, Nov. 03 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59135039?at_medium=RSS&at_campaign=KARANGA">2021: A year of wild weather</a> BBC: If emissions continue rising, Europe can expect 50C heatwaves every three years, the Met Office says. 
- <p class="updated_time"> 12:12 PM CT, Nov. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59147487?at_medium=RSS&at_campaign=KARANGA">Sophie Pétronin: France criticises saved hostage who went back to Mali</a> BBC: Sophie Pétronin, 76, was freed in October 2020 but returned to Mali despite being refused a visa. 
- <p class="updated_time"> 12:08 PM CT, Nov. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59149228?at_medium=RSS&at_campaign=KARANGA">Nigeria's Ikoyi building collapse: Anger and frustration grows</a> BBC: At least 20 people are confirmed dead after a luxury apartment collapsed in Nigeria's biggest city Lagos. 
  <p class="updated_time"> 11:58 AM CT, Nov. 03 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59138692?at_medium=RSS&at_campaign=KARANGA">My Day at COP26: ‘My police dog doesn't care if Biden is here - he gets on with the job’</a> BBC: Sgt Lynsey Buchanan-Barlas and her dog Nico have been searching Glasgow’s streets for explosives ahead of COP26. 
  <p class="updated_time"> 11:49 AM CT, Nov. 03 </p> 
