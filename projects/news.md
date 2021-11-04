@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:51 AM CT, Nov. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59162469?at_medium=RSS&at_campaign=KARANGA">Erdogan: Turkey investigates posts about president's health</a> BBC: Police say disinformation about Recep Tayyip Erdogan has been spread, as his allies dismiss rumours. 
+ <p class="updated_time"> 10:47 AM CT, Nov. 04 </p> 
+ <a href="https://www.nytimes.com/2021/11/04/world/europe/germany-covid-surge-daily-case-record.html">Facing a New Surge, Germany Sets a Daily Virus Case Record</a> NYT: The country registered 33,949 new coronavirus cases over a 24-hour period on Wednesday, surpassing a high set in December of last year. 
  <p class="updated_time"> 10:46 AM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/science/astronomy-decadal-survey-telescope.html">A New 10-Year Plan for the Cosmos</a> NYT: On astronomers’ wish list for the next decade: two giant telescopes and a space telescope to search for life and habitable worlds beyond Earth. 
  <p class="updated_time"> 10:43 AM CT, Nov. 04 </p> 
@@ -15,8 +19,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/science-environment-58874518?at_medium=RSS&at_campaign=KARANGA">What is net zero and how are the UK and other countries doing?</a> BBC: Experts want countries to adopt targets to reduce emissions to net zero by 2050. 
  <p class="updated_time"> 10:08 AM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/world/middleeast/israel-budget.html">Israel Passes State Budget</a> NYT: The vote raised hopes that the country might be headed for a period of more political stability after the chaos of four elections in quick succession. 
- <p class="updated_time"> 10:07 AM CT, Nov. 04 </p> 
- <a href="https://www.nytimes.com/2021/11/04/world/europe/germany-covid-surge-daily-case-record.html">Facing a New Surge, Germany Sets a Daily Virus Case Record</a> NYT: The country registered 33,949 new coronavirus cases over a 24-hour period on Wednesday, surpassing a high set in December of last year. 
  <p class="updated_time"> 09:50 AM CT, Nov. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59162472?at_medium=RSS&at_campaign=KARANGA">Tom Vennink: Dutch dismay as Russia expels correspondent</a> BBC: Tom Vennink is barred from Russia until 2025 in a move criticised as an attack on media freedom. 
  <p class="updated_time"> 09:48 AM CT, Nov. 04 </p> 
@@ -39,8 +41,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59160525?at_medium=RSS&at_campaign=KARANGA">Covid: Record German cases as WHO warns of Europe deaths</a> BBC: Almost 34,000 cases are reported in Germany as the WHO warns of half a million more deaths in Europe. 
  <p class="updated_time"> 07:20 AM CT, Nov. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59162501?at_medium=RSS&at_campaign=KARANGA">Hundreds join violence against women protest in Mexico</a> BBC: Protesters carry crosses bearing the names of murdered women to draw attention to rising femicide cases. 
- <p class="updated_time"> 07:09 AM CT, Nov. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59162469?at_medium=RSS&at_campaign=KARANGA">Erdogan: Turkey investigates posts about president's health</a> BBC: Police say disinformation about Recep Tayyip Erdogan has been spread, as his allies dismiss rumours. 
  <p class="updated_time"> 06:31 AM CT, Nov. 04 </p> 
  <a href="https://www.wsj.com/articles/hong-kongs-top-court-narrows-scope-for-charging-protesters-11636027743">Hong Kong's Top Court Narrows Scope for Charging Protesters</a> WSJ: The city’s highest court ruled against the government in a rioting case, a decision likely to draw greater scrutiny from Beijing of the Chinese territory’s British-style justice system. 
  <p class="updated_time"> 06:23 AM CT, Nov. 04 </p> 
