@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:14 PM CT, Nov. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/world-59158568?at_medium=RSS&at_campaign=KARANGA">Amanda Knox on how she thinks her case would be viewed today</a> BBC: Amanda Knox talks about losing control of her identity during the Meredith Kercher murder investigation. 
+ <p class="updated_time"> 06:59 PM CT, Nov. 03 </p> 
+ <a href="https://www.nytimes.com/2021/11/03/business/nso-group-spyware-blacklist.html">U.S. Blacklists Israeli Firm NSO Group Over Spyware</a> NYT: The ban is the strongest step an American president has taken to curb abuses in the global market for spyware. 
  <p class="updated_time"> 06:41 PM CT, Nov. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59159008?at_medium=RSS&at_campaign=KARANGA">Biden rejects blame for shock Virginia election defeat</a> BBC: The president cites schools, jobs, petrol prices and "Trump voters" as reasons for the defeat. 
  <p class="updated_time"> 06:00 PM CT, Nov. 03 </p> 
@@ -73,8 +77,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59155674?at_medium=RSS&at_campaign=KARANGA">Halloween's over - what should I do with my costume?</a> BBC: We asked experts: how bad is Halloween textile waste and how can you avoid adding to it? 
  <p class="updated_time"> 11:46 AM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/business/economy/biden-trade-policy-steel.html">European Steel Plan Shows Biden’s Bid to Merge Climate and Trade Policy</a> NYT: A potential agreement on steel trade provides the clearest look yet at how the Biden administration plans to implement a trade policy that is both protectionist and progressive 
- <p class="updated_time"> 11:38 AM CT, Nov. 03 </p> 
- <a href="https://www.nytimes.com/2021/11/03/business/nso-group-spyware-blacklist.html">The U.S. blacklists the NSO Group, an Israeli spyware firm.</a> NYT: NSO and three other companies were added to a list that blocks foreign companies from buying certain types of sensitive American technology without a license. 
  <p class="updated_time"> 11:36 AM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/asia/covaxin-covid-vaccine-who.html">Covaxin, Vaccine Developed in India, Gets W.H.O. Clearance</a> NYT: The vaccine is the eighth coronavirus vaccine to receive the global health body’s green light. 
  <p class="updated_time"> 11:28 AM CT, Nov. 03 </p> 
@@ -103,8 +105,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/business-59147390?at_medium=RSS&at_campaign=KARANGA">Mark Carney at COP26: Countries should have a carbon price</a> BBC: Carbon taxes will not happen overnight, the UK prime minister’s finance adviser for COP26 says. 
  <p class="updated_time"> 09:08 AM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/europe/global-energy-alliance-fund-cop26.html">New $10.5 Billion Fund Aims to Spur Green Energy in Poor Countries</a> NYT: Its backers say it will jump-start investments in clean energy that would not otherwise draw private investors. 
- <p class="updated_time"> 09:06 AM CT, Nov. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59149035?at_medium=RSS&at_campaign=KARANGA">Hijab campaign tweets pulled by Council of Europe after French backlash</a> BBC: The Council of Europe released the posts for a campaign against anti-Muslim discrimination. 
  <p class="updated_time"> 08:41 AM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/americas/brazil-presents-itself-as-part-of-the-solution-but-critics-see-a-climate-scofflaw.html">Brazil presents itself as part of the solution, but critics see a climate scofflaw.</a> NYT: NA 
  <p class="updated_time"> 08:31 AM CT, Nov. 03 </p> 
@@ -188,6 +188,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:59 PM CT, Nov. 03 </p> 
+ <a href="https://www.nytimes.com/2021/11/03/business/nso-group-spyware-blacklist.html">U.S. Blacklists Israeli Firm NSO Group Over Spyware</a> NYT: The ban is the strongest step an American president has taken to curb abuses in the global market for spyware. 
  <p class="updated_time"> 06:46 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/us/politics/democrats-virginia-biden-congress.html">Democrats, Stung by Losses, Press Forward on Biden Agenda</a> NYT: Disappointed by a defeat in Virginia and a closer-than-expected race in New Jersey, Democrats were working toward quick action on key bills to show they could govern. 
  <p class="updated_time"> 06:40 PM CT, Nov. 03 </p> 
@@ -217,15 +219,13 @@ permalink: /projects/news/
  <p class="updated_time"> 02:54 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/us/politics/rescind-medals-wounded-knee-massacre.html">Lawmakers Ask Biden to Rescind Medals for Wounded Knee Massacre</a> NYT: Seventeen members of Congress said they believed it was within President Biden’s authority to revoke Medals of Honor “when appropriate.” 
  <p class="updated_time"> 02:28 PM CT, Nov. 03 </p> 
- <a href="https://www.politico.com/news/2021/11/03/senate-republicans-voting-reform-block-519082">Senate GOP blocks latest Dem push for voting reform</a> Politico: Alaska’s Lisa Murkowski was the only Republican to join Democrats on the voting bill named for the late Rep. John Lewis. 
+ <a href="https://www.politico.com/news/2021/11/03/senate-republicans-voting-reform-block-519082">Senate GOP blocks latest Dem push for voting reform</a> Politico: Alaska’s Lisa Murkowski was the only Republican to join Democrats on the bill named for the late Rep. John Lewis. 
  <p class="updated_time"> 12:38 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/us/politics/china-military-nuclear.html">China Could Have 1,000 Nuclear Warheads by 2030, Pentagon Says</a> NYT: Gen. Mark A. Milley, chairman of the Joint Chiefs of Staff, called Beijing the “No. 1” nation-state military challenger to the United States. 
  <p class="updated_time"> 12:36 PM CT, Nov. 03 </p> 
  <a href="https://www.politico.com/news/2021/11/03/democrats-virginia-congress-519051">Dems keep butting heads after Virginia shellacking</a> Politico: Most agreed that the dismal election results underscored the need to move past the infighting that’s defined their majorities for months. There’s hardly any agreement on much else. 
  <p class="updated_time"> 11:46 AM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/business/economy/biden-trade-policy-steel.html">European Steel Plan Shows Biden’s Bid to Merge Climate and Trade Policy</a> NYT: A potential agreement on steel trade provides the clearest look yet at how the Biden administration plans to implement a trade policy that is both protectionist and progressive 
- <p class="updated_time"> 11:38 AM CT, Nov. 03 </p> 
- <a href="https://www.nytimes.com/2021/11/03/business/nso-group-spyware-blacklist.html">The U.S. blacklists the NSO Group, an Israeli spyware firm.</a> NYT: NSO and three other companies were added to a list that blocks foreign companies from buying certain types of sensitive American technology without a license. 
  <p class="updated_time"> 11:03 AM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/us/politics/black-voters-virginia.html">Black voters in Virginia refuse to be blamed for a major Democratic defeat.</a> NYT: Black state leaders and voters said the results were a sign that the party could not rely on minority voters to cover its cratering totals in white areas of the state. 
  <p class="updated_time"> 10:11 AM CT, Nov. 03 </p> 
