@@ -34,7 +34,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:07 AM CT, Nov. 04 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59149960?at_medium=RSS&at_campaign=KARANGA">Damon Galgut wins Booker Prize with 'gripping' South Africa novel The Promise</a> BBC: Damon Galgut wins the prestigious literary award at the third attempt with his novel The Promise. 
  <p class="updated_time"> 04:00 AM CT, Nov. 04 </p> 
- <a href="https://www.nytimes.com/2021/11/04/world/europe/italy-trieste-covid-protests.html">Center of Italy’s Anti-Vaccine Protests Is Now a Covid Hot Spot</a> NYT: After leading the resistance to the government’s new health pass, the northeastern port city of Trieste is home to a worrying spike in cases. 
+ <a href="https://www.nytimes.com/2021/11/04/world/europe/italy-trieste-covid-protests.html">Trieste, Center of Italy’s Anti-Vaccine Protests, Is Now a Covid Hot Spot</a> NYT: After leading the resistance to the government’s new health pass, the northeastern port city of Trieste is home to a worrying spike in cases. 
  <p class="updated_time"> 03:58 AM CT, Nov. 04 </p> 
  <a href="https://www.bbc.co.uk/news/health-59148620?at_medium=RSS&at_campaign=KARANGA">HPV vaccine cutting cervical cancer by nearly 90%</a> BBC: Researchers say regular cervical screening may not be necessary because of the success of the vaccine. 
  <p class="updated_time"> 03:35 AM CT, Nov. 04 </p> 
