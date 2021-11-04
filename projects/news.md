@@ -7,12 +7,12 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:33 AM CT, Nov. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-59162188?at_medium=RSS&at_campaign=KARANGA">Cleo Smith: Australian man charged over four-year-old's abduction</a> BBC: The four-year-old was found in a locked home 18 days after disappearing whilst on holiday with her parents. 
  <p class="updated_time"> 04:18 AM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/africa/south-africa-coal-renewables.html">South Africa to Get $8.5 billion to Shift From Coal to Renewables</a> NYT: Developing nations have long said they need aid from wealthy countries to shift to renewable energy. South Africa may show how that would work in practice. 
  <p class="updated_time"> 04:16 AM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/02/world/europe/climate-summit-methane-forests.html">With Methane and Forest Deals, Climate Summit Offers Hope After Gloomy Start</a> NYT: Agreements to reduce methane gas emissions and protect the world’s forests were reached Tuesday at the U.N.-sponsored meeting, as President Biden chided the leaders of Russia and China for not showing up. 
- <p class="updated_time"> 04:15 AM CT, Nov. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-59162188?at_medium=RSS&at_campaign=KARANGA">Man charged over Cleo Smith abduction</a> BBC: Australian man charged with abduction of four-year-old Cleo Smith, who was rescued after disappearing for 18 days 
  <p class="updated_time"> 04:10 AM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/world/middleeast/israel-budget.html">Israel Passes State Budget</a> NYT: The vote raised hopes that the country might be headed for increased political stability after the chaos of four elections in quick succession. 
  <p class="updated_time"> 04:09 AM CT, Nov. 04 </p> 
@@ -35,6 +35,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/04/style/rangoli-art-diwali.html">The Art and Ritual of Rangoli</a> NYT: Making ornate floor art can be a celebratory act for festivals like Diwali and a meditative practice. 
  <p class="updated_time"> 01:47 AM CT, Nov. 04 </p> 
  <a href="https://www.bbc.co.uk/news/uk-england-london-59049960?at_medium=RSS&at_campaign=KARANGA">European manhunt for £26m London celebrity raids suspect</a> BBC: Alfredo Lindley is accused of involvement in burglaries that targeted stars including Frank Lampard. 
+ <p class="updated_time"> 12:31 AM CT, Nov. 04 </p> 
+ <a href="https://www.wsj.com/articles/military-coups-in-africa-at-highest-level-since-end-of-colonialism-11635941829">Military Coups in Africa at Highest Level Since End of Colonialism</a> WSJ: Sudan’s military coup—the fourth in Africa this year—underscores the increasingly complex international backdrop that is helping fuel a surge in military takeovers that have almost disappeared in other parts of the globe. 
  <p class="updated_time"> 11:39 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/australia/missing-cleo-smith.html">Cleo Smith, 4, Is Found 18 Days After She Vanishes in Australia</a> NYT: Cleo Smith disappeared one night while camping with her family in a remote area of Australia. She was found “alive and well” in a locked house, and a man was detained. 
  <p class="updated_time"> 10:52 PM CT, Nov. 03 </p> 
@@ -147,8 +149,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/science-environment-58874518?at_medium=RSS&at_campaign=KARANGA">What is net zero and how are the UK and other countries doing?</a> BBC: Experts have recommended developed countries adopt targets to reduce emissions to net zero by 2050. 
  <p class="updated_time"> 04:00 AM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/asia/squid-game-korea-bts.html">From BTS to ‘Squid Game’: How South Korea Became a Cultural Juggernaut</a> NYT: The country was once largely known for cars and smartphones, but a global audience has become mesmerized by its entertainment, and creators say success didn’t happen overnight. 
- <p class="updated_time"> 03:17 AM CT, Nov. 03 </p> 
- <a href="https://www.wsj.com/articles/military-coups-in-africa-at-highest-level-since-end-of-colonialism-11635941829">Military Coups in Africa at Highest Level Since End of Colonialism</a> WSJ: Sudan’s military coup—the fourth in Africa this year—underscores the increasingly complex international backdrop that is helping fuel a surge in military takeovers that have almost disappeared in other parts of the globe. 
  <p class="updated_time"> 02:35 AM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/asia/china-metoo-peng-shuai-zhang-gaoli.html">China's Peng Shuai Makes #MeToo Claim Against Zhang Gaoli</a> NYT: Peng Shuai’s accusation against Zhang Gaoli takes the country’s budding #MeToo movement to the top echelons of the Communist Party for the first time. 
  <p class="updated_time"> 02:13 AM CT, Nov. 03 </p> 
