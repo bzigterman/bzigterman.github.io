@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:22 AM CT, Nov. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-59159331?at_medium=RSS&at_campaign=KARANGA">Charges likely in Australia child disappearance case</a> BBC: A 36-year-old man will likely be charged in connection with Cleo Smith's disappearance later today. 
+ <p class="updated_time"> 02:10 AM CT, Nov. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/science-environment-59159018?at_medium=RSS&at_campaign=KARANGA">COP26: More than 40 countries pledge to quit coal</a> BBC: Big coal users like Poland and Vietnam vow to phase it out, but China, India and the US have not. 
  <p class="updated_time"> 02:00 AM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/style/rangoli-art-diwali.html">The Art and Ritual of Rangoli</a> NYT: Making ornate floor art can be a celebratory act for festivals like Diwali and a meditative practice. 
  <p class="updated_time"> 01:47 AM CT, Nov. 04 </p> 
@@ -15,8 +19,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/health-59148620?at_medium=RSS&at_campaign=KARANGA">HPV vaccine cutting cervical cancer by nearly 90%</a> BBC: Researchers say regular cervical screening may not be necessary because of the success of the vaccine. 
  <p class="updated_time"> 11:39 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/australia/missing-cleo-smith.html">Cleo Smith, 4, Is Found 18 Days After She Vanishes in Australia</a> NYT: Cleo Smith disappeared one night while camping with her family in a remote area of Australia. She was found “alive and well” in a locked house, and a man was detained. 
- <p class="updated_time"> 11:16 PM CT, Nov. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-59159331?at_medium=RSS&at_campaign=KARANGA">Charges likely in Australia child disappearance case</a> BBC: A 36-year-old man will likely be charged in connection with Cleo Smith's disappearance later today. 
  <p class="updated_time"> 10:52 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/asia/covaxin-covid-vaccine-who.html">Covaxin, Vaccine Developed in India, Gets W.H.O. Clearance</a> NYT: The vaccine is the eighth coronavirus vaccine to receive the global health body’s green light. 
  <p class="updated_time"> 10:32 PM CT, Nov. 03 </p> 
@@ -43,8 +45,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59075043?at_medium=RSS&at_campaign=KARANGA">Greeks fear megafires could be new normal for Med</a> BBC: On the Greek island of Evia last summer an intense conflagration took almost two weeks to control. 
  <p class="updated_time"> 07:56 PM CT, Nov. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59159008?at_medium=RSS&at_campaign=KARANGA">Biden rejects blame for shock Virginia election defeat</a> BBC: The president cites schools, jobs, petrol prices and "Trump voters" as reasons for the defeat. 
- <p class="updated_time"> 07:35 PM CT, Nov. 03 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-59159018?at_medium=RSS&at_campaign=KARANGA">COP26: 190 nations and organisations pledge to quit coal</a> BBC: Big coal users like Poland and Canada vow to phase it out, but key players China and India have not. 
  <p class="updated_time"> 07:24 PM CT, Nov. 03 </p> 
  <a href="https://www.bbc.co.uk/news/uk-59149435?at_medium=RSS&at_campaign=KARANGA">COP26: How protesters prepared for the Glasgow climate change summit</a> BBC: Since the COP26 climate change summit started, hundreds of protesters have taken to the city's streets. 
  <p class="updated_time"> 07:23 PM CT, Nov. 03 </p> 
