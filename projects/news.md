@@ -192,6 +192,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:10 AM CT, Nov. 04 </p> 
+ <a href="https://www.nytimes.com/2021/11/03/us/politics/school-republican-campaign-issue.html">Republicans Hit on Schools as a Wedge Issue to Unite the Party</a> NYT: Rallying around what it calls “parental rights,” the party is pushing to build on its victories this week by stoking white resentment and tapping into broader anger at the education system. 
  <p class="updated_time"> 05:29 AM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/03/us/politics/democrats-virginia-biden-congress.html">Democrats, Stung by Losses, Press Forward on Biden Agenda</a> NYT: Disappointed by a defeat in Virginia and a closer-than-expected race in New Jersey, Democrats were working toward quick action on key bills to show they could govern. 
  <p class="updated_time"> 05:29 AM CT, Nov. 04 </p> 
@@ -214,8 +216,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/03/business/nso-group-spyware-blacklist.html">U.S. Blacklists Israeli Firm NSO Group Over Spyware</a> NYT: The ban is the strongest step an American president has taken to curb abuses in the global market for spyware. 
  <p class="updated_time"> 06:40 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/business/economy/fed-taper-bond-buying.html">Federal Reserve Announces Plan to Slow Bond Buying Program</a> NYT: The Federal Reserve is dealing with high inflation at a time when millions of workers remain on the job market’s sidelines. Wednesday’s announcement that it will slow bond purchases is a step toward more normal monetary policy. 
- <p class="updated_time"> 06:37 PM CT, Nov. 03 </p> 
- <a href="https://www.nytimes.com/2021/11/03/us/politics/school-republican-campaign-issue.html">Republicans Pounce on Schools as a Wedge Issue to Unite the Party</a> NYT: Rallying around what it calls “parental rights,” the party is pushing to build on its victories this week by stoking white resentment and tapping into broader anger at the education system. 
  <p class="updated_time"> 06:23 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/us/elections/biden-virginia-nj.html">Biden Returns to U.S. Facing Challenges After Election</a> NYT: Republican gains on Election Day come at a vulnerable time for the president’s agenda. 
  <p class="updated_time"> 06:17 PM CT, Nov. 03 </p> 
