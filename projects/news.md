@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:00 AM CT, Nov. 04 </p> 
+ <a href="https://www.nytimes.com/2021/11/04/style/rangoli-art-diwali.html">The Art and Ritual of Rangoli</a> NYT: Making ornate floor art can be a celebratory act for festivals like Diwali and a meditative practice. 
  <p class="updated_time"> 01:47 AM CT, Nov. 04 </p> 
  <a href="https://www.bbc.co.uk/news/uk-england-london-59049960?at_medium=RSS&at_campaign=KARANGA">European manhunt for London burglaries that targeted celebrities</a> BBC: Alfredo Lindley is accused of involvement in burglaries that targeted stars including Frank Lampard. 
  <p class="updated_time"> 12:33 AM CT, Nov. 04 </p> 
@@ -139,6 +141,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/03/world/duterte-vows-to-punish-philippine-officials-for-slow-vaccine-delivery.html">Duterte vows to punish Philippine officials for slow vaccine delivery.</a> NYT: NA 
  <p class="updated_time"> 04:58 AM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/climate/ban-ki-moon-green-economy.html">Governments Must Invest in Jobs in Green Economy, Ban Ki-moon Says.</a> NYT: His comments come amid rising concern that transitioning to a greener economy could provoke a backlash if the cost falls to low- and middle-income people. 
+ <p class="updated_time"> 04:39 AM CT, Nov. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/science-environment-58874518?at_medium=RSS&at_campaign=KARANGA">What is net zero and how are the UK and other countries doing?</a> BBC: Experts have recommended developed countries adopt targets to reduce emissions to net zero by 2050. 
  <p class="updated_time"> 04:00 AM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/asia/squid-game-korea-bts.html">From BTS to ‘Squid Game’: How South Korea Became a Cultural Juggernaut</a> NYT: The country was once largely known for cars and smartphones, but a global audience has become mesmerized by its entertainment, and creators say success didn’t happen overnight. 
  <p class="updated_time"> 03:17 AM CT, Nov. 03 </p> 
@@ -149,12 +153,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-australia-59146086?at_medium=RSS&at_campaign=KARANGA">Cleo Smith: Missing four-year-old found alive weeks after vanishing</a> BBC: Cleo Smith disappeared from her family's tent at a campsite in Western Australia 18 days ago. 
  <p class="updated_time"> 02:02 AM CT, Nov. 03 </p> 
  <a href="https://www.wsj.com/articles/if-you-dont-have-money-you-have-sisters-afghan-men-use-taliban-rule-to-settle-scores-11635937324">Afghan Men Use Taliban Rule to Victimize Women, Settle Scores</a> WSJ: Since the Taliban’s takeover of Afghanistan, women across the country say they have had to flee or marry family friends to avoid being forcibly married off. 
- <p class="updated_time"> 11:35 PM CT, Nov. 02 </p> 
- <a href="https://www.nytimes.com/2021/11/02/world/middleeast/gaza-wedding-debt-prison.html">Men in Gaza Imprisoned Over Wedding Loans</a> NYT: Like many men in Gaza, Wasfi al-Garosha regularly returns to prison for failing to repay a wedding loan. His trip back, always on foot, reveals much about the stresses of life in the Strip. 
  <p class="updated_time"> 09:27 PM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/02/world/biden-cop26-climate-change-pledge.html">Biden Pledges $3 Billion to Help the World Adapt to Climate Change</a> NYT: The amount is half as much as what was recently proposed for a six-mile sea wall to protect Miami from the Atlantic Ocean. 
- <p class="updated_time"> 08:49 PM CT, Nov. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59144313?at_medium=RSS&at_campaign=KARANGA">Jacinda Ardern: 'We know we need to do more' to tackle climate change</a> BBC: Jacinda Ardern defends New Zealand's climate policies, and its role as a Pacific nation. 
  <p class="updated_time"> 06:13 PM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/02/technology/facebook-facial-recognition.html">Facebook Plans to Shut Down Its Facial Recognition System</a> NYT: Saying it wants “to find the right balance” with the technology, the social network will delete the face scan data of more than one billion users. 
  <p class="updated_time"> 05:13 PM CT, Nov. 02 </p> 
