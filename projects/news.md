@@ -7,6 +7,12 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:33 AM CT, Nov. 04 </p> 
+ <a href="https://www.nytimes.com/2021/11/03/us/hawaii-covid-restrictions-tourists-ige.html">Hawaii Eases Covid Restrictions and Reopens for Tourists</a> NYT: The state is eager for its vacation industry to rebound after a devastating 2020 season. 
+ <p class="updated_time"> 11:27 AM CT, Nov. 04 </p> 
+ <a href="https://www.nytimes.com/2021/11/04/climate/public-health-climate-change.html">Effort to Reframe Climate Change as a Health Crisis Gains Steam</a> NYT: Research has increasingly shown that warming is taking a deadly toll on human health. At the global climate summit in Glasgow, the issue has gained new prominence. 
+ <p class="updated_time"> 11:13 AM CT, Nov. 04 </p> 
+ <a href="https://www.nytimes.com/2021/11/04/world/middleeast/israel-budget.html">Israel Passes State Budget</a> NYT: The vote raised hopes that the country might be headed for a period of more political stability after the chaos of four elections in quick succession. 
  <p class="updated_time"> 10:51 AM CT, Nov. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59162469?at_medium=RSS&at_campaign=KARANGA">Erdogan: Turkey investigates posts about president's health</a> BBC: Police say disinformation about Recep Tayyip Erdogan has been spread, as his allies dismiss rumours. 
  <p class="updated_time"> 10:47 AM CT, Nov. 04 </p> 
@@ -17,8 +23,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/04/world/asia/diwali-india.html">India's Diwali Celebrations Draw Large Crowds Despite Covid Concerns</a> NYT: More than 680,000 people have traveled across the country as health experts cautioned that large-scale gatherings might fuel a wave of infections. 
  <p class="updated_time"> 10:31 AM CT, Nov. 04 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-58874518?at_medium=RSS&at_campaign=KARANGA">What is net zero and how are the UK and other countries doing?</a> BBC: Experts want countries to adopt targets to reduce emissions to net zero by 2050. 
- <p class="updated_time"> 10:08 AM CT, Nov. 04 </p> 
- <a href="https://www.nytimes.com/2021/11/04/world/middleeast/israel-budget.html">Israel Passes State Budget</a> NYT: The vote raised hopes that the country might be headed for a period of more political stability after the chaos of four elections in quick succession. 
  <p class="updated_time"> 09:50 AM CT, Nov. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59162472?at_medium=RSS&at_campaign=KARANGA">Tom Vennink: Dutch dismay as Russia expels correspondent</a> BBC: Tom Vennink is barred from Russia until 2025 in a move criticised as an attack on media freedom. 
  <p class="updated_time"> 09:48 AM CT, Nov. 04 </p> 
@@ -29,8 +33,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/newsbeat-59163204?at_medium=RSS&at_campaign=KARANGA">Tiger King's Joe Exotic asks for release from jail after cancer diagnosis</a> BBC: The jailed zookeeper repeated his request to be pardoned, and to "enjoy what life I have left with my loved ones". 
  <p class="updated_time"> 09:01 AM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/africa/ethiopia-war-un-report.html">Ethiopia’s Leader Vows to ‘Bury This Enemy,’ Even as Rebels Advance</a> NYT: A United Nations report, released as Tigrayan rebels near the capital, documents atrocities on all sides in a year-old civil war. 
- <p class="updated_time"> 08:48 AM CT, Nov. 04 </p> 
- <a href="https://www.nytimes.com/2021/11/03/us/hawaii-covid-restrictions-tourists-ige.html">Hawaii Eases Covid Restrictions and Reopens for Tourists</a> NYT: The state is eager for its vacation industry to rebound after a devastating 2020 season. 
  <p class="updated_time"> 08:45 AM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/03/us/mayor-eric-garcetti-of-los-angeles-tests-positive-for-the-virus.html">Mayor Eric Garcetti of Los Angeles tests positive for the virus.</a> NYT: Mr. Garcetti’s office said the mayor, who is in Scotland for a conference on climate change, was feeling good and had been fully vaccinated. 
  <p class="updated_time"> 08:36 AM CT, Nov. 04 </p> 
@@ -49,8 +51,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-australia-59162188?at_medium=RSS&at_campaign=KARANGA">Cleo Smith: Australian man charged over four-year-old's abduction</a> BBC: The four-year-old was found in a locked home 18 days after disappearing while on holiday with family. 
  <p class="updated_time"> 05:32 AM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/asia/china-metoo-peng-shuai-zhang-gaoli.html">China's Peng Shuai Makes #MeToo Claim Against Zhang Gaoli</a> NYT: Peng Shuai’s accusation against Zhang Gaoli takes the country’s budding #MeToo movement to the top echelons of the Communist Party for the first time. 
- <p class="updated_time"> 05:26 AM CT, Nov. 04 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-56901261?at_medium=RSS&at_campaign=KARANGA">COP26: What is the Glasgow climate conference and why is it important?</a> BBC: A crucial climate change summit is being held in the UK - this is why it's important. 
  <p class="updated_time"> 04:53 AM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/australia/australia-scott-morrison-cop26.html">What Did Scott Morrison, Australia's Leader, Accomplish at COP26?</a> NYT: Prime Minister Scott Morrison did not announce any firm plans to move away from the country’s deep investment in fossil fuel production. 
  <p class="updated_time"> 04:46 AM CT, Nov. 04 </p> 
@@ -131,8 +131,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59157060?at_medium=RSS&at_campaign=KARANGA">Michelle Wu makes history as first Asian American woman elected as Boston mayor</a> BBC: She is the first woman and Asian American elected to lead Massachusetts' capital city. 
  <p class="updated_time"> 12:42 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/europe/cop26-summit-lines.html">COP26 Summit Attendees Frustrated With Long Lines and Access</a> NYT: One veteran of the annual gathering described it as the “poorest planed” to date. A young American activist called it a “hellscape.” 
- <p class="updated_time"> 12:42 PM CT, Nov. 03 </p> 
- <a href="https://www.nytimes.com/2021/11/02/world/europe/cop26-jeff-bezos-climate.html">Jeff Bezos Makes $2 Billion Environmental Pledge at COP26 Summit</a> NYT: The billionaire called the loss of Earth’s forests “a profound and urgent danger to us all.” 
  <p class="updated_time"> 12:38 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/us/politics/china-military-nuclear.html">China Could Have 1,000 Nuclear Warheads by 2030, Pentagon Says</a> NYT: Gen. Mark A. Milley, chairman of the Joint Chiefs of Staff, called Beijing the “No. 1” nation-state military challenger to the United States. 
  <p class="updated_time"> 11:49 AM CT, Nov. 03 </p> 
@@ -147,8 +145,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/03/world/as-deadlines-loom-the-us-military-grants-few-vaccine-exemptions.html">As deadlines loom, the U.S. military grants few vaccine exemptions.</a> NYT: NA 
  <p class="updated_time"> 09:58 AM CT, Nov. 03 </p> 
  <a href="https://www.bbc.co.uk/news/58956714?at_medium=RSS&at_campaign=KARANGA">Climate change: What are the big polluters doing to cut carbon emissions?</a> BBC: The top emissions-producing nations all have plans to tackle global warming, but what progress are they making? 
- <p class="updated_time"> 09:56 AM CT, Nov. 03 </p> 
- <a href="https://www.nytimes.com/2021/11/02/world/asia/afghanistan-kabul-hospital-attack.html">Dozens Killed in ISIS Attack on Military Hospital in Afghanistan’s Capital</a> NYT: The fall of the Western-backed government in August and the Taliban takeover of the country have been followed by an increase in Islamic State attacks across Afghanistan. 
  <p class="updated_time"> 09:36 AM CT, Nov. 03 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59150807?at_medium=RSS&at_campaign=KARANGA">COP26 climate change summit: So far, so good-ish</a> BBC: Three days into the COP26 global climate summit, and the mood is positive. 
  <p class="updated_time"> 07:07 AM CT, Nov. 03 </p> 
@@ -190,6 +186,12 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:29 AM CT, Nov. 04 </p> 
+ <a href="https://www.nytimes.com/2021/11/04/nyregion/stephen-sweeney-durr-nj-election.html">Republican Truck Driver Beats Sweeney in N.J. Election</a> NYT: Mr. Sweeney, the second most powerful lawmaker in New Jersey and a Democrat, lost his bid for re-election against Edward Durr, a driver for a furniture chain. 
+ <p class="updated_time"> 11:25 AM CT, Nov. 04 </p> 
+ <a href="https://www.nytimes.com/article/vaccine-mandate-biden-osha.html">Biden's Vaccine Mandate: Your Questions Answered</a> NYT: The Occupational Safety and Health Administration has laid out ground rules for companies with 100 or more employees to ensure their workers are fully vaccinated by Jan. 4 or submit to weekly testing. 
+ <p class="updated_time"> 11:18 AM CT, Nov. 04 </p> 
+ <a href="https://www.nytimes.com/2021/11/04/us/politics/congress-budget-tricks.html">Democrats Employ Budget Gimmicks They Once Derided</a> NYT: Budget experts say true cost of legislation could be $4 trillion as lawmakers rely on sleights of hand to bring down the price tag. 
  <p class="updated_time"> 10:00 AM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/us/politics/biden-donors-white-house.html">Why Big Donors to Biden's 2020 Campaign Are Frustrated</a> NYT: Some of the top Democratic contributors have become increasingly frustrated with a lack of communication from the White House — and impatient with inaction on voting rights. 
  <p class="updated_time"> 09:10 AM CT, Nov. 04 </p> 
@@ -208,8 +210,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/03/us/politics/biden-rejects-payments-migrants.html">Biden Rejects $450,000 Payments for Separated Migrants</a> NYT: “That’s not going to happen,” the president said about proposed compensation for a Trump administration policy that divided thousands of parents and children. 
  <p class="updated_time"> 07:53 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/us/politics/biden-covid-vaccine-kids.html">Biden Urges Parents to Get Their Younger Children Vaccinated</a> NYT: A vaccination program for children will roll out next week with more doses shipping each day, he said, calling it “a day of relief and celebration.” 
- <p class="updated_time"> 07:39 PM CT, Nov. 03 </p> 
- <a href="https://www.nytimes.com/2021/11/03/style/eric-adams-style.html">Eric Adams's Style: ‘Everything About You Must Say Power’</a> NYT: New York City’s new mayor, Eric Adams, pays a lot of attention to what he wears. You should, too. 
  <p class="updated_time"> 06:59 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/business/nso-group-spyware-blacklist.html">U.S. Blacklists Israeli Firm NSO Group Over Spyware</a> NYT: The ban is the strongest step an American president has taken to curb abuses in the global market for spyware. 
  <p class="updated_time"> 06:40 PM CT, Nov. 03 </p> 
@@ -218,8 +218,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/03/us/elections/biden-virginia-nj.html">Biden Returns to U.S. Facing Challenges After Election</a> NYT: Republican gains on Election Day come at a vulnerable time for the president’s agenda. 
  <p class="updated_time"> 06:17 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/us/politics/virginia-governor-youngkin-trump.html">Youngkin’s Dance With Trump Was Pivotal. But Is It Repeatable?</a> NYT: Glenn Youngkin’s victory in Virginia may inspire Republican imitators vying to win over Trump supporters without embracing the former president outright. 
- <p class="updated_time"> 06:15 PM CT, Nov. 03 </p> 
- <a href="https://www.nytimes.com/2021/11/03/us/politics/senate-republicans-voting-rights-act.html">Republicans Block a Second Voting Rights Bill in the Senate</a> NYT: Democrats hope that a filibuster of a measure named for former Representative John Lewis of Georgia, the civil rights icon, will help build momentum for a change in Senate rules. 
  <p class="updated_time"> 05:20 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/us/politics/drone-strike-kabul-child.html">Video Showed Child in Area Minutes Before Kabul Drone Strike</a> NYT: An investigation of the Aug. 29 airstrike, which mistakenly killed 10 civilians, including seven children, did not recommend any disciplinary action. 
  <p class="updated_time"> 04:29 PM CT, Nov. 03 </p> 
@@ -234,8 +232,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/03/democrats-virginia-congress-519051">Dems keep butting heads after Virginia shellacking</a> Politico: Most agreed that the dismal election results underscored the need to move past the infighting that’s defined their majorities for months. There’s hardly any agreement on much else. 
  <p class="updated_time"> 11:46 AM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/business/economy/biden-trade-policy-steel.html">European Steel Plan Shows Biden’s Bid to Merge Climate and Trade Policy</a> NYT: A potential agreement on steel trade provides the clearest look yet at how the Biden administration plans to implement a trade policy that is both protectionist and progressive 
- <p class="updated_time"> 11:03 AM CT, Nov. 03 </p> 
- <a href="https://www.nytimes.com/2021/11/03/us/politics/black-voters-virginia.html">Black voters in Virginia refuse to be blamed for a major Democratic defeat.</a> NYT: Black state leaders and voters said the results were a sign that the party could not rely on minority voters to cover its cratering totals in white areas of the state. 
  <p class="updated_time"> 05:22 AM CT, Nov. 03 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/03/let-the-democratic-freakout-begin-494958">POLITICO Playbook: Let the Democratic freakout begin</a> Politico: And Democrats try to get the reconciliation bill over the finish line. 
  <p class="updated_time"> 05:10 AM CT, Nov. 03 </p> 
