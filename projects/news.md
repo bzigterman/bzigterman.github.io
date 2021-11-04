@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:52 PM CT, Nov. 03 </p> 
+ <a href="https://www.nytimes.com/2021/11/03/world/asia/covaxin-covid-vaccine-who.html">Covaxin, Vaccine Developed in India, Gets W.H.O. Clearance</a> NYT: The vaccine is the eighth coronavirus vaccine to receive the global health body’s green light. 
  <p class="updated_time"> 10:32 PM CT, Nov. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59159025?at_medium=RSS&at_campaign=KARANGA">ICC to probe Venezuela over alleged crimes against humanity</a> BBC: The International Criminal Court will examine allegations of torture and extrajudicial killings. 
  <p class="updated_time"> 10:02 PM CT, Nov. 03 </p> 
@@ -95,8 +97,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59155674?at_medium=RSS&at_campaign=KARANGA">Halloween's over - what should I do with my costume?</a> BBC: Millions of Halloween costumes end up in the landfill each year as the Halloween plastic aftermath. 
  <p class="updated_time"> 11:46 AM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/business/economy/biden-trade-policy-steel.html">European Steel Plan Shows Biden’s Bid to Merge Climate and Trade Policy</a> NYT: A potential agreement on steel trade provides the clearest look yet at how the Biden administration plans to implement a trade policy that is both protectionist and progressive 
- <p class="updated_time"> 11:36 AM CT, Nov. 03 </p> 
- <a href="https://www.nytimes.com/2021/11/03/world/asia/covaxin-covid-vaccine-who.html">Covaxin, Vaccine Developed in India, Gets W.H.O. Clearance</a> NYT: The vaccine is the eighth coronavirus vaccine to receive the global health body’s green light. 
  <p class="updated_time"> 11:28 AM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/yellen-green-bonds-climate-change.html">U.S. to Provide $500 Million for Green Bonds, Yellen Says</a> NYT: Ms. Yellen said wealthy countries had pledged billions of dollars to tackle climate change, but the real cost is in the trillions. 
  <p class="updated_time"> 11:25 AM CT, Nov. 03 </p> 
