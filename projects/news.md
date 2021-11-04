@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:23 AM CT, Nov. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-59144556?at_medium=RSS&at_campaign=KARANGA">Cleo Smith: How Australian police found the missing four-year-old</a> BBC: The discovery of the girl follows a huge search operation covering a remote part of Australia. 
  <p class="updated_time"> 11:39 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/australia/missing-cleo-smith.html">Cleo Smith, 4, Is Found 18 Days After She Vanishes in Australia</a> NYT: Cleo Smith disappeared one night while camping with her family in a remote area of Australia. She was found “alive and well” in a locked house, and a man was detained. 
  <p class="updated_time"> 10:52 PM CT, Nov. 03 </p> 
@@ -127,8 +129,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/cop26-negotiators-make-progress-on-carbon-trading-rules-11635959365">COP26 Negotiators Make Progress on Carbon-Trading Rules</a> WSJ: A U.N.-backed framework for cross-border carbon markets could foster a system long sought by many businesses. 
  <p class="updated_time"> 08:03 AM CT, Nov. 03 </p> 
  <a href="https://www.wsj.com/articles/french-australian-ties-deteriorate-in-wake-of-u-s-submarine-pact-11635959019">French-Australian Ties Deteriorate In Wake of U.S. Submarine Pact</a> WSJ: Paris and Canberra trade barbs over September’s deal for Washington to share submarine technology with Australia. 
- <p class="updated_time"> 07:10 AM CT, Nov. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-59144556?at_medium=RSS&at_campaign=KARANGA">Cleo Smith: How Australian police found the missing four-year-old</a> BBC: The discovery of the girl follows a huge search operation covering a remote part of Australia. 
  <p class="updated_time"> 07:07 AM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/europe/belgium-congo-kidnapping.html">Torn From Parents in the Belgian Congo, Women Seek Reparations</a> NYT: Belgium has apologized for the kidnapping and deportation of thousands of mixed-race children under its colonial rule. Survivors say that reparations should be the next step. 
  <p class="updated_time"> 06:16 AM CT, Nov. 03 </p> 
