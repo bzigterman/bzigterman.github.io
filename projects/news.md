@@ -7,6 +7,12 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:37 AM CT, Nov. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59138213?at_medium=RSS&at_campaign=KARANGA">Kyle Rittenhouse trial: When can you shoot as self-defence?</a> BBC: A US teenager, 18, is now on trial over a fatal altercation during protests in Wisconsin last year. 
+ <p class="updated_time"> 09:23 AM CT, Nov. 04 </p> 
+ <a href="https://www.nytimes.com/2021/11/04/world/europe/italy-trieste-covid-protests.html">Trieste, Center of Italy’s Anti-Vaccine Protests, Is Now a Covid Hot Spot</a> NYT: After leading the resistance to the government’s new health pass, the northeastern port city of Trieste is home to a worrying spike in cases. 
+ <p class="updated_time"> 09:03 AM CT, Nov. 04 </p> 
+ <a href="https://www.nytimes.com/2021/11/04/world/asia/diwali-india.html">India's Diwali Celebrations Draw Large Crowds Despite Covid Concerns</a> NYT: More than 680,000 people have traveled across the country as health experts cautioned that large-scale gatherings might fuel a wave of infections. 
  <p class="updated_time"> 09:01 AM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/africa/ethiopia-war-un-report.html">Ethiopia’s Leader Vows to ‘Bury This Enemy,’ Even as Rebels Advance</a> NYT: A United Nations report, released as Tigrayan rebels near the capital, documents atrocities on all sides in a year-old civil war. 
  <p class="updated_time"> 08:48 AM CT, Nov. 04 </p> 
@@ -46,11 +52,9 @@ permalink: /projects/news/
  <p class="updated_time"> 04:18 AM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/africa/south-africa-coal-renewables.html">South Africa to Get $8.5 billion to Shift From Coal to Renewables</a> NYT: Developing nations have long said they need aid from wealthy countries to shift to renewable energy. South Africa may show how that would work in practice. 
  <p class="updated_time"> 04:14 AM CT, Nov. 04 </p> 
- <a href="https://www.wsj.com/articles/merck-ridgeback-covid-19-pill-cleared-for-use-in-u-k-11636023388">Merck Covid-19 Pill Cleared for Use in U.K., Its First Authorization</a> WSJ: U.K. health regulators cleared molnupiravir, becoming the first country to authorize the pill that can be taken at home and promises to keep people out of the hospital. The U.S. is expected to follow in coming months. 
+ <a href="https://www.wsj.com/articles/merck-ridgeback-covid-19-pill-cleared-for-use-in-u-k-11636023388">Merck Covid-19 Pill Cleared for Use in U.K., Its First Authorization</a> WSJ: Health regulators approved molnupiravir, which can be taken at home and promises to reduce the risk of hospitalization. The U.S. is expected to follow in coming months. 
  <p class="updated_time"> 04:09 AM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/latin-america-pressed-on-vaccine-priorities.html">With scant vaccine supplies, the W.H.O. presses Latin America and the Caribbean to hold off on boosters.</a> NYT: Sufficient shipments of doses have been slow to reach many countries in the region and economic inequalities are complicating matters. 
- <p class="updated_time"> 04:00 AM CT, Nov. 04 </p> 
- <a href="https://www.nytimes.com/2021/11/04/world/europe/italy-trieste-covid-protests.html">Trieste, Center of Italy’s Anti-Vaccine Protests, Is Now a Covid Hot Spot</a> NYT: After leading the resistance to the government’s new health pass, the northeastern port city of Trieste is home to a worrying spike in cases. 
  <p class="updated_time"> 03:58 AM CT, Nov. 04 </p> 
  <a href="https://www.bbc.co.uk/news/health-59148620?at_medium=RSS&at_campaign=KARANGA">HPV vaccine cutting cervical cancer by nearly 90%</a> BBC: Researchers say regular cervical screening may not be necessary because of the success of the vaccine. 
  <p class="updated_time"> 03:35 AM CT, Nov. 04 </p> 
@@ -111,8 +115,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/03/climate/al-gore-cop26.html">At COP26, Gore Says Satellite Emissions Monitoring Helps Climate-Change Fight</a> NYT: Real-time checks on where greenhouse gases are being produced may prove a powerful weapon in the fight to cool the earth. 
  <p class="updated_time"> 02:32 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/europe/greece-covid-restrictions.html">Greece Tightens Covid Restrictions on the Unvaccinated</a> NYT: The restrictions start Saturday and target unvaccinated people, said the country’s health minister, Thanos Plevris. 
- <p class="updated_time"> 02:21 PM CT, Nov. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59138213?at_medium=RSS&at_campaign=KARANGA">Kyle Rittenhouse trial: When can you shoot as self-defence?</a> BBC: A US teenager, 18, is now on trial over a fatal altercation during protests in Wisconsin last year. 
  <p class="updated_time"> 01:56 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/europe/cop26-climate-change-finance-industry.html"> Financial Industry, With $130 Trillion, to Pursue Climate Goals </a> NYT: The pledge would transform the international financial system, but critics say it falls short on fossil fuels. 
  <p class="updated_time"> 01:54 PM CT, Nov. 03 </p> 
@@ -161,8 +163,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-australia-59146086?at_medium=RSS&at_campaign=KARANGA">Cleo Smith: Missing four-year-old found alive weeks after vanishing</a> BBC: Cleo Smith disappeared from her family's tent at a campsite in Western Australia 18 days ago. 
  <p class="updated_time"> 02:02 AM CT, Nov. 03 </p> 
  <a href="https://www.wsj.com/articles/if-you-dont-have-money-you-have-sisters-afghan-men-use-taliban-rule-to-settle-scores-11635937324">Afghan Men Use Taliban Rule to Victimize Women, Settle Scores</a> WSJ: Since the Taliban’s takeover of Afghanistan, women across the country say they have had to flee or marry family friends to avoid being forcibly married off. 
- <p class="updated_time"> 09:27 PM CT, Nov. 02 </p> 
- <a href="https://www.nytimes.com/2021/11/02/world/biden-cop26-climate-change-pledge.html">Biden Pledges $3 Billion to Help the World Adapt to Climate Change</a> NYT: The amount is half as much as what was recently proposed for a six-mile sea wall to protect Miami from the Atlantic Ocean. 
  <p class="updated_time"> 06:13 PM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/02/technology/facebook-facial-recognition.html">Facebook Plans to Shut Down Its Facial Recognition System</a> NYT: Saying it wants “to find the right balance” with the technology, the social network will delete the face scan data of more than one billion users. 
  <p class="updated_time"> 05:13 PM CT, Nov. 02 </p> 
