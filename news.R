@@ -28,6 +28,17 @@ politico_playbook <- tidyfeed("http://rss.politico.com/playbook.xml") %>%
                                format = "%I:%M% %p CT, %b. %d"))
 
 
+politico_huddle <- tidyfeed("http://rss.politico.com/huddle.xml") %>%
+  mutate(item_description = feed_description) %>%
+  select(feed_title, item_pub_date,item_title, item_link, item_description) %>%
+  mutate(feed = "Politico") %>%
+  mutate(utc_time = force_tz(item_pub_date, tz = "US/Central")) %>%
+  mutate(central_time = with_tz(utc_time, tz = "America/Chicago")) %>%
+  mutate(clean_time = strftime(x = central_time, 
+                               tz = "US/Central",
+                               format = "%I:%M% %p CT, %b. %d"))
+
+
 # politico_playbook <- tidyfeed("http://rss.politico.com/playbook.xml") %>%
 #   select(feed_title, item_pub_date,item_title, item_link, item_description) %>%
 #   mutate(feed = "Politico") %>%
@@ -50,6 +61,7 @@ nyt_politics <- tidyfeed("https://rss.nytimes.com/services/xml/rss/nyt/Politics.
 
 politics_news <- full_join(politico_politics, nyt_politics) %>%
   full_join(politico_playbook) %>%
+  full_join(politico_huddle) %>%
   filter(central_time > past_week) %>%
   arrange(desc(central_time)) %>%
   mutate(item_md_link = paste("[",item_title,"](",item_link,")",
