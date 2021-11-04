@@ -7,12 +7,12 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:05 AM CT, Nov. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-59162188?at_medium=RSS&at_campaign=KARANGA">Cleo Smith: Australian man charged over four-year-old's abduction</a> BBC: The four-year-old was found in a locked home 18 days after disappearing while on holiday with family. 
  <p class="updated_time"> 05:32 AM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/asia/china-metoo-peng-shuai-zhang-gaoli.html">China's Peng Shuai Makes #MeToo Claim Against Zhang Gaoli</a> NYT: Peng Shuai’s accusation against Zhang Gaoli takes the country’s budding #MeToo movement to the top echelons of the Communist Party for the first time. 
  <p class="updated_time"> 05:26 AM CT, Nov. 04 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-56901261?at_medium=RSS&at_campaign=KARANGA">COP26: What is the Glasgow climate conference and why is it important?</a> BBC: A crucial climate change summit is being held in the UK - this is why it's important. 
- <p class="updated_time"> 05:21 AM CT, Nov. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-59162188?at_medium=RSS&at_campaign=KARANGA">Cleo Smith: Australian man charged over four-year-old's abduction</a> BBC: The four-year-old was found in a locked home 18 days after disappearing while on holiday with family. 
  <p class="updated_time"> 05:03 AM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/world/middleeast/israel-budget.html">Israel Passes State Budget</a> NYT: The vote raised hopes that the country might be headed for increased political stability after the chaos of four elections in quick succession. 
  <p class="updated_time"> 04:53 AM CT, Nov. 04 </p> 
@@ -43,6 +43,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59160644?at_medium=RSS&at_campaign=KARANGA">Cupcakes recalled in US over metal fragment contamination fears</a> BBC: People are being warned not to eat the chocolate cakes which may have fragments of mesh wire. 
  <p class="updated_time"> 03:01 AM CT, Nov. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-59158568?at_medium=RSS&at_campaign=KARANGA">Amanda Knox on how she thinks her case would be viewed today</a> BBC: She speaks about losing control of her identity during the Meredith Kercher murder investigation. 
+ <p class="updated_time"> 02:04 AM CT, Nov. 04 </p> 
+ <a href="https://www.wsj.com/articles/merck-ridgeback-covid-19-pill-cleared-for-use-in-u-k-11636023388">Merck Covid-19 Pill Cleared for Use in U.K.</a> WSJ: U.K. health regulators cleared molnupiravir, becoming the first country to authorize the pill that can be taken at home and promises to keep people out of the hospital. The U.S. is expected to follow in coming months. 
  <p class="updated_time"> 02:00 AM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/style/rangoli-art-diwali.html">The Art and Ritual of Rangoli</a> NYT: Making ornate floor art can be a celebratory act for festivals like Diwali and a meditative practice. 
  <p class="updated_time"> 01:47 AM CT, Nov. 04 </p> 
@@ -129,8 +131,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/03/world/asia/sunao-tsuboi-dead.html">Sunao Tsuboi, 96, Dies; Hiroshima Victim Who Lived to Tell His Story</a> NYT: After suffering through the agony of the attack and its aftermath, he devoted himself to spreading the message that nuclear weapons should be abolished. 
  <p class="updated_time"> 10:30 AM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/as-deadlines-loom-the-us-military-grants-few-vaccine-exemptions.html">As deadlines loom, the U.S. military grants few vaccine exemptions.</a> NYT: NA 
- <p class="updated_time"> 10:04 AM CT, Nov. 03 </p> 
- <a href="https://www.wsj.com/articles/chinese-tennis-stars-accusation-against-retired-top-leader-causes-a-stir-online-11635966240">Chinese Tennis Star Peng Shuai's Accusation Against a Retired Top Leader Causes Online Stir</a> WSJ: Professional athlete Peng Shuai’s post alleging sexual assault by former Vice Premier Zhang Gaoli disappeared after about 20 minutes, but the claim has turned a spotlight on perceived abuses by powerful political figures. 
  <p class="updated_time"> 09:58 AM CT, Nov. 03 </p> 
  <a href="https://www.bbc.co.uk/news/58956714?at_medium=RSS&at_campaign=KARANGA">Climate change: What are the big polluters doing to cut carbon emissions?</a> BBC: The top emissions-producing nations all have plans to tackle global warming, but what progress are they making? 
  <p class="updated_time"> 09:56 AM CT, Nov. 03 </p> 
@@ -139,8 +139,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/science-environment-59150807?at_medium=RSS&at_campaign=KARANGA">COP26 climate change summit: So far, so good-ish</a> BBC: Three days into the COP26 global climate summit, and the mood is positive. 
  <p class="updated_time"> 08:31 AM CT, Nov. 03 </p> 
  <a href="https://www.wsj.com/articles/cop26-negotiators-make-progress-on-carbon-trading-rules-11635959365">COP26 Negotiators Make Progress on Carbon-Trading Rules</a> WSJ: A U.N.-backed framework for cross-border carbon markets could foster a system long sought by many businesses. 
- <p class="updated_time"> 08:03 AM CT, Nov. 03 </p> 
- <a href="https://www.wsj.com/articles/french-australian-ties-deteriorate-in-wake-of-u-s-submarine-pact-11635959019">French-Australian Ties Deteriorate In Wake of U.S. Submarine Pact</a> WSJ: Paris and Canberra trade barbs over September’s deal for Washington to share submarine technology with Australia. 
  <p class="updated_time"> 07:07 AM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/europe/belgium-congo-kidnapping.html">Torn From Parents in the Belgian Congo, Women Seek Reparations</a> NYT: Belgium has apologized for the kidnapping and deportation of thousands of mixed-race children under its colonial rule. Survivors say that reparations should be the next step. 
  <p class="updated_time"> 06:08 AM CT, Nov. 03 </p> 
