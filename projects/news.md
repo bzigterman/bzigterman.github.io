@@ -7,12 +7,12 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:56 PM CT, Nov. 04 </p> 
+ <p class="updated_time"> 04:17 PM CT, Nov. 04 </p> 
+ <a href="https://www.nytimes.com/2021/11/04/world/africa/ethiopia-tigray-crackdown.html">Crackdown Sweeps Ethiopia’s Capital as War Draws Near</a> NYT: Government forces were going to door to door in the Ethiopian capital, rounding up ethnic Tigrayans, members of the same ethnic group as the rebels closing in. 
+ <p class="updated_time"> 04:14 PM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/world/europe/uk-politics-boris-johnson-owen-paterson.html">Conflict-of-Interest Case Has Boris Johnson Reversing Course, Again</a> NYT: Britain’s prime minister intervened in the case of a Conservative Party lawmaker who faced suspension. A ferocious blowback caused him to retreat, a now familiar path. 
  <p class="updated_time"> 03:49 PM CT, Nov. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59160526?at_medium=RSS&at_campaign=KARANGA">Portugal's president calls snap election</a> BBC: The vote follows six years of minority left-wing government led by António Costa. 
- <p class="updated_time"> 03:34 PM CT, Nov. 04 </p> 
- <a href="https://www.nytimes.com/2021/11/04/world/africa/ethiopia-tigray-crackdown.html">Crackdown Sweeps Ethiopia’s Capital as War Draws Near</a> NYT: Government forces were going to door to door in the Ethiopian capital, rounding up ethnic Tigrayans, members of the same ethnic group as the rebels closing in. 
  <p class="updated_time"> 03:28 PM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/world/europe/italy-trieste-covid-protests.html">Trieste, Center of Italy’s Anti-Vaccine Protests, Is Now a Covid Hot Spot</a> NYT: After leading the resistance to the government’s new health pass, the northeastern port city of Trieste is home to a worrying spike in cases. 
  <p class="updated_time"> 02:33 PM CT, Nov. 04 </p> 
