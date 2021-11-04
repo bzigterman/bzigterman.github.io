@@ -7,16 +7,14 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:51 AM CT, Nov. 04 </p> 
- <a href="https://www.nytimes.com/2021/11/04/world/uk-merck-pill-molnupravir.html">The U.K. approves Merck’s molnupiravir, making it the first pill to be endorsed for treating Covid.</a> NYT: The British authorities said that the antiviral drug was “safe and effective” in reducing the risk of hospitalization and death for those at increased risk of severe symptoms. 
+ <p class="updated_time"> 07:01 AM CT, Nov. 04 </p> 
+ <a href="https://www.nytimes.com/2021/11/04/world/europe/uk-merck-pill-molnupravir.html">The U.K. approves Merck’s molnupiravir, making it the first pill to be endorsed for treating Covid.</a> NYT: The British authorities said that the antiviral drug was “safe and effective” in reducing the risk of hospitalization and death for those at increased risk of severe symptoms. 
  <p class="updated_time"> 06:24 AM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/world/australia/charge-cleo-smith.html">Cleo Smith Abduction: Australian Man Is Charged After 18-Day Search </a> NYT: The legal action came as the Australian authorities continued to address questions about how the police had been able to find Cleo Smith, who vanished from a remote campsite. 
  <p class="updated_time"> 06:05 AM CT, Nov. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59162188?at_medium=RSS&at_campaign=KARANGA">Cleo Smith: Australian man charged over four-year-old's abduction</a> BBC: The four-year-old was found in a locked home 18 days after disappearing while on holiday with family. 
  <p class="updated_time"> 05:32 AM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/asia/china-metoo-peng-shuai-zhang-gaoli.html">China's Peng Shuai Makes #MeToo Claim Against Zhang Gaoli</a> NYT: Peng Shuai’s accusation against Zhang Gaoli takes the country’s budding #MeToo movement to the top echelons of the Communist Party for the first time. 
- <p class="updated_time"> 05:26 AM CT, Nov. 04 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-56901261?at_medium=RSS&at_campaign=KARANGA">COP26: What is the Glasgow climate conference and why is it important?</a> BBC: A crucial climate change summit is being held in the UK - this is why it's important. 
  <p class="updated_time"> 05:03 AM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/world/middleeast/israel-budget.html">Israel Passes State Budget</a> NYT: The vote raised hopes that the country might be headed for increased political stability after the chaos of four elections in quick succession. 
  <p class="updated_time"> 04:53 AM CT, Nov. 04 </p> 
@@ -175,8 +173,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/02/world/john-kerry-climate-aid-cop26.html">John Kerry Says $100 Billion in Climate Aid Per Year Is Within Reach</a> NYT: John Kerry, the American special climate envoy, said the United States had rejoined the a coalition of countries pushing for more aggressive action. 
  <p class="updated_time"> 01:01 PM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/02/world/europe/united-states-russia-william-burns.html">U.S.-Russia Engagement Deepens as C.I.A. Head Travels to Moscow</a> NYT: It was at least the fourth trip to Moscow since July by a senior American official as the two sides seek to stabilize a volatile relationship. 
- <p class="updated_time"> 12:25 PM CT, Nov. 02 </p> 
- <a href="https://www.nytimes.com/2021/11/02/world/asia/china-slander-law.html">China Makes It a Crime to Mock Country's Heroes</a> NYT: Under a new law, China has zealously prosecuted even the perceived slander of Communist figures, broadening Xi Jinping’s campaign to dominate party orthodoxy. 
  <p class="updated_time"> 11:43 AM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/02/world/israel-energy-minister-cop26-wheelchair-access.html">Karine Elharrar, Israel's Energy Minister, Couldn't Attend COP26 Events in Her Wheelchair</a> NYT: NA 
  <p class="updated_time"> 10:20 AM CT, Nov. 02 </p> 
