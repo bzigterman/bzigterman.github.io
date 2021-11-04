@@ -7,16 +7,24 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:26 PM CT, Nov. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-59133207?at_medium=RSS&at_campaign=KARANGA">Diwali 2021: India celebrates festival of lights under shadow of Covid-19</a> BBC: Marked by feasts and fireworks, Diwali is one of the most important festivals in India. 
+ <p class="updated_time"> 08:18 PM CT, Nov. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/newsbeat-59149046?at_medium=RSS&at_campaign=KARANGA">Schitt's Creek's Dan Levy on memes, representation and 'Ew David'</a> BBC: Dan Levy tells Newsbeat about iconic memes, the Rose family and LGBTQ+ representation on his show. 
+ <p class="updated_time"> 08:05 PM CT, Nov. 03 </p> 
+ <a href="https://www.nytimes.com/2021/11/03/world/uk-fossil-fuel-coal-cop26.html">18 Countries to Phase Out Coal, According to Leaked Document</a> NYT: The countries, banks and other organizations that make up a new coalition will commit to ending all investment in new coal power generation domestically and internationally. 
+ <p class="updated_time"> 08:01 PM CT, Nov. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59075043?at_medium=RSS&at_campaign=KARANGA">Greeks fear megafires could be new normal for Med</a> BBC: On the Greek island of Evia last summer an intense conflagration took almost two weeks to control. 
+ <p class="updated_time"> 07:56 PM CT, Nov. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59159008?at_medium=RSS&at_campaign=KARANGA">Biden rejects blame for shock Virginia election defeat</a> BBC: The president cites schools, jobs, petrol prices and "Trump voters" as reasons for the defeat. 
+ <p class="updated_time"> 07:35 PM CT, Nov. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/science-environment-59159018?at_medium=RSS&at_campaign=KARANGA">COP26: 190 nations and organisations pledge to quit coal</a> BBC: Big coal users like Poland and Canada vow to phase it out, but key players China and India have not. 
  <p class="updated_time"> 07:14 PM CT, Nov. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-59158568?at_medium=RSS&at_campaign=KARANGA">Amanda Knox on how she thinks her case would be viewed today</a> BBC: Amanda Knox talks about losing control of her identity during the Meredith Kercher murder investigation. 
  <p class="updated_time"> 06:59 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/business/nso-group-spyware-blacklist.html">U.S. Blacklists Israeli Firm NSO Group Over Spyware</a> NYT: The ban is the strongest step an American president has taken to curb abuses in the global market for spyware. 
- <p class="updated_time"> 06:41 PM CT, Nov. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59159008?at_medium=RSS&at_campaign=KARANGA">Biden rejects blame for shock Virginia election defeat</a> BBC: The president cites schools, jobs, petrol prices and "Trump voters" as reasons for the defeat. 
  <p class="updated_time"> 06:00 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/weapons-ukraine-russia.html">Weapons Tracing Study Implicates Russia in Ukraine Conflict</a> NYT: One of the most comprehensive studies to date of weaponry in the war in Ukraine shows a panoply of Russian-supplied arms that has helped fuel the war. 
- <p class="updated_time"> 05:29 PM CT, Nov. 03 </p> 
- <a href="https://www.nytimes.com/2021/11/03/world/uk-fossil-fuel-coal-cop26.html">18 Countries to Phase Out Coal, According to Leaked Document</a> NYT: The countries, banks and other organizations that make up a new coalition will commit to ending all investment in new coal power generation domestically and internationally. 
  <p class="updated_time"> 05:28 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/books/booker-prize-winner-damon-galgut-the-promise.html">Damon Galgut Wins Booker Prize for ‘The Promise’</a> NYT: The novelist, shortlisted for two of his previous books, received one of the world’s most prestigious literary awards for his cutting depiction of a white family in post-apartheid South Africa. 
  <p class="updated_time"> 05:27 PM CT, Nov. 03 </p> 
@@ -51,10 +59,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/03/world/asia/isis-afghanistan-taliban.html">ISIS Poses a Growing Threat to New Taliban Government in Afghanistan</a> NYT: The Taliban takeover was supposed to bring an end to war, the new government promised. But a growing insurgency is upending security and raising alarms for the international community. 
  <p class="updated_time"> 01:53 PM CT, Nov. 03 </p> 
  <a href="https://www.wsj.com/articles/pentagon-review-cites-pressures-mistakes-in-kabul-strike-that-killed-civilians-11635972064">Pentagon Review Cites Pressures, Mistakes in Deadly Kabul Strike</a> WSJ: An investigation found U.S. errors and misinterpretations, including failing to spot children nearby minutes before the August drone strike, but said no international laws of war were violated. 
- <p class="updated_time"> 01:48 PM CT, Nov. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59144293?at_medium=RSS&at_campaign=KARANGA">Glenn Youngkin: Win for Republican in Virginia governor vote</a> BBC: Glenn Youngkin's victory is a blow for Joe Biden, who won the state in the presidential election. 
  <p class="updated_time"> 01:46 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/europe/cop26-greenwashing-protest.html">Protesters March Against ‘Greenwashing' at COP26</a> NYT: As the focus of the Glasgow summit turns to funding, protesters call for greater accountability for companies’ climate promises. 
+ <p class="updated_time"> 01:35 PM CT, Nov. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59157060?at_medium=RSS&at_campaign=KARANGA">Michelle Wu makes history as first Asian American woman elected as Boston mayor</a> BBC: She is the first woman and Asian American elected to lead Massachusetts' capital city. 
  <p class="updated_time"> 12:42 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/europe/cop26-summit-lines.html">COP26 Summit Attendees Frustrated With Long Lines and Access</a> NYT: One veteran of the annual gathering described it as the “poorest planed” to date. A young American activist called it a “hellscape.” 
  <p class="updated_time"> 12:42 PM CT, Nov. 03 </p> 
@@ -89,8 +97,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/03/world/asia/sunao-tsuboi-dead.html">Sunao Tsuboi, 96, Dies; Hiroshima Victim Who Lived to Tell His Story</a> NYT: After suffering through the agony of the attack and its aftermath, he devoted himself to spreading the message that nuclear weapons should be abolished. 
  <p class="updated_time"> 10:30 AM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/as-deadlines-loom-the-us-military-grants-few-vaccine-exemptions.html">As deadlines loom, the U.S. military grants few vaccine exemptions.</a> NYT: NA 
- <p class="updated_time"> 10:17 AM CT, Nov. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-59149728?at_medium=RSS&at_campaign=KARANGA">Galapagos marine reserve: Conservationists hail expansion</a> BBC: Conservationists say the move will protect migration routes for many endangered species. 
  <p class="updated_time"> 10:06 AM CT, Nov. 03 </p> 
  <a href="https://www.bbc.co.uk/news/59135899?at_medium=RSS&at_campaign=KARANGA">COP26: What's the climate impact of private jets?</a> BBC: World leaders' use of private jets to attend the climate summit has been called into question. 
  <p class="updated_time"> 10:04 AM CT, Nov. 03 </p> 
@@ -141,8 +147,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/02/world/biden-cop26-climate-change-pledge.html">Biden Pledges $3 Billion to Help the World Adapt to Climate Change</a> NYT: The amount is half as much as what was recently proposed for a six-mile sea wall to protect Miami from the Atlantic Ocean. 
  <p class="updated_time"> 08:49 PM CT, Nov. 02 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59144313?at_medium=RSS&at_campaign=KARANGA">Jacinda Ardern: 'We know we need to do more' to tackle climate change</a> BBC: Jacinda Ardern defends New Zealand's climate policies, and its role as a Pacific nation. 
- <p class="updated_time"> 07:49 PM CT, Nov. 02 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59138848?at_medium=RSS&at_campaign=KARANGA">US mothers divided on vaccines for young children</a> BBC: Everyone in the Simon family contracted Covid-19, but nine-year-old daughter Makenna went to hospital. 
  <p class="updated_time"> 06:13 PM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/02/technology/facebook-facial-recognition.html">Facebook Plans to Shut Down Its Facial Recognition System</a> NYT: Saying it wants “to find the right balance” with the technology, the social network will delete the face scan data of more than one billion users. 
  <p class="updated_time"> 05:13 PM CT, Nov. 02 </p> 
@@ -179,8 +183,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/02/world/reduce-fossil-fuels-long-term-but-pump-more-now-biden-says-angering-activists.html">Reduce fossil fuels in the long term but pump more now, Biden says, angering activists.</a> NYT: NA 
  <p class="updated_time"> 02:00 AM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/02/business/car-shortage-global-economy.html">How Car Shortages Are Putting the Economy at Risk</a> NYT: Because so many jobs depend on automaking, the industry’s production problems are causing the pain to ripple. 
- <p class="updated_time"> 07:05 PM CT, Nov. 01 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-58961286?at_medium=RSS&at_campaign=KARANGA">Climate change: Should we save or exploit the vanishing Amazon?</a> BBC: The BBC's Orla Guerin meets four Amazon-dwellers with differing views on the rainforest's protection. 
 
 
 </details>
@@ -188,6 +190,10 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:53 PM CT, Nov. 03 </p> 
+ <a href="https://www.nytimes.com/2021/11/03/us/politics/biden-covid-vaccine-kids.html">Biden Urges Parents to Get Their Younger Children Vaccinated</a> NYT: A vaccination program for children will roll out next week with more doses shipping each day, he said, calling it “a day of relief and celebration.” 
+ <p class="updated_time"> 07:39 PM CT, Nov. 03 </p> 
+ <a href="https://www.nytimes.com/2021/11/03/style/eric-adams-style.html">Eric Adams's Style: ‘Everything About You Must Say Power’</a> NYT: New York City’s new mayor, Eric Adams, pays a lot of attention to what he wears. You should, too. 
  <p class="updated_time"> 06:59 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/business/nso-group-spyware-blacklist.html">U.S. Blacklists Israeli Firm NSO Group Over Spyware</a> NYT: The ban is the strongest step an American president has taken to curb abuses in the global market for spyware. 
  <p class="updated_time"> 06:46 PM CT, Nov. 03 </p> 
@@ -202,8 +208,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/03/us/politics/senate-republicans-voting-rights-act.html">Republicans Block a Second Voting Rights Bill in the Senate</a> NYT: Democrats hope that a filibuster of a measure named for former Representative John Lewis of Georgia, the civil rights icon, will help build momentum for a change in Senate rules. 
  <p class="updated_time"> 06:13 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/us/politics/supreme-court-guns-second-amendment.html">Justices’ Questions Suggest New York Gun Control Law Is Unlikely to Survive</a> NYT: The law, which imposes strict limits on carrying guns in public, faced a skeptical reception from the Supreme Court on Wednesday. 
- <p class="updated_time"> 06:00 PM CT, Nov. 03 </p> 
- <a href="https://www.nytimes.com/2021/11/03/us/politics/biden-covid-vaccine-kids.html">Biden Urges Parents to Get Their Younger Children Vaccinated</a> NYT: A vaccination program for children will roll out next week with more doses shipping each day, he said, calling it “a day of relief and celebration.” 
  <p class="updated_time"> 05:35 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/us/politics/democrats-virginia-governor-race.html">What Youngkin's Win in the Virginia Governor Race Means for Democrats</a> NYT: Less than a year after taking power in Washington, the party faces a grim immediate future, struggling to energize voters without a presidential foil and losing messaging wars to Republicans. 
  <p class="updated_time"> 05:20 PM CT, Nov. 03 </p> 
@@ -230,8 +234,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/03/us/politics/black-voters-virginia.html">Black voters in Virginia refuse to be blamed for a major Democratic defeat.</a> NYT: Black state leaders and voters said the results were a sign that the party could not rely on minority voters to cover its cratering totals in white areas of the state. 
  <p class="updated_time"> 10:11 AM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/02/nyregion/eric-adams-mayor.html">Eric Adams Is Elected Mayor of New York City</a> NYT: Mr. Adams, a Democrat and former police captain, will be the second Black mayor in the city’s history. 
- <p class="updated_time"> 08:48 AM CT, Nov. 03 </p> 
- <a href="https://www.nytimes.com/2021/11/03/style/eric-adams-style.html">Eric Adams's Style: ‘Everything About You Must Say Power’</a> NYT: New York City’s new mayor, Eric Adams, pays a lot of attention to what he wears. You should, too. 
  <p class="updated_time"> 05:22 AM CT, Nov. 03 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/03/let-the-democratic-freakout-begin-494958">POLITICO Playbook: Let the Democratic freakout begin</a> Politico: And Democrats try to get the reconciliation bill over the finish line. 
  <p class="updated_time"> 05:10 AM CT, Nov. 03 </p> 
