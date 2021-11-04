@@ -183,8 +183,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/02/world/day-2-of-the-climate-summit-should-bring-the-first-concrete-commitments.html">Day 2 of the climate summit brings the first concrete commitments.</a> NYT: The U.S. is expected to announce plans to regulate methane, a potent greenhouse gas, and there is international agreement to tackle deforestation. 
  <p class="updated_time"> 05:25 AM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/02/world/reduce-fossil-fuels-long-term-but-pump-more-now-biden-says-angering-activists.html">Reduce fossil fuels in the long term but pump more now, Biden says, angering activists.</a> NYT: NA 
- <p class="updated_time"> 02:00 AM CT, Nov. 02 </p> 
- <a href="https://www.nytimes.com/2021/11/02/business/car-shortage-global-economy.html">How Car Shortages Are Putting the Economy at Risk</a> NYT: Because so many jobs depend on automaking, the industry’s production problems are causing the pain to ripple. 
 
 
 </details>
@@ -192,7 +190,7 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
- <p class="updated_time"> 09:27 PM CT, Nov. 03 </p> 
+ <p class="updated_time"> 11:00 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/us/politics/democrat-losses-2022.html">Reeling From Surprise Losses, Democrats Sound the Alarm for 2022</a> NYT: Party officials say the White House and Congress must do more to address the electorate’s deep malaise or risk watching voters lurch back toward the G.O.P. by default. 
  <p class="updated_time"> 08:37 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/us/politics/biden-rejects-payments-migrants.html">Biden Rejects $450,000 Payments for Separated Migrants</a> NYT: “That’s not going to happen,” the president said about proposed compensation for a Trump administration policy that divided thousands of parents and children. 
@@ -207,7 +205,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:40 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/business/economy/fed-taper-bond-buying.html">Federal Reserve Announces Plan to Slow Bond Buying Program</a> NYT: The Federal Reserve is dealing with high inflation at a time when millions of workers remain on the job market’s sidelines. Wednesday’s announcement that it will slow bond purchases is a step toward more normal monetary policy. 
  <p class="updated_time"> 06:37 PM CT, Nov. 03 </p> 
- <a href="https://www.nytimes.com/2021/11/03/us/politics/schools-republican-campaign-issues.html">Republicans Pounce on Schools as a Wedge Issue to Unite the Party</a> NYT: Rallying around what it calls “parental rights,” the party is pushing to build on its victories this week by stoking white resentment and tapping into broader anger at the education system. 
+ <a href="https://www.nytimes.com/2021/11/03/us/politics/school-republican-campaign-issue.html">Republicans Pounce on Schools as a Wedge Issue to Unite the Party</a> NYT: Rallying around what it calls “parental rights,” the party is pushing to build on its victories this week by stoking white resentment and tapping into broader anger at the education system. 
  <p class="updated_time"> 06:23 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/us/elections/biden-virginia-nj.html">Biden Returns to U.S. Facing Challenges After Election</a> NYT: Republican gains on Election Day come at a vulnerable time for the president’s agenda. 
  <p class="updated_time"> 06:17 PM CT, Nov. 03 </p> 
@@ -225,7 +223,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:29 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/us/politics/pelosi-paid-leave.html">House Democrats Revive Paid Leave Program, Ignoring Manchin’s Concerns</a> NYT: The House plans to add a provision to provide four weeks of federally paid family and medical leave to their social policy bill, but it is all but certain to be jettisoned by the Senate. 
  <p class="updated_time"> 03:16 PM CT, Nov. 03 </p> 
- <a href="https://www.nytimes.com/2021/11/03/business/media/smartmatic-newsmax-oan.html">Smartmatic Sues Newsmax and One America News Network, Claiming Defamation</a> NYT: Smartmatic, an election technology company that faced baseless accusations of rigging the 2020 election, has filed a similar lawsuit against Fox News. 
+ <a href="https://www.nytimes.com/2021/11/03/business/media/smartmatic-newsmax-oan.html">Smartmatic Sues Newsmax and One America News Network for Defamation</a> NYT: Smartmatic, an election technology company that faced baseless accusations of rigging the 2020 election, has filed a similar lawsuit against Fox News. 
  <p class="updated_time"> 02:54 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/us/politics/rescind-medals-wounded-knee-massacre.html">Lawmakers Ask Biden to Rescind Medals for Wounded Knee Massacre</a> NYT: Seventeen members of Congress said they believed it was within President Biden’s authority to revoke Medals of Honor “when appropriate.” 
  <p class="updated_time"> 02:28 PM CT, Nov. 03 </p> 
