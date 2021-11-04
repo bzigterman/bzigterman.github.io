@@ -7,6 +7,14 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:57 PM CT, Nov. 04 </p> 
+ <a href="https://www.nytimes.com/2021/11/04/world/europe/italy-trieste-covid-protests.html">Trieste, Center of Italy’s Anti-Vaccine Protests, Is Now a Covid Hot Spot</a> NYT: After leading the resistance to the government’s new health pass, the northeastern port city of Trieste is home to a worrying spike in cases. 
+ <p class="updated_time"> 05:54 PM CT, Nov. 04 </p> 
+ <a href="https://www.nytimes.com/2021/11/04/world/asia/hong-kong-will-offer-booster-shots-to-high-risk-residents-next-week.html">Hong Kong will offer extra shots to high-risk residents next week.</a> NYT: NA 
+ <p class="updated_time"> 05:54 PM CT, Nov. 04 </p> 
+ <a href="https://www.nytimes.com/2021/11/04/world/asia/south-korea-exam-students-hospital.html">South Korea Toughens Measures as Virus Spreads Among Teens</a> NYT: The decision comes as the country experiences rising caseloads again. The nine-hour test is seen as critical in determining students’ futures, and many have prepared for it since kindergarten. 
+ <p class="updated_time"> 05:54 PM CT, Nov. 04 </p> 
+ <a href="https://www.nytimes.com/2021/11/04/world/asia/diwali-india.html">India's Diwali Celebrations Draw Large Crowds Despite Covid Concerns</a> NYT: More than 680,000 people have traveled across the country as health experts cautioned that large-scale gatherings might fuel a wave of infections. 
  <p class="updated_time"> 05:44 PM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/world/canada/canada-military-sexual-assault.html">Canada Turns Over Military Sexual Assault Cases to Civilian Courts</a> NYT: With the military’s leadership in crisis, a new defense minister adopted a recommendation to remove prosecutorial authority for sexual misconduct cases from the armed forces. 
  <p class="updated_time"> 05:26 PM CT, Nov. 04 </p> 
@@ -29,8 +37,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/04/world/africa/ethiopia-tigray-crackdown.html">Crackdown Sweeps Ethiopia’s Capital as War Draws Near</a> NYT: Government forces were going to door to door in the Ethiopian capital, rounding up ethnic Tigrayans, members of the same ethnic group as the rebels closing in. 
  <p class="updated_time"> 04:14 PM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/world/europe/uk-politics-boris-johnson-owen-paterson.html">Conflict-of-Interest Case Has Boris Johnson Reversing Course, Again</a> NYT: Britain’s prime minister intervened in the case of a Conservative Party lawmaker who faced suspension. A ferocious blowback caused him to retreat, a now familiar path. 
- <p class="updated_time"> 03:28 PM CT, Nov. 04 </p> 
- <a href="https://www.nytimes.com/2021/11/04/world/europe/italy-trieste-covid-protests.html">Trieste, Center of Italy’s Anti-Vaccine Protests, Is Now a Covid Hot Spot</a> NYT: After leading the resistance to the government’s new health pass, the northeastern port city of Trieste is home to a worrying spike in cases. 
  <p class="updated_time"> 02:33 PM CT, Nov. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59166081?at_medium=RSS&at_campaign=KARANGA">South Africa municipal elections: Who are the winners and losers?</a> BBC: The party of Nelson Mandela gets less than 50% nationwide for the first time since the end of apartheid. 
  <p class="updated_time"> 02:32 PM CT, Nov. 04 </p> 
@@ -67,8 +73,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/04/world/europe/germany-covid-surge-daily-case-record.html">Facing a New Surge, Germany Sets a Daily Virus Case Record</a> NYT: The country registered 33,949 new coronavirus cases over a 24-hour period on Wednesday, surpassing a high set in December of last year. 
  <p class="updated_time"> 10:46 AM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/science/astronomy-decadal-survey-telescope.html">A New 10-Year Plan for the Cosmos</a> NYT: On astronomers’ wish list for the next decade: two giant telescopes and a space telescope to search for life and habitable worlds beyond Earth. 
- <p class="updated_time"> 10:43 AM CT, Nov. 04 </p> 
- <a href="https://www.nytimes.com/2021/11/04/world/asia/diwali-india.html">India's Diwali Celebrations Draw Large Crowds Despite Covid Concerns</a> NYT: More than 680,000 people have traveled across the country as health experts cautioned that large-scale gatherings might fuel a wave of infections. 
  <p class="updated_time"> 09:21 AM CT, Nov. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59163384?at_medium=RSS&at_campaign=KARANGA">Ecuador president: More than batons needed to control jails</a> BBC: President Lasso says Ecuador needs more support to fight powerful gangs behind a rise in crime. 
  <p class="updated_time"> 09:01 AM CT, Nov. 04 </p> 
@@ -188,12 +192,12 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:00 PM CT, Nov. 04 </p> 
+ <a href="https://www.nytimes.com/article/vaccine-mandate-biden-osha.html">OSHA's Vaccine Mandate: Your Questions Answered</a> NYT: We’re answering your questions about the new OSHA rules for employers with 100 or more workers. This F.A.Q. was last updated at 7 p.m. 
  <p class="updated_time"> 05:50 PM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/nyregion/stephen-sweeney-durr-nj-election.html">Republican Truck Driver Beats Sweeney in N.J. Election</a> NYT: Mr. Sweeney, the second most powerful lawmaker in New Jersey and a Democrat, lost his bid for re-election to Edward Durr, a driver for a furniture chain. 
  <p class="updated_time"> 05:43 PM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/us/politics/igor-danchenko-arrested-steele-dossier.html">Authorities Arrest Analyst Who Contributed to Steele Dossier</a> NYT: Igor Danchenko, a Russia analyst who worked with Christopher Steele, the author of a dossier of rumors and unproven assertions about Donald J. Trump, was indicted as part of the Durham investigation. 
- <p class="updated_time"> 05:37 PM CT, Nov. 04 </p> 
- <a href="https://www.nytimes.com/article/vaccine-mandate-biden-osha.html">OSHA's Vaccine Mandate: Your Questions Answered</a> NYT: We’re answering your questions about the new OSHA rules for employers with 100 or more workers. This F.A.Q. was last updated at 6:30 p.m. 
  <p class="updated_time"> 04:44 PM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/us/politics/texas-voting-restrictions-lawsuit.html">Justice Dept. Sues Texas Over Voting Restrictions</a> NYT: The department argued that a major voting law passed by Republicans would disenfranchise several groups of vulnerable Texans. 
  <p class="updated_time"> 04:35 PM CT, Nov. 04 </p> 
