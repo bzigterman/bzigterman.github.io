@@ -188,6 +188,10 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:41 PM CT, Nov. 04 </p> 
+ <a href="https://www.politico.com/news/2021/11/04/house-megabill-passage-manchin-last-word-519570">Manchin will get last word, even as House races to pass megabill</a> Politico: House Democratic leaders and progressives want to speed toward passage of a bill that won't have a smooth ride through the Senate. 
+ <p class="updated_time"> 02:40 PM CT, Nov. 04 </p> 
+ <a href="https://www.nytimes.com/2021/11/04/us/politics/atlanta-mayor-runoff-felicia-moore.html">Felicia Moore, Andre Dickens Will Compete for Atlanta Mayor; Kasim Reed Falls Short</a> NYT: Two candidates, Felicia Moore and Andre Dickens, will compete in a runoff on Nov. 30. 
  <p class="updated_time"> 02:26 PM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/us/politics/robert-santos-census-bureau.html">Robert Santos Confirmed as First Latino to Lead Census Bureau</a> NYT: The confirmation on Thursday brings a permanent head to the agency after a turbulent period under the Trump administration. 
  <p class="updated_time"> 02:16 PM CT, Nov. 04 </p> 
@@ -198,8 +202,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/04/us/politics/house-democrats-biden.html">House Democrats Hunt for Votes to Pass Biden’s Domestic Agenda</a> NYT: Speaker Nancy Pelosi wants a vote as soon as Thursday night on a $1.85 trillion social policy and climate bill, but moderates are pushing back. 
  <p class="updated_time"> 01:31 PM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/article/vaccine-mandate-biden-osha.html">OSHA's Vaccine Mandate: Your Questions Answered</a> NYT: We’re answering your questions about the new OSHA rules for employers with 100 or more workers. This F.A.Q. was last updated at 2 p.m. 
- <p class="updated_time"> 01:20 PM CT, Nov. 04 </p> 
- <a href="https://www.nytimes.com/2021/11/04/us/politics/atlanta-mayor-runoff-felicia-moore.html">Felicia Moore, Andre Dickens Will Compete for Atlanta Mayor; Kasim Reed Falls Short</a> NYT: Two candidates, Felicia Moore and Andre Dickens, will compete in a runoff on Nov. 30. 
  <p class="updated_time"> 01:16 PM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/us/politics/biden-donors-white-house.html">Why Big Donors to Biden's 2020 Campaign Are Frustrated</a> NYT: Some of the top Democratic contributors have become increasingly frustrated with a lack of communication from the White House — and impatient with inaction on voting rights. 
  <p class="updated_time"> 11:54 AM CT, Nov. 04 </p> 
@@ -286,8 +288,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/10/29/you-have-a-manchin-problem-paid-leave-tossed-aside-despite-wooing-of-wva-senator-517731">Manchin upends paid leave, a benefit ‘personal to the president’</a> Politico: "We kept hearing, 'You have a Manchin problem,'" Molly Day, executive director of Paid Leave for the U.S., said. "So we kept digging in." 
  <p class="updated_time"> 04:47 PM CT, Oct. 29 </p> 
  <a href="https://www.politico.com/news/2021/10/29/biden-agenda-stalled-again-chaos-517711">Jayapal warned Klain not to push an infrastructure vote. Then chaos ensued.</a> Politico: It started when a top House progressive and the White House chief of staff got on the phone. It ended with sheer Democratic frustration. 
- <p class="updated_time"> 09:58 AM CT, Oct. 29 </p> 
- <a href="https://www.politico.com/news/2021/10/29/jan-6-committee-capitol-rioter-517602">Jan. 6 committee set to interview rioter who breached the Capitol</a> Politico: Heather Shaner, an attorney who represents multiple defendants in Jan. 6 cases, confirmed that one of her clients will be remotely interviewed Friday afternoon. 
  <p class="updated_time"> 06:23 AM CT, Oct. 29 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/10/29/dems-head-into-weekend-without-agreement-494903">Dems head into weekend without agreement</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 05:13 AM CT, Oct. 29 </p> 
