@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:45 PM CT, Nov. 04 </p> 
+ <a href="https://www.nytimes.com/2021/11/04/style/rangoli-art-diwali.html">The Art and Ritual of Rangoli</a> NYT: Making ornate floor art can be a celebratory act for festivals like Diwali and a meditative practice. 
+ <p class="updated_time"> 12:38 PM CT, Nov. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59167085?at_medium=RSS&at_campaign=KARANGA">Ahmaud Arbery: Nearly all-white jury chosen in black jogger murder trial</a> BBC: The judge noted the appearance of discriminatory selection in the trial over Ahmaud Arbery's death. 
  <p class="updated_time"> 12:06 PM CT, Nov. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59160525?at_medium=RSS&at_campaign=KARANGA">Covid: Record German cases as WHO warns of Europe deaths</a> BBC: Almost 34,000 cases are reported in Germany as the WHO warns of half a million more deaths in Europe. 
  <p class="updated_time"> 12:04 PM CT, Nov. 04 </p> 
@@ -49,6 +53,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/science-environment-59159018?at_medium=RSS&at_campaign=KARANGA">COP26: More than 40 countries pledge to quit coal</a> BBC: Countries pledge to shift away from coal and end fossil fuel financing, but key players are missing. 
  <p class="updated_time"> 08:45 AM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/03/us/mayor-eric-garcetti-of-los-angeles-tests-positive-for-the-virus.html">Mayor Eric Garcetti of Los Angeles tests positive for the virus.</a> NYT: Mr. Garcetti’s office said the mayor, who is in Scotland for a conference on climate change, was feeling good and had been fully vaccinated. 
+ <p class="updated_time"> 08:42 AM CT, Nov. 04 </p> 
+ <a href="https://www.wsj.com/articles/climate-finance-china-india-11636039142">China, India and Other Developing Nations Seek $1.3 Trillion a Year in Climate Finance</a> WSJ: Most of the world’s developing countries have backed a demand for wealthy nations to channel at least $1.3 trillion in climate finance to them annually starting in 2030, the opening salvo in one of the most contentious negotiating topics at the COP26 climate summit. 
  <p class="updated_time"> 08:36 AM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/world/australia/charge-cleo-smith.html">Cleo Smith Abduction: Australian Man Is Charged After 18-Day Search </a> NYT: The legal action came as the Australian authorities continued to address questions about how the police had been able to find Cleo Smith, who vanished from a remote campsite. 
  <p class="updated_time"> 07:49 AM CT, Nov. 04 </p> 
@@ -59,8 +65,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/covid-19-coronavirus-coverup-tanzania-11636042309">Inside the World's Most Blatant Covid-19 Coverup: Secret Burials, a Dead President</a> WSJ: Tanzania denied the existence of the pandemic for months, even as thousands likely died. The country is a clue to its hidden global toll; “This is one of the government’s coronavirus cemeteries, but we’re not allowed to call it that.” 
  <p class="updated_time"> 06:31 AM CT, Nov. 04 </p> 
  <a href="https://www.wsj.com/articles/hong-kongs-top-court-narrows-scope-for-charging-protesters-11636027743">Hong Kong's Top Court Narrows Scope for Charging Protesters</a> WSJ: The city’s highest court ruled against the government in a rioting case, a decision likely to draw greater scrutiny from Beijing of the Chinese territory’s British-style justice system. 
- <p class="updated_time"> 06:23 AM CT, Nov. 04 </p> 
- <a href="https://www.wsj.com/articles/climate-finance-china-india-11636039142">China, India and Other Developing Nations Seek $1.3 Trillion a Year in Climate Finance</a> WSJ: Most of the world’s developing countries have backed a demand for wealthy nations to channel at least $1.3 trillion in climate finance to them annually starting in 2030, the opening salvo in one of the most contentious negotiating topics at the COP26 climate summit. 
  <p class="updated_time"> 06:05 AM CT, Nov. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59162188?at_medium=RSS&at_campaign=KARANGA">Cleo Smith: Australian man charged over four-year-old's abduction</a> BBC: The four-year-old was found in a locked home 18 days after disappearing while on holiday with family. 
  <p class="updated_time"> 05:32 AM CT, Nov. 04 </p> 
@@ -89,8 +93,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-59158568?at_medium=RSS&at_campaign=KARANGA">Amanda Knox on how she thinks her case would be viewed today</a> BBC: She speaks about losing control of her identity during the Meredith Kercher murder investigation. 
  <p class="updated_time"> 02:36 AM CT, Nov. 04 </p> 
  <a href="https://www.wsj.com/articles/covid-19-lockdowns-ripple-across-chinai-wonder-how-long-i-can-hang-on-11636025787">Covid-19 Lockdowns Ripple Across China</a> WSJ: As the Delta variant puts China through one of its biggest Covid-19 outbreaks since it first closed off Wuhan in early 2020, new lockdowns and other strict controls are taking place across the country. 
- <p class="updated_time"> 02:00 AM CT, Nov. 04 </p> 
- <a href="https://www.nytimes.com/2021/11/04/style/rangoli-art-diwali.html">The Art and Ritual of Rangoli</a> NYT: Making ornate floor art can be a celebratory act for festivals like Diwali and a meditative practice. 
  <p class="updated_time"> 11:39 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/australia/missing-cleo-smith.html">Cleo Smith, 4, Is Found 18 Days After She Vanishes in Australia</a> NYT: Cleo Smith disappeared one night while camping with her family in a remote area of Australia. She was found “alive and well” in a locked house, and a man was detained. 
  <p class="updated_time"> 10:52 PM CT, Nov. 03 </p> 
@@ -111,8 +113,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/newsbeat-59149046?at_medium=RSS&at_campaign=KARANGA">Schitt's Creek's Dan Levy on memes, representation and 'Ew David'</a> BBC: Dan Levy tells Newsbeat about iconic memes, the Rose family and LGBTQ+ representation on his show. 
  <p class="updated_time"> 08:01 PM CT, Nov. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59075043?at_medium=RSS&at_campaign=KARANGA">Greeks fear megafires could be new normal for Med</a> BBC: On the Greek island of Evia last summer an intense conflagration took almost two weeks to control. 
- <p class="updated_time"> 07:46 PM CT, Nov. 03 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-59148520?at_medium=RSS&at_campaign=KARANGA">Climate change: Carbon emissions show rapid rebound after Covid dip</a> BBC: Global carbon emissions are set to get back close to the levels they were at before Covid. 
  <p class="updated_time"> 07:24 PM CT, Nov. 03 </p> 
  <a href="https://www.bbc.co.uk/news/uk-59149435?at_medium=RSS&at_campaign=KARANGA">COP26: How protesters prepared for the Glasgow climate change summit</a> BBC: Since the COP26 climate change summit started, hundreds of protesters have taken to the city's streets. 
  <p class="updated_time"> 07:23 PM CT, Nov. 03 </p> 
@@ -185,7 +185,7 @@ permalink: /projects/news/
 <summary>Politics</summary>
 
  <p class="updated_time"> 12:15 PM CT, Nov. 04 </p> 
- <a href="https://www.nytimes.com/2021/11/04/us/politics/atlanta-mayor-runoff-felicia-moore.html">The Atlanta Mayor’s Race Proceeds to a Runoff Without Kasim Reed</a> NYT: Two candidates, Felicia Moore and Andre Dickens, will compete in a runoff on Nov. 30. 
+ <a href="https://www.nytimes.com/2021/11/04/us/politics/atlanta-mayor-runoff-felicia-moore.html">Felicia Moore, Andre Dickens Will Compete for Atlanta Mayor; Kasim Reed Falls Short</a> NYT: Two candidates, Felicia Moore and Andre Dickens, will compete in a runoff on Nov. 30. 
  <p class="updated_time"> 12:09 PM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/article/vaccine-mandate-biden-osha.html">Biden's Vaccine Mandate: Your Questions Answered</a> NYT: The Occupational Safety and Health Administration has laid out guidance for companies with 100 or more employees to ensure their workers are fully vaccinated by Jan. 4 or submit to weekly testing. 
  <p class="updated_time"> 12:03 PM CT, Nov. 04 </p> 
