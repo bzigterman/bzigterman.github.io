@@ -7,14 +7,14 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:32 PM CT, Nov. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-59159025?at_medium=RSS&at_campaign=KARANGA">ICC to probe Venezuela over alleged crimes against humanity</a> BBC: The International Criminal Court will examine allegations of torture and extrajudicial killings. 
  <p class="updated_time"> 10:02 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/mayor-eric-garcetti-of-los-angeles-tests-positive-for-the-virus.html">Mayor Eric Garcetti of Los Angeles tests positive for the virus.</a> NYT: Mr. Garcetti’s office said the mayor, who is in Scotland for a conference on climate change, was feeling good and had been fully vaccinated. 
  <p class="updated_time"> 09:56 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/asia/heather-mack-arrested.html">Back in Chicago, Woman Is Charged in Killing of Mother on Indonesian Vacation</a> NYT: Heather L. Mack, 26, had already served more than six years in prison in Indonesia for the 2014 killing of her mother, whose body was found in a suitcase at a Bali resort. 
  <p class="updated_time"> 09:36 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/africa/ethiopia-war-un-report.html">Ethiopia’s Leader Vows to ‘Bury This Enemy,’ Even as Rebels Advance</a> NYT: A United Nations report, released as Tigrayan rebels near the capital, documents atrocities on all sides in a year-old civil war. 
- <p class="updated_time"> 09:31 PM CT, Nov. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-59159025?at_medium=RSS&at_campaign=KARANGA">ICC to probe Venezuela over alleged crimes against humanity</a> BBC: The International Criminal Court will examine allegations of torture and extrajudicial killings. 
  <p class="updated_time"> 09:18 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/australia/missing-cleo-smith.html">Cleo Smith, 4, Is Found 18 Days After She Vanishes in Australia</a> NYT: Cleo Smith disappeared one night while camping with her family in a remote area of Australia. She was found “alive and well” in a locked house, and a man was detained. 
  <p class="updated_time"> 08:50 PM CT, Nov. 03 </p> 
