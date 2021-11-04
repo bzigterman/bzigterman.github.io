@@ -726,10 +726,10 @@ recent_data <- data %>%
 ggplot(data = data,
        aes(x = date,
            y = value)) +
-  geom_point(size = .4,
-             aes(color = value > 100)) +
   geom_line(color = "grey60",
             size = .4) +
+  geom_point(size = .4,
+             aes(color = value > 100)) +
   labs(title = "Flash Index",
        caption = paste("Source: Institute of Government and Public Affairs at the University of Illinois. Latest data:",
                        tail(recent_data$short_date,1))) +
