@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:39 PM CT, Nov. 03 </p> 
+ <a href="https://www.nytimes.com/2021/11/03/world/australia/missing-cleo-smith.html">Cleo Smith, 4, Is Found 18 Days After She Vanishes in Australia</a> NYT: Cleo Smith disappeared one night while camping with her family in a remote area of Australia. She was found “alive and well” in a locked house, and a man was detained. 
  <p class="updated_time"> 10:52 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/asia/covaxin-covid-vaccine-who.html">Covaxin, Vaccine Developed in India, Gets W.H.O. Clearance</a> NYT: The vaccine is the eighth coronavirus vaccine to receive the global health body’s green light. 
  <p class="updated_time"> 10:32 PM CT, Nov. 03 </p> 
@@ -17,8 +19,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/03/world/asia/heather-mack-arrested.html">Back in Chicago, Woman Is Charged in Killing of Mother on Indonesian Vacation</a> NYT: Heather L. Mack, 26, had already served more than six years in prison in Indonesia for the 2014 killing of her mother, whose body was found in a suitcase at a Bali resort. 
  <p class="updated_time"> 09:36 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/africa/ethiopia-war-un-report.html">Ethiopia’s Leader Vows to ‘Bury This Enemy,’ Even as Rebels Advance</a> NYT: A United Nations report, released as Tigrayan rebels near the capital, documents atrocities on all sides in a year-old civil war. 
- <p class="updated_time"> 09:18 PM CT, Nov. 03 </p> 
- <a href="https://www.nytimes.com/2021/11/03/world/australia/missing-cleo-smith.html">Cleo Smith, 4, Is Found 18 Days After She Vanishes in Australia</a> NYT: Cleo Smith disappeared one night while camping with her family in a remote area of Australia. She was found “alive and well” in a locked house, and a man was detained. 
  <p class="updated_time"> 08:50 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/middleeast/iran-tanker-oil.html">Iran Seizes an Oil Tanker, but Whose Tanker Is Disputed</a> NYT: U.S. and Iranian officials gave conflicting accounts of a ship that was seized last month. Some reports said it was the same tanker the United States had seized last year. The Pentagon denied that. 
  <p class="updated_time"> 08:43 PM CT, Nov. 03 </p> 
@@ -190,6 +190,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:26 PM CT, Nov. 03 </p> 
+ <a href="https://www.nytimes.com/2021/11/03/us/politics/rescind-medals-wounded-knee-massacre.html">Lawmakers Ask Biden to Rescind Medals for Wounded Knee Massacre</a> NYT: Seventeen members of Congress said they believed it was within President Biden’s authority to revoke Medals of Honor “when appropriate.” 
  <p class="updated_time"> 11:00 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/us/politics/democrat-losses-2022.html">Reeling From Surprise Losses, Democrats Sound the Alarm for 2022</a> NYT: Party officials say the White House and Congress must do more to address the electorate’s deep malaise or risk watching voters lurch back toward the G.O.P. by default. 
  <p class="updated_time"> 08:37 PM CT, Nov. 03 </p> 
@@ -224,8 +226,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/03/us/politics/pelosi-paid-leave.html">House Democrats Revive Paid Leave Program, Ignoring Manchin’s Concerns</a> NYT: The House plans to add a provision to provide four weeks of federally paid family and medical leave to their social policy bill, but it is all but certain to be jettisoned by the Senate. 
  <p class="updated_time"> 03:16 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/business/media/smartmatic-newsmax-oan.html">Smartmatic Sues Newsmax and One America News Network for Defamation</a> NYT: Smartmatic, an election technology company that faced baseless accusations of rigging the 2020 election, has filed a similar lawsuit against Fox News. 
- <p class="updated_time"> 02:54 PM CT, Nov. 03 </p> 
- <a href="https://www.nytimes.com/2021/11/03/us/politics/rescind-medals-wounded-knee-massacre.html">Lawmakers Ask Biden to Rescind Medals for Wounded Knee Massacre</a> NYT: Seventeen members of Congress said they believed it was within President Biden’s authority to revoke Medals of Honor “when appropriate.” 
  <p class="updated_time"> 02:28 PM CT, Nov. 03 </p> 
  <a href="https://www.politico.com/news/2021/11/03/senate-republicans-voting-reform-block-519082">Senate GOP blocks latest Dem push for voting reform</a> Politico: Alaska’s Lisa Murkowski was the only Republican to join Democrats on the bill named for the late Rep. John Lewis. 
  <p class="updated_time"> 12:38 PM CT, Nov. 03 </p> 
