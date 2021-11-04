@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:33 PM CT, Nov. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59166081?at_medium=RSS&at_campaign=KARANGA">South Africa municipal elections: Who are the winners and losers?</a> BBC: The party of Nelson Mandela gets less than 50% nationwide for the first time since the end of apartheid. 
+ <p class="updated_time"> 02:32 PM CT, Nov. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59161936?at_medium=RSS&at_campaign=KARANGA">Somizi Mhlongo: Gay TV star cancels Zimbabwe trip after churches complain</a> BBC: Somizi Mhlongo cancels a trip after a religious coalition tried to ban him because of his sexuality. 
  <p class="updated_time"> 01:54 PM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/world/europe/britain-france-johnson-macron.html">Bitterness Over Brexit Lies Behind Fraying France-U.K. Relations</a> NYT: A recent dispute over fishing rights illuminates a broader and more fundamental disagreement over Britain’s decision to leave the European Union. 
  <p class="updated_time"> 01:39 PM CT, Nov. 04 </p> 
@@ -51,8 +55,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/04/world/europe/italy-trieste-covid-protests.html">Trieste, Center of Italy’s Anti-Vaccine Protests, Is Now a Covid Hot Spot</a> NYT: After leading the resistance to the government’s new health pass, the northeastern port city of Trieste is home to a worrying spike in cases. 
  <p class="updated_time"> 09:21 AM CT, Nov. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59163384?at_medium=RSS&at_campaign=KARANGA">Ecuador president: More than batons needed to control jails</a> BBC: President Lasso says Ecuador needs more support to fight powerful gangs behind a rise in crime. 
- <p class="updated_time"> 09:09 AM CT, Nov. 04 </p> 
- <a href="https://www.bbc.co.uk/news/newsbeat-59163204?at_medium=RSS&at_campaign=KARANGA">Tiger King's Joe Exotic asks for release from jail after cancer diagnosis</a> BBC: The jailed zookeeper repeated his request to be pardoned, and to "enjoy what life I have left with my loved ones". 
  <p class="updated_time"> 09:01 AM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/africa/ethiopia-war-un-report.html">Ethiopia’s Leader Vows to ‘Bury This Enemy,’ Even as Rebels Advance</a> NYT: A United Nations report, released as Tigrayan rebels near the capital, documents atrocities on all sides in a year-old civil war. 
  <p class="updated_time"> 08:54 AM CT, Nov. 04 </p> 
@@ -65,8 +67,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/04/world/australia/charge-cleo-smith.html">Cleo Smith Abduction: Australian Man Is Charged After 18-Day Search </a> NYT: The legal action came as the Australian authorities continued to address questions about how the police had been able to find Cleo Smith, who vanished from a remote campsite. 
  <p class="updated_time"> 07:49 AM CT, Nov. 04 </p> 
  <a href="https://www.bbc.co.uk/news/technology-59154520?at_medium=RSS&at_campaign=KARANGA">Facebook's metaverse plans labelled as 'dystopian' and 'a bad idea'</a> BBC: Roger McNamee, an early Facebook investor, says it "should not be allowed" to build the metaverse. 
- <p class="updated_time"> 07:20 AM CT, Nov. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-59162501?at_medium=RSS&at_campaign=KARANGA">Hundreds join violence against women protest in Mexico</a> BBC: Protesters carry crosses bearing the names of murdered women to draw attention to rising femicide cases. 
  <p class="updated_time"> 07:13 AM CT, Nov. 04 </p> 
  <a href="https://www.wsj.com/articles/covid-19-coronavirus-coverup-tanzania-11636042309">Inside the World's Most Blatant Covid-19 Coverup: Secret Burials, a Dead President</a> WSJ: Tanzania denied the existence of the pandemic for months, even as thousands likely died. The country is a clue to its hidden global toll; “This is one of the government’s coronavirus cemeteries, but we’re not allowed to call it that.” 
  <p class="updated_time"> 06:31 AM CT, Nov. 04 </p> 
@@ -188,6 +188,12 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:56 PM CT, Nov. 04 </p> 
+ <a href="https://www.nytimes.com/2021/11/04/us/politics/igor-danchenko-arrested-steele-dossier.html">Authorities Arrest Analyst Who Contributed to Steele Dossier</a> NYT: Igor Danchenko, a Russia analyst who worked with Christopher Steele, the author of a dossier of rumors and unproven assertions about Donald J. Trump, was indicted as part of the Durham investigation. 
+ <p class="updated_time"> 02:54 PM CT, Nov. 04 </p> 
+ <a href="https://www.nytimes.com/article/vaccine-mandate-biden-osha.html">OSHA's Vaccine Mandate: Your Questions Answered</a> NYT: We’re answering your questions about the new OSHA rules for employers with 100 or more workers. This F.A.Q. was last updated at 3:30 p.m. 
+ <p class="updated_time"> 02:51 PM CT, Nov. 04 </p> 
+ <a href="https://www.nytimes.com/2021/11/04/us/politics/trump-jan-6-documents.html">Judge Questions Trump’s Grounds for Keeping Jan. 6 Documents Secret</a> NYT: In a hearing on Thursday, a federal judge voiced skepticism about the former president’s claim that hundreds of pages of documents related to the riot should be shielded by executive privilege. 
  <p class="updated_time"> 02:41 PM CT, Nov. 04 </p> 
  <a href="https://www.politico.com/news/2021/11/04/house-megabill-passage-manchin-last-word-519570">Manchin will get last word, even as House races to pass megabill</a> Politico: House Democratic leaders and progressives want to speed toward passage of a bill that won't have a smooth ride through the Senate. 
  <p class="updated_time"> 02:40 PM CT, Nov. 04 </p> 
@@ -200,8 +206,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/04/us/politics/democrats-spending-bill-budget-tricks.html">Democrats Employ Budget Gimmicks They Once Derided</a> NYT: Budget experts say true cost of legislation could be $4 trillion as lawmakers rely on sleights of hand to bring down the price tag. 
  <p class="updated_time"> 01:35 PM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/us/politics/house-democrats-biden.html">House Democrats Hunt for Votes to Pass Biden’s Domestic Agenda</a> NYT: Speaker Nancy Pelosi wants a vote as soon as Thursday night on a $1.85 trillion social policy and climate bill, but moderates are pushing back. 
- <p class="updated_time"> 01:31 PM CT, Nov. 04 </p> 
- <a href="https://www.nytimes.com/article/vaccine-mandate-biden-osha.html">OSHA's Vaccine Mandate: Your Questions Answered</a> NYT: We’re answering your questions about the new OSHA rules for employers with 100 or more workers. This F.A.Q. was last updated at 2 p.m. 
  <p class="updated_time"> 01:16 PM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/us/politics/biden-donors-white-house.html">Why Big Donors to Biden's 2020 Campaign Are Frustrated</a> NYT: Some of the top Democratic contributors have become increasingly frustrated with a lack of communication from the White House — and impatient with inaction on voting rights. 
  <p class="updated_time"> 11:54 AM CT, Nov. 04 </p> 
@@ -210,8 +214,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/03/us/politics/school-republican-campaign-issue.html">Republicans Seize on Schools as a Wedge Issue to Unite the Party</a> NYT: Rallying around what it calls “parental rights,” the party is pushing to build on its victories this week by stoking white resentment and tapping into broader anger at the education system. 
  <p class="updated_time"> 06:45 AM CT, Nov. 04 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/11/04/dems-attempt-an-end-of-week-spri-494981">Dems attempt an end-of-week sprint</a> Politico: A play-by-play preview of the day&#39;s congressional news 
- <p class="updated_time"> 05:29 AM CT, Nov. 04 </p> 
- <a href="https://www.nytimes.com/2021/11/03/us/politics/democrats-virginia-biden-congress.html">Democrats, Stung by Losses, Press Forward on Biden Agenda</a> NYT: Disappointed by a defeat in Virginia and a closer-than-expected race in New Jersey, Democrats were working toward quick action on key bills to show they could govern. 
  <p class="updated_time"> 05:13 AM CT, Nov. 04 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/04/for-dems-its-2009-all-over-again-494977">POLITICO Playbook: For Dems, it’s ’2009 all over again’</a> Politico: And New Jersey Gov. Phil Murphy wins reelection narrowly. 
  <p class="updated_time"> 04:09 AM CT, Nov. 04 </p> 
@@ -238,8 +240,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/03/senate-republicans-voting-reform-block-519082">Senate GOP blocks latest Dem push for voting reform</a> Politico: Alaska’s Lisa Murkowski was the only Republican to join Democrats on the bill named for the late Rep. John Lewis. 
  <p class="updated_time"> 12:36 PM CT, Nov. 03 </p> 
  <a href="https://www.politico.com/news/2021/11/03/democrats-virginia-congress-519051">Dems keep butting heads after Virginia shellacking</a> Politico: Most agreed that the dismal election results underscored the need to move past the infighting that’s defined their majorities for months. There’s hardly any agreement on much else. 
- <p class="updated_time"> 11:46 AM CT, Nov. 03 </p> 
- <a href="https://www.nytimes.com/2021/11/03/business/economy/biden-trade-policy-steel.html">European Steel Plan Shows Biden’s Bid to Merge Climate and Trade Policy</a> NYT: A potential agreement on steel trade provides the clearest look yet at how the Biden administration plans to implement a trade policy that is both protectionist and progressive 
  <p class="updated_time"> 06:53 AM CT, Nov. 03 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/11/03/democrats-discontent-494962">Democrats’ discontent</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 05:22 AM CT, Nov. 03 </p> 
