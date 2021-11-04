@@ -7,10 +7,14 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:29 PM CT, Nov. 04 </p> 
+ <a href="https://www.nytimes.com/2021/11/04/world/canada/canada-military-sexual-assault.html">Canada Turns Over Military Sexual Assault Cases to Civilian Courts</a> NYT: With the military’s leadership in crisis, a new defense minister adopted a recommendation to remove prosecutorial authority for sexual misconduct cases from the armed forces. 
+ <p class="updated_time"> 05:14 PM CT, Nov. 04 </p> 
+ <a href="https://www.nytimes.com/2021/11/04/world/europe/brexit-britain-france-johnson-macron.html">Bitterness Over Brexit Lies Behind Fraying France-U.K. Relations</a> NYT: A recent dispute over fishing rights illuminates a broader and more fundamental disagreement over Britain’s decision to leave the European Union. 
+ <p class="updated_time"> 05:14 PM CT, Nov. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59160525?at_medium=RSS&at_campaign=KARANGA">Covid: WHO warns Europe once again at epicentre of pandemic</a> BBC: The WHO warns of 500,000 more deaths in Europe by February as cases soar across the continent. 
  <p class="updated_time"> 05:01 PM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/world/europe/covid-surge-europe-who.html">W.H.O. Official: 'Europe Is Back at Epicenter of the Pandemic'</a> NYT: The World Health Organization said Europe was responsible for nearly three-fifths of the world’s recent coronavirus cases, and that deaths in the region were surging. 
- <p class="updated_time"> 04:47 PM CT, Nov. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59160525?at_medium=RSS&at_campaign=KARANGA">Covid: WHO warns Europe once again at epicentre of pandemic</a> BBC: The WHO warns of 500,000 more deaths in Europe by February as cases soar across the continent. 
  <p class="updated_time"> 04:31 PM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/africa/south-africa-coal-renewables.html">South Africa to Get $8.5 billion to Shift From Coal to Renewables</a> NYT: Developing nations have long said they need aid from wealthy countries to shift to renewable energy. South Africa may show how that would work in practice. 
  <p class="updated_time"> 04:31 PM CT, Nov. 04 </p> 
@@ -29,8 +33,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-59166081?at_medium=RSS&at_campaign=KARANGA">South Africa municipal elections: Who are the winners and losers?</a> BBC: The party of Nelson Mandela gets less than 50% nationwide for the first time since the end of apartheid. 
  <p class="updated_time"> 02:32 PM CT, Nov. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59161936?at_medium=RSS&at_campaign=KARANGA">Somizi Mhlongo: Gay TV star cancels Zimbabwe trip after churches complain</a> BBC: Somizi Mhlongo cancels a trip after a religious coalition tried to ban him because of his sexuality. 
- <p class="updated_time"> 01:54 PM CT, Nov. 04 </p> 
- <a href="https://www.nytimes.com/2021/11/04/world/europe/brexit-britain-france-johnson-macron.html">Bitterness Over Brexit Lies Behind Fraying France-U.K. Relations</a> NYT: A recent dispute over fishing rights illuminates a broader and more fundamental disagreement over Britain’s decision to leave the European Union. 
  <p class="updated_time"> 01:39 PM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/europe/belgium-congo-kidnapping.html">Torn From Parents in the Belgian Congo, Women Seek Reparations</a> NYT: Belgium has apologized for the kidnapping and deportation of thousands of mixed-race children under its colonial rule. Survivors say that reparations should be the next step. 
  <p class="updated_time"> 01:33 PM CT, Nov. 04 </p> 
@@ -41,6 +43,10 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59169547?at_medium=RSS&at_campaign=KARANGA">COP26: Indonesia criticises 'unfair' deal to end deforestation</a> BBC: The country's environment minister says the country "can't promise what we can't do". 
  <p class="updated_time"> 12:45 PM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/style/rangoli-art-diwali.html">The Art and Ritual of Rangoli</a> NYT: Making ornate floor art can be a celebratory act for festivals like Diwali and a meditative practice. 
+ <p class="updated_time"> 12:18 PM CT, Nov. 04 </p> 
+ <a href="https://www.wsj.com/articles/new-galapagos-conservation-efforts-aim-to-counter-china-fishing-fleet-11636054242">New Galápagos Conservation Efforts Aim to Counter China Fishing Fleet</a> WSJ: Environmentalists applaud the plan by Ecuador and others to create a vast area off-limits to industrial fishing, but enforcement will be a challenge. 
+ <p class="updated_time"> 12:08 PM CT, Nov. 04 </p> 
+ <a href="https://www.wsj.com/articles/canada-strips-military-of-powers-to-investigate-sexual-misconduct-11636060090">Canada Strips Military of Powers to Investigate Sexual Misconduct</a> WSJ: Defense minister says all investigations, prosecutions of sexual offenses in military to be handled by civilian law enforcement. 
  <p class="updated_time"> 12:01 PM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/science/nasa-space-tacos.html">NASA’s Latest Breakthrough: ‘Best Space Tacos Yet’</a> NYT: For the first time, astronauts on the International Space Station cultivated chiles, adding some zing to their tacos. 
  <p class="updated_time"> 11:59 AM CT, Nov. 04 </p> 
@@ -175,8 +181,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-australia-59146086?at_medium=RSS&at_campaign=KARANGA">Cleo Smith: Missing four-year-old found alive weeks after vanishing</a> BBC: Cleo Smith disappeared from her family's tent at a campsite in Western Australia 18 days ago. 
  <p class="updated_time"> 04:24 PM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/02/world/africa/nigeria-lagos-building-collapse.html">Building in Nigeria Had ‘Abnormalities’ Before Collapse</a> NYT: At least 20 people were killed when the high-rise in an upscale neighborhood in the commercial capital of Lagos crumbled on Monday afternoon. 
- <p class="updated_time"> 02:43 PM CT, Nov. 02 </p> 
- <a href="https://www.nytimes.com/2021/11/02/world/middleeast/palestinian-jerusalem-eviction-jarrah.html">Palestinian Families Reject Deal in Area That Helped Set Off Gaza Conflict</a> NYT: The threatened evictions of Palestinian residents of the Sheikh Jarrah neighborhood of East Jerusalem led to a war in Gaza last May. 
 
 
 </details>
