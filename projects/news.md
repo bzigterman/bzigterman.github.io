@@ -9,6 +9,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 05:29 PM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/world/canada/canada-military-sexual-assault.html">Canada Turns Over Military Sexual Assault Cases to Civilian Courts</a> NYT: With the military’s leadership in crisis, a new defense minister adopted a recommendation to remove prosecutorial authority for sexual misconduct cases from the armed forces. 
+ <p class="updated_time"> 05:26 PM CT, Nov. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-59171903?at_medium=RSS&at_campaign=KARANGA">Mexico: Shooting near Cancun leaves two dead, prosecutors say</a> BBC: A gang shootout near the Mexican resort has left two suspected drug dealers dead, prosecutors say. 
  <p class="updated_time"> 05:14 PM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/world/europe/brexit-britain-france-johnson-macron.html">Bitterness Over Brexit Lies Behind Fraying France-U.K. Relations</a> NYT: A recent dispute over fishing rights illuminates a broader and more fundamental disagreement over Britain’s decision to leave the European Union. 
  <p class="updated_time"> 05:14 PM CT, Nov. 04 </p> 
@@ -101,8 +103,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/merck-ridgeback-covid-19-pill-cleared-for-use-in-u-k-11636023388">Merck Covid-19 Pill Cleared for Use in U.K., Its First Authorization</a> WSJ: Health regulators approved molnupiravir, which can be taken at home and promises to reduce the risk of hospitalization. The U.S. is expected to follow in coming months. 
  <p class="updated_time"> 04:09 AM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/latin-america-pressed-on-vaccine-priorities.html">With scant vaccine supplies, the W.H.O. presses Latin America and the Caribbean to hold off on boosters.</a> NYT: Sufficient shipments of doses have been slow to reach many countries in the region and economic inequalities are complicating matters. 
- <p class="updated_time"> 03:58 AM CT, Nov. 04 </p> 
- <a href="https://www.bbc.co.uk/news/health-59148620?at_medium=RSS&at_campaign=KARANGA">HPV vaccine cutting cervical cancer by nearly 90%</a> BBC: Researchers say regular cervical screening may not be necessary because of the success of the vaccine. 
  <p class="updated_time"> 03:35 AM CT, Nov. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59160914?at_medium=RSS&at_campaign=KARANGA">Cleo Smith: Listen to the moment police rescued missing girl</a> BBC: Listen to the moment police in Western Australia found a four-year-old girl who had been missing for 18 days. 
  <p class="updated_time"> 03:22 AM CT, Nov. 04 </p> 
@@ -188,6 +188,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:37 PM CT, Nov. 04 </p> 
+ <a href="https://www.nytimes.com/article/vaccine-mandate-biden-osha.html">OSHA's Vaccine Mandate: Your Questions Answered</a> NYT: We’re answering your questions about the new OSHA rules for employers with 100 or more workers. This F.A.Q. was last updated at 6:30 p.m. 
  <p class="updated_time"> 04:44 PM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/us/politics/texas-voting-restrictions-lawsuit.html">Justice Dept. Sues Texas Over Voting Restrictions</a> NYT: The department argued that a major voting law passed by Republicans would disenfranchise several groups of vulnerable Texans. 
  <p class="updated_time"> 04:36 PM CT, Nov. 04 </p> 
@@ -204,8 +206,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/04/us/politics/biden-donors-white-house.html">Why Big Donors to Biden's 2020 Campaign Are Frustrated</a> NYT: Some of the top Democratic contributors have become increasingly dissatisfied with a lack of communication from the White House — and impatient with inaction on voting rights. 
  <p class="updated_time"> 03:01 PM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/03/us/politics/democrat-losses-2022.html">Reeling From Surprise Losses, Democrats Sound the Alarm for 2022</a> NYT: Party officials say the White House and Congress must do more to address the electorate’s deep malaise or risk watching voters lurch back toward the G.O.P. by default. 
- <p class="updated_time"> 02:54 PM CT, Nov. 04 </p> 
- <a href="https://www.nytimes.com/article/vaccine-mandate-biden-osha.html">OSHA's Vaccine Mandate: Your Questions Answered</a> NYT: We’re answering your questions about the new OSHA rules for employers with 100 or more workers. This F.A.Q. was last updated at 3:30 p.m. 
  <p class="updated_time"> 02:51 PM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/us/politics/trump-jan-6-documents.html">Judge Questions Trump’s Grounds for Keeping Jan. 6 Documents Secret</a> NYT: In a hearing on Thursday, a federal judge voiced skepticism about the former president’s claim that hundreds of pages of documents related to the riot should be shielded by executive privilege. 
  <p class="updated_time"> 02:41 PM CT, Nov. 04 </p> 
