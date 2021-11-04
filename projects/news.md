@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:01 PM CT, Nov. 04 </p> 
+ <a href="https://www.nytimes.com/2021/11/04/world/europe/covid-surge-europe-who.html">W.H.O. Official: 'Europe Is Back at Epicenter of the Pandemic'</a> NYT: The World Health Organization said Europe was responsible for nearly three-fifths of the world’s recent coronavirus cases, and that deaths in the region were surging. 
  <p class="updated_time"> 04:47 PM CT, Nov. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59160525?at_medium=RSS&at_campaign=KARANGA">Covid: WHO warns Europe once again at epicentre of pandemic</a> BBC: The WHO warns of 500,000 more deaths in Europe by February as cases soar across the continent. 
  <p class="updated_time"> 04:31 PM CT, Nov. 04 </p> 
@@ -45,8 +47,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/science-environment-59167788?at_medium=RSS&at_campaign=KARANGA">My Day at COP26: 'It's my job to keep the summit fed - sustainably'</a> BBC: Lorna Wilson - in charge of catering at COP26 in Glasgow - describes the unique challenges of preparing for the event. 
  <p class="updated_time"> 11:53 AM CT, Nov. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59168626?at_medium=RSS&at_campaign=KARANGA">Trump-Russia Steele dossier analyst charged with lying to FBI</a> BBC: Igor Danchenko, who worked on a largely unsubstantiated 2016 dossier on Donald Trump, is arrested. 
- <p class="updated_time"> 11:46 AM CT, Nov. 04 </p> 
- <a href="https://www.nytimes.com/2021/11/04/world/europe/covid-surge-europe-who.html">W.H.O. Official: 'Europe Is Back at Epicenter of the Pandemic'</a> NYT: The World Health Organization said Europe was responsible for nearly three-fifths of the world’s recent coronavirus cases, and that deaths in the region were surging. 
  <p class="updated_time"> 11:36 AM CT, Nov. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59167345?at_medium=RSS&at_campaign=KARANGA">LA 'jetpack man' was probably a balloon</a> BBC: Investigators think a figure seen flying over Los Angeles was actually a life-size inflatable. 
  <p class="updated_time"> 11:27 AM CT, Nov. 04 </p> 
@@ -83,6 +83,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-australia-59162188?at_medium=RSS&at_campaign=KARANGA">Cleo Smith: Australian man charged over four-year-old's abduction</a> BBC: The four-year-old was found in a locked home 18 days after disappearing while on holiday with family. 
  <p class="updated_time"> 05:32 AM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/asia/china-metoo-peng-shuai-zhang-gaoli.html">China's Peng Shuai Makes #MeToo Claim Against Zhang Gaoli</a> NYT: Peng Shuai’s accusation against Zhang Gaoli takes the country’s budding #MeToo movement to the top echelons of the Communist Party for the first time. 
+ <p class="updated_time"> 05:26 AM CT, Nov. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/science-environment-56901261?at_medium=RSS&at_campaign=KARANGA">COP26: What is the Glasgow climate conference and why is it important?</a> BBC: A crucial climate change summit is being held in the UK - this is why it's important. 
  <p class="updated_time"> 04:53 AM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/australia/australia-scott-morrison-cop26.html">What Did Scott Morrison, Australia's Leader, Accomplish at COP26?</a> NYT: Prime Minister Scott Morrison did not announce any firm plans to move away from the country’s deep investment in fossil fuel production. 
  <p class="updated_time"> 04:45 AM CT, Nov. 04 </p> 
