@@ -7,10 +7,16 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:55 AM CT, Nov. 04 </p> 
+ <a href="https://www.nytimes.com/2021/11/04/world/middleeast/israel-budget.html">Israel Passes State Budget</a> NYT: The vote raised hopes that the country might be headed for a period of more political stability after the chaos of four elections in quick succession. 
+ <p class="updated_time"> 09:50 AM CT, Nov. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59162472?at_medium=RSS&at_campaign=KARANGA">Tom Vennink: Dutch dismay as Russia expels correspondent</a> BBC: Tom Vennink is barred from Russia until 2025 in a move criticised as an attack on media freedom. 
+ <p class="updated_time"> 09:48 AM CT, Nov. 04 </p> 
+ <a href="https://www.nytimes.com/2021/11/04/world/europe/italy-trieste-covid-protests.html">Trieste, Center of Italy’s Anti-Vaccine Protests, Is Now a Covid Hot Spot</a> NYT: The port city of Trieste has become a prime example for Europe of how pockets of resistance to vaccines and other precautions is driving a new surge in Covid cases. 
  <p class="updated_time"> 09:37 AM CT, Nov. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59138213?at_medium=RSS&at_campaign=KARANGA">Kyle Rittenhouse trial: When can you shoot as self-defence?</a> BBC: A US teenager, 18, is now on trial over a fatal altercation during protests in Wisconsin last year. 
- <p class="updated_time"> 09:23 AM CT, Nov. 04 </p> 
- <a href="https://www.nytimes.com/2021/11/04/world/europe/italy-trieste-covid-protests.html">Trieste, Center of Italy’s Anti-Vaccine Protests, Is Now a Covid Hot Spot</a> NYT: After leading the resistance to the government’s new health pass, the northeastern port city of Trieste is home to a worrying spike in cases. 
+ <p class="updated_time"> 09:09 AM CT, Nov. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/newsbeat-59163204?at_medium=RSS&at_campaign=KARANGA">Tiger King's Joe Exotic asks for release from jail after cancer diagnosis</a> BBC: The jailed zookeeper repeated his request to be pardoned, and to "enjoy what life I have left with my loved ones". 
  <p class="updated_time"> 09:03 AM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/world/asia/diwali-india.html">India's Diwali Celebrations Draw Large Crowds Despite Covid Concerns</a> NYT: More than 680,000 people have traveled across the country as health experts cautioned that large-scale gatherings might fuel a wave of infections. 
  <p class="updated_time"> 09:01 AM CT, Nov. 04 </p> 
@@ -21,8 +27,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/03/us/mayor-eric-garcetti-of-los-angeles-tests-positive-for-the-virus.html">Mayor Eric Garcetti of Los Angeles tests positive for the virus.</a> NYT: Mr. Garcetti’s office said the mayor, who is in Scotland for a conference on climate change, was feeling good and had been fully vaccinated. 
  <p class="updated_time"> 08:36 AM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/world/australia/charge-cleo-smith.html">Cleo Smith Abduction: Australian Man Is Charged After 18-Day Search </a> NYT: The legal action came as the Australian authorities continued to address questions about how the police had been able to find Cleo Smith, who vanished from a remote campsite. 
- <p class="updated_time"> 08:19 AM CT, Nov. 04 </p> 
- <a href="https://www.bbc.co.uk/news/59147659?at_medium=RSS&at_campaign=KARANGA">Climate change: Facebook fails to flag denial, study finds</a> BBC: Researchers tracked thousands of posts denying climate change - and only 8% were marked as misinformation. 
  <p class="updated_time"> 08:11 AM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/world/europe/uk-merck-pill-molnupravir.html"> The U.K. Approves Merck's Covid Pill</a> NYT: The British authorities said that the antiviral drug was “safe and effective” in reducing the risk of hospitalization and death for those at increased risk of severe symptoms. 
  <p class="updated_time"> 07:49 AM CT, Nov. 04 </p> 
@@ -39,8 +43,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/03/world/asia/china-metoo-peng-shuai-zhang-gaoli.html">China's Peng Shuai Makes #MeToo Claim Against Zhang Gaoli</a> NYT: Peng Shuai’s accusation against Zhang Gaoli takes the country’s budding #MeToo movement to the top echelons of the Communist Party for the first time. 
  <p class="updated_time"> 05:26 AM CT, Nov. 04 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-56901261?at_medium=RSS&at_campaign=KARANGA">COP26: What is the Glasgow climate conference and why is it important?</a> BBC: A crucial climate change summit is being held in the UK - this is why it's important. 
- <p class="updated_time"> 05:03 AM CT, Nov. 04 </p> 
- <a href="https://www.nytimes.com/2021/11/04/world/middleeast/israel-budget.html">Israel Passes State Budget</a> NYT: The vote raised hopes that the country might be headed for increased political stability after the chaos of four elections in quick succession. 
  <p class="updated_time"> 04:53 AM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/australia/australia-scott-morrison-cop26.html">What Did Scott Morrison, Australia's Leader, Accomplish at COP26?</a> NYT: Prime Minister Scott Morrison did not announce any firm plans to move away from the country’s deep investment in fossil fuel production. 
  <p class="updated_time"> 04:46 AM CT, Nov. 04 </p> 
@@ -61,8 +63,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-australia-59160914?at_medium=RSS&at_campaign=KARANGA">Cleo Smith: Listen to the moment police rescued missing girl</a> BBC: Listen to the moment police in Western Australia found a four-year-old girl who had been missing for 18 days. 
  <p class="updated_time"> 03:22 AM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/article/ethiopia-tigray-conflict-explained.html">Why Is Ethiopia at War in the Tigray Region? </a> NYT: The civil war has shifted dramatically since Prime Minister Abiy Ahmed began a military campaign in the Tigray region a year ago. With Tigrayan fighters advancing toward the capital, Ethiopia is at risk of collapse. 
- <p class="updated_time"> 03:07 AM CT, Nov. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59160644?at_medium=RSS&at_campaign=KARANGA">Cupcakes recalled in US over metal fragment contamination fears</a> BBC: People are being warned not to eat the chocolate cakes which may have fragments of mesh wire. 
  <p class="updated_time"> 03:01 AM CT, Nov. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-59158568?at_medium=RSS&at_campaign=KARANGA">Amanda Knox on how she thinks her case would be viewed today</a> BBC: She speaks about losing control of her identity during the Meredith Kercher murder investigation. 
  <p class="updated_time"> 02:36 AM CT, Nov. 04 </p> 
@@ -77,8 +77,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/03/world/australia/missing-cleo-smith.html">Cleo Smith, 4, Is Found 18 Days After She Vanishes in Australia</a> NYT: Cleo Smith disappeared one night while camping with her family in a remote area of Australia. She was found “alive and well” in a locked house, and a man was detained. 
  <p class="updated_time"> 10:52 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/asia/covaxin-covid-vaccine-who.html">Covaxin, Vaccine Developed in India, Gets W.H.O. Clearance</a> NYT: The vaccine is the eighth coronavirus vaccine to receive the global health body’s green light. 
- <p class="updated_time"> 10:32 PM CT, Nov. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-59159025?at_medium=RSS&at_campaign=KARANGA">ICC to probe Venezuela over alleged crimes against humanity</a> BBC: The International Criminal Court will examine allegations of torture and extrajudicial killings. 
  <p class="updated_time"> 09:56 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/asia/heather-mack-arrested.html">Back in Chicago, Woman Is Charged in Killing of Mother on Indonesian Vacation</a> NYT: Heather L. Mack, 26, had already served more than six years in prison in Indonesia for the 2014 killing of her mother, whose body was found in a suitcase at a Bali resort. 
  <p class="updated_time"> 09:09 PM CT, Nov. 03 </p> 
@@ -157,6 +155,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/03/world/duterte-vows-to-punish-philippine-officials-for-slow-vaccine-delivery.html">Duterte vows to punish Philippine officials for slow vaccine delivery.</a> NYT: NA 
  <p class="updated_time"> 04:58 AM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/climate/ban-ki-moon-green-economy.html">Governments Must Invest in Jobs in Green Economy, Ban Ki-moon Says.</a> NYT: His comments come amid rising concern that transitioning to a greener economy could provoke a backlash if the cost falls to low- and middle-income people. 
+ <p class="updated_time"> 04:39 AM CT, Nov. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/science-environment-58874518?at_medium=RSS&at_campaign=KARANGA">What is net zero and how are the UK and other countries doing?</a> BBC: Experts have recommended developed countries adopt targets to reduce emissions to net zero by 2050. 
  <p class="updated_time"> 04:00 AM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/asia/squid-game-korea-bts.html">From BTS to ‘Squid Game’: How South Korea Became a Cultural Juggernaut</a> NYT: The country was once largely known for cars and smartphones, but a global audience has become mesmerized by its entertainment, and creators say success didn’t happen overnight. 
  <p class="updated_time"> 02:13 AM CT, Nov. 03 </p> 
