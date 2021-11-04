@@ -7,12 +7,18 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:31 PM CT, Nov. 04 </p> 
+ <a href="https://www.nytimes.com/2021/11/03/world/africa/south-africa-coal-renewables.html">South Africa to Get $8.5 billion to Shift From Coal to Renewables</a> NYT: Developing nations have long said they need aid from wealthy countries to shift to renewable energy. South Africa may show how that would work in practice. 
+ <p class="updated_time"> 04:31 PM CT, Nov. 04 </p> 
+ <a href="https://www.nytimes.com/2021/11/03/world/uk-fossil-fuel-coal-cop26.html">18 Countries to Phase Out Coal, According to Leaked Document</a> NYT: The countries, banks and other organizations that make up a new coalition will commit to ending all investment in new coal power generation domestically and internationally. 
+ <p class="updated_time"> 04:26 PM CT, Nov. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59167085?at_medium=RSS&at_campaign=KARANGA">Ahmaud Arbery: Nearly all-white jury chosen in black jogger murder trial</a> BBC: The judge noted the appearance of discriminatory selection in the trial over Ahmaud Arbery's death. 
+ <p class="updated_time"> 04:23 PM CT, Nov. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59160526?at_medium=RSS&at_campaign=KARANGA">Portugal's president calls snap election</a> BBC: The vote follows six years of minority left-wing government led by António Costa. 
  <p class="updated_time"> 04:17 PM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/world/africa/ethiopia-tigray-crackdown.html">Crackdown Sweeps Ethiopia’s Capital as War Draws Near</a> NYT: Government forces were going to door to door in the Ethiopian capital, rounding up ethnic Tigrayans, members of the same ethnic group as the rebels closing in. 
  <p class="updated_time"> 04:14 PM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/world/europe/uk-politics-boris-johnson-owen-paterson.html">Conflict-of-Interest Case Has Boris Johnson Reversing Course, Again</a> NYT: Britain’s prime minister intervened in the case of a Conservative Party lawmaker who faced suspension. A ferocious blowback caused him to retreat, a now familiar path. 
- <p class="updated_time"> 03:49 PM CT, Nov. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59160526?at_medium=RSS&at_campaign=KARANGA">Portugal's president calls snap election</a> BBC: The vote follows six years of minority left-wing government led by António Costa. 
  <p class="updated_time"> 03:28 PM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/world/europe/italy-trieste-covid-protests.html">Trieste, Center of Italy’s Anti-Vaccine Protests, Is Now a Covid Hot Spot</a> NYT: After leading the resistance to the government’s new health pass, the northeastern port city of Trieste is home to a worrying spike in cases. 
  <p class="updated_time"> 02:33 PM CT, Nov. 04 </p> 
@@ -31,8 +37,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59169547?at_medium=RSS&at_campaign=KARANGA">COP26: Indonesia criticises 'unfair' deal to end deforestation</a> BBC: The country's environment minister says the country "can't promise what we can't do". 
  <p class="updated_time"> 12:45 PM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/style/rangoli-art-diwali.html">The Art and Ritual of Rangoli</a> NYT: Making ornate floor art can be a celebratory act for festivals like Diwali and a meditative practice. 
- <p class="updated_time"> 12:38 PM CT, Nov. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59167085?at_medium=RSS&at_campaign=KARANGA">Ahmaud Arbery: Nearly all-white jury chosen in black jogger murder trial</a> BBC: The judge noted the appearance of discriminatory selection in the trial over Ahmaud Arbery's death. 
  <p class="updated_time"> 12:06 PM CT, Nov. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59160525?at_medium=RSS&at_campaign=KARANGA">Covid: Record German cases as WHO warns of Europe deaths</a> BBC: Almost 34,000 cases are reported in Germany as the WHO warns of half a million more deaths in Europe. 
  <p class="updated_time"> 12:01 PM CT, Nov. 04 </p> 
@@ -81,14 +85,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/03/world/asia/china-metoo-peng-shuai-zhang-gaoli.html">China's Peng Shuai Makes #MeToo Claim Against Zhang Gaoli</a> NYT: Peng Shuai’s accusation against Zhang Gaoli takes the country’s budding #MeToo movement to the top echelons of the Communist Party for the first time. 
  <p class="updated_time"> 04:53 AM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/australia/australia-scott-morrison-cop26.html">What Did Scott Morrison, Australia's Leader, Accomplish at COP26?</a> NYT: Prime Minister Scott Morrison did not announce any firm plans to move away from the country’s deep investment in fossil fuel production. 
- <p class="updated_time"> 04:46 AM CT, Nov. 04 </p> 
- <a href="https://www.nytimes.com/2021/11/03/world/uk-fossil-fuel-coal-cop26.html">18 Countries to Phase Out Coal, According to Leaked Document</a> NYT: The countries, banks and other organizations that make up a new coalition will commit to ending all investment in new coal power generation domestically and internationally. 
  <p class="updated_time"> 04:45 AM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/europe/global-energy-alliance-fund-cop26.html">New $10.5 Billion Fund Aims to Spur Green Energy in Poor Countries</a> NYT: Its backers say it will jump-start investments in clean energy that would not otherwise draw private investors. 
  <p class="updated_time"> 04:44 AM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/02/world/europe/climate-summit-methane-forests.html">With Methane and Forest Deals, Climate Summit Offers Hope After Gloomy Start</a> NYT: Agreements to reduce methane gas emissions and protect the world’s forests were reached Tuesday at the U.N.-sponsored meeting, as President Biden chided the leaders of Russia and China for not showing up. 
- <p class="updated_time"> 04:18 AM CT, Nov. 04 </p> 
- <a href="https://www.nytimes.com/2021/11/03/world/africa/south-africa-coal-renewables.html">South Africa to Get $8.5 billion to Shift From Coal to Renewables</a> NYT: Developing nations have long said they need aid from wealthy countries to shift to renewable energy. South Africa may show how that would work in practice. 
  <p class="updated_time"> 04:14 AM CT, Nov. 04 </p> 
  <a href="https://www.wsj.com/articles/merck-ridgeback-covid-19-pill-cleared-for-use-in-u-k-11636023388">Merck Covid-19 Pill Cleared for Use in U.K., Its First Authorization</a> WSJ: Health regulators approved molnupiravir, which can be taken at home and promises to reduce the risk of hospitalization. The U.S. is expected to follow in coming months. 
  <p class="updated_time"> 04:09 AM CT, Nov. 04 </p> 
