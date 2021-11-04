@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:49 PM CT, Nov. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59160526?at_medium=RSS&at_campaign=KARANGA">Portugal's president calls snap election</a> BBC: The vote follows six years of minority left-wing government led by António Costa. 
  <p class="updated_time"> 03:34 PM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/world/africa/ethiopia-tigray-crackdown.html">Crackdown Sweeps Ethiopia’s Capital as War Draws Near</a> NYT: Government forces were going to door to door in the Ethiopian capital, rounding up ethnic Tigrayans, members of the same ethnic group as the rebels closing in. 
  <p class="updated_time"> 03:28 PM CT, Nov. 04 </p> 
@@ -47,8 +49,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/04/world/middleeast/israel-budget.html">Israel Passes State Budget</a> NYT: The vote raised hopes that the country might be headed for a period of more political stability after the chaos of four elections in quick succession. 
  <p class="updated_time"> 11:01 AM CT, Nov. 04 </p> 
  <a href="https://www.bbc.co.uk/news/health-59165157?at_medium=RSS&at_campaign=KARANGA">High-risk Covid gene more common in South Asians</a> BBC: About 60% of people from South Asian backgrounds carry a gene that puts them at higher risk. 
- <p class="updated_time"> 10:51 AM CT, Nov. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59162469?at_medium=RSS&at_campaign=KARANGA">Erdogan: Turkey investigates posts about president's health</a> BBC: Police say disinformation about Recep Tayyip Erdogan has been spread, as his allies dismiss rumours. 
  <p class="updated_time"> 10:47 AM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/world/europe/germany-covid-surge-daily-case-record.html">Facing a New Surge, Germany Sets a Daily Virus Case Record</a> NYT: The country registered 33,949 new coronavirus cases over a 24-hour period on Wednesday, surpassing a high set in December of last year. 
  <p class="updated_time"> 10:46 AM CT, Nov. 04 </p> 
@@ -173,8 +173,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/02/world/africa/ethiopia-state-of-emergency.html">Ethiopia Declares State of Emergency as Rebels Advance Toward Capital</a> NYT: In a milestone in the yearlong conflict, the government called on civilians to arm themselves and defend Addis Ababa after Tigrayan forces captured two towns nearby. 
  <p class="updated_time"> 04:24 PM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/02/world/africa/nigeria-lagos-building-collapse.html">Building in Nigeria Had ‘Abnormalities’ Before Collapse</a> NYT: At least 20 people were killed when the high-rise in an upscale neighborhood in the commercial capital of Lagos crumbled on Monday afternoon. 
- <p class="updated_time"> 03:45 PM CT, Nov. 02 </p> 
- <a href="https://www.nytimes.com/2021/11/02/world/americas/brazil-climate.html">Once a Climate Leader, Brazil Falls Short in Glasgow</a> NYT: The country’s proposals show a desire to burnish its image, but President Jair Bolsonaro’s record and his absence from the summit cast doubt on its commitment to reversing course. 
  <p class="updated_time"> 02:43 PM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/02/world/middleeast/palestinian-jerusalem-eviction-jarrah.html">Palestinian Families Reject Deal in Area That Helped Set Off Gaza Conflict</a> NYT: The threatened evictions of Palestinian residents of the Sheikh Jarrah neighborhood of East Jerusalem led to a war in Gaza last May. 
  <p class="updated_time"> 01:01 PM CT, Nov. 02 </p> 
@@ -186,6 +184,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:45 PM CT, Nov. 04 </p> 
+ <a href="https://www.nytimes.com/2021/11/04/us/politics/igor-danchenko-arrested-steele-dossier.html">Authorities Arrest Analyst Who Contributed to Steele Dossier</a> NYT: Igor Danchenko, a Russia analyst who worked with Christopher Steele, the author of a dossier of rumors and unproven assertions about Donald J. Trump, was indicted as part of the Durham investigation. 
  <p class="updated_time"> 03:40 PM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/us/politics/house-democrats-biden.html">House Democrats Hunt for Votes to Pass Biden’s Domestic Agenda</a> NYT: Speaker Nancy Pelosi wants a vote as soon as Thursday night on a $1.85 trillion social policy and climate bill, but moderates are pushing back. 
  <p class="updated_time"> 03:29 PM CT, Nov. 04 </p> 
@@ -194,8 +194,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/04/us/politics/atlanta-mayor-runoff-felicia-moore.html">Felicia Moore, Andre Dickens Will Compete for Atlanta Mayor; Kasim Reed Falls Short</a> NYT: Two candidates, Felicia Moore and Andre Dickens, will compete in a runoff on Nov. 30. 
  <p class="updated_time"> 03:01 PM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/03/us/politics/democrat-losses-2022.html">Reeling From Surprise Losses, Democrats Sound the Alarm for 2022</a> NYT: Party officials say the White House and Congress must do more to address the electorate’s deep malaise or risk watching voters lurch back toward the G.O.P. by default. 
- <p class="updated_time"> 02:57 PM CT, Nov. 04 </p> 
- <a href="https://www.nytimes.com/2021/11/04/us/politics/igor-danchenko-arrested-steele-dossier.html">Authorities Arrest Analyst Who Contributed to Steele Dossier</a> NYT: Igor Danchenko, a Russia analyst who worked with Christopher Steele, the author of a dossier of rumors and unproven assertions about Donald J. Trump, was indicted as part of the Durham investigation. 
  <p class="updated_time"> 02:54 PM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/article/vaccine-mandate-biden-osha.html">OSHA's Vaccine Mandate: Your Questions Answered</a> NYT: We’re answering your questions about the new OSHA rules for employers with 100 or more workers. This F.A.Q. was last updated at 3:30 p.m. 
  <p class="updated_time"> 02:51 PM CT, Nov. 04 </p> 
