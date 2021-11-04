@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:35 AM CT, Nov. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-59160914?at_medium=RSS&at_campaign=KARANGA">Cleo Smith: Listen to the moment police rescued missing girl</a> BBC: Listen to the moment police in Western Australia found a four-year-old girl who had been missing for 18 days. 
+ <p class="updated_time"> 03:22 AM CT, Nov. 04 </p> 
+ <a href="https://www.nytimes.com/article/ethiopia-tigray-conflict-explained.html">Why Is Ethiopia at War in the Tigray Region? </a> NYT: The civil war has shifted dramatically since Prime Minister Abiy Ahmed began a military campaign in the Tigray region a year ago. With Tigrayan fighters advancing toward the capital, Ethiopia is at risk of collapse. 
  <p class="updated_time"> 03:07 AM CT, Nov. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59160644?at_medium=RSS&at_campaign=KARANGA">Cupcakes recalled in US over metal fragment contamination fears</a> BBC: People are being warned not to eat the chocolate cakes which may have fragments of mesh wire. 
  <p class="updated_time"> 03:04 AM CT, Nov. 04 </p> 
@@ -71,8 +75,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/02/world/europe/climate-summit-methane-forests.html">With Methane and Forest Deals, Climate Summit Offers Hope After Gloomy Start</a> NYT: Agreements to reduce methane gas emissions and protect the world’s forests were reached Tuesday at the U.N.-sponsored meeting, as President Biden chided the leaders of Russia and China for not showing up. 
  <p class="updated_time"> 03:09 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/climate/al-gore-cop26.html">At COP26, Gore Says Satellite Emissions Monitoring Helps Climate-Change Fight</a> NYT: Real-time checks on where greenhouse gases are being produced may prove a powerful weapon in the fight to cool the earth. 
- <p class="updated_time"> 03:00 PM CT, Nov. 03 </p> 
- <a href="https://www.nytimes.com/article/ethiopia-tigray-conflict-explained.html">Why Is Ethiopia at War in the Tigray Region? </a> NYT: The civil war has shifted dramatically since Prime Minister Abiy Ahmed began a military campaign in the Tigray region a year ago. With Tigrayan fighters advancing toward the capital, Ethiopia is at risk of collapse. 
  <p class="updated_time"> 02:32 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/europe/greece-covid-restrictions.html">Greece Tightens Covid Restrictions on the Unvaccinated</a> NYT: The restrictions start Saturday and target unvaccinated people, said the country’s health minister, Thanos Plevris. 
  <p class="updated_time"> 02:21 PM CT, Nov. 03 </p> 
@@ -97,8 +99,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-59154984?at_medium=RSS&at_campaign=KARANGA">Facebook deletes Ethiopia PM's post that urged citizens to 'bury' rebels</a> BBC: The social giant deletes Abiy Ahmed's post which urged citizens to "bury" a rebel group. 
  <p class="updated_time"> 12:27 PM CT, Nov. 03 </p> 
  <a href="https://www.bbc.co.uk/news/technology-59149651?at_medium=RSS&at_campaign=KARANGA">NSO Group: Israeli spyware company added to US trade blacklist</a> BBC: NSO Group, which makes the Pegasus spyware, acted against US interests, officials say. 
- <p class="updated_time"> 12:19 PM CT, Nov. 03 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-59135039?at_medium=RSS&at_campaign=KARANGA">2021: A year of wild weather</a> BBC: If emissions continue rising, Europe can expect 50C heatwaves every three years, the Met Office says. 
  <p class="updated_time"> 11:58 AM CT, Nov. 03 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59138692?at_medium=RSS&at_campaign=KARANGA">My Day at COP26: ‘My police dog doesn't care if Biden is here - he gets on with the job’</a> BBC: Sgt Lynsey Buchanan-Barlas and her dog Nico have been searching Glasgow’s streets for explosives ahead of COP26. 
  <p class="updated_time"> 11:49 AM CT, Nov. 03 </p> 
