@@ -7,6 +7,12 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:07 AM CT, Nov. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59160644?at_medium=RSS&at_campaign=KARANGA">Cupcakes recalled in US over metal fragment contamination fears</a> BBC: People are being warned not to eat the chocolate cakes which may have fragments of mesh wire. 
+ <p class="updated_time"> 03:04 AM CT, Nov. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-59149960?at_medium=RSS&at_campaign=KARANGA">Damon Galgut wins Booker Prize with 'tour de force' novel The Promise</a> BBC: South African author Damon Galgut wins the prestigious literary award at the third attempt. 
+ <p class="updated_time"> 03:01 AM CT, Nov. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-59158568?at_medium=RSS&at_campaign=KARANGA">Amanda Knox on how she thinks her case would be viewed today</a> BBC: Amanda Knox talks about losing control of her identity during the Meredith Kercher murder investigation. 
  <p class="updated_time"> 02:22 AM CT, Nov. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59159331?at_medium=RSS&at_campaign=KARANGA">Charges likely in Australia child disappearance case</a> BBC: A 36-year-old man will likely be charged in connection with Cleo Smith's disappearance later today. 
  <p class="updated_time"> 02:10 AM CT, Nov. 04 </p> 
@@ -43,8 +49,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/03/world/uk-fossil-fuel-coal-cop26.html">18 Countries to Phase Out Coal, According to Leaked Document</a> NYT: The countries, banks and other organizations that make up a new coalition will commit to ending all investment in new coal power generation domestically and internationally. 
  <p class="updated_time"> 08:01 PM CT, Nov. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59075043?at_medium=RSS&at_campaign=KARANGA">Greeks fear megafires could be new normal for Med</a> BBC: On the Greek island of Evia last summer an intense conflagration took almost two weeks to control. 
- <p class="updated_time"> 07:56 PM CT, Nov. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59159008?at_medium=RSS&at_campaign=KARANGA">Biden rejects blame for shock Virginia election defeat</a> BBC: The president cites schools, jobs, petrol prices and "Trump voters" as reasons for the defeat. 
+ <p class="updated_time"> 07:46 PM CT, Nov. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/science-environment-59148520?at_medium=RSS&at_campaign=KARANGA">Climate change: Carbon emissions show rapid rebound after Covid dip</a> BBC: Global carbon emissions are set to get back close to the levels they were at before Covid. 
  <p class="updated_time"> 07:24 PM CT, Nov. 03 </p> 
  <a href="https://www.bbc.co.uk/news/uk-59149435?at_medium=RSS&at_campaign=KARANGA">COP26: How protesters prepared for the Glasgow climate change summit</a> BBC: Since the COP26 climate change summit started, hundreds of protesters have taken to the city's streets. 
  <p class="updated_time"> 07:23 PM CT, Nov. 03 </p> 
@@ -61,14 +67,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/03/us/politics/drone-strike-kabul-child.html">Video Showed Child in Area Minutes Before Kabul Drone Strike</a> NYT: An investigation of the Aug. 29 airstrike, which mistakenly killed 10 civilians, including seven children, did not recommend any disciplinary action. 
  <p class="updated_time"> 04:49 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/nicola-sturgeon-scotland.html">Scotland's Nicola Sturgeon: 'We're Running out of Time."</a> NYT: The leader of the nation hosting COP26 said she hoped that a century from now, people will look back and “describe Glasgow as the place which really took the correct fork in the road for our planet.” 
- <p class="updated_time"> 04:07 PM CT, Nov. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-59154988?at_medium=RSS&at_campaign=KARANGA">Iran nuclear deal: Talks to resume within weeks</a> BBC: Vienna will play host, more than three years after the US abandoned a landmark agreement. 
  <p class="updated_time"> 03:58 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/02/world/europe/climate-summit-methane-forests.html">With Methane and Forest Deals, Climate Summit Offers Hope After Gloomy Start</a> NYT: Agreements to reduce methane gas emissions and protect the world’s forests were reached Tuesday at the U.N.-sponsored meeting, as President Biden chided the leaders of Russia and China for not showing up. 
  <p class="updated_time"> 03:09 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/climate/al-gore-cop26.html">At COP26, Gore Says Satellite Emissions Monitoring Helps Climate-Change Fight</a> NYT: Real-time checks on where greenhouse gases are being produced may prove a powerful weapon in the fight to cool the earth. 
- <p class="updated_time"> 03:01 PM CT, Nov. 03 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-59149960?at_medium=RSS&at_campaign=KARANGA">Damon Galgut wins Booker Prize with 'tour de force' novel The Promise</a> BBC: South African author Damon Galgut wins the prestigious literary award at the third attempt. 
  <p class="updated_time"> 03:00 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/article/ethiopia-tigray-conflict-explained.html">Why Is Ethiopia at War in the Tigray Region? </a> NYT: The civil war has shifted dramatically since Prime Minister Abiy Ahmed began a military campaign in the Tigray region a year ago. With Tigrayan fighters advancing toward the capital, Ethiopia is at risk of collapse. 
  <p class="updated_time"> 02:32 PM CT, Nov. 03 </p> 
@@ -121,10 +123,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/02/world/asia/afghanistan-kabul-hospital-attack.html">Dozens Killed in ISIS Attack on Military Hospital in Afghanistan’s Capital</a> NYT: The fall of the Western-backed government in August and the Taliban takeover of the country have been followed by an increase in Islamic State attacks across Afghanistan. 
  <p class="updated_time"> 09:36 AM CT, Nov. 03 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59150807?at_medium=RSS&at_campaign=KARANGA">COP26 climate change summit: So far, so good-ish</a> BBC: Three days into the COP26 global climate summit, and the mood is positive. 
- <p class="updated_time"> 09:35 AM CT, Nov. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-59151884?at_medium=RSS&at_campaign=KARANGA">Auschwitz tattoo stamp auction suspended by Israeli court</a> BBC: Holocaust survivors denounced the auction of tools used to brand inmates at the Nazi death camp. 
- <p class="updated_time"> 09:27 AM CT, Nov. 03 </p> 
- <a href="https://www.bbc.co.uk/news/business-59147390?at_medium=RSS&at_campaign=KARANGA">Mark Carney at COP26: Countries should have a carbon price</a> BBC: Carbon taxes will not happen overnight, the UK prime minister’s finance adviser for COP26 says. 
  <p class="updated_time"> 09:08 AM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/europe/global-energy-alliance-fund-cop26.html">New $10.5 Billion Fund Aims to Spur Green Energy in Poor Countries</a> NYT: Its backers say it will jump-start investments in clean energy that would not otherwise draw private investors. 
  <p class="updated_time"> 08:41 AM CT, Nov. 03 </p> 
