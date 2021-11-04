@@ -188,6 +188,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:26 PM CT, Nov. 04 </p> 
+ <a href="https://www.nytimes.com/2021/11/04/us/politics/robert-santos-census-bureau.html">Robert Santos Confirmed as First Latino to Lead Census Bureau</a> NYT: The confirmation on Thursday brings a permanent head to the agency after a turbulent period under the Trump administration. 
  <p class="updated_time"> 02:16 PM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/nyregion/stephen-sweeney-durr-nj-election.html">Republican Truck Driver Beats Sweeney in N.J. Election</a> NYT: Mr. Sweeney, the second most powerful lawmaker in New Jersey and a Democrat, lost his bid for re-election to Edward Durr, a driver for a furniture chain. 
  <p class="updated_time"> 01:47 PM CT, Nov. 04 </p> 
@@ -220,8 +222,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/03/us/politics/biden-rejects-payments-migrants.html">Biden Rejects $450,000 Payments for Separated Migrants</a> NYT: “That’s not going to happen,” the president said about proposed compensation for a Trump administration policy that divided thousands of parents and children. 
  <p class="updated_time"> 07:53 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/us/politics/biden-covid-vaccine-kids.html">Biden Urges Parents to Get Their Younger Children Vaccinated</a> NYT: A vaccination program for children will roll out next week with more doses shipping each day, he said, calling it “a day of relief and celebration.” 
- <p class="updated_time"> 06:59 PM CT, Nov. 03 </p> 
- <a href="https://www.nytimes.com/2021/11/03/business/nso-group-spyware-blacklist.html">U.S. Blacklists Israeli Firm NSO Group Over Spyware</a> NYT: The ban is the strongest step an American president has taken to curb abuses in the global market for spyware. 
  <p class="updated_time"> 06:40 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/business/economy/fed-taper-bond-buying.html">Federal Reserve Announces Plan to Slow Bond Buying Program</a> NYT: The Federal Reserve is dealing with high inflation at a time when millions of workers remain on the job market’s sidelines. Wednesday’s announcement that it will slow bond purchases is a step toward more normal monetary policy. 
  <p class="updated_time"> 06:17 PM CT, Nov. 03 </p> 
