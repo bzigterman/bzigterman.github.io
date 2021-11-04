@@ -7,24 +7,30 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:18 AM CT, Nov. 04 </p> 
+ <a href="https://www.nytimes.com/2021/11/03/world/africa/south-africa-coal-renewables.html">South Africa to Get $8.5 billion to Shift From Coal to Renewables</a> NYT: Developing nations have long said they need aid from wealthy countries to shift to renewable energy. South Africa may show how that would work in practice. 
+ <p class="updated_time"> 04:16 AM CT, Nov. 04 </p> 
+ <a href="https://www.nytimes.com/2021/11/02/world/europe/climate-summit-methane-forests.html">With Methane and Forest Deals, Climate Summit Offers Hope After Gloomy Start</a> NYT: Agreements to reduce methane gas emissions and protect the world’s forests were reached Tuesday at the U.N.-sponsored meeting, as President Biden chided the leaders of Russia and China for not showing up. 
+ <p class="updated_time"> 04:15 AM CT, Nov. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-59162188?at_medium=RSS&at_campaign=KARANGA">Man charged over Cleo Smith abduction</a> BBC: Australian man charged with abduction of four-year-old Cleo Smith, who was rescued after disappearing for 18 days 
+ <p class="updated_time"> 04:10 AM CT, Nov. 04 </p> 
+ <a href="https://www.nytimes.com/2021/11/04/world/middleeast/israel-budget.html">Israel Passes State Budget</a> NYT: The vote raised hopes that the country might be headed for increased political stability after the chaos of four elections in quick succession. 
+ <p class="updated_time"> 04:09 AM CT, Nov. 04 </p> 
+ <a href="https://www.nytimes.com/2021/11/03/world/latin-america-pressed-on-vaccine-priorities.html">With scant vaccine supplies, the W.H.O. presses Latin America and the Caribbean to hold off on boosters.</a> NYT: Sufficient shipments of doses have been slow to reach many countries in the region and economic inequalities are complicating matters. 
+ <p class="updated_time"> 04:07 AM CT, Nov. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-59149960?at_medium=RSS&at_campaign=KARANGA">Damon Galgut wins Booker Prize with 'gripping' South Africa novel The Promise</a> BBC: Damon Galgut wins the prestigious literary award at the third attempt with his novel The Promise. 
+ <p class="updated_time"> 04:00 AM CT, Nov. 04 </p> 
+ <a href="https://www.nytimes.com/2021/11/04/world/europe/italy-trieste-covid-protests.html">Center of Italy’s Anti-Vaccine Protests Is Now a Covid Hot Spot</a> NYT: After leading the resistance to the government’s new health pass, the northeastern port city of Trieste is home to a worrying spike in cases. 
  <p class="updated_time"> 03:58 AM CT, Nov. 04 </p> 
  <a href="https://www.bbc.co.uk/news/health-59148620?at_medium=RSS&at_campaign=KARANGA">HPV vaccine cutting cervical cancer by nearly 90%</a> BBC: Researchers say regular cervical screening may not be necessary because of the success of the vaccine. 
- <p class="updated_time"> 03:56 AM CT, Nov. 04 </p> 
- <a href="https://www.nytimes.com/2021/11/04/world/middleeast/israel-budget.html">Israel Passes First Budget in More Than 3 Years</a> NYT: The vote raised hopes that the country might be headed for increased political stability after the chaos of four elections in quick succession. 
  <p class="updated_time"> 03:35 AM CT, Nov. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59160914?at_medium=RSS&at_campaign=KARANGA">Cleo Smith: Listen to the moment police rescued missing girl</a> BBC: Listen to the moment police in Western Australia found a four-year-old girl who had been missing for 18 days. 
  <p class="updated_time"> 03:22 AM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/article/ethiopia-tigray-conflict-explained.html">Why Is Ethiopia at War in the Tigray Region? </a> NYT: The civil war has shifted dramatically since Prime Minister Abiy Ahmed began a military campaign in the Tigray region a year ago. With Tigrayan fighters advancing toward the capital, Ethiopia is at risk of collapse. 
  <p class="updated_time"> 03:07 AM CT, Nov. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59160644?at_medium=RSS&at_campaign=KARANGA">Cupcakes recalled in US over metal fragment contamination fears</a> BBC: People are being warned not to eat the chocolate cakes which may have fragments of mesh wire. 
- <p class="updated_time"> 03:04 AM CT, Nov. 04 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-59149960?at_medium=RSS&at_campaign=KARANGA">Damon Galgut wins Booker Prize with 'tour de force' novel The Promise</a> BBC: South African author Damon Galgut wins the prestigious literary award at the third attempt. 
  <p class="updated_time"> 03:01 AM CT, Nov. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-59158568?at_medium=RSS&at_campaign=KARANGA">Amanda Knox on how she thinks her case would be viewed today</a> BBC: Amanda Knox talks about losing control of her identity during the Meredith Kercher murder investigation. 
- <p class="updated_time"> 02:22 AM CT, Nov. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-59159331?at_medium=RSS&at_campaign=KARANGA">Charges likely in Australia child disappearance case</a> BBC: A 36-year-old man will likely be charged in connection with Cleo Smith's disappearance later today. 
- <p class="updated_time"> 02:10 AM CT, Nov. 04 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-59159018?at_medium=RSS&at_campaign=KARANGA">COP26: More than 40 countries pledge to quit coal</a> BBC: Big coal users like Poland and Vietnam vow to phase it out, but China, India and the US have not. 
+ <a href="https://www.bbc.co.uk/news/world-59158568?at_medium=RSS&at_campaign=KARANGA">Amanda Knox on how she thinks her case would be viewed today</a> BBC: She speaks about losing control of her identity during the Meredith Kercher murder investigation. 
  <p class="updated_time"> 02:00 AM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/style/rangoli-art-diwali.html">The Art and Ritual of Rangoli</a> NYT: Making ornate floor art can be a celebratory act for festivals like Diwali and a meditative practice. 
  <p class="updated_time"> 01:47 AM CT, Nov. 04 </p> 
@@ -41,6 +47,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/03/world/asia/heather-mack-arrested.html">Back in Chicago, Woman Is Charged in Killing of Mother on Indonesian Vacation</a> NYT: Heather L. Mack, 26, had already served more than six years in prison in Indonesia for the 2014 killing of her mother, whose body was found in a suitcase at a Bali resort. 
  <p class="updated_time"> 09:36 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/africa/ethiopia-war-un-report.html">Ethiopia’s Leader Vows to ‘Bury This Enemy,’ Even as Rebels Advance</a> NYT: A United Nations report, released as Tigrayan rebels near the capital, documents atrocities on all sides in a year-old civil war. 
+ <p class="updated_time"> 09:09 PM CT, Nov. 03 </p> 
+ <a href="https://www.wsj.com/articles/north-korea-can-make-more-uranium-for-nuclear-bombs-than-previously-thought-11636006162">North Korea Can Make More Uranium for Nuclear Bombs Than Previously Thought</a> WSJ: North Korea has the capacity to make more base ingredients for nuclear bombs than previously believed, according to new research. 
  <p class="updated_time"> 08:50 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/middleeast/iran-tanker-oil.html">Iran Seizes an Oil Tanker, but Whose Tanker Is Disputed</a> NYT: U.S. and Iranian officials gave conflicting accounts of a ship that was seized last month. Some reports said it was the same tanker the United States had seized last year. The Pentagon denied that. 
  <p class="updated_time"> 08:43 PM CT, Nov. 03 </p> 
@@ -67,14 +75,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/03/world/weapons-ukraine-russia.html">Weapons Tracing Study Implicates Russia in Ukraine Conflict</a> NYT: One of the most comprehensive studies to date of weaponry in the war in Ukraine shows a panoply of Russian-supplied arms that has helped fuel the war. 
  <p class="updated_time"> 05:28 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/books/booker-prize-winner-damon-galgut-the-promise.html">Damon Galgut Wins Booker Prize for ‘The Promise’</a> NYT: The novelist, shortlisted for two of his previous books, received one of the world’s most prestigious literary awards for his cutting depiction of a white family in post-apartheid South Africa. 
- <p class="updated_time"> 05:27 PM CT, Nov. 03 </p> 
- <a href="https://www.nytimes.com/2021/11/03/world/latin-america-pressed-on-vaccine-priorities.html">With scant vaccine supplies, the W.H.O. presses Latin America and the Caribbean to hold off on boosters.</a> NYT: Sufficient shipments of vaccines have been slow to reach many countries in the region and economic inequalities are complicating matters. 
  <p class="updated_time"> 05:20 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/us/politics/drone-strike-kabul-child.html">Video Showed Child in Area Minutes Before Kabul Drone Strike</a> NYT: An investigation of the Aug. 29 airstrike, which mistakenly killed 10 civilians, including seven children, did not recommend any disciplinary action. 
  <p class="updated_time"> 04:49 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/nicola-sturgeon-scotland.html">Scotland's Nicola Sturgeon: 'We're Running out of Time."</a> NYT: The leader of the nation hosting COP26 said she hoped that a century from now, people will look back and “describe Glasgow as the place which really took the correct fork in the road for our planet.” 
- <p class="updated_time"> 03:58 PM CT, Nov. 03 </p> 
- <a href="https://www.nytimes.com/2021/11/02/world/europe/climate-summit-methane-forests.html">With Methane and Forest Deals, Climate Summit Offers Hope After Gloomy Start</a> NYT: Agreements to reduce methane gas emissions and protect the world’s forests were reached Tuesday at the U.N.-sponsored meeting, as President Biden chided the leaders of Russia and China for not showing up. 
  <p class="updated_time"> 03:09 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/climate/al-gore-cop26.html">At COP26, Gore Says Satellite Emissions Monitoring Helps Climate-Change Fight</a> NYT: Real-time checks on where greenhouse gases are being produced may prove a powerful weapon in the fight to cool the earth. 
  <p class="updated_time"> 02:32 PM CT, Nov. 03 </p> 
@@ -135,8 +139,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/french-australian-ties-deteriorate-in-wake-of-u-s-submarine-pact-11635959019">French-Australian Ties Deteriorate In Wake of U.S. Submarine Pact</a> WSJ: Paris and Canberra trade barbs over September’s deal for Washington to share submarine technology with Australia. 
  <p class="updated_time"> 07:07 AM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/europe/belgium-congo-kidnapping.html">Torn From Parents in the Belgian Congo, Women Seek Reparations</a> NYT: Belgium has apologized for the kidnapping and deportation of thousands of mixed-race children under its colonial rule. Survivors say that reparations should be the next step. 
- <p class="updated_time"> 06:16 AM CT, Nov. 03 </p> 
- <a href="https://www.nytimes.com/2021/11/03/world/africa/south-africa-coal-renewables.html">South Africa to Get $8.5 billion to Shift From Coal to Renewables</a> NYT: Developing nations have long said they need aid from wealthy countries to shift to renewable energy. South Africa may show how that would work in practice. 
  <p class="updated_time"> 06:08 AM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/duterte-vows-to-punish-philippine-officials-for-slow-vaccine-delivery.html">Duterte vows to punish Philippine officials for slow vaccine delivery.</a> NYT: NA 
  <p class="updated_time"> 04:58 AM CT, Nov. 03 </p> 
@@ -179,8 +181,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/02/world/asia/china-food-shortages-winter.html">China Urges Families to Stock up on Food for Winter</a> NYT: State-run news media said that the directives were to prepare for emergencies like coronavirus lockdowns as the country pursues its “zero Covid” policy. 
  <p class="updated_time"> 06:57 AM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/02/world/americas/cop26-galapagos-islands.html">Ecuador Vows at COP26 to Create Marine Reserve for Galápagos Islands</a> NYT: President Guillermo Lasso said his government had agreed with Ecuador’s fishery, tourism and conservation sectors to establish a marine reserve of more than 23,000 square miles. 
- <p class="updated_time"> 06:13 AM CT, Nov. 02 </p> 
- <a href="https://www.nytimes.com/2021/11/02/world/day-2-of-the-climate-summit-should-bring-the-first-concrete-commitments.html">Day 2 of the climate summit brings the first concrete commitments.</a> NYT: The U.S. is expected to announce plans to regulate methane, a potent greenhouse gas, and there is international agreement to tackle deforestation. 
  <p class="updated_time"> 05:25 AM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/02/world/reduce-fossil-fuels-long-term-but-pump-more-now-biden-says-angering-activists.html">Reduce fossil fuels in the long term but pump more now, Biden says, angering activists.</a> NYT: NA 
 
@@ -190,6 +190,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:09 AM CT, Nov. 04 </p> 
+ <a href="https://www.nytimes.com/2021/11/03/us/politics/air-force-reaches-vaccine-deadline.html">U.S. Air Force Has a 97 Percent Vaccine Rate for Active Duty Troops</a> NYT: While the Air Force has the earliest deadline, active duty members in all branches are nearing their goals — until Reserve and National Guard forces are counted. 
  <p class="updated_time"> 11:26 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/us/politics/rescind-medals-wounded-knee-massacre.html">Lawmakers Ask Biden to Rescind Medals for Wounded Knee Massacre</a> NYT: Seventeen members of Congress said they believed it was within President Biden’s authority to revoke Medals of Honor “when appropriate.” 
  <p class="updated_time"> 11:00 PM CT, Nov. 03 </p> 
@@ -218,8 +220,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/03/us/politics/democrats-virginia-governor-race.html">What Youngkin's Win in the Virginia Governor Race Means for Democrats</a> NYT: Less than a year after taking power in Washington, the party faces a grim immediate future, struggling to energize voters without a presidential foil and losing messaging wars to Republicans. 
  <p class="updated_time"> 05:20 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/us/politics/drone-strike-kabul-child.html">Video Showed Child in Area Minutes Before Kabul Drone Strike</a> NYT: An investigation of the Aug. 29 airstrike, which mistakenly killed 10 civilians, including seven children, did not recommend any disciplinary action. 
- <p class="updated_time"> 04:40 PM CT, Nov. 03 </p> 
- <a href="https://www.nytimes.com/2021/11/03/us/politics/air-force-reaches-vaccine-deadline.html">U.S. Air Force Has a 97 Percent Vaccine Rate for Active Duty Troops</a> NYT: While the Air Force has the earliest deadline, active duty members in all branches are nearing their goals — until Reserve and National Guard forces are counted. 
  <p class="updated_time"> 04:29 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/us/politics/pelosi-paid-leave.html">House Democrats Revive Paid Leave Program, Ignoring Manchin’s Concerns</a> NYT: The House plans to add a provision to provide four weeks of federally paid family and medical leave to their social policy bill, but it is all but certain to be jettisoned by the Senate. 
  <p class="updated_time"> 03:16 PM CT, Nov. 03 </p> 
