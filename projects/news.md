@@ -13,8 +13,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59162472?at_medium=RSS&at_campaign=KARANGA">Tom Vennink: Dutch dismay as Russia expels correspondent</a> BBC: Tom Vennink is barred from Russia until 2025 in a move criticised as an attack on media freedom. 
  <p class="updated_time"> 09:48 AM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/world/europe/italy-trieste-covid-protests.html">Trieste, Center of Italy’s Anti-Vaccine Protests, Is Now a Covid Hot Spot</a> NYT: The port city of Trieste has become a prime example for Europe of how pockets of resistance to vaccines and other precautions is driving a new surge in Covid cases. 
- <p class="updated_time"> 09:37 AM CT, Nov. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59138213?at_medium=RSS&at_campaign=KARANGA">Kyle Rittenhouse trial: When can you shoot as self-defence?</a> BBC: A US teenager, 18, is now on trial over a fatal altercation during protests in Wisconsin last year. 
+ <p class="updated_time"> 09:21 AM CT, Nov. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-59163384?at_medium=RSS&at_campaign=KARANGA">Ecuador president: More than batons needed to control jails</a> BBC: President Lasso says Ecuador needs more support to fight powerful gangs behind a rise in crime. 
  <p class="updated_time"> 09:09 AM CT, Nov. 04 </p> 
  <a href="https://www.bbc.co.uk/news/newsbeat-59163204?at_medium=RSS&at_campaign=KARANGA">Tiger King's Joe Exotic asks for release from jail after cancer diagnosis</a> BBC: The jailed zookeeper repeated his request to be pardoned, and to "enjoy what life I have left with my loved ones". 
  <p class="updated_time"> 09:03 AM CT, Nov. 04 </p> 
@@ -129,8 +129,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/02/world/europe/cop26-jeff-bezos-climate.html">Jeff Bezos Makes $2 Billion Environmental Pledge at COP26 Summit</a> NYT: The billionaire called the loss of Earth’s forests “a profound and urgent danger to us all.” 
  <p class="updated_time"> 12:38 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/us/politics/china-military-nuclear.html">China Could Have 1,000 Nuclear Warheads by 2030, Pentagon Says</a> NYT: Gen. Mark A. Milley, chairman of the Joint Chiefs of Staff, called Beijing the “No. 1” nation-state military challenger to the United States. 
- <p class="updated_time"> 11:58 AM CT, Nov. 03 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-59138692?at_medium=RSS&at_campaign=KARANGA">My Day at COP26: ‘My police dog doesn't care if Biden is here - he gets on with the job’</a> BBC: Sgt Lynsey Buchanan-Barlas and her dog Nico have been searching Glasgow’s streets for explosives ahead of COP26. 
  <p class="updated_time"> 11:49 AM CT, Nov. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59155674?at_medium=RSS&at_campaign=KARANGA">Halloween's over - what should I do with my costume?</a> BBC: Millions of costumes end up in the landfill each year as part of the Halloween plastic aftermath. 
  <p class="updated_time"> 11:46 AM CT, Nov. 03 </p> 
