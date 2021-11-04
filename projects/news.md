@@ -7,8 +7,14 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:50 PM CT, Nov. 03 </p> 
+ <a href="https://www.nytimes.com/2021/11/03/world/middleeast/iran-tanker-oil.html">Iran Seizes an Oil Tanker, but Whose Tanker Is Disputed</a> NYT: U.S. and Iranian officials gave conflicting accounts of a ship that was seized last month. Some reports said it was the same tanker the United States had seized last year. The Pentagon denied that. 
+ <p class="updated_time"> 08:43 PM CT, Nov. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59151370?at_medium=RSS&at_campaign=KARANGA">Ethiopia's war one year on: How to end the suffering</a> BBC: Rebels advance towards the capital, while Prime Minister Abiy Ahmed vows to "bury his enemies". 
  <p class="updated_time"> 08:26 PM CT, Nov. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59133207?at_medium=RSS&at_campaign=KARANGA">Diwali 2021: India celebrates festival of lights under shadow of Covid-19</a> BBC: Marked by feasts and fireworks, Diwali is one of the most important festivals in India. 
+ <p class="updated_time"> 08:20 PM CT, Nov. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/disability-59042087?at_medium=RSS&at_campaign=KARANGA">Climate change: Why are disabled people so affected by the climate crisis?</a> BBC: Disabled people are among those worst affected by emergencies, including climate crises - but why? 
  <p class="updated_time"> 08:18 PM CT, Nov. 03 </p> 
  <a href="https://www.bbc.co.uk/news/newsbeat-59149046?at_medium=RSS&at_campaign=KARANGA">Schitt's Creek's Dan Levy on memes, representation and 'Ew David'</a> BBC: Dan Levy tells Newsbeat about iconic memes, the Rose family and LGBTQ+ representation on his show. 
  <p class="updated_time"> 08:05 PM CT, Nov. 03 </p> 
@@ -19,8 +25,10 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59159008?at_medium=RSS&at_campaign=KARANGA">Biden rejects blame for shock Virginia election defeat</a> BBC: The president cites schools, jobs, petrol prices and "Trump voters" as reasons for the defeat. 
  <p class="updated_time"> 07:35 PM CT, Nov. 03 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59159018?at_medium=RSS&at_campaign=KARANGA">COP26: 190 nations and organisations pledge to quit coal</a> BBC: Big coal users like Poland and Canada vow to phase it out, but key players China and India have not. 
- <p class="updated_time"> 07:14 PM CT, Nov. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-59158568?at_medium=RSS&at_campaign=KARANGA">Amanda Knox on how she thinks her case would be viewed today</a> BBC: Amanda Knox talks about losing control of her identity during the Meredith Kercher murder investigation. 
+ <p class="updated_time"> 07:24 PM CT, Nov. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-59149435?at_medium=RSS&at_campaign=KARANGA">COP26: How protesters prepared for the Glasgow climate change summit</a> BBC: Since the COP26 climate change summit started, hundreds of protesters have taken to the city's streets. 
+ <p class="updated_time"> 07:23 PM CT, Nov. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/science-environment-59092240?at_medium=RSS&at_campaign=KARANGA">What is hydrogen energy and why is it important?</a> BBC: The BBC’s Roger Harrabin takes a look at the tech behind hydrogen energy and its green potential. 
  <p class="updated_time"> 06:59 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/business/nso-group-spyware-blacklist.html">U.S. Blacklists Israeli Firm NSO Group Over Spyware</a> NYT: The ban is the strongest step an American president has taken to curb abuses in the global market for spyware. 
  <p class="updated_time"> 06:00 PM CT, Nov. 03 </p> 
@@ -51,8 +59,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/03/world/europe/greece-covid-restrictions.html">Greece Tightens Covid Restrictions on the Unvaccinated</a> NYT: The restrictions start Saturday and target unvaccinated people, said the country’s health minister, Thanos Plevris. 
  <p class="updated_time"> 02:21 PM CT, Nov. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59138213?at_medium=RSS&at_campaign=KARANGA">Kyle Rittenhouse trial: When can you shoot as self-defence?</a> BBC: A US teenager, 18, is now on trial over a fatal altercation during protests in Wisconsin last year. 
- <p class="updated_time"> 02:01 PM CT, Nov. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59153059?at_medium=RSS&at_campaign=KARANGA">Lockerbie bombing: Libya could work with US on extradition</a> BBC: Its foreign minister is "positive" in the case of a man wanted by the US over the 1988 plane bombing. 
  <p class="updated_time"> 01:56 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/europe/cop26-climate-change-finance-industry.html"> Financial Industry, With $130 Trillion, to Pursue Climate Goals </a> NYT: The pledge would transform the international financial system, but critics say it falls short on fossil fuels. 
  <p class="updated_time"> 01:54 PM CT, Nov. 03 </p> 
@@ -97,10 +103,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/03/world/asia/sunao-tsuboi-dead.html">Sunao Tsuboi, 96, Dies; Hiroshima Victim Who Lived to Tell His Story</a> NYT: After suffering through the agony of the attack and its aftermath, he devoted himself to spreading the message that nuclear weapons should be abolished. 
  <p class="updated_time"> 10:30 AM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/as-deadlines-loom-the-us-military-grants-few-vaccine-exemptions.html">As deadlines loom, the U.S. military grants few vaccine exemptions.</a> NYT: NA 
- <p class="updated_time"> 10:06 AM CT, Nov. 03 </p> 
- <a href="https://www.bbc.co.uk/news/59135899?at_medium=RSS&at_campaign=KARANGA">COP26: What's the climate impact of private jets?</a> BBC: World leaders' use of private jets to attend the climate summit has been called into question. 
  <p class="updated_time"> 10:04 AM CT, Nov. 03 </p> 
  <a href="https://www.wsj.com/articles/chinese-tennis-stars-accusation-against-retired-top-leader-causes-a-stir-online-11635966240">Chinese Tennis Star Peng Shuai's Accusation Against a Retired Top Leader Causes Online Stir</a> WSJ: Professional athlete Peng Shuai’s post alleging sexual assault by former Vice Premier Zhang Gaoli disappeared after about 20 minutes, but the claim has turned a spotlight on perceived abuses by powerful political figures. 
+ <p class="updated_time"> 09:58 AM CT, Nov. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/58956714?at_medium=RSS&at_campaign=KARANGA">Climate change: What are the big polluters doing to cut carbon emissions?</a> BBC: The top emissions-producing nations all have plans to tackle global warming, but what progress are they making? 
  <p class="updated_time"> 09:56 AM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/02/world/asia/afghanistan-kabul-hospital-attack.html">Dozens Killed in ISIS Attack on Military Hospital in Afghanistan’s Capital</a> NYT: The fall of the Western-backed government in August and the Taliban takeover of the country have been followed by an increase in Islamic State attacks across Afghanistan. 
  <p class="updated_time"> 09:36 AM CT, Nov. 03 </p> 
@@ -121,16 +127,12 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-australia-59144556?at_medium=RSS&at_campaign=KARANGA">Cleo Smith: How Australian police found the missing four-year-old</a> BBC: The discovery of the girl follows a huge search operation covering a remote part of Australia. 
  <p class="updated_time"> 07:07 AM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/europe/belgium-congo-kidnapping.html">Torn From Parents in the Belgian Congo, Women Seek Reparations</a> NYT: Belgium has apologized for the kidnapping and deportation of thousands of mixed-race children under its colonial rule. Survivors say that reparations should be the next step. 
- <p class="updated_time"> 06:43 AM CT, Nov. 03 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-58925049?at_medium=RSS&at_campaign=KARANGA">COP26: Can countries be forced to meet net zero targets? And more questions</a> BBC: BBC correspondents answer your questions about Glasgow's COP26 climate summit. 
  <p class="updated_time"> 06:16 AM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/africa/south-africa-coal-renewables.html">South Africa to Get $8.5 billion to Shift From Coal to Renewables</a> NYT: Developing nations have long said they need aid from wealthy countries to shift to renewable energy. South Africa may show how that would work in practice. 
  <p class="updated_time"> 06:08 AM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/duterte-vows-to-punish-philippine-officials-for-slow-vaccine-delivery.html">Duterte vows to punish Philippine officials for slow vaccine delivery.</a> NYT: NA 
  <p class="updated_time"> 04:58 AM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/climate/ban-ki-moon-green-economy.html">Governments Must Invest in Jobs in Green Economy, Ban Ki-moon Says.</a> NYT: His comments come amid rising concern that transitioning to a greener economy could provoke a backlash if the cost falls to low- and middle-income people. 
- <p class="updated_time"> 04:39 AM CT, Nov. 03 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-58874518?at_medium=RSS&at_campaign=KARANGA">What is net zero and how are the UK and other countries doing?</a> BBC: Experts have recommended developed countries adopt targets to reduce emissions to net zero by 2050. 
  <p class="updated_time"> 04:00 AM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/asia/squid-game-korea-bts.html">From BTS to ‘Squid Game’: How South Korea Became a Cultural Juggernaut</a> NYT: The country was once largely known for cars and smartphones, but a global audience has become mesmerized by its entertainment, and creators say success didn’t happen overnight. 
  <p class="updated_time"> 03:17 AM CT, Nov. 03 </p> 
@@ -159,16 +161,12 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/02/world/americas/brazil-climate.html">Once a Climate Leader, Brazil Falls Short in Glasgow</a> NYT: The country’s proposals show a desire to burnish its image, but President Jair Bolsonaro’s record and his absence from the summit cast doubt on its commitment to reversing course. 
  <p class="updated_time"> 02:43 PM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/02/world/middleeast/palestinian-jerusalem-eviction-jarrah.html">Palestinian Families Reject Deal in Area That Helped Set Off Gaza Conflict</a> NYT: The threatened evictions of Palestinian residents of the Sheikh Jarrah neighborhood of East Jerusalem led to a war in Gaza last May. 
- <p class="updated_time"> 02:25 PM CT, Nov. 02 </p> 
- <a href="https://www.bbc.co.uk/news/59136545?at_medium=RSS&at_campaign=KARANGA">Deforestation: Which countries are still cutting down trees?</a> BBC: World leaders have pledged to stop and reverse deforestation. How do their records stack up? 
  <p class="updated_time"> 01:42 PM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/02/world/john-kerry-climate-aid-cop26.html">John Kerry Says $100 Billion in Climate Aid Per Year Is Within Reach</a> NYT: John Kerry, the American special climate envoy, said the United States had rejoined the a coalition of countries pushing for more aggressive action. 
  <p class="updated_time"> 01:01 PM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/02/world/europe/united-states-russia-william-burns.html">U.S.-Russia Engagement Deepens as C.I.A. Head Travels to Moscow</a> NYT: It was at least the fourth trip to Moscow since July by a senior American official as the two sides seek to stabilize a volatile relationship. 
  <p class="updated_time"> 12:25 PM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/02/world/asia/china-slander-law.html">China Makes It a Crime to Mock Country's Heroes</a> NYT: Under a new law, China has zealously prosecuted even the perceived slander of Communist figures, broadening Xi Jinping’s campaign to dominate party orthodoxy. 
- <p class="updated_time"> 12:02 PM CT, Nov. 02 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-59140269?at_medium=RSS&at_campaign=KARANGA">My day at COP26: 'My island home is threatened - we have no hill to run to'</a> BBC: Kathy Jetn̄il-Kijiner, a poet and activist, is at COP26 as a climate envoy for the Marshall Islands in the Pacific Ocean. 
  <p class="updated_time"> 11:43 AM CT, Nov. 02 </p> 
  <a href="https://www.nytimes.com/2021/11/02/world/israel-energy-minister-cop26-wheelchair-access.html">Karine Elharrar, Israel's Energy Minister, Couldn't Attend COP26 Events in Her Wheelchair</a> NYT: NA 
  <p class="updated_time"> 10:20 AM CT, Nov. 02 </p> 
@@ -190,6 +188,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:37 PM CT, Nov. 03 </p> 
+ <a href="https://www.nytimes.com/2021/11/03/us/politics/biden-rejects-payments-migrants.html">Biden Rejects $450,000 Payments for Separated Migrants</a> NYT: “That’s not going to happen,” the president said about proposed compensation for a Trump administration policy that divided thousands of parents and children. 
  <p class="updated_time"> 07:53 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/us/politics/biden-covid-vaccine-kids.html">Biden Urges Parents to Get Their Younger Children Vaccinated</a> NYT: A vaccination program for children will roll out next week with more doses shipping each day, he said, calling it “a day of relief and celebration.” 
  <p class="updated_time"> 07:39 PM CT, Nov. 03 </p> 
@@ -202,6 +202,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/03/business/economy/fed-taper-bond-buying.html">Federal Reserve Announces Plan to Slow Bond Buying Program</a> NYT: The Federal Reserve is dealing with high inflation at a time when millions of workers remain on the job market’s sidelines. Wednesday’s announcement that it will slow bond purchases is a step toward more normal monetary policy. 
  <p class="updated_time"> 06:37 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/us/politics/schools-republican-campaign-issues.html">Republicans Pounce on Schools as a Wedge Issue to Unite the Party</a> NYT: Rallying around what it calls “parental rights,” the party is pushing to build on its victories this week by stoking white resentment and tapping into broader anger at the education system. 
+ <p class="updated_time"> 06:23 PM CT, Nov. 03 </p> 
+ <a href="https://www.nytimes.com/2021/11/03/us/elections/biden-virginia-nj.html">Biden Returns to U.S. Facing Challenges After Election</a> NYT: Republican gains on Election Day come at a vulnerable time for the president’s agenda. 
  <p class="updated_time"> 06:17 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/us/politics/virginia-governor-youngkin-trump.html">Youngkin’s Dance With Trump Was Pivotal. But Is It Repeatable?</a> NYT: Glenn Youngkin’s victory in Virginia may inspire Republican imitators vying to win over Trump supporters without embracing the former president outright. 
  <p class="updated_time"> 06:15 PM CT, Nov. 03 </p> 
@@ -232,8 +234,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/03/business/economy/biden-trade-policy-steel.html">European Steel Plan Shows Biden’s Bid to Merge Climate and Trade Policy</a> NYT: A potential agreement on steel trade provides the clearest look yet at how the Biden administration plans to implement a trade policy that is both protectionist and progressive 
  <p class="updated_time"> 11:03 AM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/us/politics/black-voters-virginia.html">Black voters in Virginia refuse to be blamed for a major Democratic defeat.</a> NYT: Black state leaders and voters said the results were a sign that the party could not rely on minority voters to cover its cratering totals in white areas of the state. 
- <p class="updated_time"> 10:11 AM CT, Nov. 03 </p> 
- <a href="https://www.nytimes.com/2021/11/02/nyregion/eric-adams-mayor.html">Eric Adams Is Elected Mayor of New York City</a> NYT: Mr. Adams, a Democrat and former police captain, will be the second Black mayor in the city’s history. 
  <p class="updated_time"> 05:22 AM CT, Nov. 03 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/03/let-the-democratic-freakout-begin-494958">POLITICO Playbook: Let the Democratic freakout begin</a> Politico: And Democrats try to get the reconciliation bill over the finish line. 
  <p class="updated_time"> 05:10 AM CT, Nov. 03 </p> 
