@@ -7,14 +7,14 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:54 PM CT, Nov. 04 </p> 
+ <a href="https://www.nytimes.com/2021/11/04/world/europe/britain-france-johnson-macron.html">Bitterness Over Brexit Lies Behind Fraying France-U.K. Relations</a> NYT: A recent dispute over fishing rights illuminates a broader and more fundamental disagreement over Britain’s decision to leave the European Union. 
  <p class="updated_time"> 01:39 PM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/europe/belgium-congo-kidnapping.html">Torn From Parents in the Belgian Congo, Women Seek Reparations</a> NYT: Belgium has apologized for the kidnapping and deportation of thousands of mixed-race children under its colonial rule. Survivors say that reparations should be the next step. 
  <p class="updated_time"> 01:33 PM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/world/africa/south-africa-election-anc.html">A.N.C. Suffers Worst Election Setback Since End of Apartheid</a> NYT: In nationwide municipal elections, South Africans rebuked the African National Congress, handing it less than half the collective vote for the first time in its history. 
  <p class="updated_time"> 01:29 PM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/03/us/hawaii-covid-restrictions-tourists-ige.html">Hawaii Eases Covid Restrictions and Reopens for Tourists</a> NYT: The state is eager for its vacation industry to rebound after a devastating 2020 season. 
- <p class="updated_time"> 01:26 PM CT, Nov. 04 </p> 
- <a href="https://www.nytimes.com/2021/11/04/world/europe/britain-france-johnson-macron.html">Bitterness Over Brexit Lies Behind Fraying France-U.K. Relations</a> NYT: A recent dispute over fishing rights illuminates a broader and more fundamental disagreement over Britain’s decision to leave the European Union. 
  <p class="updated_time"> 01:16 PM CT, Nov. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59169547?at_medium=RSS&at_campaign=KARANGA">COP26: Indonesia criticises 'unfair' deal to end deforestation</a> BBC: The country's environment minister says the country "can't promise what we can't do". 
  <p class="updated_time"> 12:45 PM CT, Nov. 04 </p> 
@@ -188,6 +188,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 01:47 PM CT, Nov. 04 </p> 
+ <a href="https://www.nytimes.com/2021/11/04/us/politics/congress-budget-tricks.html">Democrats Employ Budget Gimmicks They Once Derided</a> NYT: Budget experts say true cost of legislation could be $4 trillion as lawmakers rely on sleights of hand to bring down the price tag. 
  <p class="updated_time"> 01:35 PM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/us/politics/house-democrats-biden.html">House Democrats Hunt for Votes to Pass Biden’s Domestic Agenda</a> NYT: Speaker Nancy Pelosi wants a vote as soon as Thursday night on a $1.85 trillion social policy and climate bill, but moderates are pushing back. 
  <p class="updated_time"> 01:31 PM CT, Nov. 04 </p> 
@@ -202,8 +204,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/04/pelosi-domestic-agenda-519503">Pelosi aims to push domestic agenda double-whammy, despite centrist holdouts</a> Politico: Moderate Democrats still have concerns over immigration reforms and whether the bill will be fully paid for. 
  <p class="updated_time"> 11:49 AM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/03/us/politics/school-republican-campaign-issue.html">Republicans Seize on Schools as a Wedge Issue to Unite the Party</a> NYT: Rallying around what it calls “parental rights,” the party is pushing to build on its victories this week by stoking white resentment and tapping into broader anger at the education system. 
- <p class="updated_time"> 11:18 AM CT, Nov. 04 </p> 
- <a href="https://www.nytimes.com/2021/11/04/us/politics/congress-budget-tricks.html">Democrats Employ Budget Gimmicks They Once Derided</a> NYT: Budget experts say true cost of legislation could be $4 trillion as lawmakers rely on sleights of hand to bring down the price tag. 
  <p class="updated_time"> 06:45 AM CT, Nov. 04 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/11/04/dems-attempt-an-end-of-week-spri-494981">Dems attempt an end-of-week sprint</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 05:29 AM CT, Nov. 04 </p> 
