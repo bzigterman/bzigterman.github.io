@@ -7,18 +7,20 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:36 AM CT, Nov. 04 </p> 
+ <a href="https://www.nytimes.com/2021/11/04/world/australia/charge-cleo-smith.html">Cleo Smith Abduction: Australian Man Is Charged After 18-Day Search </a> NYT: The legal action came as the Australian authorities continued to address questions about how the police had been able to find Cleo Smith, who vanished from a remote campsite. 
  <p class="updated_time"> 08:19 AM CT, Nov. 04 </p> 
  <a href="https://www.bbc.co.uk/news/59147659?at_medium=RSS&at_campaign=KARANGA">Climate change: Facebook fails to flag denial, study finds</a> BBC: Researchers tracked thousands of posts denying climate change - and only 8% were marked as misinformation. 
  <p class="updated_time"> 08:11 AM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/world/europe/uk-merck-pill-molnupravir.html"> The U.K. Approves Merck's Covid Pill</a> NYT: The British authorities said that the antiviral drug was “safe and effective” in reducing the risk of hospitalization and death for those at increased risk of severe symptoms. 
+ <p class="updated_time"> 07:49 AM CT, Nov. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/technology-59154520?at_medium=RSS&at_campaign=KARANGA">Facebook's metaverse plans labelled as 'dystopian' and 'a bad idea'</a> BBC: Roger McNamee, an early Facebook investor, says it "should not be allowed" to build the metaverse. 
  <p class="updated_time"> 07:42 AM CT, Nov. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59160525?at_medium=RSS&at_campaign=KARANGA">Covid: Record German cases as WHO warns of Europe deaths</a> BBC: Almost 34,000 cases are reported in Germany as the WHO warns of half a million more deaths in Europe. 
  <p class="updated_time"> 07:20 AM CT, Nov. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59162501?at_medium=RSS&at_campaign=KARANGA">Hundreds join violence against women protest in Mexico</a> BBC: Protesters carry crosses bearing the names of murdered women to draw attention to rising femicide cases. 
  <p class="updated_time"> 07:09 AM CT, Nov. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59162469?at_medium=RSS&at_campaign=KARANGA">Erdogan: Turkey investigates posts about president's health</a> BBC: Police say disinformation about Recep Tayyip Erdogan has been spread, as his allies dismiss rumours. 
- <p class="updated_time"> 06:24 AM CT, Nov. 04 </p> 
- <a href="https://www.nytimes.com/2021/11/04/world/australia/charge-cleo-smith.html">Cleo Smith Abduction: Australian Man Is Charged After 18-Day Search </a> NYT: The legal action came as the Australian authorities continued to address questions about how the police had been able to find Cleo Smith, who vanished from a remote campsite. 
  <p class="updated_time"> 06:05 AM CT, Nov. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59162188?at_medium=RSS&at_campaign=KARANGA">Cleo Smith: Australian man charged over four-year-old's abduction</a> BBC: The four-year-old was found in a locked home 18 days after disappearing while on holiday with family. 
  <p class="updated_time"> 05:32 AM CT, Nov. 04 </p> 
@@ -41,8 +43,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/merck-ridgeback-covid-19-pill-cleared-for-use-in-u-k-11636023388">Merck Covid-19 Pill Cleared for Use in U.K., Its First Authorization</a> WSJ: U.K. health regulators cleared molnupiravir, becoming the first country to authorize the pill that can be taken at home and promises to keep people out of the hospital. The U.S. is expected to follow in coming months. 
  <p class="updated_time"> 04:09 AM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/latin-america-pressed-on-vaccine-priorities.html">With scant vaccine supplies, the W.H.O. presses Latin America and the Caribbean to hold off on boosters.</a> NYT: Sufficient shipments of doses have been slow to reach many countries in the region and economic inequalities are complicating matters. 
- <p class="updated_time"> 04:07 AM CT, Nov. 04 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-59149960?at_medium=RSS&at_campaign=KARANGA">Damon Galgut wins Booker Prize with 'gripping' South Africa novel The Promise</a> BBC: Damon Galgut wins the prestigious literary award at the third attempt with his novel The Promise. 
  <p class="updated_time"> 04:00 AM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/world/europe/italy-trieste-covid-protests.html">Trieste, Center of Italy’s Anti-Vaccine Protests, Is Now a Covid Hot Spot</a> NYT: After leading the resistance to the government’s new health pass, the northeastern port city of Trieste is home to a worrying spike in cases. 
  <p class="updated_time"> 03:58 AM CT, Nov. 04 </p> 
