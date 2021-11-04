@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:51 AM CT, Nov. 04 </p> 
+ <a href="https://www.nytimes.com/2021/11/04/world/uk-merck-pill-molnupravir.html">The U.K. approves Merck’s molnupiravir, making it the first pill to be endorsed for treating Covid.</a> NYT: The British authorities said that the antiviral drug was “safe and effective” in reducing the risk of hospitalization and death for those at increased risk of severe symptoms. 
  <p class="updated_time"> 06:24 AM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/world/australia/charge-cleo-smith.html">Cleo Smith Abduction: Australian Man Is Charged After 18-Day Search </a> NYT: The legal action came as the Australian authorities continued to address questions about how the police had been able to find Cleo Smith, who vanished from a remote campsite. 
  <p class="updated_time"> 06:05 AM CT, Nov. 04 </p> 
@@ -45,8 +47,10 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59160644?at_medium=RSS&at_campaign=KARANGA">Cupcakes recalled in US over metal fragment contamination fears</a> BBC: People are being warned not to eat the chocolate cakes which may have fragments of mesh wire. 
  <p class="updated_time"> 03:01 AM CT, Nov. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-59158568?at_medium=RSS&at_campaign=KARANGA">Amanda Knox on how she thinks her case would be viewed today</a> BBC: She speaks about losing control of her identity during the Meredith Kercher murder investigation. 
- <p class="updated_time"> 02:31 AM CT, Nov. 04 </p> 
+ <p class="updated_time"> 02:50 AM CT, Nov. 04 </p> 
  <a href="https://www.wsj.com/articles/merck-ridgeback-covid-19-pill-cleared-for-use-in-u-k-11636023388">Merck Covid-19 Pill Cleared for Use in U.K., Its First Authorization</a> WSJ: U.K. health regulators cleared molnupiravir, becoming the first country to authorize the pill that can be taken at home and promises to keep people out of the hospital. The U.S. is expected to follow in coming months. 
+ <p class="updated_time"> 02:36 AM CT, Nov. 04 </p> 
+ <a href="https://www.wsj.com/articles/covid-19-lockdowns-ripple-across-chinai-wonder-how-long-i-can-hang-on-11636025787">Covid-19 Lockdowns Ripple Across China</a> WSJ: As the Delta variant puts China through one of its biggest Covid-19 outbreaks since it first closed off Wuhan in early 2020, new lockdowns and other strict controls are taking place across the country. 
  <p class="updated_time"> 02:00 AM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/style/rangoli-art-diwali.html">The Art and Ritual of Rangoli</a> NYT: Making ornate floor art can be a celebratory act for festivals like Diwali and a meditative practice. 
  <p class="updated_time"> 01:47 AM CT, Nov. 04 </p> 
