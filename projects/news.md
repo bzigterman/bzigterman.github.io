@@ -7,10 +7,16 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:19 AM CT, Nov. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/59147659?at_medium=RSS&at_campaign=KARANGA">Climate change: Facebook fails to flag denial, study finds</a> BBC: Researchers tracked thousands of posts denying climate change - and only 8% were marked as misinformation. 
  <p class="updated_time"> 08:11 AM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/world/europe/uk-merck-pill-molnupravir.html"> The U.K. Approves Merck's Covid Pill</a> NYT: The British authorities said that the antiviral drug was “safe and effective” in reducing the risk of hospitalization and death for those at increased risk of severe symptoms. 
  <p class="updated_time"> 07:42 AM CT, Nov. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59160525?at_medium=RSS&at_campaign=KARANGA">Covid: Record German cases as WHO warns of Europe deaths</a> BBC: Almost 34,000 cases are reported in Germany as the WHO warns of half a million more deaths in Europe. 
+ <p class="updated_time"> 07:20 AM CT, Nov. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-59162501?at_medium=RSS&at_campaign=KARANGA">Hundreds join violence against women protest in Mexico</a> BBC: Protesters carry crosses bearing the names of murdered women to draw attention to rising femicide cases. 
+ <p class="updated_time"> 07:09 AM CT, Nov. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59162469?at_medium=RSS&at_campaign=KARANGA">Erdogan: Turkey investigates posts about president's health</a> BBC: Police say disinformation about Recep Tayyip Erdogan has been spread, as his allies dismiss rumours. 
  <p class="updated_time"> 06:24 AM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/world/australia/charge-cleo-smith.html">Cleo Smith Abduction: Australian Man Is Charged After 18-Day Search </a> NYT: The legal action came as the Australian authorities continued to address questions about how the police had been able to find Cleo Smith, who vanished from a remote campsite. 
  <p class="updated_time"> 06:05 AM CT, Nov. 04 </p> 
@@ -31,6 +37,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/02/world/europe/climate-summit-methane-forests.html">With Methane and Forest Deals, Climate Summit Offers Hope After Gloomy Start</a> NYT: Agreements to reduce methane gas emissions and protect the world’s forests were reached Tuesday at the U.N.-sponsored meeting, as President Biden chided the leaders of Russia and China for not showing up. 
  <p class="updated_time"> 04:18 AM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/africa/south-africa-coal-renewables.html">South Africa to Get $8.5 billion to Shift From Coal to Renewables</a> NYT: Developing nations have long said they need aid from wealthy countries to shift to renewable energy. South Africa may show how that would work in practice. 
+ <p class="updated_time"> 04:14 AM CT, Nov. 04 </p> 
+ <a href="https://www.wsj.com/articles/merck-ridgeback-covid-19-pill-cleared-for-use-in-u-k-11636023388">Merck Covid-19 Pill Cleared for Use in U.K., Its First Authorization</a> WSJ: U.K. health regulators cleared molnupiravir, becoming the first country to authorize the pill that can be taken at home and promises to keep people out of the hospital. The U.S. is expected to follow in coming months. 
  <p class="updated_time"> 04:09 AM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/latin-america-pressed-on-vaccine-priorities.html">With scant vaccine supplies, the W.H.O. presses Latin America and the Caribbean to hold off on boosters.</a> NYT: Sufficient shipments of doses have been slow to reach many countries in the region and economic inequalities are complicating matters. 
  <p class="updated_time"> 04:07 AM CT, Nov. 04 </p> 
@@ -47,8 +55,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59160644?at_medium=RSS&at_campaign=KARANGA">Cupcakes recalled in US over metal fragment contamination fears</a> BBC: People are being warned not to eat the chocolate cakes which may have fragments of mesh wire. 
  <p class="updated_time"> 03:01 AM CT, Nov. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-59158568?at_medium=RSS&at_campaign=KARANGA">Amanda Knox on how she thinks her case would be viewed today</a> BBC: She speaks about losing control of her identity during the Meredith Kercher murder investigation. 
- <p class="updated_time"> 02:50 AM CT, Nov. 04 </p> 
- <a href="https://www.wsj.com/articles/merck-ridgeback-covid-19-pill-cleared-for-use-in-u-k-11636023388">Merck Covid-19 Pill Cleared for Use in U.K., Its First Authorization</a> WSJ: U.K. health regulators cleared molnupiravir, becoming the first country to authorize the pill that can be taken at home and promises to keep people out of the hospital. The U.S. is expected to follow in coming months. 
  <p class="updated_time"> 02:36 AM CT, Nov. 04 </p> 
  <a href="https://www.wsj.com/articles/covid-19-lockdowns-ripple-across-chinai-wonder-how-long-i-can-hang-on-11636025787">Covid-19 Lockdowns Ripple Across China</a> WSJ: As the Delta variant puts China through one of its biggest Covid-19 outbreaks since it first closed off Wuhan in early 2020, new lockdowns and other strict controls are taking place across the country. 
  <p class="updated_time"> 02:00 AM CT, Nov. 04 </p> 
@@ -119,10 +125,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/02/world/europe/cop26-jeff-bezos-climate.html">Jeff Bezos Makes $2 Billion Environmental Pledge at COP26 Summit</a> NYT: The billionaire called the loss of Earth’s forests “a profound and urgent danger to us all.” 
  <p class="updated_time"> 12:38 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/us/politics/china-military-nuclear.html">China Could Have 1,000 Nuclear Warheads by 2030, Pentagon Says</a> NYT: Gen. Mark A. Milley, chairman of the Joint Chiefs of Staff, called Beijing the “No. 1” nation-state military challenger to the United States. 
- <p class="updated_time"> 12:34 PM CT, Nov. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59154984?at_medium=RSS&at_campaign=KARANGA">Facebook deletes Ethiopia PM's post that urged citizens to 'bury' rebels</a> BBC: The social giant deletes Abiy Ahmed's post which urged citizens to "bury" a rebel group. 
- <p class="updated_time"> 12:27 PM CT, Nov. 03 </p> 
- <a href="https://www.bbc.co.uk/news/technology-59149651?at_medium=RSS&at_campaign=KARANGA">NSO Group: Israeli spyware company added to US trade blacklist</a> BBC: NSO Group, which makes the Pegasus spyware, acted against US interests, officials say. 
  <p class="updated_time"> 11:58 AM CT, Nov. 03 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59138692?at_medium=RSS&at_campaign=KARANGA">My Day at COP26: ‘My police dog doesn't care if Biden is here - he gets on with the job’</a> BBC: Sgt Lynsey Buchanan-Barlas and her dog Nico have been searching Glasgow’s streets for explosives ahead of COP26. 
  <p class="updated_time"> 11:49 AM CT, Nov. 03 </p> 
@@ -149,8 +151,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/03/world/duterte-vows-to-punish-philippine-officials-for-slow-vaccine-delivery.html">Duterte vows to punish Philippine officials for slow vaccine delivery.</a> NYT: NA 
  <p class="updated_time"> 04:58 AM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/climate/ban-ki-moon-green-economy.html">Governments Must Invest in Jobs in Green Economy, Ban Ki-moon Says.</a> NYT: His comments come amid rising concern that transitioning to a greener economy could provoke a backlash if the cost falls to low- and middle-income people. 
- <p class="updated_time"> 04:39 AM CT, Nov. 03 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-58874518?at_medium=RSS&at_campaign=KARANGA">What is net zero and how are the UK and other countries doing?</a> BBC: Experts have recommended developed countries adopt targets to reduce emissions to net zero by 2050. 
  <p class="updated_time"> 04:00 AM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/asia/squid-game-korea-bts.html">From BTS to ‘Squid Game’: How South Korea Became a Cultural Juggernaut</a> NYT: The country was once largely known for cars and smartphones, but a global audience has become mesmerized by its entertainment, and creators say success didn’t happen overnight. 
  <p class="updated_time"> 02:13 AM CT, Nov. 03 </p> 
