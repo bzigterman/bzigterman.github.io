@@ -7,6 +7,16 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:56 PM CT, Nov. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-58895748?at_medium=RSS&at_campaign=KARANGA">A journey from slum to Sydney, upended by the pandemic</a> BBC: Tushar Joshi's dreams of studying in Australia on a scholarship have been upended by Covid-19. 
+ <p class="updated_time"> 08:25 PM CT, Nov. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-59163449?at_medium=RSS&at_campaign=KARANGA">How pop star Zara Larsson made a seven-figure sum on Roblox</a> BBC: The Lush Life singer has sold thousands of items of virtual merchandise inside the game. 
+ <p class="updated_time"> 08:18 PM CT, Nov. 04 </p> 
+ <a href="https://www.nytimes.com/2021/11/04/arts/television/movies-tv-australia-new-streaming-netflix-amazon-stan-november.html">The Best Movies and TV Shows New to Netflix, Amazon and Stan in Australia in November</a> NYT: Our picks for November, including ‘tick, tick … BOOM!’, ‘The Great’ Season 2, and ‘Passing’ 
+ <p class="updated_time"> 08:13 PM CT, Nov. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59144712?at_medium=RSS&at_campaign=KARANGA">As winter looms, reports of starvation in North Korea</a> BBC: North Korea's leader has compared the current situation to the terrible famine of the 1990s. 
+ <p class="updated_time"> 08:13 PM CT, Nov. 04 </p> 
+ <a href="https://www.nytimes.com/2021/11/04/world/canada/saskatoon-moose-school.html">In Saskatoon, a Moose on the Loose Is Returned to the Wild</a> NYT: In a prairie city, a young moose on the loose crashed into a children’s classroom, sparking a mix of delight and concern on social media. 
  <p class="updated_time"> 07:44 PM CT, Nov. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59161935?at_medium=RSS&at_campaign=KARANGA">Africa's week in pictures: 29 October - 4 November 2021</a> BBC: A selection of the best photos from the African continent and beyond. 
  <p class="updated_time"> 07:39 PM CT, Nov. 04 </p> 
@@ -53,8 +63,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/04/world/africa/ethiopia-tigray-crackdown.html">Crackdown Sweeps Ethiopia’s Capital as War Draws Near</a> NYT: Government forces were going to door to door in the Ethiopian capital, rounding up ethnic Tigrayans, members of the same ethnic group as the rebels closing in. 
  <p class="updated_time"> 04:14 PM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/world/europe/uk-politics-boris-johnson-owen-paterson.html">Conflict-of-Interest Case Has Boris Johnson Reversing Course, Again</a> NYT: Britain’s prime minister intervened in the case of a Conservative Party lawmaker who faced suspension. A ferocious blowback caused him to retreat, a now familiar path. 
- <p class="updated_time"> 02:33 PM CT, Nov. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59166081?at_medium=RSS&at_campaign=KARANGA">South Africa municipal elections: Who are the winners and losers?</a> BBC: The party of Nelson Mandela gets less than 50% nationwide for the first time since the end of apartheid. 
  <p class="updated_time"> 02:32 PM CT, Nov. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59161936?at_medium=RSS&at_campaign=KARANGA">Somizi Mhlongo: Gay TV star cancels Zimbabwe trip after churches complain</a> BBC: Somizi Mhlongo cancels a trip after a religious coalition tried to ban him because of his sexuality. 
  <p class="updated_time"> 02:09 PM CT, Nov. 04 </p> 
@@ -89,8 +97,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/04/world/europe/germany-covid-surge-daily-case-record.html">Facing a New Surge, Germany Sets a Daily Virus Case Record</a> NYT: The country registered 33,949 new coronavirus cases over a 24-hour period on Wednesday, surpassing a high set in December of last year. 
  <p class="updated_time"> 10:46 AM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/science/astronomy-decadal-survey-telescope.html">A New 10-Year Plan for the Cosmos</a> NYT: On astronomers’ wish list for the next decade: two giant telescopes and a space telescope to search for life and habitable worlds beyond Earth. 
- <p class="updated_time"> 09:21 AM CT, Nov. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-59163384?at_medium=RSS&at_campaign=KARANGA">Ecuador president: More than batons needed to control jails</a> BBC: President Lasso says Ecuador needs more support to fight powerful gangs behind a rise in crime. 
  <p class="updated_time"> 09:01 AM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/africa/ethiopia-war-un-report.html">Ethiopia’s Leader Vows to ‘Bury This Enemy,’ Even as Rebels Advance</a> NYT: A United Nations report, released as Tigrayan rebels near the capital, documents atrocities on all sides in a year-old civil war. 
  <p class="updated_time"> 08:54 AM CT, Nov. 04 </p> 
@@ -101,20 +107,18 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/climate-finance-china-india-11636039142">China, India and Other Developing Nations Seek $1.3 Trillion a Year in Climate Finance</a> WSJ: Most of the world’s developing countries have backed a demand for wealthy nations to channel at least $1.3 trillion in climate finance to them annually starting in 2030, the opening salvo in one of the most contentious negotiating topics at the COP26 climate summit. 
  <p class="updated_time"> 08:36 AM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/world/australia/charge-cleo-smith.html">Cleo Smith Abduction: Australian Man Is Charged After 18-Day Search </a> NYT: The legal action came as the Australian authorities continued to address questions about how the police had been able to find Cleo Smith, who vanished from a remote campsite. 
- <p class="updated_time"> 07:49 AM CT, Nov. 04 </p> 
- <a href="https://www.bbc.co.uk/news/technology-59154520?at_medium=RSS&at_campaign=KARANGA">Facebook's metaverse plans labelled as 'dystopian' and 'a bad idea'</a> BBC: Roger McNamee, an early Facebook investor, says it "should not be allowed" to build the metaverse. 
  <p class="updated_time"> 07:13 AM CT, Nov. 04 </p> 
  <a href="https://www.wsj.com/articles/covid-19-coronavirus-coverup-tanzania-11636042309">Inside the World's Most Blatant Covid-19 Coverup: Secret Burials, a Dead President</a> WSJ: Tanzania denied the existence of the pandemic for months, even as thousands likely died. The country is a clue to its hidden global toll; “This is one of the government’s coronavirus cemeteries, but we’re not allowed to call it that.” 
  <p class="updated_time"> 06:31 AM CT, Nov. 04 </p> 
  <a href="https://www.wsj.com/articles/hong-kongs-top-court-narrows-scope-for-charging-protesters-11636027743">Hong Kong's Top Court Narrows Scope for Charging Protesters</a> WSJ: The city’s highest court ruled against the government in a rioting case, a decision likely to draw greater scrutiny from Beijing of the Chinese territory’s British-style justice system. 
  <p class="updated_time"> 05:32 AM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/asia/china-metoo-peng-shuai-zhang-gaoli.html">China's Peng Shuai Makes #MeToo Claim Against Zhang Gaoli</a> NYT: Peng Shuai’s accusation against Zhang Gaoli takes the country’s budding #MeToo movement to the top echelons of the Communist Party for the first time. 
+ <p class="updated_time"> 05:26 AM CT, Nov. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/science-environment-56901261?at_medium=RSS&at_campaign=KARANGA">COP26: What is the Glasgow climate conference and why is it important?</a> BBC: A crucial climate change summit is being held in the UK - this is why it's important. 
  <p class="updated_time"> 04:53 AM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/australia/australia-scott-morrison-cop26.html">What Did Scott Morrison, Australia's Leader, Accomplish at COP26?</a> NYT: Prime Minister Scott Morrison did not announce any firm plans to move away from the country’s deep investment in fossil fuel production. 
  <p class="updated_time"> 04:45 AM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/europe/global-energy-alliance-fund-cop26.html">New $10.5 Billion Fund Aims to Spur Green Energy in Poor Countries</a> NYT: Its backers say it will jump-start investments in clean energy that would not otherwise draw private investors. 
- <p class="updated_time"> 04:44 AM CT, Nov. 04 </p> 
- <a href="https://www.nytimes.com/2021/11/02/world/europe/climate-summit-methane-forests.html">With Methane and Forest Deals, Climate Summit Offers Hope After Gloomy Start</a> NYT: Agreements to reduce methane gas emissions and protect the world’s forests were reached Tuesday at the U.N.-sponsored meeting, as President Biden chided the leaders of Russia and China for not showing up. 
  <p class="updated_time"> 04:14 AM CT, Nov. 04 </p> 
  <a href="https://www.wsj.com/articles/merck-ridgeback-covid-19-pill-cleared-for-use-in-u-k-11636023388">Merck Covid-19 Pill Cleared for Use in U.K., Its First Authorization</a> WSJ: Health regulators approved molnupiravir, which can be taken at home and promises to reduce the risk of hospitalization. The U.S. is expected to follow in coming months. 
  <p class="updated_time"> 04:09 AM CT, Nov. 04 </p> 
@@ -137,16 +141,12 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/north-korea-can-make-more-uranium-for-nuclear-bombs-than-previously-thought-11636006162">North Korea Can Make More Uranium for Nuclear Bombs Than Previously Thought</a> WSJ: North Korea has the capacity to make more base ingredients for nuclear bombs than previously believed, according to new research. 
  <p class="updated_time"> 08:50 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/middleeast/iran-tanker-oil.html">Iran Seizes an Oil Tanker, but Whose Tanker Is Disputed</a> NYT: U.S. and Iranian officials gave conflicting accounts of a ship that was seized last month. Some reports said it was the same tanker the United States had seized last year. The Pentagon denied that. 
- <p class="updated_time"> 08:26 PM CT, Nov. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-59133207?at_medium=RSS&at_campaign=KARANGA">Diwali 2021: India celebrates festival of lights under shadow of Covid-19</a> BBC: Marked by feasts and fireworks, Diwali is one of the most important festivals in India. 
  <p class="updated_time"> 08:20 PM CT, Nov. 03 </p> 
  <a href="https://www.bbc.co.uk/news/disability-59042087?at_medium=RSS&at_campaign=KARANGA">Climate change: Why are disabled people so affected by the climate crisis?</a> BBC: Disabled people are among those worst affected by emergencies, including climate crises - but why? 
  <p class="updated_time"> 07:24 PM CT, Nov. 03 </p> 
  <a href="https://www.bbc.co.uk/news/uk-59149435?at_medium=RSS&at_campaign=KARANGA">COP26: How protesters prepared for the Glasgow climate change summit</a> BBC: Since the COP26 climate change summit started, hundreds of protesters have taken to the city's streets. 
  <p class="updated_time"> 07:23 PM CT, Nov. 03 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59092240?at_medium=RSS&at_campaign=KARANGA">What is hydrogen energy and why is it important?</a> BBC: The BBC’s Roger Harrabin takes a look at the tech behind hydrogen energy and its green potential. 
- <p class="updated_time"> 06:59 PM CT, Nov. 03 </p> 
- <a href="https://www.nytimes.com/2021/11/03/business/nso-group-spyware-blacklist.html">U.S. Blacklists Israeli Firm NSO Group Over Spyware</a> NYT: The ban is the strongest step an American president has taken to curb abuses in the global market for spyware. 
  <p class="updated_time"> 06:00 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/weapons-ukraine-russia.html">Weapons Tracing Study Implicates Russia in Ukraine Conflict</a> NYT: One of the most comprehensive studies to date of weaponry in the war in Ukraine shows a panoply of Russian-supplied arms that has helped fuel the war. 
  <p class="updated_time"> 05:28 PM CT, Nov. 03 </p> 
@@ -194,8 +194,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
- <p class="updated_time"> 07:46 PM CT, Nov. 04 </p> 
- <a href="https://www.nytimes.com/2021/11/04/us/politics/house-democrats-biden.html">House Democrats Hunt for Votes to Pass Biden’s Domestic Agenda</a> NYT: Speaker Nancy Pelosi wanted a vote on Thursday night on a $1.85 trillion social policy and climate bill, but moderates were pushing back. 
+ <p class="updated_time"> 08:53 PM CT, Nov. 04 </p> 
+ <a href="https://www.nytimes.com/2021/11/04/us/politics/house-democrats-biden.html">House Democrats Hunt for Votes to Pass Biden’s Domestic Agenda</a> NYT: Speaker Nancy Pelosi wanted a vote on Thursday night on a $1.85 trillion social policy and climate bill, but moderates pushed back and action was postponed until Friday. 
  <p class="updated_time"> 06:59 PM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/03/us/politics/democrat-losses-2022.html">Reeling From Surprise Losses, Democrats Sound the Alarm for 2022</a> NYT: Party officials say the White House and Congress must do more to address the electorate’s deep malaise or risk watching voters lurch back toward the G.O.P. by default. 
  <p class="updated_time"> 06:54 PM CT, Nov. 04 </p> 
@@ -221,7 +221,7 @@ permalink: /projects/news/
  <p class="updated_time"> 02:26 PM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/us/politics/robert-santos-census-bureau.html">Robert Santos Confirmed as First Latino to Lead Census Bureau</a> NYT: The confirmation on Thursday brings a permanent head to the agency after a turbulent period under the Trump administration. 
  <p class="updated_time"> 11:54 AM CT, Nov. 04 </p> 
- <a href="https://www.politico.com/news/2021/11/04/pelosi-domestic-agenda-519503">Pelosi aims to push domestic agenda double-whammy, despite centrist holdouts</a> Politico: Moderate Democrats still have concerns over immigration reforms and whether the bill will be fully paid for. 
+ <a href="https://www.politico.com/news/2021/11/04/pelosi-domestic-agenda-519503">Pelosi amps up final-hour pressure campaign with no clear path to votes</a> Politico: Democratic leaders made headway in some areas, but key lawmakers were still drafting new language on immigration as late as 9 p.m. 
  <p class="updated_time"> 11:49 AM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/03/us/politics/school-republican-campaign-issue.html">Republicans Seize on Schools as a Wedge Issue to Unite the Party</a> NYT: Rallying around what it calls “parental rights,” the party is pushing to build on its victories this week by stoking white resentment and tapping into broader anger at the education system. 
  <p class="updated_time"> 06:45 AM CT, Nov. 04 </p> 
