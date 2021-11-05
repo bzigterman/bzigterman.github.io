@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:26 AM CT, Nov. 05 </p> 
+ <a href="https://www.nytimes.com/2021/11/05/world/europe/cop-protests.html">At COP26, Youth Want Action, Accountability as Protesters Rally</a> NYT: For many, the climate conference has inspired mixed emotions: concern that their voices were not really being listened to, but also hope that their presence would help drive change. 
+ <p class="updated_time"> 04:19 AM CT, Nov. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59161935?at_medium=RSS&at_campaign=KARANGA">Africa's week in pictures: 29 October - 4 November 2021</a> BBC: A selection of the best photos from the African continent and beyond. 
  <p class="updated_time"> 04:05 AM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/05/world/asia/india-diwali-covid.html">In India, Fears Grow That Diwali Celebrations Could Fuel Another Virus Spike</a> NYT: Epidemiologists are concerned that Covid cases will surge after shoppers thronged markets and hundreds of thousands traveled around the country to celebrate the festival. 
  <p class="updated_time"> 04:05 AM CT, Nov. 05 </p> 
@@ -41,8 +45,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59144712?at_medium=RSS&at_campaign=KARANGA">As winter looms, reports of starvation in North Korea</a> BBC: North Korea's leader has compared the current situation to the terrible famine of the 1990s. 
  <p class="updated_time"> 08:13 PM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/world/canada/saskatoon-moose-school.html">In Saskatoon, a Moose on the Loose Is Returned to the Wild</a> NYT: In a prairie city, a young moose on the loose crashed into a children’s classroom, sparking a mix of delight and concern on social media. 
- <p class="updated_time"> 07:44 PM CT, Nov. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59161935?at_medium=RSS&at_campaign=KARANGA">Africa's week in pictures: 29 October - 4 November 2021</a> BBC: A selection of the best photos from the African continent and beyond. 
  <p class="updated_time"> 07:39 PM CT, Nov. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59166607?at_medium=RSS&at_campaign=KARANGA">COP26: Indigenous Amazon activist 'got death threats' after speech</a> BBC: Txai Suruí says she worries for her safety and that of other young climate activists. 
  <p class="updated_time"> 07:27 PM CT, Nov. 04 </p> 
@@ -179,8 +181,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/03/world/as-deadlines-loom-the-us-military-grants-few-vaccine-exemptions.html">As deadlines loom, the U.S. military grants few vaccine exemptions.</a> NYT: NA 
  <p class="updated_time"> 06:08 AM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/duterte-vows-to-punish-philippine-officials-for-slow-vaccine-delivery.html">Duterte vows to punish Philippine officials for slow vaccine delivery.</a> NYT: NA 
- <p class="updated_time"> 04:58 AM CT, Nov. 03 </p> 
- <a href="https://www.nytimes.com/2021/11/03/climate/ban-ki-moon-green-economy.html">Governments Must Invest in Jobs in Green Economy, Ban Ki-moon Says.</a> NYT: His comments come amid rising concern that transitioning to a greener economy could provoke a backlash if the cost falls to low- and middle-income people. 
  <p class="updated_time"> 04:00 AM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/asia/squid-game-korea-bts.html">From BTS to ‘Squid Game’: How South Korea Became a Cultural Juggernaut</a> NYT: The country was once largely known for cars and smartphones, but a global audience has become mesmerized by its entertainment, and creators say success didn’t happen overnight. 
 
