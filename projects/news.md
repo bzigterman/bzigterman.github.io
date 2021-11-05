@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:23 PM CT, Nov. 05 </p> 
+ <a href="https://www.npr.org/2021/11/05/1052968032/having-jailed-opposition-candidates-daniel-ortega-is-set-to-win-nicaragua-presid">Having jailed opposition candidates, Daniel Ortega is set to win Nicaragua presidency</a> NPR: Nicaragua's President Daniel Ortega will likely be reelected Sunday. He has jailed political opponents and ensured the vote will be in his favor. 
+ <p class="updated_time"> 03:23 PM CT, Nov. 05 </p> 
+ <a href="https://www.npr.org/2021/11/05/1052967987/young-people-are-protesting-in-glasgow-demanding-concreate-action-at-climate-sum">Young people are protesting in Glasgow, demanding concreate action at climate summit</a> NPR: Young people from around the world are protesting over world leaders' response to climate change at the UN's climate summit in Glasgow on Friday. 
  <p class="updated_time"> 02:51 PM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/05/climate/cop26-john-kerry.html">John Kerry Lauds Progress at COP26 but Warns, ‘Job Not Done.’</a> NYT: Mr. Kerry, President Biden’s climate envoy, acknowledged that many of the promises being put forward in Glasgow were only that — promises. 
  <p class="updated_time"> 02:47 PM CT, Nov. 05 </p> 
@@ -171,14 +175,10 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/04/1052291183/spies-on-opposite-sides-of-the-cold-war-unite-in-from-warsaw-with-love">Spies on opposite sides of the Cold War unite in 'From Warsaw With Love'</a> NPR: Reporter John Pomfret interviewed government officials and intelligence operatives and mined declassified files in Poland to write his fascinating story of the Polish-U.S. intelligence relationship. 
  <p class="updated_time"> 09:06 AM CT, Nov. 04 </p> 
  <a href="https://www.npr.org/2021/11/04/1052267118/climate-change-carbon-dioxide-emissions-global-carbon-budget">Earth has 11 years to cut emissions to avoid dire climate scenarios, a report says</a> NPR: Carbon dioxide emissions are rebounding after a dip in 2020, and researchers say that at the current rate, Earth's "carbon budget" will be exhausted in roughly 11 years. 
- <p class="updated_time"> 08:37 AM CT, Nov. 04 </p> 
- <a href="https://www.npr.org/sections/coronavirus-live-updates/2021/11/04/1052281073/uk-merck-molnupiravir-covid-drug">The U.K. approves Merck's COVID-19 antiviral pill, calling it a world first</a> NPR: "The U.K. is now the first country in the world to approve an antiviral that can be taken at home for COVID-19," Health and Social Care Secretary Sajid Javid said. 
  <p class="updated_time"> 08:36 AM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/world/australia/charge-cleo-smith.html">Cleo Smith Abduction: Australian Man Is Charged After 18-Day Search </a> NYT: The legal action came as the Australian authorities continued to address questions about how the police had been able to find Cleo Smith, who vanished from a remote campsite. 
  <p class="updated_time"> 08:19 AM CT, Nov. 04 </p> 
  <a href="https://www.bbc.co.uk/news/59147659?at_medium=RSS&at_campaign=KARANGA">Climate change: Facebook fails to flag denial, study finds</a> BBC: Researchers tracked thousands of posts denying climate change - and only 8% were marked as misinformation. 
- <p class="updated_time"> 07:02 AM CT, Nov. 04 </p> 
- <a href="https://www.npr.org/2021/11/04/1051444707/cop26-climate-summit-uk-coal-mine">The U.K. considers its 1st new coal mine in decades even as it calls to phase out coal</a> NPR: A town in northern England wants to open a coking coal mine to create jobs. But while hosting the U.N. climate summit, Prime Minister Boris Johnson is urging countries to slash greenhouse gases. 
  <p class="updated_time"> 05:26 AM CT, Nov. 04 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-56901261?at_medium=RSS&at_campaign=KARANGA">COP26: What is the Glasgow climate conference and why is it important?</a> BBC: A crucial climate change summit is being held in the UK - this is why it's important. 
  <p class="updated_time"> 04:09 AM CT, Nov. 04 </p> 
@@ -208,6 +208,14 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:23 PM CT, Nov. 05 </p> 
+ <a href="https://www.npr.org/2021/11/05/1052968046/house-democrats-are-hoping-to-pass-spending-package-and-infrastructure-bill">House Democrats are hoping to pass spending package and infrastructure bill</a> NPR: Democratic leaders in the House are still hoping to vote on a large part of President Joe Biden's domestic agenda Friday. But as the clock winds down, they're struggling to round up the votes. 
+ <p class="updated_time"> 03:23 PM CT, Nov. 05 </p> 
+ <a href="https://www.npr.org/2021/11/05/1052968032/having-jailed-opposition-candidates-daniel-ortega-is-set-to-win-nicaragua-presid">Having jailed opposition candidates, Daniel Ortega is set to win Nicaragua presidency</a> NPR: Nicaragua's President Daniel Ortega will likely be reelected Sunday. He has jailed political opponents and ensured the vote will be in his favor. 
+ <p class="updated_time"> 03:23 PM CT, Nov. 05 </p> 
+ <a href="https://www.npr.org/2021/11/05/1052967994/education-has-been-a-key-issue-in-recent-elections-but-that-might-change-next-ye">Education has been a key issue in recent elections, but that might change next year</a> NPR: Education issues took on an outsized role in this week's elections in Virginia and elsewhere. The question for politicians of all stripes is whether education will remain an important topic into 2022. 
+ <p class="updated_time"> 03:23 PM CT, Nov. 05 </p> 
+ <a href="https://www.npr.org/2021/11/05/1052967987/young-people-are-protesting-in-glasgow-demanding-concreate-action-at-climate-sum">Young people are protesting in Glasgow, demanding concreate action at climate summit</a> NPR: Young people from around the world are protesting over world leaders' response to climate change at the UN's climate summit in Glasgow on Friday. 
  <p class="updated_time"> 03:03 PM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/05/us/politics/colin-powell-funeral.html">At Colin Powell's Funeral, Washington Is Pulled Together</a> NYT: Republicans and Democrats, including President Biden and two of his predecessors, were at the Washington National Cathedral to honor the former secretary of state. 
  <p class="updated_time"> 02:35 PM CT, Nov. 05 </p> 
@@ -274,20 +282,12 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/04/1052485210/philadelphia-councilmember-on-new-city-law-banning-minor-driving-infractions">Philadelphia councilmember on new city law banning minor driving infractions</a> NPR: NPR's Ailsa Chang talks with Philadelphia councilman Isaiah Thomas about a new law that prevents police officers from making low-level traffic stops, which disproportionately affect Black drivers. 
  <p class="updated_time"> 03:23 PM CT, Nov. 04 </p> 
  <a href="https://www.npr.org/2021/11/04/1052485203/new-vaccine-requirements-go-into-effect-jan-4">New vaccine requirements go into effect Jan. 4</a> NPR: NPR's Audie Cornish speaks with Secretary of Labor Marty Walsh about the Biden administration's new COVID-19 testing and vaccine requirements. 
- <p class="updated_time"> 03:02 PM CT, Nov. 04 </p> 
- <a href="https://www.npr.org/2021/11/04/1050593676/lawyers-for-trump-jan-6-panel-spar-in-federal-court-over-records-fight">Lawyers for Trump, Jan. 6 panel spar in federal court over records fight</a> NPR: The case the marks the first legal test that pits a current president against his predecessor over what records can be released. 
  <p class="updated_time"> 02:51 PM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/us/politics/trump-jan-6-documents.html">Judge Questions Trump’s Grounds for Keeping Jan. 6 Documents Secret</a> NYT: In a hearing on Thursday, a federal judge voiced skepticism about the former president’s claim that hundreds of pages of documents related to the riot should be shielded by executive privilege. 
  <p class="updated_time"> 02:41 PM CT, Nov. 04 </p> 
  <a href="https://www.politico.com/news/2021/11/04/house-megabill-passage-manchin-last-word-519570">Manchin will get last word, even as House races to pass megabill</a> Politico: House Democratic leaders and progressives want to speed toward passage of a bill that won't have a smooth ride through the Senate. 
- <p class="updated_time"> 01:40 PM CT, Nov. 04 </p> 
- <a href="https://www.npr.org/2021/11/04/1014670567/first-latino-census-director-robert-santos-person-of-color">The Senate has confirmed the 1st Latino to lead the U.S. census, Robert Santos</a> NPR: Robert Santos, one of the country's leading statisticians, is set to lead the Census Bureau through 2026 during key preparations for the next head count that forms U.S. democracy's foundations. 
- <p class="updated_time"> 12:29 PM CT, Nov. 04 </p> 
- <a href="https://www.npr.org/2021/11/04/1052320491/investigation-finds-federal-agencies-dismissed-threats-ahead-of-the-jan-6-attack">Investigation finds federal agencies dismissed threats ahead of the Jan. 6 attack</a> NPR: Washington Post reporter Carol Leonnig says President Trump froze key federal agencies, including the FBI and Dept. of  Defense, whose job it was to investigate and stop threats to national security. 
  <p class="updated_time"> 11:54 AM CT, Nov. 04 </p> 
  <a href="https://www.politico.com/news/2021/11/04/pelosi-domestic-agenda-519503">Pelosi amps up domestic-agenda pressure campaign, pressing Friday votes</a> Politico: Democratic leaders made headway in some areas, but key lawmakers were still drafting new language on immigration as late as 9 p.m. 
- <p class="updated_time"> 11:09 AM CT, Nov. 04 </p> 
- <a href="https://www.npr.org/2021/11/04/1052346058/a-key-source-for-the-infamous-trump-russia-dossier-is-charged-with-lying-to-the-">A key source for the infamous Trump-Russia dossier is charged with lying to the FBI</a> NPR: Igor Danchenko was taken into custody Thursday as part of special counsel John Durham's investigation into the origins of the Trump-Russia probe. 
  <p class="updated_time"> 06:45 AM CT, Nov. 04 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/11/04/dems-attempt-an-end-of-week-spri-494981">Dems attempt an end-of-week sprint</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 05:13 AM CT, Nov. 04 </p> 
