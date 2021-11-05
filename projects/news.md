@@ -208,6 +208,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:53 PM CT, Nov. 05 </p> 
+ <a href="https://www.nytimes.com/2021/11/05/us/politics/house-infrastructure-reconciliation.html">Facing Moderate Revolt, Democrats Put Social Policy Bill on Hold</a> NYT: Leaders pressed for a vote on a separate infrastructure bill, but the fate of both measures was in doubt amid party divisions, despite pleas from President Biden. 
  <p class="updated_time"> 06:31 PM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/05/upshot/biden-budget-scorekeepers-cbo.html">2,000 Pages and Pronto! Budget Scorekeepers Are Under Pressure</a> NYT: Lawmakers want detailed estimates on the effects of the big Democratic bill, but that can take longer than they think, slowing the process. 
  <p class="updated_time"> 06:27 PM CT, Nov. 05 </p> 
@@ -282,8 +284,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/04/1052564177/the-biden-administration-is-suing-texas-over-its-new-voting-law">The Biden administration is suing Texas over its new voting law</a> NPR: The U.S. Department of Justice claims the Texas law contains several provisions that "will disenfranchise eligible Texas citizens who seek to exercise their right to vote." 
  <p class="updated_time"> 04:35 PM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/us/politics/democrats-spending-bill-budget-tricks.html">Democrats Employ Budget Gimmicks They Once Derided</a> NYT: Budget experts say true cost of legislation could be $4 trillion as lawmakers rely on sleights of hand to bring down the price tag. 
- <p class="updated_time"> 03:29 PM CT, Nov. 04 </p> 
- <a href="https://www.nytimes.com/2021/11/04/us/politics/biden-donors-white-house.html">Why Big Donors to Biden's 2020 Campaign Are Frustrated</a> NYT: Some of the top Democratic contributors have become increasingly dissatisfied with a lack of communication from the White House — and impatient with inaction on voting rights. 
  <p class="updated_time"> 03:23 PM CT, Nov. 04 </p> 
  <a href="https://www.npr.org/2021/11/04/1052485262/democrats-are-making-a-3rd-attempt-at-immigration-reform-using-a-social-spending">Democrats are making a 3rd attempt at immigration reform using a social spending bill</a> NPR: Congressional Democrats are trying — yet again — for a long shot chance at immigration reform. For several months, lawmakers have tried to force the effort into a partisan spending bill. 
  <p class="updated_time"> 02:51 PM CT, Nov. 04 </p> 
