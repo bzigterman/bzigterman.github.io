@@ -7,6 +7,14 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:08 PM CT, Nov. 05 </p> 
+ <a href="https://www.nytimes.com/2021/11/04/world/americas/biden-aide-covid-scotland.html">A White House aide who traveled abroad with Biden tests positive.</a> NYT: President Biden was not in close contact with the aide, who remains quarantined in Scotland and has not shown symptoms of Covid-19. 
+ <p class="updated_time"> 05:05 PM CT, Nov. 05 </p> 
+ <a href="https://www.nytimes.com/2021/11/05/world/canada/manitoba-premier-election-stefanson-glover.html">Manitoba Names a New Premier, but a Rival Asks a Court to Quash the Action</a> NYT: The litigation highlights the often messy process that Canadian political parties use to select their leaders. 
+ <p class="updated_time"> 05:05 PM CT, Nov. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59180744?at_medium=RSS&at_campaign=KARANGA">Ahmaud Arbery murder trial: Prosecutors reveal full footage of black jogger's death</a> BBC: Prosecutors in US state of Georgia say three white men assumed Ahmaud Arbery had committed a crime. 
+ <p class="updated_time"> 05:02 PM CT, Nov. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59175404?at_medium=RSS&at_campaign=KARANGA">Ethiopia urges ex-soldiers to join fight against Tigray rebels</a> BBC: The army calls on former military personnel to join it, as rebel forces advance on the capital. 
  <p class="updated_time"> 04:39 PM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/article/ethiopia-tigray-conflict-explained.html">Why Is Ethiopia at War in the Tigray Region? </a> NYT: The civil war has shifted dramatically since Prime Minister Abiy Ahmed began a military campaign in the Tigray region a year ago. With Tigrayan fighters advancing toward the capital, Ethiopia is at risk of collapse. 
  <p class="updated_time"> 04:32 PM CT, Nov. 05 </p> 
@@ -33,12 +41,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/05/world/europe/cop26-greta-thunberg.html">Greta Thunberg Assails Leaders Outside COP26 Climate Summit</a> NYT: “The governments of the global north countries are still refusing to take any drastic climate action,” she told protesters in Glasgow. 
  <p class="updated_time"> 01:57 PM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/05/world/states-sue-biden-vaccine-mandate.html">11 States Sue Over Biden's Vaccine Mandate for Big Companies</a> NYT: The lawsuit was filed a day after the announcement of a Jan. 4 deadline for the companies to begin their mandates or start weekly testing. 
- <p class="updated_time"> 01:53 PM CT, Nov. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59180744?at_medium=RSS&at_campaign=KARANGA">Ahmaud Arbery murder trial: Prosecutors reveal full footage of black jogger's death</a> BBC: Prosecutors in US state of Georgia say three white men assumed Ahmaud Arbery had committed a crime. 
  <p class="updated_time"> 01:51 PM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/middleeast/iran-tanker-oil.html">Iran Seizes an Oil Tanker, but Whose Tanker Is Disputed</a> NYT: U.S. and Iranian officials gave conflicting accounts of a ship that was seized last month. Some reports said it was the same tanker the United States had seized last year. The Pentagon denied that. 
- <p class="updated_time"> 01:04 PM CT, Nov. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59175404?at_medium=RSS&at_campaign=KARANGA">Ethiopia urges ex-soldiers to join fight against Tigray rebels</a> BBC: The army calls on former military personnel to join it, as rebel forces advance on the capital. 
  <p class="updated_time"> 12:47 PM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/05/world/middleeast/erdogan-turkey-cop26.html">As Turkey Chafes at Erdogan, He Gets Spikier Abroad</a> NYT: President Recep Tayyip Erdogan canceled an appearance at the global climate talks over a perceived slight, part of a pattern of creating international dramas to bolster his domestic standing. 
  <p class="updated_time"> 12:42 PM CT, Nov. 05 </p> 
@@ -101,8 +105,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/how-dna-tests-helped-a-jewish-man-trace-a-holocaust-mystery-to-israel-11636119082">How DNA Tests Helped a Jewish Man Trace a Holocaust Mystery to Israel</a> WSJ: Born in Nazi-occupied Poland, Bolek Krutz settled in New Jersey in 1969 and became an X-ray technician. For decades, he wondered who he really was. 
  <p class="updated_time"> 04:17 AM CT, Nov. 05 </p> 
  <a href="https://www.wsj.com/articles/german-navy-eyes-on-china-adds-to-europes-pacific-presence-11636113718">German Navy, Eyes on China, Adds to Europe's Pacific Presence</a> WSJ: The frigate Bayern docked in Tokyo on Friday and will join the U.S., Japanese and other allied navies to build interoperability skills this month. 
- <p class="updated_time"> 04:05 AM CT, Nov. 05 </p> 
- <a href="https://www.nytimes.com/2021/11/04/world/americas/biden-aide-covid-scotland.html">A White House aide who traveled abroad with Biden tests positive.</a> NYT: President Biden was not in close contact with the aide, who remains quarantined in Scotland and has not shown symptoms of Covid-19. 
  <p class="updated_time"> 04:00 AM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/05/world/europe/germany-black-woman-bundestag.html">First Black Woman in Bundestag Wants to Change Image of ‘Germanness’</a> NYT: After a deadly racist attack, Awet Tesfaiesus considered leaving Germany. Instead, she ran for Parliament with a “courage to change” slogan and won. 
  <p class="updated_time"> 03:56 AM CT, Nov. 05 </p> 
