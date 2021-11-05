@@ -7,12 +7,14 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:26 AM CT, Nov. 05 </p> 
+ <a href="https://www.nytimes.com/2021/11/05/world/europe/cop-protests.html">At COP26, Youth Want Action, Accountability as Protesters Rally</a> NYT: For many, the climate conference has inspired mixed emotions: concern that their voices were not really being listened to, but also hope that their presence would help drive change. 
+ <p class="updated_time"> 07:20 AM CT, Nov. 05 </p> 
+ <a href="https://www.nytimes.com/2021/11/05/world/asia/singapore-capital-punishment-drugs.html">Rights Groups Urge Singapore Not to Execute Man With Mental Disability</a> NYT: The man, a Malaysian with an I.Q. of 69, was caught trying to smuggle an ounce and a half of heroin in 2009. Some are calling his planned hanging a human rights violation. 
  <p class="updated_time"> 07:14 AM CT, Nov. 05 </p> 
  <a href="https://www.bbc.co.uk/news/health-59178291?at_medium=RSS&at_campaign=KARANGA">Covid: Pfizer says antiviral pill 89% effective in high risk cases</a> BBC: The company stopped clinical trials early because initial results for the drug were so positive. 
  <p class="updated_time"> 07:05 AM CT, Nov. 05 </p> 
  <a href="https://www.bbc.co.uk/news/technology-59176826?at_medium=RSS&at_campaign=KARANGA">US offers $10m bounty for Colonial Pipeline hackers</a> BBC: The DarkSide ransomware attack led to a major US fuel pipeline being taken offline. 
- <p class="updated_time"> 06:58 AM CT, Nov. 05 </p> 
- <a href="https://www.nytimes.com/2021/11/05/world/europe/cop-protests.html">At COP26, Youth Want Action, Accountability as Protesters Rally</a> NYT: For many, the climate conference has inspired mixed emotions: concern that their voices were not really being listened to, but also hope that their presence would help drive change. 
  <p class="updated_time"> 05:37 AM CT, Nov. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59175396?at_medium=RSS&at_campaign=KARANGA">US Navy sacks commanding officers of crashed submarine</a> BBC: The officers are fired after the USS Connecticut struck an undersea mountain in the South China Sea. 
  <p class="updated_time"> 05:26 AM CT, Nov. 05 </p> 
@@ -44,7 +46,7 @@ permalink: /projects/news/
  <p class="updated_time"> 02:42 AM CT, Nov. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-59157836?at_medium=RSS&at_campaign=KARANGA">COP26: Emissions of rich put climate goals at risk - study</a> BBC: The carbon footprint of the wealthiest will grow but that of the poorest will stay small, a study says. 
  <p class="updated_time"> 02:30 AM CT, Nov. 05 </p> 
- <a href="https://www.wsj.com/articles/greta-thunberg-takes-on-role-as-cop26-critic-11636111801">Greta Thunberg Takes On Role as Harsh COP26 Critic</a> WSJ: The Swedish activist is headlining what’s expected to be a rowdy, hourslong march and rally in Glasgow after calling the summit “a two week celebration of business as usual and blah blah blah.” 
+ <a href="https://www.wsj.com/articles/greta-thunberg-takes-on-role-as-cop26-critic-11636111801">Greta Thunberg Takes On Role as Harsh COP26 Critic</a> WSJ: The Swedish activist is headlining what is expected to be a rowdy, hourslong march and rally in Glasgow after calling the summit ‘a two week celebration of business as usual and blah blah blah.’ 
  <p class="updated_time"> 01:52 AM CT, Nov. 05 </p> 
  <a href="https://www.wsj.com/articles/japan-lifts-covid-19-ban-on-business-travelers-foreign-workers-11636109518">Japan Lifts Covid-19 Ban on Business Travelers, Foreign Workers</a> WSJ: As neighbor China sticks to its zero-Covid policy, Japan aligns itself closer with U.S. and Europe. 
  <p class="updated_time"> 01:24 AM CT, Nov. 05 </p> 
@@ -127,8 +129,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/science-environment-56901261?at_medium=RSS&at_campaign=KARANGA">COP26: What is the Glasgow climate conference and why is it important?</a> BBC: A crucial climate change summit is being held in the UK - this is why it's important. 
  <p class="updated_time"> 04:53 AM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/australia/australia-scott-morrison-cop26.html">What Did Scott Morrison, Australia's Leader, Accomplish at COP26?</a> NYT: Prime Minister Scott Morrison did not announce any firm plans to move away from the country’s deep investment in fossil fuel production. 
- <p class="updated_time"> 04:45 AM CT, Nov. 04 </p> 
- <a href="https://www.nytimes.com/2021/11/03/world/europe/global-energy-alliance-fund-cop26.html">New $10.5 Billion Fund Aims to Spur Green Energy in Poor Countries</a> NYT: Its backers say it will jump-start investments in clean energy that would not otherwise draw private investors. 
  <p class="updated_time"> 04:09 AM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/latin-america-pressed-on-vaccine-priorities.html">With scant vaccine supplies, the W.H.O. presses Latin America and the Caribbean to hold off on boosters.</a> NYT: Sufficient shipments of doses have been slow to reach many countries in the region and economic inequalities are complicating matters. 
  <p class="updated_time"> 03:35 AM CT, Nov. 04 </p> 
