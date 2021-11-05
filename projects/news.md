@@ -192,6 +192,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:54 PM CT, Nov. 04 </p> 
+ <a href="https://www.nytimes.com/article/vaccine-mandate-biden-osha.html">OSHA's Vaccine Mandate: Your Questions Answered</a> NYT: We’re answering your questions about the new OSHA rules for employers with 100 or more workers. This F.A.Q. was last updated at 7 p.m. 
  <p class="updated_time"> 06:29 PM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/us/politics/house-democrats-biden.html">House Democrats Hunt for Votes to Pass Biden’s Domestic Agenda</a> NYT: Speaker Nancy Pelosi wanted a vote on Thursday night on a $1.85 trillion social policy and climate bill, but moderates were pushing back. 
  <p class="updated_time"> 06:29 PM CT, Nov. 04 </p> 
@@ -200,8 +202,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/04/us/politics/atlanta-mayor-runoff-felicia-moore.html">Felicia Moore, Andre Dickens Will Compete for Atlanta Mayor; Kasim Reed Falls Short</a> NYT: Two candidates, Felicia Moore and Andre Dickens, will compete in a runoff on Nov. 30. 
  <p class="updated_time"> 06:11 PM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/us/politics/democrats-turnout-virginia.html">The Democratic Turnout Myth Unravels</a> NYT: It was long thought that surges in voting would help Democrats. So how does the party explain Glenn Youngkin’s victory? 
- <p class="updated_time"> 06:00 PM CT, Nov. 04 </p> 
- <a href="https://www.nytimes.com/article/vaccine-mandate-biden-osha.html">OSHA's Vaccine Mandate: Your Questions Answered</a> NYT: We’re answering your questions about the new OSHA rules for employers with 100 or more workers. This F.A.Q. was last updated at 7 p.m. 
  <p class="updated_time"> 05:50 PM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/nyregion/stephen-sweeney-durr-nj-election.html">Republican Truck Driver Beats Sweeney in N.J. Election</a> NYT: Mr. Sweeney, the second most powerful lawmaker in New Jersey and a Democrat, lost his bid for re-election to Edward Durr, a driver for a furniture chain. 
  <p class="updated_time"> 05:43 PM CT, Nov. 04 </p> 
