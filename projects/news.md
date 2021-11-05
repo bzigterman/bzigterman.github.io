@@ -7,6 +7,12 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:41 AM CT, Nov. 05 </p> 
+ <a href="https://www.nytimes.com/2021/11/04/science/astronomy-decadal-survey-telescope.html">A New 10-Year Plan for the Cosmos</a> NYT: On astronomers’ wish list for the next decade: two giant telescopes and a space telescope to search for life and habitable worlds beyond Earth. 
+ <p class="updated_time"> 09:38 AM CT, Nov. 05 </p> 
+ <a href="https://www.nytimes.com/2021/11/05/world/europe/france-macron-alexandre-benalla-guilty.html">Ex-Macron Aide Convicted of Assault and Posing as a Police Officer</a> NYT: The aide, Alexandre Benalla, who was fired in 2018 after videos emerged of him beating a man at a labor protest, was sentenced to serve a year of house arrest with electronic monitoring. 
+ <p class="updated_time"> 09:36 AM CT, Nov. 05 </p> 
+ <a href="https://www.nytimes.com/2021/11/05/world/states-sue-biden-vaccine-mandate.html">11 States Sue Over Biden's Vaccine Mandate for Big Companies</a> NYT: The lawsuit was filed a day after the announcement of a Jan. 4 deadline for the companies to begin their mandates or start weekly testing. 
  <p class="updated_time"> 09:32 AM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/05/world/asia/china-coronavirus-ruili.html">Near-Daily Covid Tests, Sleeping in Classrooms: Life in Covid-Zero China</a> NYT: Residents in Ruili, in southwestern China, have been locked down four times in the past year as part of the country’s quest to eliminate the virus. 
  <p class="updated_time"> 09:29 AM CT, Nov. 05 </p> 
@@ -15,8 +21,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/05/world/europe/vienna-vaccinate-young-children.html">Vienna Will Start to Vaccinate Young Children</a> NYT: Pediatricians in the Austrian capital will authorize the off-label use of the BioNTech-Pfizer vaccine for children starting next Friday. 
  <p class="updated_time"> 09:28 AM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/europe/cop26-greenwashing-protest.html">Protesters March Against ‘Greenwashing' at COP26</a> NYT: As the focus of the Glasgow summit turns to funding, protesters call for greater accountability for companies’ climate promises. 
- <p class="updated_time"> 09:14 AM CT, Nov. 05 </p> 
- <a href="https://www.nytimes.com/2021/11/05/world/states-sue-biden-vaccine-mandate.html">11 States Sue Over Biden's Vaccine Mandate for Big Companies</a> NYT: The lawsuit was filed a day after the announcement of a Jan. 4 deadline for the companies to begin their mandates or start weekly testing. 
  <p class="updated_time"> 08:59 AM CT, Nov. 05 </p> 
  <a href="https://www.bbc.co.uk/news/business-59166014?at_medium=RSS&at_campaign=KARANGA">US sees sharp jobs growth and higher wages</a> BBC: Employers took on 531,000 extra workers in October in a sign the economy is picking up. 
  <p class="updated_time"> 08:33 AM CT, Nov. 05 </p> 
@@ -35,6 +39,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/technology-59176826?at_medium=RSS&at_campaign=KARANGA">US offers $10m bounty for Colonial Pipeline hackers</a> BBC: The DarkSide ransomware attack led to a major US fuel pipeline being taken offline. 
  <p class="updated_time"> 05:37 AM CT, Nov. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59175396?at_medium=RSS&at_campaign=KARANGA">US Navy sacks commanding officers of crashed submarine</a> BBC: The officers are fired after the USS Connecticut struck an undersea mountain in the South China Sea. 
+ <p class="updated_time"> 05:24 AM CT, Nov. 05 </p> 
+ <a href="https://www.wsj.com/articles/covid-19-certificates-look-likely-to-linger-in-europe-11636122278">Covid-19 Certificates Look Likely to Linger in Europe</a> WSJ: The health passes that restrict access to restaurants, gyms and other venues were supposed to be transitory, but with the specter of a winter resurgence of Covid-19 infections, they look likely to remain into next year. 
  <p class="updated_time"> 05:21 AM CT, Nov. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59175316?at_medium=RSS&at_campaign=KARANGA">Cleo Smith parents 'so thankful' after four-year-old's rescue</a> BBC: Cleo, 4, was found in a locked home 18 days after disappearing, in a case that gripped Australia. 
  <p class="updated_time"> 05:09 AM CT, Nov. 05 </p> 
@@ -47,6 +53,12 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/04/world/europe/brexit-britain-france-johnson-macron.html">With Fish, Trucks and Submarines, U.K. and France Bicker Over Brexit</a> NYT: A recent dispute over fishing rights illuminates a broader and more fundamental disagreement over Britain’s decision to leave the European Union. 
  <p class="updated_time"> 04:44 AM CT, Nov. 05 </p> 
  <a href="https://www.wsj.com/articles/greta-thunberg-takes-on-role-as-cop26-critic-11636111801">Thunberg Leads Climate Protest, Criticizing COP26 Talks</a> WSJ: The Swedish activist is headlining what is expected to be a rowdy, hourslong march and rally in Glasgow after calling the summit ‘a two week celebration of business as usual and blah blah blah.’ 
+ <p class="updated_time"> 04:36 AM CT, Nov. 05 </p> 
+ <a href="https://www.wsj.com/articles/global-food-prices-surge-as-inflation-spreads-11636119367">Global Food Prices Surge as Inflation Spreads</a> WSJ: Bad harvests and supply bottlenecks are leaving poor families hungry in the developing world, from Peru to the Philippines. 
+ <p class="updated_time"> 04:31 AM CT, Nov. 05 </p> 
+ <a href="https://www.wsj.com/articles/how-dna-tests-helped-a-jewish-man-trace-a-holocaust-mystery-to-israel-11636119082">How DNA Tests Helped a Jewish Man Trace a Holocaust Mystery to Israel</a> WSJ: Born in Nazi-occupied Poland, Bolek Krutz settled in New Jersey in 1969 and became an X-ray technician. For decades, he wondered who he really was. 
+ <p class="updated_time"> 04:29 AM CT, Nov. 05 </p> 
+ <a href="https://www.wsj.com/articles/getting-vaccines-to-the-world-next-time-11636118973">Getting Vaccines to the World Next Time</a> WSJ: We can now develop vaccines at record speed in response to a pandemic, but we need new ways to distribute them to everyone on the planet 
  <p class="updated_time"> 04:19 AM CT, Nov. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59161935?at_medium=RSS&at_campaign=KARANGA">Africa's week in pictures: 29 October - 4 November 2021</a> BBC: A selection of the best photos from the African continent and beyond. 
  <p class="updated_time"> 04:17 AM CT, Nov. 05 </p> 
@@ -69,8 +81,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59173259?at_medium=RSS&at_campaign=KARANGA">Japan death row inmates sue over same-day executions</a> BBC: Prisoners are only notified hours before they are to be executed by hanging. 
  <p class="updated_time"> 12:45 AM CT, Nov. 05 </p> 
  <a href="https://www.bbc.co.uk/news/business-59172665?at_medium=RSS&at_campaign=KARANGA">Inflation: Global food prices hit fresh 10-year high, UN says</a> BBC: Reduced harvests and supply chain disruptions are helping to push up the cost of food. 
- <p class="updated_time"> 12:30 AM CT, Nov. 05 </p> 
- <a href="https://www.wsj.com/articles/biden-europe-steel-aluminum-tariffs-11636063074">U.S.-EU Steel Tariffs Deal Is Onerous for Smaller Importers</a> WSJ: Complex quota system for metals will be tough to navigate, trade lawyers say, but supporters say it will help ease a supply crunch while preventing a flood of cheap imports. 
  <p class="updated_time"> 09:08 PM CT, Nov. 04 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59133056?at_medium=RSS&at_campaign=KARANGA">Wishcycling: The dos and don'ts of being good at recycling</a> BBC: Ever paused over the recycling bin, wondering whether to add a pizza box? You could be a wishcycler. 
  <p class="updated_time"> 08:56 PM CT, Nov. 04 </p> 
@@ -121,8 +131,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/04/world/middleeast/israel-budget.html">Israel Passes State Budget</a> NYT: The vote raised hopes that the country might be headed for a period of more political stability after the chaos of four elections in quick succession. 
  <p class="updated_time"> 10:47 AM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/world/europe/germany-covid-surge-daily-case-record.html">Facing a New Surge, Germany Sets a Daily Virus Case Record</a> NYT: The country registered 33,949 new coronavirus cases over a 24-hour period on Wednesday, surpassing a high set in December of last year. 
- <p class="updated_time"> 10:46 AM CT, Nov. 04 </p> 
- <a href="https://www.nytimes.com/2021/11/04/science/astronomy-decadal-survey-telescope.html">A New 10-Year Plan for the Cosmos</a> NYT: On astronomers’ wish list for the next decade: two giant telescopes and a space telescope to search for life and habitable worlds beyond Earth. 
  <p class="updated_time"> 08:54 AM CT, Nov. 04 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59159018?at_medium=RSS&at_campaign=KARANGA">COP26: More than 40 countries pledge to quit coal</a> BBC: Countries pledge to shift away from coal and end fossil fuel financing, but key players are missing. 
  <p class="updated_time"> 08:45 AM CT, Nov. 04 </p> 
@@ -131,12 +139,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/04/world/australia/charge-cleo-smith.html">Cleo Smith Abduction: Australian Man Is Charged After 18-Day Search </a> NYT: The legal action came as the Australian authorities continued to address questions about how the police had been able to find Cleo Smith, who vanished from a remote campsite. 
  <p class="updated_time"> 08:19 AM CT, Nov. 04 </p> 
  <a href="https://www.bbc.co.uk/news/59147659?at_medium=RSS&at_campaign=KARANGA">Climate change: Facebook fails to flag denial, study finds</a> BBC: Researchers tracked thousands of posts denying climate change - and only 8% were marked as misinformation. 
- <p class="updated_time"> 07:13 AM CT, Nov. 04 </p> 
- <a href="https://www.wsj.com/articles/covid-19-coronavirus-coverup-tanzania-11636042309">Inside the World's Most Blatant Covid-19 Coverup: Secret Burials, a Dead President</a> WSJ: Tanzania denied the existence of the pandemic for months, even as thousands likely died. The country is a clue to its hidden global toll; “This is one of the government’s coronavirus cemeteries, but we’re not allowed to call it that.” 
  <p class="updated_time"> 05:26 AM CT, Nov. 04 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-56901261?at_medium=RSS&at_campaign=KARANGA">COP26: What is the Glasgow climate conference and why is it important?</a> BBC: A crucial climate change summit is being held in the UK - this is why it's important. 
- <p class="updated_time"> 04:53 AM CT, Nov. 04 </p> 
- <a href="https://www.nytimes.com/2021/11/03/world/australia/australia-scott-morrison-cop26.html">What Did Scott Morrison, Australia's Leader, Accomplish at COP26?</a> NYT: Prime Minister Scott Morrison did not announce any firm plans to move away from the country’s deep investment in fossil fuel production. 
  <p class="updated_time"> 04:09 AM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/latin-america-pressed-on-vaccine-priorities.html">With scant vaccine supplies, the W.H.O. presses Latin America and the Caribbean to hold off on boosters.</a> NYT: Sufficient shipments of doses have been slow to reach many countries in the region and economic inequalities are complicating matters. 
  <p class="updated_time"> 03:35 AM CT, Nov. 04 </p> 
