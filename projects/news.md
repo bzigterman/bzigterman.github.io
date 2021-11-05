@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:26 AM CT, Nov. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-59139572?at_medium=RSS&at_campaign=KARANGA">Israeli bookstores pull Sally Rooney's books in boycott row</a> BBC: It follows a backlash over the writer's refusal to let an Israeli firm publish her book in Hebrew. 
+ <p class="updated_time"> 05:21 AM CT, Nov. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-59175316?at_medium=RSS&at_campaign=KARANGA">Cleo Smith parents 'so thankful' after four-year-old's rescue</a> BBC: Cleo, 4, was found in a locked home 18 days after disappearing, in a case that gripped Australia. 
  <p class="updated_time"> 05:09 AM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/uk-fossil-fuel-coal-cop26.html">18 Countries to Phase Out Coal, According to Leaked Document</a> NYT: The countries, banks and other organizations that make up a new coalition will commit to ending all investment in new coal power generation domestically and internationally. 
  <p class="updated_time"> 05:07 AM CT, Nov. 05 </p> 
@@ -45,8 +49,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/science-environment-59133056?at_medium=RSS&at_campaign=KARANGA">Wishcycling: The dos and don'ts of being good at recycling</a> BBC: Ever paused over the recycling bin, wondering whether to add a pizza box? You could be a wishcycler. 
  <p class="updated_time"> 08:56 PM CT, Nov. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-58895748?at_medium=RSS&at_campaign=KARANGA">A journey from slum to Sydney, upended by the pandemic</a> BBC: Tushar Joshi's dreams of studying in Australia on a scholarship have been upended by Covid-19. 
- <p class="updated_time"> 08:25 PM CT, Nov. 04 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-59163449?at_medium=RSS&at_campaign=KARANGA">How pop star Zara Larsson made a seven-figure sum on Roblox</a> BBC: The Lush Life singer has sold thousands of items of virtual merchandise inside the game. 
  <p class="updated_time"> 08:18 PM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/arts/television/movies-tv-australia-new-streaming-netflix-amazon-stan-november.html">The Best Movies and TV Shows New to Netflix, Amazon and Stan in Australia in November</a> NYT: Our picks for November, including ‘tick, tick … BOOM!’, ‘The Great’ Season 2, and ‘Passing’ 
  <p class="updated_time"> 08:13 PM CT, Nov. 04 </p> 
@@ -63,8 +65,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/04/world/europe/covid-surge-europe-who.html">W.H.O. Official: 'Europe Is Back at Epicenter of the Pandemic'</a> NYT: The World Health Organization said Europe was responsible for nearly three-fifths of the world’s recent coronavirus cases, and that deaths in the region were surging. 
  <p class="updated_time"> 06:20 PM CT, Nov. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59168910?at_medium=RSS&at_campaign=KARANGA">Nostalgia-soaked photos capture legendary LA roller rink</a> BBC: Opened in 1979, Flipper's Roller Boogie Palace was a place for children and celebrities alike to skate. 
- <p class="updated_time"> 06:13 PM CT, Nov. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-59171903?at_medium=RSS&at_campaign=KARANGA">Mexico: Shooting near Cancun leaves two dead, prosecutors say</a> BBC: A gang shootout near the Mexican resort has left two suspected drug dealers dead, prosecutors say. 
  <p class="updated_time"> 05:57 PM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/world/europe/italy-trieste-covid-protests.html">Trieste, Center of Italy’s Anti-Vaccine Protests, Is Now a Covid Hot Spot</a> NYT: After leading the resistance to the government’s new health pass, the northeastern port city of Trieste is home to a worrying spike in cases. 
  <p class="updated_time"> 05:54 PM CT, Nov. 04 </p> 
@@ -125,6 +125,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/science-environment-56901261?at_medium=RSS&at_campaign=KARANGA">COP26: What is the Glasgow climate conference and why is it important?</a> BBC: A crucial climate change summit is being held in the UK - this is why it's important. 
  <p class="updated_time"> 04:53 AM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/australia/australia-scott-morrison-cop26.html">What Did Scott Morrison, Australia's Leader, Accomplish at COP26?</a> NYT: Prime Minister Scott Morrison did not announce any firm plans to move away from the country’s deep investment in fossil fuel production. 
+ <p class="updated_time"> 04:45 AM CT, Nov. 04 </p> 
+ <a href="https://www.nytimes.com/2021/11/03/world/europe/global-energy-alliance-fund-cop26.html">New $10.5 Billion Fund Aims to Spur Green Energy in Poor Countries</a> NYT: Its backers say it will jump-start investments in clean energy that would not otherwise draw private investors. 
  <p class="updated_time"> 04:14 AM CT, Nov. 04 </p> 
  <a href="https://www.wsj.com/articles/merck-ridgeback-covid-19-pill-cleared-for-use-in-u-k-11636023388">Merck Covid-19 Pill Cleared for Use in U.K., Its First Authorization</a> WSJ: Health regulators approved molnupiravir, which can be taken at home and promises to reduce the risk of hospitalization. The U.S. is expected to follow in coming months. 
  <p class="updated_time"> 04:09 AM CT, Nov. 04 </p> 
@@ -179,8 +181,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/03/world/as-deadlines-loom-the-us-military-grants-few-vaccine-exemptions.html">As deadlines loom, the U.S. military grants few vaccine exemptions.</a> NYT: NA 
  <p class="updated_time"> 06:08 AM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/duterte-vows-to-punish-philippine-officials-for-slow-vaccine-delivery.html">Duterte vows to punish Philippine officials for slow vaccine delivery.</a> NYT: NA 
- <p class="updated_time"> 04:00 AM CT, Nov. 03 </p> 
- <a href="https://www.nytimes.com/2021/11/03/world/asia/squid-game-korea-bts.html">From BTS to ‘Squid Game’: How South Korea Became a Cultural Juggernaut</a> NYT: The country was once largely known for cars and smartphones, but a global audience has become mesmerized by its entertainment, and creators say success didn’t happen overnight. 
 
 
 </details>
@@ -188,6 +188,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:19 AM CT, Nov. 05 </p> 
+ <a href="https://www.politico.com/newsletters/playbook/2021/11/05/lets-try-this-again-494993">POLITICO Playbook: Let’s try this again</a> Politico: And there’s a second grand jury in the Trump Organization case in Manhattan. 
  <p class="updated_time"> 03:30 AM CT, Nov. 05 </p> 
  <a href="https://www.politico.com/news/2021/11/05/pelosi-dems-final-push-519607">Pelosi revs House Dem engines after season in the ditch</a> Politico: "There’s a point where you've got to stop talking," Rep. Peter Welch (D-Vt.) said of the party's long-negotiated social spending bill. 
  <p class="updated_time"> 03:30 AM CT, Nov. 05 </p> 
