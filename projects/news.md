@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:44 AM CT, Nov. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59160525?at_medium=RSS&at_campaign=KARANGA">Covid: WHO warns Europe once again at epicentre of pandemic</a> BBC: The WHO warns of 500,000 more deaths in Europe by February as cases soar across the continent. 
  <p class="updated_time"> 01:24 AM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/05/world/australia/laughs-no-more-australians-are-reassessing-a-beloved-cartoonist.html">Laughs No More? Australians Are Reassessing a Beloved Cartoonist.</a> NYT: I used to think Michael Leunig’s drawings embodied the soul of our nation. Now, I’m not so sure. 
  <p class="updated_time"> 01:15 AM CT, Nov. 05 </p> 
@@ -59,8 +61,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/04/world/canada/canada-military-sexual-assault.html">Canada Turns Over Military Sexual Assault Cases to Civilian Courts</a> NYT: With the military’s leadership in crisis, a new defense minister adopted a recommendation to remove prosecutorial authority for sexual misconduct cases from the armed forces. 
  <p class="updated_time"> 05:15 PM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/world/europe/brexit-britain-france-johnson-macron.html">Bitterness Over Brexit Lies Behind Fraying France-U.K. Relations</a> NYT: A recent dispute over fishing rights illuminates a broader and more fundamental disagreement over Britain’s decision to leave the European Union. 
- <p class="updated_time"> 05:14 PM CT, Nov. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59160525?at_medium=RSS&at_campaign=KARANGA">Covid: WHO warns Europe once again at epicentre of pandemic</a> BBC: The WHO warns of 500,000 more deaths in Europe by February as cases soar across the continent. 
  <p class="updated_time"> 04:31 PM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/africa/south-africa-coal-renewables.html">South Africa to Get $8.5 billion to Shift From Coal to Renewables</a> NYT: Developing nations have long said they need aid from wealthy countries to shift to renewable energy. South Africa may show how that would work in practice. 
  <p class="updated_time"> 04:31 PM CT, Nov. 04 </p> 
