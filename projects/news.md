@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:30 PM CT, Nov. 05 </p> 
+ <a href="https://www.nytimes.com/2021/11/05/arts/music/marilia-mendonca-dead.html">Marília Mendonça, Brazilian Pop Singer, Dies in Plane Crash at 26</a> NYT: Ms. Mendonça, who was a social media sensation with millions of followers, was iconic in a type of Brazilian country music called sertanejo. 
  <p class="updated_time"> 06:06 PM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/05/climate/cop26-john-kerry.html">John Kerry Lauds Progress at COP26 but Warns, ‘Job Not Done.’</a> NYT: Mr. Kerry, President Biden’s climate envoy, acknowledged that many of the promises being put forward in Glasgow were only that — promises. 
  <p class="updated_time"> 05:46 PM CT, Nov. 05 </p> 
@@ -195,8 +197,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/03/world/asia/heather-mack-arrested.html">Back in Chicago, Woman Is Charged in Killing of Mother on Indonesian Vacation</a> NYT: Heather L. Mack, 26, had already served more than six years in prison in Indonesia for the 2014 killing of her mother, whose body was found in a suitcase at a Bali resort. 
  <p class="updated_time"> 06:00 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/weapons-ukraine-russia.html">Weapons Tracing Study Implicates Russia in Ukraine Conflict</a> NYT: One of the most comprehensive studies to date of weaponry in the war in Ukraine shows a panoply of Russian-supplied arms that has helped fuel the war. 
- <p class="updated_time"> 05:28 PM CT, Nov. 03 </p> 
- <a href="https://www.nytimes.com/2021/11/03/books/booker-prize-winner-damon-galgut-the-promise.html">Damon Galgut Wins Booker Prize for ‘The Promise’</a> NYT: The novelist, shortlisted for two of his previous books, received one of the world’s most prestigious literary awards for his cutting depiction of a white family in post-apartheid South Africa. 
  <p class="updated_time"> 05:20 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/us/politics/drone-strike-kabul-child.html">Video Showed Child in Area Minutes Before Kabul Drone Strike</a> NYT: An investigation of the Aug. 29 airstrike, which mistakenly killed 10 civilians, including seven children, did not recommend any disciplinary action. 
  <p class="updated_time"> 04:49 PM CT, Nov. 03 </p> 
@@ -208,10 +208,12 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:31 PM CT, Nov. 05 </p> 
+ <a href="https://www.nytimes.com/2021/11/05/upshot/biden-budget-scorekeepers-cbo.html">2,000 Pages and Pronto! Budget Scorekeepers Are Under Pressure</a> NYT: Lawmakers want detailed estimates on the effects of the big Democratic bill, but that can take longer than they think, slowing the process. 
+ <p class="updated_time"> 06:27 PM CT, Nov. 05 </p> 
+ <a href="https://www.nytimes.com/2021/11/05/us/politics/guantanamo-torture-foia-cia.html">Some Sept. 11 Trial Secrets May Not Be Secrets Anymore</a> NYT: Prosecutors agreed to compare hundreds if not thousands of pages of classified documents in the case against 9/11 defendants with material released under the Freedom of Information Act. 
  <p class="updated_time"> 06:20 PM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/05/us/politics/state-dept-missing-gifts.html">State Dept. Report on Missing Gifts Finds Poor Oversight</a> NYT: The gift vault was “in a state of disarray,” and tens of thousands of dollars of items remain unaccounted for, including a $5,800 bottle of whiskey. 
- <p class="updated_time"> 06:09 PM CT, Nov. 05 </p> 
- <a href="https://www.nytimes.com/2021/11/05/us/politics/guantanamo-torture-foia-cia.html">Some Sept. 11 Trial Secrets May Not Be Secrets Anymore</a> NYT: Prosecutors agreed to compare hundreds if not thousands of pages of classified documents in the case against 9/11 defendants with material released under the Freedom of Information Act. 
  <p class="updated_time"> 05:20 PM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/article/vaccine-mandate-biden-osha.html">OSHA's Vaccine Mandate: Your Questions Answered</a> NYT: We’re answering your questions about the new OSHA rules for employers with 100 or more workers. This F.A.Q. was last updated on Nov. 5 at 6:20 p.m. 
  <p class="updated_time"> 04:49 PM CT, Nov. 05 </p> 
@@ -276,8 +278,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/04/us/politics/democrats-turnout-virginia.html">How Virginia’s Governor Race Unraveled the Democratic Turnout Myth</a> NYT: It was long thought that surges in voting would help Democrats. So how does the party explain Glenn Youngkin’s victory? 
  <p class="updated_time"> 05:50 PM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/nyregion/stephen-sweeney-durr-nj-election.html">Republican Truck Driver Beats Sweeney in N.J. Election</a> NYT: Mr. Sweeney, the second most powerful lawmaker in New Jersey and a Democrat, lost his bid for re-election to Edward Durr, a driver for a furniture chain. 
- <p class="updated_time"> 05:43 PM CT, Nov. 04 </p> 
- <a href="https://www.nytimes.com/2021/11/04/us/politics/igor-danchenko-arrested-steele-dossier.html">Authorities Arrest Analyst Who Contributed to Steele Dossier</a> NYT: Igor Danchenko, a Russia analyst who worked with Christopher Steele, the author of a dossier of rumors and unproven assertions about Donald J. Trump, was indicted as part of the Durham investigation. 
  <p class="updated_time"> 05:33 PM CT, Nov. 04 </p> 
  <a href="https://www.npr.org/2021/11/04/1052564177/the-biden-administration-is-suing-texas-over-its-new-voting-law">The Biden administration is suing Texas over its new voting law</a> NPR: The U.S. Department of Justice claims the Texas law contains several provisions that "will disenfranchise eligible Texas citizens who seek to exercise their right to vote." 
  <p class="updated_time"> 04:35 PM CT, Nov. 04 </p> 
