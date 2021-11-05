@@ -7,10 +7,10 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:56 AM CT, Nov. 05 </p> 
+ <a href="https://www.nytimes.com/2021/11/05/world/europe/russia-nuclear-power-climate-change.html">A Nuclear-Powered Shower? Russia Tests a Climate Innovation.</a> NYT: A remote Siberian town now has its own miniature nuclear plant as a Russian state company tests a new model for residential heating. Some see it as a tool to minimize climate change. 
  <p class="updated_time"> 02:42 AM CT, Nov. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-59157836?at_medium=RSS&at_campaign=KARANGA">COP26: Emissions of rich put climate goals at risk - study</a> BBC: The carbon footprint of the wealthiest will grow but that of the poorest will stay small, a study says. 
- <p class="updated_time"> 02:00 AM CT, Nov. 05 </p> 
- <a href="https://www.nytimes.com/2021/11/05/world/europe/russia-nuclear-power-climate-change.html">A Nuclear-Powered Shower? Russia Tests a Climate Innovation.</a> NYT: A remote Siberian town now has its own miniature nuclear plant as a Russian state company tests a new model for residential heating. Some see it as a tool to minimize climate change. 
  <p class="updated_time"> 01:24 AM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/05/world/australia/laughs-no-more-australians-are-reassessing-a-beloved-cartoonist.html">Laughs No More? Australians Are Reassessing a Beloved Cartoonist.</a> NYT: I used to think Michael Leunig’s drawings embodied the soul of our nation. Now, I’m not so sure. 
  <p class="updated_time"> 01:15 AM CT, Nov. 05 </p> 
@@ -20,7 +20,7 @@ permalink: /projects/news/
  <p class="updated_time"> 12:40 AM CT, Nov. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59172888?at_medium=RSS&at_campaign=KARANGA">Air Quality Index: Delhi air turns toxic after Diwali fireworks</a> BBC: India's capital woke up to a think blanket of smog as air quality dipped to hazardous levels. 
  <p class="updated_time"> 09:35 PM CT, Nov. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59172655?at_medium=RSS&at_campaign=KARANGA">Niger: At least 69 killed in gun attack</a> BBC: At least 69 people were killed when they were ambushed by suspected Islamist militants. 
+ <a href="https://www.bbc.co.uk/news/world-africa-59172655?at_medium=RSS&at_campaign=KARANGA">Niger: At least 69 killed in gun attack</a> BBC: At least 69 people are killed when they were ambushed by suspected Islamist militants. 
  <p class="updated_time"> 09:08 PM CT, Nov. 04 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59133056?at_medium=RSS&at_campaign=KARANGA">Wishcycling: The dos and don'ts of being good at recycling</a> BBC: Ever paused over the recycling bin, wondering whether to add a pizza box? You could be a wishcycler. 
  <p class="updated_time"> 08:56 PM CT, Nov. 04 </p> 
