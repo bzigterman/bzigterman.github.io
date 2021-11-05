@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:35 PM CT, Nov. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59172655?at_medium=RSS&at_campaign=KARANGA">Niger: At least 69 killed in gun attack</a> BBC: At least 69 people were killed when they were ambushed by suspected Islamist militants. 
  <p class="updated_time"> 09:08 PM CT, Nov. 04 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59133056?at_medium=RSS&at_campaign=KARANGA">Wishcycling: The dos and don'ts of being good at recycling</a> BBC: Ever paused over the recycling bin, wondering whether to add a pizza box? You could be a wishcycler. 
  <p class="updated_time"> 08:56 PM CT, Nov. 04 </p> 
@@ -87,8 +89,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/04/science/nasa-space-tacos.html">NASA’s Latest Breakthrough: ‘Best Space Tacos Yet’</a> NYT: For the first time, astronauts on the International Space Station cultivated chiles, adding some zing to their tacos. 
  <p class="updated_time"> 11:59 AM CT, Nov. 04 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59167788?at_medium=RSS&at_campaign=KARANGA">My Day at COP26: 'It's my job to keep the summit fed - sustainably'</a> BBC: Lorna Wilson - in charge of catering at COP26 in Glasgow - describes the unique challenges of preparing for the event. 
- <p class="updated_time"> 11:36 AM CT, Nov. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59167345?at_medium=RSS&at_campaign=KARANGA">LA 'jetpack man' was probably a balloon</a> BBC: Investigators think a figure seen flying over Los Angeles was actually a life-size inflatable. 
  <p class="updated_time"> 11:27 AM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/climate/public-health-climate-change.html">Effort to Reframe Climate Change as a Health Crisis Gains Steam</a> NYT: Research has increasingly shown that warming is taking a deadly toll on human health. At the global climate summit in Glasgow, the issue has gained new prominence. 
  <p class="updated_time"> 11:13 AM CT, Nov. 04 </p> 
@@ -219,7 +219,7 @@ permalink: /projects/news/
  <p class="updated_time"> 02:26 PM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/us/politics/robert-santos-census-bureau.html">Robert Santos Confirmed as First Latino to Lead Census Bureau</a> NYT: The confirmation on Thursday brings a permanent head to the agency after a turbulent period under the Trump administration. 
  <p class="updated_time"> 11:54 AM CT, Nov. 04 </p> 
- <a href="https://www.politico.com/news/2021/11/04/pelosi-domestic-agenda-519503">Pelosi amps up domestic agenda pressure campaign with no clear path to votes</a> Politico: Democratic leaders made headway in some areas, but key lawmakers were still drafting new language on immigration as late as 9 p.m. 
+ <a href="https://www.politico.com/news/2021/11/04/pelosi-domestic-agenda-519503">Pelosi amps up domestic-agenda pressure campaign, pressing Friday votes</a> Politico: Democratic leaders made headway in some areas, but key lawmakers were still drafting new language on immigration as late as 9 p.m. 
  <p class="updated_time"> 11:49 AM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/03/us/politics/school-republican-campaign-issue.html">Republicans Seize on Schools as a Wedge Issue to Unite the Party</a> NYT: Rallying around what it calls “parental rights,” the party is pushing to build on its victories this week by stoking white resentment and tapping into broader anger at the education system. 
  <p class="updated_time"> 06:45 AM CT, Nov. 04 </p> 
