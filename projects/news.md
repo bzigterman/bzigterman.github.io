@@ -7,8 +7,14 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:16 AM CT, Nov. 05 </p> 
+ <p class="updated_time"> 01:24 AM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/05/world/australia/laughs-no-more-australians-are-reassessing-a-beloved-cartoonist.html">Laughs No More? Australians Are Reassessing a Beloved Cartoonist.</a> NYT: I used to think Michael Leunig’s drawings embodied the soul of our nation. Now, I’m not so sure. 
+ <p class="updated_time"> 01:15 AM CT, Nov. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59173259?at_medium=RSS&at_campaign=KARANGA">Japan death row inmates sue over same-day executions</a> BBC: Prisoners are only notified hours before they are to be executed by hanging. 
+ <p class="updated_time"> 12:45 AM CT, Nov. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/business-59172665?at_medium=RSS&at_campaign=KARANGA">Inflation: Global food prices hit fresh 10-year high, UN says</a> BBC: Reduced harvests and supply chain disruptions are helping to push up the cost of food. 
+ <p class="updated_time"> 12:40 AM CT, Nov. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-59172888?at_medium=RSS&at_campaign=KARANGA">Air Quality Index: Delhi air turns toxic after Diwali fireworks</a> BBC: India's capital woke up to a think blanket of smog as air quality dipped to hazardous levels. 
  <p class="updated_time"> 09:56 PM CT, Nov. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59168626?at_medium=RSS&at_campaign=KARANGA">Trump-Russia Steele dossier analyst charged with lying to FBI</a> BBC: Igor Danchenko, who worked on a 2016 dossier that made baseless claims about Donald Trump, is arrested. 
  <p class="updated_time"> 09:35 PM CT, Nov. 04 </p> 
@@ -37,8 +43,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/04/world/europe/covid-surge-europe-who.html">W.H.O. Official: 'Europe Is Back at Epicenter of the Pandemic'</a> NYT: The World Health Organization said Europe was responsible for nearly three-fifths of the world’s recent coronavirus cases, and that deaths in the region were surging. 
  <p class="updated_time"> 07:12 PM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/world/americas/biden-aide-covid-scotland.html">A White House aide who traveled abroad with Biden tests positive for the coronavirus.</a> NYT: President Biden was not in close contact with the aide, who remains quarantined in Scotland and has not shown symptoms of Covid-19. 
- <p class="updated_time"> 07:03 PM CT, Nov. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59167085?at_medium=RSS&at_campaign=KARANGA">Ahmaud Arbery: Nearly all-white jury chosen in black jogger murder trial</a> BBC: The judge noted the appearance of discriminatory selection in the trial over Ahmaud Arbery's death. 
  <p class="updated_time"> 06:20 PM CT, Nov. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59168910?at_medium=RSS&at_campaign=KARANGA">Nostalgia-soaked photos capture legendary LA roller rink</a> BBC: Opened in 1979, Flipper's Roller Boogie Palace was a place for children and celebrities alike to skate. 
  <p class="updated_time"> 06:13 PM CT, Nov. 04 </p> 
@@ -61,8 +65,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/03/world/africa/south-africa-coal-renewables.html">South Africa to Get $8.5 billion to Shift From Coal to Renewables</a> NYT: Developing nations have long said they need aid from wealthy countries to shift to renewable energy. South Africa may show how that would work in practice. 
  <p class="updated_time"> 04:31 PM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/uk-fossil-fuel-coal-cop26.html">18 Countries to Phase Out Coal, According to Leaked Document</a> NYT: The countries, banks and other organizations that make up a new coalition will commit to ending all investment in new coal power generation domestically and internationally. 
- <p class="updated_time"> 04:23 PM CT, Nov. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59160526?at_medium=RSS&at_campaign=KARANGA">Portugal's president calls snap election</a> BBC: The vote follows six years of minority left-wing government led by António Costa. 
  <p class="updated_time"> 04:18 PM CT, Nov. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59139998?at_medium=RSS&at_campaign=KARANGA">Does the skyscraper still have a future?</a> BBC: China is limiting the number of tall buildings, at a time when offices across the world are filled with empty desks. 
  <p class="updated_time"> 04:17 PM CT, Nov. 04 </p> 
@@ -79,8 +81,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/04/world/africa/south-africa-election-anc.html">A.N.C. Suffers Worst Election Setback Since End of Apartheid</a> NYT: In nationwide municipal elections, South Africans rebuked the African National Congress, handing it less than half the collective vote for the first time in its history. 
  <p class="updated_time"> 01:29 PM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/03/us/hawaii-covid-restrictions-tourists-ige.html">Hawaii Eases Covid Restrictions and Reopens for Tourists</a> NYT: The state is eager for its vacation industry to rebound after a devastating 2020 season. 
- <p class="updated_time"> 01:16 PM CT, Nov. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59169547?at_medium=RSS&at_campaign=KARANGA">COP26: Indonesia criticises 'unfair' deal to end deforestation</a> BBC: The country's environment minister says the country "can't promise what we can't do". 
  <p class="updated_time"> 12:45 PM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/style/rangoli-art-diwali.html">The Art and Ritual of Rangoli</a> NYT: Making ornate floor art can be a celebratory act for festivals like Diwali and a meditative practice. 
  <p class="updated_time"> 12:18 PM CT, Nov. 04 </p> 
