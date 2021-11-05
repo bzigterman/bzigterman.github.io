@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:06 PM CT, Nov. 05 </p> 
+ <a href="https://www.nytimes.com/2021/11/05/climate/cop26-john-kerry.html">John Kerry Lauds Progress at COP26 but Warns, ‘Job Not Done.’</a> NYT: Mr. Kerry, President Biden’s climate envoy, acknowledged that many of the promises being put forward in Glasgow were only that — promises. 
  <p class="updated_time"> 05:46 PM CT, Nov. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59186654?at_medium=RSS&at_campaign=KARANGA">Marilia Mendonca: Popular Brazil singer dies in plane crash at 26</a> BBC: Marília Mendonça, one of Brazil's most famous singers, was known for her songs focussing on women. 
  <p class="updated_time"> 05:17 PM CT, Nov. 05 </p> 
@@ -35,8 +37,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/05/1052968032/having-jailed-opposition-candidates-daniel-ortega-is-set-to-win-nicaragua-presid">Having jailed opposition candidates, Daniel Ortega is set to win Nicaragua presidency</a> NPR: Nicaragua's President Daniel Ortega will likely be reelected Sunday. He has jailed political opponents and ensured the vote will be in his favor. 
  <p class="updated_time"> 03:23 PM CT, Nov. 05 </p> 
  <a href="https://www.npr.org/2021/11/05/1052967987/young-people-are-protesting-in-glasgow-demanding-concreate-action-at-climate-sum">Young people are protesting in Glasgow, demanding concrete action at climate summit</a> NPR: Young people from around the world are protesting over world leaders' response to climate change at the UN's climate summit in Glasgow on Friday. 
- <p class="updated_time"> 02:51 PM CT, Nov. 05 </p> 
- <a href="https://www.nytimes.com/2021/11/05/climate/cop26-john-kerry.html">John Kerry Lauds Progress at COP26 but Warns, ‘Job Not Done.’</a> NYT: Mr. Kerry, President Biden’s climate envoy, acknowledged that many of the promises being put forward in Glasgow were only that — promises. 
  <p class="updated_time"> 02:47 PM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/05/world/europe/france-macron-alexandre-benalla-guilty.html">Ex-Macron Aide Convicted of Assault and Posing as a Police Officer</a> NYT: The aide, Alexandre Benalla, who was fired in 2018 after videos emerged of him beating a man at a labor protest, was sentenced to serve a year of house arrest with electronic monitoring. 
  <p class="updated_time"> 02:38 PM CT, Nov. 05 </p> 
@@ -208,6 +208,10 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:20 PM CT, Nov. 05 </p> 
+ <a href="https://www.nytimes.com/2021/11/05/us/politics/state-dept-missing-gifts.html">State Dept. Report on Missing Gifts Finds Poor Oversight</a> NYT: The gift vault was “in a state of disarray,” and tens of thousands of dollars of items remain unaccounted for, including a $5,800 bottle of whiskey. 
+ <p class="updated_time"> 06:09 PM CT, Nov. 05 </p> 
+ <a href="https://www.nytimes.com/2021/11/05/us/politics/guantanamo-torture-foia-cia.html">Some Sept. 11 Trial Secrets May Not Be Secrets Anymore</a> NYT: Prosecutors agreed to compare hundreds if not thousands of pages of classified documents in the case against 9/11 defendants with material released under the Freedom of Information Act. 
  <p class="updated_time"> 05:20 PM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/article/vaccine-mandate-biden-osha.html">OSHA's Vaccine Mandate: Your Questions Answered</a> NYT: We’re answering your questions about the new OSHA rules for employers with 100 or more workers. This F.A.Q. was last updated on Nov. 5 at 6:20 p.m. 
  <p class="updated_time"> 04:49 PM CT, Nov. 05 </p> 
@@ -292,10 +296,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/huddle/2021/11/04/dems-attempt-an-end-of-week-spri-494981">Dems attempt an end-of-week sprint</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 05:13 AM CT, Nov. 04 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/04/for-dems-its-2009-all-over-again-494977">POLITICO Playbook: For Dems, it’s ’2009 all over again’</a> Politico: And New Jersey Gov. Phil Murphy wins reelection narrowly. 
- <p class="updated_time"> 08:37 PM CT, Nov. 03 </p> 
- <a href="https://www.nytimes.com/2021/11/03/us/politics/biden-rejects-payments-migrants.html">Biden Rejects $450,000 Payments for Separated Migrants</a> NYT: “That’s not going to happen,” the president said about proposed compensation for a Trump administration policy that divided thousands of parents and children. 
- <p class="updated_time"> 06:17 PM CT, Nov. 03 </p> 
- <a href="https://www.nytimes.com/2021/11/03/us/politics/virginia-governor-youngkin-trump.html">Youngkin’s Dance With Trump Was Pivotal. But Is It Repeatable?</a> NYT: Glenn Youngkin’s victory in Virginia may inspire Republican imitators vying to win over Trump supporters without embracing the former president outright. 
  <p class="updated_time"> 02:28 PM CT, Nov. 03 </p> 
  <a href="https://www.politico.com/news/2021/11/03/senate-republicans-voting-reform-block-519082">Senate GOP blocks latest Dem push for voting reform</a> Politico: Alaska’s Lisa Murkowski was the only Republican to join Democrats on the bill named for the late Rep. John Lewis. 
  <p class="updated_time"> 12:36 PM CT, Nov. 03 </p> 
