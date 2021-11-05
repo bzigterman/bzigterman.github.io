@@ -187,8 +187,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-australia-59160914?at_medium=RSS&at_campaign=KARANGA">Cleo Smith: Listen to the moment police rescued missing girl</a> BBC: Listen to the moment police in Western Australia found a four-year-old girl who had been missing for 18 days. 
  <p class="updated_time"> 03:22 AM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/article/ethiopia-tigray-conflict-explained.html">Why Is Ethiopia at War in the Tigray Region? </a> NYT: The civil war has shifted dramatically since Prime Minister Abiy Ahmed began a military campaign in the Tigray region a year ago. With Tigrayan fighters advancing toward the capital, Ethiopia is at risk of collapse. 
- <p class="updated_time"> 10:52 PM CT, Nov. 03 </p> 
- <a href="https://www.nytimes.com/2021/11/03/world/asia/covaxin-covid-vaccine-who.html">Covaxin, Vaccine Developed in India, Gets W.H.O. Clearance</a> NYT: The vaccine is the eighth coronavirus vaccine to receive the global health body’s green light. 
  <p class="updated_time"> 09:56 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/asia/heather-mack-arrested.html">Back in Chicago, Woman Is Charged in Killing of Mother on Indonesian Vacation</a> NYT: Heather L. Mack, 26, had already served more than six years in prison in Indonesia for the 2014 killing of her mother, whose body was found in a suitcase at a Bali resort. 
  <p class="updated_time"> 06:00 PM CT, Nov. 03 </p> 
@@ -210,6 +208,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:35 PM CT, Nov. 05 </p> 
+ <a href="https://www.politico.com/news/2021/11/05/house-democrats-infrastructure-vote-wait-megabill-519731">House Dems throw new curveball: Infrastructure vote, wait on party-line megabill</a> Politico: A progressive leader promptly rejected the latest in a dizzying round of strategic readjustments from Speaker Nancy Pelosi's leadership team. 
  <p class="updated_time"> 02:19 PM CT, Nov. 05 </p> 
  <a href="https://www.npr.org/2021/11/05/1052879445/university-florida-professors-testify-permission-desantis">University of Florida allows professors to testify in a voting rights case after all</a> NPR: The university is reversing its decision to bar three professors from serving as expert witnesses in a case against the state. The earlier decision was seen as an infringement of free speech. 
  <p class="updated_time"> 02:11 PM CT, Nov. 05 </p> 
@@ -344,8 +344,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/10/30/dems-race-to-renovate-bidens-domestic-policy-foundation-517782">Dems race to renovate Biden's domestic-policy foundation</a> Politico: “There are of course dozens of proposals that folks are going to make a last-ditch effort to add to it,” Sen. Chris Coons (D-Del.) said of the president’s social spending framework. 
  <p class="updated_time"> 05:01 AM CT, Oct. 30 </p> 
  <a href="https://www.politico.com/news/2021/10/30/call-logs-speech-drafts-among-records-trump-is-trying-to-block-from-jan-6-investigators-517796">Call logs, speech drafts among records Trump is trying to block from Jan. 6 investigators</a> Politico: The former president's effort to suppress more than 750 pages of records is far broader than previously known, a new court filing reveals. 
- <p class="updated_time"> 05:30 PM CT, Oct. 29 </p> 
- <a href="https://www.politico.com/news/2021/10/29/you-have-a-manchin-problem-paid-leave-tossed-aside-despite-wooing-of-wva-senator-517731">Manchin upends paid leave, a benefit ‘personal to the president’</a> Politico: "We kept hearing, 'You have a Manchin problem,'" Molly Day, executive director of Paid Leave for the U.S., said. "So we kept digging in." 
 
 
 </details>
