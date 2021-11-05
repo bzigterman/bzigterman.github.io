@@ -208,7 +208,7 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
- <p class="updated_time"> 02:54 PM CT, Nov. 05 </p> 
+ <p class="updated_time"> 03:03 PM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/05/us/politics/colin-powell-funeral.html">At Colin Powell's Funeral, Washington Is Pulled Together</a> NYT: Republicans and Democrats, including President Biden and two of his predecessors, were at the Washington National Cathedral to honor the former secretary of state. 
  <p class="updated_time"> 02:35 PM CT, Nov. 05 </p> 
  <a href="https://www.politico.com/news/2021/11/05/house-democrats-infrastructure-vote-wait-megabill-519731">House Dems throw new curveball: Infrastructure vote, wait on party-line megabill</a> Politico: A progressive leader promptly rejected the latest in a dizzying round of strategic readjustments from Speaker Nancy Pelosi's leadership team. 
