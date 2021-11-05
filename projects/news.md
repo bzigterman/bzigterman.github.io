@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:35 PM CT, Nov. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59186294?at_medium=RSS&at_campaign=KARANGA">Camels escape circus and wander Madrid streets</a> BBC: Eight camels and a llama were found, with managers blaming their escape on animal rights activists. 
  <p class="updated_time"> 03:31 PM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/05/world/africa/un-rights-panel-sudan-coup.html">U.N. Rights Panel Pressures Sudan Over Coup</a> NYT: The Human Rights Council appointed an expert to investigate abuses in the country since the military seized power on Oct. 25, and members called for the prime minister’s release. 
  <p class="updated_time"> 03:23 PM CT, Nov. 05 </p> 
@@ -51,8 +53,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59175317?at_medium=RSS&at_campaign=KARANGA">Russian diplomat found dead outside Berlin embassy</a> BBC: Reports of last month's death have only just emerged and suggest the man fell from an upper floor. 
  <p class="updated_time"> 10:47 AM CT, Nov. 05 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2021/11/05/1052364086/new-usaid-director-aims-to-shake-up-60-year-old-aid-agency-heres-her-new-vision">New USAID director aims to shake up 60-year-old aid agency. Here's her 'new vision'</a> NPR: Like any government agency, the biggest American foreign aid group has its problems. This week, its new administrator Samantha Power outlined her solutions. 
- <p class="updated_time"> 10:39 AM CT, Nov. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59162504?at_medium=RSS&at_campaign=KARANGA">Alexandre Benalla: Jail term for ex-Macron aide who beat up protesters</a> BBC: Alexandre Benalla was sacked after video of the assault at a May Day protest in 2018 emerged. 
  <p class="updated_time"> 10:37 AM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/05/world/europe/shortages-german-economic-growth.html">Germany's Economy Hindered by Supply Chain Problems </a> NYT: The order books in Europe’s largest economy are full, but a lack of parts and raw materials means companies are struggling to fill them. 
  <p class="updated_time"> 10:23 AM CT, Nov. 05 </p> 
