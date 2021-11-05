@@ -7,6 +7,14 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:19 AM CT, Nov. 05 </p> 
+ <a href="https://www.nytimes.com/2021/11/05/world/europe/cop26-greta-thunberg.html">Greta Thunberg Assails Leaders Outside COP26 Climate Summit</a> NYT: “The governments of the global north countries are still refusing to take any drastic climate action,” she told protesters in Glasgow. 
+ <p class="updated_time"> 11:17 AM CT, Nov. 05 </p> 
+ <a href="https://www.nytimes.com/2021/11/04/world/europe/brexit-britain-france-johnson-macron.html">With Fish, Trucks and Submarines, U.K. and France Bicker Over Brexit</a> NYT: A recent dispute over fishing rights illuminates a broader and more fundamental disagreement over Britain’s decision to leave the European Union. 
+ <p class="updated_time"> 11:14 AM CT, Nov. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59174383?at_medium=RSS&at_campaign=KARANGA">Vietnamese minister criticised over 'Salt-bae' gold-plated steak dinner</a> BBC: A video shows To Lam being fed gold-plated steak by the celebrity chef at his expensive London restaurant. 
+ <p class="updated_time"> 11:11 AM CT, Nov. 05 </p> 
+ <a href="https://www.nytimes.com/2021/11/05/climate/cop26-vanessa-nakate.html">Vanessa Nakate, Ugandan Climate Activist, Offers an Optimistic Vision</a> NYT: The 24-year-old from Uganda has emerged as a leading voice of young people agitating for climate action. 
  <p class="updated_time"> 10:48 AM CT, Nov. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59175317?at_medium=RSS&at_campaign=KARANGA">Russian diplomat found dead outside Berlin embassy</a> BBC: Reports of last month's death have only just emerged and suggest the man fell from an upper floor. 
  <p class="updated_time"> 10:47 AM CT, Nov. 05 </p> 
@@ -18,7 +26,7 @@ permalink: /projects/news/
  <p class="updated_time"> 10:37 AM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/05/world/europe/persistent-shortages-are-stunting-german-economic-growth.html">Germany's Economy Hindered by Supply Chain Problems </a> NYT: The order books in Europe’s largest economy are full, but a lack of parts and raw materials means companies are struggling to fill them. 
  <p class="updated_time"> 10:31 AM CT, Nov. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59175404?at_medium=RSS&at_campaign=KARANGA">Ethiopia urges ex-soldiers to join fight against Tigray rebels</a> BBC: The army has called on ex-personnel to join it as rebel forces close in on the capital. 
+ <a href="https://www.bbc.co.uk/news/world-africa-59175404?at_medium=RSS&at_campaign=KARANGA">Ethiopia urges ex-soldiers to join fight against Tigray rebels</a> BBC: The army has called on ex-personnel to join it as rebel forces advance on the capital. 
  <p class="updated_time"> 10:23 AM CT, Nov. 05 </p> 
  <a href="https://www.npr.org/2021/11/05/1052682152/cop26-climate-pledges-iea-temperature-rise-carbon">Latest climate pledges could limit global temperature rise, a new report says</a> NPR: The International Energy Agency says that if nations honor their latest pledges to reduce greenhouse gas emissions, global temperatures could be held to 1.8 degrees Celsius above preindustrial levels. 
  <p class="updated_time"> 10:13 AM CT, Nov. 05 </p> 
@@ -37,8 +45,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/05/world/asia/india-diwali-covid.html">In India, Fears Grow That Diwali Celebrations Could Fuel Another Virus Spike</a> NYT: Epidemiologists are concerned that Covid cases will surge after shoppers thronged markets and hundreds of thousands traveled around the country to celebrate the festival. 
  <p class="updated_time"> 09:28 AM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/05/world/europe/vienna-vaccinate-young-children.html">Vienna Will Start to Vaccinate Young Children</a> NYT: Pediatricians in the Austrian capital will authorize the off-label use of the BioNTech-Pfizer vaccine for children starting next Friday. 
- <p class="updated_time"> 09:28 AM CT, Nov. 05 </p> 
- <a href="https://www.nytimes.com/2021/11/03/world/europe/cop26-greenwashing-protest.html">Protesters March Against ‘Greenwashing' at COP26</a> NYT: As the focus of the Glasgow summit turns to funding, protesters call for greater accountability for companies’ climate promises. 
  <p class="updated_time"> 09:03 AM CT, Nov. 05 </p> 
  <a href="https://www.npr.org/2021/11/05/1052707018/clean-up-your-mess-young-activists-tell-leaders-at-cop26-climate-summit">Clean up your mess, young activists tell leaders at COP26 climate summit</a> NPR: Negotiators at the U.N. summit in Scotland stressed how important young people are in the battle to safeguard the world from catastrophic climate change. But those people fear they're not being heard. 
  <p class="updated_time"> 08:23 AM CT, Nov. 05 </p> 
@@ -63,8 +69,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/04/world/europe/uk-politics-boris-johnson-owen-paterson.html">Clash With Corruption Watchdog Has Boris Johnson Retreating, Again</a> NYT: Britain’s prime minister intervened in the case of a Conservative Party lawmaker who faced suspension. A ferocious blowback caused him to retreat, a now familiar path. 
  <p class="updated_time"> 05:04 AM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/05/world/asia/japan-quarantine-covid.html">Japan Will Cut Quarantine for Business Travelers to 3 Days</a> NYT: The easing of rules comes as cases decline significantly. The country has virtually closed its borders since the start of the pandemic. 
- <p class="updated_time"> 05:02 AM CT, Nov. 05 </p> 
- <a href="https://www.nytimes.com/2021/11/04/world/europe/brexit-britain-france-johnson-macron.html">With Fish, Trucks and Submarines, U.K. and France Bicker Over Brexit</a> NYT: A recent dispute over fishing rights illuminates a broader and more fundamental disagreement over Britain’s decision to leave the European Union. 
  <p class="updated_time"> 05:01 AM CT, Nov. 05 </p> 
  <a href="https://www.npr.org/2021/11/05/1052393792/tonga-covid-case-countries-opening-borders-for-tourism">How does a country with no COVID reopen its borders? These places are finding out</a> NPR: There is a glaring irony of the pandemic: Countries like the island nation of Tonga that have managed to keep the virus at bay may be some of the last to recover from the economic impact. 
  <p class="updated_time"> 04:36 AM CT, Nov. 05 </p> 
@@ -95,8 +99,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/05/world/australia/laughs-no-more-australians-are-reassessing-a-beloved-cartoonist.html">Laughs No More? Australians Are Reassessing a Beloved Cartoonist.</a> NYT: I used to think Michael Leunig’s drawings embodied the soul of our nation. Now, I’m not so sure. 
  <p class="updated_time"> 01:15 AM CT, Nov. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59173259?at_medium=RSS&at_campaign=KARANGA">Japan death row inmates sue over same-day executions</a> BBC: Prisoners are only notified hours before they are to be executed by hanging. 
- <p class="updated_time"> 12:45 AM CT, Nov. 05 </p> 
- <a href="https://www.bbc.co.uk/news/business-59172665?at_medium=RSS&at_campaign=KARANGA">Inflation: Global food prices hit fresh 10-year high, UN says</a> BBC: Reduced harvests and supply chain disruptions are helping to push up the cost of food. 
  <p class="updated_time"> 12:30 AM CT, Nov. 05 </p> 
  <a href="https://www.wsj.com/articles/climate-promises-by-businesses-face-new-scrutiny-11636104600">Climate Promises by Businesses Face New Scrutiny</a> WSJ: Businesses have lined up to declare their carbon-neutral goals during the Glasgow climate summit. Investors and regulators will be watching to see if they follow through. 
  <p class="updated_time"> 09:08 PM CT, Nov. 04 </p> 
@@ -205,16 +207,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/03/climate/al-gore-cop26.html">At COP26, Gore Says Satellite Emissions Monitoring Helps Climate-Change Fight</a> NYT: Real-time checks on where greenhouse gases are being produced may prove a powerful weapon in the fight to cool the earth. 
  <p class="updated_time"> 02:32 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/europe/greece-covid-restrictions.html">Greece Tightens Covid Restrictions on the Unvaccinated</a> NYT: The restrictions start Saturday and target unvaccinated people, said the country’s health minister, Thanos Plevris. 
- <p class="updated_time"> 01:54 PM CT, Nov. 03 </p> 
- <a href="https://www.nytimes.com/2021/11/03/world/asia/isis-afghanistan-taliban.html">ISIS Poses a Growing Threat to New Taliban Government in Afghanistan</a> NYT: The Taliban takeover was supposed to bring an end to war, the new government promised. But a growing insurgency is upending security and raising alarms for the international community. 
- <p class="updated_time"> 12:42 PM CT, Nov. 03 </p> 
- <a href="https://www.nytimes.com/2021/11/03/world/europe/cop26-summit-lines.html">COP26 Summit Attendees Frustrated With Long Lines and Access</a> NYT: One veteran of the annual gathering described it as the “poorest planed” to date. A young American activist called it a “hellscape.” 
  <p class="updated_time"> 12:38 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/us/politics/china-military-nuclear.html">China Could Have 1,000 Nuclear Warheads by 2030, Pentagon Says</a> NYT: Gen. Mark A. Milley, chairman of the Joint Chiefs of Staff, called Beijing the “No. 1” nation-state military challenger to the United States. 
  <p class="updated_time"> 11:46 AM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/business/economy/biden-trade-policy-steel.html">European Steel Plan Shows Biden’s Bid to Merge Climate and Trade Policy</a> NYT: A potential agreement on steel trade provides the clearest look yet at how the Biden administration plans to implement a trade policy that is both protectionist and progressive 
- <p class="updated_time"> 10:47 AM CT, Nov. 03 </p> 
- <a href="https://www.nytimes.com/2021/11/03/world/asia/sunao-tsuboi-dead.html">Sunao Tsuboi, 96, Dies; Hiroshima Victim Who Lived to Tell His Story</a> NYT: After suffering through the agony of the attack and its aftermath, he devoted himself to spreading the message that nuclear weapons should be abolished. 
 
 
 </details>
