@@ -135,8 +135,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-59158568?at_medium=RSS&at_campaign=KARANGA">Amanda Knox on how she thinks her case would be viewed today</a> BBC: She speaks about losing control of her identity during the Meredith Kercher murder investigation. 
  <p class="updated_time"> 02:36 AM CT, Nov. 04 </p> 
  <a href="https://www.wsj.com/articles/covid-19-lockdowns-ripple-across-chinai-wonder-how-long-i-can-hang-on-11636025787">Covid-19 Lockdowns Ripple Across China</a> WSJ: As the Delta variant puts China through one of its biggest Covid-19 outbreaks since it first closed off Wuhan in early 2020, new lockdowns and other strict controls are taking place across the country. 
- <p class="updated_time"> 11:39 PM CT, Nov. 03 </p> 
- <a href="https://www.nytimes.com/2021/11/03/world/australia/missing-cleo-smith.html">Cleo Smith, 4, Is Found 18 Days After She Vanishes in Australia</a> NYT: Cleo Smith disappeared one night while camping with her family in a remote area of Australia. She was found “alive and well” in a locked house, and a man was detained. 
  <p class="updated_time"> 10:52 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/asia/covaxin-covid-vaccine-who.html">Covaxin, Vaccine Developed in India, Gets W.H.O. Clearance</a> NYT: The vaccine is the eighth coronavirus vaccine to receive the global health body’s green light. 
  <p class="updated_time"> 09:56 PM CT, Nov. 03 </p> 
