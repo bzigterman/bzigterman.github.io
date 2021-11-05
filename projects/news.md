@@ -7,6 +7,14 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:24 AM CT, Nov. 05 </p> 
+ <a href="https://www.nytimes.com/2021/11/05/world/europe/cop26-mothers-pollution.html">Mothers Demand Action on Air Pollution at COP26</a> NYT: A letter to world leaders gathered at the U.N. climate conference in Glasgow was signed by nearly 500 parent groups from 44 countries. 
+ <p class="updated_time"> 08:15 AM CT, Nov. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/business-59166014?at_medium=RSS&at_campaign=KARANGA">US sees sharp jobs growth as the economy rebounds</a> BBC: Firms took on 531,000 extra workers in October, as the economy picked up pace after a difficult summer. 
+ <p class="updated_time"> 08:15 AM CT, Nov. 05 </p> 
+ <a href="https://www.nytimes.com/2021/11/05/world/europe/vienna-vaccinate-young-children.html">Vienna Will Start to Vaccinate Young Children</a> NYT: Pediatricians in the Austrian capital will authorize the off-label use of the BioNTech-Pfizer vaccine for children starting next Friday. 
+ <p class="updated_time"> 07:47 AM CT, Nov. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59175317?at_medium=RSS&at_campaign=KARANGA">Russian diplomat found dead outside Berlin embassy</a> BBC: Reports of last month's death have only just emerged and suggest the man fell from an upper floor. 
  <p class="updated_time"> 07:26 AM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/05/world/europe/cop-protests.html">At COP26, Youth Want Action, Accountability as Protesters Rally</a> NYT: For many, the climate conference has inspired mixed emotions: concern that their voices were not really being listened to, but also hope that their presence would help drive change. 
  <p class="updated_time"> 07:20 AM CT, Nov. 05 </p> 
@@ -17,8 +25,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/technology-59176826?at_medium=RSS&at_campaign=KARANGA">US offers $10m bounty for Colonial Pipeline hackers</a> BBC: The DarkSide ransomware attack led to a major US fuel pipeline being taken offline. 
  <p class="updated_time"> 05:37 AM CT, Nov. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59175396?at_medium=RSS&at_campaign=KARANGA">US Navy sacks commanding officers of crashed submarine</a> BBC: The officers are fired after the USS Connecticut struck an undersea mountain in the South China Sea. 
- <p class="updated_time"> 05:26 AM CT, Nov. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-59139572?at_medium=RSS&at_campaign=KARANGA">Israeli bookstores pull Sally Rooney's books in boycott row</a> BBC: It follows a backlash over the writer's refusal to let an Israeli firm publish her book in Hebrew. 
  <p class="updated_time"> 05:21 AM CT, Nov. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59175316?at_medium=RSS&at_campaign=KARANGA">Cleo Smith parents 'so thankful' after four-year-old's rescue</a> BBC: Cleo, 4, was found in a locked home 18 days after disappearing, in a case that gripped Australia. 
  <p class="updated_time"> 05:09 AM CT, Nov. 05 </p> 
@@ -31,16 +37,18 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/04/world/europe/brexit-britain-france-johnson-macron.html">With Fish, Trucks and Submarines, U.K. and France Bicker Over Brexit</a> NYT: A recent dispute over fishing rights illuminates a broader and more fundamental disagreement over Britain’s decision to leave the European Union. 
  <p class="updated_time"> 04:19 AM CT, Nov. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59161935?at_medium=RSS&at_campaign=KARANGA">Africa's week in pictures: 29 October - 4 November 2021</a> BBC: A selection of the best photos from the African continent and beyond. 
+ <p class="updated_time"> 04:17 AM CT, Nov. 05 </p> 
+ <a href="https://www.wsj.com/articles/german-navy-eyes-on-china-adds-to-europes-pacific-presence-11636113718">German Navy, Eyes on China, Adds to Europe's Pacific Presence</a> WSJ: The frigate Bayern docked in Tokyo on Friday and will join the U.S., Japanese and other allied navies to build interoperability skills this month. 
  <p class="updated_time"> 04:05 AM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/05/world/asia/india-diwali-covid.html">In India, Fears Grow That Diwali Celebrations Could Fuel Another Virus Spike</a> NYT: Epidemiologists are concerned that Covid cases will surge after shoppers thronged markets and hundreds of thousands traveled around the country to celebrate the festival. 
  <p class="updated_time"> 04:05 AM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/04/world/americas/biden-aide-covid-scotland.html">A White House aide who traveled abroad with Biden tests positive.</a> NYT: President Biden was not in close contact with the aide, who remains quarantined in Scotland and has not shown symptoms of Covid-19. 
  <p class="updated_time"> 04:00 AM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/05/world/europe/germany-black-woman-bundestag.html">First Black Woman in Bundestag Wants to Change Image of ‘Germanness’</a> NYT: After a deadly racist attack, Awet Tesfaiesus considered leaving Germany. Instead, she ran for Parliament with a “courage to change” slogan and won. 
+ <p class="updated_time"> 03:56 AM CT, Nov. 05 </p> 
+ <a href="https://www.wsj.com/articles/auschwitz-tattoo-kit-auction-fuels-debate-in-israel-11636116964">Auschwitz Tattoo-Kit Auction Fuels Debate in Israel</a> WSJ: A court halted the auction of a rare set of tattoo needles that had purportedly been used to mark inmates at Auschwitz and had reignited a debate over whether Nazi-era artifacts should be bought or sold. 
  <p class="updated_time"> 03:42 AM CT, Nov. 05 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59174876?at_medium=RSS&at_campaign=KARANGA">Abba on new album Voyage: We don't need to prove anything</a> BBC: As the band release Voyage, Benny and Bjorn speak to the BBC about being compared to their old music. 
- <p class="updated_time"> 03:01 AM CT, Nov. 05 </p> 
- <a href="https://www.wsj.com/articles/german-navy-eyes-on-china-adds-to-europes-pacific-presence-11636113718">German Navy, Eyes on China, Adds to Europe's Pacific Presence</a> WSJ: The frigate Bayern docked in Tokyo on Friday and will join the U.S., Japanese and other allied navies to build interoperability skills this month. 
  <p class="updated_time"> 02:56 AM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/05/world/europe/russia-nuclear-power-climate-change.html">A Nuclear-Powered Shower? Russia Tests a Climate Innovation.</a> NYT: A remote Siberian town now has its own miniature nuclear plant as a Russian state company tests a new model for residential heating. Some see it as a tool to minimize climate change. 
  <p class="updated_time"> 02:42 AM CT, Nov. 05 </p> 
@@ -70,8 +78,6 @@ permalink: /projects/news/
  <p class="updated_time"> 07:39 PM CT, Nov. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59166607?at_medium=RSS&at_campaign=KARANGA">COP26: Indigenous Amazon activist 'got death threats' after speech</a> BBC: Txai Suruí says she worries for her safety and that of other young climate activists. 
  <p class="updated_time"> 07:27 PM CT, Nov. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59170667?at_medium=RSS&at_campaign=KARANGA">Kirk Douglas assaulted Natalie Wood, her sister alleges</a> BBC: Lana Wood claims that Mr Douglas attacked her sister in 1955 when the late actress was a teenager. 
- <p class="updated_time"> 07:27 PM CT, Nov. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-58976338?at_medium=RSS&at_campaign=KARANGA">How fresh is your food? Sensors could show you</a> BBC: Households contribute the most food waste - so what if you could track spoilage in real time? 
  <p class="updated_time"> 07:23 PM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/world/europe/covid-surge-europe-who.html">W.H.O. Official: 'Europe Is Back at Epicenter of the Pandemic'</a> NYT: The World Health Organization said Europe was responsible for nearly three-fifths of the world’s recent coronavirus cases, and that deaths in the region were surging. 
@@ -99,8 +105,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/04/style/rangoli-art-diwali.html">The Art and Ritual of Rangoli</a> NYT: Making ornate floor art can be a celebratory act for festivals like Diwali and a meditative practice. 
  <p class="updated_time"> 12:18 PM CT, Nov. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-59132633?at_medium=RSS&at_campaign=KARANGA">Quiz of the week: Who joined Macaulay Culkin in Gucci's Love Parade?</a> BBC: How closely have you been paying attention to what's been going on during the past seven days? 
- <p class="updated_time"> 12:18 PM CT, Nov. 04 </p> 
- <a href="https://www.wsj.com/articles/new-galapagos-conservation-efforts-aim-to-counter-china-fishing-fleet-11636054242">New Galápagos Conservation Efforts Aim to Counter China Fishing Fleet</a> WSJ: Environmentalists applaud the plan by Ecuador and others to create a vast area off-limits to industrial fishing, but enforcement will be a challenge. 
  <p class="updated_time"> 12:01 PM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/science/nasa-space-tacos.html">NASA’s Latest Breakthrough: ‘Best Space Tacos Yet’</a> NYT: For the first time, astronauts on the International Space Station cultivated chiles, adding some zing to their tacos. 
  <p class="updated_time"> 11:59 AM CT, Nov. 04 </p> 
@@ -141,8 +145,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/03/world/asia/covaxin-covid-vaccine-who.html">Covaxin, Vaccine Developed in India, Gets W.H.O. Clearance</a> NYT: The vaccine is the eighth coronavirus vaccine to receive the global health body’s green light. 
  <p class="updated_time"> 09:56 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/asia/heather-mack-arrested.html">Back in Chicago, Woman Is Charged in Killing of Mother on Indonesian Vacation</a> NYT: Heather L. Mack, 26, had already served more than six years in prison in Indonesia for the 2014 killing of her mother, whose body was found in a suitcase at a Bali resort. 
- <p class="updated_time"> 09:09 PM CT, Nov. 03 </p> 
- <a href="https://www.wsj.com/articles/north-korea-can-make-more-uranium-for-nuclear-bombs-than-previously-thought-11636006162">North Korea Can Make More Uranium for Nuclear Bombs Than Previously Thought</a> WSJ: North Korea has the capacity to make more base ingredients for nuclear bombs than previously believed, according to new research. 
  <p class="updated_time"> 08:50 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/middleeast/iran-tanker-oil.html">Iran Seizes an Oil Tanker, but Whose Tanker Is Disputed</a> NYT: U.S. and Iranian officials gave conflicting accounts of a ship that was seized last month. Some reports said it was the same tanker the United States had seized last year. The Pentagon denied that. 
  <p class="updated_time"> 07:23 PM CT, Nov. 03 </p> 
