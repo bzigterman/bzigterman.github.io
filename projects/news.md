@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:03 AM CT, Nov. 05 </p> 
+ <a href="https://www.nytimes.com/2021/11/05/world/europe/cop-protests.html">At COP26, Youth Want Action, Accountability as Protesters Rally</a> NYT: For many, the climate conference has inspired mixed emotions: concern that their voices were not really being listened to, but also hope that their presence would help drive change. 
  <p class="updated_time"> 09:46 AM CT, Nov. 05 </p> 
  <a href="https://www.bbc.co.uk/news/business-59166014?at_medium=RSS&at_campaign=KARANGA">US sees strong jobs growth and higher wages</a> BBC: Employers took on 531,000 extra workers in October in a sign the economy is picking up. 
  <p class="updated_time"> 09:41 AM CT, Nov. 05 </p> 
@@ -31,8 +33,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-china-59175400?at_medium=RSS&at_campaign=KARANGA">Deng Deng, the abandoned Shiba Inu, sells for $25k at auction in China</a> BBC: Deng Deng, a Shiba Inu abandoned by his owner in 2014, had a $78 starting price. 
  <p class="updated_time"> 07:47 AM CT, Nov. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59175317?at_medium=RSS&at_campaign=KARANGA">Russian diplomat found dead outside Berlin embassy</a> BBC: Reports of last month's death have only just emerged and suggest the man fell from an upper floor. 
- <p class="updated_time"> 07:26 AM CT, Nov. 05 </p> 
- <a href="https://www.nytimes.com/2021/11/05/world/europe/cop-protests.html">At COP26, Youth Want Action, Accountability as Protesters Rally</a> NYT: For many, the climate conference has inspired mixed emotions: concern that their voices were not really being listened to, but also hope that their presence would help drive change. 
  <p class="updated_time"> 07:20 AM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/05/world/asia/singapore-capital-punishment-drugs.html">Rights Groups Urge Singapore Not to Execute Man With Mental Disability</a> NYT: The man, a Malaysian with an I.Q. of 69, was caught trying to smuggle an ounce and a half of heroin in 2009. Some are calling his planned hanging a human rights violation. 
  <p class="updated_time"> 07:05 AM CT, Nov. 05 </p> 
@@ -69,6 +69,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/05/world/europe/germany-black-woman-bundestag.html">First Black Woman in Bundestag Wants to Change Image of ‘Germanness’</a> NYT: After a deadly racist attack, Awet Tesfaiesus considered leaving Germany. Instead, she ran for Parliament with a “courage to change” slogan and won. 
  <p class="updated_time"> 03:56 AM CT, Nov. 05 </p> 
  <a href="https://www.wsj.com/articles/auschwitz-tattoo-kit-auction-fuels-debate-in-israel-11636116964">Auschwitz Tattoo-Kit Auction Fuels Debate in Israel</a> WSJ: A court halted the auction of a rare set of tattoo needles that had purportedly been used to mark inmates at Auschwitz and had reignited a debate over whether Nazi-era artifacts should be bought or sold. 
+ <p class="updated_time"> 03:43 AM CT, Nov. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-59172888?at_medium=RSS&at_campaign=KARANGA">Air Quality Index: Delhi air turns toxic after Diwali fireworks</a> BBC: India's capital woke up to a think blanket of smog as air quality dipped to hazardous levels. 
  <p class="updated_time"> 03:42 AM CT, Nov. 05 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59174876?at_medium=RSS&at_campaign=KARANGA">Abba on new album Voyage: We don't need to prove anything</a> BBC: As the band release Voyage, Benny and Bjorn speak to the BBC about being compared to their old music. 
  <p class="updated_time"> 02:56 AM CT, Nov. 05 </p> 
@@ -173,8 +175,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/03/world/europe/greece-covid-restrictions.html">Greece Tightens Covid Restrictions on the Unvaccinated</a> NYT: The restrictions start Saturday and target unvaccinated people, said the country’s health minister, Thanos Plevris. 
  <p class="updated_time"> 01:54 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/asia/isis-afghanistan-taliban.html">ISIS Poses a Growing Threat to New Taliban Government in Afghanistan</a> NYT: The Taliban takeover was supposed to bring an end to war, the new government promised. But a growing insurgency is upending security and raising alarms for the international community. 
- <p class="updated_time"> 01:35 PM CT, Nov. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59157060?at_medium=RSS&at_campaign=KARANGA">Michelle Wu makes history as first Asian American woman elected as Boston mayor</a> BBC: She is the first woman and Asian American elected to lead Massachusetts' capital city. 
  <p class="updated_time"> 12:42 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/europe/cop26-summit-lines.html">COP26 Summit Attendees Frustrated With Long Lines and Access</a> NYT: One veteran of the annual gathering described it as the “poorest planed” to date. A young American activist called it a “hellscape.” 
  <p class="updated_time"> 12:38 PM CT, Nov. 03 </p> 
@@ -192,14 +192,26 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:56 AM CT, Nov. 05 </p> 
+ <a href="https://www.npr.org/2021/11/05/1052482356/watch-colin-powells-funeral-is-held-at-washington-national-cathedral">Watch: Colin Powell's funeral is held at Washington National Cathedral</a> NPR: The former secretary of state died of complications from COVID-19 in October. 
  <p class="updated_time"> 09:23 AM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/04/us/politics/house-democrats-biden.html">House Democrats Hunt for Votes to Pass Biden’s Domestic Agenda</a> NYT: Speaker Nancy Pelosi wanted a vote on Thursday night on a $1.85 trillion social policy and climate bill, but moderates pushed back and action was postponed until Friday. 
+ <p class="updated_time"> 06:57 AM CT, Nov. 05 </p> 
+ <a href="https://www.npr.org/2021/11/05/1052206451/house-is-poised-for-a-vote-on-its-spending-plan-but-hurdles-remain">House is poised for a vote on its spending plan, but hurdles remain</a> NPR: Democrats have been debating the scope of President Biden's Build Back Better agenda for months and still haven't reached consensus. Even if the House OKs the bill, changes are expected in the Senate. 
  <p class="updated_time"> 06:26 AM CT, Nov. 05 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/11/05/here-goes-the-house-spending-and-infrastructure-votes-teed-up-494996">Here goes the House: spending and infrastructure votes tee’d up</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 05:19 AM CT, Nov. 05 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/05/lets-try-this-again-494993">POLITICO Playbook: Let’s try this again</a> Politico: And there’s a second grand jury in the Trump Organization case in Manhattan. 
+ <p class="updated_time"> 05:05 AM CT, Nov. 05 </p> 
+ <a href="https://www.npr.org/2021/11/05/1052633843/republican-states-sue-over-biden-vaccine-mandate">Hours after the White House issues its new vaccine mandate, GOP-led states sue</a> NPR: Dozens of Republican state officials are suing over the White House's COVID-19 vaccine mandate that they say is unconstitutional and threatens business. 
+ <p class="updated_time"> 04:06 AM CT, Nov. 05 </p> 
+ <a href="https://www.npr.org/2021/11/05/1052651021/republicans-may-have-landed-on-an-effective-political-strategy-post-trump">Republicans may have landed on an effective political strategy post Trump</a> NPR: NPR's Steve Inskeep talks to attorney Gregg Nunziata, a Republican who didn't vote for Trump but did vote for Virginia's Governor-elect Glenn Youngkin, about using some Trump-themes going forward. 
+ <p class="updated_time"> 04:00 AM CT, Nov. 05 </p> 
+ <a href="https://www.npr.org/2021/11/05/1052435775/texas-election-workers">The 2020 vote and its aftermath have left many election workers beleaguered</a> NPR: At the same time, in Texas, an increasing number of counties are rethinking who should run elections altogether. 
+ <p class="updated_time"> 04:00 AM CT, Nov. 05 </p> 
+ <a href="https://www.npr.org/2021/11/05/1052487175/voting-rights-activists-say-democrats-in-washington-need-to-do-their-job">Voting rights activists say Democrats in Washington need to do their job</a> NPR: Organizers say they're doing all they can to fight back against restrictive voting laws and turn out voters. But they also say they haven't yet gotten much help from Democrats in Washington, D.C. 
  <p class="updated_time"> 03:30 AM CT, Nov. 05 </p> 
- <a href="https://www.politico.com/news/2021/11/05/pelosi-dems-final-push-519607">Pelosi revs House Dem engines after season in the ditch</a> Politico: "There’s a point where you've got to stop talking," Rep. Peter Welch (D-Vt.) said of the party's long-negotiated social spending bill. 
+ <a href="https://www.politico.com/news/2021/11/05/pelosi-dems-final-push-519607">Pelosi tries to rev House Dems after season in the ditch</a> Politico: "There’s a point where you've got to stop talking," Rep. Peter Welch (D-Vt.) said. But can the House get there? 
  <p class="updated_time"> 03:30 AM CT, Nov. 05 </p> 
  <a href="https://www.politico.com/news/2021/11/05/kyrsten-sinema-multi-level-marketing-labor-519661">Sinema's raking in cash from MLMs. They want to kill her party’s labor bill.</a> Politico: The Arizona senator is one of just a few lawmakers that multilevel marketing businesses —often derided as pyramid schemes — are giving to. 
  <p class="updated_time"> 09:54 PM CT, Nov. 04 </p> 
@@ -218,20 +230,38 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/04/nyregion/stephen-sweeney-durr-nj-election.html">Republican Truck Driver Beats Sweeney in N.J. Election</a> NYT: Mr. Sweeney, the second most powerful lawmaker in New Jersey and a Democrat, lost his bid for re-election to Edward Durr, a driver for a furniture chain. 
  <p class="updated_time"> 05:43 PM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/us/politics/igor-danchenko-arrested-steele-dossier.html">Authorities Arrest Analyst Who Contributed to Steele Dossier</a> NYT: Igor Danchenko, a Russia analyst who worked with Christopher Steele, the author of a dossier of rumors and unproven assertions about Donald J. Trump, was indicted as part of the Durham investigation. 
+ <p class="updated_time"> 05:33 PM CT, Nov. 04 </p> 
+ <a href="https://www.npr.org/2021/11/04/1052564177/the-biden-administration-is-suing-texas-over-its-new-voting-law">The Biden administration is suing Texas over its new voting law</a> NPR: The U.S. Department of Justice claims the Texas law contains several provisions that "will disenfranchise eligible Texas citizens who seek to exercise their right to vote." 
  <p class="updated_time"> 04:35 PM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/us/politics/democrats-spending-bill-budget-tricks.html">Democrats Employ Budget Gimmicks They Once Derided</a> NYT: Budget experts say true cost of legislation could be $4 trillion as lawmakers rely on sleights of hand to bring down the price tag. 
  <p class="updated_time"> 03:29 PM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/us/politics/biden-donors-white-house.html">Why Big Donors to Biden's 2020 Campaign Are Frustrated</a> NYT: Some of the top Democratic contributors have become increasingly dissatisfied with a lack of communication from the White House — and impatient with inaction on voting rights. 
+ <p class="updated_time"> 03:23 PM CT, Nov. 04 </p> 
+ <a href="https://www.npr.org/2021/11/04/1052485262/democrats-are-making-a-3rd-attempt-at-immigration-reform-using-a-social-spending">Democrats are making a 3rd attempt at immigration reform using a social spending bill</a> NPR: Congressional Democrats are trying — yet again — for a long shot chance at immigration reform. For several months, lawmakers have tried to force the effort into a partisan spending bill. 
+ <p class="updated_time"> 03:23 PM CT, Nov. 04 </p> 
+ <a href="https://www.npr.org/2021/11/04/1052485210/philadelphia-councilmember-on-new-city-law-banning-minor-driving-infractions">Philadelphia councilmember on new city law banning minor driving infractions</a> NPR: NPR's Ailsa Chang talks with Philadelphia councilman Isaiah Thomas about a new law that prevents police officers from making low-level traffic stops, which disproportionately affect Black drivers. 
+ <p class="updated_time"> 03:23 PM CT, Nov. 04 </p> 
+ <a href="https://www.npr.org/2021/11/04/1052485203/new-vaccine-requirements-go-into-effect-jan-4">New vaccine requirements go into effect Jan. 4</a> NPR: NPR's Audie Cornish speaks with Secretary of Labor Marty Walsh about the Biden administration's new COVID-19 testing and vaccine requirements. 
+ <p class="updated_time"> 03:02 PM CT, Nov. 04 </p> 
+ <a href="https://www.npr.org/2021/11/04/1050593676/lawyers-for-trump-jan-6-panel-spar-in-federal-court-over-records-fight">Lawyers for Trump, Jan. 6 panel spar in federal court over records fight</a> NPR: The case the marks the first legal test that pits a current president against his predecessor over what records can be released. 
  <p class="updated_time"> 02:51 PM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/us/politics/trump-jan-6-documents.html">Judge Questions Trump’s Grounds for Keeping Jan. 6 Documents Secret</a> NYT: In a hearing on Thursday, a federal judge voiced skepticism about the former president’s claim that hundreds of pages of documents related to the riot should be shielded by executive privilege. 
  <p class="updated_time"> 02:41 PM CT, Nov. 04 </p> 
  <a href="https://www.politico.com/news/2021/11/04/house-megabill-passage-manchin-last-word-519570">Manchin will get last word, even as House races to pass megabill</a> Politico: House Democratic leaders and progressives want to speed toward passage of a bill that won't have a smooth ride through the Senate. 
+ <p class="updated_time"> 01:40 PM CT, Nov. 04 </p> 
+ <a href="https://www.npr.org/2021/11/04/1014670567/first-latino-census-director-robert-santos-person-of-color">The Senate has confirmed the 1st Latino to lead the U.S. census, Robert Santos</a> NPR: Robert Santos, one of the country's leading statisticians, is set to lead the Census Bureau through 2026 during key preparations for the next head count that forms U.S. democracy's foundations. 
+ <p class="updated_time"> 12:29 PM CT, Nov. 04 </p> 
+ <a href="https://www.npr.org/2021/11/04/1052320491/investigation-finds-federal-agencies-dismissed-threats-ahead-of-the-jan-6-attack">Investigation finds federal agencies dismissed threats ahead of the Jan. 6 attack</a> NPR: Washington Post reporter Carol Leonnig says President Trump froze key federal agencies, including the FBI and Dept. of  Defense, whose job it was to investigate and stop threats to national security. 
  <p class="updated_time"> 11:54 AM CT, Nov. 04 </p> 
  <a href="https://www.politico.com/news/2021/11/04/pelosi-domestic-agenda-519503">Pelosi amps up domestic-agenda pressure campaign, pressing Friday votes</a> Politico: Democratic leaders made headway in some areas, but key lawmakers were still drafting new language on immigration as late as 9 p.m. 
  <p class="updated_time"> 11:49 AM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/03/us/politics/school-republican-campaign-issue.html">Republicans Seize on Schools as a Wedge Issue to Unite the Party</a> NYT: Rallying around what it calls “parental rights,” the party is pushing to build on its victories this week by stoking white resentment and tapping into broader anger at the education system. 
+ <p class="updated_time"> 11:09 AM CT, Nov. 04 </p> 
+ <a href="https://www.npr.org/2021/11/04/1052346058/a-key-source-for-the-infamous-trump-russia-dossier-is-charged-with-lying-to-the-">A key source for the infamous Trump-Russia dossier is charged with lying to the FBI</a> NPR: Igor Danchenko was taken into custody Thursday as part of special counsel John Durham's investigation into the origins of the Trump-Russia probe. 
  <p class="updated_time"> 06:45 AM CT, Nov. 04 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/11/04/dems-attempt-an-end-of-week-spri-494981">Dems attempt an end-of-week sprint</a> Politico: A play-by-play preview of the day&#39;s congressional news 
+ <p class="updated_time"> 06:21 AM CT, Nov. 04 </p> 
+ <a href="https://www.npr.org/2021/11/04/1052248802/progressives-are-ready-to-vote-on-biden-agenda-bills-rep-jayapal-says">Progressives are ready to vote on Biden agenda bills, Rep. Jayapal says</a> NPR: NPR's Noel King talks to Democratic Rep. Pramila Jayapal of Washington, chair of the Congressional Progressive Caucus, about where they stand on the infrastructure bill as a vote nears in Congress. 
  <p class="updated_time"> 05:13 AM CT, Nov. 04 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/04/for-dems-its-2009-all-over-again-494977">POLITICO Playbook: For Dems, it’s ’2009 all over again’</a> Politico: And New Jersey Gov. Phil Murphy wins reelection narrowly. 
  <p class="updated_time"> 04:09 AM CT, Nov. 04 </p> 
