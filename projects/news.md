@@ -7,12 +7,16 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:33 PM CT, Nov. 05 </p> 
+ <p class="updated_time"> 12:51 PM CT, Nov. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59180744?at_medium=RSS&at_campaign=KARANGA">Ahmaud Arbery murder trial: Prosecutors reveal full footage of black jogger's death</a> BBC: Prosecutors in US state of Georgia say three white men assumed Ahmaud Arbery had committed a crime. 
+ <p class="updated_time"> 12:47 PM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/05/world/middleeast/erdogan-turkey-cop26.html">As Turkey Chafes at Erdogan, He Gets Spikier Abroad</a> NYT: President Recep Tayyip Erdogan canceled an appearance at the global climate talks over a perceived slight, part of a pattern of creating international dramas to bolster his domestic standing. 
+ <p class="updated_time"> 12:46 PM CT, Nov. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-scotland-glasgow-west-59165781?at_medium=RSS&at_campaign=KARANGA">Greta Thunberg: COP26 is a failure and PR exercise</a> BBC: The Swedish activist was speaking after thousands of climate protestors marched through Glasgow. 
+ <p class="updated_time"> 12:42 PM CT, Nov. 05 </p> 
+ <a href="https://www.nytimes.com/2021/11/05/world/asia/china-coronavirus-ruili.html">Near-Daily Covid Tests, Sleeping in Classrooms: Life in Covid-Zero China</a> NYT: Residents in Ruili, in southwestern China, have been locked down four times in the past year as part of the country’s quest to eliminate the virus. 
  <p class="updated_time"> 12:29 PM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/05/climate/cop26-john-kerry.html">John Kerry lauds progress at COP26 but warns, ‘Job not done.’</a> NYT: Mr. Kerry, President Biden’s climate envoy, acknowledged that many of the promises being put forward in Glasgow were only that — promises. 
- <p class="updated_time"> 12:23 PM CT, Nov. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59180744?at_medium=RSS&at_campaign=KARANGA">Ahmaud Arbery murder trial: Prosecutors reveal full footage of black jogger's death</a> BBC: Prosecutors say three white men assumed Ahmaud Arbery had committed a crime when they pursued him. 
  <p class="updated_time"> 12:22 PM CT, Nov. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59175765?at_medium=RSS&at_campaign=KARANGA">DR Congo's Gungu museum: Thousands of artefacts destroyed in fire</a> BBC: The now ruined artistic collections are considered some of the country's most important historical items. 
  <p class="updated_time"> 11:59 AM CT, Nov. 05 </p> 
@@ -53,8 +57,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/05/world/europe/france-macron-alexandre-benalla-guilty.html">Ex-Macron Aide Convicted of Assault and Posing as a Police Officer</a> NYT: The aide, Alexandre Benalla, who was fired in 2018 after videos emerged of him beating a man at a labor protest, was sentenced to serve a year of house arrest with electronic monitoring. 
  <p class="updated_time"> 09:36 AM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/05/world/states-sue-biden-vaccine-mandate.html">11 States Sue Over Biden's Vaccine Mandate for Big Companies</a> NYT: The lawsuit was filed a day after the announcement of a Jan. 4 deadline for the companies to begin their mandates or start weekly testing. 
- <p class="updated_time"> 09:32 AM CT, Nov. 05 </p> 
- <a href="https://www.nytimes.com/2021/11/05/world/asia/china-coronavirus-ruili.html">Near-Daily Covid Tests, Sleeping in Classrooms: Life in Covid-Zero China</a> NYT: Residents in Ruili, in southwestern China, have been locked down four times in the past year as part of the country’s quest to eliminate the virus. 
  <p class="updated_time"> 09:29 AM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/05/world/asia/india-diwali-covid.html">In India, Fears Grow That Diwali Celebrations Could Fuel Another Virus Spike</a> NYT: Epidemiologists are concerned that Covid cases will surge after shoppers thronged markets and hundreds of thousands traveled around the country to celebrate the festival. 
  <p class="updated_time"> 09:28 AM CT, Nov. 05 </p> 
@@ -208,6 +210,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:53 PM CT, Nov. 05 </p> 
+ <a href="https://www.nytimes.com/2021/11/05/us/politics/colin-powell-funeral.html">At Colin Powell's Funeral, Washington Is Pulled Together</a> NYT: Republicans and Democrats, including President Biden and two of his predecessors, were at the Washington National Cathedral to honor the former secretary of state. 
  <p class="updated_time"> 12:26 PM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/05/us/politics/project-veritas-investigation-ashley-biden-diary.html">People Tied to Project Veritas Scrutinized in Theft of Diary From Biden’s Daughter</a> NYT: The F.B.I. carried out search warrants in New York as part of a Justice Department investigation into how pages from Ashley Biden’s journal came to be published by a right wing website. 
  <p class="updated_time"> 12:18 PM CT, Nov. 05 </p> 
@@ -280,8 +284,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/04/1052320491/investigation-finds-federal-agencies-dismissed-threats-ahead-of-the-jan-6-attack">Investigation finds federal agencies dismissed threats ahead of the Jan. 6 attack</a> NPR: Washington Post reporter Carol Leonnig says President Trump froze key federal agencies, including the FBI and Dept. of  Defense, whose job it was to investigate and stop threats to national security. 
  <p class="updated_time"> 11:54 AM CT, Nov. 04 </p> 
  <a href="https://www.politico.com/news/2021/11/04/pelosi-domestic-agenda-519503">Pelosi amps up domestic-agenda pressure campaign, pressing Friday votes</a> Politico: Democratic leaders made headway in some areas, but key lawmakers were still drafting new language on immigration as late as 9 p.m. 
- <p class="updated_time"> 11:49 AM CT, Nov. 04 </p> 
- <a href="https://www.nytimes.com/2021/11/03/us/politics/school-republican-campaign-issue.html">Republicans Seize on Schools as a Wedge Issue to Unite the Party</a> NYT: Rallying around what it calls “parental rights,” the party is pushing to build on its victories this week by stoking white resentment and tapping into broader anger at the education system. 
  <p class="updated_time"> 11:09 AM CT, Nov. 04 </p> 
  <a href="https://www.npr.org/2021/11/04/1052346058/a-key-source-for-the-infamous-trump-russia-dossier-is-charged-with-lying-to-the-">A key source for the infamous Trump-Russia dossier is charged with lying to the FBI</a> NPR: Igor Danchenko was taken into custody Thursday as part of special counsel John Durham's investigation into the origins of the Trump-Russia probe. 
  <p class="updated_time"> 06:45 AM CT, Nov. 04 </p> 
