@@ -206,6 +206,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:49 PM CT, Nov. 05 </p> 
+ <a href="https://www.nytimes.com/2021/11/05/us/politics/project-veritas-investigation-ashley-biden-diary.html">People Tied to Project Veritas Scrutinized in Theft of Diary From Biden’s Daughter</a> NYT: The F.B.I. carried out search warrants in New York as part of a Justice Department investigation into how pages from Ashley Biden’s journal came to be published by a right wing website. 
  <p class="updated_time"> 03:56 PM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/05/us/politics/house-democrats-vote-infrastructure.html">What to Watch in the House on Friday</a> NYT: Democratic leaders were aiming to pass the $1 trillion bipartisan infrastructure bill, but they postponed a vote on the $1.85 trillion social safety net and climate change measure. 
  <p class="updated_time"> 03:38 PM CT, Nov. 05 </p> 
@@ -226,8 +228,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/05/house-democrats-infrastructure-vote-wait-megabill-519731">House Dems throw new curveball: Infrastructure vote, wait on party-line megabill</a> Politico: A progressive leader promptly rejected the latest in a dizzying round of strategic readjustments from Speaker Nancy Pelosi's leadership team. 
  <p class="updated_time"> 02:19 PM CT, Nov. 05 </p> 
  <a href="https://www.npr.org/2021/11/05/1052879445/university-florida-professors-testify-permission-desantis">University of Florida allows professors to testify in a voting rights case after all</a> NPR: The university is reversing its decision to bar three professors from serving as expert witnesses in a case against the state. The earlier decision was seen as an infringement of free speech. 
- <p class="updated_time"> 02:02 PM CT, Nov. 05 </p> 
- <a href="https://www.nytimes.com/2021/11/05/us/politics/project-veritas-investigation-ashley-biden-diary.html">People Tied to Project Veritas Scrutinized in Theft of Diary From Biden’s Daughter</a> NYT: The F.B.I. carried out search warrants in New York as part of a Justice Department investigation into how pages from Ashley Biden’s journal came to be published by a right wing website. 
  <p class="updated_time"> 01:44 PM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/article/vaccine-mandate-biden-osha.html">OSHA's Vaccine Mandate: Your Questions Answered</a> NYT: We’re answering your questions about the new OSHA rules for employers with 100 or more workers. This F.A.Q. was last updated at 7 p.m. 
  <p class="updated_time"> 12:18 PM CT, Nov. 05 </p> 
