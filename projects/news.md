@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:37 AM CT, Nov. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59175396?at_medium=RSS&at_campaign=KARANGA">US Navy sacks commanding officers aboard crashed submarine</a> BBC: The officers are fired after the USS Connecticut struck an undersea mountain in the South China Sea. 
  <p class="updated_time"> 05:26 AM CT, Nov. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59139572?at_medium=RSS&at_campaign=KARANGA">Israeli bookstores pull Sally Rooney's books in boycott row</a> BBC: It follows a backlash over the writer's refusal to let an Israeli firm publish her book in Hebrew. 
  <p class="updated_time"> 05:21 AM CT, Nov. 05 </p> 
@@ -43,6 +45,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59173259?at_medium=RSS&at_campaign=KARANGA">Japan death row inmates sue over same-day executions</a> BBC: Prisoners are only notified hours before they are to be executed by hanging. 
  <p class="updated_time"> 12:45 AM CT, Nov. 05 </p> 
  <a href="https://www.bbc.co.uk/news/business-59172665?at_medium=RSS&at_campaign=KARANGA">Inflation: Global food prices hit fresh 10-year high, UN says</a> BBC: Reduced harvests and supply chain disruptions are helping to push up the cost of food. 
+ <p class="updated_time"> 12:30 AM CT, Nov. 05 </p> 
+ <a href="https://www.wsj.com/articles/biden-europe-steel-aluminum-tariffs-11636063074">U.S.-EU Steel Tariffs Deal Is Onerous for Smaller Importers</a> WSJ: Complex quota system for metals will be tough to navigate, trade lawyers say, but supporters say it will help ease a supply crunch while preventing a flood of cheap imports. 
  <p class="updated_time"> 09:35 PM CT, Nov. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59172655?at_medium=RSS&at_campaign=KARANGA">Niger: At least 69 killed in gun attack</a> BBC: At least 69 people are killed when they were ambushed by suspected Islamist militants. 
  <p class="updated_time"> 09:08 PM CT, Nov. 04 </p> 
@@ -99,8 +103,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/04/climate/public-health-climate-change.html">Effort to Reframe Climate Change as a Health Crisis Gains Steam</a> NYT: Research has increasingly shown that warming is taking a deadly toll on human health. At the global climate summit in Glasgow, the issue has gained new prominence. 
  <p class="updated_time"> 11:13 AM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/world/middleeast/israel-budget.html">Israel Passes State Budget</a> NYT: The vote raised hopes that the country might be headed for a period of more political stability after the chaos of four elections in quick succession. 
- <p class="updated_time"> 11:01 AM CT, Nov. 04 </p> 
- <a href="https://www.bbc.co.uk/news/health-59165157?at_medium=RSS&at_campaign=KARANGA">High-risk Covid gene more common in South Asians</a> BBC: About 60% of people from South Asian backgrounds carry a gene that puts them at higher risk. 
  <p class="updated_time"> 10:47 AM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/world/europe/germany-covid-surge-daily-case-record.html">Facing a New Surge, Germany Sets a Daily Virus Case Record</a> NYT: The country registered 33,949 new coronavirus cases over a 24-hour period on Wednesday, surpassing a high set in December of last year. 
  <p class="updated_time"> 10:46 AM CT, Nov. 04 </p> 
@@ -111,16 +113,12 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/science-environment-59159018?at_medium=RSS&at_campaign=KARANGA">COP26: More than 40 countries pledge to quit coal</a> BBC: Countries pledge to shift away from coal and end fossil fuel financing, but key players are missing. 
  <p class="updated_time"> 08:45 AM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/03/us/mayor-eric-garcetti-of-los-angeles-tests-positive-for-the-virus.html">Mayor Eric Garcetti of Los Angeles tests positive for the virus.</a> NYT: Mr. Garcetti’s office said the mayor, who is in Scotland for a conference on climate change, was feeling good and had been fully vaccinated. 
- <p class="updated_time"> 08:42 AM CT, Nov. 04 </p> 
- <a href="https://www.wsj.com/articles/climate-finance-china-india-11636039142">China, India and Other Developing Nations Seek $1.3 Trillion a Year in Climate Finance</a> WSJ: Most of the world’s developing countries have backed a demand for wealthy nations to channel at least $1.3 trillion in climate finance to them annually starting in 2030, the opening salvo in one of the most contentious negotiating topics at the COP26 climate summit. 
  <p class="updated_time"> 08:36 AM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/world/australia/charge-cleo-smith.html">Cleo Smith Abduction: Australian Man Is Charged After 18-Day Search </a> NYT: The legal action came as the Australian authorities continued to address questions about how the police had been able to find Cleo Smith, who vanished from a remote campsite. 
  <p class="updated_time"> 08:19 AM CT, Nov. 04 </p> 
  <a href="https://www.bbc.co.uk/news/59147659?at_medium=RSS&at_campaign=KARANGA">Climate change: Facebook fails to flag denial, study finds</a> BBC: Researchers tracked thousands of posts denying climate change - and only 8% were marked as misinformation. 
  <p class="updated_time"> 07:13 AM CT, Nov. 04 </p> 
  <a href="https://www.wsj.com/articles/covid-19-coronavirus-coverup-tanzania-11636042309">Inside the World's Most Blatant Covid-19 Coverup: Secret Burials, a Dead President</a> WSJ: Tanzania denied the existence of the pandemic for months, even as thousands likely died. The country is a clue to its hidden global toll; “This is one of the government’s coronavirus cemeteries, but we’re not allowed to call it that.” 
- <p class="updated_time"> 06:31 AM CT, Nov. 04 </p> 
- <a href="https://www.wsj.com/articles/hong-kongs-top-court-narrows-scope-for-charging-protesters-11636027743">Hong Kong's Top Court Narrows Scope for Charging Protesters</a> WSJ: The city’s highest court ruled against the government in a rioting case, a decision likely to draw greater scrutiny from Beijing of the Chinese territory’s British-style justice system. 
  <p class="updated_time"> 05:26 AM CT, Nov. 04 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-56901261?at_medium=RSS&at_campaign=KARANGA">COP26: What is the Glasgow climate conference and why is it important?</a> BBC: A crucial climate change summit is being held in the UK - this is why it's important. 
  <p class="updated_time"> 04:53 AM CT, Nov. 04 </p> 
