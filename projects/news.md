@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:00 AM CT, Nov. 05 </p> 
+ <a href="https://www.nytimes.com/2021/11/05/world/europe/russia-nuclear-power-climate-change.html">A Nuclear-Powered Shower? Russia Tests a Climate Innovation.</a> NYT: A remote Siberian town now has its own miniature nuclear plant as a Russian state company tests a new model for residential heating. Some see it as a tool to minimize climate change. 
  <p class="updated_time"> 01:44 AM CT, Nov. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59160525?at_medium=RSS&at_campaign=KARANGA">Covid: WHO warns Europe once again at epicentre of pandemic</a> BBC: The WHO warns of 500,000 more deaths in Europe by February as cases soar across the continent. 
  <p class="updated_time"> 01:24 AM CT, Nov. 05 </p> 
@@ -75,8 +77,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-59161936?at_medium=RSS&at_campaign=KARANGA">Somizi Mhlongo: Gay TV star cancels Zimbabwe trip after churches complain</a> BBC: Somizi Mhlongo cancels a trip after a religious coalition tried to ban him because of his sexuality. 
  <p class="updated_time"> 02:09 PM CT, Nov. 04 </p> 
  <a href="https://www.wsj.com/articles/canada-strips-military-of-powers-to-investigate-sexual-misconduct-11636060090">Canada Strips Military of Powers to Investigate Sexual Misconduct</a> WSJ: Defense minister says all investigations and prosecutions of sexual offenses in the military will be handled now by civilian law enforcement. 
- <p class="updated_time"> 01:39 PM CT, Nov. 04 </p> 
- <a href="https://www.nytimes.com/2021/11/03/world/europe/belgium-congo-kidnapping.html">Torn From Parents in the Belgian Congo, Women Seek Reparations</a> NYT: Belgium has apologized for the kidnapping and deportation of thousands of mixed-race children under its colonial rule. Survivors say that reparations should be the next step. 
  <p class="updated_time"> 01:33 PM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/world/africa/south-africa-election-anc.html">A.N.C. Suffers Worst Election Setback Since End of Apartheid</a> NYT: In nationwide municipal elections, South Africans rebuked the African National Congress, handing it less than half the collective vote for the first time in its history. 
  <p class="updated_time"> 01:29 PM CT, Nov. 04 </p> 
