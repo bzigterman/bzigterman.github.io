@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:33 AM CT, Nov. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/health-59178291?at_medium=RSS&at_campaign=KARANGA">Covid: Pfizer says antiviral pill 89% effective in high risk cases</a> BBC: The company stopped clinical trials early because initial results for the drug were so positive. 
  <p class="updated_time"> 08:24 AM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/05/world/europe/cop26-mothers-pollution.html">Mothers Demand Action on Air Pollution at COP26</a> NYT: A letter to world leaders gathered at the U.N. climate conference in Glasgow was signed by nearly 500 parent groups from 44 countries. 
  <p class="updated_time"> 08:15 AM CT, Nov. 05 </p> 
@@ -19,8 +21,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/05/world/europe/cop-protests.html">At COP26, Youth Want Action, Accountability as Protesters Rally</a> NYT: For many, the climate conference has inspired mixed emotions: concern that their voices were not really being listened to, but also hope that their presence would help drive change. 
  <p class="updated_time"> 07:20 AM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/05/world/asia/singapore-capital-punishment-drugs.html">Rights Groups Urge Singapore Not to Execute Man With Mental Disability</a> NYT: The man, a Malaysian with an I.Q. of 69, was caught trying to smuggle an ounce and a half of heroin in 2009. Some are calling his planned hanging a human rights violation. 
- <p class="updated_time"> 07:14 AM CT, Nov. 05 </p> 
- <a href="https://www.bbc.co.uk/news/health-59178291?at_medium=RSS&at_campaign=KARANGA">Covid: Pfizer says antiviral pill 89% effective in high risk cases</a> BBC: The company stopped clinical trials early because initial results for the drug were so positive. 
  <p class="updated_time"> 07:05 AM CT, Nov. 05 </p> 
  <a href="https://www.bbc.co.uk/news/technology-59176826?at_medium=RSS&at_campaign=KARANGA">US offers $10m bounty for Colonial Pipeline hackers</a> BBC: The DarkSide ransomware attack led to a major US fuel pipeline being taken offline. 
  <p class="updated_time"> 05:37 AM CT, Nov. 05 </p> 
@@ -179,8 +179,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/03/world/asia/sunao-tsuboi-dead.html">Sunao Tsuboi, 96, Dies; Hiroshima Victim Who Lived to Tell His Story</a> NYT: After suffering through the agony of the attack and its aftermath, he devoted himself to spreading the message that nuclear weapons should be abolished. 
  <p class="updated_time"> 10:30 AM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/as-deadlines-loom-the-us-military-grants-few-vaccine-exemptions.html">As deadlines loom, the U.S. military grants few vaccine exemptions.</a> NYT: NA 
- <p class="updated_time"> 06:08 AM CT, Nov. 03 </p> 
- <a href="https://www.nytimes.com/2021/11/03/world/duterte-vows-to-punish-philippine-officials-for-slow-vaccine-delivery.html">Duterte vows to punish Philippine officials for slow vaccine delivery.</a> NYT: NA 
 
 
 </details>
