@@ -7,6 +7,12 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:14 AM CT, Nov. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/health-59178291?at_medium=RSS&at_campaign=KARANGA">Covid: Pfizer says antiviral pill 89% effective in high risk cases</a> BBC: The company stopped clinical trials early because initial results for the drug were so positive. 
+ <p class="updated_time"> 07:05 AM CT, Nov. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/technology-59176826?at_medium=RSS&at_campaign=KARANGA">US offers $10m bounty for Colonial Pipeline hackers</a> BBC: The DarkSide ransomware attack led to a major US fuel pipeline being taken offline. 
+ <p class="updated_time"> 06:58 AM CT, Nov. 05 </p> 
+ <a href="https://www.nytimes.com/2021/11/05/world/europe/cop-protests.html">At COP26, Youth Want Action, Accountability as Protesters Rally</a> NYT: For many, the climate conference has inspired mixed emotions: concern that their voices were not really being listened to, but also hope that their presence would help drive change. 
  <p class="updated_time"> 05:37 AM CT, Nov. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59175396?at_medium=RSS&at_campaign=KARANGA">US Navy sacks commanding officers of crashed submarine</a> BBC: The officers are fired after the USS Connecticut struck an undersea mountain in the South China Sea. 
  <p class="updated_time"> 05:26 AM CT, Nov. 05 </p> 
@@ -21,8 +27,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/05/world/asia/japan-quarantine-covid.html">Japan Will Cut Quarantine for Business Travelers to 3 Days</a> NYT: The easing of rules comes as cases decline significantly. The country has virtually closed its borders since the start of the pandemic. 
  <p class="updated_time"> 05:02 AM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/04/world/europe/brexit-britain-france-johnson-macron.html">With Fish, Trucks and Submarines, U.K. and France Bicker Over Brexit</a> NYT: A recent dispute over fishing rights illuminates a broader and more fundamental disagreement over Britain’s decision to leave the European Union. 
- <p class="updated_time"> 04:26 AM CT, Nov. 05 </p> 
- <a href="https://www.nytimes.com/2021/11/05/world/europe/cop-protests.html">At COP26, Youth Want Action, Accountability as Protesters Rally</a> NYT: For many, the climate conference has inspired mixed emotions: concern that their voices were not really being listened to, but also hope that their presence would help drive change. 
  <p class="updated_time"> 04:19 AM CT, Nov. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59161935?at_medium=RSS&at_campaign=KARANGA">Africa's week in pictures: 29 October - 4 November 2021</a> BBC: A selection of the best photos from the African continent and beyond. 
  <p class="updated_time"> 04:05 AM CT, Nov. 05 </p> 
@@ -31,14 +35,16 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/04/world/americas/biden-aide-covid-scotland.html">A White House aide who traveled abroad with Biden tests positive.</a> NYT: President Biden was not in close contact with the aide, who remains quarantined in Scotland and has not shown symptoms of Covid-19. 
  <p class="updated_time"> 04:00 AM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/05/world/europe/germany-black-woman-bundestag.html">First Black Woman in Bundestag Wants to Change Image of ‘Germanness’</a> NYT: After a deadly racist attack, Awet Tesfaiesus considered leaving Germany. Instead, she ran for Parliament with a “courage to change” slogan and won. 
- <p class="updated_time"> 03:43 AM CT, Nov. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-59172888?at_medium=RSS&at_campaign=KARANGA">Air Quality Index: Delhi air turns toxic after Diwali fireworks</a> BBC: India's capital woke up to a think blanket of smog as air quality dipped to hazardous levels. 
  <p class="updated_time"> 03:42 AM CT, Nov. 05 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59174876?at_medium=RSS&at_campaign=KARANGA">Abba on new album Voyage: We don't need to prove anything</a> BBC: As the band release Voyage, Benny and Bjorn speak to the BBC about being compared to their old music. 
+ <p class="updated_time"> 03:01 AM CT, Nov. 05 </p> 
+ <a href="https://www.wsj.com/articles/german-navy-eyes-on-china-adds-to-europes-pacific-presence-11636113718">German Navy, Eyes on China, Adds to Europe's Pacific Presence</a> WSJ: The frigate Bayern docked in Tokyo on Friday and will join the U.S., Japanese and other allied navies to build interoperability skills this month. 
  <p class="updated_time"> 02:56 AM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/05/world/europe/russia-nuclear-power-climate-change.html">A Nuclear-Powered Shower? Russia Tests a Climate Innovation.</a> NYT: A remote Siberian town now has its own miniature nuclear plant as a Russian state company tests a new model for residential heating. Some see it as a tool to minimize climate change. 
  <p class="updated_time"> 02:42 AM CT, Nov. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-59157836?at_medium=RSS&at_campaign=KARANGA">COP26: Emissions of rich put climate goals at risk - study</a> BBC: The carbon footprint of the wealthiest will grow but that of the poorest will stay small, a study says. 
+ <p class="updated_time"> 02:30 AM CT, Nov. 05 </p> 
+ <a href="https://www.wsj.com/articles/greta-thunberg-takes-on-role-as-cop26-critic-11636111801">Greta Thunberg Takes On Role as Harsh COP26 Critic</a> WSJ: The Swedish activist is headlining what’s expected to be a rowdy, hourslong march and rally in Glasgow after calling the summit “a two week celebration of business as usual and blah blah blah.” 
  <p class="updated_time"> 01:52 AM CT, Nov. 05 </p> 
  <a href="https://www.wsj.com/articles/japan-lifts-covid-19-ban-on-business-travelers-foreign-workers-11636109518">Japan Lifts Covid-19 Ban on Business Travelers, Foreign Workers</a> WSJ: As neighbor China sticks to its zero-Covid policy, Japan aligns itself closer with U.S. and Europe. 
  <p class="updated_time"> 01:24 AM CT, Nov. 05 </p> 
@@ -49,8 +55,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/business-59172665?at_medium=RSS&at_campaign=KARANGA">Inflation: Global food prices hit fresh 10-year high, UN says</a> BBC: Reduced harvests and supply chain disruptions are helping to push up the cost of food. 
  <p class="updated_time"> 12:30 AM CT, Nov. 05 </p> 
  <a href="https://www.wsj.com/articles/biden-europe-steel-aluminum-tariffs-11636063074">U.S.-EU Steel Tariffs Deal Is Onerous for Smaller Importers</a> WSJ: Complex quota system for metals will be tough to navigate, trade lawyers say, but supporters say it will help ease a supply crunch while preventing a flood of cheap imports. 
- <p class="updated_time"> 09:35 PM CT, Nov. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59172655?at_medium=RSS&at_campaign=KARANGA">Niger: At least 69 killed in gun attack</a> BBC: At least 69 people are killed when they were ambushed by suspected Islamist militants. 
  <p class="updated_time"> 09:08 PM CT, Nov. 04 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59133056?at_medium=RSS&at_campaign=KARANGA">Wishcycling: The dos and don'ts of being good at recycling</a> BBC: Ever paused over the recycling bin, wondering whether to add a pizza box? You could be a wishcycler. 
  <p class="updated_time"> 08:56 PM CT, Nov. 04 </p> 
@@ -70,7 +74,7 @@ permalink: /projects/news/
  <p class="updated_time"> 07:23 PM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/world/europe/covid-surge-europe-who.html">W.H.O. Official: 'Europe Is Back at Epicenter of the Pandemic'</a> NYT: The World Health Organization said Europe was responsible for nearly three-fifths of the world’s recent coronavirus cases, and that deaths in the region were surging. 
  <p class="updated_time"> 06:20 PM CT, Nov. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59168910?at_medium=RSS&at_campaign=KARANGA">Nostalgia-soaked photos capture legendary LA roller rink</a> BBC: Opened in 1979, Flipper's Roller Boogie Palace was a place for children and celebrities alike to skate. 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59168910?at_medium=RSS&at_campaign=KARANGA">Nostalgia-soaked photos capture legendary LA roller rink</a> BBC: Flipper's Roller Boogie Palace was a place for children and celebrities alike to skate. 
  <p class="updated_time"> 05:57 PM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/world/europe/italy-trieste-covid-protests.html">Trieste, Center of Italy’s Anti-Vaccine Protests, Is Now a Covid Hot Spot</a> NYT: After leading the resistance to the government’s new health pass, the northeastern port city of Trieste is home to a worrying spike in cases. 
  <p class="updated_time"> 05:54 PM CT, Nov. 04 </p> 
@@ -85,8 +89,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59139998?at_medium=RSS&at_campaign=KARANGA">Does the skyscraper still have a future?</a> BBC: China is limiting the number of tall buildings, at a time when offices across the world are filled with empty desks. 
  <p class="updated_time"> 04:17 PM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/world/africa/ethiopia-tigray-crackdown.html">Crackdown Sweeps Ethiopia’s Capital as War Draws Near</a> NYT: Government forces were going to door to door in the Ethiopian capital, rounding up ethnic Tigrayans, members of the same ethnic group as the rebels closing in. 
- <p class="updated_time"> 02:09 PM CT, Nov. 04 </p> 
- <a href="https://www.wsj.com/articles/canada-strips-military-of-powers-to-investigate-sexual-misconduct-11636060090">Canada Strips Military of Powers to Investigate Sexual Misconduct</a> WSJ: Defense minister says all investigations and prosecutions of sexual offenses in the military will be handled now by civilian law enforcement. 
  <p class="updated_time"> 01:33 PM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/world/africa/south-africa-election-anc.html">A.N.C. Suffers Worst Election Setback Since End of Apartheid</a> NYT: In nationwide municipal elections, South Africans rebuked the African National Congress, handing it less than half the collective vote for the first time in its history. 
  <p class="updated_time"> 01:29 PM CT, Nov. 04 </p> 
