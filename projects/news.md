@@ -7,20 +7,28 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:19 AM CT, Nov. 05 </p> 
+ <p class="updated_time"> 12:23 PM CT, Nov. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59180744?at_medium=RSS&at_campaign=KARANGA">Ahmaud Arbery murder trial: Prosecutors reveal full footage of black jogger's death</a> BBC: Prosecutors say three white men assumed Ahmaud Arbery had committed a crime when they pursued him. 
+ <p class="updated_time"> 11:59 AM CT, Nov. 05 </p> 
+ <a href="https://www.nytimes.com/2021/11/03/us/mayor-eric-garcetti-of-los-angeles-tests-positive-for-the-virus.html">Mayor Eric Garcetti of Los Angeles tests positive for the virus.</a> NYT: Mr. Garcetti’s office said the mayor, who is in Scotland for a conference on climate change, was feeling good and had been fully vaccinated. 
+ <p class="updated_time"> 11:59 AM CT, Nov. 05 </p> 
+ <a href="https://www.nytimes.com/2021/11/03/climate/al-gore-cop26.html">At COP26, Gore Says Satellite Emissions Monitoring Helps Climate-Change Fight</a> NYT: Real-time checks on where greenhouse gases are being produced may prove a powerful weapon in the fight to cool the earth. 
+ <p class="updated_time"> 11:57 AM CT, Nov. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/science-environment-59176666?at_medium=RSS&at_campaign=KARANGA">My Day at COP26: 'By helping out delegates I'm remembering granddad'</a> BBC: Harjot Singh Kambo is one of an army of volunteers helping COP26 visitors find their way around. Here he explains why the task is a very personal one for him. 
+ <p class="updated_time"> 11:49 AM CT, Nov. 05 </p> 
+ <a href="https://www.nytimes.com/2021/11/05/world/europe/cop-protests.html">At COP26, Youth Want Action, Accountability as Protesters Rally</a> NYT: For many, the climate conference has inspired mixed emotions: concern that their voices were not really being listened to, but also hope that their presence would help drive change. 
+ <p class="updated_time"> 11:42 AM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/05/world/europe/cop26-greta-thunberg.html">Greta Thunberg Assails Leaders Outside COP26 Climate Summit</a> NYT: “The governments of the global north countries are still refusing to take any drastic climate action,” she told protesters in Glasgow. 
  <p class="updated_time"> 11:17 AM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/04/world/europe/brexit-britain-france-johnson-macron.html">With Fish, Trucks and Submarines, U.K. and France Bicker Over Brexit</a> NYT: A recent dispute over fishing rights illuminates a broader and more fundamental disagreement over Britain’s decision to leave the European Union. 
  <p class="updated_time"> 11:14 AM CT, Nov. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59174383?at_medium=RSS&at_campaign=KARANGA">Vietnamese minister criticised over 'Salt-bae' gold-plated steak dinner</a> BBC: A video shows To Lam being fed gold-plated steak by the celebrity chef at his expensive London restaurant. 
+ <a href="https://www.bbc.co.uk/news/world-asia-59174383?at_medium=RSS&at_campaign=KARANGA">Vietnamese minister criticised over 'Salt Bae' gold-plated steak dinner</a> BBC: A video shows To Lam being fed gold-plated steak by the celebrity chef at his expensive London restaurant. 
  <p class="updated_time"> 11:11 AM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/05/climate/cop26-vanessa-nakate.html">Vanessa Nakate, Ugandan Climate Activist, Offers an Optimistic Vision</a> NYT: The 24-year-old from Uganda has emerged as a leading voice of young people agitating for climate action. 
  <p class="updated_time"> 10:48 AM CT, Nov. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59175317?at_medium=RSS&at_campaign=KARANGA">Russian diplomat found dead outside Berlin embassy</a> BBC: Reports of last month's death have only just emerged and suggest the man fell from an upper floor. 
  <p class="updated_time"> 10:47 AM CT, Nov. 05 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2021/11/05/1052364086/new-usaid-director-aims-to-shake-up-60-year-old-aid-agency-heres-her-new-vision">New USAID director aims to shake up 60-year-old aid agency. Here's her 'new vision'</a> NPR: Like any government agency, the biggest American foreign aid group has its problems. This week, its new administrator Samantha Power outlined her solutions. 
- <p class="updated_time"> 10:41 AM CT, Nov. 05 </p> 
- <a href="https://www.nytimes.com/2021/11/05/world/europe/cop-protests.html">At COP26, Youth Want Action, Accountability as Protesters Rally</a> NYT: For many, the climate conference has inspired mixed emotions: concern that their voices were not really being listened to, but also hope that their presence would help drive change. 
  <p class="updated_time"> 10:39 AM CT, Nov. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59162504?at_medium=RSS&at_campaign=KARANGA">Alexandre Benalla: Jail term for ex-Macron aide who beat up protesters</a> BBC: Alexandre Benalla was sacked after video of the assault at a May Day protest in 2018 emerged. 
  <p class="updated_time"> 10:37 AM CT, Nov. 05 </p> 
@@ -53,8 +61,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/05/1052695890/cancun-shootout-mexico-cartel">In a beach showdown by luxury hotels near Cancun, 2 people were shot dead </a> NPR: A commando of drug gang gunmen on Thursday stormed ashore at a beach on Mexico's resort-studded Caribbean coast in front of luxury hotels and executed two drug dealers from a rival gang. 
  <p class="updated_time"> 07:20 AM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/05/world/asia/singapore-capital-punishment-drugs.html">Rights Groups Urge Singapore Not to Execute Man With Mental Disability</a> NYT: The man, a Malaysian with an I.Q. of 69, was caught trying to smuggle an ounce and a half of heroin in 2009. Some are calling his planned hanging a human rights violation. 
- <p class="updated_time"> 07:05 AM CT, Nov. 05 </p> 
- <a href="https://www.bbc.co.uk/news/technology-59176826?at_medium=RSS&at_campaign=KARANGA">US offers $10m bounty for Colonial Pipeline hackers</a> BBC: The DarkSide ransomware attack led to a major US fuel pipeline being taken offline. 
  <p class="updated_time"> 06:41 AM CT, Nov. 05 </p> 
  <a href="https://www.wsj.com/articles/greta-thunberg-takes-on-role-as-cop26-critic-11636111801">Thunberg Leads Climate Protest, Criticizing COP26 Talks</a> WSJ: The Swedish activist headlined an hourslong march and rally in Glasgow after calling the summit ‘a two week celebration of business as usual and blah blah blah.’ 
  <p class="updated_time"> 05:37 AM CT, Nov. 05 </p> 
@@ -75,8 +81,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/global-food-prices-surge-as-inflation-spreads-11636119367">Global Food Prices Surge as Inflation Spreads</a> WSJ: Bad harvests and supply bottlenecks are leaving poor families hungry in the developing world, from Peru to the Philippines. 
  <p class="updated_time"> 04:31 AM CT, Nov. 05 </p> 
  <a href="https://www.wsj.com/articles/how-dna-tests-helped-a-jewish-man-trace-a-holocaust-mystery-to-israel-11636119082">How DNA Tests Helped a Jewish Man Trace a Holocaust Mystery to Israel</a> WSJ: Born in Nazi-occupied Poland, Bolek Krutz settled in New Jersey in 1969 and became an X-ray technician. For decades, he wondered who he really was. 
- <p class="updated_time"> 04:29 AM CT, Nov. 05 </p> 
- <a href="https://www.wsj.com/articles/getting-vaccines-to-the-world-next-time-11636118973">Getting Vaccines to the World Next Time</a> WSJ: We can now develop vaccines at record speed in response to a pandemic, but we need new ways to distribute them to everyone on the planet 
  <p class="updated_time"> 04:19 AM CT, Nov. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59161935?at_medium=RSS&at_campaign=KARANGA">Africa's week in pictures: 29 October - 4 November 2021</a> BBC: A selection of the best photos from the African continent and beyond. 
  <p class="updated_time"> 04:17 AM CT, Nov. 05 </p> 
@@ -87,20 +91,14 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/05/world/europe/germany-black-woman-bundestag.html">First Black Woman in Bundestag Wants to Change Image of ‘Germanness’</a> NYT: After a deadly racist attack, Awet Tesfaiesus considered leaving Germany. Instead, she ran for Parliament with a “courage to change” slogan and won. 
  <p class="updated_time"> 03:56 AM CT, Nov. 05 </p> 
  <a href="https://www.wsj.com/articles/auschwitz-tattoo-kit-auction-fuels-debate-in-israel-11636116964">Auschwitz Tattoo-Kit Auction Fuels Debate in Israel</a> WSJ: A court halted the auction of a rare set of tattoo needles that had purportedly been used to mark inmates at Auschwitz and had reignited a debate over whether Nazi-era artifacts should be bought or sold. 
- <p class="updated_time"> 03:43 AM CT, Nov. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-59172888?at_medium=RSS&at_campaign=KARANGA">Air Quality Index: Delhi air turns toxic after Diwali fireworks</a> BBC: India's capital woke up to a think blanket of smog as air quality dipped to hazardous levels. 
  <p class="updated_time"> 03:42 AM CT, Nov. 05 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59174876?at_medium=RSS&at_campaign=KARANGA">Abba on new album Voyage: We don't need to prove anything</a> BBC: As the band release Voyage, Benny and Bjorn speak to the BBC about being compared to their old music. 
  <p class="updated_time"> 02:56 AM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/05/world/europe/russia-nuclear-power-climate-change.html">A Nuclear-Powered Shower? Russia Tests a Climate Innovation.</a> NYT: A remote Siberian town now has its own miniature nuclear plant as a Russian state company tests a new model for residential heating. Some see it as a tool to minimize climate change. 
- <p class="updated_time"> 01:52 AM CT, Nov. 05 </p> 
- <a href="https://www.wsj.com/articles/japan-lifts-covid-19-ban-on-business-travelers-foreign-workers-11636109518">Japan Lifts Covid-19 Ban on Business Travelers, Foreign Workers</a> WSJ: As neighbor China sticks to its zero-Covid policy, Japan aligns itself closer with U.S. and Europe. 
  <p class="updated_time"> 01:24 AM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/05/world/australia/laughs-no-more-australians-are-reassessing-a-beloved-cartoonist.html">Laughs No More? Australians Are Reassessing a Beloved Cartoonist.</a> NYT: I used to think Michael Leunig’s drawings embodied the soul of our nation. Now, I’m not so sure. 
  <p class="updated_time"> 01:15 AM CT, Nov. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59173259?at_medium=RSS&at_campaign=KARANGA">Japan death row inmates sue over same-day executions</a> BBC: Prisoners are only notified hours before they are to be executed by hanging. 
- <p class="updated_time"> 12:30 AM CT, Nov. 05 </p> 
- <a href="https://www.wsj.com/articles/climate-promises-by-businesses-face-new-scrutiny-11636104600">Climate Promises by Businesses Face New Scrutiny</a> WSJ: Businesses have lined up to declare their carbon-neutral goals during the Glasgow climate summit. Investors and regulators will be watching to see if they follow through. 
  <p class="updated_time"> 09:08 PM CT, Nov. 04 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59133056?at_medium=RSS&at_campaign=KARANGA">Wishcycling: The dos and don'ts of being good at recycling</a> BBC: Ever paused over the recycling bin, wondering whether to add a pizza box? You could be a wishcycler. 
  <p class="updated_time"> 08:56 PM CT, Nov. 04 </p> 
@@ -165,10 +163,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/04/1052291183/spies-on-opposite-sides-of-the-cold-war-unite-in-from-warsaw-with-love">Spies on opposite sides of the Cold War unite in 'From Warsaw With Love'</a> NPR: Reporter John Pomfret interviewed government officials and intelligence operatives and mined declassified files in Poland to write his fascinating story of the Polish-U.S. intelligence relationship. 
  <p class="updated_time"> 09:06 AM CT, Nov. 04 </p> 
  <a href="https://www.npr.org/2021/11/04/1052267118/climate-change-carbon-dioxide-emissions-global-carbon-budget">Earth has 11 years to cut emissions to avoid dire climate scenarios, a report says</a> NPR: Carbon dioxide emissions are rebounding after a dip in 2020, and researchers say that at the current rate, Earth's "carbon budget" will be exhausted in roughly 11 years. 
- <p class="updated_time"> 08:54 AM CT, Nov. 04 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-59159018?at_medium=RSS&at_campaign=KARANGA">COP26: More than 40 countries pledge to quit coal</a> BBC: Countries pledge to shift away from coal and end fossil fuel financing, but key players are missing. 
- <p class="updated_time"> 08:45 AM CT, Nov. 04 </p> 
- <a href="https://www.nytimes.com/2021/11/03/us/mayor-eric-garcetti-of-los-angeles-tests-positive-for-the-virus.html">Mayor Eric Garcetti of Los Angeles tests positive for the virus.</a> NYT: Mr. Garcetti’s office said the mayor, who is in Scotland for a conference on climate change, was feeling good and had been fully vaccinated. 
  <p class="updated_time"> 08:37 AM CT, Nov. 04 </p> 
  <a href="https://www.npr.org/sections/coronavirus-live-updates/2021/11/04/1052281073/uk-merck-molnupiravir-covid-drug">The U.K. approves Merck's COVID-19 antiviral pill, calling it a world first</a> NPR: "The U.K. is now the first country in the world to approve an antiviral that can be taken at home for COVID-19," Health and Social Care Secretary Sajid Javid said. 
  <p class="updated_time"> 08:36 AM CT, Nov. 04 </p> 
@@ -203,8 +197,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/03/us/politics/drone-strike-kabul-child.html">Video Showed Child in Area Minutes Before Kabul Drone Strike</a> NYT: An investigation of the Aug. 29 airstrike, which mistakenly killed 10 civilians, including seven children, did not recommend any disciplinary action. 
  <p class="updated_time"> 04:49 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/nicola-sturgeon-scotland.html">Scotland's Nicola Sturgeon: 'We're Running out of Time."</a> NYT: The leader of the nation hosting COP26 said she hoped that a century from now, people will look back and “describe Glasgow as the place which really took the correct fork in the road for our planet.” 
- <p class="updated_time"> 03:09 PM CT, Nov. 03 </p> 
- <a href="https://www.nytimes.com/2021/11/03/climate/al-gore-cop26.html">At COP26, Gore Says Satellite Emissions Monitoring Helps Climate-Change Fight</a> NYT: Real-time checks on where greenhouse gases are being produced may prove a powerful weapon in the fight to cool the earth. 
  <p class="updated_time"> 02:32 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/europe/greece-covid-restrictions.html">Greece Tightens Covid Restrictions on the Unvaccinated</a> NYT: The restrictions start Saturday and target unvaccinated people, said the country’s health minister, Thanos Plevris. 
  <p class="updated_time"> 12:38 PM CT, Nov. 03 </p> 
@@ -218,6 +210,14 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:18 PM CT, Nov. 05 </p> 
+ <a href="https://www.nytimes.com/2021/11/05/business/congress-mckinsey-opioid-crisis.html">Congress Is Investigating McKinsey Over Its Role in the Opioid Crisis</a> NYT: A House committee has requested documents related to the firm’s advice to drug makers and potential conflicts of interest with the F.D.A. 
+ <p class="updated_time"> 12:10 PM CT, Nov. 05 </p> 
+ <a href="https://www.nytimes.com/2021/11/05/arts/design/hunter-biden-exhibition-berges-gallery.html">Hunter Biden’s Solo Exhibition: Emotionally Honest, Generically Smooth</a> NYT: The president’s son has turned to art as a career. “The Journey Home” is his first solo exhibition. 
+ <p class="updated_time"> 12:06 PM CT, Nov. 05 </p> 
+ <a href="https://www.nytimes.com/2021/11/05/arts/design/hunter-biden-art-buyers.html">At Hunter Biden’s Art Show, Line, Color and Questions</a> NYT: Paintings by the president’s son are drawing visitors to a gallery in SoHo, and also criticism from those who worry that purchasers might hope to be buying not just art, but access. 
+ <p class="updated_time"> 11:51 AM CT, Nov. 05 </p> 
+ <a href="https://www.nytimes.com/2021/11/05/us/politics/project-veritas-investigation-ashley-biden-diary.html">People Tied to Project Veritas Scrutinized in Theft of Diary From Biden’s Daughter</a> NYT: The F.B.I. carried out search warrants in New York as part of a Justice Department investigation into how pages from Ashley Biden’s journal came to be published by a right wing website. 
  <p class="updated_time"> 10:32 AM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/05/us/politics/house-democrats-vote-infrastructure.html">What to Watch in the House on Friday</a> NYT: If House Democrats succeed, they will pass two marquee pieces of legislation by day’s end, sending one bill to the president’s desk and the other to the Senate. 
  <p class="updated_time"> 10:20 AM CT, Nov. 05 </p> 
@@ -246,8 +246,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/05/kyrsten-sinema-multi-level-marketing-labor-519661">Sinema’s raking in cash from MLMs. They want to kill her party’s labor bill.</a> Politico: The Arizona senator is one of just a few lawmakers that multilevel marketing businesses —often derided as pyramid schemes — are giving to. 
  <p class="updated_time"> 09:54 PM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/us/politics/robert-santos-census-bureau.html">Robert Santos Confirmed as First Latino to Lead Census Bureau</a> NYT: The confirmation on Thursday brings a permanent head to the agency after a turbulent period under the Trump administration. 
- <p class="updated_time"> 06:59 PM CT, Nov. 04 </p> 
- <a href="https://www.nytimes.com/2021/11/03/us/politics/democrat-losses-2022.html">Reeling From Surprise Losses, Democrats Sound the Alarm for 2022</a> NYT: Party officials say the White House and Congress must do more to address the electorate’s deep malaise or risk watching voters lurch back toward the G.O.P. by default. 
  <p class="updated_time"> 06:54 PM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/article/vaccine-mandate-biden-osha.html">OSHA's Vaccine Mandate: Your Questions Answered</a> NYT: We’re answering your questions about the new OSHA rules for employers with 100 or more workers. This F.A.Q. was last updated at 7 p.m. 
  <p class="updated_time"> 06:29 PM CT, Nov. 04 </p> 
@@ -294,16 +292,10 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/04/1052248802/progressives-are-ready-to-vote-on-biden-agenda-bills-rep-jayapal-says">Progressives are ready to vote on Biden agenda bills, Rep. Jayapal says</a> NPR: NPR's Noel King talks to Democratic Rep. Pramila Jayapal of Washington, chair of the Congressional Progressive Caucus, about where they stand on the infrastructure bill as a vote nears in Congress. 
  <p class="updated_time"> 05:13 AM CT, Nov. 04 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/04/for-dems-its-2009-all-over-again-494977">POLITICO Playbook: For Dems, it’s ’2009 all over again’</a> Politico: And New Jersey Gov. Phil Murphy wins reelection narrowly. 
- <p class="updated_time"> 04:09 AM CT, Nov. 04 </p> 
- <a href="https://www.nytimes.com/2021/11/03/us/politics/air-force-reaches-vaccine-deadline.html">U.S. Air Force Has a 97 Percent Vaccine Rate for Active Duty Troops</a> NYT: While the Air Force has the earliest deadline, active duty members in all branches are nearing their goals — until Reserve and National Guard forces are counted. 
  <p class="updated_time"> 08:37 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/us/politics/biden-rejects-payments-migrants.html">Biden Rejects $450,000 Payments for Separated Migrants</a> NYT: “That’s not going to happen,” the president said about proposed compensation for a Trump administration policy that divided thousands of parents and children. 
- <p class="updated_time"> 07:53 PM CT, Nov. 03 </p> 
- <a href="https://www.nytimes.com/2021/11/03/us/politics/biden-covid-vaccine-kids.html">Biden Urges Parents to Get Their Younger Children Vaccinated</a> NYT: A vaccination program for children will roll out next week with more doses shipping each day, he said, calling it “a day of relief and celebration.” 
  <p class="updated_time"> 06:17 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/us/politics/virginia-governor-youngkin-trump.html">Youngkin’s Dance With Trump Was Pivotal. But Is It Repeatable?</a> NYT: Glenn Youngkin’s victory in Virginia may inspire Republican imitators vying to win over Trump supporters without embracing the former president outright. 
- <p class="updated_time"> 04:29 PM CT, Nov. 03 </p> 
- <a href="https://www.nytimes.com/2021/11/03/us/politics/pelosi-paid-leave.html">House Democrats Revive Paid Leave Program, Ignoring Manchin’s Concerns</a> NYT: The House plans to add a provision to provide four weeks of federally paid family and medical leave to their social policy bill, but it is all but certain to be jettisoned by the Senate. 
  <p class="updated_time"> 02:28 PM CT, Nov. 03 </p> 
  <a href="https://www.politico.com/news/2021/11/03/senate-republicans-voting-reform-block-519082">Senate GOP blocks latest Dem push for voting reform</a> Politico: Alaska’s Lisa Murkowski was the only Republican to join Democrats on the bill named for the late Rep. John Lewis. 
  <p class="updated_time"> 12:36 PM CT, Nov. 03 </p> 
