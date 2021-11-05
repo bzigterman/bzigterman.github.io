@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:31 PM CT, Nov. 05 </p> 
+ <a href="https://www.nytimes.com/2021/11/05/world/africa/un-rights-panel-sudan-coup.html">U.N. Rights Panel Pressures Sudan Over Coup</a> NYT: The Human Rights Council appointed an expert to investigate abuses in the country since the military seized power on Oct. 25, and members called for the prime minister’s release. 
  <p class="updated_time"> 03:23 PM CT, Nov. 05 </p> 
  <a href="https://www.npr.org/2021/11/05/1052968032/having-jailed-opposition-candidates-daniel-ortega-is-set-to-win-nicaragua-presid">Having jailed opposition candidates, Daniel Ortega is set to win Nicaragua presidency</a> NPR: Nicaragua's President Daniel Ortega will likely be reelected Sunday. He has jailed political opponents and ensured the vote will be in his favor. 
  <p class="updated_time"> 03:23 PM CT, Nov. 05 </p> 
@@ -37,8 +39,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-59175765?at_medium=RSS&at_campaign=KARANGA">DR Congo's Gungu museum: Thousands of artefacts destroyed in fire</a> BBC: The now ruined artistic collections are considered some of the country's most important historical items. 
  <p class="updated_time"> 11:59 AM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/03/us/mayor-eric-garcetti-of-los-angeles-tests-positive-for-the-virus.html">Mayor Eric Garcetti of Los Angeles tests positive for the virus.</a> NYT: Mr. Garcetti’s office said the mayor, who is in Scotland for a conference on climate change, was feeling good and had been fully vaccinated. 
- <p class="updated_time"> 11:59 AM CT, Nov. 05 </p> 
- <a href="https://www.nytimes.com/2021/11/03/climate/al-gore-cop26.html">At COP26, Gore Says Satellite Emissions Monitoring Helps Climate-Change Fight</a> NYT: Real-time checks on where greenhouse gases are being produced may prove a powerful weapon in the fight to cool the earth. 
  <p class="updated_time"> 11:57 AM CT, Nov. 05 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59176666?at_medium=RSS&at_campaign=KARANGA">My Day at COP26: 'By helping out delegates I'm remembering granddad'</a> BBC: Harjot Singh Kambo is one of an army of volunteers helping COP26 visitors find their way around. Here he explains why the task is a very personal one for him. 
  <p class="updated_time"> 11:17 AM CT, Nov. 05 </p> 
@@ -208,6 +208,10 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:38 PM CT, Nov. 05 </p> 
+ <a href="https://www.npr.org/2021/11/05/1052968081/democrats-and-some-republicans-fear-how-trumps-election-lies-may-affect-democrac">Democrats and some Republicans fear how Trump's election lies may affect democracy</a> NPR: Democrats and some anti-Trump Republicans are panicked about the impact of the ex-president's election lies on American democracy. They see worst-case scenarios looming — but few, if any, solutions. 
+ <p class="updated_time"> 03:30 PM CT, Nov. 05 </p> 
+ <a href="https://www.npr.org/2021/11/05/1052968067/federal-watchdogs-want-more-power-to-investigate-wrongdoing-within-the-governmen">Federal watchdogs want more power to investigate wrongdoing within the government</a> NPR: Inspectors general are asking Congress for more job protections and the power to subpoena people for testimony in what they call an effort at greater accountability in government. 
  <p class="updated_time"> 03:23 PM CT, Nov. 05 </p> 
  <a href="https://www.npr.org/2021/11/05/1052968046/house-democrats-are-hoping-to-pass-spending-package-and-infrastructure-bill">House Democrats are hoping to pass spending package and infrastructure bill</a> NPR: Democratic leaders in the House are still hoping to vote on a large part of President Joe Biden's domestic agenda Friday. But as the clock winds down, they're struggling to round up the votes. 
  <p class="updated_time"> 03:23 PM CT, Nov. 05 </p> 
@@ -278,10 +282,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/04/us/politics/biden-donors-white-house.html">Why Big Donors to Biden's 2020 Campaign Are Frustrated</a> NYT: Some of the top Democratic contributors have become increasingly dissatisfied with a lack of communication from the White House — and impatient with inaction on voting rights. 
  <p class="updated_time"> 03:23 PM CT, Nov. 04 </p> 
  <a href="https://www.npr.org/2021/11/04/1052485262/democrats-are-making-a-3rd-attempt-at-immigration-reform-using-a-social-spending">Democrats are making a 3rd attempt at immigration reform using a social spending bill</a> NPR: Congressional Democrats are trying — yet again — for a long shot chance at immigration reform. For several months, lawmakers have tried to force the effort into a partisan spending bill. 
- <p class="updated_time"> 03:23 PM CT, Nov. 04 </p> 
- <a href="https://www.npr.org/2021/11/04/1052485210/philadelphia-councilmember-on-new-city-law-banning-minor-driving-infractions">Philadelphia councilmember on new city law banning minor driving infractions</a> NPR: NPR's Ailsa Chang talks with Philadelphia councilman Isaiah Thomas about a new law that prevents police officers from making low-level traffic stops, which disproportionately affect Black drivers. 
- <p class="updated_time"> 03:23 PM CT, Nov. 04 </p> 
- <a href="https://www.npr.org/2021/11/04/1052485203/new-vaccine-requirements-go-into-effect-jan-4">New vaccine requirements go into effect Jan. 4</a> NPR: NPR's Audie Cornish speaks with Secretary of Labor Marty Walsh about the Biden administration's new COVID-19 testing and vaccine requirements. 
  <p class="updated_time"> 02:51 PM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/us/politics/trump-jan-6-documents.html">Judge Questions Trump’s Grounds for Keeping Jan. 6 Documents Secret</a> NYT: In a hearing on Thursday, a federal judge voiced skepticism about the former president’s claim that hundreds of pages of documents related to the riot should be shielded by executive privilege. 
  <p class="updated_time"> 02:41 PM CT, Nov. 04 </p> 
