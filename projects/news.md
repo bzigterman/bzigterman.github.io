@@ -9,6 +9,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 10:41 AM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/05/world/europe/cop-protests.html">At COP26, Youth Want Action, Accountability as Protesters Rally</a> NYT: For many, the climate conference has inspired mixed emotions: concern that their voices were not really being listened to, but also hope that their presence would help drive change. 
+ <p class="updated_time"> 10:39 AM CT, Nov. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59162504?at_medium=RSS&at_campaign=KARANGA">Alexandre Benalla: Jail term for ex-Macron aide who beat up protesters</a> BBC: Alexandre Benalla was sacked after video of the assault at a May Day protest in 2018 emerged. 
  <p class="updated_time"> 10:37 AM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/05/world/europe/persistent-shortages-are-stunting-german-economic-growth.html">Germany's Economy Hindered by Supply Chain Problems </a> NYT: The order books in Europe’s largest economy are full, but a lack of parts and raw materials means companies are struggling to fill them. 
  <p class="updated_time"> 10:31 AM CT, Nov. 05 </p> 
@@ -229,7 +231,7 @@ permalink: /projects/news/
  <p class="updated_time"> 09:23 AM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/04/us/politics/house-democrats-biden.html">House Democrats Hunt for Votes to Pass Biden’s Domestic Agenda</a> NYT: Speaker Nancy Pelosi wanted a vote on Thursday night on a $1.85 trillion social policy and climate bill, but moderates pushed back and action was postponed until Friday. 
  <p class="updated_time"> 06:57 AM CT, Nov. 05 </p> 
- <a href="https://www.npr.org/2021/11/05/1052206451/house-is-poised-for-a-vote-on-its-spending-plan-but-hurdles-remain">House is poised for a vote on its spending plan, but hurdles remain</a> NPR: Democrats have been debating the scope of President Biden's Build Back Better agenda for months and still haven't reached consensus. Even if the House OKs the bill, changes are expected in the Senate. 
+ <a href="https://www.npr.org/2021/11/05/1052206451/house-is-poised-for-a-vote-on-its-spending-plan-but-hurdles-remain">Biden urges House to pass social spending bill and infrastructure bill </a> NPR: Democrats have been debating the scope of President Biden's Build Back Better agenda for months and still haven't reached consensus. Even if the House OKs the bill, changes are expected in the Senate. 
  <p class="updated_time"> 06:26 AM CT, Nov. 05 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/11/05/here-goes-the-house-spending-and-infrastructure-votes-teed-up-494996">Here goes the House: spending and infrastructure votes tee’d up</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 05:19 AM CT, Nov. 05 </p> 
@@ -245,7 +247,7 @@ permalink: /projects/news/
  <p class="updated_time"> 03:30 AM CT, Nov. 05 </p> 
  <a href="https://www.politico.com/news/2021/11/05/pelosi-dems-final-push-519607">Pelosi tries to rev House Dems after season in the ditch</a> Politico: "There’s a point where you've got to stop talking," Rep. Peter Welch (D-Vt.) said. But can the House get there? 
  <p class="updated_time"> 03:30 AM CT, Nov. 05 </p> 
- <a href="https://www.politico.com/news/2021/11/05/kyrsten-sinema-multi-level-marketing-labor-519661">Sinema's raking in cash from MLMs. They want to kill her party’s labor bill.</a> Politico: The Arizona senator is one of just a few lawmakers that multilevel marketing businesses —often derided as pyramid schemes — are giving to. 
+ <a href="https://www.politico.com/news/2021/11/05/kyrsten-sinema-multi-level-marketing-labor-519661">Sinema’s raking in cash from MLMs. They want to kill her party’s labor bill.</a> Politico: The Arizona senator is one of just a few lawmakers that multilevel marketing businesses —often derided as pyramid schemes — are giving to. 
  <p class="updated_time"> 09:54 PM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/us/politics/robert-santos-census-bureau.html">Robert Santos Confirmed as First Latino to Lead Census Bureau</a> NYT: The confirmation on Thursday brings a permanent head to the agency after a turbulent period under the Trump administration. 
  <p class="updated_time"> 06:59 PM CT, Nov. 04 </p> 
