@@ -7,16 +7,18 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:04 PM CT, Nov. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59175404?at_medium=RSS&at_campaign=KARANGA">Ethiopia urges ex-soldiers to join fight against Tigray rebels</a> BBC: The army calls on former military personnel to join it, as rebel forces advance on the capital. 
+ <p class="updated_time"> 01:02 PM CT, Nov. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-scotland-glasgow-west-59165781?at_medium=RSS&at_campaign=KARANGA">Greta Thunberg: COP26 is a failure and PR exercise</a> BBC: The Swedish activist was speaking after thousands of climate protestors marched through Glasgow. 
  <p class="updated_time"> 12:51 PM CT, Nov. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59180744?at_medium=RSS&at_campaign=KARANGA">Ahmaud Arbery murder trial: Prosecutors reveal full footage of black jogger's death</a> BBC: Prosecutors in US state of Georgia say three white men assumed Ahmaud Arbery had committed a crime. 
  <p class="updated_time"> 12:47 PM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/05/world/middleeast/erdogan-turkey-cop26.html">As Turkey Chafes at Erdogan, He Gets Spikier Abroad</a> NYT: President Recep Tayyip Erdogan canceled an appearance at the global climate talks over a perceived slight, part of a pattern of creating international dramas to bolster his domestic standing. 
- <p class="updated_time"> 12:46 PM CT, Nov. 05 </p> 
- <a href="https://www.bbc.co.uk/news/uk-scotland-glasgow-west-59165781?at_medium=RSS&at_campaign=KARANGA">Greta Thunberg: COP26 is a failure and PR exercise</a> BBC: The Swedish activist was speaking after thousands of climate protestors marched through Glasgow. 
  <p class="updated_time"> 12:42 PM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/05/world/asia/china-coronavirus-ruili.html">Near-Daily Covid Tests, Sleeping in Classrooms: Life in Covid-Zero China</a> NYT: Residents in Ruili, in southwestern China, have been locked down four times in the past year as part of the country’s quest to eliminate the virus. 
  <p class="updated_time"> 12:29 PM CT, Nov. 05 </p> 
- <a href="https://www.nytimes.com/2021/11/05/climate/cop26-john-kerry.html">John Kerry lauds progress at COP26 but warns, ‘Job not done.’</a> NYT: Mr. Kerry, President Biden’s climate envoy, acknowledged that many of the promises being put forward in Glasgow were only that — promises. 
+ <a href="https://www.nytimes.com/2021/11/05/climate/cop26-john-kerry.html">John Kerry Lauds Progress at COP26 but Warns, ‘Job Not Done.’</a> NYT: Mr. Kerry, President Biden’s climate envoy, acknowledged that many of the promises being put forward in Glasgow were only that — promises. 
  <p class="updated_time"> 12:22 PM CT, Nov. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59175765?at_medium=RSS&at_campaign=KARANGA">DR Congo's Gungu museum: Thousands of artefacts destroyed in fire</a> BBC: The now ruined artistic collections are considered some of the country's most important historical items. 
  <p class="updated_time"> 11:59 AM CT, Nov. 05 </p> 
@@ -43,8 +45,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59162504?at_medium=RSS&at_campaign=KARANGA">Alexandre Benalla: Jail term for ex-Macron aide who beat up protesters</a> BBC: Alexandre Benalla was sacked after video of the assault at a May Day protest in 2018 emerged. 
  <p class="updated_time"> 10:37 AM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/05/world/europe/persistent-shortages-are-stunting-german-economic-growth.html">Germany's Economy Hindered by Supply Chain Problems </a> NYT: The order books in Europe’s largest economy are full, but a lack of parts and raw materials means companies are struggling to fill them. 
- <p class="updated_time"> 10:31 AM CT, Nov. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59175404?at_medium=RSS&at_campaign=KARANGA">Ethiopia urges ex-soldiers to join fight against Tigray rebels</a> BBC: The army has called on ex-personnel to join it as rebel forces advance on the capital. 
  <p class="updated_time"> 10:23 AM CT, Nov. 05 </p> 
  <a href="https://www.npr.org/2021/11/05/1052682152/cop26-climate-pledges-iea-temperature-rise-carbon">Latest climate pledges could limit global temperature rise, a new report says</a> NPR: The International Energy Agency says that if nations honor their latest pledges to reduce greenhouse gas emissions, global temperatures could be held to 1.8 degrees Celsius above preindustrial levels. 
  <p class="updated_time"> 10:13 AM CT, Nov. 05 </p> 
