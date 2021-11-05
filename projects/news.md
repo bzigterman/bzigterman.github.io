@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:43 AM CT, Nov. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-59172888?at_medium=RSS&at_campaign=KARANGA">Air Quality Index: Delhi air turns toxic after Diwali fireworks</a> BBC: India's capital woke up to a think blanket of smog as air quality dipped to hazardous levels. 
+ <p class="updated_time"> 03:42 AM CT, Nov. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-59174876?at_medium=RSS&at_campaign=KARANGA">Abba on new album Voyage: We don't need to prove anything</a> BBC: As the band release Voyage, Benny and Bjorn speak to the BBC about being compared to their old music. 
  <p class="updated_time"> 02:56 AM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/05/world/europe/russia-nuclear-power-climate-change.html">A Nuclear-Powered Shower? Russia Tests a Climate Innovation.</a> NYT: A remote Siberian town now has its own miniature nuclear plant as a Russian state company tests a new model for residential heating. Some see it as a tool to minimize climate change. 
  <p class="updated_time"> 02:42 AM CT, Nov. 05 </p> 
@@ -17,8 +21,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59173259?at_medium=RSS&at_campaign=KARANGA">Japan death row inmates sue over same-day executions</a> BBC: Prisoners are only notified hours before they are to be executed by hanging. 
  <p class="updated_time"> 12:45 AM CT, Nov. 05 </p> 
  <a href="https://www.bbc.co.uk/news/business-59172665?at_medium=RSS&at_campaign=KARANGA">Inflation: Global food prices hit fresh 10-year high, UN says</a> BBC: Reduced harvests and supply chain disruptions are helping to push up the cost of food. 
- <p class="updated_time"> 12:40 AM CT, Nov. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-59172888?at_medium=RSS&at_campaign=KARANGA">Air Quality Index: Delhi air turns toxic after Diwali fireworks</a> BBC: India's capital woke up to a think blanket of smog as air quality dipped to hazardous levels. 
  <p class="updated_time"> 09:35 PM CT, Nov. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59172655?at_medium=RSS&at_campaign=KARANGA">Niger: At least 69 killed in gun attack</a> BBC: At least 69 people are killed when they were ambushed by suspected Islamist militants. 
  <p class="updated_time"> 09:08 PM CT, Nov. 04 </p> 
@@ -161,8 +163,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/03/world/asia/isis-afghanistan-taliban.html">ISIS Poses a Growing Threat to New Taliban Government in Afghanistan</a> NYT: The Taliban takeover was supposed to bring an end to war, the new government promised. But a growing insurgency is upending security and raising alarms for the international community. 
  <p class="updated_time"> 01:46 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/europe/cop26-greenwashing-protest.html">Protesters March Against ‘Greenwashing' at COP26</a> NYT: As the focus of the Glasgow summit turns to funding, protesters call for greater accountability for companies’ climate promises. 
- <p class="updated_time"> 01:35 PM CT, Nov. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59157060?at_medium=RSS&at_campaign=KARANGA">Michelle Wu makes history as first Asian American woman elected as Boston mayor</a> BBC: She is the first woman and Asian American elected to lead Massachusetts' capital city. 
  <p class="updated_time"> 12:42 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/europe/cop26-summit-lines.html">COP26 Summit Attendees Frustrated With Long Lines and Access</a> NYT: One veteran of the annual gathering described it as the “poorest planed” to date. A young American activist called it a “hellscape.” 
  <p class="updated_time"> 12:38 PM CT, Nov. 03 </p> 
@@ -188,6 +188,10 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:30 AM CT, Nov. 05 </p> 
+ <a href="https://www.politico.com/news/2021/11/05/pelosi-dems-final-push-519607">Pelosi revs House Dem engines after season in the ditch</a> Politico: "There’s a point where you've got to stop talking," Rep. Peter Welch (D-Vt.) said of the party's long-negotiated social spending bill. 
+ <p class="updated_time"> 03:30 AM CT, Nov. 05 </p> 
+ <a href="https://www.politico.com/news/2021/11/05/kyrsten-sinema-multi-level-marketing-labor-519661">Sinema’s raking in cash from controversial multi-level marketing firms. They want to kill her party’s labor bill.</a> Politico: The Arizona senator is one of just a few lawmakers the industry is giving to. 
  <p class="updated_time"> 10:45 PM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/us/politics/house-democrats-biden.html">House Democrats Hunt for Votes to Pass Biden’s Domestic Agenda</a> NYT: Speaker Nancy Pelosi wanted a vote on Thursday night on a $1.85 trillion social policy and climate bill, but moderates pushed back and action was postponed until Friday. 
  <p class="updated_time"> 09:54 PM CT, Nov. 04 </p> 
@@ -286,8 +290,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/10/30/call-logs-speech-drafts-among-records-trump-is-trying-to-block-from-jan-6-investigators-517796">Call logs, speech drafts among records Trump is trying to block from Jan. 6 investigators</a> Politico: The former president's effort to suppress more than 750 pages of records is far broader than previously known, a new court filing reveals. 
  <p class="updated_time"> 05:30 PM CT, Oct. 29 </p> 
  <a href="https://www.politico.com/news/2021/10/29/you-have-a-manchin-problem-paid-leave-tossed-aside-despite-wooing-of-wva-senator-517731">Manchin upends paid leave, a benefit ‘personal to the president’</a> Politico: "We kept hearing, 'You have a Manchin problem,'" Molly Day, executive director of Paid Leave for the U.S., said. "So we kept digging in." 
- <p class="updated_time"> 04:47 PM CT, Oct. 29 </p> 
- <a href="https://www.politico.com/news/2021/10/29/biden-agenda-stalled-again-chaos-517711">Jayapal warned Klain not to push an infrastructure vote. Then chaos ensued.</a> Politico: It started when a top House progressive and the White House chief of staff got on the phone. It ended with sheer Democratic frustration. 
  <p class="updated_time"> 06:23 AM CT, Oct. 29 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/10/29/dems-head-into-weekend-without-agreement-494903">Dems head into weekend without agreement</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 05:13 AM CT, Oct. 29 </p> 
