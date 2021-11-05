@@ -7,8 +7,14 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:33 PM CT, Nov. 05 </p> 
+ <a href="https://www.nytimes.com/2021/11/05/world/middleeast/erdogan-turkey-cop26.html">As Turkey Chafes at Erdogan, He Gets Spikier Abroad</a> NYT: President Recep Tayyip Erdogan canceled an appearance at the global climate talks over a perceived slight, part of a pattern of creating international dramas to bolster his domestic standing. 
+ <p class="updated_time"> 12:29 PM CT, Nov. 05 </p> 
+ <a href="https://www.nytimes.com/2021/11/05/climate/cop26-john-kerry.html">John Kerry lauds progress at COP26 but warns, ‘Job not done.’</a> NYT: Mr. Kerry, President Biden’s climate envoy, acknowledged that many of the promises being put forward in Glasgow were only that — promises. 
  <p class="updated_time"> 12:23 PM CT, Nov. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59180744?at_medium=RSS&at_campaign=KARANGA">Ahmaud Arbery murder trial: Prosecutors reveal full footage of black jogger's death</a> BBC: Prosecutors say three white men assumed Ahmaud Arbery had committed a crime when they pursued him. 
+ <p class="updated_time"> 12:22 PM CT, Nov. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59175765?at_medium=RSS&at_campaign=KARANGA">DR Congo's Gungu museum: Thousands of artefacts destroyed in fire</a> BBC: The now ruined artistic collections are considered some of the country's most important historical items. 
  <p class="updated_time"> 11:59 AM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/03/us/mayor-eric-garcetti-of-los-angeles-tests-positive-for-the-virus.html">Mayor Eric Garcetti of Los Angeles tests positive for the virus.</a> NYT: Mr. Garcetti’s office said the mayor, who is in Scotland for a conference on climate change, was feeling good and had been fully vaccinated. 
  <p class="updated_time"> 11:59 AM CT, Nov. 05 </p> 
@@ -81,8 +87,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/global-food-prices-surge-as-inflation-spreads-11636119367">Global Food Prices Surge as Inflation Spreads</a> WSJ: Bad harvests and supply bottlenecks are leaving poor families hungry in the developing world, from Peru to the Philippines. 
  <p class="updated_time"> 04:31 AM CT, Nov. 05 </p> 
  <a href="https://www.wsj.com/articles/how-dna-tests-helped-a-jewish-man-trace-a-holocaust-mystery-to-israel-11636119082">How DNA Tests Helped a Jewish Man Trace a Holocaust Mystery to Israel</a> WSJ: Born in Nazi-occupied Poland, Bolek Krutz settled in New Jersey in 1969 and became an X-ray technician. For decades, he wondered who he really was. 
- <p class="updated_time"> 04:19 AM CT, Nov. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59161935?at_medium=RSS&at_campaign=KARANGA">Africa's week in pictures: 29 October - 4 November 2021</a> BBC: A selection of the best photos from the African continent and beyond. 
  <p class="updated_time"> 04:17 AM CT, Nov. 05 </p> 
  <a href="https://www.wsj.com/articles/german-navy-eyes-on-china-adds-to-europes-pacific-presence-11636113718">German Navy, Eyes on China, Adds to Europe's Pacific Presence</a> WSJ: The frigate Bayern docked in Tokyo on Friday and will join the U.S., Japanese and other allied navies to build interoperability skills this month. 
  <p class="updated_time"> 04:05 AM CT, Nov. 05 </p> 
@@ -95,14 +99,14 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59174876?at_medium=RSS&at_campaign=KARANGA">Abba on new album Voyage: We don't need to prove anything</a> BBC: As the band release Voyage, Benny and Bjorn speak to the BBC about being compared to their old music. 
  <p class="updated_time"> 02:56 AM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/05/world/europe/russia-nuclear-power-climate-change.html">A Nuclear-Powered Shower? Russia Tests a Climate Innovation.</a> NYT: A remote Siberian town now has its own miniature nuclear plant as a Russian state company tests a new model for residential heating. Some see it as a tool to minimize climate change. 
+ <p class="updated_time"> 02:42 AM CT, Nov. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-59157836?at_medium=RSS&at_campaign=KARANGA">COP26: Emissions of rich put climate goals at risk - study</a> BBC: The carbon footprint of the wealthiest will grow but that of the poorest will stay small, a study says. 
  <p class="updated_time"> 01:24 AM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/05/world/australia/laughs-no-more-australians-are-reassessing-a-beloved-cartoonist.html">Laughs No More? Australians Are Reassessing a Beloved Cartoonist.</a> NYT: I used to think Michael Leunig’s drawings embodied the soul of our nation. Now, I’m not so sure. 
  <p class="updated_time"> 01:15 AM CT, Nov. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59173259?at_medium=RSS&at_campaign=KARANGA">Japan death row inmates sue over same-day executions</a> BBC: Prisoners are only notified hours before they are to be executed by hanging. 
  <p class="updated_time"> 09:08 PM CT, Nov. 04 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59133056?at_medium=RSS&at_campaign=KARANGA">Wishcycling: The dos and don'ts of being good at recycling</a> BBC: Ever paused over the recycling bin, wondering whether to add a pizza box? You could be a wishcycler. 
- <p class="updated_time"> 08:56 PM CT, Nov. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-58895748?at_medium=RSS&at_campaign=KARANGA">A journey from slum to Sydney, upended by the pandemic</a> BBC: Tushar Joshi's dreams of studying in Australia on a scholarship have been upended by Covid-19. 
  <p class="updated_time"> 08:18 PM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/arts/television/movies-tv-australia-new-streaming-netflix-amazon-stan-november.html">The Best Movies and TV Shows New to Netflix, Amazon and Stan in Australia in November</a> NYT: Our picks for November, including ‘tick, tick … BOOM!’, ‘The Great’ Season 2, and ‘Passing’ 
  <p class="updated_time"> 08:13 PM CT, Nov. 04 </p> 
@@ -116,7 +120,7 @@ permalink: /projects/news/
  <p class="updated_time"> 07:23 PM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/world/europe/covid-surge-europe-who.html">W.H.O. Official: 'Europe Is Back at Epicenter of the Pandemic'</a> NYT: The World Health Organization said Europe was responsible for nearly three-fifths of the world’s recent coronavirus cases, and that deaths in the region were surging. 
  <p class="updated_time"> 06:20 PM CT, Nov. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59168910?at_medium=RSS&at_campaign=KARANGA">Nostalgia-soaked photos capture legendary LA roller rink</a> BBC: Flipper's Roller Boogie Palace was a place for children and celebrities alike to roller skate. 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59168910?at_medium=RSS&at_campaign=KARANGA">Nostalgia-soaked photos immortalise LA roller rink</a> BBC: Flipper's Roller Boogie Palace was a place for children and celebrities alike to roller skate. 
  <p class="updated_time"> 05:57 PM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/world/europe/italy-trieste-covid-protests.html">Trieste, Center of Italy’s Anti-Vaccine Protests, Is Now a Covid Hot Spot</a> NYT: After leading the resistance to the government’s new health pass, the northeastern port city of Trieste is home to a worrying spike in cases. 
  <p class="updated_time"> 05:54 PM CT, Nov. 04 </p> 
@@ -179,16 +183,12 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-australia-59160914?at_medium=RSS&at_campaign=KARANGA">Cleo Smith: Listen to the moment police rescued missing girl</a> BBC: Listen to the moment police in Western Australia found a four-year-old girl who had been missing for 18 days. 
  <p class="updated_time"> 03:22 AM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/article/ethiopia-tigray-conflict-explained.html">Why Is Ethiopia at War in the Tigray Region? </a> NYT: The civil war has shifted dramatically since Prime Minister Abiy Ahmed began a military campaign in the Tigray region a year ago. With Tigrayan fighters advancing toward the capital, Ethiopia is at risk of collapse. 
- <p class="updated_time"> 03:01 AM CT, Nov. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-59158568?at_medium=RSS&at_campaign=KARANGA">Amanda Knox on how she thinks her case would be viewed today</a> BBC: She speaks about losing control of her identity during the Meredith Kercher murder investigation. 
  <p class="updated_time"> 10:52 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/asia/covaxin-covid-vaccine-who.html">Covaxin, Vaccine Developed in India, Gets W.H.O. Clearance</a> NYT: The vaccine is the eighth coronavirus vaccine to receive the global health body’s green light. 
  <p class="updated_time"> 09:56 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/asia/heather-mack-arrested.html">Back in Chicago, Woman Is Charged in Killing of Mother on Indonesian Vacation</a> NYT: Heather L. Mack, 26, had already served more than six years in prison in Indonesia for the 2014 killing of her mother, whose body was found in a suitcase at a Bali resort. 
  <p class="updated_time"> 08:50 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/middleeast/iran-tanker-oil.html">Iran Seizes an Oil Tanker, but Whose Tanker Is Disputed</a> NYT: U.S. and Iranian officials gave conflicting accounts of a ship that was seized last month. Some reports said it was the same tanker the United States had seized last year. The Pentagon denied that. 
- <p class="updated_time"> 07:23 PM CT, Nov. 03 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-59092240?at_medium=RSS&at_campaign=KARANGA">What is hydrogen energy and why is it important?</a> BBC: The BBC’s Roger Harrabin takes a look at the tech behind hydrogen energy and its green potential. 
  <p class="updated_time"> 06:00 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/weapons-ukraine-russia.html">Weapons Tracing Study Implicates Russia in Ukraine Conflict</a> NYT: One of the most comprehensive studies to date of weaponry in the war in Ukraine shows a panoply of Russian-supplied arms that has helped fuel the war. 
  <p class="updated_time"> 05:28 PM CT, Nov. 03 </p> 
@@ -199,8 +199,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/03/world/nicola-sturgeon-scotland.html">Scotland's Nicola Sturgeon: 'We're Running out of Time."</a> NYT: The leader of the nation hosting COP26 said she hoped that a century from now, people will look back and “describe Glasgow as the place which really took the correct fork in the road for our planet.” 
  <p class="updated_time"> 02:32 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/europe/greece-covid-restrictions.html">Greece Tightens Covid Restrictions on the Unvaccinated</a> NYT: The restrictions start Saturday and target unvaccinated people, said the country’s health minister, Thanos Plevris. 
- <p class="updated_time"> 12:38 PM CT, Nov. 03 </p> 
- <a href="https://www.nytimes.com/2021/11/03/us/politics/china-military-nuclear.html">China Could Have 1,000 Nuclear Warheads by 2030, Pentagon Says</a> NYT: Gen. Mark A. Milley, chairman of the Joint Chiefs of Staff, called Beijing the “No. 1” nation-state military challenger to the United States. 
  <p class="updated_time"> 11:46 AM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/business/economy/biden-trade-policy-steel.html">European Steel Plan Shows Biden’s Bid to Merge Climate and Trade Policy</a> NYT: A potential agreement on steel trade provides the clearest look yet at how the Biden administration plans to implement a trade policy that is both protectionist and progressive 
 
@@ -210,14 +208,14 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:26 PM CT, Nov. 05 </p> 
+ <a href="https://www.nytimes.com/2021/11/05/us/politics/project-veritas-investigation-ashley-biden-diary.html">People Tied to Project Veritas Scrutinized in Theft of Diary From Biden’s Daughter</a> NYT: The F.B.I. carried out search warrants in New York as part of a Justice Department investigation into how pages from Ashley Biden’s journal came to be published by a right wing website. 
  <p class="updated_time"> 12:18 PM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/05/business/congress-mckinsey-opioid-crisis.html">Congress Is Investigating McKinsey Over Its Role in the Opioid Crisis</a> NYT: A House committee has requested documents related to the firm’s advice to drug makers and potential conflicts of interest with the F.D.A. 
  <p class="updated_time"> 12:10 PM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/05/arts/design/hunter-biden-exhibition-berges-gallery.html">Hunter Biden’s Solo Exhibition: Emotionally Honest, Generically Smooth</a> NYT: The president’s son has turned to art as a career. “The Journey Home” is his first solo exhibition. 
  <p class="updated_time"> 12:06 PM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/05/arts/design/hunter-biden-art-buyers.html">At Hunter Biden’s Art Show, Line, Color and Questions</a> NYT: Paintings by the president’s son are drawing visitors to a gallery in SoHo, and also criticism from those who worry that purchasers might hope to be buying not just art, but access. 
- <p class="updated_time"> 11:51 AM CT, Nov. 05 </p> 
- <a href="https://www.nytimes.com/2021/11/05/us/politics/project-veritas-investigation-ashley-biden-diary.html">People Tied to Project Veritas Scrutinized in Theft of Diary From Biden’s Daughter</a> NYT: The F.B.I. carried out search warrants in New York as part of a Justice Department investigation into how pages from Ashley Biden’s journal came to be published by a right wing website. 
  <p class="updated_time"> 10:32 AM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/05/us/politics/house-democrats-vote-infrastructure.html">What to Watch in the House on Friday</a> NYT: If House Democrats succeed, they will pass two marquee pieces of legislation by day’s end, sending one bill to the president’s desk and the other to the Senate. 
  <p class="updated_time"> 10:20 AM CT, Nov. 05 </p> 
