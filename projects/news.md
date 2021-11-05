@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:39 PM CT, Nov. 05 </p> 
+ <a href="https://www.nytimes.com/article/ethiopia-tigray-conflict-explained.html">Why Is Ethiopia at War in the Tigray Region? </a> NYT: The civil war has shifted dramatically since Prime Minister Abiy Ahmed began a military campaign in the Tigray region a year ago. With Tigrayan fighters advancing toward the capital, Ethiopia is at risk of collapse. 
+ <p class="updated_time"> 04:32 PM CT, Nov. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-59162510?at_medium=RSS&at_campaign=KARANGA">Covid vaccine to be mandatory for children in Costa Rica</a> BBC: The country becomes the first in the world to mandate vaccinations for those aged five to 11. 
  <p class="updated_time"> 04:16 PM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/05/climate/cop26-vanessa-nakate.html">Vanessa Nakate, Ugandan Climate Activist, Offers an Optimistic Vision</a> NYT: The 24-year-old from Uganda has emerged as a leading voice of young people agitating for climate action. 
  <p class="updated_time"> 03:35 PM CT, Nov. 05 </p> 
@@ -111,8 +115,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-59157836?at_medium=RSS&at_campaign=KARANGA">COP26: Emissions of rich put climate goals at risk - study</a> BBC: The carbon footprint of the wealthiest will grow but that of the poorest will stay small, a study says. 
  <p class="updated_time"> 01:24 AM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/05/world/australia/laughs-no-more-australians-are-reassessing-a-beloved-cartoonist.html">Laughs No More? Australians Are Reassessing a Beloved Cartoonist.</a> NYT: I used to think Michael Leunig’s drawings embodied the soul of our nation. Now, I’m not so sure. 
- <p class="updated_time"> 01:15 AM CT, Nov. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59173259?at_medium=RSS&at_campaign=KARANGA">Japan death row inmates sue over same-day executions</a> BBC: Prisoners are only notified hours before they are to be executed by hanging. 
  <p class="updated_time"> 09:08 PM CT, Nov. 04 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59133056?at_medium=RSS&at_campaign=KARANGA">Wishcycling: The dos and don'ts of being good at recycling</a> BBC: Ever paused over the recycling bin, wondering whether to add a pizza box? You could be a wishcycler. 
  <p class="updated_time"> 08:18 PM CT, Nov. 04 </p> 
@@ -185,8 +187,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/03/world/latin-america-pressed-on-vaccine-priorities.html">With scant vaccine supplies, the W.H.O. presses Latin America and the Caribbean to hold off on boosters.</a> NYT: Sufficient shipments of doses have been slow to reach many countries in the region and economic inequalities are complicating matters. 
  <p class="updated_time"> 03:35 AM CT, Nov. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59160914?at_medium=RSS&at_campaign=KARANGA">Cleo Smith: Listen to the moment police rescued missing girl</a> BBC: Listen to the moment police in Western Australia found a four-year-old girl who had been missing for 18 days. 
- <p class="updated_time"> 03:22 AM CT, Nov. 04 </p> 
- <a href="https://www.nytimes.com/article/ethiopia-tigray-conflict-explained.html">Why Is Ethiopia at War in the Tigray Region? </a> NYT: The civil war has shifted dramatically since Prime Minister Abiy Ahmed began a military campaign in the Tigray region a year ago. With Tigrayan fighters advancing toward the capital, Ethiopia is at risk of collapse. 
  <p class="updated_time"> 09:56 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/asia/heather-mack-arrested.html">Back in Chicago, Woman Is Charged in Killing of Mother on Indonesian Vacation</a> NYT: Heather L. Mack, 26, had already served more than six years in prison in Indonesia for the 2014 killing of her mother, whose body was found in a suitcase at a Bali resort. 
  <p class="updated_time"> 06:00 PM CT, Nov. 03 </p> 
