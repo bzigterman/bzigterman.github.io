@@ -193,7 +193,7 @@ permalink: /projects/news/
  <p class="updated_time"> 03:30 AM CT, Nov. 05 </p> 
  <a href="https://www.politico.com/news/2021/11/05/pelosi-dems-final-push-519607">Pelosi revs House Dem engines after season in the ditch</a> Politico: "There’s a point where you've got to stop talking," Rep. Peter Welch (D-Vt.) said of the party's long-negotiated social spending bill. 
  <p class="updated_time"> 03:30 AM CT, Nov. 05 </p> 
- <a href="https://www.politico.com/news/2021/11/05/kyrsten-sinema-multi-level-marketing-labor-519661">Sinema’s raking in cash from controversial multi-level marketing firms. They want to kill her party’s labor bill.</a> Politico: The Arizona senator is one of just a few lawmakers the industry is giving to. 
+ <a href="https://www.politico.com/news/2021/11/05/kyrsten-sinema-multi-level-marketing-labor-519661">Sinema's raking in cash from MLMs. They want to kill her party’s labor bill.</a> Politico: The Arizona senator is one of just a few lawmakers that multilevel marketing businesses —often derided as pyramid schemes — are giving to. 
  <p class="updated_time"> 10:45 PM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/us/politics/house-democrats-biden.html">House Democrats Hunt for Votes to Pass Biden’s Domestic Agenda</a> NYT: Speaker Nancy Pelosi wanted a vote on Thursday night on a $1.85 trillion social policy and climate bill, but moderates pushed back and action was postponed until Friday. 
  <p class="updated_time"> 09:54 PM CT, Nov. 04 </p> 
