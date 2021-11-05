@@ -105,35 +105,7 @@ politics_news_lines
 nyt <- tidyfeed("https://rss.nytimes.com/services/xml/rss/nyt/World.xml") %>%
   select(feed_title, item_pub_date,item_title, item_link, item_description) %>%
   mutate(feed = "NYT") %>%
-  filter(!grepl("briefing",item_link))
-wsj <- tidyfeed("https://feeds.a.dj.com/rss/RSSWorldNews.xml")%>%
-  select(feed_title, item_pub_date,item_title, item_link, item_description)%>%
-  mutate(feed = "WSJ")
-bbc <- tidyfeed("http://feeds.bbci.co.uk/news/world/rss.xml")%>%
-  select(feed_title, item_pub_date,item_title, item_link, item_description)%>%
-  mutate(feed = "BBC")
-# npr_world <- tidyfeed("feeds.npr.org/1004/rss.xml") %>%
-#   select(feed_title, item_pub_date,item_title, item_link, item_description) %>%
-#   filter(!is.na(item_description)) %>%
-#   mutate(feed = "NPR") #%>%
-#   # mutate(utc_time = force_tz(item_pub_date, tz = "US/Eastern")) %>%
-  # mutate(central_time = with_tz(utc_time, tz = "America/Chicago")) %>%
-  # mutate(clean_time = strftime(x = central_time, 
-  #                              tz = "US/Central",
-  #                              format = "%I:%M% %p CT, %b. %d"))
-
-
-world_news <- full_join(nyt, wsj) %>%
-  full_join(bbc) %>%
-  #full_join(npr_world) %>%
-  mutate(item_md_link = paste("[",item_title,"](",item_link,")",
-                              sep = "")) %>%
-  mutate(item_html_link = paste("<a href=\"",
-                                item_link,"\">",
-                                item_title,"</a>",
-                                sep = "")) %>%
-  mutate(feed_plus_description = paste(feed,": ",item_description,
-                                       sep = ""))%>%
+  filter(!grepl("briefing",item_link)) %>%
   mutate(utc_time = force_tz(item_pub_date, tz = "UTC")) %>%
   mutate(central_time = with_tz(utc_time, tz = "America/Chicago")) %>%
   filter(central_time > past_week) %>%
@@ -141,6 +113,51 @@ world_news <- full_join(nyt, wsj) %>%
   mutate(clean_time = strftime(x = central_time, 
                                tz = "US/Central",
                                format = "%I:%M% %p CT, %b. %d"))
+
+wsj <- tidyfeed("https://feeds.a.dj.com/rss/RSSWorldNews.xml")%>%
+  select(feed_title, item_pub_date,item_title, item_link, item_description)%>%
+  mutate(feed = "WSJ") %>%
+  mutate(utc_time = force_tz(item_pub_date, tz = "UTC")) %>%
+  mutate(central_time = with_tz(utc_time, tz = "America/Chicago")) %>%
+  filter(central_time > past_week) %>%
+  arrange(desc(central_time)) %>%
+  mutate(clean_time = strftime(x = central_time, 
+                               tz = "US/Central",
+                               format = "%I:%M% %p CT, %b. %d"))
+
+bbc <- tidyfeed("http://feeds.bbci.co.uk/news/world/rss.xml")%>%
+  select(feed_title, item_pub_date,item_title, item_link, item_description)%>%
+  mutate(feed = "BBC") %>%
+  mutate(utc_time = force_tz(item_pub_date, tz = "UTC")) %>%
+  mutate(central_time = with_tz(utc_time, tz = "America/Chicago")) %>%
+  filter(central_time > past_week) %>%
+  arrange(desc(central_time)) %>%
+  mutate(clean_time = strftime(x = central_time, 
+                               tz = "US/Central",
+                               format = "%I:%M% %p CT, %b. %d"))
+
+npr_world <- tidyfeed("feeds.npr.org/1004/rss.xml") %>%
+  select(feed_title, item_pub_date,item_title, item_link, item_description) %>%
+  mutate(feed = "NPR") %>%
+  mutate(utc_time = force_tz(item_pub_date, tz = "US/Eastern")) %>%
+  mutate(central_time = with_tz(utc_time, tz = "America/Chicago")) %>%
+  mutate(clean_time = strftime(x = central_time,
+                               tz = "US/Central",
+                               format = "%I:%M% %p CT, %b. %d"))
+
+
+world_news <- full_join(nyt, wsj) %>%
+  full_join(bbc) %>%
+  full_join(npr_world) %>%
+  filter(!is.na(item_description)) %>%
+  mutate(item_md_link = paste("[",item_title,"](",item_link,")",
+                              sep = "")) %>%
+  mutate(item_html_link = paste("<a href=\"",
+                                item_link,"\">",
+                                item_title,"</a>",
+                                sep = "")) %>%
+  mutate(feed_plus_description = paste(feed,": ",item_description,
+                                       sep = "")) 
 
 ### create list ----
 world_news_lines <- c()
