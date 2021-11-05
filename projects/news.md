@@ -7,12 +7,14 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:41 AM CT, Nov. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/business-59166014?at_medium=RSS&at_campaign=KARANGA">US sees sharp jobs growth and higher wages</a> BBC: Employers took on 531,000 extra workers in October in a sign the economy is picking up. 
  <p class="updated_time"> 08:33 AM CT, Nov. 05 </p> 
  <a href="https://www.bbc.co.uk/news/health-59178291?at_medium=RSS&at_campaign=KARANGA">Covid: Pfizer says antiviral pill 89% effective in high risk cases</a> BBC: The company stopped clinical trials early because initial results for the drug were so positive. 
  <p class="updated_time"> 08:24 AM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/05/world/europe/cop26-mothers-pollution.html">Mothers Demand Action on Air Pollution at COP26</a> NYT: A letter to world leaders gathered at the U.N. climate conference in Glasgow was signed by nearly 500 parent groups from 44 countries. 
- <p class="updated_time"> 08:15 AM CT, Nov. 05 </p> 
- <a href="https://www.bbc.co.uk/news/business-59166014?at_medium=RSS&at_campaign=KARANGA">US sees sharp jobs growth as the economy rebounds</a> BBC: Firms took on 531,000 extra workers in October, as the economy picked up pace after a difficult summer. 
+ <p class="updated_time"> 08:23 AM CT, Nov. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-59175400?at_medium=RSS&at_campaign=KARANGA">Deng Deng, the abandoned Shiba Inu, sells for $25k at auction in China</a> BBC: Deng Deng, a Shiba Inu abandoned by his owner in 2014, had a $78 starting price. 
  <p class="updated_time"> 08:15 AM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/05/world/europe/vienna-vaccinate-young-children.html">Vienna Will Start to Vaccinate Young Children</a> NYT: Pediatricians in the Austrian capital will authorize the off-label use of the BioNTech-Pfizer vaccine for children starting next Friday. 
  <p class="updated_time"> 07:47 AM CT, Nov. 05 </p> 
@@ -35,6 +37,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/05/world/asia/japan-quarantine-covid.html">Japan Will Cut Quarantine for Business Travelers to 3 Days</a> NYT: The easing of rules comes as cases decline significantly. The country has virtually closed its borders since the start of the pandemic. 
  <p class="updated_time"> 05:02 AM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/04/world/europe/brexit-britain-france-johnson-macron.html">With Fish, Trucks and Submarines, U.K. and France Bicker Over Brexit</a> NYT: A recent dispute over fishing rights illuminates a broader and more fundamental disagreement over Britain’s decision to leave the European Union. 
+ <p class="updated_time"> 04:44 AM CT, Nov. 05 </p> 
+ <a href="https://www.wsj.com/articles/greta-thunberg-takes-on-role-as-cop26-critic-11636111801">Thunberg Leads Climate Protest, Criticizing COP26 Talks</a> WSJ: The Swedish activist is headlining what is expected to be a rowdy, hourslong march and rally in Glasgow after calling the summit ‘a two week celebration of business as usual and blah blah blah.’ 
  <p class="updated_time"> 04:19 AM CT, Nov. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59161935?at_medium=RSS&at_campaign=KARANGA">Africa's week in pictures: 29 October - 4 November 2021</a> BBC: A selection of the best photos from the African continent and beyond. 
  <p class="updated_time"> 04:17 AM CT, Nov. 05 </p> 
@@ -51,10 +55,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59174876?at_medium=RSS&at_campaign=KARANGA">Abba on new album Voyage: We don't need to prove anything</a> BBC: As the band release Voyage, Benny and Bjorn speak to the BBC about being compared to their old music. 
  <p class="updated_time"> 02:56 AM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/05/world/europe/russia-nuclear-power-climate-change.html">A Nuclear-Powered Shower? Russia Tests a Climate Innovation.</a> NYT: A remote Siberian town now has its own miniature nuclear plant as a Russian state company tests a new model for residential heating. Some see it as a tool to minimize climate change. 
- <p class="updated_time"> 02:42 AM CT, Nov. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-59157836?at_medium=RSS&at_campaign=KARANGA">COP26: Emissions of rich put climate goals at risk - study</a> BBC: The carbon footprint of the wealthiest will grow but that of the poorest will stay small, a study says. 
- <p class="updated_time"> 02:30 AM CT, Nov. 05 </p> 
- <a href="https://www.wsj.com/articles/greta-thunberg-takes-on-role-as-cop26-critic-11636111801">Greta Thunberg Takes On Role as Harsh COP26 Critic</a> WSJ: The Swedish activist is headlining what is expected to be a rowdy, hourslong march and rally in Glasgow after calling the summit ‘a two week celebration of business as usual and blah blah blah.’ 
  <p class="updated_time"> 01:52 AM CT, Nov. 05 </p> 
  <a href="https://www.wsj.com/articles/japan-lifts-covid-19-ban-on-business-travelers-foreign-workers-11636109518">Japan Lifts Covid-19 Ban on Business Travelers, Foreign Workers</a> WSJ: As neighbor China sticks to its zero-Covid policy, Japan aligns itself closer with U.S. and Europe. 
  <p class="updated_time"> 01:24 AM CT, Nov. 05 </p> 
