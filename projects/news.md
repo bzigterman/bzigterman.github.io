@@ -210,6 +210,10 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 01:44 PM CT, Nov. 05 </p> 
+ <a href="https://www.nytimes.com/article/vaccine-mandate-biden-osha.html">OSHA's Vaccine Mandate: Your Questions Answered</a> NYT: We’re answering your questions about the new OSHA rules for employers with 100 or more workers. This F.A.Q. was last updated at 7 p.m. 
+ <p class="updated_time"> 01:42 PM CT, Nov. 05 </p> 
+ <a href="https://www.nytimes.com/2021/11/05/us/politics/house-democrats-vote-infrastructure.html">What to Watch in the House on Friday</a> NYT: If House Democrats succeed, they will pass two marquee pieces of legislation by day’s end, sending one bill to the president’s desk and the other to the Senate. 
  <p class="updated_time"> 12:53 PM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/05/us/politics/colin-powell-funeral.html">At Colin Powell's Funeral, Washington Is Pulled Together</a> NYT: Republicans and Democrats, including President Biden and two of his predecessors, were at the Washington National Cathedral to honor the former secretary of state. 
  <p class="updated_time"> 12:26 PM CT, Nov. 05 </p> 
@@ -220,8 +224,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/05/arts/design/hunter-biden-exhibition-berges-gallery.html">Hunter Biden’s Solo Exhibition: Emotionally Honest, Generically Smooth</a> NYT: The president’s son has turned to art as a career. “The Journey Home” is his first solo exhibition. 
  <p class="updated_time"> 12:06 PM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/05/arts/design/hunter-biden-art-buyers.html">At Hunter Biden’s Art Show, Line, Color and Questions</a> NYT: Paintings by the president’s son are drawing visitors to a gallery in SoHo, and also criticism from those who worry that purchasers might hope to be buying not just art, but access. 
- <p class="updated_time"> 10:32 AM CT, Nov. 05 </p> 
- <a href="https://www.nytimes.com/2021/11/05/us/politics/house-democrats-vote-infrastructure.html">What to Watch in the House on Friday</a> NYT: If House Democrats succeed, they will pass two marquee pieces of legislation by day’s end, sending one bill to the president’s desk and the other to the Senate. 
  <p class="updated_time"> 10:20 AM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/05/us/politics/school-board-threats.html">School Board Members Face Rising Threats Across the U.S.</a> NYT: Across the country, parents have threatened board members and vandalized their homes. One board member scans his driveway before walking to his car. 
  <p class="updated_time"> 09:56 AM CT, Nov. 05 </p> 
@@ -248,8 +250,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/05/kyrsten-sinema-multi-level-marketing-labor-519661">Sinema’s raking in cash from MLMs. They want to kill her party’s labor bill.</a> Politico: The Arizona senator is one of just a few lawmakers that multilevel marketing businesses —often derided as pyramid schemes — are giving to. 
  <p class="updated_time"> 09:54 PM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/us/politics/robert-santos-census-bureau.html">Robert Santos Confirmed as First Latino to Lead Census Bureau</a> NYT: The confirmation on Thursday brings a permanent head to the agency after a turbulent period under the Trump administration. 
- <p class="updated_time"> 06:54 PM CT, Nov. 04 </p> 
- <a href="https://www.nytimes.com/article/vaccine-mandate-biden-osha.html">OSHA's Vaccine Mandate: Your Questions Answered</a> NYT: We’re answering your questions about the new OSHA rules for employers with 100 or more workers. This F.A.Q. was last updated at 7 p.m. 
  <p class="updated_time"> 06:29 PM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/us/politics/texas-voting-restrictions-lawsuit.html">Justice Dept. Sues Texas Over Voting Restrictions</a> NYT: The department argued that a major voting law passed by Republicans would disenfranchise several groups of vulnerable Texans, including voters who do not speak English and those with disabilities. 
  <p class="updated_time"> 06:22 PM CT, Nov. 04 </p> 
