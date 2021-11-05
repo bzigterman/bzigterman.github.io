@@ -7,6 +7,14 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:32 AM CT, Nov. 05 </p> 
+ <a href="https://www.nytimes.com/2021/11/05/world/asia/china-coronavirus-ruili.html">Near-Daily Covid Tests, Sleeping in Classrooms: Life in Covid-Zero China</a> NYT: Residents in Ruili, in southwestern China, have been locked down four times in the past year as part of the country’s quest to eliminate the virus. 
+ <p class="updated_time"> 09:29 AM CT, Nov. 05 </p> 
+ <a href="https://www.nytimes.com/2021/11/05/world/asia/india-diwali-covid.html">In India, Fears Grow That Diwali Celebrations Could Fuel Another Virus Spike</a> NYT: Epidemiologists are concerned that Covid cases will surge after shoppers thronged markets and hundreds of thousands traveled around the country to celebrate the festival. 
+ <p class="updated_time"> 09:28 AM CT, Nov. 05 </p> 
+ <a href="https://www.nytimes.com/2021/11/05/world/europe/vienna-vaccinate-young-children.html">Vienna Will Start to Vaccinate Young Children</a> NYT: Pediatricians in the Austrian capital will authorize the off-label use of the BioNTech-Pfizer vaccine for children starting next Friday. 
+ <p class="updated_time"> 09:28 AM CT, Nov. 05 </p> 
+ <a href="https://www.nytimes.com/2021/11/03/world/europe/cop26-greenwashing-protest.html">Protesters March Against ‘Greenwashing' at COP26</a> NYT: As the focus of the Glasgow summit turns to funding, protesters call for greater accountability for companies’ climate promises. 
  <p class="updated_time"> 09:14 AM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/05/world/states-sue-biden-vaccine-mandate.html">11 States Sue Over Biden's Vaccine Mandate for Big Companies</a> NYT: The lawsuit was filed a day after the announcement of a Jan. 4 deadline for the companies to begin their mandates or start weekly testing. 
  <p class="updated_time"> 08:59 AM CT, Nov. 05 </p> 
@@ -17,8 +25,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/05/world/europe/cop26-mothers-pollution.html">Mothers Demand Action on Air Pollution at COP26</a> NYT: A letter to world leaders gathered at the U.N. climate conference in Glasgow was signed by nearly 500 parent groups from 44 countries. 
  <p class="updated_time"> 08:23 AM CT, Nov. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59175400?at_medium=RSS&at_campaign=KARANGA">Deng Deng, the abandoned Shiba Inu, sells for $25k at auction in China</a> BBC: Deng Deng, a Shiba Inu abandoned by his owner in 2014, had a $78 starting price. 
- <p class="updated_time"> 08:15 AM CT, Nov. 05 </p> 
- <a href="https://www.nytimes.com/2021/11/05/world/europe/vienna-vaccinate-young-children.html">Vienna Will Start to Vaccinate Young Children</a> NYT: Pediatricians in the Austrian capital will authorize the off-label use of the BioNTech-Pfizer vaccine for children starting next Friday. 
  <p class="updated_time"> 07:47 AM CT, Nov. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59175317?at_medium=RSS&at_campaign=KARANGA">Russian diplomat found dead outside Berlin embassy</a> BBC: Reports of last month's death have only just emerged and suggest the man fell from an upper floor. 
  <p class="updated_time"> 07:26 AM CT, Nov. 05 </p> 
@@ -45,8 +51,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-59161935?at_medium=RSS&at_campaign=KARANGA">Africa's week in pictures: 29 October - 4 November 2021</a> BBC: A selection of the best photos from the African continent and beyond. 
  <p class="updated_time"> 04:17 AM CT, Nov. 05 </p> 
  <a href="https://www.wsj.com/articles/german-navy-eyes-on-china-adds-to-europes-pacific-presence-11636113718">German Navy, Eyes on China, Adds to Europe's Pacific Presence</a> WSJ: The frigate Bayern docked in Tokyo on Friday and will join the U.S., Japanese and other allied navies to build interoperability skills this month. 
- <p class="updated_time"> 04:05 AM CT, Nov. 05 </p> 
- <a href="https://www.nytimes.com/2021/11/05/world/asia/india-diwali-covid.html">In India, Fears Grow That Diwali Celebrations Could Fuel Another Virus Spike</a> NYT: Epidemiologists are concerned that Covid cases will surge after shoppers thronged markets and hundreds of thousands traveled around the country to celebrate the festival. 
  <p class="updated_time"> 04:05 AM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/04/world/americas/biden-aide-covid-scotland.html">A White House aide who traveled abroad with Biden tests positive.</a> NYT: President Biden was not in close contact with the aide, who remains quarantined in Scotland and has not shown symptoms of Covid-19. 
  <p class="updated_time"> 04:00 AM CT, Nov. 05 </p> 
@@ -119,8 +123,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/04/world/europe/germany-covid-surge-daily-case-record.html">Facing a New Surge, Germany Sets a Daily Virus Case Record</a> NYT: The country registered 33,949 new coronavirus cases over a 24-hour period on Wednesday, surpassing a high set in December of last year. 
  <p class="updated_time"> 10:46 AM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/science/astronomy-decadal-survey-telescope.html">A New 10-Year Plan for the Cosmos</a> NYT: On astronomers’ wish list for the next decade: two giant telescopes and a space telescope to search for life and habitable worlds beyond Earth. 
- <p class="updated_time"> 09:01 AM CT, Nov. 04 </p> 
- <a href="https://www.nytimes.com/2021/11/03/world/africa/ethiopia-war-un-report.html">Ethiopia’s Leader Vows to ‘Bury This Enemy,’ Even as Rebels Advance</a> NYT: A United Nations report, released as Tigrayan rebels near the capital, documents atrocities on all sides in a year-old civil war. 
  <p class="updated_time"> 08:54 AM CT, Nov. 04 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59159018?at_medium=RSS&at_campaign=KARANGA">COP26: More than 40 countries pledge to quit coal</a> BBC: Countries pledge to shift away from coal and end fossil fuel financing, but key players are missing. 
  <p class="updated_time"> 08:45 AM CT, Nov. 04 </p> 
@@ -165,8 +167,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/03/world/europe/greece-covid-restrictions.html">Greece Tightens Covid Restrictions on the Unvaccinated</a> NYT: The restrictions start Saturday and target unvaccinated people, said the country’s health minister, Thanos Plevris. 
  <p class="updated_time"> 01:54 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/asia/isis-afghanistan-taliban.html">ISIS Poses a Growing Threat to New Taliban Government in Afghanistan</a> NYT: The Taliban takeover was supposed to bring an end to war, the new government promised. But a growing insurgency is upending security and raising alarms for the international community. 
- <p class="updated_time"> 01:46 PM CT, Nov. 03 </p> 
- <a href="https://www.nytimes.com/2021/11/03/world/europe/cop26-greenwashing-protest.html">Protesters March Against ‘Greenwashing' at COP26</a> NYT: As the focus of the Glasgow summit turns to funding, protesters call for greater accountability for companies’ climate promises. 
  <p class="updated_time"> 01:35 PM CT, Nov. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59157060?at_medium=RSS&at_campaign=KARANGA">Michelle Wu makes history as first Asian American woman elected as Boston mayor</a> BBC: She is the first woman and Asian American elected to lead Massachusetts' capital city. 
  <p class="updated_time"> 12:42 PM CT, Nov. 03 </p> 
