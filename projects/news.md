@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:48 AM CT, Nov. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59175317?at_medium=RSS&at_campaign=KARANGA">Russian diplomat found dead outside Berlin embassy</a> BBC: Reports of last month's death have only just emerged and suggest the man fell from an upper floor. 
+ <p class="updated_time"> 10:47 AM CT, Nov. 05 </p> 
+ <a href="https://www.npr.org/sections/goatsandsoda/2021/11/05/1052364086/new-usaid-director-aims-to-shake-up-60-year-old-aid-agency-heres-her-new-vision">New USAID director aims to shake up 60-year-old aid agency. Here's her 'new vision'</a> NPR: Like any government agency, the biggest American foreign aid group has its problems. This week, its new administrator Samantha Power outlined her solutions. 
  <p class="updated_time"> 10:41 AM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/05/world/europe/cop-protests.html">At COP26, Youth Want Action, Accountability as Protesters Rally</a> NYT: For many, the climate conference has inspired mixed emotions: concern that their voices were not really being listened to, but also hope that their presence would help drive change. 
  <p class="updated_time"> 10:39 AM CT, Nov. 05 </p> 
@@ -41,8 +45,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-china-59175400?at_medium=RSS&at_campaign=KARANGA">Deng Deng, the abandoned Shiba Inu, sells for $25k at auction in China</a> BBC: Deng Deng, a Shiba Inu abandoned by his owner in 2014, had a $78 starting price. 
  <p class="updated_time"> 08:16 AM CT, Nov. 05 </p> 
  <a href="https://www.npr.org/2021/11/05/1052695890/cancun-shootout-mexico-cartel">In a beach showdown by luxury hotels near Cancun, 2 people were shot dead </a> NPR: A commando of drug gang gunmen on Thursday stormed ashore at a beach on Mexico's resort-studded Caribbean coast in front of luxury hotels and executed two drug dealers from a rival gang. 
- <p class="updated_time"> 07:47 AM CT, Nov. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59175317?at_medium=RSS&at_campaign=KARANGA">Russian diplomat found dead outside Berlin embassy</a> BBC: Reports of last month's death have only just emerged and suggest the man fell from an upper floor. 
  <p class="updated_time"> 07:20 AM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/05/world/asia/singapore-capital-punishment-drugs.html">Rights Groups Urge Singapore Not to Execute Man With Mental Disability</a> NYT: The man, a Malaysian with an I.Q. of 69, was caught trying to smuggle an ounce and a half of heroin in 2009. Some are calling his planned hanging a human rights violation. 
  <p class="updated_time"> 07:05 AM CT, Nov. 05 </p> 
@@ -173,8 +175,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/59147659?at_medium=RSS&at_campaign=KARANGA">Climate change: Facebook fails to flag denial, study finds</a> BBC: Researchers tracked thousands of posts denying climate change - and only 8% were marked as misinformation. 
  <p class="updated_time"> 07:02 AM CT, Nov. 04 </p> 
  <a href="https://www.npr.org/2021/11/04/1051444707/cop26-climate-summit-uk-coal-mine">The U.K. considers its 1st new coal mine in decades even as it calls to phase out coal</a> NPR: A town in northern England wants to open a coking coal mine to create jobs. But while hosting the U.N. climate summit, Prime Minister Boris Johnson is urging countries to slash greenhouse gases. 
- <p class="updated_time"> 06:31 AM CT, Nov. 04 </p> 
- <a href="https://www.npr.org/2021/11/04/1052112717/the-u-n-says-climate-impacts-are-getting-worse-faster-than-the-world-is-adapting">The U.N. says climate impacts are getting worse faster than the world is adapting</a> NPR: A new report finds some climate impacts are already irreversible and will last for many decades to come.  It calls for far more money to help countries prepare for the growing risks they face. 
  <p class="updated_time"> 05:26 AM CT, Nov. 04 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-56901261?at_medium=RSS&at_campaign=KARANGA">COP26: What is the Glasgow climate conference and why is it important?</a> BBC: A crucial climate change summit is being held in the UK - this is why it's important. 
  <p class="updated_time"> 04:09 AM CT, Nov. 04 </p> 
