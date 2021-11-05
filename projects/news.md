@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:46 AM CT, Nov. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/business-59166014?at_medium=RSS&at_campaign=KARANGA">US sees strong jobs growth and higher wages</a> BBC: Employers took on 531,000 extra workers in October in a sign the economy is picking up. 
  <p class="updated_time"> 09:41 AM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/04/science/astronomy-decadal-survey-telescope.html">A New 10-Year Plan for the Cosmos</a> NYT: On astronomers’ wish list for the next decade: two giant telescopes and a space telescope to search for life and habitable worlds beyond Earth. 
  <p class="updated_time"> 09:38 AM CT, Nov. 05 </p> 
@@ -21,8 +23,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/05/world/europe/vienna-vaccinate-young-children.html">Vienna Will Start to Vaccinate Young Children</a> NYT: Pediatricians in the Austrian capital will authorize the off-label use of the BioNTech-Pfizer vaccine for children starting next Friday. 
  <p class="updated_time"> 09:28 AM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/europe/cop26-greenwashing-protest.html">Protesters March Against ‘Greenwashing' at COP26</a> NYT: As the focus of the Glasgow summit turns to funding, protesters call for greater accountability for companies’ climate promises. 
- <p class="updated_time"> 08:59 AM CT, Nov. 05 </p> 
- <a href="https://www.bbc.co.uk/news/business-59166014?at_medium=RSS&at_campaign=KARANGA">US sees sharp jobs growth and higher wages</a> BBC: Employers took on 531,000 extra workers in October in a sign the economy is picking up. 
  <p class="updated_time"> 08:33 AM CT, Nov. 05 </p> 
  <a href="https://www.bbc.co.uk/news/health-59178291?at_medium=RSS&at_campaign=KARANGA">Covid: Pfizer says antiviral pill 89% effective in high risk cases</a> BBC: The company stopped clinical trials early because initial results for the drug were so positive. 
  <p class="updated_time"> 08:24 AM CT, Nov. 05 </p> 
@@ -81,6 +81,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59173259?at_medium=RSS&at_campaign=KARANGA">Japan death row inmates sue over same-day executions</a> BBC: Prisoners are only notified hours before they are to be executed by hanging. 
  <p class="updated_time"> 12:45 AM CT, Nov. 05 </p> 
  <a href="https://www.bbc.co.uk/news/business-59172665?at_medium=RSS&at_campaign=KARANGA">Inflation: Global food prices hit fresh 10-year high, UN says</a> BBC: Reduced harvests and supply chain disruptions are helping to push up the cost of food. 
+ <p class="updated_time"> 12:30 AM CT, Nov. 05 </p> 
+ <a href="https://www.wsj.com/articles/climate-promises-by-businesses-face-new-scrutiny-11636104600">Climate Promises by Businesses Face New Scrutiny</a> WSJ: Businesses have lined up to declare their carbon-neutral goals during the Glasgow climate summit. Investors and regulators will be watching to see if they follow through. 
  <p class="updated_time"> 09:08 PM CT, Nov. 04 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59133056?at_medium=RSS&at_campaign=KARANGA">Wishcycling: The dos and don'ts of being good at recycling</a> BBC: Ever paused over the recycling bin, wondering whether to add a pizza box? You could be a wishcycler. 
  <p class="updated_time"> 08:56 PM CT, Nov. 04 </p> 
