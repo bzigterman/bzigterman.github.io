@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:16 PM CT, Nov. 05 </p> 
+ <a href="https://www.nytimes.com/2021/11/05/climate/cop26-vanessa-nakate.html">Vanessa Nakate, Ugandan Climate Activist, Offers an Optimistic Vision</a> NYT: The 24-year-old from Uganda has emerged as a leading voice of young people agitating for climate action. 
  <p class="updated_time"> 03:35 PM CT, Nov. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59186294?at_medium=RSS&at_campaign=KARANGA">Camels escape circus and wander Madrid streets</a> BBC: Eight camels and a llama were found, with managers blaming their escape on animal rights activists. 
  <p class="updated_time"> 03:31 PM CT, Nov. 05 </p> 
@@ -47,8 +49,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/04/world/europe/brexit-britain-france-johnson-macron.html">With Fish, Trucks and Submarines, U.K. and France Bicker Over Brexit</a> NYT: A recent dispute over fishing rights illuminates a broader and more fundamental disagreement over Britain’s decision to leave the European Union. 
  <p class="updated_time"> 11:14 AM CT, Nov. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59174383?at_medium=RSS&at_campaign=KARANGA">Vietnamese minister criticised over 'Salt Bae' gold-plated steak dinner</a> BBC: A video shows To Lam being fed gold-plated steak by the celebrity chef at his expensive London restaurant. 
- <p class="updated_time"> 11:11 AM CT, Nov. 05 </p> 
- <a href="https://www.nytimes.com/2021/11/05/climate/cop26-vanessa-nakate.html">Vanessa Nakate, Ugandan Climate Activist, Offers an Optimistic Vision</a> NYT: The 24-year-old from Uganda has emerged as a leading voice of young people agitating for climate action. 
  <p class="updated_time"> 10:48 AM CT, Nov. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59175317?at_medium=RSS&at_campaign=KARANGA">Russian diplomat found dead outside Berlin embassy</a> BBC: Reports of last month's death have only just emerged and suggest the man fell from an upper floor. 
  <p class="updated_time"> 10:47 AM CT, Nov. 05 </p> 
@@ -199,8 +199,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/03/world/nicola-sturgeon-scotland.html">Scotland's Nicola Sturgeon: 'We're Running out of Time."</a> NYT: The leader of the nation hosting COP26 said she hoped that a century from now, people will look back and “describe Glasgow as the place which really took the correct fork in the road for our planet.” 
  <p class="updated_time"> 02:32 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/europe/greece-covid-restrictions.html">Greece Tightens Covid Restrictions on the Unvaccinated</a> NYT: The restrictions start Saturday and target unvaccinated people, said the country’s health minister, Thanos Plevris. 
- <p class="updated_time"> 11:46 AM CT, Nov. 03 </p> 
- <a href="https://www.nytimes.com/2021/11/03/business/economy/biden-trade-policy-steel.html">European Steel Plan Shows Biden’s Bid to Merge Climate and Trade Policy</a> NYT: A potential agreement on steel trade provides the clearest look yet at how the Biden administration plans to implement a trade policy that is both protectionist and progressive 
 
 
 </details>
@@ -245,7 +243,7 @@ permalink: /projects/news/
  <p class="updated_time"> 09:23 AM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/04/us/politics/house-democrats-biden.html">House Democrats Hunt for Votes to Pass Biden’s Domestic Agenda</a> NYT: Speaker Nancy Pelosi wanted a vote on Thursday night on a $1.85 trillion social policy and climate bill, but moderates pushed back and action was postponed until Friday. 
  <p class="updated_time"> 06:57 AM CT, Nov. 05 </p> 
- <a href="https://www.npr.org/2021/11/05/1052206451/house-is-poised-for-a-vote-on-its-spending-plan-but-hurdles-remain">Biden urges House to pass social spending bill and infrastructure bill </a> NPR: Democrats have been debating the scope of President Biden's Build Back Better agenda for months and still haven't reached consensus. Even if the House OKs the bill, changes are expected in the Senate. 
+ <a href="https://www.npr.org/2021/11/05/1052206451/house-is-poised-for-a-vote-on-its-spending-plan-but-hurdles-remain">House punts on social spending bill, but will try to pass infrastructure bill </a> NPR: The change comes after House moderates said they would not vote on the $1.75 trillion spending package without a score from Congress's budget office. 
  <p class="updated_time"> 06:26 AM CT, Nov. 05 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/11/05/here-goes-the-house-spending-and-infrastructure-votes-teed-up-494996">Here goes the House: spending and infrastructure votes tee’d up</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 05:19 AM CT, Nov. 05 </p> 
@@ -342,8 +340,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/10/30/bidens-promise-to-progressives-494914">POLITICO Playbook: Biden’s promise to progressives</a> Politico: And the Supreme Court plans to hear two major cases. 
  <p class="updated_time"> 06:00 AM CT, Oct. 30 </p> 
  <a href="https://www.politico.com/news/2021/10/30/dems-race-to-renovate-bidens-domestic-policy-foundation-517782">Dems race to renovate Biden's domestic-policy foundation</a> Politico: “There are of course dozens of proposals that folks are going to make a last-ditch effort to add to it,” Sen. Chris Coons (D-Del.) said of the president’s social spending framework. 
- <p class="updated_time"> 05:01 AM CT, Oct. 30 </p> 
- <a href="https://www.politico.com/news/2021/10/30/call-logs-speech-drafts-among-records-trump-is-trying-to-block-from-jan-6-investigators-517796">Call logs, speech drafts among records Trump is trying to block from Jan. 6 investigators</a> Politico: The former president's effort to suppress more than 750 pages of records is far broader than previously known, a new court filing reveals. 
 
 
 </details>
