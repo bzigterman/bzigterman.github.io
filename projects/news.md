@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:17 PM CT, Nov. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59186204?at_medium=RSS&at_campaign=KARANGA">Hello, Senator? This is the Duchess of Sussex calling</a> BBC: Meghan Markle reportedly placed calls with US senators this week to lobby for family leave. 
+ <p class="updated_time"> 05:13 PM CT, Nov. 05 </p> 
+ <a href="https://www.nytimes.com/2021/11/05/world/africa/ethiopia-tigray-eight-groups.html">Eight Groups Join Tigray Rebels Vowing to Oust Ethiopia’s Leader</a> NYT: The government calls the new coalition, announced in Washington, a “publicity stunt,” as intermediaries try to negotiate a peaceful solution to a year of conflict. 
  <p class="updated_time"> 05:08 PM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/04/world/americas/biden-aide-covid-scotland.html">A White House aide who traveled abroad with Biden tests positive.</a> NYT: President Biden was not in close contact with the aide, who remains quarantined in Scotland and has not shown symptoms of Covid-19. 
  <p class="updated_time"> 05:05 PM CT, Nov. 05 </p> 
@@ -47,8 +51,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/05/world/middleeast/erdogan-turkey-cop26.html">As Turkey Chafes at Erdogan, He Gets Spikier Abroad</a> NYT: President Recep Tayyip Erdogan canceled an appearance at the global climate talks over a perceived slight, part of a pattern of creating international dramas to bolster his domestic standing. 
  <p class="updated_time"> 12:42 PM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/05/world/asia/china-coronavirus-ruili.html">Near-Daily Covid Tests, Sleeping in Classrooms: Life in Covid-Zero China</a> NYT: Residents in Ruili, in southwestern China, have been locked down four times in the past year as part of the country’s quest to eliminate the virus. 
- <p class="updated_time"> 12:22 PM CT, Nov. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59175765?at_medium=RSS&at_campaign=KARANGA">DR Congo's Gungu museum: Thousands of artefacts destroyed in fire</a> BBC: The now ruined artistic collections are considered some of the country's most important historical items. 
  <p class="updated_time"> 11:59 AM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/03/us/mayor-eric-garcetti-of-los-angeles-tests-positive-for-the-virus.html">Mayor Eric Garcetti of Los Angeles tests positive for the virus.</a> NYT: Mr. Garcetti’s office said the mayor, who is in Scotland for a conference on climate change, was feeling good and had been fully vaccinated. 
  <p class="updated_time"> 11:57 AM CT, Nov. 05 </p> 
@@ -199,8 +201,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/03/us/politics/drone-strike-kabul-child.html">Video Showed Child in Area Minutes Before Kabul Drone Strike</a> NYT: An investigation of the Aug. 29 airstrike, which mistakenly killed 10 civilians, including seven children, did not recommend any disciplinary action. 
  <p class="updated_time"> 04:49 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/nicola-sturgeon-scotland.html">Scotland's Nicola Sturgeon: 'We're Running out of Time."</a> NYT: The leader of the nation hosting COP26 said she hoped that a century from now, people will look back and “describe Glasgow as the place which really took the correct fork in the road for our planet.” 
- <p class="updated_time"> 02:32 PM CT, Nov. 03 </p> 
- <a href="https://www.nytimes.com/2021/11/03/world/europe/greece-covid-restrictions.html">Greece Tightens Covid Restrictions on the Unvaccinated</a> NYT: The restrictions start Saturday and target unvaccinated people, said the country’s health minister, Thanos Plevris. 
 
 
 </details>
@@ -208,6 +208,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:20 PM CT, Nov. 05 </p> 
+ <a href="https://www.nytimes.com/article/vaccine-mandate-biden-osha.html">OSHA's Vaccine Mandate: Your Questions Answered</a> NYT: We’re answering your questions about the new OSHA rules for employers with 100 or more workers. This F.A.Q. was last updated on Nov. 5 at 6:20 p.m. 
  <p class="updated_time"> 04:49 PM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/05/us/politics/project-veritas-investigation-ashley-biden-diary.html">People Tied to Project Veritas Scrutinized in Theft of Diary From Biden’s Daughter</a> NYT: The F.B.I. carried out search warrants in New York as part of a Justice Department investigation into how pages from Ashley Biden’s journal came to be published by a right wing website. 
  <p class="updated_time"> 03:56 PM CT, Nov. 05 </p> 
@@ -230,8 +232,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/05/house-democrats-infrastructure-vote-wait-megabill-519731">House Dems throw new curveball: Infrastructure vote, wait on party-line megabill</a> Politico: A progressive leader promptly rejected the latest in a dizzying round of strategic readjustments from Speaker Nancy Pelosi's leadership team. 
  <p class="updated_time"> 02:19 PM CT, Nov. 05 </p> 
  <a href="https://www.npr.org/2021/11/05/1052879445/university-florida-professors-testify-permission-desantis">University of Florida allows professors to testify in a voting rights case after all</a> NPR: The university is reversing its decision to bar three professors from serving as expert witnesses in a case against the state. The earlier decision was seen as an infringement of free speech. 
- <p class="updated_time"> 01:44 PM CT, Nov. 05 </p> 
- <a href="https://www.nytimes.com/article/vaccine-mandate-biden-osha.html">OSHA's Vaccine Mandate: Your Questions Answered</a> NYT: We’re answering your questions about the new OSHA rules for employers with 100 or more workers. This F.A.Q. was last updated at 7 p.m. 
  <p class="updated_time"> 12:18 PM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/05/business/congress-mckinsey-opioid-crisis.html">Congress Is Investigating McKinsey Over Its Role in the Opioid Crisis</a> NYT: A House committee has requested documents related to the firm’s advice to drug makers and potential conflicts of interest with the F.D.A. 
  <p class="updated_time"> 12:10 PM CT, Nov. 05 </p> 
@@ -245,7 +245,7 @@ permalink: /projects/news/
  <p class="updated_time"> 09:23 AM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/04/us/politics/house-democrats-biden.html">House Democrats Hunt for Votes to Pass Biden’s Domestic Agenda</a> NYT: Speaker Nancy Pelosi wanted a vote on Thursday night on a $1.85 trillion social policy and climate bill, but moderates pushed back and action was postponed until Friday. 
  <p class="updated_time"> 06:57 AM CT, Nov. 05 </p> 
- <a href="https://www.npr.org/2021/11/05/1052206451/house-is-poised-for-a-vote-on-its-spending-plan-but-hurdles-remain">House punts on social spending bill, but will try to pass infrastructure bill </a> NPR: The change comes after House moderates said they would not vote on the $1.75 trillion spending package without a score from Congress's budget office. 
+ <a href="https://www.npr.org/2021/11/05/1052206451/house-is-poised-for-a-vote-on-its-spending-plan-but-hurdles-remain">House punts on social spending bill, but will try to pass infrastructure bill </a> NPR: The change comes after House moderates said they would not vote on the $1.75 trillion spending package without a score from Congress' budget office. 
  <p class="updated_time"> 06:26 AM CT, Nov. 05 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/11/05/here-goes-the-house-spending-and-infrastructure-votes-teed-up-494996">Here goes the House: spending and infrastructure votes tee’d up</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 05:19 AM CT, Nov. 05 </p> 
