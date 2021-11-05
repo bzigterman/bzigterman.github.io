@@ -7,6 +7,12 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:38 PM CT, Nov. 05 </p> 
+ <a href="https://www.nytimes.com/2021/11/05/world/europe/cop-protests.html">At COP26, Youth Want Action, Accountability as Protesters Rally</a> NYT: For many, the climate conference has inspired mixed emotions: concern that their voices were not really being listened to, but also hope that their presence would help drive change. 
+ <p class="updated_time"> 02:34 PM CT, Nov. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-scotland-glasgow-west-59165781?at_medium=RSS&at_campaign=KARANGA">Greta Thunberg: COP26 is a failure and PR exercise</a> BBC: The Swedish activist was speaking after thousands of climate protestors marched through Glasgow. 
+ <p class="updated_time"> 02:34 PM CT, Nov. 05 </p> 
+ <a href="https://www.nytimes.com/2021/11/05/world/europe/cop26-greta-thunberg.html">Greta Thunberg Assails Leaders Outside COP26 Climate Summit</a> NYT: “The governments of the global north countries are still refusing to take any drastic climate action,” she told protesters in Glasgow. 
  <p class="updated_time"> 02:13 PM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/05/climate/cop26-john-kerry.html">John Kerry Lauds Progress at COP26 but Warns, ‘Job Not Done.’</a> NYT: Mr. Kerry, President Biden’s climate envoy, acknowledged that many of the promises being put forward in Glasgow were only that — promises. 
  <p class="updated_time"> 01:57 PM CT, Nov. 05 </p> 
@@ -17,8 +23,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/03/world/middleeast/iran-tanker-oil.html">Iran Seizes an Oil Tanker, but Whose Tanker Is Disputed</a> NYT: U.S. and Iranian officials gave conflicting accounts of a ship that was seized last month. Some reports said it was the same tanker the United States had seized last year. The Pentagon denied that. 
  <p class="updated_time"> 01:04 PM CT, Nov. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59175404?at_medium=RSS&at_campaign=KARANGA">Ethiopia urges ex-soldiers to join fight against Tigray rebels</a> BBC: The army calls on former military personnel to join it, as rebel forces advance on the capital. 
- <p class="updated_time"> 01:02 PM CT, Nov. 05 </p> 
- <a href="https://www.bbc.co.uk/news/uk-scotland-glasgow-west-59165781?at_medium=RSS&at_campaign=KARANGA">Greta Thunberg: COP26 is a failure and PR exercise</a> BBC: The Swedish activist was speaking after thousands of climate protestors marched through Glasgow. 
  <p class="updated_time"> 12:47 PM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/05/world/middleeast/erdogan-turkey-cop26.html">As Turkey Chafes at Erdogan, He Gets Spikier Abroad</a> NYT: President Recep Tayyip Erdogan canceled an appearance at the global climate talks over a perceived slight, part of a pattern of creating international dramas to bolster his domestic standing. 
  <p class="updated_time"> 12:42 PM CT, Nov. 05 </p> 
@@ -31,10 +35,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/03/climate/al-gore-cop26.html">At COP26, Gore Says Satellite Emissions Monitoring Helps Climate-Change Fight</a> NYT: Real-time checks on where greenhouse gases are being produced may prove a powerful weapon in the fight to cool the earth. 
  <p class="updated_time"> 11:57 AM CT, Nov. 05 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59176666?at_medium=RSS&at_campaign=KARANGA">My Day at COP26: 'By helping out delegates I'm remembering granddad'</a> BBC: Harjot Singh Kambo is one of an army of volunteers helping COP26 visitors find their way around. Here he explains why the task is a very personal one for him. 
- <p class="updated_time"> 11:49 AM CT, Nov. 05 </p> 
- <a href="https://www.nytimes.com/2021/11/05/world/europe/cop-protests.html">At COP26, Youth Want Action, Accountability as Protesters Rally</a> NYT: For many, the climate conference has inspired mixed emotions: concern that their voices were not really being listened to, but also hope that their presence would help drive change. 
- <p class="updated_time"> 11:42 AM CT, Nov. 05 </p> 
- <a href="https://www.nytimes.com/2021/11/05/world/europe/cop26-greta-thunberg.html">Greta Thunberg Assails Leaders Outside COP26 Climate Summit</a> NYT: “The governments of the global north countries are still refusing to take any drastic climate action,” she told protesters in Glasgow. 
  <p class="updated_time"> 11:17 AM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/04/world/europe/brexit-britain-france-johnson-macron.html">With Fish, Trucks and Submarines, U.K. and France Bicker Over Brexit</a> NYT: A recent dispute over fishing rights illuminates a broader and more fundamental disagreement over Britain’s decision to leave the European Union. 
  <p class="updated_time"> 11:14 AM CT, Nov. 05 </p> 
