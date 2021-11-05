@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:13 PM CT, Nov. 05 </p> 
+ <a href="https://www.nytimes.com/2021/11/05/climate/cop26-john-kerry.html">John Kerry Lauds Progress at COP26 but Warns, ‘Job Not Done.’</a> NYT: Mr. Kerry, President Biden’s climate envoy, acknowledged that many of the promises being put forward in Glasgow were only that — promises. 
+ <p class="updated_time"> 01:57 PM CT, Nov. 05 </p> 
+ <a href="https://www.nytimes.com/2021/11/05/world/states-sue-biden-vaccine-mandate.html">11 States Sue Over Biden's Vaccine Mandate for Big Companies</a> NYT: The lawsuit was filed a day after the announcement of a Jan. 4 deadline for the companies to begin their mandates or start weekly testing. 
  <p class="updated_time"> 01:53 PM CT, Nov. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59180744?at_medium=RSS&at_campaign=KARANGA">Ahmaud Arbery murder trial: Prosecutors reveal full footage of black jogger's death</a> BBC: Prosecutors in US state of Georgia say three white men assumed Ahmaud Arbery had committed a crime. 
  <p class="updated_time"> 01:51 PM CT, Nov. 05 </p> 
@@ -19,8 +23,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/05/world/middleeast/erdogan-turkey-cop26.html">As Turkey Chafes at Erdogan, He Gets Spikier Abroad</a> NYT: President Recep Tayyip Erdogan canceled an appearance at the global climate talks over a perceived slight, part of a pattern of creating international dramas to bolster his domestic standing. 
  <p class="updated_time"> 12:42 PM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/05/world/asia/china-coronavirus-ruili.html">Near-Daily Covid Tests, Sleeping in Classrooms: Life in Covid-Zero China</a> NYT: Residents in Ruili, in southwestern China, have been locked down four times in the past year as part of the country’s quest to eliminate the virus. 
- <p class="updated_time"> 12:29 PM CT, Nov. 05 </p> 
- <a href="https://www.nytimes.com/2021/11/05/climate/cop26-john-kerry.html">John Kerry Lauds Progress at COP26 but Warns, ‘Job Not Done.’</a> NYT: Mr. Kerry, President Biden’s climate envoy, acknowledged that many of the promises being put forward in Glasgow were only that — promises. 
  <p class="updated_time"> 12:22 PM CT, Nov. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59175765?at_medium=RSS&at_campaign=KARANGA">DR Congo's Gungu museum: Thousands of artefacts destroyed in fire</a> BBC: The now ruined artistic collections are considered some of the country's most important historical items. 
  <p class="updated_time"> 11:59 AM CT, Nov. 05 </p> 
@@ -57,8 +59,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/04/science/astronomy-decadal-survey-telescope.html">A New 10-Year Plan for the Cosmos</a> NYT: On astronomers’ wish list for the next decade: two giant telescopes and a space telescope to search for life and habitable worlds beyond Earth. 
  <p class="updated_time"> 09:38 AM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/05/world/europe/france-macron-alexandre-benalla-guilty.html">Ex-Macron Aide Convicted of Assault and Posing as a Police Officer</a> NYT: The aide, Alexandre Benalla, who was fired in 2018 after videos emerged of him beating a man at a labor protest, was sentenced to serve a year of house arrest with electronic monitoring. 
- <p class="updated_time"> 09:36 AM CT, Nov. 05 </p> 
- <a href="https://www.nytimes.com/2021/11/05/world/states-sue-biden-vaccine-mandate.html">11 States Sue Over Biden's Vaccine Mandate for Big Companies</a> NYT: The lawsuit was filed a day after the announcement of a Jan. 4 deadline for the companies to begin their mandates or start weekly testing. 
  <p class="updated_time"> 09:29 AM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/05/world/asia/india-diwali-covid.html">In India, Fears Grow That Diwali Celebrations Could Fuel Another Virus Spike</a> NYT: Epidemiologists are concerned that Covid cases will surge after shoppers thronged markets and hundreds of thousands traveled around the country to celebrate the festival. 
  <p class="updated_time"> 09:28 AM CT, Nov. 05 </p> 
@@ -210,14 +210,16 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:19 PM CT, Nov. 05 </p> 
+ <a href="https://www.npr.org/2021/11/05/1052879445/university-florida-professors-testify-permission-desantis">University of Florida allows professors to testify in a voting rights case after all</a> NPR: The university is reversing its decision to bar three professors from serving as expert witnesses in a case against the state. The earlier decision was seen as an infringement of free speech. 
+ <p class="updated_time"> 02:11 PM CT, Nov. 05 </p> 
+ <a href="https://www.nytimes.com/2021/11/05/us/politics/house-democrats-vote-infrastructure.html">What to Watch in the House on Friday</a> NYT: If House Democrats succeed, they will pass two marquee pieces of legislation by day’s end, sending one bill to the president’s desk and the other to the Senate. 
+ <p class="updated_time"> 02:02 PM CT, Nov. 05 </p> 
+ <a href="https://www.nytimes.com/2021/11/05/us/politics/project-veritas-investigation-ashley-biden-diary.html">People Tied to Project Veritas Scrutinized in Theft of Diary From Biden’s Daughter</a> NYT: The F.B.I. carried out search warrants in New York as part of a Justice Department investigation into how pages from Ashley Biden’s journal came to be published by a right wing website. 
  <p class="updated_time"> 01:44 PM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/article/vaccine-mandate-biden-osha.html">OSHA's Vaccine Mandate: Your Questions Answered</a> NYT: We’re answering your questions about the new OSHA rules for employers with 100 or more workers. This F.A.Q. was last updated at 7 p.m. 
- <p class="updated_time"> 01:42 PM CT, Nov. 05 </p> 
- <a href="https://www.nytimes.com/2021/11/05/us/politics/house-democrats-vote-infrastructure.html">What to Watch in the House on Friday</a> NYT: If House Democrats succeed, they will pass two marquee pieces of legislation by day’s end, sending one bill to the president’s desk and the other to the Senate. 
  <p class="updated_time"> 12:53 PM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/05/us/politics/colin-powell-funeral.html">At Colin Powell's Funeral, Washington Is Pulled Together</a> NYT: Republicans and Democrats, including President Biden and two of his predecessors, were at the Washington National Cathedral to honor the former secretary of state. 
- <p class="updated_time"> 12:26 PM CT, Nov. 05 </p> 
- <a href="https://www.nytimes.com/2021/11/05/us/politics/project-veritas-investigation-ashley-biden-diary.html">People Tied to Project Veritas Scrutinized in Theft of Diary From Biden’s Daughter</a> NYT: The F.B.I. carried out search warrants in New York as part of a Justice Department investigation into how pages from Ashley Biden’s journal came to be published by a right wing website. 
  <p class="updated_time"> 12:18 PM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/05/business/congress-mckinsey-opioid-crisis.html">Congress Is Investigating McKinsey Over Its Role in the Opioid Crisis</a> NYT: A House committee has requested documents related to the firm’s advice to drug makers and potential conflicts of interest with the F.D.A. 
  <p class="updated_time"> 12:10 PM CT, Nov. 05 </p> 
@@ -288,8 +290,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/04/1052346058/a-key-source-for-the-infamous-trump-russia-dossier-is-charged-with-lying-to-the-">A key source for the infamous Trump-Russia dossier is charged with lying to the FBI</a> NPR: Igor Danchenko was taken into custody Thursday as part of special counsel John Durham's investigation into the origins of the Trump-Russia probe. 
  <p class="updated_time"> 06:45 AM CT, Nov. 04 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/11/04/dems-attempt-an-end-of-week-spri-494981">Dems attempt an end-of-week sprint</a> Politico: A play-by-play preview of the day&#39;s congressional news 
- <p class="updated_time"> 06:21 AM CT, Nov. 04 </p> 
- <a href="https://www.npr.org/2021/11/04/1052248802/progressives-are-ready-to-vote-on-biden-agenda-bills-rep-jayapal-says">Progressives are ready to vote on Biden agenda bills, Rep. Jayapal says</a> NPR: NPR's Noel King talks to Democratic Rep. Pramila Jayapal of Washington, chair of the Congressional Progressive Caucus, about where they stand on the infrastructure bill as a vote nears in Congress. 
  <p class="updated_time"> 05:13 AM CT, Nov. 04 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/04/for-dems-its-2009-all-over-again-494977">POLITICO Playbook: For Dems, it’s ’2009 all over again’</a> Politico: And New Jersey Gov. Phil Murphy wins reelection narrowly. 
  <p class="updated_time"> 08:37 PM CT, Nov. 03 </p> 
