@@ -7,6 +7,24 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:44 PM CT, Nov. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59161935?at_medium=RSS&at_campaign=KARANGA">Africa's week in pictures: 29 October - 4 November 2021</a> BBC: A selection of the best photos from the African continent and beyond. 
+ <p class="updated_time"> 07:39 PM CT, Nov. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-59166607?at_medium=RSS&at_campaign=KARANGA">COP26: Indigenous Amazon activist 'got death threats' after speech</a> BBC: Txai Suruí says she worries for her safety and that of other young climate activists. 
+ <p class="updated_time"> 07:27 PM CT, Nov. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59170667?at_medium=RSS&at_campaign=KARANGA">Kirk Douglas assaulted Natalie Wood, her sister alleges</a> BBC: Lana Wood claims that Mr Douglas attacked her sister in 1955 when the late actress was a teenager. 
+ <p class="updated_time"> 07:27 PM CT, Nov. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-58976338?at_medium=RSS&at_campaign=KARANGA">How fresh is your food? Sensors could show you</a> BBC: Households contribute the most food waste - so what if you could track spoilage in real time? 
+ <p class="updated_time"> 07:23 PM CT, Nov. 04 </p> 
+ <a href="https://www.nytimes.com/2021/11/04/world/europe/covid-surge-europe-who.html">W.H.O. Official: 'Europe Is Back at Epicenter of the Pandemic'</a> NYT: The World Health Organization said Europe was responsible for nearly three-fifths of the world’s recent coronavirus cases, and that deaths in the region were surging. 
+ <p class="updated_time"> 07:12 PM CT, Nov. 04 </p> 
+ <a href="https://www.nytimes.com/2021/11/04/world/americas/biden-aide-covid-scotland.html">A White House aide who traveled abroad with Biden tests positive for the coronavirus.</a> NYT: President Biden was not in close contact with the aide, who remains quarantined in Scotland and has not shown symptoms of Covid-19. 
+ <p class="updated_time"> 07:03 PM CT, Nov. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59167085?at_medium=RSS&at_campaign=KARANGA">Ahmaud Arbery: Nearly all-white jury chosen in black jogger murder trial</a> BBC: The judge noted the appearance of discriminatory selection in the trial over Ahmaud Arbery's death. 
+ <p class="updated_time"> 06:59 PM CT, Nov. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59168626?at_medium=RSS&at_campaign=KARANGA">Trump-Russia Steele dossier analyst charged with lying to FBI</a> BBC: Igor Danchenko, who worked on a 2016 dossier that made baseless claims about Donald Trump, is arrested. 
+ <p class="updated_time"> 06:20 PM CT, Nov. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59168910?at_medium=RSS&at_campaign=KARANGA">Nostalgia-soaked photos capture legendary LA roller rink</a> BBC: Opened in 1979, Flipper's Roller Boogie Palace was a place for children and celebrities alike to skate. 
  <p class="updated_time"> 06:13 PM CT, Nov. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59171903?at_medium=RSS&at_campaign=KARANGA">Mexico: Shooting near Cancun leaves two dead, prosecutors say</a> BBC: A gang shootout near the Mexican resort has left two suspected drug dealers dead, prosecutors say. 
  <p class="updated_time"> 05:57 PM CT, Nov. 04 </p> 
@@ -23,16 +41,14 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/04/world/europe/brexit-britain-france-johnson-macron.html">Bitterness Over Brexit Lies Behind Fraying France-U.K. Relations</a> NYT: A recent dispute over fishing rights illuminates a broader and more fundamental disagreement over Britain’s decision to leave the European Union. 
  <p class="updated_time"> 05:14 PM CT, Nov. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59160525?at_medium=RSS&at_campaign=KARANGA">Covid: WHO warns Europe once again at epicentre of pandemic</a> BBC: The WHO warns of 500,000 more deaths in Europe by February as cases soar across the continent. 
- <p class="updated_time"> 05:01 PM CT, Nov. 04 </p> 
- <a href="https://www.nytimes.com/2021/11/04/world/europe/covid-surge-europe-who.html">W.H.O. Official: 'Europe Is Back at Epicenter of the Pandemic'</a> NYT: The World Health Organization said Europe was responsible for nearly three-fifths of the world’s recent coronavirus cases, and that deaths in the region were surging. 
  <p class="updated_time"> 04:31 PM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/africa/south-africa-coal-renewables.html">South Africa to Get $8.5 billion to Shift From Coal to Renewables</a> NYT: Developing nations have long said they need aid from wealthy countries to shift to renewable energy. South Africa may show how that would work in practice. 
  <p class="updated_time"> 04:31 PM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/uk-fossil-fuel-coal-cop26.html">18 Countries to Phase Out Coal, According to Leaked Document</a> NYT: The countries, banks and other organizations that make up a new coalition will commit to ending all investment in new coal power generation domestically and internationally. 
- <p class="updated_time"> 04:26 PM CT, Nov. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59167085?at_medium=RSS&at_campaign=KARANGA">Ahmaud Arbery: Nearly all-white jury chosen in black jogger murder trial</a> BBC: The judge noted the appearance of discriminatory selection in the trial over Ahmaud Arbery's death. 
  <p class="updated_time"> 04:23 PM CT, Nov. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59160526?at_medium=RSS&at_campaign=KARANGA">Portugal's president calls snap election</a> BBC: The vote follows six years of minority left-wing government led by António Costa. 
+ <p class="updated_time"> 04:18 PM CT, Nov. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59139998?at_medium=RSS&at_campaign=KARANGA">Does the skyscraper still have a future?</a> BBC: China is limiting the number of tall buildings, at a time when offices across the world are filled with empty desks. 
  <p class="updated_time"> 04:17 PM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/world/africa/ethiopia-tigray-crackdown.html">Crackdown Sweeps Ethiopia’s Capital as War Draws Near</a> NYT: Government forces were going to door to door in the Ethiopian capital, rounding up ethnic Tigrayans, members of the same ethnic group as the rebels closing in. 
  <p class="updated_time"> 04:14 PM CT, Nov. 04 </p> 
@@ -54,13 +70,13 @@ permalink: /projects/news/
  <p class="updated_time"> 12:45 PM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/style/rangoli-art-diwali.html">The Art and Ritual of Rangoli</a> NYT: Making ornate floor art can be a celebratory act for festivals like Diwali and a meditative practice. 
  <p class="updated_time"> 12:18 PM CT, Nov. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-59132633?at_medium=RSS&at_campaign=KARANGA">Quiz of the week: Who joined Macaulay Culkin in Gucci's Love Parade?</a> BBC: How closely have you been paying attention to what's been going on during the past seven days? 
+ <p class="updated_time"> 12:18 PM CT, Nov. 04 </p> 
  <a href="https://www.wsj.com/articles/new-galapagos-conservation-efforts-aim-to-counter-china-fishing-fleet-11636054242">New Galápagos Conservation Efforts Aim to Counter China Fishing Fleet</a> WSJ: Environmentalists applaud the plan by Ecuador and others to create a vast area off-limits to industrial fishing, but enforcement will be a challenge. 
  <p class="updated_time"> 12:01 PM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/science/nasa-space-tacos.html">NASA’s Latest Breakthrough: ‘Best Space Tacos Yet’</a> NYT: For the first time, astronauts on the International Space Station cultivated chiles, adding some zing to their tacos. 
  <p class="updated_time"> 11:59 AM CT, Nov. 04 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59167788?at_medium=RSS&at_campaign=KARANGA">My Day at COP26: 'It's my job to keep the summit fed - sustainably'</a> BBC: Lorna Wilson - in charge of catering at COP26 in Glasgow - describes the unique challenges of preparing for the event. 
- <p class="updated_time"> 11:53 AM CT, Nov. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59168626?at_medium=RSS&at_campaign=KARANGA">Trump-Russia Steele dossier analyst charged with lying to FBI</a> BBC: Igor Danchenko, who worked on a largely unsubstantiated 2016 dossier on Donald Trump, is arrested. 
  <p class="updated_time"> 11:36 AM CT, Nov. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59167345?at_medium=RSS&at_campaign=KARANGA">LA 'jetpack man' was probably a balloon</a> BBC: Investigators think a figure seen flying over Los Angeles was actually a life-size inflatable. 
  <p class="updated_time"> 11:27 AM CT, Nov. 04 </p> 
@@ -91,12 +107,8 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/covid-19-coronavirus-coverup-tanzania-11636042309">Inside the World's Most Blatant Covid-19 Coverup: Secret Burials, a Dead President</a> WSJ: Tanzania denied the existence of the pandemic for months, even as thousands likely died. The country is a clue to its hidden global toll; “This is one of the government’s coronavirus cemeteries, but we’re not allowed to call it that.” 
  <p class="updated_time"> 06:31 AM CT, Nov. 04 </p> 
  <a href="https://www.wsj.com/articles/hong-kongs-top-court-narrows-scope-for-charging-protesters-11636027743">Hong Kong's Top Court Narrows Scope for Charging Protesters</a> WSJ: The city’s highest court ruled against the government in a rioting case, a decision likely to draw greater scrutiny from Beijing of the Chinese territory’s British-style justice system. 
- <p class="updated_time"> 06:05 AM CT, Nov. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-59162188?at_medium=RSS&at_campaign=KARANGA">Cleo Smith: Australian man charged over four-year-old's abduction</a> BBC: The four-year-old was found in a locked home 18 days after disappearing while on holiday with family. 
  <p class="updated_time"> 05:32 AM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/asia/china-metoo-peng-shuai-zhang-gaoli.html">China's Peng Shuai Makes #MeToo Claim Against Zhang Gaoli</a> NYT: Peng Shuai’s accusation against Zhang Gaoli takes the country’s budding #MeToo movement to the top echelons of the Communist Party for the first time. 
- <p class="updated_time"> 05:26 AM CT, Nov. 04 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-56901261?at_medium=RSS&at_campaign=KARANGA">COP26: What is the Glasgow climate conference and why is it important?</a> BBC: A crucial climate change summit is being held in the UK - this is why it's important. 
  <p class="updated_time"> 04:53 AM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/australia/australia-scott-morrison-cop26.html">What Did Scott Morrison, Australia's Leader, Accomplish at COP26?</a> NYT: Prime Minister Scott Morrison did not announce any firm plans to move away from the country’s deep investment in fossil fuel production. 
  <p class="updated_time"> 04:45 AM CT, Nov. 04 </p> 
@@ -125,16 +137,10 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/north-korea-can-make-more-uranium-for-nuclear-bombs-than-previously-thought-11636006162">North Korea Can Make More Uranium for Nuclear Bombs Than Previously Thought</a> WSJ: North Korea has the capacity to make more base ingredients for nuclear bombs than previously believed, according to new research. 
  <p class="updated_time"> 08:50 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/middleeast/iran-tanker-oil.html">Iran Seizes an Oil Tanker, but Whose Tanker Is Disputed</a> NYT: U.S. and Iranian officials gave conflicting accounts of a ship that was seized last month. Some reports said it was the same tanker the United States had seized last year. The Pentagon denied that. 
- <p class="updated_time"> 08:43 PM CT, Nov. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59151370?at_medium=RSS&at_campaign=KARANGA">Ethiopia's war one year on: How to end the suffering</a> BBC: Rebels advance towards the capital, while Prime Minister Abiy Ahmed vows to "bury his enemies". 
  <p class="updated_time"> 08:26 PM CT, Nov. 03 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59133207?at_medium=RSS&at_campaign=KARANGA">Diwali 2021: India celebrates festival of lights under shadow of Covid-19</a> BBC: Marked by feasts and fireworks, Diwali is one of the most important festivals in India. 
  <p class="updated_time"> 08:20 PM CT, Nov. 03 </p> 
  <a href="https://www.bbc.co.uk/news/disability-59042087?at_medium=RSS&at_campaign=KARANGA">Climate change: Why are disabled people so affected by the climate crisis?</a> BBC: Disabled people are among those worst affected by emergencies, including climate crises - but why? 
- <p class="updated_time"> 08:18 PM CT, Nov. 03 </p> 
- <a href="https://www.bbc.co.uk/news/newsbeat-59149046?at_medium=RSS&at_campaign=KARANGA">Schitt's Creek's Dan Levy on memes, representation and 'Ew David'</a> BBC: Dan Levy tells Newsbeat about iconic memes, the Rose family and LGBTQ+ representation on his show. 
- <p class="updated_time"> 08:01 PM CT, Nov. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59075043?at_medium=RSS&at_campaign=KARANGA">Greeks fear megafires could be new normal for Med</a> BBC: On the Greek island of Evia last summer an intense conflagration took almost two weeks to control. 
  <p class="updated_time"> 07:24 PM CT, Nov. 03 </p> 
  <a href="https://www.bbc.co.uk/news/uk-59149435?at_medium=RSS&at_campaign=KARANGA">COP26: How protesters prepared for the Glasgow climate change summit</a> BBC: Since the COP26 climate change summit started, hundreds of protesters have taken to the city's streets. 
  <p class="updated_time"> 07:23 PM CT, Nov. 03 </p> 
@@ -181,10 +187,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/03/climate/ban-ki-moon-green-economy.html">Governments Must Invest in Jobs in Green Economy, Ban Ki-moon Says.</a> NYT: His comments come amid rising concern that transitioning to a greener economy could provoke a backlash if the cost falls to low- and middle-income people. 
  <p class="updated_time"> 04:00 AM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/asia/squid-game-korea-bts.html">From BTS to ‘Squid Game’: How South Korea Became a Cultural Juggernaut</a> NYT: The country was once largely known for cars and smartphones, but a global audience has become mesmerized by its entertainment, and creators say success didn’t happen overnight. 
- <p class="updated_time"> 02:13 AM CT, Nov. 03 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-59146086?at_medium=RSS&at_campaign=KARANGA">Cleo Smith: Missing four-year-old found alive weeks after vanishing</a> BBC: Cleo Smith disappeared from her family's tent at a campsite in Western Australia 18 days ago. 
- <p class="updated_time"> 04:24 PM CT, Nov. 02 </p> 
- <a href="https://www.nytimes.com/2021/11/02/world/africa/nigeria-lagos-building-collapse.html">Building in Nigeria Had ‘Abnormalities’ Before Collapse</a> NYT: At least 20 people were killed when the high-rise in an upscale neighborhood in the commercial capital of Lagos crumbled on Monday afternoon. 
 
 
 </details>
@@ -192,16 +194,18 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:46 PM CT, Nov. 04 </p> 
+ <a href="https://www.nytimes.com/2021/11/04/us/politics/house-democrats-biden.html">House Democrats Hunt for Votes to Pass Biden’s Domestic Agenda</a> NYT: Speaker Nancy Pelosi wanted a vote on Thursday night on a $1.85 trillion social policy and climate bill, but moderates were pushing back. 
+ <p class="updated_time"> 06:59 PM CT, Nov. 04 </p> 
+ <a href="https://www.nytimes.com/2021/11/03/us/politics/democrat-losses-2022.html">Reeling From Surprise Losses, Democrats Sound the Alarm for 2022</a> NYT: Party officials say the White House and Congress must do more to address the electorate’s deep malaise or risk watching voters lurch back toward the G.O.P. by default. 
  <p class="updated_time"> 06:54 PM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/article/vaccine-mandate-biden-osha.html">OSHA's Vaccine Mandate: Your Questions Answered</a> NYT: We’re answering your questions about the new OSHA rules for employers with 100 or more workers. This F.A.Q. was last updated at 7 p.m. 
- <p class="updated_time"> 06:29 PM CT, Nov. 04 </p> 
- <a href="https://www.nytimes.com/2021/11/04/us/politics/house-democrats-biden.html">House Democrats Hunt for Votes to Pass Biden’s Domestic Agenda</a> NYT: Speaker Nancy Pelosi wanted a vote on Thursday night on a $1.85 trillion social policy and climate bill, but moderates were pushing back. 
  <p class="updated_time"> 06:29 PM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/us/politics/texas-voting-restrictions-lawsuit.html">Justice Dept. Sues Texas Over Voting Restrictions</a> NYT: The department argued that a major voting law passed by Republicans would disenfranchise several groups of vulnerable Texans, including voters who do not speak English and those with disabilities. 
  <p class="updated_time"> 06:22 PM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/us/politics/atlanta-mayor-runoff-felicia-moore.html">Felicia Moore, Andre Dickens Will Compete for Atlanta Mayor; Kasim Reed Falls Short</a> NYT: Two candidates, Felicia Moore and Andre Dickens, will compete in a runoff on Nov. 30. 
  <p class="updated_time"> 06:11 PM CT, Nov. 04 </p> 
- <a href="https://www.nytimes.com/2021/11/04/us/politics/democrats-turnout-virginia.html">The Democratic Turnout Myth Unravels</a> NYT: It was long thought that surges in voting would help Democrats. So how does the party explain Glenn Youngkin’s victory? 
+ <a href="https://www.nytimes.com/2021/11/04/us/politics/democrats-turnout-virginia.html">How Virginia’s Governor Race Unraveled the Democratic Turnout Myth</a> NYT: It was long thought that surges in voting would help Democrats. So how does the party explain Glenn Youngkin’s victory? 
  <p class="updated_time"> 05:50 PM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/nyregion/stephen-sweeney-durr-nj-election.html">Republican Truck Driver Beats Sweeney in N.J. Election</a> NYT: Mr. Sweeney, the second most powerful lawmaker in New Jersey and a Democrat, lost his bid for re-election to Edward Durr, a driver for a furniture chain. 
  <p class="updated_time"> 05:43 PM CT, Nov. 04 </p> 
@@ -210,8 +214,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/04/us/politics/democrats-spending-bill-budget-tricks.html">Democrats Employ Budget Gimmicks They Once Derided</a> NYT: Budget experts say true cost of legislation could be $4 trillion as lawmakers rely on sleights of hand to bring down the price tag. 
  <p class="updated_time"> 03:29 PM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/us/politics/biden-donors-white-house.html">Why Big Donors to Biden's 2020 Campaign Are Frustrated</a> NYT: Some of the top Democratic contributors have become increasingly dissatisfied with a lack of communication from the White House — and impatient with inaction on voting rights. 
- <p class="updated_time"> 03:01 PM CT, Nov. 04 </p> 
- <a href="https://www.nytimes.com/2021/11/03/us/politics/democrat-losses-2022.html">Reeling From Surprise Losses, Democrats Sound the Alarm for 2022</a> NYT: Party officials say the White House and Congress must do more to address the electorate’s deep malaise or risk watching voters lurch back toward the G.O.P. by default. 
  <p class="updated_time"> 02:51 PM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/us/politics/trump-jan-6-documents.html">Judge Questions Trump’s Grounds for Keeping Jan. 6 Documents Secret</a> NYT: In a hearing on Thursday, a federal judge voiced skepticism about the former president’s claim that hundreds of pages of documents related to the riot should be shielded by executive privilege. 
  <p class="updated_time"> 02:41 PM CT, Nov. 04 </p> 
