@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:08 PM CT, Nov. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/science-environment-59133056?at_medium=RSS&at_campaign=KARANGA">Wishcycling: The dos and don'ts of being good at recycling</a> BBC: Ever paused over the recycling bin, wondering whether to add a pizza box? You could be a wishcycler. 
  <p class="updated_time"> 08:56 PM CT, Nov. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-58895748?at_medium=RSS&at_campaign=KARANGA">A journey from slum to Sydney, upended by the pandemic</a> BBC: Tushar Joshi's dreams of studying in Australia on a scholarship have been upended by Covid-19. 
  <p class="updated_time"> 08:25 PM CT, Nov. 04 </p> 
@@ -107,6 +109,8 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/climate-finance-china-india-11636039142">China, India and Other Developing Nations Seek $1.3 Trillion a Year in Climate Finance</a> WSJ: Most of the world’s developing countries have backed a demand for wealthy nations to channel at least $1.3 trillion in climate finance to them annually starting in 2030, the opening salvo in one of the most contentious negotiating topics at the COP26 climate summit. 
  <p class="updated_time"> 08:36 AM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/world/australia/charge-cleo-smith.html">Cleo Smith Abduction: Australian Man Is Charged After 18-Day Search </a> NYT: The legal action came as the Australian authorities continued to address questions about how the police had been able to find Cleo Smith, who vanished from a remote campsite. 
+ <p class="updated_time"> 08:19 AM CT, Nov. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/59147659?at_medium=RSS&at_campaign=KARANGA">Climate change: Facebook fails to flag denial, study finds</a> BBC: Researchers tracked thousands of posts denying climate change - and only 8% were marked as misinformation. 
  <p class="updated_time"> 07:13 AM CT, Nov. 04 </p> 
  <a href="https://www.wsj.com/articles/covid-19-coronavirus-coverup-tanzania-11636042309">Inside the World's Most Blatant Covid-19 Coverup: Secret Burials, a Dead President</a> WSJ: Tanzania denied the existence of the pandemic for months, even as thousands likely died. The country is a clue to its hidden global toll; “This is one of the government’s coronavirus cemeteries, but we’re not allowed to call it that.” 
  <p class="updated_time"> 06:31 AM CT, Nov. 04 </p> 
@@ -141,10 +145,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/north-korea-can-make-more-uranium-for-nuclear-bombs-than-previously-thought-11636006162">North Korea Can Make More Uranium for Nuclear Bombs Than Previously Thought</a> WSJ: North Korea has the capacity to make more base ingredients for nuclear bombs than previously believed, according to new research. 
  <p class="updated_time"> 08:50 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/middleeast/iran-tanker-oil.html">Iran Seizes an Oil Tanker, but Whose Tanker Is Disputed</a> NYT: U.S. and Iranian officials gave conflicting accounts of a ship that was seized last month. Some reports said it was the same tanker the United States had seized last year. The Pentagon denied that. 
- <p class="updated_time"> 08:20 PM CT, Nov. 03 </p> 
- <a href="https://www.bbc.co.uk/news/disability-59042087?at_medium=RSS&at_campaign=KARANGA">Climate change: Why are disabled people so affected by the climate crisis?</a> BBC: Disabled people are among those worst affected by emergencies, including climate crises - but why? 
- <p class="updated_time"> 07:24 PM CT, Nov. 03 </p> 
- <a href="https://www.bbc.co.uk/news/uk-59149435?at_medium=RSS&at_campaign=KARANGA">COP26: How protesters prepared for the Glasgow climate change summit</a> BBC: Since the COP26 climate change summit started, hundreds of protesters have taken to the city's streets. 
  <p class="updated_time"> 07:23 PM CT, Nov. 03 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59092240?at_medium=RSS&at_campaign=KARANGA">What is hydrogen energy and why is it important?</a> BBC: The BBC’s Roger Harrabin takes a look at the tech behind hydrogen energy and its green potential. 
  <p class="updated_time"> 06:00 PM CT, Nov. 03 </p> 
@@ -179,8 +179,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/03/world/asia/sunao-tsuboi-dead.html">Sunao Tsuboi, 96, Dies; Hiroshima Victim Who Lived to Tell His Story</a> NYT: After suffering through the agony of the attack and its aftermath, he devoted himself to spreading the message that nuclear weapons should be abolished. 
  <p class="updated_time"> 10:30 AM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/as-deadlines-loom-the-us-military-grants-few-vaccine-exemptions.html">As deadlines loom, the U.S. military grants few vaccine exemptions.</a> NYT: NA 
- <p class="updated_time"> 09:58 AM CT, Nov. 03 </p> 
- <a href="https://www.bbc.co.uk/news/58956714?at_medium=RSS&at_campaign=KARANGA">Climate change: What are the big polluters doing to cut carbon emissions?</a> BBC: The top emissions-producing nations all have plans to tackle global warming, but what progress are they making? 
  <p class="updated_time"> 06:08 AM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/duterte-vows-to-punish-philippine-officials-for-slow-vaccine-delivery.html">Duterte vows to punish Philippine officials for slow vaccine delivery.</a> NYT: NA 
  <p class="updated_time"> 04:58 AM CT, Nov. 03 </p> 
@@ -221,7 +219,7 @@ permalink: /projects/news/
  <p class="updated_time"> 02:26 PM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/us/politics/robert-santos-census-bureau.html">Robert Santos Confirmed as First Latino to Lead Census Bureau</a> NYT: The confirmation on Thursday brings a permanent head to the agency after a turbulent period under the Trump administration. 
  <p class="updated_time"> 11:54 AM CT, Nov. 04 </p> 
- <a href="https://www.politico.com/news/2021/11/04/pelosi-domestic-agenda-519503">Pelosi amps up final-hour pressure campaign with no clear path to votes</a> Politico: Democratic leaders made headway in some areas, but key lawmakers were still drafting new language on immigration as late as 9 p.m. 
+ <a href="https://www.politico.com/news/2021/11/04/pelosi-domestic-agenda-519503">Pelosi amps up domestic agenda pressure campaign with no clear path to votes</a> Politico: Democratic leaders made headway in some areas, but key lawmakers were still drafting new language on immigration as late as 9 p.m. 
  <p class="updated_time"> 11:49 AM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/03/us/politics/school-republican-campaign-issue.html">Republicans Seize on Schools as a Wedge Issue to Unite the Party</a> NYT: Rallying around what it calls “parental rights,” the party is pushing to build on its victories this week by stoking white resentment and tapping into broader anger at the education system. 
  <p class="updated_time"> 06:45 AM CT, Nov. 04 </p> 
