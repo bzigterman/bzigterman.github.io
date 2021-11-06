@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:23 PM CT, Nov. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59188753?at_medium=RSS&at_campaign=KARANGA">Sierra Leone explosion: Scores dead after Freetown oil tanker collision</a> BBC: The accident happened after the tanker collided with another vehicle in the nation's capital, Freetown. 
+ <p class="updated_time"> 12:22 PM CT, Nov. 06 </p> 
+ <a href="https://www.nytimes.com/2021/11/06/world/africa/tanker-truck-explodes-sierra-leone.html">Tanker Truck Explodes in Sierra Leone, Killing at Least 98</a> NYT: The truck first started leaking fuel and people had rushed to collect it, an official said. Many of them died in the blast, along with others nearby. 
  <p class="updated_time"> 12:18 PM CT, Nov. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59193150?at_medium=RSS&at_campaign=KARANGA">Travis Scott 'devastated' by Texas festival deaths</a> BBC: The rapper says he is "absolutely devastated" by the deaths that occurred at his Astroworld festival. 
  <p class="updated_time"> 11:09 AM CT, Nov. 06 </p> 
@@ -17,8 +21,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59191108?at_medium=RSS&at_campaign=KARANGA">Palma de Mallorca: Fleeing passengers shut down busy Spanish airport</a> BBC: Palma de Mallorca Airport closes for four hours after 21 people run from a plane across the tarmac. 
  <p class="updated_time"> 10:52 AM CT, Nov. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59181509?at_medium=RSS&at_campaign=KARANGA">Three seriously injured in knife attack on train in Germany</a> BBC: A 27-year-old Syrian man is arrested after the attack on a high-speed train in Bavaria. 
- <p class="updated_time"> 10:27 AM CT, Nov. 06 </p> 
- <a href="https://www.nytimes.com/2021/11/06/world/africa/tanker-truck-explodes-sierra-leone.html">Tanker Truck Explodes in Sierra Leone, Killing at Least 98</a> NYT: The truck first started leaking fuel and people had rushed to collect it, an official said. Many of them died in the blast, along with others nearby. 
  <p class="updated_time"> 10:22 AM CT, Nov. 06 </p> 
  <a href="https://www.nytimes.com/2021/11/06/world/europe/spain-plane-passengers-escape.html">Spanish Police Seek Missing Plane Passengers After Emergency Landing</a> NYT: More than 20 people fled a Moroccan flight that diverted to Mallorca after a passenger apparently fell ill. A dozen had yet to be found. 
  <p class="updated_time"> 09:53 AM CT, Nov. 06 </p> 
@@ -27,8 +29,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/05/climate/cop26-vanessa-nakate.html">Vanessa Nakate, Ugandan Climate Activist, Offers an Optimistic Vision</a> NYT: The 24-year-old from Uganda has emerged as a leading voice of young people agitating for climate action. 
  <p class="updated_time"> 09:53 AM CT, Nov. 06 </p> 
  <a href="https://www.nytimes.com/2021/11/05/world/europe/cop26-greta-thunberg.html">Greta Thunberg Assails Leaders Outside COP26 Climate Summit</a> NYT: “The governments of the global north countries are still refusing to take any drastic climate action,” she told protesters in Glasgow. 
- <p class="updated_time"> 09:40 AM CT, Nov. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59188753?at_medium=RSS&at_campaign=KARANGA">Sierra Leone explosion: Scores dead after Freetown oil tanker collision</a> BBC: The accident happened after the tanker collided with another vehicle in the nation's capital, Freetown. 
  <p class="updated_time"> 09:35 AM CT, Nov. 06 </p> 
  <a href="https://www.nytimes.com/2021/11/06/world/europe/cop-climate-protests.html">COP26 Protesters Back an Array of Causes, Connected by Climate Change</a> NYT: Thousands gathered in the rain in Glasgow to press the case for more urgent and meaningful action by world leaders in response to global warming. 
  <p class="updated_time"> 09:01 AM CT, Nov. 06 </p> 
@@ -37,6 +37,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/06/world/asia/india-fire-covid-icu.html">Fire in Covid intensive care ward kills 11 people in India.</a> NYT: Staff at the hospital in the western state of Maharashtra tried to douse the fire with fire extinguishers, but the flames spread quickly in the airtight room. 
  <p class="updated_time"> 09:01 AM CT, Nov. 06 </p> 
  <a href="https://www.nytimes.com/2021/11/06/world/americas/costa-rica-covid-vaccine-children.html">Costa Rica moves to require Covid shots for children.</a> NYT: The Central American nation’s health ministry said on Friday it was adding Covid-19 to the list of required vaccinations for people 18 and younger. 
+ <p class="updated_time"> 08:31 AM CT, Nov. 06 </p> 
+ <a href="https://www.wsj.com/articles/cop26-protesters-in-glasgow-push-for-action-from-leaders-11636208381">COP26 Protesters in Glasgow Push for Action From Leaders</a> WSJ: Protesters in the tens of thousands braved rain and gusts to march through the Scottish city hosting a United Nations climate summit, pushing for more action from governments to curb global warming. 
  <p class="updated_time"> 08:15 AM CT, Nov. 06 </p> 
  <a href="https://www.nytimes.com/2021/11/05/world/europe/france-macron-alexandre-benalla-guilty.html">Ex-Macron Aide Convicted of Assault and Posing as a Police Officer</a> NYT: The aide, Alexandre Benalla, who was fired in 2018 after videos emerged of him beating a man at a labor protest, was sentenced to serve a year of house arrest with electronic monitoring. 
  <p class="updated_time"> 07:23 AM CT, Nov. 06 </p> 
@@ -51,8 +53,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/06/1053162519/sierra-leone-oil-tanker-explosion">An oil tanker explodes in Sierra Leone, killing at least 92 and injuring dozens</a> NPR: The explosion took place after a bus struck the tanker near the country's capital city. Dozens were injured after large crowds gathered to collect leaking fuel, officials and witnesses said. 
  <p class="updated_time"> 06:00 AM CT, Nov. 06 </p> 
  <a href="https://www.wsj.com/articles/fuel-tanker-explosion-in-sierra-leone-kills-at-least-99-11636210816">Fuel-Tanker Explosion in Sierra Leone Kills at Least 99</a> WSJ: The explosion happened shortly after a fuel tanker collided with another vehicle near a gasoline station in a suburb of the capital Freetown, causing a large spill, city officials said. 
- <p class="updated_time"> 05:51 AM CT, Nov. 06 </p> 
- <a href="https://www.wsj.com/articles/cop26-protesters-in-glasgow-push-for-action-from-leaders-11636208381">COP26 Protesters in Glasgow Push for Action From Leaders</a> WSJ: Police blocked off swaths of the host city of a U.N. climate summit, with organizers originally expecting tens of thousands of demonstrators. 
  <p class="updated_time"> 04:11 AM CT, Nov. 06 </p> 
  <a href="https://www.nytimes.com/2021/11/05/world/africa/ethiopia-tigray-eight-groups.html">Eight Groups Join Tigray Rebels Vowing to Oust Ethiopia’s Leader</a> NYT: The government calls the new coalition, announced in Washington, a “publicity stunt,” as intermediaries try to negotiate a peaceful solution to a year of conflict. 
  <p class="updated_time"> 04:00 AM CT, Nov. 06 </p> 
@@ -212,8 +212,10 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:31 PM CT, Nov. 06 </p> 
+ <a href="https://www.nytimes.com/2021/11/05/us/politics/project-veritas-investigation-ashley-biden-diary.html">People Tied to Project Veritas Scrutinized in Theft of Diary From Biden’s Daughter</a> NYT: The F.B.I. carried out search warrants in New York as part of a Justice Department investigation into how pages from Ashley Biden’s journal came to be published by a right wing website. 
  <p class="updated_time"> 11:55 AM CT, Nov. 06 </p> 
- <a href="https://www.nytimes.com/2021/11/06/us/politics/ashley-biden-project-vertias-fbi.html">F.B.I. Searches James O’Keefe’s Home in Ashley Biden Diary Theft Inquiry</a> NYT: Authorities carried out a court-ordered search at the New York apartment of the Project Veritas founder two days after searching the homes of his associates. 
+ <a href="https://www.nytimes.com/2021/11/06/us/politics/james-okeefe-project-veritas-ashley-biden.html">F.B.I. Searches James O’Keefe’s Home in Ashley Biden Diary Theft Inquiry</a> NYT: Authorities carried out a court-ordered search at the New York apartment of the Project Veritas founder two days after searching the homes of his associates. 
  <p class="updated_time"> 11:52 AM CT, Nov. 06 </p> 
  <a href="https://www.nytimes.com/2021/11/06/us/states-infrastructure-bill-funding.html">This Is Where the States Want Billions in Infrastructure Funding Spent</a> NYT: The plan finally approved on Friday will address transportation, water, broadband, energy and public safety needs that have been building for years, sometimes decades. 
  <p class="updated_time"> 11:45 AM CT, Nov. 06 </p> 
@@ -246,8 +248,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/05/house-infrastructure-bill-519796">House ships $550B infrastructure legislation to Biden’s desk after months of delay</a> Politico: Only 13 House Republicans voted for the bill, alongside all but 6 Democrats. 
  <p class="updated_time"> 10:27 PM CT, Nov. 05 </p> 
  <a href="https://www.npr.org/2021/11/05/1050012853/the-house-has-passed-the-1-trillion-infrastructure-plan-sending-it-to-bidens-des">Biden says final passage of $1 trillion infrastructure plan is a big step forward</a> NPR: The bipartisan bill's journey from the Senate to the president has been a tumultuous one. The legislation includes nearly $550 billion in new spending on items including broadband, roads and rail. 
- <p class="updated_time"> 09:10 PM CT, Nov. 05 </p> 
- <a href="https://www.nytimes.com/2021/11/05/us/politics/project-veritas-investigation-ashley-biden-diary.html">People Tied to Project Veritas Scrutinized in Theft of Diary From Biden’s Daughter</a> NYT: The F.B.I. carried out search warrants in New York as part of a Justice Department investigation into how pages from Ashley Biden’s journal came to be published by a right wing website. 
  <p class="updated_time"> 08:35 PM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/05/us/politics/jeffrey-clark-capitol-riot-committee.html">Trump Justice Dept. Official Defies Request by Jan. 6 Panel</a> NYT: Jeffrey Clark, who aided in the former president’s efforts to overturn the election, appeared before the committee but would not answer substantive questions. 
  <p class="updated_time"> 07:52 PM CT, Nov. 05 </p> 
