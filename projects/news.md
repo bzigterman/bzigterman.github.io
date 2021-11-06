@@ -7,9 +7,9 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:35 AM CT, Nov. 06 </p> 
+ <p class="updated_time"> 05:26 AM CT, Nov. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59188753?at_medium=RSS&at_campaign=KARANGA">Sierra Leone explosion: Scores dead after Freetown oil tanker collision</a> BBC: A huge explosion happened after an oil truck collided with another vehicle in the nation's capital. 
- <p class="updated_time"> 04:29 AM CT, Nov. 06 </p> 
+ <p class="updated_time"> 05:19 AM CT, Nov. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59188960?at_medium=RSS&at_campaign=KARANGA">Travis Scott's Astroworld: Eight killed after crowd surge at Texas festival</a> BBC: Panic broke out after the crowd began to press towards the stage at Travis Scott's Astroworld Festival. 
  <p class="updated_time"> 04:11 AM CT, Nov. 06 </p> 
  <a href="https://www.nytimes.com/2021/11/05/world/africa/ethiopia-tigray-eight-groups.html">Eight Groups Join Tigray Rebels Vowing to Oust Ethiopia’s Leader</a> NYT: The government calls the new coalition, announced in Washington, a “publicity stunt,” as intermediaries try to negotiate a peaceful solution to a year of conflict. 
