@@ -7,22 +7,22 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:11 PM CT, Nov. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59194819?at_medium=RSS&at_campaign=KARANGA">Astroworld: Criminal investigation into Texas festival crowd surge</a> BBC: Eight people died after a deadly crowd surge during a performance by rapper Travis Scott. 
+ <p class="updated_time"> 05:11 PM CT, Nov. 06 </p> 
+ <a href="https://www.nytimes.com/2021/11/06/world/americas/biden-osha-vaccine-mandate-blocked.html">Court Temporarily Blocks Biden’s Vaccine Mandate for Large Companies</a> NYT: A federal appeals court in Louisiana granted a temporary stay to a group of businesses, religious groups and several states that argued the administration overstepped its authority. 
  <p class="updated_time"> 04:55 PM CT, Nov. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59194421?at_medium=RSS&at_campaign=KARANGA">US court blocks Biden's vaccine mandate for companies</a> BBC: An appeals court blocks the administration's plan to drive vaccinations at larger businesses. 
  <p class="updated_time"> 04:45 PM CT, Nov. 06 </p> 
  <a href="https://www.bbc.co.uk/news/uk-scotland-59185007?at_medium=RSS&at_campaign=KARANGA">COP26: Thousands march for Glasgow's biggest protest</a> BBC: Organisers say about 100,000 people joined a rally on Glasgow Green - the city's largest protest in memory. 
  <p class="updated_time"> 04:40 PM CT, Nov. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59191108?at_medium=RSS&at_campaign=KARANGA">Palma de Mallorca: Fleeing passengers shut down busy Spanish airport</a> BBC: Palma de Mallorca Airport closes for four hours after 21 people run from a plane across the tarmac. 
- <p class="updated_time"> 03:25 PM CT, Nov. 06 </p> 
- <a href="https://www.nytimes.com/2021/11/06/world/americas/biden-osha-vaccine-mandate-blocked.html">Court Temporarily Blocks Biden’s Vaccine Mandate for Large Companies</a> NYT: A federal appeals court in Louisiana granted a temporary stay to a group of businesses, religious groups, and several states who argued in a joint petition that the administration overstepped its authority. 
  <p class="updated_time"> 03:22 PM CT, Nov. 06 </p> 
  <a href="https://www.nytimes.com/2021/11/06/world/africa/tanker-truck-explodes-sierra-leone.html">Tanker Truck Explodes in Sierra Leone, Killing at Least 98</a> NYT: The truck first started leaking fuel and people had rushed to collect it, an official said. Many of them died in the blast, along with others nearby. 
  <p class="updated_time"> 03:04 PM CT, Nov. 06 </p> 
  <a href="https://www.nytimes.com/2021/11/05/world/states-sue-biden-vaccine-mandate.html">11 States Sue Over Biden's Vaccine Mandate for Big Companies</a> NYT: The lawsuit was filed a day after the announcement of a Jan. 4 deadline for the companies to begin their mandates or start weekly testing. 
  <p class="updated_time"> 02:45 PM CT, Nov. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59188753?at_medium=RSS&at_campaign=KARANGA">Sierra Leone explosion: Scores dead after Freetown oil tanker collision</a> BBC: The accident happened after the tanker collided with another vehicle in the nation's capital, Freetown. 
- <p class="updated_time"> 02:23 PM CT, Nov. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59193150?at_medium=RSS&at_campaign=KARANGA">Travis Scott 'devastated' by Texas festival deaths</a> BBC: The rapper says he is "absolutely devastated" by the deaths that occurred at his Astroworld festival. 
  <p class="updated_time"> 02:17 PM CT, Nov. 06 </p> 
  <a href="https://www.npr.org/2021/11/06/1053218525/cop26-glasgow-global-climate-action-protests">Thousands protest in Glasgow and around the world for action against climate change</a> NPR: With one week of the COP26 conference left, people worldwide participated in protests in support of climate change action. Activists say that pledges to cut carbon emissions don't go far enough. 
  <p class="updated_time"> 01:43 PM CT, Nov. 06 </p> 
