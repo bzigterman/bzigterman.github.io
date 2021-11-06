@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:51 PM CT, Nov. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59186214?at_medium=RSS&at_campaign=KARANGA">COP 26: What Alaska’s shrinking island means for all of us</a> BBC: Melting ice and rising sea levels threaten this community's existence. It's a warning to the world. 
  <p class="updated_time"> 07:43 PM CT, Nov. 05 </p> 
  <a href="https://www.bbc.co.uk/news/blogs-trending-59070451?at_medium=RSS&at_campaign=KARANGA">Climate change: The US state taking on an oil giant for greenwashing</a> BBC: The US state of Massachusetts is taking ExxonMobil to court for greenwashing. 
  <p class="updated_time"> 07:43 PM CT, Nov. 05 </p> 
@@ -73,6 +75,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/05/world/middleeast/erdogan-turkey-cop26.html">As Turkey Chafes at Erdogan, He Gets Spikier Abroad</a> NYT: President Recep Tayyip Erdogan canceled an appearance at the global climate talks over a perceived slight, part of a pattern of creating international dramas to bolster his domestic standing. 
  <p class="updated_time"> 12:42 PM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/05/world/asia/china-coronavirus-ruili.html">Near-Daily Covid Tests, Sleeping in Classrooms: Life in Covid-Zero China</a> NYT: Residents in Ruili, in southwestern China, have been locked down four times in the past year as part of the country’s quest to eliminate the virus. 
+ <p class="updated_time"> 12:14 PM CT, Nov. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-49918719?at_medium=RSS&at_campaign=KARANGA">Greta Thunberg: Who is the climate campaigner and what are her aims?</a> BBC: The Swedish teenager started a climate change protest that grew into a global movement. 
  <p class="updated_time"> 11:59 AM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/03/us/mayor-eric-garcetti-of-los-angeles-tests-positive-for-the-virus.html">Mayor Eric Garcetti of Los Angeles tests positive for the virus.</a> NYT: Mr. Garcetti’s office said the mayor, who is in Scotland for a conference on climate change, was feeling good and had been fully vaccinated. 
  <p class="updated_time"> 11:57 AM CT, Nov. 05 </p> 
@@ -191,8 +195,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/04/1052267118/climate-change-carbon-dioxide-emissions-global-carbon-budget">Earth has 11 years to cut emissions to avoid dire climate scenarios, a report says</a> NPR: Carbon dioxide emissions are rebounding after a dip in 2020, and researchers say that at the current rate, Earth's "carbon budget" will be exhausted in roughly 11 years. 
  <p class="updated_time"> 08:36 AM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/world/australia/charge-cleo-smith.html">Cleo Smith Abduction: Australian Man Is Charged After 18-Day Search </a> NYT: The legal action came as the Australian authorities continued to address questions about how the police had been able to find Cleo Smith, who vanished from a remote campsite. 
- <p class="updated_time"> 05:26 AM CT, Nov. 04 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-56901261?at_medium=RSS&at_campaign=KARANGA">COP26: What is the Glasgow climate conference and why is it important?</a> BBC: A crucial climate change summit is being held in the UK - this is why it's important. 
  <p class="updated_time"> 04:09 AM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/latin-america-pressed-on-vaccine-priorities.html">With scant vaccine supplies, the W.H.O. presses Latin America and the Caribbean to hold off on boosters.</a> NYT: Sufficient shipments of doses have been slow to reach many countries in the region and economic inequalities are complicating matters. 
  <p class="updated_time"> 09:56 PM CT, Nov. 03 </p> 
@@ -210,10 +212,12 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:44 PM CT, Nov. 05 </p> 
+ <a href="https://www.nytimes.com/2021/11/05/us/politics/house-infrastructure-reconciliation.html">Divided Democrats Lurch Toward Passing $1 Trillion Infrastructure Bill</a> NYT: Progressives appeared ready to support the bill in exchange for a commitment from moderates to eventually back a separate $1.85 trillion social safety net bill that was put on hold on Friday. 
+ <p class="updated_time"> 08:35 PM CT, Nov. 05 </p> 
+ <a href="https://www.nytimes.com/2021/11/05/us/politics/jeffrey-clark-capitol-riot-committee.html">Trump Justice Dept. Official Defies Request by Jan. 6 Panel</a> NYT: Jeffrey Clark, who aided in the former president’s efforts to overturn the election, appeared before the committee but would not answer substantive questions. 
  <p class="updated_time"> 07:52 PM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/05/us/politics/colin-powell-funeral.html">At Colin Powell's Funeral, Washington Is Pulled Together</a> NYT: Republicans and Democrats, including President Biden and two of his predecessors, were at the Washington National Cathedral to honor the former secretary of state. 
- <p class="updated_time"> 06:53 PM CT, Nov. 05 </p> 
- <a href="https://www.nytimes.com/2021/11/05/us/politics/house-infrastructure-reconciliation.html">Facing Moderate Revolt, Democrats Put Social Policy Bill on Hold</a> NYT: Leaders pressed for a vote on a separate infrastructure bill, but the fate of both measures was in doubt amid party divisions, despite pleas from President Biden. 
  <p class="updated_time"> 06:31 PM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/05/upshot/biden-budget-scorekeepers-cbo.html">2,000 Pages and Pronto! Budget Scorekeepers Are Under Pressure</a> NYT: Lawmakers want detailed estimates on the effects of the big Democratic bill, but that can take longer than they think, slowing the process. 
  <p class="updated_time"> 06:27 PM CT, Nov. 05 </p> 
@@ -239,7 +243,7 @@ permalink: /projects/news/
  <p class="updated_time"> 03:23 PM CT, Nov. 05 </p> 
  <a href="https://www.npr.org/2021/11/05/1052967987/young-people-are-protesting-in-glasgow-demanding-concreate-action-at-climate-sum">Young people are protesting in Glasgow, demanding concrete action at climate summit</a> NPR: Young people from around the world are protesting over world leaders' response to climate change at the UN's climate summit in Glasgow on Friday. 
  <p class="updated_time"> 02:35 PM CT, Nov. 05 </p> 
- <a href="https://www.politico.com/news/2021/11/05/house-democrats-infrastructure-vote-wait-megabill-519731">'Level of trust is blinking red': Dems struggle to unite to pass Biden agenda</a> Politico: Democratic moderates and progressives are still fighting as Speaker Nancy Pelosi pushes them to pass infrastructure and delay the larger spending bill. 
+ <a href="https://www.politico.com/news/2021/11/05/house-democrats-infrastructure-vote-wait-megabill-519731">'Whole day was a clusterf---': Dems battle distrust in struggle to pass infrastructure</a> Politico: Democrats are close to a deal to send an infrastructure bill to the president's desk Friday night and advance debate on their broader spending package. 
  <p class="updated_time"> 02:19 PM CT, Nov. 05 </p> 
  <a href="https://www.npr.org/2021/11/05/1052879445/university-florida-professors-testify-permission-desantis">University of Florida allows professors to testify in a voting rights case after all</a> NPR: The university is reversing its decision to bar three professors from serving as expert witnesses in a case against the state. The earlier decision was seen as an infringement of free speech. 
  <p class="updated_time"> 12:18 PM CT, Nov. 05 </p> 
@@ -280,8 +284,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/04/us/politics/atlanta-mayor-runoff-felicia-moore.html">Felicia Moore, Andre Dickens Will Compete for Atlanta Mayor; Kasim Reed Falls Short</a> NYT: Two candidates, Felicia Moore and Andre Dickens, will compete in a runoff on Nov. 30. 
  <p class="updated_time"> 06:11 PM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/us/politics/democrats-turnout-virginia.html">How Virginia’s Governor Race Unraveled the Democratic Turnout Myth</a> NYT: It was long thought that surges in voting would help Democrats. So how does the party explain Glenn Youngkin’s victory? 
- <p class="updated_time"> 05:50 PM CT, Nov. 04 </p> 
- <a href="https://www.nytimes.com/2021/11/04/nyregion/stephen-sweeney-durr-nj-election.html">Republican Truck Driver Beats Sweeney in N.J. Election</a> NYT: Mr. Sweeney, the second most powerful lawmaker in New Jersey and a Democrat, lost his bid for re-election to Edward Durr, a driver for a furniture chain. 
  <p class="updated_time"> 05:33 PM CT, Nov. 04 </p> 
  <a href="https://www.npr.org/2021/11/04/1052564177/the-biden-administration-is-suing-texas-over-its-new-voting-law">The Biden administration is suing Texas over its new voting law</a> NPR: The U.S. Department of Justice claims the Texas law contains several provisions that "will disenfranchise eligible Texas citizens who seek to exercise their right to vote." 
  <p class="updated_time"> 04:35 PM CT, Nov. 04 </p> 
