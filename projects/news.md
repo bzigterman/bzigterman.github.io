@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:17 AM CT, Nov. 06 </p> 
+ <p class="updated_time"> 08:32 AM CT, Nov. 06 </p> 
  <a href="https://www.nytimes.com/2021/11/06/world/europe/spain-plane-passengers-escape.html">Spanish Police Seek Missing Plane Passengers After Emergency Landing</a> NYT: About 20 people fled a Moroccan flight that diverted to Mallorca after a passenger apparently fell ill. Some remained at large. 
  <p class="updated_time"> 08:15 AM CT, Nov. 06 </p> 
  <a href="https://www.nytimes.com/2021/11/05/world/europe/france-macron-alexandre-benalla-guilty.html">Ex-Macron Aide Convicted of Assault and Posing as a Police Officer</a> NYT: The aide, Alexandre Benalla, who was fired in 2018 after videos emerged of him beating a man at a labor protest, was sentenced to serve a year of house arrest with electronic monitoring. 
