@@ -216,6 +216,10 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:00 AM CT, Nov. 06 </p> 
+ <a href="https://www.npr.org/2021/11/06/1052885882/democrats-are-worried-about-u-s-democracy-theyve-got-limited-tools-to-protect-it">Democrats are worried about U.S. democracy. They've got limited tools to protect it</a> NPR: Democrats and some anti-Trump Republicans are panicked about the impact of the ex-president's election lies on American democracy. They see worst-case scenarios looming — but few, if any, solutions. 
+ <p class="updated_time"> 06:00 AM CT, Nov. 06 </p> 
+ <a href="https://www.npr.org/2021/11/06/1051652687/jan-6-panel-and-subpoenas-committee-targets-witnesses-linked-to-day-of-attack">Jan. 6 panel and subpoenas: Committee targets witnesses linked to day of attack</a> NPR: The committee investigating the attack has sent out a number of subpoenas to get information and compel people with knowledge about the events of the day to tell them what they know. 
  <p class="updated_time"> 04:00 AM CT, Nov. 06 </p> 
  <a href="https://www.nytimes.com/2021/11/06/us/states-infrastructure-bill-funding.html">This Is Where the States Want Billions in Infrastructure Funding Spent</a> NYT: The plan finally approved on Friday will address transportation, water, broadband, energy and public safety needs that have been building for years, sometimes decades. 
  <p class="updated_time"> 03:24 AM CT, Nov. 06 </p> 
@@ -278,8 +282,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/05/1052651021/republicans-may-have-landed-on-an-effective-political-strategy-post-trump">Republicans may have landed on an effective political strategy post Trump</a> NPR: NPR's Steve Inskeep talks to attorney Gregg Nunziata, a Republican who didn't vote for Trump but did vote for Virginia's Governor-elect Glenn Youngkin, about using some Trump-themes going forward. 
  <p class="updated_time"> 04:00 AM CT, Nov. 05 </p> 
  <a href="https://www.npr.org/2021/11/05/1052435775/texas-election-workers">The 2020 vote and its aftermath have left many election workers beleaguered</a> NPR: At the same time, in Texas, an increasing number of counties are rethinking who should run elections altogether. 
- <p class="updated_time"> 04:00 AM CT, Nov. 05 </p> 
- <a href="https://www.npr.org/2021/11/05/1052487175/voting-rights-activists-say-democrats-in-washington-need-to-do-their-job">Voting rights activists say Democrats in Washington need to do their job</a> NPR: Organizers say they're doing all they can to fight back against restrictive voting laws and turn out voters. But they also say they haven't yet gotten much help from Democrats in Washington, D.C. 
  <p class="updated_time"> 03:30 AM CT, Nov. 05 </p> 
  <a href="https://www.politico.com/news/2021/11/05/pelosi-dems-final-push-519607">Pelosi tries to rev House Dems after season in the ditch</a> Politico: "There’s a point where you've got to stop talking," Rep. Peter Welch (D-Vt.) said. But can the House get there? 
  <p class="updated_time"> 03:30 AM CT, Nov. 05 </p> 
@@ -292,8 +294,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/04/us/politics/atlanta-mayor-runoff-felicia-moore.html">Felicia Moore, Andre Dickens Will Compete for Atlanta Mayor; Kasim Reed Falls Short</a> NYT: Two candidates, Felicia Moore and Andre Dickens, will compete in a runoff on Nov. 30. 
  <p class="updated_time"> 06:11 PM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/us/politics/democrats-turnout-virginia.html">How Virginia’s Governor Race Unraveled the Democratic Turnout Myth</a> NYT: It was long thought that surges in voting would help Democrats. So how does the party explain Glenn Youngkin’s victory? 
- <p class="updated_time"> 05:33 PM CT, Nov. 04 </p> 
- <a href="https://www.npr.org/2021/11/04/1052564177/the-biden-administration-is-suing-texas-over-its-new-voting-law">The Biden administration is suing Texas over its new voting law</a> NPR: The U.S. Department of Justice claims the Texas law contains several provisions that "will disenfranchise eligible Texas citizens who seek to exercise their right to vote." 
  <p class="updated_time"> 02:51 PM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/us/politics/trump-jan-6-documents.html">Judge Questions Trump’s Grounds for Keeping Jan. 6 Documents Secret</a> NYT: In a hearing on Thursday, a federal judge voiced skepticism about the former president’s claim that hundreds of pages of documents related to the riot should be shielded by executive privilege. 
  <p class="updated_time"> 02:41 PM CT, Nov. 04 </p> 
@@ -348,8 +348,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/10/31/kinzinger-house-republicans-trump-517943">Kinzinger wants House Republicans to find some courage</a> Politico: The Illinois Republican, who announced he was not seeking reelection, hopes those who will remain in Congress will stand up to former President Donald Trump. 
  <p class="updated_time"> 08:48 AM CT, Oct. 30 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/10/30/bidens-promise-to-progressives-494914">POLITICO Playbook: Biden’s promise to progressives</a> Politico: And the Supreme Court plans to hear two major cases. 
- <p class="updated_time"> 06:00 AM CT, Oct. 30 </p> 
- <a href="https://www.politico.com/news/2021/10/30/dems-race-to-renovate-bidens-domestic-policy-foundation-517782">Dems race to renovate Biden's domestic-policy foundation</a> Politico: “There are of course dozens of proposals that folks are going to make a last-ditch effort to add to it,” Sen. Chris Coons (D-Del.) said of the president’s social spending framework. 
 
 
 </details>
