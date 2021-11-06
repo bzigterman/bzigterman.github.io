@@ -7,8 +7,10 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:55 PM CT, Nov. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59194421?at_medium=RSS&at_campaign=KARANGA">US court blocks Biden's vaccine mandate for companies</a> BBC: An appeals court blocks the administration's plan to drive vaccinations at larger businesses. 
  <p class="updated_time"> 04:45 PM CT, Nov. 06 </p> 
- <a href="https://www.bbc.co.uk/news/uk-scotland-59185007?at_medium=RSS&at_campaign=KARANGA">COP26: Thousands march for Glasgow's biggest protest</a> BBC: Organisers say about 100,000 people joined a rally on Glasgow Green to demand more action on the climate crisis. 
+ <a href="https://www.bbc.co.uk/news/uk-scotland-59185007?at_medium=RSS&at_campaign=KARANGA">COP26: Thousands march for Glasgow's biggest protest</a> BBC: Organisers say about 100,000 people joined a rally on Glasgow Green - the city's largest protest in memory. 
  <p class="updated_time"> 04:40 PM CT, Nov. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59191108?at_medium=RSS&at_campaign=KARANGA">Palma de Mallorca: Fleeing passengers shut down busy Spanish airport</a> BBC: Palma de Mallorca Airport closes for four hours after 21 people run from a plane across the tarmac. 
  <p class="updated_time"> 03:25 PM CT, Nov. 06 </p> 
@@ -107,8 +109,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-latin-america-59186654?at_medium=RSS&at_campaign=KARANGA">Marilia Mendonca: Popular Brazil singer dies in plane crash at 26</a> BBC: Marília Mendonça, one of Brazil's most famous singers, was known for her songs focussing on women. 
  <p class="updated_time"> 05:08 PM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/04/world/americas/biden-aide-covid-scotland.html">A White House aide who traveled abroad with Biden tests positive.</a> NYT: President Biden was not in close contact with the aide, who remains quarantined in Scotland and has not shown symptoms of Covid-19. 
- <p class="updated_time"> 05:05 PM CT, Nov. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59180744?at_medium=RSS&at_campaign=KARANGA">Ahmaud Arbery murder trial: Prosecutors reveal full footage of black jogger's death</a> BBC: Prosecutors in US state of Georgia say three white men assumed Ahmaud Arbery had committed a crime. 
  <p class="updated_time"> 04:39 PM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/article/ethiopia-tigray-conflict-explained.html">Why Is Ethiopia at War in the Tigray Region? </a> NYT: The civil war has shifted dramatically since Prime Minister Abiy Ahmed began a military campaign in the Tigray region a year ago. With Tigrayan fighters advancing toward the capital, Ethiopia is at risk of collapse. 
  <p class="updated_time"> 03:31 PM CT, Nov. 05 </p> 
