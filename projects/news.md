@@ -214,8 +214,14 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
- <p class="updated_time"> 10:26 PM CT, Nov. 05 </p> 
+ <p class="updated_time"> 10:40 PM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/05/us/politics/house-infrastructure-reconciliation.html">House Passes $1 Trillion Infrastructure Bill, Putting Social Policy Bill on Hold</a> NYT: Progressives who had threatened to sink the measure agreed to support it after extracting a promise from moderates that they would ultimately back the social safety net and climate bill. 
+ <p class="updated_time"> 10:32 PM CT, Nov. 05 </p> 
+ <a href="https://www.nytimes.com/2021/11/05/us/politics/house-democrats-vote-infrastructure.html">What to Watch in the House on Friday</a> NYT: Democratic leaders were aiming to pass the $1 trillion bipartisan infrastructure bill, but they postponed a vote on the $1.85 trillion social safety net and climate change measure. 
+ <p class="updated_time"> 10:29 PM CT, Nov. 05 </p> 
+ <a href="https://www.nytimes.com/2021/11/04/us/politics/house-democrats-biden.html">House Democrats Hunt for Votes to Pass Biden’s Domestic Agenda</a> NYT: Speaker Nancy Pelosi wanted a vote on Thursday night on a $1.85 trillion social policy and climate bill, but moderates pushed back and action was postponed until Friday. 
+ <p class="updated_time"> 10:27 PM CT, Nov. 05 </p> 
+ <a href="https://www.npr.org/2021/11/05/1050012853/the-house-has-passed-the-1-trillion-infrastructure-plan-sending-it-to-bidens-des">The House has passed the $1 trillion infrastructure plan, sending it to Biden's desk</a> NPR: The bipartisan bill's journey from the Senate to the president has been a tumultuous one. The legislation includes nearly $550 billion in new spending on items including broadband, roads and rail. 
  <p class="updated_time"> 09:10 PM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/05/us/politics/project-veritas-investigation-ashley-biden-diary.html">People Tied to Project Veritas Scrutinized in Theft of Diary From Biden’s Daughter</a> NYT: The F.B.I. carried out search warrants in New York as part of a Justice Department investigation into how pages from Ashley Biden’s journal came to be published by a right wing website. 
  <p class="updated_time"> 08:35 PM CT, Nov. 05 </p> 
@@ -230,8 +236,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/05/us/politics/state-dept-missing-gifts.html">State Dept. Report on Missing Gifts Finds Poor Oversight</a> NYT: The gift vault was “in a state of disarray,” and tens of thousands of dollars of items remain unaccounted for, including a $5,800 bottle of whiskey. 
  <p class="updated_time"> 05:20 PM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/article/vaccine-mandate-biden-osha.html">OSHA's Vaccine Mandate: Your Questions Answered</a> NYT: We’re answering your questions about the new OSHA rules for employers with 100 or more workers. This F.A.Q. was last updated on Nov. 5 at 6:20 p.m. 
- <p class="updated_time"> 03:56 PM CT, Nov. 05 </p> 
- <a href="https://www.nytimes.com/2021/11/05/us/politics/house-democrats-vote-infrastructure.html">What to Watch in the House on Friday</a> NYT: Democratic leaders were aiming to pass the $1 trillion bipartisan infrastructure bill, but they postponed a vote on the $1.85 trillion social safety net and climate change measure. 
  <p class="updated_time"> 03:38 PM CT, Nov. 05 </p> 
  <a href="https://www.npr.org/2021/11/05/1052968081/democrats-and-some-republicans-fear-how-trumps-election-lies-may-affect-democrac">Democrats and some Republicans fear how Trump's election lies may affect democracy</a> NPR: Democrats and some anti-Trump Republicans are panicked about the impact of the ex-president's election lies on American democracy. They see worst-case scenarios looming — but few, if any, solutions. 
  <p class="updated_time"> 03:30 PM CT, Nov. 05 </p> 
@@ -258,8 +262,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/05/us/politics/school-board-threats.html">School Board Members Face Rising Threats Across the U.S.</a> NYT: Across the country, parents have threatened board members and vandalized their homes. One board member scans his driveway before walking to his car. 
  <p class="updated_time"> 09:56 AM CT, Nov. 05 </p> 
  <a href="https://www.npr.org/2021/11/05/1052482356/watch-colin-powells-funeral-is-held-at-washington-national-cathedral">Colin Powell is remembered as a down-to-earth statesman and leader at his funeral</a> NPR: The former secretary of state died of complications from COVID-19 in October. His funeral was held at Washington National Cathedral on Friday. 
- <p class="updated_time"> 09:23 AM CT, Nov. 05 </p> 
- <a href="https://www.nytimes.com/2021/11/04/us/politics/house-democrats-biden.html">House Democrats Hunt for Votes to Pass Biden’s Domestic Agenda</a> NYT: Speaker Nancy Pelosi wanted a vote on Thursday night on a $1.85 trillion social policy and climate bill, but moderates pushed back and action was postponed until Friday. 
  <p class="updated_time"> 06:57 AM CT, Nov. 05 </p> 
  <a href="https://www.npr.org/2021/11/05/1052206451/house-is-poised-for-a-vote-on-its-spending-plan-but-hurdles-remain">House punts on social spending bill, but will try to pass infrastructure bill </a> NPR: The change comes after House moderates said they would not vote on the $1.75 trillion spending package without a score from Congress' budget office. 
  <p class="updated_time"> 06:26 AM CT, Nov. 05 </p> 
@@ -290,8 +292,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/04/1052564177/the-biden-administration-is-suing-texas-over-its-new-voting-law">The Biden administration is suing Texas over its new voting law</a> NPR: The U.S. Department of Justice claims the Texas law contains several provisions that "will disenfranchise eligible Texas citizens who seek to exercise their right to vote." 
  <p class="updated_time"> 04:35 PM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/us/politics/democrats-spending-bill-budget-tricks.html">Democrats Employ Budget Gimmicks They Once Derided</a> NYT: Budget experts say true cost of legislation could be $4 trillion as lawmakers rely on sleights of hand to bring down the price tag. 
- <p class="updated_time"> 03:23 PM CT, Nov. 04 </p> 
- <a href="https://www.npr.org/2021/11/04/1052485262/democrats-are-making-a-3rd-attempt-at-immigration-reform-using-a-social-spending">Democrats are making a 3rd attempt at immigration reform using a social spending bill</a> NPR: Congressional Democrats are trying — yet again — for a long shot chance at immigration reform. For several months, lawmakers have tried to force the effort into a partisan spending bill. 
  <p class="updated_time"> 02:51 PM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/us/politics/trump-jan-6-documents.html">Judge Questions Trump’s Grounds for Keeping Jan. 6 Documents Secret</a> NYT: In a hearing on Thursday, a federal judge voiced skepticism about the former president’s claim that hundreds of pages of documents related to the riot should be shielded by executive privilege. 
  <p class="updated_time"> 02:41 PM CT, Nov. 04 </p> 
