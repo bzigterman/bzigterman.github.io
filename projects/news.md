@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:22 AM CT, Nov. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59188960?at_medium=RSS&at_campaign=KARANGA">Astroworld: Eight killed after crowd surge at US music festival</a> BBC: At least eight people have been killed and scores hurt after a crowd surge near the stage at Astroworld in Houston. 
  <p class="updated_time"> 12:15 AM CT, Nov. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59180745?at_medium=RSS&at_campaign=KARANGA">US lawmakers approve $1tn in infrastructure spending</a> BBC: The long-delayed bipartisan legislation is a major plank of President Biden's domestic agenda. 
  <p class="updated_time"> 10:25 PM CT, Nov. 05 </p> 
@@ -57,8 +59,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-latin-america-59162510?at_medium=RSS&at_campaign=KARANGA">Covid vaccine to be mandatory for children in Costa Rica</a> BBC: The country becomes the first in the world to mandate vaccinations for those aged five to 11. 
  <p class="updated_time"> 04:16 PM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/05/climate/cop26-vanessa-nakate.html">Vanessa Nakate, Ugandan Climate Activist, Offers an Optimistic Vision</a> NYT: The 24-year-old from Uganda has emerged as a leading voice of young people agitating for climate action. 
- <p class="updated_time"> 03:35 PM CT, Nov. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59186294?at_medium=RSS&at_campaign=KARANGA">Camels escape circus and wander Madrid streets</a> BBC: Eight camels and a llama were found, with managers blaming their escape on animal rights activists. 
  <p class="updated_time"> 03:31 PM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/05/world/africa/un-rights-panel-sudan-coup.html">U.N. Rights Panel Pressures Sudan Over Coup</a> NYT: The Human Rights Council appointed an expert to investigate abuses in the country since the military seized power on Oct. 25, and members called for the prime minister’s release. 
  <p class="updated_time"> 03:23 PM CT, Nov. 05 </p> 
