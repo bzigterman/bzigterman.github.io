@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:21 PM CT, Nov. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59186980?at_medium=RSS&at_campaign=KARANGA">Chinese man convicted for stealing aviation trade secrets</a> BBC: US authorities say Xu Yanjun sought to steal trade secrets from US aviation companies. 
  <p class="updated_time"> 07:51 PM CT, Nov. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59186214?at_medium=RSS&at_campaign=KARANGA">COP 26: What Alaska’s shrinking island means for all of us</a> BBC: Melting ice and rising sea levels threaten this community's existence. It's a warning to the world. 
  <p class="updated_time"> 07:43 PM CT, Nov. 05 </p> 
