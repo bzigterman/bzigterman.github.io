@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:36 AM CT, Nov. 06 </p> 
+ <a href="https://www.npr.org/2021/11/06/1053162519/sierra-leone-oil-tanker-explosion">An oil tanker explodes in Sierra Leone, killing at least 92 and injuring dozens</a> NPR: The explosion took place after a bus struck the tanker near the country's capital city. Dozens were injured after large crowds gathered to collect leaking fuel, officials and witnesses said. 
  <p class="updated_time"> 06:21 AM CT, Nov. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59188753?at_medium=RSS&at_campaign=KARANGA">Sierra Leone explosion: Scores dead after Freetown oil tanker collision</a> BBC: A huge explosion happened after an oil truck collided with another vehicle in the nation's capital. 
  <p class="updated_time"> 06:12 AM CT, Nov. 06 </p> 
@@ -197,8 +199,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/04/1052339337/cleo-smith-australia-4-year-old-abduction-arrest">After Cleo Smith's rescue, a man is charged with abducting the 4-year-old Australian</a> NPR: A 36-year-old man was charged with abducting the girl from a campground. Police used a battering ram to smash into a locked house to rescue Cleo, whose disappearance gripped the nation. 
  <p class="updated_time"> 10:16 AM CT, Nov. 04 </p> 
  <a href="https://www.npr.org/2021/11/04/1052291183/spies-on-opposite-sides-of-the-cold-war-unite-in-from-warsaw-with-love">Spies on opposite sides of the Cold War unite in 'From Warsaw With Love'</a> NPR: Reporter John Pomfret interviewed government officials and intelligence operatives and mined declassified files in Poland to write his fascinating story of the Polish-U.S. intelligence relationship. 
- <p class="updated_time"> 09:06 AM CT, Nov. 04 </p> 
- <a href="https://www.npr.org/2021/11/04/1052267118/climate-change-carbon-dioxide-emissions-global-carbon-budget">Earth has 11 years to cut emissions to avoid dire climate scenarios, a report says</a> NPR: Carbon dioxide emissions are rebounding after a dip in 2020, and researchers say that at the current rate, Earth's "carbon budget" will be exhausted in roughly 11 years. 
  <p class="updated_time"> 08:36 AM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/world/australia/charge-cleo-smith.html">Cleo Smith Abduction: Australian Man Is Charged After 18-Day Search </a> NYT: The legal action came as the Australian authorities continued to address questions about how the police had been able to find Cleo Smith, who vanished from a remote campsite. 
  <p class="updated_time"> 04:09 AM CT, Nov. 04 </p> 
