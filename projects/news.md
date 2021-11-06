@@ -210,12 +210,18 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:17 PM CT, Nov. 06 </p> 
+ <a href="https://www.npr.org/2021/11/06/1053239123/black-republicans-walk-a-fine-line-toward-election-victory">Black Republicans walk a fine line toward election victory</a> NPR: NPR's Michel Martin speaks with professor Leah Wright Rigueur, author of The Loneliness of the Black Republican, about what this week's elections signal for Black conservatives. 
+ <p class="updated_time"> 04:17 PM CT, Nov. 06 </p> 
+ <a href="https://www.npr.org/2021/11/06/1053239109/rep-pramila-jayapal-on-what-led-her-to-throw-support-behind-infrastructure-bill">Rep. Pramila Jayapal on what led her to throw support behind infrastructure bill</a> NPR: NPR's Michel Martin speaks with Rep. Pramila Jayapal, D-Wash., chair of the Congressional Progressive Caucus, about the passage of the $1.2 trillion infrastructure bill. 
+ <p class="updated_time"> 04:17 PM CT, Nov. 06 </p> 
+ <a href="https://www.npr.org/2021/11/06/1053239102/how-the-house-passed-the-1-trillion-infrastructure-plan">How the House passed the $1 trillion infrastructure plan</a> NPR: The House of Representatives passed a trillion dollar infrastructure bill Friday, delivering President Biden a major legislative victory after months of negotiation with his own party. 
+ <p class="updated_time"> 04:12 PM CT, Nov. 06 </p> 
+ <a href="https://www.nytimes.com/2021/11/06/us/politics/defectors-infrastructure-bill-squad.html">In Infrastructure Votes, 19 Members Broke With Their Party</a> NYT: The defectors who crossed partisan lines in Congress include 13 Republicans who supported the bill and the six liberal members of “The Squad,” who opposed it. 
  <p class="updated_time"> 04:00 PM CT, Nov. 06 </p> 
  <a href="https://www.nytimes.com/2021/11/06/us/politics/infrastructure-black-caucus-vote.html">The Congressional Black Caucus Was Key to the Infrastructure Vote</a> NYT: Speaker Nancy Pelosi sent the chairwoman of the caucus, Representative Joyce Beatty of Ohio, to announce a key deal, understanding that the lawmaker had more influence at that point than she did. 
  <p class="updated_time"> 03:14 PM CT, Nov. 06 </p> 
  <a href="https://www.nytimes.com/2021/11/05/us/politics/house-infrastructure-reconciliation.html">House Passes $1 Trillion Infrastructure Bill, Putting Social Policy Bill on Hold</a> NYT: Progressives who had threatened to sink the measure agreed to support it after extracting a promise from moderates that they would ultimately back the social safety net and climate bill. 
- <p class="updated_time"> 02:39 PM CT, Nov. 06 </p> 
- <a href="https://www.nytimes.com/2021/11/06/us/politics/defectors-infrastructure-bill-squad.html">In Infrastructure Votes, 19 Members Broke With Their Party</a> NYT: The defectors who crossed partisan lines in Congress include 13 Republicans who supported the bill and the six liberal members of “The Squad,” who opposed it. 
  <p class="updated_time"> 02:21 PM CT, Nov. 06 </p> 
  <a href="https://www.nytimes.com/2021/11/05/us/politics/guantanamo-torture-foia-cia.html">Some Sept. 11 Trial Secrets May Not Be Secrets Anymore</a> NYT: Prosecutors agreed to compare hundreds if not thousands of pages of classified documents in the case against 9/11 defendants with material released under the Freedom of Information Act. 
  <p class="updated_time"> 01:40 PM CT, Nov. 06 </p> 
@@ -270,14 +276,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/05/1052968046/house-democrats-are-hoping-to-pass-spending-package-and-infrastructure-bill">House Democrats are hoping to pass spending package and infrastructure bill</a> NPR: Democratic leaders in the House are still hoping to vote on a large part of President Joe Biden's domestic agenda Friday. But as the clock winds down, they're struggling to round up the votes. 
  <p class="updated_time"> 03:23 PM CT, Nov. 05 </p> 
  <a href="https://www.npr.org/2021/11/05/1052968032/having-jailed-opposition-candidates-daniel-ortega-is-set-to-win-nicaragua-presid">Having jailed opposition candidates, Daniel Ortega is set to win Nicaragua presidency</a> NPR: Nicaragua's President Daniel Ortega will likely be reelected Sunday. He has jailed political opponents and ensured the vote will be in his favor. 
- <p class="updated_time"> 03:23 PM CT, Nov. 05 </p> 
- <a href="https://www.npr.org/2021/11/05/1052967994/education-has-been-a-key-issue-in-recent-elections-but-that-might-change-next-ye">Education has been a key issue in recent elections, but that might change next year</a> NPR: Education issues took on an outsized role in this week's elections in Virginia and elsewhere. The question for politicians of all stripes is whether education will remain an important topic into 2022. 
- <p class="updated_time"> 03:23 PM CT, Nov. 05 </p> 
- <a href="https://www.npr.org/2021/11/05/1052967987/young-people-are-protesting-in-glasgow-demanding-concreate-action-at-climate-sum">Young people are protesting in Glasgow, demanding concrete action at climate summit</a> NPR: Young people from around the world are protesting over world leaders' response to climate change at the UN's climate summit in Glasgow on Friday. 
  <p class="updated_time"> 02:35 PM CT, Nov. 05 </p> 
  <a href="https://www.politico.com/news/2021/11/05/house-democrats-infrastructure-vote-wait-megabill-519731">'Whole day was a clusterf---': Dems overcome distrust to send infrastructure bill to Biden</a> Politico: Democratic centrists and progressives reached a detente that cleared the $550 billion bipartisan legislation late Friday night and advanced their social spending package. 
- <p class="updated_time"> 02:19 PM CT, Nov. 05 </p> 
- <a href="https://www.npr.org/2021/11/05/1052879445/university-florida-professors-testify-permission-desantis">University of Florida allows professors to testify in a voting rights case after all</a> NPR: The university is reversing its decision to bar three professors from serving as expert witnesses in a case against the state. The earlier decision was seen as an infringement of free speech. 
  <p class="updated_time"> 12:18 PM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/05/business/congress-mckinsey-opioid-crisis.html">Congress Is Investigating McKinsey Over Its Role in the Opioid Crisis</a> NYT: A House committee has requested documents related to the firm’s advice to drug makers and potential conflicts of interest with the F.D.A. 
  <p class="updated_time"> 12:10 PM CT, Nov. 05 </p> 
