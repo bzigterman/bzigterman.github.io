@@ -7,10 +7,12 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:02 AM CT, Nov. 06 </p> 
+ <a href="https://www.npr.org/2021/11/06/1053162983/scores-of-people-reported-dead-in-sierra-leone-after-fuel-tanker-explosion">Scores of people reported dead in Sierra Leone after fuel tanker explosion</a> NPR: Scott Simon speaks to journalist Umaru Fofana about the deadly tanker explosion outside Freetown, Sierra Leone today. 
+ <p class="updated_time"> 07:00 AM CT, Nov. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59188960?at_medium=RSS&at_campaign=KARANGA">Travis Scott's Astroworld: Eight killed after crowd surge at Texas festival</a> BBC: Panic broke out after the crowd began to press towards the stage at Travis Scott's Astroworld Festival. 
  <p class="updated_time"> 06:43 AM CT, Nov. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59188753?at_medium=RSS&at_campaign=KARANGA">Sierra Leone explosion: Scores dead after Freetown oil tanker collision</a> BBC: A huge explosion happened after an oil truck collided with another vehicle in the nation's capital. 
- <p class="updated_time"> 06:41 AM CT, Nov. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59188960?at_medium=RSS&at_campaign=KARANGA">Travis Scott's Astroworld: Eight killed after crowd surge at Texas festival</a> BBC: Panic broke out after the crowd began to press towards the stage at Travis Scott's Astroworld Festival. 
  <p class="updated_time"> 06:36 AM CT, Nov. 06 </p> 
  <a href="https://www.npr.org/2021/11/06/1053162519/sierra-leone-oil-tanker-explosion">An oil tanker explodes in Sierra Leone, killing at least 92 and injuring dozens</a> NPR: The explosion took place after a bus struck the tanker near the country's capital city. Dozens were injured after large crowds gathered to collect leaking fuel, officials and witnesses said. 
  <p class="updated_time"> 04:11 AM CT, Nov. 06 </p> 
@@ -197,8 +199,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/04/1052355604/giant-potato-doug-new-zealand">A potato the size of a small dog is found in New Zealand</a> NPR: A couple discovered the giant spud while weeding. "We couldn't believe it," said Donna Craig-Brown. "It was just huge." They've applied to Guinness to have it recognized as the world's largest potato. 
  <p class="updated_time"> 10:19 AM CT, Nov. 04 </p> 
  <a href="https://www.npr.org/2021/11/04/1052339337/cleo-smith-australia-4-year-old-abduction-arrest">After Cleo Smith's rescue, a man is charged with abducting the 4-year-old Australian</a> NPR: A 36-year-old man was charged with abducting the girl from a campground. Police used a battering ram to smash into a locked house to rescue Cleo, whose disappearance gripped the nation. 
- <p class="updated_time"> 10:16 AM CT, Nov. 04 </p> 
- <a href="https://www.npr.org/2021/11/04/1052291183/spies-on-opposite-sides-of-the-cold-war-unite-in-from-warsaw-with-love">Spies on opposite sides of the Cold War unite in 'From Warsaw With Love'</a> NPR: Reporter John Pomfret interviewed government officials and intelligence operatives and mined declassified files in Poland to write his fascinating story of the Polish-U.S. intelligence relationship. 
  <p class="updated_time"> 08:36 AM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/world/australia/charge-cleo-smith.html">Cleo Smith Abduction: Australian Man Is Charged After 18-Day Search </a> NYT: The legal action came as the Australian authorities continued to address questions about how the police had been able to find Cleo Smith, who vanished from a remote campsite. 
  <p class="updated_time"> 04:09 AM CT, Nov. 04 </p> 
@@ -216,6 +216,10 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:02 AM CT, Nov. 06 </p> 
+ <a href="https://www.npr.org/2021/11/06/1053163025/house-passes-stripped-down-infrastructure-bill-pushing-off-many-of-bidens-wants">House passes stripped-down infrastructure bill, pushing off many of Biden's wants</a> NPR: The House passed the trillion-dollar legislation known as the "Bipartisan Infrastructure Bill" and set up another vote for President Biden's "Build Back Better" plan. 
+ <p class="updated_time"> 07:02 AM CT, Nov. 06 </p> 
+ <a href="https://www.npr.org/2021/11/06/1053162976/week-in-politics-house-passes-1-trillion-infrastructure-bill">Week In Politics: House passes $1 trillion infrastructure bill</a> NPR: We look at the latest push - and resistance - to the passage of President Biden's $1.75 trillion social spending bill, as well as what this week's elections mean for the Democratic party. 
  <p class="updated_time"> 06:00 AM CT, Nov. 06 </p> 
  <a href="https://www.npr.org/2021/11/06/1052885882/democrats-are-worried-about-u-s-democracy-theyve-got-limited-tools-to-protect-it">Democrats are worried about U.S. democracy. They've got limited tools to protect it</a> NPR: Democrats and some anti-Trump Republicans are panicked about the impact of the ex-president's election lies on American democracy. They see worst-case scenarios looming — but few, if any, solutions. 
  <p class="updated_time"> 06:00 AM CT, Nov. 06 </p> 
@@ -278,10 +282,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/11/05/lets-try-this-again-494993">POLITICO Playbook: Let’s try this again</a> Politico: And there’s a second grand jury in the Trump Organization case in Manhattan. 
  <p class="updated_time"> 05:05 AM CT, Nov. 05 </p> 
  <a href="https://www.npr.org/2021/11/05/1052633843/republican-states-sue-over-biden-vaccine-mandate">Hours after the White House issues its new vaccine mandate, GOP-led states sue</a> NPR: Dozens of Republican state officials are suing over the White House's COVID-19 vaccine mandate that they say is unconstitutional and threatens business. 
- <p class="updated_time"> 04:06 AM CT, Nov. 05 </p> 
- <a href="https://www.npr.org/2021/11/05/1052651021/republicans-may-have-landed-on-an-effective-political-strategy-post-trump">Republicans may have landed on an effective political strategy post Trump</a> NPR: NPR's Steve Inskeep talks to attorney Gregg Nunziata, a Republican who didn't vote for Trump but did vote for Virginia's Governor-elect Glenn Youngkin, about using some Trump-themes going forward. 
- <p class="updated_time"> 04:00 AM CT, Nov. 05 </p> 
- <a href="https://www.npr.org/2021/11/05/1052435775/texas-election-workers">The 2020 vote and its aftermath have left many election workers beleaguered</a> NPR: At the same time, in Texas, an increasing number of counties are rethinking who should run elections altogether. 
  <p class="updated_time"> 03:30 AM CT, Nov. 05 </p> 
  <a href="https://www.politico.com/news/2021/11/05/pelosi-dems-final-push-519607">Pelosi tries to rev House Dems after season in the ditch</a> Politico: "There’s a point where you've got to stop talking," Rep. Peter Welch (D-Vt.) said. But can the House get there? 
  <p class="updated_time"> 03:30 AM CT, Nov. 05 </p> 
