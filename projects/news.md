@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:54 PM CT, Nov. 06 </p> 
+ <a href="https://www.nytimes.com/2021/11/05/arts/music/marilia-mendonca-dead.html">Marília Mendonça, Brazilian Pop Singer, Dies in Plane Crash at 26</a> NYT: Ms. Mendonça, who was a social media sensation with millions of followers, was iconic in a type of Brazilian country music called sertanejo. 
  <p class="updated_time"> 05:41 PM CT, Nov. 06 </p> 
  <a href="https://www.nytimes.com/2021/11/06/world/europe/cop-climate-protests.html">COP26 Protesters Back an Array of Causes, Connected by Climate Change</a> NYT: Thousands gathered in the rain in Glasgow to press the case for more urgent and meaningful action by world leaders in response to global warming. 
  <p class="updated_time"> 05:38 PM CT, Nov. 06 </p> 
@@ -85,8 +87,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59186214?at_medium=RSS&at_campaign=KARANGA">COP 26: What Alaska’s shrinking island means for all of us</a> BBC: Melting ice and rising sea levels threaten this community's existence. It's a warning to the world. 
  <p class="updated_time"> 07:43 PM CT, Nov. 05 </p> 
  <a href="https://www.bbc.co.uk/news/blogs-trending-59070451?at_medium=RSS&at_campaign=KARANGA">Climate change: The US state taking on an oil giant for greenwashing</a> BBC: The US state of Massachusetts is taking ExxonMobil to court for greenwashing. 
- <p class="updated_time"> 07:43 PM CT, Nov. 05 </p> 
- <a href="https://www.nytimes.com/2021/11/05/arts/music/marilia-mendonca-dead.html">Marília Mendonça, Brazilian Pop Singer, Dies in Plane Crash at 26</a> NYT: Ms. Mendonça, who was a social media sensation with millions of followers, was iconic in a type of Brazilian country music called sertanejo. 
  <p class="updated_time"> 07:41 PM CT, Nov. 05 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59036722?at_medium=RSS&at_campaign=KARANGA">COP26: How the world is reacting to the climate summit</a> BBC: From Shanghai to Sao Paulo, the BBC looks at how the climate summit is being received. 
  <p class="updated_time"> 07:34 PM CT, Nov. 05 </p> 
@@ -212,6 +212,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 05:34 PM CT, Nov. 06 </p> 
  <a href="https://www.nytimes.com/2021/11/06/us/politics/infrastructure-black-caucus-vote.html">How a $1 Trillion Infrastructure Bill Survived an Intraparty Brawl</a> NYT: Speaker Nancy Pelosi agreed to a deal proposed by the Congressional Black Caucus, mobilizing one faction of Democratic lawmakers to win over two others. 
+ <p class="updated_time"> 05:25 PM CT, Nov. 06 </p> 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-06/australia-u-k-confident-of-free-trade-agreement-by-year-end">Australia, U.K. ‘Confident’ of Free Trade Agreement by Year-End</a> Bloomberg: Australia and the U.K. are both “very confident” that their free trade agreement would be finalized by year-end, said David McCredie, chief executive officer of the Australian British Chamber of Commerce. 
  <p class="updated_time"> 04:17 PM CT, Nov. 06 </p> 
  <a href="https://www.npr.org/2021/11/06/1053239123/black-republicans-walk-a-fine-line-toward-election-victory">Black Republicans walk a fine line toward election victory</a> NPR: NPR's Michel Martin speaks with professor Leah Wright Rigueur, author of The Loneliness of the Black Republican, about what this week's elections signal for Black conservatives. 
  <p class="updated_time"> 04:17 PM CT, Nov. 06 </p> 
@@ -366,8 +368,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/05/house-infrastructure-bill-519796">House ships $550B infrastructure legislation to Biden’s desk after months of delay</a> Politico: Only 13 House Republicans voted for the bill, alongside all but 6 Democrats. 
  <p class="updated_time"> 10:27 PM CT, Nov. 05 </p> 
  <a href="https://www.npr.org/2021/11/05/1050012853/the-house-has-passed-the-1-trillion-infrastructure-plan-sending-it-to-bidens-des">Biden says final passage of $1 trillion infrastructure plan is a big step forward</a> NPR: The bipartisan bill's journey from the Senate to the president has been a tumultuous one. The legislation includes nearly $550 billion in new spending on items including broadband, roads and rail. 
- <p class="updated_time"> 10:26 PM CT, Nov. 05 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-06/u-s-passes-historic-infrastructure-bill-in-victory-for-biden">House Passes Historic Infrastructure Bill in Win for Biden</a> Bloomberg: The House on Friday passed the biggest U.S. infrastructure package in decades, marking a victory for President Joe Biden and unleashing $550 billion of fresh spending on roads, bridges, public transit and other projects in coming years. 
  <p class="updated_time"> 08:35 PM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/05/us/politics/jeffrey-clark-capitol-riot-committee.html">Trump Justice Dept. Official Defies Request by Jan. 6 Panel</a> NYT: Jeffrey Clark, who aided in the former president’s efforts to overturn the election, appeared before the committee but would not answer substantive questions. 
  <p class="updated_time"> 08:11 PM CT, Nov. 05 </p> 
