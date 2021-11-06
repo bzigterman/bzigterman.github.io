@@ -7,8 +7,10 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:05 PM CT, Nov. 06 </p> 
+ <p class="updated_time"> 03:25 PM CT, Nov. 06 </p> 
  <a href="https://www.nytimes.com/2021/11/06/world/americas/biden-osha-vaccine-mandate-blocked.html">Court Temporarily Blocks Biden’s Vaccine Mandate for Large Companies</a> NYT: A federal appeals court in Louisiana granted a temporary stay to a group of businesses, religious groups, and several states who argued in a joint petition that the administration overstepped its authority. 
+ <p class="updated_time"> 03:22 PM CT, Nov. 06 </p> 
+ <a href="https://www.nytimes.com/2021/11/06/world/africa/tanker-truck-explodes-sierra-leone.html">Tanker Truck Explodes in Sierra Leone, Killing at Least 98</a> NYT: The truck first started leaking fuel and people had rushed to collect it, an official said. Many of them died in the blast, along with others nearby. 
  <p class="updated_time"> 03:04 PM CT, Nov. 06 </p> 
  <a href="https://www.nytimes.com/2021/11/05/world/states-sue-biden-vaccine-mandate.html">11 States Sue Over Biden's Vaccine Mandate for Big Companies</a> NYT: The lawsuit was filed a day after the announcement of a Jan. 4 deadline for the companies to begin their mandates or start weekly testing. 
  <p class="updated_time"> 02:45 PM CT, Nov. 06 </p> 
@@ -25,8 +27,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59181509?at_medium=RSS&at_campaign=KARANGA">Three seriously injured in knife attack on train in Germany</a> BBC: A 27-year-old Syrian man is arrested after the attack on a high-speed train in Bavaria. 
  <p class="updated_time"> 01:09 PM CT, Nov. 06 </p> 
  <a href="https://www.nytimes.com/2021/11/06/world/asia/uyghur-mental-health-china.html">Uyghurs Seek Emotional Help as Families in China Suffer</a> NYT: As Uyghurs grapple with the emotional trauma of their families suffering back in Xinjiang, some are overcoming a cultural stigma to seek out counseling. 
- <p class="updated_time"> 12:43 PM CT, Nov. 06 </p> 
- <a href="https://www.nytimes.com/2021/11/06/world/africa/tanker-truck-explodes-sierra-leone.html">Tanker Truck Explodes in Sierra Leone, Killing at Least 98</a> NYT: The truck first started leaking fuel and people had rushed to collect it, an official said. Many of them died in the blast, along with others nearby. 
  <p class="updated_time"> 11:09 AM CT, Nov. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59192048?at_medium=RSS&at_campaign=KARANGA">Biden: Infrastructure bill is 'monumental step forward'</a> BBC: The long-delayed $1tn (£741bn) spending package is a major domestic win for the US president. 
  <p class="updated_time"> 11:08 AM CT, Nov. 06 </p> 
@@ -193,8 +193,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/04/1052485248/rebels-are-taking-aim-at-ethiopias-capital-after-1-year-of-civil-war">Rebels are taking aim at Ethiopia's capital after 1 year of civil war</a> NPR: Two rebel militias now threaten Ethiopia's capital as the current conflict marks its one-year anniversary. 
  <p class="updated_time"> 01:33 PM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/world/africa/south-africa-election-anc.html">A.N.C. Suffers Worst Election Setback Since End of Apartheid</a> NYT: In nationwide municipal elections, South Africans rebuked the African National Congress, handing it less than half the collective vote for the first time in its history. 
- <p class="updated_time"> 01:29 PM CT, Nov. 04 </p> 
- <a href="https://www.nytimes.com/2021/11/03/us/hawaii-covid-restrictions-tourists-ige.html">Hawaii Eases Covid Restrictions and Reopens for Tourists</a> NYT: The state is eager for its vacation industry to rebound after a devastating 2020 season. 
  <p class="updated_time"> 12:01 PM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/science/nasa-space-tacos.html">NASA’s Latest Breakthrough: ‘Best Space Tacos Yet’</a> NYT: For the first time, astronauts on the International Space Station cultivated chiles, adding some zing to their tacos. 
  <p class="updated_time"> 11:27 AM CT, Nov. 04 </p> 
