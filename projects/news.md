@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:45 PM CT, Nov. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59188753?at_medium=RSS&at_campaign=KARANGA">Sierra Leone explosion: Scores dead after Freetown oil tanker collision</a> BBC: The accident happened after the tanker collided with another vehicle in the nation's capital, Freetown. 
  <p class="updated_time"> 02:23 PM CT, Nov. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59193150?at_medium=RSS&at_campaign=KARANGA">Travis Scott 'devastated' by Texas festival deaths</a> BBC: The rapper says he is "absolutely devastated" by the deaths that occurred at his Astroworld festival. 
  <p class="updated_time"> 02:17 PM CT, Nov. 06 </p> 
@@ -21,8 +23,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/06/world/asia/uyghur-mental-health-china.html">Uyghurs Seek Emotional Help as Families in China Suffer</a> NYT: As Uyghurs grapple with the emotional trauma of their families suffering back in Xinjiang, some are overcoming a cultural stigma to seek out counseling. 
  <p class="updated_time"> 12:43 PM CT, Nov. 06 </p> 
  <a href="https://www.nytimes.com/2021/11/06/world/africa/tanker-truck-explodes-sierra-leone.html">Tanker Truck Explodes in Sierra Leone, Killing at Least 98</a> NYT: The truck first started leaking fuel and people had rushed to collect it, an official said. Many of them died in the blast, along with others nearby. 
- <p class="updated_time"> 12:23 PM CT, Nov. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59188753?at_medium=RSS&at_campaign=KARANGA">Sierra Leone explosion: Scores dead after Freetown oil tanker collision</a> BBC: The accident happened after the tanker collided with another vehicle in the nation's capital, Freetown. 
  <p class="updated_time"> 11:09 AM CT, Nov. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59192048?at_medium=RSS&at_campaign=KARANGA">Biden: Infrastructure bill is 'monumental step forward'</a> BBC: The long-delayed $1tn (£741bn) spending package is a major domestic win for the US president. 
  <p class="updated_time"> 11:08 AM CT, Nov. 06 </p> 
