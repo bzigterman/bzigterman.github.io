@@ -7,10 +7,10 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:40 AM CT, Nov. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59188753?at_medium=RSS&at_campaign=KARANGA">Sierra Leone explosion: Scores dead after Freetown oil tanker collision</a> BBC: The accident happened after the tanker collided with another vehicle in the nation's capital, Freetown. 
  <p class="updated_time"> 09:35 AM CT, Nov. 06 </p> 
  <a href="https://www.nytimes.com/2021/11/06/world/europe/cop-climate-protests.html">COP26 Protesters Back an Array of Causes, Connected by Climate Change</a> NYT: Thousands gathered in the rain in Glasgow to press the case for more urgent and meaningful action by world leaders in response to global warming. 
- <p class="updated_time"> 09:11 AM CT, Nov. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59188753?at_medium=RSS&at_campaign=KARANGA">Sierra Leone explosion: Scores dead after Freetown oil tanker collision</a> BBC: A huge explosion happened after an oil truck collided with another vehicle in the nation's capital. 
  <p class="updated_time"> 09:01 AM CT, Nov. 06 </p> 
  <a href="https://www.nytimes.com/2021/11/06/world/austria-covid-restrictions.html">Facing a spike in infections, Austria sharpens the rules of its Covid pass.</a> NYT: Austrians will need proof of vaccination or a past infection to be seated at a restaurant, enter a bar, visit a hairdresser or join any gathering of more than 25 people. 
  <p class="updated_time"> 09:01 AM CT, Nov. 06 </p> 
@@ -35,6 +35,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/06/1053162983/scores-of-people-reported-dead-in-sierra-leone-after-fuel-tanker-explosion">Scores of people reported dead in Sierra Leone after fuel tanker explosion</a> NPR: Scott Simon speaks to journalist Umaru Fofana about the deadly tanker explosion outside Freetown, Sierra Leone today. 
  <p class="updated_time"> 06:36 AM CT, Nov. 06 </p> 
  <a href="https://www.npr.org/2021/11/06/1053162519/sierra-leone-oil-tanker-explosion">An oil tanker explodes in Sierra Leone, killing at least 92 and injuring dozens</a> NPR: The explosion took place after a bus struck the tanker near the country's capital city. Dozens were injured after large crowds gathered to collect leaking fuel, officials and witnesses said. 
+ <p class="updated_time"> 05:19 AM CT, Nov. 06 </p> 
+ <a href="https://www.wsj.com/articles/cop26-protesters-in-glasgow-push-for-action-from-leaders-11636208381">COP26 Protesters in Glasgow Push for Action From Leaders</a> WSJ: Police blocked off swaths of the host city of a U.N. climate summit, with organizers originally expecting tens of thousands of demonstrators. 
  <p class="updated_time"> 04:11 AM CT, Nov. 06 </p> 
  <a href="https://www.nytimes.com/2021/11/05/world/africa/ethiopia-tigray-eight-groups.html">Eight Groups Join Tigray Rebels Vowing to Oust Ethiopia’s Leader</a> NYT: The government calls the new coalition, announced in Washington, a “publicity stunt,” as intermediaries try to negotiate a peaceful solution to a year of conflict. 
  <p class="updated_time"> 04:00 AM CT, Nov. 06 </p> 
@@ -205,8 +207,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/04/world/australia/charge-cleo-smith.html">Cleo Smith Abduction: Australian Man Is Charged After 18-Day Search </a> NYT: The legal action came as the Australian authorities continued to address questions about how the police had been able to find Cleo Smith, who vanished from a remote campsite. 
  <p class="updated_time"> 05:26 AM CT, Nov. 04 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-56901261?at_medium=RSS&at_campaign=KARANGA">COP26: What is the Glasgow climate conference and why is it important?</a> BBC: A crucial climate change summit is being held in the UK - this is why it's important. 
- <p class="updated_time"> 09:56 PM CT, Nov. 03 </p> 
- <a href="https://www.nytimes.com/2021/11/03/world/asia/heather-mack-arrested.html">Back in Chicago, Woman Is Charged in Killing of Mother on Indonesian Vacation</a> NYT: Heather L. Mack, 26, had already served more than six years in prison in Indonesia for the 2014 killing of her mother, whose body was found in a suitcase at a Bali resort. 
 
 
 </details>
@@ -224,6 +224,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/06/1053162976/week-in-politics-house-passes-1-trillion-infrastructure-bill">Week In Politics: House passes $1 trillion infrastructure bill</a> NPR: We look at the latest push - and resistance - to the passage of President Biden's $1.75 trillion social spending bill, as well as what this week's elections mean for the Democratic party. 
  <p class="updated_time"> 06:00 AM CT, Nov. 06 </p> 
  <a href="https://www.npr.org/2021/11/06/1052885882/democrats-are-worried-about-u-s-democracy-theyve-got-limited-tools-to-protect-it">Democrats are worried about U.S. democracy. They've got limited tools to protect it</a> NPR: Democrats and some anti-Trump Republicans are panicked about the impact of the ex-president's election lies on American democracy. They see worst-case scenarios looming — but few, if any, solutions. 
+ <p class="updated_time"> 06:00 AM CT, Nov. 06 </p> 
+ <a href="https://www.npr.org/2021/11/06/1052876271/democrats-are-seeking-largest-ever-investment-in-affordable-housing">Democrats are seeking largest ever investment in affordable housing</a> NPR: The U.S. is facing its worst affordable housing crisis in generations. The heart of the problem is we just doesn't have enough homes. There's too much demand and not enough supply. 
  <p class="updated_time"> 06:00 AM CT, Nov. 06 </p> 
  <a href="https://www.npr.org/2021/11/06/1051652687/jan-6-panel-and-subpoenas-committee-targets-witnesses-linked-to-day-of-attack">Jan. 6 panel and subpoenas: Committee targets witnesses linked to day of attack</a> NPR: The committee investigating the attack has sent out a number of subpoenas to get information and compel people with knowledge about the events of the day to tell them what they know. 
  <p class="updated_time"> 03:24 AM CT, Nov. 06 </p> 
@@ -276,8 +278,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/05/us/politics/school-board-threats.html">School Board Members Face Rising Threats Across the U.S.</a> NYT: Across the country, parents have threatened board members and vandalized their homes. One board member scans his driveway before walking to his car. 
  <p class="updated_time"> 09:56 AM CT, Nov. 05 </p> 
  <a href="https://www.npr.org/2021/11/05/1052482356/watch-colin-powells-funeral-is-held-at-washington-national-cathedral">Colin Powell is remembered as a down-to-earth statesman and leader at his funeral</a> NPR: The former secretary of state died of complications from COVID-19 in October. His funeral was held at Washington National Cathedral on Friday. 
- <p class="updated_time"> 06:57 AM CT, Nov. 05 </p> 
- <a href="https://www.npr.org/2021/11/05/1052206451/house-is-poised-for-a-vote-on-its-spending-plan-but-hurdles-remain">House punts on social spending bill</a> NPR: The change comes after House moderates said they would not vote on the $1.75 trillion spending package without a score from Congress' budget office. 
  <p class="updated_time"> 06:26 AM CT, Nov. 05 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/11/05/here-goes-the-house-spending-and-infrastructure-votes-teed-up-494996">Here goes the House: spending and infrastructure votes tee’d up</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 05:19 AM CT, Nov. 05 </p> 
