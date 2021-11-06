@@ -7,6 +7,14 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:53 AM CT, Nov. 06 </p> 
+ <a href="https://www.nytimes.com/2021/11/05/world/europe/cop26-mothers-pollution.html">Mothers Demand Action on Air Pollution at COP26</a> NYT: A letter to world leaders gathered at the U.N. climate conference in Glasgow was signed by nearly 500 parent groups from 44 countries. 
+ <p class="updated_time"> 09:53 AM CT, Nov. 06 </p> 
+ <a href="https://www.nytimes.com/2021/11/05/climate/cop26-vanessa-nakate.html">Vanessa Nakate, Ugandan Climate Activist, Offers an Optimistic Vision</a> NYT: The 24-year-old from Uganda has emerged as a leading voice of young people agitating for climate action. 
+ <p class="updated_time"> 09:53 AM CT, Nov. 06 </p> 
+ <a href="https://www.nytimes.com/2021/11/05/world/europe/cop26-greta-thunberg.html">Greta Thunberg Assails Leaders Outside COP26 Climate Summit</a> NYT: “The governments of the global north countries are still refusing to take any drastic climate action,” she told protesters in Glasgow. 
+ <p class="updated_time"> 09:51 AM CT, Nov. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59181509?at_medium=RSS&at_campaign=KARANGA">Three seriously injured in knife attack on train in Germany</a> BBC: A 27-year-old Syrian man is arrested after the attack on a high-speed train in Bavaria. 
  <p class="updated_time"> 09:40 AM CT, Nov. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59188753?at_medium=RSS&at_campaign=KARANGA">Sierra Leone explosion: Scores dead after Freetown oil tanker collision</a> BBC: The accident happened after the tanker collided with another vehicle in the nation's capital, Freetown. 
  <p class="updated_time"> 09:35 AM CT, Nov. 06 </p> 
@@ -35,7 +43,7 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/06/1053162983/scores-of-people-reported-dead-in-sierra-leone-after-fuel-tanker-explosion">Scores of people reported dead in Sierra Leone after fuel tanker explosion</a> NPR: Scott Simon speaks to journalist Umaru Fofana about the deadly tanker explosion outside Freetown, Sierra Leone today. 
  <p class="updated_time"> 06:36 AM CT, Nov. 06 </p> 
  <a href="https://www.npr.org/2021/11/06/1053162519/sierra-leone-oil-tanker-explosion">An oil tanker explodes in Sierra Leone, killing at least 92 and injuring dozens</a> NPR: The explosion took place after a bus struck the tanker near the country's capital city. Dozens were injured after large crowds gathered to collect leaking fuel, officials and witnesses said. 
- <p class="updated_time"> 05:19 AM CT, Nov. 06 </p> 
+ <p class="updated_time"> 05:51 AM CT, Nov. 06 </p> 
  <a href="https://www.wsj.com/articles/cop26-protesters-in-glasgow-push-for-action-from-leaders-11636208381">COP26 Protesters in Glasgow Push for Action From Leaders</a> WSJ: Police blocked off swaths of the host city of a U.N. climate summit, with organizers originally expecting tens of thousands of demonstrators. 
  <p class="updated_time"> 04:11 AM CT, Nov. 06 </p> 
  <a href="https://www.nytimes.com/2021/11/05/world/africa/ethiopia-tigray-eight-groups.html">Eight Groups Join Tigray Rebels Vowing to Oust Ethiopia’s Leader</a> NYT: The government calls the new coalition, announced in Washington, a “publicity stunt,” as intermediaries try to negotiate a peaceful solution to a year of conflict. 
@@ -81,8 +89,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/05/climate/cop26-john-kerry.html">John Kerry Lauds Progress at COP26 but Warns, ‘Job Not Done.’</a> NYT: Mr. Kerry, President Biden’s climate envoy, acknowledged that many of the promises being put forward in Glasgow were only that — promises. 
  <p class="updated_time"> 05:46 PM CT, Nov. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59186654?at_medium=RSS&at_campaign=KARANGA">Marilia Mendonca: Popular Brazil singer dies in plane crash at 26</a> BBC: Marília Mendonça, one of Brazil's most famous singers, was known for her songs focussing on women. 
- <p class="updated_time"> 05:17 PM CT, Nov. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59186204?at_medium=RSS&at_campaign=KARANGA">Hello, Senator? This is the Duchess of Sussex calling</a> BBC: Meghan Markle reportedly placed calls with US senators this week to lobby for family leave. 
  <p class="updated_time"> 05:08 PM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/04/world/americas/biden-aide-covid-scotland.html">A White House aide who traveled abroad with Biden tests positive.</a> NYT: President Biden was not in close contact with the aide, who remains quarantined in Scotland and has not shown symptoms of Covid-19. 
  <p class="updated_time"> 05:05 PM CT, Nov. 05 </p> 
@@ -91,8 +97,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59180744?at_medium=RSS&at_campaign=KARANGA">Ahmaud Arbery murder trial: Prosecutors reveal full footage of black jogger's death</a> BBC: Prosecutors in US state of Georgia say three white men assumed Ahmaud Arbery had committed a crime. 
  <p class="updated_time"> 04:39 PM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/article/ethiopia-tigray-conflict-explained.html">Why Is Ethiopia at War in the Tigray Region? </a> NYT: The civil war has shifted dramatically since Prime Minister Abiy Ahmed began a military campaign in the Tigray region a year ago. With Tigrayan fighters advancing toward the capital, Ethiopia is at risk of collapse. 
- <p class="updated_time"> 04:16 PM CT, Nov. 05 </p> 
- <a href="https://www.nytimes.com/2021/11/05/climate/cop26-vanessa-nakate.html">Vanessa Nakate, Ugandan Climate Activist, Offers an Optimistic Vision</a> NYT: The 24-year-old from Uganda has emerged as a leading voice of young people agitating for climate action. 
  <p class="updated_time"> 03:31 PM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/05/world/africa/un-rights-panel-sudan-coup.html">U.N. Rights Panel Pressures Sudan Over Coup</a> NYT: The Human Rights Council appointed an expert to investigate abuses in the country since the military seized power on Oct. 25, and members called for the prime minister’s release. 
  <p class="updated_time"> 03:23 PM CT, Nov. 05 </p> 
@@ -103,8 +107,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/05/world/europe/cop-protests.html">At COP26, Youth Want Action, Accountability as Protesters Rally</a> NYT: For many, the climate conference has inspired mixed emotions: concern that their voices were not really being listened to, but also hope that their presence would help drive change. 
  <p class="updated_time"> 02:34 PM CT, Nov. 05 </p> 
  <a href="https://www.bbc.co.uk/news/uk-scotland-glasgow-west-59165781?at_medium=RSS&at_campaign=KARANGA">Greta Thunberg: COP26 is a failure and PR exercise</a> BBC: The Swedish activist was speaking after thousands of climate protestors marched through Glasgow. 
- <p class="updated_time"> 02:34 PM CT, Nov. 05 </p> 
- <a href="https://www.nytimes.com/2021/11/05/world/europe/cop26-greta-thunberg.html">Greta Thunberg Assails Leaders Outside COP26 Climate Summit</a> NYT: “The governments of the global north countries are still refusing to take any drastic climate action,” she told protesters in Glasgow. 
  <p class="updated_time"> 01:57 PM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/05/world/states-sue-biden-vaccine-mandate.html">11 States Sue Over Biden's Vaccine Mandate for Big Companies</a> NYT: The lawsuit was filed a day after the announcement of a Jan. 4 deadline for the companies to begin their mandates or start weekly testing. 
  <p class="updated_time"> 12:47 PM CT, Nov. 05 </p> 
@@ -121,8 +123,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/05/world/europe/shortages-german-economic-growth.html">Germany's Economy Hindered by Supply Chain Problems </a> NYT: The order books in Europe’s largest economy are full, but a lack of parts and raw materials means companies are struggling to fill them. 
  <p class="updated_time"> 10:23 AM CT, Nov. 05 </p> 
  <a href="https://www.npr.org/2021/11/05/1052682152/cop26-climate-pledges-iea-temperature-rise-carbon">Latest climate pledges could limit global temperature rise, a new report says</a> NPR: The International Energy Agency says that if nations honor their latest pledges to reduce greenhouse gas emissions, global temperatures could be held to 1.8 degrees Celsius above preindustrial levels. 
- <p class="updated_time"> 10:12 AM CT, Nov. 05 </p> 
- <a href="https://www.nytimes.com/2021/11/05/world/europe/cop26-mothers-pollution.html">Mothers Demand Action on Air Pollution at COP26</a> NYT: A letter to world leaders gathered at the U.N. climate conference in Glasgow was signed by nearly 500 parent groups from 44 countries. 
  <p class="updated_time"> 09:58 AM CT, Nov. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-46138064?at_medium=RSS&at_campaign=KARANGA">Delhi pollution: Are Diwali fireworks to blame?</a> BBC: Do fireworks let off during Diwali celebrations really cause that much pollution? 
  <p class="updated_time"> 09:41 AM CT, Nov. 05 </p> 
@@ -214,6 +214,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:45 AM CT, Nov. 06 </p> 
+ <a href="https://www.nytimes.com/2021/11/04/us/politics/house-democrats-biden.html">House Democrats Hunt for Votes to Pass Biden’s Domestic Agenda</a> NYT: Speaker Nancy Pelosi wanted a vote on Thursday night on a $1.85 trillion social policy and climate bill, but moderates pushed back and action was postponed until Friday. 
  <p class="updated_time"> 09:16 AM CT, Nov. 06 </p> 
  <a href="https://www.npr.org/2021/11/06/1053051380/jan-6-panel-former-doj-official-jeffrey-clark-fails-to-cooperate-in-testimony">Jan. 6 panel: Former DOJ official Jeffrey Clark fails to cooperate in testimony</a> NPR: Former DOJ official Jeffrey Clark appeared for a deposition, but the panel says he failed to cooperate. 
  <p class="updated_time"> 08:52 AM CT, Nov. 06 </p> 
@@ -236,8 +238,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/05/us/politics/house-democrats-vote-infrastructure.html">What to Watch in the House on Friday</a> NYT: Democratic leaders were aiming to pass the $1 trillion bipartisan infrastructure bill, but they postponed a vote on the $1.85 trillion social safety net and climate change measure. 
  <p class="updated_time"> 10:30 PM CT, Nov. 05 </p> 
  <a href="https://www.politico.com/news/2021/11/05/house-infrastructure-bill-519796">House ships $550B infrastructure legislation to Biden’s desk after months of delay</a> Politico: Only 13 House Republicans voted for the bill, alongside all but 6 Democrats. 
- <p class="updated_time"> 10:29 PM CT, Nov. 05 </p> 
- <a href="https://www.nytimes.com/2021/11/04/us/politics/house-democrats-biden.html">House Democrats Hunt for Votes to Pass Biden’s Domestic Agenda</a> NYT: Speaker Nancy Pelosi wanted a vote on Thursday night on a $1.85 trillion social policy and climate bill, but moderates pushed back and action was postponed until Friday. 
  <p class="updated_time"> 10:27 PM CT, Nov. 05 </p> 
  <a href="https://www.npr.org/2021/11/05/1050012853/the-house-has-passed-the-1-trillion-infrastructure-plan-sending-it-to-bidens-des">The House has passed the $1 trillion infrastructure plan, sending it to Biden's desk</a> NPR: The bipartisan bill's journey from the Senate to the president has been a tumultuous one. The legislation includes nearly $550 billion in new spending on items including broadband, roads and rail. 
  <p class="updated_time"> 09:10 PM CT, Nov. 05 </p> 
