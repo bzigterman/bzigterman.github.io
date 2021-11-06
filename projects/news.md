@@ -10,7 +10,7 @@ permalink: /projects/news/
  <p class="updated_time"> 02:23 PM CT, Nov. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59193150?at_medium=RSS&at_campaign=KARANGA">Travis Scott 'devastated' by Texas festival deaths</a> BBC: The rapper says he is "absolutely devastated" by the deaths that occurred at his Astroworld festival. 
  <p class="updated_time"> 02:17 PM CT, Nov. 06 </p> 
- <a href="https://www.npr.org/2021/11/06/1053218525/cop26-glasgow-global-climate-action-protests">Thousands protest in Glasgow and across the world for action against climate change</a> NPR: With one week of the COP26 conference left, people worldwide participated in protests in support of climate change action. Activists say that pledges to cut carbon emissions don't go far enough. 
+ <a href="https://www.npr.org/2021/11/06/1053218525/cop26-glasgow-global-climate-action-protests">Thousands protest in Glasgow and around the world for action against climate change</a> NPR: With one week of the COP26 conference left, people worldwide participated in protests in support of climate change action. Activists say that pledges to cut carbon emissions don't go far enough. 
  <p class="updated_time"> 01:44 PM CT, Nov. 06 </p> 
  <a href="https://www.bbc.co.uk/news/uk-scotland-59185007?at_medium=RSS&at_campaign=KARANGA">COP26: Thousands march for Glasgow's biggest protest</a> BBC: Organisers say about 100,000 people joined a rally on Glasgow Green to demand more action on the climate crisis. 
  <p class="updated_time"> 01:43 PM CT, Nov. 06 </p> 
@@ -212,7 +212,7 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
- <p class="updated_time"> 02:23 PM CT, Nov. 06 </p> 
+ <p class="updated_time"> 02:26 PM CT, Nov. 06 </p> 
  <a href="https://www.nytimes.com/2021/11/06/us/politics/defectors-infrastructure-bill-squad.html">In Infrastructure Votes, 19 Members Broke With Their Party</a> NYT: The defectors who crossed partisan lines in Congress include 13 Republicans who supported the bill and the six liberal members of “The Squad,” who opposed it. 
  <p class="updated_time"> 02:21 PM CT, Nov. 06 </p> 
  <a href="https://www.nytimes.com/2021/11/05/us/politics/guantanamo-torture-foia-cia.html">Some Sept. 11 Trial Secrets May Not Be Secrets Anymore</a> NYT: Prosecutors agreed to compare hundreds if not thousands of pages of classified documents in the case against 9/11 defendants with material released under the Freedom of Information Act. 
