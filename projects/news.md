@@ -212,8 +212,10 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
- <p class="updated_time"> 08:44 PM CT, Nov. 05 </p> 
- <a href="https://www.nytimes.com/2021/11/05/us/politics/house-infrastructure-reconciliation.html">Divided Democrats Lurch Toward Passing $1 Trillion Infrastructure Bill</a> NYT: Progressives appeared ready to support the bill in exchange for a commitment from moderates to eventually back a separate $1.85 trillion social safety net bill that was put on hold on Friday. 
+ <p class="updated_time"> 09:10 PM CT, Nov. 05 </p> 
+ <a href="https://www.nytimes.com/2021/11/05/us/politics/project-veritas-investigation-ashley-biden-diary.html">People Tied to Project Veritas Scrutinized in Theft of Diary From Biden’s Daughter</a> NYT: The F.B.I. carried out search warrants in New York as part of a Justice Department investigation into how pages from Ashley Biden’s journal came to be published by a right wing website. 
+ <p class="updated_time"> 08:57 PM CT, Nov. 05 </p> 
+ <a href="https://www.nytimes.com/2021/11/05/us/politics/house-infrastructure-reconciliation.html">Divided Democrats Lurch Toward Vote on $1 Trillion Infrastructure Bill</a> NYT: Progressives appeared ready to support the bill in exchange for a commitment from moderates to eventually back a separate $1.85 trillion social safety net bill that was put on hold on Friday. 
  <p class="updated_time"> 08:35 PM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/05/us/politics/jeffrey-clark-capitol-riot-committee.html">Trump Justice Dept. Official Defies Request by Jan. 6 Panel</a> NYT: Jeffrey Clark, who aided in the former president’s efforts to overturn the election, appeared before the committee but would not answer substantive questions. 
  <p class="updated_time"> 07:52 PM CT, Nov. 05 </p> 
@@ -226,8 +228,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/05/us/politics/state-dept-missing-gifts.html">State Dept. Report on Missing Gifts Finds Poor Oversight</a> NYT: The gift vault was “in a state of disarray,” and tens of thousands of dollars of items remain unaccounted for, including a $5,800 bottle of whiskey. 
  <p class="updated_time"> 05:20 PM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/article/vaccine-mandate-biden-osha.html">OSHA's Vaccine Mandate: Your Questions Answered</a> NYT: We’re answering your questions about the new OSHA rules for employers with 100 or more workers. This F.A.Q. was last updated on Nov. 5 at 6:20 p.m. 
- <p class="updated_time"> 04:49 PM CT, Nov. 05 </p> 
- <a href="https://www.nytimes.com/2021/11/05/us/politics/project-veritas-investigation-ashley-biden-diary.html">People Tied to Project Veritas Scrutinized in Theft of Diary From Biden’s Daughter</a> NYT: The F.B.I. carried out search warrants in New York as part of a Justice Department investigation into how pages from Ashley Biden’s journal came to be published by a right wing website. 
  <p class="updated_time"> 03:56 PM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/05/us/politics/house-democrats-vote-infrastructure.html">What to Watch in the House on Friday</a> NYT: Democratic leaders were aiming to pass the $1 trillion bipartisan infrastructure bill, but they postponed a vote on the $1.85 trillion social safety net and climate change measure. 
  <p class="updated_time"> 03:38 PM CT, Nov. 05 </p> 
