@@ -214,6 +214,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:18 AM CT, Nov. 06 </p> 
+ <a href="https://www.politico.com/newsletters/playbook/2021/11/06/how-biden-and-pelosi-saved-bif-495005">How Biden and Pelosi saved BIF</a> Politico: And President Joe Biden secures the biggest win of his presidency so far. 
  <p class="updated_time"> 09:45 AM CT, Nov. 06 </p> 
  <a href="https://www.nytimes.com/2021/11/04/us/politics/house-democrats-biden.html">House Democrats Hunt for Votes to Pass Biden’s Domestic Agenda</a> NYT: Speaker Nancy Pelosi wanted a vote on Thursday night on a $1.85 trillion social policy and climate bill, but moderates pushed back and action was postponed until Friday. 
  <p class="updated_time"> 09:16 AM CT, Nov. 06 </p> 
@@ -239,7 +241,7 @@ permalink: /projects/news/
  <p class="updated_time"> 10:30 PM CT, Nov. 05 </p> 
  <a href="https://www.politico.com/news/2021/11/05/house-infrastructure-bill-519796">House ships $550B infrastructure legislation to Biden’s desk after months of delay</a> Politico: Only 13 House Republicans voted for the bill, alongside all but 6 Democrats. 
  <p class="updated_time"> 10:27 PM CT, Nov. 05 </p> 
- <a href="https://www.npr.org/2021/11/05/1050012853/the-house-has-passed-the-1-trillion-infrastructure-plan-sending-it-to-bidens-des">The House has passed the $1 trillion infrastructure plan, sending it to Biden's desk</a> NPR: The bipartisan bill's journey from the Senate to the president has been a tumultuous one. The legislation includes nearly $550 billion in new spending on items including broadband, roads and rail. 
+ <a href="https://www.npr.org/2021/11/05/1050012853/the-house-has-passed-the-1-trillion-infrastructure-plan-sending-it-to-bidens-des">Biden says final passage of $1 trillion infrastructure plan is a big step forward</a> NPR: The bipartisan bill's journey from the Senate to the president has been a tumultuous one. The legislation includes nearly $550 billion in new spending on items including broadband, roads and rail. 
  <p class="updated_time"> 09:10 PM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/05/us/politics/project-veritas-investigation-ashley-biden-diary.html">People Tied to Project Veritas Scrutinized in Theft of Diary From Biden’s Daughter</a> NYT: The F.B.I. carried out search warrants in New York as part of a Justice Department investigation into how pages from Ashley Biden’s journal came to be published by a right wing website. 
  <p class="updated_time"> 08:35 PM CT, Nov. 05 </p> 
