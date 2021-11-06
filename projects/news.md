@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:27 AM CT, Nov. 06 </p> 
+ <a href="https://www.nytimes.com/2021/11/06/world/africa/tanker-truck-explodes-sierra-leone.html">Tanker Truck Explodes in Sierra Leone, Killing at Least 98</a> NYT: The truck first started leaking fuel and people had rushed to collect it, an official said. Many of them died in the blast, along with others nearby. 
+ <p class="updated_time"> 10:22 AM CT, Nov. 06 </p> 
+ <a href="https://www.nytimes.com/2021/11/06/world/europe/spain-plane-passengers-escape.html">Spanish Police Seek Missing Plane Passengers After Emergency Landing</a> NYT: More than 20 people fled a Moroccan flight that diverted to Mallorca after a passenger apparently fell ill. A dozen had yet to be found. 
  <p class="updated_time"> 09:53 AM CT, Nov. 06 </p> 
  <a href="https://www.nytimes.com/2021/11/05/world/europe/cop26-mothers-pollution.html">Mothers Demand Action on Air Pollution at COP26</a> NYT: A letter to world leaders gathered at the U.N. climate conference in Glasgow was signed by nearly 500 parent groups from 44 countries. 
  <p class="updated_time"> 09:53 AM CT, Nov. 06 </p> 
@@ -25,16 +29,12 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/06/world/asia/india-fire-covid-icu.html">Fire in Covid intensive care ward kills 11 people in India.</a> NYT: Staff at the hospital in the western state of Maharashtra tried to douse the fire with fire extinguishers, but the flames spread quickly in the airtight room. 
  <p class="updated_time"> 09:01 AM CT, Nov. 06 </p> 
  <a href="https://www.nytimes.com/2021/11/06/world/americas/costa-rica-covid-vaccine-children.html">Costa Rica moves to require Covid shots for children.</a> NYT: The Central American nation’s health ministry said on Friday it was adding Covid-19 to the list of required vaccinations for people 18 and younger. 
- <p class="updated_time"> 08:32 AM CT, Nov. 06 </p> 
- <a href="https://www.nytimes.com/2021/11/06/world/europe/spain-plane-passengers-escape.html">Spanish Police Seek Missing Plane Passengers After Emergency Landing</a> NYT: About 20 people fled a Moroccan flight that diverted to Mallorca after a passenger apparently fell ill. Some remained at large. 
  <p class="updated_time"> 08:15 AM CT, Nov. 06 </p> 
  <a href="https://www.nytimes.com/2021/11/05/world/europe/france-macron-alexandre-benalla-guilty.html">Ex-Macron Aide Convicted of Assault and Posing as a Police Officer</a> NYT: The aide, Alexandre Benalla, who was fired in 2018 after videos emerged of him beating a man at a labor protest, was sentenced to serve a year of house arrest with electronic monitoring. 
  <p class="updated_time"> 07:31 AM CT, Nov. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59188960?at_medium=RSS&at_campaign=KARANGA">Travis Scott's Astroworld: Eight killed after crowd surge at Texas festival</a> BBC: Panic broke out after the crowd began to press towards the stage at Travis Scott's Astroworld Festival. 
  <p class="updated_time"> 07:23 AM CT, Nov. 06 </p> 
  <a href="https://www.npr.org/2021/11/06/1053163060/class-conflict-and-economic-hardship-in-squid-game-is-real-for-many-south-korean">Class conflict and economic hardship in 'Squid Game' is real for many South Koreans</a> NPR: The themes of class conflict and economic hardship in the Netflix series "Squid Game" are real for many South Koreans, and relate to issues on the agenda ahead of presidential elections next year. 
- <p class="updated_time"> 07:08 AM CT, Nov. 06 </p> 
- <a href="https://www.nytimes.com/2021/11/06/world/africa/tanker-truck-explodes-sierra-leone.html">Tanker Truck Explodes in Sierra Leone, Killing at Least 98</a> NYT: The truck first started leaking fuel and people had rushed to collect it, an official said. Many of them died in the blast, along with others nearby. 
  <p class="updated_time"> 07:08 AM CT, Nov. 06 </p> 
  <a href="https://www.npr.org/2021/11/06/1053163046/more-than-half-of-afghanistans-population-faces-hunger">More than half of Afghanistan's population faces hunger</a> NPR: Scott Simon speaks to PBS News Hour correspondent Jane Ferguson about the latest developments in Afghanistan, where millions face food shortages as the Taliban struggle to maintain security. 
  <p class="updated_time"> 07:05 AM CT, Nov. 06 </p> 
@@ -43,6 +43,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/06/1053162983/scores-of-people-reported-dead-in-sierra-leone-after-fuel-tanker-explosion">Scores of people reported dead in Sierra Leone after fuel tanker explosion</a> NPR: Scott Simon speaks to journalist Umaru Fofana about the deadly tanker explosion outside Freetown, Sierra Leone today. 
  <p class="updated_time"> 06:36 AM CT, Nov. 06 </p> 
  <a href="https://www.npr.org/2021/11/06/1053162519/sierra-leone-oil-tanker-explosion">An oil tanker explodes in Sierra Leone, killing at least 92 and injuring dozens</a> NPR: The explosion took place after a bus struck the tanker near the country's capital city. Dozens were injured after large crowds gathered to collect leaking fuel, officials and witnesses said. 
+ <p class="updated_time"> 06:00 AM CT, Nov. 06 </p> 
+ <a href="https://www.wsj.com/articles/fuel-tanker-explosion-in-sierra-leone-kills-at-least-99-11636210816">Fuel-Tanker Explosion in Sierra Leone Kills at Least 99</a> WSJ: The explosion happened shortly after a fuel tanker collided with another vehicle near a gasoline station in a suburb of the capital Freetown, causing a large spill, city officials said. 
  <p class="updated_time"> 05:51 AM CT, Nov. 06 </p> 
  <a href="https://www.wsj.com/articles/cop26-protesters-in-glasgow-push-for-action-from-leaders-11636208381">COP26 Protesters in Glasgow Push for Action From Leaders</a> WSJ: Police blocked off swaths of the host city of a U.N. climate summit, with organizers originally expecting tens of thousands of demonstrators. 
  <p class="updated_time"> 04:11 AM CT, Nov. 06 </p> 
@@ -137,8 +139,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/05/1052695890/cancun-shootout-mexico-cartel">In a beach showdown by luxury hotels near Cancun, 2 people were shot dead </a> NPR: A commando of drug gang gunmen on Thursday stormed ashore at a beach on Mexico's resort-studded Caribbean coast in front of luxury hotels and executed two drug dealers from a rival gang. 
  <p class="updated_time"> 07:20 AM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/05/world/asia/singapore-capital-punishment-drugs.html">Rights Groups Urge Singapore Not to Execute Man With Mental Disability</a> NYT: The man, a Malaysian with an I.Q. of 69, was caught trying to smuggle an ounce and a half of heroin in 2009. Some are calling his planned hanging a human rights violation. 
- <p class="updated_time"> 05:24 AM CT, Nov. 05 </p> 
- <a href="https://www.wsj.com/articles/covid-19-certificates-look-likely-to-linger-in-europe-11636122278">Covid-19 Certificates Look Likely to Linger in Europe</a> WSJ: The health passes that restrict access to restaurants, gyms and other venues were supposed to be transitory, but with the specter of a winter resurgence of Covid-19 infections, they look likely to remain into next year. 
  <p class="updated_time"> 05:07 AM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/04/world/europe/uk-politics-boris-johnson-owen-paterson.html">Clash With Corruption Watchdog Has Boris Johnson Retreating, Again</a> NYT: Britain’s prime minister intervened in the case of a Conservative Party lawmaker who faced suspension. A ferocious blowback caused him to retreat, a now familiar path. 
  <p class="updated_time"> 05:04 AM CT, Nov. 05 </p> 
@@ -147,8 +147,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/05/1052393792/tonga-covid-case-countries-opening-borders-for-tourism">How does a country with no COVID reopen its borders? These places are finding out</a> NPR: There is a glaring irony of the pandemic: Countries like the island nation of Tonga that have managed to keep the virus at bay may be some of the last to recover from the economic impact. 
  <p class="updated_time"> 04:36 AM CT, Nov. 05 </p> 
  <a href="https://www.wsj.com/articles/global-food-prices-surge-as-inflation-spreads-11636119367">Global Food Prices Surge as Inflation Spreads</a> WSJ: Bad harvests and supply bottlenecks are leaving poor families hungry in the developing world, from Peru to the Philippines. 
- <p class="updated_time"> 04:31 AM CT, Nov. 05 </p> 
- <a href="https://www.wsj.com/articles/how-dna-tests-helped-a-jewish-man-trace-a-holocaust-mystery-to-israel-11636119082">How DNA Tests Helped a Jewish Man Trace a Holocaust Mystery to Israel</a> WSJ: Born in Nazi-occupied Poland, Bolek Krutz settled in New Jersey in 1969 and became an X-ray technician. For decades, he wondered who he really was. 
  <p class="updated_time"> 04:00 AM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/05/world/europe/germany-black-woman-bundestag.html">First Black Woman in Bundestag Wants to Change Image of ‘Germanness’</a> NYT: After a deadly racist attack, Awet Tesfaiesus considered leaving Germany. Instead, she ran for Parliament with a “courage to change” slogan and won. 
  <p class="updated_time"> 03:42 AM CT, Nov. 05 </p> 
@@ -214,14 +212,16 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:32 AM CT, Nov. 06 </p> 
+ <a href="https://www.nytimes.com/2021/11/05/us/politics/house-infrastructure-reconciliation.html">House Passes $1 Trillion Infrastructure Bill, Putting Social Policy Bill on Hold</a> NYT: Progressives who had threatened to sink the measure agreed to support it after extracting a promise from moderates that they would ultimately back the social safety net and climate bill. 
+ <p class="updated_time"> 10:23 AM CT, Nov. 06 </p> 
+ <a href="https://www.nytimes.com/2021/11/06/us/states-infrastructure-bill-funding.html">This Is Where the States Want Billions in Infrastructure Funding Spent</a> NYT: The plan finally approved on Friday will address transportation, water, broadband, energy and public safety needs that have been building for years, sometimes decades. 
  <p class="updated_time"> 10:18 AM CT, Nov. 06 </p> 
- <a href="https://www.politico.com/newsletters/playbook/2021/11/06/how-biden-and-pelosi-saved-bif-495005">How Biden and Pelosi saved BIF</a> Politico: And President Joe Biden secures the biggest win of his presidency so far. 
+ <a href="https://www.politico.com/newsletters/playbook/2021/11/06/how-biden-and-pelosi-saved-bif-495005">POLITICO Playbook: How Biden and Pelosi saved BIF</a> Politico: And President Joe Biden secures the biggest win of his presidency so far. 
  <p class="updated_time"> 09:45 AM CT, Nov. 06 </p> 
  <a href="https://www.nytimes.com/2021/11/04/us/politics/house-democrats-biden.html">House Democrats Hunt for Votes to Pass Biden’s Domestic Agenda</a> NYT: Speaker Nancy Pelosi wanted a vote on Thursday night on a $1.85 trillion social policy and climate bill, but moderates pushed back and action was postponed until Friday. 
  <p class="updated_time"> 09:16 AM CT, Nov. 06 </p> 
  <a href="https://www.npr.org/2021/11/06/1053051380/jan-6-panel-former-doj-official-jeffrey-clark-fails-to-cooperate-in-testimony">Jan. 6 panel: Former DOJ official Jeffrey Clark fails to cooperate in testimony</a> NPR: Former DOJ official Jeffrey Clark appeared for a deposition, but the panel says he failed to cooperate. 
- <p class="updated_time"> 08:52 AM CT, Nov. 06 </p> 
- <a href="https://www.nytimes.com/2021/11/06/us/states-infrastructure-bill-funding.html">This Is Where the States Want Billions in Infrastructure Funding Spent</a> NYT: The plan finally approved on Friday will address transportation, water, broadband, energy and public safety needs that have been building for years, sometimes decades. 
  <p class="updated_time"> 07:02 AM CT, Nov. 06 </p> 
  <a href="https://www.npr.org/2021/11/06/1053163025/house-passes-stripped-down-infrastructure-bill-pushing-off-many-of-bidens-wants">House passes stripped-down infrastructure bill, pushing off many of Biden's wants</a> NPR: The House passed the trillion-dollar legislation known as the "Bipartisan Infrastructure Bill" and set up another vote for President Biden's "Build Back Better" plan. 
  <p class="updated_time"> 07:02 AM CT, Nov. 06 </p> 
@@ -234,8 +234,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/06/1051652687/jan-6-panel-and-subpoenas-committee-targets-witnesses-linked-to-day-of-attack">Jan. 6 panel and subpoenas: Committee targets witnesses linked to day of attack</a> NPR: The committee investigating the attack has sent out a number of subpoenas to get information and compel people with knowledge about the events of the day to tell them what they know. 
  <p class="updated_time"> 03:24 AM CT, Nov. 06 </p> 
  <a href="https://www.nytimes.com/2021/11/05/upshot/biden-budget-scorekeepers-cbo.html">2,000 Pages and Pronto! Budget Scorekeepers Are Under Pressure</a> NYT: Lawmakers want detailed estimates on the effects of the big Democratic bill, but that can take longer than they think, slowing the process. 
- <p class="updated_time"> 11:58 PM CT, Nov. 05 </p> 
- <a href="https://www.nytimes.com/2021/11/05/us/politics/house-infrastructure-reconciliation.html">House Passes $1 Trillion Infrastructure Bill, Putting Social Policy Bill on Hold</a> NYT: Progressives who had threatened to sink the measure agreed to support it after extracting a promise from moderates that they would ultimately back the social safety net and climate bill. 
  <p class="updated_time"> 10:32 PM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/05/us/politics/house-democrats-vote-infrastructure.html">What to Watch in the House on Friday</a> NYT: Democratic leaders were aiming to pass the $1 trillion bipartisan infrastructure bill, but they postponed a vote on the $1.85 trillion social safety net and climate change measure. 
  <p class="updated_time"> 10:30 PM CT, Nov. 05 </p> 
