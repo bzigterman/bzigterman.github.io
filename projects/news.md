@@ -263,7 +263,7 @@ permalink: /projects/news/
  <p class="updated_time"> 09:56 AM CT, Nov. 05 </p> 
  <a href="https://www.npr.org/2021/11/05/1052482356/watch-colin-powells-funeral-is-held-at-washington-national-cathedral">Colin Powell is remembered as a down-to-earth statesman and leader at his funeral</a> NPR: The former secretary of state died of complications from COVID-19 in October. His funeral was held at Washington National Cathedral on Friday. 
  <p class="updated_time"> 06:57 AM CT, Nov. 05 </p> 
- <a href="https://www.npr.org/2021/11/05/1052206451/house-is-poised-for-a-vote-on-its-spending-plan-but-hurdles-remain">House punts on social spending bill, but will try to pass infrastructure bill </a> NPR: The change comes after House moderates said they would not vote on the $1.75 trillion spending package without a score from Congress' budget office. 
+ <a href="https://www.npr.org/2021/11/05/1052206451/house-is-poised-for-a-vote-on-its-spending-plan-but-hurdles-remain">House punts on social spending bill</a> NPR: The change comes after House moderates said they would not vote on the $1.75 trillion spending package without a score from Congress' budget office. 
  <p class="updated_time"> 06:26 AM CT, Nov. 05 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/11/05/here-goes-the-house-spending-and-infrastructure-votes-teed-up-494996">Here goes the House: spending and infrastructure votes tee’d up</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 05:19 AM CT, Nov. 05 </p> 
