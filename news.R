@@ -87,13 +87,11 @@ bloomberg_politics <- tidyfeed("https://feeds.bloomberg.com/politics/news.rss") 
 wapo_politics <- tidyfeed("http://feeds.washingtonpost.com/rss/politics") %>%
   select(feed_title, item_pub_date,item_title, item_link, item_description) %>%
   mutate(feed = "WaPo") %>%
-  mutate(utc_time = force_tz(item_pub_date, tz = "UTC")) %>%
-  mutate(central_time = with_tz(utc_time, tz = "America/Chicago")) %>%
+  mutate(utc_time = force_tz(item_pub_date, tz = "US/Eastern")) %>%
+  mutate(central_time = with_tz(utc_time, tz = "US/Eastern")) %>%
   mutate(clean_time = strftime(x = central_time, 
                                tz = "US/Central",
                                format = "%I:%M% %p CT, %b. %d"))
-
-
 
 politics_news <- full_join(politico_politics, nyt_politics) %>%
   full_join(politico_playbook) %>%
