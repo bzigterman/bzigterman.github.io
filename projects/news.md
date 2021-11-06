@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:17 AM CT, Nov. 06 </p> 
+ <a href="https://www.nytimes.com/2021/11/06/world/europe/spain-plane-passengers-escape.html">Spanish Police Seek Missing Plane Passengers After Emergency Landing</a> NYT: About 20 people fled a Moroccan flight that diverted to Mallorca after a passenger apparently fell ill. Some remained at large. 
+ <p class="updated_time"> 08:15 AM CT, Nov. 06 </p> 
+ <a href="https://www.nytimes.com/2021/11/05/world/europe/france-macron-alexandre-benalla-guilty.html">Ex-Macron Aide Convicted of Assault and Posing as a Police Officer</a> NYT: The aide, Alexandre Benalla, who was fired in 2018 after videos emerged of him beating a man at a labor protest, was sentenced to serve a year of house arrest with electronic monitoring. 
  <p class="updated_time"> 07:31 AM CT, Nov. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59188960?at_medium=RSS&at_campaign=KARANGA">Travis Scott's Astroworld: Eight killed after crowd surge at Texas festival</a> BBC: Panic broke out after the crowd began to press towards the stage at Travis Scott's Astroworld Festival. 
  <p class="updated_time"> 07:23 AM CT, Nov. 06 </p> 
@@ -85,8 +89,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/05/1052968032/having-jailed-opposition-candidates-daniel-ortega-is-set-to-win-nicaragua-presid">Having jailed opposition candidates, Daniel Ortega is set to win Nicaragua presidency</a> NPR: Nicaragua's President Daniel Ortega will likely be reelected Sunday. He has jailed political opponents and ensured the vote will be in his favor. 
  <p class="updated_time"> 03:23 PM CT, Nov. 05 </p> 
  <a href="https://www.npr.org/2021/11/05/1052967987/young-people-are-protesting-in-glasgow-demanding-concreate-action-at-climate-sum">Young people are protesting in Glasgow, demanding concrete action at climate summit</a> NPR: Young people from around the world are protesting over world leaders' response to climate change at the UN's climate summit in Glasgow on Friday. 
- <p class="updated_time"> 02:47 PM CT, Nov. 05 </p> 
- <a href="https://www.nytimes.com/2021/11/05/world/europe/france-macron-alexandre-benalla-guilty.html">Ex-Macron Aide Convicted of Assault and Posing as a Police Officer</a> NYT: The aide, Alexandre Benalla, who was fired in 2018 after videos emerged of him beating a man at a labor protest, was sentenced to serve a year of house arrest with electronic monitoring. 
  <p class="updated_time"> 02:38 PM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/05/world/europe/cop-protests.html">At COP26, Youth Want Action, Accountability as Protesters Rally</a> NYT: For many, the climate conference has inspired mixed emotions: concern that their voices were not really being listened to, but also hope that their presence would help drive change. 
  <p class="updated_time"> 02:34 PM CT, Nov. 05 </p> 
@@ -101,8 +103,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/05/world/middleeast/erdogan-turkey-cop26.html">As Turkey Chafes at Erdogan, He Gets Spikier Abroad</a> NYT: President Recep Tayyip Erdogan canceled an appearance at the global climate talks over a perceived slight, part of a pattern of creating international dramas to bolster his domestic standing. 
  <p class="updated_time"> 12:14 PM CT, Nov. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-49918719?at_medium=RSS&at_campaign=KARANGA">Greta Thunberg: Who is the climate campaigner and what are her aims?</a> BBC: The Swedish teenager started a climate change protest that grew into a global movement. 
- <p class="updated_time"> 11:59 AM CT, Nov. 05 </p> 
- <a href="https://www.nytimes.com/2021/11/03/us/mayor-eric-garcetti-of-los-angeles-tests-positive-for-the-virus.html">Mayor Eric Garcetti of Los Angeles tests positive for the virus.</a> NYT: Mr. Garcetti’s office said the mayor, who is in Scotland for a conference on climate change, was feeling good and had been fully vaccinated. 
  <p class="updated_time"> 11:57 AM CT, Nov. 05 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59176666?at_medium=RSS&at_campaign=KARANGA">My Day at COP26: 'By helping out delegates I'm remembering granddad'</a> BBC: Harjot Singh Kambo is one of an army of volunteers helping COP26 visitors find their way around. Here he explains why the task is a very personal one for him. 
  <p class="updated_time"> 11:17 AM CT, Nov. 05 </p> 
