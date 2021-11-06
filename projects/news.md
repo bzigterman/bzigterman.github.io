@@ -7,12 +7,12 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:43 AM CT, Nov. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59188753?at_medium=RSS&at_campaign=KARANGA">Sierra Leone explosion: Scores dead after Freetown oil tanker collision</a> BBC: A huge explosion happened after an oil truck collided with another vehicle in the nation's capital. 
+ <p class="updated_time"> 06:41 AM CT, Nov. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59188960?at_medium=RSS&at_campaign=KARANGA">Travis Scott's Astroworld: Eight killed after crowd surge at Texas festival</a> BBC: Panic broke out after the crowd began to press towards the stage at Travis Scott's Astroworld Festival. 
  <p class="updated_time"> 06:36 AM CT, Nov. 06 </p> 
  <a href="https://www.npr.org/2021/11/06/1053162519/sierra-leone-oil-tanker-explosion">An oil tanker explodes in Sierra Leone, killing at least 92 and injuring dozens</a> NPR: The explosion took place after a bus struck the tanker near the country's capital city. Dozens were injured after large crowds gathered to collect leaking fuel, officials and witnesses said. 
- <p class="updated_time"> 06:21 AM CT, Nov. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59188753?at_medium=RSS&at_campaign=KARANGA">Sierra Leone explosion: Scores dead after Freetown oil tanker collision</a> BBC: A huge explosion happened after an oil truck collided with another vehicle in the nation's capital. 
- <p class="updated_time"> 06:12 AM CT, Nov. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59188960?at_medium=RSS&at_campaign=KARANGA">Travis Scott's Astroworld: Eight killed after crowd surge at Texas festival</a> BBC: Panic broke out after the crowd began to press towards the stage at Travis Scott's Astroworld Festival. 
  <p class="updated_time"> 04:11 AM CT, Nov. 06 </p> 
  <a href="https://www.nytimes.com/2021/11/05/world/africa/ethiopia-tigray-eight-groups.html">Eight Groups Join Tigray Rebels Vowing to Oust Ethiopia’s Leader</a> NYT: The government calls the new coalition, announced in Washington, a “publicity stunt,” as intermediaries try to negotiate a peaceful solution to a year of conflict. 
  <p class="updated_time"> 04:00 AM CT, Nov. 06 </p> 
