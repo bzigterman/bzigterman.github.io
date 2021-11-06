@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:11 AM CT, Nov. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59188753?at_medium=RSS&at_campaign=KARANGA">Sierra Leone explosion: Scores dead after Freetown oil tanker collision</a> BBC: A huge explosion happened after an oil truck collided with another vehicle in the nation's capital. 
  <p class="updated_time"> 09:01 AM CT, Nov. 06 </p> 
  <a href="https://www.nytimes.com/2021/11/06/world/austria-covid-restrictions.html">Facing a spike in infections, Austria sharpens the rules of its Covid pass.</a> NYT: Austrians will need proof of vaccination or a past infection to be seated at a restaurant, enter a bar, visit a hairdresser or join any gathering of more than 25 people. 
  <p class="updated_time"> 09:01 AM CT, Nov. 06 </p> 
@@ -29,8 +31,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/06/1053163039/environmentalists-stage-large-protests-in-glasgow-demanding-more-from-cop26">Environmentalists stage large protests in Glasgow, demanding more from COP26 </a> NPR: Environmentalists are expected to stage large protests are expected in Glasgow, Scotland, today, demanding more action to combat climate change. 
  <p class="updated_time"> 07:02 AM CT, Nov. 06 </p> 
  <a href="https://www.npr.org/2021/11/06/1053162983/scores-of-people-reported-dead-in-sierra-leone-after-fuel-tanker-explosion">Scores of people reported dead in Sierra Leone after fuel tanker explosion</a> NPR: Scott Simon speaks to journalist Umaru Fofana about the deadly tanker explosion outside Freetown, Sierra Leone today. 
- <p class="updated_time"> 06:43 AM CT, Nov. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59188753?at_medium=RSS&at_campaign=KARANGA">Sierra Leone explosion: Scores dead after Freetown oil tanker collision</a> BBC: A huge explosion happened after an oil truck collided with another vehicle in the nation's capital. 
  <p class="updated_time"> 06:36 AM CT, Nov. 06 </p> 
  <a href="https://www.npr.org/2021/11/06/1053162519/sierra-leone-oil-tanker-explosion">An oil tanker explodes in Sierra Leone, killing at least 92 and injuring dozens</a> NPR: The explosion took place after a bus struck the tanker near the country's capital city. Dozens were injured after large crowds gathered to collect leaking fuel, officials and witnesses said. 
  <p class="updated_time"> 04:11 AM CT, Nov. 06 </p> 
@@ -214,6 +214,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:16 AM CT, Nov. 06 </p> 
+ <a href="https://www.npr.org/2021/11/06/1053051380/jan-6-panel-former-doj-official-jeffrey-clark-fails-to-cooperate-in-testimony">Jan. 6 panel: Former DOJ official Jeffrey Clark fails to cooperate in testimony</a> NPR: Former DOJ official Jeffrey Clark appeared for a deposition, but the panel says he failed to cooperate. 
  <p class="updated_time"> 08:52 AM CT, Nov. 06 </p> 
  <a href="https://www.nytimes.com/2021/11/06/us/states-infrastructure-bill-funding.html">This Is Where the States Want Billions in Infrastructure Funding Spent</a> NYT: The plan finally approved on Friday will address transportation, water, broadband, energy and public safety needs that have been building for years, sometimes decades. 
  <p class="updated_time"> 07:02 AM CT, Nov. 06 </p> 
@@ -280,8 +282,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/huddle/2021/11/05/here-goes-the-house-spending-and-infrastructure-votes-teed-up-494996">Here goes the House: spending and infrastructure votes tee’d up</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 05:19 AM CT, Nov. 05 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/05/lets-try-this-again-494993">POLITICO Playbook: Let’s try this again</a> Politico: And there’s a second grand jury in the Trump Organization case in Manhattan. 
- <p class="updated_time"> 05:05 AM CT, Nov. 05 </p> 
- <a href="https://www.npr.org/2021/11/05/1052633843/republican-states-sue-over-biden-vaccine-mandate">Hours after the White House issues its new vaccine mandate, GOP-led states sue</a> NPR: Dozens of Republican state officials are suing over the White House's COVID-19 vaccine mandate that they say is unconstitutional and threatens business. 
  <p class="updated_time"> 03:30 AM CT, Nov. 05 </p> 
  <a href="https://www.politico.com/news/2021/11/05/pelosi-dems-final-push-519607">Pelosi tries to rev House Dems after season in the ditch</a> Politico: "There’s a point where you've got to stop talking," Rep. Peter Welch (D-Vt.) said. But can the House get there? 
  <p class="updated_time"> 03:30 AM CT, Nov. 05 </p> 
