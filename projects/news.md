@@ -29,12 +29,20 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/06/world/europe/camino-de-santiago-spain.html">On Spain’s Camino de Santiago, Even Óscar the Donkey Is a Pilgrim</a> NYT: An artist and an innkeeper have enlisted the help of a burro in their effort to rescue the traditions of Spain’s ancient pilgrimage route from mass tourism (and selfies). 
  <p class="updated_time"> 04:00 AM CT, Nov. 06 </p> 
  <a href="https://www.nytimes.com/2021/11/06/world/asia/india-region-muslim-hindu-strife.html">India's Treatment of Muslims Erodes Its Moral High Ground</a> NYT: The hard-line attitude of Narendra Modi’s ruling party toward Muslims has undermined the nation’s reputation as a voice for tolerance in South Asia. 
+ <p class="updated_time"> 03:32 AM CT, Nov. 06 </p> 
+ <a href="https://www.wsj.com/articles/whats-that-the-scots-are-speaking-on-tiktok-it-might-not-be-english-11636201895">What's That the Scots Are Speaking on TikTok? It Might Not Be English</a> WSJ: Glasgow and social media are places to go to hear Scots, Scotland’s rough-around-the-edges indigenous street language, and to wonder what it means. 
+ <p class="updated_time"> 03:19 AM CT, Nov. 06 </p> 
+ <a href="https://www.wsj.com/articles/nicaragua-veers-to-dictatorship-as-president-holds-election-the-u-s-calls-sham-11636201160">Nicaragua Veers Toward Dictatorship</a> WSJ: President Daniel Ortega, running for a fourth consecutive term after imprisoning seven rivals, is widely expected to win an election seen as a sham by the U.S. and opponents. 
  <p class="updated_time"> 02:40 AM CT, Nov. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59180745?at_medium=RSS&at_campaign=KARANGA">US lawmakers approve $1tn in infrastructure spending</a> BBC: The long-delayed bipartisan legislation is a major plank of President Biden's domestic agenda. 
+ <p class="updated_time"> 12:30 AM CT, Nov. 06 </p> 
+ <a href="https://www.wsj.com/articles/rising-covid-19-breakthrough-cases-hinder-efforts-to-control-virus-11636191003">Rising Breakthrough Cases Hinder Efforts to Control Covid-19</a> WSJ: In the U.K., where the path of the coronavirus has been more closely tracked than just about anywhere in the world, infections in fully vaccinated people are increasing. 
  <p class="updated_time"> 10:25 PM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/05/world/asia/china-coronavirus-ruili.html">Near-Daily Covid Tests, Sleeping in Classrooms: Life in Covid-Zero China</a> NYT: Residents in Ruili, in southwestern China, have been locked down four times in the past year as part of the country’s quest to eliminate the virus. 
  <p class="updated_time"> 09:21 PM CT, Nov. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59186980?at_medium=RSS&at_campaign=KARANGA">Chinese man convicted for stealing aviation trade secrets</a> BBC: US authorities say Xu Yanjun sought to steal trade secrets from US aviation companies. 
+ <p class="updated_time"> 07:51 PM CT, Nov. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59186214?at_medium=RSS&at_campaign=KARANGA">COP 26: What Alaska’s shrinking island means for all of us</a> BBC: Melting ice and rising sea levels threaten this community's existence. It's a warning to the world. 
  <p class="updated_time"> 07:43 PM CT, Nov. 05 </p> 
  <a href="https://www.bbc.co.uk/news/blogs-trending-59070451?at_medium=RSS&at_campaign=KARANGA">Climate change: The US state taking on an oil giant for greenwashing</a> BBC: The US state of Massachusetts is taking ExxonMobil to court for greenwashing. 
  <p class="updated_time"> 07:43 PM CT, Nov. 05 </p> 
@@ -67,12 +75,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/05/world/canada/manitoba-premier-election-stefanson-glover.html">Manitoba Names a New Premier, but a Rival Asks a Court to Quash the Action</a> NYT: The litigation highlights the often messy process that Canadian political parties use to select their leaders. 
  <p class="updated_time"> 05:05 PM CT, Nov. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59180744?at_medium=RSS&at_campaign=KARANGA">Ahmaud Arbery murder trial: Prosecutors reveal full footage of black jogger's death</a> BBC: Prosecutors in US state of Georgia say three white men assumed Ahmaud Arbery had committed a crime. 
- <p class="updated_time"> 05:02 PM CT, Nov. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59175404?at_medium=RSS&at_campaign=KARANGA">Ethiopia urges ex-soldiers to join fight against Tigray rebels</a> BBC: The army calls on former military personnel to join it, as rebel forces advance on the capital. 
  <p class="updated_time"> 04:39 PM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/article/ethiopia-tigray-conflict-explained.html">Why Is Ethiopia at War in the Tigray Region? </a> NYT: The civil war has shifted dramatically since Prime Minister Abiy Ahmed began a military campaign in the Tigray region a year ago. With Tigrayan fighters advancing toward the capital, Ethiopia is at risk of collapse. 
- <p class="updated_time"> 04:32 PM CT, Nov. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-59162510?at_medium=RSS&at_campaign=KARANGA">Covid vaccine to be mandatory for children in Costa Rica</a> BBC: The country becomes the first in the world to mandate vaccinations for those aged five to 11. 
  <p class="updated_time"> 04:16 PM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/05/climate/cop26-vanessa-nakate.html">Vanessa Nakate, Ugandan Climate Activist, Offers an Optimistic Vision</a> NYT: The 24-year-old from Uganda has emerged as a leading voice of young people agitating for climate action. 
  <p class="updated_time"> 03:31 PM CT, Nov. 05 </p> 
@@ -109,8 +113,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/05/world/europe/shortages-german-economic-growth.html">Germany's Economy Hindered by Supply Chain Problems </a> NYT: The order books in Europe’s largest economy are full, but a lack of parts and raw materials means companies are struggling to fill them. 
  <p class="updated_time"> 10:23 AM CT, Nov. 05 </p> 
  <a href="https://www.npr.org/2021/11/05/1052682152/cop26-climate-pledges-iea-temperature-rise-carbon">Latest climate pledges could limit global temperature rise, a new report says</a> NPR: The International Energy Agency says that if nations honor their latest pledges to reduce greenhouse gas emissions, global temperatures could be held to 1.8 degrees Celsius above preindustrial levels. 
- <p class="updated_time"> 10:13 AM CT, Nov. 05 </p> 
- <a href="https://www.bbc.co.uk/news/health-59178291?at_medium=RSS&at_campaign=KARANGA">Covid: Pfizer says antiviral pill 89% effective in high-risk cases</a> BBC: The company stopped clinical trials early because initial results for the drug were so positive. 
  <p class="updated_time"> 10:12 AM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/05/world/europe/cop26-mothers-pollution.html">Mothers Demand Action on Air Pollution at COP26</a> NYT: A letter to world leaders gathered at the U.N. climate conference in Glasgow was signed by nearly 500 parent groups from 44 countries. 
  <p class="updated_time"> 09:58 AM CT, Nov. 05 </p> 
@@ -127,8 +129,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/05/1052695890/cancun-shootout-mexico-cartel">In a beach showdown by luxury hotels near Cancun, 2 people were shot dead </a> NPR: A commando of drug gang gunmen on Thursday stormed ashore at a beach on Mexico's resort-studded Caribbean coast in front of luxury hotels and executed two drug dealers from a rival gang. 
  <p class="updated_time"> 07:20 AM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/05/world/asia/singapore-capital-punishment-drugs.html">Rights Groups Urge Singapore Not to Execute Man With Mental Disability</a> NYT: The man, a Malaysian with an I.Q. of 69, was caught trying to smuggle an ounce and a half of heroin in 2009. Some are calling his planned hanging a human rights violation. 
- <p class="updated_time"> 06:41 AM CT, Nov. 05 </p> 
- <a href="https://www.wsj.com/articles/greta-thunberg-takes-on-role-as-cop26-critic-11636111801">Thunberg Leads Climate Protest, Criticizing COP26 Talks</a> WSJ: The Swedish activist headlined an hourslong march and rally in Glasgow after calling the summit ‘a two week celebration of business as usual and blah blah blah.’ 
  <p class="updated_time"> 05:24 AM CT, Nov. 05 </p> 
  <a href="https://www.wsj.com/articles/covid-19-certificates-look-likely-to-linger-in-europe-11636122278">Covid-19 Certificates Look Likely to Linger in Europe</a> WSJ: The health passes that restrict access to restaurants, gyms and other venues were supposed to be transitory, but with the specter of a winter resurgence of Covid-19 infections, they look likely to remain into next year. 
  <p class="updated_time"> 05:09 AM CT, Nov. 05 </p> 
@@ -143,12 +143,8 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/global-food-prices-surge-as-inflation-spreads-11636119367">Global Food Prices Surge as Inflation Spreads</a> WSJ: Bad harvests and supply bottlenecks are leaving poor families hungry in the developing world, from Peru to the Philippines. 
  <p class="updated_time"> 04:31 AM CT, Nov. 05 </p> 
  <a href="https://www.wsj.com/articles/how-dna-tests-helped-a-jewish-man-trace-a-holocaust-mystery-to-israel-11636119082">How DNA Tests Helped a Jewish Man Trace a Holocaust Mystery to Israel</a> WSJ: Born in Nazi-occupied Poland, Bolek Krutz settled in New Jersey in 1969 and became an X-ray technician. For decades, he wondered who he really was. 
- <p class="updated_time"> 04:17 AM CT, Nov. 05 </p> 
- <a href="https://www.wsj.com/articles/german-navy-eyes-on-china-adds-to-europes-pacific-presence-11636113718">German Navy, Eyes on China, Adds to Europe's Pacific Presence</a> WSJ: The frigate Bayern docked in Tokyo on Friday and will join the U.S., Japanese and other allied navies to build interoperability skills this month. 
  <p class="updated_time"> 04:00 AM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/05/world/europe/germany-black-woman-bundestag.html">First Black Woman in Bundestag Wants to Change Image of ‘Germanness’</a> NYT: After a deadly racist attack, Awet Tesfaiesus considered leaving Germany. Instead, she ran for Parliament with a “courage to change” slogan and won. 
- <p class="updated_time"> 03:56 AM CT, Nov. 05 </p> 
- <a href="https://www.wsj.com/articles/auschwitz-tattoo-kit-auction-fuels-debate-in-israel-11636116964">Auschwitz Tattoo-Kit Auction Fuels Debate in Israel</a> WSJ: A court halted the auction of a rare set of tattoo needles that had purportedly been used to mark inmates at Auschwitz and had reignited a debate over whether Nazi-era artifacts should be bought or sold. 
  <p class="updated_time"> 03:42 AM CT, Nov. 05 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59174876?at_medium=RSS&at_campaign=KARANGA">Abba on new album Voyage: We don't need to prove anything</a> BBC: As the band release Voyage, Benny and Bjorn speak to the BBC about being compared to their old music. 
  <p class="updated_time"> 02:56 AM CT, Nov. 05 </p> 
@@ -165,6 +161,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/04/world/canada/saskatoon-moose-school.html">In Saskatoon, a Moose on the Loose Is Returned to the Wild</a> NYT: In a prairie city, a young moose on the loose crashed into a children’s classroom, sparking a mix of delight and concern on social media. 
  <p class="updated_time"> 07:39 PM CT, Nov. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59166607?at_medium=RSS&at_campaign=KARANGA">COP26: Indigenous Amazon activist 'got death threats' after speech</a> BBC: Txai Suruí says she worries for her safety and that of other young climate activists. 
+ <p class="updated_time"> 07:27 PM CT, Nov. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-58976338?at_medium=RSS&at_campaign=KARANGA">How fresh is your food? Sensors could show you</a> BBC: Households contribute the most food waste - so what if you could track spoilage in real time? 
  <p class="updated_time"> 07:23 PM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/world/europe/covid-surge-europe-who.html">W.H.O. Official: 'Europe Is Back at Epicenter of the Pandemic'</a> NYT: The World Health Organization said Europe was responsible for nearly three-fifths of the world’s recent coronavirus cases, and that deaths in the region were surging. 
  <p class="updated_time"> 06:20 PM CT, Nov. 04 </p> 
