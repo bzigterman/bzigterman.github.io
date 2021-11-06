@@ -7,6 +7,12 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:09 AM CT, Nov. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59192048?at_medium=RSS&at_campaign=KARANGA">Biden: Infrastructure bill is 'monumental step forward'</a> BBC: The long-delayed $1tn (£741bn) spending package is a major domestic win for the US president. 
+ <p class="updated_time"> 11:08 AM CT, Nov. 06 </p> 
+ <a href="https://www.nytimes.com/2021/11/05/world/canada/manitoba-premier-election-stefanson-glover.html">Manitoba's New Premier Faces Court Challenge by Rival</a> NYT: The litigation highlights the often messy process that Canadian political parties use to select their leaders. 
+ <p class="updated_time"> 11:04 AM CT, Nov. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59191108?at_medium=RSS&at_campaign=KARANGA">Palma de Mallorca: Fleeing passengers shut down busy Spanish airport</a> BBC: Palma de Mallorca Airport closes for four hours after 21 people run from a plane across the tarmac. 
  <p class="updated_time"> 10:52 AM CT, Nov. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59181509?at_medium=RSS&at_campaign=KARANGA">Three seriously injured in knife attack on train in Germany</a> BBC: A 27-year-old Syrian man is arrested after the attack on a high-speed train in Bavaria. 
  <p class="updated_time"> 10:27 AM CT, Nov. 06 </p> 
@@ -57,8 +63,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/whats-that-the-scots-are-speaking-on-tiktok-it-might-not-be-english-11636201895">What's That the Scots Are Speaking on TikTok? It Might Not Be English</a> WSJ: Glasgow and social media are places to go to hear Scots, Scotland’s rough-around-the-edges indigenous street language, and to wonder what it means. 
  <p class="updated_time"> 03:19 AM CT, Nov. 06 </p> 
  <a href="https://www.wsj.com/articles/nicaragua-veers-to-dictatorship-as-president-holds-election-the-u-s-calls-sham-11636201160">Nicaragua Veers Toward Dictatorship</a> WSJ: President Daniel Ortega, running for a fourth consecutive term after imprisoning seven rivals, is widely expected to win an election seen as a sham by the U.S. and opponents. 
- <p class="updated_time"> 02:40 AM CT, Nov. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59180745?at_medium=RSS&at_campaign=KARANGA">US lawmakers approve $1tn in infrastructure spending</a> BBC: The long-delayed bipartisan legislation is a major plank of President Biden's domestic agenda. 
  <p class="updated_time"> 12:30 AM CT, Nov. 06 </p> 
  <a href="https://www.wsj.com/articles/rising-covid-19-breakthrough-cases-hinder-efforts-to-control-virus-11636191003">Rising Breakthrough Cases Hinder Efforts to Control Covid-19</a> WSJ: In the U.K., where the path of the coronavirus has been more closely tracked than just about anywhere in the world, infections in fully vaccinated people are increasing. 
  <p class="updated_time"> 10:25 PM CT, Nov. 05 </p> 
@@ -94,8 +98,6 @@ permalink: /projects/news/
  <p class="updated_time"> 05:08 PM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/04/world/americas/biden-aide-covid-scotland.html">A White House aide who traveled abroad with Biden tests positive.</a> NYT: President Biden was not in close contact with the aide, who remains quarantined in Scotland and has not shown symptoms of Covid-19. 
  <p class="updated_time"> 05:05 PM CT, Nov. 05 </p> 
- <a href="https://www.nytimes.com/2021/11/05/world/canada/manitoba-premier-election-stefanson-glover.html">Manitoba Names a New Premier, but a Rival Asks a Court to Quash the Action</a> NYT: The litigation highlights the often messy process that Canadian political parties use to select their leaders. 
- <p class="updated_time"> 05:05 PM CT, Nov. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59180744?at_medium=RSS&at_campaign=KARANGA">Ahmaud Arbery murder trial: Prosecutors reveal full footage of black jogger's death</a> BBC: Prosecutors in US state of Georgia say three white men assumed Ahmaud Arbery had committed a crime. 
  <p class="updated_time"> 04:39 PM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/article/ethiopia-tigray-conflict-explained.html">Why Is Ethiopia at War in the Tigray Region? </a> NYT: The civil war has shifted dramatically since Prime Minister Abiy Ahmed began a military campaign in the Tigray region a year ago. With Tigrayan fighters advancing toward the capital, Ethiopia is at risk of collapse. 
@@ -107,8 +109,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/05/1052967987/young-people-are-protesting-in-glasgow-demanding-concreate-action-at-climate-sum">Young people are protesting in Glasgow, demanding concrete action at climate summit</a> NPR: Young people from around the world are protesting over world leaders' response to climate change at the UN's climate summit in Glasgow on Friday. 
  <p class="updated_time"> 02:38 PM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/05/world/europe/cop-protests.html">At COP26, Youth Want Action, Accountability as Protesters Rally</a> NYT: For many, the climate conference has inspired mixed emotions: concern that their voices were not really being listened to, but also hope that their presence would help drive change. 
- <p class="updated_time"> 02:34 PM CT, Nov. 05 </p> 
- <a href="https://www.bbc.co.uk/news/uk-scotland-glasgow-west-59165781?at_medium=RSS&at_campaign=KARANGA">Greta Thunberg: COP26 is a failure and PR exercise</a> BBC: The Swedish activist was speaking after thousands of climate protestors marched through Glasgow. 
  <p class="updated_time"> 01:57 PM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/05/world/states-sue-biden-vaccine-mandate.html">11 States Sue Over Biden's Vaccine Mandate for Big Companies</a> NYT: The lawsuit was filed a day after the announcement of a Jan. 4 deadline for the companies to begin their mandates or start weekly testing. 
  <p class="updated_time"> 12:47 PM CT, Nov. 05 </p> 
@@ -212,14 +212,18 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
- <p class="updated_time"> 10:32 AM CT, Nov. 06 </p> 
+ <p class="updated_time"> 11:24 AM CT, Nov. 06 </p> 
  <a href="https://www.nytimes.com/2021/11/05/us/politics/house-infrastructure-reconciliation.html">House Passes $1 Trillion Infrastructure Bill, Putting Social Policy Bill on Hold</a> NYT: Progressives who had threatened to sink the measure agreed to support it after extracting a promise from moderates that they would ultimately back the social safety net and climate bill. 
- <p class="updated_time"> 10:23 AM CT, Nov. 06 </p> 
+ <p class="updated_time"> 11:24 AM CT, Nov. 06 </p> 
  <a href="https://www.nytimes.com/2021/11/06/us/states-infrastructure-bill-funding.html">This Is Where the States Want Billions in Infrastructure Funding Spent</a> NYT: The plan finally approved on Friday will address transportation, water, broadband, energy and public safety needs that have been building for years, sometimes decades. 
+ <p class="updated_time"> 11:15 AM CT, Nov. 06 </p> 
+ <a href="https://www.nytimes.com/2021/11/06/us/politics/ashley-biden-project-vertias-fbi.html">F.B.I. Searches James O’Keefe’s Home in Ashley Biden Diary Theft Inquiry</a> NYT: Authorities carried out a court-ordered search at the New York apartment of the Project Veritas founder two days after searching the homes of his associates. 
+ <p class="updated_time"> 11:00 AM CT, Nov. 06 </p> 
+ <a href="https://www.nytimes.com/2021/11/06/us/politics/trump-election-interference-investigation.html">In Trump Election Interference Investigation, Grand Jury Looms</a> NYT: An Atlanta D.A. is said to be likely to impanel a special grand jury in her criminal investigation of election interference by the former president and his allies. 
+ <p class="updated_time"> 11:00 AM CT, Nov. 06 </p> 
+ <a href="https://www.nytimes.com/2021/11/06/us/politics/military-jury-cia-torture.html">Foreman Says Military Jury Was Disgusted by C.I.A. Torture</a> NYT: A Navy captain whose letter recommended clemency for a Qaeda terrorist drafted the damning two-page document in 20 minutes. 
  <p class="updated_time"> 10:18 AM CT, Nov. 06 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/06/how-biden-and-pelosi-saved-bif-495005">POLITICO Playbook: How Biden and Pelosi saved BIF</a> Politico: And President Joe Biden secures the biggest win of his presidency so far. 
- <p class="updated_time"> 09:45 AM CT, Nov. 06 </p> 
- <a href="https://www.nytimes.com/2021/11/04/us/politics/house-democrats-biden.html">House Democrats Hunt for Votes to Pass Biden’s Domestic Agenda</a> NYT: Speaker Nancy Pelosi wanted a vote on Thursday night on a $1.85 trillion social policy and climate bill, but moderates pushed back and action was postponed until Friday. 
  <p class="updated_time"> 09:16 AM CT, Nov. 06 </p> 
  <a href="https://www.npr.org/2021/11/06/1053051380/jan-6-panel-former-doj-official-jeffrey-clark-fails-to-cooperate-in-testimony">Jan. 6 panel: Former DOJ official Jeffrey Clark fails to cooperate in testimony</a> NPR: Former DOJ official Jeffrey Clark appeared for a deposition, but the panel says he failed to cooperate. 
  <p class="updated_time"> 07:02 AM CT, Nov. 06 </p> 
@@ -250,8 +254,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/05/us/politics/guantanamo-torture-foia-cia.html">Some Sept. 11 Trial Secrets May Not Be Secrets Anymore</a> NYT: Prosecutors agreed to compare hundreds if not thousands of pages of classified documents in the case against 9/11 defendants with material released under the Freedom of Information Act. 
  <p class="updated_time"> 06:20 PM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/05/us/politics/state-dept-missing-gifts.html">State Dept. Report on Missing Gifts Finds Poor Oversight</a> NYT: The gift vault was “in a state of disarray,” and tens of thousands of dollars of items remain unaccounted for, including a $5,800 bottle of whiskey. 
- <p class="updated_time"> 05:20 PM CT, Nov. 05 </p> 
- <a href="https://www.nytimes.com/article/vaccine-mandate-biden-osha.html">OSHA's Vaccine Mandate: Your Questions Answered</a> NYT: We’re answering your questions about the new OSHA rules for employers with 100 or more workers. This F.A.Q. was last updated on Nov. 5 at 6:20 p.m. 
  <p class="updated_time"> 03:38 PM CT, Nov. 05 </p> 
  <a href="https://www.npr.org/2021/11/05/1052968081/democrats-and-some-republicans-fear-how-trumps-election-lies-may-affect-democrac">Democrats and some Republicans fear how Trump's election lies may affect democracy</a> NPR: Democrats and some anti-Trump Republicans are panicked about the impact of the ex-president's election lies on American democracy. They see worst-case scenarios looming — but few, if any, solutions. 
  <p class="updated_time"> 03:30 PM CT, Nov. 05 </p> 
@@ -290,8 +292,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/04/us/politics/robert-santos-census-bureau.html">Robert Santos Confirmed as First Latino to Lead Census Bureau</a> NYT: The confirmation on Thursday brings a permanent head to the agency after a turbulent period under the Trump administration. 
  <p class="updated_time"> 06:29 PM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/us/politics/texas-voting-restrictions-lawsuit.html">Justice Dept. Sues Texas Over Voting Restrictions</a> NYT: The department argued that a major voting law passed by Republicans would disenfranchise several groups of vulnerable Texans, including voters who do not speak English and those with disabilities. 
- <p class="updated_time"> 06:22 PM CT, Nov. 04 </p> 
- <a href="https://www.nytimes.com/2021/11/04/us/politics/atlanta-mayor-runoff-felicia-moore.html">Felicia Moore, Andre Dickens Will Compete for Atlanta Mayor; Kasim Reed Falls Short</a> NYT: Two candidates, Felicia Moore and Andre Dickens, will compete in a runoff on Nov. 30. 
  <p class="updated_time"> 06:11 PM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/us/politics/democrats-turnout-virginia.html">How Virginia’s Governor Race Unraveled the Democratic Turnout Myth</a> NYT: It was long thought that surges in voting would help Democrats. So how does the party explain Glenn Youngkin’s victory? 
  <p class="updated_time"> 02:51 PM CT, Nov. 04 </p> 
