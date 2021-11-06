@@ -7,16 +7,34 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:30 PM CT, Nov. 05 </p> 
+ <p class="updated_time"> 07:43 PM CT, Nov. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/blogs-trending-59070451?at_medium=RSS&at_campaign=KARANGA">Climate change: The US state taking on an oil giant for greenwashing</a> BBC: The US state of Massachusetts is taking ExxonMobil to court for greenwashing. 
+ <p class="updated_time"> 07:43 PM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/05/arts/music/marilia-mendonca-dead.html">Marília Mendonça, Brazilian Pop Singer, Dies in Plane Crash at 26</a> NYT: Ms. Mendonça, who was a social media sensation with millions of followers, was iconic in a type of Brazilian country music called sertanejo. 
+ <p class="updated_time"> 07:41 PM CT, Nov. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/science-environment-59036722?at_medium=RSS&at_campaign=KARANGA">COP26: How the world is reacting to the climate summit</a> BBC: From Shanghai to Sao Paulo, the BBC looks at how the climate summit is being received. 
+ <p class="updated_time"> 07:34 PM CT, Nov. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-58982118?at_medium=RSS&at_campaign=KARANGA">COP26: What African climate experts want you to know</a> BBC: The issues for Africa, the continent most vulnerable as temperatures rise, that COP26 must not ignore. 
+ <p class="updated_time"> 07:30 PM CT, Nov. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59147493?at_medium=RSS&at_campaign=KARANGA">Paris attacks trial: Humdrum lives that turned to mass murder</a> BBC: For four days the Paris attacks heard this week of the ordinary backgrounds of the 14 defendants. 
+ <p class="updated_time"> 07:17 PM CT, Nov. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59168993?at_medium=RSS&at_campaign=KARANGA">The Rotterdam museum set to display its entire art collection</a> BBC: The Depot in Rotterdam opens on Saturday, revealing its entire collection of 150,000 art objects. 
+ <p class="updated_time"> 07:12 PM CT, Nov. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/in-pictures-59174460?at_medium=RSS&at_campaign=KARANGA">Week in pictures: 30 October - 5 November 2021</a> BBC: A selection of powerful images from all over the globe, taken this week. 
+ <p class="updated_time"> 07:05 PM CT, Nov. 05 </p> 
+ <a href="https://www.nytimes.com/2021/11/05/world/africa/ethiopia-tigray-eight-groups.html">Eight Groups Join Tigray Rebels Vowing to Oust Ethiopia’s Leader</a> NYT: The government calls the new coalition, announced in Washington, a “publicity stunt,” as intermediaries try to negotiate a peaceful solution to a year of conflict. 
+ <p class="updated_time"> 07:04 PM CT, Nov. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-59186088?at_medium=RSS&at_campaign=KARANGA">Colin Powell: Funeral for 'great lion with big heart'</a> BBC: US presidents, past and present, attended the service to remember the former secretary of state. 
+ <p class="updated_time"> 07:02 PM CT, Nov. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59186739?at_medium=RSS&at_campaign=KARANGA">Man found naked inside wall of New York state theatre</a> BBC: Authorities said the man had been trapped for two days before he was heard calling for help. 
+ <p class="updated_time"> 07:01 PM CT, Nov. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/science-environment-59177088?at_medium=RSS&at_campaign=KARANGA">Ros Atkins on… tree planting and climate change</a> BBC: Ros Atkins looks at why vast tree-planting initiatives are concerning some experts. 
  <p class="updated_time"> 06:06 PM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/05/climate/cop26-john-kerry.html">John Kerry Lauds Progress at COP26 but Warns, ‘Job Not Done.’</a> NYT: Mr. Kerry, President Biden’s climate envoy, acknowledged that many of the promises being put forward in Glasgow were only that — promises. 
  <p class="updated_time"> 05:46 PM CT, Nov. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59186654?at_medium=RSS&at_campaign=KARANGA">Marilia Mendonca: Popular Brazil singer dies in plane crash at 26</a> BBC: Marília Mendonça, one of Brazil's most famous singers, was known for her songs focussing on women. 
  <p class="updated_time"> 05:17 PM CT, Nov. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59186204?at_medium=RSS&at_campaign=KARANGA">Hello, Senator? This is the Duchess of Sussex calling</a> BBC: Meghan Markle reportedly placed calls with US senators this week to lobby for family leave. 
- <p class="updated_time"> 05:13 PM CT, Nov. 05 </p> 
- <a href="https://www.nytimes.com/2021/11/05/world/africa/ethiopia-tigray-eight-groups.html">Eight Groups Join Tigray Rebels Vowing to Oust Ethiopia’s Leader</a> NYT: The government calls the new coalition, announced in Washington, a “publicity stunt,” as intermediaries try to negotiate a peaceful solution to a year of conflict. 
  <p class="updated_time"> 05:08 PM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/04/world/americas/biden-aide-covid-scotland.html">A White House aide who traveled abroad with Biden tests positive.</a> NYT: President Biden was not in close contact with the aide, who remains quarantined in Scotland and has not shown symptoms of Covid-19. 
  <p class="updated_time"> 05:05 PM CT, Nov. 05 </p> 
@@ -75,6 +93,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/health-59178291?at_medium=RSS&at_campaign=KARANGA">Covid: Pfizer says antiviral pill 89% effective in high-risk cases</a> BBC: The company stopped clinical trials early because initial results for the drug were so positive. 
  <p class="updated_time"> 10:12 AM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/05/world/europe/cop26-mothers-pollution.html">Mothers Demand Action on Air Pollution at COP26</a> NYT: A letter to world leaders gathered at the U.N. climate conference in Glasgow was signed by nearly 500 parent groups from 44 countries. 
+ <p class="updated_time"> 09:58 AM CT, Nov. 05 </p> 
+ <a href="https://www.bbc.co.uk/news/world-46138064?at_medium=RSS&at_campaign=KARANGA">Delhi pollution: Are Diwali fireworks to blame?</a> BBC: Do fireworks let off during Diwali celebrations really cause that much pollution? 
  <p class="updated_time"> 09:41 AM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/04/science/astronomy-decadal-survey-telescope.html">A New 10-Year Plan for the Cosmos</a> NYT: On astronomers’ wish list for the next decade: two giant telescopes and a space telescope to search for life and habitable worlds beyond Earth. 
  <p class="updated_time"> 09:29 AM CT, Nov. 05 </p> 
@@ -83,8 +103,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/05/world/europe/vienna-vaccinate-young-children.html">Vienna Will Start to Vaccinate Young Children</a> NYT: Pediatricians in the Austrian capital will authorize the off-label use of the BioNTech-Pfizer vaccine for children starting next Friday. 
  <p class="updated_time"> 09:03 AM CT, Nov. 05 </p> 
  <a href="https://www.npr.org/2021/11/05/1052707018/clean-up-your-mess-young-activists-tell-leaders-at-cop26-climate-summit">Clean up your mess, young activists tell leaders at COP26 climate summit</a> NPR: Negotiators at the U.N. summit in Scotland stressed how important young people are in the battle to safeguard the world from catastrophic climate change. But those people fear they're not being heard. 
- <p class="updated_time"> 08:23 AM CT, Nov. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-59175400?at_medium=RSS&at_campaign=KARANGA">Deng Deng, the abandoned Shiba Inu, sells for $25k at auction in China</a> BBC: Deng Deng, a Shiba Inu abandoned by his owner in 2014, had a $78 starting price. 
  <p class="updated_time"> 08:16 AM CT, Nov. 05 </p> 
  <a href="https://www.npr.org/2021/11/05/1052695890/cancun-shootout-mexico-cartel">In a beach showdown by luxury hotels near Cancun, 2 people were shot dead </a> NPR: A commando of drug gang gunmen on Thursday stormed ashore at a beach on Mexico's resort-studded Caribbean coast in front of luxury hotels and executed two drug dealers from a rival gang. 
  <p class="updated_time"> 07:20 AM CT, Nov. 05 </p> 
@@ -93,8 +111,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/greta-thunberg-takes-on-role-as-cop26-critic-11636111801">Thunberg Leads Climate Protest, Criticizing COP26 Talks</a> WSJ: The Swedish activist headlined an hourslong march and rally in Glasgow after calling the summit ‘a two week celebration of business as usual and blah blah blah.’ 
  <p class="updated_time"> 05:24 AM CT, Nov. 05 </p> 
  <a href="https://www.wsj.com/articles/covid-19-certificates-look-likely-to-linger-in-europe-11636122278">Covid-19 Certificates Look Likely to Linger in Europe</a> WSJ: The health passes that restrict access to restaurants, gyms and other venues were supposed to be transitory, but with the specter of a winter resurgence of Covid-19 infections, they look likely to remain into next year. 
- <p class="updated_time"> 05:21 AM CT, Nov. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-59175316?at_medium=RSS&at_campaign=KARANGA">Cleo Smith parents 'so thankful' after four-year-old's rescue</a> BBC: Cleo, 4, was found in a locked home 18 days after disappearing, in a case that gripped Australia. 
  <p class="updated_time"> 05:09 AM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/uk-fossil-fuel-coal-cop26.html">18 Countries to Phase Out Coal, According to Leaked Document</a> NYT: The countries, banks and other organizations that make up a new coalition will commit to ending all investment in new coal power generation domestically and internationally. 
  <p class="updated_time"> 05:07 AM CT, Nov. 05 </p> 
@@ -126,13 +142,9 @@ permalink: /projects/news/
  <p class="updated_time"> 08:18 PM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/arts/television/movies-tv-australia-new-streaming-netflix-amazon-stan-november.html">The Best Movies and TV Shows New to Netflix, Amazon and Stan in Australia in November</a> NYT: Our picks for November, including ‘tick, tick … BOOM!’, ‘The Great’ Season 2, and ‘Passing’ 
  <p class="updated_time"> 08:13 PM CT, Nov. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59144712?at_medium=RSS&at_campaign=KARANGA">As winter looms, reports of starvation in North Korea</a> BBC: North Korea's leader has compared the current situation to the terrible famine of the 1990s. 
- <p class="updated_time"> 08:13 PM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/world/canada/saskatoon-moose-school.html">In Saskatoon, a Moose on the Loose Is Returned to the Wild</a> NYT: In a prairie city, a young moose on the loose crashed into a children’s classroom, sparking a mix of delight and concern on social media. 
  <p class="updated_time"> 07:39 PM CT, Nov. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59166607?at_medium=RSS&at_campaign=KARANGA">COP26: Indigenous Amazon activist 'got death threats' after speech</a> BBC: Txai Suruí says she worries for her safety and that of other young climate activists. 
- <p class="updated_time"> 07:27 PM CT, Nov. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-58976338?at_medium=RSS&at_campaign=KARANGA">How fresh is your food? Sensors could show you</a> BBC: Households contribute the most food waste - so what if you could track spoilage in real time? 
  <p class="updated_time"> 07:23 PM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/world/europe/covid-surge-europe-who.html">W.H.O. Official: 'Europe Is Back at Epicenter of the Pandemic'</a> NYT: The World Health Organization said Europe was responsible for nearly three-fifths of the world’s recent coronavirus cases, and that deaths in the region were surging. 
  <p class="updated_time"> 06:20 PM CT, Nov. 04 </p> 
@@ -145,8 +157,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/04/world/asia/diwali-india.html">India's Diwali Celebrations Draw Large Crowds Despite Covid Concerns</a> NYT: More than 680,000 people have traveled across the country as health experts cautioned that large-scale gatherings might fuel a wave of infections. 
  <p class="updated_time"> 05:44 PM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/world/canada/canada-military-sexual-assault.html">Canada Turns Over Military Sexual Assault Cases to Civilian Courts</a> NYT: With the military’s leadership in crisis, a new defense minister adopted a recommendation to remove prosecutorial authority for sexual misconduct cases from the armed forces. 
- <p class="updated_time"> 04:18 PM CT, Nov. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59139998?at_medium=RSS&at_campaign=KARANGA">Does the skyscraper still have a future?</a> BBC: China is limiting the number of tall buildings, at a time when offices across the world are filled with empty desks. 
  <p class="updated_time"> 04:17 PM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/world/africa/ethiopia-tigray-crackdown.html">Crackdown Sweeps Ethiopia’s Capital as War Draws Near</a> NYT: Government forces were going to door to door in the Ethiopian capital, rounding up ethnic Tigrayans, members of the same ethnic group as the rebels closing in. 
  <p class="updated_time"> 03:43 PM CT, Nov. 04 </p> 
@@ -161,14 +171,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/03/us/hawaii-covid-restrictions-tourists-ige.html">Hawaii Eases Covid Restrictions and Reopens for Tourists</a> NYT: The state is eager for its vacation industry to rebound after a devastating 2020 season. 
  <p class="updated_time"> 12:45 PM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/style/rangoli-art-diwali.html">The Art and Ritual of Rangoli</a> NYT: Making ornate floor art can be a celebratory act for festivals like Diwali and a meditative practice. 
- <p class="updated_time"> 12:18 PM CT, Nov. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-59132633?at_medium=RSS&at_campaign=KARANGA">Quiz of the week: Who joined Macaulay Culkin in Gucci's Love Parade?</a> BBC: How closely have you been paying attention to what's been going on during the past seven days? 
  <p class="updated_time"> 12:07 PM CT, Nov. 04 </p> 
  <a href="https://www.npr.org/2021/11/04/1052383178/heres-how-india-is-celebrating-diwali">Here's how India is celebrating Diwali</a> NPR: Hindus in India and across the world are celebrating Diwali, the five-day festival of lights. Here's what celebrations look like across India. 
  <p class="updated_time"> 12:01 PM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/science/nasa-space-tacos.html">NASA’s Latest Breakthrough: ‘Best Space Tacos Yet’</a> NYT: For the first time, astronauts on the International Space Station cultivated chiles, adding some zing to their tacos. 
- <p class="updated_time"> 11:59 AM CT, Nov. 04 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-59167788?at_medium=RSS&at_campaign=KARANGA">My Day at COP26: 'It's my job to keep the summit fed - sustainably'</a> BBC: Lorna Wilson - in charge of catering at COP26 in Glasgow - describes the unique challenges of preparing for the event. 
  <p class="updated_time"> 11:27 AM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/climate/public-health-climate-change.html">Effort to Reframe Climate Change as a Health Crisis Gains Steam</a> NYT: Research has increasingly shown that warming is taking a deadly toll on human health. At the global climate summit in Glasgow, the issue has gained new prominence. 
  <p class="updated_time"> 11:13 AM CT, Nov. 04 </p> 
@@ -185,14 +191,10 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/04/1052267118/climate-change-carbon-dioxide-emissions-global-carbon-budget">Earth has 11 years to cut emissions to avoid dire climate scenarios, a report says</a> NPR: Carbon dioxide emissions are rebounding after a dip in 2020, and researchers say that at the current rate, Earth's "carbon budget" will be exhausted in roughly 11 years. 
  <p class="updated_time"> 08:36 AM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/world/australia/charge-cleo-smith.html">Cleo Smith Abduction: Australian Man Is Charged After 18-Day Search </a> NYT: The legal action came as the Australian authorities continued to address questions about how the police had been able to find Cleo Smith, who vanished from a remote campsite. 
- <p class="updated_time"> 08:19 AM CT, Nov. 04 </p> 
- <a href="https://www.bbc.co.uk/news/59147659?at_medium=RSS&at_campaign=KARANGA">Climate change: Facebook fails to flag denial, study finds</a> BBC: Researchers tracked thousands of posts denying climate change - and only 8% were marked as misinformation. 
  <p class="updated_time"> 05:26 AM CT, Nov. 04 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-56901261?at_medium=RSS&at_campaign=KARANGA">COP26: What is the Glasgow climate conference and why is it important?</a> BBC: A crucial climate change summit is being held in the UK - this is why it's important. 
  <p class="updated_time"> 04:09 AM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/latin-america-pressed-on-vaccine-priorities.html">With scant vaccine supplies, the W.H.O. presses Latin America and the Caribbean to hold off on boosters.</a> NYT: Sufficient shipments of doses have been slow to reach many countries in the region and economic inequalities are complicating matters. 
- <p class="updated_time"> 03:35 AM CT, Nov. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-59160914?at_medium=RSS&at_campaign=KARANGA">Cleo Smith: Listen to the moment police rescued missing girl</a> BBC: Listen to the moment police in Western Australia found a four-year-old girl who had been missing for 18 days. 
  <p class="updated_time"> 09:56 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/asia/heather-mack-arrested.html">Back in Chicago, Woman Is Charged in Killing of Mother on Indonesian Vacation</a> NYT: Heather L. Mack, 26, had already served more than six years in prison in Indonesia for the 2014 killing of her mother, whose body was found in a suitcase at a Bali resort. 
  <p class="updated_time"> 06:00 PM CT, Nov. 03 </p> 
@@ -208,6 +210,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:52 PM CT, Nov. 05 </p> 
+ <a href="https://www.nytimes.com/2021/11/05/us/politics/colin-powell-funeral.html">At Colin Powell's Funeral, Washington Is Pulled Together</a> NYT: Republicans and Democrats, including President Biden and two of his predecessors, were at the Washington National Cathedral to honor the former secretary of state. 
  <p class="updated_time"> 06:53 PM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/05/us/politics/house-infrastructure-reconciliation.html">Facing Moderate Revolt, Democrats Put Social Policy Bill on Hold</a> NYT: Leaders pressed for a vote on a separate infrastructure bill, but the fate of both measures was in doubt amid party divisions, despite pleas from President Biden. 
  <p class="updated_time"> 06:31 PM CT, Nov. 05 </p> 
@@ -234,10 +238,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/05/1052967994/education-has-been-a-key-issue-in-recent-elections-but-that-might-change-next-ye">Education has been a key issue in recent elections, but that might change next year</a> NPR: Education issues took on an outsized role in this week's elections in Virginia and elsewhere. The question for politicians of all stripes is whether education will remain an important topic into 2022. 
  <p class="updated_time"> 03:23 PM CT, Nov. 05 </p> 
  <a href="https://www.npr.org/2021/11/05/1052967987/young-people-are-protesting-in-glasgow-demanding-concreate-action-at-climate-sum">Young people are protesting in Glasgow, demanding concrete action at climate summit</a> NPR: Young people from around the world are protesting over world leaders' response to climate change at the UN's climate summit in Glasgow on Friday. 
- <p class="updated_time"> 03:03 PM CT, Nov. 05 </p> 
- <a href="https://www.nytimes.com/2021/11/05/us/politics/colin-powell-funeral.html">At Colin Powell's Funeral, Washington Is Pulled Together</a> NYT: Republicans and Democrats, including President Biden and two of his predecessors, were at the Washington National Cathedral to honor the former secretary of state. 
  <p class="updated_time"> 02:35 PM CT, Nov. 05 </p> 
- <a href="https://www.politico.com/news/2021/11/05/house-democrats-infrastructure-vote-wait-megabill-519731">House Dems throw new curveball: Infrastructure vote, wait on party-line megabill</a> Politico: A progressive leader promptly rejected the latest in a dizzying round of strategic readjustments from Speaker Nancy Pelosi's leadership team. 
+ <a href="https://www.politico.com/news/2021/11/05/house-democrats-infrastructure-vote-wait-megabill-519731">'Level of trust is blinking red': Dems struggle to unite to pass Biden agenda</a> Politico: Democratic moderates and progressives are still fighting as Speaker Nancy Pelosi pushes them to pass infrastructure and delay the larger spending bill. 
  <p class="updated_time"> 02:19 PM CT, Nov. 05 </p> 
  <a href="https://www.npr.org/2021/11/05/1052879445/university-florida-professors-testify-permission-desantis">University of Florida allows professors to testify in a voting rights case after all</a> NPR: The university is reversing its decision to bar three professors from serving as expert witnesses in a case against the state. The earlier decision was seen as an infringement of free speech. 
  <p class="updated_time"> 12:18 PM CT, Nov. 05 </p> 
