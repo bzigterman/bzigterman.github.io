@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:05 PM CT, Nov. 06 </p> 
+ <a href="https://www.nytimes.com/2021/11/06/world/americas/biden-osha-vaccine-mandate-blocked.html">Court Temporarily Blocks Biden’s Vaccine Mandate for Large Companies</a> NYT: A federal appeals court in Louisiana granted a temporary stay to a group of businesses, religious groups, and several states who argued in a joint petition that the administration overstepped its authority. 
+ <p class="updated_time"> 03:04 PM CT, Nov. 06 </p> 
+ <a href="https://www.nytimes.com/2021/11/05/world/states-sue-biden-vaccine-mandate.html">11 States Sue Over Biden's Vaccine Mandate for Big Companies</a> NYT: The lawsuit was filed a day after the announcement of a Jan. 4 deadline for the companies to begin their mandates or start weekly testing. 
  <p class="updated_time"> 02:45 PM CT, Nov. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59188753?at_medium=RSS&at_campaign=KARANGA">Sierra Leone explosion: Scores dead after Freetown oil tanker collision</a> BBC: The accident happened after the tanker collided with another vehicle in the nation's capital, Freetown. 
  <p class="updated_time"> 02:23 PM CT, Nov. 06 </p> 
@@ -115,8 +119,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/05/1052967987/young-people-are-protesting-in-glasgow-demanding-concreate-action-at-climate-sum">Young people are protesting in Glasgow, demanding concrete action at climate summit</a> NPR: Young people from around the world are protesting over world leaders' response to climate change at the UN's climate summit in Glasgow on Friday. 
  <p class="updated_time"> 02:38 PM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/05/world/europe/cop-protests.html">At COP26, Youth Want Action, Accountability as Protesters Rally</a> NYT: For many, the climate conference has inspired mixed emotions: concern that their voices were not really being listened to, but also hope that their presence would help drive change. 
- <p class="updated_time"> 01:57 PM CT, Nov. 05 </p> 
- <a href="https://www.nytimes.com/2021/11/05/world/states-sue-biden-vaccine-mandate.html">11 States Sue Over Biden's Vaccine Mandate for Big Companies</a> NYT: The lawsuit was filed a day after the announcement of a Jan. 4 deadline for the companies to begin their mandates or start weekly testing. 
  <p class="updated_time"> 12:47 PM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/05/world/middleeast/erdogan-turkey-cop26.html">As Turkey Chafes at Erdogan, He Gets Spikier Abroad</a> NYT: President Recep Tayyip Erdogan canceled an appearance at the global climate talks over a perceived slight, part of a pattern of creating international dramas to bolster his domestic standing. 
  <p class="updated_time"> 12:14 PM CT, Nov. 05 </p> 
@@ -177,8 +179,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/04/world/europe/covid-surge-europe-who.html">W.H.O. Official: 'Europe Is Back at Epicenter of the Pandemic'</a> NYT: The World Health Organization said Europe was responsible for nearly three-fifths of the world’s recent coronavirus cases, and that deaths in the region were surging. 
  <p class="updated_time"> 06:20 PM CT, Nov. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59168910?at_medium=RSS&at_campaign=KARANGA">Nostalgia-soaked photos immortalise LA roller rink</a> BBC: Flipper's Roller Boogie Palace was a place for children and celebrities alike to roller skate. 
- <p class="updated_time"> 05:57 PM CT, Nov. 04 </p> 
- <a href="https://www.nytimes.com/2021/11/04/world/europe/italy-trieste-covid-protests.html">Trieste, Center of Italy’s Anti-Vaccine Protests, Is Now a Covid Hot Spot</a> NYT: After leading the resistance to the government’s new health pass, the northeastern port city of Trieste is home to a worrying spike in cases. 
  <p class="updated_time"> 05:54 PM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/world/asia/south-korea-exam-students-hospital.html">South Korea Toughens Measures as Virus Spreads Among Teens</a> NYT: The decision comes as the country experiences rising caseloads again. The nine-hour test is seen as critical in determining students’ futures, and many have prepared for it since kindergarten. 
  <p class="updated_time"> 05:54 PM CT, Nov. 04 </p> 
@@ -212,12 +212,14 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:14 PM CT, Nov. 06 </p> 
+ <a href="https://www.nytimes.com/2021/11/05/us/politics/house-infrastructure-reconciliation.html">House Passes $1 Trillion Infrastructure Bill, Putting Social Policy Bill on Hold</a> NYT: Progressives who had threatened to sink the measure agreed to support it after extracting a promise from moderates that they would ultimately back the social safety net and climate bill. 
+ <p class="updated_time"> 03:12 PM CT, Nov. 06 </p> 
+ <a href="https://www.nytimes.com/2021/11/06/us/politics/infrastructure-black-caucus-vote.html">The Congressional Black Caucus Was Key to the Infrastructure Vote</a> NYT: Speaker Nancy Pelosi sent the chairwoman of the caucus, Representative Joyce Beatty of Ohio, to announce a key deal, understanding that the lawmaker had more influence at that point than she did. 
  <p class="updated_time"> 02:39 PM CT, Nov. 06 </p> 
  <a href="https://www.nytimes.com/2021/11/06/us/politics/defectors-infrastructure-bill-squad.html">In Infrastructure Votes, 19 Members Broke With Their Party</a> NYT: The defectors who crossed partisan lines in Congress include 13 Republicans who supported the bill and the six liberal members of “The Squad,” who opposed it. 
  <p class="updated_time"> 02:21 PM CT, Nov. 06 </p> 
  <a href="https://www.nytimes.com/2021/11/05/us/politics/guantanamo-torture-foia-cia.html">Some Sept. 11 Trial Secrets May Not Be Secrets Anymore</a> NYT: Prosecutors agreed to compare hundreds if not thousands of pages of classified documents in the case against 9/11 defendants with material released under the Freedom of Information Act. 
- <p class="updated_time"> 02:15 PM CT, Nov. 06 </p> 
- <a href="https://www.nytimes.com/2021/11/06/us/politics/infrastructure-black-caucus-vote.html">The Congressional Black Caucus Was Key to the Infrastructure Vote</a> NYT: Speaker Nancy Pelosi sent the chairwoman of the caucus, Representative Joyce Beatty of Ohio, to announce a key deal, understanding that the lawmaker had more influence at that point than she did. 
  <p class="updated_time"> 01:40 PM CT, Nov. 06 </p> 
  <a href="https://www.nytimes.com/2021/11/06/us/politics/biden-infrastructure-speech.html">Biden Celebrates Infrastructure Win, Even if Harder Victory Is Ahead</a> NYT: “Finally! Infrastructure week!” the president declared with a broad smile. 
  <p class="updated_time"> 01:26 PM CT, Nov. 06 </p> 
@@ -226,8 +228,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/06/us/politics/military-jury-cia-torture.html">Foreman Says Military Jury Was Disgusted by C.I.A. Torture</a> NYT: A Navy captain whose letter recommended clemency for a Qaeda terrorist drafted the damning two-page document in 20 minutes. 
  <p class="updated_time"> 12:45 PM CT, Nov. 06 </p> 
  <a href="https://www.nytimes.com/2021/11/04/us/politics/democrats-turnout-virginia.html">How Virginia’s Governor Race Unraveled the Democratic Turnout Myth</a> NYT: It was long thought that surges in voting would help Democrats. So how does the party explain Glenn Youngkin’s victory? 
- <p class="updated_time"> 12:41 PM CT, Nov. 06 </p> 
- <a href="https://www.nytimes.com/2021/11/05/us/politics/house-infrastructure-reconciliation.html">House Passes $1 Trillion Infrastructure Bill, Putting Social Policy Bill on Hold</a> NYT: Progressives who had threatened to sink the measure agreed to support it after extracting a promise from moderates that they would ultimately back the social safety net and climate bill. 
  <p class="updated_time"> 12:31 PM CT, Nov. 06 </p> 
  <a href="https://www.nytimes.com/2021/11/05/us/politics/project-veritas-investigation-ashley-biden-diary.html">People Tied to Project Veritas Scrutinized in Theft of Diary From Biden’s Daughter</a> NYT: The F.B.I. carried out search warrants in New York as part of a Justice Department investigation into how pages from Ashley Biden’s journal came to be published by a right wing website. 
  <p class="updated_time"> 11:55 AM CT, Nov. 06 </p> 
