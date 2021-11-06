@@ -7,10 +7,18 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:31 AM CT, Nov. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59188960?at_medium=RSS&at_campaign=KARANGA">Travis Scott's Astroworld: Eight killed after crowd surge at Texas festival</a> BBC: Panic broke out after the crowd began to press towards the stage at Travis Scott's Astroworld Festival. 
+ <p class="updated_time"> 07:23 AM CT, Nov. 06 </p> 
+ <a href="https://www.npr.org/2021/11/06/1053163060/class-conflict-and-economic-hardship-in-squid-game-is-real-for-many-south-korean">Class conflict and economic hardship in 'Squid Game' is real for many South Koreans</a> NPR: The themes of class conflict and economic hardship in the Netflix series "Squid Game" are real for many South Koreans, and relate to issues on the agenda ahead of presidential elections next year. 
+ <p class="updated_time"> 07:08 AM CT, Nov. 06 </p> 
+ <a href="https://www.nytimes.com/2021/11/06/world/africa/tanker-truck-explodes-sierra-leone.html">Tanker Truck Explodes in Sierra Leone, Killing at Least 98</a> NYT: The truck first started leaking fuel and people had rushed to collect it, an official said. Many of them died in the blast, along with others nearby. 
+ <p class="updated_time"> 07:08 AM CT, Nov. 06 </p> 
+ <a href="https://www.npr.org/2021/11/06/1053163046/more-than-half-of-afghanistans-population-faces-hunger">More than half of Afghanistan's population faces hunger</a> NPR: Scott Simon speaks to PBS News Hour correspondent Jane Ferguson about the latest developments in Afghanistan, where millions face food shortages as the Taliban struggle to maintain security. 
+ <p class="updated_time"> 07:05 AM CT, Nov. 06 </p> 
+ <a href="https://www.npr.org/2021/11/06/1053163039/environmentalists-stage-large-protests-in-glasgow-demanding-more-from-cop26">Environmentalists stage large protests in Glasgow, demanding more from COP26 </a> NPR: Environmentalists are expected to stage large protests are expected in Glasgow, Scotland, today, demanding more action to combat climate change. 
  <p class="updated_time"> 07:02 AM CT, Nov. 06 </p> 
  <a href="https://www.npr.org/2021/11/06/1053162983/scores-of-people-reported-dead-in-sierra-leone-after-fuel-tanker-explosion">Scores of people reported dead in Sierra Leone after fuel tanker explosion</a> NPR: Scott Simon speaks to journalist Umaru Fofana about the deadly tanker explosion outside Freetown, Sierra Leone today. 
- <p class="updated_time"> 07:00 AM CT, Nov. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59188960?at_medium=RSS&at_campaign=KARANGA">Travis Scott's Astroworld: Eight killed after crowd surge at Texas festival</a> BBC: Panic broke out after the crowd began to press towards the stage at Travis Scott's Astroworld Festival. 
  <p class="updated_time"> 06:43 AM CT, Nov. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59188753?at_medium=RSS&at_campaign=KARANGA">Sierra Leone explosion: Scores dead after Freetown oil tanker collision</a> BBC: A huge explosion happened after an oil truck collided with another vehicle in the nation's capital. 
  <p class="updated_time"> 06:36 AM CT, Nov. 06 </p> 
@@ -27,8 +35,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/05/world/asia/china-coronavirus-ruili.html">Near-Daily Covid Tests, Sleeping in Classrooms: Life in Covid-Zero China</a> NYT: Residents in Ruili, in southwestern China, have been locked down four times in the past year as part of the country’s quest to eliminate the virus. 
  <p class="updated_time"> 09:21 PM CT, Nov. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59186980?at_medium=RSS&at_campaign=KARANGA">Chinese man convicted for stealing aviation trade secrets</a> BBC: US authorities say Xu Yanjun sought to steal trade secrets from US aviation companies. 
- <p class="updated_time"> 07:51 PM CT, Nov. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59186214?at_medium=RSS&at_campaign=KARANGA">COP 26: What Alaska’s shrinking island means for all of us</a> BBC: Melting ice and rising sea levels threaten this community's existence. It's a warning to the world. 
  <p class="updated_time"> 07:43 PM CT, Nov. 05 </p> 
  <a href="https://www.bbc.co.uk/news/blogs-trending-59070451?at_medium=RSS&at_campaign=KARANGA">Climate change: The US state taking on an oil giant for greenwashing</a> BBC: The US state of Massachusetts is taking ExxonMobil to court for greenwashing. 
  <p class="updated_time"> 07:43 PM CT, Nov. 05 </p> 
@@ -185,8 +191,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/03/us/hawaii-covid-restrictions-tourists-ige.html">Hawaii Eases Covid Restrictions and Reopens for Tourists</a> NYT: The state is eager for its vacation industry to rebound after a devastating 2020 season. 
  <p class="updated_time"> 12:45 PM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/style/rangoli-art-diwali.html">The Art and Ritual of Rangoli</a> NYT: Making ornate floor art can be a celebratory act for festivals like Diwali and a meditative practice. 
- <p class="updated_time"> 12:07 PM CT, Nov. 04 </p> 
- <a href="https://www.npr.org/2021/11/04/1052383178/heres-how-india-is-celebrating-diwali">Here's how India is celebrating Diwali</a> NPR: Hindus in India and across the world are celebrating Diwali, the five-day festival of lights. Here's what celebrations look like across India. 
  <p class="updated_time"> 12:01 PM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/science/nasa-space-tacos.html">NASA’s Latest Breakthrough: ‘Best Space Tacos Yet’</a> NYT: For the first time, astronauts on the International Space Station cultivated chiles, adding some zing to their tacos. 
  <p class="updated_time"> 11:27 AM CT, Nov. 04 </p> 
@@ -195,20 +199,16 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/04/world/middleeast/israel-budget.html">Israel Passes State Budget</a> NYT: The vote raised hopes that the country might be headed for a period of more political stability after the chaos of four elections in quick succession. 
  <p class="updated_time"> 10:47 AM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/world/europe/germany-covid-surge-daily-case-record.html">Facing a New Surge, Germany Sets a Daily Virus Case Record</a> NYT: The country registered 33,949 new coronavirus cases over a 24-hour period on Wednesday, surpassing a high set in December of last year. 
- <p class="updated_time"> 10:42 AM CT, Nov. 04 </p> 
- <a href="https://www.npr.org/2021/11/04/1052355604/giant-potato-doug-new-zealand">A potato the size of a small dog is found in New Zealand</a> NPR: A couple discovered the giant spud while weeding. "We couldn't believe it," said Donna Craig-Brown. "It was just huge." They've applied to Guinness to have it recognized as the world's largest potato. 
- <p class="updated_time"> 10:19 AM CT, Nov. 04 </p> 
- <a href="https://www.npr.org/2021/11/04/1052339337/cleo-smith-australia-4-year-old-abduction-arrest">After Cleo Smith's rescue, a man is charged with abducting the 4-year-old Australian</a> NPR: A 36-year-old man was charged with abducting the girl from a campground. Police used a battering ram to smash into a locked house to rescue Cleo, whose disappearance gripped the nation. 
  <p class="updated_time"> 08:36 AM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/world/australia/charge-cleo-smith.html">Cleo Smith Abduction: Australian Man Is Charged After 18-Day Search </a> NYT: The legal action came as the Australian authorities continued to address questions about how the police had been able to find Cleo Smith, who vanished from a remote campsite. 
+ <p class="updated_time"> 05:26 AM CT, Nov. 04 </p> 
+ <a href="https://www.bbc.co.uk/news/science-environment-56901261?at_medium=RSS&at_campaign=KARANGA">COP26: What is the Glasgow climate conference and why is it important?</a> BBC: A crucial climate change summit is being held in the UK - this is why it's important. 
  <p class="updated_time"> 04:09 AM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/latin-america-pressed-on-vaccine-priorities.html">With scant vaccine supplies, the W.H.O. presses Latin America and the Caribbean to hold off on boosters.</a> NYT: Sufficient shipments of doses have been slow to reach many countries in the region and economic inequalities are complicating matters. 
  <p class="updated_time"> 09:56 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/asia/heather-mack-arrested.html">Back in Chicago, Woman Is Charged in Killing of Mother on Indonesian Vacation</a> NYT: Heather L. Mack, 26, had already served more than six years in prison in Indonesia for the 2014 killing of her mother, whose body was found in a suitcase at a Bali resort. 
  <p class="updated_time"> 06:00 PM CT, Nov. 03 </p> 
  <a href="https://www.nytimes.com/2021/11/03/world/weapons-ukraine-russia.html">Weapons Tracing Study Implicates Russia in Ukraine Conflict</a> NYT: One of the most comprehensive studies to date of weaponry in the war in Ukraine shows a panoply of Russian-supplied arms that has helped fuel the war. 
- <p class="updated_time"> 04:49 PM CT, Nov. 03 </p> 
- <a href="https://www.nytimes.com/2021/11/03/world/nicola-sturgeon-scotland.html">Scotland's Nicola Sturgeon: 'We're Running out of Time."</a> NYT: The leader of the nation hosting COP26 said she hoped that a century from now, people will look back and “describe Glasgow as the place which really took the correct fork in the road for our planet.” 
 
 
 </details>
