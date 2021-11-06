@@ -7,10 +7,10 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:22 AM CT, Nov. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59188960?at_medium=RSS&at_campaign=KARANGA">Astroworld: Eight killed after crowd surge at US music festival</a> BBC: At least eight people have been killed and scores hurt after a crowd surge near the stage at Astroworld in Houston. 
- <p class="updated_time"> 12:15 AM CT, Nov. 06 </p> 
+ <p class="updated_time"> 02:40 AM CT, Nov. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59180745?at_medium=RSS&at_campaign=KARANGA">US lawmakers approve $1tn in infrastructure spending</a> BBC: The long-delayed bipartisan legislation is a major plank of President Biden's domestic agenda. 
+ <p class="updated_time"> 02:32 AM CT, Nov. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59188960?at_medium=RSS&at_campaign=KARANGA">Astroworld: Eight killed after crowd surge at US music festival</a> BBC: At least eight people have been killed and scores hurt after a crowd surge near the stage at Astroworld in Houston. 
  <p class="updated_time"> 10:25 PM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/05/world/asia/china-coronavirus-ruili.html">Near-Daily Covid Tests, Sleeping in Classrooms: Life in Covid-Zero China</a> NYT: Residents in Ruili, in southwestern China, have been locked down four times in the past year as part of the country’s quest to eliminate the virus. 
  <p class="updated_time"> 09:21 PM CT, Nov. 05 </p> 
