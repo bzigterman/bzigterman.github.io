@@ -7,10 +7,10 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:47 AM CT, Nov. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59188753?at_medium=RSS&at_campaign=KARANGA">Sierra Leone explosion: Scores dead after Freetown oil tanker collision</a> BBC: A huge explosion happened after an oil truck collided with another vehicle in the nation's capital. 
  <p class="updated_time"> 03:46 AM CT, Nov. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59188960?at_medium=RSS&at_campaign=KARANGA">Travis Scott's Astroworld: Eight killed after crowd surge at Texas festival</a> BBC: Panic broke out after the crowd began to press towards the stage at Travis Scott's Astroworld Festival. 
- <p class="updated_time"> 03:07 AM CT, Nov. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59188753?at_medium=RSS&at_campaign=KARANGA">Sierra Leone explosion: Many feared dead after oil tanker collision</a> BBC: A huge explosion happened after an oil truck collided with another vehicle in the nation's capital. 
  <p class="updated_time"> 02:40 AM CT, Nov. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59180745?at_medium=RSS&at_campaign=KARANGA">US lawmakers approve $1tn in infrastructure spending</a> BBC: The long-delayed bipartisan legislation is a major plank of President Biden's domestic agenda. 
  <p class="updated_time"> 10:25 PM CT, Nov. 05 </p> 
