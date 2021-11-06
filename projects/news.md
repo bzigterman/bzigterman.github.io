@@ -212,14 +212,14 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:15 PM CT, Nov. 06 </p> 
+ <a href="https://www.nytimes.com/2021/11/06/us/politics/infrastructure-black-caucus-vote.html">The Congressional Black Caucus Was Key to the Infrastructure Vote</a> NYT: Speaker Nancy Pelosi sent the chairwoman of the caucus, Representative Joyce Beatty of Ohio, to announce a key deal, understanding that the lawmaker had more influence at that point than she did. 
  <p class="updated_time"> 02:04 PM CT, Nov. 06 </p> 
  <a href="https://www.nytimes.com/2021/11/06/us/politics/defectors-infrastructure-bill-squad.html">In Infrastructure Votes, 19 Members Broke With Their Party</a> NYT: The defectors who crossed partisan lines in Congress include 13 Republicans who supported the bill and the six liberal members of “The Squad,” who opposed it. 
  <p class="updated_time"> 01:40 PM CT, Nov. 06 </p> 
  <a href="https://www.nytimes.com/2021/11/06/us/politics/biden-infrastructure-speech.html">Biden Celebrates Infrastructure Win, Even if Harder Victory Is Ahead</a> NYT: “Finally! Infrastructure week!” the president declared with a broad smile. 
  <p class="updated_time"> 01:26 PM CT, Nov. 06 </p> 
  <a href="https://www.npr.org/2021/11/06/1053216909/transportation-secretary-pete-buttigieg-on-what-to-expect-from-infrastructure-pl">Transportation Secretary Pete Buttigieg on what to expect from infrastructure plan</a> NPR: NPR's Scott Simon talks with Transportation Secretary Pete Buttigieg about the $1 trillion infrastructure bill passed by the House and headed for President Biden's signature. 
- <p class="updated_time"> 01:00 PM CT, Nov. 06 </p> 
- <a href="https://www.nytimes.com/2021/11/06/us/politics/infrastructure-black-caucus-vote.html">The Congressional Black Caucus Was Key to the Infrastructure Vote</a> NYT: Speaker Nancy Pelosi sent the chairwoman of the caucus, Representative Joyce Beatty of Ohio, to announce a key deal, understanding that the lawmaker had more influence at that point than she did. 
  <p class="updated_time"> 12:54 PM CT, Nov. 06 </p> 
  <a href="https://www.nytimes.com/2021/11/06/us/politics/military-jury-cia-torture.html">Foreman Says Military Jury Was Disgusted by C.I.A. Torture</a> NYT: A Navy captain whose letter recommended clemency for a Qaeda terrorist drafted the damning two-page document in 20 minutes. 
  <p class="updated_time"> 12:45 PM CT, Nov. 06 </p> 
