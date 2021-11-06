@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:23 PM CT, Nov. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59193150?at_medium=RSS&at_campaign=KARANGA">Travis Scott 'devastated' by Texas festival deaths</a> BBC: The rapper says he is "absolutely devastated" by the deaths that occurred at his Astroworld festival. 
+ <p class="updated_time"> 02:17 PM CT, Nov. 06 </p> 
+ <a href="https://www.npr.org/2021/11/06/1053218525/cop26-glasgow-global-climate-action-protests">Thousands protest in Glasgow and across the world for action against climate change</a> NPR: With one week of the COP26 conference left, people worldwide participated in protests in support of climate change action. Activists say that pledges to cut carbon emissions don't go far enough. 
  <p class="updated_time"> 01:44 PM CT, Nov. 06 </p> 
  <a href="https://www.bbc.co.uk/news/uk-scotland-59185007?at_medium=RSS&at_campaign=KARANGA">COP26: Thousands march for Glasgow's biggest protest</a> BBC: Organisers say about 100,000 people joined a rally on Glasgow Green to demand more action on the climate crisis. 
  <p class="updated_time"> 01:43 PM CT, Nov. 06 </p> 
@@ -15,8 +19,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59181509?at_medium=RSS&at_campaign=KARANGA">Three seriously injured in knife attack on train in Germany</a> BBC: A 27-year-old Syrian man is arrested after the attack on a high-speed train in Bavaria. 
  <p class="updated_time"> 01:09 PM CT, Nov. 06 </p> 
  <a href="https://www.nytimes.com/2021/11/06/world/asia/uyghur-mental-health-china.html">Uyghurs Seek Emotional Help as Families in China Suffer</a> NYT: As Uyghurs grapple with the emotional trauma of their families suffering back in Xinjiang, some are overcoming a cultural stigma to seek out counseling. 
- <p class="updated_time"> 12:55 PM CT, Nov. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59193150?at_medium=RSS&at_campaign=KARANGA">Travis Scott 'devastated' by Texas festival deaths</a> BBC: The rapper says he is "absolutely devastated" by the deaths that occurred at his Astroworld festival. 
  <p class="updated_time"> 12:43 PM CT, Nov. 06 </p> 
  <a href="https://www.nytimes.com/2021/11/06/world/africa/tanker-truck-explodes-sierra-leone.html">Tanker Truck Explodes in Sierra Leone, Killing at Least 98</a> NYT: The truck first started leaking fuel and people had rushed to collect it, an official said. Many of them died in the blast, along with others nearby. 
  <p class="updated_time"> 12:23 PM CT, Nov. 06 </p> 
@@ -54,7 +56,7 @@ permalink: /projects/news/
  <p class="updated_time"> 07:02 AM CT, Nov. 06 </p> 
  <a href="https://www.npr.org/2021/11/06/1053162983/scores-of-people-reported-dead-in-sierra-leone-after-fuel-tanker-explosion">Scores of people reported dead in Sierra Leone after fuel tanker explosion</a> NPR: Scott Simon speaks to journalist Umaru Fofana about the deadly tanker explosion outside Freetown, Sierra Leone today. 
  <p class="updated_time"> 06:36 AM CT, Nov. 06 </p> 
- <a href="https://www.npr.org/2021/11/06/1053162519/sierra-leone-oil-tanker-explosion">An oil tanker explodes in Sierra Leone, killing at least 92 and injuring dozens</a> NPR: The explosion took place after a bus struck the tanker near the country's capital city. Dozens were injured after large crowds gathered to collect leaking fuel, officials and witnesses said. 
+ <a href="https://www.npr.org/2021/11/06/1053162519/sierra-leone-oil-tanker-explosion">An oil tanker truck explodes in Sierra Leone, killing at least 98 and injuring dozens</a> NPR: The explosion took place after a bus struck the tanker near the country's capital city. Dozens were injured after large crowds gathered to collect leaking fuel, officials and witnesses said. 
  <p class="updated_time"> 06:00 AM CT, Nov. 06 </p> 
  <a href="https://www.wsj.com/articles/fuel-tanker-explosion-in-sierra-leone-kills-at-least-99-11636210816">Fuel-Tanker Explosion in Sierra Leone Kills at Least 99</a> WSJ: The explosion happened shortly after a fuel tanker collided with another vehicle near a gasoline station in a suburb of the capital Freetown, causing a large spill, city officials said. 
  <p class="updated_time"> 04:11 AM CT, Nov. 06 </p> 
@@ -189,8 +191,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/04/1052485290/migrant-workers-who-clean-up-climate-disasters-for-work-often-pay-a-price">Migrant workers who clean up climate disasters for work often pay a price</a> NPR: NPR's Audie Cornish speaks with Sarah Stillman, staff writer at The New Yorker, who spent the past year with some of the growing number of migrant laborers who follow climate disasters for work. 
  <p class="updated_time"> 03:23 PM CT, Nov. 04 </p> 
  <a href="https://www.npr.org/2021/11/04/1052485248/rebels-are-taking-aim-at-ethiopias-capital-after-1-year-of-civil-war">Rebels are taking aim at Ethiopia's capital after 1 year of civil war</a> NPR: Two rebel militias now threaten Ethiopia's capital as the current conflict marks its one-year anniversary. 
- <p class="updated_time"> 03:23 PM CT, Nov. 04 </p> 
- <a href="https://www.npr.org/2021/11/04/1052485227/heres-what-happens-if-the-world-warms-more-than-1-5-degrees-celsius">Here's what happens if the world warms more than 1.5 degrees Celsius</a> NPR: At international climate talks, world leaders are trying to keep the world to 1.5 degrees Celsius of warming. Why is that number important, and what happens if the world gets hotter than that? 
  <p class="updated_time"> 01:33 PM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/world/africa/south-africa-election-anc.html">A.N.C. Suffers Worst Election Setback Since End of Apartheid</a> NYT: In nationwide municipal elections, South Africans rebuked the African National Congress, handing it less than half the collective vote for the first time in its history. 
  <p class="updated_time"> 01:29 PM CT, Nov. 04 </p> 
@@ -212,10 +212,12 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:23 PM CT, Nov. 06 </p> 
+ <a href="https://www.nytimes.com/2021/11/06/us/politics/defectors-infrastructure-bill-squad.html">In Infrastructure Votes, 19 Members Broke With Their Party</a> NYT: The defectors who crossed partisan lines in Congress include 13 Republicans who supported the bill and the six liberal members of “The Squad,” who opposed it. 
+ <p class="updated_time"> 02:21 PM CT, Nov. 06 </p> 
+ <a href="https://www.nytimes.com/2021/11/05/us/politics/guantanamo-torture-foia-cia.html">Some Sept. 11 Trial Secrets May Not Be Secrets Anymore</a> NYT: Prosecutors agreed to compare hundreds if not thousands of pages of classified documents in the case against 9/11 defendants with material released under the Freedom of Information Act. 
  <p class="updated_time"> 02:15 PM CT, Nov. 06 </p> 
  <a href="https://www.nytimes.com/2021/11/06/us/politics/infrastructure-black-caucus-vote.html">The Congressional Black Caucus Was Key to the Infrastructure Vote</a> NYT: Speaker Nancy Pelosi sent the chairwoman of the caucus, Representative Joyce Beatty of Ohio, to announce a key deal, understanding that the lawmaker had more influence at that point than she did. 
- <p class="updated_time"> 02:04 PM CT, Nov. 06 </p> 
- <a href="https://www.nytimes.com/2021/11/06/us/politics/defectors-infrastructure-bill-squad.html">In Infrastructure Votes, 19 Members Broke With Their Party</a> NYT: The defectors who crossed partisan lines in Congress include 13 Republicans who supported the bill and the six liberal members of “The Squad,” who opposed it. 
  <p class="updated_time"> 01:40 PM CT, Nov. 06 </p> 
  <a href="https://www.nytimes.com/2021/11/06/us/politics/biden-infrastructure-speech.html">Biden Celebrates Infrastructure Win, Even if Harder Victory Is Ahead</a> NYT: “Finally! Infrastructure week!” the president declared with a broad smile. 
  <p class="updated_time"> 01:26 PM CT, Nov. 06 </p> 
@@ -260,8 +262,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/05/us/politics/jeffrey-clark-capitol-riot-committee.html">Trump Justice Dept. Official Defies Request by Jan. 6 Panel</a> NYT: Jeffrey Clark, who aided in the former president’s efforts to overturn the election, appeared before the committee but would not answer substantive questions. 
  <p class="updated_time"> 07:52 PM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/05/us/politics/colin-powell-funeral.html">At Colin Powell's Funeral, Washington Is Pulled Together</a> NYT: Republicans and Democrats, including President Biden and two of his predecessors, were at the Washington National Cathedral to honor the former secretary of state. 
- <p class="updated_time"> 06:27 PM CT, Nov. 05 </p> 
- <a href="https://www.nytimes.com/2021/11/05/us/politics/guantanamo-torture-foia-cia.html">Some Sept. 11 Trial Secrets May Not Be Secrets Anymore</a> NYT: Prosecutors agreed to compare hundreds if not thousands of pages of classified documents in the case against 9/11 defendants with material released under the Freedom of Information Act. 
  <p class="updated_time"> 06:20 PM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/05/us/politics/state-dept-missing-gifts.html">State Dept. Report on Missing Gifts Finds Poor Oversight</a> NYT: The gift vault was “in a state of disarray,” and tens of thousands of dollars of items remain unaccounted for, including a $5,800 bottle of whiskey. 
  <p class="updated_time"> 03:38 PM CT, Nov. 05 </p> 
