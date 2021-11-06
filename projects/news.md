@@ -7,12 +7,12 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:26 PM CT, Nov. 06 </p> 
+ <a href="https://www.nytimes.com/2021/11/06/world/americas/biden-osha-vaccine-mandate-blocked.html">Court Temporarily Blocks Biden’s Vaccine Mandate for Large Companies</a> NYT: A federal appeals court in Louisiana granted a temporary stay to a group of businesses, religious groups and several states that argued the administration overstepped its authority. 
  <p class="updated_time"> 05:54 PM CT, Nov. 06 </p> 
  <a href="https://www.nytimes.com/2021/11/05/arts/music/marilia-mendonca-dead.html">Marília Mendonça, Brazilian Pop Singer, Dies in Plane Crash at 26</a> NYT: Ms. Mendonça, who was a social media sensation with millions of followers, was iconic in a type of Brazilian country music called sertanejo. 
  <p class="updated_time"> 05:41 PM CT, Nov. 06 </p> 
  <a href="https://www.nytimes.com/2021/11/06/world/europe/cop-climate-protests.html">COP26 Protesters Back an Array of Causes, Connected by Climate Change</a> NYT: Thousands gathered in the rain in Glasgow to press the case for more urgent and meaningful action by world leaders in response to global warming. 
- <p class="updated_time"> 05:38 PM CT, Nov. 06 </p> 
- <a href="https://www.nytimes.com/2021/11/06/world/americas/biden-osha-vaccine-mandate-blocked.html">Court Temporarily Blocks Biden’s Vaccine Mandate for Large Companies</a> NYT: A federal appeals court in Louisiana granted a temporary stay to a group of businesses, religious groups and several states that argued the administration overstepped its authority. 
  <p class="updated_time"> 05:11 PM CT, Nov. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59194819?at_medium=RSS&at_campaign=KARANGA">Astroworld: Criminal investigation into Texas festival crowd surge</a> BBC: Eight people died after a deadly crowd surge during a performance by rapper Travis Scott. 
  <p class="updated_time"> 04:55 PM CT, Nov. 06 </p> 
@@ -214,6 +214,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/06/us/politics/infrastructure-black-caucus-vote.html">How a $1 Trillion Infrastructure Bill Survived an Intraparty Brawl</a> NYT: Speaker Nancy Pelosi agreed to a deal proposed by the Congressional Black Caucus, mobilizing one faction of Democratic lawmakers to win over two others. 
  <p class="updated_time"> 05:25 PM CT, Nov. 06 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-06/australia-u-k-confident-of-free-trade-agreement-by-year-end">Australia, U.K. ‘Confident’ of Free Trade Agreement by Year-End</a> Bloomberg: Australia and the U.K. are both “very confident” that their free trade agreement would be finalized by year-end, said David McCredie, chief executive officer of the Australian British Chamber of Commerce. 
+ <p class="updated_time"> 05:15 PM CT, Nov. 06 </p> 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-06/ocasio-cortez-signals-mistrust-as-reason-for-infrastructure-vote">Ocasio-Cortez Signals Mistrust as Reason for Infrastructure Vote</a> Bloomberg: Representative Alexandria Ocasio-Cortez signaled mistrust of the legislative process that led to the passage of President Joe Biden’s $550 billion infrastructure bill, explaining why she and five other progressive Democrats cast dissenting votes. 
  <p class="updated_time"> 04:17 PM CT, Nov. 06 </p> 
  <a href="https://www.npr.org/2021/11/06/1053239123/black-republicans-walk-a-fine-line-toward-election-victory">Black Republicans walk a fine line toward election victory</a> NPR: NPR's Michel Martin speaks with professor Leah Wright Rigueur, author of The Loneliness of the Black Republican, about what this week's elections signal for Black conservatives. 
  <p class="updated_time"> 04:17 PM CT, Nov. 06 </p> 
@@ -354,8 +356,6 @@ permalink: /projects/news/
  <a href="https://www.bloomberg.com/news/articles/2021-11-06/un-investigator-crimes-against-humanity-under-myanmar-junta">UN Investigator: Crimes Against Humanity Under Myanmar Junta</a> Bloomberg: United Nations (AP) -- The head of the U.N. body investigating the most serious crimes in Myanmar said that preliminary evidence collected since the military seized power on Feb. 1 shows a widespread and systematic attack on civilians “amounting to crimes against humanity.” 
  <p class="updated_time"> 02:00 AM CT, Nov. 06 </p> 
  <a href="https://www.washingtonpost.com/politics/2021/11/06/charles-dolan-steele-dossier-igor-danchenko-indictment/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">A spin doctor with ties to Russia allegedly fed the Steele dossier before fighting to discredit it</a> WaPo: Charles Dolan Jr., a PR executive who cut his teeth in Democratic politics, provided anti-Trump information, according to new charges. 
- <p class="updated_time"> 01:00 AM CT, Nov. 06 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-06/europe-relapses-as-covid-hot-spot-in-warning-sign-for-recovery">Europe Relapses as Covid Hot Spot in Warning Sign for Recovery</a> Bloomberg: Europe has again become an epicenter for the coronavirus, calling into question the region’s efforts to recover from the pandemic. 
  <p class="updated_time"> 11:23 PM CT, Nov. 05 </p> 
  <a href="https://www.washingtonpost.com/nation/2021/11/06/seattle-election-prosecutor-ann-davison/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Seattle elects Republican as city attorney, rejecting police abolitionist who celebrated property destruction</a> WaPo: The city attorney leads prosecutions of low-level crimes and advises Seattle on legal matters. But the race was closely watched because it mirrored growing political polarization in America. 
  <p class="updated_time"> 10:55 PM CT, Nov. 05 </p> 
