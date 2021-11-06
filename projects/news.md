@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:45 PM CT, Nov. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-scotland-59185007?at_medium=RSS&at_campaign=KARANGA">COP26: Thousands march for Glasgow's biggest protest</a> BBC: Organisers say about 100,000 people joined a rally on Glasgow Green to demand more action on the climate crisis. 
+ <p class="updated_time"> 04:40 PM CT, Nov. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59191108?at_medium=RSS&at_campaign=KARANGA">Palma de Mallorca: Fleeing passengers shut down busy Spanish airport</a> BBC: Palma de Mallorca Airport closes for four hours after 21 people run from a plane across the tarmac. 
  <p class="updated_time"> 03:25 PM CT, Nov. 06 </p> 
  <a href="https://www.nytimes.com/2021/11/06/world/americas/biden-osha-vaccine-mandate-blocked.html">Court Temporarily Blocks Biden’s Vaccine Mandate for Large Companies</a> NYT: A federal appeals court in Louisiana granted a temporary stay to a group of businesses, religious groups, and several states who argued in a joint petition that the administration overstepped its authority. 
  <p class="updated_time"> 03:22 PM CT, Nov. 06 </p> 
@@ -19,8 +23,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59193150?at_medium=RSS&at_campaign=KARANGA">Travis Scott 'devastated' by Texas festival deaths</a> BBC: The rapper says he is "absolutely devastated" by the deaths that occurred at his Astroworld festival. 
  <p class="updated_time"> 02:17 PM CT, Nov. 06 </p> 
  <a href="https://www.npr.org/2021/11/06/1053218525/cop26-glasgow-global-climate-action-protests">Thousands protest in Glasgow and around the world for action against climate change</a> NPR: With one week of the COP26 conference left, people worldwide participated in protests in support of climate change action. Activists say that pledges to cut carbon emissions don't go far enough. 
- <p class="updated_time"> 01:44 PM CT, Nov. 06 </p> 
- <a href="https://www.bbc.co.uk/news/uk-scotland-59185007?at_medium=RSS&at_campaign=KARANGA">COP26: Thousands march for Glasgow's biggest protest</a> BBC: Organisers say about 100,000 people joined a rally on Glasgow Green to demand more action on the climate crisis. 
  <p class="updated_time"> 01:43 PM CT, Nov. 06 </p> 
  <a href="https://www.nytimes.com/2021/11/06/world/europe/cop-climate-protests.html">COP26 Protesters Back an Array of Causes, Connected by Climate Change</a> NYT: Thousands gathered in the rain in Glasgow to press the case for more urgent and meaningful action by world leaders in response to global warming. 
  <p class="updated_time"> 01:36 PM CT, Nov. 06 </p> 
@@ -31,8 +33,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59192048?at_medium=RSS&at_campaign=KARANGA">Biden: Infrastructure bill is 'monumental step forward'</a> BBC: The long-delayed $1tn (£741bn) spending package is a major domestic win for the US president. 
  <p class="updated_time"> 11:08 AM CT, Nov. 06 </p> 
  <a href="https://www.nytimes.com/2021/11/05/world/canada/manitoba-premier-election-stefanson-glover.html">Manitoba's New Premier Faces Court Challenge by Rival</a> NYT: The litigation highlights the often messy process that Canadian political parties use to select their leaders. 
- <p class="updated_time"> 11:04 AM CT, Nov. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59191108?at_medium=RSS&at_campaign=KARANGA">Palma de Mallorca: Fleeing passengers shut down busy Spanish airport</a> BBC: Palma de Mallorca Airport closes for four hours after 21 people run from a plane across the tarmac. 
  <p class="updated_time"> 10:22 AM CT, Nov. 06 </p> 
  <a href="https://www.nytimes.com/2021/11/06/world/europe/spain-plane-passengers-escape.html">Spanish Police Seek Missing Plane Passengers After Emergency Landing</a> NYT: More than 20 people fled a Moroccan flight that diverted to Mallorca after a passenger apparently fell ill. A dozen had yet to be found. 
  <p class="updated_time"> 09:53 AM CT, Nov. 06 </p> 
@@ -210,6 +210,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:49 PM CT, Nov. 06 </p> 
+ <a href="https://www.nytimes.com/2021/11/06/us/politics/infrastructure-black-caucus-vote.html">The Congressional Black Caucus Was Key to the Infrastructure Vote</a> NYT: Speaker Nancy Pelosi sent the chairwoman of the caucus, Representative Joyce Beatty of Ohio, to announce a key deal, understanding that the lawmaker held sway with balky progressives. 
  <p class="updated_time"> 04:17 PM CT, Nov. 06 </p> 
  <a href="https://www.npr.org/2021/11/06/1053239123/black-republicans-walk-a-fine-line-toward-election-victory">Black Republicans walk a fine line toward election victory</a> NPR: NPR's Michel Martin speaks with professor Leah Wright Rigueur, author of The Loneliness of the Black Republican, about what this week's elections signal for Black conservatives. 
  <p class="updated_time"> 04:17 PM CT, Nov. 06 </p> 
@@ -218,8 +220,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/06/1053239102/how-the-house-passed-the-1-trillion-infrastructure-plan">How the House passed the $1 trillion infrastructure plan</a> NPR: The House of Representatives passed a trillion dollar infrastructure bill Friday, delivering President Biden a major legislative victory after months of negotiation with his own party. 
  <p class="updated_time"> 04:12 PM CT, Nov. 06 </p> 
  <a href="https://www.nytimes.com/2021/11/06/us/politics/defectors-infrastructure-bill-squad.html">In Infrastructure Votes, 19 Members Broke With Their Party</a> NYT: The defectors who crossed partisan lines in Congress include 13 Republicans who supported the bill and the six liberal members of “The Squad,” who opposed it. 
- <p class="updated_time"> 04:00 PM CT, Nov. 06 </p> 
- <a href="https://www.nytimes.com/2021/11/06/us/politics/infrastructure-black-caucus-vote.html">The Congressional Black Caucus Was Key to the Infrastructure Vote</a> NYT: Speaker Nancy Pelosi sent the chairwoman of the caucus, Representative Joyce Beatty of Ohio, to announce a key deal, understanding that the lawmaker had more influence at that point than she did. 
  <p class="updated_time"> 03:14 PM CT, Nov. 06 </p> 
  <a href="https://www.nytimes.com/2021/11/05/us/politics/house-infrastructure-reconciliation.html">House Passes $1 Trillion Infrastructure Bill, Putting Social Policy Bill on Hold</a> NYT: Progressives who had threatened to sink the measure agreed to support it after extracting a promise from moderates that they would ultimately back the social safety net and climate bill. 
  <p class="updated_time"> 02:21 PM CT, Nov. 06 </p> 
