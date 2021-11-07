@@ -7,7 +7,9 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:25 PM CT, Nov. 06 </p> 
+ <p class="updated_time"> 09:30 PM CT, Nov. 06 </p> 
+ <a href="https://www.nytimes.com/2021/11/06/world/middleeast/iraq-prime-minister-drone.html">Iraq Says Drone Strike Was Aimed at Prime Minister</a> NYT: Prime Minister Mustafa al-Kadhimi was unharmed in the attack on his residence early Sunday, the government said. 
+ <p class="updated_time"> 09:20 PM CT, Nov. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59195399?at_medium=RSS&at_campaign=KARANGA">Iraqi PM al-Kadhimi survives Baghdad 'assassination attempt'</a> BBC: Mustafa al-Kadhimi said he was unhurt in the attack on his house, said to be by an armed drone. 
  <p class="updated_time"> 07:55 PM CT, Nov. 06 </p> 
  <a href="https://www.npr.org/2021/11/06/1053226380/astroworld-concert-tragedies-love-parade-pearl-jam-the-who-rolling-stones">Astroworld Festival joins a list of historical concert tragedies</a> NPR: Astroworld Festival calls to mind other rare but traumatic incidents at concerts and festivals throughout the last half-century. Here's a timeline of those tragedies. 
@@ -178,8 +180,6 @@ permalink: /projects/news/
  <p class="updated_time"> 07:23 PM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/world/europe/covid-surge-europe-who.html">W.H.O. Official: 'Europe Is Back at Epicenter of the Pandemic'</a> NYT: The World Health Organization said Europe was responsible for nearly three-fifths of the world’s recent coronavirus cases, and that deaths in the region were surging. 
  <p class="updated_time"> 05:54 PM CT, Nov. 04 </p> 
- <a href="https://www.nytimes.com/2021/11/04/world/asia/south-korea-exam-students-hospital.html">South Korea Toughens Measures as Virus Spreads Among Teens</a> NYT: The decision comes as the country experiences rising caseloads again. The nine-hour test is seen as critical in determining students’ futures, and many have prepared for it since kindergarten. 
- <p class="updated_time"> 05:54 PM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/world/asia/diwali-india.html">India's Diwali Celebrations Draw Large Crowds Despite Covid Concerns</a> NYT: More than 680,000 people have traveled across the country as health experts cautioned that large-scale gatherings might fuel a wave of infections. 
  <p class="updated_time"> 05:44 PM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/world/canada/canada-military-sexual-assault.html">Canada Turns Over Military Sexual Assault Cases to Civilian Courts</a> NYT: With the military’s leadership in crisis, a new defense minister adopted a recommendation to remove prosecutorial authority for sexual misconduct cases from the armed forces. 
@@ -206,6 +206,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:14 PM CT, Nov. 06 </p> 
+ <a href="https://www.politico.com/news/2021/11/06/iraqi-prime-minister-survives-assassination-bid-with-drones-519925">Iraqi prime minister survives assassination bid with drones</a> Politico: In a statement, the government said the drones tried to hit al-Kadhimi’s home. 
  <p class="updated_time"> 09:00 PM CT, Nov. 06 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2NkhBglAY6w/index.html">Federal appeals court issues stay of Biden administration's vaccine mandate for private companies</a> CNN: A federal appeals court temporarily blocked the Biden administration's new vaccine rules that could apply to larger employers, certain health care workers and federal contractors. 
  <p class="updated_time"> 07:47 PM CT, Nov. 06 </p> 
@@ -323,7 +325,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:25 AM CT, Nov. 06 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-06/climate-march-keeps-up-pressure-on-leaders-at-u-n-summit">Climate March Keeps Up Pressure on Leaders at UN Summit</a> Bloomberg: Glasgow, Scotland (AP) -- Tens of thousands of climate activists marched Saturday through the Scottish city hosting the U.N. climate summit, physically close to the global negotiators inside but separated by a vast gulf in expectations, with frustrated marchers increasingly dismissive of the talks and demanding immediate action instead to slow global warming. 
  <p class="updated_time"> 06:18 AM CT, Nov. 06 </p> 
- <a href="https://www.politico.com/news/2021/11/06/8-dead-numerous-injured-at-astroworld-festival-in-houston-519811">8 dead, numerous injured at Astroworld Festival in Houston</a> Politico: Officials declared a “mass casualty incident” just after 9 p.m. Friday during the festival where an estimated 50,000 people were in attendance. 
+ <a href="https://www.politico.com/news/2021/11/06/8-dead-numerous-injured-at-astroworld-festival-in-houston-519811">Crowd surge kills at least 8 at Houston music festival</a> Politico: Officials declared a “mass casualty incident” just after 9 p.m. Friday during the festival where an estimated 50,000 people were in attendance. 
  <p class="updated_time"> 06:00 AM CT, Nov. 06 </p> 
  <a href="https://www.npr.org/2021/11/06/1052885882/democrats-are-worried-about-u-s-democracy-theyve-got-limited-tools-to-protect-it">Democrats are worried about U.S. democracy. They've got limited tools to protect it</a> NPR: Democrats and some anti-Trump Republicans are panicked about the impact of the ex-president's election lies on American democracy. They see worst-case scenarios looming — but few, if any, solutions. 
  <p class="updated_time"> 06:00 AM CT, Nov. 06 </p> 
@@ -448,8 +450,6 @@ permalink: /projects/news/
  <a href="https://www.washingtonpost.com/politics/2021/11/04/smartmatic-sues-newsmax-oan-2020-us-election/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Voting technology firm Smartmatic sues Newsmax and One America News, alleging defamation</a> WaPo: The contentious 2020 presidential election has pitted firms like Smartmatic, which sell electronic voting machines and software, against Trump-friendly networks. 
  <p class="updated_time"> 10:20 AM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/05/us/politics/school-board-threats.html">School Board Members Face Rising Threats Across the U.S.</a> NYT: Across the country, parents have threatened board members and vandalized their homes. One board member scans his driveway before walking to his car. 
- <p class="updated_time"> 10:17 AM CT, Nov. 05 </p> 
- <a href="https://www.politico.com/news/2021/11/05/state-dept-names-new-coordinator-on-havana-syndrome-cases-519697">State Dept. names new coordinator on 'Havana Syndrome' cases</a> Politico: Investigators have been studying a growing number of reported cases by U.S. personnel around the world. 
  <p class="updated_time"> 09:51 AM CT, Nov. 05 </p> 
  <a href="https://www.politico.com/news/2021/11/05/biden-gun-violence-legislation-519625">Gun control legislation isn’t going to happen. Here’s what Biden’s doing instead.</a> Politico: As president, Biden has promised billions of dollars in funding for community violence intervention, programs that have been shown to break cycles of violence. 
  <p class="updated_time"> 09:09 AM CT, Nov. 05 </p> 
