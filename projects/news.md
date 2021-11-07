@@ -7,12 +7,12 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:24 AM CT, Nov. 07 </p> 
- <a href="https://www.nytimes.com/2021/11/07/travel/us-travel-ban-reunions.html">As U.S. Travel Changes Near, Global Travelers Eagerly Await Reunions</a> NYT: On Monday, travelers from many other countries who are fully vaccinated against the coronavirus will be allowed to enter the United States. 
- <p class="updated_time"> 11:14 AM CT, Nov. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59199831?at_medium=RSS&at_campaign=KARANGA">Astroworld: Victims named as police probe US festival crush</a> BBC: Family and friends pay tribute to those who died at Travis Scott's Astroworld festival in Houston. 
- <p class="updated_time"> 10:44 AM CT, Nov. 07 </p> 
+ <p class="updated_time"> 11:29 AM CT, Nov. 07 </p> 
  <a href="https://www.nytimes.com/2021/11/06/world/middleeast/iraq-prime-minister-drone.html">Fears of Wider Instability in Iraq After Attack on Prime Minister’s Home</a> NYT: Armed drones struck the Iraqi prime minister’s home in what was seen as a warning as Iranian-backed groups dispute the results of parliamentary elections. 
+ <p class="updated_time"> 11:26 AM CT, Nov. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59199831?at_medium=RSS&at_campaign=KARANGA">Astroworld: Victims named as police probe US festival crush</a> BBC: Family and friends pay tribute to those who died at Travis Scott's Astroworld festival in Houston. 
+ <p class="updated_time"> 11:25 AM CT, Nov. 07 </p> 
+ <a href="https://www.nytimes.com/2021/11/07/travel/us-travel-ban-reunions.html">As U.S. Travel Changes Near, Global Travelers Eagerly Await Reunions</a> NYT: On Monday, travelers from many other countries who are fully vaccinated against the coronavirus will be allowed to enter the United States. 
  <p class="updated_time"> 10:25 AM CT, Nov. 07 </p> 
  <a href="https://www.nytimes.com/2021/11/07/world/europe/uk-virus-surge-booster-shots.html">U.K. Health Secretary Urges People to Get Boosters</a> NYT: “If we all come together and play our part, we can get through this challenging winter, avoid a return to restrictions and enjoy Christmas,” said Sajid Javid, the health secretary. 
  <p class="updated_time"> 10:03 AM CT, Nov. 07 </p> 
@@ -216,7 +216,7 @@ permalink: /projects/news/
 
  <p class="updated_time"> 11:30 AM CT, Nov. 07 </p> 
  <a href="https://www.politico.com/news/2021/11/07/payments-families-border-richmond-520027">Payments to families separated at border are ‘for the Department of Justice to decide,’ W.H. adviser says</a> Politico: “I want to be clear about this: We do not tell the Department of Justice what to do,” Cedric Richmond said. 
- <p class="updated_time"> 11:24 AM CT, Nov. 07 </p> 
+ <p class="updated_time"> 11:25 AM CT, Nov. 07 </p> 
  <a href="https://www.nytimes.com/2021/11/07/travel/us-travel-ban-reunions.html">As U.S. Travel Changes Near, Global Travelers Eagerly Await Reunions</a> NYT: On Monday, travelers from many other countries who are fully vaccinated against the coronavirus will be allowed to enter the United States. 
  <p class="updated_time"> 11:17 AM CT, Nov. 07 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/07/what-happens-in-vegas-495006">POLITICO Playbook: What happens in Vegas …</a> Politico: And a court temporarily blocks Biden’s vaccine mandate. 
@@ -312,8 +312,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/05/us/politics/house-infrastructure-reconciliation.html">House Passes $1 Trillion Infrastructure Bill, Putting Social Policy Bill on Hold</a> NYT: Progressives who had threatened to sink the measure agreed to support it after extracting a promise from moderates that they would ultimately back the social safety net and climate bill. 
  <p class="updated_time"> 02:21 PM CT, Nov. 06 </p> 
  <a href="https://www.nytimes.com/2021/11/05/us/politics/guantanamo-torture-foia-cia.html">Some Sept. 11 Trial Secrets May Not Be Secrets Anymore</a> NYT: Prosecutors agreed to compare hundreds if not thousands of pages of classified documents in the case against 9/11 defendants with material released under the Freedom of Information Act. 
- <p class="updated_time"> 02:19 PM CT, Nov. 06 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-06/georgia-protesters-demand-care-for-ex-leader-on-hunger-strike">Georgia Protesters Demand Care for Ex-Leader on Hunger Strike</a> Bloomberg: Thousands of opposition protesters in Georgia rallied on Saturday outside the prison holding former president Mikheil Saakashvili, on a hunger strike for more than a month. They demanded he be moved to a hospital. 
  <p class="updated_time"> 02:12 PM CT, Nov. 06 </p> 
  <a href="https://www.politico.com/news/2021/11/06/biden-vaccine-order-blocked-federal-court-519908">Federal court blocks Biden administration's vaccination mandate</a> Politico: The states of Texas, Louisiana, Mississippi, South Carolina and Utah are among the plaintiffs. 
  <p class="updated_time"> 01:40 PM CT, Nov. 06 </p> 
@@ -364,8 +362,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/06/1053163025/house-passes-stripped-down-infrastructure-bill-pushing-off-many-of-bidens-wants">House passes stripped-down infrastructure bill, pushing off many of Biden's wants</a> NPR: The House passed the trillion-dollar legislation known as the "Bipartisan Infrastructure Bill" and set up another vote for President Biden's "Build Back Better" plan. 
  <p class="updated_time"> 07:02 AM CT, Nov. 06 </p> 
  <a href="https://www.npr.org/2021/11/06/1053162976/week-in-politics-house-passes-1-trillion-infrastructure-bill">Week In Politics: House passes $1 trillion infrastructure bill</a> NPR: We look at the latest push - and resistance - to the passage of President Biden's $1.75 trillion social spending bill, as well as what this week's elections mean for the Democratic party. 
- <p class="updated_time"> 06:25 AM CT, Nov. 06 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-06/climate-march-keeps-up-pressure-on-leaders-at-u-n-summit">Climate March Keeps Up Pressure on Leaders at UN Summit</a> Bloomberg: Glasgow, Scotland (AP) -- Tens of thousands of climate activists marched Saturday through the Scottish city hosting the U.N. climate summit, physically close to the global negotiators inside but separated by a vast gulf in expectations, with frustrated marchers increasingly dismissive of the talks and demanding immediate action instead to slow global warming. 
  <p class="updated_time"> 06:00 AM CT, Nov. 06 </p> 
  <a href="https://www.npr.org/2021/11/06/1052885882/democrats-are-worried-about-u-s-democracy-theyve-got-limited-tools-to-protect-it">Democrats are worried about U.S. democracy. They've got limited tools to protect it</a> NPR: Democrats and some anti-Trump Republicans are panicked about the impact of the ex-president's election lies on American democracy. They see worst-case scenarios looming — but few, if any, solutions. 
  <p class="updated_time"> 06:00 AM CT, Nov. 06 </p> 
