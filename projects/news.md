@@ -270,6 +270,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/07/us/politics/republican-party-trump.html">Republicans, Basking in Tuesday’s Victories, Diverge on What Comes Next</a> NYT: Looming over a gathering of Jewish conservatives in Las Vegas were questions about whether former President Donald J. Trump should remain the face of the party. 
  <p class="updated_time"> 02:53 AM CT, Nov. 07 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-07/israel-no-room-for-us-mission-for-palestinians-in-jerusalem">Palestinians, Israel Spar Over US Mission in Jerusalem</a> Bloomberg: Tel Aviv, Israel (AP) -- The Palestinians on Sunday slammed Israel for rejecting the promised reopening of the U.S. consulate in Jerusalem, a move that would restore Washington's main diplomatic mission for the Palestinians in the contested city. 
+ <p class="updated_time"> 02:02 AM CT, Nov. 07 </p> 
+ <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/G1JZt57rmEE/index.html">Voters and public officials choose police reform in moderation after George Floyd's murder</a> CNN: Anti-police candidates and a policing overhaul referendum were rejected on Election Day in Seattle, Minneapolis and Buffalo, continuing a trend of voters and public officials choosing moderate and measured approaches to policing over sweeping or radical changes. 
  <p class="updated_time"> 01:59 AM CT, Nov. 07 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-07/china-tells-iran-that-u-s-should-rectify-nuclear-moves-xinhua">China Tells Iran That U.S. Should Rectify Nuclear Moves: Xinhua</a> Bloomberg: China said the U.S. should rectify its actions in unilaterally withdrawing from a nuclear pact with Iran, and the Persian Gulf nation can resume fulfilling its nuclear commitments on that basis. 
  <p class="updated_time"> 01:11 AM CT, Nov. 07 </p> 
@@ -522,8 +524,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/03/stephanie-murphy-long-game-518607">Stephanie Murphy's defiant long game to keep Dems in power</a> Politico: The voice of House battleground Democrats isn't afraid to openly criticize her party leaders if she thinks it will help them keep the House in 2022. 
  <p class="updated_time"> 03:30 AM CT, Nov. 03 </p> 
  <a href="https://www.politico.com/news/2021/11/03/gop-trump-baseless-election-fraud-claims-518603">1 year later, GOP still chained to Trump's baseless election fraud claims</a> Politico: Some Republicans fear the former president's continued fixation on his loss threatens to deter their base from voting. But many of them are still staying silent. 
- <p class="updated_time"> 07:08 PM CT, Nov. 02 </p> 
- <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uFzNJyOeZ8w/index.html">Biden says he's not concerned with possibility of armed conflict with China</a> CNN: President Joe Biden said Tuesday that he is not concerned with the possibility of an armed conflict with China, adding that he's made clear to Chinese President Xi Jinping that this is "competition" not "conflict." 
  <p class="updated_time"> 06:21 PM CT, Nov. 02 </p> 
  <a href="https://www.politico.com/news/2021/11/02/josh-hawley-state-department-nominees-confirmation-518642">Josh Hawley blocks confirmation of several State Dept. nominees</a> Politico: The Republican senator, who is unhappy about the withdrawal from Afghanistan, objected to eight of the nine nominations Democrats sought to unanimously approve. 
  <p class="updated_time"> 05:43 PM CT, Nov. 02 </p> 
