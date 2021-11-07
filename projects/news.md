@@ -16,7 +16,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:00 AM CT, Nov. 07 </p> 
  <a href="https://www.nytimes.com/2021/11/07/world/asia/china-xi-jinping.html">Xi Jinping is Rewriting China's History</a> NYT: A new official summation of Communist Party history is likely to exalt Xi Jinping as a peer of Mao and Deng, fortifying his claim to a new phase in power. 
  <p class="updated_time"> 03:42 AM CT, Nov. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59196814?at_medium=RSS&at_campaign=KARANGA">Libya: Row over attempt to ground foreign minister Najla El-Mangoush</a> BBC: There has been political infighting after comments she made to the BBC about the 1988 Lockerbie bombing. 
+ <a href="https://www.bbc.co.uk/news/world-africa-59196814?at_medium=RSS&at_campaign=KARANGA">Libya: Row over attempt to suspend foreign minister Najla El-Mangoush</a> BBC: There has been political infighting after comments she made to the BBC about the 1988 Lockerbie bombing. 
  <p class="updated_time"> 03:23 AM CT, Nov. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59195399?at_medium=RSS&at_campaign=KARANGA">Iraqi PM al-Kadhimi survives drone attack on his home</a> BBC: Mustafa al-Kadhimi says he was not hurt in the attack by a drone carrying explosives in Baghdad. 
  <p class="updated_time"> 02:00 AM CT, Nov. 07 </p> 
