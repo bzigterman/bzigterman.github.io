@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:48 AM CT, Nov. 07 </p> 
+ <a href="https://www.nytimes.com/2021/11/07/world/europe/korea-sakhalin-japan-russia.html">What’s in a Name? For the Koreans of Sakhalin, an Anguished History</a> NYT: Stranded for decades on the island in Russia’s Far East, some bear three names, Japanese, Russian and Korean, representing different historical chapters. Now, many are planning their return. 
  <p class="updated_time"> 09:25 AM CT, Nov. 07 </p> 
  <a href="https://www.nytimes.com/2021/11/07/travel/us-travel-ban-reunions.html">As U.S. Travel Changes Near, Global Travelers Eagerly Await Reunions</a> NYT: On Monday, travelers from many other countries who are fully vaccinated against the coronavirus will be allowed to enter the United States. 
  <p class="updated_time"> 09:24 AM CT, Nov. 07 </p> 
@@ -214,14 +216,24 @@ permalink: /projects/news/
 
  <p class="updated_time"> 10:27 AM CT, Nov. 07 </p> 
  <a href="https://www.politico.com/news/2021/11/07/murthy-vaccine-mandate-biden-520015">Surgeon general defends embattled vaccine mandate</a> Politico: “It’s a necessary step to accelerate our pathway out of the pandemic,” Vivek Murthy said. 
+ <p class="updated_time"> 09:48 AM CT, Nov. 07 </p> 
+ <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vBRV9fRRViY/index.html">White House chief of staff 'confident' Biden's administration's vaccine mandate for private businesses will be upheld</a> CNN: White House chief of staff Ron Klain said he was confident the courts will uphold the validity of the Biden administration's new vaccine rules that apply to private businesses with 100 or more employees, certain health care workers and federal contractors, after a federal appeals court temporarily blocked the requirements on Saturday. 
+ <p class="updated_time"> 09:40 AM CT, Nov. 07 </p> 
+ <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/U26cWofmZF4/index.html">Americans should expect to pay higher heating costs this winter, Granholm says</a> CNN: Americans should expect to pay higher costs to heat their homes this winter, Energy Secretary Jennifer Granholm said Sunday, a result of high gas prices caused by the coronavirus pandemic. 
+ <p class="updated_time"> 09:35 AM CT, Nov. 07 </p> 
+ <a href="https://www.nytimes.com/2021/11/06/us/politics/infrastructure-black-caucus-vote.html">How a $1 Trillion Infrastructure Bill Survived an Intraparty Brawl</a> NYT: Speaker Nancy Pelosi agreed to a deal proposed by the Congressional Black Caucus, mobilizing one faction of Democratic lawmakers to win over two others. 
  <p class="updated_time"> 09:25 AM CT, Nov. 07 </p> 
  <a href="https://www.nytimes.com/2021/11/07/travel/us-travel-ban-reunions.html">As U.S. Travel Changes Near, Global Travelers Eagerly Await Reunions</a> NYT: On Monday, travelers from many other countries who are fully vaccinated against the coronavirus will be allowed to enter the United States. 
  <p class="updated_time"> 09:24 AM CT, Nov. 07 </p> 
  <a href="https://www.washingtonpost.com/politics/biden-trump-infrastructure-afghanistan/2021/11/07/7c7a5534-3f34-11ec-8ee9-4f14a26749d1_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Biden gets his ‘infrastructure week,’ crossing another goal off Trump’s to-do list</a> WaPo: While the president has spent much of his first months in office seeking to undo the legacy of his predecessor, Biden’s passage of a massive spending bill and the withdrawal from Afghanistan mark two policy goals the two shared — but only one achieved. 
+ <p class="updated_time"> 09:00 AM CT, Nov. 07 </p> 
+ <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/yZD5Wl5TMe8/index.html">2021 shows Republicans shouldn't fear high voter turnout</a> CNN: The Republican Party did very well on Tuesday. Beyond its win in the Virginia gubernatorial election, it came quite close to capturing the New Jersey governor's mansion. 
  <p class="updated_time"> 08:12 AM CT, Nov. 07 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-07/biden-adviser-says-big-company-vaccine-mandate-on-legal-ground">Biden Adviser Says Big-Company Vaccine Mandate on Legal Ground</a> Bloomberg: President Joe Biden’s requirement for employees at companies with more than 100 workers to get Covid-19 vaccinations or regular testing is on solid legal ground, presidential adviser Cedric Richmond said. 
  <p class="updated_time"> 08:09 AM CT, Nov. 07 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sWdL-IYaLvg/index.html">Chris Christie delivers tough message to Republican audience, saying GOP gains hinge on moving on from 2020</a> CNN: While the other potential GOP White House aspirants continue to tip-toe around former President Donald Trump, former New Jersey Gov. Chris Christie argued Saturday that his week's election results marked the "beginning of a new era" for the Republican Party -- one that looks "forward and not backwards" as he addressed the Republican Jewish Coalition in Las Vegas. 
+ <p class="updated_time"> 08:02 AM CT, Nov. 07 </p> 
+ <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DElB6sGwR-I/index.html">Jill Biden honors the White House: 'This museum, this home' </a> CNN: As the season changed from summer to fall, first lady Jill Biden has found a spot to sit outside at the White House to grade her students' essays. 
  <p class="updated_time"> 07:27 AM CT, Nov. 07 </p> 
  <a href="https://www.politico.com/news/2021/11/07/iraq-failed-assassination-attempt-519973">Failed assassination bid against Iraq PM ramps up tension</a> Politico: “Cowardly rocket and drone attacks don’t build homelands and don’t build a future,” the prime minister said. 
  <p class="updated_time"> 07:10 AM CT, Nov. 07 </p> 
@@ -246,8 +258,6 @@ permalink: /projects/news/
  <a href="https://www.bloomberg.com/news/articles/2021-11-07/sudan-forces-arrest-87-teachers-at-anti-coup-protest-group-says">Sudan Forces Arrest 87 Teachers at Anti-Coup Protest, Group Says</a> Bloomberg: At least 87 teachers were arrested when Sudan security forces cracked down on a sit-in at the Education Ministry in the capital, an activist group said, as protests rage on against last month’s coup. 
  <p class="updated_time"> 06:45 AM CT, Nov. 07 </p> 
  <a href="https://www.politico.com/news/2021/11/07/nevada-democrats-harry-reid-machine-and-pro-sanders-forces-519919">Democrats sweat midterm fallout from Nevada party crack-up</a> Politico: A bitter feud has divided Dems in a key swing state — and dragged in the national party. 
- <p class="updated_time"> 06:44 AM CT, Nov. 07 </p> 
- <a href="https://www.nytimes.com/2021/11/06/us/politics/infrastructure-black-caucus-vote.html">How a $1 Trillion Infrastructure Bill Survived an Intraparty Brawl</a> NYT: Speaker Nancy Pelosi agreed to a deal proposed by the Congressional Black Caucus, mobilizing one faction of Democratic lawmakers to win over two others. 
  <p class="updated_time"> 06:00 AM CT, Nov. 07 </p> 
  <a href="https://www.npr.org/2021/11/07/1053214146/biden-infrastructure-bill-politics">Biden's infrastructure win gives him some momentum. Here's why he needs that</a> NPR: President Biden's polls have plunged. As his agenda stalled, his party lost the Virginia gubernatorial race. The infrastructure win gives him some lift as he now tries to pass a much-tougher bill. 
  <p class="updated_time"> 06:00 AM CT, Nov. 07 </p> 
@@ -270,8 +280,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/06/us/politics/james-okeefe-project-veritas-ashley-biden.html">F.B.I. Searches James O’Keefe’s Home in Ashley Biden Diary Theft Inquiry</a> NYT: Authorities carried out a court-ordered search at the New York apartment of the Project Veritas founder two days after searching the homes of his associates. 
  <p class="updated_time"> 09:10 PM CT, Nov. 06 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-07/china-reports-50-local-cases-as-covid-outbreak-continues-to-grow">China Reports 50 Local Cases as Covid Outbreak Continues to Grow</a> Bloomberg: China reported 50 new local Covid-19 infections on Saturday, as authorities said stringent curbs will remain to disrupt the virus’s domestic transmission. 
- <p class="updated_time"> 09:00 PM CT, Nov. 06 </p> 
- <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2NkhBglAY6w/index.html">Federal appeals court issues stay of Biden administration's vaccine mandate for private companies</a> CNN: A federal appeals court temporarily blocked the Biden administration's new vaccine rules that could apply to larger employers, certain health care workers and federal contractors. 
  <p class="updated_time"> 08:10 PM CT, Nov. 06 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-07/new-zealand-s-ardern-touts-maturity-in-relations-with-china">New Zealand’s Ardern Touts ‘Maturity’ in Relations With China</a> Bloomberg: Prime Minister Jacinda Ardern said there is a “maturity” in New Zealand’s relationship with China, its biggest trading partner, which her government believes enables it to raise issues of concern, amid simmering tensions between Beijing and the West. 
  <p class="updated_time"> 07:35 PM CT, Nov. 06 </p> 
@@ -308,10 +316,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/06/us/politics/biden-infrastructure-speech.html">Biden Celebrates Infrastructure Win, Even if Harder Victory Is Ahead</a> NYT: “Finally! Infrastructure week!” the president declared with a broad smile. 
  <p class="updated_time"> 01:26 PM CT, Nov. 06 </p> 
  <a href="https://www.npr.org/2021/11/06/1053216909/transportation-secretary-pete-buttigieg-on-what-to-expect-from-infrastructure-pl">Transportation Secretary Pete Buttigieg on what to expect from infrastructure plan</a> NPR: NPR's Scott Simon talks with Transportation Secretary Pete Buttigieg about the $1 trillion infrastructure bill passed by the House and headed for President Biden's signature. 
- <p class="updated_time"> 01:10 PM CT, Nov. 06 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-06/thousands-of-poles-protest-after-death-linked-to-abortion-law">Thousands of Poles Protest After Death Linked to Abortion Law</a> Bloomberg: Thousands took to the streets in Poland on Saturday to protest the nation’s stringent abortion law and pay tribute to a woman who died after doctors refrained from ending her life-threatening pregnancy. 
- <p class="updated_time"> 01:08 PM CT, Nov. 06 </p> 
- <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/eyHVIFJlMc0/index.html">Biden noncommittal on a potential Strategic Petroleum Reserve release</a> CNN: President Joe Biden on Saturday was noncommittal on ordering a Strategic Petroleum Reserve release in an attempt to address rising crude oil prices after the OPEC+ coalition rejected calls from the US and other big oil consuming nations to increase output by more than planned in December. 
  <p class="updated_time"> 01:04 PM CT, Nov. 06 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-06/blankfein-breaks-twitter-hiatus-to-weigh-in-on-progressives">Blankfein Breaks Twitter Hiatus to Weigh In on Democrats</a> Bloomberg: Lloyd Blankfein, the former Goldman Sachs Group Inc. chief executive officer, broke a one-year hiatus on Twitter to take a jab at Bernie Sanders and progressives. 
  <p class="updated_time"> 12:54 PM CT, Nov. 06 </p> 
@@ -324,12 +328,8 @@ permalink: /projects/news/
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/y2-yFcKx5oU/index.html">Biden gets his infrastructure win and an education on a new Washington</a> CNN: Final passage of a massive public works bill Friday provided President Joe Biden what had increasingly seemed like a vanishing ideal: A major, bipartisan accomplishment that has the power to improve the lives of millions of Americans. 
  <p class="updated_time"> 11:52 AM CT, Nov. 06 </p> 
  <a href="https://www.nytimes.com/2021/11/06/us/states-infrastructure-bill-funding.html">This Is Where the States Want Billions in Infrastructure Funding Spent</a> NYT: The plan finally approved on Friday will address transportation, water, broadband, energy and public safety needs that have been building for years, sometimes decades. 
- <p class="updated_time"> 11:37 AM CT, Nov. 06 </p> 
- <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5O1HUiOKflQ/index.html">Biden says families separated at the border under Trump deserve compensation for 'outrageous' immigration policy</a> CNN: President Joe Biden on Saturday strongly endorsed the idea of the US government compensating immigrant families separated at the border under the Trump administration's "zero-tolerance policy," saying the previous administration's "outrageous behavior" warrants cash payments -- but he didn't go into detail about specific amounts. 
  <p class="updated_time"> 11:15 AM CT, Nov. 06 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/42vd3LAnnC4/index.html">Merrick Garland is caught in a pickle with Steve Bannon</a> CNN: It's been 16 days since the Democratic-controlled House approved a contempt resolution against former Trump White House political Svengali Steve Bannon for his refusal to provide testimony to the January 6 committee. 
- <p class="updated_time"> 11:15 AM CT, Nov. 06 </p> 
- <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/kMnbl7VSthY/index.html">Pete Buttigieg's newborn son is home after hospital stay</a> CNN: Transportation Secretary Pete Buttigieg's husband said Friday that the couple's newly adopted son has returned home after a hospital stay. 
  <p class="updated_time"> 11:01 AM CT, Nov. 06 </p> 
  <a href="https://www.politico.com/news/2021/11/06/infrastructure-bill-build-back-better-519894">How Biden’s infrastructure win falls short in one big area</a> Politico: The bill is historic in its scope with $550 billion in new money funneled into hard infrastructure, from overhauling bridges to supercharging Amtrak's most popular rail corridor in the Northeast. 
  <p class="updated_time"> 11:00 AM CT, Nov. 06 </p> 
@@ -358,8 +358,6 @@ permalink: /projects/news/
  <a href="https://www.washingtonpost.com/politics/2021/11/05/what-is-cbo-how-could-its-score-derail-democrats-spending-bills/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">What is the CBO, and how could its score derail Democrats’ social safety net bill?</a> WaPo: A nonpartisan office will determine whether Democrats' social safety net legislation is indeed paid for, as they claim. 
  <p class="updated_time"> 07:38 AM CT, Nov. 06 </p> 
  <a href="https://www.washingtonpost.com/politics/2021/11/05/what-is-cbo-how-could-its-score-derail-democrats-spending-bills/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">What is the CBO, and how could its score derail Democrats’ social safety net bill?</a> WaPo: A nonpartisan office will determine whether Democrats' social safety net legislation is indeed paid for, as they claim. 
- <p class="updated_time"> 07:04 AM CT, Nov. 06 </p> 
- <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_yA-wE-wsgE/index.html">DOJ officials unfazed by calls to expedite Bannon contempt decision</a> CNN: To many in Washington, the criminal contempt case against Steve Bannon appears cut and dried: The podcaster and former Trump adviser has openly spurned a congressional subpoena to testify in an investigation into the January 6 US Capitol attack, claiming to be covered by executive privilege even though he wasn't a government employee at the time. 
  <p class="updated_time"> 07:02 AM CT, Nov. 06 </p> 
  <a href="https://www.npr.org/2021/11/06/1053163025/house-passes-stripped-down-infrastructure-bill-pushing-off-many-of-bidens-wants">House passes stripped-down infrastructure bill, pushing off many of Biden's wants</a> NPR: The House passed the trillion-dollar legislation known as the "Bipartisan Infrastructure Bill" and set up another vote for President Biden's "Build Back Better" plan. 
  <p class="updated_time"> 07:02 AM CT, Nov. 06 </p> 
@@ -524,6 +522,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/03/stephanie-murphy-long-game-518607">Stephanie Murphy's defiant long game to keep Dems in power</a> Politico: The voice of House battleground Democrats isn't afraid to openly criticize her party leaders if she thinks it will help them keep the House in 2022. 
  <p class="updated_time"> 03:30 AM CT, Nov. 03 </p> 
  <a href="https://www.politico.com/news/2021/11/03/gop-trump-baseless-election-fraud-claims-518603">1 year later, GOP still chained to Trump's baseless election fraud claims</a> Politico: Some Republicans fear the former president's continued fixation on his loss threatens to deter their base from voting. But many of them are still staying silent. 
+ <p class="updated_time"> 07:08 PM CT, Nov. 02 </p> 
+ <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uFzNJyOeZ8w/index.html">Biden says he's not concerned with possibility of armed conflict with China</a> CNN: President Joe Biden said Tuesday that he is not concerned with the possibility of an armed conflict with China, adding that he's made clear to Chinese President Xi Jinping that this is "competition" not "conflict." 
  <p class="updated_time"> 06:21 PM CT, Nov. 02 </p> 
  <a href="https://www.politico.com/news/2021/11/02/josh-hawley-state-department-nominees-confirmation-518642">Josh Hawley blocks confirmation of several State Dept. nominees</a> Politico: The Republican senator, who is unhappy about the withdrawal from Afghanistan, objected to eight of the nine nominations Democrats sought to unanimously approve. 
  <p class="updated_time"> 05:43 PM CT, Nov. 02 </p> 
@@ -548,8 +548,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/01/gop-relishes-political-upsides-517847">'They're probably going to put us back in power': GOP basks in Dem discord</a> Politico: The House Republican conference is mostly avoiding the spotlight these days, getting fewer tough questions as the opposing party struggles. It doesn't mind at all. 
  <p class="updated_time"> 12:46 PM CT, Oct. 31 </p> 
  <a href="https://www.politico.com/news/2021/10/31/john-curtis-climate-summit-glasgow-518013">What Utah Republican John Curtis is bringing to the U.N. climate summit</a> Politico: As a conservative House Republican focused on climate change, he’s charting his own course. 
- <p class="updated_time"> 10:45 AM CT, Oct. 31 </p> 
- <a href="https://www.politico.com/news/2021/10/31/democrats-race-prescription-drug-deal-517974">Dems close in on Medicare prescription drug negotiation compromise</a> Politico: The issue was left out of last week’s social spending framework, but it may yet show up in the final bill. 
 
 
 </details>
