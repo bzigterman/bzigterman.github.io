@@ -216,6 +216,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 01:31 PM CT, Nov. 07 </p> 
  <a href="https://www.politico.com/news/2021/11/07/strategic-reserve-rising-fuel-prices-granholm-520093">Biden may tap strategic reserve amid rising fuel prices, Granholm says</a> Politico: “The president is all over this. Of course, every president is frustrated because they can’t control the price of gasoline,” she said. 
+ <p class="updated_time"> 12:51 PM CT, Nov. 07 </p> 
+ <a href="https://www.washingtonpost.com/politics/democrats-biden-virginia-new-jersey-infrastructure/2021/11/07/d5811f7e-3e43-11ec-bfad-8283439871ec_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Democrats search for political identity amid dismal election results and legislative triumph</a> WaPo: Setbacks Tuesday in suburbs, small towns and rural communities, coupled with intraparty battles on Capitol Hill and passage of an infrastructure bill, crystallize a vexing question for the party: What does it mean to be a Democrat? 
  <p class="updated_time"> 12:49 PM CT, Nov. 07 </p> 
  <a href="https://www.nytimes.com/2021/11/07/health/biden-osha-vaccine-mandate.html">Biden Administration Is ‘Prepared to Defend’ Vaccine Rules, Surgeon General Said</a> NYT: The administration last week set Jan. 4 as the deadline for companies with 100 or more employees to mandate Covid vaccinations or implement weekly testing of workers. 
  <p class="updated_time"> 12:47 PM CT, Nov. 07 </p> 
@@ -444,8 +446,6 @@ permalink: /projects/news/
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-YLyvPCSt34/index.html">Biden says his plans are working after October jobs report beats expectations</a> CNN: President Joe Biden touted the progress the US is making in recovering from the coronavirus pandemic, and cited his economic agenda as the reason, after the jobs recovery gathered some steam last month and employers added 531,000 positions in October. 
  <p class="updated_time"> 11:31 AM CT, Nov. 05 </p> 
  <a href="https://www.politico.com/news/2021/11/05/jeffrey-clark-doj-hill-deposition-519703">Trump DOJ official who aided effort to overturn election declines to answer Jan. 6 questions</a> Politico: The chair of the Hill select panel probing the Capitol riot said a contempt of Congress referral for Jeffrey Clark is "on the table." 
- <p class="updated_time"> 11:24 AM CT, Nov. 05 </p> 
- <a href="https://www.washingtonpost.com/politics/2021/11/05/electoral-demise-defund-police/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">The electoral demise of ‘defund the police’</a> WaPo: The message from Tuesday's elections -- even in blue areas -- was clear: Reform, yes. Defunding the police, no. 
  <p class="updated_time"> 11:19 AM CT, Nov. 05 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OlmWZ6c6Dpg/index.html">The moment has come for Biden and Pelosi to close the deal on his sweeping agenda</a> CNN: In the wake of jarring election results in several states on Tuesday, the one thing Democrats appeared to agree on was that they needed action in Congress. 
  <p class="updated_time"> 09:51 AM CT, Nov. 05 </p> 
