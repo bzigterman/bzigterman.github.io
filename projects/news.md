@@ -56,7 +56,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:00 AM CT, Nov. 07 </p> 
  <a href="https://www.nytimes.com/2021/11/07/science/antarctica-wildfires.html">Antarctica Was Once a Land of Fire and Not Ice</a> NYT: Charcoal recovered from a dig near the southern continent shows that the region wasn’t spared from the era scientists call a “super fire world.” 
  <p class="updated_time"> 04:00 AM CT, Nov. 07 </p> 
- <a href="https://www.nytimes.com/2021/11/07/world/asia/china-xi-jinping.html">Xi Jinping is Rewriting China's History</a> NYT: A new official summation of Communist Party history is likely to exalt Xi Jinping as a peer of Mao and Deng, fortifying his claim to a new phase in power. 
+ <a href="https://www.nytimes.com/2021/11/07/world/asia/china-xi-jinping.html">Xi Jinping Is Rewriting China's History</a> NYT: A new official summation of Communist Party history is likely to exalt Xi Jinping as a peer of Mao and Deng, fortifying his claim to a new phase in power. 
  <p class="updated_time"> 04:00 AM CT, Nov. 07 </p> 
  <a href="https://www.wsj.com/articles/one-of-the-worlds-hottest-real-estate-markets-tries-to-cool-down-11636297200">One of the World's Hottest Real-Estate Markets Tries to Cool Down</a> WSJ: New Zealand is pulling every lever to tame property prices without shaking its economy and crashing the market. 
  <p class="updated_time"> 03:42 AM CT, Nov. 07 </p> 
@@ -96,7 +96,7 @@ permalink: /projects/news/
  <p class="updated_time"> 03:22 PM CT, Nov. 06 </p> 
  <a href="https://www.nytimes.com/2021/11/06/world/africa/tanker-truck-explodes-sierra-leone.html">Tanker Truck Explodes in Sierra Leone, Killing at Least 98</a> NYT: The truck first started leaking fuel and people had rushed to collect it, an official said. Many of them died in the blast, along with others nearby. 
  <p class="updated_time"> 03:04 PM CT, Nov. 06 </p> 
- <a href="https://www.nytimes.com/2021/11/05/world/states-sue-biden-vaccine-mandate.html">11 States Sue Over Biden's Vaccine Mandate for Big Companies</a> NYT: The lawsuit was filed a day after the announcement of a Jan. 4 deadline for the companies to begin their mandates or start weekly testing. 
+ <a href="https://www.nytimes.com/2021/11/05/us/states-sue-biden-vaccine-mandate.html">11 States Sue Over Biden's Vaccine Mandate for Big Companies</a> NYT: The lawsuit was filed a day after the announcement of a Jan. 4 deadline for the companies to begin their mandates or start weekly testing. 
  <p class="updated_time"> 02:45 PM CT, Nov. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59188753?at_medium=RSS&at_campaign=KARANGA">Sierra Leone explosion: Scores dead after Freetown oil tanker collision</a> BBC: The accident happened after the tanker collided with another vehicle in the nation's capital, Freetown. 
  <p class="updated_time"> 02:17 PM CT, Nov. 06 </p> 
@@ -214,12 +214,16 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 01:31 PM CT, Nov. 07 </p> 
+ <a href="https://www.politico.com/news/2021/11/07/strategic-reserve-rising-fuel-prices-granholm-520093">Biden may tap strategic reserve amid rising fuel prices, Granholm says</a> Politico: “The president is all over this. Of course, every president is frustrated because they can’t control the price of gasoline,” she said. 
  <p class="updated_time"> 12:47 PM CT, Nov. 07 </p> 
  <a href="https://www.politico.com/news/2021/11/07/rick-scott-republicans-trump-support-520055">Rick Scott to GOP hopefuls: Get Trump’s support, but go beyond that</a> Politico: The head of the National Republican Senatorial Committee also said the committee will back all incumbents, whether Trump likes them or not. 
  <p class="updated_time"> 12:39 PM CT, Nov. 07 </p> 
  <a href="https://www.politico.com/news/2021/11/07/election-voters-message-action-klain-520042">'Voters sent a message on Tuesday' for more action, Klain says</a> Politico: “In my opinion,” he said, “it’s been a rough and tough year.” 
  <p class="updated_time"> 12:16 PM CT, Nov. 07 </p> 
  <a href="https://www.nytimes.com/2021/11/07/us/politics/afghanistan-war-marines.html">Young Marines in Kabul Were Left to Run Final Days of Evacuation</a> NYT: The young Marines in Kabul were left to determine who was evacuated from Afghanistan and who was left behind. The cost was high. 
+ <p class="updated_time"> 12:14 PM CT, Nov. 07 </p> 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-07/thousands-demonstrate-in-ethiopia-against-rebels-interference">Thousands Demonstrate in Ethiopia Against Rebels, Interference</a> Bloomberg: Tens of thousands of residents of Addis Ababa took to the streets on Sunday to denounce rebel forces that have threatened to march on Ethiopia’s capital city and to reject foreign involvement in the country’s civil war. 
  <p class="updated_time"> 12:09 PM CT, Nov. 07 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-07/macron-leads-in-first-round-polling-with-25-lci-poll-shows">Macron Leads in First-Round Polling With 25%, LCI Poll Shows</a> Bloomberg: French President Emmanuel Macron would get 25% or more of the votes in the first round of the election if voting were held today, according to a poll done by Ifop-Fiducial for LCI television and Le Figaro. 
  <p class="updated_time"> 11:30 AM CT, Nov. 07 </p> 
@@ -352,8 +356,6 @@ permalink: /projects/news/
  <a href="https://www.washingtonpost.com/politics/2021/11/06/what-does-infrastructure-packages-passing-mean-democrats-bigger-social-spending-bill/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">What does infrastructure package’s passing mean for the Democrats’ bigger social spending bill?</a> WaPo: A number of hurdles remain. Let's walk through them. 
  <p class="updated_time"> 10:18 AM CT, Nov. 06 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/06/how-biden-and-pelosi-saved-bif-495005">POLITICO Playbook: How Biden and Pelosi saved BIF</a> Politico: And President Joe Biden secures the biggest win of his presidency so far. 
- <p class="updated_time"> 09:54 AM CT, Nov. 06 </p> 
- <a href="https://www.politico.com/news/2021/11/06/biden-infrastructure-vote-519861">Biden hails infrastructure win as ‘monumental step forward’</a> Politico: “Finally, infrastructure week,” a beaming Biden told reporters. 
  <p class="updated_time"> 09:32 AM CT, Nov. 06 </p> 
  <a href="https://www.washingtonpost.com/politics/2021/11/06/fix-gop-infrastructure-defections/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">GOP erupts over its House members bailing out Biden</a> WaPo: Without GOP support, the bill didn't have a majority. And the right wing is out for blood. 
  <p class="updated_time"> 09:32 AM CT, Nov. 06 </p> 
@@ -416,8 +418,6 @@ permalink: /projects/news/
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/GGxOTUDjPq8/index.html">State Department establishes task force on Ethiopia as conflict rages</a> CNN: The State Department has established a new task force to oversee its "planning, management and logistics related to events in Ethiopia," a spokesperson confirmed Friday. 
  <p class="updated_time"> 04:43 PM CT, Nov. 05 </p> 
  <a href="https://www.washingtonpost.com/politics/2021/11/05/aaron-rodgers-vaccine-skeptic-whataboutism/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Aaron Rodgers and vaccine-skeptic whataboutism</a> WaPo: The Packers quarterback 
- <p class="updated_time"> 04:37 PM CT, Nov. 05 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-05/apple-loosens-mask-rules-u-s-clears-at-home-test-virus-update">Court Halts U.S. Mandate; Europe Hit by New Wave: Virus Update</a> Bloomberg: A federal appeals court temporarily halted nationwide implementation of the Biden administration’s mandate that all employees at companies with more than 100 workers must get Covid-19 vaccinations by Jan. 4. 
  <p class="updated_time"> 03:34 PM CT, Nov. 05 </p> 
  <a href="https://www.politico.com/news/2021/11/05/pentagon-biden-nuclear-weapons-519738">Pentagon bearing down on Biden to shelve nuclear reforms</a> Politico: The president has pledged to narrow the role of atomic weapons. But others cite China to argue for the status quo. 
  <p class="updated_time"> 03:20 PM CT, Nov. 05 </p> 
