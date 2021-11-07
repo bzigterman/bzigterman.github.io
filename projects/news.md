@@ -7,12 +7,22 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:25 PM CT, Nov. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-59195399?at_medium=RSS&at_campaign=KARANGA">Iraqi PM al-Kadhimi survives Baghdad 'assassination attempt'</a> BBC: Mustafa al-Kadhimi said he was unhurt in the attack on his house, said to be by an armed drone. 
+ <p class="updated_time"> 07:55 PM CT, Nov. 06 </p> 
+ <a href="https://www.npr.org/2021/11/06/1053226380/astroworld-concert-tragedies-love-parade-pearl-jam-the-who-rolling-stones">Astroworld Festival joins a list of historical concert tragedies</a> NPR: Astroworld Festival calls to mind other rare but traumatic incidents at concerts and festivals throughout the last half-century. Here's a timeline of those tragedies. 
+ <p class="updated_time"> 07:39 PM CT, Nov. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/science-environment-59193769?at_medium=RSS&at_campaign=KARANGA">COP26: Time to sober up</a> BBC: There's been progress - but huge hurdles remain to be cleared in the final week of talks in Glasgow. 
+ <p class="updated_time"> 07:26 PM CT, Nov. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59174642?at_medium=RSS&at_campaign=KARANGA">Sudan coup protesters: 'They cannot kill us all'</a> BBC: Despite the bloody crackdown, many Sudanese remain determined to overturn the military takeover. 
+ <p class="updated_time"> 07:22 PM CT, Nov. 06 </p> 
+ <a href="https://www.nytimes.com/2021/11/06/world/americas/biden-osha-vaccine-mandate-blocked.html">Biden's Vaccine Mandate Temporarily Blocked, Foreshadowing Uphill Battle</a> NYT: A stay granted by a federal appeals court in Louisiana could signal an uphill battle for the administration in getting the entire American work force vaccinated. 
+ <p class="updated_time"> 07:21 PM CT, Nov. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-59167119?at_medium=RSS&at_campaign=KARANGA">Nicaragua's Ortega courts isolation with one-sided vote</a> BBC: With most of the opposition candidates in jail, the president looks set to win another term. 
  <p class="updated_time"> 07:06 PM CT, Nov. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-59186087?at_medium=RSS&at_campaign=KARANGA">Climate: Making the BBC’s Life at 50C season</a> BBC: The BBC’s Life at 50C season, follows those people living on the front line of climate change. 
  <p class="updated_time"> 07:03 PM CT, Nov. 06 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59178047?at_medium=RSS&at_campaign=KARANGA">Former K-Pop star Henry Lau's art work on show in London</a> BBC: Former K-Pop boy band star Henry Lau trades the mic in for a tin of paint for his latest project. 
- <p class="updated_time"> 06:59 PM CT, Nov. 06 </p> 
- <a href="https://www.nytimes.com/2021/11/06/world/americas/biden-osha-vaccine-mandate-blocked.html">Court Temporarily Blocks Biden’s Vaccine Mandate for Large Companies</a> NYT: A stay granted by a federal appeals court in Louisiana could signal an uphill battle for the administration in getting the entire American work force vaccinated. 
  <p class="updated_time"> 05:54 PM CT, Nov. 06 </p> 
  <a href="https://www.nytimes.com/2021/11/05/arts/music/marilia-mendonca-dead.html">Marília Mendonça, Brazilian Pop Singer, Dies in Plane Crash at 26</a> NYT: Ms. Mendonça, who was a social media sensation with millions of followers, was iconic in a type of Brazilian country music called sertanejo. 
  <p class="updated_time"> 05:41 PM CT, Nov. 06 </p> 
@@ -99,8 +109,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59147493?at_medium=RSS&at_campaign=KARANGA">Paris attacks trial: Humdrum lives that turned to mass murder</a> BBC: For four days the Paris attacks heard this week of the ordinary backgrounds of the 14 defendants. 
  <p class="updated_time"> 07:17 PM CT, Nov. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59168993?at_medium=RSS&at_campaign=KARANGA">The Rotterdam museum set to display its entire art collection</a> BBC: The Depot in Rotterdam opens on Saturday, revealing its entire collection of 150,000 art objects. 
- <p class="updated_time"> 07:12 PM CT, Nov. 05 </p> 
- <a href="https://www.bbc.co.uk/news/in-pictures-59174460?at_medium=RSS&at_campaign=KARANGA">Week in pictures: 30 October - 5 November 2021</a> BBC: A selection of powerful images from all over the globe, taken this week. 
  <p class="updated_time"> 07:04 PM CT, Nov. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-59186088?at_medium=RSS&at_campaign=KARANGA">Colin Powell: Funeral for 'great lion with big heart'</a> BBC: US presidents, past and present, attended the service to remember the former secretary of state. 
  <p class="updated_time"> 07:02 PM CT, Nov. 05 </p> 
@@ -109,8 +117,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/science-environment-59177088?at_medium=RSS&at_campaign=KARANGA">Ros Atkins on… tree planting and climate change</a> BBC: Ros Atkins looks at why vast tree-planting initiatives are concerning some experts. 
  <p class="updated_time"> 06:06 PM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/05/climate/cop26-john-kerry.html">John Kerry Lauds Progress at COP26 but Warns, ‘Job Not Done.’</a> NYT: Mr. Kerry, President Biden’s climate envoy, acknowledged that many of the promises being put forward in Glasgow were only that — promises. 
- <p class="updated_time"> 05:46 PM CT, Nov. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-59186654?at_medium=RSS&at_campaign=KARANGA">Marilia Mendonca: Popular Brazil singer dies in plane crash at 26</a> BBC: Marília Mendonça, one of Brazil's most famous singers, was known for her songs focussing on women. 
  <p class="updated_time"> 05:08 PM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/04/world/americas/biden-aide-covid-scotland.html">A White House aide who traveled abroad with Biden tests positive.</a> NYT: President Biden was not in close contact with the aide, who remains quarantined in Scotland and has not shown symptoms of Covid-19. 
  <p class="updated_time"> 04:39 PM CT, Nov. 05 </p> 
@@ -125,10 +131,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/05/world/europe/cop-protests.html">At COP26, Youth Want Action, Accountability as Protesters Rally</a> NYT: For many, the climate conference has inspired mixed emotions: concern that their voices were not really being listened to, but also hope that their presence would help drive change. 
  <p class="updated_time"> 12:47 PM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/05/world/middleeast/erdogan-turkey-cop26.html">As Turkey Chafes at Erdogan, He Gets Spikier Abroad</a> NYT: President Recep Tayyip Erdogan canceled an appearance at the global climate talks over a perceived slight, part of a pattern of creating international dramas to bolster his domestic standing. 
- <p class="updated_time"> 12:14 PM CT, Nov. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-49918719?at_medium=RSS&at_campaign=KARANGA">Greta Thunberg: Who is the climate campaigner and what are her aims?</a> BBC: The Swedish teenager started a climate change protest that grew into a global movement. 
- <p class="updated_time"> 11:57 AM CT, Nov. 05 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-59176666?at_medium=RSS&at_campaign=KARANGA">My Day at COP26: 'By helping out delegates I'm remembering granddad'</a> BBC: Harjot Singh Kambo is one of an army of volunteers helping COP26 visitors find their way around. Here he explains why the task is a very personal one for him. 
  <p class="updated_time"> 11:17 AM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/04/world/europe/brexit-britain-france-johnson-macron.html">With Fish, Trucks and Submarines, U.K. and France Bicker Over Brexit</a> NYT: A recent dispute over fishing rights illuminates a broader and more fundamental disagreement over Britain’s decision to leave the European Union. 
  <p class="updated_time"> 10:47 AM CT, Nov. 05 </p> 
@@ -165,12 +167,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59174876?at_medium=RSS&at_campaign=KARANGA">Abba on new album Voyage: We don't need to prove anything</a> BBC: As the band release Voyage, Benny and Bjorn speak to the BBC about being compared to their old music. 
  <p class="updated_time"> 02:56 AM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/05/world/europe/russia-nuclear-power-climate-change.html">A Nuclear-Powered Shower? Russia Tests a Climate Innovation.</a> NYT: A remote Siberian town now has its own miniature nuclear plant as a Russian state company tests a new model for residential heating. Some see it as a tool to minimize climate change. 
- <p class="updated_time"> 02:42 AM CT, Nov. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-59157836?at_medium=RSS&at_campaign=KARANGA">COP26: Emissions of rich put climate goals at risk - study</a> BBC: The carbon footprint of the wealthiest will grow but that of the poorest will stay small, a study says. 
  <p class="updated_time"> 01:24 AM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/05/world/australia/laughs-no-more-australians-are-reassessing-a-beloved-cartoonist.html">Laughs No More? Australians Are Reassessing a Beloved Cartoonist.</a> NYT: I used to think Michael Leunig’s drawings embodied the soul of our nation. Now, I’m not so sure. 
- <p class="updated_time"> 09:08 PM CT, Nov. 04 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-59133056?at_medium=RSS&at_campaign=KARANGA">Wishcycling: The dos and don'ts of being good at recycling</a> BBC: Ever paused over the recycling bin, wondering whether to add a pizza box? You could be a wishcycler. 
  <p class="updated_time"> 08:18 PM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/arts/television/movies-tv-australia-new-streaming-netflix-amazon-stan-november.html">The Best Movies and TV Shows New to Netflix, Amazon and Stan in Australia in November</a> NYT: Our picks for November, including ‘tick, tick … BOOM!’, ‘The Great’ Season 2, and ‘Passing’ 
  <p class="updated_time"> 08:13 PM CT, Nov. 04 </p> 
@@ -189,8 +187,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/04/world/africa/ethiopia-tigray-crackdown.html">Crackdown Sweeps Ethiopia’s Capital as War Draws Near</a> NYT: Government forces were going to door to door in the Ethiopian capital, rounding up ethnic Tigrayans, members of the same ethnic group as the rebels closing in. 
  <p class="updated_time"> 03:43 PM CT, Nov. 04 </p> 
  <a href="https://www.npr.org/2021/11/04/1052485290/migrant-workers-who-clean-up-climate-disasters-for-work-often-pay-a-price">Migrant workers who clean up climate disasters for work often pay a price</a> NPR: NPR's Audie Cornish speaks with Sarah Stillman, staff writer at The New Yorker, who spent the past year with some of the growing number of migrant laborers who follow climate disasters for work. 
- <p class="updated_time"> 03:23 PM CT, Nov. 04 </p> 
- <a href="https://www.npr.org/2021/11/04/1052485248/rebels-are-taking-aim-at-ethiopias-capital-after-1-year-of-civil-war">Rebels are taking aim at Ethiopia's capital after 1 year of civil war</a> NPR: Two rebel militias now threaten Ethiopia's capital as the current conflict marks its one-year anniversary. 
  <p class="updated_time"> 01:33 PM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/world/africa/south-africa-election-anc.html">A.N.C. Suffers Worst Election Setback Since End of Apartheid</a> NYT: In nationwide municipal elections, South Africans rebuked the African National Congress, handing it less than half the collective vote for the first time in its history. 
  <p class="updated_time"> 12:01 PM CT, Nov. 04 </p> 
@@ -210,14 +206,18 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
- <p class="updated_time"> 07:03 PM CT, Nov. 06 </p> 
+ <p class="updated_time"> 07:47 PM CT, Nov. 06 </p> 
+ <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sWdL-IYaLvg/index.html">Chris Christie delivers tough message to Republican audience, saying GOP gains hinge on moving on from 2020</a> CNN: While the other potential GOP White House aspirants continue to tip-toe around former President Donald Trump, former New Jersey Gov. Chris Christie argued Saturday that his week's election results marked the "beginning of a new era" for the Republican Party -- one that looks "forward and not backwards" as he addressed the Republican Jewish Coalition in Las Vegas. 
+ <p class="updated_time"> 07:35 PM CT, Nov. 06 </p> 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-07/iraqi-prime-minister-survives-assassination-attempt-by-drone">Iraqi Prime Minister Survives Assassination Attempt by Drone</a> Bloomberg: Iraqi Prime Minister Mustafa al-Kadhimi survived an assassination attempt early Sunday after an explosive-laden drone targeted his residence inside the Green Zone. 
+ <p class="updated_time"> 07:23 PM CT, Nov. 06 </p> 
+ <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2NkhBglAY6w/index.html">Federal appeals court issues stay of Biden administration's vaccine mandate for private companies</a> CNN: A federal appeals court temporarily blocked the Biden administration's new vaccine rules that could apply to larger employers, certain health care workers and federal contractors. 
+ <p class="updated_time"> 07:21 PM CT, Nov. 06 </p> 
  <a href="https://www.nytimes.com/2021/11/06/us/politics/defectors-infrastructure-bill-squad.html">In Infrastructure Votes, 19 Members Broke With Their Party</a> NYT: The defectors who crossed partisan lines in Congress include 13 Republicans who supported the bill and the six liberal members of “The Squad,” who opposed it. 
  <p class="updated_time"> 06:48 PM CT, Nov. 06 </p> 
  <a href="https://www.nytimes.com/2021/11/06/us/politics/infrastructure-black-caucus-vote.html">How a $1 Trillion Infrastructure Bill Survived an Intraparty Brawl</a> NYT: Speaker Nancy Pelosi agreed to a deal proposed by the Congressional Black Caucus, mobilizing one faction of Democratic lawmakers to win over two others. 
  <p class="updated_time"> 06:45 PM CT, Nov. 06 </p> 
  <a href="https://www.washingtonpost.com/politics/biden-infrastructure-presidency/2021/11/06/4eaa5372-3f05-11ec-8ee9-4f14a26749d1_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">After months of setbacks, Biden finally gets long-sought win on infrastructure</a> WaPo: With his presidency on the ropes, Biden felt a new sense of urgency to produce legislative results — and a willingness to accept greater risk in pursuing them. 
- <p class="updated_time"> 06:44 PM CT, Nov. 06 </p> 
- <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2NkhBglAY6w/index.html">Federal appeals court issues stay of Biden administration's vaccine mandate for private companies</a> CNN: A federal appeals court temporarily blocked the Biden administration's new vaccine rules that could apply to larger employers, certain health care workers and federal contractors. 
  <p class="updated_time"> 05:25 PM CT, Nov. 06 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-06/australia-u-k-confident-of-free-trade-agreement-by-year-end">Australia, U.K. ‘Confident’ of Free Trade Agreement by Year-End</a> Bloomberg: Australia and the U.K. are both “very confident” that their free trade agreement would be finalized by year-end, said David McCredie, chief executive officer of the Australian British Chamber of Commerce. 
  <p class="updated_time"> 05:15 PM CT, Nov. 06 </p> 
@@ -232,8 +232,6 @@ permalink: /projects/news/
  <a href="https://www.bloomberg.com/news/articles/2021-11-06/china-s-stagflation-risk-builds-as-growth-slows-eco-week-ahead">China’s Stagflation Risk Builds as Growth Slows: Eco Week Ahead</a> Bloomberg: China’s inflation risks are building while new Covid-19 outbreaks are dimming the outlook for economic growth, throwing the spotlight back on policy makers as the Communist Party’s top leaders gather for a crucial political meeting this week. 
  <p class="updated_time"> 03:14 PM CT, Nov. 06 </p> 
  <a href="https://www.nytimes.com/2021/11/05/us/politics/house-infrastructure-reconciliation.html">House Passes $1 Trillion Infrastructure Bill, Putting Social Policy Bill on Hold</a> NYT: Progressives who had threatened to sink the measure agreed to support it after extracting a promise from moderates that they would ultimately back the social safety net and climate bill. 
- <p class="updated_time"> 02:44 PM CT, Nov. 06 </p> 
- <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sWdL-IYaLvg/index.html">Chris Christie delivers tough message to Republican audience, saying GOP gains hinge on moving on from 2020</a> CNN: While the other potential GOP White House aspirants continue to tip-toe around former President Donald Trump, former New Jersey Gov. Chris Christie argued Saturday that his week's election results marked the "beginning of a new era" for the Republican Party -- one that looks "forward and not backwards" as he addressed the Republican Jewish Coalition in Las Vegas. 
  <p class="updated_time"> 02:21 PM CT, Nov. 06 </p> 
  <a href="https://www.nytimes.com/2021/11/05/us/politics/guantanamo-torture-foia-cia.html">Some Sept. 11 Trial Secrets May Not Be Secrets Anymore</a> NYT: Prosecutors agreed to compare hundreds if not thousands of pages of classified documents in the case against 9/11 defendants with material released under the Freedom of Information Act. 
  <p class="updated_time"> 02:19 PM CT, Nov. 06 </p> 
@@ -352,8 +350,6 @@ permalink: /projects/news/
  <a href="https://www.bloomberg.com/news/articles/2021-11-06/cop-and-carbon-trading-can-this-time-be-different">COP and Carbon Trading: Can This Time Be Different?</a> Bloomberg: Negotiators are trying to&nbsp;nail down a deal they’ve been chasing for six years. 
  <p class="updated_time"> 04:21 AM CT, Nov. 06 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-06/france-says-sudan-coup-challenges-july-paris-club-debt-accord">France Says Sudan Coup Challenges July Paris Club Debt Accord</a> Bloomberg: The recent coup in Sudan puts into question a July Paris Club agreement to rework $23.5 billion of Sudan’s debt, France’s foreign ministry said in a statement Friday evening. 
- <p class="updated_time"> 03:57 AM CT, Nov. 06 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-06/son-in-law-of-jokowi-loyalist-becomes-indonesia-s-military-chief">Son-in-Law of Jokowi Loyalist Becomes Indonesia’s Military Chief</a> Bloomberg: An Indonesian parliamentary commission gave its nod for President Joko “Jokowi” Widodo’s nominee to lead the armed forces as the country seeks increased security to reopen its economy following the pandemic, and as maritime territorial disputes heighten. 
  <p class="updated_time"> 03:24 AM CT, Nov. 06 </p> 
  <a href="https://www.nytimes.com/2021/11/05/upshot/biden-budget-scorekeepers-cbo.html">2,000 Pages and Pronto! Budget Scorekeepers Are Under Pressure</a> NYT: Lawmakers want detailed estimates on the effects of the big Democratic bill, but that can take longer than they think, slowing the process. 
  <p class="updated_time"> 03:23 AM CT, Nov. 06 </p> 
