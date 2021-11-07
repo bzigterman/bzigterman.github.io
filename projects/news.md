@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:35 AM CT, Nov. 07 </p> 
+ <a href="https://www.nytimes.com/2021/11/06/world/middleeast/iraq-prime-minister-drone.html">Iraq Says Drone Strike Was Aimed at Prime Minister</a> NYT: Prime Minister Mustafa al-Kadhimi was unharmed in the attack on his residence early Sunday, the government said. 
  <p class="updated_time"> 04:59 AM CT, Nov. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59195399?at_medium=RSS&at_campaign=KARANGA">Iraqi PM al-Kadhimi survives drone attack on his home</a> BBC: Mustafa al-Kadhimi says he was not hurt in the attack by a drone carrying explosives in Baghdad. 
  <p class="updated_time"> 04:00 AM CT, Nov. 07 </p> 
@@ -25,8 +27,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/07/world/europe/france-confession-abuse.html">French Clerical Abuse Report Puts Spotlight on Confession</a> NYT: In rare instances, it noted, the secrecy around the sacrament had been used to cover up abuse cases, again raising issues of whether church or state law should prevail. 
  <p class="updated_time"> 01:58 AM CT, Nov. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59196462?at_medium=RSS&at_campaign=KARANGA">Harvey Milk: US Navy launches ship named for gay rights leader</a> BBC: The USNS Harvey Milk is one of six new ships named after famous civil rights leaders. 
- <p class="updated_time"> 01:58 AM CT, Nov. 07 </p> 
- <a href="https://www.nytimes.com/2021/11/06/world/middleeast/iraq-prime-minister-drone.html">Iraq Says Drone Strike Was Aimed at Prime Minister</a> NYT: Prime Minister Mustafa al-Kadhimi was unharmed in the attack on his residence early Sunday, the government said. 
  <p class="updated_time"> 01:38 AM CT, Nov. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-59185768?at_medium=RSS&at_campaign=KARANGA">ICYMI: From bright lights to great heights</a> BBC: Our weekly video round-up of some of the stories that might have passed you by: In Case You Missed It. 
  <p class="updated_time"> 01:19 AM CT, Nov. 07 </p> 
