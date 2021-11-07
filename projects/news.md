@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:00 PM CT, Nov. 07 </p> 
+ <p class="updated_time"> 03:23 PM CT, Nov. 07 </p> 
  <a href="https://www.nytimes.com/2021/11/07/world/americas/nicaragua-election-ortega.html">In Nicaragua Election, Ortega Crushes Dissent</a> NYT: President Daniel Ortega quashed the opposition and struck fear in voters, all but guaranteeing his victory in a presidential contest on Sunday. 
  <p class="updated_time"> 02:40 PM CT, Nov. 07 </p> 
  <a href="https://www.nytimes.com/2021/11/07/world/europe/uk-virus-surge-booster-shots.html">U.K. Health Secretary Urges People to Get Boosters</a> NYT: “If we all come together and play our part, we can get through this challenging winter, avoid a return to restrictions and enjoy Christmas,” said Sajid Javid, the health secretary. 
@@ -220,6 +220,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 03:24 PM CT, Nov. 07 </p> 
  <a href="https://www.politico.com/news/2021/11/07/nicaragua-ortega-election-sandinistas-520133">Nicaragua’s Ortega seeks reelection in questioned vote</a> Politico: He blasted the United States for interference in Nicaragua. 
+ <p class="updated_time"> 03:00 PM CT, Nov. 07 </p> 
+ <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KHemrSyJXcs/index.html">Jayapal on why progressives chose pragmatism: 'We need to keep our eyes on the prize'</a> CNN: The Congressional Progressive Caucus got the White House message -- no more delay. Members embraced a compromise economic package as the best available deal, and accepted private assurances of Senate support. 
  <p class="updated_time"> 02:32 PM CT, Nov. 07 </p> 
  <a href="https://www.nytimes.com/2021/11/07/travel/us-travel-ban-reunions.html">As U.S. Travel Changes Near, Global Travelers Eagerly Await Reunions</a> NYT: On Monday, travelers from many other countries who are fully vaccinated against the coronavirus will be allowed to enter the United States. 
  <p class="updated_time"> 02:31 PM CT, Nov. 07 </p> 
@@ -350,8 +352,6 @@ permalink: /projects/news/
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/y2-yFcKx5oU/index.html">Biden gets his infrastructure win and an education on a new Washington</a> CNN: Final passage of a massive public works bill Friday provided President Joe Biden what had increasingly seemed like a vanishing ideal: A major, bipartisan accomplishment that has the power to improve the lives of millions of Americans. 
  <p class="updated_time"> 11:52 AM CT, Nov. 06 </p> 
  <a href="https://www.nytimes.com/2021/11/06/us/states-infrastructure-bill-funding.html">This Is Where the States Want Billions in Infrastructure Funding Spent</a> NYT: The plan finally approved on Friday will address transportation, water, broadband, energy and public safety needs that have been building for years, sometimes decades. 
- <p class="updated_time"> 11:15 AM CT, Nov. 06 </p> 
- <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/42vd3LAnnC4/index.html">Merrick Garland is caught in a pickle with Steve Bannon</a> CNN: It's been 16 days since the Democratic-controlled House approved a contempt resolution against former Trump White House political Svengali Steve Bannon for his refusal to provide testimony to the January 6 committee. 
  <p class="updated_time"> 11:01 AM CT, Nov. 06 </p> 
  <a href="https://www.politico.com/news/2021/11/06/infrastructure-bill-build-back-better-519894">How Biden’s infrastructure win falls short in one big area</a> Politico: The bill is historic in its scope with $550 billion in new money funneled into hard infrastructure, from overhauling bridges to supercharging Amtrak's most popular rail corridor in the Northeast. 
  <p class="updated_time"> 11:00 AM CT, Nov. 06 </p> 
