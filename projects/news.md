@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:38 AM CT, Nov. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/world-59185768?at_medium=RSS&at_campaign=KARANGA">ICYMI: From bright lights to great heights</a> BBC: Our weekly video round-up of some of the stories that might have passed you by: In Case You Missed It. 
  <p class="updated_time"> 01:19 AM CT, Nov. 07 </p> 
  <a href="https://www.nytimes.com/2021/11/06/world/americas/costa-rica-covid-vaccine-children.html">Costa Rica moves to require Covid shots for children.</a> NYT: The Central American nation’s health ministry said on Friday it was adding Covid-19 to the list of required vaccinations for people 18 and younger. 
  <p class="updated_time"> 01:18 AM CT, Nov. 07 </p> 
@@ -175,8 +177,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/04/arts/television/movies-tv-australia-new-streaming-netflix-amazon-stan-november.html">The Best Movies and TV Shows New to Netflix, Amazon and Stan in Australia in November</a> NYT: Our picks for November, including ‘tick, tick … BOOM!’, ‘The Great’ Season 2, and ‘Passing’ 
  <p class="updated_time"> 08:13 PM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/world/canada/saskatoon-moose-school.html">In Saskatoon, a Moose on the Loose Is Returned to the Wild</a> NYT: In a prairie city, a young moose on the loose crashed into a children’s classroom, sparking a mix of delight and concern on social media. 
- <p class="updated_time"> 07:39 PM CT, Nov. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-59166607?at_medium=RSS&at_campaign=KARANGA">COP26: Indigenous Amazon activist 'got death threats' after speech</a> BBC: Txai Suruí says she worries for her safety and that of other young climate activists. 
  <p class="updated_time"> 07:23 PM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/world/europe/covid-surge-europe-who.html">W.H.O. Official: 'Europe Is Back at Epicenter of the Pandemic'</a> NYT: The World Health Organization said Europe was responsible for nearly three-fifths of the world’s recent coronavirus cases, and that deaths in the region were surging. 
  <p class="updated_time"> 05:54 PM CT, Nov. 04 </p> 
