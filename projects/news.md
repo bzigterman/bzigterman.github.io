@@ -7,6 +7,12 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:33 AM CT, Nov. 07 </p> 
+ <a href="https://www.nytimes.com/2021/11/07/world/asia/myanmar-bill-richardson.html">Veteran U.S. Diplomat Comes Under Criticism for a Trip to Myanmar</a> NYT: Bill Richardson, a former ambassador to the U.N., said that he had held “productive” talks with the general who led the February coup. Rights activists said he gave the junta an air of legitimacy. 
+ <p class="updated_time"> 06:00 AM CT, Nov. 07 </p> 
+ <a href="https://www.npr.org/2021/11/07/1053275827/nicaragua-may-be-holding-presidential-elections-but-it-is-edging-toward-dictator">Nicaragua may be holding presidential elections, but it is edging toward dictatorship</a> NPR: Nicaraguan President Daniel Ortega is running for a fourth consecutive term to remain leader of the Central American country in elections that critics and U.S. officials have labeled a "sham." 
+ <p class="updated_time"> 05:52 AM CT, Nov. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/business-59182278?at_medium=RSS&at_campaign=KARANGA">Elon Musk holds Twitter vote over $21bn Tesla share sale</a> BBC: The Tesla boss promises to honour the outcome of the poll, whichever way it goes. 
  <p class="updated_time"> 05:35 AM CT, Nov. 07 </p> 
  <a href="https://www.nytimes.com/2021/11/06/world/middleeast/iraq-prime-minister-drone.html">Iraq Says Drone Strike Was Aimed at Prime Minister</a> NYT: Prime Minister Mustafa al-Kadhimi was unharmed in the attack on his residence early Sunday, the government said. 
  <p class="updated_time"> 05:13 AM CT, Nov. 07 </p> 
@@ -159,8 +165,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/05/1052682152/cop26-climate-pledges-iea-temperature-rise-carbon">Latest climate pledges could limit global temperature rise, a new report says</a> NPR: The International Energy Agency says that if nations honor their latest pledges to reduce greenhouse gas emissions, global temperatures could be held to 1.8 degrees Celsius above preindustrial levels. 
  <p class="updated_time"> 09:58 AM CT, Nov. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-46138064?at_medium=RSS&at_campaign=KARANGA">Delhi pollution: Are Diwali fireworks to blame?</a> BBC: Do fireworks let off during Diwali celebrations really cause that much pollution? 
- <p class="updated_time"> 09:41 AM CT, Nov. 05 </p> 
- <a href="https://www.nytimes.com/2021/11/04/science/astronomy-decadal-survey-telescope.html">A New 10-Year Plan for the Cosmos</a> NYT: On astronomers’ wish list for the next decade: two giant telescopes and a space telescope to search for life and habitable worlds beyond Earth. 
  <p class="updated_time"> 09:29 AM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/05/world/asia/india-diwali-covid.html">In India, Fears Grow That Diwali Celebrations Could Fuel Another Virus Spike</a> NYT: Epidemiologists are concerned that Covid cases will surge after shoppers thronged markets and hundreds of thousands traveled around the country to celebrate the festival. 
  <p class="updated_time"> 09:28 AM CT, Nov. 05 </p> 
@@ -175,8 +179,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/04/world/europe/uk-politics-boris-johnson-owen-paterson.html">Clash With Corruption Watchdog Has Boris Johnson Retreating, Again</a> NYT: Britain’s prime minister intervened in the case of a Conservative Party lawmaker who faced suspension. A ferocious blowback caused him to retreat, a now familiar path. 
  <p class="updated_time"> 05:04 AM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/05/world/asia/japan-quarantine-covid.html">Japan Will Cut Quarantine for Business Travelers to 3 Days</a> NYT: The easing of rules comes as cases decline significantly. The country has virtually closed its borders since the start of the pandemic. 
- <p class="updated_time"> 05:01 AM CT, Nov. 05 </p> 
- <a href="https://www.npr.org/2021/11/05/1052393792/tonga-covid-case-countries-opening-borders-for-tourism">How does a country with no COVID reopen its borders? These places are finding out</a> NPR: There is a glaring irony of the pandemic: Countries like the island nation of Tonga that have managed to keep the virus at bay may be some of the last to recover from the economic impact. 
  <p class="updated_time"> 04:36 AM CT, Nov. 05 </p> 
  <a href="https://www.wsj.com/articles/global-food-prices-surge-as-inflation-spreads-11636119367">Global Food Prices Surge as Inflation Spreads</a> WSJ: Bad harvests and supply bottlenecks are leaving poor families hungry in the developing world, from Peru to the Philippines. 
  <p class="updated_time"> 04:00 AM CT, Nov. 05 </p> 
@@ -210,8 +212,22 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:27 AM CT, Nov. 07 </p> 
+ <a href="https://www.politico.com/news/2021/11/07/iraq-failed-assassination-attempt-519973">Failed assassination bid against Iraq PM ramps up tension</a> Politico: “Cowardly rocket and drone attacks don’t build homelands and don’t build a future,” the prime minister said. 
+ <p class="updated_time"> 07:02 AM CT, Nov. 07 </p> 
+ <a href="https://www.politico.com/news/2021/11/07/palestinians-israel-jerusalem-mission-519944">Palestinians, Israel spar over U.S. mission in Jerusalem</a> Politico: “There’s no room for another American consulate in Jerusalem,”  Israel’s prime minister said. 
+ <p class="updated_time"> 07:01 AM CT, Nov. 07 </p> 
+ <a href="https://www.politico.com/news/2021/11/07/biden-faces-heat-pipeline-propane-cost-519788">Pipeline pile-on: Biden faces heat from Canada, Republicans, Michigan’s governor and the price of propane</a> Politico: The president is caught between environmentalists and Indigenous groups on one side and Republicans blaming him for soaring energy prices on the other. 
+ <p class="updated_time"> 07:00 AM CT, Nov. 07 </p> 
+ <a href="https://www.politico.com/news/2021/11/07/miriam-adelson-megadonor-back-in-politics-519912">The $30 billion woman: Megadonor Miriam Adelson leaps back into politics</a> Politico: Adelson is taking her first political meetings since her husband Sheldon died, seeing possible 2024 candidates and a key Senate contender. 
+ <p class="updated_time"> 07:00 AM CT, Nov. 07 </p> 
+ <a href="https://www.politico.com/news/2021/11/07/dems-search-for-answers-expect-crushed-in-2022-519901">Democrats just got their clocks cleaned. No one seems ready to change anything.</a> Politico: There’s little evidence suggesting the party is capable of changing course before the midterms. 
  <p class="updated_time"> 06:45 AM CT, Nov. 07 </p> 
- <a href="https://www.politico.com/news/2021/11/07/nevada-democrats-harry-reid-machine-and-pro-sanders-forces-519919">Dems sweat civil war between Harry Reid machine and pro-Sanders forces</a> Politico: A bitter feud has divided Democrats in a key swing state — and dragged in the national party. 
+ <a href="https://www.politico.com/news/2021/11/07/nevada-democrats-harry-reid-machine-and-pro-sanders-forces-519919">Democrats sweat midterm fallout from Nevada party crack-up</a> Politico: A bitter feud has divided Dems in a key swing state — and dragged in the national party. 
+ <p class="updated_time"> 06:00 AM CT, Nov. 07 </p> 
+ <a href="https://www.npr.org/2021/11/07/1053214146/biden-infrastructure-bill-politics">Biden's infrastructure win gives him some momentum. Here's why he needs that</a> NPR: President Biden's polls have plunged. As his agenda stalled, his party lost the Virginia gubernatorial race. The infrastructure win gives him some lift as he now tries to pass a much-tougher bill. 
+ <p class="updated_time"> 06:00 AM CT, Nov. 07 </p> 
+ <a href="https://www.washingtonpost.com/politics/courts_law/supreme-court-john-henry-ramirez-execution/2021/11/06/82711ed8-3e2f-11ec-a493-51b0252dea0c_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Supreme Court considers a minister’s role at the time an inmate is put to death</a> WaPo: Members of Second Baptist Church say they are answering God’s call with their outreach to those on Texas’s death row. 
  <p class="updated_time"> 05:30 AM CT, Nov. 07 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-07/johnson-can-t-duck-tory-sleaze-row-as-u-k-criticism-mounts">Johnson Can’t Duck Tory Sleaze Row as U.K. Criticism Mounts</a> Bloomberg: U.K. Prime Minister Boris Johnson is facing growing criticism over his party’s conduct, as a former Conservative prime minister and opposition members speak out against him following a lobbying scandal. 
  <p class="updated_time"> 05:00 AM CT, Nov. 07 </p> 
@@ -228,8 +244,6 @@ permalink: /projects/news/
  <a href="https://www.bloomberg.com/news/articles/2021-11-07/houston-leaders-seek-clues-for-concert-mishap-that-killed-8">Houston Leaders Seek Clues for Concert Mishap That Killed 8</a> Bloomberg: Houston (AP) -- Authorities said they would watch video, interview witnesses and review concert protocols to determine how eight people died at a Houston music festival when fans suddenly surged toward the stage to watch rapper Travis Scott. 
  <p class="updated_time"> 11:10 PM CT, Nov. 06 </p> 
  <a href="https://www.nytimes.com/2021/11/06/us/politics/james-okeefe-project-veritas-ashley-biden.html">F.B.I. Searches James O’Keefe’s Home in Ashley Biden Diary Theft Inquiry</a> NYT: Authorities carried out a court-ordered search at the New York apartment of the Project Veritas founder two days after searching the homes of his associates. 
- <p class="updated_time"> 09:14 PM CT, Nov. 06 </p> 
- <a href="https://www.politico.com/news/2021/11/06/iraqi-prime-minister-survives-assassination-bid-with-drones-519925">Iraqi prime minister survives assassination bid with drones</a> Politico: In a statement, the government said the drones tried to hit al-Kadhimi’s home. 
  <p class="updated_time"> 09:10 PM CT, Nov. 06 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-07/china-reports-50-local-cases-as-covid-outbreak-continues-to-grow">China Reports 50 Local Cases as Covid Outbreak Continues to Grow</a> Bloomberg: China reported 50 new local Covid-19 infections on Saturday, as authorities said stringent curbs will remain to disrupt the virus’s domestic transmission. 
  <p class="updated_time"> 09:00 PM CT, Nov. 06 </p> 
@@ -328,8 +342,6 @@ permalink: /projects/news/
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/a0M-uW67Nog/index.html">Congress passes $1.2 trillion bipartisan infrastructure bill, delivering major win for Biden</a> CNN: House Democratic leadership is scrambling to try to address concerns from a group of moderate Democrats that threaten to once again delay the timeline for votes on President Joe Biden's sweeping social safety net plan and a separate infrastructure bill, the latest sign of the obstacles facing the party as it pushes to enact its agenda. 
  <p class="updated_time"> 09:00 AM CT, Nov. 06 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-06/ortega-seen-winning-sham-nicaragua-vote-after-opponents-jailed">Ortega Seen Winning ‘Sham’ Nicaragua Vote After Opponents Jailed</a> Bloomberg: Daniel Ortega is seeking a fourth consecutive five-year term as Nicaragua’s president on Sunday in an election that the U.S. and the European Parliament say is a “sham”. 
- <p class="updated_time"> 08:19 AM CT, Nov. 06 </p> 
- <a href="https://www.politico.com/news/2021/11/06/biden-ethiopia-diplomacy-519804">Biden’s diplomacy push meets its match as Ethiopia unravels</a> Politico: U.S. officials have done almost everything in their power to try and stop the fighting. Now they're urging Americans to leave the country as rebels draw closer to the capital. 
  <p class="updated_time"> 07:38 AM CT, Nov. 06 </p> 
  <a href="https://www.washingtonpost.com/politics/2021/11/05/what-is-cbo-how-could-its-score-derail-democrats-spending-bills/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">What is the CBO, and how could its score derail Democrats’ social safety net bill?</a> WaPo: A nonpartisan office will determine whether Democrats' social safety net legislation is indeed paid for, as they claim. 
  <p class="updated_time"> 07:38 AM CT, Nov. 06 </p> 
@@ -354,8 +366,6 @@ permalink: /projects/news/
  <a href="https://www.washingtonpost.com/politics/2021/11/06/charles-dolan-steele-dossier-igor-danchenko-indictment/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">A spin doctor with ties to Russia allegedly fed the Steele dossier before fighting to discredit it</a> WaPo: Charles Dolan Jr., a PR executive who cut his teeth in Democratic politics, provided anti-Trump information, according to new charges. 
  <p class="updated_time"> 06:00 AM CT, Nov. 06 </p> 
  <a href="https://www.politico.com/news/2021/11/06/cannabis-industry-investours-sour-519742">Investors sour on cannabis after Democrats fail to help industry</a> Politico: Plummeting stock prices and lack of federal action has soured investors 
- <p class="updated_time"> 06:00 AM CT, Nov. 06 </p> 
- <a href="https://www.politico.com/news/2021/11/06/got-milk-yes-actually-too-much-519775">Got milk? Yes, actually, U.S. has too much.</a> Politico: Some parts of the nation have seen localized spikes in milk prices. But most of the nation is facing an oversupply of milk — a challenge policy makers have been struggling to address. 
  <p class="updated_time"> 06:00 AM CT, Nov. 06 </p> 
  <a href="https://www.npr.org/2021/11/06/1051652687/jan-6-panel-and-subpoenas-committee-targets-witnesses-linked-to-day-of-attack">Jan. 6 panel and subpoenas: Committee targets witnesses linked to day of attack</a> NPR: The committee investigating the attack has sent out a number of subpoenas to get information and compel people with knowledge about the events of the day to tell them what they know. 
  <p class="updated_time"> 06:00 AM CT, Nov. 06 </p> 
@@ -416,8 +426,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/05/1052968067/federal-watchdogs-want-more-power-to-investigate-wrongdoing-within-the-governmen">Federal watchdogs want more power to investigate wrongdoing within the government</a> NPR: Inspectors general are asking Congress for more job protections and the power to subpoena people for testimony in what they call an effort at greater accountability in government. 
  <p class="updated_time"> 03:23 PM CT, Nov. 05 </p> 
  <a href="https://www.npr.org/2021/11/05/1052968046/house-democrats-are-hoping-to-pass-spending-package-and-infrastructure-bill">House Democrats are hoping to pass spending package and infrastructure bill</a> NPR: Democratic leaders in the House are still hoping to vote on a large part of President Joe Biden's domestic agenda Friday. But as the clock winds down, they're struggling to round up the votes. 
- <p class="updated_time"> 03:23 PM CT, Nov. 05 </p> 
- <a href="https://www.npr.org/2021/11/05/1052968032/having-jailed-opposition-candidates-daniel-ortega-is-set-to-win-nicaragua-presid">Having jailed opposition candidates, Daniel Ortega is set to win Nicaragua presidency</a> NPR: Nicaragua's President Daniel Ortega will likely be reelected Sunday. He has jailed political opponents and ensured the vote will be in his favor. 
  <p class="updated_time"> 03:20 PM CT, Nov. 05 </p> 
  <a href="https://www.washingtonpost.com/politics/florida-house-democrats-primary/2021/11/05/1b1eaa06-3e71-11ec-a493-51b0252dea0c_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Florida recount to decide House Democratic primary to fill seat of late Rep. Hastings</a> WaPo: A dozen votes separated the top two finishers in the crowded primary. The winner will advance to a Jan. 11 election in the heavily Democratic congressional district. 
  <p class="updated_time"> 02:39 PM CT, Nov. 05 </p> 
@@ -494,8 +502,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/04/house-megabill-passage-manchin-last-word-519570">Manchin will get last word, even as House races to pass megabill</a> Politico: House Democratic leaders and progressives want to speed toward passage of a bill that won't have a smooth ride through the Senate. 
  <p class="updated_time"> 11:54 AM CT, Nov. 04 </p> 
  <a href="https://www.politico.com/news/2021/11/04/pelosi-domestic-agenda-519503">Pelosi amps up domestic-agenda pressure campaign, pressing Friday votes</a> Politico: Democratic leaders made headway in some areas, but key lawmakers were still drafting new language on immigration as late as 9 p.m. 
- <p class="updated_time"> 11:18 AM CT, Nov. 04 </p> 
- <a href="https://www.politico.com/news/2021/11/04/doj-kamala-harris-jan-6-519505">DOJ error highlights Jan. 6 mystery: Where was Kamala Harris during the attack?</a> Politico: The Justice Department is now moving to correct the record on her whereabouts. 
  <p class="updated_time"> 07:46 AM CT, Nov. 04 </p> 
  <a href="https://www.politico.com/news/2021/11/04/biden-vaccine-mandates-private-employers-519477">Biden vaccine mandates will hit after holiday season, offering relief to businesses</a> Politico: The announcement follows weeks of pressure from business leaders who complained the rules would wreak havoc on the supply chain and possibly aggravate worker shortages. 
  <p class="updated_time"> 07:02 AM CT, Nov. 04 </p> 
@@ -504,8 +510,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/huddle/2021/11/04/dems-attempt-an-end-of-week-spri-494981">Dems attempt an end-of-week sprint</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 05:13 AM CT, Nov. 04 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/04/for-dems-its-2009-all-over-again-494977">POLITICO Playbook: For Dems, it’s ’2009 all over again’</a> Politico: And New Jersey Gov. Phil Murphy wins reelection narrowly. 
- <p class="updated_time"> 03:30 AM CT, Nov. 04 </p> 
- <a href="https://www.politico.com/news/2021/11/04/latino-poll-virginia-youngkin-mcauliffe-519425">What's up with Virginia’s Latino vote?</a> Politico: Did Glenn Youngkin really win among Latinos? Or did Terry McAuliffe crush him? 
  <p class="updated_time"> 02:28 PM CT, Nov. 03 </p> 
  <a href="https://www.politico.com/news/2021/11/03/senate-republicans-voting-reform-block-519082">Senate GOP blocks latest Dem push for voting reform</a> Politico: Alaska’s Lisa Murkowski was the only Republican to join Democrats on the bill named for the late Rep. John Lewis. 
  <p class="updated_time"> 02:05 PM CT, Nov. 03 </p> 
