@@ -558,8 +558,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/10/31/democrats-race-prescription-drug-deal-517974">Dems close in on Medicare prescription drug negotiation compromise</a> Politico: The issue was left out of last week’s social spending framework, but it may yet show up in the final bill. 
  <p class="updated_time"> 10:01 AM CT, Oct. 31 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/10/31/franken-rules-out-run-against-gillibrand-494915">POLITICO Playbook: Franken rules out run against Gillibrand</a> Politico: And Glenn Youngkin and Terry McAuliffe race to the finish line in Virginia. 
- <p class="updated_time"> 09:16 AM CT, Oct. 31 </p> 
- <a href="https://www.politico.com/news/2021/10/31/kinzinger-house-republicans-trump-517943">Kinzinger wants House Republicans to find some courage</a> Politico: The Illinois Republican, who announced he was not seeking reelection, hopes those who will remain in Congress will stand up to former President Donald Trump. 
 
 
 </details>
