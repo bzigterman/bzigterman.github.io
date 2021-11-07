@@ -212,6 +212,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:12 AM CT, Nov. 07 </p> 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-07/biden-adviser-says-big-company-vaccine-mandate-on-legal-ground">Biden Adviser Says Big-Company Vaccine Mandate on Legal Ground</a> Bloomberg: President Joe Biden’s requirement for employees at companies with more than 100 workers to get Covid-19 vaccinations or regular testing is on solid legal ground, presidential adviser Cedric Richmond said. 
  <p class="updated_time"> 08:09 AM CT, Nov. 07 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sWdL-IYaLvg/index.html">Chris Christie delivers tough message to Republican audience, saying GOP gains hinge on moving on from 2020</a> CNN: While the other potential GOP White House aspirants continue to tip-toe around former President Donald Trump, former New Jersey Gov. Chris Christie argued Saturday that his week's election results marked the "beginning of a new era" for the Republican Party -- one that looks "forward and not backwards" as he addressed the Republican Jewish Coalition in Las Vegas. 
  <p class="updated_time"> 07:27 AM CT, Nov. 07 </p> 
@@ -352,8 +354,6 @@ permalink: /projects/news/
  <a href="https://www.bloomberg.com/news/articles/2021-11-06/russian-iranian-foreign-ministers-call-to-restore-nuclear-deal">Russian, Iranian Foreign Ministers Call to Restore Nuclear Deal</a> Bloomberg: Russia and Iran’s foreign ministers called for the nuclear accord with Tehran to be restored, with Iran saying it was ready to comply if the U.S. doesn’t add additional demands. 
  <p class="updated_time"> 09:16 AM CT, Nov. 06 </p> 
  <a href="https://www.npr.org/2021/11/06/1053051380/jan-6-panel-former-doj-official-jeffrey-clark-fails-to-cooperate-in-testimony">Jan. 6 panel: Former DOJ official Jeffrey Clark fails to cooperate in testimony</a> NPR: Former DOJ official Jeffrey Clark appeared for a deposition, but the panel says he failed to cooperate. 
- <p class="updated_time"> 09:00 AM CT, Nov. 06 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-06/ortega-seen-winning-sham-nicaragua-vote-after-opponents-jailed">Ortega Seen Winning ‘Sham’ Nicaragua Vote After Opponents Jailed</a> Bloomberg: Daniel Ortega is seeking a fourth consecutive five-year term as Nicaragua’s president on Sunday in an election that the U.S. and the European Parliament say is a “sham”. 
  <p class="updated_time"> 07:38 AM CT, Nov. 06 </p> 
  <a href="https://www.washingtonpost.com/politics/2021/11/05/what-is-cbo-how-could-its-score-derail-democrats-spending-bills/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">What is the CBO, and how could its score derail Democrats’ social safety net bill?</a> WaPo: A nonpartisan office will determine whether Democrats' social safety net legislation is indeed paid for, as they claim. 
  <p class="updated_time"> 07:38 AM CT, Nov. 06 </p> 
@@ -556,8 +556,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/10/31/john-curtis-climate-summit-glasgow-518013">What Utah Republican John Curtis is bringing to the U.N. climate summit</a> Politico: As a conservative House Republican focused on climate change, he’s charting his own course. 
  <p class="updated_time"> 10:45 AM CT, Oct. 31 </p> 
  <a href="https://www.politico.com/news/2021/10/31/democrats-race-prescription-drug-deal-517974">Dems close in on Medicare prescription drug negotiation compromise</a> Politico: The issue was left out of last week’s social spending framework, but it may yet show up in the final bill. 
- <p class="updated_time"> 10:01 AM CT, Oct. 31 </p> 
- <a href="https://www.politico.com/newsletters/playbook/2021/10/31/franken-rules-out-run-against-gillibrand-494915">POLITICO Playbook: Franken rules out run against Gillibrand</a> Politico: And Glenn Youngkin and Terry McAuliffe race to the finish line in Virginia. 
 
 
 </details>
