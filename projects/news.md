@@ -7,6 +7,14 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:04 AM CT, Nov. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-59195399?at_medium=RSS&at_campaign=KARANGA">Iraqi PM al-Kadhimi survives drone attack on his home</a> BBC: Mustafa al-Kadhimi says he was not hurt in the attack by a drone carrying explosives in Baghdad. 
+ <p class="updated_time"> 02:00 AM CT, Nov. 07 </p> 
+ <a href="https://www.nytimes.com/2021/11/07/world/asia/guam-dogcatcher.html">On Tiny Guam, It’s One Dogcatcher vs. 30,000 Strays</a> NYT: They bite, they threaten, they carry the risk of rabies. Islanders are sharply divided over what to do about the dogs. And Nicholas Ibanez is caught in the middle. 
+ <p class="updated_time"> 02:00 AM CT, Nov. 07 </p> 
+ <a href="https://www.nytimes.com/2021/11/07/world/europe/france-confession-abuse.html">French Clerical Abuse Report Puts Spotlight on Confession</a> NYT: In rare instances, it noted, the secrecy around the sacrament had been used to cover up abuse cases, again raising issues of whether church or state law should prevail. 
+ <p class="updated_time"> 01:58 AM CT, Nov. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59196462?at_medium=RSS&at_campaign=KARANGA">Harvey Milk: US Navy launches ship named for gay rights leader</a> BBC: The USNS Harvey Milk is one of six new ships named after famous civil rights leaders. 
  <p class="updated_time"> 01:58 AM CT, Nov. 07 </p> 
  <a href="https://www.nytimes.com/2021/11/06/world/middleeast/iraq-prime-minister-drone.html">Iraq Says Drone Strike Was Aimed at Prime Minister</a> NYT: Prime Minister Mustafa al-Kadhimi was unharmed in the attack on his residence early Sunday, the government said. 
  <p class="updated_time"> 01:38 AM CT, Nov. 07 </p> 
@@ -19,8 +27,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59194819?at_medium=RSS&at_campaign=KARANGA">Astroworld: Criminal investigation into Texas festival crowd surge</a> BBC: Eight people died after a deadly crowd surge during a performance by rapper Travis Scott. 
  <p class="updated_time"> 11:55 PM CT, Nov. 06 </p> 
  <a href="https://www.nytimes.com/2021/11/06/world/americas/biden-osha-vaccine-mandate-blocked.html">Biden's Vaccine Mandate Temporarily Blocked, Foreshadowing Uphill Battle</a> NYT: A stay granted by a federal appeals court in Louisiana could signal an uphill battle for the administration in getting the entire American work force vaccinated. 
- <p class="updated_time"> 09:47 PM CT, Nov. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-59195399?at_medium=RSS&at_campaign=KARANGA">Iraqi PM al-Kadhimi survives Baghdad 'assassination attempt'</a> BBC: Mustafa al-Kadhimi said he was unhurt in the attack on his house, said to be by an armed drone. 
  <p class="updated_time"> 07:55 PM CT, Nov. 06 </p> 
  <a href="https://www.npr.org/2021/11/06/1053226380/astroworld-concert-tragedies-love-parade-pearl-jam-the-who-rolling-stones">Astroworld Festival joins a list of historical concert tragedies</a> NPR: Astroworld Festival calls to mind other rare but traumatic incidents at concerts and festivals throughout the last half-century. Here's a timeline of those tragedies. 
  <p class="updated_time"> 07:39 PM CT, Nov. 06 </p> 
@@ -115,8 +121,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59168993?at_medium=RSS&at_campaign=KARANGA">The Rotterdam museum set to display its entire art collection</a> BBC: The Depot in Rotterdam opens on Saturday, revealing its entire collection of 150,000 art objects. 
  <p class="updated_time"> 07:04 PM CT, Nov. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-59186088?at_medium=RSS&at_campaign=KARANGA">Colin Powell: Funeral for 'great lion with big heart'</a> BBC: US presidents, past and present, attended the service to remember the former secretary of state. 
- <p class="updated_time"> 07:02 PM CT, Nov. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59186739?at_medium=RSS&at_campaign=KARANGA">Man found naked inside wall of New York state theatre</a> BBC: Authorities said the man had been trapped for two days before he was heard calling for help. 
  <p class="updated_time"> 07:01 PM CT, Nov. 05 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59177088?at_medium=RSS&at_campaign=KARANGA">Ros Atkins on… tree planting and climate change</a> BBC: Ros Atkins looks at why vast tree-planting initiatives are concerning some experts. 
  <p class="updated_time"> 06:06 PM CT, Nov. 05 </p> 
@@ -195,8 +199,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/04/climate/public-health-climate-change.html">Effort to Reframe Climate Change as a Health Crisis Gains Steam</a> NYT: Research has increasingly shown that warming is taking a deadly toll on human health. At the global climate summit in Glasgow, the issue has gained new prominence. 
  <p class="updated_time"> 10:47 AM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/world/europe/germany-covid-surge-daily-case-record.html">Facing a New Surge, Germany Sets a Daily Virus Case Record</a> NYT: The country registered 33,949 new coronavirus cases over a 24-hour period on Wednesday, surpassing a high set in December of last year. 
- <p class="updated_time"> 08:36 AM CT, Nov. 04 </p> 
- <a href="https://www.nytimes.com/2021/11/04/world/australia/charge-cleo-smith.html">Cleo Smith Abduction: Australian Man Is Charged After 18-Day Search </a> NYT: The legal action came as the Australian authorities continued to address questions about how the police had been able to find Cleo Smith, who vanished from a remote campsite. 
  <p class="updated_time"> 05:26 AM CT, Nov. 04 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-56901261?at_medium=RSS&at_campaign=KARANGA">COP26: What is the Glasgow climate conference and why is it important?</a> BBC: A crucial climate change summit is being held in the UK - this is why it's important. 
 
