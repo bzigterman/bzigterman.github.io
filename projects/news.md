@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:34 AM CT, Nov. 07 </p> 
+ <a href="https://www.nytimes.com/2021/11/06/world/middleeast/iraq-prime-minister-drone.html">Fears of Wider Instability in Iraq After Attack on Prime Minister’s Home</a> NYT: Armed drones struck the Iraqi prime minister’s home in what was seen as a warning as Iranian-backed groups dispute the results of parliamentary elections. 
+ <p class="updated_time"> 08:30 AM CT, Nov. 07 </p> 
+ <a href="https://www.npr.org/2021/11/07/1051940127/rebels-are-closing-in-on-ethiopias-capital-its-collapse-could-bring-regional-cha">Rebels are closing in on Ethiopia's capital. Its collapse could bring regional chaos</a> NPR: A newly formed rebel alliance led by the Tigray People's Liberation Front is within striking distance of Addis Ababa. A failed state could displace millions of people and stoke more ethnic violence. 
  <p class="updated_time"> 07:06 AM CT, Nov. 07 </p> 
  <a href="https://www.npr.org/2021/11/07/1053326456/sudan-faces-mass-protests-and-arrests-after-military-dissolves-civilian-governme">Sudan faces mass protests and arrests after military dissolves civilian government</a> NPR: Danielle Kurtzleben speaks to Khartoum-based political analyst Samir Fadol on the latest in Sudan, where a military coup unseated the civilian government October 25. 
  <p class="updated_time"> 07:03 AM CT, Nov. 07 </p> 
@@ -19,8 +23,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/07/1053275827/nicaragua-may-be-holding-presidential-elections-but-it-is-edging-toward-dictator">Nicaragua may be holding presidential elections, but it is edging toward dictatorship</a> NPR: Nicaraguan President Daniel Ortega is running for a fourth consecutive term to remain leader of the Central American country in elections that critics and U.S. officials have labeled a "sham." 
  <p class="updated_time"> 05:52 AM CT, Nov. 07 </p> 
  <a href="https://www.bbc.co.uk/news/business-59182278?at_medium=RSS&at_campaign=KARANGA">Elon Musk holds Twitter vote over $21bn Tesla share sale</a> BBC: The Tesla boss promises to honour the outcome of the poll, whichever way it goes. 
- <p class="updated_time"> 05:35 AM CT, Nov. 07 </p> 
- <a href="https://www.nytimes.com/2021/11/06/world/middleeast/iraq-prime-minister-drone.html">Iraq Says Drone Strike Was Aimed at Prime Minister</a> NYT: Prime Minister Mustafa al-Kadhimi was unharmed in the attack on his residence early Sunday, the government said. 
  <p class="updated_time"> 05:13 AM CT, Nov. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59196463?at_medium=RSS&at_campaign=KARANGA">Italian Mafia: 'Ndrangheta members convicted as Italy begins huge trial</a> BBC: More than 350 alleged mobsters will face court in the biggest mafia trial in decades. 
  <p class="updated_time"> 04:59 AM CT, Nov. 07 </p> 
@@ -167,8 +169,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/sections/goatsandsoda/2021/11/05/1052364086/new-usaid-director-aims-to-shake-up-60-year-old-aid-agency-heres-her-new-vision">New USAID director aims to shake up 60-year-old aid agency. Here's her 'new vision'</a> NPR: Like any government agency, the biggest American foreign aid group has its problems. This week, its new administrator Samantha Power outlined her solutions. 
  <p class="updated_time"> 10:37 AM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/05/world/europe/shortages-german-economic-growth.html">Germany's Economy Hindered by Supply Chain Problems </a> NYT: The order books in Europe’s largest economy are full, but a lack of parts and raw materials means companies are struggling to fill them. 
- <p class="updated_time"> 10:23 AM CT, Nov. 05 </p> 
- <a href="https://www.npr.org/2021/11/05/1052682152/cop26-climate-pledges-iea-temperature-rise-carbon">Latest climate pledges could limit global temperature rise, a new report says</a> NPR: The International Energy Agency says that if nations honor their latest pledges to reduce greenhouse gas emissions, global temperatures could be held to 1.8 degrees Celsius above preindustrial levels. 
  <p class="updated_time"> 09:58 AM CT, Nov. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-46138064?at_medium=RSS&at_campaign=KARANGA">Delhi pollution: Are Diwali fireworks to blame?</a> BBC: Do fireworks let off during Diwali celebrations really cause that much pollution? 
  <p class="updated_time"> 09:29 AM CT, Nov. 05 </p> 
