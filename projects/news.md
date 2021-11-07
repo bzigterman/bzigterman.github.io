@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:04 AM CT, Nov. 07 </p> 
+ <a href="https://www.nytimes.com/2021/11/06/world/americas/costa-rica-covid-vaccine-children.html">Costa Rica moves to require Covid shots for children.</a> NYT: The Central American nation’s health ministry said on Friday it was adding Covid-19 to the list of required vaccinations for people 18 and younger. 
  <p class="updated_time"> 11:56 PM CT, Nov. 06 </p> 
  <a href="https://www.nytimes.com/2021/11/06/world/asia/india-fire-covid-icu.html">A fire in Covid intensive care ward kills 11 people in India.</a> NYT: Staff at the hospital in the western state of Maharashtra tried to douse the fire with fire extinguishers, but the flames spread quickly in the airtight room. 
  <p class="updated_time"> 11:55 PM CT, Nov. 06 </p> 
@@ -65,8 +67,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/05/world/europe/cop26-greta-thunberg.html">Greta Thunberg Assails Leaders Outside COP26 Climate Summit</a> NYT: “The governments of the global north countries are still refusing to take any drastic climate action,” she told protesters in Glasgow. 
  <p class="updated_time"> 09:01 AM CT, Nov. 06 </p> 
  <a href="https://www.nytimes.com/2021/11/06/world/austria-covid-restrictions.html">Facing a spike in infections, Austria sharpens the rules of its Covid pass.</a> NYT: Austrians will need proof of vaccination or a past infection to be seated at a restaurant, enter a bar, visit a hairdresser or join any gathering of more than 25 people. 
- <p class="updated_time"> 09:01 AM CT, Nov. 06 </p> 
- <a href="https://www.nytimes.com/2021/11/06/world/americas/costa-rica-covid-vaccine-children.html">Costa Rica moves to require Covid shots for children.</a> NYT: The Central American nation’s health ministry said on Friday it was adding Covid-19 to the list of required vaccinations for people 18 and younger. 
  <p class="updated_time"> 08:31 AM CT, Nov. 06 </p> 
  <a href="https://www.wsj.com/articles/cop26-protesters-in-glasgow-push-for-action-from-leaders-11636208381">COP26 Protesters in Glasgow Push for Action From Leaders</a> WSJ: Protesters in the tens of thousands braved rain and gusts to march through the Scottish city hosting a United Nations climate summit, pushing for more action from governments to curb global warming. 
  <p class="updated_time"> 08:15 AM CT, Nov. 06 </p> 
