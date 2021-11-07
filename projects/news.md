@@ -210,6 +210,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:30 AM CT, Nov. 07 </p> 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-07/johnson-can-t-duck-tory-sleaze-row-as-u-k-criticism-mounts">Johnson Can’t Duck Tory Sleaze Row as U.K. Criticism Mounts</a> Bloomberg: U.K. Prime Minister Boris Johnson is facing growing criticism over his party’s conduct, as a former Conservative prime minister and opposition members speak out against him following a lobbying scandal. 
  <p class="updated_time"> 05:00 AM CT, Nov. 07 </p> 
  <a href="https://www.washingtonpost.com/politics/federal-workers-vaccines-exemptions/2021/11/07/761eb9d8-3da3-11ec-8ee9-4f14a26749d1_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Nearing Monday coronavirus vaccine deadline, thousands of federal workers seek religious exemptions to avoid shots</a> WaPo: The Biden administration’s plan to vaccinate the federal workforce is succeeding in many quarters, but the exemptions sought by some employees are complicating efforts to return the government to full strength. 
  <p class="updated_time"> 04:00 AM CT, Nov. 07 </p> 
@@ -422,8 +424,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/05/house-democrats-infrastructure-vote-wait-megabill-519731">'Whole day was a clusterf---': Dems overcome distrust to send infrastructure bill to Biden</a> Politico: Democratic centrists and progressives reached a detente that cleared the $550 billion bipartisan legislation late Friday night and advanced their social spending package. 
  <p class="updated_time"> 02:35 PM CT, Nov. 05 </p> 
  <a href="https://www.politico.com/news/2021/11/05/house-democrats-infrastructure-vote-wait-megabill-519731">'Whole day was a clusterf---': Dems overcome distrust to send infrastructure bill to Biden</a> Politico: Democratic centrists and progressives reached a detente that cleared the $550 billion bipartisan legislation late Friday night and advanced their social spending package. 
- <p class="updated_time"> 01:23 PM CT, Nov. 05 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-05/new-jersey-s-gop-candidate-for-governor-still-hasn-t-conceded">GOP’s Ciattarelli Digs In Despite Murphy’s 65,000-Vote N.J. Lead</a> Bloomberg: Three days after New Jersey Governor Phil Murphy won re-election, Republican challenger Jack Ciattarelli has yet to concede. The Associated Press called the tight race for the Democratic incumbent on Wednesday night. Murphy now leads by 65,242 votes. 
  <p class="updated_time"> 01:21 PM CT, Nov. 05 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9cF6gW0sWuY/index.html">'A great lion with a big heart': Former presidents and dignitaries pay tribute to Colin Powell</a> CNN: Gen. Colin Powell, the late former secretary of state and Joint Chiefs of Staff chairman, will be honored Friday at a private funeral service at the Washington National Cathedral. 
  <p class="updated_time"> 01:04 PM CT, Nov. 05 </p> 
