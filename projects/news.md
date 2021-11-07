@@ -33,10 +33,16 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-59196465?at_medium=RSS&at_campaign=KARANGA">In pictures: Thousands join huge pro-government rally in Ethiopia</a> BBC: The rally comes as rebel Tigrayan forces advance within 300km of the capital Addis Ababa. 
  <p class="updated_time"> 08:30 AM CT, Nov. 07 </p> 
  <a href="https://www.npr.org/2021/11/07/1051940127/rebels-are-closing-in-on-ethiopias-capital-its-collapse-could-bring-regional-cha">Rebels are closing in on Ethiopia's capital. Its collapse could bring regional chaos</a> NPR: A newly formed rebel alliance led by the Tigray People's Liberation Front is within striking distance of Addis Ababa. A failed state could displace millions of people and stoke more ethnic violence. 
+ <p class="updated_time"> 08:09 AM CT, Nov. 07 </p> 
+ <a href="https://www.wsj.com/articles/nicaraguan-president-ortega-expected-to-win-re-election-as-country-veers-into-dictatorship-11636312154">Ortega Expected to Win Re-Election as Nicaragua Veers Into Dictatorship</a> WSJ: President Daniel Ortega is expected to win a fourth consecutive term after he imprisoned seven would-be presidential candidates. The U.S. and European Union have described the elections as a sham. 
+ <p class="updated_time"> 08:06 AM CT, Nov. 07 </p> 
+ <a href="https://www.wsj.com/articles/rebels-advance-toward-capital-as-ethiopia-moves-deeper-into-war-11636311997">Rebels Advance Toward Capital As Ethiopia Moves Deeper Into War</a> WSJ: The move threatens to widen a civil war raging in Africa’s second-most populous nation marked by allegations of ethnically motivated atrocities and man-made famine. 
  <p class="updated_time"> 07:06 AM CT, Nov. 07 </p> 
  <a href="https://www.npr.org/2021/11/07/1053326456/sudan-faces-mass-protests-and-arrests-after-military-dissolves-civilian-governme">Sudan faces mass protests and arrests after military dissolves civilian government</a> NPR: Danielle Kurtzleben speaks to Khartoum-based political analyst Samir Fadol on the latest in Sudan, where a military coup unseated the civilian government October 25. 
  <p class="updated_time"> 07:03 AM CT, Nov. 07 </p> 
  <a href="https://www.npr.org/2021/11/07/1051468823/iraq-marshes-climate-change-cop26">In Iraq's famed marshlands, climate change is upending a way of life</a> NPR: Drought and extreme heat that scientists link to climate change are altering the UNESCO-protected marshlands. Iraq's average annual temperatures are increasing at nearly double the rate of Earth's. 
+ <p class="updated_time"> 06:57 AM CT, Nov. 07 </p> 
+ <a href="https://www.wsj.com/articles/mexico-bribery-case-ricardo-anaya-lopez-obrador-odebrecht-lozoya-11636307232">Tale of Gym Bag Stuffed With Cash Ensnares Top Opponent of Mexico's President</a> WSJ: Conservative politician Ricardo Anaya says López Obrador is prosecuting him on fabricated charges. He has plenty of company. 
  <p class="updated_time"> 06:48 AM CT, Nov. 07 </p> 
  <a href="https://www.wsj.com/articles/brazilian-farmers-who-protect-the-amazon-rainforest-would-like-to-be-paid-11636281003">Farmers Who Protect the Amazon Rainforest Would Like to Be Paid</a> WSJ: Some in Brazil say they would protect forests on their land if compensated through a carbon-credit program on the agenda at the climate-change summit now under way in Glasgow. 
  <p class="updated_time"> 06:33 AM CT, Nov. 07 </p> 
@@ -119,8 +125,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/05/world/europe/cop26-greta-thunberg.html">Greta Thunberg Assails Leaders Outside COP26 Climate Summit</a> NYT: “The governments of the global north countries are still refusing to take any drastic climate action,” she told protesters in Glasgow. 
  <p class="updated_time"> 09:01 AM CT, Nov. 06 </p> 
  <a href="https://www.nytimes.com/2021/11/06/world/austria-covid-restrictions.html">Facing a spike in infections, Austria sharpens the rules of its Covid pass.</a> NYT: Austrians will need proof of vaccination or a past infection to be seated at a restaurant, enter a bar, visit a hairdresser or join any gathering of more than 25 people. 
- <p class="updated_time"> 08:31 AM CT, Nov. 06 </p> 
- <a href="https://www.wsj.com/articles/cop26-protesters-in-glasgow-push-for-action-from-leaders-11636208381">COP26 Protesters in Glasgow Push for Action From Leaders</a> WSJ: Protesters in the tens of thousands braved rain and gusts to march through the Scottish city hosting a United Nations climate summit, pushing for more action from governments to curb global warming. 
  <p class="updated_time"> 08:15 AM CT, Nov. 06 </p> 
  <a href="https://www.nytimes.com/2021/11/05/world/europe/france-macron-alexandre-benalla-guilty.html">Ex-Macron Aide Convicted of Assault and Posing as a Police Officer</a> NYT: The aide, Alexandre Benalla, who was fired in 2018 after videos emerged of him beating a man at a labor protest, was sentenced to serve a year of house arrest with electronic monitoring. 
  <p class="updated_time"> 07:23 AM CT, Nov. 06 </p> 
@@ -133,8 +137,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/06/1053162983/scores-of-people-reported-dead-in-sierra-leone-after-fuel-tanker-explosion">Scores of people reported dead in Sierra Leone after fuel tanker explosion</a> NPR: Scott Simon speaks to journalist Umaru Fofana about the deadly tanker explosion outside Freetown, Sierra Leone today. 
  <p class="updated_time"> 06:36 AM CT, Nov. 06 </p> 
  <a href="https://www.npr.org/2021/11/06/1053162519/sierra-leone-oil-tanker-explosion">An oil tanker truck explodes in Sierra Leone, killing at least 98 and injuring dozens</a> NPR: The explosion took place after a bus struck the tanker near the country's capital city. Dozens were injured after large crowds gathered to collect leaking fuel, officials and witnesses said. 
- <p class="updated_time"> 06:00 AM CT, Nov. 06 </p> 
- <a href="https://www.wsj.com/articles/fuel-tanker-explosion-in-sierra-leone-kills-at-least-99-11636210816">Fuel-Tanker Explosion in Sierra Leone Kills at Least 99</a> WSJ: The explosion happened shortly after a fuel tanker collided with another vehicle near a gasoline station in a suburb of the capital Freetown, causing a large spill, city officials said. 
  <p class="updated_time"> 04:11 AM CT, Nov. 06 </p> 
  <a href="https://www.nytimes.com/2021/11/05/world/africa/ethiopia-tigray-eight-groups.html">Eight Groups Join Tigray Rebels Vowing to Oust Ethiopia’s Leader</a> NYT: The government calls the new coalition, announced in Washington, a “publicity stunt,” as intermediaries try to negotiate a peaceful solution to a year of conflict. 
  <p class="updated_time"> 04:00 AM CT, Nov. 06 </p> 
@@ -218,12 +220,18 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/07/murphy-new-jersey-reelection-hurt-520110">‘There’s a lot of hurt out there,’ N.J. governor says of close reelection</a> Politico: But Gov. Phil Murphy said things could have been a lot worse. 
  <p class="updated_time"> 01:31 PM CT, Nov. 07 </p> 
  <a href="https://www.politico.com/news/2021/11/07/strategic-reserve-rising-fuel-prices-granholm-520093">Biden may tap strategic reserve amid rising fuel prices, Granholm says</a> Politico: “The president is all over this. Of course, every president is frustrated because they can’t control the price of gasoline,” she said. 
+ <p class="updated_time"> 01:17 PM CT, Nov. 07 </p> 
+ <a href="https://www.nytimes.com/2021/11/07/us/politics/afghanistan-war-marines.html">Young Marines in Kabul Were Left to Run Final Days of Evacuation</a> NYT: The young Marines in Kabul were left to determine who was evacuated from Afghanistan and who was left behind. The cost was high. 
+ <p class="updated_time"> 01:15 PM CT, Nov. 07 </p> 
+ <a href="https://www.nytimes.com/2021/11/05/us/politics/house-infrastructure-reconciliation.html">House Passes $1 Trillion Infrastructure Bill, Putting Social Policy Bill on Hold</a> NYT: Progressives who had threatened to sink the measure agreed to support it after extracting a promise from moderates that they would ultimately back the social safety net and climate bill. 
  <p class="updated_time"> 01:13 PM CT, Nov. 07 </p> 
  <a href="https://www.nytimes.com/2021/11/06/us/politics/biden-infrastructure-speech.html">Biden Celebrates Infrastructure Win, Even if Harder Victory Is Ahead</a> NYT: “Finally! Infrastructure week!” the president declared with a broad smile. 
  <p class="updated_time"> 01:12 PM CT, Nov. 07 </p> 
  <a href="https://www.nytimes.com/2021/11/06/us/politics/defectors-infrastructure-bill-squad.html">In Infrastructure Votes, 19 Members Broke With Their Party</a> NYT: The defectors who crossed partisan lines in Congress include 13 Republicans who supported the bill and the six liberal members of “The Squad,” who opposed it. 
  <p class="updated_time"> 01:12 PM CT, Nov. 07 </p> 
  <a href="https://www.nytimes.com/2021/11/06/us/politics/infrastructure-black-caucus-vote.html">How a $1 Trillion Infrastructure Bill Survived an Intraparty Brawl</a> NYT: Speaker Nancy Pelosi agreed to a deal proposed by the Congressional Black Caucus, mobilizing one faction of Democratic lawmakers to win over two others. 
+ <p class="updated_time"> 01:03 PM CT, Nov. 07 </p> 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-07/ireland-says-eu-u-k-trade-deal-in-jeopardy-over-n-ireland-row">Ireland Says EU-U.K. Trade Deal in Jeopardy Over Northern Ireland Row</a> Bloomberg: The trade deal between the U.K. and the European Union will be thrown into question if Britain revokes its commitments to the Northern Ireland protocol, the Irish foreign minister warned. 
  <p class="updated_time"> 12:51 PM CT, Nov. 07 </p> 
  <a href="https://www.washingtonpost.com/politics/democrats-biden-virginia-new-jersey-infrastructure/2021/11/07/d5811f7e-3e43-11ec-bfad-8283439871ec_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Democrats search for political identity amid dismal election results and legislative triumph</a> WaPo: Setbacks Tuesday in suburbs, small towns and rural communities, coupled with intraparty battles on Capitol Hill and passage of an infrastructure bill, crystallize a vexing question for the party: What does it mean to be a Democrat? 
  <p class="updated_time"> 12:49 PM CT, Nov. 07 </p> 
@@ -232,8 +240,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/07/rick-scott-republicans-trump-support-520055">Rick Scott to GOP hopefuls: Get Trump’s support, but go beyond that</a> Politico: The head of the National Republican Senatorial Committee also said the committee will back all incumbents, whether Trump likes them or not. 
  <p class="updated_time"> 12:39 PM CT, Nov. 07 </p> 
  <a href="https://www.politico.com/news/2021/11/07/election-voters-message-action-klain-520042">'Voters sent a message on Tuesday' for more action, Klain says</a> Politico: “In my opinion,” he said, “it’s been a rough and tough year.” 
- <p class="updated_time"> 12:39 PM CT, Nov. 07 </p> 
- <a href="https://www.nytimes.com/2021/11/07/us/politics/afghanistan-war-marines.html">Young Marines in Kabul Were Left to Run Final Days of Evacuation</a> NYT: The young Marines in Kabul were left to determine who was evacuated from Afghanistan and who was left behind. The cost was high. 
  <p class="updated_time"> 12:14 PM CT, Nov. 07 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-07/thousands-demonstrate-in-ethiopia-against-rebels-interference">Thousands Demonstrate in Ethiopia Against Rebels, Interference</a> Bloomberg: Tens of thousands of residents of Addis Ababa took to the streets on Sunday to denounce rebel forces that have threatened to march on Ethiopia’s capital city and to reject foreign involvement in the country’s civil war. 
  <p class="updated_time"> 12:09 PM CT, Nov. 07 </p> 
@@ -318,8 +324,6 @@ permalink: /projects/news/
  <a href="https://www.bloomberg.com/news/articles/2021-11-06/court-halts-u-s-mandate-europe-hit-by-new-wave-virus-update">U.S.-Europe Flights Reopen; German Cases Spike: Virus Update</a> Bloomberg: Flights for fully-vaccinated travelers from Europe to the U.S. begin Monday, though the lucrative market will be very different from the one before the pandemic. The U.S. is lifting entry restrictions for more than 30 countries, including China, Brazil and India. 
  <p class="updated_time"> 05:25 PM CT, Nov. 06 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-06/australia-u-k-confident-of-free-trade-agreement-by-year-end">Australia, U.K. ‘Confident’ of Free Trade Agreement by Year-End</a> Bloomberg: Australia and the U.K. are both “very confident” that their free trade agreement would be finalized by year-end, said David McCredie, chief executive officer of the Australian British Chamber of Commerce. 
- <p class="updated_time"> 05:15 PM CT, Nov. 06 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-06/ocasio-cortez-signals-mistrust-as-reason-for-infrastructure-vote">Ocasio-Cortez Signals Mistrust as Reason for Infrastructure Vote</a> Bloomberg: Representative Alexandria Ocasio-Cortez signaled mistrust of the legislative process that led to the passage of President Joe Biden’s $550 billion infrastructure bill, explaining why she and five other progressive Democrats cast dissenting votes. 
  <p class="updated_time"> 04:17 PM CT, Nov. 06 </p> 
  <a href="https://www.npr.org/2021/11/06/1053239123/black-republicans-walk-a-fine-line-toward-election-victory">Black Republicans walk a fine line toward election victory</a> NPR: NPR's Michel Martin speaks with professor Leah Wright Rigueur, author of The Loneliness of the Black Republican, about what this week's elections signal for Black conservatives. 
  <p class="updated_time"> 04:17 PM CT, Nov. 06 </p> 
@@ -328,8 +332,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/06/1053239102/how-the-house-passed-the-1-trillion-infrastructure-plan">How the House passed the $1 trillion infrastructure plan</a> NPR: The House of Representatives passed a trillion dollar infrastructure bill Friday, delivering President Biden a major legislative victory after months of negotiation with his own party. 
  <p class="updated_time"> 04:00 PM CT, Nov. 06 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-06/china-s-stagflation-risk-builds-as-growth-slows-eco-week-ahead">China’s Stagflation Risk Builds as Growth Slows: Eco Week Ahead</a> Bloomberg: China’s inflation risks are building while new Covid-19 outbreaks are dimming the outlook for economic growth, throwing the spotlight back on policy makers as the Communist Party’s top leaders gather for a crucial political meeting this week. 
- <p class="updated_time"> 03:14 PM CT, Nov. 06 </p> 
- <a href="https://www.nytimes.com/2021/11/05/us/politics/house-infrastructure-reconciliation.html">House Passes $1 Trillion Infrastructure Bill, Putting Social Policy Bill on Hold</a> NYT: Progressives who had threatened to sink the measure agreed to support it after extracting a promise from moderates that they would ultimately back the social safety net and climate bill. 
  <p class="updated_time"> 02:21 PM CT, Nov. 06 </p> 
  <a href="https://www.nytimes.com/2021/11/05/us/politics/guantanamo-torture-foia-cia.html">Some Sept. 11 Trial Secrets May Not Be Secrets Anymore</a> NYT: Prosecutors agreed to compare hundreds if not thousands of pages of classified documents in the case against 9/11 defendants with material released under the Freedom of Information Act. 
  <p class="updated_time"> 02:12 PM CT, Nov. 06 </p> 
