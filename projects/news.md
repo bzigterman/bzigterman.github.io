@@ -54,7 +54,7 @@ permalink: /projects/news/
  <p class="updated_time"> 11:55 PM CT, Nov. 06 </p> 
  <a href="https://www.nytimes.com/2021/11/06/world/americas/biden-osha-vaccine-mandate-blocked.html">Biden's Vaccine Mandate Temporarily Blocked, Foreshadowing Uphill Battle</a> NYT: A stay granted by a federal appeals court in Louisiana could signal an uphill battle for the administration in getting the entire American work force vaccinated. 
  <p class="updated_time"> 08:57 PM CT, Nov. 06 </p> 
- <a href="https://www.wsj.com/articles/iraqs-prime-minister-survives-assassination-attempt-government-says-11636248485">Iraq's Prime Minister Targeted in Assassination Attempt</a> WSJ: An explosive-laden drone attacked the residence of Iraqi Prime Minister Mustafa al-Kadhimi in Baghdad. The prime minister said he wasn’t hurt. 
+ <a href="https://www.wsj.com/articles/iraqs-prime-minister-survives-assassination-attempt-government-says-11636248485">Iraqi Prime Minister Targeted in Assassination Attempt</a> WSJ: An explosive-laden drone attacked the residence of Iraqi Prime Minister Mustafa al-Kadhimi in Baghdad. The prime minister said he wasn’t hurt. 
  <p class="updated_time"> 07:55 PM CT, Nov. 06 </p> 
  <a href="https://www.npr.org/2021/11/06/1053226380/astroworld-concert-tragedies-love-parade-pearl-jam-the-who-rolling-stones">Astroworld Festival joins a list of historical concert tragedies</a> NPR: Astroworld Festival calls to mind other rare but traumatic incidents at concerts and festivals throughout the last half-century. Here's a timeline of those tragedies. 
  <p class="updated_time"> 07:39 PM CT, Nov. 06 </p> 
@@ -212,6 +212,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:09 AM CT, Nov. 07 </p> 
+ <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sWdL-IYaLvg/index.html">Chris Christie delivers tough message to Republican audience, saying GOP gains hinge on moving on from 2020</a> CNN: While the other potential GOP White House aspirants continue to tip-toe around former President Donald Trump, former New Jersey Gov. Chris Christie argued Saturday that his week's election results marked the "beginning of a new era" for the Republican Party -- one that looks "forward and not backwards" as he addressed the Republican Jewish Coalition in Las Vegas. 
  <p class="updated_time"> 07:27 AM CT, Nov. 07 </p> 
  <a href="https://www.politico.com/news/2021/11/07/iraq-failed-assassination-attempt-519973">Failed assassination bid against Iraq PM ramps up tension</a> Politico: “Cowardly rocket and drone attacks don’t build homelands and don’t build a future,” the prime minister said. 
  <p class="updated_time"> 07:10 AM CT, Nov. 07 </p> 
@@ -253,7 +255,7 @@ permalink: /projects/news/
  <p class="updated_time"> 01:11 AM CT, Nov. 07 </p> 
  <a href="https://www.nytimes.com/2021/11/06/us/politics/defectors-infrastructure-bill-squad.html">In Infrastructure Votes, 19 Members Broke With Their Party</a> NYT: The defectors who crossed partisan lines in Congress include 13 Republicans who supported the bill and the six liberal members of “The Squad,” who opposed it. 
  <p class="updated_time"> 12:00 AM CT, Nov. 07 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-07/houston-leaders-seek-clues-for-concert-mishap-that-killed-8">Houston Leaders Seek Clues for Concert Surge That Killed 8</a> Bloomberg: Houston (AP) -- Authorities said they would watch video, interview witnesses and review concert protocols to determine how eight people died at a Houston music festival when fans suddenly surged toward the stage to watch rapper Travis Scott. 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-07/houston-leaders-seek-clues-for-concert-mishap-that-killed-8">Houston Leaders Seek Clues for Concert Surge That Killed 8</a> Bloomberg: Houston (AP) -- Authorities said they would watch video, interview witnesses  and review concert protocols to determine how eight people died at a Houston music festival when fans suddenly surged toward the stage to watch rapper Travis Scott. 
  <p class="updated_time"> 11:10 PM CT, Nov. 06 </p> 
  <a href="https://www.nytimes.com/2021/11/06/us/politics/james-okeefe-project-veritas-ashley-biden.html">F.B.I. Searches James O’Keefe’s Home in Ashley Biden Diary Theft Inquiry</a> NYT: Authorities carried out a court-ordered search at the New York apartment of the Project Veritas founder two days after searching the homes of his associates. 
  <p class="updated_time"> 09:10 PM CT, Nov. 06 </p> 
@@ -262,8 +264,6 @@ permalink: /projects/news/
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2NkhBglAY6w/index.html">Federal appeals court issues stay of Biden administration's vaccine mandate for private companies</a> CNN: A federal appeals court temporarily blocked the Biden administration's new vaccine rules that could apply to larger employers, certain health care workers and federal contractors. 
  <p class="updated_time"> 08:10 PM CT, Nov. 06 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-07/new-zealand-s-ardern-touts-maturity-in-relations-with-china">New Zealand’s Ardern Touts ‘Maturity’ in Relations With China</a> Bloomberg: Prime Minister Jacinda Ardern said there is a “maturity” in New Zealand’s relationship with China, its biggest trading partner, which her government believes enables it to raise issues of concern, amid simmering tensions between Beijing and the West. 
- <p class="updated_time"> 07:47 PM CT, Nov. 06 </p> 
- <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sWdL-IYaLvg/index.html">Chris Christie delivers tough message to Republican audience, saying GOP gains hinge on moving on from 2020</a> CNN: While the other potential GOP White House aspirants continue to tip-toe around former President Donald Trump, former New Jersey Gov. Chris Christie argued Saturday that his week's election results marked the "beginning of a new era" for the Republican Party -- one that looks "forward and not backwards" as he addressed the Republican Jewish Coalition in Las Vegas. 
  <p class="updated_time"> 07:35 PM CT, Nov. 06 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-07/iraqi-prime-minister-survives-assassination-attempt-by-drone">Iraqi Prime Minister Survives Assassination Attempt by Drone</a> Bloomberg: Iraqi Prime Minister Mustafa al-Kadhimi survived an assassination attempt early Sunday after an explosive-laden drone targeted his residence inside the Green Zone. 
  <p class="updated_time"> 07:07 PM CT, Nov. 06 </p> 
@@ -271,7 +271,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:45 PM CT, Nov. 06 </p> 
  <a href="https://www.washingtonpost.com/politics/biden-infrastructure-presidency/2021/11/06/4eaa5372-3f05-11ec-8ee9-4f14a26749d1_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">After months of setbacks, Biden finally gets long-sought win on infrastructure</a> WaPo: With his presidency on the ropes, Biden felt a new sense of urgency to produce legislative results — and a willingness to accept greater risk in pursuing them. 
  <p class="updated_time"> 06:01 PM CT, Nov. 06 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-06/court-halts-u-s-mandate-europe-hit-by-new-wave-virus-update">German Cases Spike; Russian Deaths Near Record: Virus Update</a> Bloomberg: Covid-19 cases jumped in Germany while deaths in Russia held near record levels, amid reports that some global delegates at COP26 in Glasgow contracted the virus. 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-06/court-halts-u-s-mandate-europe-hit-by-new-wave-virus-update">France Seeks Extra $2.3 Billion for Hospitals: Virus Update</a> Bloomberg: France is to consider spending an extra 2 billion euros ($2.3 billion) to bolster the hospital system. Italy plans to vaccinate children in December. Germany reported a surge in cases. 
  <p class="updated_time"> 05:25 PM CT, Nov. 06 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-06/australia-u-k-confident-of-free-trade-agreement-by-year-end">Australia, U.K. ‘Confident’ of Free Trade Agreement by Year-End</a> Bloomberg: Australia and the U.K. are both “very confident” that their free trade agreement would be finalized by year-end, said David McCredie, chief executive officer of the Australian British Chamber of Commerce. 
  <p class="updated_time"> 05:15 PM CT, Nov. 06 </p> 
