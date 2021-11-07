@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:40 PM CT, Nov. 07 </p> 
+ <a href="https://www.nytimes.com/2021/11/07/world/europe/uk-virus-surge-booster-shots.html">U.K. Health Secretary Urges People to Get Boosters</a> NYT: “If we all come together and play our part, we can get through this challenging winter, avoid a return to restrictions and enjoy Christmas,” said Sajid Javid, the health secretary. 
+ <p class="updated_time"> 02:32 PM CT, Nov. 07 </p> 
+ <a href="https://www.nytimes.com/2021/11/07/travel/us-travel-ban-reunions.html">As U.S. Travel Changes Near, Global Travelers Eagerly Await Reunions</a> NYT: On Monday, travelers from many other countries who are fully vaccinated against the coronavirus will be allowed to enter the United States. 
  <p class="updated_time"> 02:25 PM CT, Nov. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59195399?at_medium=RSS&at_campaign=KARANGA">Iraqi PM al-Kadhimi survives drone attack on his home</a> BBC: Mustafa al-Kadhimi says he was not hurt in the attack by a drone carrying explosives in Baghdad. 
  <p class="updated_time"> 02:22 PM CT, Nov. 07 </p> 
@@ -23,12 +27,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/07/us/politics/afghanistan-war-marines.html">Young Marines in Kabul Were Left to Run Final Days of Evacuation</a> NYT: The young Marines in Kabul were left to determine who was evacuated from Afghanistan and who was left behind. The cost was high. 
  <p class="updated_time"> 11:29 AM CT, Nov. 07 </p> 
  <a href="https://www.nytimes.com/2021/11/06/world/middleeast/iraq-prime-minister-drone.html">Fears of Wider Instability in Iraq After Attack on Prime Minister’s Home</a> NYT: Armed drones struck the Iraqi prime minister’s home in what was seen as a warning as Iranian-backed groups dispute the results of parliamentary elections. 
- <p class="updated_time"> 11:25 AM CT, Nov. 07 </p> 
- <a href="https://www.nytimes.com/2021/11/07/travel/us-travel-ban-reunions.html">As U.S. Travel Changes Near, Global Travelers Eagerly Await Reunions</a> NYT: On Monday, travelers from many other countries who are fully vaccinated against the coronavirus will be allowed to enter the United States. 
  <p class="updated_time"> 11:11 AM CT, Nov. 07 </p> 
  <a href="https://www.bbc.co.uk/sport/athletics/59195113?at_medium=RSS&at_campaign=KARANGA">New York marathon: Kenya's Peres Jepchirchir and Albert Korir claim wins</a> BBC: Kenya's Peres Jepchirchir won the women's race at the New York City marathon as compatriot Albert Korir claimed the men's title. 
- <p class="updated_time"> 10:25 AM CT, Nov. 07 </p> 
- <a href="https://www.nytimes.com/2021/11/07/world/europe/uk-virus-surge-booster-shots.html">U.K. Health Secretary Urges People to Get Boosters</a> NYT: “If we all come together and play our part, we can get through this challenging winter, avoid a return to restrictions and enjoy Christmas,” said Sajid Javid, the health secretary. 
  <p class="updated_time"> 10:03 AM CT, Nov. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59200295?at_medium=RSS&at_campaign=KARANGA">Astroworld: Rapper Travis Scott 'devastated' after music festival deaths</a> BBC: The rapper speaks for the first time after at least eight people died after a crowd surge during his set. 
  <p class="updated_time"> 09:48 AM CT, Nov. 07 </p> 
@@ -222,6 +222,10 @@ permalink: /projects/news/
 
  <p class="updated_time"> 03:24 PM CT, Nov. 07 </p> 
  <a href="https://www.politico.com/news/2021/11/07/nicaragua-ortega-election-sandinistas-520133">Nicaragua’s Ortega seeks reelection in questioned vote</a> Politico: He blasted the United States for interference in Nicaragua. 
+ <p class="updated_time"> 02:32 PM CT, Nov. 07 </p> 
+ <a href="https://www.nytimes.com/2021/11/07/travel/us-travel-ban-reunions.html">As U.S. Travel Changes Near, Global Travelers Eagerly Await Reunions</a> NYT: On Monday, travelers from many other countries who are fully vaccinated against the coronavirus will be allowed to enter the United States. 
+ <p class="updated_time"> 02:31 PM CT, Nov. 07 </p> 
+ <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sWdL-IYaLvg/index.html">Chris Christie delivers tough message to Republican audience, saying GOP gains hinge on moving on from 2020</a> CNN: While the other potential GOP White House aspirants continue to tip-toe around former President Donald Trump, former New Jersey Gov. Chris Christie argued Saturday that his week's election results marked the "beginning of a new era" for the Republican Party -- one that looks "forward and not backwards" as he addressed the Republican Jewish Coalition in Las Vegas. 
  <p class="updated_time"> 02:13 PM CT, Nov. 07 </p> 
  <a href="https://www.nytimes.com/2021/11/07/us/politics/republican-party-trump.html">Republicans, Basking in Tuesday’s Victories, Diverge on What Comes Next</a> NYT: Looming over a gathering of Jewish conservatives in Las Vegas were questions about whether former President Donald J. Trump should remain the face of the party. 
  <p class="updated_time"> 02:00 PM CT, Nov. 07 </p> 
@@ -258,8 +262,6 @@ permalink: /projects/news/
  <a href="https://www.bloomberg.com/news/articles/2021-11-07/macron-leads-in-first-round-polling-with-25-lci-poll-shows">Macron Leads in First-Round Polling With 25%, LCI Poll Shows</a> Bloomberg: French President Emmanuel Macron would get 25% or more of the votes in the first round of the election if voting were held today, according to a poll done by Ifop-Fiducial for LCI television and Le Figaro. 
  <p class="updated_time"> 11:30 AM CT, Nov. 07 </p> 
  <a href="https://www.politico.com/news/2021/11/07/payments-families-border-richmond-520027">Payments to families separated at border are ‘for the Department of Justice to decide,’ W.H. adviser says</a> Politico: “I want to be clear about this: We do not tell the Department of Justice what to do,” Cedric Richmond said. 
- <p class="updated_time"> 11:25 AM CT, Nov. 07 </p> 
- <a href="https://www.nytimes.com/2021/11/07/travel/us-travel-ban-reunions.html">As U.S. Travel Changes Near, Global Travelers Eagerly Await Reunions</a> NYT: On Monday, travelers from many other countries who are fully vaccinated against the coronavirus will be allowed to enter the United States. 
  <p class="updated_time"> 11:17 AM CT, Nov. 07 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/07/what-happens-in-vegas-495006">POLITICO Playbook: What happens in Vegas …</a> Politico: And a court temporarily blocks Biden’s vaccine mandate. 
  <p class="updated_time"> 10:27 AM CT, Nov. 07 </p> 
@@ -274,8 +276,6 @@ permalink: /projects/news/
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/yZD5Wl5TMe8/index.html">2021 shows Republicans shouldn't fear high voter turnout</a> CNN: The Republican Party did very well on Tuesday. Beyond its win in the Virginia gubernatorial election, it came quite close to capturing the New Jersey governor's mansion. 
  <p class="updated_time"> 08:12 AM CT, Nov. 07 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-07/biden-adviser-says-big-company-vaccine-mandate-on-legal-ground">Biden Adviser Says Big-Company Vaccine Mandate on Legal Ground</a> Bloomberg: President Joe Biden’s requirement for employees at companies with more than 100 workers to get Covid-19 vaccinations or regular testing is on solid legal ground, presidential adviser Cedric Richmond said. 
- <p class="updated_time"> 08:09 AM CT, Nov. 07 </p> 
- <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sWdL-IYaLvg/index.html">Chris Christie delivers tough message to Republican audience, saying GOP gains hinge on moving on from 2020</a> CNN: While the other potential GOP White House aspirants continue to tip-toe around former President Donald Trump, former New Jersey Gov. Chris Christie argued Saturday that his week's election results marked the "beginning of a new era" for the Republican Party -- one that looks "forward and not backwards" as he addressed the Republican Jewish Coalition in Las Vegas. 
  <p class="updated_time"> 07:27 AM CT, Nov. 07 </p> 
  <a href="https://www.politico.com/news/2021/11/07/iraq-failed-assassination-attempt-519973">Failed assassination bid against Iraq PM ramps up tension</a> Politico: “Cowardly rocket and drone attacks don’t build homelands and don’t build a future,” the prime minister said. 
  <p class="updated_time"> 07:10 AM CT, Nov. 07 </p> 
