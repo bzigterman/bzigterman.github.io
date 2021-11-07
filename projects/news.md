@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:43 PM CT, Nov. 07 </p> 
+ <a href="https://www.nytimes.com/2021/11/07/world/asia/afghan-pilots-taliban-us.html">Afghan Military Pilots, on the Run, Feel Abandoned by U.S.</a> NYT: Detained in Tajikistan, or hiding from the Taliban in Afghanistan, many pilots wonder why the military that trained them is not coming to their aid. 
  <p class="updated_time"> 03:35 PM CT, Nov. 07 </p> 
  <a href="https://www.npr.org/2021/11/07/1053356424/how-did-the-enslaved-workers-of-pompeii-live-a-new-discovery-provides-a-rare-gli">How did the enslaved workers of Pompeii live? A new discovery provides a rare glimpse</a> NPR: Archaeologists working to uncover a wealthy villa on the outskirts of the ancient city have found a dormitory for workers, providing important insight into daily life. 
  <p class="updated_time"> 03:23 PM CT, Nov. 07 </p> 
@@ -17,8 +19,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/07/travel/us-travel-ban-reunions.html">As U.S. Travel Changes Near, Global Travelers Eagerly Await Reunions</a> NYT: On Monday, travelers from many other countries who are fully vaccinated against the coronavirus will be allowed to enter the United States. 
  <p class="updated_time"> 02:25 PM CT, Nov. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59195399?at_medium=RSS&at_campaign=KARANGA">Iraqi PM al-Kadhimi survives drone attack on his home</a> BBC: Mustafa al-Kadhimi says he was not hurt in the attack by a drone carrying explosives in Baghdad. 
- <p class="updated_time"> 02:22 PM CT, Nov. 07 </p> 
- <a href="https://www.nytimes.com/2021/11/07/world/asia/afghan-pilots-taliban-us.html">Afghan Military Pilots, on the Run, Feel Abandoned by U.S.</a> NYT: Detained in Tajikistan, or hiding from the Taliban in Afghanistan, many pilots wonder why the military that trained them is not coming to their aid. 
  <p class="updated_time"> 02:12 PM CT, Nov. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59197250?at_medium=RSS&at_campaign=KARANGA">Sudan coup: Protesters tear-gassed at rally in Khartoum</a> BBC: Protesters are demanding the military step back and allow the transition to civilian rule. 
  <p class="updated_time"> 01:58 PM CT, Nov. 07 </p> 
@@ -331,7 +331,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:45 PM CT, Nov. 06 </p> 
  <a href="https://www.washingtonpost.com/politics/biden-infrastructure-presidency/2021/11/06/4eaa5372-3f05-11ec-8ee9-4f14a26749d1_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">After months of setbacks, Biden finally gets long-sought win on infrastructure</a> WaPo: With his presidency on the ropes, Biden felt a new sense of urgency to produce legislative results — and a willingness to accept greater risk in pursuing them. 
  <p class="updated_time"> 06:01 PM CT, Nov. 06 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-06/court-halts-u-s-mandate-europe-hit-by-new-wave-virus-update">U.S.-Europe Flights Reopen; German Cases Spike: Virus Update</a> Bloomberg: Flights for fully-vaccinated travelers from Europe to the U.S. begin Monday, though the lucrative market will be very different from the one before the pandemic. The U.S. is lifting entry restrictions for more than 30 countries, including China, Brazil and India. 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-06/court-halts-u-s-mandate-europe-hit-by-new-wave-virus-update">Flights to U.S. Reopen; German Cases Spike: Virus Update</a> Bloomberg: Flights for fully-vaccinated travelers from Europe to the U.S. begin Monday, though the lucrative market will be very different from the one before the pandemic. The U.S. is lifting entry restrictions for more than 30 countries, including China, Brazil and India. 
  <p class="updated_time"> 04:17 PM CT, Nov. 06 </p> 
  <a href="https://www.npr.org/2021/11/06/1053239123/black-republicans-walk-a-fine-line-toward-election-victory">Black Republicans walk a fine line toward election victory</a> NPR: NPR's Michel Martin speaks with professor Leah Wright Rigueur, author of The Loneliness of the Black Republican, about what this week's elections signal for Black conservatives. 
  <p class="updated_time"> 04:17 PM CT, Nov. 06 </p> 
