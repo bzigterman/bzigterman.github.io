@@ -7,10 +7,10 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:47 PM CT, Nov. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-59195399?at_medium=RSS&at_campaign=KARANGA">Iraqi PM al-Kadhimi survives Baghdad 'assassination attempt'</a> BBC: Mustafa al-Kadhimi said he was unhurt in the attack on his house, said to be by an armed drone. 
  <p class="updated_time"> 09:30 PM CT, Nov. 06 </p> 
  <a href="https://www.nytimes.com/2021/11/06/world/middleeast/iraq-prime-minister-drone.html">Iraq Says Drone Strike Was Aimed at Prime Minister</a> NYT: Prime Minister Mustafa al-Kadhimi was unharmed in the attack on his residence early Sunday, the government said. 
- <p class="updated_time"> 09:20 PM CT, Nov. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-59195399?at_medium=RSS&at_campaign=KARANGA">Iraqi PM al-Kadhimi survives Baghdad 'assassination attempt'</a> BBC: Mustafa al-Kadhimi said he was unhurt in the attack on his house, said to be by an armed drone. 
  <p class="updated_time"> 07:55 PM CT, Nov. 06 </p> 
  <a href="https://www.npr.org/2021/11/06/1053226380/astroworld-concert-tragedies-love-parade-pearl-jam-the-who-rolling-stones">Astroworld Festival joins a list of historical concert tragedies</a> NPR: Astroworld Festival calls to mind other rare but traumatic incidents at concerts and festivals throughout the last half-century. Here's a timeline of those tragedies. 
  <p class="updated_time"> 07:39 PM CT, Nov. 06 </p> 
