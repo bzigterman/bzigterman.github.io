@@ -216,11 +216,13 @@ permalink: /projects/news/
 
  <p class="updated_time"> 01:31 PM CT, Nov. 07 </p> 
  <a href="https://www.politico.com/news/2021/11/07/strategic-reserve-rising-fuel-prices-granholm-520093">Biden may tap strategic reserve amid rising fuel prices, Granholm says</a> Politico: “The president is all over this. Of course, every president is frustrated because they can’t control the price of gasoline,” she said. 
+ <p class="updated_time"> 12:49 PM CT, Nov. 07 </p> 
+ <a href="https://www.nytimes.com/2021/11/07/health/biden-osha-vaccine-mandate.html">Biden Administration Is ‘Prepared to Defend’ Vaccine Rules, Surgeon General Said</a> NYT: The administration last week set Jan. 4 as the deadline for companies with 100 or more employees to mandate Covid vaccinations or implement weekly testing of workers. 
  <p class="updated_time"> 12:47 PM CT, Nov. 07 </p> 
  <a href="https://www.politico.com/news/2021/11/07/rick-scott-republicans-trump-support-520055">Rick Scott to GOP hopefuls: Get Trump’s support, but go beyond that</a> Politico: The head of the National Republican Senatorial Committee also said the committee will back all incumbents, whether Trump likes them or not. 
  <p class="updated_time"> 12:39 PM CT, Nov. 07 </p> 
  <a href="https://www.politico.com/news/2021/11/07/election-voters-message-action-klain-520042">'Voters sent a message on Tuesday' for more action, Klain says</a> Politico: “In my opinion,” he said, “it’s been a rough and tough year.” 
- <p class="updated_time"> 12:16 PM CT, Nov. 07 </p> 
+ <p class="updated_time"> 12:39 PM CT, Nov. 07 </p> 
  <a href="https://www.nytimes.com/2021/11/07/us/politics/afghanistan-war-marines.html">Young Marines in Kabul Were Left to Run Final Days of Evacuation</a> NYT: The young Marines in Kabul were left to determine who was evacuated from Afghanistan and who was left behind. The cost was high. 
  <p class="updated_time"> 12:14 PM CT, Nov. 07 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-07/thousands-demonstrate-in-ethiopia-against-rebels-interference">Thousands Demonstrate in Ethiopia Against Rebels, Interference</a> Bloomberg: Tens of thousands of residents of Addis Ababa took to the streets on Sunday to denounce rebel forces that have threatened to march on Ethiopia’s capital city and to reject foreign involvement in the country’s civil war. 
@@ -334,8 +336,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/06/us/politics/military-jury-cia-torture.html">Foreman Says Military Jury Was Disgusted by C.I.A. Torture</a> NYT: A Navy captain whose letter recommended clemency for a Qaeda terrorist drafted the damning two-page document in 20 minutes. 
  <p class="updated_time"> 12:48 PM CT, Nov. 06 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/G8WxaXYsnXA/index.html">Republican Ed Durr will defeat New Jersey's Senate president, CNN projects</a> CNN: Republican Ed Durr will defeat Democratic state Sen. Steve Sweeney, the Senate president, in New Jersey's state Senate district 3, CNN projects. 
- <p class="updated_time"> 12:31 PM CT, Nov. 06 </p> 
- <a href="https://www.nytimes.com/2021/11/05/us/politics/project-veritas-investigation-ashley-biden-diary.html">People Tied to Project Veritas Scrutinized in Theft of Diary From Biden’s Daughter</a> NYT: The F.B.I. carried out search warrants in New York as part of a Justice Department investigation into how pages from Ashley Biden’s journal came to be published by a right wing website. 
  <p class="updated_time"> 11:54 AM CT, Nov. 06 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/y2-yFcKx5oU/index.html">Biden gets his infrastructure win and an education on a new Washington</a> CNN: Final passage of a massive public works bill Friday provided President Joe Biden what had increasingly seemed like a vanishing ideal: A major, bipartisan accomplishment that has the power to improve the lives of millions of Americans. 
  <p class="updated_time"> 11:52 AM CT, Nov. 06 </p> 
