@@ -206,12 +206,12 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:00 PM CT, Nov. 06 </p> 
+ <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2NkhBglAY6w/index.html">Federal appeals court issues stay of Biden administration's vaccine mandate for private companies</a> CNN: A federal appeals court temporarily blocked the Biden administration's new vaccine rules that could apply to larger employers, certain health care workers and federal contractors. 
  <p class="updated_time"> 07:47 PM CT, Nov. 06 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sWdL-IYaLvg/index.html">Chris Christie delivers tough message to Republican audience, saying GOP gains hinge on moving on from 2020</a> CNN: While the other potential GOP White House aspirants continue to tip-toe around former President Donald Trump, former New Jersey Gov. Chris Christie argued Saturday that his week's election results marked the "beginning of a new era" for the Republican Party -- one that looks "forward and not backwards" as he addressed the Republican Jewish Coalition in Las Vegas. 
  <p class="updated_time"> 07:35 PM CT, Nov. 06 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-07/iraqi-prime-minister-survives-assassination-attempt-by-drone">Iraqi Prime Minister Survives Assassination Attempt by Drone</a> Bloomberg: Iraqi Prime Minister Mustafa al-Kadhimi survived an assassination attempt early Sunday after an explosive-laden drone targeted his residence inside the Green Zone. 
- <p class="updated_time"> 07:23 PM CT, Nov. 06 </p> 
- <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2NkhBglAY6w/index.html">Federal appeals court issues stay of Biden administration's vaccine mandate for private companies</a> CNN: A federal appeals court temporarily blocked the Biden administration's new vaccine rules that could apply to larger employers, certain health care workers and federal contractors. 
  <p class="updated_time"> 07:21 PM CT, Nov. 06 </p> 
  <a href="https://www.nytimes.com/2021/11/06/us/politics/defectors-infrastructure-bill-squad.html">In Infrastructure Votes, 19 Members Broke With Their Party</a> NYT: The defectors who crossed partisan lines in Congress include 13 Republicans who supported the bill and the six liberal members of “The Squad,” who opposed it. 
  <p class="updated_time"> 06:48 PM CT, Nov. 06 </p> 
