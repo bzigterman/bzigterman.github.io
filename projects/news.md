@@ -7,10 +7,10 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:19 AM CT, Nov. 07 </p> 
+ <a href="https://www.nytimes.com/2021/11/06/world/americas/costa-rica-covid-vaccine-children.html">Costa Rica moves to require Covid shots for children.</a> NYT: The Central American nation’s health ministry said on Friday it was adding Covid-19 to the list of required vaccinations for people 18 and younger. 
  <p class="updated_time"> 01:18 AM CT, Nov. 07 </p> 
  <a href="https://www.nytimes.com/2021/11/06/world/asia/india-fire-covid-icu.html">A fire in Covid intensive care ward kills 11 people in India.</a> NYT: Staff at the hospital in the western state of Maharashtra tried to douse the fire with fire extinguishers, but the flames spread quickly in the airtight room. 
- <p class="updated_time"> 01:04 AM CT, Nov. 07 </p> 
- <a href="https://www.nytimes.com/2021/11/06/world/americas/costa-rica-covid-vaccine-children.html">Costa Rica moves to require Covid shots for children.</a> NYT: The Central American nation’s health ministry said on Friday it was adding Covid-19 to the list of required vaccinations for people 18 and younger. 
  <p class="updated_time"> 12:35 AM CT, Nov. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59194819?at_medium=RSS&at_campaign=KARANGA">Astroworld: Criminal investigation into Texas festival crowd surge</a> BBC: Eight people died after a deadly crowd surge during a performance by rapper Travis Scott. 
  <p class="updated_time"> 11:55 PM CT, Nov. 06 </p> 
@@ -208,6 +208,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 01:11 AM CT, Nov. 07 </p> 
  <a href="https://www.nytimes.com/2021/11/06/us/politics/defectors-infrastructure-bill-squad.html">In Infrastructure Votes, 19 Members Broke With Their Party</a> NYT: The defectors who crossed partisan lines in Congress include 13 Republicans who supported the bill and the six liberal members of “The Squad,” who opposed it. 
+ <p class="updated_time"> 12:00 AM CT, Nov. 07 </p> 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-07/houston-leaders-seek-clues-for-concert-mishap-that-killed-8">Houston Leaders Seek Clues for Concert Mishap That Killed 8</a> Bloomberg: Houston (AP) -- Authorities said they would watch video, interview witnesses and review concert protocols to determine how eight people died at a Houston music festival when fans suddenly surged toward the stage to watch rapper Travis Scott. 
  <p class="updated_time"> 11:10 PM CT, Nov. 06 </p> 
  <a href="https://www.nytimes.com/2021/11/06/us/politics/james-okeefe-project-veritas-ashley-biden.html">F.B.I. Searches James O’Keefe’s Home in Ashley Biden Diary Theft Inquiry</a> NYT: Authorities carried out a court-ordered search at the New York apartment of the Project Veritas founder two days after searching the homes of his associates. 
  <p class="updated_time"> 09:14 PM CT, Nov. 06 </p> 
@@ -222,6 +224,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/06/us/politics/infrastructure-black-caucus-vote.html">How a $1 Trillion Infrastructure Bill Survived an Intraparty Brawl</a> NYT: Speaker Nancy Pelosi agreed to a deal proposed by the Congressional Black Caucus, mobilizing one faction of Democratic lawmakers to win over two others. 
  <p class="updated_time"> 06:45 PM CT, Nov. 06 </p> 
  <a href="https://www.washingtonpost.com/politics/biden-infrastructure-presidency/2021/11/06/4eaa5372-3f05-11ec-8ee9-4f14a26749d1_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">After months of setbacks, Biden finally gets long-sought win on infrastructure</a> WaPo: With his presidency on the ropes, Biden felt a new sense of urgency to produce legislative results — and a willingness to accept greater risk in pursuing them. 
+ <p class="updated_time"> 06:01 PM CT, Nov. 06 </p> 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-06/court-halts-u-s-mandate-europe-hit-by-new-wave-virus-update">China’s Outbreak Grows; Europe Hit by New Wave: Virus Update</a> Bloomberg: China reported 50 new local coronavirus cases, as its outbreak continues to grow despite increasingly stringent measures of containment in the world’s last Covid Zero holdout. 
  <p class="updated_time"> 05:25 PM CT, Nov. 06 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-06/australia-u-k-confident-of-free-trade-agreement-by-year-end">Australia, U.K. ‘Confident’ of Free Trade Agreement by Year-End</a> Bloomberg: Australia and the U.K. are both “very confident” that their free trade agreement would be finalized by year-end, said David McCredie, chief executive officer of the Australian British Chamber of Commerce. 
  <p class="updated_time"> 05:15 PM CT, Nov. 06 </p> 
@@ -348,10 +352,6 @@ permalink: /projects/news/
  <a href="https://www.bloomberg.com/news/articles/2021-11-06/pelosi-s-political-prowess-tested-by-struggle-for-biden-agenda">Pelosi’s Political Prowess Tested by Struggle for Biden Agenda</a> Bloomberg: U.S. House Speaker Nancy Pelosi’s struggle to deliver on President Joe Biden’s two biggest policy priorities has illustrated the distrust and divisions within her party at a time Democrats desperately want to show they can govern. 
  <p class="updated_time"> 06:00 AM CT, Nov. 06 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-06/moderna-finds-that-inventing-a-covid-vaccine-was-the-easy-part">Moderna Finds That Inventing a Covid Vaccine Was the Easy Part</a> Bloomberg: Moderna Inc. has some of the highest-flying science in the biotech business. It brought its messenger RNA vaccine to the market in less than a year, faster than almost anyone thought possible. 
- <p class="updated_time"> 04:37 AM CT, Nov. 06 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-06/cop-and-carbon-trading-can-this-time-be-different">COP and Carbon Trading: Can This Time Be Different?</a> Bloomberg: Negotiators are trying to&nbsp;nail down a deal they’ve been chasing for six years. 
- <p class="updated_time"> 04:21 AM CT, Nov. 06 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-06/france-says-sudan-coup-challenges-july-paris-club-debt-accord">France Says Sudan Coup Challenges July Paris Club Debt Accord</a> Bloomberg: The recent coup in Sudan puts into question a July Paris Club agreement to rework $23.5 billion of Sudan’s debt, France’s foreign ministry said in a statement Friday evening. 
  <p class="updated_time"> 03:24 AM CT, Nov. 06 </p> 
  <a href="https://www.nytimes.com/2021/11/05/upshot/biden-budget-scorekeepers-cbo.html">2,000 Pages and Pronto! Budget Scorekeepers Are Under Pressure</a> NYT: Lawmakers want detailed estimates on the effects of the big Democratic bill, but that can take longer than they think, slowing the process. 
  <p class="updated_time"> 03:23 AM CT, Nov. 06 </p> 
