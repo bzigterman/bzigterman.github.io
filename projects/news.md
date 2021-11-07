@@ -7,14 +7,14 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:55 PM CT, Nov. 07 </p> 
+ <a href="https://www.nytimes.com/2021/11/07/world/americas/nicaragua-election-ortega.html">In Nicaragua Election, Ortega Crushes Dissent</a> NYT: President Daniel Ortega quashed the opposition and struck fear in voters, all but guaranteeing his victory in a presidential contest on Sunday. 
+ <p class="updated_time"> 01:52 PM CT, Nov. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59199831?at_medium=RSS&at_campaign=KARANGA">Astroworld: Victims named as police probe US festival crush</a> BBC: Family and friends pay tribute to those who died at Travis Scott's Astroworld festival in Houston. 
  <p class="updated_time"> 01:17 PM CT, Nov. 07 </p> 
  <a href="https://www.nytimes.com/2021/11/07/us/politics/afghanistan-war-marines.html">Young Marines in Kabul Were Left to Run Final Days of Evacuation</a> NYT: The young Marines in Kabul were left to determine who was evacuated from Afghanistan and who was left behind. The cost was high. 
- <p class="updated_time"> 01:00 PM CT, Nov. 07 </p> 
- <a href="https://www.nytimes.com/2021/11/07/world/americas/nicaragua-election-ortega.html">In Nicaragua Election, Ortega Crushes Dissent</a> NYT: President Daniel Ortega quashed the opposition and struck fear in voters, all but guaranteeing his victory in a presidential contest on Sunday. 
  <p class="updated_time"> 11:29 AM CT, Nov. 07 </p> 
  <a href="https://www.nytimes.com/2021/11/06/world/middleeast/iraq-prime-minister-drone.html">Fears of Wider Instability in Iraq After Attack on Prime Minister’s Home</a> NYT: Armed drones struck the Iraqi prime minister’s home in what was seen as a warning as Iranian-backed groups dispute the results of parliamentary elections. 
- <p class="updated_time"> 11:26 AM CT, Nov. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59199831?at_medium=RSS&at_campaign=KARANGA">Astroworld: Victims named as police probe US festival crush</a> BBC: Family and friends pay tribute to those who died at Travis Scott's Astroworld festival in Houston. 
  <p class="updated_time"> 11:25 AM CT, Nov. 07 </p> 
  <a href="https://www.nytimes.com/2021/11/07/travel/us-travel-ban-reunions.html">As U.S. Travel Changes Near, Global Travelers Eagerly Await Reunions</a> NYT: On Monday, travelers from many other countries who are fully vaccinated against the coronavirus will be allowed to enter the United States. 
  <p class="updated_time"> 11:11 AM CT, Nov. 07 </p> 
@@ -31,6 +31,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/06/world/europe/camino-de-santiago-spain.html">On Spain’s Camino de Santiago, Even Óscar the Donkey Is a Pilgrim</a> NYT: An artist and an innkeeper have enlisted the help of a burro in their effort to rescue the traditions of Spain’s ancient pilgrimage route from mass tourism (and selfies). 
  <p class="updated_time"> 09:08 AM CT, Nov. 07 </p> 
  <a href="https://www.nytimes.com/2021/11/06/world/americas/biden-osha-vaccine-mandate-blocked.html">Biden's Vaccine Mandate Temporarily Blocked, Foreshadowing Uphill Battle</a> NYT: A stay granted by a federal appeals court in Louisiana could signal an uphill battle for the administration in getting the entire American work force vaccinated. 
+ <p class="updated_time"> 08:49 AM CT, Nov. 07 </p> 
+ <a href="https://www.wsj.com/articles/iraqs-prime-minister-survives-assassination-attempt-government-says-11636248485">Iraqi Prime Minister Targeted in Assassination Attempt</a> WSJ: An explosive-laden drone attacked the residence of Iraqi Prime Minister Mustafa al-Kadhimi in Baghdad. The prime minister said he wasn’t hurt. 
  <p class="updated_time"> 08:34 AM CT, Nov. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59196465?at_medium=RSS&at_campaign=KARANGA">In pictures: Thousands join huge pro-government rally in Ethiopia</a> BBC: The rally comes as rebel Tigrayan forces advance within 300km of the capital Addis Ababa. 
  <p class="updated_time"> 08:30 AM CT, Nov. 07 </p> 
@@ -59,8 +61,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-middle-east-59195399?at_medium=RSS&at_campaign=KARANGA">Iraqi PM al-Kadhimi survives drone attack on his home</a> BBC: Mustafa al-Kadhimi says he was not hurt in the attack by a drone carrying explosives in Baghdad. 
  <p class="updated_time"> 04:45 AM CT, Nov. 07 </p> 
  <a href="https://www.wsj.com/articles/the-economic-rebound-from-covid-19-was-easy-now-comes-the-hard-part-11636299941">The Economic Rebound From Covid-19 Was Easy. Now Comes the Hard Part.</a> WSJ: As supply-chain disruptions worsen and inflation surges, executives and policy makers must navigate a delicate transition to a more normal economy. 
- <p class="updated_time"> 04:09 AM CT, Nov. 07 </p> 
- <a href="https://www.wsj.com/articles/iraqs-prime-minister-survives-assassination-attempt-government-says-11636248485">Iraqi Prime Minister Targeted in Assassination Attempt</a> WSJ: An explosive-laden drone attacked the residence of Iraqi Prime Minister Mustafa al-Kadhimi in Baghdad. The prime minister said he wasn’t hurt. 
  <p class="updated_time"> 04:00 AM CT, Nov. 07 </p> 
  <a href="https://www.npr.org/2021/11/07/1051892092/guyana-climate-change-exxon-co26">Guyana is a poor country that was a green champion. Then Exxon discovered oil</a> NPR: Guyana, one of South America's poorest countries, is under severe threat by rising seas. That had made it a champion of climate action, but it all changed when ExxonMobil found oil off its waters. 
  <p class="updated_time"> 04:00 AM CT, Nov. 07 </p> 
@@ -309,7 +309,7 @@ permalink: /projects/news/
  <p class="updated_time"> 01:59 AM CT, Nov. 07 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-07/china-tells-iran-that-u-s-should-rectify-nuclear-moves-xinhua">China Tells Iran That U.S. Should Rectify Nuclear Moves: Xinhua</a> Bloomberg: China said the U.S. should rectify its actions in unilaterally withdrawing from a nuclear pact with Iran, and the Persian Gulf nation can resume fulfilling its nuclear commitments on that basis. 
  <p class="updated_time"> 12:00 AM CT, Nov. 07 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-07/houston-leaders-seek-clues-for-concert-mishap-that-killed-8">Houston Leaders Seek Clues for Concert Surge That Killed 8</a> Bloomberg: Houston (AP) -- Authorities said they would watch video, interview witnesses  and review concert protocols to determine how eight people died at a Houston music festival when fans suddenly surged toward the stage to watch rapper Travis Scott. 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-07/houston-leaders-seek-clues-for-concert-mishap-that-killed-8">Mourning Starts as Houston Officials Probe Concert Deaths</a> Bloomberg: Houston (AP) -- Investigators Sunday worked to determine how eight people died in a crush of fans at a Houston music festival, as friends and loved ones mourned the victims and a makeshift memorial of flowers and candles took shape at the site. 
  <p class="updated_time"> 11:10 PM CT, Nov. 06 </p> 
  <a href="https://www.nytimes.com/2021/11/06/us/politics/james-okeefe-project-veritas-ashley-biden.html">F.B.I. Searches James O’Keefe’s Home in Ashley Biden Diary Theft Inquiry</a> NYT: Authorities carried out a court-ordered search at the New York apartment of the Project Veritas founder two days after searching the homes of his associates. 
  <p class="updated_time"> 09:10 PM CT, Nov. 06 </p> 
