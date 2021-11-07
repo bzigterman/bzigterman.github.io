@@ -7,14 +7,14 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:43 PM CT, Nov. 07 </p> 
+ <p class="updated_time"> 04:01 PM CT, Nov. 07 </p> 
+ <a href="https://www.nytimes.com/2021/11/07/world/europe/uk-virus-surge-booster-shots.html">U.K. Health Secretary Urges People to Get Boosters</a> NYT: “If we all come together and play our part, we can get through this challenging winter, avoid a return to restrictions and enjoy Christmas,” said Sajid Javid, the health secretary. 
+ <p class="updated_time"> 04:00 PM CT, Nov. 07 </p> 
  <a href="https://www.nytimes.com/2021/11/07/world/asia/afghan-pilots-taliban-us.html">Afghan Military Pilots, on the Run, Feel Abandoned by U.S.</a> NYT: Detained in Tajikistan, or hiding from the Taliban in Afghanistan, many pilots wonder why the military that trained them is not coming to their aid. 
  <p class="updated_time"> 03:35 PM CT, Nov. 07 </p> 
  <a href="https://www.npr.org/2021/11/07/1053356424/how-did-the-enslaved-workers-of-pompeii-live-a-new-discovery-provides-a-rare-gli">How did the enslaved workers of Pompeii live? A new discovery provides a rare glimpse</a> NPR: Archaeologists working to uncover a wealthy villa on the outskirts of the ancient city have found a dormitory for workers, providing important insight into daily life. 
  <p class="updated_time"> 03:23 PM CT, Nov. 07 </p> 
  <a href="https://www.nytimes.com/2021/11/07/world/americas/nicaragua-election-ortega.html">In Nicaragua Election, Ortega Crushes Dissent</a> NYT: President Daniel Ortega quashed the opposition and struck fear in voters, all but guaranteeing his victory in a presidential contest on Sunday. 
- <p class="updated_time"> 02:40 PM CT, Nov. 07 </p> 
- <a href="https://www.nytimes.com/2021/11/07/world/europe/uk-virus-surge-booster-shots.html">U.K. Health Secretary Urges People to Get Boosters</a> NYT: “If we all come together and play our part, we can get through this challenging winter, avoid a return to restrictions and enjoy Christmas,” said Sajid Javid, the health secretary. 
  <p class="updated_time"> 02:32 PM CT, Nov. 07 </p> 
  <a href="https://www.nytimes.com/2021/11/07/travel/us-travel-ban-reunions.html">As U.S. Travel Changes Near, Global Travelers Eagerly Await Reunions</a> NYT: On Monday, travelers from many other countries who are fully vaccinated against the coronavirus will be allowed to enter the United States. 
  <p class="updated_time"> 02:25 PM CT, Nov. 07 </p> 
@@ -218,10 +218,16 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:01 PM CT, Nov. 07 </p> 
+ <a href="https://www.npr.org/2021/11/07/1053387440/rep-ruben-gallego-talks-new-book-exploring-how-the-u-s-treats-its-veterans">Rep. Ruben Gallego talks new book exploring how the U.S. treats its veterans</a> NPR: NPR's Michel Martin speaks with Congressman Ruben Gallego about his upcoming book They Called Us "Lucky": The Life and Afterlife of the Iraq War's Hardest Hit Unit. 
+ <p class="updated_time"> 03:55 PM CT, Nov. 07 </p> 
+ <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DElB6sGwR-I/index.html">Jill Biden pays tribute to one of America's most iconic first ladies</a> CNN: As the season changed from summer to fall, first lady Jill Biden has found a spot to sit outside at the White House to grade her students' essays. 
  <p class="updated_time"> 03:34 PM CT, Nov. 07 </p> 
- <a href="https://www.washingtonpost.com/politics/2021/11/07/rick-scott-trump-nrsc/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Defying Trump, Rick Scott backs McConnell and Murkowski, tiptoes around false claims about election fraud</a> WaPo: "I think you'd be foolish not to want and accept Donald Trump's endorsement," Scott also told NBC's "Meet the Press" Sunday. 
+ <a href="https://www.washingtonpost.com/politics/2021/11/07/rick-scott-trump-nrsc/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Defying Trump, Rick Scott backs McConnell and Murkowski, tiptoes around false claims about election fraud</a> WaPo: “I think you’d be foolish not to want and accept Donald Trump’s endorsement,” Scott also told NBC’s “Meet the Press” Sunday. 
  <p class="updated_time"> 03:24 PM CT, Nov. 07 </p> 
  <a href="https://www.politico.com/news/2021/11/07/nicaragua-ortega-election-sandinistas-520133">Nicaragua’s Ortega seeks reelection in questioned vote</a> Politico: He blasted the United States for interference in Nicaragua. 
+ <p class="updated_time"> 03:00 PM CT, Nov. 07 </p> 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-07/movie-theaters-show-quiet-resistance-to-thai-monarchy-is-growing">Movie Theaters Show Quiet Resistance to Thai Monarchy Is Growing</a> Bloomberg: More Thais are choosing to sit during the royal anthem, a vivid display of how attitudes toward the monarchy are changing.&nbsp; 
  <p class="updated_time"> 03:00 PM CT, Nov. 07 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KHemrSyJXcs/index.html">Jayapal on why progressives chose pragmatism: 'We need to keep our eyes on the prize'</a> CNN: The Congressional Progressive Caucus got the White House message -- no more delay. Members embraced a compromise economic package as the best available deal, and accepted private assurances of Senate support. 
  <p class="updated_time"> 02:32 PM CT, Nov. 07 </p> 
@@ -230,8 +236,6 @@ permalink: /projects/news/
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sWdL-IYaLvg/index.html">Chris Christie delivers tough message to Republican audience, saying GOP gains hinge on moving on from 2020</a> CNN: While the other potential GOP White House aspirants continue to tip-toe around former President Donald Trump, former New Jersey Gov. Chris Christie argued Saturday that his week's election results marked the "beginning of a new era" for the Republican Party -- one that looks "forward and not backwards" as he addressed the Republican Jewish Coalition in Las Vegas. 
  <p class="updated_time"> 02:13 PM CT, Nov. 07 </p> 
  <a href="https://www.nytimes.com/2021/11/07/us/politics/republican-party-trump.html">Republicans, Basking in Tuesday’s Victories, Diverge on What Comes Next</a> NYT: Looming over a gathering of Jewish conservatives in Las Vegas were questions about whether former President Donald J. Trump should remain the face of the party. 
- <p class="updated_time"> 02:00 PM CT, Nov. 07 </p> 
- <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DElB6sGwR-I/index.html">Jill Biden pays tribute to one of America's most iconic first ladies</a> CNN: As the season changed from summer to fall, first lady Jill Biden has found a spot to sit outside at the White House to grade her students' essays. 
  <p class="updated_time"> 02:00 PM CT, Nov. 07 </p> 
  <a href="https://www.politico.com/news/2021/11/07/murphy-new-jersey-reelection-hurt-520110">‘There’s a lot of hurt out there,’ N.J. governor says of close reelection</a> Politico: But Gov. Phil Murphy said things could have been a lot worse. 
  <p class="updated_time"> 01:44 PM CT, Nov. 07 </p> 
@@ -394,8 +398,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/06/rural-dems-trouble-519782">Rural Democrats stare into the abyss after Virginia</a> Politico: Rural Democrats say the party’s problems on their turf are twofold. 
  <p class="updated_time"> 06:00 AM CT, Nov. 06 </p> 
  <a href="https://www.politico.com/news/2021/11/06/trump-arizona-senate-primary-519779">Trump muscles into Arizona Senate primary</a> Politico: The former president, who has not yet endorsed in the contest, will appear at a fundraiser for Republican Blake Masters. 
- <p class="updated_time"> 06:00 AM CT, Nov. 06 </p> 
- <a href="https://www.npr.org/2021/11/06/1052876271/democrats-are-seeking-largest-ever-investment-in-affordable-housing">Democrats are seeking largest ever investment in affordable housing</a> NPR: The U.S. is facing its worst affordable housing crisis in generations. The heart of the problem is we just doesn't have enough homes. There's too much demand and not enough supply. 
  <p class="updated_time"> 03:24 AM CT, Nov. 06 </p> 
  <a href="https://www.nytimes.com/2021/11/05/upshot/biden-budget-scorekeepers-cbo.html">2,000 Pages and Pronto! Budget Scorekeepers Are Under Pressure</a> NYT: Lawmakers want detailed estimates on the effects of the big Democratic bill, but that can take longer than they think, slowing the process. 
  <p class="updated_time"> 03:23 AM CT, Nov. 06 </p> 
