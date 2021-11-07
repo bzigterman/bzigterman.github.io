@@ -8,6 +8,8 @@ permalink: /projects/news/
 <summary>World News</summary>
 
  <p class="updated_time"> 08:34 AM CT, Nov. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59196465?at_medium=RSS&at_campaign=KARANGA">In pictures: Thousands join huge pro-government rally in Ethiopia</a> BBC: The rally comes as rebel Tigrayan forces advance within 300km of the capital Addis Ababa. 
+ <p class="updated_time"> 08:34 AM CT, Nov. 07 </p> 
  <a href="https://www.nytimes.com/2021/11/06/world/middleeast/iraq-prime-minister-drone.html">Fears of Wider Instability in Iraq After Attack on Prime Minister’s Home</a> NYT: Armed drones struck the Iraqi prime minister’s home in what was seen as a warning as Iranian-backed groups dispute the results of parliamentary elections. 
  <p class="updated_time"> 08:30 AM CT, Nov. 07 </p> 
  <a href="https://www.npr.org/2021/11/07/1051940127/rebels-are-closing-in-on-ethiopias-capital-its-collapse-could-bring-regional-cha">Rebels are closing in on Ethiopia's capital. Its collapse could bring regional chaos</a> NPR: A newly formed rebel alliance led by the Tigray People's Liberation Front is within striking distance of Addis Ababa. A failed state could displace millions of people and stoke more ethnic violence. 
@@ -30,9 +32,9 @@ permalink: /projects/news/
  <p class="updated_time"> 04:00 AM CT, Nov. 07 </p> 
  <a href="https://www.npr.org/2021/11/07/1051892092/guyana-climate-change-exxon-co26">Guyana is a poor country that was a green champion. Then Exxon discovered oil</a> NPR: Guyana, one of South America's poorest countries, is under severe threat by rising seas. That had made it a champion of climate action, but it all changed when ExxonMobil found oil off its waters. 
  <p class="updated_time"> 04:00 AM CT, Nov. 07 </p> 
- <a href="https://www.nytimes.com/2021/11/07/science/antarctica-wildfires.html">Antarctica Was Once a Land of Fire and Not Ice</a> NYT: Charcoal recovered from a dig near the southern continent shows that the region wasn’t spared from the era scientists call a “super fire world.” 
- <p class="updated_time"> 04:00 AM CT, Nov. 07 </p> 
  <a href="https://www.nytimes.com/2021/11/07/world/americas/nicaragua-election-ortega.html">In Nicaragua Election, Ortega Crushes Dissent</a> NYT: President Daniel Ortega quashed the opposition and struck fear in voters, all but guaranteeing his victory in a presidential contest on Sunday. 
+ <p class="updated_time"> 04:00 AM CT, Nov. 07 </p> 
+ <a href="https://www.nytimes.com/2021/11/07/science/antarctica-wildfires.html">Antarctica Was Once a Land of Fire and Not Ice</a> NYT: Charcoal recovered from a dig near the southern continent shows that the region wasn’t spared from the era scientists call a “super fire world.” 
  <p class="updated_time"> 04:00 AM CT, Nov. 07 </p> 
  <a href="https://www.nytimes.com/2021/11/07/world/asia/china-xi-jinping.html">Xi Jinping is Rewriting China's History</a> NYT: A new official summation of Communist Party history is likely to exalt Xi Jinping as a peer of Mao and Deng, fortifying his claim to a new phase in power. 
  <p class="updated_time"> 03:42 AM CT, Nov. 07 </p> 
@@ -89,8 +91,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59181509?at_medium=RSS&at_campaign=KARANGA">Three seriously injured in knife attack on train in Germany</a> BBC: A 27-year-old Syrian man is arrested after the attack on a high-speed train in Bavaria. 
  <p class="updated_time"> 01:09 PM CT, Nov. 06 </p> 
  <a href="https://www.nytimes.com/2021/11/06/world/asia/uyghur-mental-health-china.html">Uyghurs Seek Emotional Help as Families in China Suffer</a> NYT: As Uyghurs grapple with the emotional trauma of their families suffering back in Xinjiang, some are overcoming a cultural stigma to seek out counseling. 
- <p class="updated_time"> 11:09 AM CT, Nov. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59192048?at_medium=RSS&at_campaign=KARANGA">Biden: Infrastructure bill is 'monumental step forward'</a> BBC: The long-delayed $1tn (£741bn) spending package is a major domestic win for the US president. 
  <p class="updated_time"> 11:08 AM CT, Nov. 06 </p> 
  <a href="https://www.nytimes.com/2021/11/05/world/canada/manitoba-premier-election-stefanson-glover.html">Manitoba's New Premier Faces Court Challenge by Rival</a> NYT: The litigation highlights the often messy process that Canadian political parties use to select their leaders. 
  <p class="updated_time"> 10:22 AM CT, Nov. 06 </p> 
@@ -151,8 +151,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/05/climate/cop26-john-kerry.html">John Kerry Lauds Progress at COP26 but Warns, ‘Job Not Done.’</a> NYT: Mr. Kerry, President Biden’s climate envoy, acknowledged that many of the promises being put forward in Glasgow were only that — promises. 
  <p class="updated_time"> 05:08 PM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/04/world/americas/biden-aide-covid-scotland.html">A White House aide who traveled abroad with Biden tests positive.</a> NYT: President Biden was not in close contact with the aide, who remains quarantined in Scotland and has not shown symptoms of Covid-19. 
- <p class="updated_time"> 04:39 PM CT, Nov. 05 </p> 
- <a href="https://www.nytimes.com/article/ethiopia-tigray-conflict-explained.html">Why Is Ethiopia at War in the Tigray Region? </a> NYT: The civil war has shifted dramatically since Prime Minister Abiy Ahmed began a military campaign in the Tigray region a year ago. With Tigrayan fighters advancing toward the capital, Ethiopia is at risk of collapse. 
  <p class="updated_time"> 03:31 PM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/05/world/africa/un-rights-panel-sudan-coup.html">U.N. Rights Panel Pressures Sudan Over Coup</a> NYT: The Human Rights Council appointed an expert to investigate abuses in the country since the military seized power on Oct. 25, and members called for the prime minister’s release. 
  <p class="updated_time"> 03:23 PM CT, Nov. 05 </p> 
@@ -171,6 +169,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/05/world/europe/shortages-german-economic-growth.html">Germany's Economy Hindered by Supply Chain Problems </a> NYT: The order books in Europe’s largest economy are full, but a lack of parts and raw materials means companies are struggling to fill them. 
  <p class="updated_time"> 09:58 AM CT, Nov. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-46138064?at_medium=RSS&at_campaign=KARANGA">Delhi pollution: Are Diwali fireworks to blame?</a> BBC: Do fireworks let off during Diwali celebrations really cause that much pollution? 
+ <p class="updated_time"> 09:41 AM CT, Nov. 05 </p> 
+ <a href="https://www.nytimes.com/2021/11/04/science/astronomy-decadal-survey-telescope.html">A New 10-Year Plan for the Cosmos</a> NYT: On astronomers’ wish list for the next decade: two giant telescopes and a space telescope to search for life and habitable worlds beyond Earth. 
  <p class="updated_time"> 09:29 AM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/05/world/asia/india-diwali-covid.html">In India, Fears Grow That Diwali Celebrations Could Fuel Another Virus Spike</a> NYT: Epidemiologists are concerned that Covid cases will surge after shoppers thronged markets and hundreds of thousands traveled around the country to celebrate the festival. 
  <p class="updated_time"> 09:28 AM CT, Nov. 05 </p> 
@@ -371,8 +371,6 @@ permalink: /projects/news/
  <p class="updated_time"> 06:00 AM CT, Nov. 06 </p> 
  <a href="https://www.npr.org/2021/11/06/1052885882/democrats-are-worried-about-u-s-democracy-theyve-got-limited-tools-to-protect-it">Democrats are worried about U.S. democracy. They've got limited tools to protect it</a> NPR: Democrats and some anti-Trump Republicans are panicked about the impact of the ex-president's election lies on American democracy. They see worst-case scenarios looming — but few, if any, solutions. 
  <p class="updated_time"> 06:00 AM CT, Nov. 06 </p> 
- <a href="https://www.npr.org/2021/11/06/1052876271/democrats-are-seeking-largest-ever-investment-in-affordable-housing">Democrats are seeking largest ever investment in affordable housing</a> NPR: The U.S. is facing its worst affordable housing crisis in generations. The heart of the problem is we just doesn't have enough homes. There's too much demand and not enough supply. 
- <p class="updated_time"> 06:00 AM CT, Nov. 06 </p> 
  <a href="https://www.politico.com/news/2021/11/06/new-york-governor-race-519790">New York governor’s race heats up, 1,600 miles away</a> Politico: The annual SOMOS conference has been one of the most important times on New York’s political calendar for decades. 
  <p class="updated_time"> 06:00 AM CT, Nov. 06 </p> 
  <a href="https://www.washingtonpost.com/politics/2021/11/06/charles-dolan-steele-dossier-igor-danchenko-indictment/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">A spin doctor with ties to Russia allegedly fed the Steele dossier before fighting to discredit it</a> WaPo: Charles Dolan Jr., a PR executive who cut his teeth in Democratic politics, provided anti-Trump information, according to new charges. 
@@ -384,6 +382,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/06/rural-dems-trouble-519782">Rural Democrats stare into the abyss after Virginia</a> Politico: Rural Democrats say the party’s problems on their turf are twofold. 
  <p class="updated_time"> 06:00 AM CT, Nov. 06 </p> 
  <a href="https://www.politico.com/news/2021/11/06/trump-arizona-senate-primary-519779">Trump muscles into Arizona Senate primary</a> Politico: The former president, who has not yet endorsed in the contest, will appear at a fundraiser for Republican Blake Masters. 
+ <p class="updated_time"> 06:00 AM CT, Nov. 06 </p> 
+ <a href="https://www.npr.org/2021/11/06/1052876271/democrats-are-seeking-largest-ever-investment-in-affordable-housing">Democrats are seeking largest ever investment in affordable housing</a> NPR: The U.S. is facing its worst affordable housing crisis in generations. The heart of the problem is we just doesn't have enough homes. There's too much demand and not enough supply. 
  <p class="updated_time"> 03:24 AM CT, Nov. 06 </p> 
  <a href="https://www.nytimes.com/2021/11/05/upshot/biden-budget-scorekeepers-cbo.html">2,000 Pages and Pronto! Budget Scorekeepers Are Under Pressure</a> NYT: Lawmakers want detailed estimates on the effects of the big Democratic bill, but that can take longer than they think, slowing the process. 
  <p class="updated_time"> 03:23 AM CT, Nov. 06 </p> 
