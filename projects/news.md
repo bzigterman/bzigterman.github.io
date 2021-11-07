@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:58 AM CT, Nov. 07 </p> 
+ <a href="https://www.nytimes.com/2021/11/06/world/middleeast/iraq-prime-minister-drone.html">Iraq Says Drone Strike Was Aimed at Prime Minister</a> NYT: Prime Minister Mustafa al-Kadhimi was unharmed in the attack on his residence early Sunday, the government said. 
  <p class="updated_time"> 01:38 AM CT, Nov. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-59185768?at_medium=RSS&at_campaign=KARANGA">ICYMI: From bright lights to great heights</a> BBC: Our weekly video round-up of some of the stories that might have passed you by: In Case You Missed It. 
  <p class="updated_time"> 01:19 AM CT, Nov. 07 </p> 
@@ -17,8 +19,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59194819?at_medium=RSS&at_campaign=KARANGA">Astroworld: Criminal investigation into Texas festival crowd surge</a> BBC: Eight people died after a deadly crowd surge during a performance by rapper Travis Scott. 
  <p class="updated_time"> 11:55 PM CT, Nov. 06 </p> 
  <a href="https://www.nytimes.com/2021/11/06/world/americas/biden-osha-vaccine-mandate-blocked.html">Biden's Vaccine Mandate Temporarily Blocked, Foreshadowing Uphill Battle</a> NYT: A stay granted by a federal appeals court in Louisiana could signal an uphill battle for the administration in getting the entire American work force vaccinated. 
- <p class="updated_time"> 10:25 PM CT, Nov. 06 </p> 
- <a href="https://www.nytimes.com/2021/11/06/world/middleeast/iraq-prime-minister-drone.html">Iraq Says Drone Strike Was Aimed at Prime Minister</a> NYT: Prime Minister Mustafa al-Kadhimi was unharmed in the attack on his residence early Sunday, the government said. 
  <p class="updated_time"> 09:47 PM CT, Nov. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59195399?at_medium=RSS&at_campaign=KARANGA">Iraqi PM al-Kadhimi survives Baghdad 'assassination attempt'</a> BBC: Mustafa al-Kadhimi said he was unhurt in the attack on his house, said to be by an armed drone. 
  <p class="updated_time"> 07:55 PM CT, Nov. 06 </p> 
@@ -206,6 +206,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 01:27 AM CT, Nov. 07 </p> 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-07/iran-begins-annual-war-games-ahead-of-nuke-talks-with-west">Iran Begins Annual War Games Ahead of Nuke Talks With West</a> Bloomberg: Tehran, Iran (AP) -- Iran’s military began its annual war games in a coastal area of the Gulf of Oman, state TV reported Sunday, less than a month before upcoming nuclear talks with the West. 
  <p class="updated_time"> 01:11 AM CT, Nov. 07 </p> 
  <a href="https://www.nytimes.com/2021/11/06/us/politics/defectors-infrastructure-bill-squad.html">In Infrastructure Votes, 19 Members Broke With Their Party</a> NYT: The defectors who crossed partisan lines in Congress include 13 Republicans who supported the bill and the six liberal members of “The Squad,” who opposed it. 
  <p class="updated_time"> 12:00 AM CT, Nov. 07 </p> 
