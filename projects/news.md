@@ -7,8 +7,12 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:40 PM CT, Nov. 06 </p> 
- <a href="https://www.nytimes.com/2021/11/06/world/americas/biden-osha-vaccine-mandate-blocked.html">Court Temporarily Blocks Biden’s Vaccine Mandate for Large Companies</a> NYT: A federal appeals court in Louisiana granted a temporary stay to a group of businesses, religious groups and several states that argued the administration overstepped its authority. 
+ <p class="updated_time"> 07:06 PM CT, Nov. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/world-59186087?at_medium=RSS&at_campaign=KARANGA">Climate: Making the BBC’s Life at 50C season</a> BBC: The BBC’s Life at 50C season, follows those people living on the front line of climate change. 
+ <p class="updated_time"> 07:03 PM CT, Nov. 06 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-59178047?at_medium=RSS&at_campaign=KARANGA">Former K-Pop star Henry Lau's art work on show in London</a> BBC: Former K-Pop boy band star Henry Lau trades the mic in for a tin of paint for his latest project. 
+ <p class="updated_time"> 06:59 PM CT, Nov. 06 </p> 
+ <a href="https://www.nytimes.com/2021/11/06/world/americas/biden-osha-vaccine-mandate-blocked.html">Court Temporarily Blocks Biden’s Vaccine Mandate for Large Companies</a> NYT: A stay granted by a federal appeals court in Louisiana could signal an uphill battle for the administration in getting the entire American work force vaccinated. 
  <p class="updated_time"> 05:54 PM CT, Nov. 06 </p> 
  <a href="https://www.nytimes.com/2021/11/05/arts/music/marilia-mendonca-dead.html">Marília Mendonça, Brazilian Pop Singer, Dies in Plane Crash at 26</a> NYT: Ms. Mendonça, who was a social media sensation with millions of followers, was iconic in a type of Brazilian country music called sertanejo. 
  <p class="updated_time"> 05:41 PM CT, Nov. 06 </p> 
@@ -173,12 +177,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/04/world/canada/saskatoon-moose-school.html">In Saskatoon, a Moose on the Loose Is Returned to the Wild</a> NYT: In a prairie city, a young moose on the loose crashed into a children’s classroom, sparking a mix of delight and concern on social media. 
  <p class="updated_time"> 07:39 PM CT, Nov. 04 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59166607?at_medium=RSS&at_campaign=KARANGA">COP26: Indigenous Amazon activist 'got death threats' after speech</a> BBC: Txai Suruí says she worries for her safety and that of other young climate activists. 
- <p class="updated_time"> 07:27 PM CT, Nov. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-58976338?at_medium=RSS&at_campaign=KARANGA">How fresh is your food? Sensors could show you</a> BBC: Households contribute the most food waste - so what if you could track spoilage in real time? 
  <p class="updated_time"> 07:23 PM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/world/europe/covid-surge-europe-who.html">W.H.O. Official: 'Europe Is Back at Epicenter of the Pandemic'</a> NYT: The World Health Organization said Europe was responsible for nearly three-fifths of the world’s recent coronavirus cases, and that deaths in the region were surging. 
- <p class="updated_time"> 06:20 PM CT, Nov. 04 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59168910?at_medium=RSS&at_campaign=KARANGA">Nostalgia-soaked photos immortalise LA roller rink</a> BBC: Flipper's Roller Boogie Palace was a place for children and celebrities alike to roller skate. 
  <p class="updated_time"> 05:54 PM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/world/asia/south-korea-exam-students-hospital.html">South Korea Toughens Measures as Virus Spreads Among Teens</a> NYT: The decision comes as the country experiences rising caseloads again. The nine-hour test is seen as critical in determining students’ futures, and many have prepared for it since kindergarten. 
  <p class="updated_time"> 05:54 PM CT, Nov. 04 </p> 
@@ -210,7 +210,9 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
- <p class="updated_time"> 06:47 PM CT, Nov. 06 </p> 
+ <p class="updated_time"> 07:03 PM CT, Nov. 06 </p> 
+ <a href="https://www.nytimes.com/2021/11/06/us/politics/defectors-infrastructure-bill-squad.html">In Infrastructure Votes, 19 Members Broke With Their Party</a> NYT: The defectors who crossed partisan lines in Congress include 13 Republicans who supported the bill and the six liberal members of “The Squad,” who opposed it. 
+ <p class="updated_time"> 06:48 PM CT, Nov. 06 </p> 
  <a href="https://www.nytimes.com/2021/11/06/us/politics/infrastructure-black-caucus-vote.html">How a $1 Trillion Infrastructure Bill Survived an Intraparty Brawl</a> NYT: Speaker Nancy Pelosi agreed to a deal proposed by the Congressional Black Caucus, mobilizing one faction of Democratic lawmakers to win over two others. 
  <p class="updated_time"> 06:45 PM CT, Nov. 06 </p> 
  <a href="https://www.washingtonpost.com/politics/biden-infrastructure-presidency/2021/11/06/4eaa5372-3f05-11ec-8ee9-4f14a26749d1_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">After months of setbacks, Biden finally gets long-sought win on infrastructure</a> WaPo: With his presidency on the ropes, Biden felt a new sense of urgency to produce legislative results — and a willingness to accept greater risk in pursuing them. 
@@ -226,8 +228,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/06/1053239109/rep-pramila-jayapal-on-what-led-her-to-throw-support-behind-infrastructure-bill">Rep. Pramila Jayapal on what led her to throw support behind infrastructure bill</a> NPR: NPR's Michel Martin speaks with Rep. Pramila Jayapal, D-Wash., chair of the Congressional Progressive Caucus, about the passage of the $1.2 trillion infrastructure bill. 
  <p class="updated_time"> 04:17 PM CT, Nov. 06 </p> 
  <a href="https://www.npr.org/2021/11/06/1053239102/how-the-house-passed-the-1-trillion-infrastructure-plan">How the House passed the $1 trillion infrastructure plan</a> NPR: The House of Representatives passed a trillion dollar infrastructure bill Friday, delivering President Biden a major legislative victory after months of negotiation with his own party. 
- <p class="updated_time"> 04:12 PM CT, Nov. 06 </p> 
- <a href="https://www.nytimes.com/2021/11/06/us/politics/defectors-infrastructure-bill-squad.html">In Infrastructure Votes, 19 Members Broke With Their Party</a> NYT: The defectors who crossed partisan lines in Congress include 13 Republicans who supported the bill and the six liberal members of “The Squad,” who opposed it. 
  <p class="updated_time"> 04:00 PM CT, Nov. 06 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-06/china-s-stagflation-risk-builds-as-growth-slows-eco-week-ahead">China’s Stagflation Risk Builds as Growth Slows: Eco Week Ahead</a> Bloomberg: China’s inflation risks are building while new Covid-19 outbreaks are dimming the outlook for economic growth, throwing the spotlight back on policy makers as the Communist Party’s top leaders gather for a crucial political meeting this week. 
  <p class="updated_time"> 03:14 PM CT, Nov. 06 </p> 
