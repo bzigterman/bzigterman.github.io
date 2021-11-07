@@ -7,6 +7,12 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:15 PM CT, Nov. 07 </p> 
+ <a href="https://www.nytimes.com/2021/11/07/world/asia/afghan-pilots-taliban-us.html">Afghan Military Pilots, on the Run, Feel Abandoned by U.S.</a> NYT: Detained in Tajikistan, or hiding from the Taliban in Afghanistan, many pilots wonder why the military that trained them is not coming to their aid. 
+ <p class="updated_time"> 02:12 PM CT, Nov. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59197250?at_medium=RSS&at_campaign=KARANGA">Sudan coup: Protesters tear-gassed at rally in Khartoum</a> BBC: Protesters are demanding the military step back and allow the transition to civilian rule. 
+ <p class="updated_time"> 01:58 PM CT, Nov. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59201107?at_medium=RSS&at_campaign=KARANGA">US to reopen borders to vaccinated travellers after 20 months</a> BBC: A flood of foreign visitors is expected as tough restrictions on entry come to an end on Monday. 
  <p class="updated_time"> 01:55 PM CT, Nov. 07 </p> 
  <a href="https://www.nytimes.com/2021/11/07/world/americas/nicaragua-election-ortega.html">In Nicaragua Election, Ortega Crushes Dissent</a> NYT: President Daniel Ortega quashed the opposition and struck fear in voters, all but guaranteeing his victory in a presidential contest on Sunday. 
  <p class="updated_time"> 01:52 PM CT, Nov. 07 </p> 
@@ -31,14 +37,14 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/06/world/europe/camino-de-santiago-spain.html">On Spain’s Camino de Santiago, Even Óscar the Donkey Is a Pilgrim</a> NYT: An artist and an innkeeper have enlisted the help of a burro in their effort to rescue the traditions of Spain’s ancient pilgrimage route from mass tourism (and selfies). 
  <p class="updated_time"> 09:08 AM CT, Nov. 07 </p> 
  <a href="https://www.nytimes.com/2021/11/06/world/americas/biden-osha-vaccine-mandate-blocked.html">Biden's Vaccine Mandate Temporarily Blocked, Foreshadowing Uphill Battle</a> NYT: A stay granted by a federal appeals court in Louisiana could signal an uphill battle for the administration in getting the entire American work force vaccinated. 
+ <p class="updated_time"> 09:08 AM CT, Nov. 07 </p> 
+ <a href="https://www.wsj.com/articles/nicaraguan-president-ortega-expected-to-win-re-election-as-country-veers-into-dictatorship-11636312154">Ortega Expected to Win Re-Election as Nicaragua Veers Into Dictatorship</a> WSJ: President Daniel Ortega is expected to win a fourth consecutive term after he imprisoned seven would-be presidential candidates. The U.S. and European Union have described the elections as a sham. 
  <p class="updated_time"> 08:49 AM CT, Nov. 07 </p> 
  <a href="https://www.wsj.com/articles/iraqs-prime-minister-survives-assassination-attempt-government-says-11636248485">Iraqi Prime Minister Targeted in Assassination Attempt</a> WSJ: An explosive-laden drone attacked the residence of Iraqi Prime Minister Mustafa al-Kadhimi in Baghdad. The prime minister said he wasn’t hurt. 
  <p class="updated_time"> 08:34 AM CT, Nov. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59196465?at_medium=RSS&at_campaign=KARANGA">In pictures: Thousands join huge pro-government rally in Ethiopia</a> BBC: The rally comes as rebel Tigrayan forces advance within 300km of the capital Addis Ababa. 
  <p class="updated_time"> 08:30 AM CT, Nov. 07 </p> 
  <a href="https://www.npr.org/2021/11/07/1051940127/rebels-are-closing-in-on-ethiopias-capital-its-collapse-could-bring-regional-cha">Rebels are closing in on Ethiopia's capital. Its collapse could bring regional chaos</a> NPR: A newly formed rebel alliance led by the Tigray People's Liberation Front is within striking distance of Addis Ababa. A failed state could displace millions of people and stoke more ethnic violence. 
- <p class="updated_time"> 08:09 AM CT, Nov. 07 </p> 
- <a href="https://www.wsj.com/articles/nicaraguan-president-ortega-expected-to-win-re-election-as-country-veers-into-dictatorship-11636312154">Ortega Expected to Win Re-Election as Nicaragua Veers Into Dictatorship</a> WSJ: President Daniel Ortega is expected to win a fourth consecutive term after he imprisoned seven would-be presidential candidates. The U.S. and European Union have described the elections as a sham. 
  <p class="updated_time"> 08:06 AM CT, Nov. 07 </p> 
  <a href="https://www.wsj.com/articles/rebels-advance-toward-capital-as-ethiopia-moves-deeper-into-war-11636311997">Rebels Advance Toward Capital As Ethiopia Moves Deeper Into War</a> WSJ: The move threatens to widen a civil war raging in Africa’s second-most populous nation marked by allegations of ethnically motivated atrocities and man-made famine. 
  <p class="updated_time"> 07:06 AM CT, Nov. 07 </p> 
@@ -51,8 +57,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/brazilian-farmers-who-protect-the-amazon-rainforest-would-like-to-be-paid-11636281003">Farmers Who Protect the Amazon Rainforest Would Like to Be Paid</a> WSJ: Some in Brazil say they would protect forests on their land if compensated through a carbon-credit program on the agenda at the climate-change summit now under way in Glasgow. 
  <p class="updated_time"> 06:33 AM CT, Nov. 07 </p> 
  <a href="https://www.nytimes.com/2021/11/07/world/asia/myanmar-bill-richardson.html">Veteran U.S. Diplomat Comes Under Criticism for a Trip to Myanmar</a> NYT: Bill Richardson, a former ambassador to the U.N., said that he had held “productive” talks with the general who led the February coup. Rights activists said he gave the junta an air of legitimacy. 
- <p class="updated_time"> 06:17 AM CT, Nov. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59197250?at_medium=RSS&at_campaign=KARANGA">Sudan coup: Teachers tear-gassed at protest in Khartoum</a> BBC: Protesters are demanding the military step back and allow the transition to civilian rule. 
  <p class="updated_time"> 06:00 AM CT, Nov. 07 </p> 
  <a href="https://www.npr.org/2021/11/07/1053275827/nicaragua-may-be-holding-presidential-elections-but-it-is-edging-toward-dictator">Nicaragua may be holding presidential elections, but it is edging toward dictatorship</a> NPR: Nicaraguan President Daniel Ortega is running for a fourth consecutive term to remain leader of the Central American country in elections that critics and U.S. officials have labeled a "sham." 
  <p class="updated_time"> 05:13 AM CT, Nov. 07 </p> 
@@ -205,8 +209,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/04/world/canada/canada-military-sexual-assault.html">Canada Turns Over Military Sexual Assault Cases to Civilian Courts</a> NYT: With the military’s leadership in crisis, a new defense minister adopted a recommendation to remove prosecutorial authority for sexual misconduct cases from the armed forces. 
  <p class="updated_time"> 04:17 PM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/world/africa/ethiopia-tigray-crackdown.html">Crackdown Sweeps Ethiopia’s Capital as War Draws Near</a> NYT: Government forces were going to door to door in the Ethiopian capital, rounding up ethnic Tigrayans, members of the same ethnic group as the rebels closing in. 
- <p class="updated_time"> 01:33 PM CT, Nov. 04 </p> 
- <a href="https://www.nytimes.com/2021/11/04/world/africa/south-africa-election-anc.html">A.N.C. Suffers Worst Election Setback Since End of Apartheid</a> NYT: In nationwide municipal elections, South Africans rebuked the African National Congress, handing it less than half the collective vote for the first time in its history. 
  <p class="updated_time"> 12:01 PM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/science/nasa-space-tacos.html">NASA’s Latest Breakthrough: ‘Best Space Tacos Yet’</a> NYT: For the first time, astronauts on the International Space Station cultivated chiles, adding some zing to their tacos. 
  <p class="updated_time"> 05:26 AM CT, Nov. 04 </p> 
@@ -218,10 +220,14 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:13 PM CT, Nov. 07 </p> 
+ <a href="https://www.nytimes.com/2021/11/07/us/politics/republican-party-trump.html">Republicans, Basking in Tuesday’s Victories, Diverge on What Comes Next</a> NYT: Looming over a gathering of Jewish conservatives in Las Vegas were questions about whether former President Donald J. Trump should remain the face of the party. 
+ <p class="updated_time"> 02:00 PM CT, Nov. 07 </p> 
+ <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DElB6sGwR-I/index.html">Jill Biden pays tribute to one of America's most iconic first ladies</a> CNN: As the season changed from summer to fall, first lady Jill Biden has found a spot to sit outside at the White House to grade her students' essays. 
  <p class="updated_time"> 02:00 PM CT, Nov. 07 </p> 
  <a href="https://www.politico.com/news/2021/11/07/murphy-new-jersey-reelection-hurt-520110">‘There’s a lot of hurt out there,’ N.J. governor says of close reelection</a> Politico: But Gov. Phil Murphy said things could have been a lot worse. 
- <p class="updated_time"> 01:37 PM CT, Nov. 07 </p> 
- <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DElB6sGwR-I/index.html">Jill Biden pays tribute to one of America's most iconic first ladies</a> CNN: As the season changed from summer to fall, first lady Jill Biden has found a spot to sit outside at the White House to grade her students' essays. 
+ <p class="updated_time"> 01:44 PM CT, Nov. 07 </p> 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-07/biden-to-visit-port-of-baltimore-to-tout-infrastructure-win">Biden to Visit Port of Baltimore to Tout Infrastructure Win</a> Bloomberg: President Joe Biden will go to Baltimore this week to promote a bipartisan infrastructure bill that cleared Congress after months of negotiations, the White House announced. 
  <p class="updated_time"> 01:31 PM CT, Nov. 07 </p> 
  <a href="https://www.politico.com/news/2021/11/07/strategic-reserve-rising-fuel-prices-granholm-520093">Biden may tap strategic reserve amid rising fuel prices, Granholm says</a> Politico: “The president is all over this. Of course, every president is frustrated because they can’t control the price of gasoline,” she said. 
  <p class="updated_time"> 01:17 PM CT, Nov. 07 </p> 
@@ -300,8 +306,6 @@ permalink: /projects/news/
  <a href="https://www.bloomberg.com/news/articles/2021-11-07/johnson-can-t-duck-tory-sleaze-row-as-u-k-criticism-mounts">Johnson Can’t Duck Tory Sleaze Row as U.K. Criticism Mounts</a> Bloomberg: U.K. Prime Minister Boris Johnson is facing growing criticism over his party’s conduct, as a former Conservative prime minister and opposition members speak out against him following a lobbying scandal. 
  <p class="updated_time"> 05:00 AM CT, Nov. 07 </p> 
  <a href="https://www.washingtonpost.com/politics/federal-workers-vaccines-exemptions/2021/11/07/761eb9d8-3da3-11ec-8ee9-4f14a26749d1_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Nearing Monday coronavirus vaccine deadline, thousands of federal workers seek religious exemptions to avoid shots</a> WaPo: The Biden administration’s plan to vaccinate the federal workforce is succeeding in many quarters, but the exemptions sought by some employees are complicating efforts to return the government to full strength. 
- <p class="updated_time"> 04:00 AM CT, Nov. 07 </p> 
- <a href="https://www.nytimes.com/2021/11/07/us/politics/republican-party-trump.html">Republicans, Basking in Tuesday’s Victories, Diverge on What Comes Next</a> NYT: Looming over a gathering of Jewish conservatives in Las Vegas were questions about whether former President Donald J. Trump should remain the face of the party. 
  <p class="updated_time"> 02:53 AM CT, Nov. 07 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-07/israel-no-room-for-us-mission-for-palestinians-in-jerusalem">Palestinians, Israel Spar Over US Mission in Jerusalem</a> Bloomberg: Tel Aviv, Israel (AP) -- The Palestinians on Sunday slammed Israel for rejecting the promised reopening of the U.S. consulate in Jerusalem, a move that would restore Washington's main diplomatic mission for the Palestinians in the contested city. 
  <p class="updated_time"> 02:02 AM CT, Nov. 07 </p> 
@@ -324,8 +328,6 @@ permalink: /projects/news/
  <a href="https://www.washingtonpost.com/politics/biden-infrastructure-presidency/2021/11/06/4eaa5372-3f05-11ec-8ee9-4f14a26749d1_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">After months of setbacks, Biden finally gets long-sought win on infrastructure</a> WaPo: With his presidency on the ropes, Biden felt a new sense of urgency to produce legislative results — and a willingness to accept greater risk in pursuing them. 
  <p class="updated_time"> 06:01 PM CT, Nov. 06 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-06/court-halts-u-s-mandate-europe-hit-by-new-wave-virus-update">U.S.-Europe Flights Reopen; German Cases Spike: Virus Update</a> Bloomberg: Flights for fully-vaccinated travelers from Europe to the U.S. begin Monday, though the lucrative market will be very different from the one before the pandemic. The U.S. is lifting entry restrictions for more than 30 countries, including China, Brazil and India. 
- <p class="updated_time"> 05:25 PM CT, Nov. 06 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-06/australia-u-k-confident-of-free-trade-agreement-by-year-end">Australia, U.K. ‘Confident’ of Free Trade Agreement by Year-End</a> Bloomberg: Australia and the U.K. are both “very confident” that their free trade agreement would be finalized by year-end, said David McCredie, chief executive officer of the Australian British Chamber of Commerce. 
  <p class="updated_time"> 04:17 PM CT, Nov. 06 </p> 
  <a href="https://www.npr.org/2021/11/06/1053239123/black-republicans-walk-a-fine-line-toward-election-victory">Black Republicans walk a fine line toward election victory</a> NPR: NPR's Michel Martin speaks with professor Leah Wright Rigueur, author of The Loneliness of the Black Republican, about what this week's elections signal for Black conservatives. 
  <p class="updated_time"> 04:17 PM CT, Nov. 06 </p> 
@@ -438,8 +440,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/05/house-democrats-infrastructure-vote-wait-megabill-519731">'Whole day was a clusterf---': Dems overcome distrust to send infrastructure bill to Biden</a> Politico: Democratic centrists and progressives reached a detente that cleared the $550 billion bipartisan legislation late Friday night and advanced their social spending package. 
  <p class="updated_time"> 01:04 PM CT, Nov. 05 </p> 
  <a href="https://www.washingtonpost.com/politics/powell-funeral-biden-bush/2021/11/05/992f8f46-3d95-11ec-bfad-8283439871ec_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Colin Powell remembered for leadership, integrity and a love of ABBA and Marley at funeral</a> WaPo: The former secretary of state and chairman of the Joint Chiefs of Staff died last month of complications from covid-19. 
- <p class="updated_time"> 12:19 PM CT, Nov. 05 </p> 
- <a href="https://www.washingtonpost.com/politics/2021/11/05/mcauliffes-quote-schools-was-clunker-polls-suggest-parental-backlash-didnt-swing-election/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">McAuliffe’s quote on schools was a clunker, but polls suggest parental backlash didn’t swing the election</a> WaPo: What exit polling shows about how education mattered in Youngkin's win. 
  <p class="updated_time"> 12:18 PM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/05/business/congress-mckinsey-opioid-crisis.html">Congress Is Investigating McKinsey Over Its Role in the Opioid Crisis</a> NYT: A House committee has requested documents related to the firm’s advice to drug makers and potential conflicts of interest with the F.D.A. 
  <p class="updated_time"> 12:10 PM CT, Nov. 05 </p> 
