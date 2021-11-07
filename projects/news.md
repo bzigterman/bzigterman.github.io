@@ -7,10 +7,12 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:54 AM CT, Nov. 07 </p> 
+ <a href="https://www.nytimes.com/2021/11/07/travel/us-travel-ban-reunions.html">As U.S. Travel Changes Near, Global Travelers Eagerly Await Reunions</a> NYT: On Monday, travelers from many other countries who are fully vaccinated against the coronavirus will be allowed to enter the United States. 
+ <p class="updated_time"> 10:44 AM CT, Nov. 07 </p> 
+ <a href="https://www.nytimes.com/2021/11/06/world/middleeast/iraq-prime-minister-drone.html">Fears of Wider Instability in Iraq After Attack on Prime Minister’s Home</a> NYT: Armed drones struck the Iraqi prime minister’s home in what was seen as a warning as Iranian-backed groups dispute the results of parliamentary elections. 
  <p class="updated_time"> 10:25 AM CT, Nov. 07 </p> 
  <a href="https://www.nytimes.com/2021/11/07/world/europe/uk-virus-surge-booster-shots.html">U.K. Health Secretary Urges People to Get Boosters</a> NYT: “If we all come together and play our part, we can get through this challenging winter, avoid a return to restrictions and enjoy Christmas,” said Sajid Javid, the health secretary. 
- <p class="updated_time"> 10:22 AM CT, Nov. 07 </p> 
- <a href="https://www.nytimes.com/2021/11/07/travel/us-travel-ban-reunions.html">As U.S. Travel Changes Near, Global Travelers Eagerly Await Reunions</a> NYT: On Monday, travelers from many other countries who are fully vaccinated against the coronavirus will be allowed to enter the United States. 
  <p class="updated_time"> 10:19 AM CT, Nov. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59194819?at_medium=RSS&at_campaign=KARANGA">Astroworld: Criminal investigation into Texas festival crowd surge</a> BBC: Eight people died after a deadly crowd surge during a performance by rapper Travis Scott. 
  <p class="updated_time"> 10:03 AM CT, Nov. 07 </p> 
@@ -25,8 +27,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/06/world/americas/biden-osha-vaccine-mandate-blocked.html">Biden's Vaccine Mandate Temporarily Blocked, Foreshadowing Uphill Battle</a> NYT: A stay granted by a federal appeals court in Louisiana could signal an uphill battle for the administration in getting the entire American work force vaccinated. 
  <p class="updated_time"> 08:34 AM CT, Nov. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59196465?at_medium=RSS&at_campaign=KARANGA">In pictures: Thousands join huge pro-government rally in Ethiopia</a> BBC: The rally comes as rebel Tigrayan forces advance within 300km of the capital Addis Ababa. 
- <p class="updated_time"> 08:34 AM CT, Nov. 07 </p> 
- <a href="https://www.nytimes.com/2021/11/06/world/middleeast/iraq-prime-minister-drone.html">Fears of Wider Instability in Iraq After Attack on Prime Minister’s Home</a> NYT: Armed drones struck the Iraqi prime minister’s home in what was seen as a warning as Iranian-backed groups dispute the results of parliamentary elections. 
  <p class="updated_time"> 08:30 AM CT, Nov. 07 </p> 
  <a href="https://www.npr.org/2021/11/07/1051940127/rebels-are-closing-in-on-ethiopias-capital-its-collapse-could-bring-regional-cha">Rebels are closing in on Ethiopia's capital. Its collapse could bring regional chaos</a> NPR: A newly formed rebel alliance led by the Tigray People's Liberation Front is within striking distance of Addis Ababa. A failed state could displace millions of people and stoke more ethnic violence. 
  <p class="updated_time"> 07:06 AM CT, Nov. 07 </p> 
@@ -43,6 +43,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59196463?at_medium=RSS&at_campaign=KARANGA">Italian Mafia: 'Ndrangheta members convicted as Italy begins huge trial</a> BBC: More than 350 alleged mobsters will face court in the biggest mafia trial in decades. 
  <p class="updated_time"> 04:59 AM CT, Nov. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59195399?at_medium=RSS&at_campaign=KARANGA">Iraqi PM al-Kadhimi survives drone attack on his home</a> BBC: Mustafa al-Kadhimi says he was not hurt in the attack by a drone carrying explosives in Baghdad. 
+ <p class="updated_time"> 04:45 AM CT, Nov. 07 </p> 
+ <a href="https://www.wsj.com/articles/the-economic-rebound-from-covid-19-was-easy-now-comes-the-hard-part-11636299941">The Economic Rebound From Covid-19 Was Easy. Now Comes the Hard Part.</a> WSJ: As supply-chain disruptions worsen and inflation surges, executives and policy makers must navigate a delicate transition to a more normal economy. 
  <p class="updated_time"> 04:09 AM CT, Nov. 07 </p> 
  <a href="https://www.wsj.com/articles/iraqs-prime-minister-survives-assassination-attempt-government-says-11636248485">Iraqi Prime Minister Targeted in Assassination Attempt</a> WSJ: An explosive-laden drone attacked the residence of Iraqi Prime Minister Mustafa al-Kadhimi in Baghdad. The prime minister said he wasn’t hurt. 
  <p class="updated_time"> 04:00 AM CT, Nov. 07 </p> 
@@ -53,6 +55,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/07/science/antarctica-wildfires.html">Antarctica Was Once a Land of Fire and Not Ice</a> NYT: Charcoal recovered from a dig near the southern continent shows that the region wasn’t spared from the era scientists call a “super fire world.” 
  <p class="updated_time"> 04:00 AM CT, Nov. 07 </p> 
  <a href="https://www.nytimes.com/2021/11/07/world/asia/china-xi-jinping.html">Xi Jinping is Rewriting China's History</a> NYT: A new official summation of Communist Party history is likely to exalt Xi Jinping as a peer of Mao and Deng, fortifying his claim to a new phase in power. 
+ <p class="updated_time"> 04:00 AM CT, Nov. 07 </p> 
+ <a href="https://www.wsj.com/articles/one-of-the-worlds-hottest-real-estate-markets-tries-to-cool-down-11636297200">One of the World's Hottest Real-Estate Markets Tries to Cool Down</a> WSJ: New Zealand is pulling every lever to tame property prices without shaking its economy and crashing the market. 
  <p class="updated_time"> 03:42 AM CT, Nov. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59196814?at_medium=RSS&at_campaign=KARANGA">Libya: Row over attempt to suspend foreign minister Najla El-Mangoush</a> BBC: There has been political infighting after comments she made to the BBC about the 1988 Lockerbie bombing. 
  <p class="updated_time"> 02:00 AM CT, Nov. 07 </p> 
@@ -113,8 +117,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/05/world/europe/cop26-greta-thunberg.html">Greta Thunberg Assails Leaders Outside COP26 Climate Summit</a> NYT: “The governments of the global north countries are still refusing to take any drastic climate action,” she told protesters in Glasgow. 
  <p class="updated_time"> 09:01 AM CT, Nov. 06 </p> 
  <a href="https://www.nytimes.com/2021/11/06/world/austria-covid-restrictions.html">Facing a spike in infections, Austria sharpens the rules of its Covid pass.</a> NYT: Austrians will need proof of vaccination or a past infection to be seated at a restaurant, enter a bar, visit a hairdresser or join any gathering of more than 25 people. 
- <p class="updated_time"> 08:52 AM CT, Nov. 06 </p> 
- <a href="https://www.wsj.com/articles/venice-artisans-pushed-to-the-brink-by-gas-crisis-11636221171">Venice Artisans Pushed to the Brink by Gas Crisis</a> WSJ: Traditional glassmakers, an industry that dates back about a thousand years in Venice, has become a victim of the energy crunch that is rippling through the global economy. 
  <p class="updated_time"> 08:31 AM CT, Nov. 06 </p> 
  <a href="https://www.wsj.com/articles/cop26-protesters-in-glasgow-push-for-action-from-leaders-11636208381">COP26 Protesters in Glasgow Push for Action From Leaders</a> WSJ: Protesters in the tens of thousands braved rain and gusts to march through the Scottish city hosting a United Nations climate summit, pushing for more action from governments to curb global warming. 
  <p class="updated_time"> 08:15 AM CT, Nov. 06 </p> 
@@ -135,8 +137,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/05/world/africa/ethiopia-tigray-eight-groups.html">Eight Groups Join Tigray Rebels Vowing to Oust Ethiopia’s Leader</a> NYT: The government calls the new coalition, announced in Washington, a “publicity stunt,” as intermediaries try to negotiate a peaceful solution to a year of conflict. 
  <p class="updated_time"> 04:00 AM CT, Nov. 06 </p> 
  <a href="https://www.nytimes.com/2021/11/06/world/asia/india-region-muslim-hindu-strife.html">India's Treatment of Muslims Erodes Its Moral High Ground</a> NYT: The hard-line attitude of Narendra Modi’s ruling party toward Muslims has undermined the nation’s reputation as a voice for tolerance in South Asia. 
- <p class="updated_time"> 03:19 AM CT, Nov. 06 </p> 
- <a href="https://www.wsj.com/articles/nicaragua-veers-to-dictatorship-as-president-holds-election-the-u-s-calls-sham-11636201160">Nicaragua Veers Toward Dictatorship</a> WSJ: President Daniel Ortega, running for a fourth consecutive term after imprisoning seven rivals, is widely expected to win an election seen as a sham by the U.S. and opponents. 
  <p class="updated_time"> 10:25 PM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/05/world/asia/china-coronavirus-ruili.html">Near-Daily Covid Tests, Sleeping in Classrooms: Life in Covid-Zero China</a> NYT: Residents in Ruili, in southwestern China, have been locked down four times in the past year as part of the country’s quest to eliminate the virus. 
  <p class="updated_time"> 07:51 PM CT, Nov. 05 </p> 
@@ -218,10 +218,10 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/07/payments-families-border-richmond-520027">Payments to families separated at border are ‘for the Department of Justice to decide,’ W.H. adviser says</a> Politico: “I want to be clear about this: We do not tell the Department of Justice what to do,” Cedric Richmond said. 
  <p class="updated_time"> 11:17 AM CT, Nov. 07 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/07/what-happens-in-vegas-495006">POLITICO Playbook: What happens in Vegas …</a> Politico: And a court temporarily blocks Biden’s vaccine mandate. 
+ <p class="updated_time"> 10:54 AM CT, Nov. 07 </p> 
+ <a href="https://www.nytimes.com/2021/11/07/travel/us-travel-ban-reunions.html">As U.S. Travel Changes Near, Global Travelers Eagerly Await Reunions</a> NYT: On Monday, travelers from many other countries who are fully vaccinated against the coronavirus will be allowed to enter the United States. 
  <p class="updated_time"> 10:27 AM CT, Nov. 07 </p> 
  <a href="https://www.politico.com/news/2021/11/07/murthy-vaccine-mandate-biden-520015">Surgeon general defends embattled vaccine mandate</a> Politico: “It’s a necessary step to accelerate our pathway out of the pandemic,” Vivek Murthy said. 
- <p class="updated_time"> 10:22 AM CT, Nov. 07 </p> 
- <a href="https://www.nytimes.com/2021/11/07/travel/us-travel-ban-reunions.html">As U.S. Travel Changes Near, Global Travelers Eagerly Await Reunions</a> NYT: On Monday, travelers from many other countries who are fully vaccinated against the coronavirus will be allowed to enter the United States. 
  <p class="updated_time"> 09:48 AM CT, Nov. 07 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vBRV9fRRViY/index.html">White House chief of staff 'confident' Biden's administration's vaccine mandate for private businesses will be upheld</a> CNN: White House chief of staff Ron Klain said he was confident the courts will uphold the validity of the Biden administration's new vaccine rules that apply to private businesses with 100 or more employees, certain health care workers and federal contractors, after a federal appeals court temporarily blocked the requirements on Saturday. 
  <p class="updated_time"> 09:40 AM CT, Nov. 07 </p> 
@@ -432,6 +432,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/05/house-democrats-infrastructure-vote-wait-megabill-519731">'Whole day was a clusterf---': Dems overcome distrust to send infrastructure bill to Biden</a> Politico: Democratic centrists and progressives reached a detente that cleared the $550 billion bipartisan legislation late Friday night and advanced their social spending package. 
  <p class="updated_time"> 02:35 PM CT, Nov. 05 </p> 
  <a href="https://www.politico.com/news/2021/11/05/house-democrats-infrastructure-vote-wait-megabill-519731">'Whole day was a clusterf---': Dems overcome distrust to send infrastructure bill to Biden</a> Politico: Democratic centrists and progressives reached a detente that cleared the $550 billion bipartisan legislation late Friday night and advanced their social spending package. 
+ <p class="updated_time"> 02:07 PM CT, Nov. 05 </p> 
+ <a href="https://www.politico.com/news/2021/11/05/judge-rejects-comparison-between-jan-6-riot-and-george-floyd-unrest-519723">Judge rejects comparison between Jan. 6 riot and George Floyd unrest</a> Politico: 'For people to say people who participated in the protests of the summer of 2020 got no jail time, that’s not my experience in my court,' 
  <p class="updated_time"> 01:04 PM CT, Nov. 05 </p> 
  <a href="https://www.washingtonpost.com/politics/powell-funeral-biden-bush/2021/11/05/992f8f46-3d95-11ec-bfad-8283439871ec_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Colin Powell remembered for leadership, integrity and a love of ABBA and Marley at funeral</a> WaPo: The former secretary of state and chairman of the Joint Chiefs of Staff died last month of complications from covid-19. 
  <p class="updated_time"> 12:19 PM CT, Nov. 05 </p> 
