@@ -218,6 +218,10 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/07/rick-scott-republicans-trump-support-520055">Rick Scott to GOP hopefuls: Get Trump’s support, but go beyond that</a> Politico: The head of the National Republican Senatorial Committee also said the committee will back all incumbents, whether Trump likes them or not. 
  <p class="updated_time"> 12:39 PM CT, Nov. 07 </p> 
  <a href="https://www.politico.com/news/2021/11/07/election-voters-message-action-klain-520042">'Voters sent a message on Tuesday' for more action, Klain says</a> Politico: “In my opinion,” he said, “it’s been a rough and tough year.” 
+ <p class="updated_time"> 12:16 PM CT, Nov. 07 </p> 
+ <a href="https://www.nytimes.com/2021/11/07/us/politics/afghanistan-war-marines.html">Young Marines in Kabul Were Left to Run Final Days of Evacuation</a> NYT: The young Marines in Kabul were left to determine who was evacuated from Afghanistan and who was left behind. The cost was high. 
+ <p class="updated_time"> 12:09 PM CT, Nov. 07 </p> 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-07/macron-leads-in-first-round-polling-with-25-lci-poll-shows">Macron Leads in First-Round Polling With 25%, LCI Poll Shows</a> Bloomberg: French President Emmanuel Macron would get 25% or more of the votes in the first round of the election if voting were held today, according to a poll done by Ifop-Fiducial for LCI television and Le Figaro. 
  <p class="updated_time"> 11:30 AM CT, Nov. 07 </p> 
  <a href="https://www.politico.com/news/2021/11/07/payments-families-border-richmond-520027">Payments to families separated at border are ‘for the Department of Justice to decide,’ W.H. adviser says</a> Politico: “I want to be clear about this: We do not tell the Department of Justice what to do,” Cedric Richmond said. 
  <p class="updated_time"> 11:25 AM CT, Nov. 07 </p> 
@@ -299,7 +303,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:45 PM CT, Nov. 06 </p> 
  <a href="https://www.washingtonpost.com/politics/biden-infrastructure-presidency/2021/11/06/4eaa5372-3f05-11ec-8ee9-4f14a26749d1_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">After months of setbacks, Biden finally gets long-sought win on infrastructure</a> WaPo: With his presidency on the ropes, Biden felt a new sense of urgency to produce legislative results — and a willingness to accept greater risk in pursuing them. 
  <p class="updated_time"> 06:01 PM CT, Nov. 06 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-06/court-halts-u-s-mandate-europe-hit-by-new-wave-virus-update">France Seeks Extra $2.3 Billion for Hospitals: Virus Update</a> Bloomberg: France is to consider spending an extra 2 billion euros ($2.3 billion) to bolster the hospital system. Italy plans to vaccinate children in December. Germany reported a surge in cases. 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-06/court-halts-u-s-mandate-europe-hit-by-new-wave-virus-update">U.S.-Europe Flights Reopen; German Cases Spike: Virus Update</a> Bloomberg: Flights for fully-vaccinated travelers from Europe to the U.S. begin Monday, though the lucrative market will be very different from the one before the pandemic. The U.S. is lifting entry restrictions for more than 30 countries, including China, Brazil and India. 
  <p class="updated_time"> 05:25 PM CT, Nov. 06 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-06/australia-u-k-confident-of-free-trade-agreement-by-year-end">Australia, U.K. ‘Confident’ of Free Trade Agreement by Year-End</a> Bloomberg: Australia and the U.K. are both “very confident” that their free trade agreement would be finalized by year-end, said David McCredie, chief executive officer of the Australian British Chamber of Commerce. 
  <p class="updated_time"> 05:15 PM CT, Nov. 06 </p> 
@@ -322,8 +326,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/06/us/politics/biden-infrastructure-speech.html">Biden Celebrates Infrastructure Win, Even if Harder Victory Is Ahead</a> NYT: “Finally! Infrastructure week!” the president declared with a broad smile. 
  <p class="updated_time"> 01:26 PM CT, Nov. 06 </p> 
  <a href="https://www.npr.org/2021/11/06/1053216909/transportation-secretary-pete-buttigieg-on-what-to-expect-from-infrastructure-pl">Transportation Secretary Pete Buttigieg on what to expect from infrastructure plan</a> NPR: NPR's Scott Simon talks with Transportation Secretary Pete Buttigieg about the $1 trillion infrastructure bill passed by the House and headed for President Biden's signature. 
- <p class="updated_time"> 01:04 PM CT, Nov. 06 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-06/blankfein-breaks-twitter-hiatus-to-weigh-in-on-progressives">Blankfein Breaks Twitter Hiatus to Weigh In on Democrats</a> Bloomberg: Lloyd Blankfein, the former Goldman Sachs Group Inc. chief executive officer, broke a one-year hiatus on Twitter to take a jab at Bernie Sanders and progressives. 
  <p class="updated_time"> 12:54 PM CT, Nov. 06 </p> 
  <a href="https://www.nytimes.com/2021/11/06/us/politics/military-jury-cia-torture.html">Foreman Says Military Jury Was Disgusted by C.I.A. Torture</a> NYT: A Navy captain whose letter recommended clemency for a Qaeda terrorist drafted the damning two-page document in 20 minutes. 
  <p class="updated_time"> 12:48 PM CT, Nov. 06 </p> 
@@ -390,8 +392,6 @@ permalink: /projects/news/
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/I_z5P2xIL1g/index.html">These 6 House Democrats voted against the infrastructure bill. These 13 Republicans voted for it.</a> CNN: The House on Friday voted 228-206 to pass a $1.2 trillion infrastructure bill after hours of delays and debating among Democrats, sending the bipartisan measure to President Joe Biden's desk for his signature. 
  <p class="updated_time"> 10:50 PM CT, Nov. 05 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FcPZqjysAoo/index.html">Here's what's in the bipartisan infrastructure bill</a> CNN: Congress passed a $1.2 trillion infrastructure package Friday, approving a signature part of President Joe Biden's economic agenda. 
- <p class="updated_time"> 10:32 PM CT, Nov. 05 </p> 
- <a href="https://www.nytimes.com/2021/11/05/us/politics/house-democrats-vote-infrastructure.html">What to Watch in the House on Friday</a> NYT: Democratic leaders were aiming to pass the $1 trillion bipartisan infrastructure bill, but they postponed a vote on the $1.85 trillion social safety net and climate change measure. 
  <p class="updated_time"> 10:30 PM CT, Nov. 05 </p> 
  <a href="https://www.politico.com/news/2021/11/05/house-infrastructure-bill-519796">House ships $550B infrastructure legislation to Biden’s desk after months of delay</a> Politico: Only 13 House Republicans voted for the bill, alongside all but 6 Democrats. 
  <p class="updated_time"> 10:30 PM CT, Nov. 05 </p> 
