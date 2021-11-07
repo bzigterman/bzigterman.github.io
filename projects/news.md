@@ -243,7 +243,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:45 PM CT, Nov. 06 </p> 
  <a href="https://www.washingtonpost.com/politics/biden-infrastructure-presidency/2021/11/06/4eaa5372-3f05-11ec-8ee9-4f14a26749d1_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">After months of setbacks, Biden finally gets long-sought win on infrastructure</a> WaPo: With his presidency on the ropes, Biden felt a new sense of urgency to produce legislative results — and a willingness to accept greater risk in pursuing them. 
  <p class="updated_time"> 06:01 PM CT, Nov. 06 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-06/court-halts-u-s-mandate-europe-hit-by-new-wave-virus-update">U.K. Mulls Plan to Extend Travel Quarantines: Virus Update</a> Bloomberg: British travelers who fail to get Covid-19 booster jabs could face fresh quarantine and testing requirements, according to the Mail on Sunday. 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-06/court-halts-u-s-mandate-europe-hit-by-new-wave-virus-update">German Cases Spike; Russian Deaths Near Record: Virus Update</a> Bloomberg: Covid-19 cases jumped in Germany while deaths in Russia held near record levels, amid reports that some global delegates at COP26 in Glasgow contracted the virus. 
  <p class="updated_time"> 05:25 PM CT, Nov. 06 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-06/australia-u-k-confident-of-free-trade-agreement-by-year-end">Australia, U.K. ‘Confident’ of Free Trade Agreement by Year-End</a> Bloomberg: Australia and the U.K. are both “very confident” that their free trade agreement would be finalized by year-end, said David McCredie, chief executive officer of the Australian British Chamber of Commerce. 
  <p class="updated_time"> 05:15 PM CT, Nov. 06 </p> 
@@ -438,8 +438,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/05/arts/design/hunter-biden-exhibition-berges-gallery.html">Hunter Biden’s Solo Exhibition: Emotionally Honest, Generically Smooth</a> NYT: The president’s son has turned to art as a career. “The Journey Home” is his first solo exhibition. 
  <p class="updated_time"> 12:06 PM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/05/arts/design/hunter-biden-art-buyers.html">At Hunter Biden’s Art Show, Line, Color and Questions</a> NYT: Paintings by the president’s son are drawing visitors to a gallery in SoHo, and also criticism from those who worry that purchasers might hope to be buying not just art, but access. 
- <p class="updated_time"> 11:58 AM CT, Nov. 05 </p> 
- <a href="https://www.politico.com/news/2021/11/05/colin-powell-trailblazer-funeral-519704">Family, friends gather to honor trailblazer Colin Powell</a> Politico: The funeral on a sunny and chilly day drew dignitaries and friends from across a wide political and military spectrum. 
  <p class="updated_time"> 11:36 AM CT, Nov. 05 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-YLyvPCSt34/index.html">Biden says his plans are working after October jobs report beats expectations</a> CNN: President Joe Biden touted the progress the US is making in recovering from the coronavirus pandemic, and cited his economic agenda as the reason, after the jobs recovery gathered some steam last month and employers added 531,000 positions in October. 
  <p class="updated_time"> 11:31 AM CT, Nov. 05 </p> 
