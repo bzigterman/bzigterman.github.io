@@ -7,6 +7,14 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:00 AM CT, Nov. 07 </p> 
+ <a href="https://www.npr.org/2021/11/07/1051892092/guyana-climate-change-exxon-co26">Guyana is a poor country that was a green champion. Then Exxon discovered oil</a> NPR: Guyana, one of South America's poorest countries, is under severe threat by rising seas. That had made it a champion of climate action, but it all changed when ExxonMobil found oil off its waters. 
+ <p class="updated_time"> 04:00 AM CT, Nov. 07 </p> 
+ <a href="https://www.nytimes.com/2021/11/07/science/antarctica-wildfires.html">Antarctica Was Once a Land of Fire and Not Ice</a> NYT: Charcoal recovered from a dig near the southern continent shows that the region wasn’t spared from the era scientists call a “super fire world.” 
+ <p class="updated_time"> 04:00 AM CT, Nov. 07 </p> 
+ <a href="https://www.nytimes.com/2021/11/07/world/americas/nicaragua-election-ortega.html">In Nicaragua Election, Ortega Crushes Dissent</a> NYT: President Daniel Ortega quashed the opposition and struck fear in voters, all but guaranteeing his victory in a presidential contest on Sunday. 
+ <p class="updated_time"> 04:00 AM CT, Nov. 07 </p> 
+ <a href="https://www.nytimes.com/2021/11/07/world/asia/china-xi-jinping.html">Xi Jinping is Rewriting China's History</a> NYT: A new official summation of Communist Party history is likely to exalt Xi Jinping as a peer of Mao and Deng, fortifying his claim to a new phase in power. 
  <p class="updated_time"> 03:42 AM CT, Nov. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59196814?at_medium=RSS&at_campaign=KARANGA">Libya's foreign minister Najla El-Mangoush suspended and grounded</a> BBC: There has been political infighting after comments she made to the BBC about the 1988 Lockerbie bombing. 
  <p class="updated_time"> 03:23 AM CT, Nov. 07 </p> 
@@ -183,22 +191,16 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/04/world/canada/saskatoon-moose-school.html">In Saskatoon, a Moose on the Loose Is Returned to the Wild</a> NYT: In a prairie city, a young moose on the loose crashed into a children’s classroom, sparking a mix of delight and concern on social media. 
  <p class="updated_time"> 07:23 PM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/world/europe/covid-surge-europe-who.html">W.H.O. Official: 'Europe Is Back at Epicenter of the Pandemic'</a> NYT: The World Health Organization said Europe was responsible for nearly three-fifths of the world’s recent coronavirus cases, and that deaths in the region were surging. 
- <p class="updated_time"> 05:54 PM CT, Nov. 04 </p> 
- <a href="https://www.nytimes.com/2021/11/04/world/asia/diwali-india.html">India's Diwali Celebrations Draw Large Crowds Despite Covid Concerns</a> NYT: More than 680,000 people have traveled across the country as health experts cautioned that large-scale gatherings might fuel a wave of infections. 
  <p class="updated_time"> 05:44 PM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/world/canada/canada-military-sexual-assault.html">Canada Turns Over Military Sexual Assault Cases to Civilian Courts</a> NYT: With the military’s leadership in crisis, a new defense minister adopted a recommendation to remove prosecutorial authority for sexual misconduct cases from the armed forces. 
  <p class="updated_time"> 04:17 PM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/world/africa/ethiopia-tigray-crackdown.html">Crackdown Sweeps Ethiopia’s Capital as War Draws Near</a> NYT: Government forces were going to door to door in the Ethiopian capital, rounding up ethnic Tigrayans, members of the same ethnic group as the rebels closing in. 
- <p class="updated_time"> 03:43 PM CT, Nov. 04 </p> 
- <a href="https://www.npr.org/2021/11/04/1052485290/migrant-workers-who-clean-up-climate-disasters-for-work-often-pay-a-price">Migrant workers who clean up climate disasters for work often pay a price</a> NPR: NPR's Audie Cornish speaks with Sarah Stillman, staff writer at The New Yorker, who spent the past year with some of the growing number of migrant laborers who follow climate disasters for work. 
  <p class="updated_time"> 01:33 PM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/world/africa/south-africa-election-anc.html">A.N.C. Suffers Worst Election Setback Since End of Apartheid</a> NYT: In nationwide municipal elections, South Africans rebuked the African National Congress, handing it less than half the collective vote for the first time in its history. 
  <p class="updated_time"> 12:01 PM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/science/nasa-space-tacos.html">NASA’s Latest Breakthrough: ‘Best Space Tacos Yet’</a> NYT: For the first time, astronauts on the International Space Station cultivated chiles, adding some zing to their tacos. 
  <p class="updated_time"> 11:27 AM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/climate/public-health-climate-change.html">Effort to Reframe Climate Change as a Health Crisis Gains Steam</a> NYT: Research has increasingly shown that warming is taking a deadly toll on human health. At the global climate summit in Glasgow, the issue has gained new prominence. 
- <p class="updated_time"> 10:47 AM CT, Nov. 04 </p> 
- <a href="https://www.nytimes.com/2021/11/04/world/europe/germany-covid-surge-daily-case-record.html">Facing a New Surge, Germany Sets a Daily Virus Case Record</a> NYT: The country registered 33,949 new coronavirus cases over a 24-hour period on Wednesday, surpassing a high set in December of last year. 
  <p class="updated_time"> 05:26 AM CT, Nov. 04 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-56901261?at_medium=RSS&at_campaign=KARANGA">COP26: What is the Glasgow climate conference and why is it important?</a> BBC: A crucial climate change summit is being held in the UK - this is why it's important. 
 
@@ -208,6 +210,10 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:00 AM CT, Nov. 07 </p> 
+ <a href="https://www.nytimes.com/2021/11/07/us/politics/republican-party-trump.html">Republicans, Basking in Tuesday’s Victories, Diverge on What Comes Next</a> NYT: Looming over a gathering of Jewish conservatives in Las Vegas were questions about whether former President Donald J. Trump should remain the face of the party. 
+ <p class="updated_time"> 02:53 AM CT, Nov. 07 </p> 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-07/israel-no-room-for-us-mission-for-palestinians-in-jerusalem">Israel: No Room for US Mission for Palestinians in Jerusalem</a> Bloomberg: Tel Aviv, Israel (AP) -- Israeli Prime Minister Naftali Bennett rejected the promised reopening of the main U.S. diplomatic mission for the Palestinians in Jerusalem, saying there was no room in the contested city for such an office. 
  <p class="updated_time"> 01:59 AM CT, Nov. 07 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-07/china-tells-iran-that-u-s-should-rectify-nuclear-moves-xinhua">China Tells Iran That U.S. Should Rectify Nuclear Moves: Xinhua</a> Bloomberg: China said the U.S. should rectify its actions in unilaterally withdrawing from a nuclear pact with Iran, and the Persian Gulf nation can resume fulfilling its nuclear commitments on that basis. 
  <p class="updated_time"> 01:11 AM CT, Nov. 07 </p> 
@@ -270,8 +276,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/06/us/politics/military-jury-cia-torture.html">Foreman Says Military Jury Was Disgusted by C.I.A. Torture</a> NYT: A Navy captain whose letter recommended clemency for a Qaeda terrorist drafted the damning two-page document in 20 minutes. 
  <p class="updated_time"> 12:48 PM CT, Nov. 06 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/G8WxaXYsnXA/index.html">Republican Ed Durr will defeat New Jersey's Senate president, CNN projects</a> CNN: Republican Ed Durr will defeat Democratic state Sen. Steve Sweeney, the Senate president, in New Jersey's state Senate district 3, CNN projects. 
- <p class="updated_time"> 12:45 PM CT, Nov. 06 </p> 
- <a href="https://www.nytimes.com/2021/11/04/us/politics/democrats-turnout-virginia.html">How Virginia’s Governor Race Unraveled the Democratic Turnout Myth</a> NYT: It was long thought that surges in voting would help Democrats. So how does the party explain Glenn Youngkin’s victory? 
  <p class="updated_time"> 12:31 PM CT, Nov. 06 </p> 
  <a href="https://www.nytimes.com/2021/11/05/us/politics/project-veritas-investigation-ashley-biden-diary.html">People Tied to Project Veritas Scrutinized in Theft of Diary From Biden’s Daughter</a> NYT: The F.B.I. carried out search warrants in New York as part of a Justice Department investigation into how pages from Ashley Biden’s journal came to be published by a right wing website. 
  <p class="updated_time"> 11:54 AM CT, Nov. 06 </p> 
@@ -358,8 +362,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/05/upshot/biden-budget-scorekeepers-cbo.html">2,000 Pages and Pronto! Budget Scorekeepers Are Under Pressure</a> NYT: Lawmakers want detailed estimates on the effects of the big Democratic bill, but that can take longer than they think, slowing the process. 
  <p class="updated_time"> 03:23 AM CT, Nov. 06 </p> 
  <a href="https://www.washingtonpost.com/nation/2021/11/06/seattle-election-prosecutor-ann-davison/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Seattle elects Republican as city attorney, rejecting police abolitionist who celebrated property destruction</a> WaPo: The city attorney leads prosecutions of low-level crimes and advises Seattle on legal matters. But the race was closely watched because it mirrored growing political polarization in America. 
- <p class="updated_time"> 02:11 AM CT, Nov. 06 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-06/un-investigator-crimes-against-humanity-under-myanmar-junta">UN Investigator: Crimes Against Humanity Under Myanmar Junta</a> Bloomberg: United Nations (AP) -- The head of the U.N. body investigating the most serious crimes in Myanmar said that preliminary evidence collected since the military seized power on Feb. 1 shows a widespread and systematic attack on civilians “amounting to crimes against humanity.” 
  <p class="updated_time"> 11:33 PM CT, Nov. 05 </p> 
  <a href="https://www.washingtonpost.com/politics/2021/11/06/pete-buttigieg-hospital-parental-leave/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Pete Buttigieg’s infant son home from hospital after spending a week on a ventilator </a> WaPo: The Buttigiegs adopted a boy and a girl in late summer, but it was only recently that they revealed that Joseph August was in poor health. 
  <p class="updated_time"> 10:55 PM CT, Nov. 05 </p> 
