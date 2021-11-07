@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:59 AM CT, Nov. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-59195399?at_medium=RSS&at_campaign=KARANGA">Iraqi PM al-Kadhimi survives drone attack on his home</a> BBC: Mustafa al-Kadhimi says he was not hurt in the attack by a drone carrying explosives in Baghdad. 
  <p class="updated_time"> 04:00 AM CT, Nov. 07 </p> 
  <a href="https://www.npr.org/2021/11/07/1051892092/guyana-climate-change-exxon-co26">Guyana is a poor country that was a green champion. Then Exxon discovered oil</a> NPR: Guyana, one of South America's poorest countries, is under severe threat by rising seas. That had made it a champion of climate action, but it all changed when ExxonMobil found oil off its waters. 
  <p class="updated_time"> 04:00 AM CT, Nov. 07 </p> 
@@ -17,8 +19,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/07/world/asia/china-xi-jinping.html">Xi Jinping is Rewriting China's History</a> NYT: A new official summation of Communist Party history is likely to exalt Xi Jinping as a peer of Mao and Deng, fortifying his claim to a new phase in power. 
  <p class="updated_time"> 03:42 AM CT, Nov. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59196814?at_medium=RSS&at_campaign=KARANGA">Libya: Row over attempt to suspend foreign minister Najla El-Mangoush</a> BBC: There has been political infighting after comments she made to the BBC about the 1988 Lockerbie bombing. 
- <p class="updated_time"> 03:23 AM CT, Nov. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-59195399?at_medium=RSS&at_campaign=KARANGA">Iraqi PM al-Kadhimi survives drone attack on his home</a> BBC: Mustafa al-Kadhimi says he was not hurt in the attack by a drone carrying explosives in Baghdad. 
  <p class="updated_time"> 02:00 AM CT, Nov. 07 </p> 
  <a href="https://www.nytimes.com/2021/11/07/world/asia/guam-dogcatcher.html">On Tiny Guam, It’s One Dogcatcher vs. 30,000 Strays</a> NYT: They bite, they threaten, they carry the risk of rabies. Islanders are sharply divided over what to do about the dogs. And Nicholas Ibanez is caught in the middle. 
  <p class="updated_time"> 02:00 AM CT, Nov. 07 </p> 
@@ -210,6 +210,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:00 AM CT, Nov. 07 </p> 
+ <a href="https://www.washingtonpost.com/politics/federal-workers-vaccines-exemptions/2021/11/07/761eb9d8-3da3-11ec-8ee9-4f14a26749d1_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Nearing Monday coronavirus vaccine deadline, thousands of federal workers seek religious exemptions to avoid shots</a> WaPo: The Biden administration’s plan to vaccinate the federal workforce is succeeding in many quarters, but the exemptions sought by some employees are complicating efforts to return the government to full strength. 
  <p class="updated_time"> 04:00 AM CT, Nov. 07 </p> 
  <a href="https://www.nytimes.com/2021/11/07/us/politics/republican-party-trump.html">Republicans, Basking in Tuesday’s Victories, Diverge on What Comes Next</a> NYT: Looming over a gathering of Jewish conservatives in Las Vegas were questions about whether former President Donald J. Trump should remain the face of the party. 
  <p class="updated_time"> 02:53 AM CT, Nov. 07 </p> 
@@ -324,8 +326,6 @@ permalink: /projects/news/
  <a href="https://www.bloomberg.com/news/articles/2021-11-06/ortega-seen-winning-sham-nicaragua-vote-after-opponents-jailed">Ortega Seen Winning ‘Sham’ Nicaragua Vote After Opponents Jailed</a> Bloomberg: Daniel Ortega is seeking a fourth consecutive five-year term as Nicaragua’s president on Sunday in an election that the U.S. and the European Parliament say is a “sham”. 
  <p class="updated_time"> 08:19 AM CT, Nov. 06 </p> 
  <a href="https://www.politico.com/news/2021/11/06/biden-ethiopia-diplomacy-519804">Biden’s diplomacy push meets its match as Ethiopia unravels</a> Politico: U.S. officials have done almost everything in their power to try and stop the fighting. Now they're urging Americans to leave the country as rebels draw closer to the capital. 
- <p class="updated_time"> 08:15 AM CT, Nov. 06 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-06/winning-horse-appears-to-blow-cover-of-trader-hiding-in-florida">Winning Horse Appears to Blow Cover of Trader Hiding in Florida</a> Bloomberg: A gold trader who disappeared after testifying about a U.S. sanctions-evasion scheme he masterminded has apparently had his assumed identity blown by a horse. 
  <p class="updated_time"> 07:38 AM CT, Nov. 06 </p> 
  <a href="https://www.washingtonpost.com/politics/2021/11/05/what-is-cbo-how-could-its-score-derail-democrats-spending-bills/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">What is the CBO, and how could its score derail Democrats’ social safety net bill?</a> WaPo: A nonpartisan office will determine whether Democrats' social safety net legislation is indeed paid for, as they claim. 
  <p class="updated_time"> 07:38 AM CT, Nov. 06 </p> 
@@ -456,8 +456,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/05/biden-gun-violence-legislation-519625">Gun control legislation isn’t going to happen. Here’s what Biden’s doing instead.</a> Politico: As president, Biden has promised billions of dollars in funding for community violence intervention, programs that have been shown to break cycles of violence. 
  <p class="updated_time"> 09:09 AM CT, Nov. 05 </p> 
  <a href="https://www.politico.com/news/2021/11/05/congress-biden-taiwan-519689">Congress pressures Biden to defend Taiwan</a> Politico: China's aggressive behavior is worrying lawmakers, but a new U.S. strategy could fan the flames. 
- <p class="updated_time"> 08:48 AM CT, Nov. 05 </p> 
- <a href="https://www.washingtonpost.com/politics/ciattarelli-refuses-to-concede-nj-governors-race-but-says-result-will-be-legal-and-fair/2021/11/05/0088741e-3e36-11ec-a493-51b0252dea0c_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Ciattarelli refuses to concede N.J. governor’s race but says result will be ‘legal and fair’</a> WaPo: In a video message, the Republican candidate urged his supporters not to buy in to conspiracy theories about his race against Gov. Phil Murphy (D). 
  <p class="updated_time"> 07:42 AM CT, Nov. 05 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OaDx7XjDDVQ/index.html">Jill Biden kicking off 'nationwide' child vaccine effort</a> CNN: First lady Jill Biden plans to embark on a "nationwide effort" to encourage Covid-19 vaccinations for children 5 to 11 years old next week, her office announced Friday. 
  <p class="updated_time"> 06:26 AM CT, Nov. 05 </p> 
