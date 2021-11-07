@@ -220,6 +220,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/07/murphy-new-jersey-reelection-hurt-520110">‘There’s a lot of hurt out there,’ N.J. governor says of close reelection</a> Politico: But Gov. Phil Murphy said things could have been a lot worse. 
  <p class="updated_time"> 01:31 PM CT, Nov. 07 </p> 
  <a href="https://www.politico.com/news/2021/11/07/strategic-reserve-rising-fuel-prices-granholm-520093">Biden may tap strategic reserve amid rising fuel prices, Granholm says</a> Politico: “The president is all over this. Of course, every president is frustrated because they can’t control the price of gasoline,” she said. 
+ <p class="updated_time"> 01:30 PM CT, Nov. 07 </p> 
+ <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DElB6sGwR-I/index.html">Jill Biden pays tribute to one of America's most iconic first ladies</a> CNN: As the season changed from summer to fall, first lady Jill Biden has found a spot to sit outside at the White House to grade her students' essays. 
  <p class="updated_time"> 01:17 PM CT, Nov. 07 </p> 
  <a href="https://www.nytimes.com/2021/11/07/us/politics/afghanistan-war-marines.html">Young Marines in Kabul Were Left to Run Final Days of Evacuation</a> NYT: The young Marines in Kabul were left to determine who was evacuated from Afghanistan and who was left behind. The cost was high. 
  <p class="updated_time"> 01:15 PM CT, Nov. 07 </p> 
@@ -264,8 +266,6 @@ permalink: /projects/news/
  <a href="https://www.bloomberg.com/news/articles/2021-11-07/biden-adviser-says-big-company-vaccine-mandate-on-legal-ground">Biden Adviser Says Big-Company Vaccine Mandate on Legal Ground</a> Bloomberg: President Joe Biden’s requirement for employees at companies with more than 100 workers to get Covid-19 vaccinations or regular testing is on solid legal ground, presidential adviser Cedric Richmond said. 
  <p class="updated_time"> 08:09 AM CT, Nov. 07 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sWdL-IYaLvg/index.html">Chris Christie delivers tough message to Republican audience, saying GOP gains hinge on moving on from 2020</a> CNN: While the other potential GOP White House aspirants continue to tip-toe around former President Donald Trump, former New Jersey Gov. Chris Christie argued Saturday that his week's election results marked the "beginning of a new era" for the Republican Party -- one that looks "forward and not backwards" as he addressed the Republican Jewish Coalition in Las Vegas. 
- <p class="updated_time"> 08:02 AM CT, Nov. 07 </p> 
- <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DElB6sGwR-I/index.html">Jill Biden honors the White House: 'This museum, this home' </a> CNN: As the season changed from summer to fall, first lady Jill Biden has found a spot to sit outside at the White House to grade her students' essays. 
  <p class="updated_time"> 07:27 AM CT, Nov. 07 </p> 
  <a href="https://www.politico.com/news/2021/11/07/iraq-failed-assassination-attempt-519973">Failed assassination bid against Iraq PM ramps up tension</a> Politico: “Cowardly rocket and drone attacks don’t build homelands and don’t build a future,” the prime minister said. 
  <p class="updated_time"> 07:10 AM CT, Nov. 07 </p> 
