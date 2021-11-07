@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:35 PM CT, Nov. 07 </p> 
+ <a href="https://www.npr.org/2021/11/07/1053356424/how-did-the-enslaved-workers-of-pompeii-live-a-new-discovery-provides-a-rare-gli">How did the enslaved workers of Pompeii live? A new discovery provides a rare glimpse</a> NPR: Archaeologists working to uncover a wealthy villa on the outskirts of the ancient city have found a dormitory for workers, providing important insight into daily life. 
  <p class="updated_time"> 03:23 PM CT, Nov. 07 </p> 
  <a href="https://www.nytimes.com/2021/11/07/world/americas/nicaragua-election-ortega.html">In Nicaragua Election, Ortega Crushes Dissent</a> NYT: President Daniel Ortega quashed the opposition and struck fear in voters, all but guaranteeing his victory in a presidential contest on Sunday. 
  <p class="updated_time"> 02:40 PM CT, Nov. 07 </p> 
@@ -179,8 +181,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/05/world/middleeast/erdogan-turkey-cop26.html">As Turkey Chafes at Erdogan, He Gets Spikier Abroad</a> NYT: President Recep Tayyip Erdogan canceled an appearance at the global climate talks over a perceived slight, part of a pattern of creating international dramas to bolster his domestic standing. 
  <p class="updated_time"> 11:17 AM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/04/world/europe/brexit-britain-france-johnson-macron.html">With Fish, Trucks and Submarines, U.K. and France Bicker Over Brexit</a> NYT: A recent dispute over fishing rights illuminates a broader and more fundamental disagreement over Britain’s decision to leave the European Union. 
- <p class="updated_time"> 10:47 AM CT, Nov. 05 </p> 
- <a href="https://www.npr.org/sections/goatsandsoda/2021/11/05/1052364086/new-usaid-director-aims-to-shake-up-60-year-old-aid-agency-heres-her-new-vision">New USAID director aims to shake up 60-year-old aid agency. Here's her 'new vision'</a> NPR: Like any government agency, the biggest American foreign aid group has its problems. This week, its new administrator Samantha Power outlined her solutions. 
  <p class="updated_time"> 10:37 AM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/05/world/europe/shortages-german-economic-growth.html">Germany's Economy Hindered by Supply Chain Problems </a> NYT: The order books in Europe’s largest economy are full, but a lack of parts and raw materials means companies are struggling to fill them. 
  <p class="updated_time"> 09:58 AM CT, Nov. 05 </p> 
@@ -218,6 +218,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:34 PM CT, Nov. 07 </p> 
+ <a href="https://www.washingtonpost.com/politics/2021/11/07/rick-scott-trump-nrsc/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Defying Trump, Rick Scott backs McConnell and Murkowski, tiptoes around false claims about election fraud</a> WaPo: "I think you'd be foolish not to want and accept Donald Trump's endorsement," Scott also told NBC's "Meet the Press" Sunday. 
  <p class="updated_time"> 03:24 PM CT, Nov. 07 </p> 
  <a href="https://www.politico.com/news/2021/11/07/nicaragua-ortega-election-sandinistas-520133">Nicaragua’s Ortega seeks reelection in questioned vote</a> Politico: He blasted the United States for interference in Nicaragua. 
  <p class="updated_time"> 03:00 PM CT, Nov. 07 </p> 
