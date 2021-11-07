@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:06 PM CT, Nov. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/business-59182278?at_medium=RSS&at_campaign=KARANGA">Twitter poll calls on Elon Musk to sell 10% stake in Tesla</a> BBC: The Tesla boss had promised to honour the outcome of the poll, whichever way it went. 
  <p class="updated_time"> 04:01 PM CT, Nov. 07 </p> 
  <a href="https://www.nytimes.com/2021/11/07/world/europe/uk-virus-surge-booster-shots.html">U.K. Health Secretary Urges People to Get Boosters</a> NYT: “If we all come together and play our part, we can get through this challenging winter, avoid a return to restrictions and enjoy Christmas,” said Sajid Javid, the health secretary. 
  <p class="updated_time"> 04:00 PM CT, Nov. 07 </p> 
@@ -35,8 +37,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59200295?at_medium=RSS&at_campaign=KARANGA">Astroworld: Rapper Travis Scott 'devastated' after music festival deaths</a> BBC: The rapper speaks for the first time after at least eight people died after a crowd surge during his set. 
  <p class="updated_time"> 09:48 AM CT, Nov. 07 </p> 
  <a href="https://www.nytimes.com/2021/11/07/world/europe/korea-sakhalin-japan-russia.html">What’s in a Name? For the Koreans of Sakhalin, an Anguished History</a> NYT: Stranded for decades on the island in Russia’s Far East, some bear three names, Japanese, Russian and Korean, representing different historical chapters. Now, many are planning their return. 
- <p class="updated_time"> 09:24 AM CT, Nov. 07 </p> 
- <a href="https://www.bbc.co.uk/news/business-59182278?at_medium=RSS&at_campaign=KARANGA">Elon Musk holds Twitter vote over $21bn Tesla share sale</a> BBC: The Tesla boss promises to honour the outcome of the poll, whichever way it goes. 
  <p class="updated_time"> 09:09 AM CT, Nov. 07 </p> 
  <a href="https://www.nytimes.com/2021/11/06/world/europe/camino-de-santiago-spain.html">On Spain’s Camino de Santiago, Even Óscar the Donkey Is a Pilgrim</a> NYT: An artist and an innkeeper have enlisted the help of a burro in their effort to rescue the traditions of Spain’s ancient pilgrimage route from mass tourism (and selfies). 
  <p class="updated_time"> 09:08 AM CT, Nov. 07 </p> 
@@ -321,7 +321,7 @@ permalink: /projects/news/
  <p class="updated_time"> 01:59 AM CT, Nov. 07 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-07/china-tells-iran-that-u-s-should-rectify-nuclear-moves-xinhua">China Tells Iran That U.S. Should Rectify Nuclear Moves: Xinhua</a> Bloomberg: China said the U.S. should rectify its actions in unilaterally withdrawing from a nuclear pact with Iran, and the Persian Gulf nation can resume fulfilling its nuclear commitments on that basis. 
  <p class="updated_time"> 12:00 AM CT, Nov. 07 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-07/houston-leaders-seek-clues-for-concert-mishap-that-killed-8">Mourning Starts as Houston Officials Probe Concert Deaths</a> Bloomberg: Houston (AP) -- Investigators Sunday worked to determine how eight people died in a crush of fans at a Houston music festival, as friends and loved ones mourned the victims and a makeshift memorial of flowers and candles took shape at the site. 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-07/houston-leaders-seek-clues-for-concert-mishap-that-killed-8">Mourning Starts as Houston Officials Probe Concert Deaths</a> Bloomberg: Houston (AP) -- Investigators Sunday worked to determine how eight people died in a crush of fans at a Houston music festival, as families mourned the dead and concertgoers recounted the horror and confusion of being trapped in the crowd. 
  <p class="updated_time"> 11:10 PM CT, Nov. 06 </p> 
  <a href="https://www.nytimes.com/2021/11/06/us/politics/james-okeefe-project-veritas-ashley-biden.html">F.B.I. Searches James O’Keefe’s Home in Ashley Biden Diary Theft Inquiry</a> NYT: Authorities carried out a court-ordered search at the New York apartment of the Project Veritas founder two days after searching the homes of his associates. 
  <p class="updated_time"> 09:10 PM CT, Nov. 06 </p> 
