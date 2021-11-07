@@ -208,6 +208,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 01:59 AM CT, Nov. 07 </p> 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-07/china-tells-iran-that-u-s-should-rectify-nuclear-moves-xinhua">China Tells Iran That U.S. Should Rectify Nuclear Moves: Xinhua</a> Bloomberg: China said the U.S. should rectify its actions in unilaterally withdrawing from a nuclear pact with Iran, and the Persian Gulf nation can resume fulfilling its nuclear commitments on that basis. 
  <p class="updated_time"> 01:11 AM CT, Nov. 07 </p> 
  <a href="https://www.nytimes.com/2021/11/06/us/politics/defectors-infrastructure-bill-squad.html">In Infrastructure Votes, 19 Members Broke With Their Party</a> NYT: The defectors who crossed partisan lines in Congress include 13 Republicans who supported the bill and the six liberal members of “The Squad,” who opposed it. 
  <p class="updated_time"> 12:00 AM CT, Nov. 07 </p> 
@@ -216,18 +218,24 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/06/us/politics/james-okeefe-project-veritas-ashley-biden.html">F.B.I. Searches James O’Keefe’s Home in Ashley Biden Diary Theft Inquiry</a> NYT: Authorities carried out a court-ordered search at the New York apartment of the Project Veritas founder two days after searching the homes of his associates. 
  <p class="updated_time"> 09:14 PM CT, Nov. 06 </p> 
  <a href="https://www.politico.com/news/2021/11/06/iraqi-prime-minister-survives-assassination-bid-with-drones-519925">Iraqi prime minister survives assassination bid with drones</a> Politico: In a statement, the government said the drones tried to hit al-Kadhimi’s home. 
+ <p class="updated_time"> 09:10 PM CT, Nov. 06 </p> 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-07/china-reports-50-local-cases-as-covid-outbreak-continues-to-grow">China Reports 50 Local Cases as Covid Outbreak Continues to Grow</a> Bloomberg: China reported 50 new local Covid-19 infections on Saturday, as authorities said stringent curbs will remain to disrupt the virus’s domestic transmission. 
  <p class="updated_time"> 09:00 PM CT, Nov. 06 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2NkhBglAY6w/index.html">Federal appeals court issues stay of Biden administration's vaccine mandate for private companies</a> CNN: A federal appeals court temporarily blocked the Biden administration's new vaccine rules that could apply to larger employers, certain health care workers and federal contractors. 
+ <p class="updated_time"> 08:10 PM CT, Nov. 06 </p> 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-07/new-zealand-s-ardern-touts-maturity-in-relations-with-china">New Zealand’s Ardern Touts ‘Maturity’ in Relations With China</a> Bloomberg: Prime Minister Jacinda Ardern said there is a “maturity” in New Zealand’s relationship with China, its biggest trading partner, which her government believes enables it to raise issues of concern, amid simmering tensions between Beijing and the West. 
  <p class="updated_time"> 07:47 PM CT, Nov. 06 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sWdL-IYaLvg/index.html">Chris Christie delivers tough message to Republican audience, saying GOP gains hinge on moving on from 2020</a> CNN: While the other potential GOP White House aspirants continue to tip-toe around former President Donald Trump, former New Jersey Gov. Chris Christie argued Saturday that his week's election results marked the "beginning of a new era" for the Republican Party -- one that looks "forward and not backwards" as he addressed the Republican Jewish Coalition in Las Vegas. 
  <p class="updated_time"> 07:35 PM CT, Nov. 06 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-07/iraqi-prime-minister-survives-assassination-attempt-by-drone">Iraqi Prime Minister Survives Assassination Attempt by Drone</a> Bloomberg: Iraqi Prime Minister Mustafa al-Kadhimi survived an assassination attempt early Sunday after an explosive-laden drone targeted his residence inside the Green Zone. 
+ <p class="updated_time"> 07:07 PM CT, Nov. 06 </p> 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-07/north-korea-conducts-artillery-drill-amid-ally-joint-exercise">North Korea Conducts Artillery Drill Amid Ally Joint Exercise</a> Bloomberg: North Korea conducted an artillery fire drill Saturday that could target its rival Korea’s heavily populated capital, after Washington and Seoul kicked off joint military aerial exercises on Monday despite Pyongyang’s rebuke. 
  <p class="updated_time"> 06:48 PM CT, Nov. 06 </p> 
  <a href="https://www.nytimes.com/2021/11/06/us/politics/infrastructure-black-caucus-vote.html">How a $1 Trillion Infrastructure Bill Survived an Intraparty Brawl</a> NYT: Speaker Nancy Pelosi agreed to a deal proposed by the Congressional Black Caucus, mobilizing one faction of Democratic lawmakers to win over two others. 
  <p class="updated_time"> 06:45 PM CT, Nov. 06 </p> 
  <a href="https://www.washingtonpost.com/politics/biden-infrastructure-presidency/2021/11/06/4eaa5372-3f05-11ec-8ee9-4f14a26749d1_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">After months of setbacks, Biden finally gets long-sought win on infrastructure</a> WaPo: With his presidency on the ropes, Biden felt a new sense of urgency to produce legislative results — and a willingness to accept greater risk in pursuing them. 
  <p class="updated_time"> 06:01 PM CT, Nov. 06 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-06/court-halts-u-s-mandate-europe-hit-by-new-wave-virus-update">China’s Outbreak Grows; Europe Hit by New Wave: Virus Update</a> Bloomberg: China reported 50 new local coronavirus cases, as its outbreak continues to grow despite increasingly stringent measures of containment in the world’s last Covid Zero holdout. 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-06/court-halts-u-s-mandate-europe-hit-by-new-wave-virus-update">U.K. Mulls Plan to Extend Travel Quarantines: Virus Update</a> Bloomberg: British travelers who fail to get Covid-19 booster jabs could face fresh quarantine and testing requirements, according to the Mail on Sunday. 
  <p class="updated_time"> 05:25 PM CT, Nov. 06 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-06/australia-u-k-confident-of-free-trade-agreement-by-year-end">Australia, U.K. ‘Confident’ of Free Trade Agreement by Year-End</a> Bloomberg: Australia and the U.K. are both “very confident” that their free trade agreement would be finalized by year-end, said David McCredie, chief executive officer of the Australian British Chamber of Commerce. 
  <p class="updated_time"> 05:15 PM CT, Nov. 06 </p> 
@@ -314,8 +322,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/06/biden-ethiopia-diplomacy-519804">Biden’s diplomacy push meets its match as Ethiopia unravels</a> Politico: U.S. officials have done almost everything in their power to try and stop the fighting. Now they're urging Americans to leave the country as rebels draw closer to the capital. 
  <p class="updated_time"> 08:15 AM CT, Nov. 06 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-06/winning-horse-appears-to-blow-cover-of-trader-hiding-in-florida">Winning Horse Appears to Blow Cover of Trader Hiding in Florida</a> Bloomberg: A gold trader who disappeared after testifying about a U.S. sanctions-evasion scheme he masterminded has apparently had his assumed identity blown by a horse. 
- <p class="updated_time"> 07:55 AM CT, Nov. 06 </p> 
- <a href="https://www.bloomberg.com/news/newsletters/2021-11-06/a-big-win-for-biden-climate-talks-get-tough-weekend-reads">A Big Win for Biden; Climate Talks Get Tough: Weekend Reads</a> Bloomberg: After marathon negotiations, the U.S. House approved a $550 billion infrastructure bill, giving President Joe Biden what he badly wanted: a large, bipartisan accomplishment. The legislation, passed earlier by the Senate, now goes to Biden for his signature. 
  <p class="updated_time"> 07:38 AM CT, Nov. 06 </p> 
  <a href="https://www.washingtonpost.com/politics/2021/11/05/what-is-cbo-how-could-its-score-derail-democrats-spending-bills/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">What is the CBO, and how could its score derail Democrats’ social safety net bill?</a> WaPo: A nonpartisan office will determine whether Democrats' social safety net legislation is indeed paid for, as they claim. 
  <p class="updated_time"> 07:38 AM CT, Nov. 06 </p> 
@@ -326,8 +332,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/06/1053163025/house-passes-stripped-down-infrastructure-bill-pushing-off-many-of-bidens-wants">House passes stripped-down infrastructure bill, pushing off many of Biden's wants</a> NPR: The House passed the trillion-dollar legislation known as the "Bipartisan Infrastructure Bill" and set up another vote for President Biden's "Build Back Better" plan. 
  <p class="updated_time"> 07:02 AM CT, Nov. 06 </p> 
  <a href="https://www.npr.org/2021/11/06/1053162976/week-in-politics-house-passes-1-trillion-infrastructure-bill">Week In Politics: House passes $1 trillion infrastructure bill</a> NPR: We look at the latest push - and resistance - to the passage of President Biden's $1.75 trillion social spending bill, as well as what this week's elections mean for the Democratic party. 
- <p class="updated_time"> 06:31 AM CT, Nov. 06 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-06/credit-suisse-closed-ai-weiwei-account-due-to-missing-paperwork">Credit Suisse Closed Ai Weiwei Account Due to Missing Paperwork</a> Bloomberg: Credit Suisse Group AG closed Chinese artist and dissident Ai Weiwei’s account because of missing paperwork, the bank said Saturday, confirming a report by Tages-Anzeiger. 
  <p class="updated_time"> 06:25 AM CT, Nov. 06 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-06/climate-march-keeps-up-pressure-on-leaders-at-u-n-summit">Climate March Keeps Up Pressure on Leaders at UN Summit</a> Bloomberg: Glasgow, Scotland (AP) -- Tens of thousands of climate activists marched Saturday through the Scottish city hosting the U.N. climate summit, physically close to the global negotiators inside but separated by a vast gulf in expectations, with frustrated marchers increasingly dismissive of the talks and demanding immediate action instead to slow global warming. 
  <p class="updated_time"> 06:18 AM CT, Nov. 06 </p> 
@@ -350,8 +354,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/06/rural-dems-trouble-519782">Rural Democrats stare into the abyss after Virginia</a> Politico: Rural Democrats say the party’s problems on their turf are twofold. 
  <p class="updated_time"> 06:00 AM CT, Nov. 06 </p> 
  <a href="https://www.politico.com/news/2021/11/06/trump-arizona-senate-primary-519779">Trump muscles into Arizona Senate primary</a> Politico: The former president, who has not yet endorsed in the contest, will appear at a fundraiser for Republican Blake Masters. 
- <p class="updated_time"> 06:00 AM CT, Nov. 06 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-06/pelosi-s-political-prowess-tested-by-struggle-for-biden-agenda">Pelosi’s Political Prowess Tested by Struggle for Biden Agenda</a> Bloomberg: U.S. House Speaker Nancy Pelosi’s struggle to deliver on President Joe Biden’s two biggest policy priorities has illustrated the distrust and divisions within her party at a time Democrats desperately want to show they can govern. 
  <p class="updated_time"> 03:24 AM CT, Nov. 06 </p> 
  <a href="https://www.nytimes.com/2021/11/05/upshot/biden-budget-scorekeepers-cbo.html">2,000 Pages and Pronto! Budget Scorekeepers Are Under Pressure</a> NYT: Lawmakers want detailed estimates on the effects of the big Democratic bill, but that can take longer than they think, slowing the process. 
  <p class="updated_time"> 03:23 AM CT, Nov. 06 </p> 
@@ -424,8 +426,6 @@ permalink: /projects/news/
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9cF6gW0sWuY/index.html">'A great lion with a big heart': Former presidents and dignitaries pay tribute to Colin Powell</a> CNN: Gen. Colin Powell, the late former secretary of state and Joint Chiefs of Staff chairman, will be honored Friday at a private funeral service at the Washington National Cathedral. 
  <p class="updated_time"> 01:04 PM CT, Nov. 05 </p> 
  <a href="https://www.washingtonpost.com/politics/powell-funeral-biden-bush/2021/11/05/992f8f46-3d95-11ec-bfad-8283439871ec_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Colin Powell remembered for leadership, integrity and a love of ABBA and Marley at funeral</a> WaPo: The former secretary of state and chairman of the Joint Chiefs of Staff died last month of complications from covid-19. 
- <p class="updated_time"> 12:26 PM CT, Nov. 05 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-05/u-s-gasoline-exports-surge-as-americans-pay-up-at-the-pump">U.S. Gasoline Exports Surge Even as Americans Pay Up at the Pump</a> Bloomberg: While President Biden is fretting about high prices at the pump, even going as far as asking OPEC+ to raise oil output, U.S. refiners are exporting the most gasoline in three years. 
  <p class="updated_time"> 12:19 PM CT, Nov. 05 </p> 
  <a href="https://www.washingtonpost.com/politics/2021/11/05/mcauliffes-quote-schools-was-clunker-polls-suggest-parental-backlash-didnt-swing-election/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">McAuliffe’s quote on schools was a clunker, but polls suggest parental backlash didn’t swing the election</a> WaPo: What exit polling shows about how education mattered in Youngkin's win. 
  <p class="updated_time"> 12:18 PM CT, Nov. 05 </p> 
