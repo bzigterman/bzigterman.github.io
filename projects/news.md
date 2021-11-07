@@ -9,12 +9,12 @@ permalink: /projects/news/
 
  <p class="updated_time"> 01:04 AM CT, Nov. 07 </p> 
  <a href="https://www.nytimes.com/2021/11/06/world/americas/costa-rica-covid-vaccine-children.html">Costa Rica moves to require Covid shots for children.</a> NYT: The Central American nation’s health ministry said on Friday it was adding Covid-19 to the list of required vaccinations for people 18 and younger. 
+ <p class="updated_time"> 12:35 AM CT, Nov. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59194819?at_medium=RSS&at_campaign=KARANGA">Astroworld: Criminal investigation into Texas festival crowd surge</a> BBC: Eight people died after a deadly crowd surge during a performance by rapper Travis Scott. 
  <p class="updated_time"> 11:56 PM CT, Nov. 06 </p> 
  <a href="https://www.nytimes.com/2021/11/06/world/asia/india-fire-covid-icu.html">A fire in Covid intensive care ward kills 11 people in India.</a> NYT: Staff at the hospital in the western state of Maharashtra tried to douse the fire with fire extinguishers, but the flames spread quickly in the airtight room. 
  <p class="updated_time"> 11:55 PM CT, Nov. 06 </p> 
  <a href="https://www.nytimes.com/2021/11/06/world/americas/biden-osha-vaccine-mandate-blocked.html">Biden's Vaccine Mandate Temporarily Blocked, Foreshadowing Uphill Battle</a> NYT: A stay granted by a federal appeals court in Louisiana could signal an uphill battle for the administration in getting the entire American work force vaccinated. 
- <p class="updated_time"> 11:07 PM CT, Nov. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59194819?at_medium=RSS&at_campaign=KARANGA">Astroworld: Criminal investigation into Texas festival crowd surge</a> BBC: Eight people died after a deadly crowd surge during a performance by rapper Travis Scott. 
  <p class="updated_time"> 10:25 PM CT, Nov. 06 </p> 
  <a href="https://www.nytimes.com/2021/11/06/world/middleeast/iraq-prime-minister-drone.html">Iraq Says Drone Strike Was Aimed at Prime Minister</a> NYT: Prime Minister Mustafa al-Kadhimi was unharmed in the attack on his residence early Sunday, the government said. 
  <p class="updated_time"> 09:47 PM CT, Nov. 06 </p> 
