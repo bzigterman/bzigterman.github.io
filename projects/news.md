@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:48 AM CT, Nov. 07 </p> 
+ <a href="https://www.nytimes.com/2021/11/07/world/americas/nicaragua-election-ortega.html">In Nicaragua Election, Ortega Crushes Dissent</a> NYT: President Daniel Ortega quashed the opposition and struck fear in voters, all but guaranteeing his victory in a presidential contest on Sunday. 
  <p class="updated_time"> 11:29 AM CT, Nov. 07 </p> 
  <a href="https://www.nytimes.com/2021/11/06/world/middleeast/iraq-prime-minister-drone.html">Fears of Wider Instability in Iraq After Attack on Prime Minister’s Home</a> NYT: Armed drones struck the Iraqi prime minister’s home in what was seen as a warning as Iranian-backed groups dispute the results of parliamentary elections. 
  <p class="updated_time"> 11:26 AM CT, Nov. 07 </p> 
@@ -33,6 +35,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/07/1053326456/sudan-faces-mass-protests-and-arrests-after-military-dissolves-civilian-governme">Sudan faces mass protests and arrests after military dissolves civilian government</a> NPR: Danielle Kurtzleben speaks to Khartoum-based political analyst Samir Fadol on the latest in Sudan, where a military coup unseated the civilian government October 25. 
  <p class="updated_time"> 07:03 AM CT, Nov. 07 </p> 
  <a href="https://www.npr.org/2021/11/07/1051468823/iraq-marshes-climate-change-cop26">In Iraq's famed marshlands, climate change is upending a way of life</a> NPR: Drought and extreme heat that scientists link to climate change are altering the UNESCO-protected marshlands. Iraq's average annual temperatures are increasing at nearly double the rate of Earth's. 
+ <p class="updated_time"> 06:48 AM CT, Nov. 07 </p> 
+ <a href="https://www.wsj.com/articles/brazilian-farmers-who-protect-the-amazon-rainforest-would-like-to-be-paid-11636281003">Farmers Who Protect the Amazon Rainforest Would Like to Be Paid</a> WSJ: Some in Brazil say they would protect forests on their land if compensated through a carbon-credit program on the agenda at the climate-change summit now under way in Glasgow. 
  <p class="updated_time"> 06:33 AM CT, Nov. 07 </p> 
  <a href="https://www.nytimes.com/2021/11/07/world/asia/myanmar-bill-richardson.html">Veteran U.S. Diplomat Comes Under Criticism for a Trip to Myanmar</a> NYT: Bill Richardson, a former ambassador to the U.N., said that he had held “productive” talks with the general who led the February coup. Rights activists said he gave the junta an air of legitimacy. 
  <p class="updated_time"> 06:17 AM CT, Nov. 07 </p> 
@@ -49,8 +53,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/iraqs-prime-minister-survives-assassination-attempt-government-says-11636248485">Iraqi Prime Minister Targeted in Assassination Attempt</a> WSJ: An explosive-laden drone attacked the residence of Iraqi Prime Minister Mustafa al-Kadhimi in Baghdad. The prime minister said he wasn’t hurt. 
  <p class="updated_time"> 04:00 AM CT, Nov. 07 </p> 
  <a href="https://www.npr.org/2021/11/07/1051892092/guyana-climate-change-exxon-co26">Guyana is a poor country that was a green champion. Then Exxon discovered oil</a> NPR: Guyana, one of South America's poorest countries, is under severe threat by rising seas. That had made it a champion of climate action, but it all changed when ExxonMobil found oil off its waters. 
- <p class="updated_time"> 04:00 AM CT, Nov. 07 </p> 
- <a href="https://www.nytimes.com/2021/11/07/world/americas/nicaragua-election-ortega.html">In Nicaragua Election, Ortega Crushes Dissent</a> NYT: President Daniel Ortega quashed the opposition and struck fear in voters, all but guaranteeing his victory in a presidential contest on Sunday. 
  <p class="updated_time"> 04:00 AM CT, Nov. 07 </p> 
  <a href="https://www.nytimes.com/2021/11/07/science/antarctica-wildfires.html">Antarctica Was Once a Land of Fire and Not Ice</a> NYT: Charcoal recovered from a dig near the southern continent shows that the region wasn’t spared from the era scientists call a “super fire world.” 
  <p class="updated_time"> 04:00 AM CT, Nov. 07 </p> 
@@ -71,8 +73,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/06/world/americas/costa-rica-covid-vaccine-children.html">Costa Rica moves to require Covid shots for children.</a> NYT: The Central American nation’s health ministry said on Friday it was adding Covid-19 to the list of required vaccinations for people 18 and younger. 
  <p class="updated_time"> 01:18 AM CT, Nov. 07 </p> 
  <a href="https://www.nytimes.com/2021/11/06/world/asia/india-fire-covid-icu.html">A fire in Covid intensive care ward kills 11 people in India.</a> NYT: Staff at the hospital in the western state of Maharashtra tried to douse the fire with fire extinguishers, but the flames spread quickly in the airtight room. 
- <p class="updated_time"> 12:30 AM CT, Nov. 07 </p> 
- <a href="https://www.wsj.com/articles/brazilian-farmers-who-protect-the-amazon-rainforest-would-like-to-be-paid-11636281003">Farmers Who Protect the Amazon Rainforest Would Like to Be Paid</a> WSJ: Some in Brazil say they would protect forests on their land if compensated through a carbon-credit program on the agenda at the climate-change summit now under way in Glasgow. 
  <p class="updated_time"> 07:55 PM CT, Nov. 06 </p> 
  <a href="https://www.npr.org/2021/11/06/1053226380/astroworld-concert-tragedies-love-parade-pearl-jam-the-who-rolling-stones">Astroworld Festival joins a list of historical concert tragedies</a> NPR: Astroworld Festival calls to mind other rare but traumatic incidents at concerts and festivals throughout the last half-century. Here's a timeline of those tragedies. 
  <p class="updated_time"> 07:39 PM CT, Nov. 06 </p> 
