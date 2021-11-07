@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:25 AM CT, Nov. 07 </p> 
+ <a href="https://www.nytimes.com/2021/11/07/travel/us-travel-ban-reunions.html">As U.S. Travel Changes Near, Global Travelers Eagerly Await Reunions</a> NYT: On Monday, travelers from many other countries who are fully vaccinated against the coronavirus will be allowed to enter the United States. 
+ <p class="updated_time"> 09:24 AM CT, Nov. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/business-59182278?at_medium=RSS&at_campaign=KARANGA">Elon Musk holds Twitter vote over $21bn Tesla share sale</a> BBC: The Tesla boss promises to honour the outcome of the poll, whichever way it goes. 
  <p class="updated_time"> 09:09 AM CT, Nov. 07 </p> 
  <a href="https://www.nytimes.com/2021/11/06/world/europe/camino-de-santiago-spain.html">On Spain’s Camino de Santiago, Even Óscar the Donkey Is a Pilgrim</a> NYT: An artist and an innkeeper have enlisted the help of a burro in their effort to rescue the traditions of Spain’s ancient pilgrimage route from mass tourism (and selfies). 
  <p class="updated_time"> 09:08 AM CT, Nov. 07 </p> 
@@ -27,8 +31,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-59197250?at_medium=RSS&at_campaign=KARANGA">Sudan coup: Teachers tear-gassed at protest in Khartoum</a> BBC: Protesters are demanding the military step back and allow the transition to civilian rule. 
  <p class="updated_time"> 06:00 AM CT, Nov. 07 </p> 
  <a href="https://www.npr.org/2021/11/07/1053275827/nicaragua-may-be-holding-presidential-elections-but-it-is-edging-toward-dictator">Nicaragua may be holding presidential elections, but it is edging toward dictatorship</a> NPR: Nicaraguan President Daniel Ortega is running for a fourth consecutive term to remain leader of the Central American country in elections that critics and U.S. officials have labeled a "sham." 
- <p class="updated_time"> 05:52 AM CT, Nov. 07 </p> 
- <a href="https://www.bbc.co.uk/news/business-59182278?at_medium=RSS&at_campaign=KARANGA">Elon Musk holds Twitter vote over $21bn Tesla share sale</a> BBC: The Tesla boss promises to honour the outcome of the poll, whichever way it goes. 
  <p class="updated_time"> 05:13 AM CT, Nov. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59196463?at_medium=RSS&at_campaign=KARANGA">Italian Mafia: 'Ndrangheta members convicted as Italy begins huge trial</a> BBC: More than 350 alleged mobsters will face court in the biggest mafia trial in decades. 
  <p class="updated_time"> 04:59 AM CT, Nov. 07 </p> 
@@ -169,8 +171,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/05/world/europe/shortages-german-economic-growth.html">Germany's Economy Hindered by Supply Chain Problems </a> NYT: The order books in Europe’s largest economy are full, but a lack of parts and raw materials means companies are struggling to fill them. 
  <p class="updated_time"> 09:58 AM CT, Nov. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-46138064?at_medium=RSS&at_campaign=KARANGA">Delhi pollution: Are Diwali fireworks to blame?</a> BBC: Do fireworks let off during Diwali celebrations really cause that much pollution? 
- <p class="updated_time"> 09:41 AM CT, Nov. 05 </p> 
- <a href="https://www.nytimes.com/2021/11/04/science/astronomy-decadal-survey-telescope.html">A New 10-Year Plan for the Cosmos</a> NYT: On astronomers’ wish list for the next decade: two giant telescopes and a space telescope to search for life and habitable worlds beyond Earth. 
  <p class="updated_time"> 09:29 AM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/05/world/asia/india-diwali-covid.html">In India, Fears Grow That Diwali Celebrations Could Fuel Another Virus Spike</a> NYT: Epidemiologists are concerned that Covid cases will surge after shoppers thronged markets and hundreds of thousands traveled around the country to celebrate the festival. 
  <p class="updated_time"> 09:28 AM CT, Nov. 05 </p> 
@@ -212,6 +212,12 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:27 AM CT, Nov. 07 </p> 
+ <a href="https://www.politico.com/news/2021/11/07/murthy-vaccine-mandate-biden-520015">Surgeon general defends embattled vaccine mandate</a> Politico: “It’s a necessary step to accelerate our pathway out of the pandemic,” Vivek Murthy said. 
+ <p class="updated_time"> 09:25 AM CT, Nov. 07 </p> 
+ <a href="https://www.nytimes.com/2021/11/07/travel/us-travel-ban-reunions.html">As U.S. Travel Changes Near, Global Travelers Eagerly Await Reunions</a> NYT: On Monday, travelers from many other countries who are fully vaccinated against the coronavirus will be allowed to enter the United States. 
+ <p class="updated_time"> 09:24 AM CT, Nov. 07 </p> 
+ <a href="https://www.washingtonpost.com/politics/biden-trump-infrastructure-afghanistan/2021/11/07/7c7a5534-3f34-11ec-8ee9-4f14a26749d1_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Biden gets his ‘infrastructure week,’ crossing another goal off Trump’s to-do list</a> WaPo: While the president has spent much of his first months in office seeking to undo the legacy of his predecessor, Biden’s passage of a massive spending bill and the withdrawal from Afghanistan mark two policy goals the two shared — but only one achieved. 
  <p class="updated_time"> 08:12 AM CT, Nov. 07 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-07/biden-adviser-says-big-company-vaccine-mandate-on-legal-ground">Biden Adviser Says Big-Company Vaccine Mandate on Legal Ground</a> Bloomberg: President Joe Biden’s requirement for employees at companies with more than 100 workers to get Covid-19 vaccinations or regular testing is on solid legal ground, presidential adviser Cedric Richmond said. 
  <p class="updated_time"> 08:09 AM CT, Nov. 07 </p> 
@@ -320,8 +326,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/06/us/states-infrastructure-bill-funding.html">This Is Where the States Want Billions in Infrastructure Funding Spent</a> NYT: The plan finally approved on Friday will address transportation, water, broadband, energy and public safety needs that have been building for years, sometimes decades. 
  <p class="updated_time"> 11:37 AM CT, Nov. 06 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5O1HUiOKflQ/index.html">Biden says families separated at the border under Trump deserve compensation for 'outrageous' immigration policy</a> CNN: President Joe Biden on Saturday strongly endorsed the idea of the US government compensating immigrant families separated at the border under the Trump administration's "zero-tolerance policy," saying the previous administration's "outrageous behavior" warrants cash payments -- but he didn't go into detail about specific amounts. 
- <p class="updated_time"> 11:27 AM CT, Nov. 06 </p> 
- <a href="https://www.bloomberg.com/news/features/2021-11-06/photos-cop26-protests-demand-climate-action">COP26 Protests: Inflatable Cows, Megaphones and a Rainbow</a> Bloomberg: Organizers said more than 100,000&nbsp;people took to the streets of Glasgow to call on world leaders to do more to stop the rise in global temperatures 
  <p class="updated_time"> 11:15 AM CT, Nov. 06 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/42vd3LAnnC4/index.html">Merrick Garland is caught in a pickle with Steve Bannon</a> CNN: It's been 16 days since the Democratic-controlled House approved a contempt resolution against former Trump White House political Svengali Steve Bannon for his refusal to provide testimony to the January 6 committee. 
  <p class="updated_time"> 11:15 AM CT, Nov. 06 </p> 
@@ -428,8 +432,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/05/house-democrats-infrastructure-vote-wait-megabill-519731">'Whole day was a clusterf---': Dems overcome distrust to send infrastructure bill to Biden</a> Politico: Democratic centrists and progressives reached a detente that cleared the $550 billion bipartisan legislation late Friday night and advanced their social spending package. 
  <p class="updated_time"> 02:35 PM CT, Nov. 05 </p> 
  <a href="https://www.politico.com/news/2021/11/05/house-democrats-infrastructure-vote-wait-megabill-519731">'Whole day was a clusterf---': Dems overcome distrust to send infrastructure bill to Biden</a> Politico: Democratic centrists and progressives reached a detente that cleared the $550 billion bipartisan legislation late Friday night and advanced their social spending package. 
- <p class="updated_time"> 02:07 PM CT, Nov. 05 </p> 
- <a href="https://www.politico.com/news/2021/11/05/judge-rejects-comparison-between-jan-6-riot-and-george-floyd-unrest-519723">Judge rejects comparison between Jan. 6 riot and George Floyd unrest</a> Politico: 'For people to say people who participated in the protests of the summer of 2020 got no jail time, that’s not my experience in my court,' 
  <p class="updated_time"> 01:04 PM CT, Nov. 05 </p> 
  <a href="https://www.washingtonpost.com/politics/powell-funeral-biden-bush/2021/11/05/992f8f46-3d95-11ec-bfad-8283439871ec_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Colin Powell remembered for leadership, integrity and a love of ABBA and Marley at funeral</a> WaPo: The former secretary of state and chairman of the Joint Chiefs of Staff died last month of complications from covid-19. 
  <p class="updated_time"> 12:19 PM CT, Nov. 05 </p> 
@@ -450,10 +452,6 @@ permalink: /projects/news/
  <a href="https://www.washingtonpost.com/politics/2021/11/05/electoral-demise-defund-police/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">The electoral demise of ‘defund the police’</a> WaPo: The message from Tuesday's elections -- even in blue areas -- was clear: Reform, yes. Defunding the police, no. 
  <p class="updated_time"> 11:19 AM CT, Nov. 05 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OlmWZ6c6Dpg/index.html">The moment has come for Biden and Pelosi to close the deal on his sweeping agenda</a> CNN: In the wake of jarring election results in several states on Tuesday, the one thing Democrats appeared to agree on was that they needed action in Congress. 
- <p class="updated_time"> 10:53 AM CT, Nov. 05 </p> 
- <a href="https://www.washingtonpost.com/politics/2021/11/04/smartmatic-sues-newsmax-oan-2020-us-election/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Voting technology firm Smartmatic sues Newsmax and One America News, alleging defamation</a> WaPo: The contentious 2020 presidential election has pitted firms like Smartmatic, which sell electronic voting machines and software, against Trump-friendly networks. 
- <p class="updated_time"> 10:20 AM CT, Nov. 05 </p> 
- <a href="https://www.nytimes.com/2021/11/05/us/politics/school-board-threats.html">School Board Members Face Rising Threats Across the U.S.</a> NYT: Across the country, parents have threatened board members and vandalized their homes. One board member scans his driveway before walking to his car. 
  <p class="updated_time"> 09:51 AM CT, Nov. 05 </p> 
  <a href="https://www.politico.com/news/2021/11/05/biden-gun-violence-legislation-519625">Gun control legislation isn’t going to happen. Here’s what Biden’s doing instead.</a> Politico: As president, Biden has promised billions of dollars in funding for community violence intervention, programs that have been shown to break cycles of violence. 
  <p class="updated_time"> 09:09 AM CT, Nov. 05 </p> 
