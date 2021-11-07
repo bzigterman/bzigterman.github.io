@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:15 PM CT, Nov. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59197250?at_medium=RSS&at_campaign=KARANGA">Sudan coup: Protesters tear-gassed at rally in Khartoum</a> BBC: Protesters are demanding the military step back and allow the transition to civilian rule. 
  <p class="updated_time"> 04:06 PM CT, Nov. 07 </p> 
  <a href="https://www.bbc.co.uk/news/business-59182278?at_medium=RSS&at_campaign=KARANGA">Twitter poll calls on Elon Musk to sell 10% stake in Tesla</a> BBC: The Tesla boss had promised to honour the outcome of the poll, whichever way it went. 
  <p class="updated_time"> 04:01 PM CT, Nov. 07 </p> 
@@ -21,8 +23,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/07/travel/us-travel-ban-reunions.html">As U.S. Travel Changes Near, Global Travelers Eagerly Await Reunions</a> NYT: On Monday, travelers from many other countries who are fully vaccinated against the coronavirus will be allowed to enter the United States. 
  <p class="updated_time"> 02:25 PM CT, Nov. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59195399?at_medium=RSS&at_campaign=KARANGA">Iraqi PM al-Kadhimi survives drone attack on his home</a> BBC: Mustafa al-Kadhimi says he was not hurt in the attack by a drone carrying explosives in Baghdad. 
- <p class="updated_time"> 02:12 PM CT, Nov. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59197250?at_medium=RSS&at_campaign=KARANGA">Sudan coup: Protesters tear-gassed at rally in Khartoum</a> BBC: Protesters are demanding the military step back and allow the transition to civilian rule. 
  <p class="updated_time"> 01:58 PM CT, Nov. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59201107?at_medium=RSS&at_campaign=KARANGA">US to reopen borders to vaccinated travellers after 20 months</a> BBC: A flood of foreign visitors is expected as tough restrictions on entry come to an end on Monday. 
  <p class="updated_time"> 01:52 PM CT, Nov. 07 </p> 
