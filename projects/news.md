@@ -9,6 +9,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 05:35 AM CT, Nov. 07 </p> 
  <a href="https://www.nytimes.com/2021/11/06/world/middleeast/iraq-prime-minister-drone.html">Iraq Says Drone Strike Was Aimed at Prime Minister</a> NYT: Prime Minister Mustafa al-Kadhimi was unharmed in the attack on his residence early Sunday, the government said. 
+ <p class="updated_time"> 05:13 AM CT, Nov. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59196463?at_medium=RSS&at_campaign=KARANGA">Italian Mafia: 'Ndrangheta members convicted as Italy begins huge trial</a> BBC: More than 350 alleged mobsters will face court in the biggest mafia trial in decades. 
  <p class="updated_time"> 04:59 AM CT, Nov. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59195399?at_medium=RSS&at_campaign=KARANGA">Iraqi PM al-Kadhimi survives drone attack on his home</a> BBC: Mustafa al-Kadhimi says he was not hurt in the attack by a drone carrying explosives in Baghdad. 
  <p class="updated_time"> 04:00 AM CT, Nov. 07 </p> 
@@ -179,8 +181,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/global-food-prices-surge-as-inflation-spreads-11636119367">Global Food Prices Surge as Inflation Spreads</a> WSJ: Bad harvests and supply bottlenecks are leaving poor families hungry in the developing world, from Peru to the Philippines. 
  <p class="updated_time"> 04:00 AM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/05/world/europe/germany-black-woman-bundestag.html">First Black Woman in Bundestag Wants to Change Image of ‘Germanness’</a> NYT: After a deadly racist attack, Awet Tesfaiesus considered leaving Germany. Instead, she ran for Parliament with a “courage to change” slogan and won. 
- <p class="updated_time"> 03:42 AM CT, Nov. 05 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-59174876?at_medium=RSS&at_campaign=KARANGA">Abba on new album Voyage: We don't need to prove anything</a> BBC: As the band release Voyage, Benny and Bjorn speak to the BBC about being compared to their old music. 
  <p class="updated_time"> 02:56 AM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/05/world/europe/russia-nuclear-power-climate-change.html">A Nuclear-Powered Shower? Russia Tests a Climate Innovation.</a> NYT: A remote Siberian town now has its own miniature nuclear plant as a Russian state company tests a new model for residential heating. Some see it as a tool to minimize climate change. 
  <p class="updated_time"> 01:24 AM CT, Nov. 05 </p> 
@@ -210,6 +210,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:45 AM CT, Nov. 07 </p> 
+ <a href="https://www.politico.com/news/2021/11/07/nevada-democrats-harry-reid-machine-and-pro-sanders-forces-519919">Dems sweat civil war between Harry Reid machine and pro-Sanders forces</a> Politico: A bitter feud has divided Democrats in a key swing state — and dragged in the national party. 
  <p class="updated_time"> 05:30 AM CT, Nov. 07 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-07/johnson-can-t-duck-tory-sleaze-row-as-u-k-criticism-mounts">Johnson Can’t Duck Tory Sleaze Row as U.K. Criticism Mounts</a> Bloomberg: U.K. Prime Minister Boris Johnson is facing growing criticism over his party’s conduct, as a former Conservative prime minister and opposition members speak out against him following a lobbying scandal. 
  <p class="updated_time"> 05:00 AM CT, Nov. 07 </p> 
@@ -467,8 +469,6 @@ permalink: /projects/news/
  <p class="updated_time"> 04:37 AM CT, Nov. 05 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/oBU5c7ussr4/index.html">Harris to announce Biden administration's first meeting of the National Space Council</a> CNN: Six months after being tapped to lead the White House's National Space Council, Vice President Kamala Harris will announce the council's first meeting of the Biden administration during a visit Friday to NASA's Goddard Space Flight Center in Maryland. 
  <p class="updated_time"> 03:30 AM CT, Nov. 05 </p> 
- <a href="https://www.politico.com/cartoons/2021/11/05/the-nations-cartoonists-on-the-week-in-politics-000265">The nation’s cartoonists on the week in politics</a> Politico: Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics. The fruits of these labors are hundreds of cartoons that entertain and enrage readers of all political stripes. Here's an offering of the best of this week's crop, picked fresh off the Toonosphere. Edited by Matt Wuerker. 
- <p class="updated_time"> 03:30 AM CT, Nov. 05 </p> 
  <a href="https://www.politico.com/news/2021/11/05/pelosi-dems-final-push-519607">Pelosi tries to rev House Dems after season in the ditch</a> Politico: "There’s a point where you've got to stop talking," Rep. Peter Welch (D-Vt.) said. But can the House get there? 
  <p class="updated_time"> 03:30 AM CT, Nov. 05 </p> 
  <a href="https://www.politico.com/news/2021/11/05/democrats-plea-biden-more-assertive-519672">Democrats plead with Biden to get more assertive</a> Politico: The grumblings have grown louder after Virginia and New Jersey and as the legislative agenda remains in limbo. 
@@ -494,6 +494,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/04/house-megabill-passage-manchin-last-word-519570">Manchin will get last word, even as House races to pass megabill</a> Politico: House Democratic leaders and progressives want to speed toward passage of a bill that won't have a smooth ride through the Senate. 
  <p class="updated_time"> 11:54 AM CT, Nov. 04 </p> 
  <a href="https://www.politico.com/news/2021/11/04/pelosi-domestic-agenda-519503">Pelosi amps up domestic-agenda pressure campaign, pressing Friday votes</a> Politico: Democratic leaders made headway in some areas, but key lawmakers were still drafting new language on immigration as late as 9 p.m. 
+ <p class="updated_time"> 11:18 AM CT, Nov. 04 </p> 
+ <a href="https://www.politico.com/news/2021/11/04/doj-kamala-harris-jan-6-519505">DOJ error highlights Jan. 6 mystery: Where was Kamala Harris during the attack?</a> Politico: The Justice Department is now moving to correct the record on her whereabouts. 
  <p class="updated_time"> 07:46 AM CT, Nov. 04 </p> 
  <a href="https://www.politico.com/news/2021/11/04/biden-vaccine-mandates-private-employers-519477">Biden vaccine mandates will hit after holiday season, offering relief to businesses</a> Politico: The announcement follows weeks of pressure from business leaders who complained the rules would wreak havoc on the supply chain and possibly aggravate worker shortages. 
  <p class="updated_time"> 07:02 AM CT, Nov. 04 </p> 
@@ -504,8 +506,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/11/04/for-dems-its-2009-all-over-again-494977">POLITICO Playbook: For Dems, it’s ’2009 all over again’</a> Politico: And New Jersey Gov. Phil Murphy wins reelection narrowly. 
  <p class="updated_time"> 03:30 AM CT, Nov. 04 </p> 
  <a href="https://www.politico.com/news/2021/11/04/latino-poll-virginia-youngkin-mcauliffe-519425">What's up with Virginia’s Latino vote?</a> Politico: Did Glenn Youngkin really win among Latinos? Or did Terry McAuliffe crush him? 
- <p class="updated_time"> 05:16 PM CT, Nov. 03 </p> 
- <a href="https://www.politico.com/news/2021/11/03/mayors-elections-crime-policing-results-519226">7 big cities elected mayors Tuesday. Crime and policing shaped the results.</a> Politico: The municipal elections tested some of Democrats’ most ambitious policies and candidates in more than half a dozen big cities. Most of them didn’t make the cut. 
  <p class="updated_time"> 02:28 PM CT, Nov. 03 </p> 
  <a href="https://www.politico.com/news/2021/11/03/senate-republicans-voting-reform-block-519082">Senate GOP blocks latest Dem push for voting reform</a> Politico: Alaska’s Lisa Murkowski was the only Republican to join Democrats on the bill named for the late Rep. John Lewis. 
  <p class="updated_time"> 02:05 PM CT, Nov. 03 </p> 
