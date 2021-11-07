@@ -206,8 +206,6 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
- <p class="updated_time"> 01:27 AM CT, Nov. 07 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-07/iran-begins-annual-war-games-ahead-of-nuke-talks-with-west">Iran Begins Annual War Games Ahead of Nuke Talks With West</a> Bloomberg: Tehran, Iran (AP) -- Iran’s military began its annual war games in a coastal area of the Gulf of Oman, state TV reported Sunday, less than a month before upcoming nuclear talks with the West. 
  <p class="updated_time"> 01:11 AM CT, Nov. 07 </p> 
  <a href="https://www.nytimes.com/2021/11/06/us/politics/defectors-infrastructure-bill-squad.html">In Infrastructure Votes, 19 Members Broke With Their Party</a> NYT: The defectors who crossed partisan lines in Congress include 13 Republicans who supported the bill and the six liberal members of “The Squad,” who opposed it. 
  <p class="updated_time"> 12:00 AM CT, Nov. 07 </p> 
