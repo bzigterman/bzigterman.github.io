@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:09 AM CT, Nov. 07 </p> 
+ <a href="https://www.nytimes.com/2021/11/06/world/europe/camino-de-santiago-spain.html">On Spain’s Camino de Santiago, Even Óscar the Donkey Is a Pilgrim</a> NYT: An artist and an innkeeper have enlisted the help of a burro in their effort to rescue the traditions of Spain’s ancient pilgrimage route from mass tourism (and selfies). 
+ <p class="updated_time"> 09:08 AM CT, Nov. 07 </p> 
+ <a href="https://www.nytimes.com/2021/11/06/world/americas/biden-osha-vaccine-mandate-blocked.html">Biden's Vaccine Mandate Temporarily Blocked, Foreshadowing Uphill Battle</a> NYT: A stay granted by a federal appeals court in Louisiana could signal an uphill battle for the administration in getting the entire American work force vaccinated. 
  <p class="updated_time"> 08:34 AM CT, Nov. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59196465?at_medium=RSS&at_campaign=KARANGA">In pictures: Thousands join huge pro-government rally in Ethiopia</a> BBC: The rally comes as rebel Tigrayan forces advance within 300km of the capital Addis Ababa. 
  <p class="updated_time"> 08:34 AM CT, Nov. 07 </p> 
@@ -29,6 +33,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59196463?at_medium=RSS&at_campaign=KARANGA">Italian Mafia: 'Ndrangheta members convicted as Italy begins huge trial</a> BBC: More than 350 alleged mobsters will face court in the biggest mafia trial in decades. 
  <p class="updated_time"> 04:59 AM CT, Nov. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59195399?at_medium=RSS&at_campaign=KARANGA">Iraqi PM al-Kadhimi survives drone attack on his home</a> BBC: Mustafa al-Kadhimi says he was not hurt in the attack by a drone carrying explosives in Baghdad. 
+ <p class="updated_time"> 04:09 AM CT, Nov. 07 </p> 
+ <a href="https://www.wsj.com/articles/iraqs-prime-minister-survives-assassination-attempt-government-says-11636248485">Iraqi Prime Minister Targeted in Assassination Attempt</a> WSJ: An explosive-laden drone attacked the residence of Iraqi Prime Minister Mustafa al-Kadhimi in Baghdad. The prime minister said he wasn’t hurt. 
  <p class="updated_time"> 04:00 AM CT, Nov. 07 </p> 
  <a href="https://www.npr.org/2021/11/07/1051892092/guyana-climate-change-exxon-co26">Guyana is a poor country that was a green champion. Then Exxon discovered oil</a> NPR: Guyana, one of South America's poorest countries, is under severe threat by rising seas. That had made it a champion of climate action, but it all changed when ExxonMobil found oil off its waters. 
  <p class="updated_time"> 04:00 AM CT, Nov. 07 </p> 
@@ -55,10 +61,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59194819?at_medium=RSS&at_campaign=KARANGA">Astroworld: Criminal investigation into Texas festival crowd surge</a> BBC: Eight people died after a deadly crowd surge during a performance by rapper Travis Scott. 
  <p class="updated_time"> 12:30 AM CT, Nov. 07 </p> 
  <a href="https://www.wsj.com/articles/brazilian-farmers-who-protect-the-amazon-rainforest-would-like-to-be-paid-11636281003">Farmers Who Protect the Amazon Rainforest Would Like to Be Paid</a> WSJ: Some in Brazil say they would protect forests on their land if compensated through a carbon-credit program on the agenda at the climate-change summit now under way in Glasgow. 
- <p class="updated_time"> 11:55 PM CT, Nov. 06 </p> 
- <a href="https://www.nytimes.com/2021/11/06/world/americas/biden-osha-vaccine-mandate-blocked.html">Biden's Vaccine Mandate Temporarily Blocked, Foreshadowing Uphill Battle</a> NYT: A stay granted by a federal appeals court in Louisiana could signal an uphill battle for the administration in getting the entire American work force vaccinated. 
- <p class="updated_time"> 08:57 PM CT, Nov. 06 </p> 
- <a href="https://www.wsj.com/articles/iraqs-prime-minister-survives-assassination-attempt-government-says-11636248485">Iraqi Prime Minister Targeted in Assassination Attempt</a> WSJ: An explosive-laden drone attacked the residence of Iraqi Prime Minister Mustafa al-Kadhimi in Baghdad. The prime minister said he wasn’t hurt. 
  <p class="updated_time"> 07:55 PM CT, Nov. 06 </p> 
  <a href="https://www.npr.org/2021/11/06/1053226380/astroworld-concert-tragedies-love-parade-pearl-jam-the-who-rolling-stones">Astroworld Festival joins a list of historical concert tragedies</a> NPR: Astroworld Festival calls to mind other rare but traumatic incidents at concerts and festivals throughout the last half-century. Here's a timeline of those tragedies. 
  <p class="updated_time"> 07:39 PM CT, Nov. 06 </p> 
@@ -123,8 +125,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/fuel-tanker-explosion-in-sierra-leone-kills-at-least-99-11636210816">Fuel-Tanker Explosion in Sierra Leone Kills at Least 99</a> WSJ: The explosion happened shortly after a fuel tanker collided with another vehicle near a gasoline station in a suburb of the capital Freetown, causing a large spill, city officials said. 
  <p class="updated_time"> 04:11 AM CT, Nov. 06 </p> 
  <a href="https://www.nytimes.com/2021/11/05/world/africa/ethiopia-tigray-eight-groups.html">Eight Groups Join Tigray Rebels Vowing to Oust Ethiopia’s Leader</a> NYT: The government calls the new coalition, announced in Washington, a “publicity stunt,” as intermediaries try to negotiate a peaceful solution to a year of conflict. 
- <p class="updated_time"> 04:00 AM CT, Nov. 06 </p> 
- <a href="https://www.nytimes.com/2021/11/06/world/europe/camino-de-santiago-spain.html">On Spain’s Camino de Santiago, Even Óscar the Donkey Is a Pilgrim</a> NYT: An artist and an innkeeper have enlisted the help of a burro in their effort to rescue the traditions of Spain’s ancient pilgrimage route from mass tourism (and selfies). 
  <p class="updated_time"> 04:00 AM CT, Nov. 06 </p> 
  <a href="https://www.nytimes.com/2021/11/06/world/asia/india-region-muslim-hindu-strife.html">India's Treatment of Muslims Erodes Its Moral High Ground</a> NYT: The hard-line attitude of Narendra Modi’s ruling party toward Muslims has undermined the nation’s reputation as a voice for tolerance in South Asia. 
  <p class="updated_time"> 03:19 AM CT, Nov. 06 </p> 
@@ -236,6 +236,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/07/dems-search-for-answers-expect-crushed-in-2022-519901">Democrats just got their clocks cleaned. No one seems ready to change anything.</a> Politico: There’s little evidence suggesting the party is capable of changing course before the midterms. 
  <p class="updated_time"> 07:00 AM CT, Nov. 07 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/D10Mw4FKVeI/index.html">Steve Bannon's popular podcast is a 'dangerous' fantasyland of election lies </a> CNN: Steve Bannon's aggressive campaign to undermine American democracy didn't stop on January 6. 
+ <p class="updated_time"> 06:49 AM CT, Nov. 07 </p> 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-07/sudan-forces-arrest-87-teachers-at-anti-coup-protest-group-says">Sudan Forces Arrest 87 Teachers at Anti-Coup Protest, Group Says</a> Bloomberg: At least 87 teachers were arrested when Sudan security forces cracked down on a sit-in at the Education Ministry in the capital, an activist group said, as protests rage on against last month’s coup. 
  <p class="updated_time"> 06:45 AM CT, Nov. 07 </p> 
  <a href="https://www.politico.com/news/2021/11/07/nevada-democrats-harry-reid-machine-and-pro-sanders-forces-519919">Democrats sweat midterm fallout from Nevada party crack-up</a> Politico: A bitter feud has divided Dems in a key swing state — and dragged in the national party. 
  <p class="updated_time"> 06:44 AM CT, Nov. 07 </p> 
@@ -338,8 +340,6 @@ permalink: /projects/news/
  <a href="https://www.washingtonpost.com/politics/2021/11/06/what-does-infrastructure-packages-passing-mean-democrats-bigger-social-spending-bill/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">What does infrastructure package’s passing mean for the Democrats’ bigger social spending bill?</a> WaPo: A number of hurdles remain. Let's walk through them. 
  <p class="updated_time"> 10:18 AM CT, Nov. 06 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/06/how-biden-and-pelosi-saved-bif-495005">POLITICO Playbook: How Biden and Pelosi saved BIF</a> Politico: And President Joe Biden secures the biggest win of his presidency so far. 
- <p class="updated_time"> 10:03 AM CT, Nov. 06 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-06/biden-says-he-doesn-t-see-opec-shifting-to-help-with-oil-prices">Biden Says He Doesn’t See OPEC+ Shifting to Help With Oil Prices</a> Bloomberg: President Joe Biden acknowledged that OPEC+ countries won’t increase oil output enough to meet U.S. demands and left the door open to a range of options, as the administration weighs whether to tap the Strategic Petroleum Reserve. 
  <p class="updated_time"> 09:54 AM CT, Nov. 06 </p> 
  <a href="https://www.politico.com/news/2021/11/06/biden-infrastructure-vote-519861">Biden hails infrastructure win as ‘monumental step forward’</a> Politico: “Finally, infrastructure week,” a beaming Biden told reporters. 
  <p class="updated_time"> 09:32 AM CT, Nov. 06 </p> 
@@ -347,11 +347,7 @@ permalink: /projects/news/
  <p class="updated_time"> 09:32 AM CT, Nov. 06 </p> 
  <a href="https://www.washingtonpost.com/politics/2021/11/06/fix-gop-infrastructure-defections/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">GOP erupts over its House members bailing out Biden</a> WaPo: Without GOP support, the bill didn't have a majority. And the right wing is out for blood. 
  <p class="updated_time"> 09:31 AM CT, Nov. 06 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-06/china-says-ready-to-cut-tariffs-on-rcep-s-entry-into-force">China Says Ready to Cut Tariffs on RCEP’s Entry Into Force</a> Bloomberg: China says it’s ready to reduce tariffs when the Asia-Pacific trade deal Regional Comprehensive Economic Partnership Agreement, or the RCEP, comes into force next year. 
- <p class="updated_time"> 09:31 AM CT, Nov. 06 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-06/biden-calls-public-works-bill-u-s-job-growth-monumental-step">Biden Calls Public Works Bill, Job Growth ‘Monumental Step’</a> Bloomberg: President Joe Biden celebrated House passage of the biggest U.S. infrastructure plan in decades, a crucial victory that he described as a direct response to voters who handed his party defeats in state elections last week. 
- <p class="updated_time"> 09:19 AM CT, Nov. 06 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-06/russian-iranian-foreign-ministers-call-to-restore-nuclear-deal">Russian, Iranian Foreign Ministers Call to Restore Nuclear Deal</a> Bloomberg: Russia and Iran’s foreign ministers called for the nuclear accord with Tehran to be restored, with Iran saying it was ready to comply if the U.S. doesn’t add additional demands. 
  <p class="updated_time"> 09:16 AM CT, Nov. 06 </p> 
  <a href="https://www.npr.org/2021/11/06/1053051380/jan-6-panel-former-doj-official-jeffrey-clark-fails-to-cooperate-in-testimony">Jan. 6 panel: Former DOJ official Jeffrey Clark fails to cooperate in testimony</a> NPR: Former DOJ official Jeffrey Clark appeared for a deposition, but the panel says he failed to cooperate. 
  <p class="updated_time"> 07:38 AM CT, Nov. 06 </p> 
