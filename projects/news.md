@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:04 PM CT, Nov. 07 </p> 
+ <p class="updated_time"> 09:53 PM CT, Nov. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59199831?at_medium=RSS&at_campaign=KARANGA">Astroworld: Victims named as police probe US festival crush</a> BBC: Family and friends pay tribute to those who died at Travis Scott's Astroworld festival in Houston. 
  <p class="updated_time"> 07:25 PM CT, Nov. 07 </p> 
  <a href="https://www.nytimes.com/2021/11/07/world/americas/nicaragua-election-ortega.html">In Nicaragua Election, Ortega Crushes Dissent</a> NYT: President Daniel Ortega quashed the opposition and struck fear in voters, all but guaranteeing his victory in a presidential contest on Sunday. 
@@ -218,6 +218,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:55 PM CT, Nov. 07 </p> 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-08/china-uses-fake-u-s-aircraft-carrier-for-target-practice">China Uses Fake U.S. Aircraft Carrier for Missile Target Practice</a> Bloomberg: The Chinese military is using mock-ups of a U.S. aircraft carrier at a weapons-testing range in a remote western desert, new satellite imagery shows, indicating the People’s Liberation Army is focused on neutralizing a key tool of U.S. power. 
  <p class="updated_time"> 08:21 PM CT, Nov. 07 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-08/south-korea-s-moon-near-low-in-polls-as-election-campaign-starts">Conservatives Start South Korea Campaign With Support at Record</a> Bloomberg: South Korean President Moon Jae-in’s support rate neared a record low while the conservative opposition’s hit a new high, a worrying sign for the leader’s progressive camp as the campaign to replace him heats up. 
  <p class="updated_time"> 08:14 PM CT, Nov. 07 </p> 
@@ -328,8 +330,6 @@ permalink: /projects/news/
  <a href="https://www.bloomberg.com/news/articles/2021-11-07/israel-no-room-for-us-mission-for-palestinians-in-jerusalem">Palestinians, Israel Spar Over US Mission in Jerusalem</a> Bloomberg: Tel Aviv, Israel (AP) -- The Palestinians on Sunday slammed Israel for rejecting the promised reopening of the U.S. consulate in Jerusalem, a move that would restore Washington's main diplomatic mission for the Palestinians in the contested city. 
  <p class="updated_time"> 02:02 AM CT, Nov. 07 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/G1JZt57rmEE/index.html">Voters and public officials choose police reform in moderation after George Floyd's murder</a> CNN: Anti-police candidates and a policing overhaul referendum were rejected on Election Day in Seattle, Minneapolis and Buffalo, continuing a trend of voters and public officials choosing moderate and measured approaches to policing over sweeping or radical changes. 
- <p class="updated_time"> 01:59 AM CT, Nov. 07 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-07/china-tells-iran-that-u-s-should-rectify-nuclear-moves-xinhua">China Tells Iran That U.S. Should Rectify Nuclear Moves: Xinhua</a> Bloomberg: China said the U.S. should rectify its actions in unilaterally withdrawing from a nuclear pact with Iran, and the Persian Gulf nation can resume fulfilling its nuclear commitments on that basis. 
  <p class="updated_time"> 12:00 AM CT, Nov. 07 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-07/houston-leaders-seek-clues-for-concert-mishap-that-killed-8">Mourning Starts as Houston Officials Probe Concert Deaths</a> Bloomberg: Houston (AP) -- Investigators Sunday worked to determine how eight people died in a crush of fans at a Houston music festival, as families mourned the dead and concertgoers recounted the horror and confusion of being trapped in the crowd. 
  <p class="updated_time"> 11:10 PM CT, Nov. 06 </p> 
