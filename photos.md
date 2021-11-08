@@ -5,7 +5,7 @@ permalink: /photos/
 ---
 
 <ul>
-  {% for post in site.posts %}
+  {% for post in site.categories.photos %}
     <li>
       <a href="{{ post.url }}">{{ post.title }}</a>
     </li>
