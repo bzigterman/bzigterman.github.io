@@ -7,16 +7,18 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:55 AM CT, Nov. 08 </p> 
+ <p class="updated_time"> 10:30 AM CT, Nov. 08 </p> 
+ <a href="https://www.nytimes.com/2021/11/08/world/middleeast/nso-israel-palestinians-spyware.html">Palestinians Were Targeted by Israeli Firm’s Spyware, Experts Say</a> NYT: The findings of a new analysis raised questions about whether the Israeli government may have been behind the hacking, using spyware from the NSO Group, a surveillance company blacklisted by the United States. 
+ <p class="updated_time"> 10:27 AM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/travel/us-travel-ban-vaccination.html">U.S. Lifts Travel Ban for Vaccinated Foreigners</a> NYT: The change ends more than 18 months of restrictions that left families separated from loved ones and cost the global travel industry hundreds of billions of dollars. 
+ <p class="updated_time"> 10:26 AM CT, Nov. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59205570?at_medium=RSS&at_campaign=KARANGA">Astroworld: Travis Scott and Drake sued over deadly US festival crush</a> BBC: The rapper faces legal action after at least eight people were killed during his Astroworld festival. 
  <p class="updated_time"> 09:54 AM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/world/europe/europe-us-travel-ban.html">U.S. Travel Ban Ends, and Europeans Head Overseas Again</a> NYT: Europeans were kept apart from family and friends as the ban dragged on long after E.U. leaders had opened their borders. 
  <p class="updated_time"> 09:49 AM CT, Nov. 08 </p> 
- <a href="https://www.nytimes.com/2021/11/08/world/europe/van-morrison-covid-northern-ireland.html">Northern Ireland’s health minister is suing Van Morrison over Covid-19 criticism.</a> NYT: The Belfast-born singer-songwriter has embraced conspiracy theories and criticized restrictions to slow the spread of the coronavirus. Last year, he released a single called “No More Lockdown.” 
+ <a href="https://www.nytimes.com/2021/11/08/world/europe/van-morrison-covid-northern-ireland.html">Northern Ireland’s Health Minister Is Suing Van Morrison Over Covid Criticism</a> NYT: The Belfast-born singer-songwriter has embraced conspiracy theories and criticized restrictions to slow the spread of the coronavirus. Last year, he released a single called “No More Lockdown.” 
  <p class="updated_time"> 09:46 AM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/world/europe/heathrow-first-flight-us-travel-ban.html">Excited Passengers Board First Flight from Heathrow to the U.S.</a> NYT: Long lines formed at Heathrow Airport for the first scheduled trips to the United States since the Biden administration lifted a travel ban. 
- <p class="updated_time"> 09:45 AM CT, Nov. 08 </p> 
- <a href="https://www.nytimes.com/2021/11/08/world/middleeast/nso-israel-palestinians-spyware.html">Palestinians Were Targeted by Israeli Firm’s Spyware, Experts Say</a> NYT: The findings of a new analysis raised questions about whether the Israeli government may have been behind the hacking, using spyware from the NSO Group, a surveillance company blacklisted by the United States. 
  <p class="updated_time"> 09:24 AM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/06/world/europe/cop-climate-protests.html">COP26 Protesters Back an Array of Causes, Connected by Climate Change</a> NYT: Thousands gathered in the rain in Glasgow to press the case for more urgent and meaningful action by world leaders in response to global warming. 
  <p class="updated_time"> 09:10 AM CT, Nov. 08 </p> 
@@ -32,11 +34,11 @@ permalink: /projects/news/
  <p class="updated_time"> 07:31 AM CT, Nov. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59205468?at_medium=RSS&at_campaign=KARANGA">Oscar Pistorius parole process to start in South Africa</a> BBC: The ex-Paralympian will first have to meet the parents of the woman he murdered, Reeva Steenkamp. 
  <p class="updated_time"> 07:29 AM CT, Nov. 08 </p> 
- <a href="https://www.bbc.co.uk/news/technology-59206549?at_medium=RSS&at_campaign=KARANGA">TikTok: Missing girl found after using viral call for help sign</a> BBC: The hand gesture asking for help led to the rescue of a missing teenager in the USA. 
+ <a href="https://www.bbc.co.uk/news/technology-59206549?at_medium=RSS&at_campaign=KARANGA">TikTok: Missing girl found after using viral call for help sign</a> BBC: The hand gesture asking for help led to the rescue of a missing teenager in the US. 
  <p class="updated_time"> 07:20 AM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/07/travel/us-travel-ban-reunions.html">As U.S. Travel Changes Near, Global Travelers Eagerly Await Reunions</a> NYT: On Monday, travelers from many other countries who are fully vaccinated against the coronavirus will be allowed to enter the United States. 
- <p class="updated_time"> 06:38 AM CT, Nov. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59205570?at_medium=RSS&at_campaign=KARANGA">Astroworld: Travis Scott and Drake sued over deadly US festival crush</a> BBC: The rapper faces legal action after at least eight people were killed during his Astroworld festival. 
+ <p class="updated_time"> 06:42 AM CT, Nov. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59208188?at_medium=RSS&at_campaign=KARANGA">Festivalgoers react to the Astroworld crush</a> BBC: Travis Scott's Astroworld Festival was cancelled after eight people died following a crowd surge. 
  <p class="updated_time"> 06:08 AM CT, Nov. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59206683?at_medium=RSS&at_campaign=KARANGA">Poland clarifies abortion law after protests over mother’s death</a> BBC: The guidance was issued after a pregnant woman's death was blamed on Poland's strict abortion laws. 
  <p class="updated_time"> 06:07 AM CT, Nov. 08 </p> 
@@ -214,10 +216,28 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
- <p class="updated_time"> 09:59 AM CT, Nov. 08 </p> 
+ <p class="updated_time"> 11:09 AM CT, Nov. 08 </p> 
+ <a href="https://www.politico.com/news/2021/11/08/trump-2024-midterms-520276">Trump: 2024 announcement 'probably' coming after midterms</a> Politico: "A lot of people will be very happy," the former president told Fox News. 
+ <p class="updated_time"> 10:27 AM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/travel/us-travel-ban-vaccination.html">U.S. Lifts Travel Ban for Vaccinated Foreigners</a> NYT: The change ends more than 18 months of restrictions that left families separated from loved ones and cost the global travel industry hundreds of billions of dollars. 
- <p class="updated_time"> 09:56 AM CT, Nov. 08 </p> 
+ <p class="updated_time"> 10:24 AM CT, Nov. 08 </p> 
+ <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9p9GkYhH3_M/index.html">US seizes $6 million in ransom payments and expected to charge Ukrainian over major cyberattack </a> CNN: Law enforcement officials have seized an estimated $6 million in ransom payments, and the US Justice Department is expected to announce Monday that it has charged a suspect from Ukraine over a damaging July ransomware attack on an American company in a breakthrough for the Biden administration's pursuit of cybercriminals, CNN has learned. 
+ <p class="updated_time"> 10:21 AM CT, Nov. 08 </p> 
+ <a href="https://www.washingtonpost.com/politics/2021/11/08/more-confirmation-that-gop-under-trump-is-hostage-situation/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">More confirmation that the GOP under Trump is a hostage situation</a> WaPo: Yet another report indicates Trump threatened to switch parties. And the denials aren't adding up. 
+ <p class="updated_time"> 10:21 AM CT, Nov. 08 </p> 
+ <a href="https://www.washingtonpost.com/politics/2021/11/08/more-confirmation-that-gop-under-trump-is-hostage-situation/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">More confirmation that the GOP under Trump is a hostage situation</a> WaPo: Yet another report indicates Trump threatened to switch parties. And the denials aren't adding up. 
+ <p class="updated_time"> 10:16 AM CT, Nov. 08 </p> 
+ <a href="https://www.washingtonpost.com/politics/2021/11/08/rhetorical-power-word-woke-is-far-more-obvious-than-its-definition/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">The rhetorical power of the word ‘woke’ is far more obvious than its definition</a> WaPo: What we talk about when we talk about nothing. 
+ <p class="updated_time"> 10:15 AM CT, Nov. 08 </p> 
+ <a href="https://www.nytimes.com/2021/11/08/arts/critical-race-theory-bans.html">Bans on Critical Race Theory Threaten Free Speech, Advocacy Group Says</a> NYT: A report by PEN America, which surveys more than 50 bills proposed across the country, appeals to a principle that has lost its luster for many on the left and right. 
+ <p class="updated_time"> 10:03 AM CT, Nov. 08 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uTQPN82VZNw/index.html">Obama swipes at Trump for 'four years of active hostility' on climate in Glasgow speech</a> CNN: Former President Barack Obama will deliver remarks on Monday at the UN climate conference in Glasgow in a return to the world stage centered around the climate crisis. 
+ <p class="updated_time"> 10:00 AM CT, Nov. 08 </p> 
+ <a href="https://www.nytimes.com/2021/11/08/business/randal-quarles-fed.html">Fed Governor Quarles to Step Down in December</a> NYT: Mr. Quarles’s term as a governor could have stretched until 2032. His departure will give the Biden administration more room to remake the Fed. 
+ <p class="updated_time"> 10:00 AM CT, Nov. 08 </p> 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-08/quarles-to-depart-fed-end-december-opens-another-seat-for-biden">Quarles to Exit Fed at Year’s End, Handing Another Seat to Biden</a> Bloomberg: Federal Reserve Governor Randal Quarles will step down from the central bank in the last week of December, freeing up another vacancy for President Joe Biden to fill as he considers new leaders for the U.S. central bank. 
+ <p class="updated_time"> 09:54 AM CT, Nov. 08 </p> 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-08/russia-moves-more-tanks-near-ukraine-amid-tensions-janes-says">Russia Moving More Tanks Near Ukraine Border, Intel Firm Says</a> Bloomberg: Russia is moving more tanks near the border with Ukraine, defense-intelligence firm Janes said, reinforcing concerns about reports of a build-up of Russian military forces close to its neighbor. 
  <p class="updated_time"> 09:50 AM CT, Nov. 08 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/cIe5qkKqmC4/index.html">Florida Gov. DeSantis officially launches 2022 reelection bid</a> CNN: Florida Gov. Ron DeSantis has officially launched his campaign for reelection, setting the stage for what is expected to be one of the country's most closely watched and expensive gubernatorial races of 2022. 
  <p class="updated_time"> 09:46 AM CT, Nov. 08 </p> 
@@ -232,24 +252,20 @@ permalink: /projects/news/
  <a href="https://www.washingtonpost.com/politics/interactive/2020/biden-appointee-tracker/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Tracking the political appointees Biden is nominating to fill the top roles in his administration</a> WaPo: Follow the president-elect’s progress filling nearly 800 positions, among the 1,200 that require Senate confirmation, in this tracker from The Washington Post and the Partnership for Public Service. 
  <p class="updated_time"> 09:14 AM CT, Nov. 08 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DElB6sGwR-I/index.html">Jill Biden pays tribute to one of America's most iconic first ladies</a> CNN: As the season changed from summer to fall, first lady Jill Biden has found a spot to sit outside at the White House to grade her students' essays. 
- <p class="updated_time"> 09:11 AM CT, Nov. 08 </p> 
- <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9p9GkYhH3_M/index.html">US seizes $6 million in ransom payments and expected to charge Ukrainian over major cyberattack </a> CNN: Law enforcement officials have seized an estimated $6 million in ransom payments, and the US Justice Department is expected to announce Monday that it has charged a suspect from Ukraine over a damaging July ransomware attack on an American company in a breakthrough for the Biden administration's pursuit of cybercriminals, CNN has learned. 
  <p class="updated_time"> 08:54 AM CT, Nov. 08 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-08/murphy-campaign-urges-ciattarelli-to-concede-n-j-governor-race">Murphy Urges Ciattarelli to Concede N.J. Governor’s Race</a> Bloomberg: New Jersey Governor Phil Murphy’s campaign manager on Monday urged Republican candidate Jack Ciattarelli to concede, saying in a statement that “the race is over.” 
  <p class="updated_time"> 08:53 AM CT, Nov. 08 </p> 
  <a href="https://www.washingtonpost.com/world/europe/capitol-rioter-asylum-belarus/2021/11/08/fbc4eb14-4093-11ec-9404-50a28a88b9cd_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Capitol rioter Evan Neumann applies for asylum in Belarus, says local media</a> WaPo: Neumann was presented by local media as someone who was persecuted for questioning election results. 
  <p class="updated_time"> 08:18 AM CT, Nov. 08 </p> 
  <a href="https://www.washingtonpost.com/politics/rick-scott-sean-parnell/2021/11/08/d21bb370-4097-11ec-a3aa-0255edc02eb7_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">NRSC chair Rick Scott declines to say if Trump-backed Senate hopeful accused of strangling wife is right candidate for the job</a> WaPo: Pressed during an interview about Sean Parnell, the senator from Florida said it is not his job to endorse candidates in open primaries. Parnell has been endorsed by former president Donald Trump. 
- <p class="updated_time"> 08:14 AM CT, Nov. 08 </p> 
- <a href="https://www.nytimes.com/2021/11/08/arts/critical-race-theory-bans.html">Bans on Critical Race Theory Threaten Free Speech, Advocacy Group Says</a> NYT: A report by PEN America, which surveys more than 50 bills proposed across the country, appeals to a principle that has lost its luster for many on the left and right. 
  <p class="updated_time"> 08:08 AM CT, Nov. 08 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-08/no-johnson-apology-as-lobbying-furor-engulfs-his-u-k-government">No Johnson Apology as Lobbying Furor Engulfs His U.K. Government</a> Bloomberg: Boris Johnson declined to apologize over his attempt to protect a ruling U.K. Conservative Party lawmaker who broke lobbying rules, even with his government still battling to contain the fallout. 
  <p class="updated_time"> 07:51 AM CT, Nov. 08 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-08/speculators-may-face-life-in-jail-as-prices-surge-in-algeria">Speculators May Face Life in Jail as Prices Surge in Algeria</a> Bloomberg: Algerian lawmakers are considering legislation that could punish speculation in food and medical equipment with up to life in jail, as a surge in prices threatens to inflame a country roiled by anti-government protests for two years. 
  <p class="updated_time"> 07:40 AM CT, Nov. 08 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-08/u-k-triggering-article-16-would-be-reckless-irish-pm-warns">U.K. Triggering Article 16 Would Be Reckless, Irish PM Warns</a> Bloomberg: The U.K. would be be “reckless and irresponsible” if it were to move to set aside parts of the Brexit agreement, Ireland’s prime minister said, amid growing speculation the British government is preparing to do just that. 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-08/u-k-triggering-article-16-would-be-reckless-irish-pm-warns">U.K. Triggering Article 16 Would Be Reckless, Irish PM Warns</a> Bloomberg: The U.K. would be “reckless and irresponsible” if it were to move to set aside parts of the Brexit agreement, Ireland’s prime minister said, amid growing speculation the British government is preparing to do just that. 
  <p class="updated_time"> 07:35 AM CT, Nov. 08 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-08/obama-implores-nations-to-row-together-toward-climate-target">Obama Invokes Hawaiian Proverb to Urge Action at Climate Summit</a> Bloomberg: Former U.S. President Barack Obama implored nations to move aggressively against climate change, warning that the world is falling dangerously short of what’s needed to tame rising temperatures and prevent disaster. 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-08/obama-implores-nations-to-row-together-toward-climate-target">Obama Says Nations Must Be More Aggressive to Avert Climate Disaster</a> Bloomberg: Former U.S. President Barack Obama implored nations to move aggressively against climate change, warning that the world is falling dangerously short of what’s needed to tame rising temperatures and prevent disaster. 
  <p class="updated_time"> 07:20 AM CT, Nov. 08 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/11/08/recess-reverie-plus-huddle-restaurant-week-kicks-off-495014">Recess reverie (plus Huddle Restaurant Week kicks off)</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 07:20 AM CT, Nov. 08 </p> 
@@ -303,13 +319,13 @@ permalink: /projects/news/
  <p class="updated_time"> 04:00 AM CT, Nov. 08 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-08/poland-warns-large-migrant-group-may-try-to-enter-from-belarus">Poland Repels Migrant Group Seeking to Enter From Belarus</a> Bloomberg: A Polish border guard used tear gas to stop people from entering from the European Union country’s eastern border and officials warned of deepening tensions as hundreds of migrants gathered on the Belarusian side. 
  <p class="updated_time"> 04:00 AM CT, Nov. 08 </p> 
- <a href="https://www.nytimes.com/2021/11/08/nyregion/nassau-county-republicans-election.html">Why Republicans Won in a New York County Where Democrats Outnumber Them</a> NYT: Voters readily ousted Democrats in Nassau County on Long Island, electing Republicans down the ballot. 
+ <a href="https://www.nytimes.com/2021/11/08/nyregion/nassau-county-republicans-election.html">Why Republicans Won in Nassau County</a> NYT: Voters readily ousted Democrats in Nassau County on Long Island, electing Republicans down the ballot. 
  <p class="updated_time"> 04:00 AM CT, Nov. 08 </p> 
  <a href="https://www.npr.org/2021/11/08/1052567444/supreme-court-to-hear-arguments-on-fbis-surveillance-of-mosques">Supreme Court to hear arguments on FBI's surveillance of mosques </a> NPR: The argument will focus on whether this case can move forward at all because the government argues that for it to produce any of the evidence gathered 15 years ago would jeopardize national security. 
  <p class="updated_time"> 04:00 AM CT, Nov. 08 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-08/u-s-u-k-join-nations-sounding-alarm-over-china-import-rules">U.S., U.K. Join Nations Sounding Alarm Over China Import Rules</a> Bloomberg: Several countries including Japan, the U.K. and the U.S. are urging Chinese customs officials to pause the rollout of regulations on food imports, arguing the measures risk further disrupting global supply chains. 
  <p class="updated_time"> 04:00 AM CT, Nov. 08 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-08/chile-s-election-dark-horse-helps-to-prop-up-recent-bond-gains">Conservative's Rise in Polls is Giving a Boost to Chile's Ailing Bond Market</a> Bloomberg: The race for Chile’s presidency has been thrown wide open by a sudden surge in support for a far-right candidate, who has stolen the thunder from the left-wing favorite with a program to slash taxes. The bond market is beginning to pay attention. 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-08/chile-s-election-dark-horse-helps-to-prop-up-recent-bond-gains">Conservative’s Rise in Polls is Giving a Boost to Chile’s Ailing Bond Market</a> Bloomberg: The race for Chile’s presidency has been thrown wide open by a sudden surge in support for a far-right candidate, who has stolen the thunder from the left-wing favorite with a program to slash taxes. The bond market is beginning to pay attention. 
  <p class="updated_time"> 03:52 AM CT, Nov. 08 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-08/slovenian-government-support-hits-record-low-as-pandemic-worsens">Slovenian Government Support Hits Record Low as Pandemic Worsens</a> Bloomberg: Support for Slovenia’s minority government hit a record low as criticism builds over its handling of the coronavirus epidemic. 
  <p class="updated_time"> 03:50 AM CT, Nov. 08 </p> 
@@ -324,8 +340,6 @@ permalink: /projects/news/
  <a href="https://www.washingtonpost.com/politics/2021/11/08/battle-over-bidens-child-tax-credit-its-impact-poverty-workers/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">The battle over Biden’s child tax credit and its impact on poverty and workers</a> WaPo: A fierce dispute has erupted among economists about whether the president's child-tax credit expansion will cause parents to stop working. We explain the debate. 
  <p class="updated_time"> 01:53 AM CT, Nov. 08 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-08/iran-s-top-nuclear-diplomat-visits-u-k-france-germany-in-days">Iran’s Top Nuclear Diplomat to Visit U.K., France, Germany </a> Bloomberg: Iran called on the U.S. to change its approach to sanctions and abandon the Trump-era “maximum pressure” strategy against the Islamic Republic, as its top nuclear negotiator heads to Europe to discuss efforts to revive the 2015 atomic deal. 
- <p class="updated_time"> 01:09 AM CT, Nov. 08 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-08/chinese-firm-seeks-damages-from-sri-lanka-in-fertilizer-dispute">Chinese Firm Seeks Damages From Sri Lanka in Fertilizer Dispute</a> Bloomberg: A Chinese company is seeking damages from a Sri Lankan government agency for rejecting a shipment of organic fertilizer found to have pathogens in an ongoing dispute that could test Colombo’s relationship with Beijing. 
  <p class="updated_time"> 11:43 PM CT, Nov. 07 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-08/japan-premier-picks-china-critic-to-be-adviser-on-human-rights">Japan Premier Picks China Critic to Be Human Rights Adviser</a> Bloomberg: Japanese Prime Minister Fumio Kishida picked a critic of China’s treatment of the Uyghur ethnic group to be his aide for human rights issues, a move that could increase friction between Asia’s two biggest economies. 
  <p class="updated_time"> 11:10 PM CT, Nov. 07 </p> 
@@ -340,8 +354,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/07/houston-concert-deaths-mourning-520201">As mourning starts, Houston probes concert deaths</a> Politico: City officials said they were in the early stages of investigating what caused the pandemonium at the sold-out Astroworld festival. 
  <p class="updated_time"> 06:10 PM CT, Nov. 07 </p> 
  <a href="https://www.washingtonpost.com/politics/democrats-biden-virginia-new-jersey-infrastructure/2021/11/07/d5811f7e-3e43-11ec-bfad-8283439871ec_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Democrats search for political identity amid dismal election results and legislative triumph</a> WaPo: Setbacks Tuesday in suburbs, small towns and rural communities, coupled with intraparty battles on Capitol Hill and passage of an infrastructure bill, crystallize a vexing question for the party: What does it mean to be a Democrat? 
- <p class="updated_time"> 06:01 PM CT, Nov. 07 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-08/johnson-faces-u-k-parliament-grilling-over-lobbying-furore">Johnson Faces U.K. Parliament Grilling Over Lobbying Furor</a> Bloomberg: U.K. Prime Minister Boris Johnson is battling a mounting backlash over his attempt to protect a Conservative lawmaker found to have broken lobbying rules, with Parliament set to hold an emergency debate on Monday.  Johnson was forced to perform a U-turn following widespread condemnation -- including from fellow Tories -- of his decision to try to tear up Parliament rules rather than accept the suspension of Owen Paterson, who was found guilty of paid advocacy on behalf of two companies. The mane 
  <p class="updated_time"> 04:01 PM CT, Nov. 07 </p> 
  <a href="https://www.npr.org/2021/11/07/1053387440/rep-ruben-gallego-talks-new-book-exploring-how-the-u-s-treats-its-veterans">Rep. Ruben Gallego talks new book exploring how the U.S. treats its veterans</a> NPR: NPR's Michel Martin speaks with Congressman Ruben Gallego about his upcoming book They Called Us "Lucky": The Life and Afterlife of the Iraq War's Hardest Hit Unit. 
  <p class="updated_time"> 03:34 PM CT, Nov. 07 </p> 
@@ -356,8 +368,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/07/us/politics/republican-party-trump.html">Republicans, Basking in Tuesday’s Victories, Diverge on What Comes Next</a> NYT: Looming over a gathering of Jewish conservatives in Las Vegas were questions about whether former President Donald J. Trump should remain the face of the party. 
  <p class="updated_time"> 02:00 PM CT, Nov. 07 </p> 
  <a href="https://www.politico.com/news/2021/11/07/murphy-new-jersey-reelection-hurt-520110">‘There’s a lot of hurt out there,’ N.J. governor says of close reelection</a> Politico: But Gov. Phil Murphy said things could have been a lot worse. 
- <p class="updated_time"> 01:31 PM CT, Nov. 07 </p> 
- <a href="https://www.politico.com/news/2021/11/07/strategic-reserve-rising-fuel-prices-granholm-520093">Biden may tap strategic reserve amid rising fuel prices, Granholm says</a> Politico: “The president is all over this. Of course, every president is frustrated because they can’t control the price of gasoline,” she said. 
  <p class="updated_time"> 01:17 PM CT, Nov. 07 </p> 
  <a href="https://www.nytimes.com/2021/11/07/us/politics/afghanistan-war-marines.html">Young Marines in Kabul Were Left to Run Final Days of Evacuation</a> NYT: The young Marines in Kabul were left to determine who was evacuated from Afghanistan and who was left behind. The cost was high. 
  <p class="updated_time"> 01:15 PM CT, Nov. 07 </p> 
@@ -446,8 +456,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/06/1053051380/jan-6-panel-former-doj-official-jeffrey-clark-fails-to-cooperate-in-testimony">Jan. 6 panel: Former DOJ official Jeffrey Clark fails to cooperate in testimony</a> NPR: Former DOJ official Jeffrey Clark appeared for a deposition, but the panel says he failed to cooperate. 
  <p class="updated_time"> 07:38 AM CT, Nov. 06 </p> 
  <a href="https://www.washingtonpost.com/politics/2021/11/05/what-is-cbo-how-could-its-score-derail-democrats-spending-bills/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">What is the CBO, and how could its score derail Democrats’ social safety net bill?</a> WaPo: A nonpartisan office will determine whether Democrats' social safety net legislation is indeed paid for, as they claim. 
- <p class="updated_time"> 07:38 AM CT, Nov. 06 </p> 
- <a href="https://www.washingtonpost.com/politics/2021/11/05/what-is-cbo-how-could-its-score-derail-democrats-spending-bills/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">What is the CBO, and how could its score derail Democrats’ social safety net bill?</a> WaPo: A nonpartisan office will determine whether Democrats' social safety net legislation is indeed paid for, as they claim. 
  <p class="updated_time"> 06:00 AM CT, Nov. 06 </p> 
  <a href="https://www.politico.com/news/2021/11/06/new-york-governor-race-519790">New York governor’s race heats up, 1,600 miles away</a> Politico: The annual SOMOS conference has been one of the most important times on New York’s political calendar for decades. 
  <p class="updated_time"> 06:00 AM CT, Nov. 06 </p> 
@@ -472,12 +480,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/05/house-infrastructure-bill-519796">House ships $550B infrastructure legislation to Biden’s desk after months of delay</a> Politico: Only 13 House Republicans voted for the bill, alongside all but 6 Democrats. 
  <p class="updated_time"> 08:35 PM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/05/us/politics/jeffrey-clark-capitol-riot-committee.html">Trump Justice Dept. Official Defies Request by Jan. 6 Panel</a> NYT: Jeffrey Clark, who aided in the former president’s efforts to overturn the election, appeared before the committee but would not answer substantive questions. 
- <p class="updated_time"> 06:21 PM CT, Nov. 05 </p> 
- <a href="https://www.washingtonpost.com/politics/jan-6-committee-warns-trump-doj-official-he-must-cooperate-with-investigation-or-it-will-move-aggressively-against-him/2021/11/05/ffee8fc4-3e8b-11ec-bfad-8283439871ec_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Jan. 6 committee warns Trump DOJ official he must cooperate with investigation or it will move aggressively against him</a> WaPo: Jeffrey Clark refused to answer questions from the committee Friday, citing executive and attorney-client privilege. 
- <p class="updated_time"> 06:20 PM CT, Nov. 05 </p> 
- <a href="https://www.nytimes.com/2021/11/05/us/politics/state-dept-missing-gifts.html">State Dept. Report on Missing Gifts Finds Poor Oversight</a> NYT: The gift vault was “in a state of disarray,” and tens of thousands of dollars of items remain unaccounted for, including a $5,800 bottle of whiskey. 
- <p class="updated_time"> 05:57 PM CT, Nov. 05 </p> 
- <a href="https://www.washingtonpost.com/politics/2021/11/05/fbi-searches-project-veritas-associates-probe-over-diary-purportedly-belonging-bidens-daughter/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">FBI searches Project Veritas associates in probe over diary purportedly belonging to Biden’s daughter</a> WaPo: The probe is centered on how a right-wing website ended up with and published contents of the diary just before the 2020 election. 
  <p class="updated_time"> 05:22 PM CT, Nov. 05 </p> 
  <a href="https://www.politico.com/news/2021/11/05/trump-deal-moderna-global-vaccine-effort-519771">How Trump’s deal with Moderna hampers the global vaccine effort</a> Politico: Operation Warp Speed poured billions into Moderna and agreed not to share its vaccines abroad. Now the company is holding up the race to vaccinate low-income countries. 
  <p class="updated_time"> 05:15 PM CT, Nov. 05 </p> 
