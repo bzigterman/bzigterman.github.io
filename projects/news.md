@@ -9,6 +9,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 12:40 AM CT, Nov. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59202880?at_medium=RSS&at_campaign=KARANGA">Afghans facing 'hell on earth' as winter looms</a> BBC: The World Food Programme says 23 million people are "marching towards starvation" in the country. 
+ <p class="updated_time"> 12:37 AM CT, Nov. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59202327?at_medium=RSS&at_campaign=KARANGA">Afghanistan hunger: 'The worst humanitarian crisis on Earth'</a> BBC: Afghanistan faces widespread famine with millions affected, says the UN World Food Programme head. 
  <p class="updated_time"> 11:02 PM CT, Nov. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59199831?at_medium=RSS&at_campaign=KARANGA">Astroworld: Victims named as police probe US festival crush</a> BBC: Family and friends pay tribute to those who died at Travis Scott's Astroworld festival in Houston. 
  <p class="updated_time"> 10:33 PM CT, Nov. 07 </p> 
@@ -115,8 +117,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-latin-america-59167119?at_medium=RSS&at_campaign=KARANGA">Nicaragua's Ortega courts isolation with one-sided vote</a> BBC: With most of the opposition candidates in jail, the president looks set to win another term. 
  <p class="updated_time"> 07:06 PM CT, Nov. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-59186087?at_medium=RSS&at_campaign=KARANGA">Climate: Making the BBC’s Life at 50C season</a> BBC: The BBC’s Life at 50C season, follows those people living on the front line of climate change. 
- <p class="updated_time"> 07:03 PM CT, Nov. 06 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-59178047?at_medium=RSS&at_campaign=KARANGA">Former K-Pop star Henry Lau's art work on show in London</a> BBC: Former K-Pop boy band star Henry Lau trades the mic in for a tin of paint for his latest project. 
  <p class="updated_time"> 05:54 PM CT, Nov. 06 </p> 
  <a href="https://www.nytimes.com/2021/11/05/arts/music/marilia-mendonca-dead.html">Marília Mendonça, Brazilian Pop Singer, Dies in Plane Crash at 26</a> NYT: Ms. Mendonça, who was a social media sensation with millions of followers, was iconic in a type of Brazilian country music called sertanejo. 
  <p class="updated_time"> 05:41 PM CT, Nov. 06 </p> 
@@ -210,6 +210,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:40 AM CT, Nov. 08 </p> 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-08/danish-prime-minister-says-new-virus-restrictions-are-needed">Danish Prime Minister Says New Virus Restrictions Are Needed</a> Bloomberg: Denmark, which has one of the highest vaccination rates in the world, will probably need to re-introduce some restrictions after the number of virus infections has jumped, the prime minister said. 
  <p class="updated_time"> 11:43 PM CT, Nov. 07 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-08/japan-premier-picks-china-critic-to-be-adviser-on-human-rights">Japan Premier Picks China Critic to Be Adviser on Human Rights</a> Bloomberg: Japanese Prime Minister Fumio Kishida picked a critic of China’s treatment of the Uyghur ethnic group to be his aide for human rights issues, a move that could increase friction between Asia’s two biggest economies. 
  <p class="updated_time"> 11:19 PM CT, Nov. 07 </p> 
