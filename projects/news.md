@@ -7,6 +7,14 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:36 AM CT, Nov. 08 </p> 
+ <a href="https://www.nytimes.com/2021/11/08/insider/taliban-kabul-afghanistan-journalists.html">When the Taliban Are in Your Bedroom</a> NYT: As armed Taliban inspected the New York Times bureau in Kabul, they were escorted by a journalist who used to be a U.S. Marine. The photo of him in uniform was plain for all to see, and ponder. 
+ <p class="updated_time"> 04:30 AM CT, Nov. 08 </p> 
+ <a href="https://www.npr.org/2021/11/08/1053434232/the-u-s-lifts-the-pandemic-travel-ban-and-opens-the-doors-to-international-visit">The U.S. lifts the pandemic travel ban and opens the doors to international visitors</a> NPR: Starting Monday, the U.S. begins accepting fully vaccinated travelers at airports and land borders, doing away with a COVID-19 restriction that dates back to the Trump administration. 
+ <p class="updated_time"> 04:22 AM CT, Nov. 08 </p> 
+ <a href="https://www.nytimes.com/2021/11/08/world/europe/europe-us-travel-ban.html">Europe-to-U.S. Travel Ban Ends, Finally</a> NYT: Europeans were kept apart from family and friends as the ban dragged on long after E.U. leaders had opened their borders. 
+ <p class="updated_time"> 04:12 AM CT, Nov. 08 </p> 
+ <a href="https://www.nytimes.com/2021/11/07/world/americas/nicaragua-election-ortega.html">In Nicaragua Election, Ortega Crushes Dissent</a> NYT: President Daniel Ortega quashed the opposition and struck fear in voters, all but guaranteeing his victory in a presidential contest on Sunday. 
  <p class="updated_time"> 04:02 AM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/travel/us-travel-ban-vaccination.html">U.S. Lifts Travel Ban for Vaccinated Foreigners</a> NYT: The change ends more than 18 months of restrictions that left families separated from loved ones and cost the global travel industry hundreds of billions of dollars. 
  <p class="updated_time"> 04:02 AM CT, Nov. 08 </p> 
@@ -15,8 +23,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/08/world/europe/romania-covid-vaccine-refusal.html">In Romania, Hard-Hit by Covid, Doctors Fight Vaccine Refusal</a> NYT: An anti-vaccine clarion call by leading religious figures, echoed by prominent politicians and social media, helps explain why Romania now has the world’s highest Covid death rate. 
  <p class="updated_time"> 04:00 AM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/travel/yadnya-kasada-volcano-ritual.html">Inside a Volcanic Ritual on the Indonesian Island of Java</a> NYT: During the Hindu ceremony of Yadnya Kasada, the Tenggerese people toss offerings — food, money, flowers, livestock — into the hazy crater of Mount Bromo. 
- <p class="updated_time"> 04:00 AM CT, Nov. 08 </p> 
- <a href="https://www.nytimes.com/2021/11/08/insider/taliban-kabul-afghanistan-journalists.html">When the Taliban Are in Your Bedroom</a> NYT: As armed Taliban inspected the New York Times bureau in Kabul, they were escorted by a journalist who used to be a U.S. Marine. The photo of him in uniform was plain for all to see, and ponder. 
  <p class="updated_time"> 03:55 AM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/world/europe/france-police-officer-stabbed-cannes.html">Police Officer Stabbed on French Riviera, Authorities Say</a> NYT: Gérald Darmanin, France’s interior minister, said an unidentified assailant had stabbed an officer in Cannes. The motive for the attack was not immediately clear. 
  <p class="updated_time"> 03:24 AM CT, Nov. 08 </p> 
@@ -31,8 +37,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59199831?at_medium=RSS&at_campaign=KARANGA">Astroworld: Victims named as police probe US festival crush</a> BBC: Family and friends pay tribute to those who died at Travis Scott's Astroworld festival in Houston. 
  <p class="updated_time"> 10:33 PM CT, Nov. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59173474?at_medium=RSS&at_campaign=KARANGA">Chennai floods: Heavy rains bring Indian city to standstill</a> BBC: The heaviest rainfall in the city since 2015 has caused severe flooding and brought life to a standstill. 
- <p class="updated_time"> 07:25 PM CT, Nov. 07 </p> 
- <a href="https://www.nytimes.com/2021/11/07/world/americas/nicaragua-election-ortega.html">In Nicaragua Election, Ortega Crushes Dissent</a> NYT: President Daniel Ortega quashed the opposition and struck fear in voters, all but guaranteeing his victory in a presidential contest on Sunday. 
  <p class="updated_time"> 06:35 PM CT, Nov. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59178826?at_medium=RSS&at_campaign=KARANGA">Why Tanzanian Nobel laureate Abdulrazak Gurnah is hardly known back home</a> BBC: Few of Abdulrazak Gurnah's novels are sold in Tanzania where reading fiction is not popular. 
  <p class="updated_time"> 06:28 PM CT, Nov. 07 </p> 
@@ -177,8 +181,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/05/world/africa/un-rights-panel-sudan-coup.html">U.N. Rights Panel Pressures Sudan Over Coup</a> NYT: The Human Rights Council appointed an expert to investigate abuses in the country since the military seized power on Oct. 25, and members called for the prime minister’s release. 
  <p class="updated_time"> 03:23 PM CT, Nov. 05 </p> 
  <a href="https://www.npr.org/2021/11/05/1052968032/having-jailed-opposition-candidates-daniel-ortega-is-set-to-win-nicaragua-presid">Having jailed opposition candidates, Daniel Ortega is set to win Nicaragua presidency</a> NPR: Nicaragua's President Daniel Ortega will likely be reelected Sunday. He has jailed political opponents and ensured the vote will be in his favor. 
- <p class="updated_time"> 03:23 PM CT, Nov. 05 </p> 
- <a href="https://www.npr.org/2021/11/05/1052967987/young-people-are-protesting-in-glasgow-demanding-concreate-action-at-climate-sum">Young people are protesting in Glasgow, demanding concrete action at climate summit</a> NPR: Young people from around the world are protesting over world leaders' response to climate change at the UN's climate summit in Glasgow on Friday. 
  <p class="updated_time"> 02:38 PM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/05/world/europe/cop-protests.html">At COP26, Youth Want Action, Accountability as Protesters Rally</a> NYT: For many, the climate conference has inspired mixed emotions: concern that their voices were not really being listened to, but also hope that their presence would help drive change. 
  <p class="updated_time"> 12:47 PM CT, Nov. 05 </p> 
@@ -199,8 +201,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/05/world/australia/laughs-no-more-australians-are-reassessing-a-beloved-cartoonist.html">Laughs No More? Australians Are Reassessing a Beloved Cartoonist.</a> NYT: I used to think Michael Leunig’s drawings embodied the soul of our nation. Now, I’m not so sure. 
  <p class="updated_time"> 08:18 PM CT, Nov. 04 </p> 
  <a href="https://www.nytimes.com/2021/11/04/arts/television/movies-tv-australia-new-streaming-netflix-amazon-stan-november.html">The Best Movies and TV Shows New to Netflix, Amazon and Stan in Australia in November</a> NYT: Our picks for November, including ‘tick, tick … BOOM!’, ‘The Great’ Season 2, and ‘Passing’ 
- <p class="updated_time"> 08:13 PM CT, Nov. 04 </p> 
- <a href="https://www.nytimes.com/2021/11/04/world/canada/saskatoon-moose-school.html">In Saskatoon, a Moose on the Loose Is Returned to the Wild</a> NYT: In a prairie city, a young moose on the loose crashed into a children’s classroom, sparking a mix of delight and concern on social media. 
  <p class="updated_time"> 05:26 AM CT, Nov. 04 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-56901261?at_medium=RSS&at_campaign=KARANGA">COP26: What is the Glasgow climate conference and why is it important?</a> BBC: A crucial climate change summit is being held in the UK - this is why it's important. 
  <p class="updated_time"> 11:30 AM CT, Nov. 03 </p> 
@@ -214,10 +214,20 @@ permalink: /projects/news/
 
  <p class="updated_time"> 04:30 AM CT, Nov. 08 </p> 
  <a href="https://www.politico.com/news/2021/11/08/republican-wave-house-congress-520238">Republican wave builds to take back the House</a> Politico: A combination of aggressive redistricting, strong fundraising, new attractive recruits and a favorable political environment has the GOP excited about its prospects of winning the majority in next year's midterms. 
+ <p class="updated_time"> 04:14 AM CT, Nov. 08 </p> 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-08/african-union-envoy-tigray-leader-hold-talks-on-ethiopia-crisis">African Union Envoy, Tigray Leader Hold Talks on Ethiopia Crisis</a> Bloomberg: The African Union’s special envoy held talks with a top Tigray official on the civil war engulfing Ethiopia. 
+ <p class="updated_time"> 04:06 AM CT, Nov. 08 </p> 
+ <a href="https://www.npr.org/2021/11/08/1053442982/harris-will-be-the-top-u-s-official-at-a-large-gathering-of-world-leaders-in-fra">Harris will be the top U.S. official at a large gathering of world leaders in France</a> NPR: Vice President Harris heads to France, a trip where she will have face time with more than two dozen world leaders, and a chance to build up her track record on international diplomacy. 
  <p class="updated_time"> 04:02 AM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/travel/us-travel-ban-vaccination.html">U.S. Lifts Travel Ban for Vaccinated Foreigners</a> NYT: The change ends more than 18 months of restrictions that left families separated from loved ones and cost the global travel industry hundreds of billions of dollars. 
  <p class="updated_time"> 04:00 AM CT, Nov. 08 </p> 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-08/poland-warns-large-migrant-group-may-try-to-enter-from-belarus">Poland Warns Large Migrant Group May Try to Enter From Belarus</a> Bloomberg: Tensions at Poland’s eastern border may intensify on Monday as hundreds of migrants gathering at the Belarusian side are expected to try to enter the European Union country in one group. 
+ <p class="updated_time"> 04:00 AM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/nyregion/nassau-county-republicans-election.html">Why Republicans Won in a New York County Where Democrats Outnumber Them</a> NYT: Voters readily ousted Democrats in Nassau County on Long Island, electing Republicans down the ballot. 
+ <p class="updated_time"> 04:00 AM CT, Nov. 08 </p> 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-08/u-s-u-k-join-nations-sounding-alarm-over-china-import-rules">U.S., U.K. Join Nations Sounding Alarm Over China Import Rules</a> Bloomberg: Several countries including Japan, the U.K. and the U.S. are urging Chinese customs officials to pause the rollout of regulations on food imports, arguing the measures risk further disrupting global supply chains. 
+ <p class="updated_time"> 03:52 AM CT, Nov. 08 </p> 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-08/slovenian-government-support-hits-record-low-as-pandemic-worsens">Slovenian Government Support Hits Record Low as Pandemic Worsens</a> Bloomberg: Support for Slovenia’s minority government hit a record low as criticism builds over its handling of the coronavirus epidemic. 
  <p class="updated_time"> 03:50 AM CT, Nov. 08 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-08/german-spd-nominates-scholz-ally-klingbeil-as-party-co-leader">German SPD Nominates Scholz Ally Klingbeil as Party Co-Leader</a> Bloomberg: Germany’s Social Democrats nominated one of the main architects of their victory in September’s election and a close ally of chancellor-in-waiting Olaf Scholz to take over as party co-leader. 
  <p class="updated_time"> 03:24 AM CT, Nov. 08 </p> 
@@ -279,13 +289,7 @@ permalink: /projects/news/
  <p class="updated_time"> 03:24 PM CT, Nov. 07 </p> 
  <a href="https://www.politico.com/news/2021/11/07/nicaragua-ortega-election-sandinistas-520133">Nicaragua’s Ortega seeks reelection in questioned vote</a> Politico: He blasted the United States for interference in Nicaragua. 
  <p class="updated_time"> 03:00 PM CT, Nov. 07 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-07/movie-theaters-show-quiet-resistance-to-thai-monarchy-is-growing">Movie Theaters Show Quiet Resistance to Thai Monarchy Is Growing</a> Bloomberg: More Thais are choosing to sit during the royal anthem, a vivid display of how attitudes toward the monarchy are changing.&nbsp; 
- <p class="updated_time"> 03:00 PM CT, Nov. 07 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-07/xi-set-to-unveil-new-doctrine-that-could-let-him-rule-for-life">Xi Set to Unveil New Doctrine That Could Let Him Rule for Life</a> Bloomberg: The Chinese&nbsp;Communist Party’s first official declaration on history in 40 years is expected at its&nbsp;biggest event of this&nbsp;year. 
- <p class="updated_time"> 03:00 PM CT, Nov. 07 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KHemrSyJXcs/index.html">Jayapal on why progressives chose pragmatism: 'We need to keep our eyes on the prize'</a> CNN: The Congressional Progressive Caucus got the White House message -- no more delay. Members embraced a compromise economic package as the best available deal, and accepted private assurances of Senate support. 
- <p class="updated_time"> 02:53 PM CT, Nov. 07 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-07/west-african-bloc-sanctions-mali-s-transitional-leaders">West African Bloc Sanctions Mali’s Transitional Leaders</a> Bloomberg: The Economic Community of West African States on Sunday imposed sanctions on Mali’s transitional leaders after they informed the regional bloc they would not be able to hold elections in February to return to democratic rule. 
  <p class="updated_time"> 02:32 PM CT, Nov. 07 </p> 
  <a href="https://www.nytimes.com/2021/11/07/travel/us-travel-ban-reunions.html">As U.S. Travel Changes Near, Global Travelers Eagerly Await Reunions</a> NYT: On Monday, travelers from many other countries who are fully vaccinated against the coronavirus will be allowed to enter the United States. 
  <p class="updated_time"> 02:31 PM CT, Nov. 07 </p> 
@@ -294,8 +298,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/07/us/politics/republican-party-trump.html">Republicans, Basking in Tuesday’s Victories, Diverge on What Comes Next</a> NYT: Looming over a gathering of Jewish conservatives in Las Vegas were questions about whether former President Donald J. Trump should remain the face of the party. 
  <p class="updated_time"> 02:00 PM CT, Nov. 07 </p> 
  <a href="https://www.politico.com/news/2021/11/07/murphy-new-jersey-reelection-hurt-520110">‘There’s a lot of hurt out there,’ N.J. governor says of close reelection</a> Politico: But Gov. Phil Murphy said things could have been a lot worse. 
- <p class="updated_time"> 01:44 PM CT, Nov. 07 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-07/biden-to-visit-port-of-baltimore-to-tout-infrastructure-win">Biden to Visit Port of Baltimore to Tout Infrastructure Win</a> Bloomberg: President Joe Biden will go to Baltimore this week to promote a bipartisan infrastructure bill that cleared Congress after months of negotiations, the White House announced. 
  <p class="updated_time"> 01:31 PM CT, Nov. 07 </p> 
  <a href="https://www.politico.com/news/2021/11/07/strategic-reserve-rising-fuel-prices-granholm-520093">Biden may tap strategic reserve amid rising fuel prices, Granholm says</a> Politico: “The president is all over this. Of course, every president is frustrated because they can’t control the price of gasoline,” she said. 
  <p class="updated_time"> 01:17 PM CT, Nov. 07 </p> 
@@ -420,8 +422,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/06/new-york-governor-race-519790">New York governor’s race heats up, 1,600 miles away</a> Politico: The annual SOMOS conference has been one of the most important times on New York’s political calendar for decades. 
  <p class="updated_time"> 06:00 AM CT, Nov. 06 </p> 
  <a href="https://www.washingtonpost.com/politics/2021/11/06/charles-dolan-steele-dossier-igor-danchenko-indictment/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">A spin doctor with ties to Russia allegedly fed the Steele dossier before fighting to discredit it</a> WaPo: Charles Dolan Jr., a PR executive who cut his teeth in Democratic politics, provided anti-Trump information, according to new charges. 
- <p class="updated_time"> 06:00 AM CT, Nov. 06 </p> 
- <a href="https://www.npr.org/2021/11/06/1051652687/jan-6-panel-and-subpoenas-committee-targets-witnesses-linked-to-day-of-attack">Jan. 6 panel and subpoenas: Committee targets witnesses linked to day of attack</a> NPR: The committee investigating the attack has sent out a number of subpoenas to get information and compel people with knowledge about the events of the day to tell them what they know. 
  <p class="updated_time"> 06:00 AM CT, Nov. 06 </p> 
  <a href="https://www.politico.com/news/2021/11/06/rural-dems-trouble-519782">Rural Democrats stare into the abyss after Virginia</a> Politico: Rural Democrats say the party’s problems on their turf are twofold. 
  <p class="updated_time"> 06:00 AM CT, Nov. 06 </p> 
@@ -568,8 +568,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/11/02/youngkins-crowds-dwarf-mcauliffes-on-election-eve-494939">POLITICO Playbook: Youngkin’s crowds dwarf McAuliffe’s on election eve</a> Politico: And progressives stay the course after Joe Manchin flips them the bird. 
  <p class="updated_time"> 06:14 AM CT, Nov. 01 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/11/01/dont-count-on-tuesday-494924">Don’t count on Tuesday</a> Politico: A play-by-play preview of the day&#39;s congressional news 
- <p class="updated_time"> 05:09 AM CT, Nov. 01 </p> 
- <a href="https://www.politico.com/newsletters/playbook/2021/11/01/its-zero-hour-for-virginia-and-build-back-better-494921">POLITICO Playbook: It’s zero hour for Virginia and Build Back Better</a> Politico: And the Supreme Court takes up the Texas abortion law. 
 
 
 </details>
