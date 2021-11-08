@@ -13,17 +13,17 @@ layout: default
     {{ page.date | date: "%B %e, %Y" }}
   </div> 
   
-  <div class="post-nav">
   <div>
-    {% if page.previous.url %}
-    <a href="{{page.previous.url}}">&laquo;&nbsp;{{page.previous.title}}</a>
-    {% endif %}
-  </div>
-  <div class="post-nav-next">
+  <div class="post-nav-older">
     {% if page.next.url %}
-    <a href="{{page.next.url}}">{{page.next.title}}&nbsp;&raquo;</a>
+    <a href="{{page.next.url}}">Older</a>
     {% endif %}
   </div>
-</div>
+  <div class="post-nav-newer">
+    {% if page.previous.url %}
+    <a href="{{page.previous.url}}">Newer</a>
+    {% endif %}
+  </div>
+  </div>
  
 </article>
