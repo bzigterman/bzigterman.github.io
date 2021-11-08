@@ -216,10 +216,12 @@ permalink: /projects/news/
 
  <p class="updated_time"> 06:05 AM CT, Nov. 08 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/08/big-obstacles-await-biden-after-big-win-495012">POLITICO Playbook: Big obstacles await Biden after big win</a> Politico: And midterm elections are a year from today. 
- <p class="updated_time"> 05:34 AM CT, Nov. 08 </p> 
- <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uTQPN82VZNw/index.html">Obama to speak at UN climate summit in Glasgow Monday</a> CNN: Former President Barack Obama will deliver remarks on Monday at the UN climate conference in Glasgow in a return to the world stage centered around the climate crisis. 
- <p class="updated_time"> 05:14 AM CT, Nov. 08 </p> 
+ <p class="updated_time"> 05:48 AM CT, Nov. 08 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/U64XT9DznBM/index.html">CIA Director had rare conversation with Putin while in Moscow last week</a> CNN: CIA Director Bill Burns held a rare conversation with Russian President Vladimir Putin in Moscow last week, to convey "serious" US concerns about Russia's military buildup along the Ukrainian border and to attempt to determine Russian intentions, two sources with direct knowledge told CNN. 
+ <p class="updated_time"> 05:48 AM CT, Nov. 08 </p> 
+ <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/i9Ydbx0FfR0/index.html">Jill Biden's child vaccine tour will include push for more children vaccination sites</a> CNN: First lady Jill Biden and US Surgeon General Dr. Vivek Murthy will make a push for boosting the number of Covid-19 vaccination sites for children Monday as they kick off a nationwide administration effort to encourage vaccines for the nation's youngest and newly eligible candidates. 
+ <p class="updated_time"> 05:42 AM CT, Nov. 08 </p> 
+ <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uTQPN82VZNw/index.html">Obama to take swipe at Trump for 'four years of active hostility' on climate in Glasgow speech</a> CNN: Former President Barack Obama will deliver remarks on Monday at the UN climate conference in Glasgow in a return to the world stage centered around the climate crisis. 
  <p class="updated_time"> 05:01 AM CT, Nov. 08 </p> 
  <a href="https://www.bloomberg.com/news/newsletters/2021-11-08/xi-kicks-off-china-s-election-season">Xi Kicks Off China’s ‘Election Season’</a> Bloomberg: That President Xi Jinping wants longer in power in China is no great secret. But a document coming this week pretty much confirms it. 
  <p class="updated_time"> 05:00 AM CT, Nov. 08 </p> 
@@ -244,8 +246,6 @@ permalink: /projects/news/
  <a href="https://www.bloomberg.com/news/articles/2021-11-08/singapore-partly-rolls-back-dining-curbs-as-virus-outbreak-eases">Singapore Eases Some Virus Curbs as Music Returns to Restaurants</a> Bloomberg: Singapore is easing some tough Covid restrictions put in place more than a month ago to tackle a surge in infections, with five people from the same residence allowed to dine at restaurants starting from Wednesday. 
  <p class="updated_time"> 04:24 AM CT, Nov. 08 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-08/bus-set-on-fire-in-northern-ireland-amid-post-brexit-tension">Bus Set on Fire in Northern Ireland Amid Post Brexit Tension</a> Bloomberg: London (AP) -- A bus has been hijacked and set on fire in Northern Ireland, amid discontent over the trade deal struck as part of the U.K.’s departure from the European Union. 
- <p class="updated_time"> 04:15 AM CT, Nov. 08 </p> 
- <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/i9Ydbx0FfR0/index.html">Jill Biden's child vaccine tour will include push for more children vaccination sites</a> CNN: First lady Jill Biden and US Surgeon General Dr. Vivek Murthy will make a push for boosting the number of Covid-19 vaccination sites for children Monday as they kick off a nationwide administration effort to encourage vaccines for the nation's youngest and newly eligible candidates. 
  <p class="updated_time"> 04:14 AM CT, Nov. 08 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-08/african-union-envoy-tigray-leader-hold-talks-on-ethiopia-crisis">African Union Envoy, Tigray Leader Hold Talks on Ethiopia Crisis</a> Bloomberg: The African Union’s special envoy held talks with a top Tigray official on the civil war engulfing Ethiopia. 
  <p class="updated_time"> 04:06 AM CT, Nov. 08 </p> 
