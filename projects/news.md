@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:16 PM CT, Nov. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/science-environment-59210395?at_medium=RSS&at_campaign=KARANGA">COP26: Obama tells young people to stay angry on climate fight</a> BBC: The ex-US president calls for global unity and condemns "active hostility" towards climate science. 
  <p class="updated_time"> 12:10 PM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/world/americas/brazil-telegram-disinformation.html">Brazil’s Far-Right Disinformation Pushers Find a Safe Space on Telegram</a> NYT: In a social media ecosystem facing mounting pressure to combat fake news and polarization, Telegram is the most permissive disseminator of content — and disinformation. 
  <p class="updated_time"> 12:09 PM CT, Nov. 08 </p> 
@@ -45,12 +47,12 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-59205468?at_medium=RSS&at_campaign=KARANGA">Oscar Pistorius parole process to start in South Africa</a> BBC: The ex-Paralympian will first have to meet the parents of the woman he murdered, Reeva Steenkamp. 
  <p class="updated_time"> 07:29 AM CT, Nov. 08 </p> 
  <a href="https://www.bbc.co.uk/news/technology-59206549?at_medium=RSS&at_campaign=KARANGA">TikTok: Missing girl found after using viral call for help sign</a> BBC: The hand gesture asking for help led to the rescue of a missing teenager in the US. 
+ <p class="updated_time"> 07:29 AM CT, Nov. 08 </p> 
+ <a href="https://www.wsj.com/articles/hackers-linked-to-ransomware-attacks-on-jbs-kaseya-arrested-in-romania-11636390527">Hackers Linked to Ransomware Attacks on JBS, Kaseya Arrested</a> WSJ: U.S. and European officials disclosed arrests in Poland and Romania of people linked to REvil ransomware attacks. 
  <p class="updated_time"> 07:20 AM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/07/travel/us-travel-ban-reunions.html">As U.S. Travel Changes Near, Global Travelers Eagerly Await Reunions</a> NYT: On Monday, travelers from many other countries who are fully vaccinated against the coronavirus will be allowed to enter the United States. 
  <p class="updated_time"> 06:42 AM CT, Nov. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59208188?at_medium=RSS&at_campaign=KARANGA">Festivalgoers react to the Astroworld crush</a> BBC: Travis Scott's Astroworld Festival was cancelled after eight people died following a crowd surge. 
- <p class="updated_time"> 06:26 AM CT, Nov. 08 </p> 
- <a href="https://www.wsj.com/articles/hackers-linked-to-ransomware-attacks-on-jbs-kaseya-arrested-in-romania-11636390527">Hackers Linked to Ransomware Attacks on JBS, Kaseya Arrested in Romania</a> WSJ: Law enforcement took into custody two people linked to attacks on Kaseya Ltd., a provider of internet services, and meat processing company JBS USA Holdings Inc., Europol said. 
  <p class="updated_time"> 06:23 AM CT, Nov. 08 </p> 
  <a href="https://www.wsj.com/articles/u-s-opens-borders-to-vaccinated-europeans-others-after-more-than-18-months-11636386116">U.S. Opens Borders to Vaccinated Europeans, Others, After More Than 18 Months</a> WSJ: Vaccinated non-American citizens from previously restricted countries—predominantly in Europe—are allowed to travel to the U.S. from today, if they have proof of vaccination and a negative Covid-19 test taken within the prior three days. 
  <p class="updated_time"> 06:07 AM CT, Nov. 08 </p> 
@@ -214,6 +216,10 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:30 PM CT, Nov. 08 </p> 
+ <a href="https://www.washingtonpost.com/politics/2021/11/08/sobering-poll-gops-embrace-coronavirus-misinformation/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">A sobering poll on the GOP’s embrace of coronavirus misinformation</a> WaPo: The poll shows Republicans are significantly more likely to believe false and baseless claims. And that might undersell the problem. 
+ <p class="updated_time"> 12:30 PM CT, Nov. 08 </p> 
+ <a href="https://www.washingtonpost.com/politics/2021/11/08/sobering-poll-gops-embrace-coronavirus-misinformation/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">A sobering poll on the GOP’s embrace of coronavirus misinformation</a> WaPo: The poll shows Republicans are significantly more likely to believe false and baseless claims. And that might undersell the problem. 
  <p class="updated_time"> 12:14 PM CT, Nov. 08 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9p9GkYhH3_M/index.html">US seizes $6 million in ransom payments and expected to charge Ukrainian over major cyberattack </a> CNN: Law enforcement officials have seized an estimated $6 million in ransom payments, and the US Justice Department is expected to announce Monday that it has charged a suspect from Ukraine over a damaging July ransomware attack on an American company in a breakthrough for the Biden administration's pursuit of cybercriminals, CNN has learned. 
  <p class="updated_time"> 12:12 PM CT, Nov. 08 </p> 
@@ -222,8 +228,10 @@ permalink: /projects/news/
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wcXTysw90u4/index.html">CNN Poll: Majority of Americans say Biden isn't paying attention to nation's most important issues</a> CNN: One year out from the 2022 midterm elections, 58% of Americans say President Joe Biden hasn't paid enough attention to the nation's most important problems, as a majority disapproves of the way he's handling his job as President, according to a new CNN Poll conducted by SSRS. 
  <p class="updated_time"> 12:02 PM CT, Nov. 08 </p> 
  <a href="https://www.politico.com/news/2021/11/08/new-jerseys-midterm-carnage-520293">New Jersey’s most powerful Democratic boss predicts midterm carnage</a> Politico: George Norcross says nobody in the state predicted last week’s losses for the party. “It was just a tsunami,” he said. “Nobody saw this coming.” 
+ <p class="updated_time"> 12:00 PM CT, Nov. 08 </p> 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-08/dominican-republic-calls-haiti-a-threat-cracks-down-on-migrants">Dominican Republic Calls Haiti a Threat, Cracks Down on Migrants</a> Bloomberg: The Dominican Republic is requiring hundreds of thousands of Haitians to register their whereabouts inside the country, saying the measure is to protect itself from the gang violence and unrest rattling its neighbor. 
  <p class="updated_time"> 11:50 AM CT, Nov. 08 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-08/trudeau-s-deputy-chides-air-canada-says-ceo-should-speak-french">Trudeau’s Deputy Chides Air Canada, Says CEO Should Speak French</a> Bloomberg: Justin Trudeau’s deputy urged Air Canada’s board of directors to enshrine French-language proficiency as a job requirement for senior managers after a speech by the airline’s top executive turned into a public relations nightmare. 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-08/trudeau-s-deputy-chides-air-canada-says-ceo-should-speak-french">Trudeau’s Deputy Chides Air Canada, Says CEO Should Speak French</a> Bloomberg: Justin Trudeau’s deputy urged Air Canada’s board to enshrine French-language proficiency as a job requirement for senior managers after a speech by the airline’s top executive turned into a public relations nightmare. 
  <p class="updated_time"> 11:48 AM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/business/randal-quarles-fed.html">Randal Quarles, Fed Governor, to Resign in December</a> NYT: Mr. Quarles’s term as a governor could have stretched until 2032. His departure will give the Biden administration more room to remake the Fed. 
  <p class="updated_time"> 11:41 AM CT, Nov. 08 </p> 
@@ -243,7 +251,7 @@ permalink: /projects/news/
  <p class="updated_time"> 11:07 AM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/07/us/politics/republican-party-trump.html">Republicans, Basking in Tuesday’s Victories, Diverge on What Comes Next</a> NYT: Looming over a gathering of Jewish conservatives in Las Vegas were questions about whether former President Donald J. Trump should remain the face of the party. 
  <p class="updated_time"> 10:50 AM CT, Nov. 08 </p> 
- <a href="https://www.npr.org/2021/11/08/1053548074/big-bird-covid-19-vaccine-conservative-backlash-ted-cruz">Big Bird got 'vaccinated' against COVID-19, drawing outrage from Republicans</a> NPR: Big Bird, who is technically 6 years old, got his COVID-19 vaccine over the weekend. His announcement did not set well with conservatives like Sen. Ted Cruz, who called it "government propaganda." 
+ <a href="https://www.npr.org/2021/11/08/1053548074/big-bird-covid-19-vaccine-conservative-backlash-ted-cruz">Big Bird got 'vaccinated' against COVID-19, drawing outrage from Republicans</a> NPR: Big Bird, who is technically 6 years old, got his COVID-19 vaccine over the weekend. His announcement did not sit well with conservatives like Sen. Ted Cruz, who called it "government propaganda." 
  <p class="updated_time"> 10:34 AM CT, Nov. 08 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-08/anc-may-face-land-reform-pressure-after-south-african-vote-loss">ANC May Face Land-Reform Pressure After South African Vote Loss</a> Bloomberg: South Africa’s ruling party may face pressure to implement policies including seizing land without compensation, as it weighs the loss of control of dozens of councils across the country. 
  <p class="updated_time"> 10:25 AM CT, Nov. 08 </p> 
@@ -273,11 +281,11 @@ permalink: /projects/news/
  <p class="updated_time"> 09:14 AM CT, Nov. 08 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DElB6sGwR-I/index.html">Jill Biden pays tribute to one of America's most iconic first ladies</a> CNN: As the season changed from summer to fall, first lady Jill Biden has found a spot to sit outside at the White House to grade her students' essays. 
  <p class="updated_time"> 08:54 AM CT, Nov. 08 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-08/murphy-campaign-urges-ciattarelli-to-concede-n-j-governor-race">Murphy Urges Ciattarelli to Concede N.J. Governor’s Race</a> Bloomberg: New Jersey Governor Phil Murphy’s campaign manager on Monday urged Republican candidate Jack Ciattarelli to concede, saying in a statement that “the race is over.” 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-08/murphy-campaign-urges-ciattarelli-to-concede-n-j-governor-race">Ciattarelli Refuses to Concede Until All N.J. Votes Are Counted</a> Bloomberg: New Jersey Republican gubernatorial candidate Jack Ciattarelli, who trails incumbent Phil Murphy by more than 66,000 votes, will wait for all ballots to be tallied before deciding whether to concede or seek a recount, according to his campaign. 
  <p class="updated_time"> 08:18 AM CT, Nov. 08 </p> 
  <a href="https://www.washingtonpost.com/politics/rick-scott-sean-parnell/2021/11/08/d21bb370-4097-11ec-a3aa-0255edc02eb7_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">NRSC chair Rick Scott declines to say if Trump-backed Senate hopeful accused of strangling wife is right candidate for the job</a> WaPo: Pressed during an interview about Sean Parnell, the senator from Florida said it is not his job to endorse candidates in open primaries. Parnell has been endorsed by former president Donald Trump. 
  <p class="updated_time"> 08:08 AM CT, Nov. 08 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-08/no-johnson-apology-as-lobbying-furor-engulfs-his-u-k-government">No Johnson Apology as Lobbying Furor Engulfs His U.K. Government</a> Bloomberg: Boris Johnson declined to apologize over his attempt to protect a ruling U.K. Conservative Party lawmaker who broke lobbying rules, even with his government still battling to contain the fallout. 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-08/no-johnson-apology-as-lobbying-furor-engulfs-his-u-k-government">Johnson Struggles to Contain Fallout From U.K. Lobbying Scandal</a> Bloomberg: Boris Johnson is struggling to repress the U.K. backlash over his defense of a ruling party lawmaker who broke lobbying rules, as opposition leader Keir Starmer openly accused his government of being corrupt. 
  <p class="updated_time"> 07:51 AM CT, Nov. 08 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-08/speculators-may-face-life-in-jail-as-prices-surge-in-algeria">Speculators May Face Life in Jail as Prices Surge in Algeria</a> Bloomberg: Algerian lawmakers are considering legislation that could punish speculation in food and medical equipment with up to life in jail, as a surge in prices threatens to inflame a country roiled by anti-government protests for two years. 
  <p class="updated_time"> 07:40 AM CT, Nov. 08 </p> 
@@ -330,8 +338,6 @@ permalink: /projects/news/
  <a href="https://www.bloomberg.com/news/articles/2021-11-08/african-union-envoy-tigray-leader-hold-talks-on-ethiopia-crisis">African Union Envoy, Tigray Leader Hold Talks on Ethiopia Crisis</a> Bloomberg: The African Union’s special envoy held talks with a top Tigray official on the civil war engulfing Ethiopia. 
  <p class="updated_time"> 04:06 AM CT, Nov. 08 </p> 
  <a href="https://www.npr.org/2021/11/08/1053442982/harris-will-be-the-top-u-s-official-at-a-large-gathering-of-world-leaders-in-fra">Harris will be the top U.S. official at a large gathering of world leaders in France</a> NPR: Vice President Harris heads to France, a trip where she will have face time with more than two dozen world leaders, and a chance to build up her track record on international diplomacy. 
- <p class="updated_time"> 04:01 AM CT, Nov. 08 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-08/xi-s-expanding-power-is-a-growing-risk-for-china-s-economy">Xi’s Expanding Power Is a Growing Risk for China’s Economy</a> Bloomberg: Local officials either take orders too far or become paralyzed with fear as they strive to please China’s leader.&nbsp; 
  <p class="updated_time"> 04:00 AM CT, Nov. 08 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-08/poland-warns-large-migrant-group-may-try-to-enter-from-belarus">Crisis on EU Border Heats Up as Poland Uses Tear Gas on Migrants</a> Bloomberg: The months-long humanitarian crisis on the European Union’s eastern flank escalated with Belarus-backed migrants storming barbed-wire fences on the Polish border, only to be repelled by tear gas. 
  <p class="updated_time"> 04:00 AM CT, Nov. 08 </p> 
@@ -450,8 +456,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/11/06/how-biden-and-pelosi-saved-bif-495005">POLITICO Playbook: How Biden and Pelosi saved BIF</a> Politico: And President Joe Biden secures the biggest win of his presidency so far. 
  <p class="updated_time"> 09:32 AM CT, Nov. 06 </p> 
  <a href="https://www.washingtonpost.com/politics/2021/11/06/fix-gop-infrastructure-defections/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">GOP erupts over its House members bailing out Biden</a> WaPo: Without GOP support, the bill didn't have a majority. And the right wing is out for blood. 
- <p class="updated_time"> 09:32 AM CT, Nov. 06 </p> 
- <a href="https://www.washingtonpost.com/politics/2021/11/06/fix-gop-infrastructure-defections/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">GOP erupts over its House members bailing out Biden</a> WaPo: Without GOP support, the bill didn't have a majority. And the right wing is out for blood. 
  <p class="updated_time"> 07:38 AM CT, Nov. 06 </p> 
  <a href="https://www.washingtonpost.com/politics/2021/11/05/what-is-cbo-how-could-its-score-derail-democrats-spending-bills/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">What is the CBO, and how could its score derail Democrats’ social safety net bill?</a> WaPo: A nonpartisan office will determine whether Democrats' social safety net legislation is indeed paid for, as they claim. 
  <p class="updated_time"> 06:00 AM CT, Nov. 06 </p> 
@@ -464,8 +468,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/06/trump-arizona-senate-primary-519779">Trump muscles into Arizona Senate primary</a> Politico: The former president, who has not yet endorsed in the contest, will appear at a fundraiser for Republican Blake Masters. 
  <p class="updated_time"> 03:24 AM CT, Nov. 06 </p> 
  <a href="https://www.nytimes.com/2021/11/05/upshot/biden-budget-scorekeepers-cbo.html">2,000 Pages and Pronto! Budget Scorekeepers Are Under Pressure</a> NYT: Lawmakers want detailed estimates on the effects of the big Democratic bill, but that can take longer than they think, slowing the process. 
- <p class="updated_time"> 03:23 AM CT, Nov. 06 </p> 
- <a href="https://www.washingtonpost.com/nation/2021/11/06/seattle-election-prosecutor-ann-davison/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Seattle elects Republican as city attorney, rejecting police abolitionist who celebrated property destruction</a> WaPo: The city attorney leads prosecutions of low-level crimes and advises Seattle on legal matters. But the race was closely watched because it mirrored growing political polarization in America. 
  <p class="updated_time"> 10:55 PM CT, Nov. 05 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/I_z5P2xIL1g/index.html">These 6 House Democrats voted against the infrastructure bill. These 13 Republicans voted for it.</a> CNN: The House on Friday voted 228-206 to pass a $1.2 trillion infrastructure bill after hours of delays and debating among Democrats, sending the bipartisan measure to President Joe Biden's desk for his signature. 
  <p class="updated_time"> 10:50 PM CT, Nov. 05 </p> 
