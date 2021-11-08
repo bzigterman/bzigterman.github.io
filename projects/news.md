@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:12 AM CT, Nov. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59205368?at_medium=RSS&at_campaign=KARANGA">Athol Williams: South Africa corruption whistle-blower flees for his life</a> BBC: Athol Williams says he has received threats since testifying in a corruption inquiry. 
  <p class="updated_time"> 04:42 AM CT, Nov. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59173479?at_medium=RSS&at_campaign=KARANGA">Zika virus: India's Kanpur city on alert after 89 cases reported</a> BBC: The first Zika case in Kanpur was detected on 23 October and cases have since been on the rise. 
  <p class="updated_time"> 04:40 AM CT, Nov. 08 </p> 
@@ -37,6 +39,10 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59202880?at_medium=RSS&at_campaign=KARANGA">Afghans facing 'hell on earth' as winter looms</a> BBC: The World Food Programme says 23 million people are "marching towards starvation" in the country. 
  <p class="updated_time"> 12:37 AM CT, Nov. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59202327?at_medium=RSS&at_campaign=KARANGA">Afghanistan hunger: 'The worst humanitarian crisis on Earth'</a> BBC: Afghanistan faces widespread famine with millions affected, says the UN World Food Programme head. 
+ <p class="updated_time"> 11:52 PM CT, Nov. 07 </p> 
+ <a href="https://www.wsj.com/articles/nicaraguas-president-ortega-on-track-for-controversial-fourth-term-11636368775">Nicaragua's President Ortega on Track for Controversial Fourth Term</a> WSJ: With 65% of the vote counted, the head of Nicaragua’s electoral authority said President Ortega had won 75% of the vote. Five small satellite parties controlled by Mr. Ortega split the difference and 35% abstained. 
+ <p class="updated_time"> 11:52 PM CT, Nov. 07 </p> 
+ <a href="https://www.wsj.com/articles/china-to-issue-licenses-for-education-companies-to-resume-after-school-tutoring-11636368762">China to Allow Education Companies to Resume After-School Tutoring</a> WSJ: China’s government plans to issue more than a dozen licenses that would allow companies to offer after-school tutoring, according to people familiar with the matter. 
  <p class="updated_time"> 11:02 PM CT, Nov. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59199831?at_medium=RSS&at_campaign=KARANGA">Astroworld: Victims named as police probe US festival crush</a> BBC: Family and friends pay tribute to those who died at Travis Scott's Astroworld festival in Houston. 
  <p class="updated_time"> 10:33 PM CT, Nov. 07 </p> 
@@ -69,12 +75,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/uk-northern-ireland-59198125?at_medium=RSS&at_campaign=KARANGA">Brexit: UK-EU trade deal could collapse over NI row, says Coveney</a> BBC: The UK is laying foundations to suspend parts of the NI Protocol, says the Irish foreign minister. 
  <p class="updated_time"> 03:35 PM CT, Nov. 07 </p> 
  <a href="https://www.npr.org/2021/11/07/1053356424/how-did-the-enslaved-workers-of-pompeii-live-a-new-discovery-provides-a-rare-gli">How did the enslaved workers of Pompeii live? A new discovery provides a rare glimpse</a> NPR: Archaeologists working to uncover a wealthy villa on the outskirts of the ancient city have found a dormitory for workers, providing important insight into daily life. 
- <p class="updated_time"> 03:17 PM CT, Nov. 07 </p> 
- <a href="https://www.wsj.com/articles/nicaraguan-president-ortega-expected-to-win-re-election-as-country-veers-into-dictatorship-11636312154">Ortega Set to Cement Power in Nicaragua</a> WSJ: President Daniel Ortega is expected to win a fourth consecutive term after he imprisoned seven would-be presidential candidates. The U.S. and European Union have described the elections as a sham. 
  <p class="updated_time"> 02:32 PM CT, Nov. 07 </p> 
  <a href="https://www.nytimes.com/2021/11/07/travel/us-travel-ban-reunions.html">As U.S. Travel Changes Near, Global Travelers Eagerly Await Reunions</a> NYT: On Monday, travelers from many other countries who are fully vaccinated against the coronavirus will be allowed to enter the United States. 
- <p class="updated_time"> 02:25 PM CT, Nov. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-59195399?at_medium=RSS&at_campaign=KARANGA">Iraqi PM al-Kadhimi survives drone attack on his home</a> BBC: Mustafa al-Kadhimi says he was not hurt in the attack by a drone carrying explosives in Baghdad. 
  <p class="updated_time"> 01:17 PM CT, Nov. 07 </p> 
  <a href="https://www.nytimes.com/2021/11/07/us/politics/afghanistan-war-marines.html">Young Marines in Kabul Were Left to Run Final Days of Evacuation</a> NYT: The young Marines in Kabul were left to determine who was evacuated from Afghanistan and who was left behind. The cost was high. 
  <p class="updated_time"> 11:29 AM CT, Nov. 07 </p> 
@@ -87,12 +89,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/06/world/europe/camino-de-santiago-spain.html">On Spain’s Camino de Santiago, Even Óscar the Donkey Is a Pilgrim</a> NYT: An artist and an innkeeper have enlisted the help of a burro in their effort to rescue the traditions of Spain’s ancient pilgrimage route from mass tourism (and selfies). 
  <p class="updated_time"> 09:08 AM CT, Nov. 07 </p> 
  <a href="https://www.nytimes.com/2021/11/06/world/americas/biden-osha-vaccine-mandate-blocked.html">Biden's Vaccine Mandate Temporarily Blocked, Foreshadowing Uphill Battle</a> NYT: A stay granted by a federal appeals court in Louisiana could signal an uphill battle for the administration in getting the entire American work force vaccinated. 
- <p class="updated_time"> 08:49 AM CT, Nov. 07 </p> 
- <a href="https://www.wsj.com/articles/iraqs-prime-minister-survives-assassination-attempt-government-says-11636248485">Iraqi Prime Minister Targeted in Assassination Attempt</a> WSJ: An explosive-laden drone attacked the residence of Iraqi Prime Minister Mustafa al-Kadhimi in Baghdad. The prime minister said he wasn’t hurt. 
  <p class="updated_time"> 08:30 AM CT, Nov. 07 </p> 
  <a href="https://www.npr.org/2021/11/07/1051940127/rebels-are-closing-in-on-ethiopias-capital-its-collapse-could-bring-regional-cha">Rebels are closing in on Ethiopia's capital. Its collapse could bring regional chaos</a> NPR: A newly formed rebel alliance led by the Tigray People's Liberation Front is within striking distance of Addis Ababa. A failed state could displace millions of people and stoke more ethnic violence. 
- <p class="updated_time"> 08:06 AM CT, Nov. 07 </p> 
- <a href="https://www.wsj.com/articles/rebels-advance-toward-capital-as-ethiopia-moves-deeper-into-war-11636311997">Rebels Advance Toward Capital As Ethiopia Moves Deeper Into War</a> WSJ: The move threatens to widen a civil war raging in Africa’s second-most populous nation marked by allegations of ethnically motivated atrocities and man-made famine. 
  <p class="updated_time"> 07:06 AM CT, Nov. 07 </p> 
  <a href="https://www.npr.org/2021/11/07/1053326456/sudan-faces-mass-protests-and-arrests-after-military-dissolves-civilian-governme">Sudan faces mass protests and arrests after military dissolves civilian government</a> NPR: Danielle Kurtzleben speaks to Khartoum-based political analyst Samir Fadol on the latest in Sudan, where a military coup unseated the civilian government October 25. 
  <p class="updated_time"> 07:03 AM CT, Nov. 07 </p> 
@@ -214,10 +212,18 @@ permalink: /projects/news/
 
  <p class="updated_time"> 06:05 AM CT, Nov. 08 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/08/big-obstacles-await-biden-after-big-win-495012">POLITICO Playbook: Big obstacles await Biden after big win</a> Politico: And midterm elections are a year from today. 
+ <p class="updated_time"> 05:14 AM CT, Nov. 08 </p> 
+ <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/U64XT9DznBM/index.html">CIA Director had rare conversation with Putin while in Moscow last week</a> CNN: CIA Director Bill Burns held a rare conversation with Russian President Vladimir Putin in Moscow last week, to convey "serious" US concerns about Russia's military buildup along the Ukrainian border and to attempt to determine Russian intentions, two sources with direct knowledge told CNN. 
+ <p class="updated_time"> 05:12 AM CT, Nov. 08 </p> 
+ <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uTQPN82VZNw/index.html">Obama to speak at UN climate summit in Glasgow Monday</a> CNN: Former President Barack Obama will deliver remarks on Monday at the UN climate conference in Glasgow in a return to the world stage centered around the climate crisis. 
+ <p class="updated_time"> 05:01 AM CT, Nov. 08 </p> 
+ <a href="https://www.bloomberg.com/news/newsletters/2021-11-08/xi-kicks-off-china-s-election-season">Xi Kicks Off China’s ‘Election Season’</a> Bloomberg: That President Xi Jinping wants longer in power in China is no great secret. But a document coming this week pretty much confirms it. 
  <p class="updated_time"> 05:00 AM CT, Nov. 08 </p> 
  <a href="https://www.washingtonpost.com/politics/2021/11/08/mitch-mcconnell-trump-impeachment-insurrection-senate/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Mitch McConnell spent decades chasing power. Now he heeds Trump, who mocks him and wants him gone.</a> WaPo: In his 16th year as the Senate’s top Republican, McConnell is increasingly playing the role of a conflicted and compromised booster of Trump’s interests — not a leader with his own vision. 
+ <p class="updated_time"> 04:57 AM CT, Nov. 08 </p> 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-08/poland-ordered-by-top-human-rights-court-to-fix-judicial-system">Poland Ordered by Top Human Rights Court to Fix Judicial System</a> Bloomberg: Poland must quickly end political interference in its judicial system, the European Court of Human Rights ordered in the latest round of a fast-escalating feud between the nation and its western neighbors over the rule of law. 
  <p class="updated_time"> 04:51 AM CT, Nov. 08 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-08/kuwait-cabinet-quits-in-step-toward-ending-political-impasse">Kuwait Cabinet Quits In Step Toward Ending Political Impasse</a> Bloomberg: Kuwait’s government resigned on Monday after less than a year in office, in a step aimed at breaking a political deadlock that has blocked fiscal reforms. 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-08/kuwait-cabinet-quits-in-step-toward-ending-political-impasse">Kuwait Cabinet Quits In Step Toward Ending Political Impasse</a> Bloomberg: Kuwait’s government resigned on Monday after less than a year in office, a move aimed at breaking a political deadlock that has blocked fiscal reforms. 
  <p class="updated_time"> 04:31 AM CT, Nov. 08 </p> 
  <a href="https://www.politico.com/news/2021/11/08/voting-rule-democrats-antitrust-519767">‘Zombies’ to the rescue: The arcane voting rule that could save Dems’ antitrust agenda</a> Politico: Former Democratic Commissioner Rohit Chopra left behind more than a dozen motions he wants the Federal Trade Commission to carry out, spawning a debate on whether his votes should still count. 
  <p class="updated_time"> 04:30 AM CT, Nov. 08 </p> 
@@ -231,7 +237,11 @@ permalink: /projects/news/
  <p class="updated_time"> 04:30 AM CT, Nov. 08 </p> 
  <a href="https://www.politico.com/news/2021/11/08/democratic-senate-majority-dicey-virginia-520214">The Democratic Senate majority was already dicey. Then came Virginia.</a> Politico: A favorable map is not going to be enough to save Senate Dems. But they might get help from a few tarnished GOP candidates. 
  <p class="updated_time"> 04:26 AM CT, Nov. 08 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-08/singapore-partly-rolls-back-dining-curbs-as-virus-outbreak-eases">Singapore Partly Rolls Back Dining Curbs as Virus Outbreak Eases</a> Bloomberg: Singapore is easing some tough Covid restrictions put in place more than a month ago to tackle a surge in infections, with five people from the same residence allowed to dine at restaurants starting from Wednesday. 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-08/singapore-partly-rolls-back-dining-curbs-as-virus-outbreak-eases">Singapore Eases Some Virus Curbs as Music Returns to Restaurants</a> Bloomberg: Singapore is easing some tough Covid restrictions put in place more than a month ago to tackle a surge in infections, with five people from the same residence allowed to dine at restaurants starting from Wednesday. 
+ <p class="updated_time"> 04:24 AM CT, Nov. 08 </p> 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-08/bus-set-on-fire-in-northern-ireland-amid-post-brexit-tension">Bus Set on Fire in Northern Ireland Amid Post Brexit Tension</a> Bloomberg: London (AP) -- A bus has been hijacked and set on fire in Northern Ireland, amid discontent over the trade deal struck as part of the U.K.’s departure from the European Union. 
+ <p class="updated_time"> 04:15 AM CT, Nov. 08 </p> 
+ <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/i9Ydbx0FfR0/index.html">Jill Biden's child vaccine tour will include push for more children vaccination sites</a> CNN: First lady Jill Biden and US Surgeon General Dr. Vivek Murthy will make a push for boosting the number of Covid-19 vaccination sites for children Monday as they kick off a nationwide administration effort to encourage vaccines for the nation's youngest and newly eligible candidates. 
  <p class="updated_time"> 04:14 AM CT, Nov. 08 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-08/african-union-envoy-tigray-leader-hold-talks-on-ethiopia-crisis">African Union Envoy, Tigray Leader Hold Talks on Ethiopia Crisis</a> Bloomberg: The African Union’s special envoy held talks with a top Tigray official on the civil war engulfing Ethiopia. 
  <p class="updated_time"> 04:06 AM CT, Nov. 08 </p> 
@@ -260,6 +270,8 @@ permalink: /projects/news/
  <a href="https://www.washingtonpost.com/politics/2021/11/08/battle-over-bidens-child-tax-credit-its-impact-poverty-workers/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">The battle over Biden’s child tax credit and its impact on poverty and workers</a> WaPo: A fierce dispute has erupted among economists about whether the president's child-tax credit expansion will cause parents to stop working. We explain the debate. 
  <p class="updated_time"> 01:53 AM CT, Nov. 08 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-08/iran-s-top-nuclear-diplomat-visits-u-k-france-germany-in-days">Iran’s Top Nuclear Diplomat to Visit U.K., France, Germany </a> Bloomberg: Iran called on the U.S. to change its approach to sanctions and abandon the Trump-era “maximum pressure” strategy against the Islamic Republic as its top nuclear negotiator heads to Europe to discuss efforts to revive the 2015 atomic deal. 
+ <p class="updated_time"> 01:10 AM CT, Nov. 08 </p> 
+ <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OUBqqbrBKnU/index.html">Biden seeks rebound as he basks in huge political victory </a> CNN: President Joe Biden's soon-to-be-signed $1 trillion infrastructure legislation is a direly needed political win and a vindication of his entire creed of politics. But on its own, it is unlikely to rescue a wobbling presidency as midterm elections loom. 
  <p class="updated_time"> 01:09 AM CT, Nov. 08 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-08/chinese-firm-seeks-damages-from-sri-lanka-in-fertilizer-dispute">Chinese Firm Seeks Damages From Sri Lanka in Fertilizer Dispute</a> Bloomberg: A Chinese company is seeking damages from a Sri Lankan government agency for rejecting a shipment of organic fertilizer found to have pathogens in an ongoing dispute that could test Colombo’s relationship with Beijing. 
  <p class="updated_time"> 01:00 AM CT, Nov. 08 </p> 
@@ -288,12 +300,8 @@ permalink: /projects/news/
  <a href="https://www.bloomberg.com/news/articles/2021-11-08/plante-wins-re-election-in-montreal-on-housing-police-plan">Plante Wins Re-Election in Montreal on Housing, Police Plan</a> Bloomberg: Valerie Plante won a second term as mayor of Montreal, fending off predecessor Denis Coderre’s attempt to climb back to power after a campaign dominated by housing costs, gun violence and transportation issues. 
  <p class="updated_time"> 09:31 PM CT, Nov. 07 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-08/pakistan-lifts-ban-on-radical-group-to-help-end-deadly-protests">Pakistan Lifts Ban on Radical Group to Help End Deadly Protests</a> Bloomberg: Pakistan lifted a ban on the radical religious group Tehreek Labbaik Pakistan, known as the TLP, as part of an agreement to end deadly protests by the group last month. 
- <p class="updated_time"> 08:21 PM CT, Nov. 07 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-08/south-korea-s-moon-near-low-in-polls-as-election-campaign-starts">Conservatives Start South Korea Campaign With Support at Record</a> Bloomberg: South Korean President Moon Jae-in’s support rate neared a record low while the conservative opposition’s hit a new high, a worrying sign for the leader’s progressive camp as the campaign to replace him heats up. 
  <p class="updated_time"> 08:14 PM CT, Nov. 07 </p> 
  <a href="https://www.politico.com/news/2021/11/07/houston-concert-deaths-mourning-520201">As mourning starts, Houston probes concert deaths</a> Politico: City officials said they were in the early stages of investigating what caused the pandemonium at the sold-out Astroworld festival. 
- <p class="updated_time"> 07:01 PM CT, Nov. 07 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-08/biden-slams-pantomime-nicaragua-election-and-pledges-action">Biden Slams ‘Pantomime’ Nicaragua Election and Pledges Action</a> Bloomberg: U.S. President Joe Biden criticized Nicaragua’s vote on Sunday as a “pantomime election that was neither free nor fair” and said the U.S. will use all available diplomatic and economic tools to pressure President Daniel Ortega. 
  <p class="updated_time"> 06:10 PM CT, Nov. 07 </p> 
  <a href="https://www.washingtonpost.com/politics/democrats-biden-virginia-new-jersey-infrastructure/2021/11/07/d5811f7e-3e43-11ec-bfad-8283439871ec_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Democrats search for political identity amid dismal election results and legislative triumph</a> WaPo: Setbacks Tuesday in suburbs, small towns and rural communities, coupled with intraparty battles on Capitol Hill and passage of an infrastructure bill, crystallize a vexing question for the party: What does it mean to be a Democrat? 
  <p class="updated_time"> 06:01 PM CT, Nov. 07 </p> 
@@ -341,7 +349,7 @@ permalink: /projects/news/
  <p class="updated_time"> 10:27 AM CT, Nov. 07 </p> 
  <a href="https://www.politico.com/news/2021/11/07/murthy-vaccine-mandate-biden-520015">Surgeon general defends embattled vaccine mandate</a> Politico: “It’s a necessary step to accelerate our pathway out of the pandemic,” Vivek Murthy said. 
  <p class="updated_time"> 09:48 AM CT, Nov. 07 </p> 
- <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vBRV9fRRViY/index.html">White House chief of staff 'confident' Biden's administration's vaccine mandate for private businesses will be upheld</a> CNN: White House chief of staff Ron Klain said he was confident the courts will uphold the validity of the Biden administration's new vaccine rules that apply to private businesses with 100 or more employees, certain health care workers and federal contractors, after a federal appeals court temporarily blocked the requirements on Saturday. 
+ <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vBRV9fRRViY/index.html">White House chief of staff 'confident' vaccine mandate for private businesses will be upheld</a> CNN: White House chief of staff Ron Klain said he was confident the courts will uphold the validity of the Biden administration's new vaccine rules that apply to private businesses with 100 or more employees, certain health care workers and federal contractors, after a federal appeals court temporarily blocked the requirements on Saturday. 
  <p class="updated_time"> 09:40 AM CT, Nov. 07 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/U26cWofmZF4/index.html">Americans should expect to pay higher heating costs this winter, Granholm says</a> CNN: Americans should expect to pay higher costs to heat their homes this winter, Energy Secretary Jennifer Granholm said Sunday, a result of high gas prices caused by the coronavirus pandemic. 
  <p class="updated_time"> 09:24 AM CT, Nov. 07 </p> 
@@ -366,8 +374,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/07/miriam-adelson-megadonor-back-in-politics-519912">The $30 billion woman: Megadonor Miriam Adelson leaps back into politics</a> Politico: Adelson is taking her first political meetings since her husband Sheldon died, seeing possible 2024 candidates and a key Senate contender. 
  <p class="updated_time"> 07:00 AM CT, Nov. 07 </p> 
  <a href="https://www.politico.com/news/2021/11/07/dems-search-for-answers-expect-crushed-in-2022-519901">Democrats just got their clocks cleaned. No one seems ready to change anything.</a> Politico: There’s little evidence suggesting the party is capable of changing course before the midterms. 
- <p class="updated_time"> 07:00 AM CT, Nov. 07 </p> 
- <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/D10Mw4FKVeI/index.html">Steve Bannon's popular podcast is a 'dangerous' fantasyland of election lies </a> CNN: Steve Bannon's aggressive campaign to undermine American democracy didn't stop on January 6. 
  <p class="updated_time"> 06:45 AM CT, Nov. 07 </p> 
  <a href="https://www.politico.com/news/2021/11/07/nevada-democrats-harry-reid-machine-and-pro-sanders-forces-519919">Democrats sweat midterm fallout from Nevada party crack-up</a> Politico: A bitter feud has divided Dems in a key swing state — and dragged in the national party. 
  <p class="updated_time"> 06:00 AM CT, Nov. 07 </p> 
@@ -494,8 +500,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/05/biden-gun-violence-legislation-519625">Gun control legislation isn’t going to happen. Here’s what Biden’s doing instead.</a> Politico: As president, Biden has promised billions of dollars in funding for community violence intervention, programs that have been shown to break cycles of violence. 
  <p class="updated_time"> 09:09 AM CT, Nov. 05 </p> 
  <a href="https://www.politico.com/news/2021/11/05/congress-biden-taiwan-519689">Congress pressures Biden to defend Taiwan</a> Politico: China's aggressive behavior is worrying lawmakers, but a new U.S. strategy could fan the flames. 
- <p class="updated_time"> 07:42 AM CT, Nov. 05 </p> 
- <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OaDx7XjDDVQ/index.html">Jill Biden kicking off 'nationwide' child vaccine effort</a> CNN: First lady Jill Biden plans to embark on a "nationwide effort" to encourage Covid-19 vaccinations for children 5 to 11 years old next week, her office announced Friday. 
  <p class="updated_time"> 06:26 AM CT, Nov. 05 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/11/05/here-goes-the-house-spending-and-infrastructure-votes-teed-up-494996">Here goes the House: spending and infrastructure votes tee’d up</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:26 AM CT, Nov. 05 </p> 
@@ -540,12 +544,8 @@ permalink: /projects/news/
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PCXtFxC5C4M/index.html">Biden encourages parents to get their eligible children vaccinated against Covid-19: 'A day of relief and celebration'</a> CNN: President Joe Biden will deliver remarks Wednesday afternoon regarding the US Centers for Disease Control and Prevention's authorization of the Covid-19 vaccine for kids ages 5 to 11. 
  <p class="updated_time"> 02:28 PM CT, Nov. 03 </p> 
  <a href="https://www.politico.com/news/2021/11/03/senate-republicans-voting-reform-block-519082">Senate GOP blocks latest Dem push for voting reform</a> Politico: Alaska’s Lisa Murkowski was the only Republican to join Democrats on the bill named for the late Rep. John Lewis. 
- <p class="updated_time"> 02:05 PM CT, Nov. 03 </p> 
- <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jhyC9PpVhOI/index.html">These are the people who made history on election night</a> CNN: A number of trailblazing candidates made history this week, as CNN projected that people of color across the country were elected to top positions at both the state and city level. 
  <p class="updated_time"> 12:36 PM CT, Nov. 03 </p> 
  <a href="https://www.politico.com/news/2021/11/03/democrats-virginia-congress-519051">Dems keep butting heads after Virginia shellacking</a> Politico: Most agreed that the dismal election results underscored the need to move past the infighting that’s defined their majorities for months. There’s hardly any agreement on much else. 
- <p class="updated_time"> 07:45 AM CT, Nov. 03 </p> 
- <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2JYk2SAnd8A/index.html">Biden administration rescinds Trump-era policy limiting migrants at legal ports of entry</a> CNN: The Department of Homeland Security has rescinded a Trump-era policy limiting entry of undocumented immigrants at legal ports of entry and released new guidance on the process, according to a recently-released memo. 
  <p class="updated_time"> 06:53 AM CT, Nov. 03 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/11/03/democrats-discontent-494962">Democrats’ discontent</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 05:22 AM CT, Nov. 03 </p> 
@@ -570,8 +570,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/huddle/2021/11/02/dems-on-the-hill-keep-wary-eye-on-virginia-494942">Dems on the Hill keep wary eye on Virginia</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 05:12 AM CT, Nov. 02 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/02/youngkins-crowds-dwarf-mcauliffes-on-election-eve-494939">POLITICO Playbook: Youngkin’s crowds dwarf McAuliffe’s on election eve</a> Politico: And progressives stay the course after Joe Manchin flips them the bird. 
- <p class="updated_time"> 06:14 AM CT, Nov. 01 </p> 
- <a href="https://www.politico.com/newsletters/huddle/2021/11/01/dont-count-on-tuesday-494924">Don’t count on Tuesday</a> Politico: A play-by-play preview of the day&#39;s congressional news 
 
 
 </details>
