@@ -210,6 +210,10 @@ permalink: /projects/news/
 
  <p class="updated_time"> 04:30 AM CT, Nov. 08 </p> 
  <a href="https://www.politico.com/news/2021/11/08/republican-wave-house-congress-520238">Republican wave builds to take back the House</a> Politico: A combination of aggressive redistricting, strong fundraising, new attractive recruits and a favorable political environment has the GOP excited about its prospects of winning the majority in next year's midterms. 
+ <p class="updated_time"> 03:24 AM CT, Nov. 08 </p> 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-08/brazil-backs-u-k-s-warming-limits-to-mend-climate-reputation">Brazil Backs U.K.’s Warming Limits to Mend Climate Reputation</a> Bloomberg: Brazil is set to back the U.K.’s push to keep alive the chances of limiting global warming to 1.5 degrees Celsius as Latin America’s biggest economy seeks to mend its tarnished climate reputation. 
+ <p class="updated_time"> 03:00 AM CT, Nov. 08 </p> 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-08/singapore-malaysia-launch-vaccinated-travel-lane-from-nov-29">Singapore, Malaysia to Launch Vaccinated Travel Lane Nov. 29</a> Bloomberg: Singapore and Malaysia will launch a vaccinated travel lane between Singapore’s Changi Airport and Malaysia’s Kuala Lumpur International Airport starting Nov. 29, the countries said in a joint statement. 
  <p class="updated_time"> 02:49 AM CT, Nov. 08 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-08/spyware-scandal-grows-in-hungary-with-more-than-100-targets">Spyware Scandal Grows in Hungary With More Than 100 Targets</a> Bloomberg: Hungary targeted more than 100 people with the Pegasus spyware, according to the head of parliament’s national security committee, widening a scandal surrounding a tool the government initially denied knowledge of using. 
  <p class="updated_time"> 02:00 AM CT, Nov. 08 </p> 
@@ -302,8 +306,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/07/rick-scott-republicans-trump-support-520055">Rick Scott to GOP hopefuls: Get Trump’s support, but go beyond that</a> Politico: The head of the National Republican Senatorial Committee also said the committee will back all incumbents, whether Trump likes them or not. 
  <p class="updated_time"> 12:39 PM CT, Nov. 07 </p> 
  <a href="https://www.politico.com/news/2021/11/07/election-voters-message-action-klain-520042">'Voters sent a message on Tuesday' for more action, Klain says</a> Politico: “In my opinion,” he said, “it’s been a rough and tough year.” 
- <p class="updated_time"> 12:14 PM CT, Nov. 07 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-07/thousands-demonstrate-in-ethiopia-against-rebels-interference">Thousands Demonstrate in Ethiopia Against Rebels, Interference</a> Bloomberg: Tens of thousands of residents of Addis Ababa took to the streets on Sunday to denounce rebel forces that have threatened to march on Ethiopia’s capital city and to reject foreign involvement in the country’s civil war. 
  <p class="updated_time"> 11:30 AM CT, Nov. 07 </p> 
  <a href="https://www.politico.com/news/2021/11/07/payments-families-border-richmond-520027">Payments to families separated at border are ‘for the Department of Justice to decide,’ W.H. adviser says</a> Politico: “I want to be clear about this: We do not tell the Department of Justice what to do,” Cedric Richmond said. 
  <p class="updated_time"> 11:17 AM CT, Nov. 07 </p> 
