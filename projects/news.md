@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:56 AM CT, Nov. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-59210335?at_medium=RSS&at_campaign=KARANGA">Venus Williams: 'It's important people continue to break barriers'</a> BBC: The tennis star tells 5 Live's Rick Edwards she hopes future generations don't have to focus "on the colour of their skin". 
  <p class="updated_time"> 07:31 AM CT, Nov. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59205468?at_medium=RSS&at_campaign=KARANGA">Oscar Pistorius parole process to start in South Africa</a> BBC: The ex-Olympian will first have to meet the parents of the woman he murdered, Reeva Steenkamp. 
  <p class="updated_time"> 07:29 AM CT, Nov. 08 </p> 
@@ -70,7 +72,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:28 PM CT, Nov. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59201107?at_medium=RSS&at_campaign=KARANGA">US reopens borders to vaccinated travellers after 20 months</a> BBC: A flood of foreign visitors is expected as tough restrictions on entry come to an end. 
  <p class="updated_time"> 06:24 PM CT, Nov. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59167718?at_medium=RSS&at_campaign=KARANGA">US-Canada border: After 19 months, families to reunite</a> BBC: The land border will soon fully reopen to vaccinated travellers, allowing families to reconnect. 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59167718?at_medium=RSS&at_campaign=KARANGA">US-Canada border: After 19 months, families to reunite</a> BBC: Thomas Musgraves will spend US Thanksgiving with his daughter, Maddie, after months of separation. 
  <p class="updated_time"> 06:17 PM CT, Nov. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59036542?at_medium=RSS&at_campaign=KARANGA">Dug Dug: A film inspired by India's motorcycle god</a> BBC: A new film riding on the back of a temple in India dedicated to a motorcycle deity is making waves. 
  <p class="updated_time"> 06:14 PM CT, Nov. 07 </p> 
@@ -81,8 +83,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-latin-america-59120439?at_medium=RSS&at_campaign=KARANGA">TikTok videos humanise Colombia's cocaine workers</a> BBC: Social media videos in Colombia reveal how the people on the lowest rung of the cocaine industry work and live. 
  <p class="updated_time"> 06:02 PM CT, Nov. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59182550?at_medium=RSS&at_campaign=KARANGA">Diamonds v trees: The community trying to save its forest</a> BBC: The Madhya Pradesh state government says a new diamond mine will bring jobs but local people say their lives will be destroyed. 
- <p class="updated_time"> 06:02 PM CT, Nov. 07 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-59141041?at_medium=RSS&at_campaign=KARANGA">The space telescopes inspired by lobsters</a> BBC: By mimicking the way lobsters’ eyes work, scientists have designed new X-ray space telescopes that can survey much larger areas. 
  <p class="updated_time"> 04:01 PM CT, Nov. 07 </p> 
  <a href="https://www.nytimes.com/2021/11/07/world/europe/uk-virus-surge-booster-shots.html">U.K. Health Secretary Urges People to Get Boosters</a> NYT: “If we all come together and play our part, we can get through this challenging winter, avoid a return to restrictions and enjoy Christmas,” said Sajid Javid, the health secretary. 
  <p class="updated_time"> 04:00 PM CT, Nov. 07 </p> 
@@ -216,6 +216,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:40 AM CT, Nov. 08 </p> 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-08/u-k-triggering-article-16-would-be-reckless-irish-pm-warns">U.K. Triggering Article 16 Would Be Reckless, Irish PM Warns</a> Bloomberg: The U.K. would be be “reckless and irresponsible” if it were to move to set aside parts of the Brexit agreement, Ireland’s prime minister said, amid growing speculation the British government is preparing to do just that. 
  <p class="updated_time"> 07:35 AM CT, Nov. 08 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-08/obama-implores-nations-to-row-together-toward-climate-target">Obama Invokes Hawaiian Proverb to Urge Action at Climate Summit</a> Bloomberg: Former U.S. President Barack Obama extolled the importance of protecting island nations most vulnerable to global warming as he started a two-day campaign to convince world leaders the U.S. never relinquished its fight against climate change. 
  <p class="updated_time"> 07:20 AM CT, Nov. 08 </p> 
@@ -275,7 +277,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:01 AM CT, Nov. 08 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-08/xi-s-expanding-power-is-a-growing-risk-for-china-s-economy">Xi’s Expanding Power Is a Growing Risk for China’s Economy</a> Bloomberg: Local officials either take orders too far or become paralyzed with fear as they strive to please China’s leader.&nbsp; 
  <p class="updated_time"> 04:00 AM CT, Nov. 08 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-08/poland-warns-large-migrant-group-may-try-to-enter-from-belarus">Poland Warns Large Migrant Group May Seek Entry From Belarus</a> Bloomberg: Polish officials warned of intensified tensions at its eastern border as hundreds of migrants gathering at the Belarusian side are expected to try to enter the European Union country in one group. 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-08/poland-warns-large-migrant-group-may-try-to-enter-from-belarus">Poland Repels Migrant Group Seeking to Enter From Belarus</a> Bloomberg: A Polish border guard used tear gas to stop people from entering from the European Union country’s eastern border and officials warned of deepening tensions as hundreds of migrants gathered on the Belarusian side. 
  <p class="updated_time"> 04:00 AM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/nyregion/nassau-county-republicans-election.html">Why Republicans Won in a New York County Where Democrats Outnumber Them</a> NYT: Voters readily ousted Democrats in Nassau County on Long Island, electing Republicans down the ballot. 
  <p class="updated_time"> 04:00 AM CT, Nov. 08 </p> 
@@ -306,8 +308,6 @@ permalink: /projects/news/
  <a href="https://www.bloomberg.com/news/articles/2021-11-08/japan-premier-picks-china-critic-to-be-adviser-on-human-rights">Japan Premier Picks China Critic to Be Human Rights Adviser</a> Bloomberg: Japanese Prime Minister Fumio Kishida picked a critic of China’s treatment of the Uyghur ethnic group to be his aide for human rights issues, a move that could increase friction between Asia’s two biggest economies. 
  <p class="updated_time"> 11:19 PM CT, Nov. 07 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-08/malaysia-fails-in-bid-to-forfeit-luxury-goods-seized-from-najib">Malaysia Fails in Bid to Forfeit Luxury Goods Seized From Najib</a> Bloomberg: Malaysia’s government failed in its attempt to forfeit luxury items seized from former Prime Minister Najib Razak and his family members. 
- <p class="updated_time"> 11:10 PM CT, Nov. 07 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-08/nicaragua-leader-ortega-hits-back-during-vote-slammed-by-biden">Nicaragua Leader Ortega Hits Back During Vote Slammed by Biden</a> Bloomberg: Nicaraguan leader Daniel Ortega called his opponents “demons” and “terrorists” on Sunday as voting went ahead in an election U.S. President Joe Biden denounced as a farce. 
  <p class="updated_time"> 11:00 PM CT, Nov. 07 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-08/turkey-s-rich-cash-in-as-erdogan-s-war-on-interest-rates-punishes-supporters">Erdogan’s War on Interest Rates Is Making Turkey’s Rich Richer</a> Bloomberg: Widening inequalities threaten the president’s popularity even as economy booms. 
  <p class="updated_time"> 09:55 PM CT, Nov. 07 </p> 
