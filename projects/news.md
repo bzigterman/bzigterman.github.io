@@ -7,16 +7,16 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:07 AM CT, Nov. 08 </p> 
+ <a href="https://www.nytimes.com/2021/11/08/world/europe/europe-us-travel-ban.html">U.S. Travel Ban Ends, and Europeans Head Overseas Again</a> NYT: Europeans were kept apart from family and friends as the ban dragged on long after E.U. leaders had opened their borders. 
  <p class="updated_time"> 06:38 AM CT, Nov. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59205570?at_medium=RSS&at_campaign=KARANGA">Astroworld: Travis Scott and Drake sued over deadly US festival crush</a> BBC: The rapper faces legal action after at least eight people were killed during his Astroworld festival. 
  <p class="updated_time"> 06:25 AM CT, Nov. 08 </p> 
- <a href="https://www.nytimes.com/2021/11/08/world/europe/heathrow-first-flight-us.html">U.S. Travel Ban Ends, and Excited Passengers Board First Flight from London</a> NYT: Long lines formed in Heathrow Airport for the first scheduled trips to the United States since the Biden administration lifted its travel ban. 
+ <a href="https://www.nytimes.com/2021/11/08/world/europe/heathrow-first-flight-us-travel-ban.html">Excited Passengers Board First Flight from Heathrow to the U.S.</a> NYT: Long lines formed in Heathrow Airport for the first scheduled trips to the United States since the Biden administration lifted its travel ban. 
  <p class="updated_time"> 06:08 AM CT, Nov. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59206683?at_medium=RSS&at_campaign=KARANGA">Poland clarifies abortion law after protests over mother’s death</a> BBC: The guidance was issued after a pregnant woman's death was blamed on Poland's strict abortion laws. 
  <p class="updated_time"> 06:07 AM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/world/europe/france-police-officer-stabbed-cannes.html">Police Officer Stabbed on French Riviera, Authorities Say</a> NYT: Gérald Darmanin, France’s interior minister, said an assailant had stabbed an officer in Cannes. The motive for the attack was not immediately clear. 
- <p class="updated_time"> 06:07 AM CT, Nov. 08 </p> 
- <a href="https://www.nytimes.com/2021/11/08/world/europe/europe-us-travel-ban.html">U.S. Travel Ban Ends, and Europeans Head Overseas Again</a> NYT: Europeans were kept apart from family and friends as the ban dragged on long after E.U. leaders had opened their borders. 
  <p class="updated_time"> 06:00 AM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/travel/us-travel-ban-vaccination.html">U.S. Lifts Travel Ban for Vaccinated Foreigners</a> NYT: The change ends more than 18 months of restrictions that left families separated from loved ones and cost the global travel industry hundreds of billions of dollars. 
  <p class="updated_time"> 06:00 AM CT, Nov. 08 </p> 
@@ -218,8 +218,12 @@ permalink: /projects/news/
 
  <p class="updated_time"> 07:20 AM CT, Nov. 08 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/11/08/recess-reverie-plus-huddle-restaurant-week-kicks-off-495014">Recess reverie (plus Huddle Restaurant Week kicks off)</a> Politico: A play-by-play preview of the day&#39;s congressional news 
- <p class="updated_time"> 06:43 AM CT, Nov. 08 </p> 
+ <p class="updated_time"> 07:00 AM CT, Nov. 08 </p> 
+ <a href="https://www.nytimes.com/2021/11/08/arts/08pen-critical-race-theory.html">Report Says Critical Race Theory Bans Threaten Free Speech</a> NYT: The report by PEN America, which surveys more than 50 bills proposed across the country, appeals to a principle that has lost its luster for many on the left and right. 
+ <p class="updated_time"> 06:54 AM CT, Nov. 08 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uTQPN82VZNw/index.html">Obama to take swipe at Trump for 'four years of active hostility' on climate in Glasgow speech</a> CNN: Former President Barack Obama will deliver remarks on Monday at the UN climate conference in Glasgow in a return to the world stage centered around the climate crisis. 
+ <p class="updated_time"> 06:37 AM CT, Nov. 08 </p> 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-08/belarus-says-alleged-u-s-capitol-hill-rioter-is-seeking-asylum">Belarus Says Alleged U.S. Capitol Hill Rioter Is Seeking Asylum</a> Bloomberg: Belarus state TV showcased an interview with an American fugitive wanted by the FBI who it said was seeking asylum over his alleged involvement in the storming of the U.S. Capitol by supporters of then President Donald Trump. 
  <p class="updated_time"> 06:32 AM CT, Nov. 08 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/eH-i_mt_rdY/index.html">Hackers have breached organizations in defense and other sensitive sectors, security firm says</a> CNN: Suspected foreign hackers have breached nine organizations in the defense, energy, health care, technology and education sectors -- and at least one of those organizations is in the US, according to findings that security firm Palo Alto Networks shared exclusively with CNN. 
  <p class="updated_time"> 06:17 AM CT, Nov. 08 </p> 
@@ -239,7 +243,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:57 AM CT, Nov. 08 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-08/poland-ordered-by-top-human-rights-court-to-fix-judicial-system">Poland Ordered by Top Human Rights Court to Fix Judicial System</a> Bloomberg: Poland must quickly end political interference in its judicial system, the European Court of Human Rights ordered in the latest round of a fast-escalating feud between the nation and its western neighbors over the rule of law. 
  <p class="updated_time"> 04:51 AM CT, Nov. 08 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-08/kuwait-cabinet-quits-in-step-toward-ending-political-impasse">Kuwait Cabinet Quits In Step Toward Ending Political Impasse</a> Bloomberg: Kuwait’s government resigned on Monday after less than a year in office, a move aimed at breaking a political deadlock that has blocked fiscal reforms. 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-08/kuwait-cabinet-quits-in-step-toward-ending-political-impasse">Kuwait Cabinet Quits In Step Toward Ending Political Impasse</a> Bloomberg: Kuwait’s government resigned on Monday after less than a year in office and the country’s ruler pardoned a number of opponents in an effort to break a political deadlock that has blocked fiscal reforms and hurt the economy. 
  <p class="updated_time"> 04:31 AM CT, Nov. 08 </p> 
  <a href="https://www.politico.com/news/2021/11/08/voting-rule-democrats-antitrust-519767">‘Zombies’ to the rescue: The arcane voting rule that could save Dems’ antitrust agenda</a> Politico: Former Democratic Commissioner Rohit Chopra left behind more than a dozen motions he wants the Federal Trade Commission to carry out, spawning a debate on whether his votes should still count. 
  <p class="updated_time"> 04:30 AM CT, Nov. 08 </p> 
@@ -304,14 +308,12 @@ permalink: /projects/news/
  <a href="https://www.bloomberg.com/news/articles/2021-11-08/turkey-s-rich-cash-in-as-erdogan-s-war-on-interest-rates-punishes-supporters">Erdogan’s War on Interest Rates Is Making Turkey’s Rich Richer</a> Bloomberg: Widening inequalities threaten the president’s popularity even as economy booms. 
  <p class="updated_time"> 10:07 PM CT, Nov. 07 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-08/new-zealand-s-ardern-says-auckland-on-track-to-exit-lockdown">New Zealand’s Ardern Says Auckland on Track to Exit Lockdown</a> Bloomberg: New Zealand Prime Minister Jacinda Ardern further eased Covid-19 restrictions in Auckland and said the country’s largest city is on track to exit lockdown by the end of the month. 
- <p class="updated_time"> 10:06 PM CT, Nov. 07 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-08/people-you-don-t-know-and-can-t-see-are-close-contacts-in-china">China Deems People Almost a Kilometer Apart as ‘Close Contacts’</a> Bloomberg: The definition of a close contact is getting broader in China, where authorities hunting down every potential Covid-19 infection now consider people who are far away and virtually unknown to each other as potentially at risk. 
  <p class="updated_time"> 09:55 PM CT, Nov. 07 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-08/china-uses-fake-u-s-aircraft-carrier-for-target-practice">China Uses Fake U.S. Aircraft Carrier for Missile Target Practice</a> Bloomberg: The Chinese military is using mock-ups of a U.S. aircraft carrier at a weapons-testing range in a remote western desert, new satellite imagery shows, indicating the People’s Liberation Army is focused on neutralizing a key tool of U.S. power. 
  <p class="updated_time"> 09:47 PM CT, Nov. 07 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-08/plante-wins-re-election-in-montreal-on-housing-police-plan">Plante Wins Second Term in Montreal on Housing, Police Plan</a> Bloomberg: Valerie Plante won a second term as mayor of Montreal, fending off predecessor Denis Coderre’s attempt to climb back to power after a campaign dominated by housing costs, gun violence and transportation issues. 
  <p class="updated_time"> 09:31 PM CT, Nov. 07 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-08/pakistan-lifts-ban-on-radical-group-to-help-end-deadly-protests">Pakistan Lifts Ban on Radical Group to End Deadly Protests</a> Bloomberg: Pakistan lifted a ban on Tehreek-e-Labbaik Pakistan, a radical religious group to end deadly protests by the group, a move which may embolden the country’s hardliners. 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-08/pakistan-lifts-ban-on-radical-group-to-help-end-deadly-protests">Pakistan Lifts Ban on Radical Group to End Protests</a> Bloomberg: Pakistan lifted a ban on Tehreek-e-Labbaik Pakistan to end deadly protests by the radical religious group, a move which may embolden the country’s hardliners. 
  <p class="updated_time"> 08:14 PM CT, Nov. 07 </p> 
  <a href="https://www.politico.com/news/2021/11/07/houston-concert-deaths-mourning-520201">As mourning starts, Houston probes concert deaths</a> Politico: City officials said they were in the early stages of investigating what caused the pandemonium at the sold-out Astroworld festival. 
  <p class="updated_time"> 06:10 PM CT, Nov. 07 </p> 
@@ -327,7 +329,7 @@ permalink: /projects/news/
  <p class="updated_time"> 03:24 PM CT, Nov. 07 </p> 
  <a href="https://www.politico.com/news/2021/11/07/nicaragua-ortega-election-sandinistas-520133">Nicaragua’s Ortega seeks reelection in questioned vote</a> Politico: He blasted the United States for interference in Nicaragua. 
  <p class="updated_time"> 03:00 PM CT, Nov. 07 </p> 
- <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KHemrSyJXcs/index.html">Jayapal on why progressives chose pragmatism: 'We need to keep our eyes on the prize'</a> CNN: The Congressional Progressive Caucus got the White House message -- no more delay. Members embraced a compromise economic package as the best available deal, and accepted private assurances of Senate support. 
+ <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KHemrSyJXcs/index.html">Analysis: Jayapal on why progressives chose pragmatism: 'We need to keep our eyes on the prize'</a> CNN: The Congressional Progressive Caucus got the White House message -- no more delay. Members embraced a compromise economic package as the best available deal, and accepted private assurances of Senate support. 
  <p class="updated_time"> 02:32 PM CT, Nov. 07 </p> 
  <a href="https://www.nytimes.com/2021/11/07/travel/us-travel-ban-reunions.html">As U.S. Travel Changes Near, Global Travelers Eagerly Await Reunions</a> NYT: On Monday, travelers from many other countries who are fully vaccinated against the coronavirus will be allowed to enter the United States. 
  <p class="updated_time"> 02:31 PM CT, Nov. 07 </p> 
@@ -498,8 +500,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/05/house-democrats-infrastructure-vote-wait-megabill-519731">'Whole day was a clusterf---': Dems overcome distrust to send infrastructure bill to Biden</a> Politico: Democratic centrists and progressives reached a detente that cleared the $550 billion bipartisan legislation late Friday night and advanced their social spending package. 
  <p class="updated_time"> 02:35 PM CT, Nov. 05 </p> 
  <a href="https://www.politico.com/news/2021/11/05/house-democrats-infrastructure-vote-wait-megabill-519731">'Whole day was a clusterf---': Dems overcome distrust to send infrastructure bill to Biden</a> Politico: Democratic centrists and progressives reached a detente that cleared the $550 billion bipartisan legislation late Friday night and advanced their social spending package. 
- <p class="updated_time"> 12:18 PM CT, Nov. 05 </p> 
- <a href="https://www.nytimes.com/2021/11/05/business/congress-mckinsey-opioid-crisis.html">Congress Is Investigating McKinsey Over Its Role in the Opioid Crisis</a> NYT: A House committee has requested documents related to the firm’s advice to drug makers and potential conflicts of interest with the F.D.A. 
  <p class="updated_time"> 12:10 PM CT, Nov. 05 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NoM-wzx-7HI/index.html">Biden makes two false claims about Virginia election history </a> CNN: Democrat Terry McAuliffe's hopes of returning as governor of Virginia were dashed Tuesday when Glenn Youngkin became the first Republican to win statewide office in the commonwealth since 2009. Youngkin's victory comes as President Joe Biden's approval ratings have sagged and Democrats have struggled to deliver a clear message. 
  <p class="updated_time"> 11:36 AM CT, Nov. 05 </p> 
