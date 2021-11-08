@@ -48,7 +48,7 @@ permalink: /projects/news/
  <p class="updated_time"> 03:35 PM CT, Nov. 07 </p> 
  <a href="https://www.npr.org/2021/11/07/1053356424/how-did-the-enslaved-workers-of-pompeii-live-a-new-discovery-provides-a-rare-gli">How did the enslaved workers of Pompeii live? A new discovery provides a rare glimpse</a> NPR: Archaeologists working to uncover a wealthy villa on the outskirts of the ancient city have found a dormitory for workers, providing important insight into daily life. 
  <p class="updated_time"> 03:17 PM CT, Nov. 07 </p> 
- <a href="https://www.wsj.com/articles/nicaraguan-president-ortega-expected-to-win-re-election-as-country-veers-into-dictatorship-11636312154">Ortega Expected to Win Re-Election as Nicaragua Veers Into Dictatorship</a> WSJ: President Daniel Ortega is expected to win a fourth consecutive term after he imprisoned seven would-be presidential candidates. The U.S. and European Union have described the elections as a sham. 
+ <a href="https://www.wsj.com/articles/nicaraguan-president-ortega-expected-to-win-re-election-as-country-veers-into-dictatorship-11636312154">Ortega Set to Cement Power in Nicaragua</a> WSJ: President Daniel Ortega is expected to win a fourth consecutive term after he imprisoned seven would-be presidential candidates. The U.S. and European Union have described the elections as a sham. 
  <p class="updated_time"> 02:32 PM CT, Nov. 07 </p> 
  <a href="https://www.nytimes.com/2021/11/07/travel/us-travel-ban-reunions.html">As U.S. Travel Changes Near, Global Travelers Eagerly Await Reunions</a> NYT: On Monday, travelers from many other countries who are fully vaccinated against the coronavirus will be allowed to enter the United States. 
  <p class="updated_time"> 02:25 PM CT, Nov. 07 </p> 
