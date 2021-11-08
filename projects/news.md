@@ -7,10 +7,14 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:47 PM CT, Nov. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59205468?at_medium=RSS&at_campaign=KARANGA">Oscar Pistorius parole process to start in South Africa</a> BBC: The ex-Paralympian will first have to meet the parents of the woman he murdered, Reeva Steenkamp. 
+ <p class="updated_time"> 03:46 PM CT, Nov. 08 </p> 
+ <a href="https://www.nytimes.com/2021/11/08/travel/us-travel-ban-vaccination.html">U.S. Lifts Travel Ban for Vaccinated Foreigners</a> NYT: The change ends more than 18 months of restrictions that left families separated from loved ones and cost the global travel industry hundreds of billions of dollars. 
+ <p class="updated_time"> 03:45 PM CT, Nov. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59210421?at_medium=RSS&at_campaign=KARANGA">Niger classroom fire kills at least 25 schoolchildren</a> BBC: Many other schoolchildren aged five to six are injured during lessons in their straw-hut classrooms. 
  <p class="updated_time"> 03:37 PM CT, Nov. 08 </p> 
  <a href="https://www.npr.org/2021/11/08/1053647220/indigenous-activists-say-the-legacy-of-colonialism-has-limited-their-access-to-c">Indigenous activists say the legacy of colonialism has limited their access to COP-26</a> NPR: Indigenous activists from around the world are in Glasgow for COP26, but say the same legacy of colonialism that has led to climate-related losses has impacted their access to the conference. 
- <p class="updated_time"> 03:32 PM CT, Nov. 08 </p> 
- <a href="https://www.nytimes.com/2021/11/08/travel/us-travel-ban-vaccination.html">U.S. Lifts Travel Ban for Vaccinated Foreigners</a> NYT: The change ends more than 18 months of restrictions that left families separated from loved ones and cost the global travel industry hundreds of billions of dollars. 
  <p class="updated_time"> 03:32 PM CT, Nov. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59205570?at_medium=RSS&at_campaign=KARANGA">Astroworld: Travis Scott and Drake sued over deadly US festival crush</a> BBC: The rapper faces legal action after at least eight people were killed during his Astroworld festival. 
  <p class="updated_time"> 03:24 PM CT, Nov. 08 </p> 
@@ -20,13 +24,13 @@ permalink: /projects/news/
  <p class="updated_time"> 03:20 PM CT, Nov. 08 </p> 
  <a href="https://www.npr.org/2021/11/08/1053647199/facebook-bets-its-future-on-the-metaverse">Facebook bets its future on the metaverse</a> NPR: Facebook has rebranded itself as Meta, banking on the metaverse becoming a significant part of our lives. Not everyone is happy with Facebook taking ownership of a space that has existed for years. 
  <p class="updated_time"> 03:20 PM CT, Nov. 08 </p> 
+ <a href="https://www.npr.org/2021/11/08/1053590168/the-u-s-land-borders-with-mexico-and-canada-have-re-opened-to-vaccinated-individ">The U.S. land borders with Mexico and Canada have re-opened to vaccinated individuals</a> NPR: The business and social impacts and opportunities as the United States re-opens the Southwest border to vaccinated travelers. 
+ <p class="updated_time"> 03:20 PM CT, Nov. 08 </p> 
  <a href="https://www.npr.org/2021/11/08/1053647185/low-income-nations-need-covid-vaccines-rich-countries-have-millions-of-unused-do">Low income nations need COVID vaccines. Rich countries have millions of unused doses</a> NPR: There's been a massive ramp up in production of COVID-19 vaccines. Yet low income nations still aren't getting enough. Analysts say it's because wealthy countries are buying way more than they need. 
  <p class="updated_time"> 03:20 PM CT, Nov. 08 </p> 
  <a href="https://www.npr.org/2021/11/08/1053647178/what-the-u-s-can-learn-from-chinas-response-to-covid-infections">What the U.S. can learn from China's response to COVID infections</a> NPR: While China tries to stamp out COVID-19 infections as soon as they pop up, the U.S. has a much more laissez-faire approach of learning to live with the virus, even if it means a thousand deaths a day. 
  <p class="updated_time"> 03:20 PM CT, Nov. 08 </p> 
  <a href="https://www.npr.org/2021/11/08/1053647157/halfway-through-cop26-heres-what-has-happened-so-far-and-what-lies-ahead">Halfway through COP26, here's what has happened so far and what lies ahead</a> NPR: It's the second and final week of the UN climate conference in Glasgow after a weekend of protests. World leaders are expected to hammer out details on their plans to slow catastrophic global warming. 
- <p class="updated_time"> 03:20 PM CT, Nov. 08 </p> 
- <a href="https://www.npr.org/2021/11/08/1053590168/the-u-s-land-borders-with-mexico-and-canada-have-re-opened-to-vaccinated-individ">The U.S. land borders with Mexico and Canada have re-opened to vaccinated individuals</a> NPR: The business and social impacts and opportunities as the United States re-opens the Southwest border to vaccinated travelers. 
  <p class="updated_time"> 03:06 PM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/world/europe/van-morrison-covid-northern-ireland.html">Northern Ireland’s Health Minister Is Suing Van Morrison Over Covid Criticism</a> NYT: The Belfast-born singer-songwriter has embraced conspiracy theories and criticized restrictions to slow the spread of the coronavirus. Last year, he released a single called “No More Lockdown.” 
  <p class="updated_time"> 03:02 PM CT, Nov. 08 </p> 
@@ -73,8 +77,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59206825?at_medium=RSS&at_campaign=KARANGA">Nagaenthran Dharmalingam: Singapore halts execution of man with low IQ</a> BBC: Nagaenthran Dharmalingam was due to be hanged for trying to bring a small amount of drugs into Singapore. 
  <p class="updated_time"> 07:56 AM CT, Nov. 08 </p> 
  <a href="https://www.bbc.co.uk/news/uk-59210335?at_medium=RSS&at_campaign=KARANGA">Venus Williams: 'It's important people continue to break barriers'</a> BBC: The tennis star tells 5 Live's Rick Edwards she hopes future generations don't have to focus "on the colour of their skin". 
- <p class="updated_time"> 07:31 AM CT, Nov. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59205468?at_medium=RSS&at_campaign=KARANGA">Oscar Pistorius parole process to start in South Africa</a> BBC: The ex-Paralympian will first have to meet the parents of the woman he murdered, Reeva Steenkamp. 
  <p class="updated_time"> 07:29 AM CT, Nov. 08 </p> 
  <a href="https://www.bbc.co.uk/news/technology-59206549?at_medium=RSS&at_campaign=KARANGA">TikTok: Missing girl found after using viral call for help sign</a> BBC: The hand gesture asking for help led to the rescue of a missing teenager in the US. 
  <p class="updated_time"> 07:20 AM CT, Nov. 08 </p> 
@@ -103,8 +105,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/08/world/europe/romania-covid-vaccine-refusal.html">In Romania, Hard-Hit by Covid, Doctors Fight Vaccine Refusal</a> NYT: An anti-vaccine clarion call by leading religious figures, echoed by prominent politicians and social media, helps explain why Romania now has the world’s highest Covid death rate. 
  <p class="updated_time"> 04:00 AM CT, Nov. 08 </p> 
  <a href="https://www.wsj.com/articles/cubas-dissidents-dig-in-despite-government-crackdown-11636383600">Cuba's Dissidents Dig In Despite Government Crackdown</a> WSJ: Activists, artists and professionals challenge the Communist regime even as hundreds of protesters face contempt, sedition and sabotage charges. 
- <p class="updated_time"> 03:24 AM CT, Nov. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-59202881?at_medium=RSS&at_campaign=KARANGA">Nicaragua vote: Ortega tightens grip on power in 'pantomime election'</a> BBC: Preliminary results suggest an overwhelming win for Mr Ortega in polls widely dismissed as a "farce". 
  <p class="updated_time"> 01:00 AM CT, Nov. 08 </p> 
  <a href="https://www.wsj.com/articles/chinas-economy-faces-risk-of-yearslong-real-estate-hangover-11636372801">China's Economy Faces Risk of Yearslong Real-Estate Hangover</a> WSJ: China’s aggressive campaign to root out speculative real-estate activity could slow the country’s growth rate for years to come, economists say, even if a major housing correction is averted. 
  <p class="updated_time"> 12:40 AM CT, Nov. 08 </p> 
@@ -207,8 +207,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/05/world/middleeast/erdogan-turkey-cop26.html">As Turkey Chafes at Erdogan, He Gets Spikier Abroad</a> NYT: President Recep Tayyip Erdogan canceled an appearance at the global climate talks over a perceived slight, part of a pattern of creating international dramas to bolster his domestic standing. 
  <p class="updated_time"> 10:37 AM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/05/world/europe/shortages-german-economic-growth.html">Germany's Economy Hindered by Supply Chain Problems </a> NYT: The order books in Europe’s largest economy are full, but a lack of parts and raw materials means companies are struggling to fill them. 
- <p class="updated_time"> 09:28 AM CT, Nov. 05 </p> 
- <a href="https://www.nytimes.com/2021/11/05/world/europe/vienna-vaccinate-young-children.html">Vienna Will Start to Vaccinate Young Children</a> NYT: Pediatricians in the Austrian capital will authorize the off-label use of the BioNTech-Pfizer vaccine for children starting next Friday. 
  <p class="updated_time"> 05:26 AM CT, Nov. 04 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-56901261?at_medium=RSS&at_campaign=KARANGA">COP26: What is the Glasgow climate conference and why is it important?</a> BBC: A crucial climate change summit is being held in the UK - this is why it's important. 
  <p class="updated_time"> 11:30 AM CT, Nov. 03 </p> 
@@ -223,15 +221,15 @@ permalink: /projects/news/
  <p class="updated_time"> 04:01 PM CT, Nov. 08 </p> 
  <a href="https://www.politico.com/news/2021/11/08/justices-narrow-ruling-mosque-surveillance-520312">Justices seek narrow ruling in mosque surveillance case</a> Politico: A suit from post-9/11 snooping on a California Muslim congregations raises questions about the scope of the Foreign Intelligence Surveillance Act. 
  <p class="updated_time"> 03:46 PM CT, Nov. 08 </p> 
+ <a href="https://www.nytimes.com/2021/11/08/travel/us-travel-ban-vaccination.html">U.S. Lifts Travel Ban for Vaccinated Foreigners</a> NYT: The change ends more than 18 months of restrictions that left families separated from loved ones and cost the global travel industry hundreds of billions of dollars. 
+ <p class="updated_time"> 03:46 PM CT, Nov. 08 </p> 
  <a href="https://www.politico.com/news/2021/11/08/jan-6-committee-subpoenas-trump-allies-520315">Jan. 6 committee subpoenas Trump allies linked to D.C. 'war room'</a> Politico: The latest batch targets a mix of people who worked on Donald Trump’s campaign and others who strategized how to overturn election results from the outside. 
  <p class="updated_time"> 03:37 PM CT, Nov. 08 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jpJpF5B53u0/index.html">January 6 committee issues 6 subpoenas to top Trump campaign associates, including Michael Flynn and John Eastman</a> CNN: The House select committee investigating the deadly January 6 riot on Capitol Hill announced Monday it is issuing six additional subpoenas to top Trump campaign associates as it continues to seek testimony and documents from key witnesses in the sweeping probe. 
- <p class="updated_time"> 03:32 PM CT, Nov. 08 </p> 
- <a href="https://www.nytimes.com/2021/11/08/travel/us-travel-ban-vaccination.html">U.S. Lifts Travel Ban for Vaccinated Foreigners</a> NYT: The change ends more than 18 months of restrictions that left families separated from loved ones and cost the global travel industry hundreds of billions of dollars. 
  <p class="updated_time"> 03:29 PM CT, Nov. 08 </p> 
  <a href="https://www.washingtonpost.com/politics/2021/11/08/unique-role-fox-news-misinformation-universe/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">The unique role of Fox News in the misinformation universe</a> WaPo: No other network has the same level of trust among those who embrace false claims. 
  <p class="updated_time"> 03:25 PM CT, Nov. 08 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-08/biden-hails-bucks-for-championship-vaccine-outreach-and-protest">Biden Hails Milwaukee Bucks for Championship, Vaccine Outreach and Protest</a> Bloomberg: President Joe Biden hosted the NBA champion Milwaukee Bucks at the White House on Monday, thanking the team for encouraging coronavirus vaccinations and for protesting the local police shooting of a Black man, Jacob Blake. 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-08/biden-hails-bucks-for-championship-vaccine-outreach-and-protest">Biden Hails Bucks in First NBA White House Visit in Five Years</a> Bloomberg: President Joe Biden hosted the NBA champion Milwaukee Bucks at the White House on Monday, thanking the team for encouraging coronavirus vaccinations and for protesting the local police shooting of a Black man, Jacob Blake. 
  <p class="updated_time"> 03:21 PM CT, Nov. 08 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xvEt_dcR3k8/index.html">Biden honors NBA champs Milwaukee Bucks at the White House</a> CNN: President Joe Biden honored the NBA champion Milwaukee Bucks at a White House ceremony on Monday, marking the first visit to 1600 Pennsylvania Avenue by an NBA championship-winning team since 2016. 
  <p class="updated_time"> 03:21 PM CT, Nov. 08 </p> 
