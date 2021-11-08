@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:27 PM CT, Nov. 08 </p> 
+ <a href="https://www.nytimes.com/2021/11/08/world/africa/oscar-pistorius-bladerunner-parole.html">Oscar Pistorius, Olympic Runner Convicted of Murder, Is Up for Parole</a> NYT: The double-amputee sprinter has served half his sentence for killing his girlfriend. His victim’s parents were said to be “shocked” at the prospect of his release. 
+ <p class="updated_time"> 02:26 PM CT, Nov. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59206685?at_medium=RSS&at_campaign=KARANGA">Poland blocks hundreds of migrants at Belarus border</a> BBC: Poland has accused Belarus of encouraging people to enter the country illegally. 
  <p class="updated_time"> 02:15 PM CT, Nov. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59205570?at_medium=RSS&at_campaign=KARANGA">Astroworld: Travis Scott and Drake sued over deadly US festival crush</a> BBC: The rapper faces legal action after at least eight people were killed during his Astroworld festival. 
  <p class="updated_time"> 02:11 PM CT, Nov. 08 </p> 
@@ -33,8 +37,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-59205372?at_medium=RSS&at_campaign=KARANGA">Sierra Leone tanker explosion: Mass burial in Freetown</a> BBC: Many of the victims were burnt beyond recognition after fuel leaked and caught fire on Friday. 
  <p class="updated_time"> 11:46 AM CT, Nov. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59205765?at_medium=RSS&at_campaign=KARANGA">Yemeni model jailed for indecency by rebel authorities</a> BBC: Human rights activists say the trial of Intisar al-Hammadi by Houthi authorities was unfair. 
- <p class="updated_time"> 11:26 AM CT, Nov. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59206685?at_medium=RSS&at_campaign=KARANGA">Poland fears major breach by migrants on Belarus border</a> BBC: Thousands of troops patrol the border, where migrants have tried to enter Poland from Belarus. 
  <p class="updated_time"> 10:44 AM CT, Nov. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59210417?at_medium=RSS&at_campaign=KARANGA">Satellite images appear to show mock-up US warships in China desert</a> BBC: Satellite photos appear to show the outlines of full-scale vessels, including an aircraft carrier. 
  <p class="updated_time"> 10:41 AM CT, Nov. 08 </p> 
@@ -174,8 +176,6 @@ permalink: /projects/news/
  <p class="updated_time"> 10:22 AM CT, Nov. 06 </p> 
  <a href="https://www.nytimes.com/2021/11/06/world/europe/spain-plane-passengers-escape.html">Spanish Police Seek Missing Plane Passengers After Emergency Landing</a> NYT: More than 20 people fled a Moroccan flight that diverted to Mallorca after a passenger apparently fell ill. A dozen had yet to be found. 
  <p class="updated_time"> 09:53 AM CT, Nov. 06 </p> 
- <a href="https://www.nytimes.com/2021/11/05/world/europe/cop26-mothers-pollution.html">Mothers Demand Action on Air Pollution at COP26</a> NYT: A letter to world leaders gathered at the U.N. climate conference in Glasgow was signed by nearly 500 parent groups from 44 countries. 
- <p class="updated_time"> 09:53 AM CT, Nov. 06 </p> 
  <a href="https://www.nytimes.com/2021/11/05/climate/cop26-vanessa-nakate.html">Vanessa Nakate, Ugandan Climate Activist, Offers an Optimistic Vision</a> NYT: The 24-year-old from Uganda has emerged as a leading voice of young people agitating for climate action. 
  <p class="updated_time"> 09:53 AM CT, Nov. 06 </p> 
  <a href="https://www.nytimes.com/2021/11/05/world/europe/cop26-greta-thunberg.html">Greta Thunberg Assails Leaders Outside COP26 Climate Summit</a> NYT: “The governments of the global north countries are still refusing to take any drastic climate action,” she told protesters in Glasgow. 
@@ -218,6 +218,10 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:32 PM CT, Nov. 08 </p> 
+ <a href="https://www.nytimes.com/2021/11/08/us/politics/democrats-budget-bill-cuts-infrastructure.html">On Chicago’s West Side, Urgent Needs Collide With Washington Compromises</a> NYT: Activists say the needs of struggling communities in Chicago and elsewhere vastly exceed the billions Congress is spending. 
+ <p class="updated_time"> 02:22 PM CT, Nov. 08 </p> 
+ <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/O3tKG3pCKP4/index.html">US Capitol rioter who fled to Belarus says he may seek asylum there</a> CNN: A California man who is wanted by the FBI for allegedly assaulting police officers during the US Capitol insurrection says he is considering seeking asylum in Belarus because he is the target of "political persecution," according to Belarus state television. 
  <p class="updated_time"> 02:15 PM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/us/politics/jill-biden-surgeon-general-vaccinations-schools.html">Jill Biden and the Surgeon General Push for Covid Shots in Schools</a> NYT: The Biden administration is evoking the campaign against polio in the 1950s as it seeks to vaccinate 28 million young children against the coronavirus. 
  <p class="updated_time"> 02:13 PM CT, Nov. 08 </p> 
@@ -226,6 +230,10 @@ permalink: /projects/news/
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DElB6sGwR-I/index.html">Jill Biden pays tribute to one of America's most iconic first ladies</a> CNN: As the season changed from summer to fall, first lady Jill Biden has found a spot to sit outside at the White House to grade her students' essays. 
  <p class="updated_time"> 02:11 PM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/travel/us-travel-ban-vaccination.html">U.S. Lifts Travel Ban for Vaccinated Foreigners</a> NYT: The change ends more than 18 months of restrictions that left families separated from loved ones and cost the global travel industry hundreds of billions of dollars. 
+ <p class="updated_time"> 02:08 PM CT, Nov. 08 </p> 
+ <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zyOWU6zm7vo/index.html">Biden administration will waive immigration application fees for thousands of evacuated Afghans </a> CNN: The Biden administration is planning to waive immigration-related fees for up to 70,000 Afghan evacuees as they are resettled in the United States, the Department of Homeland Security said Monday. 
+ <p class="updated_time"> 02:08 PM CT, Nov. 08 </p> 
+ <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/b4XB1_3IcFE/index.html">McConnell: 2022 midterms 'will be about the future, not about the past'</a> CNN: Senate Minority Leader Mitch McConnell encouraged Republicans to focus on the future, after he was asked Monday if he thinks the right playbook for Republicans in the midterms is to keep former President Donald Trump at arm's length -- similar to how Virginia Gov.-elect Glenn Youngkin did in his race, which he won last week. 
  <p class="updated_time"> 01:56 PM CT, Nov. 08 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-08/bolsonaro-says-he-s-ready-to-join-liberal-party-before-2022-vote">Bolsonaro Says He’s Ready to Join Liberal Party Before 2022 Vote</a> Bloomberg: President Jair Bolsonaro is ready to join Brazil’s Liberal Party to run for re-election in 2022, according to CNN Brasil. 
  <p class="updated_time"> 01:55 PM CT, Nov. 08 </p> 
@@ -438,8 +446,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/06/1053239109/rep-pramila-jayapal-on-what-led-her-to-throw-support-behind-infrastructure-bill">Rep. Pramila Jayapal on what led her to throw support behind infrastructure bill</a> NPR: NPR's Michel Martin speaks with Rep. Pramila Jayapal, D-Wash., chair of the Congressional Progressive Caucus, about the passage of the $1.2 trillion infrastructure bill. 
  <p class="updated_time"> 04:17 PM CT, Nov. 06 </p> 
  <a href="https://www.npr.org/2021/11/06/1053239102/how-the-house-passed-the-1-trillion-infrastructure-plan">How the House passed the $1 trillion infrastructure plan</a> NPR: The House of Representatives passed a trillion dollar infrastructure bill Friday, delivering President Biden a major legislative victory after months of negotiation with his own party. 
- <p class="updated_time"> 02:21 PM CT, Nov. 06 </p> 
- <a href="https://www.nytimes.com/2021/11/05/us/politics/guantanamo-torture-foia-cia.html">Some Sept. 11 Trial Secrets May Not Be Secrets Anymore</a> NYT: Prosecutors agreed to compare hundreds if not thousands of pages of classified documents in the case against 9/11 defendants with material released under the Freedom of Information Act. 
  <p class="updated_time"> 02:12 PM CT, Nov. 06 </p> 
  <a href="https://www.politico.com/news/2021/11/06/biden-vaccine-order-blocked-federal-court-519908">Federal court blocks Biden administration's vaccination mandate</a> Politico: The states of Texas, Louisiana, Mississippi, South Carolina and Utah are among the plaintiffs. 
  <p class="updated_time"> 12:54 PM CT, Nov. 06 </p> 
@@ -482,8 +488,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/05/us/politics/jeffrey-clark-capitol-riot-committee.html">Trump Justice Dept. Official Defies Request by Jan. 6 Panel</a> NYT: Jeffrey Clark, who aided in the former president’s efforts to overturn the election, appeared before the committee but would not answer substantive questions. 
  <p class="updated_time"> 05:22 PM CT, Nov. 05 </p> 
  <a href="https://www.politico.com/news/2021/11/05/trump-deal-moderna-global-vaccine-effort-519771">How Trump’s deal with Moderna hampers the global vaccine effort</a> Politico: Operation Warp Speed poured billions into Moderna and agreed not to share its vaccines abroad. Now the company is holding up the race to vaccinate low-income countries. 
- <p class="updated_time"> 05:15 PM CT, Nov. 05 </p> 
- <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/GGxOTUDjPq8/index.html">State Department establishes task force on Ethiopia as conflict rages</a> CNN: The State Department has established a new task force to oversee its "planning, management and logistics related to events in Ethiopia," a spokesperson confirmed Friday. 
  <p class="updated_time"> 03:34 PM CT, Nov. 05 </p> 
  <a href="https://www.politico.com/news/2021/11/05/pentagon-biden-nuclear-weapons-519738">Pentagon bearing down on Biden to shelve nuclear reforms</a> Politico: The president has pledged to narrow the role of atomic weapons. But others cite China to argue for the status quo. 
  <p class="updated_time"> 02:35 PM CT, Nov. 05 </p> 
@@ -498,8 +502,6 @@ permalink: /projects/news/
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-YLyvPCSt34/index.html">Biden says his plans are working after October jobs report beats expectations</a> CNN: President Joe Biden touted the progress the US is making in recovering from the coronavirus pandemic, and cited his economic agenda as the reason, after the jobs recovery gathered some steam last month and employers added 531,000 positions in October. 
  <p class="updated_time"> 11:31 AM CT, Nov. 05 </p> 
  <a href="https://www.politico.com/news/2021/11/05/jeffrey-clark-doj-hill-deposition-519703">Trump DOJ official who aided effort to overturn election declines to answer Jan. 6 questions</a> Politico: The chair of the Hill select panel probing the Capitol riot said a contempt of Congress referral for Jeffrey Clark is "on the table." 
- <p class="updated_time"> 11:19 AM CT, Nov. 05 </p> 
- <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OlmWZ6c6Dpg/index.html">The moment has come for Biden and Pelosi to close the deal on his sweeping agenda</a> CNN: In the wake of jarring election results in several states on Tuesday, the one thing Democrats appeared to agree on was that they needed action in Congress. 
  <p class="updated_time"> 09:51 AM CT, Nov. 05 </p> 
  <a href="https://www.politico.com/news/2021/11/05/biden-gun-violence-legislation-519625">Gun control legislation isn’t going to happen. Here’s what Biden’s doing instead.</a> Politico: As president, Biden has promised billions of dollars in funding for community violence intervention, programs that have been shown to break cycles of violence. 
  <p class="updated_time"> 09:09 AM CT, Nov. 05 </p> 
@@ -516,8 +518,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/05/kyrsten-sinema-multi-level-marketing-labor-519661">Sinema’s raking in cash from MLMs. They want to kill her party’s labor bill.</a> Politico: The Arizona senator is one of just a few lawmakers that multilevel marketing businesses —often derided as pyramid schemes — are giving to. 
  <p class="updated_time"> 03:30 AM CT, Nov. 05 </p> 
  <a href="https://www.politico.com/news/2021/11/05/kyrsten-sinema-multi-level-marketing-labor-519661">Sinema’s raking in cash from MLMs. They want to kill her party’s labor bill.</a> Politico: The Arizona senator is one of just a few lawmakers that multilevel marketing businesses —often derided as pyramid schemes — are giving to. 
- <p class="updated_time"> 11:06 PM CT, Nov. 04 </p> 
- <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/saiDwUFdgZA/index.html">January 6 committee acts on multiple fronts in a race against time </a> CNN: The House probe into the Capitol insurrection is making its most significant strides yet in gaining understanding of Donald Trump's behind-the-scenes maneuvering before and during his coup attempt against American democracy. 
  <p class="updated_time"> 09:53 PM CT, Nov. 04 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wWowbq_f1JA/index.html">Deposition video shows Trump allies under oath discussing debunked election fraud claims</a> CNN: Allies of former President Donald Trump testified under oath that they had done little to verify debunked claims of fraud in the 2020 election before spreading them on the national stage, according to tapes of their depositions obtained exclusively by CNN. 
  <p class="updated_time"> 05:12 PM CT, Nov. 04 </p> 
