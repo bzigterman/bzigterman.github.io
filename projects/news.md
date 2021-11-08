@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:53 PM CT, Nov. 07 </p> 
+ <p class="updated_time"> 11:02 PM CT, Nov. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59199831?at_medium=RSS&at_campaign=KARANGA">Astroworld: Victims named as police probe US festival crush</a> BBC: Family and friends pay tribute to those who died at Travis Scott's Astroworld festival in Houston. 
  <p class="updated_time"> 07:25 PM CT, Nov. 07 </p> 
  <a href="https://www.nytimes.com/2021/11/07/world/americas/nicaragua-election-ortega.html">In Nicaragua Election, Ortega Crushes Dissent</a> NYT: President Daniel Ortega quashed the opposition and struck fear in voters, all but guaranteeing his victory in a presidential contest on Sunday. 
@@ -179,8 +179,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/05/world/europe/cop-protests.html">At COP26, Youth Want Action, Accountability as Protesters Rally</a> NYT: For many, the climate conference has inspired mixed emotions: concern that their voices were not really being listened to, but also hope that their presence would help drive change. 
  <p class="updated_time"> 12:47 PM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/05/world/middleeast/erdogan-turkey-cop26.html">As Turkey Chafes at Erdogan, He Gets Spikier Abroad</a> NYT: President Recep Tayyip Erdogan canceled an appearance at the global climate talks over a perceived slight, part of a pattern of creating international dramas to bolster his domestic standing. 
- <p class="updated_time"> 11:17 AM CT, Nov. 05 </p> 
- <a href="https://www.nytimes.com/2021/11/04/world/europe/brexit-britain-france-johnson-macron.html">With Fish, Trucks and Submarines, U.K. and France Bicker Over Brexit</a> NYT: A recent dispute over fishing rights illuminates a broader and more fundamental disagreement over Britain’s decision to leave the European Union. 
  <p class="updated_time"> 10:37 AM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/05/world/europe/shortages-german-economic-growth.html">Germany's Economy Hindered by Supply Chain Problems </a> NYT: The order books in Europe’s largest economy are full, but a lack of parts and raw materials means companies are struggling to fill them. 
  <p class="updated_time"> 09:29 AM CT, Nov. 05 </p> 
