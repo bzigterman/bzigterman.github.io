@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:51 AM CT, Nov. 08 </p> 
+ <p class="updated_time"> 09:04 AM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/world/middleeast/nso-israel-palestinians-spyware.html">Palestinians Were Targeted by Israeli Firm’s Spyware, Experts Say</a> NYT: The hacking renewed scrutiny of the relationship between the Israeli government and the NSO Group, a surveillance company blacklisted by the United States. 
  <p class="updated_time"> 08:45 AM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/world/asia/new-zealand-ease-lockdown-restrictions.html">New Zealand's Biggest City Is to Ease Lockdown Restrictions</a> NYT: The lifting of rules comes as the country records some of its highest daily case numbers since the pandemic began. 
@@ -218,6 +218,14 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/08/satellite-china-us-warships-520271">Satellite images show China built mock-ups of U.S. warships</a> Politico: The images captured show the outlines of a U.S. aircraft carrier and at least one destroyer sitting on a railway track. 
  <p class="updated_time"> 09:25 AM CT, Nov. 08 </p> 
  <a href="https://www.politico.com/news/2021/11/08/obama-hits-russia-china-for-absence-of-urgency-on-climate-520270">Obama hits Russia, China for 'absence of urgency' on climate</a> Politico: The former president's appearance on the sidelines of the talks is meant to remind governments of the elation that surrounded the striking of the Paris accord. 
+ <p class="updated_time"> 09:11 AM CT, Nov. 08 </p> 
+ <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9p9GkYhH3_M/index.html">US seizes $6 million in ransom payments and expected to charge Ukrainian over major cyberattack </a> CNN: Law enforcement officials have seized an estimated $6 million in ransom payments, and the US Justice Department is expected to announce Monday that it has charged a suspect from Ukraine over a damaging July ransomware attack on an American company in a breakthrough for the Biden administration's pursuit of cybercriminals, CNN has learned. 
+ <p class="updated_time"> 09:05 AM CT, Nov. 08 </p> 
+ <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uTQPN82VZNw/index.html">Obama swipes at Trump for 'four years of active hostility' on climate in Glasgow speech</a> CNN: Former President Barack Obama will deliver remarks on Monday at the UN climate conference in Glasgow in a return to the world stage centered around the climate crisis. 
+ <p class="updated_time"> 08:54 AM CT, Nov. 08 </p> 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-08/murphy-campaign-urges-ciattarelli-to-concede-n-j-governor-race">Murphy Campaign Urges Ciattarelli to Concede N.J. Governor Race</a> Bloomberg: New Jersey Governor Phil Murphy’s campaign manager on Monday urged Republican candidate Jack Ciattarelli to concede, saying in a statement that “the race is over.” 
+ <p class="updated_time"> 08:53 AM CT, Nov. 08 </p> 
+ <a href="https://www.washingtonpost.com/world/europe/capitol-rioter-asylum-belarus/2021/11/08/fbc4eb14-4093-11ec-9404-50a28a88b9cd_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Capitol rioter Evan Neumann applies for asylum in Belarus, says local media</a> WaPo: Neumann was presented by local media as someone who was persecuted for questioning election results. 
  <p class="updated_time"> 08:52 AM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/us/politics/jill-biden-surgeon-general-vaccinations-schools.html">Jill Biden and the Surgeon General are Pushing for Covid Shots in Schools</a> NYT: The Biden administration is evoking the campaign against polio in the 1950s as it seeks to vaccinate 28 million young children against the coronavirus. 
  <p class="updated_time"> 08:18 AM CT, Nov. 08 </p> 
@@ -228,6 +236,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/08/travel/us-travel-ban-vaccination.html">U.S. Lifts Travel Ban for Vaccinated Foreigners</a> NYT: The change ends more than 18 months of restrictions that left families separated from loved ones and cost the global travel industry hundreds of billions of dollars. 
  <p class="updated_time"> 08:08 AM CT, Nov. 08 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-08/no-johnson-apology-as-lobbying-furor-engulfs-his-u-k-government">No Johnson Apology as Lobbying Furor Engulfs His U.K. Government</a> Bloomberg: Boris Johnson declined to apologize over his attempt to protect a ruling U.K. Conservative Party lawmaker who broke lobbying rules, even with his government still battling to contain the fallout. 
+ <p class="updated_time"> 07:51 AM CT, Nov. 08 </p> 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-08/speculators-may-face-life-in-jail-as-prices-surge-in-algeria">Speculators May Face Life in Jail as Prices Surge in Algeria</a> Bloomberg: Algerian lawmakers are considering legislation that could punish speculation in food and medical equipment with up to life in jail, as a surge in prices threatens to inflame a country roiled by anti-government protests for two years. 
  <p class="updated_time"> 07:40 AM CT, Nov. 08 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-08/u-k-triggering-article-16-would-be-reckless-irish-pm-warns">U.K. Triggering Article 16 Would Be Reckless, Irish PM Warns</a> Bloomberg: The U.K. would be be “reckless and irresponsible” if it were to move to set aside parts of the Brexit agreement, Ireland’s prime minister said, amid growing speculation the British government is preparing to do just that. 
  <p class="updated_time"> 07:35 AM CT, Nov. 08 </p> 
@@ -240,8 +250,6 @@ permalink: /projects/news/
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OUBqqbrBKnU/index.html">Biden seeks rebound as he basks in huge political victory </a> CNN: President Joe Biden's soon-to-be-signed $1 trillion infrastructure legislation is a direly needed political win and a vindication of his entire creed of politics. But on its own, it is unlikely to rescue a wobbling presidency as midterm elections loom. 
  <p class="updated_time"> 07:11 AM CT, Nov. 08 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-08/norway-s-new-government-to-cut-power-levies-raise-wealth-tax">Norway’s New Government to Cut Power Levies, Raise Wealth Tax</a> Bloomberg: Norway’s new government is proposing to cut electricity charges to protect households from the effects of the energy crisis, while raising taxes on the wealthy, as it makes changes to a 2022 budget drafted by its predecessors. 
- <p class="updated_time"> 06:54 AM CT, Nov. 08 </p> 
- <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uTQPN82VZNw/index.html">Obama to take swipe at Trump for 'four years of active hostility' on climate in Glasgow speech</a> CNN: Former President Barack Obama will deliver remarks on Monday at the UN climate conference in Glasgow in a return to the world stage centered around the climate crisis. 
  <p class="updated_time"> 06:37 AM CT, Nov. 08 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-08/belarus-says-alleged-u-s-capitol-hill-rioter-is-seeking-asylum">Belarus Says Alleged U.S. Capitol Hill Rioter Is Seeking Asylum</a> Bloomberg: Belarus state TV showcased an interview with an American fugitive wanted by the FBI who it said was seeking asylum over his alleged involvement in the storming of the U.S. Capitol by supporters of then President Donald Trump. 
  <p class="updated_time"> 06:32 AM CT, Nov. 08 </p> 
@@ -308,10 +316,6 @@ permalink: /projects/news/
  <a href="https://www.bloomberg.com/news/articles/2021-11-08/chinese-firm-seeks-damages-from-sri-lanka-in-fertilizer-dispute">Chinese Firm Seeks Damages From Sri Lanka in Fertilizer Dispute</a> Bloomberg: A Chinese company is seeking damages from a Sri Lankan government agency for rejecting a shipment of organic fertilizer found to have pathogens in an ongoing dispute that could test Colombo’s relationship with Beijing. 
  <p class="updated_time"> 01:00 AM CT, Nov. 08 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-08/biden-takes-case-to-voters-with-public-works-as-exit-from-slump">Biden Takes Case to Voters With Public Works as Exit From Slump</a> Bloomberg: President Joe Biden and his party notched a huge economic victory late Friday with passage of a bipartisan public works bill. Now he seeks to sell Americans on the merits of $550 billion in new spending even as they face rising prices for fuel, food and housing. 
- <p class="updated_time"> 01:00 AM CT, Nov. 08 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-08/pentagon-swoops-in-to-buy-last-of-kind-chips-for-b-2-destroyer">Pentagon Swoops In to Buy Last-of-Kind Chips for B-2, Destroyer</a> Bloomberg: The Pentagon plans to place as much as $2 billion in rush orders by early March for customized semiconductors used in weapons like the B-2 bomber before the production line for them is shut down. 
- <p class="updated_time"> 12:40 AM CT, Nov. 08 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-08/danish-prime-minister-says-new-virus-restrictions-are-needed">Danish Prime Minister Says New Virus Restrictions Are Needed</a> Bloomberg: Denmark, which has one of the highest vaccination rates in the world, will probably need to re-introduce some restrictions after the number of virus infections has jumped, the prime minister said. 
  <p class="updated_time"> 11:43 PM CT, Nov. 07 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-08/japan-premier-picks-china-critic-to-be-adviser-on-human-rights">Japan Premier Picks China Critic to Be Human Rights Adviser</a> Bloomberg: Japanese Prime Minister Fumio Kishida picked a critic of China’s treatment of the Uyghur ethnic group to be his aide for human rights issues, a move that could increase friction between Asia’s two biggest economies. 
  <p class="updated_time"> 11:10 PM CT, Nov. 07 </p> 
@@ -362,8 +366,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/07/rick-scott-republicans-trump-support-520055">Rick Scott to GOP hopefuls: Get Trump’s support, but go beyond that</a> Politico: The head of the National Republican Senatorial Committee also said the committee will back all incumbents, whether Trump likes them or not. 
  <p class="updated_time"> 12:39 PM CT, Nov. 07 </p> 
  <a href="https://www.politico.com/news/2021/11/07/election-voters-message-action-klain-520042">'Voters sent a message on Tuesday' for more action, Klain says</a> Politico: “In my opinion,” he said, “it’s been a rough and tough year.” 
- <p class="updated_time"> 11:30 AM CT, Nov. 07 </p> 
- <a href="https://www.politico.com/news/2021/11/07/payments-families-border-richmond-520027">Payments to families separated at border are ‘for the Department of Justice to decide,’ W.H. adviser says</a> Politico: “I want to be clear about this: We do not tell the Department of Justice what to do,” Cedric Richmond said. 
  <p class="updated_time"> 11:17 AM CT, Nov. 07 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/07/what-happens-in-vegas-495006">POLITICO Playbook: What happens in Vegas …</a> Politico: And a court temporarily blocks Biden’s vaccine mandate. 
  <p class="updated_time"> 10:27 AM CT, Nov. 07 </p> 
@@ -376,8 +378,6 @@ permalink: /projects/news/
  <a href="https://www.washingtonpost.com/politics/biden-trump-infrastructure-afghanistan/2021/11/07/7c7a5534-3f34-11ec-8ee9-4f14a26749d1_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Biden gets his ‘infrastructure week,’ crossing another goal off Trump’s to-do list</a> WaPo: While the president has spent much of his first months in office seeking to undo the legacy of his predecessor, the passage of a massive spending bill and the withdrawal from Afghanistan mark two policy goals the two shared — but only one achieved. 
  <p class="updated_time"> 09:00 AM CT, Nov. 07 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/yZD5Wl5TMe8/index.html">Analysis: 2021 shows Republicans shouldn't fear high voter turnout</a> CNN: The Republican Party did very well on Tuesday. Beyond its win in the Virginia gubernatorial election, it came quite close to capturing the New Jersey governor's mansion. 
- <p class="updated_time"> 07:27 AM CT, Nov. 07 </p> 
- <a href="https://www.politico.com/news/2021/11/07/iraq-failed-assassination-attempt-519973">Failed assassination bid against Iraq PM ramps up tension</a> Politico: “Cowardly rocket and drone attacks don’t build homelands and don’t build a future,” the prime minister said. 
  <p class="updated_time"> 07:10 AM CT, Nov. 07 </p> 
  <a href="https://www.npr.org/2021/11/07/1053326463/polling-institute-director-says-it-may-be-time-to-get-rid-of-election-polls">Polling Institute director says it may be time to get rid of election polls</a> NPR: Danielle Kurtzleben speaks with Patrick Murray, director of the Polling Institute at Monmouth University, about the future of election polls after their recent failures to predict results. 
  <p class="updated_time"> 07:03 AM CT, Nov. 07 </p> 
@@ -418,8 +418,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/06/1053216909/transportation-secretary-pete-buttigieg-on-what-to-expect-from-infrastructure-pl">Transportation Secretary Pete Buttigieg on what to expect from infrastructure plan</a> NPR: NPR's Scott Simon talks with Transportation Secretary Pete Buttigieg about the $1 trillion infrastructure bill passed by the House and headed for President Biden's signature. 
  <p class="updated_time"> 12:54 PM CT, Nov. 06 </p> 
  <a href="https://www.nytimes.com/2021/11/06/us/politics/military-jury-cia-torture.html">Foreman Says Military Jury Was Disgusted by C.I.A. Torture</a> NYT: A Navy captain whose letter recommended clemency for a Qaeda terrorist drafted the damning two-page document in 20 minutes. 
- <p class="updated_time"> 12:48 PM CT, Nov. 06 </p> 
- <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/G8WxaXYsnXA/index.html">Republican Ed Durr will defeat New Jersey's Senate president, CNN projects</a> CNN: Republican Ed Durr will defeat Democratic state Sen. Steve Sweeney, the Senate president, in New Jersey's state Senate district 3, CNN projects. 
  <p class="updated_time"> 11:54 AM CT, Nov. 06 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/y2-yFcKx5oU/index.html">Biden gets his infrastructure win and an education on a new Washington</a> CNN: Final passage of a massive public works bill Friday provided President Joe Biden what had increasingly seemed like a vanishing ideal: A major, bipartisan accomplishment that has the power to improve the lives of millions of Americans. 
  <p class="updated_time"> 11:52 AM CT, Nov. 06 </p> 
@@ -488,14 +486,14 @@ permalink: /projects/news/
  <a href="https://www.washingtonpost.com/politics/cuomo-sex-crimes-complaint-new-york/2021/11/05/9c44b58e-3e72-11ec-bfad-8283439871ec_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Judge postpones Cuomo arraignment until January as district attorney criticizes sheriff’s handling of case as ‘potentially defective’</a> WaPo: Friday’s decision by Albany City Court Judge Holly Trexler is a curveball in the case against the former New York governor, who was accused in a misdemeanor complaint last week of forcibly touching a woman in the executive mansion last year. 
  <p class="updated_time"> 05:15 PM CT, Nov. 05 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/GGxOTUDjPq8/index.html">State Department establishes task force on Ethiopia as conflict rages</a> CNN: The State Department has established a new task force to oversee its "planning, management and logistics related to events in Ethiopia," a spokesperson confirmed Friday. 
- <p class="updated_time"> 04:43 PM CT, Nov. 05 </p> 
- <a href="https://www.washingtonpost.com/politics/2021/11/05/aaron-rodgers-vaccine-skeptic-whataboutism/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Aaron Rodgers and vaccine-skeptic whataboutism</a> WaPo: The Packers quarterback 
  <p class="updated_time"> 03:34 PM CT, Nov. 05 </p> 
  <a href="https://www.politico.com/news/2021/11/05/pentagon-biden-nuclear-weapons-519738">Pentagon bearing down on Biden to shelve nuclear reforms</a> Politico: The president has pledged to narrow the role of atomic weapons. But others cite China to argue for the status quo. 
  <p class="updated_time"> 02:35 PM CT, Nov. 05 </p> 
  <a href="https://www.politico.com/news/2021/11/05/house-democrats-infrastructure-vote-wait-megabill-519731">'Whole day was a clusterf---': Dems overcome distrust to send infrastructure bill to Biden</a> Politico: Democratic centrists and progressives reached a detente that cleared the $550 billion bipartisan legislation late Friday night and advanced their social spending package. 
  <p class="updated_time"> 02:35 PM CT, Nov. 05 </p> 
  <a href="https://www.politico.com/news/2021/11/05/house-democrats-infrastructure-vote-wait-megabill-519731">'Whole day was a clusterf---': Dems overcome distrust to send infrastructure bill to Biden</a> Politico: Democratic centrists and progressives reached a detente that cleared the $550 billion bipartisan legislation late Friday night and advanced their social spending package. 
+ <p class="updated_time"> 02:07 PM CT, Nov. 05 </p> 
+ <a href="https://www.politico.com/news/2021/11/05/judge-rejects-comparison-between-jan-6-riot-and-george-floyd-unrest-519723">Judge rejects comparison between Jan. 6 riot and George Floyd unrest</a> Politico: 'For people to say people who participated in the protests of the summer of 2020 got no jail time, that’s not my experience in my court,' 
  <p class="updated_time"> 12:10 PM CT, Nov. 05 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NoM-wzx-7HI/index.html">Biden makes two false claims about Virginia election history </a> CNN: Democrat Terry McAuliffe's hopes of returning as governor of Virginia were dashed Tuesday when Glenn Youngkin became the first Republican to win statewide office in the commonwealth since 2009. Youngkin's victory comes as President Joe Biden's approval ratings have sagged and Democrats have struggled to deliver a clear message. 
  <p class="updated_time"> 11:36 AM CT, Nov. 05 </p> 
