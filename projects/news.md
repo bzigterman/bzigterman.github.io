@@ -7,8 +7,12 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:40 AM CT, Nov. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59202880?at_medium=RSS&at_campaign=KARANGA">Afghans facing 'hell on earth' as winter looms</a> BBC: The World Food Programme says 23 million people are "marching towards starvation" in the country. 
  <p class="updated_time"> 11:02 PM CT, Nov. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59199831?at_medium=RSS&at_campaign=KARANGA">Astroworld: Victims named as police probe US festival crush</a> BBC: Family and friends pay tribute to those who died at Travis Scott's Astroworld festival in Houston. 
+ <p class="updated_time"> 10:33 PM CT, Nov. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-59173474?at_medium=RSS&at_campaign=KARANGA">Chennai floods: Heavy rains bring Indian city to standstill</a> BBC: The heaviest rainfall in the city since 2015 has caused severe flooding and brought life to a standstill. 
  <p class="updated_time"> 07:25 PM CT, Nov. 07 </p> 
  <a href="https://www.nytimes.com/2021/11/07/world/americas/nicaragua-election-ortega.html">In Nicaragua Election, Ortega Crushes Dissent</a> NYT: President Daniel Ortega quashed the opposition and struck fear in voters, all but guaranteeing his victory in a presidential contest on Sunday. 
  <p class="updated_time"> 06:35 PM CT, Nov. 07 </p> 
@@ -37,6 +41,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/07/world/europe/uk-virus-surge-booster-shots.html">U.K. Health Secretary Urges People to Get Boosters</a> NYT: “If we all come together and play our part, we can get through this challenging winter, avoid a return to restrictions and enjoy Christmas,” said Sajid Javid, the health secretary. 
  <p class="updated_time"> 04:00 PM CT, Nov. 07 </p> 
  <a href="https://www.nytimes.com/2021/11/07/world/asia/afghan-pilots-taliban-us.html">Afghan Military Pilots, on the Run, Feel Abandoned by U.S.</a> NYT: Detained in Tajikistan, or hiding from the Taliban in Afghanistan, many pilots wonder why the military that trained them is not coming to their aid. 
+ <p class="updated_time"> 03:41 PM CT, Nov. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-northern-ireland-59198125?at_medium=RSS&at_campaign=KARANGA">Brexit: UK -EU trade deal could collapse over NI row, says Coveney</a> BBC: The UK is laying foundations to suspend parts of the NI Protocol, says the Irish foreign minister. 
  <p class="updated_time"> 03:35 PM CT, Nov. 07 </p> 
  <a href="https://www.npr.org/2021/11/07/1053356424/how-did-the-enslaved-workers-of-pompeii-live-a-new-discovery-provides-a-rare-gli">How did the enslaved workers of Pompeii live? A new discovery provides a rare glimpse</a> NPR: Archaeologists working to uncover a wealthy villa on the outskirts of the ancient city have found a dormitory for workers, providing important insight into daily life. 
  <p class="updated_time"> 03:17 PM CT, Nov. 07 </p> 
@@ -91,14 +97,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/07/science/antarctica-wildfires.html">Antarctica Was Once a Land of Fire and Not Ice</a> NYT: Charcoal recovered from a dig near the southern continent shows that the region wasn’t spared from the era scientists call a “super fire world.” 
  <p class="updated_time"> 04:00 AM CT, Nov. 07 </p> 
  <a href="https://www.nytimes.com/2021/11/07/world/asia/china-xi-jinping.html">Xi Jinping Is Rewriting China's History</a> NYT: A new official summation of Communist Party history is likely to exalt Xi Jinping as a peer of Mao and Deng, fortifying his claim to a new phase in power. 
- <p class="updated_time"> 03:42 AM CT, Nov. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59196814?at_medium=RSS&at_campaign=KARANGA">Libya: Row over attempt to suspend foreign minister Najla El-Mangoush</a> BBC: There has been political infighting after comments she made to the BBC about the 1988 Lockerbie bombing. 
  <p class="updated_time"> 02:00 AM CT, Nov. 07 </p> 
  <a href="https://www.nytimes.com/2021/11/07/world/asia/guam-dogcatcher.html">On Tiny Guam, It’s One Dogcatcher vs. 30,000 Strays</a> NYT: They bite, they threaten, they carry the risk of rabies. Islanders are sharply divided over what to do about the dogs. And Nicholas Ibanez is caught in the middle. 
  <p class="updated_time"> 02:00 AM CT, Nov. 07 </p> 
  <a href="https://www.nytimes.com/2021/11/07/world/europe/france-confession-abuse.html">French Clerical Abuse Report Puts Spotlight on Confession</a> NYT: In rare instances, it noted, the secrecy around the sacrament had been used to cover up abuse cases, again raising issues of whether church or state law should prevail. 
- <p class="updated_time"> 01:58 AM CT, Nov. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59196462?at_medium=RSS&at_campaign=KARANGA">Harvey Milk: US Navy launches ship named for gay rights leader</a> BBC: The USNS Harvey Milk is one of six new ships named after famous civil rights leaders. 
  <p class="updated_time"> 01:19 AM CT, Nov. 07 </p> 
  <a href="https://www.nytimes.com/2021/11/06/world/americas/costa-rica-covid-vaccine-children.html">Costa Rica moves to require Covid shots for children.</a> NYT: The Central American nation’s health ministry said on Friday it was adding Covid-19 to the list of required vaccinations for people 18 and younger. 
  <p class="updated_time"> 01:18 AM CT, Nov. 07 </p> 
@@ -119,8 +121,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/05/arts/music/marilia-mendonca-dead.html">Marília Mendonça, Brazilian Pop Singer, Dies in Plane Crash at 26</a> NYT: Ms. Mendonça, who was a social media sensation with millions of followers, was iconic in a type of Brazilian country music called sertanejo. 
  <p class="updated_time"> 05:41 PM CT, Nov. 06 </p> 
  <a href="https://www.nytimes.com/2021/11/06/world/europe/cop-climate-protests.html">COP26 Protesters Back an Array of Causes, Connected by Climate Change</a> NYT: Thousands gathered in the rain in Glasgow to press the case for more urgent and meaningful action by world leaders in response to global warming. 
- <p class="updated_time"> 04:40 PM CT, Nov. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59191108?at_medium=RSS&at_campaign=KARANGA">Palma de Mallorca: Fleeing passengers shut down busy Spanish airport</a> BBC: Palma de Mallorca Airport closes for four hours after 21 people run from a plane across the tarmac. 
  <p class="updated_time"> 03:22 PM CT, Nov. 06 </p> 
  <a href="https://www.nytimes.com/2021/11/06/world/africa/tanker-truck-explodes-sierra-leone.html">Tanker Truck Explodes in Sierra Leone, Killing at Least 98</a> NYT: The truck first started leaking fuel and people had rushed to collect it, an official said. Many of them died in the blast, along with others nearby. 
  <p class="updated_time"> 03:04 PM CT, Nov. 06 </p> 
