@@ -7,6 +7,20 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:28 PM CT, Nov. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59201107?at_medium=RSS&at_campaign=KARANGA">US to reopen borders to vaccinated travellers after 20 months</a> BBC: A flood of foreign visitors is expected as tough restrictions on entry come to an end on Monday. 
+ <p class="updated_time"> 06:24 PM CT, Nov. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59167718?at_medium=RSS&at_campaign=KARANGA">US-Canada border: After 19 months, families to reunite</a> BBC: The land border will soon fully reopen to vaccinated travellers, allowing families to reconnect. 
+ <p class="updated_time"> 06:17 PM CT, Nov. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-59036542?at_medium=RSS&at_campaign=KARANGA">Dug Dug: A film inspired by India's motorcycle god</a> BBC: A new film riding on the back of a temple in India dedicated to a motorcycle deity is making waves. 
+ <p class="updated_time"> 06:14 PM CT, Nov. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/science-environment-59199484?at_medium=RSS&at_campaign=KARANGA">COP26: Fossil fuel industry has largest delegation at climate summit</a> BBC: There are more participants than from any single country, a study shared with the BBC suggests. 
+ <p class="updated_time"> 06:02 PM CT, Nov. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-59120439?at_medium=RSS&at_campaign=KARANGA">TikTok videos humanise Colombia's cocaine workers</a> BBC: Social media videos in Colombia reveal how the people on the lowest rung of the cocaine industry work and live. 
+ <p class="updated_time"> 06:02 PM CT, Nov. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59182550?at_medium=RSS&at_campaign=KARANGA">Diamonds v trees: The community trying to save its forest</a> BBC: The Madhya Pradesh state government says a new diamond mine will bring jobs but local people say their lives will be destroyed. 
+ <p class="updated_time"> 06:02 PM CT, Nov. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/science-environment-59141041?at_medium=RSS&at_campaign=KARANGA">The space telescopes inspired by lobsters</a> BBC: By mimicking the way lobsters’ eyes work, scientists have designed new X-ray space telescopes that can survey much larger areas. 
  <p class="updated_time"> 05:15 PM CT, Nov. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59197250?at_medium=RSS&at_campaign=KARANGA">Sudan coup: Protesters tear-gassed at rally in Khartoum</a> BBC: Protesters are demanding the military step back and allow the transition to civilian rule. 
  <p class="updated_time"> 04:06 PM CT, Nov. 07 </p> 
@@ -23,8 +37,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/07/travel/us-travel-ban-reunions.html">As U.S. Travel Changes Near, Global Travelers Eagerly Await Reunions</a> NYT: On Monday, travelers from many other countries who are fully vaccinated against the coronavirus will be allowed to enter the United States. 
  <p class="updated_time"> 02:25 PM CT, Nov. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59195399?at_medium=RSS&at_campaign=KARANGA">Iraqi PM al-Kadhimi survives drone attack on his home</a> BBC: Mustafa al-Kadhimi says he was not hurt in the attack by a drone carrying explosives in Baghdad. 
- <p class="updated_time"> 01:58 PM CT, Nov. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59201107?at_medium=RSS&at_campaign=KARANGA">US to reopen borders to vaccinated travellers after 20 months</a> BBC: A flood of foreign visitors is expected as tough restrictions on entry come to an end on Monday. 
  <p class="updated_time"> 01:52 PM CT, Nov. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59199831?at_medium=RSS&at_campaign=KARANGA">Astroworld: Victims named as police probe US festival crush</a> BBC: Family and friends pay tribute to those who died at Travis Scott's Astroworld festival in Houston. 
  <p class="updated_time"> 01:17 PM CT, Nov. 07 </p> 
@@ -83,8 +95,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/07/world/europe/france-confession-abuse.html">French Clerical Abuse Report Puts Spotlight on Confession</a> NYT: In rare instances, it noted, the secrecy around the sacrament had been used to cover up abuse cases, again raising issues of whether church or state law should prevail. 
  <p class="updated_time"> 01:58 AM CT, Nov. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59196462?at_medium=RSS&at_campaign=KARANGA">Harvey Milk: US Navy launches ship named for gay rights leader</a> BBC: The USNS Harvey Milk is one of six new ships named after famous civil rights leaders. 
- <p class="updated_time"> 01:38 AM CT, Nov. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-59185768?at_medium=RSS&at_campaign=KARANGA">ICYMI: From bright lights to great heights</a> BBC: Our weekly video round-up of some of the stories that might have passed you by: In Case You Missed It. 
  <p class="updated_time"> 01:19 AM CT, Nov. 07 </p> 
  <a href="https://www.nytimes.com/2021/11/06/world/americas/costa-rica-covid-vaccine-children.html">Costa Rica moves to require Covid shots for children.</a> NYT: The Central American nation’s health ministry said on Friday it was adding Covid-19 to the list of required vaccinations for people 18 and younger. 
  <p class="updated_time"> 01:18 AM CT, Nov. 07 </p> 
@@ -105,8 +115,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/05/arts/music/marilia-mendonca-dead.html">Marília Mendonça, Brazilian Pop Singer, Dies in Plane Crash at 26</a> NYT: Ms. Mendonça, who was a social media sensation with millions of followers, was iconic in a type of Brazilian country music called sertanejo. 
  <p class="updated_time"> 05:41 PM CT, Nov. 06 </p> 
  <a href="https://www.nytimes.com/2021/11/06/world/europe/cop-climate-protests.html">COP26 Protesters Back an Array of Causes, Connected by Climate Change</a> NYT: Thousands gathered in the rain in Glasgow to press the case for more urgent and meaningful action by world leaders in response to global warming. 
- <p class="updated_time"> 04:55 PM CT, Nov. 06 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59194421?at_medium=RSS&at_campaign=KARANGA">US court blocks Biden's vaccine mandate for companies</a> BBC: An appeals court blocks the administration's plan to drive vaccinations at larger businesses. 
  <p class="updated_time"> 04:40 PM CT, Nov. 06 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59191108?at_medium=RSS&at_campaign=KARANGA">Palma de Mallorca: Fleeing passengers shut down busy Spanish airport</a> BBC: Palma de Mallorca Airport closes for four hours after 21 people run from a plane across the tarmac. 
  <p class="updated_time"> 03:22 PM CT, Nov. 06 </p> 
@@ -153,18 +161,12 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/05/world/asia/china-coronavirus-ruili.html">Near-Daily Covid Tests, Sleeping in Classrooms: Life in Covid-Zero China</a> NYT: Residents in Ruili, in southwestern China, have been locked down four times in the past year as part of the country’s quest to eliminate the virus. 
  <p class="updated_time"> 07:51 PM CT, Nov. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59186214?at_medium=RSS&at_campaign=KARANGA">COP 26: What Alaska’s shrinking island means for all of us</a> BBC: Melting ice and rising sea levels threaten this community's existence. It's a warning to the world. 
- <p class="updated_time"> 07:43 PM CT, Nov. 05 </p> 
- <a href="https://www.bbc.co.uk/news/blogs-trending-59070451?at_medium=RSS&at_campaign=KARANGA">Climate change: The US state taking on an oil giant for greenwashing</a> BBC: The US state of Massachusetts is taking ExxonMobil to court for greenwashing. 
  <p class="updated_time"> 07:41 PM CT, Nov. 05 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59036722?at_medium=RSS&at_campaign=KARANGA">COP26: How the world is reacting to the climate summit</a> BBC: From Shanghai to Sao Paulo, the BBC looks at how the climate summit is being received. 
- <p class="updated_time"> 07:34 PM CT, Nov. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-58982118?at_medium=RSS&at_campaign=KARANGA">COP26: What African climate experts want you to know</a> BBC: The issues for Africa, the continent most vulnerable as temperatures rise, that COP26 must not ignore. 
  <p class="updated_time"> 07:30 PM CT, Nov. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59147493?at_medium=RSS&at_campaign=KARANGA">Paris attacks trial: Humdrum lives that turned to mass murder</a> BBC: For four days the Paris attacks heard this week of the ordinary backgrounds of the 14 defendants. 
  <p class="updated_time"> 07:17 PM CT, Nov. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59168993?at_medium=RSS&at_campaign=KARANGA">The Rotterdam museum set to display its entire art collection</a> BBC: The Depot in Rotterdam opens on Saturday, revealing its entire collection of 150,000 art objects. 
- <p class="updated_time"> 07:04 PM CT, Nov. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-59186088?at_medium=RSS&at_campaign=KARANGA">Colin Powell: Funeral for 'great lion with big heart'</a> BBC: US presidents, past and present, attended the service to remember the former secretary of state. 
  <p class="updated_time"> 06:06 PM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/05/climate/cop26-john-kerry.html">John Kerry Lauds Progress at COP26 but Warns, ‘Job Not Done.’</a> NYT: Mr. Kerry, President Biden’s climate envoy, acknowledged that many of the promises being put forward in Glasgow were only that — promises. 
  <p class="updated_time"> 05:08 PM CT, Nov. 05 </p> 
@@ -183,8 +185,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/04/world/europe/brexit-britain-france-johnson-macron.html">With Fish, Trucks and Submarines, U.K. and France Bicker Over Brexit</a> NYT: A recent dispute over fishing rights illuminates a broader and more fundamental disagreement over Britain’s decision to leave the European Union. 
  <p class="updated_time"> 10:37 AM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/05/world/europe/shortages-german-economic-growth.html">Germany's Economy Hindered by Supply Chain Problems </a> NYT: The order books in Europe’s largest economy are full, but a lack of parts and raw materials means companies are struggling to fill them. 
- <p class="updated_time"> 09:58 AM CT, Nov. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-46138064?at_medium=RSS&at_campaign=KARANGA">Delhi pollution: Are Diwali fireworks to blame?</a> BBC: Do fireworks let off during Diwali celebrations really cause that much pollution? 
  <p class="updated_time"> 09:29 AM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/05/world/asia/india-diwali-covid.html">In India, Fears Grow That Diwali Celebrations Could Fuel Another Virus Spike</a> NYT: Epidemiologists are concerned that Covid cases will surge after shoppers thronged markets and hundreds of thousands traveled around the country to celebrate the festival. 
  <p class="updated_time"> 09:28 AM CT, Nov. 05 </p> 
@@ -218,6 +218,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:10 PM CT, Nov. 07 </p> 
+ <a href="https://www.washingtonpost.com/politics/democrats-biden-virginia-new-jersey-infrastructure/2021/11/07/d5811f7e-3e43-11ec-bfad-8283439871ec_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Democrats search for political identity amid dismal election results and legislative triumph</a> WaPo: Setbacks Tuesday in suburbs, small towns and rural communities, coupled with intraparty battles on Capitol Hill and passage of an infrastructure bill, crystallize a vexing question for the party: What does it mean to be a Democrat? 
  <p class="updated_time"> 04:01 PM CT, Nov. 07 </p> 
  <a href="https://www.npr.org/2021/11/07/1053387440/rep-ruben-gallego-talks-new-book-exploring-how-the-u-s-treats-its-veterans">Rep. Ruben Gallego talks new book exploring how the U.S. treats its veterans</a> NPR: NPR's Michel Martin speaks with Congressman Ruben Gallego about his upcoming book They Called Us "Lucky": The Life and Afterlife of the Iraq War's Hardest Hit Unit. 
  <p class="updated_time"> 03:55 PM CT, Nov. 07 </p> 
@@ -228,6 +230,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/07/nicaragua-ortega-election-sandinistas-520133">Nicaragua’s Ortega seeks reelection in questioned vote</a> Politico: He blasted the United States for interference in Nicaragua. 
  <p class="updated_time"> 03:00 PM CT, Nov. 07 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-07/movie-theaters-show-quiet-resistance-to-thai-monarchy-is-growing">Movie Theaters Show Quiet Resistance to Thai Monarchy Is Growing</a> Bloomberg: More Thais are choosing to sit during the royal anthem, a vivid display of how attitudes toward the monarchy are changing.&nbsp; 
+ <p class="updated_time"> 03:00 PM CT, Nov. 07 </p> 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-07/xi-set-to-unveil-new-doctrine-that-could-let-him-rule-for-life">Xi Set to Unveil New Doctrine That Could Let Him Rule for Life</a> Bloomberg: The Chinese&nbsp;Communist Party’s first official declaration on history in 40 years is expected at its&nbsp;biggest event of this&nbsp;year&nbsp; 
  <p class="updated_time"> 03:00 PM CT, Nov. 07 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KHemrSyJXcs/index.html">Jayapal on why progressives chose pragmatism: 'We need to keep our eyes on the prize'</a> CNN: The Congressional Progressive Caucus got the White House message -- no more delay. Members embraced a compromise economic package as the best available deal, and accepted private assurances of Senate support. 
  <p class="updated_time"> 02:32 PM CT, Nov. 07 </p> 
@@ -254,8 +258,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/06/us/politics/infrastructure-black-caucus-vote.html">How a $1 Trillion Infrastructure Bill Survived an Intraparty Brawl</a> NYT: Speaker Nancy Pelosi agreed to a deal proposed by the Congressional Black Caucus, mobilizing one faction of Democratic lawmakers to win over two others. 
  <p class="updated_time"> 01:03 PM CT, Nov. 07 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-07/ireland-says-eu-u-k-trade-deal-in-jeopardy-over-n-ireland-row">Ireland Says EU-U.K. Trade Deal in Jeopardy Over Northern Ireland Row</a> Bloomberg: The trade deal between the U.K. and the European Union will be thrown into question if Britain revokes its commitments to the Northern Ireland protocol, the Irish foreign minister warned. 
- <p class="updated_time"> 12:51 PM CT, Nov. 07 </p> 
- <a href="https://www.washingtonpost.com/politics/democrats-biden-virginia-new-jersey-infrastructure/2021/11/07/d5811f7e-3e43-11ec-bfad-8283439871ec_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Democrats search for political identity amid dismal election results and legislative triumph</a> WaPo: Setbacks Tuesday in suburbs, small towns and rural communities, coupled with intraparty battles on Capitol Hill and passage of an infrastructure bill, crystallize a vexing question for the party: What does it mean to be a Democrat? 
  <p class="updated_time"> 12:49 PM CT, Nov. 07 </p> 
  <a href="https://www.nytimes.com/2021/11/07/health/biden-osha-vaccine-mandate.html">Biden Administration Is ‘Prepared to Defend’ Vaccine Rules, Surgeon General Said</a> NYT: The administration last week set Jan. 4 as the deadline for companies with 100 or more employees to mandate Covid vaccinations or implement weekly testing of workers. 
  <p class="updated_time"> 12:47 PM CT, Nov. 07 </p> 
@@ -330,8 +332,6 @@ permalink: /projects/news/
  <a href="https://www.bloomberg.com/news/articles/2021-11-07/new-zealand-s-ardern-touts-maturity-in-relations-with-china">New Zealand’s Ardern Touts ‘Maturity’ in Relations With China</a> Bloomberg: Prime Minister Jacinda Ardern said there is a “maturity” in New Zealand’s relationship with China, its biggest trading partner, which her government believes enables it to raise issues of concern, amid simmering tensions between Beijing and the West. 
  <p class="updated_time"> 07:35 PM CT, Nov. 06 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-07/iraqi-prime-minister-survives-assassination-attempt-by-drone">Iraqi Prime Minister Survives Assassination Attempt by Drone</a> Bloomberg: Iraqi Prime Minister Mustafa al-Kadhimi survived an assassination attempt early Sunday after an explosive-laden drone targeted his residence inside the Green Zone. 
- <p class="updated_time"> 07:07 PM CT, Nov. 06 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-07/north-korea-conducts-artillery-drill-amid-ally-joint-exercise">North Korea Conducts Artillery Drill Amid Ally Joint Exercise</a> Bloomberg: North Korea conducted an artillery fire drill Saturday that could target its rival Korea’s heavily populated capital, after Washington and Seoul kicked off joint military aerial exercises on Monday despite Pyongyang’s rebuke. 
  <p class="updated_time"> 06:45 PM CT, Nov. 06 </p> 
  <a href="https://www.washingtonpost.com/politics/biden-infrastructure-presidency/2021/11/06/4eaa5372-3f05-11ec-8ee9-4f14a26749d1_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">After months of setbacks, Biden finally gets long-sought win on infrastructure</a> WaPo: With his presidency on the ropes, Biden felt a new sense of urgency to produce legislative results — and a willingness to accept greater risk in pursuing them. 
  <p class="updated_time"> 06:01 PM CT, Nov. 06 </p> 
