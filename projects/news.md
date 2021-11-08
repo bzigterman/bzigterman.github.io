@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:16 PM CT, Nov. 08 </p> 
+ <a href="https://www.nytimes.com/2021/11/08/travel/us-travel-ban-vaccination.html">U.S. Lifts Travel Ban for Vaccinated Foreigners</a> NYT: The change ends more than 18 months of restrictions that left families separated from loved ones and cost the global travel industry hundreds of billions of dollars. 
  <p class="updated_time"> 03:59 PM CT, Nov. 08 </p> 
  <a href="https://www.npr.org/2021/11/08/1053647290/computer-chip-makers-cant-share-all-the-data-the-u-s-wants-for-examining-shortag">Computer chip makers can't share all the data the U.S. wants for examining shortages</a> NPR: The Commerce Department wants semiconductor makers to provide details on their products and customers in a bid to understand what's causing bottlenecks. Many companies say it may reveal trade secrets. 
  <p class="updated_time"> 03:59 PM CT, Nov. 08 </p> 
@@ -15,8 +17,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/08/world/middleeast/nso-israel-palestinians-spyware.html">Despite Abuses of NSO Spyware, Israel Will Lobby U.S. to Defend It</a> NYT: As a new accusation surfaces that NSO’s software may have been used to spy on Palestinians, Israeli officials say it is crucial to national security. 
  <p class="updated_time"> 03:47 PM CT, Nov. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59205468?at_medium=RSS&at_campaign=KARANGA">Oscar Pistorius parole process to start in South Africa</a> BBC: The ex-Paralympian will first have to meet the parents of the woman he murdered, Reeva Steenkamp. 
- <p class="updated_time"> 03:46 PM CT, Nov. 08 </p> 
- <a href="https://www.nytimes.com/2021/11/08/travel/us-travel-ban-vaccination.html">U.S. Lifts Travel Ban for Vaccinated Foreigners</a> NYT: The change ends more than 18 months of restrictions that left families separated from loved ones and cost the global travel industry hundreds of billions of dollars. 
  <p class="updated_time"> 03:45 PM CT, Nov. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59210421?at_medium=RSS&at_campaign=KARANGA">Niger classroom fire kills at least 25 schoolchildren</a> BBC: Many other schoolchildren aged five to six are injured during lessons in their straw-hut classrooms. 
  <p class="updated_time"> 03:37 PM CT, Nov. 08 </p> 
@@ -218,6 +218,14 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:28 PM CT, Nov. 08 </p> 
+ <a href="https://www.washingtonpost.com/politics/2021/11/08/this-is-why-its-useful-talk-about-historic-examples-institutionalized-racism/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">And this is why it’s useful to talk about historic examples of institutionalized racism</a> WaPo: Right-wing guffaws over a comment from Transportation Secretary Pete Buttigieg reveal a lack of familiarity with history. 
+ <p class="updated_time"> 04:27 PM CT, Nov. 08 </p> 
+ <a href="https://www.nytimes.com/2021/11/08/us/politics/democrats-budget-bill-cuts-infrastructure.html">On Chicago’s West Side, Urgent Needs Collide With Washington Compromises</a> NYT: Activists say the needs of struggling communities in Chicago and elsewhere vastly exceed the billions Congress is spending. 
+ <p class="updated_time"> 04:16 PM CT, Nov. 08 </p> 
+ <a href="https://www.nytimes.com/2021/11/08/travel/us-travel-ban-vaccination.html">U.S. Lifts Travel Ban for Vaccinated Foreigners</a> NYT: The change ends more than 18 months of restrictions that left families separated from loved ones and cost the global travel industry hundreds of billions of dollars. 
+ <p class="updated_time"> 04:11 PM CT, Nov. 08 </p> 
+ <a href="https://www.washingtonpost.com/politics/republicans-gosar-trump-ocasio-cortez/2021/11/08/ead37b36-40ca-11ec-9ea7-3eb2406a2e24_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Rep. Paul Gosar tweets photoshopped anime video showing him killing Rep. Ocasio-Cortez and attacking President Biden</a> WaPo: The Arizona Republican’s tweeting of the video prompted condemnation and calls for his Twitter account to be suspended for glorification of violence. 
  <p class="updated_time"> 04:08 PM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/us/politics/jan-6-subpoenas-eastman-flynn-trump.html">Jan. 6 Inquiry Subpoenas Eastman, Flynn and Other Trump Allies</a> NYT: The latest batch of subpoenas from the House select committee investigating the riot includes officials from the former president’s re-election campaign. 
  <p class="updated_time"> 04:06 PM CT, Nov. 08 </p> 
@@ -233,8 +241,6 @@ permalink: /projects/news/
  <p class="updated_time"> 03:49 PM CT, Nov. 08 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-08/white-house-awaits-enbridge-pipeline-review-before-any-decision">White House Awaits Enbridge Pipeline Review Before Any Decision</a> Bloomberg: The White House said it’s waiting on a study by the U.S. Army Corps of Engineers before deciding on the controversial pipeline that carries Canadian oil across the Great Lakes into Michigan. 
  <p class="updated_time"> 03:46 PM CT, Nov. 08 </p> 
- <a href="https://www.nytimes.com/2021/11/08/travel/us-travel-ban-vaccination.html">U.S. Lifts Travel Ban for Vaccinated Foreigners</a> NYT: The change ends more than 18 months of restrictions that left families separated from loved ones and cost the global travel industry hundreds of billions of dollars. 
- <p class="updated_time"> 03:46 PM CT, Nov. 08 </p> 
  <a href="https://www.politico.com/news/2021/11/08/jan-6-committee-subpoenas-trump-allies-520315">Jan. 6 committee subpoenas Trump allies linked to D.C. 'war room'</a> Politico: The latest batch targets a mix of people who worked on Donald Trump’s campaign and others who strategized how to overturn election results from the outside. 
  <p class="updated_time"> 03:37 PM CT, Nov. 08 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jpJpF5B53u0/index.html">January 6 committee issues 6 subpoenas to top Trump campaign associates, including Michael Flynn and John Eastman</a> CNN: The House select committee investigating the deadly January 6 riot on Capitol Hill announced Monday it is issuing six additional subpoenas to top Trump campaign associates as it continues to seek testimony and documents from key witnesses in the sweeping probe. 
@@ -242,16 +248,14 @@ permalink: /projects/news/
  <a href="https://www.bloomberg.com/news/articles/2021-11-08/biden-hails-bucks-for-championship-vaccine-outreach-and-protest">Biden Hails Bucks in First NBA White House Visit in Five Years</a> Bloomberg: President Joe Biden hosted the NBA champion Milwaukee Bucks at the White House on Monday, thanking the team for encouraging coronavirus vaccinations and for protesting the local police shooting of a Black man, Jacob Blake. 
  <p class="updated_time"> 03:21 PM CT, Nov. 08 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xvEt_dcR3k8/index.html">Biden honors NBA champs Milwaukee Bucks at the White House</a> CNN: President Joe Biden honored the NBA champion Milwaukee Bucks at a White House ceremony on Monday, marking the first visit to 1600 Pennsylvania Avenue by an NBA championship-winning team since 2016. 
- <p class="updated_time"> 03:21 PM CT, Nov. 08 </p> 
- <a href="https://www.washingtonpost.com/politics/republicans-gosar-trump-ocasio-cortez/2021/11/08/ead37b36-40ca-11ec-9ea7-3eb2406a2e24_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Rep. Paul Gosar tweets photoshopped anime video showing him killing Rep. Ocasio-Cortez and attacking President Biden</a> WaPo: The Arizona Republican’s tweeting of the video prompted condemnation and calls for his Twitter account to be suspended for glorification of violence. 
  <p class="updated_time"> 03:20 PM CT, Nov. 08 </p> 
  <a href="https://www.npr.org/2021/11/08/1053647213/daniel-ortega-has-won-the-nicaragua-presidency-in-an-election-many-say-was-a-sha">Daniel Ortega has won the Nicaragua presidency in an election many say was a sham</a> NPR: Nicaragua's leader Daniel Ortega says he was overwhelmingly elected president for a fourth consecutive term Sunday. But critics, including leaders around the world, say the elections were a sham. 
  <p class="updated_time"> 03:20 PM CT, Nov. 08 </p> 
  <a href="https://www.npr.org/2021/11/08/1053647157/halfway-through-cop26-heres-what-has-happened-so-far-and-what-lies-ahead">Halfway through COP26, here's what has happened so far and what lies ahead</a> NPR: It's the second and final week of the UN climate conference in Glasgow after a weekend of protests. World leaders are expected to hammer out details on their plans to slow catastrophic global warming. 
  <p class="updated_time"> 03:16 PM CT, Nov. 08 </p> 
  <a href="https://www.npr.org/2021/11/08/1053632748/jan-6-committee-subpoenas-trump-officials-michael-flynn">Jan. 6 panel issues new wave of subpoenas for ex-Trump officials</a> NPR: Six Trump allies, including Michael Flynn and John Eastman, were issued subpoenas tied to their efforts "to overturn the results of the 2020 election," the panel said. 
- <p class="updated_time"> 03:13 PM CT, Nov. 08 </p> 
- <a href="https://www.nytimes.com/2021/11/08/us/politics/jill-biden-surgeon-general-vaccinations-schools.html">Jill Biden and the Surgeon General Push for Covid Shots in Schools</a> NYT: The Biden administration is evoking the campaign against polio in the 1950s as it seeks to vaccinate 28 million young children against the coronavirus. 
+ <p class="updated_time"> 03:09 PM CT, Nov. 08 </p> 
+ <a href="https://www.bloomberg.com/news/videos/2021-11-08/after-600-days-u-s-reopens-to-most-travelers-video">After 600 Days, U.S. Reopens to Most Travelers</a> Bloomberg: Some 604 days after the Trump administration shut U.S. borders, a majority of international travelers are once again welcome. The U.S. will open its borders to vaccinated foreigners on Nov. 8, a White House official said, granting access to millions of people who have been shut out of the country while closing it off to anyone who hasn’t had their shots.  JLL Hotels and Hospitality CEO Gilda Perez-Alvarado talks about the recovery plans on "Bloomberg Markets." 
  <p class="updated_time"> 03:04 PM CT, Nov. 08 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/TtQo4FcJN6M/index.html">Bipartisan group on Capitol Hill aims to close foreign money loophole on ballot initiatives</a> CNN: A bipartisan group of House members is pushing legislation to stop foreign nationals from financing ballot initiatives after federal regulators recently concluded that the federal ban on foreign campaign money only applies to candidate elections. 
  <p class="updated_time"> 03:00 PM CT, Nov. 08 </p> 
@@ -270,10 +274,10 @@ permalink: /projects/news/
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9p9GkYhH3_M/index.html">US seizes $6 million in ransom payments and charges Ukrainian over major cyberattack</a> CNN: Law enforcement officials have seized an estimated $6 million in ransom payments, and the US Justice Department is expected to announce Monday that it has charged a suspect from Ukraine over a damaging July ransomware attack on an American company in a breakthrough for the Biden administration's pursuit of cybercriminals, CNN has learned. 
  <p class="updated_time"> 02:39 PM CT, Nov. 08 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-08/capitol-riot-panel-subpoenas-trump-allies-flynn-kerik-in-probe">Capitol Riot Panel Subpoenas Trump Allies Including Flynn, Kerik, Eastman</a> Bloomberg: The House committee investigating the Jan. 6 insurrection at the U.S. Capitol has subpoenaed six campaign aides and supporters of former President Donald Trump, including former National Security adviser Michael Flynn and former New York City Police Commissioner Bernard Kerik. 
- <p class="updated_time"> 02:32 PM CT, Nov. 08 </p> 
- <a href="https://www.nytimes.com/2021/11/08/us/politics/democrats-budget-bill-cuts-infrastructure.html">On Chicago’s West Side, Urgent Needs Collide With Washington Compromises</a> NYT: Activists say the needs of struggling communities in Chicago and elsewhere vastly exceed the billions Congress is spending. 
  <p class="updated_time"> 02:27 PM CT, Nov. 08 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-08/spac-tied-to-trump-s-media-venture-seeks-wall-street-backing">SPAC Tied to Trump’s Media Venture Seeks Wall Street Backing</a> Bloomberg: The blank-check company tied to Donald Trump’s new media venture has already won the support of retail traders who have sent the stock up almost 500%. Now, big Wall Street investors are getting another opportunity to pile in, even as some financial firms have distanced themselves from doing business with the former U.S. president. 
+ <p class="updated_time"> 02:23 PM CT, Nov. 08 </p> 
+ <a href="https://www.bloomberg.com/news/videos/2021-11-08/the-shadow-docket-and-how-the-supreme-court-uses-it-video">The Shadow Docket and How the Supreme Court Uses It</a> Bloomberg: The Supreme Court's Shadow Docket has been getting a lot of attention lately. In this video, we explain what the Shadow Docket is, why it exists, and how to make it more transparent. (Produced by Andrew Satter; Executive Producer Josh Block). 
  <p class="updated_time"> 02:13 PM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/business/randal-quarles-fed.html">Randal Quarles, Fed Governor, to Resign in December</a> NYT: Mr. Quarles’s term as a governor could have stretched until 2032. His departure will give the Biden administration more room to remake the Fed. 
  <p class="updated_time"> 02:13 PM CT, Nov. 08 </p> 
@@ -335,7 +339,7 @@ permalink: /projects/news/
  <p class="updated_time"> 10:34 AM CT, Nov. 08 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-08/anc-may-face-land-reform-pressure-after-south-african-vote-loss">ANC May Face Land-Reform Pressure After South African Vote Loss</a> Bloomberg: South Africa’s ruling party may face pressure to implement policies including seizing land without compensation, as it weighs the loss of control of dozens of councils across the country. 
  <p class="updated_time"> 10:25 AM CT, Nov. 08 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-08/chile-starts-key-pinera-impeachment-session-with-13-hour-speech">Chile Starts Key Pinera Impeachment Session With 13-Hour Speech</a> Bloomberg: Chile’s lower house started its voting session on an impeachment motion against President Sebastian Pinera with a marathon speech aimed at giving a key opposition lawmaker time to arrive at congress. 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-08/chile-starts-key-pinera-impeachment-session-with-13-hour-speech">Chile Starts Impeachment Session With 13-Hour Speech</a> Bloomberg: Chile’s lower house started its voting session on an impeachment motion against President Sebastian Pinera with a marathon speech aimed at giving a key opposition lawmaker time to arrive at congress. 
  <p class="updated_time"> 10:21 AM CT, Nov. 08 </p> 
  <a href="https://www.washingtonpost.com/politics/2021/11/08/more-confirmation-that-gop-under-trump-is-hostage-situation/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">The GOP under Trump is a hostage situation</a> WaPo: Yet another report indicates Trump threatened to switch parties. And the denials aren't adding up. 
  <p class="updated_time"> 10:21 AM CT, Nov. 08 </p> 
@@ -364,8 +368,6 @@ permalink: /projects/news/
  <a href="https://www.washingtonpost.com/politics/rick-scott-sean-parnell/2021/11/08/d21bb370-4097-11ec-a3aa-0255edc02eb7_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">NRSC chair Rick Scott declines to say if Trump-backed Senate hopeful accused of strangling wife is right candidate for the job</a> WaPo: Pressed during an interview about Sean Parnell, the senator from Florida said it is not his job to endorse candidates in open primaries. Parnell has been endorsed by former president Donald Trump. 
  <p class="updated_time"> 08:08 AM CT, Nov. 08 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-08/no-johnson-apology-as-lobbying-furor-engulfs-his-u-k-government">Johnson Is Failing to Contain Fallout From U.K. Lobbying Scandal</a> Bloomberg: Boris Johnson is struggling to repress the U.K. backlash over his defense of a ruling party lawmaker who broke lobbying rules, as opposition leader Keir Starmer openly accused his government of being corrupt. 
- <p class="updated_time"> 07:35 AM CT, Nov. 08 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-08/obama-implores-nations-to-row-together-toward-climate-target">Obama Says Nations Must Be More Aggressive to Avert Climate Disaster</a> Bloomberg: Former U.S. President Barack Obama implored nations to move aggressively against climate change, warning that the world is falling dangerously short of what’s needed to tame rising temperatures and prevent disaster. 
  <p class="updated_time"> 07:20 AM CT, Nov. 08 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/11/08/recess-reverie-plus-huddle-restaurant-week-kicks-off-495014">Recess reverie (plus Huddle Restaurant Week kicks off)</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 07:20 AM CT, Nov. 08 </p> 
@@ -404,8 +406,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/08/1052567444/supreme-court-to-hear-arguments-on-fbis-surveillance-of-mosques">Supreme Court to hear arguments on FBI's surveillance of mosques </a> NPR: The argument will focus on whether this case can move forward at all because the government argues that for it to produce any of the evidence gathered 15 years ago would jeopardize national security. 
  <p class="updated_time"> 02:00 AM CT, Nov. 08 </p> 
  <a href="https://www.washingtonpost.com/politics/2021/11/08/battle-over-bidens-child-tax-credit-its-impact-poverty-workers/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">The battle over Biden’s child tax credit and its impact on poverty and workers</a> WaPo: A fierce dispute has erupted among economists about whether the president's child-tax credit expansion will cause parents to stop working. We explain the debate. 
- <p class="updated_time"> 11:10 PM CT, Nov. 07 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-08/nicaragua-leader-ortega-hits-back-during-vote-slammed-by-biden">Biden Slams Nicaraguan Leader Who’s Set for Landslide Election Win</a> Bloomberg: Nicaraguan leader Daniel Ortega is on course for a landslide in Sunday’s presidential election after he jailed his main opponents. 
  <p class="updated_time"> 09:55 PM CT, Nov. 07 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-08/china-uses-fake-u-s-aircraft-carrier-for-target-practice">China Uses Fake U.S. Aircraft Carrier for Missile Target Practice</a> Bloomberg: The Chinese military is using mock-ups of a U.S. aircraft carrier at a weapons-testing range in a remote western desert, new satellite imagery shows, indicating the People’s Liberation Army is focused on neutralizing a key tool of U.S. power. 
  <p class="updated_time"> 06:10 PM CT, Nov. 07 </p> 
@@ -418,8 +418,6 @@ permalink: /projects/news/
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KHemrSyJXcs/index.html">Analysis: Jayapal on why progressives chose pragmatism: 'We need to keep our eyes on the prize'</a> CNN: The Congressional Progressive Caucus got the White House message -- no more delay. Members embraced a compromise economic package as the best available deal, and accepted private assurances of Senate support. 
  <p class="updated_time"> 02:31 PM CT, Nov. 07 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sWdL-IYaLvg/index.html">Chris Christie delivers tough message to Republican audience, saying GOP gains hinge on moving on from 2020</a> CNN: While the other potential GOP White House aspirants continue to tip-toe around former President Donald Trump, former New Jersey Gov. Chris Christie argued Saturday that his week's election results marked the "beginning of a new era" for the Republican Party -- one that looks "forward and not backwards" as he addressed the Republican Jewish Coalition in Las Vegas. 
- <p class="updated_time"> 02:00 PM CT, Nov. 07 </p> 
- <a href="https://www.politico.com/news/2021/11/07/murphy-new-jersey-reelection-hurt-520110">‘There’s a lot of hurt out there,’ N.J. governor says of close reelection</a> Politico: But Gov. Phil Murphy said things could have been a lot worse. 
  <p class="updated_time"> 01:17 PM CT, Nov. 07 </p> 
  <a href="https://www.nytimes.com/2021/11/07/us/politics/afghanistan-war-marines.html">Young Marines in Kabul Were Left to Run Final Days of Evacuation</a> NYT: The young Marines in Kabul were left to determine who was evacuated from Afghanistan and who was left behind. The cost was high. 
  <p class="updated_time"> 01:13 PM CT, Nov. 07 </p> 
@@ -450,8 +448,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/07/miriam-adelson-megadonor-back-in-politics-519912">The $30 billion woman: Megadonor Miriam Adelson leaps back into politics</a> Politico: Adelson is taking her first political meetings since her husband Sheldon died, seeing possible 2024 candidates and a key Senate contender. 
  <p class="updated_time"> 06:00 AM CT, Nov. 07 </p> 
  <a href="https://www.washingtonpost.com/politics/courts_law/supreme-court-john-henry-ramirez-execution/2021/11/06/82711ed8-3e2f-11ec-a493-51b0252dea0c_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Supreme Court considers a minister’s role at the time an inmate is put to death</a> WaPo: Members of Second Baptist Church say they are answering God’s call with their outreach to those on Texas’s death row. 
- <p class="updated_time"> 05:00 AM CT, Nov. 07 </p> 
- <a href="https://www.washingtonpost.com/politics/federal-workers-vaccines-exemptions/2021/11/07/761eb9d8-3da3-11ec-8ee9-4f14a26749d1_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Nearing Monday coronavirus vaccine deadline, thousands of federal workers seek religious exemptions to avoid shots</a> WaPo: The Biden administration’s plan to vaccinate the federal workforce is succeeding in many quarters, but the exemptions sought by some employees are complicating efforts to return the government to full strength. 
  <p class="updated_time"> 02:02 AM CT, Nov. 07 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/G1JZt57rmEE/index.html">Voters and public officials choose police reform in moderation after George Floyd's murder</a> CNN: Anti-police candidates and a policing overhaul referendum were rejected on Election Day in Seattle, Minneapolis and Buffalo, continuing a trend of voters and public officials choosing moderate and measured approaches to policing over sweeping or radical changes. 
  <p class="updated_time"> 11:10 PM CT, Nov. 06 </p> 
@@ -480,6 +476,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/06/rural-dems-trouble-519782">Rural Democrats stare into the abyss after Virginia</a> Politico: Rural Democrats say the party’s problems on their turf are twofold. 
  <p class="updated_time"> 06:00 AM CT, Nov. 06 </p> 
  <a href="https://www.politico.com/news/2021/11/06/trump-arizona-senate-primary-519779">Trump muscles into Arizona Senate primary</a> Politico: The former president, who has not yet endorsed in the contest, will appear at a fundraiser for Republican Blake Masters. 
+ <p class="updated_time"> 03:24 AM CT, Nov. 06 </p> 
+ <a href="https://www.nytimes.com/2021/11/05/upshot/biden-budget-scorekeepers-cbo.html">2,000 Pages and Pronto! Budget Scorekeepers Are Under Pressure</a> NYT: Lawmakers want detailed estimates on the effects of the big Democratic bill, but that can take longer than they think, slowing the process. 
  <p class="updated_time"> 10:55 PM CT, Nov. 05 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/I_z5P2xIL1g/index.html">These 6 House Democrats voted against the infrastructure bill. These 13 Republicans voted for it.</a> CNN: The House on Friday voted 228-206 to pass a $1.2 trillion infrastructure bill after hours of delays and debating among Democrats, sending the bipartisan measure to President Joe Biden's desk for his signature. 
  <p class="updated_time"> 10:50 PM CT, Nov. 05 </p> 
