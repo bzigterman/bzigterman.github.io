@@ -210,6 +210,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 01:09 AM CT, Nov. 08 </p> 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-08/chinese-firm-seeks-damages-from-sri-lanka-in-fertilizer-dispute">Chinese Firm Seeks Damages From Sri Lanka in Fertilizer Dispute</a> Bloomberg: A Chinese company is seeking damages from a Sri Lankan government agency for rejecting a shipment of organic fertilizer found to have pathogens in an ongoing dispute that could test Colombo’s relationship with Beijing. 
  <p class="updated_time"> 12:40 AM CT, Nov. 08 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-08/danish-prime-minister-says-new-virus-restrictions-are-needed">Danish Prime Minister Says New Virus Restrictions Are Needed</a> Bloomberg: Denmark, which has one of the highest vaccination rates in the world, will probably need to re-introduce some restrictions after the number of virus infections has jumped, the prime minister said. 
  <p class="updated_time"> 11:43 PM CT, Nov. 07 </p> 
