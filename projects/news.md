@@ -7,14 +7,18 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:15 PM CT, Nov. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59205570?at_medium=RSS&at_campaign=KARANGA">Astroworld: Travis Scott and Drake sued over deadly US festival crush</a> BBC: The rapper faces legal action after at least eight people were killed during his Astroworld festival. 
+ <p class="updated_time"> 02:11 PM CT, Nov. 08 </p> 
+ <a href="https://www.nytimes.com/2021/11/08/travel/us-travel-ban-vaccination.html">U.S. Lifts Travel Ban for Vaccinated Foreigners</a> NYT: The change ends more than 18 months of restrictions that left families separated from loved ones and cost the global travel industry hundreds of billions of dollars. 
+ <p class="updated_time"> 02:07 PM CT, Nov. 08 </p> 
+ <a href="https://www.nytimes.com/2021/11/08/travel/yadnya-kasada-volcano-ritual.html">Inside a Volcanic Ritual on the Indonesian Island of Java</a> NYT: During the Hindu ceremony of Yadnya Kasada, the Tenggerese people toss offerings — food, money, flowers, livestock — into the hazy crater of Mount Bromo. 
+ <p class="updated_time"> 02:07 PM CT, Nov. 08 </p> 
+ <a href="https://www.npr.org/2021/11/08/1053608851/migrants-aided-by-belarus-try-to-push-across-polish-border">Migrants aided by Belarus try to push across Polish border</a> NPR: A large group of migrants sought to push their way over the border from Belarus into Poland. European Union leaders accuse the Belarusian government of organizing the illegal passage of migrants. 
  <p class="updated_time"> 01:47 PM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/07/world/europe/france-confession-abuse.html">French Clerical Abuse Report Puts Spotlight on Confession</a> NYT: In rare instances, it noted, the secrecy around the sacrament had been used to cover up abuse cases, again raising issues of whether church or state law should prevail. 
- <p class="updated_time"> 01:33 PM CT, Nov. 08 </p> 
- <a href="https://www.nytimes.com/2021/11/08/travel/yadnya-kasada-volcano-ritual.html">Inside a Volcanic Ritual on the Indonesian Island of Java</a> NYT: During the Hindu ceremony of Yadnya Kasada, the Tenggerese people toss offerings — food, money, flowers, livestock — into the hazy crater of Mount Bromo. 
  <p class="updated_time"> 01:29 PM CT, Nov. 08 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59210395?at_medium=RSS&at_campaign=KARANGA">COP26: Obama tells young people to stay angry on climate fight</a> BBC: The ex-US president calls for global unity and condemns "active hostility" towards climate science. 
- <p class="updated_time"> 01:29 PM CT, Nov. 08 </p> 
- <a href="https://www.nytimes.com/2021/11/08/travel/us-travel-ban-vaccination.html">U.S. Lifts Travel Ban for Vaccinated Foreigners</a> NYT: The change ends more than 18 months of restrictions that left families separated from loved ones and cost the global travel industry hundreds of billions of dollars. 
  <p class="updated_time"> 01:22 PM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/us/canada-snowbirds-arizona.html">Thousands of Canadians Head for the Southern United States Again</a> NYT: With the border opening to tourists, thousands of Canadian “snowbirds” are on their way to Florida, Arizona and California with campers in tow. 
  <p class="updated_time"> 01:16 PM CT, Nov. 08 </p> 
@@ -37,8 +41,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/08/1053545667/cop26-russia-china-obama">Obama criticizes Russia and China, some of the largest emitters, at climate talks</a> NPR: "When it comes to climate, time really is running out," the former president said. Though there has been progress since the historic Paris climate agreement, "we are nowhere near where we need to be." 
  <p class="updated_time"> 10:30 AM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/world/middleeast/nso-israel-palestinians-spyware.html">Palestinians Were Targeted by Israeli Firm’s Spyware, Experts Say</a> NYT: The findings of a new analysis raised questions about whether the Israeli government may have been behind the hacking, using spyware from the NSO Group, a surveillance company blacklisted by the United States. 
- <p class="updated_time"> 10:26 AM CT, Nov. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59205570?at_medium=RSS&at_campaign=KARANGA">Astroworld: Travis Scott and Drake sued over deadly US festival crush</a> BBC: The rapper faces legal action after at least eight people were killed during his Astroworld festival. 
  <p class="updated_time"> 09:54 AM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/world/europe/europe-us-travel-ban.html">U.S. Travel Ban Ends, and Europeans Head Overseas Again</a> NYT: Europeans were kept apart from family and friends as the ban dragged on long after E.U. leaders had opened their borders. 
  <p class="updated_time"> 09:49 AM CT, Nov. 08 </p> 
@@ -49,14 +51,14 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/06/world/europe/cop-climate-protests.html">COP26 Protesters Back an Array of Causes, Connected by Climate Change</a> NYT: Thousands gathered in the rain in Glasgow to press the case for more urgent and meaningful action by world leaders in response to global warming. 
  <p class="updated_time"> 09:10 AM CT, Nov. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59206825?at_medium=RSS&at_campaign=KARANGA">Nagaenthran Dharmalingam: Singapore halts execution of man with low IQ</a> BBC: Nagaenthran Dharmalingam was due to be hanged for trying to bring a small amount of drugs into Singapore. 
+ <p class="updated_time"> 09:00 AM CT, Nov. 08 </p> 
+ <a href="https://www.wsj.com/articles/hackers-linked-to-ransomware-attacks-on-jbs-kaseya-arrested-in-romania-11636390527">U.S. and Europe Crack Down on REvil Ransomware Group</a> WSJ: The Justice Department said it had clawed back $6.1 million in ransomware and is seeking the extradition of a Ukrainian arrested in Poland. 
  <p class="updated_time"> 07:56 AM CT, Nov. 08 </p> 
  <a href="https://www.bbc.co.uk/news/uk-59210335?at_medium=RSS&at_campaign=KARANGA">Venus Williams: 'It's important people continue to break barriers'</a> BBC: The tennis star tells 5 Live's Rick Edwards she hopes future generations don't have to focus "on the colour of their skin". 
  <p class="updated_time"> 07:31 AM CT, Nov. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59205468?at_medium=RSS&at_campaign=KARANGA">Oscar Pistorius parole process to start in South Africa</a> BBC: The ex-Paralympian will first have to meet the parents of the woman he murdered, Reeva Steenkamp. 
  <p class="updated_time"> 07:29 AM CT, Nov. 08 </p> 
  <a href="https://www.bbc.co.uk/news/technology-59206549?at_medium=RSS&at_campaign=KARANGA">TikTok: Missing girl found after using viral call for help sign</a> BBC: The hand gesture asking for help led to the rescue of a missing teenager in the US. 
- <p class="updated_time"> 07:29 AM CT, Nov. 08 </p> 
- <a href="https://www.wsj.com/articles/hackers-linked-to-ransomware-attacks-on-jbs-kaseya-arrested-in-romania-11636390527">Hackers Linked to Ransomware Attacks on JBS, Kaseya Arrested</a> WSJ: U.S. and European officials disclosed arrests in Poland and Romania of people linked to REvil ransomware attacks. 
  <p class="updated_time"> 07:20 AM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/07/travel/us-travel-ban-reunions.html">As U.S. Travel Changes Near, Global Travelers Eagerly Await Reunions</a> NYT: On Monday, travelers from many other countries who are fully vaccinated against the coronavirus will be allowed to enter the United States. 
  <p class="updated_time"> 06:42 AM CT, Nov. 08 </p> 
@@ -189,8 +191,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/06/1053163039/environmentalists-stage-large-protests-in-glasgow-demanding-more-from-cop26">Environmentalists stage large protests in Glasgow, demanding more from COP26 </a> NPR: Environmentalists are expected to stage large protests are expected in Glasgow, Scotland, today, demanding more action to combat climate change. 
  <p class="updated_time"> 07:02 AM CT, Nov. 06 </p> 
  <a href="https://www.npr.org/2021/11/06/1053162983/scores-of-people-reported-dead-in-sierra-leone-after-fuel-tanker-explosion">Scores of people reported dead in Sierra Leone after fuel tanker explosion</a> NPR: Scott Simon speaks to journalist Umaru Fofana about the deadly tanker explosion outside Freetown, Sierra Leone today. 
- <p class="updated_time"> 06:36 AM CT, Nov. 06 </p> 
- <a href="https://www.npr.org/2021/11/06/1053162519/sierra-leone-oil-tanker-explosion">An oil tanker truck explodes in Sierra Leone, killing at least 98 and injuring dozens</a> NPR: The explosion took place after a bus struck the tanker near the country's capital city. Dozens were injured after large crowds gathered to collect leaking fuel, officials and witnesses said. 
  <p class="updated_time"> 04:11 AM CT, Nov. 06 </p> 
  <a href="https://www.nytimes.com/2021/11/05/world/africa/ethiopia-tigray-eight-groups.html">Eight Groups Join Tigray Rebels Vowing to Oust Ethiopia’s Leader</a> NYT: The government calls the new coalition, announced in Washington, a “publicity stunt,” as intermediaries try to negotiate a peaceful solution to a year of conflict. 
  <p class="updated_time"> 04:00 AM CT, Nov. 06 </p> 
@@ -218,14 +218,24 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:15 PM CT, Nov. 08 </p> 
+ <a href="https://www.nytimes.com/2021/11/08/us/politics/jill-biden-surgeon-general-vaccinations-schools.html">Jill Biden and the Surgeon General Push for Covid Shots in Schools</a> NYT: The Biden administration is evoking the campaign against polio in the 1950s as it seeks to vaccinate 28 million young children against the coronavirus. 
+ <p class="updated_time"> 02:13 PM CT, Nov. 08 </p> 
+ <a href="https://www.nytimes.com/2021/11/08/business/randal-quarles-fed.html">Randal Quarles, Fed Governor, to Resign in December</a> NYT: Mr. Quarles’s term as a governor could have stretched until 2032. His departure will give the Biden administration more room to remake the Fed. 
+ <p class="updated_time"> 02:13 PM CT, Nov. 08 </p> 
+ <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DElB6sGwR-I/index.html">Jill Biden pays tribute to one of America's most iconic first ladies</a> CNN: As the season changed from summer to fall, first lady Jill Biden has found a spot to sit outside at the White House to grade her students' essays. 
+ <p class="updated_time"> 02:11 PM CT, Nov. 08 </p> 
+ <a href="https://www.nytimes.com/2021/11/08/travel/us-travel-ban-vaccination.html">U.S. Lifts Travel Ban for Vaccinated Foreigners</a> NYT: The change ends more than 18 months of restrictions that left families separated from loved ones and cost the global travel industry hundreds of billions of dollars. 
+ <p class="updated_time"> 01:56 PM CT, Nov. 08 </p> 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-08/bolsonaro-says-he-s-ready-to-join-liberal-party-before-2022-vote">Bolsonaro Says He’s Ready to Join Liberal Party Before 2022 Vote</a> Bloomberg: President Jair Bolsonaro is ready to join Brazil’s Liberal Party to run for re-election in 2022, according to CNN Brasil. 
  <p class="updated_time"> 01:55 PM CT, Nov. 08 </p> 
  <a href="https://www.npr.org/2021/11/08/1053599349/u-s-indicts-2-men-behind-ransomware-attacks-over-the-summer">U.S. indicts 2 men behind major ransomware attacks</a> NPR: The attacks shut down a meat processing plant and an internet software provider earlier this year. 
+ <p class="updated_time"> 01:54 PM CT, Nov. 08 </p> 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-08/n-j-s-murphy-sees-school-mask-mandates-being-lifted-in-phases">N.J.’s Murphy Sees School-Mask Mandates Being Lifted in Phases</a> Bloomberg: New Jersey Governor Phil Murphy said he expects to lift school-mask requirements in phases, beginning with older students who are further along getting vaccinations. He gave no timeline for when the mandates would be lifted. 
  <p class="updated_time"> 01:33 PM CT, Nov. 08 </p> 
  <a href="https://www.washingtonpost.com/politics/new-jersey-governor-concede/2021/11/08/1cec7668-409e-11ec-9ea7-3eb2406a2e24_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Democrats call on New Jersey Republican to concede gubernatorial race</a> WaPo: Republican nominee Jack Ciattarelli has refused, citing uncounted ballots, the same rationale offered by the Democratic state Senate president as he refuses to concede. 
  <p class="updated_time"> 01:30 PM CT, Nov. 08 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-08/denmark-will-bring-back-some-restrictions-as-covid-19-cases-soar">Denmark Will Bring Back Some Restrictions as Covid-19 Cases Soar</a> Bloomberg: Denmark, which has one of Europe’s highest vaccination rates, plans to re-introduce some restrictions to halt a recent spike in Covid-19 contamination cases. 
- <p class="updated_time"> 01:29 PM CT, Nov. 08 </p> 
- <a href="https://www.nytimes.com/2021/11/08/travel/us-travel-ban-vaccination.html">U.S. Lifts Travel Ban for Vaccinated Foreigners</a> NYT: The change ends more than 18 months of restrictions that left families separated from loved ones and cost the global travel industry hundreds of billions of dollars. 
  <p class="updated_time"> 01:27 PM CT, Nov. 08 </p> 
  <a href="https://www.washingtonpost.com/politics/courts_law/judge-emmet-sullivan-ethics-allegation-laurence-silberman/2021/11/08/81d83056-400a-11ec-a3aa-0255edc02eb7_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Two judges, one courthouse and an unusual accusation of unethical conduct</a> WaPo: The federal judiciary’s ethics committee cleared Judge Emmet Sullivan’s participation on a panel that recommends nominees to the president to serve on D.C. courts. 
  <p class="updated_time"> 01:23 PM CT, Nov. 08 </p> 
@@ -240,8 +250,6 @@ permalink: /projects/news/
  <a href="https://www.washingtonpost.com/politics/2021/11/08/sobering-poll-gops-embrace-coronavirus-misinformation/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">A pollster tested 8 pieces of covid misinformation. On 6 of 8, more Republicans said they were true than false.</a> WaPo: When Republicans don't believe the misinformation, it's mostly because they are unfamiliar with the claim. 
  <p class="updated_time"> 12:30 PM CT, Nov. 08 </p> 
  <a href="https://www.washingtonpost.com/politics/2021/11/08/sobering-poll-gops-embrace-coronavirus-misinformation/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">A pollster tested 8 pieces of covid misinformation. On 6 of 8, more Republicans said they were true than false.</a> WaPo: When Republicans don't believe the misinformation, it's mostly because they are unfamiliar with the claim. 
- <p class="updated_time"> 12:12 PM CT, Nov. 08 </p> 
- <a href="https://www.nytimes.com/2021/11/08/us/politics/jill-biden-surgeon-general-vaccinations-schools.html">Jill Biden and the Surgeon General Push for Covid Shots in Schools</a> NYT: The Biden administration is evoking the campaign against polio in the 1950s as it seeks to vaccinate 28 million young children against the coronavirus. 
  <p class="updated_time"> 12:05 PM CT, Nov. 08 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wcXTysw90u4/index.html">CNN Poll: Majority of Americans say Biden isn't paying attention to nation's most important issues</a> CNN: One year out from the 2022 midterm elections, 58% of Americans say President Joe Biden hasn't paid enough attention to the nation's most important problems, as a majority disapproves of the way he's handling his job as President, according to a new CNN Poll conducted by SSRS. 
  <p class="updated_time"> 12:02 PM CT, Nov. 08 </p> 
@@ -250,12 +258,10 @@ permalink: /projects/news/
  <a href="https://www.bloomberg.com/news/articles/2021-11-08/dominican-republic-calls-haiti-a-threat-cracks-down-on-migrants">Dominican Republic Calls Haiti a Threat, Cracks Down on Migrants</a> Bloomberg: The Dominican Republic is requiring hundreds of thousands of Haitians to register their whereabouts inside the country, saying the measure is to protect itself from the gang violence and unrest rattling its neighbor. 
  <p class="updated_time"> 11:50 AM CT, Nov. 08 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-08/trudeau-s-deputy-chides-air-canada-says-ceo-should-speak-french">Trudeau’s Deputy Chides Air Canada, Says CEO Should Speak French</a> Bloomberg: Justin Trudeau’s deputy urged Air Canada’s board to enshrine French-language proficiency as a job requirement for senior managers after a speech by the airline’s top executive turned into a public relations nightmare. 
- <p class="updated_time"> 11:48 AM CT, Nov. 08 </p> 
- <a href="https://www.nytimes.com/2021/11/08/business/randal-quarles-fed.html">Randal Quarles, Fed Governor, to Resign in December</a> NYT: Mr. Quarles’s term as a governor could have stretched until 2032. His departure will give the Biden administration more room to remake the Fed. 
  <p class="updated_time"> 11:34 AM CT, Nov. 08 </p> 
  <a href="https://www.washingtonpost.com/world/europe/capitol-rioter-asylum-belarus/2021/11/08/fbc4eb14-4093-11ec-9404-50a28a88b9cd_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Capitol rioter Evan Neumann applies for asylum in Belarus, local media says</a> WaPo: Neumann was presented by local media as someone who was persecuted for questioning election results. 
  <p class="updated_time"> 11:30 AM CT, Nov. 08 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-08/biden-administration-allies-unleash-attack-on-revil-ransomware">Biden Administration, Allies Unleash Attack on REvil Ransomware</a> Bloomberg: After vowing for months to crack down on ransomware, the Biden administration and allied countries unleashed a string of actions Monday against one of the most prolific hacking groups and also issued sanctions against cryptocurrency entities that allegedly enable such attacks. 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-08/biden-administration-allies-unleash-attack-on-revil-ransomware">Russia-Linked REvil Hackers Hit With Arrests by U.S., Allies</a> Bloomberg: After vowing for months to crack down on ransomware, the Biden administration and allied countries unleashed a string of actions Monday against one of the most prolific hacking groups and also issued sanctions against cryptocurrency entities that allegedly enable such attacks. 
  <p class="updated_time"> 11:28 AM CT, Nov. 08 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/U64XT9DznBM/index.html">CIA Director had rare conversation with Putin while in Moscow last week</a> CNN: CIA Director Bill Burns held a rare conversation with Russian President Vladimir Putin in Moscow last week, to convey "serious" US concerns about Russia's military buildup along the Ukrainian border and to attempt to determine Russian intentions, two sources with direct knowledge told CNN. 
  <p class="updated_time"> 11:14 AM CT, Nov. 08 </p> 
@@ -294,10 +300,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/08/obama-hits-russia-china-for-absence-of-urgency-on-climate-520270">Obama hits Russia, China for 'absence of urgency' on climate</a> Politico: The former president's appearance on the sidelines of the talks is meant to remind governments of the elation that surrounded the striking of the Paris accord. 
  <p class="updated_time"> 09:21 AM CT, Nov. 08 </p> 
  <a href="https://www.washingtonpost.com/politics/interactive/2020/biden-appointee-tracker/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Tracking the political appointees Biden is nominating to fill the top roles in his administration</a> WaPo: Follow the president-elect’s progress filling nearly 800 positions, among the 1,200 that require Senate confirmation, in this tracker from The Washington Post and the Partnership for Public Service. 
- <p class="updated_time"> 09:14 AM CT, Nov. 08 </p> 
- <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DElB6sGwR-I/index.html">Jill Biden pays tribute to one of America's most iconic first ladies</a> CNN: As the season changed from summer to fall, first lady Jill Biden has found a spot to sit outside at the White House to grade her students' essays. 
  <p class="updated_time"> 08:54 AM CT, Nov. 08 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-08/murphy-campaign-urges-ciattarelli-to-concede-n-j-governor-race">Ciattarelli Refuses to Concede Until All N.J. Votes Are Counted</a> Bloomberg: New Jersey Republican gubernatorial candidate Jack Ciattarelli, who trails incumbent Phil Murphy by more than 66,000 votes, will wait for all ballots to be tallied before deciding whether to concede or seek a recount, according to his campaign. 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-08/murphy-campaign-urges-ciattarelli-to-concede-n-j-governor-race">Ciattarelli Won’t Concede, Keeps Door Open for N.J. Recount</a> Bloomberg: New Jersey Republican gubernatorial candidate Jack Ciattarelli, who trails incumbent Phil Murphy by more than 66,000 votes, will wait for all ballots to be tallied before deciding whether to concede or seek a recount, according to his campaign. 
  <p class="updated_time"> 08:18 AM CT, Nov. 08 </p> 
  <a href="https://www.washingtonpost.com/politics/rick-scott-sean-parnell/2021/11/08/d21bb370-4097-11ec-a3aa-0255edc02eb7_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">NRSC chair Rick Scott declines to say if Trump-backed Senate hopeful accused of strangling wife is right candidate for the job</a> WaPo: Pressed during an interview about Sean Parnell, the senator from Florida said it is not his job to endorse candidates in open primaries. Parnell has been endorsed by former president Donald Trump. 
  <p class="updated_time"> 08:08 AM CT, Nov. 08 </p> 
@@ -326,8 +330,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/11/08/big-obstacles-await-biden-after-big-win-495012">POLITICO Playbook: Big obstacles await Biden after big win</a> Politico: And midterm elections are a year from today. 
  <p class="updated_time"> 05:48 AM CT, Nov. 08 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/i9Ydbx0FfR0/index.html">Jill Biden's child vaccine tour will include push for more children vaccination sites</a> CNN: First lady Jill Biden and US Surgeon General Dr. Vivek Murthy will make a push for boosting the number of Covid-19 vaccination sites for children Monday as they kick off a nationwide administration effort to encourage vaccines for the nation's youngest and newly eligible candidates. 
- <p class="updated_time"> 05:01 AM CT, Nov. 08 </p> 
- <a href="https://www.bloomberg.com/news/newsletters/2021-11-08/xi-kicks-off-china-s-election-season">Xi Kicks Off China’s ‘Election Season’</a> Bloomberg: That President Xi Jinping wants longer in power in China is no great secret. But a document coming this week pretty much confirms it. 
  <p class="updated_time"> 05:00 AM CT, Nov. 08 </p> 
  <a href="https://www.washingtonpost.com/politics/2021/11/08/mitch-mcconnell-trump-impeachment-insurrection-senate/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Mitch McConnell spent decades chasing power. Now he heeds Trump, who mocks him and wants him gone.</a> WaPo: In his 16th year as the Senate’s top Republican, McConnell is increasingly playing the role of a conflicted and compromised booster of Trump’s interests — not a leader with his own vision. 
  <p class="updated_time"> 04:51 AM CT, Nov. 08 </p> 
@@ -344,8 +346,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/08/va-reject-medical-marijuana-veterans-519757">VA rejects cannabis research as veterans plead for medical pot</a> Politico: Scientists say the VA and the DOJ have a history of stonewalling anyone who wants to conduct trials of plant-derived cannabis for therapeutic purposes. 
  <p class="updated_time"> 04:30 AM CT, Nov. 08 </p> 
  <a href="https://www.politico.com/news/2021/11/08/democratic-senate-majority-dicey-virginia-520214">The Democratic Senate majority was already dicey. Then came Virginia.</a> Politico: A favorable map is not going to be enough to save Senate Dems. But they might get help from a few tarnished GOP candidates. 
- <p class="updated_time"> 04:26 AM CT, Nov. 08 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-08/singapore-partly-rolls-back-dining-curbs-as-virus-outbreak-eases">Singapore Eases Some Virus Curbs as Music Returns to Restaurants</a> Bloomberg: Singapore is easing some tough Covid restrictions put in place more than a month ago to tackle a surge in infections, with five people from the same residence allowed to dine at restaurants starting from Wednesday. 
  <p class="updated_time"> 04:06 AM CT, Nov. 08 </p> 
  <a href="https://www.npr.org/2021/11/08/1053442982/harris-will-be-the-top-u-s-official-at-a-large-gathering-of-world-leaders-in-fra">Harris will be the top U.S. official at a large gathering of world leaders in France</a> NPR: Vice President Harris heads to France, a trip where she will have face time with more than two dozen world leaders, and a chance to build up her track record on international diplomacy. 
  <p class="updated_time"> 04:00 AM CT, Nov. 08 </p> 
