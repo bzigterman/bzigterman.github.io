@@ -73,6 +73,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-59205372?at_medium=RSS&at_campaign=KARANGA">Sierra Leone tanker explosion: Mass burial in Freetown</a> BBC: Many of the victims were burnt beyond recognition after fuel leaked and caught fire on Friday. 
  <p class="updated_time"> 11:46 AM CT, Nov. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59205765?at_medium=RSS&at_campaign=KARANGA">Yemeni model jailed for indecency by rebel authorities</a> BBC: Human rights activists say the trial of Intisar al-Hammadi by Houthi authorities was unfair. 
+ <p class="updated_time"> 11:21 AM CT, Nov. 08 </p> 
+ <a href="https://www.wsj.com/articles/china-has-built-mock-ups-of-u-s-aircraft-carrier-warships-in-the-desert-11636403790">China Has Built Mock-Up of U.S. Aircraft Carrier, Warships in the Desert</a> WSJ: Satellite images indicate the People’s Liberation Army is focused on increasingly realistic training methods as tension over Taiwan rises. 
  <p class="updated_time"> 10:44 AM CT, Nov. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59210417?at_medium=RSS&at_campaign=KARANGA">Satellite images appear to show mock-up US warships in China desert</a> BBC: Satellite photos appear to show the outlines of full-scale vessels, including an aircraft carrier. 
  <p class="updated_time"> 10:41 AM CT, Nov. 08 </p> 
@@ -113,8 +115,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/08/world/europe/romania-covid-vaccine-refusal.html">In Romania, Hard-Hit by Covid, Doctors Fight Vaccine Refusal</a> NYT: An anti-vaccine clarion call by leading religious figures, echoed by prominent politicians and social media, helps explain why Romania now has the world’s highest Covid death rate. 
  <p class="updated_time"> 04:00 AM CT, Nov. 08 </p> 
  <a href="https://www.wsj.com/articles/cubas-dissidents-dig-in-despite-government-crackdown-11636383600">Cuba's Dissidents Dig In Despite Government Crackdown</a> WSJ: Activists, artists and professionals challenge the Communist regime even as hundreds of protesters face contempt, sedition and sabotage charges. 
- <p class="updated_time"> 01:00 AM CT, Nov. 08 </p> 
- <a href="https://www.wsj.com/articles/chinas-economy-faces-risk-of-yearslong-real-estate-hangover-11636372801">China's Economy Faces Risk of Yearslong Real-Estate Hangover</a> WSJ: China’s aggressive campaign to root out speculative real-estate activity could slow the country’s growth rate for years to come, economists say, even if a major housing correction is averted. 
  <p class="updated_time"> 12:40 AM CT, Nov. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59202880?at_medium=RSS&at_campaign=KARANGA">Afghans facing 'hell on earth' as winter looms</a> BBC: The World Food Programme says 23 million people are "marching towards starvation" in the country. 
  <p class="updated_time"> 12:37 AM CT, Nov. 08 </p> 
@@ -218,6 +218,10 @@ permalink: /projects/news/
 
  <p class="updated_time"> 05:29 PM CT, Nov. 08 </p> 
  <a href="https://www.politico.com/news/2021/11/08/shooting-victim-kyle-rittenhouse-520336">Shooting victim says he was pointing his gun at Rittenhouse</a> Politico: “I thought the defendant was an active shooter,” Gaige Grosskreutz testified. 
+ <p class="updated_time"> 05:09 PM CT, Nov. 08 </p> 
+ <a href="https://www.washingtonpost.com/politics/2021/11/08/this-is-why-its-useful-talk-about-historic-examples-institutionalized-racism/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">And this is why it’s useful to talk about historical examples of institutionalized racism</a> WaPo: Right-wing guffaws over a comment from Transportation Secretary Pete Buttigieg reveal a lack of familiarity with history. 
+ <p class="updated_time"> 05:08 PM CT, Nov. 08 </p> 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-08/time-s-running-out-to-end-ethiopia-war-african-union-envoy-says">Time’s Running Out to End Ethiopia War, African Union Envoy Says</a> Bloomberg: Both of the waring parties in Ethiopia’s conflict could agree to a political solution, the African Union special envoy for the Horn of Africa said after meeting the two sides, but he warned that the “window of opportunity” is limited.&nbsp; 
  <p class="updated_time"> 04:53 PM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/us/supreme-court-fbi-muslims.html">Supreme Court Weighs Case Against F.B.I. for Spying on Muslims</a> NYT: The justices considered whether the state secrets doctrine required dismissal on national security grounds of a case claiming religious discrimination. 
  <p class="updated_time"> 04:49 PM CT, Nov. 08 </p> 
@@ -232,8 +236,6 @@ permalink: /projects/news/
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2pzftxfVv6Y/index.html">Josh Hawley and the 'left-wing attack on manhood'</a> CNN: No doubt about it, there's a lot to worry about in the country these days: Covid. Inflation. Poverty. Polarized politics. Democracy itself. 
  <p class="updated_time"> 04:38 PM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/us/politics/justice-dept-ransomware.html">Justice Dept. Brings New Charges in Ransomware Attacks</a> NYT: The department said it had charged a Russian national in one attack and recovered $6.1 million in ransom. It also arrested a Ukrainian man for another attack. 
- <p class="updated_time"> 04:28 PM CT, Nov. 08 </p> 
- <a href="https://www.washingtonpost.com/politics/2021/11/08/this-is-why-its-useful-talk-about-historic-examples-institutionalized-racism/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">And this is why it’s useful to talk about historic examples of institutionalized racism</a> WaPo: Right-wing guffaws over a comment from Transportation Secretary Pete Buttigieg reveal a lack of familiarity with history. 
  <p class="updated_time"> 04:11 PM CT, Nov. 08 </p> 
  <a href="https://www.washingtonpost.com/politics/republicans-gosar-trump-ocasio-cortez/2021/11/08/ead37b36-40ca-11ec-9ea7-3eb2406a2e24_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Rep. Paul Gosar tweets photoshopped anime video showing him killing Rep. Ocasio-Cortez and attacking President Biden</a> WaPo: The Arizona Republican’s tweeting of the video prompted condemnation and calls for his Twitter account to be suspended for glorification of violence. 
  <p class="updated_time"> 04:08 PM CT, Nov. 08 </p> 
@@ -343,7 +345,7 @@ permalink: /projects/news/
  <p class="updated_time"> 10:50 AM CT, Nov. 08 </p> 
  <a href="https://www.npr.org/2021/11/08/1053548074/big-bird-covid-19-vaccine-conservative-backlash-ted-cruz">Big Bird got 'vaccinated' against COVID-19, drawing outrage from Republicans</a> NPR: Big Bird, who is technically 6 years old, got his COVID-19 vaccine over the weekend. His announcement did not sit well with conservatives like Sen. Ted Cruz, who called it "government propaganda." 
  <p class="updated_time"> 10:25 AM CT, Nov. 08 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-08/chile-starts-key-pinera-impeachment-session-with-13-hour-speech">Chile Starts Impeachment Session With 13-Hour Speech</a> Bloomberg: Chile’s lower house started its voting session on an impeachment motion against President Sebastian Pinera with a marathon speech aimed at giving a key opposition lawmaker time to arrive at congress. 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-08/chile-starts-key-pinera-impeachment-session-with-13-hour-speech">Chile Impeachment Push Is On With 13-Hour Opposition Speech</a> Bloomberg: Chile’s lower house prolonged its voting session on an impeachment motion against President Sebastian Pinera with a marathon speech aimed at giving a key opposition lawmaker time to arrive at congress. 
  <p class="updated_time"> 10:21 AM CT, Nov. 08 </p> 
  <a href="https://www.washingtonpost.com/politics/2021/11/08/more-confirmation-that-gop-under-trump-is-hostage-situation/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">The GOP under Trump is a hostage situation</a> WaPo: Yet another report indicates Trump threatened to switch parties. And the denials aren't adding up. 
  <p class="updated_time"> 10:21 AM CT, Nov. 08 </p> 
