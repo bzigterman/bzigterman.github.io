@@ -7,14 +7,22 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:10 PM CT, Nov. 08 </p> 
+ <a href="https://www.nytimes.com/2021/11/08/world/americas/brazil-telegram-disinformation.html">Brazil’s Far-Right Disinformation Pushers Find a Safe Space on Telegram</a> NYT: In a social media ecosystem facing mounting pressure to combat fake news and polarization, Telegram is the most permissive disseminator of content — and disinformation. 
+ <p class="updated_time"> 12:09 PM CT, Nov. 08 </p> 
+ <a href="https://www.nytimes.com/2021/11/08/world/asia/new-zealand-ease-lockdown-restrictions.html">New Zealand's Biggest City Is to Ease Lockdown Restrictions</a> NYT: The lifting of rules comes as the country records some of its highest daily case numbers since the pandemic began. 
  <p class="updated_time"> 11:47 AM CT, Nov. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59205372?at_medium=RSS&at_campaign=KARANGA">Sierra Leone tanker explosion: Mass burial in Freetown</a> BBC: Many of the victims were burnt beyond recognition after fuel leaked and caught fire on Friday. 
+ <p class="updated_time"> 11:46 AM CT, Nov. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-59205765?at_medium=RSS&at_campaign=KARANGA">Yemeni model jailed for indecency by rebel authorities</a> BBC: Human rights activists say the trial of Intisar al-Hammadi by Houthi authorities was unfair. 
  <p class="updated_time"> 11:41 AM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/travel/us-travel-ban-vaccination.html">U.S. Lifts Travel Ban for Vaccinated Foreigners</a> NYT: The change ends more than 18 months of restrictions that left families separated from loved ones and cost the global travel industry hundreds of billions of dollars. 
  <p class="updated_time"> 11:26 AM CT, Nov. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59206685?at_medium=RSS&at_campaign=KARANGA">Poland fears major breach by migrants on Belarus border</a> BBC: Thousands of troops patrol the border, where migrants have tried to enter Poland from Belarus. 
  <p class="updated_time"> 10:50 AM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/world/europe/uk-brexit-estonia-business.html">Brexit Brain Drain  Delivers Financial Boon to Estonia</a> NYT: The former Soviet satellite state is welcoming British companies looking to escape the tangle of regulations and financial obstacles of doing business in Europe. 
+ <p class="updated_time"> 10:44 AM CT, Nov. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-59210417?at_medium=RSS&at_campaign=KARANGA">Satellite images appear to show mock-up US warships in China desert</a> BBC: Satellite photos appear to show the outlines of full-scale vessels, including an aircraft carrier. 
  <p class="updated_time"> 10:41 AM CT, Nov. 08 </p> 
  <a href="https://www.npr.org/2021/11/08/1053545667/cop26-russia-china-obama">Obama criticizes Russia and China, some of the largest emitters, at climate talks</a> NPR: "When it comes to climate, time really is running out," the former president said. Though there has been progress since the historic Paris climate agreement, "we are nowhere near where we need to be." 
  <p class="updated_time"> 10:30 AM CT, Nov. 08 </p> 
@@ -31,8 +39,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/06/world/europe/cop-climate-protests.html">COP26 Protesters Back an Array of Causes, Connected by Climate Change</a> NYT: Thousands gathered in the rain in Glasgow to press the case for more urgent and meaningful action by world leaders in response to global warming. 
  <p class="updated_time"> 09:10 AM CT, Nov. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59206825?at_medium=RSS&at_campaign=KARANGA">Nagaenthran Dharmalingam: Singapore halts execution of man with low IQ</a> BBC: Nagaenthran Dharmalingam was due to be hanged for trying to bring a small amount of drugs into Singapore. 
- <p class="updated_time"> 08:45 AM CT, Nov. 08 </p> 
- <a href="https://www.nytimes.com/2021/11/08/world/asia/new-zealand-ease-lockdown-restrictions.html">New Zealand's Biggest City Is to Ease Lockdown Restrictions</a> NYT: The lifting of rules comes as the country records some of its highest daily case numbers since the pandemic began. 
  <p class="updated_time"> 07:56 AM CT, Nov. 08 </p> 
  <a href="https://www.bbc.co.uk/news/uk-59210335?at_medium=RSS&at_campaign=KARANGA">Venus Williams: 'It's important people continue to break barriers'</a> BBC: The tennis star tells 5 Live's Rick Edwards she hopes future generations don't have to focus "on the colour of their skin". 
  <p class="updated_time"> 07:31 AM CT, Nov. 08 </p> 
@@ -47,8 +53,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/hackers-linked-to-ransomware-attacks-on-jbs-kaseya-arrested-in-romania-11636390527">Hackers Linked to Ransomware Attacks on JBS, Kaseya Arrested in Romania</a> WSJ: Law enforcement took into custody two people linked to attacks on Kaseya Ltd., a provider of internet services, and meat processing company JBS USA Holdings Inc., Europol said. 
  <p class="updated_time"> 06:23 AM CT, Nov. 08 </p> 
  <a href="https://www.wsj.com/articles/u-s-opens-borders-to-vaccinated-europeans-others-after-more-than-18-months-11636386116">U.S. Opens Borders to Vaccinated Europeans, Others, After More Than 18 Months</a> WSJ: Vaccinated non-American citizens from previously restricted countries—predominantly in Europe—are allowed to travel to the U.S. from today, if they have proof of vaccination and a negative Covid-19 test taken within the prior three days. 
- <p class="updated_time"> 06:08 AM CT, Nov. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59206683?at_medium=RSS&at_campaign=KARANGA">Poland clarifies abortion law after protests over mother’s death</a> BBC: The guidance was issued after a pregnant woman's death was blamed on Poland's strict abortion laws. 
  <p class="updated_time"> 06:07 AM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/world/europe/france-police-officer-stabbed-cannes.html">Police Officer Stabbed on French Riviera, Authorities Say</a> NYT: Gérald Darmanin, France’s interior minister, said an assailant had stabbed an officer in Cannes. The motive for the attack was not immediately clear. 
  <p class="updated_time"> 06:00 AM CT, Nov. 08 </p> 
@@ -61,8 +65,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/08/insider/taliban-kabul-afghanistan-journalists.html">When the Taliban Are in Your Bedroom</a> NYT: As armed Taliban inspected the New York Times bureau in Kabul, they were escorted by a journalist who used to be a U.S. Marine. The photo of him in uniform was plain for all to see, and ponder. 
  <p class="updated_time"> 04:30 AM CT, Nov. 08 </p> 
  <a href="https://www.npr.org/2021/11/08/1053434232/the-u-s-lifts-the-pandemic-travel-ban-and-opens-the-doors-to-international-visit">The U.S. lifts the pandemic travel ban and opens the doors to international visitors</a> NPR: Starting Monday, the U.S. begins accepting fully vaccinated travelers at airports and land borders, doing away with a COVID-19 restriction that dates back to the Trump administration. 
- <p class="updated_time"> 04:20 AM CT, Nov. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59168540?at_medium=RSS&at_campaign=KARANGA">WHO casts doubt on Turkmenistan's zero-Covid claim</a> BBC: A World Health Organization official tells the BBC it is "unlikely the virus is not circulating". 
  <p class="updated_time"> 04:13 AM CT, Nov. 08 </p> 
  <a href="https://www.wsj.com/articles/germany-economy-lagging-behind-europe-supply-chain-11636383954">Germany's Economy, Once Europe's Engine, Is Holding It Back</a> WSJ: Germany’s export-oriented businesses have fared poorly in a post-pandemic world of broken supply chains and rising energy prices. The malaise is fueling a debate over whether the German economy needs a reboot and what it should look like. 
  <p class="updated_time"> 04:12 AM CT, Nov. 08 </p> 
@@ -201,8 +203,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/05/world/europe/shortages-german-economic-growth.html">Germany's Economy Hindered by Supply Chain Problems </a> NYT: The order books in Europe’s largest economy are full, but a lack of parts and raw materials means companies are struggling to fill them. 
  <p class="updated_time"> 09:28 AM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/05/world/europe/vienna-vaccinate-young-children.html">Vienna Will Start to Vaccinate Young Children</a> NYT: Pediatricians in the Austrian capital will authorize the off-label use of the BioNTech-Pfizer vaccine for children starting next Friday. 
- <p class="updated_time"> 05:04 AM CT, Nov. 05 </p> 
- <a href="https://www.nytimes.com/2021/11/05/world/asia/japan-quarantine-covid.html">Japan Will Cut Quarantine for Business Travelers to 3 Days</a> NYT: The easing of rules comes as cases decline significantly. The country has virtually closed its borders since the start of the pandemic. 
  <p class="updated_time"> 05:26 AM CT, Nov. 04 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-56901261?at_medium=RSS&at_campaign=KARANGA">COP26: What is the Glasgow climate conference and why is it important?</a> BBC: A crucial climate change summit is being held in the UK - this is why it's important. 
  <p class="updated_time"> 11:30 AM CT, Nov. 03 </p> 
@@ -214,8 +214,16 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:14 PM CT, Nov. 08 </p> 
+ <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9p9GkYhH3_M/index.html">US seizes $6 million in ransom payments and expected to charge Ukrainian over major cyberattack </a> CNN: Law enforcement officials have seized an estimated $6 million in ransom payments, and the US Justice Department is expected to announce Monday that it has charged a suspect from Ukraine over a damaging July ransomware attack on an American company in a breakthrough for the Biden administration's pursuit of cybercriminals, CNN has learned. 
+ <p class="updated_time"> 12:12 PM CT, Nov. 08 </p> 
+ <a href="https://www.nytimes.com/2021/11/08/us/politics/jill-biden-surgeon-general-vaccinations-schools.html">Jill Biden and the Surgeon General Push for Covid Shots in Schools</a> NYT: The Biden administration is evoking the campaign against polio in the 1950s as it seeks to vaccinate 28 million young children against the coronavirus. 
+ <p class="updated_time"> 12:05 PM CT, Nov. 08 </p> 
+ <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wcXTysw90u4/index.html">CNN Poll: Majority of Americans say Biden isn't paying attention to nation's most important issues</a> CNN: One year out from the 2022 midterm elections, 58% of Americans say President Joe Biden hasn't paid enough attention to the nation's most important problems, as a majority disapproves of the way he's handling his job as President, according to a new CNN Poll conducted by SSRS. 
  <p class="updated_time"> 12:02 PM CT, Nov. 08 </p> 
  <a href="https://www.politico.com/news/2021/11/08/new-jerseys-midterm-carnage-520293">New Jersey’s most powerful Democratic boss predicts midterm carnage</a> Politico: George Norcross says nobody in the state predicted last week’s losses for the party. “It was just a tsunami,” he said. “Nobody saw this coming.” 
+ <p class="updated_time"> 11:50 AM CT, Nov. 08 </p> 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-08/trudeau-s-deputy-chides-air-canada-says-ceo-should-speak-french">Trudeau’s Deputy Chides Air Canada, Says CEO Should Speak French</a> Bloomberg: Justin Trudeau’s deputy urged Air Canada’s board of directors to enshrine French-language proficiency as a job requirement for senior managers after a speech by the airline’s top executive turned into a public relations nightmare. 
  <p class="updated_time"> 11:48 AM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/business/randal-quarles-fed.html">Randal Quarles, Fed Governor, to Resign in December</a> NYT: Mr. Quarles’s term as a governor could have stretched until 2032. His departure will give the Biden administration more room to remake the Fed. 
  <p class="updated_time"> 11:41 AM CT, Nov. 08 </p> 
@@ -226,10 +234,6 @@ permalink: /projects/news/
  <a href="https://www.bloomberg.com/news/articles/2021-11-08/biden-administration-allies-unleash-attack-on-revil-ransomware">Biden Administration, Allies Unleash Attack on REvil Ransomware</a> Bloomberg: After vowing for months to crack down on ransomware, the Biden administration and allied countries unleashed a string of actions Monday against one of the most prolific hacking groups and also issued sanctions against cryptocurrency entities that allegedly enable such attacks. 
  <p class="updated_time"> 11:28 AM CT, Nov. 08 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/U64XT9DznBM/index.html">CIA Director had rare conversation with Putin while in Moscow last week</a> CNN: CIA Director Bill Burns held a rare conversation with Russian President Vladimir Putin in Moscow last week, to convey "serious" US concerns about Russia's military buildup along the Ukrainian border and to attempt to determine Russian intentions, two sources with direct knowledge told CNN. 
- <p class="updated_time"> 11:27 AM CT, Nov. 08 </p> 
- <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wcXTysw90u4/index.html">CNN Poll: Majority of Americans say Biden isn't paying attention to nation's most important issues</a> CNN: One year out from the 2022 midterm elections, 58% of Americans say President Joe Biden hasn't paid enough attention to the nation's most important problems, as a majority disapproves of the way he's handling his job as President, according to a new CNN Poll conducted by SSRS. 
- <p class="updated_time"> 11:23 AM CT, Nov. 08 </p> 
- <a href="https://www.nytimes.com/2021/11/08/us/politics/jill-biden-surgeon-general-vaccinations-schools.html">Jill Biden and the Surgeon General Push for Covid Shots in Schools</a> NYT: The Biden administration is evoking the campaign against polio in the 1950s as it seeks to vaccinate 28 million young children against the coronavirus. 
  <p class="updated_time"> 11:18 AM CT, Nov. 08 </p> 
  <a href="https://www.washingtonpost.com/politics/new-jersey-governor-concede/2021/11/08/1cec7668-409e-11ec-9ea7-3eb2406a2e24_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Democrats call on New Jersey Republican to concede gubernatorial race</a> WaPo: Republican nominee Jack Ciattarelli has refused, citing uncounted ballots, the same rationale offered by the Democratic state Senate president as he refuses to concede. 
  <p class="updated_time"> 11:10 AM CT, Nov. 08 </p> 
@@ -238,8 +242,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/08/trump-2024-midterms-520276">Trump: 2024 announcement 'probably' coming after midterms</a> Politico: "A lot of people will be very happy," the former president told Fox News. 
  <p class="updated_time"> 11:07 AM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/07/us/politics/republican-party-trump.html">Republicans, Basking in Tuesday’s Victories, Diverge on What Comes Next</a> NYT: Looming over a gathering of Jewish conservatives in Las Vegas were questions about whether former President Donald J. Trump should remain the face of the party. 
- <p class="updated_time"> 10:57 AM CT, Nov. 08 </p> 
- <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9p9GkYhH3_M/index.html">US seizes $6 million in ransom payments and expected to charge Ukrainian over major cyberattack </a> CNN: Law enforcement officials have seized an estimated $6 million in ransom payments, and the US Justice Department is expected to announce Monday that it has charged a suspect from Ukraine over a damaging July ransomware attack on an American company in a breakthrough for the Biden administration's pursuit of cybercriminals, CNN has learned. 
  <p class="updated_time"> 10:50 AM CT, Nov. 08 </p> 
  <a href="https://www.npr.org/2021/11/08/1053548074/big-bird-covid-19-vaccine-conservative-backlash-ted-cruz">Big Bird got 'vaccinated' against COVID-19, drawing outrage from Republicans</a> NPR: Big Bird, who is technically 6 years old, got his COVID-19 vaccine over the weekend. His announcement did not set well with conservatives like Sen. Ted Cruz, who called it "government propaganda." 
  <p class="updated_time"> 10:34 AM CT, Nov. 08 </p> 
@@ -331,15 +333,11 @@ permalink: /projects/news/
  <p class="updated_time"> 04:01 AM CT, Nov. 08 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-08/xi-s-expanding-power-is-a-growing-risk-for-china-s-economy">Xi’s Expanding Power Is a Growing Risk for China’s Economy</a> Bloomberg: Local officials either take orders too far or become paralyzed with fear as they strive to please China’s leader.&nbsp; 
  <p class="updated_time"> 04:00 AM CT, Nov. 08 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-08/poland-warns-large-migrant-group-may-try-to-enter-from-belarus">Poland Repels Migrant Group Seeking to Enter From Belarus</a> Bloomberg: A Polish border guard used tear gas to stop people from entering from the European Union country’s eastern border and officials warned of deepening tensions as hundreds of migrants gathered on the Belarusian side. 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-08/poland-warns-large-migrant-group-may-try-to-enter-from-belarus">Crisis on EU Border Heats Up as Poland Uses Tear Gas on Migrants</a> Bloomberg: The months-long humanitarian crisis on the European Union’s eastern flank escalated with Belarus-backed migrants storming barbed-wire fences on the Polish border, only to be repelled by tear gas. 
  <p class="updated_time"> 04:00 AM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/nyregion/nassau-county-republicans-election.html">Why Republicans Won in Nassau County</a> NYT: Voters readily ousted Democrats in Nassau County on Long Island, electing Republicans down the ballot. 
  <p class="updated_time"> 04:00 AM CT, Nov. 08 </p> 
  <a href="https://www.npr.org/2021/11/08/1052567444/supreme-court-to-hear-arguments-on-fbis-surveillance-of-mosques">Supreme Court to hear arguments on FBI's surveillance of mosques </a> NPR: The argument will focus on whether this case can move forward at all because the government argues that for it to produce any of the evidence gathered 15 years ago would jeopardize national security. 
- <p class="updated_time"> 04:00 AM CT, Nov. 08 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-08/u-s-u-k-join-nations-sounding-alarm-over-china-import-rules">U.S., U.K. Join Nations Sounding Alarm Over China Import Rules</a> Bloomberg: Several countries including Japan, the U.K. and the U.S. are urging Chinese customs officials to pause the rollout of regulations on food imports, arguing the measures risk further disrupting global supply chains. 
- <p class="updated_time"> 04:00 AM CT, Nov. 08 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-08/chile-s-election-dark-horse-helps-to-prop-up-recent-bond-gains">Conservative’s Rise in Polls is Giving a Boost to Chile’s Ailing Bond Market</a> Bloomberg: The race for Chile’s presidency has been thrown wide open by a sudden surge in support for a far-right candidate, who has stolen the thunder from the left-wing favorite with a program to slash taxes. The bond market is beginning to pay attention. 
  <p class="updated_time"> 03:50 AM CT, Nov. 08 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-08/german-spd-nominates-scholz-ally-klingbeil-as-party-co-leader">German SPD Taps Scholz Ally, Plays Down Coalition Talks ‘Wobble’</a> Bloomberg: Germany’s Social Democrats nominated one of the main architects of their victory in September’s election to take over as party co-leader, and played down suggestions that their goal of forming a new government by early December is at risk. 
  <p class="updated_time"> 03:00 AM CT, Nov. 08 </p> 
