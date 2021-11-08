@@ -14,14 +14,14 @@ layout: default
   </div> 
   
   <div>
-  <div class="post-nav-older">
+  <div class="post-nav-newer">
     {% if page.next.url %}
-    <a href="{{page.next.url}}">Older</a>
+    <a href="{{page.next.url}}">Newer</a>
     {% endif %}
   </div>
-  <div class="post-nav-newer">
+  <div class="post-nav-older">
     {% if page.previous.url %}
-    <a href="{{page.previous.url}}">Newer</a>
+    <a href="{{page.previous.url}}">Older</a>
     {% endif %}
   </div>
   </div>
