@@ -7,12 +7,14 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:40 AM CT, Nov. 08 </p> 
+ <a href="https://www.nytimes.com/2021/11/08/world/europe/europe-us-travel-ban.html">U.S. Travel Ban Ends, and Europeans Head Overseas Again</a> NYT: Europeans were kept apart from family and friends as the ban dragged on long after E.U. leaders had opened their borders. 
  <p class="updated_time"> 04:36 AM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/insider/taliban-kabul-afghanistan-journalists.html">When the Taliban Are in Your Bedroom</a> NYT: As armed Taliban inspected the New York Times bureau in Kabul, they were escorted by a journalist who used to be a U.S. Marine. The photo of him in uniform was plain for all to see, and ponder. 
  <p class="updated_time"> 04:30 AM CT, Nov. 08 </p> 
  <a href="https://www.npr.org/2021/11/08/1053434232/the-u-s-lifts-the-pandemic-travel-ban-and-opens-the-doors-to-international-visit">The U.S. lifts the pandemic travel ban and opens the doors to international visitors</a> NPR: Starting Monday, the U.S. begins accepting fully vaccinated travelers at airports and land borders, doing away with a COVID-19 restriction that dates back to the Trump administration. 
- <p class="updated_time"> 04:22 AM CT, Nov. 08 </p> 
- <a href="https://www.nytimes.com/2021/11/08/world/europe/europe-us-travel-ban.html">Europe-to-U.S. Travel Ban Ends, Finally</a> NYT: Europeans were kept apart from family and friends as the ban dragged on long after E.U. leaders had opened their borders. 
+ <p class="updated_time"> 04:20 AM CT, Nov. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59168540?at_medium=RSS&at_campaign=KARANGA">WHO casts doubt on Turkmenistan's zero-Covid claim</a> BBC: A World Health Organization official tells the BBC it is "unlikely the virus is not circulating". 
  <p class="updated_time"> 04:12 AM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/07/world/americas/nicaragua-election-ortega.html">In Nicaragua Election, Ortega Crushes Dissent</a> NYT: President Daniel Ortega quashed the opposition and struck fear in voters, all but guaranteeing his victory in a presidential contest on Sunday. 
  <p class="updated_time"> 04:02 AM CT, Nov. 08 </p> 
@@ -55,8 +57,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59182550?at_medium=RSS&at_campaign=KARANGA">Diamonds v trees: The community trying to save its forest</a> BBC: The Madhya Pradesh state government says a new diamond mine will bring jobs but local people say their lives will be destroyed. 
  <p class="updated_time"> 06:02 PM CT, Nov. 07 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59141041?at_medium=RSS&at_campaign=KARANGA">The space telescopes inspired by lobsters</a> BBC: By mimicking the way lobsters’ eyes work, scientists have designed new X-ray space telescopes that can survey much larger areas. 
- <p class="updated_time"> 05:15 PM CT, Nov. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59197250?at_medium=RSS&at_campaign=KARANGA">Sudan coup: Protesters tear-gassed at rally in Khartoum</a> BBC: Protesters are demanding the military step back and allow the transition to civilian rule. 
  <p class="updated_time"> 04:06 PM CT, Nov. 07 </p> 
  <a href="https://www.bbc.co.uk/news/business-59182278?at_medium=RSS&at_campaign=KARANGA">Twitter poll calls on Elon Musk to sell 10% stake in Tesla</a> BBC: The Tesla boss had promised to honour the outcome of the poll, whichever way it went. 
  <p class="updated_time"> 04:01 PM CT, Nov. 07 </p> 
@@ -64,7 +64,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:00 PM CT, Nov. 07 </p> 
  <a href="https://www.nytimes.com/2021/11/07/world/asia/afghan-pilots-taliban-us.html">Afghan Military Pilots, on the Run, Feel Abandoned by U.S.</a> NYT: Detained in Tajikistan, or hiding from the Taliban in Afghanistan, many pilots wonder why the military that trained them is not coming to their aid. 
  <p class="updated_time"> 03:41 PM CT, Nov. 07 </p> 
- <a href="https://www.bbc.co.uk/news/uk-northern-ireland-59198125?at_medium=RSS&at_campaign=KARANGA">Brexit: UK -EU trade deal could collapse over NI row, says Coveney</a> BBC: The UK is laying foundations to suspend parts of the NI Protocol, says the Irish foreign minister. 
+ <a href="https://www.bbc.co.uk/news/uk-northern-ireland-59198125?at_medium=RSS&at_campaign=KARANGA">Brexit: UK-EU trade deal could collapse over NI row, says Coveney</a> BBC: The UK is laying foundations to suspend parts of the NI Protocol, says the Irish foreign minister. 
  <p class="updated_time"> 03:35 PM CT, Nov. 07 </p> 
  <a href="https://www.npr.org/2021/11/07/1053356424/how-did-the-enslaved-workers-of-pompeii-live-a-new-discovery-provides-a-rare-gli">How did the enslaved workers of Pompeii live? A new discovery provides a rare glimpse</a> NPR: Archaeologists working to uncover a wealthy villa on the outskirts of the ancient city have found a dormitory for workers, providing important insight into daily life. 
  <p class="updated_time"> 03:17 PM CT, Nov. 07 </p> 
@@ -213,7 +213,9 @@ permalink: /projects/news/
 <summary>Politics</summary>
 
  <p class="updated_time"> 04:30 AM CT, Nov. 08 </p> 
- <a href="https://www.politico.com/news/2021/11/08/republican-wave-house-congress-520238">Republican wave builds to take back the House</a> Politico: A combination of aggressive redistricting, strong fundraising, new attractive recruits and a favorable political environment has the GOP excited about its prospects of winning the majority in next year's midterms. 
+ <a href="https://www.politico.com/news/2021/11/08/republican-wave-house-congress-520238">Republican wave builds to take back the House</a> Politico: A combination of aggressive redistricting, strong fundraising and a favorable political environment has the GOP excited about its prospects in next year's midterms. 
+ <p class="updated_time"> 04:26 AM CT, Nov. 08 </p> 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-08/singapore-partly-rolls-back-dining-curbs-as-virus-outbreak-eases">Singapore Partly Rolls Back Dining Curbs as Virus Outbreak Eases</a> Bloomberg: Singapore is easing some tough Covid restrictions put in place more than a month ago to tackle a surge in infections, with five people from the same residence allowed to dine at restaurants starting from Wednesday. 
  <p class="updated_time"> 04:14 AM CT, Nov. 08 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-08/african-union-envoy-tigray-leader-hold-talks-on-ethiopia-crisis">African Union Envoy, Tigray Leader Hold Talks on Ethiopia Crisis</a> Bloomberg: The African Union’s special envoy held talks with a top Tigray official on the civil war engulfing Ethiopia. 
  <p class="updated_time"> 04:06 AM CT, Nov. 08 </p> 
@@ -366,8 +368,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/06/us/politics/james-okeefe-project-veritas-ashley-biden.html">F.B.I. Searches James O’Keefe’s Home in Ashley Biden Diary Theft Inquiry</a> NYT: Authorities carried out a court-ordered search at the New York apartment of the Project Veritas founder two days after searching the homes of his associates. 
  <p class="updated_time"> 06:45 PM CT, Nov. 06 </p> 
  <a href="https://www.washingtonpost.com/politics/biden-infrastructure-presidency/2021/11/06/4eaa5372-3f05-11ec-8ee9-4f14a26749d1_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">After months of setbacks, Biden finally gets long-sought win on infrastructure</a> WaPo: With his presidency on the ropes, Biden felt a new sense of urgency to produce legislative results — and a willingness to accept greater risk in pursuing them. 
- <p class="updated_time"> 06:01 PM CT, Nov. 06 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-06/court-halts-u-s-mandate-europe-hit-by-new-wave-virus-update">Flights to U.S. Reopen; German Cases Spike: Virus Update</a> Bloomberg: Flights for fully-vaccinated travelers from Europe to the U.S. begin Monday, though the lucrative market will be very different from the one before the pandemic. The U.S. is lifting entry restrictions for more than 30 countries, including China, Brazil and India. 
  <p class="updated_time"> 04:17 PM CT, Nov. 06 </p> 
  <a href="https://www.npr.org/2021/11/06/1053239123/black-republicans-walk-a-fine-line-toward-election-victory">Black Republicans walk a fine line toward election victory</a> NPR: NPR's Michel Martin speaks with professor Leah Wright Rigueur, author of The Loneliness of the Black Republican, about what this week's elections signal for Black conservatives. 
  <p class="updated_time"> 04:17 PM CT, Nov. 06 </p> 
