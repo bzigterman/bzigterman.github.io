@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:24 AM CT, Nov. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-59202881?at_medium=RSS&at_campaign=KARANGA">Nicaragua vote: Ortega tightens grip on power in 'pantomime election'</a> BBC: Preliminary results suggest an overwhelming win for Mr Ortega in polls widely dismissed as a "farce". 
  <p class="updated_time"> 02:44 AM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/05/world/asia/singapore-capital-punishment-drugs.html">Rights Groups Urge Singapore Not to Execute Man With Mental Disability</a> NYT: The man, a Malaysian with an I.Q. of 69, was caught trying to smuggle an ounce and a half of heroin in 2009. Some are calling his planned hanging a human rights violation. 
  <p class="updated_time"> 12:40 AM CT, Nov. 08 </p> 
@@ -22,7 +24,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:35 PM CT, Nov. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59178826?at_medium=RSS&at_campaign=KARANGA">Why Tanzanian Nobel laureate Abdulrazak Gurnah is hardly known back home</a> BBC: Few of Abdulrazak Gurnah's novels are sold in Tanzania where reading fiction is not popular. 
  <p class="updated_time"> 06:28 PM CT, Nov. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59201107?at_medium=RSS&at_campaign=KARANGA">US to reopen borders to vaccinated travellers after 20 months</a> BBC: A flood of foreign visitors is expected as tough restrictions on entry come to an end on Monday. 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59201107?at_medium=RSS&at_campaign=KARANGA">US reopens borders to vaccinated travellers after 20 months</a> BBC: A flood of foreign visitors is expected as tough restrictions on entry come to an end. 
  <p class="updated_time"> 06:24 PM CT, Nov. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59167718?at_medium=RSS&at_campaign=KARANGA">US-Canada border: After 19 months, families to reunite</a> BBC: The land border will soon fully reopen to vaccinated travellers, allowing families to reconnect. 
  <p class="updated_time"> 06:17 PM CT, Nov. 07 </p> 
@@ -71,8 +73,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/06/world/americas/biden-osha-vaccine-mandate-blocked.html">Biden's Vaccine Mandate Temporarily Blocked, Foreshadowing Uphill Battle</a> NYT: A stay granted by a federal appeals court in Louisiana could signal an uphill battle for the administration in getting the entire American work force vaccinated. 
  <p class="updated_time"> 08:49 AM CT, Nov. 07 </p> 
  <a href="https://www.wsj.com/articles/iraqs-prime-minister-survives-assassination-attempt-government-says-11636248485">Iraqi Prime Minister Targeted in Assassination Attempt</a> WSJ: An explosive-laden drone attacked the residence of Iraqi Prime Minister Mustafa al-Kadhimi in Baghdad. The prime minister said he wasn’t hurt. 
- <p class="updated_time"> 08:34 AM CT, Nov. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59196465?at_medium=RSS&at_campaign=KARANGA">In pictures: Thousands join huge pro-government rally in Ethiopia</a> BBC: The rally comes as rebel Tigrayan forces advance within 300km of the capital Addis Ababa. 
  <p class="updated_time"> 08:30 AM CT, Nov. 07 </p> 
  <a href="https://www.npr.org/2021/11/07/1051940127/rebels-are-closing-in-on-ethiopias-capital-its-collapse-could-bring-regional-cha">Rebels are closing in on Ethiopia's capital. Its collapse could bring regional chaos</a> NPR: A newly formed rebel alliance led by the Tigray People's Liberation Front is within striking distance of Addis Ababa. A failed state could displace millions of people and stoke more ethnic violence. 
  <p class="updated_time"> 08:06 AM CT, Nov. 07 </p> 
@@ -208,6 +208,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:30 AM CT, Nov. 08 </p> 
+ <a href="https://www.politico.com/news/2021/11/08/republican-wave-house-congress-520238">Republican wave builds to take back the House</a> Politico: A combination of aggressive redistricting, strong fundraising, new attractive recruits and a favorable political environment has the GOP excited about its prospects of winning the majority in next year's midterms. 
  <p class="updated_time"> 02:49 AM CT, Nov. 08 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-08/spyware-scandal-grows-in-hungary-with-more-than-100-targets">Spyware Scandal Grows in Hungary With More Than 100 Targets</a> Bloomberg: Hungary targeted more than 100 people with the Pegasus spyware, according to the head of parliament’s national security committee, widening a scandal surrounding a tool the government initially denied knowledge of using. 
  <p class="updated_time"> 02:00 AM CT, Nov. 08 </p> 
