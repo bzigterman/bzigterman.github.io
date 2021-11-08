@@ -7,10 +7,16 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:29 PM CT, Nov. 08 </p> 
+ <a href="https://www.nytimes.com/2021/11/08/travel/us-travel-ban-vaccination.html">U.S. Lifts Travel Ban for Vaccinated Foreigners</a> NYT: The change ends more than 18 months of restrictions that left families separated from loved ones and cost the global travel industry hundreds of billions of dollars. 
+ <p class="updated_time"> 01:25 PM CT, Nov. 08 </p> 
+ <a href="https://www.nytimes.com/2021/11/08/travel/yadnya-kasada-volcano-ritual.html">Inside a Volcanic Ritual on the Indonesian Island of Java</a> NYT: During the Hindu ceremony of Yadnya Kasada, the Tenggerese people toss offerings — food, money, flowers, livestock — into the hazy crater of Mount Bromo. 
+ <p class="updated_time"> 01:22 PM CT, Nov. 08 </p> 
+ <a href="https://www.nytimes.com/2021/11/08/us/canada-snowbirds-arizona.html">Thousands of Canadians Head for the Southern United States Again</a> NYT: With the border opening to tourists, thousands of Canadian “snowbirds” are on their way to Florida, Arizona and California with campers in tow. 
+ <p class="updated_time"> 01:16 PM CT, Nov. 08 </p> 
+ <a href="https://www.nytimes.com/2021/11/08/world/europe/france-catholic-church-compensate-sex-abuse-victims.html">French Catholic Church Will Sell Assets to Compensate Abuse Victims</a> NYT: The measure was one of several measures announced by French bishops, one month after a landmark report on sexual abuse by clergy members in France. 
  <p class="updated_time"> 01:05 PM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/world/europe/uk-brexit-estonia-business.html">Brexit Brain Drain  Delivers Financial Boon to Estonia</a> NYT: The former Soviet satellite state is welcoming British companies looking to escape the tangle of regulations and financial obstacles of doing business in Europe. 
- <p class="updated_time"> 12:38 PM CT, Nov. 08 </p> 
- <a href="https://www.nytimes.com/2021/11/08/us/canada-snowbirds-arizona.html">Thousands of Canadians Head for the Southern United States Again</a> NYT: With the border opening to tourists, thousands of Canadian “snowbirds” are on their way to Florida, Arizona and California with campers in tow. 
  <p class="updated_time"> 12:16 PM CT, Nov. 08 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59210395?at_medium=RSS&at_campaign=KARANGA">COP26: Obama tells young people to stay angry on climate fight</a> BBC: The ex-US president calls for global unity and condemns "active hostility" towards climate science. 
  <p class="updated_time"> 12:10 PM CT, Nov. 08 </p> 
@@ -21,8 +27,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-59205372?at_medium=RSS&at_campaign=KARANGA">Sierra Leone tanker explosion: Mass burial in Freetown</a> BBC: Many of the victims were burnt beyond recognition after fuel leaked and caught fire on Friday. 
  <p class="updated_time"> 11:46 AM CT, Nov. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59205765?at_medium=RSS&at_campaign=KARANGA">Yemeni model jailed for indecency by rebel authorities</a> BBC: Human rights activists say the trial of Intisar al-Hammadi by Houthi authorities was unfair. 
- <p class="updated_time"> 11:41 AM CT, Nov. 08 </p> 
- <a href="https://www.nytimes.com/2021/11/08/travel/us-travel-ban-vaccination.html">U.S. Lifts Travel Ban for Vaccinated Foreigners</a> NYT: The change ends more than 18 months of restrictions that left families separated from loved ones and cost the global travel industry hundreds of billions of dollars. 
  <p class="updated_time"> 11:26 AM CT, Nov. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59206685?at_medium=RSS&at_campaign=KARANGA">Poland fears major breach by migrants on Belarus border</a> BBC: Thousands of troops patrol the border, where migrants have tried to enter Poland from Belarus. 
  <p class="updated_time"> 10:44 AM CT, Nov. 08 </p> 
@@ -76,13 +80,9 @@ permalink: /projects/news/
  <p class="updated_time"> 04:00 AM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/world/europe/romania-covid-vaccine-refusal.html">In Romania, Hard-Hit by Covid, Doctors Fight Vaccine Refusal</a> NYT: An anti-vaccine clarion call by leading religious figures, echoed by prominent politicians and social media, helps explain why Romania now has the world’s highest Covid death rate. 
  <p class="updated_time"> 04:00 AM CT, Nov. 08 </p> 
- <a href="https://www.nytimes.com/2021/11/08/travel/yadnya-kasada-volcano-ritual.html">Inside a Volcanic Ritual on the Indonesian Island of Java</a> NYT: During the Hindu ceremony of Yadnya Kasada, the Tenggerese people toss offerings — food, money, flowers, livestock — into the hazy crater of Mount Bromo. 
- <p class="updated_time"> 04:00 AM CT, Nov. 08 </p> 
  <a href="https://www.wsj.com/articles/cubas-dissidents-dig-in-despite-government-crackdown-11636383600">Cuba's Dissidents Dig In Despite Government Crackdown</a> WSJ: Activists, artists and professionals challenge the Communist regime even as hundreds of protesters face contempt, sedition and sabotage charges. 
  <p class="updated_time"> 03:24 AM CT, Nov. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59202881?at_medium=RSS&at_campaign=KARANGA">Nicaragua vote: Ortega tightens grip on power in 'pantomime election'</a> BBC: Preliminary results suggest an overwhelming win for Mr Ortega in polls widely dismissed as a "farce". 
- <p class="updated_time"> 02:44 AM CT, Nov. 08 </p> 
- <a href="https://www.nytimes.com/2021/11/05/world/asia/singapore-capital-punishment-drugs.html">Rights Groups Urge Singapore Not to Execute Man With Mental Disability</a> NYT: The man, a Malaysian with an I.Q. of 69, was caught trying to smuggle an ounce and a half of heroin in 2009. Some are calling his planned hanging a human rights violation. 
  <p class="updated_time"> 01:00 AM CT, Nov. 08 </p> 
  <a href="https://www.wsj.com/articles/chinas-economy-faces-risk-of-yearslong-real-estate-hangover-11636372801">China's Economy Faces Risk of Yearslong Real-Estate Hangover</a> WSJ: China’s aggressive campaign to root out speculative real-estate activity could slow the country’s growth rate for years to come, economists say, even if a major housing correction is averted. 
  <p class="updated_time"> 12:40 AM CT, Nov. 08 </p> 
@@ -218,6 +218,14 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 01:29 PM CT, Nov. 08 </p> 
+ <a href="https://www.nytimes.com/2021/11/08/travel/us-travel-ban-vaccination.html">U.S. Lifts Travel Ban for Vaccinated Foreigners</a> NYT: The change ends more than 18 months of restrictions that left families separated from loved ones and cost the global travel industry hundreds of billions of dollars. 
+ <p class="updated_time"> 01:27 PM CT, Nov. 08 </p> 
+ <a href="https://www.washingtonpost.com/politics/courts_law/judge-emmet-sullivan-ethics-allegation-laurence-silberman/2021/11/08/81d83056-400a-11ec-a3aa-0255edc02eb7_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Two judges, one courthouse and an unusual accusation of unethical conduct</a> WaPo: The federal judiciary’s ethics committee cleared Judge Emmet Sullivan’s participation on a panel that recommends nominees to the president to serve on D.C. courts. 
+ <p class="updated_time"> 01:17 PM CT, Nov. 08 </p> 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-08/buttigieg-targets-racist-road-design-with-public-works-bill">Buttigieg Says U.S. Will Use Infrastructure Bill to Address Racist Highway Design</a> Bloomberg: Transportation Secretary Pete Buttigieg said Monday that his agency will use about $1 billion from President Joe Biden’s public works legislation to remedy racial inequities in U.S. highway design, such as roads that were built to separate predominantly minority neighborhoods from White communities. 
+ <p class="updated_time"> 01:14 PM CT, Nov. 08 </p> 
+ <a href="https://www.washingtonpost.com/politics/2021/11/08/vaccine-politics-only-worsened-partisan-divide-covid-19-deaths/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Vaccine politics only worsened the partisan divide in covid-19 deaths</a> WaPo: Vaccines didn't create the split. 
  <p class="updated_time"> 01:07 PM CT, Nov. 08 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9p9GkYhH3_M/index.html">US seizes $6 million in ransom payments and charges Ukrainian over major cyberattack</a> CNN: Law enforcement officials have seized an estimated $6 million in ransom payments, and the US Justice Department is expected to announce Monday that it has charged a suspect from Ukraine over a damaging July ransomware attack on an American company in a breakthrough for the Biden administration's pursuit of cybercriminals, CNN has learned. 
  <p class="updated_time"> 12:59 PM CT, Nov. 08 </p> 
@@ -238,8 +246,6 @@ permalink: /projects/news/
  <a href="https://www.bloomberg.com/news/articles/2021-11-08/trudeau-s-deputy-chides-air-canada-says-ceo-should-speak-french">Trudeau’s Deputy Chides Air Canada, Says CEO Should Speak French</a> Bloomberg: Justin Trudeau’s deputy urged Air Canada’s board to enshrine French-language proficiency as a job requirement for senior managers after a speech by the airline’s top executive turned into a public relations nightmare. 
  <p class="updated_time"> 11:48 AM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/business/randal-quarles-fed.html">Randal Quarles, Fed Governor, to Resign in December</a> NYT: Mr. Quarles’s term as a governor could have stretched until 2032. His departure will give the Biden administration more room to remake the Fed. 
- <p class="updated_time"> 11:41 AM CT, Nov. 08 </p> 
- <a href="https://www.nytimes.com/2021/11/08/travel/us-travel-ban-vaccination.html">U.S. Lifts Travel Ban for Vaccinated Foreigners</a> NYT: The change ends more than 18 months of restrictions that left families separated from loved ones and cost the global travel industry hundreds of billions of dollars. 
  <p class="updated_time"> 11:34 AM CT, Nov. 08 </p> 
  <a href="https://www.washingtonpost.com/world/europe/capitol-rioter-asylum-belarus/2021/11/08/fbc4eb14-4093-11ec-9404-50a28a88b9cd_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Capitol rioter Evan Neumann applies for asylum in Belarus, local media says</a> WaPo: Neumann was presented by local media as someone who was persecuted for questioning election results. 
  <p class="updated_time"> 11:30 AM CT, Nov. 08 </p> 
@@ -336,8 +342,6 @@ permalink: /projects/news/
  <a href="https://www.bloomberg.com/news/articles/2021-11-08/singapore-partly-rolls-back-dining-curbs-as-virus-outbreak-eases">Singapore Eases Some Virus Curbs as Music Returns to Restaurants</a> Bloomberg: Singapore is easing some tough Covid restrictions put in place more than a month ago to tackle a surge in infections, with five people from the same residence allowed to dine at restaurants starting from Wednesday. 
  <p class="updated_time"> 04:24 AM CT, Nov. 08 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-08/bus-set-on-fire-in-northern-ireland-amid-post-brexit-tension">Bus Set on Fire in Northern Ireland Amid Post Brexit Tension</a> Bloomberg: London (AP) -- A bus has been hijacked and set on fire in Northern Ireland, amid discontent over the trade deal struck as part of the U.K.’s departure from the European Union. 
- <p class="updated_time"> 04:14 AM CT, Nov. 08 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-08/african-union-envoy-tigray-leader-hold-talks-on-ethiopia-crisis">African Union Envoy, Tigray Leader Hold Talks on Ethiopia Crisis</a> Bloomberg: The African Union’s special envoy held talks with a top Tigray official on the civil war engulfing Ethiopia. 
  <p class="updated_time"> 04:06 AM CT, Nov. 08 </p> 
  <a href="https://www.npr.org/2021/11/08/1053442982/harris-will-be-the-top-u-s-official-at-a-large-gathering-of-world-leaders-in-fra">Harris will be the top U.S. official at a large gathering of world leaders in France</a> NPR: Vice President Harris heads to France, a trip where she will have face time with more than two dozen world leaders, and a chance to build up her track record on international diplomacy. 
  <p class="updated_time"> 04:00 AM CT, Nov. 08 </p> 
@@ -458,12 +462,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/11/06/how-biden-and-pelosi-saved-bif-495005">POLITICO Playbook: How Biden and Pelosi saved BIF</a> Politico: And President Joe Biden secures the biggest win of his presidency so far. 
  <p class="updated_time"> 09:32 AM CT, Nov. 06 </p> 
  <a href="https://www.washingtonpost.com/politics/2021/11/06/fix-gop-infrastructure-defections/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">GOP erupts over its House members bailing out Biden</a> WaPo: Without GOP support, the bill didn't have a majority. And the right wing is out for blood. 
- <p class="updated_time"> 07:38 AM CT, Nov. 06 </p> 
- <a href="https://www.washingtonpost.com/politics/2021/11/05/what-is-cbo-how-could-its-score-derail-democrats-spending-bills/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">What is the CBO, and how could its score derail Democrats’ social safety net bill?</a> WaPo: A nonpartisan office will determine whether Democrats' social safety net legislation is indeed paid for, as they claim. 
  <p class="updated_time"> 06:00 AM CT, Nov. 06 </p> 
  <a href="https://www.politico.com/news/2021/11/06/new-york-governor-race-519790">New York governor’s race heats up, 1,600 miles away</a> Politico: The annual SOMOS conference has been one of the most important times on New York’s political calendar for decades. 
- <p class="updated_time"> 06:00 AM CT, Nov. 06 </p> 
- <a href="https://www.washingtonpost.com/politics/2021/11/06/charles-dolan-steele-dossier-igor-danchenko-indictment/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">A spin doctor with ties to Russia allegedly fed the Steele dossier before fighting to discredit it</a> WaPo: Charles Dolan Jr., a PR executive who cut his teeth in Democratic politics, provided anti-Trump information, according to new charges. 
  <p class="updated_time"> 06:00 AM CT, Nov. 06 </p> 
  <a href="https://www.politico.com/news/2021/11/06/rural-dems-trouble-519782">Rural Democrats stare into the abyss after Virginia</a> Politico: Rural Democrats say the party’s problems on their turf are twofold. 
  <p class="updated_time"> 06:00 AM CT, Nov. 06 </p> 
@@ -490,6 +490,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/05/house-democrats-infrastructure-vote-wait-megabill-519731">'Whole day was a clusterf---': Dems overcome distrust to send infrastructure bill to Biden</a> Politico: Democratic centrists and progressives reached a detente that cleared the $550 billion bipartisan legislation late Friday night and advanced their social spending package. 
  <p class="updated_time"> 02:35 PM CT, Nov. 05 </p> 
  <a href="https://www.politico.com/news/2021/11/05/house-democrats-infrastructure-vote-wait-megabill-519731">'Whole day was a clusterf---': Dems overcome distrust to send infrastructure bill to Biden</a> Politico: Democratic centrists and progressives reached a detente that cleared the $550 billion bipartisan legislation late Friday night and advanced their social spending package. 
+ <p class="updated_time"> 02:07 PM CT, Nov. 05 </p> 
+ <a href="https://www.politico.com/news/2021/11/05/judge-rejects-comparison-between-jan-6-riot-and-george-floyd-unrest-519723">Judge rejects comparison between Jan. 6 riot and George Floyd unrest</a> Politico: 'For people to say people who participated in the protests of the summer of 2020 got no jail time, that’s not my experience in my court,' 
  <p class="updated_time"> 12:10 PM CT, Nov. 05 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NoM-wzx-7HI/index.html">Biden makes two false claims about Virginia election history </a> CNN: Democrat Terry McAuliffe's hopes of returning as governor of Virginia were dashed Tuesday when Glenn Youngkin became the first Republican to win statewide office in the commonwealth since 2009. Youngkin's victory comes as President Joe Biden's approval ratings have sagged and Democrats have struggled to deliver a clear message. 
  <p class="updated_time"> 11:36 AM CT, Nov. 05 </p> 
