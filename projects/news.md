@@ -7,12 +7,16 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:28 AM CT, Nov. 08 </p> 
+ <a href="https://www.nytimes.com/2021/11/08/world/europe/europe-us-travel-ban.html">U.S. Travel Ban Ends, and Europeans Head Overseas Again</a> NYT: Europeans were kept apart from family and friends as the ban dragged on long after E.U. leaders had opened their borders. 
+ <p class="updated_time"> 05:26 AM CT, Nov. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/science-environment-59206814?at_medium=RSS&at_campaign=KARANGA">COP26: Rich countries ‘pushing back’ on paying for climate loss</a> BBC: Poorer countries say they are not able to get compensation for the damage caused by climate change. 
  <p class="updated_time"> 05:12 AM CT, Nov. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59205368?at_medium=RSS&at_campaign=KARANGA">Athol Williams: South Africa corruption whistle-blower flees for his life</a> BBC: Athol Williams says he has received threats since testifying in a corruption inquiry. 
+ <p class="updated_time"> 04:59 AM CT, Nov. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-51235105?at_medium=RSS&at_campaign=KARANGA">Covid map: Coronavirus cases, deaths, vaccinations by country</a> BBC: Key maps and charts explaining how the virus has spread around the world. 
  <p class="updated_time"> 04:42 AM CT, Nov. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59173479?at_medium=RSS&at_campaign=KARANGA">Zika virus: India's Kanpur city on alert after 89 cases reported</a> BBC: The first Zika case in Kanpur was detected on 23 October and cases have since been on the rise. 
- <p class="updated_time"> 04:40 AM CT, Nov. 08 </p> 
- <a href="https://www.nytimes.com/2021/11/08/world/europe/europe-us-travel-ban.html">U.S. Travel Ban Ends, and Europeans Head Overseas Again</a> NYT: Europeans were kept apart from family and friends as the ban dragged on long after E.U. leaders had opened their borders. 
  <p class="updated_time"> 04:36 AM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/insider/taliban-kabul-afghanistan-journalists.html">When the Taliban Are in Your Bedroom</a> NYT: As armed Taliban inspected the New York Times bureau in Kabul, they were escorted by a journalist who used to be a U.S. Marine. The photo of him in uniform was plain for all to see, and ponder. 
  <p class="updated_time"> 04:30 AM CT, Nov. 08 </p> 
@@ -55,8 +59,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59167718?at_medium=RSS&at_campaign=KARANGA">US-Canada border: After 19 months, families to reunite</a> BBC: The land border will soon fully reopen to vaccinated travellers, allowing families to reconnect. 
  <p class="updated_time"> 06:17 PM CT, Nov. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59036542?at_medium=RSS&at_campaign=KARANGA">Dug Dug: A film inspired by India's motorcycle god</a> BBC: A new film riding on the back of a temple in India dedicated to a motorcycle deity is making waves. 
- <p class="updated_time"> 06:14 PM CT, Nov. 07 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-59199484?at_medium=RSS&at_campaign=KARANGA">COP26: Fossil fuel industry has largest delegation at climate summit</a> BBC: There are more participants than from any single country, a study shared with the BBC suggests. 
  <p class="updated_time"> 06:04 PM CT, Nov. 07 </p> 
  <a href="https://www.bbc.co.uk/news/business-59136957?at_medium=RSS&at_campaign=KARANGA">How will the US deal with a shortage of 80,000 truckers?</a> BBC: The chronic lack of lorry drivers in the US is adding to supply chain woes - and could get worse. 
  <p class="updated_time"> 06:02 PM CT, Nov. 07 </p> 
@@ -197,8 +199,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/05/world/europe/russia-nuclear-power-climate-change.html">A Nuclear-Powered Shower? Russia Tests a Climate Innovation.</a> NYT: A remote Siberian town now has its own miniature nuclear plant as a Russian state company tests a new model for residential heating. Some see it as a tool to minimize climate change. 
  <p class="updated_time"> 01:24 AM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/05/world/australia/laughs-no-more-australians-are-reassessing-a-beloved-cartoonist.html">Laughs No More? Australians Are Reassessing a Beloved Cartoonist.</a> NYT: I used to think Michael Leunig’s drawings embodied the soul of our nation. Now, I’m not so sure. 
- <p class="updated_time"> 08:18 PM CT, Nov. 04 </p> 
- <a href="https://www.nytimes.com/2021/11/04/arts/television/movies-tv-australia-new-streaming-netflix-amazon-stan-november.html">The Best Movies and TV Shows New to Netflix, Amazon and Stan in Australia in November</a> NYT: Our picks for November, including ‘tick, tick … BOOM!’, ‘The Great’ Season 2, and ‘Passing’ 
  <p class="updated_time"> 05:26 AM CT, Nov. 04 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-56901261?at_medium=RSS&at_campaign=KARANGA">COP26: What is the Glasgow climate conference and why is it important?</a> BBC: A crucial climate change summit is being held in the UK - this is why it's important. 
  <p class="updated_time"> 11:30 AM CT, Nov. 03 </p> 
@@ -212,10 +212,10 @@ permalink: /projects/news/
 
  <p class="updated_time"> 06:05 AM CT, Nov. 08 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/08/big-obstacles-await-biden-after-big-win-495012">POLITICO Playbook: Big obstacles await Biden after big win</a> Politico: And midterm elections are a year from today. 
+ <p class="updated_time"> 05:34 AM CT, Nov. 08 </p> 
+ <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uTQPN82VZNw/index.html">Obama to speak at UN climate summit in Glasgow Monday</a> CNN: Former President Barack Obama will deliver remarks on Monday at the UN climate conference in Glasgow in a return to the world stage centered around the climate crisis. 
  <p class="updated_time"> 05:14 AM CT, Nov. 08 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/U64XT9DznBM/index.html">CIA Director had rare conversation with Putin while in Moscow last week</a> CNN: CIA Director Bill Burns held a rare conversation with Russian President Vladimir Putin in Moscow last week, to convey "serious" US concerns about Russia's military buildup along the Ukrainian border and to attempt to determine Russian intentions, two sources with direct knowledge told CNN. 
- <p class="updated_time"> 05:12 AM CT, Nov. 08 </p> 
- <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uTQPN82VZNw/index.html">Obama to speak at UN climate summit in Glasgow Monday</a> CNN: Former President Barack Obama will deliver remarks on Monday at the UN climate conference in Glasgow in a return to the world stage centered around the climate crisis. 
  <p class="updated_time"> 05:01 AM CT, Nov. 08 </p> 
  <a href="https://www.bloomberg.com/news/newsletters/2021-11-08/xi-kicks-off-china-s-election-season">Xi Kicks Off China’s ‘Election Season’</a> Bloomberg: That President Xi Jinping wants longer in power in China is no great secret. But a document coming this week pretty much confirms it. 
  <p class="updated_time"> 05:00 AM CT, Nov. 08 </p> 
@@ -251,7 +251,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:01 AM CT, Nov. 08 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-08/xi-s-expanding-power-is-a-growing-risk-for-china-s-economy">Xi’s Expanding Power Is a Growing Risk for China’s Economy</a> Bloomberg: Local officials either take orders too far or become paralyzed with fear as they strive to please China’s leader.&nbsp; 
  <p class="updated_time"> 04:00 AM CT, Nov. 08 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-08/poland-warns-large-migrant-group-may-try-to-enter-from-belarus">Poland Warns Large Migrant Group May Try to Enter From Belarus</a> Bloomberg: Tensions at Poland’s eastern border may intensify on Monday as hundreds of migrants gathering at the Belarusian side are expected to try to enter the European Union country in one group. 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-08/poland-warns-large-migrant-group-may-try-to-enter-from-belarus">Poland Warns Large Migrant Group May Seek Entry From Belarus</a> Bloomberg: Polish officials warned of intensified tensions at its eastern border as hundreds of migrants gathering at the Belarusian side are expected to try to enter the European Union country in one group. 
  <p class="updated_time"> 04:00 AM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/nyregion/nassau-county-republicans-election.html">Why Republicans Won in a New York County Where Democrats Outnumber Them</a> NYT: Voters readily ousted Democrats in Nassau County on Long Island, electing Republicans down the ballot. 
  <p class="updated_time"> 04:00 AM CT, Nov. 08 </p> 
@@ -302,6 +302,8 @@ permalink: /projects/news/
  <a href="https://www.bloomberg.com/news/articles/2021-11-08/pakistan-lifts-ban-on-radical-group-to-help-end-deadly-protests">Pakistan Lifts Ban on Radical Group to Help End Deadly Protests</a> Bloomberg: Pakistan lifted a ban on the radical religious group Tehreek Labbaik Pakistan, known as the TLP, as part of an agreement to end deadly protests by the group last month. 
  <p class="updated_time"> 08:14 PM CT, Nov. 07 </p> 
  <a href="https://www.politico.com/news/2021/11/07/houston-concert-deaths-mourning-520201">As mourning starts, Houston probes concert deaths</a> Politico: City officials said they were in the early stages of investigating what caused the pandemonium at the sold-out Astroworld festival. 
+ <p class="updated_time"> 08:13 PM CT, Nov. 07 </p> 
+ <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/eH-i_mt_rdY/index.html">Hackers have breached organizations in defense and other sensitive sectors, security firm says</a> CNN: Suspected foreign hackers have breached nine organizations in the defense, energy, health care, technology and education sectors -- and at least one of those organizations is in the US, according to findings that security firm Palo Alto Networks shared exclusively with CNN. 
  <p class="updated_time"> 06:10 PM CT, Nov. 07 </p> 
  <a href="https://www.washingtonpost.com/politics/democrats-biden-virginia-new-jersey-infrastructure/2021/11/07/d5811f7e-3e43-11ec-bfad-8283439871ec_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Democrats search for political identity amid dismal election results and legislative triumph</a> WaPo: Setbacks Tuesday in suburbs, small towns and rural communities, coupled with intraparty battles on Capitol Hill and passage of an infrastructure bill, crystallize a vexing question for the party: What does it mean to be a Democrat? 
  <p class="updated_time"> 06:01 PM CT, Nov. 07 </p> 
@@ -502,8 +504,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/05/congress-biden-taiwan-519689">Congress pressures Biden to defend Taiwan</a> Politico: China's aggressive behavior is worrying lawmakers, but a new U.S. strategy could fan the flames. 
  <p class="updated_time"> 06:26 AM CT, Nov. 05 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/11/05/here-goes-the-house-spending-and-infrastructure-votes-teed-up-494996">Here goes the House: spending and infrastructure votes tee’d up</a> Politico: A play-by-play preview of the day&#39;s congressional news 
- <p class="updated_time"> 06:26 AM CT, Nov. 05 </p> 
- <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WNaMquTipjw/index.html">Fears of unlikely federal gun-control measures lead to raft of state laws</a> CNN: Brandon Steele, a second-term Republican in West Virginia's House, worked hard this year to get his colleagues to pass his "Second Amendment Preservation Act." It seeks to bar state or local police from enforcing new federal gun restrictions the Biden administration might adopt. 
  <p class="updated_time"> 05:19 AM CT, Nov. 05 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/05/lets-try-this-again-494993">POLITICO Playbook: Let’s try this again</a> Politico: And there’s a second grand jury in the Trump Organization case in Manhattan. 
  <p class="updated_time"> 04:37 AM CT, Nov. 05 </p> 
