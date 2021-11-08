@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:37 PM CT, Nov. 08 </p> 
+ <a href="https://www.npr.org/2021/11/08/1053647220/indigenous-activists-say-the-legacy-of-colonialism-has-limited-their-access-to-c">Indigenous activists say the legacy of colonialism has limited their access to COP-26</a> NPR: Indigenous activists from around the world are in Glasgow for COP26, but say the same legacy of colonialism that has led to climate-related losses has impacted their access to the conference. 
  <p class="updated_time"> 03:32 PM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/travel/us-travel-ban-vaccination.html">U.S. Lifts Travel Ban for Vaccinated Foreigners</a> NYT: The change ends more than 18 months of restrictions that left families separated from loved ones and cost the global travel industry hundreds of billions of dollars. 
  <p class="updated_time"> 03:32 PM CT, Nov. 08 </p> 
@@ -154,8 +156,6 @@ permalink: /projects/news/
  <p class="updated_time"> 06:00 AM CT, Nov. 07 </p> 
  <a href="https://www.npr.org/2021/11/07/1053275827/nicaragua-may-be-holding-presidential-elections-but-it-is-edging-toward-dictator">Nicaragua may be holding presidential elections, but it is edging toward dictatorship</a> NPR: Nicaraguan President Daniel Ortega is running for a fourth consecutive term to remain leader of the Central American country in elections that critics and U.S. officials have labeled a "sham." 
  <p class="updated_time"> 04:00 AM CT, Nov. 07 </p> 
- <a href="https://www.npr.org/2021/11/07/1051892092/guyana-climate-change-exxon-co26">Guyana is a poor country that was a green champion. Then Exxon discovered oil</a> NPR: Guyana, one of South America's poorest countries, is under severe threat by rising seas. That had made it a champion of climate action, but it all changed when ExxonMobil found oil off its waters. 
- <p class="updated_time"> 04:00 AM CT, Nov. 07 </p> 
  <a href="https://www.nytimes.com/2021/11/07/science/antarctica-wildfires.html">Antarctica Was Once a Land of Fire and Not Ice</a> NYT: Charcoal recovered from a dig near the southern continent shows that the region wasn’t spared from the era scientists call a “super fire world.” 
  <p class="updated_time"> 04:00 AM CT, Nov. 07 </p> 
  <a href="https://www.nytimes.com/2021/11/07/world/asia/china-xi-jinping.html">Xi Jinping Is Rewriting China's History</a> NYT: A new official summation of Communist Party history is likely to exalt Xi Jinping as a peer of Mao and Deng, fortifying his claim to a new phase in power. 
@@ -230,6 +230,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/08/travel/us-travel-ban-vaccination.html">U.S. Lifts Travel Ban for Vaccinated Foreigners</a> NYT: The change ends more than 18 months of restrictions that left families separated from loved ones and cost the global travel industry hundreds of billions of dollars. 
  <p class="updated_time"> 03:29 PM CT, Nov. 08 </p> 
  <a href="https://www.washingtonpost.com/politics/2021/11/08/unique-role-fox-news-misinformation-universe/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">The unique role of Fox News in the misinformation universe</a> WaPo: No other network has the same level of trust among those who embrace false claims. 
+ <p class="updated_time"> 03:25 PM CT, Nov. 08 </p> 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-08/biden-hails-bucks-for-championship-vaccine-outreach-and-protest">Biden Hails Milwaukee Bucks for Championship, Vaccine Outreach and Protest</a> Bloomberg: President Joe Biden hosted the NBA champion Milwaukee Bucks at the White House on Monday, thanking the team for encouraging coronavirus vaccinations and for protesting the local police shooting of a Black man, Jacob Blake. 
  <p class="updated_time"> 03:21 PM CT, Nov. 08 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xvEt_dcR3k8/index.html">Biden honors NBA champs Milwaukee Bucks at the White House</a> CNN: President Joe Biden honored the NBA champion Milwaukee Bucks at a White House ceremony on Monday, marking the first visit to 1600 Pennsylvania Avenue by an NBA championship-winning team since 2016. 
  <p class="updated_time"> 03:21 PM CT, Nov. 08 </p> 
@@ -366,10 +368,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/07/travel/us-travel-ban-reunions.html">As U.S. Travel Changes Near, Global Travelers Eagerly Await Reunions</a> NYT: On Monday, travelers from many other countries who are fully vaccinated against the coronavirus will be allowed to enter the United States. 
  <p class="updated_time"> 07:14 AM CT, Nov. 08 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OUBqqbrBKnU/index.html">Biden seeks rebound as he basks in huge political victory </a> CNN: President Joe Biden's soon-to-be-signed $1 trillion infrastructure legislation is a direly needed political win and a vindication of his entire creed of politics. But on its own, it is unlikely to rescue a wobbling presidency as midterm elections loom. 
- <p class="updated_time"> 07:11 AM CT, Nov. 08 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-08/norway-s-new-government-to-cut-power-levies-raise-wealth-tax">Norway’s New Government to Cut Power Levies, Raise Wealth Tax</a> Bloomberg: Norway’s new government is proposing to cut electricity charges to protect households from the effects of the energy crisis, while raising taxes on the wealthy, as it makes changes to a 2022 budget drafted by its predecessors. 
- <p class="updated_time"> 06:37 AM CT, Nov. 08 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-08/belarus-says-alleged-u-s-capitol-hill-rioter-is-seeking-asylum">Belarus Says Alleged U.S. Capitol Hill Rioter Is Seeking Asylum</a> Bloomberg: Belarus state TV showcased an interview with an American fugitive wanted by the FBI who it said was seeking asylum over his alleged involvement in the storming of the U.S. Capitol by supporters of then President Donald Trump. 
  <p class="updated_time"> 06:17 AM CT, Nov. 08 </p> 
  <a href="https://www.npr.org/2021/11/08/1053442912/rep-gottheimer-is-confident-democrats-will-work-out-the-social-spending-bill">Rep. Gottheimer is confident Democrats will work out the social spending bill</a> NPR: Moderate Democrat Rep. Josh Gottheimer of New Jersey tells NPR's Rachel Martin that he will wait to see how the Congressional Budget Office scores the plan before he commits to giving it his vote. 
  <p class="updated_time"> 06:05 AM CT, Nov. 08 </p> 
@@ -404,6 +402,8 @@ permalink: /projects/news/
  <a href="https://www.washingtonpost.com/politics/2021/11/08/battle-over-bidens-child-tax-credit-its-impact-poverty-workers/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">The battle over Biden’s child tax credit and its impact on poverty and workers</a> WaPo: A fierce dispute has erupted among economists about whether the president's child-tax credit expansion will cause parents to stop working. We explain the debate. 
  <p class="updated_time"> 11:10 PM CT, Nov. 07 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-08/nicaragua-leader-ortega-hits-back-during-vote-slammed-by-biden">Biden Slams Nicaraguan Leader Who’s Set for Landslide Election Win</a> Bloomberg: Nicaraguan leader Daniel Ortega is on course for a landslide in Sunday’s presidential election after he jailed his main opponents. 
+ <p class="updated_time"> 09:55 PM CT, Nov. 07 </p> 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-08/china-uses-fake-u-s-aircraft-carrier-for-target-practice">China Uses Fake U.S. Aircraft Carrier for Missile Target Practice</a> Bloomberg: The Chinese military is using mock-ups of a U.S. aircraft carrier at a weapons-testing range in a remote western desert, new satellite imagery shows, indicating the People’s Liberation Army is focused on neutralizing a key tool of U.S. power. 
  <p class="updated_time"> 09:31 PM CT, Nov. 07 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-08/pakistan-lifts-ban-on-radical-group-to-help-end-deadly-protests">Pakistan Lifts Ban on Radical Group to End Protests</a> Bloomberg: Pakistan lifted a ban on Tehreek-e-Labbaik Pakistan to end deadly protests by the radical religious group, a move which may embolden the country’s hardliners. 
  <p class="updated_time"> 08:14 PM CT, Nov. 07 </p> 
