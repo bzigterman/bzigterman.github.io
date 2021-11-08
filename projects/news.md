@@ -7,22 +7,22 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:38 AM CT, Nov. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59205570?at_medium=RSS&at_campaign=KARANGA">Astroworld: Travis Scott and Drake sued over deadly US festival crush</a> BBC: The rapper faces legal action after at least eight people were killed during his Astroworld festival. 
+ <p class="updated_time"> 06:25 AM CT, Nov. 08 </p> 
+ <a href="https://www.nytimes.com/2021/11/08/world/europe/heathrow-first-flight-us.html">U.S. Travel Ban Ends, and Excited Passengers Board First Flight from London</a> NYT: Long lines formed in Heathrow Airport for the first scheduled trips to the United States since the Biden administration lifted its travel ban. 
  <p class="updated_time"> 06:08 AM CT, Nov. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59206683?at_medium=RSS&at_campaign=KARANGA">Poland clarifies abortion law after protests over mother’s death</a> BBC: The guidance was issued after a pregnant woman's death was blamed on Poland's strict abortion laws. 
  <p class="updated_time"> 06:07 AM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/world/europe/france-police-officer-stabbed-cannes.html">Police Officer Stabbed on French Riviera, Authorities Say</a> NYT: Gérald Darmanin, France’s interior minister, said an assailant had stabbed an officer in Cannes. The motive for the attack was not immediately clear. 
  <p class="updated_time"> 06:07 AM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/world/europe/europe-us-travel-ban.html">U.S. Travel Ban Ends, and Europeans Head Overseas Again</a> NYT: Europeans were kept apart from family and friends as the ban dragged on long after E.U. leaders had opened their borders. 
- <p class="updated_time"> 06:01 AM CT, Nov. 08 </p> 
- <a href="https://www.nytimes.com/2021/11/08/world/europe/heathrow-first-flight-us.html">U.S. Travel Ban Ends, and Excited Passengers Board First Flight from London</a> NYT: Long lines formed in Heathrow Airport for the first scheduled trips to the United States since the Biden administration lifted its travel ban. 
  <p class="updated_time"> 06:00 AM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/travel/us-travel-ban-vaccination.html">U.S. Lifts Travel Ban for Vaccinated Foreigners</a> NYT: The change ends more than 18 months of restrictions that left families separated from loved ones and cost the global travel industry hundreds of billions of dollars. 
  <p class="updated_time"> 06:00 AM CT, Nov. 08 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-59205798?at_medium=RSS&at_campaign=KARANGA">Travis Scott fans describe Astroworld panic: 'I had to get out of there'</a> BBC: Festivalgoers caught up in the crush at Astroworld, which left eight people dead, recall their fear. 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-59205798?at_medium=RSS&at_campaign=KARANGA">Travis Scott fans recall Astroworld panic: 'I had to get out of there'</a> BBC: Festivalgoers caught up in the crush at Astroworld, which left eight people dead, recall their fear. 
  <p class="updated_time"> 05:57 AM CT, Nov. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59205468?at_medium=RSS&at_campaign=KARANGA">Oscar Pistorius parole process to start in South Africa</a> BBC: The ex-Olympian will first have to meet the parents of the woman he murdered, Reeva Steenkamp. 
- <p class="updated_time"> 05:48 AM CT, Nov. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59205570?at_medium=RSS&at_campaign=KARANGA">Astroworld: Travis Scott and Drake sued over deadly US festival crush</a> BBC: The rapper faces legal action after at least eight people were killed during his Astroworld festival. 
  <p class="updated_time"> 05:26 AM CT, Nov. 08 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59206814?at_medium=RSS&at_campaign=KARANGA">COP26: Rich countries ‘pushing back’ on paying for climate loss</a> BBC: Poorer countries say they are not able to get compensation for the damage caused by climate change. 
  <p class="updated_time"> 05:12 AM CT, Nov. 08 </p> 
@@ -49,16 +49,20 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-latin-america-59202881?at_medium=RSS&at_campaign=KARANGA">Nicaragua vote: Ortega tightens grip on power in 'pantomime election'</a> BBC: Preliminary results suggest an overwhelming win for Mr Ortega in polls widely dismissed as a "farce". 
  <p class="updated_time"> 02:44 AM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/05/world/asia/singapore-capital-punishment-drugs.html">Rights Groups Urge Singapore Not to Execute Man With Mental Disability</a> NYT: The man, a Malaysian with an I.Q. of 69, was caught trying to smuggle an ounce and a half of heroin in 2009. Some are calling his planned hanging a human rights violation. 
+ <p class="updated_time"> 01:00 AM CT, Nov. 08 </p> 
+ <a href="https://www.wsj.com/articles/chinas-economy-faces-risk-of-yearslong-real-estate-hangover-11636372801">China's Economy Faces Risk of Yearslong Real-Estate Hangover</a> WSJ: China’s aggressive campaign to root out speculative real-estate activity could slow the country’s growth rate for years to come, economists say, even if a major housing correction is averted. 
  <p class="updated_time"> 12:40 AM CT, Nov. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59202880?at_medium=RSS&at_campaign=KARANGA">Afghans facing 'hell on earth' as winter looms</a> BBC: The World Food Programme says 23 million people are "marching towards starvation" in the country. 
  <p class="updated_time"> 12:37 AM CT, Nov. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59202327?at_medium=RSS&at_campaign=KARANGA">Afghanistan hunger: 'The worst humanitarian crisis on Earth'</a> BBC: Afghanistan faces widespread famine with millions affected, says the UN World Food Programme head. 
+ <p class="updated_time"> 12:08 AM CT, Nov. 08 </p> 
+ <a href="https://www.wsj.com/articles/chinas-army-furnishes-foreign-militaries-with-covid-19-vaccines-11636369726">China's Army Furnishes Foreign Militaries With Covid-19 Vaccines</a> WSJ: The People’s Liberation Army has helped further Beijing’s global interests during the pandemic, bringing doses directly to militaries. 
  <p class="updated_time"> 11:52 PM CT, Nov. 07 </p> 
  <a href="https://www.wsj.com/articles/nicaraguas-president-ortega-on-track-for-controversial-fourth-term-11636368775">Nicaragua's President Ortega on Track for Controversial Fourth Term</a> WSJ: With 65% of the vote counted, the head of Nicaragua’s electoral authority said President Ortega had won 75% of the vote. Five small satellite parties controlled by Mr. Ortega split the difference and 35% abstained. 
  <p class="updated_time"> 11:52 PM CT, Nov. 07 </p> 
  <a href="https://www.wsj.com/articles/china-to-issue-licenses-for-education-companies-to-resume-after-school-tutoring-11636368762">China to Allow Education Companies to Resume After-School Tutoring</a> WSJ: China’s government plans to issue more than a dozen licenses that would allow companies to offer after-school tutoring, according to people familiar with the matter. 
  <p class="updated_time"> 06:35 PM CT, Nov. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59178826?at_medium=RSS&at_campaign=KARANGA">Why Tanzanian Nobel laureate Abdulrazak Gurnah is hardly known back home</a> BBC: Few of Abdulrazak Gurnah's novels are sold in Tanzania where reading fiction is not popular. 
+ <a href="https://www.bbc.co.uk/news/world-africa-59178826?at_medium=RSS&at_campaign=KARANGA">Why Tanzanian Nobel laureate Abdulrazak Gurnah is hardly known back home</a> BBC: Few of Abdulrazak Gurnah's novels are sold in Tanzania where not many people read fiction. 
  <p class="updated_time"> 06:28 PM CT, Nov. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59201107?at_medium=RSS&at_campaign=KARANGA">US reopens borders to vaccinated travellers after 20 months</a> BBC: A flood of foreign visitors is expected as tough restrictions on entry come to an end. 
  <p class="updated_time"> 06:24 PM CT, Nov. 07 </p> 
@@ -105,16 +109,12 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/07/1051468823/iraq-marshes-climate-change-cop26">In Iraq's famed marshlands, climate change is upending a way of life</a> NPR: Drought and extreme heat that scientists link to climate change are altering the UNESCO-protected marshlands. Iraq's average annual temperatures are increasing at nearly double the rate of Earth's. 
  <p class="updated_time"> 06:57 AM CT, Nov. 07 </p> 
  <a href="https://www.wsj.com/articles/mexico-bribery-case-ricardo-anaya-lopez-obrador-odebrecht-lozoya-11636307232">Tale of Gym Bag Stuffed With Cash Ensnares Top Opponent of Mexico's President</a> WSJ: Conservative politician Ricardo Anaya says López Obrador is prosecuting him on fabricated charges. He has plenty of company. 
- <p class="updated_time"> 06:48 AM CT, Nov. 07 </p> 
- <a href="https://www.wsj.com/articles/brazilian-farmers-who-protect-the-amazon-rainforest-would-like-to-be-paid-11636281003">Farmers Who Protect the Amazon Rainforest Would Like to Be Paid</a> WSJ: Some in Brazil say they would protect forests on their land if compensated through a carbon-credit program on the agenda at the climate-change summit now under way in Glasgow. 
  <p class="updated_time"> 06:33 AM CT, Nov. 07 </p> 
  <a href="https://www.nytimes.com/2021/11/07/world/asia/myanmar-bill-richardson.html">Veteran U.S. Diplomat Comes Under Criticism for a Trip to Myanmar</a> NYT: Bill Richardson, a former ambassador to the U.N., said that he had held “productive” talks with the general who led the February coup. Rights activists said he gave the junta an air of legitimacy. 
  <p class="updated_time"> 06:00 AM CT, Nov. 07 </p> 
  <a href="https://www.npr.org/2021/11/07/1053275827/nicaragua-may-be-holding-presidential-elections-but-it-is-edging-toward-dictator">Nicaragua may be holding presidential elections, but it is edging toward dictatorship</a> NPR: Nicaraguan President Daniel Ortega is running for a fourth consecutive term to remain leader of the Central American country in elections that critics and U.S. officials have labeled a "sham." 
  <p class="updated_time"> 05:48 AM CT, Nov. 07 </p> 
  <a href="https://www.wsj.com/articles/cop26-negotiators-turn-to-plan-b-as-climate-pledges-fall-short-11636303732">COP26 Negotiators Turn to Plan B as Climate Pledges Fall Short</a> WSJ: Officials are seeking ways to pressure each other to revisit emissions more frequently to keep global warming in check. 
- <p class="updated_time"> 04:45 AM CT, Nov. 07 </p> 
- <a href="https://www.wsj.com/articles/the-economic-rebound-from-covid-19-was-easy-now-comes-the-hard-part-11636299941">The Economic Rebound From Covid-19 Was Easy. Now Comes the Hard Part.</a> WSJ: As supply-chain disruptions worsen and inflation surges, executives and policy makers must navigate a delicate transition to a more normal economy. 
  <p class="updated_time"> 04:00 AM CT, Nov. 07 </p> 
  <a href="https://www.npr.org/2021/11/07/1051892092/guyana-climate-change-exxon-co26">Guyana is a poor country that was a green champion. Then Exxon discovered oil</a> NPR: Guyana, one of South America's poorest countries, is under severe threat by rising seas. That had made it a champion of climate action, but it all changed when ExxonMobil found oil off its waters. 
  <p class="updated_time"> 04:00 AM CT, Nov. 07 </p> 
@@ -216,10 +216,14 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
- <p class="updated_time"> 06:17 AM CT, Nov. 08 </p> 
- <a href="https://www.npr.org/2021/11/08/1053442912/rep-gottheimer-is-confident-democrats-will-work-out-the-social-spending-bill">Rep. Gottheimer is confident Democrats will work out the social spending bill</a> NPR: Moderate Democrat Rep. Josh Gottheimer of New Jersey tells NPR's Rachel Martin that he will wait to see how the CBO scores the plan before he commits to giving it his vote. 
- <p class="updated_time"> 06:06 AM CT, Nov. 08 </p> 
+ <p class="updated_time"> 07:20 AM CT, Nov. 08 </p> 
+ <a href="https://www.politico.com/newsletters/huddle/2021/11/08/recess-reverie-plus-huddle-restaurant-week-kicks-off-495014">Recess reverie (plus Huddle Restaurant Week kicks off)</a> Politico: A play-by-play preview of the day&#39;s congressional news 
+ <p class="updated_time"> 06:43 AM CT, Nov. 08 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uTQPN82VZNw/index.html">Obama to take swipe at Trump for 'four years of active hostility' on climate in Glasgow speech</a> CNN: Former President Barack Obama will deliver remarks on Monday at the UN climate conference in Glasgow in a return to the world stage centered around the climate crisis. 
+ <p class="updated_time"> 06:32 AM CT, Nov. 08 </p> 
+ <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/eH-i_mt_rdY/index.html">Hackers have breached organizations in defense and other sensitive sectors, security firm says</a> CNN: Suspected foreign hackers have breached nine organizations in the defense, energy, health care, technology and education sectors -- and at least one of those organizations is in the US, according to findings that security firm Palo Alto Networks shared exclusively with CNN. 
+ <p class="updated_time"> 06:17 AM CT, Nov. 08 </p> 
+ <a href="https://www.npr.org/2021/11/08/1053442912/rep-gottheimer-is-confident-democrats-will-work-out-the-social-spending-bill">Rep. Gottheimer is confident Democrats will work out the social spending bill</a> NPR: Moderate Democrat Rep. Josh Gottheimer of New Jersey tells NPR's Rachel Martin that he will wait to see how the Congressional Budget Office scores the plan before he commits to giving it his vote. 
  <p class="updated_time"> 06:05 AM CT, Nov. 08 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/08/big-obstacles-await-biden-after-big-win-495012">POLITICO Playbook: Big obstacles await Biden after big win</a> Politico: And midterm elections are a year from today. 
  <p class="updated_time"> 06:00 AM CT, Nov. 08 </p> 
@@ -267,7 +271,7 @@ permalink: /projects/news/
  <p class="updated_time"> 03:52 AM CT, Nov. 08 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-08/slovenian-government-support-hits-record-low-as-pandemic-worsens">Slovenian Government Support Hits Record Low as Pandemic Worsens</a> Bloomberg: Support for Slovenia’s minority government hit a record low as criticism builds over its handling of the coronavirus epidemic. 
  <p class="updated_time"> 03:50 AM CT, Nov. 08 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-08/german-spd-nominates-scholz-ally-klingbeil-as-party-co-leader">German SPD Nominates Scholz Ally Klingbeil as Party Co-Leader</a> Bloomberg: Germany’s Social Democrats nominated one of the main architects of their victory in September’s election and a close ally of chancellor-in-waiting Olaf Scholz to take over as party co-leader. 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-08/german-spd-nominates-scholz-ally-klingbeil-as-party-co-leader">German SPD Taps Scholz Ally, Plays Down Coalition Talks ‘Wobble’</a> Bloomberg: Germany’s Social Democrats nominated one of the main architects of their victory in September’s election to take over as party co-leader, and played down suggestions that their goal of forming a new government by early December is at risk. 
  <p class="updated_time"> 03:24 AM CT, Nov. 08 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-08/brazil-backs-u-k-s-warming-limits-to-mend-climate-reputation">Brazil Backs U.K.’s Warming Limits to Mend Climate Reputation</a> Bloomberg: Brazil is set to back the U.K.’s push to keep alive the chances of limiting global warming to 1.5 degrees Celsius as Latin America’s biggest economy seeks to mend its tarnished climate reputation. 
  <p class="updated_time"> 03:00 AM CT, Nov. 08 </p> 
@@ -277,7 +281,7 @@ permalink: /projects/news/
  <p class="updated_time"> 02:00 AM CT, Nov. 08 </p> 
  <a href="https://www.washingtonpost.com/politics/2021/11/08/battle-over-bidens-child-tax-credit-its-impact-poverty-workers/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">The battle over Biden’s child tax credit and its impact on poverty and workers</a> WaPo: A fierce dispute has erupted among economists about whether the president's child-tax credit expansion will cause parents to stop working. We explain the debate. 
  <p class="updated_time"> 01:53 AM CT, Nov. 08 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-08/iran-s-top-nuclear-diplomat-visits-u-k-france-germany-in-days">Iran’s Top Nuclear Diplomat to Visit U.K., France, Germany </a> Bloomberg: Iran called on the U.S. to change its approach to sanctions and abandon the Trump-era “maximum pressure” strategy against the Islamic Republic as its top nuclear negotiator heads to Europe to discuss efforts to revive the 2015 atomic deal. 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-08/iran-s-top-nuclear-diplomat-visits-u-k-france-germany-in-days">Iran’s Top Nuclear Diplomat to Visit U.K., France, Germany </a> Bloomberg: Iran called on the U.S. to change its approach to sanctions and abandon the Trump-era “maximum pressure” strategy against the Islamic Republic, as its top nuclear negotiator heads to Europe to discuss efforts to revive the 2015 atomic deal. 
  <p class="updated_time"> 01:10 AM CT, Nov. 08 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OUBqqbrBKnU/index.html">Biden seeks rebound as he basks in huge political victory </a> CNN: President Joe Biden's soon-to-be-signed $1 trillion infrastructure legislation is a direly needed political win and a vindication of his entire creed of politics. But on its own, it is unlikely to rescue a wobbling presidency as midterm elections loom. 
  <p class="updated_time"> 01:09 AM CT, Nov. 08 </p> 
@@ -305,13 +309,11 @@ permalink: /projects/news/
  <p class="updated_time"> 09:55 PM CT, Nov. 07 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-08/china-uses-fake-u-s-aircraft-carrier-for-target-practice">China Uses Fake U.S. Aircraft Carrier for Missile Target Practice</a> Bloomberg: The Chinese military is using mock-ups of a U.S. aircraft carrier at a weapons-testing range in a remote western desert, new satellite imagery shows, indicating the People’s Liberation Army is focused on neutralizing a key tool of U.S. power. 
  <p class="updated_time"> 09:47 PM CT, Nov. 07 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-08/plante-wins-re-election-in-montreal-on-housing-police-plan">Plante Wins Re-Election in Montreal on Housing, Police Plan</a> Bloomberg: Valerie Plante won a second term as mayor of Montreal, fending off predecessor Denis Coderre’s attempt to climb back to power after a campaign dominated by housing costs, gun violence and transportation issues. 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-08/plante-wins-re-election-in-montreal-on-housing-police-plan">Plante Wins Second Term in Montreal on Housing, Police Plan</a> Bloomberg: Valerie Plante won a second term as mayor of Montreal, fending off predecessor Denis Coderre’s attempt to climb back to power after a campaign dominated by housing costs, gun violence and transportation issues. 
  <p class="updated_time"> 09:31 PM CT, Nov. 07 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-08/pakistan-lifts-ban-on-radical-group-to-help-end-deadly-protests">Pakistan Lifts Ban on Radical Group to Help End Deadly Protests</a> Bloomberg: Pakistan lifted a ban on the radical religious group Tehreek Labbaik Pakistan, known as the TLP, as part of an agreement to end deadly protests by the group last month. 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-08/pakistan-lifts-ban-on-radical-group-to-help-end-deadly-protests">Pakistan Lifts Ban on Radical Group to End Deadly Protests</a> Bloomberg: Pakistan lifted a ban on Tehreek-e-Labbaik Pakistan, a radical religious group to end deadly protests by the group, a move which may embolden the country’s hardliners. 
  <p class="updated_time"> 08:14 PM CT, Nov. 07 </p> 
  <a href="https://www.politico.com/news/2021/11/07/houston-concert-deaths-mourning-520201">As mourning starts, Houston probes concert deaths</a> Politico: City officials said they were in the early stages of investigating what caused the pandemonium at the sold-out Astroworld festival. 
- <p class="updated_time"> 08:13 PM CT, Nov. 07 </p> 
- <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/eH-i_mt_rdY/index.html">Hackers have breached organizations in defense and other sensitive sectors, security firm says</a> CNN: Suspected foreign hackers have breached nine organizations in the defense, energy, health care, technology and education sectors -- and at least one of those organizations is in the US, according to findings that security firm Palo Alto Networks shared exclusively with CNN. 
  <p class="updated_time"> 06:10 PM CT, Nov. 07 </p> 
  <a href="https://www.washingtonpost.com/politics/democrats-biden-virginia-new-jersey-infrastructure/2021/11/07/d5811f7e-3e43-11ec-bfad-8283439871ec_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Democrats search for political identity amid dismal election results and legislative triumph</a> WaPo: Setbacks Tuesday in suburbs, small towns and rural communities, coupled with intraparty battles on Capitol Hill and passage of an infrastructure bill, crystallize a vexing question for the party: What does it mean to be a Democrat? 
  <p class="updated_time"> 06:01 PM CT, Nov. 07 </p> 
@@ -365,7 +367,7 @@ permalink: /projects/news/
  <p class="updated_time"> 09:24 AM CT, Nov. 07 </p> 
  <a href="https://www.washingtonpost.com/politics/biden-trump-infrastructure-afghanistan/2021/11/07/7c7a5534-3f34-11ec-8ee9-4f14a26749d1_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Biden gets his ‘infrastructure week,’ crossing another goal off Trump’s to-do list</a> WaPo: While the president has spent much of his first months in office seeking to undo the legacy of his predecessor, the passage of a massive spending bill and the withdrawal from Afghanistan mark two policy goals the two shared — but only one achieved. 
  <p class="updated_time"> 09:00 AM CT, Nov. 07 </p> 
- <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/yZD5Wl5TMe8/index.html">2021 shows Republicans shouldn't fear high voter turnout</a> CNN: The Republican Party did very well on Tuesday. Beyond its win in the Virginia gubernatorial election, it came quite close to capturing the New Jersey governor's mansion. 
+ <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/yZD5Wl5TMe8/index.html">Analysis: 2021 shows Republicans shouldn't fear high voter turnout</a> CNN: The Republican Party did very well on Tuesday. Beyond its win in the Virginia gubernatorial election, it came quite close to capturing the New Jersey governor's mansion. 
  <p class="updated_time"> 07:27 AM CT, Nov. 07 </p> 
  <a href="https://www.politico.com/news/2021/11/07/iraq-failed-assassination-attempt-519973">Failed assassination bid against Iraq PM ramps up tension</a> Politico: “Cowardly rocket and drone attacks don’t build homelands and don’t build a future,” the prime minister said. 
  <p class="updated_time"> 07:10 AM CT, Nov. 07 </p> 
