@@ -216,6 +216,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:35 AM CT, Nov. 08 </p> 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-08/obama-implores-nations-to-row-together-toward-climate-target">Obama Invokes Hawaiian Proverb to Urge Action at Climate Summit</a> Bloomberg: Former U.S. President Barack Obama extolled the importance of protecting island nations most vulnerable to global warming as he started a two-day campaign to convince world leaders the U.S. never relinquished its fight against climate change. 
  <p class="updated_time"> 07:20 AM CT, Nov. 08 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/11/08/recess-reverie-plus-huddle-restaurant-week-kicks-off-495014">Recess reverie (plus Huddle Restaurant Week kicks off)</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 07:20 AM CT, Nov. 08 </p> 
@@ -225,7 +227,7 @@ permalink: /projects/news/
  <p class="updated_time"> 07:11 AM CT, Nov. 08 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-08/norway-s-new-government-to-cut-power-levies-raise-wealth-tax">Norway’s New Government to Cut Power Levies, Raise Wealth Tax</a> Bloomberg: Norway’s new government is proposing to cut electricity charges to protect households from the effects of the energy crisis, while raising taxes on the wealthy, as it makes changes to a 2022 budget drafted by its predecessors. 
  <p class="updated_time"> 07:00 AM CT, Nov. 08 </p> 
- <a href="https://www.nytimes.com/2021/11/08/arts/08pen-critical-race-theory.html">Report Says Critical Race Theory Bans Threaten Free Speech</a> NYT: The report by PEN America, which surveys more than 50 bills proposed across the country, appeals to a principle that has lost its luster for many on the left and right. 
+ <a href="https://www.nytimes.com/2021/11/08/arts/critical-race-theory-bans.html">Report Says Critical Race Theory Bans Threaten Free Speech</a> NYT: The report by PEN America, which surveys more than 50 bills proposed across the country, appeals to a principle that has lost its luster for many on the left and right. 
  <p class="updated_time"> 06:54 AM CT, Nov. 08 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uTQPN82VZNw/index.html">Obama to take swipe at Trump for 'four years of active hostility' on climate in Glasgow speech</a> CNN: Former President Barack Obama will deliver remarks on Monday at the UN climate conference in Glasgow in a return to the world stage centered around the climate crisis. 
  <p class="updated_time"> 06:37 AM CT, Nov. 08 </p> 
@@ -306,8 +308,6 @@ permalink: /projects/news/
  <a href="https://www.bloomberg.com/news/articles/2021-11-08/malaysia-fails-in-bid-to-forfeit-luxury-goods-seized-from-najib">Malaysia Fails in Bid to Forfeit Luxury Goods Seized From Najib</a> Bloomberg: Malaysia’s government failed in its attempt to forfeit luxury items seized from former Prime Minister Najib Razak and his family members. 
  <p class="updated_time"> 11:10 PM CT, Nov. 07 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-08/nicaragua-leader-ortega-hits-back-during-vote-slammed-by-biden">Nicaragua Leader Ortega Hits Back During Vote Slammed by Biden</a> Bloomberg: Nicaraguan leader Daniel Ortega called his opponents “demons” and “terrorists” on Sunday as voting went ahead in an election U.S. President Joe Biden denounced as a farce. 
- <p class="updated_time"> 11:01 PM CT, Nov. 07 </p> 
- <a href="https://www.bloomberg.com/news/features/2021-11-08/how-togo-made-all-digital-government-stimulus-system-in-two-weeks">One of the World’s Poorest Countries Found a Better Way to Do Stimulus</a> Bloomberg: In two weeks, Togo designed and launched an all-digital system for delivering monthly payments to millions of people&mdash;and made the U.S. program look like a “dinosaur.” 
  <p class="updated_time"> 11:00 PM CT, Nov. 07 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-08/turkey-s-rich-cash-in-as-erdogan-s-war-on-interest-rates-punishes-supporters">Erdogan’s War on Interest Rates Is Making Turkey’s Rich Richer</a> Bloomberg: Widening inequalities threaten the president’s popularity even as economy booms. 
  <p class="updated_time"> 09:55 PM CT, Nov. 07 </p> 
