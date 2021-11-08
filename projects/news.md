@@ -208,10 +208,12 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:49 AM CT, Nov. 08 </p> 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-08/spyware-scandal-grows-in-hungary-with-more-than-100-targets">Spyware Scandal Grows in Hungary With More Than 100 Targets</a> Bloomberg: Hungary targeted more than 100 people with the Pegasus spyware, according to the head of parliament’s national security committee, widening a scandal surrounding a tool the government initially denied knowledge of using. 
  <p class="updated_time"> 02:00 AM CT, Nov. 08 </p> 
  <a href="https://www.washingtonpost.com/politics/2021/11/08/battle-over-bidens-child-tax-credit-its-impact-poverty-workers/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">The battle over Biden’s child tax credit and its impact on poverty and workers</a> WaPo: A fierce dispute has erupted among economists about whether the president's child-tax credit expansion will cause parents to stop working. We explain the debate. 
  <p class="updated_time"> 01:53 AM CT, Nov. 08 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-08/iran-s-top-nuclear-diplomat-visits-u-k-france-germany-in-days">Iran’s Top Nuclear Diplomat to Visit U.K., France, Germany </a> Bloomberg: Ali Bagheri Kani, Iran’s deputy foreign minister and lead negotiator in nuclear talks, will visit London, Paris and Berlin later this week to discuss the big-power negotiations to revive the 2015 nuclear deal, Iran’s foreign ministry spokesman said. 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-08/iran-s-top-nuclear-diplomat-visits-u-k-france-germany-in-days">Iran’s Top Nuclear Diplomat to Visit U.K., France, Germany </a> Bloomberg: Iran called on the U.S. to change its approach to sanctions and abandon the Trump-era “maximum pressure” strategy against the Islamic Republic as its top nuclear negotiator heads to Europe to discuss efforts to revive the 2015 atomic deal. 
  <p class="updated_time"> 01:09 AM CT, Nov. 08 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-08/chinese-firm-seeks-damages-from-sri-lanka-in-fertilizer-dispute">Chinese Firm Seeks Damages From Sri Lanka in Fertilizer Dispute</a> Bloomberg: A Chinese company is seeking damages from a Sri Lankan government agency for rejecting a shipment of organic fertilizer found to have pathogens in an ongoing dispute that could test Colombo’s relationship with Beijing. 
  <p class="updated_time"> 01:00 AM CT, Nov. 08 </p> 
@@ -300,8 +302,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/07/election-voters-message-action-klain-520042">'Voters sent a message on Tuesday' for more action, Klain says</a> Politico: “In my opinion,” he said, “it’s been a rough and tough year.” 
  <p class="updated_time"> 12:14 PM CT, Nov. 07 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-07/thousands-demonstrate-in-ethiopia-against-rebels-interference">Thousands Demonstrate in Ethiopia Against Rebels, Interference</a> Bloomberg: Tens of thousands of residents of Addis Ababa took to the streets on Sunday to denounce rebel forces that have threatened to march on Ethiopia’s capital city and to reject foreign involvement in the country’s civil war. 
- <p class="updated_time"> 12:09 PM CT, Nov. 07 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-07/macron-leads-in-first-round-polling-with-25-lci-poll-shows">Macron Leads in First-Round Polling With 25%, LCI Poll Shows</a> Bloomberg: French President Emmanuel Macron would get 25% or more of the votes in the first round of the election if voting were held today, according to a poll done by Ifop-Fiducial for LCI television and Le Figaro. 
  <p class="updated_time"> 11:30 AM CT, Nov. 07 </p> 
  <a href="https://www.politico.com/news/2021/11/07/payments-families-border-richmond-520027">Payments to families separated at border are ‘for the Department of Justice to decide,’ W.H. adviser says</a> Politico: “I want to be clear about this: We do not tell the Department of Justice what to do,” Cedric Richmond said. 
  <p class="updated_time"> 11:17 AM CT, Nov. 07 </p> 
