@@ -7,24 +7,26 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:55 AM CT, Nov. 08 </p> 
+ <a href="https://www.nytimes.com/2021/11/08/travel/us-travel-ban-vaccination.html">U.S. Lifts Travel Ban for Vaccinated Foreigners</a> NYT: The change ends more than 18 months of restrictions that left families separated from loved ones and cost the global travel industry hundreds of billions of dollars. 
+ <p class="updated_time"> 09:54 AM CT, Nov. 08 </p> 
+ <a href="https://www.nytimes.com/2021/11/08/world/europe/europe-us-travel-ban.html">U.S. Travel Ban Ends, and Europeans Head Overseas Again</a> NYT: Europeans were kept apart from family and friends as the ban dragged on long after E.U. leaders had opened their borders. 
+ <p class="updated_time"> 09:49 AM CT, Nov. 08 </p> 
+ <a href="https://www.nytimes.com/2021/11/08/world/europe/van-morrison-covid-northern-ireland.html">Northern Ireland’s health minister is suing Van Morrison over Covid-19 criticism.</a> NYT: The Belfast-born singer-songwriter has embraced conspiracy theories and criticized restrictions to slow the spread of the coronavirus. Last year, he released a single called “No More Lockdown.” 
  <p class="updated_time"> 09:46 AM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/world/europe/heathrow-first-flight-us-travel-ban.html">Excited Passengers Board First Flight from Heathrow to the U.S.</a> NYT: Long lines formed at Heathrow Airport for the first scheduled trips to the United States since the Biden administration lifted a travel ban. 
  <p class="updated_time"> 09:45 AM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/world/middleeast/nso-israel-palestinians-spyware.html">Palestinians Were Targeted by Israeli Firm’s Spyware, Experts Say</a> NYT: The findings of a new analysis raised questions about whether the Israeli government may have been behind the hacking, using spyware from the NSO Group, a surveillance company blacklisted by the United States. 
- <p class="updated_time"> 09:28 AM CT, Nov. 08 </p> 
- <a href="https://www.nytimes.com/2021/11/08/world/europe/europe-us-travel-ban.html">U.S. Travel Ban Ends, and Europeans Head Overseas Again</a> NYT: Europeans were kept apart from family and friends as the ban dragged on long after E.U. leaders had opened their borders. 
  <p class="updated_time"> 09:24 AM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/06/world/europe/cop-climate-protests.html">COP26 Protesters Back an Array of Causes, Connected by Climate Change</a> NYT: Thousands gathered in the rain in Glasgow to press the case for more urgent and meaningful action by world leaders in response to global warming. 
- <p class="updated_time"> 09:23 AM CT, Nov. 08 </p> 
- <a href="https://www.nytimes.com/2021/11/08/world/europe/van-morrison-covid-northern-ireland.html">Northern Ireland’s health minister is suing Van Morrison over Covid-19 criticism</a> NYT: The Belfast-born singer-songwriter has embraced conspiracy theories and criticized restrictions to slow the spread of the coronavirus. Last year, he released a single called “No More Lockdown.” 
+ <p class="updated_time"> 09:10 AM CT, Nov. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59206825?at_medium=RSS&at_campaign=KARANGA">Nagaenthran Dharmalingam: Singapore halts execution of man with low IQ</a> BBC: Nagaenthran Dharmalingam was due to be hanged for trying to bring a small amount of drugs into Singapore. 
  <p class="updated_time"> 08:45 AM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/world/asia/new-zealand-ease-lockdown-restrictions.html">New Zealand's Biggest City Is to Ease Lockdown Restrictions</a> NYT: The lifting of rules comes as the country records some of its highest daily case numbers since the pandemic began. 
  <p class="updated_time"> 08:35 AM CT, Nov. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59205372?at_medium=RSS&at_campaign=KARANGA">Sierra Leone tanker explosion: Mass burial in Freetown</a> BBC: The authorities have also made an urgent appeal for blood donations in the capital Freetown. 
  <p class="updated_time"> 08:16 AM CT, Nov. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59206685?at_medium=RSS&at_campaign=KARANGA">Poland fears major breach by migrants on Belarus border</a> BBC: Thousands of troops patrol the border, where migrants have tried to enter Poland from Belarus. 
- <p class="updated_time"> 08:14 AM CT, Nov. 08 </p> 
- <a href="https://www.nytimes.com/2021/11/08/travel/us-travel-ban-vaccination.html">U.S. Lifts Travel Ban for Vaccinated Foreigners</a> NYT: The change ends more than 18 months of restrictions that left families separated from loved ones and cost the global travel industry hundreds of billions of dollars. 
  <p class="updated_time"> 07:56 AM CT, Nov. 08 </p> 
  <a href="https://www.bbc.co.uk/news/uk-59210335?at_medium=RSS&at_campaign=KARANGA">Venus Williams: 'It's important people continue to break barriers'</a> BBC: The tennis star tells 5 Live's Rick Edwards she hopes future generations don't have to focus "on the colour of their skin". 
  <p class="updated_time"> 07:31 AM CT, Nov. 08 </p> 
@@ -45,20 +47,24 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/science-environment-59206814?at_medium=RSS&at_campaign=KARANGA">COP26: Rich countries ‘pushing back’ on paying for climate loss</a> BBC: Poorer countries say they are not able to get compensation for the damage caused by climate change. 
  <p class="updated_time"> 04:59 AM CT, Nov. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-51235105?at_medium=RSS&at_campaign=KARANGA">Covid map: Coronavirus cases, deaths, vaccinations by country</a> BBC: Key maps and charts explaining how the virus has spread around the world. 
- <p class="updated_time"> 04:42 AM CT, Nov. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-59173479?at_medium=RSS&at_campaign=KARANGA">Zika virus: India's Kanpur city on alert after 89 cases reported</a> BBC: The first Zika case in Kanpur was detected on 23 October and cases have since been on the rise. 
+ <p class="updated_time"> 04:41 AM CT, Nov. 08 </p> 
+ <a href="https://www.wsj.com/articles/u-s-opens-borders-to-vaccinated-europeans-others-after-more-than-18-months-11636386116">U.S. Opens Borders to Vaccinated Europeans, Others, After More Than 18 Months</a> WSJ: Vaccinated non-American citizens from previously restricted countries—predominantly in Europe—are allowed to travel to the U.S. from today, if they have proof of vaccination and a negative Covid-19 test taken within the prior three days. 
  <p class="updated_time"> 04:36 AM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/insider/taliban-kabul-afghanistan-journalists.html">When the Taliban Are in Your Bedroom</a> NYT: As armed Taliban inspected the New York Times bureau in Kabul, they were escorted by a journalist who used to be a U.S. Marine. The photo of him in uniform was plain for all to see, and ponder. 
  <p class="updated_time"> 04:30 AM CT, Nov. 08 </p> 
  <a href="https://www.npr.org/2021/11/08/1053434232/the-u-s-lifts-the-pandemic-travel-ban-and-opens-the-doors-to-international-visit">The U.S. lifts the pandemic travel ban and opens the doors to international visitors</a> NPR: Starting Monday, the U.S. begins accepting fully vaccinated travelers at airports and land borders, doing away with a COVID-19 restriction that dates back to the Trump administration. 
  <p class="updated_time"> 04:20 AM CT, Nov. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59168540?at_medium=RSS&at_campaign=KARANGA">WHO casts doubt on Turkmenistan's zero-Covid claim</a> BBC: A World Health Organization official tells the BBC it is "unlikely the virus is not circulating". 
+ <p class="updated_time"> 04:13 AM CT, Nov. 08 </p> 
+ <a href="https://www.wsj.com/articles/germany-economy-lagging-behind-europe-supply-chain-11636383954">Germany's Economy, Once Europe's Engine, Is Holding It Back</a> WSJ: Germany’s export-oriented businesses have fared poorly in a post-pandemic world of broken supply chains and rising energy prices. The malaise is fueling a debate over whether the German economy needs a reboot and what it should look like. 
  <p class="updated_time"> 04:12 AM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/07/world/americas/nicaragua-election-ortega.html">In Nicaragua Election, Ortega Crushes Dissent</a> NYT: President Daniel Ortega quashed the opposition and struck fear in voters, all but guaranteeing his victory in a presidential contest on Sunday. 
  <p class="updated_time"> 04:00 AM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/world/europe/romania-covid-vaccine-refusal.html">In Romania, Hard-Hit by Covid, Doctors Fight Vaccine Refusal</a> NYT: An anti-vaccine clarion call by leading religious figures, echoed by prominent politicians and social media, helps explain why Romania now has the world’s highest Covid death rate. 
  <p class="updated_time"> 04:00 AM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/travel/yadnya-kasada-volcano-ritual.html">Inside a Volcanic Ritual on the Indonesian Island of Java</a> NYT: During the Hindu ceremony of Yadnya Kasada, the Tenggerese people toss offerings — food, money, flowers, livestock — into the hazy crater of Mount Bromo. 
+ <p class="updated_time"> 04:00 AM CT, Nov. 08 </p> 
+ <a href="https://www.wsj.com/articles/cubas-dissidents-dig-in-despite-government-crackdown-11636383600">Cuba's Dissidents Dig In Despite Government Crackdown</a> WSJ: Activists, artists and professionals challenge the Communist regime even as hundreds of protesters face contempt, sedition and sabotage charges. 
  <p class="updated_time"> 03:24 AM CT, Nov. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59202881?at_medium=RSS&at_campaign=KARANGA">Nicaragua vote: Ortega tightens grip on power in 'pantomime election'</a> BBC: Preliminary results suggest an overwhelming win for Mr Ortega in polls widely dismissed as a "farce". 
  <p class="updated_time"> 02:44 AM CT, Nov. 08 </p> 
@@ -72,9 +78,9 @@ permalink: /projects/news/
  <p class="updated_time"> 12:08 AM CT, Nov. 08 </p> 
  <a href="https://www.wsj.com/articles/chinas-army-furnishes-foreign-militaries-with-covid-19-vaccines-11636369726">China's Army Furnishes Foreign Militaries With Covid-19 Vaccines</a> WSJ: The People’s Liberation Army has helped further Beijing’s global interests during the pandemic, bringing doses directly to militaries. 
  <p class="updated_time"> 11:52 PM CT, Nov. 07 </p> 
- <a href="https://www.wsj.com/articles/china-to-issue-licenses-for-education-companies-to-resume-after-school-tutoring-11636368762">China to Allow Education Companies to Resume After-School Tutoring</a> WSJ: China’s government plans to issue more than a dozen licenses that would allow companies to offer after-school tutoring, according to people familiar with the matter. 
- <p class="updated_time"> 11:52 PM CT, Nov. 07 </p> 
  <a href="https://www.wsj.com/articles/nicaraguas-president-ortega-on-track-for-controversial-fourth-term-11636368775">Nicaragua's President Ortega on Track for Controversial Fourth Term</a> WSJ: With 65% of the vote counted, the head of Nicaragua’s electoral authority said President Ortega had won 75% of the vote. Five small satellite parties controlled by Mr. Ortega split the difference and 35% abstained. 
+ <p class="updated_time"> 11:52 PM CT, Nov. 07 </p> 
+ <a href="https://www.wsj.com/articles/china-to-issue-licenses-for-education-companies-to-resume-after-school-tutoring-11636368762">China to Allow Education Companies to Resume After-School Tutoring</a> WSJ: China’s government plans to issue more than a dozen licenses that would allow companies to offer after-school tutoring, according to people familiar with the matter. 
  <p class="updated_time"> 06:35 PM CT, Nov. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59178826?at_medium=RSS&at_campaign=KARANGA">Why Tanzanian Nobel laureate Abdulrazak Gurnah is hardly known back home</a> BBC: Few of Abdulrazak Gurnah's novels are sold in Tanzania where not many people read fiction. 
  <p class="updated_time"> 06:24 PM CT, Nov. 07 </p> 
@@ -113,14 +119,10 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/07/1053326456/sudan-faces-mass-protests-and-arrests-after-military-dissolves-civilian-governme">Sudan faces mass protests and arrests after military dissolves civilian government</a> NPR: Danielle Kurtzleben speaks to Khartoum-based political analyst Samir Fadol on the latest in Sudan, where a military coup unseated the civilian government October 25. 
  <p class="updated_time"> 07:03 AM CT, Nov. 07 </p> 
  <a href="https://www.npr.org/2021/11/07/1051468823/iraq-marshes-climate-change-cop26">In Iraq's famed marshlands, climate change is upending a way of life</a> NPR: Drought and extreme heat that scientists link to climate change are altering the UNESCO-protected marshlands. Iraq's average annual temperatures are increasing at nearly double the rate of Earth's. 
- <p class="updated_time"> 06:57 AM CT, Nov. 07 </p> 
- <a href="https://www.wsj.com/articles/mexico-bribery-case-ricardo-anaya-lopez-obrador-odebrecht-lozoya-11636307232">Tale of Gym Bag Stuffed With Cash Ensnares Top Opponent of Mexico's President</a> WSJ: Conservative politician Ricardo Anaya says López Obrador is prosecuting him on fabricated charges. He has plenty of company. 
  <p class="updated_time"> 06:33 AM CT, Nov. 07 </p> 
  <a href="https://www.nytimes.com/2021/11/07/world/asia/myanmar-bill-richardson.html">Veteran U.S. Diplomat Comes Under Criticism for a Trip to Myanmar</a> NYT: Bill Richardson, a former ambassador to the U.N., said that he had held “productive” talks with the general who led the February coup. Rights activists said he gave the junta an air of legitimacy. 
  <p class="updated_time"> 06:00 AM CT, Nov. 07 </p> 
  <a href="https://www.npr.org/2021/11/07/1053275827/nicaragua-may-be-holding-presidential-elections-but-it-is-edging-toward-dictator">Nicaragua may be holding presidential elections, but it is edging toward dictatorship</a> NPR: Nicaraguan President Daniel Ortega is running for a fourth consecutive term to remain leader of the Central American country in elections that critics and U.S. officials have labeled a "sham." 
- <p class="updated_time"> 05:48 AM CT, Nov. 07 </p> 
- <a href="https://www.wsj.com/articles/cop26-negotiators-turn-to-plan-b-as-climate-pledges-fall-short-11636303732">COP26 Negotiators Turn to Plan B as Climate Pledges Fall Short</a> WSJ: Officials are seeking ways to pressure each other to revisit emissions more frequently to keep global warming in check. 
  <p class="updated_time"> 04:00 AM CT, Nov. 07 </p> 
  <a href="https://www.npr.org/2021/11/07/1051892092/guyana-climate-change-exxon-co26">Guyana is a poor country that was a green champion. Then Exxon discovered oil</a> NPR: Guyana, one of South America's poorest countries, is under severe threat by rising seas. That had made it a champion of climate action, but it all changed when ExxonMobil found oil off its waters. 
  <p class="updated_time"> 04:00 AM CT, Nov. 07 </p> 
@@ -212,6 +214,12 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:59 AM CT, Nov. 08 </p> 
+ <a href="https://www.nytimes.com/2021/11/08/travel/us-travel-ban-vaccination.html">U.S. Lifts Travel Ban for Vaccinated Foreigners</a> NYT: The change ends more than 18 months of restrictions that left families separated from loved ones and cost the global travel industry hundreds of billions of dollars. 
+ <p class="updated_time"> 09:56 AM CT, Nov. 08 </p> 
+ <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uTQPN82VZNw/index.html">Obama swipes at Trump for 'four years of active hostility' on climate in Glasgow speech</a> CNN: Former President Barack Obama will deliver remarks on Monday at the UN climate conference in Glasgow in a return to the world stage centered around the climate crisis. 
+ <p class="updated_time"> 09:50 AM CT, Nov. 08 </p> 
+ <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/cIe5qkKqmC4/index.html">Florida Gov. DeSantis officially launches 2022 reelection bid</a> CNN: Florida Gov. Ron DeSantis has officially launched his campaign for reelection, setting the stage for what is expected to be one of the country's most closely watched and expensive gubernatorial races of 2022. 
  <p class="updated_time"> 09:46 AM CT, Nov. 08 </p> 
  <a href="https://www.npr.org/2021/11/08/1053511530/elon-musk-twitter-poll-tesla">Elon Musk asked Twitter followers if he should sell Tesla shares. They said yes</a> NPR: Tesla shares are falling after Elon Musk proposed to sell 10% of his shares in the company if his Twitter followers agreed. 
  <p class="updated_time"> 09:44 AM CT, Nov. 08 </p> 
@@ -226,18 +234,14 @@ permalink: /projects/news/
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DElB6sGwR-I/index.html">Jill Biden pays tribute to one of America's most iconic first ladies</a> CNN: As the season changed from summer to fall, first lady Jill Biden has found a spot to sit outside at the White House to grade her students' essays. 
  <p class="updated_time"> 09:11 AM CT, Nov. 08 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9p9GkYhH3_M/index.html">US seizes $6 million in ransom payments and expected to charge Ukrainian over major cyberattack </a> CNN: Law enforcement officials have seized an estimated $6 million in ransom payments, and the US Justice Department is expected to announce Monday that it has charged a suspect from Ukraine over a damaging July ransomware attack on an American company in a breakthrough for the Biden administration's pursuit of cybercriminals, CNN has learned. 
- <p class="updated_time"> 09:05 AM CT, Nov. 08 </p> 
- <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uTQPN82VZNw/index.html">Obama swipes at Trump for 'four years of active hostility' on climate in Glasgow speech</a> CNN: Former President Barack Obama will deliver remarks on Monday at the UN climate conference in Glasgow in a return to the world stage centered around the climate crisis. 
  <p class="updated_time"> 08:54 AM CT, Nov. 08 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-08/murphy-campaign-urges-ciattarelli-to-concede-n-j-governor-race">Murphy Campaign Urges Ciattarelli to Concede N.J. Governor Race</a> Bloomberg: New Jersey Governor Phil Murphy’s campaign manager on Monday urged Republican candidate Jack Ciattarelli to concede, saying in a statement that “the race is over.” 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-08/murphy-campaign-urges-ciattarelli-to-concede-n-j-governor-race">Murphy Urges Ciattarelli to Concede N.J. Governor’s Race</a> Bloomberg: New Jersey Governor Phil Murphy’s campaign manager on Monday urged Republican candidate Jack Ciattarelli to concede, saying in a statement that “the race is over.” 
  <p class="updated_time"> 08:53 AM CT, Nov. 08 </p> 
  <a href="https://www.washingtonpost.com/world/europe/capitol-rioter-asylum-belarus/2021/11/08/fbc4eb14-4093-11ec-9404-50a28a88b9cd_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Capitol rioter Evan Neumann applies for asylum in Belarus, says local media</a> WaPo: Neumann was presented by local media as someone who was persecuted for questioning election results. 
  <p class="updated_time"> 08:18 AM CT, Nov. 08 </p> 
  <a href="https://www.washingtonpost.com/politics/rick-scott-sean-parnell/2021/11/08/d21bb370-4097-11ec-a3aa-0255edc02eb7_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">NRSC chair Rick Scott declines to say if Trump-backed Senate hopeful accused of strangling wife is right candidate for the job</a> WaPo: Pressed during an interview about Sean Parnell, the senator from Florida said it is not his job to endorse candidates in open primaries. Parnell has been endorsed by former president Donald Trump. 
  <p class="updated_time"> 08:14 AM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/arts/critical-race-theory-bans.html">Bans on Critical Race Theory Threaten Free Speech, Advocacy Group Says</a> NYT: A report by PEN America, which surveys more than 50 bills proposed across the country, appeals to a principle that has lost its luster for many on the left and right. 
- <p class="updated_time"> 08:14 AM CT, Nov. 08 </p> 
- <a href="https://www.nytimes.com/2021/11/08/travel/us-travel-ban-vaccination.html">U.S. Lifts Travel Ban for Vaccinated Foreigners</a> NYT: The change ends more than 18 months of restrictions that left families separated from loved ones and cost the global travel industry hundreds of billions of dollars. 
  <p class="updated_time"> 08:08 AM CT, Nov. 08 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-08/no-johnson-apology-as-lobbying-furor-engulfs-his-u-k-government">No Johnson Apology as Lobbying Furor Engulfs His U.K. Government</a> Bloomberg: Boris Johnson declined to apologize over his attempt to protect a ruling U.K. Conservative Party lawmaker who broke lobbying rules, even with his government still battling to contain the fallout. 
  <p class="updated_time"> 07:51 AM CT, Nov. 08 </p> 
@@ -245,7 +249,7 @@ permalink: /projects/news/
  <p class="updated_time"> 07:40 AM CT, Nov. 08 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-08/u-k-triggering-article-16-would-be-reckless-irish-pm-warns">U.K. Triggering Article 16 Would Be Reckless, Irish PM Warns</a> Bloomberg: The U.K. would be be “reckless and irresponsible” if it were to move to set aside parts of the Brexit agreement, Ireland’s prime minister said, amid growing speculation the British government is preparing to do just that. 
  <p class="updated_time"> 07:35 AM CT, Nov. 08 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-08/obama-implores-nations-to-row-together-toward-climate-target">Obama Invokes Hawaiian Proverb to Urge Action at Climate Summit</a> Bloomberg: Former U.S. President Barack Obama extolled the importance of protecting island nations most vulnerable to global warming as he started a two-day campaign to convince world leaders the U.S. never relinquished its fight against climate change. 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-08/obama-implores-nations-to-row-together-toward-climate-target">Obama Invokes Hawaiian Proverb to Urge Action at Climate Summit</a> Bloomberg: Former U.S. President Barack Obama implored nations to move aggressively against climate change, warning that the world is falling dangerously short of what’s needed to tame rising temperatures and prevent disaster. 
  <p class="updated_time"> 07:20 AM CT, Nov. 08 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/11/08/recess-reverie-plus-huddle-restaurant-week-kicks-off-495014">Recess reverie (plus Huddle Restaurant Week kicks off)</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 07:20 AM CT, Nov. 08 </p> 
@@ -304,6 +308,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/08/1052567444/supreme-court-to-hear-arguments-on-fbis-surveillance-of-mosques">Supreme Court to hear arguments on FBI's surveillance of mosques </a> NPR: The argument will focus on whether this case can move forward at all because the government argues that for it to produce any of the evidence gathered 15 years ago would jeopardize national security. 
  <p class="updated_time"> 04:00 AM CT, Nov. 08 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-08/u-s-u-k-join-nations-sounding-alarm-over-china-import-rules">U.S., U.K. Join Nations Sounding Alarm Over China Import Rules</a> Bloomberg: Several countries including Japan, the U.K. and the U.S. are urging Chinese customs officials to pause the rollout of regulations on food imports, arguing the measures risk further disrupting global supply chains. 
+ <p class="updated_time"> 04:00 AM CT, Nov. 08 </p> 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-08/chile-s-election-dark-horse-helps-to-prop-up-recent-bond-gains">Conservative's Rise in Polls is Giving a Boost to Chile's Ailing Bond Market</a> Bloomberg: The race for Chile’s presidency has been thrown wide open by a sudden surge in support for a far-right candidate, who has stolen the thunder from the left-wing favorite with a program to slash taxes. The bond market is beginning to pay attention. 
  <p class="updated_time"> 03:52 AM CT, Nov. 08 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-08/slovenian-government-support-hits-record-low-as-pandemic-worsens">Slovenian Government Support Hits Record Low as Pandemic Worsens</a> Bloomberg: Support for Slovenia’s minority government hit a record low as criticism builds over its handling of the coronavirus epidemic. 
  <p class="updated_time"> 03:50 AM CT, Nov. 08 </p> 
@@ -320,8 +326,6 @@ permalink: /projects/news/
  <a href="https://www.bloomberg.com/news/articles/2021-11-08/iran-s-top-nuclear-diplomat-visits-u-k-france-germany-in-days">Iran’s Top Nuclear Diplomat to Visit U.K., France, Germany </a> Bloomberg: Iran called on the U.S. to change its approach to sanctions and abandon the Trump-era “maximum pressure” strategy against the Islamic Republic, as its top nuclear negotiator heads to Europe to discuss efforts to revive the 2015 atomic deal. 
  <p class="updated_time"> 01:09 AM CT, Nov. 08 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-08/chinese-firm-seeks-damages-from-sri-lanka-in-fertilizer-dispute">Chinese Firm Seeks Damages From Sri Lanka in Fertilizer Dispute</a> Bloomberg: A Chinese company is seeking damages from a Sri Lankan government agency for rejecting a shipment of organic fertilizer found to have pathogens in an ongoing dispute that could test Colombo’s relationship with Beijing. 
- <p class="updated_time"> 01:00 AM CT, Nov. 08 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-08/biden-takes-case-to-voters-with-public-works-as-exit-from-slump">Biden Takes Case to Voters After Passage of Major Infrastructure Bill</a> Bloomberg: President Joe Biden and his party notched a huge economic victory late Friday with passage of a bipartisan public works bill. Now he seeks to sell Americans on the merits of $550 billion in new spending even as they face rising prices for fuel, food and housing. 
  <p class="updated_time"> 11:43 PM CT, Nov. 07 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-08/japan-premier-picks-china-critic-to-be-adviser-on-human-rights">Japan Premier Picks China Critic to Be Human Rights Adviser</a> Bloomberg: Japanese Prime Minister Fumio Kishida picked a critic of China’s treatment of the Uyghur ethnic group to be his aide for human rights issues, a move that could increase friction between Asia’s two biggest economies. 
  <p class="updated_time"> 11:10 PM CT, Nov. 07 </p> 
@@ -468,8 +472,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/05/house-infrastructure-bill-519796">House ships $550B infrastructure legislation to Biden’s desk after months of delay</a> Politico: Only 13 House Republicans voted for the bill, alongside all but 6 Democrats. 
  <p class="updated_time"> 08:35 PM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/05/us/politics/jeffrey-clark-capitol-riot-committee.html">Trump Justice Dept. Official Defies Request by Jan. 6 Panel</a> NYT: Jeffrey Clark, who aided in the former president’s efforts to overturn the election, appeared before the committee but would not answer substantive questions. 
- <p class="updated_time"> 06:42 PM CT, Nov. 05 </p> 
- <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gAtxAS-GVOA/index.html">Glenn Youngkin's underage son was turned away from a voting precinct on Election Day, top county election official says</a> CNN: Glenn Youngkin's 17-year-old son was turned away from a voting precinct on Election Day, the top election official for Fairfax County, Virginia told CNN on Friday. 
  <p class="updated_time"> 06:21 PM CT, Nov. 05 </p> 
  <a href="https://www.washingtonpost.com/politics/jan-6-committee-warns-trump-doj-official-he-must-cooperate-with-investigation-or-it-will-move-aggressively-against-him/2021/11/05/ffee8fc4-3e8b-11ec-bfad-8283439871ec_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Jan. 6 committee warns Trump DOJ official he must cooperate with investigation or it will move aggressively against him</a> WaPo: Jeffrey Clark refused to answer questions from the committee Friday, citing executive and attorney-client privilege. 
  <p class="updated_time"> 06:20 PM CT, Nov. 05 </p> 
