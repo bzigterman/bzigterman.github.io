@@ -218,6 +218,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:21 PM CT, Nov. 07 </p> 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-08/south-korea-s-moon-near-low-in-polls-as-election-campaign-starts">Conservatives Start South Korea Campaign With Support at Record</a> Bloomberg: South Korean President Moon Jae-in’s support rate neared a record low while the conservative opposition’s hit a new high, a worrying sign for the leader’s progressive camp as the campaign to replace him heats up. 
  <p class="updated_time"> 08:14 PM CT, Nov. 07 </p> 
  <a href="https://www.politico.com/news/2021/11/07/houston-concert-deaths-mourning-520201">As mourning starts, Houston probes concert deaths</a> Politico: City officials said they were in the early stages of investigating what caused the pandemonium at the sold-out Astroworld festival. 
  <p class="updated_time"> 07:01 PM CT, Nov. 07 </p> 
@@ -344,8 +346,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/06/1053239109/rep-pramila-jayapal-on-what-led-her-to-throw-support-behind-infrastructure-bill">Rep. Pramila Jayapal on what led her to throw support behind infrastructure bill</a> NPR: NPR's Michel Martin speaks with Rep. Pramila Jayapal, D-Wash., chair of the Congressional Progressive Caucus, about the passage of the $1.2 trillion infrastructure bill. 
  <p class="updated_time"> 04:17 PM CT, Nov. 06 </p> 
  <a href="https://www.npr.org/2021/11/06/1053239102/how-the-house-passed-the-1-trillion-infrastructure-plan">How the House passed the $1 trillion infrastructure plan</a> NPR: The House of Representatives passed a trillion dollar infrastructure bill Friday, delivering President Biden a major legislative victory after months of negotiation with his own party. 
- <p class="updated_time"> 04:00 PM CT, Nov. 06 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-06/china-s-stagflation-risk-builds-as-growth-slows-eco-week-ahead">China’s Stagflation Risk Builds as Growth Slows: Eco Week Ahead</a> Bloomberg: China’s inflation risks are building while new Covid-19 outbreaks are dimming the outlook for economic growth, throwing the spotlight back on policy makers as the Communist Party’s top leaders gather for a crucial political meeting this week. 
  <p class="updated_time"> 02:21 PM CT, Nov. 06 </p> 
  <a href="https://www.nytimes.com/2021/11/05/us/politics/guantanamo-torture-foia-cia.html">Some Sept. 11 Trial Secrets May Not Be Secrets Anymore</a> NYT: Prosecutors agreed to compare hundreds if not thousands of pages of classified documents in the case against 9/11 defendants with material released under the Freedom of Information Act. 
  <p class="updated_time"> 02:12 PM CT, Nov. 06 </p> 
