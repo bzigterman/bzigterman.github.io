@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:25 PM CT, Nov. 07 </p> 
+ <a href="https://www.nytimes.com/2021/11/07/world/americas/nicaragua-election-ortega.html">In Nicaragua Election, Ortega Crushes Dissent</a> NYT: President Daniel Ortega quashed the opposition and struck fear in voters, all but guaranteeing his victory in a presidential contest on Sunday. 
+ <p class="updated_time"> 06:35 PM CT, Nov. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59178826?at_medium=RSS&at_campaign=KARANGA">Why Tanzanian Nobel laureate Abdulrazak Gurnah is hardly known back home</a> BBC: Few of Abdulrazak Gurnah's novels are sold in Tanzania where reading fiction is not popular. 
  <p class="updated_time"> 06:28 PM CT, Nov. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59201107?at_medium=RSS&at_campaign=KARANGA">US to reopen borders to vaccinated travellers after 20 months</a> BBC: A flood of foreign visitors is expected as tough restrictions on entry come to an end on Monday. 
  <p class="updated_time"> 06:24 PM CT, Nov. 07 </p> 
@@ -15,6 +19,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-india-59036542?at_medium=RSS&at_campaign=KARANGA">Dug Dug: A film inspired by India's motorcycle god</a> BBC: A new film riding on the back of a temple in India dedicated to a motorcycle deity is making waves. 
  <p class="updated_time"> 06:14 PM CT, Nov. 07 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59199484?at_medium=RSS&at_campaign=KARANGA">COP26: Fossil fuel industry has largest delegation at climate summit</a> BBC: There are more participants than from any single country, a study shared with the BBC suggests. 
+ <p class="updated_time"> 06:04 PM CT, Nov. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/business-59136957?at_medium=RSS&at_campaign=KARANGA">How will the US deal with a shortage of 80,000 truckers?</a> BBC: The chronic lack of lorry drivers in the US is adding to supply chain woes - and could get worse. 
  <p class="updated_time"> 06:02 PM CT, Nov. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59120439?at_medium=RSS&at_campaign=KARANGA">TikTok videos humanise Colombia's cocaine workers</a> BBC: Social media videos in Colombia reveal how the people on the lowest rung of the cocaine industry work and live. 
  <p class="updated_time"> 06:02 PM CT, Nov. 07 </p> 
@@ -31,8 +37,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/07/world/asia/afghan-pilots-taliban-us.html">Afghan Military Pilots, on the Run, Feel Abandoned by U.S.</a> NYT: Detained in Tajikistan, or hiding from the Taliban in Afghanistan, many pilots wonder why the military that trained them is not coming to their aid. 
  <p class="updated_time"> 03:35 PM CT, Nov. 07 </p> 
  <a href="https://www.npr.org/2021/11/07/1053356424/how-did-the-enslaved-workers-of-pompeii-live-a-new-discovery-provides-a-rare-gli">How did the enslaved workers of Pompeii live? A new discovery provides a rare glimpse</a> NPR: Archaeologists working to uncover a wealthy villa on the outskirts of the ancient city have found a dormitory for workers, providing important insight into daily life. 
- <p class="updated_time"> 03:23 PM CT, Nov. 07 </p> 
- <a href="https://www.nytimes.com/2021/11/07/world/americas/nicaragua-election-ortega.html">In Nicaragua Election, Ortega Crushes Dissent</a> NYT: President Daniel Ortega quashed the opposition and struck fear in voters, all but guaranteeing his victory in a presidential contest on Sunday. 
  <p class="updated_time"> 02:32 PM CT, Nov. 07 </p> 
  <a href="https://www.nytimes.com/2021/11/07/travel/us-travel-ban-reunions.html">As U.S. Travel Changes Near, Global Travelers Eagerly Await Reunions</a> NYT: On Monday, travelers from many other countries who are fully vaccinated against the coronavirus will be allowed to enter the United States. 
  <p class="updated_time"> 02:25 PM CT, Nov. 07 </p> 
@@ -75,6 +79,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/07/world/asia/myanmar-bill-richardson.html">Veteran U.S. Diplomat Comes Under Criticism for a Trip to Myanmar</a> NYT: Bill Richardson, a former ambassador to the U.N., said that he had held “productive” talks with the general who led the February coup. Rights activists said he gave the junta an air of legitimacy. 
  <p class="updated_time"> 06:00 AM CT, Nov. 07 </p> 
  <a href="https://www.npr.org/2021/11/07/1053275827/nicaragua-may-be-holding-presidential-elections-but-it-is-edging-toward-dictator">Nicaragua may be holding presidential elections, but it is edging toward dictatorship</a> NPR: Nicaraguan President Daniel Ortega is running for a fourth consecutive term to remain leader of the Central American country in elections that critics and U.S. officials have labeled a "sham." 
+ <p class="updated_time"> 05:48 AM CT, Nov. 07 </p> 
+ <a href="https://www.wsj.com/articles/cop26-negotiators-turn-to-plan-b-as-climate-pledges-fall-short-11636303732">COP26 Negotiators Turn to Plan B as Climate Pledges Fall Short</a> WSJ: Officials are seeking ways to pressure each other to revisit emissions more frequently to keep global warming in check. 
  <p class="updated_time"> 05:13 AM CT, Nov. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59196463?at_medium=RSS&at_campaign=KARANGA">Italian Mafia: 'Ndrangheta members convicted as Italy begins huge trial</a> BBC: More than 350 alleged mobsters will face court in the biggest mafia trial in decades. 
  <p class="updated_time"> 04:45 AM CT, Nov. 07 </p> 
@@ -85,8 +91,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/07/science/antarctica-wildfires.html">Antarctica Was Once a Land of Fire and Not Ice</a> NYT: Charcoal recovered from a dig near the southern continent shows that the region wasn’t spared from the era scientists call a “super fire world.” 
  <p class="updated_time"> 04:00 AM CT, Nov. 07 </p> 
  <a href="https://www.nytimes.com/2021/11/07/world/asia/china-xi-jinping.html">Xi Jinping Is Rewriting China's History</a> NYT: A new official summation of Communist Party history is likely to exalt Xi Jinping as a peer of Mao and Deng, fortifying his claim to a new phase in power. 
- <p class="updated_time"> 04:00 AM CT, Nov. 07 </p> 
- <a href="https://www.wsj.com/articles/one-of-the-worlds-hottest-real-estate-markets-tries-to-cool-down-11636297200">One of the World's Hottest Real-Estate Markets Tries to Cool Down</a> WSJ: New Zealand is pulling every lever to tame property prices without shaking its economy and crashing the market. 
  <p class="updated_time"> 03:42 AM CT, Nov. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59196814?at_medium=RSS&at_campaign=KARANGA">Libya: Row over attempt to suspend foreign minister Najla El-Mangoush</a> BBC: There has been political infighting after comments she made to the BBC about the 1988 Lockerbie bombing. 
  <p class="updated_time"> 02:00 AM CT, Nov. 07 </p> 
@@ -161,12 +165,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/05/world/asia/china-coronavirus-ruili.html">Near-Daily Covid Tests, Sleeping in Classrooms: Life in Covid-Zero China</a> NYT: Residents in Ruili, in southwestern China, have been locked down four times in the past year as part of the country’s quest to eliminate the virus. 
  <p class="updated_time"> 07:51 PM CT, Nov. 05 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59186214?at_medium=RSS&at_campaign=KARANGA">COP 26: What Alaska’s shrinking island means for all of us</a> BBC: Melting ice and rising sea levels threaten this community's existence. It's a warning to the world. 
- <p class="updated_time"> 07:41 PM CT, Nov. 05 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-59036722?at_medium=RSS&at_campaign=KARANGA">COP26: How the world is reacting to the climate summit</a> BBC: From Shanghai to Sao Paulo, the BBC looks at how the climate summit is being received. 
- <p class="updated_time"> 07:30 PM CT, Nov. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59147493?at_medium=RSS&at_campaign=KARANGA">Paris attacks trial: Humdrum lives that turned to mass murder</a> BBC: For four days the Paris attacks heard this week of the ordinary backgrounds of the 14 defendants. 
- <p class="updated_time"> 07:17 PM CT, Nov. 05 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59168993?at_medium=RSS&at_campaign=KARANGA">The Rotterdam museum set to display its entire art collection</a> BBC: The Depot in Rotterdam opens on Saturday, revealing its entire collection of 150,000 art objects. 
  <p class="updated_time"> 06:06 PM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/05/climate/cop26-john-kerry.html">John Kerry Lauds Progress at COP26 but Warns, ‘Job Not Done.’</a> NYT: Mr. Kerry, President Biden’s climate envoy, acknowledged that many of the promises being put forward in Glasgow were only that — promises. 
  <p class="updated_time"> 05:08 PM CT, Nov. 05 </p> 
@@ -211,6 +209,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/04/world/africa/ethiopia-tigray-crackdown.html">Crackdown Sweeps Ethiopia’s Capital as War Draws Near</a> NYT: Government forces were going to door to door in the Ethiopian capital, rounding up ethnic Tigrayans, members of the same ethnic group as the rebels closing in. 
  <p class="updated_time"> 05:26 AM CT, Nov. 04 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-56901261?at_medium=RSS&at_campaign=KARANGA">COP26: What is the Glasgow climate conference and why is it important?</a> BBC: A crucial climate change summit is being held in the UK - this is why it's important. 
+ <p class="updated_time"> 11:30 AM CT, Nov. 03 </p> 
+ <a href="https://www.bbc.co.uk/news/science-environment-59054696?at_medium=RSS&at_campaign=KARANGA">COP26: What do the poorest countries want from climate summit?</a> BBC: Rich countries will get most of the attention, but developing countries are on climate change's front line. 
 
 
 </details>
@@ -218,6 +218,10 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:14 PM CT, Nov. 07 </p> 
+ <a href="https://www.politico.com/news/2021/11/07/houston-concert-deaths-mourning-520201">As mourning starts, Houston probes concert deaths</a> Politico: City officials said they were in the early stages of investigating what caused the pandemonium at the sold-out Astroworld festival. 
+ <p class="updated_time"> 07:01 PM CT, Nov. 07 </p> 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-08/biden-slams-pantomime-nicaragua-election-and-pledges-action">Biden Slams ‘Pantomime’ Nicaragua Election and Pledges Action</a> Bloomberg: U.S. President Joe Biden criticized Nicaragua’s vote on Sunday as a “pantomime election that was neither free nor fair” and said the U.S. will use all available diplomatic and economic tools to pressure President Daniel Ortega. 
  <p class="updated_time"> 06:10 PM CT, Nov. 07 </p> 
  <a href="https://www.washingtonpost.com/politics/democrats-biden-virginia-new-jersey-infrastructure/2021/11/07/d5811f7e-3e43-11ec-bfad-8283439871ec_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Democrats search for political identity amid dismal election results and legislative triumph</a> WaPo: Setbacks Tuesday in suburbs, small towns and rural communities, coupled with intraparty battles on Capitol Hill and passage of an infrastructure bill, crystallize a vexing question for the party: What does it mean to be a Democrat? 
  <p class="updated_time"> 04:01 PM CT, Nov. 07 </p> 
@@ -231,7 +235,7 @@ permalink: /projects/news/
  <p class="updated_time"> 03:00 PM CT, Nov. 07 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-07/movie-theaters-show-quiet-resistance-to-thai-monarchy-is-growing">Movie Theaters Show Quiet Resistance to Thai Monarchy Is Growing</a> Bloomberg: More Thais are choosing to sit during the royal anthem, a vivid display of how attitudes toward the monarchy are changing.&nbsp; 
  <p class="updated_time"> 03:00 PM CT, Nov. 07 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-07/xi-set-to-unveil-new-doctrine-that-could-let-him-rule-for-life">Xi Set to Unveil New Doctrine That Could Let Him Rule for Life</a> Bloomberg: The Chinese&nbsp;Communist Party’s first official declaration on history in 40 years is expected at its&nbsp;biggest event of this&nbsp;year&nbsp; 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-07/xi-set-to-unveil-new-doctrine-that-could-let-him-rule-for-life">Xi Set to Unveil New Doctrine That Could Let Him Rule for Life</a> Bloomberg: The Chinese&nbsp;Communist Party’s first official declaration on history in 40 years is expected at its&nbsp;biggest event of this&nbsp;year. 
  <p class="updated_time"> 03:00 PM CT, Nov. 07 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KHemrSyJXcs/index.html">Jayapal on why progressives chose pragmatism: 'We need to keep our eyes on the prize'</a> CNN: The Congressional Progressive Caucus got the White House message -- no more delay. Members embraced a compromise economic package as the best available deal, and accepted private assurances of Senate support. 
  <p class="updated_time"> 02:32 PM CT, Nov. 07 </p> 
@@ -328,8 +332,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/06/us/politics/james-okeefe-project-veritas-ashley-biden.html">F.B.I. Searches James O’Keefe’s Home in Ashley Biden Diary Theft Inquiry</a> NYT: Authorities carried out a court-ordered search at the New York apartment of the Project Veritas founder two days after searching the homes of his associates. 
  <p class="updated_time"> 09:10 PM CT, Nov. 06 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-07/china-reports-50-local-cases-as-covid-outbreak-continues-to-grow">China Reports 50 Local Cases as Covid Outbreak Continues to Grow</a> Bloomberg: China reported 50 new local Covid-19 infections on Saturday, as authorities said stringent curbs will remain to disrupt the virus’s domestic transmission. 
- <p class="updated_time"> 08:10 PM CT, Nov. 06 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-07/new-zealand-s-ardern-touts-maturity-in-relations-with-china">New Zealand’s Ardern Touts ‘Maturity’ in Relations With China</a> Bloomberg: Prime Minister Jacinda Ardern said there is a “maturity” in New Zealand’s relationship with China, its biggest trading partner, which her government believes enables it to raise issues of concern, amid simmering tensions between Beijing and the West. 
  <p class="updated_time"> 07:35 PM CT, Nov. 06 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-07/iraqi-prime-minister-survives-assassination-attempt-by-drone">Iraqi Prime Minister Survives Assassination Attempt by Drone</a> Bloomberg: Iraqi Prime Minister Mustafa al-Kadhimi survived an assassination attempt early Sunday after an explosive-laden drone targeted his residence inside the Green Zone. 
  <p class="updated_time"> 06:45 PM CT, Nov. 06 </p> 
@@ -500,8 +502,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/04/house-megabill-passage-manchin-last-word-519570">Manchin will get last word, even as House races to pass megabill</a> Politico: House Democratic leaders and progressives want to speed toward passage of a bill that won't have a smooth ride through the Senate. 
  <p class="updated_time"> 11:54 AM CT, Nov. 04 </p> 
  <a href="https://www.politico.com/news/2021/11/04/pelosi-domestic-agenda-519503">Pelosi amps up domestic-agenda pressure campaign, pressing Friday votes</a> Politico: Democratic leaders made headway in some areas, but key lawmakers were still drafting new language on immigration as late as 9 p.m. 
- <p class="updated_time"> 11:18 AM CT, Nov. 04 </p> 
- <a href="https://www.politico.com/news/2021/11/04/doj-kamala-harris-jan-6-519505">DOJ error highlights Jan. 6 mystery: Where was Kamala Harris during the attack?</a> Politico: The Justice Department is now moving to correct the record on her whereabouts. 
  <p class="updated_time"> 07:46 AM CT, Nov. 04 </p> 
  <a href="https://www.politico.com/news/2021/11/04/biden-vaccine-mandates-private-employers-519477">Biden vaccine mandates will hit after holiday season, offering relief to businesses</a> Politico: The announcement follows weeks of pressure from business leaders who complained the rules would wreak havoc on the supply chain and possibly aggravate worker shortages. 
  <p class="updated_time"> 07:02 AM CT, Nov. 04 </p> 
