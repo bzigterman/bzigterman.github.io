@@ -562,8 +562,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/huddle/2021/11/01/dont-count-on-tuesday-494924">Don’t count on Tuesday</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 05:09 AM CT, Nov. 01 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/01/its-zero-hour-for-virginia-and-build-back-better-494921">POLITICO Playbook: It’s zero hour for Virginia and Build Back Better</a> Politico: And the Supreme Court takes up the Texas abortion law. 
- <p class="updated_time"> 03:30 AM CT, Nov. 01 </p> 
- <a href="https://www.politico.com/news/2021/11/01/gop-relishes-political-upsides-517847">'They're probably going to put us back in power': GOP basks in Dem discord</a> Politico: The House Republican conference is mostly avoiding the spotlight these days, getting fewer tough questions as the opposing party struggles. It doesn't mind at all. 
 
 
 </details>
