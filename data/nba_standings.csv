@@ -14,7 +14,7 @@ Eastern,BOS,4,6,.400
 Eastern,IND,4,7,.364
 Eastern,ORL,3,8,.273
 Eastern,DET,1,8,.111
-Western,GSW,7,1,.875
+Western,GSW,8,1,.889
 Western,UTA,7,3,.700
 Western,DAL,6,3,.667
 Western,PHX,5,3,.625
@@ -27,5 +27,5 @@ Western,LAC,4,4,.500
 Western,MIN,3,5,.375
 Western,OKC,3,6,.333
 Western,SAS,3,7,.300
-Western,HOU,1,8,.111
+Western,HOU,1,9,.100
 Western,NOP,1,9,.100
