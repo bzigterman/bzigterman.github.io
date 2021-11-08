@@ -7,14 +7,14 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:51 AM CT, Nov. 08 </p> 
+ <a href="https://www.nytimes.com/2021/11/08/world/middleeast/nso-israel-palestinians-spyware.html">Palestinians Were Targeted by Israeli Firm’s Spyware, Experts Say</a> NYT: The hacking renewed scrutiny of the relationship between the Israeli government and the NSO Group, a surveillance company blacklisted by the United States. 
  <p class="updated_time"> 08:45 AM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/world/asia/new-zealand-ease-lockdown-restrictions.html">New Zealand's Biggest City Is to Ease Lockdown Restrictions</a> NYT: The lifting of rules comes as the country records some of its highest daily case numbers since the pandemic began. 
  <p class="updated_time"> 08:38 AM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/world/europe/heathrow-first-flight-us-travel-ban.html">Excited Passengers Board First Flight from Heathrow to the U.S.</a> NYT: Long lines formed at Heathrow Airport for the first scheduled trips to the United States since the Biden administration lifted a travel ban. 
  <p class="updated_time"> 08:35 AM CT, Nov. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59205372?at_medium=RSS&at_campaign=KARANGA">Sierra Leone tanker explosion: Mass burial in Freetown</a> BBC: The authorities have also made an urgent appeal for blood donations in the capital Freetown. 
- <p class="updated_time"> 08:28 AM CT, Nov. 08 </p> 
- <a href="https://www.nytimes.com/2021/11/08/world/middleeast/nso-israel-palestinians-spyware.html">Palestinians Were Targeted by Israeli Firm’s Spyware, Experts Say</a> NYT: The hacking renewed scrutiny of the relationship between the Israeli government and the NSO Group, a surveillance company blacklisted by the United States. 
  <p class="updated_time"> 08:16 AM CT, Nov. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59206685?at_medium=RSS&at_campaign=KARANGA">Poland fears major breach by migrants on Belarus border</a> BBC: Thousands of troops patrol the border, where migrants have tried to enter Poland from Belarus. 
  <p class="updated_time"> 08:14 AM CT, Nov. 08 </p> 
@@ -22,7 +22,7 @@ permalink: /projects/news/
  <p class="updated_time"> 07:56 AM CT, Nov. 08 </p> 
  <a href="https://www.bbc.co.uk/news/uk-59210335?at_medium=RSS&at_campaign=KARANGA">Venus Williams: 'It's important people continue to break barriers'</a> BBC: The tennis star tells 5 Live's Rick Edwards she hopes future generations don't have to focus "on the colour of their skin". 
  <p class="updated_time"> 07:31 AM CT, Nov. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59205468?at_medium=RSS&at_campaign=KARANGA">Oscar Pistorius parole process to start in South Africa</a> BBC: The ex-Olympian will first have to meet the parents of the woman he murdered, Reeva Steenkamp. 
+ <a href="https://www.bbc.co.uk/news/world-africa-59205468?at_medium=RSS&at_campaign=KARANGA">Oscar Pistorius parole process to start in South Africa</a> BBC: The ex-Paralympian will first have to meet the parents of the woman he murdered, Reeva Steenkamp. 
  <p class="updated_time"> 07:29 AM CT, Nov. 08 </p> 
  <a href="https://www.bbc.co.uk/news/technology-59206549?at_medium=RSS&at_campaign=KARANGA">TikTok: Missing girl found after using viral call for help sign</a> BBC: The hand gesture asking for help led to the rescue of a missing teenager in the USA. 
  <p class="updated_time"> 07:20 AM CT, Nov. 08 </p> 
@@ -218,6 +218,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/08/satellite-china-us-warships-520271">Satellite images show China built mock-ups of U.S. warships</a> Politico: The images captured show the outlines of a U.S. aircraft carrier and at least one destroyer sitting on a railway track. 
  <p class="updated_time"> 09:25 AM CT, Nov. 08 </p> 
  <a href="https://www.politico.com/news/2021/11/08/obama-hits-russia-china-for-absence-of-urgency-on-climate-520270">Obama hits Russia, China for 'absence of urgency' on climate</a> Politico: The former president's appearance on the sidelines of the talks is meant to remind governments of the elation that surrounded the striking of the Paris accord. 
+ <p class="updated_time"> 08:52 AM CT, Nov. 08 </p> 
+ <a href="https://www.nytimes.com/2021/11/08/us/politics/jill-biden-surgeon-general-vaccinations-schools.html">Jill Biden and the Surgeon General are Pushing for Covid Shots in Schools</a> NYT: The Biden administration is evoking the campaign against polio in the 1950s as it seeks to vaccinate 28 million young children against the coronavirus. 
  <p class="updated_time"> 08:18 AM CT, Nov. 08 </p> 
  <a href="https://www.washingtonpost.com/politics/rick-scott-sean-parnell/2021/11/08/d21bb370-4097-11ec-a3aa-0255edc02eb7_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">NRSC chair Rick Scott declines to say if Trump-backed Senate hopeful accused of strangling wife is right candidate for the job</a> WaPo: Pressed during an interview about Sean Parnell, the senator from Florida said it is not his job to endorse candidates in open primaries. Parnell has been endorsed by former president Donald Trump. 
  <p class="updated_time"> 08:14 AM CT, Nov. 08 </p> 
@@ -472,8 +474,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/05/house-infrastructure-bill-519796">House ships $550B infrastructure legislation to Biden’s desk after months of delay</a> Politico: Only 13 House Republicans voted for the bill, alongside all but 6 Democrats. 
  <p class="updated_time"> 08:35 PM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/05/us/politics/jeffrey-clark-capitol-riot-committee.html">Trump Justice Dept. Official Defies Request by Jan. 6 Panel</a> NYT: Jeffrey Clark, who aided in the former president’s efforts to overturn the election, appeared before the committee but would not answer substantive questions. 
- <p class="updated_time"> 07:52 PM CT, Nov. 05 </p> 
- <a href="https://www.nytimes.com/2021/11/05/us/politics/colin-powell-funeral.html">At Colin Powell's Funeral, Washington Is Pulled Together</a> NYT: Republicans and Democrats, including President Biden and two of his predecessors, were at the Washington National Cathedral to honor the former secretary of state. 
  <p class="updated_time"> 06:42 PM CT, Nov. 05 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gAtxAS-GVOA/index.html">Glenn Youngkin's underage son was turned away from a voting precinct on Election Day, top county election official says</a> CNN: Glenn Youngkin's 17-year-old son was turned away from a voting precinct on Election Day, the top election official for Fairfax County, Virginia told CNN on Friday. 
  <p class="updated_time"> 06:21 PM CT, Nov. 05 </p> 
