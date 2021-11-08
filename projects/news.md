@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:42 AM CT, Nov. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-59173479?at_medium=RSS&at_campaign=KARANGA">Zika virus: India's Kanpur city on alert after 89 cases reported</a> BBC: The first Zika case in Kanpur was detected on 23 October and cases have since been on the rise. 
  <p class="updated_time"> 04:40 AM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/world/europe/europe-us-travel-ban.html">U.S. Travel Ban Ends, and Europeans Head Overseas Again</a> NYT: Europeans were kept apart from family and friends as the ban dragged on long after E.U. leaders had opened their borders. 
  <p class="updated_time"> 04:36 AM CT, Nov. 08 </p> 
@@ -77,8 +79,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/07/us/politics/afghanistan-war-marines.html">Young Marines in Kabul Were Left to Run Final Days of Evacuation</a> NYT: The young Marines in Kabul were left to determine who was evacuated from Afghanistan and who was left behind. The cost was high. 
  <p class="updated_time"> 11:29 AM CT, Nov. 07 </p> 
  <a href="https://www.nytimes.com/2021/11/06/world/middleeast/iraq-prime-minister-drone.html">Fears of Wider Instability in Iraq After Attack on Prime Minister’s Home</a> NYT: Armed drones struck the Iraqi prime minister’s home in what was seen as a warning as Iranian-backed groups dispute the results of parliamentary elections. 
- <p class="updated_time"> 11:11 AM CT, Nov. 07 </p> 
- <a href="https://www.bbc.co.uk/sport/athletics/59195113?at_medium=RSS&at_campaign=KARANGA">New York marathon: Kenya's Peres Jepchirchir and Albert Korir claim wins</a> BBC: Kenya's Peres Jepchirchir won the women's race at the New York City marathon as compatriot Albert Korir claimed the men's title. 
  <p class="updated_time"> 10:03 AM CT, Nov. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59200295?at_medium=RSS&at_campaign=KARANGA">Astroworld: Rapper Travis Scott 'devastated' after music festival deaths</a> BBC: The rapper speaks for the first time after at least eight people died after a crowd surge during his set. 
  <p class="updated_time"> 09:48 AM CT, Nov. 07 </p> 
@@ -212,8 +212,18 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:31 AM CT, Nov. 08 </p> 
+ <a href="https://www.politico.com/news/2021/11/08/voting-rule-democrats-antitrust-519767">‘Zombies’ to the rescue: The arcane voting rule that could save Dems’ antitrust agenda</a> Politico: Former Democratic Commissioner Rohit Chopra left behind more than a dozen motions he wants the Federal Trade Commission to carry out, spawning a debate on whether his votes should still count. 
  <p class="updated_time"> 04:30 AM CT, Nov. 08 </p> 
  <a href="https://www.politico.com/news/2021/11/08/republican-wave-house-congress-520238">Republican wave builds to take back the House</a> Politico: A combination of aggressive redistricting, strong fundraising and a favorable political environment has the GOP excited about its prospects in next year's midterms. 
+ <p class="updated_time"> 04:30 AM CT, Nov. 08 </p> 
+ <a href="https://www.politico.com/news/2021/11/08/republican-wave-house-congress-520238">Republican wave builds to take back the House</a> Politico: A combination of aggressive redistricting, strong fundraising and a favorable political environment has the GOP excited about its prospects in next year's midterms. 
+ <p class="updated_time"> 04:30 AM CT, Nov. 08 </p> 
+ <a href="https://www.politico.com/news/2021/11/08/gop-lobbyists-corporate-america-520026">GOP lobbyists say corporate America is coming back into the tent</a> Politico: Top Republicans on K Street say that big business is warming up to the Republican Party again, less than a year after Jan. 6 but with the 2022 elections in sight. 
+ <p class="updated_time"> 04:30 AM CT, Nov. 08 </p> 
+ <a href="https://www.politico.com/news/2021/11/08/va-reject-medical-marijuana-veterans-519757">VA rejects cannabis research as veterans plead for medical pot</a> Politico: Scientists say the VA and the DOJ have a history of stonewalling anyone who wants to conduct trials of plant-derived cannabis for therapeutic purposes. 
+ <p class="updated_time"> 04:30 AM CT, Nov. 08 </p> 
+ <a href="https://www.politico.com/news/2021/11/08/democratic-senate-majority-dicey-virginia-520214">The Democratic Senate majority was already dicey. Then came Virginia.</a> Politico: A favorable map is not going to be enough to save Senate Dems. But they might get help from a few tarnished GOP candidates. 
  <p class="updated_time"> 04:26 AM CT, Nov. 08 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-08/singapore-partly-rolls-back-dining-curbs-as-virus-outbreak-eases">Singapore Partly Rolls Back Dining Curbs as Virus Outbreak Eases</a> Bloomberg: Singapore is easing some tough Covid restrictions put in place more than a month ago to tackle a surge in infections, with five people from the same residence allowed to dine at restaurants starting from Wednesday. 
  <p class="updated_time"> 04:14 AM CT, Nov. 08 </p> 
@@ -235,7 +245,7 @@ permalink: /projects/news/
  <p class="updated_time"> 03:24 AM CT, Nov. 08 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-08/brazil-backs-u-k-s-warming-limits-to-mend-climate-reputation">Brazil Backs U.K.’s Warming Limits to Mend Climate Reputation</a> Bloomberg: Brazil is set to back the U.K.’s push to keep alive the chances of limiting global warming to 1.5 degrees Celsius as Latin America’s biggest economy seeks to mend its tarnished climate reputation. 
  <p class="updated_time"> 03:00 AM CT, Nov. 08 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-08/singapore-malaysia-launch-vaccinated-travel-lane-from-nov-29">Singapore, Malaysia to Launch Vaccinated Travel Lane Nov. 29</a> Bloomberg: Singapore and Malaysia will launch a vaccinated travel lane between Singapore’s Changi Airport and Malaysia’s Kuala Lumpur International Airport starting Nov. 29, the countries said in a joint statement. 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-08/singapore-malaysia-launch-vaccinated-travel-lane-from-nov-29">Quarantine Lifted on One of World’s Busiest Air-Travel Routes</a> Bloomberg: Singapore and Malaysia will allow quarantine-free entry for fully vaccinated travelers flying between Changi Airport and Kuala Lumpur International Airport, one of the world’s busiest air routes. 
  <p class="updated_time"> 02:49 AM CT, Nov. 08 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-08/spyware-scandal-grows-in-hungary-with-more-than-100-targets">Spyware Scandal Grows in Hungary With More Than 100 Targets</a> Bloomberg: Hungary targeted more than 100 people with the Pegasus spyware, according to the head of parliament’s national security committee, widening a scandal surrounding a tool the government initially denied knowledge of using. 
  <p class="updated_time"> 02:00 AM CT, Nov. 08 </p> 
@@ -476,8 +486,6 @@ permalink: /projects/news/
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/NoM-wzx-7HI/index.html">Biden makes two false claims about Virginia election history </a> CNN: Democrat Terry McAuliffe's hopes of returning as governor of Virginia were dashed Tuesday when Glenn Youngkin became the first Republican to win statewide office in the commonwealth since 2009. Youngkin's victory comes as President Joe Biden's approval ratings have sagged and Democrats have struggled to deliver a clear message. 
  <p class="updated_time"> 11:36 AM CT, Nov. 05 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-YLyvPCSt34/index.html">Biden says his plans are working after October jobs report beats expectations</a> CNN: President Joe Biden touted the progress the US is making in recovering from the coronavirus pandemic, and cited his economic agenda as the reason, after the jobs recovery gathered some steam last month and employers added 531,000 positions in October. 
- <p class="updated_time"> 11:31 AM CT, Nov. 05 </p> 
- <a href="https://www.politico.com/news/2021/11/05/jeffrey-clark-doj-hill-deposition-519703">Trump DOJ official who aided effort to overturn election declines to answer Jan. 6 questions</a> Politico: The chair of the Hill select panel probing the Capitol riot said a contempt of Congress referral for Jeffrey Clark is "on the table." 
  <p class="updated_time"> 11:19 AM CT, Nov. 05 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OlmWZ6c6Dpg/index.html">The moment has come for Biden and Pelosi to close the deal on his sweeping agenda</a> CNN: In the wake of jarring election results in several states on Tuesday, the one thing Democrats appeared to agree on was that they needed action in Congress. 
  <p class="updated_time"> 09:51 AM CT, Nov. 05 </p> 
@@ -512,12 +520,8 @@ permalink: /projects/news/
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/VD9wO6YNyms/index.html">More than 100 million American workers will need to be fully vaccinated by Jan. 4</a> CNN: The Biden administration announced Thursday that its vaccine rules applying to private businesses with 100 or more employees, certain health care workers and federal contractors will take effect January 4. 
  <p class="updated_time"> 04:46 PM CT, Nov. 04 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/le0dV7UPD3s/index.html">First person of color confirmed as permanent Census Bureau director</a> CNN: The Senate voted on Thursday to confirm Robert Santos as director of the Census Bureau, making him the first person of color to hold the position in a permanent capacity. 
- <p class="updated_time"> 03:55 PM CT, Nov. 04 </p> 
- <a href="https://www.politico.com/news/2021/11/04/white-house-biden-separation-settlement-519589">W.H. softens Biden's opposition to family separation settlements</a> Politico: Spokesperson Karine Jean-Pierre clarified that the president was “perfectly comfortable” compensating affected families, but not at a rate of $450,000 apiece. 
  <p class="updated_time"> 03:35 PM CT, Nov. 04 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uy8YsDQZU3Q/index.html">White House says Biden is 'comfortable' settling with families separated during Trump administration, but not for $450K</a> CNN: President Joe Biden is OK with the Justice Department settling with families separated at the US-Mexico border under the Trump administration, White House principal deputy press secretary Karine Jean-Pierre said on Thursday, but not for a reported $450,000 each. 
- <p class="updated_time"> 02:41 PM CT, Nov. 04 </p> 
- <a href="https://www.politico.com/news/2021/11/04/house-megabill-passage-manchin-last-word-519570">Manchin will get last word, even as House races to pass megabill</a> Politico: House Democratic leaders and progressives want to speed toward passage of a bill that won't have a smooth ride through the Senate. 
  <p class="updated_time"> 02:41 PM CT, Nov. 04 </p> 
  <a href="https://www.politico.com/news/2021/11/04/house-megabill-passage-manchin-last-word-519570">Manchin will get last word, even as House races to pass megabill</a> Politico: House Democratic leaders and progressives want to speed toward passage of a bill that won't have a smooth ride through the Senate. 
  <p class="updated_time"> 11:54 AM CT, Nov. 04 </p> 
@@ -554,8 +558,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/02/josh-hawley-state-department-nominees-confirmation-518642">Josh Hawley blocks confirmation of several State Dept. nominees</a> Politico: The Republican senator, who is unhappy about the withdrawal from Afghanistan, objected to eight of the nine nominations Democrats sought to unanimously approve. 
  <p class="updated_time"> 05:43 PM CT, Nov. 02 </p> 
  <a href="https://www.politico.com/news/2021/11/02/social-spending-bill-immigration-citizenship-518606">Dems aim to squeeze immigration into social spending bill — without path to citizenship</a> Politico: There's still a distinct possibility the Senate rules referee will strike down the reform attempt Democrats are pushing into their $1.75 trillion bill. 
- <p class="updated_time"> 04:07 PM CT, Nov. 02 </p> 
- <a href="https://www.politico.com/news/2021/11/02/cdc-vaccine-panel-endorses-vaccine-for-kids-5-11-518587">CDC endorses first Covid-19 vaccine for kids 5-11</a> Politico: CDC Director Rochelle Walensky quickly endorsed the use of shots, which could become available as early as Wednesday. 
  <p class="updated_time"> 04:06 PM CT, Nov. 02 </p> 
  <a href="https://www.politico.com/news/2021/11/02/end-of-sinema-manchin-manchema-518569">The end of Manchema</a> Politico: Once united on cutting the cost of their party's social spending bill, the centrists from West Virginia and Arizona are now going their own way. 
  <p class="updated_time"> 02:40 PM CT, Nov. 02 </p> 
