@@ -89,8 +89,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/07/1053275827/nicaragua-may-be-holding-presidential-elections-but-it-is-edging-toward-dictator">Nicaragua may be holding presidential elections, but it is edging toward dictatorship</a> NPR: Nicaraguan President Daniel Ortega is running for a fourth consecutive term to remain leader of the Central American country in elections that critics and U.S. officials have labeled a "sham." 
  <p class="updated_time"> 05:48 AM CT, Nov. 07 </p> 
  <a href="https://www.wsj.com/articles/cop26-negotiators-turn-to-plan-b-as-climate-pledges-fall-short-11636303732">COP26 Negotiators Turn to Plan B as Climate Pledges Fall Short</a> WSJ: Officials are seeking ways to pressure each other to revisit emissions more frequently to keep global warming in check. 
- <p class="updated_time"> 05:13 AM CT, Nov. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59196463?at_medium=RSS&at_campaign=KARANGA">Italian Mafia: 'Ndrangheta members convicted as Italy begins huge trial</a> BBC: More than 350 alleged mobsters will face court in the biggest mafia trial in decades. 
  <p class="updated_time"> 04:45 AM CT, Nov. 07 </p> 
  <a href="https://www.wsj.com/articles/the-economic-rebound-from-covid-19-was-easy-now-comes-the-hard-part-11636299941">The Economic Rebound From Covid-19 Was Easy. Now Comes the Hard Part.</a> WSJ: As supply-chain disruptions worsen and inflation surges, executives and policy makers must navigate a delicate transition to a more normal economy. 
  <p class="updated_time"> 04:00 AM CT, Nov. 07 </p> 
@@ -210,12 +208,20 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:00 AM CT, Nov. 08 </p> 
+ <a href="https://www.washingtonpost.com/politics/2021/11/08/battle-over-bidens-child-tax-credit-its-impact-poverty-workers/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">The battle over Biden’s child tax credit and its impact on poverty and workers</a> WaPo: A fierce dispute has erupted among economists about whether the president's child-tax credit expansion will cause parents to stop working. We explain the debate. 
+ <p class="updated_time"> 01:53 AM CT, Nov. 08 </p> 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-08/iran-s-top-nuclear-diplomat-visits-u-k-france-germany-in-days">Iran’s Top Nuclear Diplomat to Visit U.K., France, Germany </a> Bloomberg: Ali Bagheri Kani, Iran’s deputy foreign minister and lead negotiator in nuclear talks, will visit London, Paris and Berlin later this week to discuss the big-power negotiations to revive the 2015 nuclear deal, Iran’s foreign ministry spokesman said. 
  <p class="updated_time"> 01:09 AM CT, Nov. 08 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-08/chinese-firm-seeks-damages-from-sri-lanka-in-fertilizer-dispute">Chinese Firm Seeks Damages From Sri Lanka in Fertilizer Dispute</a> Bloomberg: A Chinese company is seeking damages from a Sri Lankan government agency for rejecting a shipment of organic fertilizer found to have pathogens in an ongoing dispute that could test Colombo’s relationship with Beijing. 
+ <p class="updated_time"> 01:00 AM CT, Nov. 08 </p> 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-08/biden-takes-case-to-voters-with-public-works-as-exit-from-slump">Biden Takes Case to Voters With Public Works as Exit From Slump</a> Bloomberg: President Joe Biden and his party notched a huge economic victory late Friday with passage of a bipartisan public works bill. Now he seeks to sell Americans on the merits of $550 billion in new spending even as they face rising prices for fuel, food and housing. 
+ <p class="updated_time"> 01:00 AM CT, Nov. 08 </p> 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-08/pentagon-swoops-in-to-buy-last-of-kind-chips-for-b-2-destroyer">Pentagon Swoops In to Buy Last-of-Kind Chips for B-2, Destroyer</a> Bloomberg: The Pentagon plans to place as much as $2 billion in rush orders by early March for customized semiconductors used in weapons like the B-2 bomber before the production line for them is shut down. 
  <p class="updated_time"> 12:40 AM CT, Nov. 08 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-08/danish-prime-minister-says-new-virus-restrictions-are-needed">Danish Prime Minister Says New Virus Restrictions Are Needed</a> Bloomberg: Denmark, which has one of the highest vaccination rates in the world, will probably need to re-introduce some restrictions after the number of virus infections has jumped, the prime minister said. 
  <p class="updated_time"> 11:43 PM CT, Nov. 07 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-08/japan-premier-picks-china-critic-to-be-adviser-on-human-rights">Japan Premier Picks China Critic to Be Adviser on Human Rights</a> Bloomberg: Japanese Prime Minister Fumio Kishida picked a critic of China’s treatment of the Uyghur ethnic group to be his aide for human rights issues, a move that could increase friction between Asia’s two biggest economies. 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-08/japan-premier-picks-china-critic-to-be-adviser-on-human-rights">Japan Premier Picks China Critic to Be Human Rights Adviser</a> Bloomberg: Japanese Prime Minister Fumio Kishida picked a critic of China’s treatment of the Uyghur ethnic group to be his aide for human rights issues, a move that could increase friction between Asia’s two biggest economies. 
  <p class="updated_time"> 11:19 PM CT, Nov. 07 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-08/malaysia-fails-in-bid-to-forfeit-luxury-goods-seized-from-najib">Malaysia Fails in Bid to Forfeit Luxury Goods Seized From Najib</a> Bloomberg: Malaysia’s government failed in its attempt to forfeit luxury items seized from former Prime Minister Najib Razak and his family members. 
  <p class="updated_time"> 11:10 PM CT, Nov. 07 </p> 
@@ -452,8 +458,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/05/house-democrats-infrastructure-vote-wait-megabill-519731">'Whole day was a clusterf---': Dems overcome distrust to send infrastructure bill to Biden</a> Politico: Democratic centrists and progressives reached a detente that cleared the $550 billion bipartisan legislation late Friday night and advanced their social spending package. 
  <p class="updated_time"> 02:35 PM CT, Nov. 05 </p> 
  <a href="https://www.politico.com/news/2021/11/05/house-democrats-infrastructure-vote-wait-megabill-519731">'Whole day was a clusterf---': Dems overcome distrust to send infrastructure bill to Biden</a> Politico: Democratic centrists and progressives reached a detente that cleared the $550 billion bipartisan legislation late Friday night and advanced their social spending package. 
- <p class="updated_time"> 01:04 PM CT, Nov. 05 </p> 
- <a href="https://www.washingtonpost.com/politics/powell-funeral-biden-bush/2021/11/05/992f8f46-3d95-11ec-bfad-8283439871ec_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Colin Powell remembered for leadership, integrity and a love of ABBA and Marley at funeral</a> WaPo: The former secretary of state and chairman of the Joint Chiefs of Staff died last month of complications from covid-19. 
  <p class="updated_time"> 12:18 PM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/05/business/congress-mckinsey-opioid-crisis.html">Congress Is Investigating McKinsey Over Its Role in the Opioid Crisis</a> NYT: A House committee has requested documents related to the firm’s advice to drug makers and potential conflicts of interest with the F.D.A. 
  <p class="updated_time"> 12:10 PM CT, Nov. 05 </p> 
