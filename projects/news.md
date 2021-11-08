@@ -7,10 +7,14 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:41 PM CT, Nov. 08 </p> 
+ <a href="https://www.nytimes.com/2021/11/08/climate/public-health-cop26-emissions.html">More Than 40 Nations Pledge to Cut Emissions From Their Health Industries</a> NYT: The plans, while short on specifics, represent a notable step toward cutting greenhouse gas emissions from hospitals and the health care industry, a sizable emitter globally. 
+ <p class="updated_time"> 05:33 PM CT, Nov. 08 </p> 
+ <a href="https://www.nytimes.com/2021/11/08/travel/international-travel-reopens.html">With Tears, Hugs and Balloons, U.S. Allows Vaccinated Foreign Travelers to Enter</a> NYT: On Monday, after more than 18 months, restrictions that kept families separated and cost the global travel industry hundreds of billions of dollars were lifted. 
+ <p class="updated_time"> 05:29 PM CT, Nov. 08 </p> 
+ <a href="https://www.nytimes.com/2021/11/08/us/politics/drone-strike-kabul-isis.html">Military Can’t Find ISIS Safe House That Prompted Kabul Drone Strike</a> NYT: The Pentagon’s latest admission illustrates the botched intelligence behind the strike that mistakenly killed 10 civilians in August. 
  <p class="updated_time"> 05:05 PM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/world/europe/france-police-officer-stabbed-cannes.html">Police Officer Stabbed on French Riviera, Authorities Say</a> NYT: Gérald Darmanin, France’s interior minister, said an assailant had stabbed an officer in Cannes. The motive for the attack was not immediately clear. 
- <p class="updated_time"> 05:03 PM CT, Nov. 08 </p> 
- <a href="https://www.nytimes.com/2021/11/08/climate/public-health-cop26-emissions.html">More Than 40 Nations Pledge to Cut Emissions From Their Health Industries</a> NYT: The plans, while short on specifics, represent a notable step toward cutting greenhouse gas emissions from hospitals and the health care industry, a sizable emitter globally. 
  <p class="updated_time"> 04:49 PM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/travel/us-travel-ban-vaccination.html">U.S. Lifts Travel Ban for Vaccinated Foreigners</a> NYT: The change ends more than 18 months of restrictions that left families separated from loved ones and cost the global travel industry hundreds of billions of dollars. 
  <p class="updated_time"> 04:38 PM CT, Nov. 08 </p> 
@@ -188,8 +192,6 @@ permalink: /projects/news/
  <p class="updated_time"> 10:22 AM CT, Nov. 06 </p> 
  <a href="https://www.nytimes.com/2021/11/06/world/europe/spain-plane-passengers-escape.html">Spanish Police Seek Missing Plane Passengers After Emergency Landing</a> NYT: More than 20 people fled a Moroccan flight that diverted to Mallorca after a passenger apparently fell ill. A dozen had yet to be found. 
  <p class="updated_time"> 09:53 AM CT, Nov. 06 </p> 
- <a href="https://www.nytimes.com/2021/11/05/climate/cop26-vanessa-nakate.html">Vanessa Nakate, Ugandan Climate Activist, Offers an Optimistic Vision</a> NYT: The 24-year-old from Uganda has emerged as a leading voice of young people agitating for climate action. 
- <p class="updated_time"> 09:53 AM CT, Nov. 06 </p> 
  <a href="https://www.nytimes.com/2021/11/05/world/europe/cop26-greta-thunberg.html">Greta Thunberg Assails Leaders Outside COP26 Climate Summit</a> NYT: “The governments of the global north countries are still refusing to take any drastic climate action,” she told protesters in Glasgow. 
  <p class="updated_time"> 09:01 AM CT, Nov. 06 </p> 
  <a href="https://www.nytimes.com/2021/11/06/world/austria-covid-restrictions.html">Facing a spike in infections, Austria sharpens the rules of its Covid pass.</a> NYT: Austrians will need proof of vaccination or a past infection to be seated at a restaurant, enter a bar, visit a hairdresser or join any gathering of more than 25 people. 
@@ -203,8 +205,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/05/world/africa/un-rights-panel-sudan-coup.html">U.N. Rights Panel Pressures Sudan Over Coup</a> NYT: The Human Rights Council appointed an expert to investigate abuses in the country since the military seized power on Oct. 25, and members called for the prime minister’s release. 
  <p class="updated_time"> 12:47 PM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/05/world/middleeast/erdogan-turkey-cop26.html">As Turkey Chafes at Erdogan, He Gets Spikier Abroad</a> NYT: President Recep Tayyip Erdogan canceled an appearance at the global climate talks over a perceived slight, part of a pattern of creating international dramas to bolster his domestic standing. 
- <p class="updated_time"> 10:37 AM CT, Nov. 05 </p> 
- <a href="https://www.nytimes.com/2021/11/05/world/europe/shortages-german-economic-growth.html">Germany's Economy Hindered by Supply Chain Problems </a> NYT: The order books in Europe’s largest economy are full, but a lack of parts and raw materials means companies are struggling to fill them. 
  <p class="updated_time"> 05:26 AM CT, Nov. 04 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-56901261?at_medium=RSS&at_campaign=KARANGA">COP26: What is the Glasgow climate conference and why is it important?</a> BBC: A crucial climate change summit is being held in the UK - this is why it's important. 
  <p class="updated_time"> 11:30 AM CT, Nov. 03 </p> 
@@ -216,8 +216,16 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:40 PM CT, Nov. 08 </p> 
+ <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jpJpF5B53u0/index.html">January 6 committee issues 6 subpoenas to top Trump campaign associates</a> CNN: The House select committee investigating the deadly January 6 riot on Capitol Hill announced Monday it is issuing six additional subpoenas to top Trump campaign associates as it continues to seek testimony and documents from key witnesses in the sweeping probe. 
  <p class="updated_time"> 05:29 PM CT, Nov. 08 </p> 
  <a href="https://www.politico.com/news/2021/11/08/shooting-victim-kyle-rittenhouse-520336">Shooting victim says he was pointing his gun at Rittenhouse</a> Politico: “I thought the defendant was an active shooter,” Gaige Grosskreutz testified. 
+ <p class="updated_time"> 05:29 PM CT, Nov. 08 </p> 
+ <a href="https://www.nytimes.com/2021/11/08/us/politics/drone-strike-kabul-isis.html">Military Can’t Find ISIS Safe House That Prompted Kabul Drone Strike</a> NYT: The Pentagon’s latest admission illustrates the botched intelligence behind the strike that mistakenly killed 10 civilians in August. 
+ <p class="updated_time"> 05:21 PM CT, Nov. 08 </p> 
+ <a href="https://www.washingtonpost.com/politics/courts_law/supreme-court-fbi-mosques/2021/11/08/4fbc6b26-409d-11ec-a88e-2aa4632af69b_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Supreme Court considers if state secrets claim can end Muslim men’s lawsuit against FBI</a> WaPo: During Operation Flex, the bureau used an undercover agent to surveil Southern California Islamic centers. 
+ <p class="updated_time"> 05:11 PM CT, Nov. 08 </p> 
+ <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Pa-UnehCE-c/index.html">Fact check: Deceptive Republican attack ad uses images from Trump presidency to depict 'chaos' under Biden </a> CNN: A new national television ad from House Republicans' campaign arm deceptively uses images of events that occurred during former President Donald Trump's time in office to attack President Joe Biden's tenure. 
  <p class="updated_time"> 05:09 PM CT, Nov. 08 </p> 
  <a href="https://www.washingtonpost.com/politics/2021/11/08/this-is-why-its-useful-talk-about-historic-examples-institutionalized-racism/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">And this is why it’s useful to talk about historical examples of institutionalized racism</a> WaPo: Right-wing guffaws over a comment from Transportation Secretary Pete Buttigieg reveal a lack of familiarity with history. 
  <p class="updated_time"> 05:08 PM CT, Nov. 08 </p> 
@@ -256,8 +264,6 @@ permalink: /projects/news/
  <a href="https://www.bloomberg.com/news/articles/2021-11-08/white-house-awaits-enbridge-pipeline-review-before-any-decision">White House Awaits Enbridge Pipeline Review Before Decision</a> Bloomberg: The White House said it’s waiting on a study by the U.S. Army Corps of Engineers before deciding whether to wade into a debate over the future of a controversial oil pipeline that carries Canadian oil across the Great Lakes into Michigan. 
  <p class="updated_time"> 03:46 PM CT, Nov. 08 </p> 
  <a href="https://www.politico.com/news/2021/11/08/jan-6-committee-subpoenas-trump-allies-520315">Jan. 6 committee subpoenas Trump allies linked to D.C. 'war room'</a> Politico: The latest batch targets a mix of people who worked on Donald Trump’s campaign and others who strategized how to overturn election results from the outside. 
- <p class="updated_time"> 03:37 PM CT, Nov. 08 </p> 
- <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jpJpF5B53u0/index.html">January 6 committee issues 6 subpoenas to top Trump campaign associates, including Michael Flynn and John Eastman</a> CNN: The House select committee investigating the deadly January 6 riot on Capitol Hill announced Monday it is issuing six additional subpoenas to top Trump campaign associates as it continues to seek testimony and documents from key witnesses in the sweeping probe. 
  <p class="updated_time"> 03:33 PM CT, Nov. 08 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gMjvfEVt3ws/index.html">White House says companies should abide by vaccine mandate during court battle</a> CNN: The White House on Monday said private companies should abide by its new vaccine mandate as a court battle plays out after a federal appeals court temporarily blocked the new rule. 
  <p class="updated_time"> 03:25 PM CT, Nov. 08 </p> 
@@ -440,8 +446,6 @@ permalink: /projects/news/
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vBRV9fRRViY/index.html">White House chief of staff 'confident' vaccine mandate for private businesses will be upheld</a> CNN: White House chief of staff Ron Klain said he was confident the courts will uphold the validity of the Biden administration's new vaccine rules that apply to private businesses with 100 or more employees, certain health care workers and federal contractors, after a federal appeals court temporarily blocked the requirements on Saturday. 
  <p class="updated_time"> 09:40 AM CT, Nov. 07 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/U26cWofmZF4/index.html">Americans should expect to pay higher heating costs this winter, Granholm says</a> CNN: Americans should expect to pay higher costs to heat their homes this winter, Energy Secretary Jennifer Granholm said Sunday, a result of high gas prices caused by the coronavirus pandemic. 
- <p class="updated_time"> 09:24 AM CT, Nov. 07 </p> 
- <a href="https://www.washingtonpost.com/politics/biden-trump-infrastructure-afghanistan/2021/11/07/7c7a5534-3f34-11ec-8ee9-4f14a26749d1_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Biden gets his ‘infrastructure week,’ crossing another goal off Trump’s to-do list</a> WaPo: While the president has spent much of his first months in office seeking to undo the legacy of his predecessor, the passage of a massive spending bill and the withdrawal from Afghanistan mark two policy goals the two shared — but only one achieved. 
  <p class="updated_time"> 07:10 AM CT, Nov. 07 </p> 
  <a href="https://www.npr.org/2021/11/07/1053326463/polling-institute-director-says-it-may-be-time-to-get-rid-of-election-polls">Polling Institute director says it may be time to get rid of election polls</a> NPR: Danielle Kurtzleben speaks with Patrick Murray, director of the Polling Institute at Monmouth University, about the future of election polls after their recent failures to predict results. 
  <p class="updated_time"> 07:03 AM CT, Nov. 07 </p> 
@@ -488,8 +492,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/05/house-infrastructure-bill-519796">House ships $550B infrastructure legislation to Biden’s desk after months of delay</a> Politico: Only 13 House Republicans voted for the bill, alongside all but 6 Democrats. 
  <p class="updated_time"> 10:30 PM CT, Nov. 05 </p> 
  <a href="https://www.politico.com/news/2021/11/05/house-infrastructure-bill-519796">House ships $550B infrastructure legislation to Biden’s desk after months of delay</a> Politico: Only 13 House Republicans voted for the bill, alongside all but 6 Democrats. 
- <p class="updated_time"> 08:35 PM CT, Nov. 05 </p> 
- <a href="https://www.nytimes.com/2021/11/05/us/politics/jeffrey-clark-capitol-riot-committee.html">Trump Justice Dept. Official Defies Request by Jan. 6 Panel</a> NYT: Jeffrey Clark, who aided in the former president’s efforts to overturn the election, appeared before the committee but would not answer substantive questions. 
  <p class="updated_time"> 05:22 PM CT, Nov. 05 </p> 
  <a href="https://www.politico.com/news/2021/11/05/trump-deal-moderna-global-vaccine-effort-519771">How Trump’s deal with Moderna hampers the global vaccine effort</a> Politico: Operation Warp Speed poured billions into Moderna and agreed not to share its vaccines abroad. Now the company is holding up the race to vaccinate low-income countries. 
  <p class="updated_time"> 03:34 PM CT, Nov. 05 </p> 
@@ -520,8 +522,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/05/kyrsten-sinema-multi-level-marketing-labor-519661">Sinema’s raking in cash from MLMs. They want to kill her party’s labor bill.</a> Politico: The Arizona senator is one of just a few lawmakers that multilevel marketing businesses —often derided as pyramid schemes — are giving to. 
  <p class="updated_time"> 03:30 AM CT, Nov. 05 </p> 
  <a href="https://www.politico.com/news/2021/11/05/kyrsten-sinema-multi-level-marketing-labor-519661">Sinema’s raking in cash from MLMs. They want to kill her party’s labor bill.</a> Politico: The Arizona senator is one of just a few lawmakers that multilevel marketing businesses —often derided as pyramid schemes — are giving to. 
- <p class="updated_time"> 05:12 PM CT, Nov. 04 </p> 
- <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/VD9wO6YNyms/index.html">More than 100 million American workers will need to be fully vaccinated by Jan. 4</a> CNN: The Biden administration announced Thursday that its vaccine rules applying to private businesses with 100 or more employees, certain health care workers and federal contractors will take effect January 4. 
  <p class="updated_time"> 04:46 PM CT, Nov. 04 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/le0dV7UPD3s/index.html">First person of color confirmed as permanent Census Bureau director</a> CNN: The Senate voted on Thursday to confirm Robert Santos as director of the Census Bureau, making him the first person of color to hold the position in a permanent capacity. 
  <p class="updated_time"> 02:41 PM CT, Nov. 04 </p> 
