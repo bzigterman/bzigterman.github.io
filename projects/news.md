@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:42 AM CT, Nov. 08 </p> 
+ <a href="https://www.nytimes.com/2021/11/08/world/europe/heathrow-first-flight-us.html">U.S. Travel Ban Ends, and Excited Passengers Board First Flight from London</a> NYT: Long lines formed in Heathrow Airport for the first scheduled trips to the United States since the Biden administration lifted its travel ban. 
  <p class="updated_time"> 05:28 AM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/world/europe/europe-us-travel-ban.html">U.S. Travel Ban Ends, and Europeans Head Overseas Again</a> NYT: Europeans were kept apart from family and friends as the ban dragged on long after E.U. leaders had opened their borders. 
  <p class="updated_time"> 05:26 AM CT, Nov. 08 </p> 
@@ -59,6 +61,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59167718?at_medium=RSS&at_campaign=KARANGA">US-Canada border: After 19 months, families to reunite</a> BBC: The land border will soon fully reopen to vaccinated travellers, allowing families to reconnect. 
  <p class="updated_time"> 06:17 PM CT, Nov. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59036542?at_medium=RSS&at_campaign=KARANGA">Dug Dug: A film inspired by India's motorcycle god</a> BBC: A new film riding on the back of a temple in India dedicated to a motorcycle deity is making waves. 
+ <p class="updated_time"> 06:14 PM CT, Nov. 07 </p> 
+ <a href="https://www.bbc.co.uk/news/science-environment-59199484?at_medium=RSS&at_campaign=KARANGA">COP26: Fossil fuel industry has largest delegation at climate summit</a> BBC: There are more participants than from any single country, a study shared with the BBC suggests. 
  <p class="updated_time"> 06:04 PM CT, Nov. 07 </p> 
  <a href="https://www.bbc.co.uk/news/business-59136957?at_medium=RSS&at_campaign=KARANGA">How will the US deal with a shortage of 80,000 truckers?</a> BBC: The chronic lack of lorry drivers in the US is adding to supply chain woes - and could get worse. 
  <p class="updated_time"> 06:02 PM CT, Nov. 07 </p> 
