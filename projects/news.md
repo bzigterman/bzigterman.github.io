@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:20 AM CT, Nov. 08 </p> 
+ <a href="https://www.nytimes.com/2021/11/07/travel/us-travel-ban-reunions.html">As U.S. Travel Changes Near, Global Travelers Eagerly Await Reunions</a> NYT: On Monday, travelers from many other countries who are fully vaccinated against the coronavirus will be allowed to enter the United States. 
  <p class="updated_time"> 07:07 AM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/world/europe/europe-us-travel-ban.html">U.S. Travel Ban Ends, and Europeans Head Overseas Again</a> NYT: Europeans were kept apart from family and friends as the ban dragged on long after E.U. leaders had opened their borders. 
  <p class="updated_time"> 06:38 AM CT, Nov. 08 </p> 
@@ -58,9 +60,9 @@ permalink: /projects/news/
  <p class="updated_time"> 12:08 AM CT, Nov. 08 </p> 
  <a href="https://www.wsj.com/articles/chinas-army-furnishes-foreign-militaries-with-covid-19-vaccines-11636369726">China's Army Furnishes Foreign Militaries With Covid-19 Vaccines</a> WSJ: The People’s Liberation Army has helped further Beijing’s global interests during the pandemic, bringing doses directly to militaries. 
  <p class="updated_time"> 11:52 PM CT, Nov. 07 </p> 
- <a href="https://www.wsj.com/articles/nicaraguas-president-ortega-on-track-for-controversial-fourth-term-11636368775">Nicaragua's President Ortega on Track for Controversial Fourth Term</a> WSJ: With 65% of the vote counted, the head of Nicaragua’s electoral authority said President Ortega had won 75% of the vote. Five small satellite parties controlled by Mr. Ortega split the difference and 35% abstained. 
- <p class="updated_time"> 11:52 PM CT, Nov. 07 </p> 
  <a href="https://www.wsj.com/articles/china-to-issue-licenses-for-education-companies-to-resume-after-school-tutoring-11636368762">China to Allow Education Companies to Resume After-School Tutoring</a> WSJ: China’s government plans to issue more than a dozen licenses that would allow companies to offer after-school tutoring, according to people familiar with the matter. 
+ <p class="updated_time"> 11:52 PM CT, Nov. 07 </p> 
+ <a href="https://www.wsj.com/articles/nicaraguas-president-ortega-on-track-for-controversial-fourth-term-11636368775">Nicaragua's President Ortega on Track for Controversial Fourth Term</a> WSJ: With 65% of the vote counted, the head of Nicaragua’s electoral authority said President Ortega had won 75% of the vote. Five small satellite parties controlled by Mr. Ortega split the difference and 35% abstained. 
  <p class="updated_time"> 06:35 PM CT, Nov. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59178826?at_medium=RSS&at_campaign=KARANGA">Why Tanzanian Nobel laureate Abdulrazak Gurnah is hardly known back home</a> BBC: Few of Abdulrazak Gurnah's novels are sold in Tanzania where not many people read fiction. 
  <p class="updated_time"> 06:28 PM CT, Nov. 07 </p> 
@@ -87,8 +89,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/uk-northern-ireland-59198125?at_medium=RSS&at_campaign=KARANGA">Brexit: UK-EU trade deal could collapse over NI row, says Coveney</a> BBC: The UK is laying foundations to suspend parts of the NI Protocol, says the Irish foreign minister. 
  <p class="updated_time"> 03:35 PM CT, Nov. 07 </p> 
  <a href="https://www.npr.org/2021/11/07/1053356424/how-did-the-enslaved-workers-of-pompeii-live-a-new-discovery-provides-a-rare-gli">How did the enslaved workers of Pompeii live? A new discovery provides a rare glimpse</a> NPR: Archaeologists working to uncover a wealthy villa on the outskirts of the ancient city have found a dormitory for workers, providing important insight into daily life. 
- <p class="updated_time"> 02:32 PM CT, Nov. 07 </p> 
- <a href="https://www.nytimes.com/2021/11/07/travel/us-travel-ban-reunions.html">As U.S. Travel Changes Near, Global Travelers Eagerly Await Reunions</a> NYT: On Monday, travelers from many other countries who are fully vaccinated against the coronavirus will be allowed to enter the United States. 
  <p class="updated_time"> 01:17 PM CT, Nov. 07 </p> 
  <a href="https://www.nytimes.com/2021/11/07/us/politics/afghanistan-war-marines.html">Young Marines in Kabul Were Left to Run Final Days of Evacuation</a> NYT: The young Marines in Kabul were left to determine who was evacuated from Afghanistan and who was left behind. The cost was high. 
  <p class="updated_time"> 11:29 AM CT, Nov. 07 </p> 
@@ -218,6 +218,12 @@ permalink: /projects/news/
 
  <p class="updated_time"> 07:20 AM CT, Nov. 08 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/11/08/recess-reverie-plus-huddle-restaurant-week-kicks-off-495014">Recess reverie (plus Huddle Restaurant Week kicks off)</a> Politico: A play-by-play preview of the day&#39;s congressional news 
+ <p class="updated_time"> 07:20 AM CT, Nov. 08 </p> 
+ <a href="https://www.nytimes.com/2021/11/07/travel/us-travel-ban-reunions.html">As U.S. Travel Changes Near, Global Travelers Eagerly Await Reunions</a> NYT: On Monday, travelers from many other countries who are fully vaccinated against the coronavirus will be allowed to enter the United States. 
+ <p class="updated_time"> 07:14 AM CT, Nov. 08 </p> 
+ <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OUBqqbrBKnU/index.html">Biden seeks rebound as he basks in huge political victory </a> CNN: President Joe Biden's soon-to-be-signed $1 trillion infrastructure legislation is a direly needed political win and a vindication of his entire creed of politics. But on its own, it is unlikely to rescue a wobbling presidency as midterm elections loom. 
+ <p class="updated_time"> 07:11 AM CT, Nov. 08 </p> 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-08/norway-s-new-government-to-cut-power-levies-raise-wealth-tax">Norway’s New Government to Cut Power Levies, Raise Wealth Tax</a> Bloomberg: Norway’s new government is proposing to cut electricity charges to protect households from the effects of the energy crisis, while raising taxes on the wealthy, as it makes changes to a 2022 budget drafted by its predecessors. 
  <p class="updated_time"> 07:00 AM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/arts/08pen-critical-race-theory.html">Report Says Critical Race Theory Bans Threaten Free Speech</a> NYT: The report by PEN America, which surveys more than 50 bills proposed across the country, appeals to a principle that has lost its luster for many on the left and right. 
  <p class="updated_time"> 06:54 AM CT, Nov. 08 </p> 
@@ -286,8 +292,6 @@ permalink: /projects/news/
  <a href="https://www.washingtonpost.com/politics/2021/11/08/battle-over-bidens-child-tax-credit-its-impact-poverty-workers/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">The battle over Biden’s child tax credit and its impact on poverty and workers</a> WaPo: A fierce dispute has erupted among economists about whether the president's child-tax credit expansion will cause parents to stop working. We explain the debate. 
  <p class="updated_time"> 01:53 AM CT, Nov. 08 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-08/iran-s-top-nuclear-diplomat-visits-u-k-france-germany-in-days">Iran’s Top Nuclear Diplomat to Visit U.K., France, Germany </a> Bloomberg: Iran called on the U.S. to change its approach to sanctions and abandon the Trump-era “maximum pressure” strategy against the Islamic Republic, as its top nuclear negotiator heads to Europe to discuss efforts to revive the 2015 atomic deal. 
- <p class="updated_time"> 01:10 AM CT, Nov. 08 </p> 
- <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/OUBqqbrBKnU/index.html">Biden seeks rebound as he basks in huge political victory </a> CNN: President Joe Biden's soon-to-be-signed $1 trillion infrastructure legislation is a direly needed political win and a vindication of his entire creed of politics. But on its own, it is unlikely to rescue a wobbling presidency as midterm elections loom. 
  <p class="updated_time"> 01:09 AM CT, Nov. 08 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-08/chinese-firm-seeks-damages-from-sri-lanka-in-fertilizer-dispute">Chinese Firm Seeks Damages From Sri Lanka in Fertilizer Dispute</a> Bloomberg: A Chinese company is seeking damages from a Sri Lankan government agency for rejecting a shipment of organic fertilizer found to have pathogens in an ongoing dispute that could test Colombo’s relationship with Beijing. 
  <p class="updated_time"> 01:00 AM CT, Nov. 08 </p> 
@@ -306,8 +310,6 @@ permalink: /projects/news/
  <a href="https://www.bloomberg.com/news/features/2021-11-08/how-togo-made-all-digital-government-stimulus-system-in-two-weeks">One of the World’s Poorest Countries Found a Better Way to Do Stimulus</a> Bloomberg: In two weeks, Togo designed and launched an all-digital system for delivering monthly payments to millions of people&mdash;and made the U.S. program look like a “dinosaur.” 
  <p class="updated_time"> 11:00 PM CT, Nov. 07 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-08/turkey-s-rich-cash-in-as-erdogan-s-war-on-interest-rates-punishes-supporters">Erdogan’s War on Interest Rates Is Making Turkey’s Rich Richer</a> Bloomberg: Widening inequalities threaten the president’s popularity even as economy booms. 
- <p class="updated_time"> 10:07 PM CT, Nov. 07 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-08/new-zealand-s-ardern-says-auckland-on-track-to-exit-lockdown">New Zealand’s Ardern Says Auckland on Track to Exit Lockdown</a> Bloomberg: New Zealand Prime Minister Jacinda Ardern further eased Covid-19 restrictions in Auckland and said the country’s largest city is on track to exit lockdown by the end of the month. 
  <p class="updated_time"> 09:55 PM CT, Nov. 07 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-08/china-uses-fake-u-s-aircraft-carrier-for-target-practice">China Uses Fake U.S. Aircraft Carrier for Missile Target Practice</a> Bloomberg: The Chinese military is using mock-ups of a U.S. aircraft carrier at a weapons-testing range in a remote western desert, new satellite imagery shows, indicating the People’s Liberation Army is focused on neutralizing a key tool of U.S. power. 
  <p class="updated_time"> 09:47 PM CT, Nov. 07 </p> 
@@ -330,8 +332,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/07/nicaragua-ortega-election-sandinistas-520133">Nicaragua’s Ortega seeks reelection in questioned vote</a> Politico: He blasted the United States for interference in Nicaragua. 
  <p class="updated_time"> 03:00 PM CT, Nov. 07 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/KHemrSyJXcs/index.html">Analysis: Jayapal on why progressives chose pragmatism: 'We need to keep our eyes on the prize'</a> CNN: The Congressional Progressive Caucus got the White House message -- no more delay. Members embraced a compromise economic package as the best available deal, and accepted private assurances of Senate support. 
- <p class="updated_time"> 02:32 PM CT, Nov. 07 </p> 
- <a href="https://www.nytimes.com/2021/11/07/travel/us-travel-ban-reunions.html">As U.S. Travel Changes Near, Global Travelers Eagerly Await Reunions</a> NYT: On Monday, travelers from many other countries who are fully vaccinated against the coronavirus will be allowed to enter the United States. 
  <p class="updated_time"> 02:31 PM CT, Nov. 07 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sWdL-IYaLvg/index.html">Chris Christie delivers tough message to Republican audience, saying GOP gains hinge on moving on from 2020</a> CNN: While the other potential GOP White House aspirants continue to tip-toe around former President Donald Trump, former New Jersey Gov. Chris Christie argued Saturday that his week's election results marked the "beginning of a new era" for the Republican Party -- one that looks "forward and not backwards" as he addressed the Republican Jewish Coalition in Las Vegas. 
  <p class="updated_time"> 02:13 PM CT, Nov. 07 </p> 
