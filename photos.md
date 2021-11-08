@@ -6,6 +6,8 @@ permalink: /photos/
 
 {% include image-gallery.html folder="/photos" %}
 
+<!--
+
 <ul>
   {% for post in site.categories.photos %}
     <li>
@@ -13,3 +15,5 @@ permalink: /photos/
     </li>
   {% endfor %}
 </ul>
+
+-->
