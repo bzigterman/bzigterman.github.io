@@ -7,10 +7,16 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:45 AM CT, Nov. 08 </p> 
+ <a href="https://www.nytimes.com/2021/11/08/world/asia/new-zealand-ease-lockdown-restrictions.html">New Zealand's Biggest City Is to Ease Lockdown Restrictions</a> NYT: The lifting of rules comes as the country records some of its highest daily case numbers since the pandemic began. 
+ <p class="updated_time"> 08:38 AM CT, Nov. 08 </p> 
+ <a href="https://www.nytimes.com/2021/11/08/world/europe/heathrow-first-flight-us-travel-ban.html">Excited Passengers Board First Flight from Heathrow to the U.S.</a> NYT: Long lines formed at Heathrow Airport for the first scheduled trips to the United States since the Biden administration lifted a travel ban. 
+ <p class="updated_time"> 08:35 AM CT, Nov. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59205372?at_medium=RSS&at_campaign=KARANGA">Sierra Leone tanker explosion: Mass burial in Freetown</a> BBC: The authorities have also made an urgent appeal for blood donations in the capital Freetown. 
  <p class="updated_time"> 08:28 AM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/world/middleeast/nso-israel-palestinians-spyware.html">Palestinians Were Targeted by Israeli Firm’s Spyware, Experts Say</a> NYT: The hacking renewed scrutiny of the relationship between the Israeli government and the NSO Group, a surveillance company blacklisted by the United States. 
- <p class="updated_time"> 08:22 AM CT, Nov. 08 </p> 
- <a href="https://www.nytimes.com/2021/11/08/world/europe/heathrow-first-flight-us-travel-ban.html">Excited Passengers Board First Flight from Heathrow to the U.S.</a> NYT: Long lines formed at  Heathrow Airport for the first scheduled trips to the United States since the Biden administration lifted a travel ban. 
+ <p class="updated_time"> 08:16 AM CT, Nov. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59206685?at_medium=RSS&at_campaign=KARANGA">Poland fears major breach by migrants on Belarus border</a> BBC: Thousands of troops patrol the border, where migrants have tried to enter Poland from Belarus. 
  <p class="updated_time"> 08:14 AM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/travel/us-travel-ban-vaccination.html">U.S. Lifts Travel Ban for Vaccinated Foreigners</a> NYT: The change ends more than 18 months of restrictions that left families separated from loved ones and cost the global travel industry hundreds of billions of dollars. 
  <p class="updated_time"> 07:56 AM CT, Nov. 08 </p> 
@@ -33,8 +39,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59205798?at_medium=RSS&at_campaign=KARANGA">Travis Scott fans recall Astroworld panic: 'I had to get out of there'</a> BBC: Festivalgoers caught up in the crush at Astroworld, which left eight people dead, recall their fear. 
  <p class="updated_time"> 05:26 AM CT, Nov. 08 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59206814?at_medium=RSS&at_campaign=KARANGA">COP26: Rich countries ‘pushing back’ on paying for climate loss</a> BBC: Poorer countries say they are not able to get compensation for the damage caused by climate change. 
- <p class="updated_time"> 05:12 AM CT, Nov. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59205368?at_medium=RSS&at_campaign=KARANGA">Athol Williams: South Africa corruption whistle-blower flees for his life</a> BBC: Athol Williams says he has received threats since testifying in a corruption inquiry. 
  <p class="updated_time"> 04:59 AM CT, Nov. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-51235105?at_medium=RSS&at_campaign=KARANGA">Covid map: Coronavirus cases, deaths, vaccinations by country</a> BBC: Key maps and charts explaining how the virus has spread around the world. 
  <p class="updated_time"> 04:42 AM CT, Nov. 08 </p> 
@@ -47,8 +51,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59168540?at_medium=RSS&at_campaign=KARANGA">WHO casts doubt on Turkmenistan's zero-Covid claim</a> BBC: A World Health Organization official tells the BBC it is "unlikely the virus is not circulating". 
  <p class="updated_time"> 04:12 AM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/07/world/americas/nicaragua-election-ortega.html">In Nicaragua Election, Ortega Crushes Dissent</a> NYT: President Daniel Ortega quashed the opposition and struck fear in voters, all but guaranteeing his victory in a presidential contest on Sunday. 
- <p class="updated_time"> 04:02 AM CT, Nov. 08 </p> 
- <a href="https://www.nytimes.com/2021/11/08/world/asia/new-zealand-ease-lockdown-restrictions.html">New Zealand's Biggest City Is to Ease Lockdown Restrictions</a> NYT: The lifting of rules comes as the country records some of its highest daily case numbers since the pandemic began. 
  <p class="updated_time"> 04:00 AM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/world/europe/romania-covid-vaccine-refusal.html">In Romania, Hard-Hit by Covid, Doctors Fight Vaccine Refusal</a> NYT: An anti-vaccine clarion call by leading religious figures, echoed by prominent politicians and social media, helps explain why Romania now has the world’s highest Covid death rate. 
  <p class="updated_time"> 04:00 AM CT, Nov. 08 </p> 
@@ -71,10 +73,8 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/nicaraguas-president-ortega-on-track-for-controversial-fourth-term-11636368775">Nicaragua's President Ortega on Track for Controversial Fourth Term</a> WSJ: With 65% of the vote counted, the head of Nicaragua’s electoral authority said President Ortega had won 75% of the vote. Five small satellite parties controlled by Mr. Ortega split the difference and 35% abstained. 
  <p class="updated_time"> 06:35 PM CT, Nov. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59178826?at_medium=RSS&at_campaign=KARANGA">Why Tanzanian Nobel laureate Abdulrazak Gurnah is hardly known back home</a> BBC: Few of Abdulrazak Gurnah's novels are sold in Tanzania where not many people read fiction. 
- <p class="updated_time"> 06:28 PM CT, Nov. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59201107?at_medium=RSS&at_campaign=KARANGA">US reopens borders to vaccinated travellers after 20 months</a> BBC: A flood of foreign visitors is expected as tough restrictions on entry come to an end. 
  <p class="updated_time"> 06:24 PM CT, Nov. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59167718?at_medium=RSS&at_campaign=KARANGA">US-Canada border: After 19 months, families to reunite</a> BBC: Thomas Musgraves will spend US Thanksgiving with his daughter, Maddie, after months of separation. 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59167718?at_medium=RSS&at_campaign=KARANGA">US-Canada border: After 19 months, families to reunite</a> BBC: Thomas Musgraves will soon see his daughter Maddie in the US after pandemic restrictions kept them apart 
  <p class="updated_time"> 06:17 PM CT, Nov. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59036542?at_medium=RSS&at_campaign=KARANGA">Dug Dug: A film inspired by India's motorcycle god</a> BBC: A new film riding on the back of a temple in India dedicated to a motorcycle deity is making waves. 
  <p class="updated_time"> 06:14 PM CT, Nov. 07 </p> 
@@ -203,8 +203,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/05/world/asia/japan-quarantine-covid.html">Japan Will Cut Quarantine for Business Travelers to 3 Days</a> NYT: The easing of rules comes as cases decline significantly. The country has virtually closed its borders since the start of the pandemic. 
  <p class="updated_time"> 04:00 AM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/05/world/europe/germany-black-woman-bundestag.html">First Black Woman in Bundestag Wants to Change Image of ‘Germanness’</a> NYT: After a deadly racist attack, Awet Tesfaiesus considered leaving Germany. Instead, she ran for Parliament with a “courage to change” slogan and won. 
- <p class="updated_time"> 02:56 AM CT, Nov. 05 </p> 
- <a href="https://www.nytimes.com/2021/11/05/world/europe/russia-nuclear-power-climate-change.html">A Nuclear-Powered Shower? Russia Tests a Climate Innovation.</a> NYT: A remote Siberian town now has its own miniature nuclear plant as a Russian state company tests a new model for residential heating. Some see it as a tool to minimize climate change. 
  <p class="updated_time"> 05:26 AM CT, Nov. 04 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-56901261?at_medium=RSS&at_campaign=KARANGA">COP26: What is the Glasgow climate conference and why is it important?</a> BBC: A crucial climate change summit is being held in the UK - this is why it's important. 
  <p class="updated_time"> 11:30 AM CT, Nov. 03 </p> 
@@ -216,6 +214,10 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:26 AM CT, Nov. 08 </p> 
+ <a href="https://www.politico.com/news/2021/11/08/satellite-china-us-warships-520271">Satellite images show China built mock-ups of U.S. warships</a> Politico: The images captured show the outlines of a U.S. aircraft carrier and at least one destroyer sitting on a railway track. 
+ <p class="updated_time"> 09:25 AM CT, Nov. 08 </p> 
+ <a href="https://www.politico.com/news/2021/11/08/obama-hits-russia-china-for-absence-of-urgency-on-climate-520270">Obama hits Russia, China for 'absence of urgency' on climate</a> Politico: The former president's appearance on the sidelines of the talks is meant to remind governments of the elation that surrounded the striking of the Paris accord. 
  <p class="updated_time"> 08:18 AM CT, Nov. 08 </p> 
  <a href="https://www.washingtonpost.com/politics/rick-scott-sean-parnell/2021/11/08/d21bb370-4097-11ec-a3aa-0255edc02eb7_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">NRSC chair Rick Scott declines to say if Trump-backed Senate hopeful accused of strangling wife is right candidate for the job</a> WaPo: Pressed during an interview about Sean Parnell, the senator from Florida said it is not his job to endorse candidates in open primaries. Parnell has been endorsed by former president Donald Trump. 
  <p class="updated_time"> 08:14 AM CT, Nov. 08 </p> 
@@ -310,8 +312,8 @@ permalink: /projects/news/
  <a href="https://www.bloomberg.com/news/articles/2021-11-08/danish-prime-minister-says-new-virus-restrictions-are-needed">Danish Prime Minister Says New Virus Restrictions Are Needed</a> Bloomberg: Denmark, which has one of the highest vaccination rates in the world, will probably need to re-introduce some restrictions after the number of virus infections has jumped, the prime minister said. 
  <p class="updated_time"> 11:43 PM CT, Nov. 07 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-08/japan-premier-picks-china-critic-to-be-adviser-on-human-rights">Japan Premier Picks China Critic to Be Human Rights Adviser</a> Bloomberg: Japanese Prime Minister Fumio Kishida picked a critic of China’s treatment of the Uyghur ethnic group to be his aide for human rights issues, a move that could increase friction between Asia’s two biggest economies. 
- <p class="updated_time"> 11:00 PM CT, Nov. 07 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-08/turkey-s-rich-cash-in-as-erdogan-s-war-on-interest-rates-punishes-supporters">Erdogan’s War on Interest Rates Is Making Turkey’s Rich Richer</a> Bloomberg: Widening inequalities threaten the president’s popularity even as economy booms. 
+ <p class="updated_time"> 11:10 PM CT, Nov. 07 </p> 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-08/nicaragua-leader-ortega-hits-back-during-vote-slammed-by-biden">Nicaragua Leader Set for Landslide in Election Slammed by Biden</a> Bloomberg: Nicaraguan leader Daniel Ortega is on course for a landslide in Sunday’s presidential election after he jailed his main opponents. 
  <p class="updated_time"> 09:55 PM CT, Nov. 07 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-08/china-uses-fake-u-s-aircraft-carrier-for-target-practice">China Uses Fake U.S. Aircraft Carrier for Missile Target Practice</a> Bloomberg: The Chinese military is using mock-ups of a U.S. aircraft carrier at a weapons-testing range in a remote western desert, new satellite imagery shows, indicating the People’s Liberation Army is focused on neutralizing a key tool of U.S. power. 
  <p class="updated_time"> 09:47 PM CT, Nov. 07 </p> 
@@ -382,8 +384,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/07/1053326386/local-elections-yield-mix-results-on-police-reform">Local elections yield mix results on police reform</a> NPR: Danielle Kurtzleben speaks with Phillip Atiba Goff, CEO of the Center for Policing Equity, about the different police reform initiatives on ballots in cities across the country this week. 
  <p class="updated_time"> 07:03 AM CT, Nov. 07 </p> 
  <a href="https://www.npr.org/2021/11/07/1053326379/politics-chat-why-it-took-so-long-to-pass-the-infrastructure-bill">Politics Chat: Why it took so long to pass the infrastructure bill</a> NPR: We look at what President Biden had to do to get the the $1 trillion infrastructure bill passed, and how the efforts to pass the larger $1.75 trillion spending bill are shaping up. 
- <p class="updated_time"> 07:02 AM CT, Nov. 07 </p> 
- <a href="https://www.politico.com/news/2021/11/07/palestinians-israel-jerusalem-mission-519944">Palestinians, Israel spar over U.S. mission in Jerusalem</a> Politico: “There’s no room for another American consulate in Jerusalem,”  Israel’s prime minister said. 
  <p class="updated_time"> 07:01 AM CT, Nov. 07 </p> 
  <a href="https://www.politico.com/news/2021/11/07/biden-faces-heat-pipeline-propane-cost-519788">Pipeline pile-on: Biden faces heat from Canada, Republicans, Michigan’s governor and the price of propane</a> Politico: The president is caught between environmentalists and Indigenous groups on one side and Republicans blaming him for soaring energy prices on the other. 
  <p class="updated_time"> 07:00 AM CT, Nov. 07 </p> 
@@ -516,8 +516,6 @@ permalink: /projects/news/
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/oBU5c7ussr4/index.html">Harris to announce Biden administration's first meeting of the National Space Council</a> CNN: Six months after being tapped to lead the White House's National Space Council, Vice President Kamala Harris will announce the council's first meeting of the Biden administration during a visit Friday to NASA's Goddard Space Flight Center in Maryland. 
  <p class="updated_time"> 03:30 AM CT, Nov. 05 </p> 
  <a href="https://www.politico.com/news/2021/11/05/pelosi-dems-final-push-519607">Pelosi tries to rev House Dems after season in the ditch</a> Politico: "There’s a point where you've got to stop talking," Rep. Peter Welch (D-Vt.) said. But can the House get there? 
- <p class="updated_time"> 03:30 AM CT, Nov. 05 </p> 
- <a href="https://www.politico.com/news/2021/11/05/democrats-plea-biden-more-assertive-519672">Democrats plead with Biden to get more assertive</a> Politico: The grumblings have grown louder after Virginia and New Jersey and as the legislative agenda remains in limbo. 
  <p class="updated_time"> 03:30 AM CT, Nov. 05 </p> 
  <a href="https://www.politico.com/news/2021/11/05/kyrsten-sinema-multi-level-marketing-labor-519661">Sinema’s raking in cash from MLMs. They want to kill her party’s labor bill.</a> Politico: The Arizona senator is one of just a few lawmakers that multilevel marketing businesses —often derided as pyramid schemes — are giving to. 
  <p class="updated_time"> 03:30 AM CT, Nov. 05 </p> 
