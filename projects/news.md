@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:47 AM CT, Nov. 09 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59208301?at_medium=RSS&at_campaign=KARANGA">Hundreds of migrants at Poland-Belarus border</a> BBC: Poland says it has stopped attempts by the large group to enter the country. 
  <p class="updated_time"> 10:16 PM CT, Nov. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59172767?at_medium=RSS&at_campaign=KARANGA">Nagaenthran Dharmalingam: Family prays as man with IQ of 69 to be executed</a> BBC: The drug trafficking case has sparked a rare disquiet in Singapore where the death penalty is largely uncontroversial. 
  <p class="updated_time"> 09:56 PM CT, Nov. 08 </p> 
@@ -133,8 +135,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/cubas-dissidents-dig-in-despite-government-crackdown-11636383600">Cuba's Dissidents Dig In Despite Government Crackdown</a> WSJ: Activists, artists and professionals challenge the Communist regime even as hundreds of protesters face contempt, sedition and sabotage charges. 
  <p class="updated_time"> 12:40 AM CT, Nov. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59202880?at_medium=RSS&at_campaign=KARANGA">Afghans facing 'hell on earth' as winter looms</a> BBC: The World Food Programme says 23 million people are "marching towards starvation" in the country. 
- <p class="updated_time"> 12:37 AM CT, Nov. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59202327?at_medium=RSS&at_campaign=KARANGA">Afghanistan hunger: 'The worst humanitarian crisis on Earth'</a> BBC: Afghanistan faces widespread famine with millions affected, says the UN World Food Programme head. 
  <p class="updated_time"> 11:52 PM CT, Nov. 07 </p> 
  <a href="https://www.wsj.com/articles/nicaraguas-president-ortega-on-track-for-controversial-fourth-term-11636368775">Nicaragua's President Ortega on Track for Controversial Fourth Term</a> WSJ: With 65% of the vote counted, the head of Nicaragua’s electoral authority said President Ortega had won 75% of the vote. Five small satellite parties controlled by Mr. Ortega split the difference and 35% abstained. 
  <p class="updated_time"> 06:35 PM CT, Nov. 07 </p> 
