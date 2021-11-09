@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:33 AM CT, Nov. 09 </p> 
+ <a href="https://www.nytimes.com/2021/11/08/world/europe/uk-brexit-estonia-business.html">Brexit Brain Drain  Delivers Financial Boon to Estonia</a> NYT: The former Soviet satellite state is welcoming British companies looking to escape the tangle of regulations and financial obstacles of doing business in Europe. 
  <p class="updated_time"> 02:01 AM CT, Nov. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59218239?at_medium=RSS&at_campaign=KARANGA">US couple on alleged IVF swap: 'Our memories of childbirth will always be tainted'</a> BBC: A California couple was given the wrong embryo by an IVF fertility clinic, according to a lawsuit. 
  <p class="updated_time"> 01:57 AM CT, Nov. 09 </p> 
@@ -23,8 +25,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/07/world/americas/nicaragua-election-ortega.html">In Nicaragua Election, Ortega Crushes Dissent</a> NYT: President Daniel Ortega quashed the opposition and struck fear in voters, all but guaranteeing his victory in a presidential contest on Sunday. 
  <p class="updated_time"> 09:53 PM CT, Nov. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59216106?at_medium=RSS&at_campaign=KARANGA">Wisconsin man shot by Kyle Rittenhouse pointed a gun at him</a> BBC: A protester acknowledges in court he was advancing with gun drawn on the teen when he opened fire. 
- <p class="updated_time"> 09:18 PM CT, Nov. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-59216619?at_medium=RSS&at_campaign=KARANGA">Bhopal hospital fire: Four newborns die in neonatal unit</a> BBC: Firefighters were able to save 36 other babies as the blaze quickly engulfed the hospital. 
  <p class="updated_time"> 08:14 PM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/us/politics/isis-military.html">Military Can’t Find ISIS Safe House That Prompted Kabul Drone Strike</a> NYT: The Pentagon’s latest admission illustrates the botched intelligence behind the strike that mistakenly killed 10 civilians in August. 
  <p class="updated_time"> 08:04 PM CT, Nov. 08 </p> 
@@ -41,6 +41,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/08/travel/usa-travel-restrictions.html">With Tears, Hugs and Balloons, US Allows Vaccinated Foreign Travelers to Enter</a> NYT: On Monday, after more than 18 months, restrictions that kept families separated and cost the global travel industry hundreds of billions of dollars were lifted. 
  <p class="updated_time"> 06:43 PM CT, Nov. 08 </p> 
  <a href="https://www.bbc.co.uk/news/health-59204831?at_medium=RSS&at_campaign=KARANGA">Regular 10pm bedtime linked to lower heart risk</a> BBC: Synchronising sleep to match our internal body clock appears to be good for the heart, claim scientists. 
+ <p class="updated_time"> 06:35 PM CT, Nov. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59216184?at_medium=RSS&at_campaign=KARANGA">Emotional families reunite at airport as US lifts travel ban</a> BBC: The first intercontinental flights arrived at the John F Kennedy Airport today. As families gleefully reunited, many were meeting new relatives for the first time. 
  <p class="updated_time"> 06:15 PM CT, Nov. 08 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59205840?at_medium=RSS&at_campaign=KARANGA">Travis Scott festival tragedy: Were warning signs missed at Astroworld?</a> BBC: Concerns were raised before Travis Scott's fatal festival show. Could the tragedy have been averted? 
  <p class="updated_time"> 06:10 PM CT, Nov. 08 </p> 
@@ -95,8 +97,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/science-environment-59210395?at_medium=RSS&at_campaign=KARANGA">COP26: Obama tells young people to stay angry on climate fight</a> BBC: The ex-US president calls for global unity and condemns "active hostility" towards climate science. 
  <p class="updated_time"> 01:22 PM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/us/canada-travel.html">Thousands of Canadians Head for the Southern United States Again</a> NYT: With the border opening to tourists, thousands of Canadian “snowbirds” are on their way to Florida, Arizona and California with campers in tow. 
- <p class="updated_time"> 01:05 PM CT, Nov. 08 </p> 
- <a href="https://www.nytimes.com/2021/11/08/world/europe/uk-brexit-estonia-business.html">Brexit Brain Drain  Delivers Financial Boon to Estonia</a> NYT: The former Soviet satellite state is welcoming British companies looking to escape the tangle of regulations and financial obstacles of doing business in Europe. 
  <p class="updated_time"> 12:10 PM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/world/americas/brazil-telegram-disinformation.html">Brazil’s Far-Right Disinformation Pushers Find a Safe Space on Telegram</a> NYT: In a social media ecosystem facing mounting pressure to combat fake news and polarization, Telegram is the most permissive disseminator of content — and disinformation. 
  <p class="updated_time"> 12:09 PM CT, Nov. 08 </p> 
@@ -141,8 +141,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-india-59036542?at_medium=RSS&at_campaign=KARANGA">Dug Dug: A film inspired by India's motorcycle god</a> BBC: A new film riding on the back of a temple in India dedicated to a motorcycle deity is making waves. 
  <p class="updated_time"> 06:14 PM CT, Nov. 07 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59199484?at_medium=RSS&at_campaign=KARANGA">COP26: Fossil fuel industry has largest delegation at climate summit</a> BBC: There are more participants than from any single country, a study shared with the BBC suggests. 
- <p class="updated_time"> 06:02 PM CT, Nov. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-59120439?at_medium=RSS&at_campaign=KARANGA">TikTok videos humanise Colombia's cocaine workers</a> BBC: Social media videos in Colombia reveal how the people on the lowest rung of the cocaine industry work and live. 
  <p class="updated_time"> 04:01 PM CT, Nov. 07 </p> 
  <a href="https://www.nytimes.com/2021/11/07/world/europe/uk-virus-surge-booster-shots.html">U.K. Health Secretary Urges People to Get Boosters</a> NYT: “If we all come together and play our part, we can get through this challenging winter, avoid a return to restrictions and enjoy Christmas,” said Sajid Javid, the health secretary. 
  <p class="updated_time"> 04:00 PM CT, Nov. 07 </p> 
