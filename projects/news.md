@@ -560,8 +560,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/02/congress-standstill-shutdown-debt-518567">Congress hits ‘standstill’ as December shutdown, debt cliff near</a> Politico: "There should be a motto around here: ‘Why do today what we can do tomorrow?’ It's ridiculous," said Sen. Jon Tester. 
  <p class="updated_time"> 01:22 PM CT, Nov. 02 </p> 
  <a href="https://www.politico.com/news/2021/11/02/dems-drug-pricing-518554">‘A massive step forward’: Democrats clinch drug pricing deal</a> Politico: The new compromise deal, which is far weaker than the original House version, has the blessing of Sen. Kyrsten Sinema. 
- <p class="updated_time"> 06:45 AM CT, Nov. 02 </p> 
- <a href="https://www.politico.com/newsletters/huddle/2021/11/02/dems-on-the-hill-keep-wary-eye-on-virginia-494942">Dems on the Hill keep wary eye on Virginia</a> Politico: A play-by-play preview of the day&#39;s congressional news 
 
 
 </details>
