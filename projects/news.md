@@ -206,6 +206,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/08/us/politics/employer-vaccine-mandates.html">US Urges Court Not to Block Vaccine Mandate on Employers</a> NYT: The Biden Justice Department filed its case before an appeals court that has temporarily halted the measure. 
  <p class="updated_time"> 07:58 AM CT, Nov. 09 </p> 
  <a href="https://www.washingtonpost.com/local/obituaries/max-cleland-dead/2021/11/09/cb0afb9c-7520-11eb-8115-9ad5e9c02117_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Max Cleland, Vietnam War veteran who led VA and served in Senate, dies at 79</a> WaPo: Elected to the U.S. Senate in 1996, he served one term as a Georgia Democrat before losing reelection in a campaign that centered on national security after Sept. 11, 2001. 
+ <p class="updated_time"> 07:56 AM CT, Nov. 09 </p> 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-09/hard-brexit-talk-returns-as-u-k-eyes-suspending-n-ireland-deal">Hard Brexit Talk Returns as U.K. Eyes Suspending Northern Ireland Deal</a> Bloomberg: Brexit was supposed to be over. But with tensions over Northern Ireland flaring, the European Union is preparing a package of retaliatory measures in case the U.K. decides to suspend parts of the post-Brexit trade accord. 
  <p class="updated_time"> 07:43 AM CT, Nov. 09 </p> 
  <a href="https://www.nytimes.com/2021/11/09/us/politics/gavin-newsom-california.html">Where Is Gavin Newsom, California's Governor?</a> NYT: He’s in the office, according to increasingly frustrated staff members. But his critics on Twitter aren’t buying it. 
  <p class="updated_time"> 07:38 AM CT, Nov. 09 </p> 
@@ -304,8 +306,6 @@ permalink: /projects/news/
  <a href="https://www.bloomberg.com/news/articles/2021-11-09/cop26-climate-news-scotland-s-peatlands-are-a-carbon-sink-under-threat">The Search for a Global Carbon Fix Leads to a Scottish Peat Bog</a> Bloomberg: Peatlands are natural carbon sinks, but they’re becoming carbon emitters. 
  <p class="updated_time"> 11:00 PM CT, Nov. 08 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-09/poland-warns-it-may-skip-eu-membership-fees-in-judicial-clash">Poland Warns It May Skip EU Membership Fees in Judicial Clash</a> Bloomberg: Poland accused the European Union of acting in “bad faith” in their conflict over access to 36 billion euros ($42 billion) in pandemic aid and suggested the country may stop paying its membership fees to the bloc if the situation escalates. 
- <p class="updated_time"> 10:56 PM CT, Nov. 08 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-09/taliban-look-to-purge-military-of-islamic-state-infiltrators">Taliban Look to Purge Military of Islamic State Infiltrators</a> Bloomberg: The Taliban are carrying out background checks within their ranks as they look to identify and capture infiltrators from rival Islamic State, which has carried out several deadly attacks across Afghanistan since the militant group took power in August. 
  <p class="updated_time"> 10:14 PM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/us/politics/democrats-budget-bill-cuts-infrastructure.html">On Chicago’s West Side, Urgent Needs Collide With Washington Compromises</a> NYT: Activists say the needs of struggling communities in Chicago and elsewhere vastly exceed the billions Congress is spending. 
  <p class="updated_time"> 10:00 PM CT, Nov. 08 </p> 
@@ -318,8 +318,6 @@ permalink: /projects/news/
  <a href="https://www.washingtonpost.com/politics/house-jan-6-committee-issues-subpoenas-to-6-top-trump-advisers-including-pair-involved-in-willard-hotel-command-center/2021/11/08/6e91b0f2-40a6-11ec-a88e-2aa4632af69b_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">House Jan. 6 committee issues subpoenas to 6 top Trump advisers, including pair involved in Willard hotel ‘command center’</a> WaPo: Those subpoenaed include scholar John Eastman, author of a legal strategy to deny Biden the presidency, and former New York police commissioner Bernard Kerik. 
  <p class="updated_time"> 09:30 PM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/us/politics/jill-biden-kids-vaccine.html">Jill Biden Kicks Off Covid Vaccine Campaign for Young Children</a> NYT: The first lady and the surgeon general visited an elementary school in Virginia as part of a strategy to enlist schools in promoting the vaccine. 
- <p class="updated_time"> 09:30 PM CT, Nov. 08 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-09/taiwan-outlines-plans-to-counter-china-s-gray-zone-threats">Taiwan Outlines Plans to Counter China’s ‘Gray Zone Threats’</a> Bloomberg: Taiwan laid out plans to challenge what it described as China’s “gray zone threats” to shift the balance of power in the region and possibly take the democratically ruled island without fighting a battle. 
  <p class="updated_time"> 09:10 PM CT, Nov. 08 </p> 
  <a href="https://www.politico.com/news/2021/11/08/judge-claim-trumps-inaugural-committee-private-business-520380">Judge lets claim against Trump’s inaugural committee and private business move forward</a> Politico: The lawsuit filed by the District of Columbia alleges the Trump International Hotel violated Washington laws governing nonprofit organizations. 
  <p class="updated_time"> 09:01 PM CT, Nov. 08 </p> 
