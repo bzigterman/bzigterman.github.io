@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:47 AM CT, Nov. 09 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-59225086?at_medium=RSS&at_campaign=KARANGA">Toxic foam covers sacred Yamuna river in India</a> BBC: Hindu devotees are filmed bathing in the Yamuna river to mark the Chhath Puja religious festival. 
  <p class="updated_time"> 07:41 AM CT, Nov. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59215769?at_medium=RSS&at_campaign=KARANGA">Belarus migrants: EU accuses Lukashenko of gangster-style abuse</a> BBC: Two thousand migrants are at the Polish border and the EU says they are being lured there with lies. 
  <p class="updated_time"> 07:05 AM CT, Nov. 09 </p> 
@@ -131,8 +133,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/08/world/europe/europe-us-travel-ban.html">U.S. Travel Ban Ends, and Europeans Head Overseas Again</a> NYT: Europeans were kept apart from family and friends as the ban dragged on long after E.U. leaders had opened their borders. 
  <p class="updated_time"> 09:24 AM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/06/world/europe/cop-climate-protests.html">COP26 Protesters Back an Array of Causes, Connected by Climate Change</a> NYT: Thousands gathered in the rain in Glasgow to press the case for more urgent and meaningful action by world leaders in response to global warming. 
- <p class="updated_time"> 07:56 AM CT, Nov. 08 </p> 
- <a href="https://www.bbc.co.uk/news/uk-59210335?at_medium=RSS&at_campaign=KARANGA">Venus Williams: 'It's important people continue to break barriers'</a> BBC: The tennis star tells 5 Live's Rick Edwards she hopes future generations don't have to focus "on the colour of their skin". 
  <p class="updated_time"> 07:20 AM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/07/travel/us-travel-ban-reunions.html">As U.S. Travel Changes Near, Global Travelers Eagerly Await Reunions</a> NYT: On Monday, travelers from many other countries who are fully vaccinated against the coronavirus will be allowed to enter the United States. 
  <p class="updated_time"> 06:42 AM CT, Nov. 08 </p> 
@@ -202,6 +202,14 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:46 AM CT, Nov. 09 </p> 
+ <a href="https://www.politico.com/news/2021/11/09/sununu-wont-run-for-senate-520413">Sununu won't run for Senate</a> Politico: Instead, Sununu said he would seek a fourth two-year term as governor. 
+ <p class="updated_time"> 08:51 AM CT, Nov. 09 </p> 
+ <a href="https://www.nytimes.com/2021/11/08/arts/critical-race-theory-bans.html">Bans on Critical Race Theory Threaten Free Speech, Advocacy Group Says</a> NYT: A report by PEN America, which surveys more than 50 bills proposed across the country, appeals to a principle that has lost its luster for many on the left and right. 
+ <p class="updated_time"> 08:51 AM CT, Nov. 09 </p> 
+ <a href="https://www.nytimes.com/2021/11/09/us/politics/sununu-new-hampshire-governor.html">Sununu to Seek Re-election as New Hampshire Governor, Rejecting Senate Bid</a> NYT: National Republicans had been trying to recruit Gov. Chris Sununu to compete for a Democratic-held seat that the G.O.P. believed could determine control of the Senate. 
+ <p class="updated_time"> 08:37 AM CT, Nov. 09 </p> 
+ <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WoNpfkk4c_s/index.html">Republican congressman posts video depicting violence against Ocasio-Cortez and Biden</a> CNN: Republican Rep. Paul Gosar posted a photoshopped anime video to his Twitter and Instagram accounts showing him appearing to kill Democratic Rep. Alexandria Ocasio-Cortez and attacking President Joe Biden. 
  <p class="updated_time"> 08:21 AM CT, Nov. 09 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-09/biden-commerce-chief-says-u-k-japan-steel-talks-to-start-soon">Biden Commerce Chief Says U.K., Japan Steel Talks to Start Soon</a> Bloomberg: The U.S. expects to begin talks with the U.K. and Japan aimed at addressing the nations’ objections to steel and aluminum tariffs “reasonably soon,” and any solution must protect the American industries, President Joe Biden’s commerce chief said. 
  <p class="updated_time"> 08:09 AM CT, Nov. 09 </p> 
@@ -218,8 +226,6 @@ permalink: /projects/news/
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/cY1S9LREd9o/index.html">Judge denies Trump's overnight request for injunction in executive privilege case, still needs to rule on main case</a> CNN: Former President Donald Trump's latest procedural attempt to keep secret documents from his presidency about the January 6 insurrection quickly failed overnight. 
  <p class="updated_time"> 07:24 AM CT, Nov. 09 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/11/09/senate-schedule-seasonally-depressing-495031">Senate schedule: seasonally depressing</a> Politico: A play-by-play preview of the day&#39;s congressional news 
- <p class="updated_time"> 07:16 AM CT, Nov. 09 </p> 
- <a href="https://www.nytimes.com/2021/11/08/arts/critical-race-theory-bans.html">Bans on Critical Race Theory Threaten Free Speech, Advocacy Group Says</a> NYT: A report by PEN America, which surveys more than 50 bills proposed across the country, appeals to a principle that has lost its luster for many on the left and right. 
  <p class="updated_time"> 07:00 AM CT, Nov. 09 </p> 
  <a href="https://www.washingtonpost.com/dc-md-va/2021/11/09/rioters-charges-arrests-jan-6-insurrection/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Desperate, angry, destructive: How Americans morphed into a mob</a> WaPo: What we know about the people who stormed the Capitol on Jan. 6. 
  <p class="updated_time"> 06:26 AM CT, Nov. 09 </p> 
@@ -384,8 +390,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/08/1053632748/jan-6-committee-subpoenas-trump-officials-michael-flynn">Jan. 6 panel issues new wave of subpoenas for ex-Trump officials</a> NPR: Six Trump allies, including Michael Flynn and John Eastman, were issued subpoenas tied to their efforts "to overturn the results of the 2020 election," the panel said. 
  <p class="updated_time"> 03:00 PM CT, Nov. 08 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-08/biden-belt-and-road-rival-to-launch-with-5-10-flagship-projects">Biden Plans Key Projects to Challenge China’s Belt-and-Road</a> Bloomberg: The Biden administration looks to launch a global infrastructure financing program, intended to counter China’s Belt and Road initiative, with between five and 10 flagship projects announced as soon as January, a senior U.S. official said Monday. 
- <p class="updated_time"> 02:56 PM CT, Nov. 08 </p> 
- <a href="https://www.nytimes.com/2021/11/06/us/politics/infrastructure-black-caucus-vote.html">How a $1 Trillion Infrastructure Bill Survived an Intraparty Brawl</a> NYT: Speaker Nancy Pelosi agreed to a deal proposed by the Congressional Black Caucus, mobilizing one faction of Democratic lawmakers to win over two others. 
  <p class="updated_time"> 02:52 PM CT, Nov. 08 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8FYSx78kPO0/index.html">Supreme Court hears arguments in case brought by Muslims alleging federal government illegally spied on them</a> CNN: The Supreme Court grappled Monday with an attempt by three Muslim men to sue the federal government for hiring a confidential informant to secretly engage in electronic surveillance and gather information about Muslims in their neighborhood in violation of their religious rights. 
  <p class="updated_time"> 02:48 PM CT, Nov. 08 </p> 
@@ -442,8 +446,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/08/1053442912/rep-gottheimer-is-confident-democrats-will-work-out-the-social-spending-bill">Rep. Gottheimer is confident Democrats will work out the social spending bill</a> NPR: Moderate Democrat Rep. Josh Gottheimer of New Jersey tells NPR's Rachel Martin that he will wait to see how the Congressional Budget Office scores the plan before he commits to giving it his vote. 
  <p class="updated_time"> 06:05 AM CT, Nov. 08 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/08/big-obstacles-await-biden-after-big-win-495012">POLITICO Playbook: Big obstacles await Biden after big win</a> Politico: And midterm elections are a year from today. 
- <p class="updated_time"> 05:48 AM CT, Nov. 08 </p> 
- <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/i9Ydbx0FfR0/index.html">Jill Biden's child vaccine tour will include push for more children vaccination sites</a> CNN: First lady Jill Biden and US Surgeon General Dr. Vivek Murthy will make a push for boosting the number of Covid-19 vaccination sites for children Monday as they kick off a nationwide administration effort to encourage vaccines for the nation's youngest and newly eligible candidates. 
  <p class="updated_time"> 04:31 AM CT, Nov. 08 </p> 
  <a href="https://www.politico.com/news/2021/11/08/voting-rule-democrats-antitrust-519767">‘Zombies’ to the rescue: The arcane voting rule that could save Dems’ antitrust agenda</a> Politico: Former Democratic Commissioner Rohit Chopra left behind more than a dozen motions he wants the Federal Trade Commission to carry out, spawning a debate on whether his votes should still count. 
  <p class="updated_time"> 04:30 AM CT, Nov. 08 </p> 
