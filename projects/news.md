@@ -7,10 +7,10 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:35 AM CT, Nov. 09 </p> 
+ <a href="https://www.nytimes.com/2021/11/09/world/asia/india-covid-vaccinations.html">India Risks Covid-19 Complacency After Its Vaccine Campaign</a> NYT: The success represents a major victory for Narendra Modi’s government, but a recent slowdown in new vaccinations has sparked worries. 
  <p class="updated_time"> 04:05 AM CT, Nov. 09 </p> 
  <a href="https://www.nytimes.com/2021/11/09/world/asia/singapore-unvaccinated-covid.html">Singapore to End Free Covid Treatment for Those 'Unvaccinated by Choice'</a> NYT: The change, which takes effect on Dec. 8, comes as the number of severe cases has stabilized but remains high, the Health Ministry said. 
- <p class="updated_time"> 04:00 AM CT, Nov. 09 </p> 
- <a href="https://www.nytimes.com/2021/11/09/world/asia/india-covid-vaccinations.html">India Risks Covid-19 Complacency After Its Vaccine Campaign</a> NYT: The success represents a major victory for Narendra Modi’s government, but a recent slowdown in new vaccinations has sparked worries. 
  <p class="updated_time"> 04:00 AM CT, Nov. 09 </p> 
  <a href="https://www.nytimes.com/2021/11/09/style/bollywood-actor-richard-klein.html">How a 55-Year-Old California Teacher Became a Bollywood Actor </a> NYT: Richard Klein left behind his life as a Hebrew day school teacher in California and became an actor in Mumbai, often playing a “mean British officer.” 
  <p class="updated_time"> 03:56 AM CT, Nov. 09 </p> 
@@ -46,7 +46,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:52 PM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/world/europe/france-catholic-church-compensate-sex-abuse-victims.html">French Catholic Church Will Sell Assets to Compensate Abuse Victims</a> NYT: The measure was one of several measures announced by French bishops, one month after a landmark report on sexual abuse by clergy members in France. 
  <p class="updated_time"> 06:45 PM CT, Nov. 08 </p> 
- <a href="https://www.nytimes.com/2021/11/08/travel/usa-travel-restrictions.html">With Tears, Hugs and Balloons, US Allows Vaccinated Foreign Travelers to Enter</a> NYT: On Monday, after more than 18 months, restrictions that kept families separated and cost the global travel industry hundreds of billions of dollars were lifted. 
+ <a href="https://www.nytimes.com/2021/11/08/travel/usa-travel-restrictions.html">U.S. Allows Vaccinated Foreign Travelers to Enter</a> NYT: On Monday, after more than 18 months, restrictions that kept families separated and cost the global travel industry hundreds of billions of dollars were lifted. 
  <p class="updated_time"> 06:43 PM CT, Nov. 08 </p> 
  <a href="https://www.bbc.co.uk/news/health-59204831?at_medium=RSS&at_campaign=KARANGA">Regular 10pm bedtime linked to lower heart risk</a> BBC: Synchronising sleep to match our internal body clock appears to be good for the heart, claim scientists. 
  <p class="updated_time"> 06:35 PM CT, Nov. 08 </p> 
@@ -212,6 +212,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 04:30 AM CT, Nov. 09 </p> 
  <a href="https://www.politico.com/news/2021/11/09/senate-dems-year-end-train-wreck-520275">Welcome to the Senate’s year-end to-do list: ‘It’s going to be a train wreck’</a> Politico: Ho, ho, oh no. Long nights, weekend work and threatened holidays are a Capitol tradition, and this year is likely no exception. 
+ <p class="updated_time"> 04:20 AM CT, Nov. 09 </p> 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-09/iran-backed-houthis-said-to-detain-25-yemenis-working-for-u-s">Iran-backed Houthis Detain 25 Yemenis Working for U.S.</a> Bloomberg: At least 25 Yemenis working for the U.S. in Sanaa have been detained by Iran-backed Houthi rebels who control the capital, two people familiar with the situation said. 
  <p class="updated_time"> 04:00 AM CT, Nov. 09 </p> 
  <a href="https://www.nytimes.com/2021/11/09/us/politics/trucker-shortage-supply-chain.html">The Biggest Kink in America’s Supply Chain: Not Enough Truckers</a> NYT: Long hours and uncomfortable working conditions are leading to a shortage of truck drivers, which has compounded shipping delays in the United States. 
  <p class="updated_time"> 04:00 AM CT, Nov. 09 </p> 
@@ -390,8 +392,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/07/us/politics/republican-party-trump.html">Republicans, Basking in Tuesday’s Victories, Diverge on What Comes Next</a> NYT: Looming over a gathering of Jewish conservatives in Las Vegas were questions about whether former President Donald J. Trump should remain the face of the party. 
  <p class="updated_time"> 10:50 AM CT, Nov. 08 </p> 
  <a href="https://www.npr.org/2021/11/08/1053548074/big-bird-covid-19-vaccine-conservative-backlash-ted-cruz">Big Bird got 'vaccinated' against COVID-19, drawing outrage from Republicans</a> NPR: Big Bird, who is technically 6 years old, got his COVID-19 vaccine over the weekend. His announcement did not sit well with conservatives like Sen. Ted Cruz, who called it "government propaganda." 
- <p class="updated_time"> 10:25 AM CT, Nov. 08 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-08/chile-starts-key-pinera-impeachment-session-with-13-hour-speech">Chile Impeachment Push Is On With 13-Hour Opposition Speech</a> Bloomberg: Chile’s lower house prolonged its voting session on an impeachment motion against President Sebastian Pinera with a marathon speech aimed at giving a key opposition lawmaker time to arrive at congress. 
  <p class="updated_time"> 10:21 AM CT, Nov. 08 </p> 
  <a href="https://www.washingtonpost.com/politics/2021/11/08/more-confirmation-that-gop-under-trump-is-hostage-situation/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">The GOP under Trump is a hostage situation</a> WaPo: Yet another report indicates Trump threatened to switch parties. And the denials aren't adding up. 
  <p class="updated_time"> 10:21 AM CT, Nov. 08 </p> 
