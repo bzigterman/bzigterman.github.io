@@ -216,10 +216,14 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:30 PM CT, Nov. 08 </p> 
+ <a href="https://www.nytimes.com/2021/11/08/us/politics/jill-biden-kids-vaccine.html">Jill Biden Kicks Off Covid Vaccine Campaign for Young Children</a> NYT: The first lady and the surgeon general visited an elementary school in Virginia as part of a strategy to enlist schools in promoting the vaccine. 
  <p class="updated_time"> 09:21 PM CT, Nov. 08 </p> 
  <a href="https://www.washingtonpost.com/politics/republicans-gosar-trump-ocasio-cortez/2021/11/08/ead37b36-40ca-11ec-9ea7-3eb2406a2e24_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Rep. Paul Gosar tweets photoshopped anime video showing him killing Rep. Ocasio-Cortez and attacking President Biden</a> WaPo: The Arizona Republican’s tweeting of the video prompted condemnation and calls for his Twitter account to be suspended for glorification of violence. 
  <p class="updated_time"> 09:10 PM CT, Nov. 08 </p> 
  <a href="https://www.politico.com/news/2021/11/08/judge-claim-trumps-inaugural-committee-private-business-520380">Judge lets claim against Trump’s inaugural committee and private business move forward</a> Politico: The lawsuit filed by the District of Columbia alleges the Trump International Hotel violated Washington laws governing nonprofit organizations. 
+ <p class="updated_time"> 09:06 PM CT, Nov. 08 </p> 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-09/taliban-foreign-minister-muttaqi-to-visit-pakistan-on-nov-10">Taliban Foreign Minister Muttaqi to Visit Pakistan on Nov. 10</a> Bloomberg: A delegation led by the Taliban’s acting foreign minister Amir Khan Muttaqi will visit Pakistan tomorrow to discuss bilateral ties, meeting with officials there for the first time since the militant group swept to power in Afghanistan in August. 
  <p class="updated_time"> 09:01 PM CT, Nov. 08 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wcXTysw90u4/index.html">CNN Poll: Majority of Americans say Biden isn't paying attention to nation's most important issues</a> CNN: One year out from the 2022 midterm elections, 58% of Americans say President Joe Biden hasn't paid enough attention to the nation's most important problems, as a majority disapproves of the way he's handling his job as President, according to a new CNN Poll conducted by SSRS. 
  <p class="updated_time"> 08:53 PM CT, Nov. 08 </p> 
@@ -256,8 +260,6 @@ permalink: /projects/news/
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gMjvfEVt3ws/index.html">DOJ asks federal appeals court to lift temporary order blocking Covid-19 vaccine mandate</a> CNN: The White House on Monday said private companies should abide by its new vaccine mandate as a court battle plays out after a federal appeals court temporarily blocked the new rule. 
  <p class="updated_time"> 06:30 PM CT, Nov. 08 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-09/hong-kong-won-t-reopen-to-world-until-mid-2022-lam-adviser-says">Hong Kong Won’t Open to World Until Mid-2022, Lam Aide Says</a> Bloomberg: Hong Kong could open up to global travel in roughly six months, after officials have successfully navigated the introduction of quarantine-free borders with mainland China and boosted the local vaccination rate, a government adviser said. 
- <p class="updated_time"> 06:25 PM CT, Nov. 08 </p> 
- <a href="https://www.nytimes.com/2021/11/08/us/politics/jill-biden-kids-vaccine.html">Jill Biden Kicks Off Covid Vaccine Campaign for Young Children</a> NYT: The first lady and the surgeon general visited an elementary school in Virginia as part of a strategy to enlist schools in promoting the vaccine. 
  <p class="updated_time"> 06:06 PM CT, Nov. 08 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2pzftxfVv6Y/index.html">Josh Hawley and the 'left-wing attack on manhood'</a> CNN: No doubt about it, there's a lot to worry about in the country these days: Covid. Inflation. Poverty. Polarized politics. Democracy itself. 
  <p class="updated_time"> 05:40 PM CT, Nov. 08 </p> 
@@ -362,8 +364,6 @@ permalink: /projects/news/
  <a href="https://www.washingtonpost.com/politics/2021/11/08/sobering-poll-gops-embrace-coronavirus-misinformation/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">A pollster tested 8 pieces of covid misinformation. On 6 of 8, more Republicans said they were true than false.</a> WaPo: When Republicans don't believe the misinformation, it's mostly because they are unfamiliar with the claim. 
  <p class="updated_time"> 12:02 PM CT, Nov. 08 </p> 
  <a href="https://www.politico.com/news/2021/11/08/new-jerseys-midterm-carnage-520293">New Jersey’s most powerful Democratic boss predicts midterm carnage</a> Politico: George Norcross says nobody in the state predicted last week’s losses for the party. “It was just a tsunami,” he said. “Nobody saw this coming.” 
- <p class="updated_time"> 12:00 PM CT, Nov. 08 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-08/dominican-republic-calls-haiti-a-threat-cracks-down-on-migrants">Dominican Republic Calls Haiti a Threat, Cracks Down on Migrants</a> Bloomberg: The Dominican Republic is requiring hundreds of thousands of Haitians to register their whereabouts inside the country, saying the measure is to protect itself from the gang violence and unrest rattling its neighbor. 
  <p class="updated_time"> 11:34 AM CT, Nov. 08 </p> 
  <a href="https://www.washingtonpost.com/world/europe/capitol-rioter-asylum-belarus/2021/11/08/fbc4eb14-4093-11ec-9404-50a28a88b9cd_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Capitol rioter Evan Neumann applies for asylum in Belarus, local media says</a> WaPo: Neumann was presented by local media as someone who was persecuted for questioning election results. 
  <p class="updated_time"> 11:30 AM CT, Nov. 08 </p> 
