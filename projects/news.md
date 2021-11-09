@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:34 PM CT, Nov. 09 </p> 
+ <a href="https://www.nytimes.com/2021/11/09/climate/alexandria-ocasio-cortez-cop26.html">‘America Is Back’ Pelosi Says at Glasgow Climate Talks</a> NYT: Representative Alexandria Ocasio-Cortez was among a group of Democratic lawmakers who traveled with Ms. Pelosi to barnstorm the COP26 climate summit. 
  <p class="updated_time"> 12:06 PM CT, Nov. 09 </p> 
  <a href="https://www.nytimes.com/2021/11/09/world/asia/india-covid-vaccinations.html">India Risks Covid-19 Complacency After Its Vaccine Campaign</a> NYT: The success represents a major victory for Narendra Modi’s government, but a recent slowdown in new vaccinations has sparked worries. 
  <p class="updated_time"> 12:00 PM CT, Nov. 09 </p> 
@@ -29,8 +31,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/09/world/asia/singapore-unvaccinated-covid.html">Singapore to End Free Covid Treatment for Those 'Unvaccinated by Choice'</a> NYT: The change, which takes effect on Dec. 8, comes as the number of severe cases has stabilized but remains high, the Health Ministry said. 
  <p class="updated_time"> 11:09 AM CT, Nov. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59215769?at_medium=RSS&at_campaign=KARANGA">Belarus migrants: EU accuses Lukashenko of gangster-style abuse</a> BBC: Two thousand migrants are at the Polish border and the EU says they are being lured there with lies. 
- <p class="updated_time"> 11:02 AM CT, Nov. 09 </p> 
- <a href="https://www.nytimes.com/2021/11/09/climate/alexandria-ocasio-cortez-cop26.html">Alexandria Ocasio-Cortez, in Glasgow, Says She Will ‘Push’ on Climate Change</a> NYT: The New York Democrat arrived Tuesday in Glasgow with Speaker Nancy Pelosi and other lawmakers to appear at the COP26 climate talks. 
  <p class="updated_time"> 10:59 AM CT, Nov. 09 </p> 
  <a href="https://www.nytimes.com/2021/11/09/world/asia/us-release-china-zhang-zhan.html">U.S. Urges Release of Chinese Citizen Journalist Who Documented Covid</a> NYT: Zhang Zhan, who was imprisoned after exposing the failures of the government’s initial response to the coronavirus outbreak in Wuhan, is near death, friends and family say. 
  <p class="updated_time"> 10:57 AM CT, Nov. 09 </p> 
@@ -212,6 +212,12 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 01:34 PM CT, Nov. 09 </p> 
+ <a href="https://www.washingtonpost.com/politics/2021/11/09/how-republicans-can-take-back-majority-senate-house/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">How Republicans can take back the majority in the Senate and House</a> WaPo: A look at how many seats they need to win and where in the 2022 midterm elections. 
+ <p class="updated_time"> 01:34 PM CT, Nov. 09 </p> 
+ <a href="https://www.nytimes.com/2021/11/09/us/moderna-vaccine-patent-nih.html">Moderna and U.S. at Odds Over Vaccine Patent Rights</a> NYT: Moderna’s patent application names several employees as the sole inventors of a crucial component of its coronavirus vaccine, excluding three government scientists. 
+ <p class="updated_time"> 01:30 PM CT, Nov. 09 </p> 
+ <a href="https://www.washingtonpost.com/national-security/alabama-sewer-justice-investigation/2021/11/09/4a86bdce-4182-11ec-a3aa-0255edc02eb7_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Justice Dept. to investigate rural Alabama county with inadequate sewage systems</a> WaPo: Civil rights probe follows long-standing complaints of failing septic tanks and sewage backups in the mostly Black county of Lowndes. 
  <p class="updated_time"> 01:16 PM CT, Nov. 09 </p> 
  <a href="https://www.nytimes.com/2021/11/09/us/politics/trucker-shortage-supply-chain.html">The Biggest Kink in America’s Supply Chain: Not Enough Truckers</a> NYT: Long hours and uncomfortable working conditions are leading to a shortage of truck drivers, which has compounded shipping delays in the United States. 
  <p class="updated_time"> 01:08 PM CT, Nov. 09 </p> 
@@ -428,14 +434,10 @@ permalink: /projects/news/
  <a href="https://www.washingtonpost.com/politics/trump-inaugural-committee-lawsuit-claim-tossed/2021/11/08/93f5f16c-40da-11ec-9ea7-3eb2406a2e24_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Judge tosses D.C. AG’s claim that Trump inaugural committee ‘wasted’ $1 million at president’s hotel</a> WaPo: The judge will allow another part of the suit, claiming the committee misused assets for the Trump family’s gain, to continue. 
  <p class="updated_time"> 04:38 PM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/us/politics/justice-dept-ransomware.html">Justice Dept. Brings New Charges in Ransomware Attacks</a> NYT: The department said it had charged a Russian national in one attack and recovered $6.1 million in ransom. It also arrested a Ukrainian man for another attack. 
- <p class="updated_time"> 04:06 PM CT, Nov. 08 </p> 
- <a href="https://www.washingtonpost.com/politics/2021/11/08/unique-role-fox-news-misinformation-universe/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">The unique role of Fox News in the misinformation universe</a> WaPo: No other network has the same level of trust among those who embrace false claims. 
  <p class="updated_time"> 04:01 PM CT, Nov. 08 </p> 
  <a href="https://www.politico.com/news/2021/11/08/justices-narrow-ruling-mosque-surveillance-520312">Justices seek narrow ruling in mosque surveillance case</a> Politico: A suit from post-9/11 snooping on a California Muslim congregations raises questions about the scope of the Foreign Intelligence Surveillance Act. 
  <p class="updated_time"> 04:01 PM CT, Nov. 08 </p> 
  <a href="https://www.npr.org/2021/11/08/1053603338/jill-biden-covid-vaccine-kids-virginia-school-polio">Virginia school revisits its history as a polio vaccine trailblazer with COVID clinic</a> NPR: Franklin Sherman Elementary was the first school to administer the polio vaccine to kids in 1954. Now it's once again at the forefront, hosting a COVID-19 vaccine event with first lady Jill Biden. 
- <p class="updated_time"> 03:59 PM CT, Nov. 08 </p> 
- <a href="https://www.washingtonpost.com/politics/2021/11/08/republican-reps-greene-clyde-fined-again-refusing-wear-masks-house-floor/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Republican Reps. Greene, Clyde fined again for refusing to wear masks on the House floor</a> WaPo: Greene has been disciplined at least 22 times for not wearing a mask on the House floor since the rule was first established earlier this year because of the coronavirus pandemic. 
  <p class="updated_time"> 03:59 PM CT, Nov. 08 </p> 
  <a href="https://www.npr.org/2021/11/08/1053647230/u-s-and-egypt-meet-for-strategic-talks">U.S. and Egypt meet for strategic talks</a> NPR: The Biden administration often says that human rights are at the center of its foreign policy. Egypt is a big test case of that, as it and the U.S. are holding high level talks. 
  <p class="updated_time"> 03:57 PM CT, Nov. 08 </p> 
@@ -458,8 +460,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/08/new-jerseys-midterm-carnage-520293">New Jersey’s most powerful Democratic boss predicts midterm carnage</a> Politico: George Norcross says nobody in the state predicted last week’s losses for the party. “It was just a tsunami,” he said. 
  <p class="updated_time"> 11:09 AM CT, Nov. 08 </p> 
  <a href="https://www.politico.com/news/2021/11/08/trump-2024-midterms-520276">Trump: 2024 announcement 'probably' coming after midterms</a> Politico: "A lot of people will be very happy," the former president told Fox News. 
- <p class="updated_time"> 11:07 AM CT, Nov. 08 </p> 
- <a href="https://www.nytimes.com/2021/11/07/us/politics/republican-party-trump.html">Republicans, Basking in Tuesday’s Victories, Diverge on What Comes Next</a> NYT: Looming over a gathering of Jewish conservatives in Las Vegas were questions about whether former President Donald J. Trump should remain the face of the party. 
  <p class="updated_time"> 10:50 AM CT, Nov. 08 </p> 
  <a href="https://www.npr.org/2021/11/08/1053548074/big-bird-covid-19-vaccine-conservative-backlash-ted-cruz">Big Bird got 'vaccinated' against COVID-19, drawing outrage from Republicans</a> NPR: Big Bird, who is technically 6 years old, got his COVID-19 vaccine over the weekend. His announcement did not sit well with conservatives like Sen. Ted Cruz, who called it "government propaganda." 
  <p class="updated_time"> 09:46 AM CT, Nov. 08 </p> 
