@@ -210,6 +210,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 01:27 AM CT, Nov. 09 </p> 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-09/duterte-daughter-withdraws-candidacy-for-mayor-in-home-city">Duterte Daughter Withdraws Candidacy for Mayor in Home City</a> Bloomberg: Philippine President Rodrigo Duterte’s daughter Sara withdrew her re-election bid for mayor of their home city, as the deadline to finalize candidacies for national positions nears. 
  <p class="updated_time"> 01:20 AM CT, Nov. 09 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-09/germany-agrees-new-rules-to-tackle-pandemic-of-unvaccinated">Germany Agrees New Rules to Tackle ‘Pandemic of Unvaccinated’</a> Bloomberg: The three parties in talks to form the next German government agreed on a package of measures to tackle the latest surge in Covid-19 cases which seeks to avoid sweeping restrictions like school closures and curfews. 
  <p class="updated_time"> 12:12 AM CT, Nov. 09 </p> 
@@ -241,7 +243,7 @@ permalink: /projects/news/
  <p class="updated_time"> 09:45 PM CT, Nov. 08 </p> 
  <a href="https://www.washingtonpost.com/politics/house-jan-6-committee-issues-subpoenas-to-6-top-trump-advisers-including-pair-involved-in-willard-hotel-command-center/2021/11/08/6e91b0f2-40a6-11ec-a88e-2aa4632af69b_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">House Jan. 6 committee issues subpoenas to 6 top Trump advisers, including pair involved in Willard hotel ‘command center’</a> WaPo: Those subpoenaed include scholar John Eastman, author of a legal strategy to deny Biden the presidency, and former New York police commissioner Bernard Kerik. 
  <p class="updated_time"> 09:38 PM CT, Nov. 08 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-09/china-s-covid-zero-turns-more-elusive-as-symptom-free-cases-grow">China’s Covid Zero Turns More Elusive as Symptom-Free Cases Grow</a> Bloomberg: China reported more infections in people who exhibited no symptoms of Covid-19 on Tuesday than in those who were actively suffering from the virus, indicating the challenge it faces in eliminating the highly infectious and insidious pathogen. 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-09/china-s-covid-zero-turns-more-elusive-as-symptom-free-cases-grow">China’s Growing Symptom-Free Cases Make Covid Zero More Elusive</a> Bloomberg: China reported more Covid-19 infections in people who exhibited no symptoms on Tuesday than in those who were actively suffering from the virus, showing the challenge it faces in continuing to try and eliminate the highly infectious and insidious pathogen. 
  <p class="updated_time"> 09:30 PM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/us/politics/jill-biden-kids-vaccine.html">Jill Biden Kicks Off Covid Vaccine Campaign for Young Children</a> NYT: The first lady and the surgeon general visited an elementary school in Virginia as part of a strategy to enlist schools in promoting the vaccine. 
  <p class="updated_time"> 09:30 PM CT, Nov. 08 </p> 
@@ -344,8 +346,6 @@ permalink: /projects/news/
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/O3tKG3pCKP4/index.html">US Capitol rioter who fled to Belarus says he may seek asylum there</a> CNN: A California man who is wanted by the FBI for allegedly assaulting police officers during the US Capitol insurrection says he is considering seeking asylum in Belarus because he is the target of "political persecution," according to Belarus state television. 
  <p class="updated_time"> 02:39 PM CT, Nov. 08 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-08/capitol-riot-panel-subpoenas-trump-allies-flynn-kerik-in-probe">Capitol Riot Panel Subpoenas Trump Allies Including Flynn, Kerik, Eastman</a> Bloomberg: The House committee investigating the Jan. 6 insurrection at the U.S. Capitol has subpoenaed six campaign aides and supporters of former President Donald Trump, including former National Security adviser Michael Flynn and former New York City Police Commissioner Bernard Kerik. 
- <p class="updated_time"> 02:27 PM CT, Nov. 08 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-08/spac-tied-to-trump-s-media-venture-seeks-wall-street-backing">SPAC Tied to Trump’s Media Venture Seeks Wall Street Backing</a> Bloomberg: The blank-check company tied to Donald Trump’s new media venture has already won the support of retail traders who have sent the stock up almost 500%. Now, big Wall Street investors are getting another opportunity to pile in, even as some financial firms have distanced themselves from doing business with the former U.S. president. 
  <p class="updated_time"> 02:13 PM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/business/randal-quarles-fed.html">Randal Quarles, Fed Governor, to Resign in December</a> NYT: Mr. Quarles’s term as a governor could have stretched until 2032. His departure will give the Biden administration more room to remake the Fed. 
  <p class="updated_time"> 02:13 PM CT, Nov. 08 </p> 
