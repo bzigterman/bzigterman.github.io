@@ -48,7 +48,7 @@ permalink: /projects/news/
  <p class="updated_time"> 08:47 AM CT, Nov. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59225086?at_medium=RSS&at_campaign=KARANGA">Toxic foam covers sacred Yamuna river in India</a> BBC: Hindu devotees are filmed bathing in the Yamuna river to mark the Chhath Puja religious festival. 
  <p class="updated_time"> 08:01 AM CT, Nov. 09 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-59220687?at_medium=RSS&at_campaign=KARANGA">COP26: World on track for 2.4C warming despite climate summit - report</a> BBC: New analysis of pledges at COP26 suggest no government is doing enough to limit temperature rise. 
+ <a href="https://www.bbc.co.uk/news/science-environment-59220687?at_medium=RSS&at_campaign=KARANGA">COP26: World headed for 2.4C warming despite climate summit - report</a> BBC: New analysis of pledges at COP26 suggest no government is doing enough to limit temperature rise. 
  <p class="updated_time"> 07:12 AM CT, Nov. 09 </p> 
  <a href="https://www.wsj.com/articles/nicaraguas-shift-towards-dictatorship-is-part-of-a-latin-american-backslide-11636476080">Nicaragua's Autocratic Shift Is Part of a Latin American Backslide</a> WSJ: President Daniel Ortega’s victory in elections that the U.S. called a sham is the latest evidence that the region’s democracy is unraveling amid waning U.S. influence, political analysts say. 
  <p class="updated_time"> 07:05 AM CT, Nov. 09 </p> 
@@ -212,22 +212,32 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
- <p class="updated_time"> 12:14 PM CT, Nov. 09 </p> 
+ <p class="updated_time"> 12:24 PM CT, Nov. 09 </p> 
  <a href="https://www.nytimes.com/2021/11/09/us/politics/max-cleland-dead.html">Max Cleland, Vietnam Veteran and Former Senator, Dies at 79</a> NYT: He lost both legs and an arm in the war. Republicans impugned his patriotism by linking him to Osama bin Laden in an infamous TV spot. 
+ <p class="updated_time"> 12:20 PM CT, Nov. 09 </p> 
+ <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/cY1S9LREd9o/index.html">Judge denies Trump's overnight request for injunction in executive privilege case, still needs to rule on main case</a> CNN: Former President Donald Trump's latest procedural attempt to keep secret documents from his presidency about the January 6 insurrection quickly failed overnight. 
+ <p class="updated_time"> 12:16 PM CT, Nov. 09 </p> 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-09/high-court-grapples-with-religious-rights-in-execution-chamber">Supreme Court Grapples With Religious Rights in Execution Chamber</a> Bloomberg: The U.S. Supreme Court grappled with the religious rights of death-row inmates in the execution chamber, as the justices weighed a request by a Texas prisoner to have his Baptist pastor pray aloud and place his hands on the man during the lethal injection. 
+ <p class="updated_time"> 12:16 PM CT, Nov. 09 </p> 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-09/lifting-vaccinations-can-help-head-off-holiday-surge-fauci-says">More Vaccinations Can Help Head Off Holiday Covid Surge, Fauci Says</a> Bloomberg: Stepping up the rate of Covid-19 vaccinations and boosters can help avoid a holiday surge in new cases that have dropped to a plateau of about 70,000 a day, White House medical adviser Anthony Fauci said. 
+ <p class="updated_time"> 12:13 PM CT, Nov. 09 </p> 
+ <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SZI38gy7tGQ/index.html">Biden administration announcing actions to alleviate supply chain issues at nation's ports</a> CNN: The Biden administration announced a new set of immediate and short-term actions Tuesday aimed at alleviating supply chain issues at the nation's ports, waterways and freight networks as the administration takes steps to implement the newly passed, but not yet signed, bipartisan infrastructure bill. 
+ <p class="updated_time"> 12:10 PM CT, Nov. 09 </p> 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-09/un-says-16-staff-members-detained-in-ethiopia-as-crisis-worsens">UN Says 16 Staff Members Detained in Ethiopia as Crisis Worsens</a> Bloomberg: The United Nations said Tuesday that 16 staff members have been detained in Ethiopia’s capital while six others held earlier have been released, as the conflict in the East African nation worsens. 
  <p class="updated_time"> 12:02 PM CT, Nov. 09 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/B4jbhNAVlq0/index.html">Republicans who voted for Biden's infrastructure bill come under fire from Trump </a> CNN: Former President Donald Trump privately criticized on Monday night the 13 Republicans who voted to pass the $1.2 trillion infrastructure bill, questioning why they would give President Joe Biden a win when he's struggling in the polls, according to a GOP source. 
  <p class="updated_time"> 12:01 PM CT, Nov. 09 </p> 
  <a href="https://www.washingtonpost.com/politics/pelosi-calls-for-investigations-of-gosars-video-that-depicts-him-killing-ocasio-cortez/2021/11/09/5d5f3538-417e-11ec-9ea7-3eb2406a2e24_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Pelosi calls for investigations of Gosar’s video that depicts him killing Ocasio-Cortez</a> WaPo: In a tweet, the House speaker urged House Minority Leader Kevin McCarthy (R-Calif.) to support ethics and law enforcement investigations. 
  <p class="updated_time"> 12:00 PM CT, Nov. 09 </p> 
  <a href="https://www.politico.com/news/2021/11/09/trump-officials-hatch-act-violated-520420">Watchdog: 13 Trump officials violated Hatch Act during 2020 campaign</a> Politico: The list includes several cabinet officials and top White House aides, including Trump’s former Secretary of State Mike Pompeo, chief of staff Mark Meadows and press secretary Kayleigh McEnany. 
+ <p class="updated_time"> 12:00 PM CT, Nov. 09 </p> 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-09/mexico-s-president-proposes-1-trillion-global-fund-for-poor">Mexico’s President Proposes $1 Trillion Global Fund for Poor</a> Bloomberg: Mexico’s President Andres Manuel Lopez Obrador proposed the creation of a global fund of $1 trillion to aid the world’s poor during a speech to the United Nations Security Council on Tuesday. 
  <p class="updated_time"> 11:59 AM CT, Nov. 09 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-09/former-trump-officials-violated-hatch-act-during-2020-election">Former Trump Officials Violated Hatch Act During 2020 Election, OSC Says</a> Bloomberg: High-ranking officials in the Trump administration, including former senior adviser Jared Kushner and former National Security Advisor Robert O’Brien and chief of staff Mark Meadows, violated federal law with their political activities, the U.S. Office of the Special Counsel said in a report Tuesday. 
  <p class="updated_time"> 11:55 AM CT, Nov. 09 </p> 
  <a href="https://www.npr.org/2021/11/09/1053895408/paul-gosar-alexandria-ocasio-cortez-anime-twitter-video-backlash">Rep. Paul Gosar shared an anime video of himself killing AOC. This was her response</a> NPR: The video shows Gosar's character killing Rep. Alexandria Ocasio-Cortez with a sword and brandishing weapons at President Biden. Twitter says it violates its hateful conduct rules but has left it up. 
  <p class="updated_time"> 11:53 AM CT, Nov. 09 </p> 
  <a href="https://www.nytimes.com/2021/11/09/us/politics/pfizer-booster-approval-adults.html">Pfizer Expected to Ask for Authorization for Boosters for All Adults</a> NYT: An advisory panel to the Food and Drug Administration voted against a similar request from Pfizer in mid-September, but the agency is considered likely to grant the request, perhaps before Thanksgiving. 
- <p class="updated_time"> 11:46 AM CT, Nov. 09 </p> 
- <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SZI38gy7tGQ/index.html">Biden administration announcing actions to alleviate supply chain issues at nation's ports</a> CNN: The Biden administration announced a new set of immediate and short-term actions Tuesday aimed at alleviating supply chain issues at the nation's ports, waterways and freight networks as the administration takes steps to implement the newly passed, but not yet signed, bipartisan infrastructure bill. 
  <p class="updated_time"> 11:39 AM CT, Nov. 09 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-09/infrastructure-bill-sparks-return-of-u-s-debt-ceiling-concern">Infrastructure Bill Sparks Return of U.S. Debt-Ceiling Concern</a> Bloomberg: A seemingly innocuous point in the Biden administration’s infrastructure bill has rate-market investors once again sharpening their focus on exactly when the U.S. government might breach its borrowing limit. 
  <p class="updated_time"> 11:39 AM CT, Nov. 09 </p> 
@@ -288,8 +298,6 @@ permalink: /projects/news/
  <a href="https://www.bloomberg.com/news/articles/2021-11-09/governor-sununu-to-run-for-re-election-rather-than-seek-senate">New Hampshire Governor to Run for Re-Election Rather Than U.S. Senate</a> Bloomberg: New Hampshire Governor Chris Sununu, a Republican, said he’s seeking a fourth term rather than making a bid for the U.S. Senate in a closely-watched move that could affect the fight over control of the Senate in next year’s midterms. 
  <p class="updated_time"> 09:14 AM CT, Nov. 09 </p> 
  <a href="https://www.nytimes.com/2021/11/09/us/politics/where-is-newsom-california.html">Where Is Gavin Newsom, California's Governor?</a> NYT: He’s in the office, according to increasingly frustrated staff members. But his critics on Twitter aren’t buying it. 
- <p class="updated_time"> 09:07 AM CT, Nov. 09 </p> 
- <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/cY1S9LREd9o/index.html">Judge denies Trump's overnight request for injunction in executive privilege case, still needs to rule on main case</a> CNN: Former President Donald Trump's latest procedural attempt to keep secret documents from his presidency about the January 6 insurrection quickly failed overnight. 
  <p class="updated_time"> 08:55 AM CT, Nov. 09 </p> 
  <a href="https://www.npr.org/2021/11/09/1053847935/congress-cars-drunk-driving-auto">Congress' new mandate to carmakers: Figure out a way to stop drunk driving</a> NPR: Under the legislation, monitoring systems to stop intoxicated drivers would roll out in all new vehicles as early as 2026. "It's monumental," said Alex Otte of Mothers Against Drunk Driving. 
  <p class="updated_time"> 08:51 AM CT, Nov. 09 </p> 
@@ -322,12 +330,8 @@ permalink: /projects/news/
  <a href="https://www.bloomberg.com/news/articles/2021-11-09/harris-courts-bigger-role-on-global-stage-with-visit-to-france">Kamala Harris Courts Bigger Role on Global Stage With Visit to France</a> Bloomberg: Vice President Kamala Harris is embarking on five days of personal diplomacy in France as she aims to raise her international profile and continue healing a rift between the U.S. and its oldest ally. 
  <p class="updated_time"> 05:32 AM CT, Nov. 09 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-09/orban-to-lock-in-prosecutor-ally-before-close-hungarian-election">Orban Locks In Prosecutor Ally Before Close Hungary Election</a> Bloomberg: Hungarian Prime Minister Viktor Orban moved to lock in another close ally in a key position before general elections where a resurgent opposition is looking to roll back his consolidation of power. 
- <p class="updated_time"> 05:09 AM CT, Nov. 09 </p> 
- <a href="https://www.bloomberg.com/news/newsletters/2021-11-09/putin-s-latest-troublemaking-worries-the-west">Putin’s Latest Troublemaking Worries the West</a> Bloomberg: The West is asking itself once again &mdash; what does Vladimir Putin want? 
  <p class="updated_time"> 05:06 AM CT, Nov. 09 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0kWKt2tq_Fc/index.html">Harris tasked with the next phase of cleaning up Biden administration's French faux pas</a> CNN: When President Barack Obama's decision to scrap a planned missile defense system in the fall of 2009 left a pair of European allies feeling jilted, Vice President Joe Biden embarked on a three-day tour to coax relations back to health. 
- <p class="updated_time"> 05:02 AM CT, Nov. 09 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-09/why-turmoil-in-belarus-is-spilling-over-its-borders-quicktake">Why Turmoil in Belarus Is Spilling Over Its Borders</a> Bloomberg: He may be a throwback to a different era, but Belarusian President Alexander Lukashenko is a man with staying power who has become a problem for Europe on its eastern flank. 
  <p class="updated_time"> 04:31 AM CT, Nov. 09 </p> 
  <a href="https://www.politico.com/news/2021/11/09/biden-unvaccinated-workers-covid-testing-520344">Biden plan to make unvaccinated workers pay for Covid testing could backfire</a> Politico: The prospect of hitting businesses with new testing costs as many struggle to staff back up could harden opposition to Biden’s plan, and hamper the president’s latest push to end the pandemic. 
  <p class="updated_time"> 04:30 AM CT, Nov. 09 </p> 
@@ -350,10 +354,6 @@ permalink: /projects/news/
  <a href="https://www.washingtonpost.com/politics/2021/11/09/false-claim-that-only-11-percent-infrastructure-bill-goes-real-infrastructure/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">The false claim that only 11 percent of the infrastructure bill goes to ‘real infrastructure’</a> WaPo: Former president Donald Trump knocked passage of the infrastructure plan, but by the metrics he used as president, nearly 40 percent would qualify as "real infrastructure" — and the percentage could even be double that figure. 
  <p class="updated_time"> 01:58 AM CT, Nov. 09 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-09/european-gas-price-slides-on-signs-some-russian-flows-increase">European Gas Slides as Russia Progressively Steps Up Exports</a> Bloomberg: European natural gas prices slipped on signs Russia may be starting to gradually deliver the boost in supplies President Vladimir Putin promised. 
- <p class="updated_time"> 01:45 AM CT, Nov. 09 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-09/american-jailed-in-russia-goes-on-hunger-strike-family-says">American Jailed in Russia Goes on Hunger Strike, Family Says</a> Bloomberg: A former U.S. marine imprisoned in Russia has gone on hunger strike to protest his conditions in jail, his family said. Prison officials denied that. 
- <p class="updated_time"> 01:20 AM CT, Nov. 09 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-09/germany-agrees-new-rules-to-tackle-pandemic-of-unvaccinated">Germany Agrees Rules to Tackle ‘Pandemic of Unvaccinated’</a> Bloomberg: The three parties in talks to form the next German government agreed on a package of measures they could deploy to tackle a record surge in Covid-19 cases which seeks to avoid sweeping restrictions like school closures and curfews. 
  <p class="updated_time"> 12:12 AM CT, Nov. 09 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/XYQmsjtih0w/index.html">Analysis: Covid-19 vaccine debate takes a strange turn</a> CNN: The Covid-19 vaccine debate is getting weird. On Twitter, Texas Republican Sen. Ted Cruz accused Big Bird of pushing "Government propaganda...for your 5 year old!" after the Muppet tweeted about getting the shot in his wing. 
  <p class="updated_time"> 12:05 AM CT, Nov. 09 </p> 
@@ -428,8 +428,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/08/1053647230/u-s-and-egypt-meet-for-strategic-talks">U.S. and Egypt meet for strategic talks</a> NPR: The Biden administration often says that human rights are at the center of its foreign policy. Egypt is a big test case of that, as it and the U.S. are holding high level talks. 
  <p class="updated_time"> 03:57 PM CT, Nov. 08 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-08/biden-lacks-tools-to-fix-rising-pump-prices-loathed-by-voters">Biden Faces a Political Risk in Rising Gas Prices, With Few Options to Respond</a> Bloomberg: The increase in oil and gasoline prices threatens the U.S. economic rebound and poses a political risk for President Joe Biden. But his options for taming the surge are limited, and many of them would be either short-lived or conflict with his agenda of fighting climate change. 
- <p class="updated_time"> 03:46 PM CT, Nov. 08 </p> 
- <a href="https://www.politico.com/news/2021/11/08/jan-6-committee-subpoenas-trump-allies-520315">Jan. 6 committee subpoenas Trump allies linked to D.C. 'war room'</a> Politico: The latest batch targets a mix of people who worked on Donald Trump’s campaign and others who strategized how to overturn election results from the outside. 
  <p class="updated_time"> 03:20 PM CT, Nov. 08 </p> 
  <a href="https://www.npr.org/2021/11/08/1053647213/daniel-ortega-has-won-the-nicaragua-presidency-in-an-election-many-say-was-a-sha">Daniel Ortega has won the Nicaragua presidency in an election many say was a sham</a> NPR: Nicaragua's leader Daniel Ortega says he was overwhelmingly elected president for a fourth consecutive term Sunday. But critics, including leaders around the world, say the elections were a sham. 
  <p class="updated_time"> 03:20 PM CT, Nov. 08 </p> 
@@ -568,8 +566,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/02/end-of-sinema-manchin-manchema-518569">The end of Manchema</a> Politico: Once united on cutting the cost of their party's social spending bill, the centrists from West Virginia and Arizona are now going their own way. 
  <p class="updated_time"> 02:40 PM CT, Nov. 02 </p> 
  <a href="https://www.politico.com/news/2021/11/02/congress-standstill-shutdown-debt-518567">Congress hits ‘standstill’ as December shutdown, debt cliff near</a> Politico: "There should be a motto around here: ‘Why do today what we can do tomorrow?’ It's ridiculous," said Sen. Jon Tester. 
- <p class="updated_time"> 01:22 PM CT, Nov. 02 </p> 
- <a href="https://www.politico.com/news/2021/11/02/dems-drug-pricing-518554">‘A massive step forward’: Democrats clinch drug pricing deal</a> Politico: The new compromise deal, which is far weaker than the original House version, has the blessing of Sen. Kyrsten Sinema. 
 
 
 </details>
