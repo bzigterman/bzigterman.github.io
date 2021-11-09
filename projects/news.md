@@ -210,6 +210,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 01:20 AM CT, Nov. 09 </p> 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-09/germany-agrees-new-rules-to-tackle-pandemic-of-unvaccinated">Germany Agrees New Rules to Tackle ‘Pandemic of Unvaccinated’</a> Bloomberg: The three parties in talks to form the next German government agreed on a package of measures to tackle the latest surge in Covid-19 cases which seeks to avoid sweeping restrictions like school closures and curfews. 
  <p class="updated_time"> 12:12 AM CT, Nov. 09 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/XYQmsjtih0w/index.html">Analysis: Covid-19 vaccine debate takes a strange turn</a> CNN: The Covid-19 vaccine debate is getting weird. On Twitter, Texas Republican Sen. Ted Cruz accused Big Bird of pushing "Government propaganda...for your 5 year old!" after the Muppet tweeted about getting the shot in his wing. 
  <p class="updated_time"> 11:44 PM CT, Nov. 08 </p> 
@@ -217,7 +219,7 @@ permalink: /projects/news/
  <p class="updated_time"> 11:43 PM CT, Nov. 08 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ocUa0LJQ22A/index.html">Republican congressman details threatening voicemail he received after voting for bipartisan infrastructure bill</a> CNN: Republican Rep. Fred Upton on Monday shared a threatening voicemail he had received after voting for the bipartisan infrastructure bill last week. 
  <p class="updated_time"> 11:35 PM CT, Nov. 08 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-09/china-keeps-pressure-on-coal-mines-to-cut-prices-as-winter-nears">China Keeps Pressure on Coal Mines to Cut Prices as Winter Nears</a> Bloomberg: Beijing is maintaining pressure on coal miners to cut prices to keep a power crisis at bay as a burst of frigid weather provides a hint of the harsh winter that may be ahead. 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-09/china-keeps-pressure-on-coal-mines-to-cut-prices-as-winter-nears">China Keeps Up Pressure to Cut Coal Prices as Winter Looms</a> Bloomberg: Beijing is maintaining pressure on coal miners to cut prices to keep a power crisis at bay as a burst of frigid weather provides a hint of the harsh winter that may be ahead. 
  <p class="updated_time"> 11:10 PM CT, Nov. 08 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-09/lawmaker-tweets-anime-of-him-attacking-ocasio-cortez-biden">Lawmaker Tweets Anime of Him Attacking Ocasio-Cortez, Biden</a> Bloomberg: A Republican congressman from Arizona touched off a social media uproar after he posted a doctored version of a popular anime with him attacking President Joe Biden and Representative Alexandria Ocasio- Cortez, a New York Democrat. 
  <p class="updated_time"> 11:06 PM CT, Nov. 08 </p> 
@@ -344,8 +346,6 @@ permalink: /projects/news/
  <a href="https://www.bloomberg.com/news/articles/2021-11-08/capitol-riot-panel-subpoenas-trump-allies-flynn-kerik-in-probe">Capitol Riot Panel Subpoenas Trump Allies Including Flynn, Kerik, Eastman</a> Bloomberg: The House committee investigating the Jan. 6 insurrection at the U.S. Capitol has subpoenaed six campaign aides and supporters of former President Donald Trump, including former National Security adviser Michael Flynn and former New York City Police Commissioner Bernard Kerik. 
  <p class="updated_time"> 02:27 PM CT, Nov. 08 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-08/spac-tied-to-trump-s-media-venture-seeks-wall-street-backing">SPAC Tied to Trump’s Media Venture Seeks Wall Street Backing</a> Bloomberg: The blank-check company tied to Donald Trump’s new media venture has already won the support of retail traders who have sent the stock up almost 500%. Now, big Wall Street investors are getting another opportunity to pile in, even as some financial firms have distanced themselves from doing business with the former U.S. president. 
- <p class="updated_time"> 02:23 PM CT, Nov. 08 </p> 
- <a href="https://www.bloomberg.com/news/videos/2021-11-08/the-shadow-docket-and-how-the-supreme-court-uses-it-video">The Shadow Docket and How the Supreme Court Uses It</a> Bloomberg: The Supreme Court's Shadow Docket has been getting a lot of attention lately. In this video, we explain what the Shadow Docket is, why it exists, and how to make it more transparent. (Produced by Andrew Satter; Executive Producer Josh Block). 
  <p class="updated_time"> 02:13 PM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/business/randal-quarles-fed.html">Randal Quarles, Fed Governor, to Resign in December</a> NYT: Mr. Quarles’s term as a governor could have stretched until 2032. His departure will give the Biden administration more room to remake the Fed. 
  <p class="updated_time"> 02:13 PM CT, Nov. 08 </p> 
