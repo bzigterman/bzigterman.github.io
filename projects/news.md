@@ -235,11 +235,11 @@ permalink: /projects/news/
  <p class="updated_time"> 07:26 PM CT, Nov. 08 </p> 
  <a href="https://www.washingtonpost.com/politics/republicans-gosar-trump-ocasio-cortez/2021/11/08/ead37b36-40ca-11ec-9ea7-3eb2406a2e24_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Rep. Paul Gosar tweets photoshopped anime video showing him killing Rep. Ocasio-Cortez and attacking President Biden</a> WaPo: The Arizona Republican’s tweeting of the video prompted condemnation and calls for his Twitter account to be suspended for glorification of violence. 
  <p class="updated_time"> 07:24 PM CT, Nov. 08 </p> 
- <a href="https://www.politico.com/news/2021/11/08/biden-vaccine-covid-mandate-lives-520367">Biden administration says blocking vaccine mandate could cost hundreds of lives per day</a> Politico: The administration told a federal court that a stay of its vaccinate-or-test requirement for private employers “would likely cost dozens or even hundreds of lives per day.” 
+ <a href="https://www.politico.com/news/2021/11/08/biden-vaccine-covid-mandate-lives-520367">Biden administration: Blocking vaccine mandate could cost hundreds of lives per day</a> Politico: The administration told a federal court that a stay of its vaccinate-or-test requirement for private employers “would likely cost dozens or even hundreds of lives per day.” 
  <p class="updated_time"> 06:58 PM CT, Nov. 08 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zyOWU6zm7vo/index.html">Biden administration will waive immigration application fees for thousands of evacuated Afghans </a> CNN: The Biden administration is planning to waive immigration-related fees for up to 70,000 Afghan evacuees as they are resettled in the United States, the Department of Homeland Security said Monday. 
  <p class="updated_time"> 06:45 PM CT, Nov. 08 </p> 
- <a href="https://www.nytimes.com/2021/11/08/us/politics/employer-vaccine-mandates.html">U.S. Urges Court Not to Block Vaccine Mandate on Employers</a> NYT: The Biden Justice Department filed its case before an appeals court that has temporarily halted the measure. 
+ <a href="https://www.nytimes.com/2021/11/08/us/politics/employer-vaccine-mandates.html">US Urges Court Not to Block Vaccine Mandate on Employers</a> NYT: The Biden Justice Department filed its case before an appeals court that has temporarily halted the measure. 
  <p class="updated_time"> 06:40 PM CT, Nov. 08 </p> 
  <a href="https://www.politico.com/news/2021/11/08/buffalo-mayor-progressives-dems-520327">‘It’s a disgrace’: Progressives take aim at Buffalo mayor’s DNC post</a> Politico: Establishment Dems dismiss “sour grapes” attempt to sanction mayor who defeated a democratic socialist. 
  <p class="updated_time"> 06:35 PM CT, Nov. 08 </p> 
