@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
- <p class="updated_time"> 07:06 AM CT, Nov. 09 </p> 
+ <p class="updated_time"> 07:41 AM CT, Nov. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59215769?at_medium=RSS&at_campaign=KARANGA">Belarus migrants: EU accuses Lukashenko of gangster-style abuse</a> BBC: The warning comes after hundreds of migrants tried to cut a fence to enter Poland illegally. 
  <p class="updated_time"> 07:05 AM CT, Nov. 09 </p> 
  <a href="https://www.nytimes.com/2021/11/09/world/asia/singapore-unvaccinated-covid.html">Singapore to End Free Covid Treatment for Those 'Unvaccinated by Choice'</a> NYT: The change, which takes effect on Dec. 8, comes as the number of severe cases has stabilized but remains high, the Health Ministry said. 
@@ -202,6 +202,12 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:43 AM CT, Nov. 09 </p> 
+ <a href="https://www.nytimes.com/2021/11/09/us/politics/gavin-newsom-california.html">Where Is Gavin Newsom, California's Governor?</a> NYT: He’s in the office, according to increasingly frustrated staff members. But his critics on Twitter aren’t buying it. 
+ <p class="updated_time"> 07:38 AM CT, Nov. 09 </p> 
+ <a href="https://www.nytimes.com/2021/11/06/us/politics/defectors-infrastructure-bill-squad.html">In Infrastructure Votes, 19 Members Broke With Their Party</a> NYT: The defectors who crossed partisan lines in Congress include 13 Republicans who supported the bill and the six liberal members of “The Squad,” who opposed it. 
+ <p class="updated_time"> 07:35 AM CT, Nov. 09 </p> 
+ <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/cY1S9LREd9o/index.html">Judge denies Trump's overnight request for injunction in executive privilege case, still needs to rule on main case</a> CNN: Former President Donald Trump's latest procedural attempt to keep secret documents from his presidency about the January 6 insurrection quickly failed overnight. 
  <p class="updated_time"> 07:24 AM CT, Nov. 09 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/11/09/senate-schedule-seasonally-depressing-495031">Senate schedule: seasonally depressing</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 07:16 AM CT, Nov. 09 </p> 
@@ -464,8 +470,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/07/us/politics/afghanistan-war-marines.html">Young Marines in Kabul Were Left to Run Final Days of Evacuation</a> NYT: The young Marines in Kabul were left to determine who was evacuated from Afghanistan and who was left behind. The cost was high. 
  <p class="updated_time"> 01:13 PM CT, Nov. 07 </p> 
  <a href="https://www.nytimes.com/2021/11/06/us/politics/biden-infrastructure-speech.html">Biden Celebrates Infrastructure Win, Even if Harder Victory Is Ahead</a> NYT: “Finally! Infrastructure week!” the president declared with a broad smile. 
- <p class="updated_time"> 01:12 PM CT, Nov. 07 </p> 
- <a href="https://www.nytimes.com/2021/11/06/us/politics/defectors-infrastructure-bill-squad.html">In Infrastructure Votes, 19 Members Broke With Their Party</a> NYT: The defectors who crossed partisan lines in Congress include 13 Republicans who supported the bill and the six liberal members of “The Squad,” who opposed it. 
  <p class="updated_time"> 11:17 AM CT, Nov. 07 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/07/what-happens-in-vegas-495006">POLITICO Playbook: What happens in Vegas …</a> Politico: And a court temporarily blocks Biden’s vaccine mandate. 
  <p class="updated_time"> 10:27 AM CT, Nov. 07 </p> 
@@ -476,12 +480,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/07/biden-faces-heat-pipeline-propane-cost-519788">Pipeline pile-on: Biden faces heat from Canada, Republicans, Michigan’s governor and the price of propane</a> Politico: The president is caught between environmentalists and Indigenous groups on one side and Republicans blaming him for soaring energy prices on the other. 
  <p class="updated_time"> 07:00 AM CT, Nov. 07 </p> 
  <a href="https://www.politico.com/news/2021/11/07/miriam-adelson-megadonor-back-in-politics-519912">The $30 billion woman: Megadonor Miriam Adelson leaps back into politics</a> Politico: Adelson is taking her first political meetings since her husband Sheldon died, seeing possible 2024 candidates and a key Senate contender. 
- <p class="updated_time"> 11:10 PM CT, Nov. 06 </p> 
- <a href="https://www.nytimes.com/2021/11/06/us/politics/james-okeefe-project-veritas-ashley-biden.html">F.B.I. Searches James O’Keefe’s Home in Ashley Biden Diary Theft Inquiry</a> NYT: Authorities carried out a court-ordered search at the New York apartment of the Project Veritas founder two days after searching the homes of his associates. 
  <p class="updated_time"> 02:12 PM CT, Nov. 06 </p> 
  <a href="https://www.politico.com/news/2021/11/06/biden-vaccine-order-blocked-federal-court-519908">Federal court blocks Biden administration's vaccination mandate</a> Politico: The states of Texas, Louisiana, Mississippi, South Carolina and Utah are among the plaintiffs. 
- <p class="updated_time"> 11:54 AM CT, Nov. 06 </p> 
- <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/y2-yFcKx5oU/index.html">Biden gets his infrastructure win and an education on a new Washington</a> CNN: Final passage of a massive public works bill Friday provided President Joe Biden what had increasingly seemed like a vanishing ideal: A major, bipartisan accomplishment that has the power to improve the lives of millions of Americans. 
  <p class="updated_time"> 11:01 AM CT, Nov. 06 </p> 
  <a href="https://www.politico.com/news/2021/11/06/infrastructure-bill-build-back-better-519894">How Biden’s infrastructure win falls short in one big area</a> Politico: The bill is historic in its scope with $550 billion in new money funneled into hard infrastructure, from overhauling bridges to supercharging Amtrak's most popular rail corridor in the Northeast. 
  <p class="updated_time"> 10:26 AM CT, Nov. 06 </p> 
@@ -530,8 +530,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/04/doj-kamala-harris-jan-6-519505">DOJ error highlights Jan. 6 mystery: Where was Kamala Harris during the attack?</a> Politico: The Justice Department is now moving to correct the record on her whereabouts. 
  <p class="updated_time"> 07:46 AM CT, Nov. 04 </p> 
  <a href="https://www.politico.com/news/2021/11/04/biden-vaccine-mandates-private-employers-519477">Biden vaccine mandates will hit after holiday season, offering relief to businesses</a> Politico: The announcement follows weeks of pressure from business leaders who complained the rules would wreak havoc on the supply chain and possibly aggravate worker shortages. 
- <p class="updated_time"> 07:02 AM CT, Nov. 04 </p> 
- <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7hM3juC91kk/index.html">Harris looks to strengthen US-France ties in 'concrete ways' on Paris trip</a> CNN: Vice President Kamala Harris will pursue US efforts to strengthen a recently mended French-American relationship during a trip to Paris next week, where she will also attend a pair of international conferences. 
  <p class="updated_time"> 06:45 AM CT, Nov. 04 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/11/04/dems-attempt-an-end-of-week-spri-494981">Dems attempt an end-of-week sprint</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 05:13 AM CT, Nov. 04 </p> 
@@ -540,6 +538,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/03/senate-republicans-voting-reform-block-519082">Senate GOP blocks latest Dem push for voting reform</a> Politico: Alaska’s Lisa Murkowski was the only Republican to join Democrats on the bill named for the late Rep. John Lewis. 
  <p class="updated_time"> 12:36 PM CT, Nov. 03 </p> 
  <a href="https://www.politico.com/news/2021/11/03/democrats-virginia-congress-519051">Dems keep butting heads after Virginia shellacking</a> Politico: Most agreed that the dismal election results underscored the need to move past the infighting that’s defined their majorities for months. There’s hardly any agreement on much else. 
+ <p class="updated_time"> 07:45 AM CT, Nov. 03 </p> 
+ <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2JYk2SAnd8A/index.html">Biden administration rescinds Trump-era policy limiting migrants at legal ports of entry</a> CNN: The Department of Homeland Security has rescinded a Trump-era policy limiting entry of undocumented immigrants at legal ports of entry and released new guidance on the process, according to a recently-released memo. 
  <p class="updated_time"> 06:53 AM CT, Nov. 03 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/11/03/democrats-discontent-494962">Democrats’ discontent</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 05:22 AM CT, Nov. 03 </p> 
