@@ -224,6 +224,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/09/1053817211/justice-on-the-brink-author-considers-the-impact-of-trumps-3-supreme-court-picks">'Justice on the Brink' author considers the impact of Trump's 3 Supreme Court picks</a> NPR: Pulitzer Prize-winning journalist Linda Greenhouse says the new Court has given conservatives less than they'd hoped for, though critical cases on abortion and other issues are still pending. 
  <p class="updated_time"> 01:00 PM CT, Nov. 09 </p> 
  <a href="https://www.npr.org/2021/11/09/1053929419/feel-like-you-dont-fit-in-either-political-party-heres-why">Feel like you don't fit in either political party? Here's why</a> NPR: The division is far more complicated than a split between Republicans and Democrats, according to the Pew Research Center. Here are the differences in ideology on race, economics and government. 
+ <p class="updated_time"> 12:59 PM CT, Nov. 09 </p> 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-09/biden-trudeau-amlo-to-meet-as-north-american-borders-reopen">Biden, Trudeau, AMLO to Meet as North American Borders Reopen</a> Bloomberg: The leaders of the United States, Canada and Mexico plan to meet in-person for the first time in Joe Biden’s presidency as early as next week, according to two people familiar with the matter. 
  <p class="updated_time"> 12:53 PM CT, Nov. 09 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WoNpfkk4c_s/index.html">Republican congressman posts video depicting violence against Ocasio-Cortez, Biden</a> CNN: Republican Rep. Paul Gosar posted a photoshopped anime video to his Twitter and Instagram accounts showing him appearing to kill Democratic Rep. Alexandria Ocasio-Cortez and attacking President Joe Biden. 
  <p class="updated_time"> 12:39 PM CT, Nov. 09 </p> 
@@ -332,8 +334,6 @@ permalink: /projects/news/
  <a href="https://www.bloomberg.com/news/articles/2021-11-09/garbage-dump-becomes-latest-flashpoint-in-tunisia-s-crisis">Garbage Dump Becomes Latest Flashpoint in Tunisia’s Crisis</a> Bloomberg: Protesters set fire to a security forces building in central Tunisia, as a dispute over the reopening of a landfill morphed into some of the biggest street demonstrations to hit the North African nation since a July power grab by its president. 
  <p class="updated_time"> 06:19 AM CT, Nov. 09 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/09/a-trump-backed-senate-hopeful-takes-the-stand-495028">POLITICO Playbook: A Trump-backed Senate hopeful takes the stand</a> Politico: And the Jan. 6 committee subpoenas more Trump aides. 
- <p class="updated_time"> 06:16 AM CT, Nov. 09 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-09/u-k-moves-to-empower-regulators-to-repeal-and-replace-eu-rules">U.K. to Empower Regulators to Repeal and Replace EU Rules</a> Bloomberg: British regulators will be granted greater flexibility to update laws inherited from the European Union, as part of the U.K. government’s push to overhaul the financial industry after Brexit. 
  <p class="updated_time"> 06:16 AM CT, Nov. 09 </p> 
  <a href="https://www.politico.com/news/2021/11/09/trump-jan-6-520405">Trump makes — and loses — overnight bid to block Jan. 6 investigators</a> Politico: The Archives indicated it would turn documents over to lawmakers by Friday. 
  <p class="updated_time"> 06:13 AM CT, Nov. 09 </p> 
