@@ -211,7 +211,7 @@ permalink: /projects/news/
 <summary>Politics</summary>
 
  <p class="updated_time"> 04:30 AM CT, Nov. 09 </p> 
- <a href="https://www.politico.com/news/2021/11/09/senate-dems-year-end-train-wreck-520275">Welcome to the Senate’s year-end to-do list: ‘It’s going to be a train wreck’</a> Politico: Ho, ho, oh no. Long nights, weekend work and threatened holidays are a Capitol tradition, and this year is likely no exception. 
+ <a href="https://www.politico.com/news/2021/11/09/senate-dems-year-end-train-wreck-520275">The Senate’s year-end to-do list is 'going to be a train wreck’</a> Politico: Ho, ho, oh no. Long nights, weekend work and threatened holidays are a Capitol tradition, and this year is likely no exception. 
  <p class="updated_time"> 04:20 AM CT, Nov. 09 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-09/iran-backed-houthis-said-to-detain-25-yemenis-working-for-u-s">Iran-backed Houthis Detain 25 Yemenis Working for U.S.</a> Bloomberg: At least 25 Yemenis working for the U.S. in Sanaa have been detained by Iran-backed Houthi rebels who control the capital, two people familiar with the situation said. 
  <p class="updated_time"> 04:00 AM CT, Nov. 09 </p> 
@@ -231,7 +231,7 @@ permalink: /projects/news/
  <p class="updated_time"> 01:58 AM CT, Nov. 09 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-09/european-gas-price-slides-on-signs-some-russian-flows-increase">European Gas Prices Slide on Some Signs of Higher Russian Flows</a> Bloomberg: European natural gas prices slipped on signs Russia may be starting to gradually deliver the boost in supplies President Vladimir Putin promised. 
  <p class="updated_time"> 01:45 AM CT, Nov. 09 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-09/american-jailed-in-russia-goes-on-hunger-strike-family-says">American Jailed in Russia Goes on Hunger Strike, Family Says</a> Bloomberg: A former U.S. marine imprisoned in Russia has gone on hunger strike to protest his conditions in jail, his family said. 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-09/american-jailed-in-russia-goes-on-hunger-strike-family-says">American Jailed in Russia Goes on Hunger Strike, Family Says</a> Bloomberg: A former U.S. marine imprisoned in Russia has gone on hunger strike to protest his conditions in jail, his family said. Prison officials denied that. 
  <p class="updated_time"> 01:27 AM CT, Nov. 09 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-09/duterte-daughter-withdraws-candidacy-for-mayor-in-home-city">Duterte Daughter Withdraws Candidacy for Mayor in Home City</a> Bloomberg: Philippine President Rodrigo Duterte’s daughter Sara withdrew her re-election bid for mayor of their home city, as the deadline to finalize candidacies for national positions nears. 
  <p class="updated_time"> 01:20 AM CT, Nov. 09 </p> 
