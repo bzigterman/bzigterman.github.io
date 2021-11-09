@@ -45,8 +45,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/health-59204831?at_medium=RSS&at_campaign=KARANGA">Regular 10pm bedtime linked to lower heart risk</a> BBC: Synchronising sleep to match our internal body clock appears to be good for the heart, claim scientists. 
  <p class="updated_time"> 06:35 PM CT, Nov. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59216184?at_medium=RSS&at_campaign=KARANGA">Emotional families reunite at airport as US lifts travel ban</a> BBC: The first intercontinental flights arrived at the John F Kennedy Airport today. As families gleefully reunited, many were meeting new relatives for the first time. 
- <p class="updated_time"> 06:15 PM CT, Nov. 08 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-59205840?at_medium=RSS&at_campaign=KARANGA">Travis Scott festival tragedy: Were warning signs missed at Astroworld?</a> BBC: Concerns were raised before Travis Scott's fatal festival show. Could the tragedy have been averted? 
  <p class="updated_time"> 06:10 PM CT, Nov. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59213113?at_medium=RSS&at_campaign=KARANGA">Desperate Afghans turn to people smugglers for help fleeing the country</a> BBC: Smugglers tell the BBC the number of Afghans leaving has more than doubled since the Taliban takeover. 
  <p class="updated_time"> 06:00 PM CT, Nov. 08 </p> 
@@ -215,9 +213,11 @@ permalink: /projects/news/
  <p class="updated_time"> 02:22 AM CT, Nov. 09 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-09/u-s-envoy-back-in-ethiopia-after-african-union-warns-on-crisis">U.S. Envoy Back in Ethiopia After African Union Warns on Crisis</a> Bloomberg: The U.S. special envoy to the Horn of Africa returned to Ethiopia for further talks on ending the nation’s civil war, as the African Union warned that the window of opportunity for a political solution to the conflict is narrowing. 
  <p class="updated_time"> 02:09 AM CT, Nov. 09 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-09/indonesia-s-election-commission-sets-sights-on-polls-in-2024">Indonesia’s Election Commission Sets Sights on Polls in 2024</a> Bloomberg: Indonesia’s election commission has done simulations to hold national polls on Feb. 21, 2024, despite a lack of agreement on the date. 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-09/indonesia-s-election-commission-sets-sights-on-polls-in-2024">Indonesia’s Election Commission Sets Sights on Polls in 2024</a> Bloomberg: Indonesia’s election commission has pushed ahead with preparations for polls in 2024 amid speculation that there are plans for President Joko Widodo to extend his rule. 
  <p class="updated_time"> 02:00 AM CT, Nov. 09 </p> 
  <a href="https://www.washingtonpost.com/politics/2021/11/09/false-claim-that-only-11-percent-infrastructure-bill-goes-real-infrastructure/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">The false claim that only 11 percent of the infrastructure bill goes to ‘real infrastructure’</a> WaPo: Former president Donald Trump knocked passage of the infrastructure plan, but by the metrics he used as president, nearly 40 percent would qualify as "real infrastructure" — and the percentage could even be double that figure. 
+ <p class="updated_time"> 01:58 AM CT, Nov. 09 </p> 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-09/european-gas-price-slides-on-signs-some-russian-flows-increase">European Gas Prices Slide on Some Signs of Higher Russian Flows</a> Bloomberg: European natural gas prices slipped on signs Russia may be starting to gradually deliver the boost in supplies President Vladimir Putin promised. 
  <p class="updated_time"> 01:45 AM CT, Nov. 09 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-09/american-jailed-in-russia-goes-on-hunger-strike-family-says">American Jailed in Russia Goes on Hunger Strike, Family Says</a> Bloomberg: A former U.S. marine imprisoned in Russia has gone on hunger strike to protest his conditions in jail, his family said. 
  <p class="updated_time"> 01:27 AM CT, Nov. 09 </p> 
@@ -444,8 +444,6 @@ permalink: /projects/news/
  <a href="https://www.bloomberg.com/news/articles/2021-11-08/u-s-u-k-join-nations-sounding-alarm-over-china-import-rules">U.S., Japan Join Nations Urging Delay to China Food Import Rules</a> Bloomberg: Several countries including Japan, the U.K. and the U.S. are urging Chinese customs officials to pause the rollout of regulations on food imports, arguing the measures risk further disrupting global supply chains. 
  <p class="updated_time"> 02:00 AM CT, Nov. 08 </p> 
  <a href="https://www.washingtonpost.com/politics/2021/11/08/battle-over-bidens-child-tax-credit-its-impact-poverty-workers/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">The battle over Biden’s child tax credit and its impact on poverty and workers</a> WaPo: A fierce dispute has erupted among economists about whether the president's child-tax credit expansion will cause parents to stop working. We explain the debate. 
- <p class="updated_time"> 11:10 PM CT, Nov. 07 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-08/nicaragua-leader-ortega-hits-back-during-vote-slammed-by-biden">Nicaragua’s President Wins in Landslide After Jailing His Opponents</a> Bloomberg: Nicaraguan President Daniel Ortega won a fourth consecutive term in a landslide after jailing his most popular opponents, in a vote the U.S. and the European Parliament called a farce. 
  <p class="updated_time"> 04:01 PM CT, Nov. 07 </p> 
  <a href="https://www.npr.org/2021/11/07/1053387440/rep-ruben-gallego-talks-new-book-exploring-how-the-u-s-treats-its-veterans">Rep. Ruben Gallego talks new book exploring how the U.S. treats its veterans</a> NPR: NPR's Michel Martin speaks with Congressman Ruben Gallego about his upcoming book They Called Us "Lucky": The Life and Afterlife of the Iraq War's Hardest Hit Unit. 
  <p class="updated_time"> 03:00 PM CT, Nov. 07 </p> 
