@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:38 AM CT, Nov. 09 </p> 
+ <a href="https://www.nytimes.com/2021/11/09/world/asia/india-hospital-fire.html">India Hospital Fire Leaves at Least 4 Infants Dead</a> NYT: The blaze, in a hospital in central India on Monday night, was the latest in a series of deadly fires at health care centers in recent months. 
+ <p class="updated_time"> 09:37 AM CT, Nov. 09 </p> 
+ <a href="https://www.nytimes.com/2021/11/09/us/politics/pfizer-booster-approval-adults.html">Pfizer and BioNTech Expected to Ask for Federal Clearance for Boosters for All Adults</a> NYT: An advisory panel to the Food and Drug Administration voted against a similar request from Pfizer in mid-September, but the agency is considered likely to grant the request, perhaps before Thanksgiving. 
  <p class="updated_time"> 09:17 AM CT, Nov. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59216106?at_medium=RSS&at_campaign=KARANGA">Man shot by Kyle Rittenhouse says he pointed own gun amid fears for life</a> BBC: Gaige Grosskreutz says he believed Kyle Rittenhouse was an "active shooter" and was trying to disarm him. 
  <p class="updated_time"> 08:47 AM CT, Nov. 09 </p> 
@@ -49,6 +53,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59208301?at_medium=RSS&at_campaign=KARANGA">Hundreds of migrants at Belarus' border with Poland</a> BBC: Poland says it has stopped attempts by the large group to enter the country from Belarus. 
  <p class="updated_time"> 11:53 PM CT, Nov. 08 </p> 
  <a href="https://www.wsj.com/articles/u-s-tests-israels-iron-dome-in-guam-as-defense-against-chinese-cruise-missiles-11636455224">U.S. Tests Israel's Iron Dome in Guam as Defense Against Chinese Cruise Missiles</a> WSJ: The Iron Dome test highlights the wide range of U.S. hardware heading to the Asia-Pacific region as the Pentagon addresses a Chinese buildup that it has called its No.1 challenge. 
+ <p class="updated_time"> 10:25 PM CT, Nov. 08 </p> 
+ <a href="https://www.nytimes.com/2021/11/08/climate/obama-cop26-climate-summit.html">Barack Obama Calls for 'Ongoing Activism' In COP26 Speech</a> NYT: The former president, who helped seal the Paris climate accord, spoke at COP26 in Glasgow. 
  <p class="updated_time"> 09:56 PM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/07/world/americas/nicaragua-election-ortega.html">In Nicaragua Election, Ortega Crushes Dissent</a> NYT: President Daniel Ortega quashed the opposition and struck fear in voters, all but guaranteeing his victory in a presidential contest on Sunday. 
  <p class="updated_time"> 08:14 PM CT, Nov. 08 </p> 
@@ -85,6 +91,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/08/world/europe/france-police-officer-stabbed-cannes.html">Police Officer Stabbed on French Riviera, Authorities Say</a> NYT: Gérald Darmanin, France’s interior minister, said an assailant had stabbed an officer in Cannes. The motive for the attack was not immediately clear. 
  <p class="updated_time"> 04:38 PM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/us/politics/justice-dept-ransomware.html">Justice Dept. Brings New Charges in Ransomware Attacks</a> NYT: The department said it had charged a Russian national in one attack and recovered $6.1 million in ransom. It also arrested a Ukrainian man for another attack. 
+ <p class="updated_time"> 04:24 PM CT, Nov. 08 </p> 
+ <a href="https://www.nytimes.com/2021/11/08/climate/glasgow-climate-summit.html">Can Glasgow Deliver on a Global Climate Deal?</a> NYT: Negotiators from about 200 countries are entering Week 2 of climate talks trying to resolve big issues around money, transparency and timelines. 
  <p class="updated_time"> 03:59 PM CT, Nov. 08 </p> 
  <a href="https://www.npr.org/2021/11/08/1053647290/computer-chip-makers-cant-share-all-the-data-the-u-s-wants-for-examining-shortag">Computer chip makers can't share all the data the U.S. wants for examining shortages</a> NPR: The Commerce Department wants semiconductor makers to provide details on their products and customers in a bid to understand what's causing bottlenecks. Many companies say it may reveal trade secrets. 
  <p class="updated_time"> 03:59 PM CT, Nov. 08 </p> 
@@ -119,6 +127,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/08/1053608851/migrants-aided-by-belarus-try-to-push-across-polish-border">Migrants aided by Belarus try to push across Polish border</a> NPR: A large group of migrants sought to push their way over the border from Belarus into Poland. European Union leaders accuse the Belarusian government of organizing the illegal passage of migrants. 
  <p class="updated_time"> 01:47 PM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/07/world/europe/france-confession-abuse.html">French Clerical Abuse Report Puts Spotlight on Confession</a> NYT: In rare instances, it noted, the secrecy around the sacrament had been used to cover up abuse cases, again raising issues of whether church or state law should prevail. 
+ <p class="updated_time"> 01:34 PM CT, Nov. 08 </p> 
+ <a href="https://www.nytimes.com/2021/11/08/business/paytm-ipo.html">Paytm's Parent Company, One97 Communications, Goes Public</a> NYT: One97 Communications, the app’s parent company, has drawn interest from institutional investors as online shopping in India expands. 
  <p class="updated_time"> 01:22 PM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/us/canada-travel.html">Thousands of Canadians Head for the Southern United States Again</a> NYT: With the border opening to tourists, thousands of Canadian “snowbirds” are on their way to Florida, Arizona and California with campers in tow. 
  <p class="updated_time"> 12:10 PM CT, Nov. 08 </p> 
@@ -204,38 +214,42 @@ permalink: /projects/news/
 
  <p class="updated_time"> 09:46 AM CT, Nov. 09 </p> 
  <a href="https://www.politico.com/news/2021/11/09/sununu-wont-run-for-senate-520413">Sunu-no: Top GOP recruit won't run for Senate</a> Politico: New Hampshire Gov. Chris Sununu said Tuesday he will seek reelection, denying Republicans their top recruit of the 2022 election cycle. 
+ <p class="updated_time"> 09:37 AM CT, Nov. 09 </p> 
+ <a href="https://www.nytimes.com/2021/11/09/us/politics/pfizer-booster-approval-adults.html">Pfizer and BioNTech Expected to Ask for Federal Clearance for Boosters for All Adults</a> NYT: An advisory panel to the Food and Drug Administration voted against a similar request from Pfizer in mid-September, but the agency is considered likely to grant the request, perhaps before Thanksgiving. 
+ <p class="updated_time"> 09:35 AM CT, Nov. 09 </p> 
+ <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/R9Ll9AZCCe0/index.html">Here's what Joe Biden can actually do about gas prices</a> CNN: High gas prices are quickly becoming a political liability for President Joe Biden -- and like presidents before him, he has few options to bring them down. 
+ <p class="updated_time"> 09:35 AM CT, Nov. 09 </p> 
+ <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uIWL_ztFnUc/index.html">New Hampshire Gov. Chris Sununu declines Senate bid in significant blow for Republicans</a> CNN: New Hampshire Gov. Chris Sununu on Tuesday said he would not run against Democratic Sen. Maggie Hassan in 2022, dealing a significant blow to Republicans who hoped the seat would be a top target in the critical midterm elections. 
+ <p class="updated_time"> 09:33 AM CT, Nov. 09 </p> 
+ <a href="https://www.nytimes.com/2021/11/08/us/politics/employer-vaccine-mandates.html">US Urges Court Not to Block Vaccine Mandate on Employers</a> NYT: The Biden Justice Department filed its case before an appeals court that has temporarily halted the measure. 
+ <p class="updated_time"> 09:26 AM CT, Nov. 09 </p> 
+ <a href="https://www.washingtonpost.com/politics/new-hampshire-gov-chris-sununu-to-seek-a-fourth-term-not-run-for-senate/2021/11/09/117f870e-4155-11ec-9ea7-3eb2406a2e24_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">New Hampshire Gov. Chris Sununu to seek a fourth term, not run for Senate</a> WaPo: National party leaders had urged the Republican to take on Sen. Maggie Hassan (D) in a race they see as key to winning control of the chamber next year. 
+ <p class="updated_time"> 09:19 AM CT, Nov. 09 </p> 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-09/governor-sununu-to-run-for-re-election-rather-than-seek-senate">New Hampshire Governor to Run for Re-Election Rather Than U.S. Senate</a> Bloomberg: New Hampshire Governor Chris Sununu, a Republican, said he’s seeking a fourth term rather than making a bid for the U.S. Senate in a closely-watched move that could affect the fight over control of the Senate in next year’s midterms. 
  <p class="updated_time"> 09:14 AM CT, Nov. 09 </p> 
  <a href="https://www.nytimes.com/2021/11/09/us/politics/where-is-newsom-california.html">Where Is Gavin Newsom, California's Governor?</a> NYT: He’s in the office, according to increasingly frustrated staff members. But his critics on Twitter aren’t buying it. 
  <p class="updated_time"> 09:07 AM CT, Nov. 09 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/cY1S9LREd9o/index.html">Judge denies Trump's overnight request for injunction in executive privilege case, still needs to rule on main case</a> CNN: Former President Donald Trump's latest procedural attempt to keep secret documents from his presidency about the January 6 insurrection quickly failed overnight. 
  <p class="updated_time"> 09:07 AM CT, Nov. 09 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/IWJCK_8yw1w/index.html">Analysis: Biden has reached a critical moment in the battle for blue-collar voters</a> CNN: Just as Democrats face another round of hand-wringing about their erosion among working-class and rural White voters -- after last week's daunting election results in Virginia and New Jersey -- the long-delayed congressional approval of a historic infrastructure plan will test President Joe Biden's central theory on how the party can reverse that decline. 
- <p class="updated_time"> 09:07 AM CT, Nov. 09 </p> 
- <a href="https://www.washingtonpost.com/politics/new-hampshire-gov-chris-sununu-to-seek-a-fourth-term-not-run-for-senate/2021/11/09/117f870e-4155-11ec-9ea7-3eb2406a2e24_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">New Hampshire Gov. Chris Sununu to seek a fourth term, not run for Senate</a> WaPo: National party leaders had urged the Republican to take on Sen. Maggie Hassan (D) in a race they see as key to winning control of the chamber next year. 
- <p class="updated_time"> 09:05 AM CT, Nov. 09 </p> 
- <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uIWL_ztFnUc/index.html">New Hampshire Gov. Chris Sununu declines Senate bid in significant blow for Republicans</a> CNN: New Hampshire Gov. Chris Sununu on Tuesday said he would not run against Democratic Sen. Maggie Hassan in 2022, dealing a significant blow to Republicans who hoped the seat would be a top target in the critical midterm elections. 
  <p class="updated_time"> 09:03 AM CT, Nov. 09 </p> 
  <a href="https://www.nytimes.com/2021/11/09/us/politics/max-cleland-dead.html">Max Cleland, Vietnam Veteran and Former Senator, Dies at 79</a> NYT: He lost both legs and an arm in the war. Republicans impugned his patriotism by linking him to Osama bin Laden in an infamous TV spot. 
  <p class="updated_time"> 09:01 AM CT, Nov. 09 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WoNpfkk4c_s/index.html">Republican congressman posts video depicting violence against Ocasio-Cortez and Biden</a> CNN: Republican Rep. Paul Gosar posted a photoshopped anime video to his Twitter and Instagram accounts showing him appearing to kill Democratic Rep. Alexandria Ocasio-Cortez and attacking President Joe Biden. 
  <p class="updated_time"> 08:55 AM CT, Nov. 09 </p> 
  <a href="https://www.npr.org/2021/11/09/1053847935/congress-cars-drunk-driving-auto">Congress' new mandate to carmakers: Figure out a way to stop drunk driving</a> NPR: Under the legislation, monitoring systems to stop intoxicated drivers would roll out in all new vehicles as early as 2026. "It's monumental," said Alex Otte of Mothers Against Drunk Driving. 
- <p class="updated_time"> 08:55 AM CT, Nov. 09 </p> 
- <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/R9Ll9AZCCe0/index.html">Here's what Joe Biden can actually do about gas prices</a> CNN: High gas prices are quickly becoming a political liability for President Joe Biden -- and like presidents before him, he has few options to bring them down. 
  <p class="updated_time"> 08:51 AM CT, Nov. 09 </p> 
  <a href="https://www.nytimes.com/2021/11/08/arts/critical-race-theory-bans.html">Bans on Critical Race Theory Threaten Free Speech, Advocacy Group Says</a> NYT: A report by PEN America, which surveys more than 50 bills proposed across the country, appeals to a principle that has lost its luster for many on the left and right. 
  <p class="updated_time"> 08:51 AM CT, Nov. 09 </p> 
  <a href="https://www.nytimes.com/2021/11/09/us/politics/sununu-new-hampshire-governor.html">Sununu to Seek Re-election as New Hampshire Governor, Rejecting Senate Bid</a> NYT: National Republicans had been trying to recruit Gov. Chris Sununu to compete for a Democratic-held seat that the G.O.P. believed could determine control of the Senate. 
+ <p class="updated_time"> 08:23 AM CT, Nov. 09 </p> 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-09/covid-19-vaccines-made-mandatory-for-nhs-workers-in-england">Covid-19 Vaccines Made Mandatory for NHS Workers in England</a> Bloomberg: Frontline National Health Service workers in England must be fully vaccinated against Covid-19 by April 2022, the U.K. government announced. 
  <p class="updated_time"> 08:21 AM CT, Nov. 09 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-09/biden-commerce-chief-says-u-k-japan-steel-talks-to-start-soon">Biden Commerce Chief Says U.K., Japan Steel Talks to Start Soon</a> Bloomberg: The U.S. expects to begin talks with the U.K. and Japan aimed at addressing the nations’ objections to steel and aluminum tariffs “reasonably soon,” and any solution must protect the American industries, President Joe Biden’s commerce chief said. 
- <p class="updated_time"> 08:09 AM CT, Nov. 09 </p> 
- <a href="https://www.nytimes.com/2021/11/08/us/politics/employer-vaccine-mandates.html">US Urges Court Not to Block Vaccine Mandate on Employers</a> NYT: The Biden Justice Department filed its case before an appeals court that has temporarily halted the measure. 
  <p class="updated_time"> 07:58 AM CT, Nov. 09 </p> 
  <a href="https://www.washingtonpost.com/local/obituaries/max-cleland-dead/2021/11/09/cb0afb9c-7520-11eb-8115-9ad5e9c02117_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Max Cleland, Vietnam War veteran who led VA and served in Senate, dies at 79</a> WaPo: Elected to the U.S. Senate in 1996, he served one term as a Georgia Democrat before losing reelection in a campaign that centered on national security after Sept. 11, 2001. 
  <p class="updated_time"> 07:56 AM CT, Nov. 09 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-09/hard-brexit-talk-returns-as-u-k-eyes-suspending-n-ireland-deal">Hard Brexit Talk Returns as U.K. Eyes Suspending Northern Ireland Deal</a> Bloomberg: Brexit was supposed to be over. But with tensions over Northern Ireland flaring, the European Union is preparing a package of retaliatory measures in case the U.K. decides to suspend parts of the post-Brexit trade accord. 
- <p class="updated_time"> 07:38 AM CT, Nov. 09 </p> 
- <a href="https://www.nytimes.com/2021/11/06/us/politics/defectors-infrastructure-bill-squad.html">In Infrastructure Votes, 19 Members Broke With Their Party</a> NYT: The defectors who crossed partisan lines in Congress include 13 Republicans who supported the bill and the six liberal members of “The Squad,” who opposed it. 
  <p class="updated_time"> 07:24 AM CT, Nov. 09 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/11/09/senate-schedule-seasonally-depressing-495031">Senate schedule: seasonally depressing</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 07:00 AM CT, Nov. 09 </p> 
@@ -257,7 +271,7 @@ permalink: /projects/news/
  <p class="updated_time"> 05:06 AM CT, Nov. 09 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0kWKt2tq_Fc/index.html">Harris tasked with the next phase of cleaning up Biden administration's French faux pas</a> CNN: When President Barack Obama's decision to scrap a planned missile defense system in the fall of 2009 left a pair of European allies feeling jilted, Vice President Joe Biden embarked on a three-day tour to coax relations back to health. 
  <p class="updated_time"> 05:02 AM CT, Nov. 09 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-09/why-turmoil-in-belarus-is-spilling-over-its-borders-quicktake">Why Turmoil in Belarus Is Spilling Over Its Borders: QuickTake</a> Bloomberg: He may be a throwback to a different era, but Belarusian President Alexander Lukashenko is a man with staying power who has become a problem for Europe on its eastern flank. The autocrat branded the continent’s “last dictator” has led the former Soviet state for almost three decades. His claim to a sixth term after a disputed election in August 2020 set off a burst of popular opposition that led to a crackdown on dissent. The coerced landing of a Ryanair jet and an Olympic athlete seeking sanctu 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-09/why-turmoil-in-belarus-is-spilling-over-its-borders-quicktake">Why Turmoil in Belarus Is Spilling Over Its Borders</a> Bloomberg: He may be a throwback to a different era, but Belarusian President Alexander Lukashenko is a man with staying power who has become a problem for Europe on its eastern flank. 
  <p class="updated_time"> 04:31 AM CT, Nov. 09 </p> 
  <a href="https://www.politico.com/news/2021/11/09/biden-unvaccinated-workers-covid-testing-520344">Biden plan to make unvaccinated workers pay for Covid testing could backfire</a> Politico: The prospect of hitting businesses with new testing costs as many struggle to staff back up could harden opposition to Biden’s plan, and hamper the president’s latest push to end the pandemic. 
  <p class="updated_time"> 04:30 AM CT, Nov. 09 </p> 
@@ -303,21 +317,17 @@ permalink: /projects/news/
  <p class="updated_time"> 01:20 AM CT, Nov. 09 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-09/germany-agrees-new-rules-to-tackle-pandemic-of-unvaccinated">Germany Agrees Rules to Tackle ‘Pandemic of Unvaccinated’</a> Bloomberg: The three parties in talks to form the next German government agreed on a package of measures they could deploy to tackle a record surge in Covid-19 cases which seeks to avoid sweeping restrictions like school closures and curfews. 
  <p class="updated_time"> 01:00 AM CT, Nov. 09 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-09/myanmar-court-to-hand-down-first-verdict-on-suu-kyi-next-month">Myanmar Court To Hand Down First Verdict on Suu Kyi Next Month</a> Bloomberg: A court in Myanmar will deliver a verdict on Dec. 14 for the first of several charges leveled against detained civilian leader Aung San Suu Kyi in the aftermath of a military coup, according to a person with knowledge of the situation. 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-09/myanmar-court-to-hand-down-first-verdict-on-suu-kyi-next-month">Myanmar Court to Hand Down First Verdict on Suu Kyi Next Month</a> Bloomberg: A court in Myanmar will deliver a verdict on Dec. 14 for the first of several charges leveled against detained civilian leader Aung San Suu Kyi in the aftermath of a military coup, according to a person with knowledge of the situation. 
  <p class="updated_time"> 12:12 AM CT, Nov. 09 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/XYQmsjtih0w/index.html">Analysis: Covid-19 vaccine debate takes a strange turn</a> CNN: The Covid-19 vaccine debate is getting weird. On Twitter, Texas Republican Sen. Ted Cruz accused Big Bird of pushing "Government propaganda...for your 5 year old!" after the Muppet tweeted about getting the shot in his wing. 
  <p class="updated_time"> 12:05 AM CT, Nov. 09 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_LOS3Dbij4U/index.html">New January 6 subpoenas increase pressure on Garland to set an example with Bannon </a> CNN: The House select committee probing the January 6 insurrection placed its credibility and legal clout deeper into the hands of Attorney General Merrick Garland on Monday with a new flurry of subpoenas targeting cronies of ex-President Donald Trump. 
- <p class="updated_time"> 11:44 PM CT, Nov. 08 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-09/iran-says-it-intercepted-2-u-s-drones-during-military-drills">Iran Intercepts U.S. Drones During Military Drills</a> Bloomberg: Iran said it intercepted two U.S. drones that reportedly violated its airspace during military drills in the country’s southern waters. 
  <p class="updated_time"> 11:43 PM CT, Nov. 08 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ocUa0LJQ22A/index.html">GOP Rep. Fred Upton details threatening voicemail he received after voting for bipartisan infrastructure bill</a> CNN: Republican Rep. Fred Upton on Monday shared a threatening voicemail he had received after voting for the bipartisan infrastructure bill last week. 
  <p class="updated_time"> 11:35 PM CT, Nov. 08 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-09/china-keeps-pressure-on-coal-mines-to-cut-prices-as-winter-nears">China Keeps Up Pressure to Cut Coal Prices as Winter Looms</a> Bloomberg: Beijing is maintaining pressure on coal miners to cut prices to keep a power crisis at bay as a burst of frigid weather provides a hint of the harsh winter that may be ahead. 
  <p class="updated_time"> 11:10 PM CT, Nov. 08 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-09/lawmaker-tweets-anime-of-him-attacking-ocasio-cortez-biden">Lawmaker Tweets Anime of Him Attacking Ocasio-Cortez, Biden</a> Bloomberg: A Republican congressman from Arizona touched off a social media uproar after he posted a doctored version of a popular anime with him attacking President Joe Biden and Representative Alexandria Ocasio- Cortez, a New York Democrat. 
- <p class="updated_time"> 11:06 PM CT, Nov. 08 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-09/japan-plans-100-000-yen-in-cash-and-vouchers-to-kids-kyodo-says">Japan Plans 100,000 Yen in Cash and Vouchers to Kids, Kyodo Says</a> Bloomberg: Japanese Prime Minister Fumio Kishida’s government is planning cash and voucher handouts for children 18 and younger, responding to a campaign pledge the junior member of the ruling coalition made in the recent general election. 
  <p class="updated_time"> 10:14 PM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/us/politics/democrats-budget-bill-cuts-infrastructure.html">On Chicago’s West Side, Urgent Needs Collide With Washington Compromises</a> NYT: Activists say the needs of struggling communities in Chicago and elsewhere vastly exceed the billions Congress is spending. 
  <p class="updated_time"> 10:00 PM CT, Nov. 08 </p> 
@@ -345,7 +355,7 @@ permalink: /projects/news/
  <p class="updated_time"> 07:58 PM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/us/politics/jan-6-subpoenas-eastman-flynn-trump.html">Jan. 6 Panel Subpoenas Flynn and Eastman, Scrutinizing Election Plot</a> NYT: The latest batch of subpoenas from the House select committee investigating the Capitol riot also includes officials from former President Donald J. Trump’s re-election campaign. 
  <p class="updated_time"> 07:56 PM CT, Nov. 08 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-09/brainard-interviewed-by-biden-for-fed-chair-as-search-heats-up">Brainard Interviewed by Biden for Fed Chair as Search Heats Up</a> Bloomberg: Federal Reserve Governor&nbsp;Lael Brainard&nbsp;was interviewed for the top job at the U.S. central bank when she&nbsp;visited&nbsp;the White House last week, according to people familiar with the discussions, signaling that Chair&nbsp;Jerome Powell&nbsp;has a serious rival as President&nbsp;Joe Biden&nbsp;considers who will lead the Fed for the next four years. 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-09/brainard-interviewed-by-biden-for-fed-chair-as-search-heats-up">Brainard Interviewed by Biden for Fed Chair as Search Heats Up</a> Bloomberg: Federal Reserve Governor Lael Brainard was interviewed for the top job at the U.S. central bank when she visited the White House last week, according to people familiar with the discussions, signaling that Chair Jerome Powell has a serious rival as President Joe Biden considers who will lead the Fed for the next four years. 
  <p class="updated_time"> 07:24 PM CT, Nov. 08 </p> 
  <a href="https://www.politico.com/news/2021/11/08/biden-vaccine-covid-mandate-lives-520367">Biden administration: Blocking vaccine mandate could cost ‘hundreds of lives per day’</a> Politico: The administration warned a federal court of the dangers of a stay of its vaccinate-or-test requirement for private employers. 
  <p class="updated_time"> 06:58 PM CT, Nov. 08 </p> 
