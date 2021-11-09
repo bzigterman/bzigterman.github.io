@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:29 AM CT, Nov. 09 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-59220074?at_medium=RSS&at_campaign=KARANGA">Peruvian family dog turns out to be a fox</a> BBC: A family who thought they had bought a dog realised their mistake after it attacked other animals. 
  <p class="updated_time"> 05:14 AM CT, Nov. 09 </p> 
  <a href="https://www.npr.org/2021/11/09/1053813035/8-years-after-he-killed-his-girlfriend-olympic-runner-pistorius-is-up-for-parole">8 years after he killed his girlfriend, Olympic runner Pistorius is up for parole</a> NPR: Oscar Pistorius, a double-amputee who competed at the 2012 Olympics, has been eligible for parole since July after serving half his sentence. He was convicted of murdering model Reva Steenkamp. 
  <p class="updated_time"> 05:07 AM CT, Nov. 09 </p> 
@@ -35,8 +37,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59205570?at_medium=RSS&at_campaign=KARANGA">Astroworld: Travis Scott and Drake sued over deadly US festival crush</a> BBC: The rapper faces legal action after at least eight people were killed during his Astroworld festival. 
  <p class="updated_time"> 12:47 AM CT, Nov. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59208301?at_medium=RSS&at_campaign=KARANGA">Hundreds of migrants at Belarus' border with Poland</a> BBC: Poland says it has stopped attempts by the large group to enter the country from Belarus. 
- <p class="updated_time"> 10:45 PM CT, Nov. 08 </p> 
- <a href="https://www.bbc.co.uk/news/business-59216504?at_medium=RSS&at_campaign=KARANGA">Evergrande: Crisis-hit developer raises more cash as new deadline looms</a> BBC: The firm faces another deadline this week to make overdue interest payments of $148m. 
  <p class="updated_time"> 09:56 PM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/07/world/americas/nicaragua-election-ortega.html">In Nicaragua Election, Ortega Crushes Dissent</a> NYT: President Daniel Ortega quashed the opposition and struck fear in voters, all but guaranteeing his victory in a presidential contest on Sunday. 
  <p class="updated_time"> 08:14 PM CT, Nov. 08 </p> 
@@ -234,6 +234,8 @@ permalink: /projects/news/
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/cbLc3-Xgyms/index.html">Washington, DC, has a new 771 area code</a> CNN: Washington, DC, residents could get some new digits starting Tuesday, as the area's 771 area code will begin to be assigned to phones and services in the district, according to the District of Columbia Public Service Commission. 
  <p class="updated_time"> 04:06 AM CT, Nov. 09 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-09/china-s-politics-enter-turbulent-period-as-xi-pushes-for-control">China's Politics Enter Turbulent Period as Xi Pushes for Control</a> Bloomberg: Party probes and&nbsp;power games ramp up ahead of a landmark leadership congress next year 
+ <p class="updated_time"> 04:04 AM CT, Nov. 09 </p> 
+ <a href="https://www.npr.org/2021/11/09/1053792399/morning-news-brief">News brief: Jan. 6 subpoenas, Supreme Court preview, India's climate challenge</a> NPR: The Jan. 6 House panel issues more subpoenas for ex-Trump officials. A look at  two cases before the Supreme Court Tuesday. And, India's rapid development has left it with many environmental issues. 
  <p class="updated_time"> 04:00 AM CT, Nov. 09 </p> 
  <a href="https://www.nytimes.com/2021/11/09/us/politics/trucker-shortage-supply-chain.html">The Biggest Kink in America’s Supply Chain: Not Enough Truckers</a> NYT: Long hours and uncomfortable working conditions are leading to a shortage of truck drivers, which has compounded shipping delays in the United States. 
  <p class="updated_time"> 04:00 AM CT, Nov. 09 </p> 
@@ -470,8 +472,6 @@ permalink: /projects/news/
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vBRV9fRRViY/index.html">White House chief of staff 'confident' vaccine mandate for private businesses will be upheld</a> CNN: White House chief of staff Ron Klain said he was confident the courts will uphold the validity of the Biden administration's new vaccine rules that apply to private businesses with 100 or more employees, certain health care workers and federal contractors, after a federal appeals court temporarily blocked the requirements on Saturday. 
  <p class="updated_time"> 07:10 AM CT, Nov. 07 </p> 
  <a href="https://www.npr.org/2021/11/07/1053326463/polling-institute-director-says-it-may-be-time-to-get-rid-of-election-polls">Polling Institute director says it may be time to get rid of election polls</a> NPR: Danielle Kurtzleben speaks with Patrick Murray, director of the Polling Institute at Monmouth University, about the future of election polls after their recent failures to predict results. 
- <p class="updated_time"> 07:03 AM CT, Nov. 07 </p> 
- <a href="https://www.npr.org/2021/11/07/1053326449/democrat-eric-adams-elected-next-mayor-of-new-york-city">Democrat Eric Adams elected next mayor of New York City</a> NPR: Danielle Kurtzleben speaks to New York City's Mayor-elect Eric Adams about how he plans to run the city and, as a former police officer, how he'd handle calls for police reform. 
  <p class="updated_time"> 07:01 AM CT, Nov. 07 </p> 
  <a href="https://www.politico.com/news/2021/11/07/biden-faces-heat-pipeline-propane-cost-519788">Pipeline pile-on: Biden faces heat from Canada, Republicans, Michigan’s governor and the price of propane</a> Politico: The president is caught between environmentalists and Indigenous groups on one side and Republicans blaming him for soaring energy prices on the other. 
  <p class="updated_time"> 07:00 AM CT, Nov. 07 </p> 
