@@ -1,7 +1,7 @@
 conference,team_label,wins,losses,win_pct_text
-Eastern,MIA,7,2,.778
 Eastern,PHI,8,3,.727
 Eastern,CHI,7,3,.700
+Eastern,MIA,7,3,.700
 Eastern,WAS,7,3,.700
 Eastern,NYK,7,4,.636
 Eastern,CLE,7,4,.636
@@ -19,7 +19,7 @@ Western,UTA,7,3,.700
 Western,DAL,7,3,.700
 Western,PHX,5,3,.625
 Western,MEM,6,4,.600
-Western,DEN,5,4,.556
+Western,DEN,6,4,.600
 Western,LAC,5,4,.556
 Western,SAC,5,5,.500
 Western,POR,5,5,.500
