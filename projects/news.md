@@ -202,6 +202,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:21 AM CT, Nov. 09 </p> 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-09/biden-commerce-chief-says-u-k-japan-steel-talks-to-start-soon">Biden Commerce Chief Says U.K., Japan Steel Talks to Start Soon</a> Bloomberg: The U.S. expects to begin talks with the U.K. and Japan aimed at addressing the nations’ objections to steel and aluminum tariffs “reasonably soon,” and any solution must protect the American industries, President Joe Biden’s commerce chief said. 
  <p class="updated_time"> 08:09 AM CT, Nov. 09 </p> 
  <a href="https://www.nytimes.com/2021/11/08/us/politics/employer-vaccine-mandates.html">US Urges Court Not to Block Vaccine Mandate on Employers</a> NYT: The Biden Justice Department filed its case before an appeals court that has temporarily halted the measure. 
  <p class="updated_time"> 07:58 AM CT, Nov. 09 </p> 
@@ -304,8 +306,6 @@ permalink: /projects/news/
  <a href="https://www.bloomberg.com/news/features/2021-11-09/covid-vaccine-india-races-to-vaccinate-poor-suspicious-citizens-in-villages">India’s Race to Vaccinate Its Villages Meets With Rural Resistance</a> Bloomberg: In the country’s remote and desperately poor areas, suspicion of the government’s motives runs deep. 
  <p class="updated_time"> 11:00 PM CT, Nov. 08 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-09/cop26-climate-news-scotland-s-peatlands-are-a-carbon-sink-under-threat">The Search for a Global Carbon Fix Leads to a Scottish Peat Bog</a> Bloomberg: Peatlands are natural carbon sinks, but they’re becoming carbon emitters. 
- <p class="updated_time"> 11:00 PM CT, Nov. 08 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-09/poland-warns-it-may-skip-eu-membership-fees-in-judicial-clash">Poland Warns It May Skip EU Membership Fees in Judicial Clash</a> Bloomberg: Poland accused the European Union of acting in “bad faith” in their conflict over access to 36 billion euros ($42 billion) in pandemic aid and suggested the country may stop paying its membership fees to the bloc if the situation escalates. 
  <p class="updated_time"> 10:14 PM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/us/politics/democrats-budget-bill-cuts-infrastructure.html">On Chicago’s West Side, Urgent Needs Collide With Washington Compromises</a> NYT: Activists say the needs of struggling communities in Chicago and elsewhere vastly exceed the billions Congress is spending. 
  <p class="updated_time"> 10:00 PM CT, Nov. 08 </p> 
