@@ -202,6 +202,10 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:09 AM CT, Nov. 09 </p> 
+ <a href="https://www.nytimes.com/2021/11/08/us/politics/employer-vaccine-mandates.html">US Urges Court Not to Block Vaccine Mandate on Employers</a> NYT: The Biden Justice Department filed its case before an appeals court that has temporarily halted the measure. 
+ <p class="updated_time"> 07:58 AM CT, Nov. 09 </p> 
+ <a href="https://www.washingtonpost.com/local/obituaries/max-cleland-dead/2021/11/09/cb0afb9c-7520-11eb-8115-9ad5e9c02117_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Max Cleland, Vietnam War veteran who led VA and served in Senate, dies at 79</a> WaPo: Elected to the U.S. Senate in 1996, he served one term as a Georgia Democrat before losing reelection in a campaign that centered on national security after Sept. 11, 2001. 
  <p class="updated_time"> 07:43 AM CT, Nov. 09 </p> 
  <a href="https://www.nytimes.com/2021/11/09/us/politics/gavin-newsom-california.html">Where Is Gavin Newsom, California's Governor?</a> NYT: He’s in the office, according to increasingly frustrated staff members. But his critics on Twitter aren’t buying it. 
  <p class="updated_time"> 07:38 AM CT, Nov. 09 </p> 
@@ -336,8 +340,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/08/biden-vaccine-covid-mandate-lives-520367">Biden administration: Blocking vaccine mandate could cost ‘hundreds of lives per day’</a> Politico: The administration warned a federal court of the dangers of a stay of its vaccinate-or-test requirement for private employers. 
  <p class="updated_time"> 06:58 PM CT, Nov. 08 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zyOWU6zm7vo/index.html">Biden administration will waive immigration application fees for thousands of evacuated Afghans </a> CNN: The Biden administration is planning to waive immigration-related fees for up to 70,000 Afghan evacuees as they are resettled in the United States, the Department of Homeland Security said Monday. 
- <p class="updated_time"> 06:45 PM CT, Nov. 08 </p> 
- <a href="https://www.nytimes.com/2021/11/08/us/politics/employer-vaccine-mandates.html">US Urges Court Not to Block Vaccine Mandate on Employers</a> NYT: The Biden Justice Department filed its case before an appeals court that has temporarily halted the measure. 
  <p class="updated_time"> 06:40 PM CT, Nov. 08 </p> 
  <a href="https://www.politico.com/news/2021/11/08/buffalo-mayor-progressives-dems-520327">‘It’s a disgrace’: Progressives take aim at Buffalo mayor’s DNC post</a> Politico: Establishment Dems dismiss “sour grapes” attempt to sanction mayor who defeated a democratic socialist. 
  <p class="updated_time"> 06:35 PM CT, Nov. 08 </p> 
@@ -444,8 +446,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/11/08/big-obstacles-await-biden-after-big-win-495012">POLITICO Playbook: Big obstacles await Biden after big win</a> Politico: And midterm elections are a year from today. 
  <p class="updated_time"> 05:48 AM CT, Nov. 08 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/i9Ydbx0FfR0/index.html">Jill Biden's child vaccine tour will include push for more children vaccination sites</a> CNN: First lady Jill Biden and US Surgeon General Dr. Vivek Murthy will make a push for boosting the number of Covid-19 vaccination sites for children Monday as they kick off a nationwide administration effort to encourage vaccines for the nation's youngest and newly eligible candidates. 
- <p class="updated_time"> 05:00 AM CT, Nov. 08 </p> 
- <a href="https://www.washingtonpost.com/politics/2021/11/08/mitch-mcconnell-trump-impeachment-insurrection-senate/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Mitch McConnell spent decades chasing power. Now he heeds Trump, who mocks him and wants him gone.</a> WaPo: In his 16th year as the Senate’s top Republican, McConnell is increasingly playing the role of a conflicted and compromised booster of Trump’s interests — not a leader with his own vision. 
  <p class="updated_time"> 04:31 AM CT, Nov. 08 </p> 
  <a href="https://www.politico.com/news/2021/11/08/voting-rule-democrats-antitrust-519767">‘Zombies’ to the rescue: The arcane voting rule that could save Dems’ antitrust agenda</a> Politico: Former Democratic Commissioner Rohit Chopra left behind more than a dozen motions he wants the Federal Trade Commission to carry out, spawning a debate on whether his votes should still count. 
  <p class="updated_time"> 04:30 AM CT, Nov. 08 </p> 
