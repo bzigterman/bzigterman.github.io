@@ -216,8 +216,12 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:45 PM CT, Nov. 08 </p> 
+ <a href="https://www.washingtonpost.com/politics/house-jan-6-committee-issues-subpoenas-to-6-top-trump-advisers-including-pair-involved-in-willard-hotel-command-center/2021/11/08/6e91b0f2-40a6-11ec-a88e-2aa4632af69b_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">House Jan. 6 committee issues subpoenas to 6 top Trump advisers, including pair involved in Willard hotel ‘command center’</a> WaPo: Those subpoenaed include scholar John Eastman, author of a legal strategy to deny Biden the presidency, and former New York police commissioner Bernard Kerik. 
  <p class="updated_time"> 09:30 PM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/us/politics/jill-biden-kids-vaccine.html">Jill Biden Kicks Off Covid Vaccine Campaign for Young Children</a> NYT: The first lady and the surgeon general visited an elementary school in Virginia as part of a strategy to enlist schools in promoting the vaccine. 
+ <p class="updated_time"> 09:30 PM CT, Nov. 08 </p> 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-09/taiwan-outlines-plans-to-counter-china-s-gray-zone-threats">Taiwan Outlines Plans to Counter China’s ‘Gray Zone Threats’</a> Bloomberg: Taiwan laid out plans to challenge what it described as China’s “gray zone threats” to shift the balance of power in the region and possibly take the democratically ruled island without fighting a battle. 
  <p class="updated_time"> 09:21 PM CT, Nov. 08 </p> 
  <a href="https://www.washingtonpost.com/politics/republicans-gosar-trump-ocasio-cortez/2021/11/08/ead37b36-40ca-11ec-9ea7-3eb2406a2e24_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Rep. Paul Gosar tweets photoshopped anime video showing him killing Rep. Ocasio-Cortez and attacking President Biden</a> WaPo: The Arizona Republican’s tweeting of the video prompted condemnation and calls for his Twitter account to be suspended for glorification of violence. 
  <p class="updated_time"> 09:10 PM CT, Nov. 08 </p> 
@@ -318,8 +322,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/06/us/politics/infrastructure-black-caucus-vote.html">How a $1 Trillion Infrastructure Bill Survived an Intraparty Brawl</a> NYT: Speaker Nancy Pelosi agreed to a deal proposed by the Congressional Black Caucus, mobilizing one faction of Democratic lawmakers to win over two others. 
  <p class="updated_time"> 02:52 PM CT, Nov. 08 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8FYSx78kPO0/index.html">Supreme Court hears arguments in case brought by Muslims alleging federal government illegally spied on them</a> CNN: The Supreme Court grappled Monday with an attempt by three Muslim men to sue the federal government for hiring a confidential informant to secretly engage in electronic surveillance and gather information about Muslims in their neighborhood in violation of their religious rights. 
- <p class="updated_time"> 02:51 PM CT, Nov. 08 </p> 
- <a href="https://www.washingtonpost.com/politics/house-jan-6-committee-issues-subpoenas-to-6-top-trump-advisers-including-pair-involved-in-willard-hotel-command-center/2021/11/08/6e91b0f2-40a6-11ec-a88e-2aa4632af69b_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">House Jan. 6 committee issues subpoenas to 6 top Trump advisers, including pair involved in Willard hotel ‘command center’</a> WaPo: Those subpoenaed include scholar John Eastman, author of a legal strategy to deny Biden the presidency, and former New York police commissioner Bernard Kerik. 
  <p class="updated_time"> 02:48 PM CT, Nov. 08 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/O3tKG3pCKP4/index.html">US Capitol rioter who fled to Belarus says he may seek asylum there</a> CNN: A California man who is wanted by the FBI for allegedly assaulting police officers during the US Capitol insurrection says he is considering seeking asylum in Belarus because he is the target of "political persecution," according to Belarus state television. 
  <p class="updated_time"> 02:39 PM CT, Nov. 08 </p> 
