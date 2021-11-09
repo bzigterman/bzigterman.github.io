@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:23 PM CT, Nov. 09 </p> 
+ <a href="https://www.nytimes.com/2021/11/09/world/africa/ethiopia-united-nations.html">Ethiopia Seizes 16 UN Workers Amid Efforts to Halt Tigray War</a> NYT: The detentions aggravated the already tense relations between the United Nations and the Ethiopian government over war and famine in the country’s northern Tigray region. 
  <p class="updated_time"> 04:55 PM CT, Nov. 09 </p> 
  <a href="https://www.bbc.co.uk/news/uk-england-birmingham-59227513?at_medium=RSS&at_campaign=KARANGA">Nobel Peace Prize winner Malala ties the knot in Birmingham ceremony</a> BBC: The activist and her partner Asser Malik celebrate a nikkah ceremony with family in Birmingham. 
  <p class="updated_time"> 04:06 PM CT, Nov. 09 </p> 
@@ -21,8 +23,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59228801?at_medium=RSS&at_campaign=KARANGA">Marie Antoinette's bracelets sell at auction for $8 million</a> BBC: The diamond bracelets of the last queen of France were sold to an anonymous telephone bidder. 
  <p class="updated_time"> 03:46 PM CT, Nov. 09 </p> 
  <a href="https://www.nytimes.com/2021/11/09/us/politics/pfizer-booster-approval-adults.html">Pfizer Asks for Authorization for Boosters for Adults</a> NYT: An advisory panel to the Food and Drug Administration voted against a similar request from Pfizer in mid-September, but the agency is considered likely to grant the request, perhaps before Thanksgiving. 
- <p class="updated_time"> 03:42 PM CT, Nov. 09 </p> 
- <a href="https://www.nytimes.com/2021/11/09/world/africa/ethiopia-united-nations.html">Ethiopia Seizes 16 UN Workers Amid Efforts to Halt Tigray War</a> NYT: The detentions aggravated the already tense relations between the United Nations and the Ethiopian government over war and famine in the country’s northern Tigray region. 
  <p class="updated_time"> 03:31 PM CT, Nov. 09 </p> 
  <a href="https://www.nytimes.com/2021/11/09/climate/africa-fossil-fuel-gas-cop26.html">Africa's Leaders Say Rich Countries Need to Quit Oil and Gas First</a> NYT: As negotiators at the Glasgow climate talks try to agree on greenhouse gas cuts, African leaders say poorer countries can’t be expected to remake their systems as quickly as wealthy ones. 
  <p class="updated_time"> 03:18 PM CT, Nov. 09 </p> 
@@ -210,8 +210,18 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:13 PM CT, Nov. 09 </p> 
+ <a href="https://www.politico.com/news/2021/11/09/biden-infrastructure-republicans-committee-standing-520484">Biden denounces efforts to strip Republicans who supported infrastructure of committee standing</a> Politico: “If we don’t generate consensus in America, we’re in trouble,” Biden said. 
+ <p class="updated_time"> 06:13 PM CT, Nov. 09 </p> 
+ <a href="https://www.politico.com/news/2021/11/09/biden-infrastructure-republicans-committee-standing-520484">Biden denounces efforts to strip Republicans who supported infrastructure of committee standing</a> Politico: “If we don’t generate consensus in America, we’re in trouble,” Biden said. 
  <p class="updated_time"> 05:54 PM CT, Nov. 09 </p> 
  <a href="https://www.politico.com/news/2021/11/09/ahmaud-arbery-slaying-trial-520498">Testimony: Ahmaud Arbery slaying defendant changed his story</a> Politico: Prosecutors say the men had no legal reason to pursue Arbery with guns. 
+ <p class="updated_time"> 05:11 PM CT, Nov. 09 </p> 
+ <a href="https://www.washingtonpost.com/politics/2021/11/09/trailer-after-virginia-republicans-see-more-ways-beat-left/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">The Trailer: After Virginia, Republicans see more ways to beat the left</a> WaPo: Republicans see blue skies ahead, the strategy behind Glenn Youngkin's winning ad campaign, and election overtime in Florida and New Jersey. 
+ <p class="updated_time"> 05:10 PM CT, Nov. 09 </p> 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-09/biden-urges-democrats-to-stay-engaged-for-rest-of-his-agenda">Biden Urges Democrats to ‘Stay Engaged’ for Rest of His Agenda</a> Bloomberg: President Joe Biden pressed Democratic activists to “stay unified” ahead of next year’s midterm elections, amid concerns over his flagging poll numbers and the party’s electoral prospects following an upset loss in the Virginia governor’s race. 
+ <p class="updated_time"> 05:09 PM CT, Nov. 09 </p> 
+ <a href="https://www.nytimes.com/2021/11/09/us/politics/max-cleland-dead.html">Max Cleland, Vietnam Veteran and Former Senator, Dies at 79</a> NYT: He lost both legs and an arm in the war. Republicans impugned his patriotism by linking him to Osama bin Laden in an infamous TV spot. 
  <p class="updated_time"> 05:05 PM CT, Nov. 09 </p> 
  <a href="https://www.nytimes.com/2021/11/09/science/nasa-moon-2025.html">NASA Moves Moon Landing Deadline Back to 2025</a> NYT: The space agency acknowledged that it cannot return astronauts to the lunar surface by 2024, a timeline set under President Trump. 
  <p class="updated_time"> 04:55 PM CT, Nov. 09 </p> 
@@ -328,8 +338,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/09/us/politics/where-is-newsom-california.html">Where Is Gavin Newsom, California's Governor?</a> NYT: He’s in the office, according to increasingly frustrated staff members. But his critics on Twitter aren’t buying it. 
  <p class="updated_time"> 12:36 PM CT, Nov. 09 </p> 
  <a href="https://www.washingtonpost.com/politics/2021/11/09/year-later-an-obviously-illegal-campaign-stunt-is-determined-have-been-illegal/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">A year later, an obviously illegal campaign stunt is determined to have been illegal</a> WaPo: Relying on voluntary adherence to the law has some flaws. 
- <p class="updated_time"> 12:24 PM CT, Nov. 09 </p> 
- <a href="https://www.nytimes.com/2021/11/09/us/politics/max-cleland-dead.html">Max Cleland, Vietnam Veteran and Former Senator, Dies at 79</a> NYT: He lost both legs and an arm in the war. Republicans impugned his patriotism by linking him to Osama bin Laden in an infamous TV spot. 
  <p class="updated_time"> 12:20 PM CT, Nov. 09 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/cY1S9LREd9o/index.html">Judge denies Trump's overnight request for injunction in executive privilege case, still needs to rule on main case</a> CNN: Former President Donald Trump's latest procedural attempt to keep secret documents from his presidency about the January 6 insurrection quickly failed overnight. 
  <p class="updated_time"> 12:16 PM CT, Nov. 09 </p> 
@@ -380,8 +388,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/09/sununu-wont-run-for-senate-520413">Sunu-no: Top GOP recruit won't run for Senate</a> Politico: New Hampshire Gov. Chris Sununu said Tuesday he will seek reelection, denying Republicans their top recruit of the 2022 election cycle. 
  <p class="updated_time"> 09:42 AM CT, Nov. 09 </p> 
  <a href="https://www.washingtonpost.com/politics/2021/11/09/how-many-people-will-go-prison-trumps-dishonesty/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">How many people will go to prison for Trump’s dishonest election claims?</a> WaPo: The threat of violence from his election claims hasn't gone away. 
- <p class="updated_time"> 09:39 AM CT, Nov. 09 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-09/top-uae-official-in-first-syria-visit-in-a-decade-reports-say">Top UAE Official Meets Assad in First Syria Visit in a Decade</a> Bloomberg: The United Arab Emirates foreign minister arrived in Damascus Tuesday in the first visit to Syria by a top Emirati official in a decade, and met with President Bashar al-Assad, according to the state-run Syrian news agency. 
  <p class="updated_time"> 09:35 AM CT, Nov. 09 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/R9Ll9AZCCe0/index.html">Here's what Biden can actually do about gas prices</a> CNN: High gas prices are quickly becoming a political liability for President Joe Biden -- and like presidents before him, he has few options to bring them down. 
  <p class="updated_time"> 09:33 AM CT, Nov. 09 </p> 
@@ -396,8 +402,6 @@ permalink: /projects/news/
  <a href="https://www.washingtonpost.com/local/obituaries/max-cleland-dead/2021/11/09/cb0afb9c-7520-11eb-8115-9ad5e9c02117_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Max Cleland, Vietnam War veteran who led VA and served in Senate, dies at 79</a> WaPo: Elected to the U.S. Senate in 1996, he served one term as a Georgia Democrat before losing reelection in a campaign that centered on national security after Sept. 11, 2001. 
  <p class="updated_time"> 07:24 AM CT, Nov. 09 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/11/09/senate-schedule-seasonally-depressing-495031">Senate schedule: seasonally depressing</a> Politico: A play-by-play preview of the day&#39;s congressional news 
- <p class="updated_time"> 07:00 AM CT, Nov. 09 </p> 
- <a href="https://www.washingtonpost.com/dc-md-va/2021/11/09/rioters-charges-arrests-jan-6-insurrection/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Desperate, angry, destructive: How Americans morphed into a mob</a> WaPo: What we know about the people who stormed the Capitol on Jan. 6. 
  <p class="updated_time"> 06:19 AM CT, Nov. 09 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/09/a-trump-backed-senate-hopeful-takes-the-stand-495028">POLITICO Playbook: A Trump-backed Senate hopeful takes the stand</a> Politico: And the Jan. 6 committee subpoenas more Trump aides. 
  <p class="updated_time"> 06:16 AM CT, Nov. 09 </p> 
@@ -454,8 +458,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/08/us/supreme-court-fbi-muslims.html">Supreme Court Weighs Case Against F.B.I. for Spying on Muslims</a> NYT: The justices considered whether the state secrets doctrine required dismissal on national security grounds of a case claiming religious discrimination. 
  <p class="updated_time"> 04:38 PM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/us/politics/justice-dept-ransomware.html">Justice Dept. Brings New Charges in Ransomware Attacks</a> NYT: The department said it had charged a Russian national in one attack and recovered $6.1 million in ransom. It also arrested a Ukrainian man for another attack. 
- <p class="updated_time"> 04:01 PM CT, Nov. 08 </p> 
- <a href="https://www.politico.com/news/2021/11/08/justices-narrow-ruling-mosque-surveillance-520312">Justices seek narrow ruling in mosque surveillance case</a> Politico: A suit from post-9/11 snooping on a California Muslim congregations raises questions about the scope of the Foreign Intelligence Surveillance Act. 
  <p class="updated_time"> 04:01 PM CT, Nov. 08 </p> 
  <a href="https://www.npr.org/2021/11/08/1053603338/jill-biden-covid-vaccine-kids-virginia-school-polio">Virginia school revisits its history as a polio vaccine trailblazer with COVID clinic</a> NPR: Franklin Sherman Elementary was the first school to administer the polio vaccine to kids in 1954. Now it's once again at the forefront, hosting a COVID-19 vaccine event with first lady Jill Biden. 
  <p class="updated_time"> 03:59 PM CT, Nov. 08 </p> 
@@ -558,8 +560,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/03/gop-trump-baseless-election-fraud-claims-518603">1 year later, GOP still chained to Trump's baseless election fraud claims</a> Politico: Some Republicans fear the former president's continued fixation on his loss threatens to deter their base from voting. But many of them are still staying silent. 
  <p class="updated_time"> 07:08 PM CT, Nov. 02 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uFzNJyOeZ8w/index.html">Biden says he's not concerned with possibility of armed conflict with China</a> CNN: President Joe Biden said Tuesday that he is not concerned with the possibility of an armed conflict with China, adding that he's made clear to Chinese President Xi Jinping that this is "competition" not "conflict." 
- <p class="updated_time"> 06:21 PM CT, Nov. 02 </p> 
- <a href="https://www.politico.com/news/2021/11/02/josh-hawley-state-department-nominees-confirmation-518642">Josh Hawley blocks confirmation of several State Dept. nominees</a> Politico: The Republican senator, who is unhappy about the withdrawal from Afghanistan, objected to eight of the nine nominations Democrats sought to unanimously approve. 
 
 
 </details>
