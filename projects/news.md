@@ -9,6 +9,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 12:47 AM CT, Nov. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59208301?at_medium=RSS&at_campaign=KARANGA">Hundreds of migrants at Poland-Belarus border</a> BBC: Poland says it has stopped attempts by the large group to enter the country. 
+ <p class="updated_time"> 10:45 PM CT, Nov. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/business-59216504?at_medium=RSS&at_campaign=KARANGA">Evergrande: Crisis-hit developer raises more cash as new deadline looms</a> BBC: The firm faces another deadline this week to make overdue interest payments of $148m. 
  <p class="updated_time"> 10:16 PM CT, Nov. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59172767?at_medium=RSS&at_campaign=KARANGA">Nagaenthran Dharmalingam: Family prays as man with IQ of 69 to be executed</a> BBC: The drug trafficking case has sparked a rare disquiet in Singapore where the death penalty is largely uncontroversial. 
  <p class="updated_time"> 09:56 PM CT, Nov. 08 </p> 
@@ -31,8 +33,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/08/world/europe/france-catholic-church-compensate-sex-abuse-victims.html">French Catholic Church Will Sell Assets to Compensate Abuse Victims</a> NYT: The measure was one of several measures announced by French bishops, one month after a landmark report on sexual abuse by clergy members in France. 
  <p class="updated_time"> 06:45 PM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/travel/usa-travel-restrictions.html">With Tears, Hugs and Balloons, US Allows Vaccinated Foreign Travelers to Enter</a> NYT: On Monday, after more than 18 months, restrictions that kept families separated and cost the global travel industry hundreds of billions of dollars were lifted. 
- <p class="updated_time"> 06:16 PM CT, Nov. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59167718?at_medium=RSS&at_campaign=KARANGA">US-Canada border: After 19 months, families to reunite</a> BBC: Thomas Musgraves will soon see his daughter Maddie in the US after pandemic restrictions kept them apart 
+ <p class="updated_time"> 06:43 PM CT, Nov. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/health-59204831?at_medium=RSS&at_campaign=KARANGA">Regular 10pm bedtime linked to lower heart risk</a> BBC: Synchronising sleep to match our internal body clock appears to be good for the heart, claim scientists. 
  <p class="updated_time"> 06:15 PM CT, Nov. 08 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59205840?at_medium=RSS&at_campaign=KARANGA">Travis Scott festival tragedy: Were warning signs missed at Astroworld?</a> BBC: Concerns were raised before Travis Scott's fatal festival show. Could the tragedy have been averted? 
  <p class="updated_time"> 06:10 PM CT, Nov. 08 </p> 
@@ -55,10 +57,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/08/1053647230/u-s-and-egypt-meet-for-strategic-talks">U.S. and Egypt meet for strategic talks</a> NPR: The Biden administration often says that human rights are at the center of its foreign policy. Egypt is a big test case of that, as it and the U.S. are holding high level talks. 
  <p class="updated_time"> 03:55 PM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/world/middleeast/nso-israel-palestinians-spyware.html">Despite Abuses of NSO Spyware, Israel Will Lobby U.S. to Defend It</a> NYT: As a new accusation surfaces that NSO’s software may have been used to spy on Palestinians, Israeli officials say it is crucial to national security. 
- <p class="updated_time"> 03:47 PM CT, Nov. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59205468?at_medium=RSS&at_campaign=KARANGA">Oscar Pistorius parole process to start in South Africa</a> BBC: The ex-Paralympian will first have to meet the parents of the woman he murdered, Reeva Steenkamp. 
- <p class="updated_time"> 03:45 PM CT, Nov. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59210421?at_medium=RSS&at_campaign=KARANGA">Niger classroom fire kills at least 25 schoolchildren</a> BBC: Many other schoolchildren aged five to six are injured during lessons in their straw-hut classrooms. 
  <p class="updated_time"> 03:37 PM CT, Nov. 08 </p> 
  <a href="https://www.npr.org/2021/11/08/1053647220/indigenous-activists-say-the-legacy-of-colonialism-has-limited-their-access-to-c">Indigenous activists say the legacy of colonialism has limited their access to COP-26</a> NPR: Indigenous activists from around the world are in Glasgow for COP26, but say the same legacy of colonialism that has led to climate-related losses has impacted their access to the conference. 
  <p class="updated_time"> 03:32 PM CT, Nov. 08 </p> 
@@ -137,8 +135,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59202880?at_medium=RSS&at_campaign=KARANGA">Afghans facing 'hell on earth' as winter looms</a> BBC: The World Food Programme says 23 million people are "marching towards starvation" in the country. 
  <p class="updated_time"> 11:52 PM CT, Nov. 07 </p> 
  <a href="https://www.wsj.com/articles/nicaraguas-president-ortega-on-track-for-controversial-fourth-term-11636368775">Nicaragua's President Ortega on Track for Controversial Fourth Term</a> WSJ: With 65% of the vote counted, the head of Nicaragua’s electoral authority said President Ortega had won 75% of the vote. Five small satellite parties controlled by Mr. Ortega split the difference and 35% abstained. 
- <p class="updated_time"> 06:35 PM CT, Nov. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59178826?at_medium=RSS&at_campaign=KARANGA">Why Tanzanian Nobel laureate Abdulrazak Gurnah is hardly known back home</a> BBC: Few of Abdulrazak Gurnah's novels are sold in Tanzania where not many people read fiction. 
  <p class="updated_time"> 06:17 PM CT, Nov. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59036542?at_medium=RSS&at_campaign=KARANGA">Dug Dug: A film inspired by India's motorcycle god</a> BBC: A new film riding on the back of a temple in India dedicated to a motorcycle deity is making waves. 
  <p class="updated_time"> 06:14 PM CT, Nov. 07 </p> 
@@ -222,6 +218,8 @@ permalink: /projects/news/
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ocUa0LJQ22A/index.html">Republican congressman details threatening voicemail he received after voting for bipartisan infrastructure bill</a> CNN: Republican Rep. Fred Upton on Monday shared a threatening voicemail he had received after voting for the bipartisan infrastructure bill last week. 
  <p class="updated_time"> 11:35 PM CT, Nov. 08 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-09/china-keeps-pressure-on-coal-mines-to-cut-prices-as-winter-nears">China Keeps Pressure on Coal Mines to Cut Prices as Winter Nears</a> Bloomberg: Beijing is maintaining pressure on coal miners to cut prices to keep a power crisis at bay as a burst of frigid weather provides a hint of the harsh winter that may be ahead. 
+ <p class="updated_time"> 11:10 PM CT, Nov. 08 </p> 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-09/lawmaker-tweets-anime-of-him-attacking-ocasio-cortez-biden">Lawmaker Tweets Anime of Him Attacking Ocasio-Cortez, Biden</a> Bloomberg: A Republican congressman from Arizona touched off a social media uproar after he posted a doctored version of a popular anime with him attacking President Joe Biden and Representative Alexandria Ocasio- Cortez, a New York Democrat. 
  <p class="updated_time"> 11:06 PM CT, Nov. 08 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-09/japan-plans-100-000-yen-in-cash-and-vouchers-to-kids-kyodo-says">Japan Plans 100,000 Yen in Cash and Vouchers to Kids, Kyodo Says</a> Bloomberg: Japanese Prime Minister Fumio Kishida’s government is planning cash and voucher handouts for children 18 and younger, responding to a campaign pledge the junior member of the ruling coalition made in the recent general election. 
  <p class="updated_time"> 11:01 PM CT, Nov. 08 </p> 
@@ -240,6 +238,8 @@ permalink: /projects/news/
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-1qB-7aWcxM/index.html">Part of DC lawsuit against Trump's inaugural committee moves toward trial</a> CNN: A lawsuit filed by DC Attorney General Karl Racine accusing former President Donald Trump's 2017 Presidential Inaugural Committee of abusing non-profit funds will proceed to trial after a DC Superior Court judge ruled Monday that claims accusing the committee of overpaying for event space may move forward. 
  <p class="updated_time"> 09:45 PM CT, Nov. 08 </p> 
  <a href="https://www.washingtonpost.com/politics/house-jan-6-committee-issues-subpoenas-to-6-top-trump-advisers-including-pair-involved-in-willard-hotel-command-center/2021/11/08/6e91b0f2-40a6-11ec-a88e-2aa4632af69b_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">House Jan. 6 committee issues subpoenas to 6 top Trump advisers, including pair involved in Willard hotel ‘command center’</a> WaPo: Those subpoenaed include scholar John Eastman, author of a legal strategy to deny Biden the presidency, and former New York police commissioner Bernard Kerik. 
+ <p class="updated_time"> 09:38 PM CT, Nov. 08 </p> 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-09/china-s-covid-zero-turns-more-elusive-as-symptom-free-cases-grow">China’s Covid Zero Turns More Elusive as Symptom-Free Cases Grow</a> Bloomberg: China reported more infections in people who exhibited no symptoms of Covid-19 on Tuesday than in those who were actively suffering from the virus, indicating the challenge it faces in eliminating the highly infectious and insidious pathogen. 
  <p class="updated_time"> 09:30 PM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/us/politics/jill-biden-kids-vaccine.html">Jill Biden Kicks Off Covid Vaccine Campaign for Young Children</a> NYT: The first lady and the surgeon general visited an elementary school in Virginia as part of a strategy to enlist schools in promoting the vaccine. 
  <p class="updated_time"> 09:30 PM CT, Nov. 08 </p> 
@@ -350,12 +350,8 @@ permalink: /projects/news/
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/DElB6sGwR-I/index.html">Jill Biden pays tribute to one of America's most iconic first ladies</a> CNN: As the season changed from summer to fall, first lady Jill Biden has found a spot to sit outside at the White House to grade her students' essays. 
  <p class="updated_time"> 01:59 PM CT, Nov. 08 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/utnCfpEJDyw/index.html">Analysis: Nancy Pelosi is the most effective speaker ever</a> CNN: Almost 15 years ago, Nancy Pelosi wrote her name in the history books as the first female speaker of the House. 
- <p class="updated_time"> 01:56 PM CT, Nov. 08 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-08/bolsonaro-says-he-s-ready-to-join-liberal-party-before-2022-vote">Bolsonaro Says He’s Ready to Join Liberal Party Before 2022 Vote</a> Bloomberg: President Jair Bolsonaro is ready to join Brazil’s Liberal Party to run for re-election in 2022, according to CNN Brasil. 
  <p class="updated_time"> 01:55 PM CT, Nov. 08 </p> 
  <a href="https://www.npr.org/2021/11/08/1053599349/u-s-indicts-2-men-behind-ransomware-attacks-over-the-summer">U.S. indicts 2 men behind major ransomware attacks</a> NPR: The attacks shut down a meat processing plant and an internet software provider earlier this year. 
- <p class="updated_time"> 01:54 PM CT, Nov. 08 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-08/n-j-s-murphy-sees-school-mask-mandates-being-lifted-in-phases">New Jersey Governor Sees School-Mask Mandates Being Lifted in Phases</a> Bloomberg: New Jersey Governor Phil Murphy said he expects to lift school-mask requirements in phases, beginning with older students who are further along getting vaccinations. He gave no timeline for when the mandates would be lifted. 
  <p class="updated_time"> 01:33 PM CT, Nov. 08 </p> 
  <a href="https://www.washingtonpost.com/politics/new-jersey-governor-concede/2021/11/08/1cec7668-409e-11ec-9ea7-3eb2406a2e24_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Democrats call on New Jersey Republican to concede gubernatorial race</a> WaPo: Republican nominee Jack Ciattarelli has refused, citing uncounted ballots, the same rationale offered by the Democratic state Senate president as he refuses to concede. 
  <p class="updated_time"> 01:27 PM CT, Nov. 08 </p> 
