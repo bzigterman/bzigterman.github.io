@@ -7,6 +7,12 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:53 PM CT, Nov. 09 </p> 
+ <a href="https://www.nytimes.com/2021/11/09/us/politics/pfizer-booster-approval-adults.html">Pfizer Asks for Authorization for Boosters for Adult Recipients</a> NYT: An advisory panel to the Food and Drug Administration voted against a similar request from Pfizer in mid-September, but the agency is considered likely to grant the request, perhaps before Thanksgiving. 
+ <p class="updated_time"> 01:52 PM CT, Nov. 09 </p> 
+ <a href="https://www.nytimes.com/2021/11/09/world/asia/india-hospital-fire.html">India Hospital Fire Leaves at Least 4 Infants Dead</a> NYT: The blaze, in a hospital in central India on Monday night, was the latest in a series of deadly fires at health care centers in recent months. 
+ <p class="updated_time"> 01:48 PM CT, Nov. 09 </p> 
+ <a href="https://www.nytimes.com/2021/11/09/world/europe/france-vaccine-booster.html">Macron Announces New Vaccine Rules in France</a> NYT: Though the country has a high vaccination rate, new coronavirus cases and hospital admissions have been increasing in recent weeks. 
  <p class="updated_time"> 01:43 PM CT, Nov. 09 </p> 
  <a href="https://www.nytimes.com/2021/11/09/world/europe/poland-belarus-border-crisis.html">E.U. Blames Belarus for Migrant Crisis at Poland Border</a> NYT: Poland has massed troops at the border, the European Union’s eastern frontier, to keep migrants camped there from crossing into the country. 
  <p class="updated_time"> 01:39 PM CT, Nov. 09 </p> 
@@ -17,8 +23,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/09/world/asia/india-covid-vaccinations.html">India Risks Covid-19 Complacency After Its Vaccine Campaign</a> NYT: The success represents a major victory for Narendra Modi’s government, but a recent slowdown in new vaccinations has sparked worries. 
  <p class="updated_time"> 12:00 PM CT, Nov. 09 </p> 
  <a href="https://www.nytimes.com/2021/11/09/climate/africa-fossil-fuel-gas-cop26.html">Africa's Leaders Say Rich Countries Need to Quit Oil and Gas First</a> NYT: As negotiators at the Glasgow climate talks try to agree on greenhouse gas cuts, African leaders say poorer countries can’t be expected to remake their systems as quickly as wealthy ones. 
- <p class="updated_time"> 11:53 AM CT, Nov. 09 </p> 
- <a href="https://www.nytimes.com/2021/11/09/us/politics/pfizer-booster-approval-adults.html">Pfizer Expected to Ask for Authorization for Boosters for All Adults</a> NYT: An advisory panel to the Food and Drug Administration voted against a similar request from Pfizer in mid-September, but the agency is considered likely to grant the request, perhaps before Thanksgiving. 
  <p class="updated_time"> 11:35 AM CT, Nov. 09 </p> 
  <a href="https://www.nytimes.com/2021/11/09/world/europe/england-health-workers-vaccine-mandate.html">England Will Require N.H.S. Workers to Be Vaccinated by April</a> NYT: About 80,000 to 100,000 National Health Service workers in the country remain unvaccinated against the coronavirus. 
  <p class="updated_time"> 11:33 AM CT, Nov. 09 </p> 
@@ -37,8 +41,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59215769?at_medium=RSS&at_campaign=KARANGA">Belarus migrants: EU accuses Lukashenko of gangster-style abuse</a> BBC: Two thousand migrants are at the Polish border and the EU says they are being lured there with lies. 
  <p class="updated_time"> 10:59 AM CT, Nov. 09 </p> 
  <a href="https://www.nytimes.com/2021/11/09/world/asia/us-release-china-zhang-zhan.html">U.S. Urges Release of Chinese Citizen Journalist Who Documented Covid</a> NYT: Zhang Zhan, who was imprisoned after exposing the failures of the government’s initial response to the coronavirus outbreak in Wuhan, is near death, friends and family say. 
- <p class="updated_time"> 10:57 AM CT, Nov. 09 </p> 
- <a href="https://www.nytimes.com/2021/11/09/world/asia/india-hospital-fire.html">India Hospital Fire Leaves at Least 4 Infants Dead</a> NYT: The blaze, in a hospital in central India on Monday night, was the latest in a series of deadly fires at health care centers in recent months. 
  <p class="updated_time"> 10:52 AM CT, Nov. 09 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-56901261?at_medium=RSS&at_campaign=KARANGA">What is COP26 and what was agreed at Glasgow climate conference?</a> BBC: A crucial climate change summit is being held in the UK - this is why it's important. 
  <p class="updated_time"> 10:48 AM CT, Nov. 09 </p> 
@@ -193,8 +195,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/06/world/middleeast/iraq-prime-minister-drone.html">Fears of Wider Instability in Iraq After Attack on Prime Minister’s Home</a> NYT: Armed drones struck the Iraqi prime minister’s home in what was seen as a warning as Iranian-backed groups dispute the results of parliamentary elections. 
  <p class="updated_time"> 09:48 AM CT, Nov. 07 </p> 
  <a href="https://www.nytimes.com/2021/11/07/world/europe/korea-sakhalin-japan-russia.html">What’s in a Name? For the Koreans of Sakhalin, an Anguished History</a> NYT: Stranded for decades on the island in Russia’s Far East, some bear three names, Japanese, Russian and Korean, representing different historical chapters. Now, many are planning their return. 
- <p class="updated_time"> 09:08 AM CT, Nov. 07 </p> 
- <a href="https://www.nytimes.com/2021/11/06/world/americas/biden-osha-vaccine-mandate-blocked.html">Biden's Vaccine Mandate Temporarily Blocked, Foreshadowing Uphill Battle</a> NYT: A stay granted by a federal appeals court in Louisiana could signal an uphill battle for the administration in getting the entire American work force vaccinated. 
  <p class="updated_time"> 06:33 AM CT, Nov. 07 </p> 
  <a href="https://www.nytimes.com/2021/11/07/world/asia/myanmar-bill-richardson.html">Veteran U.S. Diplomat Comes Under Criticism for a Trip to Myanmar</a> NYT: Bill Richardson, a former ambassador to the U.N., said that he had held “productive” talks with the general who led the February coup. Rights activists said he gave the junta an air of legitimacy. 
  <p class="updated_time"> 04:00 AM CT, Nov. 07 </p> 
@@ -212,6 +212,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 01:53 PM CT, Nov. 09 </p> 
+ <a href="https://www.nytimes.com/2021/11/09/us/politics/pfizer-booster-approval-adults.html">Pfizer Asks for Authorization for Boosters for Adult Recipients</a> NYT: An advisory panel to the Food and Drug Administration voted against a similar request from Pfizer in mid-September, but the agency is considered likely to grant the request, perhaps before Thanksgiving. 
  <p class="updated_time"> 01:48 PM CT, Nov. 09 </p> 
  <a href="https://www.nytimes.com/2021/11/09/us/politics/trump-officials-illegal-campaigning.html">Trump Officials Illegally Campaigned While in Office, Watchdog Finds</a> NYT: Mr. Trump’s son-in-law and his chief of staff are among those accused of violating a law designed to prevent federal employees from abusing their power. 
  <p class="updated_time"> 01:45 PM CT, Nov. 09 </p> 
@@ -244,6 +246,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/09/1053817211/justice-on-the-brink-author-considers-the-impact-of-trumps-3-supreme-court-picks">'Justice on the Brink' author considers the impact of Trump's 3 Supreme Court picks</a> NPR: Pulitzer Prize-winning journalist Linda Greenhouse says the new Court has given conservatives less than they'd hoped for, though critical cases on abortion and other issues are still pending. 
  <p class="updated_time"> 01:00 PM CT, Nov. 09 </p> 
  <a href="https://www.npr.org/2021/11/09/1053929419/feel-like-you-dont-fit-in-either-political-party-heres-why">Feel like you don't fit in either political party? Here's why</a> NPR: The division is far more complicated than a split between Republicans and Democrats, according to the Pew Research Center. Here are the differences in ideology on race, economics and government. 
+ <p class="updated_time"> 01:00 PM CT, Nov. 09 </p> 
+ <a href="https://www.washingtonpost.com/politics/2021/11/09/democrat-republican-voters-survey/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Not just red and blue: Large survey explores factions within Democratic and Republican parties</a> WaPo: The Pew Research Center’s political typology survey shows what unites and divides each party. 
  <p class="updated_time"> 12:59 PM CT, Nov. 09 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-09/biden-trudeau-amlo-to-meet-as-north-american-borders-reopen">Biden, Trudeau, AMLO to Meet as North American Borders Reopen</a> Bloomberg: The leaders of the United States, Canada and Mexico plan to meet in-person for the first time in Joe Biden’s presidency as early as next week, according to two people familiar with the matter. 
  <p class="updated_time"> 12:53 PM CT, Nov. 09 </p> 
@@ -274,8 +278,6 @@ permalink: /projects/news/
  <a href="https://www.bloomberg.com/news/articles/2021-11-09/former-trump-officials-violated-hatch-act-during-2020-election">Former Trump Officials Violated Hatch Act During 2020 Election, OSC Says</a> Bloomberg: High-ranking officials in the Trump administration, including former senior adviser Jared Kushner and former National Security Advisor Robert O’Brien and chief of staff Mark Meadows, violated federal law with their political activities, the U.S. Office of the Special Counsel said in a report Tuesday. 
  <p class="updated_time"> 11:55 AM CT, Nov. 09 </p> 
  <a href="https://www.npr.org/2021/11/09/1053895408/paul-gosar-alexandria-ocasio-cortez-anime-twitter-video-backlash">Rep. Paul Gosar shared an anime video of himself killing AOC. This was her response</a> NPR: The video shows Gosar's character killing Rep. Alexandria Ocasio-Cortez with a sword and brandishing weapons at President Biden. Twitter says it violates its hateful conduct rules but has left it up. 
- <p class="updated_time"> 11:53 AM CT, Nov. 09 </p> 
- <a href="https://www.nytimes.com/2021/11/09/us/politics/pfizer-booster-approval-adults.html">Pfizer Expected to Ask for Authorization for Boosters for All Adults</a> NYT: An advisory panel to the Food and Drug Administration voted against a similar request from Pfizer in mid-September, but the agency is considered likely to grant the request, perhaps before Thanksgiving. 
  <p class="updated_time"> 11:39 AM CT, Nov. 09 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-09/infrastructure-bill-sparks-return-of-u-s-debt-ceiling-concern">Debt-Ceiling Jitters Return on Terms of U.S. Infrastructure Bill</a> Bloomberg: A seemingly innocuous point in the Biden administration’s infrastructure bill has rate-market investors once again sharpening their focus on exactly when the U.S. government might breach its borrowing limit. 
  <p class="updated_time"> 11:39 AM CT, Nov. 09 </p> 
@@ -297,7 +299,7 @@ permalink: /projects/news/
  <p class="updated_time"> 10:41 AM CT, Nov. 09 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RbpX1YFvI5c/index.html">Public allowed to lay flowers at the Tomb of the Unknown Soldier for first time in nearly 100 years</a> CNN: For the first time in nearly a century, members of the public will be able to walk on the Tomb of the Unknown Soldier plaza and lay flowers before the sacred memorial site in Arlington National Cemetery on Tuesday and Wednesday. 
  <p class="updated_time"> 10:28 AM CT, Nov. 09 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-09/thousands-of-uk-s-phone-boxes-to-be-protected-from-closure">Britain Acts to Secure Future for Thousands of Red Phone Boxes </a> Bloomberg: London (AP) -- Thousands of Britain’s iconic red phone boxes will be protected from removal under new rules, the U.K.'s telecommunications regulator said Tuesday. 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-09/thousands-of-uk-s-phone-boxes-to-be-protected-from-closure">Britain Acts to Secure Future for Thousands of Red Phone Boxes </a> Bloomberg: Thousands of Britain’s iconic red phone boxes will be protected from removal under new rules, the U.K.'s telecommunications regulator said Tuesday. 
  <p class="updated_time"> 10:25 AM CT, Nov. 09 </p> 
  <a href="https://www.nytimes.com/2021/11/09/us/politics/sununu-new-hampshire-governor.html">Sununu to Seek Re-election as New Hampshire Governor, Rejecting Senate Bid</a> NYT: National Republicans had seen a potential campaign by Gov. Chris Sununu against Senator Maggie Hassan, a Democrat, as one of their best shots to upend the Senate’s 50-50 split. 
  <p class="updated_time"> 10:24 AM CT, Nov. 09 </p> 
@@ -312,8 +314,6 @@ permalink: /projects/news/
  <a href="https://www.washingtonpost.com/politics/2021/11/09/testing-option-vaccine-mandate/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">The reality of the testing option in Biden’s vaccine-or-testing mandate</a> WaPo: It's never talked about enough -- especially in GOP pushback on Biden's policy -- but polls have suggested the vast majority of Americans are on board. 
  <p class="updated_time"> 09:59 AM CT, Nov. 09 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-09/ireland-preparing-for-potential-eu-u-k-trade-war-varadkar-says">Ireland Preparing for Potential EU-U.K. Trade War, Varadkar Says</a> Bloomberg: Ireland is preparing for a possible trade war between the EU and U.K., its deputy prime minister said, amid rising tensions between the two sides. 
- <p class="updated_time"> 09:46 AM CT, Nov. 09 </p> 
- <a href="https://www.politico.com/news/2021/11/09/sununu-wont-run-for-senate-520413">Sunu-no: Top GOP recruit won't run for Senate</a> Politico: New Hampshire Gov. Chris Sununu said Tuesday he will seek reelection, denying Republicans their top recruit of the 2022 election cycle. 
  <p class="updated_time"> 09:42 AM CT, Nov. 09 </p> 
  <a href="https://www.washingtonpost.com/politics/2021/11/09/how-many-people-will-go-prison-trumps-dishonesty/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">How many people will go to prison for Trump’s dishonest election claims?</a> WaPo: The threat of violence from his election claims hasn't gone away. 
  <p class="updated_time"> 09:39 AM CT, Nov. 09 </p> 
@@ -432,8 +432,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/08/shooting-victim-kyle-rittenhouse-520336">Shooting victim says he was pointing his gun at Rittenhouse</a> Politico: “I thought the defendant was an active shooter,” Gaige Grosskreutz testified. 
  <p class="updated_time"> 05:21 PM CT, Nov. 08 </p> 
  <a href="https://www.washingtonpost.com/politics/courts_law/supreme-court-fbi-mosques/2021/11/08/4fbc6b26-409d-11ec-a88e-2aa4632af69b_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Supreme Court considers if state secrets claim can end Muslim men’s lawsuit against FBI</a> WaPo: During Operation Flex, the bureau used an undercover agent to surveil Southern California Islamic centers. 
- <p class="updated_time"> 05:09 PM CT, Nov. 08 </p> 
- <a href="https://www.washingtonpost.com/politics/2021/11/08/this-is-why-its-useful-talk-about-historic-examples-institutionalized-racism/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">And this is why it’s useful to talk about historical examples of institutionalized racism</a> WaPo: Right-wing guffaws over a comment from Transportation Secretary Pete Buttigieg reveal a lack of familiarity with history. 
  <p class="updated_time"> 04:53 PM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/us/supreme-court-fbi-muslims.html">Supreme Court Weighs Case Against F.B.I. for Spying on Muslims</a> NYT: The justices considered whether the state secrets doctrine required dismissal on national security grounds of a case claiming religious discrimination. 
  <p class="updated_time"> 04:38 PM CT, Nov. 08 </p> 
