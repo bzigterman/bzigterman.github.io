@@ -49,6 +49,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-india-59225086?at_medium=RSS&at_campaign=KARANGA">Toxic foam covers sacred Yamuna river in India</a> BBC: Hindu devotees are filmed bathing in the Yamuna river to mark the Chhath Puja religious festival. 
  <p class="updated_time"> 08:01 AM CT, Nov. 09 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59220687?at_medium=RSS&at_campaign=KARANGA">COP26: World headed for 2.4C warming despite climate summit - report</a> BBC: New analysis of pledges at COP26 suggest no government is doing enough to limit temperature rise. 
+ <p class="updated_time"> 07:53 AM CT, Nov. 09 </p> 
+ <a href="https://www.wsj.com/articles/u-s-canada-border-opening-sends-snowbirds-south-11636484009">U.S.-Canada Border Opening Sends Snowbirds Cruising South</a> WSJ: Canadians are again driving to the U.S. to escape a harsh winter, and businesses in Florida and other states are eager to welcome them. 
  <p class="updated_time"> 07:12 AM CT, Nov. 09 </p> 
  <a href="https://www.wsj.com/articles/nicaraguas-shift-towards-dictatorship-is-part-of-a-latin-american-backslide-11636476080">Nicaragua's Autocratic Shift Is Part of a Latin American Backslide</a> WSJ: President Daniel Ortega’s victory in elections that the U.S. called a sham is the latest evidence that the region’s democracy is unraveling amid waning U.S. influence, political analysts say. 
  <p class="updated_time"> 07:05 AM CT, Nov. 09 </p> 
@@ -79,8 +81,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59218239?at_medium=RSS&at_campaign=KARANGA">US couple on alleged IVF swap: 'Our memories of childbirth will always be tainted'</a> BBC: A California couple was given the wrong embryo by an IVF fertility clinic, according to a lawsuit. 
  <p class="updated_time"> 01:14 AM CT, Nov. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59172767?at_medium=RSS&at_campaign=KARANGA">Nagaenthran: Family prays for miracle to halt execution of man with low IQ</a> BBC: The drug trafficking case has sparked a rare disquiet in Singapore where the death penalty is largely uncontroversial. 
- <p class="updated_time"> 01:13 AM CT, Nov. 09 </p> 
- <a href="https://www.wsj.com/articles/chinese-journalist-who-reported-from-wuhan-is-gravely-ill-after-prison-hunger-strike-11636460027">Chinese Journalist Who Reported From Wuhan Is Gravely Ill After Prison Hunger Strike</a> WSJ: Zhang Zhan had posted more than 120 YouTube videos chronicling conditions in Wuhan during the government-imposed lockdown, detailing what she saw as missteps in the government’s initial pandemic response. 
  <p class="updated_time"> 12:47 AM CT, Nov. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59208301?at_medium=RSS&at_campaign=KARANGA">Hundreds of migrants at Belarus' border with Poland</a> BBC: Poland says it has stopped attempts by the large group to enter the country from Belarus. 
  <p class="updated_time"> 10:25 PM CT, Nov. 08 </p> 
@@ -212,6 +212,10 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 01:00 PM CT, Nov. 09 </p> 
+ <a href="https://www.npr.org/2021/11/09/1053929419/feel-like-you-dont-fit-in-either-political-party-heres-why">Feel like you don't fit in either political party? Here's why</a> NPR: The division is far more complicated than a split between Republicans and Democrats, according to the Pew Research Center. Here are the differences in ideology on race, economics and government. 
+ <p class="updated_time"> 12:53 PM CT, Nov. 09 </p> 
+ <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WoNpfkk4c_s/index.html">Republican congressman posts video depicting violence against Ocasio-Cortez, Biden</a> CNN: Republican Rep. Paul Gosar posted a photoshopped anime video to his Twitter and Instagram accounts showing him appearing to kill Democratic Rep. Alexandria Ocasio-Cortez and attacking President Joe Biden. 
  <p class="updated_time"> 12:39 PM CT, Nov. 09 </p> 
  <a href="https://www.nytimes.com/2021/11/09/us/politics/where-is-newsom-california.html">Where Is Gavin Newsom, California's Governor?</a> NYT: He’s in the office, according to increasingly frustrated staff members. But his critics on Twitter aren’t buying it. 
  <p class="updated_time"> 12:36 PM CT, Nov. 09 </p> 
@@ -248,8 +252,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/09/us/politics/sean-maloney-democrats.html">‘Free Joe Biden’: Sean Maloney on How Democrats Can Get Back on Track</a> NYT: In an interview, the leader of the House Democrats’ campaign arm acknowledged the major challenges facing the party but defended its agenda and its continued focus on Donald Trump. 
  <p class="updated_time"> 11:34 AM CT, Nov. 09 </p> 
  <a href="https://www.washingtonpost.com/politics/harris-gets-a-chance-to-burnish-her-image-on-the-world-stage-in-paris/2021/11/09/588742fe-40fb-11ec-a3aa-0255edc02eb7_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Harris gets a chance to burnish her image on the world stage in Paris</a> WaPo: Vice President Harris’s visit to a long-standing ally offers a chance for a positive narrative after uneven international trips that have been marked by setbacks. 
- <p class="updated_time"> 11:22 AM CT, Nov. 09 </p> 
- <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WoNpfkk4c_s/index.html">Republican congressman posts video depicting violence against Ocasio-Cortez, Biden</a> CNN: Republican Rep. Paul Gosar posted a photoshopped anime video to his Twitter and Instagram accounts showing him appearing to kill Democratic Rep. Alexandria Ocasio-Cortez and attacking President Joe Biden. 
  <p class="updated_time"> 11:14 AM CT, Nov. 09 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uIWL_ztFnUc/index.html">New Hampshire Gov. Chris Sununu declines Senate bid in significant blow for Republicans</a> CNN: New Hampshire Gov. Chris Sununu on Tuesday said he would not run against Democratic Sen. Maggie Hassan in 2022, dealing a significant blow to Republicans who hoped the seat would be a top target in the critical midterm elections. 
  <p class="updated_time"> 11:05 AM CT, Nov. 09 </p> 
@@ -277,9 +279,9 @@ permalink: /projects/news/
  <p class="updated_time"> 10:09 AM CT, Nov. 09 </p> 
  <a href="https://www.washingtonpost.com/politics/new-hampshire-gov-chris-sununu-to-seek-a-fourth-term-not-run-for-senate/2021/11/09/117f870e-4155-11ec-9ea7-3eb2406a2e24_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">New Hampshire Gov. Chris Sununu to seek a fourth term, not run for Senate</a> WaPo: National party leaders had urged the Republican to take on Sen. Maggie Hassan (D) in a race they see as key to winning control of the chamber next year. 
  <p class="updated_time"> 10:02 AM CT, Nov. 09 </p> 
- <a href="https://www.washingtonpost.com/politics/2021/11/09/testing-option-vaccine-mandate/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">GOP often ignores testing option in Biden’s vaccinate-or-test mandate. Here’s why.</a> WaPo: It's time to talk about the testing option, with which polls have suggested the vast majority of Americans are on board. 
+ <a href="https://www.washingtonpost.com/politics/2021/11/09/testing-option-vaccine-mandate/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">The reality of the testing option in Biden’s vaccine-or-testing mandate</a> WaPo: It's never talked about enough -- especially in GOP pushback on Biden's policy -- but polls have suggested the vast majority of Americans are on board. 
  <p class="updated_time"> 10:02 AM CT, Nov. 09 </p> 
- <a href="https://www.washingtonpost.com/politics/2021/11/09/testing-option-vaccine-mandate/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">GOP often ignores testing option in Biden’s vaccinate-or-test mandate. Here’s why.</a> WaPo: It's time to talk about the testing option, with which polls have suggested the vast majority of Americans are on board. 
+ <a href="https://www.washingtonpost.com/politics/2021/11/09/testing-option-vaccine-mandate/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">The reality of the testing option in Biden’s vaccine-or-testing mandate</a> WaPo: It's never talked about enough -- especially in GOP pushback on Biden's policy -- but polls have suggested the vast majority of Americans are on board. 
  <p class="updated_time"> 09:59 AM CT, Nov. 09 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-09/ireland-preparing-for-potential-eu-u-k-trade-war-varadkar-says">Ireland Preparing for Potential EU-U.K. Trade War, Varadkar Says</a> Bloomberg: Ireland is preparing for a possible trade war between the EU and U.K., its deputy prime minister said, amid rising tensions between the two sides. 
  <p class="updated_time"> 09:57 AM CT, Nov. 09 </p> 
@@ -480,8 +482,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/08/va-reject-medical-marijuana-veterans-519757">VA rejects cannabis research as veterans plead for medical pot</a> Politico: Scientists say the VA and the DOJ have a history of stonewalling anyone who wants to conduct trials of plant-derived cannabis for therapeutic purposes. 
  <p class="updated_time"> 04:30 AM CT, Nov. 08 </p> 
  <a href="https://www.politico.com/news/2021/11/08/democratic-senate-majority-dicey-virginia-520214">The Democratic Senate majority was already dicey. Then came Virginia.</a> Politico: A favorable map is not going to be enough to save Senate Dems. But they might get help from a few tarnished GOP candidates. 
- <p class="updated_time"> 04:06 AM CT, Nov. 08 </p> 
- <a href="https://www.npr.org/2021/11/08/1053442982/harris-will-be-the-top-u-s-official-at-a-large-gathering-of-world-leaders-in-fra">Harris will be the top U.S. official at a large gathering of world leaders in France</a> NPR: Vice President Harris heads to France, a trip where she will have face time with more than two dozen world leaders, and a chance to build up her track record on international diplomacy. 
  <p class="updated_time"> 04:00 AM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/nyregion/nassau-county-republicans-election.html">Why Republicans Won in Nassau County</a> NYT: Voters readily ousted Democrats in Nassau County on Long Island, electing Republicans down the ballot. 
  <p class="updated_time"> 02:31 PM CT, Nov. 07 </p> 
