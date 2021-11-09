@@ -7,7 +7,7 @@ Eastern,NYK,7,4,.636
 Eastern,CLE,7,4,.636
 Eastern,BKN,7,4,.636
 Eastern,TOR,6,5,.545
-Eastern,CHA,5,6,.455
+Eastern,CHA,5,7,.417
 Eastern,MIL,4,6,.400
 Eastern,BOS,4,6,.400
 Eastern,ATL,4,7,.364
@@ -21,8 +21,8 @@ Western,PHX,6,3,.667
 Western,MEM,6,4,.600
 Western,DEN,6,4,.600
 Western,LAC,5,4,.556
+Western,LAL,6,5,.545
 Western,POR,5,5,.500
-Western,LAL,5,5,.500
 Western,SAC,5,6,.455
 Western,MIN,3,6,.333
 Western,OKC,3,6,.333
