@@ -22,7 +22,7 @@ permalink: /projects/news/
  <p class="updated_time"> 05:14 AM CT, Nov. 09 </p> 
  <a href="https://www.npr.org/2021/11/09/1053813035/8-years-after-he-killed-his-girlfriend-olympic-runner-pistorius-is-up-for-parole">8 years after he killed his girlfriend, Olympic runner Pistorius is up for parole</a> NPR: Oscar Pistorius, a double-amputee who competed at the 2012 Olympics, has been eligible for parole since July after serving half his sentence. He was convicted of murdering model Reva Steenkamp. 
  <p class="updated_time"> 05:07 AM CT, Nov. 09 </p> 
- <a href="https://www.nytimes.com/2021/11/09/world/asia/covid-china-zhang-zhan.html">U.S. Urges Release of Zhang Zhan, Chinese Citizen Journalist Who Documented Covid</a> NYT: Zhang Zhan, who was imprisoned after exposing the failures of the government’s initial response to the coronavirus outbreak in Wuhan, is near death, friends and family say. 
+ <a href="https://www.nytimes.com/2021/11/09/world/asia/us-release-china-zhang-zhan.html">U.S. Urges Release of Chinese Citizen Journalist Who Documented Covid</a> NYT: Zhang Zhan, who was imprisoned after exposing the failures of the government’s initial response to the coronavirus outbreak in Wuhan, is near death, friends and family say. 
  <p class="updated_time"> 04:27 AM CT, Nov. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59218458?at_medium=RSS&at_campaign=KARANGA">Sierra Leone tanker explosion: Survivors try to rebuild lives</a> BBC: Survivors are left wondering how to rebuild their lives after Sierra Leone's tanker explosion. 
  <p class="updated_time"> 04:00 AM CT, Nov. 09 </p> 
@@ -204,6 +204,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 07:24 AM CT, Nov. 09 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/11/09/senate-schedule-seasonally-depressing-495031">Senate schedule: seasonally depressing</a> Politico: A play-by-play preview of the day&#39;s congressional news 
+ <p class="updated_time"> 07:16 AM CT, Nov. 09 </p> 
+ <a href="https://www.nytimes.com/2021/11/08/arts/critical-race-theory-bans.html">Bans on Critical Race Theory Threaten Free Speech, Advocacy Group Says</a> NYT: A report by PEN America, which surveys more than 50 bills proposed across the country, appeals to a principle that has lost its luster for many on the left and right. 
  <p class="updated_time"> 07:00 AM CT, Nov. 09 </p> 
  <a href="https://www.washingtonpost.com/dc-md-va/2021/11/09/rioters-charges-arrests-jan-6-insurrection/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Desperate, angry, destructive: How Americans morphed into a mob</a> WaPo: What we know about the people who stormed the Capitol on Jan. 6. 
  <p class="updated_time"> 06:26 AM CT, Nov. 09 </p> 
@@ -414,8 +416,6 @@ permalink: /projects/news/
  <a href="https://www.washingtonpost.com/politics/2021/11/08/more-confirmation-that-gop-under-trump-is-hostage-situation/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">The GOP under Trump is a hostage situation</a> WaPo: Yet another report indicates Trump threatened to switch parties. And the denials aren't adding up. 
  <p class="updated_time"> 10:16 AM CT, Nov. 08 </p> 
  <a href="https://www.washingtonpost.com/politics/2021/11/08/rhetorical-power-word-woke-is-far-more-obvious-than-its-definition/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">The rhetorical power of the word ‘woke’ is far more obvious than its definition</a> WaPo: What we talk about when we talk about nothing. 
- <p class="updated_time"> 10:15 AM CT, Nov. 08 </p> 
- <a href="https://www.nytimes.com/2021/11/08/arts/critical-race-theory-bans.html">Bans on Critical Race Theory Threaten Free Speech, Advocacy Group Says</a> NYT: A report by PEN America, which surveys more than 50 bills proposed across the country, appeals to a principle that has lost its luster for many on the left and right. 
  <p class="updated_time"> 10:03 AM CT, Nov. 08 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uTQPN82VZNw/index.html">Obama swipes at Trump for 'four years of active hostility' on climate in Glasgow speech</a> CNN: Former President Barack Obama will deliver remarks on Monday at the UN climate conference in Glasgow in a return to the world stage centered around the climate crisis. 
  <p class="updated_time"> 09:46 AM CT, Nov. 08 </p> 
