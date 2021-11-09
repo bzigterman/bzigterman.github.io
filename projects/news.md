@@ -7,12 +7,14 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:06 PM CT, Nov. 09 </p> 
+ <a href="https://www.nytimes.com/2021/11/09/world/asia/india-covid-vaccinations.html">India Risks Covid-19 Complacency After Its Vaccine Campaign</a> NYT: The success represents a major victory for Narendra Modi’s government, but a recent slowdown in new vaccinations has sparked worries. 
+ <p class="updated_time"> 12:00 PM CT, Nov. 09 </p> 
+ <a href="https://www.nytimes.com/2021/11/09/climate/africa-fossil-fuel-gas-cop26.html">Africa's Leaders Say Rich Countries Need to Quit Oil and Gas First</a> NYT: As negotiators at the Glasgow climate talks try to agree on greenhouse gas cuts, African leaders say poorer countries can’t be expected to remake their systems as quickly as wealthy ones. 
  <p class="updated_time"> 11:53 AM CT, Nov. 09 </p> 
  <a href="https://www.nytimes.com/2021/11/09/us/politics/pfizer-booster-approval-adults.html">Pfizer Expected to Ask for Authorization for Boosters for All Adults</a> NYT: An advisory panel to the Food and Drug Administration voted against a similar request from Pfizer in mid-September, but the agency is considered likely to grant the request, perhaps before Thanksgiving. 
  <p class="updated_time"> 11:35 AM CT, Nov. 09 </p> 
  <a href="https://www.nytimes.com/2021/11/09/world/europe/england-health-workers-vaccine-mandate.html">England Will Require N.H.S. Workers to Be Vaccinated by April</a> NYT: About 80,000 to 100,000 National Health Service workers in the country remain unvaccinated against the coronavirus. 
- <p class="updated_time"> 11:34 AM CT, Nov. 09 </p> 
- <a href="https://www.nytimes.com/2021/11/09/climate/africa-fossil-fuel-gas-cop26.html">Africa's Leaders Say Rich Countries Need to Quit Oil and Gas First</a> NYT: As negotiators at the Glasgow climate talks try to agree on greenhouse gas cuts, African leaders say poorer countries can’t be expected to remake their systems as quickly as wealthy ones. 
  <p class="updated_time"> 11:33 AM CT, Nov. 09 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59225576?at_medium=RSS&at_campaign=KARANGA">Emily Ratajkowski: Told to 'get ugly' for acting roles</a> BBC: In an interview with BBC Newsnight, she also spoke about her alleged sexual assault by Robin Thicke. 
  <p class="updated_time"> 11:27 AM CT, Nov. 09 </p> 
@@ -47,12 +49,10 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-india-59225086?at_medium=RSS&at_campaign=KARANGA">Toxic foam covers sacred Yamuna river in India</a> BBC: Hindu devotees are filmed bathing in the Yamuna river to mark the Chhath Puja religious festival. 
  <p class="updated_time"> 08:01 AM CT, Nov. 09 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59220687?at_medium=RSS&at_campaign=KARANGA">COP26: World on track for 2.4C warming despite climate summit - report</a> BBC: New analysis of pledges at COP26 suggest no government is doing enough to limit temperature rise. 
+ <p class="updated_time"> 07:12 AM CT, Nov. 09 </p> 
+ <a href="https://www.wsj.com/articles/nicaraguas-shift-towards-dictatorship-is-part-of-a-latin-american-backslide-11636476080">Nicaragua's Autocratic Shift Is Part of a Latin American Backslide</a> WSJ: President Daniel Ortega’s victory in elections that the U.S. called a sham is the latest evidence that the region’s democracy is unraveling amid waning U.S. influence, political analysts say. 
  <p class="updated_time"> 07:05 AM CT, Nov. 09 </p> 
  <a href="https://www.nytimes.com/2021/11/09/us/myrtle-beach-trash-can-ireland.html">A Trash Can From Myrtle Beach Washed Up in Ireland</a> NYT: “It reminded me straight away of maybe like a message in a bottle type scenario,” said Keith McGreal, who discovered the bin on Sunday afternoon while strolling on a beach with his family. 
- <p class="updated_time"> 07:03 AM CT, Nov. 09 </p> 
- <a href="https://www.nytimes.com/2021/11/09/world/asia/india-covid-vaccinations.html">India Risks Covid-19 Complacency After Its Vaccine Campaign</a> NYT: The success represents a major victory for Narendra Modi’s government, but a recent slowdown in new vaccinations has sparked worries. 
- <p class="updated_time"> 06:26 AM CT, Nov. 09 </p> 
- <a href="https://www.wsj.com/articles/nicaraguas-shift-towards-dictatorship-is-part-of-a-latin-american-backslide-11636476080">Nicaragua's Autocratic Shift Is Part of a Latin American Backslide</a> WSJ: President Daniel Ortega’s victory in elections that the U.S. called a sham is the latest evidence that the region’s democracy is unraveling amid waning U.S. influence, political analysts say. 
  <p class="updated_time"> 05:56 AM CT, Nov. 09 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59218522?at_medium=RSS&at_campaign=KARANGA">Tiger King 2: Carole Baskin has 'no claim' to sue over footage - Netflix</a> BBC: Tiger King's Carole Baskin is trying to sue Netflix for using footage of her in the new series. 
  <p class="updated_time"> 05:29 AM CT, Nov. 09 </p> 
@@ -212,12 +212,20 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:14 PM CT, Nov. 09 </p> 
+ <a href="https://www.nytimes.com/2021/11/09/us/politics/max-cleland-dead.html">Max Cleland, Vietnam Veteran and Former Senator, Dies at 79</a> NYT: He lost both legs and an arm in the war. Republicans impugned his patriotism by linking him to Osama bin Laden in an infamous TV spot. 
+ <p class="updated_time"> 12:02 PM CT, Nov. 09 </p> 
+ <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/B4jbhNAVlq0/index.html">Republicans who voted for Biden's infrastructure bill come under fire from Trump </a> CNN: Former President Donald Trump privately criticized on Monday night the 13 Republicans who voted to pass the $1.2 trillion infrastructure bill, questioning why they would give President Joe Biden a win when he's struggling in the polls, according to a GOP source. 
+ <p class="updated_time"> 12:01 PM CT, Nov. 09 </p> 
+ <a href="https://www.washingtonpost.com/politics/pelosi-calls-for-investigations-of-gosars-video-that-depicts-him-killing-ocasio-cortez/2021/11/09/5d5f3538-417e-11ec-9ea7-3eb2406a2e24_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Pelosi calls for investigations of Gosar’s video that depicts him killing Ocasio-Cortez</a> WaPo: In a tweet, the House speaker urged House Minority Leader Kevin McCarthy (R-Calif.) to support ethics and law enforcement investigations. 
  <p class="updated_time"> 12:00 PM CT, Nov. 09 </p> 
  <a href="https://www.politico.com/news/2021/11/09/trump-officials-hatch-act-violated-520420">Watchdog: 13 Trump officials violated Hatch Act during 2020 campaign</a> Politico: The list includes several cabinet officials and top White House aides, including Trump’s former Secretary of State Mike Pompeo, chief of staff Mark Meadows and press secretary Kayleigh McEnany. 
+ <p class="updated_time"> 11:59 AM CT, Nov. 09 </p> 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-09/former-trump-officials-violated-hatch-act-during-2020-election">Former Trump Officials Violated Hatch Act During 2020 Election, OSC Says</a> Bloomberg: High-ranking officials in the Trump administration, including former senior adviser Jared Kushner and former National Security Advisor Robert O’Brien and chief of staff Mark Meadows, violated federal law with their political activities, the U.S. Office of the Special Counsel said in a report Tuesday. 
+ <p class="updated_time"> 11:55 AM CT, Nov. 09 </p> 
+ <a href="https://www.npr.org/2021/11/09/1053895408/paul-gosar-alexandria-ocasio-cortez-anime-twitter-video-backlash">Rep. Paul Gosar shared an anime video of himself killing AOC. This was her response</a> NPR: The video shows Gosar's character killing Rep. Alexandria Ocasio-Cortez with a sword and brandishing weapons at President Biden. Twitter says it violates its hateful conduct rules but has left it up. 
  <p class="updated_time"> 11:53 AM CT, Nov. 09 </p> 
  <a href="https://www.nytimes.com/2021/11/09/us/politics/pfizer-booster-approval-adults.html">Pfizer Expected to Ask for Authorization for Boosters for All Adults</a> NYT: An advisory panel to the Food and Drug Administration voted against a similar request from Pfizer in mid-September, but the agency is considered likely to grant the request, perhaps before Thanksgiving. 
- <p class="updated_time"> 11:47 AM CT, Nov. 09 </p> 
- <a href="https://www.washingtonpost.com/politics/pelosi-calls-for-investigations-of-gosars-video-that-depicts-him-killing-ocasio-cortez/2021/11/09/5d5f3538-417e-11ec-9ea7-3eb2406a2e24_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Pelosi calls for investigations of Gosar’s video that depicts him killing Ocasio-Cortez</a> WaPo: In a tweet, the House speaker urged House Minority Leader Kevin McCarthy (R-Calif.) to support ethics and law enforcement investigations. 
  <p class="updated_time"> 11:46 AM CT, Nov. 09 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/SZI38gy7tGQ/index.html">Biden administration announcing actions to alleviate supply chain issues at nation's ports</a> CNN: The Biden administration announced a new set of immediate and short-term actions Tuesday aimed at alleviating supply chain issues at the nation's ports, waterways and freight networks as the administration takes steps to implement the newly passed, but not yet signed, bipartisan infrastructure bill. 
  <p class="updated_time"> 11:39 AM CT, Nov. 09 </p> 
@@ -231,7 +239,7 @@ permalink: /projects/news/
  <p class="updated_time"> 11:14 AM CT, Nov. 09 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uIWL_ztFnUc/index.html">New Hampshire Gov. Chris Sununu declines Senate bid in significant blow for Republicans</a> CNN: New Hampshire Gov. Chris Sununu on Tuesday said he would not run against Democratic Sen. Maggie Hassan in 2022, dealing a significant blow to Republicans who hoped the seat would be a top target in the critical midterm elections. 
  <p class="updated_time"> 11:05 AM CT, Nov. 09 </p> 
- <a href="https://www.washingtonpost.com/politics/trump-violations-hatch-act/2021/11/09/b3d4c764-4108-11ec-a88e-2aa4632af69b_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">At least 13 Trump officials illegally campaigned while in office, federal investigation finds</a> WaPo: A report by the Office of Special Counsel describes a “willful disregard” of the Hatch Act condoned by then-President Trump. 
+ <a href="https://www.washingtonpost.com/politics/trump-violations-hatch-act/2021/11/09/b3d4c764-4108-11ec-a88e-2aa4632af69b_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">At least 13 Trump officials illegally campaigned while in office, federal investigation finds</a> WaPo: A report by the Office of Special Counsel describes a “willful disregard” of the Hatch Act condoned by then-President Donald Trump. 
  <p class="updated_time"> 11:00 AM CT, Nov. 09 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-09/biden-team-to-help-expand-container-storage-at-savannah-port">Biden Team to Help Expand Container Storage at Savannah Port</a> Bloomberg: The U.S. Department of Transportation will allow the Georgia Port Authority to build storage for shipping containers at sites near the Port of Savannah using $8 million in unspent federal grants, part of a new plan to relieve supply-chain bottlenecks at U.S. ports. 
  <p class="updated_time"> 10:53 AM CT, Nov. 09 </p> 
@@ -262,8 +270,6 @@ permalink: /projects/news/
  <a href="https://www.bloomberg.com/news/articles/2021-11-09/ireland-preparing-for-potential-eu-u-k-trade-war-varadkar-says">Ireland Preparing for Potential EU-U.K. Trade War, Varadkar Says</a> Bloomberg: Ireland is preparing for a possible trade war between the EU and U.K., its deputy prime minister said, amid rising tensions between the two sides. 
  <p class="updated_time"> 09:57 AM CT, Nov. 09 </p> 
  <a href="https://www.nytimes.com/2021/11/09/us/politics/trucker-shortage-supply-chain.html">The Biggest Kink in America’s Supply Chain: Not Enough Truckers</a> NYT: Long hours and uncomfortable working conditions are leading to a shortage of truck drivers, which has compounded shipping delays in the United States. 
- <p class="updated_time"> 09:47 AM CT, Nov. 09 </p> 
- <a href="https://www.nytimes.com/2021/11/09/us/politics/max-cleland-dead.html">Max Cleland, Vietnam Veteran and Former Senator, Dies at 79</a> NYT: He lost both legs and an arm in the war. Republicans impugned his patriotism by linking him to Osama bin Laden in an infamous TV spot. 
  <p class="updated_time"> 09:46 AM CT, Nov. 09 </p> 
  <a href="https://www.politico.com/news/2021/11/09/sununu-wont-run-for-senate-520413">Sunu-no: Top GOP recruit won't run for Senate</a> Politico: New Hampshire Gov. Chris Sununu said Tuesday he will seek reelection, denying Republicans their top recruit of the 2022 election cycle. 
  <p class="updated_time"> 09:42 AM CT, Nov. 09 </p> 
@@ -332,8 +338,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/09/senate-dems-year-end-train-wreck-520275">The Senate’s year-end to-do list is ‘going to be a train wreck’</a> Politico: Ho, ho, oh no. Long nights, weekend work and threatened holidays are a Capitol tradition, and this year is likely no exception. 
  <p class="updated_time"> 04:30 AM CT, Nov. 09 </p> 
  <a href="https://www.politico.com/news/2021/11/09/biden-hbcus-howard-university-protests-520391">Biden made huge promises to HBCUs. Can he sell its students on compromise?</a> Politico: The administration is still proposing historic funds. Kamala Harris remains a trusted alumnus. But campus life at the country’s most famous HBCU is in tumult. 
- <p class="updated_time"> 04:22 AM CT, Nov. 09 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-09/lira-s-slump-leaves-turks-searching-for-hard-to-find-medicines">Lira’s Slump Leaves Turks Searching for Hard-to-Find Medicines</a> Bloomberg: Turkish patients are finding it increasingly difficult to access key drugs, with producers blaming the shortages on an inflexible pricing system for medicines that exposes them to losses from the lira’s swift decline. 
  <p class="updated_time"> 04:20 AM CT, Nov. 09 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-09/iran-backed-houthis-said-to-detain-25-yemenis-working-for-u-s">Iran-backed Houthis Detain 25 Yemenis Working for U.S.</a> Bloomberg: At least 25 Yemenis working for the U.S. in Sanaa have been detained in recent weeks by Iran-backed Houthi rebels who control the capital, according to two people familiar with the matter. 
  <p class="updated_time"> 04:14 AM CT, Nov. 09 </p> 
@@ -424,6 +428,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/08/1053647230/u-s-and-egypt-meet-for-strategic-talks">U.S. and Egypt meet for strategic talks</a> NPR: The Biden administration often says that human rights are at the center of its foreign policy. Egypt is a big test case of that, as it and the U.S. are holding high level talks. 
  <p class="updated_time"> 03:57 PM CT, Nov. 08 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-08/biden-lacks-tools-to-fix-rising-pump-prices-loathed-by-voters">Biden Faces a Political Risk in Rising Gas Prices, With Few Options to Respond</a> Bloomberg: The increase in oil and gasoline prices threatens the U.S. economic rebound and poses a political risk for President Joe Biden. But his options for taming the surge are limited, and many of them would be either short-lived or conflict with his agenda of fighting climate change. 
+ <p class="updated_time"> 03:46 PM CT, Nov. 08 </p> 
+ <a href="https://www.politico.com/news/2021/11/08/jan-6-committee-subpoenas-trump-allies-520315">Jan. 6 committee subpoenas Trump allies linked to D.C. 'war room'</a> Politico: The latest batch targets a mix of people who worked on Donald Trump’s campaign and others who strategized how to overturn election results from the outside. 
  <p class="updated_time"> 03:20 PM CT, Nov. 08 </p> 
  <a href="https://www.npr.org/2021/11/08/1053647213/daniel-ortega-has-won-the-nicaragua-presidency-in-an-election-many-say-was-a-sha">Daniel Ortega has won the Nicaragua presidency in an election many say was a sham</a> NPR: Nicaragua's leader Daniel Ortega says he was overwhelmingly elected president for a fourth consecutive term Sunday. But critics, including leaders around the world, say the elections were a sham. 
  <p class="updated_time"> 03:20 PM CT, Nov. 08 </p> 
@@ -480,8 +486,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/08/1053442982/harris-will-be-the-top-u-s-official-at-a-large-gathering-of-world-leaders-in-fra">Harris will be the top U.S. official at a large gathering of world leaders in France</a> NPR: Vice President Harris heads to France, a trip where she will have face time with more than two dozen world leaders, and a chance to build up her track record on international diplomacy. 
  <p class="updated_time"> 04:00 AM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/nyregion/nassau-county-republicans-election.html">Why Republicans Won in Nassau County</a> NYT: Voters readily ousted Democrats in Nassau County on Long Island, electing Republicans down the ballot. 
- <p class="updated_time"> 04:00 AM CT, Nov. 08 </p> 
- <a href="https://www.npr.org/2021/11/08/1052567444/supreme-court-to-hear-arguments-on-fbis-surveillance-of-mosques">Supreme Court to hear arguments on FBI's surveillance of mosques </a> NPR: The argument will focus on whether this case can move forward at all because the government argues that for it to produce any of the evidence gathered 15 years ago would jeopardize national security. 
  <p class="updated_time"> 02:31 PM CT, Nov. 07 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sWdL-IYaLvg/index.html">Chris Christie delivers tough message to Republican audience, saying GOP gains hinge on moving on from 2020</a> CNN: While the other potential GOP White House aspirants continue to tip-toe around former President Donald Trump, former New Jersey Gov. Chris Christie argued Saturday that his week's election results marked the "beginning of a new era" for the Republican Party -- one that looks "forward and not backwards" as he addressed the Republican Jewish Coalition in Las Vegas. 
  <p class="updated_time"> 01:17 PM CT, Nov. 07 </p> 
@@ -506,10 +510,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/06/new-york-governor-race-519790">New York governor’s race heats up, 1,600 miles away</a> Politico: The annual SOMOS conference has been one of the most important times on New York’s political calendar for decades. 
  <p class="updated_time"> 06:00 AM CT, Nov. 06 </p> 
  <a href="https://www.politico.com/news/2021/11/06/rural-dems-trouble-519782">Rural Democrats stare into the abyss after Virginia</a> Politico: Rural Democrats say the party’s problems on their turf are twofold. 
- <p class="updated_time"> 06:00 AM CT, Nov. 06 </p> 
- <a href="https://www.politico.com/news/2021/11/06/trump-arizona-senate-primary-519779">Trump muscles into Arizona Senate primary</a> Politico: The former president, who has not yet endorsed in the contest, will appear at a fundraiser for Republican Blake Masters. 
- <p class="updated_time"> 10:50 PM CT, Nov. 05 </p> 
- <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/FcPZqjysAoo/index.html">Here's what's in the bipartisan infrastructure bill</a> CNN: Congress passed a $1.2 trillion infrastructure package Friday, approving a signature part of President Joe Biden's economic agenda. 
  <p class="updated_time"> 10:30 PM CT, Nov. 05 </p> 
  <a href="https://www.politico.com/news/2021/11/05/house-infrastructure-bill-519796">House ships $550B infrastructure legislation to Biden’s desk after months of delay</a> Politico: Only 13 House Republicans voted for the bill, alongside all but 6 Democrats. 
  <p class="updated_time"> 05:22 PM CT, Nov. 05 </p> 
