@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:16 PM CT, Nov. 08 </p> 
+ <a href="https://www.nytimes.com/2021/11/08/insider/taliban-kabul-afghanistan-journalists.html">When the Taliban Are in Your Bedroom</a> NYT: As armed Taliban inspected the New York Times bureau in Kabul, they were escorted by a journalist who used to be a U.S. Marine. The photo of him in uniform was plain for all to see, and ponder. 
  <p class="updated_time"> 06:52 PM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/world/europe/france-catholic-church-compensate-sex-abuse-victims.html">French Catholic Church Will Sell Assets to Compensate Abuse Victims</a> NYT: The measure was one of several measures announced by French bishops, one month after a landmark report on sexual abuse by clergy members in France. 
  <p class="updated_time"> 06:45 PM CT, Nov. 08 </p> 
@@ -16,7 +18,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:15 PM CT, Nov. 08 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59205840?at_medium=RSS&at_campaign=KARANGA">Travis Scott festival tragedy: Were warning signs missed at Astroworld?</a> BBC: Concerns were raised before Travis Scott's fatal festival show. Could the tragedy have been averted? 
  <p class="updated_time"> 06:10 PM CT, Nov. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59213113?at_medium=RSS&at_campaign=KARANGA">Desperate Afghans turn to people smugglers for help fleeing the country</a> BBC: People smugglers tell the BBC the number of Afghans leaving, has more than doubled since the Taliban takeover. 
+ <a href="https://www.bbc.co.uk/news/world-asia-59213113?at_medium=RSS&at_campaign=KARANGA">Desperate Afghans turn to people smugglers for help fleeing the country</a> BBC: Smugglers tell the BBC the number of Afghans leaving has more than doubled since the Taliban takeover. 
  <p class="updated_time"> 06:00 PM CT, Nov. 08 </p> 
  <a href="https://www.bbc.co.uk/news/business-58820548?at_medium=RSS&at_campaign=KARANGA">Rwanda goes electric with locally made motorbikes</a> BBC: Rwanda's Ampersand wants motorbike taxi drivers to switch from petrol to electric. 
  <p class="updated_time"> 05:58 PM CT, Nov. 08 </p> 
@@ -24,7 +26,7 @@ permalink: /projects/news/
  <p class="updated_time"> 05:55 PM CT, Nov. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59210403?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell to challenge accusers' memories</a> BBC: The British socialite will challenge allegations she groomed girls for Jeffrey Epstein to sexually abuse. 
  <p class="updated_time"> 05:41 PM CT, Nov. 08 </p> 
- <a href="https://www.nytimes.com/2021/11/08/climate/public-health-cop26-emissions.html">More Than 40 Nations Pledge to Cut Emissions From Their Health Industries</a> NYT: The plans, while short on specifics, represent a notable step toward cutting greenhouse gas emissions from hospitals and the health care industry, a sizable emitter globally. 
+ <a href="https://www.nytimes.com/2021/11/08/climate/emissions-climate-change.html">More Than 40 Nations Pledge to Cut Emissions From Their Health Industries</a> NYT: The plans, while short on specifics, represent a notable step toward cutting greenhouse gas emissions from hospitals and the health care industry, a sizable emitter globally. 
  <p class="updated_time"> 05:29 PM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/us/politics/drone-strike-kabul-isis.html">Military Can’t Find ISIS Safe House That Prompted Kabul Drone Strike</a> NYT: The Pentagon’s latest admission illustrates the botched intelligence behind the strike that mistakenly killed 10 civilians in August. 
  <p class="updated_time"> 05:05 PM CT, Nov. 08 </p> 
@@ -76,7 +78,7 @@ permalink: /projects/news/
  <p class="updated_time"> 01:29 PM CT, Nov. 08 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59210395?at_medium=RSS&at_campaign=KARANGA">COP26: Obama tells young people to stay angry on climate fight</a> BBC: The ex-US president calls for global unity and condemns "active hostility" towards climate science. 
  <p class="updated_time"> 01:22 PM CT, Nov. 08 </p> 
- <a href="https://www.nytimes.com/2021/11/08/us/canada-snowbirds-arizona.html">Thousands of Canadians Head for the Southern United States Again</a> NYT: With the border opening to tourists, thousands of Canadian “snowbirds” are on their way to Florida, Arizona and California with campers in tow. 
+ <a href="https://www.nytimes.com/2021/11/08/us/canada-travel.html">Thousands of Canadians Head for the Southern United States Again</a> NYT: With the border opening to tourists, thousands of Canadian “snowbirds” are on their way to Florida, Arizona and California with campers in tow. 
  <p class="updated_time"> 01:05 PM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/world/europe/uk-brexit-estonia-business.html">Brexit Brain Drain  Delivers Financial Boon to Estonia</a> NYT: The former Soviet satellite state is welcoming British companies looking to escape the tangle of regulations and financial obstacles of doing business in Europe. 
  <p class="updated_time"> 12:10 PM CT, Nov. 08 </p> 
@@ -117,8 +119,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/science-environment-59206814?at_medium=RSS&at_campaign=KARANGA">COP26: Rich countries ‘pushing back’ on paying for climate loss</a> BBC: Poorer countries say they are not able to get compensation for the damage caused by climate change. 
  <p class="updated_time"> 04:59 AM CT, Nov. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-51235105?at_medium=RSS&at_campaign=KARANGA">Covid map: Coronavirus cases, deaths, vaccinations by country</a> BBC: Key maps and charts explaining how the virus has spread around the world. 
- <p class="updated_time"> 04:36 AM CT, Nov. 08 </p> 
- <a href="https://www.nytimes.com/2021/11/08/insider/taliban-kabul-afghanistan-journalists.html">When the Taliban Are in Your Bedroom</a> NYT: As armed Taliban inspected the New York Times bureau in Kabul, they were escorted by a journalist who used to be a U.S. Marine. The photo of him in uniform was plain for all to see, and ponder. 
  <p class="updated_time"> 04:30 AM CT, Nov. 08 </p> 
  <a href="https://www.npr.org/2021/11/08/1053434232/the-u-s-lifts-the-pandemic-travel-ban-and-opens-the-doors-to-international-visit">The U.S. lifts the pandemic travel ban and opens the doors to international visitors</a> NPR: Starting Monday, the U.S. begins accepting fully vaccinated travelers at airports and land borders, doing away with a COVID-19 restriction that dates back to the Trump administration. 
  <p class="updated_time"> 04:13 AM CT, Nov. 08 </p> 
@@ -216,12 +216,14 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:58 PM CT, Nov. 08 </p> 
+ <a href="https://www.nytimes.com/2021/11/08/us/politics/jan-6-subpoenas-eastman-flynn-trump.html">Jan. 6 Panel Subpoenas Flynn and Eastman, Scrutinizing Election Plot</a> NYT: The latest batch of subpoenas from the House select committee investigating the Capitol riot also includes officials from former President Donald J. Trump’s re-election campaign. 
+ <p class="updated_time"> 07:26 PM CT, Nov. 08 </p> 
+ <a href="https://www.washingtonpost.com/politics/republicans-gosar-trump-ocasio-cortez/2021/11/08/ead37b36-40ca-11ec-9ea7-3eb2406a2e24_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Rep. Paul Gosar tweets photoshopped anime video showing him killing Rep. Ocasio-Cortez and attacking President Biden</a> WaPo: The Arizona Republican’s tweeting of the video prompted condemnation and calls for his Twitter account to be suspended for glorification of violence. 
  <p class="updated_time"> 07:24 PM CT, Nov. 08 </p> 
  <a href="https://www.politico.com/news/2021/11/08/biden-vaccine-covid-mandate-lives-520367">Biden administration says blocking vaccine mandate could cost hundreds of lives per day</a> Politico: The administration told a federal court that a stay of its vaccinate-or-test requirement for private employers “would likely cost dozens or even hundreds of lives per day.” 
  <p class="updated_time"> 06:58 PM CT, Nov. 08 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zyOWU6zm7vo/index.html">Biden administration will waive immigration application fees for thousands of evacuated Afghans </a> CNN: The Biden administration is planning to waive immigration-related fees for up to 70,000 Afghan evacuees as they are resettled in the United States, the Department of Homeland Security said Monday. 
- <p class="updated_time"> 06:57 PM CT, Nov. 08 </p> 
- <a href="https://www.nytimes.com/2021/11/08/us/politics/jan-6-subpoenas-eastman-flynn-trump.html">Jan. 6 Panel Subpoenas Flynn and Eastman, Scrutinizing Election Plot</a> NYT: The latest batch of subpoenas from the House select committee investigating the Capitol riot also includes officials from the former president’s re-election campaign. 
  <p class="updated_time"> 06:51 PM CT, Nov. 08 </p> 
  <a href="https://www.washingtonpost.com/politics/biden-infrastructure-benefits-polarized-politics/2021/11/08/dcf73b1c-40aa-11ec-a3aa-0255edc02eb7_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Biden seeks infrastructure bounce. But can a nuts-and-bolts pitch overcome cultural divides?</a> WaPo: The president’s sales push on infrastructure will test whether his strategy of delivering tangible benefits still resonates in a polarized political environment where cultural issues are powerful. 
  <p class="updated_time"> 06:45 PM CT, Nov. 08 </p> 
@@ -262,8 +264,6 @@ permalink: /projects/news/
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xvEt_dcR3k8/index.html">Biden honors NBA champs Milwaukee Bucks at the White House</a> CNN: President Joe Biden honored the NBA champion Milwaukee Bucks at a White House ceremony on Monday, marking the first visit to 1600 Pennsylvania Avenue by an NBA championship-winning team since 2016. 
  <p class="updated_time"> 04:38 PM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/us/politics/justice-dept-ransomware.html">Justice Dept. Brings New Charges in Ransomware Attacks</a> NYT: The department said it had charged a Russian national in one attack and recovered $6.1 million in ransom. It also arrested a Ukrainian man for another attack. 
- <p class="updated_time"> 04:11 PM CT, Nov. 08 </p> 
- <a href="https://www.washingtonpost.com/politics/republicans-gosar-trump-ocasio-cortez/2021/11/08/ead37b36-40ca-11ec-9ea7-3eb2406a2e24_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Rep. Paul Gosar tweets photoshopped anime video showing him killing Rep. Ocasio-Cortez and attacking President Biden</a> WaPo: The Arizona Republican’s tweeting of the video prompted condemnation and calls for his Twitter account to be suspended for glorification of violence. 
  <p class="updated_time"> 04:06 PM CT, Nov. 08 </p> 
  <a href="https://www.washingtonpost.com/politics/2021/11/08/unique-role-fox-news-misinformation-universe/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">The unique role of Fox News in the misinformation universe</a> WaPo: No other network has the same level of trust among those who embrace false claims. 
  <p class="updated_time"> 04:01 PM CT, Nov. 08 </p> 
@@ -374,8 +374,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/08/arts/critical-race-theory-bans.html">Bans on Critical Race Theory Threaten Free Speech, Advocacy Group Says</a> NYT: A report by PEN America, which surveys more than 50 bills proposed across the country, appeals to a principle that has lost its luster for many on the left and right. 
  <p class="updated_time"> 10:03 AM CT, Nov. 08 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uTQPN82VZNw/index.html">Obama swipes at Trump for 'four years of active hostility' on climate in Glasgow speech</a> CNN: Former President Barack Obama will deliver remarks on Monday at the UN climate conference in Glasgow in a return to the world stage centered around the climate crisis. 
- <p class="updated_time"> 09:54 AM CT, Nov. 08 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-08/russia-moves-more-tanks-near-ukraine-amid-tensions-janes-says">Russia Moving More Tanks Near Ukraine Border, Intel Firm Says</a> Bloomberg: Russia is moving more tanks near the border with Ukraine, defense-intelligence firm Janes said, reinforcing western concerns about reports of a build-up of Russian military forces close to its neighbor. 
  <p class="updated_time"> 09:46 AM CT, Nov. 08 </p> 
  <a href="https://www.npr.org/2021/11/08/1053511530/elon-musk-twitter-poll-tesla">Elon Musk asked Twitter followers if he should sell Tesla shares. They said yes</a> NPR: Tesla shares are falling after Elon Musk proposed to sell 10% of his shares in the company if his Twitter followers agreed. 
  <p class="updated_time"> 09:26 AM CT, Nov. 08 </p> 
@@ -426,6 +424,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/08/nyregion/nassau-county-republicans-election.html">Why Republicans Won in Nassau County</a> NYT: Voters readily ousted Democrats in Nassau County on Long Island, electing Republicans down the ballot. 
  <p class="updated_time"> 04:00 AM CT, Nov. 08 </p> 
  <a href="https://www.npr.org/2021/11/08/1052567444/supreme-court-to-hear-arguments-on-fbis-surveillance-of-mosques">Supreme Court to hear arguments on FBI's surveillance of mosques </a> NPR: The argument will focus on whether this case can move forward at all because the government argues that for it to produce any of the evidence gathered 15 years ago would jeopardize national security. 
+ <p class="updated_time"> 04:00 AM CT, Nov. 08 </p> 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-08/u-s-u-k-join-nations-sounding-alarm-over-china-import-rules">U.S., Japan Join Nations Urging Delay to China Food Import Rules</a> Bloomberg: Several countries including Japan, the U.K. and the U.S. are urging Chinese customs officials to pause the rollout of regulations on food imports, arguing the measures risk further disrupting global supply chains. 
  <p class="updated_time"> 02:00 AM CT, Nov. 08 </p> 
  <a href="https://www.washingtonpost.com/politics/2021/11/08/battle-over-bidens-child-tax-credit-its-impact-poverty-workers/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">The battle over Biden’s child tax credit and its impact on poverty and workers</a> WaPo: A fierce dispute has erupted among economists about whether the president's child-tax credit expansion will cause parents to stop working. We explain the debate. 
  <p class="updated_time"> 11:10 PM CT, Nov. 07 </p> 
