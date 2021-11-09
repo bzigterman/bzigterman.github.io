@@ -7,7 +7,11 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:44 PM CT, Nov. 09 </p> 
+ <p class="updated_time"> 03:50 PM CT, Nov. 09 </p> 
+ <a href="https://www.npr.org/2021/11/09/1054032223/europe-is-moving-away-from-fossil-fuels-after-being-dependent-on-russia-for-deca">Europe is moving away from fossil fuels, after being dependent on Russia for decades</a> NPR: Russia is being held responsible by many western leaders for the sharp increase in natural gas prices in Europe. The view from Moscow is rather different. 
+ <p class="updated_time"> 03:47 PM CT, Nov. 09 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59228801?at_medium=RSS&at_campaign=KARANGA">Marie Antoinette's bracelets sell at auction for $8 million</a> BBC: The diamond bracelets of the last queen of France were sold to an anonymous telephone bidder. 
+ <p class="updated_time"> 03:46 PM CT, Nov. 09 </p> 
  <a href="https://www.nytimes.com/2021/11/09/us/politics/pfizer-booster-approval-adults.html">Pfizer Asks for Authorization for Boosters for Adults</a> NYT: An advisory panel to the Food and Drug Administration voted against a similar request from Pfizer in mid-September, but the agency is considered likely to grant the request, perhaps before Thanksgiving. 
  <p class="updated_time"> 03:42 PM CT, Nov. 09 </p> 
  <a href="https://www.nytimes.com/2021/11/09/world/africa/ethiopia-seizes-un-workers.html">Ethiopia Seizes 16 U.N. Workers Amid Efforts to Halt Tigray War</a> NYT: The detentions aggravated the already tense relations between the United Nations and the Ethiopian government over war and famine in the country’s northern Tigray region. 
@@ -109,8 +113,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/08/insider/taliban-kabul-afghanistan-journalists.html">When the Taliban Are in Your Bedroom</a> NYT: As armed Taliban inspected the New York Times bureau in Kabul, they were escorted by a journalist who used to be a U.S. Marine. The photo of him in uniform was plain for all to see, and ponder. 
  <p class="updated_time"> 06:52 PM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/world/europe/france-catholic-church-compensate-sex-abuse-victims.html">French Catholic Church Will Sell Assets to Compensate Abuse Victims</a> NYT: The measure was one of several measures announced by French bishops, one month after a landmark report on sexual abuse by clergy members in France. 
- <p class="updated_time"> 06:43 PM CT, Nov. 08 </p> 
- <a href="https://www.bbc.co.uk/news/health-59204831?at_medium=RSS&at_campaign=KARANGA">Regular 10pm bedtime linked to lower heart risk</a> BBC: Synchronising sleep to match our internal body clock appears to be good for the heart, claim scientists. 
  <p class="updated_time"> 06:35 PM CT, Nov. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59216184?at_medium=RSS&at_campaign=KARANGA">Emotional families reunite at airport as US lifts travel ban</a> BBC: The first intercontinental flights arrived at the John F Kennedy Airport today. As families gleefully reunited, many were meeting new relatives for the first time. 
  <p class="updated_time"> 06:15 PM CT, Nov. 08 </p> 
@@ -155,8 +157,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/08/world/africa/oscar-pistorius-bladerunner-parole.html">Oscar Pistorius, Olympic Runner Convicted of Murder, Is Up for Parole</a> NYT: The double-amputee sprinter has served half his sentence for killing his girlfriend. His victim’s parents were said to be “shocked” at the prospect of his release. 
  <p class="updated_time"> 02:07 PM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/travel/yadnya-kasada-volcano-ritual.html">Inside a Volcanic Ritual on the Indonesian Island of Java</a> NYT: During the Hindu ceremony of Yadnya Kasada, the Tenggerese people toss offerings — food, money, flowers, livestock — into the hazy crater of Mount Bromo. 
- <p class="updated_time"> 02:07 PM CT, Nov. 08 </p> 
- <a href="https://www.npr.org/2021/11/08/1053608851/migrants-aided-by-belarus-try-to-push-across-polish-border">Migrants aided by Belarus try to push across Polish border</a> NPR: A large group of migrants sought to push their way over the border from Belarus into Poland. European Union leaders accuse the Belarusian government of organizing the illegal passage of migrants. 
  <p class="updated_time"> 01:34 PM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/business/paytm-ipo.html">Paytm's Parent Company, One97 Communications, Goes Public</a> NYT: One97 Communications, the app’s parent company, has drawn interest from institutional investors as online shopping in India expands. 
  <p class="updated_time"> 01:22 PM CT, Nov. 08 </p> 
@@ -212,10 +212,14 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/09/nasa-delays-moon-landing-2025-520468">NASA delays moon landing to 'no earlier than 2025'</a> Politico: Trump's 2024 goal "was not grounded in technical feasibility," Biden's space chief says. 
  <p class="updated_time"> 03:58 PM CT, Nov. 09 </p> 
  <a href="https://www.politico.com/news/2021/11/09/facebook-meta-ad-restrictions-520462">Facebook places new restrictions on ad targeting</a> Politico: The platform will limit targeting based on users' interactions with content related to health, race and other sensitive areas. 
+ <p class="updated_time"> 03:51 PM CT, Nov. 09 </p> 
+ <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ky2IMH_NXS8/index.html">Former US Marine Trevor Reed is on a hunger strike to protest imprisonment in Russia, family says</a> CNN: American citizen Trevor Reed has been on a nearly weeklong hunger strike to protest his detainment in Russia and the "numerous and flagrant violations" of his human rights by Russian authorities, according to his family. 
  <p class="updated_time"> 03:46 PM CT, Nov. 09 </p> 
  <a href="https://www.nytimes.com/2021/11/09/us/politics/pfizer-booster-approval-adults.html">Pfizer Asks for Authorization for Boosters for Adults</a> NYT: An advisory panel to the Food and Drug Administration voted against a similar request from Pfizer in mid-September, but the agency is considered likely to grant the request, perhaps before Thanksgiving. 
  <p class="updated_time"> 03:46 PM CT, Nov. 09 </p> 
  <a href="https://www.nytimes.com/2021/11/09/us/politics/sununu-new-hampshire-governor.html">Sununu to Seek Re-election as New Hampshire Governor, Rejecting Senate Bid</a> NYT: National Republicans had seen a potential campaign by Gov. Chris Sununu against Senator Maggie Hassan, a Democrat, as one of their best shots to upend the Senate’s 50-50 split. 
+ <p class="updated_time"> 03:43 PM CT, Nov. 09 </p> 
+ <a href="https://www.washingtonpost.com/politics/2021/11/09/biden-economy-is-doing-pretty-well-by-measures-trump-used-evaluate-his-own/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">The Biden economy is doing pretty well by the measures Trump used to evaluate his own</a> WaPo: Not that economies are largely function of presidents, of course. 
  <p class="updated_time"> 03:32 PM CT, Nov. 09 </p> 
  <a href="https://www.washingtonpost.com/politics/gop-rep-fred-upton-receives-death-threats-after-voting-for-bipartisan-infrastructure-deal/2021/11/09/78fe5ac8-4195-11ec-9ea7-3eb2406a2e24_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">GOP Rep. Fred Upton receives death threats after voting for bipartisan infrastructure deal</a> WaPo: The Michigan Republican said the threats began after Rep. Marjorie Taylor Greene (R-Ga.) tweeted the names and office phone numbers of House Republicans who backed the bill. 
  <p class="updated_time"> 03:29 PM CT, Nov. 09 </p> 
@@ -243,7 +247,7 @@ permalink: /projects/news/
  <p class="updated_time"> 02:48 PM CT, Nov. 09 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WoNpfkk4c_s/index.html">Republican congressman posts video depicting violence against Ocasio-Cortez, Biden</a> CNN: Republican Rep. Paul Gosar posted a photoshopped anime video to his Twitter and Instagram accounts showing him appearing to kill Democratic Rep. Alexandria Ocasio-Cortez and attacking President Joe Biden. 
  <p class="updated_time"> 02:39 PM CT, Nov. 09 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-09/ten-more-former-trump-officials-subpoenaed-by-riot-probe-panel">Ten More Former Trump Officials Subpoenaed by Riot Probe Panel</a> Bloomberg: The House panel probing the Jan. 6 riots at the U.S. Capitol has subpoenaed 10 additional former Trump administration officials, including former senior presidential adviser Stephen Miller and former White House Press Secretary Kayleigh McEnany. 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-09/ten-more-former-trump-officials-subpoenaed-by-riot-probe-panel">McEnany, Miller Among 10 Trump Officials Summoned by Riot Panel</a> Bloomberg: The House panel probing the Jan. 6 riot at the U.S. Capitol has subpoenaed 10 additional Trump administration officials, including former senior presidential adviser Stephen Miller and former White House Press Secretary Kayleigh McEnany. 
  <p class="updated_time"> 02:29 PM CT, Nov. 09 </p> 
  <a href="https://www.nytimes.com/2021/11/09/us/politics/jan-6-subpoena.html">House Inquiry Into Jan. 6 Issues 10 New Subpoenas</a> NYT: The panel has summoned Stephen Miller, a senior adviser to President Donald J. Trump, and several other top White House officials who witnessed his actions before and during the riot. 
  <p class="updated_time"> 02:26 PM CT, Nov. 09 </p> 
@@ -258,8 +262,6 @@ permalink: /projects/news/
  <a href="https://www.bloomberg.com/news/articles/2021-11-09/california-governor-reemerges-attributes-break-to-family-needs">California Governor Reemerges, Attributes Break to Family Needs</a> Bloomberg: California Governor Gavin Newsom made his first public appearance in almost two weeks, attributing the prolonged absence to family needs and the wishes of his children. 
  <p class="updated_time"> 02:12 PM CT, Nov. 09 </p> 
  <a href="https://www.nytimes.com/2021/11/09/us/moderna-vaccine-patent.html">Moderna and U.S. at Odds Over Vaccine Patent Rights</a> NYT: Moderna’s patent application names several employees as the sole inventors of a crucial component of its coronavirus vaccine, excluding three government scientists. 
- <p class="updated_time"> 02:05 PM CT, Nov. 09 </p> 
- <a href="https://www.washingtonpost.com/politics/2021/11/09/biden-economy-is-doing-pretty-well-by-measures-trump-used-evaluate-his-own/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">The Biden economy is doing pretty well by the measures Trump used to evaluate his own</a> WaPo: Not that economies are largely function of presidents, of course. 
  <p class="updated_time"> 01:55 PM CT, Nov. 09 </p> 
  <a href="https://www.washingtonpost.com/national-security/alabama-sewer-justice-investigation/2021/11/09/4a86bdce-4182-11ec-a3aa-0255edc02eb7_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Justice Dept. to investigate rural Alabama county with inadequate sewage systems</a> WaPo: Civil rights probe follows long-standing complaints of failing septic tanks and sewage backups in the mostly Black county of Lowndes. 
  <p class="updated_time"> 01:52 PM CT, Nov. 09 </p> 
@@ -438,8 +440,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/08/buffalo-mayor-progressives-dems-520327">‘It’s a disgrace’: Progressives take aim at Buffalo mayor’s DNC post</a> Politico: Establishment Dems dismiss “sour grapes” attempt to sanction mayor who defeated a democratic socialist. 
  <p class="updated_time"> 06:35 PM CT, Nov. 08 </p> 
  <a href="https://www.npr.org/2021/11/08/1053678862/milwaukee-bucks-first-nba-champions-visit-white-house-2016">The Milwaukee Bucks are the first NBA champions to visit the White House since 2016</a> NPR: Members of the Golden State Warriors and Toronto Raptors, who won recent championships, had declined to visit President Donald Trump, while the Lakers' visit was canceled because of COVID protocols. 
- <p class="updated_time"> 06:34 PM CT, Nov. 08 </p> 
- <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gMjvfEVt3ws/index.html">DOJ asks federal appeals court to lift temporary order blocking Covid-19 vaccine mandate</a> CNN: The White House on Monday said private companies should abide by its new vaccine mandate as a court battle plays out after a federal appeals court temporarily blocked the new rule. 
  <p class="updated_time"> 06:06 PM CT, Nov. 08 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2pzftxfVv6Y/index.html">Josh Hawley and the 'left-wing attack on manhood'</a> CNN: No doubt about it, there's a lot to worry about in the country these days: Covid. Inflation. Poverty. Polarized politics. Democracy itself. 
  <p class="updated_time"> 05:29 PM CT, Nov. 08 </p> 
