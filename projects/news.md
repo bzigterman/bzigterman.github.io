@@ -7,8 +7,12 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:53 PM CT, Nov. 09 </p> 
+ <p class="updated_time"> 02:16 PM CT, Nov. 09 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59226226?at_medium=RSS&at_campaign=KARANGA">Belarus migrants: Poland PM blames Russia's Putin for migrant crisis</a> BBC: Thousands of migrants are at the Belarus-Poland border, camping in cold and dangerous conditions. 
+ <p class="updated_time"> 02:13 PM CT, Nov. 09 </p> 
  <a href="https://www.nytimes.com/2021/11/09/us/politics/pfizer-booster-approval-adults.html">Pfizer Asks for Authorization for Boosters for Adult Recipients</a> NYT: An advisory panel to the Food and Drug Administration voted against a similar request from Pfizer in mid-September, but the agency is considered likely to grant the request, perhaps before Thanksgiving. 
+ <p class="updated_time"> 02:11 PM CT, Nov. 09 </p> 
+ <a href="https://www.npr.org/2021/11/09/1053939195/malala-married">Malala Yousafzai, Nobel laureate and girls' education champion, gets married</a> NPR: The 24-year-old recent Oxford graduate called it "a precious day in my life" and shared a few photos of the intimate ceremony. 
  <p class="updated_time"> 01:52 PM CT, Nov. 09 </p> 
  <a href="https://www.nytimes.com/2021/11/09/world/asia/india-hospital-fire.html">India Hospital Fire Leaves at Least 4 Infants Dead</a> NYT: The blaze, in a hospital in central India on Monday night, was the latest in a series of deadly fires at health care centers in recent months. 
  <p class="updated_time"> 01:48 PM CT, Nov. 09 </p> 
@@ -34,11 +38,9 @@ permalink: /projects/news/
  <p class="updated_time"> 11:16 AM CT, Nov. 09 </p> 
  <a href="https://www.nytimes.com/2021/11/08/travel/usa-travel-restrictions.html">U.S. Allows Vaccinated Foreign Travelers to Enter</a> NYT: On Monday, after more than 18 months, restrictions that kept families separated and cost the global travel industry hundreds of billions of dollars were lifted. 
  <p class="updated_time"> 11:15 AM CT, Nov. 09 </p> 
- <a href="https://www.npr.org/2021/11/09/1053889069/singapore-medical-bills-covid-19-patients-unvaccinated-by-choice">Singapore will stop covering the medical bills of unvaccinated COVID-19 patients</a> NPR: Singapore's government will stop covering the cost of COVID-19 treatment for those who are "unvaccinated by choice" next month, citing the strain they are placing on its health care system. 
+ <a href="https://www.npr.org/sections/coronavirus-live-updates/2021/11/09/1053889069/singapore-medical-bills-covid-19-patients-unvaccinated-by-choice">Singapore will stop covering the medical bills of unvaccinated COVID-19 patients</a> NPR: Singapore's government will stop covering the cost of COVID-19 treatment for those who are "unvaccinated by choice" next month, citing the strain they are placing on its health care system. 
  <p class="updated_time"> 11:12 AM CT, Nov. 09 </p> 
  <a href="https://www.nytimes.com/2021/11/09/world/asia/singapore-unvaccinated-covid.html">Singapore to End Free Covid Treatment for Those 'Unvaccinated by Choice'</a> NYT: The change, which takes effect on Dec. 8, comes as the number of severe cases has stabilized but remains high, the Health Ministry said. 
- <p class="updated_time"> 11:09 AM CT, Nov. 09 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59215769?at_medium=RSS&at_campaign=KARANGA">Belarus migrants: EU accuses Lukashenko of gangster-style abuse</a> BBC: Two thousand migrants are at the Polish border and the EU says they are being lured there with lies. 
  <p class="updated_time"> 10:59 AM CT, Nov. 09 </p> 
  <a href="https://www.nytimes.com/2021/11/09/world/asia/us-release-china-zhang-zhan.html">U.S. Urges Release of Chinese Citizen Journalist Who Documented Covid</a> NYT: Zhang Zhan, who was imprisoned after exposing the failures of the government’s initial response to the coronavirus outbreak in Wuhan, is near death, friends and family say. 
  <p class="updated_time"> 10:52 AM CT, Nov. 09 </p> 
@@ -101,8 +103,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/science-environment-59212185?at_medium=RSS&at_campaign=KARANGA">Climate change: What do scientists want from COP26 this week?</a> BBC: We asked climate experts from around the world what they want to see agreed at COP26 this week. 
  <p class="updated_time"> 07:16 PM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/insider/taliban-kabul-afghanistan-journalists.html">When the Taliban Are in Your Bedroom</a> NYT: As armed Taliban inspected the New York Times bureau in Kabul, they were escorted by a journalist who used to be a U.S. Marine. The photo of him in uniform was plain for all to see, and ponder. 
- <p class="updated_time"> 07:05 PM CT, Nov. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-59215945?at_medium=RSS&at_campaign=KARANGA">Cleo Smith abduction: Australian police investigate 'if anyone else involved'</a> BBC: The four-year-old Australian girl was found in a locked house last week after vanishing for 18 days. 
  <p class="updated_time"> 06:52 PM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/world/europe/france-catholic-church-compensate-sex-abuse-victims.html">French Catholic Church Will Sell Assets to Compensate Abuse Victims</a> NYT: The measure was one of several measures announced by French bishops, one month after a landmark report on sexual abuse by clergy members in France. 
  <p class="updated_time"> 06:43 PM CT, Nov. 08 </p> 
@@ -175,8 +175,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/science-environment-59206814?at_medium=RSS&at_campaign=KARANGA">COP26: Rich countries ‘pushing back’ on paying for climate loss</a> BBC: Poorer countries say they are not able to get compensation for the damage caused by climate change. 
  <p class="updated_time"> 04:59 AM CT, Nov. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-51235105?at_medium=RSS&at_campaign=KARANGA">Covid map: Coronavirus cases, deaths, vaccinations by country</a> BBC: Key maps and charts explaining how the virus has spread around the world. 
- <p class="updated_time"> 04:30 AM CT, Nov. 08 </p> 
- <a href="https://www.npr.org/2021/11/08/1053434232/the-u-s-lifts-the-pandemic-travel-ban-and-opens-the-doors-to-international-visit">The U.S. lifts the pandemic travel ban and opens the doors to international visitors</a> NPR: Starting Monday, the U.S. begins accepting fully vaccinated travelers at airports and land borders, doing away with a COVID-19 restriction that dates back to the Trump administration. 
  <p class="updated_time"> 04:00 AM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/world/europe/romania-covid-vaccine-refusal.html">In Romania, Hard-Hit by Covid, Doctors Fight Vaccine Refusal</a> NYT: An anti-vaccine clarion call by leading religious figures, echoed by prominent politicians and social media, helps explain why Romania now has the world’s highest Covid death rate. 
  <p class="updated_time"> 12:40 AM CT, Nov. 08 </p> 
@@ -212,12 +210,22 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
- <p class="updated_time"> 01:53 PM CT, Nov. 09 </p> 
+ <p class="updated_time"> 03:14 PM CT, Nov. 09 </p> 
+ <a href="https://www.politico.com/news/2021/11/09/jan-6-panel-testimony-stephen-miller-kayleigh-mcenany-520455">Jan. 6 panel demands testimony from Stephen Miller, Kayleigh McEnany</a> Politico: Investigators are accelerating their efforts to compel testimony from key Donald Trump aides with knowledge of his efforts to overturn the 2020 election results. 
+ <p class="updated_time"> 02:16 PM CT, Nov. 09 </p> 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-09/biden-called-walmart-ups-fedex-target-ceos-on-supply-chain">Biden Called Walmart, UPS, FedEx, Target CEOs on Supply Chain</a> Bloomberg: President Joe Biden spoke with the chief executive officers of Walmart Inc., United Parcel Service Inc., FedEx Corp. and Target Corp. on Tuesday to discuss easing supply chain bottlenecks, according to a White House official. 
+ <p class="updated_time"> 02:16 PM CT, Nov. 09 </p> 
+ <a href="https://www.nytimes.com/2021/11/09/us/politics/jan-6-subpoena.html">House Inquiry Into Jan. 6 Issues 10 New Subpoenas</a> NYT: The panel has summoned Stephen Miller, a senior adviser to President Donald J. Trump, and several other top White House officials who witnessed his actions before and during the riot. 
+ <p class="updated_time"> 02:13 PM CT, Nov. 09 </p> 
  <a href="https://www.nytimes.com/2021/11/09/us/politics/pfizer-booster-approval-adults.html">Pfizer Asks for Authorization for Boosters for Adult Recipients</a> NYT: An advisory panel to the Food and Drug Administration voted against a similar request from Pfizer in mid-September, but the agency is considered likely to grant the request, perhaps before Thanksgiving. 
+ <p class="updated_time"> 02:12 PM CT, Nov. 09 </p> 
+ <a href="https://www.nytimes.com/2021/11/09/us/moderna-vaccine-patent.html">Moderna and U.S. at Odds Over Vaccine Patent Rights</a> NYT: Moderna’s patent application names several employees as the sole inventors of a crucial component of its coronavirus vaccine, excluding three government scientists. 
+ <p class="updated_time"> 02:05 PM CT, Nov. 09 </p> 
+ <a href="https://www.washingtonpost.com/politics/2021/11/09/biden-economy-is-doing-pretty-well-by-measures-trump-used-evaluate-his-own/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">The Biden economy is doing pretty well by the measures Trump used to evaluate his own</a> WaPo: Not that economies are largely function of presidents, of course. 
+ <p class="updated_time"> 01:55 PM CT, Nov. 09 </p> 
+ <a href="https://www.washingtonpost.com/national-security/alabama-sewer-justice-investigation/2021/11/09/4a86bdce-4182-11ec-a3aa-0255edc02eb7_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Justice Dept. to investigate rural Alabama county with inadequate sewage systems</a> WaPo: Civil rights probe follows long-standing complaints of failing septic tanks and sewage backups in the mostly Black county of Lowndes. 
  <p class="updated_time"> 01:48 PM CT, Nov. 09 </p> 
  <a href="https://www.nytimes.com/2021/11/09/us/politics/trump-officials-illegal-campaigning.html">Trump Officials Illegally Campaigned While in Office, Watchdog Finds</a> NYT: Mr. Trump’s son-in-law and his chief of staff are among those accused of violating a law designed to prevent federal employees from abusing their power. 
- <p class="updated_time"> 01:45 PM CT, Nov. 09 </p> 
- <a href="https://www.nytimes.com/2021/11/09/us/moderna-vaccine-patent-nih.html">Moderna and U.S. at Odds Over Vaccine Patent Rights</a> NYT: Moderna’s patent application names several employees as the sole inventors of a crucial component of its coronavirus vaccine, excluding three government scientists. 
  <p class="updated_time"> 01:45 PM CT, Nov. 09 </p> 
  <a href="https://www.washingtonpost.com/politics/pelosi-calls-for-investigations-of-gosars-video-that-depicts-him-killing-ocasio-cortez/2021/11/09/5d5f3538-417e-11ec-9ea7-3eb2406a2e24_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Pelosi calls for investigations of Gosar’s video that depicts him killing Ocasio-Cortez</a> WaPo: In a tweet, the House speaker urged House Minority Leader Kevin McCarthy (R-Calif.) to support ethics and law enforcement investigations. 
  <p class="updated_time"> 01:41 PM CT, Nov. 09 </p> 
@@ -227,11 +235,9 @@ permalink: /projects/news/
  <p class="updated_time"> 01:34 PM CT, Nov. 09 </p> 
  <a href="https://www.washingtonpost.com/politics/2021/11/09/how-republicans-can-take-back-majority-senate-house/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">How Republicans can take back the majority in the Senate and House</a> WaPo: A look at how many seats they need to win and where in the 2022 midterm elections. 
  <p class="updated_time"> 01:30 PM CT, Nov. 09 </p> 
- <a href="https://www.washingtonpost.com/national-security/alabama-sewer-justice-investigation/2021/11/09/4a86bdce-4182-11ec-a3aa-0255edc02eb7_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Justice Dept. to investigate rural Alabama county with inadequate sewage systems</a> WaPo: Civil rights probe follows long-standing complaints of failing septic tanks and sewage backups in the mostly Black county of Lowndes. 
- <p class="updated_time"> 01:30 PM CT, Nov. 09 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-09/biden-urges-net-zero-aviation-by-2050-in-huge-leap-beyond-cars">Biden Urges Net-Zero Aviation by 2050 in Huge Leap Beyond Cars</a> Bloomberg: President Joe Biden’s administration is targeting one of the tougher sources of climate-warming greenhouse gases with a plan that calls for the U.S. aviation sector to reach net-zero emissions by 2050. 
  <p class="updated_time"> 01:26 PM CT, Nov. 09 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-09/biden-xi-virtual-summit-is-now-planned-for-next-week">Biden-Xi Virtual Summit Is Now Planned for Next Week</a> Bloomberg: U.S. President Joe Biden and his Chinese counterpart Xi Jinping are scheduled to hold a virtual summit next week, according to people familiar with the matter. 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-09/biden-xi-virtual-summit-is-now-planned-for-next-week">Biden-Xi Virtual Summit Set for Next Week, With Date to Come</a> Bloomberg: U.S. President Joe Biden and his Chinese counterpart Xi Jinping are scheduled to hold a virtual summit next week, though no specific date has been set, according to people familiar with the matter. 
  <p class="updated_time"> 01:24 PM CT, Nov. 09 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-09/white-house-isn-t-considering-enbridge-pipeline-shutdown">White House Says It Isn’t Considering Enbridge Pipeline Shutdown</a> Bloomberg: The White House isn’t considering a shutdown of an oil pipeline between Canada and Michigan that the state’s governor wants shuttered, a spokeswoman said. 
  <p class="updated_time"> 01:16 PM CT, Nov. 09 </p> 
@@ -314,6 +320,8 @@ permalink: /projects/news/
  <a href="https://www.washingtonpost.com/politics/2021/11/09/testing-option-vaccine-mandate/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">The reality of the testing option in Biden’s vaccine-or-testing mandate</a> WaPo: It's never talked about enough -- especially in GOP pushback on Biden's policy -- but polls have suggested the vast majority of Americans are on board. 
  <p class="updated_time"> 09:59 AM CT, Nov. 09 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-09/ireland-preparing-for-potential-eu-u-k-trade-war-varadkar-says">Ireland Preparing for Potential EU-U.K. Trade War, Varadkar Says</a> Bloomberg: Ireland is preparing for a possible trade war between the EU and U.K., its deputy prime minister said, amid rising tensions between the two sides. 
+ <p class="updated_time"> 09:46 AM CT, Nov. 09 </p> 
+ <a href="https://www.politico.com/news/2021/11/09/sununu-wont-run-for-senate-520413">Sunu-no: Top GOP recruit won't run for Senate</a> Politico: New Hampshire Gov. Chris Sununu said Tuesday he will seek reelection, denying Republicans their top recruit of the 2022 election cycle. 
  <p class="updated_time"> 09:42 AM CT, Nov. 09 </p> 
  <a href="https://www.washingtonpost.com/politics/2021/11/09/how-many-people-will-go-prison-trumps-dishonesty/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">How many people will go to prison for Trump’s dishonest election claims?</a> WaPo: The threat of violence from his election claims hasn't gone away. 
  <p class="updated_time"> 09:39 AM CT, Nov. 09 </p> 
@@ -340,8 +348,6 @@ permalink: /projects/news/
  <a href="https://www.bloomberg.com/news/articles/2021-11-09/biden-commerce-chief-says-u-k-japan-steel-talks-to-start-soon">Biden Commerce Chief Says U.K., Japan Steel Talks to Start Soon</a> Bloomberg: The U.S. expects to begin talks with the U.K. and Japan aimed at addressing the nations’ objections to steel and aluminum tariffs “reasonably soon,” and any solution must protect the American industries, President Joe Biden’s commerce chief said. 
  <p class="updated_time"> 07:58 AM CT, Nov. 09 </p> 
  <a href="https://www.washingtonpost.com/local/obituaries/max-cleland-dead/2021/11/09/cb0afb9c-7520-11eb-8115-9ad5e9c02117_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Max Cleland, Vietnam War veteran who led VA and served in Senate, dies at 79</a> WaPo: Elected to the U.S. Senate in 1996, he served one term as a Georgia Democrat before losing reelection in a campaign that centered on national security after Sept. 11, 2001. 
- <p class="updated_time"> 07:56 AM CT, Nov. 09 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-09/hard-brexit-talk-returns-as-u-k-eyes-suspending-n-ireland-deal">Hard Brexit Talk Returns as Northern Ireland Tensions Flare</a> Bloomberg: Brexit was supposed to be over. But with tensions over Northern Ireland flaring, the European Union is preparing a package of retaliatory measures in case the U.K. decides to suspend parts of the post-Brexit trade accord. 
  <p class="updated_time"> 07:24 AM CT, Nov. 09 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/11/09/senate-schedule-seasonally-depressing-495031">Senate schedule: seasonally depressing</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 07:00 AM CT, Nov. 09 </p> 
@@ -430,8 +436,6 @@ permalink: /projects/news/
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jpJpF5B53u0/index.html">January 6 committee issues 6 subpoenas to top Trump campaign associates</a> CNN: The House select committee investigating the deadly January 6 riot on Capitol Hill announced Monday it is issuing six additional subpoenas to top Trump campaign associates as it continues to seek testimony and documents from key witnesses in the sweeping probe. 
  <p class="updated_time"> 05:29 PM CT, Nov. 08 </p> 
  <a href="https://www.politico.com/news/2021/11/08/shooting-victim-kyle-rittenhouse-520336">Shooting victim says he was pointing his gun at Rittenhouse</a> Politico: “I thought the defendant was an active shooter,” Gaige Grosskreutz testified. 
- <p class="updated_time"> 05:21 PM CT, Nov. 08 </p> 
- <a href="https://www.washingtonpost.com/politics/courts_law/supreme-court-fbi-mosques/2021/11/08/4fbc6b26-409d-11ec-a88e-2aa4632af69b_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Supreme Court considers if state secrets claim can end Muslim men’s lawsuit against FBI</a> WaPo: During Operation Flex, the bureau used an undercover agent to surveil Southern California Islamic centers. 
  <p class="updated_time"> 04:53 PM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/us/supreme-court-fbi-muslims.html">Supreme Court Weighs Case Against F.B.I. for Spying on Muslims</a> NYT: The justices considered whether the state secrets doctrine required dismissal on national security grounds of a case claiming religious discrimination. 
  <p class="updated_time"> 04:38 PM CT, Nov. 08 </p> 
@@ -484,8 +488,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/08/democratic-senate-majority-dicey-virginia-520214">The Democratic Senate majority was already dicey. Then came Virginia.</a> Politico: A favorable map is not going to be enough to save Senate Dems. But they might get help from a few tarnished GOP candidates. 
  <p class="updated_time"> 04:00 AM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/nyregion/nassau-county-republicans-election.html">Why Republicans Won in Nassau County</a> NYT: Voters readily ousted Democrats in Nassau County on Long Island, electing Republicans down the ballot. 
- <p class="updated_time"> 01:17 PM CT, Nov. 07 </p> 
- <a href="https://www.nytimes.com/2021/11/07/us/politics/afghanistan-war-marines.html">Young Marines in Kabul Were Left to Run Final Days of Evacuation</a> NYT: The young Marines in Kabul were left to determine who was evacuated from Afghanistan and who was left behind. The cost was high. 
  <p class="updated_time"> 11:17 AM CT, Nov. 07 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/07/what-happens-in-vegas-495006">POLITICO Playbook: What happens in Vegas …</a> Politico: And a court temporarily blocks Biden’s vaccine mandate. 
  <p class="updated_time"> 10:27 AM CT, Nov. 07 </p> 
@@ -503,8 +505,6 @@ permalink: /projects/news/
  <p class="updated_time"> 10:18 AM CT, Nov. 06 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/06/how-biden-and-pelosi-saved-bif-495005">POLITICO Playbook: How Biden and Pelosi saved BIF</a> Politico: And President Joe Biden secures the biggest win of his presidency so far. 
  <p class="updated_time"> 06:00 AM CT, Nov. 06 </p> 
- <a href="https://www.politico.com/news/2021/11/06/new-york-governor-race-519790">New York governor’s race heats up, 1,600 miles away</a> Politico: The annual SOMOS conference has been one of the most important times on New York’s political calendar for decades. 
- <p class="updated_time"> 06:00 AM CT, Nov. 06 </p> 
  <a href="https://www.politico.com/news/2021/11/06/rural-dems-trouble-519782">Rural Democrats stare into the abyss after Virginia</a> Politico: Rural Democrats say the party’s problems on their turf are twofold. 
  <p class="updated_time"> 10:30 PM CT, Nov. 05 </p> 
  <a href="https://www.politico.com/news/2021/11/05/house-infrastructure-bill-519796">House ships $550B infrastructure legislation to Biden’s desk after months of delay</a> Politico: Only 13 House Republicans voted for the bill, alongside all but 6 Democrats. 
@@ -516,8 +516,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/05/house-democrats-infrastructure-vote-wait-megabill-519731">'Whole day was a clusterf---': Dems overcome distrust to send infrastructure bill to Biden</a> Politico: Democratic centrists and progressives reached a detente that cleared the $550 billion bipartisan legislation late Friday night and advanced their social spending package. 
  <p class="updated_time"> 02:35 PM CT, Nov. 05 </p> 
  <a href="https://www.politico.com/news/2021/11/05/house-democrats-infrastructure-vote-wait-megabill-519731">'Whole day was a clusterf---': Dems overcome distrust to send infrastructure bill to Biden</a> Politico: Democratic centrists and progressives reached a detente that cleared the $550 billion bipartisan legislation late Friday night and advanced their social spending package. 
- <p class="updated_time"> 02:07 PM CT, Nov. 05 </p> 
- <a href="https://www.politico.com/news/2021/11/05/judge-rejects-comparison-between-jan-6-riot-and-george-floyd-unrest-519723">Judge rejects comparison between Jan. 6 riot and George Floyd unrest</a> Politico: 'For people to say people who participated in the protests of the summer of 2020 got no jail time, that’s not my experience in my court,' 
  <p class="updated_time"> 11:31 AM CT, Nov. 05 </p> 
  <a href="https://www.politico.com/news/2021/11/05/jeffrey-clark-doj-hill-deposition-519703">Trump DOJ official who aided effort to overturn election declines to answer Jan. 6 questions</a> Politico: The chair of the Hill select panel probing the Capitol riot said a contempt of Congress referral for Jeffrey Clark is "on the table." 
  <p class="updated_time"> 06:26 AM CT, Nov. 05 </p> 
