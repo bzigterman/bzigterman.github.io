@@ -7,12 +7,18 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:14 PM CT, Nov. 08 </p> 
+ <a href="https://www.nytimes.com/2021/11/08/us/politics/isis-military.html">Military Can’t Find ISIS Safe House That Prompted Kabul Drone Strike</a> NYT: The Pentagon’s latest admission illustrates the botched intelligence behind the strike that mistakenly killed 10 civilians in August. 
+ <p class="updated_time"> 08:04 PM CT, Nov. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59216104?at_medium=RSS&at_campaign=KARANGA">California couple sue clinic for alleged IVF swap 'horror'</a> BBC: Two California couples gave birth to each others’ babies after a mix-up at a fertility clinic , a lawsuit claims. 
  <p class="updated_time"> 07:16 PM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/insider/taliban-kabul-afghanistan-journalists.html">When the Taliban Are in Your Bedroom</a> NYT: As armed Taliban inspected the New York Times bureau in Kabul, they were escorted by a journalist who used to be a U.S. Marine. The photo of him in uniform was plain for all to see, and ponder. 
+ <p class="updated_time"> 07:05 PM CT, Nov. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-59215945?at_medium=RSS&at_campaign=KARANGA">Cleo Smith abduction: Australian police investigate 'if anyone else involved'</a> BBC: The four-year-old Australian girl was found in a locked house last week after vanishing for 18 days. 
  <p class="updated_time"> 06:52 PM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/world/europe/france-catholic-church-compensate-sex-abuse-victims.html">French Catholic Church Will Sell Assets to Compensate Abuse Victims</a> NYT: The measure was one of several measures announced by French bishops, one month after a landmark report on sexual abuse by clergy members in France. 
  <p class="updated_time"> 06:45 PM CT, Nov. 08 </p> 
- <a href="https://www.nytimes.com/2021/11/08/travel/international-travel-reopens.html">With Tears, Hugs and Balloons, U.S. Allows Vaccinated Foreign Travelers to Enter</a> NYT: On Monday, after more than 18 months, restrictions that kept families separated and cost the global travel industry hundreds of billions of dollars were lifted. 
+ <a href="https://www.nytimes.com/2021/11/08/travel/usa-travel-restrictions.html">With Tears, Hugs and Balloons, US Allows Vaccinated Foreign Travelers to Enter</a> NYT: On Monday, after more than 18 months, restrictions that kept families separated and cost the global travel industry hundreds of billions of dollars were lifted. 
  <p class="updated_time"> 06:16 PM CT, Nov. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59167718?at_medium=RSS&at_campaign=KARANGA">US-Canada border: After 19 months, families to reunite</a> BBC: Thomas Musgraves will soon see his daughter Maddie in the US after pandemic restrictions kept them apart 
  <p class="updated_time"> 06:15 PM CT, Nov. 08 </p> 
@@ -27,8 +33,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59210403?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell to challenge accusers' memories</a> BBC: The British socialite will challenge allegations she groomed girls for Jeffrey Epstein to sexually abuse. 
  <p class="updated_time"> 05:41 PM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/climate/emissions-climate-change.html">More Than 40 Nations Pledge to Cut Emissions From Their Health Industries</a> NYT: The plans, while short on specifics, represent a notable step toward cutting greenhouse gas emissions from hospitals and the health care industry, a sizable emitter globally. 
- <p class="updated_time"> 05:29 PM CT, Nov. 08 </p> 
- <a href="https://www.nytimes.com/2021/11/08/us/politics/drone-strike-kabul-isis.html">Military Can’t Find ISIS Safe House That Prompted Kabul Drone Strike</a> NYT: The Pentagon’s latest admission illustrates the botched intelligence behind the strike that mistakenly killed 10 civilians in August. 
  <p class="updated_time"> 05:05 PM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/world/europe/france-police-officer-stabbed-cannes.html">Police Officer Stabbed on French Riviera, Authorities Say</a> NYT: Gérald Darmanin, France’s interior minister, said an assailant had stabbed an officer in Cannes. The motive for the attack was not immediately clear. 
  <p class="updated_time"> 04:38 PM CT, Nov. 08 </p> 
@@ -87,8 +91,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/08/world/asia/new-zealand-ease-lockdown-restrictions.html">New Zealand's Biggest City Is to Ease Lockdown Restrictions</a> NYT: The lifting of rules comes as the country records some of its highest daily case numbers since the pandemic began. 
  <p class="updated_time"> 11:47 AM CT, Nov. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59205372?at_medium=RSS&at_campaign=KARANGA">Sierra Leone tanker explosion: Mass burial in Freetown</a> BBC: Many of the victims were burnt beyond recognition after fuel leaked and caught fire on Friday. 
- <p class="updated_time"> 11:46 AM CT, Nov. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-59205765?at_medium=RSS&at_campaign=KARANGA">Yemeni model jailed for indecency by rebel authorities</a> BBC: Human rights activists say the trial of Intisar al-Hammadi by Houthi authorities was unfair. 
  <p class="updated_time"> 11:21 AM CT, Nov. 08 </p> 
  <a href="https://www.wsj.com/articles/china-has-built-mock-ups-of-u-s-aircraft-carrier-warships-in-the-desert-11636403790">China Has Built Mock-Up of U.S. Aircraft Carrier, Warships in the Desert</a> WSJ: Satellite images indicate the People’s Liberation Army is focused on increasingly realistic training methods as tension over Taiwan rises. 
  <p class="updated_time"> 10:44 AM CT, Nov. 08 </p> 
@@ -105,8 +107,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59206825?at_medium=RSS&at_campaign=KARANGA">Nagaenthran Dharmalingam: Singapore halts execution of man with low IQ</a> BBC: Nagaenthran Dharmalingam was due to be hanged for trying to bring a small amount of drugs into Singapore. 
  <p class="updated_time"> 07:56 AM CT, Nov. 08 </p> 
  <a href="https://www.bbc.co.uk/news/uk-59210335?at_medium=RSS&at_campaign=KARANGA">Venus Williams: 'It's important people continue to break barriers'</a> BBC: The tennis star tells 5 Live's Rick Edwards she hopes future generations don't have to focus "on the colour of their skin". 
- <p class="updated_time"> 07:29 AM CT, Nov. 08 </p> 
- <a href="https://www.bbc.co.uk/news/technology-59206549?at_medium=RSS&at_campaign=KARANGA">TikTok: Missing girl found after using viral call for help sign</a> BBC: The hand gesture asking for help led to the rescue of a missing teenager in the US. 
  <p class="updated_time"> 07:20 AM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/07/travel/us-travel-ban-reunions.html">As U.S. Travel Changes Near, Global Travelers Eagerly Await Reunions</a> NYT: On Monday, travelers from many other countries who are fully vaccinated against the coronavirus will be allowed to enter the United States. 
  <p class="updated_time"> 06:42 AM CT, Nov. 08 </p> 
@@ -216,16 +216,28 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:10 PM CT, Nov. 08 </p> 
+ <a href="https://www.politico.com/news/2021/11/08/judge-claim-trumps-inaugural-committee-private-business-520380">Judge lets claim against Trump’s inaugural committee and private business move forward</a> Politico: The lawsuit filed by the District of Columbia alleges the Trump International Hotel violated Washington laws governing nonprofit organizations. 
+ <p class="updated_time"> 08:21 PM CT, Nov. 08 </p> 
+ <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xvEt_dcR3k8/index.html">Biden honors NBA champs Milwaukee Bucks at the White House</a> CNN: President Joe Biden honored the NBA champion Milwaukee Bucks at a White House ceremony on Monday, marking the first visit to 1600 Pennsylvania Avenue by an NBA championship-winning team since 2016. 
+ <p class="updated_time"> 08:15 PM CT, Nov. 08 </p> 
+ <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9p9GkYhH3_M/index.html">US seizes $6 million in ransom payments and charges Ukrainian over major cyberattack</a> CNN: Law enforcement officials have seized an estimated $6 million in ransom payments, and the US Justice Department is expected to announce Monday that it has charged a suspect from Ukraine over a damaging July ransomware attack on an American company in a breakthrough for the Biden administration's pursuit of cybercriminals, CNN has learned. 
+ <p class="updated_time"> 08:15 PM CT, Nov. 08 </p> 
+ <a href="https://www.washingtonpost.com/politics/biden-infrastructure-benefits-polarized-politics/2021/11/08/dcf73b1c-40aa-11ec-a3aa-0255edc02eb7_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Biden seeks infrastructure bounce. But can a nuts-and-bolts pitch overcome cultural divides?</a> WaPo: The president’s sales push on infrastructure will test whether his strategy of delivering tangible benefits still resonates in a polarized political environment where cultural issues are powerful. 
+ <p class="updated_time"> 08:14 PM CT, Nov. 08 </p> 
+ <a href="https://www.nytimes.com/2021/11/08/us/politics/isis-military.html">Military Can’t Find ISIS Safe House That Prompted Kabul Drone Strike</a> NYT: The Pentagon’s latest admission illustrates the botched intelligence behind the strike that mistakenly killed 10 civilians in August. 
  <p class="updated_time"> 07:58 PM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/us/politics/jan-6-subpoenas-eastman-flynn-trump.html">Jan. 6 Panel Subpoenas Flynn and Eastman, Scrutinizing Election Plot</a> NYT: The latest batch of subpoenas from the House select committee investigating the Capitol riot also includes officials from former President Donald J. Trump’s re-election campaign. 
+ <p class="updated_time"> 07:56 PM CT, Nov. 08 </p> 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-09/brainard-interviewed-by-biden-for-fed-chair-as-search-heats-up">Brainard Interviewed by Biden for Fed Chair as Search Heats Up</a> Bloomberg: Federal Reserve Governor&nbsp;Lael Brainard&nbsp;was interviewed for the top job at the U.S. central bank when she&nbsp;visited&nbsp;the White House last week, according to people familiar with the discussions, signaling that Chair&nbsp;Jerome Powell&nbsp;has a serious rival as President&nbsp;Joe Biden&nbsp;considers who will lead the Fed for the next four years. 
+ <p class="updated_time"> 07:26 PM CT, Nov. 08 </p> 
+ <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_zf6ZbDxpgw/josh-hawley-toxic-masculinity-mh-orig.cnn">GOP lawmaker: Men in US are treated like an illness in need of a cure</a> CNN: Sen. Josh Hawley has denounced the concept of "toxic masculinity" and has called for a return to traditional masculine roles on "Axios at HBO" and at the National Conservatism Conference. 
  <p class="updated_time"> 07:26 PM CT, Nov. 08 </p> 
  <a href="https://www.washingtonpost.com/politics/republicans-gosar-trump-ocasio-cortez/2021/11/08/ead37b36-40ca-11ec-9ea7-3eb2406a2e24_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Rep. Paul Gosar tweets photoshopped anime video showing him killing Rep. Ocasio-Cortez and attacking President Biden</a> WaPo: The Arizona Republican’s tweeting of the video prompted condemnation and calls for his Twitter account to be suspended for glorification of violence. 
  <p class="updated_time"> 07:24 PM CT, Nov. 08 </p> 
  <a href="https://www.politico.com/news/2021/11/08/biden-vaccine-covid-mandate-lives-520367">Biden administration says blocking vaccine mandate could cost hundreds of lives per day</a> Politico: The administration told a federal court that a stay of its vaccinate-or-test requirement for private employers “would likely cost dozens or even hundreds of lives per day.” 
  <p class="updated_time"> 06:58 PM CT, Nov. 08 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zyOWU6zm7vo/index.html">Biden administration will waive immigration application fees for thousands of evacuated Afghans </a> CNN: The Biden administration is planning to waive immigration-related fees for up to 70,000 Afghan evacuees as they are resettled in the United States, the Department of Homeland Security said Monday. 
- <p class="updated_time"> 06:51 PM CT, Nov. 08 </p> 
- <a href="https://www.washingtonpost.com/politics/biden-infrastructure-benefits-polarized-politics/2021/11/08/dcf73b1c-40aa-11ec-a3aa-0255edc02eb7_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Biden seeks infrastructure bounce. But can a nuts-and-bolts pitch overcome cultural divides?</a> WaPo: The president’s sales push on infrastructure will test whether his strategy of delivering tangible benefits still resonates in a polarized political environment where cultural issues are powerful. 
  <p class="updated_time"> 06:45 PM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/us/politics/employer-vaccine-mandates.html">U.S. Urges Court Not to Block Vaccine Mandate on Employers</a> NYT: The Biden Justice Department filed its case before an appeals court that has temporarily halted the measure. 
  <p class="updated_time"> 06:40 PM CT, Nov. 08 </p> 
@@ -237,15 +249,13 @@ permalink: /projects/news/
  <p class="updated_time"> 06:30 PM CT, Nov. 08 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-09/hong-kong-won-t-reopen-to-world-until-mid-2022-lam-adviser-says">Hong Kong Won’t Reopen to World Until Mid-2022, Lam Adviser Says</a> Bloomberg: Hong Kong could open up to global travel in roughly six months, after officials have successfully navigated the introduction of quarantine-free borders with mainland China and boosted the local vaccination rate, a government adviser said. 
  <p class="updated_time"> 06:25 PM CT, Nov. 08 </p> 
- <a href="https://www.nytimes.com/2021/11/08/us/politics/first-lady-looks-on-as-elementary-students-get-coronavirus-shots.html">Jill Biden Attends Coronavirus Clinic at Elementary School</a> NYT: The first lady and the surgeon general visited an elementary school in Virginia as part of a strategy to enlist schools in promoting the vaccine. 
+ <a href="https://www.nytimes.com/2021/11/08/us/politics/jill-biden-kids-vaccine.html">Jill Biden Kicks Off Covid Vaccine Campaign for Young Children</a> NYT: The first lady and the surgeon general visited an elementary school in Virginia as part of a strategy to enlist schools in promoting the vaccine. 
  <p class="updated_time"> 06:06 PM CT, Nov. 08 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2pzftxfVv6Y/index.html">Josh Hawley and the 'left-wing attack on manhood'</a> CNN: No doubt about it, there's a lot to worry about in the country these days: Covid. Inflation. Poverty. Polarized politics. Democracy itself. 
  <p class="updated_time"> 05:40 PM CT, Nov. 08 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jpJpF5B53u0/index.html">January 6 committee issues 6 subpoenas to top Trump campaign associates</a> CNN: The House select committee investigating the deadly January 6 riot on Capitol Hill announced Monday it is issuing six additional subpoenas to top Trump campaign associates as it continues to seek testimony and documents from key witnesses in the sweeping probe. 
  <p class="updated_time"> 05:29 PM CT, Nov. 08 </p> 
  <a href="https://www.politico.com/news/2021/11/08/shooting-victim-kyle-rittenhouse-520336">Shooting victim says he was pointing his gun at Rittenhouse</a> Politico: “I thought the defendant was an active shooter,” Gaige Grosskreutz testified. 
- <p class="updated_time"> 05:29 PM CT, Nov. 08 </p> 
- <a href="https://www.nytimes.com/2021/11/08/us/politics/drone-strike-kabul-isis.html">Military Can’t Find ISIS Safe House That Prompted Kabul Drone Strike</a> NYT: The Pentagon’s latest admission illustrates the botched intelligence behind the strike that mistakenly killed 10 civilians in August. 
  <p class="updated_time"> 05:21 PM CT, Nov. 08 </p> 
  <a href="https://www.washingtonpost.com/politics/courts_law/supreme-court-fbi-mosques/2021/11/08/4fbc6b26-409d-11ec-a88e-2aa4632af69b_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Supreme Court considers if state secrets claim can end Muslim men’s lawsuit against FBI</a> WaPo: During Operation Flex, the bureau used an undercover agent to surveil Southern California Islamic centers. 
  <p class="updated_time"> 05:11 PM CT, Nov. 08 </p> 
@@ -260,8 +270,6 @@ permalink: /projects/news/
  <a href="https://www.washingtonpost.com/politics/trump-inaugural-committee-lawsuit-claim-tossed/2021/11/08/93f5f16c-40da-11ec-9ea7-3eb2406a2e24_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Judge tosses D.C. AG’s claim that Trump inaugural committee ‘wasted’ $1 million at president’s hotel</a> WaPo: The judge will allow another part of the suit, claiming the committee misused assets for the Trump family’s gain, to continue. 
  <p class="updated_time"> 04:45 PM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/us/politics/democrats-budget-bill-cuts-infrastructure.html">On Chicago’s West Side, Urgent Needs Collide With Washington Compromises</a> NYT: Activists say the needs of struggling communities in Chicago and elsewhere vastly exceed the billions Congress is spending. 
- <p class="updated_time"> 04:39 PM CT, Nov. 08 </p> 
- <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xvEt_dcR3k8/index.html">Biden honors NBA champs Milwaukee Bucks at the White House</a> CNN: President Joe Biden honored the NBA champion Milwaukee Bucks at a White House ceremony on Monday, marking the first visit to 1600 Pennsylvania Avenue by an NBA championship-winning team since 2016. 
  <p class="updated_time"> 04:38 PM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/us/politics/justice-dept-ransomware.html">Justice Dept. Brings New Charges in Ransomware Attacks</a> NYT: The department said it had charged a Russian national in one attack and recovered $6.1 million in ransom. It also arrested a Ukrainian man for another attack. 
  <p class="updated_time"> 04:06 PM CT, Nov. 08 </p> 
@@ -302,8 +310,6 @@ permalink: /projects/news/
  <a href="https://www.washingtonpost.com/politics/house-jan-6-committee-issues-subpoenas-to-6-top-trump-advisers-including-pair-involved-in-willard-hotel-command-center/2021/11/08/6e91b0f2-40a6-11ec-a88e-2aa4632af69b_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">House Jan. 6 committee issues subpoenas to 6 top Trump advisers, including pair involved in Willard hotel ‘command center’</a> WaPo: Those subpoenaed include scholar John Eastman, author of a legal strategy to deny Biden the presidency, and former New York police commissioner Bernard Kerik. 
  <p class="updated_time"> 02:48 PM CT, Nov. 08 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/O3tKG3pCKP4/index.html">US Capitol rioter who fled to Belarus says he may seek asylum there</a> CNN: A California man who is wanted by the FBI for allegedly assaulting police officers during the US Capitol insurrection says he is considering seeking asylum in Belarus because he is the target of "political persecution," according to Belarus state television. 
- <p class="updated_time"> 02:42 PM CT, Nov. 08 </p> 
- <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9p9GkYhH3_M/index.html">US seizes $6 million in ransom payments and charges Ukrainian over major cyberattack</a> CNN: Law enforcement officials have seized an estimated $6 million in ransom payments, and the US Justice Department is expected to announce Monday that it has charged a suspect from Ukraine over a damaging July ransomware attack on an American company in a breakthrough for the Biden administration's pursuit of cybercriminals, CNN has learned. 
  <p class="updated_time"> 02:39 PM CT, Nov. 08 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-08/capitol-riot-panel-subpoenas-trump-allies-flynn-kerik-in-probe">Capitol Riot Panel Subpoenas Trump Allies Including Flynn, Kerik, Eastman</a> Bloomberg: The House committee investigating the Jan. 6 insurrection at the U.S. Capitol has subpoenaed six campaign aides and supporters of former President Donald Trump, including former National Security adviser Michael Flynn and former New York City Police Commissioner Bernard Kerik. 
  <p class="updated_time"> 02:27 PM CT, Nov. 08 </p> 
@@ -348,8 +354,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/08/new-jerseys-midterm-carnage-520293">New Jersey’s most powerful Democratic boss predicts midterm carnage</a> Politico: George Norcross says nobody in the state predicted last week’s losses for the party. “It was just a tsunami,” he said. “Nobody saw this coming.” 
  <p class="updated_time"> 12:00 PM CT, Nov. 08 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-08/dominican-republic-calls-haiti-a-threat-cracks-down-on-migrants">Dominican Republic Calls Haiti a Threat, Cracks Down on Migrants</a> Bloomberg: The Dominican Republic is requiring hundreds of thousands of Haitians to register their whereabouts inside the country, saying the measure is to protect itself from the gang violence and unrest rattling its neighbor. 
- <p class="updated_time"> 11:50 AM CT, Nov. 08 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-08/trudeau-s-deputy-chides-air-canada-says-ceo-should-speak-french">Trudeau’s Deputy Chides Air Canada, Says CEO Should Speak French</a> Bloomberg: Justin Trudeau’s deputy urged Air Canada’s board to enshrine French-language proficiency as a job requirement for senior managers after a speech by the airline’s top executive turned into a public relations nightmare. 
  <p class="updated_time"> 11:34 AM CT, Nov. 08 </p> 
  <a href="https://www.washingtonpost.com/world/europe/capitol-rioter-asylum-belarus/2021/11/08/fbc4eb14-4093-11ec-9404-50a28a88b9cd_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Capitol rioter Evan Neumann applies for asylum in Belarus, local media says</a> WaPo: Neumann was presented by local media as someone who was persecuted for questioning election results. 
  <p class="updated_time"> 11:30 AM CT, Nov. 08 </p> 
@@ -540,10 +544,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/huddle/2021/11/04/dems-attempt-an-end-of-week-spri-494981">Dems attempt an end-of-week sprint</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 05:13 AM CT, Nov. 04 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/04/for-dems-its-2009-all-over-again-494977">POLITICO Playbook: For Dems, it’s ’2009 all over again’</a> Politico: And New Jersey Gov. Phil Murphy wins reelection narrowly. 
- <p class="updated_time"> 03:30 AM CT, Nov. 04 </p> 
- <a href="https://www.politico.com/news/2021/11/04/federal-judges-reams-jan-6-secrets-congress-519232">2 federal judges are poised to quietly begin unlocking reams of Jan. 6 secrets for Congress</a> Politico: The information, from Donald Trump's White House files and from the rioters themselves, could dramatically reshape the public’s understanding of the insurrection. 
- <p class="updated_time"> 04:03 PM CT, Nov. 03 </p> 
- <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PCXtFxC5C4M/index.html">Biden encourages parents to get their eligible children vaccinated against Covid-19: 'A day of relief and celebration'</a> CNN: President Joe Biden will deliver remarks Wednesday afternoon regarding the US Centers for Disease Control and Prevention's authorization of the Covid-19 vaccine for kids ages 5 to 11. 
  <p class="updated_time"> 02:28 PM CT, Nov. 03 </p> 
  <a href="https://www.politico.com/news/2021/11/03/senate-republicans-voting-reform-block-519082">Senate GOP blocks latest Dem push for voting reform</a> Politico: Alaska’s Lisa Murkowski was the only Republican to join Democrats on the bill named for the late Rep. John Lewis. 
  <p class="updated_time"> 12:36 PM CT, Nov. 03 </p> 
