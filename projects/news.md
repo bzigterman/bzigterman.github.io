@@ -212,6 +212,16 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 01:16 PM CT, Nov. 09 </p> 
+ <a href="https://www.nytimes.com/2021/11/09/us/politics/trucker-shortage-supply-chain.html">The Biggest Kink in America’s Supply Chain: Not Enough Truckers</a> NYT: Long hours and uncomfortable working conditions are leading to a shortage of truck drivers, which has compounded shipping delays in the United States. 
+ <p class="updated_time"> 01:08 PM CT, Nov. 09 </p> 
+ <a href="https://www.washingtonpost.com/politics/2021/11/09/gop-floats-punishing-13-its-members-their-sin-giving-biden-win/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">The GOP floats punishing 13 of its members. Their sin? Giving Biden a ‘win.’</a> WaPo: An effort is afoot to strip the 13 pro-infrastructure Republicans of their committee assignments. 
+ <p class="updated_time"> 01:08 PM CT, Nov. 09 </p> 
+ <a href="https://www.washingtonpost.com/politics/2021/11/09/gop-floats-punishing-13-its-members-their-sin-giving-biden-win/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">The GOP floats punishing 13 of its members. Their sin? Giving Biden a ‘win.’</a> WaPo: An effort is afoot to strip the 13 pro-infrastructure Republicans of their committee assignments. 
+ <p class="updated_time"> 01:07 PM CT, Nov. 09 </p> 
+ <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Z-oqzzdnmL8/index.html">Behind political polarization, there's a complex picture of partisans</a> CNN: Hidden beneath the stark partisan polarization of American politics today are sharp intraparty divisions over some of the most central issues facing the nation, according to a new analysis from the Pew Research Center. 
+ <p class="updated_time"> 01:03 PM CT, Nov. 09 </p> 
+ <a href="https://www.npr.org/2021/11/09/1053817211/justice-on-the-brink-author-considers-the-impact-of-trumps-3-supreme-court-picks">'Justice on the Brink' author considers the impact of Trump's 3 Supreme Court picks</a> NPR: Pulitzer Prize-winning journalist Linda Greenhouse says the new Court has given conservatives less than they'd hoped for, though critical cases on abortion and other issues are still pending. 
  <p class="updated_time"> 01:00 PM CT, Nov. 09 </p> 
  <a href="https://www.npr.org/2021/11/09/1053929419/feel-like-you-dont-fit-in-either-political-party-heres-why">Feel like you don't fit in either political party? Here's why</a> NPR: The division is far more complicated than a split between Republicans and Democrats, according to the Pew Research Center. Here are the differences in ideology on race, economics and government. 
  <p class="updated_time"> 12:53 PM CT, Nov. 09 </p> 
@@ -284,8 +294,6 @@ permalink: /projects/news/
  <a href="https://www.washingtonpost.com/politics/2021/11/09/testing-option-vaccine-mandate/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">The reality of the testing option in Biden’s vaccine-or-testing mandate</a> WaPo: It's never talked about enough -- especially in GOP pushback on Biden's policy -- but polls have suggested the vast majority of Americans are on board. 
  <p class="updated_time"> 09:59 AM CT, Nov. 09 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-09/ireland-preparing-for-potential-eu-u-k-trade-war-varadkar-says">Ireland Preparing for Potential EU-U.K. Trade War, Varadkar Says</a> Bloomberg: Ireland is preparing for a possible trade war between the EU and U.K., its deputy prime minister said, amid rising tensions between the two sides. 
- <p class="updated_time"> 09:57 AM CT, Nov. 09 </p> 
- <a href="https://www.nytimes.com/2021/11/09/us/politics/trucker-shortage-supply-chain.html">The Biggest Kink in America’s Supply Chain: Not Enough Truckers</a> NYT: Long hours and uncomfortable working conditions are leading to a shortage of truck drivers, which has compounded shipping delays in the United States. 
  <p class="updated_time"> 09:46 AM CT, Nov. 09 </p> 
  <a href="https://www.politico.com/news/2021/11/09/sununu-wont-run-for-senate-520413">Sunu-no: Top GOP recruit won't run for Senate</a> Politico: New Hampshire Gov. Chris Sununu said Tuesday he will seek reelection, denying Republicans their top recruit of the 2022 election cycle. 
  <p class="updated_time"> 09:42 AM CT, Nov. 09 </p> 
@@ -446,10 +454,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/08/1053599349/u-s-indicts-2-men-behind-ransomware-attacks-over-the-summer">U.S. indicts 2 men behind major ransomware attacks</a> NPR: The attacks shut down a meat processing plant and an internet software provider earlier this year. 
  <p class="updated_time"> 01:44 PM CT, Nov. 08 </p> 
  <a href="https://www.bloomberg.com/news/videos/2021-11-08/balance-of-power-11-08-2021">Balance of Power (11/08/2021)</a> Bloomberg: "Bloomberg: Balance of Power" focuses on the intersection of politics and global business. Former U.S. Transportation Secretary Elaine Chao says the new infrastructure bill is like "manna from heaven" for states seeking transportation funds. Also joining is Surgere CEO Bill Wappler on how tech is helping supply-chain challenges and PWC tax principal Rohit Kumar. 
- <p class="updated_time"> 01:33 PM CT, Nov. 08 </p> 
- <a href="https://www.washingtonpost.com/politics/new-jersey-governor-concede/2021/11/08/1cec7668-409e-11ec-9ea7-3eb2406a2e24_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Democrats call on New Jersey Republican to concede gubernatorial race</a> WaPo: Republican nominee Jack Ciattarelli has refused, citing uncounted ballots, the same rationale offered by the Democratic state Senate president as he refuses to concede. 
- <p class="updated_time"> 12:30 PM CT, Nov. 08 </p> 
- <a href="https://www.washingtonpost.com/politics/2021/11/08/sobering-poll-gops-embrace-coronavirus-misinformation/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">A pollster tested 8 pieces of covid misinformation. On 6 of 8, more Republicans said they were true than false.</a> WaPo: When Republicans don't believe the misinformation, it's mostly because they are unfamiliar with the claim. 
  <p class="updated_time"> 12:02 PM CT, Nov. 08 </p> 
  <a href="https://www.politico.com/news/2021/11/08/new-jerseys-midterm-carnage-520293">New Jersey’s most powerful Democratic boss predicts midterm carnage</a> Politico: George Norcross says nobody in the state predicted last week’s losses for the party. “It was just a tsunami,” he said. 
  <p class="updated_time"> 11:09 AM CT, Nov. 08 </p> 
@@ -466,8 +470,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/huddle/2021/11/08/recess-reverie-plus-huddle-restaurant-week-kicks-off-495014">Recess reverie (plus Huddle Restaurant Week kicks off)</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 07:20 AM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/07/travel/us-travel-ban-reunions.html">As U.S. Travel Changes Near, Global Travelers Eagerly Await Reunions</a> NYT: On Monday, travelers from many other countries who are fully vaccinated against the coronavirus will be allowed to enter the United States. 
- <p class="updated_time"> 06:17 AM CT, Nov. 08 </p> 
- <a href="https://www.npr.org/2021/11/08/1053442912/rep-gottheimer-is-confident-democrats-will-work-out-the-social-spending-bill">Rep. Gottheimer is confident Democrats will work out the social spending bill</a> NPR: Moderate Democrat Rep. Josh Gottheimer of New Jersey tells NPR's Rachel Martin that he will wait to see how the Congressional Budget Office scores the plan before he commits to giving it his vote. 
  <p class="updated_time"> 06:05 AM CT, Nov. 08 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/08/big-obstacles-await-biden-after-big-win-495012">POLITICO Playbook: Big obstacles await Biden after big win</a> Politico: And midterm elections are a year from today. 
  <p class="updated_time"> 05:48 AM CT, Nov. 08 </p> 
@@ -484,8 +486,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/08/democratic-senate-majority-dicey-virginia-520214">The Democratic Senate majority was already dicey. Then came Virginia.</a> Politico: A favorable map is not going to be enough to save Senate Dems. But they might get help from a few tarnished GOP candidates. 
  <p class="updated_time"> 04:00 AM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/nyregion/nassau-county-republicans-election.html">Why Republicans Won in Nassau County</a> NYT: Voters readily ousted Democrats in Nassau County on Long Island, electing Republicans down the ballot. 
- <p class="updated_time"> 02:31 PM CT, Nov. 07 </p> 
- <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sWdL-IYaLvg/index.html">Chris Christie delivers tough message to Republican audience, saying GOP gains hinge on moving on from 2020</a> CNN: While the other potential GOP White House aspirants continue to tip-toe around former President Donald Trump, former New Jersey Gov. Chris Christie argued Saturday that his week's election results marked the "beginning of a new era" for the Republican Party -- one that looks "forward and not backwards" as he addressed the Republican Jewish Coalition in Las Vegas. 
  <p class="updated_time"> 01:17 PM CT, Nov. 07 </p> 
  <a href="https://www.nytimes.com/2021/11/07/us/politics/afghanistan-war-marines.html">Young Marines in Kabul Were Left to Run Final Days of Evacuation</a> NYT: The young Marines in Kabul were left to determine who was evacuated from Afghanistan and who was left behind. The cost was high. 
  <p class="updated_time"> 11:17 AM CT, Nov. 07 </p> 
