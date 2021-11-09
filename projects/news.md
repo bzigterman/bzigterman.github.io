@@ -304,8 +304,6 @@ permalink: /projects/news/
  <a href="https://www.bloomberg.com/news/articles/2021-11-09/japan-plans-100-000-yen-in-cash-and-vouchers-to-kids-kyodo-says">Japan Plans 100,000 Yen in Cash and Vouchers to Kids, Kyodo Says</a> Bloomberg: Japanese Prime Minister Fumio Kishida’s government is planning cash and voucher handouts for children 18 and younger, responding to a campaign pledge the junior member of the ruling coalition made in the recent general election. 
  <p class="updated_time"> 11:01 PM CT, Nov. 08 </p> 
  <a href="https://www.bloomberg.com/news/features/2021-11-09/covid-vaccine-india-races-to-vaccinate-poor-suspicious-citizens-in-villages">India’s Race to Vaccinate Its Villages Meets With Rural Resistance</a> Bloomberg: In the country’s remote and desperately poor areas, suspicion of the government’s motives runs deep. 
- <p class="updated_time"> 11:00 PM CT, Nov. 08 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-09/cop26-climate-news-scotland-s-peatlands-are-a-carbon-sink-under-threat">The Search for a Global Carbon Fix Leads to a Scottish Peat Bog</a> Bloomberg: Peatlands are natural carbon sinks, but they’re becoming carbon emitters. 
  <p class="updated_time"> 10:14 PM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/us/politics/democrats-budget-bill-cuts-infrastructure.html">On Chicago’s West Side, Urgent Needs Collide With Washington Compromises</a> NYT: Activists say the needs of struggling communities in Chicago and elsewhere vastly exceed the billions Congress is spending. 
  <p class="updated_time"> 10:00 PM CT, Nov. 08 </p> 
@@ -334,6 +332,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/08/us/politics/isis-military.html">Military Can’t Find ISIS Safe House That Prompted Kabul Drone Strike</a> NYT: The Pentagon’s latest admission illustrates the botched intelligence behind the strike that mistakenly killed 10 civilians in August. 
  <p class="updated_time"> 07:58 PM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/us/politics/jan-6-subpoenas-eastman-flynn-trump.html">Jan. 6 Panel Subpoenas Flynn and Eastman, Scrutinizing Election Plot</a> NYT: The latest batch of subpoenas from the House select committee investigating the Capitol riot also includes officials from former President Donald J. Trump’s re-election campaign. 
+ <p class="updated_time"> 07:56 PM CT, Nov. 08 </p> 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-09/brainard-interviewed-by-biden-for-fed-chair-as-search-heats-up">Brainard Interviewed by Biden for Fed Chair as Search Heats Up</a> Bloomberg: Federal Reserve Governor&nbsp;Lael Brainard&nbsp;was interviewed for the top job at the U.S. central bank when she&nbsp;visited&nbsp;the White House last week, according to people familiar with the discussions, signaling that Chair&nbsp;Jerome Powell&nbsp;has a serious rival as President&nbsp;Joe Biden&nbsp;considers who will lead the Fed for the next four years. 
  <p class="updated_time"> 07:24 PM CT, Nov. 08 </p> 
  <a href="https://www.politico.com/news/2021/11/08/biden-vaccine-covid-mandate-lives-520367">Biden administration: Blocking vaccine mandate could cost ‘hundreds of lives per day’</a> Politico: The administration warned a federal court of the dangers of a stay of its vaccinate-or-test requirement for private employers. 
  <p class="updated_time"> 06:58 PM CT, Nov. 08 </p> 
