@@ -214,10 +214,18 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:12 AM CT, Nov. 09 </p> 
+ <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/XYQmsjtih0w/index.html">Analysis: Covid-19 vaccine debate takes a strange turn</a> CNN: The Covid-19 vaccine debate is getting weird. On Twitter, Texas Republican Sen. Ted Cruz accused Big Bird of pushing "Government propaganda...for your 5 year old!" after the Muppet tweeted about getting the shot in his wing. 
+ <p class="updated_time"> 11:44 PM CT, Nov. 08 </p> 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-09/iran-says-it-intercepted-2-u-s-drones-during-military-drills">Iran Intercepts U.S. Drones During Military Drills</a> Bloomberg: Iran said it intercepted two U.S. drones that reportedly violated its airspace during military drills in the country’s southern waters. 
  <p class="updated_time"> 11:43 PM CT, Nov. 08 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ocUa0LJQ22A/index.html">Republican congressman details threatening voicemail he received after voting for bipartisan infrastructure bill</a> CNN: Republican Rep. Fred Upton on Monday shared a threatening voicemail he had received after voting for the bipartisan infrastructure bill last week. 
+ <p class="updated_time"> 11:35 PM CT, Nov. 08 </p> 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-09/china-keeps-pressure-on-coal-mines-to-cut-prices-as-winter-nears">China Keeps Pressure on Coal Mines to Cut Prices as Winter Nears</a> Bloomberg: Beijing is maintaining pressure on coal miners to cut prices to keep a power crisis at bay as a burst of frigid weather provides a hint of the harsh winter that may be ahead. 
  <p class="updated_time"> 11:06 PM CT, Nov. 08 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-09/japan-plans-100-000-yen-in-cash-and-vouchers-to-kids-kyodo-says">Japan Plans 100,000 Yen in Cash and Vouchers to Kids, Kyodo Says</a> Bloomberg: Japanese Prime Minister Fumio Kishida’s government is planning cash and voucher handouts for children 18 and younger, responding to a campaign pledge the junior member of the ruling coalition made in the recent general election. 
+ <p class="updated_time"> 11:01 PM CT, Nov. 08 </p> 
+ <a href="https://www.bloomberg.com/news/features/2021-11-09/covid-vaccine-india-races-to-vaccinate-poor-suspicious-citizens-in-villages">India’s Race to Vaccinate Its Villages Meets With Rural Resistance</a> Bloomberg: In the country’s remote and desperately poor areas, suspicion of the government’s motives runs deep. 
  <p class="updated_time"> 11:00 PM CT, Nov. 08 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-09/poland-warns-it-may-skip-eu-membership-fees-in-judicial-clash">Poland Warns It May Skip EU Membership Fees in Judicial Clash</a> Bloomberg: Poland accused the European Union of acting in “bad faith” in their conflict over access to 36 billion euros ($42 billion) in pandemic aid and suggested the country may stop paying its membership fees to the bloc if the situation escalates. 
  <p class="updated_time"> 10:56 PM CT, Nov. 08 </p> 
@@ -278,8 +286,6 @@ permalink: /projects/news/
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2pzftxfVv6Y/index.html">Josh Hawley and the 'left-wing attack on manhood'</a> CNN: No doubt about it, there's a lot to worry about in the country these days: Covid. Inflation. Poverty. Polarized politics. Democracy itself. 
  <p class="updated_time"> 05:40 PM CT, Nov. 08 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jpJpF5B53u0/index.html">January 6 committee issues 6 subpoenas to top Trump campaign associates</a> CNN: The House select committee investigating the deadly January 6 riot on Capitol Hill announced Monday it is issuing six additional subpoenas to top Trump campaign associates as it continues to seek testimony and documents from key witnesses in the sweeping probe. 
- <p class="updated_time"> 05:34 PM CT, Nov. 08 </p> 
- <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/XYQmsjtih0w/index.html">Analysis: Covid-19 vaccine debate takes a strange turn</a> CNN: The Covid-19 vaccine debate is getting weird. On Twitter, Texas Republican Sen. Ted Cruz accused Big Bird of pushing "Government propaganda...for your 5 year old!" after the Muppet tweeted about getting the shot in his wing. 
  <p class="updated_time"> 05:29 PM CT, Nov. 08 </p> 
  <a href="https://www.politico.com/news/2021/11/08/shooting-victim-kyle-rittenhouse-520336">Shooting victim says he was pointing his gun at Rittenhouse</a> Politico: “I thought the defendant was an active shooter,” Gaige Grosskreutz testified. 
  <p class="updated_time"> 05:21 PM CT, Nov. 08 </p> 
@@ -350,16 +356,10 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/08/1053599349/u-s-indicts-2-men-behind-ransomware-attacks-over-the-summer">U.S. indicts 2 men behind major ransomware attacks</a> NPR: The attacks shut down a meat processing plant and an internet software provider earlier this year. 
  <p class="updated_time"> 01:54 PM CT, Nov. 08 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-08/n-j-s-murphy-sees-school-mask-mandates-being-lifted-in-phases">New Jersey Governor Sees School-Mask Mandates Being Lifted in Phases</a> Bloomberg: New Jersey Governor Phil Murphy said he expects to lift school-mask requirements in phases, beginning with older students who are further along getting vaccinations. He gave no timeline for when the mandates would be lifted. 
- <p class="updated_time"> 01:44 PM CT, Nov. 08 </p> 
- <a href="https://www.bloomberg.com/news/videos/2021-11-08/balance-of-power-11-08-2021">Balance of Power (11/08/2021)</a> Bloomberg: "Bloomberg: Balance of Power" focuses on the intersection of politics and global business. Former U.S. Transportation Secretary Elaine Chao says the new infrastructure bill is like "manna from heaven" for states seeking transportation funds. Also joining is Surgere CEO Bill Wappler on how tech is helping supply-chain challenges and PWC tax principal Rohit Kumar. 
  <p class="updated_time"> 01:33 PM CT, Nov. 08 </p> 
  <a href="https://www.washingtonpost.com/politics/new-jersey-governor-concede/2021/11/08/1cec7668-409e-11ec-9ea7-3eb2406a2e24_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Democrats call on New Jersey Republican to concede gubernatorial race</a> WaPo: Republican nominee Jack Ciattarelli has refused, citing uncounted ballots, the same rationale offered by the Democratic state Senate president as he refuses to concede. 
- <p class="updated_time"> 01:30 PM CT, Nov. 08 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-08/denmark-will-bring-back-some-restrictions-as-covid-19-cases-soar">Denmark Will Bring Back Some Restrictions as Covid-19 Cases Soar</a> Bloomberg: Denmark, which has one of Europe’s highest vaccination rates, plans to re-introduce some restrictions to halt a recent spike in Covid-19 contamination cases. 
  <p class="updated_time"> 01:27 PM CT, Nov. 08 </p> 
  <a href="https://www.washingtonpost.com/politics/courts_law/judge-emmet-sullivan-ethics-allegation-laurence-silberman/2021/11/08/81d83056-400a-11ec-a3aa-0255edc02eb7_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Two judges, one courthouse and an unusual accusation of unethical conduct</a> WaPo: The federal judiciary’s ethics committee cleared Judge Emmet G. Sullivan’s participation on a panel that recommends nominees to the president to serve on D.C. courts. 
- <p class="updated_time"> 01:23 PM CT, Nov. 08 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-08/sudan-coup-leaders-tighten-grip-with-jobs-for-loyalists-arrests">Sudan Coup Leaders Tighten Grip With Jobs for Loyalists, Arrests</a> Bloomberg: Sudan’s military tightened its grip on state institutions and arrested hundreds of opponents, dampening hopes the African nation’s democratic transition can be put back on track after last month’s coup. 
  <p class="updated_time"> 01:14 PM CT, Nov. 08 </p> 
  <a href="https://www.washingtonpost.com/politics/2021/11/08/vaccine-politics-only-worsened-partisan-divide-covid-19-deaths/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Vaccine politics only worsened the partisan divide in covid-19 deaths</a> WaPo: Vaccines didn't create the split. 
  <p class="updated_time"> 12:32 PM CT, Nov. 08 </p> 
