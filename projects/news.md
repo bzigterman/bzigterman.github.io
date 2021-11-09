@@ -14,7 +14,7 @@ permalink: /projects/news/
  <p class="updated_time"> 01:57 AM CT, Nov. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59215769?at_medium=RSS&at_campaign=KARANGA">Belarus migrants: Poland fears armed border escalation</a> BBC: It comes after hundreds of migrants tried to cut a barbed-wire fence and enter Poland illegally. 
  <p class="updated_time"> 01:14 AM CT, Nov. 09 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59172767?at_medium=RSS&at_campaign=KARANGA">Nagaenthran Dharmalingam: Family prays as man with IQ of 69 to be executed</a> BBC: The drug trafficking case has sparked a rare disquiet in Singapore where the death penalty is largely uncontroversial. 
+ <a href="https://www.bbc.co.uk/news/world-asia-59172767?at_medium=RSS&at_campaign=KARANGA">Nagaenthran: Family prays for miracle to halt execution of man with low IQ</a> BBC: The drug trafficking case has sparked a rare disquiet in Singapore where the death penalty is largely uncontroversial. 
  <p class="updated_time"> 01:12 AM CT, Nov. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59205570?at_medium=RSS&at_campaign=KARANGA">Astroworld: Travis Scott and Drake sued over deadly US festival crush</a> BBC: The rapper faces legal action after at least eight people were killed during his Astroworld festival. 
  <p class="updated_time"> 12:47 AM CT, Nov. 09 </p> 
