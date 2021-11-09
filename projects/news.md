@@ -37,6 +37,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59205570?at_medium=RSS&at_campaign=KARANGA">Astroworld: Travis Scott and Drake sued over deadly US festival crush</a> BBC: The rapper faces legal action after at least eight people were killed during his Astroworld festival. 
  <p class="updated_time"> 12:47 AM CT, Nov. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59208301?at_medium=RSS&at_campaign=KARANGA">Hundreds of migrants at Belarus' border with Poland</a> BBC: Poland says it has stopped attempts by the large group to enter the country from Belarus. 
+ <p class="updated_time"> 11:53 PM CT, Nov. 08 </p> 
+ <a href="https://www.wsj.com/articles/u-s-tests-israels-iron-dome-in-guam-as-defense-against-chinese-cruise-missiles-11636455224">U.S. Tests Israel's Iron Dome in Guam as Defense Against Chinese Cruise Missiles</a> WSJ: The Iron Dome test highlights the wide range of U.S. hardware heading to the Asia-Pacific region as the Pentagon addresses a Chinese buildup that it has called its No.1 challenge. 
  <p class="updated_time"> 09:56 PM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/07/world/americas/nicaragua-election-ortega.html">In Nicaragua Election, Ortega Crushes Dissent</a> NYT: President Daniel Ortega quashed the opposition and struck fear in voters, all but guaranteeing his victory in a presidential contest on Sunday. 
  <p class="updated_time"> 08:14 PM CT, Nov. 08 </p> 
@@ -125,6 +127,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/08/world/europe/europe-us-travel-ban.html">U.S. Travel Ban Ends, and Europeans Head Overseas Again</a> NYT: Europeans were kept apart from family and friends as the ban dragged on long after E.U. leaders had opened their borders. 
  <p class="updated_time"> 09:24 AM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/06/world/europe/cop-climate-protests.html">COP26 Protesters Back an Array of Causes, Connected by Climate Change</a> NYT: Thousands gathered in the rain in Glasgow to press the case for more urgent and meaningful action by world leaders in response to global warming. 
+ <p class="updated_time"> 09:21 AM CT, Nov. 08 </p> 
+ <a href="https://www.wsj.com/articles/germany-hits-record-covid-19-tally-as-pandemic-rebounds-across-europe-11636393589">As Pandemic Rebounds Across Europe, Germany Hits Record Covid-19 Tally</a> WSJ: Germany’s recent success in fending off the virus left many people without natural immunity, a possible factor contributing to the current surge across the continent. 
  <p class="updated_time"> 07:56 AM CT, Nov. 08 </p> 
  <a href="https://www.bbc.co.uk/news/uk-59210335?at_medium=RSS&at_campaign=KARANGA">Venus Williams: 'It's important people continue to break barriers'</a> BBC: The tennis star tells 5 Live's Rick Edwards she hopes future generations don't have to focus "on the colour of their skin". 
  <p class="updated_time"> 07:20 AM CT, Nov. 08 </p> 
@@ -145,12 +149,8 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/germany-economy-lagging-behind-europe-supply-chain-11636383954">Germany's Economy, Once Europe's Engine, Is Holding It Back</a> WSJ: Germany’s export-oriented businesses have fared poorly in a post-pandemic world of broken supply chains and rising energy prices. The malaise is fueling a debate over whether the German economy needs a reboot and what it should look like. 
  <p class="updated_time"> 04:00 AM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/world/europe/romania-covid-vaccine-refusal.html">In Romania, Hard-Hit by Covid, Doctors Fight Vaccine Refusal</a> NYT: An anti-vaccine clarion call by leading religious figures, echoed by prominent politicians and social media, helps explain why Romania now has the world’s highest Covid death rate. 
- <p class="updated_time"> 04:00 AM CT, Nov. 08 </p> 
- <a href="https://www.wsj.com/articles/cubas-dissidents-dig-in-despite-government-crackdown-11636383600">Cuba's Dissidents Dig In Despite Government Crackdown</a> WSJ: Activists, artists and professionals challenge the Communist regime even as hundreds of protesters face contempt, sedition and sabotage charges. 
  <p class="updated_time"> 12:40 AM CT, Nov. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59202880?at_medium=RSS&at_campaign=KARANGA">Afghans facing 'hell on earth' as winter looms</a> BBC: The World Food Programme says 23 million people are "marching towards starvation" in the country. 
- <p class="updated_time"> 11:52 PM CT, Nov. 07 </p> 
- <a href="https://www.wsj.com/articles/nicaraguas-president-ortega-on-track-for-controversial-fourth-term-11636368775">Nicaragua's President Ortega on Track for Controversial Fourth Term</a> WSJ: With 65% of the vote counted, the head of Nicaragua’s electoral authority said President Ortega had won 75% of the vote. Five small satellite parties controlled by Mr. Ortega split the difference and 35% abstained. 
  <p class="updated_time"> 06:17 PM CT, Nov. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59036542?at_medium=RSS&at_campaign=KARANGA">Dug Dug: A film inspired by India's motorcycle god</a> BBC: A new film riding on the back of a temple in India dedicated to a motorcycle deity is making waves. 
  <p class="updated_time"> 06:14 PM CT, Nov. 07 </p> 
@@ -208,10 +208,12 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/11/09/a-trump-backed-senate-hopeful-takes-the-stand-495028">POLITICO Playbook: A Trump-backed Senate hopeful takes the stand</a> Politico: And the Jan. 6 committee subpoenas more Trump aides. 
  <p class="updated_time"> 06:16 AM CT, Nov. 09 </p> 
  <a href="https://www.politico.com/news/2021/11/09/trump-jan-6-520405">Trump makes — and loses — overnight bid to block Jan. 6 investigators</a> Politico: The Archives indicated it would turn documents over to lawmakers by Friday. 
+ <p class="updated_time"> 06:13 AM CT, Nov. 09 </p> 
+ <a href="https://www.npr.org/2021/11/09/1053793595/first-lady-jill-biden-stops-by-historic-virginia-schools-vaccine-clinic">First lady Jill Biden stops by historic Virginia school's vaccine clinic</a> NPR: The first school to administer the polio vaccine in 1954 in McLean, Va., was also the scene for the kickoff of a White House drive to get kids vaccinated for COVID-19. 
  <p class="updated_time"> 05:48 AM CT, Nov. 09 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/IWJCK_8yw1w/index.html">Biden has reached a critical moment in the battle for blue-collar voters</a> CNN: Just as Democrats face another round of hand-wringing about their erosion among working-class and rural White voters -- after last week's daunting election results in Virginia and New Jersey -- the long-delayed congressional approval of a historic infrastructure plan will test President Joe Biden's central theory on how the party can reverse that decline. 
  <p class="updated_time"> 05:37 AM CT, Nov. 09 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-09/harris-courts-bigger-role-on-global-stage-with-visit-to-france">Kamala Harris Courts Bigger Role on Global Stage With Visit to France</a> Bloomberg: Vice President Kamala Harris has embarked on a five-day visit to France aimed at raising her international profile as she works to heal a rift between the U.S. and its oldest ally. 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-09/harris-courts-bigger-role-on-global-stage-with-visit-to-france">Kamala Harris Courts Bigger Role on Global Stage With Visit to France</a> Bloomberg: Vice President Kamala Harris is embarking on five days of personal diplomacy in France as she aims to raise her international profile and continue healing a rift between the U.S. and its oldest ally. 
  <p class="updated_time"> 05:32 AM CT, Nov. 09 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-09/orban-to-lock-in-prosecutor-ally-before-close-hungarian-election">Orban to Lock In Prosecutor Ally Before Close Hungarian Election</a> Bloomberg: Hungarian Prime Minister Viktor Orban is moving to lock in another close ally in a key position before general elections where a resurgent opposition is looking to roll back his consolidation of power. 
  <p class="updated_time"> 05:09 AM CT, Nov. 09 </p> 
@@ -233,7 +235,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:22 AM CT, Nov. 09 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-09/lira-s-slump-leaves-turks-searching-for-hard-to-find-medicines">Lira’s Slump Leaves Turks Searching for Hard-to-Find Medicines</a> Bloomberg: Turkish patients are finding it increasingly difficult to access key drugs, with producers blaming the shortages on an inflexible pricing system for medicines that exposes them to losses from the lira’s swift decline. 
  <p class="updated_time"> 04:20 AM CT, Nov. 09 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-09/iran-backed-houthis-said-to-detain-25-yemenis-working-for-u-s">Iran-backed Houthis Detain 25 Yemenis Working for U.S.</a> Bloomberg: At least 25 Yemenis working for the U.S. in Sanaa have been detained by Iran-backed Houthi rebels who control the capital, two people familiar with the situation said. 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-09/iran-backed-houthis-said-to-detain-25-yemenis-working-for-u-s">Iran-backed Houthis Detain 25 Yemenis Working for U.S.</a> Bloomberg: At least 25 Yemenis working for the U.S. in Sana’a have been detained in recent weeks by Iran-backed Houthi rebels who control the capital, according to two people familiar with the matter. 
  <p class="updated_time"> 04:14 AM CT, Nov. 09 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tz6l1POatiI/index.html">These veterans swore to defend the Constitution; now they're facing jail time for the US Capitol riot</a> CNN: More than 70 current and former members of the US military, who all swore an oath to defend the Constitution, are now facing criminal charges and special attention from prosecutors for attacking their own democracy by storming the US Capitol on January 6. 
  <p class="updated_time"> 04:12 AM CT, Nov. 09 </p> 
@@ -249,7 +251,7 @@ permalink: /projects/news/
  <p class="updated_time"> 03:00 AM CT, Nov. 09 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-09/facebook-fb-is-hard-to-quit-for-both-democratic-republican-politicians">Deleting Facebook Is Harder Than Attacking It, Lawmakers Find</a> Bloomberg: The platform has such wide reach that even its fiercest critics in Congress say they can’t disconnect. 
  <p class="updated_time"> 02:50 AM CT, Nov. 09 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-09/eu-backs-poland-as-migrant-crisis-on-belarus-border-escalates">EU Backs Poland as Migrant Crisis on Belarus Border Escalates</a> Bloomberg: The European Union threw its weight behind Poland as the bloc’s biggest eastern nation struggles with a migrant crisis at its border with Belarus. 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-09/eu-backs-poland-as-migrant-crisis-on-belarus-border-escalates">EU Eyes More Belarus Sanctions as Migrant Crisis Escalates</a> Bloomberg: The European Union is planning to boost sanctions related to Belarus and its actions that have triggered a growing migrant and humanitarian crisis on its eastern frontier. 
  <p class="updated_time"> 02:22 AM CT, Nov. 09 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-09/u-s-envoy-back-in-ethiopia-after-african-union-warns-on-crisis">U.S. Envoy Back in Ethiopia After African Union Warns on Crisis</a> Bloomberg: The U.S. special envoy to the Horn of Africa returned to Ethiopia for further talks on ending the nation’s civil war, as the African Union warned that the window of opportunity for a political solution to the conflict is narrowing. 
  <p class="updated_time"> 02:09 AM CT, Nov. 09 </p> 
@@ -470,8 +472,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/07/murthy-vaccine-mandate-biden-520015">Surgeon general defends embattled vaccine mandate</a> Politico: “It’s a necessary step to accelerate our pathway out of the pandemic,” Vivek Murthy said. 
  <p class="updated_time"> 09:48 AM CT, Nov. 07 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vBRV9fRRViY/index.html">White House chief of staff 'confident' vaccine mandate for private businesses will be upheld</a> CNN: White House chief of staff Ron Klain said he was confident the courts will uphold the validity of the Biden administration's new vaccine rules that apply to private businesses with 100 or more employees, certain health care workers and federal contractors, after a federal appeals court temporarily blocked the requirements on Saturday. 
- <p class="updated_time"> 07:10 AM CT, Nov. 07 </p> 
- <a href="https://www.npr.org/2021/11/07/1053326463/polling-institute-director-says-it-may-be-time-to-get-rid-of-election-polls">Polling Institute director says it may be time to get rid of election polls</a> NPR: Danielle Kurtzleben speaks with Patrick Murray, director of the Polling Institute at Monmouth University, about the future of election polls after their recent failures to predict results. 
  <p class="updated_time"> 07:01 AM CT, Nov. 07 </p> 
  <a href="https://www.politico.com/news/2021/11/07/biden-faces-heat-pipeline-propane-cost-519788">Pipeline pile-on: Biden faces heat from Canada, Republicans, Michigan’s governor and the price of propane</a> Politico: The president is caught between environmentalists and Indigenous groups on one side and Republicans blaming him for soaring energy prices on the other. 
  <p class="updated_time"> 07:00 AM CT, Nov. 07 </p> 
