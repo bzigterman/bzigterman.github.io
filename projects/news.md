@@ -7,8 +7,12 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:32 PM CT, Nov. 09 </p> 
+ <p class="updated_time"> 03:05 PM CT, Nov. 09 </p> 
  <a href="https://www.nytimes.com/2021/11/09/us/politics/pfizer-booster-approval-adults.html">Pfizer Asks for Authorization for Boosters for Adults</a> NYT: An advisory panel to the Food and Drug Administration voted against a similar request from Pfizer in mid-September, but the agency is considered likely to grant the request, perhaps before Thanksgiving. 
+ <p class="updated_time"> 03:05 PM CT, Nov. 09 </p> 
+ <a href="https://www.nytimes.com/2021/11/09/world/europe/poland-belarus-border-crisis.html">E.U. Blames Belarus for Migrant Crisis at Poland Border</a> NYT: Poland has massed troops at the border, the European Union’s eastern frontier, to keep migrants camped there from crossing into the country. 
+ <p class="updated_time"> 02:59 PM CT, Nov. 09 </p> 
+ <a href="https://www.nytimes.com/2021/11/09/world/europe/england-health-workers-vaccine-mandate.html">England Will Require N.H.S. Workers to Be Vaccinated by April</a> NYT: About 80,000 to 100,000 National Health Service workers in the country remain unvaccinated against the coronavirus. 
  <p class="updated_time"> 02:23 PM CT, Nov. 09 </p> 
  <a href="https://www.nytimes.com/2021/11/09/world/europe/france-macron-covid-restrictions.html">France Will Require Booster Shot for Those 65 and Older</a> NYT: President Emmanuel Macron, in a televised speech, said that older people will now have to get the shots to remain eligible for a vaccine passport. 
  <p class="updated_time"> 02:16 PM CT, Nov. 09 </p> 
@@ -17,8 +21,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/09/1053939195/malala-married">Malala Yousafzai, Nobel laureate and girls' education champion, gets married</a> NPR: The 24-year-old recent Oxford graduate called it "a precious day in my life" and shared a few photos of the intimate ceremony. 
  <p class="updated_time"> 01:52 PM CT, Nov. 09 </p> 
  <a href="https://www.nytimes.com/2021/11/09/world/asia/india-hospital-fire.html">India Hospital Fire Leaves at Least 4 Infants Dead</a> NYT: The blaze, in a hospital in central India on Monday night, was the latest in a series of deadly fires at health care centers in recent months. 
- <p class="updated_time"> 01:43 PM CT, Nov. 09 </p> 
- <a href="https://www.nytimes.com/2021/11/09/world/europe/poland-belarus-border-crisis.html">E.U. Blames Belarus for Migrant Crisis at Poland Border</a> NYT: Poland has massed troops at the border, the European Union’s eastern frontier, to keep migrants camped there from crossing into the country. 
  <p class="updated_time"> 01:39 PM CT, Nov. 09 </p> 
  <a href="https://www.npr.org/2021/11/09/1053656078/young-indigenous-activists-united-in-climate-cause-at-cop26-summit">Indigenous activists are united in a cause and are making themselves heard at COP26</a> NPR: Indigenous activists from around the world are in Glasgow for COP26, but say the same legacy of colonialism that has led to climate-related losses has impacted their access to the conference. 
  <p class="updated_time"> 01:34 PM CT, Nov. 09 </p> 
@@ -27,8 +29,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/09/world/asia/india-covid-vaccinations.html">India Risks Covid-19 Complacency After Its Vaccine Campaign</a> NYT: The success represents a major victory for Narendra Modi’s government, but a recent slowdown in new vaccinations has sparked worries. 
  <p class="updated_time"> 12:00 PM CT, Nov. 09 </p> 
  <a href="https://www.nytimes.com/2021/11/09/climate/africa-fossil-fuel-gas-cop26.html">Africa's Leaders Say Rich Countries Need to Quit Oil and Gas First</a> NYT: As negotiators at the Glasgow climate talks try to agree on greenhouse gas cuts, African leaders say poorer countries can’t be expected to remake their systems as quickly as wealthy ones. 
- <p class="updated_time"> 11:35 AM CT, Nov. 09 </p> 
- <a href="https://www.nytimes.com/2021/11/09/world/europe/england-health-workers-vaccine-mandate.html">England Will Require N.H.S. Workers to Be Vaccinated by April</a> NYT: About 80,000 to 100,000 National Health Service workers in the country remain unvaccinated against the coronavirus. 
  <p class="updated_time"> 11:33 AM CT, Nov. 09 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59225576?at_medium=RSS&at_campaign=KARANGA">Emily Ratajkowski: Told to 'get ugly' for acting roles</a> BBC: In an interview with BBC Newsnight, she also spoke about her alleged sexual assault by Robin Thicke. 
  <p class="updated_time"> 11:27 AM CT, Nov. 09 </p> 
@@ -51,6 +51,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/08/world/europe/van-morrison-covid-northern-ireland.html">Northern Ireland’s Health Minister Is Suing Van Morrison Over Covid Criticism</a> NYT: The Belfast-born singer-songwriter has embraced conspiracy theories and criticized restrictions to slow the spread of the coronavirus. Last year, he released a single called “No More Lockdown.” 
  <p class="updated_time"> 10:16 AM CT, Nov. 09 </p> 
  <a href="https://www.nytimes.com/2021/11/09/science/new-zealand-sea-lions.html">New Zealand’s Sea Lions Are Back, and Crashing Golf Courses and Soccer Matches</a> NYT: After their populations were decimated by hunters, New Zealand’s sea lions are returning to the coasts — sometimes surprising locals by turning up in unexpected places. 
+ <p class="updated_time"> 09:55 AM CT, Nov. 09 </p> 
+ <a href="https://www.wsj.com/articles/russia-keeps-europe-guessing-with-tight-gas-supplies-11636463284">Russia Keeps Europe Guessing With Tight Gas Supplies</a> WSJ: President Vladimir Putin said last month that Russia, which supplies almost half of Europe’s gas imports, would boost deliveries to stabilize the market, as prices are high and reserves are low ahead of the European winter. 
  <p class="updated_time"> 09:17 AM CT, Nov. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59216106?at_medium=RSS&at_campaign=KARANGA">Man shot by Kyle Rittenhouse says he pointed own gun amid fears for life</a> BBC: Gaige Grosskreutz says he believed Kyle Rittenhouse was an "active shooter" and was trying to disarm him. 
  <p class="updated_time"> 08:47 AM CT, Nov. 09 </p> 
@@ -83,8 +85,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59186655?at_medium=RSS&at_campaign=KARANGA">Metallurgist admits faking steel test results for US Navy subs</a> BBC: A metallurgist has pleaded guilty to fraud after faking the results of strength tests on steel. 
  <p class="updated_time"> 02:33 AM CT, Nov. 09 </p> 
  <a href="https://www.nytimes.com/2021/11/08/world/europe/uk-brexit-estonia-business.html">Brexit Brain Drain  Delivers Financial Boon to Estonia</a> NYT: The former Soviet satellite state is welcoming British companies looking to escape the tangle of regulations and financial obstacles of doing business in Europe. 
- <p class="updated_time"> 02:08 AM CT, Nov. 09 </p> 
- <a href="https://www.wsj.com/articles/russia-keeps-europe-guessing-with-tight-gas-supplies-11636463284">Russia Keeps Europe Guessing With Tight Gas Supplies</a> WSJ: President Vladimir Putin said last month that Russia, which supplies almost half of Europe’s gas imports, would boost deliveries to stabilize the market, as prices are high and reserves are low ahead of the European winter. 
  <p class="updated_time"> 02:01 AM CT, Nov. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59218239?at_medium=RSS&at_campaign=KARANGA">US couple on alleged IVF swap: 'Our memories of childbirth will always be tainted'</a> BBC: A California couple was given the wrong embryo by an IVF fertility clinic, according to a lawsuit. 
  <p class="updated_time"> 01:14 AM CT, Nov. 09 </p> 
@@ -189,8 +189,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/07/world/asia/afghan-pilots-taliban-us.html">Afghan Military Pilots, on the Run, Feel Abandoned by U.S.</a> NYT: Detained in Tajikistan, or hiding from the Taliban in Afghanistan, many pilots wonder why the military that trained them is not coming to their aid. 
  <p class="updated_time"> 01:17 PM CT, Nov. 07 </p> 
  <a href="https://www.nytimes.com/2021/11/07/us/politics/afghanistan-war-marines.html">Young Marines in Kabul Were Left to Run Final Days of Evacuation</a> NYT: The young Marines in Kabul were left to determine who was evacuated from Afghanistan and who was left behind. The cost was high. 
- <p class="updated_time"> 11:29 AM CT, Nov. 07 </p> 
- <a href="https://www.nytimes.com/2021/11/06/world/middleeast/iraq-prime-minister-drone.html">Fears of Wider Instability in Iraq After Attack on Prime Minister’s Home</a> NYT: Armed drones struck the Iraqi prime minister’s home in what was seen as a warning as Iranian-backed groups dispute the results of parliamentary elections. 
  <p class="updated_time"> 09:48 AM CT, Nov. 07 </p> 
  <a href="https://www.nytimes.com/2021/11/07/world/europe/korea-sakhalin-japan-russia.html">What’s in a Name? For the Koreans of Sakhalin, an Anguished History</a> NYT: Stranded for decades on the island in Russia’s Far East, some bear three names, Japanese, Russian and Korean, representing different historical chapters. Now, many are planning their return. 
  <p class="updated_time"> 06:33 AM CT, Nov. 07 </p> 
@@ -216,14 +214,18 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/09/dunn-capitol-police-union-jan-6-520459">Dunn jumps into race to lead Capitol Police union after post-Jan. 6 testimony</a> Politico: The 13-year veteran officer, who is Black, told lawmakers on the select committee about the trauma and racial slurs he endured during the riot. 
  <p class="updated_time"> 03:14 PM CT, Nov. 09 </p> 
  <a href="https://www.politico.com/news/2021/11/09/jan-6-panel-testimony-stephen-miller-kayleigh-mcenany-520455">Jan. 6 panel demands testimony from Stephen Miller, Kayleigh McEnany</a> Politico: Investigators are accelerating their efforts to compel testimony from key Donald Trump aides with knowledge of his efforts to overturn the 2020 election results. 
- <p class="updated_time"> 02:49 PM CT, Nov. 09 </p> 
+ <p class="updated_time"> 03:05 PM CT, Nov. 09 </p> 
+ <a href="https://www.nytimes.com/2021/11/09/us/politics/pfizer-booster-approval-adults.html">Pfizer Asks for Authorization for Boosters for Adults</a> NYT: An advisory panel to the Food and Drug Administration voted against a similar request from Pfizer in mid-September, but the agency is considered likely to grant the request, perhaps before Thanksgiving. 
+ <p class="updated_time"> 02:53 PM CT, Nov. 09 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UMjGkbxTqxo/index.html">January 6 committee issues 10 more subpoenas including to Stephen Miller and Kayleigh McEnany</a> CNN: The House committee investigating the deadly January 6 riot at the US Capitol announced on Tuesday a new batch of 10 subpoenas to former White House officials under President Donald Trump, as the panel charges ahead in seeking testimony and documents from witnesses relevant to its probe. 
+ <p class="updated_time"> 02:53 PM CT, Nov. 09 </p> 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-09/u-s-lawmakers-visit-to-taiwan-inflames-tensions-with-china">U.S. Lawmakers’ Visit to Taiwan Inflames Tensions With China</a> Bloomberg: A group of Americans lawmakers visited Taiwan, arriving on a U.S. military plane, in a move likely to further inflame tensions between Washington and Beijing over the status of the self-governing island. 
+ <p class="updated_time"> 02:53 PM CT, Nov. 09 </p> 
+ <a href="https://www.washingtonpost.com/politics/january-6-trump-committee/2021/11/09/2bb70d22-419b-11ec-9ea7-3eb2406a2e24_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Jan. 6 committee subpoenas more Trump aides, including Miller, McEnany and McEntee</a> WaPo: The committee has sent out a series of subpoenas in recent weeks to aides and allies of former president Donald Trump as it tries to crack his inner circle as part of its investigation into the attack as well as the former president’s attempts to overturn the election results. 
  <p class="updated_time"> 02:48 PM CT, Nov. 09 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WoNpfkk4c_s/index.html">Republican congressman posts video depicting violence against Ocasio-Cortez, Biden</a> CNN: Republican Rep. Paul Gosar posted a photoshopped anime video to his Twitter and Instagram accounts showing him appearing to kill Democratic Rep. Alexandria Ocasio-Cortez and attacking President Joe Biden. 
  <p class="updated_time"> 02:39 PM CT, Nov. 09 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-09/ten-more-former-trump-officials-subpoenaed-by-riot-probe-panel">Ten More Former Trump Officials Subpoenaed by Riot Probe Panel</a> Bloomberg: The House panel probing the Jan. 6 riots at the U.S. Capitol has subpoenaed 10 additional former Trump administration officials, including former senior presidential adviser Stephen Miller and former White House Press Secretary Kayleigh McEnany. 
- <p class="updated_time"> 02:32 PM CT, Nov. 09 </p> 
- <a href="https://www.nytimes.com/2021/11/09/us/politics/pfizer-booster-approval-adults.html">Pfizer Asks for Authorization for Boosters for Adults</a> NYT: An advisory panel to the Food and Drug Administration voted against a similar request from Pfizer in mid-September, but the agency is considered likely to grant the request, perhaps before Thanksgiving. 
  <p class="updated_time"> 02:29 PM CT, Nov. 09 </p> 
  <a href="https://www.nytimes.com/2021/11/09/us/politics/jan-6-subpoena.html">House Inquiry Into Jan. 6 Issues 10 New Subpoenas</a> NYT: The panel has summoned Stephen Miller, a senior adviser to President Donald J. Trump, and several other top White House officials who witnessed his actions before and during the riot. 
  <p class="updated_time"> 02:24 PM CT, Nov. 09 </p> 
@@ -420,8 +422,6 @@ permalink: /projects/news/
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wcXTysw90u4/index.html">CNN Poll: Majority of Americans say Biden isn't paying attention to nation's most important issues</a> CNN: One year out from the 2022 midterm elections, 58% of Americans say President Joe Biden hasn't paid enough attention to the nation's most important problems, as a majority disapproves of the way he's handling his job as President, according to a new CNN Poll conducted by SSRS. 
  <p class="updated_time"> 08:21 PM CT, Nov. 08 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xvEt_dcR3k8/index.html">Biden honors NBA champs Milwaukee Bucks at the White House</a> CNN: President Joe Biden honored the NBA champion Milwaukee Bucks at a White House ceremony on Monday, marking the first visit to 1600 Pennsylvania Avenue by an NBA championship-winning team since 2016. 
- <p class="updated_time"> 08:15 PM CT, Nov. 08 </p> 
- <a href="https://www.washingtonpost.com/politics/biden-infrastructure-benefits-polarized-politics/2021/11/08/dcf73b1c-40aa-11ec-a3aa-0255edc02eb7_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Biden seeks infrastructure bounce. But can a nuts-and-bolts pitch overcome cultural divides?</a> WaPo: The president’s sales push on infrastructure will test whether his strategy of delivering tangible benefits still resonates in a polarized political environment where cultural issues are powerful. 
  <p class="updated_time"> 08:14 PM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/us/politics/isis-military.html">Military Can’t Find ISIS Safe House That Prompted Kabul Drone Strike</a> NYT: The Pentagon’s latest admission illustrates the botched intelligence behind the strike that mistakenly killed 10 civilians in August. 
  <p class="updated_time"> 07:58 PM CT, Nov. 08 </p> 
@@ -464,8 +464,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/08/business/randal-quarles-fed.html">Randal Quarles, Fed Governor, to Resign in December</a> NYT: Mr. Quarles’s term as a governor could have stretched until 2032. His departure will give the Biden administration more room to remake the Fed. 
  <p class="updated_time"> 01:55 PM CT, Nov. 08 </p> 
  <a href="https://www.npr.org/2021/11/08/1053599349/u-s-indicts-2-men-behind-ransomware-attacks-over-the-summer">U.S. indicts 2 men behind major ransomware attacks</a> NPR: The attacks shut down a meat processing plant and an internet software provider earlier this year. 
- <p class="updated_time"> 01:44 PM CT, Nov. 08 </p> 
- <a href="https://www.bloomberg.com/news/videos/2021-11-08/balance-of-power-11-08-2021">Balance of Power (11/08/2021)</a> Bloomberg: "Bloomberg: Balance of Power" focuses on the intersection of politics and global business. Former U.S. Transportation Secretary Elaine Chao says the new infrastructure bill is like "manna from heaven" for states seeking transportation funds. Also joining is Surgere CEO Bill Wappler on how tech is helping supply-chain challenges and PWC tax principal Rohit Kumar. 
  <p class="updated_time"> 12:02 PM CT, Nov. 08 </p> 
  <a href="https://www.politico.com/news/2021/11/08/new-jerseys-midterm-carnage-520293">New Jersey’s most powerful Democratic boss predicts midterm carnage</a> Politico: George Norcross says nobody in the state predicted last week’s losses for the party. “It was just a tsunami,” he said. 
  <p class="updated_time"> 11:09 AM CT, Nov. 08 </p> 
@@ -562,8 +560,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/02/josh-hawley-state-department-nominees-confirmation-518642">Josh Hawley blocks confirmation of several State Dept. nominees</a> Politico: The Republican senator, who is unhappy about the withdrawal from Afghanistan, objected to eight of the nine nominations Democrats sought to unanimously approve. 
  <p class="updated_time"> 05:43 PM CT, Nov. 02 </p> 
  <a href="https://www.politico.com/news/2021/11/02/social-spending-bill-immigration-citizenship-518606">Dems aim to squeeze immigration into social spending bill — without path to citizenship</a> Politico: There's still a distinct possibility the Senate rules referee will strike down the reform attempt Democrats are pushing into their $1.75 trillion bill. 
- <p class="updated_time"> 04:06 PM CT, Nov. 02 </p> 
- <a href="https://www.politico.com/news/2021/11/02/end-of-sinema-manchin-manchema-518569">The end of Manchema</a> Politico: Once united on cutting the cost of their party's social spending bill, the centrists from West Virginia and Arizona are now going their own way. 
 
 
 </details>
