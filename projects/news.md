@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:17 AM CT, Nov. 09 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59216106?at_medium=RSS&at_campaign=KARANGA">Man shot by Kyle Rittenhouse says he pointed own gun amid fears for life</a> BBC: Gaige Grosskreutz says he believed Kyle Rittenhouse was an "active shooter" and was trying to disarm him. 
  <p class="updated_time"> 08:47 AM CT, Nov. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59225086?at_medium=RSS&at_campaign=KARANGA">Toxic foam covers sacred Yamuna river in India</a> BBC: Hindu devotees are filmed bathing in the Yamuna river to mark the Chhath Puja religious festival. 
  <p class="updated_time"> 07:41 AM CT, Nov. 09 </p> 
@@ -29,8 +31,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-59218458?at_medium=RSS&at_campaign=KARANGA">Sierra Leone tanker explosion: Survivors try to rebuild lives</a> BBC: Survivors are left wondering how to rebuild their lives after Sierra Leone's tanker explosion. 
  <p class="updated_time"> 04:00 AM CT, Nov. 09 </p> 
  <a href="https://www.nytimes.com/2021/11/09/style/bollywood-actor-richard-klein.html">How a 55-Year-Old California Teacher Became a Bollywood Actor </a> NYT: Richard Klein left behind his life as a Hebrew day school teacher in California and became an actor in Mumbai, often playing a “mean British officer.” 
- <p class="updated_time"> 03:56 AM CT, Nov. 09 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59216106?at_medium=RSS&at_campaign=KARANGA">Man shot by Kyle Rittenhouse says he pointed own gun amid fears for life</a> BBC: Gaige Grosskreutz says he believed Kyle Rittenhouse was an "active shooter" and was trying to disarm him. 
  <p class="updated_time"> 02:54 AM CT, Nov. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59186655?at_medium=RSS&at_campaign=KARANGA">Metallurgist admits faking steel test results for US Navy subs</a> BBC: A metallurgist has pleaded guilty to fraud after faking the results of strength tests on steel. 
  <p class="updated_time"> 02:33 AM CT, Nov. 09 </p> 
@@ -203,13 +203,29 @@ permalink: /projects/news/
 <summary>Politics</summary>
 
  <p class="updated_time"> 09:46 AM CT, Nov. 09 </p> 
- <a href="https://www.politico.com/news/2021/11/09/sununu-wont-run-for-senate-520413">Sununu won't run for Senate</a> Politico: Instead, Sununu said he would seek a fourth two-year term as governor. 
+ <a href="https://www.politico.com/news/2021/11/09/sununu-wont-run-for-senate-520413">Sunu-no: Top GOP recruit won't run for Senate</a> Politico: New Hampshire Gov. Chris Sununu said Tuesday he will seek reelection, denying Republicans their top recruit of the 2022 election cycle. 
+ <p class="updated_time"> 09:14 AM CT, Nov. 09 </p> 
+ <a href="https://www.nytimes.com/2021/11/09/us/politics/where-is-newsom-california.html">Where Is Gavin Newsom, California's Governor?</a> NYT: He’s in the office, according to increasingly frustrated staff members. But his critics on Twitter aren’t buying it. 
+ <p class="updated_time"> 09:07 AM CT, Nov. 09 </p> 
+ <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/cY1S9LREd9o/index.html">Judge denies Trump's overnight request for injunction in executive privilege case, still needs to rule on main case</a> CNN: Former President Donald Trump's latest procedural attempt to keep secret documents from his presidency about the January 6 insurrection quickly failed overnight. 
+ <p class="updated_time"> 09:07 AM CT, Nov. 09 </p> 
+ <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/IWJCK_8yw1w/index.html">Analysis: Biden has reached a critical moment in the battle for blue-collar voters</a> CNN: Just as Democrats face another round of hand-wringing about their erosion among working-class and rural White voters -- after last week's daunting election results in Virginia and New Jersey -- the long-delayed congressional approval of a historic infrastructure plan will test President Joe Biden's central theory on how the party can reverse that decline. 
+ <p class="updated_time"> 09:07 AM CT, Nov. 09 </p> 
+ <a href="https://www.washingtonpost.com/politics/new-hampshire-gov-chris-sununu-to-seek-a-fourth-term-not-run-for-senate/2021/11/09/117f870e-4155-11ec-9ea7-3eb2406a2e24_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">New Hampshire Gov. Chris Sununu to seek a fourth term, not run for Senate</a> WaPo: National party leaders had urged the Republican to take on Sen. Maggie Hassan (D) in a race they see as key to winning control of the chamber next year. 
+ <p class="updated_time"> 09:05 AM CT, Nov. 09 </p> 
+ <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uIWL_ztFnUc/index.html">New Hampshire Gov. Chris Sununu declines Senate bid in significant blow for Republicans</a> CNN: New Hampshire Gov. Chris Sununu on Tuesday said he would not run against Democratic Sen. Maggie Hassan in 2022, dealing a significant blow to Republicans who hoped the seat would be a top target in the critical midterm elections. 
+ <p class="updated_time"> 09:03 AM CT, Nov. 09 </p> 
+ <a href="https://www.nytimes.com/2021/11/09/us/politics/max-cleland-dead.html">Max Cleland, Vietnam Veteran and Former Senator, Dies at 79</a> NYT: He lost both legs and an arm in the war. Republicans impugned his patriotism by linking him to Osama bin Laden in an infamous TV spot. 
+ <p class="updated_time"> 09:01 AM CT, Nov. 09 </p> 
+ <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WoNpfkk4c_s/index.html">Republican congressman posts video depicting violence against Ocasio-Cortez and Biden</a> CNN: Republican Rep. Paul Gosar posted a photoshopped anime video to his Twitter and Instagram accounts showing him appearing to kill Democratic Rep. Alexandria Ocasio-Cortez and attacking President Joe Biden. 
+ <p class="updated_time"> 08:55 AM CT, Nov. 09 </p> 
+ <a href="https://www.npr.org/2021/11/09/1053847935/congress-cars-drunk-driving-auto">Congress' new mandate to carmakers: Figure out a way to stop drunk driving</a> NPR: Under the legislation, monitoring systems to stop intoxicated drivers would roll out in all new vehicles as early as 2026. "It's monumental," said Alex Otte of Mothers Against Drunk Driving. 
+ <p class="updated_time"> 08:55 AM CT, Nov. 09 </p> 
+ <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/R9Ll9AZCCe0/index.html">Here's what Joe Biden can actually do about gas prices</a> CNN: High gas prices are quickly becoming a political liability for President Joe Biden -- and like presidents before him, he has few options to bring them down. 
  <p class="updated_time"> 08:51 AM CT, Nov. 09 </p> 
  <a href="https://www.nytimes.com/2021/11/08/arts/critical-race-theory-bans.html">Bans on Critical Race Theory Threaten Free Speech, Advocacy Group Says</a> NYT: A report by PEN America, which surveys more than 50 bills proposed across the country, appeals to a principle that has lost its luster for many on the left and right. 
  <p class="updated_time"> 08:51 AM CT, Nov. 09 </p> 
  <a href="https://www.nytimes.com/2021/11/09/us/politics/sununu-new-hampshire-governor.html">Sununu to Seek Re-election as New Hampshire Governor, Rejecting Senate Bid</a> NYT: National Republicans had been trying to recruit Gov. Chris Sununu to compete for a Democratic-held seat that the G.O.P. believed could determine control of the Senate. 
- <p class="updated_time"> 08:37 AM CT, Nov. 09 </p> 
- <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WoNpfkk4c_s/index.html">Republican congressman posts video depicting violence against Ocasio-Cortez and Biden</a> CNN: Republican Rep. Paul Gosar posted a photoshopped anime video to his Twitter and Instagram accounts showing him appearing to kill Democratic Rep. Alexandria Ocasio-Cortez and attacking President Joe Biden. 
  <p class="updated_time"> 08:21 AM CT, Nov. 09 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-09/biden-commerce-chief-says-u-k-japan-steel-talks-to-start-soon">Biden Commerce Chief Says U.K., Japan Steel Talks to Start Soon</a> Bloomberg: The U.S. expects to begin talks with the U.K. and Japan aimed at addressing the nations’ objections to steel and aluminum tariffs “reasonably soon,” and any solution must protect the American industries, President Joe Biden’s commerce chief said. 
  <p class="updated_time"> 08:09 AM CT, Nov. 09 </p> 
@@ -218,12 +234,8 @@ permalink: /projects/news/
  <a href="https://www.washingtonpost.com/local/obituaries/max-cleland-dead/2021/11/09/cb0afb9c-7520-11eb-8115-9ad5e9c02117_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Max Cleland, Vietnam War veteran who led VA and served in Senate, dies at 79</a> WaPo: Elected to the U.S. Senate in 1996, he served one term as a Georgia Democrat before losing reelection in a campaign that centered on national security after Sept. 11, 2001. 
  <p class="updated_time"> 07:56 AM CT, Nov. 09 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-09/hard-brexit-talk-returns-as-u-k-eyes-suspending-n-ireland-deal">Hard Brexit Talk Returns as U.K. Eyes Suspending Northern Ireland Deal</a> Bloomberg: Brexit was supposed to be over. But with tensions over Northern Ireland flaring, the European Union is preparing a package of retaliatory measures in case the U.K. decides to suspend parts of the post-Brexit trade accord. 
- <p class="updated_time"> 07:43 AM CT, Nov. 09 </p> 
- <a href="https://www.nytimes.com/2021/11/09/us/politics/gavin-newsom-california.html">Where Is Gavin Newsom, California's Governor?</a> NYT: He’s in the office, according to increasingly frustrated staff members. But his critics on Twitter aren’t buying it. 
  <p class="updated_time"> 07:38 AM CT, Nov. 09 </p> 
  <a href="https://www.nytimes.com/2021/11/06/us/politics/defectors-infrastructure-bill-squad.html">In Infrastructure Votes, 19 Members Broke With Their Party</a> NYT: The defectors who crossed partisan lines in Congress include 13 Republicans who supported the bill and the six liberal members of “The Squad,” who opposed it. 
- <p class="updated_time"> 07:35 AM CT, Nov. 09 </p> 
- <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/cY1S9LREd9o/index.html">Judge denies Trump's overnight request for injunction in executive privilege case, still needs to rule on main case</a> CNN: Former President Donald Trump's latest procedural attempt to keep secret documents from his presidency about the January 6 insurrection quickly failed overnight. 
  <p class="updated_time"> 07:24 AM CT, Nov. 09 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/11/09/senate-schedule-seasonally-depressing-495031">Senate schedule: seasonally depressing</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 07:00 AM CT, Nov. 09 </p> 
@@ -236,8 +248,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/09/trump-jan-6-520405">Trump makes — and loses — overnight bid to block Jan. 6 investigators</a> Politico: The Archives indicated it would turn documents over to lawmakers by Friday. 
  <p class="updated_time"> 06:13 AM CT, Nov. 09 </p> 
  <a href="https://www.npr.org/2021/11/09/1053793595/first-lady-jill-biden-stops-by-historic-virginia-schools-vaccine-clinic">First lady Jill Biden stops by historic Virginia school's vaccine clinic</a> NPR: The first school to administer the polio vaccine in 1954 in McLean, Va., was also the scene for the kickoff of a White House drive to get kids vaccinated for COVID-19. 
- <p class="updated_time"> 05:48 AM CT, Nov. 09 </p> 
- <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/IWJCK_8yw1w/index.html">Biden has reached a critical moment in the battle for blue-collar voters</a> CNN: Just as Democrats face another round of hand-wringing about their erosion among working-class and rural White voters -- after last week's daunting election results in Virginia and New Jersey -- the long-delayed congressional approval of a historic infrastructure plan will test President Joe Biden's central theory on how the party can reverse that decline. 
  <p class="updated_time"> 05:37 AM CT, Nov. 09 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-09/harris-courts-bigger-role-on-global-stage-with-visit-to-france">Kamala Harris Courts Bigger Role on Global Stage With Visit to France</a> Bloomberg: Vice President Kamala Harris is embarking on five days of personal diplomacy in France as she aims to raise her international profile and continue healing a rift between the U.S. and its oldest ally. 
  <p class="updated_time"> 05:32 AM CT, Nov. 09 </p> 
@@ -285,7 +295,7 @@ permalink: /projects/news/
  <p class="updated_time"> 02:00 AM CT, Nov. 09 </p> 
  <a href="https://www.washingtonpost.com/politics/2021/11/09/false-claim-that-only-11-percent-infrastructure-bill-goes-real-infrastructure/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">The false claim that only 11 percent of the infrastructure bill goes to ‘real infrastructure’</a> WaPo: Former president Donald Trump knocked passage of the infrastructure plan, but by the metrics he used as president, nearly 40 percent would qualify as "real infrastructure" — and the percentage could even be double that figure. 
  <p class="updated_time"> 01:58 AM CT, Nov. 09 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-09/european-gas-price-slides-on-signs-some-russian-flows-increase">European Gas Prices Slide on Some Signs of Higher Russian Flows</a> Bloomberg: European natural gas prices slipped on signs Russia may be starting to gradually deliver the boost in supplies President Vladimir Putin promised. 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-09/european-gas-price-slides-on-signs-some-russian-flows-increase">European Gas Slides on Russian Export Boost, Dutch Field Plans</a> Bloomberg: European natural gas prices slipped on signs Russia may be starting to gradually deliver the boost in supplies President Vladimir Putin promised. The Netherlands is also mulling higher output from its giant Groningen field. 
  <p class="updated_time"> 01:45 AM CT, Nov. 09 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-09/american-jailed-in-russia-goes-on-hunger-strike-family-says">American Jailed in Russia Goes on Hunger Strike, Family Says</a> Bloomberg: A former U.S. marine imprisoned in Russia has gone on hunger strike to protest his conditions in jail, his family said. Prison officials denied that. 
  <p class="updated_time"> 01:27 AM CT, Nov. 09 </p> 
@@ -301,15 +311,13 @@ permalink: /projects/news/
  <p class="updated_time"> 11:44 PM CT, Nov. 08 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-09/iran-says-it-intercepted-2-u-s-drones-during-military-drills">Iran Intercepts U.S. Drones During Military Drills</a> Bloomberg: Iran said it intercepted two U.S. drones that reportedly violated its airspace during military drills in the country’s southern waters. 
  <p class="updated_time"> 11:43 PM CT, Nov. 08 </p> 
- <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ocUa0LJQ22A/index.html">Republican congressman details threatening voicemail he received after voting for bipartisan infrastructure bill</a> CNN: Republican Rep. Fred Upton on Monday shared a threatening voicemail he had received after voting for the bipartisan infrastructure bill last week. 
+ <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ocUa0LJQ22A/index.html">GOP Rep. Fred Upton details threatening voicemail he received after voting for bipartisan infrastructure bill</a> CNN: Republican Rep. Fred Upton on Monday shared a threatening voicemail he had received after voting for the bipartisan infrastructure bill last week. 
  <p class="updated_time"> 11:35 PM CT, Nov. 08 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-09/china-keeps-pressure-on-coal-mines-to-cut-prices-as-winter-nears">China Keeps Up Pressure to Cut Coal Prices as Winter Looms</a> Bloomberg: Beijing is maintaining pressure on coal miners to cut prices to keep a power crisis at bay as a burst of frigid weather provides a hint of the harsh winter that may be ahead. 
  <p class="updated_time"> 11:10 PM CT, Nov. 08 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-09/lawmaker-tweets-anime-of-him-attacking-ocasio-cortez-biden">Lawmaker Tweets Anime of Him Attacking Ocasio-Cortez, Biden</a> Bloomberg: A Republican congressman from Arizona touched off a social media uproar after he posted a doctored version of a popular anime with him attacking President Joe Biden and Representative Alexandria Ocasio- Cortez, a New York Democrat. 
  <p class="updated_time"> 11:06 PM CT, Nov. 08 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-09/japan-plans-100-000-yen-in-cash-and-vouchers-to-kids-kyodo-says">Japan Plans 100,000 Yen in Cash and Vouchers to Kids, Kyodo Says</a> Bloomberg: Japanese Prime Minister Fumio Kishida’s government is planning cash and voucher handouts for children 18 and younger, responding to a campaign pledge the junior member of the ruling coalition made in the recent general election. 
- <p class="updated_time"> 11:01 PM CT, Nov. 08 </p> 
- <a href="https://www.bloomberg.com/news/features/2021-11-09/covid-vaccine-india-races-to-vaccinate-poor-suspicious-citizens-in-villages">India’s Race to Vaccinate Its Villages Meets With Rural Resistance</a> Bloomberg: In the country’s remote and desperately poor areas, suspicion of the government’s motives runs deep. 
  <p class="updated_time"> 10:14 PM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/us/politics/democrats-budget-bill-cuts-infrastructure.html">On Chicago’s West Side, Urgent Needs Collide With Washington Compromises</a> NYT: Activists say the needs of struggling communities in Chicago and elsewhere vastly exceed the billions Congress is spending. 
  <p class="updated_time"> 10:00 PM CT, Nov. 08 </p> 
@@ -330,8 +338,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/07/health/biden-osha-vaccine-mandate.html">Biden Administration Is ‘Prepared to Defend’ Vaccine Rules, Surgeon General Said</a> NYT: The administration last week set Jan. 4 as the deadline for companies with 100 or more employees to mandate Covid vaccinations or implement weekly testing of workers. 
  <p class="updated_time"> 08:21 PM CT, Nov. 08 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xvEt_dcR3k8/index.html">Biden honors NBA champs Milwaukee Bucks at the White House</a> CNN: President Joe Biden honored the NBA champion Milwaukee Bucks at a White House ceremony on Monday, marking the first visit to 1600 Pennsylvania Avenue by an NBA championship-winning team since 2016. 
- <p class="updated_time"> 08:15 PM CT, Nov. 08 </p> 
- <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9p9GkYhH3_M/index.html">US seizes $6 million in ransom payments and charges Ukrainian over major cyberattack</a> CNN: Law enforcement officials have seized an estimated $6 million in ransom payments, and the US Justice Department is expected to announce Monday that it has charged a suspect from Ukraine over a damaging July ransomware attack on an American company in a breakthrough for the Biden administration's pursuit of cybercriminals, CNN has learned. 
  <p class="updated_time"> 08:15 PM CT, Nov. 08 </p> 
  <a href="https://www.washingtonpost.com/politics/biden-infrastructure-benefits-polarized-politics/2021/11/08/dcf73b1c-40aa-11ec-a3aa-0255edc02eb7_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Biden seeks infrastructure bounce. But can a nuts-and-bolts pitch overcome cultural divides?</a> WaPo: The president’s sales push on infrastructure will test whether his strategy of delivering tangible benefits still resonates in a polarized political environment where cultural issues are powerful. 
  <p class="updated_time"> 08:14 PM CT, Nov. 08 </p> 
@@ -396,10 +402,10 @@ permalink: /projects/news/
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/O3tKG3pCKP4/index.html">US Capitol rioter who fled to Belarus says he may seek asylum there</a> CNN: A California man who is wanted by the FBI for allegedly assaulting police officers during the US Capitol insurrection says he is considering seeking asylum in Belarus because he is the target of "political persecution," according to Belarus state television. 
  <p class="updated_time"> 02:13 PM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/business/randal-quarles-fed.html">Randal Quarles, Fed Governor, to Resign in December</a> NYT: Mr. Quarles’s term as a governor could have stretched until 2032. His departure will give the Biden administration more room to remake the Fed. 
- <p class="updated_time"> 01:59 PM CT, Nov. 08 </p> 
- <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/utnCfpEJDyw/index.html">Analysis: Nancy Pelosi is the most effective speaker ever</a> CNN: Almost 15 years ago, Nancy Pelosi wrote her name in the history books as the first female speaker of the House. 
  <p class="updated_time"> 01:55 PM CT, Nov. 08 </p> 
  <a href="https://www.npr.org/2021/11/08/1053599349/u-s-indicts-2-men-behind-ransomware-attacks-over-the-summer">U.S. indicts 2 men behind major ransomware attacks</a> NPR: The attacks shut down a meat processing plant and an internet software provider earlier this year. 
+ <p class="updated_time"> 01:44 PM CT, Nov. 08 </p> 
+ <a href="https://www.bloomberg.com/news/videos/2021-11-08/balance-of-power-11-08-2021">Balance of Power (11/08/2021)</a> Bloomberg: "Bloomberg: Balance of Power" focuses on the intersection of politics and global business. Former U.S. Transportation Secretary Elaine Chao says the new infrastructure bill is like "manna from heaven" for states seeking transportation funds. Also joining is Surgere CEO Bill Wappler on how tech is helping supply-chain challenges and PWC tax principal Rohit Kumar. 
  <p class="updated_time"> 01:33 PM CT, Nov. 08 </p> 
  <a href="https://www.washingtonpost.com/politics/new-jersey-governor-concede/2021/11/08/1cec7668-409e-11ec-9ea7-3eb2406a2e24_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Democrats call on New Jersey Republican to concede gubernatorial race</a> WaPo: Republican nominee Jack Ciattarelli has refused, citing uncounted ballots, the same rationale offered by the Democratic state Senate president as he refuses to concede. 
  <p class="updated_time"> 01:27 PM CT, Nov. 08 </p> 
@@ -432,8 +438,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/08/1053511530/elon-musk-twitter-poll-tesla">Elon Musk asked Twitter followers if he should sell Tesla shares. They said yes</a> NPR: Tesla shares are falling after Elon Musk proposed to sell 10% of his shares in the company if his Twitter followers agreed. 
  <p class="updated_time"> 09:21 AM CT, Nov. 08 </p> 
  <a href="https://www.washingtonpost.com/politics/interactive/2020/biden-appointee-tracker/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Tracking the political appointees Biden is nominating to fill the top roles in his administration</a> WaPo: Follow the president-elect’s progress filling nearly 800 positions, among the 1,200 that require Senate confirmation, in this tracker from The Washington Post and the Partnership for Public Service. 
- <p class="updated_time"> 08:18 AM CT, Nov. 08 </p> 
- <a href="https://www.washingtonpost.com/politics/rick-scott-sean-parnell/2021/11/08/d21bb370-4097-11ec-a3aa-0255edc02eb7_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">NRSC chair Rick Scott declines to say if Trump-backed Senate hopeful accused of strangling wife is right candidate for the job</a> WaPo: Pressed during an interview about Sean Parnell, the senator from Florida said it is not his job to endorse candidates in open primaries. Parnell has been endorsed by former president Donald Trump. 
  <p class="updated_time"> 08:08 AM CT, Nov. 08 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-08/no-johnson-apology-as-lobbying-furor-engulfs-his-u-k-government">Johnson Is Failing to Contain Fallout From U.K. Lobbying Scandal</a> Bloomberg: Boris Johnson is struggling to repress the U.K. backlash over his defense of a ruling party lawmaker who broke lobbying rules, as even typically friendly newspapers took aim at his ruling Conservative Party. 
  <p class="updated_time"> 07:20 AM CT, Nov. 08 </p> 
@@ -462,14 +466,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/08/nyregion/nassau-county-republicans-election.html">Why Republicans Won in Nassau County</a> NYT: Voters readily ousted Democrats in Nassau County on Long Island, electing Republicans down the ballot. 
  <p class="updated_time"> 04:00 AM CT, Nov. 08 </p> 
  <a href="https://www.npr.org/2021/11/08/1052567444/supreme-court-to-hear-arguments-on-fbis-surveillance-of-mosques">Supreme Court to hear arguments on FBI's surveillance of mosques </a> NPR: The argument will focus on whether this case can move forward at all because the government argues that for it to produce any of the evidence gathered 15 years ago would jeopardize national security. 
- <p class="updated_time"> 04:01 PM CT, Nov. 07 </p> 
- <a href="https://www.npr.org/2021/11/07/1053387440/rep-ruben-gallego-talks-new-book-exploring-how-the-u-s-treats-its-veterans">Rep. Ruben Gallego talks new book exploring how the U.S. treats its veterans</a> NPR: NPR's Michel Martin speaks with Congressman Ruben Gallego about his upcoming book They Called Us "Lucky": The Life and Afterlife of the Iraq War's Hardest Hit Unit. 
  <p class="updated_time"> 02:31 PM CT, Nov. 07 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/sWdL-IYaLvg/index.html">Chris Christie delivers tough message to Republican audience, saying GOP gains hinge on moving on from 2020</a> CNN: While the other potential GOP White House aspirants continue to tip-toe around former President Donald Trump, former New Jersey Gov. Chris Christie argued Saturday that his week's election results marked the "beginning of a new era" for the Republican Party -- one that looks "forward and not backwards" as he addressed the Republican Jewish Coalition in Las Vegas. 
  <p class="updated_time"> 01:17 PM CT, Nov. 07 </p> 
  <a href="https://www.nytimes.com/2021/11/07/us/politics/afghanistan-war-marines.html">Young Marines in Kabul Were Left to Run Final Days of Evacuation</a> NYT: The young Marines in Kabul were left to determine who was evacuated from Afghanistan and who was left behind. The cost was high. 
- <p class="updated_time"> 01:13 PM CT, Nov. 07 </p> 
- <a href="https://www.nytimes.com/2021/11/06/us/politics/biden-infrastructure-speech.html">Biden Celebrates Infrastructure Win, Even if Harder Victory Is Ahead</a> NYT: “Finally! Infrastructure week!” the president declared with a broad smile. 
  <p class="updated_time"> 11:17 AM CT, Nov. 07 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/07/what-happens-in-vegas-495006">POLITICO Playbook: What happens in Vegas …</a> Politico: And a court temporarily blocks Biden’s vaccine mandate. 
  <p class="updated_time"> 10:27 AM CT, Nov. 07 </p> 
