@@ -7,6 +7,12 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:35 AM CT, Nov. 09 </p> 
+ <a href="https://www.nytimes.com/2021/11/09/world/europe/england-health-workers-vaccine-mandate.html">England Will Require N.H.S. Workers to Be Vaccinated by April</a> NYT: About 80,000 to 100,000 National Health Service workers in the country remain unvaccinated against the coronavirus. 
+ <p class="updated_time"> 11:34 AM CT, Nov. 09 </p> 
+ <a href="https://www.nytimes.com/2021/11/09/climate/africa-fossil-fuel-gas-cop26.html">Africa's Leaders Say Rich Countries Need to Quit Oil and Gas First</a> NYT: As negotiators at the Glasgow climate talks try to agree on greenhouse gas cuts, African leaders say poorer countries can’t be expected to remake their systems as quickly as wealthy ones. 
+ <p class="updated_time"> 11:33 AM CT, Nov. 09 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-59225576?at_medium=RSS&at_campaign=KARANGA">Emily Ratajkowski: Told to 'get ugly' for acting roles</a> BBC: In an interview with BBC Newsnight, she also spoke about her alleged sexual assault by Robin Thicke. 
  <p class="updated_time"> 11:27 AM CT, Nov. 09 </p> 
  <a href="https://www.nytimes.com/2021/11/08/world/americas/brazil-telegram-disinformation.html">Brazil’s Far-Right Disinformation Pushers Find a Safe Space on Telegram</a> NYT: In a social media ecosystem facing mounting pressure to combat fake news and polarization, Telegram is the most permissive disseminator of content — and disinformation. 
  <p class="updated_time"> 11:26 AM CT, Nov. 09 </p> 
@@ -16,7 +22,7 @@ permalink: /projects/news/
  <p class="updated_time"> 11:16 AM CT, Nov. 09 </p> 
  <a href="https://www.nytimes.com/2021/11/08/travel/usa-travel-restrictions.html">U.S. Allows Vaccinated Foreign Travelers to Enter</a> NYT: On Monday, after more than 18 months, restrictions that kept families separated and cost the global travel industry hundreds of billions of dollars were lifted. 
  <p class="updated_time"> 11:15 AM CT, Nov. 09 </p> 
- <a href="https://www.npr.org/2021/11/09/1053889069/singapore-medical-bills-covid-19-patients-unvaccinated-by-choice">Singapore will stop covering the medical bills of unvaccinated COVID-19 patients</a> NPR: Singapore's government will stop covering the cost of COVID-19 treatment for those who are "unvaccinated by choice" next month, citing the strain they are placing on its healthcare system. 
+ <a href="https://www.npr.org/2021/11/09/1053889069/singapore-medical-bills-covid-19-patients-unvaccinated-by-choice">Singapore will stop covering the medical bills of unvaccinated COVID-19 patients</a> NPR: Singapore's government will stop covering the cost of COVID-19 treatment for those who are "unvaccinated by choice" next month, citing the strain they are placing on its health care system. 
  <p class="updated_time"> 11:12 AM CT, Nov. 09 </p> 
  <a href="https://www.nytimes.com/2021/11/09/world/asia/singapore-unvaccinated-covid.html">Singapore to End Free Covid Treatment for Those 'Unvaccinated by Choice'</a> NYT: The change, which takes effect on Dec. 8, comes as the number of severe cases has stabilized but remains high, the Health Ministry said. 
  <p class="updated_time"> 11:09 AM CT, Nov. 09 </p> 
@@ -33,8 +39,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/08/climate/glasgow-climate-summit.html">Can Glasgow Deliver on a Global Climate Deal?</a> NYT: Negotiators from about 200 countries are entering Week 2 of climate talks trying to resolve big issues around money, transparency and timelines. 
  <p class="updated_time"> 10:33 AM CT, Nov. 09 </p> 
  <a href="https://www.nytimes.com/2021/11/08/world/europe/van-morrison-covid-northern-ireland.html">Northern Ireland’s Health Minister Is Suing Van Morrison Over Covid Criticism</a> NYT: The Belfast-born singer-songwriter has embraced conspiracy theories and criticized restrictions to slow the spread of the coronavirus. Last year, he released a single called “No More Lockdown.” 
- <p class="updated_time"> 10:27 AM CT, Nov. 09 </p> 
- <a href="https://www.nytimes.com/2021/11/09/world/europe/england-health-workers-vaccine-mandate.html">U.K. Will Require N.H.S. Workers to Be Vaccinated by April</a> NYT: About 80,000 to 100,000 National Health Service workers in the country remain unvaccinated against the coronavirus. 
  <p class="updated_time"> 10:16 AM CT, Nov. 09 </p> 
  <a href="https://www.nytimes.com/2021/11/09/science/new-zealand-sea-lions.html">New Zealand’s Sea Lions Are Back, and Crashing Golf Courses and Soccer Matches</a> NYT: After their populations were decimated by hunters, New Zealand’s sea lions are returning to the coasts — sometimes surprising locals by turning up in unexpected places. 
  <p class="updated_time"> 09:17 AM CT, Nov. 09 </p> 
@@ -45,8 +49,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/09/us/myrtle-beach-trash-can-ireland.html">A Trash Can From Myrtle Beach Washed Up in Ireland</a> NYT: “It reminded me straight away of maybe like a message in a bottle type scenario,” said Keith McGreal, who discovered the bin on Sunday afternoon while strolling on a beach with his family. 
  <p class="updated_time"> 07:03 AM CT, Nov. 09 </p> 
  <a href="https://www.nytimes.com/2021/11/09/world/asia/india-covid-vaccinations.html">India Risks Covid-19 Complacency After Its Vaccine Campaign</a> NYT: The success represents a major victory for Narendra Modi’s government, but a recent slowdown in new vaccinations has sparked worries. 
- <p class="updated_time"> 06:00 AM CT, Nov. 09 </p> 
- <a href="https://www.nytimes.com/2021/11/09/climate/africa-fossil-fuel-gas-cop26.html">Africa's Leaders Say Rich Countries Need to Quit Oil and Gas First</a> NYT: As negotiators at the Glasgow climate talks try to agree on greenhouse gas cuts, African leaders say poorer countries can’t be expected to remake their systems as quickly as wealthy ones. 
  <p class="updated_time"> 05:56 AM CT, Nov. 09 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59218522?at_medium=RSS&at_campaign=KARANGA">Tiger King 2: Carole Baskin has 'no claim' to sue over footage - Netflix</a> BBC: Tiger King's Carole Baskin is trying to sue Netflix for using footage of her in the new series. 
  <p class="updated_time"> 05:29 AM CT, Nov. 09 </p> 
@@ -157,8 +159,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/06/world/europe/cop-climate-protests.html">COP26 Protesters Back an Array of Causes, Connected by Climate Change</a> NYT: Thousands gathered in the rain in Glasgow to press the case for more urgent and meaningful action by world leaders in response to global warming. 
  <p class="updated_time"> 07:20 AM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/07/travel/us-travel-ban-reunions.html">As U.S. Travel Changes Near, Global Travelers Eagerly Await Reunions</a> NYT: On Monday, travelers from many other countries who are fully vaccinated against the coronavirus will be allowed to enter the United States. 
- <p class="updated_time"> 06:42 AM CT, Nov. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59208188?at_medium=RSS&at_campaign=KARANGA">Festivalgoers react to the Astroworld crush</a> BBC: Travis Scott's Astroworld Festival was cancelled after eight people died following a crowd surge. 
  <p class="updated_time"> 06:00 AM CT, Nov. 08 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59205798?at_medium=RSS&at_campaign=KARANGA">Travis Scott fans recall Astroworld panic: 'I had to get out of there'</a> BBC: Festivalgoers caught up in the crush at Astroworld, which left eight people dead, recall their fear. 
  <p class="updated_time"> 05:26 AM CT, Nov. 08 </p> 
@@ -212,8 +212,10 @@ permalink: /projects/news/
 
  <p class="updated_time"> 12:00 PM CT, Nov. 09 </p> 
  <a href="https://www.politico.com/news/2021/11/09/trump-officials-hatch-act-violated-520420">Watchdog: 13 Trump officials violated Hatch Act during 2020 campaign</a> Politico: The list includes several cabinet officials and top White House aides, including Trump’s former Secretary of State Mike Pompeo, chief of staff Mark Meadows and press secretary Kayleigh McEnany. 
- <p class="updated_time"> 11:37 AM CT, Nov. 09 </p> 
- <a href="https://www.politico.com/news/2021/11/09/max-cleland-former-va-chief-senator-dies-520419">Max Cleland, former VA chief and Georgia senator, dies</a> Politico: Cleland served one term in the U.S. Senate and as administrator of the Veterans Administration, as Georgia secretary of State and as a Georgia state senator. 
+ <p class="updated_time"> 11:39 AM CT, Nov. 09 </p> 
+ <a href="https://www.nytimes.com/2021/11/09/us/politics/sean-maloney-democrats.html">‘Free Joe Biden’: Sean Maloney on How Democrats Can Get Back on Track</a> NYT: In an interview, the leader of the House Democrats’ campaign arm acknowledged the major challenges facing the party but defended its agenda and its continued focus on Donald Trump. 
+ <p class="updated_time"> 11:34 AM CT, Nov. 09 </p> 
+ <a href="https://www.washingtonpost.com/politics/harris-gets-a-chance-to-burnish-her-image-on-the-world-stage-in-paris/2021/11/09/588742fe-40fb-11ec-a3aa-0255edc02eb7_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Harris gets a chance to burnish her image on the world stage in Paris</a> WaPo: Vice President Harris’s visit to a long-standing ally offers a chance for a positive narrative after uneven international trips that have been marked by setbacks. 
  <p class="updated_time"> 11:23 AM CT, Nov. 09 </p> 
  <a href="https://www.nytimes.com/2021/11/09/us/politics/pfizer-booster-approval-adults.html">Pfizer Expected to Ask for Authorization for Boosters for All Adults</a> NYT: An advisory panel to the Food and Drug Administration voted against a similar request from Pfizer in mid-September, but the agency is considered likely to grant the request, perhaps before Thanksgiving. 
  <p class="updated_time"> 11:22 AM CT, Nov. 09 </p> 
@@ -257,7 +259,7 @@ permalink: /projects/news/
  <p class="updated_time"> 09:46 AM CT, Nov. 09 </p> 
  <a href="https://www.politico.com/news/2021/11/09/sununu-wont-run-for-senate-520413">Sunu-no: Top GOP recruit won't run for Senate</a> Politico: New Hampshire Gov. Chris Sununu said Tuesday he will seek reelection, denying Republicans their top recruit of the 2022 election cycle. 
  <p class="updated_time"> 09:42 AM CT, Nov. 09 </p> 
- <a href="https://www.washingtonpost.com/politics/2021/11/09/how-many-people-will-go-prison-trumps-dishonesty/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">How many people will go to prison for Trump’s dishonesty?</a> WaPo: The threat of violence from his election claims hasn't gone away. 
+ <a href="https://www.washingtonpost.com/politics/2021/11/09/how-many-people-will-go-prison-trumps-dishonesty/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">How many people will go to prison for Trump’s dishonest election claims?</a> WaPo: The threat of violence from his election claims hasn't gone away. 
  <p class="updated_time"> 09:39 AM CT, Nov. 09 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-09/top-uae-official-in-first-syria-visit-in-a-decade-reports-say">Top UAE Official Meets Assad in First Syria Visit in a Decade</a> Bloomberg: The United Arab Emirates foreign minister arrived in Damascus Tuesday in the first visit to Syria by a top Emirati official in a decade, and met with President Bashar al-Assad, according to the state-run Syrian news agency. 
  <p class="updated_time"> 09:35 AM CT, Nov. 09 </p> 
@@ -319,6 +321,8 @@ permalink: /projects/news/
  <p class="updated_time"> 04:30 AM CT, Nov. 09 </p> 
  <a href="https://www.politico.com/news/2021/11/09/senate-dems-year-end-train-wreck-520275">The Senate’s year-end to-do list is ‘going to be a train wreck’</a> Politico: Ho, ho, oh no. Long nights, weekend work and threatened holidays are a Capitol tradition, and this year is likely no exception. 
  <p class="updated_time"> 04:30 AM CT, Nov. 09 </p> 
+ <a href="https://www.politico.com/news/2021/11/09/senate-dems-year-end-train-wreck-520275">The Senate’s year-end to-do list is ‘going to be a train wreck’</a> Politico: Ho, ho, oh no. Long nights, weekend work and threatened holidays are a Capitol tradition, and this year is likely no exception. 
+ <p class="updated_time"> 04:30 AM CT, Nov. 09 </p> 
  <a href="https://www.politico.com/news/2021/11/09/biden-hbcus-howard-university-protests-520391">Biden made huge promises to HBCUs. Can he sell its students on compromise?</a> Politico: The administration is still proposing historic funds. Kamala Harris remains a trusted alumnus. But campus life at the country’s most famous HBCU is in tumult. 
  <p class="updated_time"> 04:22 AM CT, Nov. 09 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-09/lira-s-slump-leaves-turks-searching-for-hard-to-find-medicines">Lira’s Slump Leaves Turks Searching for Hard-to-Find Medicines</a> Bloomberg: Turkish patients are finding it increasingly difficult to access key drugs, with producers blaming the shortages on an inflexible pricing system for medicines that exposes them to losses from the lira’s swift decline. 
@@ -330,14 +334,12 @@ permalink: /projects/news/
  <a href="https://www.bloomberg.com/news/articles/2021-11-09/china-s-politics-enter-turbulent-period-as-xi-pushes-for-control">China’s Politics Enter Turbulent Period as Xi Pushes for Control</a> Bloomberg: Party probes and&nbsp;power games ramp up ahead of a landmark leadership congress next year 
  <p class="updated_time"> 04:04 AM CT, Nov. 09 </p> 
  <a href="https://www.npr.org/2021/11/09/1053792399/morning-news-brief">News brief: Jan. 6 subpoenas, Supreme Court preview, India's climate challenge</a> NPR: The Jan. 6 House panel issues more subpoenas for ex-Trump officials. A look at  two cases before the Supreme Court Tuesday. And, India's rapid development has left it with many environmental issues. 
- <p class="updated_time"> 04:00 AM CT, Nov. 09 </p> 
- <a href="https://www.nytimes.com/2021/11/09/us/politics/sean-maloney-democrats.html">‘Free Joe Biden’: Sean Maloney on How Democrats Can Get Back on Track</a> NYT: In an interview, the leader of the House Democrats’ campaign arm acknowledged the major challenges facing the party but defended its agenda and its continued focus on Donald Trump. 
  <p class="updated_time"> 02:50 AM CT, Nov. 09 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-09/eu-backs-poland-as-migrant-crisis-on-belarus-border-escalates">EU Eyes More Belarus Sanctions as Migrant Crisis Escalates</a> Bloomberg: The European Union is planning to boost sanctions against Belarus over actions that are creating a growing migrant and humanitarian crisis on the bloc’s eastern frontier. 
  <p class="updated_time"> 02:00 AM CT, Nov. 09 </p> 
  <a href="https://www.washingtonpost.com/politics/2021/11/09/false-claim-that-only-11-percent-infrastructure-bill-goes-real-infrastructure/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">The false claim that only 11 percent of the infrastructure bill goes to ‘real infrastructure’</a> WaPo: Former president Donald Trump knocked passage of the infrastructure plan, but by the metrics he used as president, nearly 40 percent would qualify as "real infrastructure" — and the percentage could even be double that figure. 
  <p class="updated_time"> 01:58 AM CT, Nov. 09 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-09/european-gas-price-slides-on-signs-some-russian-flows-increase">European Gas Slides on Russian Export Boost, Dutch Field Plans</a> Bloomberg: European natural gas prices slipped on signs Russia may be starting to gradually deliver the boost in supplies President Vladimir Putin promised. The Netherlands is also mulling higher output from its giant Groningen field. 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-09/european-gas-price-slides-on-signs-some-russian-flows-increase">European Gas Slides as Russia Progressively Steps Up Exports</a> Bloomberg: European natural gas prices slipped on signs Russia may be starting to gradually deliver the boost in supplies President Vladimir Putin promised. 
  <p class="updated_time"> 01:45 AM CT, Nov. 09 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-09/american-jailed-in-russia-goes-on-hunger-strike-family-says">American Jailed in Russia Goes on Hunger Strike, Family Says</a> Bloomberg: A former U.S. marine imprisoned in Russia has gone on hunger strike to protest his conditions in jail, his family said. Prison officials denied that. 
  <p class="updated_time"> 01:20 AM CT, Nov. 09 </p> 
@@ -345,7 +347,7 @@ permalink: /projects/news/
  <p class="updated_time"> 12:12 AM CT, Nov. 09 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/XYQmsjtih0w/index.html">Analysis: Covid-19 vaccine debate takes a strange turn</a> CNN: The Covid-19 vaccine debate is getting weird. On Twitter, Texas Republican Sen. Ted Cruz accused Big Bird of pushing "Government propaganda...for your 5 year old!" after the Muppet tweeted about getting the shot in his wing. 
  <p class="updated_time"> 12:05 AM CT, Nov. 09 </p> 
- <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_LOS3Dbij4U/index.html">New January 6 subpoenas increase pressure on Garland to set an example with Bannon </a> CNN: The House select committee probing the January 6 insurrection placed its credibility and legal clout deeper into the hands of Attorney General Merrick Garland on Monday with a new flurry of subpoenas targeting cronies of ex-President Donald Trump. 
+ <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_LOS3Dbij4U/index.html">Subpoenas show January 6 panel is investigating how far back Trump's plan went</a> CNN: The House select committee probing the January 6 insurrection placed its credibility and legal clout deeper into the hands of Attorney General Merrick Garland on Monday with a new flurry of subpoenas targeting cronies of ex-President Donald Trump. 
  <p class="updated_time"> 11:43 PM CT, Nov. 08 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ocUa0LJQ22A/index.html">GOP Rep. Fred Upton details threatening voicemail he received after voting for bipartisan infrastructure bill</a> CNN: Republican Rep. Fred Upton on Monday shared a threatening voicemail he had received after voting for the bipartisan infrastructure bill last week. 
  <p class="updated_time"> 11:30 PM CT, Nov. 08 </p> 
@@ -416,8 +418,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/08/1053647230/u-s-and-egypt-meet-for-strategic-talks">U.S. and Egypt meet for strategic talks</a> NPR: The Biden administration often says that human rights are at the center of its foreign policy. Egypt is a big test case of that, as it and the U.S. are holding high level talks. 
  <p class="updated_time"> 03:57 PM CT, Nov. 08 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-08/biden-lacks-tools-to-fix-rising-pump-prices-loathed-by-voters">Biden Faces a Political Risk in Rising Gas Prices, With Few Options to Respond</a> Bloomberg: The increase in oil and gasoline prices threatens the U.S. economic rebound and poses a political risk for President Joe Biden. But his options for taming the surge are limited, and many of them would be either short-lived or conflict with his agenda of fighting climate change. 
- <p class="updated_time"> 03:46 PM CT, Nov. 08 </p> 
- <a href="https://www.politico.com/news/2021/11/08/jan-6-committee-subpoenas-trump-allies-520315">Jan. 6 committee subpoenas Trump allies linked to D.C. 'war room'</a> Politico: The latest batch targets a mix of people who worked on Donald Trump’s campaign and others who strategized how to overturn election results from the outside. 
  <p class="updated_time"> 03:20 PM CT, Nov. 08 </p> 
  <a href="https://www.npr.org/2021/11/08/1053647213/daniel-ortega-has-won-the-nicaragua-presidency-in-an-election-many-say-was-a-sha">Daniel Ortega has won the Nicaragua presidency in an election many say was a sham</a> NPR: Nicaragua's leader Daniel Ortega says he was overwhelmingly elected president for a fourth consecutive term Sunday. But critics, including leaders around the world, say the elections were a sham. 
  <p class="updated_time"> 03:20 PM CT, Nov. 08 </p> 
@@ -438,8 +438,6 @@ permalink: /projects/news/
  <a href="https://www.washingtonpost.com/politics/courts_law/judge-emmet-sullivan-ethics-allegation-laurence-silberman/2021/11/08/81d83056-400a-11ec-a3aa-0255edc02eb7_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Two judges, one courthouse and an unusual accusation of unethical conduct</a> WaPo: The federal judiciary’s ethics committee cleared Judge Emmet G. Sullivan’s participation on a panel that recommends nominees to the president to serve on D.C. courts. 
  <p class="updated_time"> 01:14 PM CT, Nov. 08 </p> 
  <a href="https://www.washingtonpost.com/politics/2021/11/08/vaccine-politics-only-worsened-partisan-divide-covid-19-deaths/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Vaccine politics only worsened the partisan divide in covid-19 deaths</a> WaPo: Vaccines didn't create the split. 
- <p class="updated_time"> 12:30 PM CT, Nov. 08 </p> 
- <a href="https://www.washingtonpost.com/politics/2021/11/08/sobering-poll-gops-embrace-coronavirus-misinformation/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">A pollster tested 8 pieces of covid misinformation. On 6 of 8, more Republicans said they were true than false.</a> WaPo: When Republicans don't believe the misinformation, it's mostly because they are unfamiliar with the claim. 
  <p class="updated_time"> 12:30 PM CT, Nov. 08 </p> 
  <a href="https://www.washingtonpost.com/politics/2021/11/08/sobering-poll-gops-embrace-coronavirus-misinformation/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">A pollster tested 8 pieces of covid misinformation. On 6 of 8, more Republicans said they were true than false.</a> WaPo: When Republicans don't believe the misinformation, it's mostly because they are unfamiliar with the claim. 
  <p class="updated_time"> 12:02 PM CT, Nov. 08 </p> 
