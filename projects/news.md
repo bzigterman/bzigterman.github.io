@@ -7,6 +7,14 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:05 AM CT, Nov. 09 </p> 
+ <a href="https://www.nytimes.com/2021/11/09/world/asia/singapore-unvaccinated-covid.html">Singapore to End Free Covid Treatment for Those 'Unvaccinated by Choice'</a> NYT: The change, which takes effect on Dec. 8, comes as the number of severe cases has stabilized but remains high, the Health Ministry said. 
+ <p class="updated_time"> 04:00 AM CT, Nov. 09 </p> 
+ <a href="https://www.nytimes.com/2021/11/09/world/asia/india-covid-vaccinations.html">India Risks Covid-19 Complacency After Its Vaccine Campaign</a> NYT: The success represents a major victory for Narendra Modi’s government, but a recent slowdown in new vaccinations has sparked worries. 
+ <p class="updated_time"> 04:00 AM CT, Nov. 09 </p> 
+ <a href="https://www.nytimes.com/2021/11/09/style/bollywood-actor-richard-klein.html">How a 55-Year-Old California Teacher Became a Bollywood Actor </a> NYT: Richard Klein left behind his life as a Hebrew day school teacher in California and became an actor in Mumbai, often playing a “mean British officer.” 
+ <p class="updated_time"> 03:56 AM CT, Nov. 09 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59216106?at_medium=RSS&at_campaign=KARANGA">Man shot by Kyle Rittenhouse says he pointed own gun amid fears for life</a> BBC: Gaige Grosskreutz says he believed Kyle Rittenhouse was an "active shooter" and was trying to disarm him. 
  <p class="updated_time"> 03:15 AM CT, Nov. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59215769?at_medium=RSS&at_campaign=KARANGA">Belarus migrants: Poland fears armed border escalation</a> BBC: The warning comes after hundreds of migrants tried to cut a fence to enter Poland illegally. 
  <p class="updated_time"> 02:54 AM CT, Nov. 09 </p> 
@@ -25,8 +33,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/business-59216504?at_medium=RSS&at_campaign=KARANGA">Evergrande: Crisis-hit developer raises more cash as new deadline looms</a> BBC: The firm faces another deadline this week to make overdue interest payments of $148m. 
  <p class="updated_time"> 09:56 PM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/07/world/americas/nicaragua-election-ortega.html">In Nicaragua Election, Ortega Crushes Dissent</a> NYT: President Daniel Ortega quashed the opposition and struck fear in voters, all but guaranteeing his victory in a presidential contest on Sunday. 
- <p class="updated_time"> 09:53 PM CT, Nov. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59216106?at_medium=RSS&at_campaign=KARANGA">Wisconsin man shot by Kyle Rittenhouse pointed a gun at him</a> BBC: A protester acknowledges in court he was advancing with gun drawn on the teen when he opened fire. 
  <p class="updated_time"> 08:14 PM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/us/politics/isis-military.html">Military Can’t Find ISIS Safe House That Prompted Kabul Drone Strike</a> NYT: The Pentagon’s latest admission illustrates the botched intelligence behind the strike that mistakenly killed 10 civilians in August. 
  <p class="updated_time"> 08:04 PM CT, Nov. 08 </p> 
@@ -45,6 +51,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/health-59204831?at_medium=RSS&at_campaign=KARANGA">Regular 10pm bedtime linked to lower heart risk</a> BBC: Synchronising sleep to match our internal body clock appears to be good for the heart, claim scientists. 
  <p class="updated_time"> 06:35 PM CT, Nov. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59216184?at_medium=RSS&at_campaign=KARANGA">Emotional families reunite at airport as US lifts travel ban</a> BBC: The first intercontinental flights arrived at the John F Kennedy Airport today. As families gleefully reunited, many were meeting new relatives for the first time. 
+ <p class="updated_time"> 06:15 PM CT, Nov. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-59205840?at_medium=RSS&at_campaign=KARANGA">Travis Scott festival tragedy: Were warning signs missed at Astroworld?</a> BBC: Concerns were raised before Travis Scott's fatal festival show. Could the tragedy have been averted? 
  <p class="updated_time"> 06:10 PM CT, Nov. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59213113?at_medium=RSS&at_campaign=KARANGA">Desperate Afghans turn to people smugglers for help fleeing the country</a> BBC: Smugglers tell the BBC the number of Afghans leaving has more than doubled since the Taliban takeover. 
  <p class="updated_time"> 06:00 PM CT, Nov. 08 </p> 
@@ -101,6 +109,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/08/world/asia/new-zealand-ease-lockdown-restrictions.html">New Zealand's Biggest City Is to Ease Lockdown Restrictions</a> NYT: The lifting of rules comes as the country records some of its highest daily case numbers since the pandemic began. 
  <p class="updated_time"> 11:21 AM CT, Nov. 08 </p> 
  <a href="https://www.wsj.com/articles/china-has-built-mock-ups-of-u-s-aircraft-carrier-warships-in-the-desert-11636403790">China Has Built Mock-Up of U.S. Aircraft Carrier, Warships in the Desert</a> WSJ: Satellite images indicate the People’s Liberation Army is focused on increasingly realistic training methods as tension over Taiwan rises. 
+ <p class="updated_time"> 11:05 AM CT, Nov. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59209603?at_medium=RSS&at_campaign=KARANGA">Timed Teaser: What did a Twitter poll tell Elon Musk?</a> BBC: Test your knowledge of the news these last few days - 10 questions, 10 seconds each. Go! 
  <p class="updated_time"> 10:41 AM CT, Nov. 08 </p> 
  <a href="https://www.npr.org/2021/11/08/1053545667/cop26-russia-china-obama">Obama criticizes Russia and China, some of the largest emitters, at climate talks</a> NPR: "When it comes to climate, time really is running out," the former president said. Though there has been progress since the historic Paris climate agreement, "we are nowhere near where we need to be." 
  <p class="updated_time"> 10:08 AM CT, Nov. 08 </p> 
@@ -181,20 +191,14 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/05/world/canada/manitoba-premier-election-stefanson-glover.html">Manitoba's New Premier Faces Court Challenge by Rival</a> NYT: The litigation highlights the often messy process that Canadian political parties use to select their leaders. 
  <p class="updated_time"> 10:22 AM CT, Nov. 06 </p> 
  <a href="https://www.nytimes.com/2021/11/06/world/europe/spain-plane-passengers-escape.html">Spanish Police Seek Missing Plane Passengers After Emergency Landing</a> NYT: More than 20 people fled a Moroccan flight that diverted to Mallorca after a passenger apparently fell ill. A dozen had yet to be found. 
- <p class="updated_time"> 09:53 AM CT, Nov. 06 </p> 
- <a href="https://www.nytimes.com/2021/11/05/world/europe/cop26-greta-thunberg.html">Greta Thunberg Assails Leaders Outside COP26 Climate Summit</a> NYT: “The governments of the global north countries are still refusing to take any drastic climate action,” she told protesters in Glasgow. 
  <p class="updated_time"> 09:01 AM CT, Nov. 06 </p> 
  <a href="https://www.nytimes.com/2021/11/06/world/austria-covid-restrictions.html">Facing a spike in infections, Austria sharpens the rules of its Covid pass.</a> NYT: Austrians will need proof of vaccination or a past infection to be seated at a restaurant, enter a bar, visit a hairdresser or join any gathering of more than 25 people. 
  <p class="updated_time"> 04:11 AM CT, Nov. 06 </p> 
  <a href="https://www.nytimes.com/2021/11/05/world/africa/ethiopia-tigray-eight-groups.html">Eight Groups Join Tigray Rebels Vowing to Oust Ethiopia’s Leader</a> NYT: The government calls the new coalition, announced in Washington, a “publicity stunt,” as intermediaries try to negotiate a peaceful solution to a year of conflict. 
  <p class="updated_time"> 04:00 AM CT, Nov. 06 </p> 
  <a href="https://www.nytimes.com/2021/11/06/world/asia/india-region-muslim-hindu-strife.html">India's Treatment of Muslims Erodes Its Moral High Ground</a> NYT: The hard-line attitude of Narendra Modi’s ruling party toward Muslims has undermined the nation’s reputation as a voice for tolerance in South Asia. 
- <p class="updated_time"> 06:06 PM CT, Nov. 05 </p> 
- <a href="https://www.nytimes.com/2021/11/05/climate/cop26-john-kerry.html">John Kerry Lauds Progress at COP26 but Warns, ‘Job Not Done.’</a> NYT: Mr. Kerry, President Biden’s climate envoy, acknowledged that many of the promises being put forward in Glasgow were only that — promises. 
  <p class="updated_time"> 03:31 PM CT, Nov. 05 </p> 
  <a href="https://www.nytimes.com/2021/11/05/world/africa/un-rights-panel-sudan-coup.html">U.N. Rights Panel Pressures Sudan Over Coup</a> NYT: The Human Rights Council appointed an expert to investigate abuses in the country since the military seized power on Oct. 25, and members called for the prime minister’s release. 
- <p class="updated_time"> 12:47 PM CT, Nov. 05 </p> 
- <a href="https://www.nytimes.com/2021/11/05/world/middleeast/erdogan-turkey-cop26.html">As Turkey Chafes at Erdogan, He Gets Spikier Abroad</a> NYT: President Recep Tayyip Erdogan canceled an appearance at the global climate talks over a perceived slight, part of a pattern of creating international dramas to bolster his domestic standing. 
  <p class="updated_time"> 05:26 AM CT, Nov. 04 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-56901261?at_medium=RSS&at_campaign=KARANGA">COP26: What is the Glasgow climate conference and why is it important?</a> BBC: A crucial climate change summit is being held in the UK - this is why it's important. 
  <p class="updated_time"> 11:30 AM CT, Nov. 03 </p> 
@@ -208,6 +212,12 @@ permalink: /projects/news/
 
  <p class="updated_time"> 04:30 AM CT, Nov. 09 </p> 
  <a href="https://www.politico.com/news/2021/11/09/senate-dems-year-end-train-wreck-520275">Welcome to the Senate’s year-end to-do list: ‘It’s going to be a train wreck’</a> Politico: Ho, ho, oh no. Long nights, weekend work and threatened holidays are a Capitol tradition, and this year is likely no exception. 
+ <p class="updated_time"> 04:00 AM CT, Nov. 09 </p> 
+ <a href="https://www.nytimes.com/2021/11/09/us/politics/trucker-shortage-supply-chain.html">The Biggest Kink in America’s Supply Chain: Not Enough Truckers</a> NYT: Long hours and uncomfortable working conditions are leading to a shortage of truck drivers, which has compounded shipping delays in the United States. 
+ <p class="updated_time"> 04:00 AM CT, Nov. 09 </p> 
+ <a href="https://www.nytimes.com/2021/11/09/us/politics/sean-maloney-democrats.html">‘Free Joe Biden’: Sean Maloney on How Democrats Can Get Back on Track</a> NYT: In an interview, the leader of the House Democrats’ campaign arm acknowledged the major challenges facing the party but defended its agenda and its continued focus on Donald Trump. 
+ <p class="updated_time"> 03:00 AM CT, Nov. 09 </p> 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-09/facebook-fb-is-hard-to-quit-for-both-democratic-republican-politicians">Deleting Facebook Is Harder Than Attacking It, Lawmakers Find</a> Bloomberg: The platform has such wide reach that even its fiercest critics in Congress say they can’t disconnect. 
  <p class="updated_time"> 02:50 AM CT, Nov. 09 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-09/eu-backs-poland-as-migrant-crisis-on-belarus-border-escalates">EU Backs Poland as Migrant Crisis on Belarus Border Escalates</a> Bloomberg: The European Union threw its weight behind Poland as the bloc’s biggest eastern nation struggles with a migrant crisis at its border with Belarus. 
  <p class="updated_time"> 02:22 AM CT, Nov. 09 </p> 
@@ -334,8 +344,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/08/1053647230/u-s-and-egypt-meet-for-strategic-talks">U.S. and Egypt meet for strategic talks</a> NPR: The Biden administration often says that human rights are at the center of its foreign policy. Egypt is a big test case of that, as it and the U.S. are holding high level talks. 
  <p class="updated_time"> 03:58 PM CT, Nov. 08 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-08/romania-parties-end-years-of-rivalry-to-seek-power-fight-covid">Romanian Parties End Years of Feuding to Seek New Government</a> Bloomberg: Romania’s two biggest parties will set aside seven years of bitter conflict and start coalition talks as the nation struggles to fight the coronavirus pandemic. 
- <p class="updated_time"> 03:49 PM CT, Nov. 08 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-08/white-house-awaits-enbridge-pipeline-review-before-any-decision">White House Awaits Enbridge Pipeline Review Before Decision</a> Bloomberg: The White House said it’s waiting on a study by the U.S. Army Corps of Engineers before deciding whether to wade into a debate over the future of a controversial oil pipeline that carries Canadian oil across the Great Lakes into Michigan. 
  <p class="updated_time"> 03:46 PM CT, Nov. 08 </p> 
  <a href="https://www.politico.com/news/2021/11/08/jan-6-committee-subpoenas-trump-allies-520315">Jan. 6 committee subpoenas Trump allies linked to D.C. 'war room'</a> Politico: The latest batch targets a mix of people who worked on Donald Trump’s campaign and others who strategized how to overturn election results from the outside. 
  <p class="updated_time"> 03:20 PM CT, Nov. 08 </p> 
@@ -366,8 +374,6 @@ permalink: /projects/news/
  <a href="https://www.washingtonpost.com/politics/courts_law/judge-emmet-sullivan-ethics-allegation-laurence-silberman/2021/11/08/81d83056-400a-11ec-a3aa-0255edc02eb7_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Two judges, one courthouse and an unusual accusation of unethical conduct</a> WaPo: The federal judiciary’s ethics committee cleared Judge Emmet G. Sullivan’s participation on a panel that recommends nominees to the president to serve on D.C. courts. 
  <p class="updated_time"> 01:14 PM CT, Nov. 08 </p> 
  <a href="https://www.washingtonpost.com/politics/2021/11/08/vaccine-politics-only-worsened-partisan-divide-covid-19-deaths/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Vaccine politics only worsened the partisan divide in covid-19 deaths</a> WaPo: Vaccines didn't create the split. 
- <p class="updated_time"> 12:32 PM CT, Nov. 08 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-08/vp-harris-heads-to-paris-to-work-on-us-france-relationship">Kamala Harris Heads to Paris to Work on U.S.-France Relationship</a> Bloomberg: Vice President Kamala Harris is pitching in on the White House charm offensive aimed at French President Emmanuel Macron. 
  <p class="updated_time"> 12:30 PM CT, Nov. 08 </p> 
  <a href="https://www.washingtonpost.com/politics/2021/11/08/sobering-poll-gops-embrace-coronavirus-misinformation/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">A pollster tested 8 pieces of covid misinformation. On 6 of 8, more Republicans said they were true than false.</a> WaPo: When Republicans don't believe the misinformation, it's mostly because they are unfamiliar with the claim. 
  <p class="updated_time"> 12:30 PM CT, Nov. 08 </p> 
@@ -478,12 +484,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/06/us/politics/james-okeefe-project-veritas-ashley-biden.html">F.B.I. Searches James O’Keefe’s Home in Ashley Biden Diary Theft Inquiry</a> NYT: Authorities carried out a court-ordered search at the New York apartment of the Project Veritas founder two days after searching the homes of his associates. 
  <p class="updated_time"> 02:12 PM CT, Nov. 06 </p> 
  <a href="https://www.politico.com/news/2021/11/06/biden-vaccine-order-blocked-federal-court-519908">Federal court blocks Biden administration's vaccination mandate</a> Politico: The states of Texas, Louisiana, Mississippi, South Carolina and Utah are among the plaintiffs. 
- <p class="updated_time"> 12:54 PM CT, Nov. 06 </p> 
- <a href="https://www.nytimes.com/2021/11/06/us/politics/military-jury-cia-torture.html">Foreman Says Military Jury Was Disgusted by C.I.A. Torture</a> NYT: A Navy captain whose letter recommended clemency for a Qaeda terrorist drafted the damning two-page document in 20 minutes. 
  <p class="updated_time"> 11:01 AM CT, Nov. 06 </p> 
  <a href="https://www.politico.com/news/2021/11/06/infrastructure-bill-build-back-better-519894">How Biden’s infrastructure win falls short in one big area</a> Politico: The bill is historic in its scope with $550 billion in new money funneled into hard infrastructure, from overhauling bridges to supercharging Amtrak's most popular rail corridor in the Northeast. 
- <p class="updated_time"> 11:00 AM CT, Nov. 06 </p> 
- <a href="https://www.nytimes.com/2021/11/06/us/politics/trump-election-interference-investigation.html">In Trump Election Interference Investigation, Grand Jury Looms</a> NYT: An Atlanta D.A. is said to be likely to impanel a special grand jury in her criminal investigation of election interference by the former president and his allies. 
  <p class="updated_time"> 10:26 AM CT, Nov. 06 </p> 
  <a href="https://www.washingtonpost.com/politics/2021/11/06/what-does-infrastructure-packages-passing-mean-democrats-bigger-social-spending-bill/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">What does infrastructure package’s passing mean for the Democrats’ bigger social spending bill?</a> WaPo: A number of hurdles remain. Let's walk through them. 
  <p class="updated_time"> 10:18 AM CT, Nov. 06 </p> 
@@ -562,8 +564,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/02/dems-drug-pricing-518554">‘A massive step forward’: Democrats clinch drug pricing deal</a> Politico: The new compromise deal, which is far weaker than the original House version, has the blessing of Sen. Kyrsten Sinema. 
  <p class="updated_time"> 06:45 AM CT, Nov. 02 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/11/02/dems-on-the-hill-keep-wary-eye-on-virginia-494942">Dems on the Hill keep wary eye on Virginia</a> Politico: A play-by-play preview of the day&#39;s congressional news 
- <p class="updated_time"> 05:12 AM CT, Nov. 02 </p> 
- <a href="https://www.politico.com/newsletters/playbook/2021/11/02/youngkins-crowds-dwarf-mcauliffes-on-election-eve-494939">POLITICO Playbook: Youngkin’s crowds dwarf McAuliffe’s on election eve</a> Politico: And progressives stay the course after Joe Manchin flips them the bird. 
 
 
 </details>
