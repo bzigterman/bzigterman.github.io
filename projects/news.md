@@ -218,8 +218,14 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/09/biden-infrastructure-republicans-committee-standing-520484">Biden denounces efforts to strip Republicans who supported infrastructure of committee standing</a> Politico: “If we don’t generate consensus in America, we’re in trouble,” Biden said. 
  <p class="updated_time"> 05:54 PM CT, Nov. 09 </p> 
  <a href="https://www.politico.com/news/2021/11/09/ahmaud-arbery-slaying-trial-520498">Testimony: Ahmaud Arbery slaying defendant changed his story</a> Politico: Prosecutors say the men had no legal reason to pursue Arbery with guns. 
+ <p class="updated_time"> 05:47 PM CT, Nov. 09 </p> 
+ <a href="https://www.nytimes.com/2021/11/09/us/moderna-vaccine-patent.html">Moderna and U.S. at Odds Over Vaccine Patent Rights</a> NYT: Moderna’s patent application names several employees as the sole inventors of a crucial component of its coronavirus vaccine, excluding three government scientists. 
+ <p class="updated_time"> 05:41 PM CT, Nov. 09 </p> 
+ <a href="https://www.washingtonpost.com/politics/pelosi-calls-for-investigations-of-gosars-video-that-depicts-him-killing-ocasio-cortez/2021/11/09/5d5f3538-417e-11ec-9ea7-3eb2406a2e24_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Pelosi calls for investigations of Gosar’s video that depicts him killing Ocasio-Cortez</a> WaPo: In a tweet, the House speaker urged House Minority Leader Kevin McCarthy (R-Calif.) to support ethics and law enforcement investigations. 
  <p class="updated_time"> 05:30 PM CT, Nov. 09 </p> 
  <a href="https://www.nytimes.com/2021/11/09/us/politics/democrats-schools-voters.html">Do Democrats Have a Messaging Problem?</a> NYT: Some critics say the Democratic Party is struggling to respond to issues seized upon by conservative news media 
+ <p class="updated_time"> 05:23 PM CT, Nov. 09 </p> 
+ <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/w6dVDX-AtQ8/index.html">Max Cleland, former VA administrator and senator, dies at 79</a> CNN: Joseph "Max" Cleland, a Vietnam War veteran and former leader of the Veterans Administration whose political career spanned more than four decades, died Tuesday from congestive heart failure at his home in Atlanta, his personal assistant Linda Dean told CNN. He was 79. 
  <p class="updated_time"> 05:11 PM CT, Nov. 09 </p> 
  <a href="https://www.washingtonpost.com/politics/2021/11/09/trailer-after-virginia-republicans-see-more-ways-beat-left/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">The Trailer: After Virginia, Republicans see more ways to beat the left</a> WaPo: Republicans see blue skies ahead, the strategy behind Glenn Youngkin's winning ad campaign, and election overtime in Florida and New Jersey. 
  <p class="updated_time"> 05:10 PM CT, Nov. 09 </p> 
@@ -282,8 +288,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/09/us/politics/trucker-shortage-supply-chain.html">The Biggest Kink in America’s Supply Chain: Not Enough Truckers</a> NYT: Long hours and uncomfortable working conditions are leading to a shortage of truck drivers, which has compounded shipping delays in the United States. 
  <p class="updated_time"> 03:00 PM CT, Nov. 09 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-09/thai-court-to-decide-if-protesters-aimed-to-overthrow-monarchy">Thai Court to Decide If Protesters Aimed to Overthrow Monarchy</a> Bloomberg: Thailand’s Constitutional Court is set to rule Wednesday on whether protester demands to reform the monarchy violated a provision in the military-drafted charter that bans any move to “overthrow” the royal institution. 
- <p class="updated_time"> 02:58 PM CT, Nov. 09 </p> 
- <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/oP_DnKh_EX8/index.html">Justices struggle with religious rights of prisoners during executions</a> CNN: The Supreme Court struggled Tuesday with a Texas death row inmate's request to have his pastor "lay hands" on him and pray out loud during his eventual execution, with several justices questioning how the court can draw a line between an inmate's religious rights claims and a state's interest in security. 
  <p class="updated_time"> 02:53 PM CT, Nov. 09 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-09/u-s-lawmakers-visit-to-taiwan-inflames-tensions-with-china">U.S. Lawmakers’ Visit to Taiwan Inflames Tensions With China</a> Bloomberg: A group of American lawmakers visited Taiwan, arriving on a U.S. military plane, in a move likely to further inflame tensions between Washington and Beijing over the status of the self-governing island. 
  <p class="updated_time"> 02:53 PM CT, Nov. 09 </p> 
@@ -300,16 +304,12 @@ permalink: /projects/news/
  <a href="https://www.bloomberg.com/news/articles/2021-11-09/biden-called-walmart-ups-fedex-target-ceos-on-supply-chain">Biden Calls Walmart, UPS, FedEx, Target CEOs on Supply Chain</a> Bloomberg: President Joe Biden spoke with the chief executive officers of Walmart Inc., United Parcel Service Inc., FedEx Corp. and Target Corp. on Tuesday to discuss easing supply chain bottlenecks, according to a White House official. 
  <p class="updated_time"> 02:16 PM CT, Nov. 09 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-09/california-governor-reemerges-attributes-break-to-family-needs">California Governor Reemerges, Attributes Break to Family Needs</a> Bloomberg: California Governor Gavin Newsom made his first public appearance in almost two weeks, attributing the prolonged absence to family needs and the wishes of his children. 
- <p class="updated_time"> 02:12 PM CT, Nov. 09 </p> 
- <a href="https://www.nytimes.com/2021/11/09/us/moderna-vaccine-patent.html">Moderna and U.S. at Odds Over Vaccine Patent Rights</a> NYT: Moderna’s patent application names several employees as the sole inventors of a crucial component of its coronavirus vaccine, excluding three government scientists. 
  <p class="updated_time"> 01:55 PM CT, Nov. 09 </p> 
  <a href="https://www.washingtonpost.com/national-security/alabama-sewer-justice-investigation/2021/11/09/4a86bdce-4182-11ec-a3aa-0255edc02eb7_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Justice Dept. to investigate rural Alabama county with inadequate sewage systems</a> WaPo: Civil rights probe follows long-standing complaints of failing septic tanks and sewage backups in the mostly Black county of Lowndes. 
  <p class="updated_time"> 01:52 PM CT, Nov. 09 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/X2kfp3z5akw/index.html">Biden wanted to remind Democrats what it was like to win. Now he's aiming to capitalize on that momentum.</a> CNN: When President Joe Biden worked the phones for hours late into Friday night to push through his massive infrastructure bill, what he really wanted was to show Democrats what it felt like to win. 
  <p class="updated_time"> 01:48 PM CT, Nov. 09 </p> 
  <a href="https://www.nytimes.com/2021/11/09/us/politics/trump-officials-illegal-campaigning.html">Trump Officials Illegally Campaigned While in Office, Watchdog Finds</a> NYT: Mr. Trump’s son-in-law and his chief of staff are among those accused of violating a law designed to prevent federal employees from abusing their power. 
- <p class="updated_time"> 01:45 PM CT, Nov. 09 </p> 
- <a href="https://www.washingtonpost.com/politics/pelosi-calls-for-investigations-of-gosars-video-that-depicts-him-killing-ocasio-cortez/2021/11/09/5d5f3538-417e-11ec-9ea7-3eb2406a2e24_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Pelosi calls for investigations of Gosar’s video that depicts him killing Ocasio-Cortez</a> WaPo: In a tweet, the House speaker urged House Minority Leader Kevin McCarthy (R-Calif.) to support ethics and law enforcement investigations. 
  <p class="updated_time"> 01:42 PM CT, Nov. 09 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RbpX1YFvI5c/index.html">Public allowed to lay flowers at the Tomb of the Unknown Soldier for first time in nearly 100 years</a> CNN: For the first time in nearly a century, members of the public will be able to walk on the Tomb of the Unknown Soldier plaza and lay flowers before the sacred memorial site in Arlington National Cemetery on Tuesday and Wednesday. 
  <p class="updated_time"> 01:41 PM CT, Nov. 09 </p> 
@@ -426,8 +426,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/09/biden-hbcus-howard-university-protests-520391">Biden made huge promises to HBCUs. Can he sell its students on compromise?</a> Politico: The administration is still proposing historic funds. Kamala Harris remains a trusted alumnus. But campus life at the country’s most famous HBCU is in tumult. 
  <p class="updated_time"> 04:20 AM CT, Nov. 09 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-09/iran-backed-houthis-said-to-detain-25-yemenis-working-for-u-s">Iran-backed Houthis Detain 25 Yemenis Working for U.S.</a> Bloomberg: At least 25 Yemenis working for the U.S. in Sanaa have been detained in recent weeks by Iran-backed Houthi rebels who control the capital, according to two people familiar with the matter. 
- <p class="updated_time"> 04:14 AM CT, Nov. 09 </p> 
- <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tz6l1POatiI/index.html">These veterans swore to defend the Constitution; now they're facing jail time for the US Capitol riot</a> CNN: More than 70 current and former members of the US military, who all swore an oath to defend the Constitution, are now facing criminal charges and special attention from prosecutors for attacking their own democracy by storming the US Capitol on January 6. 
  <p class="updated_time"> 04:04 AM CT, Nov. 09 </p> 
  <a href="https://www.npr.org/2021/11/09/1053792399/morning-news-brief">News brief: Jan. 6 subpoenas, Supreme Court preview, India's climate challenge</a> NPR: The Jan. 6 House panel issues more subpoenas for ex-Trump officials. A look at  two cases before the Supreme Court Tuesday. And, India's rapid development has left it with many environmental issues. 
  <p class="updated_time"> 01:58 AM CT, Nov. 09 </p> 
@@ -458,6 +456,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/08/buffalo-mayor-progressives-dems-520327">‘It’s a disgrace’: Progressives take aim at Buffalo mayor’s DNC post</a> Politico: Establishment Dems dismiss “sour grapes” attempt to sanction mayor who defeated a democratic socialist. 
  <p class="updated_time"> 06:35 PM CT, Nov. 08 </p> 
  <a href="https://www.npr.org/2021/11/08/1053678862/milwaukee-bucks-first-nba-champions-visit-white-house-2016">The Milwaukee Bucks are the first NBA champions to visit the White House since 2016</a> NPR: Members of the Golden State Warriors and Toronto Raptors, who won recent championships, had declined to visit President Donald Trump, while the Lakers' visit was canceled because of COVID protocols. 
+ <p class="updated_time"> 05:40 PM CT, Nov. 08 </p> 
+ <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jpJpF5B53u0/index.html">January 6 committee issues 6 subpoenas to top Trump campaign associates</a> CNN: The House select committee investigating the deadly January 6 riot on Capitol Hill announced Monday it is issuing six additional subpoenas to top Trump campaign associates as it continues to seek testimony and documents from key witnesses in the sweeping probe. 
  <p class="updated_time"> 04:53 PM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/us/supreme-court-fbi-muslims.html">Supreme Court Weighs Case Against F.B.I. for Spying on Muslims</a> NYT: The justices considered whether the state secrets doctrine required dismissal on national security grounds of a case claiming religious discrimination. 
  <p class="updated_time"> 04:38 PM CT, Nov. 08 </p> 
@@ -536,8 +536,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/05/kyrsten-sinema-multi-level-marketing-labor-519661">Sinema’s raking in cash from MLMs. They want to kill her party’s labor bill.</a> Politico: The Arizona senator is one of just a few lawmakers that multilevel marketing businesses —often derided as pyramid schemes — are giving to. 
  <p class="updated_time"> 05:12 PM CT, Nov. 04 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/VD9wO6YNyms/index.html">More than 100 million American workers will need to be fully vaccinated by Jan. 4</a> CNN: The Biden administration announced Thursday that its vaccine rules applying to private businesses with 100 or more employees, certain health care workers and federal contractors will take effect January 4. 
- <p class="updated_time"> 04:46 PM CT, Nov. 04 </p> 
- <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/le0dV7UPD3s/index.html">First person of color confirmed as permanent Census Bureau director</a> CNN: The Senate voted on Thursday to confirm Robert Santos as director of the Census Bureau, making him the first person of color to hold the position in a permanent capacity. 
  <p class="updated_time"> 02:41 PM CT, Nov. 04 </p> 
  <a href="https://www.politico.com/news/2021/11/04/house-megabill-passage-manchin-last-word-519570">Manchin will get last word, even as House races to pass megabill</a> Politico: House Democratic leaders and progressives want to speed toward passage of a bill that won't have a smooth ride through the Senate. 
  <p class="updated_time"> 11:54 AM CT, Nov. 04 </p> 
