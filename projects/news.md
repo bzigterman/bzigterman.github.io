@@ -7,12 +7,14 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:14 AM CT, Nov. 09 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59172767?at_medium=RSS&at_campaign=KARANGA">Nagaenthran Dharmalingam: Family prays as man with IQ of 69 to be executed</a> BBC: The drug trafficking case has sparked a rare disquiet in Singapore where the death penalty is largely uncontroversial. 
+ <p class="updated_time"> 01:12 AM CT, Nov. 09 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59205570?at_medium=RSS&at_campaign=KARANGA">Astroworld: Travis Scott and Drake sued over deadly US festival crush</a> BBC: The rapper faces legal action after at least eight people were killed during his Astroworld festival. 
  <p class="updated_time"> 12:47 AM CT, Nov. 09 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59208301?at_medium=RSS&at_campaign=KARANGA">Hundreds of migrants at Poland-Belarus border</a> BBC: Poland says it has stopped attempts by the large group to enter the country. 
+ <a href="https://www.bbc.co.uk/news/world-europe-59208301?at_medium=RSS&at_campaign=KARANGA">Hundreds of migrants at Poland-Belarus border</a> BBC: Poland says it has stopped attempts by the large group to enter the country from Belarus. 
  <p class="updated_time"> 10:45 PM CT, Nov. 08 </p> 
  <a href="https://www.bbc.co.uk/news/business-59216504?at_medium=RSS&at_campaign=KARANGA">Evergrande: Crisis-hit developer raises more cash as new deadline looms</a> BBC: The firm faces another deadline this week to make overdue interest payments of $148m. 
- <p class="updated_time"> 10:16 PM CT, Nov. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59172767?at_medium=RSS&at_campaign=KARANGA">Nagaenthran Dharmalingam: Family prays as man with IQ of 69 to be executed</a> BBC: The drug trafficking case has sparked a rare disquiet in Singapore where the death penalty is largely uncontroversial. 
  <p class="updated_time"> 09:56 PM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/07/world/americas/nicaragua-election-ortega.html">In Nicaragua Election, Ortega Crushes Dissent</a> NYT: President Daniel Ortega quashed the opposition and struck fear in voters, all but guaranteeing his victory in a presidential contest on Sunday. 
  <p class="updated_time"> 09:53 PM CT, Nov. 08 </p> 
@@ -59,8 +61,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/08/world/middleeast/nso-israel-palestinians-spyware.html">Despite Abuses of NSO Spyware, Israel Will Lobby U.S. to Defend It</a> NYT: As a new accusation surfaces that NSO’s software may have been used to spy on Palestinians, Israeli officials say it is crucial to national security. 
  <p class="updated_time"> 03:37 PM CT, Nov. 08 </p> 
  <a href="https://www.npr.org/2021/11/08/1053647220/indigenous-activists-say-the-legacy-of-colonialism-has-limited-their-access-to-c">Indigenous activists say the legacy of colonialism has limited their access to COP-26</a> NPR: Indigenous activists from around the world are in Glasgow for COP26, but say the same legacy of colonialism that has led to climate-related losses has impacted their access to the conference. 
- <p class="updated_time"> 03:32 PM CT, Nov. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59205570?at_medium=RSS&at_campaign=KARANGA">Astroworld: Travis Scott and Drake sued over deadly US festival crush</a> BBC: The rapper faces legal action after at least eight people were killed during his Astroworld festival. 
  <p class="updated_time"> 03:24 PM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/world/americas/canada-pcr-test-border.html">Expensive Virus Test Still Hinders Canadian Travel to U.S. </a> NYT: Canada requires travelers to present the results of an expensive coronavirus test to enter, deterring short hops across the border. 
  <p class="updated_time"> 03:20 PM CT, Nov. 08 </p> 
@@ -286,6 +286,8 @@ permalink: /projects/news/
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/2pzftxfVv6Y/index.html">Josh Hawley and the 'left-wing attack on manhood'</a> CNN: No doubt about it, there's a lot to worry about in the country these days: Covid. Inflation. Poverty. Polarized politics. Democracy itself. 
  <p class="updated_time"> 05:40 PM CT, Nov. 08 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jpJpF5B53u0/index.html">January 6 committee issues 6 subpoenas to top Trump campaign associates</a> CNN: The House select committee investigating the deadly January 6 riot on Capitol Hill announced Monday it is issuing six additional subpoenas to top Trump campaign associates as it continues to seek testimony and documents from key witnesses in the sweeping probe. 
+ <p class="updated_time"> 05:35 PM CT, Nov. 08 </p> 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-08/japan-wages-eke-out-gains-for-seventh-month-in-september">Japan’s Wages Eke Out Meager Gain as Kishida Eyes Tax Breaks</a> Bloomberg: Japanese wages eked out meager gains in September, the latest indication of a weak pay trend that Prime Minister Fumio Kishida has vowed to strengthen via an upcoming stimulus package. 
  <p class="updated_time"> 05:29 PM CT, Nov. 08 </p> 
  <a href="https://www.politico.com/news/2021/11/08/shooting-victim-kyle-rittenhouse-520336">Shooting victim says he was pointing his gun at Rittenhouse</a> Politico: “I thought the defendant was an active shooter,” Gaige Grosskreutz testified. 
  <p class="updated_time"> 05:21 PM CT, Nov. 08 </p> 
@@ -398,8 +400,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/08/obama-hits-russia-china-for-absence-of-urgency-on-climate-520270">Obama hits Russia, China for 'absence of urgency' on climate</a> Politico: The former president's appearance on the sidelines of the talks is meant to remind governments of the elation that surrounded the striking of the Paris accord. 
  <p class="updated_time"> 09:21 AM CT, Nov. 08 </p> 
  <a href="https://www.washingtonpost.com/politics/interactive/2020/biden-appointee-tracker/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Tracking the political appointees Biden is nominating to fill the top roles in his administration</a> WaPo: Follow the president-elect’s progress filling nearly 800 positions, among the 1,200 that require Senate confirmation, in this tracker from The Washington Post and the Partnership for Public Service. 
- <p class="updated_time"> 08:54 AM CT, Nov. 08 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-08/murphy-campaign-urges-ciattarelli-to-concede-n-j-governor-race">Ciattarelli Won’t Concede, Keeps Door Open for N.J. Recount</a> Bloomberg: New Jersey Republican gubernatorial candidate Jack Ciattarelli, who trails incumbent Phil Murphy by more than 66,000 votes, will wait for all ballots to be tallied before deciding whether to concede or seek a recount, according to his campaign. 
  <p class="updated_time"> 08:18 AM CT, Nov. 08 </p> 
  <a href="https://www.washingtonpost.com/politics/rick-scott-sean-parnell/2021/11/08/d21bb370-4097-11ec-a3aa-0255edc02eb7_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">NRSC chair Rick Scott declines to say if Trump-backed Senate hopeful accused of strangling wife is right candidate for the job</a> WaPo: Pressed during an interview about Sean Parnell, the senator from Florida said it is not his job to endorse candidates in open primaries. Parnell has been endorsed by former president Donald Trump. 
  <p class="updated_time"> 07:20 AM CT, Nov. 08 </p> 
