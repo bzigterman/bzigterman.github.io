@@ -344,6 +344,8 @@ permalink: /projects/news/
  <a href="https://www.bloomberg.com/news/articles/2021-11-09/infrastructure-bill-sparks-return-of-u-s-debt-ceiling-concern">Debt-Ceiling Jitters Return on Terms of U.S. Infrastructure Bill</a> Bloomberg: A seemingly innocuous point in the Biden administration’s infrastructure bill has rate-market investors once again sharpening their focus on exactly when the U.S. government might breach its borrowing limit. 
  <p class="updated_time"> 11:39 AM CT, Nov. 09 </p> 
  <a href="https://www.nytimes.com/2021/11/09/us/politics/sean-maloney-democrats.html">‘Free Joe Biden’: Sean Maloney on How Democrats Can Get Back on Track</a> NYT: In an interview, the leader of the House Democrats’ campaign arm acknowledged the major challenges facing the party but defended its agenda and its continued focus on Donald Trump. 
+ <p class="updated_time"> 11:37 AM CT, Nov. 09 </p> 
+ <a href="https://www.politico.com/news/2021/11/09/max-cleland-former-va-chief-senator-dies-520419">Max Cleland, former VA chief and Georgia senator, dies</a> Politico: Cleland served one term in the U.S. Senate and as administrator of the Veterans Administration, as Georgia secretary of State and as a Georgia state senator. 
  <p class="updated_time"> 11:34 AM CT, Nov. 09 </p> 
  <a href="https://www.washingtonpost.com/politics/harris-gets-a-chance-to-burnish-her-image-on-the-world-stage-in-paris/2021/11/09/588742fe-40fb-11ec-a3aa-0255edc02eb7_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Harris gets a chance to burnish her image on the world stage in Paris</a> WaPo: Vice President Harris’s visit to a long-standing ally offers a chance for a positive narrative after uneven international trips that have been marked by setbacks. 
  <p class="updated_time"> 11:14 AM CT, Nov. 09 </p> 
@@ -516,8 +518,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/05/pentagon-biden-nuclear-weapons-519738">Pentagon bearing down on Biden to shelve nuclear reforms</a> Politico: The president has pledged to narrow the role of atomic weapons. But others cite China to argue for the status quo. 
  <p class="updated_time"> 02:35 PM CT, Nov. 05 </p> 
  <a href="https://www.politico.com/news/2021/11/05/house-democrats-infrastructure-vote-wait-megabill-519731">'Whole day was a clusterf---': Dems overcome distrust to send infrastructure bill to Biden</a> Politico: Democratic centrists and progressives reached a detente that cleared the $550 billion bipartisan legislation late Friday night and advanced their social spending package. 
- <p class="updated_time"> 02:35 PM CT, Nov. 05 </p> 
- <a href="https://www.politico.com/news/2021/11/05/house-democrats-infrastructure-vote-wait-megabill-519731">'Whole day was a clusterf---': Dems overcome distrust to send infrastructure bill to Biden</a> Politico: Democratic centrists and progressives reached a detente that cleared the $550 billion bipartisan legislation late Friday night and advanced their social spending package. 
  <p class="updated_time"> 11:36 AM CT, Nov. 05 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-YLyvPCSt34/index.html">Biden says his plans are working after October jobs report beats expectations</a> CNN: President Joe Biden touted the progress the US is making in recovering from the coronavirus pandemic, and cited his economic agenda as the reason, after the jobs recovery gathered some steam last month and employers added 531,000 positions in October. 
  <p class="updated_time"> 11:31 AM CT, Nov. 05 </p> 
@@ -538,8 +538,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/04/house-megabill-passage-manchin-last-word-519570">Manchin will get last word, even as House races to pass megabill</a> Politico: House Democratic leaders and progressives want to speed toward passage of a bill that won't have a smooth ride through the Senate. 
  <p class="updated_time"> 11:54 AM CT, Nov. 04 </p> 
  <a href="https://www.politico.com/news/2021/11/04/pelosi-domestic-agenda-519503">Pelosi amps up domestic-agenda pressure campaign, pressing Friday votes</a> Politico: Democratic leaders made headway in some areas, but key lawmakers were still drafting new language on immigration as late as 9 p.m. 
- <p class="updated_time"> 11:18 AM CT, Nov. 04 </p> 
- <a href="https://www.politico.com/news/2021/11/04/doj-kamala-harris-jan-6-519505">DOJ error highlights Jan. 6 mystery: Where was Kamala Harris during the attack?</a> Politico: The Justice Department is now moving to correct the record on her whereabouts. 
  <p class="updated_time"> 06:45 AM CT, Nov. 04 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/11/04/dems-attempt-an-end-of-week-spri-494981">Dems attempt an end-of-week sprint</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 05:13 AM CT, Nov. 04 </p> 
