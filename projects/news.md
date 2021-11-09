@@ -9,6 +9,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 03:15 AM CT, Nov. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59215769?at_medium=RSS&at_campaign=KARANGA">Belarus migrants: Poland fears armed border escalation</a> BBC: The warning comes after hundreds of migrants tried to cut a fence to enter Poland illegally. 
+ <p class="updated_time"> 02:54 AM CT, Nov. 09 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59186655?at_medium=RSS&at_campaign=KARANGA">Metallurgist admits faking steel test results for US Navy subs</a> BBC: A metallurgist has pleaded guilty to fraud after faking the results of strength tests on steel. 
  <p class="updated_time"> 02:33 AM CT, Nov. 09 </p> 
  <a href="https://www.nytimes.com/2021/11/08/world/europe/uk-brexit-estonia-business.html">Brexit Brain Drain  Delivers Financial Boon to Estonia</a> NYT: The former Soviet satellite state is welcoming British companies looking to escape the tangle of regulations and financial obstacles of doing business in Europe. 
  <p class="updated_time"> 02:01 AM CT, Nov. 09 </p> 
@@ -93,8 +95,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/08/1053608851/migrants-aided-by-belarus-try-to-push-across-polish-border">Migrants aided by Belarus try to push across Polish border</a> NPR: A large group of migrants sought to push their way over the border from Belarus into Poland. European Union leaders accuse the Belarusian government of organizing the illegal passage of migrants. 
  <p class="updated_time"> 01:47 PM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/07/world/europe/france-confession-abuse.html">French Clerical Abuse Report Puts Spotlight on Confession</a> NYT: In rare instances, it noted, the secrecy around the sacrament had been used to cover up abuse cases, again raising issues of whether church or state law should prevail. 
- <p class="updated_time"> 01:29 PM CT, Nov. 08 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-59210395?at_medium=RSS&at_campaign=KARANGA">COP26: Obama tells young people to stay angry on climate fight</a> BBC: The ex-US president calls for global unity and condemns "active hostility" towards climate science. 
  <p class="updated_time"> 01:22 PM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/us/canada-travel.html">Thousands of Canadians Head for the Southern United States Again</a> NYT: With the border opening to tourists, thousands of Canadian “snowbirds” are on their way to Florida, Arizona and California with campers in tow. 
  <p class="updated_time"> 12:10 PM CT, Nov. 08 </p> 
@@ -208,6 +208,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:30 AM CT, Nov. 09 </p> 
+ <a href="https://www.politico.com/news/2021/11/09/senate-dems-year-end-train-wreck-520275">Welcome to the Senate’s year-end to-do list: ‘It’s going to be a train wreck’</a> Politico: Ho, ho, oh no. Long nights, weekend work and threatened holidays are a Capitol tradition, and this year is likely no exception. 
  <p class="updated_time"> 02:50 AM CT, Nov. 09 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-09/eu-backs-poland-as-migrant-crisis-on-belarus-border-escalates">EU Backs Poland as Migrant Crisis on Belarus Border Escalates</a> Bloomberg: The European Union threw its weight behind Poland as the bloc’s biggest eastern nation struggles with a migrant crisis at its border with Belarus. 
  <p class="updated_time"> 02:22 AM CT, Nov. 09 </p> 
