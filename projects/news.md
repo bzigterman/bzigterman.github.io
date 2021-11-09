@@ -7,14 +7,12 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:32 PM CT, Nov. 09 </p> 
+ <a href="https://www.nytimes.com/2021/11/09/us/politics/pfizer-booster-approval-adults.html">Pfizer Asks for Authorization for Boosters for Adults</a> NYT: An advisory panel to the Food and Drug Administration voted against a similar request from Pfizer in mid-September, but the agency is considered likely to grant the request, perhaps before Thanksgiving. 
  <p class="updated_time"> 02:23 PM CT, Nov. 09 </p> 
  <a href="https://www.nytimes.com/2021/11/09/world/europe/france-macron-covid-restrictions.html">France Will Require Booster Shot for Those 65 and Older</a> NYT: President Emmanuel Macron, in a televised speech, said that older people will now have to get the shots to remain eligible for a vaccine passport. 
- <p class="updated_time"> 02:21 PM CT, Nov. 09 </p> 
- <a href="https://www.nytimes.com/2021/11/09/world/europe/france-vaccine-booster.html">Macron Announces New Vaccine Rules in France</a> NYT: Though the country has a high vaccination rate, new coronavirus cases and hospital admissions have been increasing in recent weeks. 
  <p class="updated_time"> 02:16 PM CT, Nov. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59226226?at_medium=RSS&at_campaign=KARANGA">Belarus migrants: Poland PM blames Russia's Putin for migrant crisis</a> BBC: Thousands of migrants are at the Belarus-Poland border, camping in cold and dangerous conditions. 
- <p class="updated_time"> 02:13 PM CT, Nov. 09 </p> 
- <a href="https://www.nytimes.com/2021/11/09/us/politics/pfizer-booster-approval-adults.html">Pfizer Asks for Authorization for Boosters for Adult Recipients</a> NYT: An advisory panel to the Food and Drug Administration voted against a similar request from Pfizer in mid-September, but the agency is considered likely to grant the request, perhaps before Thanksgiving. 
  <p class="updated_time"> 02:11 PM CT, Nov. 09 </p> 
  <a href="https://www.npr.org/2021/11/09/1053939195/malala-married">Malala Yousafzai, Nobel laureate and girls' education champion, gets married</a> NPR: The 24-year-old recent Oxford graduate called it "a precious day in my life" and shared a few photos of the intimate ceremony. 
  <p class="updated_time"> 01:52 PM CT, Nov. 09 </p> 
@@ -218,6 +216,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/09/dunn-capitol-police-union-jan-6-520459">Dunn jumps into race to lead Capitol Police union after post-Jan. 6 testimony</a> Politico: The 13-year veteran officer, who is Black, told lawmakers on the select committee about the trauma and racial slurs he endured during the riot. 
  <p class="updated_time"> 03:14 PM CT, Nov. 09 </p> 
  <a href="https://www.politico.com/news/2021/11/09/jan-6-panel-testimony-stephen-miller-kayleigh-mcenany-520455">Jan. 6 panel demands testimony from Stephen Miller, Kayleigh McEnany</a> Politico: Investigators are accelerating their efforts to compel testimony from key Donald Trump aides with knowledge of his efforts to overturn the 2020 election results. 
+ <p class="updated_time"> 02:32 PM CT, Nov. 09 </p> 
+ <a href="https://www.nytimes.com/2021/11/09/us/politics/pfizer-booster-approval-adults.html">Pfizer Asks for Authorization for Boosters for Adults</a> NYT: An advisory panel to the Food and Drug Administration voted against a similar request from Pfizer in mid-September, but the agency is considered likely to grant the request, perhaps before Thanksgiving. 
  <p class="updated_time"> 02:29 PM CT, Nov. 09 </p> 
  <a href="https://www.nytimes.com/2021/11/09/us/politics/jan-6-subpoena.html">House Inquiry Into Jan. 6 Issues 10 New Subpoenas</a> NYT: The panel has summoned Stephen Miller, a senior adviser to President Donald J. Trump, and several other top White House officials who witnessed his actions before and during the riot. 
  <p class="updated_time"> 02:27 PM CT, Nov. 09 </p> 
@@ -228,8 +228,6 @@ permalink: /projects/news/
  <a href="https://www.bloomberg.com/news/articles/2021-11-09/biden-called-walmart-ups-fedex-target-ceos-on-supply-chain">Biden Called Walmart, UPS, FedEx, Target CEOs on Supply Chain</a> Bloomberg: President Joe Biden spoke with the chief executive officers of Walmart Inc., United Parcel Service Inc., FedEx Corp. and Target Corp. on Tuesday to discuss easing supply chain bottlenecks, according to a White House official. 
  <p class="updated_time"> 02:16 PM CT, Nov. 09 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-09/california-governor-reemerges-attributes-break-to-family-needs">California Governor Reemerges, Attributes Break to Family Needs</a> Bloomberg: California Governor Gavin Newsom made his first public appearance in almost two weeks, attributing the prolonged absence to family needs and the wishes of his children. 
- <p class="updated_time"> 02:13 PM CT, Nov. 09 </p> 
- <a href="https://www.nytimes.com/2021/11/09/us/politics/pfizer-booster-approval-adults.html">Pfizer Asks for Authorization for Boosters for Adult Recipients</a> NYT: An advisory panel to the Food and Drug Administration voted against a similar request from Pfizer in mid-September, but the agency is considered likely to grant the request, perhaps before Thanksgiving. 
  <p class="updated_time"> 02:12 PM CT, Nov. 09 </p> 
  <a href="https://www.nytimes.com/2021/11/09/us/moderna-vaccine-patent.html">Moderna and U.S. at Odds Over Vaccine Patent Rights</a> NYT: Moderna’s patent application names several employees as the sole inventors of a crucial component of its coronavirus vaccine, excluding three government scientists. 
  <p class="updated_time"> 02:05 PM CT, Nov. 09 </p> 
