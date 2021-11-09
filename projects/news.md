@@ -212,6 +212,10 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:39 PM CT, Nov. 09 </p> 
+ <a href="https://www.nytimes.com/2021/11/09/us/politics/where-is-newsom-california.html">Where Is Gavin Newsom, California's Governor?</a> NYT: He’s in the office, according to increasingly frustrated staff members. But his critics on Twitter aren’t buying it. 
+ <p class="updated_time"> 12:36 PM CT, Nov. 09 </p> 
+ <a href="https://www.washingtonpost.com/politics/2021/11/09/year-later-an-obviously-illegal-campaign-stunt-is-determined-have-been-illegal/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">A year later, an obviously illegal campaign stunt is determined to have been illegal</a> WaPo: Relying on voluntary adherence to the law has some flaws. 
  <p class="updated_time"> 12:24 PM CT, Nov. 09 </p> 
  <a href="https://www.nytimes.com/2021/11/09/us/politics/max-cleland-dead.html">Max Cleland, Vietnam Veteran and Former Senator, Dies at 79</a> NYT: He lost both legs and an arm in the war. Republicans impugned his patriotism by linking him to Osama bin Laden in an infamous TV spot. 
  <p class="updated_time"> 12:20 PM CT, Nov. 09 </p> 
@@ -239,7 +243,7 @@ permalink: /projects/news/
  <p class="updated_time"> 11:53 AM CT, Nov. 09 </p> 
  <a href="https://www.nytimes.com/2021/11/09/us/politics/pfizer-booster-approval-adults.html">Pfizer Expected to Ask for Authorization for Boosters for All Adults</a> NYT: An advisory panel to the Food and Drug Administration voted against a similar request from Pfizer in mid-September, but the agency is considered likely to grant the request, perhaps before Thanksgiving. 
  <p class="updated_time"> 11:39 AM CT, Nov. 09 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-09/infrastructure-bill-sparks-return-of-u-s-debt-ceiling-concern">Infrastructure Bill Sparks Return of U.S. Debt-Ceiling Concern</a> Bloomberg: A seemingly innocuous point in the Biden administration’s infrastructure bill has rate-market investors once again sharpening their focus on exactly when the U.S. government might breach its borrowing limit. 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-09/infrastructure-bill-sparks-return-of-u-s-debt-ceiling-concern">Debt-Ceiling Jitters Return on Terms of U.S. Infrastructure Bill</a> Bloomberg: A seemingly innocuous point in the Biden administration’s infrastructure bill has rate-market investors once again sharpening their focus on exactly when the U.S. government might breach its borrowing limit. 
  <p class="updated_time"> 11:39 AM CT, Nov. 09 </p> 
  <a href="https://www.nytimes.com/2021/11/09/us/politics/sean-maloney-democrats.html">‘Free Joe Biden’: Sean Maloney on How Democrats Can Get Back on Track</a> NYT: In an interview, the leader of the House Democrats’ campaign arm acknowledged the major challenges facing the party but defended its agenda and its continued focus on Donald Trump. 
  <p class="updated_time"> 11:34 AM CT, Nov. 09 </p> 
@@ -296,8 +300,6 @@ permalink: /projects/news/
  <a href="https://www.bloomberg.com/news/articles/2021-11-09/cop26-host-scotland-considers-tighter-covid-rules-as-cases-jump">COP26 Host Scotland Considers Tighter Covid Rules as Cases Jump</a> Bloomberg: Scotland is looking at tightening coronavirus restrictions because of a high level of new cases as it hosts the United Nations climate summit in its largest city. 
  <p class="updated_time"> 09:19 AM CT, Nov. 09 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-09/governor-sununu-to-run-for-re-election-rather-than-seek-senate">New Hampshire Governor to Run for Re-Election Rather Than U.S. Senate</a> Bloomberg: New Hampshire Governor Chris Sununu, a Republican, said he’s seeking a fourth term rather than making a bid for the U.S. Senate in a closely-watched move that could affect the fight over control of the Senate in next year’s midterms. 
- <p class="updated_time"> 09:14 AM CT, Nov. 09 </p> 
- <a href="https://www.nytimes.com/2021/11/09/us/politics/where-is-newsom-california.html">Where Is Gavin Newsom, California's Governor?</a> NYT: He’s in the office, according to increasingly frustrated staff members. But his critics on Twitter aren’t buying it. 
  <p class="updated_time"> 08:55 AM CT, Nov. 09 </p> 
  <a href="https://www.npr.org/2021/11/09/1053847935/congress-cars-drunk-driving-auto">Congress' new mandate to carmakers: Figure out a way to stop drunk driving</a> NPR: Under the legislation, monitoring systems to stop intoxicated drivers would roll out in all new vehicles as early as 2026. "It's monumental," said Alex Otte of Mothers Against Drunk Driving. 
  <p class="updated_time"> 08:51 AM CT, Nov. 09 </p> 
@@ -444,8 +446,6 @@ permalink: /projects/news/
  <a href="https://www.bloomberg.com/news/videos/2021-11-08/balance-of-power-11-08-2021">Balance of Power (11/08/2021)</a> Bloomberg: "Bloomberg: Balance of Power" focuses on the intersection of politics and global business. Former U.S. Transportation Secretary Elaine Chao says the new infrastructure bill is like "manna from heaven" for states seeking transportation funds. Also joining is Surgere CEO Bill Wappler on how tech is helping supply-chain challenges and PWC tax principal Rohit Kumar. 
  <p class="updated_time"> 01:33 PM CT, Nov. 08 </p> 
  <a href="https://www.washingtonpost.com/politics/new-jersey-governor-concede/2021/11/08/1cec7668-409e-11ec-9ea7-3eb2406a2e24_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Democrats call on New Jersey Republican to concede gubernatorial race</a> WaPo: Republican nominee Jack Ciattarelli has refused, citing uncounted ballots, the same rationale offered by the Democratic state Senate president as he refuses to concede. 
- <p class="updated_time"> 01:27 PM CT, Nov. 08 </p> 
- <a href="https://www.washingtonpost.com/politics/courts_law/judge-emmet-sullivan-ethics-allegation-laurence-silberman/2021/11/08/81d83056-400a-11ec-a3aa-0255edc02eb7_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Two judges, one courthouse and an unusual accusation of unethical conduct</a> WaPo: The federal judiciary’s ethics committee cleared Judge Emmet G. Sullivan’s participation on a panel that recommends nominees to the president to serve on D.C. courts. 
  <p class="updated_time"> 12:30 PM CT, Nov. 08 </p> 
  <a href="https://www.washingtonpost.com/politics/2021/11/08/sobering-poll-gops-embrace-coronavirus-misinformation/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">A pollster tested 8 pieces of covid misinformation. On 6 of 8, more Republicans said they were true than false.</a> WaPo: When Republicans don't believe the misinformation, it's mostly because they are unfamiliar with the claim. 
  <p class="updated_time"> 12:02 PM CT, Nov. 08 </p> 
