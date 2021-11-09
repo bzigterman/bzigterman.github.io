@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:31 PM CT, Nov. 09 </p> 
+ <a href="https://www.nytimes.com/2021/11/09/climate/africa-fossil-fuel-gas-cop26.html">Africa's Leaders Say Rich Countries Need to Quit Oil and Gas First</a> NYT: As negotiators at the Glasgow climate talks try to agree on greenhouse gas cuts, African leaders say poorer countries can’t be expected to remake their systems as quickly as wealthy ones. 
  <p class="updated_time"> 03:18 PM CT, Nov. 09 </p> 
  <a href="https://www.npr.org/2021/11/09/1054032167/what-president-xi-jinpings-absence-from-cop26-indicates-for-chinas-climate-pledg">What President Xi Jinping's absence from COP26 indicates for China's climate pledges</a> NPR: Chinese President Xi Jinping is not attending COP26 in person. Climate analysts and activists weigh in on what his absence means for the climate pledges made by one of the top carbon-emitting nations. 
  <p class="updated_time"> 03:17 PM CT, Nov. 09 </p> 
@@ -31,8 +33,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/09/climate/alexandria-ocasio-cortez-cop26.html">‘America Is Back’ Pelosi Says at Glasgow Climate Talks</a> NYT: Representative Alexandria Ocasio-Cortez was among a group of Democratic lawmakers who traveled with Ms. Pelosi to barnstorm the COP26 climate summit. 
  <p class="updated_time"> 12:06 PM CT, Nov. 09 </p> 
  <a href="https://www.nytimes.com/2021/11/09/world/asia/india-covid-vaccinations.html">India Risks Covid-19 Complacency After Its Vaccine Campaign</a> NYT: The success represents a major victory for Narendra Modi’s government, but a recent slowdown in new vaccinations has sparked worries. 
- <p class="updated_time"> 12:00 PM CT, Nov. 09 </p> 
- <a href="https://www.nytimes.com/2021/11/09/climate/africa-fossil-fuel-gas-cop26.html">Africa's Leaders Say Rich Countries Need to Quit Oil and Gas First</a> NYT: As negotiators at the Glasgow climate talks try to agree on greenhouse gas cuts, African leaders say poorer countries can’t be expected to remake their systems as quickly as wealthy ones. 
  <p class="updated_time"> 11:33 AM CT, Nov. 09 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59225576?at_medium=RSS&at_campaign=KARANGA">Emily Ratajkowski: Told to 'get ugly' for acting roles</a> BBC: In an interview with BBC Newsnight, she also spoke about her alleged sexual assault by Robin Thicke. 
  <p class="updated_time"> 11:27 AM CT, Nov. 09 </p> 
@@ -210,6 +210,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 03:58 PM CT, Nov. 09 </p> 
  <a href="https://www.politico.com/news/2021/11/09/facebook-meta-ad-restrictions-520462">Facebook places new restrictions on ad targeting</a> Politico: The platform will limit targeting based on users' interactions with content related to health, race and other sensitive areas. 
+ <p class="updated_time"> 03:32 PM CT, Nov. 09 </p> 
+ <a href="https://www.washingtonpost.com/politics/gop-rep-fred-upton-receives-death-threats-after-voting-for-bipartisan-infrastructure-deal/2021/11/09/78fe5ac8-4195-11ec-9ea7-3eb2406a2e24_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">GOP Rep. Fred Upton receives death threats after voting for bipartisan infrastructure deal</a> WaPo: The Michigan Republican said the threats began after Rep. Marjorie Taylor Greene (R-Ga.) tweeted the names and office phone numbers of House Republicans who backed the bill. 
  <p class="updated_time"> 03:24 PM CT, Nov. 09 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UMjGkbxTqxo/index.html">January 6 committee issues 10 more subpoenas including to Stephen Miller and Kayleigh McEnany</a> CNN: The House committee investigating the deadly January 6 riot at the US Capitol announced on Tuesday a new batch of 10 subpoenas to former White House officials under President Donald Trump, as the panel charges ahead in seeking testimony and documents from witnesses relevant to its probe. 
  <p class="updated_time"> 03:18 PM CT, Nov. 09 </p> 
@@ -231,7 +233,7 @@ permalink: /projects/news/
  <p class="updated_time"> 02:53 PM CT, Nov. 09 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-09/u-s-lawmakers-visit-to-taiwan-inflames-tensions-with-china">U.S. Lawmakers’ Visit to Taiwan Inflames Tensions With China</a> Bloomberg: A group of American lawmakers visited Taiwan, arriving on a U.S. military plane, in a move likely to further inflame tensions between Washington and Beijing over the status of the self-governing island. 
  <p class="updated_time"> 02:53 PM CT, Nov. 09 </p> 
- <a href="https://www.washingtonpost.com/politics/january-6-trump-committee/2021/11/09/2bb70d22-419b-11ec-9ea7-3eb2406a2e24_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Jan. 6 committee subpoenas more Trump aides, including Miller, McEnany and McEntee</a> WaPo: The committee has sent out a series of subpoenas in recent weeks to aides and allies of former president Donald Trump as it tries to crack his inner circle as part of its investigation into the attack as well as the former president’s attempts to overturn the election results. 
+ <a href="https://www.washingtonpost.com/politics/january-6-trump-committee/2021/11/09/2bb70d22-419b-11ec-9ea7-3eb2406a2e24_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Jan. 6 committee subpoenas more Trump aides, including Miller, McEnany and McEntee</a> WaPo: The committee has sent out subpoenas in recent weeks to aides and allies of former president Donald Trump as part of its investigation into the attack as well as Trump’s attempts to overturn the election results. 
  <p class="updated_time"> 02:48 PM CT, Nov. 09 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WoNpfkk4c_s/index.html">Republican congressman posts video depicting violence against Ocasio-Cortez, Biden</a> CNN: Republican Rep. Paul Gosar posted a photoshopped anime video to his Twitter and Instagram accounts showing him appearing to kill Democratic Rep. Alexandria Ocasio-Cortez and attacking President Joe Biden. 
  <p class="updated_time"> 02:39 PM CT, Nov. 09 </p> 
@@ -412,12 +414,8 @@ permalink: /projects/news/
  <a href="https://www.bloomberg.com/news/articles/2021-11-09/amlo-replaces-high-profile-financial-crimes-chief-after-scandal">Mexico’s AMLO Replaces High-Profile Financial Crimes Chief After Scandal</a> Bloomberg: Mexico’s President Andres Manuel Lopez Obrador has replaced his high-profile financial intelligence chief after criticizing a lavish wedding thrown by the government official and his partner in Guatemala. 
  <p class="updated_time"> 10:14 PM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/us/politics/democrats-budget-bill-cuts-infrastructure.html">On Chicago’s West Side, Urgent Needs Collide With Washington Compromises</a> NYT: Activists say the needs of struggling communities in Chicago and elsewhere vastly exceed the billions Congress is spending. 
- <p class="updated_time"> 10:00 PM CT, Nov. 08 </p> 
- <a href="https://www.washingtonpost.com/politics/republicans-gosar-trump-ocasio-cortez/2021/11/08/ead37b36-40ca-11ec-9ea7-3eb2406a2e24_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Rep. Paul Gosar tweets altered anime video showing him killing Rep. Ocasio-Cortez and attacking President Biden</a> WaPo: The Arizona Republican’s tweeting of the video prompted condemnation and calls for his Twitter account to be suspended for glorification of violence. 
  <p class="updated_time"> 09:53 PM CT, Nov. 08 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-1qB-7aWcxM/index.html">Part of DC lawsuit against Trump's inaugural committee moves toward trial</a> CNN: A lawsuit filed by DC Attorney General Karl Racine accusing former President Donald Trump's 2017 Presidential Inaugural Committee of abusing non-profit funds will proceed to trial after a DC Superior Court judge ruled Monday that claims accusing the committee of overpaying for event space may move forward. 
- <p class="updated_time"> 09:45 PM CT, Nov. 08 </p> 
- <a href="https://www.washingtonpost.com/politics/house-jan-6-committee-issues-subpoenas-to-6-top-trump-advisers-including-pair-involved-in-willard-hotel-command-center/2021/11/08/6e91b0f2-40a6-11ec-a88e-2aa4632af69b_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">House Jan. 6 committee issues subpoenas to 6 top Trump advisers, including pair involved in Willard hotel ‘command center’</a> WaPo: Those subpoenaed include scholar John Eastman, author of a legal strategy to deny Biden the presidency, and former New York police commissioner Bernard Kerik. 
  <p class="updated_time"> 09:30 PM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/us/politics/jill-biden-kids-vaccine.html">Jill Biden Kicks Off Covid Vaccine Campaign for Young Children</a> NYT: The first lady and the surgeon general visited an elementary school in Virginia as part of a strategy to enlist schools in promoting the vaccine. 
  <p class="updated_time"> 09:10 PM CT, Nov. 08 </p> 
