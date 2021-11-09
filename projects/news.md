@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:55 PM CT, Nov. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59210403?at_medium=RSS&at_campaign=KARANGA">Ghislaine Maxwell to challenge accusers' memories</a> BBC: The British socialite will challenge allegations she groomed girls for Jeffrey Epstein to sexually abuse. 
  <p class="updated_time"> 05:41 PM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/climate/public-health-cop26-emissions.html">More Than 40 Nations Pledge to Cut Emissions From Their Health Industries</a> NYT: The plans, while short on specifics, represent a notable step toward cutting greenhouse gas emissions from hospitals and the health care industry, a sizable emitter globally. 
  <p class="updated_time"> 05:33 PM CT, Nov. 08 </p> 
@@ -216,6 +218,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:40 PM CT, Nov. 08 </p> 
+ <a href="https://www.politico.com/news/2021/11/08/buffalo-mayor-progressives-dems-520327">Progressives seek payback on Buffalo’s write-in mayor</a> Politico: Establishment Dems dismiss ‘sour grapes’ attempt to sanction mayor who defeated a democratic socialist. 
  <p class="updated_time"> 05:40 PM CT, Nov. 08 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jpJpF5B53u0/index.html">January 6 committee issues 6 subpoenas to top Trump campaign associates</a> CNN: The House select committee investigating the deadly January 6 riot on Capitol Hill announced Monday it is issuing six additional subpoenas to top Trump campaign associates as it continues to seek testimony and documents from key witnesses in the sweeping probe. 
  <p class="updated_time"> 05:29 PM CT, Nov. 08 </p> 
@@ -476,8 +480,6 @@ permalink: /projects/news/
  <a href="https://www.washingtonpost.com/politics/2021/11/06/what-does-infrastructure-packages-passing-mean-democrats-bigger-social-spending-bill/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">What does infrastructure package’s passing mean for the Democrats’ bigger social spending bill?</a> WaPo: A number of hurdles remain. Let's walk through them. 
  <p class="updated_time"> 10:18 AM CT, Nov. 06 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/06/how-biden-and-pelosi-saved-bif-495005">POLITICO Playbook: How Biden and Pelosi saved BIF</a> Politico: And President Joe Biden secures the biggest win of his presidency so far. 
- <p class="updated_time"> 08:19 AM CT, Nov. 06 </p> 
- <a href="https://www.politico.com/news/2021/11/06/biden-ethiopia-diplomacy-519804">Biden’s diplomacy push meets its match as Ethiopia unravels</a> Politico: U.S. officials have done almost everything in their power to try and stop the fighting. Now they're urging Americans to leave the country as rebels draw closer to the capital. 
  <p class="updated_time"> 06:00 AM CT, Nov. 06 </p> 
  <a href="https://www.politico.com/news/2021/11/06/new-york-governor-race-519790">New York governor’s race heats up, 1,600 miles away</a> Politico: The annual SOMOS conference has been one of the most important times on New York’s political calendar for decades. 
  <p class="updated_time"> 06:00 AM CT, Nov. 06 </p> 
