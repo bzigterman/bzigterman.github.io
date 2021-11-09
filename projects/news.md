@@ -29,8 +29,12 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/08/world/europe/uk-brexit-estonia-business.html">Brexit Brain Drain  Delivers Financial Boon to Estonia</a> NYT: The former Soviet satellite state is welcoming British companies looking to escape the tangle of regulations and financial obstacles of doing business in Europe. 
  <p class="updated_time"> 03:05 PM CT, Nov. 09 </p> 
  <a href="https://www.nytimes.com/2021/11/09/world/europe/poland-belarus-border-crisis.html">E.U. Blames Belarus for Migrant Crisis at Poland Border</a> NYT: Poland has massed troops at the border, the European Union’s eastern frontier, to keep migrants camped there from crossing into the country. 
+ <p class="updated_time"> 03:05 PM CT, Nov. 09 </p> 
+ <a href="https://www.nytimes.com/2021/11/09/world/europe/poland-belarus-border-crisis.html">E.U. Blames Belarus for Migrant Crisis at Poland Border</a> NYT: Poland has massed troops at the border, the European Union’s eastern frontier, to keep migrants camped there from crossing into the country. 
  <p class="updated_time"> 02:59 PM CT, Nov. 09 </p> 
  <a href="https://www.nytimes.com/2021/11/09/world/europe/england-health-workers-vaccine-mandate.html">England Will Require N.H.S. Workers to Be Vaccinated by April</a> NYT: About 80,000 to 100,000 National Health Service workers in the country remain unvaccinated against the coronavirus. 
+ <p class="updated_time"> 02:44 PM CT, Nov. 09 </p> 
+ <a href="https://www.nytimes.com/2021/11/09/world/americas/canada-pfizer-booster-adults.html">Canada Approves Pfizer Boosters for Adults</a> NYT: Some provinces have already started to offer booster shots to higher-risk populations. Tuesday’s announcement standardizes eligibility criteria nationwide. 
  <p class="updated_time"> 02:23 PM CT, Nov. 09 </p> 
  <a href="https://www.nytimes.com/2021/11/09/world/europe/france-macron-covid-restrictions.html">France Will Require Booster Shot for Those 65 and Older</a> NYT: President Emmanuel Macron, in a televised speech, said that older people will now have to get the shots to remain eligible for a vaccine passport. 
  <p class="updated_time"> 02:16 PM CT, Nov. 09 </p> 
@@ -197,10 +201,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/07/world/asia/myanmar-bill-richardson.html">Veteran U.S. Diplomat Comes Under Criticism for a Trip to Myanmar</a> NYT: Bill Richardson, a former ambassador to the U.N., said that he had held “productive” talks with the general who led the February coup. Rights activists said he gave the junta an air of legitimacy. 
  <p class="updated_time"> 04:00 AM CT, Nov. 07 </p> 
  <a href="https://www.nytimes.com/2021/11/07/science/antarctica-wildfires.html">Antarctica Was Once a Land of Fire and Not Ice</a> NYT: Charcoal recovered from a dig near the southern continent shows that the region wasn’t spared from the era scientists call a “super fire world.” 
- <p class="updated_time"> 04:00 AM CT, Nov. 07 </p> 
- <a href="https://www.nytimes.com/2021/11/07/world/asia/china-xi-jinping.html">Xi Jinping Is Rewriting China's History</a> NYT: A new official summation of Communist Party history is likely to exalt Xi Jinping as a peer of Mao and Deng, fortifying his claim to a new phase in power. 
- <p class="updated_time"> 02:00 AM CT, Nov. 07 </p> 
- <a href="https://www.nytimes.com/2021/11/07/world/asia/guam-dogcatcher.html">On Tiny Guam, It’s One Dogcatcher vs. 30,000 Strays</a> NYT: They bite, they threaten, they carry the risk of rabies. Islanders are sharply divided over what to do about the dogs. And Nicholas Ibanez is caught in the middle. 
  <p class="updated_time"> 11:30 AM CT, Nov. 03 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59054696?at_medium=RSS&at_campaign=KARANGA">COP26: What do the poorest countries want from climate summit?</a> BBC: Rich countries will get most of the attention, but developing countries are on climate change's front line. 
 
@@ -538,6 +538,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/04/house-megabill-passage-manchin-last-word-519570">Manchin will get last word, even as House races to pass megabill</a> Politico: House Democratic leaders and progressives want to speed toward passage of a bill that won't have a smooth ride through the Senate. 
  <p class="updated_time"> 11:54 AM CT, Nov. 04 </p> 
  <a href="https://www.politico.com/news/2021/11/04/pelosi-domestic-agenda-519503">Pelosi amps up domestic-agenda pressure campaign, pressing Friday votes</a> Politico: Democratic leaders made headway in some areas, but key lawmakers were still drafting new language on immigration as late as 9 p.m. 
+ <p class="updated_time"> 11:18 AM CT, Nov. 04 </p> 
+ <a href="https://www.politico.com/news/2021/11/04/doj-kamala-harris-jan-6-519505">DOJ error highlights Jan. 6 mystery: Where was Kamala Harris during the attack?</a> Politico: The Justice Department is now moving to correct the record on her whereabouts. 
  <p class="updated_time"> 06:45 AM CT, Nov. 04 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/11/04/dems-attempt-an-end-of-week-spri-494981">Dems attempt an end-of-week sprint</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 05:13 AM CT, Nov. 04 </p> 
@@ -560,8 +562,6 @@ permalink: /projects/news/
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/uFzNJyOeZ8w/index.html">Biden says he's not concerned with possibility of armed conflict with China</a> CNN: President Joe Biden said Tuesday that he is not concerned with the possibility of an armed conflict with China, adding that he's made clear to Chinese President Xi Jinping that this is "competition" not "conflict." 
  <p class="updated_time"> 06:21 PM CT, Nov. 02 </p> 
  <a href="https://www.politico.com/news/2021/11/02/josh-hawley-state-department-nominees-confirmation-518642">Josh Hawley blocks confirmation of several State Dept. nominees</a> Politico: The Republican senator, who is unhappy about the withdrawal from Afghanistan, objected to eight of the nine nominations Democrats sought to unanimously approve. 
- <p class="updated_time"> 05:43 PM CT, Nov. 02 </p> 
- <a href="https://www.politico.com/news/2021/11/02/social-spending-bill-immigration-citizenship-518606">Dems aim to squeeze immigration into social spending bill — without path to citizenship</a> Politico: There's still a distinct possibility the Senate rules referee will strike down the reform attempt Democrats are pushing into their $1.75 trillion bill. 
 
 
 </details>
