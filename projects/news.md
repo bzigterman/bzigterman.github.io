@@ -11,6 +11,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/08/us/politics/isis-military.html">Military Can’t Find ISIS Safe House That Prompted Kabul Drone Strike</a> NYT: The Pentagon’s latest admission illustrates the botched intelligence behind the strike that mistakenly killed 10 civilians in August. 
  <p class="updated_time"> 08:04 PM CT, Nov. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59216104?at_medium=RSS&at_campaign=KARANGA">California couple sue clinic for alleged IVF swap 'horror'</a> BBC: Two California couples gave birth to each others’ babies after a mix-up at a fertility clinic , a lawsuit claims. 
+ <p class="updated_time"> 07:21 PM CT, Nov. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/science-environment-59212185?at_medium=RSS&at_campaign=KARANGA">Climate change: What do scientists want from COP26 this week?</a> BBC: We asked climate experts from around the world what they want to see agreed at COP26 this week. 
  <p class="updated_time"> 07:16 PM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/insider/taliban-kabul-afghanistan-journalists.html">When the Taliban Are in Your Bedroom</a> NYT: As armed Taliban inspected the New York Times bureau in Kabul, they were escorted by a journalist who used to be a U.S. Marine. The photo of him in uniform was plain for all to see, and ponder. 
  <p class="updated_time"> 07:05 PM CT, Nov. 08 </p> 
@@ -179,8 +181,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/06/world/americas/costa-rica-covid-vaccine-children.html">Costa Rica moves to require Covid shots for children.</a> NYT: The Central American nation’s health ministry said on Friday it was adding Covid-19 to the list of required vaccinations for people 18 and younger. 
  <p class="updated_time"> 01:18 AM CT, Nov. 07 </p> 
  <a href="https://www.nytimes.com/2021/11/06/world/asia/india-fire-covid-icu.html">A fire in Covid intensive care ward kills 11 people in India.</a> NYT: Staff at the hospital in the western state of Maharashtra tried to douse the fire with fire extinguishers, but the flames spread quickly in the airtight room. 
- <p class="updated_time"> 07:39 PM CT, Nov. 06 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-59193769?at_medium=RSS&at_campaign=KARANGA">COP26: Time to sober up</a> BBC: There's been progress - but huge hurdles remain to be cleared in the final week of talks in Glasgow. 
  <p class="updated_time"> 05:54 PM CT, Nov. 06 </p> 
  <a href="https://www.nytimes.com/2021/11/05/arts/music/marilia-mendonca-dead.html">Marília Mendonça, Brazilian Pop Singer, Dies in Plane Crash at 26</a> NYT: Ms. Mendonça, who was a social media sensation with millions of followers, was iconic in a type of Brazilian country music called sertanejo. 
  <p class="updated_time"> 03:22 PM CT, Nov. 06 </p> 
@@ -216,6 +216,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:21 PM CT, Nov. 08 </p> 
+ <a href="https://www.washingtonpost.com/politics/republicans-gosar-trump-ocasio-cortez/2021/11/08/ead37b36-40ca-11ec-9ea7-3eb2406a2e24_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Rep. Paul Gosar tweets photoshopped anime video showing him killing Rep. Ocasio-Cortez and attacking President Biden</a> WaPo: The Arizona Republican’s tweeting of the video prompted condemnation and calls for his Twitter account to be suspended for glorification of violence. 
  <p class="updated_time"> 09:10 PM CT, Nov. 08 </p> 
  <a href="https://www.politico.com/news/2021/11/08/judge-claim-trumps-inaugural-committee-private-business-520380">Judge lets claim against Trump’s inaugural committee and private business move forward</a> Politico: The lawsuit filed by the District of Columbia alleges the Trump International Hotel violated Washington laws governing nonprofit organizations. 
  <p class="updated_time"> 09:01 PM CT, Nov. 08 </p> 
@@ -224,8 +226,6 @@ permalink: /projects/news/
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/6g_sHNF2f5U/index.html">Analysis: Rick Scott has no opinion about a Senate candidate accused of strangling his wife</a> CNN: The allegations are striking. 
  <p class="updated_time"> 08:50 PM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/07/health/biden-osha-vaccine-mandate.html">Biden Administration Is ‘Prepared to Defend’ Vaccine Rules, Surgeon General Said</a> NYT: The administration last week set Jan. 4 as the deadline for companies with 100 or more employees to mandate Covid vaccinations or implement weekly testing of workers. 
- <p class="updated_time"> 08:45 PM CT, Nov. 08 </p> 
- <a href="https://www.washingtonpost.com/politics/republicans-gosar-trump-ocasio-cortez/2021/11/08/ead37b36-40ca-11ec-9ea7-3eb2406a2e24_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Rep. Paul Gosar tweets photoshopped anime video showing him killing Rep. Ocasio-Cortez and attacking President Biden</a> WaPo: The Arizona Republican’s tweeting of the video prompted condemnation and calls for his Twitter account to be suspended for glorification of violence. 
  <p class="updated_time"> 08:24 PM CT, Nov. 08 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/oFZa05hzrhM/index.html">Pentagon intensifies effort to evacuate families of Defense Department service members from Afghanistan</a> CNN: The Pentagon has intensified its effort to evacuate the families of Defense Department service members and civilians from Afghanistan, creating a system to track the number of immediate family members who remain there more than two months after the US withdrawal. 
  <p class="updated_time"> 08:21 PM CT, Nov. 08 </p> 
@@ -514,8 +514,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/05/house-democrats-infrastructure-vote-wait-megabill-519731">'Whole day was a clusterf---': Dems overcome distrust to send infrastructure bill to Biden</a> Politico: Democratic centrists and progressives reached a detente that cleared the $550 billion bipartisan legislation late Friday night and advanced their social spending package. 
  <p class="updated_time"> 02:35 PM CT, Nov. 05 </p> 
  <a href="https://www.politico.com/news/2021/11/05/house-democrats-infrastructure-vote-wait-megabill-519731">'Whole day was a clusterf---': Dems overcome distrust to send infrastructure bill to Biden</a> Politico: Democratic centrists and progressives reached a detente that cleared the $550 billion bipartisan legislation late Friday night and advanced their social spending package. 
- <p class="updated_time"> 02:07 PM CT, Nov. 05 </p> 
- <a href="https://www.politico.com/news/2021/11/05/judge-rejects-comparison-between-jan-6-riot-and-george-floyd-unrest-519723">Judge rejects comparison between Jan. 6 riot and George Floyd unrest</a> Politico: 'For people to say people who participated in the protests of the summer of 2020 got no jail time, that’s not my experience in my court,' 
  <p class="updated_time"> 11:31 AM CT, Nov. 05 </p> 
  <a href="https://www.politico.com/news/2021/11/05/jeffrey-clark-doj-hill-deposition-519703">Trump DOJ official who aided effort to overturn election declines to answer Jan. 6 questions</a> Politico: The chair of the Hill select panel probing the Capitol riot said a contempt of Congress referral for Jeffrey Clark is "on the table." 
  <p class="updated_time"> 06:26 AM CT, Nov. 05 </p> 
