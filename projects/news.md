@@ -7,8 +7,14 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:16 PM CT, Nov. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59172767?at_medium=RSS&at_campaign=KARANGA">Nagaenthran Dharmalingam: Family prays as man with IQ of 69 to be executed</a> BBC: The drug trafficking case has sparked a rare disquiet in Singapore where the death penalty is largely uncontroversial. 
  <p class="updated_time"> 09:56 PM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/07/world/americas/nicaragua-election-ortega.html">In Nicaragua Election, Ortega Crushes Dissent</a> NYT: President Daniel Ortega quashed the opposition and struck fear in voters, all but guaranteeing his victory in a presidential contest on Sunday. 
+ <p class="updated_time"> 09:53 PM CT, Nov. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59216106?at_medium=RSS&at_campaign=KARANGA">Wisconsin man shot by Kyle Rittenhouse pointed a gun at him</a> BBC: A protester acknowledges in court he was advancing with gun drawn on the teen when he opened fire. 
+ <p class="updated_time"> 09:18 PM CT, Nov. 08 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-59216619?at_medium=RSS&at_campaign=KARANGA">Bhopal hospital fire: Four newborns die in neonatal unit</a> BBC: Firefighters were able to save 36 other babies as the blaze quickly engulfed the hospital. 
  <p class="updated_time"> 08:14 PM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/us/politics/isis-military.html">Military Can’t Find ISIS Safe House That Prompted Kabul Drone Strike</a> NYT: The Pentagon’s latest admission illustrates the botched intelligence behind the strike that mistakenly killed 10 civilians in August. 
  <p class="updated_time"> 08:04 PM CT, Nov. 08 </p> 
@@ -93,12 +99,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/08/world/americas/brazil-telegram-disinformation.html">Brazil’s Far-Right Disinformation Pushers Find a Safe Space on Telegram</a> NYT: In a social media ecosystem facing mounting pressure to combat fake news and polarization, Telegram is the most permissive disseminator of content — and disinformation. 
  <p class="updated_time"> 12:09 PM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/world/asia/new-zealand-ease-lockdown-restrictions.html">New Zealand's Biggest City Is to Ease Lockdown Restrictions</a> NYT: The lifting of rules comes as the country records some of its highest daily case numbers since the pandemic began. 
- <p class="updated_time"> 11:47 AM CT, Nov. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59205372?at_medium=RSS&at_campaign=KARANGA">Sierra Leone tanker explosion: Mass burial in Freetown</a> BBC: Many of the victims were burnt beyond recognition after fuel leaked and caught fire on Friday. 
  <p class="updated_time"> 11:21 AM CT, Nov. 08 </p> 
  <a href="https://www.wsj.com/articles/china-has-built-mock-ups-of-u-s-aircraft-carrier-warships-in-the-desert-11636403790">China Has Built Mock-Up of U.S. Aircraft Carrier, Warships in the Desert</a> WSJ: Satellite images indicate the People’s Liberation Army is focused on increasingly realistic training methods as tension over Taiwan rises. 
- <p class="updated_time"> 10:44 AM CT, Nov. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-59210417?at_medium=RSS&at_campaign=KARANGA">Satellite images appear to show mock-up US warships in China desert</a> BBC: Satellite photos appear to show the outlines of full-scale vessels, including an aircraft carrier. 
  <p class="updated_time"> 10:41 AM CT, Nov. 08 </p> 
  <a href="https://www.npr.org/2021/11/08/1053545667/cop26-russia-china-obama">Obama criticizes Russia and China, some of the largest emitters, at climate talks</a> NPR: "When it comes to climate, time really is running out," the former president said. Though there has been progress since the historic Paris climate agreement, "we are nowhere near where we need to be." 
  <p class="updated_time"> 10:08 AM CT, Nov. 08 </p> 
@@ -107,8 +109,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/08/world/europe/europe-us-travel-ban.html">U.S. Travel Ban Ends, and Europeans Head Overseas Again</a> NYT: Europeans were kept apart from family and friends as the ban dragged on long after E.U. leaders had opened their borders. 
  <p class="updated_time"> 09:24 AM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/06/world/europe/cop-climate-protests.html">COP26 Protesters Back an Array of Causes, Connected by Climate Change</a> NYT: Thousands gathered in the rain in Glasgow to press the case for more urgent and meaningful action by world leaders in response to global warming. 
- <p class="updated_time"> 09:10 AM CT, Nov. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59206825?at_medium=RSS&at_campaign=KARANGA">Nagaenthran Dharmalingam: Singapore halts execution of man with low IQ</a> BBC: Nagaenthran Dharmalingam was due to be hanged for trying to bring a small amount of drugs into Singapore. 
  <p class="updated_time"> 07:56 AM CT, Nov. 08 </p> 
  <a href="https://www.bbc.co.uk/news/uk-59210335?at_medium=RSS&at_campaign=KARANGA">Venus Williams: 'It's important people continue to break barriers'</a> BBC: The tennis star tells 5 Live's Rick Edwards she hopes future generations don't have to focus "on the colour of their skin". 
  <p class="updated_time"> 07:20 AM CT, Nov. 08 </p> 
@@ -145,8 +145,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/science-environment-59199484?at_medium=RSS&at_campaign=KARANGA">COP26: Fossil fuel industry has largest delegation at climate summit</a> BBC: There are more participants than from any single country, a study shared with the BBC suggests. 
  <p class="updated_time"> 06:02 PM CT, Nov. 07 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59120439?at_medium=RSS&at_campaign=KARANGA">TikTok videos humanise Colombia's cocaine workers</a> BBC: Social media videos in Colombia reveal how the people on the lowest rung of the cocaine industry work and live. 
- <p class="updated_time"> 06:02 PM CT, Nov. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59182550?at_medium=RSS&at_campaign=KARANGA">Diamonds v trees: The community trying to save its forest</a> BBC: The Madhya Pradesh state government says a new diamond mine will bring jobs but local people say their lives will be destroyed. 
  <p class="updated_time"> 04:01 PM CT, Nov. 07 </p> 
  <a href="https://www.nytimes.com/2021/11/07/world/europe/uk-virus-surge-booster-shots.html">U.K. Health Secretary Urges People to Get Boosters</a> NYT: “If we all come together and play our part, we can get through this challenging winter, avoid a return to restrictions and enjoy Christmas,” said Sajid Javid, the health secretary. 
  <p class="updated_time"> 04:00 PM CT, Nov. 07 </p> 
@@ -216,6 +214,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:14 PM CT, Nov. 08 </p> 
+ <a href="https://www.nytimes.com/2021/11/08/us/politics/democrats-budget-bill-cuts-infrastructure.html">On Chicago’s West Side, Urgent Needs Collide With Washington Compromises</a> NYT: Activists say the needs of struggling communities in Chicago and elsewhere vastly exceed the billions Congress is spending. 
  <p class="updated_time"> 10:00 PM CT, Nov. 08 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/oFZa05hzrhM/index.html">Pentagon intensifies effort to evacuate families of Defense Department service members from Afghanistan</a> CNN: The Pentagon has intensified its effort to evacuate the families of Defense Department service members and civilians from Afghanistan, creating a system to track the number of immediate family members who remain there more than two months after the US withdrawal. 
  <p class="updated_time"> 10:00 PM CT, Nov. 08 </p> 
@@ -255,7 +255,7 @@ permalink: /projects/news/
  <p class="updated_time"> 07:26 PM CT, Nov. 08 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/_zf6ZbDxpgw/josh-hawley-toxic-masculinity-mh-orig.cnn">GOP lawmaker: Men in US are treated like an illness in need of a cure</a> CNN: Sen. Josh Hawley has denounced the concept of "toxic masculinity" and has called for a return to traditional masculine roles on "Axios at HBO" and at the National Conservatism Conference. 
  <p class="updated_time"> 07:24 PM CT, Nov. 08 </p> 
- <a href="https://www.politico.com/news/2021/11/08/biden-vaccine-covid-mandate-lives-520367">Biden administration: Blocking vaccine mandate could cost hundreds of lives per day</a> Politico: The administration told a federal court that a stay of its vaccinate-or-test requirement for private employers “would likely cost dozens or even hundreds of lives per day.” 
+ <a href="https://www.politico.com/news/2021/11/08/biden-vaccine-covid-mandate-lives-520367">Biden administration: Blocking vaccine mandate could cost ‘hundreds of lives per day’</a> Politico: The administration warned a federal court of the dangers of a stay of its vaccinate-or-test requirement for private employers. 
  <p class="updated_time"> 06:58 PM CT, Nov. 08 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zyOWU6zm7vo/index.html">Biden administration will waive immigration application fees for thousands of evacuated Afghans </a> CNN: The Biden administration is planning to waive immigration-related fees for up to 70,000 Afghan evacuees as they are resettled in the United States, the Department of Homeland Security said Monday. 
  <p class="updated_time"> 06:45 PM CT, Nov. 08 </p> 
@@ -288,8 +288,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/08/us/supreme-court-fbi-muslims.html">Supreme Court Weighs Case Against F.B.I. for Spying on Muslims</a> NYT: The justices considered whether the state secrets doctrine required dismissal on national security grounds of a case claiming religious discrimination. 
  <p class="updated_time"> 04:46 PM CT, Nov. 08 </p> 
  <a href="https://www.washingtonpost.com/politics/trump-inaugural-committee-lawsuit-claim-tossed/2021/11/08/93f5f16c-40da-11ec-9ea7-3eb2406a2e24_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Judge tosses D.C. AG’s claim that Trump inaugural committee ‘wasted’ $1 million at president’s hotel</a> WaPo: The judge will allow another part of the suit, claiming the committee misused assets for the Trump family’s gain, to continue. 
- <p class="updated_time"> 04:45 PM CT, Nov. 08 </p> 
- <a href="https://www.nytimes.com/2021/11/08/us/politics/democrats-budget-bill-cuts-infrastructure.html">On Chicago’s West Side, Urgent Needs Collide With Washington Compromises</a> NYT: Activists say the needs of struggling communities in Chicago and elsewhere vastly exceed the billions Congress is spending. 
  <p class="updated_time"> 04:38 PM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/us/politics/justice-dept-ransomware.html">Justice Dept. Brings New Charges in Ransomware Attacks</a> NYT: The department said it had charged a Russian national in one attack and recovered $6.1 million in ransom. It also arrested a Ukrainian man for another attack. 
  <p class="updated_time"> 04:06 PM CT, Nov. 08 </p> 
@@ -367,7 +365,7 @@ permalink: /projects/news/
  <p class="updated_time"> 12:30 PM CT, Nov. 08 </p> 
  <a href="https://www.washingtonpost.com/politics/2021/11/08/sobering-poll-gops-embrace-coronavirus-misinformation/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">A pollster tested 8 pieces of covid misinformation. On 6 of 8, more Republicans said they were true than false.</a> WaPo: When Republicans don't believe the misinformation, it's mostly because they are unfamiliar with the claim. 
  <p class="updated_time"> 12:02 PM CT, Nov. 08 </p> 
- <a href="https://www.politico.com/news/2021/11/08/new-jerseys-midterm-carnage-520293">New Jersey’s most powerful Democratic boss predicts midterm carnage</a> Politico: George Norcross says nobody in the state predicted last week’s losses for the party. “It was just a tsunami,” he said. “Nobody saw this coming.” 
+ <a href="https://www.politico.com/news/2021/11/08/new-jerseys-midterm-carnage-520293">New Jersey’s most powerful Democratic boss predicts midterm carnage</a> Politico: George Norcross says nobody in the state predicted last week’s losses for the party. “It was just a tsunami,” he said. 
  <p class="updated_time"> 11:34 AM CT, Nov. 08 </p> 
  <a href="https://www.washingtonpost.com/world/europe/capitol-rioter-asylum-belarus/2021/11/08/fbc4eb14-4093-11ec-9404-50a28a88b9cd_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Capitol rioter Evan Neumann applies for asylum in Belarus, local media says</a> WaPo: Neumann was presented by local media as someone who was persecuted for questioning election results. 
  <p class="updated_time"> 11:30 AM CT, Nov. 08 </p> 
