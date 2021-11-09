@@ -12,7 +12,7 @@ permalink: /projects/news/
  <p class="updated_time"> 01:12 AM CT, Nov. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59205570?at_medium=RSS&at_campaign=KARANGA">Astroworld: Travis Scott and Drake sued over deadly US festival crush</a> BBC: The rapper faces legal action after at least eight people were killed during his Astroworld festival. 
  <p class="updated_time"> 12:47 AM CT, Nov. 09 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59208301?at_medium=RSS&at_campaign=KARANGA">Hundreds of migrants at Poland-Belarus border</a> BBC: Poland says it has stopped attempts by the large group to enter the country from Belarus. 
+ <a href="https://www.bbc.co.uk/news/world-europe-59208301?at_medium=RSS&at_campaign=KARANGA">Hundreds of migrants at Belarus' border with Poland</a> BBC: Poland says it has stopped attempts by the large group to enter the country from Belarus. 
  <p class="updated_time"> 10:45 PM CT, Nov. 08 </p> 
  <a href="https://www.bbc.co.uk/news/business-59216504?at_medium=RSS&at_campaign=KARANGA">Evergrande: Crisis-hit developer raises more cash as new deadline looms</a> BBC: The firm faces another deadline this week to make overdue interest payments of $148m. 
  <p class="updated_time"> 09:56 PM CT, Nov. 08 </p> 
