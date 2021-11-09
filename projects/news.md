@@ -116,7 +116,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:42 AM CT, Nov. 08 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59208188?at_medium=RSS&at_campaign=KARANGA">Festivalgoers react to the Astroworld crush</a> BBC: Travis Scott's Astroworld Festival was cancelled after eight people died following a crowd surge. 
  <p class="updated_time"> 06:23 AM CT, Nov. 08 </p> 
- <a href="https://www.wsj.com/articles/u-s-opens-borders-to-vaccinated-europeans-others-after-more-than-18-months-11636386116">U.S. Opens Borders to Vaccinated Europeans, Others, After More Than 18 Months</a> WSJ: Vaccinated non-American citizens from previously restricted countries—predominantly in Europe—are allowed to travel to the U.S. from today, if they have proof of vaccination and a negative Covid-19 test taken within the prior three days. 
+ <a href="https://www.wsj.com/articles/u-s-opens-borders-to-vaccinated-europeans-others-after-more-than-18-months-11636386116">U.S. Opens Borders to Vaccinated Europeans, Others, After More Than 18 Months</a> WSJ: Vaccinated non-American citizens from previously restricted countries—predominantly in Europe—are allowed to travel to the U.S., if they have proof of vaccination and a negative Covid-19 test taken within the prior three days. 
  <p class="updated_time"> 06:00 AM CT, Nov. 08 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59205798?at_medium=RSS&at_campaign=KARANGA">Travis Scott fans recall Astroworld panic: 'I had to get out of there'</a> BBC: Festivalgoers caught up in the crush at Astroworld, which left eight people dead, recall their fear. 
  <p class="updated_time"> 05:26 AM CT, Nov. 08 </p> 
@@ -214,6 +214,10 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:06 PM CT, Nov. 08 </p> 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-09/japan-plans-100-000-yen-in-cash-and-vouchers-to-kids-kyodo-says">Japan Plans 100,000 Yen in Cash and Vouchers to Kids, Kyodo Says</a> Bloomberg: Japanese Prime Minister Fumio Kishida’s government is planning cash and voucher handouts for children 18 and younger, responding to a campaign pledge the junior member of the ruling coalition made in the recent general election. 
+ <p class="updated_time"> 11:00 PM CT, Nov. 08 </p> 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-09/poland-warns-it-may-skip-eu-membership-fees-in-judicial-clash">Poland Warns It May Skip EU Membership Fees in Judicial Clash</a> Bloomberg: Poland accused the European Union of acting in “bad faith” in their conflict over access to 36 billion euros ($42 billion) in pandemic aid and suggested the country may stop paying its membership fees to the bloc if the situation escalates. 
  <p class="updated_time"> 10:14 PM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/us/politics/democrats-budget-bill-cuts-infrastructure.html">On Chicago’s West Side, Urgent Needs Collide With Washington Compromises</a> NYT: Activists say the needs of struggling communities in Chicago and elsewhere vastly exceed the billions Congress is spending. 
  <p class="updated_time"> 10:00 PM CT, Nov. 08 </p> 
@@ -402,8 +406,6 @@ permalink: /projects/news/
  <a href="https://www.bloomberg.com/news/articles/2021-11-08/murphy-campaign-urges-ciattarelli-to-concede-n-j-governor-race">Ciattarelli Won’t Concede, Keeps Door Open for N.J. Recount</a> Bloomberg: New Jersey Republican gubernatorial candidate Jack Ciattarelli, who trails incumbent Phil Murphy by more than 66,000 votes, will wait for all ballots to be tallied before deciding whether to concede or seek a recount, according to his campaign. 
  <p class="updated_time"> 08:18 AM CT, Nov. 08 </p> 
  <a href="https://www.washingtonpost.com/politics/rick-scott-sean-parnell/2021/11/08/d21bb370-4097-11ec-a3aa-0255edc02eb7_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">NRSC chair Rick Scott declines to say if Trump-backed Senate hopeful accused of strangling wife is right candidate for the job</a> WaPo: Pressed during an interview about Sean Parnell, the senator from Florida said it is not his job to endorse candidates in open primaries. Parnell has been endorsed by former president Donald Trump. 
- <p class="updated_time"> 08:08 AM CT, Nov. 08 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-08/no-johnson-apology-as-lobbying-furor-engulfs-his-u-k-government">Johnson Is Failing to Contain Fallout From U.K. Lobbying Scandal</a> Bloomberg: Boris Johnson is struggling to repress the U.K. backlash over his defense of a ruling party lawmaker who broke lobbying rules, as opposition leader Keir Starmer openly accused his government of being corrupt. 
  <p class="updated_time"> 07:20 AM CT, Nov. 08 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/11/08/recess-reverie-plus-huddle-restaurant-week-kicks-off-495014">Recess reverie (plus Huddle Restaurant Week kicks off)</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 07:20 AM CT, Nov. 08 </p> 
@@ -434,8 +436,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/08/1053442982/harris-will-be-the-top-u-s-official-at-a-large-gathering-of-world-leaders-in-fra">Harris will be the top U.S. official at a large gathering of world leaders in France</a> NPR: Vice President Harris heads to France, a trip where she will have face time with more than two dozen world leaders, and a chance to build up her track record on international diplomacy. 
  <p class="updated_time"> 04:01 AM CT, Nov. 08 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-08/xi-s-expanding-power-is-a-growing-risk-for-china-s-economy">Xi’s Expanding Power Is a Growing Risk for China’s Economy</a> Bloomberg: Local officials either take orders too far or become paralyzed with fear as they strive to please China’s leader.&nbsp; 
- <p class="updated_time"> 04:00 AM CT, Nov. 08 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-08/poland-warns-large-migrant-group-may-try-to-enter-from-belarus">Crisis on EU Border Heats Up as Poland Uses Tear Gas on Migrants</a> Bloomberg: The months-long humanitarian crisis on the European Union’s eastern flank escalated with Belarus-backed migrants storming barbed-wire fences on the Polish border, only to be repelled by tear gas. 
  <p class="updated_time"> 04:00 AM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/nyregion/nassau-county-republicans-election.html">Why Republicans Won in Nassau County</a> NYT: Voters readily ousted Democrats in Nassau County on Long Island, electing Republicans down the ballot. 
  <p class="updated_time"> 04:00 AM CT, Nov. 08 </p> 
