@@ -7,12 +7,12 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:15 AM CT, Nov. 09 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59215769?at_medium=RSS&at_campaign=KARANGA">Belarus migrants: Poland fears armed border escalation</a> BBC: The warning comes after hundreds of migrants tried to cut a fence to enter Poland illegally. 
  <p class="updated_time"> 02:33 AM CT, Nov. 09 </p> 
  <a href="https://www.nytimes.com/2021/11/08/world/europe/uk-brexit-estonia-business.html">Brexit Brain Drain  Delivers Financial Boon to Estonia</a> NYT: The former Soviet satellite state is welcoming British companies looking to escape the tangle of regulations and financial obstacles of doing business in Europe. 
  <p class="updated_time"> 02:01 AM CT, Nov. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59218239?at_medium=RSS&at_campaign=KARANGA">US couple on alleged IVF swap: 'Our memories of childbirth will always be tainted'</a> BBC: A California couple was given the wrong embryo by an IVF fertility clinic, according to a lawsuit. 
- <p class="updated_time"> 01:57 AM CT, Nov. 09 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59215769?at_medium=RSS&at_campaign=KARANGA">Belarus migrants: Poland fears armed border escalation</a> BBC: It comes after hundreds of migrants tried to cut a barbed-wire fence and enter Poland illegally. 
  <p class="updated_time"> 01:14 AM CT, Nov. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59172767?at_medium=RSS&at_campaign=KARANGA">Nagaenthran: Family prays for miracle to halt execution of man with low IQ</a> BBC: The drug trafficking case has sparked a rare disquiet in Singapore where the death penalty is largely uncontroversial. 
  <p class="updated_time"> 01:12 AM CT, Nov. 09 </p> 
@@ -208,8 +208,12 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:50 AM CT, Nov. 09 </p> 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-09/eu-backs-poland-as-migrant-crisis-on-belarus-border-escalates">EU Backs Poland as Migrant Crisis on Belarus Border Escalates</a> Bloomberg: The European Union threw its weight behind Poland as the bloc’s biggest eastern nation struggles with a migrant crisis at its border with Belarus. 
  <p class="updated_time"> 02:22 AM CT, Nov. 09 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-09/u-s-envoy-back-in-ethiopia-after-african-union-warns-on-crisis">U.S. Envoy Back in Ethiopia After African Union Warns on Crisis</a> Bloomberg: The U.S. special envoy to the Horn of Africa returned to Ethiopia for further talks on ending the nation’s civil war, as the African Union warned that the window of opportunity for a political solution to the conflict is narrowing. 
+ <p class="updated_time"> 02:09 AM CT, Nov. 09 </p> 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-09/indonesia-s-election-commission-sets-sights-on-polls-in-2024">Indonesia’s Election Commission Sets Sights on Polls in 2024</a> Bloomberg: Indonesia’s election commission has done simulations to hold national polls on Feb. 21, 2024, despite a lack of agreement on the date. 
  <p class="updated_time"> 02:00 AM CT, Nov. 09 </p> 
  <a href="https://www.washingtonpost.com/politics/2021/11/09/false-claim-that-only-11-percent-infrastructure-bill-goes-real-infrastructure/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">The false claim that only 11 percent of the infrastructure bill goes to ‘real infrastructure’</a> WaPo: Former president Donald Trump knocked passage of the infrastructure plan, but by the metrics he used as president, nearly 40 percent would qualify as "real infrastructure" — and the percentage could even be double that figure. 
  <p class="updated_time"> 01:45 AM CT, Nov. 09 </p> 
@@ -327,15 +331,11 @@ permalink: /projects/news/
  <p class="updated_time"> 03:59 PM CT, Nov. 08 </p> 
  <a href="https://www.npr.org/2021/11/08/1053647230/u-s-and-egypt-meet-for-strategic-talks">U.S. and Egypt meet for strategic talks</a> NPR: The Biden administration often says that human rights are at the center of its foreign policy. Egypt is a big test case of that, as it and the U.S. are holding high level talks. 
  <p class="updated_time"> 03:58 PM CT, Nov. 08 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-08/romania-parties-end-years-of-rivalry-to-seek-power-fight-covid">Romania Parties End Years of Rivalry to Seek Power, Fight Covid</a> Bloomberg: Romania’s two biggest parties, locked in a fierce rivalry over the past seven years, on Monday agreed to enter coalition-building talks as the nation struggles to fight the coronavirus pandemic. 
- <p class="updated_time"> 03:57 PM CT, Nov. 08 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-08/biden-lacks-tools-to-fix-rising-pump-prices-loathed-by-voters">Biden Faces a Political Risk in Rising Gas Prices, With Few Options to Respond</a> Bloomberg: The increase in oil and gasoline prices threatens the U.S. economic rebound and poses a political risk for President Joe Biden. But his options for taming the surge are limited, and many of them would be either short-lived or conflict with his agenda of fighting climate change. 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-08/romania-parties-end-years-of-rivalry-to-seek-power-fight-covid">Romanian Parties End Years of Feuding to Seek New Government</a> Bloomberg: Romania’s two biggest parties will set aside seven years of bitter conflict and start coalition talks as the nation struggles to fight the coronavirus pandemic. 
  <p class="updated_time"> 03:49 PM CT, Nov. 08 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-08/white-house-awaits-enbridge-pipeline-review-before-any-decision">White House Awaits Enbridge Pipeline Review Before Decision</a> Bloomberg: The White House said it’s waiting on a study by the U.S. Army Corps of Engineers before deciding whether to wade into a debate over the future of a controversial oil pipeline that carries Canadian oil across the Great Lakes into Michigan. 
  <p class="updated_time"> 03:46 PM CT, Nov. 08 </p> 
  <a href="https://www.politico.com/news/2021/11/08/jan-6-committee-subpoenas-trump-allies-520315">Jan. 6 committee subpoenas Trump allies linked to D.C. 'war room'</a> Politico: The latest batch targets a mix of people who worked on Donald Trump’s campaign and others who strategized how to overturn election results from the outside. 
- <p class="updated_time"> 03:25 PM CT, Nov. 08 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-08/biden-hails-bucks-for-championship-vaccine-outreach-and-protest">Biden Hails Bucks in First NBA White House Visit in Five Years</a> Bloomberg: President Joe Biden hosted the NBA champion Milwaukee Bucks at the White House on Monday, thanking the team for encouraging coronavirus vaccinations and for protesting the local police shooting of a Black man, Jacob Blake. 
  <p class="updated_time"> 03:20 PM CT, Nov. 08 </p> 
  <a href="https://www.npr.org/2021/11/08/1053647213/daniel-ortega-has-won-the-nicaragua-presidency-in-an-election-many-say-was-a-sha">Daniel Ortega has won the Nicaragua presidency in an election many say was a sham</a> NPR: Nicaragua's leader Daniel Ortega says he was overwhelmingly elected president for a fourth consecutive term Sunday. But critics, including leaders around the world, say the elections were a sham. 
  <p class="updated_time"> 03:20 PM CT, Nov. 08 </p> 
@@ -404,6 +404,8 @@ permalink: /projects/news/
  <a href="https://www.washingtonpost.com/politics/interactive/2020/biden-appointee-tracker/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Tracking the political appointees Biden is nominating to fill the top roles in his administration</a> WaPo: Follow the president-elect’s progress filling nearly 800 positions, among the 1,200 that require Senate confirmation, in this tracker from The Washington Post and the Partnership for Public Service. 
  <p class="updated_time"> 08:18 AM CT, Nov. 08 </p> 
  <a href="https://www.washingtonpost.com/politics/rick-scott-sean-parnell/2021/11/08/d21bb370-4097-11ec-a3aa-0255edc02eb7_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">NRSC chair Rick Scott declines to say if Trump-backed Senate hopeful accused of strangling wife is right candidate for the job</a> WaPo: Pressed during an interview about Sean Parnell, the senator from Florida said it is not his job to endorse candidates in open primaries. Parnell has been endorsed by former president Donald Trump. 
+ <p class="updated_time"> 08:08 AM CT, Nov. 08 </p> 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-08/no-johnson-apology-as-lobbying-furor-engulfs-his-u-k-government">Johnson Under Fire as U.K. Lobbying Scandal Engulfs His Tories</a> Bloomberg: Boris Johnson is struggling to repress the U.K. backlash over his defense of a ruling party lawmaker who broke lobbying rules, as his government was openly accused of corruption in Parliament and even typically friendly newspapers took aim at his ruling Conservative Party. 
  <p class="updated_time"> 07:20 AM CT, Nov. 08 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/11/08/recess-reverie-plus-huddle-restaurant-week-kicks-off-495014">Recess reverie (plus Huddle Restaurant Week kicks off)</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 07:20 AM CT, Nov. 08 </p> 
@@ -432,8 +434,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/08/democratic-senate-majority-dicey-virginia-520214">The Democratic Senate majority was already dicey. Then came Virginia.</a> Politico: A favorable map is not going to be enough to save Senate Dems. But they might get help from a few tarnished GOP candidates. 
  <p class="updated_time"> 04:06 AM CT, Nov. 08 </p> 
  <a href="https://www.npr.org/2021/11/08/1053442982/harris-will-be-the-top-u-s-official-at-a-large-gathering-of-world-leaders-in-fra">Harris will be the top U.S. official at a large gathering of world leaders in France</a> NPR: Vice President Harris heads to France, a trip where she will have face time with more than two dozen world leaders, and a chance to build up her track record on international diplomacy. 
- <p class="updated_time"> 04:01 AM CT, Nov. 08 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-08/xi-s-expanding-power-is-a-growing-risk-for-china-s-economy">Xi’s Expanding Power Is a Growing Risk for China’s Economy</a> Bloomberg: Local officials either take orders too far or become paralyzed with fear as they strive to please China’s leader.&nbsp; 
  <p class="updated_time"> 04:00 AM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/nyregion/nassau-county-republicans-election.html">Why Republicans Won in Nassau County</a> NYT: Voters readily ousted Democrats in Nassau County on Long Island, electing Republicans down the ballot. 
  <p class="updated_time"> 04:00 AM CT, Nov. 08 </p> 
