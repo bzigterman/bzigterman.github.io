@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:01 AM CT, Nov. 09 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59218239?at_medium=RSS&at_campaign=KARANGA">US couple on alleged IVF swap: 'Our memories of childbirth will always be tainted'</a> BBC: A California couple was given the wrong embryo by an IVF fertility clinic, according to a lawsuit. 
+ <p class="updated_time"> 01:57 AM CT, Nov. 09 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59215769?at_medium=RSS&at_campaign=KARANGA">Belarus migrants: Poland fears armed border escalation</a> BBC: It comes after hundreds of migrants tried to cut a barbed-wire fence and enter Poland illegally. 
  <p class="updated_time"> 01:14 AM CT, Nov. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59172767?at_medium=RSS&at_campaign=KARANGA">Nagaenthran Dharmalingam: Family prays as man with IQ of 69 to be executed</a> BBC: The drug trafficking case has sparked a rare disquiet in Singapore where the death penalty is largely uncontroversial. 
  <p class="updated_time"> 01:12 AM CT, Nov. 09 </p> 
@@ -81,8 +85,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/08/world/europe/heathrow-first-flight-us-travel-ban.html">Excited Passengers Board First Flight from Heathrow to the U.S.</a> NYT: Long lines formed at Heathrow Airport for the first scheduled trips to the United States since the Biden administration lifted a travel ban. 
  <p class="updated_time"> 02:41 PM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/world/africa/oscar-pistorius-bladerunner-parole.html">Oscar Pistorius, Olympic Runner Convicted of Murder, Is Up for Parole</a> NYT: The double-amputee sprinter has served half his sentence for killing his girlfriend. His victim’s parents were said to be “shocked” at the prospect of his release. 
- <p class="updated_time"> 02:26 PM CT, Nov. 08 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59206685?at_medium=RSS&at_campaign=KARANGA">Poland blocks hundreds of migrants at Belarus border</a> BBC: Poland has accused Belarus of encouraging people to enter the country illegally. 
  <p class="updated_time"> 02:07 PM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/travel/yadnya-kasada-volcano-ritual.html">Inside a Volcanic Ritual on the Indonesian Island of Java</a> NYT: During the Hindu ceremony of Yadnya Kasada, the Tenggerese people toss offerings — food, money, flowers, livestock — into the hazy crater of Mount Bromo. 
  <p class="updated_time"> 02:07 PM CT, Nov. 08 </p> 
@@ -151,8 +153,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/07/us/politics/afghanistan-war-marines.html">Young Marines in Kabul Were Left to Run Final Days of Evacuation</a> NYT: The young Marines in Kabul were left to determine who was evacuated from Afghanistan and who was left behind. The cost was high. 
  <p class="updated_time"> 11:29 AM CT, Nov. 07 </p> 
  <a href="https://www.nytimes.com/2021/11/06/world/middleeast/iraq-prime-minister-drone.html">Fears of Wider Instability in Iraq After Attack on Prime Minister’s Home</a> NYT: Armed drones struck the Iraqi prime minister’s home in what was seen as a warning as Iranian-backed groups dispute the results of parliamentary elections. 
- <p class="updated_time"> 10:03 AM CT, Nov. 07 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59200295?at_medium=RSS&at_campaign=KARANGA">Astroworld: Rapper Travis Scott 'devastated' after music festival deaths</a> BBC: The rapper speaks for the first time after at least eight people died after a crowd surge during his set. 
  <p class="updated_time"> 09:48 AM CT, Nov. 07 </p> 
  <a href="https://www.nytimes.com/2021/11/07/world/europe/korea-sakhalin-japan-russia.html">What’s in a Name? For the Koreans of Sakhalin, an Anguished History</a> NYT: Stranded for decades on the island in Russia’s Far East, some bear three names, Japanese, Russian and Korean, representing different historical chapters. Now, many are planning their return. 
  <p class="updated_time"> 09:09 AM CT, Nov. 07 </p> 
@@ -210,10 +210,16 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:00 AM CT, Nov. 09 </p> 
+ <a href="https://www.washingtonpost.com/politics/2021/11/09/false-claim-that-only-11-percent-infrastructure-bill-goes-real-infrastructure/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">The false claim that only 11 percent of the infrastructure bill goes to ‘real infrastructure’</a> WaPo: Former president Donald Trump knocked passage of the infrastructure plan, but by the metrics he used as president, nearly 40 percent would qualify as "real infrastructure" — and the percentage could even be double that figure. 
+ <p class="updated_time"> 01:45 AM CT, Nov. 09 </p> 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-09/american-jailed-in-russia-goes-on-hunger-strike-family-says">American Jailed in Russia Goes on Hunger Strike, Family Says</a> Bloomberg: A former U.S. marine imprisoned in Russia has gone on hunger strike to protest his conditions in jail, his family said. 
  <p class="updated_time"> 01:27 AM CT, Nov. 09 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-09/duterte-daughter-withdraws-candidacy-for-mayor-in-home-city">Duterte Daughter Withdraws Candidacy for Mayor in Home City</a> Bloomberg: Philippine President Rodrigo Duterte’s daughter Sara withdrew her re-election bid for mayor of their home city, as the deadline to finalize candidacies for national positions nears. 
  <p class="updated_time"> 01:20 AM CT, Nov. 09 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-09/germany-agrees-new-rules-to-tackle-pandemic-of-unvaccinated">Germany Agrees New Rules to Tackle ‘Pandemic of Unvaccinated’</a> Bloomberg: The three parties in talks to form the next German government agreed on a package of measures to tackle the latest surge in Covid-19 cases which seeks to avoid sweeping restrictions like school closures and curfews. 
+ <p class="updated_time"> 01:00 AM CT, Nov. 09 </p> 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-09/myanmar-court-to-hand-down-first-verdict-on-suu-kyi-next-month">Myanmar Court To Hand Down First Verdict on Suu Kyi Next Month</a> Bloomberg: A court in Myanmar will deliver a verdict on Dec. 14 for the first of several charges leveled against detained civilian leader Aung San Suu Kyi in the aftermath of a military coup, according to a person with knowledge of the situation. 
  <p class="updated_time"> 12:12 AM CT, Nov. 09 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/XYQmsjtih0w/index.html">Analysis: Covid-19 vaccine debate takes a strange turn</a> CNN: The Covid-19 vaccine debate is getting weird. On Twitter, Texas Republican Sen. Ted Cruz accused Big Bird of pushing "Government propaganda...for your 5 year old!" after the Muppet tweeted about getting the shot in his wing. 
  <p class="updated_time"> 11:44 PM CT, Nov. 08 </p> 
@@ -228,6 +234,8 @@ permalink: /projects/news/
  <a href="https://www.bloomberg.com/news/articles/2021-11-09/japan-plans-100-000-yen-in-cash-and-vouchers-to-kids-kyodo-says">Japan Plans 100,000 Yen in Cash and Vouchers to Kids, Kyodo Says</a> Bloomberg: Japanese Prime Minister Fumio Kishida’s government is planning cash and voucher handouts for children 18 and younger, responding to a campaign pledge the junior member of the ruling coalition made in the recent general election. 
  <p class="updated_time"> 11:01 PM CT, Nov. 08 </p> 
  <a href="https://www.bloomberg.com/news/features/2021-11-09/covid-vaccine-india-races-to-vaccinate-poor-suspicious-citizens-in-villages">India’s Race to Vaccinate Its Villages Meets With Rural Resistance</a> Bloomberg: In the country’s remote and desperately poor areas, suspicion of the government’s motives runs deep. 
+ <p class="updated_time"> 11:00 PM CT, Nov. 08 </p> 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-09/cop26-climate-news-scotland-s-peatlands-are-a-carbon-sink-under-threat">The Search for a Global Carbon Fix Leads to a Scottish Peat Bog</a> Bloomberg: Peatlands are natural carbon sinks, but they’re becoming carbon emitters. 
  <p class="updated_time"> 11:00 PM CT, Nov. 08 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-09/poland-warns-it-may-skip-eu-membership-fees-in-judicial-clash">Poland Warns It May Skip EU Membership Fees in Judicial Clash</a> Bloomberg: Poland accused the European Union of acting in “bad faith” in their conflict over access to 36 billion euros ($42 billion) in pandemic aid and suggested the country may stop paying its membership fees to the bloc if the situation escalates. 
  <p class="updated_time"> 10:56 PM CT, Nov. 08 </p> 
@@ -334,18 +342,14 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/08/1053647157/halfway-through-cop26-heres-what-has-happened-so-far-and-what-lies-ahead">Halfway through COP26, here's what has happened so far and what lies ahead</a> NPR: It's the second and final week of the UN climate conference in Glasgow after a weekend of protests. World leaders are expected to hammer out details on their plans to slow catastrophic global warming. 
  <p class="updated_time"> 03:16 PM CT, Nov. 08 </p> 
  <a href="https://www.npr.org/2021/11/08/1053632748/jan-6-committee-subpoenas-trump-officials-michael-flynn">Jan. 6 panel issues new wave of subpoenas for ex-Trump officials</a> NPR: Six Trump allies, including Michael Flynn and John Eastman, were issued subpoenas tied to their efforts "to overturn the results of the 2020 election," the panel said. 
- <p class="updated_time"> 03:09 PM CT, Nov. 08 </p> 
- <a href="https://www.bloomberg.com/news/videos/2021-11-08/after-600-days-u-s-reopens-to-most-travelers-video">After 600 Days, U.S. Reopens to Most Travelers</a> Bloomberg: Some 604 days after the Trump administration shut U.S. borders, a majority of international travelers are once again welcome. The U.S. will open its borders to vaccinated foreigners on Nov. 8, a White House official said, granting access to millions of people who have been shut out of the country while closing it off to anyone who hasn’t had their shots.  JLL Hotels and Hospitality CEO Gilda Perez-Alvarado talks about the recovery plans on "Bloomberg Markets." 
  <p class="updated_time"> 03:00 PM CT, Nov. 08 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-08/biden-belt-and-road-rival-to-launch-with-5-10-flagship-projects">Biden Plans Flagship Projects to Challenge China’s Belt-and-Road</a> Bloomberg: The Biden administration looks to launch a global infrastructure financing program, intended to counter China’s Belt and Road initiative, with between five and 10 flagship projects announced as soon as January, a senior U.S. official said Monday. 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-08/biden-belt-and-road-rival-to-launch-with-5-10-flagship-projects">Biden Plans Key Projects to Challenge China’s Belt-and-Road</a> Bloomberg: The Biden administration looks to launch a global infrastructure financing program, intended to counter China’s Belt and Road initiative, with between five and 10 flagship projects announced as soon as January, a senior U.S. official said Monday. 
  <p class="updated_time"> 02:56 PM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/06/us/politics/infrastructure-black-caucus-vote.html">How a $1 Trillion Infrastructure Bill Survived an Intraparty Brawl</a> NYT: Speaker Nancy Pelosi agreed to a deal proposed by the Congressional Black Caucus, mobilizing one faction of Democratic lawmakers to win over two others. 
  <p class="updated_time"> 02:52 PM CT, Nov. 08 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/8FYSx78kPO0/index.html">Supreme Court hears arguments in case brought by Muslims alleging federal government illegally spied on them</a> CNN: The Supreme Court grappled Monday with an attempt by three Muslim men to sue the federal government for hiring a confidential informant to secretly engage in electronic surveillance and gather information about Muslims in their neighborhood in violation of their religious rights. 
  <p class="updated_time"> 02:48 PM CT, Nov. 08 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/O3tKG3pCKP4/index.html">US Capitol rioter who fled to Belarus says he may seek asylum there</a> CNN: A California man who is wanted by the FBI for allegedly assaulting police officers during the US Capitol insurrection says he is considering seeking asylum in Belarus because he is the target of "political persecution," according to Belarus state television. 
- <p class="updated_time"> 02:39 PM CT, Nov. 08 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-08/capitol-riot-panel-subpoenas-trump-allies-flynn-kerik-in-probe">Capitol Riot Panel Subpoenas Trump Allies Including Flynn, Kerik, Eastman</a> Bloomberg: The House committee investigating the Jan. 6 insurrection at the U.S. Capitol has subpoenaed six campaign aides and supporters of former President Donald Trump, including former National Security adviser Michael Flynn and former New York City Police Commissioner Bernard Kerik. 
  <p class="updated_time"> 02:13 PM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/business/randal-quarles-fed.html">Randal Quarles, Fed Governor, to Resign in December</a> NYT: Mr. Quarles’s term as a governor could have stretched until 2032. His departure will give the Biden administration more room to remake the Fed. 
  <p class="updated_time"> 02:13 PM CT, Nov. 08 </p> 
@@ -370,8 +374,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/08/new-jerseys-midterm-carnage-520293">New Jersey’s most powerful Democratic boss predicts midterm carnage</a> Politico: George Norcross says nobody in the state predicted last week’s losses for the party. “It was just a tsunami,” he said. 
  <p class="updated_time"> 11:34 AM CT, Nov. 08 </p> 
  <a href="https://www.washingtonpost.com/world/europe/capitol-rioter-asylum-belarus/2021/11/08/fbc4eb14-4093-11ec-9404-50a28a88b9cd_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Capitol rioter Evan Neumann applies for asylum in Belarus, local media says</a> WaPo: Neumann was presented by local media as someone who was persecuted for questioning election results. 
- <p class="updated_time"> 11:30 AM CT, Nov. 08 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-08/biden-administration-allies-unleash-attack-on-revil-ransomware">Russia-Linked REvil Hackers Hit With Arrests by U.S., Allies</a> Bloomberg: After vowing for months to crack down on ransomware, the Biden administration and allied countries unleashed a string of actions Monday against one of the most prolific hacking groups and also issued sanctions against cryptocurrency entities that allegedly enable such attacks. 
  <p class="updated_time"> 11:10 AM CT, Nov. 08 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/cIe5qkKqmC4/index.html">Florida Gov. DeSantis officially launches 2022 reelection bid</a> CNN: Florida Gov. Ron DeSantis has officially launched his campaign for reelection, setting the stage for what is expected to be one of the country's most closely watched and expensive gubernatorial races of 2022. 
  <p class="updated_time"> 11:09 AM CT, Nov. 08 </p> 
@@ -444,8 +446,6 @@ permalink: /projects/news/
  <a href="https://www.bloomberg.com/news/articles/2021-11-08/nicaragua-leader-ortega-hits-back-during-vote-slammed-by-biden">Nicaragua’s President Wins in Landslide After Jailing His Opponents</a> Bloomberg: Nicaraguan President Daniel Ortega won a fourth consecutive term in a landslide after jailing his most popular opponents, in a vote the U.S. and the European Parliament called a farce. 
  <p class="updated_time"> 09:55 PM CT, Nov. 07 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-08/china-uses-fake-u-s-aircraft-carrier-for-target-practice">China Uses Fake U.S. Aircraft Carrier for Missile Target Practice</a> Bloomberg: The Chinese military is using mock-ups of a U.S. aircraft carrier at a weapons-testing range in a remote western desert, new satellite imagery shows, indicating the People’s Liberation Army is focused on neutralizing a key tool of U.S. power. 
- <p class="updated_time"> 06:10 PM CT, Nov. 07 </p> 
- <a href="https://www.washingtonpost.com/politics/democrats-biden-virginia-new-jersey-infrastructure/2021/11/07/d5811f7e-3e43-11ec-bfad-8283439871ec_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Democrats search for political identity amid dismal election results and legislative triumph</a> WaPo: Setbacks Tuesday in suburbs, small towns and rural communities, coupled with intraparty battles on Capitol Hill and passage of an infrastructure bill, crystallize a vexing question for the party: What does it mean to be a Democrat? 
  <p class="updated_time"> 04:01 PM CT, Nov. 07 </p> 
  <a href="https://www.npr.org/2021/11/07/1053387440/rep-ruben-gallego-talks-new-book-exploring-how-the-u-s-treats-its-veterans">Rep. Ruben Gallego talks new book exploring how the U.S. treats its veterans</a> NPR: NPR's Michel Martin speaks with Congressman Ruben Gallego about his upcoming book They Called Us "Lucky": The Life and Afterlife of the Iraq War's Hardest Hit Unit. 
  <p class="updated_time"> 03:00 PM CT, Nov. 07 </p> 
