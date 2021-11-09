@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:56 AM CT, Nov. 09 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-59218522?at_medium=RSS&at_campaign=KARANGA">Tiger King 2: Carole Baskin has 'no claim' to sue over footage - Netflix</a> BBC: Tiger King's Carole Baskin is trying to sue Netflix for using footage of her in the new series. 
  <p class="updated_time"> 05:29 AM CT, Nov. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59220074?at_medium=RSS&at_campaign=KARANGA">Peruvian family dog turns out to be a fox</a> BBC: A family who thought they had bought a dog realised their mistake after it attacked other animals. 
  <p class="updated_time"> 05:14 AM CT, Nov. 09 </p> 
@@ -33,8 +35,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59218239?at_medium=RSS&at_campaign=KARANGA">US couple on alleged IVF swap: 'Our memories of childbirth will always be tainted'</a> BBC: A California couple was given the wrong embryo by an IVF fertility clinic, according to a lawsuit. 
  <p class="updated_time"> 01:14 AM CT, Nov. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59172767?at_medium=RSS&at_campaign=KARANGA">Nagaenthran: Family prays for miracle to halt execution of man with low IQ</a> BBC: The drug trafficking case has sparked a rare disquiet in Singapore where the death penalty is largely uncontroversial. 
- <p class="updated_time"> 01:12 AM CT, Nov. 09 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59205570?at_medium=RSS&at_campaign=KARANGA">Astroworld: Travis Scott and Drake sued over deadly US festival crush</a> BBC: The rapper faces legal action after at least eight people were killed during his Astroworld festival. 
  <p class="updated_time"> 12:47 AM CT, Nov. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59208301?at_medium=RSS&at_campaign=KARANGA">Hundreds of migrants at Belarus' border with Poland</a> BBC: Poland says it has stopped attempts by the large group to enter the country from Belarus. 
  <p class="updated_time"> 11:53 PM CT, Nov. 08 </p> 
@@ -204,6 +204,10 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:24 AM CT, Nov. 09 </p> 
+ <a href="https://www.politico.com/newsletters/huddle/2021/11/09/senate-schedule-seasonally-depressing-495031">Senate schedule: seasonally depressing</a> Politico: A play-by-play preview of the day&#39;s congressional news 
+ <p class="updated_time"> 06:26 AM CT, Nov. 09 </p> 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-09/garbage-dump-becomes-latest-flashpoint-in-tunisia-s-crisis">Garbage Dump Becomes Latest Flashpoint in Tunisia’s Crisis</a> Bloomberg: Protesters set fire to a security forces building in central Tunisia, as a dispute over the reopening of a landfill morphed into some of the biggest street demonstrations to hit the North African nation since a July power grab by its president. 
  <p class="updated_time"> 06:19 AM CT, Nov. 09 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/09/a-trump-backed-senate-hopeful-takes-the-stand-495028">POLITICO Playbook: A Trump-backed Senate hopeful takes the stand</a> Politico: And the Jan. 6 committee subpoenas more Trump aides. 
  <p class="updated_time"> 06:16 AM CT, Nov. 09 </p> 
@@ -215,7 +219,7 @@ permalink: /projects/news/
  <p class="updated_time"> 05:37 AM CT, Nov. 09 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-09/harris-courts-bigger-role-on-global-stage-with-visit-to-france">Kamala Harris Courts Bigger Role on Global Stage With Visit to France</a> Bloomberg: Vice President Kamala Harris is embarking on five days of personal diplomacy in France as she aims to raise her international profile and continue healing a rift between the U.S. and its oldest ally. 
  <p class="updated_time"> 05:32 AM CT, Nov. 09 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-09/orban-to-lock-in-prosecutor-ally-before-close-hungarian-election">Orban to Lock In Prosecutor Ally Before Close Hungarian Election</a> Bloomberg: Hungarian Prime Minister Viktor Orban is moving to lock in another close ally in a key position before general elections where a resurgent opposition is looking to roll back his consolidation of power. 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-09/orban-to-lock-in-prosecutor-ally-before-close-hungarian-election">Orban Locks In Prosecutor Ally Before Close Hungary Election</a> Bloomberg: Hungarian Prime Minister Viktor Orban moved to lock in another close ally in a key position before general elections where a resurgent opposition is looking to roll back his consolidation of power. 
  <p class="updated_time"> 05:09 AM CT, Nov. 09 </p> 
  <a href="https://www.bloomberg.com/news/newsletters/2021-11-09/putin-s-latest-troublemaking-worries-the-west">Putin’s Latest Troublemaking Worries the West</a> Bloomberg: The West is asking itself once again &mdash; what does Vladimir Putin want? 
  <p class="updated_time"> 05:06 AM CT, Nov. 09 </p> 
@@ -300,8 +304,6 @@ permalink: /projects/news/
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/-1qB-7aWcxM/index.html">Part of DC lawsuit against Trump's inaugural committee moves toward trial</a> CNN: A lawsuit filed by DC Attorney General Karl Racine accusing former President Donald Trump's 2017 Presidential Inaugural Committee of abusing non-profit funds will proceed to trial after a DC Superior Court judge ruled Monday that claims accusing the committee of overpaying for event space may move forward. 
  <p class="updated_time"> 09:45 PM CT, Nov. 08 </p> 
  <a href="https://www.washingtonpost.com/politics/house-jan-6-committee-issues-subpoenas-to-6-top-trump-advisers-including-pair-involved-in-willard-hotel-command-center/2021/11/08/6e91b0f2-40a6-11ec-a88e-2aa4632af69b_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">House Jan. 6 committee issues subpoenas to 6 top Trump advisers, including pair involved in Willard hotel ‘command center’</a> WaPo: Those subpoenaed include scholar John Eastman, author of a legal strategy to deny Biden the presidency, and former New York police commissioner Bernard Kerik. 
- <p class="updated_time"> 09:38 PM CT, Nov. 08 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-09/china-s-covid-zero-turns-more-elusive-as-symptom-free-cases-grow">China’s Growing Symptom-Free Cases Make Covid Zero More Elusive</a> Bloomberg: China reported more Covid-19 infections in people who exhibited no symptoms on Tuesday than in those who were actively suffering from the virus, showing the challenge it faces in continuing to try and eliminate the highly infectious and insidious pathogen. 
  <p class="updated_time"> 09:30 PM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/us/politics/jill-biden-kids-vaccine.html">Jill Biden Kicks Off Covid Vaccine Campaign for Young Children</a> NYT: The first lady and the surgeon general visited an elementary school in Virginia as part of a strategy to enlist schools in promoting the vaccine. 
  <p class="updated_time"> 09:30 PM CT, Nov. 08 </p> 
