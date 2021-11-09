@@ -208,6 +208,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:22 AM CT, Nov. 09 </p> 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-09/u-s-envoy-back-in-ethiopia-after-african-union-warns-on-crisis">U.S. Envoy Back in Ethiopia After African Union Warns on Crisis</a> Bloomberg: The U.S. special envoy to the Horn of Africa returned to Ethiopia for further talks on ending the nation’s civil war, as the African Union warned that the window of opportunity for a political solution to the conflict is narrowing. 
  <p class="updated_time"> 02:00 AM CT, Nov. 09 </p> 
  <a href="https://www.washingtonpost.com/politics/2021/11/09/false-claim-that-only-11-percent-infrastructure-bill-goes-real-infrastructure/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">The false claim that only 11 percent of the infrastructure bill goes to ‘real infrastructure’</a> WaPo: Former president Donald Trump knocked passage of the infrastructure plan, but by the metrics he used as president, nearly 40 percent would qualify as "real infrastructure" — and the percentage could even be double that figure. 
  <p class="updated_time"> 01:45 AM CT, Nov. 09 </p> 
@@ -442,8 +444,6 @@ permalink: /projects/news/
  <a href="https://www.washingtonpost.com/politics/2021/11/08/battle-over-bidens-child-tax-credit-its-impact-poverty-workers/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">The battle over Biden’s child tax credit and its impact on poverty and workers</a> WaPo: A fierce dispute has erupted among economists about whether the president's child-tax credit expansion will cause parents to stop working. We explain the debate. 
  <p class="updated_time"> 11:10 PM CT, Nov. 07 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-08/nicaragua-leader-ortega-hits-back-during-vote-slammed-by-biden">Nicaragua’s President Wins in Landslide After Jailing His Opponents</a> Bloomberg: Nicaraguan President Daniel Ortega won a fourth consecutive term in a landslide after jailing his most popular opponents, in a vote the U.S. and the European Parliament called a farce. 
- <p class="updated_time"> 09:55 PM CT, Nov. 07 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-08/china-uses-fake-u-s-aircraft-carrier-for-target-practice">China Uses Fake U.S. Aircraft Carrier for Missile Target Practice</a> Bloomberg: The Chinese military is using mock-ups of a U.S. aircraft carrier at a weapons-testing range in a remote western desert, new satellite imagery shows, indicating the People’s Liberation Army is focused on neutralizing a key tool of U.S. power. 
  <p class="updated_time"> 04:01 PM CT, Nov. 07 </p> 
  <a href="https://www.npr.org/2021/11/07/1053387440/rep-ruben-gallego-talks-new-book-exploring-how-the-u-s-treats-its-veterans">Rep. Ruben Gallego talks new book exploring how the U.S. treats its veterans</a> NPR: NPR's Michel Martin speaks with Congressman Ruben Gallego about his upcoming book They Called Us "Lucky": The Life and Afterlife of the Iraq War's Hardest Hit Unit. 
  <p class="updated_time"> 03:00 PM CT, Nov. 07 </p> 
