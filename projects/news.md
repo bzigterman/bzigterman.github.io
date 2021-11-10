@@ -7,8 +7,20 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:20 PM CT, Nov. 10 </p> 
+ <p class="updated_time"> 03:37 PM CT, Nov. 10 </p> 
+ <a href="https://www.npr.org/2021/11/10/1054428150/tunisia-is-seeing-political-changes-and-some-fear-its-a-path-back-to-dictatorshi">Tunisia is seeing political changes, and some fear it's a path back to dictatorship</a> NPR: While most Tunisians were glad to see their president dissolve the quarrelsome, ineffective parliament and take extra powers, some worry Tunisia could be repeating a path to dictatorship. 
+ <p class="updated_time"> 03:37 PM CT, Nov. 10 </p> 
+ <a href="https://www.npr.org/2021/11/10/1054428143/shipping-containers-cant-be-emptied-and-refilled-fast-enough-to-keep-up-with-dem">Shipping containers can't be emptied and refilled fast enough to keep up with demand</a> NPR: Shipping containers aren't much more than steel boxes. But they have become increasingly valuable during the worldwide supply chain crisis. 
+ <p class="updated_time"> 03:32 PM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/live/2021/11/10/world/poland-belarus-border-migrants">Live Updates: Crisis on Europe’s Eastern Flank Deepens as Tension Escalates at Polish Border</a> NYT: Western officials accuse the leader of Belarus of sending migrants to E.U. borders as retaliation for sanctions. E.U. officials expressed support for Poland. Lithuania, which also borders Belarus, declared a state of emergency. 
+ <p class="updated_time"> 03:29 PM CT, Nov. 10 </p> 
+ <a href="https://www.npr.org/2021/11/10/1054428122/loved-ones-from-around-the-world-are-finally-reuniting-with-u-s-restrictions-lif">Loved ones from around the world are finally reuniting with U.S. restrictions lifted</a> NPR: Airports across the country have been the scenes of many emotional reunions since Monday, when the U.S. lifted COVID-related travel restrictions for many countries. 
+ <p class="updated_time"> 03:29 PM CT, Nov. 10 </p> 
+ <a href="https://www.nytimes.com/2021/11/10/world/europe/migrants-fly-iraq-belarus.html">Surge in Flights to Belarus Fuels Migrant Buildup at Polish Border</a> NYT: A spike in air travel from the Middle East to Belarus points to a concerted effort to funnel migrant toward the European Union, E.U. officials say. 
+ <p class="updated_time"> 03:29 PM CT, Nov. 10 </p> 
+ <a href="https://www.npr.org/2021/11/10/1054428129/activists-from-low-lying-nations-vulnerable-to-rising-seas-demand-action-at-cop2">Activists from low-lying nations — vulnerable to rising seas — demand action at COP26</a> NPR: Low-lying islands and nations are among those most at risk from rising sea levels, and have been sounding the alarm on the need for action by wealthier nations to limit global warming for years. 
+ <p class="updated_time"> 03:27 PM CT, Nov. 10 </p> 
+ <a href="https://www.nytimes.com/2021/11/10/world/europe/kamala-harris-emmanuel-macron-france-us-sub-snub.html">Harris Meets Macron, Signaling a ‘New Era’ After Sub Snub, Both Say</a> NYT: In her vague assignment abroad, the vice president seems to be emphasizing that the U.S.-France relationship is about looking forward, in the wake of an embarrassing diplomatic spat. 
  <p class="updated_time"> 03:20 PM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/world/europe/why-migrants-go-belarus.html">Why Are Migrants in Belarus Heading to the E.U.?</a> NYT: Iraqis and Syrians making the expensive and perilous journey to Belarus, hoping to get into the European Union, say they’ve lost hope for a future at home. 
  <p class="updated_time"> 03:15 PM CT, Nov. 10 </p> 
@@ -51,8 +63,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/10/world/asia/vietnam-communist-gold-steak-salt-bae.html">Video of Salt Bae Serving Communist Leader Gold Steak Prompts Anger in Vietnam</a> NYT: A celebrity chef showed the meal in a TikTok video, now removed, that angered people in Vietnam. Facebook said it was investigating why the chef’s hashtag was blocked from its site. 
  <p class="updated_time"> 12:52 PM CT, Nov. 10 </p> 
  <a href="https://www.npr.org/2021/11/10/1054339705/taliban-military-pilots-amnesty">A Taliban official urges ex-Afghan military pilots to stay, protected by an amnesty</a> NPR: A government spokesman's assurances came after dozens of U.S.-trained Afghan pilots were evacuated from Tajikistan in a U.S.-brokered deal, months after they sought refuge from the Taliban there. 
- <p class="updated_time"> 12:37 PM CT, Nov. 10 </p> 
- <a href="https://www.nytimes.com/2021/11/10/world/europe/migrants-fly-iraq-belarus.html">Surge in Flights to Belarus Fuels Migrant Buildup at Polish Border</a> NYT: A spike in air travel from the Middle East to Belarus points to a concerted effort to funnel migrant toward the European Union, E.U. officials say. 
  <p class="updated_time"> 12:34 PM CT, Nov. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59237413?at_medium=RSS&at_campaign=KARANGA">Belarus accused of state terrorism over migrant crisis</a> BBC: Poland's prime minister says Belarus is flying in migrants and sending them to the border. 
  <p class="updated_time"> 12:27 PM CT, Nov. 10 </p> 
@@ -123,8 +133,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/science-environment-56901261?at_medium=RSS&at_campaign=KARANGA">What is COP26 and what was agreed at Glasgow climate conference?</a> BBC: A crucial climate change summit is being held in the UK - this is why it's important. 
  <p class="updated_time"> 05:03 AM CT, Nov. 10 </p> 
  <a href="https://www.wsj.com/articles/russia-sends-warplanes-to-belarus-amid-fight-with-eu-over-migrants-11636560216">Russia Sends Warplanes to Belarus Amid Fight With EU Over Migrants</a> WSJ: The deployment of strategic bombers to Belarus’s airspace comes as tensions build between Belarus and Poland over a surge of migrants at their shared border and the positioning of several thousand Polish troops on the European Union’s eastern flank. 
- <p class="updated_time"> 04:08 AM CT, Nov. 10 </p> 
- <a href="https://www.npr.org/sections/goatsandsoda/2021/11/10/1052926511/this-kenyan-family-got-solar-power-high-level-climate-talks-determine-who-else-w">This Kenyan family got solar power. High-level climate talks determine who else will</a> NPR: Last month, the Muisyo family turned on the lights for the first time thanks to climate financing from rich countries. But the fund is falling short of its $100 billion goal to help poor countries. 
  <p class="updated_time"> 04:00 AM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/world/asia/taiwan-europe-china.html">Europe, Taiwan Inch Closer as Distrust of Beijing Grows</a> NYT: Talks between European lawmakers and Taiwanese officials point to Europe’s increasing willingness to strengthen relations, despite Beijing’s threats. 
  <p class="updated_time"> 03:44 AM CT, Nov. 10 </p> 
@@ -155,14 +163,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/business-59163278?at_medium=RSS&at_campaign=KARANGA">Shein: The secretive Chinese brand dressing Gen Z</a> BBC: Shein's popularity has shot up during the pandemic, targeting young shoppers with low-cost products. 
  <p class="updated_time"> 04:12 PM CT, Nov. 09 </p> 
  <a href="https://www.nytimes.com/2021/11/09/world/europe/france-vaccine-booster.html">Macron announces a new vaccine rule for people 65 or older in France.</a> NYT: Though the country has a high vaccination rate, new coronavirus cases and hospital admissions have been increasing in recent weeks. 
- <p class="updated_time"> 04:06 PM CT, Nov. 09 </p> 
- <a href="https://www.npr.org/2021/11/09/1054032279/ugandas-vanessa-nakate-says-cop26-sidelines-nations-most-affected-by-climate-cha">Uganda's Vanessa Nakate says COP26 sidelines nations most affected by climate change</a> NPR: NPR's Ari Shapiro speaks with climate activist Vanessa Nakate of Uganda about her goals in bringing the needs of the global south to the fore at the United Nations climate change conference, COP26. 
  <p class="updated_time"> 04:05 PM CT, Nov. 09 </p> 
  <a href="https://www.nytimes.com/2021/11/09/world/asia/pakistan-taliban-cease-fire.html">Pakistan Reaches Cease-Fire With Resurgent Taliban Militants</a> NYT: The Pakistani government said it would offer amnesty for insurgents who are willing to disarm. 
- <p class="updated_time"> 03:59 PM CT, Nov. 09 </p> 
- <a href="https://www.npr.org/2021/11/09/1054032251/poland-is-trying-to-curb-an-influx-of-migrants-being-assisted-by-belarus">Poland is trying to curb an influx of migrants being assisted by Belarus</a> NPR: Poland is sending more troops to its border with Belarus. Thousands of migrants are trying to cross the frontier there, apparently at the instigation of the Belarusian regime. 
- <p class="updated_time"> 03:50 PM CT, Nov. 09 </p> 
- <a href="https://www.npr.org/2021/11/09/1054032223/europe-is-moving-away-from-fossil-fuels-after-being-dependent-on-russia-for-deca">Europe is moving away from fossil fuels, after being dependent on Russia for decades</a> NPR: Russia is being held responsible by many western leaders for the sharp increase in natural gas prices in Europe. The view from Moscow is rather different. 
  <p class="updated_time"> 02:44 PM CT, Nov. 09 </p> 
  <a href="https://www.nytimes.com/2021/11/09/world/americas/canada-pfizer-booster-adults.html">Canada Approves Pfizer Boosters for Adults</a> NYT: Some provinces have already started to offer booster shots to higher-risk populations. Tuesday’s announcement standardizes eligibility criteria nationwide. 
  <p class="updated_time"> 02:23 PM CT, Nov. 09 </p> 
@@ -189,10 +191,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/business-59119693?at_medium=RSS&at_campaign=KARANGA">Climate change: Seven ways to spot businesses greenwashing</a> BBC: Firms often claim they are eco-friendly but how can you check they are as green as they make out? 
  <p class="updated_time"> 05:41 PM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/climate/emissions-climate-change.html">More Than 40 Nations Pledge to Cut Emissions From Their Health Industries</a> NYT: The plans, while short on specifics, represent a notable step toward cutting greenhouse gas emissions from hospitals and the health care industry, a sizable emitter globally. 
- <p class="updated_time"> 03:24 PM CT, Nov. 08 </p> 
- <a href="https://www.nytimes.com/2021/11/08/world/americas/canada-pcr-test-border.html">Expensive P.C.R. Test Still Hinders Canadian Travel to U.S. </a> NYT: Canada requires travelers to present the results of an expensive coronavirus test to enter, deterring short hops across the border. 
- <p class="updated_time"> 02:41 PM CT, Nov. 08 </p> 
- <a href="https://www.nytimes.com/2021/11/08/world/africa/oscar-pistorius-bladerunner-parole.html">Oscar Pistorius, Olympic Runner Convicted of Murder, Is Up for Parole</a> NYT: The double-amputee sprinter has served half his sentence for killing his girlfriend. His victim’s parents were said to be “shocked” at the prospect of his release. 
 
 
 </details>
@@ -202,14 +200,18 @@ permalink: /projects/news/
 
  <p class="updated_time"> 03:49 PM CT, Nov. 10 </p> 
  <a href="https://www.politico.com/news/2021/11/10/biden-xi-virtual-summit-520609">Biden-Xi virtual summit tentatively set for Monday</a> Politico: The long-anticipated meeting aims to reset strained bilateral ties. 
+ <p class="updated_time"> 03:35 PM CT, Nov. 10 </p> 
+ <a href="https://www.nytimes.com/2021/11/10/us/politics/republicans-backlash-infrastructure-bill.html">13 Republicans Face Backlash for Backing Infrastructure Bill</a> NYT: The 13 Republican lawmakers who broke with their party to support a $1 trillion bipartisan public works bill have drawn anger and threats from their colleagues and constituents. 
  <p class="updated_time"> 03:34 PM CT, Nov. 10 </p> 
  <a href="https://www.politico.com/news/2021/11/10/trump-era-scam-pac-indictment-520610">They raised millions for Trump. Spent barely any of it on him. Now they’re indicted.</a> Politico: The feds just threw the book at one of the ultimate Trump-era scam PACers. 
  <p class="updated_time"> 03:30 PM CT, Nov. 10 </p> 
  <a href="https://www.politico.com/news/2021/11/10/soaring-inflation-stalks-bidens-economy-520613">Soaring inflation stalks Biden's economy</a> Politico: “I don’t think the administration is on top of it at all,” said the CEO of one of the U.S.'s largest companies who spoke on condition of anonymity out of concern over angering the administration. 
+ <p class="updated_time"> 03:29 PM CT, Nov. 10 </p> 
+ <a href="https://www.npr.org/2021/11/10/1054024084/capitol-riot-suspects-had-more-ties-to-oath-keepers-than-previously-known">Capitol riot suspects had more ties to Oath Keepers than previously known</a> NPR: NPR has identified previously undisclosed connections between the far-right anti-government group the Oath Keepers and defendants charged in connection with the Jan. 6 Capitol riot. 
+ <p class="updated_time"> 03:29 PM CT, Nov. 10 </p> 
+ <a href="https://www.npr.org/2021/11/10/1054428115/white-house-economic-adviser-weighs-in-on-the-inflation-spike-and-spending-plan">White House economic adviser weighs in on the inflation spike and spending plan</a> NPR: NPR's Ailsa Chang talks with White House economic adviser Brian Deese as inflation soars to its highest in 30 years. 
  <p class="updated_time"> 03:27 PM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/world/europe/kamala-harris-emmanuel-macron-france-us-sub-snub.html">Harris Meets Macron, Signaling a ‘New Era’ After Sub Snub, Both Say</a> NYT: In her vague assignment abroad, the vice president seems to be emphasizing that the U.S.-France relationship is about looking forward, in the wake of an embarrassing diplomatic spat. 
- <p class="updated_time"> 03:22 PM CT, Nov. 10 </p> 
- <a href="https://www.nytimes.com/2021/11/10/us/politics/republicans-backlash-infrastructure-bill.html">13 Republicans Face Backlash for Backing Infrastructure Bill</a> NYT: The 13 Republican lawmakers who broke with their party to support a $1 trillion bipartisan public works bill have drawn anger and threats from their colleagues and constituents. 
  <p class="updated_time"> 03:20 PM CT, Nov. 10 </p> 
  <a href="https://www.washingtonpost.com/podcasts/post-reports/a-postpresidency-like-no-other/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">A post-presidency like no other</a> WaPo: Today, we’re taking a closer look at the state of Donald Trump post-presidency — his businesses, his finances, the ongoing criminal investigations into his actions and how all of those things could affect a potential political comeback. 
  <p class="updated_time"> 03:13 PM CT, Nov. 10 </p> 
@@ -226,6 +228,8 @@ permalink: /projects/news/
  <a href="https://www.bloomberg.com/news/articles/2021-11-10/xi-warns-apec-leaders-against-relapsing-to-cold-war-tensions">Xi Warns APEC Leaders Against ‘Relapsing’ to Cold War Tensions</a> Bloomberg: Chinese President Xi Jinping urged Asia Pacific nations to avoid a return to tensions that could divide the region as they did during the Cold War, in what appeared to be a reference to U.S. efforts to rally allies on issues from Taiwan to trade. 
  <p class="updated_time"> 03:01 PM CT, Nov. 10 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ERgz0U35lGY/index.html">New York attorney general releases former Gov. Andrew Cuomo's testimony and other documents from sexual harassment investigation</a> CNN: The office of the New York Attorney General Letitia James on Wednesday released a transcripts of investigators' interview with former New York Gov. Andrew Cuomo, along with other documents and exhibits, from its investigation into the sexual harassment allegations that ultimately led to his resignation. 
+ <p class="updated_time"> 03:00 PM CT, Nov. 10 </p> 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-10/u-s-vows-closer-ties-with-france-on-space-cyber-threats">U.S. Vows Closer Ties with France on Space, Cyber Threats</a> Bloomberg: Vice President Kamala Harris announced U.S. efforts to work more closely with France to combat cyber threats and to cooperate on space exploration and commercial development. 
  <p class="updated_time"> 03:00 PM CT, Nov. 10 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-10/biden-china-economic-concerns-go-beyond-trade-promises-tai-says">Biden's Economic Concerns on China Go Beyond Trade Promises, Tai Says</a> Bloomberg: The U.S. is raising concerns with China that go beyond the nation’s purchasing commitments under their existing trade deal, including Beijing’s state-centered industrial policy, President Joe Biden’s chief trade negotiator said. 
  <p class="updated_time"> 03:00 PM CT, Nov. 10 </p> 
@@ -352,8 +356,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/huddle/2021/11/10/threat-assessment-never-ending-for-lawmakers-495048">Threat assessment: never ending for lawmakers</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 07:21 AM CT, Nov. 10 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-10/u-k-tells-eu-to-stay-calm-amid-brexit-spat-over-n-ireland">U.K. Tells EU to ‘Stay Calm’ Amid Brexit Spat Over Northern Ireland</a> Bloomberg: The U.K. urged the European Union to remain “calm” in the escalating dispute over post-Brexit Northern Ireland, as the EU’s chief negotiator warned ambassadors that the negotiations aimed at avoiding an all-out trade war were going badly. 
- <p class="updated_time"> 07:05 AM CT, Nov. 10 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-10/tunisia-s-top-union-rejects-price-tax-rises-as-imf-talks-resume">Tunisia’s Top Union Rejects Price, Tax Rises as IMF Talks Resume</a> Bloomberg: Tunisia’s most powerful labor union rejected any attempt to raise the prices of basic commodities or increase taxes, as the North African country resumes talks with the International Monetary Fund on a rescue package. 
  <p class="updated_time"> 06:24 AM CT, Nov. 10 </p> 
  <a href="https://www.npr.org/2021/11/10/1054201919/trump-plans-to-appeal-judges-decision-to-release-jan-6-documents">Trump plans to appeal judge's decision to release Jan. 6 documents</a> NPR: NPR's Rachel Martin talks to Kim Wehle, a law professor at the University of Baltimore, about former President Trump's attempts to block the release of documents related to the U.S. Capitol attack. 
  <p class="updated_time"> 06:22 AM CT, Nov. 10 </p> 
@@ -468,14 +470,10 @@ permalink: /projects/news/
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PboRVYF-kOU/index.html">CBO says social spending bill score 'will take longer,' in potential blow to Democrats' timing</a> CNN: The timetable for President Joe Biden's social spending bill, known as Build Back Better, may have just hit a new snag. 
  <p class="updated_time"> 09:35 AM CT, Nov. 09 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/R9Ll9AZCCe0/index.html">Here's what Biden can actually do about gas prices</a> CNN: High gas prices are quickly becoming a political liability for President Joe Biden -- and like presidents before him, he has few options to bring them down. 
- <p class="updated_time"> 08:55 AM CT, Nov. 09 </p> 
- <a href="https://www.npr.org/2021/11/09/1053847935/congress-cars-drunk-driving-auto">Congress' new mandate to carmakers: Figure out a way to stop drunk driving</a> NPR: Under the legislation, monitoring systems to stop intoxicated drivers would roll out in all new vehicles as early as 2026. "It's monumental," said Alex Otte of Mothers Against Drunk Driving. 
  <p class="updated_time"> 07:24 AM CT, Nov. 09 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/11/09/senate-schedule-seasonally-depressing-495031">Senate schedule: seasonally depressing</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:19 AM CT, Nov. 09 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/09/a-trump-backed-senate-hopeful-takes-the-stand-495028">POLITICO Playbook: A Trump-backed Senate hopeful takes the stand</a> Politico: And the Jan. 6 committee subpoenas more Trump aides. 
- <p class="updated_time"> 06:13 AM CT, Nov. 09 </p> 
- <a href="https://www.npr.org/2021/11/09/1053793595/first-lady-jill-biden-stops-by-historic-virginia-schools-vaccine-clinic">First lady Jill Biden stops by historic Virginia school's vaccine clinic</a> NPR: The first school to administer the polio vaccine in 1954 in McLean, Va., was also the scene for the kickoff of a White House drive to get kids vaccinated for COVID-19. 
  <p class="updated_time"> 05:06 AM CT, Nov. 09 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/0kWKt2tq_Fc/index.html">Harris tasked with the next phase of cleaning up Biden administration's French faux pas</a> CNN: When President Barack Obama's decision to scrap a planned missile defense system in the fall of 2009 left a pair of European allies feeling jilted, Vice President Joe Biden embarked on a three-day tour to coax relations back to health. 
  <p class="updated_time"> 04:31 AM CT, Nov. 09 </p> 
