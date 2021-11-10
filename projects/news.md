@@ -7,12 +7,20 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
- <p class="updated_time"> 07:52 AM CT, Nov. 10 </p> 
+ <p class="updated_time"> 08:10 AM CT, Nov. 10 </p> 
+ <a href="https://www.nytimes.com/2021/11/08/travel/usa-travel-restrictions.html">U.S. Allows Vaccinated Foreign Travelers to Enter</a> NYT: On Monday, after more than 18 months, restrictions that kept families separated and cost the global travel industry hundreds of billions of dollars were lifted. 
+ <p class="updated_time"> 08:08 AM CT, Nov. 10 </p> 
+ <a href="https://www.npr.org/2021/11/10/1053943770/ugandas-vanessa-nakate-says-cop26-climate-summit-sidelines-global-south">Uganda's Vanessa Nakate says COP26 sidelines nations most affected by climate change</a> NPR: Nakate spoke with NPR about the role gender plays in climate activism, whether the COP26 summit feels inclusive and her advice for other youth who feel they can't affect change in the climate crisis. 
+ <p class="updated_time"> 08:04 AM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/sports/soccer/psg-women-attack-aminata-diallo.html">P.S.G. Women’s Player Arrested After Attack on Her Teammate</a> NYT: Aminata Diallo was taken into custody by investigators looking into an assault on her fellow midfielder Kheira Hamraoui. 
+ <p class="updated_time"> 07:51 AM CT, Nov. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59234443?at_medium=RSS&at_campaign=KARANGA">Germany coronavirus: Record rise prompts warning of 100,000 deaths</a> BBC: The state of Saxony has the highest rate of infection in Germany and the lowest vaccine take-up. 
  <p class="updated_time"> 07:47 AM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/world/buttigieg-gasoline-diesel-vehicles.html">Pete Buttigieg Says U.S. 'Focused' on Reducing Auto Emissions</a> NYT: At the Glasgow climate summit, the transportation secretary said the U.S. would not join a global pledge to phase out gas- and diesel-powered cars. 
  <p class="updated_time"> 07:43 AM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/world/europe/covid-germany-record-cases.html">Germany Weighs New Covid Rules as Infections Reach Record Heights</a> NYT: Nearly 40,000 new cases were registered in the country on Tuesday — the third time a daily record was set within a week. “We have a real emergency situation,” a top virologist said. 
+ <p class="updated_time"> 07:40 AM CT, Nov. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59230566?at_medium=RSS&at_campaign=KARANGA">Thai court says calls for monarchy reform unconstitutional</a> BBC: Judges say comments by three protest leaders amount to an attempt to overthrow the political system. 
  <p class="updated_time"> 07:39 AM CT, Nov. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-59231477?at_medium=RSS&at_campaign=KARANGA">COP26: Draft deal calls for stronger carbon cutting targets by end of 2022</a> BBC: The document says vulnerable nations must get more help to cope with the deadly impacts of global warming. 
  <p class="updated_time"> 07:32 AM CT, Nov. 10 </p> 
@@ -23,6 +31,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59236320?at_medium=RSS&at_campaign=KARANGA">Huma Abedin: Hillary Clinton aide on laptop that may have lost the election</a> BBC: The FBI reinvestigated Hillary Clinton's emails after seizing a laptop from Huma Abedin's then-husband. 
  <p class="updated_time"> 07:10 AM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/08/world/europe/uk-brexit-estonia-business.html">Brexit Brain Drain  Delivers Financial Boon to Estonia</a> NYT: The former Soviet satellite state is welcoming British companies looking to escape the tangle of regulations and financial obstacles of doing business in Europe. 
+ <p class="updated_time"> 06:52 AM CT, Nov. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59233943?at_medium=RSS&at_campaign=KARANGA">Eitan Biran: Italy asks Israel to arrest cable car boy's grandfather</a> BBC: Prosecutors say Shmulik Peleg kidnapped Eitan Biran when he flew him to Israel without permission. 
  <p class="updated_time"> 06:36 AM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/world/asia/covid-china-shenyang-quarantine.html">This Chinese City Requires 28 Days of Quarantine. Then Another 28.</a> NYT: The restrictions in Shenyang are a stark example of how seriously officials are taking the country’s “zero Covid” approach to the pandemic. 
  <p class="updated_time"> 06:22 AM CT, Nov. 10 </p> 
@@ -55,8 +65,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/09/world/asia/us-holocaust-museum-china-uyghurs-report.html">U.S. Holocaust Museum Says China ‘May Be Committing Genocide’ Against Uyghurs</a> NYT: Its report found that the government’s attacks against the group of Muslims in Xinjiang had escalated and most likely included “forced sterilization, sexual violence, enslavement, torture, and forcible transfer.” 
  <p class="updated_time"> 09:03 PM CT, Nov. 09 </p> 
  <a href="https://www.nytimes.com/2021/11/09/world/europe/england-health-workers-vaccine-mandate.html">England Will Require N.H.S. Workers to Be Vaccinated by April</a> NYT:   
- <p class="updated_time"> 08:59 PM CT, Nov. 09 </p> 
- <a href="https://www.bbc.co.uk/news/world-australia-59229371?at_medium=RSS&at_campaign=KARANGA">Mostafa Baluch: Australian fugitive arrested after massive manhunt</a> BBC: Mostafa Baluch sparked a 17-day nationwide manhunt after allegedly cutting off a tracking bracelet. 
  <p class="updated_time"> 08:12 PM CT, Nov. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59229671?at_medium=RSS&at_campaign=KARANGA">Astronauts return to Earth on SpaceX capsule</a> BBC: The astronauts spent 200 days in orbit on the International Space Station. 
  <p class="updated_time"> 08:06 PM CT, Nov. 09 </p> 
@@ -77,8 +85,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/in-pictures-59208310?at_medium=RSS&at_campaign=KARANGA">Environmental Photographer of the Year 2021 winners revealed</a> BBC: The competition's winning image shows the effect of rising sea levels in Ghana. 
  <p class="updated_time"> 05:58 PM CT, Nov. 09 </p> 
  <a href="https://www.bbc.co.uk/news/business-59163278?at_medium=RSS&at_campaign=KARANGA">Shein: The secretive Chinese brand dressing Gen Z</a> BBC: Shein's popularity has shot up during the pandemic, targeting young shoppers with low-cost products. 
- <p class="updated_time"> 05:26 PM CT, Nov. 09 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59228831?at_medium=RSS&at_campaign=KARANGA">Astroworld: Travis Scott should have stopped concert earlier, says fire chief</a> BBC: The US rapper had a responsibility to fans at his Astroworld event in which eight people were killed. 
  <p class="updated_time"> 04:12 PM CT, Nov. 09 </p> 
  <a href="https://www.nytimes.com/2021/11/09/world/europe/france-vaccine-booster.html">Macron announces a new vaccine rule for people 65 or older in France.</a> NYT: Though the country has a high vaccination rate, new coronavirus cases and hospital admissions have been increasing in recent weeks. 
  <p class="updated_time"> 04:06 PM CT, Nov. 09 </p> 
@@ -109,8 +115,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59225576?at_medium=RSS&at_campaign=KARANGA">Emily Ratajkowski: Told to 'get ugly' for acting roles</a> BBC: In an interview with BBC Newsnight, she also spoke about her alleged sexual assault by Robin Thicke. 
  <p class="updated_time"> 11:27 AM CT, Nov. 09 </p> 
  <a href="https://www.nytimes.com/2021/11/08/world/americas/brazil-telegram-disinformation.html">Brazil’s Far-Right Disinformation Pushers Find a Safe Space on Telegram</a> NYT: In a social media ecosystem facing mounting pressure to combat fake news and polarization, Telegram is the most permissive disseminator of content — and disinformation. 
- <p class="updated_time"> 11:16 AM CT, Nov. 09 </p> 
- <a href="https://www.nytimes.com/2021/11/08/travel/usa-travel-restrictions.html">U.S. Allows Vaccinated Foreign Travelers to Enter</a> NYT: On Monday, after more than 18 months, restrictions that kept families separated and cost the global travel industry hundreds of billions of dollars were lifted. 
  <p class="updated_time"> 11:15 AM CT, Nov. 09 </p> 
  <a href="https://www.npr.org/sections/coronavirus-live-updates/2021/11/09/1053889069/singapore-medical-bills-covid-19-patients-unvaccinated-by-choice">Singapore will stop covering the medical bills of unvaccinated COVID-19 patients</a> NPR: Singapore's government will stop covering the cost of COVID-19 treatment for those who are "unvaccinated by choice" next month, citing the strain they are placing on its health care system. 
  <p class="updated_time"> 11:13 AM CT, Nov. 09 </p> 
@@ -141,8 +145,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/09/style/bollywood-actor-richard-klein.html">How a 55-Year-Old California Teacher Became a Bollywood Actor </a> NYT: Richard Klein left behind his life as a Hebrew day school teacher in California and became an actor in Mumbai, often playing a “mean British officer.” 
  <p class="updated_time"> 03:06 AM CT, Nov. 09 </p> 
  <a href="https://www.wsj.com/articles/biden-administration-stresses-shared-interests-in-talks-with-egypt-11636466765">Biden Administration Stresses Shared Interests in Talks With Egypt</a> WSJ: The U.S. seeks to deepen economic and security cooperation with Cairo despite longstanding concerns over rights violations. 
- <p class="updated_time"> 02:01 AM CT, Nov. 09 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59218239?at_medium=RSS&at_campaign=KARANGA">US couple on alleged IVF swap: 'Our memories of childbirth will always be tainted'</a> BBC: A California couple was given the wrong embryo by an IVF fertility clinic, according to a lawsuit. 
  <p class="updated_time"> 08:14 PM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/us/politics/isis-military.html">Military Can’t Find ISIS Safe House That Prompted Kabul Drone Strike</a> NYT: The Pentagon’s latest admission illustrates the botched intelligence behind the strike that mistakenly killed 10 civilians in August. 
  <p class="updated_time"> 07:21 PM CT, Nov. 08 </p> 
@@ -173,8 +175,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/08/1053647213/daniel-ortega-has-won-the-nicaragua-presidency-in-an-election-many-say-was-a-sha">Daniel Ortega has won the Nicaragua presidency in an election many say was a sham</a> NPR: Nicaragua's leader Daniel Ortega says he was overwhelmingly elected president for a fourth consecutive term Sunday. But critics, including leaders around the world, say the elections were a sham. 
  <p class="updated_time"> 03:20 PM CT, Nov. 08 </p> 
  <a href="https://www.npr.org/2021/11/08/1053647199/facebook-bets-its-future-on-the-metaverse">Facebook bets its future on the metaverse</a> NPR: Facebook has rebranded itself as Meta, banking on the metaverse becoming a significant part of our lives. Not everyone is happy with the company making a mark in a space that has existed for years. 
- <p class="updated_time"> 03:20 PM CT, Nov. 08 </p> 
- <a href="https://www.npr.org/2021/11/08/1053647185/low-income-nations-need-covid-vaccines-rich-countries-have-millions-of-unused-do">Low income nations need COVID vaccines. Rich countries have millions of unused doses</a> NPR: There's been a massive ramp up in production of COVID-19 vaccines. Yet low income nations still aren't getting enough. Analysts say it's because wealthy countries are buying way more than they need. 
  <p class="updated_time"> 03:02 PM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/world/europe/heathrow-first-flight-us-travel-ban.html">Excited Passengers Board First Flight from Heathrow to the U.S.</a> NYT: Long lines formed at Heathrow Airport for the first scheduled trips to the United States since the Biden administration lifted a travel ban. 
  <p class="updated_time"> 02:41 PM CT, Nov. 08 </p> 
@@ -192,20 +192,26 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
- <p class="updated_time"> 07:47 AM CT, Nov. 10 </p> 
+ <p class="updated_time"> 09:05 AM CT, Nov. 10 </p> 
+ <a href="https://www.politico.com/news/2021/11/10/world-shares-china-inflation-520573">World shares mixed as China inflation pushes higher</a> Politico: China’s consumer price index, a main measure of inflation, rose 1.5 percent in October, up from 0.7 percent the month before, the National Bureau of Statistics reported. 
+ <p class="updated_time"> 08:30 AM CT, Nov. 10 </p> 
+ <a href="https://www.politico.com/news/2021/11/10/nevada-democrat-transgender-520572">Nevada Democrat seeks to become first openly transgender statewide elected official</a> Politico: The lieutenant governor’s office is currently vacant. 
+ <p class="updated_time"> 08:08 AM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/business/economy/consumer-price-inflation-october.html">Inflation Rose in October at Fastest Rate Since 1990</a> NYT: The Consumer Price Index rose 6.2 percent in October from a year ago, its fastest increase since 1990. That is bad news for President Biden and the central bank. 
+ <p class="updated_time"> 08:03 AM CT, Nov. 10 </p> 
+ <a href="https://www.washingtonpost.com/politics/2021/09/24/white-house-might-give-up-goods-what-trump-did-jan-6-what-would-that-mean/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">A big setback for Trump’s effort to stymie the Jan. 6 committee. What could it mean?</a> WaPo: A federal judge cleared the way for Trump White House documents to go to the committee, which could start Friday -- pending appeals. Here's what such documents might tell us. 
+ <p class="updated_time"> 08:03 AM CT, Nov. 10 </p> 
+ <a href="https://www.washingtonpost.com/politics/2021/09/24/white-house-might-give-up-goods-what-trump-did-jan-6-what-would-that-mean/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">A big setback for Trump’s effort to stymie the Jan. 6 committee. What could it mean?</a> WaPo: A federal judge cleared the way for Trump White House documents to go to the committee, which could start Friday -- pending appeals. Here's what such documents might tell us. 
+ <p class="updated_time"> 08:03 AM CT, Nov. 10 </p> 
+ <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/AGVs5kbGHm8/index.html">Fact check on Sen. Rick Scott blaming government spending on inflation</a> CNN: Since the summer, when inflation reached a 13-year high, Republicans have been blaming the rising prices on President Joe Biden and the Democrats. 
  <p class="updated_time"> 07:42 AM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/08/us/politics/employer-vaccine-mandates.html">US Urges Court Not to Block Vaccine Mandate on Employers</a> NYT: The Biden Justice Department filed its case before an appeals court that has temporarily halted the measure. 
- <p class="updated_time"> 07:36 AM CT, Nov. 10 </p> 
- <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/AGVs5kbGHm8/index.html">Fact check on Sen. Rick Scott blaming government spending on inflation</a> CNN: Since the summer, when inflation reached a 13-year high, Republicans have been blaming the rising prices on President Joe Biden and the Democrats. 
  <p class="updated_time"> 07:35 AM CT, Nov. 10 </p> 
  <a href="https://www.npr.org/2021/11/10/1054019175/inflation-surges-to-its-highest-since-1990">Inflation surges to its highest since 1990</a> NPR: Consumer prices were 6.2% higher in October than a year ago as inflation continues to chip away at the buying power of households across the country. 
- <p class="updated_time"> 07:28 AM CT, Nov. 10 </p> 
- <a href="https://www.washingtonpost.com/politics/2021/09/24/white-house-might-give-up-goods-what-trump-did-jan-6-what-would-that-mean/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">A big setback for Trump’s effort to stymie the Jan. 6 committee. What could it mean?</a> WaPo: A federal judge cleared the way for Trump White House documents to go to the committee, which could start Friday -- pending appeals. Here's what such documents might tell us. 
- <p class="updated_time"> 07:28 AM CT, Nov. 10 </p> 
- <a href="https://www.washingtonpost.com/politics/2021/09/24/white-house-might-give-up-goods-what-trump-did-jan-6-what-would-that-mean/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">A big setback for Trump’s effort to stymie the Jan. 6 committee. What could it mean?</a> WaPo: A federal judge cleared the way for Trump White House documents to go to the committee, which could start Friday -- pending appeals. Here's what such documents might tell us. 
  <p class="updated_time"> 07:21 AM CT, Nov. 10 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/11/10/threat-assessment-never-ending-for-lawmakers-495048">Threat assessment: never ending for lawmakers</a> Politico: A play-by-play preview of the day&#39;s congressional news 
+ <p class="updated_time"> 07:21 AM CT, Nov. 10 </p> 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-10/u-k-tells-eu-to-stay-calm-amid-brexit-spat-over-n-ireland">U.K. Tells EU to ‘Stay Calm’ Amid Brexit Spat Over Northern Ireland</a> Bloomberg: The U.K. urged the European Union to remain “calm” in the escalating dispute over post-Brexit Northern Ireland, as the two sides continue to exchange threats that could yet lead to an all-out trade war. 
  <p class="updated_time"> 07:11 AM CT, Nov. 10 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/V5nfxB5ZmBc/index.html">Biden administration to announce deal to provide J&J Covid-19 vaccine to people in conflict zones and humanitarian settings</a> CNN: The Biden administration will announce on Wednesday a new deal it brokered with Johnson & Johnson and Covax to provide J&J's Covid-19 vaccine to people in conflict zones and other humanitarian settings where government vaccine campaigns cannot reach, a White House official told CNN. 
  <p class="updated_time"> 07:05 AM CT, Nov. 10 </p> 
@@ -290,10 +296,6 @@ permalink: /projects/news/
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/V8W_Di14YEM/index.html">Analysis: Extremists seize back control of the Republican Party's message machine</a> CNN: So much for the Republican Party being all about the future. 
  <p class="updated_time"> 11:56 PM CT, Nov. 09 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/GPlnqU2pINE/index.html">Judge eviscerates Trump's claim of executive privilege</a> CNN: A federal judge sent a message to Donald Trump Tuesday that he cannot outrun the rule of law and the Constitution forever. But that doesn't mean he won't try. 
- <p class="updated_time"> 11:08 PM CT, Nov. 09 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-10/chinese-virus-expert-launches-scathing-attack-on-covid-zero-push">Chinese Virus Expert Launches Scathing Attack on Covid Zero Push</a> Bloomberg: A top Chinese virologist warned the country risks economic collapse if local officials continue to try to wipe out all traces of Covid-19, marking the most vocal criticism of China’s so-called Covid Zero approach by one of its own experts. 
- <p class="updated_time"> 11:01 PM CT, Nov. 09 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-10/china-under-xi-is-tough-target-for-cia-spies-hurting-biden-s-beijing-policy">China Is Evading U.S. Spies &mdash; and the White House Is Worried</a> Bloomberg: Under Xi Jinping, China has become an even harder target for America’s spying operation. 
  <p class="updated_time"> 10:23 PM CT, Nov. 09 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nA8YpCdbazY/index.html">Surgeon general on Matthew McConaughey's opposition to vaccine mandates for kids: 'Covid is not harmless in our children'</a> CNN: US Surgeon General Dr. Vivek Murthy stressed Tuesday that parents need to recognize that "Covid is not harmless in our children" after actor Matthew McConaughey said his kids aren't vaccinated and that he's against mandating vaccines for children. 
  <p class="updated_time"> 10:18 PM CT, Nov. 09 </p> 
@@ -320,6 +322,8 @@ permalink: /projects/news/
  <a href="https://www.washingtonpost.com/politics/gop-rep-fred-upton-receives-death-threats-after-voting-for-bipartisan-infrastructure-deal/2021/11/09/78fe5ac8-4195-11ec-9ea7-3eb2406a2e24_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">GOP Rep. Fred Upton receives death threats after voting for bipartisan infrastructure deal</a> WaPo: The Michigan Republican said the threats began after Rep. Marjorie Taylor Greene (R-Ga.) tweeted the names and office phone numbers of House Republicans who backed the bill. 
  <p class="updated_time"> 08:21 PM CT, Nov. 09 </p> 
  <a href="https://www.politico.com/news/2021/11/09/trump-endorsement-mcgeachin-little-idaho-520544">Trump endorses rival against Idaho Gov. Brad Little</a> Politico: The former president is backing Lt. Gov. Janice McGeachin, who has sought to undermine the current governor. 
+ <p class="updated_time"> 08:19 PM CT, Nov. 09 </p> 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-10/trump-fails-to-block-jan-6-committee-from-getting-documents">Trump Fails to Block Jan. 6 Committee From Getting Records</a> Bloomberg: Former President Donald Trump failed to block the release of documents sought by a U.S. House panel investigating the Jan. 6 Capitol riot. 
  <p class="updated_time"> 08:12 PM CT, Nov. 09 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-10/china-friendly-lawmaker-to-be-japan-foreign-minister-kyodo-says">China-Friendly Lawmaker Appointed Japan Foreign Minister</a> Bloomberg: Japanese Prime Minister Fumio Kishida appointed a China-friendly veteran lawmaker to the post of foreign minister on Wednesday, balancing out more hawkish politicians picked for other senior positions. 
  <p class="updated_time"> 08:01 PM CT, Nov. 09 </p> 
@@ -366,8 +370,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/09/science/nasa-moon-2025.html">NASA Moves Moon Landing Deadline Back to 2025</a> NYT: The space agency acknowledged that it cannot return astronauts to the lunar surface by 2024, a timeline set under President Trump. 
  <p class="updated_time"> 04:40 PM CT, Nov. 09 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/r7Jp2lF_OD4/index.html">What is the Hatch Act?</a> CNN: A federal agency said Tuesday that 13 senior Trump administration officials violated the Hatch Act, a 1939 law that seeks to keep government functions nonpartisan. 
- <p class="updated_time"> 04:35 PM CT, Nov. 09 </p> 
- <a href="https://www.politico.com/news/2021/11/09/nasa-delays-moon-landing-2025-520468">NASA delays moon landing to 'no earlier than 2025'</a> Politico: Trump's 2024 goal "was not grounded in technical feasibility," Biden's space chief says. 
  <p class="updated_time"> 04:09 PM CT, Nov. 09 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tNBw79OI9-A/index.html">Here's how long it may take Biden's infrastructure package to jolt the economy</a> CNN: It may be years before Americans are driving over new bridges or plugging their electric vehicles into a new highway charger funded by President Joe Biden's infrastructure package. But some of the money could be released over the next six months, providing a jolt to a backlog of projects across the country. 
  <p class="updated_time"> 04:04 PM CT, Nov. 09 </p> 
@@ -510,8 +512,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/06/infrastructure-bill-build-back-better-519894">How Biden’s infrastructure win falls short in one big area</a> Politico: The bill is historic in its scope with $550 billion in new money funneled into hard infrastructure, from overhauling bridges to supercharging Amtrak's most popular rail corridor in the Northeast. 
  <p class="updated_time"> 10:18 AM CT, Nov. 06 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/06/how-biden-and-pelosi-saved-bif-495005">POLITICO Playbook: How Biden and Pelosi saved BIF</a> Politico: And President Joe Biden secures the biggest win of his presidency so far. 
- <p class="updated_time"> 06:00 AM CT, Nov. 06 </p> 
- <a href="https://www.politico.com/news/2021/11/06/rural-dems-trouble-519782">Rural Democrats stare into the abyss after Virginia</a> Politico: Rural Democrats say the party’s problems on their turf are twofold. 
  <p class="updated_time"> 10:30 PM CT, Nov. 05 </p> 
  <a href="https://www.politico.com/news/2021/11/05/house-infrastructure-bill-519796">House ships $550B infrastructure legislation to Biden’s desk after months of delay</a> Politico: Only 13 House Republicans voted for the bill, alongside all but 6 Democrats. 
  <p class="updated_time"> 05:22 PM CT, Nov. 05 </p> 
