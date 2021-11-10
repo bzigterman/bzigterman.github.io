@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:48 PM CT, Nov. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/science-environment-59238869?at_medium=RSS&at_campaign=KARANGA">COP26: China and US agree to boost climate cooperation</a> BBC: In a surprise announcement, the two countries unveil a joint pledge at the COP26 summit in Glasgow. 
  <p class="updated_time"> 02:42 PM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/world/europe/boris-johnson-climate-scandal.html">Boris Johnson Handles Scandal Amid Climate Conference</a> NYT: As the host leader of the U.N. conference on global warming, Mr. Johnson was hoping to project statesmanship. But a mushrooming ethics scandal dominated the week, overshadowing his climate ambitions. 
  <p class="updated_time"> 02:40 PM CT, Nov. 10 </p> 
@@ -15,8 +17,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/live/2021/11/10/world/poland-belarus-border-migrants">Live Updates: Crisis on Europe’s Eastern Flank Deepens as Tension Escalates at Polish Border</a> NYT: Western officials accuse the leader of Belarus of sending migrants to E.U. borders as retaliation for sanctions. E.U. officials expressed support for Poland. Lithuania, which also borders Belarus, declared a state of emergency. 
  <p class="updated_time"> 02:26 PM CT, Nov. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59239853?at_medium=RSS&at_campaign=KARANGA">Kyle Rittenhouse: Accused teen takes stand in his own defence</a> BBC: Kyle Rittenhouse, 18, broke down in tears as he told he court he shot three men in self-defence. 
- <p class="updated_time"> 02:00 PM CT, Nov. 10 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-59238869?at_medium=RSS&at_campaign=KARANGA">COP26: China and US agree to boost climate cooperation</a> BBC: In a surprise announcement, the two countries unveil a joint pledge at the COP26 summit in Glasgow. 
  <p class="updated_time"> 01:56 PM CT, Nov. 10 </p> 
  <a href="https://www.npr.org/2021/11/10/1053844312/palestinians-israel-nso-spyware">They got hacked with NSO spyware. Now Israel wants Palestinian activists' funding cut</a> NPR: A battle over Palestinian activist groups that Israel accuses of terrorism has taken a turn into the world of Israeli spyware. Israel hopes to convince European countries to stop funding the groups. 
  <p class="updated_time"> 01:50 PM CT, Nov. 10 </p> 
@@ -204,6 +204,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 03:30 PM CT, Nov. 10 </p> 
  <a href="https://www.politico.com/news/2021/11/10/soaring-inflation-stalks-bidens-economy-520613">Soaring inflation stalks Biden's economy</a> Politico: “I don’t think the administration is on top of it at all,” said the CEO of one of the U.S.'s largest companies who spoke on condition of anonymity out of concern over angering the administration. 
+ <p class="updated_time"> 02:52 PM CT, Nov. 10 </p> 
+ <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/169bSfKsdFE/index.html">Blinken says US is concerned Russia may be 'attempting to rehash' 2014 invasion of Ukraine</a> CNN: US Secretary of State Antony Blinken said Wednesday that the US is concerned by reports of unusual Russian military activity and the possibility that Russia may be "attempting to rehash" its 2014 invasion of Ukraine. 
  <p class="updated_time"> 02:40 PM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/us/politics/pac-operator-charges.html">Three Men Charged With Running ‘Scam PACs’ That Bilked Small Donors</a> NYT: The Justice Department said the three men defrauded donors of $3.5 million, including through robocalls that impersonated former President Donald J. Trump. 
  <p class="updated_time"> 02:30 PM CT, Nov. 10 </p> 
@@ -222,8 +224,6 @@ permalink: /projects/news/
  <a href="https://www.bloomberg.com/news/articles/2021-11-10/j-j-baby-powder-bankruptcy-moved-to-new-jersey-suits-stayed">J&amp;J Baby Powder Bankruptcy Moved to N.J. Despite ‘Texas Two-Step’</a> Bloomberg: Johnson &amp; Johnson will have its baby powder bankruptcy moved to its home state of New Jersey, potentially threatening the consumer giant’s strategy for dealing with tens of thousands of lawsuits filed by women who say the product gave them cancer. 
  <p class="updated_time"> 02:17 PM CT, Nov. 10 </p> 
  <a href="https://www.washingtonpost.com/politics/2021/11/10/shift-urban-rural-presidential-vote-isnt-uniform/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">The shift in the urban and rural presidential vote isn’t uniform</a> WaPo: The swings look different in different states. 
- <p class="updated_time"> 02:16 PM CT, Nov. 10 </p> 
- <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/169bSfKsdFE/index.html">Blinken says US is concerned Russia may be 'attempting to rehash' 2014 invasion of Ukraine</a> CNN: US Secretary of State Antony Blinken said Wednesday that the US is concerned by reports of unusual Russian military activity and the possibility that Russia may be "attempting to rehash" its 2014 invasion of Ukraine. 
  <p class="updated_time"> 02:15 PM CT, Nov. 10 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fc2unfvSavI/index.html">Justice Department sues Uber for overcharging people with disabilities for taking too long to load into vehicle</a> CNN: Customers with disabilities across the country have been overcharged by Uber since 2016 for allegedly taking too long to load into their designated vehicle, according to a federal civil lawsuit the Justice Department filed on Wednesday. 
  <p class="updated_time"> 02:00 PM CT, Nov. 10 </p> 
