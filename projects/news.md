@@ -206,6 +206,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 02:00 AM CT, Nov. 10 </p> 
  <a href="https://www.washingtonpost.com/politics/2021/11/10/robert-moses-saga-racist-parkway-bridges/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Robert Moses and the saga of the racist parkway bridges </a> WaPo: Transportation Secretary Pete Buttigieg referred to a famous anecdote in Robert Caro's biography of master builder but historians increasingly question whether it is correct. 
+ <p class="updated_time"> 02:00 AM CT, Nov. 10 </p> 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-10/poland-seeks-emergency-eu-summit-on-belarus-border-crisis">Poland Seeks Emergency EU Summit on Belarus Border Crisis</a> Bloomberg: Poland wants European Union leaders to hold an emergency summit to discuss the migrant crisis on the bloc’s border with Belarus. 
  <p class="updated_time"> 01:55 AM CT, Nov. 10 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-10/u-s-journalist-held-in-myanmar-charged-with-sedition-terrorism">U.S. Journalist Held in Myanmar Charged With Sedition, Terrorism</a> Bloomberg: An American journalist faces new charges of terrorism and sedition nearly six months after he was detained by the military junta, his lawyer said, dealing a fresh blow to U.S. efforts to free him. 
  <p class="updated_time"> 01:20 AM CT, Nov. 10 </p> 
@@ -396,8 +398,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/09/us/politics/where-is-newsom-california.html">Where Is Gavin Newsom, California's Governor?</a> NYT: He’s in the office, according to increasingly frustrated staff members. But his critics on Twitter aren’t buying it. 
  <p class="updated_time"> 12:36 PM CT, Nov. 09 </p> 
  <a href="https://www.washingtonpost.com/politics/2021/11/09/year-later-an-obviously-illegal-campaign-stunt-is-determined-have-been-illegal/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">A year later, an obviously illegal campaign stunt is determined to have been illegal</a> WaPo: Relying on voluntary adherence to the law has some flaws. 
- <p class="updated_time"> 12:16 PM CT, Nov. 09 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-09/high-court-grapples-with-religious-rights-in-execution-chamber">Supreme Court Grapples With Religious Rights in Execution Chamber</a> Bloomberg: The U.S. Supreme Court grappled with the religious rights of death-row inmates in the execution chamber, as the justices weighed a request by a Texas prisoner to have his Baptist pastor pray aloud and place his hands on the man during the lethal injection. 
  <p class="updated_time"> 12:02 PM CT, Nov. 09 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/B4jbhNAVlq0/index.html">Republicans who voted for Biden's infrastructure bill come under fire from Trump </a> CNN: Former President Donald Trump privately criticized on Monday night the 13 Republicans who voted to pass the $1.2 trillion infrastructure bill, questioning why they would give President Joe Biden a win when he's struggling in the polls, according to a GOP source. 
  <p class="updated_time"> 12:00 PM CT, Nov. 09 </p> 
