@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:45 PM CT, Nov. 09 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59227425?at_medium=RSS&at_campaign=KARANGA">Capitol riot: Judge rejects Trump bid to withhold records</a> BBC: "Presidents are not kings, and Plaintiff is not President," the ruling says of Mr Trump. 
  <p class="updated_time"> 09:20 PM CT, Nov. 09 </p> 
  <a href="https://www.nytimes.com/2021/11/09/world/asia/us-holocaust-museum-china-uyghurs-report.html">U.S. Holocaust Museum Says China ‘May Be Committing Genocide’ Against Uyghurs</a> NYT: Its report found that the government’s attacks against the group of Muslims in Xinjiang had escalated and most likely included “forced sterilization, sexual violence, enslavement, torture, and forcible transfer.” 
  <p class="updated_time"> 09:06 PM CT, Nov. 09 </p> 
@@ -37,8 +39,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/business-59163278?at_medium=RSS&at_campaign=KARANGA">Shein: The secretive Chinese brand dressing Gen Z</a> BBC: Shein's popularity has shot up during the pandemic, targeting Gen Z shoppers with low-cost products. 
  <p class="updated_time"> 05:55 PM CT, Nov. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59229041?at_medium=RSS&at_campaign=KARANGA">Covid: France brings in booster requirement for over 65s</a> BBC: From 15 December, proof of a booster jab will be needed to visit restaurants and museums, or travel. 
- <p class="updated_time"> 05:39 PM CT, Nov. 09 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59227425?at_medium=RSS&at_campaign=KARANGA">Capitol riot: Trump's closest aides summoned to testify</a> BBC: Ten former White House aides are among the latest figures asked to testify by congressional investigators. 
  <p class="updated_time"> 05:26 PM CT, Nov. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59228831?at_medium=RSS&at_campaign=KARANGA">Astroworld: Travis Scott should have stopped concert earlier, says fire chief</a> BBC: The US rapper had a responsibility to fans at his Astroworld event in which eight people were killed. 
  <p class="updated_time"> 05:23 PM CT, Nov. 09 </p> 
@@ -204,6 +204,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:37 PM CT, Nov. 09 </p> 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-10/hong-kong-border-may-open-in-january-chinese-official-says">Hong Kong Border May Open in January, Chinese Official Says</a> Bloomberg: Hong Kong’s border with mainland China could reopen with limited capacity in January, according to a Chinese official in the city, a breakthrough that would be a boost to the Asian financial hub’s economy. 
  <p class="updated_time"> 09:33 PM CT, Nov. 09 </p> 
  <a href="https://www.washingtonpost.com/local/legal-issues/trump-records-jan-6-committee-judge-ruling/2021/11/09/4d256cec-3e44-11ec-bfad-8283439871ec_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Trump White House records can be turned over to House Jan. 6 investigative committee, judge rules</a> WaPo: Court deals blow to former president’s claim to executive privilege after Biden White House approved release. 
  <p class="updated_time"> 09:29 PM CT, Nov. 09 </p> 
@@ -390,8 +392,6 @@ permalink: /projects/news/
  <a href="https://www.bloomberg.com/news/articles/2021-11-09/former-trump-officials-violated-hatch-act-during-2020-election">Former Trump Officials Violated Hatch Act During 2020 Election, OSC Says</a> Bloomberg: High-ranking officials in the Trump administration, including former senior adviser Jared Kushner and former National Security Advisor Robert O’Brien and chief of staff Mark Meadows, violated federal law with their political activities, the U.S. Office of the Special Counsel said in a report Tuesday. 
  <p class="updated_time"> 11:55 AM CT, Nov. 09 </p> 
  <a href="https://www.npr.org/2021/11/09/1053895408/paul-gosar-alexandria-ocasio-cortez-anime-twitter-video-backlash">Rep. Paul Gosar shared an anime video of himself killing AOC. This was her response</a> NPR: The video shows Gosar's character killing Rep. Alexandria Ocasio-Cortez with a sword and brandishing weapons at President Biden. Twitter says it violates its hateful conduct rules but has left it up. 
- <p class="updated_time"> 11:39 AM CT, Nov. 09 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-09/infrastructure-bill-sparks-return-of-u-s-debt-ceiling-concern">Debt-Ceiling Jitters Return on Terms of U.S. Infrastructure Bill</a> Bloomberg: A seemingly innocuous point in the Biden administration’s infrastructure bill has rate-market investors once again sharpening their focus on exactly when the U.S. government might breach its borrowing limit. 
  <p class="updated_time"> 11:39 AM CT, Nov. 09 </p> 
  <a href="https://www.nytimes.com/2021/11/09/us/politics/sean-maloney-democrats.html">‘Free Joe Biden’: Sean Maloney on How Democrats Can Get Back on Track</a> NYT: In an interview, the leader of the House Democrats’ campaign arm acknowledged the major challenges facing the party but defended its agenda and its continued focus on Donald Trump. 
  <p class="updated_time"> 11:37 AM CT, Nov. 09 </p> 
