@@ -210,12 +210,20 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:29 PM CT, Nov. 09 </p> 
+ <a href="https://www.politico.com/news/2021/11/09/trump-executive-privilege-court-ruling-kings-520512">Trump cannot shield White House records from Jan. 6 committee, judge rules</a> Politico: “Presidents are not kings, and Plaintiff is not President,” Judge Tanya Chutkan wrote in her ruling. 
  <p class="updated_time"> 08:57 PM CT, Nov. 09 </p> 
  <a href="https://www.politico.com/news/2021/11/09/brian-williams-leave-nbc-news-520551">Brian Williams says he’s leaving NBC News at end of year</a> Politico: “I’ll pop up again somewhere,” he said. 
  <p class="updated_time"> 08:51 PM CT, Nov. 09 </p> 
  <a href="https://www.politico.com/news/2021/11/09/businesses-biden-covid-vaccine-rule-520548">Businesses warn of 'irreparable harm' if no permanent stay of Biden vaccine rule</a> Politico: The emergency rules released by the Department of Labor last week require private businesses with more than 100 employees to ensure their workers are vaccinated or have them submit to weekly testing by Jan. 4. 
+ <p class="updated_time"> 08:30 PM CT, Nov. 09 </p> 
+ <a href="https://www.washingtonpost.com/local/legal-issues/trump-records-jan-6-committee-judge-ruling/2021/11/09/4d256cec-3e44-11ec-bfad-8283439871ec_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Trump White House records can be turned over to House Jan. 6 investigative committee, judge rules</a> WaPo: Court deals blow to former president’s claim to executive privilege after Biden White House approved release. 
+ <p class="updated_time"> 08:25 PM CT, Nov. 09 </p> 
+ <a href="https://www.washingtonpost.com/politics/gop-rep-fred-upton-receives-death-threats-after-voting-for-bipartisan-infrastructure-deal/2021/11/09/78fe5ac8-4195-11ec-9ea7-3eb2406a2e24_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">GOP Rep. Fred Upton receives death threats after voting for bipartisan infrastructure deal</a> WaPo: The Michigan Republican said the threats began after Rep. Marjorie Taylor Greene (R-Ga.) tweeted the names and office phone numbers of House Republicans who backed the bill. 
  <p class="updated_time"> 08:21 PM CT, Nov. 09 </p> 
  <a href="https://www.politico.com/news/2021/11/09/trump-endorsement-mcgeachin-little-idaho-520544">Trump endorses rival against Idaho Gov. Brad Little</a> Politico: The former president is backing Lt. Gov. Janice McGeachin, who has sought to undermine the current governor. 
+ <p class="updated_time"> 08:19 PM CT, Nov. 09 </p> 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-10/trump-fails-to-block-jan-6-committee-from-getting-documents">Trump Fails to Block Jan. 6 Committee From Getting Documents</a> Bloomberg: Former President Donald Trump failed to block the release of documents sought by a U.S. House panel investigating the Jan. 6 Capitol riot. 
  <p class="updated_time"> 08:01 PM CT, Nov. 09 </p> 
  <a href="https://www.washingtonpost.com/politics/republicans-infrastructure-biden/2021/11/09/cc0c4c9e-4167-11ec-9ea7-3eb2406a2e24_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Tensions rise among Republicans over infrastructure bill and whether any agreement with Biden should be tolerated</a> WaPo: For Donald Trump and many Republicans, their love of infrastructure has turned to loathing now that it bears President Biden’s imprimatur. 
  <p class="updated_time"> 07:37 PM CT, Nov. 09 </p> 
@@ -233,7 +241,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:57 PM CT, Nov. 09 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9CkE4Z67sDs/index.html">Abuse allegations cast shadow over Sean Parnell's Senate campaign</a> CNN: Sean Parnell's turbulent personal life, including allegations of abuse from his estranged wife, continues to spill into the open as the Senate hopeful appeared in court for a custody trial this week -- disrupting the Pennsylvania Republican's campaign and sowing doubt about his viability as a candidate. 
  <p class="updated_time"> 06:28 PM CT, Nov. 09 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-10/ex-broadcom-engineer-charged-with-stealing-secrets-for-startup">Ex-Broadcom Engineer Charged With Stealing Secrets for Chinese Startup</a> Bloomberg: A former veteran engineer at Broadcom Inc. was charged by U.S. prosecutors with stealing trade secrets for chips used in high-volume data centers and taking them to his new job with a China-based startup. 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-10/ex-broadcom-engineer-charged-with-stealing-secrets-for-startup">Ex-Broadcom Engineer Charged With Stealing Secrets for Chinese Startup</a> Bloomberg: A former veteran engineer at Broadcom Inc. was charged by the U.S. with stealing trade secrets for chips used in high-volume data centers and taking them to his new job with a China-based startup. 
  <p class="updated_time"> 06:23 PM CT, Nov. 09 </p> 
  <a href="https://www.nytimes.com/2021/11/09/us/moderna-vaccine-patent.html">Moderna and U.S. at Odds Over Vaccine Patent Rights</a> NYT: Moderna’s patent application names several employees as the sole inventors of a crucial component of its coronavirus vaccine, excluding three government scientists. 
  <p class="updated_time"> 06:20 PM CT, Nov. 09 </p> 
@@ -278,8 +286,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/09/nasa-delays-moon-landing-2025-520468">NASA delays moon landing to 'no earlier than 2025'</a> Politico: Trump's 2024 goal "was not grounded in technical feasibility," Biden's space chief says. 
  <p class="updated_time"> 04:13 PM CT, Nov. 09 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-09/greek-prime-minister-snaps-about-refugees-at-a-news-conference">Greek Prime Minister Snaps About Refugees at a News Conference</a> Bloomberg: Greek Prime Minister Kyriakos Mitsotakis got into a public fight at a joint conference in Athens about his immigration policy and conditions on a refugee camp in the Greek island of Samos. 
- <p class="updated_time"> 04:13 PM CT, Nov. 09 </p> 
- <a href="https://www.washingtonpost.com/politics/gop-rep-fred-upton-receives-death-threats-after-voting-for-bipartisan-infrastructure-deal/2021/11/09/78fe5ac8-4195-11ec-9ea7-3eb2406a2e24_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">GOP Rep. Fred Upton receives death threats after voting for bipartisan infrastructure deal</a> WaPo: The Michigan Republican said the threats began after Rep. Marjorie Taylor Greene (R-Ga.) tweeted the names and office phone numbers of House Republicans who backed the bill. 
  <p class="updated_time"> 04:09 PM CT, Nov. 09 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tNBw79OI9-A/index.html">Here's how long it may take Biden's infrastructure package to jolt the economy</a> CNN: It may be years before Americans are driving over new bridges or plugging their electric vehicles into a new highway charger funded by President Joe Biden's infrastructure package. But some of the money could be released over the next six months, providing a jolt to a backlog of projects across the country. 
  <p class="updated_time"> 04:08 PM CT, Nov. 09 </p> 
@@ -289,7 +295,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:00 PM CT, Nov. 09 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UMjGkbxTqxo/index.html">January 6 committee issues 10 more subpoenas including to Stephen Miller and Kayleigh McEnany</a> CNN: The House committee investigating the deadly January 6 riot at the US Capitol announced on Tuesday a new batch of 10 subpoenas to former White House officials under President Donald Trump, as the panel charges ahead in seeking testimony and documents from witnesses relevant to its probe. 
  <p class="updated_time"> 04:00 PM CT, Nov. 09 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-09/china-tech-crackdown-is-upending-lives-from-beijing-to-kentucky">China’s Tech Crackdown Is Upending Lives From Beijing to Kentucky</a> Bloomberg: For the past five years, Catrina Cowart started most of her days at 5 a.m. with a live-streamed call from China. Through a tutoring app called VIPKid, the freelance writer in Lexington, Kentucky earned $21 an hour teaching English to Chinese kids, more than what she would have made at a local school. But her routine ended this summer after Beijing decreed a large portion of its $100 billion private education sector illegal. 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-09/china-tech-crackdown-is-upending-lives-from-beijing-to-kentucky">China Tech Crackdown Is Upending Lives From Beijing to Kentucky</a> Bloomberg: For the past five years, Catrina Cowart started most of her days at 5 a.m. with a live-streamed call from China. Through a tutoring app called VIPKid, the freelance writer in Lexington, Kentucky earned $21 an hour teaching English to Chinese kids, more than what she would have made at a local school. But her routine ended this summer after Beijing decreed a large portion of its $100 billion private education sector illegal. 
  <p class="updated_time"> 03:58 PM CT, Nov. 09 </p> 
  <a href="https://www.politico.com/news/2021/11/09/facebook-meta-ad-restrictions-520462">Facebook places new restrictions on ad targeting</a> Politico: The platform will limit targeting based on users' interactions with content related to health, race and other sensitive areas. 
  <p class="updated_time"> 03:51 PM CT, Nov. 09 </p> 
@@ -317,7 +323,7 @@ permalink: /projects/news/
  <p class="updated_time"> 03:00 PM CT, Nov. 09 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-09/thai-court-to-decide-if-protesters-aimed-to-overthrow-monarchy">Thai Court to Decide If Protesters Aimed to Overthrow Monarchy</a> Bloomberg: Thailand’s Constitutional Court is set to rule Wednesday on whether protester demands to reform the monarchy violated a provision in the military-drafted charter that bans any move to “overthrow” the royal institution. 
  <p class="updated_time"> 02:53 PM CT, Nov. 09 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-09/u-s-lawmakers-visit-to-taiwan-inflames-tensions-with-china">U.S. Lawmakers’ Visit to Taiwan Inflames Tensions With China</a> Bloomberg: A group of American lawmakers visited Taiwan, arriving on a U.S. military plane, in a move likely to further inflame tensions between Washington and Beijing over the status of the self-governing island. 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-09/u-s-lawmakers-visit-to-taiwan-inflames-tensions-with-china">U.S. Lawmakers’ Visit to Taiwan Tests Detente With China</a> Bloomberg: A group of American lawmakers visited Taiwan, arriving on a U.S. military plane, in a move likely to further inflame tensions between Washington and Beijing over the status of the self-governing island. 
  <p class="updated_time"> 02:53 PM CT, Nov. 09 </p> 
  <a href="https://www.washingtonpost.com/politics/january-6-trump-committee/2021/11/09/2bb70d22-419b-11ec-9ea7-3eb2406a2e24_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Jan. 6 committee subpoenas more Trump aides, including Miller, McEnany and McEntee</a> WaPo: The committee has sent out subpoenas in recent weeks to aides and allies of former president Donald Trump as part of its investigation into the attack as well as Trump’s attempts to overturn the election results. 
  <p class="updated_time"> 02:39 PM CT, Nov. 09 </p> 
@@ -404,8 +410,6 @@ permalink: /projects/news/
  <a href="https://www.bloomberg.com/news/articles/2021-11-09/thousands-of-uk-s-phone-boxes-to-be-protected-from-closure">Britain Acts to Secure Future for Thousands of Red Phone Boxes </a> Bloomberg: Thousands of Britain’s iconic red phone boxes will be protected from removal under new rules, the U.K.'s telecommunications regulator said Tuesday. 
  <p class="updated_time"> 10:24 AM CT, Nov. 09 </p> 
  <a href="https://www.washingtonpost.com/politics/2021/03/09/senate-seats-up-2022/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">How the 2022 Senate map is shaping up</a> WaPo: Republican retirements are the early story of the 2022 battle for the Senate. 
- <p class="updated_time"> 10:24 AM CT, Nov. 09 </p> 
- <a href="https://www.washingtonpost.com/politics/2021/03/09/senate-seats-up-2022/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">How the 2022 Senate map is shaping up</a> WaPo: Republican retirements are the early story of the 2022 battle for the Senate. 
  <p class="updated_time"> 09:46 AM CT, Nov. 09 </p> 
  <a href="https://www.politico.com/news/2021/11/09/sununu-wont-run-for-senate-520413">Sunu-no: Top GOP recruit won't run for Senate</a> Politico: New Hampshire Gov. Chris Sununu said Tuesday he will seek reelection, denying Republicans their top recruit of the 2022 election cycle. 
  <p class="updated_time"> 09:35 AM CT, Nov. 09 </p> 
@@ -422,8 +426,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/huddle/2021/11/09/senate-schedule-seasonally-depressing-495031">Senate schedule: seasonally depressing</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:19 AM CT, Nov. 09 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/09/a-trump-backed-senate-hopeful-takes-the-stand-495028">POLITICO Playbook: A Trump-backed Senate hopeful takes the stand</a> Politico: And the Jan. 6 committee subpoenas more Trump aides. 
- <p class="updated_time"> 06:16 AM CT, Nov. 09 </p> 
- <a href="https://www.politico.com/news/2021/11/09/trump-jan-6-520405">Trump makes — and loses — overnight bid to block Jan. 6 investigators</a> Politico: The Archives indicated it would turn documents over to lawmakers by Friday. 
  <p class="updated_time"> 06:13 AM CT, Nov. 09 </p> 
  <a href="https://www.npr.org/2021/11/09/1053793595/first-lady-jill-biden-stops-by-historic-virginia-schools-vaccine-clinic">First lady Jill Biden stops by historic Virginia school's vaccine clinic</a> NPR: The first school to administer the polio vaccine in 1954 in McLean, Va., was also the scene for the kickoff of a White House drive to get kids vaccinated for COVID-19. 
  <p class="updated_time"> 05:06 AM CT, Nov. 09 </p> 
@@ -446,8 +448,6 @@ permalink: /projects/news/
  <a href="https://www.bloomberg.com/news/articles/2021-11-09/european-gas-price-slides-on-signs-some-russian-flows-increase">European Gas Slides as Russia Progressively Steps Up Exports</a> Bloomberg: European natural gas prices slipped on signs Russia may be starting to gradually deliver the boost in supplies President Vladimir Putin promised. 
  <p class="updated_time"> 11:43 PM CT, Nov. 08 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ocUa0LJQ22A/index.html">GOP Rep. Fred Upton details threatening voicemail he received after voting for bipartisan infrastructure bill</a> CNN: Republican Rep. Fred Upton on Monday shared a threatening voicemail he had received after voting for the bipartisan infrastructure bill last week. 
- <p class="updated_time"> 11:30 PM CT, Nov. 08 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-09/amlo-replaces-high-profile-financial-crimes-chief-after-scandal">Mexico’s AMLO Replaces High-Profile Financial Crimes Chief After Scandal</a> Bloomberg: Mexico’s President Andres Manuel Lopez Obrador has replaced his high-profile financial intelligence chief after criticizing a lavish wedding thrown by the government official and his partner in Guatemala. 
  <p class="updated_time"> 10:14 PM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/us/politics/democrats-budget-bill-cuts-infrastructure.html">On Chicago’s West Side, Urgent Needs Collide With Washington Compromises</a> NYT: Activists say the needs of struggling communities in Chicago and elsewhere vastly exceed the billions Congress is spending. 
  <p class="updated_time"> 09:30 PM CT, Nov. 08 </p> 
