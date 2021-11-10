@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:45 AM CT, Nov. 10 </p> 
+ <a href="https://www.nytimes.com/2021/11/10/world/europe/france-climate-change-energy-prices.html">In France, the People COP26 Forgot Seethe Over Rising Energy Prices</a> NYT: In one area of France, worries about rising energy prices trump anxiety about rising temperatures, raising fears of a resurgence of the Yellow Vest social uprising. 
  <p class="updated_time"> 05:24 AM CT, Nov. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59231418?at_medium=RSS&at_campaign=KARANGA">Missing French teenage jogger found alive says she escaped kidnappers</a> BBC: The 17-year-old girl was found in a state of shock about 10km from where she had gone for a run. 
  <p class="updated_time"> 05:17 AM CT, Nov. 10 </p> 
@@ -33,8 +35,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59231136?at_medium=RSS&at_campaign=KARANGA">Belarus migrants: Poland faces fresh border breaches</a> BBC: The defence minister say many attempts were made to cross but 15,000 soldiers are now stationed there. 
  <p class="updated_time"> 02:55 AM CT, Nov. 10 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59231632?at_medium=RSS&at_campaign=KARANGA">Nasa's Moon return pushed back to 2025</a> BBC: The first Nasa mission to return to the surface of the Moon has been delayed by one year to 2025. 
- <p class="updated_time"> 02:00 AM CT, Nov. 10 </p> 
- <a href="https://www.nytimes.com/2021/11/10/world/europe/france-climate-change-energy-prices.html">In France, the People COP26 Forgot Seethe Over Rising Energy Prices</a> NYT: In one area of France, worries about rising energy prices trump anxiety about rising temperatures, raising fears of a resurgence of the Yellow Vest social uprising. 
  <p class="updated_time"> 01:23 AM CT, Nov. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59227425?at_medium=RSS&at_campaign=KARANGA">Capitol riot: Judge rejects Trump bid to withhold records</a> BBC: "Presidents are not kings," the judge ruled, adding the incumbent can decide what documents to release. 
  <p class="updated_time"> 10:35 PM CT, Nov. 09 </p> 
@@ -194,6 +194,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/11/10/new-reminders-that-this-is-not-normal-495046">POLITICO Playbook: New reminders that this is not normal</a> Politico: And a new poll shows Biden's vaccine mandate losing support. 
  <p class="updated_time"> 06:00 AM CT, Nov. 10 </p> 
  <a href="https://www.politico.com/news/2021/11/10/136-countries-agreed-to-a-global-minimum-corporate-tax-rate-what-now-520418">136 countries agreed to a global minimum corporate tax rate. What now?</a> Politico: No one hands over billions of dollars in tax revenue without a fight. 
+ <p class="updated_time"> 05:38 AM CT, Nov. 10 </p> 
+ <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/k0mkJ7dnnc4/index.html">Prosecutors seek 4+ years in prison for 'QAnon Shaman' in attempt to set example</a> CNN: The Justice Department is asking for the so-called QAnon Shaman, who wore a headdress and posed shirtless on the Senate floor during the siege of the US Capitol, to be sentenced to a prison term of more than four years, the longest incarceration prosecutors have asked for any guilty January 6 defendant so far, according to a new court filing. 
  <p class="updated_time"> 05:19 AM CT, Nov. 10 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-10/swedish-government-clinches-deal-that-paves-the-way-for-new-pm">Swedish Government Clinches Deal That Paves the Way for New PM</a> Bloomberg: Sweden’s Center Party won’t seek to block Magdalena Andersson as the successor to current prime minister Stefan Lofven after it secured key concessions from the government. 
  <p class="updated_time"> 05:06 AM CT, Nov. 10 </p> 
@@ -259,7 +261,7 @@ permalink: /projects/news/
  <p class="updated_time"> 12:03 AM CT, Nov. 10 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/V8W_Di14YEM/index.html">Analysis: Extremists seize back control of the Republican Party's message machine</a> CNN: So much for the Republican Party being all about the future. 
  <p class="updated_time"> 11:56 PM CT, Nov. 09 </p> 
- <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/GPlnqU2pINE/index.html">Trump suffers blow in January 6 case but keeps trying to outrun the clock ahead of 2022 midterms </a> CNN: A federal judge sent a message to Donald Trump Tuesday that he cannot outrun the rule of law and the Constitution forever. But that doesn't mean he won't try. 
+ <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/GPlnqU2pINE/index.html">Judge eviscerates Trump's claim of executive privilege</a> CNN: A federal judge sent a message to Donald Trump Tuesday that he cannot outrun the rule of law and the Constitution forever. But that doesn't mean he won't try. 
  <p class="updated_time"> 11:08 PM CT, Nov. 09 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-10/chinese-virus-expert-launches-scathing-attack-on-covid-zero-push">Chinese Virus Expert Launches Scathing Attack on Covid Zero Push</a> Bloomberg: A top Chinese virologist warned the country risks economic collapse if local officials continue to try to wipe out all traces of Covid-19, marking the most vocal criticism of China’s so-called Covid Zero approach by one of its own experts. 
  <p class="updated_time"> 11:01 PM CT, Nov. 09 </p> 
@@ -306,8 +308,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/09/us/politics/jan-6-subpoena.html">At the Willard and the White House, the Jan. 6 Panel Widens Its Net</a> NYT: What went on at a five-star hotel near the White House the day before the riot could be a window into how a Trump-directed plot to upend the election ended in violence at the Capitol. 
  <p class="updated_time"> 07:08 PM CT, Nov. 09 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-10/china-is-close-to-launching-new-aircraft-carrier-report-says">China Nears Launch of First Modern Aircraft Carrier, Report Says</a> Bloomberg: China is three to six months from launching its third and most modern aircraft carrier, new analysis shows, in what would be a milestone for President Xi Jinping’s effort to project power into the high seas. 
- <p class="updated_time"> 07:07 PM CT, Nov. 09 </p> 
- <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/a3WguaB4a70/index.html">California Gov. Newsom says he canceled trip to climate summit after 'intervention' from his kids</a> CNN: Amid a swirl of questions about his absence from the public eye over the past week, California Gov. Gavin Newsom said Tuesday that he had decided to cancel his plans to attend the United Nations climate summit in Scotland after what he described as "an intervention" from his kids, who couldn't believe he was going to miss Halloween. 
  <p class="updated_time"> 06:57 PM CT, Nov. 09 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9CkE4Z67sDs/index.html">Abuse allegations cast shadow over Sean Parnell's Senate campaign</a> CNN: Sean Parnell's turbulent personal life, including allegations of abuse from his estranged wife, continues to spill into the open as the Senate hopeful appeared in court for a custody trial this week -- disrupting the Pennsylvania Republican's campaign and sowing doubt about his viability as a candidate. 
  <p class="updated_time"> 06:23 PM CT, Nov. 09 </p> 
