@@ -119,8 +119,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/russia-keeps-europe-guessing-with-tight-gas-supplies-11636463284">Russia Keeps Europe Guessing With Tight Gas Supplies</a> WSJ: President Vladimir Putin said last month that Russia, which supplies almost half of Europe’s gas imports, would boost deliveries to stabilize the market, as prices are high and reserves are low ahead of the European winter. 
  <p class="updated_time"> 08:47 AM CT, Nov. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59225086?at_medium=RSS&at_campaign=KARANGA">Toxic foam covers sacred Yamuna river in India</a> BBC: Hindu devotees are filmed bathing in the Yamuna river to mark the Chhath Puja religious festival. 
- <p class="updated_time"> 08:01 AM CT, Nov. 09 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-59220687?at_medium=RSS&at_campaign=KARANGA">COP26: World headed for 2.4C warming despite climate summit - report</a> BBC: New analysis of pledges at COP26 suggest no government is doing enough to limit temperature rise. 
  <p class="updated_time"> 07:53 AM CT, Nov. 09 </p> 
  <a href="https://www.wsj.com/articles/u-s-canada-border-opening-sends-snowbirds-south-11636484009">U.S.-Canada Border Opening Sends Snowbirds Cruising South</a> WSJ: Canadians are again driving to the U.S. to escape a harsh winter, and businesses in Florida and other states are eager to welcome them. 
  <p class="updated_time"> 07:05 AM CT, Nov. 09 </p> 
@@ -354,8 +352,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/09/jan-6-panel-testimony-stephen-miller-kayleigh-mcenany-520455">Jan. 6 panel demands testimony from Stephen Miller, Kayleigh McEnany</a> Politico: Investigators are accelerating their efforts to compel testimony from key Donald Trump aides with knowledge of his efforts to overturn the 2020 election results. 
  <p class="updated_time"> 03:08 PM CT, Nov. 09 </p> 
  <a href="https://www.nytimes.com/2021/11/09/us/politics/trucker-shortage-supply-chain.html">The Biggest Kink in America’s Supply Chain: Not Enough Truckers</a> NYT: Long hours and uncomfortable working conditions are leading to a shortage of truck drivers, which has compounded shipping delays in the United States. 
- <p class="updated_time"> 03:00 PM CT, Nov. 09 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-09/thai-court-to-decide-if-protesters-aimed-to-overthrow-monarchy">Thai Court to Decide If Protesters Aimed to Overthrow Monarchy</a> Bloomberg: Thailand’s Constitutional Court is set to rule Wednesday on whether protester demands to reform the monarchy violated a provision in the military-drafted charter that bans any move to “overthrow” the royal institution. 
  <p class="updated_time"> 02:53 PM CT, Nov. 09 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-09/u-s-lawmakers-visit-to-taiwan-inflames-tensions-with-china">U.S. Lawmakers’ Visit to Taiwan Tests Detente With China</a> Bloomberg: A group of American lawmakers visited Taiwan, arriving on a U.S. military plane, in a move likely to further inflame tensions between Washington and Beijing over the status of the self-governing island. 
  <p class="updated_time"> 02:53 PM CT, Nov. 09 </p> 
@@ -398,6 +394,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/09/us/politics/where-is-newsom-california.html">Where Is Gavin Newsom, California's Governor?</a> NYT: He’s in the office, according to increasingly frustrated staff members. But his critics on Twitter aren’t buying it. 
  <p class="updated_time"> 12:36 PM CT, Nov. 09 </p> 
  <a href="https://www.washingtonpost.com/politics/2021/11/09/year-later-an-obviously-illegal-campaign-stunt-is-determined-have-been-illegal/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">A year later, an obviously illegal campaign stunt is determined to have been illegal</a> WaPo: Relying on voluntary adherence to the law has some flaws. 
+ <p class="updated_time"> 12:10 PM CT, Nov. 09 </p> 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-09/un-says-16-staff-members-detained-in-ethiopia-as-crisis-worsens">UN Staff Members Detained in Ethiopia as Crisis Worsens</a> Bloomberg: The United Nations said 16 staff members have been detained in Ethiopia’s capital, as a leader of the Tigray rebels warned mediation efforts to end the crisis in the Horn of African nation may fail. 
  <p class="updated_time"> 12:02 PM CT, Nov. 09 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/B4jbhNAVlq0/index.html">Republicans who voted for Biden's infrastructure bill come under fire from Trump </a> CNN: Former President Donald Trump privately criticized on Monday night the 13 Republicans who voted to pass the $1.2 trillion infrastructure bill, questioning why they would give President Joe Biden a win when he's struggling in the polls, according to a GOP source. 
  <p class="updated_time"> 12:00 PM CT, Nov. 09 </p> 
