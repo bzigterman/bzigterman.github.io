@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:54 PM CT, Nov. 09 </p> 
+ <p class="updated_time"> 12:38 AM CT, Nov. 10 </p> 
  <a href="https://www.bbc.co.uk/news/business-59229995?at_medium=RSS&at_campaign=KARANGA">Peter Jackson sells visual effects firm for $1.6bn to Unity</a> BBC: New Zealand-based Weta Digital created the characters Gollum and Caesar in Planet of the Apes. 
  <p class="updated_time"> 10:44 PM CT, Nov. 09 </p> 
  <a href="https://www.nytimes.com/2021/11/09/climate/alexandria-ocasio-cortez-cop26.html">‘America Is Back’ Pelosi Says at Glasgow Climate Talks</a> NYT: Representative Alexandria Ocasio-Cortez was among a group of Democratic lawmakers who traveled with Ms. Pelosi to barnstorm the COP26 climate summit. 
