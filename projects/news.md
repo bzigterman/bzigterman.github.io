@@ -216,6 +216,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/09/brian-williams-leave-nbc-news-520551">Brian Williams says he’s leaving NBC News at end of year</a> Politico: “I’ll pop up again somewhere,” he said. 
  <p class="updated_time"> 08:51 PM CT, Nov. 09 </p> 
  <a href="https://www.politico.com/news/2021/11/09/businesses-biden-covid-vaccine-rule-520548">Businesses warn of 'irreparable harm' if no permanent stay of Biden vaccine rule</a> Politico: The emergency rules released by the Department of Labor last week require private businesses with more than 100 employees to ensure their workers are vaccinated or have them submit to weekly testing by Jan. 4. 
+ <p class="updated_time"> 08:44 PM CT, Nov. 09 </p> 
+ <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/cY1S9LREd9o/index.html">Judge denies Trump's overnight request for injunction in executive privilege case, still needs to rule on main case</a> CNN: Former President Donald Trump's latest procedural attempt to keep secret documents from his presidency about the January 6 insurrection quickly failed overnight. 
  <p class="updated_time"> 08:30 PM CT, Nov. 09 </p> 
  <a href="https://www.washingtonpost.com/local/legal-issues/trump-records-jan-6-committee-judge-ruling/2021/11/09/4d256cec-3e44-11ec-bfad-8283439871ec_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Trump White House records can be turned over to House Jan. 6 investigative committee, judge rules</a> WaPo: Court deals blow to former president’s claim to executive privilege after Biden White House approved release. 
  <p class="updated_time"> 08:25 PM CT, Nov. 09 </p> 
@@ -223,7 +225,7 @@ permalink: /projects/news/
  <p class="updated_time"> 08:21 PM CT, Nov. 09 </p> 
  <a href="https://www.politico.com/news/2021/11/09/trump-endorsement-mcgeachin-little-idaho-520544">Trump endorses rival against Idaho Gov. Brad Little</a> Politico: The former president is backing Lt. Gov. Janice McGeachin, who has sought to undermine the current governor. 
  <p class="updated_time"> 08:19 PM CT, Nov. 09 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-10/trump-fails-to-block-jan-6-committee-from-getting-documents">Trump Fails to Block Jan. 6 Committee From Getting Documents</a> Bloomberg: Former President Donald Trump failed to block the release of documents sought by a U.S. House panel investigating the Jan. 6 Capitol riot. 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-10/trump-fails-to-block-jan-6-committee-from-getting-documents">Trump Fails to Block Jan. 6 Committee From Getting Records</a> Bloomberg: Former President Donald Trump failed to block the release of documents sought by a U.S. House panel investigating the Jan. 6 Capitol riot. 
  <p class="updated_time"> 08:01 PM CT, Nov. 09 </p> 
  <a href="https://www.washingtonpost.com/politics/republicans-infrastructure-biden/2021/11/09/cc0c4c9e-4167-11ec-9ea7-3eb2406a2e24_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Tensions rise among Republicans over infrastructure bill and whether any agreement with Biden should be tolerated</a> WaPo: For Donald Trump and many Republicans, their love of infrastructure has turned to loathing now that it bears President Biden’s imprimatur. 
  <p class="updated_time"> 07:37 PM CT, Nov. 09 </p> 
@@ -372,8 +374,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/09/us/politics/where-is-newsom-california.html">Where Is Gavin Newsom, California's Governor?</a> NYT: He’s in the office, according to increasingly frustrated staff members. But his critics on Twitter aren’t buying it. 
  <p class="updated_time"> 12:36 PM CT, Nov. 09 </p> 
  <a href="https://www.washingtonpost.com/politics/2021/11/09/year-later-an-obviously-illegal-campaign-stunt-is-determined-have-been-illegal/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">A year later, an obviously illegal campaign stunt is determined to have been illegal</a> WaPo: Relying on voluntary adherence to the law has some flaws. 
- <p class="updated_time"> 12:20 PM CT, Nov. 09 </p> 
- <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/cY1S9LREd9o/index.html">Judge denies Trump's overnight request for injunction in executive privilege case, still needs to rule on main case</a> CNN: Former President Donald Trump's latest procedural attempt to keep secret documents from his presidency about the January 6 insurrection quickly failed overnight. 
  <p class="updated_time"> 12:16 PM CT, Nov. 09 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-09/high-court-grapples-with-religious-rights-in-execution-chamber">Supreme Court Grapples With Religious Rights in Execution Chamber</a> Bloomberg: The U.S. Supreme Court grappled with the religious rights of death-row inmates in the execution chamber, as the justices weighed a request by a Texas prisoner to have his Baptist pastor pray aloud and place his hands on the man during the lethal injection. 
  <p class="updated_time"> 12:16 PM CT, Nov. 09 </p> 
@@ -417,7 +417,7 @@ permalink: /projects/news/
  <p class="updated_time"> 09:33 AM CT, Nov. 09 </p> 
  <a href="https://www.nytimes.com/2021/11/08/us/politics/employer-vaccine-mandates.html">US Urges Court Not to Block Vaccine Mandate on Employers</a> NYT: The Biden Justice Department filed its case before an appeals court that has temporarily halted the measure. 
  <p class="updated_time"> 09:21 AM CT, Nov. 09 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-09/brazil-congress-to-resume-voting-on-bill-that-eases-fiscal-rule">Brazil Congress Resumes Voting on Bill that Eases Fiscal Law</a> Bloomberg: Brazil’s lower house is under pressure to conclude voting on a controversial proposal that bends the country’s fiscal rules to finance a new social program President Jair Bolsonaro intends to launch ahead of his 2022 re-election campaign. 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-09/brazil-congress-to-resume-voting-on-bill-that-eases-fiscal-rule">Brazil’s Lower House Approves Proposal That Eases Austerity Law</a> Bloomberg: Brazil’s lower house of congress passed a controversial proposal that bends the country’s fiscal rules to finance a new social program President Jair Bolsonaro is launching ahead of his 2022 re-election campaign. 
  <p class="updated_time"> 08:55 AM CT, Nov. 09 </p> 
  <a href="https://www.npr.org/2021/11/09/1053847935/congress-cars-drunk-driving-auto">Congress' new mandate to carmakers: Figure out a way to stop drunk driving</a> NPR: Under the legislation, monitoring systems to stop intoxicated drivers would roll out in all new vehicles as early as 2026. "It's monumental," said Alex Otte of Mothers Against Drunk Driving. 
  <p class="updated_time"> 08:51 AM CT, Nov. 09 </p> 
