@@ -7,12 +7,18 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:17 AM CT, Nov. 10 </p> 
+ <a href="https://www.npr.org/2021/11/10/1054237391/chile-president-impeached-pandora-papers-sebastian-pinera">Chile's president has been impeached over the Pandora Papers allegations</a> NPR: The impeachment sets up a Senate trial over whether to remove Sebastián Piñera over allegations he favored the sale of a family property while in office. The effort has 24 of the needed 29 votes. 
+ <p class="updated_time"> 09:16 AM CT, Nov. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-59231477?at_medium=RSS&at_campaign=KARANGA">COP26: Draft deal calls for stronger carbon cutting targets by end of 2022</a> BBC: The document says vulnerable nations must get more help to cope with the deadly impacts of global warming. 
+ <p class="updated_time"> 09:15 AM CT, Nov. 10 </p> 
+ <a href="https://www.bbc.co.uk/sport/football/59236410?at_medium=RSS&at_campaign=KARANGA">PSG player Diallo arrested over attack on teammate</a> BBC: Paris St-Germain women's midfielder Aminata Diallo is arrested as part of an investigation into an attack on team-mates on 4 November. 
+ <p class="updated_time"> 09:00 AM CT, Nov. 10 </p> 
+ <a href="https://www.nytimes.com/2021/11/10/theater/little-amal-the-walk.html">Little Amal, a Refugee Puppet, Looks for Home</a> NYT: In “The Walk,” a 12-foot tall, 9-year-old Syrian girl named Amal trekked from Turkey to Britain to find her mother. In a politically divided continent, were any minds changed? 
  <p class="updated_time"> 08:45 AM CT, Nov. 10 </p> 
- <a href="https://www.npr.org/2021/11/10/1054239976/ethiopia-detains-about-70-drivers-who-deliver-aid-as-war-escalates-the-u-n-says">Ethiopia detains about 70 drivers who deliver aid as war escalates, the U.N. says</a> NPR: The U.N. says Ethiopian authorities have arrested and detained some 70 truck drivers contracted to the U.N. and other aid groups in the past week since the government declared a state of emergency. 
+ <a href="https://www.npr.org/2021/11/10/1054239976/ethiopia-tigray-drivers-war-aid">Ethiopia detains about 70 drivers who deliver aid as war escalates, the U.N. says</a> NPR: The U.N. says Ethiopian authorities have arrested and detained some 70 truck drivers contracted to the U.N. and other aid groups in the past week since the government declared a state of emergency. 
  <p class="updated_time"> 08:39 AM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/08/world/europe/uk-brexit-estonia-business.html">Brexit Brain Drain  Delivers Financial Boon to Estonia</a> NYT: The former Soviet satellite state is welcoming British companies looking to escape the tangle of regulations and financial obstacles of doing business in Europe. 
- <p class="updated_time"> 08:32 AM CT, Nov. 10 </p> 
- <a href="https://www.bbc.co.uk/sport/football/59236410?at_medium=RSS&at_campaign=KARANGA">Aminata Diallo: Paris St-Germain player arrested as part of investigation into attack on team-mates</a> BBC: Paris St-Germain women's midfielder Aminata Diallo is arrested as part of an investigation into an attack on team-mates on 4 November. 
  <p class="updated_time"> 08:23 AM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/world/climate-change-activists-cop26.html">Young Climate Activists Say COP26 Has Unified Them</a> NYT: Young activists from across the world expressed disappointment at what they see as empty promises from world leaders. 
  <p class="updated_time"> 08:10 AM CT, Nov. 10 </p> 
@@ -29,8 +35,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/10/world/europe/covid-germany-record-cases.html">Germany Weighs New Covid Rules as Infections Reach Record Heights</a> NYT: Nearly 40,000 new cases were registered in the country on Tuesday — the third time a daily record was set within a week. “We have a real emergency situation,” a top virologist said. 
  <p class="updated_time"> 07:40 AM CT, Nov. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59230566?at_medium=RSS&at_campaign=KARANGA">Thai court says calls for monarchy reform unconstitutional</a> BBC: Judges say comments by three protest leaders amount to an attempt to overthrow the political system. 
- <p class="updated_time"> 07:39 AM CT, Nov. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-59231477?at_medium=RSS&at_campaign=KARANGA">COP26: Draft deal calls for stronger carbon cutting targets by end of 2022</a> BBC: The document says vulnerable nations must get more help to cope with the deadly impacts of global warming. 
  <p class="updated_time"> 07:32 AM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/09/world/africa/ethiopia-united-nations.html">Ethiopia Seizes 16 UN Workers Amid Efforts to Halt Tigray War</a> NYT: The detentions aggravated the already tense relations between the United Nations and the Ethiopian government over war and hunger in the country’s rebel-held Tigray region. 
  <p class="updated_time"> 07:16 AM CT, Nov. 10 </p> 
@@ -41,6 +45,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59233943?at_medium=RSS&at_campaign=KARANGA">Eitan Biran: Italy asks Israel to arrest cable car boy's grandfather</a> BBC: Prosecutors say Shmulik Peleg kidnapped Eitan Biran when he flew him to Israel without permission. 
  <p class="updated_time"> 06:36 AM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/world/asia/covid-china-shenyang-quarantine.html">This Chinese City Requires 28 Days of Quarantine. Then Another 28.</a> NYT: The restrictions in Shenyang are a stark example of how seriously officials are taking the country’s “zero Covid” approach to the pandemic. 
+ <p class="updated_time"> 06:30 AM CT, Nov. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/science-environment-59231636?at_medium=RSS&at_campaign=KARANGA">Horse trading set to begin over agreement at COP26</a> BBC: The release of a draft text for the COP26 agreement signals the start of serious negotiations. 
  <p class="updated_time"> 06:22 AM CT, Nov. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59233232?at_medium=RSS&at_campaign=KARANGA">Haiti water shortage: 'We pray for rain every day'</a> BBC: A fuel shortage caused by gangs blocking distribution terminals is also affecting water supplies. 
  <p class="updated_time"> 05:49 AM CT, Nov. 10 </p> 
@@ -173,18 +179,12 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/08/1053647220/indigenous-activists-say-the-legacy-of-colonialism-has-limited-their-access-to-c">Indigenous activists say the legacy of colonialism has limited their access to COP-26</a> NPR: Indigenous activists from around the world are in Glasgow for COP26, but say the same legacy of colonialism that has led to climate-related losses has impacted their access to the conference. 
  <p class="updated_time"> 03:24 PM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/world/americas/canada-pcr-test-border.html">Expensive Virus Test Still Hinders Canadian Travel to U.S. </a> NYT: Canada requires travelers to present the results of an expensive coronavirus test to enter, deterring short hops across the border. 
- <p class="updated_time"> 03:20 PM CT, Nov. 08 </p> 
- <a href="https://www.npr.org/2021/11/08/1053647213/daniel-ortega-has-won-the-nicaragua-presidency-in-an-election-many-say-was-a-sha">Daniel Ortega has won the Nicaragua presidency in an election many say was a sham</a> NPR: Nicaragua's leader Daniel Ortega says he was overwhelmingly elected president for a fourth consecutive term Sunday. But critics, including leaders around the world, say the elections were a sham. 
  <p class="updated_time"> 03:02 PM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/world/europe/heathrow-first-flight-us-travel-ban.html">Excited Passengers Board First Flight from Heathrow to the U.S.</a> NYT: Long lines formed at Heathrow Airport for the first scheduled trips to the United States since the Biden administration lifted a travel ban. 
  <p class="updated_time"> 02:41 PM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/world/africa/oscar-pistorius-bladerunner-parole.html">Oscar Pistorius, Olympic Runner Convicted of Murder, Is Up for Parole</a> NYT: The double-amputee sprinter has served half his sentence for killing his girlfriend. His victim’s parents were said to be “shocked” at the prospect of his release. 
  <p class="updated_time"> 01:22 PM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/us/canada-travel.html">Thousands of Canadians Head for the Southern United States Again</a> NYT: With the border opening to tourists, thousands of Canadian “snowbirds” are on their way to Florida, Arizona and California with campers in tow. 
- <p class="updated_time"> 09:54 AM CT, Nov. 08 </p> 
- <a href="https://www.nytimes.com/2021/11/08/world/europe/europe-us-travel-ban.html">U.S. Travel Ban Ends, and Europeans Head Overseas Again</a> NYT: Europeans were kept apart from family and friends as the ban dragged on long after E.U. leaders had opened their borders. 
- <p class="updated_time"> 05:26 AM CT, Nov. 08 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-59206814?at_medium=RSS&at_campaign=KARANGA">COP26: Rich countries ‘pushing back’ on paying for climate loss</a> BBC: Poorer countries say they are not able to get compensation for the damage caused by climate change. 
  <p class="updated_time"> 06:14 PM CT, Nov. 07 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59199484?at_medium=RSS&at_campaign=KARANGA">COP26: Fossil fuel industry has largest delegation at climate summit</a> BBC: There are more participants than from any single country, a study shared with the BBC suggests. 
 
@@ -194,24 +194,30 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:19 AM CT, Nov. 10 </p> 
+ <a href="https://www.nytimes.com/2021/11/10/business/economy/consumer-price-inflation-october.html">Inflation Rose in October at Fastest Rate Since 1990</a> NYT: The Consumer Price Index rose 6.2 percent in October from a year ago, its fastest increase since 1990. That is bad news for President Biden and the central bank. 
  <p class="updated_time"> 09:14 AM CT, Nov. 10 </p> 
  <a href="https://www.politico.com/news/2021/11/10/consumer-prices-soar-520574">U.S. consumer prices soared 6.2 percent in past year, most since 1990</a> Politico: Prices for U.S. consumers jumped 6.2 percent in October compared with a year earlier as surging costs for food, gas and housing left Americans grappling with the highest inflation rate since 1990. 
+ <p class="updated_time"> 09:07 AM CT, Nov. 10 </p> 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-10/biden-says-he-s-directed-economic-aides-to-focus-on-energy-costs">Biden Says He’s Directed Economic Aides to Focus on Energy Costs</a> Bloomberg: President Joe Biden said he’s directed his top economic aides to focus on reducing energy prices, which he blamed for accelerating U.S. inflation. 
  <p class="updated_time"> 09:05 AM CT, Nov. 10 </p> 
  <a href="https://www.politico.com/news/2021/11/10/world-shares-china-inflation-520573">World shares mixed as China inflation pushes higher</a> Politico: China’s consumer price index, a main measure of inflation, rose 1.5 percent in October, up from 0.7 percent the month before, the National Bureau of Statistics reported. 
+ <p class="updated_time"> 08:59 AM CT, Nov. 10 </p> 
+ <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9WtzTr2Xnng/index.html">Biden to meet with Trudeau and López Obrador for first US-Canada-Mexico summit since 2016</a> CNN: Canadian Prime Minister Justin Trudeau and Mexican President Andrés Manuel López Obrador will come to the White House on November 18 for a summit with President Joe Biden, the first North American Leaders' Summit since 2016. 
+ <p class="updated_time"> 08:59 AM CT, Nov. 10 </p> 
+ <a href="https://www.nytimes.com/2021/11/10/us/ruth-ann-minner-dead.html">Ruth Ann Minner, Down-to-Earth Governor of Delaware, Dies at 86</a> NYT: The first woman in that position, she rose from being a receptionist in the governor’s office to claiming the top job herself. 
  <p class="updated_time"> 08:30 AM CT, Nov. 10 </p> 
  <a href="https://www.politico.com/news/2021/11/10/nevada-democrat-transgender-520572">Nevada Democrat seeks to become first openly transgender statewide elected official</a> Politico: The lieutenant governor’s office is currently vacant. 
  <p class="updated_time"> 08:27 AM CT, Nov. 10 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Vl_GX5awrFg/index.html">13 senior Trump administration officials violated Hatch Act, report finds</a> CNN: Thirteen senior Trump administration officials violated the Hatch Act, according to a report from the US Office of Special Counsel that was released on Tuesday. 
  <p class="updated_time"> 08:17 AM CT, Nov. 10 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-10/court-orders-ex-mozambique-minister-be-extradited-to-u-s">Court Orders Ex-Mozambique Minister Be Extradited to U.S.</a> Bloomberg: A South African court ordered former Mozambican Finance Minister Manuel Chang be extradited to the U.S. to face charges related to a $2 billion debt scandal that led to a sovereign default. 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-10/court-orders-ex-mozambique-minister-be-extradited-to-u-s">Court Orders Ex-Mozambique Minister to Be Extradited to U.S.</a> Bloomberg: A South African court ordered former Mozambican Finance Minister Manuel Chang be extradited to the U.S. to face charges related to a $2 billion debt scandal that led to a sovereign default. 
  <p class="updated_time"> 08:14 AM CT, Nov. 10 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rdMrFK63JMw/index.html">Is there a lane for Liz Cheney in New Hampshire in 2024?</a> CNN: Sometimes in politics it's not so much what you say, it's where you say it. 
  <p class="updated_time"> 08:13 AM CT, Nov. 10 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-10/biden-plans-to-host-trudeau-amlo-at-white-house-summit-nov-18">Biden Plans to Host Trudeau, AMLO at White House Summit Nov. 18</a> Bloomberg: President Joe Biden will host a summit on Nov. 18 with Canadian Prime Minister Justin Trudeau and Mexican President Andrés Manuel López Obrador, the White House announced. 
  <p class="updated_time"> 08:12 AM CT, Nov. 10 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/V5nfxB5ZmBc/index.html">Biden administration to announce deal to provide J&J Covid-19 vaccine to people in conflict zones and humanitarian settings</a> CNN: The Biden administration will announce on Wednesday a new deal it brokered with Johnson & Johnson and Covax to provide J&J's Covid-19 vaccine to people in conflict zones and other humanitarian settings where government vaccine campaigns cannot reach, a White House official told CNN. 
- <p class="updated_time"> 08:08 AM CT, Nov. 10 </p> 
- <a href="https://www.nytimes.com/2021/11/10/business/economy/consumer-price-inflation-october.html">Inflation Rose in October at Fastest Rate Since 1990</a> NYT: The Consumer Price Index rose 6.2 percent in October from a year ago, its fastest increase since 1990. That is bad news for President Biden and the central bank. 
  <p class="updated_time"> 08:06 AM CT, Nov. 10 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-10/u-s-to-announce-deal-to-rush-j-j-vaccine-into-conflict-zones">U.S. Announces Deal to Rush J&J’s Vaccine Into Conflict Zones</a> Bloomberg: The Biden administration announced it has reached a deal to rush doses of the Johnson &amp; Johnson vaccine against Covid-19 into conflict zones and other humanitarian settings around the world through the international Covax vaccine distribution program. 
  <p class="updated_time"> 08:03 AM CT, Nov. 10 </p> 
@@ -232,8 +238,6 @@ permalink: /projects/news/
  <a href="https://www.bloomberg.com/news/articles/2021-11-10/u-k-tells-eu-to-stay-calm-amid-brexit-spat-over-n-ireland">U.K. Tells EU to ‘Stay Calm’ Amid Brexit Spat Over Northern Ireland</a> Bloomberg: The U.K. urged the European Union to remain “calm” in the escalating dispute over post-Brexit Northern Ireland, as the two sides continue to exchange threats that could yet lead to an all-out trade war. 
  <p class="updated_time"> 07:05 AM CT, Nov. 10 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-10/tunisia-s-top-union-rejects-price-tax-rises-as-imf-talks-resume">Tunisia’s Top Union Rejects Price, Tax Rises as IMF Talks Resume</a> Bloomberg: Tunisia’s most powerful labor union rejected any attempt to raise the prices of basic commodities or increase taxes, as the North African country resumes talks with the International Monetary Fund on a rescue package. 
- <p class="updated_time"> 06:58 AM CT, Nov. 10 </p> 
- <a href="https://www.nytimes.com/2021/11/08/us/politics/democrats-budget-bill-cuts-infrastructure.html">On Chicago’s West Side, Urgent Needs Collide With Washington Compromises</a> NYT: Activists say the needs of struggling communities in Chicago and elsewhere vastly exceed the billions Congress is spending. 
  <p class="updated_time"> 06:45 AM CT, Nov. 10 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-10/pakistan-to-host-mutli-nation-meeting-for-peace-in-afghanistan">Pakistan to Host Multi-Nation Meeting for Peace in Afghanistan</a> Bloomberg: Pakistan will host a meeting of the so-called Troika Plus on Thursday, which is aimed at contributing to the ongoing efforts for achieving peace in Afghanistan. 
  <p class="updated_time"> 06:24 AM CT, Nov. 10 </p> 
@@ -368,8 +372,6 @@ permalink: /projects/news/
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zLrlBzrahCo/index.html">Cheney: Trump is trying to 'unravel the foundations of our constitutional republic'</a> CNN: Wyoming Rep. Liz Cheney said at a New Hampshire event on Tuesday that the United States is "confronting a domestic threat that we have never faced before" in the form of former President Donald Trump, who she said is "attempting to unravel the foundations of our constitutional republic." 
  <p class="updated_time"> 05:41 PM CT, Nov. 09 </p> 
  <a href="https://www.washingtonpost.com/politics/pelosi-calls-for-investigations-of-gosars-video-that-depicts-him-killing-ocasio-cortez/2021/11/09/5d5f3538-417e-11ec-9ea7-3eb2406a2e24_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Pelosi calls for investigations of Gosar’s video that depicts him killing Ocasio-Cortez</a> WaPo: In a tweet, the House speaker urged House Minority Leader Kevin McCarthy (R-Calif.) to support ethics and law enforcement investigations. 
- <p class="updated_time"> 05:23 PM CT, Nov. 09 </p> 
- <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/w6dVDX-AtQ8/index.html">Max Cleland, former VA administrator and senator, dies at 79</a> CNN: Joseph "Max" Cleland, a Vietnam War veteran and former leader of the Veterans Administration whose political career spanned more than four decades, died Tuesday from congestive heart failure at his home in Atlanta, his personal assistant Linda Dean told CNN. He was 79. 
  <p class="updated_time"> 05:11 PM CT, Nov. 09 </p> 
  <a href="https://www.washingtonpost.com/politics/2021/11/09/trailer-after-virginia-republicans-see-more-ways-beat-left/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">The Trailer: After Virginia, Republicans see more ways to beat the left</a> WaPo: Republicans see blue skies ahead, the strategy behind Glenn Youngkin's winning ad campaign, and election overtime in Florida and New Jersey. 
  <p class="updated_time"> 05:09 PM CT, Nov. 09 </p> 
@@ -416,8 +418,6 @@ permalink: /projects/news/
  <a href="https://www.washingtonpost.com/politics/2021/11/09/how-republicans-can-take-back-majority-senate-house/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">How Republicans can take back the majority in the Senate and House</a> WaPo: A look at how many seats they need to win and where in the 2022 midterm elections. 
  <p class="updated_time"> 01:34 PM CT, Nov. 09 </p> 
  <a href="https://www.washingtonpost.com/politics/2021/11/09/how-republicans-can-take-back-majority-senate-house/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">How Republicans can take back the majority in the Senate and House</a> WaPo: A look at how many seats they need to win and where in the 2022 midterm elections. 
- <p class="updated_time"> 01:26 PM CT, Nov. 09 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-09/biden-xi-virtual-summit-is-now-planned-for-next-week">Biden-Xi Virtual Summit Set for Next Week, With Date to Come</a> Bloomberg: U.S. President Joe Biden and his Chinese counterpart Xi Jinping are scheduled to hold a virtual summit next week, although no specific date has been set, according to people familiar with the matter. 
  <p class="updated_time"> 01:08 PM CT, Nov. 09 </p> 
  <a href="https://www.washingtonpost.com/politics/2021/11/09/gop-floats-punishing-13-its-members-their-sin-giving-biden-win/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">GOP floats punishment for its 13 apostates</a> WaPo: An effort is afoot to strip the 13 pro-infrastructure Republicans of their committee assignments. The most oft-cited reason? They gave Biden a win. 
  <p class="updated_time"> 01:08 PM CT, Nov. 09 </p> 
