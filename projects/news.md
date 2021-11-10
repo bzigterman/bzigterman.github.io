@@ -64,7 +64,7 @@ permalink: /projects/news/
  <p class="updated_time"> 03:50 PM CT, Nov. 09 </p> 
  <a href="https://www.npr.org/2021/11/09/1054032223/europe-is-moving-away-from-fossil-fuels-after-being-dependent-on-russia-for-deca">Europe is moving away from fossil fuels, after being dependent on Russia for decades</a> NPR: Russia is being held responsible by many western leaders for the sharp increase in natural gas prices in Europe. The view from Moscow is rather different. 
  <p class="updated_time"> 03:47 PM CT, Nov. 09 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59228801?at_medium=RSS&at_campaign=KARANGA">Marie Antoinette's bracelets sell at auction for $8m</a> BBC: The diamond bracelets of the last queen of France were sold to an anonymous telephone bidder. 
+ <a href="https://www.bbc.co.uk/news/world-europe-59228801?at_medium=RSS&at_campaign=KARANGA">Marie Antoinette's bracelets sell at auction for $8m</a> BBC: Two diamond bracelets once owned by the queen of France were sold to an anonymous telephone bidder. 
  <p class="updated_time"> 03:18 PM CT, Nov. 09 </p> 
  <a href="https://www.npr.org/2021/11/09/1054032167/what-president-xi-jinpings-absence-from-cop26-indicates-for-chinas-climate-pledg">What President Xi Jinping's absence from COP26 indicates for China's climate pledges</a> NPR: Chinese President Xi Jinping is not attending COP26 in person. Climate analysts and activists weigh in on what his absence means for the climate pledges made by one of the top carbon-emitting nations. 
  <p class="updated_time"> 03:13 PM CT, Nov. 09 </p> 
@@ -204,6 +204,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 01:20 AM CT, Nov. 10 </p> 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-10/malaysia-indonesia-agree-to-start-vaccinated-travel-lanes">Malaysia, Indonesia Agree to Start Vaccinated Travel Lanes</a> Bloomberg: Malaysia and Indonesia plan to allow fully-vaccinated travelers to fly between the two nations, just days after a similar agreement was struck in one of the world’s busiest air routes. 
  <p class="updated_time"> 12:47 AM CT, Nov. 10 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-10/pakistan-top-court-calls-imran-khan-in-school-attack-case">Pakistan Top Court Calls Imran Khan in School Attack Case</a> Bloomberg: Pakistan’s Supreme Court has ordered Prime Minister Imran Khan to appear in a case related to a major attack by the local Taliban seven years ago amid the government’s move for a peace agreement with the militant group. 
  <p class="updated_time"> 12:43 AM CT, Nov. 10 </p> 
@@ -376,8 +378,6 @@ permalink: /projects/news/
  <a href="https://www.washingtonpost.com/politics/2021/11/09/how-republicans-can-take-back-majority-senate-house/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">How Republicans can take back the majority in the Senate and House</a> WaPo: A look at how many seats they need to win and where in the 2022 midterm elections. 
  <p class="updated_time"> 01:34 PM CT, Nov. 09 </p> 
  <a href="https://www.washingtonpost.com/politics/2021/11/09/how-republicans-can-take-back-majority-senate-house/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">How Republicans can take back the majority in the Senate and House</a> WaPo: A look at how many seats they need to win and where in the 2022 midterm elections. 
- <p class="updated_time"> 01:30 PM CT, Nov. 09 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-09/biden-urges-net-zero-aviation-by-2050-in-huge-leap-beyond-cars">Biden Urges Net-Zero Aviation by 2050 in Huge Leap Beyond Cars</a> Bloomberg: President Joe Biden’s administration is targeting one of the tougher sources of climate-warming greenhouse gases with a plan that calls for the U.S. aviation sector to reach net-zero emissions by 2050. 
  <p class="updated_time"> 01:26 PM CT, Nov. 09 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-09/biden-xi-virtual-summit-is-now-planned-for-next-week">Biden-Xi Virtual Summit Set for Next Week, With Date to Come</a> Bloomberg: U.S. President Joe Biden and his Chinese counterpart Xi Jinping are scheduled to hold a virtual summit next week, although no specific date has been set, according to people familiar with the matter. 
  <p class="updated_time"> 01:24 PM CT, Nov. 09 </p> 
