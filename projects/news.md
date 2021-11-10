@@ -7,10 +7,14 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:04 AM CT, Nov. 10 </p> 
+ <p class="updated_time"> 11:28 AM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/live/2021/11/10/world/poland-belarus-border-migrants">Live Updates: Crisis on Europe’s Eastern Flank Deepens as Tension Escalates at Polish Border</a> NYT: Western officials accuse the leader of Belarus of using migrants as weapons and E.U. officials continued to express support for Poland. Lithuania, which also borders Belarus, declared a state of emergency. 
+ <p class="updated_time"> 11:13 AM CT, Nov. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59239853?at_medium=RSS&at_campaign=KARANGA">Kyle Rittenhouse: Accused teen takes stand in his own defence</a> BBC: Kyle Rittenhouse, 18, broke down in tears as he told he court he shot three men in self-defence. 
  <p class="updated_time"> 11:00 AM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/world/buttigieg-gasoline-diesel-vehicles.html">Pete Buttigieg Says U.S. 'Focused' on Reducing Auto Emissions</a> NYT: At the Glasgow climate summit, Mr. Buttigieg said the conversation surrounding climate change should focus on whether Earth can sustain life. 
+ <p class="updated_time"> 10:57 AM CT, Nov. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/science-environment-59209276?at_medium=RSS&at_campaign=KARANGA">My Day at COP26: 'I'm painting murals so people don't forget COP happened here'</a> BBC: Daniel Rupaszov, from Hungary, is an artist and activist who visits COP every year to create art which highlights the climate crisis. 
  <p class="updated_time"> 10:40 AM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/09/world/asia/us-holocaust-museum-china-uyghurs-report.html">U.S. Holocaust Museum Says China ‘May Be Committing Genocide’ Against Uyghurs</a> NYT: Its report found that the government’s attacks against the group of Muslims in Xinjiang had escalated and most likely included “forced sterilization, sexual violence, enslavement, torture, and forcible transfer.” 
  <p class="updated_time"> 10:39 AM CT, Nov. 10 </p> 
@@ -67,8 +71,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/09/world/africa/ethiopia-united-nations.html">Ethiopia Seizes 16 UN Workers Amid Efforts to Halt Tigray War</a> NYT: The detentions aggravated the already tense relations between the United Nations and the Ethiopian government over war and hunger in the country’s rebel-held Tigray region. 
  <p class="updated_time"> 07:13 AM CT, Nov. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59236320?at_medium=RSS&at_campaign=KARANGA">Huma Abedin: Hillary Clinton aide on laptop that may have lost the election</a> BBC: The FBI reinvestigated Hillary Clinton's emails after seizing a laptop from Huma Abedin's then-husband. 
- <p class="updated_time"> 06:52 AM CT, Nov. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59233943?at_medium=RSS&at_campaign=KARANGA">Eitan Biran: Italy asks Israel to arrest cable car boy's grandfather</a> BBC: Prosecutors say Shmulik Peleg kidnapped Eitan Biran when he flew him to Israel without permission. 
  <p class="updated_time"> 06:36 AM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/world/asia/covid-china-shenyang-quarantine.html">This Chinese City Requires 28 Days of Quarantine. Then Another 28.</a> NYT: The restrictions in Shenyang are a stark example of how seriously officials are taking the country’s “zero Covid” approach to the pandemic. 
  <p class="updated_time"> 06:30 AM CT, Nov. 10 </p> 
@@ -187,8 +189,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/08/world/africa/oscar-pistorius-bladerunner-parole.html">Oscar Pistorius, Olympic Runner Convicted of Murder, Is Up for Parole</a> NYT: The double-amputee sprinter has served half his sentence for killing his girlfriend. His victim’s parents were said to be “shocked” at the prospect of his release. 
  <p class="updated_time"> 01:22 PM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/us/canada-travel.html">Thousands of Canadians Head for the Southern United States Again</a> NYT: With the border opening to tourists, thousands of Canadian “snowbirds” are on their way to Florida, Arizona and California with campers in tow. 
- <p class="updated_time"> 06:14 PM CT, Nov. 07 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-59199484?at_medium=RSS&at_campaign=KARANGA">COP26: Fossil fuel industry has largest delegation at climate summit</a> BBC: There are more participants than from any single country, a study shared with the BBC suggests. 
 
 
 </details>
@@ -198,10 +198,12 @@ permalink: /projects/news/
 
  <p class="updated_time"> 11:35 AM CT, Nov. 10 </p> 
  <a href="https://www.politico.com/news/2021/11/10/study-fox-viewers-covid-falsehoods-520591">Study: Fox viewers more likely to believe Covid falsehoods</a> Politico: The most widely-believed falsehood is about the government exaggerating Covid deaths. 
+ <p class="updated_time"> 11:27 AM CT, Nov. 10 </p> 
+ <a href="https://www.nytimes.com/2021/11/10/business/economy/consumer-price-inflation-october.html">October 2021 CPI: Inflation Rose at Fastest Rate Since 1990</a> NYT: The Consumer Price Index rose 6.2 percent in October from a year ago, its fastest increase since 1990. That is bad news for President Biden and the central bank. 
+ <p class="updated_time"> 11:17 AM CT, Nov. 10 </p> 
+ <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RzYRY-_Cino/index.html">US Capitol rioter who assaulted police officer gets 41 months in prison</a> CNN: A New Jersey gym owner and former MMA fighter who punched a police officer during the January 6 riot was sentenced to 41 months in prison on Wednesday, becoming the first rioter sentenced for violence against the police during the attack. 
  <p class="updated_time"> 11:15 AM CT, Nov. 10 </p> 
  <a href="https://www.politico.com/news/2021/11/10/biden-meeting-canada-mexico-leaders-520590">White House confirms Biden to host Trudeau, López Obrador next week</a> Politico: The meeting will be the first get-together for the North American leaders since 2016. 
- <p class="updated_time"> 11:07 AM CT, Nov. 10 </p> 
- <a href="https://www.nytimes.com/2021/11/10/business/economy/consumer-price-inflation-october.html">October 2021 CPI: Inflation Rose at Fastest Rate Since 1990</a> NYT: The Consumer Price Index rose 6.2 percent in October from a year ago, its fastest increase since 1990. That is bad news for President Biden and the central bank. 
  <p class="updated_time"> 11:07 AM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/us/politics/blinken-johnson-johnson-vaccine-covax.html">U.S. Has Deal to Send J.&J. Covid Vaccine to Conflict Zones, Blinken Says</a> NYT: Secretary of State Antony J. Blinken stressed the need to extend vaccine access to people living in areas unreachable by government-run programs. 
  <p class="updated_time"> 10:39 AM CT, Nov. 10 </p> 
@@ -396,8 +398,6 @@ permalink: /projects/news/
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tNBw79OI9-A/index.html">Here's how long it may take Biden's infrastructure package to jolt the economy</a> CNN: It may be years before Americans are driving over new bridges or plugging their electric vehicles into a new highway charger funded by President Joe Biden's infrastructure package. But some of the money could be released over the next six months, providing a jolt to a backlog of projects across the country. 
  <p class="updated_time"> 04:04 PM CT, Nov. 09 </p> 
  <a href="https://www.npr.org/2021/11/09/1054032272/former-georgia-senator-and-vietnam-veteran-max-cleland-has-died-at-79">Former Georgia senator and Vietnam veteran Max Cleland has died at 79</a> NPR: Former Sen. Max Cleland of Georgia has died. He was 79 years old. He lost three limbs in Vietnam, but that didn't stop him from seeking higher office, where he advocated for veterans and the disabled. 
- <p class="updated_time"> 04:00 PM CT, Nov. 09 </p> 
- <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UMjGkbxTqxo/index.html">January 6 committee issues 10 more subpoenas including to Stephen Miller and Kayleigh McEnany</a> CNN: The House committee investigating the deadly January 6 riot at the US Capitol announced on Tuesday a new batch of 10 subpoenas to former White House officials under President Donald Trump, as the panel charges ahead in seeking testimony and documents from witnesses relevant to its probe. 
  <p class="updated_time"> 03:50 PM CT, Nov. 09 </p> 
  <a href="https://www.washingtonpost.com/politics/texas-gop-congressional-candidate-abuse-allegations/2021/11/09/0cbdcdb6-4191-11ec-9ea7-3eb2406a2e24_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Top GOP congressional candidate in Texas accused of abusing teenage daughter of estranged husband</a> WaPo: Monica De La Cruz, designated a “Young Gun” by House Minority Leader Kevin McCarthy (R-Calif.), is running for an open seat in South Texas. 
  <p class="updated_time"> 03:46 PM CT, Nov. 09 </p> 
