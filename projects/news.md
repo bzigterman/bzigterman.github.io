@@ -11,6 +11,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/09/climate/alexandria-ocasio-cortez-cop26.html">‘America Is Back’ Pelosi Says at Glasgow Climate Talks</a> NYT: Representative Alexandria Ocasio-Cortez was among a group of Democratic lawmakers who traveled with Ms. Pelosi to barnstorm the COP26 climate summit. 
  <p class="updated_time"> 10:41 PM CT, Nov. 09 </p> 
  <a href="https://www.bbc.co.uk/news/technology-59222749?at_medium=RSS&at_campaign=KARANGA">Apple's original computer fetches $400,000 at US auction</a> BBC: The still functioning wood-cased Apple-1 was built by Steve Wozniak and Steve Jobs back in 1976. 
+ <p class="updated_time"> 10:35 PM CT, Nov. 09 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59202306?at_medium=RSS&at_campaign=KARANGA">Family of woman who died in detention files complaint against Japan officials</a> BBC: The woman died following months of custody in a detention facility in Nagoya. 
  <p class="updated_time"> 09:45 PM CT, Nov. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59227425?at_medium=RSS&at_campaign=KARANGA">Capitol riot: Judge rejects Trump bid to withhold records</a> BBC: "Presidents are not kings, and Plaintiff is not President," the ruling says of Mr Trump. 
  <p class="updated_time"> 09:20 PM CT, Nov. 09 </p> 
@@ -202,6 +204,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:10 PM CT, Nov. 09 </p> 
+ <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/V8W_Di14YEM/index.html">Extremists seize back control of the Republican Party's message machine</a> CNN: So much for the Republican Party being all about the future. 
  <p class="updated_time"> 10:23 PM CT, Nov. 09 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nA8YpCdbazY/index.html">Surgeon general on Matthew McConaughey's opposition to vaccine mandates for kids: 'Covid is not harmless in our children'</a> CNN: US Surgeon General Dr. Vivek Murthy stressed Tuesday that parents need to recognize that "Covid is not harmless in our children" after actor Matthew McConaughey said his kids aren't vaccinated and that he's against mandating vaccines for children. 
  <p class="updated_time"> 10:18 PM CT, Nov. 09 </p> 
@@ -210,8 +214,6 @@ permalink: /projects/news/
  <a href="https://www.washingtonpost.com/local/legal-issues/trump-records-jan-6-committee-judge-ruling/2021/11/09/4d256cec-3e44-11ec-bfad-8283439871ec_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Trump White House records can be turned over to House Jan. 6 investigative committee, judge rules</a> WaPo: Court deals blow to former president’s claim to executive privilege after Biden White House approved release. 
  <p class="updated_time"> 09:56 PM CT, Nov. 09 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-10/autistic-cambodian-teen-jailed-for-online-comments-freed">Cambodia Frees Austic Teen Jailed for Social Media Posts Critical of Government</a> Bloomberg: Phnom Penh, Cambodia (AP) -- An autistic Cambodian teenager was released from prison Wednesday after serving time for posting comments critical of the government on social media in a case that has attracted global attention. 
- <p class="updated_time"> 09:55 PM CT, Nov. 09 </p> 
- <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/V8W_Di14YEM/index.html">Extremists seize back control of the Republican Party's message machine</a> CNN: So much for the Republican Party being all about the future. 
  <p class="updated_time"> 09:41 PM CT, Nov. 09 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3Bx04Bb7ys0/index.html">DOJ opens environmental justice probe of Alabama health departments, the first under 1964 law</a> CNN: The US Department of Justice has launched an investigation into whether the Alabama Department of Public Health and the Lowndes County Health Department have put Black residents at a higher risk of disease by failing to properly rid their communities of raw sewage. 
  <p class="updated_time"> 09:37 PM CT, Nov. 09 </p> 
@@ -226,6 +228,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/09/brian-williams-leave-nbc-news-520551">Brian Williams says he’s leaving NBC News at end of year</a> Politico: “I’ll pop up again somewhere,” he said. 
  <p class="updated_time"> 08:51 PM CT, Nov. 09 </p> 
  <a href="https://www.politico.com/news/2021/11/09/businesses-biden-covid-vaccine-rule-520548">Businesses warn of 'irreparable harm' if no permanent stay of Biden vaccine rule</a> Politico: The rules released by the Department of Labor last week require private businesses with more than 100 employees to ensure their workers are vaccinated or have them submit to weekly testing by Jan. 4. 
+ <p class="updated_time"> 08:49 PM CT, Nov. 09 </p> 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-10/satellite-signals-suggest-vietnam-ship-seized-by-iran-freed">Vietnamese Oil Tanker Seized By Iran Now Free in Open Waters</a> Bloomberg: Dubai, United Arab Emirates (AP) -- A Vietnamese oil tanker earlier seized by Iran was free in open water Wednesday, ending the latest maritime confrontation involving Tehran amid stalled negotiations over its tattered nuclear deal with world powers. 
  <p class="updated_time"> 08:25 PM CT, Nov. 09 </p> 
  <a href="https://www.washingtonpost.com/politics/gop-rep-fred-upton-receives-death-threats-after-voting-for-bipartisan-infrastructure-deal/2021/11/09/78fe5ac8-4195-11ec-9ea7-3eb2406a2e24_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">GOP Rep. Fred Upton receives death threats after voting for bipartisan infrastructure deal</a> WaPo: The Michigan Republican said the threats began after Rep. Marjorie Taylor Greene (R-Ga.) tweeted the names and office phone numbers of House Republicans who backed the bill. 
  <p class="updated_time"> 08:21 PM CT, Nov. 09 </p> 
@@ -390,8 +394,6 @@ permalink: /projects/news/
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/B4jbhNAVlq0/index.html">Republicans who voted for Biden's infrastructure bill come under fire from Trump </a> CNN: Former President Donald Trump privately criticized on Monday night the 13 Republicans who voted to pass the $1.2 trillion infrastructure bill, questioning why they would give President Joe Biden a win when he's struggling in the polls, according to a GOP source. 
  <p class="updated_time"> 12:00 PM CT, Nov. 09 </p> 
  <a href="https://www.politico.com/news/2021/11/09/trump-officials-hatch-act-violated-520420">Watchdog: 13 Trump officials violated Hatch Act during 2020 campaign</a> Politico: The list includes several cabinet officials and top White House aides, including Trump’s former Secretary of State Mike Pompeo, chief of staff Mark Meadows and press secretary Kayleigh McEnany. 
- <p class="updated_time"> 12:00 PM CT, Nov. 09 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-09/mexico-s-president-proposes-1-trillion-global-fund-for-poor">Mexico’s President Proposes $1 Trillion Global Fund for Poor</a> Bloomberg: Mexico’s President Andres Manuel Lopez Obrador proposed the creation of a global fund of $1 trillion to aid the world’s poor during a speech to the United Nations Security Council on Tuesday. 
  <p class="updated_time"> 11:59 AM CT, Nov. 09 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-09/former-trump-officials-violated-hatch-act-during-2020-election">Former Trump Officials Violated Hatch Act During 2020 Election, OSC Says</a> Bloomberg: High-ranking officials in the Trump administration, including former senior adviser Jared Kushner and former National Security Advisor Robert O’Brien and chief of staff Mark Meadows, violated federal law with their political activities, the U.S. Office of the Special Counsel said in a report Tuesday. 
  <p class="updated_time"> 11:55 AM CT, Nov. 09 </p> 
