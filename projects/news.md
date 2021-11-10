@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:23 PM CT, Nov. 09 </p> 
+ <p class="updated_time"> 11:45 PM CT, Nov. 09 </p> 
  <a href="https://www.bbc.co.uk/news/business-59229995?at_medium=RSS&at_campaign=KARANGA">Peter Jackson sells visual effects firm for $1.6bn to Unity</a> BBC: New Zealand-based Weta Digital created the characters Gollum and Caesar in Planet of the Apes. 
  <p class="updated_time"> 10:44 PM CT, Nov. 09 </p> 
  <a href="https://www.nytimes.com/2021/11/09/climate/alexandria-ocasio-cortez-cop26.html">‘America Is Back’ Pelosi Says at Glasgow Climate Talks</a> NYT: Representative Alexandria Ocasio-Cortez was among a group of Democratic lawmakers who traveled with Ms. Pelosi to barnstorm the COP26 climate summit. 
@@ -208,6 +208,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/10/jan6-shaman-sentencing-recommendation-520570">51-month sentence urged for ‘QAnon Shaman’ Jacob Chansley</a> Politico: “Defendant Chansley’s now-famous criminal acts have made him the public face of the Capitol riot,” prosecutors said. 
  <p class="updated_time"> 11:10 PM CT, Nov. 09 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/V8W_Di14YEM/index.html">Extremists seize back control of the Republican Party's message machine</a> CNN: So much for the Republican Party being all about the future. 
+ <p class="updated_time"> 11:08 PM CT, Nov. 09 </p> 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-10/chinese-virus-expert-launches-scathing-attack-on-covid-zero-push">Chinese Virus Expert Launches Scathing Attack on Covid Zero Push</a> Bloomberg: A top Chinese virologist warned the country risks economic collapse if local officials continue to try to wipe out all traces of Covid-19, marking the most vocal criticism of China’s so-called Covid Zero approach by one of its own experts. 
  <p class="updated_time"> 10:23 PM CT, Nov. 09 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nA8YpCdbazY/index.html">Surgeon general on Matthew McConaughey's opposition to vaccine mandates for kids: 'Covid is not harmless in our children'</a> CNN: US Surgeon General Dr. Vivek Murthy stressed Tuesday that parents need to recognize that "Covid is not harmless in our children" after actor Matthew McConaughey said his kids aren't vaccinated and that he's against mandating vaccines for children. 
  <p class="updated_time"> 10:18 PM CT, Nov. 09 </p> 
@@ -216,6 +218,8 @@ permalink: /projects/news/
  <a href="https://www.washingtonpost.com/local/legal-issues/trump-records-jan-6-committee-judge-ruling/2021/11/09/4d256cec-3e44-11ec-bfad-8283439871ec_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Trump White House records can be turned over to House Jan. 6 investigative committee, judge rules</a> WaPo: Court deals blow to former president’s claim to executive privilege after Biden White House approved release. 
  <p class="updated_time"> 09:56 PM CT, Nov. 09 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-10/autistic-cambodian-teen-jailed-for-online-comments-freed">Cambodia Frees Austic Teen Jailed for Social Media Posts Critical of Government</a> Bloomberg: Phnom Penh, Cambodia (AP) -- An autistic Cambodian teenager was released from prison Wednesday after serving time for posting comments critical of the government on social media in a case that has attracted global attention. 
+ <p class="updated_time"> 09:55 PM CT, Nov. 09 </p> 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-10/let-capitalism-fix-climate-australia-says-as-cop26-nears-finish">Capitalism &mdash; Not Government &mdash; Will Fix Climate Change, Australia Says</a> Bloomberg: Strict government intervention on climate change would add pressure on living costs and threaten businesses, Australia’s Prime Minister Scott Morrison said, as global negotiators debate final outcomes from the COP26 summit. 
  <p class="updated_time"> 09:41 PM CT, Nov. 09 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/3Bx04Bb7ys0/index.html">DOJ opens environmental justice probe of Alabama health departments, the first under 1964 law</a> CNN: The US Department of Justice has launched an investigation into whether the Alabama Department of Public Health and the Lowndes County Health Department have put Black residents at a higher risk of disease by failing to properly rid their communities of raw sewage. 
  <p class="updated_time"> 09:37 PM CT, Nov. 09 </p> 
@@ -388,10 +392,6 @@ permalink: /projects/news/
  <a href="https://www.washingtonpost.com/politics/2021/11/09/year-later-an-obviously-illegal-campaign-stunt-is-determined-have-been-illegal/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">A year later, an obviously illegal campaign stunt is determined to have been illegal</a> WaPo: Relying on voluntary adherence to the law has some flaws. 
  <p class="updated_time"> 12:16 PM CT, Nov. 09 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-09/high-court-grapples-with-religious-rights-in-execution-chamber">Supreme Court Grapples With Religious Rights in Execution Chamber</a> Bloomberg: The U.S. Supreme Court grappled with the religious rights of death-row inmates in the execution chamber, as the justices weighed a request by a Texas prisoner to have his Baptist pastor pray aloud and place his hands on the man during the lethal injection. 
- <p class="updated_time"> 12:16 PM CT, Nov. 09 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-09/lifting-vaccinations-can-help-head-off-holiday-surge-fauci-says">More Vaccinations Can Help Head Off Holiday Covid Surge, Fauci Says</a> Bloomberg: Stepping up the rate of Covid-19 vaccinations and boosters can help avoid a holiday surge in new cases that have dropped to a plateau of about 70,000 a day, White House medical adviser Anthony Fauci said. 
- <p class="updated_time"> 12:10 PM CT, Nov. 09 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-09/un-says-16-staff-members-detained-in-ethiopia-as-crisis-worsens">UN Says 16 Staff Members Detained in Ethiopia as Crisis Worsens</a> Bloomberg: The United Nations said Tuesday that 16 staff members have been detained in Ethiopia’s capital while six others held earlier have been released, as the conflict in the East African nation worsens. 
  <p class="updated_time"> 12:02 PM CT, Nov. 09 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/B4jbhNAVlq0/index.html">Republicans who voted for Biden's infrastructure bill come under fire from Trump </a> CNN: Former President Donald Trump privately criticized on Monday night the 13 Republicans who voted to pass the $1.2 trillion infrastructure bill, questioning why they would give President Joe Biden a win when he's struggling in the polls, according to a GOP source. 
  <p class="updated_time"> 12:00 PM CT, Nov. 09 </p> 
