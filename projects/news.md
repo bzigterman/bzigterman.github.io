@@ -192,18 +192,26 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:14 AM CT, Nov. 10 </p> 
+ <a href="https://www.politico.com/news/2021/11/10/consumer-prices-soar-520574">U.S. consumer prices soared 6.2 percent in past year, most since 1990</a> Politico: Prices for U.S. consumers jumped 6.2 percent in October compared with a year earlier as surging costs for food, gas and housing left Americans grappling with the highest inflation rate since 1990. 
  <p class="updated_time"> 09:05 AM CT, Nov. 10 </p> 
  <a href="https://www.politico.com/news/2021/11/10/world-shares-china-inflation-520573">World shares mixed as China inflation pushes higher</a> Politico: China’s consumer price index, a main measure of inflation, rose 1.5 percent in October, up from 0.7 percent the month before, the National Bureau of Statistics reported. 
  <p class="updated_time"> 08:30 AM CT, Nov. 10 </p> 
  <a href="https://www.politico.com/news/2021/11/10/nevada-democrat-transgender-520572">Nevada Democrat seeks to become first openly transgender statewide elected official</a> Politico: The lieutenant governor’s office is currently vacant. 
+ <p class="updated_time"> 08:14 AM CT, Nov. 10 </p> 
+ <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rdMrFK63JMw/index.html">Is there a lane for Liz Cheney in New Hampshire in 2024?</a> CNN: Sometimes in politics it's not so much what you say, it's where you say it. 
+ <p class="updated_time"> 08:12 AM CT, Nov. 10 </p> 
+ <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/V5nfxB5ZmBc/index.html">Biden administration to announce deal to provide J&J Covid-19 vaccine to people in conflict zones and humanitarian settings</a> CNN: The Biden administration will announce on Wednesday a new deal it brokered with Johnson & Johnson and Covax to provide J&J's Covid-19 vaccine to people in conflict zones and other humanitarian settings where government vaccine campaigns cannot reach, a White House official told CNN. 
  <p class="updated_time"> 08:08 AM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/business/economy/consumer-price-inflation-october.html">Inflation Rose in October at Fastest Rate Since 1990</a> NYT: The Consumer Price Index rose 6.2 percent in October from a year ago, its fastest increase since 1990. That is bad news for President Biden and the central bank. 
+ <p class="updated_time"> 08:06 AM CT, Nov. 10 </p> 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-10/u-s-to-announce-deal-to-rush-j-j-vaccine-into-conflict-zones">U.S. to Announce Deal to Rush J&J Vaccine Into Conflict Zones</a> Bloomberg: The Biden administration is set to announce a deal to rush doses of the Johnson &amp; Johnson vaccine against Covid-19 into conflict zones and other humanitarian settings around the world through COVAX, a White House official said Wednesday. 
  <p class="updated_time"> 08:03 AM CT, Nov. 10 </p> 
  <a href="https://www.washingtonpost.com/politics/2021/09/24/white-house-might-give-up-goods-what-trump-did-jan-6-what-would-that-mean/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">A big setback for Trump’s effort to stymie the Jan. 6 committee. What could it mean?</a> WaPo: A federal judge cleared the way for Trump White House documents to go to the committee, which could start Friday -- pending appeals. Here's what such documents might tell us. 
  <p class="updated_time"> 08:03 AM CT, Nov. 10 </p> 
  <a href="https://www.washingtonpost.com/politics/2021/09/24/white-house-might-give-up-goods-what-trump-did-jan-6-what-would-that-mean/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">A big setback for Trump’s effort to stymie the Jan. 6 committee. What could it mean?</a> WaPo: A federal judge cleared the way for Trump White House documents to go to the committee, which could start Friday -- pending appeals. Here's what such documents might tell us. 
  <p class="updated_time"> 08:03 AM CT, Nov. 10 </p> 
- <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/AGVs5kbGHm8/index.html">Fact check on Sen. Rick Scott blaming government spending on inflation</a> CNN: Since the summer, when inflation reached a 13-year high, Republicans have been blaming the rising prices on President Joe Biden and the Democrats. 
+ <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/AGVs5kbGHm8/index.html">Fact check on Sen. Rick Scott's comments blaming inflation on government spending</a> CNN: Since the summer, when inflation reached a 13-year high, Republicans have been blaming the rising prices on President Joe Biden and the Democrats. 
  <p class="updated_time"> 07:42 AM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/08/us/politics/employer-vaccine-mandates.html">US Urges Court Not to Block Vaccine Mandate on Employers</a> NYT: The Biden Justice Department filed its case before an appeals court that has temporarily halted the measure. 
  <p class="updated_time"> 07:35 AM CT, Nov. 10 </p> 
@@ -212,8 +220,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/huddle/2021/11/10/threat-assessment-never-ending-for-lawmakers-495048">Threat assessment: never ending for lawmakers</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 07:21 AM CT, Nov. 10 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-10/u-k-tells-eu-to-stay-calm-amid-brexit-spat-over-n-ireland">U.K. Tells EU to ‘Stay Calm’ Amid Brexit Spat Over Northern Ireland</a> Bloomberg: The U.K. urged the European Union to remain “calm” in the escalating dispute over post-Brexit Northern Ireland, as the two sides continue to exchange threats that could yet lead to an all-out trade war. 
- <p class="updated_time"> 07:11 AM CT, Nov. 10 </p> 
- <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/V5nfxB5ZmBc/index.html">Biden administration to announce deal to provide J&J Covid-19 vaccine to people in conflict zones and humanitarian settings</a> CNN: The Biden administration will announce on Wednesday a new deal it brokered with Johnson & Johnson and Covax to provide J&J's Covid-19 vaccine to people in conflict zones and other humanitarian settings where government vaccine campaigns cannot reach, a White House official told CNN. 
  <p class="updated_time"> 07:05 AM CT, Nov. 10 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-10/tunisia-s-top-union-rejects-price-tax-rises-as-imf-talks-resume">Tunisia’s Top Union Rejects Price, Tax Rises as IMF Talks Resume</a> Bloomberg: Tunisia’s most powerful labor union rejected any attempt to raise the prices of basic commodities or increase taxes, as the North African country resumes talks with the International Monetary Fund on a rescue package. 
  <p class="updated_time"> 06:58 AM CT, Nov. 10 </p> 
@@ -226,8 +232,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/10/1054201918/federal-judge-rejects-trumps-bid-to-block-the-release-of-jan-6-documents">Federal judge rejects Trump's bid to block the release of Jan. 6 documents</a> NPR: A judge has denied former President Donald Trump's request to block documents from being handed over to a House committee investigating the riot at the U.S. Capitol. 
  <p class="updated_time"> 06:17 AM CT, Nov. 10 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/10/new-reminders-that-this-is-not-normal-495046">POLITICO Playbook: New reminders that this is not normal</a> Politico: And a new poll shows Biden's vaccine mandate losing support. 
- <p class="updated_time"> 06:08 AM CT, Nov. 10 </p> 
- <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rdMrFK63JMw/index.html">Is there a lane for Liz Cheney in New Hampshire in 2024?</a> CNN: Sometimes in politics it's not so much what you say, it's where you say it. 
  <p class="updated_time"> 06:00 AM CT, Nov. 10 </p> 
  <a href="https://www.politico.com/news/2021/11/10/136-countries-agreed-to-a-global-minimum-corporate-tax-rate-what-now-520418">136 countries agreed to a global minimum corporate tax rate. What now?</a> Politico: No one hands over billions of dollars in tax revenue without a fight. 
  <p class="updated_time"> 05:47 AM CT, Nov. 10 </p> 
@@ -245,7 +249,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:31 AM CT, Nov. 10 </p> 
  <a href="https://www.politico.com/news/2021/11/10/schumer-billions-new-york-public-housing-520519">Schumer scores billions for New York's decaying public housing</a> Politico: The jockeying over the housing funds is one of many emerging sources of political tension surrounding President Joe Biden's bill. 
  <p class="updated_time"> 04:30 AM CT, Nov. 10 </p> 
- <a href="https://www.politico.com/news/2021/11/10/daylight-saving-time-feud-520561">Inside the bitter, nasty feud over making daylight saving time permanent</a> Politico: Who knew there were such passions around falling back and springing forward? 
+ <a href="https://www.politico.com/news/2021/11/10/daylight-saving-time-feud-520561">The political war around daylight saving time takes a nasty turn</a> Politico: Who knew there were such passions around falling back and springing forward? 
  <p class="updated_time"> 04:30 AM CT, Nov. 10 </p> 
  <a href="https://www.politico.com/news/2021/11/10/biden-vaccine-mandates-va-mcdonough-520564">Biden called for widespread mandates. His VA is navigating its own minefields.</a> Politico: An overwhelming number of staff have gotten vaccinated. But a month after the deadline, at least ten percent of a 380,000 health care workforce still haven’t. 
  <p class="updated_time"> 04:26 AM CT, Nov. 10 </p> 
@@ -458,8 +462,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/09/senate-dems-year-end-train-wreck-520275">The Senate’s year-end to-do list is ‘going to be a train wreck’</a> Politico: Ho, ho, oh no. Long nights, weekend work and threatened holidays are a Capitol tradition, and this year is likely no exception. 
  <p class="updated_time"> 04:30 AM CT, Nov. 09 </p> 
  <a href="https://www.politico.com/news/2021/11/09/biden-hbcus-howard-university-protests-520391">Biden made huge promises to HBCUs. Can he sell its students on compromise?</a> Politico: The administration is still proposing historic funds. Kamala Harris remains a trusted alumnus. But campus life at the country’s most famous HBCU is in tumult. 
- <p class="updated_time"> 04:06 AM CT, Nov. 09 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-09/china-s-politics-enter-turbulent-period-as-xi-pushes-for-control">China’s Politics Enter Turbulent Period as Xi Pushes for Control</a> Bloomberg: Party probes and&nbsp;power games ramp up ahead of a landmark leadership congress next year 
  <p class="updated_time"> 04:04 AM CT, Nov. 09 </p> 
  <a href="https://www.npr.org/2021/11/09/1053792399/morning-news-brief">News brief: Jan. 6 subpoenas, Supreme Court preview, India's climate challenge</a> NPR: The Jan. 6 House panel issues more subpoenas for ex-Trump officials. A look at  two cases before the Supreme Court Tuesday. And, India's rapid development has left it with many environmental issues. 
  <p class="updated_time"> 09:30 PM CT, Nov. 08 </p> 
