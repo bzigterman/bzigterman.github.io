@@ -7,8 +7,12 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:31 PM CT, Nov. 10 </p> 
- <a href="https://www.nytimes.com/live/2021/11/10/world/poland-belarus-border-migrants">Live Updates: Crisis on Europe’s Eastern Flank Deepens as Tension Escalates at Polish Border</a> NYT: Western officials accuse the leader of Belarus of sending migrants to E.U. borders as retaliation for sanctions. E.U. officials expressed support for Poland. Lithuania, which also borders Belarus, declared a state of emergency. 
+ <p class="updated_time"> 04:39 PM CT, Nov. 10 </p> 
+ <a href="https://www.nytimes.com/2021/11/10/world/boris-johnson-cop26.html">Boris Johnson Urges Negotiators to Break Impasse in Final Climate Summit Hours</a> NYT: “Now is the time to get together and show the determination needed to power on through the blockages,” the British prime minister said on Wednesday. 
+ <p class="updated_time"> 04:37 PM CT, Nov. 10 </p> 
+ <a href="https://www.nytimes.com/2021/11/10/world/europe/boris-johnson-climate-scandal.html">Boris Johnson Handles Scandal Amid Climate Conference</a> NYT: As the host leader of the U.N. conference on global warming, Mr. Johnson was hoping to project statesmanship. But a mushrooming ethics scandal dominated the week, overshadowing his climate ambitions. 
+ <p class="updated_time"> 04:35 PM CT, Nov. 10 </p> 
+ <a href="https://www.nytimes.com/live/2021/11/10/world/poland-belarus-border-migrants">Live Updates: E.U. Backs Poland in Migrant Standoff at Belarus Border</a> NYT: Western officials accuse the leader of Belarus of sending migrants to E.U. borders as retaliation for sanctions. E.U. officials expressed support for Poland. Lithuania, which also borders Belarus, declared a state of emergency. 
  <p class="updated_time"> 04:31 PM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/09/business/china-evergrande-kaisa.html">China Evergrande Troubles Spread Through Property Sector</a> NYT: Global markets just weeks ago were fretting over the possible failure of Evergrande. Now the developer says the worst is over, even as other companies show signs of trouble. 
  <p class="updated_time"> 04:29 PM CT, Nov. 10 </p> 
@@ -39,16 +43,12 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/10/world/europe/france-kamala-harris-macron.html">Harris Meets Macron, Signaling a ‘New Era’ After Sub Snub, Both Say</a> NYT: In her vague assignment abroad, the vice president seems to be emphasizing that the U.S.-France relationship is about looking forward, in the wake of an embarrassing diplomatic spat. 
  <p class="updated_time"> 03:15 PM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/sports/soccer/psg-women-attack-aminata-diallo.html">P.S.G.'s Aminata Diallo Arrested After Teammate Is Attacked</a> NYT: A Paris St.-Germain women’s player was taken into custody by French investigators looking into a violent assault on a teammate who shares her position. 
- <p class="updated_time"> 03:12 PM CT, Nov. 10 </p> 
- <a href="https://www.nytimes.com/2021/11/10/world/europe/boris-johnson-climate-scandal.html">Boris Johnson Handles Scandal Amid Climate Conference</a> NYT: As the host leader of the U.N. conference on global warming, Mr. Johnson was hoping to project statesmanship. But a mushrooming ethics scandal dominated the week, overshadowing his climate ambitions. 
  <p class="updated_time"> 03:11 PM CT, Nov. 10 </p> 
  <a href="https://www.npr.org/2021/11/10/1054428108/burning-wood-pellets-isnt-the-clean-energy-it-claims-to-be-critics-say">Burning wood pellets isn't the 'clean energy' it claims to be, critics say</a> NPR: There's a big market sending U.S. wood pellets to Europe to burn as clean energy. But critics say they're not climate-friendly, and their production poses a health hazard for low-income communities. 
  <p class="updated_time"> 03:11 PM CT, Nov. 10 </p> 
  <a href="https://www.npr.org/2021/11/10/1054428101/vp-harris-met-with-macron-as-part-of-the-ongoing-effort-to-mend-alliance-with-fr">VP Harris met with Macron as part of the ongoing effort to mend alliance with France</a> NPR: Vice President Harris meets with French President Emmanuel Macron, the latest in series of Biden administration diplomatic make-up sessions in the wake of the Australian nuclear submarine deal. 
  <p class="updated_time"> 03:11 PM CT, Nov. 10 </p> 
  <a href="https://www.npr.org/2021/11/10/1054428080/from-cop26-pete-buttigieg-describes-how-transportation-factors-into-climate-goal">From COP26: Pete Buttigieg describes how transportation factors into climate goals</a> NPR: NPR's Ari Shapiro speaks with U.S. Transportation Secretary Pete Buttigieg from COP26, as world leaders release a draft of their goals to cut emissions and avert disastrous climate change. 
- <p class="updated_time"> 03:07 PM CT, Nov. 10 </p> 
- <a href="https://www.nytimes.com/2021/11/10/world/boris-johnson-cop26.html">Boris Johnson Urges Negotiators to Break Impasse in Final Climate Summit Hours</a> NYT: “Now is the time to get together and show the determination needed to power on through the blockages,” the British prime minister said on Wednesday. 
  <p class="updated_time"> 02:48 PM CT, Nov. 10 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59238869?at_medium=RSS&at_campaign=KARANGA">COP26: China and US agree to boost climate co-operation</a> BBC: The world's two biggest CO2 emitters pledge to co-operate in an announcement at the COP26 summit. 
  <p class="updated_time"> 02:40 PM CT, Nov. 10 </p> 
@@ -202,6 +202,10 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/10/ahmaud-arbery-mcmichael-shooting-520630">Defendant: Ahmaud Arbery `trapped like a rat’ before slaying</a> Politico: Testimony continues in the Georgia homicide case. 
  <p class="updated_time"> 05:04 PM CT, Nov. 10 </p> 
  <a href="https://www.politico.com/news/2021/11/10/kyle-rittenhouse-murder-case-520628">Rittenhouse murder case thrown into jeopardy by mistrial bid</a> Politico: “I didn’t do anything wrong. I defended myself,” the 18-year-old testified. 
+ <p class="updated_time"> 04:37 PM CT, Nov. 10 </p> 
+ <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RnXygNpTqrg/index.html">January 6 committee interested in at least 5 people from Pence's inner circle</a> CNN: The House select committee investigating January 6 is interested in gathering information from at least five members of former Vice President Mike Pence's inner circle, according to three sources familiar with the effort. 
+ <p class="updated_time"> 04:35 PM CT, Nov. 10 </p> 
+ <a href="https://www.bloomberg.com/news/videos/2021-11-10/biden-says-agenda-will-help-curb-inflation-video">Biden Says Agenda Will Help Curb Inflation</a> Bloomberg: President Joe Biden says his soon-to-be-signed infrastructure legislation is part of a plan to return the U.S. economy to normal, including by curbing inflation, as he promoted the measure at the Port of Baltimore. 
  <p class="updated_time"> 04:30 PM CT, Nov. 10 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WKP1SiJR3Rg/index.html">'It's worrisome': Biden addresses inflation concerns during Baltimore speech</a> CNN: President Joe Biden takes his sales pitch for the newly passed bipartisan infrastructure deal on the road Wednesday, highlighting the effect of the bill on supply chains, hours after new inflation statistics revealed that America's prices are surging more than they have in 30 years. 
  <p class="updated_time"> 04:25 PM CT, Nov. 10 </p> 
@@ -210,14 +214,14 @@ permalink: /projects/news/
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gq_UFBQTLfQ/index.html">Analysis: How long will Covid-19 masking rules last?</a> CNN: The US is slowly moving away from mask requirements. 
  <p class="updated_time"> 04:21 PM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/us/ruth-ann-minner-dead.html">Ruth Ann Minner, Down-to-Earth Governor of Delaware, Dies at 86</a> NYT: The first woman in that position, she rose from being a receptionist in the governor’s office to claiming the top job herself. 
+ <p class="updated_time"> 04:17 PM CT, Nov. 10 </p> 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-10/republicans-blast-food-inflation-blame-biden-thanksgivingtax">Republicans Blast Food Inflation, Blame Biden #ThanksgivingTax</a> Bloomberg: Republicans are accusing President Joe Biden of compromising the most American of holidays, Thanksgiving. 
  <p class="updated_time"> 04:10 PM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/business/economy/consumer-price-inflation-october.html">October 2021 CPI: Inflation Rose at Fastest Rate Since 1990</a> NYT: The Consumer Price Index rose 6.2 percent in October from a year ago, its sharpest increase since 1990. That is bad news for President Biden and the Federal Reserve. 
  <p class="updated_time"> 04:02 PM CT, Nov. 10 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jlB2NyuTf0c/index.html">A running list of who has received a subpoena from the House January 6 select committee </a> CNN: The committee investigating the deadly Capitol Hill riot on January 6 has as of publication issued 35 subpoenas to individuals and organizations as part of its probe into circumstances and coordination leading up to the storming of the US Capitol. 
  <p class="updated_time"> 04:00 PM CT, Nov. 10 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-10/ex-mma-fighter-gets-over-3-years-in-stiffest-jan-6-sentence-yet">Ex-MMA Fighter Gets Over 3 Years in Stiffest Capitol Riot Sentence Yet</a> Bloomberg: A former mixed martial arts fighter who admitted assaulting a police officer during the Capitol siege was sentenced to nearly three and a half years in prison, the most severe punishment handed down yet over the Jan. 6 riot. 
- <p class="updated_time"> 03:51 PM CT, Nov. 10 </p> 
- <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RnXygNpTqrg/index.html">January 6 committee interested in at least 5 people from Pence's inner circle</a> CNN: The House select committee investigating January 6 is interested in gathering information from at least five members of former Vice President Mike Pence's inner circle, according to three sources familiar with the effort. 
  <p class="updated_time"> 03:49 PM CT, Nov. 10 </p> 
  <a href="https://www.politico.com/news/2021/11/10/biden-xi-virtual-summit-520609">Biden-Xi virtual summit tentatively set for Monday</a> Politico: The long-anticipated meeting aims to reset strained bilateral ties. 
  <p class="updated_time"> 03:44 PM CT, Nov. 10 </p> 
@@ -340,8 +344,6 @@ permalink: /projects/news/
  <a href="https://www.bloomberg.com/news/articles/2021-11-10/democrats-press-biden-to-consider-oil-export-ban-spr-release">Biden Faces Pleas for Oil Export Ban That Would Upend Markets</a> Bloomberg: President Joe Biden faces growing pressure even from fellow Democrats to address rising gasoline prices with measures such as a ban on oil exports, a move that could upend global markets, discourage shale drilling and end up not helping American drivers that much. 
  <p class="updated_time"> 10:13 AM CT, Nov. 10 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/y0Ypc8daSEQ/index.html">Biden on inflation report: 'Reversing this trend is a top priority for me'</a> CNN: President Joe Biden said Wednesday that inflation statistics showing America's prices are surging more than they have in 30 years are proof that there is "more work to do before our economy is back to normal." 
- <p class="updated_time"> 10:09 AM CT, Nov. 10 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-10/fewer-than-1-of-nyc-workers-on-leave-due-to-vaccine-mandate">Fewer Than 1% of NYC Workers on Leave Due to Vaccine Mandate, Mayor Says</a> Bloomberg: Fewer than 1% of New York City’s workforce is on unpaid leave for failing to comply with the Covid-19 vaccine mandate, Mayor Bill de Blasio said at a briefing. 
  <p class="updated_time"> 10:02 AM CT, Nov. 10 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9WtzTr2Xnng/index.html">Biden to meet with Trudeau and López Obrador for first US-Canada-Mexico summit since 2016</a> CNN: Canadian Prime Minister Justin Trudeau and Mexican President Andrés Manuel López Obrador will come to the White House on November 18 for a summit with President Joe Biden, the first North American Leaders' Summit since 2016. 
  <p class="updated_time"> 09:57 AM CT, Nov. 10 </p> 
@@ -352,8 +354,6 @@ permalink: /projects/news/
  <a href="https://www.washingtonpost.com/politics/2021/11/10/some-reason-gop-wants-talk-about-how-bad-pandemic-was-florida-this-summer/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">For some reason, the GOP wants to talk about how bad the pandemic was in Florida this summer</a> WaPo: Okay. 
  <p class="updated_time"> 09:14 AM CT, Nov. 10 </p> 
  <a href="https://www.politico.com/news/2021/11/10/consumer-prices-soar-520574">U.S. consumer prices soared 6.2% in past year, most since 1990</a> Politico: Prices for U.S. consumers jumped 6.2 percent in October compared with a year earlier as surging costs for food, gas and housing left Americans grappling with the highest inflation rate since 1990. 
- <p class="updated_time"> 09:07 AM CT, Nov. 10 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-10/biden-says-he-s-directed-economic-aides-to-focus-on-energy-costs">Biden Seeks to Curb Energy Costs; Manchin Urges Inflation Action</a> Bloomberg: President Joe Biden said he’s directed his top economic aides to focus on reducing energy costs, which he blamed for accelerating U.S. inflation after a report showed the biggest surge in consumer prices in a generation. 
  <p class="updated_time"> 08:54 AM CT, Nov. 10 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-10/european-commission-to-propose-extension-of-clearing-equivalence">EU Set to Extend Clearing Decision in Brexit Win for London</a> Bloomberg: The European Union is set to extend a temporary waiver that allows its banks and money managers to clear trades in the U.K., lifting a looming threat to one of the City of London’s crown jewels. 
  <p class="updated_time"> 08:30 AM CT, Nov. 10 </p> 
