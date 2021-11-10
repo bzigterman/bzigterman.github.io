@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:43 AM CT, Nov. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59230846?at_medium=RSS&at_campaign=KARANGA">New Zealand PM Jacinda Ardern's live stream interrupted by three-year-old daughter</a> BBC: Three-year-old Neve interrupted Jacinda Ardern's Facebook Live on Covid restrictions. 
+ <p class="updated_time"> 03:43 AM CT, Nov. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59230564?at_medium=RSS&at_campaign=KARANGA">Afghanistan's ghost soldiers undermined fight against Taliban - ex-official</a> BBC: Thousands of troops who were supposed to fight the Taliban did not exist, a former minister says. 
  <p class="updated_time"> 03:16 AM CT, Nov. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59231418?at_medium=RSS&at_campaign=KARANGA">French 17-year-old feared abducted while jogging found alive</a> BBC: The 17-year-old girl was found in a state of shock about 10km from where she had gone for a run. 
  <p class="updated_time"> 03:15 AM CT, Nov. 10 </p> 
@@ -27,8 +31,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59227425?at_medium=RSS&at_campaign=KARANGA">Capitol riot: Judge rejects Trump bid to withhold records</a> BBC: "Presidents are not kings," the judge ruled, adding the incumbent can decide what documents to release. 
  <p class="updated_time"> 12:38 AM CT, Nov. 10 </p> 
  <a href="https://www.bbc.co.uk/news/business-59229995?at_medium=RSS&at_campaign=KARANGA">Peter Jackson sells visual effects firm for $1.6bn to Unity</a> BBC: New Zealand-based Weta Digital created the characters Gollum and Caesar in Planet of the Apes. 
- <p class="updated_time"> 10:41 PM CT, Nov. 09 </p> 
- <a href="https://www.bbc.co.uk/news/technology-59222749?at_medium=RSS&at_campaign=KARANGA">Apple's original computer fetches $400,000 at US auction</a> BBC: The still functioning wood-cased Apple-1 was built by Steve Wozniak and Steve Jobs back in 1976. 
  <p class="updated_time"> 10:35 PM CT, Nov. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59202306?at_medium=RSS&at_campaign=KARANGA">Family of woman who died in detention files complaint against Japan officials</a> BBC: The woman died following months of custody in a detention facility in Nagoya. 
  <p class="updated_time"> 09:20 PM CT, Nov. 09 </p> 
@@ -56,13 +58,11 @@ permalink: /projects/news/
  <p class="updated_time"> 06:01 PM CT, Nov. 09 </p> 
  <a href="https://www.bbc.co.uk/news/in-pictures-59208310?at_medium=RSS&at_campaign=KARANGA">Environmental Photographer of the Year 2021 winners revealed</a> BBC: The competition's winning image shows the effect of rising sea levels in Ghana. 
  <p class="updated_time"> 05:58 PM CT, Nov. 09 </p> 
- <a href="https://www.bbc.co.uk/news/business-59163278?at_medium=RSS&at_campaign=KARANGA">Shein: The secretive Chinese brand dressing Gen Z</a> BBC: Shein's popularity has shot up during the pandemic, targeting Gen Z shoppers with low-cost products. 
+ <a href="https://www.bbc.co.uk/news/business-59163278?at_medium=RSS&at_campaign=KARANGA">Shein: An inside look at the secretive firm dressing Gen Z</a> BBC: Shein's popularity has shot up during the pandemic, targeting young shoppers with low-cost products. 
  <p class="updated_time"> 05:26 PM CT, Nov. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59228831?at_medium=RSS&at_campaign=KARANGA">Astroworld: Travis Scott should have stopped concert earlier, says fire chief</a> BBC: The US rapper had a responsibility to fans at his Astroworld event in which eight people were killed. 
  <p class="updated_time"> 05:24 PM CT, Nov. 09 </p> 
  <a href="https://www.nytimes.com/2021/11/09/world/africa/ethiopia-united-nations.html">Ethiopia Seizes 16 UN Workers Amid Efforts to Halt Tigray War</a> NYT: The detentions aggravated the already tense relations between the United Nations and the Ethiopian government over war and famine in the country’s northern Tigray region. 
- <p class="updated_time"> 04:55 PM CT, Nov. 09 </p> 
- <a href="https://www.bbc.co.uk/news/uk-england-birmingham-59227513?at_medium=RSS&at_campaign=KARANGA">Nobel Peace Prize winner Malala ties the knot in nikkah ceremony</a> BBC: The activist and her partner Asser Malik celebrate a nikkah ceremony with family in Birmingham. 
  <p class="updated_time"> 04:12 PM CT, Nov. 09 </p> 
  <a href="https://www.nytimes.com/2021/11/09/world/europe/france-vaccine-booster.html">Macron announces a new vaccine rule for people 65 or older in France.</a> NYT: Though the country has a high vaccination rate, new coronavirus cases and hospital admissions have been increasing in recent weeks. 
  <p class="updated_time"> 04:06 PM CT, Nov. 09 </p> 
@@ -204,6 +204,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 04:31 AM CT, Nov. 10 </p> 
  <a href="https://www.politico.com/news/2021/11/10/schumer-billions-new-york-public-housing-520519">Schumer scores billions for New York's decaying public housing</a> Politico: The jockeying over the housing funds is one of many emerging sources of political tension surrounding President Joe Biden's bill. 
+ <p class="updated_time"> 03:38 AM CT, Nov. 10 </p> 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-10/ex-central-bank-governor-wins-nigeria-governorship-election">Ex-Central Bank Governor Wins Nigeria Governorship Election</a> Bloomberg: A former head of the Nigerian central bank was elected governor of a restive state in the southeast of the country, a disappointing result for the ruling political party. 
  <p class="updated_time"> 03:20 AM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/09/us/politics/where-is-newsom-california.html">Where Is Gavin Newsom, California's Governor?</a> NYT: He’s in the office, according to increasingly frustrated staff members. But his critics on Twitter aren’t buying it. 
  <p class="updated_time"> 02:59 AM CT, Nov. 10 </p> 
@@ -382,8 +384,6 @@ permalink: /projects/news/
  <a href="https://www.washingtonpost.com/politics/2021/11/09/how-republicans-can-take-back-majority-senate-house/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">How Republicans can take back the majority in the Senate and House</a> WaPo: A look at how many seats they need to win and where in the 2022 midterm elections. 
  <p class="updated_time"> 01:26 PM CT, Nov. 09 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-09/biden-xi-virtual-summit-is-now-planned-for-next-week">Biden-Xi Virtual Summit Set for Next Week, With Date to Come</a> Bloomberg: U.S. President Joe Biden and his Chinese counterpart Xi Jinping are scheduled to hold a virtual summit next week, although no specific date has been set, according to people familiar with the matter. 
- <p class="updated_time"> 01:24 PM CT, Nov. 09 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-09/white-house-isn-t-considering-enbridge-pipeline-shutdown">White House Says It Isn’t Considering Enbridge Pipeline Shutdown</a> Bloomberg: The White House pledged to discuss a key pipeline that carries Canadian crude through Michigan with the northern neighbor, stressing the U.S. isn’t considering a shutdown of the conduit the state’s governor wants shuttered. 
  <p class="updated_time"> 01:08 PM CT, Nov. 09 </p> 
  <a href="https://www.washingtonpost.com/politics/2021/11/09/gop-floats-punishing-13-its-members-their-sin-giving-biden-win/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">GOP floats punishment for its 13 apostates</a> WaPo: An effort is afoot to strip the 13 pro-infrastructure Republicans of their committee assignments. The most oft-cited reason? They gave Biden a win. 
  <p class="updated_time"> 01:08 PM CT, Nov. 09 </p> 
