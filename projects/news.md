@@ -7,7 +7,11 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:33 PM CT, Nov. 10 </p> 
+ <p class="updated_time"> 02:42 PM CT, Nov. 10 </p> 
+ <a href="https://www.nytimes.com/2021/11/10/world/europe/boris-johnson-climate-scandal.html">Boris Johnson Handles Scandal Amid Climate Conference</a> NYT: As the host leader of the U.N. conference on global warming, Mr. Johnson was hoping to project statesmanship. But a mushrooming ethics scandal dominated the week, overshadowing his climate ambitions. 
+ <p class="updated_time"> 02:40 PM CT, Nov. 10 </p> 
+ <a href="https://www.nytimes.com/2021/11/10/world/greta-thunberg-cop26-state-emergency.html">Greta Thunberg, Activists Petition U.N. to Declare State of Emergency on Climate Change</a> NYT: Young climate activists on Wednesday called on the U.N. to declare a “Level 3” emergency, as it did for Covid-19, allowing the institution to deploy resources to vulnerable countries. 
+ <p class="updated_time"> 02:35 PM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/live/2021/11/10/world/poland-belarus-border-migrants">Live Updates: Crisis on Europe’s Eastern Flank Deepens as Tension Escalates at Polish Border</a> NYT: Western officials accuse the leader of Belarus of sending migrants to E.U. borders as retaliation for sanctions. E.U. officials expressed support for Poland. Lithuania, which also borders Belarus, declared a state of emergency. 
  <p class="updated_time"> 02:26 PM CT, Nov. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59239853?at_medium=RSS&at_campaign=KARANGA">Kyle Rittenhouse: Accused teen takes stand in his own defence</a> BBC: Kyle Rittenhouse, 18, broke down in tears as he told he court he shot three men in self-defence. 
@@ -21,6 +25,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/09/world/europe/malala-yousafzai-married.html">Malala Yousafzai Announces Her Marriage</a> NYT: Ms. Yousafzai, a Pakistani activist and the youngest-ever recipient of a Nobel Peace Prize, married her partner at a small ceremony in Birmingham, England, she said on Twitter. 
  <p class="updated_time"> 01:43 PM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/world/europe/knoll-france-murder.html">French Court Convicts Man in the Murder of a Holocaust Survivor</a> NYT: The man, Yacine Mihoub, was sentenced to life imprisonment for killing Mireille Knoll, 85, in 2018, which judges said was a hate crime motivated by the fact that she was Jewish. 
+ <p class="updated_time"> 01:42 PM CT, Nov. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-scotland-glasgow-west-59207818?at_medium=RSS&at_campaign=KARANGA">Irn Bru hunting and celebrity spotting at COP26</a> BBC: Barack Obama, AOC, Leonardo DiCaprio, Emma Watson and others bring star power to the UN summit. 
  <p class="updated_time"> 01:40 PM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/world/pennsylvanias-school-mask-mandate.html">Pennsylvania Court Rejects Statewide School Mask Mandate</a> NYT: The judges said that the state’s acting health secretary had overstepped her authority in issuing the mandate, and that they were not taking a position on “the science or efficacy of mask-wearing.” 
  <p class="updated_time"> 01:24 PM CT, Nov. 10 </p> 
@@ -57,8 +63,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/10/world/buttigieg-gasoline-diesel-vehicles.html">Pete Buttigieg Says U.S. 'Focused' on Reducing Auto Emissions</a> NYT: At the Glasgow climate summit, Mr. Buttigieg said the conversation surrounding climate change should focus on whether Earth can sustain life. 
  <p class="updated_time"> 10:57 AM CT, Nov. 10 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59209276?at_medium=RSS&at_campaign=KARANGA">My Day at COP26: 'I'm painting murals so people don't forget COP happened here'</a> BBC: Daniel Rupaszov, from Hungary, is an artist and activist who visits COP every year to create art which highlights the climate crisis. 
- <p class="updated_time"> 10:45 AM CT, Nov. 10 </p> 
- <a href="https://www.nytimes.com/2021/11/10/world/greta-thunberg-cop26-state-emergency.html">Greta Thunberg, Activists Petition U.N. to Declare State of Emergency on Climate Change</a> NYT: Young climate activists on Wednesday called on the U.N. to declare a “Level 3” emergency, as it did for Covid-19, allowing the institution to deploy resources to vulnerable countries. 
  <p class="updated_time"> 10:39 AM CT, Nov. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59238866?at_medium=RSS&at_campaign=KARANGA">Myanmar charges US journalist with terrorism</a> BBC: Danny Fenster, already on trial, is now facing new charges which could lead to a life sentence. 
  <p class="updated_time"> 10:34 AM CT, Nov. 10 </p> 
@@ -167,8 +171,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/09/1053656078/young-indigenous-activists-united-in-climate-cause-at-cop26-summit">Indigenous activists are united in a cause and are making themselves heard at COP26</a> NPR: Indigenous activists from around the world are in Glasgow for COP26, but say the same legacy of colonialism that has led to climate-related losses has impacted their access to the conference. 
  <p class="updated_time"> 12:06 PM CT, Nov. 09 </p> 
  <a href="https://www.nytimes.com/2021/11/09/world/asia/india-covid-vaccinations.html">India Risks Covid-19 Complacency After Its Vaccine Campaign</a> NYT: The success represents a major victory for Narendra Modi’s government, but a recent slowdown in new vaccinations has sparked worries. 
- <p class="updated_time"> 11:27 AM CT, Nov. 09 </p> 
- <a href="https://www.nytimes.com/2021/11/08/world/americas/brazil-telegram-disinformation.html">Brazil’s Far-Right Disinformation Pushers Find a Safe Space on Telegram</a> NYT: In a social media ecosystem facing mounting pressure to combat fake news and polarization, Telegram is the most permissive disseminator of content — and disinformation. 
  <p class="updated_time"> 11:12 AM CT, Nov. 09 </p> 
  <a href="https://www.nytimes.com/2021/11/09/world/asia/singapore-unvaccinated-covid.html">Singapore to End Free Covid Treatment for Those 'Unvaccinated by Choice'</a> NYT: The change, which takes effect on Dec. 8, comes as the number of severe cases has stabilized but remains high, the Health Ministry said. 
  <p class="updated_time"> 10:59 AM CT, Nov. 09 </p> 
@@ -200,6 +202,10 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:30 PM CT, Nov. 10 </p> 
+ <a href="https://www.politico.com/news/2021/11/10/soaring-inflation-stalks-bidens-economy-520613">Soaring inflation stalks Biden's economy</a> Politico: “I don’t think the administration is on top of it at all,” said the CEO of one of the U.S.'s largest companies who spoke on condition of anonymity out of concern over angering the administration. 
+ <p class="updated_time"> 02:40 PM CT, Nov. 10 </p> 
+ <a href="https://www.nytimes.com/2021/11/10/us/politics/pac-operator-charges.html">Three Men Charged With Running ‘Scam PACs’ That Bilked Small Donors</a> NYT: The Justice Department said the three men defrauded donors of $3.5 million, including through robocalls that impersonated former President Donald J. Trump. 
  <p class="updated_time"> 02:30 PM CT, Nov. 10 </p> 
  <a href="https://www.washingtonpost.com/politics/steve-sweeney-president-of-new-jersey-senate-concedes-to-republican-edward-durr-jr/2021/11/10/481e7b06-4251-11ec-9ea7-3eb2406a2e24_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Steve Sweeney, president of New Jersey Senate, concedes to Republican Edward Durr Jr.</a> WaPo: The longtime Democratic leader in the state Senate conceded Wednesday, six days after the race was called for Durr, a truck driver. 
  <p class="updated_time"> 02:24 PM CT, Nov. 10 </p> 
@@ -315,7 +321,7 @@ permalink: /projects/news/
  <p class="updated_time"> 08:03 AM CT, Nov. 10 </p> 
  <a href="https://www.washingtonpost.com/politics/2021/09/24/white-house-might-give-up-goods-what-trump-did-jan-6-what-would-that-mean/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">A big setback for Trump’s effort to stymie the Jan. 6 committee. What could it mean?</a> WaPo: A federal judge cleared the way for Trump White House documents to go to the committee, which could start Friday -- pending appeals. Here's what such documents might tell us. 
  <p class="updated_time"> 07:45 AM CT, Nov. 10 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-10/why-j-j-is-in-bankruptcy-court-even-though-it-s-not-bankrupt">Why Johnson &amp; Johnson Is in Bankruptcy Court Even Though It’s Not Bankrupt</a> Bloomberg: A company with one of the world’s best credit ratings wants to wall off the risk of baby-powder litigation.&nbsp;&nbsp; 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-10/why-j-j-is-in-bankruptcy-court-even-though-it-s-not-bankrupt">Why Johnson &amp; Johnson Is in Bankruptcy Court Even Though It’s Not Bankrupt</a> Bloomberg: A company with one of the world’s best credit ratings wants to wall off the risk of baby-powder litigation. 
  <p class="updated_time"> 07:42 AM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/08/us/politics/employer-vaccine-mandates.html">US Urges Court Not to Block Vaccine Mandate on Employers</a> NYT: The Biden Justice Department filed its case before an appeals court that has temporarily halted the measure. 
  <p class="updated_time"> 07:35 AM CT, Nov. 10 </p> 
@@ -340,8 +346,6 @@ permalink: /projects/news/
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/oA3Ov7QYfl8/index.html">Three out of four adults think Facebook is making society worse</a> CNN: Roughly three-quarters of adults believe Facebook is making American society worse, a new CNN poll conducted by SSRS finds, with about half saying they know somebody who was persuaded to believe in a conspiracy theory because of the site's content. 
  <p class="updated_time"> 05:35 AM CT, Nov. 10 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-10/germany-s-next-coalition-close-to-deal-on-legalizing-cannabis">Germany’s Next Coalition Nears Deal on Legalizing Cannabis</a> Bloomberg: Germany’s likely next ruling coalition is closing in on a deal to legalize cannabis for recreational use, the strongest signal yet that long-awaited growth of Europe’s marijuana market is gaining traction. 
- <p class="updated_time"> 04:31 AM CT, Nov. 10 </p> 
- <a href="https://www.politico.com/news/2021/11/10/progressive-coalition-retools-ahead-of-2022-520550">Progressive coalition retools ahead of 2022</a> Politico: A nationwide alliance of left-wing groups gets a new leadership team. 
  <p class="updated_time"> 04:31 AM CT, Nov. 10 </p> 
  <a href="https://www.politico.com/news/2021/11/10/schumer-billions-new-york-public-housing-520519">Schumer scores billions for New York's decaying public housing</a> Politico: The jockeying over the housing funds is one of many emerging sources of political tension surrounding President Joe Biden's bill. 
  <p class="updated_time"> 04:31 AM CT, Nov. 10 </p> 
@@ -478,8 +482,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/09/biden-hbcus-howard-university-protests-520391">Biden made huge promises to HBCUs. Can he sell its students on compromise?</a> Politico: The administration is still proposing historic funds. Kamala Harris remains a trusted alumnus. But campus life at the country’s most famous HBCU is in tumult. 
  <p class="updated_time"> 04:04 AM CT, Nov. 09 </p> 
  <a href="https://www.npr.org/2021/11/09/1053792399/morning-news-brief">News brief: Jan. 6 subpoenas, Supreme Court preview, India's climate challenge</a> NPR: The Jan. 6 House panel issues more subpoenas for ex-Trump officials. A look at  two cases before the Supreme Court Tuesday. And, India's rapid development has left it with many environmental issues. 
- <p class="updated_time"> 09:30 PM CT, Nov. 08 </p> 
- <a href="https://www.nytimes.com/2021/11/08/us/politics/jill-biden-kids-vaccine.html">Jill Biden Kicks Off Covid Vaccine Campaign for Young Children</a> NYT: The first lady and the surgeon general visited an elementary school in Virginia as part of a strategy to enlist schools in promoting the vaccine. 
  <p class="updated_time"> 07:24 PM CT, Nov. 08 </p> 
  <a href="https://www.politico.com/news/2021/11/08/biden-vaccine-covid-mandate-lives-520367">Biden administration: Blocking vaccine mandate could cost ‘hundreds of lives per day’</a> Politico: The administration warned a federal court of the dangers of a stay of its vaccinate-or-test requirement for private employers. 
  <p class="updated_time"> 06:58 PM CT, Nov. 08 </p> 
