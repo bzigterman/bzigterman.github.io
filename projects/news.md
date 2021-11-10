@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:45 AM CT, Nov. 10 </p> 
+ <a href="https://www.npr.org/2021/11/10/1054239976/ethiopia-detains-about-70-drivers-who-deliver-aid-as-war-escalates-the-u-n-says">Ethiopia detains about 70 drivers who deliver aid as war escalates, the U.N. says</a> NPR: The U.N. says Ethiopian authorities have arrested and detained some 70 truck drivers contracted to the U.N. and other aid groups in the past week since the government declared a state of emergency. 
+ <p class="updated_time"> 08:39 AM CT, Nov. 10 </p> 
+ <a href="https://www.nytimes.com/2021/11/08/world/europe/uk-brexit-estonia-business.html">Brexit Brain Drain  Delivers Financial Boon to Estonia</a> NYT: The former Soviet satellite state is welcoming British companies looking to escape the tangle of regulations and financial obstacles of doing business in Europe. 
  <p class="updated_time"> 08:32 AM CT, Nov. 10 </p> 
  <a href="https://www.bbc.co.uk/sport/football/59236410?at_medium=RSS&at_campaign=KARANGA">Aminata Diallo: Paris St-Germain player arrested as part of investigation into attack on team-mates</a> BBC: Paris St-Germain women's midfielder Aminata Diallo is arrested as part of an investigation into an attack on team-mates on 4 November. 
  <p class="updated_time"> 08:10 AM CT, Nov. 10 </p> 
@@ -31,8 +35,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59231136?at_medium=RSS&at_campaign=KARANGA">Belarus migrants: Poland faces fresh border breaches</a> BBC: After 599 attempts to cross from Belarus, Poland says it now has 15,000 troops at the border. 
  <p class="updated_time"> 07:13 AM CT, Nov. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59236320?at_medium=RSS&at_campaign=KARANGA">Huma Abedin: Hillary Clinton aide on laptop that may have lost the election</a> BBC: The FBI reinvestigated Hillary Clinton's emails after seizing a laptop from Huma Abedin's then-husband. 
- <p class="updated_time"> 07:10 AM CT, Nov. 10 </p> 
- <a href="https://www.nytimes.com/2021/11/08/world/europe/uk-brexit-estonia-business.html">Brexit Brain Drain  Delivers Financial Boon to Estonia</a> NYT: The former Soviet satellite state is welcoming British companies looking to escape the tangle of regulations and financial obstacles of doing business in Europe. 
  <p class="updated_time"> 06:52 AM CT, Nov. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59233943?at_medium=RSS&at_campaign=KARANGA">Eitan Biran: Italy asks Israel to arrest cable car boy's grandfather</a> BBC: Prosecutors say Shmulik Peleg kidnapped Eitan Biran when he flew him to Israel without permission. 
  <p class="updated_time"> 06:36 AM CT, Nov. 10 </p> 
@@ -171,8 +173,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/08/world/americas/canada-pcr-test-border.html">Expensive Virus Test Still Hinders Canadian Travel to U.S. </a> NYT: Canada requires travelers to present the results of an expensive coronavirus test to enter, deterring short hops across the border. 
  <p class="updated_time"> 03:20 PM CT, Nov. 08 </p> 
  <a href="https://www.npr.org/2021/11/08/1053647213/daniel-ortega-has-won-the-nicaragua-presidency-in-an-election-many-say-was-a-sha">Daniel Ortega has won the Nicaragua presidency in an election many say was a sham</a> NPR: Nicaragua's leader Daniel Ortega says he was overwhelmingly elected president for a fourth consecutive term Sunday. But critics, including leaders around the world, say the elections were a sham. 
- <p class="updated_time"> 03:20 PM CT, Nov. 08 </p> 
- <a href="https://www.npr.org/2021/11/08/1053647199/facebook-bets-its-future-on-the-metaverse">Facebook bets its future on the metaverse</a> NPR: Facebook has rebranded itself as Meta, banking on the metaverse becoming a significant part of our lives. Not everyone is happy with the company making a mark in a space that has existed for years. 
  <p class="updated_time"> 03:02 PM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/world/europe/heathrow-first-flight-us-travel-ban.html">Excited Passengers Board First Flight from Heathrow to the U.S.</a> NYT: Long lines formed at Heathrow Airport for the first scheduled trips to the United States since the Biden administration lifted a travel ban. 
  <p class="updated_time"> 02:41 PM CT, Nov. 08 </p> 
@@ -202,6 +202,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/10/nevada-democrat-transgender-520572">Nevada Democrat seeks to become first openly transgender statewide elected official</a> Politico: The lieutenant governor’s office is currently vacant. 
  <p class="updated_time"> 08:27 AM CT, Nov. 10 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Vl_GX5awrFg/index.html">13 senior Trump administration officials violated Hatch Act, report finds</a> CNN: Thirteen senior Trump administration officials violated the Hatch Act, according to a report from the US Office of Special Counsel that was released on Tuesday. 
+ <p class="updated_time"> 08:17 AM CT, Nov. 10 </p> 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-10/court-orders-ex-mozambique-minister-be-extradited-to-u-s">Court Orders Ex-Mozambique Minister Be Extradited to U.S.</a> Bloomberg: A South African court ordered former Mozambican Finance Minister Manuel Chang be extradited to the U.S. to face charges related to a $2 billion debt scandal that led to a sovereign default. 
  <p class="updated_time"> 08:14 AM CT, Nov. 10 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rdMrFK63JMw/index.html">Is there a lane for Liz Cheney in New Hampshire in 2024?</a> CNN: Sometimes in politics it's not so much what you say, it's where you say it. 
  <p class="updated_time"> 08:12 AM CT, Nov. 10 </p> 
@@ -209,13 +211,15 @@ permalink: /projects/news/
  <p class="updated_time"> 08:08 AM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/business/economy/consumer-price-inflation-october.html">Inflation Rose in October at Fastest Rate Since 1990</a> NYT: The Consumer Price Index rose 6.2 percent in October from a year ago, its fastest increase since 1990. That is bad news for President Biden and the central bank. 
  <p class="updated_time"> 08:06 AM CT, Nov. 10 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-10/u-s-to-announce-deal-to-rush-j-j-vaccine-into-conflict-zones">U.S. to Announce Deal to Rush J&J Vaccine Into Conflict Zones</a> Bloomberg: The Biden administration is set to announce a deal to rush doses of the Johnson &amp; Johnson vaccine against Covid-19 into conflict zones and other humanitarian settings around the world through COVAX, a White House official said Wednesday. 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-10/u-s-to-announce-deal-to-rush-j-j-vaccine-into-conflict-zones">U.S. Announces Deal to Rush J&J’s Vaccine Into Conflict Zones</a> Bloomberg: The Biden administration announced it has reached a deal to rush doses of the Johnson &amp; Johnson vaccine against Covid-19 into conflict zones and other humanitarian settings around the world through the international Covax vaccine distribution program. 
  <p class="updated_time"> 08:03 AM CT, Nov. 10 </p> 
  <a href="https://www.washingtonpost.com/politics/2021/09/24/white-house-might-give-up-goods-what-trump-did-jan-6-what-would-that-mean/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">A big setback for Trump’s effort to stymie the Jan. 6 committee. What could it mean?</a> WaPo: A federal judge cleared the way for Trump White House documents to go to the committee, which could start Friday -- pending appeals. Here's what such documents might tell us. 
  <p class="updated_time"> 08:03 AM CT, Nov. 10 </p> 
  <a href="https://www.washingtonpost.com/politics/2021/09/24/white-house-might-give-up-goods-what-trump-did-jan-6-what-would-that-mean/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">A big setback for Trump’s effort to stymie the Jan. 6 committee. What could it mean?</a> WaPo: A federal judge cleared the way for Trump White House documents to go to the committee, which could start Friday -- pending appeals. Here's what such documents might tell us. 
  <p class="updated_time"> 08:03 AM CT, Nov. 10 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/AGVs5kbGHm8/index.html">Fact check on Sen. Rick Scott's comments blaming inflation on government spending</a> CNN: Since the summer, when inflation reached a 13-year high, Republicans have been blaming the rising prices on President Joe Biden and the Democrats. 
+ <p class="updated_time"> 07:45 AM CT, Nov. 10 </p> 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-10/why-j-j-is-in-bankruptcy-court-even-though-it-s-not-bankrupt">Why Johnson &amp; Johnson Is in Bankruptcy Court Even Though It’s Not Bankrupt</a> Bloomberg: A company with one of the world’s best credit ratings wants to wall off the risk of baby-powder litigation.&nbsp;&nbsp; 
  <p class="updated_time"> 07:42 AM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/08/us/politics/employer-vaccine-mandates.html">US Urges Court Not to Block Vaccine Mandate on Employers</a> NYT: The Biden Justice Department filed its case before an appeals court that has temporarily halted the measure. 
  <p class="updated_time"> 07:35 AM CT, Nov. 10 </p> 
@@ -243,7 +247,7 @@ permalink: /projects/news/
  <p class="updated_time"> 05:38 AM CT, Nov. 10 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/k0mkJ7dnnc4/index.html">Prosecutors seek 4+ years in prison for 'QAnon Shaman' in attempt to set example</a> CNN: The Justice Department is asking for the so-called QAnon Shaman, who wore a headdress and posed shirtless on the Senate floor during the siege of the US Capitol, to be sentenced to a prison term of more than four years, the longest incarceration prosecutors have asked for any guilty January 6 defendant so far, according to a new court filing. 
  <p class="updated_time"> 05:35 AM CT, Nov. 10 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-10/germany-s-next-coalition-close-to-deal-on-legalizing-cannabis">Germany’s Next Coalition Close to Deal on Legalizing Cannabis</a> Bloomberg: Germany’s likely next ruling coalition is closing in on a deal to legalize cannabis for recreational use, the strongest signal yet that long-awaited growth of Europe’s marijuana market is gaining traction. 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-10/germany-s-next-coalition-close-to-deal-on-legalizing-cannabis">Germany’s Next Coalition Nears Deal on Legalizing Cannabis</a> Bloomberg: Germany’s likely next ruling coalition is closing in on a deal to legalize cannabis for recreational use, the strongest signal yet that long-awaited growth of Europe’s marijuana market is gaining traction. 
  <p class="updated_time"> 05:19 AM CT, Nov. 10 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-10/swedish-government-clinches-deal-that-paves-the-way-for-new-pm">Swedish Government Clinches Deal That Paves the Way for New PM</a> Bloomberg: Sweden’s Center Party won’t seek to block Magdalena Andersson as the successor to current prime minister Stefan Lofven after it secured key concessions from the government. 
  <p class="updated_time"> 04:59 AM CT, Nov. 10 </p> 
@@ -290,8 +294,6 @@ permalink: /projects/news/
  <a href="https://www.washingtonpost.com/politics/2021/11/10/robert-moses-saga-racist-parkway-bridges/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Robert Moses and the saga of the racist parkway bridges </a> WaPo: Transportation Secretary Pete Buttigieg referred to a famous anecdote in Robert Caro's biography of the master builder but historians increasingly question whether it is correct. 
  <p class="updated_time"> 02:00 AM CT, Nov. 10 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-10/poland-seeks-emergency-eu-summit-on-belarus-border-crisis">Putin Brushes Off Merkel’s Call to Stop Belarus on Migrants</a> Bloomberg: President Vladimir Putin brushed off a request by Chancellor Angela Merkel to exercise his influence over Belarus as the European Union prepares a fresh raft of sanctions against the regime in Minsk for channeling thousands of migrants to the bloc’s border. 
- <p class="updated_time"> 01:55 AM CT, Nov. 10 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-10/u-s-journalist-held-in-myanmar-charged-with-sedition-terrorism">U.S. Journalist Held in Myanmar Charged With Sedition, Terrorism</a> Bloomberg: An American journalist faces new charges of terrorism and sedition nearly six months after he was detained by the military junta, his lawyer said, dealing a fresh blow to U.S. efforts to free him. 
  <p class="updated_time"> 01:20 AM CT, Nov. 10 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-10/malaysia-indonesia-agree-to-start-vaccinated-travel-lanes">Malaysia, Indonesia Agree to Start Vaccinated Travel Lanes</a> Bloomberg: Malaysia and Indonesia plan to allow fully-vaccinated travelers to fly between the two nations, just days after a similar agreement was struck in one of the world’s busiest air routes. 
  <p class="updated_time"> 12:47 AM CT, Nov. 10 </p> 
@@ -440,8 +442,6 @@ permalink: /projects/news/
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PboRVYF-kOU/index.html">CBO says social spending bill score 'will take longer,' in potential blow to Democrats' timing</a> CNN: The timetable for President Joe Biden's social spending bill, known as Build Back Better, may have just hit a new snag. 
  <p class="updated_time"> 09:46 AM CT, Nov. 09 </p> 
  <a href="https://www.politico.com/news/2021/11/09/sununu-wont-run-for-senate-520413">Sunu-no: Top GOP recruit won't run for Senate</a> Politico: New Hampshire Gov. Chris Sununu said Tuesday he will seek reelection, denying Republicans their top recruit of the 2022 election cycle. 
- <p class="updated_time"> 09:39 AM CT, Nov. 09 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-09/top-uae-official-in-first-syria-visit-in-a-decade-reports-say">U.S. Concerned About UAE Efforts to Normalize With Syria</a> Bloomberg: The United States said it was concerned about efforts to normalize relations with Syrian President Bashar al-Assad after the United Arab Emirates’ foreign minister visited Damascus Tuesday, the highest-level official to make the trip in a decade. 
  <p class="updated_time"> 09:35 AM CT, Nov. 09 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/R9Ll9AZCCe0/index.html">Here's what Biden can actually do about gas prices</a> CNN: High gas prices are quickly becoming a political liability for President Joe Biden -- and like presidents before him, he has few options to bring them down. 
  <p class="updated_time"> 09:21 AM CT, Nov. 09 </p> 
@@ -484,8 +484,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/08/us/supreme-court-fbi-muslims.html">Supreme Court Weighs Case Against F.B.I. for Spying on Muslims</a> NYT: The justices considered whether the state secrets doctrine required dismissal on national security grounds of a case claiming religious discrimination. 
  <p class="updated_time"> 04:38 PM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/us/politics/justice-dept-ransomware.html">Justice Dept. Brings New Charges in Ransomware Attacks</a> NYT: The department said it had charged a Russian national in one attack and recovered $6.1 million in ransom. It also arrested a Ukrainian man for another attack. 
- <p class="updated_time"> 04:01 PM CT, Nov. 08 </p> 
- <a href="https://www.politico.com/news/2021/11/08/justices-narrow-ruling-mosque-surveillance-520312">Justices seek narrow ruling in mosque surveillance case</a> Politico: A suit from post-9/11 snooping on a California Muslim congregations raises questions about the scope of the Foreign Intelligence Surveillance Act. 
  <p class="updated_time"> 04:01 PM CT, Nov. 08 </p> 
  <a href="https://www.npr.org/2021/11/08/1053603338/jill-biden-covid-vaccine-kids-virginia-school-polio">Virginia school revisits its history as a polio vaccine trailblazer with COVID clinic</a> NPR: Franklin Sherman Elementary was the first school to administer the polio vaccine to kids in 1954. Now it's once again at the forefront, hosting a COVID-19 vaccine event with first lady Jill Biden. 
  <p class="updated_time"> 12:02 PM CT, Nov. 08 </p> 
