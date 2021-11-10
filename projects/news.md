@@ -7,8 +7,14 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:48 PM CT, Nov. 10 </p> 
+ <p class="updated_time"> 02:00 PM CT, Nov. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/science-environment-59238869?at_medium=RSS&at_campaign=KARANGA">COP26: China and US agree to boost climate cooperation</a> BBC: In a surprise announcement, the two countries unveil a joint pledge at the COP26 summit in Glasgow. 
+ <p class="updated_time"> 02:00 PM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/live/2021/11/10/world/poland-belarus-border-migrants">Live Updates: Crisis on Europe’s Eastern Flank Deepens as Tension Escalates at Polish Border</a> NYT: Western officials accuse the leader of Belarus of sending migrants to E.U. borders as retaliation for sanctions. E.U. officials expressed support for Poland. Lithuania, which also borders Belarus, declared a state of emergency. 
+ <p class="updated_time"> 01:56 PM CT, Nov. 10 </p> 
+ <a href="https://www.npr.org/2021/11/10/1053844312/palestinians-israel-nso-spyware">They got hacked with NSO spyware. Now Israel wants Palestinian activists' funding cut</a> NPR: A battle over Palestinian activist groups that Israel accuses of terrorism has taken a turn into the world of Israeli spyware. Israel hopes to convince European countries to stop funding the groups. 
+ <p class="updated_time"> 01:50 PM CT, Nov. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/science-environment-59241667?at_medium=RSS&at_campaign=KARANGA">Time-lapse video shows Iceland glacier shrink</a> BBC: Footage shows the rapid rate that centuries-old ice from the Breiðamerkurjökull glacier is melting. 
  <p class="updated_time"> 01:44 PM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/09/world/europe/malala-yousafzai-married.html">Malala Yousafzai Announces Her Marriage</a> NYT: Ms. Yousafzai, a Pakistani activist and the youngest-ever recipient of a Nobel Peace Prize, married her partner at a small ceremony in Birmingham, England, she said on Twitter. 
  <p class="updated_time"> 01:43 PM CT, Nov. 10 </p> 
@@ -161,14 +167,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/09/world/asia/india-covid-vaccinations.html">India Risks Covid-19 Complacency After Its Vaccine Campaign</a> NYT: The success represents a major victory for Narendra Modi’s government, but a recent slowdown in new vaccinations has sparked worries. 
  <p class="updated_time"> 11:27 AM CT, Nov. 09 </p> 
  <a href="https://www.nytimes.com/2021/11/08/world/americas/brazil-telegram-disinformation.html">Brazil’s Far-Right Disinformation Pushers Find a Safe Space on Telegram</a> NYT: In a social media ecosystem facing mounting pressure to combat fake news and polarization, Telegram is the most permissive disseminator of content — and disinformation. 
- <p class="updated_time"> 11:15 AM CT, Nov. 09 </p> 
- <a href="https://www.npr.org/sections/coronavirus-live-updates/2021/11/09/1053889069/singapore-medical-bills-covid-19-patients-unvaccinated-by-choice">Singapore will stop covering the medical bills of unvaccinated COVID-19 patients</a> NPR: Singapore's government will stop covering the cost of COVID-19 treatment for those who are "unvaccinated by choice" next month, citing the strain they are placing on its health care system. 
  <p class="updated_time"> 11:12 AM CT, Nov. 09 </p> 
  <a href="https://www.nytimes.com/2021/11/09/world/asia/singapore-unvaccinated-covid.html">Singapore to End Free Covid Treatment for Those 'Unvaccinated by Choice'</a> NYT: The change, which takes effect on Dec. 8, comes as the number of severe cases has stabilized but remains high, the Health Ministry said. 
  <p class="updated_time"> 10:59 AM CT, Nov. 09 </p> 
  <a href="https://www.nytimes.com/2021/11/09/world/asia/us-release-china-zhang-zhan.html">U.S. Urges Release of Chinese Citizen Journalist Who Documented Covid</a> NYT: Zhang Zhan, who was imprisoned after exposing the failures of the government’s initial response to the coronavirus outbreak in Wuhan, is near death, friends and family say. 
- <p class="updated_time"> 08:47 AM CT, Nov. 09 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-59225086?at_medium=RSS&at_campaign=KARANGA">Toxic foam covers sacred Yamuna river in India</a> BBC: Hindu devotees are filmed bathing in the Yamuna river to mark the Chhath Puja religious festival. 
  <p class="updated_time"> 07:05 AM CT, Nov. 09 </p> 
  <a href="https://www.nytimes.com/2021/11/09/us/myrtle-beach-trash-can-ireland.html">A Trash Can From Myrtle Beach Washed Up in Ireland</a> NYT: “It reminded me straight away of maybe like a message in a bottle type scenario,” said Keith McGreal, who discovered the bin on Sunday afternoon while strolling on a beach with his family. 
  <p class="updated_time"> 04:00 AM CT, Nov. 09 </p> 
@@ -199,17 +201,17 @@ permalink: /projects/news/
 <summary>Politics</summary>
 
  <p class="updated_time"> 01:45 PM CT, Nov. 10 </p> 
- <a href="https://www.nytimes.com/2021/11/10/technology/doj-uber-suit-disabilities.html">U.S. sues Uber, saying it discriminated against people with disabilities.</a> NYT: The Justice Department says Uber did not adjust its wait time fees for people with disabilities, even when Uber knew someone needed additional time. 
+ <a href="https://www.nytimes.com/2021/11/10/technology/doj-uber-suit-disabilities.html">U.S. Sues Uber, Saying it Discriminated Against People With Disabilities</a> NYT: The Justice Department says Uber did not adjust its wait time fees for people with disabilities, even when Uber knew someone needed additional time. 
+ <p class="updated_time"> 01:44 PM CT, Nov. 10 </p> 
+ <a href="https://www.washingtonpost.com/politics/steve-sweeney-president-of-new-jersey-senate-concedes-to-republican-edward-durr-jr/2021/11/10/481e7b06-4251-11ec-9ea7-3eb2406a2e24_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Steve Sweeney, president of New Jersey Senate, concedes to Republican Edward Durr Jr.</a> WaPo: The longtime Democratic leader in the state Senate conceded Wednesday, six days after the race was called for Durr, a truck driver. 
  <p class="updated_time"> 01:32 PM CT, Nov. 10 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WKP1SiJR3Rg/index.html">Biden set to highlight in Baltimore how infrastructure deal will affect nation's ports </a> CNN: President Joe Biden takes his sales pitch for the newly passed bipartisan infrastructure deal on the road Wednesday, highlighting the effect of the bill on supply chains, hours after new inflation statistics revealed that America's prices are surging more than they have in 30 years. 
  <p class="updated_time"> 01:31 PM CT, Nov. 10 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RzYRY-_Cino/index.html">US Capitol rioter who assaulted police officer gets 41 months in prison</a> CNN: A New Jersey gym owner and former MMA fighter who punched a police officer during the January 6 riot was sentenced to 41 months in prison on Wednesday, becoming the first rioter sentenced for violence against the police during the attack. 
  <p class="updated_time"> 01:08 PM CT, Nov. 10 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-10/fox-sued-as-dominion-seeks-election-evidence-from-rupert-murdoch">Rupert Murdoch Documents Sought by Dominion in Election Suit</a> Bloomberg: Dominion Voting Systems Inc., the company falsely accused of rigging the 2020 presidential election, sued Fox Corp. in an effort to gain access to Chairman Rupert Murdoch’s documents about its coverage of the contest. 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-10/fox-sued-as-dominion-seeks-election-evidence-from-rupert-murdoch">Dominion Voting Sues Fox, Seeking Election Evidence From Murdochs</a> Bloomberg: Dominion Voting Systems Inc., the company falsely accused of rigging the 2020 presidential election, sued Fox Corp. in an effort to gain access to Chairman Rupert Murdoch’s documents about its coverage of the contest. 
  <p class="updated_time"> 12:59 PM CT, Nov. 10 </p> 
  <a href="https://www.politico.com/news/2021/11/10/scott-fairlamb-jan-6-sentencing-520592">N.J. man hit with toughest sentence yet in Jan. 6 attack</a> Politico: Former MMA fighter Scott Fairlamb gets 41 months in prison for punching police officer during Capitol Riot. 
- <p class="updated_time"> 12:57 PM CT, Nov. 10 </p> 
- <a href="https://www.washingtonpost.com/politics/steve-sweeney-president-of-new-jersey-senate-concedes-to-republican-edward-durr-jr/2021/11/10/481e7b06-4251-11ec-9ea7-3eb2406a2e24_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Steve Sweeney, president of New Jersey Senate, concedes to Republican Edward Durr Jr.</a> WaPo: The longtime Democratic leader in the state Senate conceded Wednesday, six days after the race was called for Durr, a truck driver. 
  <p class="updated_time"> 12:52 PM CT, Nov. 10 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-10/desantis-lures-funds-from-buyout-veteran-mlb-team-owner">DeSantis PAC Lures Cash From Buyout Veteran, MLB Team Owner</a> Bloomberg: Florida Governor Ron DeSantis’s political action committee raised $4.7 million in October, extending the Republican’s streak of big-money donations with funds from private equity veteran John Childs and the owner of the San Francisco Giants. 
  <p class="updated_time"> 12:48 PM CT, Nov. 10 </p> 
@@ -231,7 +233,7 @@ permalink: /projects/news/
  <p class="updated_time"> 12:16 PM CT, Nov. 10 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/yOqxDjj1bjs/index.html">The legal fight over Trump's White House documents: What's next</a> CNN: A federal judge on Tuesday slammed former President Donald Trump's attempt to keep White House documents from the hands of the House committee investigating the events leading up to and on January 6. 
  <p class="updated_time"> 12:11 PM CT, Nov. 10 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-10/boeing-agrees-to-settlement-with-victims-in-ethiopia-air-crash">Boeing Agrees to Settlement With Victims in Ethiopia Air Crash</a> Bloomberg: Boeing Co. said in a court filing it reached a settlement to compensate the families of victims of the Ethiopian Air 737 Max jet that crashed in 2019. 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-10/boeing-agrees-to-settlement-with-victims-in-ethiopia-air-crash">Boeing Reaches Liability Deal in Ethiopian Air Crash Suits</a> Bloomberg: Boeing Co. said it reached a legal settlement with families of those killed in the 2019 Ethiopian Airlines 737 Max jet crash, admitting the company’s liability and agreeing to negotiate compensation payouts in a Chicago court. 
  <p class="updated_time"> 12:00 PM CT, Nov. 10 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Zni31hTup8k/index.html">Family health care coverage at work tops $22,000 a year</a> CNN: Getting family health insurance on the job now costs workers and their employers more than $22,000 a year, on average. And companies have not been able to do much to make coverage more affordable, even though the coronavirus pandemic has reinforced the importance of health benefits. 
  <p class="updated_time"> 11:53 AM CT, Nov. 10 </p> 
@@ -437,7 +439,7 @@ permalink: /projects/news/
  <p class="updated_time"> 01:03 PM CT, Nov. 09 </p> 
  <a href="https://www.npr.org/2021/11/09/1053817211/justice-on-the-brink-author-considers-the-impact-of-trumps-3-supreme-court-picks">'Justice on the Brink' author considers the impact of Trump's 3 Supreme Court picks</a> NPR: Pulitzer Prize-winning journalist Linda Greenhouse says the new Court has given conservatives less than they'd hoped for, though critical cases on abortion and other issues are still pending. 
  <p class="updated_time"> 01:00 PM CT, Nov. 09 </p> 
- <a href="https://www.npr.org/2021/11/09/1053929419/feel-like-you-dont-fit-in-either-political-party-heres-why">Feel like you don't fit in either political party? Here's why</a> NPR: The division is far more complicated than a split between Republicans and Democrats, according to the Pew Research Center. Here are differences in ideology on race, economics and government. 
+ <a href="https://www.npr.org/2021/11/09/1053929419/feel-like-you-dont-fit-in-either-political-party-heres-why">Feel like you don't fit in either political party? Here's why</a> NPR: The division is far more complicated than a split between Republicans and Democrats, according to the Pew Research Center. There are differences in ideology on race, economics and government. 
  <p class="updated_time"> 12:10 PM CT, Nov. 09 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-09/un-says-16-staff-members-detained-in-ethiopia-as-crisis-worsens">UN Staff Members Detained in Ethiopia as Crisis Worsens</a> Bloomberg: The United Nations said 16 staff members have been detained in Ethiopia as a leader of the Tigray rebels warned mediation efforts to end the crisis in the Horn of African nation may fail. 
  <p class="updated_time"> 12:02 PM CT, Nov. 09 </p> 
