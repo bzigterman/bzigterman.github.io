@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:49 AM CT, Nov. 10 </p> 
+ <a href="https://www.nytimes.com/2021/11/10/world/asia/covid-china-shenyang-quarantine.html">This Chinese City Requires 28 Days of Quarantine. Then Another 28.</a> NYT: The restrictions in Shenyang are a stark example of how seriously officials are taking the country’s “zero Covid” approach to the pandemic. 
  <p class="updated_time"> 04:08 AM CT, Nov. 10 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2021/11/10/1052926511/this-kenyan-family-got-solar-power-high-level-climate-talks-determine-who-else-w">This Kenyan family got solar power. High-level climate talks determine who else will</a> NPR: Last month, the Muisyo family turned on the lights for the first time thanks to climate financing from rich countries. But the fund is falling short of its $100 billion goal to help poor countries. 
  <p class="updated_time"> 04:00 AM CT, Nov. 10 </p> 
@@ -105,8 +107,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59225576?at_medium=RSS&at_campaign=KARANGA">Emily Ratajkowski: Told to 'get ugly' for acting roles</a> BBC: In an interview with BBC Newsnight, she also spoke about her alleged sexual assault by Robin Thicke. 
  <p class="updated_time"> 11:27 AM CT, Nov. 09 </p> 
  <a href="https://www.nytimes.com/2021/11/08/world/americas/brazil-telegram-disinformation.html">Brazil’s Far-Right Disinformation Pushers Find a Safe Space on Telegram</a> NYT: In a social media ecosystem facing mounting pressure to combat fake news and polarization, Telegram is the most permissive disseminator of content — and disinformation. 
- <p class="updated_time"> 11:26 AM CT, Nov. 09 </p> 
- <a href="https://www.nytimes.com/2021/11/08/world/europe/france-police-officer-stabbed-cannes.html">Police Officer Stabbed on French Riviera, Authorities Say</a> NYT: Gérald Darmanin, France’s interior minister, said an assailant had stabbed an officer in Cannes. The motive for the attack was not immediately clear. 
  <p class="updated_time"> 11:16 AM CT, Nov. 09 </p> 
  <a href="https://www.nytimes.com/2021/11/08/travel/usa-travel-restrictions.html">U.S. Allows Vaccinated Foreign Travelers to Enter</a> NYT: On Monday, after more than 18 months, restrictions that kept families separated and cost the global travel industry hundreds of billions of dollars were lifted. 
  <p class="updated_time"> 11:15 AM CT, Nov. 09 </p> 
@@ -207,9 +207,17 @@ permalink: /projects/news/
 <summary>Politics</summary>
 
  <p class="updated_time"> 04:31 AM CT, Nov. 10 </p> 
+ <a href="https://www.politico.com/news/2021/11/10/progressive-coalition-retools-ahead-of-2022-520550">Progressive coalition retools ahead of 2022</a> Politico: A nationwide alliance of left-wing groups gets a new leadership team. 
+ <p class="updated_time"> 04:31 AM CT, Nov. 10 </p> 
  <a href="https://www.politico.com/news/2021/11/10/schumer-billions-new-york-public-housing-520519">Schumer scores billions for New York's decaying public housing</a> Politico: The jockeying over the housing funds is one of many emerging sources of political tension surrounding President Joe Biden's bill. 
+ <p class="updated_time"> 04:31 AM CT, Nov. 10 </p> 
+ <a href="https://www.politico.com/news/2021/11/10/schumer-billions-new-york-public-housing-520519">Schumer scores billions for New York's decaying public housing</a> Politico: The jockeying over the housing funds is one of many emerging sources of political tension surrounding President Joe Biden's bill. 
+ <p class="updated_time"> 04:30 AM CT, Nov. 10 </p> 
+ <a href="https://www.politico.com/news/2021/11/10/daylight-saving-time-feud-520561">Inside the bitter, nasty feud over making daylight saving time permanent</a> Politico: Who knew there were such passions around falling back and springing forward? 
+ <p class="updated_time"> 04:30 AM CT, Nov. 10 </p> 
+ <a href="https://www.politico.com/news/2021/11/10/biden-vaccine-mandates-va-mcdonough-520564">Biden called for widespread mandates. His VA is navigating its own minefields.</a> Politico: An overwhelming number of staff have gotten vaccinated. But a month after the deadline, at least ten percent of a 380,000 health care workforce still haven’t. 
  <p class="updated_time"> 04:08 AM CT, Nov. 10 </p> 
- <a href="https://www.npr.org/2021/11/10/1054175407/the-super-rich-push-back-against-calls-for-a-wealth-tax">The super rich push back against calls for a wealth tax</a> NPR: During the pandemic U.S. billionaires saw their wealth increase by more than $1 trillion. That's leading to calls for a wealth tax. But the super rich, including Elon Musk, are pushing back. 
+ <a href="https://www.npr.org/2021/11/10/1054175407/the-super-rich-push-back-against-calls-for-a-wealth-tax">The super rich push back against calls for a wealth tax</a> NPR: During the pandemic U.S. billionaires saw their wealth increase by more than $1 trillion. The majority of that increase is not taxed because their net worth is tied up in the stocks they own. 
  <p class="updated_time"> 04:07 AM CT, Nov. 10 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-10/why-silvio-berlusconi-wants-draghi-to-stay-on-as-italy-premier">Why Silvio Berlusconi Wants Draghi to Stay on as Italy Premier</a> Bloomberg: Prime Minister Mario Draghi has won plaudits for leading Italy through the Covid-19 pandemic while tackling its sluggish economy, bloated bureaucracy and contentious internal politics -- and even ex-premier Silvio Berlusconi says he’s impressed. 
  <p class="updated_time"> 04:00 AM CT, Nov. 10 </p> 
@@ -278,8 +286,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/09/health/pfizer-booster-eligibility-adults.html">Pfizer Asks F.D.A. to Authorize Covid Booster Shots for All Adults</a> NYT: In a turnaround, the agency is expected to grant the request before the winter holiday season, giving access to all 181 million fully vaccinated people. 
  <p class="updated_time"> 08:57 PM CT, Nov. 09 </p> 
  <a href="https://www.politico.com/news/2021/11/09/brian-williams-leave-nbc-news-520551">Brian Williams says he’s leaving NBC News at end of year</a> Politico: “I’ll pop up again somewhere,” he said. 
- <p class="updated_time"> 08:51 PM CT, Nov. 09 </p> 
- <a href="https://www.politico.com/news/2021/11/09/businesses-biden-covid-vaccine-rule-520548">Businesses warn of 'irreparable harm' if no permanent stay of Biden vaccine rule</a> Politico: The rules released by the Department of Labor last week require private businesses with more than 100 employees to ensure their workers are vaccinated or have them submit to weekly testing by Jan. 4. 
  <p class="updated_time"> 08:49 PM CT, Nov. 09 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-10/satellite-signals-suggest-vietnam-ship-seized-by-iran-freed">Vietnamese Oil Tanker Seized By Iran Now Free in Open Waters</a> Bloomberg: Dubai, United Arab Emirates (AP) -- A Vietnamese oil tanker earlier seized by Iran was free in open water Wednesday, ending the latest maritime confrontation involving Tehran amid stalled negotiations over its tattered nuclear deal with world powers. 
  <p class="updated_time"> 08:25 PM CT, Nov. 09 </p> 
@@ -410,8 +416,6 @@ permalink: /projects/news/
  <a href="https://www.bloomberg.com/news/articles/2021-11-09/un-says-16-staff-members-detained-in-ethiopia-as-crisis-worsens">UN Staff Members Detained in Ethiopia as Crisis Worsens</a> Bloomberg: The United Nations said 16 staff members have been detained in Ethiopia’s capital, as a leader of the Tigray rebels warned mediation efforts to end the crisis in the Horn of African nation may fail. 
  <p class="updated_time"> 12:02 PM CT, Nov. 09 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/B4jbhNAVlq0/index.html">Republicans who voted for Biden's infrastructure bill come under fire from Trump </a> CNN: Former President Donald Trump privately criticized on Monday night the 13 Republicans who voted to pass the $1.2 trillion infrastructure bill, questioning why they would give President Joe Biden a win when he's struggling in the polls, according to a GOP source. 
- <p class="updated_time"> 12:00 PM CT, Nov. 09 </p> 
- <a href="https://www.politico.com/news/2021/11/09/trump-officials-hatch-act-violated-520420">Watchdog: 13 Trump officials violated Hatch Act during 2020 campaign</a> Politico: The list includes several cabinet officials and top White House aides, including Trump’s former Secretary of State Mike Pompeo, chief of staff Mark Meadows and press secretary Kayleigh McEnany. 
  <p class="updated_time"> 11:55 AM CT, Nov. 09 </p> 
  <a href="https://www.npr.org/2021/11/09/1053895408/paul-gosar-alexandria-ocasio-cortez-anime-twitter-video-backlash">Rep. Paul Gosar shared an anime video of himself killing AOC. This was her response</a> NPR: The video shows Gosar's character killing Rep. Alexandria Ocasio-Cortez with a sword and brandishing weapons at President Biden. Twitter says it violates its hateful conduct rules but has left it up. 
  <p class="updated_time"> 11:39 AM CT, Nov. 09 </p> 
@@ -428,8 +432,6 @@ permalink: /projects/news/
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PboRVYF-kOU/index.html">CBO says social spending bill score 'will take longer,' in potential blow to Democrats' timing</a> CNN: The timetable for President Joe Biden's social spending bill, known as Build Back Better, may have just hit a new snag. 
  <p class="updated_time"> 10:24 AM CT, Nov. 09 </p> 
  <a href="https://www.washingtonpost.com/politics/2021/03/09/senate-seats-up-2022/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">How the 2022 Senate map is shaping up</a> WaPo: Republican retirements are the early story of the 2022 battle for the Senate. 
- <p class="updated_time"> 09:46 AM CT, Nov. 09 </p> 
- <a href="https://www.politico.com/news/2021/11/09/sununu-wont-run-for-senate-520413">Sunu-no: Top GOP recruit won't run for Senate</a> Politico: New Hampshire Gov. Chris Sununu said Tuesday he will seek reelection, denying Republicans their top recruit of the 2022 election cycle. 
  <p class="updated_time"> 09:39 AM CT, Nov. 09 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-09/top-uae-official-in-first-syria-visit-in-a-decade-reports-say">U.S. Concerned About UAE Efforts to Normalize With Syria</a> Bloomberg: The United States said it was concerned about efforts to normalize relations with Syrian President Bashar al-Assad after the United Arab Emirates’ foreign minister visited Damascus Tuesday, the highest-level official to make the trip in a decade. 
  <p class="updated_time"> 09:35 AM CT, Nov. 09 </p> 
@@ -451,13 +453,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:31 AM CT, Nov. 09 </p> 
  <a href="https://www.politico.com/news/2021/11/09/biden-unvaccinated-workers-covid-testing-520344">Biden plan to make unvaccinated workers pay for Covid testing could backfire</a> Politico: The prospect of hitting businesses with new testing costs as many struggle to staff back up could harden opposition to Biden’s plan, and hamper the president’s latest push to end the pandemic. 
  <p class="updated_time"> 04:30 AM CT, Nov. 09 </p> 
- <a href="https://www.politico.com/news/2021/11/09/democrats-gop-shutout-maryland-redistricting-520399">Dems weigh a GOP shutout in Maryland redistricting</a> Politico: Democratic legislators are considering redistricting maps that could target Rep. Andy Harris, the state’s only Republican member of Congress. 
- <p class="updated_time"> 04:30 AM CT, Nov. 09 </p> 
  <a href="https://www.politico.com/news/2021/11/09/senate-dems-year-end-train-wreck-520275">The Senate’s year-end to-do list is ‘going to be a train wreck’</a> Politico: Ho, ho, oh no. Long nights, weekend work and threatened holidays are a Capitol tradition, and this year is likely no exception. 
- <p class="updated_time"> 04:30 AM CT, Nov. 09 </p> 
- <a href="https://www.politico.com/news/2021/11/09/senate-dems-year-end-train-wreck-520275">The Senate’s year-end to-do list is ‘going to be a train wreck’</a> Politico: Ho, ho, oh no. Long nights, weekend work and threatened holidays are a Capitol tradition, and this year is likely no exception. 
- <p class="updated_time"> 04:30 AM CT, Nov. 09 </p> 
- <a href="https://www.politico.com/news/2021/11/09/biden-hbcus-howard-university-protests-520391">Biden made huge promises to HBCUs. Can he sell its students on compromise?</a> Politico: The administration is still proposing historic funds. Kamala Harris remains a trusted alumnus. But campus life at the country’s most famous HBCU is in tumult. 
  <p class="updated_time"> 04:06 AM CT, Nov. 09 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-09/china-s-politics-enter-turbulent-period-as-xi-pushes-for-control">China’s Politics Enter Turbulent Period as Xi Pushes for Control</a> Bloomberg: Party probes and&nbsp;power games ramp up ahead of a landmark leadership congress next year 
  <p class="updated_time"> 04:04 AM CT, Nov. 09 </p> 
@@ -516,6 +512,8 @@ permalink: /projects/news/
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/vBRV9fRRViY/index.html">White House chief of staff 'confident' vaccine mandate for private businesses will be upheld</a> CNN: White House chief of staff Ron Klain said he was confident the courts will uphold the validity of the Biden administration's new vaccine rules that apply to private businesses with 100 or more employees, certain health care workers and federal contractors, after a federal appeals court temporarily blocked the requirements on Saturday. 
  <p class="updated_time"> 07:01 AM CT, Nov. 07 </p> 
  <a href="https://www.politico.com/news/2021/11/07/biden-faces-heat-pipeline-propane-cost-519788">Pipeline pile-on: Biden faces heat from Canada, Republicans, Michigan’s governor and the price of propane</a> Politico: The president is caught between environmentalists and Indigenous groups on one side and Republicans blaming him for soaring energy prices on the other. 
+ <p class="updated_time"> 02:12 PM CT, Nov. 06 </p> 
+ <a href="https://www.politico.com/news/2021/11/06/biden-vaccine-order-blocked-federal-court-519908">Federal court blocks Biden administration's vaccination mandate</a> Politico: The states of Texas, Louisiana, Mississippi, South Carolina and Utah are among the plaintiffs. 
  <p class="updated_time"> 11:01 AM CT, Nov. 06 </p> 
  <a href="https://www.politico.com/news/2021/11/06/infrastructure-bill-build-back-better-519894">How Biden’s infrastructure win falls short in one big area</a> Politico: The bill is historic in its scope with $550 billion in new money funneled into hard infrastructure, from overhauling bridges to supercharging Amtrak's most popular rail corridor in the Northeast. 
  <p class="updated_time"> 10:18 AM CT, Nov. 06 </p> 
