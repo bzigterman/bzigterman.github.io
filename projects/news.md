@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:52 PM CT, Nov. 10 </p> 
+ <a href="https://www.npr.org/2021/11/10/1054339705/taliban-military-pilots-amnesty">A Taliban official urges ex-Afghan military pilots to stay, protected by an amnesty</a> NPR: A government spokesman's assurances came after dozens of U.S.-trained Afghan pilots were evacuated from Tajikistan in a U.S.-brokered deal, months after they sought refuge from the Taliban there. 
+ <p class="updated_time"> 12:50 PM CT, Nov. 10 </p> 
+ <a href="https://www.nytimes.com/2021/11/10/world/africa/mozambique-corruption-manuel-chang-extradition.html">Manuel Chang Will Face Corruption Charges in U.S.</a> NYT: A judge overturned the South African government’s decision to send the minister back to Mozambique, where civil society groups say his political clout will protect him. 
  <p class="updated_time"> 12:39 PM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/live/2021/11/10/world/poland-belarus-border-migrants">Live Updates: Crisis on Europe’s Eastern Flank Deepens as Tension Escalates at Polish Border</a> NYT: Western officials accuse the leader of Belarus of sending migrants to E.U. borders as retaliation for sanctions. E.U. officials expressed support for Poland. Lithuania, which also borders Belarus, declared a state of emergency. 
  <p class="updated_time"> 12:39 PM CT, Nov. 10 </p> 
@@ -15,6 +19,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/10/world/europe/migrants-fly-iraq-belarus.html">Surge in Flights to Belarus Fuels Migrant Buildup at Polish Border</a> NYT: A spike in air travel from the Middle East to Belarus points to a concerted effort to funnel migrant toward the European Union, E.U. officials say. 
  <p class="updated_time"> 12:34 PM CT, Nov. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59237413?at_medium=RSS&at_campaign=KARANGA">Belarus accused of state terrorism over migrant crisis</a> BBC: Poland's prime minister says Belarus is flying in migrants and sending them to the border. 
+ <p class="updated_time"> 12:27 PM CT, Nov. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-59238867?at_medium=RSS&at_campaign=KARANGA">Paraguay: Police probe Stradivarius violin theft motive in double murder</a> BBC: Three German citizens are arrested in Paraguay over the murder of an archaeologist and his daughter. 
  <p class="updated_time"> 12:27 PM CT, Nov. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59239853?at_medium=RSS&at_campaign=KARANGA">Kyle Rittenhouse: Accused teen takes stand in his own defence</a> BBC: Kyle Rittenhouse, 18, broke down in tears as he told he court he shot three men in self-defence. 
  <p class="updated_time"> 12:26 PM CT, Nov. 10 </p> 
@@ -26,7 +32,7 @@ permalink: /projects/news/
  <p class="updated_time"> 12:00 PM CT, Nov. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59239973?at_medium=RSS&at_campaign=KARANGA">Ex-French president Francois Hollande testifies over 2015 Paris attacks</a> BBC: Francois Hollande tells the trial over the 2015 IS attacks that they couldn't have been prevented. 
  <p class="updated_time"> 11:57 AM CT, Nov. 10 </p> 
- <a href="https://www.nytimes.com/2021/11/10/world/asia/vietnam-communist-gold-steak-saltbae.html">Video of Salt Bae Serving Communist Leader Gold Steak Prompts Anger in Vietnam</a> NYT: A celebrity chef showed the meal in a TikTok video, now removed, that angered people in Vietnam. Facebook said it was investigating why the chef’s hashtag was blocked from its site. 
+ <a href="https://www.nytimes.com/2021/11/10/world/asia/vietnam-communist-gold-steak-salt-bae.html">Video of Salt Bae Serving Communist Leader Gold Steak Prompts Anger in Vietnam</a> NYT: A celebrity chef showed the meal in a TikTok video, now removed, that angered people in Vietnam. Facebook said it was investigating why the chef’s hashtag was blocked from its site. 
  <p class="updated_time"> 11:50 AM CT, Nov. 10 </p> 
  <a href="https://www.npr.org/2021/11/10/1054296657/u-k-will-save-its-red-phone-kiosks">The U.K. will save thousands of its iconic red phone kiosks from being shut down</a> NPR: Thousands of the U.K.'s famous red public phone booths will be kept in service, despite lagging use. Regulators say they still play a vital role in emergencies. 
  <p class="updated_time"> 11:45 AM CT, Nov. 10 </p> 
@@ -69,8 +75,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/10/1054239976/ethiopia-tigray-drivers-war-aid">Ethiopia detains about 70 drivers who deliver aid as war escalates, the U.N. says</a> NPR: The U.N. says Ethiopian authorities have arrested and detained some 70 truck drivers contracted to the U.N. and other aid groups in the past week since the government declared a state of emergency. 
  <p class="updated_time"> 08:39 AM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/08/world/europe/uk-brexit-estonia-business.html">Brexit Brain Drain  Delivers Financial Boon to Estonia</a> NYT: The former Soviet satellite state is welcoming British companies looking to escape the tangle of regulations and financial obstacles of doing business in Europe. 
- <p class="updated_time"> 08:23 AM CT, Nov. 10 </p> 
- <a href="https://www.nytimes.com/2021/11/10/world/climate-change-activists-cop26.html">Young Climate Activists Say COP26 Has Unified Them</a> NYT: Young activists from across the world expressed disappointment at what they see as empty promises from world leaders. 
  <p class="updated_time"> 08:10 AM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/08/travel/usa-travel-restrictions.html">U.S. Allows Vaccinated Foreign Travelers to Enter</a> NYT: On Monday, after more than 18 months, restrictions that kept families separated and cost the global travel industry hundreds of billions of dollars were lifted. 
  <p class="updated_time"> 08:08 AM CT, Nov. 10 </p> 
@@ -79,8 +83,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59234443?at_medium=RSS&at_campaign=KARANGA">Germany coronavirus: Record rise prompts warning of 100,000 deaths</a> BBC: The state of Saxony has the highest rate of infection in Germany and the lowest vaccine take-up. 
  <p class="updated_time"> 07:43 AM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/world/europe/covid-germany-cases.html">Germany Weighs New Covid Rules as Infections Reach Record Heights</a> NYT: Nearly 40,000 new cases were registered in the country on Tuesday — the third time a daily record was set within a week. “We have a real emergency situation,” a top virologist said. 
- <p class="updated_time"> 07:40 AM CT, Nov. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59230566?at_medium=RSS&at_campaign=KARANGA">Thai court says calls for monarchy reform unconstitutional</a> BBC: Judges say comments by three protest leaders amount to an attempt to overthrow the political system. 
  <p class="updated_time"> 07:32 AM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/09/world/africa/ethiopia-united-nations.html">Ethiopia Seizes 16 UN Workers Amid Efforts to Halt Tigray War</a> NYT: The detentions aggravated the already tense relations between the United Nations and the Ethiopian government over war and hunger in the country’s rebel-held Tigray region. 
  <p class="updated_time"> 07:13 AM CT, Nov. 10 </p> 
@@ -169,8 +171,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-india-59225086?at_medium=RSS&at_campaign=KARANGA">Toxic foam covers sacred Yamuna river in India</a> BBC: Hindu devotees are filmed bathing in the Yamuna river to mark the Chhath Puja religious festival. 
  <p class="updated_time"> 07:05 AM CT, Nov. 09 </p> 
  <a href="https://www.nytimes.com/2021/11/09/us/myrtle-beach-trash-can-ireland.html">A Trash Can From Myrtle Beach Washed Up in Ireland</a> NYT: “It reminded me straight away of maybe like a message in a bottle type scenario,” said Keith McGreal, who discovered the bin on Sunday afternoon while strolling on a beach with his family. 
- <p class="updated_time"> 05:14 AM CT, Nov. 09 </p> 
- <a href="https://www.npr.org/2021/11/09/1053813035/8-years-after-he-killed-his-girlfriend-olympic-runner-pistorius-is-up-for-parole">8 years after he killed his girlfriend, Olympic runner Pistorius is up for parole</a> NPR: Oscar Pistorius, a double-amputee who competed at the 2012 Olympics, has been eligible for parole since July after serving half his sentence. He was convicted of murdering model Reva Steenkamp. 
  <p class="updated_time"> 04:00 AM CT, Nov. 09 </p> 
  <a href="https://www.nytimes.com/2021/11/09/style/bollywood-actor-richard-klein.html">How a 55-Year-Old California Teacher Became a Bollywood Actor </a> NYT: Richard Klein left behind his life as a Hebrew day school teacher in California and became an actor in Mumbai, often playing a “mean British officer.” 
  <p class="updated_time"> 08:14 PM CT, Nov. 08 </p> 
@@ -200,6 +200,12 @@ permalink: /projects/news/
 
  <p class="updated_time"> 12:59 PM CT, Nov. 10 </p> 
  <a href="https://www.politico.com/news/2021/11/10/scott-fairlamb-jan-6-sentencing-520592">N.J. man hit with toughest sentence yet in Jan. 6 attack</a> Politico: Former MMA fighter Scott Fairlamb gets 41 months in prison for punching police officer during Capitol Riot. 
+ <p class="updated_time"> 12:48 PM CT, Nov. 10 </p> 
+ <a href="https://www.nytimes.com/2021/11/10/business/economy/consumer-price-inflation-october.html">October 2021 CPI: Inflation Rose at Fastest Rate Since 1990</a> NYT: The Consumer Price Index rose 6.2 percent in October from a year ago, its fastest increase since 1990. That is bad news for President Biden and the central bank. 
+ <p class="updated_time"> 12:47 PM CT, Nov. 10 </p> 
+ <a href="https://www.nytimes.com/2021/11/10/us/politics/kids-vaccine-5-to-11.html">White House Estimates Almost 1 Million Younger Children Got Vaccines So Far</a> NYT: “Our goal clearly is to vaccinate as many kids as possible,” a White House official said. “The program is just getting up to full strength.” 
+ <p class="updated_time"> 12:42 PM CT, Nov. 10 </p> 
+ <a href="https://www.nytimes.com/2021/11/10/us/politics/fairlamb-jan-6-riot.html">Man Sentenced to 41 Months for Assaulting Officer in Capitol Riot</a> NYT: The sentence given to Scott Fairlamb, a former New Jersey gym owner, is the most severe so far for any of the more 650 people charged in the Jan. 6 attack. 
  <p class="updated_time"> 12:29 PM CT, Nov. 10 </p> 
  <a href="https://www.washingtonpost.com/politics/2021/08/31/trump-executive-privilege/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">How Trump is trying to use executive privilege to stall the Jan. 6 investigation</a> WaPo: Trump doesn't ultimately decide what is covered by executive privilege, but he could stall the process enough to damage the investigation. 
  <p class="updated_time"> 12:29 PM CT, Nov. 10 </p> 
@@ -208,6 +214,8 @@ permalink: /projects/news/
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7XpXgR5yHTA/index.html">Jill Biden and Elizabeth Dole team up to highlight military caregiving</a> CNN: First lady Jill Biden will highlight military caregiving families Wednesday morning at the White House, part of the Joining Forces initiative she started alongside then-first lady Michelle Obama in 2011. 
  <p class="updated_time"> 12:16 PM CT, Nov. 10 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/yOqxDjj1bjs/index.html">The legal fight over Trump's White House documents: What's next</a> CNN: A federal judge on Tuesday slammed former President Donald Trump's attempt to keep White House documents from the hands of the House committee investigating the events leading up to and on January 6. 
+ <p class="updated_time"> 12:11 PM CT, Nov. 10 </p> 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-10/boeing-agrees-to-settlement-with-victims-in-ethiopia-air-crash">Boeing Agrees to Settlement With Victims in Ethiopia Air Crash</a> Bloomberg: Boeing Co. said in a court filing it reached a settlement to compensate the families of victims of the Ethiopian Air 737 Max jet that crashed in 2019. 
  <p class="updated_time"> 12:00 PM CT, Nov. 10 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Zni31hTup8k/index.html">Family health care coverage at work tops $22,000 a year</a> CNN: Getting family health insurance on the job now costs workers and their employers more than $22,000 a year, on average. And companies have not been able to do much to make coverage more affordable, even though the coronavirus pandemic has reinforced the importance of health benefits. 
  <p class="updated_time"> 11:53 AM CT, Nov. 10 </p> 
@@ -216,8 +224,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/10/us/politics/blinken-johnson-johnson-vaccine-covax.html">U.S. Has Deal to Send J.&J. Covid Vaccine to Conflict Zones, Blinken Says</a> NYT: Secretary of State Antony J. Blinken stressed the need to extend vaccine access to people living in areas unreachable by government-run programs. 
  <p class="updated_time"> 11:43 AM CT, Nov. 10 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-10/hedge-funds-private-equity-poised-for-tough-rules-under-gensler">SEC Under Gensler to Get Tougher on Hedge Funds, Private Equity</a> Bloomberg: Hedge fund and private-equity giants overseeing trillions of dollars are poised to face tougher regulations from the U.S. Securities and Exchange Commission. 
- <p class="updated_time"> 11:40 AM CT, Nov. 10 </p> 
- <a href="https://www.nytimes.com/2021/11/10/business/economy/consumer-price-inflation-october.html">October 2021 CPI: Inflation Rose at Fastest Rate Since 1990</a> NYT: The Consumer Price Index rose 6.2 percent in October from a year ago, its fastest increase since 1990. That is bad news for President Biden and the central bank. 
  <p class="updated_time"> 11:39 AM CT, Nov. 10 </p> 
  <a href="https://www.washingtonpost.com/politics/2021/11/10/white-people-are-not-victims-discussions-about-historical-racism/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">White people are not the victims in discussions about historical racism</a> WaPo: There is an important distinction between talking about racism and accusing someone of it. 
  <p class="updated_time"> 11:39 AM CT, Nov. 10 </p> 
@@ -252,8 +258,6 @@ permalink: /projects/news/
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rdMrFK63JMw/index.html">Is there a lane for Liz Cheney in New Hampshire in 2024?</a> CNN: Sometimes in politics it's not so much what you say, it's where you say it. 
  <p class="updated_time"> 09:53 AM CT, Nov. 10 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/k0mkJ7dnnc4/index.html">Prosecutors seek 4+ years in prison for 'QAnon Shaman' in attempt to set example</a> CNN: The Justice Department is asking for the so-called QAnon Shaman, who wore a headdress and posed shirtless on the Senate floor during the siege of the US Capitol, to be sentenced to a prison term of more than four years, the longest incarceration prosecutors have asked for any guilty January 6 defendant so far, according to a new court filing. 
- <p class="updated_time"> 09:30 AM CT, Nov. 10 </p> 
- <a href="https://www.nytimes.com/2021/11/08/us/politics/justice-dept-ransomware.html">Justice Dept. Brings New Charges in Ransomware Attacks</a> NYT: The department said it had charged a Russian national in one attack and recovered $6.1 million in ransom. It also arrested a Ukrainian man for another attack. 
  <p class="updated_time"> 09:25 AM CT, Nov. 10 </p> 
  <a href="https://www.washingtonpost.com/politics/2021/11/10/some-reason-gop-wants-talk-about-how-bad-pandemic-was-florida-this-summer/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">For some reason, the GOP wants to talk about how bad the pandemic was in Florida this summer</a> WaPo: Okay. 
  <p class="updated_time"> 09:14 AM CT, Nov. 10 </p> 
@@ -336,8 +340,6 @@ permalink: /projects/news/
  <a href="https://www.bloomberg.com/news/articles/2021-11-10/auto-state-governors-press-congress-to-pass-aid-for-chipmakers">Auto-State Governors Press Congress to Pass Aid for Chipmakers</a> Bloomberg: Governors from nine states, led by Michigan’s Gretchen Whitmer, have sent a letter to top congressional leaders urging them to advance legislation that would provide $52 billion in aid to semiconductor producers and ease a shortage for manufacturers. 
  <p class="updated_time"> 03:59 AM CT, Nov. 10 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-10/sunak-has-20-billion-buffer-in-u-k-budget-for-possible-tax-cut">Sunak Has £15 Billion Buffer in U.K. Budget for Possible Tax Cut</a> Bloomberg: Chancellor of the Exchequer Rishi Sunak has set aside a 15 billion-pound ($20 billion) fund that could be used for tax cuts before the next election if the pandemic is brought under control, analysis of U.K. budget figures shows. 
- <p class="updated_time"> 03:53 AM CT, Nov. 10 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-10/austria-calls-for-strict-return-to-fiscal-rules-in-2023-budgets">Austria Calls for Strict Return to Fiscal Rules in 2023 Budgets</a> Bloomberg: The debate over how quickly European Union members should cut down the massive debt accumulated during the Covid-19 pandemic will likely heat up in the coming months, as governments in favor of fiscal stability push to reimpose tighter limits on spending despite risks that the recovery loses momentum. 
  <p class="updated_time"> 03:48 AM CT, Nov. 10 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-10/s-africa-doctors-oppose-j-j-boost-as-sole-health-worker-choice">South Africa Doctors Oppose J&amp;J Boost as Sole Health Worker Choice</a> Bloomberg: The South African Medical Association, which represents doctors, said there must must be a choice of Covid-19 booster vaccine after Johnson &amp; Johnson won the right to run research on the half a million health workers who took the company’s shot in an initial study. 
  <p class="updated_time"> 03:20 AM CT, Nov. 10 </p> 
@@ -486,8 +488,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/08/buffalo-mayor-progressives-dems-520327">‘It’s a disgrace’: Progressives take aim at Buffalo mayor’s DNC post</a> Politico: Establishment Dems dismiss “sour grapes” attempt to sanction mayor who defeated a democratic socialist. 
  <p class="updated_time"> 06:35 PM CT, Nov. 08 </p> 
  <a href="https://www.npr.org/2021/11/08/1053678862/milwaukee-bucks-first-nba-champions-visit-white-house-2016">The Milwaukee Bucks are the first NBA champions to visit the White House since 2016</a> NPR: Members of the Golden State Warriors and Toronto Raptors, who won recent championships, had declined to visit President Donald Trump, while the Lakers' visit was canceled because of COVID protocols. 
- <p class="updated_time"> 04:53 PM CT, Nov. 08 </p> 
- <a href="https://www.nytimes.com/2021/11/08/us/supreme-court-fbi-muslims.html">Supreme Court Weighs Case Against F.B.I. for Spying on Muslims</a> NYT: The justices considered whether the state secrets doctrine required dismissal on national security grounds of a case claiming religious discrimination. 
  <p class="updated_time"> 04:01 PM CT, Nov. 08 </p> 
  <a href="https://www.politico.com/news/2021/11/08/justices-narrow-ruling-mosque-surveillance-520312">Justices seek narrow ruling in mosque surveillance case</a> Politico: A suit from post-9/11 snooping on a California Muslim congregations raises questions about the scope of the Foreign Intelligence Surveillance Act. 
  <p class="updated_time"> 04:01 PM CT, Nov. 08 </p> 
