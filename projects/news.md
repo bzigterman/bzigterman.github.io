@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:45 PM CT, Nov. 10 </p> 
+ <a href="https://www.nytimes.com/2021/11/10/theater/little-amal-the-walk.html">Little Amal, a Refugee Puppet, Looks for Home</a> NYT: In “The Walk,” a 12-foot tall, 9-year-old Syrian girl named Amal trekked from Turkey to Britain to find her mother. In a politically divided continent, were any minds changed? 
  <p class="updated_time"> 03:37 PM CT, Nov. 10 </p> 
  <a href="https://www.npr.org/2021/11/10/1054428150/tunisia-is-seeing-political-changes-and-some-fear-its-a-path-back-to-dictatorshi">Tunisia is seeing political changes, and some fear it's a path back to dictatorship</a> NPR: While most Tunisians were glad to see their president dissolve the quarrelsome, ineffective parliament and take extra powers, some worry Tunisia could be repeating a path to dictatorship. 
  <p class="updated_time"> 03:37 PM CT, Nov. 10 </p> 
@@ -18,7 +20,7 @@ permalink: /projects/news/
  <p class="updated_time"> 03:29 PM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/world/europe/migrants-fly-iraq-belarus.html">Surge in Flights to Belarus Fuels Migrant Buildup at Polish Border</a> NYT: A spike in air travel from the Middle East to Belarus points to a concerted effort to funnel migrant toward the European Union, E.U. officials say. 
  <p class="updated_time"> 03:29 PM CT, Nov. 10 </p> 
- <a href="https://www.npr.org/2021/11/10/1054428129/activists-from-low-lying-nations-vulnerable-to-rising-seas-demand-action-at-cop2">Activists from low-lying nations — vulnerable to rising seas — demand action at COP26</a> NPR: Low-lying islands and nations are among those most at risk from rising sea levels, and have been sounding the alarm on the need for action by wealthier nations to limit global warming for years. 
+ <a href="https://www.npr.org/2021/11/10/1054428129/activists-from-low-lying-nations-vulnerable-to-rising-seas-demand-action-at-cop2">How island nations vulnerable to climate change need rich, polluting countries to act</a> NPR: Low-lying islands and nations are among those most at risk from rising sea levels, and have been sounding the alarm on the need for action by wealthier nations to limit global warming for years. 
  <p class="updated_time"> 03:27 PM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/world/europe/kamala-harris-emmanuel-macron-france-us-sub-snub.html">Harris Meets Macron, Signaling a ‘New Era’ After Sub Snub, Both Say</a> NYT: In her vague assignment abroad, the vice president seems to be emphasizing that the U.S.-France relationship is about looking forward, in the wake of an embarrassing diplomatic spat. 
  <p class="updated_time"> 03:20 PM CT, Nov. 10 </p> 
@@ -105,8 +107,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/10/1054237391/chile-president-impeached-pandora-papers-sebastian-pinera">Chile's president has been impeached over the Pandora Papers allegations</a> NPR: The impeachment sets up a Senate trial over whether to remove Sebastián Piñera over allegations he favored the sale of a family property while in office. The effort has 24 of the needed 29 votes. 
  <p class="updated_time"> 09:15 AM CT, Nov. 10 </p> 
  <a href="https://www.bbc.co.uk/sport/football/59236410?at_medium=RSS&at_campaign=KARANGA">PSG player Diallo arrested over attack on teammate</a> BBC: Paris St-Germain women's midfielder Aminata Diallo is arrested as part of an investigation into an attack on team-mates on 4 November. 
- <p class="updated_time"> 09:00 AM CT, Nov. 10 </p> 
- <a href="https://www.nytimes.com/2021/11/10/theater/little-amal-the-walk.html">Little Amal, a Refugee Puppet, Looks for Home</a> NYT: In “The Walk,” a 12-foot tall, 9-year-old Syrian girl named Amal trekked from Turkey to Britain to find her mother. In a politically divided continent, were any minds changed? 
  <p class="updated_time"> 08:45 AM CT, Nov. 10 </p> 
  <a href="https://www.npr.org/2021/11/10/1054239976/ethiopia-tigray-drivers-war-aid">Ethiopia detains about 70 drivers who deliver aid as war escalates, the U.N. says</a> NPR: The U.N. says Ethiopian authorities have arrested and detained some 70 truck drivers contracted to the U.N. and other aid groups in the past week since the government declared a state of emergency. 
  <p class="updated_time"> 08:31 AM CT, Nov. 10 </p> 
@@ -200,6 +200,12 @@ permalink: /projects/news/
 
  <p class="updated_time"> 03:49 PM CT, Nov. 10 </p> 
  <a href="https://www.politico.com/news/2021/11/10/biden-xi-virtual-summit-520609">Biden-Xi virtual summit tentatively set for Monday</a> Politico: The long-anticipated meeting aims to reset strained bilateral ties. 
+ <p class="updated_time"> 03:44 PM CT, Nov. 10 </p> 
+ <a href="https://www.washingtonpost.com/politics/2021/11/10/i-think-we-should-throw-those-books-fire-movement-builds-right-target-books/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">‘I think we should throw those books in a fire’: Movement builds on right to target books</a> WaPo: Accompanying the anti-critical race theory push has been a building effort to rid school libraries of certain books. Often, these books are deemed to be sexually explicit. But others included acclaimed works about race and racism. 
+ <p class="updated_time"> 03:38 PM CT, Nov. 10 </p> 
+ <a href="https://www.nytimes.com/2021/11/10/us/ruth-ann-minner-dead.html">Ruth Ann Minner, Down-to-Earth Governor of Delaware, Dies at 86</a> NYT: The first woman in that position, she rose from being a receptionist in the governor’s office to claiming the top job herself. 
+ <p class="updated_time"> 03:37 PM CT, Nov. 10 </p> 
+ <a href="https://www.npr.org/2021/11/10/1054428150/tunisia-is-seeing-political-changes-and-some-fear-its-a-path-back-to-dictatorshi">Tunisia is seeing political changes, and some fear it's a path back to dictatorship</a> NPR: While most Tunisians were glad to see their president dissolve the quarrelsome, ineffective parliament and take extra powers, some worry Tunisia could be repeating a path to dictatorship. 
  <p class="updated_time"> 03:35 PM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/us/politics/republicans-backlash-infrastructure-bill.html">13 Republicans Face Backlash for Backing Infrastructure Bill</a> NYT: The 13 Republican lawmakers who broke with their party to support a $1 trillion bipartisan public works bill have drawn anger and threats from their colleagues and constituents. 
  <p class="updated_time"> 03:34 PM CT, Nov. 10 </p> 
@@ -207,9 +213,9 @@ permalink: /projects/news/
  <p class="updated_time"> 03:30 PM CT, Nov. 10 </p> 
  <a href="https://www.politico.com/news/2021/11/10/soaring-inflation-stalks-bidens-economy-520613">Soaring inflation stalks Biden's economy</a> Politico: “I don’t think the administration is on top of it at all,” said the CEO of one of the U.S.'s largest companies who spoke on condition of anonymity out of concern over angering the administration. 
  <p class="updated_time"> 03:29 PM CT, Nov. 10 </p> 
- <a href="https://www.npr.org/2021/11/10/1054024084/capitol-riot-suspects-had-more-ties-to-oath-keepers-than-previously-known">Capitol riot suspects had more ties to Oath Keepers than previously known</a> NPR: NPR has identified previously undisclosed connections between the far-right anti-government group the Oath Keepers and defendants charged in connection with the Jan. 6 Capitol riot. 
- <p class="updated_time"> 03:29 PM CT, Nov. 10 </p> 
  <a href="https://www.npr.org/2021/11/10/1054428115/white-house-economic-adviser-weighs-in-on-the-inflation-spike-and-spending-plan">White House economic adviser weighs in on the inflation spike and spending plan</a> NPR: NPR's Ailsa Chang talks with White House economic adviser Brian Deese as inflation soars to its highest in 30 years. 
+ <p class="updated_time"> 03:29 PM CT, Nov. 10 </p> 
+ <a href="https://www.npr.org/2021/11/10/1054024084/capitol-riot-suspects-had-more-ties-to-oath-keepers-than-previously-known">Capitol riot suspects had more ties to Oath Keepers than previously known</a> NPR: NPR has identified previously undisclosed connections between the far-right anti-government group the Oath Keepers and defendants charged in connection with the Jan. 6 Capitol riot. 
  <p class="updated_time"> 03:27 PM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/world/europe/kamala-harris-emmanuel-macron-france-us-sub-snub.html">Harris Meets Macron, Signaling a ‘New Era’ After Sub Snub, Both Say</a> NYT: In her vague assignment abroad, the vice president seems to be emphasizing that the U.S.-France relationship is about looking forward, in the wake of an embarrassing diplomatic spat. 
  <p class="updated_time"> 03:20 PM CT, Nov. 10 </p> 
@@ -217,13 +223,13 @@ permalink: /projects/news/
  <p class="updated_time"> 03:13 PM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/business/economy/consumer-price-inflation-october.html">October 2021 CPI: Inflation Rose at Fastest Rate Since 1990</a> NYT: The Consumer Price Index rose 6.2 percent in October from a year ago, its fastest increase since 1990. That is bad news for President Biden and the central bank. 
  <p class="updated_time"> 03:11 PM CT, Nov. 10 </p> 
+ <a href="https://www.nytimes.com/2021/11/10/us/politics/swift-ruling-tests-trump-delay-tactic.html">Swift Ruling in Jan. 6 Case Tests Trump's Tactic of Delay</a> NYT: The former president has leveraged the slow judicial process in the past to thwart congressional oversight, but the Jan. 6 case may be different. 
+ <p class="updated_time"> 03:11 PM CT, Nov. 10 </p> 
  <a href="https://www.npr.org/2021/11/10/1054428101/vp-harris-met-with-macron-as-part-of-the-ongoing-effort-to-mend-alliance-with-fr">VP Harris met with Macron as part of the ongoing effort to mend alliance with France</a> NPR: Vice President Harris meets with French President Emmanuel Macron, the latest in series of Biden administration diplomatic make-up sessions in the wake of the Australian nuclear submarine deal. 
  <p class="updated_time"> 03:11 PM CT, Nov. 10 </p> 
  <a href="https://www.npr.org/2021/11/10/1054428080/from-cop26-pete-buttigieg-describes-how-transportation-factors-into-climate-goal">From COP26: Pete Buttigieg describes how transportation factors into climate goals</a> NPR: NPR's Ari Shapiro speaks with U.S. Transportation Secretary Pete Buttigieg from COP26, as world leaders release a draft of their goals to cut emissions and avert disastrous climate change. 
  <p class="updated_time"> 03:11 PM CT, Nov. 10 </p> 
  <a href="https://www.npr.org/2021/11/10/1054428073/trump-appeals-ruling-that-allows-jan-6-panel-to-access-trump-white-house-records">Trump appeals ruling that allows Jan. 6 panel to access Trump White House records</a> NPR: Former President Trump is appealing a federal judge's ruling that he cannot block the National Archives from releasing his White House records to the committee investigating the Jan. 6 Capitol attack. 
- <p class="updated_time"> 03:11 PM CT, Nov. 10 </p> 
- <a href="https://www.nytimes.com/2021/11/10/us/politics/swift-ruling-tests-trump-delay-tactic.html">Swift Ruling in Jan. 6 Case Tests Trump's Tactic of Delay</a> NYT: The former president has leveraged the slow judicial process in the past to thwart congressional oversight, but the Jan. 6 case may be different. 
  <p class="updated_time"> 03:08 PM CT, Nov. 10 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-10/xi-warns-apec-leaders-against-relapsing-to-cold-war-tensions">Xi Warns APEC Leaders Against ‘Relapsing’ to Cold War Tensions</a> Bloomberg: Chinese President Xi Jinping urged Asia Pacific nations to avoid a return to tensions that could divide the region as they did during the Cold War, in what appeared to be a reference to U.S. efforts to rally allies on issues from Taiwan to trade. 
  <p class="updated_time"> 03:01 PM CT, Nov. 10 </p> 
@@ -280,6 +286,8 @@ permalink: /projects/news/
  <a href="https://www.washingtonpost.com/politics/2021/08/31/trump-executive-privilege/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">How Trump is trying to use executive privilege to stall the Jan. 6 investigation</a> WaPo: Trump doesn't ultimately decide what is covered by executive privilege, but he could stall the process enough to damage the investigation. 
  <p class="updated_time"> 12:29 PM CT, Nov. 10 </p> 
  <a href="https://www.washingtonpost.com/politics/2021/08/31/trump-executive-privilege/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">How Trump is trying to use executive privilege to stall the Jan. 6 investigation</a> WaPo: Trump doesn't ultimately decide what is covered by executive privilege, but he could stall the process enough to damage the investigation. 
+ <p class="updated_time"> 12:29 PM CT, Nov. 10 </p> 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-10/powell-as-top-fed-pick-reflects-senate-politics-ferguson-says">Powell as Top Fed Pick Reflects Senate Politics, Ferguson Says</a> Bloomberg: The market assigning a higher probability to Federal Reserve Chairman Jerome Powell getting a second term reflects the politics of the Senate and which candidate President Joe Biden thinks is more likely to get approval from lawmakers, economist and former Fed Vice Chairman Roger Ferguson said. 
  <p class="updated_time"> 12:22 PM CT, Nov. 10 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-10/democrats-2022-election-outlook-more-nuanced-than-apocalyptic">Democrats’ 2022 Election Outlook More Nuanced Than Apocalyptic</a> Bloomberg: A week removed from a stinging loss in the Virginia governor’s election and persistent blame for rising inflation, the picture emerging for Democrats ahead of the 2022 midterms is more complicated than it is bleak. 
  <p class="updated_time"> 12:16 PM CT, Nov. 10 </p> 
@@ -322,12 +330,8 @@ permalink: /projects/news/
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/k0mkJ7dnnc4/index.html">Prosecutors seek 4+ years in prison for 'QAnon Shaman' in attempt to set example</a> CNN: The Justice Department is asking for the so-called QAnon Shaman, who wore a headdress and posed shirtless on the Senate floor during the siege of the US Capitol, to be sentenced to a prison term of more than four years, the longest incarceration prosecutors have asked for any guilty January 6 defendant so far, according to a new court filing. 
  <p class="updated_time"> 09:25 AM CT, Nov. 10 </p> 
  <a href="https://www.washingtonpost.com/politics/2021/11/10/some-reason-gop-wants-talk-about-how-bad-pandemic-was-florida-this-summer/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">For some reason, the GOP wants to talk about how bad the pandemic was in Florida this summer</a> WaPo: Okay. 
- <p class="updated_time"> 09:14 AM CT, Nov. 10 </p> 
- <a href="https://www.politico.com/news/2021/11/10/consumer-prices-soar-520574">U.S. consumer prices soared 6.2% in past year, most since 1990</a> Politico: Prices for U.S. consumers jumped 6.2 percent in October compared with a year earlier as surging costs for food, gas and housing left Americans grappling with the highest inflation rate since 1990. 
  <p class="updated_time"> 09:07 AM CT, Nov. 10 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-10/biden-says-he-s-directed-economic-aides-to-focus-on-energy-costs">Biden Seeks to Curb Energy Costs; Manchin Urges Inflation Action</a> Bloomberg: President Joe Biden said he’s directed his top economic aides to focus on reducing energy costs, which he blamed for accelerating U.S. inflation after a report showed the biggest surge in consumer prices in a generation. 
- <p class="updated_time"> 08:59 AM CT, Nov. 10 </p> 
- <a href="https://www.nytimes.com/2021/11/10/us/ruth-ann-minner-dead.html">Ruth Ann Minner, Down-to-Earth Governor of Delaware, Dies at 86</a> NYT: The first woman in that position, she rose from being a receptionist in the governor’s office to claiming the top job herself. 
  <p class="updated_time"> 08:54 AM CT, Nov. 10 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-10/european-commission-to-propose-extension-of-clearing-equivalence">EU Set to Extend Clearing Decision in Brexit Win for London</a> Bloomberg: The European Union is set to extend a temporary waiver that allows its banks and money managers to clear trades in the U.K., lifting a looming threat to one of the City of London’s crown jewels. 
  <p class="updated_time"> 08:30 AM CT, Nov. 10 </p> 
@@ -391,7 +395,7 @@ permalink: /projects/news/
  <p class="updated_time"> 12:26 AM CT, Nov. 10 </p> 
  <a href="https://www.politico.com/news/2021/11/10/jan6-shaman-sentencing-recommendation-520570">51-month sentence urged for ‘QAnon Shaman’ Jacob Chansley</a> Politico: “Defendant Chansley’s now-famous criminal acts have made him the public face of the Capitol riot,” prosecutors said. 
  <p class="updated_time"> 12:19 AM CT, Nov. 10 </p> 
- <a href="https://www.npr.org/2021/11/10/1054138601/judge-rejects-trumps-bid-to-block-release-of-jan-6-documents">Judge rejects Trump's bid to block release of Jan. 6 documents</a> NPR: In a ruling issued Tuesday, U.S. District Court Judge Tanya Chutkan said records of interest can be released to the panel overseeing the probe into the Jan. 6 riots at the U.S. Capitol. 
+ <a href="https://www.npr.org/2021/11/10/1054138601/judge-rejects-trumps-bid-to-block-release-of-jan-6-documents">Judge rejects Trump's bid to block release of Jan. 6 documents</a> NPR: U.S. District Court Judge Tanya Chutkan said records of interest can be released to the panel overseeing the probe into the Jan. 6 riots at the U.S. Capitol. 
  <p class="updated_time"> 12:03 AM CT, Nov. 10 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/V8W_Di14YEM/index.html">Analysis: Extremists seize back control of the Republican Party's message machine</a> CNN: So much for the Republican Party being all about the future. 
  <p class="updated_time"> 11:56 PM CT, Nov. 09 </p> 
@@ -410,8 +414,6 @@ permalink: /projects/news/
  <a href="https://www.washingtonpost.com/politics/gop-rep-fred-upton-receives-death-threats-after-voting-for-bipartisan-infrastructure-deal/2021/11/09/78fe5ac8-4195-11ec-9ea7-3eb2406a2e24_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">GOP Rep. Fred Upton receives death threats after voting for bipartisan infrastructure deal</a> WaPo: The Michigan Republican said the threats began after Rep. Marjorie Taylor Greene (R-Ga.) tweeted the names and office phone numbers of House Republicans who backed the bill. 
  <p class="updated_time"> 08:21 PM CT, Nov. 09 </p> 
  <a href="https://www.politico.com/news/2021/11/09/trump-endorsement-mcgeachin-little-idaho-520544">Trump endorses rival against Idaho Gov. Brad Little</a> Politico: The former president is backing Lt. Gov. Janice McGeachin, who has sought to undermine the current governor. 
- <p class="updated_time"> 08:19 PM CT, Nov. 09 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-10/trump-fails-to-block-jan-6-committee-from-getting-documents">Trump Fails to Block Jan. 6 Committee From Getting Records</a> Bloomberg: Former President Donald Trump failed to block the release of documents sought by a U.S. House panel investigating the Jan. 6 Capitol riot. 
  <p class="updated_time"> 08:01 PM CT, Nov. 09 </p> 
  <a href="https://www.washingtonpost.com/politics/republicans-infrastructure-biden/2021/11/09/cc0c4c9e-4167-11ec-9ea7-3eb2406a2e24_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Tensions rise among Republicans over infrastructure bill and whether any agreement with Biden should be tolerated</a> WaPo: For Donald Trump and many Republicans, their love of infrastructure has turned to loathing now that it bears President Biden’s imprimatur. 
  <p class="updated_time"> 07:23 PM CT, Nov. 09 </p> 
@@ -450,8 +452,6 @@ permalink: /projects/news/
  <a href="https://www.washingtonpost.com/politics/texas-gop-congressional-candidate-abuse-allegations/2021/11/09/0cbdcdb6-4191-11ec-9ea7-3eb2406a2e24_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Top GOP congressional candidate in Texas accused of abusing teenage daughter of estranged husband</a> WaPo: Monica De La Cruz, designated a “Young Gun” by House Minority Leader Kevin McCarthy (R-Calif.), is running for an open seat in South Texas. 
  <p class="updated_time"> 03:46 PM CT, Nov. 09 </p> 
  <a href="https://www.nytimes.com/2021/11/09/us/politics/sununu-new-hampshire-governor.html">Sununu to Seek Re-election as New Hampshire Governor, Rejecting Senate Bid</a> NYT: National Republicans had seen a potential campaign by Gov. Chris Sununu against Senator Maggie Hassan, a Democrat, as one of their best shots to upend the Senate’s 50-50 split. 
- <p class="updated_time"> 03:43 PM CT, Nov. 09 </p> 
- <a href="https://www.washingtonpost.com/politics/2021/11/09/biden-economy-is-doing-pretty-well-by-measures-trump-used-evaluate-his-own/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">The Biden economy is doing pretty well by the measures Trump used to evaluate his own</a> WaPo: Not that economies are largely function of presidents, of course. 
  <p class="updated_time"> 03:18 PM CT, Nov. 09 </p> 
  <a href="https://www.politico.com/news/2021/11/09/dunn-capitol-police-union-jan-6-520459">Dunn jumps into race to lead Capitol Police union after post-Jan. 6 testimony</a> Politico: The 13-year veteran officer, who is Black, told lawmakers on the select committee about the trauma and racial slurs he endured during the riot. 
  <p class="updated_time"> 01:48 PM CT, Nov. 09 </p> 
@@ -464,8 +464,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/09/1053929419/feel-like-you-dont-fit-in-either-political-party-heres-why">Feel like you don't fit in either political party? Here's why</a> NPR: The division is far more complicated than a split between Republicans and Democrats, according to the Pew Research Center. Here are the differences in ideology on race, economics and government. 
  <p class="updated_time"> 12:02 PM CT, Nov. 09 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/B4jbhNAVlq0/index.html">Republicans who voted for Biden's infrastructure bill come under fire from Trump </a> CNN: Former President Donald Trump privately criticized on Monday night the 13 Republicans who voted to pass the $1.2 trillion infrastructure bill, questioning why they would give President Joe Biden a win when he's struggling in the polls, according to a GOP source. 
- <p class="updated_time"> 11:55 AM CT, Nov. 09 </p> 
- <a href="https://www.npr.org/2021/11/09/1053895408/paul-gosar-alexandria-ocasio-cortez-anime-twitter-video-backlash">Rep. Paul Gosar shared an anime video of himself killing AOC. This was her response</a> NPR: The video shows Gosar's character killing Rep. Alexandria Ocasio-Cortez with a sword and brandishing weapons at President Biden. Twitter says it violates its hateful conduct rules but has left it up. 
+ <p class="updated_time"> 12:00 PM CT, Nov. 09 </p> 
+ <a href="https://www.politico.com/news/2021/11/09/trump-officials-hatch-act-violated-520420">Watchdog: 13 Trump officials violated Hatch Act during 2020 campaign</a> Politico: The list includes several cabinet officials and top White House aides, including Trump’s former Secretary of State Mike Pompeo, chief of staff Mark Meadows and press secretary Kayleigh McEnany. 
  <p class="updated_time"> 10:49 AM CT, Nov. 09 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PboRVYF-kOU/index.html">CBO says social spending bill score 'will take longer,' in potential blow to Democrats' timing</a> CNN: The timetable for President Joe Biden's social spending bill, known as Build Back Better, may have just hit a new snag. 
  <p class="updated_time"> 09:35 AM CT, Nov. 09 </p> 
