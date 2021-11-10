@@ -202,6 +202,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:31 AM CT, Nov. 10 </p> 
+ <a href="https://www.politico.com/news/2021/11/10/schumer-billions-new-york-public-housing-520519">Schumer scores billions for New York's decaying public housing</a> Politico: The jockeying over the housing funds is one of many emerging sources of political tension surrounding President Joe Biden's bill. 
  <p class="updated_time"> 03:20 AM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/09/us/politics/where-is-newsom-california.html">Where Is Gavin Newsom, California's Governor?</a> NYT: He’s in the office, according to increasingly frustrated staff members. But his critics on Twitter aren’t buying it. 
  <p class="updated_time"> 02:59 AM CT, Nov. 10 </p> 
@@ -215,7 +217,7 @@ permalink: /projects/news/
  <p class="updated_time"> 01:20 AM CT, Nov. 10 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-10/malaysia-indonesia-agree-to-start-vaccinated-travel-lanes">Malaysia, Indonesia Agree to Start Vaccinated Travel Lanes</a> Bloomberg: Malaysia and Indonesia plan to allow fully-vaccinated travelers to fly between the two nations, just days after a similar agreement was struck in one of the world’s busiest air routes. 
  <p class="updated_time"> 12:47 AM CT, Nov. 10 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-10/pakistan-top-court-calls-imran-khan-in-school-attack-case">Pakistan Top Court Calls Imran Khan in School Attack Case</a> Bloomberg: Pakistan’s Supreme Court has ordered Prime Minister Imran Khan to appear in a case related to a major attack by the local Taliban seven years ago amid the government’s move for a peace agreement with the militant group. 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-10/pakistan-top-court-calls-imran-khan-in-school-attack-case">Pakistan Court Asks Imran Khan to Probe Deadly School Attack</a> Bloomberg: Pakistan’s Supreme Court ordered Prime Minister Imran Khan to probe security lapses leading up to a deadly attack on a school by militants of a local Taliban affiliate seven years ago, even as his government holds peace talks with the militant group. 
  <p class="updated_time"> 12:43 AM CT, Nov. 10 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-10/china-covid-surge-could-set-back-kim-jong-un-s-border-reopening">China Covid Surge Could Set Back Kim Jong Un’s Border Reopening</a> Bloomberg: New Covid-19 restrictions in the Chinese area bordering North Korea may have scuttled Kim Jong Un’s plans to reopen a vital crossing that has been closed for almost two years. 
  <p class="updated_time"> 12:26 AM CT, Nov. 10 </p> 
