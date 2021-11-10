@@ -7,12 +7,16 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:53 AM CT, Nov. 10 </p> 
+ <a href="https://www.nytimes.com/2021/11/10/world/europe/covid-germany-record-cases.html">Germany Weighs New Covid Rules as Infections Reach Record Heights</a> NYT: Nearly 40,000 new cases were registered in the country on Tuesday — the third time a daily record was set within a week. “We have a real emergency situation,” a top virologist said. 
+ <p class="updated_time"> 06:36 AM CT, Nov. 10 </p> 
+ <a href="https://www.nytimes.com/2021/11/10/world/asia/covid-china-shenyang-quarantine.html">This Chinese City Requires 28 Days of Quarantine. Then Another 28.</a> NYT: The restrictions in Shenyang are a stark example of how seriously officials are taking the country’s “zero Covid” approach to the pandemic. 
  <p class="updated_time"> 06:24 AM CT, Nov. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-59231477?at_medium=RSS&at_campaign=KARANGA">COP26: Draft deal calls for stronger carbon cutting targets by end of 2022</a> BBC: The document says vulnerable nations must get more help to cope with the deadly impacts of global warming. 
+ <p class="updated_time"> 06:22 AM CT, Nov. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-59233232?at_medium=RSS&at_campaign=KARANGA">Haiti water shortage: 'We pray for rain every day'</a> BBC: A fuel shortage caused by gangs blocking distribution terminals is also affecting water supplies. 
  <p class="updated_time"> 06:21 AM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/09/world/africa/ethiopia-united-nations.html">Ethiopia Seizes 16 UN Workers Amid Efforts to Halt Tigray War</a> NYT: The detentions aggravated the already tense relations between the United Nations and the Ethiopian government over war and hunger in the country’s rebel-held Tigray region. 
- <p class="updated_time"> 06:09 AM CT, Nov. 10 </p> 
- <a href="https://www.nytimes.com/2021/11/10/world/europe/covid-germany-record-cases.html">Germany Weighs New Covid Rules as Infections Reach Record Heights</a> NYT: Nearly 40,000 new cases were registered in the country on Tuesday — the third time a daily record was set within a week. “We have a real emergency situation,” a top virologist said. 
  <p class="updated_time"> 05:50 AM CT, Nov. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59231136?at_medium=RSS&at_campaign=KARANGA">Belarus migrants: Poland faces fresh border breaches</a> BBC: After 599 attempts to cross from Belarus, Poland says it now has 15,000 troops at the border. 
  <p class="updated_time"> 05:49 AM CT, Nov. 10 </p> 
@@ -25,8 +29,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59232785?at_medium=RSS&at_campaign=KARANGA">Japan train driver sues over 49 cents in docked wages</a> BBC: The tiny sum was docked after the man caused a one-minute delay to Japan's punctual train system. 
  <p class="updated_time"> 05:07 AM CT, Nov. 10 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-56901261?at_medium=RSS&at_campaign=KARANGA">What is COP26 and what was agreed at Glasgow climate conference?</a> BBC: A crucial climate change summit is being held in the UK - this is why it's important. 
- <p class="updated_time"> 04:49 AM CT, Nov. 10 </p> 
- <a href="https://www.nytimes.com/2021/11/10/world/asia/covid-china-shenyang-quarantine.html">This Chinese City Requires 28 Days of Quarantine. Then Another 28.</a> NYT: The restrictions in Shenyang are a stark example of how seriously officials are taking the country’s “zero Covid” approach to the pandemic. 
  <p class="updated_time"> 04:08 AM CT, Nov. 10 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2021/11/10/1052926511/this-kenyan-family-got-solar-power-high-level-climate-talks-determine-who-else-w">This Kenyan family got solar power. High-level climate talks determine who else will</a> NPR: Last month, the Muisyo family turned on the lights for the first time thanks to climate financing from rich countries. But the fund is falling short of its $100 billion goal to help poor countries. 
  <p class="updated_time"> 04:00 AM CT, Nov. 10 </p> 
@@ -43,8 +45,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/science-environment-59231632?at_medium=RSS&at_campaign=KARANGA">Nasa's Moon return pushed back to 2025</a> BBC: The first Nasa mission to return to the surface of the Moon has been delayed by one year to 2025. 
  <p class="updated_time"> 01:23 AM CT, Nov. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59227425?at_medium=RSS&at_campaign=KARANGA">Capitol riot: Judge rejects Trump bid to withhold records</a> BBC: "Presidents are not kings," the judge ruled, adding the incumbent can decide what documents to release. 
- <p class="updated_time"> 10:35 PM CT, Nov. 09 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59202306?at_medium=RSS&at_campaign=KARANGA">Family of woman who died in detention files complaint against Japan officials</a> BBC: The woman died following months of custody in a detention facility in Nagoya. 
  <p class="updated_time"> 09:20 PM CT, Nov. 09 </p> 
  <a href="https://www.nytimes.com/2021/11/09/world/asia/us-holocaust-museum-china-uyghurs-report.html">U.S. Holocaust Museum Says China ‘May Be Committing Genocide’ Against Uyghurs</a> NYT: Its report found that the government’s attacks against the group of Muslims in Xinjiang had escalated and most likely included “forced sterilization, sexual violence, enslavement, torture, and forcible transfer.” 
  <p class="updated_time"> 09:03 PM CT, Nov. 09 </p> 
@@ -251,7 +251,7 @@ permalink: /projects/news/
  <p class="updated_time"> 02:59 AM CT, Nov. 10 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-10/crisis-deepens-for-johnson-as-senior-u-k-tory-accused-of-sleaze">Crisis Deepens for Johnson as Sleaze Row Engulfs Senior Tory</a> Bloomberg: The U.K. opposition called for a parliamentary investigation into former Conservative cabinet minister Geoffrey Cox, as the scandal over sleaze and lobbying engulfing Boris Johnson’s ruling party gains momentum. 
  <p class="updated_time"> 02:00 AM CT, Nov. 10 </p> 
- <a href="https://www.washingtonpost.com/politics/2021/11/10/robert-moses-saga-racist-parkway-bridges/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Robert Moses and the saga of the racist parkway bridges </a> WaPo: Transportation Secretary Pete Buttigieg referred to a famous anecdote in Robert Caro's biography of master builder but historians increasingly question whether it is correct. 
+ <a href="https://www.washingtonpost.com/politics/2021/11/10/robert-moses-saga-racist-parkway-bridges/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Robert Moses and the saga of the racist parkway bridges </a> WaPo: Transportation Secretary Pete Buttigieg referred to a famous anecdote in Robert Caro's biography of the master builder but historians increasingly question whether it is correct. 
  <p class="updated_time"> 02:00 AM CT, Nov. 10 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-10/poland-seeks-emergency-eu-summit-on-belarus-border-crisis">Putin Brushes Off Merkel’s Call to Stop Belarus on Migrants</a> Bloomberg: President Vladimir Putin brushed off a request by Chancellor Angela Merkel to exercise his influence over Belarus as the European Union prepares a fresh raft of sanctions against the regime in Minsk for channeling thousands of migrants to the bloc’s border. 
  <p class="updated_time"> 01:55 AM CT, Nov. 10 </p> 
@@ -360,8 +360,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/09/1054032272/former-georgia-senator-and-vietnam-veteran-max-cleland-has-died-at-79">Former Georgia senator and Vietnam veteran Max Cleland has died at 79</a> NPR: Former Sen. Max Cleland of Georgia has died. He was 79 years old. He lost three limbs in Vietnam, but that didn't stop him from seeking higher office, where he advocated for veterans and the disabled. 
  <p class="updated_time"> 04:00 PM CT, Nov. 09 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UMjGkbxTqxo/index.html">January 6 committee issues 10 more subpoenas including to Stephen Miller and Kayleigh McEnany</a> CNN: The House committee investigating the deadly January 6 riot at the US Capitol announced on Tuesday a new batch of 10 subpoenas to former White House officials under President Donald Trump, as the panel charges ahead in seeking testimony and documents from witnesses relevant to its probe. 
- <p class="updated_time"> 03:58 PM CT, Nov. 09 </p> 
- <a href="https://www.politico.com/news/2021/11/09/facebook-meta-ad-restrictions-520462">Facebook places new restrictions on ad targeting</a> Politico: The platform will limit targeting based on users' interactions with content related to health, race and other sensitive areas. 
  <p class="updated_time"> 03:50 PM CT, Nov. 09 </p> 
  <a href="https://www.washingtonpost.com/politics/texas-gop-congressional-candidate-abuse-allegations/2021/11/09/0cbdcdb6-4191-11ec-9ea7-3eb2406a2e24_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Top GOP congressional candidate in Texas accused of abusing teenage daughter of estranged husband</a> WaPo: Monica De La Cruz, designated a “Young Gun” by House Minority Leader Kevin McCarthy (R-Calif.), is running for an open seat in South Texas. 
  <p class="updated_time"> 03:46 PM CT, Nov. 09 </p> 
@@ -409,7 +407,7 @@ permalink: /projects/news/
  <p class="updated_time"> 12:36 PM CT, Nov. 09 </p> 
  <a href="https://www.washingtonpost.com/politics/2021/11/09/year-later-an-obviously-illegal-campaign-stunt-is-determined-have-been-illegal/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">A year later, an obviously illegal campaign stunt is determined to have been illegal</a> WaPo: Relying on voluntary adherence to the law has some flaws. 
  <p class="updated_time"> 12:10 PM CT, Nov. 09 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-09/un-says-16-staff-members-detained-in-ethiopia-as-crisis-worsens">UN Staff Members Detained in Ethiopia as Crisis Worsens</a> Bloomberg: The United Nations said 16 staff members have been detained in Ethiopia’s capital, as a leader of the Tigray rebels warned mediation efforts to end the crisis in the Horn of African nation may fail. 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-09/un-says-16-staff-members-detained-in-ethiopia-as-crisis-worsens">UN Staff Members Detained in Ethiopia as Crisis Worsens</a> Bloomberg: The United Nations said 16 staff members have been detained in Ethiopia as a leader of the Tigray rebels warned mediation efforts to end the crisis in the Horn of African nation may fail. 
  <p class="updated_time"> 12:02 PM CT, Nov. 09 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/B4jbhNAVlq0/index.html">Republicans who voted for Biden's infrastructure bill come under fire from Trump </a> CNN: Former President Donald Trump privately criticized on Monday night the 13 Republicans who voted to pass the $1.2 trillion infrastructure bill, questioning why they would give President Joe Biden a win when he's struggling in the polls, according to a GOP source. 
  <p class="updated_time"> 11:55 AM CT, Nov. 09 </p> 
@@ -476,6 +474,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/08/us/supreme-court-fbi-muslims.html">Supreme Court Weighs Case Against F.B.I. for Spying on Muslims</a> NYT: The justices considered whether the state secrets doctrine required dismissal on national security grounds of a case claiming religious discrimination. 
  <p class="updated_time"> 04:38 PM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/us/politics/justice-dept-ransomware.html">Justice Dept. Brings New Charges in Ransomware Attacks</a> NYT: The department said it had charged a Russian national in one attack and recovered $6.1 million in ransom. It also arrested a Ukrainian man for another attack. 
+ <p class="updated_time"> 04:01 PM CT, Nov. 08 </p> 
+ <a href="https://www.politico.com/news/2021/11/08/justices-narrow-ruling-mosque-surveillance-520312">Justices seek narrow ruling in mosque surveillance case</a> Politico: A suit from post-9/11 snooping on a California Muslim congregations raises questions about the scope of the Foreign Intelligence Surveillance Act. 
  <p class="updated_time"> 04:01 PM CT, Nov. 08 </p> 
  <a href="https://www.npr.org/2021/11/08/1053603338/jill-biden-covid-vaccine-kids-virginia-school-polio">Virginia school revisits its history as a polio vaccine trailblazer with COVID clinic</a> NPR: Franklin Sherman Elementary was the first school to administer the polio vaccine to kids in 1954. Now it's once again at the forefront, hosting a COVID-19 vaccine event with first lady Jill Biden. 
  <p class="updated_time"> 03:59 PM CT, Nov. 08 </p> 
