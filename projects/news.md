@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:48 PM CT, Nov. 10 </p> 
+ <a href="https://www.nytimes.com/2021/11/09/world/asia/india-covid-vaccinations.html">India Risks Covid-19 Complacency After Its Vaccine Campaign</a> NYT: The success represents a major victory for Narendra Modi’s government, but a recent slowdown in new vaccinations has sparked worries. 
+ <p class="updated_time"> 04:47 PM CT, Nov. 10 </p> 
+ <a href="https://www.nytimes.com/2021/11/10/world/europe/covid-germany-cases.html">Germany Weighs New Covid Rules as Infections Reach Record Heights</a> NYT: Nearly 40,000 new cases were registered in the country on Tuesday — the third time a daily record was set within a week. “We have a real emergency situation,” a top virologist said. 
  <p class="updated_time"> 04:39 PM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/world/boris-johnson-cop26.html">Boris Johnson Urges Negotiators to Break Impasse in Final Climate Summit Hours</a> NYT: “Now is the time to get together and show the determination needed to power on through the blockages,” the British prime minister said on Wednesday. 
  <p class="updated_time"> 04:37 PM CT, Nov. 10 </p> 
@@ -32,7 +36,7 @@ permalink: /projects/news/
  <p class="updated_time"> 03:45 PM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/theater/little-amal-the-walk.html">Little Amal, a Refugee Puppet, Looks for Home</a> NYT: In “The Walk,” a 12-foot tall, 9-year-old Syrian girl named Amal trekked from Turkey to Britain to find her mother. In a politically divided continent, were any minds changed? 
  <p class="updated_time"> 03:37 PM CT, Nov. 10 </p> 
- <a href="https://www.npr.org/2021/11/10/1054428150/tunisia-is-seeing-political-changes-and-some-fear-its-a-path-back-to-dictatorshi">Tunisia is seeing political changes, and some fear it's a path back to dictatorship</a> NPR: While most Tunisians were glad to see their president dissolve the quarrelsome, ineffective parliament and take extra powers, some worry Tunisia could be repeating a path to dictatorship. 
+ <a href="https://www.npr.org/2021/11/10/1054428150/tunisia-is-seeing-political-changes-and-some-fear-its-a-path-back-to-dictatorshi">Tunisia is seeing political changes, and some fear it may be a path to dictatorship</a> NPR: While most Tunisians were glad to see their president dissolve the quarrelsome, ineffective parliament and take extra powers, some worry Tunisia could be repeating a path to dictatorship. 
  <p class="updated_time"> 03:37 PM CT, Nov. 10 </p> 
  <a href="https://www.npr.org/2021/11/10/1054428143/shipping-containers-cant-be-emptied-and-refilled-fast-enough-to-keep-up-with-dem">Shipping containers can't be emptied and refilled fast enough to keep up with demand</a> NPR: Shipping containers aren't much more than steel boxes. But they have become increasingly valuable during the worldwide supply chain crisis. 
  <p class="updated_time"> 03:29 PM CT, Nov. 10 </p> 
@@ -119,8 +123,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/08/travel/usa-travel-restrictions.html">U.S. Allows Vaccinated Foreign Travelers to Enter</a> NYT: On Monday, after more than 18 months, restrictions that kept families separated and cost the global travel industry hundreds of billions of dollars were lifted. 
  <p class="updated_time"> 07:51 AM CT, Nov. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59234443?at_medium=RSS&at_campaign=KARANGA">Germany coronavirus: Record rise prompts warning of 100,000 deaths</a> BBC: The state of Saxony has the highest rate of infection in Germany and the lowest vaccine take-up. 
- <p class="updated_time"> 07:43 AM CT, Nov. 10 </p> 
- <a href="https://www.nytimes.com/2021/11/10/world/europe/covid-germany-cases.html">Germany Weighs New Covid Rules as Infections Reach Record Heights</a> NYT: Nearly 40,000 new cases were registered in the country on Tuesday — the third time a daily record was set within a week. “We have a real emergency situation,” a top virologist said. 
  <p class="updated_time"> 07:32 AM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/09/world/africa/ethiopia-united-nations.html">Ethiopia Seizes 16 UN Workers Amid Efforts to Halt Tigray War</a> NYT: The detentions aggravated the already tense relations between the United Nations and the Ethiopian government over war and hunger in the country’s rebel-held Tigray region. 
  <p class="updated_time"> 07:13 AM CT, Nov. 10 </p> 
@@ -171,8 +173,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/09/world/americas/canada-pfizer-booster-adults.html">Canada Approves Pfizer Boosters for Adults</a> NYT: Some provinces have already started to offer booster shots to higher-risk populations. Tuesday’s announcement standardizes eligibility criteria nationwide. 
  <p class="updated_time"> 01:52 PM CT, Nov. 09 </p> 
  <a href="https://www.nytimes.com/2021/11/09/world/asia/india-hospital-fire.html">India Hospital Fire Leaves at Least 4 Infants Dead</a> NYT: The blaze, in a hospital in central India on Monday night, was the latest in a series of deadly fires at health care centers in recent months. 
- <p class="updated_time"> 12:06 PM CT, Nov. 09 </p> 
- <a href="https://www.nytimes.com/2021/11/09/world/asia/india-covid-vaccinations.html">India Risks Covid-19 Complacency After Its Vaccine Campaign</a> NYT: The success represents a major victory for Narendra Modi’s government, but a recent slowdown in new vaccinations has sparked worries. 
  <p class="updated_time"> 11:12 AM CT, Nov. 09 </p> 
  <a href="https://www.nytimes.com/2021/11/09/world/asia/singapore-unvaccinated-covid.html">Singapore to End Free Covid Treatment for Those 'Unvaccinated by Choice'</a> NYT: The change, which takes effect on Dec. 8, comes as the number of severe cases has stabilized but remains high, the Health Ministry said. 
  <p class="updated_time"> 10:59 AM CT, Nov. 09 </p> 
@@ -202,6 +202,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/10/ahmaud-arbery-mcmichael-shooting-520630">Defendant: Ahmaud Arbery `trapped like a rat’ before slaying</a> Politico: Testimony continues in the Georgia homicide case. 
  <p class="updated_time"> 05:04 PM CT, Nov. 10 </p> 
  <a href="https://www.politico.com/news/2021/11/10/kyle-rittenhouse-murder-case-520628">Rittenhouse murder case thrown into jeopardy by mistrial bid</a> Politico: “I didn’t do anything wrong. I defended myself,” the 18-year-old testified. 
+ <p class="updated_time"> 04:51 PM CT, Nov. 10 </p> 
+ <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Fkk7cswGtn0/index.html">Biden to hold signing ceremony on Monday for bipartisan infrastructure bill </a> CNN: President Joe Biden will sign the bipartisan infrastructure bill on Monday during a ceremony that will include members of Congress, governors and mayors from both parties, the White House announced on Wednesday. 
  <p class="updated_time"> 04:37 PM CT, Nov. 10 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RnXygNpTqrg/index.html">January 6 committee interested in at least 5 people from Pence's inner circle</a> CNN: The House select committee investigating January 6 is interested in gathering information from at least five members of former Vice President Mike Pence's inner circle, according to three sources familiar with the effort. 
  <p class="updated_time"> 04:35 PM CT, Nov. 10 </p> 
@@ -229,7 +231,7 @@ permalink: /projects/news/
  <p class="updated_time"> 03:44 PM CT, Nov. 10 </p> 
  <a href="https://www.washingtonpost.com/politics/2021/11/10/i-think-we-should-throw-those-books-fire-movement-builds-right-target-books/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">‘I think we should throw those books in a fire’: Movement builds on right to target books</a> WaPo: Accompanying the anti-critical race theory push has been a building effort to rid school libraries of certain books. Often, these books are deemed to be sexually explicit. But others included acclaimed works about race and racism. 
  <p class="updated_time"> 03:37 PM CT, Nov. 10 </p> 
- <a href="https://www.npr.org/2021/11/10/1054428150/tunisia-is-seeing-political-changes-and-some-fear-its-a-path-back-to-dictatorshi">Tunisia is seeing political changes, and some fear it's a path back to dictatorship</a> NPR: While most Tunisians were glad to see their president dissolve the quarrelsome, ineffective parliament and take extra powers, some worry Tunisia could be repeating a path to dictatorship. 
+ <a href="https://www.npr.org/2021/11/10/1054428150/tunisia-is-seeing-political-changes-and-some-fear-its-a-path-back-to-dictatorshi">Tunisia is seeing political changes, and some fear it may be a path to dictatorship</a> NPR: While most Tunisians were glad to see their president dissolve the quarrelsome, ineffective parliament and take extra powers, some worry Tunisia could be repeating a path to dictatorship. 
  <p class="updated_time"> 03:35 PM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/us/politics/republicans-backlash-infrastructure-bill.html">13 Republicans Face Backlash for Backing Infrastructure Bill</a> NYT: The 13 Republican lawmakers who broke with their party to support a $1 trillion bipartisan public works bill have drawn anger and threats from their colleagues and constituents. 
  <p class="updated_time"> 03:34 PM CT, Nov. 10 </p> 
@@ -264,8 +266,6 @@ permalink: /projects/news/
  <a href="https://www.bloomberg.com/news/articles/2021-11-10/biden-china-economic-concerns-go-beyond-trade-promises-tai-says">Biden’s Economic Concerns on China Go Beyond Trade Promises, Tai Says</a> Bloomberg: The U.S. is raising concerns with China that go beyond the nation’s purchasing commitments under their existing trade deal, including Beijing’s state-centered industrial policy, President Joe Biden’s chief trade negotiator said. 
  <p class="updated_time"> 03:00 PM CT, Nov. 10 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-10/china-s-xi-to-deliver-party-doctrine-to-change-course-of-china">Xi to Deliver Party Doctrine to Change Course of China</a> Bloomberg: Chinese President Xi Jinping is set to deliver the first resolution on Communist Party history in 40 years, giving him the mandate to potentially rule for life as a major summit wraps in Beijing. 
- <p class="updated_time"> 02:55 PM CT, Nov. 10 </p> 
- <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Fkk7cswGtn0/index.html">Biden to hold signing ceremony on Monday for bipartisan infrastructure bill </a> CNN: President Joe Biden will sign the bipartisan infrastructure bill on Monday during a ceremony that will include members of Congress, governors and mayors from both parties, the White House announced on Wednesday. 
  <p class="updated_time"> 02:52 PM CT, Nov. 10 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/169bSfKsdFE/index.html">Blinken says US is concerned Russia may be 'attempting to rehash' 2014 invasion of Ukraine</a> CNN: US Secretary of State Antony Blinken said Wednesday that the US is concerned by reports of unusual Russian military activity and the possibility that Russia may be "attempting to rehash" its 2014 invasion of Ukraine. 
  <p class="updated_time"> 02:49 PM CT, Nov. 10 </p> 
@@ -279,7 +279,7 @@ permalink: /projects/news/
  <p class="updated_time"> 02:21 PM CT, Nov. 10 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7XpXgR5yHTA/index.html">Jill Biden and Elizabeth Dole team up to highlight military caregiving</a> CNN: First lady Jill Biden will highlight military caregiving families Wednesday morning at the White House, part of the Joining Forces initiative she started alongside then-first lady Michelle Obama in 2011. 
  <p class="updated_time"> 02:21 PM CT, Nov. 10 </p> 
- <a href="https://www.nytimes.com/2021/11/10/technology/doj-uber-suit-disabilities.html">U.S. Sues Uber, Saying it Discriminated Against People With Disabilities</a> NYT: The Justice Department says Uber did not adjust its wait time fees for people with disabilities, even when Uber knew someone needed additional time. 
+ <a href="https://www.nytimes.com/2021/11/10/technology/doj-uber-suit-disabilities.html">U.S. Sues Uber, Saying It Discriminated Against People With Disabilities</a> NYT: The Justice Department says Uber did not adjust its wait time fees for people with disabilities, even when Uber knew someone needed additional time. 
  <p class="updated_time"> 02:20 PM CT, Nov. 10 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-10/worst-is-yet-to-come-for-u-s-inflation-as-fed-biden-feel-heat">U.S. Inflation Likely to Get Worse, Dealing Challenge to Fed and Biden</a> Bloomberg: After U.S. prices climbed by the most in three decades, there’s even worse news ahead for households and policy makers: Inflation likely has further to rise before it peaks.&nbsp; 
  <p class="updated_time"> 02:19 PM CT, Nov. 10 </p> 
@@ -416,8 +416,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/09/trump-executive-privilege-court-ruling-kings-520512">Trump cannot shield White House records from Jan. 6 committee, judge rules</a> Politico: “Presidents are not kings, and Plaintiff is not President,” Judge Tanya Chutkan wrote. 
  <p class="updated_time"> 09:22 PM CT, Nov. 09 </p> 
  <a href="https://www.nytimes.com/2021/11/09/health/pfizer-booster-eligibility-adults.html">Pfizer Asks F.D.A. to Authorize Covid Booster Shots for All Adults</a> NYT: In a turnaround, the agency is expected to grant the request before the winter holiday season, giving access to all 181 million fully vaccinated people. 
- <p class="updated_time"> 08:57 PM CT, Nov. 09 </p> 
- <a href="https://www.politico.com/news/2021/11/09/brian-williams-leave-nbc-news-520551">Brian Williams says he’s leaving NBC News at end of year</a> Politico: “I’ll pop up again somewhere,” he said. 
  <p class="updated_time"> 08:25 PM CT, Nov. 09 </p> 
  <a href="https://www.washingtonpost.com/politics/gop-rep-fred-upton-receives-death-threats-after-voting-for-bipartisan-infrastructure-deal/2021/11/09/78fe5ac8-4195-11ec-9ea7-3eb2406a2e24_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">GOP Rep. Fred Upton receives death threats after voting for bipartisan infrastructure deal</a> WaPo: The Michigan Republican said the threats began after Rep. Marjorie Taylor Greene (R-Ga.) tweeted the names and office phone numbers of House Republicans who backed the bill. 
  <p class="updated_time"> 08:01 PM CT, Nov. 09 </p> 
