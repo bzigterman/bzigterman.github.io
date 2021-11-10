@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:23 AM CT, Nov. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59227425?at_medium=RSS&at_campaign=KARANGA">Capitol riot: Judge rejects Trump bid to withhold records</a> BBC: "Presidents are not kings," the judge ruled, adding the incumbent can decide what documents to release. 
  <p class="updated_time"> 12:38 AM CT, Nov. 10 </p> 
  <a href="https://www.bbc.co.uk/news/business-59229995?at_medium=RSS&at_campaign=KARANGA">Peter Jackson sells visual effects firm for $1.6bn to Unity</a> BBC: New Zealand-based Weta Digital created the characters Gollum and Caesar in Planet of the Apes. 
  <p class="updated_time"> 10:44 PM CT, Nov. 09 </p> 
@@ -15,8 +17,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/technology-59222749?at_medium=RSS&at_campaign=KARANGA">Apple's original computer fetches $400,000 at US auction</a> BBC: The still functioning wood-cased Apple-1 was built by Steve Wozniak and Steve Jobs back in 1976. 
  <p class="updated_time"> 10:35 PM CT, Nov. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59202306?at_medium=RSS&at_campaign=KARANGA">Family of woman who died in detention files complaint against Japan officials</a> BBC: The woman died following months of custody in a detention facility in Nagoya. 
- <p class="updated_time"> 09:45 PM CT, Nov. 09 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59227425?at_medium=RSS&at_campaign=KARANGA">Capitol riot: Judge rejects Trump bid to withhold records</a> BBC: "Presidents are not kings, and Plaintiff is not President," the ruling says of Mr Trump. 
  <p class="updated_time"> 09:20 PM CT, Nov. 09 </p> 
  <a href="https://www.nytimes.com/2021/11/09/world/asia/us-holocaust-museum-china-uyghurs-report.html">U.S. Holocaust Museum Says China ‘May Be Committing Genocide’ Against Uyghurs</a> NYT: Its report found that the government’s attacks against the group of Muslims in Xinjiang had escalated and most likely included “forced sterilization, sexual violence, enslavement, torture, and forcible transfer.” 
  <p class="updated_time"> 09:06 PM CT, Nov. 09 </p> 
@@ -204,6 +204,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:47 AM CT, Nov. 10 </p> 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-10/pakistan-top-court-calls-imran-khan-in-school-attack-case">Pakistan Top Court Calls Imran Khan in School Attack Case</a> Bloomberg: Pakistan’s Supreme Court has ordered Prime Minister Imran Khan to appear in a case related to a major attack by the local Taliban seven years ago amid the government’s move for a peace agreement with the militant group. 
  <p class="updated_time"> 12:43 AM CT, Nov. 10 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-10/china-covid-surge-could-set-back-kim-jong-un-s-border-reopening">China Covid Surge Could Set Back Kim Jong Un’s Border Reopening</a> Bloomberg: New Covid-19 restrictions in the Chinese area bordering North Korea may have scuttled Kim Jong Un’s plans to reopen a vital crossing that has been closed for almost two years. 
  <p class="updated_time"> 12:26 AM CT, Nov. 10 </p> 
@@ -458,8 +460,6 @@ permalink: /projects/news/
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/wcXTysw90u4/index.html">CNN Poll: Majority of Americans say Biden isn't paying attention to nation's most important issues</a> CNN: One year out from the 2022 midterm elections, 58% of Americans say President Joe Biden hasn't paid enough attention to the nation's most important problems, as a majority disapproves of the way he's handling his job as President, according to a new CNN Poll conducted by SSRS. 
  <p class="updated_time"> 08:14 PM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/us/politics/isis-military.html">Military Can’t Find ISIS Safe House That Prompted Kabul Drone Strike</a> NYT: The Pentagon’s latest admission illustrates the botched intelligence behind the strike that mistakenly killed 10 civilians in August. 
- <p class="updated_time"> 07:56 PM CT, Nov. 08 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-09/brainard-interviewed-by-biden-for-fed-chair-as-search-heats-up">Brainard Interviewed by Biden for Fed Chair as Search Heats Up</a> Bloomberg: Federal Reserve Governor Lael Brainard was interviewed for the top job at the U.S. central bank when she visited the White House last week, according to people familiar with the discussions, signaling that Chair Jerome Powell has a serious rival as President Joe Biden considers who will lead the Fed for the next four years. 
  <p class="updated_time"> 07:24 PM CT, Nov. 08 </p> 
  <a href="https://www.politico.com/news/2021/11/08/biden-vaccine-covid-mandate-lives-520367">Biden administration: Blocking vaccine mandate could cost ‘hundreds of lives per day’</a> Politico: The administration warned a federal court of the dangers of a stay of its vaccinate-or-test requirement for private employers. 
  <p class="updated_time"> 06:58 PM CT, Nov. 08 </p> 
