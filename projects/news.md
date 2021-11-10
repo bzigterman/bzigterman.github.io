@@ -7,12 +7,14 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:18 PM CT, Nov. 10 </p> 
+ <p class="updated_time"> 01:27 PM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/live/2021/11/10/world/poland-belarus-border-migrants">Live Updates: Crisis on Europe’s Eastern Flank Deepens as Tension Escalates at Polish Border</a> NYT: Western officials accuse the leader of Belarus of sending migrants to E.U. borders as retaliation for sanctions. E.U. officials expressed support for Poland. Lithuania, which also borders Belarus, declared a state of emergency. 
+ <p class="updated_time"> 01:24 PM CT, Nov. 10 </p> 
+ <a href="https://www.nytimes.com/2021/11/10/world/africa/mozambique-corruption-manuel-chang-extradition.html">Manuel Chang Will Face Corruption Charges in U.S.</a> NYT: A judge overturned the South African government’s decision to send the minister back to Mozambique, where civil society groups say his political clout will protect him. 
+ <p class="updated_time"> 01:23 PM CT, Nov. 10 </p> 
+ <a href="https://www.nytimes.com/2021/11/10/world/pennsylvanias-school-mask-mandate.html">Pennsylvania Court Rejects Statewide School Mask Mandate</a> NYT: The judges said that the state’s acting health secretary had overstepped her authority in issuing the mandate, and that they were not taking a position on “the science or efficacy of mask-wearing.” 
  <p class="updated_time"> 01:18 PM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/09/business/china-evergrande-kaisa.html">China Evergrande Troubles Spread Through Property Sector</a> NYT: Global markets just weeks ago were fretting over the possible failure of Evergrande. Now the developer says the worst is over, even as other companies show signs of trouble. 
- <p class="updated_time"> 01:13 PM CT, Nov. 10 </p> 
- <a href="https://www.nytimes.com/2021/11/10/world/africa/mozambique-corruption-manuel-chang-extradition.html">Manuel Chang Will Face Corruption Charges in U.S.</a> NYT: A judge overturned the South African government’s decision to send the minister back to Mozambique, where civil society groups say his political clout will protect him. 
  <p class="updated_time"> 01:08 PM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/sports/soccer/psg-women-attack-aminata-diallo.html">P.S.G.'s Aminata Diallo Arrested After Teammate Is Attacked</a> NYT: A Paris St.-Germain women’s player was taken into custody by French investigators looking into a violent assault on a teammate who shares her position. 
  <p class="updated_time"> 01:06 PM CT, Nov. 10 </p> 
@@ -165,8 +167,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/09/world/asia/singapore-unvaccinated-covid.html">Singapore to End Free Covid Treatment for Those 'Unvaccinated by Choice'</a> NYT: The change, which takes effect on Dec. 8, comes as the number of severe cases has stabilized but remains high, the Health Ministry said. 
  <p class="updated_time"> 10:59 AM CT, Nov. 09 </p> 
  <a href="https://www.nytimes.com/2021/11/09/world/asia/us-release-china-zhang-zhan.html">U.S. Urges Release of Chinese Citizen Journalist Who Documented Covid</a> NYT: Zhang Zhan, who was imprisoned after exposing the failures of the government’s initial response to the coronavirus outbreak in Wuhan, is near death, friends and family say. 
- <p class="updated_time"> 10:33 AM CT, Nov. 09 </p> 
- <a href="https://www.nytimes.com/2021/11/08/world/europe/van-morrison-covid-northern-ireland.html">Northern Ireland’s Health Minister Is Suing Van Morrison Over Covid Criticism</a> NYT: The Belfast-born singer-songwriter has embraced conspiracy theories and criticized restrictions to slow the spread of the coronavirus. Last year, he released a single called “No More Lockdown.” 
  <p class="updated_time"> 08:47 AM CT, Nov. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59225086?at_medium=RSS&at_campaign=KARANGA">Toxic foam covers sacred Yamuna river in India</a> BBC: Hindu devotees are filmed bathing in the Yamuna river to mark the Chhath Puja religious festival. 
  <p class="updated_time"> 07:05 AM CT, Nov. 09 </p> 
@@ -198,7 +198,7 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
- <p class="updated_time"> 01:12 PM CT, Nov. 10 </p> 
+ <p class="updated_time"> 01:31 PM CT, Nov. 10 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RzYRY-_Cino/index.html">US Capitol rioter who assaulted police officer gets 41 months in prison</a> CNN: A New Jersey gym owner and former MMA fighter who punched a police officer during the January 6 riot was sentenced to 41 months in prison on Wednesday, becoming the first rioter sentenced for violence against the police during the attack. 
  <p class="updated_time"> 12:59 PM CT, Nov. 10 </p> 
  <a href="https://www.politico.com/news/2021/11/10/scott-fairlamb-jan-6-sentencing-520592">N.J. man hit with toughest sentence yet in Jan. 6 attack</a> Politico: Former MMA fighter Scott Fairlamb gets 41 months in prison for punching police officer during Capitol Riot. 
@@ -220,6 +220,8 @@ permalink: /projects/news/
  <a href="https://www.washingtonpost.com/politics/2021/08/31/trump-executive-privilege/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">How Trump is trying to use executive privilege to stall the Jan. 6 investigation</a> WaPo: Trump doesn't ultimately decide what is covered by executive privilege, but he could stall the process enough to damage the investigation. 
  <p class="updated_time"> 12:29 PM CT, Nov. 10 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7XpXgR5yHTA/index.html">Jill Biden and Elizabeth Dole team up to highlight military caregiving</a> CNN: First lady Jill Biden will highlight military caregiving families Wednesday morning at the White House, part of the Joining Forces initiative she started alongside then-first lady Michelle Obama in 2011. 
+ <p class="updated_time"> 12:22 PM CT, Nov. 10 </p> 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-10/democrats-2022-election-outlook-more-nuanced-than-apocalyptic">Democrats’ 2022 Election Outlook More Nuanced Than Apocalyptic</a> Bloomberg: A week removed from a stinging loss in the Virginia governor’s election and persistent blame for rising inflation, the picture emerging for Democrats ahead of the 2022 midterms is more complicated than it is bleak. 
  <p class="updated_time"> 12:16 PM CT, Nov. 10 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/yOqxDjj1bjs/index.html">The legal fight over Trump's White House documents: What's next</a> CNN: A federal judge on Tuesday slammed former President Donald Trump's attempt to keep White House documents from the hands of the House committee investigating the events leading up to and on January 6. 
  <p class="updated_time"> 12:11 PM CT, Nov. 10 </p> 
@@ -231,7 +233,7 @@ permalink: /projects/news/
  <p class="updated_time"> 11:45 AM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/us/politics/blinken-johnson-johnson-vaccine-covax.html">U.S. Has Deal to Send J.&J. Covid Vaccine to Conflict Zones, Blinken Says</a> NYT: Secretary of State Antony J. Blinken stressed the need to extend vaccine access to people living in areas unreachable by government-run programs. 
  <p class="updated_time"> 11:43 AM CT, Nov. 10 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-10/hedge-funds-private-equity-poised-for-tough-rules-under-gensler">SEC Under Gensler to Get Tougher on Hedge Funds, Private Equity</a> Bloomberg: Gary Gensler, whose resume includes a stint at Goldman Sachs Group Inc., says he’s amazed that the hedge fund 2-and-20 fee model has prevailed in the decades since he left Wall Street. In his current gig leading the Securities and Exchange Commission, he’s signaling he wants to change that. 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-10/hedge-funds-private-equity-poised-for-tough-rules-under-gensler">Hedge Fund 2-and-20 Fee Structure Is in SEC Chief’s Crosshairs</a> Bloomberg: Gary Gensler, whose resume includes a stint at Goldman Sachs Group Inc., says he’s amazed that the hedge fund 2-and-20 fee model has prevailed in the decades since he left Wall Street. In his current gig leading the Securities and Exchange Commission, he’s signaling he wants to change that. 
  <p class="updated_time"> 11:39 AM CT, Nov. 10 </p> 
  <a href="https://www.washingtonpost.com/politics/2021/11/10/white-people-are-not-victims-discussions-about-historical-racism/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">White people are not the victims in discussions about historical racism</a> WaPo: There is an important distinction between talking about racism and accusing someone of it. 
  <p class="updated_time"> 11:39 AM CT, Nov. 10 </p> 
@@ -240,8 +242,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/10/study-fox-viewers-covid-falsehoods-520591">Study: Fox viewers more likely to believe Covid falsehoods</a> Politico: The most widely-believed falsehood is about the government exaggerating Covid deaths. 
  <p class="updated_time"> 11:21 AM CT, Nov. 10 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-10/blinken-says-allies-would-take-action-if-china-attacks-taiwan">Blinken Says Allies Would ‘Take Action’ If China Attacks Taiwan</a> Bloomberg: Secretary of State Antony Blinken said allied nations would be prepared to “take action” if China uses force against Taiwan, though he again refused to say whether the Biden administration would be prepared to use the U.S. military in such a conflict. 
- <p class="updated_time"> 11:15 AM CT, Nov. 10 </p> 
- <a href="https://www.politico.com/news/2021/11/10/biden-meeting-canada-mexico-leaders-520590">White House confirms Biden to host Trudeau, López Obrador next week</a> Politico: The meeting will be the first get-together for the North American leaders since 2016. 
  <p class="updated_time"> 10:39 AM CT, Nov. 10 </p> 
  <a href="https://www.washingtonpost.com/politics/2021/11/10/4-10-republicans-dont-like-schools-teaching-about-history-racism/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">4 in 10 Republicans don’t like schools teaching about history of racism</a> WaPo: The new survey and others reinforce the slippery slope of the GOP’s anti-critical race theory push. 
  <p class="updated_time"> 10:39 AM CT, Nov. 10 </p> 
@@ -342,8 +342,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/10/1054137225/nearly-1-million-kids-ages-5-11-will-have-their-first-covid-shots-by-the-end-of-">Nearly 1 million kids ages 5-11 will have their first COVID shots by the end of today</a> NPR: About 3% of children in the age group authorized last week to get a low-dose vaccine will have their first shots by Wednesday, according to the White House. 
  <p class="updated_time"> 04:00 AM CT, Nov. 10 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-10/a-rare-port-success-story-is-chance-for-biden-to-tout-his-plans">A Rare Port Success Story Is a Chance for Biden to Tout His Plans</a> Bloomberg: Bottlenecks and failures abound in the U.S. supply chain. Then there’s the Port of Baltimore. 
- <p class="updated_time"> 04:00 AM CT, Nov. 10 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-10/auto-state-governors-press-congress-to-pass-aid-for-chipmakers">Auto-State Governors Press Congress to Pass Aid for Chipmakers</a> Bloomberg: Governors from nine states, led by Michigan’s Gretchen Whitmer, have sent a letter to top congressional leaders urging them to advance legislation that would provide $52 billion in aid to semiconductor producers and ease a shortage for manufacturers. 
  <p class="updated_time"> 03:48 AM CT, Nov. 10 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-10/s-africa-doctors-oppose-j-j-boost-as-sole-health-worker-choice">South Africa Doctors Oppose J&amp;J Boost as Sole Health Worker Choice</a> Bloomberg: The South African Medical Association, which represents doctors, said there must must be a choice of Covid-19 booster vaccine after Johnson &amp; Johnson won the right to run research on the half a million health workers who took the company’s shot in an initial study. 
  <p class="updated_time"> 03:20 AM CT, Nov. 10 </p> 
@@ -540,8 +538,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/huddle/2021/11/04/dems-attempt-an-end-of-week-spri-494981">Dems attempt an end-of-week sprint</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 05:13 AM CT, Nov. 04 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/04/for-dems-its-2009-all-over-again-494977">POLITICO Playbook: For Dems, it’s ’2009 all over again’</a> Politico: And New Jersey Gov. Phil Murphy wins reelection narrowly. 
- <p class="updated_time"> 02:28 PM CT, Nov. 03 </p> 
- <a href="https://www.politico.com/news/2021/11/03/senate-republicans-voting-reform-block-519082">Senate GOP blocks latest Dem push for voting reform</a> Politico: Alaska’s Lisa Murkowski was the only Republican to join Democrats on the bill named for the late Rep. John Lewis. 
 
 
 </details>
