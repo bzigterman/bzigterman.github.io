@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:50 AM CT, Nov. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59231136?at_medium=RSS&at_campaign=KARANGA">Belarus migrants: Poland faces fresh border breaches</a> BBC: After 599 attempts to cross from Belarus, Poland says it now has 15,000 troops at the border. 
+ <p class="updated_time"> 05:49 AM CT, Nov. 10 </p> 
+ <a href="https://www.nytimes.com/2021/11/10/world/asia/danny-fenster-american-journalist-myanmar.html">American Journalist Held in Myanmar Faces 2 New Charges</a> NYT: Prosecutors filed charges of terrorism and sedition against the journalist Danny Fenster, who once worked at a hard-hitting news outlet hated by Myanmar’s governing military. 
  <p class="updated_time"> 05:45 AM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/world/europe/france-climate-change-energy-prices.html">In France, the People COP26 Forgot Seethe Over Rising Energy Prices</a> NYT: In one area of France, worries about rising energy prices trump anxiety about rising temperatures, raising fears of a resurgence of the Yellow Vest social uprising. 
  <p class="updated_time"> 05:24 AM CT, Nov. 10 </p> 
@@ -31,8 +35,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59230846?at_medium=RSS&at_campaign=KARANGA">New Zealand PM Jacinda Ardern's live stream interrupted by three-year-old daughter</a> BBC: Three-year-old Neve interrupted Jacinda Ardern's Facebook Live on Covid restrictions. 
  <p class="updated_time"> 03:43 AM CT, Nov. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59230564?at_medium=RSS&at_campaign=KARANGA">Afghanistan's ghost soldiers undermined fight against Taliban - ex-official</a> BBC: Thousands of troops who were supposed to fight the Taliban did not exist, a former minister says. 
- <p class="updated_time"> 03:15 AM CT, Nov. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59231136?at_medium=RSS&at_campaign=KARANGA">Belarus migrants: Poland faces fresh border breaches</a> BBC: The defence minister say many attempts were made to cross but 15,000 soldiers are now stationed there. 
  <p class="updated_time"> 02:55 AM CT, Nov. 10 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59231632?at_medium=RSS&at_campaign=KARANGA">Nasa's Moon return pushed back to 2025</a> BBC: The first Nasa mission to return to the surface of the Moon has been delayed by one year to 2025. 
  <p class="updated_time"> 01:23 AM CT, Nov. 10 </p> 
@@ -179,8 +181,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/08/world/europe/europe-us-travel-ban.html">U.S. Travel Ban Ends, and Europeans Head Overseas Again</a> NYT: Europeans were kept apart from family and friends as the ban dragged on long after E.U. leaders had opened their borders. 
  <p class="updated_time"> 05:26 AM CT, Nov. 08 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59206814?at_medium=RSS&at_campaign=KARANGA">COP26: Rich countries ‘pushing back’ on paying for climate loss</a> BBC: Poorer countries say they are not able to get compensation for the damage caused by climate change. 
- <p class="updated_time"> 04:00 AM CT, Nov. 08 </p> 
- <a href="https://www.nytimes.com/2021/11/08/world/europe/romania-covid-vaccine-refusal.html">In Romania, Hard-Hit by Covid, Doctors Fight Vaccine Refusal</a> NYT: An anti-vaccine clarion call by leading religious figures, echoed by prominent politicians and social media, helps explain why Romania now has the world’s highest Covid death rate. 
  <p class="updated_time"> 06:14 PM CT, Nov. 07 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59199484?at_medium=RSS&at_campaign=KARANGA">COP26: Fossil fuel industry has largest delegation at climate summit</a> BBC: There are more participants than from any single country, a study shared with the BBC suggests. 
 
@@ -194,12 +194,12 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/11/10/new-reminders-that-this-is-not-normal-495046">POLITICO Playbook: New reminders that this is not normal</a> Politico: And a new poll shows Biden's vaccine mandate losing support. 
  <p class="updated_time"> 06:00 AM CT, Nov. 10 </p> 
  <a href="https://www.politico.com/news/2021/11/10/136-countries-agreed-to-a-global-minimum-corporate-tax-rate-what-now-520418">136 countries agreed to a global minimum corporate tax rate. What now?</a> Politico: No one hands over billions of dollars in tax revenue without a fight. 
+ <p class="updated_time"> 05:47 AM CT, Nov. 10 </p> 
+ <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/oA3Ov7QYfl8/index.html">Three out of four adults think Facebook is making society worse</a> CNN: Roughly three-quarters of adults believe Facebook is making American society worse, a new CNN poll conducted by SSRS finds, with about half saying they know somebody who was persuaded to believe in a conspiracy theory because of the site's content. 
  <p class="updated_time"> 05:38 AM CT, Nov. 10 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/k0mkJ7dnnc4/index.html">Prosecutors seek 4+ years in prison for 'QAnon Shaman' in attempt to set example</a> CNN: The Justice Department is asking for the so-called QAnon Shaman, who wore a headdress and posed shirtless on the Senate floor during the siege of the US Capitol, to be sentenced to a prison term of more than four years, the longest incarceration prosecutors have asked for any guilty January 6 defendant so far, according to a new court filing. 
  <p class="updated_time"> 05:19 AM CT, Nov. 10 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-10/swedish-government-clinches-deal-that-paves-the-way-for-new-pm">Swedish Government Clinches Deal That Paves the Way for New PM</a> Bloomberg: Sweden’s Center Party won’t seek to block Magdalena Andersson as the successor to current prime minister Stefan Lofven after it secured key concessions from the government. 
- <p class="updated_time"> 05:06 AM CT, Nov. 10 </p> 
- <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/oA3Ov7QYfl8/index.html">Three out of four adults think Facebook is making society worse</a> CNN: Roughly three-quarters of adults believe Facebook is making American society worse, a new CNN poll conducted by SSRS finds, with about half saying they know somebody who was persuaded to believe in a conspiracy theory because of the site's content. 
  <p class="updated_time"> 04:59 AM CT, Nov. 10 </p> 
  <a href="https://www.bloomberg.com/news/newsletters/2021-11-10/taking-baby-steps-at-the-cop26-climate-summit">Taking Baby Steps at the COP26 Climate Summit</a> Bloomberg: The first draft outcomes for the COP26 meeting in Glasgow put greater onus on countries to improve on their individual efforts to fight climate change and ramp up scrutiny of those blueprints. 
  <p class="updated_time"> 04:31 AM CT, Nov. 10 </p> 
@@ -534,8 +534,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/03/senate-republicans-voting-reform-block-519082">Senate GOP blocks latest Dem push for voting reform</a> Politico: Alaska’s Lisa Murkowski was the only Republican to join Democrats on the bill named for the late Rep. John Lewis. 
  <p class="updated_time"> 12:36 PM CT, Nov. 03 </p> 
  <a href="https://www.politico.com/news/2021/11/03/democrats-virginia-congress-519051">Dems keep butting heads after Virginia shellacking</a> Politico: Most agreed that the dismal election results underscored the need to move past the infighting that’s defined their majorities for months. There’s hardly any agreement on much else. 
- <p class="updated_time"> 06:53 AM CT, Nov. 03 </p> 
- <a href="https://www.politico.com/newsletters/huddle/2021/11/03/democrats-discontent-494962">Democrats’ discontent</a> Politico: A play-by-play preview of the day&#39;s congressional news 
 
 
 </details>
