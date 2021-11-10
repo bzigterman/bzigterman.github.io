@@ -205,7 +205,7 @@ permalink: /projects/news/
 <summary>Politics</summary>
 
  <p class="updated_time"> 12:26 AM CT, Nov. 10 </p> 
- <a href="https://www.politico.com/news/2021/11/10/jan6-shaman-sentencing-recommendation-520570">51-month sentence urged for ’QAnon Shaman’ Jacob Chansley</a> Politico: “Defendant Chansley’s now-famous criminal acts have made him the public face of the Capitol riot,” prosecutors said 
+ <a href="https://www.politico.com/news/2021/11/10/jan6-shaman-sentencing-recommendation-520570">51-month sentence urged for ‘QAnon Shaman’ Jacob Chansley</a> Politico: “Defendant Chansley’s now-famous criminal acts have made him the public face of the Capitol riot,” prosecutors said. 
  <p class="updated_time"> 11:10 PM CT, Nov. 09 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/V8W_Di14YEM/index.html">Extremists seize back control of the Republican Party's message machine</a> CNN: So much for the Republican Party being all about the future. 
  <p class="updated_time"> 10:23 PM CT, Nov. 09 </p> 
