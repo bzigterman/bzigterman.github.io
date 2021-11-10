@@ -7,9 +7,9 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:16 PM CT, Nov. 10 </p> 
+ <p class="updated_time"> 02:33 PM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/live/2021/11/10/world/poland-belarus-border-migrants">Live Updates: Crisis on Europe’s Eastern Flank Deepens as Tension Escalates at Polish Border</a> NYT: Western officials accuse the leader of Belarus of sending migrants to E.U. borders as retaliation for sanctions. E.U. officials expressed support for Poland. Lithuania, which also borders Belarus, declared a state of emergency. 
- <p class="updated_time"> 02:16 PM CT, Nov. 10 </p> 
+ <p class="updated_time"> 02:26 PM CT, Nov. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59239853?at_medium=RSS&at_campaign=KARANGA">Kyle Rittenhouse: Accused teen takes stand in his own defence</a> BBC: Kyle Rittenhouse, 18, broke down in tears as he told he court he shot three men in self-defence. 
  <p class="updated_time"> 02:00 PM CT, Nov. 10 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59238869?at_medium=RSS&at_campaign=KARANGA">COP26: China and US agree to boost climate cooperation</a> BBC: In a surprise announcement, the two countries unveil a joint pledge at the COP26 summit in Glasgow. 
@@ -200,26 +200,34 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:30 PM CT, Nov. 10 </p> 
+ <a href="https://www.washingtonpost.com/politics/steve-sweeney-president-of-new-jersey-senate-concedes-to-republican-edward-durr-jr/2021/11/10/481e7b06-4251-11ec-9ea7-3eb2406a2e24_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Steve Sweeney, president of New Jersey Senate, concedes to Republican Edward Durr Jr.</a> WaPo: The longtime Democratic leader in the state Senate conceded Wednesday, six days after the race was called for Durr, a truck driver. 
  <p class="updated_time"> 02:24 PM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/us/politics/kids-vaccine-5-to-11.html">White House Estimates Almost 1 Million Younger Children Got Vaccines So Far</a> NYT: “Our goal clearly is to vaccinate as many kids as possible,” a White House official said. “The program is just getting up to full strength.” 
  <p class="updated_time"> 02:21 PM CT, Nov. 10 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/7XpXgR5yHTA/index.html">Jill Biden and Elizabeth Dole team up to highlight military caregiving</a> CNN: First lady Jill Biden will highlight military caregiving families Wednesday morning at the White House, part of the Joining Forces initiative she started alongside then-first lady Michelle Obama in 2011. 
  <p class="updated_time"> 02:21 PM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/technology/doj-uber-suit-disabilities.html">U.S. Sues Uber, Saying it Discriminated Against People With Disabilities</a> NYT: The Justice Department says Uber did not adjust its wait time fees for people with disabilities, even when Uber knew someone needed additional time. 
+ <p class="updated_time"> 02:20 PM CT, Nov. 10 </p> 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-10/worst-is-yet-to-come-for-u-s-inflation-as-fed-biden-feel-heat">U.S. Inflation Likely to Get Worse, Dealing Challenge to Fed and Biden</a> Bloomberg: After U.S. prices climbed by the most in three decades, there’s even worse news ahead for households and policy makers: Inflation likely has further to rise before it peaks.  October’s annual rate was 6.2%, the highest since 1990, as price increases spread well beyond the parts of the economy most disrupted by pandemic closures. Key drivers, like hot housing markets and a global energy crunch, show few signs of fading away soon -- leading economists to predict even bigger jumps in the coming mon 
  <p class="updated_time"> 02:19 PM CT, Nov. 10 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RzYRY-_Cino/index.html">US Capitol rioter who assaulted police officer gets 41 months in prison</a> CNN: A New Jersey gym owner and former MMA fighter who punched a police officer during the January 6 riot was sentenced to 41 months in prison on Wednesday, becoming the first rioter sentenced for violence against the police during the attack. 
+ <p class="updated_time"> 02:18 PM CT, Nov. 10 </p> 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-10/j-j-baby-powder-bankruptcy-moved-to-new-jersey-suits-stayed">J&amp;J Baby Powder Bankruptcy Moved to N.J. Despite ‘Texas Two-Step’</a> Bloomberg: Johnson &amp; Johnson will have its baby powder bankruptcy moved to its home state of New Jersey, potentially threatening the consumer giant’s strategy for dealing with tens of thousands of lawsuits filed by women who say the product gave them cancer. 
  <p class="updated_time"> 02:17 PM CT, Nov. 10 </p> 
  <a href="https://www.washingtonpost.com/politics/2021/11/10/shift-urban-rural-presidential-vote-isnt-uniform/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">The shift in the urban and rural presidential vote isn’t uniform</a> WaPo: The swings look different in different states. 
+ <p class="updated_time"> 02:16 PM CT, Nov. 10 </p> 
+ <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/169bSfKsdFE/index.html">Blinken says US is concerned Russia may be 'attempting to rehash' 2014 invasion of Ukraine</a> CNN: US Secretary of State Antony Blinken said Wednesday that the US is concerned by reports of unusual Russian military activity and the possibility that Russia may be "attempting to rehash" its 2014 invasion of Ukraine. 
  <p class="updated_time"> 02:15 PM CT, Nov. 10 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/fc2unfvSavI/index.html">Justice Department sues Uber for overcharging people with disabilities for taking too long to load into vehicle</a> CNN: Customers with disabilities across the country have been overcharged by Uber since 2016 for allegedly taking too long to load into their designated vehicle, according to a federal civil lawsuit the Justice Department filed on Wednesday. 
  <p class="updated_time"> 02:00 PM CT, Nov. 10 </p> 
  <a href="https://www.washingtonpost.com/politics/2021/11/10/wake-submarine-controversy-harris-emphasizes-shared-future-meeting-with-frances-macron/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">In wake of submarine controversy, Harris emphasizes shared future in meeting with France’s Macron</a> WaPo: The meeting was part of the vice president's five-day trip to the oldest U.S. ally. 
  <p class="updated_time"> 01:57 PM CT, Nov. 10 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-10/biden-s-crackdown-on-auto-emissions-to-be-tougher-than-proposed">Biden’s Proposed Auto Emissions Crackdown Will Be Strengthened, EPA Chief Says</a> Bloomberg: The Biden administration will strengthen its proposed limits on auto and truck emissions, U.S. environmental chief Michael Regan said Wednesday, addressing complaints that the plan announced last summer is too weak. 
- <p class="updated_time"> 01:44 PM CT, Nov. 10 </p> 
- <a href="https://www.washingtonpost.com/politics/steve-sweeney-president-of-new-jersey-senate-concedes-to-republican-edward-durr-jr/2021/11/10/481e7b06-4251-11ec-9ea7-3eb2406a2e24_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Steve Sweeney, president of New Jersey Senate, concedes to Republican Edward Durr Jr.</a> WaPo: The longtime Democratic leader in the state Senate conceded Wednesday, six days after the race was called for Durr, a truck driver. 
  <p class="updated_time"> 01:32 PM CT, Nov. 10 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WKP1SiJR3Rg/index.html">Biden set to highlight in Baltimore how infrastructure deal will affect nation's ports </a> CNN: President Joe Biden takes his sales pitch for the newly passed bipartisan infrastructure deal on the road Wednesday, highlighting the effect of the bill on supply chains, hours after new inflation statistics revealed that America's prices are surging more than they have in 30 years. 
+ <p class="updated_time"> 01:31 PM CT, Nov. 10 </p> 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-10/brainard-as-fed-chair-would-set-up-manchin-as-a-key-senate-vote">A Brainard Fed Chair Nomination Would Set Up Manchin as a Key Vote</a> Bloomberg: If President Joe Biden chooses Lael Brainard to replace Fed Chairman Jerome Powell, her confirmation -- like so much else in Washington -- could turn on whether she can win over Senator Joe Manchin, the leading Democratic critic of the Fed’s monetary policy and a supporter of fossil fuels. 
  <p class="updated_time"> 01:08 PM CT, Nov. 10 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-10/fox-sued-as-dominion-seeks-election-evidence-from-rupert-murdoch">Dominion Voting Sues Fox, Seeking Election Evidence From Murdochs</a> Bloomberg: Dominion Voting Systems Inc., the company falsely accused of rigging the 2020 presidential election, sued Fox Corp. in an effort to gain access to Chairman Rupert Murdoch’s documents about its coverage of the contest. 
  <p class="updated_time"> 12:59 PM CT, Nov. 10 </p> 
@@ -332,10 +340,6 @@ permalink: /projects/news/
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/oA3Ov7QYfl8/index.html">Three out of four adults think Facebook is making society worse</a> CNN: Roughly three-quarters of adults believe Facebook is making American society worse, a new CNN poll conducted by SSRS finds, with about half saying they know somebody who was persuaded to believe in a conspiracy theory because of the site's content. 
  <p class="updated_time"> 05:35 AM CT, Nov. 10 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-10/germany-s-next-coalition-close-to-deal-on-legalizing-cannabis">Germany’s Next Coalition Nears Deal on Legalizing Cannabis</a> Bloomberg: Germany’s likely next ruling coalition is closing in on a deal to legalize cannabis for recreational use, the strongest signal yet that long-awaited growth of Europe’s marijuana market is gaining traction. 
- <p class="updated_time"> 05:19 AM CT, Nov. 10 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-10/swedish-government-clinches-deal-that-paves-the-way-for-new-pm">Swedish Government Clinches Deal That Paves the Way for New PM</a> Bloomberg: Sweden’s Center Party won’t seek to block Magdalena Andersson as the successor to current prime minister Stefan Lofven after it secured key concessions from the government. 
- <p class="updated_time"> 04:59 AM CT, Nov. 10 </p> 
- <a href="https://www.bloomberg.com/news/newsletters/2021-11-10/taking-baby-steps-at-the-cop26-climate-summit">Taking Baby Steps at the COP26 Climate Summit</a> Bloomberg: The first draft outcomes for the COP26 meeting in Glasgow put greater onus on countries to improve on their individual efforts to fight climate change and ramp up scrutiny of those blueprints. 
  <p class="updated_time"> 04:31 AM CT, Nov. 10 </p> 
  <a href="https://www.politico.com/news/2021/11/10/progressive-coalition-retools-ahead-of-2022-520550">Progressive coalition retools ahead of 2022</a> Politico: A nationwide alliance of left-wing groups gets a new leadership team. 
  <p class="updated_time"> 04:31 AM CT, Nov. 10 </p> 
@@ -352,8 +356,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/10/1054137225/nearly-1-million-kids-ages-5-11-will-have-their-first-covid-shots-by-the-end-of-">Nearly 1 million kids ages 5-11 will have their first COVID shots by the end of today</a> NPR: About 3% of children in the age group authorized last week to get a low-dose vaccine will have their first shots by Wednesday, according to the White House. 
  <p class="updated_time"> 04:00 AM CT, Nov. 10 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-10/a-rare-port-success-story-is-chance-for-biden-to-tout-his-plans">A Rare Port Success Story Is a Chance for Biden to Tout His Plans</a> Bloomberg: Bottlenecks and failures abound in the U.S. supply chain. Then there’s the Port of Baltimore. 
- <p class="updated_time"> 03:48 AM CT, Nov. 10 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-10/s-africa-doctors-oppose-j-j-boost-as-sole-health-worker-choice">South Africa Doctors Oppose J&amp;J Boost as Sole Health Worker Choice</a> Bloomberg: The South African Medical Association, which represents doctors, said there must must be a choice of Covid-19 booster vaccine after Johnson &amp; Johnson won the right to run research on the half a million health workers who took the company’s shot in an initial study. 
  <p class="updated_time"> 03:20 AM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/09/us/politics/where-is-newsom-california.html">Where Is Gavin Newsom, California's Governor?</a> NYT: He’s in the office, according to increasingly frustrated staff members. But his critics on Twitter aren’t buying it. 
  <p class="updated_time"> 02:59 AM CT, Nov. 10 </p> 
@@ -441,7 +443,7 @@ permalink: /projects/news/
  <p class="updated_time"> 01:03 PM CT, Nov. 09 </p> 
  <a href="https://www.npr.org/2021/11/09/1053817211/justice-on-the-brink-author-considers-the-impact-of-trumps-3-supreme-court-picks">'Justice on the Brink' author considers the impact of Trump's 3 Supreme Court picks</a> NPR: Pulitzer Prize-winning journalist Linda Greenhouse says the new Court has given conservatives less than they'd hoped for, though critical cases on abortion and other issues are still pending. 
  <p class="updated_time"> 01:00 PM CT, Nov. 09 </p> 
- <a href="https://www.npr.org/2021/11/09/1053929419/feel-like-you-dont-fit-in-either-political-party-heres-why">Feel like you don't fit in either political party? Here's why</a> NPR: The division is far more complicated than a split between Republicans and Democrats, according to the Pew Research Center. There are differences in ideology on race, economics and government. 
+ <a href="https://www.npr.org/2021/11/09/1053929419/feel-like-you-dont-fit-in-either-political-party-heres-why">Feel like you don't fit in either political party? Here's why</a> NPR: The division is far more complicated than a split between Republicans and Democrats, according to the Pew Research Center. Here are the differences in ideology on race, economics and government. 
  <p class="updated_time"> 12:10 PM CT, Nov. 09 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-09/un-says-16-staff-members-detained-in-ethiopia-as-crisis-worsens">UN Staff Members Detained in Ethiopia as Crisis Worsens</a> Bloomberg: The United Nations said 16 staff members have been detained in Ethiopia as a leader of the Tigray rebels warned mediation efforts to end the crisis in the Horn of African nation may fail. 
  <p class="updated_time"> 12:02 PM CT, Nov. 09 </p> 
@@ -496,8 +498,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/huddle/2021/11/08/recess-reverie-plus-huddle-restaurant-week-kicks-off-495014">Recess reverie (plus Huddle Restaurant Week kicks off)</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:05 AM CT, Nov. 08 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/08/big-obstacles-await-biden-after-big-win-495012">POLITICO Playbook: Big obstacles await Biden after big win</a> Politico: And midterm elections are a year from today. 
- <p class="updated_time"> 05:48 AM CT, Nov. 08 </p> 
- <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/i9Ydbx0FfR0/index.html">Jill Biden's child vaccine tour will include push for more children vaccination sites</a> CNN: First lady Jill Biden and US Surgeon General Dr. Vivek Murthy will make a push for boosting the number of Covid-19 vaccination sites for children Monday as they kick off a nationwide administration effort to encourage vaccines for the nation's youngest and newly eligible candidates. 
  <p class="updated_time"> 04:31 AM CT, Nov. 08 </p> 
  <a href="https://www.politico.com/news/2021/11/08/voting-rule-democrats-antitrust-519767">‘Zombies’ to the rescue: The arcane voting rule that could save Dems’ antitrust agenda</a> Politico: Former Democratic Commissioner Rohit Chopra left behind more than a dozen motions he wants the Federal Trade Commission to carry out, spawning a debate on whether his votes should still count. 
  <p class="updated_time"> 04:30 AM CT, Nov. 08 </p> 
