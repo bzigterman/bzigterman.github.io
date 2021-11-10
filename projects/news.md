@@ -54,7 +54,7 @@ permalink: /projects/news/
  <p class="updated_time"> 05:24 PM CT, Nov. 09 </p> 
  <a href="https://www.nytimes.com/2021/11/09/world/africa/ethiopia-united-nations.html">Ethiopia Seizes 16 UN Workers Amid Efforts to Halt Tigray War</a> NYT: The detentions aggravated the already tense relations between the United Nations and the Ethiopian government over war and famine in the country’s northern Tigray region. 
  <p class="updated_time"> 04:55 PM CT, Nov. 09 </p> 
- <a href="https://www.bbc.co.uk/news/uk-england-birmingham-59227513?at_medium=RSS&at_campaign=KARANGA">Nobel Peace Prize winner Malala ties the knot in Birmingham ceremony</a> BBC: The activist and her partner Asser Malik celebrate a nikkah ceremony with family in Birmingham. 
+ <a href="https://www.bbc.co.uk/news/uk-england-birmingham-59227513?at_medium=RSS&at_campaign=KARANGA">Nobel Peace Prize winner Malala ties the knot in nikkah ceremony</a> BBC: The activist and her partner Asser Malik celebrate a nikkah ceremony with family in Birmingham. 
  <p class="updated_time"> 04:12 PM CT, Nov. 09 </p> 
  <a href="https://www.nytimes.com/2021/11/09/world/europe/france-vaccine-booster.html">Macron announces a new vaccine rule for people 65 or older in France.</a> NYT: Though the country has a high vaccination rate, new coronavirus cases and hospital admissions have been increasing in recent weeks. 
  <p class="updated_time"> 04:06 PM CT, Nov. 09 </p> 
@@ -231,7 +231,7 @@ permalink: /projects/news/
  <p class="updated_time"> 10:04 PM CT, Nov. 09 </p> 
  <a href="https://www.washingtonpost.com/local/legal-issues/trump-records-jan-6-committee-judge-ruling/2021/11/09/4d256cec-3e44-11ec-bfad-8283439871ec_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Trump White House records can be turned over to House Jan. 6 investigative committee, judge rules</a> WaPo: Court deals blow to former president’s claim to executive privilege after Biden White House approved release. 
  <p class="updated_time"> 09:56 PM CT, Nov. 09 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-10/autistic-cambodian-teen-jailed-for-online-comments-freed">Cambodia Frees Austic Teen Jailed for Social Media Posts Critical of Government</a> Bloomberg: Phnom Penh, Cambodia (AP) -- An autistic Cambodian teenager was released from prison Wednesday after serving time for posting comments critical of the government on social media in a case that has attracted global attention. 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-10/autistic-cambodian-teen-jailed-for-online-comments-freed">Cambodia Frees Austic Teen Jailed for Social Media Posts Critical of Government</a> Bloomberg: Phnom Penh, Cambodia (AP) -- An autistic Cambodian teenager vowed Wednesday to continue to fight for his father's freedom after completing his own prison sentence for social media comments critical of the government in a case that has attracted international attention. 
  <p class="updated_time"> 09:55 PM CT, Nov. 09 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-10/let-capitalism-fix-climate-australia-says-as-cop26-nears-finish">Capitalism &mdash; Not Government &mdash; Will Fix Climate Change, Australia Says</a> Bloomberg: Strict government intervention on climate change would add pressure on living costs and threaten businesses, Australia’s Prime Minister Scott Morrison said, as global negotiators debate final outcomes from the COP26 summit. 
  <p class="updated_time"> 09:41 PM CT, Nov. 09 </p> 
@@ -554,10 +554,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/11/03/let-the-democratic-freakout-begin-494958">POLITICO Playbook: Let the Democratic freakout begin</a> Politico: And Democrats try to get the reconciliation bill over the finish line. 
  <p class="updated_time"> 05:10 AM CT, Nov. 03 </p> 
  <a href="https://www.politico.com/news/2021/11/03/democrats-biden-agenda-election-results-518935">Dems vow to plow forward on Biden agenda, even after election faceplants</a> Politico: “I don’t think this complicates passage. I think it helps accelerate it.” 
- <p class="updated_time"> 03:30 AM CT, Nov. 03 </p> 
- <a href="https://www.politico.com/news/2021/11/03/stephanie-murphy-long-game-518607">Stephanie Murphy's defiant long game to keep Dems in power</a> Politico: The voice of House battleground Democrats isn't afraid to openly criticize her party leaders if she thinks it will help them keep the House in 2022. 
- <p class="updated_time"> 03:30 AM CT, Nov. 03 </p> 
- <a href="https://www.politico.com/news/2021/11/03/gop-trump-baseless-election-fraud-claims-518603">1 year later, GOP still chained to Trump's baseless election fraud claims</a> Politico: Some Republicans fear the former president's continued fixation on his loss threatens to deter their base from voting. But many of them are still staying silent. 
 
 
 </details>
