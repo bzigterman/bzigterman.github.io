@@ -7,8 +7,10 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:28 AM CT, Nov. 10 </p> 
- <a href="https://www.nytimes.com/live/2021/11/10/world/poland-belarus-border-migrants">Live Updates: Crisis on Europe’s Eastern Flank Deepens as Tension Escalates at Polish Border</a> NYT: Western officials accuse the leader of Belarus of using migrants as weapons and E.U. officials continued to express support for Poland. Lithuania, which also borders Belarus, declared a state of emergency. 
+ <p class="updated_time"> 11:51 AM CT, Nov. 10 </p> 
+ <a href="https://www.nytimes.com/live/2021/11/10/world/poland-belarus-border-migrants">Live Updates: Crisis on Europe’s Eastern Flank Deepens as Tension Escalates at Polish Border</a> NYT: Western officials accuse the leader of Belarus of sending migrants to E.U. borders as retaliation for sanctions. E.U. officials expressed support for Poland. Lithuania, which also borders Belarus, declared a state of emergency. 
+ <p class="updated_time"> 11:45 AM CT, Nov. 10 </p> 
+ <a href="https://www.nytimes.com/2021/11/09/science/new-zealand-sea-lions.html">New Zealand’s Sea Lions Are Back, and Crashing Golf Courses and Soccer Matches</a> NYT: After their populations were decimated by hunters, New Zealand’s sea lions are returning to the coasts — sometimes surprising locals by turning up in unexpected places. 
  <p class="updated_time"> 11:13 AM CT, Nov. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59239853?at_medium=RSS&at_campaign=KARANGA">Kyle Rittenhouse: Accused teen takes stand in his own defence</a> BBC: Kyle Rittenhouse, 18, broke down in tears as he told he court he shot three men in self-defence. 
  <p class="updated_time"> 11:00 AM CT, Nov. 10 </p> 
@@ -155,8 +157,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/09/world/asia/us-release-china-zhang-zhan.html">U.S. Urges Release of Chinese Citizen Journalist Who Documented Covid</a> NYT: Zhang Zhan, who was imprisoned after exposing the failures of the government’s initial response to the coronavirus outbreak in Wuhan, is near death, friends and family say. 
  <p class="updated_time"> 10:33 AM CT, Nov. 09 </p> 
  <a href="https://www.nytimes.com/2021/11/08/world/europe/van-morrison-covid-northern-ireland.html">Northern Ireland’s Health Minister Is Suing Van Morrison Over Covid Criticism</a> NYT: The Belfast-born singer-songwriter has embraced conspiracy theories and criticized restrictions to slow the spread of the coronavirus. Last year, he released a single called “No More Lockdown.” 
- <p class="updated_time"> 10:16 AM CT, Nov. 09 </p> 
- <a href="https://www.nytimes.com/2021/11/09/science/new-zealand-sea-lions.html">New Zealand’s Sea Lions Are Back, and Crashing Golf Courses and Soccer Matches</a> NYT: After their populations were decimated by hunters, New Zealand’s sea lions are returning to the coasts — sometimes surprising locals by turning up in unexpected places. 
  <p class="updated_time"> 08:47 AM CT, Nov. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59225086?at_medium=RSS&at_campaign=KARANGA">Toxic foam covers sacred Yamuna river in India</a> BBC: Hindu devotees are filmed bathing in the Yamuna river to mark the Chhath Puja religious festival. 
  <p class="updated_time"> 07:05 AM CT, Nov. 09 </p> 
@@ -196,18 +196,20 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:45 AM CT, Nov. 10 </p> 
+ <a href="https://www.nytimes.com/2021/11/10/us/politics/blinken-johnson-johnson-vaccine-covax.html">U.S. Has Deal to Send J.&J. Covid Vaccine to Conflict Zones, Blinken Says</a> NYT: Secretary of State Antony J. Blinken stressed the need to extend vaccine access to people living in areas unreachable by government-run programs. 
+ <p class="updated_time"> 11:40 AM CT, Nov. 10 </p> 
+ <a href="https://www.nytimes.com/2021/11/10/business/economy/consumer-price-inflation-october.html">October 2021 CPI: Inflation Rose at Fastest Rate Since 1990</a> NYT: The Consumer Price Index rose 6.2 percent in October from a year ago, its fastest increase since 1990. That is bad news for President Biden and the central bank. 
+ <p class="updated_time"> 11:39 AM CT, Nov. 10 </p> 
+ <a href="https://www.washingtonpost.com/politics/2021/11/10/white-people-are-not-victims-discussions-about-historical-racism/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">White people are not the victims in discussions about historical racism</a> WaPo: There is an important distinction between talking about racism and accusing someone of it. 
  <p class="updated_time"> 11:35 AM CT, Nov. 10 </p> 
  <a href="https://www.politico.com/news/2021/11/10/study-fox-viewers-covid-falsehoods-520591">Study: Fox viewers more likely to believe Covid falsehoods</a> Politico: The most widely-believed falsehood is about the government exaggerating Covid deaths. 
  <p class="updated_time"> 11:33 AM CT, Nov. 10 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RzYRY-_Cino/index.html">US Capitol rioter who assaulted police officer gets 41 months in prison</a> CNN: A New Jersey gym owner and former MMA fighter who punched a police officer during the January 6 riot was sentenced to 41 months in prison on Wednesday, becoming the first rioter sentenced for violence against the police during the attack. 
- <p class="updated_time"> 11:27 AM CT, Nov. 10 </p> 
- <a href="https://www.nytimes.com/2021/11/10/business/economy/consumer-price-inflation-october.html">October 2021 CPI: Inflation Rose at Fastest Rate Since 1990</a> NYT: The Consumer Price Index rose 6.2 percent in October from a year ago, its fastest increase since 1990. That is bad news for President Biden and the central bank. 
  <p class="updated_time"> 11:21 AM CT, Nov. 10 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-10/blinken-says-allies-would-take-action-if-china-attacks-taiwan">Blinken Says Allies Would ‘Take Action’ If China Attacks Taiwan</a> Bloomberg: Secretary of State Antony Blinken said allied nations would be prepared to “take action” if China uses force against Taiwan, though he again refused to say whether the Biden administration would be prepared to use the U.S. military in such a conflict. 
  <p class="updated_time"> 11:15 AM CT, Nov. 10 </p> 
  <a href="https://www.politico.com/news/2021/11/10/biden-meeting-canada-mexico-leaders-520590">White House confirms Biden to host Trudeau, López Obrador next week</a> Politico: The meeting will be the first get-together for the North American leaders since 2016. 
- <p class="updated_time"> 11:07 AM CT, Nov. 10 </p> 
- <a href="https://www.nytimes.com/2021/11/10/us/politics/blinken-johnson-johnson-vaccine-covax.html">U.S. Has Deal to Send J.&J. Covid Vaccine to Conflict Zones, Blinken Says</a> NYT: Secretary of State Antony J. Blinken stressed the need to extend vaccine access to people living in areas unreachable by government-run programs. 
  <p class="updated_time"> 10:39 AM CT, Nov. 10 </p> 
  <a href="https://www.washingtonpost.com/politics/2021/11/10/4-10-republicans-dont-like-schools-teaching-about-history-racism/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">4 in 10 Republicans don’t like schools teaching about history of racism</a> WaPo: The new survey and others reinforce the slippery slope of the GOP’s anti-critical race theory push. 
  <p class="updated_time"> 10:39 AM CT, Nov. 10 </p> 
@@ -428,8 +430,6 @@ permalink: /projects/news/
  <a href="https://www.washingtonpost.com/politics/2021/11/09/how-republicans-can-take-back-majority-senate-house/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">How Republicans can take back the majority in the Senate and House</a> WaPo: A look at how many seats they need to win and where in the 2022 midterm elections. 
  <p class="updated_time"> 01:34 PM CT, Nov. 09 </p> 
  <a href="https://www.washingtonpost.com/politics/2021/11/09/how-republicans-can-take-back-majority-senate-house/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">How Republicans can take back the majority in the Senate and House</a> WaPo: A look at how many seats they need to win and where in the 2022 midterm elections. 
- <p class="updated_time"> 01:08 PM CT, Nov. 09 </p> 
- <a href="https://www.washingtonpost.com/politics/2021/11/09/gop-floats-punishing-13-its-members-their-sin-giving-biden-win/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">GOP floats punishment for its 13 apostates</a> WaPo: An effort is afoot to strip the 13 pro-infrastructure Republicans of their committee assignments. The most oft-cited reason? They gave Biden a win. 
  <p class="updated_time"> 01:03 PM CT, Nov. 09 </p> 
  <a href="https://www.npr.org/2021/11/09/1053817211/justice-on-the-brink-author-considers-the-impact-of-trumps-3-supreme-court-picks">'Justice on the Brink' author considers the impact of Trump's 3 Supreme Court picks</a> NPR: Pulitzer Prize-winning journalist Linda Greenhouse says the new Court has given conservatives less than they'd hoped for, though critical cases on abortion and other issues are still pending. 
  <p class="updated_time"> 01:00 PM CT, Nov. 09 </p> 
