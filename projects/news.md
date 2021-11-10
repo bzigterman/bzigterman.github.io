@@ -204,6 +204,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:43 AM CT, Nov. 10 </p> 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-10/china-covid-surge-could-set-back-kim-jong-un-s-border-reopening">China Covid Surge Could Set Back Kim Jong Un’s Border Reopening</a> Bloomberg: New Covid-19 restrictions in the Chinese area bordering North Korea may have scuttled Kim Jong Un’s plans to reopen a vital crossing that has been closed for almost two years. 
  <p class="updated_time"> 12:26 AM CT, Nov. 10 </p> 
  <a href="https://www.politico.com/news/2021/11/10/jan6-shaman-sentencing-recommendation-520570">51-month sentence urged for ‘QAnon Shaman’ Jacob Chansley</a> Politico: “Defendant Chansley’s now-famous criminal acts have made him the public face of the Capitol riot,” prosecutors said. 
  <p class="updated_time"> 12:19 AM CT, Nov. 10 </p> 
@@ -388,8 +390,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/09/1053929419/feel-like-you-dont-fit-in-either-political-party-heres-why">Feel like you don't fit in either political party? Here's why</a> NPR: The division is far more complicated than a split between Republicans and Democrats, according to the Pew Research Center. Here are the differences in ideology on race, economics and government. 
  <p class="updated_time"> 01:00 PM CT, Nov. 09 </p> 
  <a href="https://www.washingtonpost.com/politics/2021/11/09/democrat-republican-voters-survey/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Not just red and blue: Large survey explores factions within Democratic and Republican parties</a> WaPo: The Pew Research Center’s political typology survey shows what unites and divides each party. 
- <p class="updated_time"> 12:59 PM CT, Nov. 09 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-09/biden-trudeau-amlo-to-meet-as-north-american-borders-reopen">Biden, Trudeau, AMLO to Meet as North American Borders Reopen</a> Bloomberg: The leaders of the United States, Canada and Mexico plan to meet in-person for the first time in Joe Biden’s presidency as early as next week, according to two people familiar with the matter. 
  <p class="updated_time"> 12:39 PM CT, Nov. 09 </p> 
  <a href="https://www.nytimes.com/2021/11/09/us/politics/where-is-newsom-california.html">Where Is Gavin Newsom, California's Governor?</a> NYT: He’s in the office, according to increasingly frustrated staff members. But his critics on Twitter aren’t buying it. 
  <p class="updated_time"> 12:36 PM CT, Nov. 09 </p> 
