@@ -13,6 +13,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/08/world/europe/uk-brexit-estonia-business.html">Brexit Brain Drain  Delivers Financial Boon to Estonia</a> NYT: The former Soviet satellite state is welcoming British companies looking to escape the tangle of regulations and financial obstacles of doing business in Europe. 
  <p class="updated_time"> 08:32 AM CT, Nov. 10 </p> 
  <a href="https://www.bbc.co.uk/sport/football/59236410?at_medium=RSS&at_campaign=KARANGA">Aminata Diallo: Paris St-Germain player arrested as part of investigation into attack on team-mates</a> BBC: Paris St-Germain women's midfielder Aminata Diallo is arrested as part of an investigation into an attack on team-mates on 4 November. 
+ <p class="updated_time"> 08:23 AM CT, Nov. 10 </p> 
+ <a href="https://www.nytimes.com/2021/11/10/world/climate-change-activists-cop26.html">Young Climate Activists Say COP26 Has Unified Them</a> NYT: Young activists from across the world expressed disappointment at what they see as empty promises from world leaders. 
  <p class="updated_time"> 08:10 AM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/08/travel/usa-travel-restrictions.html">U.S. Allows Vaccinated Foreign Travelers to Enter</a> NYT: On Monday, after more than 18 months, restrictions that kept families separated and cost the global travel industry hundreds of billions of dollars were lifted. 
  <p class="updated_time"> 08:08 AM CT, Nov. 10 </p> 
@@ -179,8 +181,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/08/world/africa/oscar-pistorius-bladerunner-parole.html">Oscar Pistorius, Olympic Runner Convicted of Murder, Is Up for Parole</a> NYT: The double-amputee sprinter has served half his sentence for killing his girlfriend. His victim’s parents were said to be “shocked” at the prospect of his release. 
  <p class="updated_time"> 01:22 PM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/us/canada-travel.html">Thousands of Canadians Head for the Southern United States Again</a> NYT: With the border opening to tourists, thousands of Canadian “snowbirds” are on their way to Florida, Arizona and California with campers in tow. 
- <p class="updated_time"> 12:09 PM CT, Nov. 08 </p> 
- <a href="https://www.nytimes.com/2021/11/08/world/asia/new-zealand-ease-lockdown-restrictions.html">New Zealand's Biggest City Is to Ease Lockdown Restrictions</a> NYT: The lifting of rules comes as the country records some of its highest daily case numbers since the pandemic began. 
  <p class="updated_time"> 09:54 AM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/world/europe/europe-us-travel-ban.html">U.S. Travel Ban Ends, and Europeans Head Overseas Again</a> NYT: Europeans were kept apart from family and friends as the ban dragged on long after E.U. leaders had opened their borders. 
  <p class="updated_time"> 05:26 AM CT, Nov. 08 </p> 
@@ -206,6 +206,8 @@ permalink: /projects/news/
  <a href="https://www.bloomberg.com/news/articles/2021-11-10/court-orders-ex-mozambique-minister-be-extradited-to-u-s">Court Orders Ex-Mozambique Minister Be Extradited to U.S.</a> Bloomberg: A South African court ordered former Mozambican Finance Minister Manuel Chang be extradited to the U.S. to face charges related to a $2 billion debt scandal that led to a sovereign default. 
  <p class="updated_time"> 08:14 AM CT, Nov. 10 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rdMrFK63JMw/index.html">Is there a lane for Liz Cheney in New Hampshire in 2024?</a> CNN: Sometimes in politics it's not so much what you say, it's where you say it. 
+ <p class="updated_time"> 08:13 AM CT, Nov. 10 </p> 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-10/biden-plans-to-host-trudeau-amlo-at-white-house-summit-nov-18">Biden Plans to Host Trudeau, AMLO at White House Summit Nov. 18</a> Bloomberg: President Joe Biden will host a summit on Nov. 18 with Canadian Prime Minister Justin Trudeau and Mexican President Andrés Manuel López Obrador, the White House announced. 
  <p class="updated_time"> 08:12 AM CT, Nov. 10 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/V5nfxB5ZmBc/index.html">Biden administration to announce deal to provide J&J Covid-19 vaccine to people in conflict zones and humanitarian settings</a> CNN: The Biden administration will announce on Wednesday a new deal it brokered with Johnson & Johnson and Covax to provide J&J's Covid-19 vaccine to people in conflict zones and other humanitarian settings where government vaccine campaigns cannot reach, a White House official told CNN. 
  <p class="updated_time"> 08:08 AM CT, Nov. 10 </p> 
@@ -294,8 +296,6 @@ permalink: /projects/news/
  <a href="https://www.washingtonpost.com/politics/2021/11/10/robert-moses-saga-racist-parkway-bridges/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Robert Moses and the saga of the racist parkway bridges </a> WaPo: Transportation Secretary Pete Buttigieg referred to a famous anecdote in Robert Caro's biography of the master builder but historians increasingly question whether it is correct. 
  <p class="updated_time"> 02:00 AM CT, Nov. 10 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-10/poland-seeks-emergency-eu-summit-on-belarus-border-crisis">Putin Brushes Off Merkel’s Call to Stop Belarus on Migrants</a> Bloomberg: President Vladimir Putin brushed off a request by Chancellor Angela Merkel to exercise his influence over Belarus as the European Union prepares a fresh raft of sanctions against the regime in Minsk for channeling thousands of migrants to the bloc’s border. 
- <p class="updated_time"> 01:20 AM CT, Nov. 10 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-10/malaysia-indonesia-agree-to-start-vaccinated-travel-lanes">Malaysia, Indonesia Agree to Start Vaccinated Travel Lanes</a> Bloomberg: Malaysia and Indonesia plan to allow fully-vaccinated travelers to fly between the two nations, just days after a similar agreement was struck in one of the world’s busiest air routes. 
  <p class="updated_time"> 12:47 AM CT, Nov. 10 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-10/pakistan-top-court-calls-imran-khan-in-school-attack-case">Pakistan Court Asks Imran Khan to Probe Deadly School Attack</a> Bloomberg: Pakistan’s Supreme Court ordered Prime Minister Imran Khan to probe security lapses leading up to a deadly attack on a school by militants of a local Taliban affiliate seven years ago, even as his government holds peace talks with the militant group. 
  <p class="updated_time"> 12:26 AM CT, Nov. 10 </p> 
