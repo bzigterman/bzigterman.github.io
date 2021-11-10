@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:11 PM CT, Nov. 10 </p> 
+ <a href="https://www.nytimes.com/2021/11/10/us/politics/russia-blinken-ukraine.html">Blinken Warns Russia Against Making a ‘Serious Mistake’ in Ukraine</a> NYT: Appearing with Ukraine’s foreign minister, Secretary of State Antony J. Blinken said the intentions behind Moscow’s latest military buildup were unclear. 
  <p class="updated_time"> 04:57 PM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/world/europe/france-kamala-harris-macron.html">Harris Meets Macron, Signaling a ‘New Era’ After Sub Snub, Both Say</a> NYT: In her vague assignment abroad, the vice president seems to be emphasizing that the U.S.-France relationship is about looking forward, in the wake of an embarrassing diplomatic spat. 
  <p class="updated_time"> 04:55 PM CT, Nov. 10 </p> 
@@ -189,8 +191,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59205840?at_medium=RSS&at_campaign=KARANGA">Travis Scott festival tragedy: Were warning signs missed at Astroworld?</a> BBC: Concerns were raised before Travis Scott's fatal festival show. Could the tragedy have been averted? 
  <p class="updated_time"> 05:58 PM CT, Nov. 08 </p> 
  <a href="https://www.bbc.co.uk/news/business-59119693?at_medium=RSS&at_campaign=KARANGA">Climate change: Seven ways to spot businesses greenwashing</a> BBC: Firms often claim they are eco-friendly but how can you check they are as green as they make out? 
- <p class="updated_time"> 05:41 PM CT, Nov. 08 </p> 
- <a href="https://www.nytimes.com/2021/11/08/climate/emissions-climate-change.html">More Than 40 Nations Pledge to Cut Emissions From Their Health Industries</a> NYT: The plans, while short on specifics, represent a notable step toward cutting greenhouse gas emissions from hospitals and the health care industry, a sizable emitter globally. 
 
 
 </details>
@@ -200,8 +200,12 @@ permalink: /projects/news/
 
  <p class="updated_time"> 05:53 PM CT, Nov. 10 </p> 
  <a href="https://www.politico.com/news/2021/11/10/rent-inflation-biden-520642">Rent is Biden’s next inflation headache</a> Politico: The Biden administration has vowed to address the home affordability crisis in the U.S., but policies are still in development and will likely have a limited impact. 
+ <p class="updated_time"> 05:22 PM CT, Nov. 10 </p> 
+ <a href="https://www.nytimes.com/2021/11/10/business/economy/consumer-price-inflation-october.html">October 2021 CPI: Inflation Rose at Fastest Rate Since 1990</a> NYT: The Consumer Price Index rose 6.2 percent in October from a year earlier, its sharpest increase since 1990. That is bad news for President Biden and the Federal Reserve. 
  <p class="updated_time"> 05:16 PM CT, Nov. 10 </p> 
  <a href="https://www.politico.com/news/2021/11/10/ahmaud-arbery-mcmichael-shooting-520630">Defendant: Ahmaud Arbery `trapped like a rat’ before slaying</a> Politico: Testimony continues in the Georgia homicide case. 
+ <p class="updated_time"> 05:11 PM CT, Nov. 10 </p> 
+ <a href="https://www.nytimes.com/2021/11/10/us/politics/russia-blinken-ukraine.html">Blinken Warns Russia Against Making a ‘Serious Mistake’ in Ukraine</a> NYT: Appearing with Ukraine’s foreign minister, Secretary of State Antony J. Blinken said the intentions behind Moscow’s latest military buildup were unclear. 
  <p class="updated_time"> 05:04 PM CT, Nov. 10 </p> 
  <a href="https://www.politico.com/news/2021/11/10/kyle-rittenhouse-murder-case-520628">Rittenhouse murder case thrown into jeopardy by mistrial bid</a> Politico: “I didn’t do anything wrong. I defended myself,” the 18-year-old testified. 
  <p class="updated_time"> 05:02 PM CT, Nov. 10 </p> 
@@ -216,6 +220,8 @@ permalink: /projects/news/
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WKP1SiJR3Rg/index.html">'It's worrisome': Biden addresses inflation concerns during Baltimore speech</a> CNN: President Joe Biden takes his sales pitch for the newly passed bipartisan infrastructure deal on the road Wednesday, highlighting the effect of the bill on supply chains, hours after new inflation statistics revealed that America's prices are surging more than they have in 30 years. 
  <p class="updated_time"> 04:51 PM CT, Nov. 10 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Fkk7cswGtn0/index.html">Biden to hold signing ceremony on Monday for bipartisan infrastructure bill </a> CNN: President Joe Biden will sign the bipartisan infrastructure bill on Monday during a ceremony that will include members of Congress, governors and mayors from both parties, the White House announced on Wednesday. 
+ <p class="updated_time"> 04:47 PM CT, Nov. 10 </p> 
+ <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/C2Dp8mZY7t8/index.html">Sen. Burr's brother-in-law ordered to provide testimony in SEC insider trading investigation</a> CNN: A federal judge has ordered Sen. Richard Burr's brother-in-law to answer questions from the Securities and Exchange Commission, allowing the regulator to advance its investigation into their stock sales. 
  <p class="updated_time"> 04:37 PM CT, Nov. 10 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RnXygNpTqrg/index.html">January 6 committee interested in at least 5 people from Pence's inner circle</a> CNN: The House select committee investigating January 6 is interested in gathering information from at least five members of former Vice President Mike Pence's inner circle, according to three sources familiar with the effort. 
  <p class="updated_time"> 04:35 PM CT, Nov. 10 </p> 
@@ -228,8 +234,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/10/us/ruth-ann-minner-dead.html">Ruth Ann Minner, Down-to-Earth Governor of Delaware, Dies at 86</a> NYT: The first woman in that position, she rose from being a receptionist in the governor’s office to claiming the top job herself. 
  <p class="updated_time"> 04:17 PM CT, Nov. 10 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-10/republicans-blast-food-inflation-blame-biden-thanksgivingtax">Republicans Blast Food Inflation, Blame Biden #ThanksgivingTax</a> Bloomberg: Republicans are accusing President Joe Biden of compromising the most American of holidays, Thanksgiving. 
- <p class="updated_time"> 04:10 PM CT, Nov. 10 </p> 
- <a href="https://www.nytimes.com/2021/11/10/business/economy/consumer-price-inflation-october.html">October 2021 CPI: Inflation Rose at Fastest Rate Since 1990</a> NYT: The Consumer Price Index rose 6.2 percent in October from a year ago, its sharpest increase since 1990. That is bad news for President Biden and the Federal Reserve. 
  <p class="updated_time"> 04:02 PM CT, Nov. 10 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/jlB2NyuTf0c/index.html">A running list of who has received a subpoena from the House January 6 select committee </a> CNN: The committee investigating the deadly Capitol Hill riot on January 6 has as of publication issued 35 subpoenas to individuals and organizations as part of its probe into circumstances and coordination leading up to the storming of the US Capitol. 
  <p class="updated_time"> 04:00 PM CT, Nov. 10 </p> 
@@ -326,8 +330,6 @@ permalink: /projects/news/
  <a href="https://www.bloomberg.com/news/articles/2021-11-10/boeing-agrees-to-settlement-with-victims-in-ethiopia-air-crash">Boeing Reaches Liability Deal in Ethiopian Air Crash Suits</a> Bloomberg: Boeing Co. said it reached a legal settlement with families of those killed in the 2019 Ethiopian Airlines 737 Max jet crash, admitting the company’s liability and agreeing to negotiate compensation payouts in a Chicago court. 
  <p class="updated_time"> 12:00 PM CT, Nov. 10 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Zni31hTup8k/index.html">Family health care coverage at work tops $22,000 a year</a> CNN: Getting family health insurance on the job now costs workers and their employers more than $22,000 a year, on average. And companies have not been able to do much to make coverage more affordable, even though the coronavirus pandemic has reinforced the importance of health benefits. 
- <p class="updated_time"> 11:53 AM CT, Nov. 10 </p> 
- <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/xlrJM67R2rk/index.html">Civil rights groups say senators failed Americans on three key issues and demand action after blocked voting rights bill</a> CNN: US senators have failed to tackle key issues such as voting rights, according to a coalition of civil rights groups who released a report Wednesday grading lawmakers in the chamber on their voting record. 
  <p class="updated_time"> 11:45 AM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/us/politics/blinken-johnson-johnson-vaccine-covax.html">U.S. Has Deal to Send J.&J. Covid Vaccine to Conflict Zones, Blinken Says</a> NYT: Secretary of State Antony J. Blinken stressed the need to extend vaccine access to people living in areas unreachable by government-run programs. 
  <p class="updated_time"> 11:43 AM CT, Nov. 10 </p> 
@@ -396,8 +398,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/10/1054137225/nearly-1-million-kids-ages-5-11-will-have-their-first-covid-shots-by-the-end-of-">Nearly 1 million kids ages 5-11 will have their first COVID shots by the end of today</a> NPR: About 3% of children in the age group authorized last week to get a low-dose vaccine will have their first shots by Wednesday, according to the White House. 
  <p class="updated_time"> 04:00 AM CT, Nov. 10 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-10/a-rare-port-success-story-is-chance-for-biden-to-tout-his-plans">A Rare Port Success Story Is a Chance for Biden to Tout His Plans</a> Bloomberg: Bottlenecks and failures abound in the U.S. supply chain. Then there’s the Port of Baltimore. 
- <p class="updated_time"> 03:20 AM CT, Nov. 10 </p> 
- <a href="https://www.nytimes.com/2021/11/09/us/politics/where-is-newsom-california.html">Where Is Gavin Newsom, California's Governor?</a> NYT: He’s in the office, according to increasingly frustrated staff members. But his critics on Twitter aren’t buying it. 
  <p class="updated_time"> 02:00 AM CT, Nov. 10 </p> 
  <a href="https://www.washingtonpost.com/politics/2021/11/10/robert-moses-saga-racist-parkway-bridges/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Robert Moses and the saga of the racist parkway bridges </a> WaPo: Transportation Secretary Pete Buttigieg referred to a famous anecdote in Robert Caro's biography of the master builder but historians increasingly question whether it is correct. 
  <p class="updated_time"> 02:00 AM CT, Nov. 10 </p> 
