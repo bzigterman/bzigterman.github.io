@@ -7,14 +7,18 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:06 PM CT, Nov. 09 </p> 
+ <a href="https://www.nytimes.com/2021/11/09/world/europe/malala-yousafzai-married.html">Malala Yousafzai Is Married in England</a> NYT: Ms. Yousafzai, a Pakistani activist and the youngest-ever recipient of a Nobel Peace Prize, married her partner at a small ceremony in Birmingham, England, she said on Twitter. 
+ <p class="updated_time"> 09:03 PM CT, Nov. 09 </p> 
+ <a href="https://www.nytimes.com/2021/11/09/world/europe/england-health-workers-vaccine-mandate.html">England Will Require N.H.S. Workers to Be Vaccinated by April</a> NYT:   
+ <p class="updated_time"> 08:59 PM CT, Nov. 09 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-59229371?at_medium=RSS&at_campaign=KARANGA">Mostafa Baluch: Australian fugitive arrested after massive manhunt</a> BBC: Mostafa Baluch sparked a 17-day nationwide manhunt after allegedly cutting off a tracking bracelet. 
  <p class="updated_time"> 08:06 PM CT, Nov. 09 </p> 
  <a href="https://www.nytimes.com/2021/11/09/world/asia/afghan-pilots-tajikistan-taliban.html">Afghan Pilots Who Escaped Taliban Are Flown Out of Tajikistan</a> NYT: More than 140 Afghan Air Force pilots and crew members were evacuated to the United Arab Emirates three months after flying into Tajikistan to escape the Taliban. 
  <p class="updated_time"> 08:05 PM CT, Nov. 09 </p> 
  <a href="https://www.nytimes.com/2021/11/09/climate/africa-fossil-fuel-gas-cop26.html">Africa's Leaders Say Rich Countries Need to Quit Oil and Gas First</a> NYT: As negotiators at the Glasgow climate talks try to agree on greenhouse gas cuts, African leaders say poorer countries can’t be expected to remake their systems as quickly as wealthy ones. 
  <p class="updated_time"> 07:38 PM CT, Nov. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59229044?at_medium=RSS&at_campaign=KARANGA">Harry says he warned Twitter boss ahead of Capitol riot</a> BBC: The Duke of Sussex reveals his coup warning to Jack Dorsey came a day before the 6 January unrest. 
- <p class="updated_time"> 07:37 PM CT, Nov. 09 </p> 
- <a href="https://www.nytimes.com/2021/11/09/world/europe/malala-yousafzai-married.html">Malala Yousafzai Is Married in England</a> NYT: Ms. Yousafzai, a Pakistani activist and the youngest-ever recipient of a Nobel Peace Prize, married her partner at a small ceremony in Birmingham, England, she said on Twitter. 
  <p class="updated_time"> 07:16 PM CT, Nov. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59228451?at_medium=RSS&at_campaign=KARANGA">Last rites rights of condemned around the world</a> BBC: A US death row inmate is fighting for a last rite. What rights to the condemned have around the world? 
  <p class="updated_time"> 06:33 PM CT, Nov. 09 </p> 
@@ -39,6 +43,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/09/world/africa/ethiopia-united-nations.html">Ethiopia Seizes 16 UN Workers Amid Efforts to Halt Tigray War</a> NYT: The detentions aggravated the already tense relations between the United Nations and the Ethiopian government over war and famine in the country’s northern Tigray region. 
  <p class="updated_time"> 04:55 PM CT, Nov. 09 </p> 
  <a href="https://www.bbc.co.uk/news/uk-england-birmingham-59227513?at_medium=RSS&at_campaign=KARANGA">Nobel Peace Prize winner Malala ties the knot in Birmingham ceremony</a> BBC: The activist and her partner Asser Malik celebrate a nikkah ceremony with family in Birmingham. 
+ <p class="updated_time"> 04:12 PM CT, Nov. 09 </p> 
+ <a href="https://www.nytimes.com/2021/11/09/world/europe/france-vaccine-booster.html">Macron announces a new vaccine rule for people 65 or older in France.</a> NYT: Though the country has a high vaccination rate, new coronavirus cases and hospital admissions have been increasing in recent weeks. 
  <p class="updated_time"> 04:06 PM CT, Nov. 09 </p> 
  <a href="https://www.npr.org/2021/11/09/1054032279/ugandas-vanessa-nakate-says-cop26-sidelines-nations-most-affected-by-climate-cha">Uganda's Vanessa Nakate says COP26 sidelines nations most affected by climate change</a> NPR: NPR's Ari Shapiro speaks with climate activist Vanessa Nakate of Uganda about her goals in bringing the needs of the global south to the fore at the United Nations climate change conference, COP26. 
  <p class="updated_time"> 04:05 PM CT, Nov. 09 </p> 
@@ -57,8 +63,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/09/world/europe/poland-belarus-border-crisis.html">E.U. Blames Belarus for Migrant Crisis at Poland Border</a> NYT: Poland has massed troops at the border, the European Union’s eastern frontier, to keep migrants camped there from crossing into the country. 
  <p class="updated_time"> 03:05 PM CT, Nov. 09 </p> 
  <a href="https://www.nytimes.com/2021/11/09/world/europe/poland-belarus-border-crisis.html">E.U. Blames Belarus for Migrant Crisis at Poland Border</a> NYT: Poland has massed troops at the border, the European Union’s eastern frontier, to keep migrants camped there from crossing into the country. 
- <p class="updated_time"> 02:59 PM CT, Nov. 09 </p> 
- <a href="https://www.nytimes.com/2021/11/09/world/europe/england-health-workers-vaccine-mandate.html">England Will Require N.H.S. Workers to Be Vaccinated by April</a> NYT: About 80,000 to 100,000 National Health Service workers in the country remain unvaccinated against the coronavirus. 
  <p class="updated_time"> 02:44 PM CT, Nov. 09 </p> 
  <a href="https://www.nytimes.com/2021/11/09/world/americas/canada-pfizer-booster-adults.html">Canada Approves Pfizer Boosters for Adults</a> NYT: Some provinces have already started to offer booster shots to higher-risk populations. Tuesday’s announcement standardizes eligibility criteria nationwide. 
  <p class="updated_time"> 02:23 PM CT, Nov. 09 </p> 
@@ -113,8 +117,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/u-s-canada-border-opening-sends-snowbirds-south-11636484009">U.S.-Canada Border Opening Sends Snowbirds Cruising South</a> WSJ: Canadians are again driving to the U.S. to escape a harsh winter, and businesses in Florida and other states are eager to welcome them. 
  <p class="updated_time"> 07:05 AM CT, Nov. 09 </p> 
  <a href="https://www.nytimes.com/2021/11/09/us/myrtle-beach-trash-can-ireland.html">A Trash Can From Myrtle Beach Washed Up in Ireland</a> NYT: “It reminded me straight away of maybe like a message in a bottle type scenario,” said Keith McGreal, who discovered the bin on Sunday afternoon while strolling on a beach with his family. 
- <p class="updated_time"> 05:56 AM CT, Nov. 09 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-59218522?at_medium=RSS&at_campaign=KARANGA">Tiger King 2: Carole Baskin has 'no claim' to sue over footage - Netflix</a> BBC: Tiger King's Carole Baskin is trying to sue Netflix for using footage of her in the new series. 
  <p class="updated_time"> 05:24 AM CT, Nov. 09 </p> 
  <a href="https://www.wsj.com/articles/iraq-struggles-to-control-iran-allied-militias-believed-responsible-for-attack-on-prime-minister-11636475084">Iraq Struggles to Control Iran-Allied Militias</a> WSJ: Iraqi officials are grappling with how to contain Iran-backed militias after a drone attack on the Iraqi premier’s residence highlighted the enduring threat the paramilitary groups pose to the Middle Eastern state. 
  <p class="updated_time"> 05:14 AM CT, Nov. 09 </p> 
@@ -183,8 +185,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/08/world/asia/new-zealand-ease-lockdown-restrictions.html">New Zealand's Biggest City Is to Ease Lockdown Restrictions</a> NYT: The lifting of rules comes as the country records some of its highest daily case numbers since the pandemic began. 
  <p class="updated_time"> 09:54 AM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/world/europe/europe-us-travel-ban.html">U.S. Travel Ban Ends, and Europeans Head Overseas Again</a> NYT: Europeans were kept apart from family and friends as the ban dragged on long after E.U. leaders had opened their borders. 
- <p class="updated_time"> 07:20 AM CT, Nov. 08 </p> 
- <a href="https://www.nytimes.com/2021/11/07/travel/us-travel-ban-reunions.html">As U.S. Travel Changes Near, Global Travelers Eagerly Await Reunions</a> NYT: On Monday, travelers from many other countries who are fully vaccinated against the coronavirus will be allowed to enter the United States. 
  <p class="updated_time"> 05:26 AM CT, Nov. 08 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59206814?at_medium=RSS&at_campaign=KARANGA">COP26: Rich countries ‘pushing back’ on paying for climate loss</a> BBC: Poorer countries say they are not able to get compensation for the damage caused by climate change. 
  <p class="updated_time"> 04:00 AM CT, Nov. 08 </p> 
@@ -197,12 +197,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/07/world/asia/afghan-pilots-taliban-us.html">Afghan Military Pilots, on the Run, Feel Abandoned by U.S.</a> NYT: Detained in Tajikistan, or hiding from the Taliban in Afghanistan, many pilots wonder why the military that trained them is not coming to their aid. 
  <p class="updated_time"> 01:17 PM CT, Nov. 07 </p> 
  <a href="https://www.nytimes.com/2021/11/07/us/politics/afghanistan-war-marines.html">Young Marines in Kabul Were Left to Run Final Days of Evacuation</a> NYT: The young Marines in Kabul were left to determine who was evacuated from Afghanistan and who was left behind. The cost was high. 
- <p class="updated_time"> 09:48 AM CT, Nov. 07 </p> 
- <a href="https://www.nytimes.com/2021/11/07/world/europe/korea-sakhalin-japan-russia.html">What’s in a Name? For the Koreans of Sakhalin, an Anguished History</a> NYT: Stranded for decades on the island in Russia’s Far East, some bear three names, Japanese, Russian and Korean, representing different historical chapters. Now, many are planning their return. 
- <p class="updated_time"> 06:33 AM CT, Nov. 07 </p> 
- <a href="https://www.nytimes.com/2021/11/07/world/asia/myanmar-bill-richardson.html">Veteran U.S. Diplomat Comes Under Criticism for a Trip to Myanmar</a> NYT: Bill Richardson, a former ambassador to the U.N., said that he had held “productive” talks with the general who led the February coup. Rights activists said he gave the junta an air of legitimacy. 
- <p class="updated_time"> 04:00 AM CT, Nov. 07 </p> 
- <a href="https://www.nytimes.com/2021/11/07/science/antarctica-wildfires.html">Antarctica Was Once a Land of Fire and Not Ice</a> NYT: Charcoal recovered from a dig near the southern continent shows that the region wasn’t spared from the era scientists call a “super fire world.” 
 
 
 </details>
@@ -212,8 +206,12 @@ permalink: /projects/news/
 
  <p class="updated_time"> 09:29 PM CT, Nov. 09 </p> 
  <a href="https://www.politico.com/news/2021/11/09/trump-executive-privilege-court-ruling-kings-520512">Trump cannot shield White House records from Jan. 6 committee, judge rules</a> Politico: “Presidents are not kings, and Plaintiff is not President,” Judge Tanya Chutkan wrote in her ruling. 
+ <p class="updated_time"> 08:58 PM CT, Nov. 09 </p> 
+ <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9Ywn1LhMhso/index.html">Federal judge denies Trump's attempt to withhold records from January 6 committee</a> CNN: Federal Judge Tanya Chutkan has ruled that the House select committee investigating the January 6 riot at the US Capitol should have access to records related to the attack from Donald Trump's presidency. 
  <p class="updated_time"> 08:57 PM CT, Nov. 09 </p> 
  <a href="https://www.politico.com/news/2021/11/09/brian-williams-leave-nbc-news-520551">Brian Williams says he’s leaving NBC News at end of year</a> Politico: “I’ll pop up again somewhere,” he said. 
+ <p class="updated_time"> 08:55 PM CT, Nov. 09 </p> 
+ <a href="https://www.nytimes.com/2021/11/09/us/politics/trump-january-6-committee.html">Judge Rejects Trump’s Bid to Keep Papers Secret in Jan. 6 Inquiry</a> NYT: But a Trump lawyer has signaled an intent to appeal the ruling, which raises novel issues about an ex-president’s executive privilege powers. 
  <p class="updated_time"> 08:51 PM CT, Nov. 09 </p> 
  <a href="https://www.politico.com/news/2021/11/09/businesses-biden-covid-vaccine-rule-520548">Businesses warn of 'irreparable harm' if no permanent stay of Biden vaccine rule</a> Politico: The emergency rules released by the Department of Labor last week require private businesses with more than 100 employees to ensure their workers are vaccinated or have them submit to weekly testing by Jan. 4. 
  <p class="updated_time"> 08:44 PM CT, Nov. 09 </p> 
@@ -226,6 +224,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/09/trump-endorsement-mcgeachin-little-idaho-520544">Trump endorses rival against Idaho Gov. Brad Little</a> Politico: The former president is backing Lt. Gov. Janice McGeachin, who has sought to undermine the current governor. 
  <p class="updated_time"> 08:19 PM CT, Nov. 09 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-10/trump-fails-to-block-jan-6-committee-from-getting-documents">Trump Fails to Block Jan. 6 Committee From Getting Records</a> Bloomberg: Former President Donald Trump failed to block the release of documents sought by a U.S. House panel investigating the Jan. 6 Capitol riot. 
+ <p class="updated_time"> 08:12 PM CT, Nov. 09 </p> 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-10/china-friendly-lawmaker-to-be-japan-foreign-minister-kyodo-says">China-Friendly Lawmaker to Be Japan Foreign Minister, Kyodo Says</a> Bloomberg: Japanese Prime Minister Fumio Kishida will appoint a China-friendly veteran lawmaker to the post of foreign minister on Wednesday, according to reports from Kyodo News and other media. 
  <p class="updated_time"> 08:01 PM CT, Nov. 09 </p> 
  <a href="https://www.washingtonpost.com/politics/republicans-infrastructure-biden/2021/11/09/cc0c4c9e-4167-11ec-9ea7-3eb2406a2e24_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Tensions rise among Republicans over infrastructure bill and whether any agreement with Biden should be tolerated</a> WaPo: For Donald Trump and many Republicans, their love of infrastructure has turned to loathing now that it bears President Biden’s imprimatur. 
  <p class="updated_time"> 07:37 PM CT, Nov. 09 </p> 
@@ -420,8 +420,6 @@ permalink: /projects/news/
  <a href="https://www.bloomberg.com/news/articles/2021-11-09/brazil-congress-to-resume-voting-on-bill-that-eases-fiscal-rule">Brazil’s Lower House Approves Proposal That Eases Austerity Law</a> Bloomberg: Brazil’s lower house of congress passed a controversial proposal that bends the country’s fiscal rules to finance a new social program President Jair Bolsonaro is launching ahead of his 2022 re-election campaign. 
  <p class="updated_time"> 08:55 AM CT, Nov. 09 </p> 
  <a href="https://www.npr.org/2021/11/09/1053847935/congress-cars-drunk-driving-auto">Congress' new mandate to carmakers: Figure out a way to stop drunk driving</a> NPR: Under the legislation, monitoring systems to stop intoxicated drivers would roll out in all new vehicles as early as 2026. "It's monumental," said Alex Otte of Mothers Against Drunk Driving. 
- <p class="updated_time"> 08:51 AM CT, Nov. 09 </p> 
- <a href="https://www.nytimes.com/2021/11/08/arts/critical-race-theory-bans.html">Bans on Critical Race Theory Threaten Free Speech, Advocacy Group Says</a> NYT: A report by PEN America, which surveys more than 50 bills proposed across the country, appeals to a principle that has lost its luster for many on the left and right. 
  <p class="updated_time"> 07:24 AM CT, Nov. 09 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/11/09/senate-schedule-seasonally-depressing-495031">Senate schedule: seasonally depressing</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:19 AM CT, Nov. 09 </p> 
@@ -444,8 +442,6 @@ permalink: /projects/news/
  <a href="https://www.bloomberg.com/news/articles/2021-11-09/china-s-politics-enter-turbulent-period-as-xi-pushes-for-control">China’s Politics Enter Turbulent Period as Xi Pushes for Control</a> Bloomberg: Party probes and&nbsp;power games ramp up ahead of a landmark leadership congress next year 
  <p class="updated_time"> 04:04 AM CT, Nov. 09 </p> 
  <a href="https://www.npr.org/2021/11/09/1053792399/morning-news-brief">News brief: Jan. 6 subpoenas, Supreme Court preview, India's climate challenge</a> NPR: The Jan. 6 House panel issues more subpoenas for ex-Trump officials. A look at  two cases before the Supreme Court Tuesday. And, India's rapid development has left it with many environmental issues. 
- <p class="updated_time"> 01:58 AM CT, Nov. 09 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-09/european-gas-price-slides-on-signs-some-russian-flows-increase">European Gas Slides as Russia Progressively Steps Up Exports</a> Bloomberg: European natural gas prices slipped on signs Russia may be starting to gradually deliver the boost in supplies President Vladimir Putin promised. 
  <p class="updated_time"> 11:43 PM CT, Nov. 08 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ocUa0LJQ22A/index.html">GOP Rep. Fred Upton details threatening voicemail he received after voting for bipartisan infrastructure bill</a> CNN: Republican Rep. Fred Upton on Monday shared a threatening voicemail he had received after voting for the bipartisan infrastructure bill last week. 
  <p class="updated_time"> 10:14 PM CT, Nov. 08 </p> 
