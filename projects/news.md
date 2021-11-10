@@ -194,6 +194,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/11/10/new-reminders-that-this-is-not-normal-495046">POLITICO Playbook: New reminders that this is not normal</a> Politico: And a new poll shows Biden's vaccine mandate losing support. 
  <p class="updated_time"> 06:00 AM CT, Nov. 10 </p> 
  <a href="https://www.politico.com/news/2021/11/10/136-countries-agreed-to-a-global-minimum-corporate-tax-rate-what-now-520418">136 countries agreed to a global minimum corporate tax rate. What now?</a> Politico: No one hands over billions of dollars in tax revenue without a fight. 
+ <p class="updated_time"> 05:19 AM CT, Nov. 10 </p> 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-10/swedish-government-clinches-deal-that-paves-the-way-for-new-pm">Swedish Government Clinches Deal That Paves the Way for New PM</a> Bloomberg: Sweden’s Center Party won’t seek to block Magdalena Andersson as the successor to current prime minister Stefan Lofven after it secured key concessions from the government. 
  <p class="updated_time"> 05:06 AM CT, Nov. 10 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/oA3Ov7QYfl8/index.html">Three out of four adults think Facebook is making society worse</a> CNN: Roughly three-quarters of adults believe Facebook is making American society worse, a new CNN poll conducted by SSRS finds, with about half saying they know somebody who was persuaded to believe in a conspiracy theory because of the site's content. 
  <p class="updated_time"> 04:59 AM CT, Nov. 10 </p> 
@@ -253,7 +255,7 @@ permalink: /projects/news/
  <p class="updated_time"> 12:26 AM CT, Nov. 10 </p> 
  <a href="https://www.politico.com/news/2021/11/10/jan6-shaman-sentencing-recommendation-520570">51-month sentence urged for ‘QAnon Shaman’ Jacob Chansley</a> Politico: “Defendant Chansley’s now-famous criminal acts have made him the public face of the Capitol riot,” prosecutors said. 
  <p class="updated_time"> 12:19 AM CT, Nov. 10 </p> 
- <a href="https://www.npr.org/2021/11/10/1054138601/judge-rejects-trumps-bid-to-block-release-of-jan-6-documents">Judge rejects Trump's bid to block release of Jan. 6 documents</a> NPR: In a ruling issued Tuesday, U.S. District Judge Tanya Chutkan said records of interest can be released to the panel overseeing the probe into the Jan. 6 riots at the U.S. Capitol. 
+ <a href="https://www.npr.org/2021/11/10/1054138601/judge-rejects-trumps-bid-to-block-release-of-jan-6-documents">Judge rejects Trump's bid to block release of Jan. 6 documents</a> NPR: In a ruling issued Tuesday, U.S. District Court Judge Tanya Chutkan said records of interest can be released to the panel overseeing the probe into the Jan. 6 riots at the U.S. Capitol. 
  <p class="updated_time"> 12:03 AM CT, Nov. 10 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/V8W_Di14YEM/index.html">Analysis: Extremists seize back control of the Republican Party's message machine</a> CNN: So much for the Republican Party being all about the future. 
  <p class="updated_time"> 11:56 PM CT, Nov. 09 </p> 
@@ -292,8 +294,6 @@ permalink: /projects/news/
  <a href="https://www.washingtonpost.com/politics/gop-rep-fred-upton-receives-death-threats-after-voting-for-bipartisan-infrastructure-deal/2021/11/09/78fe5ac8-4195-11ec-9ea7-3eb2406a2e24_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">GOP Rep. Fred Upton receives death threats after voting for bipartisan infrastructure deal</a> WaPo: The Michigan Republican said the threats began after Rep. Marjorie Taylor Greene (R-Ga.) tweeted the names and office phone numbers of House Republicans who backed the bill. 
  <p class="updated_time"> 08:21 PM CT, Nov. 09 </p> 
  <a href="https://www.politico.com/news/2021/11/09/trump-endorsement-mcgeachin-little-idaho-520544">Trump endorses rival against Idaho Gov. Brad Little</a> Politico: The former president is backing Lt. Gov. Janice McGeachin, who has sought to undermine the current governor. 
- <p class="updated_time"> 08:19 PM CT, Nov. 09 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-10/trump-fails-to-block-jan-6-committee-from-getting-documents">Trump Fails to Block Jan. 6 Committee From Getting Records</a> Bloomberg: Former President Donald Trump failed to block the release of documents sought by a U.S. House panel investigating the Jan. 6 Capitol riot. 
  <p class="updated_time"> 08:12 PM CT, Nov. 09 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-10/china-friendly-lawmaker-to-be-japan-foreign-minister-kyodo-says">China-Friendly Lawmaker Appointed Japan Foreign Minister</a> Bloomberg: Japanese Prime Minister Fumio Kishida appointed a China-friendly veteran lawmaker to the post of foreign minister on Wednesday, balancing out more hawkish politicians picked for other senior positions. 
  <p class="updated_time"> 08:01 PM CT, Nov. 09 </p> 
