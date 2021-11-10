@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:44 PM CT, Nov. 09 </p> 
+ <a href="https://www.nytimes.com/2021/11/09/climate/alexandria-ocasio-cortez-cop26.html">‘America Is Back’ Pelosi Says at Glasgow Climate Talks</a> NYT: Representative Alexandria Ocasio-Cortez was among a group of Democratic lawmakers who traveled with Ms. Pelosi to barnstorm the COP26 climate summit. 
+ <p class="updated_time"> 10:41 PM CT, Nov. 09 </p> 
+ <a href="https://www.bbc.co.uk/news/technology-59222749?at_medium=RSS&at_campaign=KARANGA">Apple's original computer fetches $400,000 at US auction</a> BBC: The still functioning wood-cased Apple-1 was built by Steve Wozniak and Steve Jobs back in 1976. 
  <p class="updated_time"> 09:45 PM CT, Nov. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59227425?at_medium=RSS&at_campaign=KARANGA">Capitol riot: Judge rejects Trump bid to withhold records</a> BBC: "Presidents are not kings, and Plaintiff is not President," the ruling says of Mr Trump. 
  <p class="updated_time"> 09:20 PM CT, Nov. 09 </p> 
@@ -41,7 +45,7 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59229041?at_medium=RSS&at_campaign=KARANGA">Covid: France brings in booster requirement for over 65s</a> BBC: From 15 December, proof of a booster jab will be needed to visit restaurants and museums, or travel. 
  <p class="updated_time"> 05:26 PM CT, Nov. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59228831?at_medium=RSS&at_campaign=KARANGA">Astroworld: Travis Scott should have stopped concert earlier, says fire chief</a> BBC: The US rapper had a responsibility to fans at his Astroworld event in which eight people were killed. 
- <p class="updated_time"> 05:23 PM CT, Nov. 09 </p> 
+ <p class="updated_time"> 05:24 PM CT, Nov. 09 </p> 
  <a href="https://www.nytimes.com/2021/11/09/world/africa/ethiopia-united-nations.html">Ethiopia Seizes 16 UN Workers Amid Efforts to Halt Tigray War</a> NYT: The detentions aggravated the already tense relations between the United Nations and the Ethiopian government over war and famine in the country’s northern Tigray region. 
  <p class="updated_time"> 04:55 PM CT, Nov. 09 </p> 
  <a href="https://www.bbc.co.uk/news/uk-england-birmingham-59227513?at_medium=RSS&at_campaign=KARANGA">Nobel Peace Prize winner Malala ties the knot in Birmingham ceremony</a> BBC: The activist and her partner Asser Malik celebrate a nikkah ceremony with family in Birmingham. 
@@ -77,8 +81,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/09/world/asia/india-hospital-fire.html">India Hospital Fire Leaves at Least 4 Infants Dead</a> NYT: The blaze, in a hospital in central India on Monday night, was the latest in a series of deadly fires at health care centers in recent months. 
  <p class="updated_time"> 01:39 PM CT, Nov. 09 </p> 
  <a href="https://www.npr.org/2021/11/09/1053656078/young-indigenous-activists-united-in-climate-cause-at-cop26-summit">Indigenous activists are united in a cause and are making themselves heard at COP26</a> NPR: Indigenous activists from around the world are in Glasgow for COP26, but say the same legacy of colonialism that has led to climate-related losses has impacted their access to the conference. 
- <p class="updated_time"> 01:34 PM CT, Nov. 09 </p> 
- <a href="https://www.nytimes.com/2021/11/09/climate/alexandria-ocasio-cortez-cop26.html">‘America Is Back’ Pelosi Says at Glasgow Climate Talks</a> NYT: Representative Alexandria Ocasio-Cortez was among a group of Democratic lawmakers who traveled with Ms. Pelosi to barnstorm the COP26 climate summit. 
  <p class="updated_time"> 01:10 PM CT, Nov. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59210425?at_medium=RSS&at_campaign=KARANGA">French 17-year-old feared abducted while jogging</a> BBC: Search teams with rescue dogs are scouring woodland after the disappearance of a 17-year-old woman. 
  <p class="updated_time"> 12:06 PM CT, Nov. 09 </p> 
@@ -109,8 +111,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/09/science/new-zealand-sea-lions.html">New Zealand’s Sea Lions Are Back, and Crashing Golf Courses and Soccer Matches</a> NYT: After their populations were decimated by hunters, New Zealand’s sea lions are returning to the coasts — sometimes surprising locals by turning up in unexpected places. 
  <p class="updated_time"> 09:55 AM CT, Nov. 09 </p> 
  <a href="https://www.wsj.com/articles/russia-keeps-europe-guessing-with-tight-gas-supplies-11636463284">Russia Keeps Europe Guessing With Tight Gas Supplies</a> WSJ: President Vladimir Putin said last month that Russia, which supplies almost half of Europe’s gas imports, would boost deliveries to stabilize the market, as prices are high and reserves are low ahead of the European winter. 
- <p class="updated_time"> 09:17 AM CT, Nov. 09 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59216106?at_medium=RSS&at_campaign=KARANGA">Man shot by Kyle Rittenhouse says he pointed own gun amid fears for life</a> BBC: Gaige Grosskreutz says he believed Kyle Rittenhouse was an "active shooter" and was trying to disarm him. 
  <p class="updated_time"> 08:47 AM CT, Nov. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59225086?at_medium=RSS&at_campaign=KARANGA">Toxic foam covers sacred Yamuna river in India</a> BBC: Hindu devotees are filmed bathing in the Yamuna river to mark the Chhath Puja religious festival. 
  <p class="updated_time"> 08:01 AM CT, Nov. 09 </p> 
