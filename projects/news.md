@@ -7,8 +7,14 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:51 AM CT, Nov. 10 </p> 
+ <p class="updated_time"> 12:03 PM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/live/2021/11/10/world/poland-belarus-border-migrants">Live Updates: Crisis on Europe’s Eastern Flank Deepens as Tension Escalates at Polish Border</a> NYT: Western officials accuse the leader of Belarus of sending migrants to E.U. borders as retaliation for sanctions. E.U. officials expressed support for Poland. Lithuania, which also borders Belarus, declared a state of emergency. 
+ <p class="updated_time"> 12:00 PM CT, Nov. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59239973?at_medium=RSS&at_campaign=KARANGA">Ex-French president Francois Hollande testifies over 2015 Paris attacks</a> BBC: Francois Hollande tells the trial over the 2015 IS attacks that they couldn't have been prevented. 
+ <p class="updated_time"> 11:57 AM CT, Nov. 10 </p> 
+ <a href="https://www.nytimes.com/2021/11/10/world/asia/vietnam-communist-gold-steak-saltbae.html">Video of Salt Bae Serving Communist Leader Gold Steak Prompts Anger in Vietnam</a> NYT: A celebrity chef showed the meal in a TikTok video, now removed, that angered people in Vietnam. Facebook said it was investigating why the chef’s hashtag was blocked from its site. 
+ <p class="updated_time"> 11:50 AM CT, Nov. 10 </p> 
+ <a href="https://www.npr.org/2021/11/10/1054296657/u-k-will-save-its-red-phone-kiosks">The U.K. will save thousands of its iconic red phone kiosks from being shut down</a> NPR: Thousands of the U.K.'s famous red public phone booths will be kept in service, despite lagging use. Regulators say they still play a vital role in emergencies. 
  <p class="updated_time"> 11:45 AM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/09/science/new-zealand-sea-lions.html">New Zealand’s Sea Lions Are Back, and Crashing Golf Courses and Soccer Matches</a> NYT: After their populations were decimated by hunters, New Zealand’s sea lions are returning to the coasts — sometimes surprising locals by turning up in unexpected places. 
  <p class="updated_time"> 11:13 AM CT, Nov. 10 </p> 
@@ -45,8 +51,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/10/travel/fly-fishing-italy.html">The Joy of Fly Fishing in Italy</a> NYT: Italy is not often mentioned as a fly fishing destination, but the wonder of Italian alpine fishing is now making itself known. 
  <p class="updated_time"> 09:30 AM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/08/us/politics/justice-dept-ransomware.html">Justice Dept. Brings New Charges in Ransomware Attacks</a> NYT: The department said it had charged a Russian national in one attack and recovered $6.1 million in ransom. It also arrested a Ukrainian man for another attack. 
- <p class="updated_time"> 09:24 AM CT, Nov. 10 </p> 
- <a href="https://www.nytimes.com/2021/11/10/world/asia/vietnam-communist-gold-steak-saltbae.html">Video of Salt Bae Serving Communist Leader Gold Steak Prompts Anger in Vietnam</a> NYT: A celebrity chef showed the meal in a TikTok video, now removed, that angered people in Vietnam. Facebook said it was investigating why the chef’s hashtag was blocked from its site. 
  <p class="updated_time"> 09:17 AM CT, Nov. 10 </p> 
  <a href="https://www.npr.org/2021/11/10/1054237391/chile-president-impeached-pandora-papers-sebastian-pinera">Chile's president has been impeached over the Pandora Papers allegations</a> NPR: The impeachment sets up a Senate trial over whether to remove Sebastián Piñera over allegations he favored the sale of a family property while in office. The effort has 24 of the needed 29 votes. 
  <p class="updated_time"> 09:15 AM CT, Nov. 10 </p> 
@@ -77,8 +81,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/10/world/asia/covid-china-shenyang-quarantine.html">This Chinese City Requires 28 Days of Quarantine. Then Another 28.</a> NYT: The restrictions in Shenyang are a stark example of how seriously officials are taking the country’s “zero Covid” approach to the pandemic. 
  <p class="updated_time"> 06:30 AM CT, Nov. 10 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59231636?at_medium=RSS&at_campaign=KARANGA">Horse trading set to begin over agreement at COP26</a> BBC: The release of a draft text for the COP26 agreement signals the start of serious negotiations. 
- <p class="updated_time"> 06:22 AM CT, Nov. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-59233232?at_medium=RSS&at_campaign=KARANGA">Haiti water shortage: 'We pray for rain every day'</a> BBC: A fuel shortage caused by gangs blocking distribution terminals is also affecting water supplies. 
  <p class="updated_time"> 05:49 AM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/world/asia/danny-fenster-american-journalist-myanmar.html">American Journalist Held in Myanmar Faces 2 New Charges</a> NYT: Prosecutors filed charges of terrorism and sedition against the journalist Danny Fenster, who once worked at a hard-hitting news outlet hated by Myanmar’s governing military. 
  <p class="updated_time"> 05:07 AM CT, Nov. 10 </p> 
@@ -177,8 +179,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/business-59119693?at_medium=RSS&at_campaign=KARANGA">Climate change: Seven ways to spot businesses greenwashing</a> BBC: Firms often claim they are eco-friendly but how can you check they are as green as they make out? 
  <p class="updated_time"> 05:41 PM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/climate/emissions-climate-change.html">More Than 40 Nations Pledge to Cut Emissions From Their Health Industries</a> NYT: The plans, while short on specifics, represent a notable step toward cutting greenhouse gas emissions from hospitals and the health care industry, a sizable emitter globally. 
- <p class="updated_time"> 03:59 PM CT, Nov. 08 </p> 
- <a href="https://www.npr.org/2021/11/08/1053647290/computer-chip-makers-cant-share-all-the-data-the-u-s-wants-for-examining-shortag">Computer chip makers can't share all the data the U.S. wants for examining shortages</a> NPR: The Commerce Department wants semiconductor makers to provide details on their products and customers in a bid to understand what's causing bottlenecks. Many companies say it may reveal trade secrets. 
  <p class="updated_time"> 03:55 PM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/world/middleeast/nso-israel-palestinians-spyware.html">Despite Abuses of NSO Spyware, Israel Will Lobby U.S. to Defend It</a> NYT: As a new accusation surfaces that NSO’s software may have been used to spy on Palestinians, Israeli officials say it is crucial to national security. 
  <p class="updated_time"> 03:24 PM CT, Nov. 08 </p> 
@@ -198,10 +198,14 @@ permalink: /projects/news/
 
  <p class="updated_time"> 11:45 AM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/us/politics/blinken-johnson-johnson-vaccine-covax.html">U.S. Has Deal to Send J.&J. Covid Vaccine to Conflict Zones, Blinken Says</a> NYT: Secretary of State Antony J. Blinken stressed the need to extend vaccine access to people living in areas unreachable by government-run programs. 
+ <p class="updated_time"> 11:43 AM CT, Nov. 10 </p> 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-10/hedge-funds-private-equity-poised-for-tough-rules-under-gensler">SEC Under Gensler to Get Tougher on Hedge Funds, Private Equity</a> Bloomberg: Hedge fund and private-equity giants overseeing trillions of dollars are poised to face tougher regulations from the U.S. Securities and Exchange Commission. 
  <p class="updated_time"> 11:40 AM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/business/economy/consumer-price-inflation-october.html">October 2021 CPI: Inflation Rose at Fastest Rate Since 1990</a> NYT: The Consumer Price Index rose 6.2 percent in October from a year ago, its fastest increase since 1990. That is bad news for President Biden and the central bank. 
  <p class="updated_time"> 11:39 AM CT, Nov. 10 </p> 
  <a href="https://www.washingtonpost.com/politics/2021/11/10/white-people-are-not-victims-discussions-about-historical-racism/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">White people are not the victims in discussions about historical racism</a> WaPo: There is an important distinction between talking about racism and accusing someone of it. 
+ <p class="updated_time"> 11:39 AM CT, Nov. 10 </p> 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-10/johnson-warns-mps-as-tory-sleaze-furor-overshadows-climate-talks">Johnson Warns MPs as Tory Corruption Furor Interrupts Climate Talks</a> Bloomberg: Boris Johnson issued a warning to rule-breaking members of Parliament, as the mounting sleaze allegations against his ruling Conservative Party overshadowed his appearance at global climate talks and forced the prime minister to deny that the U.K. is corrupt. 
  <p class="updated_time"> 11:35 AM CT, Nov. 10 </p> 
  <a href="https://www.politico.com/news/2021/11/10/study-fox-viewers-covid-falsehoods-520591">Study: Fox viewers more likely to believe Covid falsehoods</a> Politico: The most widely-believed falsehood is about the government exaggerating Covid deaths. 
  <p class="updated_time"> 11:33 AM CT, Nov. 10 </p> 
@@ -334,8 +338,6 @@ permalink: /projects/news/
  <a href="https://www.washingtonpost.com/politics/2021/11/10/robert-moses-saga-racist-parkway-bridges/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Robert Moses and the saga of the racist parkway bridges </a> WaPo: Transportation Secretary Pete Buttigieg referred to a famous anecdote in Robert Caro's biography of the master builder but historians increasingly question whether it is correct. 
  <p class="updated_time"> 02:00 AM CT, Nov. 10 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-10/poland-seeks-emergency-eu-summit-on-belarus-border-crisis">Putin Brushes Off Merkel Appeal on Belarus; EU Readies Sanctions</a> Bloomberg: President Vladimir Putin brushed off a request by Chancellor Angela Merkel to exercise his influence over Belarus as the European Union prepares a fresh raft of sanctions against the regime in Minsk for channeling thousands of migrants to the bloc’s border. 
- <p class="updated_time"> 12:47 AM CT, Nov. 10 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-10/pakistan-top-court-calls-imran-khan-in-school-attack-case">Pakistan Court Asks Imran Khan to Probe Deadly School Attack</a> Bloomberg: Pakistan’s Supreme Court ordered Prime Minister Imran Khan to probe security lapses leading up to a deadly attack on a school by militants of a local Taliban affiliate seven years ago, even as his government holds peace talks with the militant group. 
  <p class="updated_time"> 12:26 AM CT, Nov. 10 </p> 
  <a href="https://www.politico.com/news/2021/11/10/jan6-shaman-sentencing-recommendation-520570">51-month sentence urged for ‘QAnon Shaman’ Jacob Chansley</a> Politico: “Defendant Chansley’s now-famous criminal acts have made him the public face of the Capitol riot,” prosecutors said. 
  <p class="updated_time"> 12:19 AM CT, Nov. 10 </p> 
@@ -358,8 +360,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/09/brian-williams-leave-nbc-news-520551">Brian Williams says he’s leaving NBC News at end of year</a> Politico: “I’ll pop up again somewhere,” he said. 
  <p class="updated_time"> 08:51 PM CT, Nov. 09 </p> 
  <a href="https://www.politico.com/news/2021/11/09/businesses-biden-covid-vaccine-rule-520548">Businesses warn of 'irreparable harm' if no permanent stay of Biden vaccine rule</a> Politico: The rules released by the Department of Labor last week require private businesses with more than 100 employees to ensure their workers are vaccinated or have them submit to weekly testing by Jan. 4. 
- <p class="updated_time"> 08:49 PM CT, Nov. 09 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-10/satellite-signals-suggest-vietnam-ship-seized-by-iran-freed">Vietnamese Oil Tanker Seized By Iran Now Free in Open Waters</a> Bloomberg: Dubai, United Arab Emirates (AP) -- A Vietnamese oil tanker earlier seized by Iran was free in open water Wednesday, ending the latest maritime confrontation involving Tehran amid stalled negotiations over its tattered nuclear deal with world powers. 
  <p class="updated_time"> 08:25 PM CT, Nov. 09 </p> 
  <a href="https://www.washingtonpost.com/politics/gop-rep-fred-upton-receives-death-threats-after-voting-for-bipartisan-infrastructure-deal/2021/11/09/78fe5ac8-4195-11ec-9ea7-3eb2406a2e24_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">GOP Rep. Fred Upton receives death threats after voting for bipartisan infrastructure deal</a> WaPo: The Michigan Republican said the threats began after Rep. Marjorie Taylor Greene (R-Ga.) tweeted the names and office phone numbers of House Republicans who backed the bill. 
  <p class="updated_time"> 08:21 PM CT, Nov. 09 </p> 
