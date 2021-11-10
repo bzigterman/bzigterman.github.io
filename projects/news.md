@@ -195,8 +195,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/science-environment-59199484?at_medium=RSS&at_campaign=KARANGA">COP26: Fossil fuel industry has largest delegation at climate summit</a> BBC: There are more participants than from any single country, a study shared with the BBC suggests. 
  <p class="updated_time"> 04:00 PM CT, Nov. 07 </p> 
  <a href="https://www.nytimes.com/2021/11/07/world/asia/afghan-pilots-taliban-us.html">Afghan Military Pilots, on the Run, Feel Abandoned by U.S.</a> NYT: Detained in Tajikistan, or hiding from the Taliban in Afghanistan, many pilots wonder why the military that trained them is not coming to their aid. 
- <p class="updated_time"> 01:17 PM CT, Nov. 07 </p> 
- <a href="https://www.nytimes.com/2021/11/07/us/politics/afghanistan-war-marines.html">Young Marines in Kabul Were Left to Run Final Days of Evacuation</a> NYT: The young Marines in Kabul were left to determine who was evacuated from Afghanistan and who was left behind. The cost was high. 
 
 
 </details>
@@ -204,8 +202,14 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:23 PM CT, Nov. 09 </p> 
+ <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nA8YpCdbazY/index.html">Surgeon general on Matthew McConaughey's opposition to vaccine mandates for kids: 'Covid is not harmless in our children'</a> CNN: US Surgeon General Dr. Vivek Murthy stressed Tuesday that parents need to recognize that "Covid is not harmless in our children" after actor Matthew McConaughey said his kids aren't vaccinated and that he's against mandating vaccines for children. 
+ <p class="updated_time"> 10:18 PM CT, Nov. 09 </p> 
+ <a href="https://www.nytimes.com/2021/11/09/us/politics/trump-january-6-committee.html">Judge Rejects Trump’s Bid to Keep Papers Secret in Jan. 6 Inquiry</a> NYT: But a Trump lawyer has signaled an intent to appeal the ruling, which raises novel issues about an ex-president’s executive privilege powers. 
  <p class="updated_time"> 10:04 PM CT, Nov. 09 </p> 
  <a href="https://www.washingtonpost.com/local/legal-issues/trump-records-jan-6-committee-judge-ruling/2021/11/09/4d256cec-3e44-11ec-bfad-8283439871ec_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Trump White House records can be turned over to House Jan. 6 investigative committee, judge rules</a> WaPo: Court deals blow to former president’s claim to executive privilege after Biden White House approved release. 
+ <p class="updated_time"> 09:56 PM CT, Nov. 09 </p> 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-10/autistic-cambodian-teen-jailed-for-online-comments-freed">Cambodia Frees Austic Teen Jailed for Social Media Posts Critical of Government</a> Bloomberg: Phnom Penh, Cambodia (AP) -- An autistic Cambodian teenager was released from prison Wednesday after serving time for posting comments critical of the government on social media in a case that has attracted global attention. 
  <p class="updated_time"> 09:55 PM CT, Nov. 09 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/V8W_Di14YEM/index.html">Extremists seize back control of the Republican Party's message machine</a> CNN: So much for the Republican Party being all about the future. 
  <p class="updated_time"> 09:41 PM CT, Nov. 09 </p> 
@@ -216,12 +220,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/09/trump-executive-privilege-court-ruling-kings-520512">Trump cannot shield White House records from Jan. 6 committee, judge rules</a> Politico: “Presidents are not kings, and Plaintiff is not President,” Judge Tanya Chutkan wrote. 
  <p class="updated_time"> 09:28 PM CT, Nov. 09 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/9Ywn1LhMhso/index.html">Federal judge denies Trump's attempt to withhold records from January 6 committee</a> CNN: Federal Judge Tanya Chutkan has ruled that the House select committee investigating the January 6 riot at the US Capitol should have access to records related to the attack from Donald Trump's presidency. 
- <p class="updated_time"> 09:27 PM CT, Nov. 09 </p> 
- <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/nA8YpCdbazY/index.html">Surgeon general on Matthew McConaughey's opposition to vaccine mandates for kids: 'Covid is not harmless in our children'</a> CNN: US Surgeon General Dr. Vivek Murthy stressed Tuesday that parents need to recognize that "Covid is not harmless in our children" after actor Matthew McConaughey said his kids aren't vaccinated and that he's against mandating vaccines for children. 
  <p class="updated_time"> 09:22 PM CT, Nov. 09 </p> 
  <a href="https://www.nytimes.com/2021/11/09/health/pfizer-booster-eligibility-adults.html">Pfizer Asks F.D.A. to Authorize Covid Booster Shots for All Adults</a> NYT: In a turnaround, the agency is expected to grant the request before the winter holiday season, giving access to all 181 million fully vaccinated people. 
- <p class="updated_time"> 09:21 PM CT, Nov. 09 </p> 
- <a href="https://www.nytimes.com/2021/11/09/us/politics/trump-january-6-committee.html">Judge Rejects Trump’s Bid to Keep Papers Secret in Jan. 6 Inquiry</a> NYT: But a Trump lawyer has signaled an intent to appeal the ruling, which raises novel issues about an ex-president’s executive privilege powers. 
  <p class="updated_time"> 08:57 PM CT, Nov. 09 </p> 
  <a href="https://www.politico.com/news/2021/11/09/brian-williams-leave-nbc-news-520551">Brian Williams says he’s leaving NBC News at end of year</a> Politico: “I’ll pop up again somewhere,” he said. 
  <p class="updated_time"> 08:51 PM CT, Nov. 09 </p> 
@@ -243,7 +243,7 @@ permalink: /projects/news/
  <p class="updated_time"> 07:12 PM CT, Nov. 09 </p> 
  <a href="https://www.nytimes.com/2021/11/09/us/politics/jan-6-subpoena.html">At the Willard and the White House, the Jan. 6 Panel Widens Its Net</a> NYT: What went on at a five-star hotel near the White House the day before the riot could be a window into how a Trump-directed plot to upend the election ended in violence at the Capitol. 
  <p class="updated_time"> 07:08 PM CT, Nov. 09 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-10/china-is-close-to-launching-new-aircraft-carrier-report-says">China Is Close to Launching New Aircraft Carrier, Report Says</a> Bloomberg: China is three to six months away from launching its third aircraft carrier, a report says, a move that would mark significant progress in President Xi Jinping’s drive to modernize his nation’s navy. 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-10/china-is-close-to-launching-new-aircraft-carrier-report-says">China Nears Launch of First Modern Aircraft Carrier, Report Says</a> Bloomberg: China is three to six months from launching its third and most modern aircraft carrier, new analysis shows, in what would be a milestone for President Xi Jinping’s effort to project power into the high seas. 
  <p class="updated_time"> 07:07 PM CT, Nov. 09 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/a3WguaB4a70/index.html">California Gov. Newsom says he canceled trip to climate summit after 'intervention' from his kids</a> CNN: Amid a swirl of questions about his absence from the public eye over the past week, California Gov. Gavin Newsom said Tuesday that he had decided to cancel his plans to attend the United Nations climate summit in Scotland after what he described as "an intervention" from his kids, who couldn't believe he was going to miss Halloween. 
  <p class="updated_time"> 06:57 PM CT, Nov. 09 </p> 
@@ -410,8 +410,6 @@ permalink: /projects/news/
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/LzXUz3wFJ3I/index.html">Bill Nye teams up with White House to highlight how Biden's economic agenda will help combat climate crisis</a> CNN: Bill Nye will come to the White House on Tuesday to help President Joe Biden promote his economic agenda and highlight how it will help combat the climate crisis, a White House official tells CNN. 
  <p class="updated_time"> 10:49 AM CT, Nov. 09 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PboRVYF-kOU/index.html">CBO says social spending bill score 'will take longer,' in potential blow to Democrats' timing</a> CNN: The timetable for President Joe Biden's social spending bill, known as Build Back Better, may have just hit a new snag. 
- <p class="updated_time"> 10:28 AM CT, Nov. 09 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-09/thousands-of-uk-s-phone-boxes-to-be-protected-from-closure">Britain Acts to Secure Future for Thousands of Red Phone Boxes </a> Bloomberg: Thousands of Britain’s iconic red phone boxes will be protected from removal under new rules, the U.K.'s telecommunications regulator said Tuesday. 
  <p class="updated_time"> 10:24 AM CT, Nov. 09 </p> 
  <a href="https://www.washingtonpost.com/politics/2021/03/09/senate-seats-up-2022/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">How the 2022 Senate map is shaping up</a> WaPo: Republican retirements are the early story of the 2022 battle for the Senate. 
  <p class="updated_time"> 09:46 AM CT, Nov. 09 </p> 
