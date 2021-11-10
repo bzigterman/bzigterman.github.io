@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:32 AM CT, Nov. 10 </p> 
+ <a href="https://www.bbc.co.uk/sport/football/59236410?at_medium=RSS&at_campaign=KARANGA">Aminata Diallo: Paris St-Germain player arrested as part of investigation into attack on team-mates</a> BBC: Paris St-Germain women's midfielder Aminata Diallo is arrested as part of an investigation into an attack on team-mates on 4 November. 
  <p class="updated_time"> 08:10 AM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/08/travel/usa-travel-restrictions.html">U.S. Allows Vaccinated Foreign Travelers to Enter</a> NYT: On Monday, after more than 18 months, restrictions that kept families separated and cost the global travel industry hundreds of billions of dollars were lifted. 
  <p class="updated_time"> 08:08 AM CT, Nov. 10 </p> 
@@ -59,8 +61,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59230846?at_medium=RSS&at_campaign=KARANGA">New Zealand PM Jacinda Ardern's live stream interrupted by three-year-old daughter</a> BBC: Three-year-old Neve interrupted Jacinda Ardern's Facebook Live on Covid restrictions. 
  <p class="updated_time"> 03:43 AM CT, Nov. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59230564?at_medium=RSS&at_campaign=KARANGA">Afghanistan's ghost soldiers undermined fight against Taliban - ex-official</a> BBC: Thousands of troops who were supposed to fight the Taliban did not exist, a former minister says. 
- <p class="updated_time"> 02:55 AM CT, Nov. 10 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-59231632?at_medium=RSS&at_campaign=KARANGA">Nasa's Moon return pushed back to 2025</a> BBC: The first Nasa mission to return to the surface of the Moon has been delayed by one year to 2025. 
  <p class="updated_time"> 09:20 PM CT, Nov. 09 </p> 
  <a href="https://www.nytimes.com/2021/11/09/world/asia/us-holocaust-museum-china-uyghurs-report.html">U.S. Holocaust Museum Says China ‘May Be Committing Genocide’ Against Uyghurs</a> NYT: Its report found that the government’s attacks against the group of Muslims in Xinjiang had escalated and most likely included “forced sterilization, sexual violence, enslavement, torture, and forcible transfer.” 
  <p class="updated_time"> 09:03 PM CT, Nov. 09 </p> 
@@ -109,6 +109,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/09/world/asia/india-hospital-fire.html">India Hospital Fire Leaves at Least 4 Infants Dead</a> NYT: The blaze, in a hospital in central India on Monday night, was the latest in a series of deadly fires at health care centers in recent months. 
  <p class="updated_time"> 01:39 PM CT, Nov. 09 </p> 
  <a href="https://www.npr.org/2021/11/09/1053656078/young-indigenous-activists-united-in-climate-cause-at-cop26-summit">Indigenous activists are united in a cause and are making themselves heard at COP26</a> NPR: Indigenous activists from around the world are in Glasgow for COP26, but say the same legacy of colonialism that has led to climate-related losses has impacted their access to the conference. 
+ <p class="updated_time"> 01:31 PM CT, Nov. 09 </p> 
+ <a href="https://www.nytimes.com/2021/11/09/business/china-evergrande-kaisa.html">China Evergrande Troubles Spread Through Property Sector</a> NYT: Global markets just weeks ago were fretting over the possible failure of Evergrande. Now the developer says the worst is over, even as other companies show signs of trouble. 
  <p class="updated_time"> 12:06 PM CT, Nov. 09 </p> 
  <a href="https://www.nytimes.com/2021/11/09/world/asia/india-covid-vaccinations.html">India Risks Covid-19 Complacency After Its Vaccine Campaign</a> NYT: The success represents a major victory for Narendra Modi’s government, but a recent slowdown in new vaccinations has sparked worries. 
  <p class="updated_time"> 11:33 AM CT, Nov. 09 </p> 
@@ -139,8 +141,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/poland-tries-to-repel-crowds-of-migrants-caught-up-in-eu-belarus-standoff-11636470387">Poland Tries to Repel Surge of Migrants Caught Up in EU-Belarus Standoff</a> WSJ: The presence of thousands of migrants amassed near Belarus’s border with Poland has escalated tensions between Minsk and the European Union, which blames Belarusian President Alexander Lukashenko for ushering the migrants to the bloc. 
  <p class="updated_time"> 05:14 AM CT, Nov. 09 </p> 
  <a href="https://www.npr.org/2021/11/09/1053813035/8-years-after-he-killed-his-girlfriend-olympic-runner-pistorius-is-up-for-parole">8 years after he killed his girlfriend, Olympic runner Pistorius is up for parole</a> NPR: Oscar Pistorius, a double-amputee who competed at the 2012 Olympics, has been eligible for parole since July after serving half his sentence. He was convicted of murdering model Reva Steenkamp. 
- <p class="updated_time"> 04:27 AM CT, Nov. 09 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59218458?at_medium=RSS&at_campaign=KARANGA">Sierra Leone tanker explosion: Survivors try to rebuild lives</a> BBC: Survivors are left wondering how to rebuild their lives after Sierra Leone's tanker explosion. 
  <p class="updated_time"> 04:00 AM CT, Nov. 09 </p> 
  <a href="https://www.nytimes.com/2021/11/09/style/bollywood-actor-richard-klein.html">How a 55-Year-Old California Teacher Became a Bollywood Actor </a> NYT: Richard Klein left behind his life as a Hebrew day school teacher in California and became an actor in Mumbai, often playing a “mean British officer.” 
  <p class="updated_time"> 03:06 AM CT, Nov. 09 </p> 
@@ -153,8 +153,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/08/world/europe/france-catholic-church-compensate-sex-abuse-victims.html">French Catholic Church Will Sell Assets to Compensate Abuse Victims</a> NYT: The measure was one of several measures announced by French bishops, one month after a landmark report on sexual abuse by clergy members in France. 
  <p class="updated_time"> 06:15 PM CT, Nov. 08 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59205840?at_medium=RSS&at_campaign=KARANGA">Travis Scott festival tragedy: Were warning signs missed at Astroworld?</a> BBC: Concerns were raised before Travis Scott's fatal festival show. Could the tragedy have been averted? 
- <p class="updated_time"> 06:00 PM CT, Nov. 08 </p> 
- <a href="https://www.bbc.co.uk/news/business-58820548?at_medium=RSS&at_campaign=KARANGA">Rwanda goes electric with locally made motorbikes</a> BBC: Rwanda's Ampersand wants motorbike taxi drivers to switch from petrol to electric. 
  <p class="updated_time"> 05:58 PM CT, Nov. 08 </p> 
  <a href="https://www.bbc.co.uk/news/business-59119693?at_medium=RSS&at_campaign=KARANGA">Climate change: Seven ways to spot businesses greenwashing</a> BBC: Firms often claim they are eco-friendly but how can you check they are as green as they make out? 
  <p class="updated_time"> 05:41 PM CT, Nov. 08 </p> 
@@ -181,6 +179,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/08/world/africa/oscar-pistorius-bladerunner-parole.html">Oscar Pistorius, Olympic Runner Convicted of Murder, Is Up for Parole</a> NYT: The double-amputee sprinter has served half his sentence for killing his girlfriend. His victim’s parents were said to be “shocked” at the prospect of his release. 
  <p class="updated_time"> 01:22 PM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/us/canada-travel.html">Thousands of Canadians Head for the Southern United States Again</a> NYT: With the border opening to tourists, thousands of Canadian “snowbirds” are on their way to Florida, Arizona and California with campers in tow. 
+ <p class="updated_time"> 12:09 PM CT, Nov. 08 </p> 
+ <a href="https://www.nytimes.com/2021/11/08/world/asia/new-zealand-ease-lockdown-restrictions.html">New Zealand's Biggest City Is to Ease Lockdown Restrictions</a> NYT: The lifting of rules comes as the country records some of its highest daily case numbers since the pandemic began. 
+ <p class="updated_time"> 09:54 AM CT, Nov. 08 </p> 
+ <a href="https://www.nytimes.com/2021/11/08/world/europe/europe-us-travel-ban.html">U.S. Travel Ban Ends, and Europeans Head Overseas Again</a> NYT: Europeans were kept apart from family and friends as the ban dragged on long after E.U. leaders had opened their borders. 
  <p class="updated_time"> 05:26 AM CT, Nov. 08 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59206814?at_medium=RSS&at_campaign=KARANGA">COP26: Rich countries ‘pushing back’ on paying for climate loss</a> BBC: Poorer countries say they are not able to get compensation for the damage caused by climate change. 
  <p class="updated_time"> 06:14 PM CT, Nov. 07 </p> 
@@ -198,6 +200,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/10/world-shares-china-inflation-520573">World shares mixed as China inflation pushes higher</a> Politico: China’s consumer price index, a main measure of inflation, rose 1.5 percent in October, up from 0.7 percent the month before, the National Bureau of Statistics reported. 
  <p class="updated_time"> 08:30 AM CT, Nov. 10 </p> 
  <a href="https://www.politico.com/news/2021/11/10/nevada-democrat-transgender-520572">Nevada Democrat seeks to become first openly transgender statewide elected official</a> Politico: The lieutenant governor’s office is currently vacant. 
+ <p class="updated_time"> 08:27 AM CT, Nov. 10 </p> 
+ <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Vl_GX5awrFg/index.html">13 senior Trump administration officials violated Hatch Act, report finds</a> CNN: Thirteen senior Trump administration officials violated the Hatch Act, according to a report from the US Office of Special Counsel that was released on Tuesday. 
  <p class="updated_time"> 08:14 AM CT, Nov. 10 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/rdMrFK63JMw/index.html">Is there a lane for Liz Cheney in New Hampshire in 2024?</a> CNN: Sometimes in politics it's not so much what you say, it's where you say it. 
  <p class="updated_time"> 08:12 AM CT, Nov. 10 </p> 
@@ -238,6 +242,8 @@ permalink: /projects/news/
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/oA3Ov7QYfl8/index.html">Three out of four adults think Facebook is making society worse</a> CNN: Roughly three-quarters of adults believe Facebook is making American society worse, a new CNN poll conducted by SSRS finds, with about half saying they know somebody who was persuaded to believe in a conspiracy theory because of the site's content. 
  <p class="updated_time"> 05:38 AM CT, Nov. 10 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/k0mkJ7dnnc4/index.html">Prosecutors seek 4+ years in prison for 'QAnon Shaman' in attempt to set example</a> CNN: The Justice Department is asking for the so-called QAnon Shaman, who wore a headdress and posed shirtless on the Senate floor during the siege of the US Capitol, to be sentenced to a prison term of more than four years, the longest incarceration prosecutors have asked for any guilty January 6 defendant so far, according to a new court filing. 
+ <p class="updated_time"> 05:35 AM CT, Nov. 10 </p> 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-10/germany-s-next-coalition-close-to-deal-on-legalizing-cannabis">Germany’s Next Coalition Close to Deal on Legalizing Cannabis</a> Bloomberg: Germany’s likely next ruling coalition is closing in on a deal to legalize cannabis for recreational use, the strongest signal yet that long-awaited growth of Europe’s marijuana market is gaining traction. 
  <p class="updated_time"> 05:19 AM CT, Nov. 10 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-10/swedish-government-clinches-deal-that-paves-the-way-for-new-pm">Swedish Government Clinches Deal That Paves the Way for New PM</a> Bloomberg: Sweden’s Center Party won’t seek to block Magdalena Andersson as the successor to current prime minister Stefan Lofven after it secured key concessions from the government. 
  <p class="updated_time"> 04:59 AM CT, Nov. 10 </p> 
@@ -290,8 +296,6 @@ permalink: /projects/news/
  <a href="https://www.bloomberg.com/news/articles/2021-11-10/malaysia-indonesia-agree-to-start-vaccinated-travel-lanes">Malaysia, Indonesia Agree to Start Vaccinated Travel Lanes</a> Bloomberg: Malaysia and Indonesia plan to allow fully-vaccinated travelers to fly between the two nations, just days after a similar agreement was struck in one of the world’s busiest air routes. 
  <p class="updated_time"> 12:47 AM CT, Nov. 10 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-10/pakistan-top-court-calls-imran-khan-in-school-attack-case">Pakistan Court Asks Imran Khan to Probe Deadly School Attack</a> Bloomberg: Pakistan’s Supreme Court ordered Prime Minister Imran Khan to probe security lapses leading up to a deadly attack on a school by militants of a local Taliban affiliate seven years ago, even as his government holds peace talks with the militant group. 
- <p class="updated_time"> 12:43 AM CT, Nov. 10 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-10/china-covid-surge-could-set-back-kim-jong-un-s-border-reopening">China Covid Surge Could Set Back Kim Jong Un’s Border Reopening</a> Bloomberg: New Covid-19 restrictions in the Chinese area bordering North Korea may have scuttled Kim Jong Un’s plans to reopen a vital crossing that has been closed for almost two years. 
  <p class="updated_time"> 12:26 AM CT, Nov. 10 </p> 
  <a href="https://www.politico.com/news/2021/11/10/jan6-shaman-sentencing-recommendation-520570">51-month sentence urged for ‘QAnon Shaman’ Jacob Chansley</a> Politico: “Defendant Chansley’s now-famous criminal acts have made him the public face of the Capitol riot,” prosecutors said. 
  <p class="updated_time"> 12:19 AM CT, Nov. 10 </p> 
@@ -348,8 +352,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/09/biden-infrastructure-republicans-committee-standing-520484">Biden denounces efforts to strip Republicans who supported infrastructure of committee standing</a> Politico: “If we don’t generate consensus in America, we’re in trouble,” Biden said. 
  <p class="updated_time"> 06:08 PM CT, Nov. 09 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/HmXsBg6ZKys/index.html">US citizenship naturalizations are highest in more than a decade </a> CNN: The number of people who became naturalized US citizens in fiscal year 2021 was the highest in more than a decade, according to new data, surpassing the Trump administration-era high and rebounding after the pandemic had prompted office closures and service disruptions. 
- <p class="updated_time"> 06:05 PM CT, Nov. 09 </p> 
- <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Vl_GX5awrFg/index.html">13 senior Trump administration officials violated Hatch Act, report finds</a> CNN: Thirteen senior Trump administration officials violated the Hatch Act, according to a report from the US Office of Special Counsel that was released on Tuesday. 
  <p class="updated_time"> 06:01 PM CT, Nov. 09 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/PMozhBzitRQ/index.html">'It's gotta stop for the sake of America': Biden chastises GOP for targeting Republicans who supported infrastructure bill</a> CNN: President Joe Biden on Tuesday called on Republicans to stop pursuing retaliation against 13 members of their party who voted to pass the $1.2 trillion infrastructure bill in the House last week, saying he's never seen things this way in Congress. 
  <p class="updated_time"> 06:00 PM CT, Nov. 09 </p> 
