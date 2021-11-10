@@ -7,6 +7,12 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:24 AM CT, Nov. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59231418?at_medium=RSS&at_campaign=KARANGA">Missing French teenage jogger found alive says she escaped kidnappers</a> BBC: The 17-year-old girl was found in a state of shock about 10km from where she had gone for a run. 
+ <p class="updated_time"> 05:17 AM CT, Nov. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-59231477?at_medium=RSS&at_campaign=KARANGA">COP26: Draft deal calls for stronger carbon cutting targets by end of 2022</a> BBC: The document says vulnerable nations must get more help to cope with the deadly impacts of global warming. 
+ <p class="updated_time"> 05:10 AM CT, Nov. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59232785?at_medium=RSS&at_campaign=KARANGA">Japan train driver sues over 49 cents in docked wages</a> BBC: The tiny sum was docked after the man caused a one-minute delay to Japan's punctual train system. 
  <p class="updated_time"> 05:07 AM CT, Nov. 10 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-56901261?at_medium=RSS&at_campaign=KARANGA">What is COP26 and what was agreed at Glasgow climate conference?</a> BBC: A crucial climate change summit is being held in the UK - this is why it's important. 
  <p class="updated_time"> 04:49 AM CT, Nov. 10 </p> 
@@ -23,8 +29,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59230846?at_medium=RSS&at_campaign=KARANGA">New Zealand PM Jacinda Ardern's live stream interrupted by three-year-old daughter</a> BBC: Three-year-old Neve interrupted Jacinda Ardern's Facebook Live on Covid restrictions. 
  <p class="updated_time"> 03:43 AM CT, Nov. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59230564?at_medium=RSS&at_campaign=KARANGA">Afghanistan's ghost soldiers undermined fight against Taliban - ex-official</a> BBC: Thousands of troops who were supposed to fight the Taliban did not exist, a former minister says. 
- <p class="updated_time"> 03:16 AM CT, Nov. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59231418?at_medium=RSS&at_campaign=KARANGA">French 17-year-old feared abducted while jogging found alive</a> BBC: The 17-year-old girl was found in a state of shock about 10km from where she had gone for a run. 
  <p class="updated_time"> 03:15 AM CT, Nov. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59231136?at_medium=RSS&at_campaign=KARANGA">Belarus migrants: Poland faces fresh border breaches</a> BBC: The defence minister say many attempts were made to cross but 15,000 soldiers are now stationed there. 
  <p class="updated_time"> 02:55 AM CT, Nov. 10 </p> 
@@ -33,8 +37,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/10/world/europe/france-climate-change-energy-prices.html">In France, the People COP26 Forgot Seethe Over Rising Energy Prices</a> NYT: In one area of France, worries about rising energy prices trump anxiety about rising temperatures, raising fears of a resurgence of the Yellow Vest social uprising. 
  <p class="updated_time"> 01:23 AM CT, Nov. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59227425?at_medium=RSS&at_campaign=KARANGA">Capitol riot: Judge rejects Trump bid to withhold records</a> BBC: "Presidents are not kings," the judge ruled, adding the incumbent can decide what documents to release. 
- <p class="updated_time"> 12:38 AM CT, Nov. 10 </p> 
- <a href="https://www.bbc.co.uk/news/business-59229995?at_medium=RSS&at_campaign=KARANGA">Peter Jackson sells visual effects firm for $1.6bn to Unity</a> BBC: New Zealand-based Weta Digital created the characters Gollum and Caesar in Planet of the Apes. 
  <p class="updated_time"> 10:35 PM CT, Nov. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59202306?at_medium=RSS&at_campaign=KARANGA">Family of woman who died in detention files complaint against Japan officials</a> BBC: The woman died following months of custody in a detention facility in Nagoya. 
  <p class="updated_time"> 09:20 PM CT, Nov. 09 </p> 
@@ -75,8 +77,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/09/1054032251/poland-is-trying-to-curb-an-influx-of-migrants-being-assisted-by-belarus">Poland is trying to curb an influx of migrants being assisted by Belarus</a> NPR: Poland is sending more troops to its border with Belarus. Thousands of migrants are trying to cross the frontier there, apparently at the instigation of the Belarusian regime. 
  <p class="updated_time"> 03:50 PM CT, Nov. 09 </p> 
  <a href="https://www.npr.org/2021/11/09/1054032223/europe-is-moving-away-from-fossil-fuels-after-being-dependent-on-russia-for-deca">Europe is moving away from fossil fuels, after being dependent on Russia for decades</a> NPR: Russia is being held responsible by many western leaders for the sharp increase in natural gas prices in Europe. The view from Moscow is rather different. 
- <p class="updated_time"> 03:47 PM CT, Nov. 09 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59228801?at_medium=RSS&at_campaign=KARANGA">Marie Antoinette's bracelets sell at auction for $8m</a> BBC: Two diamond bracelets once owned by the queen of France were sold to an anonymous telephone bidder. 
  <p class="updated_time"> 03:18 PM CT, Nov. 09 </p> 
  <a href="https://www.npr.org/2021/11/09/1054032167/what-president-xi-jinpings-absence-from-cop26-indicates-for-chinas-climate-pledg">What President Xi Jinping's absence from COP26 indicates for China's climate pledges</a> NPR: Chinese President Xi Jinping is not attending COP26 in person. Climate analysts and activists weigh in on what his absence means for the climate pledges made by one of the top carbon-emitting nations. 
  <p class="updated_time"> 03:13 PM CT, Nov. 09 </p> 
@@ -190,10 +190,14 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:17 AM CT, Nov. 10 </p> 
+ <a href="https://www.politico.com/newsletters/playbook/2021/11/10/new-reminders-that-this-is-not-normal-495046">POLITICO Playbook: New reminders that this is not normal</a> Politico: And a new poll shows Biden's vaccine mandate losing support. 
  <p class="updated_time"> 06:00 AM CT, Nov. 10 </p> 
  <a href="https://www.politico.com/news/2021/11/10/136-countries-agreed-to-a-global-minimum-corporate-tax-rate-what-now-520418">136 countries agreed to a global minimum corporate tax rate. What now?</a> Politico: No one hands over billions of dollars in tax revenue without a fight. 
  <p class="updated_time"> 05:06 AM CT, Nov. 10 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/oA3Ov7QYfl8/index.html">Three out of four adults think Facebook is making society worse</a> CNN: Roughly three-quarters of adults believe Facebook is making American society worse, a new CNN poll conducted by SSRS finds, with about half saying they know somebody who was persuaded to believe in a conspiracy theory because of the site's content. 
+ <p class="updated_time"> 04:59 AM CT, Nov. 10 </p> 
+ <a href="https://www.bloomberg.com/news/newsletters/2021-11-10/taking-baby-steps-at-the-cop26-climate-summit">Taking Baby Steps at the COP26 Climate Summit</a> Bloomberg: The first draft outcomes for the COP26 meeting in Glasgow put greater onus on countries to improve on their individual efforts to fight climate change and ramp up scrutiny of those blueprints. 
  <p class="updated_time"> 04:31 AM CT, Nov. 10 </p> 
  <a href="https://www.politico.com/news/2021/11/10/progressive-coalition-retools-ahead-of-2022-520550">Progressive coalition retools ahead of 2022</a> Politico: A nationwide alliance of left-wing groups gets a new leadership team. 
  <p class="updated_time"> 04:31 AM CT, Nov. 10 </p> 
@@ -204,6 +208,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/10/daylight-saving-time-feud-520561">Inside the bitter, nasty feud over making daylight saving time permanent</a> Politico: Who knew there were such passions around falling back and springing forward? 
  <p class="updated_time"> 04:30 AM CT, Nov. 10 </p> 
  <a href="https://www.politico.com/news/2021/11/10/biden-vaccine-mandates-va-mcdonough-520564">Biden called for widespread mandates. His VA is navigating its own minefields.</a> Politico: An overwhelming number of staff have gotten vaccinated. But a month after the deadline, at least ten percent of a 380,000 health care workforce still haven’t. 
+ <p class="updated_time"> 04:26 AM CT, Nov. 10 </p> 
+ <a href="https://www.bloomberg.com/news/features/2021-11-10/how-china-fared-under-xi-jinping-covid-politics-military-economy">Xi’s Biggest Wins and Losses After Nearly a Decade in Power</a> Bloomberg: Here’s a look at the Chinese president’s policy hits, misses and works in progress 
  <p class="updated_time"> 04:08 AM CT, Nov. 10 </p> 
  <a href="https://www.npr.org/2021/11/10/1054175407/the-super-rich-push-back-against-calls-for-a-wealth-tax">The super rich push back against calls for a wealth tax</a> NPR: During the pandemic U.S. billionaires saw their wealth increase by more than $1 trillion. The majority of that increase is not taxed because their net worth is tied up in the stocks they own. 
  <p class="updated_time"> 04:07 AM CT, Nov. 10 </p> 
@@ -348,8 +354,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/09/1054032272/former-georgia-senator-and-vietnam-veteran-max-cleland-has-died-at-79">Former Georgia senator and Vietnam veteran Max Cleland has died at 79</a> NPR: Former Sen. Max Cleland of Georgia has died. He was 79 years old. He lost three limbs in Vietnam, but that didn't stop him from seeking higher office, where he advocated for veterans and the disabled. 
  <p class="updated_time"> 04:00 PM CT, Nov. 09 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/UMjGkbxTqxo/index.html">January 6 committee issues 10 more subpoenas including to Stephen Miller and Kayleigh McEnany</a> CNN: The House committee investigating the deadly January 6 riot at the US Capitol announced on Tuesday a new batch of 10 subpoenas to former White House officials under President Donald Trump, as the panel charges ahead in seeking testimony and documents from witnesses relevant to its probe. 
- <p class="updated_time"> 04:00 PM CT, Nov. 09 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-09/china-tech-crackdown-is-upending-lives-from-beijing-to-kentucky">China’s Tech Crackdown Is Upending Lives From Beijing to Kentucky</a> Bloomberg: For the past five years, Catrina Cowart started most of her days at 5 a.m. with a live-streamed call from China. Through a tutoring app called VIPKid, the freelance writer in Lexington, Kentucky earned $21 an hour teaching English to Chinese kids, more than what she would have made at a local school. But her routine ended this summer after Beijing decreed a large portion of its $100 billion private education sector illegal. 
  <p class="updated_time"> 03:58 PM CT, Nov. 09 </p> 
  <a href="https://www.politico.com/news/2021/11/09/facebook-meta-ad-restrictions-520462">Facebook places new restrictions on ad targeting</a> Politico: The platform will limit targeting based on users' interactions with content related to health, race and other sensitive areas. 
  <p class="updated_time"> 03:51 PM CT, Nov. 09 </p> 
@@ -424,8 +428,6 @@ permalink: /projects/news/
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/R9Ll9AZCCe0/index.html">Here's what Biden can actually do about gas prices</a> CNN: High gas prices are quickly becoming a political liability for President Joe Biden -- and like presidents before him, he has few options to bring them down. 
  <p class="updated_time"> 09:33 AM CT, Nov. 09 </p> 
  <a href="https://www.nytimes.com/2021/11/08/us/politics/employer-vaccine-mandates.html">US Urges Court Not to Block Vaccine Mandate on Employers</a> NYT: The Biden Justice Department filed its case before an appeals court that has temporarily halted the measure. 
- <p class="updated_time"> 09:21 AM CT, Nov. 09 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-09/brazil-congress-to-resume-voting-on-bill-that-eases-fiscal-rule">Brazil’s Lower House Approves Proposal That Eases Austerity Law</a> Bloomberg: Brazil’s lower house of congress passed a controversial proposal that bends the country’s fiscal rules to finance a new social program President Jair Bolsonaro is launching ahead of his 2022 re-election campaign. 
  <p class="updated_time"> 08:55 AM CT, Nov. 09 </p> 
  <a href="https://www.npr.org/2021/11/09/1053847935/congress-cars-drunk-driving-auto">Congress' new mandate to carmakers: Figure out a way to stop drunk driving</a> NPR: Under the legislation, monitoring systems to stop intoxicated drivers would roll out in all new vehicles as early as 2026. "It's monumental," said Alex Otte of Mothers Against Drunk Driving. 
  <p class="updated_time"> 07:24 AM CT, Nov. 09 </p> 
