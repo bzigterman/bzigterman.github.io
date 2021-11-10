@@ -373,9 +373,9 @@ html {
 <td class="gt_row gt_right gt_striped">49.0</td>
 <td class="gt_row gt_right gt_striped">&minus;33&percnt;</td></tr>
     <tr><td class="gt_row gt_left">Median List Price ($)</td>
-<td class="gt_row gt_right">216,000</td>
-<td class="gt_row gt_right">164,000</td>
-<td class="gt_row gt_right">&minus;24&percnt;</td></tr>
+<td class="gt_row gt_right">200,000</td>
+<td class="gt_row gt_right">165,000</td>
+<td class="gt_row gt_right">&minus;18&percnt;</td></tr>
     <tr><td class="gt_row gt_left gt_striped">Pending-to-Active Ratio</td>
 <td class="gt_row gt_right gt_striped">0.861</td>
 <td class="gt_row gt_right gt_striped">1.07</td>
