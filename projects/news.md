@@ -7,20 +7,24 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:16 PM CT, Nov. 10 </p> 
+ <a href="https://www.nytimes.com/2021/11/10/world/middleeast/israeli-covid-vaccine-children.html">Israeli experts approve vaccinations for children ages 5 to 11.</a> NYT:   
+ <p class="updated_time"> 04:04 PM CT, Nov. 10 </p> 
+ <a href="https://www.nytimes.com/2021/11/09/world/europe/poland-belarus-border-crisis.html">E.U. Blames Belarus for Migrant Crisis at Poland Border</a> NYT: Poland has massed troops at the border, the European Union’s eastern frontier, to keep migrants camped there from crossing into the country. 
  <p class="updated_time"> 03:57 PM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/live/2021/11/10/world/poland-belarus-border-migrants">Live Updates: Crisis on Europe’s Eastern Flank Deepens as Tension Escalates at Polish Border</a> NYT: Western officials accuse the leader of Belarus of sending migrants to E.U. borders as retaliation for sanctions. E.U. officials expressed support for Poland. Lithuania, which also borders Belarus, declared a state of emergency. 
+ <p class="updated_time"> 03:56 PM CT, Nov. 10 </p> 
+ <a href="https://www.npr.org/2021/11/10/1054428157/in-afghanistan-the-threat-of-widespread-famine-looms-as-drought-and-hunger-conti">In Afghanistan, the threat of widespread famine looms as drought and hunger continues</a> NPR: NPR's Audie Cornish talks with reporter Jane Ferguson from PBS Newshour about her recent trip into Afghanistan. 
  <p class="updated_time"> 03:54 PM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/world/middleeast/migrants-beaten-belarus-border.html">Migrants Say They Face Abuse on Both Sides of Belarus Border</a> NYT: Stories are emerging of the authorities in Belarus, Lithuania and Poland abusing asylum seekers from the Middle East and using them as political pawns. 
  <p class="updated_time"> 03:52 PM CT, Nov. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59239853?at_medium=RSS&at_campaign=KARANGA">Kyle Rittenhouse: Accused teen takes stand in his own defence</a> BBC: Kyle Rittenhouse, 18, broke down in tears as he told he court he shot three men in self-defence. 
- <p class="updated_time"> 03:52 PM CT, Nov. 10 </p> 
- <a href="https://www.nytimes.com/2021/11/09/world/europe/poland-belarus-border-crisis.html">E.U. Blames Belarus for Migrant Crisis at Poland Border</a> NYT: Poland has massed troops at the border, the European Union’s eastern frontier, to keep migrants camped there from crossing into the country. 
  <p class="updated_time"> 03:45 PM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/theater/little-amal-the-walk.html">Little Amal, a Refugee Puppet, Looks for Home</a> NYT: In “The Walk,” a 12-foot tall, 9-year-old Syrian girl named Amal trekked from Turkey to Britain to find her mother. In a politically divided continent, were any minds changed? 
  <p class="updated_time"> 03:37 PM CT, Nov. 10 </p> 
- <a href="https://www.npr.org/2021/11/10/1054428143/shipping-containers-cant-be-emptied-and-refilled-fast-enough-to-keep-up-with-dem">Shipping containers can't be emptied and refilled fast enough to keep up with demand</a> NPR: Shipping containers aren't much more than steel boxes. But they have become increasingly valuable during the worldwide supply chain crisis. 
- <p class="updated_time"> 03:37 PM CT, Nov. 10 </p> 
  <a href="https://www.npr.org/2021/11/10/1054428150/tunisia-is-seeing-political-changes-and-some-fear-its-a-path-back-to-dictatorshi">Tunisia is seeing political changes, and some fear it's a path back to dictatorship</a> NPR: While most Tunisians were glad to see their president dissolve the quarrelsome, ineffective parliament and take extra powers, some worry Tunisia could be repeating a path to dictatorship. 
+ <p class="updated_time"> 03:37 PM CT, Nov. 10 </p> 
+ <a href="https://www.npr.org/2021/11/10/1054428143/shipping-containers-cant-be-emptied-and-refilled-fast-enough-to-keep-up-with-dem">Shipping containers can't be emptied and refilled fast enough to keep up with demand</a> NPR: Shipping containers aren't much more than steel boxes. But they have become increasingly valuable during the worldwide supply chain crisis. 
  <p class="updated_time"> 03:29 PM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/world/europe/migrants-fly-iraq-belarus.html">Surge in Flights to Belarus Fuels Migrant Buildup at Polish Border</a> NYT: A spike in air travel from the Middle East to Belarus points to a concerted effort to funnel migrant toward the European Union, E.U. officials say. 
  <p class="updated_time"> 03:29 PM CT, Nov. 10 </p> 
@@ -81,6 +85,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/10/1054296657/u-k-will-save-its-red-phone-kiosks">The U.K. will save thousands of its iconic red phone kiosks from being shut down</a> NPR: Thousands of the U.K.'s famous red public phone booths will be kept in service, despite lagging use. Regulators say they still play a vital role in emergencies. 
  <p class="updated_time"> 11:45 AM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/09/science/new-zealand-sea-lions.html">New Zealand’s Sea Lions Are Back, and Crashing Golf Courses and Soccer Matches</a> NYT: After their populations were decimated by hunters, New Zealand’s sea lions are returning to the coasts — sometimes surprising locals by turning up in unexpected places. 
+ <p class="updated_time"> 11:15 AM CT, Nov. 10 </p> 
+ <a href="https://www.wsj.com/articles/cop26-draft-climate-deal-seeks-quicker-emissions-cuts-as-weekend-deadline-nears-11636547423">U.S., China Pledge to Step Up Efforts to Fight Climate Change at COP26</a> WSJ: The show of cooperation between the two rivals and the world’s two biggest greenhouse-gas emitters injected a surprise development into the talks as a weekend deadline for a deal approaches. 
  <p class="updated_time"> 11:00 AM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/world/buttigieg-gasoline-diesel-vehicles.html">Pete Buttigieg Says U.S. 'Focused' on Reducing Auto Emissions</a> NYT: At the Glasgow climate summit, Mr. Buttigieg said the conversation surrounding climate change should focus on whether Earth can sustain life. 
  <p class="updated_time"> 10:57 AM CT, Nov. 10 </p> 
@@ -97,12 +103,12 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-59231477?at_medium=RSS&at_campaign=KARANGA">COP26: Draft deal calls for stronger carbon cutting targets by end of 2022</a> BBC: The document says vulnerable nations must get more help to cope with the deadly impacts of global warming. 
  <p class="updated_time"> 10:01 AM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/world/europe/france-climate-change-energy-prices.html">In France, the People COP26 Forgot Seethe Over Rising Energy Prices</a> NYT: In one area of France, worries about rising energy prices trump anxiety about rising temperatures, raising fears of a resurgence of the Yellow Vest social uprising. 
+ <p class="updated_time"> 09:46 AM CT, Nov. 10 </p> 
+ <a href="https://www.wsj.com/articles/afghan-pilots-who-fled-taliban-to-tajikistan-begin-transfer-to-u-s-11636575146">Afghan Pilots Who Fled Taliban to Tajikistan Begin Transfer to U.S.</a> WSJ: A State Department representative said that 191 Afghans were on the departing flight. 
  <p class="updated_time"> 09:42 AM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/09/world/asia/afghan-pilots-tajikistan-taliban.html">Afghan Pilots Who Escaped Taliban Are Flown Out of Tajikistan</a> NYT: More than 140 Afghan Air Force pilots and crew members were evacuated to the United Arab Emirates three months after flying into Tajikistan to escape the Taliban. 
  <p class="updated_time"> 09:32 AM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/travel/fly-fishing-italy.html">The Joy of Fly Fishing in Italy</a> NYT: Italy is not often mentioned as a fly fishing destination, but the wonder of Italian alpine fishing is now making itself known. 
- <p class="updated_time"> 09:21 AM CT, Nov. 10 </p> 
- <a href="https://www.wsj.com/articles/cop26-draft-climate-deal-seeks-quicker-emissions-cuts-as-weekend-deadline-nears-11636547423">U.S., China Pledge to Step Up Efforts to Fight Climate Change at COP26</a> WSJ: The show of cooperation between the two rivals and the world’s two biggest greenhouse-gas emitters injected a surprise development into the talks as a weekend deadline for a deal approaches. 
  <p class="updated_time"> 09:17 AM CT, Nov. 10 </p> 
  <a href="https://www.npr.org/2021/11/10/1054237391/chile-president-impeached-pandora-papers-sebastian-pinera">Chile's president has been impeached over the Pandora Papers allegations</a> NPR: The impeachment sets up a Senate trial over whether to remove Sebastián Piñera over allegations he favored the sale of a family property while in office. The effort has 24 of the needed 29 votes. 
  <p class="updated_time"> 09:15 AM CT, Nov. 10 </p> 
@@ -113,8 +119,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/china-weighs-moderating-property-curbs-to-help-troubled-developers-unload-assets-11636572669">China Weighs Moderating Property Curbs to Help Developers Unload Assets</a> WSJ: Beijing is wary that financial risks could spread through the economy as it tries to rein in the real-estate sector. 
  <p class="updated_time"> 08:10 AM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/08/travel/usa-travel-restrictions.html">U.S. Allows Vaccinated Foreign Travelers to Enter</a> NYT: On Monday, after more than 18 months, restrictions that kept families separated and cost the global travel industry hundreds of billions of dollars were lifted. 
- <p class="updated_time"> 08:08 AM CT, Nov. 10 </p> 
- <a href="https://www.npr.org/2021/11/10/1053943770/ugandas-vanessa-nakate-says-cop26-climate-summit-sidelines-global-south">Uganda's Vanessa Nakate says COP26 sidelines nations most affected by climate change</a> NPR: Nakate spoke with NPR about the role gender plays in climate activism, whether the COP26 summit feels inclusive and her advice for other youth who feel they can't affect change in the climate crisis. 
  <p class="updated_time"> 07:51 AM CT, Nov. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59234443?at_medium=RSS&at_campaign=KARANGA">Germany coronavirus: Record rise prompts warning of 100,000 deaths</a> BBC: The state of Saxony has the highest rate of infection in Germany and the lowest vaccine take-up. 
  <p class="updated_time"> 07:43 AM CT, Nov. 10 </p> 
@@ -198,16 +202,22 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:04 PM CT, Nov. 10 </p> 
+ <a href="https://www.politico.com/news/2021/11/10/kyle-rittenhouse-murder-case-520628">Rittenhouse murder case thrown into jeopardy by mistrial bid</a> Politico: “I didn’t do anything wrong. I defended myself,” the 18-year-old testified. 
+ <p class="updated_time"> 04:14 PM CT, Nov. 10 </p> 
+ <a href="https://www.nytimes.com/2021/11/10/us/ruth-ann-minner-dead.html">Ruth Ann Minner, Down-to-Earth Governor of Delaware, Dies at 86</a> NYT: The first woman in that position, she rose from being a receptionist in the governor’s office to claiming the top job herself. 
+ <p class="updated_time"> 04:10 PM CT, Nov. 10 </p> 
+ <a href="https://www.nytimes.com/2021/11/10/business/economy/consumer-price-inflation-october.html">October 2021 CPI: Inflation Rose at Fastest Rate Since 1990</a> NYT: The Consumer Price Index rose 6.2 percent in October from a year ago, its sharpest increase since 1990. That is bad news for President Biden and the Federal Reserve. 
+ <p class="updated_time"> 04:00 PM CT, Nov. 10 </p> 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-10/ex-mma-fighter-gets-over-3-years-in-stiffest-jan-6-sentence-yet">Ex-MMA Fighter Gets Over 3 Years in Stiffest Capitol Riot Sentence Yet</a> Bloomberg: A former mixed martial arts fighter who admitted assaulting a police officer during the Capitol siege was sentenced to nearly three and a half years in prison, the most severe punishment handed down yet over the Jan. 6 riot. 
  <p class="updated_time"> 03:51 PM CT, Nov. 10 </p> 
- <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RnXygNpTqrg/index.html">Exclusive: January 6 committee interested in at least 5 people from Pence's inner circle</a> CNN: The House select committee investigating January 6 is interested in gathering information from at least five members of former Vice President Mike Pence's inner circle, according to three sources familiar with the effort. 
+ <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RnXygNpTqrg/index.html">January 6 committee interested in at least 5 people from Pence's inner circle</a> CNN: The House select committee investigating January 6 is interested in gathering information from at least five members of former Vice President Mike Pence's inner circle, according to three sources familiar with the effort. 
  <p class="updated_time"> 03:49 PM CT, Nov. 10 </p> 
  <a href="https://www.politico.com/news/2021/11/10/biden-xi-virtual-summit-520609">Biden-Xi virtual summit tentatively set for Monday</a> Politico: The long-anticipated meeting aims to reset strained bilateral ties. 
  <p class="updated_time"> 03:44 PM CT, Nov. 10 </p> 
  <a href="https://www.washingtonpost.com/politics/2021/11/10/i-think-we-should-throw-those-books-fire-movement-builds-right-target-books/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">‘I think we should throw those books in a fire’: Movement builds on right to target books</a> WaPo: Accompanying the anti-critical race theory push has been a building effort to rid school libraries of certain books. Often, these books are deemed to be sexually explicit. But others included acclaimed works about race and racism. 
  <p class="updated_time"> 03:44 PM CT, Nov. 10 </p> 
  <a href="https://www.washingtonpost.com/politics/2021/11/10/i-think-we-should-throw-those-books-fire-movement-builds-right-target-books/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">‘I think we should throw those books in a fire’: Movement builds on right to target books</a> WaPo: Accompanying the anti-critical race theory push has been a building effort to rid school libraries of certain books. Often, these books are deemed to be sexually explicit. But others included acclaimed works about race and racism. 
- <p class="updated_time"> 03:38 PM CT, Nov. 10 </p> 
- <a href="https://www.nytimes.com/2021/11/10/us/ruth-ann-minner-dead.html">Ruth Ann Minner, Down-to-Earth Governor of Delaware, Dies at 86</a> NYT: The first woman in that position, she rose from being a receptionist in the governor’s office to claiming the top job herself. 
  <p class="updated_time"> 03:37 PM CT, Nov. 10 </p> 
  <a href="https://www.npr.org/2021/11/10/1054428150/tunisia-is-seeing-political-changes-and-some-fear-its-a-path-back-to-dictatorshi">Tunisia is seeing political changes, and some fear it's a path back to dictatorship</a> NPR: While most Tunisians were glad to see their president dissolve the quarrelsome, ineffective parliament and take extra powers, some worry Tunisia could be repeating a path to dictatorship. 
  <p class="updated_time"> 03:35 PM CT, Nov. 10 </p> 
@@ -224,8 +234,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/10/world/europe/kamala-harris-emmanuel-macron-france-us-sub-snub.html">Harris Meets Macron, Signaling a ‘New Era’ After Sub Snub, Both Say</a> NYT: In her vague assignment abroad, the vice president seems to be emphasizing that the U.S.-France relationship is about looking forward, in the wake of an embarrassing diplomatic spat. 
  <p class="updated_time"> 03:20 PM CT, Nov. 10 </p> 
  <a href="https://www.washingtonpost.com/podcasts/post-reports/a-postpresidency-like-no-other/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">A post-presidency like no other</a> WaPo: Today, we’re taking a closer look at the state of Donald Trump post-presidency — his businesses, his finances, the ongoing criminal investigations into his actions and how all of those things could affect a potential political comeback. 
- <p class="updated_time"> 03:13 PM CT, Nov. 10 </p> 
- <a href="https://www.nytimes.com/2021/11/10/business/economy/consumer-price-inflation-october.html">October 2021 CPI: Inflation Rose at Fastest Rate Since 1990</a> NYT: The Consumer Price Index rose 6.2 percent in October from a year ago, its fastest increase since 1990. That is bad news for President Biden and the central bank. 
+ <p class="updated_time"> 03:19 PM CT, Nov. 10 </p> 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-10/biden-says-infrastructure-plan-means-more-work-in-baltimore">Biden Says Agenda Will Curb Inflation, Return ‘Normal’ Economy</a> Bloomberg: President Joe Biden said his soon-to-be-signed infrastructure legislation is part of a plan to return the U.S. economy to normal, including by curbing inflation, as he promoted the measure at the Port of Baltimore. 
  <p class="updated_time"> 03:11 PM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/us/politics/swift-ruling-tests-trump-delay-tactic.html">Swift Ruling in Jan. 6 Case Tests Trump's Tactic of Delay</a> NYT: The former president has leveraged the slow judicial process in the past to thwart congressional oversight, but the Jan. 6 case may be different. 
  <p class="updated_time"> 03:11 PM CT, Nov. 10 </p> 
@@ -348,14 +358,10 @@ permalink: /projects/news/
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Vl_GX5awrFg/index.html">13 senior Trump administration officials violated Hatch Act, report finds</a> CNN: Thirteen senior Trump administration officials violated the Hatch Act, according to a report from the US Office of Special Counsel that was released on Tuesday. 
  <p class="updated_time"> 08:17 AM CT, Nov. 10 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-10/court-orders-ex-mozambique-minister-be-extradited-to-u-s">Court Orders Ex-Mozambique Minister to Be Extradited to U.S.</a> Bloomberg: A South African court ordered former Mozambican Finance Minister Manuel Chang be extradited to the U.S. to face charges related to a $2 billion debt scandal that led to a sovereign default. 
- <p class="updated_time"> 08:13 AM CT, Nov. 10 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-10/biden-plans-to-host-trudeau-amlo-at-white-house-summit-nov-18">Biden Plans to Host Trudeau, AMLO at White House Summit Nov. 18</a> Bloomberg: President Joe Biden will host a summit on Nov. 18 with Canadian Prime Minister Justin Trudeau and Mexican President Andrés Manuel López Obrador, the White House announced. 
  <p class="updated_time"> 08:12 AM CT, Nov. 10 </p> 
  <a href="https://www.bloomberg.com/news/articles/2021-11-10/brazilian-judge-who-arrested-lula-may-soon-face-him-at-the-polls">Brazilian Judge Who Arrested Lula May Face Him at the Polls</a> Bloomberg: Sergio Moro, the former judge famous in Brazil for helming the Carwash corruption investigation that landed members of the country’s elite in jail, has officially stepped into the political arena, joining the Podemos party one year before the presidential election. 
  <p class="updated_time"> 08:12 AM CT, Nov. 10 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/V5nfxB5ZmBc/index.html">Biden administration to announce deal to provide J&J Covid-19 vaccine to people in conflict zones and humanitarian settings</a> CNN: The Biden administration will announce on Wednesday a new deal it brokered with Johnson & Johnson and Covax to provide J&J's Covid-19 vaccine to people in conflict zones and other humanitarian settings where government vaccine campaigns cannot reach, a White House official told CNN. 
- <p class="updated_time"> 08:06 AM CT, Nov. 10 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-10/u-s-to-announce-deal-to-rush-j-j-vaccine-into-conflict-zones">U.S. Announces Deal to Rush J&J’s Vaccine Into Conflict Zones</a> Bloomberg: The Biden administration announced it has reached a deal to rush doses of the Johnson &amp; Johnson vaccine against Covid-19 into conflict zones and other humanitarian settings around the world through the international Covax vaccine distribution program. 
  <p class="updated_time"> 08:03 AM CT, Nov. 10 </p> 
  <a href="https://www.washingtonpost.com/politics/2021/09/24/white-house-might-give-up-goods-what-trump-did-jan-6-what-would-that-mean/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">A big setback for Trump’s effort to stymie the Jan. 6 committee. What could it mean?</a> WaPo: A federal judge cleared the way for Trump White House documents to go to the committee, which could start Friday -- pending appeals. Here's what such documents might tell us. 
  <p class="updated_time"> 07:45 AM CT, Nov. 10 </p> 
@@ -374,8 +380,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/11/10/new-reminders-that-this-is-not-normal-495046">POLITICO Playbook: New reminders that this is not normal</a> Politico: And a new poll shows Biden's vaccine mandate losing support. 
  <p class="updated_time"> 06:00 AM CT, Nov. 10 </p> 
  <a href="https://www.politico.com/news/2021/11/10/136-countries-agreed-to-a-global-minimum-corporate-tax-rate-what-now-520418">136 countries agreed to a global minimum corporate tax rate. What now?</a> Politico: No one hands over billions of dollars in tax revenue without a fight. 
- <p class="updated_time"> 05:35 AM CT, Nov. 10 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-10/germany-s-next-coalition-close-to-deal-on-legalizing-cannabis">Germany’s Next Coalition Nears Deal on Legalizing Cannabis</a> Bloomberg: Germany’s likely next ruling coalition is closing in on a deal to legalize cannabis for recreational use, the strongest signal yet that long-awaited growth of Europe’s marijuana market is gaining traction. 
  <p class="updated_time"> 04:31 AM CT, Nov. 10 </p> 
  <a href="https://www.politico.com/news/2021/11/10/schumer-billions-new-york-public-housing-520519">Schumer scores billions for New York's decaying public housing</a> Politico: The jockeying over the housing funds is one of many emerging sources of political tension surrounding President Joe Biden's bill. 
  <p class="updated_time"> 04:31 AM CT, Nov. 10 </p> 
@@ -404,6 +408,8 @@ permalink: /projects/news/
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/V8W_Di14YEM/index.html">Analysis: Extremists seize back control of the Republican Party's message machine</a> CNN: So much for the Republican Party being all about the future. 
  <p class="updated_time"> 11:56 PM CT, Nov. 09 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/GPlnqU2pINE/index.html">Judge eviscerates Trump's claim of executive privilege</a> CNN: A federal judge sent a message to Donald Trump Tuesday that he cannot outrun the rule of law and the Constitution forever. But that doesn't mean he won't try. 
+ <p class="updated_time"> 10:58 PM CT, Nov. 09 </p> 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-10/defense-witnesses-rittenhouse-badly-shaken-by-shootings">Rittenhouse Murder Case Thrown Into Jeopardy By Mistrial Bid</a> Bloomberg: He’s charged with killing two men and wounding a third during a night of turbulent protests. 
  <p class="updated_time"> 10:18 PM CT, Nov. 09 </p> 
  <a href="https://www.nytimes.com/2021/11/09/us/politics/trump-january-6-committee.html">Judge Rejects Trump’s Bid to Keep Papers Secret in Jan. 6 Inquiry</a> NYT: But a Trump lawyer has signaled an intent to appeal the ruling, which raises novel issues about an ex-president’s executive privilege powers. 
  <p class="updated_time"> 10:04 PM CT, Nov. 09 </p> 
@@ -492,8 +498,6 @@ permalink: /projects/news/
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/zyOWU6zm7vo/index.html">Biden administration will waive immigration application fees for thousands of evacuated Afghans </a> CNN: The Biden administration is planning to waive immigration-related fees for up to 70,000 Afghan evacuees as they are resettled in the United States, the Department of Homeland Security said Monday. 
  <p class="updated_time"> 06:40 PM CT, Nov. 08 </p> 
  <a href="https://www.politico.com/news/2021/11/08/buffalo-mayor-progressives-dems-520327">‘It’s a disgrace’: Progressives take aim at Buffalo mayor’s DNC post</a> Politico: Establishment Dems dismiss “sour grapes” attempt to sanction mayor who defeated a democratic socialist. 
- <p class="updated_time"> 04:01 PM CT, Nov. 08 </p> 
- <a href="https://www.politico.com/news/2021/11/08/justices-narrow-ruling-mosque-surveillance-520312">Justices seek narrow ruling in mosque surveillance case</a> Politico: A suit from post-9/11 snooping on a California Muslim congregations raises questions about the scope of the Foreign Intelligence Surveillance Act. 
  <p class="updated_time"> 12:02 PM CT, Nov. 08 </p> 
  <a href="https://www.politico.com/news/2021/11/08/new-jerseys-midterm-carnage-520293">New Jersey’s most powerful Democratic boss predicts midterm carnage</a> Politico: George Norcross says nobody in the state predicted last week’s losses for the party. “It was just a tsunami,” he said. 
  <p class="updated_time"> 07:20 AM CT, Nov. 08 </p> 
