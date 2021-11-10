@@ -7,6 +7,12 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:57 PM CT, Nov. 10 </p> 
+ <a href="https://www.nytimes.com/2021/11/10/world/europe/france-kamala-harris-macron.html">Harris Meets Macron, Signaling a ‘New Era’ After Sub Snub, Both Say</a> NYT: In her vague assignment abroad, the vice president seems to be emphasizing that the U.S.-France relationship is about looking forward, in the wake of an embarrassing diplomatic spat. 
+ <p class="updated_time"> 04:55 PM CT, Nov. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-59238867?at_medium=RSS&at_campaign=KARANGA">Paraguay: Police probe Stradivarius violin theft motive in double murder</a> BBC: Three German citizens are arrested in Paraguay over the murder of an archaeologist and his daughter. 
+ <p class="updated_time"> 04:49 PM CT, Nov. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59239981?at_medium=RSS&at_campaign=KARANGA">Mireille Knoll: Killer of French Holocaust survivor jailed for life</a> BBC: A man is sentenced for murdering 85-year-old Jewish woman Mireille Knoll in 2018. 
  <p class="updated_time"> 04:48 PM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/09/world/asia/india-covid-vaccinations.html">India Risks Covid-19 Complacency After Its Vaccine Campaign</a> NYT: The success represents a major victory for Narendra Modi’s government, but a recent slowdown in new vaccinations has sparked worries. 
  <p class="updated_time"> 04:47 PM CT, Nov. 10 </p> 
@@ -43,8 +49,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/10/1054428129/activists-from-low-lying-nations-vulnerable-to-rising-seas-demand-action-at-cop2">How island nations vulnerable to climate change need rich, polluting countries to act</a> NPR: Low-lying islands and nations are among those most at risk from rising sea levels, and have been sounding the alarm on the need for action by wealthier nations to limit global warming for years. 
  <p class="updated_time"> 03:29 PM CT, Nov. 10 </p> 
  <a href="https://www.npr.org/2021/11/10/1054428122/loved-ones-from-around-the-world-are-finally-reuniting-with-u-s-restrictions-lif">Loved ones from around the world are finally reuniting with U.S. restrictions lifted</a> NPR: Airports across the country have been the scenes of many emotional reunions since Monday, when the U.S. lifted COVID-related travel restrictions for many countries. 
- <p class="updated_time"> 03:27 PM CT, Nov. 10 </p> 
- <a href="https://www.nytimes.com/2021/11/10/world/europe/france-kamala-harris-macron.html">Harris Meets Macron, Signaling a ‘New Era’ After Sub Snub, Both Say</a> NYT: In her vague assignment abroad, the vice president seems to be emphasizing that the U.S.-France relationship is about looking forward, in the wake of an embarrassing diplomatic spat. 
  <p class="updated_time"> 03:15 PM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/sports/soccer/psg-women-attack-aminata-diallo.html">P.S.G.'s Aminata Diallo Arrested After Teammate Is Attacked</a> NYT: A Paris St.-Germain women’s player was taken into custody by French investigators looking into a violent assault on a teammate who shares her position. 
  <p class="updated_time"> 03:11 PM CT, Nov. 10 </p> 
@@ -79,8 +83,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/10/1054339705/taliban-military-pilots-amnesty">A Taliban official urges ex-Afghan military pilots to stay, protected by an amnesty</a> NPR: A government spokesman's assurances came after dozens of U.S.-trained Afghan pilots were evacuated from Tajikistan in a U.S.-brokered deal, months after they sought refuge from the Taliban there. 
  <p class="updated_time"> 12:34 PM CT, Nov. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59237413?at_medium=RSS&at_campaign=KARANGA">Belarus accused of state terrorism over migrant crisis</a> BBC: Poland's prime minister says Belarus is flying in migrants and sending them to the border. 
- <p class="updated_time"> 12:27 PM CT, Nov. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-59238867?at_medium=RSS&at_campaign=KARANGA">Paraguay: Police probe Stradivarius violin theft motive in double murder</a> BBC: Three German citizens are arrested in Paraguay over the murder of an archaeologist and his daughter. 
  <p class="updated_time"> 12:26 PM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/09/world/asia/us-holocaust-museum-china-uyghurs-report.html">U.S. Holocaust Museum Says China ‘May Be Committing Genocide’ Against Uyghurs</a> NYT: Its report found that the government’s attacks against the group of Muslims in Xinjiang had escalated and most likely included “forced sterilization, sexual violence, enslavement, torture, and forcible transfer.” 
  <p class="updated_time"> 12:00 PM CT, Nov. 10 </p> 
@@ -97,8 +99,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/science-environment-59209276?at_medium=RSS&at_campaign=KARANGA">My Day at COP26: 'I'm painting murals so people don't forget COP happened here'</a> BBC: Daniel Rupaszov, from Hungary, is an artist and activist who visits COP every year to create art which highlights the climate crisis. 
  <p class="updated_time"> 10:39 AM CT, Nov. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59238866?at_medium=RSS&at_campaign=KARANGA">Myanmar charges US journalist with terrorism</a> BBC: Danny Fenster, already on trial, is now facing new charges which could lead to a life sentence. 
- <p class="updated_time"> 10:34 AM CT, Nov. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59231418?at_medium=RSS&at_campaign=KARANGA">Missing French teenage jogger found alive says she escaped kidnappers</a> BBC: The 17-year-old was found in a state of shock about 10km from where she had gone for a run. 
  <p class="updated_time"> 10:15 AM CT, Nov. 10 </p> 
  <a href="https://www.npr.org/2021/11/10/1054256978/cop26-agreement-electric-vehicles-auto-industry">COP26 sees pledges to transition to electric vehicles, but key countries are mum</a> NPR: The agreements were hailed as a major step toward decarbonizing the auto industry, but the world's largest auto markets, including the U.S., and top carmakers failed to sign on. 
  <p class="updated_time"> 10:10 AM CT, Nov. 10 </p> 
@@ -198,22 +198,32 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:53 PM CT, Nov. 10 </p> 
+ <a href="https://www.politico.com/news/2021/11/10/rent-inflation-biden-520642">Rent is Biden’s next inflation headache</a> Politico: The Biden administration has vowed to address the home affordability crisis in the U.S., but policies are still in development and will likely have a limited impact. 
  <p class="updated_time"> 05:16 PM CT, Nov. 10 </p> 
  <a href="https://www.politico.com/news/2021/11/10/ahmaud-arbery-mcmichael-shooting-520630">Defendant: Ahmaud Arbery `trapped like a rat’ before slaying</a> Politico: Testimony continues in the Georgia homicide case. 
  <p class="updated_time"> 05:04 PM CT, Nov. 10 </p> 
  <a href="https://www.politico.com/news/2021/11/10/kyle-rittenhouse-murder-case-520628">Rittenhouse murder case thrown into jeopardy by mistrial bid</a> Politico: “I didn’t do anything wrong. I defended myself,” the 18-year-old testified. 
+ <p class="updated_time"> 05:02 PM CT, Nov. 10 </p> 
+ <a href="https://www.nytimes.com/2021/11/10/us/politics/republicans-backlash-infrastructure-bill.html">13 Republicans Face Backlash for Backing Infrastructure Bill</a> NYT: The 13 Republican lawmakers who broke with their party to support a $1 trillion bipartisan public works bill have drawn anger and threats from their colleagues and constituents. 
+ <p class="updated_time"> 04:59 PM CT, Nov. 10 </p> 
+ <a href="https://www.washingtonpost.com/politics/2021/11/10/whos-who-jan-6-committee-subpoenas/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Who’s who in the Jan. 6 committee subpoenas</a> WaPo: A guide to the names, familiar and not. 
+ <p class="updated_time"> 04:57 PM CT, Nov. 10 </p> 
+ <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gq_UFBQTLfQ/index.html">Analysis: How long will Covid-19 masking rules last?</a> CNN: The US is slowly moving away from mask requirements. 
+ <p class="updated_time"> 04:57 PM CT, Nov. 10 </p> 
+ <a href="https://www.nytimes.com/2021/11/10/world/europe/france-kamala-harris-macron.html">Harris Meets Macron, Signaling a ‘New Era’ After Sub Snub, Both Say</a> NYT: In her vague assignment abroad, the vice president seems to be emphasizing that the U.S.-France relationship is about looking forward, in the wake of an embarrassing diplomatic spat. 
+ <p class="updated_time"> 04:54 PM CT, Nov. 10 </p> 
+ <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WKP1SiJR3Rg/index.html">'It's worrisome': Biden addresses inflation concerns during Baltimore speech</a> CNN: President Joe Biden takes his sales pitch for the newly passed bipartisan infrastructure deal on the road Wednesday, highlighting the effect of the bill on supply chains, hours after new inflation statistics revealed that America's prices are surging more than they have in 30 years. 
  <p class="updated_time"> 04:51 PM CT, Nov. 10 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/Fkk7cswGtn0/index.html">Biden to hold signing ceremony on Monday for bipartisan infrastructure bill </a> CNN: President Joe Biden will sign the bipartisan infrastructure bill on Monday during a ceremony that will include members of Congress, governors and mayors from both parties, the White House announced on Wednesday. 
  <p class="updated_time"> 04:37 PM CT, Nov. 10 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/RnXygNpTqrg/index.html">January 6 committee interested in at least 5 people from Pence's inner circle</a> CNN: The House select committee investigating January 6 is interested in gathering information from at least five members of former Vice President Mike Pence's inner circle, according to three sources familiar with the effort. 
  <p class="updated_time"> 04:35 PM CT, Nov. 10 </p> 
  <a href="https://www.bloomberg.com/news/videos/2021-11-10/biden-says-agenda-will-help-curb-inflation-video">Biden Says Agenda Will Help Curb Inflation</a> Bloomberg: President Joe Biden says his soon-to-be-signed infrastructure legislation is part of a plan to return the U.S. economy to normal, including by curbing inflation, as he promoted the measure at the Port of Baltimore. 
- <p class="updated_time"> 04:30 PM CT, Nov. 10 </p> 
- <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/WKP1SiJR3Rg/index.html">'It's worrisome': Biden addresses inflation concerns during Baltimore speech</a> CNN: President Joe Biden takes his sales pitch for the newly passed bipartisan infrastructure deal on the road Wednesday, highlighting the effect of the bill on supply chains, hours after new inflation statistics revealed that America's prices are surging more than they have in 30 years. 
+ <p class="updated_time"> 04:27 PM CT, Nov. 10 </p> 
+ <a href="https://www.bloomberg.com/news/articles/2021-11-10/senator-s-in-law-ordered-to-testify-about-covid-stock-trades">Senator Burr’s Brother-In-Law Ordered to Testify About Covid Stock Trades</a> Bloomberg: U.S. Senator Richard Burr’s brother-in-law was ordered by a federal judge to testify in a Securities and Exchange Commission investigation into stock sales by the two men just before the onset of the coronavirus pandemic. 
  <p class="updated_time"> 04:25 PM CT, Nov. 10 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/5PLYlMXqUTI/index.html">White House preparing 'follow up' sanctions on Belarus</a> CNN: The United States is preparing "follow up sanctions" designed to hold leaders in Belarus accountable for "ongoing attacks on democracy, human rights and international norms," a spokesman for the White House's National Security Council said on Wednesday. 
- <p class="updated_time"> 04:21 PM CT, Nov. 10 </p> 
- <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/gq_UFBQTLfQ/index.html">Analysis: How long will Covid-19 masking rules last?</a> CNN: The US is slowly moving away from mask requirements. 
  <p class="updated_time"> 04:21 PM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/us/ruth-ann-minner-dead.html">Ruth Ann Minner, Down-to-Earth Governor of Delaware, Dies at 86</a> NYT: The first woman in that position, she rose from being a receptionist in the governor’s office to claiming the top job herself. 
  <p class="updated_time"> 04:17 PM CT, Nov. 10 </p> 
@@ -232,18 +242,14 @@ permalink: /projects/news/
  <a href="https://www.washingtonpost.com/politics/2021/11/10/i-think-we-should-throw-those-books-fire-movement-builds-right-target-books/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">‘I think we should throw those books in a fire’: Movement builds on right to target books</a> WaPo: Accompanying the anti-critical race theory push has been a building effort to rid school libraries of certain books. Often, these books are deemed to be sexually explicit. But others included acclaimed works about race and racism. 
  <p class="updated_time"> 03:37 PM CT, Nov. 10 </p> 
  <a href="https://www.npr.org/2021/11/10/1054428150/tunisia-is-seeing-political-changes-and-some-fear-its-a-path-back-to-dictatorshi">Tunisia is seeing political changes, and some fear it may be a path to dictatorship</a> NPR: While most Tunisians were glad to see their president dissolve the quarrelsome, ineffective parliament and take extra powers, some worry Tunisia could be repeating a path to dictatorship. 
- <p class="updated_time"> 03:35 PM CT, Nov. 10 </p> 
- <a href="https://www.nytimes.com/2021/11/10/us/politics/republicans-backlash-infrastructure-bill.html">13 Republicans Face Backlash for Backing Infrastructure Bill</a> NYT: The 13 Republican lawmakers who broke with their party to support a $1 trillion bipartisan public works bill have drawn anger and threats from their colleagues and constituents. 
  <p class="updated_time"> 03:34 PM CT, Nov. 10 </p> 
  <a href="https://www.politico.com/news/2021/11/10/trump-era-scam-pac-indictment-520610">They raised millions for Trump. Spent barely any of it on him. Now they’re indicted.</a> Politico: The feds just threw the book at one of the ultimate Trump-era scam PACers. 
  <p class="updated_time"> 03:30 PM CT, Nov. 10 </p> 
- <a href="https://www.politico.com/news/2021/11/10/soaring-inflation-stalks-bidens-economy-520613">Soaring inflation stalks Biden's economy</a> Politico: “I don’t think the administration is on top of it at all,” said the CEO of one of the U.S.'s largest companies who spoke on condition of anonymity out of concern over angering the administration. 
+ <a href="https://www.politico.com/news/2021/11/10/soaring-inflation-stalks-bidens-economy-520613">Soaring inflation stalks Biden's economy</a> Politico: “I don’t think the administration is on top of it at all,” said the CEO of one of the U.S.’s largest companies. 
  <p class="updated_time"> 03:29 PM CT, Nov. 10 </p> 
  <a href="https://www.npr.org/2021/11/10/1054428115/white-house-economic-adviser-weighs-in-on-the-inflation-spike-and-spending-plan">White House economic adviser weighs in on the inflation spike and spending plan</a> NPR: NPR's Ailsa Chang talks with White House economic adviser Brian Deese as inflation soars to its highest in 30 years. 
  <p class="updated_time"> 03:29 PM CT, Nov. 10 </p> 
  <a href="https://www.npr.org/2021/11/10/1054024084/capitol-riot-suspects-had-more-ties-to-oath-keepers-than-previously-known">Capitol riot suspects had more ties to Oath Keepers than previously known</a> NPR: NPR has identified previously undisclosed connections between the far-right anti-government group the Oath Keepers and defendants charged in connection with the Jan. 6 Capitol riot. 
- <p class="updated_time"> 03:27 PM CT, Nov. 10 </p> 
- <a href="https://www.nytimes.com/2021/11/10/world/europe/france-kamala-harris-macron.html">Harris Meets Macron, Signaling a ‘New Era’ After Sub Snub, Both Say</a> NYT: In her vague assignment abroad, the vice president seems to be emphasizing that the U.S.-France relationship is about looking forward, in the wake of an embarrassing diplomatic spat. 
  <p class="updated_time"> 03:20 PM CT, Nov. 10 </p> 
  <a href="https://www.washingtonpost.com/podcasts/post-reports/a-postpresidency-like-no-other/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">A post-presidency like no other</a> WaPo: Today, we’re taking a closer look at the state of Donald Trump post-presidency — his businesses, his finances, the ongoing criminal investigations into his actions and how all of those things could affect a potential political comeback. 
  <p class="updated_time"> 03:19 PM CT, Nov. 10 </p> 
@@ -354,8 +360,6 @@ permalink: /projects/news/
  <a href="https://www.washingtonpost.com/politics/2021/11/10/some-reason-gop-wants-talk-about-how-bad-pandemic-was-florida-this-summer/?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">For some reason, the GOP wants to talk about how bad the pandemic was in Florida this summer</a> WaPo: Okay. 
  <p class="updated_time"> 09:14 AM CT, Nov. 10 </p> 
  <a href="https://www.politico.com/news/2021/11/10/consumer-prices-soar-520574">U.S. consumer prices soared 6.2% in past year, most since 1990</a> Politico: Prices for U.S. consumers jumped 6.2 percent in October compared with a year earlier as surging costs for food, gas and housing left Americans grappling with the highest inflation rate since 1990. 
- <p class="updated_time"> 08:54 AM CT, Nov. 10 </p> 
- <a href="https://www.bloomberg.com/news/articles/2021-11-10/european-commission-to-propose-extension-of-clearing-equivalence">EU Set to Extend Clearing Decision in Brexit Win for London</a> Bloomberg: The European Union is set to extend a temporary waiver that allows its banks and money managers to clear trades in the U.K., lifting a looming threat to one of the City of London’s crown jewels. 
  <p class="updated_time"> 08:30 AM CT, Nov. 10 </p> 
  <a href="https://www.politico.com/news/2021/11/10/nevada-democrat-transgender-520572">Nevada Democrat seeks to become first openly transgender statewide elected official</a> Politico: The lieutenant governor’s office is currently vacant. 
  <p class="updated_time"> 08:27 AM CT, Nov. 10 </p> 
@@ -380,8 +384,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/11/10/new-reminders-that-this-is-not-normal-495046">POLITICO Playbook: New reminders that this is not normal</a> Politico: And a new poll shows Biden's vaccine mandate losing support. 
  <p class="updated_time"> 06:00 AM CT, Nov. 10 </p> 
  <a href="https://www.politico.com/news/2021/11/10/136-countries-agreed-to-a-global-minimum-corporate-tax-rate-what-now-520418">136 countries agreed to a global minimum corporate tax rate. What now?</a> Politico: No one hands over billions of dollars in tax revenue without a fight. 
- <p class="updated_time"> 04:31 AM CT, Nov. 10 </p> 
- <a href="https://www.politico.com/news/2021/11/10/schumer-billions-new-york-public-housing-520519">Schumer scores billions for New York's decaying public housing</a> Politico: The jockeying over the housing funds is one of many emerging sources of political tension surrounding President Joe Biden's bill. 
  <p class="updated_time"> 04:31 AM CT, Nov. 10 </p> 
  <a href="https://www.politico.com/news/2021/11/10/schumer-billions-new-york-public-housing-520519">Schumer scores billions for New York's decaying public housing</a> Politico: The jockeying over the housing funds is one of many emerging sources of political tension surrounding President Joe Biden's bill. 
  <p class="updated_time"> 04:30 AM CT, Nov. 10 </p> 
@@ -452,8 +454,6 @@ permalink: /projects/news/
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/tNBw79OI9-A/index.html">Here's how long it may take Biden's infrastructure package to jolt the economy</a> CNN: It may be years before Americans are driving over new bridges or plugging their electric vehicles into a new highway charger funded by President Joe Biden's infrastructure package. But some of the money could be released over the next six months, providing a jolt to a backlog of projects across the country. 
  <p class="updated_time"> 04:04 PM CT, Nov. 09 </p> 
  <a href="https://www.npr.org/2021/11/09/1054032272/former-georgia-senator-and-vietnam-veteran-max-cleland-has-died-at-79">Former Georgia senator and Vietnam veteran Max Cleland has died at 79</a> NPR: Former Sen. Max Cleland of Georgia has died. He was 79 years old. He lost three limbs in Vietnam, but that didn't stop him from seeking higher office, where he advocated for veterans and the disabled. 
- <p class="updated_time"> 03:50 PM CT, Nov. 09 </p> 
- <a href="https://www.washingtonpost.com/politics/texas-gop-congressional-candidate-abuse-allegations/2021/11/09/0cbdcdb6-4191-11ec-9ea7-3eb2406a2e24_story.html?utm_source=rss&utm_medium=referral&utm_campaign=wp_politics">Top GOP congressional candidate in Texas accused of abusing teenage daughter of estranged husband</a> WaPo: Monica De La Cruz, designated a “Young Gun” by House Minority Leader Kevin McCarthy (R-Calif.), is running for an open seat in South Texas. 
  <p class="updated_time"> 03:46 PM CT, Nov. 09 </p> 
  <a href="https://www.nytimes.com/2021/11/09/us/politics/sununu-new-hampshire-governor.html">Sununu to Seek Re-election as New Hampshire Governor, Rejecting Senate Bid</a> NYT: National Republicans had seen a potential campaign by Gov. Chris Sununu against Senator Maggie Hassan, a Democrat, as one of their best shots to upend the Senate’s 50-50 split. 
  <p class="updated_time"> 03:18 PM CT, Nov. 09 </p> 
