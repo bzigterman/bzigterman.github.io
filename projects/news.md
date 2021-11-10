@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:52 AM CT, Nov. 10 </p> 
+ <a href="https://www.nytimes.com/2021/11/10/sports/soccer/psg-women-attack-aminata-diallo.html">P.S.G. Women’s Player Arrested After Attack on Her Teammate</a> NYT: Aminata Diallo was taken into custody by investigators looking into an assault on her fellow midfielder Kheira Hamraoui. 
+ <p class="updated_time"> 07:47 AM CT, Nov. 10 </p> 
+ <a href="https://www.nytimes.com/2021/11/10/world/buttigieg-gasoline-diesel-vehicles.html">Pete Buttigieg Says U.S. 'Focused' on Reducing Auto Emissions</a> NYT: At the Glasgow climate summit, the transportation secretary said the U.S. would not join a global pledge to phase out gas- and diesel-powered cars. 
  <p class="updated_time"> 07:43 AM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/world/europe/covid-germany-record-cases.html">Germany Weighs New Covid Rules as Infections Reach Record Heights</a> NYT: Nearly 40,000 new cases were registered in the country on Tuesday — the third time a daily record was set within a week. “We have a real emergency situation,” a top virologist said. 
  <p class="updated_time"> 07:39 AM CT, Nov. 10 </p> 
@@ -47,8 +51,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59230564?at_medium=RSS&at_campaign=KARANGA">Afghanistan's ghost soldiers undermined fight against Taliban - ex-official</a> BBC: Thousands of troops who were supposed to fight the Taliban did not exist, a former minister says. 
  <p class="updated_time"> 02:55 AM CT, Nov. 10 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59231632?at_medium=RSS&at_campaign=KARANGA">Nasa's Moon return pushed back to 2025</a> BBC: The first Nasa mission to return to the surface of the Moon has been delayed by one year to 2025. 
- <p class="updated_time"> 01:23 AM CT, Nov. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59227425?at_medium=RSS&at_campaign=KARANGA">Capitol riot: Judge rejects Trump bid to withhold records</a> BBC: "Presidents are not kings," the judge ruled, adding the incumbent can decide what documents to release. 
  <p class="updated_time"> 09:20 PM CT, Nov. 09 </p> 
  <a href="https://www.nytimes.com/2021/11/09/world/asia/us-holocaust-museum-china-uyghurs-report.html">U.S. Holocaust Museum Says China ‘May Be Committing Genocide’ Against Uyghurs</a> NYT: Its report found that the government’s attacks against the group of Muslims in Xinjiang had escalated and most likely included “forced sterilization, sexual violence, enslavement, torture, and forcible transfer.” 
  <p class="updated_time"> 09:03 PM CT, Nov. 09 </p> 
@@ -139,6 +141,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/09/style/bollywood-actor-richard-klein.html">How a 55-Year-Old California Teacher Became a Bollywood Actor </a> NYT: Richard Klein left behind his life as a Hebrew day school teacher in California and became an actor in Mumbai, often playing a “mean British officer.” 
  <p class="updated_time"> 03:06 AM CT, Nov. 09 </p> 
  <a href="https://www.wsj.com/articles/biden-administration-stresses-shared-interests-in-talks-with-egypt-11636466765">Biden Administration Stresses Shared Interests in Talks With Egypt</a> WSJ: The U.S. seeks to deepen economic and security cooperation with Cairo despite longstanding concerns over rights violations. 
+ <p class="updated_time"> 02:01 AM CT, Nov. 09 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59218239?at_medium=RSS&at_campaign=KARANGA">US couple on alleged IVF swap: 'Our memories of childbirth will always be tainted'</a> BBC: A California couple was given the wrong embryo by an IVF fertility clinic, according to a lawsuit. 
  <p class="updated_time"> 08:14 PM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/us/politics/isis-military.html">Military Can’t Find ISIS Safe House That Prompted Kabul Drone Strike</a> NYT: The Pentagon’s latest admission illustrates the botched intelligence behind the strike that mistakenly killed 10 civilians in August. 
  <p class="updated_time"> 07:21 PM CT, Nov. 08 </p> 
@@ -177,8 +181,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/08/world/africa/oscar-pistorius-bladerunner-parole.html">Oscar Pistorius, Olympic Runner Convicted of Murder, Is Up for Parole</a> NYT: The double-amputee sprinter has served half his sentence for killing his girlfriend. His victim’s parents were said to be “shocked” at the prospect of his release. 
  <p class="updated_time"> 01:22 PM CT, Nov. 08 </p> 
  <a href="https://www.nytimes.com/2021/11/08/us/canada-travel.html">Thousands of Canadians Head for the Southern United States Again</a> NYT: With the border opening to tourists, thousands of Canadian “snowbirds” are on their way to Florida, Arizona and California with campers in tow. 
- <p class="updated_time"> 09:54 AM CT, Nov. 08 </p> 
- <a href="https://www.nytimes.com/2021/11/08/world/europe/europe-us-travel-ban.html">U.S. Travel Ban Ends, and Europeans Head Overseas Again</a> NYT: Europeans were kept apart from family and friends as the ban dragged on long after E.U. leaders had opened their borders. 
  <p class="updated_time"> 05:26 AM CT, Nov. 08 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59206814?at_medium=RSS&at_campaign=KARANGA">COP26: Rich countries ‘pushing back’ on paying for climate loss</a> BBC: Poorer countries say they are not able to get compensation for the damage caused by climate change. 
  <p class="updated_time"> 06:14 PM CT, Nov. 07 </p> 
@@ -190,10 +192,10 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:47 AM CT, Nov. 10 </p> 
+ <a href="https://www.nytimes.com/2021/11/10/business/economy/consumer-price-inflation-october.html">Inflation Rose in October at Fastest Rate Since 1990</a> NYT: The Consumer Price Index rose 6.2 percent in October from a year ago, its fastest increase since 1990. That is bad news for President Biden and the central bank. 
  <p class="updated_time"> 07:42 AM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/08/us/politics/employer-vaccine-mandates.html">US Urges Court Not to Block Vaccine Mandate on Employers</a> NYT: The Biden Justice Department filed its case before an appeals court that has temporarily halted the measure. 
- <p class="updated_time"> 07:38 AM CT, Nov. 10 </p> 
- <a href="https://www.nytimes.com/2021/11/10/business/economy/consumer-price-inflation-october.html">Inflation Sped up in October, Economists Expect</a> NYT: After moderating slightly in recent months, inflation picked up again. That is bad news for President Biden and the central bank. 
  <p class="updated_time"> 07:36 AM CT, Nov. 10 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/AGVs5kbGHm8/index.html">Fact check on Sen. Rick Scott blaming government spending on inflation</a> CNN: Since the summer, when inflation reached a 13-year high, Republicans have been blaming the rising prices on President Joe Biden and the Democrats. 
  <p class="updated_time"> 07:35 AM CT, Nov. 10 </p> 
