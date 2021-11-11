@@ -7,12 +7,22 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:56 AM CT, Nov. 11 </p> 
+ <a href="https://www.npr.org/sections/goatsandsoda/2021/11/11/1052719247/how-6-billion-from-elon-musk-could-feed-millions-on-the-brink-of-famine">How $6 billion from Elon Musk could feed millions on the brink of famine</a> NPR: Elon Musk reportedly made $36 billion in a single day. What if he gave a sixth of that to the World Food Programme? We ask researchers how much of a change $6 billion could bring. 
+ <p class="updated_time"> 10:54 AM CT, Nov. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59246899?at_medium=RSS&at_campaign=KARANGA">Belarus threatens EU gas as bloc considers sanctions</a> BBC: The EU is reportedly preparing fresh sanctions over an escalating migrant crisis at Belarus's border. 
+ <p class="updated_time"> 10:52 AM CT, Nov. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59252279?at_medium=RSS&at_campaign=KARANGA">Judge says Texas school mask mandate ban violates disabled student rights</a> BBC: A US judge said the ban cannot be enforced as it violates the federal rights of disabled students. 
+ <p class="updated_time"> 10:51 AM CT, Nov. 11 </p> 
+ <a href="https://www.nytimes.com/2021/11/09/world/europe/poland-belarus-border-crisis.html">E.U. Blames Belarus for Migrant Crisis at Poland Border</a> NYT: Poland has massed troops at the border, the European Union’s eastern frontier, to keep migrants camped there from crossing into the country. 
  <p class="updated_time"> 10:45 AM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/world/europe/poland-forests-border-crisis.html">On the Ground: Migrants in Poland's Forests Are Hiding and Hurting</a> NYT: The forests stretch past a restricted zone, and it is there that migrants like this group of eight who have made it past the guards and the razor wire are waiting for an opportunity to continue on. 
+ <p class="updated_time"> 10:37 AM CT, Nov. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59253376?at_medium=RSS&at_campaign=KARANGA">Poland-Belarus crisis: The lives caught in a stalemate</a> BBC: A row over an influx of migrants has reached a stalemate. We spoke to people caught in the middle. 
  <p class="updated_time"> 10:27 AM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/world/africa/fw-de-klerk-dead.html">F.W. de Klerk, Last President of Apartheid South Africa, Dies at 85</a> NYT: A prominent Afrikaner, he vehemently defended the separation of the races but later stunned his deeply divided nation, and the wider world, by reconsidering the country’s racist ways. 
- <p class="updated_time"> 10:19 AM CT, Nov. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59252279?at_medium=RSS&at_campaign=KARANGA">Judge says Texas school mask mandate ban violates disabled student rights</a> BBC: A US judge said the ban cannot be enforced as it violates the federal rights of disabled students. 
+ <p class="updated_time"> 10:27 AM CT, Nov. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/science-environment-59251772?at_medium=RSS&at_campaign=KARANGA">My Day at COP26: 'Anything we achieve in Glasgow is not going to be enough'</a> BBC: Bangladeshi climate scientist, Saleemul Huq, is at COP26 to advise the world’s least developed countries. He describes the mood as the summit nears its conclusion. 
  <p class="updated_time"> 10:16 AM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/world/europe/belarus-poland-border-russia.html">Russia Reacts to Belarus-Poland Border Crisis</a> NYT: President Vladimir Putin’s spokesman said that Russia was doing all it could to resolve the situation, but he also warned of the possibility of a military escalation, according to the Russian state news agency RIA Novosti. 
  <p class="updated_time"> 09:57 AM CT, Nov. 11 </p> 
@@ -23,8 +33,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/10/world/middleeast/migrants-belarus-border-abuse.html">Migrants Say They Face Abuse on Both Sides of Belarus Border</a> NYT: Stories are emerging of the authorities in Belarus, Lithuania and Poland abusing asylum seekers from the Middle East and using them as political pawns. 
  <p class="updated_time"> 08:52 AM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/10/world/europe/poland-belarus-border-europe.html">Poland Gets Support From Europe on Tough Borders</a> NYT: Faced with the weaponization of migrants from Belarus, the European Union is defending Poland’s hard line even as it withholds funds over rule of law violations. 
- <p class="updated_time"> 08:52 AM CT, Nov. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59246899?at_medium=RSS&at_campaign=KARANGA">Belarus threatens EU gas as bloc considers sanctions</a> BBC: The EU is reportedly preparing fresh sanctions over an escalating migrant crisis at Belarus's border. 
  <p class="updated_time"> 08:38 AM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/world/europe/poland-independence-day-far-right-protests.html">As Poland Celebrates Its Independence Day, Far-Right Groups Stage Rallies</a> NYT: In downtown Warsaw, tens of thousands of demonstrators started their march by lighting red flares and singing the national anthem. 
  <p class="updated_time"> 07:59 AM CT, Nov. 11 </p> 
@@ -45,8 +53,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59246884?at_medium=RSS&at_campaign=KARANGA">Monster's Ball actor Coronji Calhoun Sr dies aged 30</a> BBC: Coronji Calhoun Sr played the son of Halle Berry's character in the Oscar-winning 2001 film. 
  <p class="updated_time"> 05:42 AM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/live/2021/11/11/world/china-xi-jinping-cpc/xi-jinping-history-third-term">Eyeing his future, Xi Jinping rewrites the past.</a> NYT: Senior party officials have gathered at a closed-door meeting in Beijing to cement Mr. Xi’s dominance as he moves to claim a likely third term next year as China’s leader. 
- <p class="updated_time"> 05:38 AM CT, Nov. 11 </p> 
- <a href="https://www.nytimes.com/2021/11/09/world/europe/poland-belarus-border-crisis.html">E.U. Blames Belarus for Migrant Crisis at Poland Border</a> NYT: Poland has massed troops at the border, the European Union’s eastern frontier, to keep migrants camped there from crossing into the country. 
  <p class="updated_time"> 04:21 AM CT, Nov. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59229935?at_medium=RSS&at_campaign=KARANGA">China's Xi Jinping cements his status with historic resolution</a> BBC: Mr Xi is only the third leader to issue a "historical resolution" after Mao Zedong and Deng Xiaoping. 
  <p class="updated_time"> 04:08 AM CT, Nov. 11 </p> 
@@ -153,8 +159,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/uk-scotland-glasgow-west-59207818?at_medium=RSS&at_campaign=KARANGA">Irn Bru hunting and celebrity spotting at COP26</a> BBC: Barack Obama, AOC, Leonardo DiCaprio, Emma Watson and others bring star power to the UN summit. 
  <p class="updated_time"> 01:24 PM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/world/africa/mozambique-corruption-manuel-chang-extradition.html">Manuel Chang Will Face Corruption Charges in U.S.</a> NYT: A judge overturned the South African government’s decision to send the minister back to Mozambique, where civil society groups say his political clout will protect him. 
- <p class="updated_time"> 12:52 PM CT, Nov. 10 </p> 
- <a href="https://www.npr.org/2021/11/10/1054339705/taliban-military-pilots-amnesty">A Taliban official urges ex-Afghan military pilots to stay, protected by an amnesty</a> NPR: A government spokesman's assurances came after dozens of U.S.-trained Afghan pilots were evacuated from Tajikistan in a U.S.-brokered deal, months after they sought refuge from the Taliban there. 
  <p class="updated_time"> 12:26 PM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/09/world/asia/us-holocaust-museum-china-uyghurs-report.html">U.S. Holocaust Museum Says China ‘May Be Committing Genocide’ Against Uyghurs</a> NYT: Its report found that the government’s attacks against the group of Muslims in Xinjiang had escalated and most likely included “forced sterilization, sexual violence, enslavement, torture, and forcible transfer.” 
  <p class="updated_time"> 11:15 AM CT, Nov. 10 </p> 
@@ -175,18 +179,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/10/world/asia/danny-fenster-myanmar.html">American Journalist Held in Myanmar Faces 2 New Charges</a> NYT: Prosecutors filed charges of terrorism and sedition against the journalist Danny Fenster, who once worked at a hard-hitting news outlet hated by Myanmar’s governing military. 
  <p class="updated_time"> 04:00 AM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/world/asia/taiwan-europe-china.html">Europe, Taiwan Inch Closer as Distrust of Beijing Grows</a> NYT: Talks between European lawmakers and Taiwanese officials point to Europe’s increasing willingness to strengthen relations, despite Beijing’s threats. 
- <p class="updated_time"> 07:16 PM CT, Nov. 09 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59228451?at_medium=RSS&at_campaign=KARANGA">Last rites rights of condemned around the world</a> BBC: A US death row inmate is fighting for a last rite. What rights do the condemned have around the world? 
  <p class="updated_time"> 06:33 PM CT, Nov. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59221823?at_medium=RSS&at_campaign=KARANGA">Cape Town's Day Zero: 'We are axing trees to save water'</a> BBC: Cape Town, on South Africa's coast, was the first global city to come close to running out of water. 
- <p class="updated_time"> 06:08 PM CT, Nov. 09 </p> 
- <a href="https://www.bbc.co.uk/news/business-59150008?at_medium=RSS&at_campaign=KARANGA">Should firms have to put carbon labels on all products?</a> BBC: A growing number of companies are indicating an item's carbon score, but should it become mandatory? 
  <p class="updated_time"> 06:03 PM CT, Nov. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59174933?at_medium=RSS&at_campaign=KARANGA">Parambir Singh: The case of the missing top police officer</a> BBC: The former police chief of Mumbai has been missing since May - and nobody quite knows why. 
- <p class="updated_time"> 06:01 PM CT, Nov. 09 </p> 
- <a href="https://www.bbc.co.uk/news/in-pictures-59208310?at_medium=RSS&at_campaign=KARANGA">Environmental Photographer of the Year 2021 winners revealed</a> BBC: The competition's winning image shows the effect of rising sea levels in Ghana. 
- <p class="updated_time"> 05:58 PM CT, Nov. 09 </p> 
- <a href="https://www.bbc.co.uk/news/business-59163278?at_medium=RSS&at_campaign=KARANGA">Shein: The secretive Chinese brand dressing Gen Z</a> BBC: Shein's popularity has shot up during the pandemic, targeting young shoppers with low-cost products. 
  <p class="updated_time"> 04:12 PM CT, Nov. 09 </p> 
  <a href="https://www.nytimes.com/2021/11/09/world/europe/france-vaccine-booster.html">Macron announces a new vaccine rule for people 65 or older in France.</a> NYT: Though the country has a high vaccination rate, new coronavirus cases and hospital admissions have been increasing in recent weeks. 
  <p class="updated_time"> 04:05 PM CT, Nov. 09 </p> 
@@ -200,6 +196,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:57 AM CT, Nov. 11 </p> 
+ <a href="https://www.cnn.com/2021/11/11/politics/trump-motion-documents/index.html">Trump asks appeals court to stop release of his White House records ahead of Friday deadline</a> CNN: Former President Donald Trump has asked a federal appeals court to briefly stop the release of key White House records from his presidency to the House January 6 committee while he appeals a lower court's decision that he can't claim executive privilege to keep them secret. 
  <p class="updated_time"> 10:36 AM CT, Nov. 11 </p> 
  <a href="https://www.cnn.com/2021/11/11/politics/trump-nixon-supreme-court-analysis-biskupic/index.html">Supreme Court's Watergate-era rulings against Nixon may end Trump's executive privilege claims</a> CNN: Former President Donald Trump's attempt to withhold records from the House of Representatives related to the January 6 US Capitol attack based on executive privilege -- a claim rejected by President Joe Biden -- would present the US Supreme Court with a novel legal dilemma. 
  <p class="updated_time"> 10:17 AM CT, Nov. 11 </p> 
@@ -254,8 +252,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/10/politics/belarus-follow-up-sanctions/index.html">White House preparing 'follow up' sanctions on Belarus</a> CNN: The United States is preparing "follow up sanctions" designed to hold leaders in Belarus accountable for "ongoing attacks on democracy, human rights and international norms," a spokesman for the White House's National Security Council said on Wednesday. 
  <p class="updated_time"> 09:47 PM CT, Nov. 10 </p> 
  <a href="https://www.politico.com/news/2021/11/10/texas-ban-school-mask-mandate-disabilities-520760">Federal judge says Texas governor’s ban on school mask mandates violates Americans with Disabilities Act</a> Politico: The decision bars the state attorney general from enforcing the executive order issued by Republican Gov. Greg Abbott. 
- <p class="updated_time"> 09:09 PM CT, Nov. 10 </p> 
- <a href="https://www.cnn.com/2021/11/10/politics/trump-documents-january-6-committee-executive-privilege-case/index.html">Judge rejects another Trump attempt to slow down documents from going to House January 6 committee</a> CNN: A federal judge on Wednesday night said she would not help former President Donald Trump as he attempts to buy time as he argues to keep secret records from his presidency, pointing him instead to an appeals court to seek help. 
  <p class="updated_time"> 08:59 PM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/us/politics/swift-ruling-tests-trump-delay-tactic.html">Swift Ruling in Jan. 6 Case Tests Trump's Tactic of Delay</a> NYT: The former president has leveraged the slow judicial process in the past to thwart congressional oversight, but the Jan. 6 case may be different. 
  <p class="updated_time"> 08:30 PM CT, Nov. 10 </p> 
@@ -434,8 +430,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/05/kyrsten-sinema-multi-level-marketing-labor-519661">Sinema’s raking in cash from MLMs. They want to kill her party’s labor bill.</a> Politico: The Arizona senator is one of just a few lawmakers that multilevel marketing businesses —often derided as pyramid schemes — are giving to. 
  <p class="updated_time"> 02:41 PM CT, Nov. 04 </p> 
  <a href="https://www.politico.com/news/2021/11/04/house-megabill-passage-manchin-last-word-519570">Manchin will get last word, even as House races to pass megabill</a> Politico: House Democratic leaders and progressives want to speed toward passage of a bill that won't have a smooth ride through the Senate. 
- <p class="updated_time"> 11:54 AM CT, Nov. 04 </p> 
- <a href="https://www.politico.com/news/2021/11/04/pelosi-domestic-agenda-519503">Pelosi amps up domestic-agenda pressure campaign, pressing Friday votes</a> Politico: Democratic leaders made headway in some areas, but key lawmakers were still drafting new language on immigration as late as 9 p.m. 
 
 
 </details>
