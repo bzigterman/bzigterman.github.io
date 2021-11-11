@@ -7,18 +7,18 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:54 PM CT, Nov. 11 </p> 
+ <a href="https://www.nytimes.com/live/2021/11/11/world/belarus-poland-border-migrants">Live Updates: Belarus and Poland Trade Threats as Migrant Plight Worsens</a> NYT: Thousands are camped at the border as dangerous cold sets in. Western officials say Belarus’s leader, who hinted at disrupting gas supplies to Europe, orchestrated the crisis. 
+ <p class="updated_time"> 02:54 PM CT, Nov. 11 </p> 
+ <a href="https://www.nytimes.com/live/2021/11/11/world/china-xi-jinping-cpc">China’s Xi Jinping Remakes the Communist Party’s History in His Image</a> NYT: Leaders at an elite meeting enshrined Mr. Xi among the party’s historical giants, paving the way for him to claim a third five-year term. 
  <p class="updated_time"> 02:52 PM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/world/americas/bolsonaro-trump-brazil-election.html">Trump Allies Help Bolsonaro Sow Doubt in Brazil's Elections</a> NYT: With his poll numbers falling, President Jair Bolsonaro is already questioning the legitimacy of next year’s election. He has help from the United States. 
- <p class="updated_time"> 02:39 PM CT, Nov. 11 </p> 
- <a href="https://www.nytimes.com/live/2021/11/11/world/belarus-poland-border-migrants">Live Updates: Belarus and Poland Trade Threats as Migrant Plight Worsens</a> NYT: Thousands are camped at the border as dangerous cold sets in. Western officials say Belarus’s leader, who hinted at disrupting gas supplies to Europe, orchestrated the crisis. 
  <p class="updated_time"> 02:31 PM CT, Nov. 11 </p> 
  <a href="https://www.bbc.co.uk/sport/football/59256408?at_medium=RSS&at_campaign=KARANGA">Aminata Diallo: Paris St-Germain midfielder released by police without charge</a> BBC: Paris St-Germain midfielder Aminata Diallo is released without charge by French police investigating an attack on her PSG team-mate Kheira Hamraoui. 
  <p class="updated_time"> 02:29 PM CT, Nov. 11 </p> 
  <a href="https://www.bbc.co.uk/news/uk-politics-59255708?at_medium=RSS&at_campaign=KARANGA">Iran nuclear deal: UK urges Iran to back plan to revive agreement</a> BBC: Iran wants to see economic sanctions lifted, but the West wants Iran to first reduce uranium stocks. 
  <p class="updated_time"> 02:21 PM CT, Nov. 11 </p> 
- <a href="https://www.nytimes.com/2021/11/11/world/europe/germany-covid-pandemic-unvaccinated-vaccines-fourth-wave.html">Germany’s Fourth Covid Wave: ‘A Pandemic of the Unvaccinated’</a> NYT: Germany once set an example for how to manage the coronavirus. Now, deep pockets of vaccine resistance are helping drive daily infections to new heights. 
- <p class="updated_time"> 02:08 PM CT, Nov. 11 </p> 
- <a href="https://www.nytimes.com/live/2021/11/11/world/china-xi-jinping-cpc">China’s Xi Jinping Remakes the Communist Party’s History in His Image</a> NYT: Leaders at an elite meeting enshrined Mr. Xi among the party’s historical giants, paving the way for him to claim a third five-year term. 
+ <a href="https://www.nytimes.com/2021/11/11/world/europe/germany-covid-unvaccinated.html">Germany’s Fourth Covid Wave: ‘A Pandemic of the Unvaccinated’</a> NYT: Germany once set an example for how to manage the coronavirus. Now, deep pockets of vaccine resistance are helping drive daily infections to new heights. 
  <p class="updated_time"> 02:01 PM CT, Nov. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59252717?at_medium=RSS&at_campaign=KARANGA">Memorial: Russia moves to close major human rights group</a> BBC: The group say that prosecutors have accused it of violating a law on foreign agents. 
  <p class="updated_time"> 01:56 PM CT, Nov. 11 </p> 
@@ -212,14 +212,14 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:12 PM CT, Nov. 11 </p> 
+ <a href="https://www.nytimes.com/2021/11/11/us/politics/biden-veterans-day.html">Biden Marks First Veterans Day in Two Decades Without a War Underway</a> NYT: President Biden, who ended the 20-year conflict in Afghanistan this summer, called veterans the “soul of America.” 
  <p class="updated_time"> 02:50 PM CT, Nov. 11 </p> 
  <a href="https://www.cnn.com/2021/11/11/politics/fiona-hill-dissident-donald-trump/index.html">Trump's ex-Russia adviser Fiona Hill on the state of the GOP and Trump: 'Am I a dissident now?'</a> CNN: Fiona Hill, one of former President Donald Trump's top Russia advisers, blasted the former President Thursday, saying he has opened up "the possibility for every single election outcome to be contested," and suggesting her criticism could make her a "dissident." 
  <p class="updated_time"> 02:48 PM CT, Nov. 11 </p> 
  <a href="https://www.politico.com/news/2021/11/11/kyle-rittenhouse-trial-kenosha-520901">Expert at Rittenhouse trial zeroes in on just a few minutes</a> Politico: The defense has suggested to the jury that the relevant timeframe for determining whether Rittenhouse’s use of force was reasonable consists of just a few minutes around the shootings. 
  <p class="updated_time"> 02:07 PM CT, Nov. 11 </p> 
- <a href="https://www.nytimes.com/2021/11/11/business/economy/biden-inflation.html">The White House Says Its Plans Will Slow Inflation. The Big Question Is: When?</a> NYT: The Biden administration has argued that its infrastructure and broader economic package will slow rapid price increases. But that will take time. 
- <p class="updated_time"> 01:38 PM CT, Nov. 11 </p> 
- <a href="https://www.nytimes.com/2021/11/11/us/politics/biden-veterans-day.html">Biden Marks First Veterans Day in Two Decades Without a War Underway</a> NYT: President Biden, who ended the 20-year conflict in Afghanistan this summer, called veterans the “soul of America.” 
+ <a href="https://www.nytimes.com/2021/11/11/business/economy/biden-inflation.html">Biden Says Spending Bill Will Slow Inflation. But When?</a> NYT: The Biden administration has argued that its infrastructure and broader economic package will slow rapid price increases. But that will take time. 
  <p class="updated_time"> 01:31 PM CT, Nov. 11 </p> 
  <a href="https://www.npr.org/2021/11/11/1054823379/dejoy-postal-service-holiday-season">DeJoy says the U.S. Postal Service is ready to deliver a successful holiday season </a> NPR: One year after enduring a delay-plagued 2020 holiday season, the postmaster general says things will be different this time. 
  <p class="updated_time"> 01:15 PM CT, Nov. 11 </p> 
