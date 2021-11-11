@@ -7,12 +7,12 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:56 PM CT, Nov. 11 </p> 
+ <a href="https://www.nytimes.com/2021/11/11/world/africa/sudan-military-coup.html">Sudan’s Top General Entrenches Military Coup, Frustrating Western Efforts</a> NYT: A little over two weeks after seizing power, Sudan’s top general created a new ruling body led by himself. The civilian prime minister remains under house arrest. 
  <p class="updated_time"> 12:50 PM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/live/2021/11/11/world/belarus-poland-border-migrants">Live Updates: Belarus and Poland Trade Insults and Threats as Migrant Plight Worsens</a> NYT: Thousands are camped at the border as dangerous cold sets in. Western officials say Belarus’s leader, who hinted at disrupting gas supplies to Europe, orchestrated the crisis. 
- <p class="updated_time"> 12:45 PM CT, Nov. 11 </p> 
- <a href="https://www.nytimes.com/2021/11/11/world/africa/sudan-military-coup.html">Sudan’s Top General Entrenches Military Coup, Frustrating Western Efforts</a> NYT: A little over two weeks after seizing power, Sudan’s top general created a new ruling body led by himself. The civilian prime minister remains under house arrest. 
  <p class="updated_time"> 12:42 PM CT, Nov. 11 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-59253928?at_medium=RSS&at_campaign=KARANGA">COP26: Guterres says global warming target on life support</a> BBC: Antonio Guterres tells the Associated Press that COP26 will probably not achieve what's needed. 
+ <a href="https://www.bbc.co.uk/news/science-environment-59253928?at_medium=RSS&at_campaign=KARANGA">COP26: UN chief Guterres says global warming target on life support</a> BBC: Antonio Guterres tells the Associated Press that COP26 will probably not achieve what's needed. 
  <p class="updated_time"> 12:41 PM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/world/africa/covid-uganda-schools.html">Dropouts and Menial Jobs: The Effects of Keeping Uganda's Schools Closed</a> NYT: With 10 million young people in Uganda still unable to attend classes in person, the impact for many has been devastating. 
  <p class="updated_time"> 12:34 PM CT, Nov. 11 </p> 
@@ -214,6 +214,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 01:01 PM CT, Nov. 11 </p> 
  <a href="https://www.politico.com/news/2021/11/11/biden-administration-armed-drones-indonesia-520888">Biden administration wrestles with selling armed drones to Indonesia</a> Politico: The country's human rights abuses, and past purchases of Russian equipment, are among the concerns in Washington. 
+ <p class="updated_time"> 12:58 PM CT, Nov. 11 </p> 
+ <a href="https://www.nytimes.com/2021/11/11/us/politics/biden-veterans-day.html">Biden Marks First Veterans Day in Two Decades Without a War Underway</a> NYT: President Biden, who ended the 20-year conflict in Afghanistan this summer, called veterans the “soul of America.” 
  <p class="updated_time"> 12:38 PM CT, Nov. 11 </p> 
  <a href="https://www.cnn.com/2021/11/11/politics/reparations-movement-race-deconstructed-newsletter/index.html">Reparations legislation has slowed down in Washington. But at the state and local level, initiatives are ramping up</a> CNN: A version of this story appeared in CNN's Race Deconstructed newsletter. To get it in your inbox every week, sign up for free here. 
  <p class="updated_time"> 12:34 PM CT, Nov. 11 </p> 
@@ -262,6 +264,8 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/11/politics/trump-2022-strategy/index.html">Trump allies are pushing for 'stay away' strategy in some 2022 races</a> CNN: Donald Trump is expected to maintain a prolific schedule of campaign rallies to boost Republicans in next year's midterms. But on the heels of Gov.-elect Glenn Youngkin's victory in Virginia -- accomplished without a single Trump cameo -- some of the former President's aides and allies warn there could be parts of the country where he may now be encouraged to keep his distance. 
  <p class="updated_time"> 04:30 AM CT, Nov. 11 </p> 
  <a href="https://www.politico.com/news/2021/11/11/bidens-voters-recovery-conundrum-520771">Biden's ‘I feel your pain’ conundrum</a> Politico: It’s tripped up the last two Democratic presidents and could trip up Biden too: How to sell a recovery when most voters aren’t feeling it. 
+ <p class="updated_time"> 04:30 AM CT, Nov. 11 </p> 
+ <a href="https://www.politico.com/news/2021/11/11/new-york-shrinking-offices-housing-520318">Cities with empty offices see new room to expand housing</a> Politico: After Covid, New York and other cities are weighing whether to convert empty office buildings into affordable housing. 
  <p class="updated_time"> 04:30 AM CT, Nov. 11 </p> 
  <a href="https://www.politico.com/news/agenda/2021/11/11/congress-long-term-care-520649">Opinion | ‘We Don’t Fix This Because We Just Don’t Care About Old People’</a> Politico: Lawmakers are proposing billions of dollars to strengthen long-term care. It isn’t nearly enough. 
  <p class="updated_time"> 04:06 AM CT, Nov. 11 </p> 
@@ -382,8 +386,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/09/health/pfizer-booster-eligibility-adults.html">Pfizer Asks F.D.A. to Authorize Covid Booster Shots for All Adults</a> NYT: In a turnaround, the agency is expected to grant the request before the winter holiday season, giving access to all 181 million fully vaccinated people. 
  <p class="updated_time"> 07:23 PM CT, Nov. 09 </p> 
  <a href="https://www.politico.com/news/2021/11/09/chris-sununu-new-hampshire-gov-senate-520533">Sununu announcement act rubs top Republicans the wrong way</a> Politico: The New Hampshire governor not only blindsided the Senate GOP, he plugged his own presidential prospects. 
- <p class="updated_time"> 07:12 PM CT, Nov. 09 </p> 
- <a href="https://www.nytimes.com/2021/11/09/us/politics/jan-6-subpoena.html">At the Willard and the White House, the Jan. 6 Panel Widens Its Net</a> NYT: What went on at a five-star hotel near the White House the day before the riot could be a window into how a Trump-directed plot to upend the election ended in violence at the Capitol. 
  <p class="updated_time"> 06:13 PM CT, Nov. 09 </p> 
  <a href="https://www.politico.com/news/2021/11/09/biden-infrastructure-republicans-committee-standing-520484">Biden denounces efforts to strip Republicans who supported infrastructure of committee standing</a> Politico: “If we don’t generate consensus in America, we’re in trouble,” Biden said. 
  <p class="updated_time"> 06:01 PM CT, Nov. 09 </p> 
