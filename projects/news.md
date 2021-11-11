@@ -7,8 +7,14 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:39 PM CT, Nov. 11 </p> 
+ <p class="updated_time"> 12:50 PM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/live/2021/11/11/world/belarus-poland-border-migrants">Live Updates: Belarus and Poland Trade Insults and Threats as Migrant Plight Worsens</a> NYT: Thousands are camped at the border as dangerous cold sets in. Western officials say Belarus’s leader, who hinted at disrupting gas supplies to Europe, orchestrated the crisis. 
+ <p class="updated_time"> 12:45 PM CT, Nov. 11 </p> 
+ <a href="https://www.nytimes.com/2021/11/11/world/africa/sudan-military-coup.html">Sudan’s Top General Entrenches Military Coup, Frustrating Western Efforts</a> NYT: A little over two weeks after seizing power, Sudan’s top general created a new ruling body led by himself. The civilian prime minister remains under house arrest. 
+ <p class="updated_time"> 12:42 PM CT, Nov. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/science-environment-59253928?at_medium=RSS&at_campaign=KARANGA">COP26: Guterres says global warming target on life support</a> BBC: Antonio Guterres tells the Associated Press that COP26 will probably not achieve what's needed. 
+ <p class="updated_time"> 12:41 PM CT, Nov. 11 </p> 
+ <a href="https://www.nytimes.com/2021/11/11/world/africa/covid-uganda-schools.html">Dropouts and Menial Jobs: The Effects of Keeping Uganda's Schools Closed</a> NYT: With 10 million young people in Uganda still unable to attend classes in person, the impact for many has been devastating. 
  <p class="updated_time"> 12:34 PM CT, Nov. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59246899?at_medium=RSS&at_campaign=KARANGA">Belarus threatens EU gas as bloc considers sanctions</a> BBC: The EU is reportedly preparing fresh sanctions over an escalating migrant crisis at Belarus's border. 
  <p class="updated_time"> 12:33 PM CT, Nov. 11 </p> 
@@ -51,8 +57,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/10/world/middleeast/migrants-belarus-border-abuse.html">Migrants Say They Face Abuse on Both Sides of Belarus Border</a> NYT: Stories are emerging of the authorities in Belarus, Lithuania and Poland abusing asylum seekers from the Middle East and using them as political pawns. 
  <p class="updated_time"> 08:52 AM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/10/world/europe/poland-belarus-border-europe.html">Poland Gets Support From Europe on Tough Borders</a> NYT: Faced with the weaponization of migrants from Belarus, the European Union is defending Poland’s hard line even as it withholds funds over rule of law violations. 
- <p class="updated_time"> 07:59 AM CT, Nov. 11 </p> 
- <a href="https://www.nytimes.com/2021/11/11/world/africa/covid-uganda-schools.html">Dropouts and Menial Jobs: The Effects of Keeping Uganda's Schools Closed</a> NYT: With 10 million young people in Uganda still unable to attend classes in person, the impact for many has been devastating. 
  <p class="updated_time"> 07:57 AM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/world/europe/eu-covid-deaths.html">Europe's Covid Deaths Rose 10 Percent in a Week, the W.H.O. Says</a> NYT: Cases and fatalities have increased on the continent, even as they have dropped or remained stable in other parts of the globe. 
  <p class="updated_time"> 07:43 AM CT, Nov. 11 </p> 
@@ -195,8 +199,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/10/world/asia/taiwan-europe-china.html">Europe, Taiwan Inch Closer as Distrust of Beijing Grows</a> NYT: Talks between European lawmakers and Taiwanese officials point to Europe’s increasing willingness to strengthen relations, despite Beijing’s threats. 
  <p class="updated_time"> 06:33 PM CT, Nov. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59221823?at_medium=RSS&at_campaign=KARANGA">Cape Town's Day Zero: 'We are axing trees to save water'</a> BBC: Cape Town, on South Africa's coast, was the first global city to come close to running out of water. 
- <p class="updated_time"> 06:03 PM CT, Nov. 09 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-59174933?at_medium=RSS&at_campaign=KARANGA">Parambir Singh: The case of the missing top police officer</a> BBC: The former police chief of Mumbai has been missing since May - and nobody quite knows why. 
  <p class="updated_time"> 04:12 PM CT, Nov. 09 </p> 
  <a href="https://www.nytimes.com/2021/11/09/world/europe/france-vaccine-booster.html">Macron announces a new vaccine rule for people 65 or older in France.</a> NYT: Though the country has a high vaccination rate, new coronavirus cases and hospital admissions have been increasing in recent weeks. 
  <p class="updated_time"> 04:05 PM CT, Nov. 09 </p> 
@@ -212,6 +214,10 @@ permalink: /projects/news/
 
  <p class="updated_time"> 01:01 PM CT, Nov. 11 </p> 
  <a href="https://www.politico.com/news/2021/11/11/biden-administration-armed-drones-indonesia-520888">Biden administration wrestles with selling armed drones to Indonesia</a> Politico: The country's human rights abuses, and past purchases of Russian equipment, are among the concerns in Washington. 
+ <p class="updated_time"> 12:38 PM CT, Nov. 11 </p> 
+ <a href="https://www.cnn.com/2021/11/11/politics/reparations-movement-race-deconstructed-newsletter/index.html">Reparations legislation has slowed down in Washington. But at the state and local level, initiatives are ramping up</a> CNN: A version of this story appeared in CNN's Race Deconstructed newsletter. To get it in your inbox every week, sign up for free here. 
+ <p class="updated_time"> 12:34 PM CT, Nov. 11 </p> 
+ <a href="https://www.cnn.com/2021/11/11/politics/fiona-hill-dissident-donald-trump/index.html">Trump's ex-Russia adviser Fiona Hill on the state of the GOP and Trump: 'Am I a dissident now?'</a> CNN: Fiona Hill, one of former President Donald Trump's top Russia advisers, blasted the former President Thursday, saying he has opened up "the possibility for every single election outcome to be contested," and suggesting her criticism could make her a "dissident." 
  <p class="updated_time"> 12:29 PM CT, Nov. 11 </p> 
  <a href="https://www.cnn.com/2021/11/11/politics/mark-meadows-january-6-committee-response/index.html">Mark Meadows says he won't cooperate with House January 6 committee until court rules on Trump privilege claim</a> CNN: Former White House Chief of Staff Mark Meadows is facing new pressure to cooperate with the House Select Committee investigating January 6 after he was notified Thursday that President Joe Biden will not assert executive privilege or immunity over documents and testimony requested by the panel, according to a copy obtained by CNN. 
  <p class="updated_time"> 12:23 PM CT, Nov. 11 </p> 
@@ -228,8 +234,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/11/politics/trump-nixon-supreme-court-analysis-biskupic/index.html">Supreme Court's Watergate-era rulings against Nixon may end Trump's executive privilege claims</a> CNN: Former President Donald Trump's attempt to withhold records from the House of Representatives related to the January 6 US Capitol attack based on executive privilege -- a claim rejected by President Joe Biden -- would present the US Supreme Court with a novel legal dilemma. 
  <p class="updated_time"> 10:17 AM CT, Nov. 11 </p> 
  <a href="https://www.cnn.com/2021/11/11/politics/xi-jinping-joe-biden-virtual-summit/index.html">Biden expected to hold virtual summit with Chinese President Xi Jinping on Monday</a> CNN: President Joe Biden's highly anticipated virtual summit with Chinese President Xi Jinping is expected to take place on Monday, people familiar with the matter say. 
- <p class="updated_time"> 10:07 AM CT, Nov. 11 </p> 
- <a href="https://www.cnn.com/2021/11/11/politics/reparations-movement-race-deconstructed-newsletter/index.html">Reparations legislation has slowed down in Washington. But at the state and local level, initiatives are ramping up</a> CNN: A version of this story appeared in CNN's Race Deconstructed newsletter. To get it in your inbox every week, sign up for free here. 
  <p class="updated_time"> 10:01 AM CT, Nov. 11 </p> 
  <a href="https://www.cnn.com/2021/11/11/politics/national-medal-of-honor-museum/index.html">Presidents Obama, Bush and Clinton in new PSA urge Americans to support National Medal of Honor Museum </a> CNN: Former Presidents Bill Clinton, George W. Bush and Barack Obama are asking Americans for support to build a national museum to recognize Medal of Honor recipients. 
  <p class="updated_time"> 09:43 AM CT, Nov. 11 </p> 
@@ -292,6 +296,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/10/us-china-climate-talks-cooperation-520686">U.S. and China step to forefront as climate talks near end game</a> Politico: The pair moved closer to something resembling an agreement on Wednesday, issuing a joint statement of principles for climate cooperation. 
  <p class="updated_time"> 06:28 PM CT, Nov. 10 </p> 
  <a href="https://www.cnn.com/2021/11/10/politics/biden-baltimore-port-infrastructure/index.html">'It's worrisome': Biden addresses inflation concerns during Baltimore speech</a> CNN: President Joe Biden takes his sales pitch for the newly passed bipartisan infrastructure deal on the road Wednesday, highlighting the effect of the bill on supply chains, hours after new inflation statistics revealed that America's prices are surging more than they have in 30 years. 
+ <p class="updated_time"> 05:53 PM CT, Nov. 10 </p> 
+ <a href="https://www.politico.com/news/2021/11/10/rent-inflation-biden-520642">Biden’s next inflation threat: The rent is too damn high</a> Politico: The Biden administration has vowed to address the home affordability crisis in the U.S., but policies are still in development and will likely have a limited impact. 
  <p class="updated_time"> 05:22 PM CT, Nov. 10 </p> 
  <a href="https://www.cnn.com/2021/11/10/politics/new-york-vaccine-mandate-james/index.html">New York tells SCOTUS to allow vaccine mandate for health care workers to remain on the books</a> CNN: New York Attorney General Letitia James urged the Supreme Court Wednesday to deny a request from a group of New York health care workers to block the state's vaccine mandate, arguing that the emergency rule requiring vaccinations for certain health care workers is necessary to combat the spread of the virus, which can lead to a "vicious cycle of staff shortages and deterioration of patient care." 
  <p class="updated_time"> 05:22 PM CT, Nov. 10 </p> 
@@ -314,6 +320,10 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/10/biden-xi-virtual-summit-520609">Biden-Xi virtual summit tentatively set for Monday</a> Politico: The long-anticipated meeting aims to reset strained bilateral ties. 
  <p class="updated_time"> 03:37 PM CT, Nov. 10 </p> 
  <a href="https://www.npr.org/2021/11/10/1054428150/tunisia-is-seeing-political-changes-and-some-fear-its-a-path-back-to-dictatorshi">Tunisia is seeing political changes, and some fear it may be a path to dictatorship</a> NPR: While most Tunisians were glad to see their president dissolve the quarrelsome, ineffective parliament and take extra powers, some worry Tunisia could be repeating a path to dictatorship. 
+ <p class="updated_time"> 03:34 PM CT, Nov. 10 </p> 
+ <a href="https://www.politico.com/news/2021/11/10/trump-era-scam-pac-indictment-520610">They raised millions for Trump, spent barely any of it on him. Now they’re indicted.</a> Politico: The feds just threw the book at one of the ultimate Trump-era scam PACers. 
+ <p class="updated_time"> 03:30 PM CT, Nov. 10 </p> 
+ <a href="https://www.politico.com/news/2021/11/10/soaring-inflation-stalks-bidens-economy-520613">Is the West Wing out of touch? Corporate execs call on White House to fight inflation.</a> Politico: “I don’t think the administration is on top of it at all,” said the CEO of one of the U.S.’s largest companies. 
  <p class="updated_time"> 03:29 PM CT, Nov. 10 </p> 
  <a href="https://www.npr.org/2021/11/10/1054428115/white-house-economic-adviser-weighs-in-on-the-inflation-spike-and-spending-plan">White House economic adviser weighs in on the inflation spike and spending plan</a> NPR: NPR's Ailsa Chang talks with White House economic adviser Brian Deese as inflation soars to its highest in 30 years. 
  <p class="updated_time"> 03:29 PM CT, Nov. 10 </p> 
@@ -330,8 +340,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/10/politics/jill-biden-elizabeth-dole-military-caregiving/index.html">Jill Biden and Elizabeth Dole team up to highlight military caregiving</a> CNN: First lady Jill Biden will highlight military caregiving families Wednesday morning at the White House, part of the Joining Forces initiative she started alongside then-first lady Michelle Obama in 2011. 
  <p class="updated_time"> 02:21 PM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/technology/doj-uber-suit-disabilities.html">U.S. Sues Uber, Saying It Discriminated Against People With Disabilities</a> NYT: The Justice Department says Uber did not adjust its wait time fees for people with disabilities, even when Uber knew someone needed additional time. 
- <p class="updated_time"> 02:19 PM CT, Nov. 10 </p> 
- <a href="https://www.cnn.com/2021/11/10/politics/fairlamb-sentence-capitol-riot/index.html">US Capitol rioter who assaulted police officer gets 41 months in prison</a> CNN: A New Jersey gym owner and former MMA fighter who punched a police officer during the January 6 riot was sentenced to 41 months in prison on Wednesday, becoming the first rioter sentenced for violence against the police during the attack. 
  <p class="updated_time"> 12:59 PM CT, Nov. 10 </p> 
  <a href="https://www.politico.com/news/2021/11/10/scott-fairlamb-jan-6-sentencing-520592">N.J. man hit with toughest sentence yet in Jan. 6 attack</a> Politico: Former MMA fighter Scott Fairlamb gets 41 months in prison for punching police officer during Capitol Riot. 
  <p class="updated_time"> 12:42 PM CT, Nov. 10 </p> 
@@ -388,8 +396,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/09/politics/biden-infrastructure-bill-spending-economy/index.html">Here's how long it may take Biden's infrastructure package to jolt the economy</a> CNN: It may be years before Americans are driving over new bridges or plugging their electric vehicles into a new highway charger funded by President Joe Biden's infrastructure package. But some of the money could be released over the next six months, providing a jolt to a backlog of projects across the country. 
  <p class="updated_time"> 03:18 PM CT, Nov. 09 </p> 
  <a href="https://www.politico.com/news/2021/11/09/dunn-capitol-police-union-jan-6-520459">Dunn jumps into race to lead Capitol Police union after post-Jan. 6 testimony</a> Politico: The 13-year veteran officer, who is Black, told lawmakers on the select committee about the trauma and racial slurs he endured during the riot. 
- <p class="updated_time"> 12:00 PM CT, Nov. 09 </p> 
- <a href="https://www.politico.com/news/2021/11/09/trump-officials-hatch-act-violated-520420">Watchdog: 13 Trump officials violated Hatch Act during 2020 campaign</a> Politico: The list includes several cabinet officials and top White House aides, including Trump’s former Secretary of State Mike Pompeo, chief of staff Mark Meadows and press secretary Kayleigh McEnany. 
  <p class="updated_time"> 09:35 AM CT, Nov. 09 </p> 
  <a href="https://www.cnn.com/2021/11/09/politics/gas-prices-joe-biden-explainer/index.html">Here's what Biden can actually do about gas prices</a> CNN: High gas prices are quickly becoming a political liability for President Joe Biden -- and like presidents before him, he has few options to bring them down. 
  <p class="updated_time"> 07:24 AM CT, Nov. 09 </p> 
@@ -420,10 +426,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/11/07/what-happens-in-vegas-495006">POLITICO Playbook: What happens in Vegas …</a> Politico: And a court temporarily blocks Biden’s vaccine mandate. 
  <p class="updated_time"> 10:27 AM CT, Nov. 07 </p> 
  <a href="https://www.politico.com/news/2021/11/07/murthy-vaccine-mandate-biden-520015">Surgeon general defends embattled vaccine mandate</a> Politico: “It’s a necessary step to accelerate our pathway out of the pandemic,” Vivek Murthy said. 
- <p class="updated_time"> 07:01 AM CT, Nov. 07 </p> 
- <a href="https://www.politico.com/news/2021/11/07/biden-faces-heat-pipeline-propane-cost-519788">Pipeline pile-on: Biden faces heat from Canada, Republicans, Michigan’s governor and the price of propane</a> Politico: The president is caught between environmentalists and Indigenous groups on one side and Republicans blaming him for soaring energy prices on the other. 
- <p class="updated_time"> 11:01 AM CT, Nov. 06 </p> 
- <a href="https://www.politico.com/news/2021/11/06/infrastructure-bill-build-back-better-519894">How Biden’s infrastructure win falls short in one big area</a> Politico: The bill is historic in its scope with $550 billion in new money funneled into hard infrastructure, from overhauling bridges to supercharging Amtrak's most popular rail corridor in the Northeast. 
  <p class="updated_time"> 10:18 AM CT, Nov. 06 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/06/how-biden-and-pelosi-saved-bif-495005">POLITICO Playbook: How Biden and Pelosi saved BIF</a> Politico: And President Joe Biden secures the biggest win of his presidency so far. 
  <p class="updated_time"> 10:30 PM CT, Nov. 05 </p> 
