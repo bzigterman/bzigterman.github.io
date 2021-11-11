@@ -7,14 +7,14 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:52 PM CT, Nov. 11 </p> 
+ <a href="https://www.nytimes.com/2021/11/11/world/americas/bolsonaro-trump-brazil-election.html">Trump Allies Help Bolsonaro Sow Doubt in Brazil's Elections</a> NYT: With his poll numbers falling, President Jair Bolsonaro is already questioning the legitimacy of next year’s election. He has help from the United States. 
  <p class="updated_time"> 02:39 PM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/live/2021/11/11/world/belarus-poland-border-migrants">Live Updates: Belarus and Poland Trade Threats as Migrant Plight Worsens</a> NYT: Thousands are camped at the border as dangerous cold sets in. Western officials say Belarus’s leader, who hinted at disrupting gas supplies to Europe, orchestrated the crisis. 
  <p class="updated_time"> 02:31 PM CT, Nov. 11 </p> 
  <a href="https://www.bbc.co.uk/sport/football/59256408?at_medium=RSS&at_campaign=KARANGA">Aminata Diallo: Paris St-Germain midfielder released by police without charge</a> BBC: Paris St-Germain midfielder Aminata Diallo is released without charge by French police investigating an attack on her PSG team-mate Kheira Hamraoui. 
  <p class="updated_time"> 02:29 PM CT, Nov. 11 </p> 
  <a href="https://www.bbc.co.uk/news/uk-politics-59255708?at_medium=RSS&at_campaign=KARANGA">Iran nuclear deal: UK urges Iran to back plan to revive agreement</a> BBC: Iran wants to see economic sanctions lifted, but the West wants Iran to first reduce uranium stocks. 
- <p class="updated_time"> 02:29 PM CT, Nov. 11 </p> 
- <a href="https://www.nytimes.com/2021/11/11/world/americas/bolsonaro-trump-brazil-election.html">Trump Allies Help Bolsonaro Sow Doubt in Brazil's Elections</a> NYT: With his poll numbers falling, President Jair Bolsonaro is already questioning the legitimacy of next year’s election. He has help from the United States. 
  <p class="updated_time"> 02:21 PM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/world/europe/germany-covid-pandemic-unvaccinated-vaccines-fourth-wave.html">Germany’s Fourth Covid Wave: ‘A Pandemic of the Unvaccinated’</a> NYT: Germany once set an example for how to manage the coronavirus. Now, deep pockets of vaccine resistance are helping drive daily infections to new heights. 
  <p class="updated_time"> 02:08 PM CT, Nov. 11 </p> 
@@ -212,6 +212,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:50 PM CT, Nov. 11 </p> 
+ <a href="https://www.cnn.com/2021/11/11/politics/fiona-hill-dissident-donald-trump/index.html">Trump's ex-Russia adviser Fiona Hill on the state of the GOP and Trump: 'Am I a dissident now?'</a> CNN: Fiona Hill, one of former President Donald Trump's top Russia advisers, blasted the former President Thursday, saying he has opened up "the possibility for every single election outcome to be contested," and suggesting her criticism could make her a "dissident." 
  <p class="updated_time"> 02:48 PM CT, Nov. 11 </p> 
  <a href="https://www.politico.com/news/2021/11/11/kyle-rittenhouse-trial-kenosha-520901">Expert at Rittenhouse trial zeroes in on just a few minutes</a> Politico: The defense has suggested to the jury that the relevant timeframe for determining whether Rittenhouse’s use of force was reasonable consists of just a few minutes around the shootings. 
  <p class="updated_time"> 02:07 PM CT, Nov. 11 </p> 
@@ -226,8 +228,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/11/biden-administration-armed-drones-indonesia-520888">Biden administration wrestles with selling armed drones to Indonesia</a> Politico: The country's human rights abuses, and past purchases of Russian equipment, are among the concerns in Washington. 
  <p class="updated_time"> 12:38 PM CT, Nov. 11 </p> 
  <a href="https://www.cnn.com/2021/11/11/politics/reparations-movement-race-deconstructed-newsletter/index.html">Reparations legislation has slowed down in Washington. But at the state and local level, initiatives are ramping up</a> CNN: A version of this story appeared in CNN's Race Deconstructed newsletter. To get it in your inbox every week, sign up for free here. 
- <p class="updated_time"> 12:34 PM CT, Nov. 11 </p> 
- <a href="https://www.cnn.com/2021/11/11/politics/fiona-hill-dissident-donald-trump/index.html">Trump's ex-Russia adviser Fiona Hill on the state of the GOP and Trump: 'Am I a dissident now?'</a> CNN: Fiona Hill, one of former President Donald Trump's top Russia advisers, blasted the former President Thursday, saying he has opened up "the possibility for every single election outcome to be contested," and suggesting her criticism could make her a "dissident." 
  <p class="updated_time"> 12:29 PM CT, Nov. 11 </p> 
  <a href="https://www.cnn.com/2021/11/11/politics/mark-meadows-january-6-committee-response/index.html">Mark Meadows says he won't cooperate with House January 6 committee until court rules on Trump privilege claim</a> CNN: Former White House Chief of Staff Mark Meadows is facing new pressure to cooperate with the House Select Committee investigating January 6 after he was notified Thursday that President Joe Biden will not assert executive privilege or immunity over documents and testimony requested by the panel, according to a copy obtained by CNN. 
  <p class="updated_time"> 12:23 PM CT, Nov. 11 </p> 
