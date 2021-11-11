@@ -7,10 +7,10 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:43 PM CT, Nov. 10 </p> 
- <a href="https://www.nytimes.com/live/2021/11/10/world/poland-belarus-border-migrants">E.U. Sides With Poland Over Migrants at Belarus Border</a> NYT: Western officials accuse the leader of Belarus of sending migrants to E.U. borders as retaliation for sanctions. Lithuania, which also borders Belarus, declared a state of emergency. 
- <p class="updated_time"> 08:28 PM CT, Nov. 10 </p> 
+ <p class="updated_time"> 08:55 PM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/world/americas/brazil-bolsonaro-liberal-party.html">Bolsonaro Joins a Centrist Party in Brazil Ahead of 2022 Re-election Bid</a> NYT: President Jair Bolsonaro, who has not belonged to any political party for two years, is joining the centrist Liberals, they said on Wednesday. 
+ <p class="updated_time"> 08:55 PM CT, Nov. 10 </p> 
+ <a href="https://www.nytimes.com/live/2021/11/10/world/poland-belarus-border-migrants">E.U. Sides With Poland Over Migrants at Belarus Border</a> NYT: Western officials accuse the leader of Belarus of sending migrants to E.U. borders as retaliation for sanctions. Lithuania, which also borders Belarus, declared a state of emergency. 
  <p class="updated_time"> 08:13 PM CT, Nov. 10 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59242986?at_medium=RSS&at_campaign=KARANGA">Climate change: Iran says lift sanctions and we'll ratify Paris agreement</a> BBC: The world's eighth largest emitter says it will ratify the Paris climate pact if restrictions are lifted. 
  <p class="updated_time"> 07:25 PM CT, Nov. 10 </p> 
@@ -200,6 +200,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 09:47 PM CT, Nov. 10 </p> 
  <a href="https://www.politico.com/news/2021/11/10/texas-ban-school-mask-mandate-disabilities-520760">Federal judge says Texas governor’s ban on school mask mandates violates Americans with Disabilities Act</a> Politico: The decision bars the state attorney general from enforcing the executive order issued by Republican Gov. Greg Abbott. 
+ <p class="updated_time"> 08:59 PM CT, Nov. 10 </p> 
+ <a href="https://www.nytimes.com/2021/11/10/us/politics/swift-ruling-tests-trump-delay-tactic.html">Swift Ruling in Jan. 6 Case Tests Trump's Tactic of Delay</a> NYT: The former president has leveraged the slow judicial process in the past to thwart congressional oversight, but the Jan. 6 case may be different. 
  <p class="updated_time"> 08:30 PM CT, Nov. 10 </p> 
  <a href="https://www.politico.com/news/2021/11/10/flint-water-lead-lawsuit-520747">Judge OKs $626 million settlement in Flint water litigation</a> Politico: The deal will benefit Flint children who were exposed to the water, adults who can show an injury, certain business owners and anyone who paid water bills. 
  <p class="updated_time"> 08:13 PM CT, Nov. 10 </p> 
@@ -264,8 +266,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/10/1054428115/white-house-economic-adviser-weighs-in-on-the-inflation-spike-and-spending-plan">White House economic adviser weighs in on the inflation spike and spending plan</a> NPR: NPR's Ailsa Chang talks with White House economic adviser Brian Deese as inflation soars to its highest in 30 years. 
  <p class="updated_time"> 03:29 PM CT, Nov. 10 </p> 
  <a href="https://www.npr.org/2021/11/10/1054024084/capitol-riot-suspects-had-more-ties-to-oath-keepers-than-previously-known">Capitol riot suspects had more ties to Oath Keepers than previously known</a> NPR: NPR has identified previously undisclosed connections between the far-right anti-government group the Oath Keepers and defendants charged in connection with the Jan. 6 Capitol riot. 
- <p class="updated_time"> 03:11 PM CT, Nov. 10 </p> 
- <a href="https://www.nytimes.com/2021/11/10/us/politics/swift-ruling-tests-trump-delay-tactic.html">Swift Ruling in Jan. 6 Case Tests Trump's Tactic of Delay</a> NYT: The former president has leveraged the slow judicial process in the past to thwart congressional oversight, but the Jan. 6 case may be different. 
  <p class="updated_time"> 03:11 PM CT, Nov. 10 </p> 
  <a href="https://www.npr.org/2021/11/10/1054428101/vp-harris-met-with-macron-as-part-of-the-ongoing-effort-to-mend-alliance-with-fr">VP Harris met with Macron as part of the ongoing effort to mend alliance with France</a> NPR: Vice President Harris meets with French President Emmanuel Macron, the latest in series of Biden administration diplomatic make-up sessions in the wake of the Australian nuclear submarine deal. 
  <p class="updated_time"> 03:11 PM CT, Nov. 10 </p> 
