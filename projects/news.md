@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:02 AM CT, Nov. 11 </p> 
+ <a href="https://www.nytimes.com/2021/11/10/world/middleeast/migrants-belarus-border-abuse.html">Migrants Say They Face Abuse on Both Sides of Belarus Border</a> NYT: Stories are emerging of the authorities in Belarus, Lithuania and Poland abusing asylum seekers from the Middle East and using them as political pawns. 
  <p class="updated_time"> 08:52 AM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/10/world/europe/poland-belarus-border-europe.html">Poland Gets Support From Europe on Tough Borders</a> NYT: Faced with the weaponization of migrants from Belarus, the European Union is defending Poland’s hard line even as it withholds funds over rule of law violations. 
  <p class="updated_time"> 08:52 AM CT, Nov. 11 </p> 
@@ -24,7 +26,7 @@ permalink: /projects/news/
  <p class="updated_time"> 07:43 AM CT, Nov. 11 </p> 
  <a href="https://www.npr.org/2021/11/11/1054646063/china-xi-jinping-communist-party">China's Communist Party, with eye on history, gives Xi Jinping the same status as Mao</a> NPR: Leaders have set the stage for the Chinese president to extend his rule, and for just the third time ever, approved a political history that gives him status equal to the most important party figures. 
  <p class="updated_time"> 07:25 AM CT, Nov. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-59249540?at_medium=RSS&at_campaign=KARANGA">Chan Chan: Mass grave found in ancient Peruvian city</a> BBC: Twenty-five men, women and children were buried in a small space in the ancient city of Chan Chan. 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-59249540?at_medium=RSS&at_campaign=KARANGA">Chan Chan: Mass grave found in ancient Peruvian city</a> BBC: Twenty-five people, mostly young women, were buried in a small space in the ancient city of Chan Chan. 
  <p class="updated_time"> 07:10 AM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/world/europe/glasgow-garbage-strike.html">Outside COP26, Trash in Glasgow Piles High</a> NYT: At COP26, delegates address the need to curb emissions and mass consumption to save the planet while the reality of today’s throwaway society is all too apparent nearby. 
  <p class="updated_time"> 06:12 AM CT, Nov. 11 </p> 
@@ -37,8 +39,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/live/2021/11/11/world/china-xi-jinping-cpc/xi-jinping-history-third-term">Eyeing his future, Xi Jinping rewrites the past.</a> NYT: Senior party officials have gathered at a closed-door meeting in Beijing to cement Mr. Xi’s dominance as he moves to claim a likely third term next year as China’s leader. 
  <p class="updated_time"> 05:38 AM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/09/world/europe/poland-belarus-border-crisis.html">E.U. Blames Belarus for Migrant Crisis at Poland Border</a> NYT: Poland has massed troops at the border, the European Union’s eastern frontier, to keep migrants camped there from crossing into the country. 
- <p class="updated_time"> 05:33 AM CT, Nov. 11 </p> 
- <a href="https://www.nytimes.com/2021/11/10/world/middleeast/migrants-belarus-border-abuse.html">Migrants Say They Face Abuse on Both Sides of Belarus Border</a> NYT: Stories are emerging of the authorities in Belarus, Lithuania and Poland abusing asylum seekers from the Middle East and using them as political pawns. 
  <p class="updated_time"> 04:21 AM CT, Nov. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59229935?at_medium=RSS&at_campaign=KARANGA">China's Xi Jinping cements his status with historic resolution</a> BBC: Mr Xi is only the third leader to issue a "historical resolution" after Mao Zedong and Deng Xiaoping. 
  <p class="updated_time"> 04:03 AM CT, Nov. 11 </p> 
@@ -198,6 +198,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 08:34 AM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/10/us/politics/biden-infrastructure.html">Biden Got His Infrastructure Bill. Now He Has to Sell It to Voters.</a> NYT: Inside the Democratic Party, concerns are growing about whether the president will be able to fully capitalize on a major legislative victory. 
+ <p class="updated_time"> 08:02 AM CT, Nov. 11 </p> 
+ <a href="https://www.nytimes.com/2021/11/10/us/politics/moderna-vaccine-patent-nih.html">N.I.H. Says It Is Not Giving Up in Patent Fight with Moderna</a> NYT: The dispute has potential implications for the vaccine’s long-term availability and billions in future profits. 
  <p class="updated_time"> 07:06 AM CT, Nov. 11 </p> 
  <a href="https://www.politico.com/news/2021/11/11/chinese-leaders-history-xi-520793">China elevates Xi over tradition that would require him to step down</a> Politico: The move is expected to give Xi status beside the ruling Communist Party's most important figures. 
  <p class="updated_time"> 07:02 AM CT, Nov. 11 </p> 
@@ -248,16 +250,12 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/10/flint-water-lead-lawsuit-520747">Judge OKs $626 million settlement in Flint water litigation</a> Politico: The deal will benefit Flint children who were exposed to the water, adults who can show an injury, certain business owners and anyone who paid water bills. 
  <p class="updated_time"> 08:13 PM CT, Nov. 10 </p> 
  <a href="https://www.cnn.com/2021/11/10/politics/andrew-cuomo-sexual-harassment-testimony-james-report/index.html">New York attorney general releases former Gov. Andrew Cuomo's testimony and other documents from sexual harassment investigation</a> CNN: The office of the New York Attorney General Letitia James on Wednesday released a transcripts of investigators' interview with former New York Gov. Andrew Cuomo, along with other documents and exhibits, from its investigation into the sexual harassment allegations that ultimately led to his resignation. 
- <p class="updated_time"> 07:53 PM CT, Nov. 10 </p> 
- <a href="https://www.nytimes.com/2021/11/09/us/moderna-vaccine-patent.html">Moderna and U.S. at Odds Over Vaccine Patent Rights</a> NYT: Moderna’s patent application names several employees as the sole inventors of a crucial component of its coronavirus vaccine, excluding three government scientists. 
  <p class="updated_time"> 07:30 PM CT, Nov. 10 </p> 
  <a href="https://www.politico.com/news/2021/11/10/dc-officials-jan-6-prisoners-jail-520707">D.C. officials stew after Jan. 6 prisoners’ complaints prompt federal pull-out from jail</a> Politico: City Council members demand immediate steps to address the failures at the central jail, including abuse, retaliation and substandard food. 
  <p class="updated_time"> 07:25 PM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/climate/climate-cop26-glasgow.html">China and the United States Join in Seeking Emissions Cuts</a> NYT: As nearly 200 nations struggle over global climate negotiations, the world’s two biggest polluters sign an agreement, but it was short on details. 
  <p class="updated_time"> 07:02 PM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/world/europe/france-kamala-harris-macron.html">Harris Meets Macron, Signaling a ‘New Era’ After Sub Snub, Both Say</a> NYT: In her vague assignment abroad, the vice president seems to be emphasizing that the U.S.-France relationship is about looking forward, in the wake of an embarrassing diplomatic spat. 
- <p class="updated_time"> 06:43 PM CT, Nov. 10 </p> 
- <a href="https://www.politico.com/news/2021/11/10/us-china-climate-talks-cooperation-520686">U.S. and China step to forefront as climate talks near end game</a> Politico: The pair moved closer to something resembling an agreement on Wednesday, issuing a joint statement of principles for climate cooperation. 
  <p class="updated_time"> 06:28 PM CT, Nov. 10 </p> 
  <a href="https://www.cnn.com/2021/11/10/politics/biden-baltimore-port-infrastructure/index.html">'It's worrisome': Biden addresses inflation concerns during Baltimore speech</a> CNN: President Joe Biden takes his sales pitch for the newly passed bipartisan infrastructure deal on the road Wednesday, highlighting the effect of the bill on supply chains, hours after new inflation statistics revealed that America's prices are surging more than they have in 30 years. 
  <p class="updated_time"> 05:53 PM CT, Nov. 10 </p> 
@@ -312,6 +310,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/10/technology/doj-uber-suit-disabilities.html">U.S. Sues Uber, Saying It Discriminated Against People With Disabilities</a> NYT: The Justice Department says Uber did not adjust its wait time fees for people with disabilities, even when Uber knew someone needed additional time. 
  <p class="updated_time"> 02:19 PM CT, Nov. 10 </p> 
  <a href="https://www.cnn.com/2021/11/10/politics/fairlamb-sentence-capitol-riot/index.html">US Capitol rioter who assaulted police officer gets 41 months in prison</a> CNN: A New Jersey gym owner and former MMA fighter who punched a police officer during the January 6 riot was sentenced to 41 months in prison on Wednesday, becoming the first rioter sentenced for violence against the police during the attack. 
+ <p class="updated_time"> 12:59 PM CT, Nov. 10 </p> 
+ <a href="https://www.politico.com/news/2021/11/10/scott-fairlamb-jan-6-sentencing-520592">N.J. man hit with toughest sentence yet in Jan. 6 attack</a> Politico: Former MMA fighter Scott Fairlamb gets 41 months in prison for punching police officer during Capitol Riot. 
  <p class="updated_time"> 12:42 PM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/us/politics/fairlamb-jan-6-riot.html">Scott Fairlamb Sentenced for Assaulting Officer on Jan. 6</a> NYT: The sentence given to Scott Fairlamb, a former New Jersey gym owner, is the most severe so far for any of the more 650 people charged in the Jan. 6 attack. 
  <p class="updated_time"> 12:16 PM CT, Nov. 10 </p> 
@@ -348,8 +348,12 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/10/1054175407/the-super-rich-push-back-against-calls-for-a-wealth-tax">The super rich push back against calls for a wealth tax</a> NPR: During the pandemic U.S. billionaires saw their wealth increase by more than $1 trillion. The majority of that increase is not taxed because their net worth is tied up in the stocks they own. 
  <p class="updated_time"> 04:00 AM CT, Nov. 10 </p> 
  <a href="https://www.npr.org/2021/11/10/1054137225/nearly-1-million-kids-ages-5-11-will-have-their-first-covid-shots-by-the-end-of-">Nearly 1 million kids ages 5-11 will have their first COVID shots by the end of today</a> NPR: About 3% of children in the age group authorized last week to get a low-dose vaccine will have their first shots by Wednesday, according to the White House. 
+ <p class="updated_time"> 12:26 AM CT, Nov. 10 </p> 
+ <a href="https://www.politico.com/news/2021/11/10/jan6-shaman-sentencing-recommendation-520570">51-month sentence urged for ‘QAnon Shaman’ Jacob Chansley</a> Politico: “Defendant Chansley’s now-famous criminal acts have made him the public face of the Capitol riot,” prosecutors said. 
  <p class="updated_time"> 10:18 PM CT, Nov. 09 </p> 
  <a href="https://www.nytimes.com/2021/11/09/us/politics/trump-january-6-committee.html">Judge Rejects Trump’s Bid to Keep Papers Secret in Jan. 6 Inquiry</a> NYT: But a Trump lawyer has signaled an intent to appeal the ruling, which raises novel issues about an ex-president’s executive privilege powers. 
+ <p class="updated_time"> 09:29 PM CT, Nov. 09 </p> 
+ <a href="https://www.politico.com/news/2021/11/09/trump-executive-privilege-court-ruling-kings-520512">Trump cannot shield White House records from Jan. 6 committee, judge rules</a> Politico: “Presidents are not kings, and Plaintiff is not President,” Judge Tanya Chutkan wrote. 
  <p class="updated_time"> 09:22 PM CT, Nov. 09 </p> 
  <a href="https://www.nytimes.com/2021/11/09/health/pfizer-booster-eligibility-adults.html">Pfizer Asks F.D.A. to Authorize Covid Booster Shots for All Adults</a> NYT: In a turnaround, the agency is expected to grant the request before the winter holiday season, giving access to all 181 million fully vaccinated people. 
  <p class="updated_time"> 07:23 PM CT, Nov. 09 </p> 
