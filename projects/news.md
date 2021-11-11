@@ -7,18 +7,28 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:35 PM CT, Nov. 11 </p> 
+ <a href="https://www.nytimes.com/live/2021/11/11/world/belarus-poland-border-migrants">Live Updates: Belarus and Poland Trade Threats as Migrant Plight Worsens</a> NYT: Thousands are camped at the border as dangerous cold sets in. Western officials say Belarus’s leader, who hinted at disrupting gas supplies to Europe, orchestrated the crisis. 
+ <p class="updated_time"> 03:35 PM CT, Nov. 11 </p> 
+ <a href="https://www.nytimes.com/2021/11/10/world/americas/brazil-bolsonaro-liberal-party.html">Bolsonaro Joins a Centrist Party in Brazil Ahead of 2022 Re-election Bid</a> NYT: President Jair Bolsonaro, who has not belonged to any political party for two years, is joining the centrist Liberals, they said on Wednesday. 
+ <p class="updated_time"> 03:35 PM CT, Nov. 11 </p> 
+ <a href="https://www.nytimes.com/2021/11/11/world/europe/poland-independence-day-far-right-protests.html">As Poland Celebrates Its Independence Day, Far-Right Groups Stage Rallies</a> NYT: In downtown Warsaw, tens of thousands of demonstrators started their march by lighting red flares and singing the national anthem. 
+ <p class="updated_time"> 03:33 PM CT, Nov. 11 </p> 
+ <a href="https://www.nytimes.com/2021/11/11/world/europe/germany-covid-unvaccinated.html">Germany’s Fourth Covid Wave: ‘A Pandemic of the Unvaccinated’</a> NYT: Germany once set an example for how to manage the coronavirus. Now, deep pockets of vaccine resistance are helping drive daily infections to new heights. 
+ <p class="updated_time"> 03:31 PM CT, Nov. 11 </p> 
+ <a href="https://www.npr.org/2021/11/11/1054884112/xi-jinping-is-in-a-good-position-to-break-norms-and-continue-to-lead-china">Xi Jinping is in a good position to break norms and continue to lead China</a> NPR: In China, leadership has concluded a four-day meeting that endorsed Xi Jinping's vision for the country and signed off on a reassessment of the party's 100-year history. 
+ <p class="updated_time"> 03:31 PM CT, Nov. 11 </p> 
+ <a href="https://www.npr.org/2021/11/11/1054884098/with-covid-case-rates-in-europe-rising-some-countries-are-bringing-back-restrict">With COVID case rates in Europe rising, some countries are bringing back restrictions</a> NPR: After reducing or eliminating COVID restrictions as more people became vaccinated, many European countries are being forced to reverse course, as infections increase across the continent. 
  <p class="updated_time"> 03:24 PM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/world/africa/fw-de-klerk-dead.html">F.W. de Klerk, Last President of Apartheid South Africa, Dies at 85</a> NYT: A prominent Afrikaner, he defended the separation of the races before helping to dismantle that system, leading to his sharing the Nobel Peace Prize with Nelson Mandela. 
  <p class="updated_time"> 03:21 PM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/world/asia/zuo-fang-dead.html">Zuo Fang, a Founder of China's Southern Weekly, is Dead</a> NYT: When he helped start Southern Weekly, he charted a course for a freer era for the country’s press, which later became increasingly constrained by Beijing. 
  <p class="updated_time"> 03:19 PM CT, Nov. 11 </p> 
- <a href="https://www.npr.org/2021/11/11/1054884091/how-other-countries-at-cop26-view-american-leadership-and-climate-promises">How other countries at COP26 view American leadership and climate promises</a> NPR: President Biden has declared the U.S. is back as a leader in combatting disastrous climate change. But after years of unfulfilled pledges, how do other countries view American leadership and promises? 
+ <a href="https://www.npr.org/2021/11/11/1054884077/the-complicated-legacy-of-f-w-klerk-south-africas-last-apartheid-era-president">The complicated legacy of F.W. de Klerk, South Africa's last apartheid-era president</a> NPR: F.W. de Klerk, South Africa's last apartheid-era president, has died at the age of 85. De Klerk shared the Nobel Peace Prize with Nelson Mandela in 1993, but always remained a divisive figure. 
  <p class="updated_time"> 03:19 PM CT, Nov. 11 </p> 
- <a href="https://www.npr.org/2021/11/11/1054884077/the-complicated-legacy-of-f-w-klerk-south-africas-last-apartheid-era-president">The complicated legacy of F.W. Klerk, South Africa's last apartheid-era president</a> NPR: F.W. de Klerk, South Africa's last apartheid-era president, has died at the age of 85. De Klerk shared the Nobel Peace Prize with Nelson Mandela in 1993, but always remained a divisive figure. 
+ <a href="https://www.npr.org/2021/11/11/1054884091/how-other-countries-at-cop26-view-american-leadership-and-climate-promises">How other countries at COP26 view American leadership and climate promises</a> NPR: President Biden has declared the U.S. is back as a leader in combatting disastrous climate change. But after years of unfulfilled pledges, how do other countries view American leadership and promises? 
  <p class="updated_time"> 03:18 PM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/world/asia/delhi-india-yamuna-chhath-pollution.html">On Delhi’s Toxic River, Prayers to a Sun Struggling to Shine Through Smog</a> NYT: Every year, a four-day festival to the sun god Surya highlights the Indian city’s extreme air and water pollution, with a river so filled with foam it resembles a blizzard’s aftermath. 
- <p class="updated_time"> 02:54 PM CT, Nov. 11 </p> 
- <a href="https://www.nytimes.com/live/2021/11/11/world/belarus-poland-border-migrants">Live Updates: Belarus and Poland Trade Threats as Migrant Plight Worsens</a> NYT: Thousands are camped at the border as dangerous cold sets in. Western officials say Belarus’s leader, who hinted at disrupting gas supplies to Europe, orchestrated the crisis. 
  <p class="updated_time"> 02:54 PM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/live/2021/11/11/world/china-xi-jinping-cpc">China’s Xi Jinping Remakes the Communist Party’s History in His Image</a> NYT: Leaders at an elite meeting enshrined Mr. Xi among the party’s historical giants, paving the way for him to claim a third five-year term. 
  <p class="updated_time"> 02:52 PM CT, Nov. 11 </p> 
@@ -27,8 +37,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/sport/football/59256408?at_medium=RSS&at_campaign=KARANGA">Aminata Diallo: Paris St-Germain midfielder released by police without charge</a> BBC: Paris St-Germain midfielder Aminata Diallo is released without charge by French police investigating an attack on her PSG team-mate Kheira Hamraoui. 
  <p class="updated_time"> 02:29 PM CT, Nov. 11 </p> 
  <a href="https://www.bbc.co.uk/news/uk-politics-59255708?at_medium=RSS&at_campaign=KARANGA">Iran nuclear deal: UK urges Iran to back plan to revive agreement</a> BBC: Iran wants to see economic sanctions lifted, but the West wants Iran to first reduce uranium stocks. 
- <p class="updated_time"> 02:21 PM CT, Nov. 11 </p> 
- <a href="https://www.nytimes.com/2021/11/11/world/europe/germany-covid-unvaccinated.html">Germany’s Fourth Covid Wave: ‘A Pandemic of the Unvaccinated’</a> NYT: Germany once set an example for how to manage the coronavirus. Now, deep pockets of vaccine resistance are helping drive daily infections to new heights. 
  <p class="updated_time"> 02:01 PM CT, Nov. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59252717?at_medium=RSS&at_campaign=KARANGA">Memorial: Russia moves to close major human rights group</a> BBC: The group say that prosecutors have accused it of violating a law on foreign agents. 
  <p class="updated_time"> 01:56 PM CT, Nov. 11 </p> 
@@ -57,8 +65,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-59252082?at_medium=RSS&at_campaign=KARANGA">FW de Klerk: The man who still divides South Africa</a> BBC: Was he a visionary who ended a racist system, or should he have been prosecuted? 
  <p class="updated_time"> 12:15 PM CT, Nov. 11 </p> 
  <a href="https://www.npr.org/2021/11/11/1054770079/a-climate-summit-theme-how-much-should-wealthy-countries-pay-to-help-poorer-ones">A climate summit theme: How much should wealthy countries pay to help poorer ones? </a> NPR: Wealthy countries have historically been the largest producers of greenhouse gases. One of the biggest issues left at the COP26 summit is their role helping poorer nations cope with climate change. 
- <p class="updated_time"> 11:46 AM CT, Nov. 11 </p> 
- <a href="https://www.nytimes.com/2021/11/11/world/europe/poland-independence-day-far-right-protests.html">As Poland Celebrates Its Independence Day, Far-Right Groups Stage Rallies</a> NYT: In downtown Warsaw, tens of thousands of demonstrators started their march by lighting red flares and singing the national anthem. 
  <p class="updated_time"> 11:40 AM CT, Nov. 11 </p> 
  <a href="https://www.npr.org/2021/11/11/1054772983/antonio-guterres-cop26-climate-change">The U.N. chief says the main global warming goal is on 'life support'</a> NPR: The U.N. secretary-general says the talks in Glasgow will "very probably" not yield the carbon-cutting pledges he has said are needed to keep the planet from warming beyond the 1.5-degree threshold. 
  <p class="updated_time"> 11:16 AM CT, Nov. 11 </p> 
@@ -132,8 +138,6 @@ permalink: /projects/news/
  <p class="updated_time"> 10:04 PM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/world/middleeast/israeli-covid-vaccine-children.html">Israeli Experts Approve Vaccinations for Children Ages 5 to 11 </a> NYT: Israel would become one of the first countries after the United States to authorize the Pfizer-BioNTech vaccine for children ages 5 to 11. 
  <p class="updated_time"> 10:02 PM CT, Nov. 10 </p> 
- <a href="https://www.nytimes.com/2021/11/10/world/americas/brazil-bolsonaro-liberal-party.html">Bolsonaro Joins a Centrist Party in Brazil Ahead of 2022 Re-election Bid</a> NYT: President Jair Bolsonaro, who has not belonged to any political party for two years, is joining the centrist Liberals, they said on Wednesday. 
- <p class="updated_time"> 10:02 PM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/world/pennsylvanias-school-mask-mandate.html">Pennsylvania Court Rejects Statewide School Mask Mandate</a> NYT: The judges said that the state’s acting health secretary had overstepped her authority in issuing the mandate, and that they were not taking a position on “the science or efficacy of mask-wearing.” 
  <p class="updated_time"> 10:01 PM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/world/asia/covid-china-shenyang-quarantine.html">This Chinese City Requires 28 Days of Quarantine. Then Another 28.</a> NYT: The restrictions in Shenyang are a stark example of how seriously officials are taking the country’s “zero Covid” approach to the pandemic. 
@@ -171,10 +175,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/10/theater/little-amal-the-walk.html">Little Amal, a Refugee Puppet, Looks for Home</a> NYT: In “The Walk,” a 12-foot tall, 9-year-old Syrian girl named Amal trekked from Turkey to Britain to find her mother. In a politically divided continent, were any minds changed? 
  <p class="updated_time"> 03:37 PM CT, Nov. 10 </p> 
  <a href="https://www.npr.org/2021/11/10/1054428150/tunisia-is-seeing-political-changes-and-some-fear-its-a-path-back-to-dictatorshi">Tunisia is seeing political changes, and some fear it may be a path to dictatorship</a> NPR: While most Tunisians were glad to see their president dissolve the quarrelsome, ineffective parliament and take extra powers, some worry Tunisia could be repeating a path to dictatorship. 
- <p class="updated_time"> 03:37 PM CT, Nov. 10 </p> 
- <a href="https://www.npr.org/2021/11/10/1054428143/shipping-containers-cant-be-emptied-and-refilled-fast-enough-to-keep-up-with-dem">Shipping containers can't be emptied and refilled fast enough to keep up with demand</a> NPR: Shipping containers aren't much more than steel boxes. But they have become increasingly valuable during the worldwide supply chain crisis. 
- <p class="updated_time"> 03:29 PM CT, Nov. 10 </p> 
- <a href="https://www.npr.org/2021/11/10/1054428129/activists-from-low-lying-nations-vulnerable-to-rising-seas-demand-action-at-cop2">How island nations vulnerable to climate change need rich, polluting countries to act</a> NPR: Low-lying islands and nations are among those most at risk from rising sea levels, and have been sounding the alarm on the need for action by wealthier nations to limit global warming for years. 
  <p class="updated_time"> 02:40 PM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/world/greta-thunberg-cop26-state-emergency.html">Greta Thunberg, Activists Petition U.N. to Declare State of Emergency on Climate Change</a> NYT: Young climate activists on Wednesday called on the U.N. to declare a “Level 3” emergency, as it did for Covid-19, allowing the institution to deploy resources to vulnerable countries. 
  <p class="updated_time"> 01:50 PM CT, Nov. 10 </p> 
@@ -214,14 +214,18 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:38 PM CT, Nov. 11 </p> 
+ <a href="https://www.cnn.com/2021/11/11/politics/trump-motion-documents/index.html">Federal appeals court pauses release of Trump White House records ahead of Friday deadline</a> CNN: Former President Donald Trump has asked a federal appeals court to briefly stop the release of key White House records from his presidency to the House January 6 committee while he appeals a lower court's decision that he can't claim executive privilege to keep them secret. 
+ <p class="updated_time"> 03:33 PM CT, Nov. 11 </p> 
+ <a href="https://www.nytimes.com/2021/11/11/us/politics/biden-veterans-day.html">Biden Marks First Veterans Day in Two Decades Without Troops in Active Combat</a> NYT: President Biden, who ended the 20-year conflict in Afghanistan this summer, called veterans the “soul of America.” 
+ <p class="updated_time"> 03:31 PM CT, Nov. 11 </p> 
+ <a href="https://www.npr.org/2021/11/11/1054884112/xi-jinping-is-in-a-good-position-to-break-norms-and-continue-to-lead-china">Xi Jinping is in a good position to break norms and continue to lead China</a> NPR: In China, leadership has concluded a four-day meeting that endorsed Xi Jinping's vision for the country and signed off on a reassessment of the party's 100-year history. 
+ <p class="updated_time"> 03:30 PM CT, Nov. 11 </p> 
+ <a href="https://www.npr.org/2021/11/11/1054837174/federal-appeals-court-temporarily-halts-trump-document-release-to-jan-6-panel">Federal appeals court temporarily halts Trump document release to Jan. 6 panel</a> NPR: The National Archives was due to deliver a first tranche of documents to the Democratic-led House panel on Friday. 
  <p class="updated_time"> 03:25 PM CT, Nov. 11 </p> 
  <a href="https://www.cnn.com/2021/11/11/politics/sarah-sanders-donald-trump-arkansas/index.html">Sarah Sanders is well on her way to being the next governor of Arkansas</a> CNN: If you need evidence of former President Donald Trump's stranglehold on the Republican Party, you need look no further than what is going on in Arkansas at the moment. 
  <p class="updated_time"> 03:19 PM CT, Nov. 11 </p> 
  <a href="https://www.npr.org/2021/11/11/1054884091/how-other-countries-at-cop26-view-american-leadership-and-climate-promises">How other countries at COP26 view American leadership and climate promises</a> NPR: President Biden has declared the U.S. is back as a leader in combatting disastrous climate change. But after years of unfulfilled pledges, how do other countries view American leadership and promises? 
- <p class="updated_time"> 03:14 PM CT, Nov. 11 </p> 
- <a href="https://www.cnn.com/2021/11/11/politics/trump-motion-documents/index.html">Trump asks appeals court to stop release of his White House records ahead of Friday deadline</a> CNN: Former President Donald Trump has asked a federal appeals court to briefly stop the release of key White House records from his presidency to the House January 6 committee while he appeals a lower court's decision that he can't claim executive privilege to keep them secret. 
- <p class="updated_time"> 03:12 PM CT, Nov. 11 </p> 
- <a href="https://www.nytimes.com/2021/11/11/us/politics/biden-veterans-day.html">Biden Marks First Veterans Day in Two Decades Without a War Underway</a> NYT: President Biden, who ended the 20-year conflict in Afghanistan this summer, called veterans the “soul of America.” 
  <p class="updated_time"> 02:50 PM CT, Nov. 11 </p> 
  <a href="https://www.cnn.com/2021/11/11/politics/fiona-hill-dissident-donald-trump/index.html">Trump's ex-Russia adviser Fiona Hill on the state of the GOP and Trump: 'Am I a dissident now?'</a> CNN: Fiona Hill, one of former President Donald Trump's top Russia advisers, blasted the former President Thursday, saying he has opened up "the possibility for every single election outcome to be contested," and suggesting her criticism could make her a "dissident." 
  <p class="updated_time"> 02:48 PM CT, Nov. 11 </p> 
@@ -364,12 +368,8 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/10/politics/justin-trudeau-joe-biden-andres-manuel-lopez-obrador/index.html">Biden to meet with Trudeau and López Obrador for first US-Canada-Mexico summit since 2016</a> CNN: Canadian Prime Minister Justin Trudeau and Mexican President Andrés Manuel López Obrador will come to the White House on November 18 for a summit with President Joe Biden, the first North American Leaders' Summit since 2016. 
  <p class="updated_time"> 08:12 AM CT, Nov. 10 </p> 
  <a href="https://www.cnn.com/2021/11/10/politics/biden-jj-covid-vaccine-conflict-zones/index.html">Biden administration announces deal to provide J&J Covid-19 vaccine to people in conflict zones and humanitarian settings</a> CNN: The Biden administration will announce on Wednesday a new deal it brokered with Johnson & Johnson and Covax to provide J&J's Covid-19 vaccine to people in conflict zones and other humanitarian settings where government vaccine campaigns cannot reach, a White House official told CNN. 
- <p class="updated_time"> 07:35 AM CT, Nov. 10 </p> 
- <a href="https://www.npr.org/2021/11/10/1054019175/inflation-surges-to-its-highest-since-1990">Inflation surges to its highest since 1990</a> NPR: Consumer prices were 6.2% higher in October than a year ago as inflation continues to chip away at the buying power of households across the country. 
  <p class="updated_time"> 07:21 AM CT, Nov. 10 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/11/10/threat-assessment-never-ending-for-lawmakers-495048">Threat assessment: never ending for lawmakers</a> Politico: A play-by-play preview of the day&#39;s congressional news 
- <p class="updated_time"> 06:24 AM CT, Nov. 10 </p> 
- <a href="https://www.npr.org/2021/11/10/1054201919/trump-plans-to-appeal-judges-decision-to-release-jan-6-documents">Trump plans to appeal judge's decision to release Jan. 6 documents</a> NPR: NPR's Rachel Martin talks to Kim Wehle, a law professor at the University of Baltimore, about former President Trump's attempts to block the release of documents related to the U.S. Capitol attack. 
  <p class="updated_time"> 06:17 AM CT, Nov. 10 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/10/new-reminders-that-this-is-not-normal-495046">POLITICO Playbook: New reminders that this is not normal</a> Politico: And a new poll shows Biden's vaccine mandate losing support. 
  <p class="updated_time"> 04:31 AM CT, Nov. 10 </p> 
