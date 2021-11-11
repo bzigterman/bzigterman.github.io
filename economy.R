@@ -503,7 +503,7 @@ cpi <- ggplot(data = data,
         #strip.background = element_blank(),
         plot.caption = element_text(colour = "grey40"))
 cpi
-ggsave("plots/consumer_price_index.png", plot = sentiment,
+ggsave("plots/consumer_price_index.png", plot = cpi,
        width = 8, height = 8*(628/1200), dpi = 320)
 
 # Champaign ----
