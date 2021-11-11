@@ -212,10 +212,12 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 01:38 PM CT, Nov. 11 </p> 
+ <a href="https://www.nytimes.com/2021/11/11/us/politics/biden-veterans-day.html">Biden Marks First Veterans Day in Two Decades Without a War Underway</a> NYT: President Biden, who ended the 20-year conflict in Afghanistan this summer, called veterans the “soul of America.” 
+ <p class="updated_time"> 01:31 PM CT, Nov. 11 </p> 
+ <a href="https://www.npr.org/2021/11/11/1054823379/dejoy-postal-service-holiday-season">DeJoy says the U.S. Postal Service is ready to deliver a successful holiday season </a> NPR: One year after enduring a delay-plagued 2020 holiday season, the postmaster general says things will be different this time. 
  <p class="updated_time"> 01:15 PM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/health/veterans-psychedelics-ptsd-depression.html">Veterans Have Become Unlikely Lobbyists in Push to Legalize Psychedelic Drugs</a> NYT: Lawmakers find it hard to “just say no” to combat veterans seeking support for drug decriminalization efforts gaining traction around the country. 
- <p class="updated_time"> 01:08 PM CT, Nov. 11 </p> 
- <a href="https://www.nytimes.com/2021/11/11/us/politics/biden-veterans-day.html">Biden Marks First Veterans Day in Two Decades Without a War Underway</a> NYT: President Biden, who ended the 20-year conflict in Afghanistan this summer, called veterans the “soul of America.” 
  <p class="updated_time"> 01:01 PM CT, Nov. 11 </p> 
  <a href="https://www.politico.com/news/2021/11/11/biden-administration-armed-drones-indonesia-520888">Biden administration wrestles with selling armed drones to Indonesia</a> Politico: The country's human rights abuses, and past purchases of Russian equipment, are among the concerns in Washington. 
  <p class="updated_time"> 12:38 PM CT, Nov. 11 </p> 
@@ -320,8 +322,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/10/us/ruth-ann-minner-dead.html">Ruth Ann Minner, Down-to-Earth Governor of Delaware, Dies at 86</a> NYT: The first woman in that position, she rose from being a receptionist in the governor’s office to claiming the top job herself. 
  <p class="updated_time"> 04:02 PM CT, Nov. 10 </p> 
  <a href="https://www.cnn.com/2021/11/10/politics/list-january-6-subpoenas/index.html">A running list of who has received a subpoena from the House January 6 select committee </a> CNN: The committee investigating the deadly Capitol Hill riot on January 6 has as of publication issued 35 subpoenas to individuals and organizations as part of its probe into circumstances and coordination leading up to the storming of the US Capitol. 
- <p class="updated_time"> 03:49 PM CT, Nov. 10 </p> 
- <a href="https://www.politico.com/news/2021/11/10/biden-xi-virtual-summit-520609">Biden-Xi virtual summit tentatively set for Monday</a> Politico: The long-anticipated meeting aims to reset strained bilateral ties. 
  <p class="updated_time"> 03:37 PM CT, Nov. 10 </p> 
  <a href="https://www.npr.org/2021/11/10/1054428150/tunisia-is-seeing-political-changes-and-some-fear-its-a-path-back-to-dictatorshi">Tunisia is seeing political changes, and some fear it may be a path to dictatorship</a> NPR: While most Tunisians were glad to see their president dissolve the quarrelsome, ineffective parliament and take extra powers, some worry Tunisia could be repeating a path to dictatorship. 
  <p class="updated_time"> 03:34 PM CT, Nov. 10 </p> 
@@ -352,8 +352,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/10/politics/appeals-process-trump-january-6-documents/index.html">The legal fight over Trump's White House documents: What's next</a> CNN: A federal judge on Tuesday slammed former President Donald Trump's attempt to keep White House documents from the hands of the House committee investigating the events leading up to and on January 6. 
  <p class="updated_time"> 11:45 AM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/us/politics/blinken-johnson-johnson-vaccine-covax.html">U.S. Has Deal to Send J.&J. Covid Vaccine to Conflict Zones, Blinken Says</a> NYT: Secretary of State Antony J. Blinken stressed the need to extend vaccine access to people living in areas unreachable by government-run programs. 
- <p class="updated_time"> 11:35 AM CT, Nov. 10 </p> 
- <a href="https://www.politico.com/news/2021/11/10/study-fox-viewers-covid-falsehoods-520591">Study: Fox viewers more likely to believe Covid falsehoods</a> Politico: The most widely-believed falsehood is about the government exaggerating Covid deaths. 
  <p class="updated_time"> 10:13 AM CT, Nov. 10 </p> 
  <a href="https://www.cnn.com/2021/11/10/politics/joe-biden-inflation/index.html">Biden on inflation report: 'Reversing this trend is a top priority for me'</a> CNN: President Joe Biden said Wednesday that inflation statistics showing America's prices are surging more than they have in 30 years are proof that there is "more work to do before our economy is back to normal." 
  <p class="updated_time"> 10:02 AM CT, Nov. 10 </p> 
@@ -374,8 +372,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/10/schumer-billions-new-york-public-housing-520519">Schumer scores billions for New York's decaying public housing</a> Politico: The jockeying over the housing funds is one of many emerging sources of political tension surrounding President Joe Biden's bill. 
  <p class="updated_time"> 04:30 AM CT, Nov. 10 </p> 
  <a href="https://www.politico.com/news/2021/11/10/biden-vaccine-mandates-va-mcdonough-520564">Biden called for widespread mandates. His VA is navigating its own minefields.</a> Politico: An overwhelming number of staff have gotten vaccinated. But a month after the deadline, at least ten percent of a 380,000 health care workforce still haven’t. 
- <p class="updated_time"> 04:08 AM CT, Nov. 10 </p> 
- <a href="https://www.npr.org/2021/11/10/1054175407/the-super-rich-push-back-against-calls-for-a-wealth-tax">The super rich push back against calls for a wealth tax</a> NPR: During the pandemic U.S. billionaires saw their wealth increase by more than $1 trillion. The majority of that increase is not taxed because their net worth is tied up in the stocks they own. 
  <p class="updated_time"> 12:26 AM CT, Nov. 10 </p> 
  <a href="https://www.politico.com/news/2021/11/10/jan6-shaman-sentencing-recommendation-520570">51-month sentence urged for ‘QAnon Shaman’ Jacob Chansley</a> Politico: “Defendant Chansley’s now-famous criminal acts have made him the public face of the Capitol riot,” prosecutors said. 
  <p class="updated_time"> 10:18 PM CT, Nov. 09 </p> 
