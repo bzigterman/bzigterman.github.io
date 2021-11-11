@@ -7,14 +7,14 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:45 PM CT, Nov. 11 </p> 
+ <a href="https://www.nytimes.com/2021/11/11/world/europe/germany-covid-unvaccinated.html">Germany’s Fourth Covid Wave: ‘A Pandemic of the Unvaccinated’</a> NYT: Germany once set an example for how to manage the coronavirus. Now, deep pockets of vaccine resistance are helping drive daily infections to new heights. 
  <p class="updated_time"> 03:35 PM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/live/2021/11/11/world/belarus-poland-border-migrants">Live Updates: Belarus and Poland Trade Threats as Migrant Plight Worsens</a> NYT: Thousands are camped at the border as dangerous cold sets in. Western officials say Belarus’s leader, who hinted at disrupting gas supplies to Europe, orchestrated the crisis. 
  <p class="updated_time"> 03:35 PM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/10/world/americas/brazil-bolsonaro-liberal-party.html">Bolsonaro Joins a Centrist Party in Brazil Ahead of 2022 Re-election Bid</a> NYT: President Jair Bolsonaro, who has not belonged to any political party for two years, is joining the centrist Liberals, they said on Wednesday. 
  <p class="updated_time"> 03:35 PM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/world/europe/poland-independence-day-far-right-protests.html">As Poland Celebrates Its Independence Day, Far-Right Groups Stage Rallies</a> NYT: In downtown Warsaw, tens of thousands of demonstrators started their march by lighting red flares and singing the national anthem. 
- <p class="updated_time"> 03:33 PM CT, Nov. 11 </p> 
- <a href="https://www.nytimes.com/2021/11/11/world/europe/germany-covid-unvaccinated.html">Germany’s Fourth Covid Wave: ‘A Pandemic of the Unvaccinated’</a> NYT: Germany once set an example for how to manage the coronavirus. Now, deep pockets of vaccine resistance are helping drive daily infections to new heights. 
  <p class="updated_time"> 03:31 PM CT, Nov. 11 </p> 
  <a href="https://www.npr.org/2021/11/11/1054884112/xi-jinping-is-in-a-good-position-to-break-norms-and-continue-to-lead-china">Xi Jinping is in a good position to break norms and continue to lead China</a> NPR: In China, leadership has concluded a four-day meeting that endorsed Xi Jinping's vision for the country and signed off on a reassessment of the party's 100-year history. 
  <p class="updated_time"> 03:31 PM CT, Nov. 11 </p> 
@@ -214,6 +214,12 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:42 PM CT, Nov. 11 </p> 
+ <a href="https://www.politico.com/news/2021/11/11/appeals-court-jan-6-committee-trump-white-house-records-520952">Appeals court slows Jan. 6 committee’s effort to access Trump White House records</a> Politico: The National Archives had been preparing to deliver the documents on Friday, but the three-judge panel will instead hear arguments in the matter on Nov. 30. 
+ <p class="updated_time"> 04:41 PM CT, Nov. 11 </p> 
+ <a href="https://www.politico.com/news/2021/11/11/dems-white-house-biden-520946">Dems to White House: The only prescription is more Biden</a> Politico: The president has been more a facilitator than manager of the legislative process. His party wants more of the latter. 
+ <p class="updated_time"> 03:45 PM CT, Nov. 11 </p> 
+ <a href="https://www.nytimes.com/2021/11/11/us/politics/trump-january-6-court.html">Court Issues Brief Hold on Release of Trump Files in Jan. 6 Inquiry</a> NYT: Congress had been set to receive the first batch of Trump White House files from the National Archives on Friday, a move that the former president has fought. 
  <p class="updated_time"> 03:38 PM CT, Nov. 11 </p> 
  <a href="https://www.cnn.com/2021/11/11/politics/trump-motion-documents/index.html">Federal appeals court pauses release of Trump White House records ahead of Friday deadline</a> CNN: Former President Donald Trump has asked a federal appeals court to briefly stop the release of key White House records from his presidency to the House January 6 committee while he appeals a lower court's decision that he can't claim executive privilege to keep them secret. 
  <p class="updated_time"> 03:33 PM CT, Nov. 11 </p> 
@@ -242,8 +248,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/11/politics/reparations-movement-race-deconstructed-newsletter/index.html">Reparations legislation has slowed down in Washington. But at the state and local level, initiatives are ramping up</a> CNN: A version of this story appeared in CNN's Race Deconstructed newsletter. To get it in your inbox every week, sign up for free here. 
  <p class="updated_time"> 12:29 PM CT, Nov. 11 </p> 
  <a href="https://www.cnn.com/2021/11/11/politics/mark-meadows-january-6-committee-response/index.html">Mark Meadows says he won't cooperate with House January 6 committee until court rules on Trump privilege claim</a> CNN: Former White House Chief of Staff Mark Meadows is facing new pressure to cooperate with the House Select Committee investigating January 6 after he was notified Thursday that President Joe Biden will not assert executive privilege or immunity over documents and testimony requested by the panel, according to a copy obtained by CNN. 
- <p class="updated_time"> 12:23 PM CT, Nov. 11 </p> 
- <a href="https://www.politico.com/news/2021/11/11/wall-street-democrats-tax-buybacks-520880">A $124B tax increase? Wall Street shrugs.</a> Politico: Analysts say they expect total buybacks this year to approach levels unseen since shortly after Republicans slashed the corporate tax rate as part of their 2017 tax cuts. 
  <p class="updated_time"> 12:22 PM CT, Nov. 11 </p> 
  <a href="https://www.npr.org/2021/11/11/1054764083/vp-harris-in-paris-says-infrastructure-and-spending-bills-will-help-cut-poverty">VP Harris, in Paris, says infrastructure and spending bills will help cut poverty</a> NPR: In a speech to a group of world leaders gathered in Paris, Harris focused on inequality, saying the Biden administration's plans will help bridge economic gaps in America. 
  <p class="updated_time"> 12:01 PM CT, Nov. 11 </p> 
@@ -390,8 +394,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/09/biden-infrastructure-republicans-committee-standing-520484">Biden denounces efforts to strip Republicans who supported infrastructure of committee standing</a> Politico: “If we don’t generate consensus in America, we’re in trouble,” Biden said. 
  <p class="updated_time"> 06:01 PM CT, Nov. 09 </p> 
  <a href="https://www.cnn.com/2021/11/09/politics/biden-infrastructure-republican-retaliation/index.html">'It's gotta stop for the sake of America': Biden chastises GOP for targeting Republicans who supported infrastructure bill</a> CNN: President Joe Biden on Tuesday called on Republicans to stop pursuing retaliation against 13 members of their party who voted to pass the $1.2 trillion infrastructure bill in the House last week, saying he's never seen things this way in Congress. 
- <p class="updated_time"> 06:00 PM CT, Nov. 09 </p> 
- <a href="https://www.nytimes.com/2021/11/09/us/politics/democrats-schools-voters.html">Do Democrats Have a Messaging Problem?</a> NYT: Some critics say the Democratic Party is struggling to respond to issues seized upon by conservative news media. 
  <p class="updated_time"> 04:09 PM CT, Nov. 09 </p> 
  <a href="https://www.cnn.com/2021/11/09/politics/biden-infrastructure-bill-spending-economy/index.html">Here's how long it may take Biden's infrastructure package to jolt the economy</a> CNN: It may be years before Americans are driving over new bridges or plugging their electric vehicles into a new highway charger funded by President Joe Biden's infrastructure package. But some of the money could be released over the next six months, providing a jolt to a backlog of projects across the country. 
  <p class="updated_time"> 03:18 PM CT, Nov. 09 </p> 
