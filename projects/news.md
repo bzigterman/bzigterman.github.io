@@ -7,8 +7,10 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:51 PM CT, Nov. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59244336?at_medium=RSS&at_campaign=KARANGA">Watch as hot air balloonist breaks world record</a> BBC: Rémi Ouvrard stood on top of a hot air balloon at more than 3,500m over western France. 
  <p class="updated_time"> 10:40 PM CT, Nov. 10 </p> 
- <a href="https://www.bbc.co.uk/news/business-59243606?at_medium=RSS&at_campaign=KARANGA">Elon Musk: Tesla boss sells $5bn of shares after Twitter poll</a> BBC: Part of the share sales were based on a pre-arranged trading plan set up in September. 
+ <a href="https://www.bbc.co.uk/news/business-59243606?at_medium=RSS&at_campaign=KARANGA">Elon Musk: Tesla boss sells $5bn of shares after Twitter poll</a> BBC: Part of the share sale was based on a pre-arranged trading plan set up in September. 
  <p class="updated_time"> 10:26 PM CT, Nov. 10 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59243434?at_medium=RSS&at_campaign=KARANGA">COP26: Cautious welcome for unexpected US-China climate agreement</a> BBC: The world's two biggest CO2 emitters pledge to boost climate co-operation in an unexpected declaration. 
  <p class="updated_time"> 10:04 PM CT, Nov. 10 </p> 
@@ -115,8 +117,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59237413?at_medium=RSS&at_campaign=KARANGA">Belarus accused of state terrorism over migrant crisis</a> BBC: Poland's prime minister says Belarus is flying in migrants and sending them to the border. 
  <p class="updated_time"> 12:26 PM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/09/world/asia/us-holocaust-museum-china-uyghurs-report.html">U.S. Holocaust Museum Says China ‘May Be Committing Genocide’ Against Uyghurs</a> NYT: Its report found that the government’s attacks against the group of Muslims in Xinjiang had escalated and most likely included “forced sterilization, sexual violence, enslavement, torture, and forcible transfer.” 
- <p class="updated_time"> 12:00 PM CT, Nov. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59239973?at_medium=RSS&at_campaign=KARANGA">Ex-French president Francois Hollande testifies over 2015 Paris attacks</a> BBC: Francois Hollande tells the trial over the 2015 IS attacks that they couldn't have been prevented. 
  <p class="updated_time"> 11:50 AM CT, Nov. 10 </p> 
  <a href="https://www.npr.org/2021/11/10/1054296657/u-k-will-save-its-red-phone-kiosks">The U.K. will save thousands of its iconic red phone kiosks from being shut down</a> NPR: Thousands of the U.K.'s famous red public phone booths will be kept in service, despite lagging use. Regulators say they still play a vital role in emergencies. 
  <p class="updated_time"> 11:45 AM CT, Nov. 10 </p> 
@@ -198,6 +198,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:39 PM CT, Nov. 10 </p> 
+ <a href="https://www.cnn.com/2021/11/10/politics/kamala-harris-emmanuel-macron/index.html">Harris and Macron aim for increased US-French cooperation as world enters 'new era'</a> CNN: Vice President Kamala Harris and French President Emmanuel Macron said Wednesday they look forward to closer US-French cooperation as they sat down for a bilateral meeting at the Elysée Palace aimed at revitalizing US-French ties. 
  <p class="updated_time"> 10:09 PM CT, Nov. 10 </p> 
  <a href="https://www.politico.com/news/2021/11/10/judge-rejects-trumps-records-jan-6-committee-520768">Judge again rejects Trump’s effort to delay Jan. 6 committee’s bid for his White House records</a> Politico: The decision sharply rejected the former president’s attempt to assert executive privilege over the documents. 
  <p class="updated_time"> 09:52 PM CT, Nov. 10 </p> 
@@ -216,8 +218,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/10/flint-water-lead-lawsuit-520747">Judge OKs $626 million settlement in Flint water litigation</a> Politico: The deal will benefit Flint children who were exposed to the water, adults who can show an injury, certain business owners and anyone who paid water bills. 
  <p class="updated_time"> 08:13 PM CT, Nov. 10 </p> 
  <a href="https://www.cnn.com/2021/11/10/politics/andrew-cuomo-sexual-harassment-testimony-james-report/index.html">New York attorney general releases former Gov. Andrew Cuomo's testimony and other documents from sexual harassment investigation</a> CNN: The office of the New York Attorney General Letitia James on Wednesday released a transcripts of investigators' interview with former New York Gov. Andrew Cuomo, along with other documents and exhibits, from its investigation into the sexual harassment allegations that ultimately led to his resignation. 
- <p class="updated_time"> 07:55 PM CT, Nov. 10 </p> 
- <a href="https://www.cnn.com/2021/11/10/politics/kamala-harris-emmanuel-macron/index.html">Harris and Macron aim for increased US-French cooperation as world enters 'new era'</a> CNN: Vice President Kamala Harris and French President Emmanuel Macron said Wednesday they look forward to closer US-French cooperation as they sat down for a bilateral meeting at the Elysée Palace aimed at revitalizing US-French ties. 
  <p class="updated_time"> 07:53 PM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/09/us/moderna-vaccine-patent.html">Moderna and U.S. at Odds Over Vaccine Patent Rights</a> NYT: Moderna’s patent application names several employees as the sole inventors of a crucial component of its coronavirus vaccine, excluding three government scientists. 
  <p class="updated_time"> 07:30 PM CT, Nov. 10 </p> 
