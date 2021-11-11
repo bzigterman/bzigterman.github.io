@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:46 AM CT, Nov. 11 </p> 
+ <a href="https://www.nytimes.com/2021/11/10/world/buttigieg-gasoline-diesel-vehicles.html">Pete Buttigieg Says U.S. 'Focused' on Reducing Auto Emissions</a> NYT: At the Glasgow climate summit, Mr. Buttigieg said the conversation surrounding climate change should focus on whether Earth can sustain life. 
  <p class="updated_time"> 02:32 AM CT, Nov. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59244091?at_medium=RSS&at_campaign=KARANGA">Alec Baldwin film tragedy: Crew member sues for negligence</a> BBC: An electrician alleges negligence in the incident in which cinematographer Halyna Hutchins died. 
  <p class="updated_time"> 01:58 AM CT, Nov. 11 </p> 
@@ -125,8 +127,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/09/science/new-zealand-sea-lions.html">New Zealand’s Sea Lions Are Back, and Crashing Golf Courses and Soccer Matches</a> NYT: After their populations were decimated by hunters, New Zealand’s sea lions are returning to the coasts — sometimes surprising locals by turning up in unexpected places. 
  <p class="updated_time"> 11:15 AM CT, Nov. 10 </p> 
  <a href="https://www.wsj.com/articles/cop26-draft-climate-deal-seeks-quicker-emissions-cuts-as-weekend-deadline-nears-11636547423">U.S., China Pledge to Step Up Efforts to Fight Climate Change at COP26</a> WSJ: The show of cooperation between the two rivals and the world’s two biggest greenhouse-gas emitters injected a surprise development into the talks as a weekend deadline for a deal approaches. 
- <p class="updated_time"> 11:00 AM CT, Nov. 10 </p> 
- <a href="https://www.nytimes.com/2021/11/10/world/buttigieg-gasoline-diesel-vehicles.html">Pete Buttigieg Says U.S. 'Focused' on Reducing Auto Emissions</a> NYT: At the Glasgow climate summit, Mr. Buttigieg said the conversation surrounding climate change should focus on whether Earth can sustain life. 
  <p class="updated_time"> 10:57 AM CT, Nov. 10 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59209276?at_medium=RSS&at_campaign=KARANGA">My Day at COP26: 'I'm painting murals so people don't forget COP happened here'</a> BBC: Daniel Rupaszov, from Hungary, is an artist and activist who visits COP every year to create art which highlights the climate crisis. 
  <p class="updated_time"> 10:15 AM CT, Nov. 10 </p> 
