@@ -398,15 +398,17 @@ Source: [Institute of Government and Public Affairs at the University of Illinoi
 
 ![Employment]({{ site.baseurl }}/plots/employment.png)
 
-![Real GDP]({{ site.baseurl }}/plots/gdp.png)
-
-![Real Median Income]({{ site.baseurl }}/plots/real_median_income.png)
+![Inflation]({{ site.baseurl }}/plots/consumer_price_index.png)
 
 ![Retail Sales]({{ site.baseurl }}/plots/retail_sales.png)
 
 ![Durable Goods]({{ site.baseurl }}/plots/durable_goods.png)
 
 ![Consumer Sentiment]({{ site.baseurl }}/plots/consumer_sentiment.png)
+
+![Real GDP]({{ site.baseurl }}/plots/gdp.png)
+
+![Real Median Income]({{ site.baseurl }}/plots/real_median_income.png)
 
 Data retrieved from the [Federal Reserve Bank of St. Louis](https://fred.stlouisfed.org)
 
