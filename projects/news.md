@@ -7,16 +7,18 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:21 PM CT, Nov. 11 </p> 
+ <a href="https://www.nytimes.com/2021/11/11/world/europe/germany-covid-pandemic-unvaccinated-vaccines-fourth-wave.html">Germany’s Fourth Covid Wave: ‘A Pandemic of the Unvaccinated’</a> NYT: Germany once set an example for how to manage the coronavirus. Now, deep pockets of vaccine resistance are helping drive daily infections to new heights. 
+ <p class="updated_time"> 02:14 PM CT, Nov. 11 </p> 
+ <a href="https://www.nytimes.com/live/2021/11/11/world/belarus-poland-border-migrants">Live Updates: Belarus and Poland Trade Threats as Migrant Plight Worsens</a> NYT: Thousands are camped at the border as dangerous cold sets in. Western officials say Belarus’s leader, who hinted at disrupting gas supplies to Europe, orchestrated the crisis. 
+ <p class="updated_time"> 02:08 PM CT, Nov. 11 </p> 
+ <a href="https://www.nytimes.com/live/2021/11/11/world/china-xi-jinping-cpc">China’s Xi Jinping Remakes the Communist Party’s History in His Image</a> NYT: Leaders at an elite meeting enshrined Mr. Xi among the party’s historical giants, paving the way for him to claim a third five-year term. 
+ <p class="updated_time"> 02:01 PM CT, Nov. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59252717?at_medium=RSS&at_campaign=KARANGA">Memorial: Russia moves to close major human rights group</a> BBC: The group say that prosecutors have accused it of violating a law on foreign agents. 
  <p class="updated_time"> 01:56 PM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/world/middleeast/saudi-court-execution-crime.html">Saudi Court Blocks Execution of Man Convicted of Crime Committed at 14</a> NYT: Rights groups said the death sentence for Abdullah al-Huwaiti ran contrary to the kingdom’s claimed legal reforms. Now he’ll be retried. 
- <p class="updated_time"> 01:46 PM CT, Nov. 11 </p> 
- <a href="https://www.nytimes.com/live/2021/11/11/world/china-xi-jinping-cpc">China’s Xi Jinping Remakes the Communist Party’s History in His Image</a> NYT: Leaders at an elite meeting enshrined Mr. Xi among the party’s historical giants, paving the way for him to claim a third five-year term. 
- <p class="updated_time"> 01:46 PM CT, Nov. 11 </p> 
- <a href="https://www.nytimes.com/live/2021/11/11/world/belarus-poland-border-migrants">Live Updates: Belarus and Poland Trade Insults and Threats as Migrant Plight Worsens</a> NYT: Thousands are camped at the border as dangerous cold sets in. Western officials say Belarus’s leader, who hinted at disrupting gas supplies to Europe, orchestrated the crisis. 
  <p class="updated_time"> 01:38 PM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/world/middleeast/israel-palestinian-nso-hacking.html">Palestinian Diplomats Targeted by Israeli Spyware, Official Says</a> NYT: The accusation, which has not been independently verified, raises new questions over whether Israel is using software made by NSO Group to spy on Palestinians. 
- <p class="updated_time"> 01:27 PM CT, Nov. 11 </p> 
- <a href="https://www.nytimes.com/2021/11/10/sports/soccer/psg-women-attack-aminata-diallo.html">P.S.G.'s Aminata Diallo Arrested After Teammate Is Attacked</a> NYT: A Paris St.-Germain women’s player was taken into custody by French investigators looking into a violent assault on a teammate who shares her position. 
  <p class="updated_time"> 01:15 PM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/health/veterans-psychedelics-ptsd-depression.html">Veterans Have Become Unlikely Lobbyists in Push to Legalize Psychedelic Drugs</a> NYT: Lawmakers find it hard to “just say no” to combat veterans seeking support for drug decriminalization efforts gaining traction around the country. 
  <p class="updated_time"> 01:09 PM CT, Nov. 11 </p> 
@@ -109,8 +111,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/f-w-de-klerk-south-african-president-who-helped-end-apartheid-dies-at-85-11636628616">De Klerk, Last President of Apartheid South Africa, Dies</a> WSJ: The last leader of South Africa’s white-minority government, whose at-times-difficult relationship with Nelson Mandela helped end apartheid, died. He was 85 years old. 
  <p class="updated_time"> 02:46 AM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/10/world/buttigieg-gasoline-diesel-vehicles.html">Pete Buttigieg Says U.S. 'Focused' on Reducing Auto Emissions</a> NYT: At the Glasgow climate summit, Mr. Buttigieg said the conversation surrounding climate change should focus on whether Earth can sustain life. 
- <p class="updated_time"> 02:32 AM CT, Nov. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59244091?at_medium=RSS&at_campaign=KARANGA">Alec Baldwin film tragedy: Crew member sues for negligence</a> BBC: An electrician alleges negligence in the incident in which cinematographer Halyna Hutchins died. 
  <p class="updated_time"> 02:00 AM CT, Nov. 11 </p> 
  <a href="https://www.wsj.com/articles/chinas-coal-shortage-threatens-farmers-in-india-and-truckers-in-south-korea-11636635601">China's Coal Shortage Threatens Farmers in India and Truckers in South Korea</a> WSJ: The countries rely on Chinese exports of urea, which is extracted from coal, for fertilizer and running diesel vehicles. 
  <p class="updated_time"> 12:09 AM CT, Nov. 11 </p> 
@@ -214,6 +214,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 02:48 PM CT, Nov. 11 </p> 
  <a href="https://www.politico.com/news/2021/11/11/kyle-rittenhouse-trial-kenosha-520901">Expert at Rittenhouse trial zeroes in on just a few minutes</a> Politico: The defense has suggested to the jury that the relevant timeframe for determining whether Rittenhouse’s use of force was reasonable consists of just a few minutes around the shootings. 
+ <p class="updated_time"> 02:07 PM CT, Nov. 11 </p> 
+ <a href="https://www.nytimes.com/2021/11/11/business/economy/biden-inflation.html">The White House Says Its Plans Will Slow Inflation. The Big Question Is: When?</a> NYT: The Biden administration has argued that its infrastructure and broader economic package will slow rapid price increases. But that will take time. 
  <p class="updated_time"> 01:38 PM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/us/politics/biden-veterans-day.html">Biden Marks First Veterans Day in Two Decades Without a War Underway</a> NYT: President Biden, who ended the 20-year conflict in Afghanistan this summer, called veterans the “soul of America.” 
  <p class="updated_time"> 01:31 PM CT, Nov. 11 </p> 
@@ -270,8 +272,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/11/bidens-voters-recovery-conundrum-520771">Biden's ‘I feel your pain’ conundrum</a> Politico: It’s tripped up the last two Democratic presidents and could trip up Biden too: How to sell a recovery when most voters aren’t feeling it. 
  <p class="updated_time"> 04:30 AM CT, Nov. 11 </p> 
  <a href="https://www.politico.com/news/2021/11/11/new-york-shrinking-offices-housing-520318">Cities with empty offices see new room to expand housing</a> Politico: After Covid, New York and other cities are weighing whether to convert empty office buildings into affordable housing. 
- <p class="updated_time"> 04:30 AM CT, Nov. 11 </p> 
- <a href="https://www.politico.com/news/agenda/2021/11/11/congress-long-term-care-520649">Opinion | ‘We Don’t Fix This Because We Just Don’t Care About Old People’</a> Politico: Lawmakers are proposing billions of dollars to strengthen long-term care. It isn’t nearly enough. 
  <p class="updated_time"> 04:06 AM CT, Nov. 11 </p> 
  <a href="https://www.npr.org/2021/11/11/1054615028/is-masculinity-under-attack-sen-hawley-wants-to-defend-the-men-of-america">Sen. Josh Hawley claims masculinity is under attack. This historian disagrees</a> NPR: Hawley is calling for a "revival of ... manhood in America." Kristin Kobes Du Mez, a Calvin University professor and the author of Jesus and John Wayne, explains how masculinity is a political issue. 
  <p class="updated_time"> 04:06 AM CT, Nov. 11 </p> 
@@ -390,8 +390,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/09/politics/biden-infrastructure-republican-retaliation/index.html">'It's gotta stop for the sake of America': Biden chastises GOP for targeting Republicans who supported infrastructure bill</a> CNN: President Joe Biden on Tuesday called on Republicans to stop pursuing retaliation against 13 members of their party who voted to pass the $1.2 trillion infrastructure bill in the House last week, saying he's never seen things this way in Congress. 
  <p class="updated_time"> 06:00 PM CT, Nov. 09 </p> 
  <a href="https://www.nytimes.com/2021/11/09/us/politics/democrats-schools-voters.html">Do Democrats Have a Messaging Problem?</a> NYT: Some critics say the Democratic Party is struggling to respond to issues seized upon by conservative news media. 
- <p class="updated_time"> 05:05 PM CT, Nov. 09 </p> 
- <a href="https://www.nytimes.com/2021/11/09/science/nasa-moon-2025.html">NASA Moves Moon Landing Deadline Back to 2025</a> NYT: The space agency acknowledged that it cannot return astronauts to the lunar surface by 2024, a timeline set under President Trump. 
  <p class="updated_time"> 04:09 PM CT, Nov. 09 </p> 
  <a href="https://www.cnn.com/2021/11/09/politics/biden-infrastructure-bill-spending-economy/index.html">Here's how long it may take Biden's infrastructure package to jolt the economy</a> CNN: It may be years before Americans are driving over new bridges or plugging their electric vehicles into a new highway charger funded by President Joe Biden's infrastructure package. But some of the money could be released over the next six months, providing a jolt to a backlog of projects across the country. 
  <p class="updated_time"> 03:18 PM CT, Nov. 09 </p> 
