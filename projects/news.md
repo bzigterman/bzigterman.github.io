@@ -49,6 +49,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/10/world/europe/knoll-france-murder.html">French Court Convicts Man in the Murder of a Holocaust Survivor</a> NYT: The man, Yacine Mihoub, was sentenced to life imprisonment for killing Mireille Knoll, 85, in 2018, which judges said was a hate crime motivated by the fact that she was Jewish. 
  <p class="updated_time"> 03:43 AM CT, Nov. 11 </p> 
  <a href="https://www.bbc.co.uk/news/uk-59238115?at_medium=RSS&at_campaign=KARANGA">Nazanin Zaghari-Ratcliffe: Husband Richard on hunger strike to urge government to help</a> BBC: Richard Ratcliffe, the husband of Iranian detainee Nazanin Zaghari-Ratcliffe, is weeks into his protest. 
+ <p class="updated_time"> 03:01 AM CT, Nov. 11 </p> 
+ <a href="https://www.wsj.com/articles/chinas-xi-gains-power-as-communist-party-designates-him-historical-figure-11636635312">China's Xi Designated a Historical Figure by Communist Party</a> WSJ: The Chinese leader has formally etched his name alongside the greatest figures in the annals of Communist Party history, paving the way for him to dominate a major reshuffling of power in the coming year and extend his rule. 
  <p class="updated_time"> 02:50 AM CT, Nov. 11 </p> 
  <a href="https://www.wsj.com/articles/f-w-de-klerk-south-african-president-who-helped-end-apartheid-dies-at-85-11636628616">De Klerk, Last President of Apartheid South Africa, Dies</a> WSJ: The last leader of South Africa’s white-minority government, whose at-times-difficult relationship with Nelson Mandela helped end apartheid, died. He was 85 years old. 
  <p class="updated_time"> 02:46 AM CT, Nov. 11 </p> 
@@ -57,10 +59,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59244091?at_medium=RSS&at_campaign=KARANGA">Alec Baldwin film tragedy: Crew member sues for negligence</a> BBC: An electrician alleges negligence in the incident in which cinematographer Halyna Hutchins died. 
  <p class="updated_time"> 02:29 AM CT, Nov. 11 </p> 
  <a href="https://www.bbc.co.uk/news/uk-england-oxfordshire-59245679?at_medium=RSS&at_campaign=KARANGA">University of Oxford starts new Ebola vaccine trials</a> BBC: Clinical trials are under way for a new Ebola vaccine developed by the University of Oxford. 
- <p class="updated_time"> 02:27 AM CT, Nov. 11 </p> 
- <a href="https://www.wsj.com/articles/chinas-xi-gains-power-as-communist-party-designates-him-historical-figure-11636635312">China's Xi Designated a Historical Figure by Communist Party</a> WSJ: The Chinese leader has formally etched his name alongside the greatest figures in the annals of Communist Party history, paving the way for him to dominate a major reshuffling of power in the coming year and extend his rule. 
- <p class="updated_time"> 02:06 AM CT, Nov. 11 </p> 
- <a href="https://www.wsj.com/articles/high-energy-prices-likely-to-mean-less-oil-demand-this-year-opec-says-11636635602">High Energy Prices Likely to Mean Less Oil Demand This Year, OPEC Says</a> WSJ: Soaring fuel costs amid a global energy crunch were showing signs of weighing on demand, said the Organization of the Petroleum Exporting Countries, and weaker than expected demand for oil in China and India was now likely. 
  <p class="updated_time"> 02:00 AM CT, Nov. 11 </p> 
  <a href="https://www.wsj.com/articles/chinas-coal-shortage-threatens-farmers-in-india-and-truckers-in-south-korea-11636635601">China's Coal Shortage Threatens Farmers in India and Truckers in South Korea</a> WSJ: The countries rely on Chinese exports of urea, which is extracted from coal, for fertilizer and running diesel vehicles. 
  <p class="updated_time"> 01:58 AM CT, Nov. 11 </p> 
@@ -173,8 +171,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/10/world/asia/danny-fenster-myanmar.html">American Journalist Held in Myanmar Faces 2 New Charges</a> NYT: Prosecutors filed charges of terrorism and sedition against the journalist Danny Fenster, who once worked at a hard-hitting news outlet hated by Myanmar’s governing military. 
  <p class="updated_time"> 04:00 AM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/world/asia/taiwan-europe-china.html">Europe, Taiwan Inch Closer as Distrust of Beijing Grows</a> NYT: Talks between European lawmakers and Taiwanese officials point to Europe’s increasing willingness to strengthen relations, despite Beijing’s threats. 
- <p class="updated_time"> 03:39 AM CT, Nov. 10 </p> 
- <a href="https://www.wsj.com/articles/evergrande-china-crisis-real-estate-developers-11636552507">China's Plan to Manage Evergrande: Take It Apart, Slowly</a> WSJ: Beijing is working on a controlled implosion of the real-estate giant, selling off some of its assets while limiting damage to home buyers and businesses involved in its unfinished projects. 
  <p class="updated_time"> 07:16 PM CT, Nov. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59228451?at_medium=RSS&at_campaign=KARANGA">Last rites rights of condemned around the world</a> BBC: A US death row inmate is fighting for a last rite. What rights do the condemned have around the world? 
  <p class="updated_time"> 06:33 PM CT, Nov. 09 </p> 
@@ -201,7 +197,7 @@ permalink: /projects/news/
 <summary>Politics</summary>
 
  <p class="updated_time"> 07:06 AM CT, Nov. 11 </p> 
- <a href="https://www.politico.com/news/2021/11/11/chinese-leaders-history-xi-520793">Chinese leaders issue official history to elevate Xi</a> Politico: The move is expected to give Xi status beside the ruling Communist Party's most important figures. 
+ <a href="https://www.politico.com/news/2021/11/11/chinese-leaders-history-xi-520793">China elevates Xi over tradition that would require him to step down</a> Politico: The move is expected to give Xi status beside the ruling Communist Party's most important figures. 
  <p class="updated_time"> 07:02 AM CT, Nov. 11 </p> 
  <a href="https://www.politico.com/news/2021/11/11/south-africas-apartheid-president-dies-520791">South Africa’s last apartheid president F. W. de Klerk dies</a> Politico: De Klerk died after a battle against cancer at his home in the Fresnaye area of Cape Town. 
  <p class="updated_time"> 07:01 AM CT, Nov. 11 </p> 
@@ -215,7 +211,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:16 AM CT, Nov. 11 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/11/the-other-big-intra-democratic-fight-495065">POLITICO Playbook: The other big intra-Democratic fight</a> Politico: And the inflation jump turns the temperature up. 
  <p class="updated_time"> 06:05 AM CT, Nov. 11 </p> 
- <a href="https://www.cnn.com/2021/11/11/politics/joe-biden-inflation-messaging/index.html">Biden forced to get real on inflation as the price of nearly everything shoots up</a> CNN: Rising consumer prices have quickly become one of the White House's most urgent concerns as Americans grow unsettled at the higher cost of goods -- and place the blame on President Joe Biden. 
+ <a href="https://www.cnn.com/2021/11/11/politics/joe-biden-inflation-messaging/index.html">Biden changes his tone and walks a delicate line on inflation</a> CNN: Rising consumer prices have quickly become one of the White House's most urgent concerns as Americans grow unsettled at the higher cost of goods -- and place the blame on President Joe Biden. 
  <p class="updated_time"> 06:05 AM CT, Nov. 11 </p> 
  <a href="https://www.cnn.com/2021/11/11/politics/trump-2022-strategy/index.html">Trump allies are pushing for 'stay away' strategy in some 2022 races</a> CNN: Donald Trump is expected to maintain a prolific schedule of campaign rallies to boost Republicans in next year's midterms. But on the heels of Gov.-elect Glenn Youngkin's victory in Virginia -- accomplished without a single Trump cameo -- some of the former President's aides and allies warn there could be parts of the country where he may now be encouraged to keep his distance. 
  <p class="updated_time"> 04:30 AM CT, Nov. 11 </p> 
