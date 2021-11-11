@@ -7,10 +7,14 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:04 PM CT, Nov. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/business-59243606?at_medium=RSS&at_campaign=KARANGA">Elon Musk: Tesla boss sells $1.1bn of shares in carmaker</a> BBC: It comes days after he asked his Twitter followers whether he should sell 10% of his stake. 
  <p class="updated_time"> 08:55 PM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/world/americas/brazil-bolsonaro-liberal-party.html">Bolsonaro Joins a Centrist Party in Brazil Ahead of 2022 Re-election Bid</a> NYT: President Jair Bolsonaro, who has not belonged to any political party for two years, is joining the centrist Liberals, they said on Wednesday. 
  <p class="updated_time"> 08:55 PM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/live/2021/11/10/world/poland-belarus-border-migrants">E.U. Sides With Poland Over Migrants at Belarus Border</a> NYT: Western officials accuse the leader of Belarus of sending migrants to E.U. borders as retaliation for sanctions. Lithuania, which also borders Belarus, declared a state of emergency. 
+ <p class="updated_time"> 08:50 PM CT, Nov. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59243796?at_medium=RSS&at_campaign=KARANGA">Alabama boy certified as world's most premature baby</a> BBC: Curtis Means defied all odds after he was delivered in Birmingham, Alabama, weighing just 420g. 
  <p class="updated_time"> 08:13 PM CT, Nov. 10 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59242986?at_medium=RSS&at_campaign=KARANGA">Climate change: Iran says lift sanctions and we'll ratify Paris agreement</a> BBC: The world's eighth largest emitter says it will ratify the Paris climate pact if restrictions are lifted. 
  <p class="updated_time"> 07:25 PM CT, Nov. 10 </p> 
@@ -121,8 +125,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/10/world/buttigieg-gasoline-diesel-vehicles.html">Pete Buttigieg Says U.S. 'Focused' on Reducing Auto Emissions</a> NYT: At the Glasgow climate summit, Mr. Buttigieg said the conversation surrounding climate change should focus on whether Earth can sustain life. 
  <p class="updated_time"> 10:57 AM CT, Nov. 10 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59209276?at_medium=RSS&at_campaign=KARANGA">My Day at COP26: 'I'm painting murals so people don't forget COP happened here'</a> BBC: Daniel Rupaszov, from Hungary, is an artist and activist who visits COP every year to create art which highlights the climate crisis. 
- <p class="updated_time"> 10:39 AM CT, Nov. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59238866?at_medium=RSS&at_campaign=KARANGA">Myanmar charges US journalist with terrorism</a> BBC: Danny Fenster, already on trial, is now facing new charges which could lead to a life sentence. 
  <p class="updated_time"> 10:15 AM CT, Nov. 10 </p> 
  <a href="https://www.npr.org/2021/11/10/1054256978/cop26-agreement-electric-vehicles-auto-industry">COP26 sees pledges to transition to electric vehicles, but key countries are mum</a> NPR: The agreements were hailed as a major step toward decarbonizing the auto industry, but the world's largest auto markets, including the U.S., and top carmakers failed to sign on. 
  <p class="updated_time"> 10:10 AM CT, Nov. 10 </p> 
@@ -137,8 +139,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/09/world/asia/afghan-pilots-tajikistan-taliban.html">Afghan Pilots Who Escaped Taliban Are Flown Out of Tajikistan</a> NYT: More than 140 Afghan Air Force pilots and crew members were evacuated to the United Arab Emirates three months after flying into Tajikistan to escape the Taliban. 
  <p class="updated_time"> 09:32 AM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/travel/fly-fishing-italy.html">The Joy of Fly Fishing in Italy</a> NYT: Italy is not often mentioned as a fly fishing destination, but the wonder of Italian alpine fishing is now making itself known. 
- <p class="updated_time"> 09:15 AM CT, Nov. 10 </p> 
- <a href="https://www.bbc.co.uk/sport/football/59236410?at_medium=RSS&at_campaign=KARANGA">PSG player Diallo arrested over attack on teammate</a> BBC: Paris St-Germain women's midfielder Aminata Diallo is arrested as part of an investigation into an attack on team-mates on 4 November. 
  <p class="updated_time"> 08:31 AM CT, Nov. 10 </p> 
  <a href="https://www.wsj.com/articles/china-weighs-moderating-property-curbs-to-help-troubled-developers-unload-assets-11636572669">China Weighs Moderating Property Curbs to Help Developers Unload Assets</a> WSJ: Beijing is wary that financial risks could spread through the economy as it tries to rein in the real-estate sector. 
  <p class="updated_time"> 07:51 AM CT, Nov. 10 </p> 
