@@ -7,8 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:59 AM CT, Nov. 11 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-59243434?at_medium=RSS&at_campaign=KARANGA">COP26: Cautious welcome for unexpected US-China climate agreement</a> BBC: The world's two biggest CO2 emitters pledge to boost climate co-operation in an unexpected declaration. 
+ <p class="updated_time"> 01:58 AM CT, Nov. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59243406?at_medium=RSS&at_campaign=KARANGA">Kyle Rittenhouse: US teen gunman's lawyers seek mistrial</a> BBC: Lawyers for Kyle Rittenhouse ask the judge to toss the murder case after he rebuked prosecutors. 
  <p class="updated_time"> 11:15 PM CT, Nov. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59244091?at_medium=RSS&at_campaign=KARANGA">Alec Baldwin film tragedy: Crew member sues for negligence</a> BBC: An electrician alleges negligence in the incident in which cinematographer Halyna Hutchins died. 
  <p class="updated_time"> 10:58 PM CT, Nov. 10 </p> 
@@ -45,8 +45,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/business-59242866?at_medium=RSS&at_campaign=KARANGA">Uber sued by Justice Department for overcharging disabled people</a> BBC: The Justice Department says Uber's 'wait time' fees discriminate against people with disabilities. 
  <p class="updated_time"> 06:53 PM CT, Nov. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59115753?at_medium=RSS&at_campaign=KARANGA">The man turning cities into giant sponges to embrace floods</a> BBC: Yu Kongjian's sponge city, based on ancient Chinese wisdom, seeks to change how we deal with floods. 
- <p class="updated_time"> 06:51 PM CT, Nov. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59243406?at_medium=RSS&at_campaign=KARANGA">Kyle Rittenhouse: US teen gunman's lawyers seek mistrial</a> BBC: Attorneys for Kyle Rittenhouse ask for the murder case to be tossed after the judge rebuked prosecutors. 
  <p class="updated_time"> 06:38 PM CT, Nov. 10 </p> 
  <a href="https://www.bbc.co.uk/news/59233799?at_medium=RSS&at_campaign=KARANGA">COP26: How much is spent supporting fossil fuels and green energy?</a> BBC: Despite green energy investment promises, many governments still financially back the fossil fuel industry. 
  <p class="updated_time"> 06:34 PM CT, Nov. 10 </p> 
