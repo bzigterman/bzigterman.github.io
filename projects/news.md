@@ -7,6 +7,14 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:18 PM CT, Nov. 11 </p> 
+ <a href="https://www.nytimes.com/2021/11/11/world/middleeast/israel-palestinian-nso-hacking.html">Palestinian Diplomats Targeted by Israeli Spyware, Official Says</a> NYT: The accusation, which has not been independently verified, raises new questions over whether Israel is using software made by NSO Group to spy on Palestinians. 
+ <p class="updated_time"> 01:15 PM CT, Nov. 11 </p> 
+ <a href="https://www.nytimes.com/2021/11/11/health/veterans-psychedelics-ptsd-depression.html">Veterans Have Become Unlikely Lobbyists in Push to Legalize Psychedelic Drugs</a> NYT: Lawmakers find it hard to “just say no” to combat veterans seeking support for drug decriminalization efforts gaining traction around the country. 
+ <p class="updated_time"> 01:09 PM CT, Nov. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59245018?at_medium=RSS&at_campaign=KARANGA">Covid: Austrians heading towards lockdown for unvaccinated</a> BBC: The measures comes as record infections are reported in Austria, Germany and the Netherlands. 
+ <p class="updated_time"> 01:01 PM CT, Nov. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59246627?at_medium=RSS&at_campaign=KARANGA">Celebrity grizzly bear takes her cubs into town</a> BBC: Online star 'Grizzly 399', who has her own Instagram page, took a stroll through Jackson Hole, Wyoming. 
  <p class="updated_time"> 12:56 PM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/world/africa/sudan-military-coup.html">Sudan’s Top General Entrenches Military Coup, Frustrating Western Efforts</a> NYT: A little over two weeks after seizing power, Sudan’s top general created a new ruling body led by himself. The civilian prime minister remains under house arrest. 
  <p class="updated_time"> 12:50 PM CT, Nov. 11 </p> 
@@ -25,12 +33,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-59252082?at_medium=RSS&at_campaign=KARANGA">FW de Klerk: The man who still divides South Africa</a> BBC: Was he a visionary who ended a racist system, or should he have been prosecuted? 
  <p class="updated_time"> 12:15 PM CT, Nov. 11 </p> 
  <a href="https://www.npr.org/2021/11/11/1054770079/a-climate-summit-theme-how-much-should-wealthy-countries-pay-to-help-poorer-ones">A climate summit theme: How much should wealthy countries pay to help poorer ones? </a> NPR: Wealthy countries have historically been the largest producers of greenhouse gases. One of the biggest issues left at the COP26 summit is their role helping poorer nations cope with climate change. 
- <p class="updated_time"> 12:13 PM CT, Nov. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59245018?at_medium=RSS&at_campaign=KARANGA">Covid: Austrians heading towards lockdown for unvaccinated</a> BBC: The measures comes as record infections are reported in Austria, Germany and the Netherlands. 
  <p class="updated_time"> 12:12 PM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/world/africa/fw-de-klerk-dead.html">F.W. de Klerk, Last President of Apartheid South Africa, Dies at 85</a> NYT: A prominent Afrikaner, he defended the separation of the races before helping to dismantle that system, leading to his sharing the Nobel Peace Prize with Nelson Mandela. 
- <p class="updated_time"> 12:00 PM CT, Nov. 11 </p> 
- <a href="https://www.nytimes.com/2021/11/11/health/veterans-psychedelics-ptsd-depression.html">Veterans Have Become Unlikely Lobbyists in Push to Legalize Psychedelic Drugs</a> NYT: Lawmakers find it hard to “just say no” to combat veterans seeking support for drug decriminalization efforts gaining traction around the country. 
  <p class="updated_time"> 11:46 AM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/world/europe/poland-independence-day-far-right-protests.html">As Poland Celebrates Its Independence Day, Far-Right Groups Stage Rallies</a> NYT: In downtown Warsaw, tens of thousands of demonstrators started their march by lighting red flares and singing the national anthem. 
  <p class="updated_time"> 11:40 AM CT, Nov. 11 </p> 
@@ -105,10 +109,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/10/world/buttigieg-gasoline-diesel-vehicles.html">Pete Buttigieg Says U.S. 'Focused' on Reducing Auto Emissions</a> NYT: At the Glasgow climate summit, Mr. Buttigieg said the conversation surrounding climate change should focus on whether Earth can sustain life. 
  <p class="updated_time"> 02:32 AM CT, Nov. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59244091?at_medium=RSS&at_campaign=KARANGA">Alec Baldwin film tragedy: Crew member sues for negligence</a> BBC: An electrician alleges negligence in the incident in which cinematographer Halyna Hutchins died. 
- <p class="updated_time"> 01:58 AM CT, Nov. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59243406?at_medium=RSS&at_campaign=KARANGA">Kyle Rittenhouse: US teen gunman's lawyers seek mistrial</a> BBC: Lawyers for Kyle Rittenhouse ask the judge to toss the murder case after he rebuked prosecutors. 
- <p class="updated_time"> 12:59 AM CT, Nov. 11 </p> 
- <a href="https://www.wsj.com/articles/captain-america-protester-gets-nearly-six-years-in-prison-for-hong-kong-mall-chants-11636625197">'Captain America' Protester Gets Prison Time for Hong Kong Mall Chants</a> WSJ: A man who chanted protest slogans in Hong Kong’s shopping malls after China imposed a national-security law was sentenced to five years and nine months in prison after being found guilty of promoting independence. 
+ <p class="updated_time"> 02:00 AM CT, Nov. 11 </p> 
+ <a href="https://www.wsj.com/articles/chinas-coal-shortage-threatens-farmers-in-india-and-truckers-in-south-korea-11636635601">China's Coal Shortage Threatens Farmers in India and Truckers in South Korea</a> WSJ: The countries rely on Chinese exports of urea, which is extracted from coal, for fertilizer and running diesel vehicles. 
  <p class="updated_time"> 12:09 AM CT, Nov. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59238649?at_medium=RSS&at_campaign=KARANGA">Virat Kohli: India man arrested over rape threats to cricketer's daughter</a> BBC: A man has been arrested over rape threats to the daughter of Indian cricket captain Virat Kohli. 
  <p class="updated_time"> 10:51 PM CT, Nov. 10 </p> 
@@ -199,8 +201,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/10/world/asia/taiwan-europe-china.html">Europe, Taiwan Inch Closer as Distrust of Beijing Grows</a> NYT: Talks between European lawmakers and Taiwanese officials point to Europe’s increasing willingness to strengthen relations, despite Beijing’s threats. 
  <p class="updated_time"> 06:33 PM CT, Nov. 09 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59221823?at_medium=RSS&at_campaign=KARANGA">Cape Town's Day Zero: 'We are axing trees to save water'</a> BBC: Cape Town, on South Africa's coast, was the first global city to come close to running out of water. 
- <p class="updated_time"> 04:12 PM CT, Nov. 09 </p> 
- <a href="https://www.nytimes.com/2021/11/09/world/europe/france-vaccine-booster.html">Macron announces a new vaccine rule for people 65 or older in France.</a> NYT: Though the country has a high vaccination rate, new coronavirus cases and hospital admissions have been increasing in recent weeks. 
  <p class="updated_time"> 04:05 PM CT, Nov. 09 </p> 
  <a href="https://www.nytimes.com/2021/11/09/world/asia/pakistan-taliban-cease-fire.html">Pakistan Reaches Cease-Fire With Resurgent Taliban Militants</a> NYT: The Pakistani government said it would offer amnesty for insurgents who are willing to disarm. 
  <p class="updated_time"> 02:44 PM CT, Nov. 09 </p> 
@@ -212,10 +212,12 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 01:15 PM CT, Nov. 11 </p> 
+ <a href="https://www.nytimes.com/2021/11/11/health/veterans-psychedelics-ptsd-depression.html">Veterans Have Become Unlikely Lobbyists in Push to Legalize Psychedelic Drugs</a> NYT: Lawmakers find it hard to “just say no” to combat veterans seeking support for drug decriminalization efforts gaining traction around the country. 
+ <p class="updated_time"> 01:08 PM CT, Nov. 11 </p> 
+ <a href="https://www.nytimes.com/2021/11/11/us/politics/biden-veterans-day.html">Biden Marks First Veterans Day in Two Decades Without a War Underway</a> NYT: President Biden, who ended the 20-year conflict in Afghanistan this summer, called veterans the “soul of America.” 
  <p class="updated_time"> 01:01 PM CT, Nov. 11 </p> 
  <a href="https://www.politico.com/news/2021/11/11/biden-administration-armed-drones-indonesia-520888">Biden administration wrestles with selling armed drones to Indonesia</a> Politico: The country's human rights abuses, and past purchases of Russian equipment, are among the concerns in Washington. 
- <p class="updated_time"> 12:58 PM CT, Nov. 11 </p> 
- <a href="https://www.nytimes.com/2021/11/11/us/politics/biden-veterans-day.html">Biden Marks First Veterans Day in Two Decades Without a War Underway</a> NYT: President Biden, who ended the 20-year conflict in Afghanistan this summer, called veterans the “soul of America.” 
  <p class="updated_time"> 12:38 PM CT, Nov. 11 </p> 
  <a href="https://www.cnn.com/2021/11/11/politics/reparations-movement-race-deconstructed-newsletter/index.html">Reparations legislation has slowed down in Washington. But at the state and local level, initiatives are ramping up</a> CNN: A version of this story appeared in CNN's Race Deconstructed newsletter. To get it in your inbox every week, sign up for free here. 
  <p class="updated_time"> 12:34 PM CT, Nov. 11 </p> 
@@ -230,8 +232,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/11/politics/trump-motion-documents/index.html">Trump asks appeals court to stop release of his White House records ahead of Friday deadline</a> CNN: Former President Donald Trump has asked a federal appeals court to briefly stop the release of key White House records from his presidency to the House January 6 committee while he appeals a lower court's decision that he can't claim executive privilege to keep them secret. 
  <p class="updated_time"> 12:01 PM CT, Nov. 11 </p> 
  <a href="https://www.cnn.com/2021/11/11/politics/biden-veterans-day-arlington/index.html">'You are the very spine of America': Biden honors those who served on Veterans Day in Arlington</a> CNN: President Joe Biden honored Veterans Day at Arlington National Cemetery on Thursday, paying homage to Americans who have served and laying a wreath at the Tomb of the Unknown Soldier. 
- <p class="updated_time"> 12:00 PM CT, Nov. 11 </p> 
- <a href="https://www.nytimes.com/2021/11/11/health/veterans-psychedelics-ptsd-depression.html">Veterans Have Become Unlikely Lobbyists in Push to Legalize Psychedelic Drugs</a> NYT: Lawmakers find it hard to “just say no” to combat veterans seeking support for drug decriminalization efforts gaining traction around the country. 
  <p class="updated_time"> 10:36 AM CT, Nov. 11 </p> 
  <a href="https://www.cnn.com/2021/11/11/politics/trump-nixon-supreme-court-analysis-biskupic/index.html">Supreme Court's Watergate-era rulings against Nixon may end Trump's executive privilege claims</a> CNN: Former President Donald Trump's attempt to withhold records from the House of Representatives related to the January 6 US Capitol attack based on executive privilege -- a claim rejected by President Joe Biden -- would present the US Supreme Court with a novel legal dilemma. 
  <p class="updated_time"> 10:17 AM CT, Nov. 11 </p> 
