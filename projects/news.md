@@ -7,8 +7,10 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:39 AM CT, Nov. 11 </p> 
+ <p class="updated_time"> 08:52 AM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/10/world/europe/poland-belarus-border-europe.html">Poland Gets Support From Europe on Tough Borders</a> NYT: Faced with the weaponization of migrants from Belarus, the European Union is defending Poland’s hard line even as it withholds funds over rule of law violations. 
+ <p class="updated_time"> 08:52 AM CT, Nov. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59246899?at_medium=RSS&at_campaign=KARANGA">Belarus threatens EU gas as bloc considers sanctions</a> BBC: The EU is reportedly preparing fresh sanctions over an escalating migrant crisis at Belarus's border. 
  <p class="updated_time"> 08:38 AM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/world/europe/poland-independence-day-far-right-protests.html">As Poland Celebrates Its Independence Day, Far-Right Groups Stage Rallies</a> NYT: In downtown Warsaw, tens of thousands of demonstrators started their march by lighting red flares and singing the national anthem. 
  <p class="updated_time"> 08:27 AM CT, Nov. 11 </p> 
@@ -21,10 +23,10 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-59247115?at_medium=RSS&at_campaign=KARANGA">FW de Klerk: South Africa's former president dies at 85</a> BBC: FW de Klerk was the last white person to lead the nation and was key in the transition to democracy. 
  <p class="updated_time"> 07:43 AM CT, Nov. 11 </p> 
  <a href="https://www.npr.org/2021/11/11/1054646063/china-xi-jinping-communist-party">China's Communist Party, with eye on history, gives Xi Jinping the same status as Mao</a> NPR: Leaders have set the stage for the Chinese president to extend his rule, and for just the third time ever, approved a political history that gives him status equal to the most important party figures. 
+ <p class="updated_time"> 07:25 AM CT, Nov. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-59249540?at_medium=RSS&at_campaign=KARANGA">Chan Chan: Mass grave found in ancient Peruvian city</a> BBC: Twenty-five men, women and children were buried in a small space in the ancient city of Chan Chan. 
  <p class="updated_time"> 07:10 AM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/world/europe/glasgow-garbage-strike.html">Outside COP26, Trash in Glasgow Piles High</a> NYT: At COP26, delegates address the need to curb emissions and mass consumption to save the planet while the reality of today’s throwaway society is all too apparent nearby. 
- <p class="updated_time"> 07:09 AM CT, Nov. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59246899?at_medium=RSS&at_campaign=KARANGA">Belarus threatens EU gas as bloc considers sanctions</a> BBC: The EU is reportedly preparing fresh sanctions over an escalating migrant crisis at Belarus's border. 
  <p class="updated_time"> 06:12 AM CT, Nov. 11 </p> 
  <a href="https://www.npr.org/2021/11/11/1054633332/f-w-de-klerk-south-africas-last-apartheid-president-dies-at-85">F. W. de Klerk, South Africa's last apartheid president, dies at 85</a> NPR: De Klerk shared a Nobel Peace Prize with Nelson Mandela, and ceded the presidency to him in 1994 after Black South Africans were allowed to vote. But he's remained a controversial figure there. 
  <p class="updated_time"> 06:02 AM CT, Nov. 11 </p> 
@@ -163,8 +165,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/10/travel/fly-fishing-italy.html">The Joy of Fly Fishing in Italy</a> NYT: Italy is not often mentioned as a fly fishing destination, but the wonder of Italian alpine fishing is now making itself known. 
  <p class="updated_time"> 07:32 AM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/09/world/africa/ethiopia-united-nations.html">Ethiopia Seizes 16 UN Workers Amid Efforts to Halt Tigray War</a> NYT: The detentions aggravated the already tense relations between the United Nations and the Ethiopian government over war and hunger in the country’s rebel-held Tigray region. 
- <p class="updated_time"> 07:13 AM CT, Nov. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59236320?at_medium=RSS&at_campaign=KARANGA">Huma Abedin: Hillary Clinton aide on laptop that may have lost the election</a> BBC: The FBI reinvestigated Hillary Clinton's emails after seizing a laptop from Huma Abedin's then-husband. 
  <p class="updated_time"> 06:30 AM CT, Nov. 10 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59231636?at_medium=RSS&at_campaign=KARANGA">Horse trading set to begin over agreement at COP26</a> BBC: The release of a draft text for the COP26 agreement signals the start of serious negotiations. 
  <p class="updated_time"> 05:49 AM CT, Nov. 10 </p> 
