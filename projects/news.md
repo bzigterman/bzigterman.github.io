@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:45 PM CT, Nov. 10 </p> 
+ <a href="https://www.nytimes.com/2021/11/10/world/asia/covid-china-shenyang-quarantine.html">This Chinese City Requires 28 Days of Quarantine. Then Another 28.</a> NYT: The restrictions in Shenyang are a stark example of how seriously officials are taking the country’s “zero Covid” approach to the pandemic. 
  <p class="updated_time"> 09:04 PM CT, Nov. 10 </p> 
  <a href="https://www.bbc.co.uk/news/business-59243606?at_medium=RSS&at_campaign=KARANGA">Elon Musk: Tesla boss sells $1.1bn of shares in carmaker</a> BBC: It comes days after he asked his Twitter followers whether he should sell 10% of his stake. 
  <p class="updated_time"> 08:55 PM CT, Nov. 10 </p> 
@@ -147,8 +149,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/09/world/africa/ethiopia-united-nations.html">Ethiopia Seizes 16 UN Workers Amid Efforts to Halt Tigray War</a> NYT: The detentions aggravated the already tense relations between the United Nations and the Ethiopian government over war and hunger in the country’s rebel-held Tigray region. 
  <p class="updated_time"> 07:13 AM CT, Nov. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59236320?at_medium=RSS&at_campaign=KARANGA">Huma Abedin: Hillary Clinton aide on laptop that may have lost the election</a> BBC: The FBI reinvestigated Hillary Clinton's emails after seizing a laptop from Huma Abedin's then-husband. 
- <p class="updated_time"> 06:36 AM CT, Nov. 10 </p> 
- <a href="https://www.nytimes.com/2021/11/10/world/asia/covid-china-shenyang-quarantine.html">This Chinese City Requires 28 Days of Quarantine. Then Another 28.</a> NYT: The restrictions in Shenyang are a stark example of how seriously officials are taking the country’s “zero Covid” approach to the pandemic. 
  <p class="updated_time"> 06:30 AM CT, Nov. 10 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59231636?at_medium=RSS&at_campaign=KARANGA">Horse trading set to begin over agreement at COP26</a> BBC: The release of a draft text for the COP26 agreement signals the start of serious negotiations. 
  <p class="updated_time"> 05:49 AM CT, Nov. 10 </p> 
@@ -200,6 +200,10 @@ permalink: /projects/news/
 
  <p class="updated_time"> 10:09 PM CT, Nov. 10 </p> 
  <a href="https://www.politico.com/news/2021/11/10/judge-rejects-trumps-records-jan-6-committee-520768">Judge again rejects Trump’s effort to delay Jan. 6 committee’s bid for his White House records</a> Politico: The decision sharply rejected the former president’s attempt to assert executive privilege over the documents. 
+ <p class="updated_time"> 09:52 PM CT, Nov. 10 </p> 
+ <a href="https://www.nytimes.com/2021/11/10/us/politics/kids-vaccine-5-to-11.html">White House Estimates Almost 1 Million Younger Children Got Vaccines So Far</a> NYT: “Our goal clearly is to vaccinate as many kids as possible,” a White House official said. “The program is just getting up to full strength.” 
+ <p class="updated_time"> 09:48 PM CT, Nov. 10 </p> 
+ <a href="https://www.cnn.com/2021/11/10/politics/belarus-follow-up-sanctions/index.html">White House preparing 'follow up' sanctions on Belarus</a> CNN: The United States is preparing "follow up sanctions" designed to hold leaders in Belarus accountable for "ongoing attacks on democracy, human rights and international norms," a spokesman for the White House's National Security Council said on Wednesday. 
  <p class="updated_time"> 09:47 PM CT, Nov. 10 </p> 
  <a href="https://www.politico.com/news/2021/11/10/texas-ban-school-mask-mandate-disabilities-520760">Federal judge says Texas governor’s ban on school mask mandates violates Americans with Disabilities Act</a> Politico: The decision bars the state attorney general from enforcing the executive order issued by Republican Gov. Greg Abbott. 
  <p class="updated_time"> 08:59 PM CT, Nov. 10 </p> 
@@ -250,8 +254,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/10/politics/burr-sec/index.html">Sen. Burr's brother-in-law ordered to provide testimony in SEC insider trading investigation</a> CNN: A federal judge has ordered Sen. Richard Burr's brother-in-law to answer questions from the Securities and Exchange Commission, allowing the regulator to advance its investigation into their stock sales. 
  <p class="updated_time"> 04:37 PM CT, Nov. 10 </p> 
  <a href="https://www.cnn.com/2021/11/10/politics/jan-6-committee-pence-inner-circle/index.html">January 6 committee interested in at least 5 people from Pence's inner circle</a> CNN: The House select committee investigating January 6 is interested in gathering information from at least five members of former Vice President Mike Pence's inner circle, according to three sources familiar with the effort. 
- <p class="updated_time"> 04:25 PM CT, Nov. 10 </p> 
- <a href="https://www.cnn.com/2021/11/10/politics/belarus-follow-up-sanctions/index.html">White House preparing 'follow up' sanctions on Belarus</a> CNN: The United States is preparing "follow up sanctions" designed to hold leaders in Belarus accountable for "ongoing attacks on democracy, human rights and international norms," a spokesman for the White House's National Security Council said on Wednesday. 
  <p class="updated_time"> 04:21 PM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/us/ruth-ann-minner-dead.html">Ruth Ann Minner, Down-to-Earth Governor of Delaware, Dies at 86</a> NYT: The first woman in that position, she rose from being a receptionist in the governor’s office to claiming the top job herself. 
  <p class="updated_time"> 04:02 PM CT, Nov. 10 </p> 
@@ -276,8 +278,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/10/1054428073/trump-appeals-ruling-that-allows-jan-6-panel-to-access-trump-white-house-records">Trump appeals ruling that allows Jan. 6 panel to access Trump White House records</a> NPR: Former President Trump is appealing a federal judge's ruling that he cannot block the National Archives from releasing his White House records to the committee investigating the Jan. 6 Capitol attack. 
  <p class="updated_time"> 02:40 PM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/us/politics/pac-operator-charges.html">Three Men Charged With Running ‘Scam PACs’ That Bilked Small Donors</a> NYT: The Justice Department said the three men defrauded donors of $3.5 million, including through robocalls that impersonated former President Donald J. Trump. 
- <p class="updated_time"> 02:24 PM CT, Nov. 10 </p> 
- <a href="https://www.nytimes.com/2021/11/10/us/politics/kids-vaccine-5-to-11.html">White House Estimates Almost 1 Million Younger Children Got Vaccines So Far</a> NYT: “Our goal clearly is to vaccinate as many kids as possible,” a White House official said. “The program is just getting up to full strength.” 
  <p class="updated_time"> 02:21 PM CT, Nov. 10 </p> 
  <a href="https://www.cnn.com/2021/11/10/politics/jill-biden-elizabeth-dole-military-caregiving/index.html">Jill Biden and Elizabeth Dole team up to highlight military caregiving</a> CNN: First lady Jill Biden will highlight military caregiving families Wednesday morning at the White House, part of the Joining Forces initiative she started alongside then-first lady Michelle Obama in 2011. 
  <p class="updated_time"> 02:21 PM CT, Nov. 10 </p> 
