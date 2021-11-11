@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:21 AM CT, Nov. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-59229935?at_medium=RSS&at_campaign=KARANGA">China's Xi Jinping cements status with historic resolution</a> BBC: Mr Xi is only the third leader to issue a "historical resolution" after Mao Zedong and Deng Xiaoping. 
+ <p class="updated_time"> 04:10 AM CT, Nov. 11 </p> 
+ <a href="https://www.nytimes.com/2021/11/10/sports/soccer/psg-women-attack-aminata-diallo.html">P.S.G.'s Aminata Diallo Arrested After Teammate Is Attacked</a> NYT: A Paris St.-Germain women’s player was taken into custody by French investigators looking into a violent assault on a teammate who shares her position. 
  <p class="updated_time"> 04:03 AM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/t-magazine/mexico-rice-conquest.html">Tracing Mexico’s Complicated Relationship With Rice</a> NYT: Having arrived in the country via the Spanish Conquest, the grain’s presence poses the question: What’s native, and what isn’t, when it comes to a nation’s culinary history? 
  <p class="updated_time"> 04:02 AM CT, Nov. 11 </p> 
@@ -47,8 +51,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/10/world/europe/covid-germany-cases.html">Germany Weighs New Covid Rules as Infections Reach Record Heights</a> NYT: Nearly 40,000 new cases were registered in the country on Tuesday — the third time a daily record was set within a week. “We have a real emergency situation,” a top virologist said. 
  <p class="updated_time"> 08:50 PM CT, Nov. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59243796?at_medium=RSS&at_campaign=KARANGA">Alabama boy certified as world's most premature baby</a> BBC: Curtis Means defied all odds after he was delivered in Birmingham, Alabama, weighing just 420g. 
- <p class="updated_time"> 08:13 PM CT, Nov. 10 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-59242986?at_medium=RSS&at_campaign=KARANGA">Climate change: Iran says lift sanctions and we'll ratify Paris agreement</a> BBC: The world's eighth largest emitter says it will ratify the Paris climate pact if restrictions are lifted. 
  <p class="updated_time"> 07:25 PM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/climate/climate-cop26-glasgow.html">China and the United States Join in Seeking Emissions Cuts</a> NYT: As nearly 200 nations struggle over global climate negotiations, the world’s two biggest polluters sign an agreement, but it was short on details. 
  <p class="updated_time"> 07:13 PM CT, Nov. 10 </p> 
@@ -73,8 +75,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/59233244?at_medium=RSS&at_campaign=KARANGA">Belarus migrants: What routes do they use to reach Minsk?</a> BBC: The migrant crisis along the EU's borders is the result of increasing numbers arriving in Belarus by air. 
  <p class="updated_time"> 06:11 PM CT, Nov. 10 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2021/11/10/1052078529/why-low-income-countries-are-so-short-on-covid-vaccines-hint-its-not-boosters">Why low income countries are so short on COVID vaccines. Hint: It's not boosters</a> NPR: Wealthy countries keep buying way more doses than they need. New data shows just how much the stockpile of unused vaccine is growing. 
- <p class="updated_time"> 05:54 PM CT, Nov. 10 </p> 
- <a href="https://www.nytimes.com/2021/11/10/sports/soccer/psg-women-attack-aminata-diallo.html">P.S.G.'s Aminata Diallo Arrested After Teammate Is Attacked</a> NYT: A Paris St.-Germain women’s player was taken into custody by French investigators looking into a violent assault on a teammate who shares her position. 
  <p class="updated_time"> 05:42 PM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/world/asia/vietnam-communist-gold-steak-salt-bae.html">Video of Salt Bae Serving Communist Leader Gold Steak Prompts Anger in Vietnam</a> NYT: A celebrity chef showed the meal in a TikTok video, now removed, that angered people in Vietnam. Facebook said it was investigating why the chef’s hashtag was blocked from its site. 
  <p class="updated_time"> 05:11 PM CT, Nov. 10 </p> 
@@ -434,8 +434,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/04/pelosi-domestic-agenda-519503">Pelosi amps up domestic-agenda pressure campaign, pressing Friday votes</a> Politico: Democratic leaders made headway in some areas, but key lawmakers were still drafting new language on immigration as late as 9 p.m. 
  <p class="updated_time"> 06:45 AM CT, Nov. 04 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/11/04/dems-attempt-an-end-of-week-spri-494981">Dems attempt an end-of-week sprint</a> Politico: A play-by-play preview of the day&#39;s congressional news 
- <p class="updated_time"> 05:13 AM CT, Nov. 04 </p> 
- <a href="https://www.politico.com/newsletters/playbook/2021/11/04/for-dems-its-2009-all-over-again-494977">POLITICO Playbook: For Dems, it’s ’2009 all over again’</a> Politico: And New Jersey Gov. Phil Murphy wins reelection narrowly. 
 
 
 </details>
