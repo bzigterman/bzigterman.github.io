@@ -11,6 +11,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/10/world/buttigieg-gasoline-diesel-vehicles.html">Pete Buttigieg Says U.S. 'Focused' on Reducing Auto Emissions</a> NYT: At the Glasgow climate summit, Mr. Buttigieg said the conversation surrounding climate change should focus on whether Earth can sustain life. 
  <p class="updated_time"> 02:32 AM CT, Nov. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59244091?at_medium=RSS&at_campaign=KARANGA">Alec Baldwin film tragedy: Crew member sues for negligence</a> BBC: An electrician alleges negligence in the incident in which cinematographer Halyna Hutchins died. 
+ <p class="updated_time"> 02:29 AM CT, Nov. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-england-oxfordshire-59245679?at_medium=RSS&at_campaign=KARANGA">University of Oxford starts new Ebola vaccine trials</a> BBC: Clinical trials are under way for a new Ebola vaccine developed by the University of Oxford. 
  <p class="updated_time"> 01:58 AM CT, Nov. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59243406?at_medium=RSS&at_campaign=KARANGA">Kyle Rittenhouse: US teen gunman's lawyers seek mistrial</a> BBC: Lawyers for Kyle Rittenhouse ask the judge to toss the murder case after he rebuked prosecutors. 
  <p class="updated_time"> 12:09 AM CT, Nov. 11 </p> 
@@ -69,8 +71,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/10/us/politics/russia-blinken-ukraine.html">Blinken Warns Russia Against Making a ‘Serious Mistake’ in Ukraine</a> NYT: Appearing with Ukraine’s foreign minister, Secretary of State Antony J. Blinken said the intentions behind Moscow’s latest military buildup were unclear. 
  <p class="updated_time"> 04:55 PM CT, Nov. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59238867?at_medium=RSS&at_campaign=KARANGA">Paraguay: Police probe Stradivarius violin theft motive in double murder</a> BBC: Three German citizens are arrested in Paraguay over the murder of an archaeologist and his daughter. 
- <p class="updated_time"> 04:49 PM CT, Nov. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59239981?at_medium=RSS&at_campaign=KARANGA">Mireille Knoll: Killer of French Holocaust survivor jailed for life</a> BBC: A man is sentenced for murdering 85-year-old Jewish woman Mireille Knoll in 2018. 
  <p class="updated_time"> 04:48 PM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/09/world/asia/india-covid-vaccinations.html">India Risks Covid-19 Complacency After Its Vaccine Campaign</a> NYT: The success represents a major victory for Narendra Modi’s government, but a recent slowdown in new vaccinations has sparked worries. 
  <p class="updated_time"> 04:39 PM CT, Nov. 10 </p> 
