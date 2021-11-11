@@ -7,8 +7,12 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:38 AM CT, Nov. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59247115?at_medium=RSS&at_campaign=KARANGA">Former South African President FW de Klerk dies at 85</a> BBC: FW de Klerk - the last president of a segregated South Africa, who freed Nelson Mandela - has died aged 85. 
+ <p class="updated_time"> 04:27 AM CT, Nov. 11 </p> 
+ <a href="https://www.nytimes.com/2021/11/11/world/africa/covid-uganda-schools.html">Dropouts and Menial Jobs: The Effects of Keeping Uganda's Schools Closed</a> NYT: With 10 million young people in Uganda still unable to attend classes in person, the impact for many has been devastating. 
  <p class="updated_time"> 04:21 AM CT, Nov. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-59229935?at_medium=RSS&at_campaign=KARANGA">China's Xi Jinping cements status with historic resolution</a> BBC: Mr Xi is only the third leader to issue a "historical resolution" after Mao Zedong and Deng Xiaoping. 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-59229935?at_medium=RSS&at_campaign=KARANGA">China's Xi Jinping cements his status with historic resolution</a> BBC: Mr Xi is only the third leader to issue a "historical resolution" after Mao Zedong and Deng Xiaoping. 
  <p class="updated_time"> 04:10 AM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/10/sports/soccer/psg-women-attack-aminata-diallo.html">P.S.G.'s Aminata Diallo Arrested After Teammate Is Attacked</a> NYT: A Paris St.-Germain women’s player was taken into custody by French investigators looking into a violent assault on a teammate who shares her position. 
  <p class="updated_time"> 04:03 AM CT, Nov. 11 </p> 
@@ -59,8 +63,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/10/world/europe/poland-belarus-border-europe.html">Poland Gets Support From Europe on Tough Borders</a> NYT: Faced with the weaponization of migrants from Belarus, the European Union is defending Poland’s hard line even as it withholds funds over rule of law violations. 
  <p class="updated_time"> 07:02 PM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/world/europe/france-kamala-harris-macron.html">Harris Meets Macron, Signaling a ‘New Era’ After Sub Snub, Both Say</a> NYT: In her vague assignment abroad, the vice president seems to be emphasizing that the U.S.-France relationship is about looking forward, in the wake of an embarrassing diplomatic spat. 
- <p class="updated_time"> 07:00 PM CT, Nov. 10 </p> 
- <a href="https://www.bbc.co.uk/news/business-59242866?at_medium=RSS&at_campaign=KARANGA">Uber sued by Justice Department for overcharging disabled people</a> BBC: The Justice Department says Uber's 'wait time' fees discriminate against people with disabilities. 
  <p class="updated_time"> 06:53 PM CT, Nov. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59115753?at_medium=RSS&at_campaign=KARANGA">The man turning cities into giant sponges to embrace floods</a> BBC: Yu Kongjian's sponge city, based on ancient Chinese wisdom, seeks to change how we deal with floods. 
  <p class="updated_time"> 06:38 PM CT, Nov. 10 </p> 
@@ -198,6 +200,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:06 AM CT, Nov. 11 </p> 
+ <a href="https://www.npr.org/2021/11/11/1054615028/is-masculinity-under-attack-sen-hawley-wants-to-defend-the-men-of-america">Is masculinity under attack? Sen. Hawley wants to defend the men of America</a> NPR: NPR's Steve Inskeep talks to Kristin Kobes Du Mez, a gender studies professor at Calvin University and author of Jesus and John Wayne, about using masculinity as a political issue. 
  <p class="updated_time"> 10:39 PM CT, Nov. 10 </p> 
  <a href="https://www.cnn.com/2021/11/10/politics/kamala-harris-emmanuel-macron/index.html">Harris and Macron aim for increased US-French cooperation as world enters 'new era'</a> CNN: Vice President Kamala Harris and French President Emmanuel Macron said Wednesday they look forward to closer US-French cooperation as they sat down for a bilateral meeting at the Elysée Palace aimed at revitalizing US-French ties. 
  <p class="updated_time"> 10:09 PM CT, Nov. 10 </p> 
@@ -370,8 +374,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/09/politics/supply-chain-biden-administration/index.html">Biden administration announcing actions to alleviate supply chain issues at nation's ports</a> CNN: The Biden administration announced a new set of immediate and short-term actions Tuesday aimed at alleviating supply chain issues at the nation's ports, waterways and freight networks as the administration takes steps to implement the newly passed, but not yet signed, bipartisan infrastructure bill. 
  <p class="updated_time"> 01:03 PM CT, Nov. 09 </p> 
  <a href="https://www.npr.org/2021/11/09/1053817211/justice-on-the-brink-author-considers-the-impact-of-trumps-3-supreme-court-picks">'Justice on the Brink' author considers the impact of Trump's 3 Supreme Court picks</a> NPR: Pulitzer Prize-winning journalist Linda Greenhouse says the new Court has given conservatives less than they'd hoped for, though critical cases on abortion and other issues are still pending. 
- <p class="updated_time"> 01:00 PM CT, Nov. 09 </p> 
- <a href="https://www.npr.org/2021/11/09/1053929419/feel-like-you-dont-fit-in-either-political-party-heres-why">Feel like you don't fit in either political party? Here's why</a> NPR: The division is far more complicated than a split between Republicans and Democrats, according to the Pew Research Center. Here are the differences in ideology on race, economics and government. 
  <p class="updated_time"> 10:49 AM CT, Nov. 09 </p> 
  <a href="https://www.cnn.com/2021/11/09/politics/cbo-score-timing-build-back-better/index.html">CBO says social spending bill score 'will take longer,' in potential blow to Democrats' timing</a> CNN: The timetable for President Joe Biden's social spending bill, known as Build Back Better, may have just hit a new snag. 
  <p class="updated_time"> 09:35 AM CT, Nov. 09 </p> 
