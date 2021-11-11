@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:51 AM CT, Nov. 11 </p> 
+ <a href="https://www.nytimes.com/2021/11/11/world/europe/poland-forests-border-crisis.html">On the Ground: Migrants in Poland's Forests Are Hiding and Hurting</a> NYT: The Polish authorities have restricted access to the border, but the forests stretch past that zone, and it is there that migrants like this group of eight who have made it past the guards and the razor wire are waiting for an opportunity to continue on. 
  <p class="updated_time"> 09:35 AM CT, Nov. 11 </p> 
  <a href="https://www.npr.org/2021/11/11/1054650773/zhang-zhan-wuhan-citizen-journalist-hunger-strike">A citizen journalist who shined a light on the pandemic in Wuhan may die in prison</a> NPR: "If she does not make it past the coming winter, I hope the world will remember her as she once was," Zhang Zhan's brother said. She posted videos of Wuhan in the early days of the pandemic. 
  <p class="updated_time"> 09:02 AM CT, Nov. 11 </p> 
