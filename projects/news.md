@@ -7,6 +7,14 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:11 PM CT, Nov. 10 </p> 
+ <a href="https://www.npr.org/sections/goatsandsoda/2021/11/10/1052078529/why-low-income-countries-are-so-short-on-covid-vaccines-hint-its-not-boosters">Why low income countries are so short on COVID vaccines. Hint: It's not boosters</a> NPR: Wealthy countries keep buying way more doses than they need. New data shows just how much the stockpile of unused vaccine is growing. 
+ <p class="updated_time"> 06:05 PM CT, Nov. 10 </p> 
+ <a href="https://www.nytimes.com/live/2021/11/10/world/poland-belarus-border-migrants">Live Updates: E.U. Backs Poland in Migrant Standoff at Belarus Border</a> NYT: Western officials accuse the leader of Belarus of sending migrants to E.U. borders as retaliation for sanctions. E.U. officials expressed support for Poland. Lithuania, which also borders Belarus, declared a state of emergency. 
+ <p class="updated_time"> 05:54 PM CT, Nov. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59243426?at_medium=RSS&at_campaign=KARANGA">Flint water crisis: $626m settlement reached for lead poisoning victims</a> BBC: Twelve people died and many children in a Michigan city were exposed to lead poisoning in 2014-15. 
+ <p class="updated_time"> 05:54 PM CT, Nov. 10 </p> 
+ <a href="https://www.nytimes.com/2021/11/10/sports/soccer/psg-women-attack-aminata-diallo.html">P.S.G.'s Aminata Diallo Arrested After Teammate Is Attacked</a> NYT: A Paris St.-Germain women’s player was taken into custody by French investigators looking into a violent assault on a teammate who shares her position. 
  <p class="updated_time"> 05:42 PM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/world/asia/vietnam-communist-gold-steak-salt-bae.html">Video of Salt Bae Serving Communist Leader Gold Steak Prompts Anger in Vietnam</a> NYT: A celebrity chef showed the meal in a TikTok video, now removed, that angered people in Vietnam. Facebook said it was investigating why the chef’s hashtag was blocked from its site. 
  <p class="updated_time"> 05:11 PM CT, Nov. 10 </p> 
@@ -25,8 +33,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/10/world/boris-johnson-cop26.html">Boris Johnson Urges Negotiators to Break Impasse in Final Climate Summit Hours</a> NYT: “Now is the time to get together and show the determination needed to power on through the blockages,” the British prime minister said on Wednesday. 
  <p class="updated_time"> 04:37 PM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/world/europe/boris-johnson-climate-scandal.html">Boris Johnson Handles Scandal Amid Climate Conference</a> NYT: As the host leader of the U.N. conference on global warming, Mr. Johnson was hoping to project statesmanship. But a mushrooming ethics scandal dominated the week, overshadowing his climate ambitions. 
- <p class="updated_time"> 04:35 PM CT, Nov. 10 </p> 
- <a href="https://www.nytimes.com/live/2021/11/10/world/poland-belarus-border-migrants">Live Updates: E.U. Backs Poland in Migrant Standoff at Belarus Border</a> NYT: Western officials accuse the leader of Belarus of sending migrants to E.U. borders as retaliation for sanctions. E.U. officials expressed support for Poland. Lithuania, which also borders Belarus, declared a state of emergency. 
  <p class="updated_time"> 04:31 PM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/09/business/china-evergrande-kaisa.html">China Evergrande Troubles Spread Through Property Sector</a> NYT: Global markets just weeks ago were fretting over the possible failure of Evergrande. Now the developer says the worst is over, even as other companies show signs of trouble. 
  <p class="updated_time"> 04:29 PM CT, Nov. 10 </p> 
@@ -53,8 +59,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/10/1054428129/activists-from-low-lying-nations-vulnerable-to-rising-seas-demand-action-at-cop2">How island nations vulnerable to climate change need rich, polluting countries to act</a> NPR: Low-lying islands and nations are among those most at risk from rising sea levels, and have been sounding the alarm on the need for action by wealthier nations to limit global warming for years. 
  <p class="updated_time"> 03:29 PM CT, Nov. 10 </p> 
  <a href="https://www.npr.org/2021/11/10/1054428122/loved-ones-from-around-the-world-are-finally-reuniting-with-u-s-restrictions-lif">Loved ones from around the world are finally reuniting with U.S. restrictions lifted</a> NPR: Airports across the country have been the scenes of many emotional reunions since Monday, when the U.S. lifted COVID-related travel restrictions for many countries. 
- <p class="updated_time"> 03:15 PM CT, Nov. 10 </p> 
- <a href="https://www.nytimes.com/2021/11/10/sports/soccer/psg-women-attack-aminata-diallo.html">P.S.G.'s Aminata Diallo Arrested After Teammate Is Attacked</a> NYT: A Paris St.-Germain women’s player was taken into custody by French investigators looking into a violent assault on a teammate who shares her position. 
  <p class="updated_time"> 03:11 PM CT, Nov. 10 </p> 
  <a href="https://www.npr.org/2021/11/10/1054428108/burning-wood-pellets-isnt-the-clean-energy-it-claims-to-be-critics-say">Burning wood pellets isn't the 'clean energy' it claims to be, critics say</a> NPR: There's a big market sending U.S. wood pellets to Europe to burn as clean energy. But critics say they're not climate-friendly, and their production poses a health hazard for low-income communities. 
  <p class="updated_time"> 03:11 PM CT, Nov. 10 </p> 
@@ -115,8 +119,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/09/world/asia/afghan-pilots-tajikistan-taliban.html">Afghan Pilots Who Escaped Taliban Are Flown Out of Tajikistan</a> NYT: More than 140 Afghan Air Force pilots and crew members were evacuated to the United Arab Emirates three months after flying into Tajikistan to escape the Taliban. 
  <p class="updated_time"> 09:32 AM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/travel/fly-fishing-italy.html">The Joy of Fly Fishing in Italy</a> NYT: Italy is not often mentioned as a fly fishing destination, but the wonder of Italian alpine fishing is now making itself known. 
- <p class="updated_time"> 09:17 AM CT, Nov. 10 </p> 
- <a href="https://www.npr.org/2021/11/10/1054237391/chile-president-impeached-pandora-papers-sebastian-pinera">Chile's president has been impeached over the Pandora Papers allegations</a> NPR: The impeachment sets up a Senate trial over whether to remove Sebastián Piñera over allegations he favored the sale of a family property while in office. The effort has 24 of the needed 29 votes. 
  <p class="updated_time"> 09:15 AM CT, Nov. 10 </p> 
  <a href="https://www.bbc.co.uk/sport/football/59236410?at_medium=RSS&at_campaign=KARANGA">PSG player Diallo arrested over attack on teammate</a> BBC: Paris St-Germain women's midfielder Aminata Diallo is arrested as part of an investigation into an attack on team-mates on 4 November. 
  <p class="updated_time"> 08:31 AM CT, Nov. 10 </p> 
@@ -145,8 +147,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/another-covid-winter-threatens-europes-more-vulnerable-nations-11636555455">Another Covid Winter Threatens Europe's More Vulnerable Nations</a> WSJ: People in Romania and Bulgaria are dying from the virus at record rates, but elsewhere in Europe infections are at a manageable level that policy makers say are the result of a suite of restrictive policies. 
  <p class="updated_time"> 03:43 AM CT, Nov. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59230846?at_medium=RSS&at_campaign=KARANGA">New Zealand PM Jacinda Ardern's live stream interrupted by three-year-old daughter</a> BBC: Three-year-old Neve interrupted Jacinda Ardern's Facebook Live on Covid restrictions. 
- <p class="updated_time"> 03:43 AM CT, Nov. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59230564?at_medium=RSS&at_campaign=KARANGA">Afghanistan's ghost soldiers undermined fight against Taliban - ex-official</a> BBC: Thousands of troops who were supposed to fight the Taliban did not exist, a former minister says. 
  <p class="updated_time"> 03:39 AM CT, Nov. 10 </p> 
  <a href="https://www.wsj.com/articles/evergrande-china-crisis-real-estate-developers-11636552507">China's Plan to Manage Evergrande: Take It Apart, Slowly</a> WSJ: Beijing is working on a controlled implosion of the real-estate giant, selling off some of its assets while limiting damage to home buyers and businesses involved in its unfinished projects. 
  <p class="updated_time"> 09:03 PM CT, Nov. 09 </p> 
@@ -199,13 +199,13 @@ permalink: /projects/news/
 <summary>Politics</summary>
 
  <p class="updated_time"> 06:43 PM CT, Nov. 10 </p> 
- <a href="https://www.politico.com/news/2021/11/10/us-china-climate-talks-cooperation-520686">U.S and China step to forefront as climate talks near end game</a> Politico: The pair moved closer to something resembling an agreement on Wednesday, issuing a joint statement of principles for climate cooperation. 
+ <a href="https://www.politico.com/news/2021/11/10/us-china-climate-talks-cooperation-520686">U.S. and China step to forefront as climate talks near end game</a> Politico: The pair moved closer to something resembling an agreement on Wednesday, issuing a joint statement of principles for climate cooperation. 
+ <p class="updated_time"> 05:55 PM CT, Nov. 10 </p> 
+ <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/169bSfKsdFE/index.html">Blinken says US is concerned Russia may be 'attempting to rehash' 2014 invasion of Ukraine</a> CNN: US Secretary of State Antony Blinken said Wednesday that the US is concerned by reports of unusual Russian military activity and the possibility that Russia may be "attempting to rehash" its 2014 invasion of Ukraine. 
  <p class="updated_time"> 05:53 PM CT, Nov. 10 </p> 
- <a href="https://www.politico.com/news/2021/11/10/rent-inflation-biden-520642">Rent is Biden’s next inflation headache</a> Politico: The Biden administration has vowed to address the home affordability crisis in the U.S., but policies are still in development and will likely have a limited impact. 
+ <a href="https://www.politico.com/news/2021/11/10/rent-inflation-biden-520642">Biden’s next inflation threat: The rent is too damn high</a> Politico: The Biden administration has vowed to address the home affordability crisis in the U.S., but policies are still in development and will likely have a limited impact. 
  <p class="updated_time"> 05:32 PM CT, Nov. 10 </p> 
  <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/ERgz0U35lGY/index.html">New York attorney general releases former Gov. Andrew Cuomo's testimony and other documents from sexual harassment investigation</a> CNN: The office of the New York Attorney General Letitia James on Wednesday released a transcripts of investigators' interview with former New York Gov. Andrew Cuomo, along with other documents and exhibits, from its investigation into the sexual harassment allegations that ultimately led to his resignation. 
- <p class="updated_time"> 05:30 PM CT, Nov. 10 </p> 
- <a href="http://rss.cnn.com/~r/rss/cnn_allpolitics/~3/169bSfKsdFE/index.html">Blinken says US is concerned Russia may be 'attempting to rehash' 2014 invasion of Ukraine</a> CNN: US Secretary of State Antony Blinken said Wednesday that the US is concerned by reports of unusual Russian military activity and the possibility that Russia may be "attempting to rehash" its 2014 invasion of Ukraine. 
  <p class="updated_time"> 05:22 PM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/business/economy/consumer-price-inflation-october.html">October 2021 CPI: Inflation Rose at Fastest Rate Since 1990</a> NYT: The Consumer Price Index rose 6.2 percent in October from a year earlier, its sharpest increase since 1990. That is bad news for President Biden and the Federal Reserve. 
  <p class="updated_time"> 05:16 PM CT, Nov. 10 </p> 
