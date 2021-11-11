@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:15 PM CT, Nov. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59244091?at_medium=RSS&at_campaign=KARANGA">Alec Baldwin film tragedy: Crew member sues for negligence</a> BBC: An electrician alleges negligence in the incident in which cinematographer Halyna Hutchins died. 
+ <p class="updated_time"> 10:58 PM CT, Nov. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-59243836?at_medium=RSS&at_campaign=KARANGA">China: North-eastern city sees highest snowfall in 116 years</a> BBC: It comes amid concerns about keeping homes warm in an area already that was earlier hit by outages. 
  <p class="updated_time"> 10:51 PM CT, Nov. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59244336?at_medium=RSS&at_campaign=KARANGA">Watch as hot air balloonist breaks world record</a> BBC: Rémi Ouvrard stood on top of a hot air balloon at more than 3,500m over western France. 
  <p class="updated_time"> 10:40 PM CT, Nov. 10 </p> 
@@ -131,8 +135,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/10/1054256978/cop26-agreement-electric-vehicles-auto-industry">COP26 sees pledges to transition to electric vehicles, but key countries are mum</a> NPR: The agreements were hailed as a major step toward decarbonizing the auto industry, but the world's largest auto markets, including the U.S., and top carmakers failed to sign on. 
  <p class="updated_time"> 10:10 AM CT, Nov. 10 </p> 
  <a href="https://www.npr.org/2021/11/10/1054224042/cop26-climate-summit-draft-agreement">Draft agreement at the COP26 climate summit looks to rapidly speed up emissions cuts</a> NPR: The draft, circulated at the United Nations climate summit in Glasgow, calls for an end to coal power and more rapid cuts in greenhouse gas emissions. 
- <p class="updated_time"> 10:04 AM CT, Nov. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-59231477?at_medium=RSS&at_campaign=KARANGA">COP26: Draft deal calls for stronger carbon cutting targets by end of 2022</a> BBC: The document says vulnerable nations must get more help to cope with the deadly impacts of global warming. 
  <p class="updated_time"> 10:01 AM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/world/europe/france-climate-change-energy-prices.html">In France, the People COP26 Forgot Seethe Over Rising Energy Prices</a> NYT: In one area of France, worries about rising energy prices trump anxiety about rising temperatures, raising fears of a resurgence of the Yellow Vest social uprising. 
  <p class="updated_time"> 09:46 AM CT, Nov. 10 </p> 
@@ -143,8 +145,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/10/travel/fly-fishing-italy.html">The Joy of Fly Fishing in Italy</a> NYT: Italy is not often mentioned as a fly fishing destination, but the wonder of Italian alpine fishing is now making itself known. 
  <p class="updated_time"> 08:31 AM CT, Nov. 10 </p> 
  <a href="https://www.wsj.com/articles/china-weighs-moderating-property-curbs-to-help-troubled-developers-unload-assets-11636572669">China Weighs Moderating Property Curbs to Help Developers Unload Assets</a> WSJ: Beijing is wary that financial risks could spread through the economy as it tries to rein in the real-estate sector. 
- <p class="updated_time"> 07:51 AM CT, Nov. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59234443?at_medium=RSS&at_campaign=KARANGA">Germany coronavirus: Record rise prompts warning of 100,000 deaths</a> BBC: The state of Saxony has the highest rate of infection in Germany and the lowest vaccine take-up. 
  <p class="updated_time"> 07:32 AM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/09/world/africa/ethiopia-united-nations.html">Ethiopia Seizes 16 UN Workers Amid Efforts to Halt Tigray War</a> NYT: The detentions aggravated the already tense relations between the United Nations and the Ethiopian government over war and hunger in the country’s rebel-held Tigray region. 
  <p class="updated_time"> 07:13 AM CT, Nov. 10 </p> 
