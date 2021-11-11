@@ -7,9 +7,11 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:49 AM CT, Nov. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59247115?at_medium=RSS&at_campaign=KARANGA">South Africa's former President FW de Klerk dies at 85</a> BBC: FW de Klerk - the last president of a segregated South Africa, who freed Nelson Mandela - has died aged 85. 
- <p class="updated_time"> 04:43 AM CT, Nov. 11 </p> 
+ <p class="updated_time"> 05:03 AM CT, Nov. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59247115?at_medium=RSS&at_campaign=KARANGA">FW de Klerk: South Africa's former president dies at 85</a> BBC: FW de Klerk was the last white person to lead the nation and was key in the transition to democracy. 
+ <p class="updated_time"> 05:00 AM CT, Nov. 11 </p> 
+ <a href="https://www.nytimes.com/2021/11/11/world/asia/covid-singapore-music-bars-restaurants.html">Singapore Will Again Allow Music in Bars and Restaurants, If It's Mellow</a> NYT: There was no word on what kinds of music, or what volume level, the change applies to. And live music and entertainment are still banned. 
+ <p class="updated_time"> 04:50 AM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/world/africa/fw-de-klerk-dead.html">F.W. De Klerk, Former South African President Who Dismantled Apartheid, Dies at 85</a> NYT: A prominent Afrikaner, he was the ninth and possibly last in a long line of white presidents of South Africa. 
  <p class="updated_time"> 04:27 AM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/world/africa/covid-uganda-schools.html">Dropouts and Menial Jobs: The Effects of Keeping Uganda's Schools Closed</a> NYT: With 10 million young people in Uganda still unable to attend classes in person, the impact for many has been devastating. 
@@ -208,6 +210,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/agenda/2021/11/11/congress-long-term-care-520649">Opinion | ‘We Don’t Fix This Because We Just Don’t Care About Old People’</a> Politico: Lawmakers are proposing billions of dollars to strengthen long-term care. It isn’t nearly enough. 
  <p class="updated_time"> 04:06 AM CT, Nov. 11 </p> 
  <a href="https://www.npr.org/2021/11/11/1054615028/is-masculinity-under-attack-sen-hawley-wants-to-defend-the-men-of-america">Is masculinity under attack? Sen. Hawley wants to defend the men of America</a> NPR: NPR's Steve Inskeep talks to Kristin Kobes Du Mez, a gender studies professor at Calvin University and author of Jesus and John Wayne, about using masculinity as a political issue. 
+ <p class="updated_time"> 04:06 AM CT, Nov. 11 </p> 
+ <a href="https://www.npr.org/2021/11/11/1054614951/morning-news-brief">News brief: infrastructure bill, Texas mask rules, Rittenhouse trial </a> NPR: President Biden addresses inflation and infrastructure bill. Texas schools can set their own face mask rules again following a judge's ruling. Kyle Rittenhouse took the stand in his own defense. 
  <p class="updated_time"> 10:39 PM CT, Nov. 10 </p> 
  <a href="https://www.cnn.com/2021/11/10/politics/kamala-harris-emmanuel-macron/index.html">Harris and Macron aim for increased US-French cooperation as world enters 'new era'</a> CNN: Vice President Kamala Harris and French President Emmanuel Macron said Wednesday they look forward to closer US-French cooperation as they sat down for a bilateral meeting at the Elysée Palace aimed at revitalizing US-French ties. 
  <p class="updated_time"> 10:09 PM CT, Nov. 10 </p> 
@@ -374,8 +378,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/09/us/politics/trump-officials-illegal-campaigning.html">Trump Officials Illegally Campaigned While in Office, Watchdog Finds</a> NYT: Mr. Trump’s son-in-law and his chief of staff are among those accused of violating a law designed to prevent federal employees from abusing their power. 
  <p class="updated_time"> 01:35 PM CT, Nov. 09 </p> 
  <a href="https://www.cnn.com/2021/11/09/politics/supply-chain-biden-administration/index.html">Biden administration announcing actions to alleviate supply chain issues at nation's ports</a> CNN: The Biden administration announced a new set of immediate and short-term actions Tuesday aimed at alleviating supply chain issues at the nation's ports, waterways and freight networks as the administration takes steps to implement the newly passed, but not yet signed, bipartisan infrastructure bill. 
- <p class="updated_time"> 01:03 PM CT, Nov. 09 </p> 
- <a href="https://www.npr.org/2021/11/09/1053817211/justice-on-the-brink-author-considers-the-impact-of-trumps-3-supreme-court-picks">'Justice on the Brink' author considers the impact of Trump's 3 Supreme Court picks</a> NPR: Pulitzer Prize-winning journalist Linda Greenhouse says the new Court has given conservatives less than they'd hoped for, though critical cases on abortion and other issues are still pending. 
  <p class="updated_time"> 10:49 AM CT, Nov. 09 </p> 
  <a href="https://www.cnn.com/2021/11/09/politics/cbo-score-timing-build-back-better/index.html">CBO says social spending bill score 'will take longer,' in potential blow to Democrats' timing</a> CNN: The timetable for President Joe Biden's social spending bill, known as Build Back Better, may have just hit a new snag. 
  <p class="updated_time"> 09:35 AM CT, Nov. 09 </p> 
