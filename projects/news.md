@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:27 AM CT, Nov. 11 </p> 
+ <a href="https://www.nytimes.com/2021/11/11/world/africa/fw-de-klerk-dead.html">F.W. de Klerk, Last President of Apartheid South Africa, Dies at 85</a> NYT: A prominent Afrikaner, he vehemently defended the separation of the races but later stunned his deeply divided nation, and the wider world, by reconsidering the country’s racist ways. 
  <p class="updated_time"> 07:59 AM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/world/africa/covid-uganda-schools.html">Dropouts and Menial Jobs: The Effects of Keeping Uganda's Schools Closed</a> NYT: With 10 million young people in Uganda still unable to attend classes in person, the impact for many has been devastating. 
  <p class="updated_time"> 07:57 AM CT, Nov. 11 </p> 
@@ -21,8 +23,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/11/world/europe/glasgow-garbage-strike.html">Outside COP26, Trash in Glasgow Piles High</a> NYT: At COP26, delegates address the need to curb emissions and mass consumption to save the planet while the reality of today’s throwaway society is all too apparent nearby. 
  <p class="updated_time"> 07:09 AM CT, Nov. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59246899?at_medium=RSS&at_campaign=KARANGA">Belarus threatens EU gas as bloc considers sanctions</a> BBC: The EU is reportedly preparing fresh sanctions over an escalating migrant crisis at Belarus's border. 
- <p class="updated_time"> 06:25 AM CT, Nov. 11 </p> 
- <a href="https://www.nytimes.com/2021/11/11/world/africa/fw-de-klerk-dead.html">F.W. de Klerk, Last President of Apartheid South Africa, Dies at 85</a> NYT: A prominent Afrikaner, he vehemently defended the separation of the races but later stunned his deeply divided nation, and the wider world, by reconsidering the country’s racist ways. 
  <p class="updated_time"> 06:12 AM CT, Nov. 11 </p> 
  <a href="https://www.npr.org/2021/11/11/1054633332/f-w-de-klerk-south-africas-last-apartheid-president-dies-at-85">F. W. de Klerk, South Africa's last apartheid president, dies at 85</a> NPR: De Klerk shared a Nobel Peace Prize with Nelson Mandela, and ceded the presidency to him in 1994 after Black South Africans were allowed to vote. But he's remained a controversial figure there. 
  <p class="updated_time"> 06:02 AM CT, Nov. 11 </p> 
@@ -258,8 +258,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/10/world/europe/france-kamala-harris-macron.html">Harris Meets Macron, Signaling a ‘New Era’ After Sub Snub, Both Say</a> NYT: In her vague assignment abroad, the vice president seems to be emphasizing that the U.S.-France relationship is about looking forward, in the wake of an embarrassing diplomatic spat. 
  <p class="updated_time"> 06:43 PM CT, Nov. 10 </p> 
  <a href="https://www.politico.com/news/2021/11/10/us-china-climate-talks-cooperation-520686">U.S. and China step to forefront as climate talks near end game</a> Politico: The pair moved closer to something resembling an agreement on Wednesday, issuing a joint statement of principles for climate cooperation. 
- <p class="updated_time"> 06:38 PM CT, Nov. 10 </p> 
- <a href="https://www.cnn.com/2021/11/10/politics/dhs-terrorism-bulletin-update/index.html">DHS bulletin warns of 'diverse and challenging' terrorism threats ahead of holidays</a> CNN: The Department of Homeland Security warned in a new terrorism bulletin Wednesday of a "​​diverse and challenging threat environment" ahead of the holidays, pointing to the spread of violent extremist narratives online, coronavirus pandemic-related stressors and the potential to exploit recent events in Afghanistan. 
  <p class="updated_time"> 06:28 PM CT, Nov. 10 </p> 
  <a href="https://www.cnn.com/2021/11/10/politics/biden-baltimore-port-infrastructure/index.html">'It's worrisome': Biden addresses inflation concerns during Baltimore speech</a> CNN: President Joe Biden takes his sales pitch for the newly passed bipartisan infrastructure deal on the road Wednesday, highlighting the effect of the bill on supply chains, hours after new inflation statistics revealed that America's prices are surging more than they have in 30 years. 
  <p class="updated_time"> 05:53 PM CT, Nov. 10 </p> 
@@ -374,6 +372,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/09/us/politics/trump-officials-illegal-campaigning.html">Trump Officials Illegally Campaigned While in Office, Watchdog Finds</a> NYT: Mr. Trump’s son-in-law and his chief of staff are among those accused of violating a law designed to prevent federal employees from abusing their power. 
  <p class="updated_time"> 01:35 PM CT, Nov. 09 </p> 
  <a href="https://www.cnn.com/2021/11/09/politics/supply-chain-biden-administration/index.html">Biden administration announcing actions to alleviate supply chain issues at nation's ports</a> CNN: The Biden administration announced a new set of immediate and short-term actions Tuesday aimed at alleviating supply chain issues at the nation's ports, waterways and freight networks as the administration takes steps to implement the newly passed, but not yet signed, bipartisan infrastructure bill. 
+ <p class="updated_time"> 10:53 AM CT, Nov. 09 </p> 
+ <a href="https://www.cnn.com/2021/11/09/politics/bill-nye-white-house-biden/index.html">Bill Nye teams up with White House to highlight how Biden's economic agenda will help combat climate crisis</a> CNN: Bill Nye will come to the White House on Tuesday to help President Joe Biden promote his economic agenda and highlight how it will help combat the climate crisis, a White House official tells CNN. 
  <p class="updated_time"> 09:35 AM CT, Nov. 09 </p> 
  <a href="https://www.cnn.com/2021/11/09/politics/gas-prices-joe-biden-explainer/index.html">Here's what Biden can actually do about gas prices</a> CNN: High gas prices are quickly becoming a political liability for President Joe Biden -- and like presidents before him, he has few options to bring them down. 
  <p class="updated_time"> 07:24 AM CT, Nov. 09 </p> 
