@@ -7,16 +7,16 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:32 AM CT, Nov. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59244091?at_medium=RSS&at_campaign=KARANGA">Alec Baldwin film tragedy: Crew member sues for negligence</a> BBC: An electrician alleges negligence in the incident in which cinematographer Halyna Hutchins died. 
  <p class="updated_time"> 01:58 AM CT, Nov. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59243406?at_medium=RSS&at_campaign=KARANGA">Kyle Rittenhouse: US teen gunman's lawyers seek mistrial</a> BBC: Lawyers for Kyle Rittenhouse ask the judge to toss the murder case after he rebuked prosecutors. 
- <p class="updated_time"> 11:15 PM CT, Nov. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59244091?at_medium=RSS&at_campaign=KARANGA">Alec Baldwin film tragedy: Crew member sues for negligence</a> BBC: An electrician alleges negligence in the incident in which cinematographer Halyna Hutchins died. 
+ <p class="updated_time"> 12:09 AM CT, Nov. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-59238649?at_medium=RSS&at_campaign=KARANGA">Virat Kohli: India man arrested over rape threats to cricketer's daughter</a> BBC: A man has been arrested over rape threats to the daughter of Indian cricket captain Virat Kohli. 
  <p class="updated_time"> 10:58 PM CT, Nov. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59243836?at_medium=RSS&at_campaign=KARANGA">China: North-eastern city sees highest snowfall in 116 years</a> BBC: It comes amid concerns about keeping homes warm in an area that was earlier hit by outages. 
  <p class="updated_time"> 10:51 PM CT, Nov. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59244336?at_medium=RSS&at_campaign=KARANGA">Watch as hot air balloonist breaks world record</a> BBC: Rémi Ouvrard stood on top of a hot air balloon at more than 3,500m over western France. 
- <p class="updated_time"> 10:40 PM CT, Nov. 10 </p> 
- <a href="https://www.bbc.co.uk/news/business-59243606?at_medium=RSS&at_campaign=KARANGA">Elon Musk: Tesla boss sells $5bn of shares after Twitter poll</a> BBC: Part of the share sale was based on a pre-arranged trading plan set up in September. 
  <p class="updated_time"> 10:04 PM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/world/middleeast/israeli-covid-vaccine-children.html">Israeli Experts Approve Vaccinations for Children Ages 5 to 11 </a> NYT: Israel would become one of the first countries after the United States to authorize the Pfizer-BioNTech vaccine for children ages 5 to 11. 
  <p class="updated_time"> 10:02 PM CT, Nov. 10 </p> 
