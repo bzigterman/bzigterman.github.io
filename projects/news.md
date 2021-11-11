@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:39 AM CT, Nov. 11 </p> 
+ <a href="https://www.nytimes.com/2021/11/10/world/europe/poland-belarus-border-europe.html">Poland Gets Support From Europe on Tough Borders</a> NYT: Faced with the weaponization of migrants from Belarus, the European Union is defending Poland’s hard line even as it withholds funds over rule of law violations. 
  <p class="updated_time"> 08:38 AM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/world/europe/poland-independence-day-far-right-protests.html">As Poland Celebrates Its Independence Day, Far-Right Groups Stage Rallies</a> NYT: In downtown Warsaw, tens of thousands of demonstrators started their march by lighting red flares and singing the national anthem. 
  <p class="updated_time"> 08:27 AM CT, Nov. 11 </p> 
@@ -14,7 +16,7 @@ permalink: /projects/news/
  <p class="updated_time"> 07:59 AM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/world/africa/covid-uganda-schools.html">Dropouts and Menial Jobs: The Effects of Keeping Uganda's Schools Closed</a> NYT: With 10 million young people in Uganda still unable to attend classes in person, the impact for many has been devastating. 
  <p class="updated_time"> 07:57 AM CT, Nov. 11 </p> 
- <a href="https://www.nytimes.com/2021/11/11/world/europe/covid-deaths.html">Europe's Covid Deaths Rose 10 Percent in a Week, the W.H.O. Says</a> NYT: Cases and fatalities have increased on the continent, even as they have dropped or remained stable in other parts of the globe. 
+ <a href="https://www.nytimes.com/2021/11/11/world/europe/eu-covid-deaths.html">Europe's Covid Deaths Rose 10 Percent in a Week, the W.H.O. Says</a> NYT: Cases and fatalities have increased on the continent, even as they have dropped or remained stable in other parts of the globe. 
  <p class="updated_time"> 07:43 AM CT, Nov. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59247115?at_medium=RSS&at_campaign=KARANGA">FW de Klerk: South Africa's former president dies at 85</a> BBC: FW de Klerk was the last white person to lead the nation and was key in the transition to democracy. 
  <p class="updated_time"> 07:43 AM CT, Nov. 11 </p> 
@@ -85,8 +87,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/10/world/europe/covid-germany-cases.html">Germany Weighs New Covid Rules as Infections Reach Record Heights</a> NYT: Nearly 40,000 new cases were registered in the country on Tuesday — the third time a daily record was set within a week. “We have a real emergency situation,” a top virologist said. 
  <p class="updated_time"> 07:25 PM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/climate/climate-cop26-glasgow.html">China and the United States Join in Seeking Emissions Cuts</a> NYT: As nearly 200 nations struggle over global climate negotiations, the world’s two biggest polluters sign an agreement, but it was short on details. 
- <p class="updated_time"> 07:02 PM CT, Nov. 10 </p> 
- <a href="https://www.nytimes.com/2021/11/10/world/europe/poland-belarus-border-europe.html">Poland Gets Support From Europe on Tough Borders</a> NYT: Faced with the weaponization of migrants from Belarus, the European Union is defending Poland’s hard line even as it withholds funds over rule of law violations. 
  <p class="updated_time"> 07:02 PM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/world/europe/france-kamala-harris-macron.html">Harris Meets Macron, Signaling a ‘New Era’ After Sub Snub, Both Say</a> NYT: In her vague assignment abroad, the vice president seems to be emphasizing that the U.S.-France relationship is about looking forward, in the wake of an embarrassing diplomatic spat. 
  <p class="updated_time"> 06:53 PM CT, Nov. 10 </p> 
