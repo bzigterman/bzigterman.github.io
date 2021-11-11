@@ -12,7 +12,7 @@ permalink: /projects/news/
  <p class="updated_time"> 11:15 PM CT, Nov. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59244091?at_medium=RSS&at_campaign=KARANGA">Alec Baldwin film tragedy: Crew member sues for negligence</a> BBC: An electrician alleges negligence in the incident in which cinematographer Halyna Hutchins died. 
  <p class="updated_time"> 10:58 PM CT, Nov. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-59243836?at_medium=RSS&at_campaign=KARANGA">China: North-eastern city sees highest snowfall in 116 years</a> BBC: It comes amid concerns about keeping homes warm in an area already that was earlier hit by outages. 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-59243836?at_medium=RSS&at_campaign=KARANGA">China: North-eastern city sees highest snowfall in 116 years</a> BBC: It comes amid concerns about keeping homes warm in an area that was earlier hit by outages. 
  <p class="updated_time"> 10:51 PM CT, Nov. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59244336?at_medium=RSS&at_campaign=KARANGA">Watch as hot air balloonist breaks world record</a> BBC: Rémi Ouvrard stood on top of a hot air balloon at more than 3,500m over western France. 
  <p class="updated_time"> 10:40 PM CT, Nov. 10 </p> 
