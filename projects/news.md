@@ -7,12 +7,12 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:08 PM CT, Nov. 11 </p> 
+ <p class="updated_time"> 04:45 PM CT, Nov. 11 </p> 
+ <a href="https://www.nytimes.com/live/2021/11/11/world/belarus-poland-border-migrants">Live Updates: Belarus and Poland Trade Threats as Migrant Plight Worsens</a> NYT: Thousands are camped at the border as dangerous cold sets in. Western officials say Belarus’s leader, who hinted at disrupting gas supplies to Europe, orchestrated the crisis. 
+ <p class="updated_time"> 04:42 PM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/world/asia/india-pollution-yamuna-chhath.html">On Delhi’s Toxic River, Prayers to a Sun Struggling to Shine Through Smog</a> NYT: Every year, a four-day festival to the sun god Surya highlights the Indian city’s extreme air and water pollution, with a river so filled with foam it resembles a blizzard’s aftermath. 
  <p class="updated_time"> 04:04 PM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/world/africa/fw-de-klerk-dead.html">F.W. de Klerk, Last President of Apartheid South Africa, Dies at 85</a> NYT: A prominent Afrikaner, he defended the separation of the races before helping to dismantle that system, leading to his sharing the Nobel Peace Prize with Nelson Mandela. 
- <p class="updated_time"> 04:01 PM CT, Nov. 11 </p> 
- <a href="https://www.nytimes.com/live/2021/11/11/world/belarus-poland-border-migrants">Live Updates: Belarus and Poland Trade Threats as Migrant Plight Worsens</a> NYT: Thousands are camped at the border as dangerous cold sets in. Western officials say Belarus’s leader, who hinted at disrupting gas supplies to Europe, orchestrated the crisis. 
  <p class="updated_time"> 04:01 PM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/live/2021/11/11/world/china-xi-jinping-cpc">China’s Xi Jinping Remakes the Communist Party’s History in His Image</a> NYT: Leaders at an elite meeting enshrined Mr. Xi among the party’s historical giants, paving the way for him to claim a third five-year term. 
  <p class="updated_time"> 03:49 PM CT, Nov. 11 </p> 
@@ -212,16 +212,22 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:17 PM CT, Nov. 11 </p> 
+ <a href="https://www.politico.com/news/2021/11/11/us-europe-climate-pledges-developing-countries-520968">U.S., Europe plan for speedier climate pledges irks developing countries</a> Politico: The group of developing countries, which includes China and India, slammed the effort by U.S. climate envoy John Kerry and European negotiators for countries to conduct the reviews of their climate initiatives more often. 
  <p class="updated_time"> 05:16 PM CT, Nov. 11 </p> 
  <a href="https://www.politico.com/news/2021/11/11/republicans-wrestle-infrastructure-backlash-520956">‘I hope it’s a fever that will break’: GOP wrestles with infrastructure vote backlash</a> Politico: ‘Some elements of the party keep finding new ways to define Republicanism,’ says one longtime GOP lobbyist and strategist. 
+ <p class="updated_time"> 05:16 PM CT, Nov. 11 </p> 
+ <a href="https://www.politico.com/news/2021/11/11/republicans-wrestle-infrastructure-backlash-520956">‘I hope it’s a fever that will break’: GOP wrestles with infrastructure vote backlash</a> Politico: ‘Some elements of the party keep finding new ways to define Republicanism,’ says one longtime GOP lobbyist and strategist. 
+ <p class="updated_time"> 04:45 PM CT, Nov. 11 </p> 
+ <a href="https://www.nytimes.com/2021/11/11/us/politics/republicans-infrastructure-bill.html">Illinois Republican Lawmakers at Odds on Infrastructure Bill</a> NYT: Representative Darin LaHood voted against the infrastructure bill while Representative Adam Kinzinger supported it. The split reflects the Republican Party’s post-Trump era of uncertainty. 
  <p class="updated_time"> 04:42 PM CT, Nov. 11 </p> 
  <a href="https://www.politico.com/news/2021/11/11/appeals-court-jan-6-committee-trump-white-house-records-520952">Appeals court slows Jan. 6 committee’s effort to access Trump White House records</a> Politico: The National Archives had been preparing to deliver the documents on Friday, but the three-judge panel will instead hear arguments in the matter on Nov. 30. 
  <p class="updated_time"> 04:41 PM CT, Nov. 11 </p> 
  <a href="https://www.politico.com/news/2021/11/11/dems-white-house-biden-520946">Dems to White House: The only prescription is more Biden</a> Politico: The president has been more a facilitator than manager of the legislative process. His party wants more of the latter. 
- <p class="updated_time"> 04:09 PM CT, Nov. 11 </p> 
+ <p class="updated_time"> 04:32 PM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/us/politics/biden-veterans-day.html">Biden Marks First Veterans Day in Two Decades Without Troops in Active Combat</a> NYT: President Biden, who ended the 20-year conflict in Afghanistan this summer, called veterans the “soul of America.” 
- <p class="updated_time"> 04:06 PM CT, Nov. 11 </p> 
- <a href="https://www.nytimes.com/2021/11/11/us/politics/republicans-infrastructure-bill.html">Illinois Republican Lawmakers at Odds on Infrastructure Bill</a> NYT: Representative Darin LaHood voted against the infrastructure bill while Representative Adam Kinzinger supported it. The split reflects the Republican Party’s post-Trump era of uncertainty. 
+ <p class="updated_time"> 04:22 PM CT, Nov. 11 </p> 
+ <a href="https://www.cnn.com/2021/11/11/politics/mark-meadows-january-6-committee-response/index.html">Mark Meadows says he won't cooperate with House January 6 committee until court rules on Trump privilege claim</a> CNN: Former White House Chief of Staff Mark Meadows is facing new pressure to cooperate with the House Select Committee investigating January 6 after he was notified Thursday that President Joe Biden will not assert executive privilege or immunity over documents and testimony requested by the panel, according to a copy obtained by CNN. 
  <p class="updated_time"> 04:04 PM CT, Nov. 11 </p> 
  <a href="https://www.npr.org/2021/11/11/1054884193/the-infrastructure-plan-passed-now-departments-are-figuring-out-how-to-spend-it">The infrastructure plan passed. Now, departments are figuring out how to spend it</a> NPR: Government departments are scrambling to figure out how to spend the $1 trillion in the infrastructure package. Some will go to existing grant programs, while others need to be created from scratch. 
  <p class="updated_time"> 04:03 PM CT, Nov. 11 </p> 
@@ -248,6 +254,8 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/11/politics/trumps-legal-woes/index.html">Trump's legal woes multiply post-presidency </a> CNN: The Trump Organization could lose the keys to an 18-hole public golf course with views of the Manhattan skyline in the coming weeks, making it another likely casualty to stem from former President Donald Trump's actions on January 6 before rioters stormed the US Capitol. 
  <p class="updated_time"> 02:07 PM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/business/economy/biden-inflation.html">Biden Says Spending Bill Will Slow Inflation. But When?</a> NYT: The Biden administration has argued that its infrastructure and broader economic package will slow rapid price increases. But that will take time. 
+ <p class="updated_time"> 01:48 PM CT, Nov. 11 </p> 
+ <a href="https://www.cnn.com/2021/11/11/politics/extended-troika-afghanistan-talks/index.html">US, Russia, China and Pakistan meet to discuss Afghanistan as humanitarian crisis deepens</a> CNN: Representatives from the United States, Russia, China, and Pakistan met on Thursday to discuss Afghanistan amid the deepening humanitarian crisis on the ground and months after the Taliban seized power. 
  <p class="updated_time"> 01:31 PM CT, Nov. 11 </p> 
  <a href="https://www.npr.org/2021/11/11/1054823379/dejoy-postal-service-holiday-season">DeJoy says the U.S. Postal Service is ready to deliver a successful holiday season </a> NPR: One year after enduring a delay-plagued 2020 holiday season, the postmaster general says things will be different this time. 
  <p class="updated_time"> 01:15 PM CT, Nov. 11 </p> 
@@ -256,8 +264,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/11/biden-administration-armed-drones-indonesia-520888">Biden administration wrestles with selling armed drones to Indonesia</a> Politico: The country's human rights abuses, and past purchases of Russian equipment, are among the concerns in Washington. 
  <p class="updated_time"> 12:38 PM CT, Nov. 11 </p> 
  <a href="https://www.cnn.com/2021/11/11/politics/reparations-movement-race-deconstructed-newsletter/index.html">Reparations legislation has slowed down in Washington. But at the state and local level, initiatives are ramping up</a> CNN: A version of this story appeared in CNN's Race Deconstructed newsletter. To get it in your inbox every week, sign up for free here. 
- <p class="updated_time"> 12:29 PM CT, Nov. 11 </p> 
- <a href="https://www.cnn.com/2021/11/11/politics/mark-meadows-january-6-committee-response/index.html">Mark Meadows says he won't cooperate with House January 6 committee until court rules on Trump privilege claim</a> CNN: Former White House Chief of Staff Mark Meadows is facing new pressure to cooperate with the House Select Committee investigating January 6 after he was notified Thursday that President Joe Biden will not assert executive privilege or immunity over documents and testimony requested by the panel, according to a copy obtained by CNN. 
+ <p class="updated_time"> 12:23 PM CT, Nov. 11 </p> 
+ <a href="https://www.politico.com/news/2021/11/11/wall-street-democrats-tax-buybacks-520880">A $124B tax increase? Wall Street shrugs.</a> Politico: Analysts say they expect total buybacks this year to approach levels unseen since shortly after Republicans slashed the corporate tax rate as part of their 2017 tax cuts. 
  <p class="updated_time"> 12:22 PM CT, Nov. 11 </p> 
  <a href="https://www.npr.org/2021/11/11/1054764083/vp-harris-in-paris-says-infrastructure-and-spending-bills-will-help-cut-poverty">VP Harris, in Paris, says infrastructure and spending bills will help cut poverty</a> NPR: In a speech to a group of world leaders gathered in Paris, Harris focused on inequality, saying the Biden administration's plans will help bridge economic gaps in America. 
  <p class="updated_time"> 12:01 PM CT, Nov. 11 </p> 
@@ -290,10 +298,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/11/politics/joe-biden-inflation-messaging/index.html">Biden changes his tone and walks a delicate line on inflation</a> CNN: Rising consumer prices have quickly become one of the White House's most urgent concerns as Americans grow unsettled at the higher cost of goods -- and place the blame on President Joe Biden. 
  <p class="updated_time"> 06:05 AM CT, Nov. 11 </p> 
  <a href="https://www.cnn.com/2021/11/11/politics/trump-2022-strategy/index.html">Trump allies are pushing for 'stay away' strategy in some 2022 races</a> CNN: Donald Trump is expected to maintain a prolific schedule of campaign rallies to boost Republicans in next year's midterms. But on the heels of Gov.-elect Glenn Youngkin's victory in Virginia -- accomplished without a single Trump cameo -- some of the former President's aides and allies warn there could be parts of the country where he may now be encouraged to keep his distance. 
- <p class="updated_time"> 04:30 AM CT, Nov. 11 </p> 
- <a href="https://www.politico.com/news/2021/11/11/bidens-voters-recovery-conundrum-520771">Biden's ‘I feel your pain’ conundrum</a> Politico: It’s tripped up the last two Democratic presidents and could trip up Biden too: How to sell a recovery when most voters aren’t feeling it. 
- <p class="updated_time"> 04:30 AM CT, Nov. 11 </p> 
- <a href="https://www.politico.com/news/2021/11/11/new-york-shrinking-offices-housing-520318">Cities with empty offices see new room to expand housing</a> Politico: After Covid, New York and other cities are weighing whether to convert empty office buildings into affordable housing. 
  <p class="updated_time"> 04:06 AM CT, Nov. 11 </p> 
  <a href="https://www.npr.org/2021/11/11/1054615028/is-masculinity-under-attack-sen-hawley-wants-to-defend-the-men-of-america">Sen. Josh Hawley claims masculinity is under attack. This historian disagrees</a> NPR: Hawley is calling for a "revival of ... manhood in America." Kristin Kobes Du Mez, a Calvin University professor and the author of Jesus and John Wayne, explains how masculinity is a political issue. 
  <p class="updated_time"> 04:06 AM CT, Nov. 11 </p> 
@@ -312,16 +316,12 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/10/texas-ban-school-mask-mandate-disabilities-520760">Federal judge says Texas governor’s ban on school mask mandates violates Americans with Disabilities Act</a> Politico: The decision bars the state attorney general from enforcing the executive order issued by Republican Gov. Greg Abbott. 
  <p class="updated_time"> 08:30 PM CT, Nov. 10 </p> 
  <a href="https://www.politico.com/news/2021/11/10/flint-water-lead-lawsuit-520747">Judge OKs $626 million settlement in Flint water litigation</a> Politico: The deal will benefit Flint children who were exposed to the water, adults who can show an injury, certain business owners and anyone who paid water bills. 
- <p class="updated_time"> 08:13 PM CT, Nov. 10 </p> 
- <a href="https://www.cnn.com/2021/11/10/politics/andrew-cuomo-sexual-harassment-testimony-james-report/index.html">New York attorney general releases former Gov. Andrew Cuomo's testimony and other documents from sexual harassment investigation</a> CNN: The office of the New York Attorney General Letitia James on Wednesday released a transcripts of investigators' interview with former New York Gov. Andrew Cuomo, along with other documents and exhibits, from its investigation into the sexual harassment allegations that ultimately led to his resignation. 
  <p class="updated_time"> 07:30 PM CT, Nov. 10 </p> 
  <a href="https://www.politico.com/news/2021/11/10/dc-officials-jan-6-prisoners-jail-520707">D.C. officials stew after Jan. 6 prisoners’ complaints prompt federal pull-out from jail</a> Politico: City Council members demand immediate steps to address the failures at the central jail, including abuse, retaliation and substandard food. 
  <p class="updated_time"> 07:25 PM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/climate/climate-cop26-glasgow.html">China and the United States Join in Seeking Emissions Cuts</a> NYT: As nearly 200 nations struggle over global climate negotiations, the world’s two biggest polluters sign an agreement, but it was short on details. 
  <p class="updated_time"> 07:02 PM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/world/europe/france-kamala-harris-macron.html">Harris Meets Macron, Signaling a ‘New Era’ After Sub Snub, Both Say</a> NYT: In her vague assignment abroad, the vice president seems to be emphasizing that the U.S.-France relationship is about looking forward, in the wake of an embarrassing diplomatic spat. 
- <p class="updated_time"> 06:43 PM CT, Nov. 10 </p> 
- <a href="https://www.politico.com/news/2021/11/10/us-china-climate-talks-cooperation-520686">U.S. and China step to forefront as climate talks near end game</a> Politico: The pair moved closer to something resembling an agreement on Wednesday, issuing a joint statement of principles for climate cooperation. 
  <p class="updated_time"> 06:28 PM CT, Nov. 10 </p> 
  <a href="https://www.cnn.com/2021/11/10/politics/biden-baltimore-port-infrastructure/index.html">'It's worrisome': Biden addresses inflation concerns during Baltimore speech</a> CNN: President Joe Biden takes his sales pitch for the newly passed bipartisan infrastructure deal on the road Wednesday, highlighting the effect of the bill on supply chains, hours after new inflation statistics revealed that America's prices are surging more than they have in 30 years. 
  <p class="updated_time"> 05:53 PM CT, Nov. 10 </p> 
