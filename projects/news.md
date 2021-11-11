@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:39 PM CT, Nov. 11 </p> 
+ <a href="https://www.nytimes.com/live/2021/11/11/world/belarus-poland-border-migrants">Live Updates: Belarus and Poland Trade Threats as Migrant Plight Worsens</a> NYT: Thousands are camped at the border as dangerous cold sets in. Western officials say Belarus’s leader, who hinted at disrupting gas supplies to Europe, orchestrated the crisis. 
  <p class="updated_time"> 02:31 PM CT, Nov. 11 </p> 
  <a href="https://www.bbc.co.uk/sport/football/59256408?at_medium=RSS&at_campaign=KARANGA">Aminata Diallo: Paris St-Germain midfielder released by police without charge</a> BBC: Paris St-Germain midfielder Aminata Diallo is released without charge by French police investigating an attack on her PSG team-mate Kheira Hamraoui. 
  <p class="updated_time"> 02:29 PM CT, Nov. 11 </p> 
@@ -15,8 +17,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/11/world/americas/bolsonaro-trump-brazil-election.html">Trump Allies Help Bolsonaro Sow Doubt in Brazil's Elections</a> NYT: With his poll numbers falling, President Jair Bolsonaro is already questioning the legitimacy of next year’s election. He has help from the United States. 
  <p class="updated_time"> 02:21 PM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/world/europe/germany-covid-pandemic-unvaccinated-vaccines-fourth-wave.html">Germany’s Fourth Covid Wave: ‘A Pandemic of the Unvaccinated’</a> NYT: Germany once set an example for how to manage the coronavirus. Now, deep pockets of vaccine resistance are helping drive daily infections to new heights. 
- <p class="updated_time"> 02:14 PM CT, Nov. 11 </p> 
- <a href="https://www.nytimes.com/live/2021/11/11/world/belarus-poland-border-migrants">Live Updates: Belarus and Poland Trade Threats as Migrant Plight Worsens</a> NYT: Thousands are camped at the border as dangerous cold sets in. Western officials say Belarus’s leader, who hinted at disrupting gas supplies to Europe, orchestrated the crisis. 
  <p class="updated_time"> 02:08 PM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/live/2021/11/11/world/china-xi-jinping-cpc">China’s Xi Jinping Remakes the Communist Party’s History in His Image</a> NYT: Leaders at an elite meeting enshrined Mr. Xi among the party’s historical giants, paving the way for him to claim a third five-year term. 
  <p class="updated_time"> 02:01 PM CT, Nov. 11 </p> 
