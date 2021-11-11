@@ -7,9 +7,9 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:45 PM CT, Nov. 11 </p> 
+ <p class="updated_time"> 04:52 PM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/live/2021/11/11/world/belarus-poland-border-migrants">Live Updates: Belarus and Poland Trade Threats as Migrant Plight Worsens</a> NYT: Thousands are camped at the border as dangerous cold sets in. Western officials say Belarus’s leader, who hinted at disrupting gas supplies to Europe, orchestrated the crisis. 
- <p class="updated_time"> 04:42 PM CT, Nov. 11 </p> 
+ <p class="updated_time"> 04:51 PM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/world/asia/india-pollution-yamuna-chhath.html">On Delhi’s Toxic River, Prayers to a Sun Struggling to Shine Through Smog</a> NYT: Every year, a four-day festival to the sun god Surya highlights the Indian city’s extreme air and water pollution, with a river so filled with foam it resembles a blizzard’s aftermath. 
  <p class="updated_time"> 04:04 PM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/world/africa/fw-de-klerk-dead.html">F.W. de Klerk, Last President of Apartheid South Africa, Dies at 85</a> NYT: A prominent Afrikaner, he defended the separation of the races before helping to dismantle that system, leading to his sharing the Nobel Peace Prize with Nelson Mandela. 
@@ -218,10 +218,16 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/11/republicans-wrestle-infrastructure-backlash-520956">‘I hope it’s a fever that will break’: GOP wrestles with infrastructure vote backlash</a> Politico: ‘Some elements of the party keep finding new ways to define Republicanism,’ says one longtime GOP lobbyist and strategist. 
  <p class="updated_time"> 05:16 PM CT, Nov. 11 </p> 
  <a href="https://www.politico.com/news/2021/11/11/republicans-wrestle-infrastructure-backlash-520956">‘I hope it’s a fever that will break’: GOP wrestles with infrastructure vote backlash</a> Politico: ‘Some elements of the party keep finding new ways to define Republicanism,’ says one longtime GOP lobbyist and strategist. 
+ <p class="updated_time"> 04:54 PM CT, Nov. 11 </p> 
+ <a href="https://www.nytimes.com/2021/11/11/us/politics/project-veritas-journalism-political-spying.html">Project Veritas: Journalists or Political Spies? </a> NYT: Documents show how the conservative group worked with lawyers to gauge how far its deceptive reporting practices could go before running afoul of federal laws. 
+ <p class="updated_time"> 04:54 PM CT, Nov. 11 </p> 
+ <a href="https://www.nytimes.com/2021/11/10/us/politics/republicans-backlash-infrastructure-bill.html">13 Republicans Face Backlash for Backing Infrastructure Bill</a> NYT: The 13 Republican lawmakers who broke with their party to support a $1 trillion bipartisan public works bill have drawn anger and threats from their colleagues and constituents. 
  <p class="updated_time"> 04:45 PM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/us/politics/republicans-infrastructure-bill.html">Illinois Republican Lawmakers at Odds on Infrastructure Bill</a> NYT: Representative Darin LaHood voted against the infrastructure bill while Representative Adam Kinzinger supported it. The split reflects the Republican Party’s post-Trump era of uncertainty. 
  <p class="updated_time"> 04:42 PM CT, Nov. 11 </p> 
  <a href="https://www.politico.com/news/2021/11/11/appeals-court-jan-6-committee-trump-white-house-records-520952">Appeals court slows Jan. 6 committee’s effort to access Trump White House records</a> Politico: The National Archives had been preparing to deliver the documents on Friday, but the three-judge panel will instead hear arguments in the matter on Nov. 30. 
+ <p class="updated_time"> 04:42 PM CT, Nov. 11 </p> 
+ <a href="https://www.cnn.com/2021/11/11/politics/trump-motion-documents/index.html">Federal appeals court pauses release of Trump White House records ahead of Friday deadline</a> CNN: Former President Donald Trump has asked a federal appeals court to briefly stop the release of key White House records from his presidency to the House January 6 committee while he appeals a lower court's decision that he can't claim executive privilege to keep them secret. 
  <p class="updated_time"> 04:41 PM CT, Nov. 11 </p> 
  <a href="https://www.politico.com/news/2021/11/11/dems-white-house-biden-520946">Dems to White House: The only prescription is more Biden</a> Politico: The president has been more a facilitator than manager of the legislative process. His party wants more of the latter. 
  <p class="updated_time"> 04:32 PM CT, Nov. 11 </p> 
@@ -232,10 +238,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/11/1054884193/the-infrastructure-plan-passed-now-departments-are-figuring-out-how-to-spend-it">The infrastructure plan passed. Now, departments are figuring out how to spend it</a> NPR: Government departments are scrambling to figure out how to spend the $1 trillion in the infrastructure package. Some will go to existing grant programs, while others need to be created from scratch. 
  <p class="updated_time"> 04:03 PM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/10/us/politics/swift-ruling-tests-trump-delay-tactic.html">Swift Ruling in Jan. 6 Case Tests Trump's Tactic of Delay</a> NYT: The former president has leveraged the slow judicial process in the past to thwart congressional oversight, but the Jan. 6 case may be different. 
- <p class="updated_time"> 04:01 PM CT, Nov. 11 </p> 
- <a href="https://www.nytimes.com/2021/11/09/us/politics/trump-january-6-committee.html">Judge Rejects Trump’s Bid to Keep Papers Secret in Jan. 6 Inquiry</a> NYT: But a Trump lawyer has signaled an intent to appeal the ruling, which raises novel issues about an ex-president’s executive privilege powers. 
- <p class="updated_time"> 03:59 PM CT, Nov. 11 </p> 
- <a href="https://www.cnn.com/2021/11/11/politics/trump-motion-documents/index.html">Federal appeals court pauses release of Trump White House records ahead of Friday deadline</a> CNN: Former President Donald Trump has asked a federal appeals court to briefly stop the release of key White House records from his presidency to the House January 6 committee while he appeals a lower court's decision that he can't claim executive privilege to keep them secret. 
  <p class="updated_time"> 03:45 PM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/us/politics/trump-files-january-6.html">Court Issues Brief Hold on Release of Trump Files in Jan. 6 Inquiry</a> NYT: Congress had been set to receive the first batch of Trump White House files from the National Archives on Friday, a move that the former president has fought. 
  <p class="updated_time"> 03:31 PM CT, Nov. 11 </p> 
@@ -334,8 +336,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/10/politics/kfile-doj-alleged-scam-pac-indictment/index.html">DOJ announces indictment against alleged scam PAC operators uncovered by CNN's KFile  </a> CNN: The US Justice Department announced on Wednesday that a federal grand jury indicted three men for operating two fraudulent political action committees during the 2016 election and collecting approximately $3.5 million from unwitting contributors. 
  <p class="updated_time"> 05:11 PM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/us/politics/russia-blinken-ukraine.html">Blinken Warns Russia Against Making a ‘Serious Mistake’ in Ukraine</a> NYT: Appearing with Ukraine’s foreign minister, Secretary of State Antony J. Blinken said the intentions behind Moscow’s latest military buildup were unclear. 
- <p class="updated_time"> 05:02 PM CT, Nov. 10 </p> 
- <a href="https://www.nytimes.com/2021/11/10/us/politics/republicans-backlash-infrastructure-bill.html">13 Republicans Face Backlash for Backing Infrastructure Bill</a> NYT: The 13 Republican lawmakers who broke with their party to support a $1 trillion bipartisan public works bill have drawn anger and threats from their colleagues and constituents. 
  <p class="updated_time"> 04:51 PM CT, Nov. 10 </p> 
  <a href="https://www.cnn.com/2021/11/10/politics/infrastructure-bill-signing/index.html">Biden to hold signing ceremony on Monday for bipartisan infrastructure bill </a> CNN: President Joe Biden will sign the bipartisan infrastructure bill on Monday during a ceremony that will include members of Congress, governors and mayors from both parties, the White House announced on Wednesday. 
  <p class="updated_time"> 04:37 PM CT, Nov. 10 </p> 
