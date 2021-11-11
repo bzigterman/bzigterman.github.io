@@ -41,6 +41,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/10/world/europe/poland-belarus-border-europe.html">Poland Gets Support From Europe on Tough Borders</a> NYT: Faced with the weaponization of migrants from Belarus, the European Union is defending Poland’s hard line even as it withholds funds over rule of law violations. 
  <p class="updated_time"> 07:02 PM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/world/europe/france-kamala-harris-macron.html">Harris Meets Macron, Signaling a ‘New Era’ After Sub Snub, Both Say</a> NYT: In her vague assignment abroad, the vice president seems to be emphasizing that the U.S.-France relationship is about looking forward, in the wake of an embarrassing diplomatic spat. 
+ <p class="updated_time"> 07:00 PM CT, Nov. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/business-59242866?at_medium=RSS&at_campaign=KARANGA">Uber sued by Justice Department for overcharging disabled people</a> BBC: The Justice Department says Uber's 'wait time' fees discriminate against people with disabilities. 
  <p class="updated_time"> 06:53 PM CT, Nov. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59115753?at_medium=RSS&at_campaign=KARANGA">The man turning cities into giant sponges to embrace floods</a> BBC: Yu Kongjian's sponge city, based on ancient Chinese wisdom, seeks to change how we deal with floods. 
  <p class="updated_time"> 06:51 PM CT, Nov. 10 </p> 
@@ -59,8 +61,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/59233244?at_medium=RSS&at_campaign=KARANGA">Belarus migrants: What routes do they use to reach Minsk?</a> BBC: The migrant crisis along the EU's borders is the result of increasing numbers arriving in Belarus by air. 
  <p class="updated_time"> 06:11 PM CT, Nov. 10 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2021/11/10/1052078529/why-low-income-countries-are-so-short-on-covid-vaccines-hint-its-not-boosters">Why low income countries are so short on COVID vaccines. Hint: It's not boosters</a> NPR: Wealthy countries keep buying way more doses than they need. New data shows just how much the stockpile of unused vaccine is growing. 
- <p class="updated_time"> 05:54 PM CT, Nov. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59243426?at_medium=RSS&at_campaign=KARANGA">Flint water crisis: $626m settlement reached for lead poisoning victims</a> BBC: Twelve people died and many children in a Michigan city were exposed to lead poisoning in 2014-15. 
  <p class="updated_time"> 05:54 PM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/sports/soccer/psg-women-attack-aminata-diallo.html">P.S.G.'s Aminata Diallo Arrested After Teammate Is Attacked</a> NYT: A Paris St.-Germain women’s player was taken into custody by French investigators looking into a violent assault on a teammate who shares her position. 
  <p class="updated_time"> 05:42 PM CT, Nov. 10 </p> 
