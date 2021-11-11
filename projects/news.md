@@ -7,6 +7,20 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:03 AM CT, Nov. 11 </p> 
+ <a href="https://www.nytimes.com/2021/11/11/t-magazine/mexico-rice-conquest.html">Tracing Mexico’s Complicated Relationship With Rice</a> NYT: Having arrived in the country via the Spanish Conquest, the grain’s presence poses the question: What’s native, and what isn’t, when it comes to a nation’s culinary history? 
+ <p class="updated_time"> 04:02 AM CT, Nov. 11 </p> 
+ <a href="https://www.nytimes.com/2021/11/11/t-magazine/mansaf-bedouin-rice.html">For Many Members of the Arab American Diaspora, Mansaf Offers a Taste of Home</a> NYT: The traditional Bedouin dish of bread, rice, lamb and yogurt is a talisman of identity in Jordan — and in various communities in suburban Detroit. 
+ <p class="updated_time"> 04:00 AM CT, Nov. 11 </p> 
+ <a href="https://www.nytimes.com/2021/11/11/t-magazine/senegal-homegrown-rice.html">In Senegal, a Return to Homegrown Rice</a> NYT: The country has remained mostly dependent on the grain’s importation since colonization in the 1800s. But some locals are trying to change that. 
+ <p class="updated_time"> 04:00 AM CT, Nov. 11 </p> 
+ <a href="https://www.nytimes.com/2021/11/11/t-magazine/scorched-burnt-rice.html">The Thrilling Dare of Scorched Rice</a> NYT: When browned on the bottom of the pot by a skilled cook, the grain is transformed into a complex delicacy, one prized by food cultures around the world. 
+ <p class="updated_time"> 03:54 AM CT, Nov. 11 </p> 
+ <a href="https://www.nytimes.com/live/2021/11/10/world/poland-belarus-border-migrants">E.U. Sides With Poland Over Migrants at Belarus Border</a> NYT: Western officials accuse the leader of Belarus of sending migrants to E.U. borders as retaliation for sanctions. Lithuania, which also borders Belarus, declared a state of emergency. 
+ <p class="updated_time"> 03:48 AM CT, Nov. 11 </p> 
+ <a href="https://www.nytimes.com/2021/11/10/world/europe/knoll-france-murder.html">French Court Convicts Man in the Murder of a Holocaust Survivor</a> NYT: The man, Yacine Mihoub, was sentenced to life imprisonment for killing Mireille Knoll, 85, in 2018, which judges said was a hate crime motivated by the fact that she was Jewish. 
+ <p class="updated_time"> 03:43 AM CT, Nov. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-59238115?at_medium=RSS&at_campaign=KARANGA">Nazanin Zaghari-Ratcliffe: Husband Richard on hunger strike to urge government to help</a> BBC: Richard Ratcliffe, the husband of Iranian detainee Nazanin Zaghari-Ratcliffe, is weeks into his protest. 
  <p class="updated_time"> 02:46 AM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/10/world/buttigieg-gasoline-diesel-vehicles.html">Pete Buttigieg Says U.S. 'Focused' on Reducing Auto Emissions</a> NYT: At the Glasgow climate summit, Mr. Buttigieg said the conversation surrounding climate change should focus on whether Earth can sustain life. 
  <p class="updated_time"> 02:32 AM CT, Nov. 11 </p> 
@@ -31,8 +45,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/10/world/asia/covid-china-shenyang-quarantine.html">This Chinese City Requires 28 Days of Quarantine. Then Another 28.</a> NYT: The restrictions in Shenyang are a stark example of how seriously officials are taking the country’s “zero Covid” approach to the pandemic. 
  <p class="updated_time"> 10:00 PM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/world/europe/covid-germany-cases.html">Germany Weighs New Covid Rules as Infections Reach Record Heights</a> NYT: Nearly 40,000 new cases were registered in the country on Tuesday — the third time a daily record was set within a week. “We have a real emergency situation,” a top virologist said. 
- <p class="updated_time"> 08:55 PM CT, Nov. 10 </p> 
- <a href="https://www.nytimes.com/live/2021/11/10/world/poland-belarus-border-migrants">E.U. Sides With Poland Over Migrants at Belarus Border</a> NYT: Western officials accuse the leader of Belarus of sending migrants to E.U. borders as retaliation for sanctions. Lithuania, which also borders Belarus, declared a state of emergency. 
  <p class="updated_time"> 08:50 PM CT, Nov. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59243796?at_medium=RSS&at_campaign=KARANGA">Alabama boy certified as world's most premature baby</a> BBC: Curtis Means defied all odds after he was delivered in Birmingham, Alabama, weighing just 420g. 
  <p class="updated_time"> 08:13 PM CT, Nov. 10 </p> 
@@ -53,8 +65,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/59233799?at_medium=RSS&at_campaign=KARANGA">COP26: How much is spent supporting fossil fuels and green energy?</a> BBC: Despite green energy investment promises, many governments still financially back the fossil fuel industry. 
  <p class="updated_time"> 06:34 PM CT, Nov. 10 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59227491?at_medium=RSS&at_campaign=KARANGA">COP26: Climate activists on what change means for them</a> BBC: Climate activists from the Philippines, the UK and Argentina take questions on climate change. 
- <p class="updated_time"> 06:30 PM CT, Nov. 10 </p> 
- <a href="https://www.bbc.co.uk/news/uk-59238115?at_medium=RSS&at_campaign=KARANGA">Nazanin Zaghari-Ratcliffe: Husband Richard on hunger strike to urge government to help</a> BBC: Richard Ratcliffe, the husband of Iranian detainee Nazanin Zaghari-Ratcliffe, is weeks into his protest. 
  <p class="updated_time"> 06:29 PM CT, Nov. 10 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59240676?at_medium=RSS&at_campaign=KARANGA">Himalayan village split in two by climate change</a> BBC: In Kumik, in India's northern Ladakh region, there is a serious water crisis, with some residents forced to abandon their homes and move elsewhere. 
  <p class="updated_time"> 06:21 PM CT, Nov. 10 </p> 
@@ -71,8 +81,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/10/us/politics/russia-blinken-ukraine.html">Blinken Warns Russia Against Making a ‘Serious Mistake’ in Ukraine</a> NYT: Appearing with Ukraine’s foreign minister, Secretary of State Antony J. Blinken said the intentions behind Moscow’s latest military buildup were unclear. 
  <p class="updated_time"> 04:55 PM CT, Nov. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59238867?at_medium=RSS&at_campaign=KARANGA">Paraguay: Police probe Stradivarius violin theft motive in double murder</a> BBC: Three German citizens are arrested in Paraguay over the murder of an archaeologist and his daughter. 
- <p class="updated_time"> 04:48 PM CT, Nov. 10 </p> 
- <a href="https://www.nytimes.com/2021/11/09/world/asia/india-covid-vaccinations.html">India Risks Covid-19 Complacency After Its Vaccine Campaign</a> NYT: The success represents a major victory for Narendra Modi’s government, but a recent slowdown in new vaccinations has sparked worries. 
  <p class="updated_time"> 04:39 PM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/world/boris-johnson-cop26.html">Boris Johnson Urges Negotiators to Break Impasse in Final Climate Summit Hours</a> NYT: “Now is the time to get together and show the determination needed to power on through the blockages,” the British prime minister said on Wednesday. 
  <p class="updated_time"> 04:37 PM CT, Nov. 10 </p> 
@@ -109,8 +117,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/science-environment-59241667?at_medium=RSS&at_campaign=KARANGA">Time-lapse video shows Iceland glacier shrink</a> BBC: Footage shows the rapid rate that centuries-old ice from the Breiðamerkurjökull glacier is melting. 
  <p class="updated_time"> 01:44 PM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/09/world/europe/malala-yousafzai-married.html">Malala Yousafzai Announces Her Marriage</a> NYT: Ms. Yousafzai, a Pakistani activist and the youngest-ever recipient of a Nobel Peace Prize, married her partner at a small ceremony in Birmingham, England, she said on Twitter. 
- <p class="updated_time"> 01:43 PM CT, Nov. 10 </p> 
- <a href="https://www.nytimes.com/2021/11/10/world/europe/knoll-france-murder.html">French Court Convicts Man in the Murder of a Holocaust Survivor</a> NYT: The man, Yacine Mihoub, was sentenced to life imprisonment for killing Mireille Knoll, 85, in 2018, which judges said was a hate crime motivated by the fact that she was Jewish. 
  <p class="updated_time"> 01:42 PM CT, Nov. 10 </p> 
  <a href="https://www.bbc.co.uk/news/uk-scotland-glasgow-west-59207818?at_medium=RSS&at_campaign=KARANGA">Irn Bru hunting and celebrity spotting at COP26</a> BBC: Barack Obama, AOC, Leonardo DiCaprio, Emma Watson and others bring star power to the UN summit. 
  <p class="updated_time"> 01:24 PM CT, Nov. 10 </p> 
@@ -156,7 +162,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:00 AM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/world/asia/taiwan-europe-china.html">Europe, Taiwan Inch Closer as Distrust of Beijing Grows</a> NYT: Talks between European lawmakers and Taiwanese officials point to Europe’s increasing willingness to strengthen relations, despite Beijing’s threats. 
  <p class="updated_time"> 03:44 AM CT, Nov. 10 </p> 
- <a href="https://www.wsj.com/articles/another-covid-winter-threatens-europes-more-vulnerable-nations-11636555455">Another Covid Winter Threatens Europe's More Vulnerable Nations</a> WSJ: People in Romania and Bulgaria are dying from the virus at record rates, but elsewhere in Europe infections are at a manageable level that policy makers say are the result of a suite of restrictive policies. 
+ <a href="https://www.wsj.com/articles/another-covid-winter-threatens-europes-more-vulnerable-nations-11636555455">Europe's Uneven Vaccine Rollout Leaves Some Countries Reeling</a> WSJ: People in Romania and Bulgaria are dying from the virus at record rates, but elsewhere in Europe infections are at a manageable level that policy makers say are the result of a suite of restrictive policies. 
  <p class="updated_time"> 03:39 AM CT, Nov. 10 </p> 
  <a href="https://www.wsj.com/articles/evergrande-china-crisis-real-estate-developers-11636552507">China's Plan to Manage Evergrande: Take It Apart, Slowly</a> WSJ: Beijing is working on a controlled implosion of the real-estate giant, selling off some of its assets while limiting damage to home buyers and businesses involved in its unfinished projects. 
  <p class="updated_time"> 09:03 PM CT, Nov. 09 </p> 
@@ -181,14 +187,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/09/world/americas/canada-pfizer-booster-adults.html">Canada Approves Pfizer Boosters for Adults</a> NYT: Some provinces have already started to offer booster shots to higher-risk populations. Tuesday’s announcement standardizes eligibility criteria nationwide. 
  <p class="updated_time"> 01:52 PM CT, Nov. 09 </p> 
  <a href="https://www.nytimes.com/2021/11/09/world/asia/india-hospital-fire.html">India Hospital Fire Leaves at Least 4 Infants Dead</a> NYT: The blaze, in a hospital in central India on Monday night, was the latest in a series of deadly fires at health care centers in recent months. 
- <p class="updated_time"> 11:12 AM CT, Nov. 09 </p> 
- <a href="https://www.nytimes.com/2021/11/09/world/asia/singapore-unvaccinated-covid.html">Singapore to End Free Covid Treatment for Those 'Unvaccinated by Choice'</a> NYT: The change, which takes effect on Dec. 8, comes as the number of severe cases has stabilized but remains high, the Health Ministry said. 
  <p class="updated_time"> 10:59 AM CT, Nov. 09 </p> 
  <a href="https://www.nytimes.com/2021/11/09/world/asia/us-release-china-zhang-zhan.html">U.S. Urges Release of Chinese Citizen Journalist Who Documented Covid</a> NYT: Zhang Zhan, who was imprisoned after exposing the failures of the government’s initial response to the coronavirus outbreak in Wuhan, is near death, friends and family say. 
  <p class="updated_time"> 07:05 AM CT, Nov. 09 </p> 
  <a href="https://www.nytimes.com/2021/11/09/us/myrtle-beach-trash-can-ireland.html">A Trash Can From Myrtle Beach Washed Up in Ireland</a> NYT: “It reminded me straight away of maybe like a message in a bottle type scenario,” said Keith McGreal, who discovered the bin on Sunday afternoon while strolling on a beach with his family. 
- <p class="updated_time"> 04:00 AM CT, Nov. 09 </p> 
- <a href="https://www.nytimes.com/2021/11/09/style/bollywood-actor-richard-klein.html">How a 55-Year-Old California Teacher Became a Bollywood Actor </a> NYT: Richard Klein left behind his life as a Hebrew day school teacher in California and became an actor in Mumbai, often playing a “mean British officer.” 
 
 
 </details>
