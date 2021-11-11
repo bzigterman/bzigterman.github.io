@@ -7,10 +7,16 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:53 AM CT, Nov. 11 </p> 
+ <p class="updated_time"> 12:15 PM CT, Nov. 11 </p> 
+ <a href="https://www.npr.org/2021/11/11/1054770079/a-climate-summit-theme-how-much-should-wealthy-countries-pay-to-help-poorer-ones">A climate summit theme: How much should wealthy countries pay to help poorer ones? </a> NPR: Wealthy countries have historically been the largest producers of greenhouse gases. One of the biggest issues left at the COP26 summit is their role helping poorer nations cope with climate change. 
+ <p class="updated_time"> 12:13 PM CT, Nov. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59245018?at_medium=RSS&at_campaign=KARANGA">Covid: Austrians heading towards lockdown for unvaccinated</a> BBC: The measures comes as record infections are reported in Austria, Germany and the Netherlands. 
+ <p class="updated_time"> 12:12 PM CT, Nov. 11 </p> 
+ <a href="https://www.nytimes.com/2021/11/11/world/africa/fw-de-klerk-dead.html">F.W. de Klerk, Last President of Apartheid South Africa, Dies at 85</a> NYT: A prominent Afrikaner, he defended the separation of the races before helping to dismantle that system, leading to his sharing the Nobel Peace Prize with Nelson Mandela. 
+ <p class="updated_time"> 12:03 PM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/live/2021/11/11/world/belarus-poland-border-migrants">Live Updates: Belarus and Poland Trade Insults and Threats as Migrant Plight Worsens</a> NYT: Thousands are camped at the border as dangerous cold sets in. Western officials say Belarus’s leader, who hinted at disrupting gas supplies to Europe, orchestrated the crisis. 
- <p class="updated_time"> 11:49 AM CT, Nov. 11 </p> 
- <a href="https://www.nytimes.com/2021/11/11/health/veterans-psychedelics-ptsd-depression.html">Veterans Have Become Unlikely Lobbyists in Push to Legalize Psychedelics</a> NYT: Lawmakers find it hard to “just say no” to combat veterans seeking support for drug decriminalization efforts gaining traction around the country. 
+ <p class="updated_time"> 12:00 PM CT, Nov. 11 </p> 
+ <a href="https://www.nytimes.com/2021/11/11/health/veterans-psychedelics-ptsd-depression.html">Veterans Have Become Unlikely Lobbyists in Push to Legalize Psychedelic Drugs</a> NYT: Lawmakers find it hard to “just say no” to combat veterans seeking support for drug decriminalization efforts gaining traction around the country. 
  <p class="updated_time"> 11:46 AM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/world/europe/poland-independence-day-far-right-protests.html">As Poland Celebrates Its Independence Day, Far-Right Groups Stage Rallies</a> NYT: In downtown Warsaw, tens of thousands of demonstrators started their march by lighting red flares and singing the national anthem. 
  <p class="updated_time"> 11:43 AM CT, Nov. 11 </p> 
@@ -33,8 +39,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/11/world/europe/poland-forests-border-crisis.html">On the Ground: Migrants in Poland's Forests Are Hiding and Hurting</a> NYT: The forests stretch past a restricted zone, and it is there that migrants like this group of eight who have made it past the guards and the razor wire are waiting for an opportunity to continue on. 
  <p class="updated_time"> 10:37 AM CT, Nov. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59253376?at_medium=RSS&at_campaign=KARANGA">Poland-Belarus crisis: The lives caught in a stalemate</a> BBC: A row over an influx of migrants has reached a stalemate. We spoke to people caught in the middle. 
- <p class="updated_time"> 10:27 AM CT, Nov. 11 </p> 
- <a href="https://www.nytimes.com/2021/11/11/world/africa/fw-de-klerk-dead.html">F.W. de Klerk, Last President of Apartheid South Africa, Dies at 85</a> NYT: A prominent Afrikaner, he vehemently defended the separation of the races but later stunned his deeply divided nation, and the wider world, by reconsidering the country’s racist ways. 
  <p class="updated_time"> 10:27 AM CT, Nov. 11 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59251772?at_medium=RSS&at_campaign=KARANGA">My Day at COP26: 'Anything we achieve in Glasgow is not going to be enough'</a> BBC: Bangladeshi climate scientist, Saleemul Huq, is at COP26 to advise the world’s least developed countries. He describes the mood as the summit nears its conclusion. 
  <p class="updated_time"> 10:16 AM CT, Nov. 11 </p> 
@@ -103,8 +107,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/captain-america-protester-gets-nearly-six-years-in-prison-for-hong-kong-mall-chants-11636625197">'Captain America' Protester Gets Prison Time for Hong Kong Mall Chants</a> WSJ: A man who chanted protest slogans in Hong Kong’s shopping malls after China imposed a national-security law was sentenced to five years and nine months in prison after being found guilty of promoting independence. 
  <p class="updated_time"> 12:09 AM CT, Nov. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59238649?at_medium=RSS&at_campaign=KARANGA">Virat Kohli: India man arrested over rape threats to cricketer's daughter</a> BBC: A man has been arrested over rape threats to the daughter of Indian cricket captain Virat Kohli. 
- <p class="updated_time"> 10:58 PM CT, Nov. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-59243836?at_medium=RSS&at_campaign=KARANGA">China: North-eastern city sees highest snowfall in 116 years</a> BBC: It comes amid concerns about keeping homes warm in an area that was earlier hit by outages. 
  <p class="updated_time"> 10:51 PM CT, Nov. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59244336?at_medium=RSS&at_campaign=KARANGA">Watch as hot air balloonist breaks world record</a> BBC: Rémi Ouvrard stood on top of a hot air balloon at more than 3,500m over western France. 
  <p class="updated_time"> 10:04 PM CT, Nov. 10 </p> 
@@ -163,8 +165,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/10/business/boeing-737-max-crash-ethiopia.html">Boeing agrees to accept responsibility for crash of its 737 Max jet in Ethiopia.</a> NYT: The company will pay out successful compensation suits and allow victims’ families to file those suits in Illinois. Families agreed not to sue for punitive damages. 
  <p class="updated_time"> 03:11 PM CT, Nov. 10 </p> 
  <a href="https://www.npr.org/2021/11/10/1054428108/burning-wood-pellets-isnt-the-clean-energy-it-claims-to-be-critics-say">Burning wood pellets isn't the 'clean energy' it claims to be, critics say</a> NPR: There's a big market sending U.S. wood pellets to Europe to burn as clean energy. But critics say they're not climate-friendly, and their production poses a health hazard for low-income communities. 
- <p class="updated_time"> 03:11 PM CT, Nov. 10 </p> 
- <a href="https://www.npr.org/2021/11/10/1054428101/vp-harris-met-with-macron-as-part-of-the-ongoing-effort-to-mend-alliance-with-fr">VP Harris met with Macron as part of the ongoing effort to mend alliance with France</a> NPR: Vice President Harris meets with French President Emmanuel Macron, the latest in series of Biden administration diplomatic make-up sessions in the wake of the Australian nuclear submarine deal. 
  <p class="updated_time"> 02:40 PM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/world/greta-thunberg-cop26-state-emergency.html">Greta Thunberg, Activists Petition U.N. to Declare State of Emergency on Climate Change</a> NYT: Young climate activists on Wednesday called on the U.N. to declare a “Level 3” emergency, as it did for Covid-19, allowing the institution to deploy resources to vulnerable countries. 
  <p class="updated_time"> 01:50 PM CT, Nov. 10 </p> 
@@ -211,11 +211,11 @@ permalink: /projects/news/
 <summary>Politics</summary>
 
  <p class="updated_time"> 12:23 PM CT, Nov. 11 </p> 
- <a href="https://www.politico.com/news/2021/11/11/wall-street-democrats-tax-buybacks-520880">Wall Street brushes off Democrats' 'piddling' tax on stock buybacks</a> Politico: Analysts say they expect total buybacks this year to approach levels unseen since shortly after Republicans slashed the corporate tax rate as part of their 2017 tax cuts. 
- <p class="updated_time"> 11:49 AM CT, Nov. 11 </p> 
- <a href="https://www.nytimes.com/2021/11/11/health/veterans-psychedelics-ptsd-depression.html">Veterans Have Become Unlikely Lobbyists in Push to Legalize Psychedelics</a> NYT: Lawmakers find it hard to “just say no” to combat veterans seeking support for drug decriminalization efforts gaining traction around the country. 
- <p class="updated_time"> 11:41 AM CT, Nov. 11 </p> 
+ <a href="https://www.politico.com/news/2021/11/11/wall-street-democrats-tax-buybacks-520880">A $124B tax increase? Wall Street shrugs.</a> Politico: Analysts say they expect total buybacks this year to approach levels unseen since shortly after Republicans slashed the corporate tax rate as part of their 2017 tax cuts. 
+ <p class="updated_time"> 12:10 PM CT, Nov. 11 </p> 
  <a href="https://www.cnn.com/2021/11/11/politics/trump-motion-documents/index.html">Trump asks appeals court to stop release of his White House records ahead of Friday deadline</a> CNN: Former President Donald Trump has asked a federal appeals court to briefly stop the release of key White House records from his presidency to the House January 6 committee while he appeals a lower court's decision that he can't claim executive privilege to keep them secret. 
+ <p class="updated_time"> 12:00 PM CT, Nov. 11 </p> 
+ <a href="https://www.nytimes.com/2021/11/11/health/veterans-psychedelics-ptsd-depression.html">Veterans Have Become Unlikely Lobbyists in Push to Legalize Psychedelic Drugs</a> NYT: Lawmakers find it hard to “just say no” to combat veterans seeking support for drug decriminalization efforts gaining traction around the country. 
  <p class="updated_time"> 10:36 AM CT, Nov. 11 </p> 
  <a href="https://www.cnn.com/2021/11/11/politics/trump-nixon-supreme-court-analysis-biskupic/index.html">Supreme Court's Watergate-era rulings against Nixon may end Trump's executive privilege claims</a> CNN: Former President Donald Trump's attempt to withhold records from the House of Representatives related to the January 6 US Capitol attack based on executive privilege -- a claim rejected by President Joe Biden -- would present the US Supreme Court with a novel legal dilemma. 
  <p class="updated_time"> 10:17 AM CT, Nov. 11 </p> 
