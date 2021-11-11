@@ -446,6 +446,66 @@ sentiment
 ggsave("plots/consumer_sentiment.png", plot = sentiment,
        width = 8, height = 8*(628/1200), dpi = 320)
 
+## inflation ----
+data <- fredr(series_id = "CPIAUCSL") %>%
+  mutate(change = ((value - lag(value, 12))/lag(value, 12))) %>%
+  drop_na()
+recent_data <- data %>%
+  filter(date > recent_years) %>%
+  mutate(short_date = paste(month(date, label = TRUE, abbr = FALSE)))
+
+ggplot(recent_data, aes(x = date,
+                        y = change)) +
+  geom_line() +
+  labs(title = "Inflation",
+       subtitle = "Consumer Price Index",
+       caption = paste("Source: University of Michigan Consumer Survey, retrieved from the St. Louis Fed. Latest data:",
+                       tail(recent_data$short_date,1))) +
+  xlab(NULL) +
+  ylab(NULL) +
+  scale_x_date(expand = expansion(mult = c(0, .01))) +
+  scale_y_continuous(position = "right") +
+  theme(axis.text.y = element_text(size = 10),
+        axis.text.x = element_text(size = 8),
+        panel.grid.minor = element_blank(),
+        panel.background = element_blank(),
+        panel.grid.major.y = element_line(colour = "grey93"),
+        strip.text = element_text(size = 11),
+        strip.background = element_blank(),
+        plot.caption = element_text(colour = "grey40"))
+
+cpi <- ggplot(data = data,
+                    aes(x = date,
+                        y = change)) +
+  geom_line() +
+  labs(title = "Inflation: Consumer Price Index",
+       caption = paste("Source: U.S. Bureau of Labor Statistics, retrieved from the St. Louis Fed. Latest data:",
+                       tail(recent_data$short_date,1))) +
+  xlab(NULL) +
+  ylab(NULL) +
+  scale_y_continuous(position = "right",
+                     label = label_percent(accuracy = 1)) +
+  scale_x_date(expand = expansion(mult = c(0, 0))) +
+  facet_zoom(x = date > recent_years,
+             zoom.size = 4,
+             ylim = c(min(recent_data$change),
+                      max(recent_data$change)),
+             #show.area = FALSE,
+             horizontal = FALSE) +
+  theme_bw() +
+  theme(axis.text.y = element_text(size = 10),
+        axis.text.x = element_text(size = 8),
+        # panel.grid.minor = element_blank(),
+        # panel.background = element_blank(),
+        # panel.grid.major.x = element_line(colour = "grey93"),
+        panel.grid.major.y = element_line(colour = "grey93"),
+        # #strip.text = element_text(size = 11),
+        #strip.background = element_blank(),
+        plot.caption = element_text(colour = "grey40"))
+cpi
+ggsave("plots/consumer_price_index.png", plot = sentiment,
+       width = 8, height = 8*(628/1200), dpi = 320)
+
 # Champaign ----
 ## unemployment rate ----
 data <- fredr(series_id = "ILCHAM9URN")
@@ -793,15 +853,17 @@ Source: [Institute of Government and Public Affairs at the University of Illinoi
 
 ![Employment]({{ site.baseurl }}/plots/employment.png)
 
-![Real GDP]({{ site.baseurl }}/plots/gdp.png)
-
-![Real Median Income]({{ site.baseurl }}/plots/real_median_income.png)
+![Inflation]({{ site.baseurl }}/plots/consumer_price_index.png)
 
 ![Retail Sales]({{ site.baseurl }}/plots/retail_sales.png)
 
 ![Durable Goods]({{ site.baseurl }}/plots/durable_goods.png)
 
 ![Consumer Sentiment]({{ site.baseurl }}/plots/consumer_sentiment.png)
+
+![Real GDP]({{ site.baseurl }}/plots/gdp.png)
+
+![Real Median Income]({{ site.baseurl }}/plots/real_median_income.png)
 
 Data retrieved from the [Federal Reserve Bank of St. Louis](https://fred.stlouisfed.org)
 
