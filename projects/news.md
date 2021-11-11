@@ -7,18 +7,18 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:44 AM CT, Nov. 11 </p> 
+ <a href="https://www.nytimes.com/2021/11/11/world/europe/covid-deaths.html">Europe's Covid Deaths Rose 10 Percent in a Week, the W.H.O. Says</a> NYT: Cases and fatalities have increased on the continent, even as they have dropped or remained stable in the rest of the world. 
+ <p class="updated_time"> 05:42 AM CT, Nov. 11 </p> 
+ <a href="https://www.nytimes.com/live/2021/11/11/world/china-xi-jinping-cpc/xi-jinping-history-third-term">Eyeing his future, Xi Jinping rewrites the past.</a> NYT: Senior party officials have gathered at a closed-door meeting in Beijing to cement Mr. Xi’s dominance as he moves to claim a likely third term next year as China’s leader. 
+ <p class="updated_time"> 05:40 AM CT, Nov. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59247115?at_medium=RSS&at_campaign=KARANGA">FW de Klerk: South Africa's former president dies at 85</a> BBC: FW de Klerk was the last white person to lead the nation and was key in the transition to democracy. 
  <p class="updated_time"> 05:38 AM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/09/world/europe/poland-belarus-border-crisis.html">E.U. Blames Belarus for Migrant Crisis at Poland Border</a> NYT: Poland has massed troops at the border, the European Union’s eastern frontier, to keep migrants camped there from crossing into the country. 
- <p class="updated_time"> 05:37 AM CT, Nov. 11 </p> 
- <a href="https://www.nytimes.com/2021/11/11/world/europe/covid-deaths.html">Europe's Covid Deaths Rose 10 Percent in a Week, the W.H.O. Says</a> NYT: Cases and fatalities have increased on the continent, even as they have dropped or remained stable in the rest of the world. 
  <p class="updated_time"> 05:33 AM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/10/world/middleeast/migrants-belarus-border-abuse.html">Migrants Say They Face Abuse on Both Sides of Belarus Border</a> NYT: Stories are emerging of the authorities in Belarus, Lithuania and Poland abusing asylum seekers from the Middle East and using them as political pawns. 
  <p class="updated_time"> 05:22 AM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/world/africa/fw-de-klerk-dead.html">F.W. de Klerk, Former South African President Who Dismantled Apartheid, Dies at 85</a> NYT: A prominent Afrikaner, he vehemently defended the separation of the races but later stunned his deeply divided nation, and the wider world, by reconsidering South Africa’s racist ways. 
- <p class="updated_time"> 05:06 AM CT, Nov. 11 </p> 
- <a href="https://www.nytimes.com/live/2021/11/11/world/china-xi-jinping-cpc/xi-jinping-history-third-term">Eyeing his future, Xi Jinping rewrites the past.</a> NYT: Senior party officials have gathered at a closed-door meeting in Beijing to cement Mr. Xi’s dominance as he moves to claim a likely third term next year as China’s leader. 
- <p class="updated_time"> 05:03 AM CT, Nov. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59247115?at_medium=RSS&at_campaign=KARANGA">FW de Klerk: South Africa's former president dies at 85</a> BBC: FW de Klerk was the last white person to lead the nation and was key in the transition to democracy. 
  <p class="updated_time"> 04:27 AM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/world/africa/covid-uganda-schools.html">Dropouts and Menial Jobs: The Effects of Keeping Uganda's Schools Closed</a> NYT: With 10 million young people in Uganda still unable to attend classes in person, the impact for many has been devastating. 
  <p class="updated_time"> 04:21 AM CT, Nov. 11 </p> 
@@ -432,8 +432,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/04/house-megabill-passage-manchin-last-word-519570">Manchin will get last word, even as House races to pass megabill</a> Politico: House Democratic leaders and progressives want to speed toward passage of a bill that won't have a smooth ride through the Senate. 
  <p class="updated_time"> 11:54 AM CT, Nov. 04 </p> 
  <a href="https://www.politico.com/news/2021/11/04/pelosi-domestic-agenda-519503">Pelosi amps up domestic-agenda pressure campaign, pressing Friday votes</a> Politico: Democratic leaders made headway in some areas, but key lawmakers were still drafting new language on immigration as late as 9 p.m. 
- <p class="updated_time"> 06:45 AM CT, Nov. 04 </p> 
- <a href="https://www.politico.com/newsletters/huddle/2021/11/04/dems-attempt-an-end-of-week-spri-494981">Dems attempt an end-of-week sprint</a> Politico: A play-by-play preview of the day&#39;s congressional news 
 
 
 </details>
