@@ -7,8 +7,10 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:46 AM CT, Nov. 11 </p> 
+ <p class="updated_time"> 11:53 AM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/live/2021/11/11/world/belarus-poland-border-migrants">Live Updates: Belarus and Poland Trade Insults and Threats as Migrant Plight Worsens</a> NYT: Thousands are camped at the border as dangerous cold sets in. Western officials say Belarus’s leader, who hinted at disrupting gas supplies to Europe, orchestrated the crisis. 
+ <p class="updated_time"> 11:49 AM CT, Nov. 11 </p> 
+ <a href="https://www.nytimes.com/2021/11/11/health/veterans-psychedelics-ptsd-depression.html">Veterans Have Become Unlikely Lobbyists in Push to Legalize Psychedelics</a> NYT: Lawmakers find it hard to “just say no” to combat veterans seeking support for drug decriminalization efforts gaining traction around the country. 
  <p class="updated_time"> 11:46 AM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/world/europe/poland-independence-day-far-right-protests.html">As Poland Celebrates Its Independence Day, Far-Right Groups Stage Rallies</a> NYT: In downtown Warsaw, tens of thousands of demonstrators started their march by lighting red flares and singing the national anthem. 
  <p class="updated_time"> 11:43 AM CT, Nov. 11 </p> 
@@ -210,6 +212,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 12:23 PM CT, Nov. 11 </p> 
  <a href="https://www.politico.com/news/2021/11/11/wall-street-democrats-tax-buybacks-520880">Wall Street brushes off Democrats' 'piddling' tax on stock buybacks</a> Politico: Analysts say they expect total buybacks this year to approach levels unseen since shortly after Republicans slashed the corporate tax rate as part of their 2017 tax cuts. 
+ <p class="updated_time"> 11:49 AM CT, Nov. 11 </p> 
+ <a href="https://www.nytimes.com/2021/11/11/health/veterans-psychedelics-ptsd-depression.html">Veterans Have Become Unlikely Lobbyists in Push to Legalize Psychedelics</a> NYT: Lawmakers find it hard to “just say no” to combat veterans seeking support for drug decriminalization efforts gaining traction around the country. 
  <p class="updated_time"> 11:41 AM CT, Nov. 11 </p> 
  <a href="https://www.cnn.com/2021/11/11/politics/trump-motion-documents/index.html">Trump asks appeals court to stop release of his White House records ahead of Friday deadline</a> CNN: Former President Donald Trump has asked a federal appeals court to briefly stop the release of key White House records from his presidency to the House January 6 committee while he appeals a lower court's decision that he can't claim executive privilege to keep them secret. 
  <p class="updated_time"> 10:36 AM CT, Nov. 11 </p> 
@@ -384,8 +388,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/09/politics/biden-infrastructure-bill-spending-economy/index.html">Here's how long it may take Biden's infrastructure package to jolt the economy</a> CNN: It may be years before Americans are driving over new bridges or plugging their electric vehicles into a new highway charger funded by President Joe Biden's infrastructure package. But some of the money could be released over the next six months, providing a jolt to a backlog of projects across the country. 
  <p class="updated_time"> 03:18 PM CT, Nov. 09 </p> 
  <a href="https://www.politico.com/news/2021/11/09/dunn-capitol-police-union-jan-6-520459">Dunn jumps into race to lead Capitol Police union after post-Jan. 6 testimony</a> Politico: The 13-year veteran officer, who is Black, told lawmakers on the select committee about the trauma and racial slurs he endured during the riot. 
- <p class="updated_time"> 01:48 PM CT, Nov. 09 </p> 
- <a href="https://www.nytimes.com/2021/11/09/us/politics/trump-officials-illegal-campaigning.html">Trump Officials Illegally Campaigned While in Office, Watchdog Finds</a> NYT: Mr. Trump’s son-in-law and his chief of staff are among those accused of violating a law designed to prevent federal employees from abusing their power. 
  <p class="updated_time"> 01:35 PM CT, Nov. 09 </p> 
  <a href="https://www.cnn.com/2021/11/09/politics/supply-chain-biden-administration/index.html">Biden administration announcing actions to alleviate supply chain issues at nation's ports</a> CNN: The Biden administration announced a new set of immediate and short-term actions Tuesday aimed at alleviating supply chain issues at the nation's ports, waterways and freight networks as the administration takes steps to implement the newly passed, but not yet signed, bipartisan infrastructure bill. 
  <p class="updated_time"> 09:35 AM CT, Nov. 09 </p> 
