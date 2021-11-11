@@ -7,6 +7,12 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:31 PM CT, Nov. 11 </p> 
+ <a href="https://www.bbc.co.uk/sport/football/59256408?at_medium=RSS&at_campaign=KARANGA">Aminata Diallo: Paris St-Germain midfielder released by police without charge</a> BBC: Paris St-Germain midfielder Aminata Diallo is released without charge by French police investigating an attack on her PSG team-mate Kheira Hamraoui. 
+ <p class="updated_time"> 02:29 PM CT, Nov. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-politics-59255708?at_medium=RSS&at_campaign=KARANGA">Iran nuclear deal: UK urges Iran to back plan to revive agreement</a> BBC: Iran wants to see economic sanctions lifted, but the West wants Iran to first reduce uranium stocks. 
+ <p class="updated_time"> 02:29 PM CT, Nov. 11 </p> 
+ <a href="https://www.nytimes.com/2021/11/11/world/americas/bolsonaro-trump-brazil-election.html">Trump Allies Help Bolsonaro Sow Doubt in Brazil's Elections</a> NYT: With his poll numbers falling, President Jair Bolsonaro is already questioning the legitimacy of next year’s election. He has help from the United States. 
  <p class="updated_time"> 02:21 PM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/world/europe/germany-covid-pandemic-unvaccinated-vaccines-fourth-wave.html">Germany’s Fourth Covid Wave: ‘A Pandemic of the Unvaccinated’</a> NYT: Germany once set an example for how to manage the coronavirus. Now, deep pockets of vaccine resistance are helping drive daily infections to new heights. 
  <p class="updated_time"> 02:14 PM CT, Nov. 11 </p> 
@@ -19,6 +25,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/11/world/middleeast/saudi-court-execution-crime.html">Saudi Court Blocks Execution of Man Convicted of Crime Committed at 14</a> NYT: Rights groups said the death sentence for Abdullah al-Huwaiti ran contrary to the kingdom’s claimed legal reforms. Now he’ll be retried. 
  <p class="updated_time"> 01:38 PM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/world/middleeast/israel-palestinian-nso-hacking.html">Palestinian Diplomats Targeted by Israeli Spyware, Official Says</a> NYT: The accusation, which has not been independently verified, raises new questions over whether Israel is using software made by NSO Group to spy on Palestinians. 
+ <p class="updated_time"> 01:23 PM CT, Nov. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59253377?at_medium=RSS&at_campaign=KARANGA">Poland-Belarus: How social media posts fuelled the migrant crisis</a> BBC: Messages on social media had a key role in a mass move of migrants to the Polish border this week. 
  <p class="updated_time"> 01:15 PM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/health/veterans-psychedelics-ptsd-depression.html">Veterans Have Become Unlikely Lobbyists in Push to Legalize Psychedelic Drugs</a> NYT: Lawmakers find it hard to “just say no” to combat veterans seeking support for drug decriminalization efforts gaining traction around the country. 
  <p class="updated_time"> 01:09 PM CT, Nov. 11 </p> 
@@ -81,8 +89,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/11/1054633332/f-w-de-klerk-south-africas-last-apartheid-president-dies-at-85">F. W. de Klerk, South Africa's last apartheid president, dies at 85</a> NPR: De Klerk shared a Nobel Peace Prize with Nelson Mandela, and ceded the presidency to him in 1994 after Black South Africans were allowed to vote. But he's remained a controversial figure there. 
  <p class="updated_time"> 06:02 AM CT, Nov. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59247659?at_medium=RSS&at_campaign=KARANGA">Hong Kong's 'Captain America' protester jailed under national security law</a> BBC: Ma Chun-man is sentenced to nearly six years in prison under the controversial national security law. 
- <p class="updated_time"> 05:51 AM CT, Nov. 11 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-59246884?at_medium=RSS&at_campaign=KARANGA">Monster's Ball actor Coronji Calhoun Sr dies aged 30</a> BBC: Coronji Calhoun Sr played the son of Halle Berry's character in the Oscar-winning 2001 film. 
  <p class="updated_time"> 05:42 AM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/world/asia/xi-jinping-china-third-term.html">China's Xi Jingping Secures Political Future By Rewriting Past</a> NYT: Senior party officials have gathered at a closed-door meeting in Beijing to cement Mr. Xi’s dominance as he moves to claim a likely third term next year as China’s leader. 
  <p class="updated_time"> 04:54 AM CT, Nov. 11 </p> 
@@ -113,8 +119,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/10/world/buttigieg-gasoline-diesel-vehicles.html">Pete Buttigieg Says U.S. 'Focused' on Reducing Auto Emissions</a> NYT: At the Glasgow climate summit, Mr. Buttigieg said the conversation surrounding climate change should focus on whether Earth can sustain life. 
  <p class="updated_time"> 02:00 AM CT, Nov. 11 </p> 
  <a href="https://www.wsj.com/articles/chinas-coal-shortage-threatens-farmers-in-india-and-truckers-in-south-korea-11636635601">China's Coal Shortage Threatens Farmers in India and Truckers in South Korea</a> WSJ: The countries rely on Chinese exports of urea, which is extracted from coal, for fertilizer and running diesel vehicles. 
- <p class="updated_time"> 12:09 AM CT, Nov. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-59238649?at_medium=RSS&at_campaign=KARANGA">Virat Kohli: India man arrested over rape threats to cricketer's daughter</a> BBC: A man has been arrested over rape threats to the daughter of Indian cricket captain Virat Kohli. 
  <p class="updated_time"> 10:51 PM CT, Nov. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59244336?at_medium=RSS&at_campaign=KARANGA">Watch as hot air balloonist breaks world record</a> BBC: Rémi Ouvrard stood on top of a hot air balloon at more than 3,500m over western France. 
  <p class="updated_time"> 10:04 PM CT, Nov. 10 </p> 
@@ -139,8 +143,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/science-environment-59227491?at_medium=RSS&at_campaign=KARANGA">COP26: Climate activists on what change means for them</a> BBC: Climate activists from the Philippines, the UK and Argentina take questions on climate change. 
  <p class="updated_time"> 06:29 PM CT, Nov. 10 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59240676?at_medium=RSS&at_campaign=KARANGA">Himalayan village split in two by climate change</a> BBC: In Kumik, in India's northern Ladakh region, there is a serious water crisis, with some residents forced to abandon their homes and move elsewhere. 
- <p class="updated_time"> 06:21 PM CT, Nov. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59234871?at_medium=RSS&at_campaign=KARANGA">The African migrants running a food bank in Sicily</a> BBC: Undocumented people in Italy struggling for money during the Covid pandemic are not entitled to aid. 
  <p class="updated_time"> 06:13 PM CT, Nov. 10 </p> 
  <a href="https://www.bbc.co.uk/news/59233244?at_medium=RSS&at_campaign=KARANGA">Belarus migrants: What routes do they use to reach Minsk?</a> BBC: The migrant crisis along the EU's borders is the result of increasing numbers arriving in Belarus by air. 
  <p class="updated_time"> 06:11 PM CT, Nov. 10 </p> 
@@ -203,8 +205,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-59221823?at_medium=RSS&at_campaign=KARANGA">Cape Town's Day Zero: 'We are axing trees to save water'</a> BBC: Cape Town, on South Africa's coast, was the first global city to come close to running out of water. 
  <p class="updated_time"> 04:05 PM CT, Nov. 09 </p> 
  <a href="https://www.nytimes.com/2021/11/09/world/asia/pakistan-taliban-cease-fire.html">Pakistan Reaches Cease-Fire With Resurgent Taliban Militants</a> NYT: The Pakistani government said it would offer amnesty for insurgents who are willing to disarm. 
- <p class="updated_time"> 02:44 PM CT, Nov. 09 </p> 
- <a href="https://www.nytimes.com/2021/11/09/world/americas/canada-pfizer-booster-adults.html">Canada Approves Pfizer Boosters for Adults</a> NYT: Some provinces have already started to offer booster shots to higher-risk populations. Tuesday’s announcement standardizes eligibility criteria nationwide. 
 
 
 </details>
