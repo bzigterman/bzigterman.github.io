@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:59 AM CT, Nov. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/science-environment-59243434?at_medium=RSS&at_campaign=KARANGA">COP26: Cautious welcome for unexpected US-China climate agreement</a> BBC: The world's two biggest CO2 emitters pledge to boost climate co-operation in an unexpected declaration. 
  <p class="updated_time"> 11:15 PM CT, Nov. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59244091?at_medium=RSS&at_campaign=KARANGA">Alec Baldwin film tragedy: Crew member sues for negligence</a> BBC: An electrician alleges negligence in the incident in which cinematographer Halyna Hutchins died. 
  <p class="updated_time"> 10:58 PM CT, Nov. 10 </p> 
@@ -15,8 +17,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59244336?at_medium=RSS&at_campaign=KARANGA">Watch as hot air balloonist breaks world record</a> BBC: Rémi Ouvrard stood on top of a hot air balloon at more than 3,500m over western France. 
  <p class="updated_time"> 10:40 PM CT, Nov. 10 </p> 
  <a href="https://www.bbc.co.uk/news/business-59243606?at_medium=RSS&at_campaign=KARANGA">Elon Musk: Tesla boss sells $5bn of shares after Twitter poll</a> BBC: Part of the share sale was based on a pre-arranged trading plan set up in September. 
- <p class="updated_time"> 10:26 PM CT, Nov. 10 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-59243434?at_medium=RSS&at_campaign=KARANGA">COP26: Cautious welcome for unexpected US-China climate agreement</a> BBC: The world's two biggest CO2 emitters pledge to boost climate co-operation in an unexpected declaration. 
  <p class="updated_time"> 10:04 PM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/world/middleeast/israeli-covid-vaccine-children.html">Israeli Experts Approve Vaccinations for Children Ages 5 to 11 </a> NYT: Israel would become one of the first countries after the United States to authorize the Pfizer-BioNTech vaccine for children ages 5 to 11. 
  <p class="updated_time"> 10:02 PM CT, Nov. 10 </p> 
