@@ -7,10 +7,12 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:50 PM CT, Nov. 11 </p> 
+ <a href="https://www.nytimes.com/live/2021/11/11/world/belarus-poland-border-migrants">Live Updates: East-West Clash Over Belarus Migrant Crisis Spills Into U.N. Security Council</a> NYT: A Russian ambassador accused European powers of callous hypocrisy for not allowing thousands of desperate migrants to cross from Belarus into European Union member states. Dangerous cold is setting in. 
+ <p class="updated_time"> 05:50 PM CT, Nov. 11 </p> 
+ <a href="https://www.nytimes.com/2021/11/11/world/europe/belarus-poland-border-russia.html">Russia Reacts to Belarus-Poland Border Crisis</a> NYT: President Vladimir Putin’s spokesman said that Russia was doing all it could to resolve the situation, but he also warned of the possibility of a military escalation, according to the Russian state news agency RIA Novosti. 
  <p class="updated_time"> 05:37 PM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/world/who-is-aleksandr-g-lukashenko.html">Who Is Aleksandr Lukashenko? Here's What You Need to Know</a> NYT: A migrant crisis on the border with Poland has put the Belarusian president at the center of a clash roiling Europe. 
- <p class="updated_time"> 05:25 PM CT, Nov. 11 </p> 
- <a href="https://www.nytimes.com/live/2021/11/11/world/belarus-poland-border-migrants">Live Updates: East-West Clash Over Belarus Migrant Crisis Spills Into U.N. Security Council</a> NYT: A Russian ambassador accused European powers of callous hypocrisy for not allowing thousands of desperate migrants to cross from Belarus into European Union member states. Dangerous cold is setting in. 
  <p class="updated_time"> 05:12 PM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/world/europe/un-security-council.html">Belarus-Poland Clash Spills Into U.N. Security Council</a> NYT: The United States joined several countries in a statement condemning Belarus, but the Russian envoy dismissed their criticism as politically motivated hypocrisy. 
  <p class="updated_time"> 05:07 PM CT, Nov. 11 </p> 
@@ -89,8 +91,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59253376?at_medium=RSS&at_campaign=KARANGA">Poland-Belarus crisis: The lives caught in a stalemate</a> BBC: A row over an influx of migrants has reached a stalemate. We spoke to people caught in the middle. 
  <p class="updated_time"> 10:27 AM CT, Nov. 11 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59251772?at_medium=RSS&at_campaign=KARANGA">My Day at COP26: 'Anything we achieve in Glasgow is not going to be enough'</a> BBC: Bangladeshi climate scientist, Saleemul Huq, is at COP26 to advise the world’s least developed countries. He describes the mood as the summit nears its conclusion. 
- <p class="updated_time"> 10:16 AM CT, Nov. 11 </p> 
- <a href="https://www.nytimes.com/2021/11/11/world/europe/belarus-poland-border-russia.html">Russia Reacts to Belarus-Poland Border Crisis</a> NYT: President Vladimir Putin’s spokesman said that Russia was doing all it could to resolve the situation, but he also warned of the possibility of a military escalation, according to the Russian state news agency RIA Novosti. 
  <p class="updated_time"> 09:35 AM CT, Nov. 11 </p> 
  <a href="https://www.npr.org/2021/11/11/1054650773/zhang-zhan-wuhan-citizen-journalist-hunger-strike">A citizen journalist who shined a light on the pandemic in Wuhan may die in prison</a> NPR: "If she does not make it past the coming winter, I hope the world will remember her as she once was," Zhang Zhan's brother said. She posted videos of Wuhan in the early days of the pandemic. 
  <p class="updated_time"> 09:02 AM CT, Nov. 11 </p> 
@@ -212,6 +212,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:41 PM CT, Nov. 11 </p> 
+ <a href="https://www.cnn.com/2021/11/11/politics/trump-motion-documents/index.html">Federal appeals court pauses release of Trump White House records ahead of Friday deadline</a> CNN: Former President Donald Trump has asked a federal appeals court to briefly stop the release of key White House records from his presidency to the House January 6 committee while he appeals a lower court's decision that he can't claim executive privilege to keep them secret. 
  <p class="updated_time"> 05:31 PM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/business/economy/biden-inflation.html">Biden Says Spending Bill Will Slow Inflation. But When?</a> NYT: The Biden administration has argued that its infrastructure and broader economic package will slow rapid price increases. But that will take time. 
  <p class="updated_time"> 05:30 PM CT, Nov. 11 </p> 
@@ -236,8 +238,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/11/us/politics/republicans-infrastructure-bill.html">Illinois Republican Lawmakers at Odds on Infrastructure Bill</a> NYT: Representative Darin LaHood voted against the infrastructure bill while Representative Adam Kinzinger supported it. The split reflects the Republican Party’s post-Trump era of uncertainty. 
  <p class="updated_time"> 04:42 PM CT, Nov. 11 </p> 
  <a href="https://www.politico.com/news/2021/11/11/appeals-court-jan-6-committee-trump-white-house-records-520952">Appeals court slows Jan. 6 committee’s effort to access Trump White House records</a> Politico: The National Archives had been preparing to deliver the documents on Friday, but the three-judge panel will instead hear arguments in the matter on Nov. 30. 
- <p class="updated_time"> 04:42 PM CT, Nov. 11 </p> 
- <a href="https://www.cnn.com/2021/11/11/politics/trump-motion-documents/index.html">Federal appeals court pauses release of Trump White House records ahead of Friday deadline</a> CNN: Former President Donald Trump has asked a federal appeals court to briefly stop the release of key White House records from his presidency to the House January 6 committee while he appeals a lower court's decision that he can't claim executive privilege to keep them secret. 
  <p class="updated_time"> 04:41 PM CT, Nov. 11 </p> 
  <a href="https://www.politico.com/news/2021/11/11/dems-white-house-biden-520946">Dems to White House: The only prescription is more Biden</a> Politico: The president has been more a facilitator than manager of the legislative process. His party wants more of the latter. 
  <p class="updated_time"> 04:22 PM CT, Nov. 11 </p> 
