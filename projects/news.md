@@ -7,14 +7,14 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:33 AM CT, Nov. 11 </p> 
+ <a href="https://www.nytimes.com/2021/11/10/world/middleeast/migrants-belarus-border-abuse.html">Migrants Say They Face Abuse on Both Sides of Belarus Border</a> NYT: Stories are emerging of the authorities in Belarus, Lithuania and Poland abusing asylum seekers from the Middle East and using them as political pawns. 
  <p class="updated_time"> 05:22 AM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/world/africa/fw-de-klerk-dead.html">F.W. de Klerk, Former South African President Who Dismantled Apartheid, Dies at 85</a> NYT: A prominent Afrikaner, he vehemently defended the separation of the races but later stunned his deeply divided nation, and the wider world, by reconsidering South Africa’s racist ways. 
  <p class="updated_time"> 05:06 AM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/live/2021/11/11/world/china-xi-jinping-cpc/xi-jinping-history-third-term">Eyeing his future, Xi Jinping rewrites the past.</a> NYT: Senior party officials have gathered at a closed-door meeting in Beijing to cement Mr. Xi’s dominance as he moves to claim a likely third term next year as China’s leader. 
  <p class="updated_time"> 05:03 AM CT, Nov. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59247115?at_medium=RSS&at_campaign=KARANGA">FW de Klerk: South Africa's former president dies at 85</a> BBC: FW de Klerk was the last white person to lead the nation and was key in the transition to democracy. 
- <p class="updated_time"> 05:00 AM CT, Nov. 11 </p> 
- <a href="https://www.nytimes.com/2021/11/11/world/asia/covid-singapore-music-bars-restaurants.html">Singapore Will Again Allow Music in Bars and Restaurants, If It's Mellow</a> NYT: There was no word on what kinds of music, or what volume level, the change applies to. And live music and entertainment are still banned. 
  <p class="updated_time"> 04:27 AM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/world/africa/covid-uganda-schools.html">Dropouts and Menial Jobs: The Effects of Keeping Uganda's Schools Closed</a> NYT: With 10 million young people in Uganda still unable to attend classes in person, the impact for many has been devastating. 
  <p class="updated_time"> 04:21 AM CT, Nov. 11 </p> 
@@ -99,8 +99,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/09/world/europe/france-macron-covid-restrictions.html">France Will Require Booster Shot for Those 65 and Older</a> NYT: President Emmanuel Macron, in a televised speech, said that older people will now have to get the shots to remain eligible for a vaccine passport. 
  <p class="updated_time"> 03:56 PM CT, Nov. 10 </p> 
  <a href="https://www.npr.org/2021/11/10/1054428157/in-afghanistan-the-threat-of-widespread-famine-looms-as-drought-and-hunger-conti">In Afghanistan, the threat of widespread famine looms as drought and hunger continues</a> NPR: NPR's Audie Cornish talks with reporter Jane Ferguson from PBS Newshour about her recent trip into Afghanistan. 
- <p class="updated_time"> 03:54 PM CT, Nov. 10 </p> 
- <a href="https://www.nytimes.com/2021/11/10/world/middleeast/migrants-belarus-border-abuse.html">Migrants Say They Face Abuse on Both Sides of Belarus Border</a> NYT: Stories are emerging of the authorities in Belarus, Lithuania and Poland abusing asylum seekers from the Middle East and using them as political pawns. 
  <p class="updated_time"> 03:45 PM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/theater/little-amal-the-walk.html">Little Amal, a Refugee Puppet, Looks for Home</a> NYT: In “The Walk,” a 12-foot tall, 9-year-old Syrian girl named Amal trekked from Turkey to Britain to find her mother. In a politically divided continent, were any minds changed? 
  <p class="updated_time"> 03:37 PM CT, Nov. 10 </p> 
