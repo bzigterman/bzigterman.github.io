@@ -7,12 +7,12 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:38 PM CT, Nov. 11 </p> 
+ <a href="https://www.nytimes.com/2021/11/11/world/middleeast/israel-palestinian-nso-hacking.html">Palestinian Diplomats Targeted by Israeli Spyware, Official Says</a> NYT: The accusation, which has not been independently verified, raises new questions over whether Israel is using software made by NSO Group to spy on Palestinians. 
+ <p class="updated_time"> 01:38 PM CT, Nov. 11 </p> 
+ <a href="https://www.nytimes.com/live/2021/11/11/world/belarus-poland-border-migrants">Live Updates: Belarus and Poland Trade Insults and Threats as Migrant Plight Worsens</a> NYT: Thousands are camped at the border as dangerous cold sets in. Western officials say Belarus’s leader, who hinted at disrupting gas supplies to Europe, orchestrated the crisis. 
  <p class="updated_time"> 01:27 PM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/10/sports/soccer/psg-women-attack-aminata-diallo.html">P.S.G.'s Aminata Diallo Arrested After Teammate Is Attacked</a> NYT: A Paris St.-Germain women’s player was taken into custody by French investigators looking into a violent assault on a teammate who shares her position. 
- <p class="updated_time"> 01:26 PM CT, Nov. 11 </p> 
- <a href="https://www.nytimes.com/2021/11/11/world/middleeast/israel-palestinian-nso-hacking.html">Palestinian Diplomats Targeted by Israeli Spyware, Official Says</a> NYT: The accusation, which has not been independently verified, raises new questions over whether Israel is using software made by NSO Group to spy on Palestinians. 
- <p class="updated_time"> 01:23 PM CT, Nov. 11 </p> 
- <a href="https://www.nytimes.com/live/2021/11/11/world/belarus-poland-border-migrants">Live Updates: Belarus and Poland Trade Insults and Threats as Migrant Plight Worsens</a> NYT: Thousands are camped at the border as dangerous cold sets in. Western officials say Belarus’s leader, who hinted at disrupting gas supplies to Europe, orchestrated the crisis. 
  <p class="updated_time"> 01:15 PM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/health/veterans-psychedelics-ptsd-depression.html">Veterans Have Become Unlikely Lobbyists in Push to Legalize Psychedelic Drugs</a> NYT: Lawmakers find it hard to “just say no” to combat veterans seeking support for drug decriminalization efforts gaining traction around the country. 
  <p class="updated_time"> 01:09 PM CT, Nov. 11 </p> 
@@ -72,7 +72,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:47 AM CT, Nov. 11 </p> 
  <a href="https://www.wsj.com/articles/europe-weighs-border-walls-as-migrants-mass-in-belarus-at-polands-frontier-11636649364">Europe Weighs Border Walls as Migrants Mass in Belarus at Poland's Frontier</a> WSJ: The European Union is adopting a tougher stance toward migration in response to what officials see as a hybrid attack from a close Russian ally. 
  <p class="updated_time"> 06:17 AM CT, Nov. 11 </p> 
- <a href="https://www.wsj.com/articles/murderer-of-jewish-holocaust-survivor-in-france-gets-life-sentence-11636651063">Murderer of Jewish Holocaust Survivor in France Gets Life Sentence</a> WSJ: Yacine Mihoub was found guilty of stabbing 85-year-old Mireille Knoll to death in her home, a crime that sparked questions over whether France was doing enough to address a spate of anti-Semitic attacks. 
+ <a href="https://www.wsj.com/articles/murderer-of-jewish-holocaust-survivor-in-france-gets-life-sentence-11636651063">Murderer of Holocaust Survivor in France Gets Life Sentence</a> WSJ: Yacine Mihoub was found guilty of stabbing 85-year-old Mireille Knoll to death in her home, a crime that sparked questions over whether France was doing enough to address a spate of anti-Semitic attacks. 
  <p class="updated_time"> 06:12 AM CT, Nov. 11 </p> 
  <a href="https://www.npr.org/2021/11/11/1054633332/f-w-de-klerk-south-africas-last-apartheid-president-dies-at-85">F. W. de Klerk, South Africa's last apartheid president, dies at 85</a> NPR: De Klerk shared a Nobel Peace Prize with Nelson Mandela, and ceded the presidency to him in 1994 after Black South Africans were allowed to vote. But he's remained a controversial figure there. 
  <p class="updated_time"> 06:02 AM CT, Nov. 11 </p> 
@@ -438,8 +438,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/05/pelosi-dems-final-push-519607">Pelosi tries to rev House Dems after season in the ditch</a> Politico: "There’s a point where you've got to stop talking," Rep. Peter Welch (D-Vt.) said. But can the House get there? 
  <p class="updated_time"> 03:30 AM CT, Nov. 05 </p> 
  <a href="https://www.politico.com/news/2021/11/05/kyrsten-sinema-multi-level-marketing-labor-519661">Sinema’s raking in cash from MLMs. They want to kill her party’s labor bill.</a> Politico: The Arizona senator is one of just a few lawmakers that multilevel marketing businesses —often derided as pyramid schemes — are giving to. 
- <p class="updated_time"> 02:41 PM CT, Nov. 04 </p> 
- <a href="https://www.politico.com/news/2021/11/04/house-megabill-passage-manchin-last-word-519570">Manchin will get last word, even as House races to pass megabill</a> Politico: House Democratic leaders and progressives want to speed toward passage of a bill that won't have a smooth ride through the Senate. 
 
 
 </details>
