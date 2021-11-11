@@ -7,10 +7,12 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:10 AM CT, Nov. 11 </p> 
+ <a href="https://www.nytimes.com/2021/11/11/world/europe/glasgow-garbage-strike.html">Outside COP26, Trash in Glasgow Piles High</a> NYT: At COP26, delegates address the need to curb emissions and mass consumption to save the planet while the reality of today’s throwaway society is all too apparent nearby. 
+ <p class="updated_time"> 07:09 AM CT, Nov. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59246899?at_medium=RSS&at_campaign=KARANGA">Belarus threatens EU gas as bloc considers sanctions</a> BBC: The EU is reportedly preparing fresh sanctions over an escalating migrant crisis at Belarus's border. 
  <p class="updated_time"> 07:04 AM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/world/europe/covid-deaths.html">Europe's Covid Deaths Rose 10 Percent in a Week, the W.H.O. Says</a> NYT: Cases and fatalities have increased on the continent, even as they have dropped or remained stable in the rest of the world. 
- <p class="updated_time"> 06:39 AM CT, Nov. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59246899?at_medium=RSS&at_campaign=KARANGA">Belarus threatens EU gas as bloc considers sanctions</a> BBC: The EU is reportedly preparing fresh sanctions over an escalating migrant crisis at Belarus's border. 
  <p class="updated_time"> 06:25 AM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/world/africa/fw-de-klerk-dead.html">F.W. de Klerk, Last President of Apartheid South Africa, Dies at 85</a> NYT: A prominent Afrikaner, he vehemently defended the separation of the races but later stunned his deeply divided nation, and the wider world, by reconsidering the country’s racist ways. 
  <p class="updated_time"> 06:21 AM CT, Nov. 11 </p> 
@@ -49,6 +51,10 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59244091?at_medium=RSS&at_campaign=KARANGA">Alec Baldwin film tragedy: Crew member sues for negligence</a> BBC: An electrician alleges negligence in the incident in which cinematographer Halyna Hutchins died. 
  <p class="updated_time"> 02:29 AM CT, Nov. 11 </p> 
  <a href="https://www.bbc.co.uk/news/uk-england-oxfordshire-59245679?at_medium=RSS&at_campaign=KARANGA">University of Oxford starts new Ebola vaccine trials</a> BBC: Clinical trials are under way for a new Ebola vaccine developed by the University of Oxford. 
+ <p class="updated_time"> 02:06 AM CT, Nov. 11 </p> 
+ <a href="https://www.wsj.com/articles/high-energy-prices-likely-to-mean-less-oil-demand-this-year-opec-says-11636635602">High Energy Prices Likely to Mean Less Oil Demand This Year, OPEC Says</a> WSJ: Soaring fuel costs amid a global energy crunch were showing signs of weighing on demand, said the Organization of the Petroleum Exporting Countries, and weaker than expected demand for oil in China and India was now likely. 
+ <p class="updated_time"> 02:00 AM CT, Nov. 11 </p> 
+ <a href="https://www.wsj.com/articles/chinas-coal-shortage-threatens-farmers-in-india-and-truckers-in-south-korea-11636635601">China's Coal Shortage Threatens Farmers in India and Truckers in South Korea</a> WSJ: The countries rely on Chinese exports of urea, which is extracted from coal, for fertilizer and running diesel vehicles. 
  <p class="updated_time"> 01:58 AM CT, Nov. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59243406?at_medium=RSS&at_campaign=KARANGA">Kyle Rittenhouse: US teen gunman's lawyers seek mistrial</a> BBC: Lawyers for Kyle Rittenhouse ask the judge to toss the murder case after he rebuked prosecutors. 
  <p class="updated_time"> 01:55 AM CT, Nov. 11 </p> 
@@ -151,8 +157,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/10/1054256978/cop26-agreement-electric-vehicles-auto-industry">COP26 sees pledges to transition to electric vehicles, but key countries are mum</a> NPR: The agreements were hailed as a major step toward decarbonizing the auto industry, but the world's largest auto markets, including the U.S., and top carmakers failed to sign on. 
  <p class="updated_time"> 10:01 AM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/world/europe/france-climate-change-energy-prices.html">In France, the People COP26 Forgot Seethe Over Rising Energy Prices</a> NYT: In one area of France, worries about rising energy prices trump anxiety about rising temperatures, raising fears of a resurgence of the Yellow Vest social uprising. 
- <p class="updated_time"> 09:46 AM CT, Nov. 10 </p> 
- <a href="https://www.wsj.com/articles/afghan-pilots-who-fled-taliban-to-tajikistan-begin-transfer-to-u-s-11636575146">Afghan Pilots Who Fled Taliban to Tajikistan Begin Transfer to U.S.</a> WSJ: A State Department representative said that 191 Afghans were on the departing flight. 
  <p class="updated_time"> 09:42 AM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/09/world/asia/afghan-pilots-tajikistan-taliban.html">Afghan Pilots Who Escaped Taliban Are Flown Out of Tajikistan</a> NYT: More than 140 Afghan Air Force pilots and crew members were evacuated to the United Arab Emirates three months after flying into Tajikistan to escape the Taliban. 
  <p class="updated_time"> 09:32 AM CT, Nov. 10 </p> 
