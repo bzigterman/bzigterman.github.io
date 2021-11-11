@@ -7,14 +7,24 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:46 AM CT, Nov. 11 </p> 
+ <a href="https://www.nytimes.com/live/2021/11/11/world/belarus-poland-border-migrants">Live Updates: Belarus and Poland Trade Insults and Threats as Migrant Plight Worsens</a> NYT: Thousands are camped at the border as dangerous cold sets in. Western officials say Belarus’s leader, who hinted at disrupting gas supplies to Europe, orchestrated the crisis. 
+ <p class="updated_time"> 11:46 AM CT, Nov. 11 </p> 
+ <a href="https://www.nytimes.com/2021/11/11/world/europe/poland-independence-day-far-right-protests.html">As Poland Celebrates Its Independence Day, Far-Right Groups Stage Rallies</a> NYT: In downtown Warsaw, tens of thousands of demonstrators started their march by lighting red flares and singing the national anthem. 
+ <p class="updated_time"> 11:43 AM CT, Nov. 11 </p> 
+ <a href="https://www.nytimes.com/live/2021/11/11/world/china-xi-jinping-cpc">China’s Xi Jinping Remakes the Communist Party’s History in His Image</a> NYT: Leaders at an elite meeting enshrined Mr. Xi among the party’s historical giants, paving the way for him to claim a third five-year term. 
+ <p class="updated_time"> 11:40 AM CT, Nov. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59246899?at_medium=RSS&at_campaign=KARANGA">Belarus threatens EU gas as bloc considers sanctions</a> BBC: The EU is reportedly preparing fresh sanctions over an escalating migrant crisis at Belarus's border. 
+ <p class="updated_time"> 11:40 AM CT, Nov. 11 </p> 
+ <a href="https://www.npr.org/2021/11/11/1054772983/antonio-guterres-cop26-climate-change">The U.N. chief says the main global warming goal is on 'life support'</a> NPR: The U.N. secretary-general says the talks in Glasgow will "very probably" not yield the carbon-cutting pledges he has said are needed to keep the planet from warming beyond the 1.5-degree threshold. 
+ <p class="updated_time"> 11:34 AM CT, Nov. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59247115?at_medium=RSS&at_campaign=KARANGA">FW de Klerk: South Africa's last apartheid president dies at 85</a> BBC: FW de Klerk was the last white person to lead the nation and was key in the transition to democracy. 
  <p class="updated_time"> 11:16 AM CT, Nov. 11 </p> 
  <a href="https://www.npr.org/2021/11/11/1054645619/state-of-the-river-thames-report-london">Zombie river? London's Thames, once biologically dead, has been coming back to life</a> NPR: Oxygen levels, necessary for fish, are up and dangerous phosphorus levels are down in the historically polluted waterway. But a new report points to climate change as a possible wildcard. 
  <p class="updated_time"> 11:11 AM CT, Nov. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59252279?at_medium=RSS&at_campaign=KARANGA">Judge says Texas school mask mandate ban violates disabled student rights</a> BBC: A US judge said the ban cannot be enforced as it violates the federal rights of disabled students. 
  <p class="updated_time"> 10:56 AM CT, Nov. 11 </p> 
  <a href="https://www.npr.org/sections/goatsandsoda/2021/11/11/1052719247/how-6-billion-from-elon-musk-could-feed-millions-on-the-brink-of-famine">How $6 billion from Elon Musk could feed millions on the brink of famine</a> NPR: Elon Musk reportedly made $36 billion in a single day. What if he gave a sixth of that to the World Food Programme? We ask researchers how much of a change $6 billion could bring. 
- <p class="updated_time"> 10:54 AM CT, Nov. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59246899?at_medium=RSS&at_campaign=KARANGA">Belarus threatens EU gas as bloc considers sanctions</a> BBC: The EU is reportedly preparing fresh sanctions over an escalating migrant crisis at Belarus's border. 
  <p class="updated_time"> 10:51 AM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/09/world/europe/poland-belarus-border-crisis.html">E.U. Blames Belarus for Migrant Crisis at Poland Border</a> NYT: Poland has massed troops at the border, the European Union’s eastern frontier, to keep migrants camped there from crossing into the country. 
  <p class="updated_time"> 10:45 AM CT, Nov. 11 </p> 
@@ -27,16 +37,14 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/science-environment-59251772?at_medium=RSS&at_campaign=KARANGA">My Day at COP26: 'Anything we achieve in Glasgow is not going to be enough'</a> BBC: Bangladeshi climate scientist, Saleemul Huq, is at COP26 to advise the world’s least developed countries. He describes the mood as the summit nears its conclusion. 
  <p class="updated_time"> 10:16 AM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/world/europe/belarus-poland-border-russia.html">Russia Reacts to Belarus-Poland Border Crisis</a> NYT: President Vladimir Putin’s spokesman said that Russia was doing all it could to resolve the situation, but he also warned of the possibility of a military escalation, according to the Russian state news agency RIA Novosti. 
- <p class="updated_time"> 09:57 AM CT, Nov. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59247115?at_medium=RSS&at_campaign=KARANGA">FW de Klerk: South Africa's former president dies at 85</a> BBC: FW de Klerk was the last white person to lead the nation and was key in the transition to democracy. 
+ <p class="updated_time"> 09:39 AM CT, Nov. 11 </p> 
+ <a href="https://www.nytimes.com/2021/11/10/sports/soccer/psg-women-attack-aminata-diallo.html">P.S.G.'s Aminata Diallo Arrested After Teammate Is Attacked</a> NYT: A Paris St.-Germain women’s player was taken into custody by French investigators looking into a violent assault on a teammate who shares her position. 
  <p class="updated_time"> 09:35 AM CT, Nov. 11 </p> 
  <a href="https://www.npr.org/2021/11/11/1054650773/zhang-zhan-wuhan-citizen-journalist-hunger-strike">A citizen journalist who shined a light on the pandemic in Wuhan may die in prison</a> NPR: "If she does not make it past the coming winter, I hope the world will remember her as she once was," Zhang Zhan's brother said. She posted videos of Wuhan in the early days of the pandemic. 
  <p class="updated_time"> 09:02 AM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/10/world/middleeast/migrants-belarus-border-abuse.html">Migrants Say They Face Abuse on Both Sides of Belarus Border</a> NYT: Stories are emerging of the authorities in Belarus, Lithuania and Poland abusing asylum seekers from the Middle East and using them as political pawns. 
  <p class="updated_time"> 08:52 AM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/10/world/europe/poland-belarus-border-europe.html">Poland Gets Support From Europe on Tough Borders</a> NYT: Faced with the weaponization of migrants from Belarus, the European Union is defending Poland’s hard line even as it withholds funds over rule of law violations. 
- <p class="updated_time"> 08:38 AM CT, Nov. 11 </p> 
- <a href="https://www.nytimes.com/2021/11/11/world/europe/poland-independence-day-far-right-protests.html">As Poland Celebrates Its Independence Day, Far-Right Groups Stage Rallies</a> NYT: In downtown Warsaw, tens of thousands of demonstrators started their march by lighting red flares and singing the national anthem. 
  <p class="updated_time"> 07:59 AM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/world/africa/covid-uganda-schools.html">Dropouts and Menial Jobs: The Effects of Keeping Uganda's Schools Closed</a> NYT: With 10 million young people in Uganda still unable to attend classes in person, the impact for many has been devastating. 
  <p class="updated_time"> 07:57 AM CT, Nov. 11 </p> 
@@ -47,6 +55,10 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-latin-america-59249540?at_medium=RSS&at_campaign=KARANGA">Chan Chan: Mass grave found in ancient Peruvian city</a> BBC: Twenty-five people, mostly young women, were buried in a small space in the ancient city of Chan Chan. 
  <p class="updated_time"> 07:10 AM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/world/europe/glasgow-garbage-strike.html">Outside COP26, Trash in Glasgow Piles High</a> NYT: At COP26, delegates address the need to curb emissions and mass consumption to save the planet while the reality of today’s throwaway society is all too apparent nearby. 
+ <p class="updated_time"> 06:47 AM CT, Nov. 11 </p> 
+ <a href="https://www.wsj.com/articles/europe-weighs-border-walls-as-migrants-mass-in-belarus-at-polands-frontier-11636649364">Europe Weighs Border Walls as Migrants Mass in Belarus at Poland's Frontier</a> WSJ: The European Union is adopting a tougher stance toward migration in response to what officials see as a hybrid attack from a close Russian ally. 
+ <p class="updated_time"> 06:17 AM CT, Nov. 11 </p> 
+ <a href="https://www.wsj.com/articles/murderer-of-jewish-holocaust-survivor-in-france-gets-life-sentence-11636651063">Murderer of Jewish Holocaust Survivor in France Gets Life Sentence</a> WSJ: Yacine Mihoub was found guilty of stabbing 85-year-old Mireille Knoll to death in her home, a crime that sparked questions over whether France was doing enough to address a spate of anti-Semitic attacks. 
  <p class="updated_time"> 06:12 AM CT, Nov. 11 </p> 
  <a href="https://www.npr.org/2021/11/11/1054633332/f-w-de-klerk-south-africas-last-apartheid-president-dies-at-85">F. W. de Klerk, South Africa's last apartheid president, dies at 85</a> NPR: De Klerk shared a Nobel Peace Prize with Nelson Mandela, and ceded the presidency to him in 1994 after Black South Africans were allowed to vote. But he's remained a controversial figure there. 
  <p class="updated_time"> 06:02 AM CT, Nov. 11 </p> 
@@ -55,6 +67,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59246884?at_medium=RSS&at_campaign=KARANGA">Monster's Ball actor Coronji Calhoun Sr dies aged 30</a> BBC: Coronji Calhoun Sr played the son of Halle Berry's character in the Oscar-winning 2001 film. 
  <p class="updated_time"> 05:42 AM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/world/asia/xi-jinping-china-third-term.html">China's Xi Jingping Secures Political Future By Rewriting Past</a> NYT: Senior party officials have gathered at a closed-door meeting in Beijing to cement Mr. Xi’s dominance as he moves to claim a likely third term next year as China’s leader. 
+ <p class="updated_time"> 04:54 AM CT, Nov. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-13230608?at_medium=RSS&at_campaign=KARANGA">FW de Klerk: South Africa's last white president</a> BBC: The last president of a segregated South Africa, who freed Nelson Mandela, and paved the way to majority rule. 
  <p class="updated_time"> 04:21 AM CT, Nov. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59229935?at_medium=RSS&at_campaign=KARANGA">China's Xi Jinping cements his status with historic resolution</a> BBC: Mr Xi is only the third leader to issue a "historical resolution" after Mao Zedong and Deng Xiaoping. 
  <p class="updated_time"> 04:08 AM CT, Nov. 11 </p> 
@@ -67,6 +81,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/11/t-magazine/senegal-homegrown-rice.html">In Senegal, a Return to Homegrown Rice</a> NYT: The country has remained mostly dependent on the grain’s importation since colonization in the 1800s. But some locals are trying to change that. 
  <p class="updated_time"> 04:00 AM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/t-magazine/scorched-burnt-rice.html">The Thrilling Dare of Scorched Rice</a> NYT: When browned on the bottom of the pot by a skilled cook, the grain is transformed into a complex delicacy, one prized by food cultures around the world. 
+ <p class="updated_time"> 04:00 AM CT, Nov. 11 </p> 
+ <a href="https://www.nytimes.com/2021/11/11/business/india-stock-market.html">India's Stock Market is Soaring, Luring Investors at Home and Abroad</a> NYT: The second-most populous country is enjoying some of the world’s strongest stock market returns. Pro-growth policies and gnawing questions about China have helped. 
  <p class="updated_time"> 03:48 AM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/10/world/europe/knoll-france-murder.html">French Court Convicts Man in the Murder of a Holocaust Survivor</a> NYT: The man, Yacine Mihoub, was sentenced to life imprisonment for killing Mireille Knoll, 85, in 2018, which judges said was a hate crime motivated by the fact that she was Jewish. 
  <p class="updated_time"> 03:43 AM CT, Nov. 11 </p> 
@@ -79,8 +95,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/10/world/buttigieg-gasoline-diesel-vehicles.html">Pete Buttigieg Says U.S. 'Focused' on Reducing Auto Emissions</a> NYT: At the Glasgow climate summit, Mr. Buttigieg said the conversation surrounding climate change should focus on whether Earth can sustain life. 
  <p class="updated_time"> 02:32 AM CT, Nov. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59244091?at_medium=RSS&at_campaign=KARANGA">Alec Baldwin film tragedy: Crew member sues for negligence</a> BBC: An electrician alleges negligence in the incident in which cinematographer Halyna Hutchins died. 
- <p class="updated_time"> 02:00 AM CT, Nov. 11 </p> 
- <a href="https://www.wsj.com/articles/chinas-coal-shortage-threatens-farmers-in-india-and-truckers-in-south-korea-11636635601">China's Coal Shortage Threatens Farmers in India and Truckers in South Korea</a> WSJ: The countries rely on Chinese exports of urea, which is extracted from coal, for fertilizer and running diesel vehicles. 
  <p class="updated_time"> 01:58 AM CT, Nov. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59243406?at_medium=RSS&at_campaign=KARANGA">Kyle Rittenhouse: US teen gunman's lawyers seek mistrial</a> BBC: Lawyers for Kyle Rittenhouse ask the judge to toss the murder case after he rebuked prosecutors. 
  <p class="updated_time"> 12:59 AM CT, Nov. 11 </p> 
@@ -143,12 +157,12 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/10/1054428129/activists-from-low-lying-nations-vulnerable-to-rising-seas-demand-action-at-cop2">How island nations vulnerable to climate change need rich, polluting countries to act</a> NPR: Low-lying islands and nations are among those most at risk from rising sea levels, and have been sounding the alarm on the need for action by wealthier nations to limit global warming for years. 
  <p class="updated_time"> 03:29 PM CT, Nov. 10 </p> 
  <a href="https://www.npr.org/2021/11/10/1054428122/loved-ones-from-around-the-world-are-finally-reuniting-with-u-s-restrictions-lif">Loved ones from around the world are finally reuniting with U.S. restrictions lifted</a> NPR: Airports across the country have been the scenes of many emotional reunions since Monday, when the U.S. lifted COVID-related travel restrictions for many countries. 
+ <p class="updated_time"> 03:26 PM CT, Nov. 10 </p> 
+ <a href="https://www.nytimes.com/2021/11/10/business/boeing-737-max-crash-ethiopia.html">Boeing agrees to accept responsibility for crash of its 737 Max jet in Ethiopia.</a> NYT: The company will pay out successful compensation suits and allow victims’ families to file those suits in Illinois. Families agreed not to sue for punitive damages. 
  <p class="updated_time"> 03:11 PM CT, Nov. 10 </p> 
  <a href="https://www.npr.org/2021/11/10/1054428108/burning-wood-pellets-isnt-the-clean-energy-it-claims-to-be-critics-say">Burning wood pellets isn't the 'clean energy' it claims to be, critics say</a> NPR: There's a big market sending U.S. wood pellets to Europe to burn as clean energy. But critics say they're not climate-friendly, and their production poses a health hazard for low-income communities. 
  <p class="updated_time"> 03:11 PM CT, Nov. 10 </p> 
  <a href="https://www.npr.org/2021/11/10/1054428101/vp-harris-met-with-macron-as-part-of-the-ongoing-effort-to-mend-alliance-with-fr">VP Harris met with Macron as part of the ongoing effort to mend alliance with France</a> NPR: Vice President Harris meets with French President Emmanuel Macron, the latest in series of Biden administration diplomatic make-up sessions in the wake of the Australian nuclear submarine deal. 
- <p class="updated_time"> 03:11 PM CT, Nov. 10 </p> 
- <a href="https://www.npr.org/2021/11/10/1054428080/from-cop26-pete-buttigieg-describes-how-transportation-factors-into-climate-goal">From COP26: Pete Buttigieg describes how transportation factors into climate goals</a> NPR: NPR's Ari Shapiro speaks with U.S. Transportation Secretary Pete Buttigieg from COP26, as world leaders release a draft of their goals to cut emissions and avert disastrous climate change. 
  <p class="updated_time"> 02:40 PM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/world/greta-thunberg-cop26-state-emergency.html">Greta Thunberg, Activists Petition U.N. to Declare State of Emergency on Climate Change</a> NYT: Young climate activists on Wednesday called on the U.N. to declare a “Level 3” emergency, as it did for Covid-19, allowing the institution to deploy resources to vulnerable countries. 
  <p class="updated_time"> 01:50 PM CT, Nov. 10 </p> 
@@ -161,8 +175,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/10/world/africa/mozambique-corruption-manuel-chang-extradition.html">Manuel Chang Will Face Corruption Charges in U.S.</a> NYT: A judge overturned the South African government’s decision to send the minister back to Mozambique, where civil society groups say his political clout will protect him. 
  <p class="updated_time"> 12:26 PM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/09/world/asia/us-holocaust-museum-china-uyghurs-report.html">U.S. Holocaust Museum Says China ‘May Be Committing Genocide’ Against Uyghurs</a> NYT: Its report found that the government’s attacks against the group of Muslims in Xinjiang had escalated and most likely included “forced sterilization, sexual violence, enslavement, torture, and forcible transfer.” 
- <p class="updated_time"> 11:15 AM CT, Nov. 10 </p> 
- <a href="https://www.wsj.com/articles/cop26-draft-climate-deal-seeks-quicker-emissions-cuts-as-weekend-deadline-nears-11636547423">U.S., China Pledge to Accelerate Climate Effort</a> WSJ: The show of cooperation at COP26 between the two rivals and the world’s two biggest greenhouse-gas emitters injected a surprise development into the talks in Glasgow. 
  <p class="updated_time"> 10:57 AM CT, Nov. 10 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59209276?at_medium=RSS&at_campaign=KARANGA">My Day at COP26: 'I'm painting murals so people don't forget COP happened here'</a> BBC: Daniel Rupaszov, from Hungary, is an artist and activist who visits COP every year to create art which highlights the climate crisis. 
  <p class="updated_time"> 10:01 AM CT, Nov. 10 </p> 
@@ -198,7 +210,7 @@ permalink: /projects/news/
 
  <p class="updated_time"> 12:23 PM CT, Nov. 11 </p> 
  <a href="https://www.politico.com/news/2021/11/11/wall-street-democrats-tax-buybacks-520880">Wall Street brushes off Democrats' 'piddling' tax on stock buybacks</a> Politico: Analysts say they expect total buybacks this year to approach levels unseen since shortly after Republicans slashed the corporate tax rate as part of their 2017 tax cuts. 
- <p class="updated_time"> 11:13 AM CT, Nov. 11 </p> 
+ <p class="updated_time"> 11:41 AM CT, Nov. 11 </p> 
  <a href="https://www.cnn.com/2021/11/11/politics/trump-motion-documents/index.html">Trump asks appeals court to stop release of his White House records ahead of Friday deadline</a> CNN: Former President Donald Trump has asked a federal appeals court to briefly stop the release of key White House records from his presidency to the House January 6 committee while he appeals a lower court's decision that he can't claim executive privilege to keep them secret. 
  <p class="updated_time"> 10:36 AM CT, Nov. 11 </p> 
  <a href="https://www.cnn.com/2021/11/11/politics/trump-nixon-supreme-court-analysis-biskupic/index.html">Supreme Court's Watergate-era rulings against Nixon may end Trump's executive privilege claims</a> CNN: Former President Donald Trump's attempt to withhold records from the House of Representatives related to the January 6 US Capitol attack based on executive privilege -- a claim rejected by President Joe Biden -- would present the US Supreme Court with a novel legal dilemma. 
@@ -239,7 +251,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:30 AM CT, Nov. 11 </p> 
  <a href="https://www.politico.com/news/agenda/2021/11/11/congress-long-term-care-520649">Opinion | ‘We Don’t Fix This Because We Just Don’t Care About Old People’</a> Politico: Lawmakers are proposing billions of dollars to strengthen long-term care. It isn’t nearly enough. 
  <p class="updated_time"> 04:06 AM CT, Nov. 11 </p> 
- <a href="https://www.npr.org/2021/11/11/1054615028/is-masculinity-under-attack-sen-hawley-wants-to-defend-the-men-of-america">Is masculinity under attack? Sen. Hawley wants to defend the men of America</a> NPR: NPR's Steve Inskeep talks to Kristin Kobes Du Mez, a gender studies professor at Calvin University and author of Jesus and John Wayne, about using masculinity as a political issue. 
+ <a href="https://www.npr.org/2021/11/11/1054615028/is-masculinity-under-attack-sen-hawley-wants-to-defend-the-men-of-america">Sen. Josh Hawley claims masculinity is under attack. This historian disagrees</a> NPR: Hawley is calling for a "revival of ... manhood in America." Kristin Kobes Du Mez, a Calvin University professor and the author of Jesus and John Wayne, explains how masculinity is a political issue. 
  <p class="updated_time"> 04:06 AM CT, Nov. 11 </p> 
  <a href="https://www.npr.org/2021/11/11/1054614951/morning-news-brief">News brief: infrastructure bill, Texas mask rules, Rittenhouse trial </a> NPR: President Biden addresses inflation and infrastructure bill. Texas schools can set their own face mask rules again following a judge's ruling. Kyle Rittenhouse took the stand in his own defense. 
  <p class="updated_time"> 11:11 PM CT, Nov. 10 </p> 
