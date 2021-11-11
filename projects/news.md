@@ -7,18 +7,18 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:22 AM CT, Nov. 11 </p> 
+ <a href="https://www.nytimes.com/2021/11/11/world/africa/fw-de-klerk-dead.html">F.W. de Klerk, Former South African President Who Dismantled Apartheid, Dies at 85</a> NYT: A prominent Afrikaner, he vehemently defended the separation of the races but later stunned his deeply divided nation, and the wider world, by reconsidering South Africa’s racist ways. 
+ <p class="updated_time"> 05:06 AM CT, Nov. 11 </p> 
+ <a href="https://www.nytimes.com/live/2021/11/11/world/china-xi-jinping-cpc/xi-jinping-history-third-term">Eyeing his future, Xi Jinping rewrites the past.</a> NYT: Senior party officials have gathered at a closed-door meeting in Beijing to cement Mr. Xi’s dominance as he moves to claim a likely third term next year as China’s leader. 
  <p class="updated_time"> 05:03 AM CT, Nov. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59247115?at_medium=RSS&at_campaign=KARANGA">FW de Klerk: South Africa's former president dies at 85</a> BBC: FW de Klerk was the last white person to lead the nation and was key in the transition to democracy. 
  <p class="updated_time"> 05:00 AM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/world/asia/covid-singapore-music-bars-restaurants.html">Singapore Will Again Allow Music in Bars and Restaurants, If It's Mellow</a> NYT: There was no word on what kinds of music, or what volume level, the change applies to. And live music and entertainment are still banned. 
- <p class="updated_time"> 04:50 AM CT, Nov. 11 </p> 
- <a href="https://www.nytimes.com/2021/11/11/world/africa/fw-de-klerk-dead.html">F.W. De Klerk, Former South African President Who Dismantled Apartheid, Dies at 85</a> NYT: A prominent Afrikaner, he was the ninth and possibly last in a long line of white presidents of South Africa. 
  <p class="updated_time"> 04:27 AM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/world/africa/covid-uganda-schools.html">Dropouts and Menial Jobs: The Effects of Keeping Uganda's Schools Closed</a> NYT: With 10 million young people in Uganda still unable to attend classes in person, the impact for many has been devastating. 
  <p class="updated_time"> 04:21 AM CT, Nov. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59229935?at_medium=RSS&at_campaign=KARANGA">China's Xi Jinping cements his status with historic resolution</a> BBC: Mr Xi is only the third leader to issue a "historical resolution" after Mao Zedong and Deng Xiaoping. 
- <p class="updated_time"> 04:10 AM CT, Nov. 11 </p> 
- <a href="https://www.nytimes.com/2021/11/10/sports/soccer/psg-women-attack-aminata-diallo.html">P.S.G.'s Aminata Diallo Arrested After Teammate Is Attacked</a> NYT: A Paris St.-Germain women’s player was taken into custody by French investigators looking into a violent assault on a teammate who shares her position. 
  <p class="updated_time"> 04:03 AM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/t-magazine/mexico-rice-conquest.html">Tracing Mexico’s Complicated Relationship With Rice</a> NYT: Having arrived in the country via the Spanish Conquest, the grain’s presence poses the question: What’s native, and what isn’t, when it comes to a nation’s culinary history? 
  <p class="updated_time"> 04:02 AM CT, Nov. 11 </p> 
@@ -27,8 +27,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/11/t-magazine/senegal-homegrown-rice.html">In Senegal, a Return to Homegrown Rice</a> NYT: The country has remained mostly dependent on the grain’s importation since colonization in the 1800s. But some locals are trying to change that. 
  <p class="updated_time"> 04:00 AM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/t-magazine/scorched-burnt-rice.html">The Thrilling Dare of Scorched Rice</a> NYT: When browned on the bottom of the pot by a skilled cook, the grain is transformed into a complex delicacy, one prized by food cultures around the world. 
- <p class="updated_time"> 03:54 AM CT, Nov. 11 </p> 
- <a href="https://www.nytimes.com/live/2021/11/10/world/poland-belarus-border-migrants">E.U. Sides With Poland Over Migrants at Belarus Border</a> NYT: Western officials accuse the leader of Belarus of sending migrants to E.U. borders as retaliation for sanctions. Lithuania, which also borders Belarus, declared a state of emergency. 
  <p class="updated_time"> 03:48 AM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/10/world/europe/knoll-france-murder.html">French Court Convicts Man in the Murder of a Holocaust Survivor</a> NYT: The man, Yacine Mihoub, was sentenced to life imprisonment for killing Mireille Knoll, 85, in 2018, which judges said was a hate crime motivated by the fact that she was Jewish. 
  <p class="updated_time"> 03:43 AM CT, Nov. 11 </p> 
@@ -43,6 +41,10 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59243406?at_medium=RSS&at_campaign=KARANGA">Kyle Rittenhouse: US teen gunman's lawyers seek mistrial</a> BBC: Lawyers for Kyle Rittenhouse ask the judge to toss the murder case after he rebuked prosecutors. 
  <p class="updated_time"> 12:09 AM CT, Nov. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59238649?at_medium=RSS&at_campaign=KARANGA">Virat Kohli: India man arrested over rape threats to cricketer's daughter</a> BBC: A man has been arrested over rape threats to the daughter of Indian cricket captain Virat Kohli. 
+ <p class="updated_time"> 12:03 AM CT, Nov. 11 </p> 
+ <a href="https://www.wsj.com/articles/f-w-de-klerk-south-african-president-who-helped-end-apartheid-dies-at-85-11636628616">De Klerk, Last President of Apartheid South Africa, Dies</a> WSJ: The last leader of South Africa’s white-minority government, who formed a prickly relationship with the country’s first black president, died in his home in Cape Town following a struggle with cancer. He was 85. 
+ <p class="updated_time"> 11:06 PM CT, Nov. 10 </p> 
+ <a href="https://www.wsj.com/articles/captain-america-protester-gets-nearly-six-years-in-prison-for-hong-kong-mall-chants-11636625197">'Captain America' Protester Gets Prison Time for Hong Kong Mall Chants</a> WSJ: A man who chanted protest slogans in Hong Kong’s shopping malls after China imposed a national security law was sentenced to five years and nine months in prison after being found guilty of promoting independence. 
  <p class="updated_time"> 10:58 PM CT, Nov. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59243836?at_medium=RSS&at_campaign=KARANGA">China: North-eastern city sees highest snowfall in 116 years</a> BBC: It comes amid concerns about keeping homes warm in an area that was earlier hit by outages. 
  <p class="updated_time"> 10:51 PM CT, Nov. 10 </p> 
@@ -153,8 +155,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/09/world/asia/afghan-pilots-tajikistan-taliban.html">Afghan Pilots Who Escaped Taliban Are Flown Out of Tajikistan</a> NYT: More than 140 Afghan Air Force pilots and crew members were evacuated to the United Arab Emirates three months after flying into Tajikistan to escape the Taliban. 
  <p class="updated_time"> 09:32 AM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/travel/fly-fishing-italy.html">The Joy of Fly Fishing in Italy</a> NYT: Italy is not often mentioned as a fly fishing destination, but the wonder of Italian alpine fishing is now making itself known. 
- <p class="updated_time"> 08:31 AM CT, Nov. 10 </p> 
- <a href="https://www.wsj.com/articles/china-weighs-moderating-property-curbs-to-help-troubled-developers-unload-assets-11636572669">China Weighs Moderating Property Curbs to Help Developers Unload Assets</a> WSJ: Beijing is wary that financial risks could spread through the economy as it tries to rein in the real-estate sector. 
  <p class="updated_time"> 07:32 AM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/09/world/africa/ethiopia-united-nations.html">Ethiopia Seizes 16 UN Workers Amid Efforts to Halt Tigray War</a> NYT: The detentions aggravated the already tense relations between the United Nations and the Ethiopian government over war and hunger in the country’s rebel-held Tigray region. 
  <p class="updated_time"> 07:13 AM CT, Nov. 10 </p> 
@@ -191,10 +191,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/09/world/asia/pakistan-taliban-cease-fire.html">Pakistan Reaches Cease-Fire With Resurgent Taliban Militants</a> NYT: The Pakistani government said it would offer amnesty for insurgents who are willing to disarm. 
  <p class="updated_time"> 02:44 PM CT, Nov. 09 </p> 
  <a href="https://www.nytimes.com/2021/11/09/world/americas/canada-pfizer-booster-adults.html">Canada Approves Pfizer Boosters for Adults</a> NYT: Some provinces have already started to offer booster shots to higher-risk populations. Tuesday’s announcement standardizes eligibility criteria nationwide. 
- <p class="updated_time"> 01:52 PM CT, Nov. 09 </p> 
- <a href="https://www.nytimes.com/2021/11/09/world/asia/india-hospital-fire.html">India Hospital Fire Leaves at Least 4 Infants Dead</a> NYT: The blaze, in a hospital in central India on Monday night, was the latest in a series of deadly fires at health care centers in recent months. 
- <p class="updated_time"> 07:05 AM CT, Nov. 09 </p> 
- <a href="https://www.nytimes.com/2021/11/09/us/myrtle-beach-trash-can-ireland.html">A Trash Can From Myrtle Beach Washed Up in Ireland</a> NYT: “It reminded me straight away of maybe like a message in a bottle type scenario,” said Keith McGreal, who discovered the bin on Sunday afternoon while strolling on a beach with his family. 
 
 
 </details>
@@ -202,10 +198,12 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:16 AM CT, Nov. 11 </p> 
+ <a href="https://www.politico.com/newsletters/playbook/2021/11/11/the-other-big-intra-democratic-fight-495065">POLITICO Playbook: The other big intra-Democratic fight</a> Politico: And the inflation jump turns the temperature up. 
  <p class="updated_time"> 04:30 AM CT, Nov. 11 </p> 
  <a href="https://www.politico.com/news/2021/11/11/bidens-voters-recovery-conundrum-520771">Biden's ‘I feel your pain’ conundrum</a> Politico: It’s tripped up the last two Democratic presidents and could trip up Biden too: How to sell a recovery when most voters aren’t feeling it. 
  <p class="updated_time"> 04:30 AM CT, Nov. 11 </p> 
- <a href="https://www.politico.com/news/2021/11/11/new-york-shrinking-offices-housing-520318">Too many empty offices. Not enough housing. Can cities fix one with the other?</a> Politico: After Covid, New York and other cities are weighing whether to convert empty office buildings into affordable housing. 
+ <a href="https://www.politico.com/news/2021/11/11/new-york-shrinking-offices-housing-520318">Cities with empty offices see new room to expand housing</a> Politico: After Covid, New York and other cities are weighing whether to convert empty office buildings into affordable housing. 
  <p class="updated_time"> 04:30 AM CT, Nov. 11 </p> 
  <a href="https://www.politico.com/news/agenda/2021/11/11/congress-long-term-care-520649">Opinion | ‘We Don’t Fix This Because We Just Don’t Care About Old People’</a> Politico: Lawmakers are proposing billions of dollars to strengthen long-term care. It isn’t nearly enough. 
  <p class="updated_time"> 04:06 AM CT, Nov. 11 </p> 
@@ -408,8 +406,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/08/voting-rule-democrats-antitrust-519767">‘Zombies’ to the rescue: The arcane voting rule that could save Dems’ antitrust agenda</a> Politico: Former Democratic Commissioner Rohit Chopra left behind more than a dozen motions he wants the Federal Trade Commission to carry out, spawning a debate on whether his votes should still count. 
  <p class="updated_time"> 04:30 AM CT, Nov. 08 </p> 
  <a href="https://www.politico.com/news/2021/11/08/republican-wave-house-congress-520238">Republican wave builds to take back the House</a> Politico: A combination of aggressive redistricting, strong fundraising and a favorable political environment has the GOP excited about its prospects in next year's midterms. 
- <p class="updated_time"> 04:30 AM CT, Nov. 08 </p> 
- <a href="https://www.politico.com/news/2021/11/08/va-reject-medical-marijuana-veterans-519757">VA rejects cannabis research as veterans plead for medical pot</a> Politico: Scientists say the VA and the DOJ have a history of stonewalling anyone who wants to conduct trials of plant-derived cannabis for therapeutic purposes. 
  <p class="updated_time"> 04:30 AM CT, Nov. 08 </p> 
  <a href="https://www.politico.com/news/2021/11/08/democratic-senate-majority-dicey-virginia-520214">The Democratic Senate majority was already dicey. Then came Virginia.</a> Politico: A favorable map is not going to be enough to save Senate Dems. But they might get help from a few tarnished GOP candidates. 
  <p class="updated_time"> 11:17 AM CT, Nov. 07 </p> 
