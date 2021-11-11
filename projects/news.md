@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:40 PM CT, Nov. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/business-59243606?at_medium=RSS&at_campaign=KARANGA">Elon Musk: Tesla boss sells $5bn of shares after Twitter poll</a> BBC: Part of the share sales were based on a pre-arranged trading plan set up in September. 
+ <p class="updated_time"> 10:26 PM CT, Nov. 10 </p> 
+ <a href="https://www.bbc.co.uk/news/science-environment-59243434?at_medium=RSS&at_campaign=KARANGA">COP26: Cautious welcome for unexpected US-China climate agreement</a> BBC: The world's two biggest CO2 emitters pledge to boost climate co-operation in an unexpected declaration. 
  <p class="updated_time"> 10:04 PM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/world/middleeast/israeli-covid-vaccine-children.html">Israeli Experts Approve Vaccinations for Children Ages 5 to 11 </a> NYT: Israel would become one of the first countries after the United States to authorize the Pfizer-BioNTech vaccine for children ages 5 to 11. 
  <p class="updated_time"> 10:02 PM CT, Nov. 10 </p> 
@@ -17,8 +21,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/10/world/asia/covid-china-shenyang-quarantine.html">This Chinese City Requires 28 Days of Quarantine. Then Another 28.</a> NYT: The restrictions in Shenyang are a stark example of how seriously officials are taking the country’s “zero Covid” approach to the pandemic. 
  <p class="updated_time"> 10:00 PM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/world/europe/covid-germany-cases.html">Germany Weighs New Covid Rules as Infections Reach Record Heights</a> NYT: Nearly 40,000 new cases were registered in the country on Tuesday — the third time a daily record was set within a week. “We have a real emergency situation,” a top virologist said. 
- <p class="updated_time"> 09:04 PM CT, Nov. 10 </p> 
- <a href="https://www.bbc.co.uk/news/business-59243606?at_medium=RSS&at_campaign=KARANGA">Elon Musk: Tesla boss sells $1.1bn of shares in carmaker</a> BBC: It comes days after he asked his Twitter followers whether he should sell 10% of his stake. 
  <p class="updated_time"> 08:55 PM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/live/2021/11/10/world/poland-belarus-border-migrants">E.U. Sides With Poland Over Migrants at Belarus Border</a> NYT: Western officials accuse the leader of Belarus of sending migrants to E.U. borders as retaliation for sanctions. Lithuania, which also borders Belarus, declared a state of emergency. 
  <p class="updated_time"> 08:50 PM CT, Nov. 10 </p> 
@@ -41,8 +43,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/59233799?at_medium=RSS&at_campaign=KARANGA">COP26: How much is spent supporting fossil fuels and green energy?</a> BBC: Despite green energy investment promises, many governments still financially back the fossil fuel industry. 
  <p class="updated_time"> 06:34 PM CT, Nov. 10 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59227491?at_medium=RSS&at_campaign=KARANGA">COP26: Climate activists on what change means for them</a> BBC: Climate activists from the Philippines, the UK and Argentina take questions on climate change. 
- <p class="updated_time"> 06:30 PM CT, Nov. 10 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-59238869?at_medium=RSS&at_campaign=KARANGA">COP26: China and US agree to boost climate co-operation</a> BBC: The world's two biggest CO2 emitters pledge to co-operate in an announcement at the COP26 summit. 
  <p class="updated_time"> 06:30 PM CT, Nov. 10 </p> 
  <a href="https://www.bbc.co.uk/news/uk-59238115?at_medium=RSS&at_campaign=KARANGA">Nazanin Zaghari-Ratcliffe: Husband Richard on hunger strike to urge government to help</a> BBC: Richard Ratcliffe, the husband of Iranian detainee Nazanin Zaghari-Ratcliffe, is weeks into his protest. 
  <p class="updated_time"> 06:29 PM CT, Nov. 10 </p> 
@@ -202,10 +202,14 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/10/judge-rejects-trumps-records-jan-6-committee-520768">Judge again rejects Trump’s effort to delay Jan. 6 committee’s bid for his White House records</a> Politico: The decision sharply rejected the former president’s attempt to assert executive privilege over the documents. 
  <p class="updated_time"> 09:52 PM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/us/politics/kids-vaccine-5-to-11.html">White House Estimates Almost 1 Million Younger Children Got Vaccines So Far</a> NYT: “Our goal clearly is to vaccinate as many kids as possible,” a White House official said. “The program is just getting up to full strength.” 
+ <p class="updated_time"> 09:49 PM CT, Nov. 10 </p> 
+ <a href="https://www.cnn.com/2021/11/10/politics/ed-durr-hate-speech-meeting-muslim-leaders/index.html">Muslim advocacy group says GOP state senator-elect who expressed Islamophobia in tweets 'committed to renouncing' hate speech during meeting</a> CNN: The Republican who defeated New Jersey's state Senate president last week has "committed to renouncing" hate speech amid criticism of old tweets he posted expressing Islamophobia, a Muslim advocacy group in the state said Wednesday. 
  <p class="updated_time"> 09:48 PM CT, Nov. 10 </p> 
  <a href="https://www.cnn.com/2021/11/10/politics/belarus-follow-up-sanctions/index.html">White House preparing 'follow up' sanctions on Belarus</a> CNN: The United States is preparing "follow up sanctions" designed to hold leaders in Belarus accountable for "ongoing attacks on democracy, human rights and international norms," a spokesman for the White House's National Security Council said on Wednesday. 
  <p class="updated_time"> 09:47 PM CT, Nov. 10 </p> 
  <a href="https://www.politico.com/news/2021/11/10/texas-ban-school-mask-mandate-disabilities-520760">Federal judge says Texas governor’s ban on school mask mandates violates Americans with Disabilities Act</a> Politico: The decision bars the state attorney general from enforcing the executive order issued by Republican Gov. Greg Abbott. 
+ <p class="updated_time"> 09:09 PM CT, Nov. 10 </p> 
+ <a href="https://www.cnn.com/2021/11/10/politics/trump-documents-january-6-committee-executive-privilege-case/index.html">Judge rejects another Trump attempt to slow down documents from going to House January 6 committee</a> CNN: A federal judge on Wednesday night said she would not help former President Donald Trump as he attempts to buy time as he argues to keep secret records from his presidency, pointing him instead to an appeals court to seek help. 
  <p class="updated_time"> 08:59 PM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/us/politics/swift-ruling-tests-trump-delay-tactic.html">Swift Ruling in Jan. 6 Case Tests Trump's Tactic of Delay</a> NYT: The former president has leveraged the slow judicial process in the past to thwart congressional oversight, but the Jan. 6 case may be different. 
  <p class="updated_time"> 08:30 PM CT, Nov. 10 </p> 
@@ -368,8 +372,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/09/1053817211/justice-on-the-brink-author-considers-the-impact-of-trumps-3-supreme-court-picks">'Justice on the Brink' author considers the impact of Trump's 3 Supreme Court picks</a> NPR: Pulitzer Prize-winning journalist Linda Greenhouse says the new Court has given conservatives less than they'd hoped for, though critical cases on abortion and other issues are still pending. 
  <p class="updated_time"> 01:00 PM CT, Nov. 09 </p> 
  <a href="https://www.npr.org/2021/11/09/1053929419/feel-like-you-dont-fit-in-either-political-party-heres-why">Feel like you don't fit in either political party? Here's why</a> NPR: The division is far more complicated than a split between Republicans and Democrats, according to the Pew Research Center. Here are the differences in ideology on race, economics and government. 
- <p class="updated_time"> 10:53 AM CT, Nov. 09 </p> 
- <a href="https://www.cnn.com/2021/11/09/politics/bill-nye-white-house-biden/index.html">Bill Nye teams up with White House to highlight how Biden's economic agenda will help combat climate crisis</a> CNN: Bill Nye will come to the White House on Tuesday to help President Joe Biden promote his economic agenda and highlight how it will help combat the climate crisis, a White House official tells CNN. 
  <p class="updated_time"> 10:49 AM CT, Nov. 09 </p> 
  <a href="https://www.cnn.com/2021/11/09/politics/cbo-score-timing-build-back-better/index.html">CBO says social spending bill score 'will take longer,' in potential blow to Democrats' timing</a> CNN: The timetable for President Joe Biden's social spending bill, known as Build Back Better, may have just hit a new snag. 
  <p class="updated_time"> 09:35 AM CT, Nov. 09 </p> 
@@ -396,8 +398,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/huddle/2021/11/08/recess-reverie-plus-huddle-restaurant-week-kicks-off-495014">Recess reverie (plus Huddle Restaurant Week kicks off)</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:05 AM CT, Nov. 08 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/08/big-obstacles-await-biden-after-big-win-495012">POLITICO Playbook: Big obstacles await Biden after big win</a> Politico: And midterm elections are a year from today. 
- <p class="updated_time"> 05:48 AM CT, Nov. 08 </p> 
- <a href="https://www.cnn.com/2021/11/08/politics/jill-biden-child-vaccine-tour/index.html">Jill Biden's child vaccine tour will include push for more children vaccination sites</a> CNN: First lady Jill Biden and US Surgeon General Dr. Vivek Murthy will make a push for boosting the number of Covid-19 vaccination sites for children Monday as they kick off a nationwide administration effort to encourage vaccines for the nation's youngest and newly eligible candidates. 
  <p class="updated_time"> 04:31 AM CT, Nov. 08 </p> 
  <a href="https://www.politico.com/news/2021/11/08/voting-rule-democrats-antitrust-519767">‘Zombies’ to the rescue: The arcane voting rule that could save Dems’ antitrust agenda</a> Politico: Former Democratic Commissioner Rohit Chopra left behind more than a dozen motions he wants the Federal Trade Commission to carry out, spawning a debate on whether his votes should still count. 
  <p class="updated_time"> 04:30 AM CT, Nov. 08 </p> 
