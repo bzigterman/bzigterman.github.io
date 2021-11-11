@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:04 AM CT, Nov. 11 </p> 
+ <a href="https://www.nytimes.com/2021/11/11/world/europe/covid-deaths.html">Europe's Covid Deaths Rose 10 Percent in a Week, the W.H.O. Says</a> NYT: Cases and fatalities have increased on the continent, even as they have dropped or remained stable in the rest of the world. 
+ <p class="updated_time"> 06:39 AM CT, Nov. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59246899?at_medium=RSS&at_campaign=KARANGA">Belarus threatens EU gas as bloc considers sanctions</a> BBC: The EU is reportedly preparing fresh sanctions over an escalating migrant crisis at Belarus's border. 
  <p class="updated_time"> 06:25 AM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/world/africa/fw-de-klerk-dead.html">F.W. de Klerk, Last President of Apartheid South Africa, Dies at 85</a> NYT: A prominent Afrikaner, he vehemently defended the separation of the races but later stunned his deeply divided nation, and the wider world, by reconsidering the country’s racist ways. 
  <p class="updated_time"> 06:21 AM CT, Nov. 11 </p> 
@@ -17,8 +21,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-china-59247659?at_medium=RSS&at_campaign=KARANGA">Hong Kong's 'Captain America' protester jailed under national security law</a> BBC: Ma Chun-man is sentenced to nearly six years in prison under the controversial national security law. 
  <p class="updated_time"> 05:51 AM CT, Nov. 11 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59246884?at_medium=RSS&at_campaign=KARANGA">Monster's Ball actor Coronji Calhoun Sr dies aged 30</a> BBC: Coronji Calhoun Sr played the son of Halle Berry's character in the Oscar-winning 2001 film. 
- <p class="updated_time"> 05:44 AM CT, Nov. 11 </p> 
- <a href="https://www.nytimes.com/2021/11/11/world/europe/covid-deaths.html">Europe's Covid Deaths Rose 10 Percent in a Week, the W.H.O. Says</a> NYT: Cases and fatalities have increased on the continent, even as they have dropped or remained stable in the rest of the world. 
  <p class="updated_time"> 05:42 AM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/live/2021/11/11/world/china-xi-jinping-cpc/xi-jinping-history-third-term">Eyeing his future, Xi Jinping rewrites the past.</a> NYT: Senior party officials have gathered at a closed-door meeting in Beijing to cement Mr. Xi’s dominance as he moves to claim a likely third term next year as China’s leader. 
  <p class="updated_time"> 05:38 AM CT, Nov. 11 </p> 
@@ -49,12 +51,16 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/uk-england-oxfordshire-59245679?at_medium=RSS&at_campaign=KARANGA">University of Oxford starts new Ebola vaccine trials</a> BBC: Clinical trials are under way for a new Ebola vaccine developed by the University of Oxford. 
  <p class="updated_time"> 01:58 AM CT, Nov. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59243406?at_medium=RSS&at_campaign=KARANGA">Kyle Rittenhouse: US teen gunman's lawyers seek mistrial</a> BBC: Lawyers for Kyle Rittenhouse ask the judge to toss the murder case after he rebuked prosecutors. 
+ <p class="updated_time"> 01:55 AM CT, Nov. 11 </p> 
+ <a href="https://www.wsj.com/articles/chinas-xi-gains-power-as-communist-party-designates-him-historical-figure-11636635312">China's Xi Designated a Historical Figure by Communist Party</a> WSJ: The Chinese leader has formally etched his name alongside the greatest figures in the annals of Communist Party history, paving the way for him to dominate a major reshuffling of power in the coming year and extend his rule. 
  <p class="updated_time"> 12:59 AM CT, Nov. 11 </p> 
  <a href="https://www.wsj.com/articles/captain-america-protester-gets-nearly-six-years-in-prison-for-hong-kong-mall-chants-11636625197">'Captain America' Protester Gets Prison Time for Hong Kong Mall Chants</a> WSJ: A man who chanted protest slogans in Hong Kong’s shopping malls after China imposed a national-security law was sentenced to five years and nine months in prison after being found guilty of promoting independence. 
  <p class="updated_time"> 12:09 AM CT, Nov. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59238649?at_medium=RSS&at_campaign=KARANGA">Virat Kohli: India man arrested over rape threats to cricketer's daughter</a> BBC: A man has been arrested over rape threats to the daughter of Indian cricket captain Virat Kohli. 
  <p class="updated_time"> 12:03 AM CT, Nov. 11 </p> 
  <a href="https://www.wsj.com/articles/f-w-de-klerk-south-african-president-who-helped-end-apartheid-dies-at-85-11636628616">De Klerk, Last President of Apartheid South Africa, Dies</a> WSJ: The last leader of South Africa’s white-minority government, who formed a prickly relationship with the country’s first black president, died in his home in Cape Town following a struggle with cancer. He was 85. 
+ <p class="updated_time"> 11:30 PM CT, Nov. 10 </p> 
+ <a href="https://www.wsj.com/articles/feud-at-smithfield-foods-parent-company-shows-messy-underside-of-chinese-takeover-11636626600">Feud at Smithfield Foods Shows Messy Underside of Chinese Takeover</a> WSJ: The turmoil at WH Group marks an unexpected twist for a deal that raised political concerns amid a string of attempts by Chinese companies to buy up Western producers of resources needed to feed the country’s growing appetite. 
  <p class="updated_time"> 10:58 PM CT, Nov. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59243836?at_medium=RSS&at_campaign=KARANGA">China: North-eastern city sees highest snowfall in 116 years</a> BBC: It comes amid concerns about keeping homes warm in an area that was earlier hit by outages. 
  <p class="updated_time"> 10:51 PM CT, Nov. 10 </p> 
@@ -133,8 +139,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/10/world/africa/mozambique-corruption-manuel-chang-extradition.html">Manuel Chang Will Face Corruption Charges in U.S.</a> NYT: A judge overturned the South African government’s decision to send the minister back to Mozambique, where civil society groups say his political clout will protect him. 
  <p class="updated_time"> 12:52 PM CT, Nov. 10 </p> 
  <a href="https://www.npr.org/2021/11/10/1054339705/taliban-military-pilots-amnesty">A Taliban official urges ex-Afghan military pilots to stay, protected by an amnesty</a> NPR: A government spokesman's assurances came after dozens of U.S.-trained Afghan pilots were evacuated from Tajikistan in a U.S.-brokered deal, months after they sought refuge from the Taliban there. 
- <p class="updated_time"> 12:34 PM CT, Nov. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59237413?at_medium=RSS&at_campaign=KARANGA">Belarus accused of state terrorism over migrant crisis</a> BBC: Poland's prime minister says Belarus is flying in migrants and sending them to the border. 
  <p class="updated_time"> 12:26 PM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/09/world/asia/us-holocaust-museum-china-uyghurs-report.html">U.S. Holocaust Museum Says China ‘May Be Committing Genocide’ Against Uyghurs</a> NYT: Its report found that the government’s attacks against the group of Muslims in Xinjiang had escalated and most likely included “forced sterilization, sexual violence, enslavement, torture, and forcible transfer.” 
  <p class="updated_time"> 11:50 AM CT, Nov. 10 </p> 
@@ -161,12 +165,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/science-environment-59231636?at_medium=RSS&at_campaign=KARANGA">Horse trading set to begin over agreement at COP26</a> BBC: The release of a draft text for the COP26 agreement signals the start of serious negotiations. 
  <p class="updated_time"> 05:49 AM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/world/asia/danny-fenster-myanmar.html">American Journalist Held in Myanmar Faces 2 New Charges</a> NYT: Prosecutors filed charges of terrorism and sedition against the journalist Danny Fenster, who once worked at a hard-hitting news outlet hated by Myanmar’s governing military. 
- <p class="updated_time"> 05:03 AM CT, Nov. 10 </p> 
- <a href="https://www.wsj.com/articles/russia-sends-warplanes-to-belarus-amid-fight-with-eu-over-migrants-11636560216">Russia Sends Warplanes to Belarus Amid Fight With EU Over Migrants</a> WSJ: The deployment of strategic bombers to Belarus’s airspace comes as tensions build between Belarus and Poland over a surge of migrants at their shared border and the positioning of several thousand Polish troops on the European Union’s eastern flank. 
  <p class="updated_time"> 04:00 AM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/world/asia/taiwan-europe-china.html">Europe, Taiwan Inch Closer as Distrust of Beijing Grows</a> NYT: Talks between European lawmakers and Taiwanese officials point to Europe’s increasing willingness to strengthen relations, despite Beijing’s threats. 
- <p class="updated_time"> 03:44 AM CT, Nov. 10 </p> 
- <a href="https://www.wsj.com/articles/another-covid-winter-threatens-europes-more-vulnerable-nations-11636555455">Europe's Uneven Vaccine Rollout Leaves Some Countries Reeling</a> WSJ: People in Romania and Bulgaria are dying from the virus at record rates, but elsewhere in Europe infections are at a manageable level that policy makers say are the result of a suite of restrictive policies. 
  <p class="updated_time"> 03:39 AM CT, Nov. 10 </p> 
  <a href="https://www.wsj.com/articles/evergrande-china-crisis-real-estate-developers-11636552507">China's Plan to Manage Evergrande: Take It Apart, Slowly</a> WSJ: Beijing is working on a controlled implosion of the real-estate giant, selling off some of its assets while limiting damage to home buyers and businesses involved in its unfinished projects. 
  <p class="updated_time"> 09:03 PM CT, Nov. 09 </p> 
@@ -200,8 +200,12 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/11/chinese-leaders-history-xi-520793">Chinese leaders issue official history to elevate Xi</a> Politico: The move is expected to give Xi status beside the ruling Communist Party's most important figures. 
  <p class="updated_time"> 07:02 AM CT, Nov. 11 </p> 
  <a href="https://www.politico.com/news/2021/11/11/south-africas-apartheid-president-dies-520791">South Africa’s last apartheid president F. W. de Klerk dies</a> Politico: De Klerk died after a battle against cancer at his home in the Fresnaye area of Cape Town. 
+ <p class="updated_time"> 07:01 AM CT, Nov. 11 </p> 
+ <a href="https://www.npr.org/2021/11/11/1054318577/after-judges-ruling-trump-faces-an-uphill-battle-in-dispute-with-jan-6-panel">After judge's ruling, Trump faces an uphill battle in dispute with Jan. 6 panel</a> NPR: Donald Trump is appealing the ruling that would release documents from his administration, while the committee is trying to wrap up its work by next year. 
  <p class="updated_time"> 07:00 AM CT, Nov. 11 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/11/11/just-checking-the-cbo-score-495067">Just checking the (CBO) score</a> Politico: A play-by-play preview of the day&#39;s congressional news 
+ <p class="updated_time"> 06:58 AM CT, Nov. 11 </p> 
+ <a href="https://www.cnn.com/2021/11/11/politics/high-inflation-economy-groceries-gas/index.html">Freezing Thanksgiving pies and boiling beans: How Americans are coping with rising prices</a> CNN: Though Thanksgiving is still two weeks away, Travis Moffatt and his fiancée, Britnie Walston, have already purchased three apple pies for their family dinner and socked them away in the freezer. 
  <p class="updated_time"> 06:17 AM CT, Nov. 11 </p> 
  <a href="https://www.npr.org/2021/11/11/1054614958/at-baltimore-port-biden-reassures-americans-about-shipping-snags-inflation">At Baltimore port, Biden reassures Americans about shipping snags, inflation</a> NPR: President Biden toured the busy Port of Baltimore Wednesday, part of his push to show he has a handle on supply chain snarls and concerns about inflation — while promoting his legislative agenda. 
  <p class="updated_time"> 06:16 AM CT, Nov. 11 </p> 
@@ -210,8 +214,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/11/politics/joe-biden-inflation-messaging/index.html">Biden forced to get real on inflation as the price of nearly everything shoots up</a> CNN: Rising consumer prices have quickly become one of the White House's most urgent concerns as Americans grow unsettled at the higher cost of goods -- and place the blame on President Joe Biden. 
  <p class="updated_time"> 06:05 AM CT, Nov. 11 </p> 
  <a href="https://www.cnn.com/2021/11/11/politics/trump-2022-strategy/index.html">Trump allies are pushing for 'stay away' strategy in some 2022 races</a> CNN: Donald Trump is expected to maintain a prolific schedule of campaign rallies to boost Republicans in next year's midterms. But on the heels of Gov.-elect Glenn Youngkin's victory in Virginia -- accomplished without a single Trump cameo -- some of the former President's aides and allies warn there could be parts of the country where he may now be encouraged to keep his distance. 
- <p class="updated_time"> 05:00 AM CT, Nov. 11 </p> 
- <a href="https://www.cnn.com/2021/11/11/politics/high-inflation-economy-groceries-gas/index.html">Freezing Thanksgiving pies and boiling beans: How Americans are coping with rising prices</a> CNN: Though Thanksgiving is still two weeks away, Travis Moffatt and his fiancée, Britnie Walston, have already purchased three apple pies for their family dinner and socked them away in the freezer. 
  <p class="updated_time"> 04:30 AM CT, Nov. 11 </p> 
  <a href="https://www.politico.com/news/2021/11/11/bidens-voters-recovery-conundrum-520771">Biden's ‘I feel your pain’ conundrum</a> Politico: It’s tripped up the last two Democratic presidents and could trip up Biden too: How to sell a recovery when most voters aren’t feeling it. 
  <p class="updated_time"> 04:30 AM CT, Nov. 11 </p> 
@@ -350,8 +352,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/10/1054175407/the-super-rich-push-back-against-calls-for-a-wealth-tax">The super rich push back against calls for a wealth tax</a> NPR: During the pandemic U.S. billionaires saw their wealth increase by more than $1 trillion. The majority of that increase is not taxed because their net worth is tied up in the stocks they own. 
  <p class="updated_time"> 04:00 AM CT, Nov. 10 </p> 
  <a href="https://www.npr.org/2021/11/10/1054137225/nearly-1-million-kids-ages-5-11-will-have-their-first-covid-shots-by-the-end-of-">Nearly 1 million kids ages 5-11 will have their first COVID shots by the end of today</a> NPR: About 3% of children in the age group authorized last week to get a low-dose vaccine will have their first shots by Wednesday, according to the White House. 
- <p class="updated_time"> 12:19 AM CT, Nov. 10 </p> 
- <a href="https://www.npr.org/2021/11/10/1054138601/judge-rejects-trumps-bid-to-block-release-of-jan-6-documents">Judge rejects Trump's bid to block release of Jan. 6 documents</a> NPR: U.S. District Court Judge Tanya Chutkan said records of interest can be released to the panel overseeing the probe into the Jan. 6 riots at the U.S. Capitol. 
  <p class="updated_time"> 10:18 PM CT, Nov. 09 </p> 
  <a href="https://www.nytimes.com/2021/11/09/us/politics/trump-january-6-committee.html">Judge Rejects Trump’s Bid to Keep Papers Secret in Jan. 6 Inquiry</a> NYT: But a Trump lawyer has signaled an intent to appeal the ruling, which raises novel issues about an ex-president’s executive privilege powers. 
  <p class="updated_time"> 09:22 PM CT, Nov. 09 </p> 
