@@ -7,8 +7,14 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:57 AM CT, Nov. 11 </p> 
- <a href="https://www.nytimes.com/2021/11/11/world/europe/poland-forests-border-crisis.html">On the Ground: Migrants in Poland's Forests Are Hiding and Hurting</a> NYT: The Polish authorities have restricted access to the border, but the forests stretch past that zone, and it is there that migrants like this group of eight who have made it past the guards and the razor wire are waiting for an opportunity to continue on. 
+ <p class="updated_time"> 10:45 AM CT, Nov. 11 </p> 
+ <a href="https://www.nytimes.com/2021/11/11/world/europe/poland-forests-border-crisis.html">On the Ground: Migrants in Poland's Forests Are Hiding and Hurting</a> NYT: The forests stretch past a restricted zone, and it is there that migrants like this group of eight who have made it past the guards and the razor wire are waiting for an opportunity to continue on. 
+ <p class="updated_time"> 10:27 AM CT, Nov. 11 </p> 
+ <a href="https://www.nytimes.com/2021/11/11/world/africa/fw-de-klerk-dead.html">F.W. de Klerk, Last President of Apartheid South Africa, Dies at 85</a> NYT: A prominent Afrikaner, he vehemently defended the separation of the races but later stunned his deeply divided nation, and the wider world, by reconsidering the country’s racist ways. 
+ <p class="updated_time"> 10:19 AM CT, Nov. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59252279?at_medium=RSS&at_campaign=KARANGA">Judge says Texas school mask mandate ban violates disabled student rights</a> BBC: A US judge said the ban cannot be enforced as it violates the federal rights of disabled students. 
+ <p class="updated_time"> 10:16 AM CT, Nov. 11 </p> 
+ <a href="https://www.nytimes.com/2021/11/11/world/europe/belarus-poland-border-russia.html">Russia Reacts to Belarus-Poland Border Crisis</a> NYT: President Vladimir Putin’s spokesman said that Russia was doing all it could to resolve the situation, but he also warned of the possibility of a military escalation, according to the Russian state news agency RIA Novosti. 
  <p class="updated_time"> 09:57 AM CT, Nov. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59247115?at_medium=RSS&at_campaign=KARANGA">FW de Klerk: South Africa's former president dies at 85</a> BBC: FW de Klerk was the last white person to lead the nation and was key in the transition to democracy. 
  <p class="updated_time"> 09:35 AM CT, Nov. 11 </p> 
@@ -21,8 +27,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59246899?at_medium=RSS&at_campaign=KARANGA">Belarus threatens EU gas as bloc considers sanctions</a> BBC: The EU is reportedly preparing fresh sanctions over an escalating migrant crisis at Belarus's border. 
  <p class="updated_time"> 08:38 AM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/world/europe/poland-independence-day-far-right-protests.html">As Poland Celebrates Its Independence Day, Far-Right Groups Stage Rallies</a> NYT: In downtown Warsaw, tens of thousands of demonstrators started their march by lighting red flares and singing the national anthem. 
- <p class="updated_time"> 08:27 AM CT, Nov. 11 </p> 
- <a href="https://www.nytimes.com/2021/11/11/world/africa/fw-de-klerk-dead.html">F.W. de Klerk, Last President of Apartheid South Africa, Dies at 85</a> NYT: A prominent Afrikaner, he vehemently defended the separation of the races but later stunned his deeply divided nation, and the wider world, by reconsidering the country’s racist ways. 
  <p class="updated_time"> 07:59 AM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/world/africa/covid-uganda-schools.html">Dropouts and Menial Jobs: The Effects of Keeping Uganda's Schools Closed</a> NYT: With 10 million young people in Uganda still unable to attend classes in person, the impact for many has been devastating. 
  <p class="updated_time"> 07:57 AM CT, Nov. 11 </p> 
@@ -45,6 +49,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/09/world/europe/poland-belarus-border-crisis.html">E.U. Blames Belarus for Migrant Crisis at Poland Border</a> NYT: Poland has massed troops at the border, the European Union’s eastern frontier, to keep migrants camped there from crossing into the country. 
  <p class="updated_time"> 04:21 AM CT, Nov. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59229935?at_medium=RSS&at_campaign=KARANGA">China's Xi Jinping cements his status with historic resolution</a> BBC: Mr Xi is only the third leader to issue a "historical resolution" after Mao Zedong and Deng Xiaoping. 
+ <p class="updated_time"> 04:08 AM CT, Nov. 11 </p> 
+ <a href="https://www.wsj.com/articles/south-africa-cant-afford-to-quit-coal-will-rich-countries-pay-for-the-transition-11636643299">South Africa Can't Afford to Quit Coal.  Will Rich Countries Pay for the Transition?</a> WSJ: Pressure to end coal-powered electricity generation has fired tensions between already-industrialized nations and developing ones, which have poured billions into coal infrastructure. South Africa is the most dependent on the fuel of any G-20 country. 
  <p class="updated_time"> 04:03 AM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/t-magazine/mexico-rice-conquest.html">Tracing Mexico’s Complicated Relationship With Rice</a> NYT: Having arrived in the country via the Spanish Conquest, the grain’s presence poses the question: What’s native, and what isn’t, when it comes to a nation’s culinary history? 
  <p class="updated_time"> 04:02 AM CT, Nov. 11 </p> 
@@ -65,8 +71,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/10/world/buttigieg-gasoline-diesel-vehicles.html">Pete Buttigieg Says U.S. 'Focused' on Reducing Auto Emissions</a> NYT: At the Glasgow climate summit, Mr. Buttigieg said the conversation surrounding climate change should focus on whether Earth can sustain life. 
  <p class="updated_time"> 02:32 AM CT, Nov. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59244091?at_medium=RSS&at_campaign=KARANGA">Alec Baldwin film tragedy: Crew member sues for negligence</a> BBC: An electrician alleges negligence in the incident in which cinematographer Halyna Hutchins died. 
- <p class="updated_time"> 02:29 AM CT, Nov. 11 </p> 
- <a href="https://www.bbc.co.uk/news/uk-england-oxfordshire-59245679?at_medium=RSS&at_campaign=KARANGA">University of Oxford starts new Ebola vaccine trials</a> BBC: Clinical trials are under way for a new Ebola vaccine developed by the University of Oxford. 
  <p class="updated_time"> 02:00 AM CT, Nov. 11 </p> 
  <a href="https://www.wsj.com/articles/chinas-coal-shortage-threatens-farmers-in-india-and-truckers-in-south-korea-11636635601">China's Coal Shortage Threatens Farmers in India and Truckers in South Korea</a> WSJ: The countries rely on Chinese exports of urea, which is extracted from coal, for fertilizer and running diesel vehicles. 
  <p class="updated_time"> 01:58 AM CT, Nov. 11 </p> 
@@ -75,8 +79,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/captain-america-protester-gets-nearly-six-years-in-prison-for-hong-kong-mall-chants-11636625197">'Captain America' Protester Gets Prison Time for Hong Kong Mall Chants</a> WSJ: A man who chanted protest slogans in Hong Kong’s shopping malls after China imposed a national-security law was sentenced to five years and nine months in prison after being found guilty of promoting independence. 
  <p class="updated_time"> 12:09 AM CT, Nov. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59238649?at_medium=RSS&at_campaign=KARANGA">Virat Kohli: India man arrested over rape threats to cricketer's daughter</a> BBC: A man has been arrested over rape threats to the daughter of Indian cricket captain Virat Kohli. 
- <p class="updated_time"> 11:30 PM CT, Nov. 10 </p> 
- <a href="https://www.wsj.com/articles/feud-at-smithfield-foods-parent-company-shows-messy-underside-of-chinese-takeover-11636626600">Feud at Smithfield Foods Shows Messy Underside of Chinese Takeover</a> WSJ: The turmoil at WH Group marks an unexpected twist for a deal that raised political concerns amid a string of attempts by Chinese companies to buy up Western producers of resources needed to feed the country’s growing appetite. 
  <p class="updated_time"> 10:58 PM CT, Nov. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59243836?at_medium=RSS&at_campaign=KARANGA">China: North-eastern city sees highest snowfall in 116 years</a> BBC: It comes amid concerns about keeping homes warm in an area that was earlier hit by outages. 
  <p class="updated_time"> 10:51 PM CT, Nov. 10 </p> 
@@ -198,8 +200,14 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
- <p class="updated_time"> 10:02 AM CT, Nov. 11 </p> 
+ <p class="updated_time"> 10:36 AM CT, Nov. 11 </p> 
+ <a href="https://www.cnn.com/2021/11/11/politics/trump-nixon-supreme-court-analysis-biskupic/index.html">Supreme Court's Watergate-era rulings against Nixon may end Trump's executive privilege claims</a> CNN: Former President Donald Trump's attempt to withhold records from the House of Representatives related to the January 6 US Capitol attack based on executive privilege -- a claim rejected by President Joe Biden -- would present the US Supreme Court with a novel legal dilemma. 
+ <p class="updated_time"> 10:17 AM CT, Nov. 11 </p> 
  <a href="https://www.cnn.com/2021/11/11/politics/xi-jinping-joe-biden-virtual-summit/index.html">Biden expected to hold virtual summit with Chinese President Xi Jinping on Monday</a> CNN: President Joe Biden's highly anticipated virtual summit with Chinese President Xi Jinping is expected to take place on Monday, people familiar with the matter say. 
+ <p class="updated_time"> 10:07 AM CT, Nov. 11 </p> 
+ <a href="https://www.cnn.com/2021/11/11/politics/reparations-movement-race-deconstructed-newsletter/index.html">Reparations legislation has slowed down in Washington. But at the state and local level, initiatives are ramping up</a> CNN: A version of this story appeared in CNN's Race Deconstructed newsletter. To get it in your inbox every week, sign up for free here. 
+ <p class="updated_time"> 10:01 AM CT, Nov. 11 </p> 
+ <a href="https://www.cnn.com/2021/11/11/politics/national-medal-of-honor-museum/index.html">Presidents Obama, Bush and Clinton in new PSA urge Americans to support National Medal of Honor Museum </a> CNN: Former Presidents Bill Clinton, George W. Bush and Barack Obama are asking Americans for support to build a national museum to recognize Medal of Honor recipients. 
  <p class="updated_time"> 09:43 AM CT, Nov. 11 </p> 
  <a href="https://www.cnn.com/2021/11/11/politics/sarah-sanders-donald-trump-arkansas/index.html">Sarah Sanders is well on her way to being the next governor of Arkansas</a> CNN: If you need evidence of former President Donald Trump's stranglehold on the Republican Party, you need look no further than what is going on in Arkansas at the moment. 
  <p class="updated_time"> 09:21 AM CT, Nov. 11 </p> 
@@ -230,8 +238,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/11/new-york-shrinking-offices-housing-520318">Cities with empty offices see new room to expand housing</a> Politico: After Covid, New York and other cities are weighing whether to convert empty office buildings into affordable housing. 
  <p class="updated_time"> 04:30 AM CT, Nov. 11 </p> 
  <a href="https://www.politico.com/news/agenda/2021/11/11/congress-long-term-care-520649">Opinion | ‘We Don’t Fix This Because We Just Don’t Care About Old People’</a> Politico: Lawmakers are proposing billions of dollars to strengthen long-term care. It isn’t nearly enough. 
- <p class="updated_time"> 04:07 AM CT, Nov. 11 </p> 
- <a href="https://www.cnn.com/2021/11/11/politics/trump-nixon-supreme-court-analysis-biskupic/index.html">Supreme Court's Watergate-era rulings against Nixon may end Trump's executive privilege claims</a> CNN: Former President Donald Trump's attempt to withhold records from the House of Representatives related to the January 6 US Capitol attack based on executive privilege -- a claim rejected by President Joe Biden -- would present the US Supreme Court with a novel legal dilemma. 
  <p class="updated_time"> 04:06 AM CT, Nov. 11 </p> 
  <a href="https://www.npr.org/2021/11/11/1054615028/is-masculinity-under-attack-sen-hawley-wants-to-defend-the-men-of-america">Is masculinity under attack? Sen. Hawley wants to defend the men of America</a> NPR: NPR's Steve Inskeep talks to Kristin Kobes Du Mez, a gender studies professor at Calvin University and author of Jesus and John Wayne, about using masculinity as a political issue. 
  <p class="updated_time"> 04:06 AM CT, Nov. 11 </p> 
@@ -320,8 +326,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/10/us/politics/fairlamb-jan-6-riot.html">Scott Fairlamb Sentenced for Assaulting Officer on Jan. 6</a> NYT: The sentence given to Scott Fairlamb, a former New Jersey gym owner, is the most severe so far for any of the more 650 people charged in the Jan. 6 attack. 
  <p class="updated_time"> 12:16 PM CT, Nov. 10 </p> 
  <a href="https://www.cnn.com/2021/11/10/politics/appeals-process-trump-january-6-documents/index.html">The legal fight over Trump's White House documents: What's next</a> CNN: A federal judge on Tuesday slammed former President Donald Trump's attempt to keep White House documents from the hands of the House committee investigating the events leading up to and on January 6. 
- <p class="updated_time"> 12:00 PM CT, Nov. 10 </p> 
- <a href="https://www.cnn.com/2021/11/10/politics/health-insurance-premium-costs/index.html">Family health care coverage at work tops $22,000 a year</a> CNN: Getting family health insurance on the job now costs workers and their employers more than $22,000 a year, on average. And companies have not been able to do much to make coverage more affordable, even though the coronavirus pandemic has reinforced the importance of health benefits. 
  <p class="updated_time"> 11:45 AM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/us/politics/blinken-johnson-johnson-vaccine-covax.html">U.S. Has Deal to Send J.&J. Covid Vaccine to Conflict Zones, Blinken Says</a> NYT: Secretary of State Antony J. Blinken stressed the need to extend vaccine access to people living in areas unreachable by government-run programs. 
  <p class="updated_time"> 11:35 AM CT, Nov. 10 </p> 
@@ -330,8 +334,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/10/politics/joe-biden-inflation/index.html">Biden on inflation report: 'Reversing this trend is a top priority for me'</a> CNN: President Joe Biden said Wednesday that inflation statistics showing America's prices are surging more than they have in 30 years are proof that there is "more work to do before our economy is back to normal." 
  <p class="updated_time"> 10:02 AM CT, Nov. 10 </p> 
  <a href="https://www.cnn.com/2021/11/10/politics/justin-trudeau-joe-biden-andres-manuel-lopez-obrador/index.html">Biden to meet with Trudeau and López Obrador for first US-Canada-Mexico summit since 2016</a> CNN: Canadian Prime Minister Justin Trudeau and Mexican President Andrés Manuel López Obrador will come to the White House on November 18 for a summit with President Joe Biden, the first North American Leaders' Summit since 2016. 
- <p class="updated_time"> 09:53 AM CT, Nov. 10 </p> 
- <a href="https://www.cnn.com/2021/11/10/politics/qanon-shaman-jacob-chansley-doj-sentencing-recommendation/index.html">Prosecutors seek 4+ years in prison for 'QAnon Shaman' in attempt to set example</a> CNN: The Justice Department is asking for the so-called QAnon Shaman, who wore a headdress and posed shirtless on the Senate floor during the siege of the US Capitol, to be sentenced to a prison term of more than four years, the longest incarceration prosecutors have asked for any guilty January 6 defendant so far, according to a new court filing. 
  <p class="updated_time"> 08:12 AM CT, Nov. 10 </p> 
  <a href="https://www.cnn.com/2021/11/10/politics/biden-jj-covid-vaccine-conflict-zones/index.html">Biden administration announces deal to provide J&J Covid-19 vaccine to people in conflict zones and humanitarian settings</a> CNN: The Biden administration will announce on Wednesday a new deal it brokered with Johnson & Johnson and Covax to provide J&J's Covid-19 vaccine to people in conflict zones and other humanitarian settings where government vaccine campaigns cannot reach, a White House official told CNN. 
  <p class="updated_time"> 07:35 AM CT, Nov. 10 </p> 
