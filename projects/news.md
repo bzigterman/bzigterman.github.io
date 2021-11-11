@@ -51,14 +51,14 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59244091?at_medium=RSS&at_campaign=KARANGA">Alec Baldwin film tragedy: Crew member sues for negligence</a> BBC: An electrician alleges negligence in the incident in which cinematographer Halyna Hutchins died. 
  <p class="updated_time"> 02:29 AM CT, Nov. 11 </p> 
  <a href="https://www.bbc.co.uk/news/uk-england-oxfordshire-59245679?at_medium=RSS&at_campaign=KARANGA">University of Oxford starts new Ebola vaccine trials</a> BBC: Clinical trials are under way for a new Ebola vaccine developed by the University of Oxford. 
+ <p class="updated_time"> 02:27 AM CT, Nov. 11 </p> 
+ <a href="https://www.wsj.com/articles/chinas-xi-gains-power-as-communist-party-designates-him-historical-figure-11636635312">China's Xi Designated a Historical Figure by Communist Party</a> WSJ: The Chinese leader has formally etched his name alongside the greatest figures in the annals of Communist Party history, paving the way for him to dominate a major reshuffling of power in the coming year and extend his rule. 
  <p class="updated_time"> 02:06 AM CT, Nov. 11 </p> 
  <a href="https://www.wsj.com/articles/high-energy-prices-likely-to-mean-less-oil-demand-this-year-opec-says-11636635602">High Energy Prices Likely to Mean Less Oil Demand This Year, OPEC Says</a> WSJ: Soaring fuel costs amid a global energy crunch were showing signs of weighing on demand, said the Organization of the Petroleum Exporting Countries, and weaker than expected demand for oil in China and India was now likely. 
  <p class="updated_time"> 02:00 AM CT, Nov. 11 </p> 
  <a href="https://www.wsj.com/articles/chinas-coal-shortage-threatens-farmers-in-india-and-truckers-in-south-korea-11636635601">China's Coal Shortage Threatens Farmers in India and Truckers in South Korea</a> WSJ: The countries rely on Chinese exports of urea, which is extracted from coal, for fertilizer and running diesel vehicles. 
  <p class="updated_time"> 01:58 AM CT, Nov. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59243406?at_medium=RSS&at_campaign=KARANGA">Kyle Rittenhouse: US teen gunman's lawyers seek mistrial</a> BBC: Lawyers for Kyle Rittenhouse ask the judge to toss the murder case after he rebuked prosecutors. 
- <p class="updated_time"> 01:55 AM CT, Nov. 11 </p> 
- <a href="https://www.wsj.com/articles/chinas-xi-gains-power-as-communist-party-designates-him-historical-figure-11636635312">China's Xi Designated a Historical Figure by Communist Party</a> WSJ: The Chinese leader has formally etched his name alongside the greatest figures in the annals of Communist Party history, paving the way for him to dominate a major reshuffling of power in the coming year and extend his rule. 
  <p class="updated_time"> 12:59 AM CT, Nov. 11 </p> 
  <a href="https://www.wsj.com/articles/captain-america-protester-gets-nearly-six-years-in-prison-for-hong-kong-mall-chants-11636625197">'Captain America' Protester Gets Prison Time for Hong Kong Mall Chants</a> WSJ: A man who chanted protest slogans in Hong Kong’s shopping malls after China imposed a national-security law was sentenced to five years and nine months in prison after being found guilty of promoting independence. 
  <p class="updated_time"> 12:09 AM CT, Nov. 11 </p> 
@@ -328,8 +328,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/10/us/politics/blinken-johnson-johnson-vaccine-covax.html">U.S. Has Deal to Send J.&J. Covid Vaccine to Conflict Zones, Blinken Says</a> NYT: Secretary of State Antony J. Blinken stressed the need to extend vaccine access to people living in areas unreachable by government-run programs. 
  <p class="updated_time"> 11:35 AM CT, Nov. 10 </p> 
  <a href="https://www.politico.com/news/2021/11/10/study-fox-viewers-covid-falsehoods-520591">Study: Fox viewers more likely to believe Covid falsehoods</a> Politico: The most widely-believed falsehood is about the government exaggerating Covid deaths. 
- <p class="updated_time"> 10:39 AM CT, Nov. 10 </p> 
- <a href="https://www.politico.com/news/2021/11/10/steele-dossier-source-pleads-not-guilty-520580">Steele dossier source pleads not guilty</a> Politico: Judge sets April trial for Igor Danchenko on charges of lying to FBI. 
  <p class="updated_time"> 10:13 AM CT, Nov. 10 </p> 
  <a href="https://www.cnn.com/2021/11/10/politics/joe-biden-inflation/index.html">Biden on inflation report: 'Reversing this trend is a top priority for me'</a> CNN: President Joe Biden said Wednesday that inflation statistics showing America's prices are surging more than they have in 30 years are proof that there is "more work to do before our economy is back to normal." 
  <p class="updated_time"> 10:02 AM CT, Nov. 10 </p> 
