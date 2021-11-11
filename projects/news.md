@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:43 PM CT, Nov. 10 </p> 
+ <a href="https://www.nytimes.com/live/2021/11/10/world/poland-belarus-border-migrants">E.U. Sides With Poland Over Migrants at Belarus Border</a> NYT: Western officials accuse the leader of Belarus of sending migrants to E.U. borders as retaliation for sanctions. Lithuania, which also borders Belarus, declared a state of emergency. 
  <p class="updated_time"> 08:28 PM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/world/americas/brazil-bolsonaro-liberal-party.html">Bolsonaro Joins a Centrist Party in Brazil Ahead of 2022 Re-election Bid</a> NYT: President Jair Bolsonaro, who has not belonged to any political party for two years, is joining the centrist Liberals, they said on Wednesday. 
  <p class="updated_time"> 08:13 PM CT, Nov. 10 </p> 
@@ -33,8 +35,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/uk-59238115?at_medium=RSS&at_campaign=KARANGA">Nazanin Zaghari-Ratcliffe: Husband Richard on hunger strike to urge government to help</a> BBC: Richard Ratcliffe, the husband of Iranian detainee Nazanin Zaghari-Ratcliffe, is weeks into his protest. 
  <p class="updated_time"> 06:29 PM CT, Nov. 10 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59240676?at_medium=RSS&at_campaign=KARANGA">Himalayan village split in two by climate change</a> BBC: In Kumik, in India's northern Ladakh region, there is a serious water crisis, with some residents forced to abandon their homes and move elsewhere. 
- <p class="updated_time"> 06:26 PM CT, Nov. 10 </p> 
- <a href="https://www.nytimes.com/live/2021/11/10/world/poland-belarus-border-migrants">E.U. Sides With Poland Over Migrants at Belarus Border</a> NYT: Western officials accuse the leader of Belarus of sending migrants to E.U. borders as retaliation for sanctions. Lithuania, which also borders Belarus, declared a state of emergency. 
  <p class="updated_time"> 06:21 PM CT, Nov. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59234871?at_medium=RSS&at_campaign=KARANGA">The African migrants running a food bank in Sicily</a> BBC: Undocumented people in Italy struggling for money during the Covid pandemic are not entitled to aid. 
  <p class="updated_time"> 06:13 PM CT, Nov. 10 </p> 
@@ -70,7 +70,7 @@ permalink: /projects/news/
  <p class="updated_time"> 03:56 PM CT, Nov. 10 </p> 
  <a href="https://www.npr.org/2021/11/10/1054428157/in-afghanistan-the-threat-of-widespread-famine-looms-as-drought-and-hunger-conti">In Afghanistan, the threat of widespread famine looms as drought and hunger continues</a> NPR: NPR's Audie Cornish talks with reporter Jane Ferguson from PBS Newshour about her recent trip into Afghanistan. 
  <p class="updated_time"> 03:54 PM CT, Nov. 10 </p> 
- <a href="https://www.nytimes.com/2021/11/10/world/middleeast/migrants-beaten-belarus-border.html">Migrants Say They Face Abuse on Both Sides of Belarus Border</a> NYT: Stories are emerging of the authorities in Belarus, Lithuania and Poland abusing asylum seekers from the Middle East and using them as political pawns. 
+ <a href="https://www.nytimes.com/2021/11/10/world/middleeast/migrants-belarus-border-abuse.html">Migrants Say They Face Abuse on Both Sides of Belarus Border</a> NYT: Stories are emerging of the authorities in Belarus, Lithuania and Poland abusing asylum seekers from the Middle East and using them as political pawns. 
  <p class="updated_time"> 03:45 PM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/theater/little-amal-the-walk.html">Little Amal, a Refugee Puppet, Looks for Home</a> NYT: In “The Walk,” a 12-foot tall, 9-year-old Syrian girl named Amal trekked from Turkey to Britain to find her mother. In a politically divided continent, were any minds changed? 
  <p class="updated_time"> 03:37 PM CT, Nov. 10 </p> 
@@ -198,6 +198,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:47 PM CT, Nov. 10 </p> 
+ <a href="https://www.politico.com/news/2021/11/10/texas-ban-school-mask-mandate-disabilities-520760">Federal judge says Texas governor’s ban on school mask mandates violates Americans with Disabilities Act</a> Politico: The decision bars the state attorney general from enforcing the executive order issued by Republican Gov. Greg Abbott. 
  <p class="updated_time"> 08:30 PM CT, Nov. 10 </p> 
  <a href="https://www.politico.com/news/2021/11/10/flint-water-lead-lawsuit-520747">Judge OKs $626 million settlement in Flint water litigation</a> Politico: The deal will benefit Flint children who were exposed to the water, adults who can show an injury, certain business owners and anyone who paid water bills. 
  <p class="updated_time"> 08:13 PM CT, Nov. 10 </p> 
@@ -326,8 +328,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/10/1054175407/the-super-rich-push-back-against-calls-for-a-wealth-tax">The super rich push back against calls for a wealth tax</a> NPR: During the pandemic U.S. billionaires saw their wealth increase by more than $1 trillion. The majority of that increase is not taxed because their net worth is tied up in the stocks they own. 
  <p class="updated_time"> 04:00 AM CT, Nov. 10 </p> 
  <a href="https://www.npr.org/2021/11/10/1054137225/nearly-1-million-kids-ages-5-11-will-have-their-first-covid-shots-by-the-end-of-">Nearly 1 million kids ages 5-11 will have their first COVID shots by the end of today</a> NPR: About 3% of children in the age group authorized last week to get a low-dose vaccine will have their first shots by Wednesday, according to the White House. 
- <p class="updated_time"> 12:26 AM CT, Nov. 10 </p> 
- <a href="https://www.politico.com/news/2021/11/10/jan6-shaman-sentencing-recommendation-520570">51-month sentence urged for ‘QAnon Shaman’ Jacob Chansley</a> Politico: “Defendant Chansley’s now-famous criminal acts have made him the public face of the Capitol riot,” prosecutors said. 
  <p class="updated_time"> 12:19 AM CT, Nov. 10 </p> 
  <a href="https://www.npr.org/2021/11/10/1054138601/judge-rejects-trumps-bid-to-block-release-of-jan-6-documents">Judge rejects Trump's bid to block release of Jan. 6 documents</a> NPR: U.S. District Court Judge Tanya Chutkan said records of interest can be released to the panel overseeing the probe into the Jan. 6 riots at the U.S. Capitol. 
  <p class="updated_time"> 11:56 PM CT, Nov. 09 </p> 
