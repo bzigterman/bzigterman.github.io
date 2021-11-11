@@ -7,14 +7,16 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:25 PM CT, Nov. 11 </p> 
+ <a href="https://www.nytimes.com/live/2021/11/11/world/belarus-poland-border-migrants">Live Updates: East-West Clash Over Belarus Migrant Crisis Spills Into U.N. Security Council</a> NYT: A Russian ambassador accused European powers of callous hypocrisy for not allowing thousands of desperate migrants to cross from Belarus into European Union member states. Dangerous cold is setting in. 
+ <p class="updated_time"> 05:24 PM CT, Nov. 11 </p> 
+ <a href="https://www.nytimes.com/2021/11/11/world/who-is-aleksandr-g-lukashenko.html">Who Is Aleksandr Lukashenko? Here's What You Need to Know</a> NYT: A migrant crisis on the border with Poland has put the Belarusian president at the center of a clash roiling Europe. 
+ <p class="updated_time"> 05:12 PM CT, Nov. 11 </p> 
+ <a href="https://www.nytimes.com/2021/11/11/world/europe/un-security-council.html">Belarus-Poland Clash Spills Into U.N. Security Council</a> NYT: The United States joined several countries in a statement condemning Belarus, but the Russian envoy dismissed their criticism as politically motivated hypocrisy. 
  <p class="updated_time"> 05:07 PM CT, Nov. 11 </p> 
  <a href="https://www.bbc.co.uk/news/uk-politics-59255708?at_medium=RSS&at_campaign=KARANGA">Iran nuclear deal: UK urges Iran to back plan to revive agreement</a> BBC: Iran wants to see economic sanctions lifted, but the West wants Iran to first reduce uranium stocks. 
- <p class="updated_time"> 05:06 PM CT, Nov. 11 </p> 
- <a href="https://www.nytimes.com/live/2021/11/11/world/belarus-poland-border-migrants">Live Updates: Belarus and Poland Trade Threats as Migrant Plight Worsens</a> NYT: Thousands are camped at the border as dangerous cold sets in. Western officials say Belarus’s leader, who hinted at disrupting gas supplies to Europe, orchestrated the crisis. 
  <p class="updated_time"> 05:03 PM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/world/europe/germany-covid-unvaccinated.html">Germany’s Fourth Covid Wave: ‘A Pandemic of the Unvaccinated’</a> NYT: Germany once set an example for how to manage the coronavirus. Now, deep pockets of vaccine resistance are helping drive daily infections to new heights. 
- <p class="updated_time"> 05:02 PM CT, Nov. 11 </p> 
- <a href="https://www.nytimes.com/2021/11/11/world/who-is-aleksandr-g-lukashenko.html">Who Is Aleksandr Lukashenko? Here's What You Need to Know</a> NYT: A migrant crisis on the border with Poland has put the Belarusian president at the center of a clash roiling Europe. 
  <p class="updated_time"> 05:02 PM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/10/world/europe/covid-germany-cases.html">Germany Weighs New Covid Rules as Infections Reach Record Heights</a> NYT: Nearly 40,000 new cases were registered in the country on Tuesday — the third time a daily record was set within a week. “We have a real emergency situation,” a top virologist said. 
  <p class="updated_time"> 05:01 PM CT, Nov. 11 </p> 
@@ -193,8 +195,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/science-environment-59209276?at_medium=RSS&at_campaign=KARANGA">My Day at COP26: 'I'm painting murals so people don't forget COP happened here'</a> BBC: Daniel Rupaszov, from Hungary, is an artist and activist who visits COP every year to create art which highlights the climate crisis. 
  <p class="updated_time"> 10:01 AM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/world/europe/france-climate-change-energy-prices.html">In France, the People COP26 Forgot Seethe Over Rising Energy Prices</a> NYT: In one area of France, worries about rising energy prices trump anxiety about rising temperatures, raising fears of a resurgence of the Yellow Vest social uprising. 
- <p class="updated_time"> 09:42 AM CT, Nov. 10 </p> 
- <a href="https://www.nytimes.com/2021/11/09/world/asia/afghan-pilots-tajikistan-taliban.html">Afghan Pilots Who Escaped Taliban Are Flown Out of Tajikistan</a> NYT: More than 140 Afghan Air Force pilots and crew members were evacuated to the United Arab Emirates three months after flying into Tajikistan to escape the Taliban. 
  <p class="updated_time"> 09:32 AM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/travel/fly-fishing-italy.html">The Joy of Fly Fishing in Italy</a> NYT: Italy is not often mentioned as a fly fishing destination, but the wonder of Italian alpine fishing is now making itself known. 
  <p class="updated_time"> 06:30 AM CT, Nov. 10 </p> 
@@ -212,6 +212,12 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:30 PM CT, Nov. 11 </p> 
+ <a href="https://www.nytimes.com/2021/11/11/us/politics/facebook-political-ads.html">Facebook's Ad Policies Changed, but Political Campaigns Can Still Target You</a> NYT: Meta announced changes to its ad-targeting policies, but they will do little to stop campaigns from reaching specific voters. 
+ <p class="updated_time"> 05:25 PM CT, Nov. 11 </p> 
+ <a href="https://www.nytimes.com/2021/11/11/us/politics/project-veritas-journalism-political-spying.html">Project Veritas: Journalists or Political Spies? </a> NYT: Documents show how the conservative group worked with lawyers to gauge how far its deceptive reporting practices could go before running afoul of federal laws. 
+ <p class="updated_time"> 05:21 PM CT, Nov. 11 </p> 
+ <a href="https://www.nytimes.com/2021/11/11/us/politics/biden-veterans-day.html">Biden Marks First Veterans Day in Two Decades Without Troops in Active Combat</a> NYT: President Biden, who ended the 20-year conflict in Afghanistan this summer, called veterans the “soul of America.” 
  <p class="updated_time"> 05:17 PM CT, Nov. 11 </p> 
  <a href="https://www.politico.com/news/2021/11/11/us-europe-climate-pledges-developing-countries-520968">U.S., Europe plan for speedier climate pledges irks developing countries</a> Politico: The group of developing countries, which includes China and India, slammed the effort by U.S. climate envoy John Kerry and European negotiators for countries to conduct the reviews of their climate initiatives more often. 
  <p class="updated_time"> 05:16 PM CT, Nov. 11 </p> 
@@ -225,8 +231,6 @@ permalink: /projects/news/
  <p class="updated_time"> 04:55 PM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/10/us/politics/biden-infrastructure.html">Biden Got His Infrastructure Bill. Now He Has to Sell It to Voters.</a> NYT: Inside the Democratic Party, concerns are growing about whether the president will be able to fully capitalize on a major legislative victory. 
  <p class="updated_time"> 04:54 PM CT, Nov. 11 </p> 
- <a href="https://www.nytimes.com/2021/11/11/us/politics/project-veritas-journalism-political-spying.html">Project Veritas: Journalists or Political Spies? </a> NYT: Documents show how the conservative group worked with lawyers to gauge how far its deceptive reporting practices could go before running afoul of federal laws. 
- <p class="updated_time"> 04:54 PM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/10/us/politics/republicans-backlash-infrastructure-bill.html">13 Republicans Face Backlash for Backing Infrastructure Bill</a> NYT: The 13 Republican lawmakers who broke with their party to support a $1 trillion bipartisan public works bill have drawn anger and threats from their colleagues and constituents. 
  <p class="updated_time"> 04:45 PM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/us/politics/republicans-infrastructure-bill.html">Illinois Republican Lawmakers at Odds on Infrastructure Bill</a> NYT: Representative Darin LaHood voted against the infrastructure bill while Representative Adam Kinzinger supported it. The split reflects the Republican Party’s post-Trump era of uncertainty. 
@@ -236,8 +240,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/11/politics/trump-motion-documents/index.html">Federal appeals court pauses release of Trump White House records ahead of Friday deadline</a> CNN: Former President Donald Trump has asked a federal appeals court to briefly stop the release of key White House records from his presidency to the House January 6 committee while he appeals a lower court's decision that he can't claim executive privilege to keep them secret. 
  <p class="updated_time"> 04:41 PM CT, Nov. 11 </p> 
  <a href="https://www.politico.com/news/2021/11/11/dems-white-house-biden-520946">Dems to White House: The only prescription is more Biden</a> Politico: The president has been more a facilitator than manager of the legislative process. His party wants more of the latter. 
- <p class="updated_time"> 04:32 PM CT, Nov. 11 </p> 
- <a href="https://www.nytimes.com/2021/11/11/us/politics/biden-veterans-day.html">Biden Marks First Veterans Day in Two Decades Without Troops in Active Combat</a> NYT: President Biden, who ended the 20-year conflict in Afghanistan this summer, called veterans the “soul of America.” 
  <p class="updated_time"> 04:22 PM CT, Nov. 11 </p> 
  <a href="https://www.cnn.com/2021/11/11/politics/mark-meadows-january-6-committee-response/index.html">Mark Meadows says he won't cooperate with House January 6 committee until court rules on Trump privilege claim</a> CNN: Former White House Chief of Staff Mark Meadows is facing new pressure to cooperate with the House Select Committee investigating January 6 after he was notified Thursday that President Joe Biden will not assert executive privilege or immunity over documents and testimony requested by the panel, according to a copy obtained by CNN. 
  <p class="updated_time"> 04:04 PM CT, Nov. 11 </p> 
@@ -342,8 +344,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/10/politics/infrastructure-bill-signing/index.html">Biden to hold signing ceremony on Monday for bipartisan infrastructure bill </a> CNN: President Joe Biden will sign the bipartisan infrastructure bill on Monday during a ceremony that will include members of Congress, governors and mayors from both parties, the White House announced on Wednesday. 
  <p class="updated_time"> 04:37 PM CT, Nov. 10 </p> 
  <a href="https://www.cnn.com/2021/11/10/politics/jan-6-committee-pence-inner-circle/index.html">Exclusive: January 6 committee interested in at least 5 people from Pence's inner circle</a> CNN: The House select committee investigating January 6 is interested in gathering information from at least five members of former Vice President Mike Pence's inner circle, according to three sources familiar with the effort. 
- <p class="updated_time"> 04:21 PM CT, Nov. 10 </p> 
- <a href="https://www.nytimes.com/2021/11/10/us/ruth-ann-minner-dead.html">Ruth Ann Minner, Down-to-Earth Governor of Delaware, Dies at 86</a> NYT: The first woman in that position, she rose from being a receptionist in the governor’s office to claiming the top job herself. 
  <p class="updated_time"> 04:02 PM CT, Nov. 10 </p> 
  <a href="https://www.cnn.com/2021/11/10/politics/list-january-6-subpoenas/index.html">A running list of who has received a subpoena from the House January 6 select committee </a> CNN: The committee investigating the deadly Capitol Hill riot on January 6 has as of publication issued 35 subpoenas to individuals and organizations as part of its probe into circumstances and coordination leading up to the storming of the US Capitol. 
  <p class="updated_time"> 03:37 PM CT, Nov. 10 </p> 
