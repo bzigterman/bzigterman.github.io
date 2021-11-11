@@ -7,12 +7,18 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:45 PM CT, Nov. 10 </p> 
+ <p class="updated_time"> 10:04 PM CT, Nov. 10 </p> 
+ <a href="https://www.nytimes.com/2021/11/10/world/middleeast/israeli-covid-vaccine-children.html">Israeli Experts Approve Vaccinations for Children Ages 5 to 11 </a> NYT: Israel would become one of the first countries after the United States to authorize the Pfizer-BioNTech vaccine for children ages 5 to 11. 
+ <p class="updated_time"> 10:02 PM CT, Nov. 10 </p> 
+ <a href="https://www.nytimes.com/2021/11/10/world/americas/brazil-bolsonaro-liberal-party.html">Bolsonaro Joins a Centrist Party in Brazil Ahead of 2022 Re-election Bid</a> NYT: President Jair Bolsonaro, who has not belonged to any political party for two years, is joining the centrist Liberals, they said on Wednesday. 
+ <p class="updated_time"> 10:02 PM CT, Nov. 10 </p> 
+ <a href="https://www.nytimes.com/2021/11/10/world/pennsylvanias-school-mask-mandate.html">Pennsylvania Court Rejects Statewide School Mask Mandate</a> NYT: The judges said that the state’s acting health secretary had overstepped her authority in issuing the mandate, and that they were not taking a position on “the science or efficacy of mask-wearing.” 
+ <p class="updated_time"> 10:01 PM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/world/asia/covid-china-shenyang-quarantine.html">This Chinese City Requires 28 Days of Quarantine. Then Another 28.</a> NYT: The restrictions in Shenyang are a stark example of how seriously officials are taking the country’s “zero Covid” approach to the pandemic. 
+ <p class="updated_time"> 10:00 PM CT, Nov. 10 </p> 
+ <a href="https://www.nytimes.com/2021/11/10/world/europe/covid-germany-cases.html">Germany Weighs New Covid Rules as Infections Reach Record Heights</a> NYT: Nearly 40,000 new cases were registered in the country on Tuesday — the third time a daily record was set within a week. “We have a real emergency situation,” a top virologist said. 
  <p class="updated_time"> 09:04 PM CT, Nov. 10 </p> 
  <a href="https://www.bbc.co.uk/news/business-59243606?at_medium=RSS&at_campaign=KARANGA">Elon Musk: Tesla boss sells $1.1bn of shares in carmaker</a> BBC: It comes days after he asked his Twitter followers whether he should sell 10% of his stake. 
- <p class="updated_time"> 08:55 PM CT, Nov. 10 </p> 
- <a href="https://www.nytimes.com/2021/11/10/world/americas/brazil-bolsonaro-liberal-party.html">Bolsonaro Joins a Centrist Party in Brazil Ahead of 2022 Re-election Bid</a> NYT: President Jair Bolsonaro, who has not belonged to any political party for two years, is joining the centrist Liberals, they said on Wednesday. 
  <p class="updated_time"> 08:55 PM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/live/2021/11/10/world/poland-belarus-border-migrants">E.U. Sides With Poland Over Migrants at Belarus Border</a> NYT: Western officials accuse the leader of Belarus of sending migrants to E.U. borders as retaliation for sanctions. Lithuania, which also borders Belarus, declared a state of emergency. 
  <p class="updated_time"> 08:50 PM CT, Nov. 10 </p> 
@@ -61,8 +67,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59239981?at_medium=RSS&at_campaign=KARANGA">Mireille Knoll: Killer of French Holocaust survivor jailed for life</a> BBC: A man is sentenced for murdering 85-year-old Jewish woman Mireille Knoll in 2018. 
  <p class="updated_time"> 04:48 PM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/09/world/asia/india-covid-vaccinations.html">India Risks Covid-19 Complacency After Its Vaccine Campaign</a> NYT: The success represents a major victory for Narendra Modi’s government, but a recent slowdown in new vaccinations has sparked worries. 
- <p class="updated_time"> 04:47 PM CT, Nov. 10 </p> 
- <a href="https://www.nytimes.com/2021/11/10/world/europe/covid-germany-cases.html">Germany Weighs New Covid Rules as Infections Reach Record Heights</a> NYT: Nearly 40,000 new cases were registered in the country on Tuesday — the third time a daily record was set within a week. “We have a real emergency situation,” a top virologist said. 
  <p class="updated_time"> 04:39 PM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/world/boris-johnson-cop26.html">Boris Johnson Urges Negotiators to Break Impasse in Final Climate Summit Hours</a> NYT: “Now is the time to get together and show the determination needed to power on through the blockages,” the British prime minister said on Wednesday. 
  <p class="updated_time"> 04:37 PM CT, Nov. 10 </p> 
@@ -71,8 +75,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/sections/goatsandsoda/2021/11/10/1054224204/how-sars-cov-2-in-american-deer-could-alter-the-course-of-the-global-pandemic">How SARS-CoV-2 in American deer could alter the course of the global pandemic</a> NPR: Scientists have evidence that SARS-CoV-2 is circulating in white-tailed deer in the U.S. They say the findings could essentially dash any hopes of eliminating the virus in the U.S. — and the world. 
  <p class="updated_time"> 04:25 PM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/09/world/europe/france-macron-covid-restrictions.html">France Will Require Booster Shot for Those 65 and Older</a> NYT: President Emmanuel Macron, in a televised speech, said that older people will now have to get the shots to remain eligible for a vaccine passport. 
- <p class="updated_time"> 04:16 PM CT, Nov. 10 </p> 
- <a href="https://www.nytimes.com/2021/11/10/world/middleeast/israeli-covid-vaccine-children.html">Israeli experts approve vaccinations for children ages 5 to 11.</a> NYT:   
  <p class="updated_time"> 03:56 PM CT, Nov. 10 </p> 
  <a href="https://www.npr.org/2021/11/10/1054428157/in-afghanistan-the-threat-of-widespread-famine-looms-as-drought-and-hunger-conti">In Afghanistan, the threat of widespread famine looms as drought and hunger continues</a> NPR: NPR's Audie Cornish talks with reporter Jane Ferguson from PBS Newshour about her recent trip into Afghanistan. 
  <p class="updated_time"> 03:54 PM CT, Nov. 10 </p> 
@@ -105,8 +107,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/10/world/europe/knoll-france-murder.html">French Court Convicts Man in the Murder of a Holocaust Survivor</a> NYT: The man, Yacine Mihoub, was sentenced to life imprisonment for killing Mireille Knoll, 85, in 2018, which judges said was a hate crime motivated by the fact that she was Jewish. 
  <p class="updated_time"> 01:42 PM CT, Nov. 10 </p> 
  <a href="https://www.bbc.co.uk/news/uk-scotland-glasgow-west-59207818?at_medium=RSS&at_campaign=KARANGA">Irn Bru hunting and celebrity spotting at COP26</a> BBC: Barack Obama, AOC, Leonardo DiCaprio, Emma Watson and others bring star power to the UN summit. 
- <p class="updated_time"> 01:40 PM CT, Nov. 10 </p> 
- <a href="https://www.nytimes.com/2021/11/10/world/pennsylvanias-school-mask-mandate.html">Pennsylvania Court Rejects Statewide School Mask Mandate</a> NYT: The judges said that the state’s acting health secretary had overstepped her authority in issuing the mandate, and that they were not taking a position on “the science or efficacy of mask-wearing.” 
  <p class="updated_time"> 01:24 PM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/world/africa/mozambique-corruption-manuel-chang-extradition.html">Manuel Chang Will Face Corruption Charges in U.S.</a> NYT: A judge overturned the South African government’s decision to send the minister back to Mozambique, where civil society groups say his political clout will protect him. 
  <p class="updated_time"> 12:52 PM CT, Nov. 10 </p> 
@@ -336,6 +336,8 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/10/politics/donald-trump-january-6-case-executive-privilege-2022-midterms/index.html">Judge eviscerates Trump's claim of executive privilege</a> CNN: A federal judge sent a message to Donald Trump Tuesday that he cannot outrun the rule of law and the Constitution forever. But that doesn't mean he won't try. 
  <p class="updated_time"> 10:18 PM CT, Nov. 09 </p> 
  <a href="https://www.nytimes.com/2021/11/09/us/politics/trump-january-6-committee.html">Judge Rejects Trump’s Bid to Keep Papers Secret in Jan. 6 Inquiry</a> NYT: But a Trump lawyer has signaled an intent to appeal the ruling, which raises novel issues about an ex-president’s executive privilege powers. 
+ <p class="updated_time"> 09:29 PM CT, Nov. 09 </p> 
+ <a href="https://www.politico.com/news/2021/11/09/trump-executive-privilege-court-ruling-kings-520512">Trump cannot shield White House records from Jan. 6 committee, judge rules</a> Politico: “Presidents are not kings, and Plaintiff is not President,” Judge Tanya Chutkan wrote. 
  <p class="updated_time"> 09:22 PM CT, Nov. 09 </p> 
  <a href="https://www.nytimes.com/2021/11/09/health/pfizer-booster-eligibility-adults.html">Pfizer Asks F.D.A. to Authorize Covid Booster Shots for All Adults</a> NYT: In a turnaround, the agency is expected to grant the request before the winter holiday season, giving access to all 181 million fully vaccinated people. 
  <p class="updated_time"> 07:23 PM CT, Nov. 09 </p> 
