@@ -7,14 +7,18 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:17 AM CT, Nov. 12 </p> 
+ <a href="https://www.nytimes.com/2021/11/12/world/europe/covid-italy-green-pass.html">Police in Milan Search Homes of 4 People Tied to Protests Over Covid Passes</a> NYT: The group has staged protests for weeks over a nationwide Covid rule, often blocking traffic and access to city centers. 
+ <p class="updated_time"> 06:13 AM CT, Nov. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/science-environment-59221790?at_medium=RSS&at_campaign=KARANGA">COP26: Coal compromise as leaders near climate deal</a> BBC: All countries must agree on the new deal as negotiators at COP26 enter the summit's final hours. 
+ <p class="updated_time"> 05:43 AM CT, Nov. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59258409?at_medium=RSS&at_campaign=KARANGA">Covid: Dutch set for partial lockdown as infections surge</a> BBC: The measures, due to last three weeks, are expected to cover shops, sport and catering. 
  <p class="updated_time"> 05:26 AM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/world/asia/china-zero-covid.html">China's 'Zero Covid' Efforts Come With a Cost</a> NYT: The Communist Party is making broad efforts to stamp out the disease entirely, but the measures come with costs. 
  <p class="updated_time"> 05:19 AM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/world/asia/myanmar-danny-fenster.html">Danny Fenster, U.S. Journalist in Myanmar, Gets 11 Years in Jail</a> NYT: Danny Fenster was given the toughest possible sentence on three charges, in a signal that the country’s military rulers would not bow to international pressure. 
  <p class="updated_time"> 05:18 AM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/world/europe/covid-netherlands-lockdown.html">Netherlands Looks to Partial Lockdown as Covid Cases Rise</a> NYT: The country is experiencing rising case numbers amid a fourth wave of infections. 
- <p class="updated_time"> 04:37 AM CT, Nov. 12 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-59221790?at_medium=RSS&at_campaign=KARANGA">COP26: New draft climate deal steps up call for urgent action</a> BBC: All countries must agree on the new deal as the COP26 talks enter their final hours. 
  <p class="updated_time"> 04:33 AM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/world/africa/de-klerk-apartheid-south-africa.html">For Some South Africans, de Klerk Missed Chances for True Reconciliation</a> NYT: The last white president of South Africa helped bring an end to the apartheid regime, but for many citizens, he never went far enough to disavow it. He left a video apologizing. 
  <p class="updated_time"> 04:00 AM CT, Nov. 12 </p> 
@@ -39,20 +43,20 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59256927?at_medium=RSS&at_campaign=KARANGA">Poland border: West condemns Belarus at UN over stranded migrants</a> BBC: EU nations, the US and UK say Belarus is putting migrants' lives in danger for political purposes. 
  <p class="updated_time"> 01:00 AM CT, Nov. 12 </p> 
  <a href="https://www.bbc.co.uk/news/uk-59247795?at_medium=RSS&at_campaign=KARANGA">COP26: Fear of failure on final day, and just how green was summit?</a> BBC: Five things you need to know about COP26 - the United Nations climate change conference - on Friday. 
+ <p class="updated_time"> 01:00 AM CT, Nov. 12 </p> 
+ <a href="https://www.wsj.com/articles/haiti-slides-deeper-into-chaos-a-month-after-missionaries-kidnapping-11636718401">Haiti Slides Deeper Into Chaos a Month After Missionaries' Kidnapping</a> WSJ: The U.S. is urging Americans to get out of Haiti as gangs block fuel terminals and carry out mass abductions in defiance of a weak government. 
  <p class="updated_time"> 12:59 AM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/world/australia/migration-and-experimentation-what-led-to-australias-coffee-culture.html">Migration and Experimentation: What Led to Australia’s Coffee Culture</a> NYT: When Italian migrants arrived after World War II, they helped develop a coffee scene that many now regard as the best in the world. 
+ <p class="updated_time"> 12:58 AM CT, Nov. 12 </p> 
+ <a href="https://www.wsj.com/articles/biden-and-xi-pressed-for-u-s-china-climate-statement-11636718318">Biden and Xi Pressed for U.S.-China Climate Statement</a> WSJ: The announcement that the U.S. and China would cooperate on accelerating a transition to cleaner energy came after both President Biden and Chinese President Xi Jinping encouraged their delegates to find common ground. 
  <p class="updated_time"> 12:44 AM CT, Nov. 12 </p> 
  <a href="https://www.wsj.com/articles/cop26-talks-enter-final-scheduled-day-with-deal-still-elusive-11636717491">COP26 Talks Enter Final Scheduled Day With Deal Still Elusive</a> WSJ: Negotiators seeking to reach a global deal to slow climate change entered the last scheduled day of talks still wrestling with big differences over the wording of what they hope will be a meaningful agreement. 
- <p class="updated_time"> 12:36 AM CT, Nov. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59245018?at_medium=RSS&at_campaign=KARANGA">Covid: Austrians heading towards lockdown for unvaccinated</a> BBC: The measures comes as record infections are reported in Austria, Germany and the Netherlands. 
  <p class="updated_time"> 12:15 AM CT, Nov. 12 </p> 
  <a href="https://www.bbc.co.uk/news/uk-scotland-glasgow-west-59248023?at_medium=RSS&at_campaign=KARANGA">How green was the COP26 climate summit?</a> BBC: A report has suggested the carbon footprint of the Glasgow summit is more than double that of COP25. 
  <p class="updated_time"> 11:42 PM CT, Nov. 11 </p> 
  <a href="https://www.npr.org/2021/11/12/1055014823/toyota-to-ramp-up-production-after-cutbacks-driven-by-the-covid-19-pandemic">Toyota to ramp up production after cutbacks driven by the COVID-19 pandemic</a> NPR: The Japanese automaker announced it expects to build 800,000 vehicles globally next month, up from the roughly 760,000 it made last December. 
  <p class="updated_time"> 11:37 PM CT, Nov. 11 </p> 
  <a href="https://www.wsj.com/articles/u-s-journalist-danny-fenster-sentenced-in-myanmar-to-11-years-in-prison-11636703618">U.S. Journalist Danny Fenster Sentenced in Myanmar to 11 Years in Prison</a> WSJ: The sentencing deepens tensions between Washington and the country’s military that seized power in February. American diplomats had lobbied for Mr. Fenster’s release, and his family launched a petition asking President Biden to secure his freedom. 
- <p class="updated_time"> 11:23 PM CT, Nov. 11 </p> 
- <a href="https://www.wsj.com/articles/biden-and-chinas-xi-to-hold-virtual-summit-on-monday-11636688117">Biden and Xi to Hold Virtual Summit on Monday</a> WSJ: President Biden and Chinese President Xi Jinping plan to hold a virtual summit on Monday, people familiar with the matter said, as the two leading world economies pledge to work together on climate change but differences remain over Taiwan and other fronts. 
  <p class="updated_time"> 11:15 PM CT, Nov. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59257495?at_medium=RSS&at_campaign=KARANGA">Rare Antarctic penguin accidentally travels 3,000km to New Zealand</a> BBC: Pingu the penguin was spotted by a local resident who thought he was a "soft toy" at first. 
  <p class="updated_time"> 11:09 PM CT, Nov. 11 </p> 
@@ -161,14 +165,10 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/11/1054646063/china-xi-jinping-communist-party">China's Communist Party, with eye on history, gives Xi Jinping the same status as Mao</a> NPR: Leaders have set the stage for the Chinese president to extend his rule, and for just the third time ever, approved a political history that gives him status equal to the most important party figures. 
  <p class="updated_time"> 07:24 AM CT, Nov. 11 </p> 
  <a href="https://www.bbc.co.uk/news/57975275?at_medium=RSS&at_campaign=KARANGA">COP 26: How much are poor countries getting to fight climate change?</a> BBC: Are rich countries close to meeting their climate promises to the developing world? 
- <p class="updated_time"> 06:47 AM CT, Nov. 11 </p> 
- <a href="https://www.wsj.com/articles/europe-weighs-border-walls-as-migrants-mass-in-belarus-at-polands-frontier-11636649364">Europe Weighs Border Walls as Migrants Mass in Belarus at Poland's Frontier</a> WSJ: The European Union is adopting a tougher stance toward migration in response to what officials see as a hybrid attack from a close Russian ally. 
  <p class="updated_time"> 06:12 AM CT, Nov. 11 </p> 
  <a href="https://www.npr.org/2021/11/11/1054633332/f-w-de-klerk-south-africas-last-apartheid-president-dies-at-85">F. W. de Klerk, South Africa's last apartheid president, dies at 85</a> NPR: De Klerk shared a Nobel Peace Prize with Nelson Mandela, and ceded the presidency to him in 1994 after Black South Africans were allowed to vote. But he's remained a controversial figure there. 
  <p class="updated_time"> 04:54 AM CT, Nov. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-13230608?at_medium=RSS&at_campaign=KARANGA">FW de Klerk: South Africa's last white president</a> BBC: The last president of a segregated South Africa, who freed Nelson Mandela, and paved the way to majority rule. 
- <p class="updated_time"> 04:08 AM CT, Nov. 11 </p> 
- <a href="https://www.wsj.com/articles/south-africa-cant-afford-to-quit-coal-will-rich-countries-pay-for-the-transition-11636643299">South Africa Seeks Help to Quit Coal</a> WSJ: Pressure to end coal-powered electricity generation has fired tensions between already-industrialized nations and developing ones, which have poured billions into coal infrastructure. South Africa is the most dependent on the fuel of any G-20 country. 
  <p class="updated_time"> 04:02 AM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/t-magazine/mansaf-bedouin-rice.html">For Many Members of the Arab American Diaspora, Mansaf Offers a Taste of Home</a> NYT: The traditional Bedouin dish of bread, rice, lamb and yogurt is a talisman of identity in Jordan — and in various communities in suburban Detroit. 
  <p class="updated_time"> 03:48 AM CT, Nov. 11 </p> 
@@ -187,8 +187,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/10/world/europe/france-kamala-harris-macron.html">Harris Meets Macron, Signaling a ‘New Era’ After Sub Snub, Both Say</a> NYT: In her vague assignment abroad, the vice president seems to be emphasizing that the U.S.-France relationship is about looking forward, in the wake of an embarrassing diplomatic spat. 
  <p class="updated_time"> 06:34 PM CT, Nov. 10 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59227491?at_medium=RSS&at_campaign=KARANGA">COP26: Climate activists on what change means for them</a> BBC: Climate activists from the Philippines, the UK and Argentina take questions on climate change. 
- <p class="updated_time"> 05:42 PM CT, Nov. 10 </p> 
- <a href="https://www.nytimes.com/2021/11/10/world/asia/vietnam-communist-gold-steak-salt-bae.html">Video of Salt Bae Serving Communist Leader Gold Steak Prompts Anger in Vietnam</a> NYT: A celebrity chef showed the meal in a TikTok video, now removed, that angered people in Vietnam. Facebook said it was investigating why the chef’s hashtag was blocked from its site. 
  <p class="updated_time"> 05:11 PM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/us/politics/russia-blinken-ukraine.html">Blinken Warns Russia Against Making a ‘Serious Mistake’ in Ukraine</a> NYT: Appearing with Ukraine’s foreign minister, Secretary of State Antony J. Blinken said the intentions behind Moscow’s latest military buildup were unclear. 
  <p class="updated_time"> 04:39 PM CT, Nov. 10 </p> 
@@ -210,6 +208,12 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/12/south-korea-candidate-north-nuclear-program-521012">S. Korean candidate takes tough line on North's nuclear program</a> Politico: Yoon Suk Yeol stressed the need to boost cooperation with Washington and Japan to make up for South Korea’s relative lack of ability to monitor North Korea’s advancing nuclear program. 
  <p class="updated_time"> 06:13 AM CT, Nov. 12 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/12/trump-sours-on-desantis-495081">POLITICO Playbook: Trump sours on DeSantis</a> Politico: And Sen. Lisa Murkowski (R-Alaska) says she'll run for reelection. 
+ <p class="updated_time"> 06:05 AM CT, Nov. 12 </p> 
+ <a href="https://www.cnn.com/2021/11/12/politics/lisa-murkowski-alaska-reelection/index.html">GOP Sen. Lisa Murkowski of Alaska announces reelection bid</a> CNN: GOP Sen. Lisa Murkowski of Alaska announced her bid Friday for reelection in a race that's sure to be tough for the moderate Republican who has been a strong critic of former President Donald Trump. 
+ <p class="updated_time"> 06:03 AM CT, Nov. 12 </p> 
+ <a href="https://www.cnn.com/2021/11/12/politics/biden-private-prisons-immigration-detention-centers-invs/index.html">Biden vowed to close federal private prisons, but prison companies are finding loopholes to keep them open</a> CNN: Leavenworth Detention Center seems like a prime example of why President Joe Biden wants to close private prisons: So far this year, the federally contracted jail has been the site of multiple stabbings and a fatal beating. Former guards say drugs and weapons are common behind bars -- and for months, many cell doors didn't even lock. A judge called it "an absolute hellhole" at a recent sentencing hearing.  
+ <p class="updated_time"> 06:02 AM CT, Nov. 12 </p> 
+ <a href="https://www.cnn.com/2021/11/12/politics/paul-gosar-censure-resolution-introduced/index.html">House Democrats to introduce resolution censuring Paul Gosar for video depicting violence against Ocasio-Cortez and Biden</a> CNN: House Democrats plan to introduce a resolution Friday to censure Arizona Republican Rep. Paul Gosar for posting a photoshopped anime video to his Twitter and Instagram accounts showing him appearing to kill Democratic Rep. Alexandria Ocasio-Cortez and attacking President Joe Biden. 
  <p class="updated_time"> 05:37 AM CT, Nov. 12 </p> 
  <a href="https://www.cnn.com/2021/11/12/politics/vaccine-mandate-lawsuit-lottery/index.html">Liberals are buying their tickets in hopes of winning the vaccine mandate lawsuit lottery </a> CNN: It's not just Republican-led states and private businesses that are racing to court to challenge the Biden administration's new vaccine mandate. Labor unions are also filing legal challenges, arguing in some instances that the mandate doesn't go far enough to protect workers. 
  <p class="updated_time"> 05:05 AM CT, Nov. 12 </p> 
@@ -318,8 +322,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/11/1054764083/vp-harris-in-paris-says-infrastructure-and-spending-bills-will-help-cut-poverty">VP Harris, in Paris, says infrastructure and spending bills will help cut poverty</a> NPR: In a speech to a group of world leaders gathered in Paris, Harris focused on inequality, saying the Biden administration's plans will help bridge economic gaps in America. 
  <p class="updated_time"> 12:01 PM CT, Nov. 11 </p> 
  <a href="https://www.cnn.com/2021/11/11/politics/biden-veterans-day-arlington/index.html">'You are the very spine of America': Biden honors those who served on Veterans Day in Arlington</a> CNN: President Joe Biden honored Veterans Day at Arlington National Cemetery on Thursday, paying homage to Americans who have served and laying a wreath at the Tomb of the Unknown Soldier. 
- <p class="updated_time"> 10:17 AM CT, Nov. 11 </p> 
- <a href="https://www.cnn.com/2021/11/11/politics/xi-jinping-joe-biden-virtual-summit/index.html">Biden expected to hold virtual summit with Chinese President Xi Jinping on Monday</a> CNN: President Joe Biden's highly anticipated virtual summit with Chinese President Xi Jinping is expected to take place on Monday, people familiar with the matter say. 
  <p class="updated_time"> 10:01 AM CT, Nov. 11 </p> 
  <a href="https://www.cnn.com/2021/11/11/politics/national-medal-of-honor-museum/index.html">Presidents Obama, Bush and Clinton in new PSA urge Americans to support National Medal of Honor Museum </a> CNN: Former Presidents Bill Clinton, George W. Bush and Barack Obama are asking Americans for support to build a national museum to recognize Medal of Honor recipients. 
  <p class="updated_time"> 09:21 AM CT, Nov. 11 </p> 
@@ -370,8 +372,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/10/politics/infrastructure-bill-signing/index.html">Biden to hold signing ceremony on Monday for bipartisan infrastructure bill </a> CNN: President Joe Biden will sign the bipartisan infrastructure bill on Monday during a ceremony that will include members of Congress, governors and mayors from both parties, the White House announced on Wednesday. 
  <p class="updated_time"> 04:37 PM CT, Nov. 10 </p> 
  <a href="https://www.cnn.com/2021/11/10/politics/jan-6-committee-pence-inner-circle/index.html">Exclusive: January 6 committee interested in at least 5 people from Pence's inner circle</a> CNN: The House select committee investigating January 6 is interested in gathering information from at least five members of former Vice President Mike Pence's inner circle, according to three sources familiar with the effort. 
- <p class="updated_time"> 04:02 PM CT, Nov. 10 </p> 
- <a href="https://www.cnn.com/2021/11/10/politics/list-january-6-subpoenas/index.html">A running list of who has received a subpoena from the House January 6 select committee </a> CNN: The committee investigating the deadly Capitol Hill riot on January 6 has as of publication issued 35 subpoenas to individuals and organizations as part of its probe into circumstances and coordination leading up to the storming of the US Capitol. 
  <p class="updated_time"> 03:37 PM CT, Nov. 10 </p> 
  <a href="https://www.npr.org/2021/11/10/1054428150/tunisia-is-seeing-political-changes-and-some-fear-its-a-path-back-to-dictatorshi">Tunisia is seeing political changes, and some fear it may be a path to dictatorship</a> NPR: While most Tunisians were glad to see their president dissolve the quarrelsome, ineffective parliament and take extra powers, some worry Tunisia could be repeating a path to dictatorship. 
  <p class="updated_time"> 03:34 PM CT, Nov. 10 </p> 
@@ -386,8 +386,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/10/technology/doj-uber-suit-disabilities.html">U.S. Sues Uber, Saying It Discriminated Against People With Disabilities</a> NYT: The Justice Department says Uber did not adjust its wait time fees for people with disabilities, even when Uber knew someone needed additional time. 
  <p class="updated_time"> 12:59 PM CT, Nov. 10 </p> 
  <a href="https://www.politico.com/news/2021/11/10/scott-fairlamb-jan-6-sentencing-520592">N.J. man hit with toughest sentence yet in Jan. 6 attack</a> Politico: Former MMA fighter Scott Fairlamb gets 41 months in prison for punching police officer during Capitol Riot. 
- <p class="updated_time"> 10:13 AM CT, Nov. 10 </p> 
- <a href="https://www.cnn.com/2021/11/10/politics/joe-biden-inflation/index.html">Biden on inflation report: 'Reversing this trend is a top priority for me'</a> CNN: President Joe Biden said Wednesday that inflation statistics showing America's prices are surging more than they have in 30 years are proof that there is "more work to do before our economy is back to normal." 
  <p class="updated_time"> 08:12 AM CT, Nov. 10 </p> 
  <a href="https://www.cnn.com/2021/11/10/politics/biden-jj-covid-vaccine-conflict-zones/index.html">Biden administration announces deal to provide J&J Covid-19 vaccine to people in conflict zones and humanitarian settings</a> CNN: The Biden administration will announce on Wednesday a new deal it brokered with Johnson & Johnson and Covax to provide J&J's Covid-19 vaccine to people in conflict zones and other humanitarian settings where government vaccine campaigns cannot reach, a White House official told CNN. 
  <p class="updated_time"> 07:21 AM CT, Nov. 10 </p> 
