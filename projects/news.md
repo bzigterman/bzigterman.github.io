@@ -7,6 +7,12 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:17 AM CT, Nov. 12 </p> 
+ <a href="https://www.bbc.co.uk/sport/football/59256408?at_medium=RSS&at_campaign=KARANGA">Aminata Diallo: Paris St-Germain midfielder released by police without charge</a> BBC: Paris St-Germain midfielder Aminata Diallo is released without charge by French police investigating an attack on her PSG team-mate Kheira Hamraoui. 
+ <p class="updated_time"> 02:14 AM CT, Nov. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/science-environment-59221790?at_medium=RSS&at_campaign=KARANGA">COP26: New draft climate deal weakens fossil fuel commitments</a> BBC: But it requires governments to do more to help developing countries with impacts of climate change. 
+ <p class="updated_time"> 02:09 AM CT, Nov. 12 </p> 
+ <a href="https://www.npr.org/2021/11/12/1055027411/a-u-s-journalist-is-sentenced-to-11-years-in-jail-by-a-court-in-myanmar">A U.S. journalist is sentenced to 11 years in jail by a court in Myanmar</a> NPR: A court in military-ruled Myanmar sentenced journalist Danny Fenster to 11 years in prison after finding him guilty on several charges, including incitement for allegedly spreading false information. 
  <p class="updated_time"> 01:19 AM CT, Nov. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59256927?at_medium=RSS&at_campaign=KARANGA">Poland border: West condemns Belarus at UN over stranded migrants</a> BBC: EU nations, the US and UK say Belarus is putting migrants' lives in danger for political purposes. 
  <p class="updated_time"> 01:12 AM CT, Nov. 12 </p> 
@@ -47,8 +53,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/live/2021/11/11/world/china-xi-jinping-cpc">China’s Xi Jinping Remakes the Communist Party’s History in His Image</a> NYT: Leaders at an elite meeting enshrined Mr. Xi among the party’s historical giants, paving the way for him to claim a third five-year term. 
  <p class="updated_time"> 07:20 PM CT, Nov. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59257003?at_medium=RSS&at_campaign=KARANGA">Capitol riot: Court temporarily blocks release of Trump files</a> BBC: Files chased by the Capitol riot inquiry will not be released until an appeals court hears the case. 
- <p class="updated_time"> 07:17 PM CT, Nov. 11 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-59253928?at_medium=RSS&at_campaign=KARANGA">COP26: Fear of failure as climate summit enters final day</a> BBC: UN chief Antonio Guterres says the goal of limiting global warming to 1.5C looks unlikely. 
  <p class="updated_time"> 07:10 PM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/world/asia/xi-jinping-china-third-term.html">China's Xi Jingping Secures Political Future By Rewriting Past</a> NYT: Senior party officials have gathered at a closed-door meeting in Beijing to cement Mr. Xi’s dominance as he moves to claim a likely third term next year as China’s leader. 
  <p class="updated_time"> 06:40 PM CT, Nov. 11 </p> 
@@ -93,8 +97,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/11/1054884091/how-other-countries-at-cop26-view-american-leadership-and-climate-promises">How other countries at COP26 view American leadership and climate promises</a> NPR: President Biden has declared the U.S. is back as a leader in combatting disastrous climate change. But after years of unfulfilled pledges, how do other countries view American leadership and promises? 
  <p class="updated_time"> 02:52 PM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/world/americas/bolsonaro-trump-brazil-election.html">Trump Allies Help Bolsonaro Sow Doubt in Brazil's Elections</a> NYT: With his poll numbers falling, President Jair Bolsonaro is already questioning the legitimacy of next year’s election. He has help from the United States. 
- <p class="updated_time"> 02:31 PM CT, Nov. 11 </p> 
- <a href="https://www.bbc.co.uk/sport/football/59256408?at_medium=RSS&at_campaign=KARANGA">Aminata Diallo: Paris St-Germain midfielder released by police without charge</a> BBC: Paris St-Germain midfielder Aminata Diallo is released without charge by French police investigating an attack on her PSG team-mate Kheira Hamraoui. 
  <p class="updated_time"> 02:01 PM CT, Nov. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59252717?at_medium=RSS&at_campaign=KARANGA">Memorial: Russia moves to close major human rights group</a> BBC: The group say that prosecutors have accused it of violating a law on foreign agents. 
  <p class="updated_time"> 01:56 PM CT, Nov. 11 </p> 
@@ -187,8 +189,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/science-environment-59227491?at_medium=RSS&at_campaign=KARANGA">COP26: Climate activists on what change means for them</a> BBC: Climate activists from the Philippines, the UK and Argentina take questions on climate change. 
  <p class="updated_time"> 06:29 PM CT, Nov. 10 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59240676?at_medium=RSS&at_campaign=KARANGA">Himalayan village split in two by climate change</a> BBC: In Kumik, in India's northern Ladakh region, there is a serious water crisis, with some residents forced to abandon their homes and move elsewhere. 
- <p class="updated_time"> 06:11 PM CT, Nov. 10 </p> 
- <a href="https://www.npr.org/sections/goatsandsoda/2021/11/10/1052078529/why-low-income-countries-are-so-short-on-covid-vaccines-hint-its-not-boosters">Why low income countries are so short on COVID vaccines. Hint: It's not boosters</a> NPR: Wealthy countries keep buying way more doses than they need. New data shows just how much the stockpile of unused vaccine is growing. 
  <p class="updated_time"> 05:42 PM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/world/asia/vietnam-communist-gold-steak-salt-bae.html">Video of Salt Bae Serving Communist Leader Gold Steak Prompts Anger in Vietnam</a> NYT: A celebrity chef showed the meal in a TikTok video, now removed, that angered people in Vietnam. Facebook said it was investigating why the chef’s hashtag was blocked from its site. 
  <p class="updated_time"> 05:11 PM CT, Nov. 10 </p> 
@@ -216,6 +216,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:00 AM CT, Nov. 12 </p> 
+ <a href="https://www.nytimes.com/2021/11/12/nyregion/aoc-infrastructure-bill-vote.html">Ocasio-Cortez Isn’t Wavering. Are New Yorkers on Her Side?</a> NYT: By voting no on the infrastructure bill, Representative Alexandria Ocasio-Cortez set off a fierce debate, including among city residents eager to see the subways improved. 
  <p class="updated_time"> 11:51 PM CT, Nov. 11 </p> 
  <a href="https://www.cnn.com/2021/11/11/politics/trump-jan-6-documents-explainer/index.html">What's next in Trump's scramble to stop the House from getting his White House docs</a> CNN: Former President Donald Trump got a last-minute reprieve to stop the House select committee investigating January 6 from obtaining his White House documents as scheduled on Friday. 
  <p class="updated_time"> 10:59 PM CT, Nov. 11 </p> 
@@ -390,8 +392,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/10/scott-fairlamb-jan-6-sentencing-520592">N.J. man hit with toughest sentence yet in Jan. 6 attack</a> Politico: Former MMA fighter Scott Fairlamb gets 41 months in prison for punching police officer during Capitol Riot. 
  <p class="updated_time"> 12:42 PM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/us/politics/fairlamb-jan-6-riot.html">Scott Fairlamb Sentenced for Assaulting Officer on Jan. 6</a> NYT: The sentence given to Scott Fairlamb, a former New Jersey gym owner, is the most severe so far for any of the more 650 people charged in the Jan. 6 attack. 
- <p class="updated_time"> 11:45 AM CT, Nov. 10 </p> 
- <a href="https://www.nytimes.com/2021/11/10/us/politics/blinken-johnson-johnson-vaccine-covax.html">U.S. Has Deal to Send J.&J. Covid Vaccine to Conflict Zones, Blinken Says</a> NYT: Secretary of State Antony J. Blinken stressed the need to extend vaccine access to people living in areas unreachable by government-run programs. 
  <p class="updated_time"> 08:12 AM CT, Nov. 10 </p> 
  <a href="https://www.cnn.com/2021/11/10/politics/biden-jj-covid-vaccine-conflict-zones/index.html">Biden administration announces deal to provide J&J Covid-19 vaccine to people in conflict zones and humanitarian settings</a> CNN: The Biden administration will announce on Wednesday a new deal it brokered with Johnson & Johnson and Covax to provide J&J's Covid-19 vaccine to people in conflict zones and other humanitarian settings where government vaccine campaigns cannot reach, a White House official told CNN. 
  <p class="updated_time"> 07:21 AM CT, Nov. 10 </p> 
