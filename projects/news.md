@@ -7,14 +7,16 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:19 AM CT, Nov. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59256927?at_medium=RSS&at_campaign=KARANGA">Poland border: West condemns Belarus at UN over stranded migrants</a> BBC: EU nations, the US and UK say Belarus is putting migrants' lives in danger for political purposes. 
+ <p class="updated_time"> 01:12 AM CT, Nov. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59258112?at_medium=RSS&at_campaign=KARANGA">Danny Fenster: Myanmar court gives US journalist 11 years jail</a> BBC: A Myanmar military court sentences US journalist Danny Fenster to 11 years in jail. 
  <p class="updated_time"> 01:00 AM CT, Nov. 12 </p> 
  <a href="https://www.bbc.co.uk/news/uk-59247795?at_medium=RSS&at_campaign=KARANGA">COP26: Fear of failure on final day, and just how green was summit?</a> BBC: Five things you need to know about COP26 - the United Nations climate change conference - on Friday. 
  <p class="updated_time"> 12:59 AM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/world/australia/migration-and-experimentation-what-led-to-australias-coffee-culture.html">Migration and Experimentation: What Led to Australia’s Coffee Culture</a> NYT: When Italian migrants arrived after World War II, they helped develop a coffee scene that many now regard as the best in the world. 
  <p class="updated_time"> 12:51 AM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/world/asia/myanmar-danny-fenster.html">In Myanmar, Danny Fenster, American Journalist, Gets 11-Year Sentence</a> NYT: Danny Fenster, who was arrested in May by the military government, was given the maximum sentence on Friday after being convicted on three charges, his employer said. 
- <p class="updated_time"> 12:38 AM CT, Nov. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59258112?at_medium=RSS&at_campaign=KARANGA">Danny Fenster: Myanmar court gives US journalist 11 years jail</a> BBC: A Myanmar military court sentences US journalist Danny Fenster to 11 years in jail. 
  <p class="updated_time"> 12:36 AM CT, Nov. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59245018?at_medium=RSS&at_campaign=KARANGA">Covid: Austrians heading towards lockdown for unvaccinated</a> BBC: The measures comes as record infections are reported in Austria, Germany and the Netherlands. 
  <p class="updated_time"> 11:42 PM CT, Nov. 11 </p> 
@@ -29,8 +31,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/11/t-magazine/mexico-rice-conquest.html">Tracing Mexico’s Complicated Relationship With Rice</a> NYT: Having arrived in the country via the Spanish Conquest, the grain’s presence poses the question: What’s native, and what isn’t, when it comes to a nation’s culinary history? 
  <p class="updated_time"> 10:37 PM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/world/europe/migrants-poland-belarus-lukashenko.html">Migrants in Peril, and Raw Emotions, in a Volatile European Border Standoff</a> NYT: A confrontation over migrants between Belarus and Poland is growing more volatile, as nationalist fervor rises in both countries and a humanitarian disaster looms. 
- <p class="updated_time"> 10:13 PM CT, Nov. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59256927?at_medium=RSS&at_campaign=KARANGA">Belarus accused of orchestrating border crisis with Poland</a> BBC: EU nations, the US and UK say Belarus is putting migrants' lives in danger for political purposes. 
  <p class="updated_time"> 10:02 PM CT, Nov. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59229935?at_medium=RSS&at_campaign=KARANGA">China's Xi Jinping cements his status with historic resolution</a> BBC: Mr Xi is only the third leader to issue a "historical resolution" after Mao Zedong and Deng Xiaoping. 
  <p class="updated_time"> 09:56 PM CT, Nov. 11 </p> 
@@ -116,7 +116,7 @@ permalink: /projects/news/
  <p class="updated_time"> 12:15 PM CT, Nov. 11 </p> 
  <a href="https://www.npr.org/2021/11/11/1054770079/a-climate-summit-theme-how-much-should-wealthy-countries-pay-to-help-poorer-ones">A climate summit theme: How much should wealthy countries pay to help poorer ones? </a> NPR: Wealthy countries have historically been the largest producers of greenhouse gases. One of the biggest issues left at the COP26 summit is their role helping poorer nations cope with climate change. 
  <p class="updated_time"> 11:46 AM CT, Nov. 11 </p> 
- <a href="https://www.wsj.com/articles/hundreds-seeking-evacuation-from-afghanistan-forced-to-leave-safehouses-11636670801">Hundreds Seeking Evacuation From Afghanistan Forced to Leave Safehouses</a> WSJ: The volunteer group Task Force Argo said that it was unable to gain approval to fly the Afghans out of the country and that the cost of housing them was astronomical. 
+ <a href="https://www.wsj.com/articles/hundreds-seeking-evacuation-from-afghanistan-forced-to-leave-safehouses-11636670801">At-Risk Afghans Forced to Flee Safe Houses</a> WSJ: The volunteer group Task Force Argo said that it was unable to gain approval to fly the Afghans out of the country and that the cost of housing them was astronomical. 
  <p class="updated_time"> 11:40 AM CT, Nov. 11 </p> 
  <a href="https://www.npr.org/2021/11/11/1054772983/antonio-guterres-cop26-climate-change">The U.N. chief says the main global warming goal is on 'life support'</a> NPR: The U.N. secretary-general says the talks in Glasgow will "very probably" not yield the carbon-cutting pledges he has said are needed to keep the planet from warming beyond the 1.5-degree threshold. 
  <p class="updated_time"> 11:37 AM CT, Nov. 11 </p> 
