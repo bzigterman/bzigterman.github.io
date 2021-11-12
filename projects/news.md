@@ -7,6 +7,12 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:09 PM CT, Nov. 11 </p> 
+ <a href="https://www.nytimes.com/2021/11/11/t-magazine/senegal-homegrown-rice.html">In Senegal, a Return to Homegrown Rice</a> NYT: The country has remained mostly dependent on the grain’s importation since colonization in the 1800s. But some locals are trying to change that. 
+ <p class="updated_time"> 11:08 PM CT, Nov. 11 </p> 
+ <a href="https://www.nytimes.com/2021/11/11/t-magazine/scorched-burnt-rice.html">The Thrilling Dare of Scorched Rice</a> NYT: When browned on the bottom of the pot by a skilled cook, the grain is transformed into a complex delicacy, one prized by food cultures around the world. 
+ <p class="updated_time"> 11:06 PM CT, Nov. 11 </p> 
+ <a href="https://www.nytimes.com/2021/11/11/t-magazine/mexico-rice-conquest.html">Tracing Mexico’s Complicated Relationship With Rice</a> NYT: Having arrived in the country via the Spanish Conquest, the grain’s presence poses the question: What’s native, and what isn’t, when it comes to a nation’s culinary history? 
  <p class="updated_time"> 10:37 PM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/world/europe/migrants-poland-belarus-lukashenko.html">Migrants in Peril, and Raw Emotions, in a Volatile European Border Standoff</a> NYT: A confrontation over migrants between Belarus and Poland is growing more volatile, as nationalist fervor rises in both countries and a humanitarian disaster looms. 
  <p class="updated_time"> 10:13 PM CT, Nov. 11 </p> 
@@ -26,7 +32,7 @@ permalink: /projects/news/
  <p class="updated_time"> 07:20 PM CT, Nov. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59257003?at_medium=RSS&at_campaign=KARANGA">Capitol riot: Court temporarily blocks release of Trump files</a> BBC: Files chased by the Capitol riot inquiry will not be released until an appeals court hears the case. 
  <p class="updated_time"> 07:17 PM CT, Nov. 11 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-59253928?at_medium=RSS&at_campaign=KARANGA">COP26: Temperature fears as climate summit enters final day</a> BBC: UN chief Antonio Guterres says the goal of limiting global warming to 1.5C looks unlikely. 
+ <a href="https://www.bbc.co.uk/news/science-environment-59253928?at_medium=RSS&at_campaign=KARANGA">COP26: Fear of failure as climate summit enters final day</a> BBC: UN chief Antonio Guterres says the goal of limiting global warming to 1.5C looks unlikely. 
  <p class="updated_time"> 07:10 PM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/world/asia/xi-jinping-china-third-term.html">China's Xi Jingping Secures Political Future By Rewriting Past</a> NYT: Senior party officials have gathered at a closed-door meeting in Beijing to cement Mr. Xi’s dominance as he moves to claim a likely third term next year as China’s leader. 
  <p class="updated_time"> 06:40 PM CT, Nov. 11 </p> 
@@ -37,6 +43,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/11/world/africa/fw-de-klerk-dead.html">F.W. de Klerk, South Africa President Who Ended Apartheid, Dies at 85</a> NYT: A prominent Afrikaner, he defended the separation of the races before helping to dismantle that system, leading to his sharing the Nobel Peace Prize with Nelson Mandela. 
  <p class="updated_time"> 06:04 PM CT, Nov. 11 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59205648?at_medium=RSS&at_campaign=KARANGA">Seven ways to curb climate change</a> BBC: What are the practical things countries need to do in order to tackle climate change? 
+ <p class="updated_time"> 05:59 PM CT, Nov. 11 </p> 
+ <a href="https://www.wsj.com/articles/biden-and-chinas-xi-to-hold-virtual-summit-on-monday-11636688117">Biden and Xi to Hold Virtual Summit on Monday</a> WSJ: President Biden and Chinese President Xi Jinping plan to hold a virtual summit on Monday, people familiar with the matter said, as the two leading world economies pledge to work together on climate change but differences remain over Taiwan and other fronts. 
  <p class="updated_time"> 05:50 PM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/world/europe/belarus-poland-border-russia.html">Russia Reacts to Belarus-Poland Border Crisis</a> NYT: President Vladimir Putin’s spokesman said that Russia was doing all it could to resolve the situation, but he also warned of the possibility of a military escalation, according to the Russian state news agency RIA Novosti. 
  <p class="updated_time"> 05:37 PM CT, Nov. 11 </p> 
@@ -51,8 +59,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/10/world/europe/covid-germany-cases.html">Germany Weighs New Covid Rules as Infections Reach Record Heights</a> NYT: Nearly 40,000 new cases were registered in the country on Tuesday — the third time a daily record was set within a week. “We have a real emergency situation,” a top virologist said. 
  <p class="updated_time"> 05:01 PM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/world/africa/covid-uganda-schools.html">Dropouts and Menial Jobs: The Effects of Keeping Uganda's Schools Closed</a> NYT: Recalling the orphans of the H.I.V./AIDS crisis, government officials fear students infecting their parents and keep schools closed. 
- <p class="updated_time"> 04:35 PM CT, Nov. 11 </p> 
- <a href="https://www.wsj.com/articles/biden-and-chinas-xi-to-hold-virtual-summit-on-monday-11636688117">Biden and Xi to Hold Virtual Summit on Monday</a> WSJ: President Biden and Chinese President Xi Jinping plan to hold a virtual summit on Monday, people familiar with the matter said, as the two leading world economies pledge to work together on climate change but differences remain over Taiwan and other fronts. 
  <p class="updated_time"> 03:49 PM CT, Nov. 11 </p> 
  <a href="https://www.npr.org/2021/11/11/1054884177/migrants-entering-poland-from-belarus-face-sub-zero-temperatures-and-military-pa">Migrants entering Poland from Belarus face sub-zero temperatures and military patrols</a> NPR: NPR's Mary Louise Kelly talks with Matthew Luxmoore of Radio Free Europe about the growing migrant crisis on the border of Belarus and Poland. 
  <p class="updated_time"> 03:49 PM CT, Nov. 11 </p> 
@@ -137,14 +143,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-13230608?at_medium=RSS&at_campaign=KARANGA">FW de Klerk: South Africa's last white president</a> BBC: The last president of a segregated South Africa, who freed Nelson Mandela, and paved the way to majority rule. 
  <p class="updated_time"> 04:08 AM CT, Nov. 11 </p> 
  <a href="https://www.wsj.com/articles/south-africa-cant-afford-to-quit-coal-will-rich-countries-pay-for-the-transition-11636643299">South Africa Can't Afford to Quit Coal.  Will Rich Countries Pay for the Transition?</a> WSJ: Pressure to end coal-powered electricity generation has fired tensions between already-industrialized nations and developing ones, which have poured billions into coal infrastructure. South Africa is the most dependent on the fuel of any G-20 country. 
- <p class="updated_time"> 04:03 AM CT, Nov. 11 </p> 
- <a href="https://www.nytimes.com/2021/11/11/t-magazine/mexico-rice-conquest.html">Tracing Mexico’s Complicated Relationship With Rice</a> NYT: Having arrived in the country via the Spanish Conquest, the grain’s presence poses the question: What’s native, and what isn’t, when it comes to a nation’s culinary history? 
  <p class="updated_time"> 04:02 AM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/t-magazine/mansaf-bedouin-rice.html">For Many Members of the Arab American Diaspora, Mansaf Offers a Taste of Home</a> NYT: The traditional Bedouin dish of bread, rice, lamb and yogurt is a talisman of identity in Jordan — and in various communities in suburban Detroit. 
- <p class="updated_time"> 04:00 AM CT, Nov. 11 </p> 
- <a href="https://www.nytimes.com/2021/11/11/t-magazine/senegal-homegrown-rice.html">In Senegal, a Return to Homegrown Rice</a> NYT: The country has remained mostly dependent on the grain’s importation since colonization in the 1800s. But some locals are trying to change that. 
- <p class="updated_time"> 04:00 AM CT, Nov. 11 </p> 
- <a href="https://www.nytimes.com/2021/11/11/t-magazine/scorched-burnt-rice.html">The Thrilling Dare of Scorched Rice</a> NYT: When browned on the bottom of the pot by a skilled cook, the grain is transformed into a complex delicacy, one prized by food cultures around the world. 
  <p class="updated_time"> 04:00 AM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/business/india-stock-market.html">India's Stock Market is Soaring, Luring Investors at Home and Abroad</a> NYT: The second-most populous country is enjoying some of the world’s strongest stock market returns. Pro-growth policies and gnawing questions about China have helped. 
  <p class="updated_time"> 03:48 AM CT, Nov. 11 </p> 
