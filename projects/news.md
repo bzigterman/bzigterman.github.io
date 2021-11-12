@@ -7,7 +7,13 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:29 PM CT, Nov. 12 </p> 
+ <p class="updated_time"> 12:45 PM CT, Nov. 12 </p> 
+ <a href="https://www.nytimes.com/live/2021/11/12/world/belarus-poland-border-migrants">Live Updates: Airlines Limit Flights to Belarus to Slow Flow of Migrants to E.U. Borders</a> NYT: With thousands stranded on the border between Poland and Belarus, Russia sent conflicting signals. The Kremlin says it will not allow Belarus to disrupt the flow of natural gas to Europe. At the same time, Moscow flexed its military might in a show of support for its ally. 
+ <p class="updated_time"> 12:45 PM CT, Nov. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/57975275?at_medium=RSS&at_campaign=KARANGA">COP 26: How much are poor countries getting to fight climate change?</a> BBC: Are rich countries close to meeting their climate promises to the developing world? 
+ <p class="updated_time"> 12:41 PM CT, Nov. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59268506?at_medium=RSS&at_campaign=KARANGA">Poland border: Heat camera shows migrants stranded between the two countries</a> BBC: The migrants - who are mainly young men - are enduring freezing conditions in the hopes of reaching the EU. 
+ <p class="updated_time"> 12:36 PM CT, Nov. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59258409?at_medium=RSS&at_campaign=KARANGA">Covid: Dutch partial lockdown to tackle surge in infections</a> BBC: The measures will last three weeks, while Austria plans a lockdown for the unvaccinated. 
  <p class="updated_time"> 12:24 PM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/world/africa/de-klerk-apartheid-south-africa.html">For Some South Africans, de Klerk Missed Chances for True Reconciliation</a> NYT: The last white president of South Africa helped bring an end to the apartheid regime, but for many citizens, he never went far enough to disavow it. He left a video apologizing. 
@@ -25,8 +31,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/12/1054242599/biden-and-xi-will-meet-virtually-on-monday-heres-whats-at-stake">Biden and Xi will meet (virtually) on Monday. Here's what's at stake</a> NPR: It's been more than two years since leaders of the United States and China met face-to-face. This meeting will be virtual, not in person, and comes at a time of high tensions. 
  <p class="updated_time"> 11:07 AM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/world/asia/hong-kong-rthk-crackdown-china.html">RTHK’s Swift Turn From Maverick Voice to Official Mouthpiece</a> NYT: RTHK has often set the news agenda with its aggressive coverage of the city. But a Beijing clampdown has changed that, with pro-China coverage filling the void. 
- <p class="updated_time"> 11:05 AM CT, Nov. 12 </p> 
- <a href="https://www.nytimes.com/live/2021/11/12/world/belarus-poland-border-migrants">Live Updates: Airlines Limit Flights to Belarus to Slow Flow of Migrants to E.U. Borders</a> NYT: With thousands stranded on the border between Poland and Belarus, Russia sent conflicting signals. The Kremlin says it will not allow Belarus to disrupt the flow of natural gas to Europe. At the same time, Moscow flexed its military might in a show of support for its ally. 
  <p class="updated_time"> 11:00 AM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/arts/design/new-york-international-tourists.html">‘Be Nice to Tourists’: New York’s Arts Scene Needs International Visitors</a> NYT: The United States now allows vaccinated international travelers into the country. It’s welcome news for arts institutions that lost revenue and cut jobs during the pandemic. 
  <p class="updated_time"> 10:59 AM CT, Nov. 12 </p> 
@@ -169,8 +173,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/11/world/middleeast/israel-palestinian-nso-hacking.html">Palestinian Diplomats Targeted by Israeli Spyware, Official Says</a> NYT: The accusation, which has not been independently verified, raises new questions over whether Israel is using software made by NSO Group to spy on Palestinians. 
  <p class="updated_time"> 01:23 PM CT, Nov. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59253377?at_medium=RSS&at_campaign=KARANGA">Poland-Belarus: How social media posts fuelled the migrant crisis</a> BBC: Messages on social media had a key role in a mass move of migrants to the Polish border this week. 
- <p class="updated_time"> 01:01 PM CT, Nov. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59246627?at_medium=RSS&at_campaign=KARANGA">Celebrity grizzly bear takes her cubs into town</a> BBC: Online star 'Grizzly 399', who has her own Instagram page, took a stroll through Jackson Hole, Wyoming. 
  <p class="updated_time"> 12:56 PM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/world/africa/sudan-military-coup.html">Sudan’s Top General Entrenches Military Coup, Frustrating Western Efforts</a> NYT: A little over two weeks after seizing power, Sudan’s top general created a new ruling body led by himself. The civilian prime minister remains under house arrest. 
  <p class="updated_time"> 12:22 PM CT, Nov. 11 </p> 
@@ -187,8 +189,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/science-environment-59251772?at_medium=RSS&at_campaign=KARANGA">My Day at COP26: 'Anything we achieve in Glasgow is not going to be enough'</a> BBC: Bangladeshi climate scientist, Saleemul Huq, is at COP26 to advise the world’s least developed countries. He describes the mood as the summit nears its conclusion. 
  <p class="updated_time"> 07:57 AM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/world/europe/eu-covid-deaths.html">Europe's Covid Deaths Rose 10 Percent in a Week, the W.H.O. Says</a> NYT: Cases and fatalities have increased on the continent, even as they have dropped or remained stable in other parts of the globe. 
- <p class="updated_time"> 07:24 AM CT, Nov. 11 </p> 
- <a href="https://www.bbc.co.uk/news/57975275?at_medium=RSS&at_campaign=KARANGA">COP 26: How much are poor countries getting to fight climate change?</a> BBC: Are rich countries close to meeting their climate promises to the developing world? 
  <p class="updated_time"> 04:54 AM CT, Nov. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-13230608?at_medium=RSS&at_campaign=KARANGA">FW de Klerk: South Africa's last white president</a> BBC: The last president of a segregated South Africa, who freed Nelson Mandela, and paved the way to majority rule. 
  <p class="updated_time"> 04:02 AM CT, Nov. 11 </p> 
