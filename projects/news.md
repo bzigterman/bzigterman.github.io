@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:53 AM CT, Nov. 12 </p> 
+ <p class="updated_time"> 09:19 AM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/live/2021/11/12/world/belarus-poland-border-migrants">Live Updates: Airlines Limit Flights to Belarus to Slow Flow of Migrants to E.U. Borders</a> NYT: With thousands stranded on the border between Poland and Belarus, Russia sent conflicting signals. The Kremlin says it will not allow Belarus to disrupt the flow of natural gas to Europe. At the same time, Moscow flexed its military might in a show of support for its ally. 
  <p class="updated_time"> 08:47 AM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/world/asia/myanmar-danny-fenster.html">Danny Fenster, U.S. Journalist in Myanmar, Gets 11 Years in Jail</a> NYT: Danny Fenster was given the toughest possible sentence on three charges, in a signal that the country’s military rulers would not bow to international pressure. 
@@ -70,7 +70,7 @@ permalink: /projects/news/
  <p class="updated_time"> 12:59 AM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/world/australia/migration-and-experimentation-what-led-to-australias-coffee-culture.html">Migration and Experimentation: What Led to Australia’s Coffee Culture</a> NYT: When Italian migrants arrived after World War II, they helped develop a coffee scene that many now regard as the best in the world. 
  <p class="updated_time"> 12:58 AM CT, Nov. 12 </p> 
- <a href="https://www.wsj.com/articles/biden-and-xi-pressed-for-u-s-china-climate-statement-11636718318">Biden and Xi Pressed for U.S.-China Climate Statement</a> WSJ: The announcement that the U.S. and China would cooperate on accelerating a transition to cleaner energy came after both President Biden and Chinese President Xi Jinping encouraged their delegates to find common ground. 
+ <a href="https://www.wsj.com/articles/biden-and-xi-pressed-for-u-s-china-climate-statement-11636718318">U.S.-China Climate Change Cooperation Driven by Biden and Xi's Need for Deal</a> WSJ: The announcement that the U.S. and China would cooperate on accelerating a transition to cleaner energy came after both President Biden and Chinese President Xi Jinping encouraged their delegates to find common ground. 
  <p class="updated_time"> 12:44 AM CT, Nov. 12 </p> 
  <a href="https://www.wsj.com/articles/cop26-talks-enter-final-scheduled-day-with-deal-still-elusive-11636717491">COP26 Talks Enter Final Scheduled Day With Deal Still Elusive</a> WSJ: Negotiators seeking to reach a global deal to slow climate change entered the last scheduled day of talks still wrestling with big differences over the wording of what they hope will be a meaningful agreement. 
  <p class="updated_time"> 12:15 AM CT, Nov. 12 </p> 
@@ -214,6 +214,14 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:19 AM CT, Nov. 12 </p> 
+ <a href="https://www.cnn.com/2021/11/12/politics/lisa-murkowski-alaska-reelection/index.html">GOP Sen. Lisa Murkowski of Alaska announces reelection bid</a> CNN: GOP Sen. Lisa Murkowski of Alaska announced her bid Friday for reelection in a race that's sure to be tough for the moderate Republican who has been a strong critic of former President Donald Trump. 
+ <p class="updated_time"> 09:15 AM CT, Nov. 12 </p> 
+ <a href="https://www.cnn.com/2021/11/12/politics/november-child-tax-credit-payment/index.html">Next child tax credit payments set to go out Monday</a> CNN: The latest round of monthly child tax credit payments is scheduled to be distributed to tens of millions of families on Monday. And it could be the next-to-last one unless Congress acts. 
+ <p class="updated_time"> 09:07 AM CT, Nov. 12 </p> 
+ <a href="https://www.cnn.com/2021/11/12/politics/us-qatar-afghanistan/index.html">US signs agreement for Qatar to represent its diplomatic interests in Afghanistan</a> CNN: The US and Qatar signed an agreement Friday to have Qatar's embassy in Kabul represent US interests in Afghanistan as senior officials from the two countries met in Washington for the US-Qatar Strategic Dialogue. 
+ <p class="updated_time"> 08:52 AM CT, Nov. 12 </p> 
+ <a href="https://www.cnn.com/2021/11/12/politics/kamala-harris-paris/index.html">Harris says she did not discuss submarine deal with Macron during Paris meeting</a> CNN: Vice President Kamala Harris said she did not discuss with French President Emmanuel Macron the surprise deal between the US and Australia to develop nuclear submarines that angered the French, leading to a fallout between the longstanding allies. 
  <p class="updated_time"> 08:50 AM CT, Nov. 12 </p> 
  <a href="https://www.politico.com/news/2021/11/12/biden-poised-to-nominate-califf-as-fda-chief-521060">Biden poised to nominate Califf as FDA chief</a> Politico: The move would bring the Obama-era official back for a second tour atop the agency. 
  <p class="updated_time"> 08:48 AM CT, Nov. 12 </p> 
@@ -240,8 +248,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/12/south-korea-candidate-north-nuclear-program-521012">S. Korean candidate takes tough line on North's nuclear program</a> Politico: Yoon Suk Yeol stressed the need to boost cooperation with Washington and Japan to make up for South Korea’s relative lack of ability to monitor North Korea’s advancing nuclear program. 
  <p class="updated_time"> 06:13 AM CT, Nov. 12 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/12/trump-sours-on-desantis-495081">POLITICO Playbook: Trump sours on DeSantis</a> Politico: And Sen. Lisa Murkowski (R-Alaska) says she'll run for reelection. 
- <p class="updated_time"> 06:05 AM CT, Nov. 12 </p> 
- <a href="https://www.cnn.com/2021/11/12/politics/lisa-murkowski-alaska-reelection/index.html">GOP Sen. Lisa Murkowski of Alaska announces reelection bid</a> CNN: GOP Sen. Lisa Murkowski of Alaska announced her bid Friday for reelection in a race that's sure to be tough for the moderate Republican who has been a strong critic of former President Donald Trump. 
  <p class="updated_time"> 06:03 AM CT, Nov. 12 </p> 
  <a href="https://www.cnn.com/2021/11/12/politics/biden-private-prisons-immigration-detention-centers-invs/index.html">Biden vowed to close federal private prisons, but prison companies are finding loopholes to keep them open</a> CNN: Leavenworth Detention Center seems like a prime example of why President Joe Biden wants to close private prisons: So far this year, the federally contracted jail has been the site of multiple stabbings and a fatal beating. Former guards say drugs and weapons are common behind bars -- and for months, many cell doors didn't even lock. A judge called it "an absolute hellhole" at a recent sentencing hearing.  
  <p class="updated_time"> 06:02 AM CT, Nov. 12 </p> 
@@ -269,7 +275,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:08 AM CT, Nov. 12 </p> 
  <a href="https://www.npr.org/2021/11/12/1055030223/the-fbi-arrests-a-key-contributor-to-efforts-trying-to-link-trump-with-russia">Arrest of Steele dossier source forces some news outlets to reexamine their coverage</a> NPR: News groups are revisiting their coverage of allegations against candidate and then President Trump, after a Russian analyst, a key source for the Steele Dossier, was charged with lying to the FBI. 
  <p class="updated_time"> 04:00 AM CT, Nov. 12 </p> 
- <a href="https://www.npr.org/2021/11/12/1054889820/a-bill-to-study-reparations-for-slavery-had-momentum-in-congress-but-still-no-vo">A bill to study reparations for slavery had momentum in Congress, but still no vote</a> NPR: Legislation to create a commission to study reparations faces steep odds in the evenly divided Congress. Advocates say they want the House take up the bill, or for President Biden to act on his own. 
+ <a href="https://www.npr.org/2021/11/12/1054889820/a-bill-to-study-reparations-for-slavery-had-momentum-in-congress-but-still-no-vo">A bill to study reparations for slavery had momentum in Congress, but still no vote</a> NPR: Legislation to create a commission to study reparations faces steep odds in the evenly divided Congress. Advocates want the House to take up the bill, or for President Biden to act on his own. 
  <p class="updated_time"> 04:00 AM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/us/politics/democrats-trifecta-power.html">Why Democrats May Have a Long Wait if They Lose Their Grip on Washington</a> NYT: Voters’ reflexive instinct to check the party in power makes it hard for any party to retain a hold on both the White House and Congress for long. 
  <p class="updated_time"> 02:00 AM CT, Nov. 12 </p> 
@@ -302,8 +308,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/11/us/politics/dc-jail-jan-6.html">Problems at D.C. Jail Were Ignored Until Jan. 6 Defendants Came Along</a> NYT: At a hearing this week, officials said longstanding issues at the jail, where most inmates are Black, did not get much attention until the largely white rioters were held there. 
  <p class="updated_time"> 04:55 PM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/10/us/politics/biden-infrastructure.html">Biden Got His Infrastructure Bill. Now He Has to Sell It to Voters.</a> NYT: Inside the Democratic Party, concerns are growing about whether the president will be able to fully capitalize on a major legislative victory. 
- <p class="updated_time"> 04:54 PM CT, Nov. 11 </p> 
- <a href="https://www.cnn.com/2021/11/11/politics/january-6-insurrection-pence-what-matters/index.html">Analysis: It's been a huge week for the January 6 investigation</a> CNN: The House select committee investigating the January 6 insurrection appears to be ramping up. 
  <p class="updated_time"> 04:54 PM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/10/us/politics/republicans-backlash-infrastructure-bill.html">13 Republicans Face Backlash for Backing Infrastructure Bill</a> NYT: The 13 Republican lawmakers who broke with their party to support a $1 trillion bipartisan public works bill have drawn anger and threats from their colleagues and constituents. 
  <p class="updated_time"> 04:45 PM CT, Nov. 11 </p> 
@@ -356,8 +360,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/11/1054614958/at-baltimore-port-biden-reassures-americans-about-shipping-snags-inflation">At Baltimore port, Biden reassures Americans about shipping snags, inflation</a> NPR: President Biden toured the busy Port of Baltimore Wednesday, part of his push to show he has a handle on supply chain snarls and concerns about inflation — while promoting his legislative agenda. 
  <p class="updated_time"> 06:16 AM CT, Nov. 11 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/11/the-other-big-intra-democratic-fight-495065">POLITICO Playbook: The other big intra-Democratic fight</a> Politico: And the inflation jump turns the temperature up. 
- <p class="updated_time"> 06:05 AM CT, Nov. 11 </p> 
- <a href="https://www.cnn.com/2021/11/11/politics/joe-biden-inflation-messaging/index.html">Biden changes his tone and walks a delicate line on inflation</a> CNN: Rising consumer prices have quickly become one of the White House's most urgent concerns as Americans grow unsettled at the higher cost of goods -- and place the blame on President Joe Biden. 
  <p class="updated_time"> 04:30 AM CT, Nov. 11 </p> 
  <a href="https://www.politico.com/news/2021/11/11/bidens-voters-recovery-conundrum-520771">Biden's ‘I feel your pain’ conundrum</a> Politico: It’s tripped up the last two Democratic presidents and could trip up Biden too: How to sell a recovery when most voters aren’t feeling it. 
  <p class="updated_time"> 04:06 AM CT, Nov. 11 </p> 
@@ -400,8 +402,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/10/technology/doj-uber-suit-disabilities.html">U.S. Sues Uber, Saying It Discriminated Against People With Disabilities</a> NYT: The Justice Department says Uber did not adjust its wait time fees for people with disabilities, even when Uber knew someone needed additional time. 
  <p class="updated_time"> 10:13 AM CT, Nov. 10 </p> 
  <a href="https://www.cnn.com/2021/11/10/politics/joe-biden-inflation/index.html">Biden on inflation report: 'Reversing this trend is a top priority for me'</a> CNN: President Joe Biden said Wednesday that inflation statistics showing America's prices are surging more than they have in 30 years are proof that there is "more work to do before our economy is back to normal." 
- <p class="updated_time"> 10:02 AM CT, Nov. 10 </p> 
- <a href="https://www.cnn.com/2021/11/10/politics/justin-trudeau-joe-biden-andres-manuel-lopez-obrador/index.html">Biden to meet with Trudeau and López Obrador for first US-Canada-Mexico summit since 2016</a> CNN: Canadian Prime Minister Justin Trudeau and Mexican President Andrés Manuel López Obrador will come to the White House on November 18 for a summit with President Joe Biden, the first North American Leaders' Summit since 2016. 
  <p class="updated_time"> 08:12 AM CT, Nov. 10 </p> 
  <a href="https://www.cnn.com/2021/11/10/politics/biden-jj-covid-vaccine-conflict-zones/index.html">Biden administration announces deal to provide J&J Covid-19 vaccine to people in conflict zones and humanitarian settings</a> CNN: The Biden administration will announce on Wednesday a new deal it brokered with Johnson & Johnson and Covax to provide J&J's Covid-19 vaccine to people in conflict zones and other humanitarian settings where government vaccine campaigns cannot reach, a White House official told CNN. 
  <p class="updated_time"> 07:21 AM CT, Nov. 10 </p> 
