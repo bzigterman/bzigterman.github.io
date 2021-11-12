@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:27 PM CT, Nov. 11 </p> 
+ <a href="https://www.nytimes.com/2021/11/11/world/asia/zuo-fang-dead.html">Zuo Fang, a Founder of China's Southern Weekly, is Dead</a> NYT: When he helped start Southern Weekly, he charted a course for a freer era for the country’s press, which later became increasingly constrained by Beijing. 
  <p class="updated_time"> 08:10 PM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/world/europe/migrants-poland-belarus-lukashenko.html">Migrants in Peril, and Raw Emotions, in a Volatile European Border Standoff</a> NYT: A confrontation over migrants between Belarus and Poland is growing more volatile, as nationalist fervor rises in both countries and a humanitarian disaster looms. 
  <p class="updated_time"> 07:24 PM CT, Nov. 11 </p> 
@@ -57,8 +59,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/11/1054884112/xi-jinping-is-in-a-good-position-to-break-norms-and-continue-to-lead-china">Xi Jinping is in a good position to break norms and continue to lead China</a> NPR: In China, leadership has concluded a four-day meeting that endorsed Xi Jinping's vision for the country and signed off on a reassessment of the party's 100-year history. 
  <p class="updated_time"> 03:31 PM CT, Nov. 11 </p> 
  <a href="https://www.npr.org/2021/11/11/1054884098/with-covid-case-rates-in-europe-rising-some-countries-are-bringing-back-restrict">With COVID case rates in Europe rising, some countries are bringing back restrictions</a> NPR: After reducing or eliminating COVID restrictions as more people became vaccinated, many European countries are being forced to reverse course, as infections increase across the continent. 
- <p class="updated_time"> 03:21 PM CT, Nov. 11 </p> 
- <a href="https://www.nytimes.com/2021/11/11/world/asia/zuo-fang-dead.html">Zuo Fang, a Founder of China's Southern Weekly, is Dead</a> NYT: When he helped start Southern Weekly, he charted a course for a freer era for the country’s press, which later became increasingly constrained by Beijing. 
  <p class="updated_time"> 03:19 PM CT, Nov. 11 </p> 
  <a href="https://www.npr.org/2021/11/11/1054884077/the-complicated-legacy-of-f-w-klerk-south-africas-last-apartheid-era-president">The complicated legacy of F.W. de Klerk, South Africa's last apartheid-era president</a> NPR: F.W. de Klerk, South Africa's last apartheid-era president, has died at the age of 85. De Klerk shared the Nobel Peace Prize with Nelson Mandela in 1993, but always remained a divisive figure. 
  <p class="updated_time"> 03:19 PM CT, Nov. 11 </p> 
@@ -214,6 +214,10 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:54 PM CT, Nov. 11 </p> 
+ <a href="https://www.politico.com/news/2021/11/11/millionaires-tax-cut-dems-plan-521004">Most millionaires could get tax cut under House Dems' tax plan</a> Politico: About two-thirds of people making more than $1 million would see a tax cut next year averaging $16,800, the Tax Policy Center said Thursday. 
+ <p class="updated_time"> 08:23 PM CT, Nov. 11 </p> 
+ <a href="https://www.npr.org/sections/coronavirus-live-updates/2021/11/11/1054959986/states-lawsuit-biden-administration-covid-vaccine-mandate-health-workers">10 states sue Biden administration over COVID vaccine mandate for health care workers</a> NPR: The state attorneys general argue the vaccine mandate will lead to shortages of health care workers and could threaten the jobs of millions of their jobs. 
  <p class="updated_time"> 07:54 PM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/us/politics/trump-files-january-6.html">Court Issues Brief Hold on Release of Trump Files in Jan. 6 Inquiry</a> NYT: Congress had been set to receive the first batch of Trump White House files from the National Archives on Friday, a move that the former president had fought. 
  <p class="updated_time"> 07:46 PM CT, Nov. 11 </p> 
@@ -372,8 +376,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/10/1054024084/capitol-riot-suspects-had-more-ties-to-oath-keepers-than-previously-known">Capitol riot suspects had more ties to Oath Keepers than previously known</a> NPR: NPR has identified previously undisclosed connections between the far-right anti-government group the Oath Keepers and defendants charged in connection with the Jan. 6 Capitol riot. 
  <p class="updated_time"> 03:11 PM CT, Nov. 10 </p> 
  <a href="https://www.npr.org/2021/11/10/1054428101/vp-harris-met-with-macron-as-part-of-the-ongoing-effort-to-mend-alliance-with-fr">VP Harris met with Macron as part of the ongoing effort to mend alliance with France</a> NPR: Vice President Harris meets with French President Emmanuel Macron, the latest in series of Biden administration diplomatic make-up sessions in the wake of the Australian nuclear submarine deal. 
- <p class="updated_time"> 03:11 PM CT, Nov. 10 </p> 
- <a href="https://www.npr.org/2021/11/10/1054428080/from-cop26-pete-buttigieg-describes-how-transportation-factors-into-climate-goal">From COP26: Pete Buttigieg describes how transportation factors into climate goals</a> NPR: NPR's Ari Shapiro speaks with U.S. Transportation Secretary Pete Buttigieg from COP26, as world leaders release a draft of their goals to cut emissions and avert disastrous climate change. 
  <p class="updated_time"> 02:40 PM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/us/politics/pac-operator-charges.html">Three Men Charged With Running ‘Scam PACs’ That Bilked Small Donors</a> NYT: The Justice Department said the three men defrauded donors of $3.5 million, including through robocalls that impersonated former President Donald J. Trump. 
  <p class="updated_time"> 02:21 PM CT, Nov. 10 </p> 
@@ -412,8 +414,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/09/senate-dems-year-end-train-wreck-520275">The Senate’s year-end to-do list is ‘going to be a train wreck’</a> Politico: Ho, ho, oh no. Long nights, weekend work and threatened holidays are a Capitol tradition, and this year is likely no exception. 
  <p class="updated_time"> 04:30 AM CT, Nov. 09 </p> 
  <a href="https://www.politico.com/news/2021/11/09/senate-dems-year-end-train-wreck-520275">The Senate’s year-end to-do list is ‘going to be a train wreck’</a> Politico: Ho, ho, oh no. Long nights, weekend work and threatened holidays are a Capitol tradition, and this year is likely no exception. 
- <p class="updated_time"> 04:30 AM CT, Nov. 09 </p> 
- <a href="https://www.politico.com/news/2021/11/09/biden-hbcus-howard-university-protests-520391">Biden made huge promises to HBCUs. Can he sell its students on compromise?</a> Politico: The administration is still proposing historic funds. Kamala Harris remains a trusted alumnus. But campus life at the country’s most famous HBCU is in tumult. 
  <p class="updated_time"> 07:24 PM CT, Nov. 08 </p> 
  <a href="https://www.politico.com/news/2021/11/08/biden-vaccine-covid-mandate-lives-520367">Biden administration: Blocking vaccine mandate could cost ‘hundreds of lives per day’</a> Politico: The administration warned a federal court of the dangers of a stay of its vaccinate-or-test requirement for private employers. 
  <p class="updated_time"> 07:20 AM CT, Nov. 08 </p> 
