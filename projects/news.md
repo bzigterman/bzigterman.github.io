@@ -7,8 +7,10 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:48 AM CT, Nov. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59258409?at_medium=RSS&at_campaign=KARANGA">Covid: Dutch set for partial lockdown as infections surge</a> BBC: The measures are expected to last three weeks, while Austria plans a lockdown for the unvaccinated. 
+ <p class="updated_time"> 12:15 PM CT, Nov. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59258409?at_medium=RSS&at_campaign=KARANGA">Covid: Dutch partial lockdown to tackle surge in infections</a> BBC: The measures will last three weeks, while Austria plans a lockdown for the unvaccinated. 
+ <p class="updated_time"> 12:02 PM CT, Nov. 12 </p> 
+ <a href="https://www.nytimes.com/2021/11/12/world/middleeast/israel-ethiopia-jews-immigration.html">Ethiopian Civil War Sparks Rancorous Debate Over Immigration to Israel</a> NYT: Thousands of relatives of the remnants of Ethiopian Jewry are waiting to be airlifted to Israel. For now, the Israeli government sees no urgency. 
  <p class="updated_time"> 11:41 AM CT, Nov. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59266211?at_medium=RSS&at_campaign=KARANGA">French teenage jogger admits lying about kidnap escape</a> BBC: The 17-year-old had claimed she escaped her kidnappers, in a case that has gripped France. 
  <p class="updated_time"> 11:41 AM CT, Nov. 12 </p> 
@@ -17,8 +19,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/12/world/europe/covid-netherlands-lockdown.html">Netherlands Looks to Partial Lockdown as Covid Cases Rise</a> NYT: The Dutch lockdown will not single out those who are unvaccinated. The country is experiencing rising case numbers amid a fourth wave of infections. 
  <p class="updated_time"> 11:36 AM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/world/europe/covid-italy-green-pass.html">Police in Milan Search Homes of 4 People Tied to Protests Over Covid Passes</a> NYT: The group has staged protests for weeks over a nationwide Covid rule, often blocking traffic and access to city centers. 
- <p class="updated_time"> 11:10 AM CT, Nov. 12 </p> 
- <a href="https://www.nytimes.com/2021/11/12/world/middleeast/israel-ethiopia-jews-immigration.html">Ethiopian Civil War Sparks Rancorous Debate over Immigration to Israel</a> NYT: Thousands of relatives of the remnants of Ethiopian Jewry are waiting to be airlifted to Israel. For now, the Israeli government sees no urgency. 
  <p class="updated_time"> 11:08 AM CT, Nov. 12 </p> 
  <a href="https://www.npr.org/2021/11/12/1054242599/biden-and-xi-will-meet-virtually-on-monday-heres-whats-at-stake">Biden and Xi will meet (virtually) on Monday. Here's what's at stake</a> NPR: It's been more than two years since leaders of the United States and China met face-to-face. This meeting will be virtual, not in person, and comes at a time of high tensions. 
  <p class="updated_time"> 11:07 AM CT, Nov. 12 </p> 
@@ -209,8 +209,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/10/us/politics/russia-blinken-ukraine.html">Blinken Warns Russia Against Making a ‘Serious Mistake’ in Ukraine</a> NYT: Appearing with Ukraine’s foreign minister, Secretary of State Antony J. Blinken said the intentions behind Moscow’s latest military buildup were unclear. 
  <p class="updated_time"> 04:37 PM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/world/europe/boris-johnson-climate-scandal.html">Boris Johnson Handles Scandal Amid Climate Conference</a> NYT: As the host leader of the U.N. conference on global warming, Mr. Johnson was hoping to project statesmanship. But a mushrooming ethics scandal dominated the week, overshadowing his climate ambitions. 
- <p class="updated_time"> 01:24 PM CT, Nov. 10 </p> 
- <a href="https://www.nytimes.com/2021/11/10/world/africa/mozambique-corruption-manuel-chang-extradition.html">Manuel Chang Will Face Corruption Charges in U.S.</a> NYT: A judge overturned the South African government’s decision to send the minister back to Mozambique, where civil society groups say his political clout will protect him. 
 
 
 </details>
