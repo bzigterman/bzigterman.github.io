@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:46 PM CT, Nov. 11 </p> 
+ <a href="https://www.nytimes.com/2021/11/11/world/europe/glasgow-garbage-strike.html">Outside COP26, Trash in Glasgow Piles High</a> NYT: At COP26, delegates address the need to curb emissions and mass consumption to save the planet while the reality of today’s throwaway society is all too apparent nearby. 
  <p class="updated_time"> 08:46 PM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/world/asia/india-pollution-yamuna-chhath.html">On Delhi’s Toxic River, Prayers to a Sun Struggling to Shine Through Smog</a> NYT: Every year, a four-day festival to the sun god Surya highlights the Indian city’s extreme air and water pollution, with a river so filled with foam it resembles a blizzard’s aftermath. 
  <p class="updated_time"> 08:27 PM CT, Nov. 11 </p> 
@@ -119,8 +121,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-latin-america-59249540?at_medium=RSS&at_campaign=KARANGA">Chan Chan: Mass grave found in ancient Peruvian city</a> BBC: Twenty-five people, mostly young women, were buried in a small space in the ancient city of Chan Chan. 
  <p class="updated_time"> 07:24 AM CT, Nov. 11 </p> 
  <a href="https://www.bbc.co.uk/news/57975275?at_medium=RSS&at_campaign=KARANGA">COP 26: How much are poor countries getting to fight climate change?</a> BBC: Are rich countries close to meeting their climate promises to the developing world? 
- <p class="updated_time"> 07:10 AM CT, Nov. 11 </p> 
- <a href="https://www.nytimes.com/2021/11/11/world/europe/glasgow-garbage-strike.html">Outside COP26, Trash in Glasgow Piles High</a> NYT: At COP26, delegates address the need to curb emissions and mass consumption to save the planet while the reality of today’s throwaway society is all too apparent nearby. 
  <p class="updated_time"> 06:47 AM CT, Nov. 11 </p> 
  <a href="https://www.wsj.com/articles/europe-weighs-border-walls-as-migrants-mass-in-belarus-at-polands-frontier-11636649364">Europe Weighs Border Walls as Migrants Mass in Belarus at Poland's Frontier</a> WSJ: The European Union is adopting a tougher stance toward migration in response to what officials see as a hybrid attack from a close Russian ally. 
  <p class="updated_time"> 06:17 AM CT, Nov. 11 </p> 
