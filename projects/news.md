@@ -7,16 +7,24 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
- <p class="updated_time"> 06:17 AM CT, Nov. 12 </p> 
+ <p class="updated_time"> 06:53 AM CT, Nov. 12 </p> 
+ <a href="https://www.nytimes.com/2021/11/10/world/middleeast/migrants-belarus-border-abuse.html">Migrants Say They Face Abuse on Both Sides of Belarus Border</a> NYT: Stories are emerging of the authorities in Belarus, Lithuania and Poland abusing asylum seekers from the Middle East and using them as political pawns. 
+ <p class="updated_time"> 06:51 AM CT, Nov. 12 </p> 
+ <a href="https://www.nytimes.com/2021/11/10/world/europe/poland-belarus-border-europe.html">Poland Gets Support From Europe on Tough Borders</a> NYT: Faced with the weaponization of migrants from Belarus, the European Union is defending Poland’s hard line even as it withholds funds over rule of law violations. 
+ <p class="updated_time"> 06:49 AM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/world/europe/covid-italy-green-pass.html">Police in Milan Search Homes of 4 People Tied to Protests Over Covid Passes</a> NYT: The group has staged protests for weeks over a nationwide Covid rule, often blocking traffic and access to city centers. 
+ <p class="updated_time"> 06:49 AM CT, Nov. 12 </p> 
+ <a href="https://www.nytimes.com/2021/11/11/world/europe/un-security-council.html">Belarus-Poland Clash Spills Into U.N. Security Council</a> NYT: The United States joined several countries in a statement condemning Belarus, but the Russian envoy dismissed their criticism as politically motivated hypocrisy. 
+ <p class="updated_time"> 06:42 AM CT, Nov. 12 </p> 
+ <a href="https://www.nytimes.com/2021/11/12/world/asia/myanmar-danny-fenster.html">Danny Fenster, U.S. Journalist in Myanmar, Gets 11 Years in Jail</a> NYT: Danny Fenster was given the toughest possible sentence on three charges, in a signal that the country’s military rulers would not bow to international pressure. 
+ <p class="updated_time"> 06:37 AM CT, Nov. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59258409?at_medium=RSS&at_campaign=KARANGA">Covid: Dutch set for partial lockdown as infections surge</a> BBC: The measures, due to last three weeks, are expected to cover shops, sport and catering. 
+ <p class="updated_time"> 06:17 AM CT, Nov. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59260704?at_medium=RSS&at_campaign=KARANGA">US police officer sues boss over KKK note</a> BBC: Keith Pool says superiors ignored numerous examples of racist abuse by former Chief Anthony Campo. 
  <p class="updated_time"> 06:13 AM CT, Nov. 12 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59221790?at_medium=RSS&at_campaign=KARANGA">COP26: Coal compromise as leaders near climate deal</a> BBC: All countries must agree on the new deal as negotiators at COP26 enter the summit's final hours. 
- <p class="updated_time"> 05:43 AM CT, Nov. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59258409?at_medium=RSS&at_campaign=KARANGA">Covid: Dutch set for partial lockdown as infections surge</a> BBC: The measures, due to last three weeks, are expected to cover shops, sport and catering. 
  <p class="updated_time"> 05:26 AM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/world/asia/china-zero-covid.html">China's 'Zero Covid' Efforts Come With a Cost</a> NYT: The Communist Party is making broad efforts to stamp out the disease entirely, but the measures come with costs. 
- <p class="updated_time"> 05:19 AM CT, Nov. 12 </p> 
- <a href="https://www.nytimes.com/2021/11/12/world/asia/myanmar-danny-fenster.html">Danny Fenster, U.S. Journalist in Myanmar, Gets 11 Years in Jail</a> NYT: Danny Fenster was given the toughest possible sentence on three charges, in a signal that the country’s military rulers would not bow to international pressure. 
  <p class="updated_time"> 05:18 AM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/world/europe/covid-netherlands-lockdown.html">Netherlands Looks to Partial Lockdown as Covid Cases Rise</a> NYT: The country is experiencing rising case numbers amid a fourth wave of infections. 
  <p class="updated_time"> 04:33 AM CT, Nov. 12 </p> 
@@ -93,8 +101,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/11/world/europe/belarus-poland-border-russia.html">Russia Reacts to Belarus-Poland Border Crisis</a> NYT: President Vladimir Putin’s spokesman said that Russia was doing all it could to resolve the situation, but he also warned of the possibility of a military escalation, according to the Russian state news agency RIA Novosti. 
  <p class="updated_time"> 05:37 PM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/world/who-is-aleksandr-g-lukashenko.html">Who Is Aleksandr Lukashenko? Here's What You Need to Know</a> NYT: A migrant crisis on the border with Poland has put the Belarusian president at the center of a clash roiling Europe. 
- <p class="updated_time"> 05:12 PM CT, Nov. 11 </p> 
- <a href="https://www.nytimes.com/2021/11/11/world/europe/un-security-council.html">Belarus-Poland Clash Spills Into U.N. Security Council</a> NYT: The United States joined several countries in a statement condemning Belarus, but the Russian envoy dismissed their criticism as politically motivated hypocrisy. 
  <p class="updated_time"> 05:07 PM CT, Nov. 11 </p> 
  <a href="https://www.bbc.co.uk/news/uk-politics-59255708?at_medium=RSS&at_campaign=KARANGA">Iran nuclear deal: UK urges Iran to back plan to revive agreement</a> BBC: Iran wants to see economic sanctions lifted, but the West wants Iran to first reduce uranium stocks. 
  <p class="updated_time"> 05:03 PM CT, Nov. 11 </p> 
@@ -155,10 +161,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/science-environment-59251772?at_medium=RSS&at_campaign=KARANGA">My Day at COP26: 'Anything we achieve in Glasgow is not going to be enough'</a> BBC: Bangladeshi climate scientist, Saleemul Huq, is at COP26 to advise the world’s least developed countries. He describes the mood as the summit nears its conclusion. 
  <p class="updated_time"> 09:35 AM CT, Nov. 11 </p> 
  <a href="https://www.npr.org/2021/11/11/1054650773/zhang-zhan-wuhan-citizen-journalist-hunger-strike">A citizen journalist who shined a light on the pandemic in Wuhan may die in prison</a> NPR: "If she does not make it past the coming winter, I hope the world will remember her as she once was," Zhang Zhan's brother said. She posted videos of Wuhan in the early days of the pandemic. 
- <p class="updated_time"> 09:02 AM CT, Nov. 11 </p> 
- <a href="https://www.nytimes.com/2021/11/10/world/middleeast/migrants-belarus-border-abuse.html">Migrants Say They Face Abuse on Both Sides of Belarus Border</a> NYT: Stories are emerging of the authorities in Belarus, Lithuania and Poland abusing asylum seekers from the Middle East and using them as political pawns. 
- <p class="updated_time"> 08:52 AM CT, Nov. 11 </p> 
- <a href="https://www.nytimes.com/2021/11/10/world/europe/poland-belarus-border-europe.html">Poland Gets Support From Europe on Tough Borders</a> NYT: Faced with the weaponization of migrants from Belarus, the European Union is defending Poland’s hard line even as it withholds funds over rule of law violations. 
  <p class="updated_time"> 07:57 AM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/world/europe/eu-covid-deaths.html">Europe's Covid Deaths Rose 10 Percent in a Week, the W.H.O. Says</a> NYT: Cases and fatalities have increased on the continent, even as they have dropped or remained stable in other parts of the globe. 
  <p class="updated_time"> 07:43 AM CT, Nov. 11 </p> 
@@ -175,8 +177,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/10/world/europe/knoll-france-murder.html">French Court Convicts Man in the Murder of a Holocaust Survivor</a> NYT: The man, Yacine Mihoub, was sentenced to life imprisonment for killing Mireille Knoll, 85, in 2018, which judges said was a hate crime motivated by the fact that she was Jewish. 
  <p class="updated_time"> 03:43 AM CT, Nov. 11 </p> 
  <a href="https://www.bbc.co.uk/news/uk-59238115?at_medium=RSS&at_campaign=KARANGA">Nazanin Zaghari-Ratcliffe: Husband Richard on hunger strike to urge government to help</a> BBC: Richard Ratcliffe, the husband of Iranian detainee Nazanin Zaghari-Ratcliffe, is weeks into his protest. 
- <p class="updated_time"> 10:51 PM CT, Nov. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59244336?at_medium=RSS&at_campaign=KARANGA">Watch as hot air balloonist breaks world record</a> BBC: Rémi Ouvrard stood on top of a hot air balloon at more than 3,500m over western France. 
  <p class="updated_time"> 10:04 PM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/world/middleeast/israeli-covid-vaccine-children.html">Israeli Experts Approve Vaccinations for Children Ages 5 to 11 </a> NYT: Israel would become one of the first countries after the United States to authorize the Pfizer-BioNTech vaccine for children ages 5 to 11. 
  <p class="updated_time"> 10:02 PM CT, Nov. 10 </p> 
@@ -204,6 +204,12 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:43 AM CT, Nov. 12 </p> 
+ <a href="https://www.politico.com/newsletters/huddle/2021/11/12/could-mccarthy-win-the-gavel-495084">Could McCarthy win the gavel?</a> Politico: A play-by-play preview of the day&#39;s congressional news 
+ <p class="updated_time"> 06:49 AM CT, Nov. 12 </p> 
+ <a href="https://www.nytimes.com/2021/11/11/business/economy/biden-inflation.html">Biden Says Spending Bill Will Slow Inflation. But When?</a> NYT: The Biden administration has argued that its infrastructure and broader economic package will slow rapid price increases. But that will take time. 
+ <p class="updated_time"> 06:42 AM CT, Nov. 12 </p> 
+ <a href="https://www.cnn.com/2021/11/12/politics/trump-pence-threats-january-6/index.html">Trump defends threats to Pence on January 6 in new audio</a> CNN: Former President Donald Trump appeared to defend the threats made against then-Vice President Mike Pence during the January 6 insurrection in a new audio recording released Wednesday. 
  <p class="updated_time"> 06:25 AM CT, Nov. 12 </p> 
  <a href="https://www.politico.com/news/2021/11/12/south-korea-candidate-north-nuclear-program-521012">S. Korean candidate takes tough line on North's nuclear program</a> Politico: Yoon Suk Yeol stressed the need to boost cooperation with Washington and Japan to make up for South Korea’s relative lack of ability to monitor North Korea’s advancing nuclear program. 
  <p class="updated_time"> 06:13 AM CT, Nov. 12 </p> 
@@ -221,7 +227,7 @@ permalink: /projects/news/
  <p class="updated_time"> 05:02 AM CT, Nov. 12 </p> 
  <a href="https://www.cnn.com/2021/11/12/politics/republicans-covid-vaccine-mandates/index.html">Republicans seize on federal vaccine mandates to fire up their base and try to court new voters worried about the economy </a> CNN: Republicans seeking to energize their core voters and appeal beyond their base to others concerned about the fragile economic recovery are turning to the Biden administration's vaccine mandates. 
  <p class="updated_time"> 05:01 AM CT, Nov. 12 </p> 
- <a href="https://www.cnn.com/2021/11/12/politics/joe-biden-inflation-explainer/index.html">Here's what Joe Biden can -- and can't -- do to fight inflation</a> CNN: Soaring inflation is quickly becoming a political liability for President Joe Biden, who has shifted his public message to acknowledging the problem and commiserating with Americans over higher prices. 
+ <a href="https://www.cnn.com/2021/11/12/politics/joe-biden-inflation-explainer/index.html">Biden could show he's serious about inflation by replacing the Fed chief</a> CNN: Soaring inflation is quickly becoming a political liability for President Joe Biden, who has shifted his public message to acknowledging the problem and commiserating with Americans over higher prices. 
  <p class="updated_time"> 05:00 AM CT, Nov. 12 </p> 
  <a href="https://www.politico.com/news/2021/11/12/jeff-flake-manu-raju-cat-mouse-520990">CNN's Manu Raju vs. Jeff Flake: Cat and mouse</a> Politico: On this episode of Playbook Deep Dive, we chase the people who chase lawmakers and tag along for the hide-and-seek between Congress and the media, and the daily challenge of covering the Hill. 
  <p class="updated_time"> 05:00 AM CT, Nov. 12 </p> 
@@ -262,12 +268,8 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/11/politics/mark-meadows-january-6-committee-response/index.html">January 6 committee gives Meadows ultimatum: Appear Friday or risk criminal contempt</a> CNN: Former White House Chief of Staff Mark Meadows is facing new pressure to cooperate with the House Select Committee investigating January 6 after he was notified Thursday that President Joe Biden will not assert executive privilege or immunity over documents and testimony requested by the panel, according to a copy obtained by CNN. 
  <p class="updated_time"> 06:40 PM CT, Nov. 11 </p> 
  <a href="https://www.cnn.com/2021/11/11/politics/trump-motion-documents/index.html">Dem-appointed appellate panel pauses release of Trump White House records ahead of Friday deadline</a> CNN: Former President Donald Trump has asked a federal appeals court to briefly stop the release of key White House records from his presidency to the House January 6 committee while he appeals a lower court's decision that he can't claim executive privilege to keep them secret. 
- <p class="updated_time"> 06:25 PM CT, Nov. 11 </p> 
- <a href="https://www.nytimes.com/2021/11/11/business/economy/biden-inflation.html">Biden Says Spending Bill Will Slow Inflation. But When?</a> NYT: The Biden administration has argued that its infrastructure and broader economic package will slow rapid price increases. But that will take time. 
  <p class="updated_time"> 06:20 PM CT, Nov. 11 </p> 
  <a href="https://www.cnn.com/2021/11/11/politics/black-veterans-gi-bill-descendants/index.html">New bill would give descendants of Black World War II vets access to GI Bill benefits</a> CNN: In honor of Veterans Day, congressional Democrats reintroduced legislation Thursday that would provide GI Bill benefits to descendants of Black World War II veterans. 
- <p class="updated_time"> 05:38 PM CT, Nov. 11 </p> 
- <a href="https://www.cnn.com/2021/11/11/politics/fbi-iran-hacking-warning/index.html">FBI warns US companies about Iranian hackers</a> CNN: Iranian hackers have searched cybercriminal websites for sensitive data stolen from American and foreign organizations that could be useful in future efforts to hack those organizations, the FBI said in an advisory sent to US companies obtained by CNN. 
  <p class="updated_time"> 05:30 PM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/us/politics/facebook-political-ads.html">Facebook's Ad Policies Changed, but Political Campaigns Can Still Target You</a> NYT: Meta announced changes to its ad-targeting policies, but they will do little to stop campaigns from reaching specific voters. 
  <p class="updated_time"> 05:25 PM CT, Nov. 11 </p> 
@@ -308,8 +310,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/11/kyle-rittenhouse-trial-kenosha-520901">Expert at Rittenhouse trial zeroes in on just a few minutes</a> Politico: The defense has suggested to the jury that the relevant timeframe for determining whether Rittenhouse’s use of force was reasonable consists of just a few minutes around the shootings. 
  <p class="updated_time"> 02:46 PM CT, Nov. 11 </p> 
  <a href="https://www.cnn.com/2021/11/11/politics/trumps-legal-woes/index.html">Trump's legal woes multiply post-presidency </a> CNN: The Trump Organization could lose the keys to an 18-hole public golf course with views of the Manhattan skyline in the coming weeks, making it another likely casualty to stem from former President Donald Trump's actions on January 6 before rioters stormed the US Capitol. 
- <p class="updated_time"> 01:48 PM CT, Nov. 11 </p> 
- <a href="https://www.cnn.com/2021/11/11/politics/extended-troika-afghanistan-talks/index.html">US, Russia, China and Pakistan meet to discuss Afghanistan as humanitarian crisis deepens</a> CNN: Representatives from the United States, Russia, China, and Pakistan met on Thursday to discuss Afghanistan amid the deepening humanitarian crisis on the ground and months after the Taliban seized power. 
  <p class="updated_time"> 01:31 PM CT, Nov. 11 </p> 
  <a href="https://www.npr.org/2021/11/11/1054823379/dejoy-postal-service-holiday-season">DeJoy says the U.S. Postal Service is ready to deliver a successful holiday season </a> NPR: One year after enduring a delay-plagued 2020 holiday season, the postmaster general says things will be different this time. 
  <p class="updated_time"> 01:15 PM CT, Nov. 11 </p> 
@@ -381,11 +381,13 @@ permalink: /projects/news/
  <p class="updated_time"> 02:40 PM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/us/politics/pac-operator-charges.html">Three Men Charged With Running ‘Scam PACs’ That Bilked Small Donors</a> NYT: The Justice Department said the three men defrauded donors of $3.5 million, including through robocalls that impersonated former President Donald J. Trump. 
  <p class="updated_time"> 02:21 PM CT, Nov. 10 </p> 
- <a href="https://www.cnn.com/2021/11/10/politics/jill-biden-elizabeth-dole-military-caregiving/index.html">Jill Biden and Elizabeth Dole team up to highlight military caregiving</a> CNN: First lady Jill Biden will highlight military caregiving families Wednesday morning at the White House, part of the Joining Forces initiative she started alongside then-first lady Michelle Obama in 2011. 
- <p class="updated_time"> 02:21 PM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/technology/doj-uber-suit-disabilities.html">U.S. Sues Uber, Saying It Discriminated Against People With Disabilities</a> NYT: The Justice Department says Uber did not adjust its wait time fees for people with disabilities, even when Uber knew someone needed additional time. 
  <p class="updated_time"> 12:59 PM CT, Nov. 10 </p> 
  <a href="https://www.politico.com/news/2021/11/10/scott-fairlamb-jan-6-sentencing-520592">N.J. man hit with toughest sentence yet in Jan. 6 attack</a> Politico: Former MMA fighter Scott Fairlamb gets 41 months in prison for punching police officer during Capitol Riot. 
+ <p class="updated_time"> 10:13 AM CT, Nov. 10 </p> 
+ <a href="https://www.cnn.com/2021/11/10/politics/joe-biden-inflation/index.html">Biden on inflation report: 'Reversing this trend is a top priority for me'</a> CNN: President Joe Biden said Wednesday that inflation statistics showing America's prices are surging more than they have in 30 years are proof that there is "more work to do before our economy is back to normal." 
+ <p class="updated_time"> 10:02 AM CT, Nov. 10 </p> 
+ <a href="https://www.cnn.com/2021/11/10/politics/justin-trudeau-joe-biden-andres-manuel-lopez-obrador/index.html">Biden to meet with Trudeau and López Obrador for first US-Canada-Mexico summit since 2016</a> CNN: Canadian Prime Minister Justin Trudeau and Mexican President Andrés Manuel López Obrador will come to the White House on November 18 for a summit with President Joe Biden, the first North American Leaders' Summit since 2016. 
  <p class="updated_time"> 08:12 AM CT, Nov. 10 </p> 
  <a href="https://www.cnn.com/2021/11/10/politics/biden-jj-covid-vaccine-conflict-zones/index.html">Biden administration announces deal to provide J&J Covid-19 vaccine to people in conflict zones and humanitarian settings</a> CNN: The Biden administration will announce on Wednesday a new deal it brokered with Johnson & Johnson and Covax to provide J&J's Covid-19 vaccine to people in conflict zones and other humanitarian settings where government vaccine campaigns cannot reach, a White House official told CNN. 
  <p class="updated_time"> 07:21 AM CT, Nov. 10 </p> 
