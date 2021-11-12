@@ -7,9 +7,11 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:25 AM CT, Nov. 12 </p> 
+ <p class="updated_time"> 12:38 AM CT, Nov. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59258112?at_medium=RSS&at_campaign=KARANGA">Danny Fenster: Myanmar court gives US journalist 11 years jail</a> BBC: A Myanmar military court has sentenced US journalist Danny Fenster to 11 years in jail. 
- <p class="updated_time"> 12:24 AM CT, Nov. 12 </p> 
+ <p class="updated_time"> 12:36 AM CT, Nov. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59245018?at_medium=RSS&at_campaign=KARANGA">Covid: Austrians heading towards lockdown for unvaccinated</a> BBC: The measures comes as record infections are reported in Austria, Germany and the Netherlands. 
+ <p class="updated_time"> 12:30 AM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/world/asia/myanmar-danny-fenster.html">In Myanmar, Danny Fenster, American Journalist, Gets 11-Year Sentence</a> NYT: Danny Fenster, who was arrested in May by the military government, was given the maximum sentence on Friday after being convicted on three charges, his employer said. 
  <p class="updated_time"> 11:42 PM CT, Nov. 11 </p> 
  <a href="https://www.npr.org/2021/11/12/1055014823/toyota-to-ramp-up-production-after-cutbacks-driven-by-the-covid-19-pandemic">Toyota to ramp up production after cutbacks driven by the COVID-19 pandemic</a> NPR: The Japanese automaker announced it expects to build 800,000 vehicles globally next month, up from the roughly 760,000 it made last December. 
@@ -101,8 +103,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59253377?at_medium=RSS&at_campaign=KARANGA">Poland-Belarus: How social media posts fuelled the migrant crisis</a> BBC: Messages on social media had a key role in a mass move of migrants to the Polish border this week. 
  <p class="updated_time"> 01:15 PM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/health/veterans-psychedelics-ptsd-depression.html">Veterans Have Become Unlikely Lobbyists in Push to Legalize Psychedelic Drugs</a> NYT: Lawmakers find it hard to “just say no” to combat veterans seeking support for drug decriminalization efforts gaining traction around the country. 
- <p class="updated_time"> 01:09 PM CT, Nov. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59245018?at_medium=RSS&at_campaign=KARANGA">Covid: Austrians heading towards lockdown for unvaccinated</a> BBC: The measures comes as record infections are reported in Austria, Germany and the Netherlands. 
  <p class="updated_time"> 01:01 PM CT, Nov. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59246627?at_medium=RSS&at_campaign=KARANGA">Celebrity grizzly bear takes her cubs into town</a> BBC: Online star 'Grizzly 399', who has her own Instagram page, took a stroll through Jackson Hole, Wyoming. 
  <p class="updated_time"> 12:56 PM CT, Nov. 11 </p> 
