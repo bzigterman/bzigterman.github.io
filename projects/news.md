@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:37 PM CT, Nov. 11 </p> 
+ <a href="https://www.nytimes.com/2021/11/11/world/europe/migrants-poland-belarus-lukashenko.html">Migrants in Peril, and Raw Emotions, in a Volatile European Border Standoff</a> NYT: A confrontation over migrants between Belarus and Poland is growing more volatile, as nationalist fervor rises in both countries and a humanitarian disaster looms. 
+ <p class="updated_time"> 10:13 PM CT, Nov. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59256927?at_medium=RSS&at_campaign=KARANGA">Belarus accused of orchestrating border crisis with Poland</a> BBC: EU nations, the US and UK say Belarus is putting migrants' lives in danger for political purposes. 
  <p class="updated_time"> 10:02 PM CT, Nov. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59229935?at_medium=RSS&at_campaign=KARANGA">China's Xi Jinping cements his status with historic resolution</a> BBC: Mr Xi is only the third leader to issue a "historical resolution" after Mao Zedong and Deng Xiaoping. 
  <p class="updated_time"> 09:56 PM CT, Nov. 11 </p> 
@@ -17,8 +21,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/11/world/asia/india-pollution-yamuna-chhath.html">On Delhi’s Toxic River, Prayers to a Sun Struggling to Shine Through Smog</a> NYT: Every year, a four-day festival to the sun god Surya highlights the Indian city’s extreme air and water pollution, with a river so filled with foam it resembles a blizzard’s aftermath. 
  <p class="updated_time"> 08:27 PM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/world/asia/zuo-fang-dead.html">Zuo Fang, a Founder of China's Southern Weekly, is Dead</a> NYT: When he helped start Southern Weekly, he charted a course for a freer era for the country’s press, which later became increasingly constrained by Beijing. 
- <p class="updated_time"> 08:10 PM CT, Nov. 11 </p> 
- <a href="https://www.nytimes.com/2021/11/11/world/europe/migrants-poland-belarus-lukashenko.html">Migrants in Peril, and Raw Emotions, in a Volatile European Border Standoff</a> NYT: A confrontation over migrants between Belarus and Poland is growing more volatile, as nationalist fervor rises in both countries and a humanitarian disaster looms. 
  <p class="updated_time"> 07:24 PM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/live/2021/11/11/world/china-xi-jinping-cpc">China’s Xi Jinping Remakes the Communist Party’s History in His Image</a> NYT: Leaders at an elite meeting enshrined Mr. Xi among the party’s historical giants, paving the way for him to claim a third five-year term. 
  <p class="updated_time"> 07:20 PM CT, Nov. 11 </p> 
@@ -49,8 +51,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/10/world/europe/covid-germany-cases.html">Germany Weighs New Covid Rules as Infections Reach Record Heights</a> NYT: Nearly 40,000 new cases were registered in the country on Tuesday — the third time a daily record was set within a week. “We have a real emergency situation,” a top virologist said. 
  <p class="updated_time"> 05:01 PM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/world/africa/covid-uganda-schools.html">Dropouts and Menial Jobs: The Effects of Keeping Uganda's Schools Closed</a> NYT: Recalling the orphans of the H.I.V./AIDS crisis, government officials fear students infecting their parents and keep schools closed. 
- <p class="updated_time"> 05:00 PM CT, Nov. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59246899?at_medium=RSS&at_campaign=KARANGA">Belarus threatens EU gas as bloc considers sanctions</a> BBC: The EU is reportedly preparing fresh sanctions over an escalating migrant crisis at Belarus's border. 
  <p class="updated_time"> 04:35 PM CT, Nov. 11 </p> 
  <a href="https://www.wsj.com/articles/biden-and-chinas-xi-to-hold-virtual-summit-on-monday-11636688117">Biden and Xi to Hold Virtual Summit on Monday</a> WSJ: President Biden and Chinese President Xi Jinping plan to hold a virtual summit on Monday, people familiar with the matter said, as the two leading world economies pledge to work together on climate change but differences remain over Taiwan and other fronts. 
  <p class="updated_time"> 03:49 PM CT, Nov. 11 </p> 
@@ -195,8 +195,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/10/world/greta-thunberg-cop26-state-emergency.html">Greta Thunberg, Activists Petition U.N. to Declare State of Emergency on Climate Change</a> NYT: Young climate activists on Wednesday called on the U.N. to declare a “Level 3” emergency, as it did for Covid-19, allowing the institution to deploy resources to vulnerable countries. 
  <p class="updated_time"> 01:24 PM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/world/africa/mozambique-corruption-manuel-chang-extradition.html">Manuel Chang Will Face Corruption Charges in U.S.</a> NYT: A judge overturned the South African government’s decision to send the minister back to Mozambique, where civil society groups say his political clout will protect him. 
- <p class="updated_time"> 12:26 PM CT, Nov. 10 </p> 
- <a href="https://www.nytimes.com/2021/11/09/world/asia/us-holocaust-museum-china-uyghurs-report.html">U.S. Holocaust Museum Says China ‘May Be Committing Genocide’ Against Uyghurs</a> NYT: Its report found that the government’s attacks against the group of Muslims in Xinjiang had escalated and most likely included “forced sterilization, sexual violence, enslavement, torture, and forcible transfer.” 
  <p class="updated_time"> 10:01 AM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/world/europe/france-climate-change-energy-prices.html">In France, the People COP26 Forgot Seethe Over Rising Energy Prices</a> NYT: In one area of France, worries about rising energy prices trump anxiety about rising temperatures, raising fears of a resurgence of the Yellow Vest social uprising. 
  <p class="updated_time"> 09:32 AM CT, Nov. 10 </p> 
