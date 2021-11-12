@@ -7,12 +7,14 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:54 PM CT, Nov. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/science-environment-59269886?at_medium=RSS&at_campaign=KARANGA">COP26: Climate talks into overtime as nations near deal</a> BBC: Divisions remain over continuing subsidies for fossil fuels and financial help to poorer nations. 
+ <p class="updated_time"> 03:49 PM CT, Nov. 12 </p> 
+ <a href="https://www.nytimes.com/2021/11/12/world/europe/covid-netherlands-lockdown.html">Netherlands Looks to Partial Lockdown as Covid Cases Rise</a> NYT: The Dutch lockdown does not single out those who are unvaccinated. The country is experiencing rising case numbers amid a fourth wave of infections. 
  <p class="updated_time"> 03:39 PM CT, Nov. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59266213?at_medium=RSS&at_campaign=KARANGA">Astroworld: Dozens more lawsuits filed over deadly festival crush</a> BBC: A woman who was at the festival told reporters that said didn't know she was buying a "death ticket". 
  <p class="updated_time"> 03:39 PM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/live/2021/11/12/world/belarus-poland-border-migrants">Live Updates: Provocative Rhetoric and Military Moves Raise Tension at Belarus-Poland Border</a> NYT: Airlines have agreed to curb the flow into Belarus of migrants hoping to reach the European Union. As threats and accusations fly, there are troop buildups on both sides. 
- <p class="updated_time"> 03:27 PM CT, Nov. 12 </p> 
- <a href="https://www.nytimes.com/2021/11/12/world/europe/covid-netherlands-lockdown.html">Netherlands Looks to Partial Lockdown as Covid Cases Rise</a> NYT: The Dutch lockdown does not single out those who are unvaccinated. The country is experiencing rising case numbers amid a fourth wave of infections. 
  <p class="updated_time"> 03:24 PM CT, Nov. 12 </p> 
  <a href="https://www.npr.org/2021/11/12/1055366608/myanmar-court-sentences-american-journalist-danny-fenster-to-11-years-in-prison">Myanmar court sentences American journalist Danny Fenster to 11 years in prison</a> NPR: U.S. journalist Danny Fenster was sentenced to 11 years in prison in Myanmar. He was found guilty of incitement and two other charges. 
  <p class="updated_time"> 03:24 PM CT, Nov. 12 </p> 
@@ -79,8 +81,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/12/world/europe/covid-germany-tests.html">Germany Will Again Offer Free Covid Tests to All Adults</a> NYT: Officials hope that identifying infections earlier can help stop a recent surge in cases. 
  <p class="updated_time"> 07:09 AM CT, Nov. 12 </p> 
  <a href="https://www.npr.org/sections/pictureshow/2021/11/12/1054032730/photography-climate-change-global-warming-oceans-vlad-sokhin">Their lands are oceans apart but are linked by rising, warming seas of climate change</a> NPR: Photographer Vlad Sokhin's latest work, Warm Waters, is an exploration of climate change traveling across 18 countries and off-the-map territories seen by seldom few. 
- <p class="updated_time"> 07:03 AM CT, Nov. 12 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-59221790?at_medium=RSS&at_campaign=KARANGA">COP26: Coal compromise as leaders near climate deal</a> BBC: All countries must agree on the new deal as negotiators at COP26 enter the summit's final hours. 
  <p class="updated_time"> 06:58 AM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/arts/design/badiucao-brescia-china.html">The Show Goes On, Even After China Tried to Shut It Down</a> NYT: An Italian city rejected a request from the Chinese Embassy in Rome to cancel an exhibition by Badiucao, an artist who has been described as the Chinese Banksy. 
  <p class="updated_time"> 06:55 AM CT, Nov. 12 </p> 
@@ -216,12 +216,12 @@ permalink: /projects/news/
 
  <p class="updated_time"> 04:09 PM CT, Nov. 12 </p> 
  <a href="https://www.politico.com/news/2021/11/12/steve-bannon-indicted-for-defying-jan-6-committee-investigation-521177">Steve Bannon indicted for defying Jan. 6 committee investigation</a> Politico: The Justice Department has charged the former top adviser to Trump for refusing to provide documents and testimony to investigators probing the Capitol attack. 
- <p class="updated_time"> 03:50 PM CT, Nov. 12 </p> 
- <a href="https://www.nytimes.com/2021/11/12/us/politics/bannon-indicted.html">Bannon Indicted on Contempt Charges Over House Investigation of Capitol Riot</a> NYT: Stephen K. Bannon, a former top aide to Donald Trump, had refused to comply with subpoenas from the House committee investigating the Jan. 6 attack on Congress. 
+ <p class="updated_time"> 04:00 PM CT, Nov. 12 </p> 
+ <a href="https://www.nytimes.com/2021/11/12/us/politics/bannon-indicted.html">Bannon Indicted on Contempt Charges Over House’s Capitol Riot Inquiry</a> NYT: Stephen K. Bannon, a former top aide to Donald Trump, had refused to comply with subpoenas from the House committee investigating the Jan. 6 attack on Congress. 
  <p class="updated_time"> 03:45 PM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/nyregion/aoc-infrastructure-bill-vote.html">Ocasio-Cortez Isn’t Wavering. Are New Yorkers on Her Side?</a> NYT: By voting no on the infrastructure bill, Representative Alexandria Ocasio-Cortez set off a fierce debate, including among city residents eager to see the subways improved. 
  <p class="updated_time"> 03:44 PM CT, Nov. 12 </p> 
- <a href="https://www.npr.org/2021/11/12/1055366652/bannon-indicted-for-defying-subpoena-jan-6-panel-threatens-contempt-against-mead">Bannon indicted for defying subpoena, Jan. 6 panel threatens contempt against Meadows</a> NPR: Former Chief of Staff Mark Meadows may face a contempt of Congress charge. Meadows appeared to defy a congressional subpoena and didn't appear for a deposition with the Jan. 6 investigation panel. 
+ <a href="https://www.npr.org/2021/11/12/1055366652/bannon-indicted-for-defying-subpoena-jan-6-panel-threatens-contempt-against-mead">Bannon indicted for defying Jan. 6 panel subpoena</a> NPR: Former Donald Trump adviser Steve Bannon was indicted by a federal grand jury for refusing to cooperate with the House panel investigating the Jan. 6 attack on the Capitol. 
  <p class="updated_time"> 03:39 PM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/us/politics/republican-violent-rhetoric.html">Menace, as a Political Tool, Enters the Republican Mainstream</a> NYT: Threats of violence have become commonplace among a significant part of the party, as historians and those who study democracy warn of a dark shift in American politics. 
  <p class="updated_time"> 03:34 PM CT, Nov. 12 </p> 
@@ -229,7 +229,7 @@ permalink: /projects/news/
  <p class="updated_time"> 03:31 PM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/us/politics/robert-califf-fda.html">Biden Chooses Robert Califf to Lead F.D.A., Despite Drug Industry Ties</a> NYT: Dr. Robert M. Califf, an academic and clinical trial researcher who ran the agency in 2016, has also consulted for pharmaceutical companies. 
  <p class="updated_time"> 03:25 PM CT, Nov. 12 </p> 
- <a href="https://www.cnn.com/2021/11/12/politics/steve-bannon-indicted/index.html">Federal grand jury has indicted former Trump adviser Steve Bannon</a> CNN: A federal grand jury has returned an indictment against former Trump adviser Steve Bannon, CNN has learned. 
+ <a href="https://www.cnn.com/2021/11/12/politics/steve-bannon-indicted/index.html">Federal grand jury indicts Steve Bannon for contempt of Congress</a> CNN: A federal grand jury has returned an indictment against former Trump adviser Steve Bannon, CNN has learned. 
  <p class="updated_time"> 03:24 PM CT, Nov. 12 </p> 
  <a href="https://www.npr.org/2021/11/12/1055366638/to-try-to-convert-an-election-skeptic-a-county-clerk-invited-her-to-help-the-pro">To try to convert an election skeptic, a county clerk invited her to help the process</a> NPR: Election officials are trying to win over voter trust that ballots are handled and counted securely. In Colorado, a clerk went so far as to invite one skeptic to work at his office to see for herself. 
  <p class="updated_time"> 03:21 PM CT, Nov. 12 </p> 
@@ -270,12 +270,12 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/12/1055057907/remembering-max-cleland-former-georgia-senator-and-vietnam-veteran">Remembering Max Cleland, former Georgia senator and Vietnam veteran</a> NPR: Cleland was a decorated Army veteran who lost three limbs while serving in Vietnam. After the the war, he dedicated his life to public service. He died Nov. 9. Originally broadcast in 2009. 
  <p class="updated_time"> 12:08 PM CT, Nov. 12 </p> 
  <a href="https://www.politico.com/news/2021/11/12/for-2nd-straight-month-americans-quit-jobs-at-a-record-pace-521116">For 2nd straight month, Americans quit jobs at a record pace</a> Politico: The figures point to a historic level of turmoil in the job market as newly-empowered workers quit jobs to take higher pay that is being dangled by businesses in need of help 
- <p class="updated_time"> 11:41 AM CT, Nov. 12 </p> 
- <a href="https://www.cnn.com/2021/11/12/politics/november-child-tax-credit-payment/index.html">The next child tax credit payment could be the second-to-last one</a> CNN: The latest round of monthly child tax credit payments is scheduled to be distributed to tens of millions of families on Monday. And it could be the next-to-last one unless Congress acts. 
  <p class="updated_time"> 11:40 AM CT, Nov. 12 </p> 
  <a href="https://www.npr.org/2021/11/12/1055096462/lawyer-for-mark-meadows-says-courts-will-have-to-resolve-jan-6-panel-dispute">Lawyer for Mark Meadows says courts will have to resolve Jan. 6 panel dispute</a> NPR: Meadows may be looking to the courts for relief, but his path sets him up on a collision course with the House. 
  <p class="updated_time"> 11:40 AM CT, Nov. 12 </p> 
  <a href="https://www.npr.org/2021/11/12/1055143924/biden-nominates-former-commissioner-robert-califf-to-again-lead-fda">Biden nominates former Commissioner Robert Califf to again lead FDA</a> NPR: The Food and Drug Administration has been without a permanent leader since President Biden took office in January. Califf led the agency during the last year of the Obama administration. 
+ <p class="updated_time"> 11:31 AM CT, Nov. 12 </p> 
+ <a href="https://www.cnn.com/2021/11/11/politics/xi-jinping-joe-biden-virtual-summit/index.html">Biden to hold virtual summit with Chinese President Xi Jinping on Monday</a> CNN: President Joe Biden's highly anticipated virtual summit with Chinese President Xi Jinping is expected to take place on Monday, people familiar with the matter say. 
  <p class="updated_time"> 11:22 AM CT, Nov. 12 </p> 
  <a href="https://www.politico.com/news/2021/11/12/myanmar-court-sentences-us-journalist-to-11-years-in-jail-521109">Myanmar court sentences U.S. journalist to 11 years in jail</a> Politico: Danny Fenster, managing editor Frontier Myanmar, is still facing additional charges under which he could receive up to life in prison. 
  <p class="updated_time"> 11:14 AM CT, Nov. 12 </p> 
@@ -337,9 +337,9 @@ permalink: /projects/news/
  <p class="updated_time"> 04:08 AM CT, Nov. 12 </p> 
  <a href="https://www.npr.org/2021/11/12/1055030223/the-fbi-arrests-a-key-contributor-to-efforts-trying-to-link-trump-with-russia">Arrest of Steele dossier source forces some news outlets to reexamine their coverage</a> NPR: News groups are revisiting their coverage of allegations against candidate and then President Trump, after a Russian analyst, a key source for the Steele Dossier, was charged with lying to the FBI. 
  <p class="updated_time"> 04:00 AM CT, Nov. 12 </p> 
- <a href="https://www.npr.org/2021/11/12/1054889820/a-bill-to-study-reparations-for-slavery-had-momentum-in-congress-but-still-no-vo">A bill to study reparations for slavery had momentum in Congress, but still no vote</a> NPR: Legislation to create a commission to study reparations faces steep odds in the evenly divided Congress. Advocates want the House to take up the bill, or for President Biden to act on his own. 
- <p class="updated_time"> 04:00 AM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/us/politics/democrats-trifecta-power.html">Why Democrats May Have a Long Wait if They Lose Their Grip on Washington</a> NYT: Voters’ reflexive instinct to check the party in power makes it hard for any party to retain a hold on both the White House and Congress for long. 
+ <p class="updated_time"> 04:00 AM CT, Nov. 12 </p> 
+ <a href="https://www.npr.org/2021/11/12/1054889820/a-bill-to-study-reparations-for-slavery-had-momentum-in-congress-but-still-no-vo">A bill to study reparations for slavery had momentum in Congress, but still no vote</a> NPR: Legislation to create a commission to study reparations faces steep odds in the evenly divided Congress. Advocates want the House to take up the bill, or for President Biden to act on his own. 
  <p class="updated_time"> 10:59 PM CT, Nov. 11 </p> 
  <a href="https://www.politico.com/news/2021/11/11/ohio-senate-jewish-campaign-ad-mandel-521007">‘But he’s Jewish’: Opponent questions Mandel’s faith in Ohio Senate primary debate</a> Politico: The Republican Senate frontrunner was targeted earlier in an ad criticizing him for courting evangelical Christians. 
  <p class="updated_time"> 10:10 PM CT, Nov. 11 </p> 
@@ -372,6 +372,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/11/1054837174/federal-appeals-court-temporarily-halts-trump-document-release-to-jan-6-panel">Federal appeals court temporarily halts Trump document release to Jan. 6 panel</a> NPR: The National Archives was due to deliver a first tranche of documents to the Democratic-led House panel on Friday. 
  <p class="updated_time"> 03:19 PM CT, Nov. 11 </p> 
  <a href="https://www.npr.org/2021/11/11/1054884091/how-other-countries-at-cop26-view-american-leadership-and-climate-promises">How other countries at COP26 view American leadership and climate promises</a> NPR: President Biden has declared the U.S. is back as a leader in combatting disastrous climate change. But after years of unfulfilled pledges, how do other countries view American leadership and promises? 
+ <p class="updated_time"> 02:48 PM CT, Nov. 11 </p> 
+ <a href="https://www.politico.com/news/2021/11/11/kyle-rittenhouse-trial-kenosha-520901">Expert at Rittenhouse trial zeroes in on just a few minutes</a> Politico: The defense has suggested to the jury that the relevant timeframe for determining whether Rittenhouse’s use of force was reasonable consists of just a few minutes around the shootings. 
  <p class="updated_time"> 02:46 PM CT, Nov. 11 </p> 
  <a href="https://www.cnn.com/2021/11/11/politics/trumps-legal-woes/index.html">Trump's legal woes multiply post-presidency </a> CNN: The Trump Organization could lose the keys to an 18-hole public golf course with views of the Manhattan skyline in the coming weeks, making it another likely casualty to stem from former President Donald Trump's actions on January 6 before rioters stormed the US Capitol. 
  <p class="updated_time"> 01:01 PM CT, Nov. 11 </p> 
