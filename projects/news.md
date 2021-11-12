@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:02 PM CT, Nov. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-59229935?at_medium=RSS&at_campaign=KARANGA">China's Xi Jinping cements his status with historic resolution</a> BBC: Mr Xi is only the third leader to issue a "historical resolution" after Mao Zedong and Deng Xiaoping. 
+ <p class="updated_time"> 09:56 PM CT, Nov. 11 </p> 
+ <a href="https://www.nytimes.com/2021/11/11/world/europe/austria-chancellor-lockdown-unvaccinated.html">Austria Weighs a Lockdown for Unvaccinated People</a> NYT: The country’s case rate has more than doubled since late October. 
  <p class="updated_time"> 09:46 PM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/world/europe/glasgow-garbage-strike.html">Outside COP26, Trash in Glasgow Piles High</a> NYT: At COP26, delegates address the need to curb emissions and mass consumption to save the planet while the reality of today’s throwaway society is all too apparent nearby. 
  <p class="updated_time"> 08:46 PM CT, Nov. 11 </p> 
@@ -47,8 +51,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/11/world/africa/covid-uganda-schools.html">Dropouts and Menial Jobs: The Effects of Keeping Uganda's Schools Closed</a> NYT: Recalling the orphans of the H.I.V./AIDS crisis, government officials fear students infecting their parents and keep schools closed. 
  <p class="updated_time"> 05:00 PM CT, Nov. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59246899?at_medium=RSS&at_campaign=KARANGA">Belarus threatens EU gas as bloc considers sanctions</a> BBC: The EU is reportedly preparing fresh sanctions over an escalating migrant crisis at Belarus's border. 
- <p class="updated_time"> 03:49 PM CT, Nov. 11 </p> 
- <a href="https://www.nytimes.com/2021/11/11/world/europe/austria-chancellor-lockdown-unvaccinated.html">Austria Weighs a Lockdown for Unvaccinated People</a> NYT: The country’s case rate has more than doubled since late October. 
+ <p class="updated_time"> 04:35 PM CT, Nov. 11 </p> 
+ <a href="https://www.wsj.com/articles/biden-and-chinas-xi-to-hold-virtual-summit-on-monday-11636688117">Biden and Xi to Hold Virtual Summit on Monday</a> WSJ: President Biden and Chinese President Xi Jinping plan to hold a virtual summit on Monday, people familiar with the matter said, as the two leading world economies pledge to work together on climate change but differences remain over Taiwan and other fronts. 
  <p class="updated_time"> 03:49 PM CT, Nov. 11 </p> 
  <a href="https://www.npr.org/2021/11/11/1054884177/migrants-entering-poland-from-belarus-face-sub-zero-temperatures-and-military-pa">Migrants entering Poland from Belarus face sub-zero temperatures and military patrols</a> NPR: NPR's Mary Louise Kelly talks with Matthew Luxmoore of Radio Free Europe about the growing migrant crisis on the border of Belarus and Poland. 
  <p class="updated_time"> 03:49 PM CT, Nov. 11 </p> 
@@ -91,6 +95,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-59252082?at_medium=RSS&at_campaign=KARANGA">FW de Klerk: The man who still divides South Africa</a> BBC: Was he a visionary who ended a racist system, or should he have been prosecuted? 
  <p class="updated_time"> 12:15 PM CT, Nov. 11 </p> 
  <a href="https://www.npr.org/2021/11/11/1054770079/a-climate-summit-theme-how-much-should-wealthy-countries-pay-to-help-poorer-ones">A climate summit theme: How much should wealthy countries pay to help poorer ones? </a> NPR: Wealthy countries have historically been the largest producers of greenhouse gases. One of the biggest issues left at the COP26 summit is their role helping poorer nations cope with climate change. 
+ <p class="updated_time"> 11:46 AM CT, Nov. 11 </p> 
+ <a href="https://www.wsj.com/articles/hundreds-seeking-evacuation-from-afghanistan-forced-to-leave-safehouses-11636670801">Hundreds Seeking Evacuation From Afghanistan Forced to Leave Safehouses</a> WSJ: The volunteer group Task Force Argo said that it was unable to gain approval to fly the Afghans out of the country and that the cost of housing them was astronomical. 
  <p class="updated_time"> 11:40 AM CT, Nov. 11 </p> 
  <a href="https://www.npr.org/2021/11/11/1054772983/antonio-guterres-cop26-climate-change">The U.N. chief says the main global warming goal is on 'life support'</a> NPR: The U.N. secretary-general says the talks in Glasgow will "very probably" not yield the carbon-cutting pledges he has said are needed to keep the planet from warming beyond the 1.5-degree threshold. 
  <p class="updated_time"> 11:37 AM CT, Nov. 11 </p> 
@@ -129,8 +135,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/11/1054633332/f-w-de-klerk-south-africas-last-apartheid-president-dies-at-85">F. W. de Klerk, South Africa's last apartheid president, dies at 85</a> NPR: De Klerk shared a Nobel Peace Prize with Nelson Mandela, and ceded the presidency to him in 1994 after Black South Africans were allowed to vote. But he's remained a controversial figure there. 
  <p class="updated_time"> 04:54 AM CT, Nov. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-13230608?at_medium=RSS&at_campaign=KARANGA">FW de Klerk: South Africa's last white president</a> BBC: The last president of a segregated South Africa, who freed Nelson Mandela, and paved the way to majority rule. 
- <p class="updated_time"> 04:21 AM CT, Nov. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-59229935?at_medium=RSS&at_campaign=KARANGA">China's Xi Jinping cements his status with historic resolution</a> BBC: Mr Xi is only the third leader to issue a "historical resolution" after Mao Zedong and Deng Xiaoping. 
  <p class="updated_time"> 04:08 AM CT, Nov. 11 </p> 
  <a href="https://www.wsj.com/articles/south-africa-cant-afford-to-quit-coal-will-rich-countries-pay-for-the-transition-11636643299">South Africa Can't Afford to Quit Coal.  Will Rich Countries Pay for the Transition?</a> WSJ: Pressure to end coal-powered electricity generation has fired tensions between already-industrialized nations and developing ones, which have poured billions into coal infrastructure. South Africa is the most dependent on the fuel of any G-20 country. 
  <p class="updated_time"> 04:03 AM CT, Nov. 11 </p> 
@@ -148,13 +152,11 @@ permalink: /projects/news/
  <p class="updated_time"> 03:43 AM CT, Nov. 11 </p> 
  <a href="https://www.bbc.co.uk/news/uk-59238115?at_medium=RSS&at_campaign=KARANGA">Nazanin Zaghari-Ratcliffe: Husband Richard on hunger strike to urge government to help</a> BBC: Richard Ratcliffe, the husband of Iranian detainee Nazanin Zaghari-Ratcliffe, is weeks into his protest. 
  <p class="updated_time"> 03:01 AM CT, Nov. 11 </p> 
- <a href="https://www.wsj.com/articles/chinas-xi-gains-power-as-communist-party-designates-him-historical-figure-11636635312">China's Xi Designated a Historical Figure by Communist Party</a> WSJ: The Chinese leader has formally etched his name alongside the greatest figures in the annals of Communist Party history, paving the way for him to shuffle power next year and extend his rule. 
+ <a href="https://www.wsj.com/articles/chinas-xi-gains-power-as-communist-party-designates-him-historical-figure-11636635312">China's Xi Designated a Historic Figure by Communist Party</a> WSJ: The Chinese leader has formally etched his name alongside the greatest figures in the annals of Communist Party history, paving the way for him to shuffle power next year and extend his rule. 
  <p class="updated_time"> 02:50 AM CT, Nov. 11 </p> 
  <a href="https://www.wsj.com/articles/f-w-de-klerk-south-african-president-who-helped-end-apartheid-dies-at-85-11636628616">De Klerk, Last President of Apartheid South Africa, Dies</a> WSJ: The last leader of South Africa’s white-minority government, whose at-times-difficult relationship with Nelson Mandela helped end apartheid, died. He was 85 years old. 
  <p class="updated_time"> 02:46 AM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/10/world/buttigieg-gasoline-diesel-vehicles.html">Pete Buttigieg Says U.S. 'Focused' on Reducing Auto Emissions</a> NYT: At the Glasgow climate summit, Mr. Buttigieg said the conversation surrounding climate change should focus on whether Earth can sustain life. 
- <p class="updated_time"> 02:00 AM CT, Nov. 11 </p> 
- <a href="https://www.wsj.com/articles/chinas-coal-shortage-threatens-farmers-in-india-and-truckers-in-south-korea-11636635601">China's Coal Shortage Threatens Farmers in India and Truckers in South Korea</a> WSJ: The countries rely on Chinese exports of urea, which is extracted from coal, for fertilizer and running diesel vehicles. 
  <p class="updated_time"> 10:51 PM CT, Nov. 10 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59244336?at_medium=RSS&at_campaign=KARANGA">Watch as hot air balloonist breaks world record</a> BBC: Rémi Ouvrard stood on top of a hot air balloon at more than 3,500m over western France. 
  <p class="updated_time"> 10:04 PM CT, Nov. 10 </p> 
@@ -191,8 +193,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/10/theater/little-amal-the-walk.html">Little Amal, a Refugee Puppet, Looks for Home</a> NYT: In “The Walk,” a 12-foot tall, 9-year-old Syrian girl named Amal trekked from Turkey to Britain to find her mother. In a politically divided continent, were any minds changed? 
  <p class="updated_time"> 02:40 PM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/world/greta-thunberg-cop26-state-emergency.html">Greta Thunberg, Activists Petition U.N. to Declare State of Emergency on Climate Change</a> NYT: Young climate activists on Wednesday called on the U.N. to declare a “Level 3” emergency, as it did for Covid-19, allowing the institution to deploy resources to vulnerable countries. 
- <p class="updated_time"> 01:44 PM CT, Nov. 10 </p> 
- <a href="https://www.nytimes.com/2021/11/09/world/europe/malala-yousafzai-married.html">Malala Yousafzai Announces Her Marriage</a> NYT: Ms. Yousafzai, a Pakistani activist and the youngest-ever recipient of a Nobel Peace Prize, married her partner at a small ceremony in Birmingham, England, she said on Twitter. 
  <p class="updated_time"> 01:24 PM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/world/africa/mozambique-corruption-manuel-chang-extradition.html">Manuel Chang Will Face Corruption Charges in U.S.</a> NYT: A judge overturned the South African government’s decision to send the minister back to Mozambique, where civil society groups say his political clout will protect him. 
  <p class="updated_time"> 12:26 PM CT, Nov. 10 </p> 
@@ -214,6 +214,10 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:59 PM CT, Nov. 11 </p> 
+ <a href="https://www.politico.com/news/2021/11/11/ohio-senate-jewish-campaign-ad-mandel-521007">‘But he’s Jewish’: Opponent questions Mandel’s faith in Ohio Senate primary debate</a> Politico: The Republican Senate frontrunner was targeted earlier in an ad criticizing him for courting evangelical Christians. 
+ <p class="updated_time"> 10:10 PM CT, Nov. 11 </p> 
+ <a href="https://www.nytimes.com/2021/11/11/us/politics/biden-veterans-day.html">Biden Marks First Veterans Day in Two Decades Without Troops in Active Combat</a> NYT: President Biden, who ended the 20-year conflict in Afghanistan this summer, called veterans the “soul of America.” 
  <p class="updated_time"> 08:54 PM CT, Nov. 11 </p> 
  <a href="https://www.politico.com/news/2021/11/11/millionaires-tax-cut-dems-plan-521004">Most millionaires could get tax cut under House Dems' tax plan</a> Politico: About two-thirds of people making more than $1 million would see a tax cut next year averaging $16,800, the Tax Policy Center said Thursday. 
  <p class="updated_time"> 08:23 PM CT, Nov. 11 </p> 
@@ -240,8 +244,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/11/us/politics/facebook-political-ads.html">Facebook's Ad Policies Changed, but Political Campaigns Can Still Target You</a> NYT: Meta announced changes to its ad-targeting policies, but they will do little to stop campaigns from reaching specific voters. 
  <p class="updated_time"> 05:25 PM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/us/politics/project-veritas-journalism-political-spying.html">Project Veritas: Journalists or Political Spies? </a> NYT: Documents show how the conservative group worked with lawyers to gauge how far its deceptive reporting practices could go before running afoul of federal laws. 
- <p class="updated_time"> 05:21 PM CT, Nov. 11 </p> 
- <a href="https://www.nytimes.com/2021/11/11/us/politics/biden-veterans-day.html">Biden Marks First Veterans Day in Two Decades Without Troops in Active Combat</a> NYT: President Biden, who ended the 20-year conflict in Afghanistan this summer, called veterans the “soul of America.” 
  <p class="updated_time"> 05:17 PM CT, Nov. 11 </p> 
  <a href="https://www.politico.com/news/2021/11/11/us-europe-climate-pledges-developing-countries-520968">Emerging economies spar with U.S. over ‘carbon colonialism’</a> Politico: The group of developing countries, which includes China and India, slammed the effort by U.S. climate envoy John Kerry and European negotiators for countries to conduct the reviews of their climate initiatives more often. 
  <p class="updated_time"> 05:16 PM CT, Nov. 11 </p> 
@@ -398,8 +400,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/10/schumer-billions-new-york-public-housing-520519">Schumer scores billions for New York's decaying public housing</a> Politico: The jockeying over the housing funds is one of many emerging sources of political tension surrounding President Joe Biden's bill. 
  <p class="updated_time"> 04:30 AM CT, Nov. 10 </p> 
  <a href="https://www.politico.com/news/2021/11/10/biden-vaccine-mandates-va-mcdonough-520564">Biden called for widespread mandates. His VA is navigating its own minefields.</a> Politico: An overwhelming number of staff have gotten vaccinated. But a month after the deadline, at least ten percent of a 380,000 health care workforce still haven’t. 
- <p class="updated_time"> 09:29 PM CT, Nov. 09 </p> 
- <a href="https://www.politico.com/news/2021/11/09/trump-executive-privilege-court-ruling-kings-520512">Trump cannot shield White House records from Jan. 6 committee, judge rules</a> Politico: “Presidents are not kings, and Plaintiff is not President,” Judge Tanya Chutkan wrote. 
  <p class="updated_time"> 07:23 PM CT, Nov. 09 </p> 
  <a href="https://www.politico.com/news/2021/11/09/chris-sununu-new-hampshire-gov-senate-520533">Sununu announcement act rubs top Republicans the wrong way</a> Politico: The New Hampshire governor not only blindsided the Senate GOP, he plugged his own presidential prospects. 
  <p class="updated_time"> 06:13 PM CT, Nov. 09 </p> 
