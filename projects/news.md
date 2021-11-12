@@ -7,12 +7,12 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:48 AM CT, Nov. 12 </p> 
- <a href="https://www.nytimes.com/2021/11/12/world/europe/julian-assange-wedding.html">Julian Assange to Wed in Prison in Britain</a> NYT: The WikiLeaks founder, who is battling extradition to the United States on espionage charges, has been granted permission to marry Stella Moris in the London prison where he has been held since 2019. 
- <p class="updated_time"> 09:46 AM CT, Nov. 12 </p> 
- <a href="https://www.npr.org/2021/11/12/1055055724/in-a-first-u-n-climate-agreement-could-include-the-words-coal-and-fossil-fuels">In a first, U.N. climate agreement could include the words "coal" and "fossil fuels"</a> NPR: The U.N. Secretary-General warns the main goal of limiting global warming is "on life support." But Glasgow negotiators are making modest progress in their final hours. 
- <p class="updated_time"> 09:31 AM CT, Nov. 12 </p> 
+ <p class="updated_time"> 10:02 AM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/live/2021/11/12/world/belarus-poland-border-migrants">Live Updates: Airlines Limit Flights to Belarus to Slow Flow of Migrants to E.U. Borders</a> NYT: With thousands stranded on the border between Poland and Belarus, Russia sent conflicting signals. The Kremlin says it will not allow Belarus to disrupt the flow of natural gas to Europe. At the same time, Moscow flexed its military might in a show of support for its ally. 
+ <p class="updated_time"> 10:01 AM CT, Nov. 12 </p> 
+ <a href="https://www.nytimes.com/2021/11/12/world/europe/julian-assange-stella-moris-marriage.html">Julian Assange to Wed in Prison in Britain</a> NYT: The WikiLeaks founder, who is battling extradition to the United States on espionage charges, has been granted permission to marry Stella Moris in the London prison where he has been held since 2019. 
+ <p class="updated_time"> 09:46 AM CT, Nov. 12 </p> 
+ <a href="https://www.npr.org/2021/11/12/1055055724/in-a-first-u-n-climate-agreement-could-include-the-words-coal-and-fossil-fuels">In a first, U.N. climate agreement could include the words 'coal' and 'fossil fuels'</a> NPR: The U.N. Secretary-General warns the main goal of limiting global warming is "on life support." But Glasgow negotiators are making modest progress in their final hours. 
  <p class="updated_time"> 09:26 AM CT, Nov. 12 </p> 
  <a href="https://www.npr.org/2021/11/12/1055045794/julian-assange-wins-permission-to-get-married-while-in-a-london-prison">Julian Assange wins permission to marry his partner in a London prison</a> NPR: The WikiLeaks founder and attorney Stella Moris began a relationship after Assange took refuge in the Ecuadorian Embassy in London in 2012. They have two sons together. 
  <p class="updated_time"> 08:47 AM CT, Nov. 12 </p> 
@@ -49,12 +49,16 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/12/world/europe/covid-netherlands-lockdown.html">Netherlands Looks to Partial Lockdown as Covid Cases Rise</a> NYT: The country is experiencing rising case numbers amid a fourth wave of infections. 
  <p class="updated_time"> 04:33 AM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/world/africa/de-klerk-apartheid-south-africa.html">For Some South Africans, de Klerk Missed Chances for True Reconciliation</a> NYT: The last white president of South Africa helped bring an end to the apartheid regime, but for many citizens, he never went far enough to disavow it. He left a video apologizing. 
+ <p class="updated_time"> 04:20 AM CT, Nov. 12 </p> 
+ <a href="https://www.wsj.com/articles/europe-sees-a-new-type-of-war-accusing-belarus-of-weaponizing-migrants-11636724990">Europe Sees 'a New Type of War,' Accusing Belarus of Weaponizing Migrants</a> WSJ: European officials accuse Belarus of abetting human traffickers bringing migrants into their country and then of funneling the new arrivals toward the border in an effort to provoke a crisis—things Belarus denies. 
  <p class="updated_time"> 04:08 AM CT, Nov. 12 </p> 
  <a href="https://www.npr.org/2021/11/12/1055030272/the-fossil-fuel-industry-is-well-represented-at-the-u-n-climate-summit">The fossil fuel industry is well represented at the U.N. climate summit</a> NPR: Watchdog groups say more than 500 people at the U.N. climate summit work for countries or organizations which lobby on behalf of the fossil fuel industry, and they want the lobbyists banned. 
  <p class="updated_time"> 03:58 AM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/11/world/europe/austria-chancellor-lockdown-unvaccinated.html">Austria Weighs a Lockdown for Unvaccinated People</a> NYT: The country’s case rate has more than doubled since late October. 
  <p class="updated_time"> 03:31 AM CT, Nov. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-53494405?at_medium=RSS&at_campaign=KARANGA">Britney Spears: Singer's conservatorship case explained</a> BBC: The US singer's bid to end her father's guardianship could reach its conclusion this week. 
+ <p class="updated_time"> 03:12 AM CT, Nov. 12 </p> 
+ <a href="https://www.wsj.com/articles/netherlands-set-to-revive-covid-19-restrictions-despite-high-vaccination-rate-11636726327">Netherlands Set to Revive Covid-19 Restrictions Despite High Vaccination Rate</a> WSJ: The country is set to renew curbs on public life, as a steep rise in coronavirus cases in parts of Europe raises concerns that hospitals could be overwhelmed. 
  <p class="updated_time"> 03:00 AM CT, Nov. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59244533?at_medium=RSS&at_campaign=KARANGA">'Selfies are taking away our livelihood'</a> BBC: Temple photographers in this Indian town are struggling to make a living in the age of selfies. 
  <p class="updated_time"> 02:54 AM CT, Nov. 12 </p> 
@@ -77,8 +81,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/haiti-slides-deeper-into-chaos-a-month-after-missionaries-kidnapping-11636718401">Haiti Slides Deeper Into Chaos a Month After Missionaries' Kidnapping</a> WSJ: The U.S. is urging Americans to get out of Haiti as gangs block fuel terminals and carry out mass abductions in defiance of a weak government. 
  <p class="updated_time"> 12:59 AM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/world/australia/migration-and-experimentation-what-led-to-australias-coffee-culture.html">Migration and Experimentation: What Led to Australia’s Coffee Culture</a> NYT: When Italian migrants arrived after World War II, they helped develop a coffee scene that many now regard as the best in the world. 
- <p class="updated_time"> 12:58 AM CT, Nov. 12 </p> 
- <a href="https://www.wsj.com/articles/biden-and-xi-pressed-for-u-s-china-climate-statement-11636718318">U.S.-China Climate Change Cooperation Driven by Biden and Xi's Need for Deal</a> WSJ: The announcement that the U.S. and China would cooperate on accelerating a transition to cleaner energy came after both President Biden and Chinese President Xi Jinping encouraged their delegates to find common ground. 
  <p class="updated_time"> 12:44 AM CT, Nov. 12 </p> 
  <a href="https://www.wsj.com/articles/cop26-talks-enter-final-scheduled-day-with-deal-still-elusive-11636717491">COP26 Talks Enter Final Scheduled Day With Deal Still Elusive</a> WSJ: Negotiators seeking to reach a global deal to slow climate change entered the last scheduled day of talks still wrestling with big differences over the wording of what they hope will be a meaningful agreement. 
  <p class="updated_time"> 12:15 AM CT, Nov. 12 </p> 
@@ -165,8 +167,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-59252082?at_medium=RSS&at_campaign=KARANGA">FW de Klerk: The man who still divides South Africa</a> BBC: Was he a visionary who ended a racist system, or should he have been prosecuted? 
  <p class="updated_time"> 12:15 PM CT, Nov. 11 </p> 
  <a href="https://www.npr.org/2021/11/11/1054770079/a-climate-summit-theme-how-much-should-wealthy-countries-pay-to-help-poorer-ones">A climate summit theme: How much should wealthy countries pay to help poorer ones? </a> NPR: Wealthy countries have historically been the largest producers of greenhouse gases. One of the biggest issues left at the COP26 summit is their role helping poorer nations cope with climate change. 
- <p class="updated_time"> 11:46 AM CT, Nov. 11 </p> 
- <a href="https://www.wsj.com/articles/hundreds-seeking-evacuation-from-afghanistan-forced-to-leave-safehouses-11636670801">At-Risk Afghans Forced to Flee Safe Houses</a> WSJ: The volunteer group Task Force Argo said that it was unable to gain approval to fly the Afghans out of the country and that the cost of housing them was astronomical. 
  <p class="updated_time"> 11:40 AM CT, Nov. 11 </p> 
  <a href="https://www.npr.org/2021/11/11/1054772983/antonio-guterres-cop26-climate-change">The U.N. chief says the main global warming goal is on 'life support'</a> NPR: The U.N. secretary-general says the talks in Glasgow will "very probably" not yield the carbon-cutting pledges he has said are needed to keep the planet from warming beyond the 1.5-degree threshold. 
  <p class="updated_time"> 11:37 AM CT, Nov. 11 </p> 
@@ -214,7 +214,7 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
- <p class="updated_time"> 09:37 AM CT, Nov. 12 </p> 
+ <p class="updated_time"> 10:05 AM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/us/politics/robert-califf-fda.html">Biden to Choose Robert Califf to Lead F.D.A., Despite Drug Industry Ties</a> NYT: Dr. Robert M. Califf, an academic and clinical trial researcher who ran the agency in 2016, has also consulted for pharmaceutical companies. 
  <p class="updated_time"> 09:19 AM CT, Nov. 12 </p> 
  <a href="https://www.cnn.com/2021/11/12/politics/lisa-murkowski-alaska-reelection/index.html">GOP Sen. Lisa Murkowski of Alaska announces reelection bid</a> CNN: GOP Sen. Lisa Murkowski of Alaska announced her bid Friday for reelection in a race that's sure to be tough for the moderate Republican who has been a strong critic of former President Donald Trump. 
@@ -400,6 +400,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/10/us/politics/pac-operator-charges.html">Three Men Charged With Running ‘Scam PACs’ That Bilked Small Donors</a> NYT: The Justice Department said the three men defrauded donors of $3.5 million, including through robocalls that impersonated former President Donald J. Trump. 
  <p class="updated_time"> 02:21 PM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/technology/doj-uber-suit-disabilities.html">U.S. Sues Uber, Saying It Discriminated Against People With Disabilities</a> NYT: The Justice Department says Uber did not adjust its wait time fees for people with disabilities, even when Uber knew someone needed additional time. 
+ <p class="updated_time"> 12:59 PM CT, Nov. 10 </p> 
+ <a href="https://www.politico.com/news/2021/11/10/scott-fairlamb-jan-6-sentencing-520592">N.J. man hit with toughest sentence yet in Jan. 6 attack</a> Politico: Former MMA fighter Scott Fairlamb gets 41 months in prison for punching police officer during Capitol Riot. 
  <p class="updated_time"> 10:13 AM CT, Nov. 10 </p> 
  <a href="https://www.cnn.com/2021/11/10/politics/joe-biden-inflation/index.html">Biden on inflation report: 'Reversing this trend is a top priority for me'</a> CNN: President Joe Biden said Wednesday that inflation statistics showing America's prices are surging more than they have in 30 years are proof that there is "more work to do before our economy is back to normal." 
  <p class="updated_time"> 08:12 AM CT, Nov. 10 </p> 
@@ -434,8 +436,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/11/08/big-obstacles-await-biden-after-big-win-495012">POLITICO Playbook: Big obstacles await Biden after big win</a> Politico: And midterm elections are a year from today. 
  <p class="updated_time"> 04:30 AM CT, Nov. 08 </p> 
  <a href="https://www.politico.com/news/2021/11/08/republican-wave-house-congress-520238">Republican wave builds to take back the House</a> Politico: A combination of aggressive redistricting, strong fundraising and a favorable political environment has the GOP excited about its prospects in next year's midterms. 
- <p class="updated_time"> 04:30 AM CT, Nov. 08 </p> 
- <a href="https://www.politico.com/news/2021/11/08/democratic-senate-majority-dicey-virginia-520214">The Democratic Senate majority was already dicey. Then came Virginia.</a> Politico: A favorable map is not going to be enough to save Senate Dems. But they might get help from a few tarnished GOP candidates. 
  <p class="updated_time"> 11:17 AM CT, Nov. 07 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/07/what-happens-in-vegas-495006">POLITICO Playbook: What happens in Vegas …</a> Politico: And a court temporarily blocks Biden’s vaccine mandate. 
  <p class="updated_time"> 10:27 AM CT, Nov. 07 </p> 
