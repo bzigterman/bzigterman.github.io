@@ -229,7 +229,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:19 PM CT, Nov. 12 </p> 
  <a href="https://www.cnn.com/2021/11/12/politics/mark-meadows-january-6-deposition/index.html">Mark Meadows did not appear for deposition with January 6 committee</a> CNN: Former Trump White House Chief of Staff Mark Meadows did not appear in person for a deposition on Friday in front of the House select committee investigating January 6, setting up a potential showdown that could lead to the panel beginning a criminal referral process against him. 
  <p class="updated_time"> 04:09 PM CT, Nov. 12 </p> 
- <a href="https://www.politico.com/news/2021/11/12/steve-bannon-indicted-for-defying-jan-6-committee-investigation-521177">Steve Bannon indicted for defying Jan. 6 committee investigation</a> Politico: The Justice Department has charged the former top adviser to Trump for refusing to provide documents and testimony to investigators probing the Capitol attack. 
+ <a href="https://www.politico.com/news/2021/11/12/steve-bannon-indicted-for-defying-jan-6-committee-investigation-521177">Steve Bannon indicted for defying Jan. 6 committee investigation</a> Politico: The House referred Bannon to the Justice Department for prosecution last month after he refused to cooperate with a congressional subpoena. 
  <p class="updated_time"> 04:03 PM CT, Nov. 12 </p> 
  <a href="https://www.npr.org/2021/11/12/1055366694/how-a-powerful-new-jersey-senate-president-lost-his-seat-to-an-unknown-truck-dri">How a powerful New Jersey Senate president lost his seat to an unknown truck driver</a> NPR: There was enough working against Democrats inside and outside of New Jersey for the powerful state Senate president to lose his seat to a truck driver with no political experience. 
  <p class="updated_time"> 04:03 PM CT, Nov. 12 </p> 
@@ -351,7 +351,7 @@ permalink: /projects/news/
  <p class="updated_time"> 10:10 PM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/us/politics/biden-veterans-day.html">Biden Marks First Veterans Day in Two Decades Without Troops in Active Combat</a> NYT: President Biden, who ended the 20-year conflict in Afghanistan this summer, called veterans the “soul of America.” 
  <p class="updated_time"> 08:23 PM CT, Nov. 11 </p> 
- <a href="https://www.npr.org/sections/coronavirus-live-updates/2021/11/11/1054959986/states-lawsuit-biden-administration-covid-vaccine-mandate-health-workers">10 states sue Biden administration over COVID vaccine mandate for health care workers</a> NPR: The state attorneys general argue the vaccine mandate will lead to shortages of health care workers and could threaten the jobs of millions of their jobs. 
+ <a href="https://www.npr.org/sections/coronavirus-live-updates/2021/11/11/1054959986/states-lawsuit-biden-administration-covid-vaccine-mandate-health-workers">10 states sue Biden administration over COVID vaccine mandate for health care workers</a> NPR: The state attorneys general argue the vaccine mandate will lead to shortages of health care workers and could threaten the jobs of millions. 
  <p class="updated_time"> 05:30 PM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/us/politics/facebook-political-ads.html">Facebook's Ad Policies Changed, but Political Campaigns Can Still Target You</a> NYT: Meta announced changes to its ad-targeting policies, but they will do little to stop campaigns from reaching specific voters. 
  <p class="updated_time"> 05:16 PM CT, Nov. 11 </p> 
