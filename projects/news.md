@@ -7,12 +7,12 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:41 AM CT, Nov. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/science-environment-59221790?at_medium=RSS&at_campaign=KARANGA">COP26: New draft climate deal steps up call for urgent action</a> BBC: It softens commitments on fossil fuels but requires governments to take action urgently. 
  <p class="updated_time"> 02:36 AM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/11/world/europe/migrants-poland-belarus-lukashenko.html">Migrants in Peril, and Raw Emotions, in a Volatile European Border Standoff</a> NYT: A confrontation over migrants between Belarus and Poland is growing more volatile, as nationalist fervor rises in both countries and a humanitarian disaster looms. 
  <p class="updated_time"> 02:17 AM CT, Nov. 12 </p> 
  <a href="https://www.bbc.co.uk/sport/football/59256408?at_medium=RSS&at_campaign=KARANGA">Aminata Diallo: Paris St-Germain midfielder released by police without charge</a> BBC: Paris St-Germain midfielder Aminata Diallo is released without charge by French police investigating an attack on her PSG team-mate Kheira Hamraoui. 
- <p class="updated_time"> 02:14 AM CT, Nov. 12 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-59221790?at_medium=RSS&at_campaign=KARANGA">COP26: New draft climate deal weakens fossil fuel commitments</a> BBC: But it requires governments to do more to help developing countries with impacts of climate change. 
  <p class="updated_time"> 02:09 AM CT, Nov. 12 </p> 
  <a href="https://www.npr.org/2021/11/12/1055027411/a-u-s-journalist-is-sentenced-to-11-years-in-jail-by-a-court-in-myanmar">A U.S. journalist is sentenced to 11 years in jail by a court in Myanmar</a> NPR: A court in military-ruled Myanmar sentenced journalist Danny Fenster to 11 years in prison after finding him guilty on several charges, including incitement for allegedly spreading false information. 
  <p class="updated_time"> 01:19 AM CT, Nov. 12 </p> 
