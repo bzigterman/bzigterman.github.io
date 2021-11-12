@@ -7,14 +7,14 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:10 PM CT, Nov. 11 </p> 
+ <a href="https://www.nytimes.com/2021/11/11/world/europe/migrants-poland-belarus-lukashenko.html">Migrants in Peril, and Raw Emotions, in a Volatile European Border Standoff</a> NYT: A confrontation over migrants between Belarus and Poland is growing more volatile, as nationalist fervor rises in both countries and a humanitarian disaster looms. 
  <p class="updated_time"> 07:24 PM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/live/2021/11/11/world/china-xi-jinping-cpc">China’s Xi Jinping Remakes the Communist Party’s History in His Image</a> NYT: Leaders at an elite meeting enshrined Mr. Xi among the party’s historical giants, paving the way for him to claim a third five-year term. 
  <p class="updated_time"> 07:20 PM CT, Nov. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59257003?at_medium=RSS&at_campaign=KARANGA">Capitol riot: Court temporarily blocks release of Trump files</a> BBC: Files chased by the Capitol riot inquiry will not be released until an appeals court hears the case. 
  <p class="updated_time"> 07:17 PM CT, Nov. 11 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59253928?at_medium=RSS&at_campaign=KARANGA">COP26: Temperature fears as climate summit enters final day</a> BBC: UN chief Antonio Guterres says the goal of limiting global warming to 1.5C looks unlikely. 
- <p class="updated_time"> 07:17 PM CT, Nov. 11 </p> 
- <a href="https://www.nytimes.com/2021/11/11/world/europe/migrants-poland-belarus-lukashenko.html">Migrants in Peril, and Raw Emotions, in a Volatile European Border Standoff</a> NYT: A confrontation over migrants between Belarus and Poland is growing more volatile, as nationalist fervor rises in both countries and a humanitarian disaster looms. 
  <p class="updated_time"> 07:10 PM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/world/asia/xi-jinping-china-third-term.html">China's Xi Jingping Secures Political Future By Rewriting Past</a> NYT: Senior party officials have gathered at a closed-door meeting in Beijing to cement Mr. Xi’s dominance as he moves to claim a likely third term next year as China’s leader. 
  <p class="updated_time"> 06:40 PM CT, Nov. 11 </p> 
@@ -214,6 +214,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:54 PM CT, Nov. 11 </p> 
+ <a href="https://www.nytimes.com/2021/11/11/us/politics/trump-files-january-6.html">Court Issues Brief Hold on Release of Trump Files in Jan. 6 Inquiry</a> NYT: Congress had been set to receive the first batch of Trump White House files from the National Archives on Friday, a move that the former president had fought. 
  <p class="updated_time"> 07:46 PM CT, Nov. 11 </p> 
  <a href="https://www.politico.com/news/2021/11/11/jan-6-committee-mark-meadows-testify-friday-520992">Jan. 6 committee to Mark Meadows: Testify Friday or risk contempt charges</a> Politico: The chair, Rep. Bennie Thompson, said the former Trump chief of staff’s continued resistance to cooperating with the panel lacked any plausible defense. 
  <p class="updated_time"> 07:29 PM CT, Nov. 11 </p> 
@@ -262,8 +264,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/11/1054884193/the-infrastructure-plan-passed-now-departments-are-figuring-out-how-to-spend-it">The infrastructure plan passed. Now, departments are figuring out how to spend it</a> NPR: Government departments are scrambling to figure out how to spend the $1 trillion in the infrastructure package. Some will go to existing grant programs, while others need to be created from scratch. 
  <p class="updated_time"> 04:03 PM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/10/us/politics/swift-ruling-tests-trump-delay-tactic.html">Swift Ruling in Jan. 6 Case Tests Trump's Tactic of Delay</a> NYT: The former president has leveraged the slow judicial process in the past to thwart congressional oversight, but the Jan. 6 case may be different. 
- <p class="updated_time"> 03:45 PM CT, Nov. 11 </p> 
- <a href="https://www.nytimes.com/2021/11/11/us/politics/trump-files-january-6.html">Court Issues Brief Hold on Release of Trump Files in Jan. 6 Inquiry</a> NYT: Congress had been set to receive the first batch of Trump White House files from the National Archives on Friday, a move that the former president has fought. 
  <p class="updated_time"> 03:31 PM CT, Nov. 11 </p> 
  <a href="https://www.npr.org/2021/11/11/1054884112/xi-jinping-is-in-a-good-position-to-break-norms-and-continue-to-lead-china">Xi Jinping is in a good position to break norms and continue to lead China</a> NPR: In China, leadership has concluded a four-day meeting that endorsed Xi Jinping's vision for the country and signed off on a reassessment of the party's 100-year history. 
  <p class="updated_time"> 03:30 PM CT, Nov. 11 </p> 
