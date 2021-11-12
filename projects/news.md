@@ -216,8 +216,10 @@ permalink: /projects/news/
 
  <p class="updated_time"> 04:09 PM CT, Nov. 12 </p> 
  <a href="https://www.politico.com/news/2021/11/12/steve-bannon-indicted-for-defying-jan-6-committee-investigation-521177">Steve Bannon indicted for defying Jan. 6 committee investigation</a> Politico: The Justice Department has charged the former top adviser to Trump for refusing to provide documents and testimony to investigators probing the Capitol attack. 
- <p class="updated_time"> 03:31 PM CT, Nov. 12 </p> 
+ <p class="updated_time"> 03:36 PM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/us/politics/bannon-indicted.html">Bannon Indicted on Contempt Charges Over House Investigation of Capitol Riot</a> NYT: Stephen K. Bannon, a former top aide to Donald Trump, had refused to comply with subpoenas from the House committee investigating the Jan. 6 attack on Congress. 
+ <p class="updated_time"> 03:34 PM CT, Nov. 12 </p> 
+ <a href="https://www.cnn.com/2021/11/12/politics/lisa-murkowski-alaska-reelection/index.html">GOP Sen. Lisa Murkowski of Alaska announces reelection bid</a> CNN: GOP Sen. Lisa Murkowski of Alaska announced her bid Friday for reelection in a race that's sure to be tough for the moderate Republican who has been a strong critic of former President Donald Trump. 
  <p class="updated_time"> 03:31 PM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/us/politics/robert-califf-fda.html">Biden Chooses Robert Califf to Lead F.D.A., Despite Drug Industry Ties</a> NYT: Dr. Robert M. Califf, an academic and clinical trial researcher who ran the agency in 2016, has also consulted for pharmaceutical companies. 
  <p class="updated_time"> 03:25 PM CT, Nov. 12 </p> 
@@ -284,8 +286,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/12/politics/us-qatar-afghanistan/index.html">Blinken says all US citizens in Afghanistan who currently want to leave have an 'opportunity to do so'</a> CNN: The US and Qatar signed an agreement Friday to have Qatar's embassy in Kabul represent US interests in Afghanistan as senior officials from the two countries met in Washington for the US-Qatar Strategic Dialogue. 
  <p class="updated_time"> 10:27 AM CT, Nov. 12 </p> 
  <a href="https://www.npr.org/2021/11/12/1055084269/lisa-murkowski-reelection-senate-alaska">Murkowski voted to convict Trump. Now she'll run against a candidate he backs</a> NPR: Alaska Sen. Lisa Murkowski is one of seven Republican senators to vote to convict former President Donald Trump in his impeachment trial last January. 
- <p class="updated_time"> 09:19 AM CT, Nov. 12 </p> 
- <a href="https://www.cnn.com/2021/11/12/politics/lisa-murkowski-alaska-reelection/index.html">GOP Sen. Lisa Murkowski of Alaska announces reelection bid</a> CNN: GOP Sen. Lisa Murkowski of Alaska announced her bid Friday for reelection in a race that's sure to be tough for the moderate Republican who has been a strong critic of former President Donald Trump. 
  <p class="updated_time"> 08:52 AM CT, Nov. 12 </p> 
  <a href="https://www.cnn.com/2021/11/12/politics/kamala-harris-paris/index.html">Harris says she did not discuss submarine deal with Macron during Paris meeting</a> CNN: Vice President Kamala Harris said she did not discuss with French President Emmanuel Macron the surprise deal between the US and Australia to develop nuclear submarines that angered the French, leading to a fallout between the longstanding allies. 
  <p class="updated_time"> 08:50 AM CT, Nov. 12 </p> 
