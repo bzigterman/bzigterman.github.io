@@ -41,6 +41,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/uk-59247795?at_medium=RSS&at_campaign=KARANGA">COP26: Fear of failure on final day, and just how green was summit?</a> BBC: Five things you need to know about COP26 - the United Nations climate change conference - on Friday. 
  <p class="updated_time"> 12:59 AM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/world/australia/migration-and-experimentation-what-led-to-australias-coffee-culture.html">Migration and Experimentation: What Led to Australia’s Coffee Culture</a> NYT: When Italian migrants arrived after World War II, they helped develop a coffee scene that many now regard as the best in the world. 
+ <p class="updated_time"> 12:44 AM CT, Nov. 12 </p> 
+ <a href="https://www.wsj.com/articles/cop26-talks-enter-final-scheduled-day-with-deal-still-elusive-11636717491">COP26 Talks Enter Final Scheduled Day With Deal Still Elusive</a> WSJ: Negotiators seeking to reach a global deal to slow climate change entered the last scheduled day of talks still wrestling with big differences over the wording of what they hope will be a meaningful agreement. 
  <p class="updated_time"> 12:36 AM CT, Nov. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59245018?at_medium=RSS&at_campaign=KARANGA">Covid: Austrians heading towards lockdown for unvaccinated</a> BBC: The measures comes as record infections are reported in Austria, Germany and the Netherlands. 
  <p class="updated_time"> 12:15 AM CT, Nov. 12 </p> 
