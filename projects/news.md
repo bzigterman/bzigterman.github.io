@@ -52,7 +52,7 @@ permalink: /projects/news/
  <p class="updated_time"> 10:01 AM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/world/europe/julian-assange-stella-moris-marriage.html">Julian Assange Will Marry Stella Moris in London Prison</a> NYT: The WikiLeaks founder, who is battling extradition to the United States on espionage charges, has been granted permission to marry Stella Moris in the London prison where he has been held since 2019. 
  <p class="updated_time"> 09:46 AM CT, Nov. 12 </p> 
- <a href="https://www.npr.org/2021/11/12/1055055724/in-a-first-u-n-climate-agreement-could-include-the-words-coal-and-fossil-fuels">In a first, U.N. climate agreement could include the words 'coal' and 'fossil fuels'</a> NPR: The U.N. Secretary-General warns the main goal of limiting global warming is "on life support." But Glasgow negotiators are making modest progress in their final hours. 
+ <a href="https://www.npr.org/2021/11/12/1055055724/in-a-first-u-n-climate-agreement-could-include-the-words-coal-and-fossil-fuels">In a first, U.N. climate agreement could include the words 'coal' and 'fossil fuels'</a> NPR: The U.N. secretary-general warns the main goal of limiting global warming is "on life support." But Glasgow negotiators are making modest progress in their final hours. 
  <p class="updated_time"> 09:29 AM CT, Nov. 12 </p> 
  <a href="https://www.bbc.co.uk/news/technology-59262329?at_medium=RSS&at_campaign=KARANGA">US President Joe Biden tightens restrictions on Huawei and ZTE</a> BBC: A new law stops companies judged to be a security threat receiving telecoms equipment licences. 
  <p class="updated_time"> 09:26 AM CT, Nov. 12 </p> 
@@ -216,6 +216,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 02:40 PM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/us/politics/robert-califf-fda.html">Biden Chooses Robert Califf to Lead F.D.A., Despite Drug Industry Ties</a> NYT: Dr. Robert M. Califf, an academic and clinical trial researcher who ran the agency in 2016, has also consulted for pharmaceutical companies. 
+ <p class="updated_time"> 02:30 PM CT, Nov. 12 </p> 
+ <a href="https://www.cnn.com/2021/11/12/politics/infrastructure-czar-joe-biden/index.html">Biden plans to appoint an outside official to oversee implementation of massive infrastructure bill</a> CNN: President Joe Biden said Friday that he plans to appoint an official from outside his administration to oversee implementation of the large infrastructure bill he intends to sign on Monday. 
  <p class="updated_time"> 02:29 PM CT, Nov. 12 </p> 
  <a href="https://www.politico.com/news/2021/11/12/jen-psaki-returns-to-work-covid-19-521130">Press Secretary Jen Psaki returns to work after Covid-19</a> Politico: "I remain incredibly grateful for the vaccine for keeping me safe and other people in my house safe as well," she said. 
  <p class="updated_time"> 02:29 PM CT, Nov. 12 </p> 
@@ -386,8 +388,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/11/politics/joe-biden-inflation-messaging/index.html">Biden changes his tone and walks a delicate line on inflation</a> CNN: Rising consumer prices have quickly become one of the White House's most urgent concerns as Americans grow unsettled at the higher cost of goods -- and place the blame on President Joe Biden. 
  <p class="updated_time"> 04:30 AM CT, Nov. 11 </p> 
  <a href="https://www.politico.com/news/2021/11/11/bidens-voters-recovery-conundrum-520771">Biden's ‘I feel your pain’ conundrum</a> Politico: It’s tripped up the last two Democratic presidents and could trip up Biden too: How to sell a recovery when most voters aren’t feeling it. 
- <p class="updated_time"> 10:39 PM CT, Nov. 10 </p> 
- <a href="https://www.cnn.com/2021/11/10/politics/kamala-harris-emmanuel-macron/index.html">Harris and Macron aim for increased US-French cooperation as world enters 'new era'</a> CNN: Vice President Kamala Harris and French President Emmanuel Macron said Wednesday they look forward to closer US-French cooperation as they sat down for a bilateral meeting at the Elysée Palace aimed at revitalizing US-French ties. 
  <p class="updated_time"> 09:48 PM CT, Nov. 10 </p> 
  <a href="https://www.cnn.com/2021/11/10/politics/belarus-follow-up-sanctions/index.html">White House preparing 'follow up' sanctions on Belarus</a> CNN: The United States is preparing "follow up sanctions" designed to hold leaders in Belarus accountable for "ongoing attacks on democracy, human rights and international norms," a spokesman for the White House's National Security Council said on Wednesday. 
  <p class="updated_time"> 07:02 PM CT, Nov. 10 </p> 
