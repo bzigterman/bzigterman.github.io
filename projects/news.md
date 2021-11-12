@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:48 AM CT, Nov. 12 </p> 
+ <a href="https://www.nytimes.com/2021/11/12/world/europe/julian-assange-wedding.html">Julian Assange to Wed in Prison in Britain</a> NYT: The WikiLeaks founder, who is battling extradition to the United States on espionage charges, has been granted permission to marry Stella Moris in the London prison where he has been held since 2019. 
+ <p class="updated_time"> 09:46 AM CT, Nov. 12 </p> 
+ <a href="https://www.npr.org/2021/11/12/1055055724/in-a-first-u-n-climate-agreement-could-include-the-words-coal-and-fossil-fuels">In a first, U.N. climate agreement could include the words "coal" and "fossil fuels"</a> NPR: The U.N. Secretary-General warns the main goal of limiting global warming is "on life support." But Glasgow negotiators are making modest progress in their final hours. 
  <p class="updated_time"> 09:31 AM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/live/2021/11/12/world/belarus-poland-border-migrants">Live Updates: Airlines Limit Flights to Belarus to Slow Flow of Migrants to E.U. Borders</a> NYT: With thousands stranded on the border between Poland and Belarus, Russia sent conflicting signals. The Kremlin says it will not allow Belarus to disrupt the flow of natural gas to Europe. At the same time, Moscow flexed its military might in a show of support for its ally. 
  <p class="updated_time"> 09:26 AM CT, Nov. 12 </p> 
@@ -169,8 +173,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-59247789?at_medium=RSS&at_campaign=KARANGA">Quiz of the week: Which actor destroyed an original Banksy?</a> BBC: How closely have you been paying attention to what's been going on during the past seven days? 
  <p class="updated_time"> 11:16 AM CT, Nov. 11 </p> 
  <a href="https://www.npr.org/2021/11/11/1054645619/state-of-the-river-thames-report-london">Zombie river? London's Thames, once biologically dead, has been coming back to life</a> NPR: Oxygen levels, necessary for fish, are up and dangerous phosphorus levels are down in the historically polluted waterway. But a new report points to climate change as a possible wildcard. 
- <p class="updated_time"> 10:56 AM CT, Nov. 11 </p> 
- <a href="https://www.npr.org/sections/goatsandsoda/2021/11/11/1052719247/how-6-billion-from-elon-musk-could-feed-millions-on-the-brink-of-famine">How $6 billion from Elon Musk could feed millions on the brink of famine</a> NPR: Elon Musk reportedly made $36 billion in a single day. What if he gave a sixth of that to the World Food Programme? We ask researchers how much of a change $6 billion could bring. 
  <p class="updated_time"> 10:45 AM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/world/europe/poland-forests-border-crisis.html">On the Ground: Migrants in Poland's Forests Are Hiding and Hurting</a> NYT: The forests stretch past a restricted zone, and it is there that migrants like this group of eight who have made it past the guards and the razor wire are waiting for an opportunity to continue on. 
  <p class="updated_time"> 10:27 AM CT, Nov. 11 </p> 
@@ -203,8 +205,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/10/world/boris-johnson-cop26.html">Boris Johnson Urges Negotiators to Break Impasse in Final Climate Summit Hours</a> NYT: “Now is the time to get together and show the determination needed to power on through the blockages,” the British prime minister said on Wednesday. 
  <p class="updated_time"> 04:37 PM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/world/europe/boris-johnson-climate-scandal.html">Boris Johnson Handles Scandal Amid Climate Conference</a> NYT: As the host leader of the U.N. conference on global warming, Mr. Johnson was hoping to project statesmanship. But a mushrooming ethics scandal dominated the week, overshadowing his climate ambitions. 
- <p class="updated_time"> 02:40 PM CT, Nov. 10 </p> 
- <a href="https://www.nytimes.com/2021/11/10/world/greta-thunberg-cop26-state-emergency.html">Greta Thunberg, Activists Petition U.N. to Declare State of Emergency on Climate Change</a> NYT: Young climate activists on Wednesday called on the U.N. to declare a “Level 3” emergency, as it did for Covid-19, allowing the institution to deploy resources to vulnerable countries. 
  <p class="updated_time"> 01:24 PM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/world/africa/mozambique-corruption-manuel-chang-extradition.html">Manuel Chang Will Face Corruption Charges in U.S.</a> NYT: A judge overturned the South African government’s decision to send the minister back to Mozambique, where civil society groups say his political clout will protect him. 
 
