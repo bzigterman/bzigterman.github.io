@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:04 AM CT, Nov. 12 </p> 
+ <p class="updated_time"> 08:26 AM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/live/2021/11/12/world/belarus-poland-border-migrants">Live Updates: Airlines Limit Flights to Belarus to Slow Flow of Migrants to E.U. Borders</a> NYT: With thousands stranded on the border between Poland and Belarus, Russia sent conflicting signals. The Kremlin says it will not allow Belarus to disrupt the flow of natural gas to Europe. At the same time, Moscow flexed its military might in a show of support for its ally. 
  <p class="updated_time"> 07:55 AM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/11/health/veterans-psychedelics-ptsd-depression.html">Veterans Have Become Unlikely Lobbyists in Push to Legalize Psychedelic Drugs</a> NYT: Lawmakers find it hard to “just say no” to combat veterans seeking support for drug decriminalization efforts gaining traction around the country. 
@@ -220,6 +220,10 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/12/julian-assange-given-permission-to-marry-partner-in-prison-521032">Julian Assange given permission to marry partner in prison</a> Politico: Assange and Moris made their relationship public in April 2020 and had applied to prison authorities for permission to wed. 
  <p class="updated_time"> 08:39 AM CT, Nov. 12 </p> 
  <a href="https://www.politico.com/news/2021/11/12/russia-kremlin-ukraine-nato-threats-521031">Kremlin denies plans to invade Ukraine, alleges NATO threats</a> Politico: Ukraine complained last week that Russia has kept tens of thousands of troops not far from the two countries' borders. 
+ <p class="updated_time"> 08:28 AM CT, Nov. 12 </p> 
+ <a href="https://www.nytimes.com/2021/11/11/us/politics/project-veritas-journalism-political-spying.html">Project Veritas: Journalists or Political Spies? </a> NYT: Documents show how the conservative group worked with lawyers to gauge how far its deceptive reporting practices could go before running afoul of federal laws. 
+ <p class="updated_time"> 08:23 AM CT, Nov. 12 </p> 
+ <a href="https://www.cnn.com/2021/11/11/politics/trump-jan-6-documents-explainer/index.html">What's next in Trump's scramble to stop the House from getting his White House docs</a> CNN: Former President Donald Trump got a last-minute reprieve to stop the House select committee investigating January 6 from obtaining his White House documents as scheduled on Friday. 
  <p class="updated_time"> 08:12 AM CT, Nov. 12 </p> 
  <a href="https://www.cnn.com/2021/11/12/politics/rob-califf-fda-commissioner/index.html">Biden to nominate Dr. Rob Califf as FDA commissioner</a> CNN: President Joe Biden will nominate Dr. Rob Califf, a longtime cardiologist, to be the next commissioner of the Food and Drug Administration, a role Califf previously held during the Obama administration. 
  <p class="updated_time"> 08:09 AM CT, Nov. 12 </p> 
@@ -270,8 +274,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/12/us/politics/democrats-trifecta-power.html">Why Democrats May Have a Long Wait if They Lose Their Grip on Washington</a> NYT: Voters’ reflexive instinct to check the party in power makes it hard for any party to retain a hold on both the White House and Congress for long. 
  <p class="updated_time"> 02:00 AM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/nyregion/aoc-infrastructure-bill-vote.html">Ocasio-Cortez Isn’t Wavering. Are New Yorkers on Her Side?</a> NYT: By voting no on the infrastructure bill, Representative Alexandria Ocasio-Cortez set off a fierce debate, including among city residents eager to see the subways improved. 
- <p class="updated_time"> 11:51 PM CT, Nov. 11 </p> 
- <a href="https://www.cnn.com/2021/11/11/politics/trump-jan-6-documents-explainer/index.html">What's next in Trump's scramble to stop the House from getting his White House docs</a> CNN: Former President Donald Trump got a last-minute reprieve to stop the House select committee investigating January 6 from obtaining his White House documents as scheduled on Friday. 
  <p class="updated_time"> 11:19 PM CT, Nov. 11 </p> 
  <a href="https://www.cnn.com/2021/11/12/politics/donald-trump-january-6-committee/index.html">The absurd logic of Trump's bid to defy the January 6 committee </a> CNN: Ex-President Donald Trump is planting his flag on a logical absurdity in his transparent bid to run out the clock on the January 6 investigation and avoid accountability for his unprecedented bid to steal power in a coup. 
  <p class="updated_time"> 10:59 PM CT, Nov. 11 </p> 
@@ -292,8 +294,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/11/politics/trump-motion-documents/index.html">Dem-appointed appellate panel pauses release of Trump White House records ahead of Friday deadline</a> CNN: Former President Donald Trump has asked a federal appeals court to briefly stop the release of key White House records from his presidency to the House January 6 committee while he appeals a lower court's decision that he can't claim executive privilege to keep them secret. 
  <p class="updated_time"> 05:30 PM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/us/politics/facebook-political-ads.html">Facebook's Ad Policies Changed, but Political Campaigns Can Still Target You</a> NYT: Meta announced changes to its ad-targeting policies, but they will do little to stop campaigns from reaching specific voters. 
- <p class="updated_time"> 05:25 PM CT, Nov. 11 </p> 
- <a href="https://www.nytimes.com/2021/11/11/us/politics/project-veritas-journalism-political-spying.html">Project Veritas: Journalists or Political Spies? </a> NYT: Documents show how the conservative group worked with lawyers to gauge how far its deceptive reporting practices could go before running afoul of federal laws. 
  <p class="updated_time"> 05:16 PM CT, Nov. 11 </p> 
  <a href="https://www.politico.com/news/2021/11/11/republicans-wrestle-infrastructure-backlash-520956">‘I hope it’s a fever that will break’: GOP wrestles with infrastructure vote backlash</a> Politico: ‘Some elements of the party keep finding new ways to define Republicanism,’ says one longtime GOP lobbyist and strategist. 
  <p class="updated_time"> 05:16 PM CT, Nov. 11 </p> 
@@ -365,7 +365,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:06 AM CT, Nov. 11 </p> 
  <a href="https://www.npr.org/2021/11/11/1054614951/morning-news-brief">News brief: infrastructure bill, Texas mask rules, Rittenhouse trial </a> NPR: President Biden addresses inflation and infrastructure bill. Texas schools can set their own face mask rules again following a judge's ruling. Kyle Rittenhouse took the stand in his own defense. 
  <p class="updated_time"> 11:11 PM CT, Nov. 10 </p> 
- <a href="https://www.cnn.com/2021/11/11/politics/president-joe-biden-inflation-politics/index.html">Why inflation is a political nightmare for Biden</a> CNN: Joe Biden's next political nightmare is inflation, a force that can destroy family budgets and political careers and is being driven by domestic and global factors tough for a president to quickly fix. 
+ <a href="https://www.cnn.com/2021/11/11/politics/president-joe-biden-inflation-politics/index.html">Analysis: Why inflation is a political nightmare for Biden</a> CNN: Joe Biden's next political nightmare is inflation, a force that can destroy family budgets and political careers and is being driven by domestic and global factors tough for a president to quickly fix. 
  <p class="updated_time"> 10:39 PM CT, Nov. 10 </p> 
  <a href="https://www.cnn.com/2021/11/10/politics/kamala-harris-emmanuel-macron/index.html">Harris and Macron aim for increased US-French cooperation as world enters 'new era'</a> CNN: Vice President Kamala Harris and French President Emmanuel Macron said Wednesday they look forward to closer US-French cooperation as they sat down for a bilateral meeting at the Elysée Palace aimed at revitalizing US-French ties. 
  <p class="updated_time"> 09:52 PM CT, Nov. 10 </p> 
