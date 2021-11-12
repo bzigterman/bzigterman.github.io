@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:49 PM CT, Nov. 12 </p> 
+ <a href="https://www.nytimes.com/2021/11/12/us/ivory-rhino-congo-trafficking.html">2 Ivory Smugglers Captured in International Operation, U.S. Says</a> NYT: The undercover joint operation by the U.S. and Congolese governments also resulted in the seizure of millions of dollars’ worth of illegal wildlife plunder. 
+ <p class="updated_time"> 04:47 PM CT, Nov. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59270291?at_medium=RSS&at_campaign=KARANGA">Steve Bannon charged with contempt of Congress</a> BBC: Former Trump strategist charged after refusing to testify to committee investigating US Capitol riot. 
  <p class="updated_time"> 04:34 PM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/live/2021/11/12/world/belarus-poland-border-migrants">Provocative Rhetoric and Military Moves Raise Tension at Belarus-Poland Border</a> NYT: Airlines have agreed to curb the flow into Belarus of migrants hoping to reach the European Union. As threats and accusations fly, there are troop buildups on both sides. 
  <p class="updated_time"> 04:34 PM CT, Nov. 12 </p> 
@@ -23,8 +27,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59258409?at_medium=RSS&at_campaign=KARANGA">Covid: Dutch partial lockdown to tackle surge in infections</a> BBC: The measures will last three weeks, while Austria plans a lockdown for the unvaccinated. 
  <p class="updated_time"> 04:13 PM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/world/europe/covid-netherlands-lockdown.html">Netherlands Looks to Partial Lockdown as Covid Cases Rise</a> NYT: The Dutch lockdown does not single out those who are unvaccinated. The country is experiencing rising case numbers amid a fourth wave of infections. 
- <p class="updated_time"> 04:06 PM CT, Nov. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59270291?at_medium=RSS&at_campaign=KARANGA">Steve Bannon charged with contempt of Congress</a> BBC: Former Trump strategist charged after refusing to testify to committee investigating US Capitol riot. 
  <p class="updated_time"> 04:03 PM CT, Nov. 12 </p> 
  <a href="https://www.npr.org/2021/11/12/1055366701/birds-in-the-amazon-have-been-shrinking-heres-why-scientists-think-its-happening">Birds in the Amazon have been shrinking. Here's why scientists think it's happening</a> NPR: Over the last four decades, birds in the Amazon have been shrinking — and scientists believe their smaller bodies may be a response to hotter, drier weather brought by climate change. 
  <p class="updated_time"> 04:03 PM CT, Nov. 12 </p> 
@@ -203,8 +205,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/11/t-magazine/mansaf-bedouin-rice.html">For Many Members of the Arab American Diaspora, Mansaf Offers a Taste of Home</a> NYT: The traditional Bedouin dish of bread, rice, lamb and yogurt is a talisman of identity in Jordan — and in various communities in suburban Detroit. 
  <p class="updated_time"> 10:04 PM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/world/middleeast/israeli-covid-vaccine-children.html">Israeli Experts Approve Vaccinations for Children Ages 5 to 11 </a> NYT: Israel would become one of the first countries after the United States to authorize the Pfizer-BioNTech vaccine for children ages 5 to 11. 
- <p class="updated_time"> 07:02 PM CT, Nov. 10 </p> 
- <a href="https://www.nytimes.com/2021/11/10/world/europe/france-kamala-harris-macron.html">Harris Meets Macron, Signaling a ‘New Era’ After Sub Snub, Both Say</a> NYT: In her vague assignment abroad, the vice president seems to be emphasizing that the U.S.-France relationship is about looking forward, in the wake of an embarrassing diplomatic spat. 
  <p class="updated_time"> 06:34 PM CT, Nov. 10 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59227491?at_medium=RSS&at_campaign=KARANGA">COP26: Climate activists on what change means for them</a> BBC: Climate activists from the Philippines, the UK and Argentina take questions on climate change. 
  <p class="updated_time"> 05:11 PM CT, Nov. 10 </p> 
@@ -216,7 +216,7 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
- <p class="updated_time"> 04:37 PM CT, Nov. 12 </p> 
+ <p class="updated_time"> 04:45 PM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/us/politics/bannon-indicted.html">Bannon Indicted on Contempt Charges Over House’s Capitol Riot Inquiry</a> NYT: Stephen K. Bannon, a former top aide to Donald Trump, had refused to comply with subpoenas from the House committee investigating the Jan. 6 attack on Congress. 
  <p class="updated_time"> 04:36 PM CT, Nov. 12 </p> 
  <a href="https://www.cnn.com/2021/11/12/politics/steve-bannon-indicted/index.html">Federal grand jury indicts Steve Bannon for contempt of Congress</a> CNN: A federal grand jury has returned an indictment against former Trump adviser Steve Bannon, CNN has learned. 
@@ -253,7 +253,7 @@ permalink: /projects/news/
  <p class="updated_time"> 03:05 PM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/us/politics/pell-grants-for-profit-colleges-aid.html">Democrats’ Bill Would Deny For-Profit College Students Extra Aid</a> NYT: Critics say a little-noticed provision would hurt the very constituencies — people of color, the working class, low-income Americans — that the party typically champions. 
  <p class="updated_time"> 02:57 PM CT, Nov. 12 </p> 
- <a href="https://www.npr.org/2021/11/12/1054309797/steve-bannon-contempt-congress-justice-department">Justice Department charges Steve Bannon with criminal contempt of Congress</a> NPR: Federal prosecutors charged Steve Bannon over his defiance of a subpoena from the congressional committee investigating the Capitol siege on Jan. 6. 
+ <a href="https://www.npr.org/2021/11/12/1054309797/steve-bannon-contempt-congress-justice-department">Justice Department charges Steve Bannon with criminal contempt of Congress</a> NPR: Federal prosecutors charged Steve Bannon over his defiance of a subpoena from the congressional committee investigating the Jan. 6 Capitol siege. 
  <p class="updated_time"> 02:30 PM CT, Nov. 12 </p> 
  <a href="https://www.cnn.com/2021/11/12/politics/infrastructure-czar-joe-biden/index.html">Biden plans to appoint an outside official to oversee implementation of massive infrastructure bill</a> CNN: President Joe Biden said Friday that he plans to appoint an official from outside his administration to oversee implementation of the large infrastructure bill he intends to sign on Monday. 
  <p class="updated_time"> 02:29 PM CT, Nov. 12 </p> 
@@ -281,7 +281,7 @@ permalink: /projects/news/
  <p class="updated_time"> 12:08 PM CT, Nov. 12 </p> 
  <a href="https://www.politico.com/news/2021/11/12/for-2nd-straight-month-americans-quit-jobs-at-a-record-pace-521116">For 2nd straight month, Americans quit jobs at a record pace</a> Politico: The figures point to a historic level of turmoil in the job market as newly-empowered workers quit jobs to take higher pay that is being dangled by businesses in need of help 
  <p class="updated_time"> 11:40 AM CT, Nov. 12 </p> 
- <a href="https://www.npr.org/2021/11/12/1055096462/lawyer-for-mark-meadows-says-courts-will-have-to-resolve-jan-6-panel-dispute">Lawyer for Mark Meadows says courts will have to resolve Jan. 6 panel dispute</a> NPR: Meadows may be looking to the courts for relief, but his path sets him up on a collision course with the House. 
+ <a href="https://www.npr.org/2021/11/12/1055096462/lawyer-for-mark-meadows-says-courts-will-have-to-resolve-jan-6-panel-dispute">Jan. 6 panel: Mark Meadows "defiance" could lead to contempt referral</a> NPR: Meadows may be looking to the courts for relief, but his path sets him up on a collision course with the House. 
  <p class="updated_time"> 11:40 AM CT, Nov. 12 </p> 
  <a href="https://www.npr.org/2021/11/12/1055143924/biden-nominates-former-commissioner-robert-califf-to-again-lead-fda">Biden nominates former Commissioner Robert Califf to again lead FDA</a> NPR: The Food and Drug Administration has been without a permanent leader since President Biden took office in January. Califf led the agency during the last year of the Obama administration. 
  <p class="updated_time"> 11:31 AM CT, Nov. 12 </p> 
@@ -312,8 +312,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/12/russia-kremlin-ukraine-nato-threats-521031">Kremlin denies plans to invade Ukraine, alleges NATO threats</a> Politico: Ukraine complained last week that Russia has kept tens of thousands of troops not far from the two countries' borders. 
  <p class="updated_time"> 08:28 AM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/11/us/politics/project-veritas-journalism-political-spying.html">Project Veritas: Journalists or Political Spies? </a> NYT: Documents show how the conservative group worked with lawyers to gauge how far its deceptive reporting practices could go before running afoul of federal laws. 
- <p class="updated_time"> 08:23 AM CT, Nov. 12 </p> 
- <a href="https://www.cnn.com/2021/11/11/politics/trump-jan-6-documents-explainer/index.html">What's next in Trump's scramble to stop the House from getting his White House docs</a> CNN: Former President Donald Trump got a last-minute reprieve to stop the House select committee investigating January 6 from obtaining his White House documents as scheduled on Friday. 
  <p class="updated_time"> 07:55 AM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/11/health/veterans-psychedelics-ptsd-depression.html">Veterans Have Become Unlikely Lobbyists in Push to Legalize Psychedelic Drugs</a> NYT: Lawmakers find it hard to “just say no” to combat veterans seeking support for drug decriminalization efforts gaining traction around the country. 
  <p class="updated_time"> 07:43 AM CT, Nov. 12 </p> 
@@ -406,6 +404,8 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/10/politics/burr-sec/index.html">Sen. Burr's brother-in-law ordered to provide testimony in SEC insider trading investigation</a> CNN: A federal judge has ordered Sen. Richard Burr's brother-in-law to answer questions from the Securities and Exchange Commission, allowing the regulator to advance its investigation into their stock sales. 
  <p class="updated_time"> 10:13 AM CT, Nov. 10 </p> 
  <a href="https://www.cnn.com/2021/11/10/politics/joe-biden-inflation/index.html">Biden on inflation report: 'Reversing this trend is a top priority for me'</a> CNN: President Joe Biden said Wednesday that inflation statistics showing America's prices are surging more than they have in 30 years are proof that there is "more work to do before our economy is back to normal." 
+ <p class="updated_time"> 09:57 AM CT, Nov. 10 </p> 
+ <a href="https://www.cnn.com/2021/11/10/politics/liz-cheney-new-hampshire-republicans-2024/index.html">Is there a lane for Liz Cheney in New Hampshire in 2024?</a> CNN: Sometimes in politics it's not so much what you say, it's where you say it. 
  <p class="updated_time"> 08:12 AM CT, Nov. 10 </p> 
  <a href="https://www.cnn.com/2021/11/10/politics/biden-jj-covid-vaccine-conflict-zones/index.html">Biden administration announces deal to provide J&J Covid-19 vaccine to people in conflict zones and humanitarian settings</a> CNN: The Biden administration will announce on Wednesday a new deal it brokered with Johnson & Johnson and Covax to provide J&J's Covid-19 vaccine to people in conflict zones and other humanitarian settings where government vaccine campaigns cannot reach, a White House official told CNN. 
  <p class="updated_time"> 07:21 AM CT, Nov. 10 </p> 
