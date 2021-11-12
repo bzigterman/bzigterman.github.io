@@ -9,8 +9,6 @@ permalink: /projects/news/
 
  <p class="updated_time"> 03:07 AM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/world/asia/myanmar-danny-fenster.html">In Myanmar, Danny Fenster, U.S. Journalist, Gets 11-Year Jail Sentence</a> NYT: Danny Fenster was given the toughest possible sentence on three charges, a sign that the country’s military rulers will not bow to international pressure. 
- <p class="updated_time"> 03:04 AM CT, Nov. 12 </p> 
- <a href="https://www.nytimes.com/live/2021/11/11/world/covid-vaccine-boosters-mandates/austria-chancellor-lockdown-unvaccinated">Austria Weighs a Lockdown for Unvaccinated People</a> NYT: The country’s case rate has more than doubled since late October. 
  <p class="updated_time"> 03:00 AM CT, Nov. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59244533?at_medium=RSS&at_campaign=KARANGA">'Selfies are taking away our livelihood'</a> BBC: Temple photographers in this Indian towns are struggling to make a living in the age of selfies. 
  <p class="updated_time"> 02:54 AM CT, Nov. 12 </p> 
@@ -201,6 +199,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/10/world/greta-thunberg-cop26-state-emergency.html">Greta Thunberg, Activists Petition U.N. to Declare State of Emergency on Climate Change</a> NYT: Young climate activists on Wednesday called on the U.N. to declare a “Level 3” emergency, as it did for Covid-19, allowing the institution to deploy resources to vulnerable countries. 
  <p class="updated_time"> 01:24 PM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/world/africa/mozambique-corruption-manuel-chang-extradition.html">Manuel Chang Will Face Corruption Charges in U.S.</a> NYT: A judge overturned the South African government’s decision to send the minister back to Mozambique, where civil society groups say his political clout will protect him. 
+ <p class="updated_time"> 10:01 AM CT, Nov. 10 </p> 
+ <a href="https://www.nytimes.com/2021/11/10/world/europe/france-climate-change-energy-prices.html">In France, the People COP26 Forgot Seethe Over Rising Energy Prices</a> NYT: In one area of France, worries about rising energy prices trump anxiety about rising temperatures, raising fears of a resurgence of the Yellow Vest social uprising. 
  <p class="updated_time"> 09:32 AM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/travel/fly-fishing-italy.html">The Joy of Fly Fishing in Italy</a> NYT: Italy is not often mentioned as a fly fishing destination, but the wonder of Italian alpine fishing is now making itself known. 
  <p class="updated_time"> 05:49 AM CT, Nov. 10 </p> 
@@ -214,6 +214,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:30 AM CT, Nov. 12 </p> 
+ <a href="https://www.politico.com/news/2021/11/12/mccarthys-bumpy-ride-to-the-speakership-520670">Kevin McCarthy’s made the right GOP moves. He still has to fight for the gavel.</a> Politico: Will he glide to the speakership or have a white-knuckle ride? The size of next year's Republican gains could make the difference. 
  <p class="updated_time"> 02:00 AM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/nyregion/aoc-infrastructure-bill-vote.html">Ocasio-Cortez Isn’t Wavering. Are New Yorkers on Her Side?</a> NYT: By voting no on the infrastructure bill, Representative Alexandria Ocasio-Cortez set off a fierce debate, including among city residents eager to see the subways improved. 
  <p class="updated_time"> 11:51 PM CT, Nov. 11 </p> 
