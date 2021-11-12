@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:33 PM CT, Nov. 12 </p> 
+ <a href="https://www.nytimes.com/2021/11/12/world/europe/covid-netherlands-lockdown.html">Netherlands Looks to Partial Lockdown as Covid Cases Rise</a> NYT: The Dutch lockdown will not single out those who are unvaccinated. The country is experiencing rising case numbers amid a fourth wave of infections. 
  <p class="updated_time"> 02:17 PM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/11/world/asia/zuo-fang-dead.html">Zuo Fang, a Founder of China's Southern Weekly, is Dead</a> NYT: When he helped start Southern Weekly, he charted a course for a freer era for the country’s press, which later became increasingly constrained by Beijing. 
  <p class="updated_time"> 02:10 PM CT, Nov. 12 </p> 
@@ -31,8 +33,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59266211?at_medium=RSS&at_campaign=KARANGA">French teenage jogger admits lying about kidnap escape</a> BBC: The 17-year-old had claimed she escaped her kidnappers, in a case that has gripped France. 
  <p class="updated_time"> 11:41 AM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/world/california-covid-booster.html">All California Adults Can Get Booster Shots, State Says</a> NYT: Officials are seeking to avert a winter surge; last year, so many Covid patients died that officials were forced to deploy mobile morgues. 
- <p class="updated_time"> 11:40 AM CT, Nov. 12 </p> 
- <a href="https://www.nytimes.com/2021/11/12/world/europe/covid-netherlands-lockdown.html">Netherlands Looks to Partial Lockdown as Covid Cases Rise</a> NYT: The Dutch lockdown will not single out those who are unvaccinated. The country is experiencing rising case numbers amid a fourth wave of infections. 
  <p class="updated_time"> 11:36 AM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/world/europe/covid-italy-green-pass.html">Police in Milan Search Homes of 4 People Tied to Protests Over Covid Passes</a> NYT: The group has staged protests for weeks over a nationwide Covid rule, often blocking traffic and access to city centers. 
  <p class="updated_time"> 11:08 AM CT, Nov. 12 </p> 
@@ -195,8 +195,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-13230608?at_medium=RSS&at_campaign=KARANGA">FW de Klerk: South Africa's last white president</a> BBC: The last president of a segregated South Africa, who freed Nelson Mandela, and paved the way to majority rule. 
  <p class="updated_time"> 04:02 AM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/t-magazine/mansaf-bedouin-rice.html">For Many Members of the Arab American Diaspora, Mansaf Offers a Taste of Home</a> NYT: The traditional Bedouin dish of bread, rice, lamb and yogurt is a talisman of identity in Jordan — and in various communities in suburban Detroit. 
- <p class="updated_time"> 03:48 AM CT, Nov. 11 </p> 
- <a href="https://www.nytimes.com/2021/11/10/world/europe/knoll-france-murder.html">French Court Convicts Man in the Murder of a Holocaust Survivor</a> NYT: The man, Yacine Mihoub, was sentenced to life imprisonment for killing Mireille Knoll, 85, in 2018, which judges said was a hate crime motivated by the fact that she was Jewish. 
  <p class="updated_time"> 10:04 PM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/world/middleeast/israeli-covid-vaccine-children.html">Israeli Experts Approve Vaccinations for Children Ages 5 to 11 </a> NYT: Israel would become one of the first countries after the United States to authorize the Pfizer-BioNTech vaccine for children ages 5 to 11. 
  <p class="updated_time"> 07:25 PM CT, Nov. 10 </p> 
@@ -216,6 +214,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:40 PM CT, Nov. 12 </p> 
+ <a href="https://www.nytimes.com/2021/11/12/us/politics/robert-califf-fda.html">Biden Chooses Robert Califf to Lead F.D.A., Despite Drug Industry Ties</a> NYT: Dr. Robert M. Califf, an academic and clinical trial researcher who ran the agency in 2016, has also consulted for pharmaceutical companies. 
  <p class="updated_time"> 02:29 PM CT, Nov. 12 </p> 
  <a href="https://www.politico.com/news/2021/11/12/jen-psaki-returns-to-work-covid-19-521130">Press Secretary Jen Psaki returns to work after Covid-19</a> Politico: "I remain incredibly grateful for the vaccine for keeping me safe and other people in my house safe as well," she said. 
  <p class="updated_time"> 02:29 PM CT, Nov. 12 </p> 
@@ -253,13 +253,11 @@ permalink: /projects/news/
  <p class="updated_time"> 11:40 AM CT, Nov. 12 </p> 
  <a href="https://www.npr.org/2021/11/12/1055096462/lawyer-for-mark-meadows-says-courts-will-have-to-resolve-jan-6-panel-dispute">Lawyer for Mark Meadows says courts will have to resolve Jan. 6 panel dispute</a> NPR: Meadows may be looking to the courts for relief, but his path sets him up on a collision course with the House. 
  <p class="updated_time"> 11:40 AM CT, Nov. 12 </p> 
- <a href="https://www.npr.org/2021/11/12/1055143924/biden-nominates-former-commissioner-robert-califf-to-again-lead-fda">Biden nominates former commissioner Robert Califf to again lead FDA</a> NPR: The Food and Drug Administration has been without a permanent leader since President Biden took office in January. Califf led the agency during the last year of the Obama administration. 
+ <a href="https://www.npr.org/2021/11/12/1055143924/biden-nominates-former-commissioner-robert-califf-to-again-lead-fda">Biden nominates former Commissioner Robert Califf to again lead FDA</a> NPR: The Food and Drug Administration has been without a permanent leader since President Biden took office in January. Califf led the agency during the last year of the Obama administration. 
  <p class="updated_time"> 11:31 AM CT, Nov. 12 </p> 
  <a href="https://www.cnn.com/2021/11/11/politics/xi-jinping-joe-biden-virtual-summit/index.html">Biden to hold virtual summit with Chinese President Xi Jinping on Monday</a> CNN: President Joe Biden's highly anticipated virtual summit with Chinese President Xi Jinping is expected to take place on Monday, people familiar with the matter say. 
  <p class="updated_time"> 11:22 AM CT, Nov. 12 </p> 
  <a href="https://www.politico.com/news/2021/11/12/myanmar-court-sentences-us-journalist-to-11-years-in-jail-521109">Myanmar court sentences U.S. journalist to 11 years in jail</a> Politico: Danny Fenster, managing editor Frontier Myanmar, is still facing additional charges under which he could receive up to life in prison. 
- <p class="updated_time"> 11:16 AM CT, Nov. 12 </p> 
- <a href="https://www.nytimes.com/2021/11/12/us/politics/robert-califf-fda.html">Biden Chooses Robert Califf to Lead F.D.A., Despite Drug Industry Ties</a> NYT: Dr. Robert M. Califf, an academic and clinical trial researcher who ran the agency in 2016, has also consulted for pharmaceutical companies. 
  <p class="updated_time"> 11:14 AM CT, Nov. 12 </p> 
  <a href="https://www.politico.com/news/2021/11/12/biden-asian-summit-offer-blocked-521103">Russia suspected of blocking Biden's bid to host Asian summit</a> Politico: Failure to agree on Biden's offer to host risks jeopardizing U.S. support for the Asia-Pacific Economic Cooperation forum. 
  <p class="updated_time"> 11:08 AM CT, Nov. 12 </p> 
