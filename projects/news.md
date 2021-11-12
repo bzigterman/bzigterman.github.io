@@ -7,18 +7,20 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:26 PM CT, Nov. 12 </p> 
+ <a href="https://www.nytimes.com/2021/11/12/us/politics/kamala-harris-macron-france.html">In France, Kamala Harris Asserts Herself as a Diplomatic Asset</a> NYT: The vice president met with President Emmanuel Macron of France, skirting recent U.S.-French tensions, and immersed herself in issues like Libya and cybersecurity. 
+ <p class="updated_time"> 05:24 PM CT, Nov. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-59217825?at_medium=RSS&at_campaign=KARANGA">Britney Spears released from 13-year conservatorship</a> BBC: An LA judge terminates a legal guardianship set up by the 39-year-old pop star's father in 2008. 
+ <p class="updated_time"> 05:22 PM CT, Nov. 12 </p> 
+ <a href="https://www.nytimes.com/2021/11/10/world/europe/france-kamala-harris-macron.html">Harris Meets Macron, Signaling a ‘New Era’ After Sub Snub, Both Say</a> NYT: In her vague assignment abroad, the vice president seems to be emphasizing that the U.S.-France relationship is about looking forward, in the wake of an embarrassing diplomatic spat. 
+ <p class="updated_time"> 05:19 PM CT, Nov. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59270291?at_medium=RSS&at_campaign=KARANGA">Steve Bannon charged with contempt of Congress</a> BBC: Former Trump strategist charged after refusing to testify to committee investigating US Capitol riot. 
  <p class="updated_time"> 04:49 PM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/us/ivory-rhino-congo-trafficking.html">2 Ivory Smugglers Captured in International Operation, U.S. Says</a> NYT: The undercover joint operation by the U.S. and Congolese governments also resulted in the seizure of millions of dollars’ worth of illegal wildlife plunder. 
- <p class="updated_time"> 04:47 PM CT, Nov. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59270291?at_medium=RSS&at_campaign=KARANGA">Steve Bannon charged with contempt of Congress</a> BBC: Former Trump strategist charged after refusing to testify to committee investigating US Capitol riot. 
  <p class="updated_time"> 04:34 PM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/world/europe/migrant-flights-belarus.html">Airlines Move to Curb Flow of Migrants to Belarus</a> NYT: Some airlines have agreed to stop taking Iraqi, Syrian and Yemeni citizens to Minsk, which the E.U. hopes will stem the flow of migrants to the bloc’s borders. 
  <p class="updated_time"> 04:30 PM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/11/world/asia/zuo-fang-dead.html">Zuo Fang, a Founder of China's Southern Weekly, is Dead</a> NYT: When he helped start Southern Weekly, he charted a course for a freer era for the country’s press, which later became increasingly constrained by Beijing. 
- <p class="updated_time"> 04:29 PM CT, Nov. 12 </p> 
- <a href="https://www.nytimes.com/2021/11/12/us/politics/kamala-harris-macron-france.html">In France, Kamala Harris Asserts Herself as a Diplomatic Asset</a> NYT: The vice president met with President Emmanuel Macron of France, skirting recent U.S.-French tensions, and immersed herself in issues like Libya and cybersecurity. 
- <p class="updated_time"> 04:21 PM CT, Nov. 12 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-59217825?at_medium=RSS&at_campaign=KARANGA">Britney Spears released from 13-year conservatorship</a> BBC: An LA judge terminates a legal guardianship set up by the 39-year-old pop star's father in 2008. 
  <p class="updated_time"> 04:20 PM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/world/europe/lukashenko-putin-belarus-russia.html">Migrant Crisis in Belarus Tests Putin’s Uneasy Alliance With Lukashenko</a> NYT: Last year Vladimir V. Putin helped save Aleksandr G. Lukashenko’s Belarusian regime. But Russia now has an ever-more-erratic ally and risks entanglement in a dangerous crisis. 
  <p class="updated_time"> 04:16 PM CT, Nov. 12 </p> 
@@ -201,8 +203,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/11/t-magazine/mansaf-bedouin-rice.html">For Many Members of the Arab American Diaspora, Mansaf Offers a Taste of Home</a> NYT: The traditional Bedouin dish of bread, rice, lamb and yogurt is a talisman of identity in Jordan — and in various communities in suburban Detroit. 
  <p class="updated_time"> 10:04 PM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/world/middleeast/israeli-covid-vaccine-children.html">Israeli Experts Approve Vaccinations for Children Ages 5 to 11 </a> NYT: Israel would become one of the first countries after the United States to authorize the Pfizer-BioNTech vaccine for children ages 5 to 11. 
- <p class="updated_time"> 07:02 PM CT, Nov. 10 </p> 
- <a href="https://www.nytimes.com/2021/11/10/world/europe/france-kamala-harris-macron.html">Harris Meets Macron, Signaling a ‘New Era’ After Sub Snub, Both Say</a> NYT: In her vague assignment abroad, the vice president seems to be emphasizing that the U.S.-France relationship is about looking forward, in the wake of an embarrassing diplomatic spat. 
  <p class="updated_time"> 06:34 PM CT, Nov. 10 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59227491?at_medium=RSS&at_campaign=KARANGA">COP26: Climate activists on what change means for them</a> BBC: Climate activists from the Philippines, the UK and Argentina take questions on climate change. 
  <p class="updated_time"> 05:11 PM CT, Nov. 10 </p> 
@@ -214,14 +214,16 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:26 PM CT, Nov. 12 </p> 
+ <a href="https://www.nytimes.com/2021/11/12/us/politics/kamala-harris-macron-france.html">In France, Kamala Harris Asserts Herself as a Diplomatic Asset</a> NYT: The vice president met with President Emmanuel Macron of France, skirting recent U.S.-French tensions, and immersed herself in issues like Libya and cybersecurity. 
+ <p class="updated_time"> 05:23 PM CT, Nov. 12 </p> 
+ <a href="https://www.nytimes.com/2021/11/12/us/politics/biden-china-xi-jinping.html">Biden and China’s Xi Will Hold Virtual Summit on Monday</a> NYT: The leaders of the world’s two largest economies confront tensions over trade, cyberthreats, the climate, Taiwan and human rights. 
  <p class="updated_time"> 04:45 PM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/us/politics/bannon-indicted.html">Bannon Indicted on Contempt Charges Over House’s Capitol Riot Inquiry</a> NYT: Stephen K. Bannon, a former top aide to Donald Trump, had refused to comply with subpoenas from the House committee investigating the Jan. 6 attack on Congress. 
  <p class="updated_time"> 04:36 PM CT, Nov. 12 </p> 
  <a href="https://www.cnn.com/2021/11/12/politics/steve-bannon-indicted/index.html">Federal grand jury indicts Steve Bannon for contempt of Congress</a> CNN: A federal grand jury has returned an indictment against former Trump adviser Steve Bannon, CNN has learned. 
  <p class="updated_time"> 04:33 PM CT, Nov. 12 </p> 
  <a href="https://www.cnn.com/2021/11/12/politics/biden-admin-ethiopia-eritrea-sanctions/index.html">Biden administration sanctions Eritrean military, ruling party over role in northern Ethiopia conflict</a> CNN: The Biden administration sanctioned Eritrea's military and sole political party for their involvement in the ongoing crisis in northern Ethiopia. 
- <p class="updated_time"> 04:29 PM CT, Nov. 12 </p> 
- <a href="https://www.nytimes.com/2021/11/12/us/politics/kamala-harris-macron-france.html">In France, Kamala Harris Asserts Herself as a Diplomatic Asset</a> NYT: The vice president met with President Emmanuel Macron of France, skirting recent U.S.-French tensions, and immersed herself in issues like Libya and cybersecurity. 
  <p class="updated_time"> 04:27 PM CT, Nov. 12 </p> 
  <a href="https://www.cnn.com/2021/11/12/politics/trump-lawsuits-michael-cohen-summer-zervos/index.html">Trump scores legal wins with one lawsuit dropped and another dismissed</a> CNN: Former President Donald Trump scored two big legal victories Friday and avoided having to sit for a deposition in a defamation lawsuit after former "Apprentice" contestant Summer Zervos agreed to drop her claims, according to a court filing, and a New York judge granted Trump's motion to dismiss a 2019 lawsuit filed by his former personal attorney Michael Cohen against the Trump Organization. 
  <p class="updated_time"> 04:19 PM CT, Nov. 12 </p> 
@@ -246,8 +248,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/12/1055366638/to-try-to-convert-an-election-skeptic-a-county-clerk-invited-her-to-help-the-pro">To try to convert an election skeptic, a county clerk invited her to help the process</a> NPR: Election officials are trying to win over voter trust that ballots are handled and counted securely. In Colorado, a clerk went so far as to invite one skeptic to work at his office to see for herself. 
  <p class="updated_time"> 03:21 PM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/11/us/politics/trump-files-january-6.html">Court Issues Brief Hold on Release of Trump Files in Jan. 6 Inquiry</a> NYT: Congress had been set to receive the first batch of Trump White House files from the National Archives on Friday, a move that the former president had fought. 
- <p class="updated_time"> 03:08 PM CT, Nov. 12 </p> 
- <a href="https://www.nytimes.com/2021/11/12/us/politics/biden-china-xi-jinping.html">Biden and China’s Xi Will Hold Virtual Summit on Monday</a> NYT: The leaders of the world’s two largest economies confront tensions over trade, cyberthreats, the climate, Taiwan and human rights. 
  <p class="updated_time"> 03:05 PM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/us/politics/pell-grants-for-profit-colleges-aid.html">Democrats’ Bill Would Deny For-Profit College Students Extra Aid</a> NYT: Critics say a little-noticed provision would hurt the very constituencies — people of color, the working class, low-income Americans — that the party typically champions. 
  <p class="updated_time"> 02:57 PM CT, Nov. 12 </p> 
@@ -273,7 +273,7 @@ permalink: /projects/news/
  <p class="updated_time"> 01:11 PM CT, Nov. 12 </p> 
  <a href="https://www.cnn.com/2021/11/12/politics/paul-gosar-censure-resolution-introduced/index.html">House Democrats introduce resolution censuring Rep. Gosar for video depicting violence against Ocasio-Cortez and Biden</a> CNN: House Democrats plan to introduce a resolution Friday to censure Arizona Republican Rep. Paul Gosar for posting a photoshopped anime video to his Twitter and Instagram accounts showing him appearing to kill Democratic Rep. Alexandria Ocasio-Cortez and attacking President Joe Biden. 
  <p class="updated_time"> 01:00 PM CT, Nov. 12 </p> 
- <a href="https://www.politico.com/news/2021/11/12/trump-cdc-covid-521128">Emails reveal new details of Trump White House interference in CDC Covid planning</a> Politico: The documents released by the committee lay out a timeline for how the Trump White House began to downplay the dangers posed by Covid-19. 
+ <a href="https://www.politico.com/news/2021/11/12/trump-cdc-covid-521128">Emails reveal new details of Trump White House interference in CDC Covid planning</a> Politico: The documents released by a congressional committee lay out a timeline for how the Trump White House began to downplay the dangers posed by Covid-19. 
  <p class="updated_time"> 12:34 PM CT, Nov. 12 </p> 
  <a href="https://www.npr.org/2021/11/12/1055057907/remembering-max-cleland-former-georgia-senator-and-vietnam-veteran">Remembering Max Cleland, former Georgia senator and Vietnam veteran</a> NPR: Cleland was a decorated Army veteran who lost three limbs while serving in Vietnam. After the the war, he dedicated his life to public service. He died Nov. 9. Originally broadcast in 2009. 
  <p class="updated_time"> 12:08 PM CT, Nov. 12 </p> 
