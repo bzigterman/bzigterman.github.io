@@ -7,14 +7,18 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:27 PM CT, Nov. 12 </p> 
+ <a href="https://www.nytimes.com/2021/11/12/world/europe/covid-netherlands-lockdown.html">Netherlands Looks to Partial Lockdown as Covid Cases Rise</a> NYT: The Dutch lockdown does not single out those who are unvaccinated. The country is experiencing rising case numbers amid a fourth wave of infections. 
+ <p class="updated_time"> 03:24 PM CT, Nov. 12 </p> 
+ <a href="https://www.npr.org/2021/11/12/1055366608/myanmar-court-sentences-american-journalist-danny-fenster-to-11-years-in-prison">Myanmar court sentences American journalist Danny Fenster to 11 years in prison</a> NPR: U.S. journalist Danny Fenster was sentenced to 11 years in prison in Myanmar. He was found guilty of incitement and two other charges. 
+ <p class="updated_time"> 03:24 PM CT, Nov. 12 </p> 
+ <a href="https://www.npr.org/2021/11/12/1055366601/negotiators-are-in-the-home-stretch-on-the-final-day-of-un-climate-conference">Negotiators are in the home stretch on the final day of UN climate conference</a> NPR: The final day of COP26, the UN's conference where global leaders and delegates are negotiating crucial and concrete strategies to limit greenhouse gas emissions, is underway in Glasgow, Scotland. 
  <p class="updated_time"> 03:12 PM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/live/2021/11/12/world/belarus-poland-border-migrants">Live Updates: Provocative Rhetoric and Military Moves Raise Tension at Belarus-Poland Border</a> NYT: Airlines have agreed to curb the flow into Belarus of migrants hoping to reach the European Union. As threats and accusations fly, there are troop buildups on both sides. 
  <p class="updated_time"> 03:11 PM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/world/europe/threats-troop-buildup-war.html">Fears of Belarus-Poland Conflict Amid Provocative Words and Troop Moves</a> NYT: On both sides of the Belarus-Poland border, hyperbole and military exercises have raised fears of an armed conflict in Europe. 
  <p class="updated_time"> 03:09 PM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/world/asia/myanmar-danny-fenster.html">Danny Fenster, U.S. Journalist in Myanmar, Gets 11 Years in Jail</a> NYT: Danny Fenster was given the toughest possible sentence on three charges, in a signal that the country’s military rulers would not bow to international pressure. 
- <p class="updated_time"> 03:01 PM CT, Nov. 12 </p> 
- <a href="https://www.nytimes.com/2021/11/12/world/europe/covid-netherlands-lockdown.html">Netherlands Looks to Partial Lockdown as Covid Cases Rise</a> NYT: The Dutch lockdown will not single out those who are unvaccinated. The country is experiencing rising case numbers amid a fourth wave of infections. 
  <p class="updated_time"> 03:01 PM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/world/asia/china-zero-covid.html">China's 'Zero Covid' Efforts Come With a Cost</a> NYT: The Communist Party is making broad efforts to stamp out the disease entirely, but the measures come with costs. 
  <p class="updated_time"> 02:58 PM CT, Nov. 12 </p> 
@@ -165,8 +169,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/11/1054884098/with-covid-case-rates-in-europe-rising-some-countries-are-bringing-back-restrict">With COVID case rates in Europe rising, some countries are bringing back restrictions</a> NPR: After reducing or eliminating COVID restrictions as more people became vaccinated, many European countries are being forced to reverse course, as infections increase across the continent. 
  <p class="updated_time"> 03:19 PM CT, Nov. 11 </p> 
  <a href="https://www.npr.org/2021/11/11/1054884077/the-complicated-legacy-of-f-w-klerk-south-africas-last-apartheid-era-president">The complicated legacy of F.W. de Klerk, South Africa's last apartheid-era president</a> NPR: F.W. de Klerk, South Africa's last apartheid-era president, has died at the age of 85. De Klerk shared the Nobel Peace Prize with Nelson Mandela in 1993, but always remained a divisive figure. 
- <p class="updated_time"> 03:19 PM CT, Nov. 11 </p> 
- <a href="https://www.npr.org/2021/11/11/1054884091/how-other-countries-at-cop26-view-american-leadership-and-climate-promises">How other countries at COP26 view American leadership and climate promises</a> NPR: President Biden has declared the U.S. is back as a leader in combatting disastrous climate change. But after years of unfulfilled pledges, how do other countries view American leadership and promises? 
  <p class="updated_time"> 02:52 PM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/world/americas/bolsonaro-trump-brazil-election.html">Trump Allies Help Bolsonaro Sow Doubt in Brazil's Elections</a> NYT: With his poll numbers falling, President Jair Bolsonaro is already questioning the legitimacy of next year’s election. He has help from the United States. 
  <p class="updated_time"> 01:56 PM CT, Nov. 11 </p> 
@@ -181,8 +183,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/11/world/africa/sudan-military-coup.html">Sudan’s Top General Entrenches Military Coup, Frustrating Western Efforts</a> NYT: A little over two weeks after seizing power, Sudan’s top general created a new ruling body led by himself. The civilian prime minister remains under house arrest. 
  <p class="updated_time"> 12:22 PM CT, Nov. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59252082?at_medium=RSS&at_campaign=KARANGA">FW de Klerk: The man who still divides South Africa</a> BBC: Was he a visionary who ended a racist system, or should he have been prosecuted? 
- <p class="updated_time"> 12:15 PM CT, Nov. 11 </p> 
- <a href="https://www.npr.org/2021/11/11/1054770079/a-climate-summit-theme-how-much-should-wealthy-countries-pay-to-help-poorer-ones">A climate summit theme: How much should wealthy countries pay to help poorer ones? </a> NPR: Wealthy countries have historically been the largest producers of greenhouse gases. One of the biggest issues left at the COP26 summit is their role helping poorer nations cope with climate change. 
  <p class="updated_time"> 11:37 AM CT, Nov. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-59247789?at_medium=RSS&at_campaign=KARANGA">Quiz of the week: Which actor destroyed an original Banksy?</a> BBC: How closely have you been paying attention to what's been going on during the past seven days? 
  <p class="updated_time"> 10:45 AM CT, Nov. 11 </p> 
@@ -215,17 +215,19 @@ permalink: /projects/news/
 <summary>Politics</summary>
 
  <p class="updated_time"> 04:09 PM CT, Nov. 12 </p> 
- <a href="https://www.politico.com/news/2021/11/12/steve-bannon-indicted-for-defying-jan-6-committee-investigation-521177">Steve Bannon indicted for defying Jan. 6 committee investigation</a> Politico: The Justice Department has charged the former top Trump adviser with two counts of contempt of Congress for refusing to cooperate with Jan. 6 investigators. 
+ <a href="https://www.politico.com/news/2021/11/12/steve-bannon-indicted-for-defying-jan-6-committee-investigation-521177">Steve Bannon indicted for defying Jan. 6 committee investigation</a> Politico: The Justice Department has charged the former top adviser to Trump for refusing to provide documents and testimony to investigators probing the Capitol attack. 
+ <p class="updated_time"> 03:31 PM CT, Nov. 12 </p> 
+ <a href="https://www.nytimes.com/2021/11/12/us/politics/bannon-indicted.html">Bannon Indicted on Contempt Charges Over House Investigation of Capitol Riot</a> NYT: Stephen K. Bannon, a former top aide to Donald Trump, had refused to comply with subpoenas from the House committee investigating the Jan. 6 attack on Congress. 
+ <p class="updated_time"> 03:31 PM CT, Nov. 12 </p> 
+ <a href="https://www.nytimes.com/2021/11/12/us/politics/robert-califf-fda.html">Biden Chooses Robert Califf to Lead F.D.A., Despite Drug Industry Ties</a> NYT: Dr. Robert M. Califf, an academic and clinical trial researcher who ran the agency in 2016, has also consulted for pharmaceutical companies. 
+ <p class="updated_time"> 03:25 PM CT, Nov. 12 </p> 
+ <a href="https://www.cnn.com/2021/11/12/politics/steve-bannon-indicted/index.html">Federal grand jury has indicted former Trump adviser Steve Bannon</a> CNN: A federal grand jury has returned an indictment against former Trump adviser Steve Bannon, CNN has learned. 
+ <p class="updated_time"> 03:24 PM CT, Nov. 12 </p> 
+ <a href="https://www.npr.org/2021/11/12/1055366638/to-try-to-convert-an-election-skeptic-a-county-clerk-invited-her-to-help-the-pro">To try to convert an election skeptic, a county clerk invited her to help the process</a> NPR: Election officials are trying to win over voter trust that ballots are handled and counted securely. In Colorado, a clerk went so far as to invite one skeptic to work at his office to see for herself. 
  <p class="updated_time"> 03:21 PM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/11/us/politics/trump-files-january-6.html">Court Issues Brief Hold on Release of Trump Files in Jan. 6 Inquiry</a> NYT: Congress had been set to receive the first batch of Trump White House files from the National Archives on Friday, a move that the former president had fought. 
  <p class="updated_time"> 03:20 PM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/us/politics/republican-violent-rhetoric.html">Menace, as a Political Tool, Enters the Republican Mainstream</a> NYT: Threats of violence have become commonplace among a significant part of the party, as historians and those who study democracy warn of a dark shift in American politics. 
- <p class="updated_time"> 03:18 PM CT, Nov. 12 </p> 
- <a href="https://www.nytimes.com/2021/11/12/us/politics/robert-califf-fda.html">Biden Chooses Robert Califf to Lead F.D.A., Despite Drug Industry Ties</a> NYT: Dr. Robert M. Califf, an academic and clinical trial researcher who ran the agency in 2016, has also consulted for pharmaceutical companies. 
- <p class="updated_time"> 03:16 PM CT, Nov. 12 </p> 
- <a href="https://www.nytimes.com/2021/11/12/us/politics/bannon-indicted.html">Bannon Indicted on Contempt Charges Over House Investigation of Capitol Riot</a> NYT: Stephen K. Bannon, a former top aide to Donald Trump, had refused to comply with subpoenas from the House committee investigating the Jan. 6 attack on Congress. 
- <p class="updated_time"> 03:10 PM CT, Nov. 12 </p> 
- <a href="https://www.cnn.com/2021/11/12/politics/steve-bannon-indicted/index.html">Federal grand jury has indicted former Trump adviser Steve Bannon</a> CNN: A federal grand jury has returned an indictment against former Trump adviser Steve Bannon, CNN has learned. 
  <p class="updated_time"> 03:08 PM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/us/politics/biden-china-xi-jinping.html">Biden and China’s Xi Will Hold Virtual Summit on Monday</a> NYT: The leaders of the world’s two largest economies confront tensions over trade, cyberthreats, the climate, Taiwan and human rights. 
  <p class="updated_time"> 03:05 PM CT, Nov. 12 </p> 
@@ -376,8 +378,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/11/biden-administration-armed-drones-indonesia-520888">Biden administration wrestles with selling armed drones to Indonesia</a> Politico: The country's human rights abuses, and past purchases of Russian equipment, are among the concerns in Washington. 
  <p class="updated_time"> 12:23 PM CT, Nov. 11 </p> 
  <a href="https://www.politico.com/news/2021/11/11/wall-street-democrats-tax-buybacks-520880">A $124B tax increase? Wall Street shrugs.</a> Politico: Analysts say they expect total buybacks this year to approach levels unseen since shortly after Republicans slashed the corporate tax rate as part of their 2017 tax cuts. 
- <p class="updated_time"> 12:22 PM CT, Nov. 11 </p> 
- <a href="https://www.npr.org/2021/11/11/1054764083/vp-harris-in-paris-says-infrastructure-and-spending-bills-will-help-cut-poverty">VP Harris, in Paris, says infrastructure and spending bills will help cut poverty</a> NPR: In a speech to a group of world leaders gathered in Paris, Harris focused on inequality, saying the Biden administration's plans will help bridge economic gaps in America. 
  <p class="updated_time"> 12:01 PM CT, Nov. 11 </p> 
  <a href="https://www.cnn.com/2021/11/11/politics/biden-veterans-day-arlington/index.html">'You are the very spine of America': Biden honors those who served on Veterans Day in Arlington</a> CNN: President Joe Biden honored Veterans Day at Arlington National Cemetery on Thursday, paying homage to Americans who have served and laying a wreath at the Tomb of the Unknown Soldier. 
  <p class="updated_time"> 09:21 AM CT, Nov. 11 </p> 
