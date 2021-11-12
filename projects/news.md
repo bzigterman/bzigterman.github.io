@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:42 PM CT, Nov. 11 </p> 
+ <a href="https://www.npr.org/2021/11/12/1055014823/toyota-to-ramp-up-production-after-cutbacks-driven-by-the-covid-19-pandemic">Toyota to ramp up production after cutbacks driven by the COVID-19 pandemic</a> NPR: The Japanese automaker announced it expects to build 800,000 vehicles globally next month, up from the roughly 760,000 it made last December. 
  <p class="updated_time"> 11:15 PM CT, Nov. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59257495?at_medium=RSS&at_campaign=KARANGA">Rare Antarctic penguin accidentally travels 3,000km to New Zealand</a> BBC: Pingu the penguin was spotted by a local resident who thought he was a "soft toy" at first. 
  <p class="updated_time"> 11:09 PM CT, Nov. 11 </p> 
@@ -187,8 +189,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/10/world/boris-johnson-cop26.html">Boris Johnson Urges Negotiators to Break Impasse in Final Climate Summit Hours</a> NYT: “Now is the time to get together and show the determination needed to power on through the blockages,” the British prime minister said on Wednesday. 
  <p class="updated_time"> 04:37 PM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/world/europe/boris-johnson-climate-scandal.html">Boris Johnson Handles Scandal Amid Climate Conference</a> NYT: As the host leader of the U.N. conference on global warming, Mr. Johnson was hoping to project statesmanship. But a mushrooming ethics scandal dominated the week, overshadowing his climate ambitions. 
- <p class="updated_time"> 04:29 PM CT, Nov. 10 </p> 
- <a href="https://www.npr.org/sections/goatsandsoda/2021/11/10/1054224204/how-sars-cov-2-in-american-deer-could-alter-the-course-of-the-global-pandemic">How SARS-CoV-2 in American deer could alter the course of the global pandemic</a> NPR: Scientists have evidence that SARS-CoV-2 is circulating in white-tailed deer in the U.S. They say the findings could essentially dash any hopes of eliminating the virus in the U.S. — and the world. 
  <p class="updated_time"> 03:45 PM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/theater/little-amal-the-walk.html">Little Amal, a Refugee Puppet, Looks for Home</a> NYT: In “The Walk,” a 12-foot tall, 9-year-old Syrian girl named Amal trekked from Turkey to Britain to find her mother. In a politically divided continent, were any minds changed? 
  <p class="updated_time"> 02:40 PM CT, Nov. 10 </p> 
