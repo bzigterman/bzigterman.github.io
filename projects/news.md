@@ -7,12 +7,16 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:33 AM CT, Nov. 12 </p> 
+ <a href="https://www.nytimes.com/2021/11/12/world/africa/de-klerk-apartheid-south-africa.html">For Some South Africans, de Klerk Missed Chances for True Reconciliation</a> NYT: The last white president of South Africa helped bring an end to the apartheid regime, but for many citizens, he never went far enough to disavow it. He left a video apologizing. 
+ <p class="updated_time"> 04:05 AM CT, Nov. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/science-environment-59221790?at_medium=RSS&at_campaign=KARANGA">COP26: New draft climate deal steps up call for urgent action</a> BBC: It softens commitments on fossil fuels but requires governments to take action urgently. 
+ <p class="updated_time"> 04:00 AM CT, Nov. 12 </p> 
+ <a href="https://www.nytimes.com/2021/11/12/world/asia/hong-kong-rthk-crackdown-china.html">Hong Kong Broadcaster’s Swift Turn From Maverick Voice to Official Mouthpiece</a> NYT: RTHK has often set the news agenda with its aggressive coverage of the city. But a Beijing clampdown has changed that, with pro-China coverage filling the void. 
  <p class="updated_time"> 03:37 AM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/world/asia/myanmar-danny-fenster.html">Danny Fenster, U.S. Journalist in Myanmar, Gets 11 Years in Jail</a> NYT: Danny Fenster was given the toughest possible sentence on three charges, a sign that the country’s military rulers will not bow to international pressure. 
- <p class="updated_time"> 03:34 AM CT, Nov. 12 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-59221790?at_medium=RSS&at_campaign=KARANGA">COP26: New draft climate deal steps up call for urgent action</a> BBC: It softens commitments on fossil fuels but requires governments to take action urgently. 
  <p class="updated_time"> 03:00 AM CT, Nov. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-59244533?at_medium=RSS&at_campaign=KARANGA">'Selfies are taking away our livelihood'</a> BBC: Temple photographers in this Indian towns are struggling to make a living in the age of selfies. 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-59244533?at_medium=RSS&at_campaign=KARANGA">'Selfies are taking away our livelihood'</a> BBC: Temple photographers in this Indian town are struggling to make a living in the age of selfies. 
  <p class="updated_time"> 02:54 AM CT, Nov. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59258112?at_medium=RSS&at_campaign=KARANGA">Danny Fenster: Myanmar court gives US journalist 11 years jail</a> BBC: A Myanmar military court sentences US journalist Danny Fenster to 11 years in jail. 
  <p class="updated_time"> 02:36 AM CT, Nov. 12 </p> 
@@ -31,8 +35,12 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/12/world/australia/migration-and-experimentation-what-led-to-australias-coffee-culture.html">Migration and Experimentation: What Led to Australia’s Coffee Culture</a> NYT: When Italian migrants arrived after World War II, they helped develop a coffee scene that many now regard as the best in the world. 
  <p class="updated_time"> 12:36 AM CT, Nov. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59245018?at_medium=RSS&at_campaign=KARANGA">Covid: Austrians heading towards lockdown for unvaccinated</a> BBC: The measures comes as record infections are reported in Austria, Germany and the Netherlands. 
+ <p class="updated_time"> 12:15 AM CT, Nov. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-scotland-glasgow-west-59248023?at_medium=RSS&at_campaign=KARANGA">How green was the COP26 climate summit?</a> BBC: A report has suggested the carbon footprint of the Glasgow summit is more than double that of COP25. 
  <p class="updated_time"> 11:42 PM CT, Nov. 11 </p> 
  <a href="https://www.npr.org/2021/11/12/1055014823/toyota-to-ramp-up-production-after-cutbacks-driven-by-the-covid-19-pandemic">Toyota to ramp up production after cutbacks driven by the COVID-19 pandemic</a> NPR: The Japanese automaker announced it expects to build 800,000 vehicles globally next month, up from the roughly 760,000 it made last December. 
+ <p class="updated_time"> 11:23 PM CT, Nov. 11 </p> 
+ <a href="https://www.wsj.com/articles/biden-and-chinas-xi-to-hold-virtual-summit-on-monday-11636688117">Biden and Xi to Hold Virtual Summit on Monday</a> WSJ: President Biden and Chinese President Xi Jinping plan to hold a virtual summit on Monday, people familiar with the matter said, as the two leading world economies pledge to work together on climate change but differences remain over Taiwan and other fronts. 
  <p class="updated_time"> 11:15 PM CT, Nov. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59257495?at_medium=RSS&at_campaign=KARANGA">Rare Antarctic penguin accidentally travels 3,000km to New Zealand</a> BBC: Pingu the penguin was spotted by a local resident who thought he was a "soft toy" at first. 
  <p class="updated_time"> 11:09 PM CT, Nov. 11 </p> 
@@ -69,8 +77,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/11/world/africa/fw-de-klerk-dead.html">F.W. de Klerk, South Africa President Who Ended Apartheid, Dies at 85</a> NYT: A prominent Afrikaner, he defended the separation of the races before helping to dismantle that system, leading to his sharing the Nobel Peace Prize with Nelson Mandela. 
  <p class="updated_time"> 06:04 PM CT, Nov. 11 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59205648?at_medium=RSS&at_campaign=KARANGA">Seven ways to curb climate change</a> BBC: What are the practical things countries need to do in order to tackle climate change? 
- <p class="updated_time"> 05:59 PM CT, Nov. 11 </p> 
- <a href="https://www.wsj.com/articles/biden-and-chinas-xi-to-hold-virtual-summit-on-monday-11636688117">Biden and Xi to Hold Virtual Summit on Monday</a> WSJ: President Biden and Chinese President Xi Jinping plan to hold a virtual summit on Monday, people familiar with the matter said, as the two leading world economies pledge to work together on climate change but differences remain over Taiwan and other fronts. 
  <p class="updated_time"> 05:50 PM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/world/europe/belarus-poland-border-russia.html">Russia Reacts to Belarus-Poland Border Crisis</a> NYT: President Vladimir Putin’s spokesman said that Russia was doing all it could to resolve the situation, but he also warned of the possibility of a military escalation, according to the Russian state news agency RIA Novosti. 
  <p class="updated_time"> 05:37 PM CT, Nov. 11 </p> 
@@ -181,8 +187,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/10/climate/climate-cop26-glasgow.html">China and the United States Join in Seeking Emissions Cuts</a> NYT: As nearly 200 nations struggle over global climate negotiations, the world’s two biggest polluters sign an agreement, but it was short on details. 
  <p class="updated_time"> 07:02 PM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/world/europe/france-kamala-harris-macron.html">Harris Meets Macron, Signaling a ‘New Era’ After Sub Snub, Both Say</a> NYT: In her vague assignment abroad, the vice president seems to be emphasizing that the U.S.-France relationship is about looking forward, in the wake of an embarrassing diplomatic spat. 
- <p class="updated_time"> 06:38 PM CT, Nov. 10 </p> 
- <a href="https://www.bbc.co.uk/news/59233799?at_medium=RSS&at_campaign=KARANGA">COP26: How much is spent supporting fossil fuels and green energy?</a> BBC: Despite green energy investment promises, many governments still financially back the fossil fuel industry. 
  <p class="updated_time"> 06:34 PM CT, Nov. 10 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59227491?at_medium=RSS&at_campaign=KARANGA">COP26: Climate activists on what change means for them</a> BBC: Climate activists from the Philippines, the UK and Argentina take questions on climate change. 
  <p class="updated_time"> 05:42 PM CT, Nov. 10 </p> 
@@ -199,14 +203,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/10/world/greta-thunberg-cop26-state-emergency.html">Greta Thunberg, Activists Petition U.N. to Declare State of Emergency on Climate Change</a> NYT: Young climate activists on Wednesday called on the U.N. to declare a “Level 3” emergency, as it did for Covid-19, allowing the institution to deploy resources to vulnerable countries. 
  <p class="updated_time"> 01:24 PM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/world/africa/mozambique-corruption-manuel-chang-extradition.html">Manuel Chang Will Face Corruption Charges in U.S.</a> NYT: A judge overturned the South African government’s decision to send the minister back to Mozambique, where civil society groups say his political clout will protect him. 
- <p class="updated_time"> 10:01 AM CT, Nov. 10 </p> 
- <a href="https://www.nytimes.com/2021/11/10/world/europe/france-climate-change-energy-prices.html">In France, the People COP26 Forgot Seethe Over Rising Energy Prices</a> NYT: In one area of France, worries about rising energy prices trump anxiety about rising temperatures, raising fears of a resurgence of the Yellow Vest social uprising. 
  <p class="updated_time"> 09:32 AM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/travel/fly-fishing-italy.html">The Joy of Fly Fishing in Italy</a> NYT: Italy is not often mentioned as a fly fishing destination, but the wonder of Italian alpine fishing is now making itself known. 
  <p class="updated_time"> 05:49 AM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/world/asia/danny-fenster-myanmar.html">American Journalist Held in Myanmar Faces 2 New Charges</a> NYT: Prosecutors filed charges of terrorism and sedition against the journalist Danny Fenster, who once worked at a hard-hitting news outlet hated by Myanmar’s governing military. 
- <p class="updated_time"> 04:00 AM CT, Nov. 10 </p> 
- <a href="https://www.nytimes.com/2021/11/10/world/asia/taiwan-europe-china.html">Europe, Taiwan Inch Closer as Distrust of Beijing Grows</a> NYT: Talks between European lawmakers and Taiwanese officials point to Europe’s increasing willingness to strengthen relations, despite Beijing’s threats. 
 
 
 </details>
@@ -214,8 +214,14 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:00 AM CT, Nov. 12 </p> 
+ <a href="https://www.politico.com/news/2021/11/12/jeff-flake-manu-raju-cat-mouse-520990">CNN's Manu Raju vs. Jeff Flake: Cat and mouse</a> Politico: On this episode of Playbook Deep Dive, we chase the people who chase lawmakers and tag along for the hide-and-seek between Congress and the media, and the daily challenge of covering the Hill. 
  <p class="updated_time"> 04:30 AM CT, Nov. 12 </p> 
  <a href="https://www.politico.com/news/2021/11/12/mccarthys-bumpy-ride-to-the-speakership-520670">Kevin McCarthy’s made the right GOP moves. He still has to fight for the gavel.</a> Politico: Will he glide to the speakership or have a white-knuckle ride? The size of next year's Republican gains could make the difference. 
+ <p class="updated_time"> 04:00 AM CT, Nov. 12 </p> 
+ <a href="https://www.npr.org/2021/11/12/1054889820/a-bill-to-study-reparations-for-slavery-had-momentum-in-congress-but-still-no-vo">A bill to study reparations for slavery had momentum in Congress, but still no vote</a> NPR: Legislation to create a commission to study reparations faces steep odds in the evenly divided Congress. Advocates say they want the House take up the bill, or for President Biden to act on his own. 
+ <p class="updated_time"> 04:00 AM CT, Nov. 12 </p> 
+ <a href="https://www.nytimes.com/2021/11/12/us/politics/democrats-trifecta-power.html">Why Democrats May Have a Long Wait if They Lose Their Grip on Washington</a> NYT: Voters’ reflexive instinct to check the party in power makes it hard for any party to retain a hold on both the White House and Congress for long. 
  <p class="updated_time"> 02:00 AM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/nyregion/aoc-infrastructure-bill-vote.html">Ocasio-Cortez Isn’t Wavering. Are New Yorkers on Her Side?</a> NYT: By voting no on the infrastructure bill, Representative Alexandria Ocasio-Cortez set off a fierce debate, including among city residents eager to see the subways improved. 
  <p class="updated_time"> 11:51 PM CT, Nov. 11 </p> 
@@ -380,8 +386,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/10/1054428115/white-house-economic-adviser-weighs-in-on-the-inflation-spike-and-spending-plan">White House economic adviser weighs in on the inflation spike and spending plan</a> NPR: NPR's Ailsa Chang talks with White House economic adviser Brian Deese as inflation soars to its highest in 30 years. 
  <p class="updated_time"> 03:29 PM CT, Nov. 10 </p> 
  <a href="https://www.npr.org/2021/11/10/1054024084/capitol-riot-suspects-had-more-ties-to-oath-keepers-than-previously-known">Capitol riot suspects had more ties to Oath Keepers than previously known</a> NPR: NPR has identified previously undisclosed connections between the far-right anti-government group the Oath Keepers and defendants charged in connection with the Jan. 6 Capitol riot. 
- <p class="updated_time"> 03:11 PM CT, Nov. 10 </p> 
- <a href="https://www.npr.org/2021/11/10/1054428101/vp-harris-met-with-macron-as-part-of-the-ongoing-effort-to-mend-alliance-with-fr">VP Harris met with Macron as part of the ongoing effort to mend alliance with France</a> NPR: Vice President Harris meets with French President Emmanuel Macron, the latest in series of Biden administration diplomatic make-up sessions in the wake of the Australian nuclear submarine deal. 
  <p class="updated_time"> 02:40 PM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/us/politics/pac-operator-charges.html">Three Men Charged With Running ‘Scam PACs’ That Bilked Small Donors</a> NYT: The Justice Department said the three men defrauded donors of $3.5 million, including through robocalls that impersonated former President Donald J. Trump. 
  <p class="updated_time"> 02:21 PM CT, Nov. 10 </p> 
@@ -390,8 +394,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/10/technology/doj-uber-suit-disabilities.html">U.S. Sues Uber, Saying It Discriminated Against People With Disabilities</a> NYT: The Justice Department says Uber did not adjust its wait time fees for people with disabilities, even when Uber knew someone needed additional time. 
  <p class="updated_time"> 12:59 PM CT, Nov. 10 </p> 
  <a href="https://www.politico.com/news/2021/11/10/scott-fairlamb-jan-6-sentencing-520592">N.J. man hit with toughest sentence yet in Jan. 6 attack</a> Politico: Former MMA fighter Scott Fairlamb gets 41 months in prison for punching police officer during Capitol Riot. 
- <p class="updated_time"> 12:42 PM CT, Nov. 10 </p> 
- <a href="https://www.nytimes.com/2021/11/10/us/politics/fairlamb-jan-6-riot.html">Scott Fairlamb Sentenced for Assaulting Officer on Jan. 6</a> NYT: The sentence given to Scott Fairlamb, a former New Jersey gym owner, is the most severe so far for any of the more 650 people charged in the Jan. 6 attack. 
  <p class="updated_time"> 08:12 AM CT, Nov. 10 </p> 
  <a href="https://www.cnn.com/2021/11/10/politics/biden-jj-covid-vaccine-conflict-zones/index.html">Biden administration announces deal to provide J&J Covid-19 vaccine to people in conflict zones and humanitarian settings</a> CNN: The Biden administration will announce on Wednesday a new deal it brokered with Johnson & Johnson and Covax to provide J&J's Covid-19 vaccine to people in conflict zones and other humanitarian settings where government vaccine campaigns cannot reach, a White House official told CNN. 
  <p class="updated_time"> 07:21 AM CT, Nov. 10 </p> 
@@ -440,8 +442,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/05/house-democrats-infrastructure-vote-wait-megabill-519731">'Whole day was a clusterf---': Dems overcome distrust to send infrastructure bill to Biden</a> Politico: Democratic centrists and progressives reached a detente that cleared the $550 billion bipartisan legislation late Friday night and advanced their social spending package. 
  <p class="updated_time"> 06:26 AM CT, Nov. 05 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/11/05/here-goes-the-house-spending-and-infrastructure-votes-teed-up-494996">Here goes the House: spending and infrastructure votes tee’d up</a> Politico: A play-by-play preview of the day&#39;s congressional news 
- <p class="updated_time"> 05:19 AM CT, Nov. 05 </p> 
- <a href="https://www.politico.com/newsletters/playbook/2021/11/05/lets-try-this-again-494993">POLITICO Playbook: Let’s try this again</a> Politico: And there’s a second grand jury in the Trump Organization case in Manhattan. 
 
 
 </details>
