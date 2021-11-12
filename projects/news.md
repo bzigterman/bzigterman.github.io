@@ -7,6 +7,12 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:07 AM CT, Nov. 12 </p> 
+ <a href="https://www.nytimes.com/2021/11/12/world/asia/myanmar-danny-fenster.html">In Myanmar, Danny Fenster, U.S. Journalist, Gets 11-Year Jail Sentence</a> NYT: Danny Fenster was given the toughest possible sentence on three charges, a sign that the country’s military rulers will not bow to international pressure. 
+ <p class="updated_time"> 03:04 AM CT, Nov. 12 </p> 
+ <a href="https://www.nytimes.com/live/2021/11/11/world/covid-vaccine-boosters-mandates/austria-chancellor-lockdown-unvaccinated">Austria Weighs a Lockdown for Unvaccinated People</a> NYT: The country’s case rate has more than doubled since late October. 
+ <p class="updated_time"> 03:00 AM CT, Nov. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-59244533?at_medium=RSS&at_campaign=KARANGA">'Selfies are taking away our livelihood'</a> BBC: Temple photographers in this Indian towns are struggling to make a living in the age of selfies. 
  <p class="updated_time"> 02:54 AM CT, Nov. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59258112?at_medium=RSS&at_campaign=KARANGA">Danny Fenster: Myanmar court gives US journalist 11 years jail</a> BBC: A Myanmar military court sentences US journalist Danny Fenster to 11 years in jail. 
  <p class="updated_time"> 02:41 AM CT, Nov. 12 </p> 
@@ -17,14 +23,14 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/sport/football/59256408?at_medium=RSS&at_campaign=KARANGA">Aminata Diallo: Paris St-Germain midfielder released by police without charge</a> BBC: Paris St-Germain midfielder Aminata Diallo is released without charge by French police investigating an attack on her PSG team-mate Kheira Hamraoui. 
  <p class="updated_time"> 02:09 AM CT, Nov. 12 </p> 
  <a href="https://www.npr.org/2021/11/12/1055027411/a-u-s-journalist-is-sentenced-to-11-years-in-jail-by-a-court-in-myanmar">A U.S. journalist is sentenced to 11 years in jail by a court in Myanmar</a> NPR: A court in military-ruled Myanmar sentenced journalist Danny Fenster to 11 years in prison after finding him guilty on several charges, including incitement for allegedly spreading false information. 
+ <p class="updated_time"> 01:24 AM CT, Nov. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/stories-59255218?at_medium=RSS&at_campaign=KARANGA">Ron Jeremy: Porn star's accusers speak out for first time</a> BBC: Some of his accusers speak for the first time of their alleged experiences. He denies all charges. 
  <p class="updated_time"> 01:19 AM CT, Nov. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59256927?at_medium=RSS&at_campaign=KARANGA">Poland border: West condemns Belarus at UN over stranded migrants</a> BBC: EU nations, the US and UK say Belarus is putting migrants' lives in danger for political purposes. 
  <p class="updated_time"> 01:00 AM CT, Nov. 12 </p> 
  <a href="https://www.bbc.co.uk/news/uk-59247795?at_medium=RSS&at_campaign=KARANGA">COP26: Fear of failure on final day, and just how green was summit?</a> BBC: Five things you need to know about COP26 - the United Nations climate change conference - on Friday. 
  <p class="updated_time"> 12:59 AM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/world/australia/migration-and-experimentation-what-led-to-australias-coffee-culture.html">Migration and Experimentation: What Led to Australia’s Coffee Culture</a> NYT: When Italian migrants arrived after World War II, they helped develop a coffee scene that many now regard as the best in the world. 
- <p class="updated_time"> 12:51 AM CT, Nov. 12 </p> 
- <a href="https://www.nytimes.com/2021/11/12/world/asia/myanmar-danny-fenster.html">In Myanmar, Danny Fenster, American Journalist, Gets 11-Year Sentence</a> NYT: Danny Fenster, who was arrested in May by the military government, was given the maximum sentence on Friday after being convicted on three charges, his employer said. 
  <p class="updated_time"> 12:36 AM CT, Nov. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59245018?at_medium=RSS&at_campaign=KARANGA">Covid: Austrians heading towards lockdown for unvaccinated</a> BBC: The measures comes as record infections are reported in Austria, Germany and the Netherlands. 
  <p class="updated_time"> 11:42 PM CT, Nov. 11 </p> 
@@ -37,14 +43,16 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/11/t-magazine/scorched-burnt-rice.html">The Thrilling Dare of Scorched Rice</a> NYT: When browned on the bottom of the pot by a skilled cook, the grain is transformed into a complex delicacy, one prized by food cultures around the world. 
  <p class="updated_time"> 11:06 PM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/t-magazine/mexico-rice-conquest.html">Tracing Mexico’s Complicated Relationship With Rice</a> NYT: Having arrived in the country via the Spanish Conquest, the grain’s presence poses the question: What’s native, and what isn’t, when it comes to a nation’s culinary history? 
+ <p class="updated_time"> 10:07 PM CT, Nov. 11 </p> 
+ <a href="https://www.wsj.com/articles/world-leaders-pressure-libya-to-hold-elections-on-time-11636699373">World Leaders Pressure Libya to Hold Elections on Time</a> WSJ: Vice President Kamala Harris and other world leaders are gathering to make a diplomatic push in support of elections in Libya that could make or break the peace process in a country that has been torn apart by war and political crisis for a decade. 
  <p class="updated_time"> 10:02 PM CT, Nov. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59229935?at_medium=RSS&at_campaign=KARANGA">China's Xi Jinping cements his status with historic resolution</a> BBC: Mr Xi is only the third leader to issue a "historical resolution" after Mao Zedong and Deng Xiaoping. 
- <p class="updated_time"> 09:56 PM CT, Nov. 11 </p> 
- <a href="https://www.nytimes.com/2021/11/11/world/europe/austria-chancellor-lockdown-unvaccinated.html">Austria Weighs a Lockdown for Unvaccinated People</a> NYT: The country’s case rate has more than doubled since late October. 
  <p class="updated_time"> 09:46 PM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/world/europe/glasgow-garbage-strike.html">Outside COP26, Trash in Glasgow Piles High</a> NYT: At COP26, delegates address the need to curb emissions and mass consumption to save the planet while the reality of today’s throwaway society is all too apparent nearby. 
  <p class="updated_time"> 08:54 PM CT, Nov. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59257006?at_medium=RSS&at_campaign=KARANGA">US Olympian Sunisa Lee 'pepper sprayed in racist attack'</a> BBC: Gold medallist Sunisa Lee says the suspects also shouted slurs at her during the incident in Los Angeles. 
+ <p class="updated_time"> 08:53 PM CT, Nov. 11 </p> 
+ <a href="https://www.wsj.com/articles/u-s-journalist-danny-fenster-sentenced-in-myanmar-to-11-years-in-prison-11636703618">U.S. Journalist Danny Fenster Sentenced in Myanmar to 11 Years in Prison</a> WSJ: American diplomats had lobbied for his release, and his family launched a petition asking President Biden to secure his freedom. 
  <p class="updated_time"> 08:46 PM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/world/asia/india-pollution-yamuna-chhath.html">On Delhi’s Toxic River, Prayers to a Sun Struggling to Shine Through Smog</a> NYT: Every year, a four-day festival to the sun god Surya highlights the Indian city’s extreme air and water pollution, with a river so filled with foam it resembles a blizzard’s aftermath. 
  <p class="updated_time"> 08:27 PM CT, Nov. 11 </p> 
@@ -147,8 +155,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/57975275?at_medium=RSS&at_campaign=KARANGA">COP 26: How much are poor countries getting to fight climate change?</a> BBC: Are rich countries close to meeting their climate promises to the developing world? 
  <p class="updated_time"> 06:47 AM CT, Nov. 11 </p> 
  <a href="https://www.wsj.com/articles/europe-weighs-border-walls-as-migrants-mass-in-belarus-at-polands-frontier-11636649364">Europe Weighs Border Walls as Migrants Mass in Belarus at Poland's Frontier</a> WSJ: The European Union is adopting a tougher stance toward migration in response to what officials see as a hybrid attack from a close Russian ally. 
- <p class="updated_time"> 06:17 AM CT, Nov. 11 </p> 
- <a href="https://www.wsj.com/articles/murderer-of-jewish-holocaust-survivor-in-france-gets-life-sentence-11636651063">Murderer of Holocaust Survivor in France Gets Life Sentence</a> WSJ: Yacine Mihoub was found guilty of stabbing 85-year-old Mireille Knoll to death in her home, a crime that sparked questions over whether France was doing enough to address a spate of anti-Semitic attacks. 
  <p class="updated_time"> 06:12 AM CT, Nov. 11 </p> 
  <a href="https://www.npr.org/2021/11/11/1054633332/f-w-de-klerk-south-africas-last-apartheid-president-dies-at-85">F. W. de Klerk, South Africa's last apartheid president, dies at 85</a> NPR: De Klerk shared a Nobel Peace Prize with Nelson Mandela, and ceded the presidency to him in 1994 after Black South Africans were allowed to vote. But he's remained a controversial figure there. 
  <p class="updated_time"> 04:54 AM CT, Nov. 11 </p> 
@@ -163,10 +169,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/10/world/europe/knoll-france-murder.html">French Court Convicts Man in the Murder of a Holocaust Survivor</a> NYT: The man, Yacine Mihoub, was sentenced to life imprisonment for killing Mireille Knoll, 85, in 2018, which judges said was a hate crime motivated by the fact that she was Jewish. 
  <p class="updated_time"> 03:43 AM CT, Nov. 11 </p> 
  <a href="https://www.bbc.co.uk/news/uk-59238115?at_medium=RSS&at_campaign=KARANGA">Nazanin Zaghari-Ratcliffe: Husband Richard on hunger strike to urge government to help</a> BBC: Richard Ratcliffe, the husband of Iranian detainee Nazanin Zaghari-Ratcliffe, is weeks into his protest. 
- <p class="updated_time"> 03:01 AM CT, Nov. 11 </p> 
- <a href="https://www.wsj.com/articles/chinas-xi-gains-power-as-communist-party-designates-him-historical-figure-11636635312">China's Xi Designated a Historic Figure by Communist Party</a> WSJ: The Chinese leader has formally etched his name alongside the greatest figures in the annals of Communist Party history, paving the way for him to shuffle power next year and extend his rule. 
- <p class="updated_time"> 02:50 AM CT, Nov. 11 </p> 
- <a href="https://www.wsj.com/articles/f-w-de-klerk-south-african-president-who-helped-end-apartheid-dies-at-85-11636628616">De Klerk, Last President of Apartheid South Africa, Dies</a> WSJ: The last leader of South Africa’s white-minority government, whose at-times-difficult relationship with Nelson Mandela helped end apartheid, died. He was 85 years old. 
  <p class="updated_time"> 02:46 AM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/10/world/buttigieg-gasoline-diesel-vehicles.html">Pete Buttigieg Says U.S. 'Focused' on Reducing Auto Emissions</a> NYT: At the Glasgow climate summit, Mr. Buttigieg said the conversation surrounding climate change should focus on whether Earth can sustain life. 
  <p class="updated_time"> 10:51 PM CT, Nov. 10 </p> 
@@ -181,14 +183,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/10/climate/climate-cop26-glasgow.html">China and the United States Join in Seeking Emissions Cuts</a> NYT: As nearly 200 nations struggle over global climate negotiations, the world’s two biggest polluters sign an agreement, but it was short on details. 
  <p class="updated_time"> 07:02 PM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/world/europe/france-kamala-harris-macron.html">Harris Meets Macron, Signaling a ‘New Era’ After Sub Snub, Both Say</a> NYT: In her vague assignment abroad, the vice president seems to be emphasizing that the U.S.-France relationship is about looking forward, in the wake of an embarrassing diplomatic spat. 
- <p class="updated_time"> 06:53 PM CT, Nov. 10 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-59115753?at_medium=RSS&at_campaign=KARANGA">The man turning cities into giant sponges to embrace floods</a> BBC: Yu Kongjian's sponge city, based on ancient Chinese wisdom, seeks to change how we deal with floods. 
  <p class="updated_time"> 06:38 PM CT, Nov. 10 </p> 
  <a href="https://www.bbc.co.uk/news/59233799?at_medium=RSS&at_campaign=KARANGA">COP26: How much is spent supporting fossil fuels and green energy?</a> BBC: Despite green energy investment promises, many governments still financially back the fossil fuel industry. 
  <p class="updated_time"> 06:34 PM CT, Nov. 10 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59227491?at_medium=RSS&at_campaign=KARANGA">COP26: Climate activists on what change means for them</a> BBC: Climate activists from the Philippines, the UK and Argentina take questions on climate change. 
- <p class="updated_time"> 06:29 PM CT, Nov. 10 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-59240676?at_medium=RSS&at_campaign=KARANGA">Himalayan village split in two by climate change</a> BBC: In Kumik, in India's northern Ladakh region, there is a serious water crisis, with some residents forced to abandon their homes and move elsewhere. 
  <p class="updated_time"> 05:42 PM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/world/asia/vietnam-communist-gold-steak-salt-bae.html">Video of Salt Bae Serving Communist Leader Gold Steak Prompts Anger in Vietnam</a> NYT: A celebrity chef showed the meal in a TikTok video, now removed, that angered people in Vietnam. Facebook said it was investigating why the chef’s hashtag was blocked from its site. 
  <p class="updated_time"> 05:11 PM CT, Nov. 10 </p> 
