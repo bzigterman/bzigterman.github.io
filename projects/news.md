@@ -7,6 +7,12 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:12 PM CT, Nov. 12 </p> 
+ <a href="https://www.nytimes.com/live/2021/11/12/world/belarus-poland-border-migrants">Live Updates: Provocative Rhetoric and Military Moves Raise Tension at Belarus-Poland Border</a> NYT: Airlines have agreed to curb the flow into Belarus of migrants hoping to reach the European Union. As threats and accusations fly, there are troop buildups on both sides. 
+ <p class="updated_time"> 03:11 PM CT, Nov. 12 </p> 
+ <a href="https://www.nytimes.com/2021/11/12/world/europe/threats-troop-buildup-war.html">Fears of Belarus-Poland Conflict Amid Provocative Words and Troop Moves</a> NYT: On both sides of the Belarus-Poland border, hyperbole and military exercises have raised fears of an armed conflict in Europe. 
+ <p class="updated_time"> 03:09 PM CT, Nov. 12 </p> 
+ <a href="https://www.nytimes.com/2021/11/12/world/asia/myanmar-danny-fenster.html">Danny Fenster, U.S. Journalist in Myanmar, Gets 11 Years in Jail</a> NYT: Danny Fenster was given the toughest possible sentence on three charges, in a signal that the country’s military rulers would not bow to international pressure. 
  <p class="updated_time"> 03:01 PM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/world/europe/covid-netherlands-lockdown.html">Netherlands Looks to Partial Lockdown as Covid Cases Rise</a> NYT: The Dutch lockdown will not single out those who are unvaccinated. The country is experiencing rising case numbers amid a fourth wave of infections. 
  <p class="updated_time"> 03:01 PM CT, Nov. 12 </p> 
@@ -17,10 +23,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/12/world/california-covid-booster.html">All California Adults Can Get Booster Shots, State Says</a> NYT: Officials are seeking to avert a winter surge; last year, so many Covid patients died that officials were forced to deploy mobile morgues. 
  <p class="updated_time"> 02:17 PM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/11/world/asia/zuo-fang-dead.html">Zuo Fang, a Founder of China's Southern Weekly, is Dead</a> NYT: When he helped start Southern Weekly, he charted a course for a freer era for the country’s press, which later became increasingly constrained by Beijing. 
- <p class="updated_time"> 02:10 PM CT, Nov. 12 </p> 
- <a href="https://www.nytimes.com/live/2021/11/12/world/belarus-poland-border-migrants">Live Updates: Provocative Rhetoric and Military Moves Raise Tension at Belarus-Poland Border</a> NYT: Airlines have agreed to curb the flow into Belarus of migrants hoping to reach the European Union. As threats and accusations fly, there are troop buildups on both sides. 
- <p class="updated_time"> 02:10 PM CT, Nov. 12 </p> 
- <a href="https://www.nytimes.com/2021/11/12/world/europe/threats-troop-buildup-war.html">Fears of Belarus-Poland Conflict Amid Provocative Words and Troop Moves</a> NYT: On both sides of the Belarus-Poland border, hyperbole and military exercises have raised fears of an armed conflict in Europe. 
  <p class="updated_time"> 01:55 PM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/11/world/africa/fw-de-klerk-dead.html">F.W. de Klerk, South Africa President Who Ended Apartheid, Dies at 85</a> NYT: A prominent Afrikaner, he defended the separation of the races before helping to dismantle that system, leading to his sharing the Nobel Peace Prize with Nelson Mandela. 
  <p class="updated_time"> 12:56 PM CT, Nov. 12 </p> 
@@ -49,6 +51,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/12/world/australia/migration-and-experimentation-what-led-to-australias-coffee-culture.html">Migration and Experimentation: What Led to Australia’s Coffee Culture</a> NYT: When Italian migrants arrived after World War II, they helped develop a coffee scene that many now regard as the best in the world. 
  <p class="updated_time"> 10:29 AM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/11/world/europe/un-security-council.html">Belarus-Poland Clash Spills Into U.N. Security Council</a> NYT: The United States joined several countries in a statement condemning Belarus, but the Russian envoy dismissed their criticism as politically motivated hypocrisy. 
+ <p class="updated_time"> 10:20 AM CT, Nov. 12 </p> 
+ <a href="https://www.wsj.com/articles/cop26-talks-enter-final-scheduled-day-with-deal-still-elusive-11636717491">COP26 Talks Continue With a Deal Still Elusive</a> WSJ: Negotiators seeking to reach a global deal to slow climate change extended talks into Friday evening as they wrestled with big differences over the wording of what they hope will be a meaningful agreement. 
  <p class="updated_time"> 10:14 AM CT, Nov. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59266209?at_medium=RSS&at_campaign=KARANGA">Poland border: Turkey blocks Belarus flights to ease migrant crisis</a> BBC: Turkey has stopped all citizens from Iraq, Syria and Yemen from flying from Turkey to Belarus. 
  <p class="updated_time"> 10:01 AM CT, Nov. 12 </p> 
@@ -61,10 +65,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/12/1055045794/julian-assange-wins-permission-to-get-married-while-in-a-london-prison">Julian Assange wins permission to marry his partner in a London prison</a> NPR: The WikiLeaks founder and attorney Stella Moris began a relationship after Assange took refuge in the Ecuadorian Embassy in London in 2012. They have two sons together. 
  <p class="updated_time"> 09:25 AM CT, Nov. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59262811?at_medium=RSS&at_campaign=KARANGA">France investigates rape of soldier at Élysée palace</a> BBC: Local media report prosecutors are investigating the alleged rape of a soldier at the Élysée palace. 
- <p class="updated_time"> 08:47 AM CT, Nov. 12 </p> 
- <a href="https://www.nytimes.com/2021/11/12/world/asia/myanmar-danny-fenster.html">Danny Fenster, U.S. Journalist in Myanmar, Gets 11 Years in Jail</a> NYT: Danny Fenster was given the toughest possible sentence on three charges, in a signal that the country’s military rulers would not bow to international pressure. 
- <p class="updated_time"> 08:15 AM CT, Nov. 12 </p> 
- <a href="https://www.wsj.com/articles/cop26-talks-enter-final-scheduled-day-with-deal-still-elusive-11636717491">COP26 Talks Enter Final Scheduled Day With Deal Still Elusive</a> WSJ: Negotiators seeking to reach a global deal to slow climate change entered the last scheduled day of talks still wrestling with big differences over the wording of what they hope will be a meaningful agreement. 
  <p class="updated_time"> 07:55 AM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/11/health/veterans-psychedelics-ptsd-depression.html">Veterans Have Become Unlikely Lobbyists in Push to Legalize Psychedelic Drugs</a> NYT: Lawmakers find it hard to “just say no” to combat veterans seeking support for drug decriminalization efforts gaining traction around the country. 
  <p class="updated_time"> 07:23 AM CT, Nov. 12 </p> 
@@ -214,16 +214,24 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:09 PM CT, Nov. 12 </p> 
+ <a href="https://www.politico.com/news/2021/11/12/steve-bannon-indicted-for-defying-jan-6-committee-investigation-521177">Steve Bannon indicted for defying Jan. 6 committee investigation</a> Politico: The Justice Department has charged the former top Trump adviser with two counts of contempt of Congress for refusing to cooperate with Jan. 6 investigators. 
+ <p class="updated_time"> 03:21 PM CT, Nov. 12 </p> 
+ <a href="https://www.nytimes.com/2021/11/11/us/politics/trump-files-january-6.html">Court Issues Brief Hold on Release of Trump Files in Jan. 6 Inquiry</a> NYT: Congress had been set to receive the first batch of Trump White House files from the National Archives on Friday, a move that the former president had fought. 
+ <p class="updated_time"> 03:20 PM CT, Nov. 12 </p> 
+ <a href="https://www.nytimes.com/2021/11/12/us/politics/republican-violent-rhetoric.html">Menace, as a Political Tool, Enters the Republican Mainstream</a> NYT: Threats of violence have become commonplace among a significant part of the party, as historians and those who study democracy warn of a dark shift in American politics. 
+ <p class="updated_time"> 03:18 PM CT, Nov. 12 </p> 
+ <a href="https://www.nytimes.com/2021/11/12/us/politics/robert-califf-fda.html">Biden Chooses Robert Califf to Lead F.D.A., Despite Drug Industry Ties</a> NYT: Dr. Robert M. Califf, an academic and clinical trial researcher who ran the agency in 2016, has also consulted for pharmaceutical companies. 
+ <p class="updated_time"> 03:16 PM CT, Nov. 12 </p> 
+ <a href="https://www.nytimes.com/2021/11/12/us/politics/bannon-indicted.html">Bannon Indicted on Contempt Charges Over House Investigation of Capitol Riot</a> NYT: Stephen K. Bannon, a former top aide to Donald Trump, had refused to comply with subpoenas from the House committee investigating the Jan. 6 attack on Congress. 
+ <p class="updated_time"> 03:10 PM CT, Nov. 12 </p> 
+ <a href="https://www.cnn.com/2021/11/12/politics/steve-bannon-indicted/index.html">Federal grand jury has indicted former Trump adviser Steve Bannon</a> CNN: A federal grand jury has returned an indictment against former Trump adviser Steve Bannon, CNN has learned. 
+ <p class="updated_time"> 03:08 PM CT, Nov. 12 </p> 
+ <a href="https://www.nytimes.com/2021/11/12/us/politics/biden-china-xi-jinping.html">Biden and China’s Xi Will Hold Virtual Summit on Monday</a> NYT: The leaders of the world’s two largest economies confront tensions over trade, cyberthreats, the climate, Taiwan and human rights. 
  <p class="updated_time"> 03:05 PM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/us/politics/pell-grants-for-profit-colleges-aid.html">Democrats’ Bill Would Deny For-Profit College Students Extra Aid</a> NYT: Critics say a little-noticed provision would hurt the very constituencies — people of color, the working class, low-income Americans — that the party typically champions. 
- <p class="updated_time"> 03:05 PM CT, Nov. 12 </p> 
- <a href="https://www.nytimes.com/2021/11/12/us/politics/bannon-indicted.html">Bannon Indicted on Contempt Charges Over House Investigation of Capitol Riot</a> NYT: Stephen K. Bannon, a former top aide to Donald Trump, had refused to comply with subpoenas from the House committee investigating the Jan. 6 attack on Congress. 
- <p class="updated_time"> 03:01 PM CT, Nov. 12 </p> 
- <a href="https://www.cnn.com/2021/11/12/politics/steve-bannon-indicted/index.html">Federal grand jury has indicted former Trump adviser Steve Bannon</a> CNN: A federal grand jury has returned an indictment against former Trump adviser Steve Bannon, CNN has learned. 
  <p class="updated_time"> 02:57 PM CT, Nov. 12 </p> 
  <a href="https://www.npr.org/2021/11/12/1054309797/steve-bannon-contempt-congress-justice-department">Justice Department charges Steve Bannon with criminal contempt of Congress</a> NPR: Federal prosecutors charged Steve Bannon over his defiance of a subpoena from the congressional committee investigating the Capitol siege on Jan. 6. 
- <p class="updated_time"> 02:40 PM CT, Nov. 12 </p> 
- <a href="https://www.nytimes.com/2021/11/12/us/politics/robert-califf-fda.html">Biden Chooses Robert Califf to Lead F.D.A., Despite Drug Industry Ties</a> NYT: Dr. Robert M. Califf, an academic and clinical trial researcher who ran the agency in 2016, has also consulted for pharmaceutical companies. 
  <p class="updated_time"> 02:30 PM CT, Nov. 12 </p> 
  <a href="https://www.cnn.com/2021/11/12/politics/infrastructure-czar-joe-biden/index.html">Biden plans to appoint an outside official to oversee implementation of massive infrastructure bill</a> CNN: President Joe Biden said Friday that he plans to appoint an official from outside his administration to oversee implementation of the large infrastructure bill he intends to sign on Monday. 
  <p class="updated_time"> 02:29 PM CT, Nov. 12 </p> 
@@ -240,10 +248,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/12/russia-ukraine-invasion-putin-521139">U.S. huddles with allies over possible Russian invasion of Ukraine</a> Politico: The uptick in American concern, confirmed by two U.S. officials, indicates that President Joe Biden’s efforts to reach some sort of equilibrium with Putin are running out of steam. 
  <p class="updated_time"> 01:40 PM CT, Nov. 12 </p> 
  <a href="https://www.cnn.com/2021/11/12/politics/psaki-returns-white-house-covid/index.html">Jen Psaki returns to White House briefing room after testing positive for Covid-19</a> CNN: White House press secretary Jen Psaki returned to the White House briefing room Friday for the first time since testing positive for Covid-19, telling reporters she completed a 10-day quarantine and received a negative Covid-19 test on Thursday. 
- <p class="updated_time"> 01:39 PM CT, Nov. 12 </p> 
- <a href="https://www.nytimes.com/2021/11/12/us/politics/biden-china-xi-jinping.html">Biden and China’s Xi Will Hold Virtual Summit on Monday</a> NYT: The leaders of the world’s two largest economies confront tensions over trade, cyberthreats, the climate, Taiwan and human rights. 
- <p class="updated_time"> 01:34 PM CT, Nov. 12 </p> 
- <a href="https://www.nytimes.com/2021/11/12/us/politics/republican-violent-rhetoric.html">Menace, as a Political Tool, Enters the Republican Mainstream</a> NYT: Threats of violence have become commonplace among a significant part of the party, as historians and those who study democracy warn of a dark shift in American politics. 
  <p class="updated_time"> 01:21 PM CT, Nov. 12 </p> 
  <a href="https://www.cnn.com/2021/11/12/politics/january-6-defendant-pleaded-guilty-molotov-cocktails-guns/index.html">Man who brought Molotov cocktails to DC on January 6 pleads guilty</a> CNN: A January 6 defendant pleaded guilty on Friday to bringing Molotov cocktails and an unlicensed gun to Capitol Hill on the day of the insurrection. 
  <p class="updated_time"> 01:18 PM CT, Nov. 12 </p> 
@@ -338,8 +342,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/11/us/politics/biden-veterans-day.html">Biden Marks First Veterans Day in Two Decades Without Troops in Active Combat</a> NYT: President Biden, who ended the 20-year conflict in Afghanistan this summer, called veterans the “soul of America.” 
  <p class="updated_time"> 08:23 PM CT, Nov. 11 </p> 
  <a href="https://www.npr.org/sections/coronavirus-live-updates/2021/11/11/1054959986/states-lawsuit-biden-administration-covid-vaccine-mandate-health-workers">10 states sue Biden administration over COVID vaccine mandate for health care workers</a> NPR: The state attorneys general argue the vaccine mandate will lead to shortages of health care workers and could threaten the jobs of millions of their jobs. 
- <p class="updated_time"> 07:54 PM CT, Nov. 11 </p> 
- <a href="https://www.nytimes.com/2021/11/11/us/politics/trump-files-january-6.html">Court Issues Brief Hold on Release of Trump Files in Jan. 6 Inquiry</a> NYT: Congress had been set to receive the first batch of Trump White House files from the National Archives on Friday, a move that the former president had fought. 
  <p class="updated_time"> 06:40 PM CT, Nov. 11 </p> 
  <a href="https://www.cnn.com/2021/11/11/politics/trump-motion-documents/index.html">Dem-appointed appellate panel pauses release of Trump White House records ahead of Friday deadline</a> CNN: Former President Donald Trump has asked a federal appeals court to briefly stop the release of key White House records from his presidency to the House January 6 committee while he appeals a lower court's decision that he can't claim executive privilege to keep them secret. 
  <p class="updated_time"> 05:30 PM CT, Nov. 11 </p> 
