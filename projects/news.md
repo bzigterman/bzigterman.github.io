@@ -7,6 +7,20 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:21 AM CT, Nov. 12 </p> 
+ <a href="https://www.nytimes.com/live/2021/11/12/world/belarus-poland-border-migrants">Live Updates: Airlines Limit Flights to Belarus to Slow Flow of Migrants to E.U. Borders</a> NYT: With thousands stranded on the border between Poland and Belarus, Russia sent conflicting signals. The Kremlin says it will not allow Belarus to disrupt the flow of natural gas to Europe. At the same time, Moscow flexed its military might in a show of support for its ally. 
+ <p class="updated_time"> 07:17 AM CT, Nov. 12 </p> 
+ <a href="https://www.nytimes.com/2021/11/12/world/europe/covid-germany-tests.html">Germany Will Again Offer Free Covid Tests to All Adults</a> NYT: Officials hope that identifying infections earlier can help stop a recent surge in cases. 
+ <p class="updated_time"> 07:09 AM CT, Nov. 12 </p> 
+ <a href="https://www.npr.org/sections/pictureshow/2021/11/12/1054032730/photography-climate-change-global-warming-oceans-vlad-sokhin">Their lands are oceans apart but are linked by rising, warming seas of climate change</a> NPR: Photographer Vlad Sokhin's latest work, Warm Waters, is an exploration of climate change traveling across 18 countries and off-the-map territories seen by seldom few. 
+ <p class="updated_time"> 07:03 AM CT, Nov. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/science-environment-59221790?at_medium=RSS&at_campaign=KARANGA">COP26: Coal compromise as leaders near climate deal</a> BBC: All countries must agree on the new deal as negotiators at COP26 enter the summit's final hours. 
+ <p class="updated_time"> 06:59 AM CT, Nov. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59258409?at_medium=RSS&at_campaign=KARANGA">Covid: Dutch set for partial lockdown as infections surge</a> BBC: The measures are expected to last three weeks, while Austria plans a lockdown for the unvaccinated. 
+ <p class="updated_time"> 06:58 AM CT, Nov. 12 </p> 
+ <a href="https://www.nytimes.com/2021/11/12/arts/design/badiucao-brescia-china.html">The Show Goes On, Even After China Tried to Shut It Down</a> NYT: An Italian city rejected a request from the Chinese Embassy in Rome to cancel an exhibition by Badiucao, an artist who has been described as the Chinese Banksy. 
+ <p class="updated_time"> 06:55 AM CT, Nov. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/science-environment-59263810?at_medium=RSS&at_campaign=KARANGA">John Kerry at COP26: We're going to come up with an agreement</a> BBC: The US climate envoy speaks to the BBC as pressure mounts on governments to strike a deal at COP26. 
  <p class="updated_time"> 06:53 AM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/10/world/middleeast/migrants-belarus-border-abuse.html">Migrants Say They Face Abuse on Both Sides of Belarus Border</a> NYT: Stories are emerging of the authorities in Belarus, Lithuania and Poland abusing asylum seekers from the Middle East and using them as political pawns. 
  <p class="updated_time"> 06:51 AM CT, Nov. 12 </p> 
@@ -17,12 +31,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/11/world/europe/un-security-council.html">Belarus-Poland Clash Spills Into U.N. Security Council</a> NYT: The United States joined several countries in a statement condemning Belarus, but the Russian envoy dismissed their criticism as politically motivated hypocrisy. 
  <p class="updated_time"> 06:42 AM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/world/asia/myanmar-danny-fenster.html">Danny Fenster, U.S. Journalist in Myanmar, Gets 11 Years in Jail</a> NYT: Danny Fenster was given the toughest possible sentence on three charges, in a signal that the country’s military rulers would not bow to international pressure. 
- <p class="updated_time"> 06:37 AM CT, Nov. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59258409?at_medium=RSS&at_campaign=KARANGA">Covid: Dutch set for partial lockdown as infections surge</a> BBC: The measures, due to last three weeks, are expected to cover shops, sport and catering. 
  <p class="updated_time"> 06:17 AM CT, Nov. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59260704?at_medium=RSS&at_campaign=KARANGA">US police officer sues boss over KKK note</a> BBC: Keith Pool says superiors ignored numerous examples of racist abuse by former Chief Anthony Campo. 
- <p class="updated_time"> 06:13 AM CT, Nov. 12 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-59221790?at_medium=RSS&at_campaign=KARANGA">COP26: Coal compromise as leaders near climate deal</a> BBC: All countries must agree on the new deal as negotiators at COP26 enter the summit's final hours. 
  <p class="updated_time"> 05:26 AM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/world/asia/china-zero-covid.html">China's 'Zero Covid' Efforts Come With a Cost</a> NYT: The Communist Party is making broad efforts to stamp out the disease entirely, but the measures come with costs. 
  <p class="updated_time"> 05:18 AM CT, Nov. 12 </p> 
@@ -43,6 +53,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/11/world/europe/migrants-poland-belarus-lukashenko.html">Migrants in Peril, and Raw Emotions, in a Volatile European Border Standoff</a> NYT: A confrontation over migrants between Belarus and Poland is growing more volatile, as nationalist fervor rises in both countries and a humanitarian disaster looms. 
  <p class="updated_time"> 02:17 AM CT, Nov. 12 </p> 
  <a href="https://www.bbc.co.uk/sport/football/59256408?at_medium=RSS&at_campaign=KARANGA">Aminata Diallo: Paris St-Germain midfielder released by police without charge</a> BBC: Paris St-Germain midfielder Aminata Diallo is released without charge by French police investigating an attack on her PSG team-mate Kheira Hamraoui. 
+ <p class="updated_time"> 02:11 AM CT, Nov. 12 </p> 
+ <a href="https://www.wsj.com/articles/world-leaders-pressure-libya-to-hold-elections-on-time-11636699373">World Leaders Pressure Libya to Hold Elections on Time</a> WSJ: Vice President Kamala Harris and other world leaders are gathering to make a diplomatic push in support of elections in Libya that could make or break the peace process in a country that has been torn apart by war and political crisis for a decade. 
  <p class="updated_time"> 02:09 AM CT, Nov. 12 </p> 
  <a href="https://www.npr.org/2021/11/12/1055027411/a-u-s-journalist-is-sentenced-to-11-years-in-jail-by-a-court-in-myanmar">A U.S. journalist is sentenced to 11 years in jail by a court in Myanmar</a> NPR: A court in military-ruled Myanmar sentenced journalist Danny Fenster to 11 years in prison after finding him guilty on several charges, including incitement for allegedly spreading false information. 
  <p class="updated_time"> 01:24 AM CT, Nov. 12 </p> 
@@ -73,8 +85,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/11/t-magazine/scorched-burnt-rice.html">The Thrilling Dare of Scorched Rice</a> NYT: When browned on the bottom of the pot by a skilled cook, the grain is transformed into a complex delicacy, one prized by food cultures around the world. 
  <p class="updated_time"> 11:06 PM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/t-magazine/mexico-rice-conquest.html">Tracing Mexico’s Complicated Relationship With Rice</a> NYT: Having arrived in the country via the Spanish Conquest, the grain’s presence poses the question: What’s native, and what isn’t, when it comes to a nation’s culinary history? 
- <p class="updated_time"> 10:07 PM CT, Nov. 11 </p> 
- <a href="https://www.wsj.com/articles/world-leaders-pressure-libya-to-hold-elections-on-time-11636699373">World Leaders Pressure Libya to Hold Elections on Time</a> WSJ: Vice President Kamala Harris and other world leaders are gathering to make a diplomatic push in support of elections in Libya that could make or break the peace process in a country that has been torn apart by war and political crisis for a decade. 
  <p class="updated_time"> 10:02 PM CT, Nov. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59229935?at_medium=RSS&at_campaign=KARANGA">China's Xi Jinping cements his status with historic resolution</a> BBC: Mr Xi is only the third leader to issue a "historical resolution" after Mao Zedong and Deng Xiaoping. 
  <p class="updated_time"> 09:46 PM CT, Nov. 11 </p> 
@@ -135,6 +145,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/11/world/middleeast/israel-palestinian-nso-hacking.html">Palestinian Diplomats Targeted by Israeli Spyware, Official Says</a> NYT: The accusation, which has not been independently verified, raises new questions over whether Israel is using software made by NSO Group to spy on Palestinians. 
  <p class="updated_time"> 01:23 PM CT, Nov. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59253377?at_medium=RSS&at_campaign=KARANGA">Poland-Belarus: How social media posts fuelled the migrant crisis</a> BBC: Messages on social media had a key role in a mass move of migrants to the Polish border this week. 
+ <p class="updated_time"> 01:19 PM CT, Nov. 11 </p> 
+ <a href="https://www.nytimes.com/2021/11/11/business/britain-economy-recovery.html">The U.K.'s Economic Recovery Slowed in the Third Quarter</a> NYT: The economy grew 1.3 percent in the third quarter, down from 5.5 percent growth in the previous three months. 
  <p class="updated_time"> 01:15 PM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/health/veterans-psychedelics-ptsd-depression.html">Veterans Have Become Unlikely Lobbyists in Push to Legalize Psychedelic Drugs</a> NYT: Lawmakers find it hard to “just say no” to combat veterans seeking support for drug decriminalization efforts gaining traction around the country. 
  <p class="updated_time"> 01:01 PM CT, Nov. 11 </p> 
@@ -167,16 +179,14 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/11/1054646063/china-xi-jinping-communist-party">China's Communist Party, with eye on history, gives Xi Jinping the same status as Mao</a> NPR: Leaders have set the stage for the Chinese president to extend his rule, and for just the third time ever, approved a political history that gives him status equal to the most important party figures. 
  <p class="updated_time"> 07:24 AM CT, Nov. 11 </p> 
  <a href="https://www.bbc.co.uk/news/57975275?at_medium=RSS&at_campaign=KARANGA">COP 26: How much are poor countries getting to fight climate change?</a> BBC: Are rich countries close to meeting their climate promises to the developing world? 
- <p class="updated_time"> 06:12 AM CT, Nov. 11 </p> 
- <a href="https://www.npr.org/2021/11/11/1054633332/f-w-de-klerk-south-africas-last-apartheid-president-dies-at-85">F. W. de Klerk, South Africa's last apartheid president, dies at 85</a> NPR: De Klerk shared a Nobel Peace Prize with Nelson Mandela, and ceded the presidency to him in 1994 after Black South Africans were allowed to vote. But he's remained a controversial figure there. 
  <p class="updated_time"> 04:54 AM CT, Nov. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-13230608?at_medium=RSS&at_campaign=KARANGA">FW de Klerk: South Africa's last white president</a> BBC: The last president of a segregated South Africa, who freed Nelson Mandela, and paved the way to majority rule. 
  <p class="updated_time"> 04:02 AM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/t-magazine/mansaf-bedouin-rice.html">For Many Members of the Arab American Diaspora, Mansaf Offers a Taste of Home</a> NYT: The traditional Bedouin dish of bread, rice, lamb and yogurt is a talisman of identity in Jordan — and in various communities in suburban Detroit. 
+ <p class="updated_time"> 04:00 AM CT, Nov. 11 </p> 
+ <a href="https://www.nytimes.com/2021/11/11/business/india-stock-market.html">India's Stock Market is Soaring, Luring Investors at Home and Abroad</a> NYT: The second-most populous country is enjoying some of the world’s strongest stock market returns. Pro-growth policies and gnawing questions about China have helped. 
  <p class="updated_time"> 03:48 AM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/10/world/europe/knoll-france-murder.html">French Court Convicts Man in the Murder of a Holocaust Survivor</a> NYT: The man, Yacine Mihoub, was sentenced to life imprisonment for killing Mireille Knoll, 85, in 2018, which judges said was a hate crime motivated by the fact that she was Jewish. 
- <p class="updated_time"> 03:43 AM CT, Nov. 11 </p> 
- <a href="https://www.bbc.co.uk/news/uk-59238115?at_medium=RSS&at_campaign=KARANGA">Nazanin Zaghari-Ratcliffe: Husband Richard on hunger strike to urge government to help</a> BBC: Richard Ratcliffe, the husband of Iranian detainee Nazanin Zaghari-Ratcliffe, is weeks into his protest. 
  <p class="updated_time"> 10:04 PM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/world/middleeast/israeli-covid-vaccine-children.html">Israeli Experts Approve Vaccinations for Children Ages 5 to 11 </a> NYT: Israel would become one of the first countries after the United States to authorize the Pfizer-BioNTech vaccine for children ages 5 to 11. 
  <p class="updated_time"> 10:02 PM CT, Nov. 10 </p> 
@@ -206,10 +216,12 @@ permalink: /projects/news/
 
  <p class="updated_time"> 07:43 AM CT, Nov. 12 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/11/12/could-mccarthy-win-the-gavel-495084">Could McCarthy win the gavel?</a> Politico: A play-by-play preview of the day&#39;s congressional news 
+ <p class="updated_time"> 07:07 AM CT, Nov. 12 </p> 
+ <a href="https://www.cnn.com/2021/11/12/politics/trump-pence-threats-january-6/index.html">Trump defends threats to Pence on January 6 in new audio</a> CNN: Former President Donald Trump appeared to defend the threats made against then-Vice President Mike Pence during the January 6 insurrection in a new audio recording released Wednesday. 
+ <p class="updated_time"> 06:55 AM CT, Nov. 12 </p> 
+ <a href="https://www.politico.com/news/2021/11/12/murkowski-announces-reelection-bid-521011">Murkowski announces reelection bid</a> Politico: Former President Donald Trump has already endorsed her Republican primary opponent. 
  <p class="updated_time"> 06:49 AM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/11/business/economy/biden-inflation.html">Biden Says Spending Bill Will Slow Inflation. But When?</a> NYT: The Biden administration has argued that its infrastructure and broader economic package will slow rapid price increases. But that will take time. 
- <p class="updated_time"> 06:42 AM CT, Nov. 12 </p> 
- <a href="https://www.cnn.com/2021/11/12/politics/trump-pence-threats-january-6/index.html">Trump defends threats to Pence on January 6 in new audio</a> CNN: Former President Donald Trump appeared to defend the threats made against then-Vice President Mike Pence during the January 6 insurrection in a new audio recording released Wednesday. 
  <p class="updated_time"> 06:25 AM CT, Nov. 12 </p> 
  <a href="https://www.politico.com/news/2021/11/12/south-korea-candidate-north-nuclear-program-521012">S. Korean candidate takes tough line on North's nuclear program</a> Politico: Yoon Suk Yeol stressed the need to boost cooperation with Washington and Japan to make up for South Korea’s relative lack of ability to monitor North Korea’s advancing nuclear program. 
  <p class="updated_time"> 06:13 AM CT, Nov. 12 </p> 
