@@ -7,12 +7,18 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:34 PM CT, Nov. 12 </p> 
+ <a href="https://www.nytimes.com/live/2021/11/12/world/belarus-poland-border-migrants">Provocative Rhetoric and Military Moves Raise Tension at Belarus-Poland Border</a> NYT: Airlines have agreed to curb the flow into Belarus of migrants hoping to reach the European Union. As threats and accusations fly, there are troop buildups on both sides. 
+ <p class="updated_time"> 04:34 PM CT, Nov. 12 </p> 
+ <a href="https://www.nytimes.com/2021/11/12/world/europe/migrant-flights-belarus.html">Airlines Move to Curb Flow of Migrants to Belarus</a> NYT: Some airlines have agreed to stop taking Iraqi, Syrian and Yemeni citizens to Minsk, which the E.U. hopes will stem the flow of migrants to the bloc’s borders. 
+ <p class="updated_time"> 04:30 PM CT, Nov. 12 </p> 
+ <a href="https://www.nytimes.com/2021/11/11/world/asia/zuo-fang-dead.html">Zuo Fang, a Founder of China's Southern Weekly, is Dead</a> NYT: When he helped start Southern Weekly, he charted a course for a freer era for the country’s press, which later became increasingly constrained by Beijing. 
+ <p class="updated_time"> 04:29 PM CT, Nov. 12 </p> 
+ <a href="https://www.nytimes.com/2021/11/12/us/politics/in-france-kamala-harris-asserts-herself-as-a-diplomatic-asset.html">In France, Kamala Harris Asserts Herself as a Diplomatic Asset</a> NYT: The vice president met with President Emmanuel Macron of France, skirting recent U.S.-French tensions, and immersed herself in issues like Libya and cybersecurity. 
  <p class="updated_time"> 04:21 PM CT, Nov. 12 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-59217825?at_medium=RSS&at_campaign=KARANGA">Britney Spears is released from 13-year conservatorship</a> BBC: An LA judge terminates a legal guardianship set up by the 39-year-old pop star's father in 2008. 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-59217825?at_medium=RSS&at_campaign=KARANGA">Britney Spears released from 13-year conservatorship</a> BBC: An LA judge terminates a legal guardianship set up by the 39-year-old pop star's father in 2008. 
  <p class="updated_time"> 04:20 PM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/world/europe/lukashenko-putin-belarus-russia.html">Migrant Crisis in Belarus Tests Putin’s Uneasy Alliance With Lukashenko</a> NYT: Last year Vladimir V. Putin helped save Aleksandr G. Lukashenko’s Belarusian regime. But Russia now has an ever-more-erratic ally and risks entanglement in a dangerous crisis. 
- <p class="updated_time"> 04:20 PM CT, Nov. 12 </p> 
- <a href="https://www.nytimes.com/2021/11/12/us/politics/in-france-kamala-harris-asserts-herself-as-a-diplomatic-asset.html">In France, Kamala Harris Asserts Herself as a Diplomatic Asset</a> NYT: The vice president met with President Emmanuel Macron of France, skirting recent U.S.-French tensions, and immersed herself in issues like Libya and cybersecurity. 
  <p class="updated_time"> 04:16 PM CT, Nov. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59258409?at_medium=RSS&at_campaign=KARANGA">Covid: Dutch partial lockdown to tackle surge in infections</a> BBC: The measures will last three weeks, while Austria plans a lockdown for the unvaccinated. 
  <p class="updated_time"> 04:13 PM CT, Nov. 12 </p> 
@@ -27,8 +33,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/science-environment-59269886?at_medium=RSS&at_campaign=KARANGA">COP26: Climate talks into overtime as nations near deal</a> BBC: Divisions remain over continuing subsidies for fossil fuels and financial help to poorer nations. 
  <p class="updated_time"> 03:39 PM CT, Nov. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59266213?at_medium=RSS&at_campaign=KARANGA">Astroworld: Dozens more lawsuits filed over deadly festival crush</a> BBC: A woman who was at the festival told reporters that said didn't know she was buying a "death ticket". 
- <p class="updated_time"> 03:39 PM CT, Nov. 12 </p> 
- <a href="https://www.nytimes.com/live/2021/11/12/world/belarus-poland-border-migrants">Live Updates: Provocative Rhetoric and Military Moves Raise Tension at Belarus-Poland Border</a> NYT: Airlines have agreed to curb the flow into Belarus of migrants hoping to reach the European Union. As threats and accusations fly, there are troop buildups on both sides. 
  <p class="updated_time"> 03:24 PM CT, Nov. 12 </p> 
  <a href="https://www.npr.org/2021/11/12/1055366608/myanmar-court-sentences-american-journalist-danny-fenster-to-11-years-in-prison">Myanmar court sentences American journalist Danny Fenster to 11 years in prison</a> NPR: U.S. journalist Danny Fenster was sentenced to 11 years in prison in Myanmar. He was found guilty of incitement and two other charges. 
  <p class="updated_time"> 03:24 PM CT, Nov. 12 </p> 
@@ -43,8 +47,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/12/world/europe/covid-italy-green-pass.html">Police in Milan Search Homes of 4 People Tied to Protests Over Covid Passes</a> NYT: The group has staged protests for weeks over a nationwide Covid rule, often blocking traffic and access to city centers. 
  <p class="updated_time"> 02:57 PM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/world/california-covid-booster.html">All California Adults Can Get Booster Shots, State Says</a> NYT: Officials are seeking to avert a winter surge; last year, so many Covid patients died that officials were forced to deploy mobile morgues. 
- <p class="updated_time"> 02:17 PM CT, Nov. 12 </p> 
- <a href="https://www.nytimes.com/2021/11/11/world/asia/zuo-fang-dead.html">Zuo Fang, a Founder of China's Southern Weekly, is Dead</a> NYT: When he helped start Southern Weekly, he charted a course for a freer era for the country’s press, which later became increasingly constrained by Beijing. 
  <p class="updated_time"> 01:55 PM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/11/world/africa/fw-de-klerk-dead.html">F.W. de Klerk, South Africa President Who Ended Apartheid, Dies at 85</a> NYT: A prominent Afrikaner, he defended the separation of the races before helping to dismantle that system, leading to his sharing the Nobel Peace Prize with Nelson Mandela. 
  <p class="updated_time"> 12:56 PM CT, Nov. 12 </p> 
@@ -214,14 +216,18 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
- <p class="updated_time"> 04:20 PM CT, Nov. 12 </p> 
- <a href="https://www.nytimes.com/2021/11/12/us/politics/bannon-indicted.html">Bannon Indicted on Contempt Charges Over House’s Capitol Riot Inquiry</a> NYT: Stephen K. Bannon, a former top aide to Donald Trump, had refused to comply with subpoenas from the House committee investigating the Jan. 6 attack on Congress. 
- <p class="updated_time"> 04:20 PM CT, Nov. 12 </p> 
- <a href="https://www.nytimes.com/2021/11/12/us/politics/in-france-kamala-harris-asserts-herself-as-a-diplomatic-asset.html">In France, Kamala Harris Asserts Herself as a Diplomatic Asset</a> NYT: The vice president met with President Emmanuel Macron of France, skirting recent U.S.-French tensions, and immersed herself in issues like Libya and cybersecurity. 
- <p class="updated_time"> 04:16 PM CT, Nov. 12 </p> 
- <a href="https://www.cnn.com/2021/11/12/politics/trump-lawsuits-michael-cohen-summer-zervos/index.html">Trump scores two legal wins after Summer Zervos drops lawsuit and Michael Cohen's suit against Trump Org. dismissed</a> CNN: Former President Donald Trump scored two big legal victories Friday and avoided having to sit for a deposition in a defamation lawsuit after former "Apprentice" contestant Summer Zervos agreed to drop her claims, according to a court filing, and a New York judge granted Trump's motion to dismiss a 2019 lawsuit filed by his former personal attorney Michael Cohen against the Trump Organization. 
- <p class="updated_time"> 04:09 PM CT, Nov. 12 </p> 
+ <p class="updated_time"> 04:36 PM CT, Nov. 12 </p> 
  <a href="https://www.cnn.com/2021/11/12/politics/steve-bannon-indicted/index.html">Federal grand jury indicts Steve Bannon for contempt of Congress</a> CNN: A federal grand jury has returned an indictment against former Trump adviser Steve Bannon, CNN has learned. 
+ <p class="updated_time"> 04:33 PM CT, Nov. 12 </p> 
+ <a href="https://www.cnn.com/2021/11/12/politics/biden-admin-ethiopia-eritrea-sanctions/index.html">Biden administration sanctions Eritrean military, ruling party over role in northern Ethiopia conflict</a> CNN: The Biden administration sanctioned Eritrea's military and sole political party for their involvement in the ongoing crisis in northern Ethiopia. 
+ <p class="updated_time"> 04:29 PM CT, Nov. 12 </p> 
+ <a href="https://www.nytimes.com/2021/11/12/us/politics/in-france-kamala-harris-asserts-herself-as-a-diplomatic-asset.html">In France, Kamala Harris Asserts Herself as a Diplomatic Asset</a> NYT: The vice president met with President Emmanuel Macron of France, skirting recent U.S.-French tensions, and immersed herself in issues like Libya and cybersecurity. 
+ <p class="updated_time"> 04:27 PM CT, Nov. 12 </p> 
+ <a href="https://www.cnn.com/2021/11/12/politics/trump-lawsuits-michael-cohen-summer-zervos/index.html">Trump scores legal wins with one lawsuit dropped and another dismissed</a> CNN: Former President Donald Trump scored two big legal victories Friday and avoided having to sit for a deposition in a defamation lawsuit after former "Apprentice" contestant Summer Zervos agreed to drop her claims, according to a court filing, and a New York judge granted Trump's motion to dismiss a 2019 lawsuit filed by his former personal attorney Michael Cohen against the Trump Organization. 
+ <p class="updated_time"> 04:27 PM CT, Nov. 12 </p> 
+ <a href="https://www.nytimes.com/2021/11/12/us/politics/bannon-indicted.html">Bannon Indicted on Contempt Charges Over House’s Capitol Riot Inquiry</a> NYT: Stephen K. Bannon, a former top aide to Donald Trump, had refused to comply with subpoenas from the House committee investigating the Jan. 6 attack on Congress. 
+ <p class="updated_time"> 04:19 PM CT, Nov. 12 </p> 
+ <a href="https://www.cnn.com/2021/11/12/politics/mark-meadows-january-6-deposition/index.html">Mark Meadows did not appear for deposition with January 6 committee</a> CNN: Former Trump White House Chief of Staff Mark Meadows did not appear in person for a deposition on Friday in front of the House select committee investigating January 6, setting up a potential showdown that could lead to the panel beginning a criminal referral process against him. 
  <p class="updated_time"> 04:09 PM CT, Nov. 12 </p> 
  <a href="https://www.politico.com/news/2021/11/12/steve-bannon-indicted-for-defying-jan-6-committee-investigation-521177">Steve Bannon indicted for defying Jan. 6 committee investigation</a> Politico: The Justice Department has charged the former top adviser to Trump for refusing to provide documents and testimony to investigators probing the Capitol attack. 
  <p class="updated_time"> 04:03 PM CT, Nov. 12 </p> 
@@ -256,8 +262,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/12/us/politics/murkowski-re-election-bid.html">Murkowski Announces Re-election Bid, Setting Up Clash With Trump</a> NYT: Of the seven Republicans who found former President Donald J. Trump guilty in his second impeachment trial, the Alaska senator is the only one facing re-election this year. 
  <p class="updated_time"> 02:19 PM CT, Nov. 12 </p> 
  <a href="https://www.cnn.com/2021/11/12/politics/house-committee-cdc-covid-trump-administration-response/index.html">New evidence shows Trump administration interfered with CDC during Covid-19 pandemic</a> CNN: The House Select Subcommittee on the Coronavirus Crisis released to CNN on Friday new evidence showing how US Centers for Disease Control and Prevention officials were pressured by Trump administration officials to alter scientific guidance and prevented from communicating directly with the public. 
- <p class="updated_time"> 02:12 PM CT, Nov. 12 </p> 
- <a href="https://www.cnn.com/2021/11/12/politics/mark-meadows-january-6-deposition/index.html">Mark Meadows did not appear for deposition with January 6 committee</a> CNN: Former Trump White House Chief of Staff Mark Meadows did not appear in person for a deposition on Friday in front of the House select committee investigating January 6, setting up a potential showdown that could lead to the panel beginning a criminal referral process against him. 
  <p class="updated_time"> 02:09 PM CT, Nov. 12 </p> 
  <a href="https://www.politico.com/news/2021/11/12/virtual-biden-xi-summit-521147">Virtual Biden-Xi summit set for Monday</a> Politico: The summit will be virtual because Xi is declining invitations to attend all events outside China. 
  <p class="updated_time"> 01:42 PM CT, Nov. 12 </p> 
@@ -272,8 +276,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/12/politics/paul-gosar-censure-resolution-introduced/index.html">House Democrats introduce resolution censuring Rep. Gosar for video depicting violence against Ocasio-Cortez and Biden</a> CNN: House Democrats plan to introduce a resolution Friday to censure Arizona Republican Rep. Paul Gosar for posting a photoshopped anime video to his Twitter and Instagram accounts showing him appearing to kill Democratic Rep. Alexandria Ocasio-Cortez and attacking President Joe Biden. 
  <p class="updated_time"> 01:00 PM CT, Nov. 12 </p> 
  <a href="https://www.politico.com/news/2021/11/12/trump-cdc-covid-521128">Emails reveal new details of Trump White House interference in CDC Covid planning</a> Politico: The documents released by the committee lay out a timeline for how the Trump White House began to downplay the dangers posed by Covid-19. 
- <p class="updated_time"> 12:51 PM CT, Nov. 12 </p> 
- <a href="https://www.cnn.com/2021/11/12/politics/biden-admin-ethiopia-eritrea-sanctions/index.html">Biden administration sanctions Eritrean military, ruling party over role in northern Ethiopia conflict</a> CNN: The Biden administration sanctioned Eritrea's military and sole political party for their involvement in the ongoing crisis in northern Ethiopia. 
  <p class="updated_time"> 12:34 PM CT, Nov. 12 </p> 
  <a href="https://www.npr.org/2021/11/12/1055057907/remembering-max-cleland-former-georgia-senator-and-vietnam-veteran">Remembering Max Cleland, former Georgia senator and Vietnam veteran</a> NPR: Cleland was a decorated Army veteran who lost three limbs while serving in Vietnam. After the the war, he dedicated his life to public service. He died Nov. 9. Originally broadcast in 2009. 
  <p class="updated_time"> 12:08 PM CT, Nov. 12 </p> 
