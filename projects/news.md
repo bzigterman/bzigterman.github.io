@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:36 AM CT, Nov. 12 </p> 
+ <a href="https://www.nytimes.com/2021/11/11/world/europe/migrants-poland-belarus-lukashenko.html">Migrants in Peril, and Raw Emotions, in a Volatile European Border Standoff</a> NYT: A confrontation over migrants between Belarus and Poland is growing more volatile, as nationalist fervor rises in both countries and a humanitarian disaster looms. 
  <p class="updated_time"> 02:17 AM CT, Nov. 12 </p> 
  <a href="https://www.bbc.co.uk/sport/football/59256408?at_medium=RSS&at_campaign=KARANGA">Aminata Diallo: Paris St-Germain midfielder released by police without charge</a> BBC: Paris St-Germain midfielder Aminata Diallo is released without charge by French police investigating an attack on her PSG team-mate Kheira Hamraoui. 
  <p class="updated_time"> 02:14 AM CT, Nov. 12 </p> 
@@ -35,8 +37,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/11/t-magazine/scorched-burnt-rice.html">The Thrilling Dare of Scorched Rice</a> NYT: When browned on the bottom of the pot by a skilled cook, the grain is transformed into a complex delicacy, one prized by food cultures around the world. 
  <p class="updated_time"> 11:06 PM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/t-magazine/mexico-rice-conquest.html">Tracing Mexico’s Complicated Relationship With Rice</a> NYT: Having arrived in the country via the Spanish Conquest, the grain’s presence poses the question: What’s native, and what isn’t, when it comes to a nation’s culinary history? 
- <p class="updated_time"> 10:37 PM CT, Nov. 11 </p> 
- <a href="https://www.nytimes.com/2021/11/11/world/europe/migrants-poland-belarus-lukashenko.html">Migrants in Peril, and Raw Emotions, in a Volatile European Border Standoff</a> NYT: A confrontation over migrants between Belarus and Poland is growing more volatile, as nationalist fervor rises in both countries and a humanitarian disaster looms. 
  <p class="updated_time"> 10:02 PM CT, Nov. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59229935?at_medium=RSS&at_campaign=KARANGA">China's Xi Jinping cements his status with historic resolution</a> BBC: Mr Xi is only the third leader to issue a "historical resolution" after Mao Zedong and Deng Xiaoping. 
  <p class="updated_time"> 09:56 PM CT, Nov. 11 </p> 
@@ -442,10 +442,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/huddle/2021/11/05/here-goes-the-house-spending-and-infrastructure-votes-teed-up-494996">Here goes the House: spending and infrastructure votes tee’d up</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 05:19 AM CT, Nov. 05 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/05/lets-try-this-again-494993">POLITICO Playbook: Let’s try this again</a> Politico: And there’s a second grand jury in the Trump Organization case in Manhattan. 
- <p class="updated_time"> 03:30 AM CT, Nov. 05 </p> 
- <a href="https://www.politico.com/news/2021/11/05/pelosi-dems-final-push-519607">Pelosi tries to rev House Dems after season in the ditch</a> Politico: "There’s a point where you've got to stop talking," Rep. Peter Welch (D-Vt.) said. But can the House get there? 
- <p class="updated_time"> 03:30 AM CT, Nov. 05 </p> 
- <a href="https://www.politico.com/news/2021/11/05/kyrsten-sinema-multi-level-marketing-labor-519661">Sinema’s raking in cash from MLMs. They want to kill her party’s labor bill.</a> Politico: The Arizona senator is one of just a few lawmakers that multilevel marketing businesses —often derided as pyramid schemes — are giving to. 
 
 
 </details>
