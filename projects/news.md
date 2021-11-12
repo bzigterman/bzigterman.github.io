@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:54 AM CT, Nov. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59258112?at_medium=RSS&at_campaign=KARANGA">Danny Fenster: Myanmar court gives US journalist 11 years jail</a> BBC: A Myanmar military court sentences US journalist Danny Fenster to 11 years in jail. 
  <p class="updated_time"> 02:41 AM CT, Nov. 12 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59221790?at_medium=RSS&at_campaign=KARANGA">COP26: New draft climate deal steps up call for urgent action</a> BBC: It softens commitments on fossil fuels but requires governments to take action urgently. 
  <p class="updated_time"> 02:36 AM CT, Nov. 12 </p> 
@@ -17,8 +19,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/12/1055027411/a-u-s-journalist-is-sentenced-to-11-years-in-jail-by-a-court-in-myanmar">A U.S. journalist is sentenced to 11 years in jail by a court in Myanmar</a> NPR: A court in military-ruled Myanmar sentenced journalist Danny Fenster to 11 years in prison after finding him guilty on several charges, including incitement for allegedly spreading false information. 
  <p class="updated_time"> 01:19 AM CT, Nov. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59256927?at_medium=RSS&at_campaign=KARANGA">Poland border: West condemns Belarus at UN over stranded migrants</a> BBC: EU nations, the US and UK say Belarus is putting migrants' lives in danger for political purposes. 
- <p class="updated_time"> 01:12 AM CT, Nov. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59258112?at_medium=RSS&at_campaign=KARANGA">Danny Fenster: Myanmar court gives US journalist 11 years jail</a> BBC: A Myanmar military court sentences US journalist Danny Fenster to 11 years in jail. 
  <p class="updated_time"> 01:00 AM CT, Nov. 12 </p> 
  <a href="https://www.bbc.co.uk/news/uk-59247795?at_medium=RSS&at_campaign=KARANGA">COP26: Fear of failure on final day, and just how green was summit?</a> BBC: Five things you need to know about COP26 - the United Nations climate change conference - on Friday. 
  <p class="updated_time"> 12:59 AM CT, Nov. 12 </p> 
