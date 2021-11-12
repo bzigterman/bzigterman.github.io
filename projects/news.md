@@ -216,8 +216,16 @@ permalink: /projects/news/
 
  <p class="updated_time"> 05:00 AM CT, Nov. 12 </p> 
  <a href="https://www.politico.com/news/2021/11/12/jeff-flake-manu-raju-cat-mouse-520990">CNN's Manu Raju vs. Jeff Flake: Cat and mouse</a> Politico: On this episode of Playbook Deep Dive, we chase the people who chase lawmakers and tag along for the hide-and-seek between Congress and the media, and the daily challenge of covering the Hill. 
+ <p class="updated_time"> 05:00 AM CT, Nov. 12 </p> 
+ <a href="https://www.politico.com/news/2021/11/12/jeff-flake-manu-raju-cat-mouse-520990">CNN's Manu Raju vs. Jeff Flake: Cat and mouse</a> Politico: On this episode of Playbook Deep Dive, we chase the people who chase lawmakers and tag along for the hide-and-seek between Congress and the media, and the daily challenge of covering the Hill. 
  <p class="updated_time"> 04:30 AM CT, Nov. 12 </p> 
  <a href="https://www.politico.com/news/2021/11/12/mccarthys-bumpy-ride-to-the-speakership-520670">Kevin McCarthy’s made the right GOP moves. He still has to fight for the gavel.</a> Politico: Will he glide to the speakership or have a white-knuckle ride? The size of next year's Republican gains could make the difference. 
+ <p class="updated_time"> 04:30 AM CT, Nov. 12 </p> 
+ <a href="https://www.politico.com/news/2021/11/12/mccarthys-bumpy-ride-to-the-speakership-520670">Kevin McCarthy’s made the right GOP moves. He still has to fight for the gavel.</a> Politico: Will he glide to the speakership or have a white-knuckle ride? The size of next year's Republican gains could make the difference. 
+ <p class="updated_time"> 04:30 AM CT, Nov. 12 </p> 
+ <a href="https://www.politico.com/news/2021/11/12/chris-christie-donald-trump-president-2024-521006">Christie’s calculus: Trump is ‘in the rearview mirror’</a> Politico: The former New Jersey governor is mounting a de facto exploratory bid for president and it’s put him on a collision course with his one-time ally. 
+ <p class="updated_time"> 04:08 AM CT, Nov. 12 </p> 
+ <a href="https://www.npr.org/2021/11/12/1055030223/the-fbi-arrests-a-key-contributor-to-efforts-trying-to-link-trump-with-russia">The FBI arrests a key contributor to efforts trying to link Trump with Russia</a> NPR: News groups are revisiting their coverage of allegations against candidate and then President Trump, after a Russian analyst, a key source for the Steele Dossier, was charged with lying to the FBI. 
  <p class="updated_time"> 04:00 AM CT, Nov. 12 </p> 
  <a href="https://www.npr.org/2021/11/12/1054889820/a-bill-to-study-reparations-for-slavery-had-momentum-in-congress-but-still-no-vo">A bill to study reparations for slavery had momentum in Congress, but still no vote</a> NPR: Legislation to create a commission to study reparations faces steep odds in the evenly divided Congress. Advocates say they want the House take up the bill, or for President Biden to act on his own. 
  <p class="updated_time"> 04:00 AM CT, Nov. 12 </p> 
@@ -254,8 +262,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/11/us/politics/facebook-political-ads.html">Facebook's Ad Policies Changed, but Political Campaigns Can Still Target You</a> NYT: Meta announced changes to its ad-targeting policies, but they will do little to stop campaigns from reaching specific voters. 
  <p class="updated_time"> 05:25 PM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/us/politics/project-veritas-journalism-political-spying.html">Project Veritas: Journalists or Political Spies? </a> NYT: Documents show how the conservative group worked with lawyers to gauge how far its deceptive reporting practices could go before running afoul of federal laws. 
- <p class="updated_time"> 05:17 PM CT, Nov. 11 </p> 
- <a href="https://www.politico.com/news/2021/11/11/us-europe-climate-pledges-developing-countries-520968">Emerging economies spar with U.S. over ‘carbon colonialism’</a> Politico: The group of developing countries, which includes China and India, slammed the effort by U.S. climate envoy John Kerry and European negotiators for countries to conduct the reviews of their climate initiatives more often. 
  <p class="updated_time"> 05:16 PM CT, Nov. 11 </p> 
  <a href="https://www.politico.com/news/2021/11/11/republicans-wrestle-infrastructure-backlash-520956">‘I hope it’s a fever that will break’: GOP wrestles with infrastructure vote backlash</a> Politico: ‘Some elements of the party keep finding new ways to define Republicanism,’ says one longtime GOP lobbyist and strategist. 
  <p class="updated_time"> 05:16 PM CT, Nov. 11 </p> 
@@ -270,10 +276,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/10/us/politics/republicans-backlash-infrastructure-bill.html">13 Republicans Face Backlash for Backing Infrastructure Bill</a> NYT: The 13 Republican lawmakers who broke with their party to support a $1 trillion bipartisan public works bill have drawn anger and threats from their colleagues and constituents. 
  <p class="updated_time"> 04:45 PM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/us/politics/republicans-infrastructure-bill.html">Illinois Republican Lawmakers at Odds on Infrastructure Bill</a> NYT: Representative Darin LaHood voted against the infrastructure bill while Representative Adam Kinzinger supported it. The split reflects the Republican Party’s post-Trump era of uncertainty. 
- <p class="updated_time"> 04:42 PM CT, Nov. 11 </p> 
- <a href="https://www.politico.com/news/2021/11/11/appeals-court-jan-6-committee-trump-white-house-records-520952">Appeals court slows Jan. 6 committee’s effort to access Trump White House records</a> Politico: The National Archives had been preparing to deliver the documents on Friday, but the three-judge panel will instead hear arguments in the matter on Nov. 30. 
- <p class="updated_time"> 04:41 PM CT, Nov. 11 </p> 
- <a href="https://www.politico.com/news/2021/11/11/dems-white-house-biden-520946">Dems to White House: The only prescription is more Biden</a> Politico: The president has been more a facilitator than manager of the legislative process. His party wants more of the latter. 
  <p class="updated_time"> 04:39 PM CT, Nov. 11 </p> 
  <a href="https://www.cnn.com/2021/11/11/politics/jerome-powell-joe-biden/index.html">Powell seen as the frontrunner to be Biden's pick for Federal Reserve chair as he nears a decision</a> CNN: President Joe Biden is nearing a decision on his choice for Federal Reserve chair, with observers inside and outside the administration viewing incumbent Jerome Powell as the front-runner for another term. 
  <p class="updated_time"> 04:04 PM CT, Nov. 11 </p> 
@@ -304,8 +306,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/11/biden-administration-armed-drones-indonesia-520888">Biden administration wrestles with selling armed drones to Indonesia</a> Politico: The country's human rights abuses, and past purchases of Russian equipment, are among the concerns in Washington. 
  <p class="updated_time"> 12:38 PM CT, Nov. 11 </p> 
  <a href="https://www.cnn.com/2021/11/11/politics/reparations-movement-race-deconstructed-newsletter/index.html">Reparations legislation has slowed down in Washington. But at the state and local level, initiatives are ramping up</a> CNN: A version of this story appeared in CNN's Race Deconstructed newsletter. To get it in your inbox every week, sign up for free here. 
- <p class="updated_time"> 12:23 PM CT, Nov. 11 </p> 
- <a href="https://www.politico.com/news/2021/11/11/wall-street-democrats-tax-buybacks-520880">A $124B tax increase? Wall Street shrugs.</a> Politico: Analysts say they expect total buybacks this year to approach levels unseen since shortly after Republicans slashed the corporate tax rate as part of their 2017 tax cuts. 
  <p class="updated_time"> 12:22 PM CT, Nov. 11 </p> 
  <a href="https://www.npr.org/2021/11/11/1054764083/vp-harris-in-paris-says-infrastructure-and-spending-bills-will-help-cut-poverty">VP Harris, in Paris, says infrastructure and spending bills will help cut poverty</a> NPR: In a speech to a group of world leaders gathered in Paris, Harris focused on inequality, saying the Biden administration's plans will help bridge economic gaps in America. 
  <p class="updated_time"> 12:01 PM CT, Nov. 11 </p> 
@@ -362,6 +362,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/10/climate/climate-cop26-glasgow.html">China and the United States Join in Seeking Emissions Cuts</a> NYT: As nearly 200 nations struggle over global climate negotiations, the world’s two biggest polluters sign an agreement, but it was short on details. 
  <p class="updated_time"> 07:02 PM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/world/europe/france-kamala-harris-macron.html">Harris Meets Macron, Signaling a ‘New Era’ After Sub Snub, Both Say</a> NYT: In her vague assignment abroad, the vice president seems to be emphasizing that the U.S.-France relationship is about looking forward, in the wake of an embarrassing diplomatic spat. 
+ <p class="updated_time"> 06:43 PM CT, Nov. 10 </p> 
+ <a href="https://www.politico.com/news/2021/11/10/us-china-climate-talks-cooperation-520686">U.S. and China step to forefront as climate talks near end game</a> Politico: The pair moved closer to something resembling an agreement on Wednesday, issuing a joint statement of principles for climate cooperation. 
  <p class="updated_time"> 05:53 PM CT, Nov. 10 </p> 
  <a href="https://www.politico.com/news/2021/11/10/rent-inflation-biden-520642">Biden’s next inflation threat: The rent is too damn high</a> Politico: The Biden administration has vowed to address the home affordability crisis in the U.S., but policies are still in development and will likely have a limited impact. 
  <p class="updated_time"> 05:22 PM CT, Nov. 10 </p> 
@@ -384,8 +386,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/10/soaring-inflation-stalks-bidens-economy-520613">Is the West Wing out of touch? Corporate execs call on White House to fight inflation.</a> Politico: “I don’t think the administration is on top of it at all,” said the CEO of one of the U.S.’s largest companies. 
  <p class="updated_time"> 03:29 PM CT, Nov. 10 </p> 
  <a href="https://www.npr.org/2021/11/10/1054428115/white-house-economic-adviser-weighs-in-on-the-inflation-spike-and-spending-plan">White House economic adviser weighs in on the inflation spike and spending plan</a> NPR: NPR's Ailsa Chang talks with White House economic adviser Brian Deese as inflation soars to its highest in 30 years. 
- <p class="updated_time"> 03:29 PM CT, Nov. 10 </p> 
- <a href="https://www.npr.org/2021/11/10/1054024084/capitol-riot-suspects-had-more-ties-to-oath-keepers-than-previously-known">Capitol riot suspects had more ties to Oath Keepers than previously known</a> NPR: NPR has identified previously undisclosed connections between the far-right anti-government group the Oath Keepers and defendants charged in connection with the Jan. 6 Capitol riot. 
  <p class="updated_time"> 02:40 PM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/us/politics/pac-operator-charges.html">Three Men Charged With Running ‘Scam PACs’ That Bilked Small Donors</a> NYT: The Justice Department said the three men defrauded donors of $3.5 million, including through robocalls that impersonated former President Donald J. Trump. 
  <p class="updated_time"> 02:21 PM CT, Nov. 10 </p> 
@@ -404,6 +404,10 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/10/schumer-billions-new-york-public-housing-520519">Schumer scores billions for New York's decaying public housing</a> Politico: The jockeying over the housing funds is one of many emerging sources of political tension surrounding President Joe Biden's bill. 
  <p class="updated_time"> 04:30 AM CT, Nov. 10 </p> 
  <a href="https://www.politico.com/news/2021/11/10/biden-vaccine-mandates-va-mcdonough-520564">Biden called for widespread mandates. His VA is navigating its own minefields.</a> Politico: An overwhelming number of staff have gotten vaccinated. But a month after the deadline, at least ten percent of a 380,000 health care workforce still haven’t. 
+ <p class="updated_time"> 12:26 AM CT, Nov. 10 </p> 
+ <a href="https://www.politico.com/news/2021/11/10/jan6-shaman-sentencing-recommendation-520570">51-month sentence urged for ‘QAnon Shaman’ Jacob Chansley</a> Politico: “Defendant Chansley’s now-famous criminal acts have made him the public face of the Capitol riot,” prosecutors said. 
+ <p class="updated_time"> 09:29 PM CT, Nov. 09 </p> 
+ <a href="https://www.politico.com/news/2021/11/09/trump-executive-privilege-court-ruling-kings-520512">Trump cannot shield White House records from Jan. 6 committee, judge rules</a> Politico: “Presidents are not kings, and Plaintiff is not President,” Judge Tanya Chutkan wrote. 
  <p class="updated_time"> 07:23 PM CT, Nov. 09 </p> 
  <a href="https://www.politico.com/news/2021/11/09/chris-sununu-new-hampshire-gov-senate-520533">Sununu announcement act rubs top Republicans the wrong way</a> Politico: The New Hampshire governor not only blindsided the Senate GOP, he plugged his own presidential prospects. 
  <p class="updated_time"> 06:13 PM CT, Nov. 09 </p> 
