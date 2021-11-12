@@ -216,6 +216,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:37 PM CT, Nov. 12 </p> 
+ <a href="https://www.nytimes.com/2021/11/12/us/politics/bannon-indicted.html">Bannon Indicted on Contempt Charges Over House’s Capitol Riot Inquiry</a> NYT: Stephen K. Bannon, a former top aide to Donald Trump, had refused to comply with subpoenas from the House committee investigating the Jan. 6 attack on Congress. 
  <p class="updated_time"> 04:36 PM CT, Nov. 12 </p> 
  <a href="https://www.cnn.com/2021/11/12/politics/steve-bannon-indicted/index.html">Federal grand jury indicts Steve Bannon for contempt of Congress</a> CNN: A federal grand jury has returned an indictment against former Trump adviser Steve Bannon, CNN has learned. 
  <p class="updated_time"> 04:33 PM CT, Nov. 12 </p> 
@@ -224,8 +226,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/12/us/politics/in-france-kamala-harris-asserts-herself-as-a-diplomatic-asset.html">In France, Kamala Harris Asserts Herself as a Diplomatic Asset</a> NYT: The vice president met with President Emmanuel Macron of France, skirting recent U.S.-French tensions, and immersed herself in issues like Libya and cybersecurity. 
  <p class="updated_time"> 04:27 PM CT, Nov. 12 </p> 
  <a href="https://www.cnn.com/2021/11/12/politics/trump-lawsuits-michael-cohen-summer-zervos/index.html">Trump scores legal wins with one lawsuit dropped and another dismissed</a> CNN: Former President Donald Trump scored two big legal victories Friday and avoided having to sit for a deposition in a defamation lawsuit after former "Apprentice" contestant Summer Zervos agreed to drop her claims, according to a court filing, and a New York judge granted Trump's motion to dismiss a 2019 lawsuit filed by his former personal attorney Michael Cohen against the Trump Organization. 
- <p class="updated_time"> 04:27 PM CT, Nov. 12 </p> 
- <a href="https://www.nytimes.com/2021/11/12/us/politics/bannon-indicted.html">Bannon Indicted on Contempt Charges Over House’s Capitol Riot Inquiry</a> NYT: Stephen K. Bannon, a former top aide to Donald Trump, had refused to comply with subpoenas from the House committee investigating the Jan. 6 attack on Congress. 
  <p class="updated_time"> 04:19 PM CT, Nov. 12 </p> 
  <a href="https://www.cnn.com/2021/11/12/politics/mark-meadows-january-6-deposition/index.html">Mark Meadows did not appear for deposition with January 6 committee</a> CNN: Former Trump White House Chief of Staff Mark Meadows did not appear in person for a deposition on Friday in front of the House select committee investigating January 6, setting up a potential showdown that could lead to the panel beginning a criminal referral process against him. 
  <p class="updated_time"> 04:09 PM CT, Nov. 12 </p> 
@@ -396,14 +396,14 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/11/politics/joe-biden-inflation-messaging/index.html">Biden changes his tone and walks a delicate line on inflation</a> CNN: Rising consumer prices have quickly become one of the White House's most urgent concerns as Americans grow unsettled at the higher cost of goods -- and place the blame on President Joe Biden. 
  <p class="updated_time"> 04:30 AM CT, Nov. 11 </p> 
  <a href="https://www.politico.com/news/2021/11/11/bidens-voters-recovery-conundrum-520771">Biden's ‘I feel your pain’ conundrum</a> Politico: It’s tripped up the last two Democratic presidents and could trip up Biden too: How to sell a recovery when most voters aren’t feeling it. 
- <p class="updated_time"> 09:48 PM CT, Nov. 10 </p> 
- <a href="https://www.cnn.com/2021/11/10/politics/belarus-follow-up-sanctions/index.html">White House preparing 'follow up' sanctions on Belarus</a> CNN: The United States is preparing "follow up sanctions" designed to hold leaders in Belarus accountable for "ongoing attacks on democracy, human rights and international norms," a spokesman for the White House's National Security Council said on Wednesday. 
  <p class="updated_time"> 06:28 PM CT, Nov. 10 </p> 
  <a href="https://www.cnn.com/2021/11/10/politics/biden-baltimore-port-infrastructure/index.html">'It's worrisome': Biden addresses inflation concerns during Baltimore speech</a> CNN: President Joe Biden takes his sales pitch for the newly passed bipartisan infrastructure deal on the road Wednesday, highlighting the effect of the bill on supply chains, hours after new inflation statistics revealed that America's prices are surging more than they have in 30 years. 
  <p class="updated_time"> 05:53 PM CT, Nov. 10 </p> 
  <a href="https://www.politico.com/news/2021/11/10/rent-inflation-biden-520642">Biden’s next inflation threat: The rent is too damn high</a> Politico: The Biden administration has vowed to address the home affordability crisis in the U.S., but policies are still in development and will likely have a limited impact. 
  <p class="updated_time"> 04:51 PM CT, Nov. 10 </p> 
  <a href="https://www.cnn.com/2021/11/10/politics/infrastructure-bill-signing/index.html">Biden to hold signing ceremony on Monday for bipartisan infrastructure bill </a> CNN: President Joe Biden will sign the bipartisan infrastructure bill on Monday during a ceremony that will include members of Congress, governors and mayors from both parties, the White House announced on Wednesday. 
+ <p class="updated_time"> 04:47 PM CT, Nov. 10 </p> 
+ <a href="https://www.cnn.com/2021/11/10/politics/burr-sec/index.html">Sen. Burr's brother-in-law ordered to provide testimony in SEC insider trading investigation</a> CNN: A federal judge has ordered Sen. Richard Burr's brother-in-law to answer questions from the Securities and Exchange Commission, allowing the regulator to advance its investigation into their stock sales. 
  <p class="updated_time"> 10:13 AM CT, Nov. 10 </p> 
  <a href="https://www.cnn.com/2021/11/10/politics/joe-biden-inflation/index.html">Biden on inflation report: 'Reversing this trend is a top priority for me'</a> CNN: President Joe Biden said Wednesday that inflation statistics showing America's prices are surging more than they have in 30 years are proof that there is "more work to do before our economy is back to normal." 
  <p class="updated_time"> 08:12 AM CT, Nov. 10 </p> 
