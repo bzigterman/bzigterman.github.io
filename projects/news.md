@@ -216,10 +216,14 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:29 PM CT, Nov. 12 </p> 
+ <a href="https://www.politico.com/news/2021/11/12/jen-psaki-returns-to-work-covid-19-521130">Press Secretary Jen Psaki returns to work after Covid-19</a> Politico: "I remain incredibly grateful for the vaccine for keeping me safe and other people in my house safe as well," she said. 
  <p class="updated_time"> 02:09 PM CT, Nov. 12 </p> 
  <a href="https://www.politico.com/news/2021/11/12/virtual-biden-xi-summit-521147">Virtual Biden-Xi summit set for Monday</a> Politico: The summit will be virtual because Xi is declining invitations to attend all events outside China. 
  <p class="updated_time"> 01:42 PM CT, Nov. 12 </p> 
  <a href="https://www.politico.com/news/2021/11/12/russia-ukraine-invasion-putin-521139">U.S. huddles with allies over possible Russian invasion of Ukraine</a> Politico: The uptick in American concern, confirmed by two U.S. officials, indicates that President Joe Biden’s efforts to reach some sort of equilibrium with Putin are running out of steam. 
+ <p class="updated_time"> 01:34 PM CT, Nov. 12 </p> 
+ <a href="https://www.nytimes.com/2021/11/12/us/politics/republican-violent-rhetoric.html">Menace, as a Political Tool, Enters the Republican Mainstream</a> NYT: Threats of violence have become commonplace among a significant part of the party, as historians and those who study democracy warn of a dark shift in American politics. 
  <p class="updated_time"> 01:21 PM CT, Nov. 12 </p> 
  <a href="https://www.cnn.com/2021/11/12/politics/january-6-defendant-pleaded-guilty-molotov-cocktails-guns/index.html">Man who brought Molotov cocktails to DC on January 6 pleads guilty</a> CNN: A January 6 defendant pleaded guilty on Friday to bringing Molotov cocktails and an unlicensed gun to Capitol Hill on the day of the insurrection. 
  <p class="updated_time"> 01:18 PM CT, Nov. 12 </p> 
@@ -228,12 +232,10 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/12/politics/florida-congressional-seat-alcee-hastings-primary/index.html">Overseas and military ballots likely will determine who wins Florida primary for late Alcee Hastings' seat</a> CNN: The fate of a South Florida congressional district will likely be decided Friday by a handful of overseas and military ballots after a manual recount left the race too close to call. 
  <p class="updated_time"> 01:11 PM CT, Nov. 12 </p> 
  <a href="https://www.cnn.com/2021/11/12/politics/paul-gosar-censure-resolution-introduced/index.html">House Democrats introduce resolution censuring Rep. Gosar for video depicting violence against Ocasio-Cortez and Biden</a> CNN: House Democrats plan to introduce a resolution Friday to censure Arizona Republican Rep. Paul Gosar for posting a photoshopped anime video to his Twitter and Instagram accounts showing him appearing to kill Democratic Rep. Alexandria Ocasio-Cortez and attacking President Joe Biden. 
- <p class="updated_time"> 01:09 PM CT, Nov. 12 </p> 
- <a href="https://www.nytimes.com/2021/11/12/us/politics/republican-violent-rhetoric.html">Menace, as a Political Tool, Enters the Republican Mainstream</a> NYT: Threats of violence have become commonplace among a significant part of the party, as historians and those who study democracy warn of a dark shift in American politics. 
  <p class="updated_time"> 01:00 PM CT, Nov. 12 </p> 
  <a href="https://www.politico.com/news/2021/11/12/trump-cdc-covid-521128">Emails reveal new details of Trump White House interference in CDC COVID planning</a> Politico: The documents released by the committee lay out a timeline for how the Trump White House began to downplay the dangers posed by Covid-19. 
  <p class="updated_time"> 12:57 PM CT, Nov. 12 </p> 
- <a href="https://www.cnn.com/2021/11/12/politics/house-committee-cdc-covid-trump-administration-response/index.html">House committee releases new evidence from investigation into Trump administration interference with CDC during Covid-19 pandemic</a> CNN: The House Select Subcommittee on the Coronavirus Crisis released to CNN on Friday new evidence showing how US Centers for Disease Control and Prevention officials were pressured by Trump administration officials to alter scientific guidance and prevented from communicating directly with the public. 
+ <a href="https://www.cnn.com/2021/11/12/politics/house-committee-cdc-covid-trump-administration-response/index.html">New evidence shows Trump administration interfered with CDC during Covid-19 pandemic</a> CNN: The House Select Subcommittee on the Coronavirus Crisis released to CNN on Friday new evidence showing how US Centers for Disease Control and Prevention officials were pressured by Trump administration officials to alter scientific guidance and prevented from communicating directly with the public. 
  <p class="updated_time"> 12:51 PM CT, Nov. 12 </p> 
  <a href="https://www.cnn.com/2021/11/12/politics/biden-admin-ethiopia-eritrea-sanctions/index.html">Biden administration sanctions Eritrean military, ruling party over role in northern Ethiopia conflict</a> CNN: The Biden administration sanctioned Eritrea's military and sole political party for their involvement in the ongoing crisis in northern Ethiopia. 
  <p class="updated_time"> 12:34 PM CT, Nov. 12 </p> 
@@ -243,7 +245,7 @@ permalink: /projects/news/
  <p class="updated_time"> 11:51 AM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/us/politics/biden-china-xi-jinping.html">Biden and China’s Xi Will Hold Virtual Summit on Monday</a> NYT: The leaders of the world’s two largest economies confront tensions over trade, cyberthreats, the climate, Taiwan and human rights. 
  <p class="updated_time"> 11:41 AM CT, Nov. 12 </p> 
- <a href="https://www.cnn.com/2021/11/12/politics/november-child-tax-credit-payment/index.html">Next child tax credit payments set to go out Monday</a> CNN: The latest round of monthly child tax credit payments is scheduled to be distributed to tens of millions of families on Monday. And it could be the next-to-last one unless Congress acts. 
+ <a href="https://www.cnn.com/2021/11/12/politics/november-child-tax-credit-payment/index.html">The next child tax credit payment could be the second-to-last one</a> CNN: The latest round of monthly child tax credit payments is scheduled to be distributed to tens of millions of families on Monday. And it could be the next-to-last one unless Congress acts. 
  <p class="updated_time"> 11:40 AM CT, Nov. 12 </p> 
  <a href="https://www.npr.org/2021/11/12/1055096462/lawyer-for-mark-meadows-says-courts-will-have-to-resolve-jan-6-panel-dispute">Lawyer for Mark Meadows says courts will have to resolve Jan. 6 panel dispute</a> NPR: Meadows may be looking to the courts for relief, but his path sets him up on a collision course with the House. 
  <p class="updated_time"> 11:40 AM CT, Nov. 12 </p> 
@@ -272,6 +274,8 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/12/politics/lisa-murkowski-alaska-reelection/index.html">GOP Sen. Lisa Murkowski of Alaska announces reelection bid</a> CNN: GOP Sen. Lisa Murkowski of Alaska announced her bid Friday for reelection in a race that's sure to be tough for the moderate Republican who has been a strong critic of former President Donald Trump. 
  <p class="updated_time"> 08:52 AM CT, Nov. 12 </p> 
  <a href="https://www.cnn.com/2021/11/12/politics/kamala-harris-paris/index.html">Harris says she did not discuss submarine deal with Macron during Paris meeting</a> CNN: Vice President Kamala Harris said she did not discuss with French President Emmanuel Macron the surprise deal between the US and Australia to develop nuclear submarines that angered the French, leading to a fallout between the longstanding allies. 
+ <p class="updated_time"> 08:50 AM CT, Nov. 12 </p> 
+ <a href="https://www.politico.com/news/2021/11/12/biden-poised-to-nominate-califf-as-fda-chief-521060">Biden nominates Califf as FDA chief</a> Politico: The selection ends the administration's lengthy search for a permanent FDA commissioner. 
  <p class="updated_time"> 08:48 AM CT, Nov. 12 </p> 
  <a href="https://www.politico.com/news/2021/11/12/julian-assange-given-permission-to-marry-partner-in-prison-521032">Julian Assange given permission to marry partner in prison</a> Politico: Assange and Moris made their relationship public in April 2020 and had applied to prison authorities for permission to wed. 
  <p class="updated_time"> 08:43 AM CT, Nov. 12 </p> 
@@ -326,8 +330,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/12/nyregion/aoc-infrastructure-bill-vote.html">Ocasio-Cortez Isn’t Wavering. Are New Yorkers on Her Side?</a> NYT: By voting no on the infrastructure bill, Representative Alexandria Ocasio-Cortez set off a fierce debate, including among city residents eager to see the subways improved. 
  <p class="updated_time"> 11:19 PM CT, Nov. 11 </p> 
  <a href="https://www.cnn.com/2021/11/12/politics/donald-trump-january-6-committee/index.html">Analysis: The absurd logic of Trump's bid to defy the January 6 committee </a> CNN: Ex-President Donald Trump is planting his flag on a logical absurdity in his transparent bid to run out the clock on the January 6 investigation and avoid accountability for his unprecedented bid to steal power in a coup. 
- <p class="updated_time"> 10:59 PM CT, Nov. 11 </p> 
- <a href="https://www.politico.com/news/2021/11/11/ohio-senate-jewish-campaign-ad-mandel-521007">‘But he’s Jewish’: Opponent questions Mandel’s faith in Ohio Senate primary debate</a> Politico: The Republican Senate frontrunner was targeted earlier in an ad criticizing him for courting evangelical Christians. 
  <p class="updated_time"> 10:10 PM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/us/politics/biden-veterans-day.html">Biden Marks First Veterans Day in Two Decades Without Troops in Active Combat</a> NYT: President Biden, who ended the 20-year conflict in Afghanistan this summer, called veterans the “soul of America.” 
  <p class="updated_time"> 08:23 PM CT, Nov. 11 </p> 
@@ -362,8 +364,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/11/1054837174/federal-appeals-court-temporarily-halts-trump-document-release-to-jan-6-panel">Federal appeals court temporarily halts Trump document release to Jan. 6 panel</a> NPR: The National Archives was due to deliver a first tranche of documents to the Democratic-led House panel on Friday. 
  <p class="updated_time"> 03:19 PM CT, Nov. 11 </p> 
  <a href="https://www.npr.org/2021/11/11/1054884091/how-other-countries-at-cop26-view-american-leadership-and-climate-promises">How other countries at COP26 view American leadership and climate promises</a> NPR: President Biden has declared the U.S. is back as a leader in combatting disastrous climate change. But after years of unfulfilled pledges, how do other countries view American leadership and promises? 
- <p class="updated_time"> 02:48 PM CT, Nov. 11 </p> 
- <a href="https://www.politico.com/news/2021/11/11/kyle-rittenhouse-trial-kenosha-520901">Expert at Rittenhouse trial zeroes in on just a few minutes</a> Politico: The defense has suggested to the jury that the relevant timeframe for determining whether Rittenhouse’s use of force was reasonable consists of just a few minutes around the shootings. 
  <p class="updated_time"> 02:46 PM CT, Nov. 11 </p> 
  <a href="https://www.cnn.com/2021/11/11/politics/trumps-legal-woes/index.html">Trump's legal woes multiply post-presidency </a> CNN: The Trump Organization could lose the keys to an 18-hole public golf course with views of the Manhattan skyline in the coming weeks, making it another likely casualty to stem from former President Donald Trump's actions on January 6 before rioters stormed the US Capitol. 
  <p class="updated_time"> 01:31 PM CT, Nov. 11 </p> 
@@ -442,8 +442,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/11/06/how-biden-and-pelosi-saved-bif-495005">POLITICO Playbook: How Biden and Pelosi saved BIF</a> Politico: And President Joe Biden secures the biggest win of his presidency so far. 
  <p class="updated_time"> 10:30 PM CT, Nov. 05 </p> 
  <a href="https://www.politico.com/news/2021/11/05/house-infrastructure-bill-519796">House ships $550B infrastructure legislation to Biden’s desk after months of delay</a> Politico: Only 13 House Republicans voted for the bill, alongside all but 6 Democrats. 
- <p class="updated_time"> 02:35 PM CT, Nov. 05 </p> 
- <a href="https://www.politico.com/news/2021/11/05/house-democrats-infrastructure-vote-wait-megabill-519731">'Whole day was a clusterf---': Dems overcome distrust to send infrastructure bill to Biden</a> Politico: Democratic centrists and progressives reached a detente that cleared the $550 billion bipartisan legislation late Friday night and advanced their social spending package. 
 
 
 </details>
