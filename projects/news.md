@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:48 AM CT, Nov. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59258409?at_medium=RSS&at_campaign=KARANGA">Covid: Dutch set for partial lockdown as infections surge</a> BBC: The measures are expected to last three weeks, while Austria plans a lockdown for the unvaccinated. 
  <p class="updated_time"> 11:41 AM CT, Nov. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59266211?at_medium=RSS&at_campaign=KARANGA">French teenage jogger admits lying about kidnap escape</a> BBC: The 17-year-old had claimed she escaped her kidnappers, in a case that has gripped France. 
  <p class="updated_time"> 11:41 AM CT, Nov. 12 </p> 
@@ -37,6 +39,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/12/world/europe/julian-assange-stella-moris-marriage.html">Julian Assange Will Marry Stella Moris in London Prison</a> NYT: The WikiLeaks founder, who is battling extradition to the United States on espionage charges, has been granted permission to marry Stella Moris in the London prison where he has been held since 2019. 
  <p class="updated_time"> 09:46 AM CT, Nov. 12 </p> 
  <a href="https://www.npr.org/2021/11/12/1055055724/in-a-first-u-n-climate-agreement-could-include-the-words-coal-and-fossil-fuels">In a first, U.N. climate agreement could include the words 'coal' and 'fossil fuels'</a> NPR: The U.N. Secretary-General warns the main goal of limiting global warming is "on life support." But Glasgow negotiators are making modest progress in their final hours. 
+ <p class="updated_time"> 09:29 AM CT, Nov. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/technology-59262329?at_medium=RSS&at_campaign=KARANGA">US President Joe Biden tightens restrictions on Huawei and ZTE</a> BBC: A new law stops companies judged to be a security threat receiving telecoms equipment licences. 
  <p class="updated_time"> 09:26 AM CT, Nov. 12 </p> 
  <a href="https://www.npr.org/2021/11/12/1055045794/julian-assange-wins-permission-to-get-married-while-in-a-london-prison">Julian Assange wins permission to marry his partner in a London prison</a> NPR: The WikiLeaks founder and attorney Stella Moris began a relationship after Assange took refuge in the Ecuadorian Embassy in London in 2012. They have two sons together. 
  <p class="updated_time"> 09:25 AM CT, Nov. 12 </p> 
@@ -51,8 +55,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/sections/pictureshow/2021/11/12/1054032730/photography-climate-change-global-warming-oceans-vlad-sokhin">Their lands are oceans apart but are linked by rising, warming seas of climate change</a> NPR: Photographer Vlad Sokhin's latest work, Warm Waters, is an exploration of climate change traveling across 18 countries and off-the-map territories seen by seldom few. 
  <p class="updated_time"> 07:03 AM CT, Nov. 12 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59221790?at_medium=RSS&at_campaign=KARANGA">COP26: Coal compromise as leaders near climate deal</a> BBC: All countries must agree on the new deal as negotiators at COP26 enter the summit's final hours. 
- <p class="updated_time"> 06:59 AM CT, Nov. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59258409?at_medium=RSS&at_campaign=KARANGA">Covid: Dutch set for partial lockdown as infections surge</a> BBC: The measures are expected to last three weeks, while Austria plans a lockdown for the unvaccinated. 
  <p class="updated_time"> 06:58 AM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/arts/design/badiucao-brescia-china.html">The Show Goes On, Even After China Tried to Shut It Down</a> NYT: An Italian city rejected a request from the Chinese Embassy in Rome to cancel an exhibition by Badiucao, an artist who has been described as the Chinese Banksy. 
  <p class="updated_time"> 06:55 AM CT, Nov. 12 </p> 
@@ -89,6 +91,8 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/world-leaders-pressure-libya-to-hold-elections-on-time-11636699373">World Leaders Pressure Libya to Hold Elections on Time</a> WSJ: Vice President Kamala Harris and other world leaders are gathering to make a diplomatic push in support of elections in Libya that could make or break the peace process in a country that has been torn apart by war and political crisis for a decade. 
  <p class="updated_time"> 02:09 AM CT, Nov. 12 </p> 
  <a href="https://www.npr.org/2021/11/12/1055027411/a-u-s-journalist-is-sentenced-to-11-years-in-jail-by-a-court-in-myanmar">A U.S. journalist is sentenced to 11 years in jail by a court in Myanmar</a> NPR: A court in military-ruled Myanmar sentenced journalist Danny Fenster to 11 years in prison after finding him guilty on several charges, including incitement for allegedly spreading false information. 
+ <p class="updated_time"> 01:43 AM CT, Nov. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/business-59229996?at_medium=RSS&at_campaign=KARANGA">Japanese giant Toshiba announces breakup plan</a> BBC: The conglomerate has come under increasing pressure from activist investors to reform. 
  <p class="updated_time"> 01:24 AM CT, Nov. 12 </p> 
  <a href="https://www.bbc.co.uk/news/stories-59255218?at_medium=RSS&at_campaign=KARANGA">Ron Jeremy: Porn star's accusers speak out for first time</a> BBC: Some of his accusers speak for the first time of their alleged experiences. He denies all charges. 
  <p class="updated_time"> 01:00 AM CT, Nov. 12 </p> 
@@ -113,16 +117,14 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/11/t-magazine/scorched-burnt-rice.html">The Thrilling Dare of Scorched Rice</a> NYT: When browned on the bottom of the pot by a skilled cook, the grain is transformed into a complex delicacy, one prized by food cultures around the world. 
  <p class="updated_time"> 11:06 PM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/t-magazine/mexico-rice-conquest.html">Tracing Mexico’s Complicated Relationship With Rice</a> NYT: Having arrived in the country via the Spanish Conquest, the grain’s presence poses the question: What’s native, and what isn’t, when it comes to a nation’s culinary history? 
- <p class="updated_time"> 10:02 PM CT, Nov. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-59229935?at_medium=RSS&at_campaign=KARANGA">China's Xi Jinping cements his status with historic resolution</a> BBC: Mr Xi is only the third leader to issue a "historical resolution" after Mao Zedong and Deng Xiaoping. 
  <p class="updated_time"> 09:46 PM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/world/europe/glasgow-garbage-strike.html">Outside COP26, Trash in Glasgow Piles High</a> NYT: At COP26, delegates address the need to curb emissions and mass consumption to save the planet while the reality of today’s throwaway society is all too apparent nearby. 
+ <p class="updated_time"> 08:54 PM CT, Nov. 11 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59257006?at_medium=RSS&at_campaign=KARANGA">US Olympian Sunisa Lee 'pepper sprayed in racist attack'</a> BBC: Gold medallist Sunisa Lee says the suspects also shouted slurs at her during the incident in Los Angeles. 
  <p class="updated_time"> 08:46 PM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/world/asia/india-pollution-yamuna-chhath.html">On Delhi’s Toxic River, Prayers to a Sun Struggling to Shine Through Smog</a> NYT: Every year, a four-day festival to the sun god Surya highlights the Indian city’s extreme air and water pollution, with a river so filled with foam it resembles a blizzard’s aftermath. 
  <p class="updated_time"> 08:27 PM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/world/asia/zuo-fang-dead.html">Zuo Fang, a Founder of China's Southern Weekly, is Dead</a> NYT: When he helped start Southern Weekly, he charted a course for a freer era for the country’s press, which later became increasingly constrained by Beijing. 
- <p class="updated_time"> 07:20 PM CT, Nov. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59257003?at_medium=RSS&at_campaign=KARANGA">Capitol riot: Court temporarily blocks release of Trump files</a> BBC: Files chased by the Capitol riot inquiry will not be released until an appeals court hears the case. 
  <p class="updated_time"> 07:10 PM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/world/asia/xi-jinping-china-third-term.html">China's Xi Jingping Secures Political Future By Rewriting Past</a> NYT: Senior party officials have gathered at a closed-door meeting in Beijing to cement Mr. Xi’s dominance as he moves to claim a likely third term next year as China’s leader. 
  <p class="updated_time"> 06:40 PM CT, Nov. 11 </p> 
@@ -159,8 +161,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/11/1054884091/how-other-countries-at-cop26-view-american-leadership-and-climate-promises">How other countries at COP26 view American leadership and climate promises</a> NPR: President Biden has declared the U.S. is back as a leader in combatting disastrous climate change. But after years of unfulfilled pledges, how do other countries view American leadership and promises? 
  <p class="updated_time"> 02:52 PM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/world/americas/bolsonaro-trump-brazil-election.html">Trump Allies Help Bolsonaro Sow Doubt in Brazil's Elections</a> NYT: With his poll numbers falling, President Jair Bolsonaro is already questioning the legitimacy of next year’s election. He has help from the United States. 
- <p class="updated_time"> 02:01 PM CT, Nov. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59252717?at_medium=RSS&at_campaign=KARANGA">Memorial: Russia moves to close major human rights group</a> BBC: The group say that prosecutors have accused it of violating a law on foreign agents. 
  <p class="updated_time"> 01:56 PM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/world/middleeast/saudi-court-execution-crime.html">Saudi Court Blocks Execution of Man Convicted of Crime Committed at 14</a> NYT: Rights groups said the death sentence for Abdullah al-Huwaiti ran contrary to the kingdom’s claimed legal reforms. Now he’ll be retried. 
  <p class="updated_time"> 01:52 PM CT, Nov. 11 </p> 
@@ -220,14 +220,14 @@ permalink: /projects/news/
 
  <p class="updated_time"> 12:08 PM CT, Nov. 12 </p> 
  <a href="https://www.politico.com/news/2021/11/12/for-2nd-straight-month-americans-quit-jobs-at-a-record-pace-521116">For 2nd straight month, Americans quit jobs at a record pace</a> Politico: The figures point to a historic level of turmoil in the job market as newly-empowered workers quit jobs to take higher pay that is being dangled by businesses in need of help 
+ <p class="updated_time"> 11:51 AM CT, Nov. 12 </p> 
+ <a href="https://www.nytimes.com/2021/11/12/us/politics/biden-china-xi-summit.html">Biden and China’s Xi Will Hold Virtual Summit on Monday</a> NYT: The leaders of the world’s two largest economies confront tensions over trade, cyberthreats, the climate, Taiwan and human rights. 
  <p class="updated_time"> 11:41 AM CT, Nov. 12 </p> 
  <a href="https://www.cnn.com/2021/11/12/politics/november-child-tax-credit-payment/index.html">Next child tax credit payments set to go out Monday</a> CNN: The latest round of monthly child tax credit payments is scheduled to be distributed to tens of millions of families on Monday. And it could be the next-to-last one unless Congress acts. 
  <p class="updated_time"> 11:40 AM CT, Nov. 12 </p> 
  <a href="https://www.npr.org/2021/11/12/1055096462/lawyer-for-mark-meadows-says-courts-will-have-to-resolve-jan-6-panel-dispute">Lawyer for Mark Meadows says courts will have to resolve Jan. 6 panel dispute</a> NPR: Meadows may be looking to the courts for relief, but his path sets him up on a collision course with the House. 
  <p class="updated_time"> 11:40 AM CT, Nov. 12 </p> 
- <a href="https://www.npr.org/2021/11/12/1055143924/biden-nominates-former-commissioner-robert-califf-to-again-lead-fda">Biden nominates former commissioner Robert Califf to again lead FDA</a> NPR: The Food and Drug Administration has been without a permanent leader since President Biden took office in January. Califf led the agency during the last year of the Obama Administration. 
- <p class="updated_time"> 11:33 AM CT, Nov. 12 </p> 
- <a href="https://www.nytimes.com/2021/11/12/us/politics/biden-china-xi-summit.html">Biden and China’s Xi Will Hold Virtual Summit on Monday</a> NYT: The leaders of the world’s two largest economies confront tensions over trade, cyberthreats, the climate, Taiwan and human rights. 
+ <a href="https://www.npr.org/2021/11/12/1055143924/biden-nominates-former-commissioner-robert-califf-to-again-lead-fda">Biden nominates former commissioner Robert Califf to again lead FDA</a> NPR: The Food and Drug Administration has been without a permanent leader since President Biden took office in January. Califf led the agency during the last year of the Obama administration. 
  <p class="updated_time"> 11:22 AM CT, Nov. 12 </p> 
  <a href="https://www.politico.com/news/2021/11/12/myanmar-court-sentences-us-journalist-to-11-years-in-jail-521109">Myanmar court sentences U.S. journalist to 11 years in jail</a> Politico: Danny Fenster, managing editor Frontier Myanmar, is still facing additional charges under which he could receive up to life in prison. 
  <p class="updated_time"> 11:16 AM CT, Nov. 12 </p> 
@@ -241,7 +241,7 @@ permalink: /projects/news/
  <p class="updated_time"> 11:08 AM CT, Nov. 12 </p> 
  <a href="https://www.cnn.com/2021/11/12/politics/joe-manchin-relationship-progressives/index.html">As Biden agenda hinges on Manchin, House progressives look to 'deescalate' tension</a> CNN: Soon after Missouri Rep. Cori Bush accused Sen. Joe Manchin of espousing an "anti-Black, anti-child, anti-woman and anti-immigrant" position, another House progressive was on national TV with a sharply different message. 
  <p class="updated_time"> 11:05 AM CT, Nov. 12 </p> 
- <a href="https://www.nytimes.com/2021/11/12/us/politics/murkowski-announces-re-election-bid-setting-up-clash-with-trump.html">Murkowski Announces Re-election Bid, Setting up Clash With Trump</a> NYT: Of the seven Republicans who found former President Donald J. Trump guilty in his second impeachment trial, the Alaska senator is the only one facing re-election this year. 
+ <a href="https://www.nytimes.com/2021/11/12/us/politics/murkowski-re-election-bid.html">Murkowski Announces Re-election Bid, Setting up Clash With Trump</a> NYT: Of the seven Republicans who found former President Donald J. Trump guilty in his second impeachment trial, the Alaska senator is the only one facing re-election this year. 
  <p class="updated_time"> 10:54 AM CT, Nov. 12 </p> 
  <a href="https://www.cnn.com/2021/11/12/politics/rob-califf-fda-commissioner/index.html">Biden picks Dr. Rob Califf as FDA commissioner</a> CNN: President Joe Biden will nominate Dr. Rob Califf, a longtime cardiologist, to be the next commissioner of the Food and Drug Administration, a role Califf previously held during the Obama administration. 
  <p class="updated_time"> 10:46 AM CT, Nov. 12 </p> 
