@@ -216,12 +216,16 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 01:42 PM CT, Nov. 12 </p> 
+ <a href="https://www.politico.com/news/2021/11/12/russia-ukraine-invasion-putin-521139">U.S. huddles with allies over possible Russian invasion of Ukraine</a> Politico: The uptick in American concern, confirmed by two U.S. officials, indicates that President Joe Biden’s efforts to reach some sort of equilibrium with Putin are running out of steam. 
+ <p class="updated_time"> 01:09 PM CT, Nov. 12 </p> 
+ <a href="https://www.nytimes.com/2021/11/12/us/politics/republican-violent-rhetoric.html">Menace, as a Political Tool, Enters the Republican Mainstream</a> NYT: Threats of violence have become commonplace among a significant part of the party, as historians and those who study democracy warn of a dark shift in American politics. 
  <p class="updated_time"> 01:00 PM CT, Nov. 12 </p> 
  <a href="https://www.politico.com/news/2021/11/12/trump-cdc-covid-521128">Emails reveal new details of Trump White House interference in CDC COVID planning</a> Politico: The documents released by the committee lay out a timeline for how the Trump White House began to downplay the dangers posed by Covid-19. 
+ <p class="updated_time"> 12:57 PM CT, Nov. 12 </p> 
+ <a href="https://www.cnn.com/2021/11/12/politics/house-committee-cdc-covid-trump-administration-response/index.html">House committee releases new evidence from investigation into Trump administration interference with CDC during Covid-19 pandemic</a> CNN: The House Select Subcommittee on the Coronavirus Crisis released to CNN on Friday new evidence showing how US Centers for Disease Control and Prevention officials were pressured by Trump administration officials to alter scientific guidance and prevented from communicating directly with the public. 
  <p class="updated_time"> 12:51 PM CT, Nov. 12 </p> 
  <a href="https://www.cnn.com/2021/11/12/politics/biden-admin-ethiopia-eritrea-sanctions/index.html">Biden administration sanctions Eritrean military, ruling party over role in northern Ethiopia conflict</a> CNN: The Biden administration sanctioned Eritrea's military and sole political party for their involvement in the ongoing crisis in northern Ethiopia. 
- <p class="updated_time"> 12:40 PM CT, Nov. 12 </p> 
- <a href="https://www.cnn.com/2021/11/12/politics/house-committee-cdc-covid-trump-administration-response/index.html">House committee releases new evidence from investigation into Trump administration interference with CDC during Covid-19 pandemic</a> CNN: The House Select Subcommittee on the Coronavirus Crisis released to CNN on Friday new evidence showing how US Centers for Disease Control and Prevention officials were pressured by Trump administration officials to alter scientific guidance and prevented from communicating directly with the public. 
  <p class="updated_time"> 12:34 PM CT, Nov. 12 </p> 
  <a href="https://www.npr.org/2021/11/12/1055057907/remembering-max-cleland-former-georgia-senator-and-vietnam-veteran">Remembering Max Cleland, former Georgia senator and Vietnam veteran</a> NPR: Cleland was a decorated Army veteran who lost three limbs while serving in Vietnam. After the the war, he dedicated his life to public service. He died Nov. 9. Originally broadcast in 2009. 
  <p class="updated_time"> 12:08 PM CT, Nov. 12 </p> 
@@ -258,8 +262,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/12/politics/lisa-murkowski-alaska-reelection/index.html">GOP Sen. Lisa Murkowski of Alaska announces reelection bid</a> CNN: GOP Sen. Lisa Murkowski of Alaska announced her bid Friday for reelection in a race that's sure to be tough for the moderate Republican who has been a strong critic of former President Donald Trump. 
  <p class="updated_time"> 08:52 AM CT, Nov. 12 </p> 
  <a href="https://www.cnn.com/2021/11/12/politics/kamala-harris-paris/index.html">Harris says she did not discuss submarine deal with Macron during Paris meeting</a> CNN: Vice President Kamala Harris said she did not discuss with French President Emmanuel Macron the surprise deal between the US and Australia to develop nuclear submarines that angered the French, leading to a fallout between the longstanding allies. 
- <p class="updated_time"> 08:50 AM CT, Nov. 12 </p> 
- <a href="https://www.politico.com/news/2021/11/12/biden-poised-to-nominate-califf-as-fda-chief-521060">Biden nominates Califf as FDA chief</a> Politico: The move would bring the Obama-era official back for a second tour atop the agency. 
  <p class="updated_time"> 08:48 AM CT, Nov. 12 </p> 
  <a href="https://www.politico.com/news/2021/11/12/julian-assange-given-permission-to-marry-partner-in-prison-521032">Julian Assange given permission to marry partner in prison</a> Politico: Assange and Moris made their relationship public in April 2020 and had applied to prison authorities for permission to wed. 
  <p class="updated_time"> 08:43 AM CT, Nov. 12 </p> 
@@ -320,8 +322,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/11/ohio-senate-jewish-campaign-ad-mandel-521007">‘But he’s Jewish’: Opponent questions Mandel’s faith in Ohio Senate primary debate</a> Politico: The Republican Senate frontrunner was targeted earlier in an ad criticizing him for courting evangelical Christians. 
  <p class="updated_time"> 10:10 PM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/us/politics/biden-veterans-day.html">Biden Marks First Veterans Day in Two Decades Without Troops in Active Combat</a> NYT: President Biden, who ended the 20-year conflict in Afghanistan this summer, called veterans the “soul of America.” 
- <p class="updated_time"> 08:54 PM CT, Nov. 11 </p> 
- <a href="https://www.politico.com/news/2021/11/11/millionaires-tax-cut-dems-plan-521004">Most millionaires could get tax cut under House Dems' tax plan</a> Politico: About two-thirds of people making more than $1 million would see a tax cut next year averaging $16,800, the Tax Policy Center said Thursday. 
  <p class="updated_time"> 08:23 PM CT, Nov. 11 </p> 
  <a href="https://www.npr.org/sections/coronavirus-live-updates/2021/11/11/1054959986/states-lawsuit-biden-administration-covid-vaccine-mandate-health-workers">10 states sue Biden administration over COVID vaccine mandate for health care workers</a> NPR: The state attorneys general argue the vaccine mandate will lead to shortages of health care workers and could threaten the jobs of millions of their jobs. 
  <p class="updated_time"> 07:54 PM CT, Nov. 11 </p> 
@@ -402,8 +402,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/10/us/politics/russia-blinken-ukraine.html">Blinken Warns Russia Against Making a ‘Serious Mistake’ in Ukraine</a> NYT: Appearing with Ukraine’s foreign minister, Secretary of State Antony J. Blinken said the intentions behind Moscow’s latest military buildup were unclear. 
  <p class="updated_time"> 04:51 PM CT, Nov. 10 </p> 
  <a href="https://www.cnn.com/2021/11/10/politics/infrastructure-bill-signing/index.html">Biden to hold signing ceremony on Monday for bipartisan infrastructure bill </a> CNN: President Joe Biden will sign the bipartisan infrastructure bill on Monday during a ceremony that will include members of Congress, governors and mayors from both parties, the White House announced on Wednesday. 
- <p class="updated_time"> 02:40 PM CT, Nov. 10 </p> 
- <a href="https://www.nytimes.com/2021/11/10/us/politics/pac-operator-charges.html">Three Men Charged With Running ‘Scam PACs’ That Bilked Small Donors</a> NYT: The Justice Department said the three men defrauded donors of $3.5 million, including through robocalls that impersonated former President Donald J. Trump. 
  <p class="updated_time"> 08:12 AM CT, Nov. 10 </p> 
  <a href="https://www.cnn.com/2021/11/10/politics/biden-jj-covid-vaccine-conflict-zones/index.html">Biden administration announces deal to provide J&J Covid-19 vaccine to people in conflict zones and humanitarian settings</a> CNN: The Biden administration will announce on Wednesday a new deal it brokered with Johnson & Johnson and Covax to provide J&J's Covid-19 vaccine to people in conflict zones and other humanitarian settings where government vaccine campaigns cannot reach, a White House official told CNN. 
  <p class="updated_time"> 07:21 AM CT, Nov. 10 </p> 
