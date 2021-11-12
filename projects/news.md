@@ -7,8 +7,10 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
- <p class="updated_time"> 07:27 AM CT, Nov. 12 </p> 
+ <p class="updated_time"> 07:46 AM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/live/2021/11/12/world/belarus-poland-border-migrants">Live Updates: Airlines Limit Flights to Belarus to Slow Flow of Migrants to E.U. Borders</a> NYT: With thousands stranded on the border between Poland and Belarus, Russia sent conflicting signals. The Kremlin says it will not allow Belarus to disrupt the flow of natural gas to Europe. At the same time, Moscow flexed its military might in a show of support for its ally. 
+ <p class="updated_time"> 07:42 AM CT, Nov. 12 </p> 
+ <a href="https://www.nytimes.com/2021/11/12/world/asia/hong-kong-rthk-crackdown-china.html">RTHK’s Swift Turn From Maverick Voice to Official Mouthpiece</a> NYT: RTHK has often set the news agenda with its aggressive coverage of the city. But a Beijing clampdown has changed that, with pro-China coverage filling the void. 
  <p class="updated_time"> 07:17 AM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/world/europe/covid-germany-tests.html">Germany Will Again Offer Free Covid Tests to All Adults</a> NYT: Officials hope that identifying infections earlier can help stop a recent surge in cases. 
  <p class="updated_time"> 07:09 AM CT, Nov. 12 </p> 
@@ -39,8 +41,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/12/world/europe/covid-netherlands-lockdown.html">Netherlands Looks to Partial Lockdown as Covid Cases Rise</a> NYT: The country is experiencing rising case numbers amid a fourth wave of infections. 
  <p class="updated_time"> 04:33 AM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/world/africa/de-klerk-apartheid-south-africa.html">For Some South Africans, de Klerk Missed Chances for True Reconciliation</a> NYT: The last white president of South Africa helped bring an end to the apartheid regime, but for many citizens, he never went far enough to disavow it. He left a video apologizing. 
- <p class="updated_time"> 04:00 AM CT, Nov. 12 </p> 
- <a href="https://www.nytimes.com/2021/11/12/world/asia/hong-kong-rthk-crackdown-china.html">Hong Kong Broadcaster’s Swift Turn From Maverick Voice to Official Mouthpiece</a> NYT: RTHK has often set the news agenda with its aggressive coverage of the city. But a Beijing clampdown has changed that, with pro-China coverage filling the void. 
  <p class="updated_time"> 03:58 AM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/11/world/europe/austria-chancellor-lockdown-unvaccinated.html">Austria Weighs a Lockdown for Unvaccinated People</a> NYT: The country’s case rate has more than doubled since late October. 
  <p class="updated_time"> 03:31 AM CT, Nov. 12 </p> 
@@ -214,12 +214,14 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:39 AM CT, Nov. 12 </p> 
+ <a href="https://www.politico.com/news/2021/11/12/russia-kremlin-ukraine-nato-threats-521031">Kremlin denies plans to invade Ukraine, alleges NATO threats</a> Politico: Ukraine complained last week that Russia has kept tens of thousands of troops not far from the two countries' borders. 
+ <p class="updated_time"> 07:44 AM CT, Nov. 12 </p> 
+ <a href="https://www.cnn.com/2021/11/12/politics/trump-pence-threats-january-6/index.html">Trump defends threats to Pence on January 6 in new audio</a> CNN: Former President Donald Trump appeared to defend the threats made against then-Vice President Mike Pence during the January 6 insurrection in a new audio recording released Wednesday. 
  <p class="updated_time"> 07:43 AM CT, Nov. 12 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/11/12/could-mccarthy-win-the-gavel-495084">Could McCarthy win the gavel?</a> Politico: A play-by-play preview of the day&#39;s congressional news 
- <p class="updated_time"> 07:07 AM CT, Nov. 12 </p> 
- <a href="https://www.cnn.com/2021/11/12/politics/trump-pence-threats-january-6/index.html">Trump defends threats to Pence on January 6 in new audio</a> CNN: Former President Donald Trump appeared to defend the threats made against then-Vice President Mike Pence during the January 6 insurrection in a new audio recording released Wednesday. 
  <p class="updated_time"> 06:55 AM CT, Nov. 12 </p> 
- <a href="https://www.politico.com/news/2021/11/12/murkowski-announces-reelection-bid-521011">Murkowski announces reelection bid</a> Politico: Former President Donald Trump has already endorsed her Republican primary opponent. 
+ <a href="https://www.politico.com/news/2021/11/12/murkowski-announces-reelection-bid-521011">Facing Trump's opposition, Murkowski hits gas on reelection</a> Politico: Former President Donald Trump has already endorsed her Republican primary opponent. 
  <p class="updated_time"> 06:49 AM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/11/business/economy/biden-inflation.html">Biden Says Spending Bill Will Slow Inflation. But When?</a> NYT: The Biden administration has argued that its infrastructure and broader economic package will slow rapid price increases. But that will take time. 
  <p class="updated_time"> 06:25 AM CT, Nov. 12 </p> 
@@ -286,8 +288,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/11/us/politics/facebook-political-ads.html">Facebook's Ad Policies Changed, but Political Campaigns Can Still Target You</a> NYT: Meta announced changes to its ad-targeting policies, but they will do little to stop campaigns from reaching specific voters. 
  <p class="updated_time"> 05:25 PM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/us/politics/project-veritas-journalism-political-spying.html">Project Veritas: Journalists or Political Spies? </a> NYT: Documents show how the conservative group worked with lawyers to gauge how far its deceptive reporting practices could go before running afoul of federal laws. 
- <p class="updated_time"> 05:17 PM CT, Nov. 11 </p> 
- <a href="https://www.politico.com/news/2021/11/11/us-europe-climate-pledges-developing-countries-520968">Emerging economies spar with U.S. over ‘carbon colonialism’</a> Politico: The group of developing countries, which includes China and India, slammed the effort by U.S. climate envoy John Kerry and European negotiators for countries to conduct the reviews of their climate initiatives more often. 
  <p class="updated_time"> 05:16 PM CT, Nov. 11 </p> 
  <a href="https://www.politico.com/news/2021/11/11/republicans-wrestle-infrastructure-backlash-520956">‘I hope it’s a fever that will break’: GOP wrestles with infrastructure vote backlash</a> Politico: ‘Some elements of the party keep finding new ways to define Republicanism,’ says one longtime GOP lobbyist and strategist. 
  <p class="updated_time"> 05:16 PM CT, Nov. 11 </p> 
