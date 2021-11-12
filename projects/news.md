@@ -7,10 +7,12 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:04 PM CT, Nov. 12 </p> 
+ <a href="https://www.nytimes.com/live/2021/11/12/world/belarus-poland-border-migrants">Live Updates: Provocative Rhetoric and Military Moves Raise Tension at Belarus-Poland Border</a> NYT: Airlines have agreed to curb the flow into Belarus of migrants hoping to reach the European Union. As threats and accusations fly, there are troop buildups on both sides. 
+ <p class="updated_time"> 01:55 PM CT, Nov. 12 </p> 
+ <a href="https://www.nytimes.com/2021/11/11/world/africa/fw-de-klerk-dead.html">F.W. de Klerk, South Africa President Who Ended Apartheid, Dies at 85</a> NYT: A prominent Afrikaner, he defended the separation of the races before helping to dismantle that system, leading to his sharing the Nobel Peace Prize with Nelson Mandela. 
  <p class="updated_time"> 12:56 PM CT, Nov. 12 </p> 
  <a href="https://www.npr.org/sections/coronavirus-live-updates/2021/11/12/1055100209/europe-russia-covid-cases-surge-spike">Europe and Russia battle a new wave of COVID-19</a> NPR: More lockdowns are in the offing, as Germany and Austria shatter daily case counts and Russia has become become the world leader in new COVID-19 deaths. 
- <p class="updated_time"> 12:54 PM CT, Nov. 12 </p> 
- <a href="https://www.nytimes.com/live/2021/11/12/world/belarus-poland-border-migrants">Live Updates: Airlines Limit Flights to Belarus to Slow Flow of Migrants to E.U. Borders</a> NYT: With thousands stranded on the border between Poland and Belarus, Russia sent conflicting signals. The Kremlin says it will not allow Belarus to disrupt the flow of natural gas to Europe. At the same time, Moscow flexed its military might in a show of support for its ally. 
  <p class="updated_time"> 12:45 PM CT, Nov. 12 </p> 
  <a href="https://www.bbc.co.uk/news/57975275?at_medium=RSS&at_campaign=KARANGA">COP 26: How much are poor countries getting to fight climate change?</a> BBC: Are rich countries close to meeting their climate promises to the developing world? 
  <p class="updated_time"> 12:41 PM CT, Nov. 12 </p> 
@@ -82,7 +84,7 @@ permalink: /projects/news/
  <p class="updated_time"> 05:26 AM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/world/asia/china-zero-covid.html">China's 'Zero Covid' Efforts Come With a Cost</a> NYT: The Communist Party is making broad efforts to stamp out the disease entirely, but the measures come with costs. 
  <p class="updated_time"> 04:20 AM CT, Nov. 12 </p> 
- <a href="https://www.wsj.com/articles/europe-sees-a-new-type-of-war-accusing-belarus-of-weaponizing-migrants-11636724990">Europe Sees 'a New Type of War,' Accusing Belarus of Weaponizing Migrants</a> WSJ: European officials accuse Belarus of abetting human traffickers bringing migrants into their country and then of funneling the new arrivals toward the border in an effort to provoke a crisis—things Belarus denies. 
+ <a href="https://www.wsj.com/articles/europe-sees-a-new-type-of-war-accusing-belarus-of-weaponizing-migrants-11636724990">Europe Says Belarus Is Weaponizing Migrants in 'New Type of War'</a> WSJ: European officials accuse Belarus of abetting human traffickers bringing migrants into their country and then of funneling the new arrivals toward the border in an effort to provoke a crisis—things Belarus denies. 
  <p class="updated_time"> 04:08 AM CT, Nov. 12 </p> 
  <a href="https://www.npr.org/2021/11/12/1055030272/fossil-fuel-cop26-climate-change-glasgow">The fossil fuel industry turned out in force at COP26. So did climate activists  </a> NPR: More than 500 attendees from the fossil fuel industry are at the climate summit in Glasgow. Their reps have attended climate summits for decades. Some are touting a shift toward renewables. 
  <p class="updated_time"> 03:58 AM CT, Nov. 12 </p> 
@@ -137,8 +139,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59214544?at_medium=RSS&at_campaign=KARANGA">US women are being jailed for having miscarriages</a> BBC: More and more American women are facing prison for allegedly harming their unborn baby by using drugs. 
  <p class="updated_time"> 06:14 PM CT, Nov. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59246033?at_medium=RSS&at_campaign=KARANGA">At Iraq's election protest camp, militia supporters dig in</a> BBC: Tensions grow as defiant groups vow to stay put until election results are overturned. 
- <p class="updated_time"> 06:09 PM CT, Nov. 11 </p> 
- <a href="https://www.nytimes.com/2021/11/11/world/africa/fw-de-klerk-dead.html">F.W. de Klerk, South Africa President Who Ended Apartheid, Dies at 85</a> NYT: A prominent Afrikaner, he defended the separation of the races before helping to dismantle that system, leading to his sharing the Nobel Peace Prize with Nelson Mandela. 
  <p class="updated_time"> 06:04 PM CT, Nov. 11 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59205648?at_medium=RSS&at_campaign=KARANGA">Seven ways to curb climate change</a> BBC: What are the practical things countries need to do in order to tackle climate change? 
  <p class="updated_time"> 05:50 PM CT, Nov. 11 </p> 
@@ -235,7 +235,7 @@ permalink: /projects/news/
  <p class="updated_time"> 01:11 PM CT, Nov. 12 </p> 
  <a href="https://www.cnn.com/2021/11/12/politics/paul-gosar-censure-resolution-introduced/index.html">House Democrats introduce resolution censuring Rep. Gosar for video depicting violence against Ocasio-Cortez and Biden</a> CNN: House Democrats plan to introduce a resolution Friday to censure Arizona Republican Rep. Paul Gosar for posting a photoshopped anime video to his Twitter and Instagram accounts showing him appearing to kill Democratic Rep. Alexandria Ocasio-Cortez and attacking President Joe Biden. 
  <p class="updated_time"> 01:00 PM CT, Nov. 12 </p> 
- <a href="https://www.politico.com/news/2021/11/12/trump-cdc-covid-521128">Emails reveal new details of Trump White House interference in CDC COVID planning</a> Politico: The documents released by the committee lay out a timeline for how the Trump White House began to downplay the dangers posed by Covid-19. 
+ <a href="https://www.politico.com/news/2021/11/12/trump-cdc-covid-521128">Emails reveal new details of Trump White House interference in CDC Covid planning</a> Politico: The documents released by the committee lay out a timeline for how the Trump White House began to downplay the dangers posed by Covid-19. 
  <p class="updated_time"> 12:57 PM CT, Nov. 12 </p> 
  <a href="https://www.cnn.com/2021/11/12/politics/house-committee-cdc-covid-trump-administration-response/index.html">New evidence shows Trump administration interfered with CDC during Covid-19 pandemic</a> CNN: The House Select Subcommittee on the Coronavirus Crisis released to CNN on Friday new evidence showing how US Centers for Disease Control and Prevention officials were pressured by Trump administration officials to alter scientific guidance and prevented from communicating directly with the public. 
  <p class="updated_time"> 12:51 PM CT, Nov. 12 </p> 
@@ -255,7 +255,7 @@ permalink: /projects/news/
  <p class="updated_time"> 11:16 AM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/us/politics/robert-califf-fda.html">Biden Chooses Robert Califf to Lead F.D.A., Despite Drug Industry Ties</a> NYT: Dr. Robert M. Califf, an academic and clinical trial researcher who ran the agency in 2016, has also consulted for pharmaceutical companies. 
  <p class="updated_time"> 11:14 AM CT, Nov. 12 </p> 
- <a href="https://www.politico.com/news/2021/11/12/biden-asian-summit-offer-blocked-521103">Biden's bid to host Asian summit in U.S. is blocked</a> Politico: One former U.S. official said indications point to Russia as the likely suspect. 
+ <a href="https://www.politico.com/news/2021/11/12/biden-asian-summit-offer-blocked-521103">Russia suspected of blocking Biden's bid to host Asian summit</a> Politico: Failure to agree on Biden's offer to host risks jeopardizing U.S. support for the Asia-Pacific Economic Cooperation forum. 
  <p class="updated_time"> 11:08 AM CT, Nov. 12 </p> 
  <a href="https://www.npr.org/2021/11/12/1054242599/biden-and-xi-will-meet-virtually-on-monday-heres-whats-at-stake">Biden and Xi will meet (virtually) on Monday. Here's what's at stake</a> NPR: It's been more than two years since leaders of the United States and China met face-to-face. This meeting will be virtual, not in person, and comes at a time of high tensions. 
  <p class="updated_time"> 11:08 AM CT, Nov. 12 </p> 
