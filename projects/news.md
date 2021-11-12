@@ -222,6 +222,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/12/virtual-biden-xi-summit-521147">Virtual Biden-Xi summit set for Monday</a> Politico: The summit will be virtual because Xi is declining invitations to attend all events outside China. 
  <p class="updated_time"> 01:42 PM CT, Nov. 12 </p> 
  <a href="https://www.politico.com/news/2021/11/12/russia-ukraine-invasion-putin-521139">U.S. huddles with allies over possible Russian invasion of Ukraine</a> Politico: The uptick in American concern, confirmed by two U.S. officials, indicates that President Joe Biden’s efforts to reach some sort of equilibrium with Putin are running out of steam. 
+ <p class="updated_time"> 01:39 PM CT, Nov. 12 </p> 
+ <a href="https://www.nytimes.com/2021/11/12/us/politics/biden-china-xi-jinping.html">Biden and China’s Xi Will Hold Virtual Summit on Monday</a> NYT: The leaders of the world’s two largest economies confront tensions over trade, cyberthreats, the climate, Taiwan and human rights. 
  <p class="updated_time"> 01:34 PM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/us/politics/republican-violent-rhetoric.html">Menace, as a Political Tool, Enters the Republican Mainstream</a> NYT: Threats of violence have become commonplace among a significant part of the party, as historians and those who study democracy warn of a dark shift in American politics. 
  <p class="updated_time"> 01:21 PM CT, Nov. 12 </p> 
@@ -242,8 +244,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/12/1055057907/remembering-max-cleland-former-georgia-senator-and-vietnam-veteran">Remembering Max Cleland, former Georgia senator and Vietnam veteran</a> NPR: Cleland was a decorated Army veteran who lost three limbs while serving in Vietnam. After the the war, he dedicated his life to public service. He died Nov. 9. Originally broadcast in 2009. 
  <p class="updated_time"> 12:08 PM CT, Nov. 12 </p> 
  <a href="https://www.politico.com/news/2021/11/12/for-2nd-straight-month-americans-quit-jobs-at-a-record-pace-521116">For 2nd straight month, Americans quit jobs at a record pace</a> Politico: The figures point to a historic level of turmoil in the job market as newly-empowered workers quit jobs to take higher pay that is being dangled by businesses in need of help 
- <p class="updated_time"> 11:51 AM CT, Nov. 12 </p> 
- <a href="https://www.nytimes.com/2021/11/12/us/politics/biden-china-xi-jinping.html">Biden and China’s Xi Will Hold Virtual Summit on Monday</a> NYT: The leaders of the world’s two largest economies confront tensions over trade, cyberthreats, the climate, Taiwan and human rights. 
  <p class="updated_time"> 11:41 AM CT, Nov. 12 </p> 
  <a href="https://www.cnn.com/2021/11/12/politics/november-child-tax-credit-payment/index.html">The next child tax credit payment could be the second-to-last one</a> CNN: The latest round of monthly child tax credit payments is scheduled to be distributed to tens of millions of families on Monday. And it could be the next-to-last one unless Congress acts. 
  <p class="updated_time"> 11:40 AM CT, Nov. 12 </p> 
@@ -330,6 +330,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/12/nyregion/aoc-infrastructure-bill-vote.html">Ocasio-Cortez Isn’t Wavering. Are New Yorkers on Her Side?</a> NYT: By voting no on the infrastructure bill, Representative Alexandria Ocasio-Cortez set off a fierce debate, including among city residents eager to see the subways improved. 
  <p class="updated_time"> 11:19 PM CT, Nov. 11 </p> 
  <a href="https://www.cnn.com/2021/11/12/politics/donald-trump-january-6-committee/index.html">Analysis: The absurd logic of Trump's bid to defy the January 6 committee </a> CNN: Ex-President Donald Trump is planting his flag on a logical absurdity in his transparent bid to run out the clock on the January 6 investigation and avoid accountability for his unprecedented bid to steal power in a coup. 
+ <p class="updated_time"> 10:59 PM CT, Nov. 11 </p> 
+ <a href="https://www.politico.com/news/2021/11/11/ohio-senate-jewish-campaign-ad-mandel-521007">‘But he’s Jewish’: Opponent questions Mandel’s faith in Ohio Senate primary debate</a> Politico: The Republican Senate frontrunner was targeted earlier in an ad criticizing him for courting evangelical Christians. 
  <p class="updated_time"> 10:10 PM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/us/politics/biden-veterans-day.html">Biden Marks First Veterans Day in Two Decades Without Troops in Active Combat</a> NYT: President Biden, who ended the 20-year conflict in Afghanistan this summer, called veterans the “soul of America.” 
  <p class="updated_time"> 08:23 PM CT, Nov. 11 </p> 
