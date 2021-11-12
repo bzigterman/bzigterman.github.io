@@ -7,8 +7,12 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:04 PM CT, Nov. 12 </p> 
+ <p class="updated_time"> 02:17 PM CT, Nov. 12 </p> 
+ <a href="https://www.nytimes.com/2021/11/11/world/asia/zuo-fang-dead.html">Zuo Fang, a Founder of China's Southern Weekly, is Dead</a> NYT: When he helped start Southern Weekly, he charted a course for a freer era for the country’s press, which later became increasingly constrained by Beijing. 
+ <p class="updated_time"> 02:10 PM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/live/2021/11/12/world/belarus-poland-border-migrants">Live Updates: Provocative Rhetoric and Military Moves Raise Tension at Belarus-Poland Border</a> NYT: Airlines have agreed to curb the flow into Belarus of migrants hoping to reach the European Union. As threats and accusations fly, there are troop buildups on both sides. 
+ <p class="updated_time"> 02:10 PM CT, Nov. 12 </p> 
+ <a href="https://www.nytimes.com/2021/11/12/world/europe/threats-troop-buildup-war.html">Fears of Belarus-Poland Conflict Amid Provocative Words and Troop Moves</a> NYT: On both sides of the Belarus-Poland border, hyperbole and military exercises have raised fears of an armed conflict in Europe. 
  <p class="updated_time"> 01:55 PM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/11/world/africa/fw-de-klerk-dead.html">F.W. de Klerk, South Africa President Who Ended Apartheid, Dies at 85</a> NYT: A prominent Afrikaner, he defended the separation of the races before helping to dismantle that system, leading to his sharing the Nobel Peace Prize with Nelson Mandela. 
  <p class="updated_time"> 12:56 PM CT, Nov. 12 </p> 
@@ -131,8 +135,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59257006?at_medium=RSS&at_campaign=KARANGA">US Olympian Sunisa Lee 'pepper sprayed in racist attack'</a> BBC: Gold medallist Sunisa Lee says the suspects also shouted slurs at her during the incident in Los Angeles. 
  <p class="updated_time"> 08:46 PM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/world/asia/india-pollution-yamuna-chhath.html">On Delhi’s Toxic River, Prayers to a Sun Struggling to Shine Through Smog</a> NYT: Every year, a four-day festival to the sun god Surya highlights the Indian city’s extreme air and water pollution, with a river so filled with foam it resembles a blizzard’s aftermath. 
- <p class="updated_time"> 08:27 PM CT, Nov. 11 </p> 
- <a href="https://www.nytimes.com/2021/11/11/world/asia/zuo-fang-dead.html">Zuo Fang, a Founder of China's Southern Weekly, is Dead</a> NYT: When he helped start Southern Weekly, he charted a course for a freer era for the country’s press, which later became increasingly constrained by Beijing. 
  <p class="updated_time"> 07:10 PM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/world/asia/xi-jinping-china-third-term.html">China's Xi Jingping Secures Political Future By Rewriting Past</a> NYT: Senior party officials have gathered at a closed-door meeting in Beijing to cement Mr. Xi’s dominance as he moves to claim a likely third term next year as China’s leader. 
  <p class="updated_time"> 06:40 PM CT, Nov. 11 </p> 
@@ -197,8 +199,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/10/world/europe/knoll-france-murder.html">French Court Convicts Man in the Murder of a Holocaust Survivor</a> NYT: The man, Yacine Mihoub, was sentenced to life imprisonment for killing Mireille Knoll, 85, in 2018, which judges said was a hate crime motivated by the fact that she was Jewish. 
  <p class="updated_time"> 10:04 PM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/world/middleeast/israeli-covid-vaccine-children.html">Israeli Experts Approve Vaccinations for Children Ages 5 to 11 </a> NYT: Israel would become one of the first countries after the United States to authorize the Pfizer-BioNTech vaccine for children ages 5 to 11. 
- <p class="updated_time"> 10:02 PM CT, Nov. 10 </p> 
- <a href="https://www.nytimes.com/2021/11/10/world/pennsylvanias-school-mask-mandate.html">Pennsylvania Court Rejects Statewide School Mask Mandate</a> NYT: The judges said that the state’s acting health secretary had overstepped her authority in issuing the mandate, and that they were not taking a position on “the science or efficacy of mask-wearing.” 
  <p class="updated_time"> 07:25 PM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/climate/climate-cop26-glasgow.html">China and the United States Join in Seeking Emissions Cuts</a> NYT: As nearly 200 nations struggle over global climate negotiations, the world’s two biggest polluters sign an agreement, but it was short on details. 
  <p class="updated_time"> 07:02 PM CT, Nov. 10 </p> 
@@ -218,10 +218,18 @@ permalink: /projects/news/
 
  <p class="updated_time"> 02:29 PM CT, Nov. 12 </p> 
  <a href="https://www.politico.com/news/2021/11/12/jen-psaki-returns-to-work-covid-19-521130">Press Secretary Jen Psaki returns to work after Covid-19</a> Politico: "I remain incredibly grateful for the vaccine for keeping me safe and other people in my house safe as well," she said. 
+ <p class="updated_time"> 02:29 PM CT, Nov. 12 </p> 
+ <a href="https://www.nytimes.com/2021/11/12/us/politics/murkowski-re-election-bid.html">Murkowski Announces Re-election Bid, Setting Up Clash With Trump</a> NYT: Of the seven Republicans who found former President Donald J. Trump guilty in his second impeachment trial, the Alaska senator is the only one facing re-election this year. 
+ <p class="updated_time"> 02:19 PM CT, Nov. 12 </p> 
+ <a href="https://www.cnn.com/2021/11/12/politics/house-committee-cdc-covid-trump-administration-response/index.html">New evidence shows Trump administration interfered with CDC during Covid-19 pandemic</a> CNN: The House Select Subcommittee on the Coronavirus Crisis released to CNN on Friday new evidence showing how US Centers for Disease Control and Prevention officials were pressured by Trump administration officials to alter scientific guidance and prevented from communicating directly with the public. 
+ <p class="updated_time"> 02:12 PM CT, Nov. 12 </p> 
+ <a href="https://www.cnn.com/2021/11/12/politics/mark-meadows-january-6-deposition/index.html">Mark Meadows did not appear for deposition with January 6 committee</a> CNN: Former Trump White House Chief of Staff Mark Meadows did not appear in person for a deposition on Friday in front of the House select committee investigating January 6, setting up a potential showdown that could lead to the panel beginning a criminal referral process against him. 
  <p class="updated_time"> 02:09 PM CT, Nov. 12 </p> 
  <a href="https://www.politico.com/news/2021/11/12/virtual-biden-xi-summit-521147">Virtual Biden-Xi summit set for Monday</a> Politico: The summit will be virtual because Xi is declining invitations to attend all events outside China. 
  <p class="updated_time"> 01:42 PM CT, Nov. 12 </p> 
  <a href="https://www.politico.com/news/2021/11/12/russia-ukraine-invasion-putin-521139">U.S. huddles with allies over possible Russian invasion of Ukraine</a> Politico: The uptick in American concern, confirmed by two U.S. officials, indicates that President Joe Biden’s efforts to reach some sort of equilibrium with Putin are running out of steam. 
+ <p class="updated_time"> 01:40 PM CT, Nov. 12 </p> 
+ <a href="https://www.cnn.com/2021/11/12/politics/psaki-returns-white-house-covid/index.html">Jen Psaki returns to White House briefing room after testing positive for Covid-19</a> CNN: White House press secretary Jen Psaki returned to the White House briefing room Friday for the first time since testing positive for Covid-19, telling reporters she completed a 10-day quarantine and received a negative Covid-19 test on Thursday. 
  <p class="updated_time"> 01:39 PM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/us/politics/biden-china-xi-jinping.html">Biden and China’s Xi Will Hold Virtual Summit on Monday</a> NYT: The leaders of the world’s two largest economies confront tensions over trade, cyberthreats, the climate, Taiwan and human rights. 
  <p class="updated_time"> 01:34 PM CT, Nov. 12 </p> 
@@ -230,14 +238,10 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/12/politics/january-6-defendant-pleaded-guilty-molotov-cocktails-guns/index.html">Man who brought Molotov cocktails to DC on January 6 pleads guilty</a> CNN: A January 6 defendant pleaded guilty on Friday to bringing Molotov cocktails and an unlicensed gun to Capitol Hill on the day of the insurrection. 
  <p class="updated_time"> 01:18 PM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/us/politics/us-qatar-afghanistan.html">Qatar to Represent U.S. Interests in Afghanistan, Blinken Says</a> NYT: The Gulf nation will also help process visas for thousands of people trying to flee the Taliban. 
- <p class="updated_time"> 01:16 PM CT, Nov. 12 </p> 
- <a href="https://www.cnn.com/2021/11/12/politics/florida-congressional-seat-alcee-hastings-primary/index.html">Overseas and military ballots likely will determine who wins Florida primary for late Alcee Hastings' seat</a> CNN: The fate of a South Florida congressional district will likely be decided Friday by a handful of overseas and military ballots after a manual recount left the race too close to call. 
  <p class="updated_time"> 01:11 PM CT, Nov. 12 </p> 
  <a href="https://www.cnn.com/2021/11/12/politics/paul-gosar-censure-resolution-introduced/index.html">House Democrats introduce resolution censuring Rep. Gosar for video depicting violence against Ocasio-Cortez and Biden</a> CNN: House Democrats plan to introduce a resolution Friday to censure Arizona Republican Rep. Paul Gosar for posting a photoshopped anime video to his Twitter and Instagram accounts showing him appearing to kill Democratic Rep. Alexandria Ocasio-Cortez and attacking President Joe Biden. 
  <p class="updated_time"> 01:00 PM CT, Nov. 12 </p> 
  <a href="https://www.politico.com/news/2021/11/12/trump-cdc-covid-521128">Emails reveal new details of Trump White House interference in CDC Covid planning</a> Politico: The documents released by the committee lay out a timeline for how the Trump White House began to downplay the dangers posed by Covid-19. 
- <p class="updated_time"> 12:57 PM CT, Nov. 12 </p> 
- <a href="https://www.cnn.com/2021/11/12/politics/house-committee-cdc-covid-trump-administration-response/index.html">New evidence shows Trump administration interfered with CDC during Covid-19 pandemic</a> CNN: The House Select Subcommittee on the Coronavirus Crisis released to CNN on Friday new evidence showing how US Centers for Disease Control and Prevention officials were pressured by Trump administration officials to alter scientific guidance and prevented from communicating directly with the public. 
  <p class="updated_time"> 12:51 PM CT, Nov. 12 </p> 
  <a href="https://www.cnn.com/2021/11/12/politics/biden-admin-ethiopia-eritrea-sanctions/index.html">Biden administration sanctions Eritrean military, ruling party over role in northern Ethiopia conflict</a> CNN: The Biden administration sanctioned Eritrea's military and sole political party for their involvement in the ongoing crisis in northern Ethiopia. 
  <p class="updated_time"> 12:34 PM CT, Nov. 12 </p> 
@@ -250,6 +254,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/12/1055096462/lawyer-for-mark-meadows-says-courts-will-have-to-resolve-jan-6-panel-dispute">Lawyer for Mark Meadows says courts will have to resolve Jan. 6 panel dispute</a> NPR: Meadows may be looking to the courts for relief, but his path sets him up on a collision course with the House. 
  <p class="updated_time"> 11:40 AM CT, Nov. 12 </p> 
  <a href="https://www.npr.org/2021/11/12/1055143924/biden-nominates-former-commissioner-robert-califf-to-again-lead-fda">Biden nominates former commissioner Robert Califf to again lead FDA</a> NPR: The Food and Drug Administration has been without a permanent leader since President Biden took office in January. Califf led the agency during the last year of the Obama administration. 
+ <p class="updated_time"> 11:31 AM CT, Nov. 12 </p> 
+ <a href="https://www.cnn.com/2021/11/11/politics/xi-jinping-joe-biden-virtual-summit/index.html">Biden to hold virtual summit with Chinese President Xi Jinping on Monday</a> CNN: President Joe Biden's highly anticipated virtual summit with Chinese President Xi Jinping is expected to take place on Monday, people familiar with the matter say. 
  <p class="updated_time"> 11:22 AM CT, Nov. 12 </p> 
  <a href="https://www.politico.com/news/2021/11/12/myanmar-court-sentences-us-journalist-to-11-years-in-jail-521109">Myanmar court sentences U.S. journalist to 11 years in jail</a> Politico: Danny Fenster, managing editor Frontier Myanmar, is still facing additional charges under which he could receive up to life in prison. 
  <p class="updated_time"> 11:16 AM CT, Nov. 12 </p> 
@@ -259,17 +265,13 @@ permalink: /projects/news/
  <p class="updated_time"> 11:08 AM CT, Nov. 12 </p> 
  <a href="https://www.npr.org/2021/11/12/1054242599/biden-and-xi-will-meet-virtually-on-monday-heres-whats-at-stake">Biden and Xi will meet (virtually) on Monday. Here's what's at stake</a> NPR: It's been more than two years since leaders of the United States and China met face-to-face. This meeting will be virtual, not in person, and comes at a time of high tensions. 
  <p class="updated_time"> 11:08 AM CT, Nov. 12 </p> 
- <a href="https://www.cnn.com/2021/11/12/politics/mark-meadows-january-6-deposition/index.html">Mark Meadows did not appear for deposition with January 6 committee</a> CNN: Former Trump White House Chief of Staff Mark Meadows did not appear in person for a deposition on Friday in front of the House select committee investigating January 6, setting up a potential showdown that could lead to the panel beginning a criminal referral process against him. 
- <p class="updated_time"> 11:08 AM CT, Nov. 12 </p> 
  <a href="https://www.cnn.com/2021/11/12/politics/joe-manchin-relationship-progressives/index.html">As Biden agenda hinges on Manchin, House progressives look to 'deescalate' tension</a> CNN: Soon after Missouri Rep. Cori Bush accused Sen. Joe Manchin of espousing an "anti-Black, anti-child, anti-woman and anti-immigrant" position, another House progressive was on national TV with a sharply different message. 
- <p class="updated_time"> 11:05 AM CT, Nov. 12 </p> 
- <a href="https://www.nytimes.com/2021/11/12/us/politics/murkowski-re-election-bid.html">Murkowski Announces Re-election Bid, Setting up Clash With Trump</a> NYT: Of the seven Republicans who found former President Donald J. Trump guilty in his second impeachment trial, the Alaska senator is the only one facing re-election this year. 
  <p class="updated_time"> 10:54 AM CT, Nov. 12 </p> 
  <a href="https://www.cnn.com/2021/11/12/politics/rob-califf-fda-commissioner/index.html">Biden picks Dr. Rob Califf as FDA commissioner</a> CNN: President Joe Biden will nominate Dr. Rob Califf, a longtime cardiologist, to be the next commissioner of the Food and Drug Administration, a role Califf previously held during the Obama administration. 
  <p class="updated_time"> 10:41 AM CT, Nov. 12 </p> 
  <a href="https://www.cnn.com/2021/11/12/politics/us-qatar-afghanistan/index.html">Blinken says all US citizens in Afghanistan who currently want to leave have an 'opportunity to do so'</a> CNN: The US and Qatar signed an agreement Friday to have Qatar's embassy in Kabul represent US interests in Afghanistan as senior officials from the two countries met in Washington for the US-Qatar Strategic Dialogue. 
  <p class="updated_time"> 10:27 AM CT, Nov. 12 </p> 
- <a href="https://www.npr.org/2021/11/12/1055084269/lisa-murkowski-reelection-senate-alaska">Murkowski voted to convict Trump. Now she'll run against a candidate he backs</a> NPR: Alaska Sen. Lisa Murkowski is one of seven Republican senators to vote to convict Former President Donald Trump in his impeachment trial last January. 
+ <a href="https://www.npr.org/2021/11/12/1055084269/lisa-murkowski-reelection-senate-alaska">Murkowski voted to convict Trump. Now she'll run against a candidate he backs</a> NPR: Alaska Sen. Lisa Murkowski is one of seven Republican senators to vote to convict former President Donald Trump in his impeachment trial last January. 
  <p class="updated_time"> 09:19 AM CT, Nov. 12 </p> 
  <a href="https://www.cnn.com/2021/11/12/politics/lisa-murkowski-alaska-reelection/index.html">GOP Sen. Lisa Murkowski of Alaska announces reelection bid</a> CNN: GOP Sen. Lisa Murkowski of Alaska announced her bid Friday for reelection in a race that's sure to be tough for the moderate Republican who has been a strong critic of former President Donald Trump. 
  <p class="updated_time"> 08:52 AM CT, Nov. 12 </p> 
@@ -298,10 +300,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/12/south-korea-candidate-north-nuclear-program-521012">S. Korean candidate takes tough line on North's nuclear program</a> Politico: Yoon Suk Yeol stressed the need to boost cooperation with Washington and Japan to make up for South Korea’s relative lack of ability to monitor North Korea’s advancing nuclear program. 
  <p class="updated_time"> 06:13 AM CT, Nov. 12 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/12/trump-sours-on-desantis-495081">POLITICO Playbook: Trump sours on DeSantis</a> Politico: And Sen. Lisa Murkowski (R-Alaska) says she'll run for reelection. 
- <p class="updated_time"> 06:03 AM CT, Nov. 12 </p> 
- <a href="https://www.cnn.com/2021/11/12/politics/biden-private-prisons-immigration-detention-centers-invs/index.html">Biden vowed to close federal private prisons, but prison companies are finding loopholes to keep them open</a> CNN: Leavenworth Detention Center seems like a prime example of why President Joe Biden wants to close private prisons: So far this year, the federally contracted jail has been the site of multiple stabbings and a fatal beating. Former guards say drugs and weapons are common behind bars -- and for months, many cell doors didn't even lock. A judge called it "an absolute hellhole" at a recent sentencing hearing.  
- <p class="updated_time"> 05:37 AM CT, Nov. 12 </p> 
- <a href="https://www.cnn.com/2021/11/12/politics/vaccine-mandate-lawsuit-lottery/index.html">Liberals are buying their tickets in hopes of winning the vaccine mandate lawsuit lottery </a> CNN: It's not just Republican-led states and private businesses that are racing to court to challenge the Biden administration's new vaccine mandate. Labor unions are also filing legal challenges, arguing in some instances that the mandate doesn't go far enough to protect workers. 
  <p class="updated_time"> 05:05 AM CT, Nov. 12 </p> 
  <a href="https://www.cnn.com/2021/11/12/politics/senate-race-rankings-november/index.html">The 10 Senate seats most likely to flip in 2022</a> CNN: "A lot happens in a year." It's a favorite phrase for politicos who don't like the way the winds are blowing. 
  <p class="updated_time"> 05:02 AM CT, Nov. 12 </p> 
@@ -328,8 +326,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/12/us/politics/democrats-trifecta-power.html">Why Democrats May Have a Long Wait if They Lose Their Grip on Washington</a> NYT: Voters’ reflexive instinct to check the party in power makes it hard for any party to retain a hold on both the White House and Congress for long. 
  <p class="updated_time"> 02:00 AM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/nyregion/aoc-infrastructure-bill-vote.html">Ocasio-Cortez Isn’t Wavering. Are New Yorkers on Her Side?</a> NYT: By voting no on the infrastructure bill, Representative Alexandria Ocasio-Cortez set off a fierce debate, including among city residents eager to see the subways improved. 
- <p class="updated_time"> 11:19 PM CT, Nov. 11 </p> 
- <a href="https://www.cnn.com/2021/11/12/politics/donald-trump-january-6-committee/index.html">Analysis: The absurd logic of Trump's bid to defy the January 6 committee </a> CNN: Ex-President Donald Trump is planting his flag on a logical absurdity in his transparent bid to run out the clock on the January 6 investigation and avoid accountability for his unprecedented bid to steal power in a coup. 
  <p class="updated_time"> 10:59 PM CT, Nov. 11 </p> 
  <a href="https://www.politico.com/news/2021/11/11/ohio-senate-jewish-campaign-ad-mandel-521007">‘But he’s Jewish’: Opponent questions Mandel’s faith in Ohio Senate primary debate</a> Politico: The Republican Senate frontrunner was targeted earlier in an ad criticizing him for courting evangelical Christians. 
  <p class="updated_time"> 10:10 PM CT, Nov. 11 </p> 
@@ -388,6 +384,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/huddle/2021/11/11/just-checking-the-cbo-score-495067">Just checking the (CBO) score</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:16 AM CT, Nov. 11 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/11/the-other-big-intra-democratic-fight-495065">POLITICO Playbook: The other big intra-Democratic fight</a> Politico: And the inflation jump turns the temperature up. 
+ <p class="updated_time"> 06:05 AM CT, Nov. 11 </p> 
+ <a href="https://www.cnn.com/2021/11/11/politics/joe-biden-inflation-messaging/index.html">Biden changes his tone and walks a delicate line on inflation</a> CNN: Rising consumer prices have quickly become one of the White House's most urgent concerns as Americans grow unsettled at the higher cost of goods -- and place the blame on President Joe Biden. 
  <p class="updated_time"> 04:30 AM CT, Nov. 11 </p> 
  <a href="https://www.politico.com/news/2021/11/11/bidens-voters-recovery-conundrum-520771">Biden's ‘I feel your pain’ conundrum</a> Politico: It’s tripped up the last two Democratic presidents and could trip up Biden too: How to sell a recovery when most voters aren’t feeling it. 
  <p class="updated_time"> 10:39 PM CT, Nov. 10 </p> 
@@ -396,14 +394,16 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/10/politics/belarus-follow-up-sanctions/index.html">White House preparing 'follow up' sanctions on Belarus</a> CNN: The United States is preparing "follow up sanctions" designed to hold leaders in Belarus accountable for "ongoing attacks on democracy, human rights and international norms," a spokesman for the White House's National Security Council said on Wednesday. 
  <p class="updated_time"> 07:02 PM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/world/europe/france-kamala-harris-macron.html">Harris Meets Macron, Signaling a ‘New Era’ After Sub Snub, Both Say</a> NYT: In her vague assignment abroad, the vice president seems to be emphasizing that the U.S.-France relationship is about looking forward, in the wake of an embarrassing diplomatic spat. 
+ <p class="updated_time"> 06:28 PM CT, Nov. 10 </p> 
+ <a href="https://www.cnn.com/2021/11/10/politics/biden-baltimore-port-infrastructure/index.html">'It's worrisome': Biden addresses inflation concerns during Baltimore speech</a> CNN: President Joe Biden takes his sales pitch for the newly passed bipartisan infrastructure deal on the road Wednesday, highlighting the effect of the bill on supply chains, hours after new inflation statistics revealed that America's prices are surging more than they have in 30 years. 
  <p class="updated_time"> 05:53 PM CT, Nov. 10 </p> 
  <a href="https://www.politico.com/news/2021/11/10/rent-inflation-biden-520642">Biden’s next inflation threat: The rent is too damn high</a> Politico: The Biden administration has vowed to address the home affordability crisis in the U.S., but policies are still in development and will likely have a limited impact. 
- <p class="updated_time"> 05:22 PM CT, Nov. 10 </p> 
- <a href="https://www.cnn.com/2021/11/10/politics/new-york-vaccine-mandate-james/index.html">New York tells SCOTUS to allow vaccine mandate for health care workers to remain on the books</a> CNN: New York Attorney General Letitia James urged the Supreme Court Wednesday to deny a request from a group of New York health care workers to block the state's vaccine mandate, arguing that the emergency rule requiring vaccinations for certain health care workers is necessary to combat the spread of the virus, which can lead to a "vicious cycle of staff shortages and deterioration of patient care." 
  <p class="updated_time"> 05:11 PM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/us/politics/russia-blinken-ukraine.html">Blinken Warns Russia Against Making a ‘Serious Mistake’ in Ukraine</a> NYT: Appearing with Ukraine’s foreign minister, Secretary of State Antony J. Blinken said the intentions behind Moscow’s latest military buildup were unclear. 
  <p class="updated_time"> 04:51 PM CT, Nov. 10 </p> 
  <a href="https://www.cnn.com/2021/11/10/politics/infrastructure-bill-signing/index.html">Biden to hold signing ceremony on Monday for bipartisan infrastructure bill </a> CNN: President Joe Biden will sign the bipartisan infrastructure bill on Monday during a ceremony that will include members of Congress, governors and mayors from both parties, the White House announced on Wednesday. 
+ <p class="updated_time"> 10:13 AM CT, Nov. 10 </p> 
+ <a href="https://www.cnn.com/2021/11/10/politics/joe-biden-inflation/index.html">Biden on inflation report: 'Reversing this trend is a top priority for me'</a> CNN: President Joe Biden said Wednesday that inflation statistics showing America's prices are surging more than they have in 30 years are proof that there is "more work to do before our economy is back to normal." 
  <p class="updated_time"> 08:12 AM CT, Nov. 10 </p> 
  <a href="https://www.cnn.com/2021/11/10/politics/biden-jj-covid-vaccine-conflict-zones/index.html">Biden administration announces deal to provide J&J Covid-19 vaccine to people in conflict zones and humanitarian settings</a> CNN: The Biden administration will announce on Wednesday a new deal it brokered with Johnson & Johnson and Covax to provide J&J's Covid-19 vaccine to people in conflict zones and other humanitarian settings where government vaccine campaigns cannot reach, a White House official told CNN. 
  <p class="updated_time"> 07:21 AM CT, Nov. 10 </p> 
