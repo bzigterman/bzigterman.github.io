@@ -7,14 +7,24 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:44 AM CT, Nov. 12 </p> 
+ <a href="https://www.nytimes.com/2021/11/12/world/australia/migration-and-experimentation-what-led-to-australias-coffee-culture.html">Migration and Experimentation: What Led to Australia’s Coffee Culture</a> NYT: When Italian migrants arrived after World War II, they helped develop a coffee scene that many now regard as the best in the world. 
+ <p class="updated_time"> 10:41 AM CT, Nov. 12 </p> 
+ <a href="https://www.nytimes.com/2021/11/12/world/middleeast/israel-ethiopia-jews-immigration.html">Ethiopian Civil War Sparks Rancorous Debate over Immigration to Israel</a> NYT: Thousands of relatives of the remnants of Ethiopian Jewry are waiting to be airlifted to Israel. For now, the Israeli government sees no urgency. 
+ <p class="updated_time"> 10:29 AM CT, Nov. 12 </p> 
+ <a href="https://www.nytimes.com/2021/11/11/world/europe/un-security-council.html">Belarus-Poland Clash Spills Into U.N. Security Council</a> NYT: The United States joined several countries in a statement condemning Belarus, but the Russian envoy dismissed their criticism as politically motivated hypocrisy. 
+ <p class="updated_time"> 10:14 AM CT, Nov. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59266209?at_medium=RSS&at_campaign=KARANGA">Poland border: Turkey blocks Belarus flights to ease migrant crisis</a> BBC: Turkey has stopped all citizens from Iraq, Syria and Yemen from flying from Turkey to Belarus. 
  <p class="updated_time"> 10:02 AM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/live/2021/11/12/world/belarus-poland-border-migrants">Live Updates: Airlines Limit Flights to Belarus to Slow Flow of Migrants to E.U. Borders</a> NYT: With thousands stranded on the border between Poland and Belarus, Russia sent conflicting signals. The Kremlin says it will not allow Belarus to disrupt the flow of natural gas to Europe. At the same time, Moscow flexed its military might in a show of support for its ally. 
  <p class="updated_time"> 10:01 AM CT, Nov. 12 </p> 
- <a href="https://www.nytimes.com/2021/11/12/world/europe/julian-assange-stella-moris-marriage.html">Julian Assange to Wed in Prison in Britain</a> NYT: The WikiLeaks founder, who is battling extradition to the United States on espionage charges, has been granted permission to marry Stella Moris in the London prison where he has been held since 2019. 
+ <a href="https://www.nytimes.com/2021/11/12/world/europe/julian-assange-stella-moris-marriage.html">Julian Assange Will Marry Stella Moris in London Prison</a> NYT: The WikiLeaks founder, who is battling extradition to the United States on espionage charges, has been granted permission to marry Stella Moris in the London prison where he has been held since 2019. 
  <p class="updated_time"> 09:46 AM CT, Nov. 12 </p> 
  <a href="https://www.npr.org/2021/11/12/1055055724/in-a-first-u-n-climate-agreement-could-include-the-words-coal-and-fossil-fuels">In a first, U.N. climate agreement could include the words 'coal' and 'fossil fuels'</a> NPR: The U.N. Secretary-General warns the main goal of limiting global warming is "on life support." But Glasgow negotiators are making modest progress in their final hours. 
  <p class="updated_time"> 09:26 AM CT, Nov. 12 </p> 
  <a href="https://www.npr.org/2021/11/12/1055045794/julian-assange-wins-permission-to-get-married-while-in-a-london-prison">Julian Assange wins permission to marry his partner in a London prison</a> NPR: The WikiLeaks founder and attorney Stella Moris began a relationship after Assange took refuge in the Ecuadorian Embassy in London in 2012. They have two sons together. 
+ <p class="updated_time"> 09:25 AM CT, Nov. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59262811?at_medium=RSS&at_campaign=KARANGA">France investigates rape of soldier at Élysée palace</a> BBC: Local media report prosecutors are investigating the alleged rape of a soldier at the Élysée palace. 
  <p class="updated_time"> 08:47 AM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/world/asia/myanmar-danny-fenster.html">Danny Fenster, U.S. Journalist in Myanmar, Gets 11 Years in Jail</a> NYT: Danny Fenster was given the toughest possible sentence on three charges, in a signal that the country’s military rulers would not bow to international pressure. 
  <p class="updated_time"> 07:55 AM CT, Nov. 12 </p> 
@@ -39,8 +49,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/10/world/europe/poland-belarus-border-europe.html">Poland Gets Support From Europe on Tough Borders</a> NYT: Faced with the weaponization of migrants from Belarus, the European Union is defending Poland’s hard line even as it withholds funds over rule of law violations. 
  <p class="updated_time"> 06:49 AM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/world/europe/covid-italy-green-pass.html">Police in Milan Search Homes of 4 People Tied to Protests Over Covid Passes</a> NYT: The group has staged protests for weeks over a nationwide Covid rule, often blocking traffic and access to city centers. 
- <p class="updated_time"> 06:49 AM CT, Nov. 12 </p> 
- <a href="https://www.nytimes.com/2021/11/11/world/europe/un-security-council.html">Belarus-Poland Clash Spills Into U.N. Security Council</a> NYT: The United States joined several countries in a statement condemning Belarus, but the Russian envoy dismissed their criticism as politically motivated hypocrisy. 
  <p class="updated_time"> 06:17 AM CT, Nov. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59260704?at_medium=RSS&at_campaign=KARANGA">US police officer sues boss over KKK note</a> BBC: Keith Pool says superiors ignored numerous examples of racist abuse by former Chief Anthony Campo. 
  <p class="updated_time"> 05:26 AM CT, Nov. 12 </p> 
@@ -73,14 +81,10 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/12/1055027411/a-u-s-journalist-is-sentenced-to-11-years-in-jail-by-a-court-in-myanmar">A U.S. journalist is sentenced to 11 years in jail by a court in Myanmar</a> NPR: A court in military-ruled Myanmar sentenced journalist Danny Fenster to 11 years in prison after finding him guilty on several charges, including incitement for allegedly spreading false information. 
  <p class="updated_time"> 01:24 AM CT, Nov. 12 </p> 
  <a href="https://www.bbc.co.uk/news/stories-59255218?at_medium=RSS&at_campaign=KARANGA">Ron Jeremy: Porn star's accusers speak out for first time</a> BBC: Some of his accusers speak for the first time of their alleged experiences. He denies all charges. 
- <p class="updated_time"> 01:19 AM CT, Nov. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59256927?at_medium=RSS&at_campaign=KARANGA">Poland border: West condemns Belarus at UN over stranded migrants</a> BBC: EU nations, the US and UK say Belarus is putting migrants' lives in danger for political purposes. 
  <p class="updated_time"> 01:00 AM CT, Nov. 12 </p> 
  <a href="https://www.bbc.co.uk/news/uk-59247795?at_medium=RSS&at_campaign=KARANGA">COP26: Fear of failure on final day, and just how green was summit?</a> BBC: Five things you need to know about COP26 - the United Nations climate change conference - on Friday. 
  <p class="updated_time"> 01:00 AM CT, Nov. 12 </p> 
  <a href="https://www.wsj.com/articles/haiti-slides-deeper-into-chaos-a-month-after-missionaries-kidnapping-11636718401">Haiti Slides Deeper Into Chaos a Month After Missionaries' Kidnapping</a> WSJ: The U.S. is urging Americans to get out of Haiti as gangs block fuel terminals and carry out mass abductions in defiance of a weak government. 
- <p class="updated_time"> 12:59 AM CT, Nov. 12 </p> 
- <a href="https://www.nytimes.com/2021/11/12/world/australia/migration-and-experimentation-what-led-to-australias-coffee-culture.html">Migration and Experimentation: What Led to Australia’s Coffee Culture</a> NYT: When Italian migrants arrived after World War II, they helped develop a coffee scene that many now regard as the best in the world. 
  <p class="updated_time"> 12:44 AM CT, Nov. 12 </p> 
  <a href="https://www.wsj.com/articles/cop26-talks-enter-final-scheduled-day-with-deal-still-elusive-11636717491">COP26 Talks Enter Final Scheduled Day With Deal Still Elusive</a> WSJ: Negotiators seeking to reach a global deal to slow climate change entered the last scheduled day of talks still wrestling with big differences over the wording of what they hope will be a meaningful agreement. 
  <p class="updated_time"> 12:15 AM CT, Nov. 12 </p> 
@@ -101,8 +105,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-china-59229935?at_medium=RSS&at_campaign=KARANGA">China's Xi Jinping cements his status with historic resolution</a> BBC: Mr Xi is only the third leader to issue a "historical resolution" after Mao Zedong and Deng Xiaoping. 
  <p class="updated_time"> 09:46 PM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/world/europe/glasgow-garbage-strike.html">Outside COP26, Trash in Glasgow Piles High</a> NYT: At COP26, delegates address the need to curb emissions and mass consumption to save the planet while the reality of today’s throwaway society is all too apparent nearby. 
- <p class="updated_time"> 08:54 PM CT, Nov. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59257006?at_medium=RSS&at_campaign=KARANGA">US Olympian Sunisa Lee 'pepper sprayed in racist attack'</a> BBC: Gold medallist Sunisa Lee says the suspects also shouted slurs at her during the incident in Los Angeles. 
  <p class="updated_time"> 08:46 PM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/world/asia/india-pollution-yamuna-chhath.html">On Delhi’s Toxic River, Prayers to a Sun Struggling to Shine Through Smog</a> NYT: Every year, a four-day festival to the sun god Surya highlights the Indian city’s extreme air and water pollution, with a river so filled with foam it resembles a blizzard’s aftermath. 
  <p class="updated_time"> 08:27 PM CT, Nov. 11 </p> 
@@ -214,14 +216,22 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
- <p class="updated_time"> 10:05 AM CT, Nov. 12 </p> 
+ <p class="updated_time"> 11:22 AM CT, Nov. 12 </p> 
+ <a href="https://www.politico.com/news/2021/11/12/myanmar-court-sentences-us-journalist-to-11-years-in-jail-521109">Myanmar court sentences U.S. journalist to 11 years in jail</a> Politico: Danny Fenster, managing editor Frontier Myanmar, is still facing additional charges under which he could receive up to life in prison. 
+ <p class="updated_time"> 11:14 AM CT, Nov. 12 </p> 
+ <a href="https://www.politico.com/news/2021/11/12/biden-asian-summit-offer-blocked-521103">Biden's bid to host Asian summit in U.S. is blocked</a> Politico: One former U.S. official said indications point to Russia as the likely suspect. 
+ <p class="updated_time"> 10:41 AM CT, Nov. 12 </p> 
+ <a href="https://www.cnn.com/2021/11/12/politics/us-qatar-afghanistan/index.html">US signs agreement for Qatar to represent its diplomatic interests in Afghanistan</a> CNN: The US and Qatar signed an agreement Friday to have Qatar's embassy in Kabul represent US interests in Afghanistan as senior officials from the two countries met in Washington for the US-Qatar Strategic Dialogue. 
+ <p class="updated_time"> 10:34 AM CT, Nov. 12 </p> 
+ <a href="https://www.cnn.com/2021/11/12/politics/mark-meadows-january-6-deposition/index.html">Mark Meadows did not appear for deposition with January 6 committee</a> CNN: Former Trump White House Chief of Staff Mark Meadows did not appear in person for a deposition on Friday in front of the House select committee investigating January 6, setting up a potential showdown that could lead to the panel beginning a criminal referral process against him. 
+ <p class="updated_time"> 10:27 AM CT, Nov. 12 </p> 
+ <a href="https://www.npr.org/2021/11/12/1055084269/lisa-murkowski-reelection-senate-alaska">Alaska Sen. Murkowski, who has bucked her party at times, is running for reelection</a> NPR: Murkowski is one of seven GOP senators to vote to convict Former President Donald Trump in his impeachment trial last January. 
+ <p class="updated_time"> 10:15 AM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/us/politics/robert-califf-fda.html">Biden to Choose Robert Califf to Lead F.D.A., Despite Drug Industry Ties</a> NYT: Dr. Robert M. Califf, an academic and clinical trial researcher who ran the agency in 2016, has also consulted for pharmaceutical companies. 
  <p class="updated_time"> 09:19 AM CT, Nov. 12 </p> 
  <a href="https://www.cnn.com/2021/11/12/politics/lisa-murkowski-alaska-reelection/index.html">GOP Sen. Lisa Murkowski of Alaska announces reelection bid</a> CNN: GOP Sen. Lisa Murkowski of Alaska announced her bid Friday for reelection in a race that's sure to be tough for the moderate Republican who has been a strong critic of former President Donald Trump. 
  <p class="updated_time"> 09:15 AM CT, Nov. 12 </p> 
  <a href="https://www.cnn.com/2021/11/12/politics/november-child-tax-credit-payment/index.html">Next child tax credit payments set to go out Monday</a> CNN: The latest round of monthly child tax credit payments is scheduled to be distributed to tens of millions of families on Monday. And it could be the next-to-last one unless Congress acts. 
- <p class="updated_time"> 09:07 AM CT, Nov. 12 </p> 
- <a href="https://www.cnn.com/2021/11/12/politics/us-qatar-afghanistan/index.html">US signs agreement for Qatar to represent its diplomatic interests in Afghanistan</a> CNN: The US and Qatar signed an agreement Friday to have Qatar's embassy in Kabul represent US interests in Afghanistan as senior officials from the two countries met in Washington for the US-Qatar Strategic Dialogue. 
  <p class="updated_time"> 08:52 AM CT, Nov. 12 </p> 
  <a href="https://www.cnn.com/2021/11/12/politics/kamala-harris-paris/index.html">Harris says she did not discuss submarine deal with Macron during Paris meeting</a> CNN: Vice President Kamala Harris said she did not discuss with French President Emmanuel Macron the surprise deal between the US and Australia to develop nuclear submarines that angered the French, leading to a fallout between the longstanding allies. 
  <p class="updated_time"> 08:50 AM CT, Nov. 12 </p> 
@@ -229,7 +239,7 @@ permalink: /projects/news/
  <p class="updated_time"> 08:48 AM CT, Nov. 12 </p> 
  <a href="https://www.politico.com/news/2021/11/12/julian-assange-given-permission-to-marry-partner-in-prison-521032">Julian Assange given permission to marry partner in prison</a> Politico: Assange and Moris made their relationship public in April 2020 and had applied to prison authorities for permission to wed. 
  <p class="updated_time"> 08:43 AM CT, Nov. 12 </p> 
- <a href="https://www.cnn.com/2021/11/12/politics/trump-pence-threats-january-6/index.html">Trump defends threats to Pence on January 6 in new audio</a> CNN: Former President Donald Trump appeared to defend the threats made against then-Vice President Mike Pence during the January 6 insurrection in a new audio recording released Wednesday. 
+ <a href="https://www.cnn.com/2021/11/12/politics/trump-pence-threats-january-6/index.html">Trump defends threats to Pence on 1/6 in new audio</a> CNN: Former President Donald Trump appeared to defend the threats made against then-Vice President Mike Pence during the January 6 insurrection in a new audio recording released Wednesday. 
  <p class="updated_time"> 08:39 AM CT, Nov. 12 </p> 
  <a href="https://www.politico.com/news/2021/11/12/russia-kremlin-ukraine-nato-threats-521031">Kremlin denies plans to invade Ukraine, alleges NATO threats</a> Politico: Ukraine complained last week that Russia has kept tens of thousands of troops not far from the two countries' borders. 
  <p class="updated_time"> 08:28 AM CT, Nov. 12 </p> 
@@ -283,7 +293,7 @@ permalink: /projects/news/
  <p class="updated_time"> 02:00 AM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/nyregion/aoc-infrastructure-bill-vote.html">Ocasio-Cortez Isn’t Wavering. Are New Yorkers on Her Side?</a> NYT: By voting no on the infrastructure bill, Representative Alexandria Ocasio-Cortez set off a fierce debate, including among city residents eager to see the subways improved. 
  <p class="updated_time"> 11:19 PM CT, Nov. 11 </p> 
- <a href="https://www.cnn.com/2021/11/12/politics/donald-trump-january-6-committee/index.html">The absurd logic of Trump's bid to defy the January 6 committee </a> CNN: Ex-President Donald Trump is planting his flag on a logical absurdity in his transparent bid to run out the clock on the January 6 investigation and avoid accountability for his unprecedented bid to steal power in a coup. 
+ <a href="https://www.cnn.com/2021/11/12/politics/donald-trump-january-6-committee/index.html">Analysis: The absurd logic of Trump's bid to defy the January 6 committee </a> CNN: Ex-President Donald Trump is planting his flag on a logical absurdity in his transparent bid to run out the clock on the January 6 investigation and avoid accountability for his unprecedented bid to steal power in a coup. 
  <p class="updated_time"> 10:59 PM CT, Nov. 11 </p> 
  <a href="https://www.politico.com/news/2021/11/11/ohio-senate-jewish-campaign-ad-mandel-521007">‘But he’s Jewish’: Opponent questions Mandel’s faith in Ohio Senate primary debate</a> Politico: The Republican Senate frontrunner was targeted earlier in an ad criticizing him for courting evangelical Christians. 
  <p class="updated_time"> 10:10 PM CT, Nov. 11 </p> 
@@ -296,8 +306,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/11/us/politics/trump-files-january-6.html">Court Issues Brief Hold on Release of Trump Files in Jan. 6 Inquiry</a> NYT: Congress had been set to receive the first batch of Trump White House files from the National Archives on Friday, a move that the former president had fought. 
  <p class="updated_time"> 07:46 PM CT, Nov. 11 </p> 
  <a href="https://www.politico.com/news/2021/11/11/jan-6-committee-mark-meadows-testify-friday-520992">Jan. 6 committee to Mark Meadows: Testify Friday or risk contempt charges</a> Politico: The chair, Rep. Bennie Thompson, said the former Trump chief of staff’s continued resistance to cooperating with the panel lacked any plausible defense. 
- <p class="updated_time"> 07:00 PM CT, Nov. 11 </p> 
- <a href="https://www.cnn.com/2021/11/11/politics/mark-meadows-january-6-committee-response/index.html">January 6 committee gives Meadows ultimatum: Appear Friday or risk criminal contempt</a> CNN: Former White House Chief of Staff Mark Meadows is facing new pressure to cooperate with the House Select Committee investigating January 6 after he was notified Thursday that President Joe Biden will not assert executive privilege or immunity over documents and testimony requested by the panel, according to a copy obtained by CNN. 
  <p class="updated_time"> 06:40 PM CT, Nov. 11 </p> 
  <a href="https://www.cnn.com/2021/11/11/politics/trump-motion-documents/index.html">Dem-appointed appellate panel pauses release of Trump White House records ahead of Friday deadline</a> CNN: Former President Donald Trump has asked a federal appeals court to briefly stop the release of key White House records from his presidency to the House January 6 committee while he appeals a lower court's decision that he can't claim executive privilege to keep them secret. 
  <p class="updated_time"> 05:30 PM CT, Nov. 11 </p> 
@@ -362,6 +370,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/11/1054614958/at-baltimore-port-biden-reassures-americans-about-shipping-snags-inflation">At Baltimore port, Biden reassures Americans about shipping snags, inflation</a> NPR: President Biden toured the busy Port of Baltimore Wednesday, part of his push to show he has a handle on supply chain snarls and concerns about inflation — while promoting his legislative agenda. 
  <p class="updated_time"> 06:16 AM CT, Nov. 11 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/11/the-other-big-intra-democratic-fight-495065">POLITICO Playbook: The other big intra-Democratic fight</a> Politico: And the inflation jump turns the temperature up. 
+ <p class="updated_time"> 06:05 AM CT, Nov. 11 </p> 
+ <a href="https://www.cnn.com/2021/11/11/politics/joe-biden-inflation-messaging/index.html">Biden changes his tone and walks a delicate line on inflation</a> CNN: Rising consumer prices have quickly become one of the White House's most urgent concerns as Americans grow unsettled at the higher cost of goods -- and place the blame on President Joe Biden. 
  <p class="updated_time"> 04:30 AM CT, Nov. 11 </p> 
  <a href="https://www.politico.com/news/2021/11/11/bidens-voters-recovery-conundrum-520771">Biden's ‘I feel your pain’ conundrum</a> Politico: It’s tripped up the last two Democratic presidents and could trip up Biden too: How to sell a recovery when most voters aren’t feeling it. 
  <p class="updated_time"> 04:06 AM CT, Nov. 11 </p> 
@@ -388,20 +398,12 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/10/us/politics/russia-blinken-ukraine.html">Blinken Warns Russia Against Making a ‘Serious Mistake’ in Ukraine</a> NYT: Appearing with Ukraine’s foreign minister, Secretary of State Antony J. Blinken said the intentions behind Moscow’s latest military buildup were unclear. 
  <p class="updated_time"> 04:51 PM CT, Nov. 10 </p> 
  <a href="https://www.cnn.com/2021/11/10/politics/infrastructure-bill-signing/index.html">Biden to hold signing ceremony on Monday for bipartisan infrastructure bill </a> CNN: President Joe Biden will sign the bipartisan infrastructure bill on Monday during a ceremony that will include members of Congress, governors and mayors from both parties, the White House announced on Wednesday. 
- <p class="updated_time"> 04:37 PM CT, Nov. 10 </p> 
- <a href="https://www.cnn.com/2021/11/10/politics/jan-6-committee-pence-inner-circle/index.html">Exclusive: January 6 committee interested in at least 5 people from Pence's inner circle</a> CNN: The House select committee investigating January 6 is interested in gathering information from at least five members of former Vice President Mike Pence's inner circle, according to three sources familiar with the effort. 
  <p class="updated_time"> 03:37 PM CT, Nov. 10 </p> 
  <a href="https://www.npr.org/2021/11/10/1054428150/tunisia-is-seeing-political-changes-and-some-fear-its-a-path-back-to-dictatorshi">Tunisia is seeing political changes, and some fear it may be a path to dictatorship</a> NPR: While most Tunisians were glad to see their president dissolve the quarrelsome, ineffective parliament and take extra powers, some worry Tunisia could be repeating a path to dictatorship. 
- <p class="updated_time"> 03:34 PM CT, Nov. 10 </p> 
- <a href="https://www.politico.com/news/2021/11/10/trump-era-scam-pac-indictment-520610">They raised millions for Trump, spent barely any of it on him. Now they’re indicted.</a> Politico: The feds just threw the book at one of the ultimate Trump-era scam PACers. 
- <p class="updated_time"> 03:29 PM CT, Nov. 10 </p> 
- <a href="https://www.npr.org/2021/11/10/1054428115/white-house-economic-adviser-weighs-in-on-the-inflation-spike-and-spending-plan">White House economic adviser weighs in on the inflation spike and spending plan</a> NPR: NPR's Ailsa Chang talks with White House economic adviser Brian Deese as inflation soars to its highest in 30 years. 
  <p class="updated_time"> 02:40 PM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/us/politics/pac-operator-charges.html">Three Men Charged With Running ‘Scam PACs’ That Bilked Small Donors</a> NYT: The Justice Department said the three men defrauded donors of $3.5 million, including through robocalls that impersonated former President Donald J. Trump. 
  <p class="updated_time"> 02:21 PM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/technology/doj-uber-suit-disabilities.html">U.S. Sues Uber, Saying It Discriminated Against People With Disabilities</a> NYT: The Justice Department says Uber did not adjust its wait time fees for people with disabilities, even when Uber knew someone needed additional time. 
- <p class="updated_time"> 12:59 PM CT, Nov. 10 </p> 
- <a href="https://www.politico.com/news/2021/11/10/scott-fairlamb-jan-6-sentencing-520592">N.J. man hit with toughest sentence yet in Jan. 6 attack</a> Politico: Former MMA fighter Scott Fairlamb gets 41 months in prison for punching police officer during Capitol Riot. 
  <p class="updated_time"> 10:13 AM CT, Nov. 10 </p> 
  <a href="https://www.cnn.com/2021/11/10/politics/joe-biden-inflation/index.html">Biden on inflation report: 'Reversing this trend is a top priority for me'</a> CNN: President Joe Biden said Wednesday that inflation statistics showing America's prices are surging more than they have in 30 years are proof that there is "more work to do before our economy is back to normal." 
  <p class="updated_time"> 08:12 AM CT, Nov. 10 </p> 
