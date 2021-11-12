@@ -7,10 +7,10 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:53 AM CT, Nov. 12 </p> 
+ <a href="https://www.nytimes.com/live/2021/11/12/world/belarus-poland-border-migrants">Live Updates: Airlines Limit Flights to Belarus to Slow Flow of Migrants to E.U. Borders</a> NYT: With thousands stranded on the border between Poland and Belarus, Russia sent conflicting signals. The Kremlin says it will not allow Belarus to disrupt the flow of natural gas to Europe. At the same time, Moscow flexed its military might in a show of support for its ally. 
  <p class="updated_time"> 08:47 AM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/world/asia/myanmar-danny-fenster.html">Danny Fenster, U.S. Journalist in Myanmar, Gets 11 Years in Jail</a> NYT: Danny Fenster was given the toughest possible sentence on three charges, in a signal that the country’s military rulers would not bow to international pressure. 
- <p class="updated_time"> 08:40 AM CT, Nov. 12 </p> 
- <a href="https://www.nytimes.com/live/2021/11/12/world/belarus-poland-border-migrants">Live Updates: Airlines Limit Flights to Belarus to Slow Flow of Migrants to E.U. Borders</a> NYT: With thousands stranded on the border between Poland and Belarus, Russia sent conflicting signals. The Kremlin says it will not allow Belarus to disrupt the flow of natural gas to Europe. At the same time, Moscow flexed its military might in a show of support for its ally. 
  <p class="updated_time"> 07:55 AM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/11/health/veterans-psychedelics-ptsd-depression.html">Veterans Have Become Unlikely Lobbyists in Push to Legalize Psychedelic Drugs</a> NYT: Lawmakers find it hard to “just say no” to combat veterans seeking support for drug decriminalization efforts gaining traction around the country. 
  <p class="updated_time"> 07:42 AM CT, Nov. 12 </p> 
@@ -259,7 +259,7 @@ permalink: /projects/news/
  <p class="updated_time"> 05:00 AM CT, Nov. 12 </p> 
  <a href="https://www.politico.com/news/2021/11/12/jeff-flake-manu-raju-cat-mouse-520990">CNN's Manu Raju vs. Jeff Flake: Cat and mouse</a> Politico: On this episode of Playbook Deep Dive, we chase the people who chase lawmakers and tag along for the hide-and-seek between Congress and the media, and the daily challenge of covering the Hill. 
  <p class="updated_time"> 04:30 AM CT, Nov. 12 </p> 
- <a href="https://www.politico.com/news/2021/11/12/mccarthys-bumpy-ride-to-the-speakership-520670">Where the potholes lie on Kevin McCarthy's road to House speaker</a> Politico: Will he glide to the speakership or have a white-knuckle ride? The size of next year's Republican gains could make the difference. 
+ <a href="https://www.politico.com/news/2021/11/12/mccarthys-bumpy-ride-to-the-speakership-520670">McCarthy's vexing speaker math problem</a> Politico: Will he glide to the speakership or have a white-knuckle ride? The size of next year's Republican gains could make the difference. 
  <p class="updated_time"> 04:30 AM CT, Nov. 12 </p> 
  <a href="https://www.politico.com/news/2021/11/12/mccarthys-bumpy-ride-to-the-speakership-520670">McCarthy's vexing speaker math problem</a> Politico: Will he glide to the speakership or have a white-knuckle ride? The size of next year's Republican gains could make the difference. 
  <p class="updated_time"> 04:30 AM CT, Nov. 12 </p> 
