@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:55 AM CT, Nov. 12 </p> 
+ <a href="https://www.nytimes.com/2021/11/11/health/veterans-psychedelics-ptsd-depression.html">Veterans Have Become Unlikely Lobbyists in Push to Legalize Psychedelic Drugs</a> NYT: Lawmakers find it hard to “just say no” to combat veterans seeking support for drug decriminalization efforts gaining traction around the country. 
  <p class="updated_time"> 07:46 AM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/live/2021/11/12/world/belarus-poland-border-migrants">Live Updates: Airlines Limit Flights to Belarus to Slow Flow of Migrants to E.U. Borders</a> NYT: With thousands stranded on the border between Poland and Belarus, Russia sent conflicting signals. The Kremlin says it will not allow Belarus to disrupt the flow of natural gas to Europe. At the same time, Moscow flexed its military might in a show of support for its ally. 
  <p class="updated_time"> 07:42 AM CT, Nov. 12 </p> 
@@ -147,8 +149,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59253377?at_medium=RSS&at_campaign=KARANGA">Poland-Belarus: How social media posts fuelled the migrant crisis</a> BBC: Messages on social media had a key role in a mass move of migrants to the Polish border this week. 
  <p class="updated_time"> 01:19 PM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/business/britain-economy-recovery.html">The U.K.'s Economic Recovery Slowed in the Third Quarter</a> NYT: The economy grew 1.3 percent in the third quarter, down from 5.5 percent growth in the previous three months. 
- <p class="updated_time"> 01:15 PM CT, Nov. 11 </p> 
- <a href="https://www.nytimes.com/2021/11/11/health/veterans-psychedelics-ptsd-depression.html">Veterans Have Become Unlikely Lobbyists in Push to Legalize Psychedelic Drugs</a> NYT: Lawmakers find it hard to “just say no” to combat veterans seeking support for drug decriminalization efforts gaining traction around the country. 
  <p class="updated_time"> 01:01 PM CT, Nov. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59246627?at_medium=RSS&at_campaign=KARANGA">Celebrity grizzly bear takes her cubs into town</a> BBC: Online star 'Grizzly 399', who has her own Instagram page, took a stroll through Jackson Hole, Wyoming. 
  <p class="updated_time"> 12:56 PM CT, Nov. 11 </p> 
