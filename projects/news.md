@@ -7,10 +7,14 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:27 AM CT, Nov. 12 </p> 
+ <p class="updated_time"> 11:41 AM CT, Nov. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59266211?at_medium=RSS&at_campaign=KARANGA">French teenage jogger admits lying about kidnap escape</a> BBC: The 17-year-old had claimed she escaped her kidnappers, in a case that has gripped France. 
+ <p class="updated_time"> 11:41 AM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/world/california-covid-booster.html">All California Adults Can Get Booster Shots, State Says</a> NYT: Officials are seeking to avert a winter surge; last year, so many Covid patients died that officials were forced to deploy mobile morgues. 
- <p class="updated_time"> 11:14 AM CT, Nov. 12 </p> 
- <a href="https://www.nytimes.com/2021/11/12/world/europe/covid-netherlands-lockdown.html">Netherlands Looks to Partial Lockdown as Covid Cases Rise</a> NYT: The country is experiencing rising case numbers amid a fourth wave of infections. 
+ <p class="updated_time"> 11:40 AM CT, Nov. 12 </p> 
+ <a href="https://www.nytimes.com/2021/11/12/world/europe/covid-netherlands-lockdown.html">Netherlands Looks to Partial Lockdown as Covid Cases Rise</a> NYT: The Dutch lockdown will not single out those who are unvaccinated. The country is experiencing rising case numbers amid a fourth wave of infections. 
+ <p class="updated_time"> 11:36 AM CT, Nov. 12 </p> 
+ <a href="https://www.nytimes.com/2021/11/12/world/europe/covid-italy-green-pass.html">Police in Milan Search Homes of 4 People Tied to Protests Over Covid Passes</a> NYT: The group has staged protests for weeks over a nationwide Covid rule, often blocking traffic and access to city centers. 
  <p class="updated_time"> 11:10 AM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/world/middleeast/israel-ethiopia-jews-immigration.html">Ethiopian Civil War Sparks Rancorous Debate over Immigration to Israel</a> NYT: Thousands of relatives of the remnants of Ethiopian Jewry are waiting to be airlifted to Israel. For now, the Israeli government sees no urgency. 
  <p class="updated_time"> 11:08 AM CT, Nov. 12 </p> 
@@ -57,8 +61,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/10/world/middleeast/migrants-belarus-border-abuse.html">Migrants Say They Face Abuse on Both Sides of Belarus Border</a> NYT: Stories are emerging of the authorities in Belarus, Lithuania and Poland abusing asylum seekers from the Middle East and using them as political pawns. 
  <p class="updated_time"> 06:51 AM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/10/world/europe/poland-belarus-border-europe.html">Poland Gets Support From Europe on Tough Borders</a> NYT: Faced with the weaponization of migrants from Belarus, the European Union is defending Poland’s hard line even as it withholds funds over rule of law violations. 
- <p class="updated_time"> 06:49 AM CT, Nov. 12 </p> 
- <a href="https://www.nytimes.com/2021/11/12/world/europe/covid-italy-green-pass.html">Police in Milan Search Homes of 4 People Tied to Protests Over Covid Passes</a> NYT: The group has staged protests for weeks over a nationwide Covid rule, often blocking traffic and access to city centers. 
+ <p class="updated_time"> 06:20 AM CT, Nov. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-59217825?at_medium=RSS&at_campaign=KARANGA">Britney Spears hoping to be released from 13-year conservatorship</a> BBC: The pop star, 39, has asked a court to terminate the guardianship, which was set up by her father. 
  <p class="updated_time"> 06:17 AM CT, Nov. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59260704?at_medium=RSS&at_campaign=KARANGA">US police officer sues boss over KKK note</a> BBC: Keith Pool says superiors ignored numerous examples of racist abuse by former Chief Anthony Campo. 
  <p class="updated_time"> 05:26 AM CT, Nov. 12 </p> 
@@ -81,8 +85,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59258112?at_medium=RSS&at_campaign=KARANGA">Danny Fenster: Myanmar court gives US journalist 11 years jail</a> BBC: A Myanmar military court sentences US journalist Danny Fenster to 11 years in jail. 
  <p class="updated_time"> 02:36 AM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/11/world/europe/migrants-poland-belarus-lukashenko.html">Migrants in Peril, and Raw Emotions, in a Volatile European Border Standoff</a> NYT: A confrontation over migrants between Belarus and Poland is growing more volatile, as nationalist fervor rises in both countries and a humanitarian disaster looms. 
- <p class="updated_time"> 02:17 AM CT, Nov. 12 </p> 
- <a href="https://www.bbc.co.uk/sport/football/59256408?at_medium=RSS&at_campaign=KARANGA">Aminata Diallo: Paris St-Germain midfielder released by police without charge</a> BBC: Paris St-Germain midfielder Aminata Diallo is released without charge by French police investigating an attack on her PSG team-mate Kheira Hamraoui. 
  <p class="updated_time"> 02:11 AM CT, Nov. 12 </p> 
  <a href="https://www.wsj.com/articles/world-leaders-pressure-libya-to-hold-elections-on-time-11636699373">World Leaders Pressure Libya to Hold Elections on Time</a> WSJ: Vice President Kamala Harris and other world leaders are gathering to make a diplomatic push in support of elections in Libya that could make or break the peace process in a country that has been torn apart by war and political crisis for a decade. 
  <p class="updated_time"> 02:09 AM CT, Nov. 12 </p> 
@@ -95,6 +97,8 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/haiti-slides-deeper-into-chaos-a-month-after-missionaries-kidnapping-11636718401">Haiti Slides Deeper Into Chaos a Month After Missionaries' Kidnapping</a> WSJ: The U.S. is urging Americans to get out of Haiti as gangs block fuel terminals and carry out mass abductions in defiance of a weak government. 
  <p class="updated_time"> 12:44 AM CT, Nov. 12 </p> 
  <a href="https://www.wsj.com/articles/cop26-talks-enter-final-scheduled-day-with-deal-still-elusive-11636717491">COP26 Talks Enter Final Scheduled Day With Deal Still Elusive</a> WSJ: Negotiators seeking to reach a global deal to slow climate change entered the last scheduled day of talks still wrestling with big differences over the wording of what they hope will be a meaningful agreement. 
+ <p class="updated_time"> 12:36 AM CT, Nov. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59245018?at_medium=RSS&at_campaign=KARANGA">Covid: Austrians heading towards lockdown for unvaccinated</a> BBC: The measures comes as record infections are reported in Austria, Germany and the Netherlands. 
  <p class="updated_time"> 12:15 AM CT, Nov. 12 </p> 
  <a href="https://www.bbc.co.uk/news/uk-scotland-glasgow-west-59248023?at_medium=RSS&at_campaign=KARANGA">How green was the COP26 climate summit?</a> BBC: A report has suggested the carbon footprint of the Glasgow summit is more than double that of COP25. 
  <p class="updated_time"> 11:42 PM CT, Nov. 11 </p> 
@@ -133,8 +137,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/11/world/europe/belarus-poland-border-russia.html">Russia Reacts to Belarus-Poland Border Crisis</a> NYT: President Vladimir Putin’s spokesman said that Russia was doing all it could to resolve the situation, but he also warned of the possibility of a military escalation, according to the Russian state news agency RIA Novosti. 
  <p class="updated_time"> 05:37 PM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/world/who-is-aleksandr-g-lukashenko.html">Who Is Aleksandr Lukashenko? Here's What You Need to Know</a> NYT: A migrant crisis on the border with Poland has put the Belarusian president at the center of a clash roiling Europe. 
- <p class="updated_time"> 05:07 PM CT, Nov. 11 </p> 
- <a href="https://www.bbc.co.uk/news/uk-politics-59255708?at_medium=RSS&at_campaign=KARANGA">Iran nuclear deal: UK urges Iran to back plan to revive agreement</a> BBC: Iran wants to see economic sanctions lifted, but the West wants Iran to first reduce uranium stocks. 
  <p class="updated_time"> 05:03 PM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/world/europe/germany-covid-unvaccinated.html">Germany’s Fourth Covid Wave: ‘A Pandemic of the Unvaccinated’</a> NYT: Germany once set an example for how to manage the coronavirus. Now, deep pockets of vaccine resistance are helping drive daily infections to new heights. 
  <p class="updated_time"> 05:01 PM CT, Nov. 11 </p> 
@@ -218,6 +220,14 @@ permalink: /projects/news/
 
  <p class="updated_time"> 12:08 PM CT, Nov. 12 </p> 
  <a href="https://www.politico.com/news/2021/11/12/for-2nd-straight-month-americans-quit-jobs-at-a-record-pace-521116">For 2nd straight month, Americans quit jobs at a record pace</a> Politico: The figures point to a historic level of turmoil in the job market as newly-empowered workers quit jobs to take higher pay that is being dangled by businesses in need of help 
+ <p class="updated_time"> 11:41 AM CT, Nov. 12 </p> 
+ <a href="https://www.cnn.com/2021/11/12/politics/november-child-tax-credit-payment/index.html">Next child tax credit payments set to go out Monday</a> CNN: The latest round of monthly child tax credit payments is scheduled to be distributed to tens of millions of families on Monday. And it could be the next-to-last one unless Congress acts. 
+ <p class="updated_time"> 11:40 AM CT, Nov. 12 </p> 
+ <a href="https://www.npr.org/2021/11/12/1055096462/lawyer-for-mark-meadows-says-courts-will-have-to-resolve-jan-6-panel-dispute">Lawyer for Mark Meadows says courts will have to resolve Jan. 6 panel dispute</a> NPR: Meadows may be looking to the courts for relief, but his path sets him up on a collision course with the House. 
+ <p class="updated_time"> 11:40 AM CT, Nov. 12 </p> 
+ <a href="https://www.npr.org/2021/11/12/1055143924/biden-nominates-former-commissioner-robert-califf-to-again-lead-fda">Biden nominates former commissioner Robert Califf to again lead FDA</a> NPR: The Food and Drug Administration has been without a permanent leader since President Biden took office in January. Califf led the agency during the last year of the Obama Administration. 
+ <p class="updated_time"> 11:33 AM CT, Nov. 12 </p> 
+ <a href="https://www.nytimes.com/2021/11/12/us/politics/biden-china-xi-summit.html">Biden and China’s Xi Will Hold Virtual Summit on Monday</a> NYT: The leaders of the world’s two largest economies confront tensions over trade, cyberthreats, the climate, Taiwan and human rights. 
  <p class="updated_time"> 11:22 AM CT, Nov. 12 </p> 
  <a href="https://www.politico.com/news/2021/11/12/myanmar-court-sentences-us-journalist-to-11-years-in-jail-521109">Myanmar court sentences U.S. journalist to 11 years in jail</a> Politico: Danny Fenster, managing editor Frontier Myanmar, is still facing additional charges under which he could receive up to life in prison. 
  <p class="updated_time"> 11:16 AM CT, Nov. 12 </p> 
@@ -239,11 +249,9 @@ permalink: /projects/news/
  <p class="updated_time"> 10:41 AM CT, Nov. 12 </p> 
  <a href="https://www.cnn.com/2021/11/12/politics/us-qatar-afghanistan/index.html">Blinken says all US citizens in Afghanistan who currently want to leave have an 'opportunity to do so'</a> CNN: The US and Qatar signed an agreement Friday to have Qatar's embassy in Kabul represent US interests in Afghanistan as senior officials from the two countries met in Washington for the US-Qatar Strategic Dialogue. 
  <p class="updated_time"> 10:27 AM CT, Nov. 12 </p> 
- <a href="https://www.npr.org/2021/11/12/1055084269/lisa-murkowski-reelection-senate-alaska">Alaska Sen. Murkowski, who has bucked her party at times, is running for reelection</a> NPR: Murkowski is one of seven GOP senators to vote to convict Former President Donald Trump in his impeachment trial last January. 
+ <a href="https://www.npr.org/2021/11/12/1055084269/lisa-murkowski-reelection-senate-alaska">Murkowski voted to convict Trump. Now she'll run against a candidate he backs</a> NPR: Alaska Sen. Lisa Murkowski is one of seven Republican senators to vote to convict Former President Donald Trump in his impeachment trial last January. 
  <p class="updated_time"> 09:19 AM CT, Nov. 12 </p> 
  <a href="https://www.cnn.com/2021/11/12/politics/lisa-murkowski-alaska-reelection/index.html">GOP Sen. Lisa Murkowski of Alaska announces reelection bid</a> CNN: GOP Sen. Lisa Murkowski of Alaska announced her bid Friday for reelection in a race that's sure to be tough for the moderate Republican who has been a strong critic of former President Donald Trump. 
- <p class="updated_time"> 09:15 AM CT, Nov. 12 </p> 
- <a href="https://www.cnn.com/2021/11/12/politics/november-child-tax-credit-payment/index.html">Next child tax credit payments set to go out Monday</a> CNN: The latest round of monthly child tax credit payments is scheduled to be distributed to tens of millions of families on Monday. And it could be the next-to-last one unless Congress acts. 
  <p class="updated_time"> 08:52 AM CT, Nov. 12 </p> 
  <a href="https://www.cnn.com/2021/11/12/politics/kamala-harris-paris/index.html">Harris says she did not discuss submarine deal with Macron during Paris meeting</a> CNN: Vice President Kamala Harris said she did not discuss with French President Emmanuel Macron the surprise deal between the US and Australia to develop nuclear submarines that angered the French, leading to a fallout between the longstanding allies. 
  <p class="updated_time"> 08:50 AM CT, Nov. 12 </p> 
@@ -378,18 +386,12 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/11/11/the-other-big-intra-democratic-fight-495065">POLITICO Playbook: The other big intra-Democratic fight</a> Politico: And the inflation jump turns the temperature up. 
  <p class="updated_time"> 04:30 AM CT, Nov. 11 </p> 
  <a href="https://www.politico.com/news/2021/11/11/bidens-voters-recovery-conundrum-520771">Biden's ‘I feel your pain’ conundrum</a> Politico: It’s tripped up the last two Democratic presidents and could trip up Biden too: How to sell a recovery when most voters aren’t feeling it. 
- <p class="updated_time"> 04:06 AM CT, Nov. 11 </p> 
- <a href="https://www.npr.org/2021/11/11/1054615028/is-masculinity-under-attack-sen-hawley-wants-to-defend-the-men-of-america">Sen. Josh Hawley claims masculinity is under attack. This historian disagrees</a> NPR: Hawley is calling for a "revival of ... manhood in America." Kristin Kobes Du Mez, a Calvin University professor and the author of Jesus and John Wayne, explains how masculinity is a political issue. 
- <p class="updated_time"> 04:06 AM CT, Nov. 11 </p> 
- <a href="https://www.npr.org/2021/11/11/1054614951/morning-news-brief">News brief: infrastructure bill, Texas mask rules, Rittenhouse trial </a> NPR: President Biden addresses inflation and infrastructure bill. Texas schools can set their own face mask rules again following a judge's ruling. Kyle Rittenhouse took the stand in his own defense. 
  <p class="updated_time"> 11:11 PM CT, Nov. 10 </p> 
  <a href="https://www.cnn.com/2021/11/11/politics/president-joe-biden-inflation-politics/index.html">Analysis: Why inflation is a political nightmare for Biden</a> CNN: Joe Biden's next political nightmare is inflation, a force that can destroy family budgets and political careers and is being driven by domestic and global factors tough for a president to quickly fix. 
  <p class="updated_time"> 10:39 PM CT, Nov. 10 </p> 
  <a href="https://www.cnn.com/2021/11/10/politics/kamala-harris-emmanuel-macron/index.html">Harris and Macron aim for increased US-French cooperation as world enters 'new era'</a> CNN: Vice President Kamala Harris and French President Emmanuel Macron said Wednesday they look forward to closer US-French cooperation as they sat down for a bilateral meeting at the Elysée Palace aimed at revitalizing US-French ties. 
  <p class="updated_time"> 09:48 PM CT, Nov. 10 </p> 
  <a href="https://www.cnn.com/2021/11/10/politics/belarus-follow-up-sanctions/index.html">White House preparing 'follow up' sanctions on Belarus</a> CNN: The United States is preparing "follow up sanctions" designed to hold leaders in Belarus accountable for "ongoing attacks on democracy, human rights and international norms," a spokesman for the White House's National Security Council said on Wednesday. 
- <p class="updated_time"> 07:25 PM CT, Nov. 10 </p> 
- <a href="https://www.nytimes.com/2021/11/10/climate/climate-cop26-glasgow.html">China and the United States Join in Seeking Emissions Cuts</a> NYT: As nearly 200 nations struggle over global climate negotiations, the world’s two biggest polluters sign an agreement, but it was short on details. 
  <p class="updated_time"> 07:02 PM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/world/europe/france-kamala-harris-macron.html">Harris Meets Macron, Signaling a ‘New Era’ After Sub Snub, Both Say</a> NYT: In her vague assignment abroad, the vice president seems to be emphasizing that the U.S.-France relationship is about looking forward, in the wake of an embarrassing diplomatic spat. 
  <p class="updated_time"> 06:28 PM CT, Nov. 10 </p> 
