@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:21 AM CT, Nov. 13 </p> 
+ <a href="https://www.nytimes.com/2021/11/13/world/asia/india-pakistan-afghanistan-wheat.html">India Wants to Send Wheat to Ease Afghan Hunger Crisis. Pakistan Has Yet to OK Transit.</a> NYT: Indian officials say Islamabad is dragging its feet on a request of transit for 50,000 tons of wheat to Afghanistan, where nine million people are on the brink of starvation. 
+ <p class="updated_time"> 11:02 AM CT, Nov. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/science-environment-59269886?at_medium=RSS&at_campaign=KARANGA">COP26: Climate summit approaches 'moment of truth'</a> BBC: The president of the COP26 climate summit says talks are approaching a "moment of truth". 
  <p class="updated_time"> 10:36 AM CT, Nov. 13 </p> 
  <a href="https://www.nytimes.com/2021/11/11/t-magazine/scorched-burnt-rice.html">The Thrilling Dare of Scorched Rice</a> NYT: When browned on the bottom of the pot by a skilled cook, the grain is transformed into a complex delicacy, one prized by food cultures around the world. 
  <p class="updated_time"> 10:26 AM CT, Nov. 13 </p> 
@@ -29,8 +33,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59273174?at_medium=RSS&at_campaign=KARANGA">Poland-Belarus border: The BBC reports from the camps within touching distance of the EU</a> BBC: Steve Rosenberg reports from the migrant camps within touching distance of the EU. 
  <p class="updated_time"> 08:44 AM CT, Nov. 13 </p> 
  <a href="https://www.nytimes.com/2021/11/12/world/americas/oklahoma-kevin-sitt-vaccine-mandate-national-guard.html">Oklahoma Governor Puts Foe of Vaccine Mandates in Charge of National Guard</a> NYT: The governor, Kevin Stitt, is one of a number of Republican state officials across the country who has been fighting against President Biden’s vaccine mandates. 
- <p class="updated_time"> 08:20 AM CT, Nov. 13 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-59269886?at_medium=RSS&at_campaign=KARANGA">COP26: Final push aims to strike new climate agreement</a> BBC: The new draft is unlikely to heal splits over subsidies for fossil fuels and financial aid. 
  <p class="updated_time"> 07:28 AM CT, Nov. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59274351?at_medium=RSS&at_campaign=KARANGA">Belarus-Poland border: Putin warns Belarus over gas threat to EU</a> BBC: Russia's leader says Belarus should not cut gas supplies to Europe over the migrant row with Poland. 
  <p class="updated_time"> 07:24 AM CT, Nov. 13 </p> 
