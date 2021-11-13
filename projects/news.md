@@ -7,10 +7,10 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:33 PM CT, Nov. 13 </p> 
- <a href="https://www.bbc.co.uk/news/uk-59275772?at_medium=RSS&at_campaign=KARANGA">Nazanin Zaghari-Ratcliffe: Husband ends hunger strike after 21 days</a> BBC: The husband of British-Iranian detainee Nazanin Zaghari-Ratcliffe says his child "needs two parents". 
- <p class="updated_time"> 04:17 PM CT, Nov. 13 </p> 
+ <p class="updated_time"> 04:57 PM CT, Nov. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-59277788?at_medium=RSS&at_campaign=KARANGA">COP26: New global climate deal struck in Glasgow</a> BBC: New global climate deal agreed at COP26 in Glasgow after last-minute wrangling over agreement on cutting coal 
+ <p class="updated_time"> 04:51 PM CT, Nov. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-59275772?at_medium=RSS&at_campaign=KARANGA">Nazanin Zaghari-Ratcliffe: Husband ends hunger strike after 21 days</a> BBC: The husband of British-Iranian detainee Nazanin Zaghari-Ratcliffe says his child "needs two parents". 
  <p class="updated_time"> 04:04 PM CT, Nov. 13 </p> 
  <a href="https://www.npr.org/2021/11/13/1055575802/lack-of-american-ambassadors-is-hurting-foreign-goals-says-afsa-president">Lack of American ambassadors is hurting foreign goals, says AFSA president</a> NPR: NPR's Michel Martin speaks with Eric Rubin, president of the American Foreign Service Association, about the high number of diplomatic vacancies and how it's affecting President Biden's agenda. 
  <p class="updated_time"> 04:04 PM CT, Nov. 13 </p> 
@@ -226,7 +226,7 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
- <p class="updated_time"> 04:47 PM CT, Nov. 13 </p> 
+ <p class="updated_time"> 04:51 PM CT, Nov. 13 </p> 
  <a href="https://www.cnn.com/2021/11/13/politics/fbi-fake-emails-cyber-threat/index.html">Fake FBI emails about a sophisticated attack are part of 'ongoing situation,' agency says</a> CNN: The FBI on Saturday said it was aware of reports that unauthorized emails were coming from a legitimate FBI email address to thousands of organizations about a purported cyber threat. 
  <p class="updated_time"> 04:23 PM CT, Nov. 13 </p> 
  <a href="https://www.politico.com/news/2021/11/13/cop26-climate-deal-vulnerable-countries-521446">COP26 climate deal ‘too late’ for vulnerable countries but too much for others</a> Politico: Countries struck a compromise in Glasgow that pushes efforts into next year. 
