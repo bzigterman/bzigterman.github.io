@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:41 AM CT, Nov. 13 </p> 
+ <a href="https://www.nytimes.com/2021/11/13/world/africa/sudan-protests.html">Sudanese Security Forces Fire on Protesters as Military Tightens Grip</a> NYT: At least five people were killed and several wounded as the police fired bullets and tear gas at demonstrators in Sudan’s capital, two days after the army chief signed a contentious decree. 
+ <p class="updated_time"> 11:26 AM CT, Nov. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-59275772?at_medium=RSS&at_campaign=KARANGA">Nazanin Zaghari-Ratcliffe: Husband ends hunger strike after 21 days</a> BBC: The husband of British-Iranian detainee Nazanin Zaghari-Ratcliffe says his child "needs two parents". 
  <p class="updated_time"> 11:21 AM CT, Nov. 13 </p> 
  <a href="https://www.nytimes.com/2021/11/13/world/asia/india-pakistan-afghanistan-wheat.html">India Wants to Send Wheat to Ease Afghan Hunger Crisis. Pakistan Has Yet to OK Transit.</a> NYT: Indian officials say Islamabad is dragging its feet on a request of transit for 50,000 tons of wheat to Afghanistan, where nine million people are on the brink of starvation. 
  <p class="updated_time"> 11:02 AM CT, Nov. 13 </p> 
@@ -15,14 +19,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/11/t-magazine/scorched-burnt-rice.html">The Thrilling Dare of Scorched Rice</a> NYT: When browned on the bottom of the pot by a skilled cook, the grain is transformed into a complex delicacy, one prized by food cultures around the world. 
  <p class="updated_time"> 10:26 AM CT, Nov. 13 </p> 
  <a href="https://www.nytimes.com/2021/11/13/world/middleeast/belarus-migrants-iraq-kurds.html">Migrants Say Belarusians Took Them to E.U. Border and Supplied Wire Cutters</a> NYT: Iraqi Kurds and other migrants said they were fleeing despair at home, but Belarus encouraged them, offering visas and helping them get to the border. 
- <p class="updated_time"> 10:25 AM CT, Nov. 13 </p> 
- <a href="https://www.nytimes.com/2021/11/13/world/africa/sudan-protests.html">Sudanese Security Forces Fire on Protesters as Military Tightens Grip</a> NYT: Three people were killed and several wounded as riot police fired bullets at demonstrators in Sudan’s capital, two days after the army chief signed a contentious decree. 
  <p class="updated_time"> 10:22 AM CT, Nov. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59274686?at_medium=RSS&at_campaign=KARANGA">Egypt: Scorpions kill three and injure hundreds in Aswan</a> BBC: Three people have been killed by scorpion bites during storms in the southern city of Aswan. 
  <p class="updated_time"> 10:08 AM CT, Nov. 13 </p> 
  <a href="https://www.nytimes.com/2021/11/13/world/europe/meghan-markle-uk-tabloids.html">Meghan's Image, Battered in Britain's Tabloids, Thrives in U.S.</a> NYT: She has re-emerged in America as a formidable A-list celebrity and social activist. In Britain, however, Meghan remains a polarizing figure. 
- <p class="updated_time"> 10:03 AM CT, Nov. 13 </p> 
- <a href="https://www.bbc.co.uk/news/uk-59275772?at_medium=RSS&at_campaign=KARANGA">Nazanin Zaghari-Ratcliffe: Husband ends hunger strike after 21 days</a> BBC: The husband of British-Iranian detainee Nazanin Zaghari-Ratcliffe says his child "needs two parents". 
  <p class="updated_time"> 09:58 AM CT, Nov. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59258409?at_medium=RSS&at_campaign=KARANGA">Covid: Dutch partial Covid lockdown sparks protests</a> BBC: Police in The Hague use water cannon on protesters opposing a lockdown amid a rise in Covid infections. 
  <p class="updated_time"> 09:50 AM CT, Nov. 13 </p> 
