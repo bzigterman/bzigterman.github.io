@@ -7,8 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
- <p class="updated_time"> 07:46 AM CT, Nov. 13 </p> 
- <a href="https://www.bbc.co.uk/news/uk-59275772?at_medium=RSS&at_campaign=KARANGA">Nazanin Zaghari-Ratcliffe: Husband ending hunger strike after 21 days</a> BBC: The husband of Iranian detainee Nazanin Zaghari-Ratcliffe ends his hunger strike outside the Foreign Office. 
+ <p class="updated_time"> 08:10 AM CT, Nov. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-59275772?at_medium=RSS&at_campaign=KARANGA">Nazanin Zaghari-Ratcliffe: Husband ending hunger strike after 21 days</a> BBC: The husband of Iranian detainee Nazanin Zaghari-Ratcliffe ends his protest outside the UK Foreign Office. 
  <p class="updated_time"> 07:28 AM CT, Nov. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59274351?at_medium=RSS&at_campaign=KARANGA">Belarus-Poland border: Putin warns Belarus over gas threat to EU</a> BBC: Russia's leader says Belarus should not cut gas supplies to Europe over the migrant row with Poland. 
  <p class="updated_time"> 07:24 AM CT, Nov. 13 </p> 
@@ -234,10 +234,12 @@ permalink: /projects/news/
 
  <p class="updated_time"> 08:01 AM CT, Nov. 13 </p> 
  <a href="https://www.politico.com/news/2021/11/13/africa-great-green-wall-521292">Africa’s ‘Great Green Wall’ shifts focus to hold off desert</a> Politico: Only 4% of the Great Green Wall’s original goal has been met, and an estimated $43 billion would be needed to achieve the rest. 
- <p class="updated_time"> 07:02 AM CT, Nov. 13 </p> 
- <a href="https://www.npr.org/2021/11/13/1055503629/steve-bannon-faces-federal-charges-for-contempt-of-congress">Steve Bannon faces federal charges for contempt of Congress</a> NPR: Steve Bannon, adviser to former President Donald Trump, was indicted Friday for contempt of Congress. 
+ <p class="updated_time"> 08:00 AM CT, Nov. 13 </p> 
+ <a href="https://www.nytimes.com/2021/11/13/us/politics/chris-christie-book-interview.html">Chris Christie Wants the Post-Trump G.O.P. to Move Past Trump</a> NYT: In a new book and in an interview, Mr. Christie says that if the former president wants to be a positive force, “he’s got to let this other stuff go.” 
  <p class="updated_time"> 07:02 AM CT, Nov. 13 </p> 
  <a href="https://www.politico.com/news/2021/11/13/democrats-drug-prices-521213">Dems’ plan to limit drug price inflation faces test in Senate</a> Politico: Attempts at price controls have to conform with the parameters of the expedited budget reconciliation process they’re hoping to use to pass the social spending package on a party-line vote. 
+ <p class="updated_time"> 07:02 AM CT, Nov. 13 </p> 
+ <a href="https://www.npr.org/2021/11/13/1055503629/steve-bannon-faces-federal-charges-for-contempt-of-congress">Steve Bannon faces federal charges for contempt of Congress</a> NPR: Steve Bannon, adviser to former President Donald Trump, was indicted Friday for contempt of Congress. 
  <p class="updated_time"> 07:02 AM CT, Nov. 13 </p> 
  <a href="https://www.npr.org/2021/11/13/1055503570/week-in-politics-biden-balances-tackling-inflation-and-working-on-his-spending-b">Week in politics: Biden balances tackling inflation and working on his spending bill</a> NPR: Will rising prices and an uncertain economic outlook change the prospects for President Biden's signature spending bill? Also updates on a House committee's probe into the attempted insurrection. 
  <p class="updated_time"> 07:00 AM CT, Nov. 13 </p> 
@@ -358,8 +360,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/12/julian-assange-given-permission-to-marry-partner-in-prison-521032">Julian Assange given permission to marry partner in prison</a> Politico: Assange and Moris made their relationship public in April 2020 and had applied to prison authorities for permission to wed. 
  <p class="updated_time"> 08:43 AM CT, Nov. 12 </p> 
  <a href="https://www.cnn.com/2021/11/12/politics/trump-pence-threats-january-6/index.html">Trump defends threats to Pence on 1/6 in new audio</a> CNN: Former President Donald Trump appeared to defend the threats made against then-Vice President Mike Pence during the January 6 insurrection in a new audio recording released Wednesday. 
- <p class="updated_time"> 07:55 AM CT, Nov. 12 </p> 
- <a href="https://www.nytimes.com/2021/11/11/health/veterans-psychedelics-ptsd-depression.html">Veterans Have Become Unlikely Lobbyists in Push to Legalize Psychedelic Drugs</a> NYT: Lawmakers find it hard to “just say no” to combat veterans seeking support for drug decriminalization efforts gaining traction around the country. 
  <p class="updated_time"> 07:43 AM CT, Nov. 12 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/11/12/could-mccarthy-win-the-gavel-495084">Could McCarthy win the gavel?</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:49 AM CT, Nov. 12 </p> 
