@@ -45,8 +45,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/12/world/europe/threats-troop-buildup-war.html">Fears of Belarus-Poland Conflict Amid Provocative Words and Troop Moves</a> NYT: On both sides of the Belarus-Poland border, hyperbole and military exercises have raised fears of an armed conflict in Europe. 
  <p class="updated_time"> 09:42 AM CT, Nov. 13 </p> 
  <a href="https://www.nytimes.com/2021/11/13/world/europe/portugal-remote-work-law-pandemic.html">Portugal Bars Employers From Contacting Remote Workers Off Hours</a> NYT: A new law, passed on Friday and in effect this weekend, is one of the world’s boldest efforts to regulate the remote work that the pandemic forced on many in the industrialized world. 
- <p class="updated_time"> 09:07 AM CT, Nov. 13 </p> 
- <a href="https://www.wsj.com/articles/cop26-negotiators-work-towards-climate-deal-11636810622">World Governments Agree To Strengthen Emissions Pledges</a> WSJ: More than 190 nations reached a deal at the United Nations climate summit that aims to accelerate greenhouse gas emissions cuts across the world but leaves deep questions over how governments will follow through in the coming decade to try and avert the worst effects of global warming. 
+ <p class="updated_time"> 09:28 AM CT, Nov. 13 </p> 
+ <a href="https://www.wsj.com/articles/cop26-negotiators-work-towards-climate-deal-11636810622">World Governments Agree to Strengthen Emissions Pledges</a> WSJ: More than 190 nations reached a deal at the United Nations climate summit that aims to accelerate greenhouse gas emissions cuts across the world, but leaves deep questions over how governments will follow through in the coming decade. 
  <p class="updated_time"> 08:56 AM CT, Nov. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59273174?at_medium=RSS&at_campaign=KARANGA">Poland-Belarus border: The BBC reports from the camps within touching distance of the EU</a> BBC: Steve Rosenberg reports from the migrant camps within touching distance of the EU. 
  <p class="updated_time"> 08:44 AM CT, Nov. 13 </p> 
