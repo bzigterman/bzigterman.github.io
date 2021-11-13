@@ -25,6 +25,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/12/world/europe/migrant-flights-belarus.html">Airlines Move to Curb Flow of Migrants to Belarus</a> NYT: Some airlines have agreed to stop taking Iraqi, Syrian and Yemeni citizens to Minsk, which the E.U. hopes will stem the flow of migrants to the bloc’s borders. 
  <p class="updated_time"> 02:00 AM CT, Nov. 13 </p> 
  <a href="https://www.nytimes.com/2021/11/13/world/asia/china-miner-poet-chen-nianxi.html">Deep Underground, a Chinese Miner Discovered Poetry in the Toil</a> NYT: Chen Nianxi has risen to fame as a “migrant worker poet,” adding the voice of China’s often-invisible laborers to the cultural conversation. 
+ <p class="updated_time"> 11:30 PM CT, Nov. 12 </p> 
+ <a href="https://www.wsj.com/articles/as-the-u-s-races-to-vaccinate-kids-against-covid-19-some-countries-hold-back-11636799400">As the U.S. Races to Vaccinate Kids, Some Countries Hold Back</a> WSJ: Immunizing children against Covid-19 is viewed by authorities in the U.S. and elsewhere as critical to get the upper hand over the virus. But in some parts of the world, such efforts have generated deep controversy. 
  <p class="updated_time"> 10:34 PM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/world/europe/lukashenko-putin-belarus-russia.html">Migrant Crisis in Belarus Tests Putin’s Uneasy Alliance With Lukashenko</a> NYT: Last year Vladimir V. Putin helped save Aleksandr G. Lukashenko’s Belarusian regime. But Russia now has an ever-more-erratic ally and risks entanglement in a dangerous crisis. 
  <p class="updated_time"> 09:23 PM CT, Nov. 12 </p> 
@@ -224,6 +226,16 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:00 AM CT, Nov. 13 </p> 
+ <a href="https://www.politico.com/news/2021/11/13/homer-plessy-key-to-separate-but-equal-on-road-to-pardon-521237">Homer Plessy, key to ‘separate but equal,’ on road to pardon</a> Politico: He was at the center of an infamous 1896 U.S. Supreme Court decision. 
+ <p class="updated_time"> 07:00 AM CT, Nov. 13 </p> 
+ <a href="https://www.politico.com/news/2021/11/13/dem-governors-2022-elections-521218">Dem governors seek to dodge Virginia redux in 2022</a> Politico: President Joe Biden's low approval ratings helped sink Terry McAuliffe, but Democrats are counting on a bounce back to save governors in battleground states next year. 
+ <p class="updated_time"> 06:00 AM CT, Nov. 13 </p> 
+ <a href="https://www.npr.org/2021/11/13/1054711913/progressives-wealth-tax-super-rich-elon-musk-jeff-bezos">Progressives want a wealth tax for the super rich. Here's why it's hard to pull off</a> NPR: Progressives are pushing for a wealth tax targeted at the ultra rich like Jeff Bezos and Elon Musk. However, as it turns out, taxing the richest people in the world is easier said than done. 
+ <p class="updated_time"> 06:00 AM CT, Nov. 13 </p> 
+ <a href="https://www.npr.org/2021/11/13/1055407519/republicans-and-democrats-contemplate-a-future-without-donald-trump">Republicans and Democrats contemplate a future without Donald Trump</a> NPR: Both parties in Virginia and New Jersey were left to contemplate how Republicans ran well without Trump on the ballot or in office, while Democrats found it hard to hold recent gains in the suburbs. 
+ <p class="updated_time"> 06:00 AM CT, Nov. 13 </p> 
+ <a href="https://www.npr.org/2021/11/13/1055315389/inflation-president-biden-groceries-gas-food-energy-prices">Inflation is surging and people are hopping mad</a> NPR: Inflation is the highest it's been in more than 30 years, imposing a financial burden on households and putting President Biden under pressure. 
  <p class="updated_time"> 11:06 PM CT, Nov. 12 </p> 
  <a href="https://www.politico.com/news/2021/11/12/federal-court-biden-vaccine-or-test-mandate-521233">Federal court extends stay of Biden administration's vaccine-or-test mandate</a> Politico: The Biden administration is likely to appeal the panel's decision to the full court. 
  <p class="updated_time"> 09:50 PM CT, Nov. 12 </p> 
@@ -352,8 +364,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/12/politics/joe-biden-inflation-explainer/index.html">Biden could show he's serious about inflation by replacing the Fed chief</a> CNN: Soaring inflation is quickly becoming a political liability for President Joe Biden, who has shifted his public message to acknowledging the problem and commiserating with Americans over higher prices. 
  <p class="updated_time"> 05:00 AM CT, Nov. 12 </p> 
  <a href="https://www.politico.com/news/2021/11/12/jeff-flake-manu-raju-cat-mouse-520990">CNN's Manu Raju vs. Jeff Flake: Cat and mouse</a> Politico: On this episode of Playbook Deep Dive, we chase the people who chase lawmakers and tag along for the hide-and-seek between Congress and the media, and the daily challenge of covering the Hill. 
- <p class="updated_time"> 05:00 AM CT, Nov. 12 </p> 
- <a href="https://www.politico.com/news/2021/11/12/jeff-flake-manu-raju-cat-mouse-520990">CNN's Manu Raju vs. Jeff Flake: Cat and mouse</a> Politico: On this episode of Playbook Deep Dive, we chase the people who chase lawmakers and tag along for the hide-and-seek between Congress and the media, and the daily challenge of covering the Hill. 
  <p class="updated_time"> 04:30 AM CT, Nov. 12 </p> 
  <a href="https://www.politico.com/news/2021/11/12/mccarthys-bumpy-ride-to-the-speakership-520670">McCarthy's vexing speaker math problem</a> Politico: Will he glide to the speakership or have a white-knuckle ride? The size of next year's Republican gains could make the difference. 
  <p class="updated_time"> 04:30 AM CT, Nov. 12 </p> 
@@ -372,8 +382,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/11/ohio-senate-jewish-campaign-ad-mandel-521007">‘But he’s Jewish’: Opponent questions Mandel’s faith in Ohio Senate primary debate</a> Politico: The Republican Senate frontrunner was targeted earlier in an ad criticizing him for courting evangelical Christians. 
  <p class="updated_time"> 10:10 PM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/us/politics/biden-veterans-day.html">Biden Marks First Veterans Day in Two Decades Without Troops in Active Combat</a> NYT: President Biden, who ended the 20-year conflict in Afghanistan this summer, called veterans the “soul of America.” 
- <p class="updated_time"> 08:23 PM CT, Nov. 11 </p> 
- <a href="https://www.npr.org/sections/coronavirus-live-updates/2021/11/11/1054959986/states-lawsuit-biden-administration-covid-vaccine-mandate-health-workers">10 states sue Biden administration over COVID vaccine mandate for health care workers</a> NPR: The state attorneys general argue the vaccine mandate will lead to shortages of health care workers and could threaten the jobs of millions. 
  <p class="updated_time"> 05:30 PM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/us/politics/facebook-political-ads.html">Facebook's Ad Policies Changed, but Political Campaigns Can Still Target You</a> NYT: Meta announced changes to its ad-targeting policies, but they will do little to stop campaigns from reaching specific voters. 
  <p class="updated_time"> 05:16 PM CT, Nov. 11 </p> 
@@ -390,10 +398,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/11/dems-white-house-biden-520946">Dems to White House: The only prescription is more Biden</a> Politico: The president has been more a facilitator than manager of the legislative process. His party wants more of the latter. 
  <p class="updated_time"> 04:39 PM CT, Nov. 11 </p> 
  <a href="https://www.cnn.com/2021/11/11/politics/jerome-powell-joe-biden/index.html">Powell seen as the frontrunner to be Biden's pick for Federal Reserve chair as he nears a decision</a> CNN: President Joe Biden is nearing a decision on his choice for Federal Reserve chair, with observers inside and outside the administration viewing incumbent Jerome Powell as the front-runner for another term. 
- <p class="updated_time"> 04:04 PM CT, Nov. 11 </p> 
- <a href="https://www.npr.org/2021/11/11/1054884193/the-infrastructure-plan-passed-now-departments-are-figuring-out-how-to-spend-it">The infrastructure plan passed. Now, departments are figuring out how to spend it</a> NPR: Government departments are scrambling to figure out how to spend the $1 trillion in the infrastructure package. Some will go to existing grant programs, while others need to be created from scratch. 
- <p class="updated_time"> 03:31 PM CT, Nov. 11 </p> 
- <a href="https://www.npr.org/2021/11/11/1054884112/xi-jinping-is-in-a-good-position-to-break-norms-and-continue-to-lead-china">Xi Jinping is in a good position to break norms and continue to lead China</a> NPR: In China, leadership has concluded a four-day meeting that endorsed Xi Jinping's vision for the country and signed off on a reassessment of the party's 100-year history. 
  <p class="updated_time"> 01:01 PM CT, Nov. 11 </p> 
  <a href="https://www.politico.com/news/2021/11/11/biden-administration-armed-drones-indonesia-520888">Biden administration wrestles with selling armed drones to Indonesia</a> Politico: The country's human rights abuses, and past purchases of Russian equipment, are among the concerns in Washington. 
  <p class="updated_time"> 12:23 PM CT, Nov. 11 </p> 
@@ -428,8 +432,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/10/schumer-billions-new-york-public-housing-520519">Schumer scores billions for New York's decaying public housing</a> Politico: The jockeying over the housing funds is one of many emerging sources of political tension surrounding President Joe Biden's bill. 
  <p class="updated_time"> 04:30 AM CT, Nov. 10 </p> 
  <a href="https://www.politico.com/news/2021/11/10/biden-vaccine-mandates-va-mcdonough-520564">Biden called for widespread mandates. His VA is navigating its own minefields.</a> Politico: An overwhelming number of staff have gotten vaccinated. But a month after the deadline, at least ten percent of a 380,000 health care workforce still haven’t. 
- <p class="updated_time"> 12:26 AM CT, Nov. 10 </p> 
- <a href="https://www.politico.com/news/2021/11/10/jan6-shaman-sentencing-recommendation-520570">51-month sentence urged for ‘QAnon Shaman’ Jacob Chansley</a> Politico: “Defendant Chansley’s now-famous criminal acts have made him the public face of the Capitol riot,” prosecutors said. 
  <p class="updated_time"> 07:23 PM CT, Nov. 09 </p> 
  <a href="https://www.politico.com/news/2021/11/09/chris-sununu-new-hampshire-gov-senate-520533">Sununu announcement act rubs top Republicans the wrong way</a> Politico: The New Hampshire governor not only blindsided the Senate GOP, he plugged his own presidential prospects. 
  <p class="updated_time"> 06:13 PM CT, Nov. 09 </p> 
