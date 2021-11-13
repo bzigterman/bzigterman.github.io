@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:28 PM CT, Nov. 13 </p> 
+ <a href="https://www.nytimes.com/2021/11/13/world/canada/newfoundland-migrants.html">In Canada's Atlantic, Urbanites Find Welcome and Blowback</a> NYT: As housing prices soar in big cities, the country’s eastern provinces are experiencing a surge in migration. Newcomers are being welcomed, but some locals are wary. 
  <p class="updated_time"> 01:24 PM CT, Nov. 13 </p> 
  <a href="https://www.npr.org/2021/11/13/1055540992/an-antarctic-penguin-ends-up-on-new-zealand-shore-2-000-miles-from-home">An Antarctic penguin ends up on New Zealand shore, 2,000 miles from home</a> NPR: This penguin's adventure might have taken a few wrong turns. It's only the third time an Adélie penguin is known to have made it to the shores of New Zealand. 
  <p class="updated_time"> 01:18 PM CT, Nov. 13 </p> 
@@ -55,8 +57,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/13/1055503636/climate-negotiations-at-cop26-center-on-timeline-and-aid-to-developing-countries">Climate negotiations at COP26 center on timeline and aid to developing countries</a> NPR: Climate negotiations in Glasgow, Scotland, have gone into overtime. Countries are divided over how quickly to cut greenhouse gas emissions and over aid to developing countries. 
  <p class="updated_time"> 07:00 AM CT, Nov. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59274685?at_medium=RSS&at_campaign=KARANGA">Glen de Vries: William Shatner's spacecraft partner dies in plane crash</a> BBC: Glen de Vries went to the the edge of space with Star Trek actor William Shatner just one month ago. 
- <p class="updated_time"> 06:54 AM CT, Nov. 13 </p> 
- <a href="https://www.nytimes.com/2021/11/13/world/canada/newfoundland-migrants.html">In Canada's Atlantic, Urbanites Find Welcome and Blowback</a> NYT: As housing prices soar in big cities, the country’s eastern provinces are experiencing a surge in migration. Newcomers are being welcomed, but some locals are wary. 
  <p class="updated_time"> 06:35 AM CT, Nov. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59274204?at_medium=RSS&at_campaign=KARANGA">Sara Duterte: Daughter of Philippines leader runs for vice-president</a> BBC: Sara Duterte will run alongside the son of the country's former dictator, Ferdinand Marcos. 
  <p class="updated_time"> 06:25 AM CT, Nov. 13 </p> 
@@ -259,7 +259,7 @@ permalink: /projects/news/
  <p class="updated_time"> 07:43 AM CT, Nov. 13 </p> 
  <a href="https://www.cnn.com/2021/11/13/politics/steve-bannon-january-6-indictment/index.html">Bannon's indictment may mark a turning point</a> CNN: The indictment of former President Donald Trump's chief strategist Steve Bannon on charges of criminal contempt of Congress on Friday sent shock waves through Washington -- serving as a powerful warning to other potential witnesses that there will be consequences for defying the House select committee investigating the January 6 attack on the US Capitol. 
  <p class="updated_time"> 07:02 AM CT, Nov. 13 </p> 
- <a href="https://www.politico.com/news/2021/11/13/democrats-drug-prices-521213">Dems’ plan to limit drug price inflation faces test in Senate</a> Politico: Attempts at price controls have to conform with the parameters of the expedited budget reconciliation process they’re hoping to use to pass the social spending package on a party-line vote. 
+ <a href="https://www.politico.com/news/2021/11/13/democrats-drug-prices-521213">Dems’ plan to limit drug price inflation faces test in Senate</a> Politico: Attempts at price controls have to conform with the parameters of the budget reconciliation process they’re hoping to use to pass the social spending package on a party-line vote. 
  <p class="updated_time"> 07:02 AM CT, Nov. 13 </p> 
  <a href="https://www.npr.org/2021/11/13/1055503629/steve-bannon-faces-federal-charges-for-contempt-of-congress">Steve Bannon faces federal charges for contempt of Congress</a> NPR: Steve Bannon, adviser to former President Donald Trump, was indicted Friday for contempt of Congress. 
  <p class="updated_time"> 07:02 AM CT, Nov. 13 </p> 
