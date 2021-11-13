@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:05 PM CT, Nov. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59265609?at_medium=RSS&at_campaign=KARANGA">BBC's Simpson revisits Afghanistan under the Taliban</a> BBC: In 2001, the BBC's World Affairs editor was part of a team which entered the city when the Taliban fell. 
  <p class="updated_time"> 05:26 PM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/us/politics/kamala-harris-macron-france.html">In France, Kamala Harris Asserts Herself as a Diplomatic Asset</a> NYT: The vice president met with President Emmanuel Macron of France, skirting recent U.S.-French tensions, and immersed herself in issues like Libya and cybersecurity. 
  <p class="updated_time"> 05:24 PM CT, Nov. 12 </p> 
@@ -53,6 +55,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/11/world/africa/fw-de-klerk-dead.html">F.W. de Klerk, South Africa President Who Ended Apartheid, Dies at 85</a> NYT: A prominent Afrikaner, he defended the separation of the races before helping to dismantle that system, leading to his sharing the Nobel Peace Prize with Nelson Mandela. 
  <p class="updated_time"> 12:56 PM CT, Nov. 12 </p> 
  <a href="https://www.npr.org/sections/coronavirus-live-updates/2021/11/12/1055100209/europe-russia-covid-cases-surge-spike">Europe and Russia battle a new wave of COVID-19</a> NPR: More lockdowns are in the offing, as Germany and Austria shatter daily case counts and Russia has become become the world leader in new COVID-19 deaths. 
+ <p class="updated_time"> 12:54 PM CT, Nov. 12 </p> 
+ <a href="https://www.wsj.com/articles/u-s-briefs-allies-on-possible-russian-threat-toward-ukraine-11636756959">U.S. Briefs Allies on Possible Russian Threat Toward Ukraine</a> WSJ: As Russian troops continue movements near Ukraine border, U.S. urges pressure against Moscow; Kremlin dismisses concerns. 
  <p class="updated_time"> 12:45 PM CT, Nov. 12 </p> 
  <a href="https://www.bbc.co.uk/news/57975275?at_medium=RSS&at_campaign=KARANGA">COP 26: How much are poor countries getting to fight climate change?</a> BBC: Are rich countries close to meeting their climate promises to the developing world? 
  <p class="updated_time"> 12:41 PM CT, Nov. 12 </p> 
@@ -63,8 +67,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/houthi-rebels-in-yemen-storm-former-u-s-embassy-take-hostages-11636752761">Houthi Rebels in Yemen Occupy U.S. Embassy Compound, Take Hostages</a> WSJ: The majority of U.S.-employed Yemeni security personnel taken hostage in the capital San’a earlier this week have been freed, U.S. officials said. 
  <p class="updated_time"> 12:02 PM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/world/middleeast/israel-ethiopia-jews-immigration.html">Ethiopian Civil War Sparks Rancorous Debate Over Immigration to Israel</a> NYT: Thousands of relatives of the remnants of Ethiopian Jewry are waiting to be airlifted to Israel. For now, the Israeli government sees no urgency. 
- <p class="updated_time"> 11:42 AM CT, Nov. 12 </p> 
- <a href="https://www.wsj.com/articles/u-s-briefs-allies-on-possible-russian-threat-toward-ukraine-11636756959">U.S. Briefs Allies on Possible Russian Threat Toward Ukraine</a> WSJ: As Russian troops continue movements near Ukraine border, U.S. urges pressure against Moscow; Kremlin dismisses concerns. 
  <p class="updated_time"> 11:41 AM CT, Nov. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59266211?at_medium=RSS&at_campaign=KARANGA">French teenage jogger admits lying about kidnap escape</a> BBC: The 17-year-old had claimed she escaped her kidnappers, in a case that has gripped France. 
  <p class="updated_time"> 11:20 AM CT, Nov. 12 </p> 
@@ -119,8 +121,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/11/world/europe/austria-chancellor-lockdown-unvaccinated.html">Austria Weighs a Lockdown for Unvaccinated People</a> NYT: The country’s case rate has more than doubled since late October. 
  <p class="updated_time"> 03:31 AM CT, Nov. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-53494405?at_medium=RSS&at_campaign=KARANGA">Britney Spears: Singer's conservatorship case explained</a> BBC: The US singer's bid to end her father's guardianship could reach its conclusion this week. 
- <p class="updated_time"> 03:00 AM CT, Nov. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-59244533?at_medium=RSS&at_campaign=KARANGA">'Selfies are taking away our livelihood'</a> BBC: Temple photographers in this Indian town are struggling to make a living in the age of selfies. 
  <p class="updated_time"> 02:36 AM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/11/world/europe/migrants-poland-belarus-lukashenko.html">Migrants in Peril, and Raw Emotions, in a Volatile European Border Standoff</a> NYT: A confrontation over migrants between Belarus and Poland is growing more volatile, as nationalist fervor rises in both countries and a humanitarian disaster looms. 
  <p class="updated_time"> 02:09 AM CT, Nov. 12 </p> 
@@ -214,18 +214,18 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:12 PM CT, Nov. 12 </p> 
+ <a href="https://www.nytimes.com/2021/11/12/us/politics/bannon-indicted.html">Bannon Indicted on Contempt Charges Over House’s Capitol Riot Inquiry</a> NYT: Stephen K. Bannon, a former top aide to Donald Trump, had refused to comply with subpoenas from the House committee investigating the Jan. 6 attack on Congress. 
+ <p class="updated_time"> 06:03 PM CT, Nov. 12 </p> 
+ <a href="https://www.cnn.com/2021/11/12/politics/trump-lawsuits-michael-cohen-summer-zervos/index.html">Trump scores legal wins with one lawsuit dropped and another dismissed</a> CNN: Former President Donald Trump scored two big legal victories Friday and avoided having to sit for a deposition in a defamation lawsuit after former "Apprentice" contestant Summer Zervos agreed to drop her claims, according to a court filing, and a New York judge granted Trump's motion to dismiss a 2019 lawsuit filed by his former personal attorney Michael Cohen against the Trump Organization. 
  <p class="updated_time"> 05:26 PM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/us/politics/kamala-harris-macron-france.html">In France, Kamala Harris Asserts Herself as a Diplomatic Asset</a> NYT: The vice president met with President Emmanuel Macron of France, skirting recent U.S.-French tensions, and immersed herself in issues like Libya and cybersecurity. 
  <p class="updated_time"> 05:23 PM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/us/politics/biden-china-xi-jinping.html">Biden and China’s Xi Will Hold Virtual Summit on Monday</a> NYT: The leaders of the world’s two largest economies confront tensions over trade, cyberthreats, the climate, Taiwan and human rights. 
- <p class="updated_time"> 04:45 PM CT, Nov. 12 </p> 
- <a href="https://www.nytimes.com/2021/11/12/us/politics/bannon-indicted.html">Bannon Indicted on Contempt Charges Over House’s Capitol Riot Inquiry</a> NYT: Stephen K. Bannon, a former top aide to Donald Trump, had refused to comply with subpoenas from the House committee investigating the Jan. 6 attack on Congress. 
  <p class="updated_time"> 04:36 PM CT, Nov. 12 </p> 
  <a href="https://www.cnn.com/2021/11/12/politics/steve-bannon-indicted/index.html">Federal grand jury indicts Steve Bannon for contempt of Congress</a> CNN: A federal grand jury has returned an indictment against former Trump adviser Steve Bannon, CNN has learned. 
  <p class="updated_time"> 04:33 PM CT, Nov. 12 </p> 
  <a href="https://www.cnn.com/2021/11/12/politics/biden-admin-ethiopia-eritrea-sanctions/index.html">Biden administration sanctions Eritrean military, ruling party over role in northern Ethiopia conflict</a> CNN: The Biden administration sanctioned Eritrea's military and sole political party for their involvement in the ongoing crisis in northern Ethiopia. 
- <p class="updated_time"> 04:27 PM CT, Nov. 12 </p> 
- <a href="https://www.cnn.com/2021/11/12/politics/trump-lawsuits-michael-cohen-summer-zervos/index.html">Trump scores legal wins with one lawsuit dropped and another dismissed</a> CNN: Former President Donald Trump scored two big legal victories Friday and avoided having to sit for a deposition in a defamation lawsuit after former "Apprentice" contestant Summer Zervos agreed to drop her claims, according to a court filing, and a New York judge granted Trump's motion to dismiss a 2019 lawsuit filed by his former personal attorney Michael Cohen against the Trump Organization. 
  <p class="updated_time"> 04:19 PM CT, Nov. 12 </p> 
  <a href="https://www.cnn.com/2021/11/12/politics/mark-meadows-january-6-deposition/index.html">Mark Meadows did not appear for deposition with January 6 committee</a> CNN: Former Trump White House Chief of Staff Mark Meadows did not appear in person for a deposition on Friday in front of the House select committee investigating January 6, setting up a potential showdown that could lead to the panel beginning a criminal referral process against him. 
  <p class="updated_time"> 04:09 PM CT, Nov. 12 </p> 
