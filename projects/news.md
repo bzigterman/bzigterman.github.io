@@ -7,12 +7,12 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:49 PM CT, Nov. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/world-59277788?at_medium=RSS&at_campaign=KARANGA">COP26: New global climate deal struck in Glasgow</a> BBC: New global climate deal agreed at COP26 in Glasgow after last-minute wrangling over agreement on cutting coal 
  <p class="updated_time"> 03:35 PM CT, Nov. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59274688?at_medium=RSS&at_campaign=KARANGA">Covid: Dutch accept life within 'lockdown-lite'</a> BBC: Most in the Netherlands support a new lockdown-lite, despite anti-lockdown protests making headlines. 
  <p class="updated_time"> 03:00 PM CT, Nov. 13 </p> 
  <a href="https://www.bbc.co.uk/news/uk-59275772?at_medium=RSS&at_campaign=KARANGA">Nazanin Zaghari-Ratcliffe: Husband ends hunger strike after 21 days</a> BBC: The husband of British-Iranian detainee Nazanin Zaghari-Ratcliffe says his child "needs two parents". 
- <p class="updated_time"> 02:32 PM CT, Nov. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-59277788?at_medium=RSS&at_campaign=KARANGA">COP26: New global climate deal struck in Glasgow</a> BBC: New global climate deal agreed at COP26 in Glasgow after last-minute wrangling over agreement on cutting coal 
  <p class="updated_time"> 01:42 PM CT, Nov. 13 </p> 
  <a href="https://www.npr.org/2021/11/13/1055559578/ecuador-prison-battle-deaths-gangs">Dozens of inmates die in a battle between prison gangs in Ecuador </a> NPR: A prolonged gun battle between rival gangs inside Ecuador's largest prison was the latest violence to hit the Litoral Penitentiary, which recently saw the country's worst prison bloodbath. 
  <p class="updated_time"> 01:28 PM CT, Nov. 13 </p> 
