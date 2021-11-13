@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:11 PM CT, Nov. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59271928?at_medium=RSS&at_campaign=KARANGA">Summer Zervos: Ex-Apprentice drops lawsuit against Trump</a> BBC: Mr Trump declares himself "totally vindicated" as Summer Zervos abandons her long-running lawsuit. 
  <p class="updated_time"> 06:48 PM CT, Nov. 12 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59217825?at_medium=RSS&at_campaign=KARANGA">Britney Spears released from 13-year conservatorship</a> BBC: An LA judge terminates a legal guardianship set up by the 39-year-old pop star's father in 2008. 
  <p class="updated_time"> 06:45 PM CT, Nov. 12 </p> 
@@ -95,8 +97,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/12/world/europe/julian-assange-stella-moris-marriage.html">Julian Assange Will Marry Stella Moris in London Prison</a> NYT: The WikiLeaks founder, who is battling extradition to the United States on espionage charges, has been granted permission to marry Stella Moris in the London prison where he has been held since 2019. 
  <p class="updated_time"> 09:46 AM CT, Nov. 12 </p> 
  <a href="https://www.npr.org/2021/11/12/1055055724/in-a-first-u-n-climate-agreement-could-include-the-words-coal-and-fossil-fuels">In a first, U.N. climate agreement could include the words 'coal' and 'fossil fuels'</a> NPR: The U.N. secretary-general warns the main goal of limiting global warming is "on life support." But Glasgow negotiators are making modest progress in their final hours. 
- <p class="updated_time"> 09:29 AM CT, Nov. 12 </p> 
- <a href="https://www.bbc.co.uk/news/technology-59262329?at_medium=RSS&at_campaign=KARANGA">US President Joe Biden tightens restrictions on Huawei and ZTE</a> BBC: A new law stops companies judged to be a security threat receiving telecoms equipment licences. 
  <p class="updated_time"> 09:26 AM CT, Nov. 12 </p> 
  <a href="https://www.npr.org/2021/11/12/1055045794/julian-assange-wins-permission-to-get-married-while-in-a-london-prison">Julian Assange wins permission to marry his partner in a London prison</a> NPR: The WikiLeaks founder and attorney Stella Moris began a relationship after Assange took refuge in the Ecuadorian Embassy in London in 2012. They have two sons together. 
  <p class="updated_time"> 09:25 AM CT, Nov. 12 </p> 
@@ -133,8 +133,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/11/world/europe/migrants-poland-belarus-lukashenko.html">Migrants in Peril, and Raw Emotions, in a Volatile European Border Standoff</a> NYT: A confrontation over migrants between Belarus and Poland is growing more volatile, as nationalist fervor rises in both countries and a humanitarian disaster looms. 
  <p class="updated_time"> 02:09 AM CT, Nov. 12 </p> 
  <a href="https://www.npr.org/2021/11/12/1055027411/a-u-s-journalist-is-sentenced-to-11-years-in-jail-by-a-court-in-myanmar">A U.S. journalist is sentenced to 11 years in jail by a court in Myanmar</a> NPR: A court in military-ruled Myanmar sentenced journalist Danny Fenster to 11 years in prison after finding him guilty on several charges, including incitement for allegedly spreading false information. 
- <p class="updated_time"> 01:43 AM CT, Nov. 12 </p> 
- <a href="https://www.bbc.co.uk/news/business-59229996?at_medium=RSS&at_campaign=KARANGA">Japanese giant Toshiba announces breakup plan</a> BBC: The conglomerate has come under increasing pressure from activist investors to reform. 
  <p class="updated_time"> 01:24 AM CT, Nov. 12 </p> 
  <a href="https://www.bbc.co.uk/news/stories-59255218?at_medium=RSS&at_campaign=KARANGA">Ron Jeremy: Porn star's accusers speak out for first time</a> BBC: Some of his accusers speak for the first time of their alleged experiences. He denies all charges. 
  <p class="updated_time"> 01:00 AM CT, Nov. 12 </p> 
@@ -222,6 +220,10 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:37 PM CT, Nov. 12 </p> 
+ <a href="https://www.politico.com/news/2021/11/12/jury-rittenhouse-lesser-charges-521226">Jury to get to weigh some lesser charges in Rittenhouse case</a> Politico: Jurors are expected to begin deliberating on Monday after closing arguments. 
+ <p class="updated_time"> 08:05 PM CT, Nov. 12 </p> 
+ <a href="https://www.nytimes.com/2021/11/12/us/politics/court-vaccine-mandate.html">Appeals Court Extends Block on Biden’s Vaccine Mandate for Employers</a> NYT: A three-judge panel of the U.S. Court of Appeals for the Fifth Circuit held that challengers were likely to succeed in their claim that the mandate was an unlawful overreach. 
  <p class="updated_time"> 07:14 PM CT, Nov. 12 </p> 
  <a href="https://www.cnn.com/2021/11/12/politics/steve-bannon-indicted/index.html">Federal grand jury indicts Steve Bannon for contempt of Congress</a> CNN: A federal grand jury has returned an indictment against former Trump adviser Steve Bannon, CNN has learned. 
  <p class="updated_time"> 07:07 PM CT, Nov. 12 </p> 
@@ -388,8 +390,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/11/politics/biden-veterans-day-arlington/index.html">'You are the very spine of America': Biden honors those who served on Veterans Day in Arlington</a> CNN: President Joe Biden honored Veterans Day at Arlington National Cemetery on Thursday, paying homage to Americans who have served and laying a wreath at the Tomb of the Unknown Soldier. 
  <p class="updated_time"> 09:21 AM CT, Nov. 11 </p> 
  <a href="https://www.cnn.com/2021/11/11/politics/high-inflation-economy-groceries-gas/index.html">What Americans are changing to keep up with rising prices</a> CNN: Though Thanksgiving is still two weeks away, Travis Moffatt and his fiancée, Britnie Walston, have already purchased three apple pies for their family dinner and socked them away in the freezer. 
- <p class="updated_time"> 08:02 AM CT, Nov. 11 </p> 
- <a href="https://www.nytimes.com/2021/11/10/us/politics/moderna-vaccine-patent-nih.html">N.I.H. Says It Is Not Giving Up in Patent Fight with Moderna</a> NYT: The dispute has potential implications for the vaccine’s long-term availability and billions in future profits. 
  <p class="updated_time"> 07:00 AM CT, Nov. 11 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/11/11/just-checking-the-cbo-score-495067">Just checking the (CBO) score</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:16 AM CT, Nov. 11 </p> 
