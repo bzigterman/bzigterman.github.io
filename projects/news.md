@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:33 AM CT, Nov. 13 </p> 
+ <a href="https://www.nytimes.com/2021/11/13/world/asia/philippines-sara-duterte-marcos.html">Sara Duterte Joins Ferdinand Marcos Jr.'s Run for President</a> NYT: Ferdinand Marcos Jr., who hopes to succeed Rodrigo Duterte as president, said Sara Duterte would effectively be his running mate. 
  <p class="updated_time"> 12:30 AM CT, Nov. 13 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59269886?at_medium=RSS&at_campaign=KARANGA">COP26: Crunch time as climate deal talks pass deadline</a> BBC: Divisions remain over continuing subsidies for fossil fuels and financial help to poorer nations. 
  <p class="updated_time"> 10:34 PM CT, Nov. 12 </p> 
