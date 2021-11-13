@@ -7,14 +7,16 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:07 AM CT, Nov. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-scotland-glasgow-west-59176752?at_medium=RSS&at_campaign=KARANGA">COP26: The story from Glasgow in 15 pictures</a> BBC: The most eye-catching demonstrations and unusual stories during COP26 have unfolded on the streets of Glasgow. 
+ <p class="updated_time"> 03:04 AM CT, Nov. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/science-environment-59269886?at_medium=RSS&at_campaign=KARANGA">COP26: Talks run into overtime amid lingering divisions</a> BBC: Splits over subsidies for fossil fuels and financial help to poorer nations have taken talks into overtime. 
  <p class="updated_time"> 02:52 AM CT, Nov. 13 </p> 
  <a href="https://www.nytimes.com/2021/11/12/world/europe/migrant-flights-belarus.html">Airlines Move to Curb Flow of Migrants to Belarus</a> NYT: Some airlines have agreed to stop taking Iraqi, Syrian and Yemeni citizens to Minsk, which the E.U. hopes will stem the flow of migrants to the bloc’s borders. 
  <p class="updated_time"> 02:00 AM CT, Nov. 13 </p> 
  <a href="https://www.nytimes.com/2021/11/13/world/asia/china-miner-poet-chen-nianxi.html">Deep Underground, a Chinese Miner Discovered Poetry in the Toil</a> NYT: Chen Nianxi has risen to fame as a “migrant worker poet,” adding the voice of China’s often-invisible laborers to the cultural conversation. 
  <p class="updated_time"> 01:33 AM CT, Nov. 13 </p> 
  <a href="https://www.nytimes.com/2021/11/13/world/asia/philippines-sara-duterte-marcos.html">Sara Duterte and Ferdinand Marcos Jr. May Join Forces in Philippines</a> NYT: Ferdinand Marcos Jr., who hopes to succeed Rodrigo Duterte as president, said Sara Duterte would effectively be his running mate. 
- <p class="updated_time"> 12:30 AM CT, Nov. 13 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-59269886?at_medium=RSS&at_campaign=KARANGA">COP26: Crunch time as climate deal talks pass deadline</a> BBC: Divisions remain over continuing subsidies for fossil fuels and financial help to poorer nations. 
  <p class="updated_time"> 10:34 PM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/world/europe/lukashenko-putin-belarus-russia.html">Migrant Crisis in Belarus Tests Putin’s Uneasy Alliance With Lukashenko</a> NYT: Last year Vladimir V. Putin helped save Aleksandr G. Lukashenko’s Belarusian regime. But Russia now has an ever-more-erratic ally and risks entanglement in a dangerous crisis. 
  <p class="updated_time"> 09:23 PM CT, Nov. 12 </p> 
@@ -43,8 +45,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/stories-59171107?at_medium=RSS&at_campaign=KARANGA">'I could have been a racist killer'</a> BBC: As a teenager, Mike was an armed and angry US Nazi. Looking back, he fears he came close to murder. 
  <p class="updated_time"> 05:19 PM CT, Nov. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59270291?at_medium=RSS&at_campaign=KARANGA">Steve Bannon charged with contempt of Congress</a> BBC: Former Trump strategist charged after refusing to testify to committee investigating US Capitol riot. 
- <p class="updated_time"> 04:54 PM CT, Nov. 12 </p> 
- <a href="https://www.bbc.co.uk/news/uk-scotland-glasgow-west-59176752?at_medium=RSS&at_campaign=KARANGA">COP26: The story from Glasgow in 15 pictures</a> BBC: The most eye-catching demonstrations and unusual stories during COP26 have unfolded on the streets of Glasgow. 
  <p class="updated_time"> 04:30 PM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/11/world/asia/zuo-fang-dead.html">Zuo Fang, a Founder of China's Southern Weekly, is Dead</a> NYT: When he helped start Southern Weekly, he charted a course for a freer era for the country’s press, which later became increasingly constrained by Beijing. 
  <p class="updated_time"> 04:16 PM CT, Nov. 12 </p> 
