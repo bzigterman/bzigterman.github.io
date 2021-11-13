@@ -7,6 +7,12 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:55 AM CT, Nov. 13 </p> 
+ <a href="https://www.nytimes.com/2021/11/10/world/europe/poland-belarus-border-europe.html">Poland Gets Support From Europe on Tough Borders</a> NYT: Faced with the weaponization of migrants from Belarus, the European Union is defending Poland’s hard line even as it withholds funds over rule of law violations. 
+ <p class="updated_time"> 09:50 AM CT, Nov. 13 </p> 
+ <a href="https://www.nytimes.com/2021/11/12/world/europe/threats-troop-buildup-war.html">Fears of Belarus-Poland Conflict Amid Provocative Words and Troop Moves</a> NYT: On both sides of the Belarus-Poland border, hyperbole and military exercises have raised fears of an armed conflict in Europe. 
+ <p class="updated_time"> 09:48 AM CT, Nov. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-59274686?at_medium=RSS&at_campaign=KARANGA">Egypt: Scorpions kill three and injure hundreds in Aswan</a> BBC: Three people have been killed by scorpion bites during storms in the southern city of Aswan. 
  <p class="updated_time"> 09:42 AM CT, Nov. 13 </p> 
  <a href="https://www.nytimes.com/2021/11/13/world/europe/portugal-remote-work-law-pandemic.html">Portugal Bars Employers From Contacting Remote Workers Off Hours</a> NYT: A new law, passed on Friday and in effect this weekend, is one of the world’s boldest efforts to regulate the remote work that the pandemic forced on many in the industrialized world. 
  <p class="updated_time"> 09:33 AM CT, Nov. 13 </p> 
@@ -35,10 +41,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/13/world/middleeast/belarus-migrants-iraq-kurds.html">Migrants Say Belarusians Took Them to E.U. Border and Supplied Wire Cutters</a> NYT: Iraqi Kurds and other migrants said they were fleeing despair at home, but Belarus encouraged them, offering visas and helping them get to the border. 
  <p class="updated_time"> 06:25 AM CT, Nov. 13 </p> 
  <a href="https://www.nytimes.com/2021/11/13/world/europe/france-2015-attacks-trial-victims.html">Survivors of 2015 Paris Terrorist Attacks 'Dead Among the Living'</a> NYT: The trauma of the 2015 terrorist attacks in Paris was highlighted in testimony by survivors and others at a trial of 20 men accused of involvement. 
- <p class="updated_time"> 05:21 AM CT, Nov. 13 </p> 
- <a href="https://www.nytimes.com/2021/11/10/world/europe/poland-belarus-border-europe.html">Poland Gets Support From Europe on Tough Borders</a> NYT: Faced with the weaponization of migrants from Belarus, the European Union is defending Poland’s hard line even as it withholds funds over rule of law violations. 
  <p class="updated_time"> 05:19 AM CT, Nov. 13 </p> 
  <a href="https://www.nytimes.com/2021/11/13/world/asia/philippines-sara-duterte-marcos.html">Sara Duterte and Ferdinand Marcos Jr. May Join Forces in Philippines</a> NYT: Ferdinand Marcos Jr., who hopes to succeed Rodrigo Duterte as president, said Sara Duterte would effectively be his running mate. 
+ <p class="updated_time"> 04:28 AM CT, Nov. 13 </p> 
+ <a href="https://www.wsj.com/articles/migrant-dies-as-belarus-poland-border-standoff-deepens-11636817338">Migrant Dies as Belarus-Poland Border Standoff Deepens</a> WSJ: The body of a young Syrian man was found Friday, Polish border authorities said, the latest casualty in a monthslong standoff between the EU and Belarus’s authoritarian leader. 
  <p class="updated_time"> 04:18 AM CT, Nov. 13 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-56901261?at_medium=RSS&at_campaign=KARANGA">What is COP26 and what is being agreed at Glasgow climate conference?</a> BBC: A crucial climate change summit is being held in the UK which could change our everyday lives. 
  <p class="updated_time"> 03:07 AM CT, Nov. 13 </p> 
@@ -97,8 +103,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/12/1055366608/myanmar-court-sentences-american-journalist-danny-fenster-to-11-years-in-prison">Myanmar court sentences American journalist Danny Fenster to 11 years in prison</a> NPR: U.S. journalist Danny Fenster was sentenced to 11 years in prison in Myanmar. He was found guilty of incitement and two other charges. 
  <p class="updated_time"> 03:24 PM CT, Nov. 12 </p> 
  <a href="https://www.npr.org/2021/11/12/1055366601/negotiators-are-in-the-home-stretch-on-the-final-day-of-un-climate-conference">Negotiators are in the home stretch on the final day of UN climate conference</a> NPR: The final day of COP26, the UN's conference where global leaders and delegates are negotiating crucial and concrete strategies to limit greenhouse gas emissions, is underway in Glasgow, Scotland. 
- <p class="updated_time"> 03:11 PM CT, Nov. 12 </p> 
- <a href="https://www.nytimes.com/2021/11/12/world/europe/threats-troop-buildup-war.html">Fears of Belarus-Poland Conflict Amid Provocative Words and Troop Moves</a> NYT: On both sides of the Belarus-Poland border, hyperbole and military exercises have raised fears of an armed conflict in Europe. 
  <p class="updated_time"> 03:09 PM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/world/asia/myanmar-danny-fenster.html">Danny Fenster, U.S. Journalist in Myanmar, Gets 11 Years in Jail</a> NYT: Danny Fenster was given the toughest possible sentence on three charges, in a signal that the country’s military rulers would not bow to international pressure. 
  <p class="updated_time"> 03:01 PM CT, Nov. 12 </p> 
@@ -123,8 +127,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/science-environment-59263761?at_medium=RSS&at_campaign=KARANGA">COP26: How might decisions at the climate summit change our lives?</a> BBC: The changes made at COP26 in Glasgow could have implications for the way we live. 
  <p class="updated_time"> 11:41 AM CT, Nov. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59266211?at_medium=RSS&at_campaign=KARANGA">French teenage jogger admits lying about kidnap escape</a> BBC: The 17-year-old had claimed she escaped her kidnappers, in a case that has gripped France. 
- <p class="updated_time"> 11:20 AM CT, Nov. 12 </p> 
- <a href="https://www.wsj.com/articles/cop26-talks-enter-final-scheduled-day-with-deal-still-elusive-11636717491">COP26 Talks Continue With a Deal Still Elusive</a> WSJ: Negotiators seeking to reach a global deal to slow climate change said they would continue talks through the night and into Saturday, as they wrestled with differences over the wording of what they hope will be a meaningful agreement. 
  <p class="updated_time"> 11:08 AM CT, Nov. 12 </p> 
  <a href="https://www.npr.org/2021/11/12/1054242599/biden-and-xi-will-meet-virtually-on-monday-heres-whats-at-stake">Biden and Xi will meet (virtually) on Monday. Here's what's at stake</a> NPR: It's been more than two years since leaders of the United States and China met face-to-face. This meeting will be virtual, not in person, and comes at a time of high tensions. 
  <p class="updated_time"> 11:07 AM CT, Nov. 12 </p> 
@@ -157,8 +159,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/science-environment-59263810?at_medium=RSS&at_campaign=KARANGA">John Kerry at COP26: We're going to come up with an agreement</a> BBC: The US climate envoy speaks to the BBC as pressure mounts on governments to strike a deal at COP26. 
  <p class="updated_time"> 06:17 AM CT, Nov. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59260704?at_medium=RSS&at_campaign=KARANGA">US police officer sues boss over KKK note</a> BBC: Keith Pool says superiors ignored numerous examples of racist abuse by former Chief Anthony Campo. 
- <p class="updated_time"> 04:20 AM CT, Nov. 12 </p> 
- <a href="https://www.wsj.com/articles/europe-sees-a-new-type-of-war-accusing-belarus-of-weaponizing-migrants-11636724990">Europe Says Belarus Is Weaponizing Migrants in 'New Type of War'</a> WSJ: European officials accuse Belarus of abetting human traffickers bringing migrants into their country and then of funneling the new arrivals toward the border in an effort to provoke a crisis—things Belarus denies. 
  <p class="updated_time"> 04:08 AM CT, Nov. 12 </p> 
  <a href="https://www.npr.org/2021/11/12/1055030272/fossil-fuel-cop26-climate-change-glasgow">The fossil fuel industry turned out in force at COP26. So did climate activists  </a> NPR: More than 500 attendees from the fossil fuel industry are at the climate summit in Glasgow. Their reps have attended climate summits for decades. Some are touting a shift toward renewables. 
  <p class="updated_time"> 03:58 AM CT, Nov. 12 </p> 
@@ -211,8 +211,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/11/world/americas/bolsonaro-trump-brazil-election.html">Trump Allies Help Bolsonaro Sow Doubt in Brazil's Elections</a> NYT: With his poll numbers falling, President Jair Bolsonaro is already questioning the legitimacy of next year’s election. He has help from the United States. 
  <p class="updated_time"> 01:56 PM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/world/middleeast/saudi-court-execution-crime.html">Saudi Court Blocks Execution of Man Convicted of Crime Committed at 14</a> NYT: Rights groups said the death sentence for Abdullah al-Huwaiti ran contrary to the kingdom’s claimed legal reforms. Now he’ll be retried. 
- <p class="updated_time"> 01:52 PM CT, Nov. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59249347?at_medium=RSS&at_campaign=KARANGA">Lateral flow tests: Americans react to seeing UK rapid testing</a> BBC: A British nurse explains how at-home, fast Covid tests changed her life - and what the US can expect. 
  <p class="updated_time"> 01:38 PM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/world/middleeast/israel-palestinian-nso-hacking.html">Palestinian Diplomats Targeted by Israeli Spyware, Official Says</a> NYT: The accusation, which has not been independently verified, raises new questions over whether Israel is using software made by NSO Group to spy on Palestinians. 
  <p class="updated_time"> 01:23 PM CT, Nov. 11 </p> 
