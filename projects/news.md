@@ -7,14 +7,14 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:44 AM CT, Nov. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/science-environment-59269886?at_medium=RSS&at_campaign=KARANGA">COP26: Talks run into overtime amid lingering divisions</a> BBC: Splits over subsidies for fossil fuels and financial help to poorer nations have taken talks into overtime. 
  <p class="updated_time"> 03:26 AM CT, Nov. 13 </p> 
  <a href="https://www.nytimes.com/2021/11/10/world/europe/poland-belarus-border-europe.html">Poland Gets Support From Europe on Tough Borders</a> NYT: Faced with the weaponization of migrants from Belarus, the European Union is defending Poland’s hard line even as it withholds funds over rule of law violations. 
  <p class="updated_time"> 03:25 AM CT, Nov. 13 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-56901261?at_medium=RSS&at_campaign=KARANGA">What is COP26 and what is being agreed at Glasgow climate conference?</a> BBC: A crucial climate change summit is being held in the UK which could change our everyday lives. 
  <p class="updated_time"> 03:07 AM CT, Nov. 13 </p> 
  <a href="https://www.bbc.co.uk/news/uk-scotland-glasgow-west-59176752?at_medium=RSS&at_campaign=KARANGA">COP26: The story from Glasgow in 15 pictures</a> BBC: The most eye-catching demonstrations and unusual stories during COP26 have unfolded on the streets of Glasgow. 
- <p class="updated_time"> 03:04 AM CT, Nov. 13 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-59269886?at_medium=RSS&at_campaign=KARANGA">COP26: Talks run into overtime amid lingering divisions</a> BBC: Splits over subsidies for fossil fuels and financial help to poorer nations have taken talks into overtime. 
  <p class="updated_time"> 02:52 AM CT, Nov. 13 </p> 
  <a href="https://www.nytimes.com/2021/11/12/world/europe/migrant-flights-belarus.html">Airlines Move to Curb Flow of Migrants to Belarus</a> NYT: Some airlines have agreed to stop taking Iraqi, Syrian and Yemeni citizens to Minsk, which the E.U. hopes will stem the flow of migrants to the bloc’s borders. 
  <p class="updated_time"> 02:00 AM CT, Nov. 13 </p> 
