@@ -7,18 +7,26 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:48 PM CT, Nov. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-59217825?at_medium=RSS&at_campaign=KARANGA">Britney Spears released from 13-year conservatorship</a> BBC: An LA judge terminates a legal guardianship set up by the 39-year-old pop star's father in 2008. 
+ <p class="updated_time"> 06:45 PM CT, Nov. 12 </p> 
+ <a href="https://www.nytimes.com/2021/11/12/us/politics/kamala-harris-macron-france.html">In France, Kamala Harris Searches for Role on Global Stage</a> NYT: The vice president met with President Emmanuel Macron of France, skirting recent U.S.-French tensions, and immersed herself in issues like Libya and cybersecurity. 
+ <p class="updated_time"> 06:15 PM CT, Nov. 12 </p> 
+ <a href="https://www.nytimes.com/2021/11/12/us/ivory-rhino-congo-trafficking.html">2 Ivory Smugglers Captured in International Operation, U.S. Says</a> NYT: The men were captured by relying on DNA sampling from a previously seized ivory haul, which helped experts pinpoint the location of poached elephants. 
+ <p class="updated_time"> 06:10 PM CT, Nov. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59253088?at_medium=RSS&at_campaign=KARANGA">Iqaluit: A month without clean water in Canada's north</a> BBC: Frustration is growing in the Canadian city of Iqaluit after fuel contaminated the water supply. 
+ <p class="updated_time"> 06:09 PM CT, Nov. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59258414?at_medium=RSS&at_campaign=KARANGA">Belarus border: Scrambling for facts in Europe's new crisis</a> BBC: Journalists and aid workers are kept away from the bleak spectacle of migrants on the Polish border. 
+ <p class="updated_time"> 06:07 PM CT, Nov. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59202309?at_medium=RSS&at_campaign=KARANGA">Ship-load of 'toxic' Chinese fertilizer causes diplomatic stink</a> BBC: A ship carrying fertiliser from China to Sri Lanka is at the heart of a dispute between both allies. 
  <p class="updated_time"> 06:05 PM CT, Nov. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59265609?at_medium=RSS&at_campaign=KARANGA">BBC's Simpson revisits Afghanistan under the Taliban</a> BBC: In 2001, the BBC's World Affairs editor was part of a team which entered the city when the Taliban fell. 
- <p class="updated_time"> 05:26 PM CT, Nov. 12 </p> 
- <a href="https://www.nytimes.com/2021/11/12/us/politics/kamala-harris-macron-france.html">In France, Kamala Harris Asserts Herself as a Diplomatic Asset</a> NYT: The vice president met with President Emmanuel Macron of France, skirting recent U.S.-French tensions, and immersed herself in issues like Libya and cybersecurity. 
- <p class="updated_time"> 05:24 PM CT, Nov. 12 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-59217825?at_medium=RSS&at_campaign=KARANGA">Britney Spears released from 13-year conservatorship</a> BBC: An LA judge terminates a legal guardianship set up by the 39-year-old pop star's father in 2008. 
+ <p class="updated_time"> 06:04 PM CT, Nov. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/stories-59171107?at_medium=RSS&at_campaign=KARANGA">'I could have been a racist killer'</a> BBC: As a teenager, Mike was an armed and angry US Nazi. Looking back, he fears he came close to murder. 
  <p class="updated_time"> 05:22 PM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/10/world/europe/france-kamala-harris-macron.html">Harris Meets Macron, Signaling a ‘New Era’ After Sub Snub, Both Say</a> NYT: In her vague assignment abroad, the vice president seems to be emphasizing that the U.S.-France relationship is about looking forward, in the wake of an embarrassing diplomatic spat. 
  <p class="updated_time"> 05:19 PM CT, Nov. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59270291?at_medium=RSS&at_campaign=KARANGA">Steve Bannon charged with contempt of Congress</a> BBC: Former Trump strategist charged after refusing to testify to committee investigating US Capitol riot. 
- <p class="updated_time"> 04:49 PM CT, Nov. 12 </p> 
- <a href="https://www.nytimes.com/2021/11/12/us/ivory-rhino-congo-trafficking.html">2 Ivory Smugglers Captured in International Operation, U.S. Says</a> NYT: The undercover joint operation by the U.S. and Congolese governments also resulted in the seizure of millions of dollars’ worth of illegal wildlife plunder. 
  <p class="updated_time"> 04:34 PM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/world/europe/migrant-flights-belarus.html">Airlines Move to Curb Flow of Migrants to Belarus</a> NYT: Some airlines have agreed to stop taking Iraqi, Syrian and Yemeni citizens to Minsk, which the E.U. hopes will stem the flow of migrants to the bloc’s borders. 
  <p class="updated_time"> 04:30 PM CT, Nov. 12 </p> 
@@ -56,7 +64,7 @@ permalink: /projects/news/
  <p class="updated_time"> 12:56 PM CT, Nov. 12 </p> 
  <a href="https://www.npr.org/sections/coronavirus-live-updates/2021/11/12/1055100209/europe-russia-covid-cases-surge-spike">Europe and Russia battle a new wave of COVID-19</a> NPR: More lockdowns are in the offing, as Germany and Austria shatter daily case counts and Russia has become become the world leader in new COVID-19 deaths. 
  <p class="updated_time"> 12:54 PM CT, Nov. 12 </p> 
- <a href="https://www.wsj.com/articles/u-s-briefs-allies-on-possible-russian-threat-toward-ukraine-11636756959">U.S. Briefs Allies on Possible Russian Threat Toward Ukraine</a> WSJ: As Russian troops continue movements near Ukraine border, U.S. urges pressure against Moscow; Kremlin dismisses concerns. 
+ <a href="https://www.wsj.com/articles/u-s-briefs-allies-on-possible-russian-threat-toward-ukraine-11636756959">U.S. Briefs Allies on Possible Russian Threat Toward Ukraine</a> WSJ: As Russian troops continued movements near Ukraine’s border, the U.S. urged pressure against Moscow. The Kremlin dismissed concerns. 
  <p class="updated_time"> 12:45 PM CT, Nov. 12 </p> 
  <a href="https://www.bbc.co.uk/news/57975275?at_medium=RSS&at_campaign=KARANGA">COP 26: How much are poor countries getting to fight climate change?</a> BBC: Are rich countries close to meeting their climate promises to the developing world? 
  <p class="updated_time"> 12:41 PM CT, Nov. 12 </p> 
@@ -83,8 +91,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/12/world/australia/migration-and-experimentation-what-led-to-australias-coffee-culture.html">Migration and Experimentation: What Led to Australia’s Coffee Culture</a> NYT: When Italian migrants arrived after World War II, they helped develop a coffee scene that many now regard as the best in the world. 
  <p class="updated_time"> 10:29 AM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/11/world/europe/un-security-council.html">Belarus-Poland Clash Spills Into U.N. Security Council</a> NYT: The United States joined several countries in a statement condemning Belarus, but the Russian envoy dismissed their criticism as politically motivated hypocrisy. 
- <p class="updated_time"> 10:14 AM CT, Nov. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59266209?at_medium=RSS&at_campaign=KARANGA">Poland border: Turkey blocks Belarus flights to ease migrant crisis</a> BBC: Turkey has stopped all citizens from Iraq, Syria and Yemen from flying from Turkey to Belarus. 
  <p class="updated_time"> 10:01 AM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/world/europe/julian-assange-stella-moris-marriage.html">Julian Assange Will Marry Stella Moris in London Prison</a> NYT: The WikiLeaks founder, who is battling extradition to the United States on espionage charges, has been granted permission to marry Stella Moris in the London prison where he has been held since 2019. 
  <p class="updated_time"> 09:46 AM CT, Nov. 12 </p> 
@@ -121,6 +127,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/11/world/europe/austria-chancellor-lockdown-unvaccinated.html">Austria Weighs a Lockdown for Unvaccinated People</a> NYT: The country’s case rate has more than doubled since late October. 
  <p class="updated_time"> 03:31 AM CT, Nov. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-53494405?at_medium=RSS&at_campaign=KARANGA">Britney Spears: Singer's conservatorship case explained</a> BBC: The US singer's bid to end her father's guardianship could reach its conclusion this week. 
+ <p class="updated_time"> 03:00 AM CT, Nov. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-59244533?at_medium=RSS&at_campaign=KARANGA">'Selfies are taking away our livelihood'</a> BBC: Temple photographers in this Indian town are struggling to make a living in the age of selfies. 
  <p class="updated_time"> 02:36 AM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/11/world/europe/migrants-poland-belarus-lukashenko.html">Migrants in Peril, and Raw Emotions, in a Volatile European Border Standoff</a> NYT: A confrontation over migrants between Belarus and Poland is growing more volatile, as nationalist fervor rises in both countries and a humanitarian disaster looms. 
  <p class="updated_time"> 02:09 AM CT, Nov. 12 </p> 
@@ -214,20 +222,24 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:14 PM CT, Nov. 12 </p> 
+ <a href="https://www.cnn.com/2021/11/12/politics/steve-bannon-indicted/index.html">Federal grand jury indicts Steve Bannon for contempt of Congress</a> CNN: A federal grand jury has returned an indictment against former Trump adviser Steve Bannon, CNN has learned. 
+ <p class="updated_time"> 07:07 PM CT, Nov. 12 </p> 
+ <a href="https://www.nytimes.com/2021/11/12/us/politics/project-veritas-ashley-biden-diary.html">Project Veritas Tells Judge It Was Assured Biden Diary Was Legally Obtained</a> NYT: But a search warrant in the case suggests the Justice Department believes the diary kept by the president’s daughter Ashley Biden was stolen. 
+ <p class="updated_time"> 06:49 PM CT, Nov. 12 </p> 
+ <a href="https://www.nytimes.com/2021/11/12/us/politics/republican-violent-rhetoric.html">Menace Enters the Republican Mainstream</a> NYT: Threats of violence have become commonplace among a significant part of the party, as historians and those who study democracy warn of a dark shift in American politics. 
+ <p class="updated_time"> 06:45 PM CT, Nov. 12 </p> 
+ <a href="https://www.nytimes.com/2021/11/12/us/politics/kamala-harris-macron-france.html">In France, Kamala Harris Searches for Role on Global Stage</a> NYT: The vice president met with President Emmanuel Macron of France, skirting recent U.S.-French tensions, and immersed herself in issues like Libya and cybersecurity. 
+ <p class="updated_time"> 06:38 PM CT, Nov. 12 </p> 
+ <a href="https://www.cnn.com/2021/11/12/politics/mark-meadows-january-6-deposition/index.html">Mark Meadows did not appear for deposition with January 6 committee</a> CNN: Former Trump White House Chief of Staff Mark Meadows did not appear in person for a deposition on Friday in front of the House select committee investigating January 6, setting up a potential showdown that could lead to the panel beginning a criminal referral process against him. 
  <p class="updated_time"> 06:12 PM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/us/politics/bannon-indicted.html">Bannon Indicted on Contempt Charges Over House’s Capitol Riot Inquiry</a> NYT: Stephen K. Bannon, a former top aide to Donald Trump, had refused to comply with subpoenas from the House committee investigating the Jan. 6 attack on Congress. 
  <p class="updated_time"> 06:03 PM CT, Nov. 12 </p> 
  <a href="https://www.cnn.com/2021/11/12/politics/trump-lawsuits-michael-cohen-summer-zervos/index.html">Trump scores legal wins with one lawsuit dropped and another dismissed</a> CNN: Former President Donald Trump scored two big legal victories Friday and avoided having to sit for a deposition in a defamation lawsuit after former "Apprentice" contestant Summer Zervos agreed to drop her claims, according to a court filing, and a New York judge granted Trump's motion to dismiss a 2019 lawsuit filed by his former personal attorney Michael Cohen against the Trump Organization. 
- <p class="updated_time"> 05:26 PM CT, Nov. 12 </p> 
- <a href="https://www.nytimes.com/2021/11/12/us/politics/kamala-harris-macron-france.html">In France, Kamala Harris Asserts Herself as a Diplomatic Asset</a> NYT: The vice president met with President Emmanuel Macron of France, skirting recent U.S.-French tensions, and immersed herself in issues like Libya and cybersecurity. 
  <p class="updated_time"> 05:23 PM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/us/politics/biden-china-xi-jinping.html">Biden and China’s Xi Will Hold Virtual Summit on Monday</a> NYT: The leaders of the world’s two largest economies confront tensions over trade, cyberthreats, the climate, Taiwan and human rights. 
- <p class="updated_time"> 04:36 PM CT, Nov. 12 </p> 
- <a href="https://www.cnn.com/2021/11/12/politics/steve-bannon-indicted/index.html">Federal grand jury indicts Steve Bannon for contempt of Congress</a> CNN: A federal grand jury has returned an indictment against former Trump adviser Steve Bannon, CNN has learned. 
  <p class="updated_time"> 04:33 PM CT, Nov. 12 </p> 
  <a href="https://www.cnn.com/2021/11/12/politics/biden-admin-ethiopia-eritrea-sanctions/index.html">Biden administration sanctions Eritrean military, ruling party over role in northern Ethiopia conflict</a> CNN: The Biden administration sanctioned Eritrea's military and sole political party for their involvement in the ongoing crisis in northern Ethiopia. 
- <p class="updated_time"> 04:19 PM CT, Nov. 12 </p> 
- <a href="https://www.cnn.com/2021/11/12/politics/mark-meadows-january-6-deposition/index.html">Mark Meadows did not appear for deposition with January 6 committee</a> CNN: Former Trump White House Chief of Staff Mark Meadows did not appear in person for a deposition on Friday in front of the House select committee investigating January 6, setting up a potential showdown that could lead to the panel beginning a criminal referral process against him. 
  <p class="updated_time"> 04:09 PM CT, Nov. 12 </p> 
  <a href="https://www.politico.com/news/2021/11/12/steve-bannon-indicted-for-defying-jan-6-committee-investigation-521177">Steve Bannon indicted for defying Jan. 6 committee investigation</a> Politico: The House referred Bannon to the Justice Department for prosecution last month after he refused to cooperate with a congressional subpoena. 
  <p class="updated_time"> 04:03 PM CT, Nov. 12 </p> 
@@ -238,8 +250,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/12/nyregion/aoc-infrastructure-bill-vote.html">Ocasio-Cortez Isn’t Wavering. Are New Yorkers on Her Side?</a> NYT: By voting no on the infrastructure bill, Representative Alexandria Ocasio-Cortez set off a fierce debate, including among city residents eager to see the subways improved. 
  <p class="updated_time"> 03:44 PM CT, Nov. 12 </p> 
  <a href="https://www.npr.org/2021/11/12/1055366652/bannon-indicted-for-defying-subpoena-jan-6-panel-threatens-contempt-against-mead">Bannon indicted for defying Jan. 6 panel subpoena</a> NPR: Former Donald Trump adviser Steve Bannon was indicted by a federal grand jury for refusing to cooperate with the House panel investigating the Jan. 6 attack on the Capitol. 
- <p class="updated_time"> 03:39 PM CT, Nov. 12 </p> 
- <a href="https://www.nytimes.com/2021/11/12/us/politics/republican-violent-rhetoric.html">Menace, as a Political Tool, Enters the Republican Mainstream</a> NYT: Threats of violence have become commonplace among a significant part of the party, as historians and those who study democracy warn of a dark shift in American politics. 
  <p class="updated_time"> 03:34 PM CT, Nov. 12 </p> 
  <a href="https://www.cnn.com/2021/11/12/politics/lisa-murkowski-alaska-reelection/index.html">GOP Sen. Lisa Murkowski of Alaska announces reelection bid</a> CNN: GOP Sen. Lisa Murkowski of Alaska announced her bid Friday for reelection in a race that's sure to be tough for the moderate Republican who has been a strong critic of former President Donald Trump. 
  <p class="updated_time"> 03:31 PM CT, Nov. 12 </p> 
@@ -360,8 +370,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/11/republicans-wrestle-infrastructure-backlash-520956">‘I hope it’s a fever that will break’: GOP wrestles with infrastructure vote backlash</a> Politico: ‘Some elements of the party keep finding new ways to define Republicanism,’ says one longtime GOP lobbyist and strategist. 
  <p class="updated_time"> 05:04 PM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/us/politics/dc-jail-jan-6.html">Problems at D.C. Jail Were Ignored Until Jan. 6 Defendants Came Along</a> NYT: At a hearing this week, officials said longstanding issues at the jail, where most inmates are Black, did not get much attention until the largely white rioters were held there. 
- <p class="updated_time"> 04:55 PM CT, Nov. 11 </p> 
- <a href="https://www.nytimes.com/2021/11/10/us/politics/biden-infrastructure.html">Biden Got His Infrastructure Bill. Now He Has to Sell It to Voters.</a> NYT: Inside the Democratic Party, concerns are growing about whether the president will be able to fully capitalize on a major legislative victory. 
  <p class="updated_time"> 04:45 PM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/us/politics/republicans-infrastructure-bill.html">Illinois Republican Lawmakers at Odds on Infrastructure Bill</a> NYT: Representative Darin LaHood voted against the infrastructure bill while Representative Adam Kinzinger supported it. The split reflects the Republican Party’s post-Trump era of uncertainty. 
  <p class="updated_time"> 04:41 PM CT, Nov. 11 </p> 
@@ -372,8 +380,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/11/1054884193/the-infrastructure-plan-passed-now-departments-are-figuring-out-how-to-spend-it">The infrastructure plan passed. Now, departments are figuring out how to spend it</a> NPR: Government departments are scrambling to figure out how to spend the $1 trillion in the infrastructure package. Some will go to existing grant programs, while others need to be created from scratch. 
  <p class="updated_time"> 03:31 PM CT, Nov. 11 </p> 
  <a href="https://www.npr.org/2021/11/11/1054884112/xi-jinping-is-in-a-good-position-to-break-norms-and-continue-to-lead-china">Xi Jinping is in a good position to break norms and continue to lead China</a> NPR: In China, leadership has concluded a four-day meeting that endorsed Xi Jinping's vision for the country and signed off on a reassessment of the party's 100-year history. 
- <p class="updated_time"> 02:48 PM CT, Nov. 11 </p> 
- <a href="https://www.politico.com/news/2021/11/11/kyle-rittenhouse-trial-kenosha-520901">Expert at Rittenhouse trial zeroes in on just a few minutes</a> Politico: The defense has suggested to the jury that the relevant timeframe for determining whether Rittenhouse’s use of force was reasonable consists of just a few minutes around the shootings. 
  <p class="updated_time"> 01:01 PM CT, Nov. 11 </p> 
  <a href="https://www.politico.com/news/2021/11/11/biden-administration-armed-drones-indonesia-520888">Biden administration wrestles with selling armed drones to Indonesia</a> Politico: The country's human rights abuses, and past purchases of Russian equipment, are among the concerns in Washington. 
  <p class="updated_time"> 12:23 PM CT, Nov. 11 </p> 
