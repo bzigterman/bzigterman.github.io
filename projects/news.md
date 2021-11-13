@@ -236,6 +236,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:12 AM CT, Nov. 13 </p> 
+ <a href="https://www.cnn.com/2021/11/13/politics/political-typology-spectrum-what-matters/index.html">There are 9 political types in the US. Which are you?</a> CNN: There are Democrats and Republicans in office, and we refer to them as Democrats and Republicans in this newsletter because that's how they vote. 
  <p class="updated_time"> 08:16 AM CT, Nov. 13 </p> 
  <a href="https://www.cnn.com/2021/11/13/politics/kamala-harris-france-trip/index.html">Harris' trip to Paris signals a relationship back on track</a> CNN: As French President Emmanuel Macron arrived at the Arc de Triomphe for a national televised Armistice Day Ceremony, Vice President Kamala Harris -- donning the traditional bleuet de France honoring veterans -- waited to greet him. 
  <p class="updated_time"> 08:01 AM CT, Nov. 13 </p> 
@@ -342,8 +344,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/12/1055096462/lawyer-for-mark-meadows-says-courts-will-have-to-resolve-jan-6-panel-dispute">Mark Meadows' "defiance" could lead to contempt referral, Jan. 6 panel says</a> NPR: The former White House chief of staff may be looking to the courts for relief, but his path sets him on a collision course with the House. 
  <p class="updated_time"> 11:40 AM CT, Nov. 12 </p> 
  <a href="https://www.npr.org/2021/11/12/1055143924/biden-nominates-former-commissioner-robert-califf-to-again-lead-fda">Biden nominates former Commissioner Robert Califf to again lead FDA</a> NPR: The Food and Drug Administration has been without a permanent leader since President Biden took office in January. Califf led the agency during the last year of the Obama administration. 
- <p class="updated_time"> 11:31 AM CT, Nov. 12 </p> 
- <a href="https://www.cnn.com/2021/11/11/politics/xi-jinping-joe-biden-virtual-summit/index.html">Biden to hold virtual summit with Chinese President Xi Jinping on Monday</a> CNN: President Joe Biden's highly anticipated virtual summit with Chinese President Xi Jinping is expected to take place on Monday, people familiar with the matter say. 
  <p class="updated_time"> 11:22 AM CT, Nov. 12 </p> 
  <a href="https://www.politico.com/news/2021/11/12/myanmar-court-sentences-us-journalist-to-11-years-in-jail-521109">Myanmar court sentences U.S. journalist to 11 years in jail</a> Politico: Danny Fenster, managing editor Frontier Myanmar, is still facing additional charges under which he could receive up to life in prison. 
  <p class="updated_time"> 11:14 AM CT, Nov. 12 </p> 
@@ -464,8 +464,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/11/07/what-happens-in-vegas-495006">POLITICO Playbook: What happens in Vegas …</a> Politico: And a court temporarily blocks Biden’s vaccine mandate. 
  <p class="updated_time"> 10:27 AM CT, Nov. 07 </p> 
  <a href="https://www.politico.com/news/2021/11/07/murthy-vaccine-mandate-biden-520015">Surgeon general defends embattled vaccine mandate</a> Politico: “It’s a necessary step to accelerate our pathway out of the pandemic,” Vivek Murthy said. 
- <p class="updated_time"> 10:18 AM CT, Nov. 06 </p> 
- <a href="https://www.politico.com/newsletters/playbook/2021/11/06/how-biden-and-pelosi-saved-bif-495005">POLITICO Playbook: How Biden and Pelosi saved BIF</a> Politico: And President Joe Biden secures the biggest win of his presidency so far. 
 
 
 </details>
