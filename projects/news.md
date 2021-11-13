@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:34 PM CT, Nov. 12 </p> 
+ <a href="https://www.nytimes.com/2021/11/12/world/europe/lukashenko-putin-belarus-russia.html">Migrant Crisis in Belarus Tests Putin’s Uneasy Alliance With Lukashenko</a> NYT: Last year Vladimir V. Putin helped save Aleksandr G. Lukashenko’s Belarusian regime. But Russia now has an ever-more-erratic ally and risks entanglement in a dangerous crisis. 
  <p class="updated_time"> 09:23 PM CT, Nov. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59266120?at_medium=RSS&at_campaign=KARANGA">Can California save itself from the flames?</a> BBC: Unprecedented drought and heat, combined with bad land management, have culminated in historic wildfires. 
  <p class="updated_time"> 08:39 PM CT, Nov. 12 </p> 
@@ -41,8 +43,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/12/world/europe/migrant-flights-belarus.html">Airlines Move to Curb Flow of Migrants to Belarus</a> NYT: Some airlines have agreed to stop taking Iraqi, Syrian and Yemeni citizens to Minsk, which the E.U. hopes will stem the flow of migrants to the bloc’s borders. 
  <p class="updated_time"> 04:30 PM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/11/world/asia/zuo-fang-dead.html">Zuo Fang, a Founder of China's Southern Weekly, is Dead</a> NYT: When he helped start Southern Weekly, he charted a course for a freer era for the country’s press, which later became increasingly constrained by Beijing. 
- <p class="updated_time"> 04:20 PM CT, Nov. 12 </p> 
- <a href="https://www.nytimes.com/2021/11/12/world/europe/lukashenko-putin-belarus-russia.html">Migrant Crisis in Belarus Tests Putin’s Uneasy Alliance With Lukashenko</a> NYT: Last year Vladimir V. Putin helped save Aleksandr G. Lukashenko’s Belarusian regime. But Russia now has an ever-more-erratic ally and risks entanglement in a dangerous crisis. 
  <p class="updated_time"> 04:16 PM CT, Nov. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59258409?at_medium=RSS&at_campaign=KARANGA">Covid: Dutch partial lockdown to tackle surge in infections</a> BBC: The measures will last three weeks, while Austria plans a lockdown for the unvaccinated. 
  <p class="updated_time"> 04:13 PM CT, Nov. 12 </p> 
@@ -322,6 +322,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/12/1055084269/lisa-murkowski-reelection-senate-alaska">Murkowski voted to convict Trump. Now she'll run against a candidate he backs</a> NPR: Alaska Sen. Lisa Murkowski is one of seven Republican senators to vote to convict former President Donald Trump in his impeachment trial last January. 
  <p class="updated_time"> 08:52 AM CT, Nov. 12 </p> 
  <a href="https://www.cnn.com/2021/11/12/politics/kamala-harris-paris/index.html">Harris says she did not discuss submarine deal with Macron during Paris meeting</a> CNN: Vice President Kamala Harris said she did not discuss with French President Emmanuel Macron the surprise deal between the US and Australia to develop nuclear submarines that angered the French, leading to a fallout between the longstanding allies. 
+ <p class="updated_time"> 08:50 AM CT, Nov. 12 </p> 
+ <a href="https://www.politico.com/news/2021/11/12/biden-poised-to-nominate-califf-as-fda-chief-521060">Biden nominates Califf as FDA chief</a> Politico: The selection ends the administration's lengthy search for a permanent FDA commissioner. 
  <p class="updated_time"> 08:48 AM CT, Nov. 12 </p> 
  <a href="https://www.politico.com/news/2021/11/12/julian-assange-given-permission-to-marry-partner-in-prison-521032">Julian Assange given permission to marry partner in prison</a> Politico: Assange and Moris made their relationship public in April 2020 and had applied to prison authorities for permission to wed. 
  <p class="updated_time"> 08:43 AM CT, Nov. 12 </p> 
@@ -354,6 +356,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/12/mccarthys-bumpy-ride-to-the-speakership-520670">McCarthy's vexing speaker math problem</a> Politico: Will he glide to the speakership or have a white-knuckle ride? The size of next year's Republican gains could make the difference. 
  <p class="updated_time"> 04:30 AM CT, Nov. 12 </p> 
  <a href="https://www.politico.com/cartoons/2021/11/12/the-nations-cartoonists-on-the-week-in-politics-000266">The nation’s cartoonists on the week in politics</a> Politico: Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics. The fruits of these labors are hundreds of cartoons that entertain and enrage readers of all political stripes. Here's an offering of the best of this week's crop, picked fresh off the Toonosphere. Edited by Matt Wuerker. 
+ <p class="updated_time"> 04:30 AM CT, Nov. 12 </p> 
+ <a href="https://www.politico.com/news/2021/11/12/chris-christie-donald-trump-president-2024-521006">Christie’s calculus: Trump is ‘in the rearview mirror’</a> Politico: The former New Jersey governor is mounting a de facto exploratory bid for president and it’s put him on a collision course with his one-time ally. 
  <p class="updated_time"> 04:08 AM CT, Nov. 12 </p> 
  <a href="https://www.npr.org/2021/11/12/1055030223/the-fbi-arrests-a-key-contributor-to-efforts-trying-to-link-trump-with-russia">Arrest of Steele dossier source forces some news outlets to reexamine their coverage</a> NPR: News groups are revisiting their coverage of allegations against candidate and then President Trump, after a Russian analyst, a key source for the Steele Dossier, was charged with lying to the FBI. 
  <p class="updated_time"> 04:00 AM CT, Nov. 12 </p> 
@@ -366,8 +370,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/11/us/politics/biden-veterans-day.html">Biden Marks First Veterans Day in Two Decades Without Troops in Active Combat</a> NYT: President Biden, who ended the 20-year conflict in Afghanistan this summer, called veterans the “soul of America.” 
  <p class="updated_time"> 08:23 PM CT, Nov. 11 </p> 
  <a href="https://www.npr.org/sections/coronavirus-live-updates/2021/11/11/1054959986/states-lawsuit-biden-administration-covid-vaccine-mandate-health-workers">10 states sue Biden administration over COVID vaccine mandate for health care workers</a> NPR: The state attorneys general argue the vaccine mandate will lead to shortages of health care workers and could threaten the jobs of millions. 
- <p class="updated_time"> 07:46 PM CT, Nov. 11 </p> 
- <a href="https://www.politico.com/news/2021/11/11/jan-6-committee-mark-meadows-testify-friday-520992">Jan. 6 committee to Mark Meadows: Testify Friday or risk contempt charges</a> Politico: The chair, Rep. Bennie Thompson, said the former Trump chief of staff’s continued resistance to cooperating with the panel lacked any plausible defense. 
  <p class="updated_time"> 05:30 PM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/us/politics/facebook-political-ads.html">Facebook's Ad Policies Changed, but Political Campaigns Can Still Target You</a> NYT: Meta announced changes to its ad-targeting policies, but they will do little to stop campaigns from reaching specific voters. 
  <p class="updated_time"> 05:16 PM CT, Nov. 11 </p> 
@@ -406,8 +408,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/11/bidens-voters-recovery-conundrum-520771">Biden's ‘I feel your pain’ conundrum</a> Politico: It’s tripped up the last two Democratic presidents and could trip up Biden too: How to sell a recovery when most voters aren’t feeling it. 
  <p class="updated_time"> 06:28 PM CT, Nov. 10 </p> 
  <a href="https://www.cnn.com/2021/11/10/politics/biden-baltimore-port-infrastructure/index.html">'It's worrisome': Biden addresses inflation concerns during Baltimore speech</a> CNN: President Joe Biden takes his sales pitch for the newly passed bipartisan infrastructure deal on the road Wednesday, highlighting the effect of the bill on supply chains, hours after new inflation statistics revealed that America's prices are surging more than they have in 30 years. 
- <p class="updated_time"> 05:53 PM CT, Nov. 10 </p> 
- <a href="https://www.politico.com/news/2021/11/10/rent-inflation-biden-520642">Biden’s next inflation threat: The rent is too damn high</a> Politico: The Biden administration has vowed to address the home affordability crisis in the U.S., but policies are still in development and will likely have a limited impact. 
  <p class="updated_time"> 04:51 PM CT, Nov. 10 </p> 
  <a href="https://www.cnn.com/2021/11/10/politics/infrastructure-bill-signing/index.html">Biden to hold signing ceremony on Monday for bipartisan infrastructure bill </a> CNN: President Joe Biden will sign the bipartisan infrastructure bill on Monday during a ceremony that will include members of Congress, governors and mayors from both parties, the White House announced on Wednesday. 
  <p class="updated_time"> 12:59 PM CT, Nov. 10 </p> 
@@ -424,6 +424,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/10/schumer-billions-new-york-public-housing-520519">Schumer scores billions for New York's decaying public housing</a> Politico: The jockeying over the housing funds is one of many emerging sources of political tension surrounding President Joe Biden's bill. 
  <p class="updated_time"> 04:30 AM CT, Nov. 10 </p> 
  <a href="https://www.politico.com/news/2021/11/10/biden-vaccine-mandates-va-mcdonough-520564">Biden called for widespread mandates. His VA is navigating its own minefields.</a> Politico: An overwhelming number of staff have gotten vaccinated. But a month after the deadline, at least ten percent of a 380,000 health care workforce still haven’t. 
+ <p class="updated_time"> 12:26 AM CT, Nov. 10 </p> 
+ <a href="https://www.politico.com/news/2021/11/10/jan6-shaman-sentencing-recommendation-520570">51-month sentence urged for ‘QAnon Shaman’ Jacob Chansley</a> Politico: “Defendant Chansley’s now-famous criminal acts have made him the public face of the Capitol riot,” prosecutors said. 
  <p class="updated_time"> 07:23 PM CT, Nov. 09 </p> 
  <a href="https://www.politico.com/news/2021/11/09/chris-sununu-new-hampshire-gov-senate-520533">Sununu announcement act rubs top Republicans the wrong way</a> Politico: The New Hampshire governor not only blindsided the Senate GOP, he plugged his own presidential prospects. 
  <p class="updated_time"> 06:13 PM CT, Nov. 09 </p> 
