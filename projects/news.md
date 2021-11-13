@@ -7,10 +7,10 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:33 PM CT, Nov. 13 </p> 
+ <a href="https://www.nytimes.com/2021/11/13/us/us-airstrikes-civilian-deaths.html">How the U.S. Hid an Airstrike That Killed Dozens of Civilians in Syria</a> NYT: The military never conducted an independent investigation into a 2019 bombing on the last bastion of the Islamic State, despite concerns about a secretive commando force. 
  <p class="updated_time"> 12:10 PM CT, Nov. 13 </p> 
  <a href="https://www.nytimes.com/2021/11/13/world/africa/sudan-protests.html">Sudanese Security Forces Fire on Protesters as Military Tightens Grip</a> NYT: At least five people were killed and several wounded as the police fired bullets and tear gas at demonstrators in Sudan’s capital, two days after the army chief signed a contentious decree. 
- <p class="updated_time"> 11:57 AM CT, Nov. 13 </p> 
- <a href="https://www.nytimes.com/2021/11/13/us/us-airstrikes-civilian-deaths.html">How the U.S. Hid an Airstrike That Killed Dozens of Civilians in Syria</a> NYT: The military never conducted an independent investigation into a 2019 bombing on the last bastion of the Islamic State, despite concerns about a secretive commando force. 
  <p class="updated_time"> 11:39 AM CT, Nov. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59276428?at_medium=RSS&at_campaign=KARANGA">Ecuador prison riot: New fighting at Guayaquil jail kills 58</a> BBC: Fighting at the Litoral Penitentiary in the city of Guayaquil reportedly began on Friday evening. 
  <p class="updated_time"> 11:26 AM CT, Nov. 13 </p> 
@@ -47,10 +47,14 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59274685?at_medium=RSS&at_campaign=KARANGA">Glen de Vries: William Shatner's spacecraft partner dies in plane crash</a> BBC: Glen de Vries went to the the edge of space with Star Trek actor William Shatner just one month ago. 
  <p class="updated_time"> 06:54 AM CT, Nov. 13 </p> 
  <a href="https://www.nytimes.com/2021/11/13/world/canada/newfoundland-migrants.html">In Canada's Atlantic, Urbanites Find Welcome and Blowback</a> NYT: As housing prices soar in big cities, the country’s eastern provinces are experiencing a surge in migration. Newcomers are being welcomed, but some locals are wary. 
+ <p class="updated_time"> 06:42 AM CT, Nov. 13 </p> 
+ <a href="https://www.wsj.com/articles/dozens-of-inmates-die-in-latest-prison-riot-in-ecuador-11636825319">Dozens of Inmates Die in Latest Prison Riot in Ecuador</a> WSJ: At least 58 inmates were killed at the Litoral prison in Guayaqil, Ecuador, the prison’s second gang battle in barely six weeks and the latest in a wave of violence for the country. 
  <p class="updated_time"> 06:35 AM CT, Nov. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59274204?at_medium=RSS&at_campaign=KARANGA">Sara Duterte: Daughter of Philippines leader runs for vice-president</a> BBC: Sara Duterte will run alongside the son of the country's former dictator, Ferdinand Marcos. 
  <p class="updated_time"> 06:25 AM CT, Nov. 13 </p> 
  <a href="https://www.nytimes.com/2021/11/13/world/europe/france-2015-attacks-trial-victims.html">Survivors of 2015 Paris Terrorist Attacks 'Dead Among the Living'</a> NYT: The trauma of the 2015 terrorist attacks in Paris was highlighted in testimony by survivors and others at a trial of 20 men accused of involvement. 
+ <p class="updated_time"> 06:00 AM CT, Nov. 13 </p> 
+ <a href="https://www.wsj.com/articles/in-the-shadow-of-the-holocaust-a-jewish-community-begins-to-take-root-11636822801">In the Shadow of the Holocaust, a Jewish Community Begins to Take Root</a> WSJ: Poland’s Jewish community—nearly destroyed during World War II—is growing again, but connecting people with their heritage is a race against time. 
  <p class="updated_time"> 05:51 AM CT, Nov. 13 </p> 
  <a href="https://www.wsj.com/articles/migrant-dies-as-belarus-poland-border-standoff-deepens-11636817338">Migrant Dies as Belarus-Poland Border Standoff Deepens</a> WSJ: The body of a young Syrian man was found Friday, Polish border authorities said, the latest casualty in a monthslong standoff between the EU and Belarus’s authoritarian leader. 
  <p class="updated_time"> 05:19 AM CT, Nov. 13 </p> 
@@ -121,8 +125,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/11/world/africa/fw-de-klerk-dead.html">F.W. de Klerk, South Africa President Who Ended Apartheid, Dies at 85</a> NYT: A prominent Afrikaner, he defended the separation of the races before helping to dismantle that system, leading to his sharing the Nobel Peace Prize with Nelson Mandela. 
  <p class="updated_time"> 12:56 PM CT, Nov. 12 </p> 
  <a href="https://www.npr.org/sections/coronavirus-live-updates/2021/11/12/1055100209/europe-russia-covid-cases-surge-spike">Europe and Russia battle a new wave of COVID-19</a> NPR: More lockdowns are in the offing, as Germany and Austria shatter daily case counts and Russia has become become the world leader in new COVID-19 deaths. 
- <p class="updated_time"> 12:54 PM CT, Nov. 12 </p> 
- <a href="https://www.wsj.com/articles/u-s-briefs-allies-on-possible-russian-threat-toward-ukraine-11636756959">U.S. Briefs Allies on Possible Russian Threat Toward Ukraine</a> WSJ: As Russian troops continued movements near Ukraine’s border, the U.S. urged pressure against Moscow. The Kremlin dismissed concerns. 
  <p class="updated_time"> 12:41 PM CT, Nov. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59268506?at_medium=RSS&at_campaign=KARANGA">Poland border: Heat camera shows migrants stranded between the two countries</a> BBC: The migrants - who are mainly young men - are enduring freezing conditions in the hopes of reaching the EU. 
  <p class="updated_time"> 12:24 PM CT, Nov. 12 </p> 
@@ -153,8 +155,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/12/1055045794/julian-assange-wins-permission-to-get-married-while-in-a-london-prison">Julian Assange wins permission to marry his partner in a London prison</a> NPR: The WikiLeaks founder and attorney Stella Moris began a relationship after Assange took refuge in the Ecuadorian Embassy in London in 2012. They have two sons together. 
  <p class="updated_time"> 07:55 AM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/11/health/veterans-psychedelics-ptsd-depression.html">Veterans Have Become Unlikely Lobbyists in Push to Legalize Psychedelic Drugs</a> NYT: Lawmakers find it hard to “just say no” to combat veterans seeking support for drug decriminalization efforts gaining traction around the country. 
- <p class="updated_time"> 07:22 AM CT, Nov. 12 </p> 
- <a href="https://www.wsj.com/articles/covid-19-vaccines-are-now-reaching-poor-countries-but-not-peoples-arms-11636741322">Covid-19 Shots Are Reaching Poor Countries, but Not People's Arms</a> WSJ: While more vaccines could be delivered in the coming weeks than countries have received this year, many countries lack the fridges and facilities needed to distribute the shots and are fighting misinformation and hesitancy. 
  <p class="updated_time"> 07:17 AM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/world/europe/covid-germany-tests.html">Germany Will Again Offer Free Covid Tests to All Adults</a> NYT: Officials hope that identifying infections earlier can help stop a recent surge in cases. 
  <p class="updated_time"> 07:09 AM CT, Nov. 12 </p> 
