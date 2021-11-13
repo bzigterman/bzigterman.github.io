@@ -228,10 +228,10 @@ permalink: /projects/news/
 
  <p class="updated_time"> 04:23 PM CT, Nov. 13 </p> 
  <a href="https://www.politico.com/news/2021/11/13/cop26-climate-deal-vulnerable-countries-521446">COP26 climate deal ‘too late’ for vulnerable countries but too much for others</a> Politico: Countries struck a compromise in Glasgow that pushes efforts into next year. 
+ <p class="updated_time"> 03:26 PM CT, Nov. 13 </p> 
+ <a href="https://www.nytimes.com/2021/11/13/us/politics/tribal-lands-flooding-nuclear-waste.html">Flooding and Nuclear Waste Eat Away at a Tribe’s Ancestral Home</a> NYT: The federal government allowed a stockpile of spent fuel on a Minnesota reservation to balloon even as a dam project whittled down the amount of livable land. 
  <p class="updated_time"> 02:55 PM CT, Nov. 13 </p> 
  <a href="https://www.politico.com/news/2021/11/13/arbery-trial-police-testimony-week-1-521414">Arbery trial: Grim photos, police testimony dominate Week 1</a> Politico: The trial of father and son Greg and Travis McMichael and their neighbor William “Roddie” Bryan wrapped up its first full week of testimony. 
- <p class="updated_time"> 12:56 PM CT, Nov. 13 </p> 
- <a href="https://www.nytimes.com/2021/11/13/us/politics/tribal-lands-flooding-nuclear-waste.html">Flooding and Nuclear Waste Eat Away at a Tribe’s Ancestral Home</a> NYT: The federal government allowed a stockpile of spent fuel on a Minnesota reservation to balloon even as a dam project whittled down the amount of livable land. 
  <p class="updated_time"> 12:44 PM CT, Nov. 13 </p> 
  <a href="https://www.nytimes.com/2021/11/12/us/politics/kamala-harris-macron-france.html">In France, Kamala Harris Searches for Role on Global Stage</a> NYT: The vice president met with President Emmanuel Macron of France, skirting recent U.S.-French tensions, and immersed herself in issues like Libya and cybersecurity. 
  <p class="updated_time"> 12:40 PM CT, Nov. 13 </p> 
