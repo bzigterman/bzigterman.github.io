@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:04 PM CT, Nov. 13 </p> 
+ <a href="https://www.npr.org/2021/11/13/1055575802/lack-of-american-ambassadors-is-hurting-foreign-goals-says-afsa-president">Lack of American ambassadors is hurting foreign goals, says AFSA president</a> NPR: NPR's Michel Martin speaks with Eric Rubin, president of the American Foreign Service Association, about the high number of diplomatic vacancies and how it's affecting President Biden's agenda. 
+ <p class="updated_time"> 04:04 PM CT, Nov. 13 </p> 
+ <a href="https://www.npr.org/2021/11/13/1055575788/world-leaders-commit-to-ambitious-goals-at-u-n-climate-summit">World leaders commit to ambitious goals at U.N. climate summit</a> NPR: The U.N. climate summit's landmark decision sets aggressive targets for cutting greenhouse emissions. It also promises more aid for developing countries, but many of those countries wanted more. 
  <p class="updated_time"> 03:49 PM CT, Nov. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-59277788?at_medium=RSS&at_campaign=KARANGA">COP26: New global climate deal struck in Glasgow</a> BBC: New global climate deal agreed at COP26 in Glasgow after last-minute wrangling over agreement on cutting coal 
  <p class="updated_time"> 03:35 PM CT, Nov. 13 </p> 
@@ -35,6 +39,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/13/world/africa/sudan-protests.html">Sudan Security Forces Fire on Protesters, Killing Several</a> NYT: At least five people were killed and several wounded as the police fired bullets and tear gas at demonstrators in Sudan’s capital, two days after the army chief signed a contentious decree. 
  <p class="updated_time"> 11:21 AM CT, Nov. 13 </p> 
  <a href="https://www.nytimes.com/2021/11/13/world/asia/india-pakistan-afghanistan-wheat.html">India Wants to Send Wheat to Ease Afghan Hunger Crisis. Pakistan Has Yet to OK Transit.</a> NYT: Indian officials say Islamabad is dragging its feet on a request of transit for 50,000 tons of wheat to Afghanistan, where nine million people are on the brink of starvation. 
+ <p class="updated_time"> 11:00 AM CT, Nov. 13 </p> 
+ <a href="https://www.wsj.com/articles/dozens-of-inmates-die-in-latest-prison-riot-in-ecuador-11636825319">Dozens of Inmates Die in Ecuador Prison Riot</a> WSJ: Violence erupted at the Litoral prison complex in the coastal city of Guayaquil in the second gang battle there in six weeks as President Guillermo Lasso’s government grappled with growing violence. 
  <p class="updated_time"> 10:36 AM CT, Nov. 13 </p> 
  <a href="https://www.nytimes.com/2021/11/11/t-magazine/scorched-burnt-rice.html">The Thrilling Dare of Scorched Rice</a> NYT: When browned on the bottom of the pot by a skilled cook, the grain is transformed into a complex delicacy, one prized by food cultures around the world. 
  <p class="updated_time"> 10:26 AM CT, Nov. 13 </p> 
@@ -51,8 +57,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59273174?at_medium=RSS&at_campaign=KARANGA">Poland-Belarus border: The BBC reports from the camps within touching distance of the EU</a> BBC: Steve Rosenberg reports from the migrant camps within touching distance of the EU. 
  <p class="updated_time"> 08:44 AM CT, Nov. 13 </p> 
  <a href="https://www.nytimes.com/2021/11/12/world/americas/oklahoma-kevin-sitt-vaccine-mandate-national-guard.html">Oklahoma Governor Puts Foe of Vaccine Mandates in Charge of National Guard</a> NYT: The governor, Kevin Stitt, is one of a number of Republican state officials across the country who has been fighting against President Biden’s vaccine mandates. 
- <p class="updated_time"> 07:44 AM CT, Nov. 13 </p> 
- <a href="https://www.wsj.com/articles/dozens-of-inmates-die-in-latest-prison-riot-in-ecuador-11636825319">Dozens of Inmates Die in Latest Prison Riot in Ecuador</a> WSJ: At least 58 inmates were killed at the Litoral prison in Guayaqil, Ecuador, the prison’s second gang battle in barely six weeks and the latest in a wave of violence for the country. 
  <p class="updated_time"> 07:28 AM CT, Nov. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59274351?at_medium=RSS&at_campaign=KARANGA">Belarus-Poland border: Putin warns Belarus over gas threat to EU</a> BBC: Russia's leader says Belarus should not cut gas supplies to Europe over the migrant row with Poland. 
  <p class="updated_time"> 07:24 AM CT, Nov. 13 </p> 
@@ -159,14 +163,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/11/health/veterans-psychedelics-ptsd-depression.html">Veterans Have Become Unlikely Lobbyists in Push to Legalize Psychedelic Drugs</a> NYT: Lawmakers find it hard to “just say no” to combat veterans seeking support for drug decriminalization efforts gaining traction around the country. 
  <p class="updated_time"> 07:17 AM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/world/europe/covid-germany-tests.html">Germany Will Again Offer Free Covid Tests to All Adults</a> NYT: Officials hope that identifying infections earlier can help stop a recent surge in cases. 
- <p class="updated_time"> 07:09 AM CT, Nov. 12 </p> 
- <a href="https://www.npr.org/sections/pictureshow/2021/11/12/1054032730/photography-climate-change-global-warming-oceans-vlad-sokhin">Their lands are oceans apart but are linked by rising, warming seas of climate change</a> NPR: Photographer Vlad Sokhin's latest work, Warm Waters, is an exploration of climate change traveling across 18 countries and off-the-map territories seen by seldom few. 
  <p class="updated_time"> 06:58 AM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/arts/design/badiucao-brescia-china.html">The Show Goes On, Even After China Tried to Shut It Down</a> NYT: An Italian city rejected a request from the Chinese Embassy in Rome to cancel an exhibition by Badiucao, an artist who has been described as the Chinese Banksy. 
  <p class="updated_time"> 06:55 AM CT, Nov. 12 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59263810?at_medium=RSS&at_campaign=KARANGA">John Kerry at COP26: We're going to come up with an agreement</a> BBC: The US climate envoy speaks to the BBC as pressure mounts on governments to strike a deal at COP26. 
- <p class="updated_time"> 04:08 AM CT, Nov. 12 </p> 
- <a href="https://www.npr.org/2021/11/12/1055030272/fossil-fuel-cop26-climate-change-glasgow">The fossil fuel industry turned out in force at COP26. So did climate activists  </a> NPR: More than 500 attendees from the fossil fuel industry are at the climate summit in Glasgow. Their reps have attended climate summits for decades. Some are touting a shift toward renewables. 
  <p class="updated_time"> 03:58 AM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/11/world/europe/austria-chancellor-lockdown-unvaccinated.html">Austria Weighs a Lockdown for Unvaccinated People</a> NYT: The country’s case rate has more than doubled since late October. 
  <p class="updated_time"> 03:31 AM CT, Nov. 12 </p> 
@@ -228,20 +228,32 @@ permalink: /projects/news/
 
  <p class="updated_time"> 04:23 PM CT, Nov. 13 </p> 
  <a href="https://www.politico.com/news/2021/11/13/cop26-climate-deal-vulnerable-countries-521446">COP26 climate deal ‘too late’ for vulnerable countries but too much for others</a> Politico: Countries struck a compromise in Glasgow that pushes efforts into next year. 
+ <p class="updated_time"> 04:04 PM CT, Nov. 13 </p> 
+ <a href="https://www.npr.org/2021/11/13/1055575802/lack-of-american-ambassadors-is-hurting-foreign-goals-says-afsa-president">Lack of American ambassadors is hurting foreign goals, says AFSA president</a> NPR: NPR's Michel Martin speaks with Eric Rubin, president of the American Foreign Service Association, about the high number of diplomatic vacancies and how it's affecting President Biden's agenda. 
+ <p class="updated_time"> 04:04 PM CT, Nov. 13 </p> 
+ <a href="https://www.npr.org/2021/11/13/1055575781/rep-zoe-lofgren-on-steve-bannon-indictment">Rep. Zoe Lofgren on Steve Bannon indictment</a> NPR: NPR's Michel Martin speaks with Rep. Zoe Lofgren, a California Democrat, about Friday's indictment of Steve Bannon and the ongoing investigation into the Jan. 6 riot at the U.S. Capitol. 
  <p class="updated_time"> 03:26 PM CT, Nov. 13 </p> 
  <a href="https://www.nytimes.com/2021/11/13/us/politics/tribal-lands-flooding-nuclear-waste.html">Flooding and Nuclear Waste Eat Away at a Tribe’s Ancestral Home</a> NYT: The federal government allowed a stockpile of spent fuel on a Minnesota reservation to balloon even as a dam project whittled down the amount of livable land. 
+ <p class="updated_time"> 03:20 PM CT, Nov. 13 </p> 
+ <a href="https://www.cnn.com/2021/11/13/politics/afghans-exorbitant-costs/index.html">Some Afghans trying to flee country face exorbitant costs as Blinken touts success of efforts to help Americans</a> CNN: Afghans desperate to flee the country are increasingly having to negotiate with private operators charging exorbitant sums while US Secretary of State Antony Blinken announced on Friday that all Americans who have asked to leave Afghanistan have been offered an opportunity to do so. 
  <p class="updated_time"> 02:55 PM CT, Nov. 13 </p> 
  <a href="https://www.politico.com/news/2021/11/13/arbery-trial-police-testimony-week-1-521414">Arbery trial: Grim photos, police testimony dominate Week 1</a> Politico: The trial of father and son Greg and Travis McMichael and their neighbor William “Roddie” Bryan wrapped up its first full week of testimony. 
+ <p class="updated_time"> 02:53 PM CT, Nov. 13 </p> 
+ <a href="https://www.cnn.com/2021/11/13/politics/fbi-fake-emails-cyber-threat/index.html">Fake FBI emails about a sophisticated attack are part of 'ongoing situation,' agency says</a> CNN: The FBI on Saturday said it was aware of reports that unauthorized emails were coming from a legitimate FBI email address to thousands of organizations about a purported cyber threat. 
  <p class="updated_time"> 12:44 PM CT, Nov. 13 </p> 
  <a href="https://www.nytimes.com/2021/11/12/us/politics/kamala-harris-macron-france.html">In France, Kamala Harris Searches for Role on Global Stage</a> NYT: The vice president met with President Emmanuel Macron of France, skirting recent U.S.-French tensions, and immersed herself in issues like Libya and cybersecurity. 
  <p class="updated_time"> 12:40 PM CT, Nov. 13 </p> 
  <a href="https://www.npr.org/2021/11/13/1055524205/more-republican-leaders-try-to-ban-books-on-race-lgbtq-issues">More Republican leaders try to ban books on race, LGBTQ issues</a> NPR: In the latest instance, South Carolina Gov. Henry McMaster calls on the state's department of education to look into banning a book about queer identity, saying the content is sexually explicit. 
  <p class="updated_time"> 11:43 AM CT, Nov. 13 </p> 
  <a href="https://www.politico.com/news/2021/11/13/india-coal-cop26-521365">India tries to block coal phaseout from COP26 deal</a> Politico: An official argued that developing countries were “entitled to the responsible use of fossil fuels.” 
+ <p class="updated_time"> 11:00 AM CT, Nov. 13 </p> 
+ <a href="https://www.cnn.com/2021/11/13/politics/midterms-democrats-biden-analysis/index.html">History says Biden and Democrats probably won't recover by the midterms</a> CNN: President Joe Biden's approval rating is at its lowest point since he took office. His approval rating has slid into the low 40s this month. And while the President has plenty of time to recover before his potential reelection in 2024, history suggests that his chances of becoming popular and Democrats gaining ground by the midterms in 2022 are small. 
  <p class="updated_time"> 10:28 AM CT, Nov. 13 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/13/bannon-indicted-britney-freed-495092">POLITICO Playbook: Bannon indicted, Britney freed</a> Politico: And an appeals court extends a stay for the Biden administration's vaccine-or-test mandate. 
  <p class="updated_time"> 10:16 AM CT, Nov. 13 </p> 
  <a href="https://www.politico.com/news/2021/11/13/raid-veritas-okeefe-biden-press-521307">FBI raid on Project Veritas founder’s home sparks questions about press freedom</a> Politico: The action against James O’Keefe has prompted concern about the Biden administration’s commitment to the First Amendment. 
+ <p class="updated_time"> 09:46 AM CT, Nov. 13 </p> 
+ <a href="https://www.cnn.com/2021/11/13/politics/biden-vaccine-mandate-fifth-circuit-appeals/index.html">Federal appeals court reaffirms its decision to freeze Biden's vaccine mandate</a> CNN: A federal appeals court on Friday reaffirmed its earlier decision to freeze the Biden administration's vaccine mandate, calling the requirement for large employers to make sure its employees are vaccinated against Covid-19 "staggeringly overbroad." 
  <p class="updated_time"> 09:39 AM CT, Nov. 13 </p> 
  <a href="https://www.nytimes.com/2021/11/13/us/politics/chris-christie-book-trump.html">Chris Christie Wants the Post-Trump G.O.P. to Move Past 2020</a> NYT: In a new book and in an interview, Mr. Christie says that if the former president wants to be a positive force, “he’s got to let this other stuff go.” 
  <p class="updated_time"> 09:12 AM CT, Nov. 13 </p> 
@@ -308,8 +320,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/12/nyregion/aoc-infrastructure-bill-vote.html">Ocasio-Cortez Isn’t Wavering. Are New Yorkers on Her Side?</a> NYT: By voting no on the infrastructure bill, Representative Alexandria Ocasio-Cortez set off a fierce debate, including among city residents eager to see the subways improved. 
  <p class="updated_time"> 03:44 PM CT, Nov. 12 </p> 
  <a href="https://www.npr.org/2021/11/12/1055366652/bannon-indicted-for-defying-subpoena-jan-6-panel-threatens-contempt-against-mead">Bannon indicted for defying Jan. 6 panel subpoena</a> NPR: Former Donald Trump adviser Steve Bannon was indicted by a federal grand jury for refusing to cooperate with the House panel investigating the Jan. 6 attack on the Capitol. 
- <p class="updated_time"> 03:34 PM CT, Nov. 12 </p> 
- <a href="https://www.cnn.com/2021/11/12/politics/lisa-murkowski-alaska-reelection/index.html">GOP Sen. Lisa Murkowski of Alaska announces reelection bid</a> CNN: GOP Sen. Lisa Murkowski of Alaska announced her bid Friday for reelection in a race that's sure to be tough for the moderate Republican who has been a strong critic of former President Donald Trump. 
  <p class="updated_time"> 03:31 PM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/us/politics/robert-califf-fda.html">Biden Chooses Robert Califf to Lead F.D.A., Despite Drug Industry Ties</a> NYT: Dr. Robert M. Califf, an academic and clinical trial researcher who ran the agency in 2016, has also consulted for pharmaceutical companies. 
  <p class="updated_time"> 03:24 PM CT, Nov. 12 </p> 
@@ -324,8 +334,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/12/jen-psaki-returns-to-work-covid-19-521130">Press Secretary Jen Psaki returns to work after Covid-19</a> Politico: "I remain incredibly grateful for the vaccine for keeping me safe and other people in my house safe as well," she said. 
  <p class="updated_time"> 02:29 PM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/us/politics/murkowski-re-election-bid.html">Murkowski Announces Re-election Bid, Setting Up Clash With Trump</a> NYT: Of the seven Republicans who found former President Donald J. Trump guilty in his second impeachment trial, the Alaska senator is the only one facing re-election this year. 
- <p class="updated_time"> 02:19 PM CT, Nov. 12 </p> 
- <a href="https://www.cnn.com/2021/11/12/politics/house-committee-cdc-covid-trump-administration-response/index.html">New evidence shows Trump administration interfered with CDC during Covid-19 pandemic</a> CNN: The House Select Subcommittee on the Coronavirus Crisis released to CNN on Friday new evidence showing how US Centers for Disease Control and Prevention officials were pressured by Trump administration officials to alter scientific guidance and prevented from communicating directly with the public. 
  <p class="updated_time"> 02:09 PM CT, Nov. 12 </p> 
  <a href="https://www.politico.com/news/2021/11/12/virtual-biden-xi-summit-521147">Virtual Biden-Xi summit set for Monday</a> Politico: The summit will be virtual because Xi is declining invitations to attend all events outside China. 
  <p class="updated_time"> 01:42 PM CT, Nov. 12 </p> 
@@ -346,16 +354,10 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/12/for-2nd-straight-month-americans-quit-jobs-at-a-record-pace-521116">For 2nd straight month, Americans quit jobs at a record pace</a> Politico: The figures point to a historic level of turmoil in the job market as newly-empowered workers quit jobs to take higher pay that is being dangled by businesses in need of help 
  <p class="updated_time"> 11:40 AM CT, Nov. 12 </p> 
  <a href="https://www.npr.org/2021/11/12/1055096462/lawyer-for-mark-meadows-says-courts-will-have-to-resolve-jan-6-panel-dispute">Mark Meadows' "defiance" could lead to contempt referral, Jan. 6 panel says</a> NPR: The former White House chief of staff may be looking to the courts for relief, but his path sets him on a collision course with the House. 
- <p class="updated_time"> 11:40 AM CT, Nov. 12 </p> 
- <a href="https://www.npr.org/2021/11/12/1055143924/biden-nominates-former-commissioner-robert-califf-to-again-lead-fda">Biden nominates former Commissioner Robert Califf to again lead FDA</a> NPR: The Food and Drug Administration has been without a permanent leader since President Biden took office in January. Califf led the agency during the last year of the Obama administration. 
  <p class="updated_time"> 11:22 AM CT, Nov. 12 </p> 
  <a href="https://www.politico.com/news/2021/11/12/myanmar-court-sentences-us-journalist-to-11-years-in-jail-521109">Myanmar court sentences U.S. journalist to 11 years in jail</a> Politico: Danny Fenster, managing editor Frontier Myanmar, is still facing additional charges under which he could receive up to life in prison. 
  <p class="updated_time"> 11:14 AM CT, Nov. 12 </p> 
  <a href="https://www.politico.com/news/2021/11/12/biden-asian-summit-offer-blocked-521103">Russia suspected of blocking Biden's bid to host Asian summit</a> Politico: Failure to agree on Biden's offer to host risks jeopardizing U.S. support for the Asia-Pacific Economic Cooperation forum. 
- <p class="updated_time"> 11:08 AM CT, Nov. 12 </p> 
- <a href="https://www.npr.org/2021/11/12/1054242599/biden-and-xi-will-meet-virtually-on-monday-heres-whats-at-stake">Biden and Xi will meet (virtually) on Monday. Here's what's at stake</a> NPR: It's been more than two years since leaders of the United States and China met face-to-face. This meeting will be virtual, not in person, and comes at a time of high tensions. 
- <p class="updated_time"> 11:08 AM CT, Nov. 12 </p> 
- <a href="https://www.cnn.com/2021/11/12/politics/joe-manchin-relationship-progressives/index.html">As Biden agenda hinges on Manchin, House progressives look to 'deescalate' tension</a> CNN: Soon after Missouri Rep. Cori Bush accused Sen. Joe Manchin of espousing an "anti-Black, anti-child, anti-woman and anti-immigrant" position, another House progressive was on national TV with a sharply different message. 
  <p class="updated_time"> 10:54 AM CT, Nov. 12 </p> 
  <a href="https://www.cnn.com/2021/11/12/politics/rob-califf-fda-commissioner/index.html">Biden picks Dr. Rob Califf as FDA commissioner</a> CNN: President Joe Biden will nominate Dr. Rob Califf, a longtime cardiologist, to be the next commissioner of the Food and Drug Administration, a role Califf previously held during the Obama administration. 
  <p class="updated_time"> 08:52 AM CT, Nov. 12 </p> 
@@ -370,8 +372,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/11/business/economy/biden-inflation.html">Biden Says Spending Bill Will Slow Inflation. But When?</a> NYT: The Biden administration has argued that its infrastructure and broader economic package will slow rapid price increases. But that will take time. 
  <p class="updated_time"> 06:13 AM CT, Nov. 12 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/12/trump-sours-on-desantis-495081">POLITICO Playbook: Trump sours on DeSantis</a> Politico: And Sen. Lisa Murkowski (R-Alaska) says she'll run for reelection. 
- <p class="updated_time"> 05:05 AM CT, Nov. 12 </p> 
- <a href="https://www.cnn.com/2021/11/12/politics/senate-race-rankings-november/index.html">The 10 Senate seats most likely to flip in 2022</a> CNN: "A lot happens in a year." It's a favorite phrase for politicos who don't like the way the winds are blowing. 
  <p class="updated_time"> 05:02 AM CT, Nov. 12 </p> 
  <a href="https://www.cnn.com/2021/11/12/politics/republicans-covid-vaccine-mandates/index.html">Republicans seize on federal vaccine mandates to fire up their base and try to court new voters worried about the economy </a> CNN: Republicans seeking to energize their core voters and appeal beyond their base to others concerned about the fragile economic recovery are turning to the Biden administration's vaccine mandates. 
  <p class="updated_time"> 05:01 AM CT, Nov. 12 </p> 
