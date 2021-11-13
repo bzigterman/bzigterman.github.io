@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:24 PM CT, Nov. 13 </p> 
+ <a href="https://www.npr.org/2021/11/13/1055540992/an-antarctic-penguin-ends-up-on-new-zealand-shore-2-000-miles-from-home">An Antarctic penguin ends up on New Zealand shore, 2,000 miles from home</a> NPR: This penguin's adventure might have taken a few wrong turns. It's only the third time an Adélie penguin is known to have made it to the shores of New Zealand. 
+ <p class="updated_time"> 01:18 PM CT, Nov. 13 </p> 
+ <a href="https://www.npr.org/2021/11/13/1055554319/cop26-climate-agreement-global-warming-glasgow">At COP26, climate consensus appears near but India objects to phasing out coal</a> NPR: Almost 200 nations were poised to adopt a compromise on how to curb climate change and to keep a key global warming target alive after 15 days of contentious climate talks. 
  <p class="updated_time"> 01:01 PM CT, Nov. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59274686?at_medium=RSS&at_campaign=KARANGA">Egypt: Scorpions kill three and injure hundreds in Aswan</a> BBC: Three people are killed by scorpion stings after storms brought the creatures onto the streets. 
  <p class="updated_time"> 12:56 PM CT, Nov. 13 </p> 
@@ -179,8 +183,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/stories-59255218?at_medium=RSS&at_campaign=KARANGA">Ron Jeremy: Porn star's accusers speak out for first time</a> BBC: Some of his accusers speak for the first time of their alleged experiences. He denies all charges. 
  <p class="updated_time"> 12:15 AM CT, Nov. 12 </p> 
  <a href="https://www.bbc.co.uk/news/uk-scotland-glasgow-west-59248023?at_medium=RSS&at_campaign=KARANGA">How green was the COP26 climate summit?</a> BBC: A report has suggested the carbon footprint of the Glasgow summit is more than double that of COP25. 
- <p class="updated_time"> 11:42 PM CT, Nov. 11 </p> 
- <a href="https://www.npr.org/2021/11/12/1055014823/toyota-to-ramp-up-production-after-cutbacks-driven-by-the-covid-19-pandemic">Toyota to ramp up production after cutbacks driven by the COVID-19 pandemic</a> NPR: The Japanese automaker announced it expects to build 800,000 vehicles globally next month, up from the roughly 760,000 it made last December. 
  <p class="updated_time"> 11:09 PM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/t-magazine/senegal-homegrown-rice.html">In Senegal, a Return to Homegrown Rice</a> NYT: The country has remained mostly dependent on the grain’s importation since colonization in the 1800s. But some locals are trying to change that. 
  <p class="updated_time"> 11:06 PM CT, Nov. 11 </p> 
@@ -203,8 +205,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/11/world/europe/germany-covid-unvaccinated.html">Germany’s Fourth Covid Wave: ‘A Pandemic of the Unvaccinated’</a> NYT: Germany once set an example for how to manage the coronavirus. Now, deep pockets of vaccine resistance are helping drive daily infections to new heights. 
  <p class="updated_time"> 05:01 PM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/world/africa/covid-uganda-schools.html">Dropouts and Menial Jobs: The Effects of Keeping Uganda's Schools Closed</a> NYT: Recalling the orphans of the H.I.V./AIDS crisis, government officials fear students infecting their parents and keep schools closed. 
- <p class="updated_time"> 03:49 PM CT, Nov. 11 </p> 
- <a href="https://www.npr.org/2021/11/11/1054884177/migrants-entering-poland-from-belarus-face-sub-zero-temperatures-and-military-pa">Migrants entering Poland from Belarus face sub-zero temperatures and military patrols</a> NPR: NPR's Mary Louise Kelly talks with Matthew Luxmoore of Radio Free Europe about the growing migrant crisis on the border of Belarus and Poland. 
  <p class="updated_time"> 03:35 PM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/world/europe/poland-independence-day-far-right-protests.html">As Poland Celebrates Its Independence Day, Far-Right Groups Stage Rallies</a> NYT: In downtown Warsaw, tens of thousands of demonstrators started their march by lighting red flares and singing the national anthem. 
  <p class="updated_time"> 02:52 PM CT, Nov. 11 </p> 
