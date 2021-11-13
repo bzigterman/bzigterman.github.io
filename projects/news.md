@@ -7,12 +7,14 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:44 PM CT, Nov. 13 </p> 
+ <a href="https://www.nytimes.com/2021/11/12/us/politics/kamala-harris-macron-france.html">In France, Kamala Harris Searches for Role on Global Stage</a> NYT: The vice president met with President Emmanuel Macron of France, skirting recent U.S.-French tensions, and immersed herself in issues like Libya and cybersecurity. 
+ <p class="updated_time"> 12:43 PM CT, Nov. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-59276428?at_medium=RSS&at_campaign=KARANGA">Ecuador prison riot: New fighting at Guayaquil jail kills 68</a> BBC: Fighting at the Litoral Penitentiary in the city of Guayaquil reportedly began on Friday evening. 
  <p class="updated_time"> 12:33 PM CT, Nov. 13 </p> 
  <a href="https://www.nytimes.com/2021/11/13/us/us-airstrikes-civilian-deaths.html">How the U.S. Hid an Airstrike That Killed Dozens of Civilians in Syria</a> NYT: The military never conducted an independent investigation into a 2019 bombing on the last bastion of the Islamic State, despite concerns about a secretive commando force. 
  <p class="updated_time"> 12:10 PM CT, Nov. 13 </p> 
  <a href="https://www.nytimes.com/2021/11/13/world/africa/sudan-protests.html">Sudanese Security Forces Fire on Protesters as Military Tightens Grip</a> NYT: At least five people were killed and several wounded as the police fired bullets and tear gas at demonstrators in Sudan’s capital, two days after the army chief signed a contentious decree. 
- <p class="updated_time"> 11:39 AM CT, Nov. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-59276428?at_medium=RSS&at_campaign=KARANGA">Ecuador prison riot: New fighting at Guayaquil jail kills 58</a> BBC: Fighting at the Litoral Penitentiary in the city of Guayaquil reportedly began on Friday evening. 
  <p class="updated_time"> 11:26 AM CT, Nov. 13 </p> 
  <a href="https://www.bbc.co.uk/news/uk-59275772?at_medium=RSS&at_campaign=KARANGA">Nazanin Zaghari-Ratcliffe: Husband ends hunger strike after 21 days</a> BBC: The husband of British-Iranian detainee Nazanin Zaghari-Ratcliffe says his child "needs two parents". 
  <p class="updated_time"> 11:21 AM CT, Nov. 13 </p> 
@@ -37,6 +39,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59273174?at_medium=RSS&at_campaign=KARANGA">Poland-Belarus border: The BBC reports from the camps within touching distance of the EU</a> BBC: Steve Rosenberg reports from the migrant camps within touching distance of the EU. 
  <p class="updated_time"> 08:44 AM CT, Nov. 13 </p> 
  <a href="https://www.nytimes.com/2021/11/12/world/americas/oklahoma-kevin-sitt-vaccine-mandate-national-guard.html">Oklahoma Governor Puts Foe of Vaccine Mandates in Charge of National Guard</a> NYT: The governor, Kevin Stitt, is one of a number of Republican state officials across the country who has been fighting against President Biden’s vaccine mandates. 
+ <p class="updated_time"> 07:44 AM CT, Nov. 13 </p> 
+ <a href="https://www.wsj.com/articles/dozens-of-inmates-die-in-latest-prison-riot-in-ecuador-11636825319">Dozens of Inmates Die in Latest Prison Riot in Ecuador</a> WSJ: At least 58 inmates were killed at the Litoral prison in Guayaqil, Ecuador, the prison’s second gang battle in barely six weeks and the latest in a wave of violence for the country. 
  <p class="updated_time"> 07:28 AM CT, Nov. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59274351?at_medium=RSS&at_campaign=KARANGA">Belarus-Poland border: Putin warns Belarus over gas threat to EU</a> BBC: Russia's leader says Belarus should not cut gas supplies to Europe over the migrant row with Poland. 
  <p class="updated_time"> 07:24 AM CT, Nov. 13 </p> 
@@ -47,8 +51,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59274685?at_medium=RSS&at_campaign=KARANGA">Glen de Vries: William Shatner's spacecraft partner dies in plane crash</a> BBC: Glen de Vries went to the the edge of space with Star Trek actor William Shatner just one month ago. 
  <p class="updated_time"> 06:54 AM CT, Nov. 13 </p> 
  <a href="https://www.nytimes.com/2021/11/13/world/canada/newfoundland-migrants.html">In Canada's Atlantic, Urbanites Find Welcome and Blowback</a> NYT: As housing prices soar in big cities, the country’s eastern provinces are experiencing a surge in migration. Newcomers are being welcomed, but some locals are wary. 
- <p class="updated_time"> 06:42 AM CT, Nov. 13 </p> 
- <a href="https://www.wsj.com/articles/dozens-of-inmates-die-in-latest-prison-riot-in-ecuador-11636825319">Dozens of Inmates Die in Latest Prison Riot in Ecuador</a> WSJ: At least 58 inmates were killed at the Litoral prison in Guayaqil, Ecuador, the prison’s second gang battle in barely six weeks and the latest in a wave of violence for the country. 
  <p class="updated_time"> 06:35 AM CT, Nov. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59274204?at_medium=RSS&at_campaign=KARANGA">Sara Duterte: Daughter of Philippines leader runs for vice-president</a> BBC: Sara Duterte will run alongside the son of the country's former dictator, Ferdinand Marcos. 
  <p class="updated_time"> 06:25 AM CT, Nov. 13 </p> 
@@ -83,8 +85,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/12/world/canada/newfoundland-cyberattack.html">Hackers Target Newfoundland’s Health Care System</a> NYT: The province has said little about a cyberattack that delayed or canceled medical procedures and leaked personal information. 
  <p class="updated_time"> 07:11 PM CT, Nov. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59271928?at_medium=RSS&at_campaign=KARANGA">Summer Zervos: Ex-Apprentice drops lawsuit against Trump</a> BBC: Mr Trump declares himself "totally vindicated" as Summer Zervos abandons her long-running lawsuit. 
- <p class="updated_time"> 06:45 PM CT, Nov. 12 </p> 
- <a href="https://www.nytimes.com/2021/11/12/us/politics/kamala-harris-macron-france.html">In France, Kamala Harris Searches for Role on Global Stage</a> NYT: The vice president met with President Emmanuel Macron of France, skirting recent U.S.-French tensions, and immersed herself in issues like Libya and cybersecurity. 
  <p class="updated_time"> 06:15 PM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/us/ivory-rhino-congo-trafficking.html">2 Ivory Smugglers Captured in International Operation, U.S. Says</a> NYT: The men were captured by relying on DNA sampling from a previously seized ivory haul, which helped experts pinpoint the location of poached elephants. 
  <p class="updated_time"> 06:13 PM CT, Nov. 12 </p> 
@@ -234,6 +234,10 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:44 PM CT, Nov. 13 </p> 
+ <a href="https://www.nytimes.com/2021/11/12/us/politics/kamala-harris-macron-france.html">In France, Kamala Harris Searches for Role on Global Stage</a> NYT: The vice president met with President Emmanuel Macron of France, skirting recent U.S.-French tensions, and immersed herself in issues like Libya and cybersecurity. 
+ <p class="updated_time"> 12:40 PM CT, Nov. 13 </p> 
+ <a href="https://www.npr.org/2021/11/13/1055524205/more-republican-leaders-try-to-ban-books-on-race-lgbtq-issues">More Republican leaders try to ban books on race, LGBTQ issues</a> NPR: In the latest instance, South Carolina Gov. Henry McMaster calls on the state's department of education to look into banning a book about queer identity, saying the content is sexually explicit. 
  <p class="updated_time"> 11:43 AM CT, Nov. 13 </p> 
  <a href="https://www.politico.com/news/2021/11/13/india-coal-cop26-521365">India tries to block coal phaseout from COP26 deal</a> Politico: An official argued that developing countries were “entitled to the responsible use of fossil fuels.” 
  <p class="updated_time"> 10:28 AM CT, Nov. 13 </p> 
@@ -286,8 +290,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/12/politics/adam-kinzinger-bannon-indictment-contempt-of-congress-cnntv/index.html">Kinzinger says he hopes Bannon indictment for contempt of Congress 'sends a chilling message'</a> CNN: Rep. Adam Kinzinger, one of two Republicans on the House select committee investigating January 6, said Friday that he hopes a federal grand jury's indictment of Steve Bannon for contempt of Congress "sends a chilling message" to anyone considering not cooperating with the panel. 
  <p class="updated_time"> 06:49 PM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/us/politics/republican-violent-rhetoric.html">Menace Enters the Republican Mainstream</a> NYT: Threats of violence have become commonplace among a significant part of the party, as historians and those who study democracy warn of a dark shift in American politics. 
- <p class="updated_time"> 06:45 PM CT, Nov. 12 </p> 
- <a href="https://www.nytimes.com/2021/11/12/us/politics/kamala-harris-macron-france.html">In France, Kamala Harris Searches for Role on Global Stage</a> NYT: The vice president met with President Emmanuel Macron of France, skirting recent U.S.-French tensions, and immersed herself in issues like Libya and cybersecurity. 
  <p class="updated_time"> 06:38 PM CT, Nov. 12 </p> 
  <a href="https://www.cnn.com/2021/11/12/politics/mark-meadows-january-6-deposition/index.html">Mark Meadows did not appear for deposition with January 6 committee</a> CNN: Former Trump White House Chief of Staff Mark Meadows did not appear in person for a deposition on Friday in front of the House select committee investigating January 6, setting up a potential showdown that could lead to the panel beginning a criminal referral process against him. 
  <p class="updated_time"> 06:12 PM CT, Nov. 12 </p> 
@@ -358,8 +360,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/12/politics/joe-manchin-relationship-progressives/index.html">As Biden agenda hinges on Manchin, House progressives look to 'deescalate' tension</a> CNN: Soon after Missouri Rep. Cori Bush accused Sen. Joe Manchin of espousing an "anti-Black, anti-child, anti-woman and anti-immigrant" position, another House progressive was on national TV with a sharply different message. 
  <p class="updated_time"> 10:54 AM CT, Nov. 12 </p> 
  <a href="https://www.cnn.com/2021/11/12/politics/rob-califf-fda-commissioner/index.html">Biden picks Dr. Rob Califf as FDA commissioner</a> CNN: President Joe Biden will nominate Dr. Rob Califf, a longtime cardiologist, to be the next commissioner of the Food and Drug Administration, a role Califf previously held during the Obama administration. 
- <p class="updated_time"> 10:27 AM CT, Nov. 12 </p> 
- <a href="https://www.npr.org/2021/11/12/1055084269/lisa-murkowski-reelection-senate-alaska">Murkowski voted to convict Trump. Now she'll run against a candidate he backs</a> NPR: Alaska Sen. Lisa Murkowski is one of seven Republican senators to vote to convict former President Donald Trump in his impeachment trial last January. 
  <p class="updated_time"> 08:52 AM CT, Nov. 12 </p> 
  <a href="https://www.cnn.com/2021/11/12/politics/kamala-harris-paris/index.html">Harris says she did not discuss submarine deal with Macron during Paris meeting</a> CNN: Vice President Kamala Harris said she did not discuss with French President Emmanuel Macron the surprise deal between the US and Australia to develop nuclear submarines that angered the French, leading to a fallout between the longstanding allies. 
  <p class="updated_time"> 08:50 AM CT, Nov. 12 </p> 
