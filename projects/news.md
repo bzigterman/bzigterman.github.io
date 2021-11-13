@@ -220,7 +220,7 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
- <p class="updated_time"> 08:39 PM CT, Nov. 12 </p> 
+ <p class="updated_time"> 09:50 PM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/us/politics/court-vaccine-mandate.html">Appeals Court Extends Block on Biden’s Vaccine Mandate for Employers</a> NYT: A three-judge panel of the U.S. Court of Appeals for the Fifth Circuit held that challengers were likely to succeed in their claim that the mandate was an unlawful overreach. 
  <p class="updated_time"> 08:37 PM CT, Nov. 12 </p> 
  <a href="https://www.politico.com/news/2021/11/12/jury-rittenhouse-lesser-charges-521226">Jury to get to weigh some lesser charges in Rittenhouse case</a> Politico: Jurors are expected to begin deliberating on Monday after closing arguments. 
