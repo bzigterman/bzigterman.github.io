@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:20 AM CT, Nov. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/science-environment-59269886?at_medium=RSS&at_campaign=KARANGA">COP26: Final push aims to strike new climate agreement</a> BBC: The new draft is unlikely to heal splits over subsidies for fossil fuels and financial aid. 
  <p class="updated_time"> 08:10 AM CT, Nov. 13 </p> 
  <a href="https://www.bbc.co.uk/news/uk-59275772?at_medium=RSS&at_campaign=KARANGA">Nazanin Zaghari-Ratcliffe: Husband ending hunger strike after 21 days</a> BBC: The husband of Iranian detainee Nazanin Zaghari-Ratcliffe ends his protest outside the UK Foreign Office. 
  <p class="updated_time"> 07:28 AM CT, Nov. 13 </p> 
@@ -29,8 +31,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/10/world/europe/poland-belarus-border-europe.html">Poland Gets Support From Europe on Tough Borders</a> NYT: Faced with the weaponization of migrants from Belarus, the European Union is defending Poland’s hard line even as it withholds funds over rule of law violations. 
  <p class="updated_time"> 05:19 AM CT, Nov. 13 </p> 
  <a href="https://www.nytimes.com/2021/11/13/world/asia/philippines-sara-duterte-marcos.html">Sara Duterte and Ferdinand Marcos Jr. May Join Forces in Philippines</a> NYT: Ferdinand Marcos Jr., who hopes to succeed Rodrigo Duterte as president, said Sara Duterte would effectively be his running mate. 
- <p class="updated_time"> 05:10 AM CT, Nov. 13 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-59269886?at_medium=RSS&at_campaign=KARANGA">COP26: New draft deal aims to close lingering divisions</a> BBC: The new draft is unlikely to heal splits over subsidies for fossil fuels and financial aid. 
  <p class="updated_time"> 04:18 AM CT, Nov. 13 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-56901261?at_medium=RSS&at_campaign=KARANGA">What is COP26 and what is being agreed at Glasgow climate conference?</a> BBC: A crucial climate change summit is being held in the UK which could change our everyday lives. 
  <p class="updated_time"> 03:07 AM CT, Nov. 13 </p> 
@@ -232,16 +232,22 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:16 AM CT, Nov. 13 </p> 
+ <a href="https://www.cnn.com/2021/11/13/politics/kamala-harris-france-trip/index.html">Harris' trip to Paris signals a relationship back on track</a> CNN: As French President Emmanuel Macron arrived at the Arc de Triomphe for a national televised Armistice Day Ceremony, Vice President Kamala Harris -- donning the traditional bleuet de France honoring veterans -- waited to greet him. 
  <p class="updated_time"> 08:01 AM CT, Nov. 13 </p> 
  <a href="https://www.politico.com/news/2021/11/13/africa-great-green-wall-521292">Africa’s ‘Great Green Wall’ shifts focus to hold off desert</a> Politico: Only 4% of the Great Green Wall’s original goal has been met, and an estimated $43 billion would be needed to achieve the rest. 
  <p class="updated_time"> 08:00 AM CT, Nov. 13 </p> 
  <a href="https://www.nytimes.com/2021/11/13/us/politics/chris-christie-book-interview.html">Chris Christie Wants the Post-Trump G.O.P. to Move Past Trump</a> NYT: In a new book and in an interview, Mr. Christie says that if the former president wants to be a positive force, “he’s got to let this other stuff go.” 
+ <p class="updated_time"> 07:43 AM CT, Nov. 13 </p> 
+ <a href="https://www.cnn.com/2021/11/13/politics/steve-bannon-january-6-indictment/index.html">Bannon's indictment may mark a turning point</a> CNN: The indictment of former President Donald Trump's chief strategist Steve Bannon on charges of criminal contempt of Congress on Friday sent shock waves through Washington -- serving as a powerful warning to other potential witnesses that there will be consequences for defying the House select committee investigating the January 6 attack on the US Capitol. 
  <p class="updated_time"> 07:02 AM CT, Nov. 13 </p> 
  <a href="https://www.politico.com/news/2021/11/13/democrats-drug-prices-521213">Dems’ plan to limit drug price inflation faces test in Senate</a> Politico: Attempts at price controls have to conform with the parameters of the expedited budget reconciliation process they’re hoping to use to pass the social spending package on a party-line vote. 
  <p class="updated_time"> 07:02 AM CT, Nov. 13 </p> 
  <a href="https://www.npr.org/2021/11/13/1055503629/steve-bannon-faces-federal-charges-for-contempt-of-congress">Steve Bannon faces federal charges for contempt of Congress</a> NPR: Steve Bannon, adviser to former President Donald Trump, was indicted Friday for contempt of Congress. 
  <p class="updated_time"> 07:02 AM CT, Nov. 13 </p> 
  <a href="https://www.npr.org/2021/11/13/1055503570/week-in-politics-biden-balances-tackling-inflation-and-working-on-his-spending-b">Week in politics: Biden balances tackling inflation and working on his spending bill</a> NPR: Will rising prices and an uncertain economic outlook change the prospects for President Biden's signature spending bill? Also updates on a House committee's probe into the attempted insurrection. 
+ <p class="updated_time"> 07:01 AM CT, Nov. 13 </p> 
+ <a href="https://www.cnn.com/2021/11/13/politics/fact-check-vaccinated-plane-tantrum-video-prince-ea/index.html">Fact check: Viral video purporting to show vaccinated woman's plane tantrum is fake</a> CNN: A video of a maskless woman having a tantrum on an airplane -- threatening to call the police because she is being forced to sit next to a man she presumes is unvaccinated -- has gone extraordinarily viral on social media. 
  <p class="updated_time"> 07:00 AM CT, Nov. 13 </p> 
  <a href="https://www.politico.com/news/2021/11/13/homer-plessy-key-to-separate-but-equal-on-road-to-pardon-521237">Homer Plessy, key to ‘separate but equal,’ on road to pardon</a> Politico: He was at the center of an infamous 1896 U.S. Supreme Court decision. 
  <p class="updated_time"> 07:00 AM CT, Nov. 13 </p> 
@@ -262,8 +268,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/12/us/politics/biden-china-xi-jinping.html">Biden and China’s Xi Will Hold Virtual Summit on Monday</a> NYT: The leaders of the world’s two largest economies confront tensions over trade, cyberthreats, the climate, Taiwan and human rights. 
  <p class="updated_time"> 08:24 PM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/11/us/politics/project-veritas-journalism-political-spying.html">Project Veritas: Journalists or Political Spies? </a> NYT: Documents show how the conservative group worked with lawyers to gauge how far its deceptive reporting practices could go before running afoul of federal laws. 
- <p class="updated_time"> 08:18 PM CT, Nov. 12 </p> 
- <a href="https://www.cnn.com/2021/11/12/politics/sheila-cherfilus-mccormick-florida-congressional-primary-alcee-hastings-seat/index.html">Businesswoman Sheila Cherfilus-McCormick is apparent winner of Florida primary for late Alcee Hastings' seat</a> CNN: By the narrowest of margins -- just five votes -- businesswoman Sheila Cherfilus-McCormick appears to have won a South Florida Democratic primary to replace the late US Rep. Alcee Hastings in Washington, according to official results reported by the counties. 
  <p class="updated_time"> 07:14 PM CT, Nov. 12 </p> 
  <a href="https://www.cnn.com/2021/11/12/politics/steve-bannon-indicted/index.html">Federal grand jury indicts Steve Bannon for contempt of Congress</a> CNN: A federal grand jury has returned an indictment against former Trump adviser Steve Bannon, CNN has learned. 
  <p class="updated_time"> 07:07 PM CT, Nov. 12 </p> 
@@ -306,8 +310,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/12/us/politics/pell-grants-for-profit-colleges-aid.html">Democrats’ Bill Would Deny For-Profit College Students Extra Aid</a> NYT: Critics say a little-noticed provision would hurt the very constituencies — people of color, the working class, low-income Americans — that the party typically champions. 
  <p class="updated_time"> 02:57 PM CT, Nov. 12 </p> 
  <a href="https://www.npr.org/2021/11/12/1054309797/steve-bannon-contempt-congress-justice-department">Justice Department charges Steve Bannon with criminal contempt of Congress</a> NPR: Federal prosecutors charged Steve Bannon over his defiance of a subpoena from the congressional committee investigating the Jan. 6 Capitol siege. 
- <p class="updated_time"> 02:30 PM CT, Nov. 12 </p> 
- <a href="https://www.cnn.com/2021/11/12/politics/infrastructure-czar-joe-biden/index.html">Biden plans to appoint an outside official to oversee implementation of massive infrastructure bill</a> CNN: President Joe Biden said Friday that he plans to appoint an official from outside his administration to oversee implementation of the large infrastructure bill he intends to sign on Monday. 
  <p class="updated_time"> 02:29 PM CT, Nov. 12 </p> 
  <a href="https://www.politico.com/news/2021/11/12/jen-psaki-returns-to-work-covid-19-521130">Press Secretary Jen Psaki returns to work after Covid-19</a> Politico: "I remain incredibly grateful for the vaccine for keeping me safe and other people in my house safe as well," she said. 
  <p class="updated_time"> 02:29 PM CT, Nov. 12 </p> 
@@ -348,8 +350,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/12/politics/joe-manchin-relationship-progressives/index.html">As Biden agenda hinges on Manchin, House progressives look to 'deescalate' tension</a> CNN: Soon after Missouri Rep. Cori Bush accused Sen. Joe Manchin of espousing an "anti-Black, anti-child, anti-woman and anti-immigrant" position, another House progressive was on national TV with a sharply different message. 
  <p class="updated_time"> 10:54 AM CT, Nov. 12 </p> 
  <a href="https://www.cnn.com/2021/11/12/politics/rob-califf-fda-commissioner/index.html">Biden picks Dr. Rob Califf as FDA commissioner</a> CNN: President Joe Biden will nominate Dr. Rob Califf, a longtime cardiologist, to be the next commissioner of the Food and Drug Administration, a role Califf previously held during the Obama administration. 
- <p class="updated_time"> 10:41 AM CT, Nov. 12 </p> 
- <a href="https://www.cnn.com/2021/11/12/politics/us-qatar-afghanistan/index.html">Blinken says all US citizens in Afghanistan who currently want to leave have an 'opportunity to do so'</a> CNN: The US and Qatar signed an agreement Friday to have Qatar's embassy in Kabul represent US interests in Afghanistan as senior officials from the two countries met in Washington for the US-Qatar Strategic Dialogue. 
  <p class="updated_time"> 10:27 AM CT, Nov. 12 </p> 
  <a href="https://www.npr.org/2021/11/12/1055084269/lisa-murkowski-reelection-senate-alaska">Murkowski voted to convict Trump. Now she'll run against a candidate he backs</a> NPR: Alaska Sen. Lisa Murkowski is one of seven Republican senators to vote to convict former President Donald Trump in his impeachment trial last January. 
  <p class="updated_time"> 08:52 AM CT, Nov. 12 </p> 
