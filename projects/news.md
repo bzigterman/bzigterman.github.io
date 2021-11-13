@@ -7,9 +7,11 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:39 AM CT, Nov. 13 </p> 
+ <p class="updated_time"> 05:21 AM CT, Nov. 13 </p> 
+ <a href="https://www.nytimes.com/2021/11/10/world/europe/poland-belarus-border-europe.html">Poland Gets Support From Europe on Tough Borders</a> NYT: Faced with the weaponization of migrants from Belarus, the European Union is defending Poland’s hard line even as it withholds funds over rule of law violations. 
+ <p class="updated_time"> 05:19 AM CT, Nov. 13 </p> 
  <a href="https://www.nytimes.com/2021/11/13/world/asia/philippines-sara-duterte-marcos.html">Sara Duterte and Ferdinand Marcos Jr. May Join Forces in Philippines</a> NYT: Ferdinand Marcos Jr., who hopes to succeed Rodrigo Duterte as president, said Sara Duterte would effectively be his running mate. 
- <p class="updated_time"> 04:28 AM CT, Nov. 13 </p> 
+ <p class="updated_time"> 05:10 AM CT, Nov. 13 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59269886?at_medium=RSS&at_campaign=KARANGA">COP26: New draft deal aims to close lingering divisions</a> BBC: The new draft is unlikely to heal splits over subsidies for fossil fuels and financial aid. 
  <p class="updated_time"> 04:19 AM CT, Nov. 13 </p> 
  <a href="https://www.nytimes.com/2021/11/13/world/middleeast/belarus-migrants-iraq-kurds.html">Migrants Say Belarusians Took Them to E.U. Border and Supplied Wire Cutters</a> NYT: Iraqi Kurds and other migrants said they were fleeing despair at home, but Belarus encouraged them, offering visas and helping them get to the border. 
@@ -17,8 +19,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/science-environment-56901261?at_medium=RSS&at_campaign=KARANGA">What is COP26 and what is being agreed at Glasgow climate conference?</a> BBC: A crucial climate change summit is being held in the UK which could change our everyday lives. 
  <p class="updated_time"> 04:00 AM CT, Nov. 13 </p> 
  <a href="https://www.nytimes.com/2021/11/13/world/canada/newfoundland-migrants.html">In Canada's Atlantic, Urbanites Find Welcome and Blowback</a> NYT: As housing prices soar in big cities, the country’s eastern provinces are experiencing a surge in migration. Newcomers are being welcomed, but some locals are wary. 
- <p class="updated_time"> 03:26 AM CT, Nov. 13 </p> 
- <a href="https://www.nytimes.com/2021/11/10/world/europe/poland-belarus-border-europe.html">Poland Gets Support From Europe on Tough Borders</a> NYT: Faced with the weaponization of migrants from Belarus, the European Union is defending Poland’s hard line even as it withholds funds over rule of law violations. 
  <p class="updated_time"> 03:07 AM CT, Nov. 13 </p> 
  <a href="https://www.bbc.co.uk/news/uk-scotland-glasgow-west-59176752?at_medium=RSS&at_campaign=KARANGA">COP26: The story from Glasgow in 15 pictures</a> BBC: The most eye-catching demonstrations and unusual stories during COP26 have unfolded on the streets of Glasgow. 
  <p class="updated_time"> 02:52 AM CT, Nov. 13 </p> 
