@@ -7,18 +7,22 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:55 AM CT, Nov. 13 </p> 
- <a href="https://www.nytimes.com/2021/11/10/world/europe/poland-belarus-border-europe.html">Poland Gets Support From Europe on Tough Borders</a> NYT: Faced with the weaponization of migrants from Belarus, the European Union is defending Poland’s hard line even as it withholds funds over rule of law violations. 
+ <p class="updated_time"> 10:26 AM CT, Nov. 13 </p> 
+ <a href="https://www.nytimes.com/2021/11/13/world/middleeast/belarus-migrants-iraq-kurds.html">Migrants Say Belarusians Took Them to E.U. Border and Supplied Wire Cutters</a> NYT: Iraqi Kurds and other migrants said they were fleeing despair at home, but Belarus encouraged them, offering visas and helping them get to the border. 
+ <p class="updated_time"> 10:25 AM CT, Nov. 13 </p> 
+ <a href="https://www.nytimes.com/2021/11/13/world/africa/sudan-protests.html">Sudanese Security Forces Fire on Protesters as Military Tightens Grip</a> NYT: Three people were killed and several wounded as riot police fired bullets at demonstrators in Sudan’s capital, two days after the army chief signed a contentious decree. 
+ <p class="updated_time"> 10:22 AM CT, Nov. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/world-middle-east-59274686?at_medium=RSS&at_campaign=KARANGA">Egypt: Scorpions kill three and injure hundreds in Aswan</a> BBC: Three people have been killed by scorpion bites during storms in the southern city of Aswan. 
+ <p class="updated_time"> 10:08 AM CT, Nov. 13 </p> 
+ <a href="https://www.nytimes.com/2021/11/13/world/europe/meghan-uk-tabloids.html">For Meghan, an Image Rendered in a U.K.-U.S. Split Screen</a> NYT: She has re-emerged in America as a formidable A-list celebrity and social activist. In Britain, however, Meghan remains a polarizing figure. 
+ <p class="updated_time"> 10:03 AM CT, Nov. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-59275772?at_medium=RSS&at_campaign=KARANGA">Nazanin Zaghari-Ratcliffe: Husband ends hunger strike after 21 days</a> BBC: The husband of British-Iranian detainee Nazanin Zaghari-Ratcliffe says his daughter "needs two parents". 
+ <p class="updated_time"> 09:58 AM CT, Nov. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59258409?at_medium=RSS&at_campaign=KARANGA">Covid: Dutch partial Covid lockdown sparks protests</a> BBC: Police in The Hague use water cannon on protesters opposing a lockdown amid a rise in Covid infections. 
  <p class="updated_time"> 09:50 AM CT, Nov. 13 </p> 
  <a href="https://www.nytimes.com/2021/11/12/world/europe/threats-troop-buildup-war.html">Fears of Belarus-Poland Conflict Amid Provocative Words and Troop Moves</a> NYT: On both sides of the Belarus-Poland border, hyperbole and military exercises have raised fears of an armed conflict in Europe. 
- <p class="updated_time"> 09:48 AM CT, Nov. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-59274686?at_medium=RSS&at_campaign=KARANGA">Egypt: Scorpions kill three and injure hundreds in Aswan</a> BBC: Three people have been killed by scorpion bites during storms in the southern city of Aswan. 
  <p class="updated_time"> 09:42 AM CT, Nov. 13 </p> 
  <a href="https://www.nytimes.com/2021/11/13/world/europe/portugal-remote-work-law-pandemic.html">Portugal Bars Employers From Contacting Remote Workers Off Hours</a> NYT: A new law, passed on Friday and in effect this weekend, is one of the world’s boldest efforts to regulate the remote work that the pandemic forced on many in the industrialized world. 
- <p class="updated_time"> 09:33 AM CT, Nov. 13 </p> 
- <a href="https://www.bbc.co.uk/news/uk-59275772?at_medium=RSS&at_campaign=KARANGA">Nazanin Zaghari-Ratcliffe: Husband ends hunger strike after 21 days</a> BBC: The husband of British-Iranian detainee Nazanin Zaghari-Ratcliffe says his daughter "needs two parents". 
- <p class="updated_time"> 09:31 AM CT, Nov. 13 </p> 
- <a href="https://www.nytimes.com/2021/11/13/world/africa/sudan-protests.html">Sudanese Security Forces Fire on Protesters as Military Tightens Grip</a> NYT: One person was killed and several wounded as riot police fired bullets at demonstrators in Sudan’s capital, two days after the army chief signed a contentious decree. 
  <p class="updated_time"> 08:56 AM CT, Nov. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59273174?at_medium=RSS&at_campaign=KARANGA">Poland-Belarus border: The BBC reports from the camps within touching distance of the EU</a> BBC: Steve Rosenberg reports from the migrant camps within touching distance of the EU. 
  <p class="updated_time"> 08:44 AM CT, Nov. 13 </p> 
@@ -37,8 +41,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/13/world/canada/newfoundland-migrants.html">In Canada's Atlantic, Urbanites Find Welcome and Blowback</a> NYT: As housing prices soar in big cities, the country’s eastern provinces are experiencing a surge in migration. Newcomers are being welcomed, but some locals are wary. 
  <p class="updated_time"> 06:35 AM CT, Nov. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59274204?at_medium=RSS&at_campaign=KARANGA">Sara Duterte: Daughter of Philippines leader runs for vice-president</a> BBC: Sara Duterte will run alongside the son of the country's former dictator, Ferdinand Marcos. 
- <p class="updated_time"> 06:27 AM CT, Nov. 13 </p> 
- <a href="https://www.nytimes.com/2021/11/13/world/middleeast/belarus-migrants-iraq-kurds.html">Migrants Say Belarusians Took Them to E.U. Border and Supplied Wire Cutters</a> NYT: Iraqi Kurds and other migrants said they were fleeing despair at home, but Belarus encouraged them, offering visas and helping them get to the border. 
  <p class="updated_time"> 06:25 AM CT, Nov. 13 </p> 
  <a href="https://www.nytimes.com/2021/11/13/world/europe/france-2015-attacks-trial-victims.html">Survivors of 2015 Paris Terrorist Attacks 'Dead Among the Living'</a> NYT: The trauma of the 2015 terrorist attacks in Paris was highlighted in testimony by survivors and others at a trial of 20 men accused of involvement. 
  <p class="updated_time"> 05:19 AM CT, Nov. 13 </p> 
@@ -89,8 +91,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59270291?at_medium=RSS&at_campaign=KARANGA">Steve Bannon charged with contempt of Congress</a> BBC: Former Trump strategist charged after refusing to testify to committee investigating US Capitol riot. 
  <p class="updated_time"> 04:30 PM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/11/world/asia/zuo-fang-dead.html">Zuo Fang, a Founder of China's Southern Weekly, is Dead</a> NYT: When he helped start Southern Weekly, he charted a course for a freer era for the country’s press, which later became increasingly constrained by Beijing. 
- <p class="updated_time"> 04:16 PM CT, Nov. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59258409?at_medium=RSS&at_campaign=KARANGA">Covid: Dutch partial lockdown to tackle surge in infections</a> BBC: The measures will last three weeks, while Austria plans a lockdown for the unvaccinated. 
  <p class="updated_time"> 04:13 PM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/world/europe/covid-netherlands-lockdown.html">Netherlands Looks to Partial Lockdown as Covid Cases Rise</a> NYT: The Dutch lockdown does not single out those who are unvaccinated. The country is experiencing rising case numbers amid a fourth wave of infections. 
  <p class="updated_time"> 04:03 PM CT, Nov. 12 </p> 
