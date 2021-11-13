@@ -7,10 +7,16 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:39 PM CT, Nov. 12 </p> 
+ <a href="https://www.nytimes.com/2021/11/11/world/europe/belarus-poland-border-russia.html">Russia Reacts to Belarus-Poland Border Crisis</a> NYT: President Vladimir Putin’s spokesman said that Russia was doing all it could to resolve the situation, but he also warned of the possibility of a military escalation, according to the Russian state news agency RIA Novosti. 
+ <p class="updated_time"> 08:23 PM CT, Nov. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-59217825?at_medium=RSS&at_campaign=KARANGA">Britney Spears released from 13-year conservatorship</a> BBC: An LA judge terminates a legal guardianship set up by the 39-year-old pop star's father in 2008. 
+ <p class="updated_time"> 08:16 PM CT, Nov. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/science-environment-59269886?at_medium=RSS&at_campaign=KARANGA">COP26: Climate talks into overtime as nations near deal</a> BBC: Divisions remain over continuing subsidies for fossil fuels and financial help to poorer nations. 
+ <p class="updated_time"> 08:11 PM CT, Nov. 12 </p> 
+ <a href="https://www.nytimes.com/2021/11/12/world/canada/newfoundland-cyberattack.html">Hackers Target Newfoundland’s Health Care System</a> NYT: The province has said little about a cyberattack that delayed or canceled medical procedures and leaked personal information. 
  <p class="updated_time"> 07:11 PM CT, Nov. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59271928?at_medium=RSS&at_campaign=KARANGA">Summer Zervos: Ex-Apprentice drops lawsuit against Trump</a> BBC: Mr Trump declares himself "totally vindicated" as Summer Zervos abandons her long-running lawsuit. 
- <p class="updated_time"> 06:48 PM CT, Nov. 12 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-59217825?at_medium=RSS&at_campaign=KARANGA">Britney Spears released from 13-year conservatorship</a> BBC: An LA judge terminates a legal guardianship set up by the 39-year-old pop star's father in 2008. 
  <p class="updated_time"> 06:45 PM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/us/politics/kamala-harris-macron-france.html">In France, Kamala Harris Searches for Role on Global Stage</a> NYT: The vice president met with President Emmanuel Macron of France, skirting recent U.S.-French tensions, and immersed herself in issues like Libya and cybersecurity. 
  <p class="updated_time"> 06:15 PM CT, Nov. 12 </p> 
@@ -25,8 +31,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59265609?at_medium=RSS&at_campaign=KARANGA">BBC's Simpson revisits Afghanistan under the Taliban</a> BBC: In 2001, the BBC's World Affairs editor was part of a team which entered the city when the Taliban fell. 
  <p class="updated_time"> 06:04 PM CT, Nov. 12 </p> 
  <a href="https://www.bbc.co.uk/news/stories-59171107?at_medium=RSS&at_campaign=KARANGA">'I could have been a racist killer'</a> BBC: As a teenager, Mike was an armed and angry US Nazi. Looking back, he fears he came close to murder. 
- <p class="updated_time"> 05:22 PM CT, Nov. 12 </p> 
- <a href="https://www.nytimes.com/2021/11/10/world/europe/france-kamala-harris-macron.html">Harris Meets Macron, Signaling a ‘New Era’ After Sub Snub, Both Say</a> NYT: In her vague assignment abroad, the vice president seems to be emphasizing that the U.S.-France relationship is about looking forward, in the wake of an embarrassing diplomatic spat. 
  <p class="updated_time"> 05:19 PM CT, Nov. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59270291?at_medium=RSS&at_campaign=KARANGA">Steve Bannon charged with contempt of Congress</a> BBC: Former Trump strategist charged after refusing to testify to committee investigating US Capitol riot. 
  <p class="updated_time"> 04:34 PM CT, Nov. 12 </p> 
@@ -43,8 +47,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/12/1055366701/birds-in-the-amazon-have-been-shrinking-heres-why-scientists-think-its-happening">Birds in the Amazon have been shrinking. Here's why scientists think it's happening</a> NPR: Over the last four decades, birds in the Amazon have been shrinking — and scientists believe their smaller bodies may be a response to hotter, drier weather brought by climate change. 
  <p class="updated_time"> 04:03 PM CT, Nov. 12 </p> 
  <a href="https://www.npr.org/2021/11/12/1055366687/the-financial-impact-of-climate-change">The financial impact of climate change</a> NPR: For some people attending the UN's COP26 conference in Scotland, climate change is not a future threat — they are seeing its impact on their homelands now. 
- <p class="updated_time"> 03:54 PM CT, Nov. 12 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-59269886?at_medium=RSS&at_campaign=KARANGA">COP26: Climate talks into overtime as nations near deal</a> BBC: Divisions remain over continuing subsidies for fossil fuels and financial help to poorer nations. 
  <p class="updated_time"> 03:39 PM CT, Nov. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59266213?at_medium=RSS&at_campaign=KARANGA">Astroworld: Dozens more lawsuits filed over deadly festival crush</a> BBC: A woman who was at the festival told reporters that said didn't know she was buying a "death ticket". 
  <p class="updated_time"> 03:24 PM CT, Nov. 12 </p> 
@@ -163,8 +165,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-middle-east-59246033?at_medium=RSS&at_campaign=KARANGA">At Iraq's election protest camp, militia supporters dig in</a> BBC: Tensions grow as defiant groups vow to stay put until election results are overturned. 
  <p class="updated_time"> 06:04 PM CT, Nov. 11 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59205648?at_medium=RSS&at_campaign=KARANGA">Seven ways to curb climate change</a> BBC: What are the practical things countries need to do in order to tackle climate change? 
- <p class="updated_time"> 05:50 PM CT, Nov. 11 </p> 
- <a href="https://www.nytimes.com/2021/11/11/world/europe/belarus-poland-border-russia.html">Russia Reacts to Belarus-Poland Border Crisis</a> NYT: President Vladimir Putin’s spokesman said that Russia was doing all it could to resolve the situation, but he also warned of the possibility of a military escalation, according to the Russian state news agency RIA Novosti. 
  <p class="updated_time"> 05:37 PM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/world/who-is-aleksandr-g-lukashenko.html">Who Is Aleksandr Lukashenko? Here's What You Need to Know</a> NYT: A migrant crisis on the border with Poland has put the Belarusian president at the center of a clash roiling Europe. 
  <p class="updated_time"> 05:03 PM CT, Nov. 11 </p> 
@@ -220,14 +220,22 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:39 PM CT, Nov. 12 </p> 
+ <a href="https://www.nytimes.com/2021/11/12/us/politics/court-vaccine-mandate.html">Appeals Court Extends Block on Biden’s Vaccine Mandate for Employers</a> NYT: A three-judge panel of the U.S. Court of Appeals for the Fifth Circuit held that challengers were likely to succeed in their claim that the mandate was an unlawful overreach. 
  <p class="updated_time"> 08:37 PM CT, Nov. 12 </p> 
  <a href="https://www.politico.com/news/2021/11/12/jury-rittenhouse-lesser-charges-521226">Jury to get to weigh some lesser charges in Rittenhouse case</a> Politico: Jurors are expected to begin deliberating on Monday after closing arguments. 
- <p class="updated_time"> 08:05 PM CT, Nov. 12 </p> 
- <a href="https://www.nytimes.com/2021/11/12/us/politics/court-vaccine-mandate.html">Appeals Court Extends Block on Biden’s Vaccine Mandate for Employers</a> NYT: A three-judge panel of the U.S. Court of Appeals for the Fifth Circuit held that challengers were likely to succeed in their claim that the mandate was an unlawful overreach. 
+ <p class="updated_time"> 08:33 PM CT, Nov. 12 </p> 
+ <a href="https://www.nytimes.com/2021/11/12/us/politics/biden-china-xi-jinping.html">Biden and China’s Xi Will Hold Virtual Summit on Monday</a> NYT: The leaders of the world’s two largest economies confront tensions over trade, cyberthreats, the climate, Taiwan and human rights. 
+ <p class="updated_time"> 08:24 PM CT, Nov. 12 </p> 
+ <a href="https://www.nytimes.com/2021/11/11/us/politics/project-veritas-journalism-political-spying.html">Project Veritas: Journalists or Political Spies? </a> NYT: Documents show how the conservative group worked with lawyers to gauge how far its deceptive reporting practices could go before running afoul of federal laws. 
+ <p class="updated_time"> 08:18 PM CT, Nov. 12 </p> 
+ <a href="https://www.cnn.com/2021/11/12/politics/sheila-cherfilus-mccormick-florida-congressional-primary-alcee-hastings-seat/index.html">Businesswoman Sheila Cherfilus-McCormick is apparent winner of Florida primary for late Alcee Hastings' seat</a> CNN: By the narrowest of margins -- just five votes -- businesswoman Sheila Cherfilus-McCormick appears to have won a South Florida Democratic primary to replace the late US Rep. Alcee Hastings in Washington, according to official results reported by the counties. 
  <p class="updated_time"> 07:14 PM CT, Nov. 12 </p> 
  <a href="https://www.cnn.com/2021/11/12/politics/steve-bannon-indicted/index.html">Federal grand jury indicts Steve Bannon for contempt of Congress</a> CNN: A federal grand jury has returned an indictment against former Trump adviser Steve Bannon, CNN has learned. 
  <p class="updated_time"> 07:07 PM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/us/politics/project-veritas-ashley-biden-diary.html">Project Veritas Tells Judge It Was Assured Biden Diary Was Legally Obtained</a> NYT: But a search warrant in the case suggests the Justice Department believes the diary kept by the president’s daughter Ashley Biden was stolen. 
+ <p class="updated_time"> 06:54 PM CT, Nov. 12 </p> 
+ <a href="https://www.cnn.com/2021/11/12/politics/adam-kinzinger-bannon-indictment-contempt-of-congress-cnntv/index.html">Kinzinger says he hopes Bannon indictment for contempt of Congress 'sends a chilling message'</a> CNN: Rep. Adam Kinzinger, one of two Republicans on the House select committee investigating January 6, said Friday that he hopes a federal grand jury's indictment of Steve Bannon for contempt of Congress "sends a chilling message" to anyone considering not cooperating with the panel. 
  <p class="updated_time"> 06:49 PM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/us/politics/republican-violent-rhetoric.html">Menace Enters the Republican Mainstream</a> NYT: Threats of violence have become commonplace among a significant part of the party, as historians and those who study democracy warn of a dark shift in American politics. 
  <p class="updated_time"> 06:45 PM CT, Nov. 12 </p> 
@@ -238,8 +246,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/12/us/politics/bannon-indicted.html">Bannon Indicted on Contempt Charges Over House’s Capitol Riot Inquiry</a> NYT: Stephen K. Bannon, a former top aide to Donald Trump, had refused to comply with subpoenas from the House committee investigating the Jan. 6 attack on Congress. 
  <p class="updated_time"> 06:03 PM CT, Nov. 12 </p> 
  <a href="https://www.cnn.com/2021/11/12/politics/trump-lawsuits-michael-cohen-summer-zervos/index.html">Trump scores legal wins with one lawsuit dropped and another dismissed</a> CNN: Former President Donald Trump scored two big legal victories Friday and avoided having to sit for a deposition in a defamation lawsuit after former "Apprentice" contestant Summer Zervos agreed to drop her claims, according to a court filing, and a New York judge granted Trump's motion to dismiss a 2019 lawsuit filed by his former personal attorney Michael Cohen against the Trump Organization. 
- <p class="updated_time"> 05:23 PM CT, Nov. 12 </p> 
- <a href="https://www.nytimes.com/2021/11/12/us/politics/biden-china-xi-jinping.html">Biden and China’s Xi Will Hold Virtual Summit on Monday</a> NYT: The leaders of the world’s two largest economies confront tensions over trade, cyberthreats, the climate, Taiwan and human rights. 
+ <p class="updated_time"> 05:30 PM CT, Nov. 12 </p> 
+ <a href="https://www.cnn.com/2021/11/12/politics/free-joe-biden-2022-infrastructure-dccc/index.html">Analysis: Is 'Free Joe Biden' the answer to Democrats' problems? </a> CNN: In the wake of a disastrous 2021 election for Democrats, the man charged with keeping his party in the House majority had a very interesting prescription for how make that a reality. 
  <p class="updated_time"> 04:33 PM CT, Nov. 12 </p> 
  <a href="https://www.cnn.com/2021/11/12/politics/biden-admin-ethiopia-eritrea-sanctions/index.html">Biden administration sanctions Eritrean military, ruling party over role in northern Ethiopia conflict</a> CNN: The Biden administration sanctioned Eritrea's military and sole political party for their involvement in the ongoing crisis in northern Ethiopia. 
  <p class="updated_time"> 04:09 PM CT, Nov. 12 </p> 
@@ -320,8 +328,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/12/politics/trump-pence-threats-january-6/index.html">Trump defends threats to Pence on 1/6 in new audio</a> CNN: Former President Donald Trump appeared to defend the threats made against then-Vice President Mike Pence during the January 6 insurrection in a new audio recording released Wednesday. 
  <p class="updated_time"> 08:39 AM CT, Nov. 12 </p> 
  <a href="https://www.politico.com/news/2021/11/12/russia-kremlin-ukraine-nato-threats-521031">Kremlin denies plans to invade Ukraine, alleges NATO threats</a> Politico: Ukraine complained last week that Russia has kept tens of thousands of troops not far from the two countries' borders. 
- <p class="updated_time"> 08:28 AM CT, Nov. 12 </p> 
- <a href="https://www.nytimes.com/2021/11/11/us/politics/project-veritas-journalism-political-spying.html">Project Veritas: Journalists or Political Spies? </a> NYT: Documents show how the conservative group worked with lawyers to gauge how far its deceptive reporting practices could go before running afoul of federal laws. 
  <p class="updated_time"> 07:55 AM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/11/health/veterans-psychedelics-ptsd-depression.html">Veterans Have Become Unlikely Lobbyists in Push to Legalize Psychedelic Drugs</a> NYT: Lawmakers find it hard to “just say no” to combat veterans seeking support for drug decriminalization efforts gaining traction around the country. 
  <p class="updated_time"> 07:43 AM CT, Nov. 12 </p> 
@@ -404,12 +410,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/10/rent-inflation-biden-520642">Biden’s next inflation threat: The rent is too damn high</a> Politico: The Biden administration has vowed to address the home affordability crisis in the U.S., but policies are still in development and will likely have a limited impact. 
  <p class="updated_time"> 04:51 PM CT, Nov. 10 </p> 
  <a href="https://www.cnn.com/2021/11/10/politics/infrastructure-bill-signing/index.html">Biden to hold signing ceremony on Monday for bipartisan infrastructure bill </a> CNN: President Joe Biden will sign the bipartisan infrastructure bill on Monday during a ceremony that will include members of Congress, governors and mayors from both parties, the White House announced on Wednesday. 
- <p class="updated_time"> 04:47 PM CT, Nov. 10 </p> 
- <a href="https://www.cnn.com/2021/11/10/politics/burr-sec/index.html">Sen. Burr's brother-in-law ordered to provide testimony in SEC insider trading investigation</a> CNN: A federal judge has ordered Sen. Richard Burr's brother-in-law to answer questions from the Securities and Exchange Commission, allowing the regulator to advance its investigation into their stock sales. 
  <p class="updated_time"> 10:13 AM CT, Nov. 10 </p> 
  <a href="https://www.cnn.com/2021/11/10/politics/joe-biden-inflation/index.html">Biden on inflation report: 'Reversing this trend is a top priority for me'</a> CNN: President Joe Biden said Wednesday that inflation statistics showing America's prices are surging more than they have in 30 years are proof that there is "more work to do before our economy is back to normal." 
- <p class="updated_time"> 09:57 AM CT, Nov. 10 </p> 
- <a href="https://www.cnn.com/2021/11/10/politics/liz-cheney-new-hampshire-republicans-2024/index.html">Is there a lane for Liz Cheney in New Hampshire in 2024?</a> CNN: Sometimes in politics it's not so much what you say, it's where you say it. 
  <p class="updated_time"> 08:12 AM CT, Nov. 10 </p> 
  <a href="https://www.cnn.com/2021/11/10/politics/biden-jj-covid-vaccine-conflict-zones/index.html">Biden administration announces deal to provide J&J Covid-19 vaccine to people in conflict zones and humanitarian settings</a> CNN: The Biden administration will announce on Wednesday a new deal it brokered with Johnson & Johnson and Covax to provide J&J's Covid-19 vaccine to people in conflict zones and other humanitarian settings where government vaccine campaigns cannot reach, a White House official told CNN. 
  <p class="updated_time"> 07:21 AM CT, Nov. 10 </p> 
@@ -426,8 +428,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/09/biden-infrastructure-republicans-committee-standing-520484">Biden denounces efforts to strip Republicans who supported infrastructure of committee standing</a> Politico: “If we don’t generate consensus in America, we’re in trouble,” Biden said. 
  <p class="updated_time"> 03:18 PM CT, Nov. 09 </p> 
  <a href="https://www.politico.com/news/2021/11/09/dunn-capitol-police-union-jan-6-520459">Dunn jumps into race to lead Capitol Police union after post-Jan. 6 testimony</a> Politico: The 13-year veteran officer, who is Black, told lawmakers on the select committee about the trauma and racial slurs he endured during the riot. 
- <p class="updated_time"> 09:35 AM CT, Nov. 09 </p> 
- <a href="https://www.cnn.com/2021/11/09/politics/gas-prices-joe-biden-explainer/index.html">Here's what Biden can actually do about gas prices</a> CNN: High gas prices are quickly becoming a political liability for President Joe Biden -- and like presidents before him, he has few options to bring them down. 
  <p class="updated_time"> 07:24 AM CT, Nov. 09 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/11/09/senate-schedule-seasonally-depressing-495031">Senate schedule: seasonally depressing</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:19 AM CT, Nov. 09 </p> 
