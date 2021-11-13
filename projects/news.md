@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:54 AM CT, Nov. 13 </p> 
+ <a href="https://www.nytimes.com/2021/11/13/world/canada/newfoundland-migrants.html">In Canada's Atlantic, Urbanites Find Welcome and Blowback</a> NYT: As housing prices soar in big cities, the country’s eastern provinces are experiencing a surge in migration. Newcomers are being welcomed, but some locals are wary. 
  <p class="updated_time"> 06:35 AM CT, Nov. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59274204?at_medium=RSS&at_campaign=KARANGA">Sara Duterte: Daughter of Philippines leader runs for vice-president</a> BBC: Sara Duterte will run alongside the son of the country's former dictator, Ferdinand Marcos. 
  <p class="updated_time"> 06:27 AM CT, Nov. 13 </p> 
@@ -21,8 +23,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/science-environment-59269886?at_medium=RSS&at_campaign=KARANGA">COP26: New draft deal aims to close lingering divisions</a> BBC: The new draft is unlikely to heal splits over subsidies for fossil fuels and financial aid. 
  <p class="updated_time"> 04:18 AM CT, Nov. 13 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-56901261?at_medium=RSS&at_campaign=KARANGA">What is COP26 and what is being agreed at Glasgow climate conference?</a> BBC: A crucial climate change summit is being held in the UK which could change our everyday lives. 
- <p class="updated_time"> 04:00 AM CT, Nov. 13 </p> 
- <a href="https://www.nytimes.com/2021/11/13/world/canada/newfoundland-migrants.html">In Canada's Atlantic, Urbanites Find Welcome and Blowback</a> NYT: As housing prices soar in big cities, the country’s eastern provinces are experiencing a surge in migration. Newcomers are being welcomed, but some locals are wary. 
  <p class="updated_time"> 03:07 AM CT, Nov. 13 </p> 
  <a href="https://www.bbc.co.uk/news/uk-scotland-glasgow-west-59176752?at_medium=RSS&at_campaign=KARANGA">COP26: The story from Glasgow in 15 pictures</a> BBC: The most eye-catching demonstrations and unusual stories during COP26 have unfolded on the streets of Glasgow. 
  <p class="updated_time"> 02:52 AM CT, Nov. 13 </p> 
@@ -348,8 +348,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/12/julian-assange-given-permission-to-marry-partner-in-prison-521032">Julian Assange given permission to marry partner in prison</a> Politico: Assange and Moris made their relationship public in April 2020 and had applied to prison authorities for permission to wed. 
  <p class="updated_time"> 08:43 AM CT, Nov. 12 </p> 
  <a href="https://www.cnn.com/2021/11/12/politics/trump-pence-threats-january-6/index.html">Trump defends threats to Pence on 1/6 in new audio</a> CNN: Former President Donald Trump appeared to defend the threats made against then-Vice President Mike Pence during the January 6 insurrection in a new audio recording released Wednesday. 
- <p class="updated_time"> 08:39 AM CT, Nov. 12 </p> 
- <a href="https://www.politico.com/news/2021/11/12/russia-kremlin-ukraine-nato-threats-521031">Kremlin denies plans to invade Ukraine, alleges NATO threats</a> Politico: Ukraine complained last week that Russia has kept tens of thousands of troops not far from the two countries' borders. 
  <p class="updated_time"> 07:55 AM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/11/health/veterans-psychedelics-ptsd-depression.html">Veterans Have Become Unlikely Lobbyists in Push to Legalize Psychedelic Drugs</a> NYT: Lawmakers find it hard to “just say no” to combat veterans seeking support for drug decriminalization efforts gaining traction around the country. 
  <p class="updated_time"> 07:43 AM CT, Nov. 12 </p> 
