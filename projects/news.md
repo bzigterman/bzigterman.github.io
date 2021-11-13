@@ -7,10 +7,12 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:10 PM CT, Nov. 13 </p> 
+ <a href="https://www.nytimes.com/2021/11/13/world/africa/sudan-protests.html">Sudanese Security Forces Fire on Protesters as Military Tightens Grip</a> NYT: At least five people were killed and several wounded as the police fired bullets and tear gas at demonstrators in Sudan’s capital, two days after the army chief signed a contentious decree. 
  <p class="updated_time"> 11:57 AM CT, Nov. 13 </p> 
  <a href="https://www.nytimes.com/2021/11/13/us/us-airstrikes-civilian-deaths.html">How the U.S. Hid an Airstrike That Killed Dozens of Civilians in Syria</a> NYT: The military never conducted an independent investigation into a 2019 bombing on the last bastion of the Islamic State, despite concerns about a secretive commando force. 
- <p class="updated_time"> 11:41 AM CT, Nov. 13 </p> 
- <a href="https://www.nytimes.com/2021/11/13/world/africa/sudan-protests.html">Sudanese Security Forces Fire on Protesters as Military Tightens Grip</a> NYT: At least five people were killed and several wounded as the police fired bullets and tear gas at demonstrators in Sudan’s capital, two days after the army chief signed a contentious decree. 
+ <p class="updated_time"> 11:39 AM CT, Nov. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-59276428?at_medium=RSS&at_campaign=KARANGA">Ecuador prison riot: New fighting at Guayaquil jail kills 58</a> BBC: Fighting at the Litoral Penitentiary in the city of Guayaquil reportedly began on Friday evening. 
  <p class="updated_time"> 11:26 AM CT, Nov. 13 </p> 
  <a href="https://www.bbc.co.uk/news/uk-59275772?at_medium=RSS&at_campaign=KARANGA">Nazanin Zaghari-Ratcliffe: Husband ends hunger strike after 21 days</a> BBC: The husband of British-Iranian detainee Nazanin Zaghari-Ratcliffe says his child "needs two parents". 
  <p class="updated_time"> 11:21 AM CT, Nov. 13 </p> 
@@ -131,8 +133,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/12/world/middleeast/israel-ethiopia-jews-immigration.html">Ethiopian Civil War Sparks Rancorous Debate Over Immigration to Israel</a> NYT: Thousands of relatives of the remnants of Ethiopian Jewry are waiting to be airlifted to Israel. For now, the Israeli government sees no urgency. 
  <p class="updated_time"> 11:48 AM CT, Nov. 12 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59263761?at_medium=RSS&at_campaign=KARANGA">COP26: How might decisions at the climate summit change our lives?</a> BBC: The changes made at COP26 in Glasgow could have implications for the way we live. 
- <p class="updated_time"> 11:41 AM CT, Nov. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59266211?at_medium=RSS&at_campaign=KARANGA">French teenage jogger admits lying about kidnap escape</a> BBC: The 17-year-old had claimed she escaped her kidnappers, in a case that has gripped France. 
  <p class="updated_time"> 11:08 AM CT, Nov. 12 </p> 
  <a href="https://www.npr.org/2021/11/12/1054242599/biden-and-xi-will-meet-virtually-on-monday-heres-whats-at-stake">Biden and Xi will meet (virtually) on Monday. Here's what's at stake</a> NPR: It's been more than two years since leaders of the United States and China met face-to-face. This meeting will be virtual, not in person, and comes at a time of high tensions. 
  <p class="updated_time"> 11:07 AM CT, Nov. 12 </p> 
@@ -163,8 +163,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/12/arts/design/badiucao-brescia-china.html">The Show Goes On, Even After China Tried to Shut It Down</a> NYT: An Italian city rejected a request from the Chinese Embassy in Rome to cancel an exhibition by Badiucao, an artist who has been described as the Chinese Banksy. 
  <p class="updated_time"> 06:55 AM CT, Nov. 12 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59263810?at_medium=RSS&at_campaign=KARANGA">John Kerry at COP26: We're going to come up with an agreement</a> BBC: The US climate envoy speaks to the BBC as pressure mounts on governments to strike a deal at COP26. 
- <p class="updated_time"> 06:17 AM CT, Nov. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59260704?at_medium=RSS&at_campaign=KARANGA">US police officer sues boss over KKK note</a> BBC: Keith Pool says superiors ignored numerous examples of racist abuse by former Chief Anthony Campo. 
  <p class="updated_time"> 04:08 AM CT, Nov. 12 </p> 
  <a href="https://www.npr.org/2021/11/12/1055030272/fossil-fuel-cop26-climate-change-glasgow">The fossil fuel industry turned out in force at COP26. So did climate activists  </a> NPR: More than 500 attendees from the fossil fuel industry are at the climate summit in Glasgow. Their reps have attended climate summits for decades. Some are touting a shift toward renewables. 
  <p class="updated_time"> 03:58 AM CT, Nov. 12 </p> 
@@ -177,8 +175,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/12/1055027411/a-u-s-journalist-is-sentenced-to-11-years-in-jail-by-a-court-in-myanmar">A U.S. journalist is sentenced to 11 years in jail by a court in Myanmar</a> NPR: A court in military-ruled Myanmar sentenced journalist Danny Fenster to 11 years in prison after finding him guilty on several charges, including incitement for allegedly spreading false information. 
  <p class="updated_time"> 01:24 AM CT, Nov. 12 </p> 
  <a href="https://www.bbc.co.uk/news/stories-59255218?at_medium=RSS&at_campaign=KARANGA">Ron Jeremy: Porn star's accusers speak out for first time</a> BBC: Some of his accusers speak for the first time of their alleged experiences. He denies all charges. 
- <p class="updated_time"> 12:36 AM CT, Nov. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59245018?at_medium=RSS&at_campaign=KARANGA">Covid: Austrians heading towards lockdown for unvaccinated</a> BBC: The measures comes as record infections are reported in Austria, Germany and the Netherlands. 
  <p class="updated_time"> 12:15 AM CT, Nov. 12 </p> 
  <a href="https://www.bbc.co.uk/news/uk-scotland-glasgow-west-59248023?at_medium=RSS&at_campaign=KARANGA">How green was the COP26 climate summit?</a> BBC: A report has suggested the carbon footprint of the Glasgow summit is more than double that of COP25. 
  <p class="updated_time"> 11:42 PM CT, Nov. 11 </p> 
@@ -245,7 +241,7 @@ permalink: /projects/news/
  <p class="updated_time"> 10:16 AM CT, Nov. 13 </p> 
  <a href="https://www.politico.com/news/2021/11/13/raid-veritas-okeefe-biden-press-521307">FBI raid on Project Veritas founder’s home sparks questions about press freedom</a> Politico: The action against James O’Keefe has prompted concern about the Biden administration’s commitment to the First Amendment. 
  <p class="updated_time"> 09:39 AM CT, Nov. 13 </p> 
- <a href="https://www.nytimes.com/2021/11/13/us/politics/chris-christie-book-interview.html">Chris Christie Wants the Post-Trump G.O.P. to Move Past 2020</a> NYT: In a new book and in an interview, Mr. Christie says that if the former president wants to be a positive force, “he’s got to let this other stuff go.” 
+ <a href="https://www.nytimes.com/2021/11/13/us/politics/chris-christie-book-trump.html">Chris Christie Wants the Post-Trump G.O.P. to Move Past 2020</a> NYT: In a new book and in an interview, Mr. Christie says that if the former president wants to be a positive force, “he’s got to let this other stuff go.” 
  <p class="updated_time"> 09:12 AM CT, Nov. 13 </p> 
  <a href="https://www.cnn.com/2021/11/13/politics/political-typology-spectrum-what-matters/index.html">There are 9 political types in the US. Which are you?</a> CNN: There are Democrats and Republicans in office, and we refer to them as Democrats and Republicans in this newsletter because that's how they vote. 
  <p class="updated_time"> 08:16 AM CT, Nov. 13 </p> 
