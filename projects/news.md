@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:23 PM CT, Nov. 12 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59266120?at_medium=RSS&at_campaign=KARANGA">Can California save itself from the flames?</a> BBC: Unprecedented drought and heat, combined with bad land management, have culminated in historic wildfires. 
  <p class="updated_time"> 08:39 PM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/11/world/europe/belarus-poland-border-russia.html">Russia Reacts to Belarus-Poland Border Crisis</a> NYT: President Vladimir Putin’s spokesman said that Russia was doing all it could to resolve the situation, but he also warned of the possibility of a military escalation, according to the Russian state news agency RIA Novosti. 
  <p class="updated_time"> 08:23 PM CT, Nov. 12 </p> 
@@ -31,6 +33,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59265609?at_medium=RSS&at_campaign=KARANGA">BBC's Simpson revisits Afghanistan under the Taliban</a> BBC: In 2001, the BBC's World Affairs editor was part of a team which entered the city when the Taliban fell. 
  <p class="updated_time"> 06:04 PM CT, Nov. 12 </p> 
  <a href="https://www.bbc.co.uk/news/stories-59171107?at_medium=RSS&at_campaign=KARANGA">'I could have been a racist killer'</a> BBC: As a teenager, Mike was an armed and angry US Nazi. Looking back, he fears he came close to murder. 
+ <p class="updated_time"> 05:22 PM CT, Nov. 12 </p> 
+ <a href="https://www.nytimes.com/2021/11/10/world/europe/france-kamala-harris-macron.html">Harris Meets Macron, Signaling a ‘New Era’ After Sub Snub, Both Say</a> NYT: In her vague assignment abroad, the vice president seems to be emphasizing that the U.S.-France relationship is about looking forward, in the wake of an embarrassing diplomatic spat. 
  <p class="updated_time"> 05:19 PM CT, Nov. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59270291?at_medium=RSS&at_campaign=KARANGA">Steve Bannon charged with contempt of Congress</a> BBC: Former Trump strategist charged after refusing to testify to committee investigating US Capitol riot. 
  <p class="updated_time"> 04:34 PM CT, Nov. 12 </p> 
@@ -59,8 +63,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/12/world/asia/myanmar-danny-fenster.html">Danny Fenster, U.S. Journalist in Myanmar, Gets 11 Years in Jail</a> NYT: Danny Fenster was given the toughest possible sentence on three charges, in a signal that the country’s military rulers would not bow to international pressure. 
  <p class="updated_time"> 03:01 PM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/world/asia/china-zero-covid.html">China's 'Zero Covid' Efforts Come With a Cost</a> NYT: The Communist Party is making broad efforts to stamp out the disease entirely, but the measures come with costs. 
- <p class="updated_time"> 02:58 PM CT, Nov. 12 </p> 
- <a href="https://www.nytimes.com/2021/11/12/world/europe/covid-italy-green-pass.html">Police in Milan Search Homes of 4 People Tied to Protests Over Covid Passes</a> NYT: The group has staged protests for weeks over a nationwide Covid rule, often blocking traffic and access to city centers. 
  <p class="updated_time"> 02:57 PM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/world/california-covid-booster.html">All California Adults Can Get Booster Shots, State Says</a> NYT: Officials are seeking to avert a winter surge; last year, so many Covid patients died that officials were forced to deploy mobile morgues. 
  <p class="updated_time"> 01:55 PM CT, Nov. 12 </p> 
@@ -209,8 +211,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/11/t-magazine/mansaf-bedouin-rice.html">For Many Members of the Arab American Diaspora, Mansaf Offers a Taste of Home</a> NYT: The traditional Bedouin dish of bread, rice, lamb and yogurt is a talisman of identity in Jordan — and in various communities in suburban Detroit. 
  <p class="updated_time"> 10:04 PM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/world/middleeast/israeli-covid-vaccine-children.html">Israeli Experts Approve Vaccinations for Children Ages 5 to 11 </a> NYT: Israel would become one of the first countries after the United States to authorize the Pfizer-BioNTech vaccine for children ages 5 to 11. 
- <p class="updated_time"> 06:34 PM CT, Nov. 10 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-59227491?at_medium=RSS&at_campaign=KARANGA">COP26: Climate activists on what change means for them</a> BBC: Climate activists from the Philippines, the UK and Argentina take questions on climate change. 
  <p class="updated_time"> 05:11 PM CT, Nov. 10 </p> 
  <a href="https://www.nytimes.com/2021/11/10/us/politics/russia-blinken-ukraine.html">Blinken Warns Russia Against Making a ‘Serious Mistake’ in Ukraine</a> NYT: Appearing with Ukraine’s foreign minister, Secretary of State Antony J. Blinken said the intentions behind Moscow’s latest military buildup were unclear. 
 
@@ -450,8 +450,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/07/murthy-vaccine-mandate-biden-520015">Surgeon general defends embattled vaccine mandate</a> Politico: “It’s a necessary step to accelerate our pathway out of the pandemic,” Vivek Murthy said. 
  <p class="updated_time"> 10:18 AM CT, Nov. 06 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/06/how-biden-and-pelosi-saved-bif-495005">POLITICO Playbook: How Biden and Pelosi saved BIF</a> Politico: And President Joe Biden secures the biggest win of his presidency so far. 
- <p class="updated_time"> 10:30 PM CT, Nov. 05 </p> 
- <a href="https://www.politico.com/news/2021/11/05/house-infrastructure-bill-519796">House ships $550B infrastructure legislation to Biden’s desk after months of delay</a> Politico: Only 13 House Republicans voted for the bill, alongside all but 6 Democrats. 
 
 
 </details>
