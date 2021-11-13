@@ -7,12 +7,12 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:33 AM CT, Nov. 13 </p> 
+ <p class="updated_time"> 09:42 AM CT, Nov. 13 </p> 
  <a href="https://www.nytimes.com/2021/11/13/world/europe/portugal-remote-work-law-pandemic.html">Portugal Bars Employers From Contacting Remote Workers Off Hours</a> NYT: A new law, passed on Friday and in effect this weekend, is one of the world’s boldest efforts to regulate the remote work that the pandemic forced on many in the industrialized world. 
+ <p class="updated_time"> 09:33 AM CT, Nov. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-59275772?at_medium=RSS&at_campaign=KARANGA">Nazanin Zaghari-Ratcliffe: Husband ends hunger strike after 21 days</a> BBC: The husband of British-Iranian detainee Nazanin Zaghari-Ratcliffe says his daughter "needs two parents". 
  <p class="updated_time"> 09:31 AM CT, Nov. 13 </p> 
  <a href="https://www.nytimes.com/2021/11/13/world/africa/sudan-protests.html">Sudanese Security Forces Fire on Protesters as Military Tightens Grip</a> NYT: One person was killed and several wounded as riot police fired bullets at demonstrators in Sudan’s capital, two days after the army chief signed a contentious decree. 
- <p class="updated_time"> 09:28 AM CT, Nov. 13 </p> 
- <a href="https://www.bbc.co.uk/news/uk-59275772?at_medium=RSS&at_campaign=KARANGA">Nazanin Zaghari-Ratcliffe: Husband ending hunger strike after 21 days</a> BBC: The husband of British-Iranian detainee Nazanin Zaghari-Ratcliffe says his daughter "needs two parents". 
  <p class="updated_time"> 08:56 AM CT, Nov. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59273174?at_medium=RSS&at_campaign=KARANGA">Poland-Belarus border: The BBC reports from the camps within touching distance of the EU</a> BBC: Steve Rosenberg reports from the migrant camps within touching distance of the EU. 
  <p class="updated_time"> 08:44 AM CT, Nov. 13 </p> 
@@ -242,14 +242,14 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/11/13/bannon-indicted-britney-freed-495092">POLITICO Playbook: Bannon indicted, Britney freed</a> Politico: And an appeals court extends a stay for the Biden administration's vaccine-or-test mandate. 
  <p class="updated_time"> 10:16 AM CT, Nov. 13 </p> 
  <a href="https://www.politico.com/news/2021/11/13/raid-veritas-okeefe-biden-press-521307">FBI raid on Project Veritas founder’s home sparks questions about press freedom</a> Politico: The action against James O’Keefe has prompted concern about the Biden administration’s commitment to the First Amendment. 
+ <p class="updated_time"> 09:39 AM CT, Nov. 13 </p> 
+ <a href="https://www.nytimes.com/2021/11/13/us/politics/chris-christie-book-interview.html">Chris Christie Wants the Post-Trump G.O.P. to Move Past 2020</a> NYT: In a new book and in an interview, Mr. Christie says that if the former president wants to be a positive force, “he’s got to let this other stuff go.” 
  <p class="updated_time"> 09:12 AM CT, Nov. 13 </p> 
  <a href="https://www.cnn.com/2021/11/13/politics/political-typology-spectrum-what-matters/index.html">There are 9 political types in the US. Which are you?</a> CNN: There are Democrats and Republicans in office, and we refer to them as Democrats and Republicans in this newsletter because that's how they vote. 
  <p class="updated_time"> 08:16 AM CT, Nov. 13 </p> 
  <a href="https://www.cnn.com/2021/11/13/politics/kamala-harris-france-trip/index.html">Harris' trip to Paris signals a relationship back on track</a> CNN: As French President Emmanuel Macron arrived at the Arc de Triomphe for a national televised Armistice Day Ceremony, Vice President Kamala Harris -- donning the traditional bleuet de France honoring veterans -- waited to greet him. 
  <p class="updated_time"> 08:01 AM CT, Nov. 13 </p> 
  <a href="https://www.politico.com/news/2021/11/13/africa-great-green-wall-521292">Africa’s ‘Great Green Wall’ shifts focus to hold off desert</a> Politico: Only 4% of the Great Green Wall’s original goal has been met, and an estimated $43 billion would be needed to achieve the rest. 
- <p class="updated_time"> 08:00 AM CT, Nov. 13 </p> 
- <a href="https://www.nytimes.com/2021/11/13/us/politics/chris-christie-book-interview.html">Chris Christie Wants the Post-Trump G.O.P. to Move Past Trump</a> NYT: In a new book and in an interview, Mr. Christie says that if the former president wants to be a positive force, “he’s got to let this other stuff go.” 
  <p class="updated_time"> 07:43 AM CT, Nov. 13 </p> 
  <a href="https://www.cnn.com/2021/11/13/politics/steve-bannon-january-6-indictment/index.html">Bannon's indictment may mark a turning point</a> CNN: The indictment of former President Donald Trump's chief strategist Steve Bannon on charges of criminal contempt of Congress on Friday sent shock waves through Washington -- serving as a powerful warning to other potential witnesses that there will be consequences for defying the House select committee investigating the January 6 attack on the US Capitol. 
  <p class="updated_time"> 07:02 AM CT, Nov. 13 </p> 
