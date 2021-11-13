@@ -9,14 +9,12 @@ permalink: /projects/news/
 
  <p class="updated_time"> 03:00 PM CT, Nov. 13 </p> 
  <a href="https://www.bbc.co.uk/news/uk-59275772?at_medium=RSS&at_campaign=KARANGA">Nazanin Zaghari-Ratcliffe: Husband ends hunger strike after 21 days</a> BBC: The husband of British-Iranian detainee Nazanin Zaghari-Ratcliffe says his child "needs two parents". 
- <p class="updated_time"> 02:40 PM CT, Nov. 13 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-59263761?at_medium=RSS&at_campaign=KARANGA">COP26: How might decisions at the climate summit change our lives?</a> BBC: The changes made at COP26 in Glasgow could have implications for the way we live. 
  <p class="updated_time"> 02:32 PM CT, Nov. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-59277788?at_medium=RSS&at_campaign=KARANGA">COP26: New global climate deal struck in Glasgow</a> BBC: New global climate deal agreed at COP26 in Glasgow after last-minute wrangling over agreement on cutting coal 
  <p class="updated_time"> 01:42 PM CT, Nov. 13 </p> 
  <a href="https://www.npr.org/2021/11/13/1055559578/ecuador-prison-battle-deaths-gangs">Dozens of inmates die in a battle between prison gangs in Ecuador </a> NPR: A prolonged gun battle between rival gangs inside Ecuador's largest prison was the latest violence to hit the Litoral Penitentiary, which recently saw the country's worst prison bloodbath. 
  <p class="updated_time"> 01:28 PM CT, Nov. 13 </p> 
- <a href="https://www.nytimes.com/2021/11/13/world/canada/newfoundland-migrants.html">In Canada's Atlantic, Urbanites Find Welcome and Blowback</a> NYT: As housing prices soar in big cities, the country’s eastern provinces are experiencing a surge in migration. Newcomers are being welcomed, but some locals are wary. 
+ <a href="https://www.nytimes.com/2021/11/13/world/canada/newfoundland-migrants.html">Urbanites in Canada Flock to Atlantic Region Amid Remote Work Shift</a> NYT: As housing prices soar in big cities, the country’s eastern provinces are experiencing a surge in migration. Newcomers are being welcomed, but some locals are wary. 
  <p class="updated_time"> 01:24 PM CT, Nov. 13 </p> 
  <a href="https://www.npr.org/2021/11/13/1055540992/an-antarctic-penguin-ends-up-on-new-zealand-shore-2-000-miles-from-home">An Antarctic penguin ends up on New Zealand shore, 3,100 miles from home</a> NPR: This penguin's adventure might have taken a few wrong turns. It's only the third time an Adélie penguin is known to have made it to the shores of New Zealand. 
  <p class="updated_time"> 01:18 PM CT, Nov. 13 </p> 
@@ -44,7 +42,7 @@ permalink: /projects/news/
  <p class="updated_time"> 09:58 AM CT, Nov. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59258409?at_medium=RSS&at_campaign=KARANGA">Covid: Dutch partial Covid lockdown sparks protests</a> BBC: Police in The Hague use water cannon on protesters opposing a lockdown amid a rise in Covid infections. 
  <p class="updated_time"> 09:52 AM CT, Nov. 13 </p> 
- <a href="https://www.wsj.com/articles/cop26-negotiators-work-towards-climate-deal-11636810622">World Governments Agree to Strengthen Emissions Pledges</a> WSJ: More than 190 nations reached a deal at the United Nations climate summit that aims to accelerate greenhouse gas emissions cuts across the world, but leaves deep questions over how governments will follow through in the coming decade. 
+ <a href="https://www.wsj.com/articles/cop26-negotiators-work-towards-climate-deal-11636810622">World Governments Agree to Strengthen Emissions Pledges</a> WSJ: More than 190 nations reached a deal at the United Nations climate summit that aims to accelerate greenhouse-gas-emissions cuts across the world, but leaves big questions over how governments will follow through in the coming decade. 
  <p class="updated_time"> 09:50 AM CT, Nov. 13 </p> 
  <a href="https://www.nytimes.com/2021/11/12/world/europe/threats-troop-buildup-war.html">Fears of Belarus-Poland Conflict Amid Provocative Words and Troop Moves</a> NYT: On both sides of the Belarus-Poland border, hyperbole and military exercises have raised fears of an armed conflict in Europe. 
  <p class="updated_time"> 09:42 AM CT, Nov. 13 </p> 
@@ -73,10 +71,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/migrant-dies-as-belarus-poland-border-standoff-deepens-11636817338">Migrant Dies as Belarus-Poland Border Standoff Deepens</a> WSJ: The body of a young Syrian man was found Friday, Polish border authorities said, the latest casualty in a monthslong standoff between the EU and Belarus’s authoritarian leader. 
  <p class="updated_time"> 05:19 AM CT, Nov. 13 </p> 
  <a href="https://www.nytimes.com/2021/11/13/world/asia/philippines-sara-duterte-marcos.html">Sara Duterte and Ferdinand Marcos Jr. May Join Forces in Philippines</a> NYT: Ferdinand Marcos Jr., who hopes to succeed Rodrigo Duterte as president, said Sara Duterte would effectively be his running mate. 
- <p class="updated_time"> 04:18 AM CT, Nov. 13 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-56901261?at_medium=RSS&at_campaign=KARANGA">What is COP26 and what is being agreed at Glasgow climate conference?</a> BBC: A crucial climate change summit is being held in the UK which could change our everyday lives. 
- <p class="updated_time"> 03:07 AM CT, Nov. 13 </p> 
- <a href="https://www.bbc.co.uk/news/uk-scotland-glasgow-west-59176752?at_medium=RSS&at_campaign=KARANGA">COP26: The story from Glasgow in 15 pictures</a> BBC: The most eye-catching demonstrations and unusual stories during COP26 have unfolded on the streets of Glasgow. 
  <p class="updated_time"> 02:52 AM CT, Nov. 13 </p> 
  <a href="https://www.nytimes.com/2021/11/12/world/europe/migrant-flights-belarus.html">Airlines Move to Curb Flow of Migrants to Belarus</a> NYT: Some airlines have agreed to stop taking Iraqi, Syrian and Yemeni citizens to Minsk, which the E.U. hopes will stem the flow of migrants to the bloc’s borders. 
  <p class="updated_time"> 02:00 AM CT, Nov. 13 </p> 
@@ -181,8 +175,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/11/world/europe/migrants-poland-belarus-lukashenko.html">Migrants in Peril, and Raw Emotions, in a Volatile European Border Standoff</a> NYT: A confrontation over migrants between Belarus and Poland is growing more volatile, as nationalist fervor rises in both countries and a humanitarian disaster looms. 
  <p class="updated_time"> 01:24 AM CT, Nov. 12 </p> 
  <a href="https://www.bbc.co.uk/news/stories-59255218?at_medium=RSS&at_campaign=KARANGA">Ron Jeremy: Porn star's accusers speak out for first time</a> BBC: Some of his accusers speak for the first time of their alleged experiences. He denies all charges. 
- <p class="updated_time"> 12:15 AM CT, Nov. 12 </p> 
- <a href="https://www.bbc.co.uk/news/uk-scotland-glasgow-west-59248023?at_medium=RSS&at_campaign=KARANGA">How green was the COP26 climate summit?</a> BBC: A report has suggested the carbon footprint of the Glasgow summit is more than double that of COP25. 
  <p class="updated_time"> 11:09 PM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/t-magazine/senegal-homegrown-rice.html">In Senegal, a Return to Homegrown Rice</a> NYT: The country has remained mostly dependent on the grain’s importation since colonization in the 1800s. But some locals are trying to change that. 
  <p class="updated_time"> 11:06 PM CT, Nov. 11 </p> 
@@ -197,8 +189,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59214544?at_medium=RSS&at_campaign=KARANGA">US women are being jailed for having miscarriages</a> BBC: More and more American women are facing prison for allegedly harming their unborn baby by using drugs. 
  <p class="updated_time"> 06:14 PM CT, Nov. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59246033?at_medium=RSS&at_campaign=KARANGA">At Iraq's election protest camp, militia supporters dig in</a> BBC: Tensions grow as defiant groups vow to stay put until election results are overturned. 
- <p class="updated_time"> 06:04 PM CT, Nov. 11 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-59205648?at_medium=RSS&at_campaign=KARANGA">Seven ways to curb climate change</a> BBC: What are the practical things countries need to do in order to tackle climate change? 
  <p class="updated_time"> 05:37 PM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/world/who-is-aleksandr-g-lukashenko.html">Who Is Aleksandr Lukashenko? Here's What You Need to Know</a> NYT: A migrant crisis on the border with Poland has put the Belarusian president at the center of a clash roiling Europe. 
  <p class="updated_time"> 05:03 PM CT, Nov. 11 </p> 
@@ -236,6 +226,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:23 PM CT, Nov. 13 </p> 
+ <a href="https://www.politico.com/news/2021/11/13/cop26-climate-deal-vulnerable-countries-521446">COP26 climate deal ‘too late’ for vulnerable countries but too much for others</a> Politico: Countries struck a compromise in Glasgow that pushes efforts into next year. 
  <p class="updated_time"> 02:55 PM CT, Nov. 13 </p> 
  <a href="https://www.politico.com/news/2021/11/13/arbery-trial-police-testimony-week-1-521414">Arbery trial: Grim photos, police testimony dominate Week 1</a> Politico: The trial of father and son Greg and Travis McMichael and their neighbor William “Roddie” Bryan wrapped up its first full week of testimony. 
  <p class="updated_time"> 12:56 PM CT, Nov. 13 </p> 
