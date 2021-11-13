@@ -7,8 +7,10 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:00 AM CT, Nov. 13 </p> 
+ <a href="https://www.nytimes.com/2021/11/13/world/asia/china-miner-poet-chen-nianxi.html">Deep Underground, a Chinese Miner Discovered Poetry in the Toil</a> NYT: Chen Nianxi has risen to fame as a “migrant worker poet,” adding the voice of China’s often-invisible laborers to the cultural conversation. 
  <p class="updated_time"> 01:33 AM CT, Nov. 13 </p> 
- <a href="https://www.nytimes.com/2021/11/13/world/asia/philippines-sara-duterte-marcos.html">Sara Duterte Joins Ferdinand Marcos Jr.'s Run for President</a> NYT: Ferdinand Marcos Jr., who hopes to succeed Rodrigo Duterte as president, said Sara Duterte would effectively be his running mate. 
+ <a href="https://www.nytimes.com/2021/11/13/world/asia/philippines-sara-duterte-marcos.html">Sara Duterte and Ferdinand Marcos Jr. May Join Forces in Philippines</a> NYT: Ferdinand Marcos Jr., who hopes to succeed Rodrigo Duterte as president, said Sara Duterte would effectively be his running mate. 
  <p class="updated_time"> 12:30 AM CT, Nov. 13 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59269886?at_medium=RSS&at_campaign=KARANGA">COP26: Crunch time as climate deal talks pass deadline</a> BBC: Divisions remain over continuing subsidies for fossil fuels and financial help to poorer nations. 
  <p class="updated_time"> 10:34 PM CT, Nov. 12 </p> 
@@ -37,8 +39,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59265609?at_medium=RSS&at_campaign=KARANGA">BBC's Simpson revisits Afghanistan under the Taliban</a> BBC: In 2001, the BBC's World Affairs editor was part of a team which entered the city when the Taliban fell. 
  <p class="updated_time"> 06:04 PM CT, Nov. 12 </p> 
  <a href="https://www.bbc.co.uk/news/stories-59171107?at_medium=RSS&at_campaign=KARANGA">'I could have been a racist killer'</a> BBC: As a teenager, Mike was an armed and angry US Nazi. Looking back, he fears he came close to murder. 
- <p class="updated_time"> 05:22 PM CT, Nov. 12 </p> 
- <a href="https://www.nytimes.com/2021/11/10/world/europe/france-kamala-harris-macron.html">Harris Meets Macron, Signaling a ‘New Era’ After Sub Snub, Both Say</a> NYT: In her vague assignment abroad, the vice president seems to be emphasizing that the U.S.-France relationship is about looking forward, in the wake of an embarrassing diplomatic spat. 
  <p class="updated_time"> 05:19 PM CT, Nov. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59270291?at_medium=RSS&at_campaign=KARANGA">Steve Bannon charged with contempt of Congress</a> BBC: Former Trump strategist charged after refusing to testify to committee investigating US Capitol riot. 
  <p class="updated_time"> 04:54 PM CT, Nov. 12 </p> 
