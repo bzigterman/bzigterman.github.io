@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:42 PM CT, Nov. 13 </p> 
+ <a href="https://www.npr.org/2021/11/13/1055559578/ecuador-prison-battle-deaths-gangs">Dozens of inmates die in a battle between prison gangs in Ecuador </a> NPR: A prolonged gun battle between rival gangs inside Ecuador's largest prison was the latest violence to hit the Litoral Penitentiary, which recently saw the country's worst prison bloodbath. 
  <p class="updated_time"> 01:28 PM CT, Nov. 13 </p> 
  <a href="https://www.nytimes.com/2021/11/13/world/canada/newfoundland-migrants.html">In Canada's Atlantic, Urbanites Find Welcome and Blowback</a> NYT: As housing prices soar in big cities, the country’s eastern provinces are experiencing a surge in migration. Newcomers are being welcomed, but some locals are wary. 
  <p class="updated_time"> 01:24 PM CT, Nov. 13 </p> 
@@ -177,8 +179,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-53494405?at_medium=RSS&at_campaign=KARANGA">Britney Spears: Singer's conservatorship case explained</a> BBC: The US singer's bid to end her father's guardianship could reach its conclusion this week. 
  <p class="updated_time"> 02:36 AM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/11/world/europe/migrants-poland-belarus-lukashenko.html">Migrants in Peril, and Raw Emotions, in a Volatile European Border Standoff</a> NYT: A confrontation over migrants between Belarus and Poland is growing more volatile, as nationalist fervor rises in both countries and a humanitarian disaster looms. 
- <p class="updated_time"> 02:09 AM CT, Nov. 12 </p> 
- <a href="https://www.npr.org/2021/11/12/1055027411/a-u-s-journalist-is-sentenced-to-11-years-in-jail-by-a-court-in-myanmar">A U.S. journalist is sentenced to 11 years in jail by a court in Myanmar</a> NPR: A court in military-ruled Myanmar sentenced journalist Danny Fenster to 11 years in prison after finding him guilty on several charges, including incitement for allegedly spreading false information. 
  <p class="updated_time"> 01:24 AM CT, Nov. 12 </p> 
  <a href="https://www.bbc.co.uk/news/stories-59255218?at_medium=RSS&at_campaign=KARANGA">Ron Jeremy: Porn star's accusers speak out for first time</a> BBC: Some of his accusers speak for the first time of their alleged experiences. He denies all charges. 
  <p class="updated_time"> 12:15 AM CT, Nov. 12 </p> 
@@ -259,7 +259,7 @@ permalink: /projects/news/
  <p class="updated_time"> 07:43 AM CT, Nov. 13 </p> 
  <a href="https://www.cnn.com/2021/11/13/politics/steve-bannon-january-6-indictment/index.html">Bannon's indictment may mark a turning point</a> CNN: The indictment of former President Donald Trump's chief strategist Steve Bannon on charges of criminal contempt of Congress on Friday sent shock waves through Washington -- serving as a powerful warning to other potential witnesses that there will be consequences for defying the House select committee investigating the January 6 attack on the US Capitol. 
  <p class="updated_time"> 07:02 AM CT, Nov. 13 </p> 
- <a href="https://www.politico.com/news/2021/11/13/democrats-drug-prices-521213">Dems’ plan to limit drug price inflation faces test in Senate</a> Politico: Attempts at price controls have to conform with the parameters of the budget reconciliation process they’re hoping to use to pass the social spending package on a party-line vote. 
+ <a href="https://www.politico.com/news/2021/11/13/democrats-drug-prices-521213">Dems’ plan to limit drug price inflation faces test in Senate</a> Politico: Attempts at price controls have to conform with the parameters of the  reconciliation process they’re hoping to use to pass the social spending package on a party-line vote. 
  <p class="updated_time"> 07:02 AM CT, Nov. 13 </p> 
  <a href="https://www.npr.org/2021/11/13/1055503629/steve-bannon-faces-federal-charges-for-contempt-of-congress">Steve Bannon faces federal charges for contempt of Congress</a> NPR: Steve Bannon, adviser to former President Donald Trump, was indicted Friday for contempt of Congress. 
  <p class="updated_time"> 07:02 AM CT, Nov. 13 </p> 
