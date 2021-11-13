@@ -7,6 +7,14 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:28 AM CT, Nov. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59274351?at_medium=RSS&at_campaign=KARANGA">Belarus-Poland border: Putin warns Belarus over gas threat to EU</a> BBC: Russia's leader says Belarus should not cut gas supplies to Europe over the migrant row with Poland. 
+ <p class="updated_time"> 07:24 AM CT, Nov. 13 </p> 
+ <a href="https://www.npr.org/2021/11/13/1055503661/the-darien-gap-was-no-mans-land-now-its-a-popular-migrant-path-to-the-u-s">The Darien Gap was no man's land. Now it's a popular migrant path to the U.S.</a> NPR: The dense jungle of the Darien Gap between Panama and Colombia was once a no man's land. It is now a busy thoroughfare for migrants heading north to the U.S. 
+ <p class="updated_time"> 07:02 AM CT, Nov. 13 </p> 
+ <a href="https://www.npr.org/2021/11/13/1055503636/climate-negotiations-at-cop26-center-on-timeline-and-aid-to-developing-countries">Climate negotiations at COP26 center on timeline and aid to developing countries</a> NPR: Climate negotiations in Glasgow, Scotland, have gone into overtime. Countries are divided over how quickly to cut greenhouse gas emissions and over aid to developing countries. 
+ <p class="updated_time"> 07:00 AM CT, Nov. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59274685?at_medium=RSS&at_campaign=KARANGA">Glen de Vries: William Shatner's spacecraft partner dies in plane crash</a> BBC: Glen de Vries went to the the edge of space with Star Trek actor William Shatner just one month ago. 
  <p class="updated_time"> 06:54 AM CT, Nov. 13 </p> 
  <a href="https://www.nytimes.com/2021/11/13/world/canada/newfoundland-migrants.html">In Canada's Atlantic, Urbanites Find Welcome and Blowback</a> NYT: As housing prices soar in big cities, the country’s eastern provinces are experiencing a surge in migration. Newcomers are being welcomed, but some locals are wary. 
  <p class="updated_time"> 06:35 AM CT, Nov. 13 </p> 
@@ -14,7 +22,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:27 AM CT, Nov. 13 </p> 
  <a href="https://www.nytimes.com/2021/11/13/world/middleeast/belarus-migrants-iraq-kurds.html">Migrants Say Belarusians Took Them to E.U. Border and Supplied Wire Cutters</a> NYT: Iraqi Kurds and other migrants said they were fleeing despair at home, but Belarus encouraged them, offering visas and helping them get to the border. 
  <p class="updated_time"> 06:25 AM CT, Nov. 13 </p> 
- <a href="https://www.nytimes.com/2021/11/13/world/europe/france-2015-attacks-trial-victims.html">From ‘Alive Among the Dead,’ to ‘Dead Among the Living’</a> NYT: The trauma of the 2015 terrorist attacks in Paris was highlighted in testimony by survivors and others at a trial of 20 men accused of involvement. 
+ <a href="https://www.nytimes.com/2021/11/13/world/europe/france-2015-attacks-trial-victims.html">Survivors of 2015 Paris Terrorist Attacks 'Dead Among the Living'</a> NYT: The trauma of the 2015 terrorist attacks in Paris was highlighted in testimony by survivors and others at a trial of 20 men accused of involvement. 
  <p class="updated_time"> 05:21 AM CT, Nov. 13 </p> 
  <a href="https://www.nytimes.com/2021/11/10/world/europe/poland-belarus-border-europe.html">Poland Gets Support From Europe on Tough Borders</a> NYT: Faced with the weaponization of migrants from Belarus, the European Union is defending Poland’s hard line even as it withholds funds over rule of law violations. 
  <p class="updated_time"> 05:19 AM CT, Nov. 13 </p> 
@@ -123,8 +131,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/12/1055055724/in-a-first-u-n-climate-agreement-could-include-the-words-coal-and-fossil-fuels">In a first, U.N. climate agreement could include the words 'coal' and 'fossil fuels'</a> NPR: The U.N. secretary-general warns the main goal of limiting global warming is "on life support." But Glasgow negotiators are making modest progress in their final hours. 
  <p class="updated_time"> 09:26 AM CT, Nov. 12 </p> 
  <a href="https://www.npr.org/2021/11/12/1055045794/julian-assange-wins-permission-to-get-married-while-in-a-london-prison">Julian Assange wins permission to marry his partner in a London prison</a> NPR: The WikiLeaks founder and attorney Stella Moris began a relationship after Assange took refuge in the Ecuadorian Embassy in London in 2012. They have two sons together. 
- <p class="updated_time"> 09:25 AM CT, Nov. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59262811?at_medium=RSS&at_campaign=KARANGA">France investigates rape of soldier at Élysée palace</a> BBC: Local media report prosecutors are investigating the alleged rape of a soldier at the Élysée palace. 
  <p class="updated_time"> 07:55 AM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/11/health/veterans-psychedelics-ptsd-depression.html">Veterans Have Become Unlikely Lobbyists in Push to Legalize Psychedelic Drugs</a> NYT: Lawmakers find it hard to “just say no” to combat veterans seeking support for drug decriminalization efforts gaining traction around the country. 
  <p class="updated_time"> 07:22 AM CT, Nov. 12 </p> 
@@ -187,14 +193,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/11/world/africa/covid-uganda-schools.html">Dropouts and Menial Jobs: The Effects of Keeping Uganda's Schools Closed</a> NYT: Recalling the orphans of the H.I.V./AIDS crisis, government officials fear students infecting their parents and keep schools closed. 
  <p class="updated_time"> 03:49 PM CT, Nov. 11 </p> 
  <a href="https://www.npr.org/2021/11/11/1054884177/migrants-entering-poland-from-belarus-face-sub-zero-temperatures-and-military-pa">Migrants entering Poland from Belarus face sub-zero temperatures and military patrols</a> NPR: NPR's Mary Louise Kelly talks with Matthew Luxmoore of Radio Free Europe about the growing migrant crisis on the border of Belarus and Poland. 
- <p class="updated_time"> 03:49 PM CT, Nov. 11 </p> 
- <a href="https://www.npr.org/2021/11/11/1054884170/why-is-ethiopia-detaining-un-aid-workers">Why is Ethiopia detaining UN aid workers?</a> NPR: NPR's Mary Louise Kelly speaks with Stéphane Dujarric, spokesman for the UN Secretary-General António Guterres, on the detention of UN aid workers in Ethiopia and the political state of affairs there. 
  <p class="updated_time"> 03:35 PM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/10/world/americas/brazil-bolsonaro-liberal-party.html">Bolsonaro Joins a Centrist Party in Brazil Ahead of 2022 Re-election Bid</a> NYT: President Jair Bolsonaro, who has not belonged to any political party for two years, is joining the centrist Liberals, they said on Wednesday. 
  <p class="updated_time"> 03:35 PM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/world/europe/poland-independence-day-far-right-protests.html">As Poland Celebrates Its Independence Day, Far-Right Groups Stage Rallies</a> NYT: In downtown Warsaw, tens of thousands of demonstrators started their march by lighting red flares and singing the national anthem. 
- <p class="updated_time"> 03:31 PM CT, Nov. 11 </p> 
- <a href="https://www.npr.org/2021/11/11/1054884112/xi-jinping-is-in-a-good-position-to-break-norms-and-continue-to-lead-china">Xi Jinping is in a good position to break norms and continue to lead China</a> NPR: In China, leadership has concluded a four-day meeting that endorsed Xi Jinping's vision for the country and signed off on a reassessment of the party's 100-year history. 
  <p class="updated_time"> 02:52 PM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/world/americas/bolsonaro-trump-brazil-election.html">Trump Allies Help Bolsonaro Sow Doubt in Brazil's Elections</a> NYT: With his poll numbers falling, President Jair Bolsonaro is already questioning the legitimacy of next year’s election. He has help from the United States. 
  <p class="updated_time"> 01:56 PM CT, Nov. 11 </p> 
@@ -228,8 +230,14 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:01 AM CT, Nov. 13 </p> 
+ <a href="https://www.politico.com/news/2021/11/13/africa-great-green-wall-521292">Africa’s ‘Great Green Wall’ shifts focus to hold off desert</a> Politico: Only 4% of the Great Green Wall’s original goal has been met, and an estimated $43 billion would be needed to achieve the rest. 
+ <p class="updated_time"> 07:02 AM CT, Nov. 13 </p> 
+ <a href="https://www.npr.org/2021/11/13/1055503629/steve-bannon-faces-federal-charges-for-contempt-of-congress">Steve Bannon faces federal charges for contempt of Congress</a> NPR: Steve Bannon, adviser to former President Donald Trump, was indicted Friday for contempt of Congress. 
  <p class="updated_time"> 07:02 AM CT, Nov. 13 </p> 
  <a href="https://www.politico.com/news/2021/11/13/democrats-drug-prices-521213">Dems’ plan to limit drug price inflation faces test in Senate</a> Politico: Attempts at price controls have to conform with the parameters of the expedited budget reconciliation process they’re hoping to use to pass the social spending package on a party-line vote. 
+ <p class="updated_time"> 07:02 AM CT, Nov. 13 </p> 
+ <a href="https://www.npr.org/2021/11/13/1055503570/week-in-politics-biden-balances-tackling-inflation-and-working-on-his-spending-b">Week in politics: Biden balances tackling inflation and working on his spending bill</a> NPR: Will rising prices and an uncertain economic outlook change the prospects for President Biden's signature spending bill? Also updates on a House committee's probe into the attempted insurrection. 
  <p class="updated_time"> 07:00 AM CT, Nov. 13 </p> 
  <a href="https://www.politico.com/news/2021/11/13/homer-plessy-key-to-separate-but-equal-on-road-to-pardon-521237">Homer Plessy, key to ‘separate but equal,’ on road to pardon</a> Politico: He was at the center of an infamous 1896 U.S. Supreme Court decision. 
  <p class="updated_time"> 07:00 AM CT, Nov. 13 </p> 
@@ -372,12 +380,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/cartoons/2021/11/12/the-nations-cartoonists-on-the-week-in-politics-000266">The nation’s cartoonists on the week in politics</a> Politico: Every week political cartoonists throughout the country and across the political spectrum apply their ink-stained skills to capture the foibles, memes, hypocrisies and other head-slapping events in the world of politics. The fruits of these labors are hundreds of cartoons that entertain and enrage readers of all political stripes. Here's an offering of the best of this week's crop, picked fresh off the Toonosphere. Edited by Matt Wuerker. 
  <p class="updated_time"> 04:30 AM CT, Nov. 12 </p> 
  <a href="https://www.politico.com/news/2021/11/12/chris-christie-donald-trump-president-2024-521006">Christie’s calculus: Trump is ‘in the rearview mirror’</a> Politico: The former New Jersey governor is mounting a de facto exploratory bid for president and it’s put him on a collision course with his one-time ally. 
- <p class="updated_time"> 04:08 AM CT, Nov. 12 </p> 
- <a href="https://www.npr.org/2021/11/12/1055030223/the-fbi-arrests-a-key-contributor-to-efforts-trying-to-link-trump-with-russia">Arrest of Steele dossier source forces some news outlets to reexamine their coverage</a> NPR: News groups are revisiting their coverage of allegations against candidate and then President Trump, after a Russian analyst, a key source for the Steele Dossier, was charged with lying to the FBI. 
  <p class="updated_time"> 04:00 AM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/us/politics/democrats-trifecta-power.html">Why Democrats May Have a Long Wait if They Lose Their Grip on Washington</a> NYT: Voters’ reflexive instinct to check the party in power makes it hard for any party to retain a hold on both the White House and Congress for long. 
- <p class="updated_time"> 04:00 AM CT, Nov. 12 </p> 
- <a href="https://www.npr.org/2021/11/12/1054889820/a-bill-to-study-reparations-for-slavery-had-momentum-in-congress-but-still-no-vo">A bill to study reparations for slavery had momentum in Congress, but still no vote</a> NPR: Legislation to create a commission to study reparations faces steep odds in the evenly divided Congress. Advocates want the House to take up the bill, or for President Biden to act on his own. 
  <p class="updated_time"> 10:59 PM CT, Nov. 11 </p> 
  <a href="https://www.politico.com/news/2021/11/11/ohio-senate-jewish-campaign-ad-mandel-521007">‘But he’s Jewish’: Opponent questions Mandel’s faith in Ohio Senate primary debate</a> Politico: The Republican Senate frontrunner was targeted earlier in an ad criticizing him for courting evangelical Christians. 
  <p class="updated_time"> 10:10 PM CT, Nov. 11 </p> 
@@ -392,8 +396,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/11/us/politics/dc-jail-jan-6.html">Problems at D.C. Jail Were Ignored Until Jan. 6 Defendants Came Along</a> NYT: At a hearing this week, officials said longstanding issues at the jail, where most inmates are Black, did not get much attention until the largely white rioters were held there. 
  <p class="updated_time"> 04:45 PM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/us/politics/republicans-infrastructure-bill.html">Illinois Republican Lawmakers at Odds on Infrastructure Bill</a> NYT: Representative Darin LaHood voted against the infrastructure bill while Representative Adam Kinzinger supported it. The split reflects the Republican Party’s post-Trump era of uncertainty. 
- <p class="updated_time"> 04:42 PM CT, Nov. 11 </p> 
- <a href="https://www.politico.com/news/2021/11/11/appeals-court-jan-6-committee-trump-white-house-records-520952">Appeals court slows Jan. 6 committee’s effort to access Trump White House records</a> Politico: The National Archives had been preparing to deliver the documents on Friday, but the three-judge panel will instead hear arguments in the matter on Nov. 30. 
  <p class="updated_time"> 04:41 PM CT, Nov. 11 </p> 
  <a href="https://www.politico.com/news/2021/11/11/dems-white-house-biden-520946">Dems to White House: The only prescription is more Biden</a> Politico: The president has been more a facilitator than manager of the legislative process. His party wants more of the latter. 
  <p class="updated_time"> 04:39 PM CT, Nov. 11 </p> 
