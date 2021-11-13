@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:46 AM CT, Nov. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-59275772?at_medium=RSS&at_campaign=KARANGA">Nazanin Zaghari-Ratcliffe: Husband ending hunger strike after 21 days</a> BBC: The husband of Iranian detainee Nazanin Zaghari-Ratcliffe ends his hunger strike outside the Foreign Office. 
  <p class="updated_time"> 07:28 AM CT, Nov. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59274351?at_medium=RSS&at_campaign=KARANGA">Belarus-Poland border: Putin warns Belarus over gas threat to EU</a> BBC: Russia's leader says Belarus should not cut gas supplies to Europe over the migrant row with Poland. 
  <p class="updated_time"> 07:24 AM CT, Nov. 13 </p> 
