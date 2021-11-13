@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:36 AM CT, Nov. 13 </p> 
+ <a href="https://www.nytimes.com/2021/11/11/t-magazine/scorched-burnt-rice.html">The Thrilling Dare of Scorched Rice</a> NYT: When browned on the bottom of the pot by a skilled cook, the grain is transformed into a complex delicacy, one prized by food cultures around the world. 
  <p class="updated_time"> 10:26 AM CT, Nov. 13 </p> 
  <a href="https://www.nytimes.com/2021/11/13/world/middleeast/belarus-migrants-iraq-kurds.html">Migrants Say Belarusians Took Them to E.U. Border and Supplied Wire Cutters</a> NYT: Iraqi Kurds and other migrants said they were fleeing despair at home, but Belarus encouraged them, offering visas and helping them get to the border. 
  <p class="updated_time"> 10:25 AM CT, Nov. 13 </p> 
@@ -14,9 +16,9 @@ permalink: /projects/news/
  <p class="updated_time"> 10:22 AM CT, Nov. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59274686?at_medium=RSS&at_campaign=KARANGA">Egypt: Scorpions kill three and injure hundreds in Aswan</a> BBC: Three people have been killed by scorpion bites during storms in the southern city of Aswan. 
  <p class="updated_time"> 10:08 AM CT, Nov. 13 </p> 
- <a href="https://www.nytimes.com/2021/11/13/world/europe/meghan-uk-tabloids.html">For Meghan, an Image Rendered in a U.K.-U.S. Split Screen</a> NYT: She has re-emerged in America as a formidable A-list celebrity and social activist. In Britain, however, Meghan remains a polarizing figure. 
+ <a href="https://www.nytimes.com/2021/11/13/world/europe/meghan-markle-uk-tabloids.html">Meghan's Image, Battered in Britain's Tabloids, Thrives in U.S.</a> NYT: She has re-emerged in America as a formidable A-list celebrity and social activist. In Britain, however, Meghan remains a polarizing figure. 
  <p class="updated_time"> 10:03 AM CT, Nov. 13 </p> 
- <a href="https://www.bbc.co.uk/news/uk-59275772?at_medium=RSS&at_campaign=KARANGA">Nazanin Zaghari-Ratcliffe: Husband ends hunger strike after 21 days</a> BBC: The husband of British-Iranian detainee Nazanin Zaghari-Ratcliffe says his daughter "needs two parents". 
+ <a href="https://www.bbc.co.uk/news/uk-59275772?at_medium=RSS&at_campaign=KARANGA">Nazanin Zaghari-Ratcliffe: Husband ends hunger strike after 21 days</a> BBC: The husband of British-Iranian detainee Nazanin Zaghari-Ratcliffe says his child "needs two parents". 
  <p class="updated_time"> 09:58 AM CT, Nov. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59258409?at_medium=RSS&at_campaign=KARANGA">Covid: Dutch partial Covid lockdown sparks protests</a> BBC: Police in The Hague use water cannon on protesters opposing a lockdown amid a rise in Covid infections. 
  <p class="updated_time"> 09:50 AM CT, Nov. 13 </p> 
@@ -43,10 +45,10 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59274204?at_medium=RSS&at_campaign=KARANGA">Sara Duterte: Daughter of Philippines leader runs for vice-president</a> BBC: Sara Duterte will run alongside the son of the country's former dictator, Ferdinand Marcos. 
  <p class="updated_time"> 06:25 AM CT, Nov. 13 </p> 
  <a href="https://www.nytimes.com/2021/11/13/world/europe/france-2015-attacks-trial-victims.html">Survivors of 2015 Paris Terrorist Attacks 'Dead Among the Living'</a> NYT: The trauma of the 2015 terrorist attacks in Paris was highlighted in testimony by survivors and others at a trial of 20 men accused of involvement. 
+ <p class="updated_time"> 05:51 AM CT, Nov. 13 </p> 
+ <a href="https://www.wsj.com/articles/migrant-dies-as-belarus-poland-border-standoff-deepens-11636817338">Migrant Dies as Belarus-Poland Border Standoff Deepens</a> WSJ: The body of a young Syrian man was found Friday, Polish border authorities said, the latest casualty in a monthslong standoff between the EU and Belarus’s authoritarian leader. 
  <p class="updated_time"> 05:19 AM CT, Nov. 13 </p> 
  <a href="https://www.nytimes.com/2021/11/13/world/asia/philippines-sara-duterte-marcos.html">Sara Duterte and Ferdinand Marcos Jr. May Join Forces in Philippines</a> NYT: Ferdinand Marcos Jr., who hopes to succeed Rodrigo Duterte as president, said Sara Duterte would effectively be his running mate. 
- <p class="updated_time"> 04:28 AM CT, Nov. 13 </p> 
- <a href="https://www.wsj.com/articles/migrant-dies-as-belarus-poland-border-standoff-deepens-11636817338">Migrant Dies as Belarus-Poland Border Standoff Deepens</a> WSJ: The body of a young Syrian man was found Friday, Polish border authorities said, the latest casualty in a monthslong standoff between the EU and Belarus’s authoritarian leader. 
  <p class="updated_time"> 04:18 AM CT, Nov. 13 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-56901261?at_medium=RSS&at_campaign=KARANGA">What is COP26 and what is being agreed at Glasgow climate conference?</a> BBC: A crucial climate change summit is being held in the UK which could change our everyday lives. 
  <p class="updated_time"> 03:07 AM CT, Nov. 13 </p> 
@@ -179,8 +181,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/12/1055014823/toyota-to-ramp-up-production-after-cutbacks-driven-by-the-covid-19-pandemic">Toyota to ramp up production after cutbacks driven by the COVID-19 pandemic</a> NPR: The Japanese automaker announced it expects to build 800,000 vehicles globally next month, up from the roughly 760,000 it made last December. 
  <p class="updated_time"> 11:09 PM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/t-magazine/senegal-homegrown-rice.html">In Senegal, a Return to Homegrown Rice</a> NYT: The country has remained mostly dependent on the grain’s importation since colonization in the 1800s. But some locals are trying to change that. 
- <p class="updated_time"> 11:08 PM CT, Nov. 11 </p> 
- <a href="https://www.nytimes.com/2021/11/11/t-magazine/scorched-burnt-rice.html">The Thrilling Dare of Scorched Rice</a> NYT: When browned on the bottom of the pot by a skilled cook, the grain is transformed into a complex delicacy, one prized by food cultures around the world. 
  <p class="updated_time"> 11:06 PM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/t-magazine/mexico-rice-conquest.html">Tracing Mexico’s Complicated Relationship With Rice</a> NYT: Having arrived in the country via the Spanish Conquest, the grain’s presence poses the question: What’s native, and what isn’t, when it comes to a nation’s culinary history? 
  <p class="updated_time"> 09:46 PM CT, Nov. 11 </p> 
@@ -236,6 +236,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:43 AM CT, Nov. 13 </p> 
+ <a href="https://www.politico.com/news/2021/11/13/india-coal-cop26-521365">India tries to block coal phaseout from COP26 deal</a> Politico: An official argued that developing countries were “entitled to the responsible use of fossil fuels.” 
  <p class="updated_time"> 10:28 AM CT, Nov. 13 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/13/bannon-indicted-britney-freed-495092">POLITICO Playbook: Bannon indicted, Britney freed</a> Politico: And an appeals court extends a stay for the Biden administration's vaccine-or-test mandate. 
  <p class="updated_time"> 10:16 AM CT, Nov. 13 </p> 
@@ -364,8 +366,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/12/politics/kamala-harris-paris/index.html">Harris says she did not discuss submarine deal with Macron during Paris meeting</a> CNN: Vice President Kamala Harris said she did not discuss with French President Emmanuel Macron the surprise deal between the US and Australia to develop nuclear submarines that angered the French, leading to a fallout between the longstanding allies. 
  <p class="updated_time"> 08:50 AM CT, Nov. 12 </p> 
  <a href="https://www.politico.com/news/2021/11/12/biden-poised-to-nominate-califf-as-fda-chief-521060">Biden nominates Califf as FDA chief</a> Politico: The selection ends the administration's lengthy search for a permanent FDA commissioner. 
- <p class="updated_time"> 08:48 AM CT, Nov. 12 </p> 
- <a href="https://www.politico.com/news/2021/11/12/julian-assange-given-permission-to-marry-partner-in-prison-521032">Julian Assange given permission to marry partner in prison</a> Politico: Assange and Moris made their relationship public in April 2020 and had applied to prison authorities for permission to wed. 
  <p class="updated_time"> 08:43 AM CT, Nov. 12 </p> 
  <a href="https://www.cnn.com/2021/11/12/politics/trump-pence-threats-january-6/index.html">Trump defends threats to Pence on 1/6 in new audio</a> CNN: Former President Donald Trump appeared to defend the threats made against then-Vice President Mike Pence during the January 6 insurrection in a new audio recording released Wednesday. 
  <p class="updated_time"> 07:43 AM CT, Nov. 12 </p> 
@@ -450,8 +450,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/huddle/2021/11/09/senate-schedule-seasonally-depressing-495031">Senate schedule: seasonally depressing</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:19 AM CT, Nov. 09 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/09/a-trump-backed-senate-hopeful-takes-the-stand-495028">POLITICO Playbook: A Trump-backed Senate hopeful takes the stand</a> Politico: And the Jan. 6 committee subpoenas more Trump aides. 
- <p class="updated_time"> 04:30 AM CT, Nov. 09 </p> 
- <a href="https://www.politico.com/news/2021/11/09/senate-dems-year-end-train-wreck-520275">The Senate’s year-end to-do list is ‘going to be a train wreck’</a> Politico: Ho, ho, oh no. Long nights, weekend work and threatened holidays are a Capitol tradition, and this year is likely no exception. 
  <p class="updated_time"> 04:30 AM CT, Nov. 09 </p> 
  <a href="https://www.politico.com/news/2021/11/09/senate-dems-year-end-train-wreck-520275">The Senate’s year-end to-do list is ‘going to be a train wreck’</a> Politico: Ho, ho, oh no. Long nights, weekend work and threatened holidays are a Capitol tradition, and this year is likely no exception. 
  <p class="updated_time"> 07:24 PM CT, Nov. 08 </p> 
