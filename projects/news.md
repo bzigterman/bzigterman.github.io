@@ -7,12 +7,12 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:17 PM CT, Nov. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/world-59277788?at_medium=RSS&at_campaign=KARANGA">COP26: New global climate deal struck in Glasgow</a> BBC: New global climate deal agreed at COP26 in Glasgow after last-minute wrangling over agreement on cutting coal 
  <p class="updated_time"> 04:04 PM CT, Nov. 13 </p> 
  <a href="https://www.npr.org/2021/11/13/1055575802/lack-of-american-ambassadors-is-hurting-foreign-goals-says-afsa-president">Lack of American ambassadors is hurting foreign goals, says AFSA president</a> NPR: NPR's Michel Martin speaks with Eric Rubin, president of the American Foreign Service Association, about the high number of diplomatic vacancies and how it's affecting President Biden's agenda. 
  <p class="updated_time"> 04:04 PM CT, Nov. 13 </p> 
  <a href="https://www.npr.org/2021/11/13/1055575788/world-leaders-commit-to-ambitious-goals-at-u-n-climate-summit">World leaders commit to ambitious goals at U.N. climate summit</a> NPR: The U.N. climate summit's landmark decision sets aggressive targets for cutting greenhouse emissions. It also promises more aid for developing countries, but many of those countries wanted more. 
- <p class="updated_time"> 03:49 PM CT, Nov. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-59277788?at_medium=RSS&at_campaign=KARANGA">COP26: New global climate deal struck in Glasgow</a> BBC: New global climate deal agreed at COP26 in Glasgow after last-minute wrangling over agreement on cutting coal 
  <p class="updated_time"> 03:35 PM CT, Nov. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59274688?at_medium=RSS&at_campaign=KARANGA">Covid: Dutch accept life within 'lockdown-lite'</a> BBC: Most in the Netherlands support a new lockdown-lite, despite anti-lockdown protests making headlines. 
  <p class="updated_time"> 03:00 PM CT, Nov. 13 </p> 
