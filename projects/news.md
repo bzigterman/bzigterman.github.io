@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:00 PM CT, Nov. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-59275772?at_medium=RSS&at_campaign=KARANGA">Nazanin Zaghari-Ratcliffe: Husband ends hunger strike after 21 days</a> BBC: The husband of British-Iranian detainee Nazanin Zaghari-Ratcliffe says his child "needs two parents". 
  <p class="updated_time"> 02:40 PM CT, Nov. 13 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59263761?at_medium=RSS&at_campaign=KARANGA">COP26: How might decisions at the climate summit change our lives?</a> BBC: The changes made at COP26 in Glasgow could have implications for the way we live. 
  <p class="updated_time"> 02:32 PM CT, Nov. 13 </p> 
@@ -16,7 +18,7 @@ permalink: /projects/news/
  <p class="updated_time"> 01:28 PM CT, Nov. 13 </p> 
  <a href="https://www.nytimes.com/2021/11/13/world/canada/newfoundland-migrants.html">In Canada's Atlantic, Urbanites Find Welcome and Blowback</a> NYT: As housing prices soar in big cities, the country’s eastern provinces are experiencing a surge in migration. Newcomers are being welcomed, but some locals are wary. 
  <p class="updated_time"> 01:24 PM CT, Nov. 13 </p> 
- <a href="https://www.npr.org/2021/11/13/1055540992/an-antarctic-penguin-ends-up-on-new-zealand-shore-2-000-miles-from-home">An Antarctic penguin ends up on New Zealand shore, 2,000 miles from home</a> NPR: This penguin's adventure might have taken a few wrong turns. It's only the third time an Adélie penguin is known to have made it to the shores of New Zealand. 
+ <a href="https://www.npr.org/2021/11/13/1055540992/an-antarctic-penguin-ends-up-on-new-zealand-shore-2-000-miles-from-home">An Antarctic penguin ends up on New Zealand shore, 3,100 miles from home</a> NPR: This penguin's adventure might have taken a few wrong turns. It's only the third time an Adélie penguin is known to have made it to the shores of New Zealand. 
  <p class="updated_time"> 01:18 PM CT, Nov. 13 </p> 
  <a href="https://www.npr.org/2021/11/13/1055554319/cop26-climate-agreement-global-warming-glasgow">At COP26, nations strike a climate deal with coal compromise</a> NPR: Government negotiators from nearly 200 countries have adopted a new deal on climate action after a last-minute intervention by India to water down the language on cutting emissions from coal. 
  <p class="updated_time"> 01:01 PM CT, Nov. 13 </p> 
@@ -31,8 +33,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/13/us/us-airstrikes-civilian-deaths.html">How the U.S. Hid an Airstrike That Killed Dozens of Civilians in Syria</a> NYT: The military never conducted an independent investigation into a 2019 bombing on the last bastion of the Islamic State, despite concerns about a secretive commando force. 
  <p class="updated_time"> 12:10 PM CT, Nov. 13 </p> 
  <a href="https://www.nytimes.com/2021/11/13/world/africa/sudan-protests.html">Sudan Security Forces Fire on Protesters, Killing Several</a> NYT: At least five people were killed and several wounded as the police fired bullets and tear gas at demonstrators in Sudan’s capital, two days after the army chief signed a contentious decree. 
- <p class="updated_time"> 11:26 AM CT, Nov. 13 </p> 
- <a href="https://www.bbc.co.uk/news/uk-59275772?at_medium=RSS&at_campaign=KARANGA">Nazanin Zaghari-Ratcliffe: Husband ends hunger strike after 21 days</a> BBC: The husband of British-Iranian detainee Nazanin Zaghari-Ratcliffe says his child "needs two parents". 
  <p class="updated_time"> 11:21 AM CT, Nov. 13 </p> 
  <a href="https://www.nytimes.com/2021/11/13/world/asia/india-pakistan-afghanistan-wheat.html">India Wants to Send Wheat to Ease Afghan Hunger Crisis. Pakistan Has Yet to OK Transit.</a> NYT: Indian officials say Islamabad is dragging its feet on a request of transit for 50,000 tons of wheat to Afghanistan, where nine million people are on the brink of starvation. 
  <p class="updated_time"> 10:36 AM CT, Nov. 13 </p> 
@@ -43,12 +43,12 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/13/world/europe/meghan-markle-uk-tabloids.html">Meghan's Image, Battered in Britain's Tabloids, Thrives in U.S.</a> NYT: She has re-emerged in America as a formidable A-list celebrity and social activist. In Britain, however, Meghan remains a polarizing figure. 
  <p class="updated_time"> 09:58 AM CT, Nov. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59258409?at_medium=RSS&at_campaign=KARANGA">Covid: Dutch partial Covid lockdown sparks protests</a> BBC: Police in The Hague use water cannon on protesters opposing a lockdown amid a rise in Covid infections. 
+ <p class="updated_time"> 09:52 AM CT, Nov. 13 </p> 
+ <a href="https://www.wsj.com/articles/cop26-negotiators-work-towards-climate-deal-11636810622">World Governments Agree to Strengthen Emissions Pledges</a> WSJ: More than 190 nations reached a deal at the United Nations climate summit that aims to accelerate greenhouse gas emissions cuts across the world, but leaves deep questions over how governments will follow through in the coming decade. 
  <p class="updated_time"> 09:50 AM CT, Nov. 13 </p> 
  <a href="https://www.nytimes.com/2021/11/12/world/europe/threats-troop-buildup-war.html">Fears of Belarus-Poland Conflict Amid Provocative Words and Troop Moves</a> NYT: On both sides of the Belarus-Poland border, hyperbole and military exercises have raised fears of an armed conflict in Europe. 
  <p class="updated_time"> 09:42 AM CT, Nov. 13 </p> 
  <a href="https://www.nytimes.com/2021/11/13/world/europe/portugal-remote-work-law-pandemic.html">Portugal Bars Employers From Contacting Remote Workers Off Hours</a> NYT: A new law, passed on Friday and in effect this weekend, is one of the world’s boldest efforts to regulate the remote work that the pandemic forced on many in the industrialized world. 
- <p class="updated_time"> 09:28 AM CT, Nov. 13 </p> 
- <a href="https://www.wsj.com/articles/cop26-negotiators-work-towards-climate-deal-11636810622">World Governments Agree to Strengthen Emissions Pledges</a> WSJ: More than 190 nations reached a deal at the United Nations climate summit that aims to accelerate greenhouse gas emissions cuts across the world, but leaves deep questions over how governments will follow through in the coming decade. 
  <p class="updated_time"> 08:56 AM CT, Nov. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59273174?at_medium=RSS&at_campaign=KARANGA">Poland-Belarus border: The BBC reports from the camps within touching distance of the EU</a> BBC: Steve Rosenberg reports from the migrant camps within touching distance of the EU. 
  <p class="updated_time"> 08:44 AM CT, Nov. 13 </p> 
