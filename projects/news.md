@@ -7,10 +7,10 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:31 AM CT, Nov. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-59275772?at_medium=RSS&at_campaign=KARANGA">Nazanin Zaghari-Ratcliffe: Husband ending hunger strike after 21 days</a> BBC: The husband of British-Iranian detainee Nazanin Zaghari-Ratcliffe ends his protest outside the Foreign Office. 
  <p class="updated_time"> 08:20 AM CT, Nov. 13 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59269886?at_medium=RSS&at_campaign=KARANGA">COP26: Final push aims to strike new climate agreement</a> BBC: The new draft is unlikely to heal splits over subsidies for fossil fuels and financial aid. 
- <p class="updated_time"> 08:10 AM CT, Nov. 13 </p> 
- <a href="https://www.bbc.co.uk/news/uk-59275772?at_medium=RSS&at_campaign=KARANGA">Nazanin Zaghari-Ratcliffe: Husband ending hunger strike after 21 days</a> BBC: The husband of Iranian detainee Nazanin Zaghari-Ratcliffe ends his protest outside the UK Foreign Office. 
  <p class="updated_time"> 07:28 AM CT, Nov. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59274351?at_medium=RSS&at_campaign=KARANGA">Belarus-Poland border: Putin warns Belarus over gas threat to EU</a> BBC: Russia's leader says Belarus should not cut gas supplies to Europe over the migrant row with Poland. 
  <p class="updated_time"> 07:24 AM CT, Nov. 13 </p> 
@@ -39,6 +39,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/12/world/europe/migrant-flights-belarus.html">Airlines Move to Curb Flow of Migrants to Belarus</a> NYT: Some airlines have agreed to stop taking Iraqi, Syrian and Yemeni citizens to Minsk, which the E.U. hopes will stem the flow of migrants to the bloc’s borders. 
  <p class="updated_time"> 02:00 AM CT, Nov. 13 </p> 
  <a href="https://www.nytimes.com/2021/11/13/world/asia/china-miner-poet-chen-nianxi.html">Deep Underground, a Chinese Miner Discovered Poetry in the Toil</a> NYT: Chen Nianxi has risen to fame as a “migrant worker poet,” adding the voice of China’s often-invisible laborers to the cultural conversation. 
+ <p class="updated_time"> 12:19 AM CT, Nov. 13 </p> 
+ <a href="https://www.nytimes.com/2021/11/12/world/americas/oklahoma-kevin-sitt-vaccine-mandate-national-guard.html">Oklahoma Governor Taps an Opponent of Vaccine Mandates to Head National Guard</a> NYT: The governor, Kevin Stitt, is one of a number of Republican state officials across the country who has been fighting against President Biden’s vaccine mandates. 
  <p class="updated_time"> 11:30 PM CT, Nov. 12 </p> 
  <a href="https://www.wsj.com/articles/as-the-u-s-races-to-vaccinate-kids-against-covid-19-some-countries-hold-back-11636799400">As the U.S. Races to Vaccinate Kids, Some Countries Hold Back</a> WSJ: Immunizing children against Covid-19 is viewed by authorities in the U.S. and elsewhere as critical to get the upper hand over the virus. But in some parts of the world, such efforts have generated deep controversy. 
  <p class="updated_time"> 10:34 PM CT, Nov. 12 </p> 
