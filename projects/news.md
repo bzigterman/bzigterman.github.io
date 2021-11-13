@@ -7,12 +7,16 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:33 AM CT, Nov. 13 </p> 
+ <a href="https://www.nytimes.com/2021/11/13/world/europe/portugal-remote-work-law-pandemic.html">Portugal Bars Employers From Contacting Remote Workers Off Hours</a> NYT: A new law, passed on Friday and in effect this weekend, is one of the world’s boldest efforts to regulate the remote work that the pandemic forced on many in the industrialized world. 
+ <p class="updated_time"> 09:31 AM CT, Nov. 13 </p> 
+ <a href="https://www.nytimes.com/2021/11/13/world/africa/sudan-protests.html">Sudanese Security Forces Fire on Protesters as Military Tightens Grip</a> NYT: One person was killed and several wounded as riot police fired bullets at demonstrators in Sudan’s capital, two days after the army chief signed a contentious decree. 
+ <p class="updated_time"> 09:28 AM CT, Nov. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-59275772?at_medium=RSS&at_campaign=KARANGA">Nazanin Zaghari-Ratcliffe: Husband ending hunger strike after 21 days</a> BBC: The husband of British-Iranian detainee Nazanin Zaghari-Ratcliffe says his daughter "needs two parents". 
  <p class="updated_time"> 08:56 AM CT, Nov. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59273174?at_medium=RSS&at_campaign=KARANGA">Poland-Belarus border: The BBC reports from the camps within touching distance of the EU</a> BBC: Steve Rosenberg reports from the migrant camps within touching distance of the EU. 
  <p class="updated_time"> 08:44 AM CT, Nov. 13 </p> 
  <a href="https://www.nytimes.com/2021/11/12/world/americas/oklahoma-kevin-sitt-vaccine-mandate-national-guard.html">Oklahoma Governor Puts Foe of Vaccine Mandates in Charge of National Guard</a> NYT: The governor, Kevin Stitt, is one of a number of Republican state officials across the country who has been fighting against President Biden’s vaccine mandates. 
- <p class="updated_time"> 08:42 AM CT, Nov. 13 </p> 
- <a href="https://www.bbc.co.uk/news/uk-59275772?at_medium=RSS&at_campaign=KARANGA">Nazanin Zaghari-Ratcliffe: Husband ending hunger strike after 21 days</a> BBC: The husband of British-Iranian detainee Nazanin Zaghari-Ratcliffe says his daughter "needs two parents". 
  <p class="updated_time"> 08:20 AM CT, Nov. 13 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59269886?at_medium=RSS&at_campaign=KARANGA">COP26: Final push aims to strike new climate agreement</a> BBC: The new draft is unlikely to heal splits over subsidies for fossil fuels and financial aid. 
  <p class="updated_time"> 07:28 AM CT, Nov. 13 </p> 
@@ -227,8 +231,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-13230608?at_medium=RSS&at_campaign=KARANGA">FW de Klerk: South Africa's last white president</a> BBC: The last president of a segregated South Africa, who freed Nelson Mandela, and paved the way to majority rule. 
  <p class="updated_time"> 04:02 AM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/t-magazine/mansaf-bedouin-rice.html">For Many Members of the Arab American Diaspora, Mansaf Offers a Taste of Home</a> NYT: The traditional Bedouin dish of bread, rice, lamb and yogurt is a talisman of identity in Jordan — and in various communities in suburban Detroit. 
- <p class="updated_time"> 05:11 PM CT, Nov. 10 </p> 
- <a href="https://www.nytimes.com/2021/11/10/us/politics/russia-blinken-ukraine.html">Blinken Warns Russia Against Making a ‘Serious Mistake’ in Ukraine</a> NYT: Appearing with Ukraine’s foreign minister, Secretary of State Antony J. Blinken said the intentions behind Moscow’s latest military buildup were unclear. 
 
 
 </details>
@@ -236,6 +238,10 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:28 AM CT, Nov. 13 </p> 
+ <a href="https://www.politico.com/newsletters/playbook/2021/11/13/bannon-indicted-britney-freed-495092">POLITICO Playbook: Bannon indicted, Britney freed</a> Politico: And an appeals court extends a stay for the Biden administration's vaccine-or-test mandate. 
+ <p class="updated_time"> 10:16 AM CT, Nov. 13 </p> 
+ <a href="https://www.politico.com/news/2021/11/13/raid-veritas-okeefe-biden-press-521307">FBI raid on Project Veritas founder’s home sparks questions about press freedom</a> Politico: The action against James O’Keefe has prompted concern about the Biden administration’s commitment to the First Amendment. 
  <p class="updated_time"> 09:12 AM CT, Nov. 13 </p> 
  <a href="https://www.cnn.com/2021/11/13/politics/political-typology-spectrum-what-matters/index.html">There are 9 political types in the US. Which are you?</a> CNN: There are Democrats and Republicans in office, and we refer to them as Democrats and Republicans in this newsletter because that's how they vote. 
  <p class="updated_time"> 08:16 AM CT, Nov. 13 </p> 
@@ -426,8 +432,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/10/politics/biden-baltimore-port-infrastructure/index.html">'It's worrisome': Biden addresses inflation concerns during Baltimore speech</a> CNN: President Joe Biden takes his sales pitch for the newly passed bipartisan infrastructure deal on the road Wednesday, highlighting the effect of the bill on supply chains, hours after new inflation statistics revealed that America's prices are surging more than they have in 30 years. 
  <p class="updated_time"> 04:51 PM CT, Nov. 10 </p> 
  <a href="https://www.cnn.com/2021/11/10/politics/infrastructure-bill-signing/index.html">Biden to hold signing ceremony on Monday for bipartisan infrastructure bill </a> CNN: President Joe Biden will sign the bipartisan infrastructure bill on Monday during a ceremony that will include members of Congress, governors and mayors from both parties, the White House announced on Wednesday. 
- <p class="updated_time"> 12:59 PM CT, Nov. 10 </p> 
- <a href="https://www.politico.com/news/2021/11/10/scott-fairlamb-jan-6-sentencing-520592">N.J. man hit with toughest sentence yet in Jan. 6 attack</a> Politico: Former MMA fighter Scott Fairlamb gets 41 months in prison for punching police officer during Capitol Riot. 
  <p class="updated_time"> 10:13 AM CT, Nov. 10 </p> 
  <a href="https://www.cnn.com/2021/11/10/politics/joe-biden-inflation/index.html">Biden on inflation report: 'Reversing this trend is a top priority for me'</a> CNN: President Joe Biden said Wednesday that inflation statistics showing America's prices are surging more than they have in 30 years are proof that there is "more work to do before our economy is back to normal." 
  <p class="updated_time"> 08:12 AM CT, Nov. 10 </p> 
