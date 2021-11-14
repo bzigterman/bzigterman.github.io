@@ -7,12 +7,16 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:57 PM CT, Nov. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59279585?at_medium=RSS&at_campaign=KARANGA">US defends air strikes that killed civilians in Syria</a> BBC: The strikes occurred in the last stronghold of the so-called Islamic State in Syria in 2019. 
+ <p class="updated_time"> 12:55 PM CT, Nov. 14 </p> 
+ <a href="https://www.nytimes.com/2021/11/14/world/middleeast/afghan-university-students-iraq.html">Afghan College Students Find a New Life, and Safety, in Iraq</a> NYT: Regarded as infidels by the Taliban, over 100 students from the American University in Kabul have found an unlikely refuge in the Iraqi Kurdish city of Sulaimaniya. 
  <p class="updated_time"> 12:47 PM CT, Nov. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59280707?at_medium=RSS&at_campaign=KARANGA">Japan's former princess Mako arrives in New York after giving up title</a> BBC: Mako was forced to give up her titles when she married her "commoner" husband last month. 
  <p class="updated_time"> 12:47 PM CT, Nov. 14 </p> 
  <a href="https://www.nytimes.com/2021/11/14/world/europe/liverpool-hospital-car-explosion.html">Taxi Explodes Outside Liverpool Hospital, Killing One</a> NYT: The cause of the explosion, which injured a second person, was not immediately clear. The investigation was being led by Counter Terrorism Policing North West with support from the local police. 
- <p class="updated_time"> 12:45 PM CT, Nov. 14 </p> 
- <a href="https://www.nytimes.com/2021/11/14/world/middleeast/afghan-university-students-iraq.html">Afghan College Students Find a New Life, and Safety, in Iraq</a> NYT: Regarded as infidels by the Taliban, over 100 students from the American University in Kabul have found an unlikely refuge in the Iraqi Kurdish city of Sulaimaniya. 
+ <p class="updated_time"> 12:43 PM CT, Nov. 14 </p> 
+ <a href="https://www.bbc.co.uk/sport/tennis/59284680?at_medium=RSS&at_campaign=KARANGA">Peng Shuai: Chinese tennis star 'deserves to be heard' on sexual assault claims - WTA</a> BBC: Chinese player Peng Shuai deserves "to be heard, not censored" after publicly accusing the country's former vice-premier of sexual assault, says the Women's Tennis Association. 
  <p class="updated_time"> 12:37 PM CT, Nov. 14 </p> 
  <a href="https://www.nytimes.com/2021/11/14/world/asia/afghanistan-isis-shiites.html">The String of ISIS Attacks That Killed Three Generations of One Afghan Family</a> NYT: Over two weeks, the Rajabis suffered loss after loss as suicide attacks on Shiite mosques in two parts of the country ravaged their family. 
  <p class="updated_time"> 12:24 PM CT, Nov. 14 </p> 
@@ -53,8 +57,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/moammar-gadhafis-son-launches-libyan-presidential-bid-11636912947">Moammar Gadhafi's Son Launches Libyan Presidential Bid</a> WSJ: Saif al-Islam Gadhafi is running for president of his war-torn country, injecting a wildcard into elections that could make or break a peace process meant to end a decade of political crises. 
  <p class="updated_time"> 06:33 AM CT, Nov. 14 </p> 
  <a href="https://www.npr.org/2021/11/14/1055641481/queen-elizabeth-sprained-back-remembrance-sunday">Sprained back forces Queen Elizabeth to miss remembrance event for Britain's war dead</a> NPR: Remembrance Sunday is one of the most important events on the 95-year-old monarch's calendar. It was expected to be her first public appearance after canceling others recently on doctors' advice. 
- <p class="updated_time"> 06:13 AM CT, Nov. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59279585?at_medium=RSS&at_campaign=KARANGA">US covered up deadly air strikes in Syria, New York Times reports</a> BBC: The strikes occurred in the last stronghold of the so-called Islamic State in Syria in 2019. 
  <p class="updated_time"> 02:53 AM CT, Nov. 14 </p> 
  <a href="https://www.nytimes.com/2021/11/13/world/canada/newfoundland-migrants.html">Urbanites in Canada Flock to Atlantic Region Amid Remote Work Shift</a> NYT: As housing prices soar in big cities, the country’s eastern provinces are experiencing a surge in migration. Newcomers are being welcomed, but some locals are wary. 
  <p class="updated_time"> 12:45 AM CT, Nov. 14 </p> 
@@ -133,8 +135,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/13/1055503661/the-darien-gap-was-no-mans-land-now-its-a-popular-migrant-path-to-the-u-s">The Darien Gap was no man's land. Now it's a popular migrant path to the U.S.</a> NPR: The dense jungle of the Darien Gap between Panama and Colombia was once a no man's land. It is now a busy thoroughfare for migrants heading north to the U.S. 
  <p class="updated_time"> 07:02 AM CT, Nov. 13 </p> 
  <a href="https://www.npr.org/2021/11/13/1055503636/climate-negotiations-at-cop26-center-on-timeline-and-aid-to-developing-countries">Climate negotiations at COP26 center on timeline and aid to developing countries</a> NPR: Climate negotiations in Glasgow, Scotland, have gone into overtime. Countries are divided over how quickly to cut greenhouse gas emissions and over aid to developing countries. 
- <p class="updated_time"> 07:00 AM CT, Nov. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59274685?at_medium=RSS&at_campaign=KARANGA">Glen de Vries: William Shatner's spacecraft partner dies in plane crash</a> BBC: Glen de Vries went to the the edge of space with Star Trek actor William Shatner just one month ago. 
  <p class="updated_time"> 06:35 AM CT, Nov. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59274204?at_medium=RSS&at_campaign=KARANGA">Sara Duterte: Daughter of Philippines leader runs for vice-president</a> BBC: Sara Duterte will run alongside the son of the country's former dictator, Ferdinand Marcos. 
  <p class="updated_time"> 06:00 AM CT, Nov. 13 </p> 
@@ -157,8 +157,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59258414?at_medium=RSS&at_campaign=KARANGA">Belarus border: Scrambling for facts in Europe's new crisis</a> BBC: Journalists and aid workers are kept away from the bleak spectacle of migrants on the Polish border. 
  <p class="updated_time"> 06:05 PM CT, Nov. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59265609?at_medium=RSS&at_campaign=KARANGA">BBC's Simpson revisits Afghanistan under the Taliban</a> BBC: In 2001, the BBC's World Affairs editor was part of a team which entered the city when the Taliban fell. 
- <p class="updated_time"> 06:04 PM CT, Nov. 12 </p> 
- <a href="https://www.bbc.co.uk/news/stories-59171107?at_medium=RSS&at_campaign=KARANGA">'I could have been a racist killer'</a> BBC: As a teenager, Mike was an armed and angry US Nazi. Looking back, he fears he came close to murder. 
  <p class="updated_time"> 04:30 PM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/11/world/asia/zuo-fang-dead.html">Zuo Fang, a Founder of China's Southern Weekly, is Dead</a> NYT: When he helped start Southern Weekly, he charted a course for a freer era for the country’s press, which later became increasingly constrained by Beijing. 
  <p class="updated_time"> 04:03 PM CT, Nov. 12 </p> 
@@ -226,12 +224,12 @@ permalink: /projects/news/
 
  <p class="updated_time"> 01:24 PM CT, Nov. 14 </p> 
  <a href="https://www.politico.com/news/2021/11/14/catholic-bishops-biden-abortion-522105">U.S. Catholic bishops may dodge rebuke of Biden over abortion</a> Politico: While some bishops have said they would deny Communion to the president, there is no national policy on the matter. 
+ <p class="updated_time"> 01:06 PM CT, Nov. 14 </p> 
+ <a href="https://www.nytimes.com/2021/11/14/us/ghost-guns-homemade-firearms.html">‘Ghost Guns’: Firearm Kits Bought Online Fuel Epidemic of Violence</a> NYT: They are untraceable, assembled from parts and can be ordered by gang members, felons and even children. They are increasingly the lethal weapon of easy access around the U.S., but especially California. 
  <p class="updated_time"> 12:46 PM CT, Nov. 14 </p> 
  <a href="https://www.cnn.com/2021/11/13/politics/fbi-fake-emails-cyber-threat/index.html">Fake FBI emails about a sophisticated attack are part of 'ongoing situation,' agency says</a> CNN: The FBI on Saturday said it was aware of reports that unauthorized emails were coming from a legitimate FBI email address to thousands of organizations about a purported cyber threat. 
  <p class="updated_time"> 11:56 AM CT, Nov. 14 </p> 
  <a href="https://www.npr.org/2021/11/14/1055664174/snl-cold-open-ted-cruz-big-bird-sesame-street">SNL uses its cold open to skewer Ted Cruz over his Big Bird vaccine tweet</a> NPR: In a Saturday Night Live sketch, Sen. Ted Cruz, played by Aidy Bryant, hosts a right-wing alternative to the children's television program Sesame Street. 
- <p class="updated_time"> 11:51 AM CT, Nov. 14 </p> 
- <a href="https://www.nytimes.com/2021/11/14/us/ghost-guns-homemade-firearms.html">‘Ghost Guns’: Firearm Kits Bought Online Fuel Epidemic of Violence</a> NYT: They are untraceable, assembled from parts and can be ordered by gang members, felons and even children. They are increasingly the lethal weapon of easy access around the U.S., but especially California. 
  <p class="updated_time"> 11:41 AM CT, Nov. 14 </p> 
  <a href="https://www.politico.com/news/2021/11/14/schiff-bannon-indictment-comply-522016">Rep. Schiff: Bannon’s indictment will ‘without a doubt’ lead others to comply with Jan. 6 panel</a> Politico: “It’s very positive,” the California Democrat said. 
  <p class="updated_time"> 11:41 AM CT, Nov. 14 </p> 
