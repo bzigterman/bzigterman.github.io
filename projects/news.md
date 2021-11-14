@@ -45,6 +45,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/14/1055640617/extremists-in-pakistan-have-been-emboldened-by-the-talibans-success-in-afghanist">Extremists in Pakistan have been emboldened by the Taliban's success in Afghanistan</a> NPR: Militant attacks inside Pakistan have been rising, highlighting an uncomfortable truth: America's exit from neighboring Afghanistan has emboldened would-be militant extremists. 
  <p class="updated_time"> 07:05 AM CT, Nov. 14 </p> 
  <a href="https://www.npr.org/2021/11/14/1055640596/countries-at-cop26-agree-to-scale-up-efforts-to-combat-climate-change">Countries at COP26 agree to scale up efforts to combat climate change</a> NPR: Danielle Kurtzleben talks to Cassie Flynn, climate advisor to the U.N. Development Program, about the final agreement from the U.N. climate summit in Glasgow. 
+ <p class="updated_time"> 07:02 AM CT, Nov. 14 </p> 
+ <a href="https://www.wsj.com/articles/moammar-gadhafis-son-launches-libyan-presidential-bid-11636912947">Moammar Gadhafi's Son Launches Libyan Presidential Bid</a> WSJ: Saif al-Islam Gadhafi is running for president of his war-torn country, injecting a wildcard into elections that could make or break a peace process meant to end a decade of political crises. 
  <p class="updated_time"> 06:33 AM CT, Nov. 14 </p> 
  <a href="https://www.npr.org/2021/11/14/1055641481/queen-elizabeth-sprained-back-remembrance-sunday">Sprained back forces Queen Elizabeth to miss remembrance event for Britain's war dead</a> NPR: Remembrance Sunday is one of the most important events on the 95-year-old monarch's calendar. It was expected to be her first public appearance after canceling others recently on doctors' advice. 
  <p class="updated_time"> 06:13 AM CT, Nov. 14 </p> 
@@ -143,8 +145,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/12/world/europe/migrant-flights-belarus.html">Airlines Move to Curb Flow of Migrants to Belarus</a> NYT: Some airlines have agreed to stop taking Iraqi, Syrian and Yemeni citizens to Minsk, which the E.U. hopes will stem the flow of migrants to the bloc’s borders. 
  <p class="updated_time"> 02:00 AM CT, Nov. 13 </p> 
  <a href="https://www.nytimes.com/2021/11/13/world/asia/china-miner-poet-chen-nianxi.html">Deep Underground, a Chinese Miner Discovered Poetry in the Toil</a> NYT: Chen Nianxi has risen to fame as a “migrant worker poet,” adding the voice of China’s often-invisible laborers to the cultural conversation. 
- <p class="updated_time"> 11:30 PM CT, Nov. 12 </p> 
- <a href="https://www.wsj.com/articles/as-the-u-s-races-to-vaccinate-kids-against-covid-19-some-countries-hold-back-11636799400">As the U.S. Races to Vaccinate Kids, Some Countries Hold Back</a> WSJ: Immunizing children against Covid-19 is viewed by authorities in the U.S. and elsewhere as critical to get the upper hand over the virus. But in some parts of the world, such efforts have generated deep controversy. 
  <p class="updated_time"> 10:34 PM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/world/europe/lukashenko-putin-belarus-russia.html">Migrant Crisis in Belarus Tests Putin’s Uneasy Alliance With Lukashenko</a> NYT: Last year Vladimir V. Putin helped save Aleksandr G. Lukashenko’s Belarusian regime. But Russia now has an ever-more-erratic ally and risks entanglement in a dangerous crisis. 
  <p class="updated_time"> 08:11 PM CT, Nov. 12 </p> 
@@ -300,8 +300,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/13/us/politics/tribal-lands-flooding-nuclear-waste.html">Flooding and Nuclear Waste Eat Away at a Tribe’s Ancestral Home</a> NYT: The federal government allowed a stockpile of spent fuel on a Minnesota reservation to balloon even as a dam project whittled down the amount of livable land. 
  <p class="updated_time"> 03:20 PM CT, Nov. 13 </p> 
  <a href="https://www.cnn.com/2021/11/13/politics/afghans-exorbitant-costs/index.html">Some Afghans trying to flee country face exorbitant costs as Blinken touts success of efforts to help Americans</a> CNN: Afghans desperate to flee the country are increasingly having to negotiate with private operators charging exorbitant sums while US Secretary of State Antony Blinken announced on Friday that all Americans who have asked to leave Afghanistan have been offered an opportunity to do so. 
- <p class="updated_time"> 02:55 PM CT, Nov. 13 </p> 
- <a href="https://www.politico.com/news/2021/11/13/arbery-trial-police-testimony-week-1-521414">Arbery trial: Grim photos, police testimony dominate Week 1</a> Politico: The trial of father and son Greg and Travis McMichael and their neighbor William “Roddie” Bryan wrapped up its first full week of testimony. 
  <p class="updated_time"> 12:44 PM CT, Nov. 13 </p> 
  <a href="https://www.nytimes.com/2021/11/12/us/politics/kamala-harris-macron-france.html">In France, Kamala Harris Searches for Role on Global Stage</a> NYT: The vice president met with President Emmanuel Macron of France, skirting recent U.S.-French tensions, and immersed herself in issues like Libya and cybersecurity. 
  <p class="updated_time"> 12:40 PM CT, Nov. 13 </p> 
@@ -438,6 +436,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/11/10/new-reminders-that-this-is-not-normal-495046">POLITICO Playbook: New reminders that this is not normal</a> Politico: And a new poll shows Biden's vaccine mandate losing support. 
  <p class="updated_time"> 04:31 AM CT, Nov. 10 </p> 
  <a href="https://www.politico.com/news/2021/11/10/schumer-billions-new-york-public-housing-520519">Schumer scores billions for New York's decaying public housing</a> Politico: The jockeying over the housing funds is one of many emerging sources of political tension surrounding President Joe Biden's bill. 
+ <p class="updated_time"> 04:30 AM CT, Nov. 10 </p> 
+ <a href="https://www.politico.com/news/2021/11/10/biden-vaccine-mandates-va-mcdonough-520564">Biden called for widespread mandates. His VA is navigating its own minefields.</a> Politico: An overwhelming number of staff have gotten vaccinated. But a month after the deadline, at least ten percent of a 380,000 health care workforce still haven’t. 
  <p class="updated_time"> 06:13 PM CT, Nov. 09 </p> 
  <a href="https://www.politico.com/news/2021/11/09/biden-infrastructure-republicans-committee-standing-520484">Biden denounces efforts to strip Republicans who supported infrastructure of committee standing</a> Politico: “If we don’t generate consensus in America, we’re in trouble,” Biden said. 
  <p class="updated_time"> 03:18 PM CT, Nov. 09 </p> 
