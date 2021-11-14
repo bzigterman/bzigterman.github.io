@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:38 AM CT, Nov. 14 </p> 
+ <a href="https://www.nytimes.com/2021/11/14/world/europe/austria-unvaccinated-lockdown.html">Austria to Target the Unvaccinated in New Lockdown</a> NYT: The country, facing the biggest surge in virus cases since the pandemic started, is putting strict curbs on the movement of those without shots. 
  <p class="updated_time"> 09:16 AM CT, Nov. 14 </p> 
  <a href="https://www.nytimes.com/2021/11/14/world/africa/sierra-leone-explosion-healthcare.html">Sierra Leone Explosion Kills More and Strains Health System</a> NYT: Victims are still dying from injuries after a fuel tanker burst into flames last week in Sierra Leone, a country that has no burn units. 
  <p class="updated_time"> 08:49 AM CT, Nov. 14 </p> 
@@ -161,8 +163,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/12/world/asia/myanmar-danny-fenster.html">Danny Fenster, U.S. Journalist in Myanmar, Gets 11 Years in Jail</a> NYT: Danny Fenster was given the toughest possible sentence on three charges, in a signal that the country’s military rulers would not bow to international pressure. 
  <p class="updated_time"> 02:57 PM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/world/california-covid-booster.html">All California Adults Can Get Booster Shots, State Says</a> NYT: Officials are seeking to avert a winter surge; last year, so many Covid patients died that officials were forced to deploy mobile morgues. 
- <p class="updated_time"> 01:55 PM CT, Nov. 12 </p> 
- <a href="https://www.nytimes.com/2021/11/11/world/africa/fw-de-klerk-dead.html">F.W. de Klerk, South Africa President Who Ended Apartheid, Dies at 85</a> NYT: A prominent Afrikaner, he defended the separation of the races before helping to dismantle that system, leading to his sharing the Nobel Peace Prize with Nelson Mandela. 
  <p class="updated_time"> 12:24 PM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/world/africa/de-klerk-apartheid-south-africa.html">For Some South Africans, de Klerk Missed Chances for True Reconciliation</a> NYT: The last white president of South Africa helped bring an end to the apartheid regime, but for many citizens, he never went far enough to disavow it. He left a video apologizing. 
  <p class="updated_time"> 12:02 PM CT, Nov. 12 </p> 
@@ -220,6 +220,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:43 AM CT, Nov. 14 </p> 
+ <a href="https://www.politico.com/newsletters/playbook/2021/11/14/no-bif-bump-for-biden-495093">POLITICO Playbook: No BIF bump for Biden</a> Politico: And COP26 wraps up in Scotland. 
  <p class="updated_time"> 10:12 AM CT, Nov. 14 </p> 
  <a href="https://www.politico.com/news/2021/11/14/barrasso-trump-hang-pence-521960">Sen. Barrasso declines to condemn Trump over Pence remarks</a> Politico: The Wyoming Republican called the former president “an enduring force” 
  <p class="updated_time"> 10:12 AM CT, Nov. 14 </p> 
@@ -316,8 +318,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/12/federal-court-biden-vaccine-or-test-mandate-521233">Federal court extends stay of Biden administration's vaccine-or-test mandate</a> Politico: The Biden administration is likely to appeal the panel's decision to the full court. 
  <p class="updated_time"> 09:50 PM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/us/politics/court-vaccine-mandate.html">Appeals Court Extends Block on Biden’s Vaccine Mandate for Employers</a> NYT: A three-judge panel of the U.S. Court of Appeals for the Fifth Circuit held that challengers were likely to succeed in their claim that the mandate was an unlawful overreach. 
- <p class="updated_time"> 08:37 PM CT, Nov. 12 </p> 
- <a href="https://www.politico.com/news/2021/11/12/jury-rittenhouse-lesser-charges-521226">Jury to get to weigh some lesser charges in Rittenhouse case</a> Politico: Jurors are expected to begin deliberating on Monday after closing arguments. 
  <p class="updated_time"> 08:33 PM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/us/politics/biden-china-xi-jinping.html">Biden and China’s Xi Will Hold Virtual Summit on Monday</a> NYT: The leaders of the world’s two largest economies confront tensions over trade, cyberthreats, the climate, Taiwan and human rights. 
  <p class="updated_time"> 08:24 PM CT, Nov. 12 </p> 
@@ -428,6 +428,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/11/10/new-reminders-that-this-is-not-normal-495046">POLITICO Playbook: New reminders that this is not normal</a> Politico: And a new poll shows Biden's vaccine mandate losing support. 
  <p class="updated_time"> 04:31 AM CT, Nov. 10 </p> 
  <a href="https://www.politico.com/news/2021/11/10/schumer-billions-new-york-public-housing-520519">Schumer scores billions for New York's decaying public housing</a> Politico: The jockeying over the housing funds is one of many emerging sources of political tension surrounding President Joe Biden's bill. 
+ <p class="updated_time"> 04:30 AM CT, Nov. 10 </p> 
+ <a href="https://www.politico.com/news/2021/11/10/biden-vaccine-mandates-va-mcdonough-520564">Biden called for widespread mandates. His VA is navigating its own minefields.</a> Politico: An overwhelming number of staff have gotten vaccinated. But a month after the deadline, at least ten percent of a 380,000 health care workforce still haven’t. 
  <p class="updated_time"> 06:13 PM CT, Nov. 09 </p> 
  <a href="https://www.politico.com/news/2021/11/09/biden-infrastructure-republicans-committee-standing-520484">Biden denounces efforts to strip Republicans who supported infrastructure of committee standing</a> Politico: “If we don’t generate consensus in America, we’re in trouble,” Biden said. 
  <p class="updated_time"> 03:18 PM CT, Nov. 09 </p> 
