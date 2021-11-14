@@ -7,6 +7,12 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:41 PM CT, Nov. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-59276428?at_medium=RSS&at_campaign=KARANGA">Ecuador prison riot: New fighting at Guayaquil jail kills 68</a> BBC: Fighting at the Litoral Penitentiary in the city of Guayaquil reportedly began on Friday evening. 
+ <p class="updated_time"> 06:07 PM CT, Nov. 13 </p> 
+ <a href="https://www.nytimes.com/2021/11/13/world/what-is-tromethamine-tris.html">What Is Tromethamine, or Tris? It Helps Stabilize Covid Vaccines</a> NYT: Also known as tris, the compound helps maintain the pH of vaccines, extending shelf life at warmer temperatures. 
+ <p class="updated_time"> 06:04 PM CT, Nov. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-england-somerset-59181514?at_medium=RSS&at_campaign=KARANGA">Dress embroidery project unifies women around the world</a> BBC: The artist behind a dress made in global embroidery project said it embodies the "unity" of women. 
  <p class="updated_time"> 04:57 PM CT, Nov. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-59277788?at_medium=RSS&at_campaign=KARANGA">COP26: New global climate deal struck in Glasgow</a> BBC: New global climate deal agreed at COP26 in Glasgow after last-minute wrangling over agreement on cutting coal 
  <p class="updated_time"> 04:51 PM CT, Nov. 13 </p> 
@@ -25,14 +31,14 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/13/1055540992/an-antarctic-penguin-ends-up-on-new-zealand-shore-2-000-miles-from-home">An Antarctic penguin ends up on New Zealand shore, 3,100 miles from home</a> NPR: This penguin's adventure might have taken a few wrong turns. It's only the third time an Adélie penguin is known to have made it to the shores of New Zealand. 
  <p class="updated_time"> 01:18 PM CT, Nov. 13 </p> 
  <a href="https://www.npr.org/2021/11/13/1055554319/cop26-climate-agreement-global-warming-glasgow">At COP26, nations strike a climate deal with coal compromise</a> NPR: Government negotiators from nearly 200 countries have adopted a new deal on climate action after a last-minute intervention by India to water down the language on cutting emissions from coal. 
+ <p class="updated_time"> 01:09 PM CT, Nov. 13 </p> 
+ <a href="https://www.wsj.com/articles/cop26-negotiators-work-towards-climate-deal-11636810622">World Governments Agree to Strengthen Emissions Pledges</a> WSJ: More than 190 nations reached a deal at the United Nations climate summit that aims to accelerate greenhouse-gas-emissions cuts across the world, but leaves big questions over how governments will follow through in the coming decade. 
  <p class="updated_time"> 01:01 PM CT, Nov. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59274686?at_medium=RSS&at_campaign=KARANGA">Egypt: Scorpions kill three and injure hundreds in Aswan</a> BBC: Three people are killed by scorpion stings after storms brought the creatures onto the streets. 
  <p class="updated_time"> 12:56 PM CT, Nov. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59276274?at_medium=RSS&at_campaign=KARANGA">Sudan: Medical group says five killed in anti-coup protests</a> BBC: Five protesters were killed, medics say, days after military leaders tightened their grip on power. 
  <p class="updated_time"> 12:44 PM CT, Nov. 13 </p> 
  <a href="https://www.nytimes.com/2021/11/12/us/politics/kamala-harris-macron-france.html">In France, Kamala Harris Searches for Role on Global Stage</a> NYT: The vice president met with President Emmanuel Macron of France, skirting recent U.S.-French tensions, and immersed herself in issues like Libya and cybersecurity. 
- <p class="updated_time"> 12:43 PM CT, Nov. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-59276428?at_medium=RSS&at_campaign=KARANGA">Ecuador prison riot: New fighting at Guayaquil jail kills 68</a> BBC: Fighting at the Litoral Penitentiary in the city of Guayaquil reportedly began on Friday evening. 
  <p class="updated_time"> 12:33 PM CT, Nov. 13 </p> 
  <a href="https://www.nytimes.com/2021/11/13/us/us-airstrikes-civilian-deaths.html">How the U.S. Hid an Airstrike That Killed Dozens of Civilians in Syria</a> NYT: The military never conducted an independent investigation into a 2019 bombing on the last bastion of the Islamic State, despite concerns about a secretive commando force. 
  <p class="updated_time"> 12:10 PM CT, Nov. 13 </p> 
@@ -47,8 +53,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/13/world/middleeast/belarus-migrants-iraq-kurds.html">Migrants Say Belarusians Took Them to E.U. Border and Supplied Wire Cutters</a> NYT: Iraqi Kurds and other migrants said they were fleeing despair at home, but Belarus encouraged them, offering visas and helping them get to the border. 
  <p class="updated_time"> 10:08 AM CT, Nov. 13 </p> 
  <a href="https://www.nytimes.com/2021/11/13/world/europe/meghan-markle-uk-tabloids.html">Meghan's Image, Battered in Britain's Tabloids, Thrives in U.S.</a> NYT: She has re-emerged in America as a formidable A-list celebrity and social activist. In Britain, however, Meghan remains a polarizing figure. 
- <p class="updated_time"> 09:52 AM CT, Nov. 13 </p> 
- <a href="https://www.wsj.com/articles/cop26-negotiators-work-towards-climate-deal-11636810622">World Governments Agree to Strengthen Emissions Pledges</a> WSJ: More than 190 nations reached a deal at the United Nations climate summit that aims to accelerate greenhouse-gas-emissions cuts across the world, but leaves big questions over how governments will follow through in the coming decade. 
  <p class="updated_time"> 09:50 AM CT, Nov. 13 </p> 
  <a href="https://www.nytimes.com/2021/11/12/world/europe/threats-troop-buildup-war.html">Fears of Belarus-Poland Conflict Amid Provocative Words and Troop Moves</a> NYT: On both sides of the Belarus-Poland border, hyperbole and military exercises have raised fears of an armed conflict in Europe. 
  <p class="updated_time"> 09:42 AM CT, Nov. 13 </p> 
@@ -173,8 +177,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-53494405?at_medium=RSS&at_campaign=KARANGA">Britney Spears: Singer's conservatorship case explained</a> BBC: The US singer's bid to end her father's guardianship could reach its conclusion this week. 
  <p class="updated_time"> 02:36 AM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/11/world/europe/migrants-poland-belarus-lukashenko.html">Migrants in Peril, and Raw Emotions, in a Volatile European Border Standoff</a> NYT: A confrontation over migrants between Belarus and Poland is growing more volatile, as nationalist fervor rises in both countries and a humanitarian disaster looms. 
- <p class="updated_time"> 01:24 AM CT, Nov. 12 </p> 
- <a href="https://www.bbc.co.uk/news/stories-59255218?at_medium=RSS&at_campaign=KARANGA">Ron Jeremy: Porn star's accusers speak out for first time</a> BBC: Some of his accusers speak for the first time of their alleged experiences. He denies all charges. 
  <p class="updated_time"> 11:09 PM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/t-magazine/senegal-homegrown-rice.html">In Senegal, a Return to Homegrown Rice</a> NYT: The country has remained mostly dependent on the grain’s importation since colonization in the 1800s. But some locals are trying to change that. 
  <p class="updated_time"> 11:06 PM CT, Nov. 11 </p> 
@@ -183,8 +185,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/11/world/europe/glasgow-garbage-strike.html">Outside COP26, Trash in Glasgow Piles High</a> NYT: At COP26, delegates address the need to curb emissions and mass consumption to save the planet while the reality of today’s throwaway society is all too apparent nearby. 
  <p class="updated_time"> 08:46 PM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/world/asia/india-pollution-yamuna-chhath.html">On Delhi’s Toxic River, Prayers to a Sun Struggling to Shine Through Smog</a> NYT: Every year, a four-day festival to the sun god Surya highlights the Indian city’s extreme air and water pollution, with a river so filled with foam it resembles a blizzard’s aftermath. 
- <p class="updated_time"> 07:10 PM CT, Nov. 11 </p> 
- <a href="https://www.nytimes.com/2021/11/11/world/asia/xi-jinping-china-third-term.html">China's Xi Jingping Secures Political Future By Rewriting Past</a> NYT: Senior party officials have gathered at a closed-door meeting in Beijing to cement Mr. Xi’s dominance as he moves to claim a likely third term next year as China’s leader. 
  <p class="updated_time"> 06:40 PM CT, Nov. 11 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59214544?at_medium=RSS&at_campaign=KARANGA">US women are being jailed for having miscarriages</a> BBC: More and more American women are facing prison for allegedly harming their unborn baby by using drugs. 
  <p class="updated_time"> 06:14 PM CT, Nov. 11 </p> 
@@ -226,6 +226,10 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:23 PM CT, Nov. 13 </p> 
+ <a href="https://www.politico.com/gallery/2021/11/13/photos-the-faces-of-cop26-003757">PHOTOS: The faces of COP26</a> Politico: The U.N. climate summit in Glasgow, Scotland, known as COP26, brought world leaders, activists and other interested parties together from Oct. 31 to Nov. 13 to debate and implement solutions to climate change. 
+ <p class="updated_time"> 07:02 PM CT, Nov. 13 </p> 
+ <a href="https://www.politico.com/news/2021/11/13/climate-talks-glasgow-521720">The U.S. turns up the heat at climate talks</a> Politico: After four years of taking a backseat role under Donald Trump, the Biden administration was a driving force at the Glasgow COP26 talks. But winning a strong global agreement remains difficult. 
  <p class="updated_time"> 05:41 PM CT, Nov. 13 </p> 
  <a href="https://www.cnn.com/2021/11/13/politics/political-typology-spectrum-what-matters/index.html">There are 9 political types in the US. Which are you?</a> CNN: There are Democrats and Republicans in office, and we refer to them as Democrats and Republicans in this newsletter because that's how they vote. 
  <p class="updated_time"> 05:40 PM CT, Nov. 13 </p> 
@@ -354,8 +358,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/12/for-2nd-straight-month-americans-quit-jobs-at-a-record-pace-521116">For 2nd straight month, Americans quit jobs at a record pace</a> Politico: The figures point to a historic level of turmoil in the job market as newly-empowered workers quit jobs to take higher pay that is being dangled by businesses in need of help 
  <p class="updated_time"> 11:40 AM CT, Nov. 12 </p> 
  <a href="https://www.npr.org/2021/11/12/1055096462/lawyer-for-mark-meadows-says-courts-will-have-to-resolve-jan-6-panel-dispute">Mark Meadows' "defiance" could lead to contempt referral, Jan. 6 panel says</a> NPR: The former White House chief of staff may be looking to the courts for relief, but his path sets him on a collision course with the House. 
- <p class="updated_time"> 11:22 AM CT, Nov. 12 </p> 
- <a href="https://www.politico.com/news/2021/11/12/myanmar-court-sentences-us-journalist-to-11-years-in-jail-521109">Myanmar court sentences U.S. journalist to 11 years in jail</a> Politico: Danny Fenster, managing editor Frontier Myanmar, is still facing additional charges under which he could receive up to life in prison. 
  <p class="updated_time"> 11:14 AM CT, Nov. 12 </p> 
  <a href="https://www.politico.com/news/2021/11/12/biden-asian-summit-offer-blocked-521103">Russia suspected of blocking Biden's bid to host Asian summit</a> Politico: Failure to agree on Biden's offer to host risks jeopardizing U.S. support for the Asia-Pacific Economic Cooperation forum. 
  <p class="updated_time"> 10:54 AM CT, Nov. 12 </p> 
@@ -456,8 +458,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/08/republican-wave-house-congress-520238">Republican wave builds to take back the House</a> Politico: A combination of aggressive redistricting, strong fundraising and a favorable political environment has the GOP excited about its prospects in next year's midterms. 
  <p class="updated_time"> 11:17 AM CT, Nov. 07 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/07/what-happens-in-vegas-495006">POLITICO Playbook: What happens in Vegas …</a> Politico: And a court temporarily blocks Biden’s vaccine mandate. 
- <p class="updated_time"> 10:27 AM CT, Nov. 07 </p> 
- <a href="https://www.politico.com/news/2021/11/07/murthy-vaccine-mandate-biden-520015">Surgeon general defends embattled vaccine mandate</a> Politico: “It’s a necessary step to accelerate our pathway out of the pandemic,” Vivek Murthy said. 
 
 
 </details>
