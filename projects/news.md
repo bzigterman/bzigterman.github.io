@@ -7,14 +7,14 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:16 AM CT, Nov. 14 </p> 
+ <a href="https://www.nytimes.com/2021/11/14/world/africa/sierra-leone-explosion-healthcare.html">Sierra Leone Explosion Kills More and Strains Health System</a> NYT: Victims are still dying from injuries after a fuel tanker burst into flames last week in Sierra Leone, a country that has no burn units. 
  <p class="updated_time"> 08:49 AM CT, Nov. 14 </p> 
  <a href="https://www.bbc.co.uk/news/uk-59280241?at_medium=RSS&at_campaign=KARANGA">China and India must explain themselves - COP president</a> BBC: COP26 President Alok Sharma speaks after an agreement to "phase down" coal rather than "phase out". 
  <p class="updated_time"> 08:42 AM CT, Nov. 14 </p> 
  <a href="https://www.nytimes.com/2021/11/14/world/asia/rohingya-refugees-bangladesh.html">They Warned Their Names Were on a Hit List. They Were Killed.</a> NYT: In less than a month, assassins have killed at least eight people in the Rohingya refugee camps of Bangladesh, silencing those who have dared to speak out against the violent gangs. 
  <p class="updated_time"> 08:26 AM CT, Nov. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59280215?at_medium=RSS&at_campaign=KARANGA">Saif al-Islam Gaddafi: Son of Libya ex-ruler runs for president</a> BBC: Saif al-Islam Gaddafi, wanted on war crimes charges at an international court, registers as a candidate. 
- <p class="updated_time"> 08:17 AM CT, Nov. 14 </p> 
- <a href="https://www.nytimes.com/2021/11/14/world/africa/sierra-leone-explosion-healthcare.html">Sierra Leone Explosion Kills More and Strains Health System</a> NYT: Victims are still dying from injuries after a fuel tanker burst into flames last week in Sierra Leone, a country that has no burn units. 
  <p class="updated_time"> 07:44 AM CT, Nov. 14 </p> 
  <a href="https://www.nytimes.com/2021/11/14/world/europe/queen-elizabeth-health.html">Queen Elizabeth Misses Remembrance Service Because of Sprained Back</a> NYT: The British monarch, 95, has put off multiple trips and engagements recently, and the latest cancellation has deepened anxiety about her health. She has now been out of sight since mid-October. 
  <p class="updated_time"> 07:25 AM CT, Nov. 14 </p> 
@@ -220,20 +220,34 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:12 AM CT, Nov. 14 </p> 
+ <a href="https://www.politico.com/news/2021/11/14/barrasso-trump-hang-pence-521960">Sen. Barrasso declines to condemn Trump over Pence remarks</a> Politico: The Wyoming Republican called the former president “an enduring force” 
+ <p class="updated_time"> 10:12 AM CT, Nov. 14 </p> 
+ <a href="https://www.politico.com/news/2021/11/14/barrasso-trump-hang-pence-521960">Sen. Barrasso declines to condemn Trump over Pence remarks</a> Politico: The Wyoming Republican called the former president “an enduring force” 
+ <p class="updated_time"> 10:02 AM CT, Nov. 14 </p> 
+ <a href="https://www.politico.com/news/2021/11/14/inflation-yellen-covid-midterms-521951">Will inflation ease by next November? That depends on Covid, Yellen says</a> Politico: “The pandemic has been calling the shots for the economy and for inflation,” Janet Yellen said. 
  <p class="updated_time"> 09:15 AM CT, Nov. 14 </p> 
  <a href="https://www.politico.com/news/2021/11/14/schumer-schedule-reconciliation-bill-521931">Schumer shakes up schedule as reconciliation bill slog continues</a> Politico: The Biden White House’s social spending plan will probably have to wait some more. 
  <p class="updated_time"> 09:15 AM CT, Nov. 14 </p> 
  <a href="https://www.politico.com/news/2021/11/14/schumer-schedule-reconciliation-bill-521931">Schumer shakes up schedule as reconciliation bill slog continues</a> Politico: The Biden White House’s social spending plan will probably have to wait some more. 
+ <p class="updated_time"> 09:14 AM CT, Nov. 14 </p> 
+ <a href="https://www.cnn.com/2021/11/14/politics/anthony-gonzalez-donald-trump-cnntv/index.html">Rep. Anthony Gonzalez: 'The cold hard truth is Donald Trump led us into a ditch on January 6'</a> CNN: Rep. Anthony Gonzalez of Ohio, a House Republican who voted to impeach former President Donald Trump in his second impeachment trial earlier this year, repeatedly slammed Trump in an extensive sit-down interview with CNN's Jake Tapper. 
  <p class="updated_time"> 08:46 AM CT, Nov. 14 </p> 
  <a href="https://www.politico.com/news/2021/11/14/samantha-power-usaid-future-515606">Power moves: Samantha Power’s celebrity draws spotlight to USAID — and questions about her future</a> Politico: The longtime human rights crusader is energizing an agency few Americans know about, while fueling speculation about her next step. 
  <p class="updated_time"> 08:45 AM CT, Nov. 14 </p> 
  <a href="https://www.nytimes.com/2021/11/14/business/economy/farm-exports-supply-chain-ports.html">Crunch at Ports May Mean Crisis for American Farms</a> NYT: Backlogs and cancellations are hitting growers as costs rise, profits slump and overseas customers shop elsewhere. 
+ <p class="updated_time"> 08:06 AM CT, Nov. 14 </p> 
+ <a href="https://www.cnn.com/2021/11/14/politics/biden-approval-rating/index.html">Can Biden revive his popularity in time for midterm elections? </a> CNN: From Virginia to New Jersey, Democratic election woes this month had a common thread: the unpopularity of President Joe Biden. 
+ <p class="updated_time"> 08:06 AM CT, Nov. 14 </p> 
+ <a href="https://www.cnn.com/2021/11/14/politics/chris-christie-predictions-trump-2024/index.html">Chris Christie: 'The idea of making predictions for 2024 is folly'</a> CNN: Former New Jersey Gov. Chris Christie -- who has been outspoken against former President Donald Trump's lies about the 2020 election results -- says he does not want to make predictions about 2024 and is unsure whether he or Trump will run again. 
  <p class="updated_time"> 07:44 AM CT, Nov. 14 </p> 
  <a href="https://www.politico.com/news/2021/11/14/pope-francis-poor-injustice-521896">Pope: The poor are often victims of injustice</a> Politico: He celebrated Sunday Mass in St. Peter’s Basilica attended by 2,000 indigent people. 
  <p class="updated_time"> 07:05 AM CT, Nov. 14 </p> 
  <a href="https://www.npr.org/2021/11/14/1055640638/week-in-politics-infrastructure-bill-provides-money-for-bridges-broadband-and-mo">Week in politics: Infrastructure bill provides money for bridges, broadband and more</a> NPR: At long last, President Biden plans to sign the bipartisan infrastructure bill Monday. Plus, he'll attend a virtual summit with Chinese leader Xi Jinping. 
  <p class="updated_time"> 07:05 AM CT, Nov. 14 </p> 
  <a href="https://www.npr.org/2021/11/14/1055640610/vice-president-harris-returns-from-diplomatic-debut-in-europe">Vice President Harris returns from diplomatic debut in Europe</a> NPR: Vice President Harris is back from France, where she took center stage among a large group of world leaders. 
+ <p class="updated_time"> 07:01 AM CT, Nov. 14 </p> 
+ <a href="https://www.cnn.com/2021/11/14/politics/covid-vaccine-misinformation-fact-check/index.html">Fact-checking 5 viral Covid-19 vaccine falsehoods</a> CNN: Since vaccines were first authorized for use nearly a year ago, swarms of anti-vaxxers have pushed a variety of unfounded claims suggesting the vaccine is unsafe and urging people not to receive one. 
  <p class="updated_time"> 07:01 AM CT, Nov. 14 </p> 
  <a href="https://www.politico.com/news/2021/11/14/gop-trump-pennsylvania-suburbs-521655">GOP roars back to life in Trump-resistant Pennsylvania suburbs</a> Politico: The Republican rebound suggests the Democratic suburban slide reaches beyond Virginia and New Jersey. 
  <p class="updated_time"> 06:30 AM CT, Nov. 14 </p> 
@@ -247,14 +261,11 @@ permalink: /projects/news/
  <p class="updated_time"> 09:23 PM CT, Nov. 13 </p> 
  <a href="https://www.cnn.com/2021/11/13/politics/alyssa-farah-january-6-committee-process/index.html">Ex-Trump White House official calls January 6 committee's process 'comprehensive and deliberative'</a> CNN: A former White House official says the House select committee investigating the January 6 attack on the US Capitol is mounting "a very comprehensive and deliberative process," following her own testimony to Republicans on the committee earlier this year. 
  <p class="updated_time"> 08:43 PM CT, Nov. 13 </p> 
- <a href="https://www.cnn.com/2021/11/13/politics/pentagon-oklahoma-national-guard-vaccine-mandate/index.html">Pentagon says it will respond 'appropriately' after Oklahoma National Guard rejects federal vaccine mandate 
-</a> CNN: The Pentagon said it would respond to Oklahoma's Republican governor after the state's National Guard indicated it would thwart a Defense Department mandate that troops be vaccinated against Covid-19. 
+ <a href="https://www.cnn.com/2021/11/13/politics/pentagon-oklahoma-national-guard-vaccine-mandate/index.html">Pentagon says it will respond to Oklahoma's governor after state's National Guard rejects its vaccine mandate</a> CNN: The Pentagon said it would respond to Oklahoma's Republican governor after the state's National Guard indicated it would thwart a Defense Department mandate that troops be vaccinated against Covid-19. 
  <p class="updated_time"> 08:29 PM CT, Nov. 13 </p> 
  <a href="https://www.politico.com/news/2021/11/13/coalglasgow-climate-deal-521802">The last-minute coal demand that almost sunk the Glasgow climate deal</a> Politico: At issue was a late push from China and India. 
  <p class="updated_time"> 07:02 PM CT, Nov. 13 </p> 
  <a href="https://www.politico.com/news/2021/11/13/climate-talks-glasgow-521720">The U.S. turns up the heat at climate talks</a> Politico: After four years of taking a backseat role under Donald Trump, the Biden team was a driving force at the Glasgow COP26 talks. But winning a strong global agreement remains difficult. 
- <p class="updated_time"> 05:41 PM CT, Nov. 13 </p> 
- <a href="https://www.cnn.com/2021/11/13/politics/political-typology-spectrum-what-matters/index.html">There are 9 political types in the US. Which are you?</a> CNN: There are Democrats and Republicans in office, and we refer to them as Democrats and Republicans in this newsletter because that's how they vote. 
  <p class="updated_time"> 05:40 PM CT, Nov. 13 </p> 
  <a href="https://www.cnn.com/2021/11/13/politics/fact-check-vaccinated-plane-tantrum-video-prince-ea/index.html">Fact check: Viral video purporting to show vaccinated woman's plane tantrum is fake</a> CNN: A video of a maskless woman having a tantrum on an airplane -- threatening to call the police because she is being forced to sit next to a man she presumes is unvaccinated -- has gone extraordinarily viral on social media. 
  <p class="updated_time"> 04:51 PM CT, Nov. 13 </p> 
@@ -281,16 +292,12 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/11/13/bannon-indicted-britney-freed-495092">POLITICO Playbook: Bannon indicted, Britney freed</a> Politico: And an appeals court extends a stay for the Biden administration's vaccine-or-test mandate. 
  <p class="updated_time"> 10:16 AM CT, Nov. 13 </p> 
  <a href="https://www.politico.com/news/2021/11/13/raid-veritas-okeefe-biden-press-521307">FBI raid on Project Veritas founder’s home sparks questions about press freedom</a> Politico: The action against James O’Keefe has prompted concern about the Biden administration’s commitment to the First Amendment. 
- <p class="updated_time"> 09:46 AM CT, Nov. 13 </p> 
- <a href="https://www.cnn.com/2021/11/13/politics/biden-vaccine-mandate-fifth-circuit-appeals/index.html">Federal appeals court reaffirms its decision to freeze Biden's vaccine mandate</a> CNN: A federal appeals court on Friday reaffirmed its earlier decision to freeze the Biden administration's vaccine mandate, calling the requirement for large employers to make sure its employees are vaccinated against Covid-19 "staggeringly overbroad." 
  <p class="updated_time"> 09:39 AM CT, Nov. 13 </p> 
  <a href="https://www.nytimes.com/2021/11/13/us/politics/chris-christie-book-trump.html">What's in Chris Christie's New Book</a> NYT: In a new book and in an interview, Mr. Christie says that if the former president wants to be a positive force, “he’s got to let this other stuff go.” 
  <p class="updated_time"> 08:16 AM CT, Nov. 13 </p> 
  <a href="https://www.cnn.com/2021/11/13/politics/kamala-harris-france-trip/index.html">Harris' trip to Paris signals a relationship back on track</a> CNN: As French President Emmanuel Macron arrived at the Arc de Triomphe for a national televised Armistice Day Ceremony, Vice President Kamala Harris -- donning the traditional bleuet de France honoring veterans -- waited to greet him. 
  <p class="updated_time"> 08:01 AM CT, Nov. 13 </p> 
  <a href="https://www.politico.com/news/2021/11/13/africa-great-green-wall-521292">Africa’s ‘Great Green Wall’ shifts focus to hold off desert</a> Politico: Only 4% of the Great Green Wall’s original goal has been met, and an estimated $43 billion would be needed to achieve the rest. 
- <p class="updated_time"> 07:43 AM CT, Nov. 13 </p> 
- <a href="https://www.cnn.com/2021/11/13/politics/steve-bannon-january-6-indictment/index.html">Bannon's indictment may mark a turning point</a> CNN: The indictment of former President Donald Trump's chief strategist Steve Bannon on charges of criminal contempt of Congress on Friday sent shock waves through Washington -- serving as a powerful warning to other potential witnesses that there will be consequences for defying the House select committee investigating the January 6 attack on the US Capitol. 
  <p class="updated_time"> 07:02 AM CT, Nov. 13 </p> 
  <a href="https://www.politico.com/news/2021/11/13/democrats-drug-prices-521213">Dems’ plan to limit drug price inflation faces test in Senate</a> Politico: Attempts at price controls have to conform with the parameters of the  reconciliation process they’re hoping to use to pass the social spending package on a party-line vote. 
  <p class="updated_time"> 07:02 AM CT, Nov. 13 </p> 
@@ -307,28 +314,20 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/12/federal-court-biden-vaccine-or-test-mandate-521233">Federal court extends stay of Biden administration's vaccine-or-test mandate</a> Politico: The Biden administration is likely to appeal the panel's decision to the full court. 
  <p class="updated_time"> 09:50 PM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/us/politics/court-vaccine-mandate.html">Appeals Court Extends Block on Biden’s Vaccine Mandate for Employers</a> NYT: A three-judge panel of the U.S. Court of Appeals for the Fifth Circuit held that challengers were likely to succeed in their claim that the mandate was an unlawful overreach. 
- <p class="updated_time"> 08:37 PM CT, Nov. 12 </p> 
- <a href="https://www.politico.com/news/2021/11/12/jury-rittenhouse-lesser-charges-521226">Jury to get to weigh some lesser charges in Rittenhouse case</a> Politico: Jurors are expected to begin deliberating on Monday after closing arguments. 
  <p class="updated_time"> 08:33 PM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/us/politics/biden-china-xi-jinping.html">Biden and China’s Xi Will Hold Virtual Summit on Monday</a> NYT: The leaders of the world’s two largest economies confront tensions over trade, cyberthreats, the climate, Taiwan and human rights. 
  <p class="updated_time"> 08:24 PM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/11/us/politics/project-veritas-journalism-political-spying.html">Project Veritas: Journalists or Political Spies? </a> NYT: Documents show how the conservative group worked with lawyers to gauge how far its deceptive reporting practices could go before running afoul of federal laws. 
- <p class="updated_time"> 07:14 PM CT, Nov. 12 </p> 
- <a href="https://www.cnn.com/2021/11/12/politics/steve-bannon-indicted/index.html">Federal grand jury indicts Steve Bannon for contempt of Congress</a> CNN: A federal grand jury has returned an indictment against former Trump adviser Steve Bannon, CNN has learned. 
  <p class="updated_time"> 07:07 PM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/us/politics/project-veritas-ashley-biden-diary.html">Project Veritas Tells Judge It Was Assured Biden Diary Was Legally Obtained</a> NYT: But a search warrant in the case suggests the Justice Department believes the diary kept by the president’s daughter Ashley Biden was stolen. 
- <p class="updated_time"> 06:54 PM CT, Nov. 12 </p> 
- <a href="https://www.cnn.com/2021/11/12/politics/adam-kinzinger-bannon-indictment-contempt-of-congress-cnntv/index.html">Kinzinger says he hopes Bannon indictment for contempt of Congress 'sends a chilling message'</a> CNN: Rep. Adam Kinzinger, one of two Republicans on the House select committee investigating January 6, said Friday that he hopes a federal grand jury's indictment of Steve Bannon for contempt of Congress "sends a chilling message" to anyone considering not cooperating with the panel. 
  <p class="updated_time"> 06:49 PM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/us/politics/republican-violent-rhetoric.html">Menace Enters the Republican Mainstream</a> NYT: Threats of violence have become commonplace among a significant part of the party, as historians and those who study democracy warn of a dark shift in American politics. 
  <p class="updated_time"> 06:38 PM CT, Nov. 12 </p> 
  <a href="https://www.cnn.com/2021/11/12/politics/mark-meadows-january-6-deposition/index.html">Mark Meadows did not appear for deposition with January 6 committee</a> CNN: Former Trump White House Chief of Staff Mark Meadows did not appear in person for a deposition on Friday in front of the House select committee investigating January 6, setting up a potential showdown that could lead to the panel beginning a criminal referral process against him. 
  <p class="updated_time"> 06:12 PM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/us/politics/bannon-indicted.html">Bannon Indicted on Contempt Charges Over House’s Capitol Riot Inquiry</a> NYT: Stephen K. Bannon, a former top aide to Donald Trump, had refused to comply with subpoenas from the House committee investigating the Jan. 6 attack on Congress. 
- <p class="updated_time"> 06:03 PM CT, Nov. 12 </p> 
- <a href="https://www.cnn.com/2021/11/12/politics/trump-lawsuits-michael-cohen-summer-zervos/index.html">Trump scores legal wins with one lawsuit dropped and another dismissed</a> CNN: Former President Donald Trump scored two big legal victories Friday and avoided having to sit for a deposition in a defamation lawsuit after former "Apprentice" contestant Summer Zervos agreed to drop her claims, according to a court filing, and a New York judge granted Trump's motion to dismiss a 2019 lawsuit filed by his former personal attorney Michael Cohen against the Trump Organization. 
- <p class="updated_time"> 05:30 PM CT, Nov. 12 </p> 
- <a href="https://www.cnn.com/2021/11/12/politics/free-joe-biden-2022-infrastructure-dccc/index.html">Analysis: Is 'Free Joe Biden' the answer to Democrats' problems? </a> CNN: In the wake of a disastrous 2021 election for Democrats, the man charged with keeping his party in the House majority had a very interesting prescription for how make that a reality. 
+ <p class="updated_time"> 04:33 PM CT, Nov. 12 </p> 
+ <a href="https://www.cnn.com/2021/11/12/politics/biden-admin-ethiopia-eritrea-sanctions/index.html">Biden administration sanctions Eritrean military, ruling party over role in northern Ethiopia conflict</a> CNN: The Biden administration sanctioned Eritrea's military and sole political party for their involvement in the ongoing crisis in northern Ethiopia. 
  <p class="updated_time"> 04:09 PM CT, Nov. 12 </p> 
  <a href="https://www.politico.com/news/2021/11/12/steve-bannon-indicted-for-defying-jan-6-committee-investigation-521177">Steve Bannon indicted for defying Jan. 6 committee investigation</a> Politico: The House referred Bannon to the Justice Department for prosecution last month after he refused to cooperate with a congressional subpoena. 
  <p class="updated_time"> 04:03 PM CT, Nov. 12 </p> 
@@ -345,8 +344,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/12/us/politics/pell-grants-for-profit-colleges-aid.html">Democrats’ Bill Would Deny For-Profit College Students Extra Aid</a> NYT: Critics say a little-noticed provision would hurt the very constituencies — people of color, the working class, low-income Americans — that the party typically champions. 
  <p class="updated_time"> 02:29 PM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/us/politics/murkowski-re-election-bid.html">Murkowski Announces Re-election Bid, Setting Up Clash With Trump</a> NYT: Of the seven Republicans who found former President Donald J. Trump guilty in his second impeachment trial, the Alaska senator is the only one facing re-election this year. 
- <p class="updated_time"> 02:09 PM CT, Nov. 12 </p> 
- <a href="https://www.politico.com/news/2021/11/12/virtual-biden-xi-summit-521147">Virtual Biden-Xi summit set for Monday</a> Politico: The summit will be virtual because Xi is declining invitations to attend all events outside China. 
  <p class="updated_time"> 01:40 PM CT, Nov. 12 </p> 
  <a href="https://www.cnn.com/2021/11/12/politics/psaki-returns-white-house-covid/index.html">Jen Psaki returns to White House briefing room after testing positive for Covid-19</a> CNN: White House press secretary Jen Psaki returned to the White House briefing room Friday for the first time since testing positive for Covid-19, telling reporters she completed a 10-day quarantine and received a negative Covid-19 test on Thursday. 
  <p class="updated_time"> 01:21 PM CT, Nov. 12 </p> 
@@ -357,6 +354,8 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/12/politics/paul-gosar-censure-resolution-introduced/index.html">House Democrats introduce resolution censuring Rep. Gosar for video depicting violence against Ocasio-Cortez and Biden</a> CNN: House Democrats plan to introduce a resolution Friday to censure Arizona Republican Rep. Paul Gosar for posting a photoshopped anime video to his Twitter and Instagram accounts showing him appearing to kill Democratic Rep. Alexandria Ocasio-Cortez and attacking President Joe Biden. 
  <p class="updated_time"> 01:00 PM CT, Nov. 12 </p> 
  <a href="https://www.politico.com/news/2021/11/12/trump-cdc-covid-521128">Emails reveal new details of Trump White House interference in CDC Covid planning</a> Politico: The documents released by a congressional committee lay out a timeline for how the Trump White House began to downplay the dangers posed by Covid-19. 
+ <p class="updated_time"> 11:31 AM CT, Nov. 12 </p> 
+ <a href="https://www.cnn.com/2021/11/11/politics/xi-jinping-joe-biden-virtual-summit/index.html">Biden to hold virtual summit with Chinese President Xi Jinping on Monday</a> CNN: President Joe Biden's highly anticipated virtual summit with Chinese President Xi Jinping is expected to take place on Monday, people familiar with the matter say. 
  <p class="updated_time"> 10:54 AM CT, Nov. 12 </p> 
  <a href="https://www.cnn.com/2021/11/12/politics/rob-califf-fda-commissioner/index.html">Biden picks Dr. Rob Califf as FDA commissioner</a> CNN: President Joe Biden will nominate Dr. Rob Califf, a longtime cardiologist, to be the next commissioner of the Food and Drug Administration, a role Califf previously held during the Obama administration. 
  <p class="updated_time"> 08:52 AM CT, Nov. 12 </p> 
@@ -411,6 +410,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/huddle/2021/11/11/just-checking-the-cbo-score-495067">Just checking the (CBO) score</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:16 AM CT, Nov. 11 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/11/the-other-big-intra-democratic-fight-495065">POLITICO Playbook: The other big intra-Democratic fight</a> Politico: And the inflation jump turns the temperature up. 
+ <p class="updated_time"> 06:05 AM CT, Nov. 11 </p> 
+ <a href="https://www.cnn.com/2021/11/11/politics/joe-biden-inflation-messaging/index.html">Biden changes his tone and walks a delicate line on inflation</a> CNN: Rising consumer prices have quickly become one of the White House's most urgent concerns as Americans grow unsettled at the higher cost of goods -- and place the blame on President Joe Biden. 
  <p class="updated_time"> 04:30 AM CT, Nov. 11 </p> 
  <a href="https://www.politico.com/news/2021/11/11/bidens-voters-recovery-conundrum-520771">Biden's ‘I feel your pain’ conundrum</a> Politico: It’s tripped up the last two Democratic presidents and could trip up Biden too: How to sell a recovery when most voters aren’t feeling it. 
  <p class="updated_time"> 06:28 PM CT, Nov. 10 </p> 
