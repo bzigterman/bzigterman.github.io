@@ -833,13 +833,13 @@ permalink: /projects/economy/
 <details>
 <summary><h2>Champaign County</h2></summary>
 
-<img src="{{ site.baseurl }}/plots/champaign_unemployment_rate.png" alt="Champaign County Unemployment Rate">
+<img src="\{\{ site.baseurl \}\}/plots/champaign_unemployment_rate.png" alt="Champaign County Unemployment Rate">
 
-<img src="{{ site.baseurl }}/plots/champaign_employment.png" alt="Champaign County Employment">
+<img src="\{\{ site.baseurl \}\}/plots/champaign_employment.png" alt="Champaign County Employment">
 
-<img src="{{ site.baseurl }}/plots/champaign_population.png" alt="Champaign County Population">
+<img src="\{\{ site.baseurl \}\}/plots/champaign_population.png" alt="Champaign County Population">
 
-<img src="{{ site.baseurl }}/plots/champaign_housing.png" alt="Champaign County Housing">
+<img src="\{\{ site.baseurl \}\}/plots/champaign_housing.png" alt="Champaign County Housing">
 
 ",better_cu_housing_table_html,"
 
@@ -848,7 +848,7 @@ permalink: /projects/economy/
 <details>
 <summary><h2>Illinois</h2></summary>
 
-<img src="{{ site.baseurl }}/plots/il_flash_index.png" alt="Flash Index">
+<img src="\{\{ site.baseurl \}\}/plots/il_flash_index.png" alt="Flash Index">
 
 Source: <a href="https://igpa.uillinois.edu/page/flash-index-archive">Institute of Government and Public Affairs at the University of Illinois</a>
 
@@ -857,21 +857,21 @@ Source: <a href="https://igpa.uillinois.edu/page/flash-index-archive">Institute 
 <details>
 <summary><h2>United States</h2></summary>
 
-<img src="{{ site.baseurl }}/plots/unemployment_rate.png" alt="Unemployment Rate">
+<img src="\{\{ site.baseurl \}\}/plots/unemployment_rate.png" alt="Unemployment Rate">
 
-<img src="{{ site.baseurl }}/plots/employment.png" alt="Employment">
+<img src="\{\{ site.baseurl \}\}/plots/employment.png" alt="Employment">
 
-<img src="{{ site.baseurl }}/plots/consumer_price_index.png" alt="Inflation">
+<img src="\{\{ site.baseurl \}\}/plots/consumer_price_index.png" alt="Inflation">
 
-<img src="{{ site.baseurl }}/plots/retail_sales.png" alt="Retail Sales">
+<img src="\{\{ site.baseurl \}\}/plots/retail_sales.png" alt="Retail Sales">
 
-<img src="{{ site.baseurl }}/plots/durable_goods.png" alt="Durable Goods">
+<img src="\{\{ site.baseurl \}\}/plots/durable_goods.png" alt="Durable Goods">
 
-<img src="{{ site.baseurl }}/plots/consumer_sentiment.png" alt="Consumer Sentiment">
+<img src="\{\{ site.baseurl \}\}/plots/consumer_sentiment.png" alt="Consumer Sentiment">
 
-<img src="{{ site.baseurl }}/plots/gdp.png" alt="Real GDP">
+<img src="\{\{ site.baseurl \}\}/plots/gdp.png" alt="Real GDP">
 
-<img src="{{ site.baseurl }}/plots/real_median_income.png" alt="Real Median Income">
+<img src="\{\{ site.baseurl \}\}/plots/real_median_income.png" alt="Real Median Income">
 
 </details>
 
