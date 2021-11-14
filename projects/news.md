@@ -226,6 +226,10 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/14/barrasso-trump-hang-pence-521960">Sen. Barrasso declines to condemn Trump over Pence remarks</a> Politico: The Wyoming Republican called the former president “an enduring force” 
  <p class="updated_time"> 10:02 AM CT, Nov. 14 </p> 
  <a href="https://www.politico.com/news/2021/11/14/inflation-yellen-covid-midterms-521951">Will inflation ease by next November? That depends on Covid, Yellen says</a> Politico: “The pandemic has been calling the shots for the economy and for inflation,” Janet Yellen said. 
+ <p class="updated_time"> 09:26 AM CT, Nov. 14 </p> 
+ <a href="https://www.cnn.com/2021/11/14/politics/chris-christie-predictions-trump-2024/index.html">Chris Christie: 'The idea of making predictions for 2024 is folly'</a> CNN: Former New Jersey Gov. Chris Christie -- who has been outspoken against former President Donald Trump's lies about the 2020 election results -- says he does not want to make predictions about 2024 and is unsure whether he or Trump will run again. 
+ <p class="updated_time"> 09:19 AM CT, Nov. 14 </p> 
+ <a href="https://www.cnn.com/2021/11/14/politics/brian-deese-inflation-cnntv/index.html">Biden's top economic adviser urges passage of economic bill to combat rising inflation</a> CNN: President Joe Biden's top economic adviser on Sunday cited rising inflation in the US as a reason for Congress to pass the President's massive economic package, arguing the legislation will help stymie rapidly rising prices of consumer goods. 
  <p class="updated_time"> 09:15 AM CT, Nov. 14 </p> 
  <a href="https://www.politico.com/news/2021/11/14/schumer-schedule-reconciliation-bill-521931">Schumer shakes up schedule as reconciliation bill slog continues</a> Politico: The Biden White House’s social spending plan will probably have to wait some more. 
  <p class="updated_time"> 09:15 AM CT, Nov. 14 </p> 
@@ -238,8 +242,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/14/business/economy/farm-exports-supply-chain-ports.html">Crunch at Ports May Mean Crisis for American Farms</a> NYT: Backlogs and cancellations are hitting growers as costs rise, profits slump and overseas customers shop elsewhere. 
  <p class="updated_time"> 08:06 AM CT, Nov. 14 </p> 
  <a href="https://www.cnn.com/2021/11/14/politics/biden-approval-rating/index.html">Can Biden revive his popularity in time for midterm elections? </a> CNN: From Virginia to New Jersey, Democratic election woes this month had a common thread: the unpopularity of President Joe Biden. 
- <p class="updated_time"> 08:06 AM CT, Nov. 14 </p> 
- <a href="https://www.cnn.com/2021/11/14/politics/chris-christie-predictions-trump-2024/index.html">Chris Christie: 'The idea of making predictions for 2024 is folly'</a> CNN: Former New Jersey Gov. Chris Christie -- who has been outspoken against former President Donald Trump's lies about the 2020 election results -- says he does not want to make predictions about 2024 and is unsure whether he or Trump will run again. 
  <p class="updated_time"> 07:44 AM CT, Nov. 14 </p> 
  <a href="https://www.politico.com/news/2021/11/14/pope-francis-poor-injustice-521896">Pope: The poor are often victims of injustice</a> Politico: He celebrated Sunday Mass in St. Peter’s Basilica attended by 2,000 indigent people. 
  <p class="updated_time"> 07:05 AM CT, Nov. 14 </p> 
@@ -314,6 +316,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/12/federal-court-biden-vaccine-or-test-mandate-521233">Federal court extends stay of Biden administration's vaccine-or-test mandate</a> Politico: The Biden administration is likely to appeal the panel's decision to the full court. 
  <p class="updated_time"> 09:50 PM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/us/politics/court-vaccine-mandate.html">Appeals Court Extends Block on Biden’s Vaccine Mandate for Employers</a> NYT: A three-judge panel of the U.S. Court of Appeals for the Fifth Circuit held that challengers were likely to succeed in their claim that the mandate was an unlawful overreach. 
+ <p class="updated_time"> 08:37 PM CT, Nov. 12 </p> 
+ <a href="https://www.politico.com/news/2021/11/12/jury-rittenhouse-lesser-charges-521226">Jury to get to weigh some lesser charges in Rittenhouse case</a> Politico: Jurors are expected to begin deliberating on Monday after closing arguments. 
  <p class="updated_time"> 08:33 PM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/us/politics/biden-china-xi-jinping.html">Biden and China’s Xi Will Hold Virtual Summit on Monday</a> NYT: The leaders of the world’s two largest economies confront tensions over trade, cyberthreats, the climate, Taiwan and human rights. 
  <p class="updated_time"> 08:24 PM CT, Nov. 12 </p> 
@@ -328,8 +332,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/12/us/politics/bannon-indicted.html">Bannon Indicted on Contempt Charges Over House’s Capitol Riot Inquiry</a> NYT: Stephen K. Bannon, a former top aide to Donald Trump, had refused to comply with subpoenas from the House committee investigating the Jan. 6 attack on Congress. 
  <p class="updated_time"> 04:33 PM CT, Nov. 12 </p> 
  <a href="https://www.cnn.com/2021/11/12/politics/biden-admin-ethiopia-eritrea-sanctions/index.html">Biden administration sanctions Eritrean military, ruling party over role in northern Ethiopia conflict</a> CNN: The Biden administration sanctioned Eritrea's military and sole political party for their involvement in the ongoing crisis in northern Ethiopia. 
- <p class="updated_time"> 04:09 PM CT, Nov. 12 </p> 
- <a href="https://www.politico.com/news/2021/11/12/steve-bannon-indicted-for-defying-jan-6-committee-investigation-521177">Steve Bannon indicted for defying Jan. 6 committee investigation</a> Politico: The House referred Bannon to the Justice Department for prosecution last month after he refused to cooperate with a congressional subpoena. 
  <p class="updated_time"> 04:03 PM CT, Nov. 12 </p> 
  <a href="https://www.npr.org/2021/11/12/1055366694/how-a-powerful-new-jersey-senate-president-lost-his-seat-to-an-unknown-truck-dri">How a powerful New Jersey Senate president lost his seat to an unknown truck driver</a> NPR: There was enough working against Democrats inside and outside of New Jersey for the powerful state Senate president to lose his seat to a truck driver with no political experience. 
  <p class="updated_time"> 04:03 PM CT, Nov. 12 </p> 
@@ -354,8 +356,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/12/politics/paul-gosar-censure-resolution-introduced/index.html">House Democrats introduce resolution censuring Rep. Gosar for video depicting violence against Ocasio-Cortez and Biden</a> CNN: House Democrats plan to introduce a resolution Friday to censure Arizona Republican Rep. Paul Gosar for posting a photoshopped anime video to his Twitter and Instagram accounts showing him appearing to kill Democratic Rep. Alexandria Ocasio-Cortez and attacking President Joe Biden. 
  <p class="updated_time"> 01:00 PM CT, Nov. 12 </p> 
  <a href="https://www.politico.com/news/2021/11/12/trump-cdc-covid-521128">Emails reveal new details of Trump White House interference in CDC Covid planning</a> Politico: The documents released by a congressional committee lay out a timeline for how the Trump White House began to downplay the dangers posed by Covid-19. 
- <p class="updated_time"> 11:31 AM CT, Nov. 12 </p> 
- <a href="https://www.cnn.com/2021/11/11/politics/xi-jinping-joe-biden-virtual-summit/index.html">Biden to hold virtual summit with Chinese President Xi Jinping on Monday</a> CNN: President Joe Biden's highly anticipated virtual summit with Chinese President Xi Jinping is expected to take place on Monday, people familiar with the matter say. 
  <p class="updated_time"> 10:54 AM CT, Nov. 12 </p> 
  <a href="https://www.cnn.com/2021/11/12/politics/rob-califf-fda-commissioner/index.html">Biden picks Dr. Rob Califf as FDA commissioner</a> CNN: President Joe Biden will nominate Dr. Rob Califf, a longtime cardiologist, to be the next commissioner of the Food and Drug Administration, a role Califf previously held during the Obama administration. 
  <p class="updated_time"> 08:52 AM CT, Nov. 12 </p> 
@@ -428,8 +428,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/11/10/new-reminders-that-this-is-not-normal-495046">POLITICO Playbook: New reminders that this is not normal</a> Politico: And a new poll shows Biden's vaccine mandate losing support. 
  <p class="updated_time"> 04:31 AM CT, Nov. 10 </p> 
  <a href="https://www.politico.com/news/2021/11/10/schumer-billions-new-york-public-housing-520519">Schumer scores billions for New York's decaying public housing</a> Politico: The jockeying over the housing funds is one of many emerging sources of political tension surrounding President Joe Biden's bill. 
- <p class="updated_time"> 04:30 AM CT, Nov. 10 </p> 
- <a href="https://www.politico.com/news/2021/11/10/biden-vaccine-mandates-va-mcdonough-520564">Biden called for widespread mandates. His VA is navigating its own minefields.</a> Politico: An overwhelming number of staff have gotten vaccinated. But a month after the deadline, at least ten percent of a 380,000 health care workforce still haven’t. 
  <p class="updated_time"> 06:13 PM CT, Nov. 09 </p> 
  <a href="https://www.politico.com/news/2021/11/09/biden-infrastructure-republicans-committee-standing-520484">Biden denounces efforts to strip Republicans who supported infrastructure of committee standing</a> Politico: “If we don’t generate consensus in America, we’re in trouble,” Biden said. 
  <p class="updated_time"> 03:18 PM CT, Nov. 09 </p> 
