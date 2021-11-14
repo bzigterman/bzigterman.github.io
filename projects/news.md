@@ -353,12 +353,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/12/trump-cdc-covid-521128">Emails reveal new details of Trump White House interference in CDC Covid planning</a> Politico: The documents released by a congressional committee lay out a timeline for how the Trump White House began to downplay the dangers posed by Covid-19. 
  <p class="updated_time"> 12:34 PM CT, Nov. 12 </p> 
  <a href="https://www.npr.org/2021/11/12/1055057907/remembering-max-cleland-former-georgia-senator-and-vietnam-veteran">Remembering Max Cleland, former Georgia senator and Vietnam veteran</a> NPR: Cleland was a decorated Army veteran who lost three limbs while serving in Vietnam. After the the war, he dedicated his life to public service. He died Nov. 9. Originally broadcast in 2009. 
- <p class="updated_time"> 12:08 PM CT, Nov. 12 </p> 
- <a href="https://www.politico.com/news/2021/11/12/for-2nd-straight-month-americans-quit-jobs-at-a-record-pace-521116">For 2nd straight month, Americans quit jobs at a record pace</a> Politico: The figures point to a historic level of turmoil in the job market as newly-empowered workers quit jobs to take higher pay that is being dangled by businesses in need of help 
  <p class="updated_time"> 11:40 AM CT, Nov. 12 </p> 
  <a href="https://www.npr.org/2021/11/12/1055096462/lawyer-for-mark-meadows-says-courts-will-have-to-resolve-jan-6-panel-dispute">Mark Meadows' "defiance" could lead to contempt referral, Jan. 6 panel says</a> NPR: The former White House chief of staff may be looking to the courts for relief, but his path sets him on a collision course with the House. 
- <p class="updated_time"> 11:14 AM CT, Nov. 12 </p> 
- <a href="https://www.politico.com/news/2021/11/12/biden-asian-summit-offer-blocked-521103">Russia suspected of blocking Biden's bid to host Asian summit</a> Politico: Failure to agree on Biden's offer to host risks jeopardizing U.S. support for the Asia-Pacific Economic Cooperation forum. 
  <p class="updated_time"> 10:54 AM CT, Nov. 12 </p> 
  <a href="https://www.cnn.com/2021/11/12/politics/rob-califf-fda-commissioner/index.html">Biden picks Dr. Rob Califf as FDA commissioner</a> CNN: President Joe Biden will nominate Dr. Rob Califf, a longtime cardiologist, to be the next commissioner of the Food and Drug Administration, a role Califf previously held during the Obama administration. 
  <p class="updated_time"> 08:52 AM CT, Nov. 12 </p> 
@@ -453,6 +449,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/08/republican-wave-house-congress-520238">Republican wave builds to take back the House</a> Politico: A combination of aggressive redistricting, strong fundraising and a favorable political environment has the GOP excited about its prospects in next year's midterms. 
  <p class="updated_time"> 11:17 AM CT, Nov. 07 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/07/what-happens-in-vegas-495006">POLITICO Playbook: What happens in Vegas …</a> Politico: And a court temporarily blocks Biden’s vaccine mandate. 
+ <p class="updated_time"> 10:27 AM CT, Nov. 07 </p> 
+ <a href="https://www.politico.com/news/2021/11/07/murthy-vaccine-mandate-biden-520015">Surgeon general defends embattled vaccine mandate</a> Politico: “It’s a necessary step to accelerate our pathway out of the pandemic,” Vivek Murthy said. 
 
 
 </details>
