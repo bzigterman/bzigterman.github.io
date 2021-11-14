@@ -7,7 +7,9 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 02:23 PM CT, Nov. 14 </p> 
+ <p class="updated_time"> 03:17 PM CT, Nov. 14 </p> 
+ <a href="https://www.nytimes.com/2021/11/11/world/europe/austria-chancellor-lockdown-unvaccinated.html">Austria Weighs a Lockdown for Unvaccinated People</a> NYT: The country’s case rate has more than doubled since late October. 
+ <p class="updated_time"> 03:15 PM CT, Nov. 14 </p> 
  <a href="https://www.nytimes.com/2021/11/14/world/middleeast/belarus-mideast-air-route.html">Air Route to Belarus Closed to Migrants in Bid to Halt Crisis</a> NYT: Hoping to stem the flow of migrants stuck on the border of Belarus and Poland, Dubai banned Iraqi and Syrian passengers from traveling to Minsk. 
  <p class="updated_time"> 02:11 PM CT, Nov. 14 </p> 
  <a href="https://www.nytimes.com/2021/11/14/world/europe/austria-unvaccinated-lockdown.html">Austria to Target the Unvaccinated in New Lockdown</a> NYT: The country, facing the biggest surge in virus cases since the pandemic started, is putting strict curbs on the movement of those without shots. 
@@ -189,8 +191,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/12/arts/design/badiucao-brescia-china.html">The Show Goes On, Even After China Tried to Shut It Down</a> NYT: An Italian city rejected a request from the Chinese Embassy in Rome to cancel an exhibition by Badiucao, an artist who has been described as the Chinese Banksy. 
  <p class="updated_time"> 06:55 AM CT, Nov. 12 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59263810?at_medium=RSS&at_campaign=KARANGA">John Kerry at COP26: We're going to come up with an agreement</a> BBC: The US climate envoy speaks to the BBC as pressure mounts on governments to strike a deal at COP26. 
- <p class="updated_time"> 03:58 AM CT, Nov. 12 </p> 
- <a href="https://www.nytimes.com/2021/11/11/world/europe/austria-chancellor-lockdown-unvaccinated.html">Austria Weighs a Lockdown for Unvaccinated People</a> NYT: The country’s case rate has more than doubled since late October. 
  <p class="updated_time"> 03:31 AM CT, Nov. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-53494405?at_medium=RSS&at_campaign=KARANGA">Britney Spears: Singer's conservatorship case explained</a> BBC: The US singer's bid to end her father's guardianship could reach its conclusion this week. 
  <p class="updated_time"> 02:36 AM CT, Nov. 12 </p> 
@@ -218,6 +218,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:02 PM CT, Nov. 14 </p> 
+ <a href="https://www.politico.com/news/2021/11/14/biden-xi-meeting-expectations-522136">Don’t call it a ‘summit’: Biden-Xi meeting brings low expectations</a> Politico: Despite downbeat official messaging, look for bilateral “sweeteners” to dial down tensions. 
  <p class="updated_time"> 03:05 PM CT, Nov. 14 </p> 
  <a href="https://www.nytimes.com/2021/11/14/business/economy/farm-exports-supply-chain-ports.html">Supply Chain Disruptions May Mean Crisis for U.S. Farms</a> NYT: Backlogs and cancellations are hitting growers as costs rise, profits slump and overseas customers shop elsewhere. 
  <p class="updated_time"> 02:15 PM CT, Nov. 14 </p> 
@@ -436,8 +438,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/11/09/a-trump-backed-senate-hopeful-takes-the-stand-495028">POLITICO Playbook: A Trump-backed Senate hopeful takes the stand</a> Politico: And the Jan. 6 committee subpoenas more Trump aides. 
  <p class="updated_time"> 04:30 AM CT, Nov. 09 </p> 
  <a href="https://www.politico.com/news/2021/11/09/senate-dems-year-end-train-wreck-520275">The Senate’s year-end to-do list is ‘going to be a train wreck’</a> Politico: Ho, ho, oh no. Long nights, weekend work and threatened holidays are a Capitol tradition, and this year is likely no exception. 
- <p class="updated_time"> 07:24 PM CT, Nov. 08 </p> 
- <a href="https://www.politico.com/news/2021/11/08/biden-vaccine-covid-mandate-lives-520367">Biden administration: Blocking vaccine mandate could cost ‘hundreds of lives per day’</a> Politico: The administration warned a federal court of the dangers of a stay of its vaccinate-or-test requirement for private employers. 
  <p class="updated_time"> 07:20 AM CT, Nov. 08 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/11/08/recess-reverie-plus-huddle-restaurant-week-kicks-off-495014">Recess reverie (plus Huddle Restaurant Week kicks off)</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:05 AM CT, Nov. 08 </p> 
