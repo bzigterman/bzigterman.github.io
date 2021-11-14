@@ -831,22 +831,22 @@ permalink: /projects/economy/
 
 
 <details>
-<summary>## Champaign County</summary>
+<summary><h2>Champaign County</h2></summary>
 
-![Unemployment Rate]({{ site.baseurl }}/plots/champaign_unemployment_rate.png)
+<img src="{{ site.baseurl }}/plots/champaign_unemployment_rate.png" alt="Champaign County Unemployment Rate">
 
-![Employment]({{ site.baseurl }}/plots/champaign_employment.png)
+<img src="{{ site.baseurl }}/plots/champaign_employment.png" alt="Champaign County Employment">
 
-![Population]({{ site.baseurl }}/plots/champaign_population.png)
+<img src="{{ site.baseurl }}/plots/champaign_population.png" alt="Champaign County Population">
 
-![Housing]({{ site.baseurl }}/plots/champaign_housing.png)
+<img src="{{ site.baseurl }}/plots/champaign_housing.png" alt="Champaign County Housing">
 
 ",better_cu_housing_table_html,"
 
 </details>
 
 <details>
-<summary>## Illinois</summary>
+<summary><h2>Illinois</h2></summary>
 
 ![Flash Index]({{ site.baseurl }}/plots/il_flash_index.png)
 
@@ -855,7 +855,7 @@ Source: [Institute of Government and Public Affairs at the University of Illinoi
 </details>
 
 <details>
-<summary>## United States</summary>
+<summary><h2>United States</h2></summary>
 
 ![Unemployment Rate]({{ site.baseurl }}/plots/unemployment_rate.png)
 
