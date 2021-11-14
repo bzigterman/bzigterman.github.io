@@ -41,6 +41,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/14/world/americas/cuba-protest.html">In Cuba, Desires for Food and Freedom May Spark a Rare Day of Protest</a> NYT: Young dissidents who rely on the internet to spread their ideas are calling for a protest on Monday, a bold move with little precedent in Cuba. 
  <p class="updated_time"> 10:17 AM CT, Nov. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59283128?at_medium=RSS&at_campaign=KARANGA">Covid: Austria orders nationwide lockdown for unvaccinated</a> BBC: The new rules are being introduced amid record infection levels and growing pressure on hospitals. 
+ <p class="updated_time"> 09:10 AM CT, Nov. 14 </p> 
+ <a href="https://www.wsj.com/articles/cop26-climate-deal-shows-fragility-of-new-emissions-cutting-pledge-11636920631">COP26 Climate Deal Shows Fragility of New Emissions-Cutting Pledge</a> WSJ: The new Glasgow pact calls for countries to bolster commitments again next year. Already, the U.S. says it likely won’t do so. 
  <p class="updated_time"> 08:49 AM CT, Nov. 14 </p> 
  <a href="https://www.bbc.co.uk/news/uk-59280241?at_medium=RSS&at_campaign=KARANGA">China and India must explain themselves - COP president</a> BBC: COP26 President Alok Sharma speaks after an agreement to "phase down" coal rather than "phase out". 
  <p class="updated_time"> 08:42 AM CT, Nov. 14 </p> 
@@ -113,8 +115,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/13/1055540992/an-antarctic-penguin-ends-up-on-new-zealand-shore-2-000-miles-from-home">An Antarctic penguin ends up on New Zealand shore, roughly 2,000 miles from home</a> NPR: This penguin's adventure might have taken a few wrong turns. It's only the third time an Adélie penguin is known to have made it to the shores of New Zealand. 
  <p class="updated_time"> 01:18 PM CT, Nov. 13 </p> 
  <a href="https://www.npr.org/2021/11/13/1055554319/cop26-climate-agreement-global-warming-glasgow">At COP26, nations strike a climate deal with coal compromise</a> NPR: Government negotiators from nearly 200 countries have adopted a new deal on climate action after a last-minute intervention by India to water down the language on cutting emissions from coal. 
- <p class="updated_time"> 01:09 PM CT, Nov. 13 </p> 
- <a href="https://www.wsj.com/articles/cop26-negotiators-work-towards-climate-deal-11636810622">Leaders Agree to Emissions Deal, but Questions Loom</a> WSJ: More than 190 nations reached a deal at the United Nations climate summit that aims to accelerate greenhouse-gas-emissions cuts across the world, but leaves big questions over how governments will follow through in the coming decade. 
  <p class="updated_time"> 12:44 PM CT, Nov. 13 </p> 
  <a href="https://www.nytimes.com/2021/11/12/us/politics/kamala-harris-macron-france.html">In France, Kamala Harris Searches for Role on Global Stage</a> NYT: The vice president met with President Emmanuel Macron of France, skirting recent U.S.-French tensions, and immersed herself in issues like Libya and cybersecurity. 
  <p class="updated_time"> 12:33 PM CT, Nov. 13 </p> 
@@ -245,7 +245,7 @@ permalink: /projects/news/
  <p class="updated_time"> 09:58 AM CT, Nov. 14 </p> 
  <a href="https://www.cnn.com/2021/11/14/politics/brian-deese-inflation-cnntv/index.html">Biden's top economic adviser urges passage of economic bill to combat rising inflation</a> CNN: President Joe Biden's top economic adviser on Sunday cited rising inflation in the US as a reason for Congress to pass the President's massive economic package, arguing the legislation will help stymie rapidly rising prices of consumer goods. 
  <p class="updated_time"> 09:15 AM CT, Nov. 14 </p> 
- <a href="https://www.politico.com/news/2021/11/14/schumer-schedule-reconciliation-bill-521931">Schumer shakes up schedule as reconciliation bill slog continues</a> Politico: The Biden White House’s social spending plan will probably have to wait some more. 
+ <a href="https://www.politico.com/news/2021/11/14/schumer-schedule-reconciliation-bill-521931">Senate likely to take up social spending bill in December as Dem slog continues</a> Politico: “On a bill of this magnitude, this process takes time and patience,” he said. 
  <p class="updated_time"> 08:46 AM CT, Nov. 14 </p> 
  <a href="https://www.politico.com/news/2021/11/14/samantha-power-usaid-future-515606">Power moves: Samantha Power’s celebrity draws spotlight to USAID — and questions about her future</a> Politico: The longtime human rights crusader is energizing an agency few Americans know about, while fueling speculation about her next step. 
  <p class="updated_time"> 08:45 AM CT, Nov. 14 </p> 
