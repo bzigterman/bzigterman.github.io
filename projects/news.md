@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:08 PM CT, Nov. 14 </p> 
+ <a href="https://www.nytimes.com/2021/11/14/world/europe/austria-unvaccinated-lockdown.html">Austria to Target the Unvaccinated in New Lockdown</a> NYT: The country, facing the biggest surge in virus cases since the pandemic started, is putting strict curbs on the movement of those without shots. 
  <p class="updated_time"> 12:57 PM CT, Nov. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59279585?at_medium=RSS&at_campaign=KARANGA">US defends air strikes that killed civilians in Syria</a> BBC: The strikes occurred in the last stronghold of the so-called Islamic State in Syria in 2019. 
  <p class="updated_time"> 12:55 PM CT, Nov. 14 </p> 
@@ -33,16 +35,18 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/14/world/americas/cuba-protest.html">In Cuba, Desires for Food and Freedom May Spark a Rare Day of Protest</a> NYT: Young dissidents who rely on the internet to spread their ideas are calling for a protest on Monday, a bold move with little precedent in Cuba. 
  <p class="updated_time"> 10:17 AM CT, Nov. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59283128?at_medium=RSS&at_campaign=KARANGA">Covid: Austria orders nationwide lockdown for unvaccinated</a> BBC: The new rules are being introduced amid record infection levels and growing pressure on hospitals. 
- <p class="updated_time"> 09:38 AM CT, Nov. 14 </p> 
- <a href="https://www.nytimes.com/2021/11/14/world/europe/austria-unvaccinated-lockdown.html">Austria to Target the Unvaccinated in New Lockdown</a> NYT: The country, facing the biggest surge in virus cases since the pandemic started, is putting strict curbs on the movement of those without shots. 
  <p class="updated_time"> 08:49 AM CT, Nov. 14 </p> 
  <a href="https://www.bbc.co.uk/news/uk-59280241?at_medium=RSS&at_campaign=KARANGA">China and India must explain themselves - COP president</a> BBC: COP26 President Alok Sharma speaks after an agreement to "phase down" coal rather than "phase out". 
  <p class="updated_time"> 08:42 AM CT, Nov. 14 </p> 
  <a href="https://www.nytimes.com/2021/11/14/world/asia/rohingya-refugees-bangladesh.html">They Warned Their Names Were on a Hit List. They Were Killed.</a> NYT: In less than a month, assassins have killed at least eight people in the Rohingya refugee camps of Bangladesh, silencing those who have dared to speak out against the violent gangs. 
  <p class="updated_time"> 08:26 AM CT, Nov. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59280215?at_medium=RSS&at_campaign=KARANGA">Saif al-Islam Gaddafi: Son of Libya ex-ruler runs for president</a> BBC: Saif al-Islam Gaddafi, wanted on war crimes charges at an international court, registers as a candidate. 
+ <p class="updated_time"> 07:45 AM CT, Nov. 14 </p> 
+ <a href="https://www.wsj.com/articles/xi-jinping-china-economy-growth-poverty-tech-beijing-11636915358">What's Driving Xi Jinping's Economic Revamp? China's Social Mobility Has Stalled</a> WSJ: Academic research and data show that as the country’s economy matures, more opportunities go to the children of wealthy and politically connected elites, posing a challenge to the ruling Communist Party. 
  <p class="updated_time"> 07:44 AM CT, Nov. 14 </p> 
  <a href="https://www.nytimes.com/2021/11/14/world/europe/queen-elizabeth-health.html">Queen Elizabeth Misses Remembrance Service Because of Sprained Back</a> NYT: The British monarch, 95, has put off multiple trips and engagements recently, and the latest cancellation has deepened anxiety about her health. She has now been out of sight since mid-October. 
+ <p class="updated_time"> 07:30 AM CT, Nov. 14 </p> 
+ <a href="https://www.wsj.com/articles/in-belarus-border-standoff-europes-debates-converge-on-poland-11636914600">In Belarus Border Standoff, Europe's Debates Converge on Poland</a> WSJ: For half a decade, the country’s nationalist government has been locked in an escalating culture war within the European Union. Now, in a border standoff with neighboring Belarus, Poland finds itself on the front lines of Europe’s external conflict. 
  <p class="updated_time"> 07:20 AM CT, Nov. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59280706?at_medium=RSS&at_campaign=KARANGA">US bank robber identified after decades-long hunt</a> BBC: Ted Conrad disappeared with $1.7 million after pulling off a bizarre heist more than 50 years ago. 
  <p class="updated_time"> 07:05 AM CT, Nov. 14 </p> 
@@ -115,8 +119,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/13/world/africa/sudan-protests.html">Sudan Security Forces Fire on Protesters, Killing Several</a> NYT: At least five people were killed and several wounded as the police fired bullets and tear gas at demonstrators in Sudan’s capital, two days after the army chief signed a contentious decree. 
  <p class="updated_time"> 11:21 AM CT, Nov. 13 </p> 
  <a href="https://www.nytimes.com/2021/11/13/world/asia/india-pakistan-afghanistan-wheat.html">India Wants to Send Wheat to Ease Afghan Hunger Crisis. Pakistan Has Yet to OK Transit.</a> NYT: Indian officials say Islamabad is dragging its feet on a request of transit for 50,000 tons of wheat to Afghanistan, where nine million people are on the brink of starvation. 
- <p class="updated_time"> 11:00 AM CT, Nov. 13 </p> 
- <a href="https://www.wsj.com/articles/dozens-of-inmates-die-in-latest-prison-riot-in-ecuador-11636825319">Dozens of Inmates Die in Ecuador Prison Riot</a> WSJ: Violence erupted at the Litoral prison complex in the coastal city of Guayaquil in the second gang battle there in six weeks as President Guillermo Lasso’s government grappled with growing violence. 
  <p class="updated_time"> 10:26 AM CT, Nov. 13 </p> 
  <a href="https://www.nytimes.com/2021/11/13/world/middleeast/belarus-migrants-iraq-kurds.html">Migrants Say Belarusians Took Them to E.U. Border and Supplied Wire Cutters</a> NYT: Iraqi Kurds and other migrants said they were fleeing despair at home, but Belarus encouraged them, offering visas and helping them get to the border. 
  <p class="updated_time"> 10:08 AM CT, Nov. 13 </p> 
@@ -139,8 +141,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59274204?at_medium=RSS&at_campaign=KARANGA">Sara Duterte: Daughter of Philippines leader runs for vice-president</a> BBC: Sara Duterte will run alongside the son of the country's former dictator, Ferdinand Marcos. 
  <p class="updated_time"> 06:00 AM CT, Nov. 13 </p> 
  <a href="https://www.wsj.com/articles/in-the-shadow-of-the-holocaust-a-jewish-community-begins-to-take-root-11636822801">In the Shadow of the Holocaust, a Jewish Community Takes Root</a> WSJ: Poland’s Jewish community—nearly destroyed during World War II—is growing again, but connecting people with their heritage is a race against time. 
- <p class="updated_time"> 05:51 AM CT, Nov. 13 </p> 
- <a href="https://www.wsj.com/articles/migrant-dies-as-belarus-poland-border-standoff-deepens-11636817338">Migrant Dies as Belarus-Poland Border Standoff Deepens</a> WSJ: The body of a young Syrian man was found Friday, Polish border authorities said, the latest casualty in a monthslong standoff between the EU and Belarus’s authoritarian leader. 
  <p class="updated_time"> 05:19 AM CT, Nov. 13 </p> 
  <a href="https://www.nytimes.com/2021/11/13/world/asia/philippines-sara-duterte-marcos.html">Sara Duterte and Ferdinand Marcos Jr. May Join Forces in Philippines</a> NYT: Ferdinand Marcos Jr., who hopes to succeed Rodrigo Duterte as president, said Sara Duterte would effectively be his running mate. 
  <p class="updated_time"> 02:52 AM CT, Nov. 13 </p> 
@@ -312,8 +312,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/13/raid-veritas-okeefe-biden-press-521307">FBI raid on Project Veritas founder’s home sparks questions about press freedom</a> Politico: The action against James O’Keefe has prompted concern about the Biden administration’s commitment to the First Amendment. 
  <p class="updated_time"> 09:39 AM CT, Nov. 13 </p> 
  <a href="https://www.nytimes.com/2021/11/13/us/politics/chris-christie-book-trump.html">What's in Chris Christie's New Book</a> NYT: In a new book and in an interview, Mr. Christie says that if the former president wants to be a positive force, “he’s got to let this other stuff go.” 
- <p class="updated_time"> 08:01 AM CT, Nov. 13 </p> 
- <a href="https://www.politico.com/news/2021/11/13/africa-great-green-wall-521292">Africa’s ‘Great Green Wall’ shifts focus to hold off desert</a> Politico: Only 4% of the Great Green Wall’s original goal has been met, and an estimated $43 billion would be needed to achieve the rest. 
  <p class="updated_time"> 07:02 AM CT, Nov. 13 </p> 
  <a href="https://www.politico.com/news/2021/11/13/democrats-drug-prices-521213">Dems’ plan to limit drug price inflation faces test in Senate</a> Politico: Attempts at price controls have to conform with the parameters of the  reconciliation process they’re hoping to use to pass the social spending package on a party-line vote. 
  <p class="updated_time"> 07:02 AM CT, Nov. 13 </p> 
