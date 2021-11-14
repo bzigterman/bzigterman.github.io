@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:26 AM CT, Nov. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59280215?at_medium=RSS&at_campaign=KARANGA">Saif al-Islam Gaddafi: Son of Libya ex-ruler runs for president</a> BBC: Saif al-Islam Gaddafi, wanted on war crimes charges at an international court, registers as a candidate. 
  <p class="updated_time"> 08:17 AM CT, Nov. 14 </p> 
  <a href="https://www.nytimes.com/2021/11/14/world/africa/sierra-leone-explosion-healthcare.html">Sierra Leone Explosion Kills More and Strains Health System</a> NYT: Victims are still dying from injuries after a fuel tanker burst into flames last week in Sierra Leone, a country that has no burn units. 
  <p class="updated_time"> 08:06 AM CT, Nov. 14 </p> 
