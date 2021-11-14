@@ -218,6 +218,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:30 AM CT, Nov. 14 </p> 
+ <a href="https://www.politico.com/news/2021/11/14/tobacco-lawsuits-biden-menthol-ban-521174">Tobacco lawsuits could upend Biden's plan for historic menthol ban</a> Politico: The agency’s effort to decide which e-cigarettes can stay on the market could force it to confront the menthol question much sooner. 
  <p class="updated_time"> 04:00 AM CT, Nov. 14 </p> 
  <a href="https://www.nytimes.com/2021/11/14/business/economy/farm-exports-supply-chain-ports.html">Crunch at Ports May Mean Crisis for Family Farms</a> NYT: Backlogs and cancellations are hitting American growers as costs rise, profits slump and overseas customers shop elsewhere. 
  <p class="updated_time"> 02:00 AM CT, Nov. 14 </p> 
