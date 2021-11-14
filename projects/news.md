@@ -7,8 +7,10 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:53 AM CT, Nov. 14 </p> 
+ <a href="https://www.nytimes.com/2021/11/13/world/canada/newfoundland-migrants.html">Urbanites in Canada Flock to Atlantic Region Amid Remote Work Shift</a> NYT: As housing prices soar in big cities, the country’s eastern provinces are experiencing a surge in migration. Newcomers are being welcomed, but some locals are wary. 
  <p class="updated_time"> 02:47 AM CT, Nov. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-59277788?at_medium=RSS&at_campaign=KARANGA">COP26: New global climate deal struck in Glasgow</a> BBC: New global climate deal agreed at COP26 in Glasgow after last-minute wrangling over agreement on cutting coal. 
+ <a href="https://www.bbc.co.uk/news/world-59277788?at_medium=RSS&at_campaign=KARANGA">COP26: New global climate deal struck in Glasgow</a> BBC: The decision to phase down coal shows progress but pledges are not enough to cap temperature rises. 
  <p class="updated_time"> 02:03 AM CT, Nov. 14 </p> 
  <a href="https://www.nytimes.com/2021/11/14/world/americas/cuba-protest.html">In Cuba, Desires for Food and Freedom May Spark a Rare Day of Protest</a> NYT: Young dissidents who rely on the internet to spread their ideas are calling for a protest on Monday, a bold move with little precedent in Cuba. 
  <p class="updated_time"> 12:45 AM CT, Nov. 14 </p> 
@@ -47,8 +49,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-59276651?at_medium=RSS&at_campaign=KARANGA">COP26: Alok Sharma fights back tears as Glasgow Climate Pact agreed</a> BBC: The COP26 president apologised as a late amendment on coal was added to the draft text by India. 
  <p class="updated_time"> 01:42 PM CT, Nov. 13 </p> 
  <a href="https://www.npr.org/2021/11/13/1055559578/ecuador-prison-battle-deaths-gangs">Dozens of inmates die in a battle between prison gangs in Ecuador </a> NPR: A prolonged gun battle between rival gangs inside Ecuador's largest prison was the latest violence to hit the Litoral Penitentiary, which recently saw the country's worst prison bloodbath. 
- <p class="updated_time"> 01:28 PM CT, Nov. 13 </p> 
- <a href="https://www.nytimes.com/2021/11/13/world/canada/newfoundland-migrants.html">Urbanites in Canada Flock to Atlantic Region Amid Remote Work Shift</a> NYT: As housing prices soar in big cities, the country’s eastern provinces are experiencing a surge in migration. Newcomers are being welcomed, but some locals are wary. 
  <p class="updated_time"> 01:24 PM CT, Nov. 13 </p> 
  <a href="https://www.npr.org/2021/11/13/1055540992/an-antarctic-penguin-ends-up-on-new-zealand-shore-2-000-miles-from-home">An Antarctic penguin ends up on New Zealand shore, 3,100 miles from home</a> NPR: This penguin's adventure might have taken a few wrong turns. It's only the third time an Adélie penguin is known to have made it to the shores of New Zealand. 
  <p class="updated_time"> 01:18 PM CT, Nov. 13 </p> 
