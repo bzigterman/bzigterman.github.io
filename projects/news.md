@@ -53,8 +53,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/13/world/asia/india-pakistan-afghanistan-wheat.html">India Wants to Send Wheat to Ease Afghan Hunger Crisis. Pakistan Has Yet to OK Transit.</a> NYT: Indian officials say Islamabad is dragging its feet on a request of transit for 50,000 tons of wheat to Afghanistan, where nine million people are on the brink of starvation. 
  <p class="updated_time"> 11:00 AM CT, Nov. 13 </p> 
  <a href="https://www.wsj.com/articles/dozens-of-inmates-die-in-latest-prison-riot-in-ecuador-11636825319">Dozens of Inmates Die in Ecuador Prison Riot</a> WSJ: Violence erupted at the Litoral prison complex in the coastal city of Guayaquil in the second gang battle there in six weeks as President Guillermo Lasso’s government grappled with growing violence. 
- <p class="updated_time"> 10:36 AM CT, Nov. 13 </p> 
- <a href="https://www.nytimes.com/2021/11/11/t-magazine/scorched-burnt-rice.html">The Thrilling Dare of Scorched Rice</a> NYT: When browned on the bottom of the pot by a skilled cook, the grain is transformed into a complex delicacy, one prized by food cultures around the world. 
  <p class="updated_time"> 10:26 AM CT, Nov. 13 </p> 
  <a href="https://www.nytimes.com/2021/11/13/world/middleeast/belarus-migrants-iraq-kurds.html">Migrants Say Belarusians Took Them to E.U. Border and Supplied Wire Cutters</a> NYT: Iraqi Kurds and other migrants said they were fleeing despair at home, but Belarus encouraged them, offering visas and helping them get to the border. 
  <p class="updated_time"> 10:08 AM CT, Nov. 13 </p> 
@@ -254,7 +252,7 @@ permalink: /projects/news/
  <p class="updated_time"> 09:46 AM CT, Nov. 13 </p> 
  <a href="https://www.cnn.com/2021/11/13/politics/biden-vaccine-mandate-fifth-circuit-appeals/index.html">Federal appeals court reaffirms its decision to freeze Biden's vaccine mandate</a> CNN: A federal appeals court on Friday reaffirmed its earlier decision to freeze the Biden administration's vaccine mandate, calling the requirement for large employers to make sure its employees are vaccinated against Covid-19 "staggeringly overbroad." 
  <p class="updated_time"> 09:39 AM CT, Nov. 13 </p> 
- <a href="https://www.nytimes.com/2021/11/13/us/politics/chris-christie-book-trump.html">Chris Christie Wants the Post-Trump G.O.P. to Move Past 2020</a> NYT: In a new book and in an interview, Mr. Christie says that if the former president wants to be a positive force, “he’s got to let this other stuff go.” 
+ <a href="https://www.nytimes.com/2021/11/13/us/politics/chris-christie-book-trump.html">What's in Chris Christie's New Book</a> NYT: In a new book and in an interview, Mr. Christie says that if the former president wants to be a positive force, “he’s got to let this other stuff go.” 
  <p class="updated_time"> 08:16 AM CT, Nov. 13 </p> 
  <a href="https://www.cnn.com/2021/11/13/politics/kamala-harris-france-trip/index.html">Harris' trip to Paris signals a relationship back on track</a> CNN: As French President Emmanuel Macron arrived at the Arc de Triomphe for a national televised Armistice Day Ceremony, Vice President Kamala Harris -- donning the traditional bleuet de France honoring veterans -- waited to greet him. 
  <p class="updated_time"> 08:01 AM CT, Nov. 13 </p> 
