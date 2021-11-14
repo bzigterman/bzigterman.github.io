@@ -53,6 +53,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/13/world/asia/india-pakistan-afghanistan-wheat.html">India Wants to Send Wheat to Ease Afghan Hunger Crisis. Pakistan Has Yet to OK Transit.</a> NYT: Indian officials say Islamabad is dragging its feet on a request of transit for 50,000 tons of wheat to Afghanistan, where nine million people are on the brink of starvation. 
  <p class="updated_time"> 11:00 AM CT, Nov. 13 </p> 
  <a href="https://www.wsj.com/articles/dozens-of-inmates-die-in-latest-prison-riot-in-ecuador-11636825319">Dozens of Inmates Die in Ecuador Prison Riot</a> WSJ: Violence erupted at the Litoral prison complex in the coastal city of Guayaquil in the second gang battle there in six weeks as President Guillermo Lasso’s government grappled with growing violence. 
+ <p class="updated_time"> 10:36 AM CT, Nov. 13 </p> 
+ <a href="https://www.nytimes.com/2021/11/11/t-magazine/scorched-burnt-rice.html">The Thrilling Dare of Scorched Rice</a> NYT: When browned on the bottom of the pot by a skilled cook, the grain is transformed into a complex delicacy, one prized by food cultures around the world. 
  <p class="updated_time"> 10:26 AM CT, Nov. 13 </p> 
  <a href="https://www.nytimes.com/2021/11/13/world/middleeast/belarus-migrants-iraq-kurds.html">Migrants Say Belarusians Took Them to E.U. Border and Supplied Wire Cutters</a> NYT: Iraqi Kurds and other migrants said they were fleeing despair at home, but Belarus encouraged them, offering visas and helping them get to the border. 
  <p class="updated_time"> 10:08 AM CT, Nov. 13 </p> 
@@ -161,8 +163,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/12/1055045794/julian-assange-wins-permission-to-get-married-while-in-a-london-prison">Julian Assange wins permission to marry his partner in a London prison</a> NPR: The WikiLeaks founder and attorney Stella Moris began a relationship after Assange took refuge in the Ecuadorian Embassy in London in 2012. They have two sons together. 
  <p class="updated_time"> 07:55 AM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/11/health/veterans-psychedelics-ptsd-depression.html">Veterans Have Become Unlikely Lobbyists in Push to Legalize Psychedelic Drugs</a> NYT: Lawmakers find it hard to “just say no” to combat veterans seeking support for drug decriminalization efforts gaining traction around the country. 
- <p class="updated_time"> 07:17 AM CT, Nov. 12 </p> 
- <a href="https://www.nytimes.com/2021/11/12/world/europe/covid-germany-tests.html">Germany Will Again Offer Free Covid Tests to All Adults</a> NYT: Officials hope that identifying infections earlier can help stop a recent surge in cases. 
  <p class="updated_time"> 06:58 AM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/arts/design/badiucao-brescia-china.html">The Show Goes On, Even After China Tried to Shut It Down</a> NYT: An Italian city rejected a request from the Chinese Embassy in Rome to cancel an exhibition by Badiucao, an artist who has been described as the Chinese Banksy. 
  <p class="updated_time"> 06:55 AM CT, Nov. 12 </p> 
