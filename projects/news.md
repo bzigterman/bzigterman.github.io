@@ -214,6 +214,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:37 PM CT, Nov. 14 </p> 
+ <a href="https://www.cnn.com/2021/11/14/politics/kamala-harris-frustrating-start-vice-president/index.html">Exasperation and dysfunction: Inside Kamala Harris' frustrating start as vice president </a> CNN: Worn out by what they see as entrenched dysfunction and lack of focus, key West Wing aides have largely thrown up their hands at Vice President Kamala Harris and her staff -- deciding there simply isn't time to deal with them right now, especially at a moment when President Joe Biden faces quickly multiplying legislative and political concerns. 
  <p class="updated_time"> 05:13 PM CT, Nov. 14 </p> 
  <a href="https://www.cnn.com/2021/11/14/politics/trump-organization-washington-dc-hotel-sale/index.html">Investment group purchases Trump hotel in DC and is expected to remove Trump name</a> CNN: The Trump Organization has reached a deal with the investment fund CGI Merchant Group to purchase the lease for the Trump International Hotel in Washington, DC, for $375 million, according to a person familiar with the matter. 
  <p class="updated_time"> 05:07 PM CT, Nov. 14 </p> 
@@ -226,8 +228,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/14/biden-xi-meeting-expectations-522136">Don’t call it a ‘summit’: Biden-Xi meeting brings low expectations</a> Politico: Despite downbeat official messaging, look for bilateral “sweeteners” to dial down tensions. 
  <p class="updated_time"> 03:55 PM CT, Nov. 14 </p> 
  <a href="https://www.npr.org/2021/11/14/1055696923/in-drought-plagued-new-mexico-farmer-places-high-hopes-in-infrastructure-bill">In drought-plagued New Mexico, farmer places high hopes in infrastructure bill</a> NPR: NPR's Michel Martin speaks with Greg Daviet, a pecan farmer in Las Cruces, N.M., about how the infrastructure plan passed by Congress may affect his business. 
- <p class="updated_time"> 03:27 PM CT, Nov. 14 </p> 
- <a href="https://www.cnn.com/2021/11/14/politics/kamala-harris-frustrating-start-vice-president/index.html">Exasperation and dysfunction: Inside Kamala Harris' frustrating start as vice president </a> CNN: Worn out by what they see as entrenched dysfunction and lack of focus, key West Wing aides have largely thrown up their hands at Vice President Kamala Harris and her staff -- deciding there simply isn't time to deal with them right now, especially at a moment when President Joe Biden faces quickly multiplying legislative and political concerns. 
  <p class="updated_time"> 03:05 PM CT, Nov. 14 </p> 
  <a href="https://www.nytimes.com/2021/11/14/business/economy/farm-exports-supply-chain-ports.html">Supply Chain Disruptions May Mean Crisis for U.S. Farms</a> NYT: Backlogs and cancellations are hitting growers as costs rise, profits slump and overseas customers shop elsewhere. 
  <p class="updated_time"> 02:15 PM CT, Nov. 14 </p> 
