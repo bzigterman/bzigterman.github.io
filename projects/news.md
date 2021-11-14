@@ -212,6 +212,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:23 PM CT, Nov. 13 </p> 
+ <a href="https://www.cnn.com/2021/11/13/politics/alyssa-farah-january-6-committee-process/index.html">Ex-Trump White House official calls January 6 committee's process 'comprehensive and deliberative'</a> CNN: A former White House official says the House select committee investigating the January 6 attack on the US Capitol is mounting "a very comprehensive and deliberative process," following her own testimony to Republicans on the committee earlier this year. 
  <p class="updated_time"> 08:43 PM CT, Nov. 13 </p> 
  <a href="https://www.cnn.com/2021/11/13/politics/pentagon-oklahoma-national-guard-vaccine-mandate/index.html">Pentagon says it will respond 'appropriately' after Oklahoma National Guard rejects federal vaccine mandate 
 </a> CNN: The Pentagon said it would respond to Oklahoma's Republican governor after the state's National Guard indicated it would thwart a Defense Department mandate that troops be vaccinated against Covid-19. 
@@ -301,8 +303,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/12/politics/trump-lawsuits-michael-cohen-summer-zervos/index.html">Trump scores legal wins with one lawsuit dropped and another dismissed</a> CNN: Former President Donald Trump scored two big legal victories Friday and avoided having to sit for a deposition in a defamation lawsuit after former "Apprentice" contestant Summer Zervos agreed to drop her claims, according to a court filing, and a New York judge granted Trump's motion to dismiss a 2019 lawsuit filed by his former personal attorney Michael Cohen against the Trump Organization. 
  <p class="updated_time"> 05:30 PM CT, Nov. 12 </p> 
  <a href="https://www.cnn.com/2021/11/12/politics/free-joe-biden-2022-infrastructure-dccc/index.html">Analysis: Is 'Free Joe Biden' the answer to Democrats' problems? </a> CNN: In the wake of a disastrous 2021 election for Democrats, the man charged with keeping his party in the House majority had a very interesting prescription for how make that a reality. 
- <p class="updated_time"> 04:33 PM CT, Nov. 12 </p> 
- <a href="https://www.cnn.com/2021/11/12/politics/biden-admin-ethiopia-eritrea-sanctions/index.html">Biden administration sanctions Eritrean military, ruling party over role in northern Ethiopia conflict</a> CNN: The Biden administration sanctioned Eritrea's military and sole political party for their involvement in the ongoing crisis in northern Ethiopia. 
  <p class="updated_time"> 04:09 PM CT, Nov. 12 </p> 
  <a href="https://www.politico.com/news/2021/11/12/steve-bannon-indicted-for-defying-jan-6-committee-investigation-521177">Steve Bannon indicted for defying Jan. 6 committee investigation</a> Politico: The House referred Bannon to the Justice Department for prosecution last month after he refused to cooperate with a congressional subpoena. 
  <p class="updated_time"> 04:03 PM CT, Nov. 12 </p> 
