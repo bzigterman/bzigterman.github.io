@@ -14,7 +14,7 @@ permalink: /projects/news/
  <p class="updated_time"> 02:53 AM CT, Nov. 14 </p> 
  <a href="https://www.nytimes.com/2021/11/13/world/canada/newfoundland-migrants.html">Urbanites in Canada Flock to Atlantic Region Amid Remote Work Shift</a> NYT: As housing prices soar in big cities, the country’s eastern provinces are experiencing a surge in migration. Newcomers are being welcomed, but some locals are wary. 
  <p class="updated_time"> 02:47 AM CT, Nov. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-59277788?at_medium=RSS&at_campaign=KARANGA">COP26: New climate deal aims to slow climate change</a> BBC: The decision to phase down coal shows progress but pledges are not enough to cap temperature rises. 
+ <a href="https://www.bbc.co.uk/news/world-59277788?at_medium=RSS&at_campaign=KARANGA">COP26: New global climate deal struck in Glasgow</a> BBC: The decision to phase down coal shows progress but pledges are not enough to cap temperature rises. 
  <p class="updated_time"> 02:03 AM CT, Nov. 14 </p> 
  <a href="https://www.nytimes.com/2021/11/14/world/americas/cuba-protest.html">In Cuba, Desires for Food and Freedom May Spark a Rare Day of Protest</a> NYT: Young dissidents who rely on the internet to spread their ideas are calling for a protest on Monday, a bold move with little precedent in Cuba. 
  <p class="updated_time"> 12:45 AM CT, Nov. 14 </p> 
@@ -23,6 +23,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/12/world/europe/covid-netherlands-lockdown.html">Netherlands Looks to Partial Lockdown as Covid Cases Rise</a> NYT: The Dutch lockdown does not single out those who are unvaccinated. The country is experiencing rising case numbers amid a fourth wave of infections. 
  <p class="updated_time"> 11:52 PM CT, Nov. 13 </p> 
  <a href="https://www.nytimes.com/2021/11/12/world/asia/china-zero-covid.html">China's 'Zero Covid' Efforts Come With a Cost</a> NYT: The Communist Party is making broad efforts to stamp out the disease entirely, but the measures come with costs. 
+ <p class="updated_time"> 11:30 PM CT, Nov. 13 </p> 
+ <a href="https://www.wsj.com/articles/in-covid-era-experiment-malaysia-tries-dramatic-reduction-in-migrant-labor-11636885800">Malaysia Tries Relying Less on Foreign Workers</a> WSJ: With Covid-19 reducing migrant labor in many countries, some governments are testing whether their economies can run with fewer foreign workers than in the past. 
  <p class="updated_time"> 10:10 PM CT, Nov. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59276428?at_medium=RSS&at_campaign=KARANGA">Ecuador prison riot: New fighting at Guayaquil jail kills 68</a> BBC: Rival inmates attack each other as guns and explosives are discovered at the facility in Guayaquil. 
  <p class="updated_time"> 08:11 PM CT, Nov. 13 </p> 
@@ -151,8 +153,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59268506?at_medium=RSS&at_campaign=KARANGA">Poland border: Heat camera shows migrants stranded between the two countries</a> BBC: The migrants - who are mainly young men - are enduring freezing conditions in the hopes of reaching the EU. 
  <p class="updated_time"> 12:24 PM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/world/africa/de-klerk-apartheid-south-africa.html">For Some South Africans, de Klerk Missed Chances for True Reconciliation</a> NYT: The last white president of South Africa helped bring an end to the apartheid regime, but for many citizens, he never went far enough to disavow it. He left a video apologizing. 
- <p class="updated_time"> 12:06 PM CT, Nov. 12 </p> 
- <a href="https://www.wsj.com/articles/houthi-rebels-in-yemen-storm-former-u-s-embassy-take-hostages-11636752761">Houthi Rebels in Yemen Occupy U.S. Embassy Compound, Take Hostages</a> WSJ: The majority of U.S.-employed Yemeni security personnel taken hostage in the capital San’a earlier this week have been freed, U.S. officials said. 
  <p class="updated_time"> 12:02 PM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/world/middleeast/israel-ethiopia-jews-immigration.html">Ethiopian Civil War Sparks Rancorous Debate Over Immigration to Israel</a> NYT: Thousands of relatives of the remnants of Ethiopian Jewry are waiting to be airlifted to Israel. For now, the Israeli government sees no urgency. 
  <p class="updated_time"> 11:08 AM CT, Nov. 12 </p> 
