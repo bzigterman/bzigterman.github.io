@@ -98,7 +98,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:25 AM CT, Nov. 13 </p> 
  <a href="https://www.nytimes.com/2021/11/13/world/europe/france-2015-attacks-trial-victims.html">Survivors of 2015 Paris Terrorist Attacks 'Dead Among the Living'</a> NYT: The trauma of the 2015 terrorist attacks in Paris was highlighted in testimony by survivors and others at a trial of 20 men accused of involvement. 
  <p class="updated_time"> 06:00 AM CT, Nov. 13 </p> 
- <a href="https://www.wsj.com/articles/in-the-shadow-of-the-holocaust-a-jewish-community-begins-to-take-root-11636822801">In the Shadow of the Holocaust, a Jewish Community Begins to Take Root</a> WSJ: Poland’s Jewish community—nearly destroyed during World War II—is growing again, but connecting people with their heritage is a race against time. 
+ <a href="https://www.wsj.com/articles/in-the-shadow-of-the-holocaust-a-jewish-community-begins-to-take-root-11636822801">In the Shadow of the Holocaust, a Jewish Community Takes Root</a> WSJ: Poland’s Jewish community—nearly destroyed during World War II—is growing again, but connecting people with their heritage is a race against time. 
  <p class="updated_time"> 05:51 AM CT, Nov. 13 </p> 
  <a href="https://www.wsj.com/articles/migrant-dies-as-belarus-poland-border-standoff-deepens-11636817338">Migrant Dies as Belarus-Poland Border Standoff Deepens</a> WSJ: The body of a young Syrian man was found Friday, Polish border authorities said, the latest casualty in a monthslong standoff between the EU and Belarus’s authoritarian leader. 
  <p class="updated_time"> 05:19 AM CT, Nov. 13 </p> 
