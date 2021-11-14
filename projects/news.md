@@ -7,8 +7,14 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:38 PM CT, Nov. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59278277?at_medium=RSS&at_campaign=KARANGA">FBI probes cyber-attack emails sent from internal server</a> BBC: The agency is investigating after thousands of messages were sent warning of a possible cyber-attack. 
+ <p class="updated_time"> 07:01 PM CT, Nov. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/science-environment-59268394?at_medium=RSS&at_campaign=KARANGA">COP26 climate deal: 'It won't save us from drowning'</a> BBC: Young activists on the frontline of climate change explain what the deal struck at COP26 means to them. 
  <p class="updated_time"> 06:41 PM CT, Nov. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59276428?at_medium=RSS&at_campaign=KARANGA">Ecuador prison riot: New fighting at Guayaquil jail kills 68</a> BBC: Fighting at the Litoral Penitentiary in the city of Guayaquil reportedly began on Friday evening. 
+ <p class="updated_time"> 06:26 PM CT, Nov. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59278275?at_medium=RSS&at_campaign=KARANGA">Wilbur Smith: Popular Zambian-born author dies aged 88</a> BBC: The accountant-turned-novelist's 49 books have sold more than 140 million copies worldwide. 
  <p class="updated_time"> 06:07 PM CT, Nov. 13 </p> 
  <a href="https://www.nytimes.com/2021/11/13/world/what-is-tromethamine-tris.html">What Is Tromethamine, or Tris? It Helps Stabilize Covid Vaccines</a> NYT: Also known as tris, the compound helps maintain the pH of vaccines, extending shelf life at warmer temperatures. 
  <p class="updated_time"> 06:04 PM CT, Nov. 13 </p> 
@@ -91,12 +97,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59266120?at_medium=RSS&at_campaign=KARANGA">Can California save itself from the flames?</a> BBC: Unprecedented drought and heat, combined with bad land management, have culminated in historic wildfires. 
  <p class="updated_time"> 08:39 PM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/11/world/europe/belarus-poland-border-russia.html">Russia Reacts to Belarus-Poland Border Crisis</a> NYT: President Vladimir Putin’s spokesman said that Russia was doing all it could to resolve the situation, but he also warned of the possibility of a military escalation, according to the Russian state news agency RIA Novosti. 
- <p class="updated_time"> 08:23 PM CT, Nov. 12 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-59217825?at_medium=RSS&at_campaign=KARANGA">Britney Spears released from 13-year conservatorship</a> BBC: An LA judge terminates a legal guardianship set up by the 39-year-old pop star's father in 2008. 
  <p class="updated_time"> 08:11 PM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/world/canada/newfoundland-cyberattack.html">Hackers Target Newfoundland’s Health Care System</a> NYT: The province has said little about a cyberattack that delayed or canceled medical procedures and leaked personal information. 
- <p class="updated_time"> 07:11 PM CT, Nov. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59271928?at_medium=RSS&at_campaign=KARANGA">Summer Zervos: Ex-Apprentice drops lawsuit against Trump</a> BBC: Mr Trump declares himself "totally vindicated" as Summer Zervos abandons her long-running lawsuit. 
  <p class="updated_time"> 06:15 PM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/us/ivory-rhino-congo-trafficking.html">2 Ivory Smugglers Captured in International Operation, U.S. Says</a> NYT: The men were captured by relying on DNA sampling from a previously seized ivory haul, which helped experts pinpoint the location of poached elephants. 
  <p class="updated_time"> 06:13 PM CT, Nov. 12 </p> 
@@ -111,8 +113,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59265609?at_medium=RSS&at_campaign=KARANGA">BBC's Simpson revisits Afghanistan under the Taliban</a> BBC: In 2001, the BBC's World Affairs editor was part of a team which entered the city when the Taliban fell. 
  <p class="updated_time"> 06:04 PM CT, Nov. 12 </p> 
  <a href="https://www.bbc.co.uk/news/stories-59171107?at_medium=RSS&at_campaign=KARANGA">'I could have been a racist killer'</a> BBC: As a teenager, Mike was an armed and angry US Nazi. Looking back, he fears he came close to murder. 
- <p class="updated_time"> 05:19 PM CT, Nov. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59270291?at_medium=RSS&at_campaign=KARANGA">Steve Bannon charged with contempt of Congress</a> BBC: Former Trump strategist charged after refusing to testify to committee investigating US Capitol riot. 
  <p class="updated_time"> 04:30 PM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/11/world/asia/zuo-fang-dead.html">Zuo Fang, a Founder of China's Southern Weekly, is Dead</a> NYT: When he helped start Southern Weekly, he charted a course for a freer era for the country’s press, which later became increasingly constrained by Beijing. 
  <p class="updated_time"> 04:13 PM CT, Nov. 12 </p> 
@@ -121,8 +121,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/12/1055366701/birds-in-the-amazon-have-been-shrinking-heres-why-scientists-think-its-happening">Birds in the Amazon have been shrinking. Here's why scientists think it's happening</a> NPR: Over the last four decades, birds in the Amazon have been shrinking — and scientists believe their smaller bodies may be a response to hotter, drier weather brought by climate change. 
  <p class="updated_time"> 04:03 PM CT, Nov. 12 </p> 
  <a href="https://www.npr.org/2021/11/12/1055366687/the-financial-impact-of-climate-change">The financial impact of climate change</a> NPR: For some people attending the UN's COP26 conference in Scotland, climate change is not a future threat — they are seeing its impact on their homelands now. 
- <p class="updated_time"> 03:39 PM CT, Nov. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59266213?at_medium=RSS&at_campaign=KARANGA">Astroworld: Dozens more lawsuits filed over deadly festival crush</a> BBC: A woman who was at the festival told reporters that said didn't know she was buying a "death ticket". 
  <p class="updated_time"> 03:24 PM CT, Nov. 12 </p> 
  <a href="https://www.npr.org/2021/11/12/1055366608/myanmar-court-sentences-american-journalist-danny-fenster-to-11-years-in-prison">Myanmar court sentences American journalist Danny Fenster to 11 years in prison</a> NPR: U.S. journalist Danny Fenster was sentenced to 11 years in prison in Myanmar. He was found guilty of incitement and two other charges. 
  <p class="updated_time"> 03:24 PM CT, Nov. 12 </p> 
@@ -185,10 +183,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/11/world/europe/glasgow-garbage-strike.html">Outside COP26, Trash in Glasgow Piles High</a> NYT: At COP26, delegates address the need to curb emissions and mass consumption to save the planet while the reality of today’s throwaway society is all too apparent nearby. 
  <p class="updated_time"> 08:46 PM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/world/asia/india-pollution-yamuna-chhath.html">On Delhi’s Toxic River, Prayers to a Sun Struggling to Shine Through Smog</a> NYT: Every year, a four-day festival to the sun god Surya highlights the Indian city’s extreme air and water pollution, with a river so filled with foam it resembles a blizzard’s aftermath. 
- <p class="updated_time"> 06:40 PM CT, Nov. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59214544?at_medium=RSS&at_campaign=KARANGA">US women are being jailed for having miscarriages</a> BBC: More and more American women are facing prison for allegedly harming their unborn baby by using drugs. 
- <p class="updated_time"> 06:14 PM CT, Nov. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-middle-east-59246033?at_medium=RSS&at_campaign=KARANGA">At Iraq's election protest camp, militia supporters dig in</a> BBC: Tensions grow as defiant groups vow to stay put until election results are overturned. 
  <p class="updated_time"> 05:37 PM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/world/who-is-aleksandr-g-lukashenko.html">Who Is Aleksandr Lukashenko? Here's What You Need to Know</a> NYT: A migrant crisis on the border with Poland has put the Belarusian president at the center of a clash roiling Europe. 
  <p class="updated_time"> 05:03 PM CT, Nov. 11 </p> 
@@ -203,20 +197,12 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/11/world/middleeast/saudi-court-execution-crime.html">Saudi Court Blocks Execution of Man Convicted of Crime Committed at 14</a> NYT: Rights groups said the death sentence for Abdullah al-Huwaiti ran contrary to the kingdom’s claimed legal reforms. Now he’ll be retried. 
  <p class="updated_time"> 01:38 PM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/world/middleeast/israel-palestinian-nso-hacking.html">Palestinian Diplomats Targeted by Israeli Spyware, Official Says</a> NYT: The accusation, which has not been independently verified, raises new questions over whether Israel is using software made by NSO Group to spy on Palestinians. 
- <p class="updated_time"> 01:23 PM CT, Nov. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59253377?at_medium=RSS&at_campaign=KARANGA">Poland-Belarus: How social media posts fuelled the migrant crisis</a> BBC: Messages on social media had a key role in a mass move of migrants to the Polish border this week. 
  <p class="updated_time"> 12:56 PM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/world/africa/sudan-military-coup.html">Sudan’s Top General Entrenches Military Coup, Frustrating Western Efforts</a> NYT: A little over two weeks after seizing power, Sudan’s top general created a new ruling body led by himself. The civilian prime minister remains under house arrest. 
- <p class="updated_time"> 12:22 PM CT, Nov. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59252082?at_medium=RSS&at_campaign=KARANGA">FW de Klerk: The man who still divides South Africa</a> BBC: Was he a visionary who ended a racist system, or should he have been prosecuted? 
- <p class="updated_time"> 11:37 AM CT, Nov. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-59247789?at_medium=RSS&at_campaign=KARANGA">Quiz of the week: Which actor destroyed an original Banksy?</a> BBC: How closely have you been paying attention to what's been going on during the past seven days? 
  <p class="updated_time"> 10:45 AM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/world/europe/poland-forests-border-crisis.html">On the Ground: Migrants in Poland's Forests Are Hiding and Hurting</a> NYT: The forests stretch past a restricted zone, and it is there that migrants like this group of eight who have made it past the guards and the razor wire are waiting for an opportunity to continue on. 
  <p class="updated_time"> 07:57 AM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/world/europe/eu-covid-deaths.html">Europe's Covid Deaths Rose 10 Percent in a Week, the W.H.O. Says</a> NYT: Cases and fatalities have increased on the continent, even as they have dropped or remained stable in other parts of the globe. 
- <p class="updated_time"> 04:54 AM CT, Nov. 11 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-13230608?at_medium=RSS&at_campaign=KARANGA">FW de Klerk: South Africa's last white president</a> BBC: The last president of a segregated South Africa, who freed Nelson Mandela, and paved the way to majority rule. 
  <p class="updated_time"> 04:02 AM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/t-magazine/mansaf-bedouin-rice.html">For Many Members of the Arab American Diaspora, Mansaf Offers a Taste of Home</a> NYT: The traditional Bedouin dish of bread, rice, lamb and yogurt is a talisman of identity in Jordan — and in various communities in suburban Detroit. 
 
@@ -226,10 +212,15 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:29 PM CT, Nov. 13 </p> 
+ <a href="https://www.politico.com/news/2021/11/13/coalglasgow-climate-deal-521802">The last-minute coal demand that almost sunk the Glasgow climate deal</a> Politico: At issue was a late push from China and India. 
  <p class="updated_time"> 07:23 PM CT, Nov. 13 </p> 
  <a href="https://www.politico.com/gallery/2021/11/13/photos-the-faces-of-cop26-003757">PHOTOS: The faces of COP26</a> Politico: The U.N. climate summit in Glasgow, Scotland, known as COP26, brought world leaders, activists and other interested parties together from Oct. 31 to Nov. 13 to debate and implement solutions to climate change. 
+ <p class="updated_time"> 07:03 PM CT, Nov. 13 </p> 
+ <a href="https://www.cnn.com/2021/11/13/politics/pentagon-oklahoma-national-guard-vaccine-mandate/index.html">Pentagon says it will respond 'appropriately' after Oklahoma National Guard rejects federal vaccine mandate 
+</a> CNN: The Pentagon said it would respond to Oklahoma's Republican governor after the state's National Guard indicated it would thwart a Defense Department mandate that troops be vaccinated against Covid-19. 
  <p class="updated_time"> 07:02 PM CT, Nov. 13 </p> 
- <a href="https://www.politico.com/news/2021/11/13/climate-talks-glasgow-521720">The U.S. turns up the heat at climate talks</a> Politico: After four years of taking a backseat role under Donald Trump, the Biden administration was a driving force at the Glasgow COP26 talks. But winning a strong global agreement remains difficult. 
+ <a href="https://www.politico.com/news/2021/11/13/climate-talks-glasgow-521720">The U.S. turns up the heat at climate talks</a> Politico: After four years of taking a backseat role under Donald Trump, the Biden team was a driving force at the Glasgow COP26 talks. But winning a strong global agreement remains difficult. 
  <p class="updated_time"> 05:41 PM CT, Nov. 13 </p> 
  <a href="https://www.cnn.com/2021/11/13/politics/political-typology-spectrum-what-matters/index.html">There are 9 political types in the US. Which are you?</a> CNN: There are Democrats and Republicans in office, and we refer to them as Democrats and Republicans in this newsletter because that's how they vote. 
  <p class="updated_time"> 05:40 PM CT, Nov. 13 </p> 
@@ -252,8 +243,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/12/us/politics/kamala-harris-macron-france.html">In France, Kamala Harris Searches for Role on Global Stage</a> NYT: The vice president met with President Emmanuel Macron of France, skirting recent U.S.-French tensions, and immersed herself in issues like Libya and cybersecurity. 
  <p class="updated_time"> 12:40 PM CT, Nov. 13 </p> 
  <a href="https://www.npr.org/2021/11/13/1055524205/more-republican-leaders-try-to-ban-books-on-race-lgbtq-issues">More Republican leaders try to ban books on race, LGBTQ issues</a> NPR: In the latest instance, South Carolina Gov. Henry McMaster calls on the state's department of education to look into banning a book about queer identity, saying the content is sexually explicit. 
- <p class="updated_time"> 11:43 AM CT, Nov. 13 </p> 
- <a href="https://www.politico.com/news/2021/11/13/india-coal-cop26-521365">India tries to block coal phaseout from COP26 deal</a> Politico: An official argued that developing countries were “entitled to the responsible use of fossil fuels.” 
  <p class="updated_time"> 11:00 AM CT, Nov. 13 </p> 
  <a href="https://www.cnn.com/2021/11/13/politics/midterms-democrats-biden-analysis/index.html">History says Biden and Democrats probably won't recover by the midterms</a> CNN: President Joe Biden's approval rating is at its lowest point since he took office. His approval rating has slid into the low 40s this month. And while the President has plenty of time to recover before his potential reelection in 2024, history suggests that his chances of becoming popular and Democrats gaining ground by the midterms in 2022 are small. 
  <p class="updated_time"> 10:28 AM CT, Nov. 13 </p> 
@@ -418,8 +407,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/huddle/2021/11/11/just-checking-the-cbo-score-495067">Just checking the (CBO) score</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:16 AM CT, Nov. 11 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/11/the-other-big-intra-democratic-fight-495065">POLITICO Playbook: The other big intra-Democratic fight</a> Politico: And the inflation jump turns the temperature up. 
- <p class="updated_time"> 06:05 AM CT, Nov. 11 </p> 
- <a href="https://www.cnn.com/2021/11/11/politics/joe-biden-inflation-messaging/index.html">Biden changes his tone and walks a delicate line on inflation</a> CNN: Rising consumer prices have quickly become one of the White House's most urgent concerns as Americans grow unsettled at the higher cost of goods -- and place the blame on President Joe Biden. 
  <p class="updated_time"> 04:30 AM CT, Nov. 11 </p> 
  <a href="https://www.politico.com/news/2021/11/11/bidens-voters-recovery-conundrum-520771">Biden's ‘I feel your pain’ conundrum</a> Politico: It’s tripped up the last two Democratic presidents and could trip up Biden too: How to sell a recovery when most voters aren’t feeling it. 
  <p class="updated_time"> 06:28 PM CT, Nov. 10 </p> 
