@@ -4,9 +4,11 @@ title: News Rivers
 permalink: /projects/news/
 ---
 
-<details>
-<summary><h2>World News</h2></summary>
+<details open>
+<summary>World News</summary>
 
+ <p class="updated_time"> 02:08 PM CT, Nov. 14 </p> 
+ <a href="https://www.npr.org/2021/11/14/1055680400/3-dead-hundreds-injured-after-storms-rouse-scorpions-in-egypt">3 dead, hundreds injured after storms rouse scorpions in Egypt</a> NPR: The city of Aswan has been dealing with an influx of scorpions and snakes, thanks to a recent rash of heavy storms disturbing their hiding places. 
  <p class="updated_time"> 01:42 PM CT, Nov. 14 </p> 
  <a href="https://www.nytimes.com/2021/11/14/world/europe/liverpool-hospital-car-explosion.html">Taxi Explodes Outside Liverpool Hospital, Killing One</a> NYT: Three men in their twenties were arrested under Britain’s Terrorism Act several hours after the explosion, in which a second person was injured, the authorities said. 
  <p class="updated_time"> 01:28 PM CT, Nov. 14 </p> 
@@ -159,8 +161,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/12/1055366701/birds-in-the-amazon-have-been-shrinking-heres-why-scientists-think-its-happening">Birds in the Amazon have been shrinking. Here's why scientists think it's happening</a> NPR: Over the last four decades, birds in the Amazon have been shrinking — and scientists believe their smaller bodies may be a response to hotter, drier weather brought by climate change. 
  <p class="updated_time"> 04:03 PM CT, Nov. 12 </p> 
  <a href="https://www.npr.org/2021/11/12/1055366687/the-financial-impact-of-climate-change">The financial impact of climate change</a> NPR: For some people attending the UN's COP26 conference in Scotland, climate change is not a future threat — they are seeing its impact on their homelands now. 
- <p class="updated_time"> 03:24 PM CT, Nov. 12 </p> 
- <a href="https://www.npr.org/2021/11/12/1055366608/myanmar-court-sentences-american-journalist-danny-fenster-to-11-years-in-prison">Myanmar court sentences American journalist Danny Fenster to 11 years in prison</a> NPR: U.S. journalist Danny Fenster was sentenced to 11 years in prison in Myanmar. He was found guilty of incitement and two other charges. 
  <p class="updated_time"> 03:09 PM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/world/asia/myanmar-danny-fenster.html">Danny Fenster, U.S. Journalist in Myanmar, Gets 11 Years in Jail</a> NYT: Danny Fenster was given the toughest possible sentence on three charges, in a signal that the country’s military rulers would not bow to international pressure. 
  <p class="updated_time"> 02:57 PM CT, Nov. 12 </p> 
@@ -216,7 +216,7 @@ permalink: /projects/news/
 </details>
 
 <details>
-<summary><h2>Politics</h2></summary>
+<summary>Politics</summary>
 
  <p class="updated_time"> 01:24 PM CT, Nov. 14 </p> 
  <a href="https://www.politico.com/news/2021/11/14/catholic-bishops-biden-abortion-522105">U.S. Catholic bishops may dodge rebuke of Biden over abortion</a> Politico: While some bishops have said they would deny Communion to the president, there is no national policy on the matter. 
@@ -255,7 +255,7 @@ permalink: /projects/news/
  <p class="updated_time"> 08:46 AM CT, Nov. 14 </p> 
  <a href="https://www.politico.com/news/2021/11/14/samantha-power-usaid-future-515606">Power moves: Samantha Power’s celebrity draws spotlight to USAID — and questions about her future</a> Politico: The longtime human rights crusader is energizing an agency few Americans know about, while fueling speculation about her next step. 
  <p class="updated_time"> 08:45 AM CT, Nov. 14 </p> 
- <a href="https://www.nytimes.com/2021/11/14/business/economy/farm-exports-supply-chain-ports.html">Crunch at Ports May Mean Crisis for American Farms</a> NYT: Backlogs and cancellations are hitting growers as costs rise, profits slump and overseas customers shop elsewhere. 
+ <a href="https://www.nytimes.com/2021/11/14/business/economy/farm-exports-supply-chain-ports.html">Supply Chain Disruptions May Mean Crisis for U.S. Farms</a> NYT: Backlogs and cancellations are hitting growers as costs rise, profits slump and overseas customers shop elsewhere. 
  <p class="updated_time"> 08:06 AM CT, Nov. 14 </p> 
  <a href="https://www.cnn.com/2021/11/14/politics/biden-approval-rating/index.html">Can Biden revive his popularity in time for midterm elections? </a> CNN: From Virginia to New Jersey, Democratic election woes this month had a common thread: the unpopularity of President Joe Biden. 
  <p class="updated_time"> 07:44 AM CT, Nov. 14 </p> 
