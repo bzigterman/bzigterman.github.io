@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:35 AM CT, Nov. 14 </p> 
+ <a href="https://www.nytimes.com/2021/11/14/world/americas/cuba-protest.html">In Cuba, Desires for Food and Freedom May Spark a Rare Day of Protest</a> NYT: Young dissidents who rely on the internet to spread their ideas are calling for a protest on Monday, a bold move with little precedent in Cuba. 
  <p class="updated_time"> 10:17 AM CT, Nov. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59283128?at_medium=RSS&at_campaign=KARANGA">Covid: Austria orders nationwide lockdown for unvaccinated</a> BBC: The new rules are being introduced amid record infection levels and growing pressure on hospitals. 
  <p class="updated_time"> 10:14 AM CT, Nov. 14 </p> 
@@ -45,8 +47,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/14/world/asia/afghanistan-isis-shiites.html">The String of ISIS Attacks That Killed Three Generations of One Afghan Family</a> NYT: Over two weeks, the Rajabis suffered loss after loss as suicide attacks on Shiite mosques in two parts of the country ravaged their family. 
  <p class="updated_time"> 02:53 AM CT, Nov. 14 </p> 
  <a href="https://www.nytimes.com/2021/11/13/world/canada/newfoundland-migrants.html">Urbanites in Canada Flock to Atlantic Region Amid Remote Work Shift</a> NYT: As housing prices soar in big cities, the country’s eastern provinces are experiencing a surge in migration. Newcomers are being welcomed, but some locals are wary. 
- <p class="updated_time"> 02:03 AM CT, Nov. 14 </p> 
- <a href="https://www.nytimes.com/2021/11/14/world/americas/cuba-protest.html">In Cuba, Desires for Food and Freedom May Spark a Rare Day of Protest</a> NYT: Young dissidents who rely on the internet to spread their ideas are calling for a protest on Monday, a bold move with little precedent in Cuba. 
  <p class="updated_time"> 12:45 AM CT, Nov. 14 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59277713?at_medium=RSS&at_campaign=KARANGA">COP26: The two week summit in two minutes</a> BBC: The UN’s climate summit has come to an end after two weeks in Glasgow, here are some of the stand out moments. 
  <p class="updated_time"> 11:53 PM CT, Nov. 13 </p> 
@@ -224,10 +224,18 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:41 AM CT, Nov. 14 </p> 
+ <a href="https://www.politico.com/news/2021/11/14/schiff-bannon-indictment-comply-522016">Rep. Schiff: Bannon’s indictment will ‘without a doubt’ lead others to comply with Jan. 6 panel</a> Politico: “It’s very positive,” the California Democrat said. 
+ <p class="updated_time"> 11:41 AM CT, Nov. 14 </p> 
+ <a href="https://www.politico.com/news/2021/11/14/schiff-bannon-indictment-comply-522016">Rep. Schiff: Bannon’s indictment will ‘without a doubt’ lead others to comply with Jan. 6 panel</a> Politico: “It’s very positive,” the California Democrat said. 
  <p class="updated_time"> 11:02 AM CT, Nov. 14 </p> 
  <a href="https://www.politico.com/news/2021/11/14/paxton-texas-mandates-wallace-521984">Texas attorney general opposes federal edicts, supports state edicts</a> Politico: Ken Paxton got a bit tangled up discussing the president’s mandates in an interview with Chris Wallace. 
+ <p class="updated_time"> 10:54 AM CT, Nov. 14 </p> 
+ <a href="https://www.nytimes.com/2021/11/14/us/ghost-guns-homemade-firearms.html">‘Ghost Guns’: Firearm Kits Bought Online Fuel Epidemic of Violence</a> NYT: They are untraceable and can be ordered with a click by children, gang members and felons. The Biden administration is trying to crack down, but law enforcement officials believe the problem may be here to stay. 
  <p class="updated_time"> 10:43 AM CT, Nov. 14 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/14/no-bif-bump-for-biden-495093">POLITICO Playbook: No BIF bump for Biden</a> Politico: And COP26 wraps up in Scotland. 
+ <p class="updated_time"> 10:41 AM CT, Nov. 14 </p> 
+ <a href="https://www.cnn.com/2021/11/14/politics/chris-christie-predictions-trump-2024/index.html">Chris Christie: 'The idea of making predictions for 2024 is folly'</a> CNN: Former New Jersey Gov. Chris Christie -- who has been outspoken against former President Donald Trump's lies about the 2020 election results -- says he does not want to make predictions about 2024 and is unsure whether he or Trump will run again. 
  <p class="updated_time"> 10:21 AM CT, Nov. 14 </p> 
  <a href="https://www.cnn.com/2021/11/14/politics/anthony-gonzalez-donald-trump-cnntv/index.html">Rep. Anthony Gonzalez: 'The cold hard truth is Donald Trump led us into a ditch on January 6'</a> CNN: Rep. Anthony Gonzalez of Ohio, a House Republican who voted to impeach former President Donald Trump in his second impeachment trial earlier this year, repeatedly slammed Trump in an extensive sit-down interview with CNN's Jake Tapper. 
  <p class="updated_time"> 10:12 AM CT, Nov. 14 </p> 
@@ -240,8 +248,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/14/politics/biden-infrastructure-roads-bridges/index.html">4 projects that could be funded by Biden's infrastructure package</a> CNN: The passage of the $1.2 trillion infrastructure spending package is setting off a mad dash from states and counties seeking federal funds to repair and replace the nation's crumbling bridges, roads and ports. 
  <p class="updated_time"> 09:58 AM CT, Nov. 14 </p> 
  <a href="https://www.cnn.com/2021/11/14/politics/brian-deese-inflation-cnntv/index.html">Biden's top economic adviser urges passage of economic bill to combat rising inflation</a> CNN: President Joe Biden's top economic adviser on Sunday cited rising inflation in the US as a reason for Congress to pass the President's massive economic package, arguing the legislation will help stymie rapidly rising prices of consumer goods. 
- <p class="updated_time"> 09:26 AM CT, Nov. 14 </p> 
- <a href="https://www.cnn.com/2021/11/14/politics/chris-christie-predictions-trump-2024/index.html">Chris Christie: 'The idea of making predictions for 2024 is folly'</a> CNN: Former New Jersey Gov. Chris Christie -- who has been outspoken against former President Donald Trump's lies about the 2020 election results -- says he does not want to make predictions about 2024 and is unsure whether he or Trump will run again. 
  <p class="updated_time"> 09:15 AM CT, Nov. 14 </p> 
  <a href="https://www.politico.com/news/2021/11/14/schumer-schedule-reconciliation-bill-521931">Schumer shakes up schedule as reconciliation bill slog continues</a> Politico: The Biden White House’s social spending plan will probably have to wait some more. 
  <p class="updated_time"> 09:15 AM CT, Nov. 14 </p> 
@@ -398,8 +404,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/11/republicans-wrestle-infrastructure-backlash-520956">‘I hope it’s a fever that will break’: GOP wrestles with infrastructure vote backlash</a> Politico: ‘Some elements of the party keep finding new ways to define Republicanism,’ says one longtime GOP lobbyist and strategist. 
  <p class="updated_time"> 05:04 PM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/us/politics/dc-jail-jan-6.html">Problems at D.C. Jail Were Ignored Until Jan. 6 Defendants Came Along</a> NYT: At a hearing this week, officials said longstanding issues at the jail, where most inmates are Black, did not get much attention until the largely white rioters were held there. 
- <p class="updated_time"> 04:45 PM CT, Nov. 11 </p> 
- <a href="https://www.nytimes.com/2021/11/11/us/politics/republicans-infrastructure-bill.html">Illinois Republican Lawmakers at Odds on Infrastructure Bill</a> NYT: Representative Darin LaHood voted against the infrastructure bill while Representative Adam Kinzinger supported it. The split reflects the Republican Party’s post-Trump era of uncertainty. 
  <p class="updated_time"> 04:41 PM CT, Nov. 11 </p> 
  <a href="https://www.politico.com/news/2021/11/11/dems-white-house-biden-520946">Dems to White House: The only prescription is more Biden</a> Politico: The president has been more a facilitator than manager of the legislative process. His party wants more of the latter. 
  <p class="updated_time"> 04:39 PM CT, Nov. 11 </p> 
