@@ -218,6 +218,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:05 PM CT, Nov. 14 </p> 
+ <a href="https://www.nytimes.com/2021/11/14/business/economy/farm-exports-supply-chain-ports.html">Supply Chain Disruptions May Mean Crisis for U.S. Farms</a> NYT: Backlogs and cancellations are hitting growers as costs rise, profits slump and overseas customers shop elsewhere. 
  <p class="updated_time"> 02:15 PM CT, Nov. 14 </p> 
  <a href="https://www.nytimes.com/2021/11/14/us/ghost-guns-homemade-firearms.html">‘Ghost Guns’: Firearm Kits Bought Online Fuel Epidemic of Violence</a> NYT: They are untraceable, assembled from parts and can be ordered by gang members, felons and even children. They are increasingly the lethal weapon of easy access around the U.S., but especially California. 
  <p class="updated_time"> 01:24 PM CT, Nov. 14 </p> 
@@ -248,8 +250,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/14/schumer-schedule-reconciliation-bill-521931">Senate likely to take up social spending bill in December as Dem slog continues</a> Politico: “On a bill of this magnitude, this process takes time and patience,” he said. 
  <p class="updated_time"> 08:46 AM CT, Nov. 14 </p> 
  <a href="https://www.politico.com/news/2021/11/14/samantha-power-usaid-future-515606">Power moves: Samantha Power’s celebrity draws spotlight to USAID — and questions about her future</a> Politico: The longtime human rights crusader is energizing an agency few Americans know about, while fueling speculation about her next step. 
- <p class="updated_time"> 08:45 AM CT, Nov. 14 </p> 
- <a href="https://www.nytimes.com/2021/11/14/business/economy/farm-exports-supply-chain-ports.html">Supply Chain Disruptions May Mean Crisis for U.S. Farms</a> NYT: Backlogs and cancellations are hitting growers as costs rise, profits slump and overseas customers shop elsewhere. 
  <p class="updated_time"> 08:06 AM CT, Nov. 14 </p> 
  <a href="https://www.cnn.com/2021/11/14/politics/biden-approval-rating/index.html">Can Biden revive his popularity in time for midterm elections? </a> CNN: From Virginia to New Jersey, Democratic election woes this month had a common thread: the unpopularity of President Joe Biden. 
  <p class="updated_time"> 07:44 AM CT, Nov. 14 </p> 
@@ -276,6 +276,8 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/13/politics/pentagon-oklahoma-national-guard-vaccine-mandate/index.html">Pentagon says it will respond to Oklahoma's governor after state's National Guard rejects its vaccine mandate</a> CNN: The Pentagon said it would respond to Oklahoma's Republican governor after the state's National Guard indicated it would thwart a Defense Department mandate that troops be vaccinated against Covid-19. 
  <p class="updated_time"> 08:29 PM CT, Nov. 13 </p> 
  <a href="https://www.politico.com/news/2021/11/13/coalglasgow-climate-deal-521802">The last-minute coal demand that almost sunk the Glasgow climate deal</a> Politico: At issue was a late push from China and India. 
+ <p class="updated_time"> 07:23 PM CT, Nov. 13 </p> 
+ <a href="https://www.politico.com/gallery/2021/11/13/photos-the-faces-of-cop26-003757">PHOTOS: The faces of COP26</a> Politico: The U.N. climate summit in Glasgow, Scotland, known as COP26, brought world leaders, activists and other interested parties together from Oct. 31 to Nov. 13 to debate and implement solutions to climate change. 
  <p class="updated_time"> 07:02 PM CT, Nov. 13 </p> 
  <a href="https://www.politico.com/news/2021/11/13/climate-talks-glasgow-521720">The U.S. turns up the heat at climate talks</a> Politico: After four years of taking a backseat role under Donald Trump, the Biden team was a driving force at the Glasgow COP26 talks. But winning a strong global agreement remains difficult. 
  <p class="updated_time"> 05:40 PM CT, Nov. 13 </p> 
@@ -346,6 +348,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/12/us/politics/pell-grants-for-profit-colleges-aid.html">Democrats’ Bill Would Deny For-Profit College Students Extra Aid</a> NYT: Critics say a little-noticed provision would hurt the very constituencies — people of color, the working class, low-income Americans — that the party typically champions. 
  <p class="updated_time"> 02:29 PM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/us/politics/murkowski-re-election-bid.html">Murkowski Announces Re-election Bid, Setting Up Clash With Trump</a> NYT: Of the seven Republicans who found former President Donald J. Trump guilty in his second impeachment trial, the Alaska senator is the only one facing re-election this year. 
+ <p class="updated_time"> 01:42 PM CT, Nov. 12 </p> 
+ <a href="https://www.politico.com/news/2021/11/12/russia-ukraine-invasion-putin-521139">U.S. huddles with allies over possible Russian invasion of Ukraine</a> Politico: The uptick in American concern, confirmed by two U.S. officials, indicates that President Joe Biden’s efforts to reach some sort of equilibrium with Putin are running out of steam. 
  <p class="updated_time"> 01:40 PM CT, Nov. 12 </p> 
  <a href="https://www.cnn.com/2021/11/12/politics/psaki-returns-white-house-covid/index.html">Jen Psaki returns to White House briefing room after testing positive for Covid-19</a> CNN: White House press secretary Jen Psaki returned to the White House briefing room Friday for the first time since testing positive for Covid-19, telling reporters she completed a 10-day quarantine and received a negative Covid-19 test on Thursday. 
  <p class="updated_time"> 01:21 PM CT, Nov. 12 </p> 
@@ -376,14 +380,12 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/12/jeff-flake-manu-raju-cat-mouse-520990">CNN's Manu Raju vs. Jeff Flake: Cat and mouse</a> Politico: On this episode of Playbook Deep Dive, we chase the people who chase lawmakers and tag along for the hide-and-seek between Congress and the media, and the daily challenge of covering the Hill. 
  <p class="updated_time"> 04:30 AM CT, Nov. 12 </p> 
  <a href="https://www.politico.com/news/2021/11/12/mccarthys-bumpy-ride-to-the-speakership-520670">McCarthy's vexing speaker math problem</a> Politico: Will he glide to the speakership or have a white-knuckle ride? The size of next year's Republican gains could make the difference. 
- <p class="updated_time"> 04:30 AM CT, Nov. 12 </p> 
- <a href="https://www.politico.com/news/2021/11/12/chris-christie-donald-trump-president-2024-521006">Christie’s calculus: Trump is ‘in the rearview mirror’</a> Politico: The former New Jersey governor is mounting a de facto exploratory bid for president and it’s put him on a collision course with his one-time ally. 
  <p class="updated_time"> 04:00 AM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/us/politics/democrats-trifecta-power.html">Why Democrats May Have a Long Wait if They Lose Their Grip on Washington</a> NYT: Voters’ reflexive instinct to check the party in power makes it hard for any party to retain a hold on both the White House and Congress for long. 
- <p class="updated_time"> 10:59 PM CT, Nov. 11 </p> 
- <a href="https://www.politico.com/news/2021/11/11/ohio-senate-jewish-campaign-ad-mandel-521007">‘But he’s Jewish’: Opponent questions Mandel’s faith in Ohio Senate primary debate</a> Politico: The Republican Senate frontrunner was targeted earlier in an ad criticizing him for courting evangelical Christians. 
  <p class="updated_time"> 05:30 PM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/us/politics/facebook-political-ads.html">Facebook's Ad Policies Changed, but Political Campaigns Can Still Target You</a> NYT: Meta announced changes to its ad-targeting policies, but they will do little to stop campaigns from reaching specific voters. 
+ <p class="updated_time"> 05:17 PM CT, Nov. 11 </p> 
+ <a href="https://www.politico.com/news/2021/11/11/us-europe-climate-pledges-developing-countries-520968">Emerging economies spar with U.S. over ‘carbon colonialism’</a> Politico: The group of developing countries, which includes China and India, slammed the effort by U.S. climate envoy John Kerry and European negotiators for countries to conduct the reviews of their climate initiatives more often. 
  <p class="updated_time"> 05:16 PM CT, Nov. 11 </p> 
  <a href="https://www.politico.com/news/2021/11/11/republicans-wrestle-infrastructure-backlash-520956">‘I hope it’s a fever that will break’: GOP wrestles with infrastructure vote backlash</a> Politico: ‘Some elements of the party keep finding new ways to define Republicanism,’ says one longtime GOP lobbyist and strategist. 
  <p class="updated_time"> 05:04 PM CT, Nov. 11 </p> 
