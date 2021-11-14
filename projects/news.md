@@ -7,10 +7,12 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:52 AM CT, Nov. 14 </p> 
+ <a href="https://www.nytimes.com/2021/11/14/world/europe/queen-elizabeth-health.html">Queen Elizabeth to Miss Remembrance Service Because of Sprained Back</a> NYT: The British monarch, 95, has put off multiple trips and engagements recently, and the latest cancellation has deepened anxiety about her health. She has now been out of sight since mid-October. 
  <p class="updated_time"> 02:53 AM CT, Nov. 14 </p> 
  <a href="https://www.nytimes.com/2021/11/13/world/canada/newfoundland-migrants.html">Urbanites in Canada Flock to Atlantic Region Amid Remote Work Shift</a> NYT: As housing prices soar in big cities, the country’s eastern provinces are experiencing a surge in migration. Newcomers are being welcomed, but some locals are wary. 
  <p class="updated_time"> 02:47 AM CT, Nov. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-59277788?at_medium=RSS&at_campaign=KARANGA">COP26: New global climate deal struck in Glasgow</a> BBC: The decision to phase down coal shows progress but pledges are not enough to cap temperature rises. 
+ <a href="https://www.bbc.co.uk/news/world-59277788?at_medium=RSS&at_campaign=KARANGA">COP26: New climate deal aims to slow climate change</a> BBC: The decision to phase down coal shows progress but pledges are not enough to cap temperature rises. 
  <p class="updated_time"> 02:03 AM CT, Nov. 14 </p> 
  <a href="https://www.nytimes.com/2021/11/14/world/americas/cuba-protest.html">In Cuba, Desires for Food and Freedom May Spark a Rare Day of Protest</a> NYT: Young dissidents who rely on the internet to spread their ideas are calling for a protest on Monday, a bold move with little precedent in Cuba. 
  <p class="updated_time"> 12:45 AM CT, Nov. 14 </p> 
@@ -181,8 +183,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-53494405?at_medium=RSS&at_campaign=KARANGA">Britney Spears: Singer's conservatorship case explained</a> BBC: The US singer's bid to end her father's guardianship could reach its conclusion this week. 
  <p class="updated_time"> 02:36 AM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/11/world/europe/migrants-poland-belarus-lukashenko.html">Migrants in Peril, and Raw Emotions, in a Volatile European Border Standoff</a> NYT: A confrontation over migrants between Belarus and Poland is growing more volatile, as nationalist fervor rises in both countries and a humanitarian disaster looms. 
- <p class="updated_time"> 11:09 PM CT, Nov. 11 </p> 
- <a href="https://www.nytimes.com/2021/11/11/t-magazine/senegal-homegrown-rice.html">In Senegal, a Return to Homegrown Rice</a> NYT: The country has remained mostly dependent on the grain’s importation since colonization in the 1800s. But some locals are trying to change that. 
  <p class="updated_time"> 11:06 PM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/t-magazine/mexico-rice-conquest.html">Tracing Mexico’s Complicated Relationship With Rice</a> NYT: Having arrived in the country via the Spanish Conquest, the grain’s presence poses the question: What’s native, and what isn’t, when it comes to a nation’s culinary history? 
  <p class="updated_time"> 09:46 PM CT, Nov. 11 </p> 
