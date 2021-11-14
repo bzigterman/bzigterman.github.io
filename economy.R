@@ -848,9 +848,9 @@ permalink: /projects/economy/
 <details>
 <summary><h2>Illinois</h2></summary>
 
-![Flash Index]({{ site.baseurl }}/plots/il_flash_index.png)
+<img src="{{ site.baseurl }}/plots/il_flash_index.png" alt="Flash Index">
 
-Source: [Institute of Government and Public Affairs at the University of Illinois](https://igpa.uillinois.edu/page/flash-index-archive).
+Source: <a href="https://igpa.uillinois.edu/page/flash-index-archive">Institute of Government and Public Affairs at the University of Illinois</a>
 
 </details>
 
