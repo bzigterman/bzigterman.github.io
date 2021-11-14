@@ -7,10 +7,12 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:54 AM CT, Nov. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-59280241?at_medium=RSS&at_campaign=KARANGA">China and India must explain themselves - COP president</a> BBC: COP26 President Alok Sharma speaks after an agreement to "phase down" coal rather than "phase out". 
  <p class="updated_time"> 06:33 AM CT, Nov. 14 </p> 
  <a href="https://www.npr.org/2021/11/14/1055641481/queen-elizabeth-sprained-back-remembrance-sunday">Sprained back forces Queen Elizabeth to miss remembrance event for Britain's war dead</a> NPR: Remembrance Sunday is one of the most important events on the 95-year-old monarch's calendar. It was expected to be her first public appearance after canceling others recently on doctors' advice. 
- <p class="updated_time"> 05:55 AM CT, Nov. 14 </p> 
- <a href="https://www.bbc.co.uk/news/uk-59280241?at_medium=RSS&at_campaign=KARANGA">China and India must explain themselves - COP president</a> BBC: COP26 President Alok Sharma says Glasgow climate pact is historic and it keeps 1.5C within reach. 
+ <p class="updated_time"> 06:13 AM CT, Nov. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59279585?at_medium=RSS&at_campaign=KARANGA">US covered up deadly air strikes in Syria, New York Times reports</a> BBC: The strikes occurred in the last stronghold of the so-called Islamic State in Syria in 2019. 
  <p class="updated_time"> 05:26 AM CT, Nov. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59280706?at_medium=RSS&at_campaign=KARANGA">US bank robber identified after decades-long hunt</a> BBC: Ted Conrad disappeared with $1.7 million after pulling off a bizarre heist more than 50 years ago. 
  <p class="updated_time"> 04:00 AM CT, Nov. 14 </p> 
@@ -70,7 +72,7 @@ permalink: /projects/news/
  <p class="updated_time"> 01:18 PM CT, Nov. 13 </p> 
  <a href="https://www.npr.org/2021/11/13/1055554319/cop26-climate-agreement-global-warming-glasgow">At COP26, nations strike a climate deal with coal compromise</a> NPR: Government negotiators from nearly 200 countries have adopted a new deal on climate action after a last-minute intervention by India to water down the language on cutting emissions from coal. 
  <p class="updated_time"> 01:09 PM CT, Nov. 13 </p> 
- <a href="https://www.wsj.com/articles/cop26-negotiators-work-towards-climate-deal-11636810622">World Governments Agree to Strengthen Emissions Pledges</a> WSJ: More than 190 nations reached a deal at the United Nations climate summit that aims to accelerate greenhouse-gas-emissions cuts across the world, but leaves big questions over how governments will follow through in the coming decade. 
+ <a href="https://www.wsj.com/articles/cop26-negotiators-work-towards-climate-deal-11636810622">Leaders Agree to Emissions Deal, but Questions Loom</a> WSJ: More than 190 nations reached a deal at the United Nations climate summit that aims to accelerate greenhouse-gas-emissions cuts across the world, but leaves big questions over how governments will follow through in the coming decade. 
  <p class="updated_time"> 01:01 PM CT, Nov. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59274686?at_medium=RSS&at_campaign=KARANGA">Egypt: Scorpions kill three and injure hundreds in Aswan</a> BBC: Three people are killed by scorpion stings after storms brought the creatures onto the streets. 
  <p class="updated_time"> 12:56 PM CT, Nov. 13 </p> 
@@ -218,6 +220,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:44 AM CT, Nov. 14 </p> 
+ <a href="https://www.politico.com/news/2021/11/14/pope-francis-poor-injustice-521896">Pope: The poor are often victims of injustice</a> Politico: He celebrated Sunday Mass in St. Peter’s Basilica attended by 2,000 indigent people. 
  <p class="updated_time"> 07:01 AM CT, Nov. 14 </p> 
  <a href="https://www.politico.com/news/2021/11/14/gop-trump-pennsylvania-suburbs-521655">GOP roars back to life in Trump-resistant Pennsylvania suburbs</a> Politico: The Republican rebound suggests the Democratic suburban slide reaches beyond Virginia and New Jersey. 
  <p class="updated_time"> 06:30 AM CT, Nov. 14 </p> 
@@ -335,8 +339,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/12/us/politics/pell-grants-for-profit-colleges-aid.html">Democrats’ Bill Would Deny For-Profit College Students Extra Aid</a> NYT: Critics say a little-noticed provision would hurt the very constituencies — people of color, the working class, low-income Americans — that the party typically champions. 
  <p class="updated_time"> 02:57 PM CT, Nov. 12 </p> 
  <a href="https://www.npr.org/2021/11/12/1054309797/steve-bannon-contempt-congress-justice-department">Justice Department charges Steve Bannon with criminal contempt of Congress</a> NPR: Federal prosecutors charged Steve Bannon over his defiance of a subpoena from the congressional committee investigating the Jan. 6 Capitol siege. 
- <p class="updated_time"> 02:29 PM CT, Nov. 12 </p> 
- <a href="https://www.politico.com/news/2021/11/12/jen-psaki-returns-to-work-covid-19-521130">Press Secretary Jen Psaki returns to work after Covid-19</a> Politico: "I remain incredibly grateful for the vaccine for keeping me safe and other people in my house safe as well," she said. 
  <p class="updated_time"> 02:29 PM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/us/politics/murkowski-re-election-bid.html">Murkowski Announces Re-election Bid, Setting Up Clash With Trump</a> NYT: Of the seven Republicans who found former President Donald J. Trump guilty in his second impeachment trial, the Alaska senator is the only one facing re-election this year. 
  <p class="updated_time"> 02:09 PM CT, Nov. 12 </p> 
