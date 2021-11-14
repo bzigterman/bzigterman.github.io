@@ -4,9 +4,7 @@ title: Economic Indicators
 permalink: /projects/economy/
 ---
 
-
-<details>
-<summary>## Champaign County</summary>
+## Champaign County
 
 ![Unemployment Rate]({{ site.baseurl }}/plots/champaign_unemployment_rate.png)
 
@@ -388,19 +386,13 @@ html {
 </table>
 </div>
 
-</details>
-
-<details>
-<summary>## Illinois</summary>
+## Illinois
 
 ![Flash Index]({{ site.baseurl }}/plots/il_flash_index.png)
 
 Source: [Institute of Government and Public Affairs at the University of Illinois](https://igpa.uillinois.edu/page/flash-index-archive).
 
-</details>
-
-<details>
-<summary>## United States</summary>
+## United States
 
 ![Unemployment Rate]({{ site.baseurl }}/plots/unemployment_rate.png)
 
@@ -417,8 +409,6 @@ Source: [Institute of Government and Public Affairs at the University of Illinoi
 ![Real GDP]({{ site.baseurl }}/plots/gdp.png)
 
 ![Real Median Income]({{ site.baseurl }}/plots/real_median_income.png)
-
-</details>
 
 Data retrieved from the [Federal Reserve Bank of St. Louis](https://fred.stlouisfed.org)
 
