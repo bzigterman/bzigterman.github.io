@@ -857,21 +857,21 @@ Source: <a href="https://igpa.uillinois.edu/page/flash-index-archive">Institute 
 <details>
 <summary><h2>United States</h2></summary>
 
-![Unemployment Rate]({{ site.baseurl }}/plots/unemployment_rate.png)
+<img src="{{ site.baseurl }}/plots/unemployment_rate.png" alt="Unemployment Rate">
 
-![Employment]({{ site.baseurl }}/plots/employment.png)
+<img src="{{ site.baseurl }}/plots/employment.png" alt="Employment">
 
-![Inflation]({{ site.baseurl }}/plots/consumer_price_index.png)
+<img src="{{ site.baseurl }}/plots/consumer_price_index.png" alt="Inflation">
 
-![Retail Sales]({{ site.baseurl }}/plots/retail_sales.png)
+<img src="{{ site.baseurl }}/plots/retail_sales.png" alt="Retail Sales">
 
-![Durable Goods]({{ site.baseurl }}/plots/durable_goods.png)
+<img src="{{ site.baseurl }}/plots/durable_goods.png" alt="Durable Goods">
 
-![Consumer Sentiment]({{ site.baseurl }}/plots/consumer_sentiment.png)
+<img src="{{ site.baseurl }}/plots/consumer_sentiment.png" alt="Consumer Sentiment">
 
-![Real GDP]({{ site.baseurl }}/plots/gdp.png)
+<img src="{{ site.baseurl }}/plots/gdp.png" alt="Real GDP">
 
-![Real Median Income]({{ site.baseurl }}/plots/real_median_income.png)
+<img src="{{ site.baseurl }}/plots/real_median_income.png" alt="Real Median Income">
 
 </details>
 
