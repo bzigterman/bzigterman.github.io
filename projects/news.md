@@ -35,6 +35,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/14/world/asia/afghanistan-isis-shiites.html">The String of ISIS Attacks That Killed Three Generations of One Afghan Family</a> NYT: Over two weeks, the Rajabis suffered loss after loss as suicide attacks on Shiite mosques in two parts of the country ravaged their family. 
  <p class="updated_time"> 12:24 PM CT, Nov. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59280210?at_medium=RSS&at_campaign=KARANGA">Two Ugandan soldiers sentenced to death in Somalia</a> BBC: Five soldiers serving with the African Union are found guilty of killing seven civilians in Golweyn. 
+ <p class="updated_time"> 11:59 AM CT, Nov. 14 </p> 
+ <a href="https://www.wsj.com/articles/cop26-climate-deal-shows-fragility-of-new-emissions-cutting-pledge-11636920631">COP26 Climate Deal Shows Fragility of New Emissions-Cutting Pledge</a> WSJ: The new Glasgow pact calls for countries to bolster commitments again next year. Already, the U.S. says it likely won’t do so. 
  <p class="updated_time"> 11:54 AM CT, Nov. 14 </p> 
  <a href="https://www.nytimes.com/2021/11/14/world/africa/sierra-leone-explosion-healthcare.html">Sierra Leone Explosion Kills More and Strains Health System</a> NYT: Victims are still dying from injuries after a fuel tanker burst into flames last week in Sierra Leone, a country that has no burn units. 
  <p class="updated_time"> 11:29 AM CT, Nov. 14 </p> 
@@ -43,8 +45,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/13/world/europe/france-2015-attacks-trial-victims.html">Survivors of 2015 Paris Terrorist Attacks Testify at Trial</a> NYT: The trauma of the 2015 terrorist attacks in Paris was highlighted in testimony by survivors and others at a trial of 20 men accused of involvement. 
  <p class="updated_time"> 11:03 AM CT, Nov. 14 </p> 
  <a href="https://www.nytimes.com/2021/11/14/world/middleeast/iran-earthquake.html">At Least 1 Dead After Quakes Strike Southern Iran</a> NYT: Two moderate temblors hit Hormozgan Province on Sunday afternoon, state TV reported. 
- <p class="updated_time"> 10:37 AM CT, Nov. 14 </p> 
- <a href="https://www.wsj.com/articles/cop26-climate-deal-shows-fragility-of-new-emissions-cutting-pledge-11636920631">COP26 Climate Deal Shows Fragility of New Emissions-Cutting Pledge</a> WSJ: The new Glasgow pact calls for countries to bolster commitments again next year. Already, the U.S. says it likely won’t do so. 
  <p class="updated_time"> 10:35 AM CT, Nov. 14 </p> 
  <a href="https://www.nytimes.com/2021/11/14/world/americas/cuba-protest.html">In Cuba, Desires for Food and Freedom May Spark a Rare Day of Protest</a> NYT: Young dissidents who rely on the internet to spread their ideas are calling for a protest on Monday, a bold move with little precedent in Cuba. 
  <p class="updated_time"> 10:17 AM CT, Nov. 14 </p> 
