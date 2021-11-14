@@ -7,8 +7,10 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:08 PM CT, Nov. 14 </p> 
+ <p class="updated_time"> 01:28 PM CT, Nov. 14 </p> 
  <a href="https://www.nytimes.com/2021/11/14/world/europe/austria-unvaccinated-lockdown.html">Austria to Target the Unvaccinated in New Lockdown</a> NYT: The country, facing the biggest surge in virus cases since the pandemic started, is putting strict curbs on the movement of those without shots. 
+ <p class="updated_time"> 01:12 PM CT, Nov. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59283134?at_medium=RSS&at_campaign=KARANGA">Macron switches to using navy blue on France's flag - reports</a> BBC: The French president wants to reconnect with a symbol of the French Revolution, reports say. 
  <p class="updated_time"> 12:57 PM CT, Nov. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59279585?at_medium=RSS&at_campaign=KARANGA">US defends air strikes that killed civilians in Syria</a> BBC: The strikes occurred in the last stronghold of the so-called Islamic State in Syria in 2019. 
  <p class="updated_time"> 12:55 PM CT, Nov. 14 </p> 
@@ -109,8 +111,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/13/1055554319/cop26-climate-agreement-global-warming-glasgow">At COP26, nations strike a climate deal with coal compromise</a> NPR: Government negotiators from nearly 200 countries have adopted a new deal on climate action after a last-minute intervention by India to water down the language on cutting emissions from coal. 
  <p class="updated_time"> 01:09 PM CT, Nov. 13 </p> 
  <a href="https://www.wsj.com/articles/cop26-negotiators-work-towards-climate-deal-11636810622">Leaders Agree to Emissions Deal, but Questions Loom</a> WSJ: More than 190 nations reached a deal at the United Nations climate summit that aims to accelerate greenhouse-gas-emissions cuts across the world, but leaves big questions over how governments will follow through in the coming decade. 
- <p class="updated_time"> 12:56 PM CT, Nov. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59276274?at_medium=RSS&at_campaign=KARANGA">Sudan: Medical group says five killed in anti-coup protests</a> BBC: Five protesters were killed, medics say, days after military leaders tightened their grip on power. 
  <p class="updated_time"> 12:44 PM CT, Nov. 13 </p> 
  <a href="https://www.nytimes.com/2021/11/12/us/politics/kamala-harris-macron-france.html">In France, Kamala Harris Searches for Role on Global Stage</a> NYT: The vice president met with President Emmanuel Macron of France, skirting recent U.S.-French tensions, and immersed herself in issues like Libya and cybersecurity. 
  <p class="updated_time"> 12:33 PM CT, Nov. 13 </p> 
@@ -131,14 +131,10 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59273174?at_medium=RSS&at_campaign=KARANGA">Poland-Belarus border: The BBC reports from the camps within touching distance of the EU</a> BBC: Steve Rosenberg reports from the migrant camps within touching distance of the EU. 
  <p class="updated_time"> 08:44 AM CT, Nov. 13 </p> 
  <a href="https://www.nytimes.com/2021/11/12/world/americas/oklahoma-kevin-sitt-vaccine-mandate-national-guard.html">Oklahoma Governor Puts Foe of Vaccine Mandates in Charge of National Guard</a> NYT: The governor, Kevin Stitt, is one of a number of Republican state officials across the country who has been fighting against President Biden’s vaccine mandates. 
- <p class="updated_time"> 07:28 AM CT, Nov. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59274351?at_medium=RSS&at_campaign=KARANGA">Belarus-Poland border: Putin warns Belarus over gas threat to EU</a> BBC: Russia's leader says Belarus should not cut gas supplies to Europe over the migrant row with Poland. 
  <p class="updated_time"> 07:24 AM CT, Nov. 13 </p> 
  <a href="https://www.npr.org/2021/11/13/1055503661/the-darien-gap-was-no-mans-land-now-its-a-popular-migrant-path-to-the-u-s">The Darien Gap was no man's land. Now it's a popular migrant path to the U.S.</a> NPR: The dense jungle of the Darien Gap between Panama and Colombia was once a no man's land. It is now a busy thoroughfare for migrants heading north to the U.S. 
  <p class="updated_time"> 07:02 AM CT, Nov. 13 </p> 
  <a href="https://www.npr.org/2021/11/13/1055503636/climate-negotiations-at-cop26-center-on-timeline-and-aid-to-developing-countries">Climate negotiations at COP26 center on timeline and aid to developing countries</a> NPR: Climate negotiations in Glasgow, Scotland, have gone into overtime. Countries are divided over how quickly to cut greenhouse gas emissions and over aid to developing countries. 
- <p class="updated_time"> 06:35 AM CT, Nov. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59274204?at_medium=RSS&at_campaign=KARANGA">Sara Duterte: Daughter of Philippines leader runs for vice-president</a> BBC: Sara Duterte will run alongside the son of the country's former dictator, Ferdinand Marcos. 
  <p class="updated_time"> 06:00 AM CT, Nov. 13 </p> 
  <a href="https://www.wsj.com/articles/in-the-shadow-of-the-holocaust-a-jewish-community-begins-to-take-root-11636822801">In the Shadow of the Holocaust, a Jewish Community Takes Root</a> WSJ: Poland’s Jewish community—nearly destroyed during World War II—is growing again, but connecting people with their heritage is a race against time. 
  <p class="updated_time"> 05:19 AM CT, Nov. 13 </p> 
