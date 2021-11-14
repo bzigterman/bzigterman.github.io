@@ -15,6 +15,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/12/world/asia/china-zero-covid.html">China's 'Zero Covid' Efforts Come With a Cost</a> NYT: The Communist Party is making broad efforts to stamp out the disease entirely, but the measures come with costs. 
  <p class="updated_time"> 10:10 PM CT, Nov. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59276428?at_medium=RSS&at_campaign=KARANGA">Ecuador prison riot: New fighting at Guayaquil jail kills 68</a> BBC: Rival inmates attack each other as guns and explosives are discovered at the facility in Guayaquil. 
+ <p class="updated_time"> 08:11 PM CT, Nov. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/science-environment-59238305?at_medium=RSS&at_campaign=KARANGA">Renewable energy: How Scottish Isle of Eigg relies on wind, water, solar</a> BBC: As the world slowly moves away from using fossil fuels for electricity, a tiny Scottish island has shown it’s possible to rely almost entirely on renewables. 
  <p class="updated_time"> 07:38 PM CT, Nov. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59278277?at_medium=RSS&at_campaign=KARANGA">FBI probes cyber-attack emails sent from internal server</a> BBC: The agency is investigating after thousands of messages were sent warning of a possible cyber-attack. 
  <p class="updated_time"> 07:01 PM CT, Nov. 13 </p> 
@@ -25,6 +27,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/13/world/what-is-tromethamine-tris.html">What Is Tromethamine, or Tris? It Helps Stabilize Covid Vaccines</a> NYT: Also known as tris, the compound helps maintain the pH of vaccines, extending shelf life at warmer temperatures. 
  <p class="updated_time"> 06:04 PM CT, Nov. 13 </p> 
  <a href="https://www.bbc.co.uk/news/uk-england-somerset-59181514?at_medium=RSS&at_campaign=KARANGA">Dress embroidery project unifies women around the world</a> BBC: The artist behind a dress made in global embroidery project said it embodies the "unity" of women. 
+ <p class="updated_time"> 05:54 PM CT, Nov. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/world-59278509?at_medium=RSS&at_campaign=KARANGA">COP26: 'Paris built the arena, Glasgow starts the race' - Kerry</a> BBC: US climate envoy, John Kerry, says "we raised ambition here in Glasgow, this was not business as usual". 
  <p class="updated_time"> 04:57 PM CT, Nov. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-59277788?at_medium=RSS&at_campaign=KARANGA">COP26: New global climate deal struck in Glasgow</a> BBC: New global climate deal agreed at COP26 in Glasgow after last-minute wrangling over agreement on cutting coal. 
  <p class="updated_time"> 04:51 PM CT, Nov. 13 </p> 
@@ -35,6 +39,10 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/13/1055575788/world-leaders-commit-to-ambitious-goals-at-u-n-climate-summit">World leaders commit to ambitious goals at U.N. climate summit</a> NPR: The U.N. climate summit's landmark decision sets aggressive targets for cutting greenhouse emissions. It also promises more aid for developing countries, but many of those countries wanted more. 
  <p class="updated_time"> 03:35 PM CT, Nov. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59274688?at_medium=RSS&at_campaign=KARANGA">Covid: Dutch accept life within 'lockdown-lite'</a> BBC: Most in the Netherlands support a new lockdown-lite, despite anti-lockdown protests making headlines. 
+ <p class="updated_time"> 02:40 PM CT, Nov. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/science-environment-59263761?at_medium=RSS&at_campaign=KARANGA">COP26: How might decisions at the climate summit change our lives?</a> BBC: The changes made at COP26 in Glasgow could have implications for the way we live. 
+ <p class="updated_time"> 02:18 PM CT, Nov. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/world-59276651?at_medium=RSS&at_campaign=KARANGA">COP26: Alok Sharma fights back tears as Glasgow Climate Pact agreed</a> BBC: The COP26 president apologised as a late amendment on coal was added to the draft text by India. 
  <p class="updated_time"> 01:42 PM CT, Nov. 13 </p> 
  <a href="https://www.npr.org/2021/11/13/1055559578/ecuador-prison-battle-deaths-gangs">Dozens of inmates die in a battle between prison gangs in Ecuador </a> NPR: A prolonged gun battle between rival gangs inside Ecuador's largest prison was the latest violence to hit the Litoral Penitentiary, which recently saw the country's worst prison bloodbath. 
  <p class="updated_time"> 01:28 PM CT, Nov. 13 </p> 
