@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:53 PM CT, Nov. 13 </p> 
+ <a href="https://www.nytimes.com/2021/11/12/world/europe/covid-netherlands-lockdown.html">Netherlands Looks to Partial Lockdown as Covid Cases Rise</a> NYT: The Dutch lockdown does not single out those who are unvaccinated. The country is experiencing rising case numbers amid a fourth wave of infections. 
+ <p class="updated_time"> 11:52 PM CT, Nov. 13 </p> 
+ <a href="https://www.nytimes.com/2021/11/12/world/asia/china-zero-covid.html">China's 'Zero Covid' Efforts Come With a Cost</a> NYT: The Communist Party is making broad efforts to stamp out the disease entirely, but the measures come with costs. 
  <p class="updated_time"> 10:10 PM CT, Nov. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59276428?at_medium=RSS&at_campaign=KARANGA">Ecuador prison riot: New fighting at Guayaquil jail kills 68</a> BBC: Rival inmates attack each other as guns and explosives are discovered at the facility in Guayaquil. 
  <p class="updated_time"> 07:38 PM CT, Nov. 13 </p> 
@@ -115,8 +119,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/stories-59171107?at_medium=RSS&at_campaign=KARANGA">'I could have been a racist killer'</a> BBC: As a teenager, Mike was an armed and angry US Nazi. Looking back, he fears he came close to murder. 
  <p class="updated_time"> 04:30 PM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/11/world/asia/zuo-fang-dead.html">Zuo Fang, a Founder of China's Southern Weekly, is Dead</a> NYT: When he helped start Southern Weekly, he charted a course for a freer era for the country’s press, which later became increasingly constrained by Beijing. 
- <p class="updated_time"> 04:13 PM CT, Nov. 12 </p> 
- <a href="https://www.nytimes.com/2021/11/12/world/europe/covid-netherlands-lockdown.html">Netherlands Looks to Partial Lockdown as Covid Cases Rise</a> NYT: The Dutch lockdown does not single out those who are unvaccinated. The country is experiencing rising case numbers amid a fourth wave of infections. 
  <p class="updated_time"> 04:03 PM CT, Nov. 12 </p> 
  <a href="https://www.npr.org/2021/11/12/1055366701/birds-in-the-amazon-have-been-shrinking-heres-why-scientists-think-its-happening">Birds in the Amazon have been shrinking. Here's why scientists think it's happening</a> NPR: Over the last four decades, birds in the Amazon have been shrinking — and scientists believe their smaller bodies may be a response to hotter, drier weather brought by climate change. 
  <p class="updated_time"> 04:03 PM CT, Nov. 12 </p> 
@@ -127,8 +129,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/12/1055366601/negotiators-are-in-the-home-stretch-on-the-final-day-of-un-climate-conference">Negotiators are in the home stretch on the final day of UN climate conference</a> NPR: The final day of COP26, the UN's conference where global leaders and delegates are negotiating crucial and concrete strategies to limit greenhouse gas emissions, is underway in Glasgow, Scotland. 
  <p class="updated_time"> 03:09 PM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/world/asia/myanmar-danny-fenster.html">Danny Fenster, U.S. Journalist in Myanmar, Gets 11 Years in Jail</a> NYT: Danny Fenster was given the toughest possible sentence on three charges, in a signal that the country’s military rulers would not bow to international pressure. 
- <p class="updated_time"> 03:01 PM CT, Nov. 12 </p> 
- <a href="https://www.nytimes.com/2021/11/12/world/asia/china-zero-covid.html">China's 'Zero Covid' Efforts Come With a Cost</a> NYT: The Communist Party is making broad efforts to stamp out the disease entirely, but the measures come with costs. 
  <p class="updated_time"> 02:57 PM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/world/california-covid-booster.html">All California Adults Can Get Booster Shots, State Says</a> NYT: Officials are seeking to avert a winter surge; last year, so many Covid patients died that officials were forced to deploy mobile morgues. 
  <p class="updated_time"> 01:55 PM CT, Nov. 12 </p> 
