@@ -206,15 +206,15 @@ title: News Rivers
 permalink: /projects/news/
 ---
 
-<details>
-<summary><h2>World News</h2></summary>
+<details open>
+<summary>World News</summary>
 
 ",world_news_lines,"
 
 </details>
 
 <details>
-<summary><h2>Politics</h2></summary>
+<summary>Politics</summary>
 
 ",politics_news_lines,"
 
