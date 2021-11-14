@@ -218,6 +218,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:46 AM CT, Nov. 14 </p> 
+ <a href="https://www.politico.com/news/2021/11/14/samantha-power-usaid-future-515606">Power moves: Samantha Power’s celebrity draws spotlight to USAID — and questions about her future</a> Politico: The longtime human rights crusader is energizing an agency few Americans know about, while fueling speculation about her next step. 
  <p class="updated_time"> 07:44 AM CT, Nov. 14 </p> 
  <a href="https://www.politico.com/news/2021/11/14/pope-francis-poor-injustice-521896">Pope: The poor are often victims of injustice</a> Politico: He celebrated Sunday Mass in St. Peter’s Basilica attended by 2,000 indigent people. 
  <p class="updated_time"> 07:05 AM CT, Nov. 14 </p> 
@@ -289,8 +291,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/13/1055503629/steve-bannon-faces-federal-charges-for-contempt-of-congress">Steve Bannon faces federal charges for contempt of Congress</a> NPR: Steve Bannon, adviser to former President Donald Trump, was indicted Friday for contempt of Congress. 
  <p class="updated_time"> 07:02 AM CT, Nov. 13 </p> 
  <a href="https://www.npr.org/2021/11/13/1055503570/week-in-politics-biden-balances-tackling-inflation-and-working-on-his-spending-b">Week in politics: Biden balances tackling inflation and working on his spending bill</a> NPR: Will rising prices and an uncertain economic outlook change the prospects for President Biden's signature spending bill? Also updates on a House committee's probe into the attempted insurrection. 
- <p class="updated_time"> 07:00 AM CT, Nov. 13 </p> 
- <a href="https://www.politico.com/news/2021/11/13/dem-governors-2022-elections-521218">Nationalized races threaten Dem governors in ’22</a> Politico: President Joe Biden's low approval ratings helped sink Terry McAuliffe, but Democrats are counting on a bounce back to save governors in battleground states next year. 
  <p class="updated_time"> 06:00 AM CT, Nov. 13 </p> 
  <a href="https://www.npr.org/2021/11/13/1054711913/progressives-wealth-tax-super-rich-elon-musk-jeff-bezos">Progressives want a wealth tax for the super rich. Here's why it's hard to pull off</a> NPR: Progressives are pushing for a wealth tax targeted at the ultra rich like Jeff Bezos and Elon Musk. However, as it turns out, taxing the richest people in the world is easier said than done. 
  <p class="updated_time"> 06:00 AM CT, Nov. 13 </p> 
