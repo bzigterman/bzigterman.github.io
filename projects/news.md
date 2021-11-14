@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:42 AM CT, Nov. 14 </p> 
+ <a href="https://www.nytimes.com/2021/11/14/world/asia/rohingya-refugees-bangladesh.html">They Warned Their Names Were on a Hit List. They Were Killed.</a> NYT: In less than a month, assassins have killed at least eight people in the Rohingya refugee camps of Bangladesh, silencing those who have dared to speak out against the violent gangs. 
  <p class="updated_time"> 08:26 AM CT, Nov. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59280215?at_medium=RSS&at_campaign=KARANGA">Saif al-Islam Gaddafi: Son of Libya ex-ruler runs for president</a> BBC: Saif al-Islam Gaddafi, wanted on war crimes charges at an international court, registers as a candidate. 
  <p class="updated_time"> 08:17 AM CT, Nov. 14 </p> 
@@ -197,8 +199,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/11/world/who-is-aleksandr-g-lukashenko.html">Who Is Aleksandr Lukashenko? Here's What You Need to Know</a> NYT: A migrant crisis on the border with Poland has put the Belarusian president at the center of a clash roiling Europe. 
  <p class="updated_time"> 05:03 PM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/world/europe/germany-covid-unvaccinated.html">Germany’s Fourth Covid Wave: ‘A Pandemic of the Unvaccinated’</a> NYT: Germany once set an example for how to manage the coronavirus. Now, deep pockets of vaccine resistance are helping drive daily infections to new heights. 
- <p class="updated_time"> 05:01 PM CT, Nov. 11 </p> 
- <a href="https://www.nytimes.com/2021/11/11/world/africa/covid-uganda-schools.html">Dropouts and Menial Jobs: The Effects of Keeping Uganda's Schools Closed</a> NYT: Recalling the orphans of the H.I.V./AIDS crisis, government officials fear students infecting their parents and keep schools closed. 
  <p class="updated_time"> 03:35 PM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/world/europe/poland-independence-day-far-right-protests.html">As Poland Celebrates Its Independence Day, Far-Right Groups Stage Rallies</a> NYT: In downtown Warsaw, tens of thousands of demonstrators started their march by lighting red flares and singing the national anthem. 
  <p class="updated_time"> 02:52 PM CT, Nov. 11 </p> 
@@ -226,6 +226,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/14/schumer-schedule-reconciliation-bill-521931">Schumer shakes up schedule as reconciliation bill slog continues</a> Politico: The Biden White House’s social spending plan will probably have to wait some more. 
  <p class="updated_time"> 08:46 AM CT, Nov. 14 </p> 
  <a href="https://www.politico.com/news/2021/11/14/samantha-power-usaid-future-515606">Power moves: Samantha Power’s celebrity draws spotlight to USAID — and questions about her future</a> Politico: The longtime human rights crusader is energizing an agency few Americans know about, while fueling speculation about her next step. 
+ <p class="updated_time"> 08:45 AM CT, Nov. 14 </p> 
+ <a href="https://www.nytimes.com/2021/11/14/business/economy/farm-exports-supply-chain-ports.html">Crunch at Ports May Mean Crisis for American Farms</a> NYT: Backlogs and cancellations are hitting growers as costs rise, profits slump and overseas customers shop elsewhere. 
  <p class="updated_time"> 07:44 AM CT, Nov. 14 </p> 
  <a href="https://www.politico.com/news/2021/11/14/pope-francis-poor-injustice-521896">Pope: The poor are often victims of injustice</a> Politico: He celebrated Sunday Mass in St. Peter’s Basilica attended by 2,000 indigent people. 
  <p class="updated_time"> 07:05 AM CT, Nov. 14 </p> 
@@ -240,8 +242,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/14/1055508416/doug-emhoff-is-americas-first-second-gentleman-in-paris-he-showed-what-that-mean">Doug Emhoff is America's first second gentleman. In Paris, he showed what that means</a> NPR: Doug Emhoff, the husband of Vice President Harris, is taking a very traditional approach to his role of second spouse. The Paris trip was their first diplomatic trip abroad. 
  <p class="updated_time"> 06:00 AM CT, Nov. 14 </p> 
  <a href="https://www.npr.org/2021/11/14/1054746569/what-2021s-recent-elections-tell-us-about-voting-in-2022-and-beyond">What 2021's recent elections tell us about voting in 2022 and beyond</a> NPR: Recent off-year elections showed that voters may not be so invested in making it easier to vote while Republicans may benefit from higher voter turnout than they previously had thought. 
- <p class="updated_time"> 04:00 AM CT, Nov. 14 </p> 
- <a href="https://www.nytimes.com/2021/11/14/business/economy/farm-exports-supply-chain-ports.html">Crunch at Ports May Mean Crisis for Family Farms</a> NYT: Backlogs and cancellations are hitting American growers as costs rise, profits slump and overseas customers shop elsewhere. 
  <p class="updated_time"> 02:00 AM CT, Nov. 14 </p> 
  <a href="https://www.nytimes.com/2021/11/14/us/loudoun-county-school-board-va.html">How Loudoun Schools Got Caught in Virginia’s Political Maelstrom </a> NYT: Loudoun County tried to address racism and promote diversity within its schools. Then it found itself on Fox News. 
  <p class="updated_time"> 09:23 PM CT, Nov. 13 </p> 
