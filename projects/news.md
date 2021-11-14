@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:33 AM CT, Nov. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-59280241?at_medium=RSS&at_campaign=KARANGA">China and India must explain themselves - COP president</a> BBC: COP26 President Alok Sharma speaks after an agreement to "phase down" coal rather than "phase out". 
+ <p class="updated_time"> 07:25 AM CT, Nov. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-59276428?at_medium=RSS&at_campaign=KARANGA">Ecuador prison riot: New fighting at Guayaquil jail kills 68</a> BBC: Rival inmates attack each other as guns and explosives are discovered at the facility in Guayaquil. 
  <p class="updated_time"> 07:20 AM CT, Nov. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59280706?at_medium=RSS&at_campaign=KARANGA">US bank robber identified after decades-long hunt</a> BBC: Ted Conrad disappeared with $1.7 million after pulling off a bizarre heist more than 50 years ago. 
  <p class="updated_time"> 07:11 AM CT, Nov. 14 </p> 
@@ -19,8 +23,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/14/1055640617/extremists-in-pakistan-have-been-emboldened-by-the-talibans-success-in-afghanist">Extremists in Pakistan have been emboldened by the Taliban's success in Afghanistan</a> NPR: Militant attacks inside Pakistan have been rising, highlighting an uncomfortable truth: America's exit from neighboring Afghanistan has emboldened would-be militant extremists. 
  <p class="updated_time"> 07:05 AM CT, Nov. 14 </p> 
  <a href="https://www.npr.org/2021/11/14/1055640596/countries-at-cop26-agree-to-scale-up-efforts-to-combat-climate-change">Countries at COP26 agree to scale up efforts to combat climate change</a> NPR: Danielle Kurtzleben talks to Cassie Flynn, climate advisor to the U.N. Development Program, about the final agreement from the U.N. climate summit in Glasgow. 
- <p class="updated_time"> 06:54 AM CT, Nov. 14 </p> 
- <a href="https://www.bbc.co.uk/news/uk-59280241?at_medium=RSS&at_campaign=KARANGA">China and India must explain themselves - COP president</a> BBC: COP26 President Alok Sharma speaks after an agreement to "phase down" coal rather than "phase out". 
  <p class="updated_time"> 06:33 AM CT, Nov. 14 </p> 
  <a href="https://www.npr.org/2021/11/14/1055641481/queen-elizabeth-sprained-back-remembrance-sunday">Sprained back forces Queen Elizabeth to miss remembrance event for Britain's war dead</a> NPR: Remembrance Sunday is one of the most important events on the 95-year-old monarch's calendar. It was expected to be her first public appearance after canceling others recently on doctors' advice. 
  <p class="updated_time"> 06:13 AM CT, Nov. 14 </p> 
@@ -41,8 +43,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/12/world/asia/china-zero-covid.html">China's 'Zero Covid' Efforts Come With a Cost</a> NYT: The Communist Party is making broad efforts to stamp out the disease entirely, but the measures come with costs. 
  <p class="updated_time"> 11:30 PM CT, Nov. 13 </p> 
  <a href="https://www.wsj.com/articles/in-covid-era-experiment-malaysia-tries-dramatic-reduction-in-migrant-labor-11636885800">Malaysia Tries Relying Less on Foreign Workers</a> WSJ: With Covid-19 reducing migrant labor in many countries, some governments are testing whether their economies can run with fewer foreign workers than in the past. 
- <p class="updated_time"> 10:10 PM CT, Nov. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-59276428?at_medium=RSS&at_campaign=KARANGA">Ecuador prison riot: New fighting at Guayaquil jail kills 68</a> BBC: Rival inmates attack each other as guns and explosives are discovered at the facility in Guayaquil. 
  <p class="updated_time"> 08:11 PM CT, Nov. 13 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59238305?at_medium=RSS&at_campaign=KARANGA">Renewable energy: How Scottish Isle of Eigg relies on wind, water, solar</a> BBC: As the world slowly moves away from using fossil fuels for electricity, a tiny Scottish island has shown it’s possible to rely almost entirely on renewables. 
  <p class="updated_time"> 07:38 PM CT, Nov. 13 </p> 
