@@ -26,7 +26,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:04 PM CT, Nov. 13 </p> 
  <a href="https://www.bbc.co.uk/news/uk-england-somerset-59181514?at_medium=RSS&at_campaign=KARANGA">Dress embroidery project unifies women around the world</a> BBC: The artist behind a dress made in global embroidery project said it embodies the "unity" of women. 
  <p class="updated_time"> 04:57 PM CT, Nov. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-59277788?at_medium=RSS&at_campaign=KARANGA">COP26: New global climate deal struck in Glasgow</a> BBC: New global climate deal agreed at COP26 in Glasgow after last-minute wrangling over agreement on cutting coal 
+ <a href="https://www.bbc.co.uk/news/world-59277788?at_medium=RSS&at_campaign=KARANGA">COP26: New global climate deal struck in Glasgow</a> BBC: New global climate deal agreed at COP26 in Glasgow after last-minute wrangling over agreement on cutting coal. 
  <p class="updated_time"> 04:51 PM CT, Nov. 13 </p> 
  <a href="https://www.bbc.co.uk/news/uk-59275772?at_medium=RSS&at_campaign=KARANGA">Nazanin Zaghari-Ratcliffe: Husband ends hunger strike after 21 days</a> BBC: The husband of British-Iranian detainee Nazanin Zaghari-Ratcliffe says his child "needs two parents". 
  <p class="updated_time"> 04:04 PM CT, Nov. 13 </p> 
