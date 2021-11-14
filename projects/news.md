@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:39 PM CT, Nov. 14 </p> 
+ <a href="https://www.nytimes.com/2021/11/14/world/europe/liverpool-hospital-car-explosion.html">Taxi Explodes Outside Liverpool Hospital, Killing One</a> NYT: Three men in their twenties were arrested under Britain’s Terrorism Act several hours after the explosion, in which a second person was injured, the authorities said. 
  <p class="updated_time"> 04:21 PM CT, Nov. 14 </p> 
  <a href="https://www.npr.org/2021/11/14/1055698304/3-detained-after-car-explosion-kills-1-outside-liverpool-hospital">3 detained after car explosion kills 1 outside Liverpool hospital</a> NPR: Police were called to reports of a blast involving a taxi at Liverpool Women's Hospital on Sunday morning. One person was killed and one person injured. 
  <p class="updated_time"> 04:15 PM CT, Nov. 14 </p> 
@@ -19,8 +21,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/14/world/europe/austria-unvaccinated-lockdown.html">Austria to Target the Unvaccinated in New Lockdown</a> NYT: The country, facing the biggest surge in virus cases since the pandemic started, is putting strict curbs on the movement of those without shots. 
  <p class="updated_time"> 02:08 PM CT, Nov. 14 </p> 
  <a href="https://www.npr.org/2021/11/14/1055680400/3-dead-hundreds-injured-after-storms-rouse-scorpions-in-egypt">3 dead, hundreds injured after storms rouse scorpions in Egypt</a> NPR: The city of Aswan has been dealing with an influx of scorpions and snakes, thanks to a recent rash of heavy storms disturbing their hiding places. 
- <p class="updated_time"> 01:42 PM CT, Nov. 14 </p> 
- <a href="https://www.nytimes.com/2021/11/14/world/europe/liverpool-hospital-car-explosion.html">Taxi Explodes Outside Liverpool Hospital, Killing One</a> NYT: Three men in their twenties were arrested under Britain’s Terrorism Act several hours after the explosion, in which a second person was injured, the authorities said. 
  <p class="updated_time"> 01:12 PM CT, Nov. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59283134?at_medium=RSS&at_campaign=KARANGA">Macron switches to using navy blue on France's flag - reports</a> BBC: The French president wants to reconnect with a symbol of the French Revolution, reports say. 
  <p class="updated_time"> 12:57 PM CT, Nov. 14 </p> 
@@ -220,6 +220,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/14/biden-successor-2024-kamala-harris-522160">Biden-successor chatter grows and Harris isn’t scaring off anyone</a> Politico: There’s been an unusual amount of 2024 talk for a president who says he’s running again. It hasn't been uniformly positive for his vice president. 
  <p class="updated_time"> 05:03 PM CT, Nov. 14 </p> 
  <a href="https://www.politico.com/news/2021/11/14/trump-china-trespass-deport-522184">Mar-a-Lago trespasser deported to China 2 years later</a> Politico: The pandemic delayed her return to China. 
+ <p class="updated_time"> 04:29 PM CT, Nov. 14 </p> 
+ <a href="https://www.cnn.com/2021/11/14/politics/trump-organization-washington-dc-hotel-sale/index.html">Investment group purchases Trump hotel in DC and is expected to remove Trump name</a> CNN: The Trump Organization has reached a deal with the investment fund CGI Merchant Group to purchase the lease for the Trump International Hotel in Washington, DC, for $375 million, according to a person familiar with the matter. 
  <p class="updated_time"> 04:02 PM CT, Nov. 14 </p> 
  <a href="https://www.politico.com/news/2021/11/14/biden-xi-meeting-expectations-522136">Don’t call it a ‘summit’: Biden-Xi meeting brings low expectations</a> Politico: Despite downbeat official messaging, look for bilateral “sweeteners” to dial down tensions. 
  <p class="updated_time"> 03:55 PM CT, Nov. 14 </p> 
@@ -404,8 +406,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/huddle/2021/11/11/just-checking-the-cbo-score-495067">Just checking the (CBO) score</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:16 AM CT, Nov. 11 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/11/the-other-big-intra-democratic-fight-495065">POLITICO Playbook: The other big intra-Democratic fight</a> Politico: And the inflation jump turns the temperature up. 
- <p class="updated_time"> 06:05 AM CT, Nov. 11 </p> 
- <a href="https://www.cnn.com/2021/11/11/politics/joe-biden-inflation-messaging/index.html">Biden changes his tone and walks a delicate line on inflation</a> CNN: Rising consumer prices have quickly become one of the White House's most urgent concerns as Americans grow unsettled at the higher cost of goods -- and place the blame on President Joe Biden. 
  <p class="updated_time"> 04:30 AM CT, Nov. 11 </p> 
  <a href="https://www.politico.com/news/2021/11/11/bidens-voters-recovery-conundrum-520771">Biden's ‘I feel your pain’ conundrum</a> Politico: It’s tripped up the last two Democratic presidents and could trip up Biden too: How to sell a recovery when most voters aren’t feeling it. 
  <p class="updated_time"> 06:28 PM CT, Nov. 10 </p> 
