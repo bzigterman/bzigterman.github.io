@@ -822,6 +822,8 @@ ggplot(data = data,
 ggsave("plots/il_flash_index.png", width = 8, height = 8*(628/1200), dpi = 320)
 
 # make web page ----
+## image references ----
+
 web_text <- paste(
   "---
 layout: page
@@ -829,51 +831,41 @@ title: Economic Indicators
 permalink: /projects/economy/
 ---
 
+## Champaign County
 
-<details>
-<summary><h2>Champaign County</h2></summary>
+![Unemployment Rate]({{ site.baseurl }}/plots/champaign_unemployment_rate.png)
 
-<img src="\{\{ site.baseurl \}\}/plots/champaign_unemployment_rate.png" alt="Champaign County Unemployment Rate">
+![Employment]({{ site.baseurl }}/plots/champaign_employment.png)
 
-<img src="\{\{ site.baseurl \}\}/plots/champaign_employment.png" alt="Champaign County Employment">
+![Population]({{ site.baseurl }}/plots/champaign_population.png)
 
-<img src="\{\{ site.baseurl \}\}/plots/champaign_population.png" alt="Champaign County Population">
-
-<img src="\{\{ site.baseurl \}\}/plots/champaign_housing.png" alt="Champaign County Housing">
+![Housing]({{ site.baseurl }}/plots/champaign_housing.png)
 
 ",better_cu_housing_table_html,"
 
-</details>
+## Illinois
 
-<details>
-<summary><h2>Illinois</h2></summary>
+![Flash Index]({{ site.baseurl }}/plots/il_flash_index.png)
 
-<img src="\{\{ site.baseurl \}\}/plots/il_flash_index.png" alt="Flash Index">
+Source: [Institute of Government and Public Affairs at the University of Illinois](https://igpa.uillinois.edu/page/flash-index-archive).
 
-Source: <a href="https://igpa.uillinois.edu/page/flash-index-archive">Institute of Government and Public Affairs at the University of Illinois</a>
+## United States
 
-</details>
+![Unemployment Rate]({{ site.baseurl }}/plots/unemployment_rate.png)
 
-<details>
-<summary><h2>United States</h2></summary>
+![Employment]({{ site.baseurl }}/plots/employment.png)
 
-<img src="\{\{ site.baseurl \}\}/plots/unemployment_rate.png" alt="Unemployment Rate">
+![Inflation]({{ site.baseurl }}/plots/consumer_price_index.png)
 
-<img src="\{\{ site.baseurl \}\}/plots/employment.png" alt="Employment">
+![Retail Sales]({{ site.baseurl }}/plots/retail_sales.png)
 
-<img src="\{\{ site.baseurl \}\}/plots/consumer_price_index.png" alt="Inflation">
+![Durable Goods]({{ site.baseurl }}/plots/durable_goods.png)
 
-<img src="\{\{ site.baseurl \}\}/plots/retail_sales.png" alt="Retail Sales">
+![Consumer Sentiment]({{ site.baseurl }}/plots/consumer_sentiment.png)
 
-<img src="\{\{ site.baseurl \}\}/plots/durable_goods.png" alt="Durable Goods">
+![Real GDP]({{ site.baseurl }}/plots/gdp.png)
 
-<img src="\{\{ site.baseurl \}\}/plots/consumer_sentiment.png" alt="Consumer Sentiment">
-
-<img src="\{\{ site.baseurl \}\}/plots/gdp.png" alt="Real GDP">
-
-<img src="\{\{ site.baseurl \}\}/plots/real_median_income.png" alt="Real Median Income">
-
-</details>
+![Real Median Income]({{ site.baseurl }}/plots/real_median_income.png)
 
 Data retrieved from the [Federal Reserve Bank of St. Louis](https://fred.stlouisfed.org)
 
