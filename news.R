@@ -207,14 +207,14 @@ permalink: /projects/news/
 ---
 
 <details>
-<summary>World News</summary>
+<summary><h2>World News</h2></summary>
 
 ",world_news_lines,"
 
 </details>
 
 <details>
-<summary>Politics</summary>
+<summary><h2>Politics</h2></summary>
 
 ",politics_news_lines,"
 
