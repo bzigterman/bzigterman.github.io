@@ -7,10 +7,12 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:29 AM CT, Nov. 14 </p> 
+ <a href="https://www.nytimes.com/2021/11/14/world/middleeast/libya-president-qaddafi.html">Qaddafi Son to Run for President in Libya</a> NYT: Seif al-Islam el-Qaddafi, the former heir apparent of the deposed Libyan dictator Col. Muammar el-Qaddafi, filed his candidacy papers on Sunday for the election expected next month. 
+ <p class="updated_time"> 11:28 AM CT, Nov. 14 </p> 
+ <a href="https://www.nytimes.com/2021/11/14/world/middleeast/afghan-university-students-iraq.html">Afghan College Students Find a New Life, and Safety, in Iraq</a> NYT: Regarded as infidels by the Taliban, over 100 students from the American University in Kabul have found an unlikely refuge in the Iraqi Kurdish city of Sulaimaniya. 
  <p class="updated_time"> 11:13 AM CT, Nov. 14 </p> 
  <a href="https://www.nytimes.com/2021/11/13/world/europe/france-2015-attacks-trial-victims.html">Survivors of 2015 Paris Terrorist Attacks Testify at Trial</a> NYT: The trauma of the 2015 terrorist attacks in Paris was highlighted in testimony by survivors and others at a trial of 20 men accused of involvement. 
- <p class="updated_time"> 11:05 AM CT, Nov. 14 </p> 
- <a href="https://www.nytimes.com/2021/11/14/world/middleeast/afghan-university-students-iraq.html">Afghan College Students Find a New Life, and Safety, in Iraq</a> NYT: Regarded as infidels by the Taliban, over 100 students from the American University in Kabul have found an unlikely refuge in the Iraqi Kurdish city of Sulaimaniya. 
  <p class="updated_time"> 11:03 AM CT, Nov. 14 </p> 
  <a href="https://www.nytimes.com/2021/11/14/world/middleeast/iran-earthquake.html">At Least 1 Dead After Quakes Strike Southern Iran</a> NYT: Two moderate temblors hit Hormozgan Province on Sunday afternoon, state TV reported. 
  <p class="updated_time"> 10:35 AM CT, Nov. 14 </p> 
@@ -145,8 +147,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/as-the-u-s-races-to-vaccinate-kids-against-covid-19-some-countries-hold-back-11636799400">As the U.S. Races to Vaccinate Kids, Some Countries Hold Back</a> WSJ: Immunizing children against Covid-19 is viewed by authorities in the U.S. and elsewhere as critical to get the upper hand over the virus. But in some parts of the world, such efforts have generated deep controversy. 
  <p class="updated_time"> 10:34 PM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/world/europe/lukashenko-putin-belarus-russia.html">Migrant Crisis in Belarus Tests Putin’s Uneasy Alliance With Lukashenko</a> NYT: Last year Vladimir V. Putin helped save Aleksandr G. Lukashenko’s Belarusian regime. But Russia now has an ever-more-erratic ally and risks entanglement in a dangerous crisis. 
- <p class="updated_time"> 08:39 PM CT, Nov. 12 </p> 
- <a href="https://www.nytimes.com/2021/11/11/world/europe/belarus-poland-border-russia.html">Russia Reacts to Belarus-Poland Border Crisis</a> NYT: President Vladimir Putin’s spokesman said that Russia was doing all it could to resolve the situation, but he also warned of the possibility of a military escalation, according to the Russian state news agency RIA Novosti. 
  <p class="updated_time"> 08:11 PM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/world/canada/newfoundland-cyberattack.html">Hackers Target Newfoundland’s Health Care System</a> NYT: The province has said little about a cyberattack that delayed or canceled medical procedures and leaked personal information. 
  <p class="updated_time"> 06:15 PM CT, Nov. 12 </p> 
