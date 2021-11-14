@@ -95,7 +95,7 @@ Here's some of my best work:
 
 ## The Daily Sophist
 
-* [_Chicago Weekly_ to be Renamed the _South Side Weekly_]({{ site.baseurl }}/articles/chicago-weekly-renamed)
-* [Scav 2013 – The Hunt Begins]({{ site.baseurl }}/articles/scav-2013)
-* [Eric Holder And Panelists Gather To Praise Themselves And Edward Levi]({{ site.baseurl }}/articles/eric-holder-iop)
-* [SVNA strikes again, decorating Harper as "10th circle of hell"]({{ site.baseurl }}/articles/svna-strikes-again)
+* [_Chicago Weekly_ to be Renamed the _South Side Weekly_]({{ site.baseurl }}/clips/chicago-weekly-renamed)
+* [Scav 2013 – The Hunt Begins]({{ site.baseurl }}/clips/scav-2013)
+* [Eric Holder And Panelists Gather To Praise Themselves And Edward Levi]({{ site.baseurl }}/clips/eric-holder-iop)
+* [SVNA strikes again, decorating Harper as "10th circle of hell"]({{ site.baseurl }}/clips/svna-strikes-again)
