@@ -5,8 +5,10 @@ permalink: /projects/news/
 ---
 
 <details>
-<summary>World News</summary>
+<summary><h2>World News</h2></summary>
 
+ <p class="updated_time"> 01:42 PM CT, Nov. 14 </p> 
+ <a href="https://www.nytimes.com/2021/11/14/world/europe/liverpool-hospital-car-explosion.html">Taxi Explodes Outside Liverpool Hospital, Killing One</a> NYT: Three men in their twenties were arrested under Britain’s Terrorism Act several hours after the explosion, in which a second person was injured, the authorities said. 
  <p class="updated_time"> 01:28 PM CT, Nov. 14 </p> 
  <a href="https://www.nytimes.com/2021/11/14/world/europe/austria-unvaccinated-lockdown.html">Austria to Target the Unvaccinated in New Lockdown</a> NYT: The country, facing the biggest surge in virus cases since the pandemic started, is putting strict curbs on the movement of those without shots. 
  <p class="updated_time"> 01:12 PM CT, Nov. 14 </p> 
@@ -17,8 +19,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/14/world/middleeast/afghan-university-students-iraq.html">Afghan College Students Find a New Life, and Safety, in Iraq</a> NYT: Regarded as infidels by the Taliban, over 100 students from the American University in Kabul have found an unlikely refuge in the Iraqi Kurdish city of Sulaimaniya. 
  <p class="updated_time"> 12:47 PM CT, Nov. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59280707?at_medium=RSS&at_campaign=KARANGA">Japan's former princess Mako arrives in New York after giving up title</a> BBC: Mako was forced to give up her titles when she married her "commoner" husband last month. 
- <p class="updated_time"> 12:47 PM CT, Nov. 14 </p> 
- <a href="https://www.nytimes.com/2021/11/14/world/europe/liverpool-hospital-car-explosion.html">Taxi Explodes Outside Liverpool Hospital, Killing One</a> NYT: The cause of the explosion, which injured a second person, was not immediately clear. The investigation was being led by Counter Terrorism Policing North West with support from the local police. 
  <p class="updated_time"> 12:43 PM CT, Nov. 14 </p> 
  <a href="https://www.bbc.co.uk/sport/tennis/59284680?at_medium=RSS&at_campaign=KARANGA">Peng Shuai: Chinese tennis star 'deserves to be heard' on sexual assault claims - WTA</a> BBC: Chinese player Peng Shuai deserves "to be heard, not censored" after publicly accusing the country's former vice-premier of sexual assault, says the Women's Tennis Association. 
  <p class="updated_time"> 12:37 PM CT, Nov. 14 </p> 
@@ -216,7 +216,7 @@ permalink: /projects/news/
 </details>
 
 <details>
-<summary>Politics</summary>
+<summary><h2>Politics</h2></summary>
 
  <p class="updated_time"> 01:24 PM CT, Nov. 14 </p> 
  <a href="https://www.politico.com/news/2021/11/14/catholic-bishops-biden-abortion-522105">U.S. Catholic bishops may dodge rebuke of Biden over abortion</a> Politico: While some bishops have said they would deny Communion to the president, there is no national policy on the matter. 
