@@ -104,6 +104,7 @@ politics_news <- full_join(politico_politics, nyt_politics) %>%
   filter(!is.na(item_description)) %>%
   filter(central_time > past_week) %>%
   arrange(desc(central_time)) %>%
+  distinct(item_link, .keep_all = TRUE) %>%
   mutate(item_md_link = paste("[",item_title,"](",item_link,")",
                               sep = "")) %>%
   mutate(item_html_link = paste("<a href=\"",
@@ -174,6 +175,7 @@ world_news <- full_join(nyt, wsj) %>%
   filter(!is.na(item_description)) %>%
   filter(central_time > past_week) %>%
   arrange(desc(central_time)) %>%
+  distinct(item_link, .keep_all = TRUE) %>%
   mutate(item_md_link = paste("[",item_title,"](",item_link,")",
                               sep = "")) %>%
   mutate(item_html_link = paste("<a href=\"",
