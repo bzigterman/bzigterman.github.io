@@ -7,12 +7,12 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:10 PM CT, Nov. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-59276428?at_medium=RSS&at_campaign=KARANGA">Ecuador prison riot: New fighting at Guayaquil jail kills 68</a> BBC: Rival inmates attack each other as guns and explosives are discovered at the facility in Guayaquil. 
  <p class="updated_time"> 07:38 PM CT, Nov. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59278277?at_medium=RSS&at_campaign=KARANGA">FBI probes cyber-attack emails sent from internal server</a> BBC: The agency is investigating after thousands of messages were sent warning of a possible cyber-attack. 
  <p class="updated_time"> 07:01 PM CT, Nov. 13 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59268394?at_medium=RSS&at_campaign=KARANGA">COP26 climate deal: 'It won't save us from drowning'</a> BBC: Young activists on the frontline of climate change explain what the deal struck at COP26 means to them. 
- <p class="updated_time"> 06:41 PM CT, Nov. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-59276428?at_medium=RSS&at_campaign=KARANGA">Ecuador prison riot: New fighting at Guayaquil jail kills 68</a> BBC: Fighting at the Litoral Penitentiary in the city of Guayaquil reportedly began on Friday evening. 
  <p class="updated_time"> 06:26 PM CT, Nov. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59278275?at_medium=RSS&at_campaign=KARANGA">Wilbur Smith: Popular Zambian-born author dies aged 88</a> BBC: The accountant-turned-novelist's 49 books have sold more than 140 million copies worldwide. 
  <p class="updated_time"> 06:07 PM CT, Nov. 13 </p> 
