@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:17 AM CT, Nov. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59283128?at_medium=RSS&at_campaign=KARANGA">Covid: Austria orders nationwide lockdown for unvaccinated</a> BBC: The new rules are being introduced amid record infection levels and growing pressure on hospitals. 
+ <p class="updated_time"> 10:14 AM CT, Nov. 14 </p> 
+ <a href="https://www.nytimes.com/2021/11/14/world/middleeast/iran-earthquake.html">At Least 1 Dead After Quakes Strike Southern Iran</a> NYT: Two moderate temblors hit Hormozgan Province on Sunday afternoon, state TV reported. 
  <p class="updated_time"> 09:38 AM CT, Nov. 14 </p> 
  <a href="https://www.nytimes.com/2021/11/14/world/europe/austria-unvaccinated-lockdown.html">Austria to Target the Unvaccinated in New Lockdown</a> NYT: The country, facing the biggest surge in virus cases since the pandemic started, is putting strict curbs on the movement of those without shots. 
  <p class="updated_time"> 09:16 AM CT, Nov. 14 </p> 
@@ -124,7 +128,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:35 AM CT, Nov. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59274204?at_medium=RSS&at_campaign=KARANGA">Sara Duterte: Daughter of Philippines leader runs for vice-president</a> BBC: Sara Duterte will run alongside the son of the country's former dictator, Ferdinand Marcos. 
  <p class="updated_time"> 06:25 AM CT, Nov. 13 </p> 
- <a href="https://www.nytimes.com/2021/11/13/world/europe/france-2015-attacks-trial-victims.html">Survivors of 2015 Paris Terrorist Attacks 'Dead Among the Living'</a> NYT: The trauma of the 2015 terrorist attacks in Paris was highlighted in testimony by survivors and others at a trial of 20 men accused of involvement. 
+ <a href="https://www.nytimes.com/2021/11/13/world/europe/france-2015-attacks-trial-victims.html">Survivors of 2015 Paris Terrorist Attacks Testify at Trial</a> NYT: The trauma of the 2015 terrorist attacks in Paris was highlighted in testimony by survivors and others at a trial of 20 men accused of involvement. 
  <p class="updated_time"> 06:00 AM CT, Nov. 13 </p> 
  <a href="https://www.wsj.com/articles/in-the-shadow-of-the-holocaust-a-jewish-community-begins-to-take-root-11636822801">In the Shadow of the Holocaust, a Jewish Community Takes Root</a> WSJ: Poland’s Jewish community—nearly destroyed during World War II—is growing again, but connecting people with their heritage is a race against time. 
  <p class="updated_time"> 05:51 AM CT, Nov. 13 </p> 
@@ -220,24 +224,28 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:02 AM CT, Nov. 14 </p> 
+ <a href="https://www.politico.com/news/2021/11/14/paxton-texas-mandates-wallace-521984">Texas attorney general opposes federal edicts, supports state edicts</a> Politico: Ken Paxton got a bit tangled up discussing the president’s mandates in an interview with Chris Wallace. 
  <p class="updated_time"> 10:43 AM CT, Nov. 14 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/14/no-bif-bump-for-biden-495093">POLITICO Playbook: No BIF bump for Biden</a> Politico: And COP26 wraps up in Scotland. 
+ <p class="updated_time"> 10:21 AM CT, Nov. 14 </p> 
+ <a href="https://www.cnn.com/2021/11/14/politics/anthony-gonzalez-donald-trump-cnntv/index.html">Rep. Anthony Gonzalez: 'The cold hard truth is Donald Trump led us into a ditch on January 6'</a> CNN: Rep. Anthony Gonzalez of Ohio, a House Republican who voted to impeach former President Donald Trump in his second impeachment trial earlier this year, repeatedly slammed Trump in an extensive sit-down interview with CNN's Jake Tapper. 
  <p class="updated_time"> 10:12 AM CT, Nov. 14 </p> 
  <a href="https://www.politico.com/news/2021/11/14/barrasso-trump-hang-pence-521960">Sen. Barrasso declines to condemn Trump over Pence remarks</a> Politico: The Wyoming Republican called the former president “an enduring force” 
  <p class="updated_time"> 10:12 AM CT, Nov. 14 </p> 
  <a href="https://www.politico.com/news/2021/11/14/barrasso-trump-hang-pence-521960">Sen. Barrasso declines to condemn Trump over Pence remarks</a> Politico: The Wyoming Republican called the former president “an enduring force” 
  <p class="updated_time"> 10:02 AM CT, Nov. 14 </p> 
  <a href="https://www.politico.com/news/2021/11/14/inflation-yellen-covid-midterms-521951">Will inflation ease by next November? That depends on Covid, Yellen says</a> Politico: “The pandemic has been calling the shots for the economy and for inflation,” Janet Yellen said. 
+ <p class="updated_time"> 10:00 AM CT, Nov. 14 </p> 
+ <a href="https://www.cnn.com/2021/11/14/politics/biden-infrastructure-roads-bridges/index.html">4 projects that could be funded by Biden's infrastructure package</a> CNN: The passage of the $1.2 trillion infrastructure spending package is setting off a mad dash from states and counties seeking federal funds to repair and replace the nation's crumbling bridges, roads and ports. 
+ <p class="updated_time"> 09:58 AM CT, Nov. 14 </p> 
+ <a href="https://www.cnn.com/2021/11/14/politics/brian-deese-inflation-cnntv/index.html">Biden's top economic adviser urges passage of economic bill to combat rising inflation</a> CNN: President Joe Biden's top economic adviser on Sunday cited rising inflation in the US as a reason for Congress to pass the President's massive economic package, arguing the legislation will help stymie rapidly rising prices of consumer goods. 
  <p class="updated_time"> 09:26 AM CT, Nov. 14 </p> 
  <a href="https://www.cnn.com/2021/11/14/politics/chris-christie-predictions-trump-2024/index.html">Chris Christie: 'The idea of making predictions for 2024 is folly'</a> CNN: Former New Jersey Gov. Chris Christie -- who has been outspoken against former President Donald Trump's lies about the 2020 election results -- says he does not want to make predictions about 2024 and is unsure whether he or Trump will run again. 
- <p class="updated_time"> 09:19 AM CT, Nov. 14 </p> 
- <a href="https://www.cnn.com/2021/11/14/politics/brian-deese-inflation-cnntv/index.html">Biden's top economic adviser urges passage of economic bill to combat rising inflation</a> CNN: President Joe Biden's top economic adviser on Sunday cited rising inflation in the US as a reason for Congress to pass the President's massive economic package, arguing the legislation will help stymie rapidly rising prices of consumer goods. 
  <p class="updated_time"> 09:15 AM CT, Nov. 14 </p> 
  <a href="https://www.politico.com/news/2021/11/14/schumer-schedule-reconciliation-bill-521931">Schumer shakes up schedule as reconciliation bill slog continues</a> Politico: The Biden White House’s social spending plan will probably have to wait some more. 
  <p class="updated_time"> 09:15 AM CT, Nov. 14 </p> 
  <a href="https://www.politico.com/news/2021/11/14/schumer-schedule-reconciliation-bill-521931">Schumer shakes up schedule as reconciliation bill slog continues</a> Politico: The Biden White House’s social spending plan will probably have to wait some more. 
- <p class="updated_time"> 09:14 AM CT, Nov. 14 </p> 
- <a href="https://www.cnn.com/2021/11/14/politics/anthony-gonzalez-donald-trump-cnntv/index.html">Rep. Anthony Gonzalez: 'The cold hard truth is Donald Trump led us into a ditch on January 6'</a> CNN: Rep. Anthony Gonzalez of Ohio, a House Republican who voted to impeach former President Donald Trump in his second impeachment trial earlier this year, repeatedly slammed Trump in an extensive sit-down interview with CNN's Jake Tapper. 
  <p class="updated_time"> 08:46 AM CT, Nov. 14 </p> 
  <a href="https://www.politico.com/news/2021/11/14/samantha-power-usaid-future-515606">Power moves: Samantha Power’s celebrity draws spotlight to USAID — and questions about her future</a> Politico: The longtime human rights crusader is energizing an agency few Americans know about, while fueling speculation about her next step. 
  <p class="updated_time"> 08:45 AM CT, Nov. 14 </p> 
@@ -298,8 +306,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/13/raid-veritas-okeefe-biden-press-521307">FBI raid on Project Veritas founder’s home sparks questions about press freedom</a> Politico: The action against James O’Keefe has prompted concern about the Biden administration’s commitment to the First Amendment. 
  <p class="updated_time"> 09:39 AM CT, Nov. 13 </p> 
  <a href="https://www.nytimes.com/2021/11/13/us/politics/chris-christie-book-trump.html">What's in Chris Christie's New Book</a> NYT: In a new book and in an interview, Mr. Christie says that if the former president wants to be a positive force, “he’s got to let this other stuff go.” 
- <p class="updated_time"> 08:16 AM CT, Nov. 13 </p> 
- <a href="https://www.cnn.com/2021/11/13/politics/kamala-harris-france-trip/index.html">Harris' trip to Paris signals a relationship back on track</a> CNN: As French President Emmanuel Macron arrived at the Arc de Triomphe for a national televised Armistice Day Ceremony, Vice President Kamala Harris -- donning the traditional bleuet de France honoring veterans -- waited to greet him. 
  <p class="updated_time"> 08:01 AM CT, Nov. 13 </p> 
  <a href="https://www.politico.com/news/2021/11/13/africa-great-green-wall-521292">Africa’s ‘Great Green Wall’ shifts focus to hold off desert</a> Politico: Only 4% of the Great Green Wall’s original goal has been met, and an estimated $43 billion would be needed to achieve the rest. 
  <p class="updated_time"> 07:02 AM CT, Nov. 13 </p> 
@@ -428,8 +434,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/11/10/new-reminders-that-this-is-not-normal-495046">POLITICO Playbook: New reminders that this is not normal</a> Politico: And a new poll shows Biden's vaccine mandate losing support. 
  <p class="updated_time"> 04:31 AM CT, Nov. 10 </p> 
  <a href="https://www.politico.com/news/2021/11/10/schumer-billions-new-york-public-housing-520519">Schumer scores billions for New York's decaying public housing</a> Politico: The jockeying over the housing funds is one of many emerging sources of political tension surrounding President Joe Biden's bill. 
- <p class="updated_time"> 04:30 AM CT, Nov. 10 </p> 
- <a href="https://www.politico.com/news/2021/11/10/biden-vaccine-mandates-va-mcdonough-520564">Biden called for widespread mandates. His VA is navigating its own minefields.</a> Politico: An overwhelming number of staff have gotten vaccinated. But a month after the deadline, at least ten percent of a 380,000 health care workforce still haven’t. 
  <p class="updated_time"> 06:13 PM CT, Nov. 09 </p> 
  <a href="https://www.politico.com/news/2021/11/09/biden-infrastructure-republicans-committee-standing-520484">Biden denounces efforts to strip Republicans who supported infrastructure of committee standing</a> Politico: “If we don’t generate consensus in America, we’re in trouble,” Biden said. 
  <p class="updated_time"> 03:18 PM CT, Nov. 09 </p> 
@@ -450,8 +454,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/08/republican-wave-house-congress-520238">Republican wave builds to take back the House</a> Politico: A combination of aggressive redistricting, strong fundraising and a favorable political environment has the GOP excited about its prospects in next year's midterms. 
  <p class="updated_time"> 11:17 AM CT, Nov. 07 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/07/what-happens-in-vegas-495006">POLITICO Playbook: What happens in Vegas …</a> Politico: And a court temporarily blocks Biden’s vaccine mandate. 
- <p class="updated_time"> 10:27 AM CT, Nov. 07 </p> 
- <a href="https://www.politico.com/news/2021/11/07/murthy-vaccine-mandate-biden-520015">Surgeon general defends embattled vaccine mandate</a> Politico: “It’s a necessary step to accelerate our pathway out of the pandemic,” Vivek Murthy said. 
 
 
 </details>
