@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:45 PM CT, Nov. 14 </p> 
+ <a href="https://www.npr.org/2021/11/14/1055679802/pope-francis-again-calls-for-climate-action-u-s-bishops-have-been-all-but-silent">Pope Francis again calls for climate action. U.S. bishops have been all but silent</a> NPR: The pope has been insistent about the importance and urgency of climate action. But a new study finds Catholic bishops in the U.S. have generally been mum or misleading about climate change. 
  <p class="updated_time"> 03:17 PM CT, Nov. 14 </p> 
  <a href="https://www.nytimes.com/2021/11/11/world/europe/austria-chancellor-lockdown-unvaccinated.html">Austria Weighs a Lockdown for Unvaccinated People</a> NYT: The country’s case rate has more than doubled since late October. 
  <p class="updated_time"> 03:15 PM CT, Nov. 14 </p> 
@@ -163,8 +165,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/11/world/asia/zuo-fang-dead.html">Zuo Fang, a Founder of China's Southern Weekly, is Dead</a> NYT: When he helped start Southern Weekly, he charted a course for a freer era for the country’s press, which later became increasingly constrained by Beijing. 
  <p class="updated_time"> 04:03 PM CT, Nov. 12 </p> 
  <a href="https://www.npr.org/2021/11/12/1055366701/birds-in-the-amazon-have-been-shrinking-heres-why-scientists-think-its-happening">Birds in the Amazon have been shrinking. Here's why scientists think it's happening</a> NPR: Over the last four decades, birds in the Amazon have been shrinking — and scientists believe their smaller bodies may be a response to hotter, drier weather brought by climate change. 
- <p class="updated_time"> 04:03 PM CT, Nov. 12 </p> 
- <a href="https://www.npr.org/2021/11/12/1055366687/the-financial-impact-of-climate-change">The financial impact of climate change</a> NPR: For some people attending the UN's COP26 conference in Scotland, climate change is not a future threat — they are seeing its impact on their homelands now. 
  <p class="updated_time"> 03:09 PM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/world/asia/myanmar-danny-fenster.html">Danny Fenster, U.S. Journalist in Myanmar, Gets 11 Years in Jail</a> NYT: Danny Fenster was given the toughest possible sentence on three charges, in a signal that the country’s military rulers would not bow to international pressure. 
  <p class="updated_time"> 02:57 PM CT, Nov. 12 </p> 
