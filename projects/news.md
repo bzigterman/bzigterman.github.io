@@ -7,14 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:21 PM CT, Nov. 14 </p> 
+ <a href="https://www.npr.org/2021/11/14/1055698304/3-detained-after-car-explosion-kills-1-outside-liverpool-hospital">3 detained after car explosion kills 1 outside Liverpool hospital</a> NPR: Police were called to reports of a blast involving a taxi at Liverpool Women's Hospital on Sunday morning. One person was killed and one person injured. 
  <p class="updated_time"> 04:15 PM CT, Nov. 14 </p> 
  <a href="https://www.nytimes.com/2021/11/14/world/middleeast/belarus-mideast-air-route.html">Air Route to Belarus Closed to Migrants in Bid to Halt Crisis</a> NYT: Hoping to stem the flow of migrants stuck on the border of Belarus and Poland, Dubai banned Iraqi and Syrian passengers from traveling to Minsk. 
  <p class="updated_time"> 03:55 PM CT, Nov. 14 </p> 
  <a href="https://www.npr.org/2021/11/14/1055696930/an-island-nations-representative-says-cop26-failed-to-set-actionable-response-pl">An island nations representative says COP26 failed to set actionable response plan</a> NPR: NPR's Michel Martin speaks with Janine Felson, deputy head of the Belize Delegation for COP26 and advisor to the Alliance of Small Island States, about how negotiations went at COP26 in Glasgow. 
  <p class="updated_time"> 03:45 PM CT, Nov. 14 </p> 
  <a href="https://www.npr.org/2021/11/14/1055679802/pope-francis-again-calls-for-climate-action-u-s-bishops-have-been-all-but-silent">Pope Francis again calls for climate action. U.S. bishops have been all but silent</a> NPR: The pope has been insistent about the importance and urgency of climate action. But a new study finds Catholic bishops in the U.S. have generally been mum or misleading about climate change. 
- <p class="updated_time"> 03:17 PM CT, Nov. 14 </p> 
- <a href="https://www.nytimes.com/2021/11/11/world/europe/austria-chancellor-lockdown-unvaccinated.html">Austria Weighs a Lockdown for Unvaccinated People</a> NYT: The country’s case rate has more than doubled since late October. 
  <p class="updated_time"> 02:11 PM CT, Nov. 14 </p> 
  <a href="https://www.nytimes.com/2021/11/14/world/europe/austria-unvaccinated-lockdown.html">Austria to Target the Unvaccinated in New Lockdown</a> NYT: The country, facing the biggest surge in virus cases since the pandemic started, is putting strict curbs on the movement of those without shots. 
  <p class="updated_time"> 02:08 PM CT, Nov. 14 </p> 
@@ -143,8 +143,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/12/world/americas/oklahoma-kevin-sitt-vaccine-mandate-national-guard.html">Oklahoma Governor Puts Foe of Vaccine Mandates in Charge of National Guard</a> NYT: The governor, Kevin Stitt, is one of a number of Republican state officials across the country who has been fighting against President Biden’s vaccine mandates. 
  <p class="updated_time"> 07:24 AM CT, Nov. 13 </p> 
  <a href="https://www.npr.org/2021/11/13/1055503661/the-darien-gap-was-no-mans-land-now-its-a-popular-migrant-path-to-the-u-s">The Darien Gap was no man's land. Now it's a popular migrant path to the U.S.</a> NPR: The dense jungle of the Darien Gap between Panama and Colombia was once a no man's land. It is now a busy thoroughfare for migrants heading north to the U.S. 
- <p class="updated_time"> 07:02 AM CT, Nov. 13 </p> 
- <a href="https://www.npr.org/2021/11/13/1055503636/climate-negotiations-at-cop26-center-on-timeline-and-aid-to-developing-countries">Climate negotiations at COP26 center on timeline and aid to developing countries</a> NPR: Climate negotiations in Glasgow, Scotland, have gone into overtime. Countries are divided over how quickly to cut greenhouse gas emissions and over aid to developing countries. 
  <p class="updated_time"> 06:00 AM CT, Nov. 13 </p> 
  <a href="https://www.wsj.com/articles/in-the-shadow-of-the-holocaust-a-jewish-community-begins-to-take-root-11636822801">In the Shadow of the Holocaust, a Jewish Community Takes Root</a> WSJ: Poland’s Jewish community—nearly destroyed during World War II—is growing again, but connecting people with their heritage is a race against time. 
  <p class="updated_time"> 05:19 AM CT, Nov. 13 </p> 
