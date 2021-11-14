@@ -7,14 +7,18 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:33 AM CT, Nov. 14 </p> 
+ <a href="https://www.npr.org/2021/11/14/1055641481/queen-elizabeth-sprained-back-remembrance-sunday">Sprained back forces Queen Elizabeth to miss remembrance event for Britain's war dead</a> NPR: Remembrance Sunday is one of the most important events on the 95-year-old monarch's calendar. It was expected to be her first public appearance after canceling others recently on doctors' advice. 
+ <p class="updated_time"> 05:55 AM CT, Nov. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-59280241?at_medium=RSS&at_campaign=KARANGA">China and India must explain themselves - COP president</a> BBC: COP26 President Alok Sharma says Glasgow climate pact is historic and it keeps 1.5C within reach. 
+ <p class="updated_time"> 05:26 AM CT, Nov. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59280706?at_medium=RSS&at_campaign=KARANGA">US bank robber identified after decades-long hunt</a> BBC: Ted Conrad disappeared with $1.7 million after pulling off a bizarre heist more than 50 years ago. 
  <p class="updated_time"> 04:00 AM CT, Nov. 14 </p> 
  <a href="https://www.nytimes.com/2021/11/14/world/asia/afghanistan-isis-shiites.html">The String of ISIS Attacks That Killed Three Generations of One Afghan Family</a> NYT: Over two weeks, the Rajabis suffered loss after loss as suicide attacks on Shiite mosques in two parts of the country ravaged their family. 
  <p class="updated_time"> 03:52 AM CT, Nov. 14 </p> 
  <a href="https://www.nytimes.com/2021/11/14/world/europe/queen-elizabeth-health.html">Queen Elizabeth to Miss Remembrance Service Because of Sprained Back</a> NYT: The British monarch, 95, has put off multiple trips and engagements recently, and the latest cancellation has deepened anxiety about her health. She has now been out of sight since mid-October. 
  <p class="updated_time"> 02:53 AM CT, Nov. 14 </p> 
  <a href="https://www.nytimes.com/2021/11/13/world/canada/newfoundland-migrants.html">Urbanites in Canada Flock to Atlantic Region Amid Remote Work Shift</a> NYT: As housing prices soar in big cities, the country’s eastern provinces are experiencing a surge in migration. Newcomers are being welcomed, but some locals are wary. 
- <p class="updated_time"> 02:47 AM CT, Nov. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-59277788?at_medium=RSS&at_campaign=KARANGA">COP26: New global climate deal struck in Glasgow</a> BBC: The decision to phase down coal shows progress but pledges are not enough to cap temperature rises. 
  <p class="updated_time"> 02:03 AM CT, Nov. 14 </p> 
  <a href="https://www.nytimes.com/2021/11/14/world/americas/cuba-protest.html">In Cuba, Desires for Food and Freedom May Spark a Rare Day of Protest</a> NYT: Young dissidents who rely on the internet to spread their ideas are calling for a protest on Monday, a bold move with little precedent in Cuba. 
  <p class="updated_time"> 12:45 AM CT, Nov. 14 </p> 
@@ -35,10 +39,16 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/science-environment-59268394?at_medium=RSS&at_campaign=KARANGA">COP26 climate deal: 'It won't save us from drowning'</a> BBC: Young activists on the frontline of climate change explain what the deal struck at COP26 means to them. 
  <p class="updated_time"> 06:26 PM CT, Nov. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59278275?at_medium=RSS&at_campaign=KARANGA">Wilbur Smith: Popular Zambian-born author dies aged 88</a> BBC: The accountant-turned-novelist's 49 books have sold more than 140 million copies worldwide. 
+ <p class="updated_time"> 06:10 PM CT, Nov. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59257736?at_medium=RSS&at_campaign=KARANGA">What the 'Joker attack' revealed about Japanese society</a> BBC: An attack which injured 17 people on Halloween has shocked a country that rarely sees violent crime. 
+ <p class="updated_time"> 06:08 PM CT, Nov. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59258413?at_medium=RSS&at_campaign=KARANGA">Majorca plane adventure reveals new migrant route</a> BBC: When 20 people fled a passenger plane it shed light on migration routes as well as airport safety. 
  <p class="updated_time"> 06:07 PM CT, Nov. 13 </p> 
  <a href="https://www.nytimes.com/2021/11/13/world/what-is-tromethamine-tris.html">What Is Tromethamine, or Tris? It Helps Stabilize Covid Vaccines</a> NYT: Also known as tris, the compound helps maintain the pH of vaccines, extending shelf life at warmer temperatures. 
  <p class="updated_time"> 06:04 PM CT, Nov. 13 </p> 
  <a href="https://www.bbc.co.uk/news/uk-england-somerset-59181514?at_medium=RSS&at_campaign=KARANGA">Dress embroidery project unifies women around the world</a> BBC: The artist behind a dress made in global embroidery project said it embodies the "unity" of women. 
+ <p class="updated_time"> 06:02 PM CT, Nov. 13 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59175763?at_medium=RSS&at_campaign=KARANGA">The circus helping Senegal's former child beggars</a> BBC: Senegal's only circus troupe was set up to help child beggars get off the streets. 
  <p class="updated_time"> 05:54 PM CT, Nov. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-59278509?at_medium=RSS&at_campaign=KARANGA">COP26: 'Paris built the arena, Glasgow starts the race' - Kerry</a> BBC: US climate envoy, John Kerry, says "we raised ambition here in Glasgow, this was not business as usual". 
  <p class="updated_time"> 04:51 PM CT, Nov. 13 </p> 
@@ -119,14 +129,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/12/world/canada/newfoundland-cyberattack.html">Hackers Target Newfoundland’s Health Care System</a> NYT: The province has said little about a cyberattack that delayed or canceled medical procedures and leaked personal information. 
  <p class="updated_time"> 06:15 PM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/us/ivory-rhino-congo-trafficking.html">2 Ivory Smugglers Captured in International Operation, U.S. Says</a> NYT: The men were captured by relying on DNA sampling from a previously seized ivory haul, which helped experts pinpoint the location of poached elephants. 
- <p class="updated_time"> 06:13 PM CT, Nov. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59251325?at_medium=RSS&at_campaign=KARANGA">The Nigerian artist who turned pain into fame during lockdown</a> BBC: Ijeoma Ogwuegbu only took up painting 18 months ago but praise from Thandiwe Newton helped her work go viral. 
- <p class="updated_time"> 06:10 PM CT, Nov. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59253088?at_medium=RSS&at_campaign=KARANGA">Iqaluit: A month without clean water in Canada's north</a> BBC: Frustration is growing in the Canadian city of Iqaluit after fuel contaminated the water supply. 
  <p class="updated_time"> 06:09 PM CT, Nov. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59258414?at_medium=RSS&at_campaign=KARANGA">Belarus border: Scrambling for facts in Europe's new crisis</a> BBC: Journalists and aid workers are kept away from the bleak spectacle of migrants on the Polish border. 
- <p class="updated_time"> 06:07 PM CT, Nov. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59202309?at_medium=RSS&at_campaign=KARANGA">Ship-load of 'toxic' Chinese fertilizer causes diplomatic stink</a> BBC: A ship carrying fertiliser from China to Sri Lanka is at the heart of a dispute between both allies. 
  <p class="updated_time"> 06:05 PM CT, Nov. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59265609?at_medium=RSS&at_campaign=KARANGA">BBC's Simpson revisits Afghanistan under the Taliban</a> BBC: In 2001, the BBC's World Affairs editor was part of a team which entered the city when the Taliban fell. 
  <p class="updated_time"> 06:04 PM CT, Nov. 12 </p> 
@@ -149,8 +153,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/11/world/africa/fw-de-klerk-dead.html">F.W. de Klerk, South Africa President Who Ended Apartheid, Dies at 85</a> NYT: A prominent Afrikaner, he defended the separation of the races before helping to dismantle that system, leading to his sharing the Nobel Peace Prize with Nelson Mandela. 
  <p class="updated_time"> 12:56 PM CT, Nov. 12 </p> 
  <a href="https://www.npr.org/sections/coronavirus-live-updates/2021/11/12/1055100209/europe-russia-covid-cases-surge-spike">Europe and Russia battle a new wave of COVID-19</a> NPR: More lockdowns are in the offing, as Germany and Austria shatter daily case counts and Russia has become become the world leader in new COVID-19 deaths. 
- <p class="updated_time"> 12:41 PM CT, Nov. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59268506?at_medium=RSS&at_campaign=KARANGA">Poland border: Heat camera shows migrants stranded between the two countries</a> BBC: The migrants - who are mainly young men - are enduring freezing conditions in the hopes of reaching the EU. 
  <p class="updated_time"> 12:24 PM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/world/africa/de-klerk-apartheid-south-africa.html">For Some South Africans, de Klerk Missed Chances for True Reconciliation</a> NYT: The last white president of South Africa helped bring an end to the apartheid regime, but for many citizens, he never went far enough to disavow it. He left a video apologizing. 
  <p class="updated_time"> 12:02 PM CT, Nov. 12 </p> 
@@ -171,8 +173,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/12/world/europe/julian-assange-stella-moris-marriage.html">Julian Assange Will Marry Stella Moris in London Prison</a> NYT: The WikiLeaks founder, who is battling extradition to the United States on espionage charges, has been granted permission to marry Stella Moris in the London prison where he has been held since 2019. 
  <p class="updated_time"> 09:46 AM CT, Nov. 12 </p> 
  <a href="https://www.npr.org/2021/11/12/1055055724/in-a-first-u-n-climate-agreement-could-include-the-words-coal-and-fossil-fuels">In a first, U.N. climate agreement could include the words 'coal' and 'fossil fuels'</a> NPR: The U.N. secretary-general warns the main goal of limiting global warming is "on life support." But Glasgow negotiators are making modest progress in their final hours. 
- <p class="updated_time"> 09:26 AM CT, Nov. 12 </p> 
- <a href="https://www.npr.org/2021/11/12/1055045794/julian-assange-wins-permission-to-get-married-while-in-a-london-prison">Julian Assange wins permission to marry his partner in a London prison</a> NPR: The WikiLeaks founder and attorney Stella Moris began a relationship after Assange took refuge in the Ecuadorian Embassy in London in 2012. They have two sons together. 
  <p class="updated_time"> 07:55 AM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/11/health/veterans-psychedelics-ptsd-depression.html">Veterans Have Become Unlikely Lobbyists in Push to Legalize Psychedelic Drugs</a> NYT: Lawmakers find it hard to “just say no” to combat veterans seeking support for drug decriminalization efforts gaining traction around the country. 
  <p class="updated_time"> 06:58 AM CT, Nov. 12 </p> 
@@ -218,8 +218,14 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:01 AM CT, Nov. 14 </p> 
+ <a href="https://www.politico.com/news/2021/11/14/gop-trump-pennsylvania-suburbs-521655">GOP roars back to life in Trump-resistant Pennsylvania suburbs</a> Politico: The Republican rebound suggests the Democratic suburban slide reaches beyond Virginia and New Jersey. 
  <p class="updated_time"> 06:30 AM CT, Nov. 14 </p> 
  <a href="https://www.politico.com/news/2021/11/14/tobacco-lawsuits-biden-menthol-ban-521174">Tobacco lawsuits could upend Biden's plan for historic menthol ban</a> Politico: The agency’s effort to decide which e-cigarettes can stay on the market could force it to confront the menthol question much sooner. 
+ <p class="updated_time"> 06:00 AM CT, Nov. 14 </p> 
+ <a href="https://www.npr.org/2021/11/14/1055508416/doug-emhoff-is-americas-first-second-gentleman-in-paris-he-showed-what-that-mean">Doug Emhoff is America's first second gentleman. In Paris, he showed what that means</a> NPR: Doug Emhoff, the husband of Vice President Harris, is taking a very traditional approach to his role of second spouse. The Paris trip was their first diplomatic trip abroad. 
+ <p class="updated_time"> 06:00 AM CT, Nov. 14 </p> 
+ <a href="https://www.npr.org/2021/11/14/1054746569/what-2021s-recent-elections-tell-us-about-voting-in-2022-and-beyond">What 2021's recent elections tell us about voting in 2022 and beyond</a> NPR: Recent off-year elections showed that voters may not be so invested in making it easier to vote while Republicans may benefit from higher voter turnout than they previously had thought. 
  <p class="updated_time"> 04:00 AM CT, Nov. 14 </p> 
  <a href="https://www.nytimes.com/2021/11/14/business/economy/farm-exports-supply-chain-ports.html">Crunch at Ports May Mean Crisis for Family Farms</a> NYT: Backlogs and cancellations are hitting American growers as costs rise, profits slump and overseas customers shop elsewhere. 
  <p class="updated_time"> 02:00 AM CT, Nov. 14 </p> 
@@ -231,8 +237,6 @@ permalink: /projects/news/
 </a> CNN: The Pentagon said it would respond to Oklahoma's Republican governor after the state's National Guard indicated it would thwart a Defense Department mandate that troops be vaccinated against Covid-19. 
  <p class="updated_time"> 08:29 PM CT, Nov. 13 </p> 
  <a href="https://www.politico.com/news/2021/11/13/coalglasgow-climate-deal-521802">The last-minute coal demand that almost sunk the Glasgow climate deal</a> Politico: At issue was a late push from China and India. 
- <p class="updated_time"> 07:23 PM CT, Nov. 13 </p> 
- <a href="https://www.politico.com/gallery/2021/11/13/photos-the-faces-of-cop26-003757">PHOTOS: The faces of COP26</a> Politico: The U.N. climate summit in Glasgow, Scotland, known as COP26, brought world leaders, activists and other interested parties together from Oct. 31 to Nov. 13 to debate and implement solutions to climate change. 
  <p class="updated_time"> 07:02 PM CT, Nov. 13 </p> 
  <a href="https://www.politico.com/news/2021/11/13/climate-talks-glasgow-521720">The U.S. turns up the heat at climate talks</a> Politico: After four years of taking a backseat role under Donald Trump, the Biden team was a driving force at the Glasgow COP26 talks. But winning a strong global agreement remains difficult. 
  <p class="updated_time"> 05:41 PM CT, Nov. 13 </p> 
@@ -241,8 +245,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/13/politics/fact-check-vaccinated-plane-tantrum-video-prince-ea/index.html">Fact check: Viral video purporting to show vaccinated woman's plane tantrum is fake</a> CNN: A video of a maskless woman having a tantrum on an airplane -- threatening to call the police because she is being forced to sit next to a man she presumes is unvaccinated -- has gone extraordinarily viral on social media. 
  <p class="updated_time"> 04:51 PM CT, Nov. 13 </p> 
  <a href="https://www.cnn.com/2021/11/13/politics/fbi-fake-emails-cyber-threat/index.html">Fake FBI emails about a sophisticated attack are part of 'ongoing situation,' agency says</a> CNN: The FBI on Saturday said it was aware of reports that unauthorized emails were coming from a legitimate FBI email address to thousands of organizations about a purported cyber threat. 
- <p class="updated_time"> 04:23 PM CT, Nov. 13 </p> 
- <a href="https://www.politico.com/news/2021/11/13/cop26-climate-deal-vulnerable-countries-521446">COP26 climate deal ‘too late’ for vulnerable countries but too much for others</a> Politico: Countries struck a compromise in Glasgow that pushes efforts into next year. 
  <p class="updated_time"> 04:04 PM CT, Nov. 13 </p> 
  <a href="https://www.npr.org/2021/11/13/1055575802/lack-of-american-ambassadors-is-hurting-foreign-goals-says-afsa-president">Lack of American ambassadors is hurting foreign goals, says AFSA president</a> NPR: NPR's Michel Martin speaks with Eric Rubin, president of the American Foreign Service Association, about the high number of diplomatic vacancies and how it's affecting President Biden's agenda. 
  <p class="updated_time"> 04:04 PM CT, Nov. 13 </p> 
@@ -339,8 +341,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/12/us/politics/murkowski-re-election-bid.html">Murkowski Announces Re-election Bid, Setting Up Clash With Trump</a> NYT: Of the seven Republicans who found former President Donald J. Trump guilty in his second impeachment trial, the Alaska senator is the only one facing re-election this year. 
  <p class="updated_time"> 02:09 PM CT, Nov. 12 </p> 
  <a href="https://www.politico.com/news/2021/11/12/virtual-biden-xi-summit-521147">Virtual Biden-Xi summit set for Monday</a> Politico: The summit will be virtual because Xi is declining invitations to attend all events outside China. 
- <p class="updated_time"> 01:42 PM CT, Nov. 12 </p> 
- <a href="https://www.politico.com/news/2021/11/12/russia-ukraine-invasion-putin-521139">U.S. huddles with allies over possible Russian invasion of Ukraine</a> Politico: The uptick in American concern, confirmed by two U.S. officials, indicates that President Joe Biden’s efforts to reach some sort of equilibrium with Putin are running out of steam. 
  <p class="updated_time"> 01:40 PM CT, Nov. 12 </p> 
  <a href="https://www.cnn.com/2021/11/12/politics/psaki-returns-white-house-covid/index.html">Jen Psaki returns to White House briefing room after testing positive for Covid-19</a> CNN: White House press secretary Jen Psaki returned to the White House briefing room Friday for the first time since testing positive for Covid-19, telling reporters she completed a 10-day quarantine and received a negative Covid-19 test on Thursday. 
  <p class="updated_time"> 01:21 PM CT, Nov. 12 </p> 
@@ -351,10 +351,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/12/politics/paul-gosar-censure-resolution-introduced/index.html">House Democrats introduce resolution censuring Rep. Gosar for video depicting violence against Ocasio-Cortez and Biden</a> CNN: House Democrats plan to introduce a resolution Friday to censure Arizona Republican Rep. Paul Gosar for posting a photoshopped anime video to his Twitter and Instagram accounts showing him appearing to kill Democratic Rep. Alexandria Ocasio-Cortez and attacking President Joe Biden. 
  <p class="updated_time"> 01:00 PM CT, Nov. 12 </p> 
  <a href="https://www.politico.com/news/2021/11/12/trump-cdc-covid-521128">Emails reveal new details of Trump White House interference in CDC Covid planning</a> Politico: The documents released by a congressional committee lay out a timeline for how the Trump White House began to downplay the dangers posed by Covid-19. 
- <p class="updated_time"> 12:34 PM CT, Nov. 12 </p> 
- <a href="https://www.npr.org/2021/11/12/1055057907/remembering-max-cleland-former-georgia-senator-and-vietnam-veteran">Remembering Max Cleland, former Georgia senator and Vietnam veteran</a> NPR: Cleland was a decorated Army veteran who lost three limbs while serving in Vietnam. After the the war, he dedicated his life to public service. He died Nov. 9. Originally broadcast in 2009. 
- <p class="updated_time"> 11:40 AM CT, Nov. 12 </p> 
- <a href="https://www.npr.org/2021/11/12/1055096462/lawyer-for-mark-meadows-says-courts-will-have-to-resolve-jan-6-panel-dispute">Mark Meadows' "defiance" could lead to contempt referral, Jan. 6 panel says</a> NPR: The former White House chief of staff may be looking to the courts for relief, but his path sets him on a collision course with the House. 
  <p class="updated_time"> 10:54 AM CT, Nov. 12 </p> 
  <a href="https://www.cnn.com/2021/11/12/politics/rob-califf-fda-commissioner/index.html">Biden picks Dr. Rob Califf as FDA commissioner</a> CNN: President Joe Biden will nominate Dr. Rob Califf, a longtime cardiologist, to be the next commissioner of the Food and Drug Administration, a role Califf previously held during the Obama administration. 
  <p class="updated_time"> 08:52 AM CT, Nov. 12 </p> 
