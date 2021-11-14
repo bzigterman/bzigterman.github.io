@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:44 AM CT, Nov. 14 </p> 
+ <a href="https://www.nytimes.com/2021/11/14/world/europe/queen-elizabeth-health.html">Queen Elizabeth Misses Remembrance Service Because of Sprained Back</a> NYT: The British monarch, 95, has put off multiple trips and engagements recently, and the latest cancellation has deepened anxiety about her health. She has now been out of sight since mid-October. 
  <p class="updated_time"> 07:33 AM CT, Nov. 14 </p> 
  <a href="https://www.bbc.co.uk/news/uk-59280241?at_medium=RSS&at_campaign=KARANGA">China and India must explain themselves - COP president</a> BBC: COP26 President Alok Sharma speaks after an agreement to "phase down" coal rather than "phase out". 
  <p class="updated_time"> 07:25 AM CT, Nov. 14 </p> 
@@ -29,8 +31,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59279585?at_medium=RSS&at_campaign=KARANGA">US covered up deadly air strikes in Syria, New York Times reports</a> BBC: The strikes occurred in the last stronghold of the so-called Islamic State in Syria in 2019. 
  <p class="updated_time"> 04:00 AM CT, Nov. 14 </p> 
  <a href="https://www.nytimes.com/2021/11/14/world/asia/afghanistan-isis-shiites.html">The String of ISIS Attacks That Killed Three Generations of One Afghan Family</a> NYT: Over two weeks, the Rajabis suffered loss after loss as suicide attacks on Shiite mosques in two parts of the country ravaged their family. 
- <p class="updated_time"> 03:52 AM CT, Nov. 14 </p> 
- <a href="https://www.nytimes.com/2021/11/14/world/europe/queen-elizabeth-health.html">Queen Elizabeth to Miss Remembrance Service Because of Sprained Back</a> NYT: The British monarch, 95, has put off multiple trips and engagements recently, and the latest cancellation has deepened anxiety about her health. She has now been out of sight since mid-October. 
  <p class="updated_time"> 02:53 AM CT, Nov. 14 </p> 
  <a href="https://www.nytimes.com/2021/11/13/world/canada/newfoundland-migrants.html">Urbanites in Canada Flock to Atlantic Region Amid Remote Work Shift</a> NYT: As housing prices soar in big cities, the country’s eastern provinces are experiencing a surge in migration. Newcomers are being welcomed, but some locals are wary. 
  <p class="updated_time"> 02:03 AM CT, Nov. 14 </p> 
