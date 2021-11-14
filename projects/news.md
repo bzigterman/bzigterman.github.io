@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:00 AM CT, Nov. 14 </p> 
+ <a href="https://www.nytimes.com/2021/11/14/world/asia/afghanistan-isis-shiites.html">The String of ISIS Attacks That Killed Three Generations of One Afghan Family</a> NYT: Over two weeks, the Rajabis suffered loss after loss as suicide attacks on Shiite mosques in two parts of the country ravaged their family. 
  <p class="updated_time"> 03:52 AM CT, Nov. 14 </p> 
  <a href="https://www.nytimes.com/2021/11/14/world/europe/queen-elizabeth-health.html">Queen Elizabeth to Miss Remembrance Service Because of Sprained Back</a> NYT: The British monarch, 95, has put off multiple trips and engagements recently, and the latest cancellation has deepened anxiety about her health. She has now been out of sight since mid-October. 
  <p class="updated_time"> 02:53 AM CT, Nov. 14 </p> 
@@ -209,8 +211,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/11/world/europe/poland-forests-border-crisis.html">On the Ground: Migrants in Poland's Forests Are Hiding and Hurting</a> NYT: The forests stretch past a restricted zone, and it is there that migrants like this group of eight who have made it past the guards and the razor wire are waiting for an opportunity to continue on. 
  <p class="updated_time"> 07:57 AM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/world/europe/eu-covid-deaths.html">Europe's Covid Deaths Rose 10 Percent in a Week, the W.H.O. Says</a> NYT: Cases and fatalities have increased on the continent, even as they have dropped or remained stable in other parts of the globe. 
- <p class="updated_time"> 04:02 AM CT, Nov. 11 </p> 
- <a href="https://www.nytimes.com/2021/11/11/t-magazine/mansaf-bedouin-rice.html">For Many Members of the Arab American Diaspora, Mansaf Offers a Taste of Home</a> NYT: The traditional Bedouin dish of bread, rice, lamb and yogurt is a talisman of identity in Jordan — and in various communities in suburban Detroit. 
 
 
 </details>
@@ -218,6 +218,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:00 AM CT, Nov. 14 </p> 
+ <a href="https://www.nytimes.com/2021/11/14/business/economy/farm-exports-supply-chain-ports.html">Crunch at Ports May Mean Crisis for Family Farms</a> NYT: Backlogs and cancellations are hitting American growers as costs rise, profits slump and overseas customers shop elsewhere. 
  <p class="updated_time"> 02:00 AM CT, Nov. 14 </p> 
  <a href="https://www.nytimes.com/2021/11/14/us/loudoun-county-school-board-va.html">How Loudoun Schools Got Caught in Virginia’s Political Maelstrom </a> NYT: Loudoun County tried to address racism and promote diversity within its schools. Then it found itself on Fox News. 
  <p class="updated_time"> 09:23 PM CT, Nov. 13 </p> 
@@ -325,8 +327,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/12/us/politics/robert-califf-fda.html">Biden Chooses Robert Califf to Lead F.D.A., Despite Drug Industry Ties</a> NYT: Dr. Robert M. Califf, an academic and clinical trial researcher who ran the agency in 2016, has also consulted for pharmaceutical companies. 
  <p class="updated_time"> 03:24 PM CT, Nov. 12 </p> 
  <a href="https://www.npr.org/2021/11/12/1055366638/to-try-to-convert-an-election-skeptic-a-county-clerk-invited-her-to-help-the-pro">To try to convert an election skeptic, a county clerk invited her to help the process</a> NPR: Election officials are trying to win over voter trust that ballots are handled and counted securely. In Colorado, a clerk went so far as to invite one skeptic to work at his office to see for herself. 
- <p class="updated_time"> 03:21 PM CT, Nov. 12 </p> 
- <a href="https://www.nytimes.com/2021/11/11/us/politics/trump-files-january-6.html">Court Issues Brief Hold on Release of Trump Files in Jan. 6 Inquiry</a> NYT: Congress had been set to receive the first batch of Trump White House files from the National Archives on Friday, a move that the former president had fought. 
  <p class="updated_time"> 03:05 PM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/us/politics/pell-grants-for-profit-colleges-aid.html">Democrats’ Bill Would Deny For-Profit College Students Extra Aid</a> NYT: Critics say a little-noticed provision would hurt the very constituencies — people of color, the working class, low-income Americans — that the party typically champions. 
  <p class="updated_time"> 02:57 PM CT, Nov. 12 </p> 
