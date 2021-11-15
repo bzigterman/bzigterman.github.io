@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:43 PM CT, Nov. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59283128?at_medium=RSS&at_campaign=KARANGA">Covid: Austria introduces lockdown for unvaccinated</a> BBC: Some two million people are told to stay at home amid growing pressure on hospitals as cases surge. 
  <p class="updated_time"> 11:21 PM CT, Nov. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59286783?at_medium=RSS&at_campaign=KARANGA">COP26: A watered-down deal as Delhi chokes</a> BBC: India watered down a deal to cut reliance on coal even as its capital Delhi reels from toxic air quality. 
  <p class="updated_time"> 10:56 PM CT, Nov. 14 </p> 
@@ -21,8 +23,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/business-59257319?at_medium=RSS&at_campaign=KARANGA">Trump Organization selling Washington hotel for $375m, reports say</a> BBC: The historic building will reportedly be renamed the Waldorf Astoria and managed by the Hilton group. 
  <p class="updated_time"> 08:43 PM CT, Nov. 14 </p> 
  <a href="https://www.nytimes.com/2021/11/14/world/europe/liverpool-hospital-car-explosion.html">Taxi Explodes Outside Liverpool Hospital, Killing One</a> NYT: Three men in their twenties were arrested under Britain’s Terrorism Act several hours after the explosion, in which a second person was injured, the authorities said. 
- <p class="updated_time"> 07:39 PM CT, Nov. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59283128?at_medium=RSS&at_campaign=KARANGA">Covid: Austria introduces lockdown for unvaccinated</a> BBC: Some two million people are told to stay at home amid growing pressure on hospitals as cases surge. 
  <p class="updated_time"> 07:13 PM CT, Nov. 14 </p> 
  <a href="https://www.nytimes.com/2021/11/14/world/asia/rohingya-refugees-bangladesh.html">They Warned Their Names Were on a Hit List. They Were Killed.</a> NYT: In less than a month, assassins have killed at least eight people in the Rohingya refugee camps of Bangladesh, silencing those who have dared to speak out against the violent gangs. 
  <p class="updated_time"> 06:52 PM CT, Nov. 14 </p> 
