@@ -306,8 +306,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/15/us/politics/beto-orourke-texas-governor-announcement.html">Beto O’Rourke Announces Run for Texas Governor, Testing Democrats’ Strength</a> NYT: Mr. O’Rourke’s announcement on Monday sets the stage for a pitched political showdown over the future of the country’s largest Republican-led state. 
  <p class="updated_time"> 08:37 AM CT, Nov. 15 </p> 
  <a href="https://www.politico.com/news/2021/11/15/imprisoned-journalist-released-myanmar-522325">Imprisoned U.S. journalist released in Myanmar</a> Politico: Danny Fenster was arrested in May in the aftermath of a military coup in the Southeast Asian nation. 
- <p class="updated_time"> 08:02 AM CT, Nov. 15 </p> 
- <a href="https://www.cnn.com/2021/11/15/politics/us-intelligence-russia-ukraine/index.html">US struggles with intelligence blind spot as Russia builds up forces near Ukraine</a> CNN: After publicly sounding the alarm about Russia's irregular military movements near Ukraine's border, the Biden administration's efforts to understand Russia's intentions are being hampered by a key blind spot -- the intelligence community's limited visibility into Russian President Vladimir Putin's inner circle. 
  <p class="updated_time"> 07:31 AM CT, Nov. 15 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/11/15/congress-starts-cooking-end-of-year-agenda-495100">Congress starts cooking end-of-year agenda</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:16 AM CT, Nov. 15 </p> 
@@ -396,6 +394,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/13/democrats-drug-prices-521213">Dems’ plan to limit drug price inflation faces test in Senate</a> Politico: Attempts at price controls have to conform with the parameters of the  reconciliation process they’re hoping to use to pass the social spending package on a party-line vote. 
  <p class="updated_time"> 11:06 PM CT, Nov. 12 </p> 
  <a href="https://www.politico.com/news/2021/11/12/federal-court-biden-vaccine-or-test-mandate-521233">Federal court extends stay of Biden administration's vaccine-or-test mandate</a> Politico: The Biden administration is likely to appeal the panel's decision to the full court. 
+ <p class="updated_time"> 04:33 PM CT, Nov. 12 </p> 
+ <a href="https://www.cnn.com/2021/11/12/politics/biden-admin-ethiopia-eritrea-sanctions/index.html">Biden administration sanctions Eritrean military, ruling party over role in northern Ethiopia conflict</a> CNN: The Biden administration sanctioned Eritrea's military and sole political party for their involvement in the ongoing crisis in northern Ethiopia. 
  <p class="updated_time"> 01:40 PM CT, Nov. 12 </p> 
  <a href="https://www.cnn.com/2021/11/12/politics/psaki-returns-white-house-covid/index.html">Jen Psaki returns to White House briefing room after testing positive for Covid-19</a> CNN: White House press secretary Jen Psaki returned to the White House briefing room Friday for the first time since testing positive for Covid-19, telling reporters she completed a 10-day quarantine and received a negative Covid-19 test on Thursday. 
  <p class="updated_time"> 01:00 PM CT, Nov. 12 </p> 
@@ -426,6 +426,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/huddle/2021/11/11/just-checking-the-cbo-score-495067">Just checking the (CBO) score</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:16 AM CT, Nov. 11 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/11/the-other-big-intra-democratic-fight-495065">POLITICO Playbook: The other big intra-Democratic fight</a> Politico: And the inflation jump turns the temperature up. 
+ <p class="updated_time"> 06:05 AM CT, Nov. 11 </p> 
+ <a href="https://www.cnn.com/2021/11/11/politics/joe-biden-inflation-messaging/index.html">Biden changes his tone and walks a delicate line on inflation</a> CNN: Rising consumer prices have quickly become one of the White House's most urgent concerns as Americans grow unsettled at the higher cost of goods -- and place the blame on President Joe Biden. 
  <p class="updated_time"> 04:30 AM CT, Nov. 11 </p> 
  <a href="https://www.politico.com/news/2021/11/11/bidens-voters-recovery-conundrum-520771">Biden's ‘I feel your pain’ conundrum</a> Politico: It’s tripped up the last two Democratic presidents and could trip up Biden too: How to sell a recovery when most voters aren’t feeling it. 
  <p class="updated_time"> 06:28 PM CT, Nov. 10 </p> 
