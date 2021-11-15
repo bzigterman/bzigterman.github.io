@@ -9,6 +9,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 11:43 PM CT, Nov. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59283128?at_medium=RSS&at_campaign=KARANGA">Covid: Austria introduces lockdown for unvaccinated</a> BBC: Some two million people are told to stay at home amid growing pressure on hospitals as cases surge. 
+ <p class="updated_time"> 11:22 PM CT, Nov. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59286563?at_medium=RSS&at_campaign=KARANGA">Maori tribe tells anti-vaccine protestors to stop using popular haka</a> BBC: The popular Ke Mata haka was performed by anti-vaccine protesters during demonstrations last week. 
  <p class="updated_time"> 11:21 PM CT, Nov. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59286783?at_medium=RSS&at_campaign=KARANGA">COP26: A watered-down deal as Delhi chokes</a> BBC: India watered down a deal to cut reliance on coal even as its capital Delhi reels from toxic air quality. 
  <p class="updated_time"> 10:56 PM CT, Nov. 14 </p> 
