@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:25 PM CT, Nov. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59295723?at_medium=RSS&at_campaign=KARANGA">Kyle Rittenhouse: Weapons charge against accused US teen dropped</a> BBC: The judge dismissed the charge ahead of closing arguments by prosecutors and defence on Monday. 
  <p class="updated_time"> 12:13 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/world/europe/belarus-poland-eu-sanctions-migrants.html">Europe Adopts New Sanctions Against Belarus</a> NYT: A confrontation at the Polish-Belarusian border, a funeral for a dead Syrian boy trapped in between and a new round of E.U. sanctions mark the struggle with Aleksandr G. Lukashenko. 
  <p class="updated_time"> 12:07 PM CT, Nov. 15 </p> 
@@ -163,8 +165,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/12/world/asia/china-zero-covid.html">China's 'Zero Covid' Efforts Come With a Cost</a> NYT: The Communist Party is making broad efforts to stamp out the disease entirely, but the measures come with costs. 
  <p class="updated_time"> 07:01 PM CT, Nov. 13 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59268394?at_medium=RSS&at_campaign=KARANGA">COP26 climate deal: 'It won't save us from drowning'</a> BBC: Young activists on the frontline of climate change explain what the deal struck at COP26 means to them. 
- <p class="updated_time"> 06:08 PM CT, Nov. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59258413?at_medium=RSS&at_campaign=KARANGA">Majorca plane adventure reveals new migrant route</a> BBC: When 20 people fled a passenger plane it shed light on migration routes as well as airport safety. 
  <p class="updated_time"> 06:07 PM CT, Nov. 13 </p> 
  <a href="https://www.nytimes.com/2021/11/13/world/what-is-tromethamine-tris.html">What Is Tromethamine, or Tris? It Helps Stabilize Covid Vaccines</a> NYT: Also known as tris, the compound helps maintain the pH of vaccines, extending shelf life at warmer temperatures. 
  <p class="updated_time"> 05:54 PM CT, Nov. 13 </p> 
@@ -220,6 +220,10 @@ permalink: /projects/news/
 
  <p class="updated_time"> 12:29 PM CT, Nov. 15 </p> 
  <a href="https://www.politico.com/news/2021/11/15/us-space-debris-russia-satellites-522406">U.S. warns of space debris after reports that Russia destroyed one of its satellites</a> Politico: A defense official confirmed to POLITICO the debris was the result of an anti-satellite test conducted by Russia over the weekend. 
+ <p class="updated_time"> 12:19 PM CT, Nov. 15 </p> 
+ <a href="https://www.nytimes.com/2021/11/15/us/politics/pat-leahy-senate-retire.html">Patrick Leahy Announces He Will Retire From the U.S. Senate</a> NYT: At age 81, the Vermont Democrat has served in the Senate for nearly half a century. 
+ <p class="updated_time"> 12:16 PM CT, Nov. 15 </p> 
+ <a href="https://www.cnn.com/2021/11/15/politics/russia-anti-satellite-weapon-test-scn/index.html">US concerned that a Russian anti-satellite weapons test created a debris field in space</a> CNN: The US is concerned that Russia carried out a major anti-satellite weapons test over the weekend, two US officials told CNN. One of the officials said it may have created a potentially dangerous debris field in space. 
  <p class="updated_time"> 11:59 AM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/us/politics/alex-jones-sandy-hook.html">Alex Jones Liable in Sandy Hook Defamation Suits</a> NYT: A Connecticut judge’s ruling combines with decisions in Texas to grant a clean sweep for families of shooting victims in their cases against the Infowars host. 
  <p class="updated_time"> 11:58 AM CT, Nov. 15 </p> 
@@ -236,8 +240,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/15/us/politics/republicans-2022-redistricting-maps.html">How Republicans Have an Edge in the Emerging 2022 Congressional Maps</a> NYT: On a highly distorted congressional map that is still taking shape, the party has added enough safe House districts to capture control of the chamber based on its redistricting edge alone. 
  <p class="updated_time"> 11:16 AM CT, Nov. 15 </p> 
  <a href="https://www.cnn.com/2021/11/15/politics/biden-drilling-ban/index.html">Biden to propose 20-year ban on new oil drilling near Native American site in New Mexico</a> CNN: President Joe Biden will announce Monday a proposal for a 20-year ban on new oil and gas drilling near Chaco Canyon in New Mexico -- one of the oldest Native American sites in the US -- White House officials said. 
- <p class="updated_time"> 11:15 AM CT, Nov. 15 </p> 
- <a href="https://www.cnn.com/2021/11/15/politics/russia-anti-satellite-weapon-test-scn/index.html">US concerned that a Russian anti-satellite weapons test created a debris field in space</a> CNN: The US is concerned that Russia carried out a major anti-satellite weapons test over the weekend, two US officials told CNN. One of the officials said it may have created a potentially dangerous debris field in space. 
  <p class="updated_time"> 11:14 AM CT, Nov. 15 </p> 
  <a href="https://www.npr.org/2021/11/15/1053422827/in-betrayal-abcs-jonathan-karl-asks-must-the-trump-show-go-on">In 'Betrayal,' ABC's Jonathan Karl asks: 'Must the Trump show go on?'</a> NPR: Karl notes often that Trump continues his campaign to invalidate the 2020 election — even now. The "Trump show" remains very much on stage, finding an audience and threatening to extend its run. 
  <p class="updated_time"> 10:56 AM CT, Nov. 15 </p> 
@@ -251,7 +253,7 @@ permalink: /projects/news/
  <p class="updated_time"> 10:26 AM CT, Nov. 15 </p> 
  <a href="https://www.npr.org/2021/11/15/1055791697/vermont-sen-patrick-leahy-wont-seek-reelection-next-year">Vermont Sen. Patrick Leahy won't seek reelection next year</a> NPR: Leahy, 81, is the longest-serving member of the U.S. Senate. 
  <p class="updated_time"> 10:18 AM CT, Nov. 15 </p> 
- <a href="https://www.politico.com/news/2021/11/15/leahy-most-senior-senator-will-retire-522356">Leahy, most-senior senator, will retire</a> Politico: Sen. Patrick Leahy, 81, announced Monday that he would not run for a ninth term. 
+ <a href="https://www.politico.com/news/2021/11/15/leahy-most-senior-senator-will-retire-522356">Leahy, most senior senator, will retire</a> Politico: Sen. Patrick Leahy, 81, announced Monday that he would not run for a ninth term. 
  <p class="updated_time"> 10:15 AM CT, Nov. 15 </p> 
  <a href="https://www.npr.org/2021/11/15/1055832971/steve-bannon-turns-himself-in-to-face-criminal-contempt-charges">Steve Bannon turns himself in to face criminal contempt charges</a> NPR: Former Trump adviser Steve Bannon has turned himself in at the FBI field office in Washington. He faces charges of contempt of Congress. 
  <p class="updated_time"> 10:10 AM CT, Nov. 15 </p> 
@@ -262,8 +264,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/15/npr-books-editor-dies-522353">NPR books editor Petra Mayer dies at 46</a> Politico: Mayer is remembered for her reporting at Comic-Con and helping put together NPR’s Book Concierge. 
  <p class="updated_time"> 09:52 AM CT, Nov. 15 </p> 
  <a href="https://www.cnn.com/2021/11/15/politics/joe-biden-xi-jinping-virtual-summit/index.html">Biden to engage in critical talks with President Xi Jinping amid fierce tensions with China</a> CNN: When Chinese President Xi Jinping beams into the White House on Monday evening for a virtual summit with President Joe Biden, the two men will need no introduction. 
- <p class="updated_time"> 09:50 AM CT, Nov. 15 </p> 
- <a href="https://www.nytimes.com/2021/11/15/us/politics/pat-leahy-senate-retire.html">Pat Leahy Announces He Will Retire From the U.S. Senate</a> NYT: At age 81, the Vermont Democrat has served in the Senate for nearly half a century. 
  <p class="updated_time"> 09:44 AM CT, Nov. 15 </p> 
  <a href="https://www.politico.com/news/2021/11/15/jeffrey-epstein-ghislaine-maxwell-522349">Jeffrey Epstein faces trial by proxy: Ghislaine Maxwell</a> Politico: Maxwell, 59, has pleaded not guilty to charges she groomed underage victims to have unwanted sex with Epstein. She has vehemently denied wrongdoing. 
  <p class="updated_time"> 09:37 AM CT, Nov. 15 </p> 
