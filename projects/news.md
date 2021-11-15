@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:45 AM CT, Nov. 15 </p> 
+ <a href="https://www.nytimes.com/2021/11/15/world/asia/maori-haka-anti-vaccine.html">Stop Using Our Haka, Maori Tribe Tells Anti-Vaccine Protesters</a> NYT: Ngati Toa, which owns the legal rights to the dance, said it supports Covid vaccinations as the best chance to protect a group that has suffered disproportionally from pandemics. 
+ <p class="updated_time"> 07:45 AM CT, Nov. 15 </p> 
+ <a href="https://www.nytimes.com/2021/11/12/world/california-covid-booster.html">All California Adults Can Get Booster Shots, State Says</a> NYT: Officials are seeking to avert a winter surge; last year, so many Covid patients died that officials were forced to deploy mobile morgues. 
  <p class="updated_time"> 07:41 AM CT, Nov. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59246083?at_medium=RSS&at_campaign=KARANGA">Jair Bolsonaro and guns: A US culture war raging in Brazil</a> BBC: Gun culture was part of Bolsonaro's winning presidential campaign. Three years on, what's the impact? 
  <p class="updated_time"> 07:18 AM CT, Nov. 15 </p> 
@@ -187,8 +191,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/12/world/canada/newfoundland-cyberattack.html">Hackers Target Newfoundland’s Health Care System</a> NYT: The province has said little about a cyberattack that delayed or canceled medical procedures and leaked personal information. 
  <p class="updated_time"> 06:15 PM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/us/ivory-rhino-congo-trafficking.html">2 Ivory Smugglers Captured in International Operation, U.S. Says</a> NYT: The men were captured by relying on DNA sampling from a previously seized ivory haul, which helped experts pinpoint the location of poached elephants. 
- <p class="updated_time"> 02:57 PM CT, Nov. 12 </p> 
- <a href="https://www.nytimes.com/2021/11/12/world/california-covid-booster.html">All California Adults Can Get Booster Shots, State Says</a> NYT: Officials are seeking to avert a winter surge; last year, so many Covid patients died that officials were forced to deploy mobile morgues. 
  <p class="updated_time"> 12:24 PM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/world/africa/de-klerk-apartheid-south-africa.html">For Some South Africans, de Klerk Missed Chances for True Reconciliation</a> NYT: The last white president of South Africa helped bring an end to the apartheid regime, but for many citizens, he never went far enough to disavow it. He left a video apologizing. 
  <p class="updated_time"> 12:02 PM CT, Nov. 12 </p> 
@@ -209,8 +211,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/12/arts/design/badiucao-brescia-china.html">The Show Goes On, Even After China Tried to Shut It Down</a> NYT: An Italian city rejected a request from the Chinese Embassy in Rome to cancel an exhibition by Badiucao, an artist who has been described as the Chinese Banksy. 
  <p class="updated_time"> 02:36 AM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/11/world/europe/migrants-poland-belarus-lukashenko.html">Migrants in Peril, and Raw Emotions, in a Volatile European Border Standoff</a> NYT: A confrontation over migrants between Belarus and Poland is growing more volatile, as nationalist fervor rises in both countries and a humanitarian disaster looms. 
- <p class="updated_time"> 05:37 PM CT, Nov. 11 </p> 
- <a href="https://www.nytimes.com/2021/11/11/world/who-is-aleksandr-g-lukashenko.html">Who Is Aleksandr Lukashenko? Here's What You Need to Know</a> NYT: A migrant crisis on the border with Poland has put the Belarusian president at the center of a clash roiling Europe. 
 
 
 </details>
@@ -218,6 +218,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 08:37 AM CT, Nov. 15 </p> 
+ <a href="https://www.politico.com/news/2021/11/15/imprisoned-journalist-released-myanmar-522325">Imprisoned U.S. journalist released in Myanmar</a> Politico: He was arrested in May in the aftermath of the Myanmar military’s February coup of the Southeast Asian Nation’s democratically elected government. 
  <p class="updated_time"> 07:34 AM CT, Nov. 15 </p> 
  <a href="https://www.cnn.com/2021/11/15/politics/donald-trump-steve-bannon-january-6-joe-biden-infrastructure/index.html">Trump is in full attack mode as Biden celebrates a victory that eluded him</a> CNN: Donald Trump is tightening his malignant hold on American politics as Joe Biden battles to stabilize his own problem-plagued presidency by celebrating the kind of political win his predecessor never managed. 
  <p class="updated_time"> 07:31 AM CT, Nov. 15 </p> 
@@ -316,12 +318,12 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/14/samantha-power-usaid-future-515606">Power moves: Samantha Power’s celebrity draws spotlight to USAID — and questions about her future</a> Politico: The longtime human rights crusader is energizing an agency few Americans know about, while fueling speculation about her next step. 
  <p class="updated_time"> 08:06 AM CT, Nov. 14 </p> 
  <a href="https://www.cnn.com/2021/11/14/politics/biden-approval-rating/index.html">Analysis: Can Biden revive his popularity in time for midterm elections? </a> CNN: From Virginia to New Jersey, Democratic election woes this month had a common thread: the unpopularity of President Joe Biden. 
- <p class="updated_time"> 07:44 AM CT, Nov. 14 </p> 
- <a href="https://www.politico.com/news/2021/11/14/pope-francis-poor-injustice-521896">Pope: The poor are often victims of injustice</a> Politico: He celebrated Sunday Mass in St. Peter’s Basilica attended by 2,000 indigent people. 
  <p class="updated_time"> 07:05 AM CT, Nov. 14 </p> 
  <a href="https://www.npr.org/2021/11/14/1055640638/week-in-politics-infrastructure-bill-provides-money-for-bridges-broadband-and-mo">Week in politics: Infrastructure bill provides money for bridges, broadband and more</a> NPR: At long last, President Biden plans to sign the bipartisan infrastructure bill Monday. Plus, he'll attend a virtual summit with Chinese leader Xi Jinping. 
  <p class="updated_time"> 07:05 AM CT, Nov. 14 </p> 
  <a href="https://www.npr.org/2021/11/14/1055640610/vice-president-harris-returns-from-diplomatic-debut-in-europe">Vice President Harris returns from diplomatic debut in Europe</a> NPR: Vice President Harris is back from France, where she took center stage among a large group of world leaders. 
+ <p class="updated_time"> 07:01 AM CT, Nov. 14 </p> 
+ <a href="https://www.politico.com/news/2021/11/14/gop-trump-pennsylvania-suburbs-521655">GOP roars back to life in Trump-resistant Pennsylvania suburbs</a> Politico: The Republican rebound suggests the Democratic suburban slide reaches beyond Virginia and New Jersey. 
  <p class="updated_time"> 06:00 AM CT, Nov. 14 </p> 
  <a href="https://www.npr.org/2021/11/14/1055508416/doug-emhoff-is-americas-first-second-gentleman-in-paris-he-showed-what-that-mean">Doug Emhoff is America's first second gentleman. In Paris, he showed what that means</a> NPR: Doug Emhoff, the husband of Vice President Harris, is taking a very traditional approach to his role of second spouse. The Paris trip was their first diplomatic trip abroad. 
  <p class="updated_time"> 06:00 AM CT, Nov. 14 </p> 
