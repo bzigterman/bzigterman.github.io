@@ -34,7 +34,7 @@ permalink: /projects/news/
  <p class="updated_time"> 06:41 AM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/12/world/asia/myanmar-danny-fenster.html">Danny Fenster, U.S. Journalist in Myanmar, Gets 11 Years in Jail</a> NYT: Danny Fenster was given the toughest possible sentence on three charges, in a signal that the country’s military rulers would not bow to international pressure. 
  <p class="updated_time"> 06:29 AM CT, Nov. 15 </p> 
- <a href="https://www.bbc.co.uk/news/entertainment-arts-59291000?at_medium=RSS&at_campaign=KARANGA">Adele tells Oprah Winfrey: I just didn't want to do it anymore</a> BBC: Award-winning singer Adele describes how she nearly gave up her career following her divorce. 
+ <a href="https://www.bbc.co.uk/news/entertainment-arts-59291000?at_medium=RSS&at_campaign=KARANGA">Adele opens up to Oprah Winfrey about her weight loss, divorce and finding herself again.</a> BBC: Award-winning singer Adele describes how she saved her mental health through exercise and why she's now at peace with herself. 
  <p class="updated_time"> 06:29 AM CT, Nov. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59249485?at_medium=RSS&at_campaign=KARANGA">China Covid: Outrage after pet dog killed by health workers</a> BBC: The quarantined owner posted video showing one health worker beating her pet with a crowbar. 
  <p class="updated_time"> 06:19 AM CT, Nov. 15 </p> 
@@ -220,14 +220,14 @@ permalink: /projects/news/
 
  <p class="updated_time"> 08:37 AM CT, Nov. 15 </p> 
  <a href="https://www.politico.com/news/2021/11/15/imprisoned-journalist-released-myanmar-522325">Imprisoned U.S. journalist released in Myanmar</a> Politico: Danny Fenster was arrested in May in the aftermath of a military coup in the Southeast Asian nation. 
+ <p class="updated_time"> 08:35 AM CT, Nov. 15 </p> 
+ <a href="https://www.cnn.com/2021/11/15/politics/biden-signing-ceremony-infrastructure-bill-white-house/index.html">Biden set to sign infrastructure bill into law</a> CNN: President Joe Biden signs the $1.2 trillion bipartisan infrastructure package into law Monday afternoon, seeking a jolt of momentum for his presidency as he commemorates a major legislative victory with pomp and circumstance on the White House South Lawn. 
  <p class="updated_time"> 08:28 AM CT, Nov. 15 </p> 
  <a href="https://www.cnn.com/2021/11/15/politics/beto-orourke-governor-texas-2022/index.html">O'Rourke announces bid to take on Greg Abbott in 2022 Texas gubernatorial race</a> CNN: Beto O'Rourke, the former congressman and 2020 Democratic presidential candidate, on Monday launched his campaign to unseat Texas Gov. Greg Abbott in 2022. 
  <p class="updated_time"> 08:18 AM CT, Nov. 15 </p> 
  <a href="https://www.cnn.com/2021/11/15/politics/biden-drilling-ban/index.html">Biden to propose 20-year ban on new oil drilling near Native American site in New Mexico</a> CNN: President Joe Biden will announce Monday a proposal for a 20-year ban on new oil and gas drilling near Chaco Canyon in New Mexico -- one of the oldest Native American sites in the US -- White House officials said. 
  <p class="updated_time"> 08:12 AM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/us/politics/beto-orourke-texas-governor-announcement.html">Beto O’Rourke Announces Run for Texas Governor, Testing Democrats’ Strength</a> NYT: Mr. O’Rourke’s announcement on Monday sets the stage for a pitched political showdown over the future of the country’s largest Republican-led state. 
- <p class="updated_time"> 08:10 AM CT, Nov. 15 </p> 
- <a href="https://www.cnn.com/2021/11/15/politics/biden-signing-ceremony-infrastructure-bill-white-house/index.html">Biden set to sign infrastructure bill into law</a> CNN: President Joe Biden signs the $1.2 trillion bipartisan infrastructure package into law Monday afternoon, seeking a jolt of momentum for his presidency as he commemorates a major legislative victory with pomp and circumstance on the White House South Lawn. 
  <p class="updated_time"> 08:02 AM CT, Nov. 15 </p> 
  <a href="https://www.cnn.com/2021/11/15/politics/us-intelligence-russia-ukraine/index.html">US struggles with intelligence blind spot as Russia builds up forces near Ukraine</a> CNN: After publicly sounding the alarm about Russia's irregular military movements near Ukraine's border, the Biden administration's efforts to understand Russia's intentions are being hampered by a key blind spot -- the intelligence community's limited visibility into Russian President Vladimir Putin's inner circle. 
  <p class="updated_time"> 07:34 AM CT, Nov. 15 </p> 
@@ -328,8 +328,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/14/1055640638/week-in-politics-infrastructure-bill-provides-money-for-bridges-broadband-and-mo">Week in politics: Infrastructure bill provides money for bridges, broadband and more</a> NPR: At long last, President Biden plans to sign the bipartisan infrastructure bill Monday. Plus, he'll attend a virtual summit with Chinese leader Xi Jinping. 
  <p class="updated_time"> 07:05 AM CT, Nov. 14 </p> 
  <a href="https://www.npr.org/2021/11/14/1055640610/vice-president-harris-returns-from-diplomatic-debut-in-europe">Vice President Harris returns from diplomatic debut in Europe</a> NPR: Vice President Harris is back from France, where she took center stage among a large group of world leaders. 
- <p class="updated_time"> 07:01 AM CT, Nov. 14 </p> 
- <a href="https://www.politico.com/news/2021/11/14/gop-trump-pennsylvania-suburbs-521655">GOP roars back to life in Trump-resistant Pennsylvania suburbs</a> Politico: The Republican rebound suggests the Democratic suburban slide reaches beyond Virginia and New Jersey. 
  <p class="updated_time"> 06:00 AM CT, Nov. 14 </p> 
  <a href="https://www.npr.org/2021/11/14/1055508416/doug-emhoff-is-americas-first-second-gentleman-in-paris-he-showed-what-that-mean">Doug Emhoff is America's first second gentleman. In Paris, he showed what that means</a> NPR: Doug Emhoff, the husband of Vice President Harris, is taking a very traditional approach to his role of second spouse. The Paris trip was their first diplomatic trip abroad. 
  <p class="updated_time"> 06:00 AM CT, Nov. 14 </p> 
