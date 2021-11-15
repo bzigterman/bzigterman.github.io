@@ -207,8 +207,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/11/world/middleeast/saudi-court-execution-crime.html">Saudi Court Blocks Execution of Man Convicted of Crime Committed at 14</a> NYT: Rights groups said the death sentence for Abdullah al-Huwaiti ran contrary to the kingdom’s claimed legal reforms. Now he’ll be retried. 
  <p class="updated_time"> 01:38 PM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/world/middleeast/israel-palestinian-nso-hacking.html">Palestinian Diplomats Targeted by Israeli Spyware, Official Says</a> NYT: The accusation, which has not been independently verified, raises new questions over whether Israel is using software made by NSO Group to spy on Palestinians. 
- <p class="updated_time"> 12:56 PM CT, Nov. 11 </p> 
- <a href="https://www.nytimes.com/2021/11/11/world/africa/sudan-military-coup.html">Sudan’s Top General Entrenches Military Coup, Frustrating Western Efforts</a> NYT: A little over two weeks after seizing power, Sudan’s top general created a new ruling body led by himself. The civilian prime minister remains under house arrest. 
 
 
 </details>
