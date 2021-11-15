@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:18 PM CT, Nov. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59289998?at_medium=RSS&at_campaign=KARANGA">Poland border crisis: EU to widen Belarus sanctions as row intensifies</a> BBC: The crisis intensifies as hundreds more migrants arrive at the border with Poland. 
  <p class="updated_time"> 01:57 PM CT, Nov. 15 </p> 
  <a href="https://www.bbc.co.uk/news/59253089?at_medium=RSS&at_campaign=KARANGA">Steve Bannon surrenders to face contempt charges</a> BBC: Mr Bannon, a former White House advisor to Donald Trump, has surrendered to FBI officials. 
  <p class="updated_time"> 01:51 PM CT, Nov. 15 </p> 
@@ -29,8 +31,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/12/world/asia/migration-eu-poland-belarus.html">In Border Crisis, Europe’s Unsavory Migration Deals Come Home</a> NYT: Europe has long paid other nations to keep refugees away from its borders. Now, Belarus wants something, too, and has brought migrants right to Europe’s door to get it. 
  <p class="updated_time"> 12:03 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/12/world/europe/threats-troop-buildup-war.html">Fears of Belarus-Poland Conflict Amid Provocative Words and Troop Moves</a> NYT: On both sides of the Belarus-Poland border, hyperbole and military exercises have raised fears of an armed conflict in Europe. 
- <p class="updated_time"> 12:02 PM CT, Nov. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59289998?at_medium=RSS&at_campaign=KARANGA">Poland border crisis: EU to widen Belarus sanctions as row intensifies</a> BBC: The crisis intensifies as hundreds more migrants arrive at the border with Poland. 
  <p class="updated_time"> 11:53 AM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/travel/bulgaria-narrow-gauge-railway.html">Inside the Struggle to Save Bulgaria’s Last Narrow-Gauge Railroad</a> NYT: The Rhodope Narrow-Gauge Railway serves remote communities in southwestern Bulgaria. Can longtime riders — and young enthusiasts — keep it running? 
  <p class="updated_time"> 11:34 AM CT, Nov. 15 </p> 
@@ -65,12 +65,14 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/13/world/canada/newfoundland-migrants.html">Urbanites in Canada Flock to Atlantic Region Amid Remote Work Shift</a> NYT: As housing prices soar in big cities, the country’s eastern provinces are experiencing a surge in migration. Newcomers are being welcomed, but some locals are wary. 
  <p class="updated_time"> 09:32 AM CT, Nov. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59289345?at_medium=RSS&at_campaign=KARANGA">Israel urges Turkey to free couple held for spying over palace photos</a> BBC: Natalie and Mordi Oknin were arrested after taking photos of the president's residence in Istanbul. 
+ <p class="updated_time"> 09:22 AM CT, Nov. 15 </p> 
+ <a href="https://www.wsj.com/articles/belarus-border-standoff-prompts-broader-eu-sanctions-11636980109">Belarus Border Standoff Prompts Broader EU Sanctions</a> WSJ: The European Union agreed to broaden its sanctions regime against Belarus over the migrant border standoff, brushing off threats by President Alexander Lukashenko to cut gas flows to the continent. 
+ <p class="updated_time"> 09:06 AM CT, Nov. 15 </p> 
+ <a href="https://www.wsj.com/articles/arrests-made-following-car-explosion-outside-u-k-hospital-11636939092">U.K. Raises Terrorist Threat Level After Liverpool Taxi Explosion</a> WSJ: Police said investigators were working to determine whether anyone else was involved in the Sunday incident. 
  <p class="updated_time"> 08:58 AM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/14/world/europe/austria-unvaccinated-lockdown.html">Austria to Target the Unvaccinated in New Lockdown</a> NYT: The country, facing the biggest surge in virus cases since the pandemic started, is putting strict curbs on the movement of those without shots. 
  <p class="updated_time"> 08:24 AM CT, Nov. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59287526?at_medium=RSS&at_campaign=KARANGA">Poland border crisis: Tense stand-off with hundreds of migrants</a> BBC: The BBC's Steve Rosenberg reports from a border crossing where Polish troops are blocking hundreds of migrants. 
- <p class="updated_time"> 07:54 AM CT, Nov. 15 </p> 
- <a href="https://www.wsj.com/articles/belarus-border-standoff-prompts-broader-eu-sanctions-11636980109">Belarus Border Standoff Prompts Broader EU Sanctions</a> WSJ: The European Union agreed to broaden its sanctions regime against Belarus over the migrant border standoff, brushing off threats by President Alexander Lukashenko to cut gas flows to the continent. 
  <p class="updated_time"> 07:45 AM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/world/asia/maori-haka-anti-vaccine.html">Stop Using Our Haka, Maori Tribe Tells Anti-Vaccine Protesters</a> NYT: Ngati Toa, which owns the legal rights to the dance, said it supports Covid vaccinations as the best chance to protect a group that has suffered disproportionally from pandemics. 
  <p class="updated_time"> 07:45 AM CT, Nov. 15 </p> 
@@ -91,8 +93,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/14/world/europe/liverpool-hospital-car-explosion.html">Taxi Explodes Outside Liverpool Hospital, Killing One</a> NYT: Three men in their twenties were arrested under Britain’s Terrorism Act several hours after the explosion, in which a second person was injured, the authorities said. 
  <p class="updated_time"> 05:13 AM CT, Nov. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59289966?at_medium=RSS&at_campaign=KARANGA">Cuba cracks down on dissent ahead of protest march</a> BBC: Cuban state security agents are blocking the organiser of a protest march from leaving his home. 
- <p class="updated_time"> 04:47 AM CT, Nov. 15 </p> 
- <a href="https://www.wsj.com/articles/arrests-made-following-car-explosion-outside-u-k-hospital-11636939092">U.K. Police Say Liverpool Taxi Explosion Was Terrorist Act</a> WSJ: A would-be attacker in Liverpool killed himself when he detonated an explosive device in the back of a taxi in an act police characterized as terrorism. 
  <p class="updated_time"> 04:28 AM CT, Nov. 15 </p> 
  <a href="https://www.npr.org/2021/11/15/1055753386/u-s-journalist-is-freed-from-myanmar-prison-with-ex-diplomat-richardsons-help">U.S. journalist is freed from Myanmar prison with ex-diplomat Richardson's help</a> NPR: Former U.S. Ambassador to the U.N. Bill Richardson said in a statement that Danny Fenster had been handed over to him in Myanmar and would return to the U.S. via Qatar over the next day and a half. 
  <p class="updated_time"> 04:15 AM CT, Nov. 15 </p> 
@@ -216,6 +216,14 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:14 PM CT, Nov. 15 </p> 
+ <a href="https://www.politico.com/news/2021/11/15/biden-putin-russia-522515">Biden tried to push Putin aside. The Russian isn’t having it.</a> Politico: Putin’s troop buildup near Ukraine is spurring criticism that President Biden and his team aren’t tough enough on the Kremlin. 
+ <p class="updated_time"> 02:23 PM CT, Nov. 15 </p> 
+ <a href="https://www.cnn.com/2021/11/15/politics/white-house-defends-harris/index.html">White House defends Harris as 'key partner' to Biden amid reports of dysfunction</a> CNN: The White House on Monday defended Vice President Kamala Harris as a "key partner" to President Joe Biden following CNN reporting that key West Wing aides are exasperated by what they see as entrenched dysfunction and lack of focus from Harris and her staff, while many in the vice president's circle believe Harris is being sidelined. 
+ <p class="updated_time"> 02:11 PM CT, Nov. 15 </p> 
+ <a href="https://www.nytimes.com/2021/11/15/us/politics/biden-social-policy-bill-irs.html">How Revenue for Biden's Social Policy Bill Depends on the I.R.S.</a> NYT: The head of the Congressional Budget Office said on Monday that beefed up tax enforcement would raise far less money than the White House projects. 
+ <p class="updated_time"> 01:58 PM CT, Nov. 15 </p> 
+ <a href="https://www.nytimes.com/2021/11/12/us/politics/court-vaccine-mandate.html">Appeals Court Extends Block on Biden’s Vaccine Mandate for Employers</a> NYT: A three-judge panel of the U.S. Court of Appeals for the Fifth Circuit held that challengers were likely to succeed in their claim that the mandate was an unlawful overreach. 
  <p class="updated_time"> 01:56 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/us/politics/bannon-congress-trump-jan-6.html">Steve Bannon turns himself in on contempt of Congress charges.</a> NYT: The former aide to President Donald J. Trump had refused to comply with a demand for information from the House committee investigating the Jan. 6 Capitol riot. 
  <p class="updated_time"> 01:41 PM CT, Nov. 15 </p> 
@@ -226,18 +234,16 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/15/us/politics/whats-in-the-infrastructure-bill.html">Here's What's in the Infrastructure Bill Biden Will Sign Today</a> NYT: In total, the measure contains $550 billion in new funds to be spread around different areas of need. 
  <p class="updated_time"> 01:18 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/us/politics/pat-leahy-senate-retire.html">Patrick Leahy Announces He Will Retire From the U.S. Senate</a> NYT: At age 81, the Vermont Democrat has served in the Senate for nearly half a century. 
- <p class="updated_time"> 12:54 PM CT, Nov. 15 </p> 
- <a href="https://www.nytimes.com/2021/11/15/us/politics/biden-social-policy-bill-irs.html">How Revenue for Biden's Social Policy Bill Depends on the I.R.S.</a> NYT: The Congressional Budget Office is expected to find that beefed up tax enforcement would raise far less money than the White House projects. 
  <p class="updated_time"> 12:35 PM CT, Nov. 15 </p> 
  <a href="https://www.cnn.com/2021/11/15/politics/patrick-leahy-retirement-announcement/index.html">Patrick Leahy, longest serving US senator still in office, announces he won't seek reelection</a> CNN: Patrick Leahy, a Vermont Democrat and the longest serving US senator still in office, announced Monday he won't seek reelection next year. 
  <p class="updated_time"> 12:29 PM CT, Nov. 15 </p> 
- <a href="https://www.politico.com/news/2021/11/15/us-space-debris-russia-satellites-522406">U.S. warns of space debris after reports that Russia destroyed one of its satellites</a> Politico: A defense official confirmed to POLITICO the debris was the result of an anti-satellite test conducted by Russia over the weekend. 
+ <a href="https://www.politico.com/news/2021/11/15/us-space-debris-russia-satellites-522406">'Irresponsible act': U.S. raps Russia after missile strike on its own satellite</a> Politico: The resulting debris field forced astronauts and cosmonauts aboard the International Space Station to seek shelter. 
  <p class="updated_time"> 12:16 PM CT, Nov. 15 </p> 
  <a href="https://www.cnn.com/2021/11/15/politics/russia-anti-satellite-weapon-test-scn/index.html">US concerned that a Russian anti-satellite weapons test created a debris field in space</a> CNN: The US is concerned that Russia carried out a major anti-satellite weapons test over the weekend, two US officials told CNN. One of the officials said it may have created a potentially dangerous debris field in space. 
  <p class="updated_time"> 11:59 AM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/us/politics/alex-jones-sandy-hook.html">Alex Jones Liable in Sandy Hook Defamation Suits</a> NYT: A Connecticut judge’s ruling combines with decisions in Texas to grant a clean sweep for families of shooting victims in their cases against the Infowars host. 
  <p class="updated_time"> 11:58 AM CT, Nov. 15 </p> 
- <a href="https://www.cnn.com/2021/11/15/politics/biden-missing-native-americans-order/index.html">Biden to sign order to address 'epidemic' of missing, murdered Native Americans at White House summit </a> CNN: President Joe Biden is expected to sign an executive order Monday directing federal agencies, including the departments of Justice, Interior and Homeland Security, to create a strategy addressing what the administration calls an "epidemic" of missing or murdered Indigenous people. 
+ <a href="https://www.cnn.com/2021/11/15/politics/biden-missing-native-americans-order/index.html">Biden signs order to address 'crisis of violence' against Native Americans at White House summit</a> CNN: President Joe Biden is expected to sign an executive order Monday directing federal agencies, including the departments of Justice, Interior and Homeland Security, to create a strategy addressing what the administration calls an "epidemic" of missing or murdered Indigenous people. 
  <p class="updated_time"> 11:55 AM CT, Nov. 15 </p> 
  <a href="https://www.politico.com/news/2021/11/15/weapons-charge-dismissed-rittenhouse-trial-522411">Judge dismisses weapons charge at Rittenhouse murder trial</a> Politico: Rittenhouse, 18, killed two men and wounded a third in the summer of 2020 during a turbulent protest against racial injustice. 
  <p class="updated_time"> 11:52 AM CT, Nov. 15 </p> 
@@ -247,7 +253,7 @@ permalink: /projects/news/
  <p class="updated_time"> 11:20 AM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/us/politics/republicans-2022-redistricting-maps.html">How Republicans Have an Edge in the Emerging 2022 Congressional Maps</a> NYT: On a highly distorted congressional map that is still taking shape, the party has added enough safe House districts to capture control of the chamber based on its redistricting edge alone. 
  <p class="updated_time"> 11:16 AM CT, Nov. 15 </p> 
- <a href="https://www.cnn.com/2021/11/15/politics/biden-drilling-ban/index.html">Biden to propose 20-year ban on new oil drilling near Native American site in New Mexico</a> CNN: President Joe Biden will announce Monday a proposal for a 20-year ban on new oil and gas drilling near Chaco Canyon in New Mexico -- one of the oldest Native American sites in the US -- White House officials said. 
+ <a href="https://www.cnn.com/2021/11/15/politics/biden-drilling-ban/index.html">Biden proposes 20-year ban on new oil drilling near Native American site in New Mexico</a> CNN: President Joe Biden will announce Monday a proposal for a 20-year ban on new oil and gas drilling near Chaco Canyon in New Mexico -- one of the oldest Native American sites in the US -- White House officials said. 
  <p class="updated_time"> 11:14 AM CT, Nov. 15 </p> 
  <a href="https://www.npr.org/2021/11/15/1053422827/in-betrayal-abcs-jonathan-karl-asks-must-the-trump-show-go-on">In 'Betrayal,' ABC's Jonathan Karl asks: 'Must the Trump show go on?'</a> NPR: Karl notes often that Trump continues his campaign to invalidate the 2020 election — even now. The "Trump show" remains very much on stage, finding an audience and threatening to extend its run. 
  <p class="updated_time"> 10:56 AM CT, Nov. 15 </p> 
@@ -298,6 +304,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/11/15/washingtons-mystery-mansion-buyer-unmasked-495098">POLITICO Playbook: Washington’s mystery mansion buyer unmasked</a> Politico: And Democrats plan their midterm messaging. 
  <p class="updated_time"> 05:02 AM CT, Nov. 15 </p> 
  <a href="https://www.cnn.com/2021/11/15/politics/desantis-florida-legislature-vaccine-mandates/index.html">Florida special session begins as DeSantis continues battle against vaccine mandates</a> CNN: Florida Gov. Ron DeSantis has made fighting vaccine mandates a focal point of his Covid strategy. 
+ <p class="updated_time"> 05:00 AM CT, Nov. 15 </p> 
+ <a href="https://www.politico.com/news/2021/11/15/dc-new-top-cop-steve-bannon-522259">D.C.'s new top cop vs. Steve Bannon</a> Politico: Matthew Graves has represented Ben Carson and Gazprom — but overseeing hundreds of Jan. 6 prosecutions will bring a different level of scrutiny. 
  <p class="updated_time"> 04:31 AM CT, Nov. 15 </p> 
  <a href="https://www.politico.com/news/2021/11/15/gop-trump-budget-congress-521209">GOP weighs trapping Democrats in Trump’s budget</a> Politico: Democrats are working to negotiate a government funding deal, but Republicans have a long list of demands before they'll come to the table. 
  <p class="updated_time"> 04:30 AM CT, Nov. 15 </p> 
@@ -324,8 +332,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/14/politics/trump-organization-washington-dc-hotel-sale/index.html">Investment group purchases Trump hotel in DC and is expected to remove Trump name</a> CNN: The Trump Organization has reached a deal with the investment fund CGI Merchant Group to purchase the lease for the Trump International Hotel in Washington, DC, for $375 million, according to a person familiar with the matter. 
  <p class="updated_time"> 05:07 PM CT, Nov. 14 </p> 
  <a href="https://www.politico.com/news/2021/11/14/steve-bannon-contempt-indictment-trump-522151">Opinion | Steve Bannon’s Contempt Indictment Isn’t All that Trump Foes Think It Is</a> Politico: His contempt charge is good news for Congress, but it’s probably not the first in a wave of similar prosecutions. 
- <p class="updated_time"> 05:05 PM CT, Nov. 14 </p> 
- <a href="https://www.politico.com/news/2021/11/14/biden-successor-2024-kamala-harris-522160">Biden-successor chatter grows and Harris isn’t scaring off anyone</a> Politico: There’s been an unusual amount of 2024 talk for a president who says he’s running again. It hasn't been uniformly positive for his vice president. 
  <p class="updated_time"> 05:03 PM CT, Nov. 14 </p> 
  <a href="https://www.politico.com/news/2021/11/14/trump-china-trespass-deport-522184">Mar-a-Lago trespasser deported to China 2 years later</a> Politico: The pandemic delayed her return to China. 
  <p class="updated_time"> 04:02 PM CT, Nov. 14 </p> 
@@ -350,6 +356,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/14/barrasso-trump-hang-pence-521960">Sen. Barrasso declines to condemn Trump over Pence remarks</a> Politico: The Wyoming Republican called the former president “an enduring force” 
  <p class="updated_time"> 10:00 AM CT, Nov. 14 </p> 
  <a href="https://www.cnn.com/2021/11/14/politics/biden-infrastructure-roads-bridges/index.html">4 projects that could be funded by Biden's infrastructure package</a> CNN: The passage of the $1.2 trillion infrastructure spending package is setting off a mad dash from states and counties seeking federal funds to repair and replace the nation's crumbling bridges, roads and ports. 
+ <p class="updated_time"> 09:58 AM CT, Nov. 14 </p> 
+ <a href="https://www.cnn.com/2021/11/14/politics/brian-deese-inflation-cnntv/index.html">Biden's top economic adviser urges passage of economic bill to combat rising inflation</a> CNN: President Joe Biden's top economic adviser on Sunday cited rising inflation in the US as a reason for Congress to pass the President's massive economic package, arguing the legislation will help stymie rapidly rising prices of consumer goods. 
  <p class="updated_time"> 09:15 AM CT, Nov. 14 </p> 
  <a href="https://www.politico.com/news/2021/11/14/schumer-schedule-reconciliation-bill-521931">Senate likely to take up social spending bill in December as Dem slog continues</a> Politico: “On a bill of this magnitude, this process takes time and patience,” Chuck Schumer said. 
  <p class="updated_time"> 08:46 AM CT, Nov. 14 </p> 
@@ -366,8 +374,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/14/1054746569/what-2021s-recent-elections-tell-us-about-voting-in-2022-and-beyond">What 2021's recent elections tell us about voting in 2022 and beyond</a> NPR: Recent off-year elections showed that voters may not be so invested in making it easier to vote while Republicans may benefit from higher voter turnout than they previously had thought. 
  <p class="updated_time"> 02:00 AM CT, Nov. 14 </p> 
  <a href="https://www.nytimes.com/2021/11/14/us/loudoun-county-school-board-va.html">How Loudoun Schools Got Caught in Virginia’s Political Maelstrom </a> NYT: Loudoun County tried to address racism and promote diversity within its schools. Then it found itself on Fox News. 
- <p class="updated_time"> 09:23 PM CT, Nov. 13 </p> 
- <a href="https://www.cnn.com/2021/11/13/politics/alyssa-farah-january-6-committee-process/index.html">Ex-Trump White House official calls January 6 committee's process 'comprehensive and deliberative'</a> CNN: A former White House official says the House select committee investigating the January 6 attack on the US Capitol is mounting "a very comprehensive and deliberative process," following her own testimony to Republicans on the committee earlier this year. 
  <p class="updated_time"> 08:29 PM CT, Nov. 13 </p> 
  <a href="https://www.politico.com/news/2021/11/13/coalglasgow-climate-deal-521802">The last-minute coal demand that almost sunk the Glasgow climate deal</a> Politico: At issue was a late push from China and India. 
  <p class="updated_time"> 07:02 PM CT, Nov. 13 </p> 
@@ -378,8 +384,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/13/1055575802/lack-of-american-ambassadors-is-hurting-foreign-goals-says-afsa-president">Lack of American ambassadors is hurting foreign goals, says AFSA president</a> NPR: NPR's Michel Martin speaks with Eric Rubin, president of the American Foreign Service Association, about the high number of diplomatic vacancies and how it's affecting President Biden's agenda. 
  <p class="updated_time"> 03:26 PM CT, Nov. 13 </p> 
  <a href="https://www.nytimes.com/2021/11/13/us/politics/tribal-lands-flooding-nuclear-waste.html">Flooding and Nuclear Waste Eat Away at a Tribe’s Ancestral Home</a> NYT: The federal government allowed a stockpile of spent fuel on a Minnesota reservation to balloon even as a dam project whittled down the amount of livable land. 
- <p class="updated_time"> 11:00 AM CT, Nov. 13 </p> 
- <a href="https://www.cnn.com/2021/11/13/politics/midterms-democrats-biden-analysis/index.html">Analysis: History says Biden and Democrats probably won't recover by the midterms</a> CNN: President Joe Biden's approval rating is at its lowest point since he took office. His approval rating has slid into the low 40s this month. And while the President has plenty of time to recover before his potential reelection in 2024, history suggests that his chances of becoming popular and Democrats gaining ground by the midterms in 2022 are small. 
  <p class="updated_time"> 10:28 AM CT, Nov. 13 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/13/bannon-indicted-britney-freed-495092">POLITICO Playbook: Bannon indicted, Britney freed</a> Politico: And an appeals court extends a stay for the Biden administration's vaccine-or-test mandate. 
  <p class="updated_time"> 09:39 AM CT, Nov. 13 </p> 
@@ -388,8 +392,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/13/democrats-drug-prices-521213">Dems’ plan to limit drug price inflation faces test in Senate</a> Politico: Attempts at price controls have to conform with the parameters of the  reconciliation process they’re hoping to use to pass the social spending package on a party-line vote. 
  <p class="updated_time"> 11:06 PM CT, Nov. 12 </p> 
  <a href="https://www.politico.com/news/2021/11/12/federal-court-biden-vaccine-or-test-mandate-521233">Federal court extends stay of Biden administration's vaccine-or-test mandate</a> Politico: The Biden administration is likely to appeal the panel's decision to the full court. 
- <p class="updated_time"> 09:50 PM CT, Nov. 12 </p> 
- <a href="https://www.nytimes.com/2021/11/12/us/politics/court-vaccine-mandate.html">Appeals Court Extends Block on Biden’s Vaccine Mandate for Employers</a> NYT: A three-judge panel of the U.S. Court of Appeals for the Fifth Circuit held that challengers were likely to succeed in their claim that the mandate was an unlawful overreach. 
  <p class="updated_time"> 01:40 PM CT, Nov. 12 </p> 
  <a href="https://www.cnn.com/2021/11/12/politics/psaki-returns-white-house-covid/index.html">Jen Psaki returns to White House briefing room after testing positive for Covid-19</a> CNN: White House press secretary Jen Psaki returned to the White House briefing room Friday for the first time since testing positive for Covid-19, telling reporters she completed a 10-day quarantine and received a negative Covid-19 test on Thursday. 
  <p class="updated_time"> 01:00 PM CT, Nov. 12 </p> 
