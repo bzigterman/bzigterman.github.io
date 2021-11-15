@@ -7,6 +7,20 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:39 PM CT, Nov. 14 </p> 
+ <a href="https://www.nytimes.com/2021/11/14/business/japan-economy.html">Japan’s Economy Shrinks, but Outlook Is Warm as Virus Ebbs</a> NYT: The coronavirus and supply chain issues stymied growth in the third quarter, but high vaccination rates and low numbers of virus cases point to a recovery. 
+ <p class="updated_time"> 06:06 PM CT, Nov. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59227672?at_medium=RSS&at_campaign=KARANGA">Ethiopia's Tigray conflict: Why the rest of the world is worried</a> BBC: The stability of the Horn of Africa in part rests on a peaceful resolution to Ethiopia's civil war. 
+ <p class="updated_time"> 06:05 PM CT, Nov. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-59257496?at_medium=RSS&at_campaign=KARANGA">Why China is still trying to achieve zero Covid</a> BBC: While other countries grapple with living with Covid, China is doubling down on stamping it out. 
+ <p class="updated_time"> 06:05 PM CT, Nov. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59258375?at_medium=RSS&at_campaign=KARANGA">Joe Biden and Xi Jinping: What they want from talks</a> BBC: The video call on Monday will address several thorny issues, including Taiwan, cybersecurity and trade. 
+ <p class="updated_time"> 06:04 PM CT, Nov. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-59247427?at_medium=RSS&at_campaign=KARANGA">A Nobel prize-winning economist's guide to cooking</a> BBC: Abhijeet Banerjee's irreverent new cookbook draws on both his culinary instincts and his academic insights. 
+ <p class="updated_time"> 06:04 PM CT, Nov. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-59246083?at_medium=RSS&at_campaign=KARANGA">Jair Bolsonaro, guns and rising violence in Brazil</a> BBC: Gun culture was part of Bolsonaro's winning presidential campaign. Three years on, what's the impact? 
+ <p class="updated_time"> 06:03 PM CT, Nov. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-59268974?at_medium=RSS&at_campaign=KARANGA">The Uyghur woman fighting to keep her culture alive</a> BBC: In London, a restaurant owner aims to preserve traditions which are under threat in China. 
  <p class="updated_time"> 04:39 PM CT, Nov. 14 </p> 
  <a href="https://www.nytimes.com/2021/11/14/world/europe/liverpool-hospital-car-explosion.html">Taxi Explodes Outside Liverpool Hospital, Killing One</a> NYT: Three men in their twenties were arrested under Britain’s Terrorism Act several hours after the explosion, in which a second person was injured, the authorities said. 
  <p class="updated_time"> 04:21 PM CT, Nov. 14 </p> 
@@ -85,16 +99,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/12/world/asia/china-zero-covid.html">China's 'Zero Covid' Efforts Come With a Cost</a> NYT: The Communist Party is making broad efforts to stamp out the disease entirely, but the measures come with costs. 
  <p class="updated_time"> 11:30 PM CT, Nov. 13 </p> 
  <a href="https://www.wsj.com/articles/in-covid-era-experiment-malaysia-tries-dramatic-reduction-in-migrant-labor-11636885800">Malaysia Tries Relying Less on Foreign Workers</a> WSJ: With Covid-19 reducing migrant labor in many countries, some governments are testing whether their economies can run with fewer foreign workers than in the past. 
- <p class="updated_time"> 08:11 PM CT, Nov. 13 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-59238305?at_medium=RSS&at_campaign=KARANGA">Renewable energy: How Scottish Isle of Eigg relies on wind, water, solar</a> BBC: As the world slowly moves away from using fossil fuels for electricity, a tiny Scottish island has shown it’s possible to rely almost entirely on renewables. 
- <p class="updated_time"> 07:38 PM CT, Nov. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59278277?at_medium=RSS&at_campaign=KARANGA">FBI probes cyber-attack emails sent from internal server</a> BBC: The agency is investigating after thousands of messages were sent warning of a possible cyber-attack. 
  <p class="updated_time"> 07:01 PM CT, Nov. 13 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59268394?at_medium=RSS&at_campaign=KARANGA">COP26 climate deal: 'It won't save us from drowning'</a> BBC: Young activists on the frontline of climate change explain what the deal struck at COP26 means to them. 
  <p class="updated_time"> 06:26 PM CT, Nov. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59278275?at_medium=RSS&at_campaign=KARANGA">Wilbur Smith: Popular Zambian-born author dies aged 88</a> BBC: The accountant-turned-novelist's 49 books have sold more than 140 million copies worldwide. 
- <p class="updated_time"> 06:10 PM CT, Nov. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59257736?at_medium=RSS&at_campaign=KARANGA">What the 'Joker attack' revealed about Japanese society</a> BBC: An attack which injured 17 people on Halloween has shocked a country that rarely sees violent crime. 
  <p class="updated_time"> 06:08 PM CT, Nov. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59258413?at_medium=RSS&at_campaign=KARANGA">Majorca plane adventure reveals new migrant route</a> BBC: When 20 people fled a passenger plane it shed light on migration routes as well as airport safety. 
  <p class="updated_time"> 06:07 PM CT, Nov. 13 </p> 
@@ -109,8 +117,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/13/1055575802/lack-of-american-ambassadors-is-hurting-foreign-goals-says-afsa-president">Lack of American ambassadors is hurting foreign goals, says AFSA president</a> NPR: NPR's Michel Martin speaks with Eric Rubin, president of the American Foreign Service Association, about the high number of diplomatic vacancies and how it's affecting President Biden's agenda. 
  <p class="updated_time"> 04:04 PM CT, Nov. 13 </p> 
  <a href="https://www.npr.org/2021/11/13/1055575788/world-leaders-commit-to-ambitious-goals-at-u-n-climate-summit">World leaders commit to ambitious goals at U.N. climate summit</a> NPR: The U.N. climate summit's landmark decision sets aggressive targets for cutting greenhouse emissions. It also promises more aid for developing countries, but many of those countries wanted more. 
- <p class="updated_time"> 03:35 PM CT, Nov. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59274688?at_medium=RSS&at_campaign=KARANGA">Covid: Dutch accept life within 'lockdown-lite'</a> BBC: Most in the Netherlands support a new lockdown-lite, despite anti-lockdown protests making headlines. 
  <p class="updated_time"> 02:40 PM CT, Nov. 13 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59263761?at_medium=RSS&at_campaign=KARANGA">COP26: How might decisions at the climate summit change our lives?</a> BBC: The changes made at COP26 in Glasgow could have implications for the way we live. 
  <p class="updated_time"> 02:18 PM CT, Nov. 13 </p> 
@@ -157,8 +163,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/12/world/canada/newfoundland-cyberattack.html">Hackers Target Newfoundland’s Health Care System</a> NYT: The province has said little about a cyberattack that delayed or canceled medical procedures and leaked personal information. 
  <p class="updated_time"> 06:15 PM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/us/ivory-rhino-congo-trafficking.html">2 Ivory Smugglers Captured in International Operation, U.S. Says</a> NYT: The men were captured by relying on DNA sampling from a previously seized ivory haul, which helped experts pinpoint the location of poached elephants. 
- <p class="updated_time"> 06:09 PM CT, Nov. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59258414?at_medium=RSS&at_campaign=KARANGA">Belarus border: Scrambling for facts in Europe's new crisis</a> BBC: Journalists and aid workers are kept away from the bleak spectacle of migrants on the Polish border. 
  <p class="updated_time"> 06:05 PM CT, Nov. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59265609?at_medium=RSS&at_campaign=KARANGA">BBC's Simpson revisits Afghanistan under the Taliban</a> BBC: In 2001, the BBC's World Affairs editor was part of a team which entered the city when the Taliban fell. 
  <p class="updated_time"> 04:30 PM CT, Nov. 12 </p> 
@@ -189,8 +193,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/12/arts/design/badiucao-brescia-china.html">The Show Goes On, Even After China Tried to Shut It Down</a> NYT: An Italian city rejected a request from the Chinese Embassy in Rome to cancel an exhibition by Badiucao, an artist who has been described as the Chinese Banksy. 
  <p class="updated_time"> 06:55 AM CT, Nov. 12 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59263810?at_medium=RSS&at_campaign=KARANGA">John Kerry at COP26: We're going to come up with an agreement</a> BBC: The US climate envoy speaks to the BBC as pressure mounts on governments to strike a deal at COP26. 
- <p class="updated_time"> 03:31 AM CT, Nov. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-53494405?at_medium=RSS&at_campaign=KARANGA">Britney Spears: Singer's conservatorship case explained</a> BBC: The US singer's bid to end her father's guardianship could reach its conclusion this week. 
  <p class="updated_time"> 02:36 AM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/11/world/europe/migrants-poland-belarus-lukashenko.html">Migrants in Peril, and Raw Emotions, in a Volatile European Border Standoff</a> NYT: A confrontation over migrants between Belarus and Poland is growing more volatile, as nationalist fervor rises in both countries and a humanitarian disaster looms. 
  <p class="updated_time"> 08:46 PM CT, Nov. 11 </p> 
@@ -214,6 +216,10 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:30 PM CT, Nov. 14 </p> 
+ <a href="https://www.nytimes.com/2021/11/14/us/politics/biden-mitch-landrieu-infrastructure.html">Biden Names Mitch Landrieu to Oversee Infrastructure Spending</a> NYT: Mr. Landrieu, a former mayor of New Orleans, will supervise the distribution of funds from the bipartisan legislation that the president will sign into law on Monday. 
+ <p class="updated_time"> 06:06 PM CT, Nov. 14 </p> 
+ <a href="https://www.nytimes.com/2021/11/14/us/politics/religious-groups-child-care.html">Faith Groups Push to Scrap New Mandates in Biden’s Child Care Plan</a> NYT: A nondiscrimination provision in the $1.85 trillion social policy bill could disqualify some religious organizations, which provide more than half of child care programs in the United States. 
  <p class="updated_time"> 05:37 PM CT, Nov. 14 </p> 
  <a href="https://www.cnn.com/2021/11/14/politics/kamala-harris-frustrating-start-vice-president/index.html">Exasperation and dysfunction: Inside Kamala Harris' frustrating start as vice president </a> CNN: Worn out by what they see as entrenched dysfunction and lack of focus, key West Wing aides have largely thrown up their hands at Vice President Kamala Harris and her staff -- deciding there simply isn't time to deal with them right now, especially at a moment when President Joe Biden faces quickly multiplying legislative and political concerns. 
  <p class="updated_time"> 05:13 PM CT, Nov. 14 </p> 
@@ -328,8 +334,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/12/us/politics/court-vaccine-mandate.html">Appeals Court Extends Block on Biden’s Vaccine Mandate for Employers</a> NYT: A three-judge panel of the U.S. Court of Appeals for the Fifth Circuit held that challengers were likely to succeed in their claim that the mandate was an unlawful overreach. 
  <p class="updated_time"> 08:33 PM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/us/politics/biden-china-xi-jinping.html">Biden and China’s Xi Will Hold Virtual Summit on Monday</a> NYT: The leaders of the world’s two largest economies confront tensions over trade, cyberthreats, the climate, Taiwan and human rights. 
- <p class="updated_time"> 08:24 PM CT, Nov. 12 </p> 
- <a href="https://www.nytimes.com/2021/11/11/us/politics/project-veritas-journalism-political-spying.html">Project Veritas: Journalists or Political Spies? </a> NYT: Documents show how the conservative group worked with lawyers to gauge how far its deceptive reporting practices could go before running afoul of federal laws. 
  <p class="updated_time"> 07:07 PM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/us/politics/project-veritas-ashley-biden-diary.html">Project Veritas Tells Judge It Was Assured Biden Diary Was Legally Obtained</a> NYT: But a search warrant in the case suggests the Justice Department believes the diary kept by the president’s daughter Ashley Biden was stolen. 
  <p class="updated_time"> 06:49 PM CT, Nov. 12 </p> 
@@ -388,8 +392,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/11/us/politics/facebook-political-ads.html">Facebook's Ad Policies Changed, but Political Campaigns Can Still Target You</a> NYT: Meta announced changes to its ad-targeting policies, but they will do little to stop campaigns from reaching specific voters. 
  <p class="updated_time"> 05:16 PM CT, Nov. 11 </p> 
  <a href="https://www.politico.com/news/2021/11/11/republicans-wrestle-infrastructure-backlash-520956">‘I hope it’s a fever that will break’: GOP wrestles with infrastructure vote backlash</a> Politico: “Some elements of the party keep finding new ways to define Republicanism,” says one longtime GOP lobbyist and strategist. 
- <p class="updated_time"> 05:04 PM CT, Nov. 11 </p> 
- <a href="https://www.nytimes.com/2021/11/11/us/politics/dc-jail-jan-6.html">Problems at D.C. Jail Were Ignored Until Jan. 6 Defendants Came Along</a> NYT: At a hearing this week, officials said longstanding issues at the jail, where most inmates are Black, did not get much attention until the largely white rioters were held there. 
  <p class="updated_time"> 04:41 PM CT, Nov. 11 </p> 
  <a href="https://www.politico.com/news/2021/11/11/dems-white-house-biden-520946">Dems to White House: The only prescription is more Biden</a> Politico: The president has been more a facilitator than manager of the legislative process. His party wants more of the latter. 
  <p class="updated_time"> 04:39 PM CT, Nov. 11 </p> 
