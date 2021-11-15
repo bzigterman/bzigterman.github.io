@@ -7,14 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:34 PM CT, Nov. 15 </p> 
+ <a href="https://www.nytimes.com/2021/11/15/world/canada/british-columbia-landslides.html">Landslides and Torrential Rains Batter British Columbia</a> NYT: Dozens of drivers were trapped by landslides, and the city of Merritt warned of a “mass sewage backup.” The rainfall was part of a system that also pummeled Washington State. 
+ <p class="updated_time"> 05:28 PM CT, Nov. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59295723?at_medium=RSS&at_campaign=KARANGA">Kyle Rittenhouse: Closing statements heard in teen gunman trial</a> BBC: Hundreds of troops have been placed on standby as the Kyle Rittenhouse case heads towards a verdict. 
  <p class="updated_time"> 05:18 PM CT, Nov. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59300011?at_medium=RSS&at_campaign=KARANGA">Nigerian army 'shot and killed #EndSars protesters': report</a> BBC: Tens of thousands of Nigerians took to the streets last October as part of the #EndSars protests. 
  <p class="updated_time"> 05:08 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/12/us/politics/biden-china-xi-jinping.html">Biden and China’s Xi Will Hold Virtual Summit on Monday</a> NYT: The leaders of the world’s two largest economies confront tensions over trade, cyberthreats, the climate, Taiwan and human rights. 
  <p class="updated_time"> 04:55 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/world/americas/cuba-protests.html">As Cuba Crushes Dissent, a Nationwide Protest Fizzles</a> NYT: In the days before the planned protest, the homes of government critics were surrounded by uniformed police officers, state security agents or government supporters holding picket signs, human rights activists said. 
- <p class="updated_time"> 04:22 PM CT, Nov. 15 </p> 
- <a href="https://www.nytimes.com/2021/11/15/world/canada/british-columbia-landslides.html">Landslides and Torrential Rains Batter British Columbia</a> NYT: Dozens of drivers were trapped by landslides, and the city of Merritt warned of a “mass sewage backup.” The rainfall was part of a system that also pummeled Washington State. 
  <p class="updated_time"> 04:07 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/world/europe/belarus-poland-eu-sanctions-migrants.html">Europe Adopts New Sanctions Against Belarus</a> NYT: A confrontation at the Polish-Belarusian border, a funeral for a dead Syrian boy trapped in between and a new round of E.U. sanctions mark the struggle with Aleksandr G. Lukashenko. 
  <p class="updated_time"> 03:46 PM CT, Nov. 15 </p> 
@@ -27,8 +29,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/15/world/asia/us-china-tensions-explained.html">U.S.-China Relations: What to Know</a> NYT: The Biden administration has called managing America’s relationship with Beijing “the biggest geopolitical test of the 21st century.” 
  <p class="updated_time"> 02:56 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/travel/bulgaria-narrow-gauge-railway.html">Inside the Struggle to Save Bulgaria’s Last Narrow-Gauge Railroad</a> NYT: The Rhodope Narrow-Gauge Railway serves remote communities in southwestern Bulgaria. Can longtime riders — and young enthusiasts — keep it running? 
- <p class="updated_time"> 02:47 PM CT, Nov. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59295723?at_medium=RSS&at_campaign=KARANGA">Kyle Rittenhouse: Weapons charge against accused US teen dropped</a> BBC: The judge dismissed the charge ahead of closing arguments by prosecutors and defence on Monday. 
  <p class="updated_time"> 02:33 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/world/europe/austria-covid-vaccine.html">Austria’s New Coronavirus Lockdown Applies Only to the Unvaccinated.</a> NYT: The restrictions were among the toughest of a wave of new rules in Europe, which the W.H.O. has said is “back at the epicenter of the pandemic.” 
  <p class="updated_time"> 02:18 PM CT, Nov. 15 </p> 
@@ -220,12 +220,16 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/15/alex-jones-sandy-hook-liable-defamation-522636">Alex Jones liable for defamation in Sandy Hook ‘hoax’ case</a> Politico: He claimed that the school massacre didn’t actually happen. 
  <p class="updated_time"> 05:40 PM CT, Nov. 15 </p> 
  <a href="https://www.politico.com/news/2021/11/15/peter-thiel-is-coming-to-washington-522605">Peter Thiel is coming to Washington</a> Politico: The tech billionaire and Trump backer just bought a $13 million mansion in a ritzy D.C. neighborhood. 
+ <p class="updated_time"> 05:35 PM CT, Nov. 15 </p> 
+ <a href="https://www.nytimes.com/2021/11/15/us/politics/pat-leahy-senate-retire.html">Patrick Leahy Announces He Will Retire From the U.S. Senate</a> NYT: At age 81, the Vermont Democrat has served in the chamber for nearly half a century. 
+ <p class="updated_time"> 05:30 PM CT, Nov. 15 </p> 
+ <a href="https://www.nytimes.com/2021/11/15/us/politics/biden-approval-rating-infrastructure-bill.html">Biden Got His Bipartisan Win. Now, Reality Sets In.</a> NYT: President Biden, who is facing low approval ratings, hopes the infrastructure bill will help him project sustained progress in confronting a surge in inflation and growing alarm about the midterm elections. 
+ <p class="updated_time"> 05:24 PM CT, Nov. 15 </p> 
+ <a href="https://www.cnn.com/2021/11/15/politics/tom-barrett-michigan-congress-campaign/index.html">Michigan state senator announces bid for Congress</a> CNN: Michigan state Sen. Tom Barrett on Monday announced his campaign for the US House, a bid that could see him potentially challenge Democratic Rep. Elissa Slotkin. 
  <p class="updated_time"> 05:21 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/us/politics/beto-orourke-texas-governor-announcement.html">Beto O’Rourke Announces Run for Texas Governor, Testing Democrats’ Strength</a> NYT: Mr. O’Rourke’s announcement on Monday set the stage for a pitched political showdown over the future of the country’s largest Republican-led state. 
  <p class="updated_time"> 05:18 PM CT, Nov. 15 </p> 
  <a href="https://www.politico.com/news/2021/11/15/trump-west-virginia-mooney-mckinley-522608">Trump wades into West Virginia member-vs-member race</a> Politico: The former president endorsed Alex Mooney over David McKinley in the matchup between two House GOP incumbents. 
- <p class="updated_time"> 05:10 PM CT, Nov. 15 </p> 
- <a href="https://www.nytimes.com/2021/11/15/us/politics/biden-approval-rating-infrastructure-bill.html">Biden Got His Bipartisan Win. Now, Reality Sets In.</a> NYT: President Biden, who is facing low approval ratings, hopes the infrastructure bill will help him project sustained progress in confronting a surge in inflation and growing alarm about the midterm elections. 
  <p class="updated_time"> 05:08 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/us/politics/biden-signs-infrastructure-bill.html">Biden Signs $1 Trillion Infrastructure Bill Into Law</a> NYT: Billions of dollars will now pour into American communities, although the final bill falls short of the president’s ambitions. 
  <p class="updated_time"> 04:59 PM CT, Nov. 15 </p> 
@@ -266,8 +270,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/15/us/politics/bannon-congress-trump-jan-6.html">Steve Bannon turns himself in on contempt of Congress charges.</a> NYT: The former aide to President Donald J. Trump had refused to comply with a demand for information from the House committee investigating the Jan. 6 Capitol riot. 
  <p class="updated_time"> 01:41 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/us/politics/blinken-africa-ethiopia.html">Blinken Heads to Africa as U.S. Tries to Avert Ethiopia Disaster</a> NYT: The conflict between rebels and the country’s government has already featured numerous alleged atrocities, and experts say it threatens the stability of all of East Africa. 
- <p class="updated_time"> 01:18 PM CT, Nov. 15 </p> 
- <a href="https://www.nytimes.com/2021/11/15/us/politics/pat-leahy-senate-retire.html">Patrick Leahy Announces He Will Retire From the U.S. Senate</a> NYT: At age 81, the Vermont Democrat has served in the Senate for nearly half a century. 
  <p class="updated_time"> 12:35 PM CT, Nov. 15 </p> 
  <a href="https://www.cnn.com/2021/11/15/politics/patrick-leahy-retirement-announcement/index.html">Patrick Leahy, longest serving US senator still in office, announces he won't seek reelection</a> CNN: Patrick Leahy, a Vermont Democrat and the longest serving US senator still in office, announced Monday he won't seek reelection next year. 
  <p class="updated_time"> 12:29 PM CT, Nov. 15 </p> 
@@ -308,8 +310,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/15/jeffrey-epstein-ghislaine-maxwell-522349">Jeffrey Epstein faces trial by proxy: Ghislaine Maxwell</a> Politico: Maxwell, 59, has pleaded not guilty to charges she groomed underage victims to have unwanted sex with Epstein. She has vehemently denied wrongdoing. 
  <p class="updated_time"> 09:29 AM CT, Nov. 15 </p> 
  <a href="https://www.politico.com/news/2021/11/15/beto-orourke-texas-governor-campaign-522336">Beto O’Rourke jumps into Texas governor’s race</a> Politico: The race represents a comeback bid for O’Rourke, who became a Democratic sensation during a failed Senate run in 2018 but whose 2020 presidential  campaign fell flat. 
- <p class="updated_time"> 09:27 AM CT, Nov. 15 </p> 
- <a href="https://www.cnn.com/2021/11/15/politics/donald-trump-steve-bannon-january-6-joe-biden-infrastructure/index.html">Analysis: Trump is in full attack mode as Biden celebrates a victory that eluded him</a> CNN: Donald Trump is tightening his malignant hold on American politics as Joe Biden battles to stabilize his own problem-plagued presidency by celebrating the kind of political win his predecessor never managed. 
  <p class="updated_time"> 09:18 AM CT, Nov. 15 </p> 
  <a href="https://www.cnn.com/2021/11/15/politics/beto-orourke-governor-texas-2022/index.html">O'Rourke announces bid to take on Greg Abbott in 2022 Texas gubernatorial race</a> CNN: Beto O'Rourke, the former congressman and 2020 Democratic presidential candidate, on Monday launched his campaign to unseat Texas Gov. Greg Abbott in 2022. 
  <p class="updated_time"> 08:37 AM CT, Nov. 15 </p> 
