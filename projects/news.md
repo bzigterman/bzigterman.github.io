@@ -7,26 +7,28 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:52 AM CT, Nov. 15 </p> 
+ <a href="https://www.nytimes.com/2021/11/15/world/asia/duterte-philippines-election.html">Rodrigo Duterte to Run for Senate in the Philippines</a> NYT: Rodrigo Duterte entered the race days after his daughter announced her bid for vice president. He had previously said he would leave politics at the end of his term. 
+ <p class="updated_time"> 06:51 AM CT, Nov. 15 </p> 
+ <a href="https://www.nytimes.com/2021/11/15/world/asia/myanmar-danny-fenster-release.html">U.S. Journalist Danny Fenster Is Freed From Myanmar Prison</a> NYT: The release was a rare positive development in the country, which has been torn by violence since a February coup. 
+ <p class="updated_time"> 06:49 AM CT, Nov. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59290412?at_medium=RSS&at_campaign=KARANGA">Danny Fenster: US journalist freed from Myanmar jail</a> BBC: Danny Fenster will be allowed to leave the country just days after getting an 11-year sentence. 
  <p class="updated_time"> 06:41 AM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/12/world/asia/myanmar-danny-fenster.html">Danny Fenster, U.S. Journalist in Myanmar, Gets 11 Years in Jail</a> NYT: Danny Fenster was given the toughest possible sentence on three charges, in a signal that the country’s military rulers would not bow to international pressure. 
  <p class="updated_time"> 06:29 AM CT, Nov. 15 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59291000?at_medium=RSS&at_campaign=KARANGA">Adele tells Oprah Winfrey: I just didn't want to do it anymore</a> BBC: Award-winning singer Adele describes how she nearly gave up her career following her divorce. 
+ <p class="updated_time"> 06:29 AM CT, Nov. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-59249485?at_medium=RSS&at_campaign=KARANGA">China Covid: Outrage after pet dog killed by health workers</a> BBC: The quarantined owner posted video showing one health worker beating her pet with a crowbar. 
  <p class="updated_time"> 06:19 AM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/12/us/politics/biden-china-xi-jinping.html">Biden and China’s Xi Will Hold Virtual Summit on Monday</a> NYT: The leaders of the world’s two largest economies confront tensions over trade, cyberthreats, the climate, Taiwan and human rights. 
  <p class="updated_time"> 06:15 AM CT, Nov. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59289998?at_medium=RSS&at_campaign=KARANGA">Poland border crisis: EU to widen Belarus sanctions as row intensifies</a> BBC: As EU officials discuss new sanctions, migrants gather in a tense stand-off at the Polish border. 
- <p class="updated_time"> 06:02 AM CT, Nov. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59290412?at_medium=RSS&at_campaign=KARANGA">Danny Fenster: US journalist freed from Myanmar jail</a> BBC: Danny Fenster will be allowed to leave the country just days after getting an 11-year sentence. 
  <p class="updated_time"> 05:47 AM CT, Nov. 15 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59263761?at_medium=RSS&at_campaign=KARANGA">COP26: How might decisions at the climate summit change our lives?</a> BBC: The changes made at COP26 in Glasgow could have implications for the way we live. 
  <p class="updated_time"> 05:40 AM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/14/world/europe/liverpool-hospital-car-explosion.html">Taxi Explodes Outside Liverpool Hospital, Killing One</a> NYT: Three men in their twenties were arrested under Britain’s Terrorism Act several hours after the explosion, in which a second person was injured, the authorities said. 
  <p class="updated_time"> 05:32 AM CT, Nov. 15 </p> 
- <a href="https://www.nytimes.com/2021/11/15/world/europe/uk-taxi-explosion-liverpool.html">Driver’s Actions Praised After Taxi Blast Outside Hospital in England</a> NYT: The explosion in Liverpool left one man dead and the cabby wounded. Officials said the driver prevented further harm, but did not give more details. 
- <p class="updated_time"> 05:29 AM CT, Nov. 15 </p> 
- <a href="https://www.nytimes.com/2021/11/15/world/asia/myanmar-danny-fenster-release.html">U.S. Journalist Danny Fenster Is Freed From Myanmar Prison</a> NYT: The release was a rare positive development in the country, which has been torn apart by violence since a February coup. 
- <p class="updated_time"> 05:19 AM CT, Nov. 15 </p> 
- <a href="https://www.nytimes.com/2021/11/15/world/asia/duterte-philippines-election.html">Rodrigo Duterte to Run for Senate in the Philippines</a> NYT: Rodrigo Duterte entered the race days after his daughter announced her bid for vice president. He had previously said he would leave politics at the end of his term. 
+ <a href="https://www.nytimes.com/2021/11/15/world/europe/uk-taxi-explosion-liverpool.html">Liverpool Explosion: Driver’s Actions Praised After Taxi Blast</a> NYT: The explosion in Liverpool left one man dead and the cabby wounded. Officials said the driver prevented further harm, but did not give more details. 
  <p class="updated_time"> 05:13 AM CT, Nov. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59289966?at_medium=RSS&at_campaign=KARANGA">Cuba cracks down on dissent ahead of protest march</a> BBC: Cuban state security agents are blocking the organiser of a protest march from leaving his home. 
  <p class="updated_time"> 04:28 AM CT, Nov. 15 </p> 
@@ -185,8 +187,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/12/world/canada/newfoundland-cyberattack.html">Hackers Target Newfoundland’s Health Care System</a> NYT: The province has said little about a cyberattack that delayed or canceled medical procedures and leaked personal information. 
  <p class="updated_time"> 06:15 PM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/us/ivory-rhino-congo-trafficking.html">2 Ivory Smugglers Captured in International Operation, U.S. Says</a> NYT: The men were captured by relying on DNA sampling from a previously seized ivory haul, which helped experts pinpoint the location of poached elephants. 
- <p class="updated_time"> 06:05 PM CT, Nov. 12 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59265609?at_medium=RSS&at_campaign=KARANGA">BBC's Simpson revisits Afghanistan under the Taliban</a> BBC: In 2001, the BBC's World Affairs editor was part of a team which entered the city when the Taliban fell. 
  <p class="updated_time"> 02:57 PM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/world/california-covid-booster.html">All California Adults Can Get Booster Shots, State Says</a> NYT: Officials are seeking to avert a winter surge; last year, so many Covid patients died that officials were forced to deploy mobile morgues. 
  <p class="updated_time"> 12:24 PM CT, Nov. 12 </p> 
@@ -220,6 +220,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 07:31 AM CT, Nov. 15 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/11/15/congress-starts-cooking-end-of-year-agenda-495100">Congress starts cooking end-of-year agenda</a> Politico: A play-by-play preview of the day&#39;s congressional news 
+ <p class="updated_time"> 07:07 AM CT, Nov. 15 </p> 
+ <a href="https://www.nytimes.com/2021/11/14/us/politics/religious-groups-child-care.html">Biden’s Child Care Plan Faces Resistance From Religious Groups</a> NYT: A nondiscrimination provision in the $1.85 trillion social policy bill could disqualify some religious organizations, spurring a fight over who can benefit from President Biden’s landmark bill. 
  <p class="updated_time"> 06:34 AM CT, Nov. 15 </p> 
  <a href="https://www.cnn.com/2021/11/15/politics/biden-missing-native-americans-order/index.html">Biden to sign order to address 'epidemic' of missing, murdered Native Americans at White House summit </a> CNN: President Joe Biden is expected to sign an executive order Monday directing federal agencies, including the departments of Justice, Interior and Homeland Security, to create a strategy addressing what the administration calls an "epidemic" of missing or murdered Indigenous people. 
  <p class="updated_time"> 06:19 AM CT, Nov. 15 </p> 
@@ -262,8 +264,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/14/us/politics/trump-hotel-sale.html">Trump to Sell Marquee Washington Hotel for at Least $375 Million</a> NYT: The pending deal to sell the Trump International Hotel, often the subject of controversy during his presidency, comes after years of financial losses at the property. 
  <p class="updated_time"> 10:40 PM CT, Nov. 14 </p> 
  <a href="https://www.cnn.com/2021/11/14/politics/mitch-landrieu-biden-infrastructure/index.html">Biden taps former New Orleans mayor to oversee implementation of massive infrastructure bill</a> CNN: President Joe Biden has selected former New Orleans Mayor Mitch Landrieu to oversee the implementation of the roughly $1 trillion bipartisan infrastructure bill, the White House announced Sunday evening. 
- <p class="updated_time"> 10:07 PM CT, Nov. 14 </p> 
- <a href="https://www.nytimes.com/2021/11/14/us/politics/religious-groups-child-care.html">Faith Groups Push to Scrap Mandates in Biden’s Child Care Plan</a> NYT: A nondiscrimination provision in the $1.85 trillion social policy bill could disqualify some religious organizations, spurring a fight over who can benefit from President Biden’s landmark bill. 
  <p class="updated_time"> 08:07 PM CT, Nov. 14 </p> 
  <a href="https://www.cnn.com/2021/11/14/politics/kamala-harris-frustrating-start-vice-president/index.html">Exasperation and dysfunction: Inside Kamala Harris' frustrating start as vice president </a> CNN: Worn out by what they see as entrenched dysfunction and lack of focus, key West Wing aides have largely thrown up their hands at Vice President Kamala Harris and her staff -- deciding there simply isn't time to deal with them right now, especially at a moment when President Joe Biden faces quickly multiplying legislative and political concerns. 
  <p class="updated_time"> 06:30 PM CT, Nov. 14 </p> 
