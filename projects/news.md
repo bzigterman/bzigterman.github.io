@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:00 PM CT, Nov. 15 </p> 
+ <a href="https://www.nytimes.com/2021/11/15/world/asia/us-china-tensions-explained.html">U.S.-China Relations: What to Know</a> NYT: The Biden administration has called managing America’s relationship with Beijing “the biggest geopolitical test of the 21st century.” 
+ <p class="updated_time"> 02:56 PM CT, Nov. 15 </p> 
+ <a href="https://www.nytimes.com/2021/11/15/travel/bulgaria-narrow-gauge-railway.html">Inside the Struggle to Save Bulgaria’s Last Narrow-Gauge Railroad</a> NYT: The Rhodope Narrow-Gauge Railway serves remote communities in southwestern Bulgaria. Can longtime riders — and young enthusiasts — keep it running? 
  <p class="updated_time"> 02:47 PM CT, Nov. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59295723?at_medium=RSS&at_campaign=KARANGA">Kyle Rittenhouse: Weapons charge against accused US teen dropped</a> BBC: The judge dismissed the charge ahead of closing arguments by prosecutors and defence on Monday. 
  <p class="updated_time"> 02:33 PM CT, Nov. 15 </p> 
@@ -33,8 +37,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/12/world/asia/migration-eu-poland-belarus.html">In Border Crisis, Europe’s Unsavory Migration Deals Come Home</a> NYT: Europe has long paid other nations to keep refugees away from its borders. Now, Belarus wants something, too, and has brought migrants right to Europe’s door to get it. 
  <p class="updated_time"> 12:03 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/12/world/europe/threats-troop-buildup-war.html">Fears of Belarus-Poland Conflict Amid Provocative Words and Troop Moves</a> NYT: On both sides of the Belarus-Poland border, hyperbole and military exercises have raised fears of an armed conflict in Europe. 
- <p class="updated_time"> 11:53 AM CT, Nov. 15 </p> 
- <a href="https://www.nytimes.com/2021/11/15/travel/bulgaria-narrow-gauge-railway.html">Inside the Struggle to Save Bulgaria’s Last Narrow-Gauge Railroad</a> NYT: The Rhodope Narrow-Gauge Railway serves remote communities in southwestern Bulgaria. Can longtime riders — and young enthusiasts — keep it running? 
  <p class="updated_time"> 11:34 AM CT, Nov. 15 </p> 
  <a href="https://www.npr.org/2021/11/15/1055849927/india-air-pollution-new-delhi-city-wide-lockdown">New Delhi's air pollution is so bad, officials are calling for a citywide lockdown</a> NPR: New Delhi's schools are already closed this week because of air pollution that has been about four times the safe limit. 
  <p class="updated_time"> 11:19 AM CT, Nov. 15 </p> 
@@ -161,8 +163,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/14/1055640596/countries-at-cop26-agree-to-scale-up-efforts-to-combat-climate-change">Countries at COP26 agree to scale up efforts to combat climate change</a> NPR: Danielle Kurtzleben talks to Cassie Flynn, climate advisor to the U.N. Development Program, about the final agreement from the U.N. climate summit in Glasgow. 
  <p class="updated_time"> 12:45 AM CT, Nov. 14 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59277713?at_medium=RSS&at_campaign=KARANGA">COP26: The two week summit in two minutes</a> BBC: The UN’s climate summit has come to an end after two weeks in Glasgow, here are some of the stand out moments. 
- <p class="updated_time"> 11:52 PM CT, Nov. 13 </p> 
- <a href="https://www.nytimes.com/2021/11/12/world/asia/china-zero-covid.html">China's 'Zero Covid' Efforts Come With a Cost</a> NYT: The Communist Party is making broad efforts to stamp out the disease entirely, but the measures come with costs. 
  <p class="updated_time"> 07:01 PM CT, Nov. 13 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59268394?at_medium=RSS&at_campaign=KARANGA">COP26 climate deal: 'It won't save us from drowning'</a> BBC: Young activists on the frontline of climate change explain what the deal struck at COP26 means to them. 
  <p class="updated_time"> 06:07 PM CT, Nov. 13 </p> 
@@ -216,16 +216,22 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:53 PM CT, Nov. 15 </p> 
+ <a href="https://www.politico.com/news/2021/11/15/pentagon-oklahoma-guard-comply-vaccine-mandate-522523">Pentagon: Oklahoma Guard must comply with vaccine mandate</a> Politico: "It is a lawful order for National Guardsmen to receive the Covid vaccine. It is a lawful order," Defense Department press secretary John Kirby told reporters. 
  <p class="updated_time"> 03:14 PM CT, Nov. 15 </p> 
  <a href="https://www.politico.com/news/2021/11/15/biden-putin-russia-522515">Biden tried to push Putin aside. The Russian isn’t having it.</a> Politico: Putin’s troop buildup near Ukraine is spurring criticism that President Biden and his team aren’t tough enough on the Kremlin. 
+ <p class="updated_time"> 03:08 PM CT, Nov. 15 </p> 
+ <a href="https://www.nytimes.com/2021/11/14/us/ghost-guns-homemade-firearms.html">‘Ghost Guns’: Firearm Kits Bought Online Fuel Epidemic of Violence</a> NYT: They are untraceable, assembled from parts and can be ordered by gang members, felons and even children. They are increasingly the lethal weapon of easy access around the U.S., but especially California. 
+ <p class="updated_time"> 03:04 PM CT, Nov. 15 </p> 
+ <a href="https://www.cnn.com/2021/11/15/politics/chris-christie-donald-trump-january-6-cnntv/index.html">Chris Christie blames Trump's rhetoric about stolen election for January 6 insurrection </a> CNN: Former New Jersey Gov. Chris Christie said he believes the insurrection at the US Capitol on January 6 was the result of former President Donald Trump's lie that the 2020 presidential election was stolen. 
+ <p class="updated_time"> 03:00 PM CT, Nov. 15 </p> 
+ <a href="https://www.nytimes.com/2021/11/15/world/asia/us-china-tensions-explained.html">U.S.-China Relations: What to Know</a> NYT: The Biden administration has called managing America’s relationship with Beijing “the biggest geopolitical test of the 21st century.” 
  <p class="updated_time"> 02:49 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/us/politics/biden-social-policy-bill-irs.html">How Revenue for Biden's Social Policy Bill Depends on the I.R.S.</a> NYT: The head of the Congressional Budget Office said on Monday that beefed-up tax enforcement would raise far less money than the White House projected. 
  <p class="updated_time"> 02:38 PM CT, Nov. 15 </p> 
  <a href="https://www.cnn.com/2021/11/15/politics/steve-bannon/index.html">Steve Bannon released from custody pending trial on contempt of Congress charges</a> CNN: Steve Bannon, a former adviser to former President Donald Trump, turned himself in to the FBI Monday morning to self-surrender after being indicted on criminal contempt charges on Friday. 
  <p class="updated_time"> 02:23 PM CT, Nov. 15 </p> 
  <a href="https://www.cnn.com/2021/11/15/politics/white-house-defends-harris/index.html">White House defends Harris as 'key partner' to Biden amid reports of dysfunction</a> CNN: The White House on Monday defended Vice President Kamala Harris as a "key partner" to President Joe Biden following CNN reporting that key West Wing aides are exasperated by what they see as entrenched dysfunction and lack of focus from Harris and her staff, while many in the vice president's circle believe Harris is being sidelined. 
- <p class="updated_time"> 01:58 PM CT, Nov. 15 </p> 
- <a href="https://www.nytimes.com/2021/11/12/us/politics/court-vaccine-mandate.html">Appeals Court Extends Block on Biden’s Vaccine Mandate for Employers</a> NYT: A three-judge panel of the U.S. Court of Appeals for the Fifth Circuit held that challengers were likely to succeed in their claim that the mandate was an unlawful overreach. 
  <p class="updated_time"> 01:56 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/us/politics/bannon-congress-trump-jan-6.html">Steve Bannon turns himself in on contempt of Congress charges.</a> NYT: The former aide to President Donald J. Trump had refused to comply with a demand for information from the House committee investigating the Jan. 6 Capitol riot. 
  <p class="updated_time"> 01:41 PM CT, Nov. 15 </p> 
@@ -246,8 +252,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/15/politics/biden-missing-native-americans-order/index.html">Biden signs order to address 'crisis of violence' against Native Americans at White House summit</a> CNN: President Joe Biden is expected to sign an executive order Monday directing federal agencies, including the departments of Justice, Interior and Homeland Security, to create a strategy addressing what the administration calls an "epidemic" of missing or murdered Indigenous people. 
  <p class="updated_time"> 11:55 AM CT, Nov. 15 </p> 
  <a href="https://www.politico.com/news/2021/11/15/weapons-charge-dismissed-rittenhouse-trial-522411">Judge dismisses weapons charge at Rittenhouse murder trial</a> Politico: Rittenhouse, 18, killed two men and wounded a third in the summer of 2020 during a turbulent protest against racial injustice. 
- <p class="updated_time"> 11:52 AM CT, Nov. 15 </p> 
- <a href="https://www.nytimes.com/2021/11/14/us/ghost-guns-homemade-firearms.html">‘Ghost Guns’: Firearm Kits Bought Online Fuel Epidemic of Violence</a> NYT: They are untraceable, assembled from parts and can be ordered by gang members, felons and even children. They are increasingly the lethal weapon of easy access around the U.S., but especially California. 
  <p class="updated_time"> 11:46 AM CT, Nov. 15 </p> 
  <a href="https://www.cnn.com/2021/11/15/politics/michael-flynn-one-religion/index.html">Ex-Trump adviser Michael Flynn's call for 'one religion' in the US garners swift condemnation</a> CNN: Former Trump national security adviser Michael Flynn's call for "one religion" in the US to win the battle of good versus evil has garnered sharp backlash from a range of critics. 
  <p class="updated_time"> 11:20 AM CT, Nov. 15 </p> 
@@ -294,8 +298,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/15/politics/us-intelligence-russia-ukraine/index.html">US struggles with intelligence blind spot as Russia builds up forces near Ukraine</a> CNN: After publicly sounding the alarm about Russia's irregular military movements near Ukraine's border, the Biden administration's efforts to understand Russia's intentions are being hampered by a key blind spot -- the intelligence community's limited visibility into Russian President Vladimir Putin's inner circle. 
  <p class="updated_time"> 07:31 AM CT, Nov. 15 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/11/15/congress-starts-cooking-end-of-year-agenda-495100">Congress starts cooking end-of-year agenda</a> Politico: A play-by-play preview of the day&#39;s congressional news 
- <p class="updated_time"> 07:18 AM CT, Nov. 15 </p> 
- <a href="https://www.cnn.com/2021/11/15/politics/chris-christie-donald-trump-january-6-cnntv/index.html">Chris Christie blames Trump's rhetoric about stolen election for January 6 insurrection </a> CNN: Former New Jersey Gov. Chris Christie said he believes the insurrection at the US Capitol on January 6 was the result of former President Donald Trump's lie that the 2020 presidential election was stolen. 
  <p class="updated_time"> 06:16 AM CT, Nov. 15 </p> 
  <a href="https://www.npr.org/2021/11/15/1055767730/climate-talks-have-wrapped-up-granholm-weighs-in-on-the-highlights">Climate talks have wrapped up. Granholm weighs in on the highlights</a> NPR: NPR's Noel King talks to Energy Secretary Jennifer Granholm about the compromise deal reached at the U.N. climate summit that gave a last-minute reprieve to coal-burning economies. 
  <p class="updated_time"> 06:15 AM CT, Nov. 15 </p> 
