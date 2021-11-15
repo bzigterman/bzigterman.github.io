@@ -216,6 +216,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:32 PM CT, Nov. 15 </p> 
+ <a href="https://www.politico.com/news/2021/11/15/biden-signs-bipartisan-infrastructure-deal-522567">Biden signs bipartisan infrastructure deal</a> Politico: The $550 billion package delivers a legislative victory to the president, who has seen his poll numbers steadily decline. 
  <p class="updated_time"> 03:53 PM CT, Nov. 15 </p> 
  <a href="https://www.politico.com/news/2021/11/15/pentagon-oklahoma-guard-comply-vaccine-mandate-522523">Pentagon: Oklahoma Guard must comply with vaccine mandate</a> Politico: "It is a lawful order for National Guardsmen to receive the Covid vaccine. It is a lawful order," Defense Department press secretary John Kirby told reporters. 
  <p class="updated_time"> 03:46 PM CT, Nov. 15 </p> 
