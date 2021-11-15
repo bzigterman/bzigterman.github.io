@@ -7,12 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:16 PM CT, Nov. 15 </p> 
+ <a href="https://www.nytimes.com/2021/11/15/world/europe/belarus-poland-eu-sanctions-migrants.html">Europe Adopts New Sanctions Against Belarus</a> NYT: A confrontation at the Polish-Belarusian border, a funeral for a dead Syrian boy trapped in between and a new round of E.U. sanctions mark the struggle with Aleksandr G. Lukashenko. 
+ <p class="updated_time"> 01:16 PM CT, Nov. 15 </p> 
+ <a href="https://www.nytimes.com/2021/11/15/world/middleeast/scorpion-plague-egypt.html">The 11th Plague: Four-Inch Scorpions Called Deathstalkers Descend on Egypt</a> NYT: Driven from underground by what seemed like a storm of biblical fury, hundreds or maybe thousands of the angry arthropods attacked humans with their storied stingers. 
+ <p class="updated_time"> 01:05 PM CT, Nov. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59298320?at_medium=RSS&at_campaign=KARANGA">Sandy Hook: Alex Jones liable in defamation lawsuit</a> BBC: The radio host spread false claims that the 2012 school shooting had been faked to push gun control. 
  <p class="updated_time"> 01:01 PM CT, Nov. 15 </p> 
  <a href="https://www.npr.org/sections/coronavirus-live-updates/2021/11/15/1055839727/austria-and-germany-impose-restrictions-on-unvaccinated-people-as-covid-cases-su">Austria and Germany impose restrictions on unvaccinated people as COVID cases surge</a> NPR: Austria has placed some 2 million unvaccinated people on partial lockdown. Similar restrictions in Berlin have been placed on people who aren't fully vaccinated. 
  <p class="updated_time"> 12:57 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/world/europe/europe-vaccine.html">Europe Toughens Rules for Unvaccinated as Fourth Covid Wave Swells</a> NYT: Austria took the hardest line yet on Monday, beginning a lockdown aimed exclusively at those who are not inoculated, part of a pattern to make life harder for resisters. 
- <p class="updated_time"> 12:51 PM CT, Nov. 15 </p> 
- <a href="https://www.nytimes.com/2021/11/15/world/europe/belarus-poland-eu-sanctions-migrants.html">Europe Adopts New Sanctions Against Belarus</a> NYT: A confrontation at the Polish-Belarusian border, a funeral for a dead Syrian boy trapped in between and a new round of E.U. sanctions mark the struggle with Aleksandr G. Lukashenko. 
  <p class="updated_time"> 12:47 PM CT, Nov. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59289999?at_medium=RSS&at_campaign=KARANGA">Belarus crisis: The locals helping families in Poland's no-go area</a> BBC: As the Belarus crisis deepens, volunteers have been offering aid in Poland's forbidden forests. 
  <p class="updated_time"> 12:25 PM CT, Nov. 15 </p> 
@@ -75,8 +79,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/15/world/asia/duterte-philippines-election.html">Rodrigo Duterte to Run for Senate in the Philippines</a> NYT: Rodrigo Duterte entered the race days after his daughter announced her bid for vice president. He had previously said he would leave politics at the end of his term. 
  <p class="updated_time"> 06:29 AM CT, Nov. 15 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59291000?at_medium=RSS&at_campaign=KARANGA">Adele opens up to Oprah Winfrey about her weight loss, divorce and finding herself again.</a> BBC: Award-winning singer Adele describes how she saved her mental health through exercise and why she's now at peace with herself. 
- <p class="updated_time"> 06:29 AM CT, Nov. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-59249485?at_medium=RSS&at_campaign=KARANGA">China Covid: Outrage after pet dog killed by health workers</a> BBC: The quarantined owner posted video showing one health worker beating her pet with a crowbar. 
  <p class="updated_time"> 06:19 AM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/12/us/politics/biden-china-xi-jinping.html">Biden and China’s Xi Will Hold Virtual Summit on Monday</a> NYT: The leaders of the world’s two largest economies confront tensions over trade, cyberthreats, the climate, Taiwan and human rights. 
  <p class="updated_time"> 05:56 AM CT, Nov. 15 </p> 
@@ -159,8 +161,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/14/1055640596/countries-at-cop26-agree-to-scale-up-efforts-to-combat-climate-change">Countries at COP26 agree to scale up efforts to combat climate change</a> NPR: Danielle Kurtzleben talks to Cassie Flynn, climate advisor to the U.N. Development Program, about the final agreement from the U.N. climate summit in Glasgow. 
  <p class="updated_time"> 12:45 AM CT, Nov. 14 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59277713?at_medium=RSS&at_campaign=KARANGA">COP26: The two week summit in two minutes</a> BBC: The UN’s climate summit has come to an end after two weeks in Glasgow, here are some of the stand out moments. 
- <p class="updated_time"> 11:53 PM CT, Nov. 13 </p> 
- <a href="https://www.nytimes.com/2021/11/12/world/europe/covid-netherlands-lockdown.html">Netherlands Looks to Partial Lockdown as Covid Cases Rise</a> NYT: The Dutch lockdown does not single out those who are unvaccinated. The country is experiencing rising case numbers amid a fourth wave of infections. 
  <p class="updated_time"> 11:52 PM CT, Nov. 13 </p> 
  <a href="https://www.nytimes.com/2021/11/12/world/asia/china-zero-covid.html">China's 'Zero Covid' Efforts Come With a Cost</a> NYT: The Communist Party is making broad efforts to stamp out the disease entirely, but the measures come with costs. 
  <p class="updated_time"> 07:01 PM CT, Nov. 13 </p> 
@@ -216,14 +216,14 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 01:21 PM CT, Nov. 15 </p> 
+ <a href="https://www.nytimes.com/2021/11/15/us/politics/whats-in-the-infrastructure-bill.html">Here's What's in the Infrastructure Bill Biden Will Sign Today</a> NYT: In total, the measure contains $550 billion in new funds to be spread around different areas of need. 
+ <p class="updated_time"> 01:18 PM CT, Nov. 15 </p> 
+ <a href="https://www.nytimes.com/2021/11/15/us/politics/pat-leahy-senate-retire.html">Patrick Leahy Announces He Will Retire From the U.S. Senate</a> NYT: At age 81, the Vermont Democrat has served in the Senate for nearly half a century. 
  <p class="updated_time"> 01:02 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/us/politics/bannon-congress-trump-jan-6.html">Steve Bannon turns himself in on contempt of Congress charges.</a> NYT: The former aide to President Donald J. Trump had refused to comply with a demand for information from the House committee investigating the Jan. 6 Capitol riot. 
  <p class="updated_time"> 12:54 PM CT, Nov. 15 </p> 
- <a href="https://www.nytimes.com/2021/11/15/us/politics/irs-infrastructure-bill.html">An empowered I.R.S. emerges as the linchpin of Biden’s social policy bill.</a> NYT: The Congressional Budget Office is expected to find that beefed up tax enforcement would raise far less money than the White House projects. 
- <p class="updated_time"> 12:53 PM CT, Nov. 15 </p> 
- <a href="https://www.nytimes.com/2021/11/15/us/politics/pat-leahy-senate-retire.html">Patrick Leahy Announces He Will Retire From the U.S. Senate</a> NYT: At age 81, the Vermont Democrat has served in the Senate for nearly half a century. 
- <p class="updated_time"> 12:48 PM CT, Nov. 15 </p> 
- <a href="https://www.nytimes.com/2021/11/15/us/politics/whats-in-the-infrastructure-bill.html">Here's What's in the Infrastructure Bill Biden Will Sign Today</a> NYT: In total, the measure contains $550 billion in new funds to be spread around different areas of need. 
+ <a href="https://www.nytimes.com/2021/11/15/us/politics/biden-social-policy-bill-irs.html">An empowered I.R.S. emerges as the linchpin of Biden’s social policy bill.</a> NYT: The Congressional Budget Office is expected to find that beefed up tax enforcement would raise far less money than the White House projects. 
  <p class="updated_time"> 12:35 PM CT, Nov. 15 </p> 
  <a href="https://www.cnn.com/2021/11/15/politics/patrick-leahy-retirement-announcement/index.html">Patrick Leahy, longest serving US senator still in office, announces he won't seek reelection</a> CNN: Patrick Leahy, a Vermont Democrat and the longest serving US senator still in office, announced Monday he won't seek reelection next year. 
  <p class="updated_time"> 12:29 PM CT, Nov. 15 </p> 
@@ -336,8 +336,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/14/business/economy/farm-exports-supply-chain-ports.html">Supply Chain Disruptions May Mean Crisis for U.S. Farms</a> NYT: Backlogs and cancellations are hitting growers as costs rise, profits slump and overseas customers shop elsewhere. 
  <p class="updated_time"> 01:24 PM CT, Nov. 14 </p> 
  <a href="https://www.politico.com/news/2021/11/14/catholic-bishops-biden-abortion-522105">U.S. Catholic bishops may dodge rebuke of Biden over abortion</a> Politico: While some bishops have said they would deny Communion to the president, there is no national policy on the matter. 
- <p class="updated_time"> 12:46 PM CT, Nov. 14 </p> 
- <a href="https://www.cnn.com/2021/11/13/politics/fbi-fake-emails-cyber-threat/index.html">Fake FBI emails about a sophisticated attack are part of 'ongoing situation,' agency says</a> CNN: The FBI on Saturday said it was aware of reports that unauthorized emails were coming from a legitimate FBI email address to thousands of organizations about a purported cyber threat. 
  <p class="updated_time"> 12:00 PM CT, Nov. 14 </p> 
  <a href="https://www.cnn.com/2021/11/14/politics/january-6-jail-complaints-washington-dc/index.html">Insurrectionists' jail complaints lead to overdue reform within DC's jail system</a> CNN: A scathing report by the US Marshals Service this month uncovered the deplorable conditions inside one of the three facilities within the Washington, DC, jail, citing systemic failures like lack of water, inadequate quality of food and standing human sewage. 
  <p class="updated_time"> 11:56 AM CT, Nov. 14 </p> 
