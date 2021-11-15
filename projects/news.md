@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:19 AM CT, Nov. 15 </p> 
+ <a href="https://www.nytimes.com/2021/11/15/world/asia/duterte-philippines-election.html">Rodrigo Duterte to Run for Senate in the Philippines</a> NYT: Rodrigo Duterte entered the race days after his daughter announced her bid for vice president. He had previously said he would leave politics at the end of his term. 
  <p class="updated_time"> 05:04 AM CT, Nov. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59290412?at_medium=RSS&at_campaign=KARANGA">Danny Fenster: US journalist freed from Myanmar jail</a> BBC: Danny Fenster will be allowed to leave the country just days after getting an 11-year sentence. 
  <p class="updated_time"> 04:34 AM CT, Nov. 15 </p> 
@@ -193,16 +195,12 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/12/world/asia/migration-eu-poland-belarus.html">In Border Crisis, Europe’s Unsavory Migration Deals Come Home</a> NYT: Europe has long paid other nations to keep refugees away from its borders. Now, Belarus wants something, too, and has brought migrants right to Europe’s door to get it. 
  <p class="updated_time"> 10:44 AM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/world/australia/migration-and-experimentation-what-led-to-australias-coffee-culture.html">Migration and Experimentation: What Led to Australia’s Coffee Culture</a> NYT: When Italian migrants arrived after World War II, they helped develop a coffee scene that many now regard as the best in the world. 
- <p class="updated_time"> 10:29 AM CT, Nov. 12 </p> 
- <a href="https://www.nytimes.com/2021/11/11/world/europe/un-security-council.html">Belarus-Poland Clash Spills Into U.N. Security Council</a> NYT: The United States joined several countries in a statement condemning Belarus, but the Russian envoy dismissed their criticism as politically motivated hypocrisy. 
  <p class="updated_time"> 10:01 AM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/world/europe/julian-assange-stella-moris-marriage.html">Julian Assange Will Marry Stella Moris in London Prison</a> NYT: The WikiLeaks founder, who is battling extradition to the United States on espionage charges, has been granted permission to marry Stella Moris in the London prison where he has been held since 2019. 
  <p class="updated_time"> 06:58 AM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/arts/design/badiucao-brescia-china.html">The Show Goes On, Even After China Tried to Shut It Down</a> NYT: An Italian city rejected a request from the Chinese Embassy in Rome to cancel an exhibition by Badiucao, an artist who has been described as the Chinese Banksy. 
  <p class="updated_time"> 06:55 AM CT, Nov. 12 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59263810?at_medium=RSS&at_campaign=KARANGA">John Kerry at COP26: We're going to come up with an agreement</a> BBC: The US climate envoy speaks to the BBC as pressure mounts on governments to strike a deal at COP26. 
- <p class="updated_time"> 02:36 AM CT, Nov. 12 </p> 
- <a href="https://www.nytimes.com/2021/11/11/world/europe/migrants-poland-belarus-lukashenko.html">Migrants in Peril, and Raw Emotions, in a Volatile European Border Standoff</a> NYT: A confrontation over migrants between Belarus and Poland is growing more volatile, as nationalist fervor rises in both countries and a humanitarian disaster looms. 
 
 
 </details>
@@ -210,6 +208,12 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:13 AM CT, Nov. 15 </p> 
+ <a href="https://www.politico.com/newsletters/playbook/2021/11/15/washingtons-mystery-mansion-buyer-unmasked-495098">POLITICO Playbook: Washington’s mystery mansion buyer unmasked</a> Politico: And Democrats plan their midterm messaging. 
+ <p class="updated_time"> 05:17 AM CT, Nov. 15 </p> 
+ <a href="https://www.cnn.com/2021/11/15/politics/donald-trump-steve-bannon-january-6-joe-biden-infrastructure/index.html">Trump is in full attack mode as Biden celebrates a victory that eluded him</a> CNN: Donald Trump is tightening his malignant hold on American politics as Joe Biden battles to stabilize his own problem-plagued presidency by celebrating the kind of political win his predecessor never managed. 
+ <p class="updated_time"> 05:02 AM CT, Nov. 15 </p> 
+ <a href="https://www.cnn.com/2021/11/15/politics/desantis-florida-legislature-vaccine-mandates/index.html">Florida special session begins as DeSantis continues battle against vaccine mandates</a> CNN: Florida Gov. Ron DeSantis has made fighting vaccine mandates a focal point of his Covid strategy. 
  <p class="updated_time"> 05:00 AM CT, Nov. 15 </p> 
  <a href="https://www.politico.com/news/2021/11/15/dc-new-top-cop-steve-bannon-522259">D.C.'s new top cop vs. Steve Bannon</a> Politico: Matthew Graves has represented Ben Carson and Gazprom — but overseeing hundreds of Jan. 6 prosecutions will bring a different level of scrutiny. 
  <p class="updated_time"> 04:31 AM CT, Nov. 15 </p> 
@@ -220,6 +224,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/15/mcconnell-disinvite-trump-biden-inaugural-522253">McConnell sought to disinvite Trump from Biden’s inaugural</a> Politico: According to a new book from Jonathan Karl, Trump got wind of the plan and preemptively announced he wasn’t attending 
  <p class="updated_time"> 04:30 AM CT, Nov. 15 </p> 
  <a href="https://www.politico.com/news/2021/11/15/democrats-reconciliation-health-care-midterms-521959">Dems' bitter pill: Popular health provisions won't kick in until after the midterms</a> Politico: There was little they could have done to speed up implementation of key parts of their bill. They’re hoping voters will reward them regardless. 
+ <p class="updated_time"> 04:05 AM CT, Nov. 15 </p> 
+ <a href="https://www.cnn.com/2021/11/15/politics/congress-debt-ceiling-government-funding-build-back-better-act/index.html">Congress returns Monday with government funding, debt ceiling, economic bill looming</a> CNN: While Democratic leaders plan to take a victory lap Monday to celebrate President Joe Biden signing the bipartisan infrastructure bill, other pressing issues remain for lawmakers when they return for session this week. 
  <p class="updated_time"> 04:00 AM CT, Nov. 15 </p> 
  <a href="https://www.npr.org/2021/11/15/1053917252/infrastructure-bill-broadband-internet-rural-college-students">Students are still struggling to get internet. The infrastructure bill could help</a> NPR: President Biden's infrastructure bill includes $65 billion for improving broadband. That money could make a big difference for rural college students, who are especially disconnected. 
  <p class="updated_time"> 04:00 AM CT, Nov. 15 </p> 
@@ -268,8 +274,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/14/paxton-texas-mandates-wallace-521984">Texas attorney general opposes federal edicts, supports state edicts</a> Politico: Ken Paxton got a bit tangled up discussing the president’s mandates in an interview with Chris Wallace. 
  <p class="updated_time"> 10:43 AM CT, Nov. 14 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/14/no-bif-bump-for-biden-495093">POLITICO Playbook: No BIF bump for Biden</a> Politico: And COP26 wraps up in Scotland. 
- <p class="updated_time"> 10:41 AM CT, Nov. 14 </p> 
- <a href="https://www.cnn.com/2021/11/14/politics/chris-christie-predictions-trump-2024/index.html">Chris Christie: 'The idea of making predictions for 2024 is folly'</a> CNN: Former New Jersey Gov. Chris Christie -- who has been outspoken against former President Donald Trump's lies about the 2020 election results -- says he does not want to make predictions about 2024 and is unsure whether he or Trump will run again. 
  <p class="updated_time"> 10:21 AM CT, Nov. 14 </p> 
  <a href="https://www.cnn.com/2021/11/14/politics/anthony-gonzalez-donald-trump-cnntv/index.html">Rep. Anthony Gonzalez: 'The cold hard truth is Donald Trump led us into a ditch on January 6'</a> CNN: Rep. Anthony Gonzalez of Ohio, a House Republican who voted to impeach former President Donald Trump in his second impeachment trial earlier this year, repeatedly slammed Trump in an extensive sit-down interview with CNN's Jake Tapper. 
  <p class="updated_time"> 10:12 AM CT, Nov. 14 </p> 
@@ -285,7 +289,7 @@ permalink: /projects/news/
  <p class="updated_time"> 08:46 AM CT, Nov. 14 </p> 
  <a href="https://www.politico.com/news/2021/11/14/samantha-power-usaid-future-515606">Power moves: Samantha Power’s celebrity draws spotlight to USAID — and questions about her future</a> Politico: The longtime human rights crusader is energizing an agency few Americans know about, while fueling speculation about her next step. 
  <p class="updated_time"> 08:06 AM CT, Nov. 14 </p> 
- <a href="https://www.cnn.com/2021/11/14/politics/biden-approval-rating/index.html">Can Biden revive his popularity in time for midterm elections? </a> CNN: From Virginia to New Jersey, Democratic election woes this month had a common thread: the unpopularity of President Joe Biden. 
+ <a href="https://www.cnn.com/2021/11/14/politics/biden-approval-rating/index.html">Analysis: Can Biden revive his popularity in time for midterm elections? </a> CNN: From Virginia to New Jersey, Democratic election woes this month had a common thread: the unpopularity of President Joe Biden. 
  <p class="updated_time"> 07:44 AM CT, Nov. 14 </p> 
  <a href="https://www.politico.com/news/2021/11/14/pope-francis-poor-injustice-521896">Pope: The poor are often victims of injustice</a> Politico: He celebrated Sunday Mass in St. Peter’s Basilica attended by 2,000 indigent people. 
  <p class="updated_time"> 07:05 AM CT, Nov. 14 </p> 
@@ -328,6 +332,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/11/13/bannon-indicted-britney-freed-495092">POLITICO Playbook: Bannon indicted, Britney freed</a> Politico: And an appeals court extends a stay for the Biden administration's vaccine-or-test mandate. 
  <p class="updated_time"> 09:39 AM CT, Nov. 13 </p> 
  <a href="https://www.nytimes.com/2021/11/13/us/politics/chris-christie-book-trump.html">What's in Chris Christie's New Book</a> NYT: In a new book and in an interview, Mr. Christie says that if the former president wants to be a positive force, “he’s got to let this other stuff go.” 
+ <p class="updated_time"> 07:02 AM CT, Nov. 13 </p> 
+ <a href="https://www.politico.com/news/2021/11/13/democrats-drug-prices-521213">Dems’ plan to limit drug price inflation faces test in Senate</a> Politico: Attempts at price controls have to conform with the parameters of the  reconciliation process they’re hoping to use to pass the social spending package on a party-line vote. 
  <p class="updated_time"> 07:02 AM CT, Nov. 13 </p> 
  <a href="https://www.npr.org/2021/11/13/1055503629/steve-bannon-faces-federal-charges-for-contempt-of-congress">Steve Bannon faces federal charges for contempt of Congress</a> NPR: Steve Bannon, adviser to former President Donald Trump, was indicted Friday for contempt of Congress. 
  <p class="updated_time"> 07:02 AM CT, Nov. 13 </p> 
@@ -378,8 +384,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/huddle/2021/11/12/could-mccarthy-win-the-gavel-495084">Could McCarthy win the gavel?</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:13 AM CT, Nov. 12 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/12/trump-sours-on-desantis-495081">POLITICO Playbook: Trump sours on DeSantis</a> Politico: And Sen. Lisa Murkowski (R-Alaska) says she'll run for reelection. 
- <p class="updated_time"> 05:02 AM CT, Nov. 12 </p> 
- <a href="https://www.cnn.com/2021/11/12/politics/republicans-covid-vaccine-mandates/index.html">Republicans seize on federal vaccine mandates to fire up their base and try to court new voters worried about the economy </a> CNN: Republicans seeking to energize their core voters and appeal beyond their base to others concerned about the fragile economic recovery are turning to the Biden administration's vaccine mandates. 
  <p class="updated_time"> 05:01 AM CT, Nov. 12 </p> 
  <a href="https://www.cnn.com/2021/11/12/politics/joe-biden-inflation-explainer/index.html">Biden could show he's serious about inflation by replacing the Fed chief</a> CNN: Soaring inflation is quickly becoming a political liability for President Joe Biden, who has shifted his public message to acknowledging the problem and commiserating with Americans over higher prices. 
  <p class="updated_time"> 05:00 AM CT, Nov. 12 </p> 
@@ -394,8 +398,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/11/politics/jerome-powell-joe-biden/index.html">Powell seen as the frontrunner to be Biden's pick for Federal Reserve chair as he nears a decision</a> CNN: President Joe Biden is nearing a decision on his choice for Federal Reserve chair, with observers inside and outside the administration viewing incumbent Jerome Powell as the front-runner for another term. 
  <p class="updated_time"> 01:01 PM CT, Nov. 11 </p> 
  <a href="https://www.politico.com/news/2021/11/11/biden-administration-armed-drones-indonesia-520888">Biden administration wrestles with selling armed drones to Indonesia</a> Politico: The country's human rights abuses, and past purchases of Russian equipment, are among the concerns in Washington. 
- <p class="updated_time"> 12:23 PM CT, Nov. 11 </p> 
- <a href="https://www.politico.com/news/2021/11/11/wall-street-democrats-tax-buybacks-520880">A $124B tax increase? Wall Street shrugs.</a> Politico: Analysts say they expect total buybacks this year to approach levels unseen since shortly after Republicans slashed the corporate tax rate as part of their 2017 tax cuts. 
  <p class="updated_time"> 12:01 PM CT, Nov. 11 </p> 
  <a href="https://www.cnn.com/2021/11/11/politics/biden-veterans-day-arlington/index.html">'You are the very spine of America': Biden honors those who served on Veterans Day in Arlington</a> CNN: President Joe Biden honored Veterans Day at Arlington National Cemetery on Thursday, paying homage to Americans who have served and laying a wreath at the Tomb of the Unknown Soldier. 
  <p class="updated_time"> 09:21 AM CT, Nov. 11 </p> 
@@ -410,8 +412,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/10/politics/biden-baltimore-port-infrastructure/index.html">'It's worrisome': Biden addresses inflation concerns during Baltimore speech</a> CNN: President Joe Biden takes his sales pitch for the newly passed bipartisan infrastructure deal on the road Wednesday, highlighting the effect of the bill on supply chains, hours after new inflation statistics revealed that America's prices are surging more than they have in 30 years. 
  <p class="updated_time"> 04:51 PM CT, Nov. 10 </p> 
  <a href="https://www.cnn.com/2021/11/10/politics/infrastructure-bill-signing/index.html">Biden to hold signing ceremony on Monday for bipartisan infrastructure bill </a> CNN: President Joe Biden will sign the bipartisan infrastructure bill on Monday during a ceremony that will include members of Congress, governors and mayors from both parties, the White House announced on Wednesday. 
- <p class="updated_time"> 10:13 AM CT, Nov. 10 </p> 
- <a href="https://www.cnn.com/2021/11/10/politics/joe-biden-inflation/index.html">Biden on inflation report: 'Reversing this trend is a top priority for me'</a> CNN: President Joe Biden said Wednesday that inflation statistics showing America's prices are surging more than they have in 30 years are proof that there is "more work to do before our economy is back to normal." 
  <p class="updated_time"> 08:12 AM CT, Nov. 10 </p> 
  <a href="https://www.cnn.com/2021/11/10/politics/biden-jj-covid-vaccine-conflict-zones/index.html">Biden administration announces deal to provide J&J Covid-19 vaccine to people in conflict zones and humanitarian settings</a> CNN: The Biden administration will announce on Wednesday a new deal it brokered with Johnson & Johnson and Covax to provide J&J's Covid-19 vaccine to people in conflict zones and other humanitarian settings where government vaccine campaigns cannot reach, a White House official told CNN. 
  <p class="updated_time"> 07:21 AM CT, Nov. 10 </p> 
