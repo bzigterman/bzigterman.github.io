@@ -7,10 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 12:51 PM CT, Nov. 15 </p> 
+ <a href="https://www.nytimes.com/2021/11/15/world/europe/belarus-poland-eu-sanctions-migrants.html">Europe Adopts New Sanctions Against Belarus</a> NYT: A confrontation at the Polish-Belarusian border, a funeral for a dead Syrian boy trapped in between and a new round of E.U. sanctions mark the struggle with Aleksandr G. Lukashenko. 
+ <p class="updated_time"> 12:47 PM CT, Nov. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59289999?at_medium=RSS&at_campaign=KARANGA">Belarus crisis: The locals helping families in Poland's no-go area</a> BBC: As the Belarus crisis deepens, volunteers have been offering aid in Poland's forbidden forests. 
  <p class="updated_time"> 12:25 PM CT, Nov. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59295723?at_medium=RSS&at_campaign=KARANGA">Kyle Rittenhouse: Weapons charge against accused US teen dropped</a> BBC: The judge dismissed the charge ahead of closing arguments by prosecutors and defence on Monday. 
- <p class="updated_time"> 12:13 PM CT, Nov. 15 </p> 
- <a href="https://www.nytimes.com/2021/11/15/world/europe/belarus-poland-eu-sanctions-migrants.html">Europe Adopts New Sanctions Against Belarus</a> NYT: A confrontation at the Polish-Belarusian border, a funeral for a dead Syrian boy trapped in between and a new round of E.U. sanctions mark the struggle with Aleksandr G. Lukashenko. 
  <p class="updated_time"> 12:07 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/12/world/asia/migration-eu-poland-belarus.html">In Border Crisis, Europe’s Unsavory Migration Deals Come Home</a> NYT: Europe has long paid other nations to keep refugees away from its borders. Now, Belarus wants something, too, and has brought migrants right to Europe’s door to get it. 
  <p class="updated_time"> 12:03 PM CT, Nov. 15 </p> 
@@ -23,8 +25,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/15/world/europe/europe-vaccine.html">Europe Toughens Rules for Unvaccinated as Fourth Covid Wave Swells</a> NYT: Austria took the hardest line yet on Monday, beginning a lockdown aimed exclusively at those who are not inoculated, part of a pattern to make life harder for resisters. 
  <p class="updated_time"> 11:34 AM CT, Nov. 15 </p> 
  <a href="https://www.npr.org/2021/11/15/1055849927/india-air-pollution-new-delhi-city-wide-lockdown">New Delhi's air pollution is so bad, officials are calling for a citywide lockdown</a> NPR: New Delhi's schools are already closed this week because of air pollution that has been about four times the safe limit. 
- <p class="updated_time"> 11:19 AM CT, Nov. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59289999?at_medium=RSS&at_campaign=KARANGA">Belarus crisis: The locals helping families in Poland's no-go area</a> BBC: As the Belarus crisis deepens, volunteers have been offering aid in Poland's forbidden forests. 
  <p class="updated_time"> 11:19 AM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/world/europe/ukraine-russia-war-putin.html">How a Dispute Over Groceries Led to Artillery Strikes in Ukraine</a> NYT: In a sign of volatile East-West relations, a dispute over shopping in the Ukrainian conflict zone spiraled into fighting that sent war jitters rippling through Europe and the U.S. 
  <p class="updated_time"> 11:06 AM CT, Nov. 15 </p> 
@@ -46,9 +46,9 @@ permalink: /projects/news/
  <p class="updated_time"> 09:59 AM CT, Nov. 15 </p> 
  <a href="https://www.npr.org/2021/11/15/1055803038/new-zealand-maori-tribe-vaccine-protesters-haka">New Zealand Maori tribe demands vaccine protesters stop performing haka dance</a> NPR: The Ngati Toa, a Maori tribe whose version of the intimidating display has been popularized by New Zealand's All Blacks rugby team, says it supports COVID-19 vaccinations. 
  <p class="updated_time"> 09:58 AM CT, Nov. 15 </p> 
- <a href="https://www.bbc.co.uk/news/59253089?at_medium=RSS&at_campaign=KARANGA">Steve Bannon surrenders to face contempt charges</a> BBC: Mr Bannon, a former White House advisor to Donald Trump, has surrendered to FBI officials. 
- <p class="updated_time"> 09:58 AM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/us/politics/biden-china-xi-jinping.html">Biden and Xi to meet amid economic and military tensions.</a> NYT: U.S. officials said the virtual summit on Monday was intended to reassure both sides that misunderstandings would not lead to unintended clashes. 
+ <p class="updated_time"> 09:58 AM CT, Nov. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/59253089?at_medium=RSS&at_campaign=KARANGA">Steve Bannon surrenders to face contempt charges</a> BBC: Mr Bannon, a former White House advisor to Donald Trump, has surrendered to FBI officials. 
  <p class="updated_time"> 09:57 AM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/world/europe/austria-covid-vaccine.html">Austria’s New Coronavirus Lockdown Applies Only to the Unvaccinated.</a> NYT: The restrictions were among the toughest of a wave of new rules in Europe, which the W.H.O. has said is “back at the epicenter of the pandemic.” 
  <p class="updated_time"> 09:57 AM CT, Nov. 15 </p> 
@@ -218,10 +218,16 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 12:54 PM CT, Nov. 15 </p> 
+ <a href="https://www.nytimes.com/2021/11/15/us/politics/irs-infrastructure-bill.html">An empowered I.R.S. emerges as the linchpin of Biden’s social policy bill.</a> NYT: The Congressional Budget Office is expected to find that beefed up tax enforcement would raise far less money than the White House projects. 
+ <p class="updated_time"> 12:53 PM CT, Nov. 15 </p> 
+ <a href="https://www.nytimes.com/2021/11/15/us/politics/pat-leahy-senate-retire.html">Patrick Leahy Announces He Will Retire From the U.S. Senate</a> NYT: At age 81, the Vermont Democrat has served in the Senate for nearly half a century. 
+ <p class="updated_time"> 12:48 PM CT, Nov. 15 </p> 
+ <a href="https://www.nytimes.com/2021/11/15/us/politics/whats-in-the-infrastructure-bill.html">Here's What's in the Infrastructure Bill Biden Will Sign Today</a> NYT: In total, the measure contains $550 billion in new funds to be spread around different areas of need. 
+ <p class="updated_time"> 12:35 PM CT, Nov. 15 </p> 
+ <a href="https://www.cnn.com/2021/11/15/politics/patrick-leahy-retirement-announcement/index.html">Patrick Leahy, longest serving US senator still in office, announces he won't seek reelection</a> CNN: Patrick Leahy, a Vermont Democrat and the longest serving US senator still in office, announced Monday he won't seek reelection next year. 
  <p class="updated_time"> 12:29 PM CT, Nov. 15 </p> 
  <a href="https://www.politico.com/news/2021/11/15/us-space-debris-russia-satellites-522406">U.S. warns of space debris after reports that Russia destroyed one of its satellites</a> Politico: A defense official confirmed to POLITICO the debris was the result of an anti-satellite test conducted by Russia over the weekend. 
- <p class="updated_time"> 12:19 PM CT, Nov. 15 </p> 
- <a href="https://www.nytimes.com/2021/11/15/us/politics/pat-leahy-senate-retire.html">Patrick Leahy Announces He Will Retire From the U.S. Senate</a> NYT: At age 81, the Vermont Democrat has served in the Senate for nearly half a century. 
  <p class="updated_time"> 12:16 PM CT, Nov. 15 </p> 
  <a href="https://www.cnn.com/2021/11/15/politics/russia-anti-satellite-weapon-test-scn/index.html">US concerned that a Russian anti-satellite weapons test created a debris field in space</a> CNN: The US is concerned that Russia carried out a major anti-satellite weapons test over the weekend, two US officials told CNN. One of the officials said it may have created a potentially dangerous debris field in space. 
  <p class="updated_time"> 11:59 AM CT, Nov. 15 </p> 
@@ -234,8 +240,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/14/us/ghost-guns-homemade-firearms.html">‘Ghost Guns’: Firearm Kits Bought Online Fuel Epidemic of Violence</a> NYT: They are untraceable, assembled from parts and can be ordered by gang members, felons and even children. They are increasingly the lethal weapon of easy access around the U.S., but especially California. 
  <p class="updated_time"> 11:46 AM CT, Nov. 15 </p> 
  <a href="https://www.cnn.com/2021/11/15/politics/michael-flynn-one-religion/index.html">Ex-Trump adviser Michael Flynn's call for 'one religion' in the US garners swift condemnation</a> CNN: Former Trump national security adviser Michael Flynn's call for "one religion" in the US to win the battle of good versus evil has garnered sharp backlash from a range of critics. 
- <p class="updated_time"> 11:44 AM CT, Nov. 15 </p> 
- <a href="https://www.cnn.com/2021/11/15/politics/patrick-leahy-retirement-announcement/index.html">Patrick Leahy, longest serving US senator still in office, announces he won't seek reelection</a> CNN: Patrick Leahy, a Vermont Democrat and the longest serving US senator still in office, announced Monday he won't seek reelection next year. 
  <p class="updated_time"> 11:20 AM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/us/politics/republicans-2022-redistricting-maps.html">How Republicans Have an Edge in the Emerging 2022 Congressional Maps</a> NYT: On a highly distorted congressional map that is still taking shape, the party has added enough safe House districts to capture control of the chamber based on its redistricting edge alone. 
  <p class="updated_time"> 11:16 AM CT, Nov. 15 </p> 
@@ -249,7 +253,7 @@ permalink: /projects/news/
  <p class="updated_time"> 10:34 AM CT, Nov. 15 </p> 
  <a href="https://www.politico.com/news/2021/11/15/bannon-surrenders-to-fbi-522373">Bannon surrenders to FBI</a> Politico: The longtime Trump adviser faces prosecution on contempt of Congress charges. 
  <p class="updated_time"> 10:29 AM CT, Nov. 15 </p> 
- <a href="https://www.npr.org/2021/11/15/1055832976/steve-bannon-surrenders-contempt-of-congress-charges-jan-6">Steve Bannon has turned himself in on criminal contempt charges</a> NPR: Former president Donald Trump's one-time top adviser surrended to federal authorities on Monday. Bannon was indicted last week for defying a congressional subpoena related to the Jan. 6 Capitol riot. 
+ <a href="https://www.npr.org/2021/11/15/1055832976/steve-bannon-surrenders-contempt-of-congress-charges-jan-6">Steve Bannon has turned himself in on criminal contempt charges</a> NPR: Former President Donald Trump's onetime top adviser surrendered to federal authorities Monday. Bannon was indicted last week for defying a congressional subpoena related to the Jan. 6 Capitol riot. 
  <p class="updated_time"> 10:26 AM CT, Nov. 15 </p> 
  <a href="https://www.npr.org/2021/11/15/1055791697/vermont-sen-patrick-leahy-wont-seek-reelection-next-year">Vermont Sen. Patrick Leahy won't seek reelection next year</a> NPR: Leahy, 81, is the longest-serving member of the U.S. Senate. 
  <p class="updated_time"> 10:18 AM CT, Nov. 15 </p> 
@@ -276,8 +280,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/15/politics/beto-orourke-governor-texas-2022/index.html">O'Rourke announces bid to take on Greg Abbott in 2022 Texas gubernatorial race</a> CNN: Beto O'Rourke, the former congressman and 2020 Democratic presidential candidate, on Monday launched his campaign to unseat Texas Gov. Greg Abbott in 2022. 
  <p class="updated_time"> 09:11 AM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/us/politics/beto-orourke-texas-governor-announcement.html">Beto O’Rourke Announces Run for Texas Governor, Testing Democrats’ Strength</a> NYT: Mr. O’Rourke’s announcement on Monday sets the stage for a pitched political showdown over the future of the country’s largest Republican-led state. 
- <p class="updated_time"> 08:58 AM CT, Nov. 15 </p> 
- <a href="https://www.nytimes.com/2021/11/12/us/politics/bannon-indicted.html">Bannon Indicted on Contempt Charges Over House’s Capitol Riot Inquiry</a> NYT: Stephen K. Bannon, a former top aide to Donald Trump, had refused to comply with subpoenas from the House committee investigating the Jan. 6 attack on Congress. 
  <p class="updated_time"> 08:37 AM CT, Nov. 15 </p> 
  <a href="https://www.politico.com/news/2021/11/15/imprisoned-journalist-released-myanmar-522325">Imprisoned U.S. journalist released in Myanmar</a> Politico: Danny Fenster was arrested in May in the aftermath of a military coup in the Southeast Asian nation. 
  <p class="updated_time"> 08:35 AM CT, Nov. 15 </p> 
@@ -380,8 +382,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/13/1055575802/lack-of-american-ambassadors-is-hurting-foreign-goals-says-afsa-president">Lack of American ambassadors is hurting foreign goals, says AFSA president</a> NPR: NPR's Michel Martin speaks with Eric Rubin, president of the American Foreign Service Association, about the high number of diplomatic vacancies and how it's affecting President Biden's agenda. 
  <p class="updated_time"> 03:26 PM CT, Nov. 13 </p> 
  <a href="https://www.nytimes.com/2021/11/13/us/politics/tribal-lands-flooding-nuclear-waste.html">Flooding and Nuclear Waste Eat Away at a Tribe’s Ancestral Home</a> NYT: The federal government allowed a stockpile of spent fuel on a Minnesota reservation to balloon even as a dam project whittled down the amount of livable land. 
- <p class="updated_time"> 12:44 PM CT, Nov. 13 </p> 
- <a href="https://www.nytimes.com/2021/11/12/us/politics/kamala-harris-macron-france.html">In France, Kamala Harris Searches for Role on Global Stage</a> NYT: The vice president met with President Emmanuel Macron of France, skirting recent U.S.-French tensions, and immersed herself in issues like Libya and cybersecurity. 
  <p class="updated_time"> 11:00 AM CT, Nov. 13 </p> 
  <a href="https://www.cnn.com/2021/11/13/politics/midterms-democrats-biden-analysis/index.html">Analysis: History says Biden and Democrats probably won't recover by the midterms</a> CNN: President Joe Biden's approval rating is at its lowest point since he took office. His approval rating has slid into the low 40s this month. And while the President has plenty of time to recover before his potential reelection in 2024, history suggests that his chances of becoming popular and Democrats gaining ground by the midterms in 2022 are small. 
  <p class="updated_time"> 10:28 AM CT, Nov. 13 </p> 
