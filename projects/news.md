@@ -7,10 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:22 PM CT, Nov. 15 </p> 
+ <a href="https://www.nytimes.com/2021/11/15/world/canada/british-columbia-landslides.html">Landslides and Torrential Rains Batter British Columbia</a> NYT: Dozens of drivers were trapped by landslides, and the city of Merritt warned of a “mass sewage backup.” The rainfall was part of a system that also pummeled Washington State. 
+ <p class="updated_time"> 04:07 PM CT, Nov. 15 </p> 
+ <a href="https://www.nytimes.com/2021/11/15/world/europe/belarus-poland-eu-sanctions-migrants.html">Europe Adopts New Sanctions Against Belarus</a> NYT: A confrontation at the Polish-Belarusian border, a funeral for a dead Syrian boy trapped in between and a new round of E.U. sanctions mark the struggle with Aleksandr G. Lukashenko. 
  <p class="updated_time"> 03:46 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/world/middleeast/scorpions-egypt.html">Four-Inch Scorpions Called Deathstalkers Descend on Egypt</a> NYT: Swept from desert burrows, hundreds, if not thousands, of scorpions skittered into villages, stinging at least 503 people. 
- <p class="updated_time"> 03:37 PM CT, Nov. 15 </p> 
- <a href="https://www.nytimes.com/2021/11/15/world/canada/british-columbia-landslides.html">Landslides and Torrential Rains Batter British Columbia</a> NYT: Dozens of drivers were trapped by landslides, and the city of Merritt warned of a “mass sewage backup.” The rainfall was part of a system that also pummeled Washington State. 
  <p class="updated_time"> 03:22 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/world/asia/myanmar-danny-fenster-release.html">U.S. Journalist Danny Fenster Is Freed From Myanmar Prison</a> NYT: The release was a rare positive development in the country, which has been torn by violence since a February coup. 
  <p class="updated_time"> 03:17 PM CT, Nov. 15 </p> 
@@ -29,8 +31,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59289998?at_medium=RSS&at_campaign=KARANGA">Poland border crisis: EU to widen Belarus sanctions as row intensifies</a> BBC: The crisis intensifies as hundreds more migrants arrive at the border with Poland. 
  <p class="updated_time"> 01:57 PM CT, Nov. 15 </p> 
  <a href="https://www.bbc.co.uk/news/59253089?at_medium=RSS&at_campaign=KARANGA">Steve Bannon surrenders to face contempt charges</a> BBC: Mr Bannon, a former White House advisor to Donald Trump, has surrendered to FBI officials. 
- <p class="updated_time"> 01:16 PM CT, Nov. 15 </p> 
- <a href="https://www.nytimes.com/2021/11/15/world/europe/belarus-poland-eu-sanctions-migrants.html">Europe Adopts New Sanctions Against Belarus</a> NYT: A confrontation at the Polish-Belarusian border, a funeral for a dead Syrian boy trapped in between and a new round of E.U. sanctions mark the struggle with Aleksandr G. Lukashenko. 
  <p class="updated_time"> 01:05 PM CT, Nov. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59298320?at_medium=RSS&at_campaign=KARANGA">Sandy Hook: Alex Jones liable in defamation lawsuit</a> BBC: The radio host spread false claims that the 2012 school shooting had been faked to push gun control. 
  <p class="updated_time"> 01:01 PM CT, Nov. 15 </p> 
@@ -216,36 +216,42 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:18 PM CT, Nov. 15 </p> 
+ <a href="https://www.politico.com/news/2021/11/15/trump-west-virginia-mooney-mckinley-522608">Trump wades into West Virginia member-vs-member race</a> Politico: The former president endorsed Alex Mooney over David McKinley in the matchup between two House GOP incumbents. 
  <p class="updated_time"> 04:32 PM CT, Nov. 15 </p> 
  <a href="https://www.politico.com/news/2021/11/15/biden-signs-bipartisan-infrastructure-deal-522567">Biden signs bipartisan infrastructure deal</a> Politico: The $550 billion package delivers a legislative victory to the president, who has seen his poll numbers steadily decline. 
+ <p class="updated_time"> 04:23 PM CT, Nov. 15 </p> 
+ <a href="https://www.cnn.com/2021/11/15/politics/chris-christie-donald-trump-january-6-cnntv/index.html">Chris Christie blames Trump's rhetoric about stolen election for January 6 insurrection </a> CNN: Former New Jersey Gov. Chris Christie said he believes the insurrection at the US Capitol on January 6 was the result of former President Donald Trump's lie that the 2020 presidential election was stolen. 
+ <p class="updated_time"> 04:17 PM CT, Nov. 15 </p> 
+ <a href="https://www.cnn.com/2021/11/15/politics/biden-signing-ceremony-infrastructure-bill-white-house/index.html">Biden signs infrastructure bill into law at rare bipartisan gathering</a> CNN: President Joe Biden signs the $1.2 trillion bipartisan infrastructure package into law Monday afternoon, seeking a jolt of momentum for his presidency as he commemorates a major legislative victory with pomp and circumstance on the White House South Lawn. 
+ <p class="updated_time"> 04:10 PM CT, Nov. 15 </p> 
+ <a href="https://www.nytimes.com/2021/11/15/us/politics/alex-jones-sandy-hook.html">Alex Jones Liable in Sandy Hook Defamation Suits</a> NYT: A Connecticut judge’s ruling combines with decisions in Texas to grant a clean sweep for families of shooting victims in their cases against the Infowars host. 
+ <p class="updated_time"> 04:00 PM CT, Nov. 15 </p> 
+ <a href="https://www.cnn.com/2021/11/15/politics/white-house-defends-harris/index.html">White House defends Harris as 'key partner' to Biden amid reports of dysfunction</a> CNN: The White House on Monday defended Vice President Kamala Harris as a "key partner" to President Joe Biden following CNN reporting that key West Wing aides are exasperated by what they see as entrenched dysfunction and lack of focus from Harris and her staff, while many in the vice president's circle believe Harris is being sidelined. 
+ <p class="updated_time"> 03:59 PM CT, Nov. 15 </p> 
+ <a href="https://www.nytimes.com/2021/11/15/business/energy-environment/gas-prices-inflation.html">With Gas Prices High, Calls Grow to Tap Strategic Oil Reserve</a> NYT: President Biden is under pressure to release oil from the Strategic Petroleum Reserve. Here’s how it works, and how it might lower prices (modestly, and maybe not for long). 
+ <p class="updated_time"> 03:59 PM CT, Nov. 15 </p> 
+ <a href="https://www.nytimes.com/2021/11/15/us/politics/biden-signs-infrastructure-bill.html">Biden Signs $1 Trillion Infrastructure Bill Into Law</a> NYT: Billions of dollars will now pour into American communities, although the final bill falls short of the president’s ambitions. 
  <p class="updated_time"> 03:53 PM CT, Nov. 15 </p> 
  <a href="https://www.politico.com/news/2021/11/15/pentagon-oklahoma-guard-comply-vaccine-mandate-522523">Pentagon: Oklahoma Guard must comply with vaccine mandate</a> Politico: "It is a lawful order for National Guardsmen to receive the Covid vaccine. It is a lawful order," Defense Department press secretary John Kirby told reporters. 
  <p class="updated_time"> 03:46 PM CT, Nov. 15 </p> 
  <a href="https://www.cnn.com/2021/11/15/politics/russia-anti-satellite-weapon-test-scn/index.html">US concerned that a Russian anti-satellite weapons test created a debris field in space</a> CNN: The US is concerned that Russia carried out a major anti-satellite weapons test over the weekend, two US officials told CNN. One of the officials said it may have created a potentially dangerous debris field in space. 
  <p class="updated_time"> 03:45 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/us/politics/whats-in-the-infrastructure-bill.html">Here's What's in the Infrastructure Bill Biden Will Sign Today</a> NYT: In total, the measure contains $550 billion in new funds to be spread around different areas of need. 
- <p class="updated_time"> 03:38 PM CT, Nov. 15 </p> 
- <a href="https://www.nytimes.com/2021/11/15/business/energy-environment/gas-prices-inflation.html">With Gas Prices High, Calls Grow to Tap Strategic Oil Reserve</a> NYT: President Biden is under pressure to release oil from the Strategic Petroleum Reserve. Here’s how it works, and how it might lower prices (modestly, and maybe not for long). 
  <p class="updated_time"> 03:34 PM CT, Nov. 15 </p> 
  <a href="https://www.cnn.com/2021/11/15/politics/us-military-airstrike-syria-civilians/index.html">US admits it killed multiple civilians in Syria air strikes days before fall of ISIS in 2019</a> CNN: The US acknowledged for the first time that previously undisclosed airstrikes in Syria carried out days before the fall of ISIS in 2019 killed multiple civilians, including women and children, according to US Central Command. 
- <p class="updated_time"> 03:22 PM CT, Nov. 15 </p> 
- <a href="https://www.cnn.com/2021/11/15/politics/biden-signing-ceremony-infrastructure-bill-white-house/index.html">Biden signs infrastructure bill into law at rare bipartisan gathering</a> CNN: President Joe Biden signs the $1.2 trillion bipartisan infrastructure package into law Monday afternoon, seeking a jolt of momentum for his presidency as he commemorates a major legislative victory with pomp and circumstance on the White House South Lawn. 
  <p class="updated_time"> 03:19 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/us/politics/supreme-court-death-penalty.html">Supreme Court Shows Impatience in Death Penalty Cases</a> NYT: Recent rulings, including one turning down a death row inmate’s request supported by the prosecution, offer telling glimpses of the state of capital punishment. 
  <p class="updated_time"> 03:14 PM CT, Nov. 15 </p> 
  <a href="https://www.politico.com/news/2021/11/15/biden-putin-russia-522515">Biden tried to push Putin aside. The Russian isn’t having it.</a> Politico: Putin’s troop buildup near Ukraine is spurring criticism that President Biden and his team aren’t tough enough on the Kremlin. 
  <p class="updated_time"> 03:08 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/14/us/ghost-guns-homemade-firearms.html">‘Ghost Guns’: Firearm Kits Bought Online Fuel Epidemic of Violence</a> NYT: They are untraceable, assembled from parts and can be ordered by gang members, felons and even children. They are increasingly the lethal weapon of easy access around the U.S., but especially California. 
- <p class="updated_time"> 03:04 PM CT, Nov. 15 </p> 
- <a href="https://www.cnn.com/2021/11/15/politics/chris-christie-donald-trump-january-6-cnntv/index.html">Chris Christie blames Trump's rhetoric about stolen election for January 6 insurrection </a> CNN: Former New Jersey Gov. Chris Christie said he believes the insurrection at the US Capitol on January 6 was the result of former President Donald Trump's lie that the 2020 presidential election was stolen. 
  <p class="updated_time"> 03:00 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/world/asia/us-china-tensions-explained.html">U.S.-China Relations: What to Know</a> NYT: The Biden administration has called managing America’s relationship with Beijing “the biggest geopolitical test of the 21st century.” 
  <p class="updated_time"> 02:49 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/us/politics/biden-social-policy-bill-irs.html">How Revenue for Biden's Social Policy Bill Depends on the I.R.S.</a> NYT: The head of the Congressional Budget Office said on Monday that beefed-up tax enforcement would raise far less money than the White House projected. 
  <p class="updated_time"> 02:38 PM CT, Nov. 15 </p> 
  <a href="https://www.cnn.com/2021/11/15/politics/steve-bannon/index.html">Steve Bannon released from custody pending trial on contempt of Congress charges</a> CNN: Steve Bannon, a former adviser to former President Donald Trump, turned himself in to the FBI Monday morning to self-surrender after being indicted on criminal contempt charges on Friday. 
- <p class="updated_time"> 02:23 PM CT, Nov. 15 </p> 
- <a href="https://www.cnn.com/2021/11/15/politics/white-house-defends-harris/index.html">White House defends Harris as 'key partner' to Biden amid reports of dysfunction</a> CNN: The White House on Monday defended Vice President Kamala Harris as a "key partner" to President Joe Biden following CNN reporting that key West Wing aides are exasperated by what they see as entrenched dysfunction and lack of focus from Harris and her staff, while many in the vice president's circle believe Harris is being sidelined. 
  <p class="updated_time"> 01:56 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/us/politics/bannon-congress-trump-jan-6.html">Steve Bannon turns himself in on contempt of Congress charges.</a> NYT: The former aide to President Donald J. Trump had refused to comply with a demand for information from the House committee investigating the Jan. 6 Capitol riot. 
  <p class="updated_time"> 01:41 PM CT, Nov. 15 </p> 
@@ -256,8 +262,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/15/politics/patrick-leahy-retirement-announcement/index.html">Patrick Leahy, longest serving US senator still in office, announces he won't seek reelection</a> CNN: Patrick Leahy, a Vermont Democrat and the longest serving US senator still in office, announced Monday he won't seek reelection next year. 
  <p class="updated_time"> 12:29 PM CT, Nov. 15 </p> 
  <a href="https://www.politico.com/news/2021/11/15/us-space-debris-russia-satellites-522406">'Irresponsible act': U.S. raps Russia after missile strike on its own satellite</a> Politico: The resulting debris field forced astronauts and cosmonauts aboard the International Space Station to seek shelter. 
- <p class="updated_time"> 11:59 AM CT, Nov. 15 </p> 
- <a href="https://www.nytimes.com/2021/11/15/us/politics/alex-jones-sandy-hook.html">Alex Jones Liable in Sandy Hook Defamation Suits</a> NYT: A Connecticut judge’s ruling combines with decisions in Texas to grant a clean sweep for families of shooting victims in their cases against the Infowars host. 
  <p class="updated_time"> 11:58 AM CT, Nov. 15 </p> 
  <a href="https://www.cnn.com/2021/11/15/politics/biden-missing-native-americans-order/index.html">Biden signs order to address 'crisis of violence' against Native Americans at White House summit</a> CNN: President Joe Biden is expected to sign an executive order Monday directing federal agencies, including the departments of Justice, Interior and Homeland Security, to create a strategy addressing what the administration calls an "epidemic" of missing or murdered Indigenous people. 
  <p class="updated_time"> 11:55 AM CT, Nov. 15 </p> 
@@ -340,16 +344,12 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/14/steve-bannon-contempt-indictment-trump-522151">Opinion | Steve Bannon’s Contempt Indictment Isn’t All that Trump Foes Think It Is</a> Politico: His contempt charge is good news for Congress, but it’s probably not the first in a wave of similar prosecutions. 
  <p class="updated_time"> 05:05 PM CT, Nov. 14 </p> 
  <a href="https://www.politico.com/news/2021/11/14/biden-successor-2024-kamala-harris-522160">Biden-successor chatter grows and Harris isn’t scaring off anyone</a> Politico: There’s been an unusual amount of 2024 talk for a president who says he’s running again. It hasn't been uniformly positive for his vice president. 
- <p class="updated_time"> 05:03 PM CT, Nov. 14 </p> 
- <a href="https://www.politico.com/news/2021/11/14/trump-china-trespass-deport-522184">Mar-a-Lago trespasser deported to China 2 years later</a> Politico: The pandemic delayed her return to China. 
  <p class="updated_time"> 04:02 PM CT, Nov. 14 </p> 
  <a href="https://www.politico.com/news/2021/11/14/biden-xi-meeting-expectations-522136">Don’t call it a ‘summit’: Biden-Xi meeting brings low expectations</a> Politico: Despite downbeat official messaging, look for bilateral “sweeteners” to dial down tensions. 
  <p class="updated_time"> 03:55 PM CT, Nov. 14 </p> 
  <a href="https://www.npr.org/2021/11/14/1055696923/in-drought-plagued-new-mexico-farmer-places-high-hopes-in-infrastructure-bill">In drought-plagued New Mexico, farmer places high hopes in infrastructure bill</a> NPR: NPR's Michel Martin speaks with Greg Daviet, a pecan farmer in Las Cruces, N.M., about how the infrastructure plan passed by Congress may affect his business. 
  <p class="updated_time"> 03:05 PM CT, Nov. 14 </p> 
  <a href="https://www.nytimes.com/2021/11/14/business/economy/farm-exports-supply-chain-ports.html">Supply Chain Disruptions May Mean Crisis for U.S. Farms</a> NYT: Backlogs and cancellations are hitting growers as costs rise, profits slump and overseas customers shop elsewhere. 
- <p class="updated_time"> 01:24 PM CT, Nov. 14 </p> 
- <a href="https://www.politico.com/news/2021/11/14/catholic-bishops-biden-abortion-522105">U.S. Catholic bishops may dodge rebuke of Biden over abortion</a> Politico: While some bishops have said they would deny Communion to the president, there is no national policy on the matter. 
  <p class="updated_time"> 12:00 PM CT, Nov. 14 </p> 
  <a href="https://www.cnn.com/2021/11/14/politics/january-6-jail-complaints-washington-dc/index.html">Insurrectionists' jail complaints lead to overdue reform within DC's jail system</a> CNN: A scathing report by the US Marshals Service this month uncovered the deplorable conditions inside one of the three facilities within the Washington, DC, jail, citing systemic failures like lack of water, inadequate quality of food and standing human sewage. 
  <p class="updated_time"> 11:56 AM CT, Nov. 14 </p> 
@@ -390,8 +390,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/13/cop26-climate-deal-vulnerable-countries-521446">Countries strike a climate deal that’s ‘too late’ for some, too much for others</a> Politico: Compromise in Glasgow pushes efforts into next year. 
  <p class="updated_time"> 04:04 PM CT, Nov. 13 </p> 
  <a href="https://www.npr.org/2021/11/13/1055575802/lack-of-american-ambassadors-is-hurting-foreign-goals-says-afsa-president">Lack of American ambassadors is hurting foreign goals, says AFSA president</a> NPR: NPR's Michel Martin speaks with Eric Rubin, president of the American Foreign Service Association, about the high number of diplomatic vacancies and how it's affecting President Biden's agenda. 
- <p class="updated_time"> 03:26 PM CT, Nov. 13 </p> 
- <a href="https://www.nytimes.com/2021/11/13/us/politics/tribal-lands-flooding-nuclear-waste.html">Flooding and Nuclear Waste Eat Away at a Tribe’s Ancestral Home</a> NYT: The federal government allowed a stockpile of spent fuel on a Minnesota reservation to balloon even as a dam project whittled down the amount of livable land. 
  <p class="updated_time"> 10:28 AM CT, Nov. 13 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/13/bannon-indicted-britney-freed-495092">POLITICO Playbook: Bannon indicted, Britney freed</a> Politico: And an appeals court extends a stay for the Biden administration's vaccine-or-test mandate. 
  <p class="updated_time"> 07:02 AM CT, Nov. 13 </p> 
