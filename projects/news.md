@@ -218,12 +218,16 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:44 AM CT, Nov. 15 </p> 
+ <a href="https://www.politico.com/news/2021/11/15/jeffrey-epstein-ghislaine-maxwell-522349">Jeffrey Epstein faces trial by proxy: Ghislaine Maxwell</a> Politico: Maxwell, 59, has pleaded not guilty to charges she groomed underage victims to have unwanted sex with Epstein. She has vehemently denied wrongdoing. 
+ <p class="updated_time"> 09:29 AM CT, Nov. 15 </p> 
+ <a href="https://www.politico.com/news/2021/11/15/beto-orourke-texas-governor-campaign-522336">Beto O’Rourke jumps into Texas governor’s race</a> Politico: The race represents a comeback bid for O’Rourke, who became a Democratic sensation during a failed Senate run in 2018 but whose 2020 presidential primary campaign fell flat. 
+ <p class="updated_time"> 08:40 AM CT, Nov. 15 </p> 
+ <a href="https://www.cnn.com/2021/11/15/politics/beto-orourke-governor-texas-2022/index.html">O'Rourke announces bid to take on Greg Abbott in 2022 Texas gubernatorial race</a> CNN: Beto O'Rourke, the former congressman and 2020 Democratic presidential candidate, on Monday launched his campaign to unseat Texas Gov. Greg Abbott in 2022. 
  <p class="updated_time"> 08:37 AM CT, Nov. 15 </p> 
  <a href="https://www.politico.com/news/2021/11/15/imprisoned-journalist-released-myanmar-522325">Imprisoned U.S. journalist released in Myanmar</a> Politico: Danny Fenster was arrested in May in the aftermath of a military coup in the Southeast Asian nation. 
  <p class="updated_time"> 08:35 AM CT, Nov. 15 </p> 
  <a href="https://www.cnn.com/2021/11/15/politics/biden-signing-ceremony-infrastructure-bill-white-house/index.html">Biden set to sign infrastructure bill into law</a> CNN: President Joe Biden signs the $1.2 trillion bipartisan infrastructure package into law Monday afternoon, seeking a jolt of momentum for his presidency as he commemorates a major legislative victory with pomp and circumstance on the White House South Lawn. 
- <p class="updated_time"> 08:28 AM CT, Nov. 15 </p> 
- <a href="https://www.cnn.com/2021/11/15/politics/beto-orourke-governor-texas-2022/index.html">O'Rourke announces bid to take on Greg Abbott in 2022 Texas gubernatorial race</a> CNN: Beto O'Rourke, the former congressman and 2020 Democratic presidential candidate, on Monday launched his campaign to unseat Texas Gov. Greg Abbott in 2022. 
  <p class="updated_time"> 08:18 AM CT, Nov. 15 </p> 
  <a href="https://www.cnn.com/2021/11/15/politics/biden-drilling-ban/index.html">Biden to propose 20-year ban on new oil drilling near Native American site in New Mexico</a> CNN: President Joe Biden will announce Monday a proposal for a 20-year ban on new oil and gas drilling near Chaco Canyon in New Mexico -- one of the oldest Native American sites in the US -- White House officials said. 
  <p class="updated_time"> 08:12 AM CT, Nov. 15 </p> 
@@ -328,6 +332,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/14/1055640638/week-in-politics-infrastructure-bill-provides-money-for-bridges-broadband-and-mo">Week in politics: Infrastructure bill provides money for bridges, broadband and more</a> NPR: At long last, President Biden plans to sign the bipartisan infrastructure bill Monday. Plus, he'll attend a virtual summit with Chinese leader Xi Jinping. 
  <p class="updated_time"> 07:05 AM CT, Nov. 14 </p> 
  <a href="https://www.npr.org/2021/11/14/1055640610/vice-president-harris-returns-from-diplomatic-debut-in-europe">Vice President Harris returns from diplomatic debut in Europe</a> NPR: Vice President Harris is back from France, where she took center stage among a large group of world leaders. 
+ <p class="updated_time"> 07:01 AM CT, Nov. 14 </p> 
+ <a href="https://www.politico.com/news/2021/11/14/gop-trump-pennsylvania-suburbs-521655">GOP roars back to life in Trump-resistant Pennsylvania suburbs</a> Politico: The Republican rebound suggests the Democratic suburban slide reaches beyond Virginia and New Jersey. 
  <p class="updated_time"> 06:00 AM CT, Nov. 14 </p> 
  <a href="https://www.npr.org/2021/11/14/1055508416/doug-emhoff-is-americas-first-second-gentleman-in-paris-he-showed-what-that-mean">Doug Emhoff is America's first second gentleman. In Paris, he showed what that means</a> NPR: Doug Emhoff, the husband of Vice President Harris, is taking a very traditional approach to his role of second spouse. The Paris trip was their first diplomatic trip abroad. 
  <p class="updated_time"> 06:00 AM CT, Nov. 14 </p> 
@@ -384,8 +390,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/12/us/politics/bannon-indicted.html">Bannon Indicted on Contempt Charges Over House’s Capitol Riot Inquiry</a> NYT: Stephen K. Bannon, a former top aide to Donald Trump, had refused to comply with subpoenas from the House committee investigating the Jan. 6 attack on Congress. 
  <p class="updated_time"> 03:05 PM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/us/politics/pell-grants-for-profit-colleges-aid.html">Democrats’ Bill Would Deny For-Profit College Students Extra Aid</a> NYT: Critics say a little-noticed provision would hurt the very constituencies — people of color, the working class, low-income Americans — that the party typically champions. 
- <p class="updated_time"> 01:42 PM CT, Nov. 12 </p> 
- <a href="https://www.politico.com/news/2021/11/12/russia-ukraine-invasion-putin-521139">U.S. huddles with allies over possible Russian invasion of Ukraine</a> Politico: The uptick in American concern, confirmed by two U.S. officials, indicates that President Joe Biden’s efforts to reach some sort of equilibrium with Putin are running out of steam. 
  <p class="updated_time"> 01:40 PM CT, Nov. 12 </p> 
  <a href="https://www.cnn.com/2021/11/12/politics/psaki-returns-white-house-covid/index.html">Jen Psaki returns to White House briefing room after testing positive for Covid-19</a> CNN: White House press secretary Jen Psaki returned to the White House briefing room Friday for the first time since testing positive for Covid-19, telling reporters she completed a 10-day quarantine and received a negative Covid-19 test on Thursday. 
  <p class="updated_time"> 01:18 PM CT, Nov. 12 </p> 
