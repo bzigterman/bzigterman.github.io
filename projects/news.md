@@ -7,8 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 10:09 PM CT, Nov. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59286623?at_medium=RSS&at_campaign=KARANGA">Astroworld: Boy, nine, dies 10 days after crush at Travis Scott festival</a> BBC: Ezra Blount is the youngest of 10 people killed after panic broke out during rapper Travis Scott's show. 
+ <p class="updated_time"> 10:33 PM CT, Nov. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59286623?at_medium=RSS&at_campaign=KARANGA">Astroworld: Boy, nine, dies days after crush at Travis Scott festival</a> BBC: Ezra Blount is the youngest of 10 people killed after panic broke out during rapper Travis Scott's show. 
+ <p class="updated_time"> 10:21 PM CT, Nov. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59286773?at_medium=RSS&at_campaign=KARANGA">'I had concerns about marriage', admits Malala Yousafzai</a> BBC: The Nobel laureate says she previously questioned marriage and the "imbalance of power". 
+ <p class="updated_time"> 10:08 PM CT, Nov. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/business-59257319?at_medium=RSS&at_campaign=KARANGA">Trump Organization selling Washington hotel for $375m, reports say</a> BBC: The historic building will reportedly be renamed the Waldorf Astoria and managed by the Hilton group. 
  <p class="updated_time"> 08:43 PM CT, Nov. 14 </p> 
  <a href="https://www.nytimes.com/2021/11/14/world/europe/liverpool-hospital-car-explosion.html">Taxi Explodes Outside Liverpool Hospital, Killing One</a> NYT: Three men in their twenties were arrested under Britain’s Terrorism Act several hours after the explosion, in which a second person was injured, the authorities said. 
  <p class="updated_time"> 08:05 PM CT, Nov. 14 </p> 
@@ -67,8 +71,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/14/world/middleeast/iran-earthquake.html">At Least 1 Dead After Quakes Strike Southern Iran</a> NYT: Two moderate temblors hit Hormozgan Province on Sunday afternoon, state TV reported. 
  <p class="updated_time"> 10:35 AM CT, Nov. 14 </p> 
  <a href="https://www.nytimes.com/2021/11/14/world/americas/cuba-protest.html">In Cuba, Desires for Food and Freedom May Spark a Rare Day of Protest</a> NYT: Young dissidents who rely on the internet to spread their ideas are calling for a protest on Monday, a bold move with little precedent in Cuba. 
- <p class="updated_time"> 08:49 AM CT, Nov. 14 </p> 
- <a href="https://www.bbc.co.uk/news/uk-59280241?at_medium=RSS&at_campaign=KARANGA">China and India must explain themselves - COP president</a> BBC: COP26 President Alok Sharma speaks after an agreement to "phase down" coal rather than "phase out". 
  <p class="updated_time"> 08:26 AM CT, Nov. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59280215?at_medium=RSS&at_campaign=KARANGA">Saif al-Islam Gaddafi: Son of Libya ex-ruler runs for president</a> BBC: Saif al-Islam Gaddafi, wanted on war crimes charges at an international court, registers as a candidate. 
  <p class="updated_time"> 07:45 AM CT, Nov. 14 </p> 
@@ -214,14 +216,14 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:40 PM CT, Nov. 14 </p> 
+ <a href="https://www.cnn.com/2021/11/14/politics/mitch-landrieu-biden-infrastructure/index.html">Biden taps former New Orleans mayor to oversee implementation of massive infrastructure bill</a> CNN: President Joe Biden has selected former New Orleans Mayor Mitch Landrieu to oversee the implementation of the roughly $1 trillion bipartisan infrastructure bill, the White House announced Sunday evening. 
  <p class="updated_time"> 10:07 PM CT, Nov. 14 </p> 
  <a href="https://www.nytimes.com/2021/11/14/us/politics/religious-groups-child-care.html">Faith Groups Push to Scrap Mandates in Biden’s Child Care Plan</a> NYT: A nondiscrimination provision in the $1.85 trillion social policy bill could disqualify some religious organizations, spurring a fight over who can benefit from President Biden’s landmark bill. 
  <p class="updated_time"> 08:07 PM CT, Nov. 14 </p> 
  <a href="https://www.cnn.com/2021/11/14/politics/kamala-harris-frustrating-start-vice-president/index.html">Exasperation and dysfunction: Inside Kamala Harris' frustrating start as vice president </a> CNN: Worn out by what they see as entrenched dysfunction and lack of focus, key West Wing aides have largely thrown up their hands at Vice President Kamala Harris and her staff -- deciding there simply isn't time to deal with them right now, especially at a moment when President Joe Biden faces quickly multiplying legislative and political concerns. 
  <p class="updated_time"> 07:35 PM CT, Nov. 14 </p> 
  <a href="https://www.nytimes.com/2021/11/14/us/politics/trump-hotel-sale.html">Trump to Sell Marquee Washington Hotel for at Least $375 Million</a> NYT: The pending deal to sell the Trump International Hotel, often the subject of controversy during his presidency, comes after years of financial losses at the property. 
- <p class="updated_time"> 06:34 PM CT, Nov. 14 </p> 
- <a href="https://www.cnn.com/2021/11/14/politics/mitch-landrieu-biden-infrastructure/index.html">Biden taps former New Orleans mayor to oversee implementation of massive infrastructure bill</a> CNN: President Joe Biden has selected former New Orleans Mayor Mitch Landrieu to oversee the implementation of the roughly $1 trillion bipartisan infrastructure bill, the White House announced Sunday evening. 
  <p class="updated_time"> 06:30 PM CT, Nov. 14 </p> 
  <a href="https://www.nytimes.com/2021/11/14/us/politics/biden-mitch-landrieu-infrastructure.html">Biden Names Mitch Landrieu to Oversee Infrastructure Spending</a> NYT: Mr. Landrieu, a former mayor of New Orleans, will supervise the distribution of funds from the bipartisan legislation that the president will sign into law on Monday. 
  <p class="updated_time"> 05:13 PM CT, Nov. 14 </p> 
