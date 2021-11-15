@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:44 AM CT, Nov. 15 </p> 
+ <p class="updated_time"> 05:04 AM CT, Nov. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59290412?at_medium=RSS&at_campaign=KARANGA">Danny Fenster: US journalist freed from Myanmar jail</a> BBC: Danny Fenster will be allowed to leave the country just days after getting an 11-year sentence. 
  <p class="updated_time"> 04:34 AM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/world/asia/myanmar-fenster-release.html">U.S. Journalist Danny Fenster Is Freed From Myanmar Prison</a> NYT: The release was a rare positive development in the country, which has been torn apart by violence since a February coup. 
@@ -210,8 +210,14 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:00 AM CT, Nov. 15 </p> 
+ <a href="https://www.politico.com/news/2021/11/15/dc-new-top-cop-steve-bannon-522259">D.C.'s new top cop vs. Steve Bannon</a> Politico: Matthew Graves has represented Ben Carson and Gazprom — but overseeing hundreds of Jan. 6 prosecutions will bring a different level of scrutiny. 
  <p class="updated_time"> 04:31 AM CT, Nov. 15 </p> 
  <a href="https://www.politico.com/news/2021/11/15/gop-trump-budget-congress-521209">GOP weighs trapping Democrats in Trump’s budget</a> Politico: Democrats are working to negotiate a government funding deal, but Republicans have a long list of demands before they'll come to the table. 
+ <p class="updated_time"> 04:30 AM CT, Nov. 15 </p> 
+ <a href="https://www.politico.com/news/2021/11/15/andrew-cuomo-wont-leave-ny-521205">Cuomo won’t leave New York alone</a> Politico: Even as Albany’s insiders focus on Andrew Cuomo’s successor, Gov. Kathy Hochul, they privately continue worrying about what he might be up to. 
+ <p class="updated_time"> 04:30 AM CT, Nov. 15 </p> 
+ <a href="https://www.politico.com/news/2021/11/15/mcconnell-disinvite-trump-biden-inaugural-522253">McConnell sought to disinvite Trump from Biden’s inaugural</a> Politico: According to a new book from Jonathan Karl, Trump got wind of the plan and preemptively announced he wasn’t attending 
  <p class="updated_time"> 04:30 AM CT, Nov. 15 </p> 
  <a href="https://www.politico.com/news/2021/11/15/democrats-reconciliation-health-care-midterms-521959">Dems' bitter pill: Popular health provisions won't kick in until after the midterms</a> Politico: There was little they could have done to speed up implementation of key parts of their bill. They’re hoping voters will reward them regardless. 
  <p class="updated_time"> 04:00 AM CT, Nov. 15 </p> 
@@ -288,10 +294,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/14/1055640610/vice-president-harris-returns-from-diplomatic-debut-in-europe">Vice President Harris returns from diplomatic debut in Europe</a> NPR: Vice President Harris is back from France, where she took center stage among a large group of world leaders. 
  <p class="updated_time"> 07:01 AM CT, Nov. 14 </p> 
  <a href="https://www.cnn.com/2021/11/14/politics/covid-vaccine-misinformation-fact-check/index.html">Fact-checking 5 viral Covid-19 vaccine falsehoods</a> CNN: Since vaccines were first authorized for use nearly a year ago, swarms of anti-vaxxers have pushed a variety of unfounded claims suggesting the vaccine is unsafe and urging people not to receive one. 
- <p class="updated_time"> 07:01 AM CT, Nov. 14 </p> 
- <a href="https://www.politico.com/news/2021/11/14/gop-trump-pennsylvania-suburbs-521655">GOP roars back to life in Trump-resistant Pennsylvania suburbs</a> Politico: The Republican rebound suggests the Democratic suburban slide reaches beyond Virginia and New Jersey. 
- <p class="updated_time"> 06:30 AM CT, Nov. 14 </p> 
- <a href="https://www.politico.com/news/2021/11/14/tobacco-lawsuits-biden-menthol-ban-521174">Tobacco lawsuits could upend Biden's plan for historic menthol ban</a> Politico: The agency’s effort to decide which e-cigarettes can stay on the market could force it to confront the menthol question much sooner. 
  <p class="updated_time"> 06:00 AM CT, Nov. 14 </p> 
  <a href="https://www.npr.org/2021/11/14/1055508416/doug-emhoff-is-americas-first-second-gentleman-in-paris-he-showed-what-that-mean">Doug Emhoff is America's first second gentleman. In Paris, he showed what that means</a> NPR: Doug Emhoff, the husband of Vice President Harris, is taking a very traditional approach to his role of second spouse. The Paris trip was their first diplomatic trip abroad. 
  <p class="updated_time"> 06:00 AM CT, Nov. 14 </p> 
@@ -324,12 +326,8 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/13/politics/midterms-democrats-biden-analysis/index.html">History says Biden and Democrats probably won't recover by the midterms</a> CNN: President Joe Biden's approval rating is at its lowest point since he took office. His approval rating has slid into the low 40s this month. And while the President has plenty of time to recover before his potential reelection in 2024, history suggests that his chances of becoming popular and Democrats gaining ground by the midterms in 2022 are small. 
  <p class="updated_time"> 10:28 AM CT, Nov. 13 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/13/bannon-indicted-britney-freed-495092">POLITICO Playbook: Bannon indicted, Britney freed</a> Politico: And an appeals court extends a stay for the Biden administration's vaccine-or-test mandate. 
- <p class="updated_time"> 10:16 AM CT, Nov. 13 </p> 
- <a href="https://www.politico.com/news/2021/11/13/raid-veritas-okeefe-biden-press-521307">FBI raid on Project Veritas founder’s home sparks questions about press freedom</a> Politico: The action against James O’Keefe has prompted concern about the Biden administration’s commitment to the First Amendment. 
  <p class="updated_time"> 09:39 AM CT, Nov. 13 </p> 
  <a href="https://www.nytimes.com/2021/11/13/us/politics/chris-christie-book-trump.html">What's in Chris Christie's New Book</a> NYT: In a new book and in an interview, Mr. Christie says that if the former president wants to be a positive force, “he’s got to let this other stuff go.” 
- <p class="updated_time"> 07:02 AM CT, Nov. 13 </p> 
- <a href="https://www.politico.com/news/2021/11/13/democrats-drug-prices-521213">Dems’ plan to limit drug price inflation faces test in Senate</a> Politico: Attempts at price controls have to conform with the parameters of the  reconciliation process they’re hoping to use to pass the social spending package on a party-line vote. 
  <p class="updated_time"> 07:02 AM CT, Nov. 13 </p> 
  <a href="https://www.npr.org/2021/11/13/1055503629/steve-bannon-faces-federal-charges-for-contempt-of-congress">Steve Bannon faces federal charges for contempt of Congress</a> NPR: Steve Bannon, adviser to former President Donald Trump, was indicted Friday for contempt of Congress. 
  <p class="updated_time"> 07:02 AM CT, Nov. 13 </p> 
