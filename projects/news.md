@@ -7,12 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:42 AM CT, Nov. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59283128?at_medium=RSS&at_campaign=KARANGA">Covid: Austria introduces lockdown for unvaccinated</a> BBC: Some two million people are told to stay at home amid growing pressure on hospitals as cases surge. 
  <p class="updated_time"> 02:03 AM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/14/world/europe/liverpool-hospital-car-explosion.html">Taxi Explodes Outside Liverpool Hospital, Killing One</a> NYT: Three men in their twenties were arrested under Britain’s Terrorism Act several hours after the explosion, in which a second person was injured, the authorities said. 
  <p class="updated_time"> 01:34 AM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/14/world/asia/rohingya-refugees-bangladesh.html">They Warned Their Names Were on a Hit List. They Were Killed.</a> NYT: In less than a month, assassins have killed at least eight people in the Rohingya refugee camps of Bangladesh, silencing those who have dared to speak out against the violent gangs. 
- <p class="updated_time"> 11:43 PM CT, Nov. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59283128?at_medium=RSS&at_campaign=KARANGA">Covid: Austria introduces lockdown for unvaccinated</a> BBC: Some two million people are told to stay at home amid growing pressure on hospitals as cases surge. 
  <p class="updated_time"> 11:22 PM CT, Nov. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59286563?at_medium=RSS&at_campaign=KARANGA">Maori tribe tells anti-vaccine protestors to stop using popular haka</a> BBC: The popular Ke Mata haka was performed by anti-vaccine protesters during demonstrations last week. 
  <p class="updated_time"> 11:21 PM CT, Nov. 14 </p> 
