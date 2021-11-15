@@ -217,7 +217,7 @@ permalink: /projects/news/
 <summary>Politics</summary>
 
  <p class="updated_time"> 01:27 PM CT, Nov. 15 </p> 
- <a href="https://www.cnn.com/2021/11/15/politics/steve-bannon/index.html">Steve Bannon surrenders after his indictment on two counts of contempt of Congress</a> CNN: Steve Bannon, a former adviser to former President Donald Trump, turned himself in to the FBI Monday morning to self-surrender after being indicted on criminal contempt charges on Friday. 
+ <a href="https://www.cnn.com/2021/11/15/politics/steve-bannon/index.html">Steve Bannon released from custody pending trial on contempt of Congress charges</a> CNN: Steve Bannon, a former adviser to former President Donald Trump, turned himself in to the FBI Monday morning to self-surrender after being indicted on criminal contempt charges on Friday. 
  <p class="updated_time"> 01:21 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/us/politics/whats-in-the-infrastructure-bill.html">Here's What's in the Infrastructure Bill Biden Will Sign Today</a> NYT: In total, the measure contains $550 billion in new funds to be spread around different areas of need. 
  <p class="updated_time"> 01:18 PM CT, Nov. 15 </p> 
@@ -296,8 +296,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/11/15/washingtons-mystery-mansion-buyer-unmasked-495098">POLITICO Playbook: Washington’s mystery mansion buyer unmasked</a> Politico: And Democrats plan their midterm messaging. 
  <p class="updated_time"> 05:02 AM CT, Nov. 15 </p> 
  <a href="https://www.cnn.com/2021/11/15/politics/desantis-florida-legislature-vaccine-mandates/index.html">Florida special session begins as DeSantis continues battle against vaccine mandates</a> CNN: Florida Gov. Ron DeSantis has made fighting vaccine mandates a focal point of his Covid strategy. 
- <p class="updated_time"> 05:00 AM CT, Nov. 15 </p> 
- <a href="https://www.politico.com/news/2021/11/15/dc-new-top-cop-steve-bannon-522259">D.C.'s new top cop vs. Steve Bannon</a> Politico: Matthew Graves has represented Ben Carson and Gazprom — but overseeing hundreds of Jan. 6 prosecutions will bring a different level of scrutiny. 
  <p class="updated_time"> 04:31 AM CT, Nov. 15 </p> 
  <a href="https://www.politico.com/news/2021/11/15/gop-trump-budget-congress-521209">GOP weighs trapping Democrats in Trump’s budget</a> Politico: Democrats are working to negotiate a government funding deal, but Republicans have a long list of demands before they'll come to the table. 
  <p class="updated_time"> 04:30 AM CT, Nov. 15 </p> 
