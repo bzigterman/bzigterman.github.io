@@ -1156,15 +1156,15 @@ html {
 <td class="gt_row gt_right">&minus;11&percnt;</td></tr>
     <tr><td class="gt_row gt_left gt_striped">New Vaccine Doses</td>
 <td class="gt_row gt_right gt_striped">1.2M</td>
-<td class="gt_row gt_right gt_striped">712.0K</td>
-<td class="gt_row gt_right gt_striped">&minus;43&percnt;</td></tr>
+<td class="gt_row gt_right gt_striped">820.0K</td>
+<td class="gt_row gt_right gt_striped">&minus;34&percnt;</td></tr>
     <tr><td class="gt_row gt_left">Fully Vaccinated</td>
 <td class="gt_row gt_right">192.0M</td>
-<td class="gt_row gt_right">193.0M</td>
+<td class="gt_row gt_right">194.0M</td>
 <td class="gt_row gt_right">+1&percnt;</td></tr>
     <tr><td class="gt_row gt_left gt_striped">Pct. Fully Vaccinated</td>
 <td class="gt_row gt_right gt_striped">57.1</td>
-<td class="gt_row gt_right gt_striped">57.5</td>
+<td class="gt_row gt_right gt_striped">57.6</td>
 <td class="gt_row gt_right gt_striped">+1&percnt;</td></tr>
   </tbody>
   <tfoot class="gt_sourcenotes">
@@ -1546,15 +1546,15 @@ html {
 <td class="gt_row gt_right gt_striped">&minus;0&percnt;</td></tr>
     <tr><td class="gt_row gt_left">New Vaccine Doses</td>
 <td class="gt_row gt_right">28.8M</td>
-<td class="gt_row gt_right">31.3M</td>
-<td class="gt_row gt_right">+9&percnt;</td></tr>
+<td class="gt_row gt_right">31.2M</td>
+<td class="gt_row gt_right">+8&percnt;</td></tr>
     <tr><td class="gt_row gt_left gt_striped">Fully Vaccinated</td>
 <td class="gt_row gt_right gt_striped">3.1B</td>
 <td class="gt_row gt_right gt_striped">3.2B</td>
 <td class="gt_row gt_right gt_striped">+5&percnt;</td></tr>
     <tr><td class="gt_row gt_left">Pct. Fully Vaccinated</td>
 <td class="gt_row gt_right">38.8</td>
-<td class="gt_row gt_right">40.6</td>
+<td class="gt_row gt_right">40.8</td>
 <td class="gt_row gt_right">+5&percnt;</td></tr>
   </tbody>
   <tfoot class="gt_sourcenotes">
