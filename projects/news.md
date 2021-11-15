@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:08 PM CT, Nov. 15 </p> 
+ <a href="https://www.nytimes.com/2021/11/12/us/politics/biden-china-xi-jinping.html">Biden and China’s Xi Will Hold Virtual Summit on Monday</a> NYT: The leaders of the world’s two largest economies confront tensions over trade, cyberthreats, the climate, Taiwan and human rights. 
  <p class="updated_time"> 04:55 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/world/americas/cuba-protests.html">As Cuba Crushes Dissent, a Nationwide Protest Fizzles</a> NYT: In the days before the planned protest, the homes of government critics were surrounded by uniformed police officers, state security agents or government supporters holding picket signs, human rights activists said. 
  <p class="updated_time"> 04:22 PM CT, Nov. 15 </p> 
@@ -89,8 +91,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/15/world/asia/duterte-philippines-election.html">Rodrigo Duterte to Run for Senate in the Philippines</a> NYT: Rodrigo Duterte entered the race days after his daughter announced her bid for vice president. He had previously said he would leave politics at the end of his term. 
  <p class="updated_time"> 06:29 AM CT, Nov. 15 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59291000?at_medium=RSS&at_campaign=KARANGA">Adele opens up to Oprah Winfrey about her weight loss, divorce and finding herself again.</a> BBC: Award-winning singer Adele describes how she saved her mental health through exercise and why she's now at peace with herself. 
- <p class="updated_time"> 06:19 AM CT, Nov. 15 </p> 
- <a href="https://www.nytimes.com/2021/11/12/us/politics/biden-china-xi-jinping.html">Biden and China’s Xi Will Hold Virtual Summit on Monday</a> NYT: The leaders of the world’s two largest economies confront tensions over trade, cyberthreats, the climate, Taiwan and human rights. 
  <p class="updated_time"> 05:56 AM CT, Nov. 15 </p> 
  <a href="https://www.wsj.com/articles/eu-sanctions-russias-wagner-group-to-thwart-private-military-11636995416">EU Sanctions Russia's Wagner Group to Thwart Private Military</a> WSJ: European diplomats warned that the Russian mercenary company, which some EU countries and the U.S. say is a proxy force for Russia’s Defense Ministry, poses a growing threat to EU interests. 
  <p class="updated_time"> 05:47 AM CT, Nov. 15 </p> 
@@ -207,8 +207,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/12/arts/design/new-york-international-tourists.html">‘Be Nice to Tourists’: New York’s Arts Scene Needs International Visitors</a> NYT: The United States now allows vaccinated international travelers into the country. It’s welcome news for arts institutions that lost revenue and cut jobs during the pandemic. 
  <p class="updated_time"> 10:01 AM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/world/europe/julian-assange-stella-moris-marriage.html">Julian Assange Will Marry Stella Moris in London Prison</a> NYT: The WikiLeaks founder, who is battling extradition to the United States on espionage charges, has been granted permission to marry Stella Moris in the London prison where he has been held since 2019. 
- <p class="updated_time"> 06:58 AM CT, Nov. 12 </p> 
- <a href="https://www.nytimes.com/2021/11/12/arts/design/badiucao-brescia-china.html">The Show Goes On, Even After China Tried to Shut It Down</a> NYT: An Italian city rejected a request from the Chinese Embassy in Rome to cancel an exhibition by Badiucao, an artist who has been described as the Chinese Banksy. 
 
 
 </details>
@@ -220,14 +218,16 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/15/peter-thiel-is-coming-to-washington-522605">Peter Thiel is coming to Washington</a> Politico: The tech billionaire and Trump backer just bought a $13 million mansion in a ritzy D.C. neighborhood. 
  <p class="updated_time"> 05:18 PM CT, Nov. 15 </p> 
  <a href="https://www.politico.com/news/2021/11/15/trump-west-virginia-mooney-mckinley-522608">Trump wades into West Virginia member-vs-member race</a> Politico: The former president endorsed Alex Mooney over David McKinley in the matchup between two House GOP incumbents. 
+ <p class="updated_time"> 05:11 PM CT, Nov. 15 </p> 
+ <a href="https://www.nytimes.com/2021/11/15/us/politics/beto-orourke-texas-governor-announcement.html">Beto O’Rourke Announces Run for Texas Governor, Testing Democrats’ Strength</a> NYT: Mr. O’Rourke’s announcement on Monday set the stage for a pitched political showdown over the future of the country’s largest Republican-led state. 
+ <p class="updated_time"> 05:10 PM CT, Nov. 15 </p> 
+ <a href="https://www.nytimes.com/2021/11/15/us/politics/biden-infrastructure-victory.html">Biden Got His Bipartisan Win. Now, Reality Sets In.</a> NYT: President Biden, who is facing low approval ratings, hopes the infrastructure bill will help him project sustained progress in confronting a surge in inflation and growing alarm about the midterm elections. 
+ <p class="updated_time"> 05:08 PM CT, Nov. 15 </p> 
+ <a href="https://www.nytimes.com/2021/11/15/us/politics/biden-signs-infrastructure-bill.html">Biden Signs $1 Trillion Infrastructure Bill Into Law</a> NYT: Billions of dollars will now pour into American communities, although the final bill falls short of the president’s ambitions. 
  <p class="updated_time"> 04:59 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/climate/biden-bans-drilling-chaco-canyon.html">Biden Plans to Bar New Drilling Around Chaco Canyon in New Mexico</a> NYT: After years of tribal requests, the president plans to block new oil and gas leases within 10 miles of Chaco Canyon in New Mexico. The move generated strong pushback from industry groups. 
- <p class="updated_time"> 04:58 PM CT, Nov. 15 </p> 
- <a href="https://www.nytimes.com/2021/11/15/us/politics/beto-orourke-texas-governor-announcement.html">Beto O’Rourke Announces Run for Texas Governor, Testing Democrats’ Strength</a> NYT: Mr. O’Rourke’s announcement on Monday set the stage for a pitched political showdown over the future of the country’s largest Republican-led state. 
  <p class="updated_time"> 04:54 PM CT, Nov. 15 </p> 
  <a href="https://www.cnn.com/2021/11/15/politics/biden-signing-ceremony-infrastructure-bill-white-house/index.html">Biden signs infrastructure bill into law at rare bipartisan gathering</a> CNN: President Joe Biden signs the $1.2 trillion bipartisan infrastructure package into law Monday afternoon, seeking a jolt of momentum for his presidency as he commemorates a major legislative victory with pomp and circumstance on the White House South Lawn. 
- <p class="updated_time"> 04:53 PM CT, Nov. 15 </p> 
- <a href="https://www.nytimes.com/2021/11/15/us/politics/biden-signs-infrastructure-bill.html">Biden Signs $1 Trillion Infrastructure Bill Into Law</a> NYT: Billions of dollars will now pour into American communities, although the final bill falls short of the president’s ambitions. 
  <p class="updated_time"> 04:32 PM CT, Nov. 15 </p> 
  <a href="https://www.politico.com/news/2021/11/15/biden-signs-bipartisan-infrastructure-deal-522567">Biden finally gets the ‘big effing deal’ signing ceremony of his own</a> Politico: But amid the celebrations over the bipartisan infrastructure package, the question just below the surface was: Will this be his last such moment? 
  <p class="updated_time"> 04:23 PM CT, Nov. 15 </p> 
@@ -271,7 +271,7 @@ permalink: /projects/news/
  <p class="updated_time"> 11:58 AM CT, Nov. 15 </p> 
  <a href="https://www.cnn.com/2021/11/15/politics/biden-missing-native-americans-order/index.html">Biden signs order to address 'crisis of violence' against Native Americans at White House summit</a> CNN: President Joe Biden is expected to sign an executive order Monday directing federal agencies, including the departments of Justice, Interior and Homeland Security, to create a strategy addressing what the administration calls an "epidemic" of missing or murdered Indigenous people. 
  <p class="updated_time"> 11:55 AM CT, Nov. 15 </p> 
- <a href="https://www.politico.com/news/2021/11/15/weapons-charge-dismissed-rittenhouse-trial-522411">Judge dismisses weapons charge at Rittenhouse murder trial</a> Politico: Rittenhouse, 18, killed two men and wounded a third in the summer of 2020 during a turbulent protest against racial injustice. 
+ <a href="https://www.politico.com/news/2021/11/15/weapons-charge-dismissed-rittenhouse-trial-522411">Prosecutor: Rittenhouse provoked the bloodshed in Kenosha</a> Politico: Rittenhouse, 18, killed two men and wounded a third in the summer of 2020 during a turbulent protest against racial injustice. 
  <p class="updated_time"> 11:46 AM CT, Nov. 15 </p> 
  <a href="https://www.cnn.com/2021/11/15/politics/michael-flynn-one-religion/index.html">Ex-Trump adviser Michael Flynn's call for 'one religion' in the US garners swift condemnation</a> CNN: Former Trump national security adviser Michael Flynn's call for "one religion" in the US to win the battle of good versus evil has garnered sharp backlash from a range of critics. 
  <p class="updated_time"> 11:20 AM CT, Nov. 15 </p> 
@@ -291,7 +291,7 @@ permalink: /projects/news/
  <p class="updated_time"> 10:26 AM CT, Nov. 15 </p> 
  <a href="https://www.npr.org/2021/11/15/1055791697/vermont-sen-patrick-leahy-wont-seek-reelection-next-year">Vermont Sen. Patrick Leahy won't seek reelection next year</a> NPR: Leahy, 81, is the longest-serving member of the U.S. Senate. 
  <p class="updated_time"> 10:18 AM CT, Nov. 15 </p> 
- <a href="https://www.politico.com/news/2021/11/15/leahy-most-senior-senator-will-retire-522356">Leahy, most senior senator, will retire</a> Politico: Sen. Patrick Leahy, 81, announced Monday that he would not run for a ninth term. 
+ <a href="https://www.politico.com/news/2021/11/15/leahy-most-senior-senator-will-retire-522356">Leahy, most senior senator, will retire</a> Politico: The 81-year-old Vermont Democrat announced Monday that he would not run for a ninth term. 
  <p class="updated_time"> 10:15 AM CT, Nov. 15 </p> 
  <a href="https://www.npr.org/2021/11/15/1055832971/steve-bannon-turns-himself-in-to-face-criminal-contempt-charges">Steve Bannon turns himself in to face criminal contempt charges</a> NPR: Former Trump adviser Steve Bannon has turned himself in at the FBI field office in Washington. He faces charges of contempt of Congress. 
  <p class="updated_time"> 09:58 AM CT, Nov. 15 </p> 
@@ -303,7 +303,7 @@ permalink: /projects/news/
  <p class="updated_time"> 09:44 AM CT, Nov. 15 </p> 
  <a href="https://www.politico.com/news/2021/11/15/jeffrey-epstein-ghislaine-maxwell-522349">Jeffrey Epstein faces trial by proxy: Ghislaine Maxwell</a> Politico: Maxwell, 59, has pleaded not guilty to charges she groomed underage victims to have unwanted sex with Epstein. She has vehemently denied wrongdoing. 
  <p class="updated_time"> 09:29 AM CT, Nov. 15 </p> 
- <a href="https://www.politico.com/news/2021/11/15/beto-orourke-texas-governor-campaign-522336">Beto O’Rourke jumps into Texas governor’s race</a> Politico: The race represents a comeback bid for O’Rourke, who became a Democratic sensation during a failed Senate run in 2018 but whose 2020 presidential primary campaign fell flat. 
+ <a href="https://www.politico.com/news/2021/11/15/beto-orourke-texas-governor-campaign-522336">Beto O’Rourke jumps into Texas governor’s race</a> Politico: The race represents a comeback bid for O’Rourke, who became a Democratic sensation during a failed Senate run in 2018 but whose 2020 presidential  campaign fell flat. 
  <p class="updated_time"> 09:27 AM CT, Nov. 15 </p> 
  <a href="https://www.cnn.com/2021/11/15/politics/donald-trump-steve-bannon-january-6-joe-biden-infrastructure/index.html">Analysis: Trump is in full attack mode as Biden celebrates a victory that eluded him</a> CNN: Donald Trump is tightening his malignant hold on American politics as Joe Biden battles to stabilize his own problem-plagued presidency by celebrating the kind of political win his predecessor never managed. 
  <p class="updated_time"> 09:18 AM CT, Nov. 15 </p> 
@@ -352,8 +352,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/14/biden-xi-meeting-expectations-522136">Don’t call it a ‘summit’: Biden-Xi meeting brings low expectations</a> Politico: Despite downbeat official messaging, look for bilateral “sweeteners” to dial down tensions. 
  <p class="updated_time"> 03:55 PM CT, Nov. 14 </p> 
  <a href="https://www.npr.org/2021/11/14/1055696923/in-drought-plagued-new-mexico-farmer-places-high-hopes-in-infrastructure-bill">In drought-plagued New Mexico, farmer places high hopes in infrastructure bill</a> NPR: NPR's Michel Martin speaks with Greg Daviet, a pecan farmer in Las Cruces, N.M., about how the infrastructure plan passed by Congress may affect his business. 
- <p class="updated_time"> 03:05 PM CT, Nov. 14 </p> 
- <a href="https://www.nytimes.com/2021/11/14/business/economy/farm-exports-supply-chain-ports.html">Supply Chain Disruptions May Mean Crisis for U.S. Farms</a> NYT: Backlogs and cancellations are hitting growers as costs rise, profits slump and overseas customers shop elsewhere. 
  <p class="updated_time"> 12:00 PM CT, Nov. 14 </p> 
  <a href="https://www.cnn.com/2021/11/14/politics/january-6-jail-complaints-washington-dc/index.html">Insurrectionists' jail complaints lead to overdue reform within DC's jail system</a> CNN: A scathing report by the US Marshals Service this month uncovered the deplorable conditions inside one of the three facilities within the Washington, DC, jail, citing systemic failures like lack of water, inadequate quality of food and standing human sewage. 
  <p class="updated_time"> 11:56 AM CT, Nov. 14 </p> 
