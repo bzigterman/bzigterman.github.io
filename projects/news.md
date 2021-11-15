@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:18 AM CT, Nov. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59289998?at_medium=RSS&at_campaign=KARANGA">Poland border crisis: EU to widen Belarus sanctions as row intensifies</a> BBC: As EU officials discuss new sanctions, migrants gather in a tense stand-off at the Polish border. 
  <p class="updated_time"> 06:52 AM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/world/asia/duterte-philippines-election.html">Rodrigo Duterte to Run for Senate in the Philippines</a> NYT: Rodrigo Duterte entered the race days after his daughter announced her bid for vice president. He had previously said he would leave politics at the end of his term. 
  <p class="updated_time"> 06:51 AM CT, Nov. 15 </p> 
@@ -21,8 +23,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-china-59249485?at_medium=RSS&at_campaign=KARANGA">China Covid: Outrage after pet dog killed by health workers</a> BBC: The quarantined owner posted video showing one health worker beating her pet with a crowbar. 
  <p class="updated_time"> 06:19 AM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/12/us/politics/biden-china-xi-jinping.html">Biden and China’s Xi Will Hold Virtual Summit on Monday</a> NYT: The leaders of the world’s two largest economies confront tensions over trade, cyberthreats, the climate, Taiwan and human rights. 
- <p class="updated_time"> 06:15 AM CT, Nov. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59289998?at_medium=RSS&at_campaign=KARANGA">Poland border crisis: EU to widen Belarus sanctions as row intensifies</a> BBC: As EU officials discuss new sanctions, migrants gather in a tense stand-off at the Polish border. 
  <p class="updated_time"> 05:47 AM CT, Nov. 15 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59263761?at_medium=RSS&at_campaign=KARANGA">COP26: How might decisions at the climate summit change our lives?</a> BBC: The changes made at COP26 in Glasgow could have implications for the way we live. 
  <p class="updated_time"> 05:40 AM CT, Nov. 15 </p> 
@@ -47,10 +47,12 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-australia-59288177?at_medium=RSS&at_campaign=KARANGA">Australian women sue over Qatar airport strip-searches</a> BBC: They are seeking damages after being forced into examinations at Doha airport last year. 
  <p class="updated_time"> 03:42 AM CT, Nov. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59283128?at_medium=RSS&at_campaign=KARANGA">Covid: Austria introduces lockdown for unvaccinated</a> BBC: Some two million people are told to stay at home amid growing pressure on hospitals as cases surge. 
+ <p class="updated_time"> 02:13 AM CT, Nov. 15 </p> 
+ <a href="https://www.wsj.com/articles/u-s-journalist-danny-fenster-released-by-myanmar-11636976141">U.S. Journalist Danny Fenster Released by Myanmar</a> WSJ: The 37-year-old journalist, who is expected home in the U.S. soon, was freed following a trip to Myanmar by Bill Richardson, a former U.S. diplomat who has been involved in the release of hostages before. 
+ <p class="updated_time"> 01:41 AM CT, Nov. 15 </p> 
+ <a href="https://www.wsj.com/articles/belarus-border-standoff-prompts-broader-eu-sanctions-11636980109">Belarus Border Standoff Prompts Broader EU Sanctions</a> WSJ: The European Union agreed to broaden its sanctions regime against Belarus over the migrant border standoff, brushing off threats by President Alexander Lukashenko to cut gas flows to the continent. 
  <p class="updated_time"> 01:34 AM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/14/world/asia/rohingya-refugees-bangladesh.html">They Warned Their Names Were on a Hit List. They Were Killed.</a> NYT: In less than a month, assassins have killed at least eight people in the Rohingya refugee camps of Bangladesh, silencing those who have dared to speak out against the violent gangs. 
- <p class="updated_time"> 12:59 AM CT, Nov. 15 </p> 
- <a href="https://www.wsj.com/articles/u-s-journalist-danny-fenster-released-by-myanmar-11636976141">U.S. Journalist Danny Fenster Released by Myanmar</a> WSJ: The 37-year-old journalist, who is expected home in the U.S. soon, was freed following a trip to Myanmar by Bill Richardson, a former U.S. diplomat who has been involved in the release of hostages before. 
  <p class="updated_time"> 11:35 PM CT, Nov. 14 </p> 
  <a href="https://www.wsj.com/articles/china-bought-italian-military-drone-maker-without-authorities-knowledge-11636972513">China Bought Italian Military-Drone Maker Without Authorities' Knowledge</a> WSJ: Italian and European authorities weren’t aware that a Chinese state-controlled company bought an Italian military-drone manufacturer and transferred its know-how and technology, revealing how Beijing is skirting weak investment-screening in Europe to acquire sensitive technology. 
  <p class="updated_time"> 11:22 PM CT, Nov. 14 </p> 
@@ -69,8 +71,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59286773?at_medium=RSS&at_campaign=KARANGA">'I had concerns about marriage', admits Malala Yousafzai</a> BBC: The Nobel laureate says she previously questioned marriage and the "imbalance of power". 
  <p class="updated_time"> 10:08 PM CT, Nov. 14 </p> 
  <a href="https://www.bbc.co.uk/news/business-59257319?at_medium=RSS&at_campaign=KARANGA">Trump Organization selling Washington hotel for $375m, reports say</a> BBC: The historic building will reportedly be renamed the Waldorf Astoria and managed by the Hilton group. 
- <p class="updated_time"> 10:03 PM CT, Nov. 14 </p> 
- <a href="https://www.wsj.com/articles/wta-calls-for-investigation-into-peng-shuai-sexual-assault-allegations-against-a-former-chinese-leader-11636967014">WTA Calls for Investigation Into Peng Shuai Sexual-Assault Allegations Against a Former Chinese Leader</a> WSJ: “Peng Shuai, and all women, deserve to be heard, not censored,” Women’s Tennis Association CEO Steve Simon said, risking backlash from Beijing. 
  <p class="updated_time"> 07:20 PM CT, Nov. 14 </p> 
  <a href="https://www.nytimes.com/2021/11/14/climate/glasgow-cop26-leadership.html">Climate Promises Made in Glasgow Now Rest With a Handful of Powerful Leaders</a> NYT: In Washington, Beijing, New Delhi and beyond, governments face conflicting forces — political, social and economic — that will shape their next steps in the effort to avert a climate crisis. 
  <p class="updated_time"> 06:52 PM CT, Nov. 14 </p> 
@@ -87,6 +87,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-latin-america-59246083?at_medium=RSS&at_campaign=KARANGA">Jair Bolsonaro, guns and rising violence in Brazil</a> BBC: Gun culture was part of Bolsonaro's winning presidential campaign. Three years on, what's the impact? 
  <p class="updated_time"> 06:03 PM CT, Nov. 14 </p> 
  <a href="https://www.bbc.co.uk/news/uk-59268974?at_medium=RSS&at_campaign=KARANGA">The Uyghur woman fighting to keep her culture alive</a> BBC: In London, a restaurant owner aims to preserve traditions which are under threat in China. 
+ <p class="updated_time"> 05:05 PM CT, Nov. 14 </p> 
+ <a href="https://www.wsj.com/articles/japan-economy-shrinks-slightly-hit-by-supply-chain-troubles-11636934752">Japan Economy Shrinks, Hit by Supply Chain Troubles</a> WSJ: The world’s third-largest economy contracted 0.8% in the July-September period owing to a decline in exports caused by supply-chain constraints and lower consumer spending. 
  <p class="updated_time"> 04:21 PM CT, Nov. 14 </p> 
  <a href="https://www.npr.org/2021/11/14/1055698304/3-detained-after-car-explosion-kills-1-outside-liverpool-hospital">3 detained after car explosion kills 1 outside Liverpool hospital</a> NPR: Police were called to reports of a blast involving a taxi at Liverpool Women's Hospital on Sunday morning. One person was killed and one person injured. 
  <p class="updated_time"> 03:55 PM CT, Nov. 14 </p> 
@@ -111,8 +113,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/cop26-opens-path-to-international-carbon-trading-11636922314">COP26 Opens Path to International Carbon Trading</a> WSJ: A U.N.-certified carbon credit could be used by regulated markets and standardize more informal ones. 
  <p class="updated_time"> 10:35 AM CT, Nov. 14 </p> 
  <a href="https://www.nytimes.com/2021/11/14/world/americas/cuba-protest.html">In Cuba, Desires for Food and Freedom May Spark a Rare Day of Protest</a> NYT: Young dissidents who rely on the internet to spread their ideas are calling for a protest on Monday, a bold move with little precedent in Cuba. 
- <p class="updated_time"> 07:45 AM CT, Nov. 14 </p> 
- <a href="https://www.wsj.com/articles/xi-jinping-china-economy-growth-poverty-tech-beijing-11636915358">What's Driving Xi Jinping's Economic Revamp? China's Social Mobility Has Stalled</a> WSJ: Academic research and data show that as the country’s economy matures, more opportunities go to the children of wealthy and politically connected elites, posing a challenge to the ruling Communist Party. 
  <p class="updated_time"> 07:44 AM CT, Nov. 14 </p> 
  <a href="https://www.nytimes.com/2021/11/14/world/europe/queen-elizabeth-health.html">Queen Elizabeth Misses Remembrance Service Because of Sprained Back</a> NYT: The British monarch, 95, has put off multiple trips and engagements recently, and the latest cancellation has deepened anxiety about her health. She has now been out of sight since mid-October. 
  <p class="updated_time"> 07:05 AM CT, Nov. 14 </p> 
@@ -220,6 +220,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 07:31 AM CT, Nov. 15 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/11/15/congress-starts-cooking-end-of-year-agenda-495100">Congress starts cooking end-of-year agenda</a> Politico: A play-by-play preview of the day&#39;s congressional news 
+ <p class="updated_time"> 07:18 AM CT, Nov. 15 </p> 
+ <a href="https://www.cnn.com/2021/11/15/politics/chris-christie-donald-trump-january-6-cnntv/index.html">Chris Christie blames Trump's rhetoric about stolen election for January 6 insurrection </a> CNN: Former New Jersey Gov. Chris Christie said he believes the insurrection at the US Capitol on January 6 was the result of former President Donald Trump's lie that the 2020 presidential election was stolen. 
  <p class="updated_time"> 07:07 AM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/14/us/politics/religious-groups-child-care.html">Biden’s Child Care Plan Faces Resistance From Religious Groups</a> NYT: A nondiscrimination provision in the $1.85 trillion social policy bill could disqualify some religious organizations, spurring a fight over who can benefit from President Biden’s landmark bill. 
  <p class="updated_time"> 06:34 AM CT, Nov. 15 </p> 
@@ -288,6 +290,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/14/catholic-bishops-biden-abortion-522105">U.S. Catholic bishops may dodge rebuke of Biden over abortion</a> Politico: While some bishops have said they would deny Communion to the president, there is no national policy on the matter. 
  <p class="updated_time"> 12:46 PM CT, Nov. 14 </p> 
  <a href="https://www.cnn.com/2021/11/13/politics/fbi-fake-emails-cyber-threat/index.html">Fake FBI emails about a sophisticated attack are part of 'ongoing situation,' agency says</a> CNN: The FBI on Saturday said it was aware of reports that unauthorized emails were coming from a legitimate FBI email address to thousands of organizations about a purported cyber threat. 
+ <p class="updated_time"> 12:00 PM CT, Nov. 14 </p> 
+ <a href="https://www.cnn.com/2021/11/14/politics/january-6-jail-complaints-washington-dc/index.html">Insurrectionists' jail complaints lead to overdue reform within DC's jail system</a> CNN: A scathing report by the US Marshals Service this month uncovered the deplorable conditions inside one of the three facilities within the Washington, DC, jail, citing systemic failures like lack of water, inadequate quality of food and standing human sewage. 
  <p class="updated_time"> 11:56 AM CT, Nov. 14 </p> 
  <a href="https://www.npr.org/2021/11/14/1055664174/snl-cold-open-ted-cruz-big-bird-sesame-street">SNL uses its cold open to skewer Ted Cruz over his Big Bird vaccine tweet</a> NPR: In a Saturday Night Live sketch, Sen. Ted Cruz, played by Aidy Bryant, hosts a right-wing alternative to the children's television program Sesame Street. 
  <p class="updated_time"> 11:41 AM CT, Nov. 14 </p> 
@@ -318,8 +322,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/14/1055640638/week-in-politics-infrastructure-bill-provides-money-for-bridges-broadband-and-mo">Week in politics: Infrastructure bill provides money for bridges, broadband and more</a> NPR: At long last, President Biden plans to sign the bipartisan infrastructure bill Monday. Plus, he'll attend a virtual summit with Chinese leader Xi Jinping. 
  <p class="updated_time"> 07:05 AM CT, Nov. 14 </p> 
  <a href="https://www.npr.org/2021/11/14/1055640610/vice-president-harris-returns-from-diplomatic-debut-in-europe">Vice President Harris returns from diplomatic debut in Europe</a> NPR: Vice President Harris is back from France, where she took center stage among a large group of world leaders. 
- <p class="updated_time"> 07:01 AM CT, Nov. 14 </p> 
- <a href="https://www.cnn.com/2021/11/14/politics/covid-vaccine-misinformation-fact-check/index.html">Fact-checking 5 viral Covid-19 vaccine falsehoods</a> CNN: Since vaccines were first authorized for use nearly a year ago, swarms of anti-vaxxers have pushed a variety of unfounded claims suggesting the vaccine is unsafe and urging people not to receive one. 
  <p class="updated_time"> 06:00 AM CT, Nov. 14 </p> 
  <a href="https://www.npr.org/2021/11/14/1055508416/doug-emhoff-is-americas-first-second-gentleman-in-paris-he-showed-what-that-mean">Doug Emhoff is America's first second gentleman. In Paris, he showed what that means</a> NPR: Doug Emhoff, the husband of Vice President Harris, is taking a very traditional approach to his role of second spouse. The Paris trip was their first diplomatic trip abroad. 
  <p class="updated_time"> 06:00 AM CT, Nov. 14 </p> 
@@ -374,8 +376,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/12/politics/mark-meadows-january-6-deposition/index.html">Mark Meadows did not appear for deposition with January 6 committee</a> CNN: Former Trump White House Chief of Staff Mark Meadows did not appear in person for a deposition on Friday in front of the House select committee investigating January 6, setting up a potential showdown that could lead to the panel beginning a criminal referral process against him. 
  <p class="updated_time"> 06:12 PM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/us/politics/bannon-indicted.html">Bannon Indicted on Contempt Charges Over House’s Capitol Riot Inquiry</a> NYT: Stephen K. Bannon, a former top aide to Donald Trump, had refused to comply with subpoenas from the House committee investigating the Jan. 6 attack on Congress. 
- <p class="updated_time"> 04:33 PM CT, Nov. 12 </p> 
- <a href="https://www.cnn.com/2021/11/12/politics/biden-admin-ethiopia-eritrea-sanctions/index.html">Biden administration sanctions Eritrean military, ruling party over role in northern Ethiopia conflict</a> CNN: The Biden administration sanctioned Eritrea's military and sole political party for their involvement in the ongoing crisis in northern Ethiopia. 
  <p class="updated_time"> 03:05 PM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/us/politics/pell-grants-for-profit-colleges-aid.html">Democrats’ Bill Would Deny For-Profit College Students Extra Aid</a> NYT: Critics say a little-noticed provision would hurt the very constituencies — people of color, the working class, low-income Americans — that the party typically champions. 
  <p class="updated_time"> 01:42 PM CT, Nov. 12 </p> 
@@ -444,8 +444,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/11/09/a-trump-backed-senate-hopeful-takes-the-stand-495028">POLITICO Playbook: A Trump-backed Senate hopeful takes the stand</a> Politico: And the Jan. 6 committee subpoenas more Trump aides. 
  <p class="updated_time"> 04:30 AM CT, Nov. 09 </p> 
  <a href="https://www.politico.com/news/2021/11/09/senate-dems-year-end-train-wreck-520275">The Senate’s year-end to-do list is ‘going to be a train wreck’</a> Politico: Ho, ho, oh no. Long nights, weekend work and threatened holidays are a Capitol tradition, and this year is likely no exception. 
- <p class="updated_time"> 07:20 AM CT, Nov. 08 </p> 
- <a href="https://www.politico.com/newsletters/huddle/2021/11/08/recess-reverie-plus-huddle-restaurant-week-kicks-off-495014">Recess reverie (plus Huddle Restaurant Week kicks off)</a> Politico: A play-by-play preview of the day&#39;s congressional news 
 
 
 </details>
