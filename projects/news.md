@@ -7,8 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:56 AM CT, Nov. 15 </p> 
- <a href="https://www.nytimes.com/2021/11/15/world/europe/uk-taxi-explosion-liverpool.html">Liverpool Explosion: Blast Is Declared a Terrorist Act</a> NYT: Local leaders praised the cabdriver as a hero, saying that he may have prevented a bigger calamity. He escaped the burning vehicle and locked the doors, trapping a passenger carrying explosives inside. 
+ <p class="updated_time"> 09:04 AM CT, Nov. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59289998?at_medium=RSS&at_campaign=KARANGA">Poland border crisis: EU to widen Belarus sanctions as row intensifies</a> BBC: The crisis intensifies as hundreds more migrants arrive at the border with Poland. 
+ <p class="updated_time"> 09:01 AM CT, Nov. 15 </p> 
+ <a href="https://www.nytimes.com/2021/11/15/world/europe/uk-taxi-explosion-liverpool.html">Liverpool Explosion: Blast Is Declared a Terrorist Act</a> NYT: Local leaders praised the driver as a hero, saying that he may have prevented a bigger calamity. He escaped the burning vehicle and locked the doors, trapping a passenger carrying explosives inside. 
+ <p class="updated_time"> 08:58 AM CT, Nov. 15 </p> 
+ <a href="https://www.nytimes.com/2021/11/14/world/europe/austria-unvaccinated-lockdown.html">Austria to Target the Unvaccinated in New Lockdown</a> NYT: The country, facing the biggest surge in virus cases since the pandemic started, is putting strict curbs on the movement of those without shots. 
  <p class="updated_time"> 08:51 AM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/world/europe/austria-lockdown-unvaccinated-covid.html">Austria Imposes Lockdown on Unvaccinated Residents</a> NYT: The restrictions were among the toughest of a wave of new rules in Europe, which the W.H.O. has said is “back at the epicenter of the pandemic.” 
  <p class="updated_time"> 08:27 AM CT, Nov. 15 </p> 
@@ -23,8 +27,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/12/world/california-covid-booster.html">All California Adults Can Get Booster Shots, State Says</a> NYT: Officials are seeking to avert a winter surge; last year, so many Covid patients died that officials were forced to deploy mobile morgues. 
  <p class="updated_time"> 07:41 AM CT, Nov. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59246083?at_medium=RSS&at_campaign=KARANGA">Jair Bolsonaro and guns: A US culture war raging in Brazil</a> BBC: Gun culture was part of Bolsonaro's winning presidential campaign. Three years on, what's the impact? 
- <p class="updated_time"> 07:18 AM CT, Nov. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59289998?at_medium=RSS&at_campaign=KARANGA">Poland border crisis: EU to widen Belarus sanctions as row intensifies</a> BBC: As EU officials discuss new sanctions, migrants gather in a tense stand-off at the Polish border. 
  <p class="updated_time"> 06:52 AM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/world/asia/duterte-philippines-election.html">Rodrigo Duterte to Run for Senate in the Philippines</a> NYT: Rodrigo Duterte entered the race days after his daughter announced her bid for vice president. He had previously said he would leave politics at the end of his term. 
  <p class="updated_time"> 06:51 AM CT, Nov. 15 </p> 
@@ -49,8 +51,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/15/1055753386/u-s-journalist-is-freed-from-myanmar-prison-with-ex-diplomat-richardsons-help">U.S. journalist is freed from Myanmar prison with ex-diplomat Richardson's help</a> NPR: Former U.S. Ambassador to the U.N. Bill Richardson said in a statement that Danny Fenster had been handed over to him in Myanmar and would return to the U.S. via Qatar over the next day and a half. 
  <p class="updated_time"> 04:15 AM CT, Nov. 15 </p> 
  <a href="https://www.npr.org/2021/11/15/1049523021/mamata-banerjee-modi-india-politics">Meet the feisty, 5-foot-tall thorn in the side of India's prime minister</a> NPR: Mamata Banerjee, chief minister of West Bengal state, is one of Narendra Modi's fiercest critics. She's especially beloved by women and the impoverished. But gaining national traction may be tough. 
- <p class="updated_time"> 04:01 AM CT, Nov. 15 </p> 
- <a href="https://www.nytimes.com/2021/11/14/world/europe/austria-unvaccinated-lockdown.html">Austria to Target the Unvaccinated in New Lockdown</a> NYT: The country, facing the biggest surge in virus cases since the pandemic started, is putting strict curbs on the movement of those without shots. 
  <p class="updated_time"> 04:00 AM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/world/asia/japan-elderly-diapers.html">A New Source of Fuel in an Aging Japan: Adult Incontinence</a> NYT: Waste from adult diapers is growing by tens of thousands of tons a year in Japan. One town may have a solution: recycle it into fuel pellets. 
  <p class="updated_time"> 04:00 AM CT, Nov. 15 </p> 
@@ -218,24 +218,30 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 09:53 AM CT, Nov. 15 </p> 
+ <a href="https://www.politico.com/news/2021/11/15/npr-books-editor-dies-522353">NPR books editor Petra Mayer dies at 46</a> Politico: Mayer is remembered for her reporting at Comic-Con and helping put together NPR’s Book Concierge. 
  <p class="updated_time"> 09:44 AM CT, Nov. 15 </p> 
  <a href="https://www.politico.com/news/2021/11/15/jeffrey-epstein-ghislaine-maxwell-522349">Jeffrey Epstein faces trial by proxy: Ghislaine Maxwell</a> Politico: Maxwell, 59, has pleaded not guilty to charges she groomed underage victims to have unwanted sex with Epstein. She has vehemently denied wrongdoing. 
  <p class="updated_time"> 09:29 AM CT, Nov. 15 </p> 
  <a href="https://www.politico.com/news/2021/11/15/beto-orourke-texas-governor-campaign-522336">Beto O’Rourke jumps into Texas governor’s race</a> Politico: The race represents a comeback bid for O’Rourke, who became a Democratic sensation during a failed Senate run in 2018 but whose 2020 presidential primary campaign fell flat. 
- <p class="updated_time"> 08:55 AM CT, Nov. 15 </p> 
- <a href="https://www.nytimes.com/2021/11/15/us/politics/bannon-congress-trump-jan-6.html">Bannon Turns Himself In on Contempt of Congress Charges</a> NYT: The former aide to Donald Trump had refused to comply with a demand for information from the House committee investing the Jan. 6 Capitol riot. 
- <p class="updated_time"> 08:52 AM CT, Nov. 15 </p> 
+ <p class="updated_time"> 09:11 AM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/us/politics/beto-orourke-texas-governor-announcement.html">Beto O’Rourke Announces Run for Texas Governor, Testing Democrats’ Strength</a> NYT: Mr. O’Rourke’s announcement on Monday sets the stage for a pitched political showdown over the future of the country’s largest Republican-led state. 
- <p class="updated_time"> 08:49 AM CT, Nov. 15 </p> 
+ <p class="updated_time"> 09:10 AM CT, Nov. 15 </p> 
+ <a href="https://www.cnn.com/2021/11/15/politics/biden-drilling-ban/index.html">Biden to propose 20-year ban on new oil drilling near Native American site in New Mexico</a> CNN: President Joe Biden will announce Monday a proposal for a 20-year ban on new oil and gas drilling near Chaco Canyon in New Mexico -- one of the oldest Native American sites in the US -- White House officials said. 
+ <p class="updated_time"> 09:09 AM CT, Nov. 15 </p> 
+ <a href="https://www.nytimes.com/2021/11/15/us/politics/bannon-congress-trump-jan-6.html">Bannon Turns Himself In on Contempt of Congress Charges</a> NYT: The former aide to Donald Trump had refused to comply with a demand for information from the House committee investigating the Jan. 6 Capitol riot. 
+ <p class="updated_time"> 09:07 AM CT, Nov. 15 </p> 
+ <a href="https://www.cnn.com/2021/11/15/politics/michael-flynn-one-religion/index.html">Ex-Trump adviser Michael Flynn's call for 'one religion' in the US garners swift condemnation</a> CNN: Former Trump national security adviser Michael Flynn's call for "one religion" in the US to win the battle of good versus evil has garnered sharp backlash from a range of critics. 
+ <p class="updated_time"> 09:05 AM CT, Nov. 15 </p> 
  <a href="https://www.cnn.com/2021/11/15/politics/steve-bannon/index.html">Steve Bannon surrenders after his indictment on two counts of contempt of Congress</a> CNN: Steve Bannon, a former adviser to former President Donald Trump, turned himself in to the FBI Monday morning to self-surrender after being indicted on criminal contempt charges on Friday. 
+ <p class="updated_time"> 08:58 AM CT, Nov. 15 </p> 
+ <a href="https://www.nytimes.com/2021/11/12/us/politics/bannon-indicted.html">Bannon Indicted on Contempt Charges Over House’s Capitol Riot Inquiry</a> NYT: Stephen K. Bannon, a former top aide to Donald Trump, had refused to comply with subpoenas from the House committee investigating the Jan. 6 attack on Congress. 
  <p class="updated_time"> 08:40 AM CT, Nov. 15 </p> 
  <a href="https://www.cnn.com/2021/11/15/politics/beto-orourke-governor-texas-2022/index.html">O'Rourke announces bid to take on Greg Abbott in 2022 Texas gubernatorial race</a> CNN: Beto O'Rourke, the former congressman and 2020 Democratic presidential candidate, on Monday launched his campaign to unseat Texas Gov. Greg Abbott in 2022. 
  <p class="updated_time"> 08:37 AM CT, Nov. 15 </p> 
  <a href="https://www.politico.com/news/2021/11/15/imprisoned-journalist-released-myanmar-522325">Imprisoned U.S. journalist released in Myanmar</a> Politico: Danny Fenster was arrested in May in the aftermath of a military coup in the Southeast Asian nation. 
  <p class="updated_time"> 08:35 AM CT, Nov. 15 </p> 
  <a href="https://www.cnn.com/2021/11/15/politics/biden-signing-ceremony-infrastructure-bill-white-house/index.html">Biden set to sign infrastructure bill into law</a> CNN: President Joe Biden signs the $1.2 trillion bipartisan infrastructure package into law Monday afternoon, seeking a jolt of momentum for his presidency as he commemorates a major legislative victory with pomp and circumstance on the White House South Lawn. 
- <p class="updated_time"> 08:18 AM CT, Nov. 15 </p> 
- <a href="https://www.cnn.com/2021/11/15/politics/biden-drilling-ban/index.html">Biden to propose 20-year ban on new oil drilling near Native American site in New Mexico</a> CNN: President Joe Biden will announce Monday a proposal for a 20-year ban on new oil and gas drilling near Chaco Canyon in New Mexico -- one of the oldest Native American sites in the US -- White House officials said. 
  <p class="updated_time"> 08:02 AM CT, Nov. 15 </p> 
  <a href="https://www.cnn.com/2021/11/15/politics/us-intelligence-russia-ukraine/index.html">US struggles with intelligence blind spot as Russia builds up forces near Ukraine</a> CNN: After publicly sounding the alarm about Russia's irregular military movements near Ukraine's border, the Biden administration's efforts to understand Russia's intentions are being hampered by a key blind spot -- the intelligence community's limited visibility into Russian President Vladimir Putin's inner circle. 
  <p class="updated_time"> 07:34 AM CT, Nov. 15 </p> 
@@ -320,8 +326,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/14/politics/anthony-gonzalez-donald-trump-cnntv/index.html">Rep. Anthony Gonzalez: 'The cold hard truth is Donald Trump led us into a ditch on January 6'</a> CNN: Rep. Anthony Gonzalez of Ohio, a House Republican who voted to impeach former President Donald Trump in his second impeachment trial earlier this year, repeatedly slammed Trump in an extensive sit-down interview with CNN's Jake Tapper. 
  <p class="updated_time"> 10:12 AM CT, Nov. 14 </p> 
  <a href="https://www.politico.com/news/2021/11/14/barrasso-trump-hang-pence-521960">Sen. Barrasso declines to condemn Trump over Pence remarks</a> Politico: The Wyoming Republican called the former president “an enduring force” 
- <p class="updated_time"> 10:02 AM CT, Nov. 14 </p> 
- <a href="https://www.politico.com/news/2021/11/14/inflation-yellen-covid-midterms-521951">Will inflation ease by next November? That depends on Covid, Yellen says</a> Politico: “The pandemic has been calling the shots for the economy and for inflation,” Janet Yellen said. 
  <p class="updated_time"> 10:00 AM CT, Nov. 14 </p> 
  <a href="https://www.cnn.com/2021/11/14/politics/biden-infrastructure-roads-bridges/index.html">4 projects that could be funded by Biden's infrastructure package</a> CNN: The passage of the $1.2 trillion infrastructure spending package is setting off a mad dash from states and counties seeking federal funds to repair and replace the nation's crumbling bridges, roads and ports. 
  <p class="updated_time"> 09:58 AM CT, Nov. 14 </p> 
@@ -360,8 +364,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/13/1055575781/rep-zoe-lofgren-on-steve-bannon-indictment">Rep. Zoe Lofgren on Steve Bannon indictment</a> NPR: NPR's Michel Martin speaks with Rep. Zoe Lofgren, a California Democrat, about Friday's indictment of Steve Bannon and the ongoing investigation into the Jan. 6 riot at the U.S. Capitol. 
  <p class="updated_time"> 03:26 PM CT, Nov. 13 </p> 
  <a href="https://www.nytimes.com/2021/11/13/us/politics/tribal-lands-flooding-nuclear-waste.html">Flooding and Nuclear Waste Eat Away at a Tribe’s Ancestral Home</a> NYT: The federal government allowed a stockpile of spent fuel on a Minnesota reservation to balloon even as a dam project whittled down the amount of livable land. 
- <p class="updated_time"> 03:20 PM CT, Nov. 13 </p> 
- <a href="https://www.cnn.com/2021/11/13/politics/afghans-exorbitant-costs/index.html">Some Afghans trying to flee country face exorbitant costs as Blinken touts success of efforts to help Americans</a> CNN: Afghans desperate to flee the country are increasingly having to negotiate with private operators charging exorbitant sums while US Secretary of State Antony Blinken announced on Friday that all Americans who have asked to leave Afghanistan have been offered an opportunity to do so. 
  <p class="updated_time"> 12:44 PM CT, Nov. 13 </p> 
  <a href="https://www.nytimes.com/2021/11/12/us/politics/kamala-harris-macron-france.html">In France, Kamala Harris Searches for Role on Global Stage</a> NYT: The vice president met with President Emmanuel Macron of France, skirting recent U.S.-French tensions, and immersed herself in issues like Libya and cybersecurity. 
  <p class="updated_time"> 12:40 PM CT, Nov. 13 </p> 
@@ -386,8 +388,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/12/us/politics/court-vaccine-mandate.html">Appeals Court Extends Block on Biden’s Vaccine Mandate for Employers</a> NYT: A three-judge panel of the U.S. Court of Appeals for the Fifth Circuit held that challengers were likely to succeed in their claim that the mandate was an unlawful overreach. 
  <p class="updated_time"> 07:07 PM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/us/politics/project-veritas-ashley-biden-diary.html">Project Veritas Tells Judge It Was Assured Biden Diary Was Legally Obtained</a> NYT: But a search warrant in the case suggests the Justice Department believes the diary kept by the president’s daughter Ashley Biden was stolen. 
- <p class="updated_time"> 06:12 PM CT, Nov. 12 </p> 
- <a href="https://www.nytimes.com/2021/11/12/us/politics/bannon-indicted.html">Bannon Indicted on Contempt Charges Over House’s Capitol Riot Inquiry</a> NYT: Stephen K. Bannon, a former top aide to Donald Trump, had refused to comply with subpoenas from the House committee investigating the Jan. 6 attack on Congress. 
  <p class="updated_time"> 03:05 PM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/us/politics/pell-grants-for-profit-colleges-aid.html">Democrats’ Bill Would Deny For-Profit College Students Extra Aid</a> NYT: Critics say a little-noticed provision would hurt the very constituencies — people of color, the working class, low-income Americans — that the party typically champions. 
  <p class="updated_time"> 01:40 PM CT, Nov. 12 </p> 
