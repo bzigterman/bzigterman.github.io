@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:55 PM CT, Nov. 15 </p> 
+ <a href="https://www.nytimes.com/2021/11/15/world/americas/cuba-protests.html">As Cuba Crushes Dissent, a Nationwide Protest Fizzles</a> NYT: In the days before the planned protest, the homes of government critics were surrounded by uniformed police officers, state security agents or government supporters holding picket signs, human rights activists said. 
  <p class="updated_time"> 04:22 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/world/canada/british-columbia-landslides.html">Landslides and Torrential Rains Batter British Columbia</a> NYT: Dozens of drivers were trapped by landslides, and the city of Merritt warned of a “mass sewage backup.” The rainfall was part of a system that also pummeled Washington State. 
  <p class="updated_time"> 04:07 PM CT, Nov. 15 </p> 
@@ -15,8 +17,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/15/world/middleeast/scorpions-egypt.html">Four-Inch Scorpions Called Deathstalkers Descend on Egypt</a> NYT: Swept from desert burrows, hundreds, if not thousands, of scorpions skittered into villages, stinging at least 503 people. 
  <p class="updated_time"> 03:22 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/world/asia/myanmar-danny-fenster-release.html">U.S. Journalist Danny Fenster Is Freed From Myanmar Prison</a> NYT: The release was a rare positive development in the country, which has been torn by violence since a February coup. 
- <p class="updated_time"> 03:17 PM CT, Nov. 15 </p> 
- <a href="https://www.nytimes.com/2021/11/15/world/americas/cuba-protests.html">Cuba Crushes Dissent Ahead of Protest</a> NYT: The homes of government critics were surrounded by uniformed police, state security agents or pro-government supporters holding picket signs, human rights activists said. 
  <p class="updated_time"> 03:13 PM CT, Nov. 15 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59299101?at_medium=RSS&at_campaign=KARANGA">US anger at Russian anti-satellite missile test debris</a> BBC: The state department says Russia "recklessly" destroyed a satellite, endangering astronauts in space. 
  <p class="updated_time"> 03:00 PM CT, Nov. 15 </p> 
@@ -220,24 +220,28 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/15/peter-thiel-is-coming-to-washington-522605">Peter Thiel is coming to Washington</a> Politico: The tech billionaire and Trump backer just bought a $13 million mansion in a ritzy D.C. neighborhood. 
  <p class="updated_time"> 05:18 PM CT, Nov. 15 </p> 
  <a href="https://www.politico.com/news/2021/11/15/trump-west-virginia-mooney-mckinley-522608">Trump wades into West Virginia member-vs-member race</a> Politico: The former president endorsed Alex Mooney over David McKinley in the matchup between two House GOP incumbents. 
+ <p class="updated_time"> 04:59 PM CT, Nov. 15 </p> 
+ <a href="https://www.nytimes.com/2021/11/15/climate/biden-bans-drilling-chaco-canyon.html">Biden Plans to Bar New Drilling Around Chaco Canyon in New Mexico</a> NYT: After years of tribal requests, the president plans to block new oil and gas leases within 10 miles of Chaco Canyon in New Mexico. The move generated strong pushback from industry groups. 
+ <p class="updated_time"> 04:58 PM CT, Nov. 15 </p> 
+ <a href="https://www.nytimes.com/2021/11/15/us/politics/beto-orourke-texas-governor-announcement.html">Beto O’Rourke Announces Run for Texas Governor, Testing Democrats’ Strength</a> NYT: Mr. O’Rourke’s announcement on Monday set the stage for a pitched political showdown over the future of the country’s largest Republican-led state. 
+ <p class="updated_time"> 04:54 PM CT, Nov. 15 </p> 
+ <a href="https://www.cnn.com/2021/11/15/politics/biden-signing-ceremony-infrastructure-bill-white-house/index.html">Biden signs infrastructure bill into law at rare bipartisan gathering</a> CNN: President Joe Biden signs the $1.2 trillion bipartisan infrastructure package into law Monday afternoon, seeking a jolt of momentum for his presidency as he commemorates a major legislative victory with pomp and circumstance on the White House South Lawn. 
+ <p class="updated_time"> 04:53 PM CT, Nov. 15 </p> 
+ <a href="https://www.nytimes.com/2021/11/15/us/politics/biden-signs-infrastructure-bill.html">Biden Signs $1 Trillion Infrastructure Bill Into Law</a> NYT: Billions of dollars will now pour into American communities, although the final bill falls short of the president’s ambitions. 
  <p class="updated_time"> 04:32 PM CT, Nov. 15 </p> 
  <a href="https://www.politico.com/news/2021/11/15/biden-signs-bipartisan-infrastructure-deal-522567">Biden finally gets the ‘big effing deal’ signing ceremony of his own</a> Politico: But amid the celebrations over the bipartisan infrastructure package, the question just below the surface was: Will this be his last such moment? 
  <p class="updated_time"> 04:23 PM CT, Nov. 15 </p> 
  <a href="https://www.cnn.com/2021/11/15/politics/chris-christie-donald-trump-january-6-cnntv/index.html">Chris Christie blames Trump's rhetoric about stolen election for January 6 insurrection </a> CNN: Former New Jersey Gov. Chris Christie said he believes the insurrection at the US Capitol on January 6 was the result of former President Donald Trump's lie that the 2020 presidential election was stolen. 
- <p class="updated_time"> 04:17 PM CT, Nov. 15 </p> 
- <a href="https://www.cnn.com/2021/11/15/politics/biden-signing-ceremony-infrastructure-bill-white-house/index.html">Biden signs infrastructure bill into law at rare bipartisan gathering</a> CNN: President Joe Biden signs the $1.2 trillion bipartisan infrastructure package into law Monday afternoon, seeking a jolt of momentum for his presidency as he commemorates a major legislative victory with pomp and circumstance on the White House South Lawn. 
  <p class="updated_time"> 04:10 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/us/politics/alex-jones-sandy-hook.html">Alex Jones Liable in Sandy Hook Defamation Suits</a> NYT: A Connecticut judge’s ruling combines with decisions in Texas to grant a clean sweep for families of shooting victims in their cases against the Infowars host. 
  <p class="updated_time"> 04:00 PM CT, Nov. 15 </p> 
  <a href="https://www.cnn.com/2021/11/15/politics/white-house-defends-harris/index.html">White House defends Harris as 'key partner' to Biden amid reports of dysfunction</a> CNN: The White House on Monday defended Vice President Kamala Harris as a "key partner" to President Joe Biden following CNN reporting that key West Wing aides are exasperated by what they see as entrenched dysfunction and lack of focus from Harris and her staff, while many in the vice president's circle believe Harris is being sidelined. 
  <p class="updated_time"> 03:59 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/business/energy-environment/gas-prices-inflation.html">With Gas Prices High, Calls Grow to Tap Strategic Oil Reserve</a> NYT: President Biden is under pressure to release oil from the Strategic Petroleum Reserve. Here’s how it works, and how it might lower prices (modestly, and maybe not for long). 
- <p class="updated_time"> 03:59 PM CT, Nov. 15 </p> 
- <a href="https://www.nytimes.com/2021/11/15/us/politics/biden-signs-infrastructure-bill.html">Biden Signs $1 Trillion Infrastructure Bill Into Law</a> NYT: Billions of dollars will now pour into American communities, although the final bill falls short of the president’s ambitions. 
  <p class="updated_time"> 03:53 PM CT, Nov. 15 </p> 
  <a href="https://www.politico.com/news/2021/11/15/pentagon-oklahoma-guard-comply-vaccine-mandate-522523">Pentagon: Oklahoma Guard must comply with vaccine mandate</a> Politico: "It is a lawful order for National Guardsmen to receive the Covid vaccine. It is a lawful order," Defense Department press secretary John Kirby told reporters. 
  <p class="updated_time"> 03:46 PM CT, Nov. 15 </p> 
- <a href="https://www.cnn.com/2021/11/15/politics/russia-anti-satellite-weapon-test-scn/index.html">US concerned that a Russian anti-satellite weapons test created a debris field in space</a> CNN: The US is concerned that Russia carried out a major anti-satellite weapons test over the weekend, two US officials told CNN. One of the officials said it may have created a potentially dangerous debris field in space. 
+ <a href="https://www.cnn.com/2021/11/15/politics/russia-anti-satellite-weapon-test-scn/index.html">US says it 'won't tolerate' Russia's 'reckless and dangerous' anti-satellite missile test</a> CNN: The US is concerned that Russia carried out a major anti-satellite weapons test over the weekend, two US officials told CNN. One of the officials said it may have created a potentially dangerous debris field in space. 
  <p class="updated_time"> 03:45 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/us/politics/whats-in-the-infrastructure-bill.html">Here's What's in the Infrastructure Bill Biden Will Sign Today</a> NYT: In total, the measure contains $550 billion in new funds to be spread around different areas of need. 
  <p class="updated_time"> 03:34 PM CT, Nov. 15 </p> 
@@ -304,8 +308,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/15/politics/donald-trump-steve-bannon-january-6-joe-biden-infrastructure/index.html">Analysis: Trump is in full attack mode as Biden celebrates a victory that eluded him</a> CNN: Donald Trump is tightening his malignant hold on American politics as Joe Biden battles to stabilize his own problem-plagued presidency by celebrating the kind of political win his predecessor never managed. 
  <p class="updated_time"> 09:18 AM CT, Nov. 15 </p> 
  <a href="https://www.cnn.com/2021/11/15/politics/beto-orourke-governor-texas-2022/index.html">O'Rourke announces bid to take on Greg Abbott in 2022 Texas gubernatorial race</a> CNN: Beto O'Rourke, the former congressman and 2020 Democratic presidential candidate, on Monday launched his campaign to unseat Texas Gov. Greg Abbott in 2022. 
- <p class="updated_time"> 09:11 AM CT, Nov. 15 </p> 
- <a href="https://www.nytimes.com/2021/11/15/us/politics/beto-orourke-texas-governor-announcement.html">Beto O’Rourke Announces Run for Texas Governor, Testing Democrats’ Strength</a> NYT: Mr. O’Rourke’s announcement on Monday sets the stage for a pitched political showdown over the future of the country’s largest Republican-led state. 
  <p class="updated_time"> 08:37 AM CT, Nov. 15 </p> 
  <a href="https://www.politico.com/news/2021/11/15/imprisoned-journalist-released-myanmar-522325">Imprisoned U.S. journalist released in Myanmar</a> Politico: Danny Fenster was arrested in May in the aftermath of a military coup in the Southeast Asian nation. 
  <p class="updated_time"> 07:31 AM CT, Nov. 15 </p> 
@@ -322,6 +324,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/15/gop-trump-budget-congress-521209">GOP weighs trapping Democrats in Trump’s budget</a> Politico: Democrats are working to negotiate a government funding deal, but Republicans have a long list of demands before they'll come to the table. 
  <p class="updated_time"> 04:30 AM CT, Nov. 15 </p> 
  <a href="https://www.politico.com/news/2021/11/15/andrew-cuomo-wont-leave-ny-521205">‘He’s nuts and he’s got a vendetta’: Cuomo won’t leave New York alone</a> Politico: Even as Albany’s insiders focus on Andrew Cuomo’s successor, Gov. Kathy Hochul, they privately continue worrying about what he might be up to. 
+ <p class="updated_time"> 04:30 AM CT, Nov. 15 </p> 
+ <a href="https://www.politico.com/news/2021/11/15/mcconnell-disinvite-trump-biden-inaugural-522253">McConnell sought to disinvite Trump from Biden’s inaugural</a> Politico: According to a new book from Jonathan Karl, Trump got wind of the plan and preemptively announced he wasn’t attending 
  <p class="updated_time"> 04:30 AM CT, Nov. 15 </p> 
  <a href="https://www.politico.com/news/2021/11/15/democrats-reconciliation-health-care-midterms-521959">Dems' bitter pill: Popular health provisions won't kick in until after the midterms</a> Politico: There was little they could have done to speed up implementation of key parts of their bill. They’re hoping voters will reward them regardless. 
  <p class="updated_time"> 04:05 AM CT, Nov. 15 </p> 
@@ -380,12 +384,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/14/1055508416/doug-emhoff-is-americas-first-second-gentleman-in-paris-he-showed-what-that-mean">Doug Emhoff is America's first second gentleman. In Paris, he showed what that means</a> NPR: Doug Emhoff, the husband of Vice President Harris, is taking a very traditional approach to his role of second spouse. The Paris trip was their first diplomatic trip abroad. 
  <p class="updated_time"> 06:00 AM CT, Nov. 14 </p> 
  <a href="https://www.npr.org/2021/11/14/1054746569/what-2021s-recent-elections-tell-us-about-voting-in-2022-and-beyond">What 2021's recent elections tell us about voting in 2022 and beyond</a> NPR: Recent off-year elections showed that voters may not be so invested in making it easier to vote while Republicans may benefit from higher voter turnout than they previously had thought. 
- <p class="updated_time"> 02:00 AM CT, Nov. 14 </p> 
- <a href="https://www.nytimes.com/2021/11/14/us/loudoun-county-school-board-va.html">How Loudoun Schools Got Caught in Virginia’s Political Maelstrom </a> NYT: Loudoun County tried to address racism and promote diversity within its schools. Then it found itself on Fox News. 
- <p class="updated_time"> 08:29 PM CT, Nov. 13 </p> 
- <a href="https://www.politico.com/news/2021/11/13/coalglasgow-climate-deal-521802">The last-minute coal demand that almost sunk the Glasgow climate deal</a> Politico: At issue was a late push from China and India. 
- <p class="updated_time"> 07:02 PM CT, Nov. 13 </p> 
- <a href="https://www.politico.com/news/2021/11/13/climate-talks-glasgow-521720">The U.S. turns up the heat at climate talks</a> Politico: After four years of taking a backseat role under Donald Trump, the Biden team was a driving force at the Glasgow COP26 talks. But winning a strong global agreement remains difficult. 
  <p class="updated_time"> 04:23 PM CT, Nov. 13 </p> 
  <a href="https://www.politico.com/news/2021/11/13/cop26-climate-deal-vulnerable-countries-521446">Countries strike a climate deal that’s ‘too late’ for some, too much for others</a> Politico: Compromise in Glasgow pushes efforts into next year. 
  <p class="updated_time"> 04:04 PM CT, Nov. 13 </p> 
@@ -440,6 +438,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/11/10/new-reminders-that-this-is-not-normal-495046">POLITICO Playbook: New reminders that this is not normal</a> Politico: And a new poll shows Biden's vaccine mandate losing support. 
  <p class="updated_time"> 04:31 AM CT, Nov. 10 </p> 
  <a href="https://www.politico.com/news/2021/11/10/schumer-billions-new-york-public-housing-520519">Schumer scores billions for New York's decaying public housing</a> Politico: The jockeying over the housing funds is one of many emerging sources of political tension surrounding President Joe Biden's bill. 
+ <p class="updated_time"> 04:30 AM CT, Nov. 10 </p> 
+ <a href="https://www.politico.com/news/2021/11/10/biden-vaccine-mandates-va-mcdonough-520564">Biden called for widespread mandates. His VA is navigating its own minefields.</a> Politico: An overwhelming number of staff have gotten vaccinated. But a month after the deadline, at least ten percent of a 380,000 health care workforce still haven’t. 
  <p class="updated_time"> 06:13 PM CT, Nov. 09 </p> 
  <a href="https://www.politico.com/news/2021/11/09/biden-infrastructure-republicans-committee-standing-520484">Biden denounces efforts to strip Republicans who supported infrastructure of committee standing</a> Politico: “If we don’t generate consensus in America, we’re in trouble,” Biden said. 
  <p class="updated_time"> 03:18 PM CT, Nov. 09 </p> 
