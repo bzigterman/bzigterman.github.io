@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:47 AM CT, Nov. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/science-environment-59263761?at_medium=RSS&at_campaign=KARANGA">COP26: How might decisions at the climate summit change our lives?</a> BBC: The changes made at COP26 in Glasgow could have implications for the way we live. 
  <p class="updated_time"> 05:40 AM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/14/world/europe/liverpool-hospital-car-explosion.html">Taxi Explodes Outside Liverpool Hospital, Killing One</a> NYT: Three men in their twenties were arrested under Britain’s Terrorism Act several hours after the explosion, in which a second person was injured, the authorities said. 
  <p class="updated_time"> 05:32 AM CT, Nov. 15 </p> 
@@ -137,8 +139,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/13/1055575802/lack-of-american-ambassadors-is-hurting-foreign-goals-says-afsa-president">Lack of American ambassadors is hurting foreign goals, says AFSA president</a> NPR: NPR's Michel Martin speaks with Eric Rubin, president of the American Foreign Service Association, about the high number of diplomatic vacancies and how it's affecting President Biden's agenda. 
  <p class="updated_time"> 04:04 PM CT, Nov. 13 </p> 
  <a href="https://www.npr.org/2021/11/13/1055575788/world-leaders-commit-to-ambitious-goals-at-u-n-climate-summit">World leaders commit to ambitious goals at U.N. climate summit</a> NPR: The U.N. climate summit's landmark decision sets aggressive targets for cutting greenhouse emissions. It also promises more aid for developing countries, but many of those countries wanted more. 
- <p class="updated_time"> 02:40 PM CT, Nov. 13 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-59263761?at_medium=RSS&at_campaign=KARANGA">COP26: How might decisions at the climate summit change our lives?</a> BBC: The changes made at COP26 in Glasgow could have implications for the way we live. 
  <p class="updated_time"> 02:18 PM CT, Nov. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-59276651?at_medium=RSS&at_campaign=KARANGA">COP26: Alok Sharma fights back tears as Glasgow Climate Pact agreed</a> BBC: The COP26 president apologised as a late amendment on coal was added to the draft text by India. 
  <p class="updated_time"> 01:42 PM CT, Nov. 13 </p> 
