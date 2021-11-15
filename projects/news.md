@@ -7,6 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 07:39 PM CT, Nov. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59283128?at_medium=RSS&at_campaign=KARANGA">Covid: Austria introduces lockdown for unvaccinated</a> BBC: Some two million people are told to stay at home amid growing pressure on hospitals as cases surge. 
+ <p class="updated_time"> 07:13 PM CT, Nov. 14 </p> 
+ <a href="https://www.nytimes.com/2021/11/14/world/asia/rohingya-refugees-bangladesh.html">They Warned Their Names Were on a Hit List. They Were Killed.</a> NYT: In less than a month, assassins have killed at least eight people in the Rohingya refugee camps of Bangladesh, silencing those who have dared to speak out against the violent gangs. 
+ <p class="updated_time"> 06:52 PM CT, Nov. 14 </p> 
+ <a href="https://www.nytimes.com/2021/11/14/world/middleeast/afghan-university-students-iraq.html">Afghan College Students Find a New Life, and Safety, in Iraq</a> NYT: Regarded as infidels by the Taliban, over 100 students from the American University in Kabul have found an unlikely refuge in the Iraqi Kurdish city of Sulaimaniya. 
  <p class="updated_time"> 06:39 PM CT, Nov. 14 </p> 
  <a href="https://www.nytimes.com/2021/11/14/business/japan-economy.html">Japan’s Economy Shrinks, but Outlook Is Warm as Virus Ebbs</a> NYT: The coronavirus and supply chain issues stymied growth in the third quarter, but high vaccination rates and low numbers of virus cases point to a recovery. 
  <p class="updated_time"> 06:06 PM CT, Nov. 14 </p> 
@@ -39,8 +45,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59283134?at_medium=RSS&at_campaign=KARANGA">Macron switches to using navy blue on France's flag - reports</a> BBC: The French president wants to reconnect with a symbol of the French Revolution, reports say. 
  <p class="updated_time"> 12:57 PM CT, Nov. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59279585?at_medium=RSS&at_campaign=KARANGA">US defends air strikes that killed civilians in Syria</a> BBC: The strikes occurred in the last stronghold of the so-called Islamic State in Syria in 2019. 
- <p class="updated_time"> 12:55 PM CT, Nov. 14 </p> 
- <a href="https://www.nytimes.com/2021/11/14/world/middleeast/afghan-university-students-iraq.html">Afghan College Students Find a New Life, and Safety, in Iraq</a> NYT: Regarded as infidels by the Taliban, over 100 students from the American University in Kabul have found an unlikely refuge in the Iraqi Kurdish city of Sulaimaniya. 
  <p class="updated_time"> 12:47 PM CT, Nov. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59280707?at_medium=RSS&at_campaign=KARANGA">Japan's former princess Mako arrives in New York after giving up title</a> BBC: Mako was forced to give up her titles when she married her "commoner" husband last month. 
  <p class="updated_time"> 12:43 PM CT, Nov. 14 </p> 
@@ -61,12 +65,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/14/world/middleeast/iran-earthquake.html">At Least 1 Dead After Quakes Strike Southern Iran</a> NYT: Two moderate temblors hit Hormozgan Province on Sunday afternoon, state TV reported. 
  <p class="updated_time"> 10:35 AM CT, Nov. 14 </p> 
  <a href="https://www.nytimes.com/2021/11/14/world/americas/cuba-protest.html">In Cuba, Desires for Food and Freedom May Spark a Rare Day of Protest</a> NYT: Young dissidents who rely on the internet to spread their ideas are calling for a protest on Monday, a bold move with little precedent in Cuba. 
- <p class="updated_time"> 10:17 AM CT, Nov. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59283128?at_medium=RSS&at_campaign=KARANGA">Covid: Austria orders nationwide lockdown for unvaccinated</a> BBC: The new rules are being introduced amid record infection levels and growing pressure on hospitals. 
  <p class="updated_time"> 08:49 AM CT, Nov. 14 </p> 
  <a href="https://www.bbc.co.uk/news/uk-59280241?at_medium=RSS&at_campaign=KARANGA">China and India must explain themselves - COP president</a> BBC: COP26 President Alok Sharma speaks after an agreement to "phase down" coal rather than "phase out". 
- <p class="updated_time"> 08:42 AM CT, Nov. 14 </p> 
- <a href="https://www.nytimes.com/2021/11/14/world/asia/rohingya-refugees-bangladesh.html">They Warned Their Names Were on a Hit List. They Were Killed.</a> NYT: In less than a month, assassins have killed at least eight people in the Rohingya refugee camps of Bangladesh, silencing those who have dared to speak out against the violent gangs. 
  <p class="updated_time"> 08:26 AM CT, Nov. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59280215?at_medium=RSS&at_campaign=KARANGA">Saif al-Islam Gaddafi: Son of Libya ex-ruler runs for president</a> BBC: Saif al-Islam Gaddafi, wanted on war crimes charges at an international court, registers as a candidate. 
  <p class="updated_time"> 07:45 AM CT, Nov. 14 </p> 
@@ -216,6 +216,10 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:35 PM CT, Nov. 14 </p> 
+ <a href="https://www.nytimes.com/2021/11/14/us/politics/trump-hotel-sale.html">Trump to Sell Marquee Washington Hotel for at Least $375 Million</a> NYT: The pending deal to sell the Trump International Hotel, often the subject of controversy during his presidency, comes after years of financial losses at the property. 
+ <p class="updated_time"> 06:34 PM CT, Nov. 14 </p> 
+ <a href="https://www.cnn.com/2021/11/14/politics/mitch-landrieu-biden-infrastructure/index.html">Biden taps former New Orleans mayor to oversee implementation of massive infrastructure bill</a> CNN: President Joe Biden has selected former New Orleans Mayor Mitch Landrieu to oversee the implementation of the roughly $1 trillion bipartisan infrastructure bill, the White House announced Sunday evening. 
  <p class="updated_time"> 06:30 PM CT, Nov. 14 </p> 
  <a href="https://www.nytimes.com/2021/11/14/us/politics/biden-mitch-landrieu-infrastructure.html">Biden Names Mitch Landrieu to Oversee Infrastructure Spending</a> NYT: Mr. Landrieu, a former mayor of New Orleans, will supervise the distribution of funds from the bipartisan legislation that the president will sign into law on Monday. 
  <p class="updated_time"> 06:06 PM CT, Nov. 14 </p> 
@@ -342,8 +346,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/12/politics/mark-meadows-january-6-deposition/index.html">Mark Meadows did not appear for deposition with January 6 committee</a> CNN: Former Trump White House Chief of Staff Mark Meadows did not appear in person for a deposition on Friday in front of the House select committee investigating January 6, setting up a potential showdown that could lead to the panel beginning a criminal referral process against him. 
  <p class="updated_time"> 06:12 PM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/us/politics/bannon-indicted.html">Bannon Indicted on Contempt Charges Over House’s Capitol Riot Inquiry</a> NYT: Stephen K. Bannon, a former top aide to Donald Trump, had refused to comply with subpoenas from the House committee investigating the Jan. 6 attack on Congress. 
- <p class="updated_time"> 04:33 PM CT, Nov. 12 </p> 
- <a href="https://www.cnn.com/2021/11/12/politics/biden-admin-ethiopia-eritrea-sanctions/index.html">Biden administration sanctions Eritrean military, ruling party over role in northern Ethiopia conflict</a> CNN: The Biden administration sanctioned Eritrea's military and sole political party for their involvement in the ongoing crisis in northern Ethiopia. 
  <p class="updated_time"> 04:03 PM CT, Nov. 12 </p> 
  <a href="https://www.npr.org/2021/11/12/1055366694/how-a-powerful-new-jersey-senate-president-lost-his-seat-to-an-unknown-truck-dri">How a powerful New Jersey Senate president lost his seat to an unknown truck driver</a> NPR: There was enough working against Democrats inside and outside of New Jersey for the powerful state Senate president to lose his seat to a truck driver with no political experience. 
  <p class="updated_time"> 03:45 PM CT, Nov. 12 </p> 
@@ -388,8 +390,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/12/mccarthys-bumpy-ride-to-the-speakership-520670">McCarthy's vexing speaker math problem</a> Politico: Will he glide to the speakership or have a white-knuckle ride? The size of next year's Republican gains could make the difference. 
  <p class="updated_time"> 04:00 AM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/us/politics/democrats-trifecta-power.html">Why Democrats May Have a Long Wait if They Lose Their Grip on Washington</a> NYT: Voters’ reflexive instinct to check the party in power makes it hard for any party to retain a hold on both the White House and Congress for long. 
- <p class="updated_time"> 05:30 PM CT, Nov. 11 </p> 
- <a href="https://www.nytimes.com/2021/11/11/us/politics/facebook-political-ads.html">Facebook's Ad Policies Changed, but Political Campaigns Can Still Target You</a> NYT: Meta announced changes to its ad-targeting policies, but they will do little to stop campaigns from reaching specific voters. 
  <p class="updated_time"> 05:16 PM CT, Nov. 11 </p> 
  <a href="https://www.politico.com/news/2021/11/11/republicans-wrestle-infrastructure-backlash-520956">‘I hope it’s a fever that will break’: GOP wrestles with infrastructure vote backlash</a> Politico: “Some elements of the party keep finding new ways to define Republicanism,” says one longtime GOP lobbyist and strategist. 
  <p class="updated_time"> 04:41 PM CT, Nov. 11 </p> 
