@@ -7,6 +7,18 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:01 AM CT, Nov. 15 </p> 
+ <a href="https://www.nytimes.com/2021/11/14/world/europe/austria-unvaccinated-lockdown.html">Austria to Target the Unvaccinated in New Lockdown</a> NYT: The country, facing the biggest surge in virus cases since the pandemic started, is putting strict curbs on the movement of those without shots. 
+ <p class="updated_time"> 04:01 AM CT, Nov. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59290412?at_medium=RSS&at_campaign=KARANGA">US journalist Fenster freed from Myanmar jail</a> BBC: Editor Danny Fenster has been freed from a Myanmar prison and will be allowed to leave country just days after getting 11-year sentence. 
+ <p class="updated_time"> 04:00 AM CT, Nov. 15 </p> 
+ <a href="https://www.nytimes.com/2021/11/15/world/asia/japan-elderly-diapers.html">A New Source of Fuel in an Aging Japan: Adult Incontinence</a> NYT: Waste from adult diapers is growing by tens of thousands of tons a year in Japan. One town may have a solution: recycle it into fuel pellets. 
+ <p class="updated_time"> 04:00 AM CT, Nov. 15 </p> 
+ <a href="https://www.nytimes.com/2021/11/15/travel/bulgaria-narrow-gauge-railway.html">Inside the Struggle to Save Bulgaria’s Last Narrow-Gauge Railroad</a> NYT: The Rhodope Narrow-Gauge Railway serves remote communities in southwestern Bulgaria. Can longtime riders — and young enthusiasts — keep it running? 
+ <p class="updated_time"> 04:00 AM CT, Nov. 15 </p> 
+ <a href="https://www.nytimes.com/2021/11/15/us/politics/biden-china-xi-jinping.html">Biden and Xi to Meet Amid Economic and Military Tensions</a> NYT: U.S. officials said the virtual summit on Monday was intended to reassure both sides that misunderstandings would not lead to unintended clashes. 
+ <p class="updated_time"> 03:59 AM CT, Nov. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-australia-59288177?at_medium=RSS&at_campaign=KARANGA">Australian women sue over Qatar airport strip-searches</a> BBC: They are seeking damages after being forced into examinations at Doha airport last year. 
  <p class="updated_time"> 03:42 AM CT, Nov. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59283128?at_medium=RSS&at_campaign=KARANGA">Covid: Austria introduces lockdown for unvaccinated</a> BBC: Some two million people are told to stay at home amid growing pressure on hospitals as cases surge. 
  <p class="updated_time"> 02:03 AM CT, Nov. 15 </p> 
@@ -47,18 +59,12 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/14/1055696930/an-island-nations-representative-says-cop26-failed-to-set-actionable-response-pl">An island nations representative says COP26 failed to set actionable response plan</a> NPR: NPR's Michel Martin speaks with Janine Felson, deputy head of the Belize Delegation for COP26 and advisor to the Alliance of Small Island States, about how negotiations went at COP26 in Glasgow. 
  <p class="updated_time"> 03:45 PM CT, Nov. 14 </p> 
  <a href="https://www.npr.org/2021/11/14/1055679802/pope-francis-again-calls-for-climate-action-u-s-bishops-have-been-all-but-silent">Pope Francis again calls for climate action. U.S. bishops have been all but silent</a> NPR: The pope has been insistent about the importance and urgency of climate action. But a new study finds Catholic bishops in the U.S. have generally been mum or misleading about climate change. 
- <p class="updated_time"> 02:11 PM CT, Nov. 14 </p> 
- <a href="https://www.nytimes.com/2021/11/14/world/europe/austria-unvaccinated-lockdown.html">Austria to Target the Unvaccinated in New Lockdown</a> NYT: The country, facing the biggest surge in virus cases since the pandemic started, is putting strict curbs on the movement of those without shots. 
  <p class="updated_time"> 02:08 PM CT, Nov. 14 </p> 
  <a href="https://www.npr.org/2021/11/14/1055680400/3-dead-hundreds-injured-after-storms-rouse-scorpions-in-egypt">3 dead, hundreds injured after storms rouse scorpions in Egypt</a> NPR: The city of Aswan has been dealing with an influx of scorpions and snakes, thanks to a recent rash of heavy storms disturbing their hiding places. 
  <p class="updated_time"> 01:12 PM CT, Nov. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59283134?at_medium=RSS&at_campaign=KARANGA">Macron switches to using navy blue on France's flag - reports</a> BBC: The French president wants to reconnect with a symbol of the French Revolution, reports say. 
- <p class="updated_time"> 12:57 PM CT, Nov. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59279585?at_medium=RSS&at_campaign=KARANGA">US defends air strikes that killed civilians in Syria</a> BBC: The strikes occurred in the last stronghold of the so-called Islamic State in Syria in 2019. 
  <p class="updated_time"> 12:47 PM CT, Nov. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59280707?at_medium=RSS&at_campaign=KARANGA">Japan's former princess Mako arrives in New York after giving up title</a> BBC: Mako was forced to give up her titles when she married her "commoner" husband last month. 
- <p class="updated_time"> 12:43 PM CT, Nov. 14 </p> 
- <a href="https://www.bbc.co.uk/sport/tennis/59284680?at_medium=RSS&at_campaign=KARANGA">Peng Shuai: Chinese tennis star 'deserves to be heard' on sexual assault claims - WTA</a> BBC: Chinese player Peng Shuai deserves "to be heard, not censored" after publicly accusing the country's former vice-premier of sexual assault, says the Women's Tennis Association. 
  <p class="updated_time"> 12:37 PM CT, Nov. 14 </p> 
  <a href="https://www.nytimes.com/2021/11/14/world/asia/afghanistan-isis-shiites.html">The String of ISIS Attacks That Killed Three Generations of One Afghan Family</a> NYT: Over two weeks, the Rajabis suffered loss after loss as suicide attacks on Shiite mosques in two parts of the country ravaged their family. 
  <p class="updated_time"> 12:24 PM CT, Nov. 14 </p> 
@@ -75,16 +81,12 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/14/world/middleeast/iran-earthquake.html">At Least 1 Dead After Quakes Strike Southern Iran</a> NYT: Two moderate temblors hit Hormozgan Province on Sunday afternoon, state TV reported. 
  <p class="updated_time"> 10:35 AM CT, Nov. 14 </p> 
  <a href="https://www.nytimes.com/2021/11/14/world/americas/cuba-protest.html">In Cuba, Desires for Food and Freedom May Spark a Rare Day of Protest</a> NYT: Young dissidents who rely on the internet to spread their ideas are calling for a protest on Monday, a bold move with little precedent in Cuba. 
- <p class="updated_time"> 08:26 AM CT, Nov. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59280215?at_medium=RSS&at_campaign=KARANGA">Saif al-Islam Gaddafi: Son of Libya ex-ruler runs for president</a> BBC: Saif al-Islam Gaddafi, wanted on war crimes charges at an international court, registers as a candidate. 
  <p class="updated_time"> 07:45 AM CT, Nov. 14 </p> 
  <a href="https://www.wsj.com/articles/xi-jinping-china-economy-growth-poverty-tech-beijing-11636915358">What's Driving Xi Jinping's Economic Revamp? China's Social Mobility Has Stalled</a> WSJ: Academic research and data show that as the country’s economy matures, more opportunities go to the children of wealthy and politically connected elites, posing a challenge to the ruling Communist Party. 
  <p class="updated_time"> 07:44 AM CT, Nov. 14 </p> 
  <a href="https://www.nytimes.com/2021/11/14/world/europe/queen-elizabeth-health.html">Queen Elizabeth Misses Remembrance Service Because of Sprained Back</a> NYT: The British monarch, 95, has put off multiple trips and engagements recently, and the latest cancellation has deepened anxiety about her health. She has now been out of sight since mid-October. 
  <p class="updated_time"> 07:30 AM CT, Nov. 14 </p> 
  <a href="https://www.wsj.com/articles/in-belarus-border-standoff-europes-debates-converge-on-poland-11636914600">In Belarus Border Standoff, Europe's Debates Converge on Poland</a> WSJ: For half a decade, the country’s nationalist government has been locked in an escalating culture war within the European Union. Now, in a border standoff with neighboring Belarus, Poland finds itself on the front lines of Europe’s external conflict. 
- <p class="updated_time"> 07:20 AM CT, Nov. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59280706?at_medium=RSS&at_campaign=KARANGA">US bank robber identified after decades-long hunt</a> BBC: Ted Conrad disappeared with $1.7 million after pulling off a bizarre heist more than 50 years ago. 
  <p class="updated_time"> 07:05 AM CT, Nov. 14 </p> 
  <a href="https://www.npr.org/2021/11/14/1055640659/cubans-protest-for-greater-freedom-of-expression-while-government-clamps-down">Cubans protest for greater freedom of expression while government clamps down</a> NPR: Pro-democracy activists and artists in Cuba say they will hold public protests on Monday, despite the government's statement that such demonstrations will not be permitted. 
  <p class="updated_time"> 07:05 AM CT, Nov. 14 </p> 
@@ -205,14 +207,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/11/world/asia/india-pollution-yamuna-chhath.html">On Delhi’s Toxic River, Prayers to a Sun Struggling to Shine Through Smog</a> NYT: Every year, a four-day festival to the sun god Surya highlights the Indian city’s extreme air and water pollution, with a river so filled with foam it resembles a blizzard’s aftermath. 
  <p class="updated_time"> 05:37 PM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/world/who-is-aleksandr-g-lukashenko.html">Who Is Aleksandr Lukashenko? Here's What You Need to Know</a> NYT: A migrant crisis on the border with Poland has put the Belarusian president at the center of a clash roiling Europe. 
- <p class="updated_time"> 05:03 PM CT, Nov. 11 </p> 
- <a href="https://www.nytimes.com/2021/11/11/world/europe/germany-covid-unvaccinated.html">Germany’s Fourth Covid Wave: ‘A Pandemic of the Unvaccinated’</a> NYT: Germany once set an example for how to manage the coronavirus. Now, deep pockets of vaccine resistance are helping drive daily infections to new heights. 
  <p class="updated_time"> 02:52 PM CT, Nov. 11 </p> 
  <a href="https://www.nytimes.com/2021/11/11/world/americas/bolsonaro-trump-brazil-election.html">Trump Allies Help Bolsonaro Sow Doubt in Brazil's Elections</a> NYT: With his poll numbers falling, President Jair Bolsonaro is already questioning the legitimacy of next year’s election. He has help from the United States. 
- <p class="updated_time"> 01:56 PM CT, Nov. 11 </p> 
- <a href="https://www.nytimes.com/2021/11/11/world/middleeast/saudi-court-execution-crime.html">Saudi Court Blocks Execution of Man Convicted of Crime Committed at 14</a> NYT: Rights groups said the death sentence for Abdullah al-Huwaiti ran contrary to the kingdom’s claimed legal reforms. Now he’ll be retried. 
- <p class="updated_time"> 01:38 PM CT, Nov. 11 </p> 
- <a href="https://www.nytimes.com/2021/11/11/world/middleeast/israel-palestinian-nso-hacking.html">Palestinian Diplomats Targeted by Israeli Spyware, Official Says</a> NYT: The accusation, which has not been independently verified, raises new questions over whether Israel is using software made by NSO Group to spy on Palestinians. 
 
 
 </details>
@@ -224,6 +220,14 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/15/gop-trump-budget-congress-521209">GOP weighs trapping Democrats in Trump’s budget</a> Politico: Democrats are working to negotiate a government funding deal, but Republicans have a long list of demands before they'll come to the table. 
  <p class="updated_time"> 04:30 AM CT, Nov. 15 </p> 
  <a href="https://www.politico.com/news/2021/11/15/democrats-reconciliation-health-care-midterms-521959">Dems stuffed their bill with popular health provisions — but they’re delayed until after the midterms</a> Politico: There was little they could do to speed up implementation. And they’re hoping voters will reward them regardless. 
+ <p class="updated_time"> 04:00 AM CT, Nov. 15 </p> 
+ <a href="https://www.npr.org/2021/11/15/1053917252/infrastructure-bill-broadband-internet-rural-college-students">Students are still struggling to get internet. The infrastructure bill could help</a> NPR: President Biden's infrastructure bill includes $65 billion for improving broadband. That money could make a big difference for rural college students, who are especially disconnected. 
+ <p class="updated_time"> 04:00 AM CT, Nov. 15 </p> 
+ <a href="https://www.nytimes.com/2021/11/15/upshot/pandemic-economic-response.html">How America’s Pandemic Economic Response Fought the Last War</a> NYT: A focus on the challenges of the Great Recession has fueled some of the challenges of this crisis. 
+ <p class="updated_time"> 04:00 AM CT, Nov. 15 </p> 
+ <a href="https://www.nytimes.com/2021/11/15/us/politics/biden-china-xi-jinping.html">Biden and Xi to Meet Amid Economic and Military Tensions</a> NYT: U.S. officials said the virtual summit on Monday was intended to reassure both sides that misunderstandings would not lead to unintended clashes. 
+ <p class="updated_time"> 04:00 AM CT, Nov. 15 </p> 
+ <a href="https://www.nytimes.com/2021/11/15/us/politics/supreme-court-death-penalty.html">Supreme Court Shows Impatience in Death Penalty Cases</a> NYT: Recent rulings, including one turning down a death row inmate’s request supported by the prosecution, offer telling glimpses of the state of capital punishment. 
  <p class="updated_time"> 02:00 AM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/us/politics/republicans-2022-redistricting-maps.html">How Republicans Have an Edge in the Emerging 2022 Congressional Maps</a> NYT: On a highly distorted congressional map that is still taking shape, the party has added enough safe House districts to capture control of the chamber based on its redistricting edge alone. 
  <p class="updated_time"> 11:06 PM CT, Nov. 14 </p> 
@@ -356,14 +360,8 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/12/politics/mark-meadows-january-6-deposition/index.html">Mark Meadows did not appear for deposition with January 6 committee</a> CNN: Former Trump White House Chief of Staff Mark Meadows did not appear in person for a deposition on Friday in front of the House select committee investigating January 6, setting up a potential showdown that could lead to the panel beginning a criminal referral process against him. 
  <p class="updated_time"> 06:12 PM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/us/politics/bannon-indicted.html">Bannon Indicted on Contempt Charges Over House’s Capitol Riot Inquiry</a> NYT: Stephen K. Bannon, a former top aide to Donald Trump, had refused to comply with subpoenas from the House committee investigating the Jan. 6 attack on Congress. 
- <p class="updated_time"> 04:03 PM CT, Nov. 12 </p> 
- <a href="https://www.npr.org/2021/11/12/1055366694/how-a-powerful-new-jersey-senate-president-lost-his-seat-to-an-unknown-truck-dri">How a powerful New Jersey Senate president lost his seat to an unknown truck driver</a> NPR: There was enough working against Democrats inside and outside of New Jersey for the powerful state Senate president to lose his seat to a truck driver with no political experience. 
- <p class="updated_time"> 03:31 PM CT, Nov. 12 </p> 
- <a href="https://www.nytimes.com/2021/11/12/us/politics/robert-califf-fda.html">Biden Chooses Robert Califf to Lead F.D.A., Despite Drug Industry Ties</a> NYT: Dr. Robert M. Califf, an academic and clinical trial researcher who ran the agency in 2016, has also consulted for pharmaceutical companies. 
  <p class="updated_time"> 03:05 PM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/us/politics/pell-grants-for-profit-colleges-aid.html">Democrats’ Bill Would Deny For-Profit College Students Extra Aid</a> NYT: Critics say a little-noticed provision would hurt the very constituencies — people of color, the working class, low-income Americans — that the party typically champions. 
- <p class="updated_time"> 02:29 PM CT, Nov. 12 </p> 
- <a href="https://www.nytimes.com/2021/11/12/us/politics/murkowski-re-election-bid.html">Murkowski Announces Re-election Bid, Setting Up Clash With Trump</a> NYT: Of the seven Republicans who found former President Donald J. Trump guilty in his second impeachment trial, the Alaska senator is the only one facing re-election this year. 
  <p class="updated_time"> 01:42 PM CT, Nov. 12 </p> 
  <a href="https://www.politico.com/news/2021/11/12/russia-ukraine-invasion-putin-521139">U.S. huddles with allies over possible Russian invasion of Ukraine</a> Politico: The uptick in American concern, confirmed by two U.S. officials, indicates that President Joe Biden’s efforts to reach some sort of equilibrium with Putin are running out of steam. 
  <p class="updated_time"> 01:40 PM CT, Nov. 12 </p> 
@@ -396,8 +394,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/12/jeff-flake-manu-raju-cat-mouse-520990">CNN's Manu Raju vs. Jeff Flake: Cat and mouse</a> Politico: On this episode of Playbook Deep Dive, we chase the people who chase lawmakers and tag along for the hide-and-seek between Congress and the media, and the daily challenge of covering the Hill. 
  <p class="updated_time"> 04:30 AM CT, Nov. 12 </p> 
  <a href="https://www.politico.com/news/2021/11/12/mccarthys-bumpy-ride-to-the-speakership-520670">McCarthy's vexing speaker math problem</a> Politico: Will he glide to the speakership or have a white-knuckle ride? The size of next year's Republican gains could make the difference. 
- <p class="updated_time"> 04:00 AM CT, Nov. 12 </p> 
- <a href="https://www.nytimes.com/2021/11/12/us/politics/democrats-trifecta-power.html">Why Democrats May Have a Long Wait if They Lose Their Grip on Washington</a> NYT: Voters’ reflexive instinct to check the party in power makes it hard for any party to retain a hold on both the White House and Congress for long. 
  <p class="updated_time"> 05:16 PM CT, Nov. 11 </p> 
  <a href="https://www.politico.com/news/2021/11/11/republicans-wrestle-infrastructure-backlash-520956">‘I hope it’s a fever that will break’: GOP wrestles with infrastructure vote backlash</a> Politico: “Some elements of the party keep finding new ways to define Republicanism,” says one longtime GOP lobbyist and strategist. 
  <p class="updated_time"> 04:41 PM CT, Nov. 11 </p> 
