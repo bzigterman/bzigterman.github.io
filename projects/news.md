@@ -7,8 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:01 AM CT, Nov. 15 </p> 
+ <p class="updated_time"> 08:27 AM CT, Nov. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59291119?at_medium=RSS&at_campaign=KARANGA">Alexander Monson: Kenyan policemen guilty over UK aristocrat's death</a> BBC: The officers covered up the torture and killing of Alexander Monson, a judge in Mombasa rules. 
+ <p class="updated_time"> 08:24 AM CT, Nov. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59287526?at_medium=RSS&at_campaign=KARANGA">Poland border crisis: Tense stand-off with hundreds of migrants</a> BBC: The BBC's Steve Rosenberg reports from a border crossing where Polish troops are blocking hundreds of migrants. 
+ <p class="updated_time"> 08:22 AM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/world/asia/india-journalists-arrested-crackdown-tripura.html">Two Journalists in India Arrested as Media Crackdown Continues</a> NYT: Faced with sectarian violence in the country’s northeast, the government has responded by disputing reports on the clashes and punishing those who covered them. 
+ <p class="updated_time"> 08:17 AM CT, Nov. 15 </p> 
+ <a href="https://www.nytimes.com/2021/11/15/world/europe/austria-lockdown-unvaccinated-covid.html">Austria Imposes Lockdown on Unvaccinated Residents</a> NYT: The restrictions were the toughest of a wave of new rules in Europe, which the W.H.O. has said is “back at the epicenter of the pandemic.” 
+ <p class="updated_time"> 08:15 AM CT, Nov. 15 </p> 
+ <a href="https://www.nytimes.com/2021/11/15/world/europe/uk-taxi-explosion-liverpool.html">Liverpool Explosion: Blast Is Declared a Terrorist Act</a> NYT: Local leaders praised the cabdriver as a hero, saying that he may have prevented a bigger calamity. He escaped the burning vehicle and locked the doors, trapping a passenger carrying explosives inside. 
  <p class="updated_time"> 07:45 AM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/world/asia/maori-haka-anti-vaccine.html">Stop Using Our Haka, Maori Tribe Tells Anti-Vaccine Protesters</a> NYT: Ngati Toa, which owns the legal rights to the dance, said it supports Covid vaccinations as the best chance to protect a group that has suffered disproportionally from pandemics. 
  <p class="updated_time"> 07:45 AM CT, Nov. 15 </p> 
@@ -35,8 +43,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/science-environment-59263761?at_medium=RSS&at_campaign=KARANGA">COP26: How might decisions at the climate summit change our lives?</a> BBC: The changes made at COP26 in Glasgow could have implications for the way we live. 
  <p class="updated_time"> 05:40 AM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/14/world/europe/liverpool-hospital-car-explosion.html">Taxi Explodes Outside Liverpool Hospital, Killing One</a> NYT: Three men in their twenties were arrested under Britain’s Terrorism Act several hours after the explosion, in which a second person was injured, the authorities said. 
- <p class="updated_time"> 05:32 AM CT, Nov. 15 </p> 
- <a href="https://www.nytimes.com/2021/11/15/world/europe/uk-taxi-explosion-liverpool.html">Liverpool Explosion: Driver’s Actions Praised After Taxi Blast</a> NYT: The explosion in Liverpool left one man dead and the cabby wounded. Officials said the driver prevented further harm, but did not give more details. 
  <p class="updated_time"> 05:13 AM CT, Nov. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59289966?at_medium=RSS&at_campaign=KARANGA">Cuba cracks down on dissent ahead of protest march</a> BBC: Cuban state security agents are blocking the organiser of a protest march from leaving his home. 
  <p class="updated_time"> 04:28 AM CT, Nov. 15 </p> 
@@ -103,8 +109,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/14/1055679802/pope-francis-again-calls-for-climate-action-u-s-bishops-have-been-all-but-silent">Pope Francis again calls for climate action. U.S. bishops have been all but silent</a> NPR: The pope has been insistent about the importance and urgency of climate action. But a new study finds Catholic bishops in the U.S. have generally been mum or misleading about climate change. 
  <p class="updated_time"> 02:08 PM CT, Nov. 14 </p> 
  <a href="https://www.npr.org/2021/11/14/1055680400/3-dead-hundreds-injured-after-storms-rouse-scorpions-in-egypt">3 dead, hundreds injured after storms rouse scorpions in Egypt</a> NPR: The city of Aswan has been dealing with an influx of scorpions and snakes, thanks to a recent rash of heavy storms disturbing their hiding places. 
- <p class="updated_time"> 01:12 PM CT, Nov. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59283134?at_medium=RSS&at_campaign=KARANGA">Macron switches to using navy blue on France's flag - reports</a> BBC: The French president wants to reconnect with a symbol of the French Revolution, reports say. 
  <p class="updated_time"> 12:37 PM CT, Nov. 14 </p> 
  <a href="https://www.nytimes.com/2021/11/14/world/asia/afghanistan-isis-shiites.html">The String of ISIS Attacks That Killed Three Generations of One Afghan Family</a> NYT: Over two weeks, the Rajabis suffered loss after loss as suicide attacks on Shiite mosques in two parts of the country ravaged their family. 
  <p class="updated_time"> 11:54 AM CT, Nov. 14 </p> 
@@ -145,8 +149,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59258413?at_medium=RSS&at_campaign=KARANGA">Majorca plane adventure reveals new migrant route</a> BBC: When 20 people fled a passenger plane it shed light on migration routes as well as airport safety. 
  <p class="updated_time"> 06:07 PM CT, Nov. 13 </p> 
  <a href="https://www.nytimes.com/2021/11/13/world/what-is-tromethamine-tris.html">What Is Tromethamine, or Tris? It Helps Stabilize Covid Vaccines</a> NYT: Also known as tris, the compound helps maintain the pH of vaccines, extending shelf life at warmer temperatures. 
- <p class="updated_time"> 06:04 PM CT, Nov. 13 </p> 
- <a href="https://www.bbc.co.uk/news/uk-england-somerset-59181514?at_medium=RSS&at_campaign=KARANGA">Dress embroidery project unifies women around the world</a> BBC: The artist behind a dress made in global embroidery project said it embodies the "unity" of women. 
  <p class="updated_time"> 06:02 PM CT, Nov. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59175763?at_medium=RSS&at_campaign=KARANGA">The circus helping Senegal's former child beggars</a> BBC: Senegal's only circus troupe was set up to help child beggars get off the streets. 
  <p class="updated_time"> 05:54 PM CT, Nov. 13 </p> 
@@ -209,8 +211,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/12/world/europe/julian-assange-stella-moris-marriage.html">Julian Assange Will Marry Stella Moris in London Prison</a> NYT: The WikiLeaks founder, who is battling extradition to the United States on espionage charges, has been granted permission to marry Stella Moris in the London prison where he has been held since 2019. 
  <p class="updated_time"> 06:58 AM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/arts/design/badiucao-brescia-china.html">The Show Goes On, Even After China Tried to Shut It Down</a> NYT: An Italian city rejected a request from the Chinese Embassy in Rome to cancel an exhibition by Badiucao, an artist who has been described as the Chinese Banksy. 
- <p class="updated_time"> 02:36 AM CT, Nov. 12 </p> 
- <a href="https://www.nytimes.com/2021/11/11/world/europe/migrants-poland-belarus-lukashenko.html">Migrants in Peril, and Raw Emotions, in a Volatile European Border Standoff</a> NYT: A confrontation over migrants between Belarus and Poland is growing more volatile, as nationalist fervor rises in both countries and a humanitarian disaster looms. 
 
 
 </details>
@@ -220,6 +220,14 @@ permalink: /projects/news/
 
  <p class="updated_time"> 08:37 AM CT, Nov. 15 </p> 
  <a href="https://www.politico.com/news/2021/11/15/imprisoned-journalist-released-myanmar-522325">Imprisoned U.S. journalist released in Myanmar</a> Politico: Danny Fenster was arrested in May in the aftermath of a military coup in the Southeast Asian nation. 
+ <p class="updated_time"> 08:28 AM CT, Nov. 15 </p> 
+ <a href="https://www.cnn.com/2021/11/15/politics/beto-orourke-governor-texas-2022/index.html">O'Rourke announces bid to take on Greg Abbott in 2022 Texas gubernatorial race</a> CNN: Beto O'Rourke, the former congressman and 2020 Democratic presidential candidate, on Monday launched his campaign to unseat Texas Gov. Greg Abbott in 2022. 
+ <p class="updated_time"> 08:18 AM CT, Nov. 15 </p> 
+ <a href="https://www.cnn.com/2021/11/15/politics/biden-drilling-ban/index.html">Biden to propose 20-year ban on new oil drilling near Native American site in New Mexico</a> CNN: President Joe Biden will announce Monday a proposal for a 20-year ban on new oil and gas drilling near Chaco Canyon in New Mexico -- one of the oldest Native American sites in the US -- White House officials said. 
+ <p class="updated_time"> 08:12 AM CT, Nov. 15 </p> 
+ <a href="https://www.nytimes.com/2021/11/15/us/politics/beto-orourke-texas-governor-announcement.html">Beto O’Rourke Announces Run for Texas Governor, Testing Democrats’ Strength</a> NYT: Mr. O’Rourke’s announcement on Monday sets the stage for a pitched political showdown over the future of the country’s largest Republican-led state. 
+ <p class="updated_time"> 08:10 AM CT, Nov. 15 </p> 
+ <a href="https://www.cnn.com/2021/11/15/politics/biden-signing-ceremony-infrastructure-bill-white-house/index.html">Biden set to sign infrastructure bill into law</a> CNN: President Joe Biden signs the $1.2 trillion bipartisan infrastructure package into law Monday afternoon, seeking a jolt of momentum for his presidency as he commemorates a major legislative victory with pomp and circumstance on the White House South Lawn. 
  <p class="updated_time"> 08:02 AM CT, Nov. 15 </p> 
  <a href="https://www.cnn.com/2021/11/15/politics/us-intelligence-russia-ukraine/index.html">US struggles with intelligence blind spot as Russia builds up forces near Ukraine</a> CNN: After publicly sounding the alarm about Russia's irregular military movements near Ukraine's border, the Biden administration's efforts to understand Russia's intentions are being hampered by a key blind spot -- the intelligence community's limited visibility into Russian President Vladimir Putin's inner circle. 
  <p class="updated_time"> 07:34 AM CT, Nov. 15 </p> 
@@ -232,8 +240,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/14/us/politics/religious-groups-child-care.html">Biden’s Child Care Plan Faces Resistance From Religious Groups</a> NYT: A nondiscrimination provision in the $1.85 trillion social policy bill could disqualify some religious organizations, spurring a fight over who can benefit from President Biden’s landmark bill. 
  <p class="updated_time"> 06:34 AM CT, Nov. 15 </p> 
  <a href="https://www.cnn.com/2021/11/15/politics/biden-missing-native-americans-order/index.html">Biden to sign order to address 'epidemic' of missing, murdered Native Americans at White House summit </a> CNN: President Joe Biden is expected to sign an executive order Monday directing federal agencies, including the departments of Justice, Interior and Homeland Security, to create a strategy addressing what the administration calls an "epidemic" of missing or murdered Indigenous people. 
- <p class="updated_time"> 06:19 AM CT, Nov. 15 </p> 
- <a href="https://www.nytimes.com/2021/11/12/us/politics/biden-china-xi-jinping.html">Biden and China’s Xi Will Hold Virtual Summit on Monday</a> NYT: The leaders of the world’s two largest economies confront tensions over trade, cyberthreats, the climate, Taiwan and human rights. 
  <p class="updated_time"> 06:16 AM CT, Nov. 15 </p> 
  <a href="https://www.npr.org/2021/11/15/1055767730/climate-talks-have-wrapped-up-granholm-weighs-in-on-the-highlights">Climate talks have wrapped up. Granholm weighs in on the highlights</a> NPR: NPR's Noel King talks to Energy Secretary Jennifer Granholm about the compromise deal reached at the U.N. climate summit that gave a last-minute reprieve to coal-burning economies. 
  <p class="updated_time"> 06:15 AM CT, Nov. 15 </p> 
@@ -268,8 +274,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/15/us/politics/republicans-2022-redistricting-maps.html">How Republicans Have an Edge in the Emerging 2022 Congressional Maps</a> NYT: On a highly distorted congressional map that is still taking shape, the party has added enough safe House districts to capture control of the chamber based on its redistricting edge alone. 
  <p class="updated_time"> 11:06 PM CT, Nov. 14 </p> 
  <a href="https://www.nytimes.com/2021/11/14/us/politics/trump-hotel-sale.html">Trump to Sell Marquee Washington Hotel for at Least $375 Million</a> NYT: The pending deal to sell the Trump International Hotel, often the subject of controversy during his presidency, comes after years of financial losses at the property. 
- <p class="updated_time"> 10:40 PM CT, Nov. 14 </p> 
- <a href="https://www.cnn.com/2021/11/14/politics/mitch-landrieu-biden-infrastructure/index.html">Biden taps former New Orleans mayor to oversee implementation of massive infrastructure bill</a> CNN: President Joe Biden has selected former New Orleans Mayor Mitch Landrieu to oversee the implementation of the roughly $1 trillion bipartisan infrastructure bill, the White House announced Sunday evening. 
  <p class="updated_time"> 08:07 PM CT, Nov. 14 </p> 
  <a href="https://www.cnn.com/2021/11/14/politics/kamala-harris-frustrating-start-vice-president/index.html">Exasperation and dysfunction: Inside Kamala Harris' frustrating start as vice president </a> CNN: Worn out by what they see as entrenched dysfunction and lack of focus, key West Wing aides have largely thrown up their hands at Vice President Kamala Harris and her staff -- deciding there simply isn't time to deal with them right now, especially at a moment when President Joe Biden faces quickly multiplying legislative and political concerns. 
  <p class="updated_time"> 06:30 PM CT, Nov. 14 </p> 
@@ -386,12 +390,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/12/russia-ukraine-invasion-putin-521139">U.S. huddles with allies over possible Russian invasion of Ukraine</a> Politico: The uptick in American concern, confirmed by two U.S. officials, indicates that President Joe Biden’s efforts to reach some sort of equilibrium with Putin are running out of steam. 
  <p class="updated_time"> 01:40 PM CT, Nov. 12 </p> 
  <a href="https://www.cnn.com/2021/11/12/politics/psaki-returns-white-house-covid/index.html">Jen Psaki returns to White House briefing room after testing positive for Covid-19</a> CNN: White House press secretary Jen Psaki returned to the White House briefing room Friday for the first time since testing positive for Covid-19, telling reporters she completed a 10-day quarantine and received a negative Covid-19 test on Thursday. 
- <p class="updated_time"> 01:21 PM CT, Nov. 12 </p> 
- <a href="https://www.cnn.com/2021/11/12/politics/january-6-defendant-pleaded-guilty-molotov-cocktails-guns/index.html">Man who brought Molotov cocktails to DC on January 6 pleads guilty</a> CNN: A January 6 defendant pleaded guilty on Friday to bringing Molotov cocktails and an unlicensed gun to Capitol Hill on the day of the insurrection. 
  <p class="updated_time"> 01:18 PM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/us/politics/us-qatar-afghanistan.html">Qatar to Represent U.S. Interests in Afghanistan, Blinken Says</a> NYT: The Gulf nation will also help process visas for thousands of people trying to flee the Taliban. 
- <p class="updated_time"> 01:11 PM CT, Nov. 12 </p> 
- <a href="https://www.cnn.com/2021/11/12/politics/paul-gosar-censure-resolution-introduced/index.html">House Democrats introduce resolution censuring Rep. Gosar for video depicting violence against Ocasio-Cortez and Biden</a> CNN: House Democrats plan to introduce a resolution Friday to censure Arizona Republican Rep. Paul Gosar for posting a photoshopped anime video to his Twitter and Instagram accounts showing him appearing to kill Democratic Rep. Alexandria Ocasio-Cortez and attacking President Joe Biden. 
  <p class="updated_time"> 01:00 PM CT, Nov. 12 </p> 
  <a href="https://www.politico.com/news/2021/11/12/trump-cdc-covid-521128">Emails reveal new details of Trump White House interference in CDC Covid planning</a> Politico: The documents released by a congressional committee lay out a timeline for how the Trump White House began to downplay the dangers posed by Covid-19. 
  <p class="updated_time"> 10:54 AM CT, Nov. 12 </p> 
@@ -424,10 +424,10 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/11/11/the-other-big-intra-democratic-fight-495065">POLITICO Playbook: The other big intra-Democratic fight</a> Politico: And the inflation jump turns the temperature up. 
  <p class="updated_time"> 04:30 AM CT, Nov. 11 </p> 
  <a href="https://www.politico.com/news/2021/11/11/bidens-voters-recovery-conundrum-520771">Biden's ‘I feel your pain’ conundrum</a> Politico: It’s tripped up the last two Democratic presidents and could trip up Biden too: How to sell a recovery when most voters aren’t feeling it. 
+ <p class="updated_time"> 06:28 PM CT, Nov. 10 </p> 
+ <a href="https://www.cnn.com/2021/11/10/politics/biden-baltimore-port-infrastructure/index.html">'It's worrisome': Biden addresses inflation concerns during Baltimore speech</a> CNN: President Joe Biden takes his sales pitch for the newly passed bipartisan infrastructure deal on the road Wednesday, highlighting the effect of the bill on supply chains, hours after new inflation statistics revealed that America's prices are surging more than they have in 30 years. 
  <p class="updated_time"> 04:51 PM CT, Nov. 10 </p> 
  <a href="https://www.cnn.com/2021/11/10/politics/infrastructure-bill-signing/index.html">Biden to hold signing ceremony on Monday for bipartisan infrastructure bill </a> CNN: President Joe Biden will sign the bipartisan infrastructure bill on Monday during a ceremony that will include members of Congress, governors and mayors from both parties, the White House announced on Wednesday. 
- <p class="updated_time"> 08:12 AM CT, Nov. 10 </p> 
- <a href="https://www.cnn.com/2021/11/10/politics/biden-jj-covid-vaccine-conflict-zones/index.html">Biden administration announces deal to provide J&J Covid-19 vaccine to people in conflict zones and humanitarian settings</a> CNN: The Biden administration will announce on Wednesday a new deal it brokered with Johnson & Johnson and Covax to provide J&J's Covid-19 vaccine to people in conflict zones and other humanitarian settings where government vaccine campaigns cannot reach, a White House official told CNN. 
  <p class="updated_time"> 07:21 AM CT, Nov. 10 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/11/10/threat-assessment-never-ending-for-lawmakers-495048">Threat assessment: never ending for lawmakers</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:17 AM CT, Nov. 10 </p> 
