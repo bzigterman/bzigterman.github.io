@@ -220,6 +220,10 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:31 AM CT, Nov. 15 </p> 
+ <a href="https://www.politico.com/news/2021/11/15/gop-trump-budget-congress-521209">GOP weighs trapping Democrats in Trump’s budget</a> Politico: Democrats are working to negotiate a government funding deal, but Republicans have a long list of demands before they'll come to the table. 
+ <p class="updated_time"> 04:30 AM CT, Nov. 15 </p> 
+ <a href="https://www.politico.com/news/2021/11/15/democrats-reconciliation-health-care-midterms-521959">Dems stuffed their bill with popular health provisions — but they’re delayed until after the midterms</a> Politico: There was little they could do to speed up implementation. And they’re hoping voters will reward them regardless. 
  <p class="updated_time"> 02:00 AM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/us/politics/republicans-2022-redistricting-maps.html">How Republicans Have an Edge in the Emerging 2022 Congressional Maps</a> NYT: On a highly distorted congressional map that is still taking shape, the party has added enough safe House districts to capture control of the chamber based on its redistricting edge alone. 
  <p class="updated_time"> 11:06 PM CT, Nov. 14 </p> 
