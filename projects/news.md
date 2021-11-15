@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:56 PM CT, Nov. 14 </p> 
+ <a href="https://www.nytimes.com/2021/11/14/world/middleeast/belarus-mideast-air-route.html">Air Route to Belarus Closed to Migrants in Bid to Halt Crisis</a> NYT: Hoping to stem the flow of migrants stuck on the border of Belarus and Poland, Dubai banned Iraqi and Syrian passengers from traveling to Minsk. 
+ <p class="updated_time"> 10:45 PM CT, Nov. 14 </p> 
+ <a href="https://www.nytimes.com/2021/11/14/business/japan-economy.html">Japan’s Economy Shrinks, but Outlook Is Brighter as Virus Ebbs</a> NYT: The coronavirus and supply chain issues stymied growth in the third quarter, but high vaccination rates and low numbers of virus cases point to a recovery. 
  <p class="updated_time"> 10:33 PM CT, Nov. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59286623?at_medium=RSS&at_campaign=KARANGA">Astroworld: Boy, nine, dies days after crush at Travis Scott festival</a> BBC: Ezra Blount is the youngest of 10 people killed after panic broke out during rapper Travis Scott's show. 
  <p class="updated_time"> 10:21 PM CT, Nov. 14 </p> 
@@ -15,8 +19,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/business-59257319?at_medium=RSS&at_campaign=KARANGA">Trump Organization selling Washington hotel for $375m, reports say</a> BBC: The historic building will reportedly be renamed the Waldorf Astoria and managed by the Hilton group. 
  <p class="updated_time"> 08:43 PM CT, Nov. 14 </p> 
  <a href="https://www.nytimes.com/2021/11/14/world/europe/liverpool-hospital-car-explosion.html">Taxi Explodes Outside Liverpool Hospital, Killing One</a> NYT: Three men in their twenties were arrested under Britain’s Terrorism Act several hours after the explosion, in which a second person was injured, the authorities said. 
- <p class="updated_time"> 08:05 PM CT, Nov. 14 </p> 
- <a href="https://www.nytimes.com/2021/11/14/business/japan-economy.html">Japan’s Economy Shrinks, but Outlook Is Brighter as Virus Ebbs</a> NYT: The coronavirus and supply chain issues stymied growth in the third quarter, but high vaccination rates and low numbers of virus cases point to a recovery. 
  <p class="updated_time"> 07:39 PM CT, Nov. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59283128?at_medium=RSS&at_campaign=KARANGA">Covid: Austria introduces lockdown for unvaccinated</a> BBC: Some two million people are told to stay at home amid growing pressure on hospitals as cases surge. 
  <p class="updated_time"> 07:13 PM CT, Nov. 14 </p> 
@@ -37,8 +39,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/uk-59268974?at_medium=RSS&at_campaign=KARANGA">The Uyghur woman fighting to keep her culture alive</a> BBC: In London, a restaurant owner aims to preserve traditions which are under threat in China. 
  <p class="updated_time"> 04:21 PM CT, Nov. 14 </p> 
  <a href="https://www.npr.org/2021/11/14/1055698304/3-detained-after-car-explosion-kills-1-outside-liverpool-hospital">3 detained after car explosion kills 1 outside Liverpool hospital</a> NPR: Police were called to reports of a blast involving a taxi at Liverpool Women's Hospital on Sunday morning. One person was killed and one person injured. 
- <p class="updated_time"> 04:15 PM CT, Nov. 14 </p> 
- <a href="https://www.nytimes.com/2021/11/14/world/middleeast/belarus-mideast-air-route.html">Air Route to Belarus Closed to Migrants in Bid to Halt Crisis</a> NYT: Hoping to stem the flow of migrants stuck on the border of Belarus and Poland, Dubai banned Iraqi and Syrian passengers from traveling to Minsk. 
  <p class="updated_time"> 03:55 PM CT, Nov. 14 </p> 
  <a href="https://www.npr.org/2021/11/14/1055696930/an-island-nations-representative-says-cop26-failed-to-set-actionable-response-pl">An island nations representative says COP26 failed to set actionable response plan</a> NPR: NPR's Michel Martin speaks with Janine Felson, deputy head of the Belize Delegation for COP26 and advisor to the Alliance of Small Island States, about how negotiations went at COP26 in Glasgow. 
  <p class="updated_time"> 03:45 PM CT, Nov. 14 </p> 
