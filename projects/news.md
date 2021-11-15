@@ -7,16 +7,20 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:04 AM CT, Nov. 15 </p> 
+ <p class="updated_time"> 09:31 AM CT, Nov. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59291119?at_medium=RSS&at_campaign=KARANGA">Alexander Monson: Kenyan policemen jailed over UK aristocrat's death</a> BBC: The officers covered up the torture and killing of Alexander Monson, a judge in Mombasa rules. 
+ <p class="updated_time"> 09:29 AM CT, Nov. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59289998?at_medium=RSS&at_campaign=KARANGA">Poland border crisis: EU to widen Belarus sanctions as row intensifies</a> BBC: The crisis intensifies as hundreds more migrants arrive at the border with Poland. 
+ <p class="updated_time"> 09:22 AM CT, Nov. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/59253089?at_medium=RSS&at_campaign=KARANGA">Steve Bannon surrenders to face contempt charges</a> BBC: Mr Bannon, a former White House advisor to Donald Trump, has surrendered to FBI officials. 
+ <p class="updated_time"> 09:22 AM CT, Nov. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/uk-england-london-59253057?at_medium=RSS&at_campaign=KARANGA">Tamara Ecclestone burglary: Italian gang jailed for £26m celebrity raids</a> BBC: The international gang of jewellery thieves targeted the homes of celebrities in December 2019. 
  <p class="updated_time"> 09:01 AM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/world/europe/uk-taxi-explosion-liverpool.html">Liverpool Explosion: Blast Is Declared a Terrorist Act</a> NYT: Local leaders praised the driver as a hero, saying that he may have prevented a bigger calamity. He escaped the burning vehicle and locked the doors, trapping a passenger carrying explosives inside. 
  <p class="updated_time"> 08:58 AM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/14/world/europe/austria-unvaccinated-lockdown.html">Austria to Target the Unvaccinated in New Lockdown</a> NYT: The country, facing the biggest surge in virus cases since the pandemic started, is putting strict curbs on the movement of those without shots. 
  <p class="updated_time"> 08:51 AM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/world/europe/austria-lockdown-unvaccinated-covid.html">Austria Imposes Lockdown on Unvaccinated Residents</a> NYT: The restrictions were among the toughest of a wave of new rules in Europe, which the W.H.O. has said is “back at the epicenter of the pandemic.” 
- <p class="updated_time"> 08:27 AM CT, Nov. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59291119?at_medium=RSS&at_campaign=KARANGA">Alexander Monson: Kenyan policemen guilty over UK aristocrat's death</a> BBC: The officers covered up the torture and killing of Alexander Monson, a judge in Mombasa rules. 
  <p class="updated_time"> 08:24 AM CT, Nov. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59287526?at_medium=RSS&at_campaign=KARANGA">Poland border crisis: Tense stand-off with hundreds of migrants</a> BBC: The BBC's Steve Rosenberg reports from a border crossing where Polish troops are blocking hundreds of migrants. 
  <p class="updated_time"> 08:22 AM CT, Nov. 15 </p> 
@@ -69,8 +73,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/14/world/asia/rohingya-refugees-bangladesh.html">They Warned Their Names Were on a Hit List. They Were Killed.</a> NYT: In less than a month, assassins have killed at least eight people in the Rohingya refugee camps of Bangladesh, silencing those who have dared to speak out against the violent gangs. 
  <p class="updated_time"> 11:35 PM CT, Nov. 14 </p> 
  <a href="https://www.wsj.com/articles/china-bought-italian-military-drone-maker-without-authorities-knowledge-11636972513">China Bought Italian Military-Drone Maker Without Authorities' Knowledge</a> WSJ: Italian and European authorities weren’t aware that a Chinese state-controlled company bought an Italian military-drone manufacturer and transferred its know-how and technology, revealing how Beijing is skirting weak investment-screening in Europe to acquire sensitive technology. 
- <p class="updated_time"> 11:22 PM CT, Nov. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59286563?at_medium=RSS&at_campaign=KARANGA">Maori tribe tells anti-vaccine protestors to stop using popular haka</a> BBC: The popular Ke Mata haka was performed by anti-vaccine protesters during demonstrations last week. 
  <p class="updated_time"> 11:21 PM CT, Nov. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59286783?at_medium=RSS&at_campaign=KARANGA">A watered-down COP26 deal as Delhi chokes</a> BBC: India watered down a deal to cut reliance on coal even as its capital Delhi reels from toxic air quality. 
  <p class="updated_time"> 11:00 PM CT, Nov. 14 </p> 
@@ -83,8 +85,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-us-canada-59286623?at_medium=RSS&at_campaign=KARANGA">Astroworld: Boy, nine, dies days after crush at Travis Scott festival</a> BBC: Ezra Blount is the youngest of 10 people killed after panic broke out during rapper Travis Scott's show. 
  <p class="updated_time"> 10:21 PM CT, Nov. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59286773?at_medium=RSS&at_campaign=KARANGA">'I had concerns about marriage', admits Malala Yousafzai</a> BBC: The Nobel laureate says she previously questioned marriage and the "imbalance of power". 
- <p class="updated_time"> 10:08 PM CT, Nov. 14 </p> 
- <a href="https://www.bbc.co.uk/news/business-59257319?at_medium=RSS&at_campaign=KARANGA">Trump Organization selling Washington hotel for $375m, reports say</a> BBC: The historic building will reportedly be renamed the Waldorf Astoria and managed by the Hilton group. 
  <p class="updated_time"> 07:20 PM CT, Nov. 14 </p> 
  <a href="https://www.nytimes.com/2021/11/14/climate/glasgow-cop26-leadership.html">Climate Promises Made in Glasgow Now Rest With a Handful of Powerful Leaders</a> NYT: In Washington, Beijing, New Delhi and beyond, governments face conflicting forces — political, social and economic — that will shape their next steps in the effort to avert a climate crisis. 
  <p class="updated_time"> 06:52 PM CT, Nov. 14 </p> 
@@ -218,12 +218,22 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:18 AM CT, Nov. 15 </p> 
+ <a href="https://www.politico.com/news/2021/11/15/leahy-most-senior-senator-will-retire-522356">Leahy, most-senior senator, will retire</a> Politico: Sen. Patrick Leahy, 81, announced Monday that he would not run for a ninth term. 
  <p class="updated_time"> 09:53 AM CT, Nov. 15 </p> 
  <a href="https://www.politico.com/news/2021/11/15/npr-books-editor-dies-522353">NPR books editor Petra Mayer dies at 46</a> Politico: Mayer is remembered for her reporting at Comic-Con and helping put together NPR’s Book Concierge. 
  <p class="updated_time"> 09:44 AM CT, Nov. 15 </p> 
  <a href="https://www.politico.com/news/2021/11/15/jeffrey-epstein-ghislaine-maxwell-522349">Jeffrey Epstein faces trial by proxy: Ghislaine Maxwell</a> Politico: Maxwell, 59, has pleaded not guilty to charges she groomed underage victims to have unwanted sex with Epstein. She has vehemently denied wrongdoing. 
+ <p class="updated_time"> 09:31 AM CT, Nov. 15 </p> 
+ <a href="https://www.nytimes.com/2021/11/15/us/politics/pat-leahy-senate-retire.html">Pat Leahy, the Senate’s longest-serving member, announces he will retire.</a> NYT: At age 81, the Vermont Democrat has served in the Senate for nearly half a century. 
  <p class="updated_time"> 09:29 AM CT, Nov. 15 </p> 
  <a href="https://www.politico.com/news/2021/11/15/beto-orourke-texas-governor-campaign-522336">Beto O’Rourke jumps into Texas governor’s race</a> Politico: The race represents a comeback bid for O’Rourke, who became a Democratic sensation during a failed Senate run in 2018 but whose 2020 presidential primary campaign fell flat. 
+ <p class="updated_time"> 09:27 AM CT, Nov. 15 </p> 
+ <a href="https://www.cnn.com/2021/11/15/politics/donald-trump-steve-bannon-january-6-joe-biden-infrastructure/index.html">Analysis: Trump is in full attack mode as Biden celebrates a victory that eluded him</a> CNN: Donald Trump is tightening his malignant hold on American politics as Joe Biden battles to stabilize his own problem-plagued presidency by celebrating the kind of political win his predecessor never managed. 
+ <p class="updated_time"> 09:24 AM CT, Nov. 15 </p> 
+ <a href="https://www.cnn.com/2021/11/15/politics/patrick-leahy-retirement-announcement/index.html">Patrick Leahy, longest serving US senator still in office, announces he won't seek reelection</a> CNN: Patrick Leahy, a Vermont Democrat and the longest serving US senator still in office, announced Monday he won't seek reelection next year. 
+ <p class="updated_time"> 09:18 AM CT, Nov. 15 </p> 
+ <a href="https://www.cnn.com/2021/11/15/politics/beto-orourke-governor-texas-2022/index.html">O'Rourke announces bid to take on Greg Abbott in 2022 Texas gubernatorial race</a> CNN: Beto O'Rourke, the former congressman and 2020 Democratic presidential candidate, on Monday launched his campaign to unseat Texas Gov. Greg Abbott in 2022. 
  <p class="updated_time"> 09:11 AM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/us/politics/beto-orourke-texas-governor-announcement.html">Beto O’Rourke Announces Run for Texas Governor, Testing Democrats’ Strength</a> NYT: Mr. O’Rourke’s announcement on Monday sets the stage for a pitched political showdown over the future of the country’s largest Republican-led state. 
  <p class="updated_time"> 09:10 AM CT, Nov. 15 </p> 
@@ -236,16 +246,12 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/15/politics/steve-bannon/index.html">Steve Bannon surrenders after his indictment on two counts of contempt of Congress</a> CNN: Steve Bannon, a former adviser to former President Donald Trump, turned himself in to the FBI Monday morning to self-surrender after being indicted on criminal contempt charges on Friday. 
  <p class="updated_time"> 08:58 AM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/12/us/politics/bannon-indicted.html">Bannon Indicted on Contempt Charges Over House’s Capitol Riot Inquiry</a> NYT: Stephen K. Bannon, a former top aide to Donald Trump, had refused to comply with subpoenas from the House committee investigating the Jan. 6 attack on Congress. 
- <p class="updated_time"> 08:40 AM CT, Nov. 15 </p> 
- <a href="https://www.cnn.com/2021/11/15/politics/beto-orourke-governor-texas-2022/index.html">O'Rourke announces bid to take on Greg Abbott in 2022 Texas gubernatorial race</a> CNN: Beto O'Rourke, the former congressman and 2020 Democratic presidential candidate, on Monday launched his campaign to unseat Texas Gov. Greg Abbott in 2022. 
  <p class="updated_time"> 08:37 AM CT, Nov. 15 </p> 
  <a href="https://www.politico.com/news/2021/11/15/imprisoned-journalist-released-myanmar-522325">Imprisoned U.S. journalist released in Myanmar</a> Politico: Danny Fenster was arrested in May in the aftermath of a military coup in the Southeast Asian nation. 
  <p class="updated_time"> 08:35 AM CT, Nov. 15 </p> 
  <a href="https://www.cnn.com/2021/11/15/politics/biden-signing-ceremony-infrastructure-bill-white-house/index.html">Biden set to sign infrastructure bill into law</a> CNN: President Joe Biden signs the $1.2 trillion bipartisan infrastructure package into law Monday afternoon, seeking a jolt of momentum for his presidency as he commemorates a major legislative victory with pomp and circumstance on the White House South Lawn. 
  <p class="updated_time"> 08:02 AM CT, Nov. 15 </p> 
  <a href="https://www.cnn.com/2021/11/15/politics/us-intelligence-russia-ukraine/index.html">US struggles with intelligence blind spot as Russia builds up forces near Ukraine</a> CNN: After publicly sounding the alarm about Russia's irregular military movements near Ukraine's border, the Biden administration's efforts to understand Russia's intentions are being hampered by a key blind spot -- the intelligence community's limited visibility into Russian President Vladimir Putin's inner circle. 
- <p class="updated_time"> 07:34 AM CT, Nov. 15 </p> 
- <a href="https://www.cnn.com/2021/11/15/politics/donald-trump-steve-bannon-january-6-joe-biden-infrastructure/index.html">Analysis: Trump is in full attack mode as Biden celebrates a victory that eluded him</a> CNN: Donald Trump is tightening his malignant hold on American politics as Joe Biden battles to stabilize his own problem-plagued presidency by celebrating the kind of political win his predecessor never managed. 
  <p class="updated_time"> 07:31 AM CT, Nov. 15 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/11/15/congress-starts-cooking-end-of-year-agenda-495100">Congress starts cooking end-of-year agenda</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 07:18 AM CT, Nov. 15 </p> 
@@ -328,8 +334,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/14/barrasso-trump-hang-pence-521960">Sen. Barrasso declines to condemn Trump over Pence remarks</a> Politico: The Wyoming Republican called the former president “an enduring force” 
  <p class="updated_time"> 10:00 AM CT, Nov. 14 </p> 
  <a href="https://www.cnn.com/2021/11/14/politics/biden-infrastructure-roads-bridges/index.html">4 projects that could be funded by Biden's infrastructure package</a> CNN: The passage of the $1.2 trillion infrastructure spending package is setting off a mad dash from states and counties seeking federal funds to repair and replace the nation's crumbling bridges, roads and ports. 
- <p class="updated_time"> 09:58 AM CT, Nov. 14 </p> 
- <a href="https://www.cnn.com/2021/11/14/politics/brian-deese-inflation-cnntv/index.html">Biden's top economic adviser urges passage of economic bill to combat rising inflation</a> CNN: President Joe Biden's top economic adviser on Sunday cited rising inflation in the US as a reason for Congress to pass the President's massive economic package, arguing the legislation will help stymie rapidly rising prices of consumer goods. 
  <p class="updated_time"> 09:15 AM CT, Nov. 14 </p> 
  <a href="https://www.politico.com/news/2021/11/14/schumer-schedule-reconciliation-bill-521931">Senate likely to take up social spending bill in December as Dem slog continues</a> Politico: “On a bill of this magnitude, this process takes time and patience,” Chuck Schumer said. 
  <p class="updated_time"> 08:46 AM CT, Nov. 14 </p> 
@@ -392,8 +396,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/12/us/politics/pell-grants-for-profit-colleges-aid.html">Democrats’ Bill Would Deny For-Profit College Students Extra Aid</a> NYT: Critics say a little-noticed provision would hurt the very constituencies — people of color, the working class, low-income Americans — that the party typically champions. 
  <p class="updated_time"> 01:40 PM CT, Nov. 12 </p> 
  <a href="https://www.cnn.com/2021/11/12/politics/psaki-returns-white-house-covid/index.html">Jen Psaki returns to White House briefing room after testing positive for Covid-19</a> CNN: White House press secretary Jen Psaki returned to the White House briefing room Friday for the first time since testing positive for Covid-19, telling reporters she completed a 10-day quarantine and received a negative Covid-19 test on Thursday. 
- <p class="updated_time"> 01:18 PM CT, Nov. 12 </p> 
- <a href="https://www.nytimes.com/2021/11/12/us/politics/us-qatar-afghanistan.html">Qatar to Represent U.S. Interests in Afghanistan, Blinken Says</a> NYT: The Gulf nation will also help process visas for thousands of people trying to flee the Taliban. 
  <p class="updated_time"> 01:00 PM CT, Nov. 12 </p> 
  <a href="https://www.politico.com/news/2021/11/12/trump-cdc-covid-521128">Emails reveal new details of Trump White House interference in CDC Covid planning</a> Politico: The documents released by a congressional committee lay out a timeline for how the Trump White House began to downplay the dangers posed by Covid-19. 
  <p class="updated_time"> 10:54 AM CT, Nov. 12 </p> 
