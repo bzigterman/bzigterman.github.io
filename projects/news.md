@@ -7,10 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:28 AM CT, Nov. 15 </p> 
+ <a href="https://www.npr.org/2021/11/15/1055753386/u-s-journalist-is-freed-from-myanmar-prison-with-ex-diplomat-richardsons-help">U.S. journalist is freed from Myanmar prison with ex-diplomat Richardson's help</a> NPR: Former U.S. Ambassador to the U.N. Bill Richardson said in a statement that Danny Fenster had been handed over to him in Myanmar and would return to the U.S. via Qatar over the next day and a half. 
+ <p class="updated_time"> 04:15 AM CT, Nov. 15 </p> 
+ <a href="https://www.npr.org/2021/11/15/1049523021/mamata-banerjee-modi-india-politics">Meet the feisty, 5-foot-tall thorn in the side of India's prime minister</a> NPR: Mamata Banerjee, chief minister of West Bengal state, is one of Narendra Modi's fiercest critics. She's especially beloved by women and the impoverished. But gaining national traction may be tough. 
+ <p class="updated_time"> 04:12 AM CT, Nov. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59290412?at_medium=RSS&at_campaign=KARANGA">Danny Fenster: US journalist freed from Myanmar jail</a> BBC: Danny Fenster will be allowed to leave the country just days after getting an 11-year sentence. 
  <p class="updated_time"> 04:01 AM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/14/world/europe/austria-unvaccinated-lockdown.html">Austria to Target the Unvaccinated in New Lockdown</a> NYT: The country, facing the biggest surge in virus cases since the pandemic started, is putting strict curbs on the movement of those without shots. 
- <p class="updated_time"> 04:01 AM CT, Nov. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59290412?at_medium=RSS&at_campaign=KARANGA">US journalist Fenster freed from Myanmar jail</a> BBC: Editor Danny Fenster has been freed from a Myanmar prison and will be allowed to leave country just days after getting 11-year sentence. 
  <p class="updated_time"> 04:00 AM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/world/asia/japan-elderly-diapers.html">A New Source of Fuel in an Aging Japan: Adult Incontinence</a> NYT: Waste from adult diapers is growing by tens of thousands of tons a year in Japan. One town may have a solution: recycle it into fuel pellets. 
  <p class="updated_time"> 04:00 AM CT, Nov. 15 </p> 
@@ -28,7 +32,9 @@ permalink: /projects/news/
  <p class="updated_time"> 11:22 PM CT, Nov. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59286563?at_medium=RSS&at_campaign=KARANGA">Maori tribe tells anti-vaccine protestors to stop using popular haka</a> BBC: The popular Ke Mata haka was performed by anti-vaccine protesters during demonstrations last week. 
  <p class="updated_time"> 11:21 PM CT, Nov. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-india-59286783?at_medium=RSS&at_campaign=KARANGA">COP26: A watered-down deal as Delhi chokes</a> BBC: India watered down a deal to cut reliance on coal even as its capital Delhi reels from toxic air quality. 
+ <a href="https://www.bbc.co.uk/news/world-asia-india-59286783?at_medium=RSS&at_campaign=KARANGA">A watered-down COP26 deal as Delhi chokes</a> BBC: India watered down a deal to cut reliance on coal even as its capital Delhi reels from toxic air quality. 
+ <p class="updated_time"> 11:00 PM CT, Nov. 14 </p> 
+ <a href="https://www.wsj.com/articles/biden-xi-teams-set-modest-hopes-for-monday-talks-11636970400">Biden, Xi Teams Set Modest Hopes for Bilateral Talks</a> WSJ: With no concrete outcomes expected from their virtual meeting on Monday evening, the U.S. and China aim to build on signs of easing hostility between the two nations. 
  <p class="updated_time"> 10:56 PM CT, Nov. 14 </p> 
  <a href="https://www.nytimes.com/2021/11/14/world/middleeast/belarus-mideast-air-route.html">Air Route to Belarus Closed to Migrants in Bid to Halt Crisis</a> NYT: Hoping to stem the flow of migrants stuck on the border of Belarus and Poland, Dubai banned Iraqi and Syrian passengers from traveling to Minsk. 
  <p class="updated_time"> 10:45 PM CT, Nov. 14 </p> 
@@ -39,6 +45,10 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59286773?at_medium=RSS&at_campaign=KARANGA">'I had concerns about marriage', admits Malala Yousafzai</a> BBC: The Nobel laureate says she previously questioned marriage and the "imbalance of power". 
  <p class="updated_time"> 10:08 PM CT, Nov. 14 </p> 
  <a href="https://www.bbc.co.uk/news/business-59257319?at_medium=RSS&at_campaign=KARANGA">Trump Organization selling Washington hotel for $375m, reports say</a> BBC: The historic building will reportedly be renamed the Waldorf Astoria and managed by the Hilton group. 
+ <p class="updated_time"> 10:03 PM CT, Nov. 14 </p> 
+ <a href="https://www.wsj.com/articles/wta-calls-for-investigation-into-peng-shuai-sexual-assault-allegations-against-a-former-chinese-leader-11636967014">WTA Calls for Investigation Into Peng Shuai Sexual-Assault Allegations Against a Former Chinese Leader</a> WSJ: “Peng Shuai, and all women, deserve to be heard, not censored,” Women’s Tennis Association CEO Steve Simon said, risking backlash from Beijing. 
+ <p class="updated_time"> 08:35 PM CT, Nov. 14 </p> 
+ <a href="https://www.wsj.com/articles/china-posts-robust-growth-in-factory-output-and-consumer-spending-11636961716">China Posts Robust Growth in Factory Output and Consumer Spending</a> WSJ: Both cases highlighted how the world’s second-largest economy was able to buck widespread power shortages and a Covid-19 wave, though new signs of weakness in real estate underscored concerns for the outlook. 
  <p class="updated_time"> 06:52 PM CT, Nov. 14 </p> 
  <a href="https://www.nytimes.com/2021/11/14/world/middleeast/afghan-university-students-iraq.html">Afghan College Students Find a New Life, and Safety, in Iraq</a> NYT: Regarded as infidels by the Taliban, over 100 students from the American University in Kabul have found an unlikely refuge in the Iraqi Kurdish city of Sulaimaniya. 
  <p class="updated_time"> 06:06 PM CT, Nov. 14 </p> 
@@ -53,6 +63,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-latin-america-59246083?at_medium=RSS&at_campaign=KARANGA">Jair Bolsonaro, guns and rising violence in Brazil</a> BBC: Gun culture was part of Bolsonaro's winning presidential campaign. Three years on, what's the impact? 
  <p class="updated_time"> 06:03 PM CT, Nov. 14 </p> 
  <a href="https://www.bbc.co.uk/news/uk-59268974?at_medium=RSS&at_campaign=KARANGA">The Uyghur woman fighting to keep her culture alive</a> BBC: In London, a restaurant owner aims to preserve traditions which are under threat in China. 
+ <p class="updated_time"> 05:05 PM CT, Nov. 14 </p> 
+ <a href="https://www.wsj.com/articles/japan-economy-shrinks-slightly-hit-by-supply-chain-troubles-11636934752">Japan Economy Shrinks, Hit by Supply Chain Troubles</a> WSJ: The world’s third-largest economy contracted 0.8% in the July-September period owing to a decline in exports caused by supply-chain constraints and lower consumer spending. 
  <p class="updated_time"> 04:21 PM CT, Nov. 14 </p> 
  <a href="https://www.npr.org/2021/11/14/1055698304/3-detained-after-car-explosion-kills-1-outside-liverpool-hospital">3 detained after car explosion kills 1 outside Liverpool hospital</a> NPR: Police were called to reports of a blast involving a taxi at Liverpool Women's Hospital on Sunday morning. One person was killed and one person injured. 
  <p class="updated_time"> 03:55 PM CT, Nov. 14 </p> 
@@ -69,8 +81,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/14/world/asia/afghanistan-isis-shiites.html">The String of ISIS Attacks That Killed Three Generations of One Afghan Family</a> NYT: Over two weeks, the Rajabis suffered loss after loss as suicide attacks on Shiite mosques in two parts of the country ravaged their family. 
  <p class="updated_time"> 12:24 PM CT, Nov. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59280210?at_medium=RSS&at_campaign=KARANGA">Two Ugandan soldiers sentenced to death in Somalia</a> BBC: Five soldiers serving with the African Union are found guilty of killing seven civilians in Golweyn. 
- <p class="updated_time"> 11:59 AM CT, Nov. 14 </p> 
- <a href="https://www.wsj.com/articles/cop26-climate-deal-shows-fragility-of-new-emissions-cutting-pledge-11636920631">COP26 Climate Deal Shows Fragility of New Emissions-Cutting Pledge</a> WSJ: The new Glasgow pact calls for countries to bolster commitments again next year. Already, the U.S. says it likely won’t do so. 
  <p class="updated_time"> 11:54 AM CT, Nov. 14 </p> 
  <a href="https://www.nytimes.com/2021/11/14/world/africa/sierra-leone-explosion-healthcare.html">Sierra Leone Explosion Kills More and Strains Health System</a> NYT: Victims are still dying from injuries after a fuel tanker burst into flames last week in Sierra Leone, a country that has no burn units. 
  <p class="updated_time"> 11:29 AM CT, Nov. 14 </p> 
@@ -79,14 +89,14 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/13/world/europe/france-2015-attacks-trial-victims.html">Survivors of 2015 Paris Terrorist Attacks Testify at Trial</a> NYT: The trauma of the 2015 terrorist attacks in Paris was highlighted in testimony by survivors and others at a trial of 20 men accused of involvement. 
  <p class="updated_time"> 11:03 AM CT, Nov. 14 </p> 
  <a href="https://www.nytimes.com/2021/11/14/world/middleeast/iran-earthquake.html">At Least 1 Dead After Quakes Strike Southern Iran</a> NYT: Two moderate temblors hit Hormozgan Province on Sunday afternoon, state TV reported. 
+ <p class="updated_time"> 10:49 AM CT, Nov. 14 </p> 
+ <a href="https://www.wsj.com/articles/cop26-opens-path-to-international-carbon-trading-11636922314">COP26 Opens Path to International Carbon Trading</a> WSJ: A U.N.-certified carbon credit could be used by regulated markets and standardize more informal ones. 
  <p class="updated_time"> 10:35 AM CT, Nov. 14 </p> 
  <a href="https://www.nytimes.com/2021/11/14/world/americas/cuba-protest.html">In Cuba, Desires for Food and Freedom May Spark a Rare Day of Protest</a> NYT: Young dissidents who rely on the internet to spread their ideas are calling for a protest on Monday, a bold move with little precedent in Cuba. 
  <p class="updated_time"> 07:45 AM CT, Nov. 14 </p> 
  <a href="https://www.wsj.com/articles/xi-jinping-china-economy-growth-poverty-tech-beijing-11636915358">What's Driving Xi Jinping's Economic Revamp? China's Social Mobility Has Stalled</a> WSJ: Academic research and data show that as the country’s economy matures, more opportunities go to the children of wealthy and politically connected elites, posing a challenge to the ruling Communist Party. 
  <p class="updated_time"> 07:44 AM CT, Nov. 14 </p> 
  <a href="https://www.nytimes.com/2021/11/14/world/europe/queen-elizabeth-health.html">Queen Elizabeth Misses Remembrance Service Because of Sprained Back</a> NYT: The British monarch, 95, has put off multiple trips and engagements recently, and the latest cancellation has deepened anxiety about her health. She has now been out of sight since mid-October. 
- <p class="updated_time"> 07:30 AM CT, Nov. 14 </p> 
- <a href="https://www.wsj.com/articles/in-belarus-border-standoff-europes-debates-converge-on-poland-11636914600">In Belarus Border Standoff, Europe's Debates Converge on Poland</a> WSJ: For half a decade, the country’s nationalist government has been locked in an escalating culture war within the European Union. Now, in a border standoff with neighboring Belarus, Poland finds itself on the front lines of Europe’s external conflict. 
  <p class="updated_time"> 07:05 AM CT, Nov. 14 </p> 
  <a href="https://www.npr.org/2021/11/14/1055640659/cubans-protest-for-greater-freedom-of-expression-while-government-clamps-down">Cubans protest for greater freedom of expression while government clamps down</a> NPR: Pro-democracy activists and artists in Cuba say they will hold public protests on Monday, despite the government's statement that such demonstrations will not be permitted. 
  <p class="updated_time"> 07:05 AM CT, Nov. 14 </p> 
@@ -95,8 +105,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/14/1055640617/extremists-in-pakistan-have-been-emboldened-by-the-talibans-success-in-afghanist">Extremists in Pakistan have been emboldened by the Taliban's success in Afghanistan</a> NPR: Militant attacks inside Pakistan have been rising, highlighting an uncomfortable truth: America's exit from neighboring Afghanistan has emboldened would-be militant extremists. 
  <p class="updated_time"> 07:05 AM CT, Nov. 14 </p> 
  <a href="https://www.npr.org/2021/11/14/1055640596/countries-at-cop26-agree-to-scale-up-efforts-to-combat-climate-change">Countries at COP26 agree to scale up efforts to combat climate change</a> NPR: Danielle Kurtzleben talks to Cassie Flynn, climate advisor to the U.N. Development Program, about the final agreement from the U.N. climate summit in Glasgow. 
- <p class="updated_time"> 07:02 AM CT, Nov. 14 </p> 
- <a href="https://www.wsj.com/articles/moammar-gadhafis-son-launches-libyan-presidential-bid-11636912947">Moammar Gadhafi's Son Launches Libyan Presidential Bid</a> WSJ: Saif al-Islam Gadhafi is running for president of his war-torn country, injecting a wildcard into elections that could make or break a peace process meant to end a decade of political crises. 
  <p class="updated_time"> 06:33 AM CT, Nov. 14 </p> 
  <a href="https://www.npr.org/2021/11/14/1055641481/queen-elizabeth-sprained-back-remembrance-sunday">Sprained back forces Queen Elizabeth to miss remembrance event for Britain's war dead</a> NPR: Remembrance Sunday is one of the most important events on the 95-year-old monarch's calendar. It was expected to be her first public appearance after canceling others recently on doctors' advice. 
  <p class="updated_time"> 02:53 AM CT, Nov. 14 </p> 
@@ -107,8 +115,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/12/world/europe/covid-netherlands-lockdown.html">Netherlands Looks to Partial Lockdown as Covid Cases Rise</a> NYT: The Dutch lockdown does not single out those who are unvaccinated. The country is experiencing rising case numbers amid a fourth wave of infections. 
  <p class="updated_time"> 11:52 PM CT, Nov. 13 </p> 
  <a href="https://www.nytimes.com/2021/11/12/world/asia/china-zero-covid.html">China's 'Zero Covid' Efforts Come With a Cost</a> NYT: The Communist Party is making broad efforts to stamp out the disease entirely, but the measures come with costs. 
- <p class="updated_time"> 11:30 PM CT, Nov. 13 </p> 
- <a href="https://www.wsj.com/articles/in-covid-era-experiment-malaysia-tries-dramatic-reduction-in-migrant-labor-11636885800">Malaysia Tries Relying Less on Foreign Workers</a> WSJ: With Covid-19 reducing migrant labor in many countries, some governments are testing whether their economies can run with fewer foreign workers than in the past. 
  <p class="updated_time"> 07:01 PM CT, Nov. 13 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59268394?at_medium=RSS&at_campaign=KARANGA">COP26 climate deal: 'It won't save us from drowning'</a> BBC: Young activists on the frontline of climate change explain what the deal struck at COP26 means to them. 
  <p class="updated_time"> 06:08 PM CT, Nov. 13 </p> 
@@ -133,8 +139,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/13/1055559578/ecuador-prison-battle-deaths-gangs">Dozens of inmates die in a battle between prison gangs in Ecuador </a> NPR: A prolonged gun battle between rival gangs inside Ecuador's largest prison was the latest violence to hit the Litoral Penitentiary, which recently saw the country's worst prison bloodbath. 
  <p class="updated_time"> 01:24 PM CT, Nov. 13 </p> 
  <a href="https://www.npr.org/2021/11/13/1055540992/an-antarctic-penguin-ends-up-on-new-zealand-shore-2-000-miles-from-home">An Antarctic penguin ends up on New Zealand shore, roughly 2,000 miles from home</a> NPR: This penguin's adventure might have taken a few wrong turns. It's only the third time an Adélie penguin is known to have made it to the shores of New Zealand. 
- <p class="updated_time"> 01:18 PM CT, Nov. 13 </p> 
- <a href="https://www.npr.org/2021/11/13/1055554319/cop26-climate-agreement-global-warming-glasgow">At COP26, nations strike a climate deal with coal compromise</a> NPR: Government negotiators from nearly 200 countries have adopted a new deal on climate action after a last-minute intervention by India to water down the language on cutting emissions from coal. 
  <p class="updated_time"> 12:44 PM CT, Nov. 13 </p> 
  <a href="https://www.nytimes.com/2021/11/12/us/politics/kamala-harris-macron-france.html">In France, Kamala Harris Searches for Role on Global Stage</a> NYT: The vice president met with President Emmanuel Macron of France, skirting recent U.S.-French tensions, and immersed herself in issues like Libya and cybersecurity. 
  <p class="updated_time"> 12:33 PM CT, Nov. 13 </p> 
@@ -155,10 +159,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59273174?at_medium=RSS&at_campaign=KARANGA">Poland-Belarus border: The BBC reports from the camps within touching distance of the EU</a> BBC: Steve Rosenberg reports from the migrant camps within touching distance of the EU. 
  <p class="updated_time"> 08:44 AM CT, Nov. 13 </p> 
  <a href="https://www.nytimes.com/2021/11/12/world/americas/oklahoma-kevin-sitt-vaccine-mandate-national-guard.html">Oklahoma Governor Puts Foe of Vaccine Mandates in Charge of National Guard</a> NYT: The governor, Kevin Stitt, is one of a number of Republican state officials across the country who has been fighting against President Biden’s vaccine mandates. 
- <p class="updated_time"> 07:24 AM CT, Nov. 13 </p> 
- <a href="https://www.npr.org/2021/11/13/1055503661/the-darien-gap-was-no-mans-land-now-its-a-popular-migrant-path-to-the-u-s">The Darien Gap was no man's land. Now it's a popular migrant path to the U.S.</a> NPR: The dense jungle of the Darien Gap between Panama and Colombia was once a no man's land. It is now a busy thoroughfare for migrants heading north to the U.S. 
- <p class="updated_time"> 06:00 AM CT, Nov. 13 </p> 
- <a href="https://www.wsj.com/articles/in-the-shadow-of-the-holocaust-a-jewish-community-begins-to-take-root-11636822801">In the Shadow of the Holocaust, a Jewish Community Takes Root</a> WSJ: Poland’s Jewish community—nearly destroyed during World War II—is growing again, but connecting people with their heritage is a race against time. 
  <p class="updated_time"> 05:19 AM CT, Nov. 13 </p> 
  <a href="https://www.nytimes.com/2021/11/13/world/asia/philippines-sara-duterte-marcos.html">Sara Duterte and Ferdinand Marcos Jr. May Join Forces in Philippines</a> NYT: Ferdinand Marcos Jr., who hopes to succeed Rodrigo Duterte as president, said Sara Duterte would effectively be his running mate. 
  <p class="updated_time"> 02:52 AM CT, Nov. 13 </p> 
@@ -444,8 +444,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/huddle/2021/11/08/recess-reverie-plus-huddle-restaurant-week-kicks-off-495014">Recess reverie (plus Huddle Restaurant Week kicks off)</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:05 AM CT, Nov. 08 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/08/big-obstacles-await-biden-after-big-win-495012">POLITICO Playbook: Big obstacles await Biden after big win</a> Politico: And midterm elections are a year from today. 
- <p class="updated_time"> 04:30 AM CT, Nov. 08 </p> 
- <a href="https://www.politico.com/news/2021/11/08/republican-wave-house-congress-520238">Republican wave builds to take back the House</a> Politico: A combination of aggressive redistricting, strong fundraising and a favorable political environment has the GOP excited about its prospects in next year's midterms. 
 
 
 </details>
