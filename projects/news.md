@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:01 AM CT, Nov. 15 </p> 
+ <a href="https://www.nytimes.com/2021/11/15/world/asia/india-journalists-arrested-crackdown-tripura.html">Two Journalists in India Arrested as Media Crackdown Continues</a> NYT: Faced with sectarian violence in the country’s northeast, the government has responded by disputing reports on the clashes and punishing those who covered them. 
  <p class="updated_time"> 07:45 AM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/world/asia/maori-haka-anti-vaccine.html">Stop Using Our Haka, Maori Tribe Tells Anti-Vaccine Protesters</a> NYT: Ngati Toa, which owns the legal rights to the dance, said it supports Covid vaccinations as the best chance to protect a group that has suffered disproportionally from pandemics. 
  <p class="updated_time"> 07:45 AM CT, Nov. 15 </p> 
@@ -203,8 +205,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/12/world/asia/migration-eu-poland-belarus.html">In Border Crisis, Europe’s Unsavory Migration Deals Come Home</a> NYT: Europe has long paid other nations to keep refugees away from its borders. Now, Belarus wants something, too, and has brought migrants right to Europe’s door to get it. 
  <p class="updated_time"> 10:44 AM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/world/australia/migration-and-experimentation-what-led-to-australias-coffee-culture.html">Migration and Experimentation: What Led to Australia’s Coffee Culture</a> NYT: When Italian migrants arrived after World War II, they helped develop a coffee scene that many now regard as the best in the world. 
- <p class="updated_time"> 10:29 AM CT, Nov. 12 </p> 
- <a href="https://www.nytimes.com/2021/11/11/world/europe/un-security-council.html">Belarus-Poland Clash Spills Into U.N. Security Council</a> NYT: The United States joined several countries in a statement condemning Belarus, but the Russian envoy dismissed their criticism as politically motivated hypocrisy. 
  <p class="updated_time"> 10:01 AM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/world/europe/julian-assange-stella-moris-marriage.html">Julian Assange Will Marry Stella Moris in London Prison</a> NYT: The WikiLeaks founder, who is battling extradition to the United States on espionage charges, has been granted permission to marry Stella Moris in the London prison where he has been held since 2019. 
  <p class="updated_time"> 06:58 AM CT, Nov. 12 </p> 
@@ -219,7 +219,9 @@ permalink: /projects/news/
 <summary>Politics</summary>
 
  <p class="updated_time"> 08:37 AM CT, Nov. 15 </p> 
- <a href="https://www.politico.com/news/2021/11/15/imprisoned-journalist-released-myanmar-522325">Imprisoned U.S. journalist released in Myanmar</a> Politico: He was arrested in May in the aftermath of the Myanmar military’s February coup of the Southeast Asian Nation’s democratically elected government. 
+ <a href="https://www.politico.com/news/2021/11/15/imprisoned-journalist-released-myanmar-522325">Imprisoned U.S. journalist released in Myanmar</a> Politico: Danny Fenster was arrested in May in the aftermath of a military coup in the Southeast Asian nation. 
+ <p class="updated_time"> 08:02 AM CT, Nov. 15 </p> 
+ <a href="https://www.cnn.com/2021/11/15/politics/us-intelligence-russia-ukraine/index.html">US struggles with intelligence blind spot as Russia builds up forces near Ukraine</a> CNN: After publicly sounding the alarm about Russia's irregular military movements near Ukraine's border, the Biden administration's efforts to understand Russia's intentions are being hampered by a key blind spot -- the intelligence community's limited visibility into Russian President Vladimir Putin's inner circle. 
  <p class="updated_time"> 07:34 AM CT, Nov. 15 </p> 
  <a href="https://www.cnn.com/2021/11/15/politics/donald-trump-steve-bannon-january-6-joe-biden-infrastructure/index.html">Trump is in full attack mode as Biden celebrates a victory that eluded him</a> CNN: Donald Trump is tightening his malignant hold on American politics as Joe Biden battles to stabilize his own problem-plagued presidency by celebrating the kind of political win his predecessor never managed. 
  <p class="updated_time"> 07:31 AM CT, Nov. 15 </p> 
@@ -422,8 +424,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/11/11/the-other-big-intra-democratic-fight-495065">POLITICO Playbook: The other big intra-Democratic fight</a> Politico: And the inflation jump turns the temperature up. 
  <p class="updated_time"> 04:30 AM CT, Nov. 11 </p> 
  <a href="https://www.politico.com/news/2021/11/11/bidens-voters-recovery-conundrum-520771">Biden's ‘I feel your pain’ conundrum</a> Politico: It’s tripped up the last two Democratic presidents and could trip up Biden too: How to sell a recovery when most voters aren’t feeling it. 
- <p class="updated_time"> 06:28 PM CT, Nov. 10 </p> 
- <a href="https://www.cnn.com/2021/11/10/politics/biden-baltimore-port-infrastructure/index.html">'It's worrisome': Biden addresses inflation concerns during Baltimore speech</a> CNN: President Joe Biden takes his sales pitch for the newly passed bipartisan infrastructure deal on the road Wednesday, highlighting the effect of the bill on supply chains, hours after new inflation statistics revealed that America's prices are surging more than they have in 30 years. 
  <p class="updated_time"> 04:51 PM CT, Nov. 10 </p> 
  <a href="https://www.cnn.com/2021/11/10/politics/infrastructure-bill-signing/index.html">Biden to hold signing ceremony on Monday for bipartisan infrastructure bill </a> CNN: President Joe Biden will sign the bipartisan infrastructure bill on Monday during a ceremony that will include members of Congress, governors and mayors from both parties, the White House announced on Wednesday. 
  <p class="updated_time"> 08:12 AM CT, Nov. 10 </p> 
