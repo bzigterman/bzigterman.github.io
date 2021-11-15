@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 10:09 PM CT, Nov. 14 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59286623?at_medium=RSS&at_campaign=KARANGA">Astroworld: Boy, nine, dies 10 days after crush at Travis Scott festival</a> BBC: Ezra Blount is the youngest of 10 people killed after panic broke out during rapper Travis Scott's show. 
  <p class="updated_time"> 08:43 PM CT, Nov. 14 </p> 
  <a href="https://www.nytimes.com/2021/11/14/world/europe/liverpool-hospital-car-explosion.html">Taxi Explodes Outside Liverpool Hospital, Killing One</a> NYT: Three men in their twenties were arrested under Britain’s Terrorism Act several hours after the explosion, in which a second person was injured, the authorities said. 
  <p class="updated_time"> 08:05 PM CT, Nov. 14 </p> 
@@ -101,8 +103,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/in-covid-era-experiment-malaysia-tries-dramatic-reduction-in-migrant-labor-11636885800">Malaysia Tries Relying Less on Foreign Workers</a> WSJ: With Covid-19 reducing migrant labor in many countries, some governments are testing whether their economies can run with fewer foreign workers than in the past. 
  <p class="updated_time"> 07:01 PM CT, Nov. 13 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59268394?at_medium=RSS&at_campaign=KARANGA">COP26 climate deal: 'It won't save us from drowning'</a> BBC: Young activists on the frontline of climate change explain what the deal struck at COP26 means to them. 
- <p class="updated_time"> 06:26 PM CT, Nov. 13 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59278275?at_medium=RSS&at_campaign=KARANGA">Wilbur Smith: Popular Zambian-born author dies aged 88</a> BBC: The accountant-turned-novelist's 49 books have sold more than 140 million copies worldwide. 
  <p class="updated_time"> 06:08 PM CT, Nov. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59258413?at_medium=RSS&at_campaign=KARANGA">Majorca plane adventure reveals new migrant route</a> BBC: When 20 people fled a passenger plane it shed light on migration routes as well as airport safety. 
  <p class="updated_time"> 06:07 PM CT, Nov. 13 </p> 
@@ -214,7 +214,7 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
- <p class="updated_time"> 09:34 PM CT, Nov. 14 </p> 
+ <p class="updated_time"> 10:07 PM CT, Nov. 14 </p> 
  <a href="https://www.nytimes.com/2021/11/14/us/politics/religious-groups-child-care.html">Faith Groups Push to Scrap Mandates in Biden’s Child Care Plan</a> NYT: A nondiscrimination provision in the $1.85 trillion social policy bill could disqualify some religious organizations, spurring a fight over who can benefit from President Biden’s landmark bill. 
  <p class="updated_time"> 08:07 PM CT, Nov. 14 </p> 
  <a href="https://www.cnn.com/2021/11/14/politics/kamala-harris-frustrating-start-vice-president/index.html">Exasperation and dysfunction: Inside Kamala Harris' frustrating start as vice president </a> CNN: Worn out by what they see as entrenched dysfunction and lack of focus, key West Wing aides have largely thrown up their hands at Vice President Kamala Harris and her staff -- deciding there simply isn't time to deal with them right now, especially at a moment when President Joe Biden faces quickly multiplying legislative and political concerns. 
@@ -265,7 +265,7 @@ permalink: /projects/news/
  <p class="updated_time"> 09:58 AM CT, Nov. 14 </p> 
  <a href="https://www.cnn.com/2021/11/14/politics/brian-deese-inflation-cnntv/index.html">Biden's top economic adviser urges passage of economic bill to combat rising inflation</a> CNN: President Joe Biden's top economic adviser on Sunday cited rising inflation in the US as a reason for Congress to pass the President's massive economic package, arguing the legislation will help stymie rapidly rising prices of consumer goods. 
  <p class="updated_time"> 09:15 AM CT, Nov. 14 </p> 
- <a href="https://www.politico.com/news/2021/11/14/schumer-schedule-reconciliation-bill-521931">Senate likely to take up social spending bill in December as Dem slog continues</a> Politico: “On a bill of this magnitude, this process takes time and patience,” he said. 
+ <a href="https://www.politico.com/news/2021/11/14/schumer-schedule-reconciliation-bill-521931">Senate likely to take up social spending bill in December as Dem slog continues</a> Politico: “On a bill of this magnitude, this process takes time and patience,” Chuck Schumer said. 
  <p class="updated_time"> 08:46 AM CT, Nov. 14 </p> 
  <a href="https://www.politico.com/news/2021/11/14/samantha-power-usaid-future-515606">Power moves: Samantha Power’s celebrity draws spotlight to USAID — and questions about her future</a> Politico: The longtime human rights crusader is energizing an agency few Americans know about, while fueling speculation about her next step. 
  <p class="updated_time"> 08:06 AM CT, Nov. 14 </p> 
