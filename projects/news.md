@@ -7,10 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 03:46 PM CT, Nov. 15 </p> 
+ <a href="https://www.nytimes.com/2021/11/15/world/middleeast/scorpions-egypt.html">Four-Inch Scorpions Called Deathstalkers Descend on Egypt</a> NYT: Swept from desert burrows, hundreds, if not thousands, of scorpions skittered into villages, stinging at least 503 people. 
  <p class="updated_time"> 03:37 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/world/canada/british-columbia-landslides.html">Landslides and Torrential Rains Batter British Columbia</a> NYT: Dozens of drivers were trapped by landslides, and the city of Merritt warned of a “mass sewage backup.” The rainfall was part of a system that also pummeled Washington State. 
- <p class="updated_time"> 03:36 PM CT, Nov. 15 </p> 
- <a href="https://www.nytimes.com/2021/11/15/world/middleeast/scorpions-egypt.html">Four-Inch Scorpions Called Deathstalkers Descend on Egypt</a> NYT: Driven from underground by what seemed like a storm of biblical fury, hundreds or maybe thousands of the angry arthropods attacked humans with their storied stingers. 
  <p class="updated_time"> 03:22 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/world/asia/myanmar-danny-fenster-release.html">U.S. Journalist Danny Fenster Is Freed From Myanmar Prison</a> NYT: The release was a rare positive development in the country, which has been torn by violence since a February coup. 
  <p class="updated_time"> 03:17 PM CT, Nov. 15 </p> 
@@ -218,6 +218,10 @@ permalink: /projects/news/
 
  <p class="updated_time"> 03:53 PM CT, Nov. 15 </p> 
  <a href="https://www.politico.com/news/2021/11/15/pentagon-oklahoma-guard-comply-vaccine-mandate-522523">Pentagon: Oklahoma Guard must comply with vaccine mandate</a> Politico: "It is a lawful order for National Guardsmen to receive the Covid vaccine. It is a lawful order," Defense Department press secretary John Kirby told reporters. 
+ <p class="updated_time"> 03:46 PM CT, Nov. 15 </p> 
+ <a href="https://www.cnn.com/2021/11/15/politics/russia-anti-satellite-weapon-test-scn/index.html">US concerned that a Russian anti-satellite weapons test created a debris field in space</a> CNN: The US is concerned that Russia carried out a major anti-satellite weapons test over the weekend, two US officials told CNN. One of the officials said it may have created a potentially dangerous debris field in space. 
+ <p class="updated_time"> 03:45 PM CT, Nov. 15 </p> 
+ <a href="https://www.nytimes.com/2021/11/15/us/politics/whats-in-the-infrastructure-bill.html">Here's What's in the Infrastructure Bill Biden Will Sign Today</a> NYT: In total, the measure contains $550 billion in new funds to be spread around different areas of need. 
  <p class="updated_time"> 03:38 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/business/energy-environment/gas-prices-inflation.html">With Gas Prices High, Calls Grow to Tap Strategic Oil Reserve</a> NYT: President Biden is under pressure to release oil from the Strategic Petroleum Reserve. Here’s how it works, and how it might lower prices (modestly, and maybe not for long). 
  <p class="updated_time"> 03:34 PM CT, Nov. 15 </p> 
@@ -244,16 +248,12 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/15/us/politics/bannon-congress-trump-jan-6.html">Steve Bannon turns himself in on contempt of Congress charges.</a> NYT: The former aide to President Donald J. Trump had refused to comply with a demand for information from the House committee investigating the Jan. 6 Capitol riot. 
  <p class="updated_time"> 01:41 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/us/politics/blinken-africa-ethiopia.html">Blinken Heads to Africa as U.S. Tries to Avert Ethiopia Disaster</a> NYT: The conflict between rebels and the country’s government has already featured numerous alleged atrocities, and experts say it threatens the stability of all of East Africa. 
- <p class="updated_time"> 01:21 PM CT, Nov. 15 </p> 
- <a href="https://www.nytimes.com/2021/11/15/us/politics/whats-in-the-infrastructure-bill.html">Here's What's in the Infrastructure Bill Biden Will Sign Today</a> NYT: In total, the measure contains $550 billion in new funds to be spread around different areas of need. 
  <p class="updated_time"> 01:18 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/us/politics/pat-leahy-senate-retire.html">Patrick Leahy Announces He Will Retire From the U.S. Senate</a> NYT: At age 81, the Vermont Democrat has served in the Senate for nearly half a century. 
  <p class="updated_time"> 12:35 PM CT, Nov. 15 </p> 
  <a href="https://www.cnn.com/2021/11/15/politics/patrick-leahy-retirement-announcement/index.html">Patrick Leahy, longest serving US senator still in office, announces he won't seek reelection</a> CNN: Patrick Leahy, a Vermont Democrat and the longest serving US senator still in office, announced Monday he won't seek reelection next year. 
  <p class="updated_time"> 12:29 PM CT, Nov. 15 </p> 
  <a href="https://www.politico.com/news/2021/11/15/us-space-debris-russia-satellites-522406">'Irresponsible act': U.S. raps Russia after missile strike on its own satellite</a> Politico: The resulting debris field forced astronauts and cosmonauts aboard the International Space Station to seek shelter. 
- <p class="updated_time"> 12:16 PM CT, Nov. 15 </p> 
- <a href="https://www.cnn.com/2021/11/15/politics/russia-anti-satellite-weapon-test-scn/index.html">US concerned that a Russian anti-satellite weapons test created a debris field in space</a> CNN: The US is concerned that Russia carried out a major anti-satellite weapons test over the weekend, two US officials told CNN. One of the officials said it may have created a potentially dangerous debris field in space. 
  <p class="updated_time"> 11:59 AM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/us/politics/alex-jones-sandy-hook.html">Alex Jones Liable in Sandy Hook Defamation Suits</a> NYT: A Connecticut judge’s ruling combines with decisions in Texas to grant a clean sweep for families of shooting victims in their cases against the Infowars host. 
  <p class="updated_time"> 11:58 AM CT, Nov. 15 </p> 
@@ -336,6 +336,8 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/14/politics/trump-organization-washington-dc-hotel-sale/index.html">Investment group purchases Trump hotel in DC and is expected to remove Trump name</a> CNN: The Trump Organization has reached a deal with the investment fund CGI Merchant Group to purchase the lease for the Trump International Hotel in Washington, DC, for $375 million, according to a person familiar with the matter. 
  <p class="updated_time"> 05:07 PM CT, Nov. 14 </p> 
  <a href="https://www.politico.com/news/2021/11/14/steve-bannon-contempt-indictment-trump-522151">Opinion | Steve Bannon’s Contempt Indictment Isn’t All that Trump Foes Think It Is</a> Politico: His contempt charge is good news for Congress, but it’s probably not the first in a wave of similar prosecutions. 
+ <p class="updated_time"> 05:05 PM CT, Nov. 14 </p> 
+ <a href="https://www.politico.com/news/2021/11/14/biden-successor-2024-kamala-harris-522160">Biden-successor chatter grows and Harris isn’t scaring off anyone</a> Politico: There’s been an unusual amount of 2024 talk for a president who says he’s running again. It hasn't been uniformly positive for his vice president. 
  <p class="updated_time"> 05:03 PM CT, Nov. 14 </p> 
  <a href="https://www.politico.com/news/2021/11/14/trump-china-trespass-deport-522184">Mar-a-Lago trespasser deported to China 2 years later</a> Politico: The pandemic delayed her return to China. 
  <p class="updated_time"> 04:02 PM CT, Nov. 14 </p> 
@@ -418,8 +420,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/11/dems-white-house-biden-520946">Dems to White House: The only prescription is more Biden</a> Politico: The president has been more a facilitator than manager of the legislative process. His party wants more of the latter. 
  <p class="updated_time"> 04:39 PM CT, Nov. 11 </p> 
  <a href="https://www.cnn.com/2021/11/11/politics/jerome-powell-joe-biden/index.html">Powell seen as the frontrunner to be Biden's pick for Federal Reserve chair as he nears a decision</a> CNN: President Joe Biden is nearing a decision on his choice for Federal Reserve chair, with observers inside and outside the administration viewing incumbent Jerome Powell as the front-runner for another term. 
- <p class="updated_time"> 01:01 PM CT, Nov. 11 </p> 
- <a href="https://www.politico.com/news/2021/11/11/biden-administration-armed-drones-indonesia-520888">Biden administration wrestles with selling armed drones to Indonesia</a> Politico: The country's human rights abuses, and past purchases of Russian equipment, are among the concerns in Washington. 
  <p class="updated_time"> 12:01 PM CT, Nov. 11 </p> 
  <a href="https://www.cnn.com/2021/11/11/politics/biden-veterans-day-arlington/index.html">'You are the very spine of America': Biden honors those who served on Veterans Day in Arlington</a> CNN: President Joe Biden honored Veterans Day at Arlington National Cemetery on Thursday, paying homage to Americans who have served and laying a wreath at the Tomb of the Unknown Soldier. 
  <p class="updated_time"> 07:00 AM CT, Nov. 11 </p> 
