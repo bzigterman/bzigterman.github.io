@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:40 AM CT, Nov. 15 </p> 
+ <a href="https://www.nytimes.com/2021/11/14/world/europe/liverpool-hospital-car-explosion.html">Taxi Explodes Outside Liverpool Hospital, Killing One</a> NYT: Three men in their twenties were arrested under Britain’s Terrorism Act several hours after the explosion, in which a second person was injured, the authorities said. 
  <p class="updated_time"> 05:32 AM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/world/europe/uk-taxi-explosion-liverpool.html">Driver’s Actions Praised After Taxi Blast Outside Hospital in England</a> NYT: The explosion in Liverpool left one man dead and the cabby wounded. Officials said the driver prevented further harm, but did not give more details. 
  <p class="updated_time"> 05:29 AM CT, Nov. 15 </p> 
@@ -31,10 +33,12 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-australia-59288177?at_medium=RSS&at_campaign=KARANGA">Australian women sue over Qatar airport strip-searches</a> BBC: They are seeking damages after being forced into examinations at Doha airport last year. 
  <p class="updated_time"> 03:42 AM CT, Nov. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59283128?at_medium=RSS&at_campaign=KARANGA">Covid: Austria introduces lockdown for unvaccinated</a> BBC: Some two million people are told to stay at home amid growing pressure on hospitals as cases surge. 
- <p class="updated_time"> 02:03 AM CT, Nov. 15 </p> 
- <a href="https://www.nytimes.com/2021/11/14/world/europe/liverpool-hospital-car-explosion.html">Taxi Explodes Outside Liverpool Hospital, Killing One</a> NYT: Three men in their twenties were arrested under Britain’s Terrorism Act several hours after the explosion, in which a second person was injured, the authorities said. 
  <p class="updated_time"> 01:34 AM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/14/world/asia/rohingya-refugees-bangladesh.html">They Warned Their Names Were on a Hit List. They Were Killed.</a> NYT: In less than a month, assassins have killed at least eight people in the Rohingya refugee camps of Bangladesh, silencing those who have dared to speak out against the violent gangs. 
+ <p class="updated_time"> 12:35 AM CT, Nov. 15 </p> 
+ <a href="https://www.wsj.com/articles/u-s-journalist-danny-fenster-released-by-myanmar-11636976141">U.S. Journalist Danny Fenster Released by Myanmar</a> WSJ: The 37-year-old journalist, who is expected home in the U.S. soon, was freed following a trip to Myanmar by Bill Richardson, a former U.S. diplomat who has been involved in the release of hostages before. 
+ <p class="updated_time"> 11:35 PM CT, Nov. 14 </p> 
+ <a href="https://www.wsj.com/articles/china-bought-italian-military-drone-maker-without-authorities-knowledge-11636972513">China Bought Italian Military-Drone Maker Without Authorities' Knowledge</a> WSJ: Italian and European authorities weren’t aware that a Chinese state-controlled company bought an Italian military-drone manufacturer and transferred its know-how and technology, revealing how Beijing is skirting weak investment-screening in Europe to acquire sensitive technology. 
  <p class="updated_time"> 11:22 PM CT, Nov. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59286563?at_medium=RSS&at_campaign=KARANGA">Maori tribe tells anti-vaccine protestors to stop using popular haka</a> BBC: The popular Ke Mata haka was performed by anti-vaccine protesters during demonstrations last week. 
  <p class="updated_time"> 11:21 PM CT, Nov. 14 </p> 
@@ -53,8 +57,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/business-59257319?at_medium=RSS&at_campaign=KARANGA">Trump Organization selling Washington hotel for $375m, reports say</a> BBC: The historic building will reportedly be renamed the Waldorf Astoria and managed by the Hilton group. 
  <p class="updated_time"> 10:03 PM CT, Nov. 14 </p> 
  <a href="https://www.wsj.com/articles/wta-calls-for-investigation-into-peng-shuai-sexual-assault-allegations-against-a-former-chinese-leader-11636967014">WTA Calls for Investigation Into Peng Shuai Sexual-Assault Allegations Against a Former Chinese Leader</a> WSJ: “Peng Shuai, and all women, deserve to be heard, not censored,” Women’s Tennis Association CEO Steve Simon said, risking backlash from Beijing. 
- <p class="updated_time"> 08:35 PM CT, Nov. 14 </p> 
- <a href="https://www.wsj.com/articles/china-posts-robust-growth-in-factory-output-and-consumer-spending-11636961716">China Posts Robust Growth in Factory Output and Consumer Spending</a> WSJ: Both cases highlighted how the world’s second-largest economy was able to buck widespread power shortages and a Covid-19 wave, though new signs of weakness in real estate underscored concerns for the outlook. 
  <p class="updated_time"> 06:52 PM CT, Nov. 14 </p> 
  <a href="https://www.nytimes.com/2021/11/14/world/middleeast/afghan-university-students-iraq.html">Afghan College Students Find a New Life, and Safety, in Iraq</a> NYT: Regarded as infidels by the Taliban, over 100 students from the American University in Kabul have found an unlikely refuge in the Iraqi Kurdish city of Sulaimaniya. 
  <p class="updated_time"> 06:06 PM CT, Nov. 14 </p> 
@@ -69,8 +71,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-latin-america-59246083?at_medium=RSS&at_campaign=KARANGA">Jair Bolsonaro, guns and rising violence in Brazil</a> BBC: Gun culture was part of Bolsonaro's winning presidential campaign. Three years on, what's the impact? 
  <p class="updated_time"> 06:03 PM CT, Nov. 14 </p> 
  <a href="https://www.bbc.co.uk/news/uk-59268974?at_medium=RSS&at_campaign=KARANGA">The Uyghur woman fighting to keep her culture alive</a> BBC: In London, a restaurant owner aims to preserve traditions which are under threat in China. 
- <p class="updated_time"> 05:05 PM CT, Nov. 14 </p> 
- <a href="https://www.wsj.com/articles/japan-economy-shrinks-slightly-hit-by-supply-chain-troubles-11636934752">Japan Economy Shrinks, Hit by Supply Chain Troubles</a> WSJ: The world’s third-largest economy contracted 0.8% in the July-September period owing to a decline in exports caused by supply-chain constraints and lower consumer spending. 
  <p class="updated_time"> 04:21 PM CT, Nov. 14 </p> 
  <a href="https://www.npr.org/2021/11/14/1055698304/3-detained-after-car-explosion-kills-1-outside-liverpool-hospital">3 detained after car explosion kills 1 outside Liverpool hospital</a> NPR: Police were called to reports of a blast involving a taxi at Liverpool Women's Hospital on Sunday morning. One person was killed and one person injured. 
  <p class="updated_time"> 03:55 PM CT, Nov. 14 </p> 
@@ -226,6 +226,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/15/mcconnell-disinvite-trump-biden-inaugural-522253">McConnell sought to disinvite Trump from Biden’s inaugural</a> Politico: According to a new book from Jonathan Karl, Trump got wind of the plan and preemptively announced he wasn’t attending 
  <p class="updated_time"> 04:30 AM CT, Nov. 15 </p> 
  <a href="https://www.politico.com/news/2021/11/15/democrats-reconciliation-health-care-midterms-521959">Dems' bitter pill: Popular health provisions won't kick in until after the midterms</a> Politico: There was little they could have done to speed up implementation of key parts of their bill. They’re hoping voters will reward them regardless. 
+ <p class="updated_time"> 04:06 AM CT, Nov. 15 </p> 
+ <a href="https://www.cnn.com/2021/11/15/politics/joe-biden-xi-jinping-virtual-summit/index.html">Biden set to engage in critical talks with President Xi Jinping Monday amid fierce tensions with China</a> CNN: When Chinese President Xi Jinping beams into the White House on Monday evening for a virtual summit with President Joe Biden, the two men will need no introduction. 
  <p class="updated_time"> 04:05 AM CT, Nov. 15 </p> 
  <a href="https://www.cnn.com/2021/11/15/politics/congress-debt-ceiling-government-funding-build-back-better-act/index.html">Congress returns Monday with government funding, debt ceiling, economic bill looming</a> CNN: While Democratic leaders plan to take a victory lap Monday to celebrate President Joe Biden signing the bipartisan infrastructure bill, other pressing issues remain for lawmakers when they return for session this week. 
  <p class="updated_time"> 04:00 AM CT, Nov. 15 </p> 
@@ -382,8 +384,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/12/politics/kamala-harris-paris/index.html">Harris says she did not discuss submarine deal with Macron during Paris meeting</a> CNN: Vice President Kamala Harris said she did not discuss with French President Emmanuel Macron the surprise deal between the US and Australia to develop nuclear submarines that angered the French, leading to a fallout between the longstanding allies. 
  <p class="updated_time"> 08:50 AM CT, Nov. 12 </p> 
  <a href="https://www.politico.com/news/2021/11/12/biden-poised-to-nominate-califf-as-fda-chief-521060">Biden nominates Califf as FDA chief</a> Politico: The selection ends the administration's lengthy search for a permanent FDA commissioner. 
- <p class="updated_time"> 08:43 AM CT, Nov. 12 </p> 
- <a href="https://www.cnn.com/2021/11/12/politics/trump-pence-threats-january-6/index.html">Trump defends threats to Pence on 1/6 in new audio</a> CNN: Former President Donald Trump appeared to defend the threats made against then-Vice President Mike Pence during the January 6 insurrection in a new audio recording released Wednesday. 
  <p class="updated_time"> 07:43 AM CT, Nov. 12 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/11/12/could-mccarthy-win-the-gavel-495084">Could McCarthy win the gavel?</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:13 AM CT, Nov. 12 </p> 
