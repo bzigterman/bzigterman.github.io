@@ -7,12 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:44 AM CT, Nov. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59290412?at_medium=RSS&at_campaign=KARANGA">Danny Fenster: US journalist freed from Myanmar jail</a> BBC: Danny Fenster will be allowed to leave the country just days after getting an 11-year sentence. 
+ <p class="updated_time"> 04:34 AM CT, Nov. 15 </p> 
+ <a href="https://www.nytimes.com/2021/11/15/world/asia/myanmar-fenster-release.html">U.S. Journalist Danny Fenster Is Freed From Myanmar Prison</a> NYT: The release was a rare positive development in the country, which has been torn apart by violence since a February coup. 
  <p class="updated_time"> 04:28 AM CT, Nov. 15 </p> 
  <a href="https://www.npr.org/2021/11/15/1055753386/u-s-journalist-is-freed-from-myanmar-prison-with-ex-diplomat-richardsons-help">U.S. journalist is freed from Myanmar prison with ex-diplomat Richardson's help</a> NPR: Former U.S. Ambassador to the U.N. Bill Richardson said in a statement that Danny Fenster had been handed over to him in Myanmar and would return to the U.S. via Qatar over the next day and a half. 
  <p class="updated_time"> 04:15 AM CT, Nov. 15 </p> 
  <a href="https://www.npr.org/2021/11/15/1049523021/mamata-banerjee-modi-india-politics">Meet the feisty, 5-foot-tall thorn in the side of India's prime minister</a> NPR: Mamata Banerjee, chief minister of West Bengal state, is one of Narendra Modi's fiercest critics. She's especially beloved by women and the impoverished. But gaining national traction may be tough. 
- <p class="updated_time"> 04:12 AM CT, Nov. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59290412?at_medium=RSS&at_campaign=KARANGA">Danny Fenster: US journalist freed from Myanmar jail</a> BBC: Danny Fenster will be allowed to leave the country just days after getting an 11-year sentence. 
  <p class="updated_time"> 04:01 AM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/14/world/europe/austria-unvaccinated-lockdown.html">Austria to Target the Unvaccinated in New Lockdown</a> NYT: The country, facing the biggest surge in virus cases since the pandemic started, is putting strict curbs on the movement of those without shots. 
  <p class="updated_time"> 04:00 AM CT, Nov. 15 </p> 
@@ -175,8 +177,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/12/us/ivory-rhino-congo-trafficking.html">2 Ivory Smugglers Captured in International Operation, U.S. Says</a> NYT: The men were captured by relying on DNA sampling from a previously seized ivory haul, which helped experts pinpoint the location of poached elephants. 
  <p class="updated_time"> 06:05 PM CT, Nov. 12 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59265609?at_medium=RSS&at_campaign=KARANGA">BBC's Simpson revisits Afghanistan under the Taliban</a> BBC: In 2001, the BBC's World Affairs editor was part of a team which entered the city when the Taliban fell. 
- <p class="updated_time"> 04:30 PM CT, Nov. 12 </p> 
- <a href="https://www.nytimes.com/2021/11/11/world/asia/zuo-fang-dead.html">Zuo Fang, a Founder of China's Southern Weekly, is Dead</a> NYT: When he helped start Southern Weekly, he charted a course for a freer era for the country’s press, which later became increasingly constrained by Beijing. 
  <p class="updated_time"> 03:09 PM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/world/asia/myanmar-danny-fenster.html">Danny Fenster, U.S. Journalist in Myanmar, Gets 11 Years in Jail</a> NYT: Danny Fenster was given the toughest possible sentence on three charges, in a signal that the country’s military rulers would not bow to international pressure. 
  <p class="updated_time"> 02:57 PM CT, Nov. 12 </p> 
@@ -203,12 +203,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/science-environment-59263810?at_medium=RSS&at_campaign=KARANGA">John Kerry at COP26: We're going to come up with an agreement</a> BBC: The US climate envoy speaks to the BBC as pressure mounts on governments to strike a deal at COP26. 
  <p class="updated_time"> 02:36 AM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/11/world/europe/migrants-poland-belarus-lukashenko.html">Migrants in Peril, and Raw Emotions, in a Volatile European Border Standoff</a> NYT: A confrontation over migrants between Belarus and Poland is growing more volatile, as nationalist fervor rises in both countries and a humanitarian disaster looms. 
- <p class="updated_time"> 08:46 PM CT, Nov. 11 </p> 
- <a href="https://www.nytimes.com/2021/11/11/world/asia/india-pollution-yamuna-chhath.html">On Delhi’s Toxic River, Prayers to a Sun Struggling to Shine Through Smog</a> NYT: Every year, a four-day festival to the sun god Surya highlights the Indian city’s extreme air and water pollution, with a river so filled with foam it resembles a blizzard’s aftermath. 
- <p class="updated_time"> 05:37 PM CT, Nov. 11 </p> 
- <a href="https://www.nytimes.com/2021/11/11/world/who-is-aleksandr-g-lukashenko.html">Who Is Aleksandr Lukashenko? Here's What You Need to Know</a> NYT: A migrant crisis on the border with Poland has put the Belarusian president at the center of a clash roiling Europe. 
- <p class="updated_time"> 02:52 PM CT, Nov. 11 </p> 
- <a href="https://www.nytimes.com/2021/11/11/world/americas/bolsonaro-trump-brazil-election.html">Trump Allies Help Bolsonaro Sow Doubt in Brazil's Elections</a> NYT: With his poll numbers falling, President Jair Bolsonaro is already questioning the legitimacy of next year’s election. He has help from the United States. 
 
 
 </details>
@@ -219,7 +213,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:31 AM CT, Nov. 15 </p> 
  <a href="https://www.politico.com/news/2021/11/15/gop-trump-budget-congress-521209">GOP weighs trapping Democrats in Trump’s budget</a> Politico: Democrats are working to negotiate a government funding deal, but Republicans have a long list of demands before they'll come to the table. 
  <p class="updated_time"> 04:30 AM CT, Nov. 15 </p> 
- <a href="https://www.politico.com/news/2021/11/15/democrats-reconciliation-health-care-midterms-521959">Dems stuffed their bill with popular health provisions — but they’re delayed until after the midterms</a> Politico: There was little they could do to speed up implementation. And they’re hoping voters will reward them regardless. 
+ <a href="https://www.politico.com/news/2021/11/15/democrats-reconciliation-health-care-midterms-521959">Dems' bitter pill: Popular health provisions won't kick in until after the midterms</a> Politico: There was little they could have done to speed up implementation of key parts of their bill. They’re hoping voters will reward them regardless. 
  <p class="updated_time"> 04:00 AM CT, Nov. 15 </p> 
  <a href="https://www.npr.org/2021/11/15/1053917252/infrastructure-bill-broadband-internet-rural-college-students">Students are still struggling to get internet. The infrastructure bill could help</a> NPR: President Biden's infrastructure bill includes $65 billion for improving broadband. That money could make a big difference for rural college students, who are especially disconnected. 
  <p class="updated_time"> 04:00 AM CT, Nov. 15 </p> 
