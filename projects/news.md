@@ -216,6 +216,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 01:41 PM CT, Nov. 15 </p> 
+ <a href="https://www.nytimes.com/2021/11/15/us/politics/blinken-africa-ethiopia.html">Blinken Heads to Africa as U.S. Tries to Avert Ethiopia Disaster</a> NYT: The conflict between rebels and the country’s government has already featured numerous alleged atrocities, and experts say it threatens the stability of all of East Africa. 
  <p class="updated_time"> 01:27 PM CT, Nov. 15 </p> 
  <a href="https://www.cnn.com/2021/11/15/politics/steve-bannon/index.html">Steve Bannon released from custody pending trial on contempt of Congress charges</a> CNN: Steve Bannon, a former adviser to former President Donald Trump, turned himself in to the FBI Monday morning to self-surrender after being indicted on criminal contempt charges on Friday. 
  <p class="updated_time"> 01:21 PM CT, Nov. 15 </p> 
@@ -225,7 +227,7 @@ permalink: /projects/news/
  <p class="updated_time"> 01:02 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/us/politics/bannon-congress-trump-jan-6.html">Steve Bannon turns himself in on contempt of Congress charges.</a> NYT: The former aide to President Donald J. Trump had refused to comply with a demand for information from the House committee investigating the Jan. 6 Capitol riot. 
  <p class="updated_time"> 12:54 PM CT, Nov. 15 </p> 
- <a href="https://www.nytimes.com/2021/11/15/us/politics/biden-social-policy-bill-irs.html">An empowered I.R.S. emerges as the linchpin of Biden’s social policy bill.</a> NYT: The Congressional Budget Office is expected to find that beefed up tax enforcement would raise far less money than the White House projects. 
+ <a href="https://www.nytimes.com/2021/11/15/us/politics/biden-social-policy-bill-irs.html">How Revenue for Biden's Social Policy Bill Depends on the I.R.S.</a> NYT: The Congressional Budget Office is expected to find that beefed up tax enforcement would raise far less money than the White House projects. 
  <p class="updated_time"> 12:35 PM CT, Nov. 15 </p> 
  <a href="https://www.cnn.com/2021/11/15/politics/patrick-leahy-retirement-announcement/index.html">Patrick Leahy, longest serving US senator still in office, announces he won't seek reelection</a> CNN: Patrick Leahy, a Vermont Democrat and the longest serving US senator still in office, announced Monday he won't seek reelection next year. 
  <p class="updated_time"> 12:29 PM CT, Nov. 15 </p> 
@@ -388,8 +390,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/12/federal-court-biden-vaccine-or-test-mandate-521233">Federal court extends stay of Biden administration's vaccine-or-test mandate</a> Politico: The Biden administration is likely to appeal the panel's decision to the full court. 
  <p class="updated_time"> 09:50 PM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/us/politics/court-vaccine-mandate.html">Appeals Court Extends Block on Biden’s Vaccine Mandate for Employers</a> NYT: A three-judge panel of the U.S. Court of Appeals for the Fifth Circuit held that challengers were likely to succeed in their claim that the mandate was an unlawful overreach. 
- <p class="updated_time"> 07:07 PM CT, Nov. 12 </p> 
- <a href="https://www.nytimes.com/2021/11/12/us/politics/project-veritas-ashley-biden-diary.html">Project Veritas Tells Judge It Was Assured Biden Diary Was Legally Obtained</a> NYT: But a search warrant in the case suggests the Justice Department believes the diary kept by the president’s daughter Ashley Biden was stolen. 
  <p class="updated_time"> 01:40 PM CT, Nov. 12 </p> 
  <a href="https://www.cnn.com/2021/11/12/politics/psaki-returns-white-house-covid/index.html">Jen Psaki returns to White House briefing room after testing positive for Covid-19</a> CNN: White House press secretary Jen Psaki returned to the White House briefing room Friday for the first time since testing positive for Covid-19, telling reporters she completed a 10-day quarantine and received a negative Covid-19 test on Thursday. 
  <p class="updated_time"> 01:00 PM CT, Nov. 12 </p> 
