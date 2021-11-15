@@ -216,10 +216,12 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:40 PM CT, Nov. 15 </p> 
+ <a href="https://www.politico.com/news/2021/11/15/peter-thiel-is-coming-to-washington-522605">Peter Thiel is coming to Washington</a> Politico: The tech billionaire and Trump backer just bought a $13 million mansion in a ritzy D.C. neighborhood. 
  <p class="updated_time"> 05:18 PM CT, Nov. 15 </p> 
  <a href="https://www.politico.com/news/2021/11/15/trump-west-virginia-mooney-mckinley-522608">Trump wades into West Virginia member-vs-member race</a> Politico: The former president endorsed Alex Mooney over David McKinley in the matchup between two House GOP incumbents. 
  <p class="updated_time"> 04:32 PM CT, Nov. 15 </p> 
- <a href="https://www.politico.com/news/2021/11/15/biden-signs-bipartisan-infrastructure-deal-522567">Biden signs bipartisan infrastructure deal</a> Politico: The $550 billion package delivers a legislative victory to the president, who has seen his poll numbers steadily decline. 
+ <a href="https://www.politico.com/news/2021/11/15/biden-signs-bipartisan-infrastructure-deal-522567">Biden finally gets the ‘big effing deal’ signing ceremony of his own</a> Politico: But amid the celebrations over the bipartisan infrastructure package, the question just below the surface was: Will this be his last such moment? 
  <p class="updated_time"> 04:23 PM CT, Nov. 15 </p> 
  <a href="https://www.cnn.com/2021/11/15/politics/chris-christie-donald-trump-january-6-cnntv/index.html">Chris Christie blames Trump's rhetoric about stolen election for January 6 insurrection </a> CNN: Former New Jersey Gov. Chris Christie said he believes the insurrection at the US Capitol on January 6 was the result of former President Donald Trump's lie that the 2020 presidential election was stolen. 
  <p class="updated_time"> 04:17 PM CT, Nov. 15 </p> 
@@ -321,9 +323,9 @@ permalink: /projects/news/
  <p class="updated_time"> 04:30 AM CT, Nov. 15 </p> 
  <a href="https://www.politico.com/news/2021/11/15/andrew-cuomo-wont-leave-ny-521205">‘He’s nuts and he’s got a vendetta’: Cuomo won’t leave New York alone</a> Politico: Even as Albany’s insiders focus on Andrew Cuomo’s successor, Gov. Kathy Hochul, they privately continue worrying about what he might be up to. 
  <p class="updated_time"> 04:30 AM CT, Nov. 15 </p> 
- <a href="https://www.politico.com/news/2021/11/15/mcconnell-disinvite-trump-biden-inaugural-522253">McConnell sought to disinvite Trump from Biden’s inaugural</a> Politico: According to a new book from Jonathan Karl, Trump got wind of the plan and preemptively announced he wasn’t attending 
- <p class="updated_time"> 04:30 AM CT, Nov. 15 </p> 
  <a href="https://www.politico.com/news/2021/11/15/democrats-reconciliation-health-care-midterms-521959">Dems' bitter pill: Popular health provisions won't kick in until after the midterms</a> Politico: There was little they could have done to speed up implementation of key parts of their bill. They’re hoping voters will reward them regardless. 
+ <p class="updated_time"> 04:05 AM CT, Nov. 15 </p> 
+ <a href="https://www.cnn.com/2021/11/15/politics/congress-debt-ceiling-government-funding-build-back-better-act/index.html">Congress returns Monday with government funding, debt ceiling, economic bill looming</a> CNN: While Democratic leaders plan to take a victory lap Monday to celebrate President Joe Biden signing the bipartisan infrastructure bill, other pressing issues remain for lawmakers when they return for session this week. 
  <p class="updated_time"> 04:00 AM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/upshot/pandemic-economic-response.html">How America’s Pandemic Economic Response Fought the Last War</a> NYT: A focus on the challenges of the Great Recession has fueled some of the challenges of this crisis. 
  <p class="updated_time"> 04:00 AM CT, Nov. 15 </p> 
@@ -432,8 +434,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/11/bidens-voters-recovery-conundrum-520771">Biden's ‘I feel your pain’ conundrum</a> Politico: It’s tripped up the last two Democratic presidents and could trip up Biden too: How to sell a recovery when most voters aren’t feeling it. 
  <p class="updated_time"> 06:28 PM CT, Nov. 10 </p> 
  <a href="https://www.cnn.com/2021/11/10/politics/biden-baltimore-port-infrastructure/index.html">'It's worrisome': Biden addresses inflation concerns during Baltimore speech</a> CNN: President Joe Biden takes his sales pitch for the newly passed bipartisan infrastructure deal on the road Wednesday, highlighting the effect of the bill on supply chains, hours after new inflation statistics revealed that America's prices are surging more than they have in 30 years. 
- <p class="updated_time"> 04:51 PM CT, Nov. 10 </p> 
- <a href="https://www.cnn.com/2021/11/10/politics/infrastructure-bill-signing/index.html">Biden to hold signing ceremony on Monday for bipartisan infrastructure bill </a> CNN: President Joe Biden will sign the bipartisan infrastructure bill on Monday during a ceremony that will include members of Congress, governors and mayors from both parties, the White House announced on Wednesday. 
  <p class="updated_time"> 07:21 AM CT, Nov. 10 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/11/10/threat-assessment-never-ending-for-lawmakers-495048">Threat assessment: never ending for lawmakers</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:17 AM CT, Nov. 10 </p> 
