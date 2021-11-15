@@ -7,12 +7,20 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:02 AM CT, Nov. 15 </p> 
+ <a href="https://www.nytimes.com/2021/11/15/world/europe/uk-taxi-explosion-liverpool.html">Liverpool Explosion: Blast Is Declared a Terrorist Act</a> NYT: Local leaders praised the driver as a hero, saying that he may have prevented a bigger calamity. He escaped the burning vehicle and locked the doors, trapping a passenger carrying explosives inside. 
+ <p class="updated_time"> 11:02 AM CT, Nov. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59290412?at_medium=RSS&at_campaign=KARANGA">Danny Fenster: US journalist freed from Myanmar jail</a> BBC: Danny Fenster has been "pardoned" just days after getting an 11-year sentence, and is flying home. 
+ <p class="updated_time"> 10:56 AM CT, Nov. 15 </p> 
+ <a href="https://www.nytimes.com/2021/11/15/world/europe/europe-austria-covid-lockdown-unvaccinated-restrictions.html">Europe Toughens Rules for Unvaccinated as Fourth Covid Wave Swells</a> NYT: Austria took the hardest line yet on Monday, beginning a lockdown aimed exclusively at those who are not inoculated, part of a pattern to make life harder for resisters. 
+ <p class="updated_time"> 10:42 AM CT, Nov. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59291119?at_medium=RSS&at_campaign=KARANGA">Alexander Monson: Kenyan policemen jailed over UK aristocrat's death</a> BBC: The officers covered up the torture and killing of Alexander Monson, a judge in Mombasa rules. 
  <p class="updated_time"> 10:32 AM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/world/europe/ukraine-russia-war-putin.html">How a Dispute Over Groceries Led to Artillery Strikes in Ukraine</a> NYT: In a sign of volatile East-West relations, a dispute over shopping in the Ukrainian conflict zone spiraled into fighting that sent war jitters rippling through Europe and the U.S. 
  <p class="updated_time"> 10:24 AM CT, Nov. 15 </p> 
  <a href="https://www.npr.org/2021/11/15/1055831581/health-workers-in-china-are-killing-pets-while-their-owners-are-in-quarantine">Health workers in China are killing pets while their owners are in quarantine</a> NPR: Local health workers in some Chinese cities are breaking into peoples' homes and killing their pets while the owners are in quarantine, prompting outrage online. 
  <p class="updated_time"> 10:21 AM CT, Nov. 15 </p> 
- <a href="https://www.npr.org/2021/11/15/1055828896/liverpool-taxi-explosion-declared-terrorist-incident-arrests">U.K. police have declared Sunday's Liverpool car blast a terrorist incident</a> NPR: Authorities in England have arrested four men in connection with Sunday's deadly blast, which took place in a taxi outside of a women's hospital. They say a motive is not yet known. 
+ <a href="https://www.npr.org/2021/11/15/1055828896/liverpool-taxi-explosion-declared-terrorist-incident-arrests">U.K. police have declared Sunday's Liverpool car blast a terrorist act</a> NPR: Authorities in England have arrested four men in connection with Sunday's deadly blast, which took place in a taxi outside a women's hospital. They say a motive is not yet known. 
  <p class="updated_time"> 10:14 AM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/world/asia/myanmar-danny-fenster-release.html">U.S. Journalist Danny Fenster Is Freed From Myanmar Prison</a> NYT: The release was a rare positive development in the country, which has been torn by violence since a February coup. 
  <p class="updated_time"> 10:14 AM CT, Nov. 15 </p> 
@@ -29,14 +37,8 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/uk-england-london-59253057?at_medium=RSS&at_campaign=KARANGA">Tamara Ecclestone burglary: Italian gang jailed for £26m celebrity raids</a> BBC: The homes of Frank Lampard and Tamara Ecclestone were among those targeted by the jewellery thieves. 
  <p class="updated_time"> 09:54 AM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/13/world/canada/newfoundland-migrants.html">Urbanites in Canada Flock to Atlantic Region Amid Remote Work Shift</a> NYT: As housing prices soar in big cities, the country’s eastern provinces are experiencing a surge in migration. Newcomers are being welcomed, but some locals are wary. 
- <p class="updated_time"> 09:40 AM CT, Nov. 15 </p> 
- <a href="https://www.nytimes.com/2021/11/15/world/europe/uk-taxi-explosion-liverpool.html">Liverpool Explosion: Blast Is Declared a Terrorist Act</a> NYT: Local leaders praised the driver as a hero, saying that he may have prevented a bigger calamity. He escaped the burning vehicle and locked the doors, trapping a passenger carrying explosives inside. 
- <p class="updated_time"> 09:35 AM CT, Nov. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59290412?at_medium=RSS&at_campaign=KARANGA">Danny Fenster: US journalist freed from Myanmar jail</a> BBC: Danny Fenster has been "pardoned" just days after getting an 11-year sentence, and is flying home. 
  <p class="updated_time"> 09:32 AM CT, Nov. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59289345?at_medium=RSS&at_campaign=KARANGA">Israel urges Turkey to free couple held for spying over palace photos</a> BBC: Natalie and Mordi Oknin were arrested after taking photos of the president's residence in Istanbul. 
- <p class="updated_time"> 09:31 AM CT, Nov. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59291119?at_medium=RSS&at_campaign=KARANGA">Alexander Monson: Kenyan policemen jailed over UK aristocrat's death</a> BBC: The officers covered up the torture and killing of Alexander Monson, a judge in Mombasa rules. 
  <p class="updated_time"> 09:29 AM CT, Nov. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59289998?at_medium=RSS&at_campaign=KARANGA">Poland border crisis: EU to widen Belarus sanctions as row intensifies</a> BBC: The crisis intensifies as hundreds more migrants arrive at the border with Poland. 
  <p class="updated_time"> 08:58 AM CT, Nov. 15 </p> 
@@ -51,8 +53,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-latin-america-59246083?at_medium=RSS&at_campaign=KARANGA">Jair Bolsonaro and guns: A US culture war raging in Brazil</a> BBC: Gun culture was part of Bolsonaro's winning presidential campaign. Three years on, what's the impact? 
  <p class="updated_time"> 06:52 AM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/world/asia/duterte-philippines-election.html">Rodrigo Duterte to Run for Senate in the Philippines</a> NYT: Rodrigo Duterte entered the race days after his daughter announced her bid for vice president. He had previously said he would leave politics at the end of his term. 
- <p class="updated_time"> 06:41 AM CT, Nov. 15 </p> 
- <a href="https://www.nytimes.com/2021/11/12/world/asia/myanmar-danny-fenster.html">Danny Fenster, U.S. Journalist in Myanmar, Gets 11 Years in Jail</a> NYT: Danny Fenster was given the toughest possible sentence on three charges, in a signal that the country’s military rulers would not bow to international pressure. 
  <p class="updated_time"> 06:29 AM CT, Nov. 15 </p> 
  <a href="https://www.bbc.co.uk/news/entertainment-arts-59291000?at_medium=RSS&at_campaign=KARANGA">Adele opens up to Oprah Winfrey about her weight loss, divorce and finding herself again.</a> BBC: Award-winning singer Adele describes how she saved her mental health through exercise and why she's now at peace with herself. 
  <p class="updated_time"> 06:29 AM CT, Nov. 15 </p> 
@@ -65,26 +65,28 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/14/world/europe/liverpool-hospital-car-explosion.html">Taxi Explodes Outside Liverpool Hospital, Killing One</a> NYT: Three men in their twenties were arrested under Britain’s Terrorism Act several hours after the explosion, in which a second person was injured, the authorities said. 
  <p class="updated_time"> 05:13 AM CT, Nov. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59289966?at_medium=RSS&at_campaign=KARANGA">Cuba cracks down on dissent ahead of protest march</a> BBC: Cuban state security agents are blocking the organiser of a protest march from leaving his home. 
+ <p class="updated_time"> 04:47 AM CT, Nov. 15 </p> 
+ <a href="https://www.wsj.com/articles/arrests-made-following-car-explosion-outside-u-k-hospital-11636939092">U.K. Police Say Liverpool Taxi Explosion Was Terrorist Act</a> WSJ: A would-be attacker in Liverpool killed himself when he detonated an explosive device in the back of a taxi in an act police characterized as terrorism. 
  <p class="updated_time"> 04:28 AM CT, Nov. 15 </p> 
  <a href="https://www.npr.org/2021/11/15/1055753386/u-s-journalist-is-freed-from-myanmar-prison-with-ex-diplomat-richardsons-help">U.S. journalist is freed from Myanmar prison with ex-diplomat Richardson's help</a> NPR: Former U.S. Ambassador to the U.N. Bill Richardson said in a statement that Danny Fenster had been handed over to him in Myanmar and would return to the U.S. via Qatar over the next day and a half. 
  <p class="updated_time"> 04:15 AM CT, Nov. 15 </p> 
  <a href="https://www.npr.org/2021/11/15/1049523021/mamata-banerjee-modi-india-politics">Meet the feisty, 5-foot-tall thorn in the side of India's prime minister</a> NPR: Mamata Banerjee, chief minister of West Bengal state, is one of Narendra Modi's fiercest critics. She's especially beloved by women and the impoverished. But gaining national traction may be tough. 
  <p class="updated_time"> 04:00 AM CT, Nov. 15 </p> 
- <a href="https://www.nytimes.com/2021/11/15/world/asia/japan-elderly-diapers.html">A New Source of Fuel in an Aging Japan: Adult Incontinence</a> NYT: Waste from adult diapers is growing by tens of thousands of tons a year in Japan. One town may have a solution: recycle it into fuel pellets. 
+ <a href="https://www.nytimes.com/2021/11/15/world/asia/adult-diapers-japan.html">A New Source of Fuel in an Aging Japan: Adult Incontinence</a> NYT: Waste from adult diapers is growing by tens of thousands of tons a year in Japan. One town may have a solution: recycle it into fuel pellets. 
  <p class="updated_time"> 04:00 AM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/travel/bulgaria-narrow-gauge-railway.html">Inside the Struggle to Save Bulgaria’s Last Narrow-Gauge Railroad</a> NYT: The Rhodope Narrow-Gauge Railway serves remote communities in southwestern Bulgaria. Can longtime riders — and young enthusiasts — keep it running? 
  <p class="updated_time"> 03:59 AM CT, Nov. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59288177?at_medium=RSS&at_campaign=KARANGA">Australian women sue over Qatar airport strip-searches</a> BBC: They are seeking damages after being forced into examinations at Doha airport last year. 
  <p class="updated_time"> 03:42 AM CT, Nov. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59283128?at_medium=RSS&at_campaign=KARANGA">Covid: Austria introduces lockdown for unvaccinated</a> BBC: Some two million people are told to stay at home amid growing pressure on hospitals as cases surge. 
+ <p class="updated_time"> 02:38 AM CT, Nov. 15 </p> 
+ <a href="https://www.wsj.com/articles/austria-imposes-restrictions-for-unvaccinated-considers-full-covid-19-lockdown-11636983501">Austria Imposes Restrictions for Unvaccinated, Considers Full Covid-19 Lockdown</a> WSJ: Austria ordered around two million people who aren’t fully vaccinated against Covid-19 to remain in their homes, as it debates reintroducing restrictions for everyone following a steep rise in infections. 
  <p class="updated_time"> 02:13 AM CT, Nov. 15 </p> 
  <a href="https://www.wsj.com/articles/u-s-journalist-danny-fenster-released-by-myanmar-11636976141">U.S. Journalist Danny Fenster Released by Myanmar</a> WSJ: The 37-year-old journalist, who is expected home in the U.S. soon, was freed following a trip to Myanmar by Bill Richardson, a former U.S. diplomat who has been involved in the release of hostages before. 
  <p class="updated_time"> 01:41 AM CT, Nov. 15 </p> 
  <a href="https://www.wsj.com/articles/belarus-border-standoff-prompts-broader-eu-sanctions-11636980109">Belarus Border Standoff Prompts Broader EU Sanctions</a> WSJ: The European Union agreed to broaden its sanctions regime against Belarus over the migrant border standoff, brushing off threats by President Alexander Lukashenko to cut gas flows to the continent. 
  <p class="updated_time"> 01:34 AM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/14/world/asia/rohingya-refugees-bangladesh.html">They Warned Their Names Were on a Hit List. They Were Killed.</a> NYT: In less than a month, assassins have killed at least eight people in the Rohingya refugee camps of Bangladesh, silencing those who have dared to speak out against the violent gangs. 
- <p class="updated_time"> 11:35 PM CT, Nov. 14 </p> 
- <a href="https://www.wsj.com/articles/china-bought-italian-military-drone-maker-without-authorities-knowledge-11636972513">China Bought Italian Military-Drone Maker Without Authorities' Knowledge</a> WSJ: Italian and European authorities weren’t aware that a Chinese state-controlled company bought an Italian military-drone manufacturer and transferred its know-how and technology, revealing how Beijing is skirting weak investment-screening in Europe to acquire sensitive technology. 
  <p class="updated_time"> 11:21 PM CT, Nov. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-india-59286783?at_medium=RSS&at_campaign=KARANGA">A watered-down COP26 deal as Delhi chokes</a> BBC: India watered down a deal to cut reliance on coal even as its capital Delhi reels from toxic air quality. 
  <p class="updated_time"> 11:00 PM CT, Nov. 14 </p> 
@@ -109,8 +111,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-india-59247427?at_medium=RSS&at_campaign=KARANGA">A Nobel prize-winning economist's guide to cooking</a> BBC: Abhijeet Banerjee's irreverent new cookbook draws on both his culinary instincts and his academic insights. 
  <p class="updated_time"> 06:03 PM CT, Nov. 14 </p> 
  <a href="https://www.bbc.co.uk/news/uk-59268974?at_medium=RSS&at_campaign=KARANGA">The Uyghur woman fighting to keep her culture alive</a> BBC: In London, a restaurant owner aims to preserve traditions which are under threat in China. 
- <p class="updated_time"> 05:05 PM CT, Nov. 14 </p> 
- <a href="https://www.wsj.com/articles/japan-economy-shrinks-slightly-hit-by-supply-chain-troubles-11636934752">Japan Economy Shrinks, Hit by Supply Chain Troubles</a> WSJ: The world’s third-largest economy contracted 0.8% in the July-September period owing to a decline in exports caused by supply-chain constraints and lower consumer spending. 
  <p class="updated_time"> 04:21 PM CT, Nov. 14 </p> 
  <a href="https://www.npr.org/2021/11/14/1055698304/3-detained-after-car-explosion-kills-1-outside-liverpool-hospital">3 detained after car explosion kills 1 outside Liverpool hospital</a> NPR: Police were called to reports of a blast involving a taxi at Liverpool Women's Hospital on Sunday morning. One person was killed and one person injured. 
  <p class="updated_time"> 03:55 PM CT, Nov. 14 </p> 
@@ -129,10 +129,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/13/world/europe/france-2015-attacks-trial-victims.html">Survivors of 2015 Paris Terrorist Attacks Testify at Trial</a> NYT: The trauma of the 2015 terrorist attacks in Paris was highlighted in testimony by survivors and others at a trial of 20 men accused of involvement. 
  <p class="updated_time"> 11:03 AM CT, Nov. 14 </p> 
  <a href="https://www.nytimes.com/2021/11/14/world/middleeast/iran-earthquake.html">At Least 1 Dead After Quakes Strike Southern Iran</a> NYT: Two moderate temblors hit Hormozgan Province on Sunday afternoon, state TV reported. 
- <p class="updated_time"> 10:49 AM CT, Nov. 14 </p> 
- <a href="https://www.wsj.com/articles/cop26-opens-path-to-international-carbon-trading-11636922314">COP26 Opens Path to International Carbon Trading</a> WSJ: A U.N.-certified carbon credit could be used by regulated markets and standardize more informal ones. 
  <p class="updated_time"> 10:35 AM CT, Nov. 14 </p> 
- <a href="https://www.nytimes.com/2021/11/14/world/americas/cuba-protest.html">In Cuba, Desires for Food and Freedom May Spark a Rare Day of Protest</a> NYT: Young dissidents who rely on the internet to spread their ideas are calling for a protest on Monday, a bold move with little precedent in Cuba. 
+ <a href="https://www.nytimes.com/2021/11/14/world/americas/cuba-protest.html">Young Dissidents Call for a Day of Protest in Cuba</a> NYT: Young dissidents who rely on the internet to spread their ideas are calling for a protest on Monday, a bold move with little precedent in Cuba. 
+ <p class="updated_time"> 07:45 AM CT, Nov. 14 </p> 
+ <a href="https://www.wsj.com/articles/xi-jinping-china-economy-growth-poverty-tech-beijing-11636915358">What's Driving Xi Jinping's Economic Revamp? China's Social Mobility Has Stalled</a> WSJ: Academic research and data show that as the country’s economy matures, more opportunities go to the children of wealthy and politically connected elites, posing a challenge to the ruling Communist Party. 
  <p class="updated_time"> 07:44 AM CT, Nov. 14 </p> 
  <a href="https://www.nytimes.com/2021/11/14/world/europe/queen-elizabeth-health.html">Queen Elizabeth Misses Remembrance Service Because of Sprained Back</a> NYT: The British monarch, 95, has put off multiple trips and engagements recently, and the latest cancellation has deepened anxiety about her health. She has now been out of sight since mid-October. 
  <p class="updated_time"> 07:05 AM CT, Nov. 14 </p> 
@@ -201,14 +201,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/12/world/africa/de-klerk-apartheid-south-africa.html">For Some South Africans, de Klerk Missed Chances for True Reconciliation</a> NYT: The last white president of South Africa helped bring an end to the apartheid regime, but for many citizens, he never went far enough to disavow it. He left a video apologizing. 
  <p class="updated_time"> 12:02 PM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/world/middleeast/israel-ethiopia-jews-immigration.html">Ethiopian Civil War Sparks Rancorous Debate Over Immigration to Israel</a> NYT: Thousands of relatives of the remnants of Ethiopian Jewry are waiting to be airlifted to Israel. For now, the Israeli government sees no urgency. 
- <p class="updated_time"> 11:07 AM CT, Nov. 12 </p> 
- <a href="https://www.nytimes.com/2021/11/12/world/asia/hong-kong-rthk-crackdown-china.html">RTHK’s Swift Turn From Maverick Voice to Official Mouthpiece</a> NYT: RTHK has often set the news agenda with its aggressive coverage of the city. But a Beijing clampdown has changed that, with pro-China coverage filling the void. 
  <p class="updated_time"> 11:00 AM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/arts/design/new-york-international-tourists.html">‘Be Nice to Tourists’: New York’s Arts Scene Needs International Visitors</a> NYT: The United States now allows vaccinated international travelers into the country. It’s welcome news for arts institutions that lost revenue and cut jobs during the pandemic. 
  <p class="updated_time"> 10:59 AM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/world/asia/migration-eu-poland-belarus.html">In Border Crisis, Europe’s Unsavory Migration Deals Come Home</a> NYT: Europe has long paid other nations to keep refugees away from its borders. Now, Belarus wants something, too, and has brought migrants right to Europe’s door to get it. 
- <p class="updated_time"> 10:44 AM CT, Nov. 12 </p> 
- <a href="https://www.nytimes.com/2021/11/12/world/australia/migration-and-experimentation-what-led-to-australias-coffee-culture.html">Migration and Experimentation: What Led to Australia’s Coffee Culture</a> NYT: When Italian migrants arrived after World War II, they helped develop a coffee scene that many now regard as the best in the world. 
  <p class="updated_time"> 10:01 AM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/world/europe/julian-assange-stella-moris-marriage.html">Julian Assange Will Marry Stella Moris in London Prison</a> NYT: The WikiLeaks founder, who is battling extradition to the United States on espionage charges, has been granted permission to marry Stella Moris in the London prison where he has been held since 2019. 
  <p class="updated_time"> 06:58 AM CT, Nov. 12 </p> 
@@ -220,12 +216,18 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 11:55 AM CT, Nov. 15 </p> 
+ <a href="https://www.politico.com/news/2021/11/15/weapons-charge-dismissed-rittenhouse-trial-522411">Judge dismisses weapons charge at Rittenhouse murder trial</a> Politico: Rittenhouse, 18, killed two men and wounded a third in the summer of 2020 during a turbulent protest against racial injustice. 
+ <p class="updated_time"> 10:56 AM CT, Nov. 15 </p> 
+ <a href="https://www.npr.org/2021/11/15/1055835208/trumps-controversial-hotel-in-d-c-will-reportedly-be-sold-and-renamed">Trump's controversial hotel in D.C. will reportedly be sold and renamed</a> NPR: The deal is said to be worth $375 million. Trump's company has suffered a net loss of $70 million in operating the hotel, the House Oversight Committee said last month. 
+ <p class="updated_time"> 10:46 AM CT, Nov. 15 </p> 
+ <a href="https://www.nytimes.com/2021/11/15/us/politics/alex-jones-sandy-hook.html">Alex Jones Guilty in Sandy Hook Defamation Suits</a> NYT: A Connecticut judge’s ruling combines with decisions in Texas to grant a clean sweep for families of shooting victims in their cases against the Infowars host. 
+ <p class="updated_time"> 10:39 AM CT, Nov. 15 </p> 
+ <a href="https://www.cnn.com/2021/11/15/politics/patrick-leahy-retirement-announcement/index.html">Patrick Leahy, longest serving US senator still in office, announces he won't seek reelection</a> CNN: Patrick Leahy, a Vermont Democrat and the longest serving US senator still in office, announced Monday he won't seek reelection next year. 
  <p class="updated_time"> 10:39 AM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/14/us/politics/religious-groups-child-care.html">Biden’s Child Care Plan Faces Resistance From Religious Groups</a> NYT: A nondiscrimination provision in the $1.85 trillion social policy bill could disqualify some religious organizations, spurring a fight over who can benefit from President Biden’s landmark bill. 
  <p class="updated_time"> 10:34 AM CT, Nov. 15 </p> 
  <a href="https://www.politico.com/news/2021/11/15/bannon-surrenders-to-fbi-522373">Bannon surrenders to FBI</a> Politico: The longtime Trump adviser faces prosecution on contempt of Congress charges. 
- <p class="updated_time"> 10:34 AM CT, Nov. 15 </p> 
- <a href="https://www.nytimes.com/2021/11/15/us/politics/alex-jones-sandy-hook.html">Alex Jones Guilty in Sandy Hook Defamation Suits</a> NYT: A Connecticut judge’s ruling combines with decisions in Texas to grant a clean sweep for families of shooting victims in their cases against the Infowars host. 
  <p class="updated_time"> 10:29 AM CT, Nov. 15 </p> 
  <a href="https://www.npr.org/2021/11/15/1055832976/steve-bannon-surrenders-contempt-of-congress-charges-jan-6">Steve Bannon has turned himself in on criminal contempt charges</a> NPR: Former president Donald Trump's one-time top adviser surrended to federal authorities on Monday. Bannon was indicted last week for defying a congressional subpoena related to the Jan. 6 Capitol riot. 
  <p class="updated_time"> 10:26 AM CT, Nov. 15 </p> 
@@ -234,8 +236,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/15/leahy-most-senior-senator-will-retire-522356">Leahy, most-senior senator, will retire</a> Politico: Sen. Patrick Leahy, 81, announced Monday that he would not run for a ninth term. 
  <p class="updated_time"> 10:15 AM CT, Nov. 15 </p> 
  <a href="https://www.npr.org/2021/11/15/1055832971/steve-bannon-turns-himself-in-to-face-criminal-contempt-charges">Steve Bannon turns himself in to face criminal contempt charges</a> NPR: Former Trump adviser Steve Bannon has turned himself in at the FBI field office in Washington. He faces charges of contempt of Congress. 
- <p class="updated_time"> 10:14 AM CT, Nov. 15 </p> 
- <a href="https://www.cnn.com/2021/11/15/politics/patrick-leahy-retirement-announcement/index.html">Patrick Leahy, longest serving US senator still in office, announces he won't seek reelection</a> CNN: Patrick Leahy, a Vermont Democrat and the longest serving US senator still in office, announced Monday he won't seek reelection next year. 
  <p class="updated_time"> 10:10 AM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/us/politics/bannon-congress-trump-jan-6.html">Steve Bannon turns himself in on contempt of Congress charges.</a> NYT: The former aide to President Donald J. Trump had refused to comply with a demand for information from the House committee investigating the Jan. 6 Capitol riot. 
  <p class="updated_time"> 09:58 AM CT, Nov. 15 </p> 
@@ -336,8 +336,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/14/1055664174/snl-cold-open-ted-cruz-big-bird-sesame-street">SNL uses its cold open to skewer Ted Cruz over his Big Bird vaccine tweet</a> NPR: In a Saturday Night Live sketch, Sen. Ted Cruz, played by Aidy Bryant, hosts a right-wing alternative to the children's television program Sesame Street. 
  <p class="updated_time"> 11:41 AM CT, Nov. 14 </p> 
  <a href="https://www.politico.com/news/2021/11/14/schiff-bannon-indictment-comply-522016">Rep. Schiff: Bannon’s indictment will ‘without a doubt’ lead others to comply with Jan. 6 panel</a> Politico: “It’s very positive,” the California Democrat said. 
- <p class="updated_time"> 11:02 AM CT, Nov. 14 </p> 
- <a href="https://www.politico.com/news/2021/11/14/paxton-texas-mandates-wallace-521984">Texas attorney general opposes federal edicts, supports state edicts</a> Politico: Ken Paxton got a bit tangled up discussing the president’s mandates in an interview with Chris Wallace. 
  <p class="updated_time"> 10:43 AM CT, Nov. 14 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/14/no-bif-bump-for-biden-495093">POLITICO Playbook: No BIF bump for Biden</a> Politico: And COP26 wraps up in Scotland. 
  <p class="updated_time"> 10:21 AM CT, Nov. 14 </p> 
@@ -380,8 +378,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/13/us/politics/tribal-lands-flooding-nuclear-waste.html">Flooding and Nuclear Waste Eat Away at a Tribe’s Ancestral Home</a> NYT: The federal government allowed a stockpile of spent fuel on a Minnesota reservation to balloon even as a dam project whittled down the amount of livable land. 
  <p class="updated_time"> 12:44 PM CT, Nov. 13 </p> 
  <a href="https://www.nytimes.com/2021/11/12/us/politics/kamala-harris-macron-france.html">In France, Kamala Harris Searches for Role on Global Stage</a> NYT: The vice president met with President Emmanuel Macron of France, skirting recent U.S.-French tensions, and immersed herself in issues like Libya and cybersecurity. 
- <p class="updated_time"> 12:40 PM CT, Nov. 13 </p> 
- <a href="https://www.npr.org/2021/11/13/1055524205/more-republican-leaders-try-to-ban-books-on-race-lgbtq-issues">More Republican leaders try to ban books on race, LGBTQ issues</a> NPR: In the latest instance, South Carolina Gov. Henry McMaster calls on the state's department of education to look into banning a book about queer identity, saying the content is sexually explicit. 
  <p class="updated_time"> 11:00 AM CT, Nov. 13 </p> 
  <a href="https://www.cnn.com/2021/11/13/politics/midterms-democrats-biden-analysis/index.html">Analysis: History says Biden and Democrats probably won't recover by the midterms</a> CNN: President Joe Biden's approval rating is at its lowest point since he took office. His approval rating has slid into the low 40s this month. And while the President has plenty of time to recover before his potential reelection in 2024, history suggests that his chances of becoming popular and Democrats gaining ground by the midterms in 2022 are small. 
  <p class="updated_time"> 10:28 AM CT, Nov. 13 </p> 
