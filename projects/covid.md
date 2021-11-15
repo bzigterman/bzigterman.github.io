@@ -364,8 +364,8 @@ html {
 <td class="gt_row gt_right">+118&percnt;</td></tr>
     <tr><td class="gt_row gt_left gt_striped">Hospitalized</td>
 <td class="gt_row gt_right gt_striped">25</td>
-<td class="gt_row gt_right gt_striped">30</td>
-<td class="gt_row gt_right gt_striped">+19&percnt;</td></tr>
+<td class="gt_row gt_right gt_striped">26</td>
+<td class="gt_row gt_right gt_striped">+3&percnt;</td></tr>
     <tr><td class="gt_row gt_left">Monthly Deaths</td>
 <td class="gt_row gt_right">11</td>
 <td class="gt_row gt_right">8</td>
