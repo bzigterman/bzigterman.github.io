@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:02 AM CT, Nov. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59290412?at_medium=RSS&at_campaign=KARANGA">Danny Fenster: US journalist freed from Myanmar jail</a> BBC: Danny Fenster will be allowed to leave the country just days after getting an 11-year sentence. 
  <p class="updated_time"> 05:47 AM CT, Nov. 15 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59263761?at_medium=RSS&at_campaign=KARANGA">COP26: How might decisions at the climate summit change our lives?</a> BBC: The changes made at COP26 in Glasgow could have implications for the way we live. 
  <p class="updated_time"> 05:40 AM CT, Nov. 15 </p> 
@@ -17,8 +19,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/15/world/asia/myanmar-fenster-release.html">U.S. Journalist Danny Fenster Is Freed From Myanmar Prison</a> NYT: The release was a rare positive development in the country, which has been torn apart by violence since a February coup. 
  <p class="updated_time"> 05:19 AM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/world/asia/duterte-philippines-election.html">Rodrigo Duterte to Run for Senate in the Philippines</a> NYT: Rodrigo Duterte entered the race days after his daughter announced her bid for vice president. He had previously said he would leave politics at the end of his term. 
- <p class="updated_time"> 05:04 AM CT, Nov. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59290412?at_medium=RSS&at_campaign=KARANGA">Danny Fenster: US journalist freed from Myanmar jail</a> BBC: Danny Fenster will be allowed to leave the country just days after getting an 11-year sentence. 
+ <p class="updated_time"> 05:13 AM CT, Nov. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-latin-america-59289966?at_medium=RSS&at_campaign=KARANGA">Cuba cracks down on dissent ahead of protest march</a> BBC: Cuban state security agents are blocking the organiser of a protest march from leaving his home. 
  <p class="updated_time"> 04:28 AM CT, Nov. 15 </p> 
  <a href="https://www.npr.org/2021/11/15/1055753386/u-s-journalist-is-freed-from-myanmar-prison-with-ex-diplomat-richardsons-help">U.S. journalist is freed from Myanmar prison with ex-diplomat Richardson's help</a> NPR: Former U.S. Ambassador to the U.N. Bill Richardson said in a statement that Danny Fenster had been handed over to him in Myanmar and would return to the U.S. via Qatar over the next day and a half. 
  <p class="updated_time"> 04:15 AM CT, Nov. 15 </p> 
@@ -37,7 +39,7 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59283128?at_medium=RSS&at_campaign=KARANGA">Covid: Austria introduces lockdown for unvaccinated</a> BBC: Some two million people are told to stay at home amid growing pressure on hospitals as cases surge. 
  <p class="updated_time"> 01:34 AM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/14/world/asia/rohingya-refugees-bangladesh.html">They Warned Their Names Were on a Hit List. They Were Killed.</a> NYT: In less than a month, assassins have killed at least eight people in the Rohingya refugee camps of Bangladesh, silencing those who have dared to speak out against the violent gangs. 
- <p class="updated_time"> 12:35 AM CT, Nov. 15 </p> 
+ <p class="updated_time"> 12:59 AM CT, Nov. 15 </p> 
  <a href="https://www.wsj.com/articles/u-s-journalist-danny-fenster-released-by-myanmar-11636976141">U.S. Journalist Danny Fenster Released by Myanmar</a> WSJ: The 37-year-old journalist, who is expected home in the U.S. soon, was freed following a trip to Myanmar by Bill Richardson, a former U.S. diplomat who has been involved in the release of hostages before. 
  <p class="updated_time"> 11:35 PM CT, Nov. 14 </p> 
  <a href="https://www.wsj.com/articles/china-bought-italian-military-drone-maker-without-authorities-knowledge-11636972513">China Bought Italian Military-Drone Maker Without Authorities' Knowledge</a> WSJ: Italian and European authorities weren’t aware that a Chinese state-controlled company bought an Italian military-drone manufacturer and transferred its know-how and technology, revealing how Beijing is skirting weak investment-screening in Europe to acquire sensitive technology. 
@@ -83,8 +85,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/14/1055680400/3-dead-hundreds-injured-after-storms-rouse-scorpions-in-egypt">3 dead, hundreds injured after storms rouse scorpions in Egypt</a> NPR: The city of Aswan has been dealing with an influx of scorpions and snakes, thanks to a recent rash of heavy storms disturbing their hiding places. 
  <p class="updated_time"> 01:12 PM CT, Nov. 14 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59283134?at_medium=RSS&at_campaign=KARANGA">Macron switches to using navy blue on France's flag - reports</a> BBC: The French president wants to reconnect with a symbol of the French Revolution, reports say. 
- <p class="updated_time"> 12:47 PM CT, Nov. 14 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59280707?at_medium=RSS&at_campaign=KARANGA">Japan's former princess Mako arrives in New York after giving up title</a> BBC: Mako was forced to give up her titles when she married her "commoner" husband last month. 
  <p class="updated_time"> 12:37 PM CT, Nov. 14 </p> 
  <a href="https://www.nytimes.com/2021/11/14/world/asia/afghanistan-isis-shiites.html">The String of ISIS Attacks That Killed Three Generations of One Afghan Family</a> NYT: Over two weeks, the Rajabis suffered loss after loss as suicide attacks on Shiite mosques in two parts of the country ravaged their family. 
  <p class="updated_time"> 12:24 PM CT, Nov. 14 </p> 
@@ -210,6 +210,10 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:16 AM CT, Nov. 15 </p> 
+ <a href="https://www.npr.org/2021/11/15/1055767730/climate-talks-have-wrapped-up-granholm-weighs-in-on-the-highlights">Climate talks have wrapped up. Granholm weighs in on the highlights</a> NPR: NPR's Noel King talks to Energy Secretary Jennifer Granholm about the compromise deal reached at the U.N. climate summit that gave a last-minute reprieve to coal-burning economies. 
+ <p class="updated_time"> 06:15 AM CT, Nov. 15 </p> 
+ <a href="https://www.npr.org/2021/11/15/1055749029/biden-prepares-for-mondays-high-stakes-virtual-summit-with-xi-jinping">Biden prepares for Monday's high-stakes virtual summit with Xi Jinping</a> NPR: When President Biden and China's president talk, the White House wants to discuss U.S. concern over human rights, trade and Taiwan — plus how they can cooperate including on climate. 
  <p class="updated_time"> 06:13 AM CT, Nov. 15 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/15/washingtons-mystery-mansion-buyer-unmasked-495098">POLITICO Playbook: Washington’s mystery mansion buyer unmasked</a> Politico: And Democrats plan their midterm messaging. 
  <p class="updated_time"> 05:17 AM CT, Nov. 15 </p> 
@@ -331,7 +335,7 @@ permalink: /projects/news/
  <p class="updated_time"> 12:40 PM CT, Nov. 13 </p> 
  <a href="https://www.npr.org/2021/11/13/1055524205/more-republican-leaders-try-to-ban-books-on-race-lgbtq-issues">More Republican leaders try to ban books on race, LGBTQ issues</a> NPR: In the latest instance, South Carolina Gov. Henry McMaster calls on the state's department of education to look into banning a book about queer identity, saying the content is sexually explicit. 
  <p class="updated_time"> 11:00 AM CT, Nov. 13 </p> 
- <a href="https://www.cnn.com/2021/11/13/politics/midterms-democrats-biden-analysis/index.html">History says Biden and Democrats probably won't recover by the midterms</a> CNN: President Joe Biden's approval rating is at its lowest point since he took office. His approval rating has slid into the low 40s this month. And while the President has plenty of time to recover before his potential reelection in 2024, history suggests that his chances of becoming popular and Democrats gaining ground by the midterms in 2022 are small. 
+ <a href="https://www.cnn.com/2021/11/13/politics/midterms-democrats-biden-analysis/index.html">Analysis: History says Biden and Democrats probably won't recover by the midterms</a> CNN: President Joe Biden's approval rating is at its lowest point since he took office. His approval rating has slid into the low 40s this month. And while the President has plenty of time to recover before his potential reelection in 2024, history suggests that his chances of becoming popular and Democrats gaining ground by the midterms in 2022 are small. 
  <p class="updated_time"> 10:28 AM CT, Nov. 13 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/13/bannon-indicted-britney-freed-495092">POLITICO Playbook: Bannon indicted, Britney freed</a> Politico: And an appeals court extends a stay for the Biden administration's vaccine-or-test mandate. 
  <p class="updated_time"> 09:39 AM CT, Nov. 13 </p> 
@@ -344,10 +348,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/13/1055503570/week-in-politics-biden-balances-tackling-inflation-and-working-on-his-spending-b">Week in politics: Biden balances tackling inflation and working on his spending bill</a> NPR: Will rising prices and an uncertain economic outlook change the prospects for President Biden's signature spending bill? Also updates on a House committee's probe into the attempted insurrection. 
  <p class="updated_time"> 06:00 AM CT, Nov. 13 </p> 
  <a href="https://www.npr.org/2021/11/13/1054711913/progressives-wealth-tax-super-rich-elon-musk-jeff-bezos">Progressives want a wealth tax for the super rich. Here's why it's hard to pull off</a> NPR: Progressives are pushing for a wealth tax targeted at the ultra rich like Jeff Bezos and Elon Musk. However, as it turns out, taxing the richest people in the world is easier said than done. 
- <p class="updated_time"> 06:00 AM CT, Nov. 13 </p> 
- <a href="https://www.npr.org/2021/11/13/1055407519/republicans-and-democrats-contemplate-a-future-without-donald-trump">Republicans and Democrats contemplate a future without Donald Trump</a> NPR: Both parties in Virginia and New Jersey were left to contemplate how Republicans ran well without Trump on the ballot or in office, while Democrats found it hard to hold recent gains in the suburbs. 
- <p class="updated_time"> 06:00 AM CT, Nov. 13 </p> 
- <a href="https://www.npr.org/2021/11/13/1055315389/inflation-president-biden-groceries-gas-food-energy-prices">Inflation is surging and people are hopping mad</a> NPR: Inflation is the highest it's been in more than 30 years, imposing a financial burden on households and putting President Biden under pressure. 
  <p class="updated_time"> 11:06 PM CT, Nov. 12 </p> 
  <a href="https://www.politico.com/news/2021/11/12/federal-court-biden-vaccine-or-test-mandate-521233">Federal court extends stay of Biden administration's vaccine-or-test mandate</a> Politico: The Biden administration is likely to appeal the panel's decision to the full court. 
  <p class="updated_time"> 09:50 PM CT, Nov. 12 </p> 
@@ -436,8 +436,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/09/senate-dems-year-end-train-wreck-520275">The Senate’s year-end to-do list is ‘going to be a train wreck’</a> Politico: Ho, ho, oh no. Long nights, weekend work and threatened holidays are a Capitol tradition, and this year is likely no exception. 
  <p class="updated_time"> 07:20 AM CT, Nov. 08 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/11/08/recess-reverie-plus-huddle-restaurant-week-kicks-off-495014">Recess reverie (plus Huddle Restaurant Week kicks off)</a> Politico: A play-by-play preview of the day&#39;s congressional news 
- <p class="updated_time"> 06:05 AM CT, Nov. 08 </p> 
- <a href="https://www.politico.com/newsletters/playbook/2021/11/08/big-obstacles-await-biden-after-big-win-495012">POLITICO Playbook: Big obstacles await Biden after big win</a> Politico: And midterm elections are a year from today. 
 
 
 </details>
