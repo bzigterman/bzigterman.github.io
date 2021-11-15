@@ -7,12 +7,20 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:43 AM CT, Nov. 15 </p> 
- <a href="https://www.nytimes.com/2021/11/15/world/europe/belarus-poland-eu-sanctions-migrants.html">A Young Syrian Is Buried, as E.U. Foreign Ministers Meet on Belarus</a> NYT: A confrontation at the Polish-Belarusian border, a funeral for a dead Syrian boy trapped in between and a new round of E.U. sanctions mark the struggle with Aleksandr G. Lukashenko. 
+ <p class="updated_time"> 12:13 PM CT, Nov. 15 </p> 
+ <a href="https://www.nytimes.com/2021/11/15/world/europe/belarus-poland-eu-sanctions-migrants.html">Europe Adopts New Sanctions Against Belarus</a> NYT: A confrontation at the Polish-Belarusian border, a funeral for a dead Syrian boy trapped in between and a new round of E.U. sanctions mark the struggle with Aleksandr G. Lukashenko. 
+ <p class="updated_time"> 12:07 PM CT, Nov. 15 </p> 
+ <a href="https://www.nytimes.com/2021/11/12/world/asia/migration-eu-poland-belarus.html">In Border Crisis, Europe’s Unsavory Migration Deals Come Home</a> NYT: Europe has long paid other nations to keep refugees away from its borders. Now, Belarus wants something, too, and has brought migrants right to Europe’s door to get it. 
+ <p class="updated_time"> 12:03 PM CT, Nov. 15 </p> 
+ <a href="https://www.nytimes.com/2021/11/12/world/europe/threats-troop-buildup-war.html">Fears of Belarus-Poland Conflict Amid Provocative Words and Troop Moves</a> NYT: On both sides of the Belarus-Poland border, hyperbole and military exercises have raised fears of an armed conflict in Europe. 
+ <p class="updated_time"> 12:02 PM CT, Nov. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59289998?at_medium=RSS&at_campaign=KARANGA">Poland border crisis: EU to widen Belarus sanctions as row intensifies</a> BBC: The crisis intensifies as hundreds more migrants arrive at the border with Poland. 
+ <p class="updated_time"> 11:53 AM CT, Nov. 15 </p> 
+ <a href="https://www.nytimes.com/2021/11/15/travel/bulgaria-narrow-gauge-railway.html">Inside the Struggle to Save Bulgaria’s Last Narrow-Gauge Railroad</a> NYT: The Rhodope Narrow-Gauge Railway serves remote communities in southwestern Bulgaria. Can longtime riders — and young enthusiasts — keep it running? 
  <p class="updated_time"> 11:42 AM CT, Nov. 15 </p> 
- <a href="https://www.nytimes.com/2021/11/15/world/europe/europe-austria-covid-lockdown-unvaccinated-restrictions.html">Europe Toughens Rules for Unvaccinated as Fourth Covid Wave Swells</a> NYT: Austria took the hardest line yet on Monday, beginning a lockdown aimed exclusively at those who are not inoculated, part of a pattern to make life harder for resisters. 
+ <a href="https://www.nytimes.com/2021/11/15/world/europe/europe-vaccine.html">Europe Toughens Rules for Unvaccinated as Fourth Covid Wave Swells</a> NYT: Austria took the hardest line yet on Monday, beginning a lockdown aimed exclusively at those who are not inoculated, part of a pattern to make life harder for resisters. 
  <p class="updated_time"> 11:34 AM CT, Nov. 15 </p> 
- <a href="https://www.npr.org/2021/11/15/1055849927/india-air-pollution-new-delhi-city-wide-lockdown">New Delhi's air pollution is so bad, officials are calling for a city-wide lockdown</a> NPR: New Delhi's schools are already closed this week because of air pollution that has been about four times the safe limit. 
+ <a href="https://www.npr.org/2021/11/15/1055849927/india-air-pollution-new-delhi-city-wide-lockdown">New Delhi's air pollution is so bad, officials are calling for a citywide lockdown</a> NPR: New Delhi's schools are already closed this week because of air pollution that has been about four times the safe limit. 
  <p class="updated_time"> 11:19 AM CT, Nov. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59289999?at_medium=RSS&at_campaign=KARANGA">Belarus crisis: The locals helping families in Poland's no-go area</a> BBC: As the Belarus crisis deepens, volunteers have been offering aid in Poland's forbidden forests. 
  <p class="updated_time"> 11:19 AM CT, Nov. 15 </p> 
@@ -47,8 +55,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/13/world/canada/newfoundland-migrants.html">Urbanites in Canada Flock to Atlantic Region Amid Remote Work Shift</a> NYT: As housing prices soar in big cities, the country’s eastern provinces are experiencing a surge in migration. Newcomers are being welcomed, but some locals are wary. 
  <p class="updated_time"> 09:32 AM CT, Nov. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59289345?at_medium=RSS&at_campaign=KARANGA">Israel urges Turkey to free couple held for spying over palace photos</a> BBC: Natalie and Mordi Oknin were arrested after taking photos of the president's residence in Istanbul. 
- <p class="updated_time"> 09:29 AM CT, Nov. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59289998?at_medium=RSS&at_campaign=KARANGA">Poland border crisis: EU to widen Belarus sanctions as row intensifies</a> BBC: The crisis intensifies as hundreds more migrants arrive at the border with Poland. 
  <p class="updated_time"> 08:58 AM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/14/world/europe/austria-unvaccinated-lockdown.html">Austria to Target the Unvaccinated in New Lockdown</a> NYT: The country, facing the biggest surge in virus cases since the pandemic started, is putting strict curbs on the movement of those without shots. 
  <p class="updated_time"> 08:24 AM CT, Nov. 15 </p> 
@@ -81,8 +87,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/15/1049523021/mamata-banerjee-modi-india-politics">Meet the feisty, 5-foot-tall thorn in the side of India's prime minister</a> NPR: Mamata Banerjee, chief minister of West Bengal state, is one of Narendra Modi's fiercest critics. She's especially beloved by women and the impoverished. But gaining national traction may be tough. 
  <p class="updated_time"> 04:00 AM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/world/asia/adult-diapers-japan.html">A New Source of Fuel in an Aging Japan: Adult Incontinence</a> NYT: Waste from adult diapers is growing by tens of thousands of tons a year in Japan. One town may have a solution: recycle it into fuel pellets. 
- <p class="updated_time"> 04:00 AM CT, Nov. 15 </p> 
- <a href="https://www.nytimes.com/2021/11/15/travel/bulgaria-narrow-gauge-railway.html">Inside the Struggle to Save Bulgaria’s Last Narrow-Gauge Railroad</a> NYT: The Rhodope Narrow-Gauge Railway serves remote communities in southwestern Bulgaria. Can longtime riders — and young enthusiasts — keep it running? 
  <p class="updated_time"> 03:59 AM CT, Nov. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59288177?at_medium=RSS&at_campaign=KARANGA">Australian women sue over Qatar airport strip-searches</a> BBC: They are seeking damages after being forced into examinations at Doha airport last year. 
  <p class="updated_time"> 03:42 AM CT, Nov. 15 </p> 
@@ -179,8 +183,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/13/world/middleeast/belarus-migrants-iraq-kurds.html">Migrants Say Belarusians Took Them to E.U. Border and Supplied Wire Cutters</a> NYT: Iraqi Kurds and other migrants said they were fleeing despair at home, but Belarus encouraged them, offering visas and helping them get to the border. 
  <p class="updated_time"> 10:08 AM CT, Nov. 13 </p> 
  <a href="https://www.nytimes.com/2021/11/13/world/europe/meghan-markle-uk-tabloids.html">Meghan's Image, Battered in Britain's Tabloids, Thrives in U.S.</a> NYT: She has re-emerged in America as a formidable A-list celebrity and social activist. In Britain, however, Meghan remains a polarizing figure. 
- <p class="updated_time"> 09:50 AM CT, Nov. 13 </p> 
- <a href="https://www.nytimes.com/2021/11/12/world/europe/threats-troop-buildup-war.html">Fears of Belarus-Poland Conflict Amid Provocative Words and Troop Moves</a> NYT: On both sides of the Belarus-Poland border, hyperbole and military exercises have raised fears of an armed conflict in Europe. 
  <p class="updated_time"> 09:42 AM CT, Nov. 13 </p> 
  <a href="https://www.nytimes.com/2021/11/13/world/europe/portugal-remote-work-law-pandemic.html">Portugal Bars Employers From Contacting Remote Workers Off Hours</a> NYT: A new law, passed on Friday and in effect this weekend, is one of the world’s boldest efforts to regulate the remote work that the pandemic forced on many in the industrialized world. 
  <p class="updated_time"> 08:56 AM CT, Nov. 13 </p> 
@@ -205,8 +207,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/12/world/middleeast/israel-ethiopia-jews-immigration.html">Ethiopian Civil War Sparks Rancorous Debate Over Immigration to Israel</a> NYT: Thousands of relatives of the remnants of Ethiopian Jewry are waiting to be airlifted to Israel. For now, the Israeli government sees no urgency. 
  <p class="updated_time"> 11:00 AM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/arts/design/new-york-international-tourists.html">‘Be Nice to Tourists’: New York’s Arts Scene Needs International Visitors</a> NYT: The United States now allows vaccinated international travelers into the country. It’s welcome news for arts institutions that lost revenue and cut jobs during the pandemic. 
- <p class="updated_time"> 10:59 AM CT, Nov. 12 </p> 
- <a href="https://www.nytimes.com/2021/11/12/world/asia/migration-eu-poland-belarus.html">In Border Crisis, Europe’s Unsavory Migration Deals Come Home</a> NYT: Europe has long paid other nations to keep refugees away from its borders. Now, Belarus wants something, too, and has brought migrants right to Europe’s door to get it. 
  <p class="updated_time"> 10:01 AM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/world/europe/julian-assange-stella-moris-marriage.html">Julian Assange Will Marry Stella Moris in London Prison</a> NYT: The WikiLeaks founder, who is battling extradition to the United States on espionage charges, has been granted permission to marry Stella Moris in the London prison where he has been held since 2019. 
  <p class="updated_time"> 06:58 AM CT, Nov. 12 </p> 
@@ -220,8 +220,14 @@ permalink: /projects/news/
 
  <p class="updated_time"> 12:29 PM CT, Nov. 15 </p> 
  <a href="https://www.politico.com/news/2021/11/15/us-space-debris-russia-satellites-522406">U.S. warns of space debris after reports that Russia destroyed one of its satellites</a> Politico: A defense official confirmed to POLITICO the debris was the result of an anti-satellite test conducted by Russia over the weekend. 
+ <p class="updated_time"> 11:59 AM CT, Nov. 15 </p> 
+ <a href="https://www.nytimes.com/2021/11/15/us/politics/alex-jones-sandy-hook.html">Alex Jones Liable in Sandy Hook Defamation Suits</a> NYT: A Connecticut judge’s ruling combines with decisions in Texas to grant a clean sweep for families of shooting victims in their cases against the Infowars host. 
+ <p class="updated_time"> 11:58 AM CT, Nov. 15 </p> 
+ <a href="https://www.cnn.com/2021/11/15/politics/biden-missing-native-americans-order/index.html">Biden to sign order to address 'epidemic' of missing, murdered Native Americans at White House summit </a> CNN: President Joe Biden is expected to sign an executive order Monday directing federal agencies, including the departments of Justice, Interior and Homeland Security, to create a strategy addressing what the administration calls an "epidemic" of missing or murdered Indigenous people. 
  <p class="updated_time"> 11:55 AM CT, Nov. 15 </p> 
  <a href="https://www.politico.com/news/2021/11/15/weapons-charge-dismissed-rittenhouse-trial-522411">Judge dismisses weapons charge at Rittenhouse murder trial</a> Politico: Rittenhouse, 18, killed two men and wounded a third in the summer of 2020 during a turbulent protest against racial injustice. 
+ <p class="updated_time"> 11:52 AM CT, Nov. 15 </p> 
+ <a href="https://www.nytimes.com/2021/11/14/us/ghost-guns-homemade-firearms.html">‘Ghost Guns’: Firearm Kits Bought Online Fuel Epidemic of Violence</a> NYT: They are untraceable, assembled from parts and can be ordered by gang members, felons and even children. They are increasingly the lethal weapon of easy access around the U.S., but especially California. 
  <p class="updated_time"> 11:46 AM CT, Nov. 15 </p> 
  <a href="https://www.cnn.com/2021/11/15/politics/michael-flynn-one-religion/index.html">Ex-Trump adviser Michael Flynn's call for 'one religion' in the US garners swift condemnation</a> CNN: Former Trump national security adviser Michael Flynn's call for "one religion" in the US to win the battle of good versus evil has garnered sharp backlash from a range of critics. 
  <p class="updated_time"> 11:44 AM CT, Nov. 15 </p> 
@@ -236,8 +242,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/15/1053422827/in-betrayal-abcs-jonathan-karl-asks-must-the-trump-show-go-on">In 'Betrayal,' ABC's Jonathan Karl asks: 'Must the Trump show go on?'</a> NPR: Karl notes often that Trump continues his campaign to invalidate the 2020 election — even now. The "Trump show" remains very much on stage, finding an audience and threatening to extend its run. 
  <p class="updated_time"> 10:56 AM CT, Nov. 15 </p> 
  <a href="https://www.npr.org/2021/11/15/1055835208/trumps-controversial-hotel-in-d-c-will-reportedly-be-sold-and-renamed">Trump's controversial hotel in D.C. will reportedly be sold and renamed</a> NPR: The deal is said to be worth $375 million. Trump's company has suffered a net loss of $70 million in operating the hotel, the House Oversight Committee said last month. 
- <p class="updated_time"> 10:46 AM CT, Nov. 15 </p> 
- <a href="https://www.nytimes.com/2021/11/15/us/politics/alex-jones-sandy-hook.html">Alex Jones Guilty in Sandy Hook Defamation Suits</a> NYT: A Connecticut judge’s ruling combines with decisions in Texas to grant a clean sweep for families of shooting victims in their cases against the Infowars host. 
  <p class="updated_time"> 10:39 AM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/14/us/politics/religious-groups-child-care.html">Biden’s Child Care Plan Faces Resistance From Religious Groups</a> NYT: A nondiscrimination provision in the $1.85 trillion social policy bill could disqualify some religious organizations, spurring a fight over who can benefit from President Biden’s landmark bill. 
  <p class="updated_time"> 10:34 AM CT, Nov. 15 </p> 
@@ -284,8 +288,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/huddle/2021/11/15/congress-starts-cooking-end-of-year-agenda-495100">Congress starts cooking end-of-year agenda</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 07:18 AM CT, Nov. 15 </p> 
  <a href="https://www.cnn.com/2021/11/15/politics/chris-christie-donald-trump-january-6-cnntv/index.html">Chris Christie blames Trump's rhetoric about stolen election for January 6 insurrection </a> CNN: Former New Jersey Gov. Chris Christie said he believes the insurrection at the US Capitol on January 6 was the result of former President Donald Trump's lie that the 2020 presidential election was stolen. 
- <p class="updated_time"> 06:34 AM CT, Nov. 15 </p> 
- <a href="https://www.cnn.com/2021/11/15/politics/biden-missing-native-americans-order/index.html">Biden to sign order to address 'epidemic' of missing, murdered Native Americans at White House summit </a> CNN: President Joe Biden is expected to sign an executive order Monday directing federal agencies, including the departments of Justice, Interior and Homeland Security, to create a strategy addressing what the administration calls an "epidemic" of missing or murdered Indigenous people. 
  <p class="updated_time"> 06:16 AM CT, Nov. 15 </p> 
  <a href="https://www.npr.org/2021/11/15/1055767730/climate-talks-have-wrapped-up-granholm-weighs-in-on-the-highlights">Climate talks have wrapped up. Granholm weighs in on the highlights</a> NPR: NPR's Noel King talks to Energy Secretary Jennifer Granholm about the compromise deal reached at the U.N. climate summit that gave a last-minute reprieve to coal-burning economies. 
  <p class="updated_time"> 06:15 AM CT, Nov. 15 </p> 
@@ -332,8 +334,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/14/1055696923/in-drought-plagued-new-mexico-farmer-places-high-hopes-in-infrastructure-bill">In drought-plagued New Mexico, farmer places high hopes in infrastructure bill</a> NPR: NPR's Michel Martin speaks with Greg Daviet, a pecan farmer in Las Cruces, N.M., about how the infrastructure plan passed by Congress may affect his business. 
  <p class="updated_time"> 03:05 PM CT, Nov. 14 </p> 
  <a href="https://www.nytimes.com/2021/11/14/business/economy/farm-exports-supply-chain-ports.html">Supply Chain Disruptions May Mean Crisis for U.S. Farms</a> NYT: Backlogs and cancellations are hitting growers as costs rise, profits slump and overseas customers shop elsewhere. 
- <p class="updated_time"> 02:15 PM CT, Nov. 14 </p> 
- <a href="https://www.nytimes.com/2021/11/14/us/ghost-guns-homemade-firearms.html">‘Ghost Guns’: Firearm Kits Bought Online Fuel Epidemic of Violence</a> NYT: They are untraceable, assembled from parts and can be ordered by gang members, felons and even children. They are increasingly the lethal weapon of easy access around the U.S., but especially California. 
  <p class="updated_time"> 01:24 PM CT, Nov. 14 </p> 
  <a href="https://www.politico.com/news/2021/11/14/catholic-bishops-biden-abortion-522105">U.S. Catholic bishops may dodge rebuke of Biden over abortion</a> Politico: While some bishops have said they would deny Communion to the president, there is no national policy on the matter. 
  <p class="updated_time"> 12:46 PM CT, Nov. 14 </p> 
