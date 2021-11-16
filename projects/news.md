@@ -7,6 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:27 PM CT, Nov. 16 </p> 
+ <a href="https://www.nytimes.com/2021/11/16/world/europe/russia-antisatellite-missile-test.html">Russia Acknowledges Antisatellite Missile Test</a> NYT: The test forced astronauts on the International Space Station to briefly take shelter in re-entry capsules. 
+ <p class="updated_time"> 01:25 PM CT, Nov. 16 </p> 
+ <a href="https://www.nytimes.com/2021/11/16/business/jamie-dimon-hong-kong-quarantine.html">Hong Kong Exempts Jamie Dimon, JPMorgan's C.E.O., From Quarantine</a> NYT: The exemption for Jamie Dimon, who was in town to meet with employees and regulators, was “justified to facilitate a short visit” of about 30 hours, a government spokesman said. 
+ <p class="updated_time"> 01:25 PM CT, Nov. 16 </p> 
+ <a href="https://www.nytimes.com/2021/11/15/world/canada/british-columbia-landslides-rain.html">Hundreds Rescued After Mudslides and Floods Pummel British Columbia</a> NYT: Helicopter search crews rescued people who had been trapped in their cars along highways. Heavy rainfall extended into nearby Washington State. 
+ <p class="updated_time"> 01:24 PM CT, Nov. 16 </p> 
+ <a href="https://www.nytimes.com/2021/11/16/world/europe/italy-mob-drug-arrests.html">Italian Police Break Up Drug Smuggling Ring Tied to Calabria Mob</a> NYT: Over 100 people were arrested in Italy as members of a mafia ring that smuggled drugs from Latin America and infiltrated businesses in southern and northern Italy. 
+ <p class="updated_time"> 01:23 PM CT, Nov. 16 </p> 
+ <a href="https://www.nytimes.com/2021/11/16/world/americas/evacuations-mudslides-british-columbia.html">Evacuations Continue After Mudslides in British Columbia</a> NYT: Heavy rainfall and overflowing rivers have inundated cities in the Canadian province. The mayor of Abbotsford warned of an “uncertain and scary time” as residents took shelter in a convention center. 
  <p class="updated_time"> 01:19 PM CT, Nov. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59308602?at_medium=RSS&at_campaign=KARANGA">Armenian troops killed in Azerbaijan border clash</a> BBC: Armenia and Azerbaijan have agreed to a Russian-backed ceasefire, reports say. 
  <p class="updated_time"> 01:00 PM CT, Nov. 16 </p> 
@@ -34,7 +44,7 @@ permalink: /projects/news/
  <p class="updated_time"> 10:56 AM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/us/politics/zalmay-khalilzad-afghanistan-war.html">Zalmay Khalilzad Battles Critics in U.S. and Afghanistan</a> NYT: Zalmay Khalilzad, who stepped down as the envoy for Afghanistan after the U.S. exit, has defended the deal he negotiated with the Taliban during the Trump administration. 
  <p class="updated_time"> 10:51 AM CT, Nov. 16 </p> 
- <a href="https://www.npr.org/2021/11/16/1056142912/pfizer-generic-paxlovid-deal-countries">Pfizer agrees to license generic versions of its COVID-19 pill — in some countries</a> NPR: The agreement covers 95 nations, but it omits hard-hit countries such as Russia, Turkey, Brazil, and Mexico. 
+ <a href="https://www.npr.org/2021/11/16/1056142912/pfizer-generic-paxlovid-deal-countries">Pfizer agrees to license generic versions of its COVID-19 pill — in some countries</a> NPR: The agreement covers 95 nations, but it omits hard-hit countries such as Russia, Turkey, Brazil, and Mexico. Pfizer said it is seeking authorization for emergency use of the medication in the U.S. 
  <p class="updated_time"> 10:49 AM CT, Nov. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59305476?at_medium=RSS&at_campaign=KARANGA">Mexico's most wanted: Wife of cartel boss 'El Mencho' held</a> BBC: Rosalinda González is suspected of running the finances of her husband's Jalisco New Generation Cartel. 
  <p class="updated_time"> 10:40 AM CT, Nov. 16 </p> 
@@ -51,8 +61,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/15/world/asia/us-china-tensions-explained.html">U.S.-China Relations: What to Know</a> NYT: The Biden administration has called managing America’s relationship with Beijing “the biggest geopolitical test of the 21st century.” 
  <p class="updated_time"> 10:01 AM CT, Nov. 16 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59169899?at_medium=RSS&at_campaign=KARANGA">Russian anti-satellite missile test poses no threat - Moscow</a> BBC: The US earlier said Russia "recklessly" destroyed a satellite, endangering astronauts in space. 
- <p class="updated_time"> 09:28 AM CT, Nov. 16 </p> 
- <a href="https://www.nytimes.com/2021/11/15/world/canada/british-columbia-landslides-rain.html">Hundreds Rescued After Mudslides and Floods Pummel British Columbia</a> NYT: Helicopter search crews rescued people who had been trapped in their cars along highways. Heavy rainfall extended into nearby Washington State. 
  <p class="updated_time"> 09:22 AM CT, Nov. 16 </p> 
  <a href="https://www.npr.org/2021/11/16/1051170999/as-u-s-spies-look-to-the-future-one-target-stands-out-china">As U.S. spies look to the future, one target stands out: China </a> NPR: When current and former U.S. intelligence officials gathered at a conference in Sea Island, Ga., there was a clear message — a pivot to China is already underway. 
  <p class="updated_time"> 09:03 AM CT, Nov. 16 </p> 
@@ -69,8 +77,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/16/world/africa/uganda-kampala-explosions.html">2 Explosions Hit Ugandan Capital, Killing 3</a> NYT: Witnesses said there was a blast near a police station and another near Parliament, and the police said three suicide bombers also died. 
  <p class="updated_time"> 07:33 AM CT, Nov. 16 </p> 
  <a href="https://www.wsj.com/articles/ugandan-capital-kampala-hit-by-twin-explosions-11637054105">Islamic State Ally Blamed for Deadly Bombings in Ugandan Capital</a> WSJ: Two powerful explosions ripped through the center of Uganda’s capital in what police said was a terrorist attack carried out by a local ally of Islamic State. 
- <p class="updated_time"> 07:26 AM CT, Nov. 16 </p> 
- <a href="https://www.nytimes.com/2021/11/16/business/jamie-dimon-hong-kong-quarantine.html">Hong Kong Exempts Jamie Dimon, JPMorgan's C.E.O., From Quarantine</a> NYT: The exemption for Jamie Dimon, who was in town to meet with employees and regulators, was “justified to facilitate a short visit” of about 30 hours, a government spokesman said. 
  <p class="updated_time"> 07:06 AM CT, Nov. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59302919?at_medium=RSS&at_campaign=KARANGA">Poland border crisis: Migrants tear-gassed trying to cross from Belarus</a> BBC: Poland's defence ministry says migrants were throwing stones and trying to destroy a border fence. 
  <p class="updated_time"> 06:23 AM CT, Nov. 16 </p> 
@@ -111,8 +117,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/15/world/europe/ukraine-russia-war-putin.html">How a Dispute Over Groceries Led to Artillery Strikes in Ukraine</a> NYT: In a sign of volatile East-West relations, a dispute over shopping in the Ukrainian conflict zone spiraled into fighting that sent war jitters rippling through Europe and the U.S. 
  <p class="updated_time"> 08:51 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/world/asia/india-journalists-arrested-crackdown-tripura.html">India Reporters Are Arrested Amid Tripura Crackdown</a> NYT: Faced with sectarian violence in the country’s northeast, the government has responded by disputing reports on the clashes and punishing those who covered them. 
- <p class="updated_time"> 08:23 PM CT, Nov. 15 </p> 
- <a href="https://www.nytimes.com/2021/11/13/us/us-airstrikes-civilian-deaths.html">How the U.S. Hid an Airstrike That Killed Dozens of Civilians in Syria</a> NYT: The military never conducted an independent investigation into a 2019 bombing on the last bastion of the Islamic State, despite concerns about a secretive commando force. 
  <p class="updated_time"> 07:44 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/us/politics/pentagon-syria-airstrike.html">Pentagon Chief Orders Briefing on 2019 Syria Airstrike That Killed Dozens</a> NYT: A Times investigation found that dozens of women and children were killed in the bombing, which the military sought to conceal. 
  <p class="updated_time"> 07:34 PM CT, Nov. 15 </p> 
@@ -149,8 +153,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/15/1055936632/with-american-journalist-danny-fenster-released-whats-next-for-u-s-and-myanmar">With American journalist Danny Fenster released, what's next for U.S. and Myanmar?</a> NPR: NPR's Ailsa Chang talks with Zachary Abuza, Southeast Asia expert and National War College professor, about the White House's options following Myanmar's release of American journalist Danny Fenster. 
  <p class="updated_time"> 03:20 PM CT, Nov. 15 </p> 
  <a href="https://www.npr.org/2021/11/15/1055936604/president-biden-and-chinas-xi-set-to-have-their-1st-formal-meeting-as-leaders">President Biden and China's Xi set to have their 1st formal meeting as leaders</a> NPR: Monday night, President Biden and Chinese leader Xi Jinping will hold a virtual summit. It will be their first formal meeting since Biden became president. 
- <p class="updated_time"> 03:07 PM CT, Nov. 15 </p> 
- <a href="https://www.nytimes.com/2021/11/15/business/shell-britain-move.html">Shell Plans Shift to Britain, and Dropping 'Royal Dutch'</a> NYT: The restructuring is meant to make the company more appealing to investors and make it easier to sell assets, the oil giant said. 
  <p class="updated_time"> 02:56 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/travel/bulgaria-narrow-gauge-railway.html">Inside the Struggle to Save Bulgaria’s Last Narrow-Gauge Railroad</a> NYT: The Rhodope Narrow-Gauge Railway serves remote communities in southwestern Bulgaria. Can longtime riders — and young enthusiasts — keep it running? 
  <p class="updated_time"> 01:01 PM CT, Nov. 15 </p> 
@@ -201,8 +203,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-59278509?at_medium=RSS&at_campaign=KARANGA">COP26: 'Paris built the arena, Glasgow starts the race' - Kerry</a> BBC: US climate envoy, John Kerry, says "we raised ambition here in Glasgow, this was not business as usual". 
  <p class="updated_time"> 02:18 PM CT, Nov. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-59276651?at_medium=RSS&at_campaign=KARANGA">COP26: Alok Sharma fights back tears as Glasgow Climate Pact agreed</a> BBC: The COP26 president apologised as a late amendment on coal was added to the draft text by India. 
- <p class="updated_time"> 11:21 AM CT, Nov. 13 </p> 
- <a href="https://www.nytimes.com/2021/11/13/world/asia/india-pakistan-afghanistan-wheat.html">India Wants to Send Wheat to Ease Afghan Hunger Crisis. Pakistan Has Yet to OK Transit.</a> NYT: Indian officials say Islamabad is dragging its feet on a request of transit for 50,000 tons of wheat to Afghanistan, where nine million people are on the brink of starvation. 
  <p class="updated_time"> 08:56 AM CT, Nov. 13 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59273174?at_medium=RSS&at_campaign=KARANGA">Poland-Belarus border: The BBC reports from the camps within touching distance of the EU</a> BBC: Steve Rosenberg reports from the migrant camps within touching distance of the EU. 
 
