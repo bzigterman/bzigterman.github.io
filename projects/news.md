@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:45 PM CT, Nov. 15 </p> 
+ <p class="updated_time"> 11:51 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/live/2021/11/15/world/biden-xi-summit">Biden and Xi Hold Virtual Talks Amid U.S.-China Tensions: Live Updates</a> NYT: President Biden and China’s leader, Xi Jinping, met for about three and a half hours. U.S. officials said the talks were meant to reassure both sides that misunderstandings would not lead to unintended clashes. 
  <p class="updated_time"> 11:28 PM CT, Nov. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59300015?at_medium=RSS&at_campaign=KARANGA">Aung San Suu Kyi being treated well: Myanmar army</a> BBC: Aung San Suu Kyi has not been seen in public since a coup removed her from office in February. 
@@ -39,6 +39,8 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/15/us/politics/pentagon-syria-airstrike.html">Pentagon Chief Orders Briefing on 2019 Syria Airstrike That Killed Dozens</a> NYT: A Times investigation found that dozens of women and children were killed in the bombing, which the military sought to conceal. 
  <p class="updated_time"> 07:34 PM CT, Nov. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59295723?at_medium=RSS&at_campaign=KARANGA">Kyle Rittenhouse: Jury to decide fate of US teen gunman</a> BBC: Hundreds of troops have been placed on standby as a verdict looms in the closely watched case. 
+ <p class="updated_time"> 06:54 PM CT, Nov. 15 </p> 
+ <a href="https://www.wsj.com/articles/biden-xi-teams-set-modest-hopes-for-monday-talks-11636970400">Biden, Xi Cool Down Hostilities in Virtual Meeting</a> WSJ: The White House said the U.S. and Chinese presidents discussed a variety of topics including Afghanistan, North Korea and Iran, as well as human rights, climate change and concerns over Taiwan. 
  <p class="updated_time"> 06:50 PM CT, Nov. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59212355?at_medium=RSS&at_campaign=KARANGA">The harmonious US city run by Muslim Americans</a> BBC: Once a Polish enclave, Hamtramck, Michigan is now the first US city with an all-Muslim government. 
  <p class="updated_time"> 06:33 PM CT, Nov. 15 </p> 
@@ -85,8 +87,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/15/1055936632/with-american-journalist-danny-fenster-released-whats-next-for-u-s-and-myanmar">With American journalist Danny Fenster released, what's next for U.S. and Myanmar?</a> NPR: NPR's Ailsa Chang talks with Zachary Abuza, Southeast Asia expert and National War College professor, about the White House's options following Myanmar's release of American journalist Danny Fenster. 
  <p class="updated_time"> 03:20 PM CT, Nov. 15 </p> 
  <a href="https://www.npr.org/2021/11/15/1055936604/president-biden-and-chinas-xi-set-to-have-their-1st-formal-meeting-as-leaders">President Biden and China's Xi set to have their 1st formal meeting as leaders</a> NPR: Monday night, President Biden and Chinese leader Xi Jinping will hold a virtual summit. It will be their first formal meeting since Biden became president. 
- <p class="updated_time"> 03:15 PM CT, Nov. 15 </p> 
- <a href="https://www.wsj.com/articles/biden-xi-teams-set-modest-hopes-for-monday-talks-11636970400">Biden, Xi Open Talks on Friendly Note, With Tough Topics Ahead</a> WSJ: The president began a virtual meeting with his Chinese counterpart, as both leaders seek to work through areas of disagreement and ease hostilities between the two largest economies. 
  <p class="updated_time"> 02:56 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/travel/bulgaria-narrow-gauge-railway.html">Inside the Struggle to Save Bulgaria’s Last Narrow-Gauge Railroad</a> NYT: The Rhodope Narrow-Gauge Railway serves remote communities in southwestern Bulgaria. Can longtime riders — and young enthusiasts — keep it running? 
  <p class="updated_time"> 02:33 PM CT, Nov. 15 </p> 
