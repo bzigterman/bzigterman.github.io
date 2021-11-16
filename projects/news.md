@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:16 AM CT, Nov. 16 </p> 
+ <a href="https://www.nytimes.com/2021/11/15/world/canada/british-columbia-landslides-rain.html">Hundreds Rescued After Landslides Pummel British Columbia</a> NYT: Helicopter search crews rescued people who had been trapped in their cars along highways. Heavy rainfall extended into nearby Washington State. 
  <p class="updated_time"> 12:56 AM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/live/2021/11/15/world/biden-xi-summit">Biden and Xi Discuss Taiwan, Trade and Human Rights: Live Updates</a> NYT: President Biden and China’s leader, Xi Jinping, met for about three and a half hours. U.S. officials said the talks were meant to reassure both sides that misunderstandings would not lead to unintended clashes. 
  <p class="updated_time"> 12:37 AM CT, Nov. 16 </p> 
@@ -21,8 +23,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/15/us/politics/blinken-africa-ethiopia.html">Blinken Heads to Africa as U.S. Tries to Avert Ethiopia Disaster</a> NYT: The conflict between rebels and the country’s government has already featured numerous alleged atrocities, and experts say it threatens the stability of all of East Africa. 
  <p class="updated_time"> 11:17 PM CT, Nov. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59301142?at_medium=RSS&at_campaign=KARANGA">Divorce art auction raises $676 million in New York</a> BBC: The collection of 35 works included pieces by Andy Warhol, Jackson Pollock and Mark Rothko. 
- <p class="updated_time"> 10:53 PM CT, Nov. 15 </p> 
- <a href="https://www.nytimes.com/2021/11/15/world/canada/british-columbia-landslides-rain.html">Landslides and Torrential Rains Batter British Columbia</a> NYT: Dozens of drivers were trapped by landslides, and the city of Merritt warned of a “mass sewage backup.” The rainfall was part of a system that also pummeled Washington State. 
  <p class="updated_time"> 10:39 PM CT, Nov. 15 </p> 
  <a href="https://www.bbc.co.uk/news/business-59257322?at_medium=RSS&at_campaign=KARANGA">Google: US technology giant to invest $740m in Australia</a> BBC: The firm says it will create 6,000 jobs as it builds a research hub and expands its cloud capacity. 
  <p class="updated_time"> 09:49 PM CT, Nov. 15 </p> 
@@ -37,14 +37,14 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/15/world/asia/india-journalists-arrested-crackdown-tripura.html">India Reporters Are Arrested Amid Tripura Crackdown</a> NYT: Faced with sectarian violence in the country’s northeast, the government has responded by disputing reports on the clashes and punishing those who covered them. 
  <p class="updated_time"> 08:23 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/13/us/us-airstrikes-civilian-deaths.html">How the U.S. Hid an Airstrike That Killed Dozens of Civilians in Syria</a> NYT: The military never conducted an independent investigation into a 2019 bombing on the last bastion of the Islamic State, despite concerns about a secretive commando force. 
+ <p class="updated_time"> 08:23 PM CT, Nov. 15 </p> 
+ <a href="https://www.wsj.com/articles/biden-xi-teams-set-modest-hopes-for-monday-talks-11636970400">Biden, Xi Cool Down Hostilities in Virtual Meeting</a> WSJ: The White House said the U.S. and Chinese presidents discussed a variety of topics including Afghanistan, North Korea and Iran, as well as human rights, climate change and concerns over Taiwan. 
  <p class="updated_time"> 07:50 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/us/politics/biden-china-xi-jinping.html">Biden and Xi meet amid economic and military tensions.</a> NYT: U.S. officials said the virtual summit on Monday was intended to reassure both sides that misunderstandings would not lead to unintended clashes. 
  <p class="updated_time"> 07:44 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/us/politics/pentagon-syria-airstrike.html">Pentagon Chief Orders Briefing on 2019 Syria Airstrike That Killed Dozens</a> NYT: A Times investigation found that dozens of women and children were killed in the bombing, which the military sought to conceal. 
  <p class="updated_time"> 07:34 PM CT, Nov. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59295723?at_medium=RSS&at_campaign=KARANGA">Kyle Rittenhouse: Jury to decide fate of US teen gunman</a> BBC: Hundreds of troops have been placed on standby as a verdict looms in the closely watched case. 
- <p class="updated_time"> 07:15 PM CT, Nov. 15 </p> 
- <a href="https://www.wsj.com/articles/biden-xi-teams-set-modest-hopes-for-monday-talks-11636970400">Biden, Xi Cool Down Hostilities in Virtual Meeting</a> WSJ: The White House said the U.S. and Chinese presidents discussed a variety of topics including Afghanistan, North Korea and Iran, as well as human rights, climate change and concerns over Taiwan. 
  <p class="updated_time"> 06:50 PM CT, Nov. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59212355?at_medium=RSS&at_campaign=KARANGA">The harmonious US city run by Muslim Americans</a> BBC: Once a Polish enclave, Hamtramck, Michigan is now the first US city with an all-Muslim government. 
  <p class="updated_time"> 06:33 PM CT, Nov. 15 </p> 
