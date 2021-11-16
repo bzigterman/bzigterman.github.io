@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:48 PM CT, Nov. 16 </p> 
+ <a href="https://www.nytimes.com/2021/11/15/world/asia/myanmar-danny-fenster-release.html">U.S. Journalist Danny Fenster Is Freed From Myanmar Prison</a> NYT: The release was a rare positive development in the country, which has been torn by violence since a February coup. 
  <p class="updated_time"> 02:30 PM CT, Nov. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59302917?at_medium=RSS&at_campaign=KARANGA">Kampala blasts: Suicide bombers target Ugandan capital</a> BBC: At least three people are killed in the blasts near parliament and the city's police HQ. 
  <p class="updated_time"> 02:11 PM CT, Nov. 16 </p> 
@@ -107,8 +109,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/15/world/europe/uk-taxi-explosion-liverpool.html">Liverpool Explosion: Blast Is Declared a Terrorist Act</a> NYT: Local leaders praised the driver as a hero, saying that he may have prevented a bigger calamity. He escaped the burning vehicle and locked the doors, trapping a passenger carrying explosives inside. 
  <p class="updated_time"> 01:27 AM CT, Nov. 16 </p> 
  <a href="https://www.npr.org/2021/11/16/1055944979/biden-and-chinas-xi-strike-respectful-tone-in-video-chat-amid-tension">Biden and China's Xi strike 'respectful' tone in video chat amid tension</a> NPR: The meeting lasted more than three hours as the two sides sought to make sure their competition does not turn into conflict 
- <p class="updated_time"> 12:37 AM CT, Nov. 16 </p> 
- <a href="https://www.nytimes.com/2021/11/15/world/asia/myanmar-danny-fenster-release.html">U.S. Journalist Danny Fenster Is Freed From Myanmar Prison</a> NYT: The release was a rare positive development in the country, which has been torn by violence since a February coup. 
  <p class="updated_time"> 12:30 AM CT, Nov. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59298323?at_medium=RSS&at_campaign=KARANGA">Covid: The country locking down the unvaccinated</a> BBC: Some two million people without Covid-19 jabs have been told to stay home in Austria. 
  <p class="updated_time"> 11:30 PM CT, Nov. 15 </p> 
@@ -222,8 +222,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/16/us/politics/biden-pfizer-covid-pill-purchase.html">U.S. Plans to Buy Enough Pfizer Covid Treatment for 10 Million People</a> NYT: Pfizer on Tuesday asked the Food and Drug Administration to authorize its pill for high-risk, unvaccinated people. 
  <p class="updated_time"> 02:25 PM CT, Nov. 16 </p> 
  <a href="https://www.cnn.com/2021/11/16/politics/fenster-richardson-release-myanmar/index.html">Danny Fenster arrives in US 'with so much gratitude' after release from Myanmar prison </a> CNN: American journalist Danny Fenster arrived in the United States on Tuesday after almost six months in a Myanmar prison and expressed thanks to everyone involved in securing his release. 
- <p class="updated_time"> 02:23 PM CT, Nov. 16 </p> 
- <a href="https://www.politico.com/news/2021/11/16/trump-lawmakers-jan-6-lawsuit-522707">Trump says defeat in Jan. 6 lawsuit would let lawmakers ‘perpetually harass’ former presidents</a> Politico: The former president’s attorneys said the attack on the Capitol would become just one in a list of pretenses for probing White House documents. 
  <p class="updated_time"> 02:18 PM CT, Nov. 16 </p> 
  <a href="https://www.cnn.com/2021/11/16/politics/pfizer-covid-antiviral-pill-biden-administration-purchase/index.html">Biden administration plans to announce purchase of Pfizer's experimental Covid-19 antiviral pill</a> CNN: The Biden administration plans to purchase 10 million doses of Pfizer's experimental antiviral Covid-19 pill and is finalizing the contract now, according to a source familiar with the plans. 
  <p class="updated_time"> 02:17 PM CT, Nov. 16 </p> 
