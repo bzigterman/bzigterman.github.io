@@ -20,7 +20,7 @@ permalink: /projects/news/
  <p class="updated_time"> 03:41 PM CT, Nov. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59305476?at_medium=RSS&at_campaign=KARANGA">Mexico's most wanted: Wife of cartel boss 'El Mencho' held</a> BBC: Rosalinda González is suspected of running the finances of her husband's Jalisco New Generation Cartel. 
  <p class="updated_time"> 03:20 PM CT, Nov. 16 </p> 
- <a href="https://www.npr.org/2021/11/16/1056263641/as-migrants-travel-to-the-u-s-the-u-s-tries-to-stop-them-south-of-the-border">As migrants travel to the U.S., the U.S. tries to stop them south of the border</a> NPR: NPR's Ailsa Chang speaks with journalists Maria Hinojosa and Julieta Martinelli about their reporting in Mexico and Colombia on the policies designed to stop migrants from reaching the U-S border. 
+ <a href="https://www.npr.org/2021/11/16/1056263641/as-migrants-travel-to-the-u-s-the-u-s-tries-to-stop-them-south-of-the-border">As migrants travel to the U.S., the U.S. tries to stop them south of the border</a> NPR: NPR's Ailsa Chang speaks with journalists Maria Hinojosa and Julieta Martinelli about their reporting in Mexico and Colombia on the policies designed to stop migrants from reaching the U.S border. 
  <p class="updated_time"> 03:20 PM CT, Nov. 16 </p> 
  <a href="https://www.npr.org/2021/11/16/1056263606/afghanistan-is-on-the-brink-of-a-hunger-catastrophe-according-to-a-new-un-report">Afghanistan is on the brink of a hunger catastrophe, according to a new UN report</a> NPR: NPR's Audie Cornish talks with Richard Trenchard, the Food and Agriculture Organization of the United Nations' representative in Afghanistan, about a worsening hunger crisis there. 
  <p class="updated_time"> 03:20 PM CT, Nov. 16 </p> 
