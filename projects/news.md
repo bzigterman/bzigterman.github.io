@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:48 AM CT, Nov. 16 </p> 
+ <p class="updated_time"> 12:56 AM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/live/2021/11/15/world/biden-xi-summit">Biden and Xi Discuss Taiwan, Trade and Human Rights: Live Updates</a> NYT: President Biden and China’s leader, Xi Jinping, met for about three and a half hours. U.S. officials said the talks were meant to reassure both sides that misunderstandings would not lead to unintended clashes. 
  <p class="updated_time"> 12:37 AM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/15/world/asia/myanmar-danny-fenster-release.html">U.S. Journalist Danny Fenster Is Freed From Myanmar Prison</a> NYT: The release was a rare positive development in the country, which has been torn by violence since a February coup. 
@@ -217,7 +217,7 @@ permalink: /projects/news/
 <summary>Politics</summary>
 
  <p class="updated_time"> 12:41 AM CT, Nov. 16 </p> 
- <a href="https://www.cnn.com/2021/11/15/politics/joe-biden-xi-jinping-virtual-summit/index.html">'Healthy debate,' but no breakthroughs, in Biden's critical talks with China's Xi Jinping</a> CNN: When Chinese President Xi Jinping beams into the White House on Monday evening for a virtual summit with President Joe Biden, the two men will need no introduction. 
+ <a href="https://www.cnn.com/2021/11/15/politics/joe-biden-xi-jinping-virtual-summit/index.html">'Healthy debate,' but no breakthroughs in Biden's critical talks with China's Xi Jinping</a> CNN: When Chinese President Xi Jinping beams into the White House on Monday evening for a virtual summit with President Joe Biden, the two men will need no introduction. 
  <p class="updated_time"> 11:31 PM CT, Nov. 15 </p> 
  <a href="https://www.politico.com/news/2021/11/15/takeaways-kyle-rittenhouse-trial-closings-522681">9 takeaways from the Kyle Rittenhouse trial closings</a> Politico: Attorneys in the Wisconsin murder trial sparred for the last time Monday. 
  <p class="updated_time"> 11:21 PM CT, Nov. 15 </p> 
