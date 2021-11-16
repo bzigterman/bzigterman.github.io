@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 11:36 PM CT, Nov. 15 </p> 
+ <p class="updated_time"> 11:45 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/live/2021/11/15/world/biden-xi-summit">Biden and Xi Hold Virtual Talks Amid U.S.-China Tensions: Live Updates</a> NYT: President Biden and China’s leader, Xi Jinping, met for about three and a half hours. U.S. officials said the talks were meant to reassure both sides that misunderstandings would not lead to unintended clashes. 
  <p class="updated_time"> 11:28 PM CT, Nov. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-59300015?at_medium=RSS&at_campaign=KARANGA">Aung San Suu Kyi being treated well: Myanmar army</a> BBC: Aung San Suu Kyi has not been seen in public since a coup removed her from office in February. 
