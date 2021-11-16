@@ -7,6 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 06:03 AM CT, Nov. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/business-59306223?at_medium=RSS&at_campaign=KARANGA">Nord Stream 2: Germany halts approval of Russian gas link</a> BBC: Nord Stream 2 has been beset by delays and criticised by many of Germany's allies. 
+ <p class="updated_time"> 05:54 AM CT, Nov. 16 </p> 
+ <a href="https://www.nytimes.com/2021/11/16/world/asia/biden-xi-summit.html">U.S.-China Summit: What Did It Achieve?</a> NYT: In a chilly relationship of mutual mistrust, staving off the prospect of a broader conflict between two superpowers counts as progress. 
  <p class="updated_time"> 05:51 AM CT, Nov. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59302919?at_medium=RSS&at_campaign=KARANGA">Poland border crisis: Migrants tear-gassed trying to cross from Belarus</a> BBC: Poland's defence ministry says migrants were throwing stones and trying to destroy a border fence. 
  <p class="updated_time"> 05:41 AM CT, Nov. 16 </p> 
@@ -15,8 +19,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-59302917?at_medium=RSS&at_campaign=KARANGA">Kampala blasts: Explosions hit Ugandan capital</a> BBC: At least six people are killed in the blasts near parliament and the city's police HQ. 
  <p class="updated_time"> 05:28 AM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/live/2021/11/15/world/biden-xi-summit">Biden and Xi Pledge More Cooperation, but Offer No Breakthroughs</a> NYT: President Biden and China’s leader, Xi Jinping, met for about three and a half hours. U.S. officials said the talks were meant to reassure both sides that misunderstandings would not lead to unintended clashes. 
- <p class="updated_time"> 05:18 AM CT, Nov. 16 </p> 
- <a href="https://www.nytimes.com/2021/11/16/world/asia/biden-xi-summit.html">U.S.-China Summit: What Did It Achieve?</a> NYT: In a chilly relationship of mutual mistrust, staving off the prospect of a broader conflict between two superpowers counts as progress. 
  <p class="updated_time"> 05:14 AM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/world/asia/covid-corgi-clubbing.html">Pet Corgi Beaten on Video by Covid Team, Stirring Fury in China</a> NYT: A security camera in a quarantined resident’s apartment recorded the workers pursuing the dog, which was later culled. 
  <p class="updated_time"> 05:12 AM CT, Nov. 16 </p> 
@@ -99,8 +101,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/sport/59038194?at_medium=RSS&at_campaign=KARANGA">China's ultramarathon tragedy and the survivors threatened for speaking out</a> BBC: In May this year, 21 athletes died at an ultra-running event in northern China. Some survivors have been threatened for telling their story. 
  <p class="updated_time"> 06:00 PM CT, Nov. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-middle-east-59294328?at_medium=RSS&at_campaign=KARANGA">The women of Iran's underground metal scene</a> BBC: Women are forbidden from singing publicly in Iran except in choirs or female-only company. 
- <p class="updated_time"> 05:18 PM CT, Nov. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59300011?at_medium=RSS&at_campaign=KARANGA">Nigerian army 'shot and killed #EndSars protesters': report</a> BBC: Tens of thousands of Nigerians took to the streets last October to protest against police brutality. 
  <p class="updated_time"> 04:55 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/world/americas/cuba-protests.html">As Cuba Crushes Dissent, a Nationwide Protest Fizzles</a> NYT: In the days before the planned protest, the homes of government critics were surrounded by uniformed police officers, state security agents or government supporters holding picket signs, human rights activists said. 
  <p class="updated_time"> 04:05 PM CT, Nov. 15 </p> 
@@ -206,8 +206,16 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 07:18 AM CT, Nov. 16 </p> 
+ <a href="https://www.politico.com/newsletters/huddle/2021/11/16/dem-tension-breaks-but-to-do-list-looms-495115">Dem tension breaks, but to-do list looms</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:23 AM CT, Nov. 16 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/16/a-victory-lap-and-a-reality-check-495111">POLITICO Playbook: A victory lap and a reality check</a> Politico: And Biden holds his virtual confab with Xi. 
+ <p class="updated_time"> 06:18 AM CT, Nov. 16 </p> 
+ <a href="https://www.npr.org/2021/11/16/1056082057/in-an-attempt-to-ease-tensions-biden-and-chinas-xi-meet-virtually">In an attempt to ease tensions, Biden and China's Xi meet virtually</a> NPR: President Biden held a virtual summit with his Chinese counterpart Xi Jinping to go over some of the thorniest issues between the two countries. They gave no hint of Trump-era tariffs being dropped. 
+ <p class="updated_time"> 06:15 AM CT, Nov. 16 </p> 
+ <a href="https://www.cnn.com/2021/11/15/politics/wyoming-gop-liz-cheney/index.html">Casper Star-Tribune: Wyoming GOP votes to no longer recognize Liz Cheney as a party member</a> CNN: The Wyoming Republican Party voted over the weekend to no longer recognize Rep. Liz Cheney as a member of the party, the Casper Star-Tribune reported, a new instance of GOP blowback as Cheney continues to speak out against former President Donald Trump. 
+ <p class="updated_time"> 06:00 AM CT, Nov. 16 </p> 
+ <a href="https://www.cnn.com/2021/11/16/politics/infrastructure-bill-climate-resilience/index.html">How Biden's infrastructure funding will help the US prepare for future climate disasters</a> CNN: Around $50 billion of President Joe Biden's infrastructure package is marked for climate resilience -- replacing roads to withstand extreme rainfall, treating forests to prevent wildfires and shoring up reservoirs that sank to new lows this year amid incredible drought. 
  <p class="updated_time"> 05:54 AM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/world/asia/biden-xi-summit.html">U.S.-China Summit: What Did It Achieve?</a> NYT: In a chilly relationship of mutual mistrust, staving off the prospect of a broader conflict between two superpowers counts as progress. 
  <p class="updated_time"> 04:31 AM CT, Nov. 16 </p> 
@@ -244,8 +252,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/15/politics/russia-anti-satellite-weapon-test-scn/index.html">US says it 'won't tolerate' Russia's 'reckless and dangerous' anti-satellite missile test</a> CNN: The US is concerned that Russia carried out a major anti-satellite weapons test over the weekend, two US officials told CNN. One of the officials said it may have created a potentially dangerous debris field in space. 
  <p class="updated_time"> 10:44 PM CT, Nov. 15 </p> 
  <a href="https://www.cnn.com/2021/11/15/politics/chris-christie-weight-attacks-cnntv/index.html">Christie speaks out about relentless attacks on his weight: 'I think it's made me tougher'</a> CNN: Former New Jersey Republican Gov. Chris Christie opened up about the attacks on his weight that have hounded him throughout his political career, saying that while he used to find them hurtful, they have made him "tougher." 
- <p class="updated_time"> 10:28 PM CT, Nov. 15 </p> 
- <a href="https://www.cnn.com/2021/11/15/politics/wyoming-gop-liz-cheney/index.html">Casper Star-Tribune: Wyoming GOP votes to no longer recognize Liz Cheney as a party member</a> CNN: The Wyoming Republican Party voted over the weekend to no longer recognize Rep. Liz Cheney as a member of the party, the Casper Star-Tribune reported, a new instance of GOP blowback as Cheney continues to speak out against former President Donald Trump. 
  <p class="updated_time"> 09:57 PM CT, Nov. 15 </p> 
  <a href="https://www.cnn.com/2021/11/15/politics/chris-christie-donald-trump-january-6-cnntv/index.html">Chris Christie blames Trump's rhetoric about stolen election for January 6 insurrection </a> CNN: Former New Jersey Gov. Chris Christie said he believes the insurrection at the US Capitol on January 6 was the result of former President Donald Trump's lie that the 2020 presidential election was stolen. 
  <p class="updated_time"> 09:49 PM CT, Nov. 15 </p> 
@@ -288,8 +294,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/15/us/politics/bannon-congress-trump-jan-6.html">Steve Bannon turns himself in on contempt of Congress charges.</a> NYT: The former aide to President Donald J. Trump had refused to comply with a demand from the House committee investigating the Jan. 6 Capitol riot. 
  <p class="updated_time"> 05:44 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/us/politics/alex-jones-sandy-hook.html">Alex Jones Liable in Sandy Hook Defamation Suits</a> NYT: A Connecticut judge’s ruling against the Infowars host combines with decisions in Texas to grant a clean sweep for the families of 10 shooting victims. 
- <p class="updated_time"> 05:24 PM CT, Nov. 15 </p> 
- <a href="https://www.cnn.com/2021/11/15/politics/tom-barrett-michigan-congress-campaign/index.html">Michigan state senator announces bid for Congress</a> CNN: Michigan state Sen. Tom Barrett on Monday announced his campaign for the US House, a bid that could see him potentially challenge Democratic Rep. Elissa Slotkin. 
  <p class="updated_time"> 05:21 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/us/politics/beto-orourke-texas-governor-announcement.html">Beto O’Rourke Announces Run for Texas Governor, Testing Democrats’ Strength</a> NYT: Mr. O’Rourke’s announcement on Monday set the stage for a pitched political showdown over the future of the country’s largest Republican-led state. 
  <p class="updated_time"> 05:18 PM CT, Nov. 15 </p> 
@@ -342,8 +346,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/15/1053422827/in-betrayal-abcs-jonathan-karl-asks-must-the-trump-show-go-on">In 'Betrayal,' ABC's Jonathan Karl asks: 'Must the Trump show go on?'</a> NPR: Karl notes often that Trump continues his campaign to invalidate the 2020 election — even now. The "Trump show" remains very much on stage, finding an audience and threatening to extend its run. 
  <p class="updated_time"> 10:56 AM CT, Nov. 15 </p> 
  <a href="https://www.npr.org/2021/11/15/1055835208/trumps-controversial-hotel-in-d-c-will-reportedly-be-sold-and-renamed">Trump's controversial hotel in D.C. will reportedly be sold and renamed</a> NPR: The deal is said to be worth $375 million. Trump's company has suffered a net loss of $70 million in operating the hotel, the House Oversight Committee said last month. 
- <p class="updated_time"> 10:29 AM CT, Nov. 15 </p> 
- <a href="https://www.npr.org/2021/11/15/1055832976/steve-bannon-surrenders-contempt-of-congress-charges-jan-6">Steve Bannon threatens vengeance after surrendering on criminal contempt charges</a> NPR: Former President Donald Trump's onetime top adviser surrendered to federal authorities Monday. Bannon was indicted last week for defying a congressional subpoena related to the Jan. 6 Capitol riot. 
  <p class="updated_time"> 10:18 AM CT, Nov. 15 </p> 
  <a href="https://www.politico.com/news/2021/11/15/leahy-most-senior-senator-will-retire-522356">Leahy, most senior senator, will retire</a> Politico: The 81-year-old Vermont Democrat announced Monday that he would not run for a ninth term. 
  <p class="updated_time"> 09:53 AM CT, Nov. 15 </p> 
@@ -450,8 +452,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/09/dunn-capitol-police-union-jan-6-520459">Dunn jumps into race to lead Capitol Police union after post-Jan. 6 testimony</a> Politico: The 13-year veteran officer, who is Black, told lawmakers on the select committee about the trauma and racial slurs he endured during the riot. 
  <p class="updated_time"> 07:24 AM CT, Nov. 09 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/11/09/senate-schedule-seasonally-depressing-495031">Senate schedule: seasonally depressing</a> Politico: A play-by-play preview of the day&#39;s congressional news 
- <p class="updated_time"> 06:19 AM CT, Nov. 09 </p> 
- <a href="https://www.politico.com/newsletters/playbook/2021/11/09/a-trump-backed-senate-hopeful-takes-the-stand-495028">POLITICO Playbook: A Trump-backed Senate hopeful takes the stand</a> Politico: And the Jan. 6 committee subpoenas more Trump aides. 
 
 
 </details>
