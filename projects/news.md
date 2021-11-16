@@ -7,6 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 05:18 AM CT, Nov. 16 </p> 
+ <a href="https://www.nytimes.com/2021/11/16/world/asia/biden-xi-summit.html">U.S.-China Summit: What Did It Achieve?</a> NYT: In a chilly relationship of mutual mistrust, staving off the prospect of a broader conflict between two superpowers counts as progress. 
+ <p class="updated_time"> 05:14 AM CT, Nov. 16 </p> 
+ <a href="https://www.nytimes.com/2021/11/16/world/asia/covid-corgi-clubbing.html">Pet Corgi Beaten on Video by Covid Team, Stirring Fury in China</a> NYT: A security camera in a quarantined resident’s apartment recorded the workers pursuing the dog, which was later culled. 
+ <p class="updated_time"> 05:12 AM CT, Nov. 16 </p> 
+ <a href="https://www.nytimes.com/2021/11/15/world/europe/belarus-poland-eu-sanctions-migrants.html">Europe Adopts New Sanctions Against Belarus</a> NYT: A confrontation at the Polish-Belarusian border, a funeral for a dead Syrian boy trapped in between and a new round of E.U. sanctions mark the struggle with Aleksandr G. Lukashenko. 
  <p class="updated_time"> 05:07 AM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/live/2021/11/15/world/biden-xi-summit">Biden and Xi Pledge More Cooperation, but Offer No Breakthroughs</a> NYT: President Biden and China’s leader, Xi Jinping, met for about three and a half hours. U.S. officials said the talks were meant to reassure both sides that misunderstandings would not lead to unintended clashes. 
  <p class="updated_time"> 04:44 AM CT, Nov. 16 </p> 
@@ -95,8 +101,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-africa-59300011?at_medium=RSS&at_campaign=KARANGA">Nigerian army 'shot and killed #EndSars protesters': report</a> BBC: Tens of thousands of Nigerians took to the streets last October to protest against police brutality. 
  <p class="updated_time"> 04:55 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/world/americas/cuba-protests.html">As Cuba Crushes Dissent, a Nationwide Protest Fizzles</a> NYT: In the days before the planned protest, the homes of government critics were surrounded by uniformed police officers, state security agents or government supporters holding picket signs, human rights activists said. 
- <p class="updated_time"> 04:07 PM CT, Nov. 15 </p> 
- <a href="https://www.nytimes.com/2021/11/15/world/europe/belarus-poland-eu-sanctions-migrants.html">Europe Adopts New Sanctions Against Belarus</a> NYT: A confrontation at the Polish-Belarusian border, a funeral for a dead Syrian boy trapped in between and a new round of E.U. sanctions mark the struggle with Aleksandr G. Lukashenko. 
  <p class="updated_time"> 04:05 PM CT, Nov. 15 </p> 
  <a href="https://www.npr.org/2021/11/15/1055936709/chiles-president-faces-impeachment-for-what-his-critics-call-a-conflict-of-inter">Chile's president faces impeachment for what his critics call a conflict of interest</a> NPR: Chile's president Sebastian Pinera faces an impeachment vote in the Senate Tuesday, days ahead of the first round of voting in presidential elections. 
  <p class="updated_time"> 03:46 PM CT, Nov. 15 </p> 
@@ -133,8 +137,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/15/1055828896/liverpool-taxi-explosion-declared-terrorist-incident-arrests">U.K. police have declared Sunday's Liverpool car blast a terrorist act</a> NPR: Authorities in England have arrested four men in connection with Sunday's deadly blast, which took place in a taxi outside a women's hospital. They say a motive is not yet known. 
  <p class="updated_time"> 09:59 AM CT, Nov. 15 </p> 
  <a href="https://www.npr.org/2021/11/15/1055803038/new-zealand-maori-tribe-vaccine-protesters-haka">New Zealand Maori tribe demands vaccine protesters stop performing haka dance</a> NPR: The Ngati Toa, a Maori tribe whose version of the intimidating display has been popularized by New Zealand's All Blacks rugby team, says it supports COVID-19 vaccinations. 
- <p class="updated_time"> 09:54 AM CT, Nov. 15 </p> 
- <a href="https://www.nytimes.com/2021/11/13/world/canada/newfoundland-migrants.html">Urbanites in Canada Flock to Atlantic Region Amid Remote Work Shift</a> NYT: As housing prices soar in big cities, the country’s eastern provinces are experiencing a surge in migration. Newcomers are being welcomed, but some locals are wary. 
  <p class="updated_time"> 08:58 AM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/14/world/europe/austria-unvaccinated-lockdown.html">Austria to Target the Unvaccinated in New Lockdown</a> NYT: The country, facing the biggest surge in virus cases since the pandemic started, is putting strict curbs on the movement of those without shots. 
  <p class="updated_time"> 08:24 AM CT, Nov. 15 </p> 
@@ -193,8 +195,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/13/world/africa/sudan-protests.html">Sudan Security Forces Fire on Protesters, Killing Several</a> NYT: At least five people were killed and several wounded as the police fired bullets and tear gas at demonstrators in Sudan’s capital, two days after the army chief signed a contentious decree. 
  <p class="updated_time"> 11:21 AM CT, Nov. 13 </p> 
  <a href="https://www.nytimes.com/2021/11/13/world/asia/india-pakistan-afghanistan-wheat.html">India Wants to Send Wheat to Ease Afghan Hunger Crisis. Pakistan Has Yet to OK Transit.</a> NYT: Indian officials say Islamabad is dragging its feet on a request of transit for 50,000 tons of wheat to Afghanistan, where nine million people are on the brink of starvation. 
- <p class="updated_time"> 10:26 AM CT, Nov. 13 </p> 
- <a href="https://www.nytimes.com/2021/11/13/world/middleeast/belarus-migrants-iraq-kurds.html">Migrants Say Belarusians Took Them to E.U. Border and Supplied Wire Cutters</a> NYT: Iraqi Kurds and other migrants said they were fleeing despair at home, but Belarus encouraged them, offering visas and helping them get to the border. 
  <p class="updated_time"> 10:08 AM CT, Nov. 13 </p> 
  <a href="https://www.nytimes.com/2021/11/13/world/europe/meghan-markle-uk-tabloids.html">Meghan's Image, Battered in Britain's Tabloids, Thrives in U.S.</a> NYT: She has re-emerged in America as a formidable A-list celebrity and social activist. In Britain, however, Meghan remains a polarizing figure. 
  <p class="updated_time"> 09:42 AM CT, Nov. 13 </p> 
@@ -208,6 +208,10 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 06:23 AM CT, Nov. 16 </p> 
+ <a href="https://www.politico.com/newsletters/playbook/2021/11/16/a-victory-lap-and-a-reality-check-495111">A victory lap and a reality check</a> Politico: And Biden holds his virtual confab with Xi. 
+ <p class="updated_time"> 05:18 AM CT, Nov. 16 </p> 
+ <a href="https://www.nytimes.com/2021/11/16/world/asia/biden-xi-summit.html">U.S.-China Summit: What Did It Achieve?</a> NYT: In a chilly relationship of mutual mistrust, staving off the prospect of a broader conflict between two superpowers counts as progress. 
  <p class="updated_time"> 04:31 AM CT, Nov. 16 </p> 
  <a href="https://www.politico.com/news/2021/11/16/gop-revenge-bannon-indictment-522658">GOP revenge for the Bannon indictment may have to wait</a> Politico: Despite House Republican enthusiasm for going after Biden aides using the ex-Trump adviser's contempt charges as precedent, payback won't be easy. 
  <p class="updated_time"> 04:30 AM CT, Nov. 16 </p> 
@@ -332,8 +336,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/15/us-space-debris-russia-satellites-522406">'Irresponsible act': U.S. raps Russia after missile strike on its own satellite</a> Politico: The resulting debris field forced astronauts and cosmonauts aboard the International Space Station to seek shelter. 
  <p class="updated_time"> 11:46 AM CT, Nov. 15 </p> 
  <a href="https://www.cnn.com/2021/11/15/politics/michael-flynn-one-religion/index.html">Ex-Trump adviser Michael Flynn's call for 'one religion' in the US garners swift condemnation</a> CNN: Former Trump national security adviser Michael Flynn's call for "one religion" in the US to win the battle of good versus evil has garnered sharp backlash from a range of critics. 
- <p class="updated_time"> 11:20 AM CT, Nov. 15 </p> 
- <a href="https://www.nytimes.com/2021/11/15/us/politics/republicans-2022-redistricting-maps.html">How Republicans Have an Edge in the Emerging 2022 Congressional Maps</a> NYT: On a highly distorted congressional map that is still taking shape, the party has added enough safe House districts to capture control of the chamber based on its redistricting edge alone. 
  <p class="updated_time"> 11:16 AM CT, Nov. 15 </p> 
  <a href="https://www.cnn.com/2021/11/15/politics/biden-drilling-ban/index.html">Biden proposes 20-year ban on new oil drilling near Native American site in New Mexico</a> CNN: President Joe Biden will announce Monday a proposal for a 20-year ban on new oil and gas drilling near Chaco Canyon in New Mexico -- one of the oldest Native American sites in the US -- White House officials said. 
  <p class="updated_time"> 11:14 AM CT, Nov. 15 </p> 
