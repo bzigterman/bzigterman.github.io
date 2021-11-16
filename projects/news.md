@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 02:11 PM CT, Nov. 16 </p> 
+ <a href="https://www.nytimes.com/2021/11/16/world/europe/poland-belarus-border-crisis.html">Melee Erupts Between Migrants in Belarus and Polish Border Forces</a> NYT: Poland used water cannons to drive back migrants who tried to rush the border. Belarus forces took some migrants to shelter for the first time, but it was unclear if that meant tensions would ease. 
  <p class="updated_time"> 02:01 PM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/15/world/canada/british-columbia-landslides-rain.html">Hundreds Rescued After Mudslides and Floods Pummel British Columbia</a> NYT: Helicopter search crews rescued people who had been trapped in their cars along highways. Heavy rainfall extended into nearby Washington State. 
  <p class="updated_time"> 02:00 PM CT, Nov. 16 </p> 
@@ -22,7 +24,7 @@ permalink: /projects/news/
  <p class="updated_time"> 01:24 PM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/world/europe/italy-mob-drug-arrests.html">Italian Police Break Up Drug Smuggling Ring Tied to Calabria Mob</a> NYT: Over 100 people were arrested in Italy as members of a mafia ring that smuggled drugs from Latin America and infiltrated businesses in southern and northern Italy. 
  <p class="updated_time"> 01:23 PM CT, Nov. 16 </p> 
- <a href="https://www.nytimes.com/2021/11/16/world/canada/evacuations-mudslides-british-columbia.html">Evacuations in British Columbia Continue After Mudslides and Flooding</a> NYT: Heavy rainfall and overflowing rivers have inundated cities in the Canadian province. The mayor of Abbotsford warned of an “uncertain and scary time” as residents took shelter in a convention center. 
+ <a href="https://www.nytimes.com/2021/11/16/world/canada/evacuations-mudslides-british-columbia.html">Evacuations in British Columbia Continue After Flooding and Mudslides</a> NYT: Heavy rainfall and overflowing rivers have inundated cities in the Canadian province. The mayor of Abbotsford warned of an “uncertain and scary time” as residents took shelter in a convention center. 
  <p class="updated_time"> 01:19 PM CT, Nov. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59308602?at_medium=RSS&at_campaign=KARANGA">Armenian troops killed in Azerbaijan border clash</a> BBC: Armenia and Azerbaijan have agreed to a Russian-backed ceasefire, reports say. 
  <p class="updated_time"> 01:00 PM CT, Nov. 16 </p> 
@@ -43,8 +45,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/16/world/europe/spain-basque-covid.html">Spain's Basque Region Restricts Gatherings as Cases Rise</a> NYT: The move contributes to a national debate on whether the country should reintroduce restrictions to prevent a Covid resurgence this winter. 
  <p class="updated_time"> 11:04 AM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/world/asia/china-history-xi-jinping.html">Revising China's History, to Glorify Xi Jinping</a> NYT: The Communist Party has anointed him one of its revered leaders, paving the way for an already powerful leader to wield even greater influence. 
- <p class="updated_time"> 11:03 AM CT, Nov. 16 </p> 
- <a href="https://www.nytimes.com/2021/11/16/world/europe/poland-belarus-border-crisis.html">Poland Uses Water Cannons and Tear Gas as Tensions Rise at Belarus Border</a> NYT: Western leaders have accused President Aleksandr G. Lukashenko of Belarus of using migrants as weapons in an effort to pressure the European Union. 
  <p class="updated_time"> 10:56 AM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/world/africa/nigeria-protest-report-massacare.html">Lekki Toll Gate Shooting in Nigeria Was a Massacre, Panel Finds</a> NYT: The incident in October 2020 could be “equated with a massacre,” a government panel said, refuting the army’s claim that soldiers only fired blanks. 
  <p class="updated_time"> 10:56 AM CT, Nov. 16 </p> 
@@ -214,12 +214,24 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:54 PM CT, Nov. 16 </p> 
+ <a href="https://www.politico.com/news/2021/11/16/congress-biden-winter-olympics-diplomacy-522711">Lawmakers pressure Biden to bar U.S. officials from attending Beijing Olympics</a> Politico: The president is reportedly considering a diplomatic boycott of the Winter Games. 
+ <p class="updated_time"> 02:25 PM CT, Nov. 16 </p> 
+ <a href="https://www.nytimes.com/2021/11/16/us/politics/biden-pfizer-covid-pill-purchase.html">U.S. Plans to Buy Enough Pfizer Covid Treatment for 10 Million People</a> NYT: Pfizer on Tuesday asked the Food and Drug Administration to authorize its pill for high-risk, unvaccinated people. 
  <p class="updated_time"> 02:23 PM CT, Nov. 16 </p> 
  <a href="https://www.politico.com/news/2021/11/16/trump-lawmakers-jan-6-lawsuit-522707">Trump says defeat in Jan. 6 lawsuit would let lawmakers ‘perpetually harass’ former presidents</a> Politico: The former president’s attorneys said the attack on the Capitol would become just one in a list of pretenses for probing White House documents. 
- <p class="updated_time"> 02:02 PM CT, Nov. 16 </p> 
- <a href="https://www.nytimes.com/2021/11/16/us/politics/biden-pfizer-covid-pill-purchase.html">U.S. Plans to Buy Enough Pfizer Covid Treatment for 10 Million People</a> NYT: Pfizer on Tuesday asked the Food and Drug Administration to authorize its pill for unvaccinated people. 
+ <p class="updated_time"> 02:18 PM CT, Nov. 16 </p> 
+ <a href="https://www.cnn.com/2021/11/16/politics/pfizer-covid-antiviral-pill-biden-administration-purchase/index.html">Biden administration plans to announce purchase of Pfizer's experimental Covid-19 antiviral pill</a> CNN: The Biden administration plans to purchase 10 million doses of Pfizer's experimental antiviral Covid-19 pill and is finalizing the contract now, according to a source familiar with the plans. 
+ <p class="updated_time"> 02:17 PM CT, Nov. 16 </p> 
+ <a href="https://www.cnn.com/2021/11/16/politics/trump-congress-records/index.html">Trump warns against giving Congress too much power as he seeks to keep his White House records secret</a> CNN: Former President Donald Trump's attorneys are framing his attempt to keep secret records from his presidency as a clash between the executive and legislative branches that could give Congress lopsided power, according to Trump's argument brief in the major court case related to the House's January 6 investigation. 
+ <p class="updated_time"> 02:16 PM CT, Nov. 16 </p> 
+ <a href="https://www.cnn.com/2021/11/16/politics/us-air-force-rescue-mission/index.html">US Air Force team rescues man having heart attack on board cargo ship in Indian Ocean </a> CNN: A US Air Force team based in Africa rescued a British citizen who had suffered a heart attack on board an American cargo ship in the Indian Ocean this weekend, according to the US military. 
+ <p class="updated_time"> 02:12 PM CT, Nov. 16 </p> 
+ <a href="https://www.cnn.com/2021/11/16/politics/build-back-better-latest-cbo-score/index.html">Democrats expect CBO to show shortfall on Biden's bill as White House moves to ease concerns</a> CNN: The White House and top Democrats are expecting a highly anticipated estimate from the nonpartisan Congressional Budget Office to show that their sweeping plan to expand the social safety net will fail to meet President Joe Biden's promise to not add to the federal deficit. 
  <p class="updated_time"> 02:00 PM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/world/asia/biden-xi-usa-china.html">What Did the US-China Summit Achieve?</a> NYT: In a chilly relationship of mutual mistrust, staving off the prospect of a broader conflict between two superpowers counts as progress. 
+ <p class="updated_time"> 01:44 PM CT, Nov. 16 </p> 
+ <a href="https://www.cnn.com/2021/11/16/politics/beijing-olympics-biden-administration/index.html">Biden administration weighing how to approach Beijing Winter Olympic Games</a> CNN: The Biden administration is still weighing how to approach the upcoming Beijing Winter Olympic Games, including the possibility of a diplomatic boycott, but hasn't reached a final conclusion, officials familiar with the matter said Tuesday. 
  <p class="updated_time"> 01:37 PM CT, Nov. 16 </p> 
  <a href="https://www.cnn.com/2021/11/16/politics/biden-infrastructure-bill-jobs-child-care/index.html">Analysis: Biden's economic policy moves away from the strategy of his party's past two presidents</a> CNN: The bipartisan infrastructure bill that President Joe Biden signed into law Monday marks a milestone in his effort to reorient Democratic economic policy away from the strategy of his party's past two presidents. 
  <p class="updated_time"> 01:21 PM CT, Nov. 16 </p> 
@@ -232,8 +244,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/16/politics/jackie-speier-not-running-for-reelection/index.html">California Democratic Rep. Jackie Speier becomes latest high-profile Democrat not running for reelection</a> CNN: California Democratic Rep. Jackie Speier said Tuesday she would not seek reelection, the latest high-profile Democrat to announce plans to leave Congress as the party faces steep climb to hold onto their narrow majority in the House in next year's midterms. 
  <p class="updated_time"> 12:14 PM CT, Nov. 16 </p> 
  <a href="https://www.politico.com/news/2021/11/16/pete-buttigieg-infrastructure-cash-gop-522655">Secretary Pete careening toward a GOP buzzsaw over infrastructure cash</a> Politico: "A lot of people will be looking for problems with how this money is spent," one Democratic strategist warned. 
- <p class="updated_time"> 12:01 PM CT, Nov. 16 </p> 
- <a href="https://www.cnn.com/2021/11/16/politics/us-air-force-rescue-mission/index.html">US Air Force team rescues man having heart attack on board cargo ship in Indian Ocean </a> CNN: A US Air Force team based in Africa rescued a British citizen who had suffered a heart attack on board an American cargo ship in the Indian Ocean this weekend, according to the US military. 
  <p class="updated_time"> 11:55 AM CT, Nov. 16 </p> 
  <a href="https://www.politico.com/news/2021/11/16/fbi-cyberattack-reporting-bill-522699">FBI left out of the loop in cyberattack reporting bill</a> Politico: The Biden administration is "troubled" by legislation that would require companies to report cyberattacks to the Department of Homeland Security but not the FBI. 
  <p class="updated_time"> 11:36 AM CT, Nov. 16 </p> 
@@ -294,8 +304,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/15/politics/biden-approval-infrastructure-what-matters/index.html">Americans are not hearing Joe Biden right now</a> CNN: If Joe Biden built a road in a quiet forest, would anyone know about it? 
  <p class="updated_time"> 09:41 PM CT, Nov. 15 </p> 
  <a href="https://www.politico.com/news/2021/11/15/social-spending-bill-tensions-democrats-522670">Tensions abate as Dems await cost of social spending bill</a> Politico: Progressives and moderates seem to have reached a tentative peace as they look towards a vote at the end of the week. 
- <p class="updated_time"> 09:31 PM CT, Nov. 15 </p> 
- <a href="https://www.cnn.com/2021/11/15/politics/scott-perry-freedom-caucus-chair/index.html">GOP Rep. Scott Perry elected as next House Freedom Caucus chairman</a> CNN: The conservative House Freedom Caucus has elected GOP Rep. Scott Perry to be its next leader, a Republican aide told CNN on Monday. 
  <p class="updated_time"> 09:14 PM CT, Nov. 15 </p> 
  <a href="https://www.cnn.com/2021/11/15/politics/january-6-committee-meadows/index.html">January 6 committee expected to discuss how to deal with Meadows</a> CNN: The House select committee investigating the January 6 attack on the US Capitol had yet to come to a consensus as of Monday night on dealing with former Trump White House chief of staff Mark Meadows' lack of compliance. 
  <p class="updated_time"> 09:01 PM CT, Nov. 15 </p> 
@@ -346,8 +354,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/15/1055841358/biden-signs-1t-bipartisan-infrastructure-bill-into-law">Biden signs the $1 trillion bipartisan infrastructure bill into law</a> NPR: President Biden praised the bipartisanship work to craft and pass the bill. But Republicans who supported the measure continue to face blowback. 
  <p class="updated_time"> 03:59 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/business/energy-environment/gas-prices-inflation.html">With Gas Prices High, Calls Grow to Tap Strategic Oil Reserve</a> NYT: President Biden is under pressure to release oil from the Strategic Petroleum Reserve. Here’s how it works, and how it might lower prices (modestly, and maybe not for long). 
- <p class="updated_time"> 03:53 PM CT, Nov. 15 </p> 
- <a href="https://www.politico.com/news/2021/11/15/pentagon-oklahoma-guard-comply-vaccine-mandate-522523">Pentagon: Oklahoma Guard must comply with vaccine mandate</a> Politico: "It is a lawful order for National Guardsmen to receive the Covid vaccine. It is a lawful order," Defense Department press secretary John Kirby told reporters. 
  <p class="updated_time"> 03:51 PM CT, Nov. 15 </p> 
  <a href="https://www.npr.org/2021/11/15/1055936695/president-biden-has-signed-a-1-2-trillion-infrastructure-bill">President Biden has signed a $1.2 trillion infrastructure bill</a> NPR: President Biden signed the bipartisan infrastructure bill into law Monday, surrounded by members of both parties. But some of the Republicans backing the bill face death threats. 
  <p class="updated_time"> 03:45 PM CT, Nov. 15 </p> 
@@ -370,8 +376,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/15/leahy-most-senior-senator-will-retire-522356">Leahy, most senior senator, will retire</a> Politico: The 81-year-old Vermont Democrat announced Monday that he would not run for a ninth term. 
  <p class="updated_time"> 09:29 AM CT, Nov. 15 </p> 
  <a href="https://www.politico.com/news/2021/11/15/beto-orourke-texas-governor-campaign-522336">Beto O’Rourke jumps into Texas governor’s race</a> Politico: The race represents a comeback bid for O’Rourke, who became a Democratic sensation during a failed Senate run in 2018 but whose 2020 presidential  campaign fell flat. 
- <p class="updated_time"> 09:18 AM CT, Nov. 15 </p> 
- <a href="https://www.cnn.com/2021/11/15/politics/beto-orourke-governor-texas-2022/index.html">O'Rourke announces bid to take on Greg Abbott in 2022 Texas gubernatorial race</a> CNN: Beto O'Rourke, the former congressman and 2020 Democratic presidential candidate, on Monday launched his campaign to unseat Texas Gov. Greg Abbott in 2022. 
  <p class="updated_time"> 07:31 AM CT, Nov. 15 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/11/15/congress-starts-cooking-end-of-year-agenda-495100">Congress starts cooking end-of-year agenda</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:13 AM CT, Nov. 15 </p> 
@@ -416,8 +420,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/12/trump-cdc-covid-521128">Emails reveal new details of Trump White House interference in CDC Covid planning</a> Politico: The documents released by a congressional committee lay out a timeline for how the Trump White House began to downplay the dangers posed by Covid-19. 
  <p class="updated_time"> 10:54 AM CT, Nov. 12 </p> 
  <a href="https://www.cnn.com/2021/11/12/politics/rob-califf-fda-commissioner/index.html">Biden picks Dr. Rob Califf as FDA commissioner</a> CNN: President Joe Biden will nominate Dr. Rob Califf, a longtime cardiologist, to be the next commissioner of the Food and Drug Administration, a role Califf previously held during the Obama administration. 
- <p class="updated_time"> 08:52 AM CT, Nov. 12 </p> 
- <a href="https://www.cnn.com/2021/11/12/politics/kamala-harris-paris/index.html">Harris says she did not discuss submarine deal with Macron during Paris meeting</a> CNN: Vice President Kamala Harris said she did not discuss with French President Emmanuel Macron the surprise deal between the US and Australia to develop nuclear submarines that angered the French, leading to a fallout between the longstanding allies. 
  <p class="updated_time"> 07:43 AM CT, Nov. 12 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/11/12/could-mccarthy-win-the-gavel-495084">Could McCarthy win the gavel?</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:13 AM CT, Nov. 12 </p> 
@@ -432,8 +434,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/11/dems-white-house-biden-520946">Dems to White House: The only prescription is more Biden</a> Politico: The president has been more a facilitator than manager of the legislative process. His party wants more of the latter. 
  <p class="updated_time"> 04:39 PM CT, Nov. 11 </p> 
  <a href="https://www.cnn.com/2021/11/11/politics/jerome-powell-joe-biden/index.html">Powell seen as the frontrunner to be Biden's pick for Federal Reserve chair as he nears a decision</a> CNN: President Joe Biden is nearing a decision on his choice for Federal Reserve chair, with observers inside and outside the administration viewing incumbent Jerome Powell as the front-runner for another term. 
- <p class="updated_time"> 12:01 PM CT, Nov. 11 </p> 
- <a href="https://www.cnn.com/2021/11/11/politics/biden-veterans-day-arlington/index.html">'You are the very spine of America': Biden honors those who served on Veterans Day in Arlington</a> CNN: President Joe Biden honored Veterans Day at Arlington National Cemetery on Thursday, paying homage to Americans who have served and laying a wreath at the Tomb of the Unknown Soldier. 
  <p class="updated_time"> 07:00 AM CT, Nov. 11 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/11/11/just-checking-the-cbo-score-495067">Just checking the (CBO) score</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:16 AM CT, Nov. 11 </p> 
