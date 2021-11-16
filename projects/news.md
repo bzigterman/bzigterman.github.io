@@ -7,8 +7,12 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 12:09 AM CT, Nov. 16 </p> 
+ <p class="updated_time"> 12:37 AM CT, Nov. 16 </p> 
+ <a href="https://www.nytimes.com/2021/11/15/world/asia/myanmar-danny-fenster-release.html">U.S. Journalist Danny Fenster Is Freed From Myanmar Prison</a> NYT: The release was a rare positive development in the country, which has been torn by violence since a February coup. 
+ <p class="updated_time"> 12:31 AM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/live/2021/11/15/world/biden-xi-summit">Biden and Xi Discuss Taiwan, Trade and Human Rights: Live Updates</a> NYT: President Biden and China’s leader, Xi Jinping, met for about three and a half hours. U.S. officials said the talks were meant to reassure both sides that misunderstandings would not lead to unintended clashes. 
+ <p class="updated_time"> 12:30 AM CT, Nov. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59298323?at_medium=RSS&at_campaign=KARANGA">Covid: The country locking down the unvaccinated</a> BBC: Some two million people without Covid-19 jabs have been told to stay home in Austria. 
  <p class="updated_time"> 12:08 AM CT, Nov. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-asia-china-59301167?at_medium=RSS&at_campaign=KARANGA">Biden-Xi talks: US says opposed to 'unilateral effort' to change Taiwan</a> BBC: The leaders concluded their first virtual summit, the most substantive talks they have had so far. 
  <p class="updated_time"> 11:28 PM CT, Nov. 15 </p> 
@@ -77,8 +81,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/15/1055936674/testing-temperature-with-your-ears">Testing temperature with your ears</a> NPR: Chefs in Japan dip a wet chopstick in hot oil and listen to the sizzle, to know when it's ready for tempura. A physicist investigated that technique in the lab to zero in on the perfect fry frequency. 
  <p class="updated_time"> 03:34 PM CT, Nov. 15 </p> 
  <a href="https://www.npr.org/2021/11/15/1055936667/cuban-government-vowed-to-prevent-todays-planned-march">Cuban government vowed to prevent today's planned march</a> NPR: In Cuba, opponents of the government urged citizens to put on white shirts and march in the streets.  The government denied permits for the protest. Activists now face detentions and intimidation. 
- <p class="updated_time"> 03:22 PM CT, Nov. 15 </p> 
- <a href="https://www.nytimes.com/2021/11/15/world/asia/myanmar-danny-fenster-release.html">U.S. Journalist Danny Fenster Is Freed From Myanmar Prison</a> NYT: The release was a rare positive development in the country, which has been torn by violence since a February coup. 
  <p class="updated_time"> 03:20 PM CT, Nov. 15 </p> 
  <a href="https://www.npr.org/2021/11/15/1055936653/the-age-of-gas-cars-could-be-ending">The age of gas cars could be ending</a> NPR: A few years ago, an end to gasoline-powered cars was a pie-in-the-sky dream for environmentalists. Now, the push to phase out gas cars shows an understanding of the urgency to act on climate change. 
  <p class="updated_time"> 03:20 PM CT, Nov. 15 </p> 
@@ -93,8 +95,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/15/world/europe/austria-covid-vaccine.html">Austria’s New Coronavirus Lockdown Applies Only to the Unvaccinated.</a> NYT: The restrictions were among the toughest of a wave of new rules in Europe, which the W.H.O. has said is “back at the epicenter of the pandemic.” 
  <p class="updated_time"> 02:18 PM CT, Nov. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59289998?at_medium=RSS&at_campaign=KARANGA">Poland border crisis: EU to widen Belarus sanctions as row intensifies</a> BBC: The crisis intensifies as hundreds more migrants arrive at the border with Poland. 
- <p class="updated_time"> 01:05 PM CT, Nov. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-us-canada-59298320?at_medium=RSS&at_campaign=KARANGA">Sandy Hook: Alex Jones liable in defamation lawsuit</a> BBC: The radio host spread false claims that the 2012 school shooting had been faked to push gun control. 
  <p class="updated_time"> 01:01 PM CT, Nov. 15 </p> 
  <a href="https://www.npr.org/sections/coronavirus-live-updates/2021/11/15/1055839727/austria-and-germany-impose-restrictions-on-unvaccinated-people-as-covid-cases-su">Austria and Germany impose restrictions on unvaccinated people as COVID cases surge</a> NPR: Austria has placed some 2 million unvaccinated people on partial lockdown. Similar restrictions in Berlin have been placed on people who aren't fully vaccinated. 
  <p class="updated_time"> 12:47 PM CT, Nov. 15 </p> 
