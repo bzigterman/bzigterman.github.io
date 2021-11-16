@@ -7,12 +7,18 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 10:38 PM CT, Nov. 15 </p> 
- <a href="https://www.nytimes.com/live/2021/11/15/world/biden-xi-summit">Biden and Xi Hold Virtual Talks Amid U.S.-China Tensions: Live Updates</a> NYT: President Biden and China’s leader, Xi Jinping, are meeting for at least three hours. U.S. officials said the talks were meant to reassure both sides that misunderstandings would not lead to unintended clashes. 
+ <p class="updated_time"> 10:55 PM CT, Nov. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-59301167?at_medium=RSS&at_campaign=KARANGA">Biden-Xi talks: Leaders conclude first virtual summit, says state media</a> BBC: A highly anticipated meeting in which issues like Taiwan were expected to be discussed has now ended. 
+ <p class="updated_time"> 10:53 PM CT, Nov. 15 </p> 
+ <a href="https://www.nytimes.com/2021/11/15/world/canada/british-columbia-landslides-rain.html">Landslides and Torrential Rains Batter British Columbia</a> NYT: Dozens of drivers were trapped by landslides, and the city of Merritt warned of a “mass sewage backup.” The rainfall was part of a system that also pummeled Washington State. 
+ <p class="updated_time"> 10:47 PM CT, Nov. 15 </p> 
+ <a href="https://www.nytimes.com/live/2021/11/15/world/biden-xi-summit">Biden and Xi Hold Virtual Talks Amid U.S.-China Tensions: Live Updates</a> NYT: President Biden and China’s leader, Xi Jinping, met for nearly four hours. U.S. officials said the talks were meant to reassure both sides that misunderstandings would not lead to unintended clashes. 
+ <p class="updated_time"> 10:40 PM CT, Nov. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59301142?at_medium=RSS&at_campaign=KARANGA">Divorce art auction raises $676 million in New York</a> BBC: The collection of 35 works included pieces by Andy Warhol, Jackson Pollock and Mark Rothko. 
+ <p class="updated_time"> 10:39 PM CT, Nov. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/business-59257322?at_medium=RSS&at_campaign=KARANGA">Google: US technology giant to invest $740m in Australia</a> BBC: The firm says it will create 6,000 jobs as it builds a research hub and expands its cloud capacity. 
  <p class="updated_time"> 10:36 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/us/politics/blinken-africa-ethiopia.html">Blinken Heads to Africa as U.S. Tries to Avert Ethiopia Disaster</a> NYT: The conflict between rebels and the country’s government has already featured numerous alleged atrocities, and experts say it threatens the stability of all of East Africa. 
- <p class="updated_time"> 10:20 PM CT, Nov. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-59301167?at_medium=RSS&at_campaign=KARANGA">Biden-Xi talks: Leaders begin first face-to-face virtual summit</a> BBC: Taiwan has recently become a point of growing contention between both countries. 
  <p class="updated_time"> 09:49 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/world/europe/ukraine-russia-war-putin.html">How a Dispute Over Groceries Led to Artillery Strikes in Ukraine</a> NYT: In a sign of volatile East-West relations, a dispute over shopping in the Ukrainian conflict zone spiraled into fighting that sent war jitters rippling through Europe and the U.S. 
  <p class="updated_time"> 09:49 PM CT, Nov. 15 </p> 
@@ -21,8 +27,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/15/us/arkansas-boosters-adults-covid.html">Arkansas Opens Boosters to All Adults as Regulators Weigh Expansion</a> NYT: Arkansas joined Colorado, New Mexico and California in making all adults eligible for an additional vaccine dose. 
  <p class="updated_time"> 09:35 PM CT, Nov. 15 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59299101?at_medium=RSS&at_campaign=KARANGA">Russian anti-satellite missile test draws condemnation</a> BBC: The US says Russia "recklessly" destroyed a satellite, endangering astronauts in space. 
- <p class="updated_time"> 08:52 PM CT, Nov. 15 </p> 
- <a href="https://www.nytimes.com/2021/11/15/world/canada/british-columbia-landslides-rain.html">Landslides and Torrential Rains Batter British Columbia</a> NYT: Dozens of drivers were trapped by landslides, and the city of Merritt warned of a “mass sewage backup.” The rainfall was part of a system that also pummeled Washington State. 
  <p class="updated_time"> 08:51 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/world/asia/india-journalists-arrested-crackdown-tripura.html">India Reporters Are Arrested Amid Tripura Crackdown</a> NYT: Faced with sectarian violence in the country’s northeast, the government has responded by disputing reports on the clashes and punishing those who covered them. 
  <p class="updated_time"> 08:23 PM CT, Nov. 15 </p> 
@@ -101,8 +105,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/cubas-government-deploys-security-forces-to-prevent-protest-11637008806">Cuba's Government Deploys Security Forces to Prevent Protest</a> WSJ: Police officers flooded streets in Havana and other cities and detained some activists, and the government stationed police and civilian militants at the homes of pro-democracy organizers to keep them from taking action. 
  <p class="updated_time"> 11:34 AM CT, Nov. 15 </p> 
  <a href="https://www.npr.org/2021/11/15/1055849927/india-air-pollution-new-delhi-city-wide-lockdown">New Delhi's air pollution is so bad, officials are calling for a citywide lockdown</a> NPR: New Delhi's schools are already closed this week because of air pollution that has been about four times the safe limit. 
- <p class="updated_time"> 11:06 AM CT, Nov. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-59296328?at_medium=RSS&at_campaign=KARANGA">Ecuador prison and armed forces chiefs resign after riots</a> BBC: The move came after 68 inmates were killed in a deadly fight in a Guayaquil jail over the weekend. 
  <p class="updated_time"> 11:02 AM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/world/europe/uk-taxi-explosion-liverpool.html">Liverpool Explosion: Blast Is Declared a Terrorist Act</a> NYT: Local leaders praised the driver as a hero, saying that he may have prevented a bigger calamity. He escaped the burning vehicle and locked the doors, trapping a passenger carrying explosives inside. 
  <p class="updated_time"> 10:24 AM CT, Nov. 15 </p> 
@@ -133,8 +135,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/science-environment-59263761?at_medium=RSS&at_campaign=KARANGA">COP26: How might decisions at the climate summit change our lives?</a> BBC: The changes made at COP26 in Glasgow could have implications for the way we live. 
  <p class="updated_time"> 05:40 AM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/14/world/europe/liverpool-hospital-car-explosion.html">Taxi Explodes Outside Liverpool Hospital, Killing One</a> NYT: Three men in their twenties were arrested under Britain’s Terrorism Act several hours after the explosion, in which a second person was injured, the authorities said. 
- <p class="updated_time"> 05:13 AM CT, Nov. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-latin-america-59289966?at_medium=RSS&at_campaign=KARANGA">Cuba cracks down on dissent ahead of protest march</a> BBC: Cuban state security agents are blocking the organiser of a protest march from leaving his home. 
  <p class="updated_time"> 04:28 AM CT, Nov. 15 </p> 
  <a href="https://www.npr.org/2021/11/15/1055753386/u-s-journalist-is-freed-from-myanmar-prison-with-ex-diplomat-richardsons-help">U.S. journalist is freed from Myanmar prison with ex-diplomat Richardson's help</a> NPR: Former U.S. Ambassador to the U.N. Bill Richardson said in a statement that Danny Fenster had been handed over to him in Myanmar and would return to the U.S. via Qatar over the next day and a half. 
  <p class="updated_time"> 04:15 AM CT, Nov. 15 </p> 
@@ -209,8 +209,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/12/world/canada/newfoundland-cyberattack.html">Hackers Target Newfoundland’s Health Care System</a> NYT: The province has said little about a cyberattack that delayed or canceled medical procedures and leaked personal information. 
  <p class="updated_time"> 06:15 PM CT, Nov. 12 </p> 
  <a href="https://www.nytimes.com/2021/11/12/us/ivory-rhino-congo-trafficking.html">2 Ivory Smugglers Captured in International Operation, U.S. Says</a> NYT: The men were captured by relying on DNA sampling from a previously seized ivory haul, which helped experts pinpoint the location of poached elephants. 
- <p class="updated_time"> 11:00 AM CT, Nov. 12 </p> 
- <a href="https://www.nytimes.com/2021/11/12/arts/design/new-york-international-tourists.html">‘Be Nice to Tourists’: New York’s Arts Scene Needs International Visitors</a> NYT: The United States now allows vaccinated international travelers into the country. It’s welcome news for arts institutions that lost revenue and cut jobs during the pandemic. 
 
 
 </details>
@@ -220,12 +218,16 @@ permalink: /projects/news/
 
  <p class="updated_time"> 11:31 PM CT, Nov. 15 </p> 
  <a href="https://www.politico.com/news/2021/11/15/takeaways-kyle-rittenhouse-trial-closings-522681">9 takeaways from the Kyle Rittenhouse trial closings</a> Politico: Attorneys in the Wisconsin murder trial sparred for the last time Monday. 
+ <p class="updated_time"> 10:47 PM CT, Nov. 15 </p> 
+ <a href="https://www.cnn.com/2021/11/15/politics/biden-approval-infrastructure-what-matters/index.html">Analysis: Americans are not hearing Joe Biden right now</a> CNN: If Joe Biden built a road in a quiet forest, would anyone know about it? 
+ <p class="updated_time"> 10:46 PM CT, Nov. 15 </p> 
+ <a href="https://www.cnn.com/2021/11/15/politics/russia-anti-satellite-weapon-test-scn/index.html">US says it 'won't tolerate' Russia's 'reckless and dangerous' anti-satellite missile test</a> CNN: The US is concerned that Russia carried out a major anti-satellite weapons test over the weekend, two US officials told CNN. One of the officials said it may have created a potentially dangerous debris field in space. 
+ <p class="updated_time"> 10:44 PM CT, Nov. 15 </p> 
+ <a href="https://www.cnn.com/2021/11/15/politics/chris-christie-weight-attacks-cnntv/index.html">Chris Christie speaks out about relentless attacks on his weight: 'I think it's made me tougher'</a> CNN: Former New Jersey Republican Gov. Chris Christie opened up about the attacks on his weight that have hounded him throughout his political career, saying that while he used to find them hurtful, they have made him "tougher." 
  <p class="updated_time"> 10:36 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/us/politics/blinken-africa-ethiopia.html">Blinken Heads to Africa as U.S. Tries to Avert Ethiopia Disaster</a> NYT: The conflict between rebels and the country’s government has already featured numerous alleged atrocities, and experts say it threatens the stability of all of East Africa. 
  <p class="updated_time"> 10:28 PM CT, Nov. 15 </p> 
  <a href="https://www.cnn.com/2021/11/15/politics/wyoming-gop-liz-cheney/index.html">Casper Star-Tribune: Wyoming GOP votes to no longer recognize Liz Cheney as a party member</a> CNN: The Wyoming Republican Party voted over the weekend to no longer recognize Rep. Liz Cheney as a member of the party, the Casper Star-Tribune reported, a new instance of GOP blowback as Cheney continues to speak out against former President Donald Trump. 
- <p class="updated_time"> 10:19 PM CT, Nov. 15 </p> 
- <a href="https://www.cnn.com/2021/11/15/politics/chris-christie-weight-attacks-cnntv/index.html">Chris Christie speaks out about relentless attacks on his weight: 'I think it's made me tougher'</a> CNN: Former New Jersey Republican Gov. Chris Christie opened up about the attacks on his weight that have hounded him throughout his political career, saying that while he used to find them hurtful, they have made him "tougher." 
  <p class="updated_time"> 09:57 PM CT, Nov. 15 </p> 
  <a href="https://www.cnn.com/2021/11/15/politics/chris-christie-donald-trump-january-6-cnntv/index.html">Chris Christie blames Trump's rhetoric about stolen election for January 6 insurrection </a> CNN: Former New Jersey Gov. Chris Christie said he believes the insurrection at the US Capitol on January 6 was the result of former President Donald Trump's lie that the 2020 presidential election was stolen. 
  <p class="updated_time"> 09:49 PM CT, Nov. 15 </p> 
@@ -264,14 +266,10 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/15/alex-jones-sandy-hook-liable-defamation-522636">Alex Jones liable for defamation in Sandy Hook ‘hoax’ case</a> Politico: He claimed that the school massacre didn’t actually happen. 
  <p class="updated_time"> 06:18 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/us/politics/pat-leahy-senate-retire.html">Patrick Leahy Announces He Will Retire From the U.S. Senate</a> NYT: At age 81, the Vermont Democrat has served in the chamber for nearly half a century. 
- <p class="updated_time"> 06:06 PM CT, Nov. 15 </p> 
- <a href="https://www.cnn.com/2021/11/15/politics/russia-anti-satellite-weapon-test-scn/index.html">US says it 'won't tolerate' Russia's 'reckless and dangerous' anti-satellite missile test</a> CNN: The US is concerned that Russia carried out a major anti-satellite weapons test over the weekend, two US officials told CNN. One of the officials said it may have created a potentially dangerous debris field in space. 
  <p class="updated_time"> 05:59 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/us/politics/bannon-congress-trump-jan-6.html">Steve Bannon turns himself in on contempt of Congress charges.</a> NYT: The former aide to President Donald J. Trump had refused to comply with a demand from the House committee investigating the Jan. 6 Capitol riot. 
  <p class="updated_time"> 05:48 PM CT, Nov. 15 </p> 
  <a href="https://www.cnn.com/2021/11/15/politics/chris-christie-trump-2024/index.html">Analysis: Why Chris Christie isn't sorry</a> CNN: Former New Jersey Gov. Chris Christie is trying to make a political comeback after a dark few years in the shadow of Donald Trump -- including writing a new book that Christie is pitching as a blueprint for a post-Trump GOP. 
- <p class="updated_time"> 05:47 PM CT, Nov. 15 </p> 
- <a href="https://www.cnn.com/2021/11/15/politics/biden-approval-infrastructure-what-matters/index.html">Analysis: Americans are not hearing Joe Biden right now</a> CNN: If Joe Biden built a road in a quiet forest, would anyone know about it? 
  <p class="updated_time"> 05:44 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/us/politics/alex-jones-sandy-hook.html">Alex Jones Liable in Sandy Hook Defamation Suits</a> NYT: A Connecticut judge’s ruling against the Infowars host combines with decisions in Texas to grant a clean sweep for the families of 10 shooting victims. 
  <p class="updated_time"> 05:40 PM CT, Nov. 15 </p> 
