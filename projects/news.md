@@ -7,8 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:42 AM CT, Nov. 16 </p> 
+ <a href="https://www.nytimes.com/2021/11/15/us/arkansas-boosters-adults-covid.html">Arkansas Opens Boosters to All Adults as Regulators Weigh Expansion</a> NYT: Arkansas joined Colorado, New Mexico and California in broadening access to boosters for all adults. 
+ <p class="updated_time"> 08:34 AM CT, Nov. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-59300015?at_medium=RSS&at_campaign=KARANGA">Aung San Suu Kyi being treated well: Myanmar army</a> BBC: Aung San Suu Kyi has not been seen in public since a coup removed her from office in February. 
  <p class="updated_time"> 08:33 AM CT, Nov. 16 </p> 
  <a href="https://www.npr.org/2021/11/16/1055131668/shipping-container-demand-supply-chain-delay">The pandemic economy's latest victim? The lowly shipping container</a> NPR: Delayed containers are a symptom of and contributor to global supply chain problems. But imagine a world without them. 
+ <p class="updated_time"> 08:17 AM CT, Nov. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59308602?at_medium=RSS&at_campaign=KARANGA">Armenia loses positions in deadly border clash</a> BBC: A number of troops are killed in a flare-up of violence on the Armenian border with Azerbaijan. 
  <p class="updated_time"> 08:10 AM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/world/europe/poland-belarus-border-crisis.html">Poland Uses Water Cannons and Tear Gas as Tensions Rise at Belarus Border</a> NYT: Western leaders have accused President Aleksandr G. Lukashenko of Belarus of using migrants as weapons in an effort to pressure the European Union. 
  <p class="updated_time"> 08:08 AM CT, Nov. 16 </p> 
@@ -17,8 +23,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/16/world/asia/china-history-xi-jinping.html">Revising China's History, to Glorify Xi Jinping</a> NYT: The Communist Party has anointed him one of its revered leaders, paving the way for an already powerful leader to wield even greater influence. 
  <p class="updated_time"> 07:58 AM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/business/germany-gas-pipeline.html">Germany Suspends Approval of Gas Pipeline, Sending Prices Soaring</a> NYT: The decision to delay certification of the Russia-to-Germany gas pipeline comes amid rising political tensions between the West and Russia. 
- <p class="updated_time"> 07:55 AM CT, Nov. 16 </p> 
- <a href="https://www.nytimes.com/2021/11/15/us/arkansas-boosters-adults-covid.html">Arkansas Opens Boosters to All Adults as Regulators Weigh Expansion</a> NYT: Arkansas joined Colorado, New Mexico and California in making all adults eligible for an additional vaccine dose. 
  <p class="updated_time"> 07:37 AM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/world/africa/uganda-kampala-explosions.html">2 Explosions Hit Ugandan Capital, Killing 3</a> NYT: Witnesses said there was a blast near a police station and another near Parliament, and the police said three suicide bombers also died. 
  <p class="updated_time"> 07:26 AM CT, Nov. 16 </p> 
@@ -73,14 +77,10 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-europe-59298323?at_medium=RSS&at_campaign=KARANGA">Covid: The country locking down the unvaccinated</a> BBC: Some two million people without Covid-19 jabs have been told to stay home in Austria. 
  <p class="updated_time"> 11:30 PM CT, Nov. 15 </p> 
  <a href="https://www.wsj.com/articles/afghanistans-shiite-minority-cautiously-embraces-taliban-rule-seeking-protection-11637058601">Afghanistan's Shiite Minority Cautiously Embraces Taliban Rule</a> WSJ: This emergence of Shiite Taliban shows how the country’s new rulers are trying to blunt the sectarian divide and position themselves as a pan-Afghan national-liberation movement. 
- <p class="updated_time"> 11:28 PM CT, Nov. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-59300015?at_medium=RSS&at_campaign=KARANGA">Aung San Suu Kyi being treated well: Myanmar army</a> BBC: Aung San Suu Kyi has not been seen in public since a coup removed her from office in February. 
  <p class="updated_time"> 11:21 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/us/politics/blinken-africa-ethiopia.html">Blinken Heads to Africa as U.S. Tries to Avert Ethiopia Disaster</a> NYT: The conflict between rebels and the country’s government has already featured numerous alleged atrocities, and experts say it threatens the stability of all of East Africa. 
  <p class="updated_time"> 11:17 PM CT, Nov. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59301142?at_medium=RSS&at_campaign=KARANGA">Andy Warhol: Divorce art auction raises $676 million in NY</a> BBC: The collection of 35 works included pieces by Andy Warhol, Jackson Pollock and Mark Rothko. 
- <p class="updated_time"> 10:39 PM CT, Nov. 15 </p> 
- <a href="https://www.bbc.co.uk/news/business-59257322?at_medium=RSS&at_campaign=KARANGA">Google: US technology giant to invest $740m in Australia</a> BBC: The firm says it will create 6,000 jobs as it builds a research hub and expands its cloud capacity. 
  <p class="updated_time"> 09:49 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/world/europe/ukraine-russia-war-putin.html">How a Dispute Over Groceries Led to Artillery Strikes in Ukraine</a> NYT: In a sign of volatile East-West relations, a dispute over shopping in the Ukrainian conflict zone spiraled into fighting that sent war jitters rippling through Europe and the U.S. 
  <p class="updated_time"> 09:49 PM CT, Nov. 15 </p> 
