@@ -7,8 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:07 AM CT, Nov. 16 </p> 
+ <p class="updated_time"> 03:33 AM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/live/2021/11/15/world/biden-xi-summit">Biden and Xi Pledge More Cooperation, but Offer No Breakthroughs</a> NYT: President Biden and China’s leader, Xi Jinping, met for about three and a half hours. U.S. officials said the talks were meant to reassure both sides that misunderstandings would not lead to unintended clashes. 
+ <p class="updated_time"> 03:33 AM CT, Nov. 16 </p> 
+ <a href="https://www.nytimes.com/2021/11/15/us/arkansas-boosters-adults-covid.html">Arkansas Opens Boosters to All Adults as Regulators Weigh Expansion</a> NYT: Arkansas joined Colorado, New Mexico and California in making all adults eligible for an additional vaccine dose. 
  <p class="updated_time"> 02:49 AM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/15/world/canada/british-columbia-landslides-rain.html">Hundreds Rescued After Landslides Pummel British Columbia</a> NYT: Helicopter search crews rescued people who had been trapped in their cars along highways. Heavy rainfall extended into nearby Washington State. 
  <p class="updated_time"> 02:36 AM CT, Nov. 16 </p> 
@@ -35,8 +37,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/15/world/europe/ukraine-russia-war-putin.html">How a Dispute Over Groceries Led to Artillery Strikes in Ukraine</a> NYT: In a sign of volatile East-West relations, a dispute over shopping in the Ukrainian conflict zone spiraled into fighting that sent war jitters rippling through Europe and the U.S. 
  <p class="updated_time"> 09:49 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/world/asia/us-china-tensions-explained.html">U.S.-China Relations: What to Know</a> NYT: The Biden administration has called managing America’s relationship with Beijing “the biggest geopolitical test of the 21st century.” 
- <p class="updated_time"> 09:46 PM CT, Nov. 15 </p> 
- <a href="https://www.nytimes.com/2021/11/15/us/arkansas-boosters-adults-covid.html">Arkansas Opens Boosters to All Adults as Regulators Weigh Expansion</a> NYT: Arkansas joined Colorado, New Mexico and California in making all adults eligible for an additional vaccine dose. 
  <p class="updated_time"> 09:35 PM CT, Nov. 15 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59299101?at_medium=RSS&at_campaign=KARANGA">Russian anti-satellite missile test draws condemnation</a> BBC: The US says Russia "recklessly" destroyed a satellite, endangering astronauts in space. 
  <p class="updated_time"> 08:51 PM CT, Nov. 15 </p> 
