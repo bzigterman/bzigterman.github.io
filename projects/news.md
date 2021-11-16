@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 05:15 PM CT, Nov. 16 </p> 
+ <p class="updated_time"> 05:34 PM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/world/canada/evacuations-mudslides-british-columbia.html">Evacuations in British Columbia Continue After Flooding and Mudslides</a> NYT: Heavy rainfall and overflowing rivers have inundated cities in the Canadian province. In Abbotsford, residents took shelter in a convention center. 
  <p class="updated_time"> 04:52 PM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/world/europe/clarissa-eden-dead.html">Clarissa Eden, British Countess and Political Influencer, Dies at 101</a> NYT: The iconoclastic niece of Winston Churchill, she was married to Prime Minister Anthony Eden, who was at the helm during the Suez crisis. 
@@ -243,7 +243,7 @@ permalink: /projects/news/
  <p class="updated_time"> 03:47 PM CT, Nov. 16 </p> 
  <a href="https://www.cnn.com/2021/11/16/politics/paul-gosar-republican-reaction/index.html">House Republicans shrug off threats of violence as Democrats prepare to punish Gosar</a> CNN: House Republicans are mostly shrugging off violent rhetoric within their ranks and vicious threats directed at some of their own members, as Democrats prepare to punish one GOP lawmaker over a graphic video depicting violence against a colleague. 
  <p class="updated_time"> 03:36 PM CT, Nov. 16 </p> 
- <a href="https://www.npr.org/2021/11/16/1056268965/biden-picks-a-rickety-new-hampshire-bridge-as-a-scene-to-sell-his-infrastructure">Biden picks a rickety New Hampshire bridge as a scene to sell his infrastructure bill</a> NPR: The president made a first stop in New Hampshire to promote the $1.2 trillion infrastructure law. Members of his cabinet will crisscross the nation in the coming days to boost the new law. 
+ <a href="https://www.npr.org/2021/11/16/1056268965/biden-picks-a-rickety-new-hampshire-bridge-as-a-scene-to-sell-his-infrastructure">Biden picks a rickety New Hampshire bridge as a scene to sell his infrastructure bill</a> NPR: The president made a first stop in New Hampshire to promote the $1 trillion infrastructure law. Members of his cabinet will crisscross the nation in the coming days to boost the new law. 
  <p class="updated_time"> 03:35 PM CT, Nov. 16 </p> 
  <a href="https://www.npr.org/2021/11/16/1056240650/time-has-run-out-on-some-biden-administration-appointees">Time has run out on some Biden administration appointees</a> NPR: The Vacancies Act says many temporary government appointees cannot remain in their posts after the 300th day of a president's first year in office. 
  <p class="updated_time"> 03:30 PM CT, Nov. 16 </p> 
