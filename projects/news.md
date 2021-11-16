@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 08:33 AM CT, Nov. 16 </p> 
+ <a href="https://www.npr.org/2021/11/16/1055131668/shipping-container-demand-supply-chain-delay">The pandemic economy's latest victim? The lowly shipping container</a> NPR: Delayed containers are a symptom of and contributor to global supply chain problems. But imagine a world without them. 
  <p class="updated_time"> 08:10 AM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/world/europe/poland-belarus-border-crisis.html">Poland Uses Water Cannons and Tear Gas as Tensions Rise at Belarus Border</a> NYT: Western leaders have accused President Aleksandr G. Lukashenko of Belarus of using migrants as weapons in an effort to pressure the European Union. 
  <p class="updated_time"> 08:08 AM CT, Nov. 16 </p> 
@@ -163,8 +165,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/14/world/europe/liverpool-hospital-car-explosion.html">Taxi Explodes Outside Liverpool Hospital, Killing One</a> NYT: Three men in their twenties were arrested under Britain’s Terrorism Act several hours after the explosion, in which a second person was injured, the authorities said. 
  <p class="updated_time"> 04:28 AM CT, Nov. 15 </p> 
  <a href="https://www.npr.org/2021/11/15/1055753386/u-s-journalist-is-freed-from-myanmar-prison-with-ex-diplomat-richardsons-help">U.S. journalist is freed from Myanmar prison with ex-diplomat Richardson's help</a> NPR: Former U.S. Ambassador to the U.N. Bill Richardson said in a statement that Danny Fenster had been handed over to him in Myanmar and would return to the U.S. via Qatar over the next day and a half. 
- <p class="updated_time"> 04:15 AM CT, Nov. 15 </p> 
- <a href="https://www.npr.org/2021/11/15/1049523021/mamata-banerjee-modi-india-politics">Meet the feisty, 5-foot-tall thorn in the side of India's prime minister</a> NPR: Mamata Banerjee, chief minister of West Bengal state, is one of Narendra Modi's fiercest critics. She's especially beloved by women and the impoverished. But gaining national traction may be tough. 
  <p class="updated_time"> 04:00 AM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/world/asia/adult-diapers-japan.html">A New Source of Fuel in an Aging Japan: Adult Incontinence</a> NYT: Waste from adult diapers is growing by tens of thousands of tons a year in Japan. One town may have a solution: recycle it into fuel pellets. 
  <p class="updated_time"> 01:34 AM CT, Nov. 15 </p> 
@@ -368,8 +368,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/15/beto-orourke-texas-governor-campaign-522336">Beto O’Rourke jumps into Texas governor’s race</a> Politico: The race represents a comeback bid for O’Rourke, who became a Democratic sensation during a failed Senate run in 2018 but whose 2020 presidential  campaign fell flat. 
  <p class="updated_time"> 09:18 AM CT, Nov. 15 </p> 
  <a href="https://www.cnn.com/2021/11/15/politics/beto-orourke-governor-texas-2022/index.html">O'Rourke announces bid to take on Greg Abbott in 2022 Texas gubernatorial race</a> CNN: Beto O'Rourke, the former congressman and 2020 Democratic presidential candidate, on Monday launched his campaign to unseat Texas Gov. Greg Abbott in 2022. 
- <p class="updated_time"> 08:37 AM CT, Nov. 15 </p> 
- <a href="https://www.politico.com/news/2021/11/15/imprisoned-journalist-released-myanmar-522325">Imprisoned U.S. journalist released in Myanmar</a> Politico: Danny Fenster was arrested in May in the aftermath of a military coup in the Southeast Asian nation. 
  <p class="updated_time"> 07:31 AM CT, Nov. 15 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/11/15/congress-starts-cooking-end-of-year-agenda-495100">Congress starts cooking end-of-year agenda</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:13 AM CT, Nov. 15 </p> 
