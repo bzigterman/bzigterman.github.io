@@ -7,8 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:05 PM CT, Nov. 15 </p> 
- <a href="https://www.nytimes.com/live/2021/11/15/world/biden-xi-summit">Biden and Xi Begin Virtual Talks Amid U.S.-China Tensions: Live Updates</a> NYT: President Biden and China’s leader, Xi Jinping, are meeting for at least three hours. U.S. officials said the talks were meant to reassure both sides that misunderstandings would not lead to unintended clashes. 
+ <p class="updated_time"> 09:30 PM CT, Nov. 15 </p> 
+ <a href="https://www.nytimes.com/live/2021/11/15/world/biden-xi-summit">Biden and Xi Hold Virtual Talks Amid U.S.-China Tensions: Live Updates</a> NYT: President Biden and China’s leader, Xi Jinping, are meeting for at least three hours. U.S. officials said the talks were meant to reassure both sides that misunderstandings would not lead to unintended clashes. 
  <p class="updated_time"> 08:52 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/world/canada/british-columbia-landslides-rain.html">Landslides and Torrential Rains Batter British Columbia</a> NYT: Dozens of drivers were trapped by landslides, and the city of Merritt warned of a “mass sewage backup.” The rainfall was part of a system that also pummeled Washington State. 
  <p class="updated_time"> 08:51 PM CT, Nov. 15 </p> 
@@ -61,6 +61,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/15/1055936709/chiles-president-faces-impeachment-for-what-his-critics-call-a-conflict-of-inter">Chile's president faces impeachment for what his critics call a conflict of interest</a> NPR: Chile's president Sebastian Pinera faces an impeachment vote in the Senate Tuesday, days ahead of the first round of voting in presidential elections. 
  <p class="updated_time"> 03:46 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/world/middleeast/scorpions-egypt.html">Plagues Strike Egypt: Sudden Floods, Then Scorpions Called Deathstalkers</a> NYT: Swept from desert burrows, hundreds, if not thousands, of scorpions skittered into villages, stinging at least 503 people. 
+ <p class="updated_time"> 03:42 PM CT, Nov. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-us-canada-59298981?at_medium=RSS&at_campaign=KARANGA">Biden signs 'once-in-a-generation' $1tn infrastructure bill into law</a> BBC: The 'once-in-a-generation' law nearly failed to pass Congress this month amid Democratic infighting. 
  <p class="updated_time"> 03:34 PM CT, Nov. 15 </p> 
  <a href="https://www.npr.org/2021/11/15/1055936674/testing-temperature-with-your-ears">Testing temperature with your ears</a> NPR: Chefs in Japan dip a wet chopstick in hot oil and listen to the sizzle, to know when it's ready for tempura. A physicist investigated that technique in the lab to zero in on the perfect fry frequency. 
  <p class="updated_time"> 03:34 PM CT, Nov. 15 </p> 
@@ -230,10 +232,10 @@ permalink: /projects/news/
 
  <p class="updated_time"> 09:41 PM CT, Nov. 15 </p> 
  <a href="https://www.politico.com/news/2021/11/15/social-spending-bill-tensions-democrats-522670">Tensions abate as Dems await cost of social spending bill</a> Politico: Progressives and moderates seem to have reached a tentative peace as they look towards a vote at the end of the week. 
+ <p class="updated_time"> 09:14 PM CT, Nov. 15 </p> 
+ <a href="https://www.cnn.com/2021/11/15/politics/january-6-committee-meadows/index.html">January 6 committee expected to discuss how to deal with Meadows in Tuesday meeting</a> CNN: The House select committee investigating the January 6 attack on the US Capitol had yet to come to a consensus as of Monday night on dealing with former Trump White House chief of staff Mark Meadows' lack of compliance. 
  <p class="updated_time"> 09:11 PM CT, Nov. 15 </p> 
  <a href="https://www.politico.com/news/2021/11/15/moderna-vaccines-lower-income-countries-522673">Moderna nears deal to pledge more vaccines to lower-income countries</a> Politico: After much criticism, the vaccine maker is close to an agreement to provide doses at a lower price to the global vaccine equity initiative. 
- <p class="updated_time"> 08:47 PM CT, Nov. 15 </p> 
- <a href="https://www.cnn.com/2021/11/15/politics/january-6-committee-meadows/index.html">January 6 committee expected to discuss how to deal with Meadows in Tuesday meeting</a> CNN: The House select committee investigating the January 6 attack on the US Capitol had yet to come to a consensus as of Monday night on dealing with former Trump White House chief of staff Mark Meadows' lack of compliance. 
  <p class="updated_time"> 08:43 PM CT, Nov. 15 </p> 
  <a href="https://www.cnn.com/2021/11/15/politics/donald-trump-peter-meijer-impeachment-endorsement/index.html">Trump endorses primary opponent to Michigan Republican who voted for impeachment earlier this year </a> CNN: Former President Donald Trump on Monday endorsed a primary challenger running against Republican Rep. Peter Meijer of Michigan in his latest effort to oust the GOP lawmakers who voted to impeach him earlier this year. 
  <p class="updated_time"> 08:43 PM CT, Nov. 15 </p> 
