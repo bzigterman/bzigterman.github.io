@@ -7,12 +7,14 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 01:44 AM CT, Nov. 16 </p> 
+ <a href="https://www.nytimes.com/live/2021/11/15/world/biden-xi-summit">Biden and Xi Discuss Taiwan, Trade and Human Rights: Live Updates</a> NYT: President Biden and China’s leader, Xi Jinping, met for about three and a half hours. U.S. officials said the talks were meant to reassure both sides that misunderstandings would not lead to unintended clashes. 
+ <p class="updated_time"> 01:44 AM CT, Nov. 16 </p> 
+ <a href="https://www.nytimes.com/2021/11/15/world/europe/uk-taxi-explosion-liverpool.html">Liverpool Explosion: Blast Is Declared a Terrorist Act</a> NYT: Local leaders praised the driver as a hero, saying that he may have prevented a bigger calamity. He escaped the burning vehicle and locked the doors, trapping a passenger carrying explosives inside. 
  <p class="updated_time"> 01:27 AM CT, Nov. 16 </p> 
  <a href="https://www.npr.org/2021/11/16/1055944979/biden-and-chinas-xi-strike-respectful-tone-in-video-chat-amid-tension">Biden and China's Xi strike 'respectful' tone in video chat amid tension</a> NPR: The meeting lasted more than three hours as the two sides sought to make sure their competition does not turn into conflict 
  <p class="updated_time"> 01:16 AM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/15/world/canada/british-columbia-landslides-rain.html">Hundreds Rescued After Landslides Pummel British Columbia</a> NYT: Helicopter search crews rescued people who had been trapped in their cars along highways. Heavy rainfall extended into nearby Washington State. 
- <p class="updated_time"> 12:56 AM CT, Nov. 16 </p> 
- <a href="https://www.nytimes.com/live/2021/11/15/world/biden-xi-summit">Biden and Xi Discuss Taiwan, Trade and Human Rights: Live Updates</a> NYT: President Biden and China’s leader, Xi Jinping, met for about three and a half hours. U.S. officials said the talks were meant to reassure both sides that misunderstandings would not lead to unintended clashes. 
  <p class="updated_time"> 12:37 AM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/15/world/asia/myanmar-danny-fenster-release.html">U.S. Journalist Danny Fenster Is Freed From Myanmar Prison</a> NYT: The release was a rare positive development in the country, which has been torn by violence since a February coup. 
  <p class="updated_time"> 12:30 AM CT, Nov. 16 </p> 
@@ -107,8 +109,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/cubas-government-deploys-security-forces-to-prevent-protest-11637008806">Cuba's Government Deploys Security Forces to Prevent Protest</a> WSJ: Police officers flooded streets in Havana and other cities and detained some activists, and the government stationed police and civilian militants at the homes of pro-democracy organizers to keep them from taking action. 
  <p class="updated_time"> 11:34 AM CT, Nov. 15 </p> 
  <a href="https://www.npr.org/2021/11/15/1055849927/india-air-pollution-new-delhi-city-wide-lockdown">New Delhi's air pollution is so bad, officials are calling for a citywide lockdown</a> NPR: New Delhi's schools are already closed this week because of air pollution that has been about four times the safe limit. 
- <p class="updated_time"> 11:02 AM CT, Nov. 15 </p> 
- <a href="https://www.nytimes.com/2021/11/15/world/europe/uk-taxi-explosion-liverpool.html">Liverpool Explosion: Blast Is Declared a Terrorist Act</a> NYT: Local leaders praised the driver as a hero, saying that he may have prevented a bigger calamity. He escaped the burning vehicle and locked the doors, trapping a passenger carrying explosives inside. 
  <p class="updated_time"> 10:24 AM CT, Nov. 15 </p> 
  <a href="https://www.npr.org/2021/11/15/1055831581/health-workers-in-china-are-killing-pets-while-their-owners-are-in-quarantine">Health workers in China are killing pets while their owners are in quarantine</a> NPR: Local health workers in some Chinese cities are breaking into people's homes and killing their pets while the owners are in quarantine, prompting outrage online. 
  <p class="updated_time"> 10:23 AM CT, Nov. 15 </p> 
