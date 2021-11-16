@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:58 AM CT, Nov. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/business-59306223?at_medium=RSS&at_campaign=KARANGA">Nord Stream 2: Gas prices soar after setback for Russian pipeline</a> BBC: Gas prices surge 17% after German regulators suspend approval of the Nord Stream 2 project. 
  <p class="updated_time"> 11:33 AM CT, Nov. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59308602?at_medium=RSS&at_campaign=KARANGA">Armenian troops killed in Azerbaijan border clash</a> BBC: Armenia asks ally Russia to intervene after a flare-up of violence on the border with Azerbaijan. 
  <p class="updated_time"> 11:32 AM CT, Nov. 16 </p> 
@@ -67,16 +69,14 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/16/business/jamie-dimon-hong-kong-quarantine.html">Hong Kong Exempts Jamie Dimon, JPMorgan's C.E.O., From Quarantine</a> NYT: The exemption for Jamie Dimon, who was in town to meet with employees and regulators, was “justified to facilitate a short visit” of about 30 hours, a government spokesman said. 
  <p class="updated_time"> 07:06 AM CT, Nov. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59302919?at_medium=RSS&at_campaign=KARANGA">Poland border crisis: Migrants tear-gassed trying to cross from Belarus</a> BBC: Poland's defence ministry says migrants were throwing stones and trying to destroy a border fence. 
- <p class="updated_time"> 06:44 AM CT, Nov. 16 </p> 
- <a href="https://www.bbc.co.uk/news/business-59306223?at_medium=RSS&at_campaign=KARANGA">Nord Stream 2: Germany halts approval of Russian gas link</a> BBC: Gas prices surge to three-week highs in response to the latest delay to Nord Stream 2. 
- <p class="updated_time"> 06:14 AM CT, Nov. 16 </p> 
+ <p class="updated_time"> 06:51 AM CT, Nov. 16 </p> 
  <a href="https://www.wsj.com/articles/it-is-a-very-large-bankhong-kong-defends-letting-jamie-dimon-skip-quarantine-11637065381">Hong Kong Defends Letting Jamie Dimon Skip Quarantine</a> WSJ: A whirlwind visit by JPMorgan’s chief executive came just after the city tightened its Covid-19 restrictions 
+ <p class="updated_time"> 06:43 AM CT, Nov. 16 </p> 
+ <a href="https://www.wsj.com/articles/ugandan-capital-kampala-hit-by-twin-explosions-11637054105">Islamic State Ally Blamed for Deadly Bombings in Ugandan Capital</a> WSJ: Two powerful explosions ripped through the center of Uganda’s capital, including outside the country’s Parliament, in what police said was a terrorist attack carried out by a local ally of Islamic State. 
  <p class="updated_time"> 06:06 AM CT, Nov. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59297292?at_medium=RSS&at_campaign=KARANGA">Kamiti escape: Manhunt under way after 'dangerous' Islamists flee Kenya prison</a> BBC: Seven wardens have been arrested after three men escape a maximum-security facility near Nairobi. 
  <p class="updated_time"> 05:14 AM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/world/asia/covid-corgi-clubbing.html">Pet Corgi Beaten on Video by Covid Team, Stirring Fury in China</a> NYT: A security camera in a quarantined resident’s apartment recorded the workers pursuing the dog, which was later culled. 
- <p class="updated_time"> 05:13 AM CT, Nov. 16 </p> 
- <a href="https://www.wsj.com/articles/ugandan-capital-kampala-hit-by-twin-explosions-11637054105">Islamic State Ally Blamed for Deadly Bombings in Ugandan Capital</a> WSJ: Two powerful explosions ripped through the center of Uganda’s capital, including outside the country’s Parliament, in what police said was a terrorist attack carried out by a local ally of Islamic State. 
  <p class="updated_time"> 05:12 AM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/15/world/europe/belarus-poland-eu-sanctions-migrants.html">Europe Adopts New Sanctions Against Belarus</a> NYT: A confrontation at the Polish-Belarusian border, a funeral for a dead Syrian boy trapped in between and a new round of E.U. sanctions mark the struggle with Aleksandr G. Lukashenko. 
  <p class="updated_time"> 04:00 AM CT, Nov. 16 </p> 
@@ -214,6 +214,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 12:14 PM CT, Nov. 16 </p> 
  <a href="https://www.politico.com/news/2021/11/16/pete-buttigieg-infrastructure-cash-gop-522655">Secretary Pete careening toward a GOP buzzsaw over infrastructure cash</a> Politico: "A lot of people will be looking for problems with how this money is spent," one Democratic strategist warned. 
+ <p class="updated_time"> 12:01 PM CT, Nov. 16 </p> 
+ <a href="https://www.cnn.com/2021/11/16/politics/us-air-force-rescue-mission/index.html">US Air Force team rescues man having heart attack on board cargo ship in Indian Ocean </a> CNN: A US Air Force team based in Africa rescued a British citizen who had suffered a heart attack on board an American cargo ship in the Indian Ocean this weekend, according to the US military. 
  <p class="updated_time"> 11:55 AM CT, Nov. 16 </p> 
  <a href="https://www.politico.com/news/2021/11/16/fbi-cyberattack-reporting-bill-522699">FBI left out of the loop in cyberattack reporting bill</a> Politico: The Biden administration is "troubled" by legislation that would require companies to report cyberattacks to the Department of Homeland Security but not the FBI. 
  <p class="updated_time"> 11:36 AM CT, Nov. 16 </p> 
@@ -235,7 +237,7 @@ permalink: /projects/news/
  <p class="updated_time"> 10:56 AM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/us/politics/zalmay-khalilzad-afghanistan-war.html">Zalmay Khalilzad Battles Critics in U.S. and Afghanistan</a> NYT: Zalmay Khalilzad, who stepped down as the envoy for Afghanistan after the U.S. exit, has defended the deal he negotiated with the Taliban during the Trump administration. 
  <p class="updated_time"> 10:52 AM CT, Nov. 16 </p> 
- <a href="https://www.cnn.com/2021/11/16/politics/aduhelm-alzheimer-medicare-increase/index.html">How one new Alzheimer's drug is pushing up Medicare premiums</a> CNN: When the US Food and Drug Administration approved a costly new drug for Alzheimer's disease, Aduhelm, earlier this year, experts warned that all of Medicare's more than 63 million enrollees could wind up paying the price. 
+ <a href="https://www.cnn.com/2021/11/16/politics/aduhelm-alzheimer-medicare-increase/index.html">Aduhelm, priced at $56,000 a year, is a key factor driving up Medicare premiums</a> CNN: When the US Food and Drug Administration approved a costly new drug for Alzheimer's disease, Aduhelm, earlier this year, experts warned that all of Medicare's more than 63 million enrollees could wind up paying the price. 
  <p class="updated_time"> 10:29 AM CT, Nov. 16 </p> 
  <a href="https://www.cnn.com/2021/11/16/politics/americans-abortion-roe-v-wade-poll/index.html">Majority of Americans support Roe v. Wade being upheld, new poll shows</a> CNN: A majority of Americans support the US Supreme Court upholding its landmark decision in Roe v. Wade guaranteeing a constitutional right to abortion, according to a new ABC News/Washington Post poll. 
  <p class="updated_time"> 10:11 AM CT, Nov. 16 </p> 
@@ -282,8 +284,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/15/us/politics/blinken-africa-ethiopia.html">Blinken Heads to Africa as U.S. Tries to Avert Ethiopia Disaster</a> NYT: The conflict between rebels and the country’s government has already featured numerous alleged atrocities, and experts say it threatens the stability of all of East Africa. 
  <p class="updated_time"> 10:47 PM CT, Nov. 15 </p> 
  <a href="https://www.cnn.com/2021/11/15/politics/biden-approval-infrastructure-what-matters/index.html">Americans are not hearing Joe Biden right now</a> CNN: If Joe Biden built a road in a quiet forest, would anyone know about it? 
- <p class="updated_time"> 10:46 PM CT, Nov. 15 </p> 
- <a href="https://www.cnn.com/2021/11/15/politics/russia-anti-satellite-weapon-test-scn/index.html">US says it 'won't tolerate' Russia's 'reckless and dangerous' anti-satellite missile test</a> CNN: The US is concerned that Russia carried out a major anti-satellite weapons test over the weekend, two US officials told CNN. One of the officials said it may have created a potentially dangerous debris field in space. 
  <p class="updated_time"> 09:41 PM CT, Nov. 15 </p> 
  <a href="https://www.politico.com/news/2021/11/15/social-spending-bill-tensions-democrats-522670">Tensions abate as Dems await cost of social spending bill</a> Politico: Progressives and moderates seem to have reached a tentative peace as they look towards a vote at the end of the week. 
  <p class="updated_time"> 09:31 PM CT, Nov. 15 </p> 
@@ -400,8 +400,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/14/schumer-schedule-reconciliation-bill-521931">Senate likely to take up social spending bill in December as Dem slog continues</a> Politico: “On a bill of this magnitude, this process takes time and patience,” Chuck Schumer said. 
  <p class="updated_time"> 08:46 AM CT, Nov. 14 </p> 
  <a href="https://www.politico.com/news/2021/11/14/samantha-power-usaid-future-515606">Power moves: Samantha Power’s celebrity draws spotlight to USAID — and questions about her future</a> Politico: The longtime human rights crusader is energizing an agency few Americans know about, while fueling speculation about her next step. 
- <p class="updated_time"> 07:01 AM CT, Nov. 14 </p> 
- <a href="https://www.politico.com/news/2021/11/14/gop-trump-pennsylvania-suburbs-521655">GOP roars back to life in Trump-resistant Pennsylvania suburbs</a> Politico: The Republican rebound suggests the Democratic suburban slide reaches beyond Virginia and New Jersey. 
  <p class="updated_time"> 07:02 PM CT, Nov. 13 </p> 
  <a href="https://www.politico.com/news/2021/11/13/climate-talks-glasgow-521720">The U.S. turns up the heat at climate talks</a> Politico: After four years of taking a backseat role under Donald Trump, the Biden team was a driving force at the Glasgow COP26 talks. But winning a strong global agreement remains difficult. 
  <p class="updated_time"> 04:23 PM CT, Nov. 13 </p> 
