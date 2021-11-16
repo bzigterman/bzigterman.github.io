@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:39 AM CT, Nov. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/world-africa-59302917?at_medium=RSS&at_campaign=KARANGA">Kampala blasts: Explosions hit Ugandan capital</a> BBC: At least 24 people are injured in the blasts near parliament and the city's police HQ. 
  <p class="updated_time"> 04:35 AM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/live/2021/11/15/world/biden-xi-summit">Biden and Xi Pledge More Cooperation, but Offer No Breakthroughs</a> NYT: President Biden and China’s leader, Xi Jinping, met for about three and a half hours. U.S. officials said the talks were meant to reassure both sides that misunderstandings would not lead to unintended clashes. 
  <p class="updated_time"> 04:00 AM CT, Nov. 16 </p> 
@@ -25,8 +27,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/15/us/arkansas-boosters-adults-covid.html">Arkansas Opens Boosters to All Adults as Regulators Weigh Expansion</a> NYT: Arkansas joined Colorado, New Mexico and California in making all adults eligible for an additional vaccine dose. 
  <p class="updated_time"> 03:17 AM CT, Nov. 16 </p> 
  <a href="https://www.bbc.co.uk/sport/formula1/59298238?at_medium=RSS&at_campaign=KARANGA">Formula 1: Guanyu Zhou becomes first Chinese driver after signing for Alfa Romeo</a> BBC: Guanyu Zhou becomes Formula 1's first Chinese driver after signing to race for Alfa Romeo in 2022. 
- <p class="updated_time"> 03:14 AM CT, Nov. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-africa-59302917?at_medium=RSS&at_campaign=KARANGA">Kampala blasts: Explosions hit Ugandan capital</a> BBC: There are fears people may have been killed in the blasts near parliament and the city's police HQ. 
  <p class="updated_time"> 02:49 AM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/15/world/canada/british-columbia-landslides-rain.html">Hundreds Rescued After Landslides Pummel British Columbia</a> NYT: Helicopter search crews rescued people who had been trapped in their cars along highways. Heavy rainfall extended into nearby Washington State. 
  <p class="updated_time"> 02:36 AM CT, Nov. 16 </p> 
