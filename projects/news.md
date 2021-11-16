@@ -7,7 +7,7 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 01:44 AM CT, Nov. 16 </p> 
+ <p class="updated_time"> 01:58 AM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/live/2021/11/15/world/biden-xi-summit">Biden and Xi Discuss Taiwan, Trade and Human Rights: Live Updates</a> NYT: President Biden and China’s leader, Xi Jinping, met for about three and a half hours. U.S. officials said the talks were meant to reassure both sides that misunderstandings would not lead to unintended clashes. 
  <p class="updated_time"> 01:44 AM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/15/world/europe/uk-taxi-explosion-liverpool.html">Liverpool Explosion: Blast Is Declared a Terrorist Act</a> NYT: Local leaders praised the driver as a hero, saying that he may have prevented a bigger calamity. He escaped the burning vehicle and locked the doors, trapping a passenger carrying explosives inside. 
@@ -253,7 +253,7 @@ permalink: /projects/news/
  <p class="updated_time"> 08:02 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/us/politics/biden-signs-infrastructure-bill.html">Biden Signs $1 Trillion Infrastructure Bill Into Law</a> NYT: Billions of dollars will now pour into American communities, although the final package falls short of the president’s ambitions. 
  <p class="updated_time"> 08:00 PM CT, Nov. 15 </p> 
- <a href="https://www.politico.com/news/2021/11/15/biden-xi-begin-virtual-meeting-522647">Biden and China's Xi hold 'expansive and substantive' virtual meeting</a> Politico: In the opening minutes, Biden warned of the hazards of unchecked bilateral competition. 
+ <a href="https://www.politico.com/news/2021/11/15/biden-xi-begin-virtual-meeting-522647">Biden and China's Xi hold 'expansive and substantive' virtual meeting</a> Politico: A “respectful and open” dialogue aims for tone shift in bilateral relationship. 
  <p class="updated_time"> 07:50 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/us/politics/biden-china-xi-jinping.html">Biden and Xi meet amid economic and military tensions.</a> NYT: U.S. officials said the virtual summit on Monday was intended to reassure both sides that misunderstandings would not lead to unintended clashes. 
  <p class="updated_time"> 07:44 PM CT, Nov. 15 </p> 
