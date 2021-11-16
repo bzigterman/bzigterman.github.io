@@ -7,6 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 09:14 AM CT, Nov. 16 </p> 
+ <a href="https://www.nytimes.com/2021/11/15/world/europe/europe-vaccine.html">Europe Toughens Rules for Unvaccinated as Fourth Covid Wave Swells</a> NYT: Austria took the hardest line yet on Monday, beginning a lockdown aimed exclusively at those who are not inoculated, part of a pattern to make life harder for resisters. 
+ <p class="updated_time"> 09:07 AM CT, Nov. 16 </p> 
+ <a href="https://www.nytimes.com/2021/11/15/world/canada/british-columbia-landslides-rain.html">Hundreds Rescued After Mudslides Pummel British Columbia</a> NYT: Helicopter search crews rescued people who had been trapped in their cars along highways. Heavy rainfall extended into nearby Washington State. 
+ <p class="updated_time"> 09:03 AM CT, Nov. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59307350?at_medium=RSS&at_campaign=KARANGA">Poland border crisis: Scene of chaos as soldiers deploy water cannon</a> BBC: The BBC's Steve Rosenberg reports as Polish forces fire water cannon at migrants throwing rocks. 
+ <p class="updated_time"> 09:00 AM CT, Nov. 16 </p> 
+ <a href="https://www.npr.org/2021/11/16/1056115953/russia-missile-satellite-astronaut-space-station-junk">A Russian missile creates enough space junk to pose risk to astronauts for years</a> NPR: The U.S. condemned the test, which blasted a cloud of debris into orbit, forcing astronauts aboard the ISS to spend two hours inside spacecraft that could return them to Earth in an emergency. 
+ <p class="updated_time"> 08:56 AM CT, Nov. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59308602?at_medium=RSS&at_campaign=KARANGA">Armenia loses positions in deadly border clash</a> BBC: A number of troops are killed and captured in a flare-up of violence on the border with Azerbaijan. 
  <p class="updated_time"> 08:48 AM CT, Nov. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59302917?at_medium=RSS&at_campaign=KARANGA">Kampala blasts: Suicide bombers target Ugandan capital</a> BBC: At least three people are killed in the blasts near parliament and the city's police HQ. 
  <p class="updated_time"> 08:45 AM CT, Nov. 16 </p> 
@@ -15,8 +25,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/world-asia-59300015?at_medium=RSS&at_campaign=KARANGA">Aung San Suu Kyi being treated well: Myanmar army</a> BBC: Aung San Suu Kyi has not been seen in public since a coup removed her from office in February. 
  <p class="updated_time"> 08:33 AM CT, Nov. 16 </p> 
  <a href="https://www.npr.org/2021/11/16/1055131668/shipping-container-demand-supply-chain-delay">The pandemic economy's latest victim? The lowly shipping container</a> NPR: Delayed containers are a symptom of and contributor to global supply chain problems. But imagine a world without them. 
- <p class="updated_time"> 08:17 AM CT, Nov. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59308602?at_medium=RSS&at_campaign=KARANGA">Armenia loses positions in deadly border clash</a> BBC: A number of troops are killed in a flare-up of violence on the Armenian border with Azerbaijan. 
  <p class="updated_time"> 08:10 AM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/world/europe/poland-belarus-border-crisis.html">Poland Uses Water Cannons and Tear Gas as Tensions Rise at Belarus Border</a> NYT: Western leaders have accused President Aleksandr G. Lukashenko of Belarus of using migrants as weapons in an effort to pressure the European Union. 
  <p class="updated_time"> 08:08 AM CT, Nov. 16 </p> 
@@ -33,8 +41,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/15/us/politics/biden-china-xi-jinping.html">Biden and Xi meet amid economic and military tensions.</a> NYT: U.S. officials said the virtual summit on Monday was intended to reassure both sides that misunderstandings would not lead to unintended clashes. 
  <p class="updated_time"> 07:06 AM CT, Nov. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-europe-59302919?at_medium=RSS&at_campaign=KARANGA">Poland border crisis: Migrants tear-gassed trying to cross from Belarus</a> BBC: Poland's defence ministry says migrants were throwing stones and trying to destroy a border fence. 
- <p class="updated_time"> 07:02 AM CT, Nov. 16 </p> 
- <a href="https://www.nytimes.com/2021/11/15/world/europe/europe-vaccine.html">Europe Toughens Rules for Unvaccinated as Fourth Covid Wave Swells</a> NYT: Austria took the hardest line yet on Monday, beginning a lockdown aimed exclusively at those who are not inoculated, part of a pattern to make life harder for resisters. 
  <p class="updated_time"> 06:44 AM CT, Nov. 16 </p> 
  <a href="https://www.bbc.co.uk/news/business-59306223?at_medium=RSS&at_campaign=KARANGA">Nord Stream 2: Germany halts approval of Russian gas link</a> BBC: Gas prices surge to three-week highs in response to the latest delay to Nord Stream 2. 
  <p class="updated_time"> 06:06 AM CT, Nov. 16 </p> 
@@ -59,8 +65,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/16/world/europe/moscow-face-pay-technology-privacy.html">In Moscow’s Technological Advances, a ‘Double-Edged Sword’</a> NYT: The latest example is Face Pay, which replaces a Metro card with facial recognition. It may be advanced, but activists are sounding the alarm on privacy issues. 
  <p class="updated_time"> 03:17 AM CT, Nov. 16 </p> 
  <a href="https://www.bbc.co.uk/sport/formula1/59298238?at_medium=RSS&at_campaign=KARANGA">Formula 1: Guanyu Zhou becomes first Chinese driver after signing for Alfa Romeo</a> BBC: Guanyu Zhou becomes Formula 1's first Chinese driver after signing to race for Alfa Romeo in 2022. 
- <p class="updated_time"> 02:49 AM CT, Nov. 16 </p> 
- <a href="https://www.nytimes.com/2021/11/15/world/canada/british-columbia-landslides-rain.html">Hundreds Rescued After Landslides Pummel British Columbia</a> NYT: Helicopter search crews rescued people who had been trapped in their cars along highways. Heavy rainfall extended into nearby Washington State. 
  <p class="updated_time"> 02:36 AM CT, Nov. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-australia-59301237?at_medium=RSS&at_campaign=KARANGA">Australia outback rescue: Family safe after stranded for four days</a> BBC: The couple and two children became stranded when their campervan got bogged in mud. 
  <p class="updated_time"> 02:09 AM CT, Nov. 16 </p> 
@@ -151,8 +155,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/15/1055803038/new-zealand-maori-tribe-vaccine-protesters-haka">New Zealand Maori tribe demands vaccine protesters stop performing haka dance</a> NPR: The Ngati Toa, a Maori tribe whose version of the intimidating display has been popularized by New Zealand's All Blacks rugby team, says it supports COVID-19 vaccinations. 
  <p class="updated_time"> 08:58 AM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/14/world/europe/austria-unvaccinated-lockdown.html">Austria to Target the Unvaccinated in New Lockdown</a> NYT: The country, facing the biggest surge in virus cases since the pandemic started, is putting strict curbs on the movement of those without shots. 
- <p class="updated_time"> 08:24 AM CT, Nov. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59287526?at_medium=RSS&at_campaign=KARANGA">Poland border crisis: Tense stand-off with hundreds of migrants</a> BBC: The BBC's Steve Rosenberg reports from a border crossing where Polish troops are blocking hundreds of migrants. 
  <p class="updated_time"> 06:52 AM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/world/asia/duterte-philippines-election.html">Rodrigo Duterte to Run for Senate in the Philippines</a> NYT: Rodrigo Duterte entered the race days after his daughter announced her bid for vice president. He had previously said he would leave politics at the end of his term. 
  <p class="updated_time"> 06:29 AM CT, Nov. 15 </p> 
@@ -163,8 +165,6 @@ permalink: /projects/news/
  <a href="https://www.bbc.co.uk/news/science-environment-59263761?at_medium=RSS&at_campaign=KARANGA">COP26: How might decisions at the climate summit change our lives?</a> BBC: The changes made at COP26 in Glasgow could have implications for the way we live. 
  <p class="updated_time"> 05:40 AM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/14/world/europe/liverpool-hospital-car-explosion.html">Taxi Explodes Outside Liverpool Hospital, Killing One</a> NYT: Three men in their twenties were arrested under Britain’s Terrorism Act several hours after the explosion, in which a second person was injured, the authorities said. 
- <p class="updated_time"> 04:28 AM CT, Nov. 15 </p> 
- <a href="https://www.npr.org/2021/11/15/1055753386/u-s-journalist-is-freed-from-myanmar-prison-with-ex-diplomat-richardsons-help">U.S. journalist is freed from Myanmar prison with ex-diplomat Richardson's help</a> NPR: Former U.S. Ambassador to the U.N. Bill Richardson said in a statement that Danny Fenster had been handed over to him in Myanmar and would return to the U.S. via Qatar over the next day and a half. 
  <p class="updated_time"> 04:00 AM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/world/asia/adult-diapers-japan.html">A New Source of Fuel in an Aging Japan: Adult Incontinence</a> NYT: Waste from adult diapers is growing by tens of thousands of tons a year in Japan. One town may have a solution: recycle it into fuel pellets. 
  <p class="updated_time"> 01:34 AM CT, Nov. 15 </p> 
@@ -216,6 +216,8 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 10:08 AM CT, Nov. 16 </p> 
+ <a href="https://www.politico.com/news/2021/11/16/jackie-speier-retiring-congress-522690">Rep. Jackie Speier retiring from Congress</a> Politico: The California Democrat was first elected in 2008. 
  <p class="updated_time"> 08:14 AM CT, Nov. 16 </p> 
  <a href="https://www.cnn.com/2021/11/16/politics/donald-trump-steve-bannon-january-6-probe/index.html">Bannon's circus undercuts January 6 probe's hardline legal strategy</a> CNN: The House January 6 investigation hoped to send a fear-inducing message deep into Donald Trump's inner circle by opening the way to the prosecution of Steve Bannon. 
  <p class="updated_time"> 07:33 AM CT, Nov. 16 </p> 
@@ -251,7 +253,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:00 AM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/us/politics/zalmay-khalilzad-afghanistan-war.html">Zalmay Khalilzad Battles Critics in U.S. and Afghanistan</a> NYT: Zalmay Khalilzad, who stepped down as the envoy for Afghanistan after the U.S. exit, has defended the deal he negotiated with the Taliban during the Trump administration. 
  <p class="updated_time"> 04:00 AM CT, Nov. 16 </p> 
- <a href="https://www.nytimes.com/2021/11/16/us/politics/infrastructure-bill-racial-equity.html">U.S. Goal of Racial Equity in Infrastructure Is Left to States</a> NYT: The decision about how to spend the money falls largely to state governments, raising questions about whether the package can live up to its ambition. 
+ <a href="https://www.nytimes.com/2021/11/16/us/politics/racial-equity-states-government.html">US Goal of Racial Equity in Infrastructure Is Left to States</a> NYT: The decision about how to spend the money falls largely to state governments, raising questions about whether the package can live up to its ambition. 
  <p class="updated_time"> 01:27 AM CT, Nov. 16 </p> 
  <a href="https://www.npr.org/2021/11/16/1055944979/biden-and-chinas-xi-strike-respectful-tone-in-video-chat-amid-tension">Biden and China's Xi strike 'respectful' tone in video chat amid tension</a> NPR: The meeting lasted more than three hours as the two sides sought to make sure their competition does not turn into conflict 
  <p class="updated_time"> 12:41 AM CT, Nov. 16 </p> 
@@ -404,8 +406,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/14/samantha-power-usaid-future-515606">Power moves: Samantha Power’s celebrity draws spotlight to USAID — and questions about her future</a> Politico: The longtime human rights crusader is energizing an agency few Americans know about, while fueling speculation about her next step. 
  <p class="updated_time"> 08:06 AM CT, Nov. 14 </p> 
  <a href="https://www.cnn.com/2021/11/14/politics/biden-approval-rating/index.html">Analysis: Can Biden revive his popularity in time for midterm elections? </a> CNN: From Virginia to New Jersey, Democratic election woes this month had a common thread: the unpopularity of President Joe Biden. 
- <p class="updated_time"> 07:01 AM CT, Nov. 14 </p> 
- <a href="https://www.politico.com/news/2021/11/14/gop-trump-pennsylvania-suburbs-521655">GOP roars back to life in Trump-resistant Pennsylvania suburbs</a> Politico: The Republican rebound suggests the Democratic suburban slide reaches beyond Virginia and New Jersey. 
  <p class="updated_time"> 08:29 PM CT, Nov. 13 </p> 
  <a href="https://www.politico.com/news/2021/11/13/coalglasgow-climate-deal-521802">The last-minute coal demand that almost sunk the Glasgow climate deal</a> Politico: At issue was a late push from China and India. 
  <p class="updated_time"> 07:02 PM CT, Nov. 13 </p> 
