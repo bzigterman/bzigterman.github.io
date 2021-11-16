@@ -7,8 +7,16 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 03:11 PM CT, Nov. 16 </p> 
+ <p class="updated_time"> 03:27 PM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/world/europe/poland-belarus-border-crisis.html">Melee Erupts Between Migrants in Belarus and Polish Border Forces</a> NYT: Poland used water cannons to drive back migrants who tried to rush the border. Belarus forces took some migrants to shelter for the first time, but it was unclear if that meant tensions would ease. 
+ <p class="updated_time"> 03:20 PM CT, Nov. 16 </p> 
+ <a href="https://www.npr.org/2021/11/16/1056263641/as-migrants-travel-to-the-u-s-the-u-s-tries-to-stop-them-south-of-the-border">As migrants travel to the U.S., the U.S. tries to stop them south of the border</a> NPR: NPR's Ailsa Chang speaks with journalists Maria Hinojosa and Julieta Martinelli about their reporting in Mexico and Colombia on the policies designed to stop migrants from reaching the U-S border. 
+ <p class="updated_time"> 03:20 PM CT, Nov. 16 </p> 
+ <a href="https://www.npr.org/2021/11/16/1056263606/afghanistan-is-on-the-brink-of-a-hunger-catastrophe-according-to-a-new-un-report">Afghanistan is on the brink of a hunger catastrophe, according to a new UN report</a> NPR: NPR's Audie Cornish talks with Richard Trenchard, the Food and Agriculture Organization of the United Nations' representative in Afghanistan, about a worsening hunger crisis there. 
+ <p class="updated_time"> 03:20 PM CT, Nov. 16 </p> 
+ <a href="https://www.npr.org/2021/11/16/1056263589/haiti-gang-leader-calls-a-temporary-truce-to-let-gasoline-trucks-service-station">Haiti gang leader calls a temporary truce to let gasoline trucks service stations</a> NPR: A gang leader in Haiti has called a week-long truce and says he will let vital gasoline trucks service stations around the country. Gas shortages have brought Haiti to a near halt. 
+ <p class="updated_time"> 03:20 PM CT, Nov. 16 </p> 
+ <a href="https://www.npr.org/2021/11/16/1056263575/gazans-are-still-coping-with-the-trauma-of-the-war-with-israel-in-may">Gazans are still coping with the trauma of the war with Israel in May</a> NPR: When a rocket hit their building during the war between Hamas and Israel, a Gaza therapist calmed his family with breathing exercises — and then started treating the rest of his neighbors for trauma. 
  <p class="updated_time"> 02:48 PM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/15/world/asia/myanmar-danny-fenster-release.html">U.S. Journalist Danny Fenster Is Freed From Myanmar Prison</a> NYT: The release was a rare positive development in the country, which has been torn by violence since a February coup. 
  <p class="updated_time"> 02:30 PM CT, Nov. 16 </p> 
@@ -149,16 +157,8 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/15/1055936653/the-age-of-gas-cars-could-be-ending">The age of gas cars could be ending</a> NPR: A few years ago, an end to gasoline-powered cars was a pie-in-the-sky dream for environmentalists. Now, the push to phase out gas cars shows an understanding of the urgency to act on climate change. 
  <p class="updated_time"> 03:20 PM CT, Nov. 15 </p> 
  <a href="https://www.npr.org/2021/11/15/1055936646/debris-from-russias-antisatellite-weapons-test-is-a-hazard-for-iss-astronauts">Debris from Russia's antisatellite weapons test is a hazard for ISS astronauts</a> NPR: Russia has conducted an antisatellite weapons test. The resulting debris field has forced astronauts on the International Space Station to take shelter while the debris flies by in orbit. 
- <p class="updated_time"> 03:20 PM CT, Nov. 15 </p> 
- <a href="https://www.npr.org/2021/11/15/1055936632/with-american-journalist-danny-fenster-released-whats-next-for-u-s-and-myanmar">With American journalist Danny Fenster released, what's next for U.S. and Myanmar?</a> NPR: NPR's Ailsa Chang talks with Zachary Abuza, Southeast Asia expert and National War College professor, about the White House's options following Myanmar's release of American journalist Danny Fenster. 
- <p class="updated_time"> 03:20 PM CT, Nov. 15 </p> 
- <a href="https://www.npr.org/2021/11/15/1055936604/president-biden-and-chinas-xi-set-to-have-their-1st-formal-meeting-as-leaders">President Biden and China's Xi set to have their 1st formal meeting as leaders</a> NPR: Monday night, President Biden and Chinese leader Xi Jinping will hold a virtual summit. It will be their first formal meeting since Biden became president. 
  <p class="updated_time"> 02:56 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/travel/bulgaria-narrow-gauge-railway.html">Inside the Struggle to Save Bulgaria’s Last Narrow-Gauge Railroad</a> NYT: The Rhodope Narrow-Gauge Railway serves remote communities in southwestern Bulgaria. Can longtime riders — and young enthusiasts — keep it running? 
- <p class="updated_time"> 01:01 PM CT, Nov. 15 </p> 
- <a href="https://www.npr.org/sections/coronavirus-live-updates/2021/11/15/1055839727/austria-and-germany-impose-restrictions-on-unvaccinated-people-as-covid-cases-su">Austria and Germany impose restrictions on unvaccinated people as COVID cases surge</a> NPR: Austria has placed some 2 million unvaccinated people on partial lockdown. Similar restrictions in Berlin have been placed on people who aren't fully vaccinated. 
- <p class="updated_time"> 11:34 AM CT, Nov. 15 </p> 
- <a href="https://www.npr.org/2021/11/15/1055849927/india-air-pollution-new-delhi-city-wide-lockdown">New Delhi's air pollution is so bad, officials are calling for a citywide lockdown</a> NPR: New Delhi's schools are already closed this week because of air pollution that has been about four times the safe limit. 
  <p class="updated_time"> 08:58 AM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/14/world/europe/austria-unvaccinated-lockdown.html">Austria to Target the Unvaccinated in New Lockdown</a> NYT: The country, facing the biggest surge in virus cases since the pandemic started, is putting strict curbs on the movement of those without shots. 
  <p class="updated_time"> 06:52 AM CT, Nov. 15 </p> 
@@ -212,12 +212,22 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:30 PM CT, Nov. 16 </p> 
+ <a href="https://www.cnn.com/2021/11/16/politics/vaccine-mandate-osha-lottery/index.html">Ping-pong balls to determine court venue for challenges to Biden's vaccine mandate</a> CNN: Challenges to the Biden administration's vaccine mandate targeting employers with more than 100 employees will be consolidated and heard by a federal appeals court to be chosen Tuesday by a ping-pong ball lottery. 
+ <p class="updated_time"> 03:30 PM CT, Nov. 16 </p> 
+ <a href="https://www.nytimes.com/2021/11/16/us/politics/biden-pfizer-covid-pill-purchase.html">U.S. Plans to Buy Enough Pfizer Covid Treatment for 10 Million People</a> NYT: Pfizer on Tuesday asked the Food and Drug Administration to authorize its pill for high-risk, unvaccinated people. 
+ <p class="updated_time"> 03:30 PM CT, Nov. 16 </p> 
+ <a href="https://www.cnn.com/2021/11/16/politics/house-censure-vote-gosar/index.html">House plans to vote Wednesday to censure Paul Gosar and strip him of 1 committee</a> CNN: The House will vote Wednesday on a resolution that both censures Republican Rep. Paul Gosar of Arizona and removes him from the Committee on Oversight and Reform, a source familiar tells CNN. 
+ <p class="updated_time"> 03:20 PM CT, Nov. 16 </p> 
+ <a href="https://www.npr.org/2021/11/16/1056263627/rep-abigail-spanberger-talks-about-the-future-of-build-back-better">Rep. Abigail Spanberger talks about the future of Build Back Better</a> NPR: NPR's Mary Louise Kelly talks with Rep. Abigail Spanberger, D-Va., about Biden's policy agenda and the future of the social spending package, Build Back Better. 
+ <p class="updated_time"> 03:14 PM CT, Nov. 16 </p> 
+ <a href="https://www.cnn.com/2021/11/16/politics/scott-perry-covid-positive-freedom-caucus/index.html">GOP Rep. Scott Perry tests positive for Covid-19</a> CNN: Republican Rep. Scott Perry of Pennsylvania has tested positive for Covid-19, his office announced Tuesday, a day after he was elected chair of the conservative House Freedom Caucus. 
  <p class="updated_time"> 03:12 PM CT, Nov. 16 </p> 
  <a href="https://www.cnn.com/2021/11/16/politics/pfizer-covid-antiviral-pill-biden-administration-purchase/index.html">Biden administration plans to announce purchase of Pfizer's experimental Covid-19 antiviral pill</a> CNN: The Biden administration plans to purchase 10 million doses of Pfizer's experimental antiviral Covid-19 pill and is finalizing the contract now, according to a source familiar with the plans. 
  <p class="updated_time"> 03:12 PM CT, Nov. 16 </p> 
- <a href="https://www.cnn.com/2021/11/16/politics/biden-new-hampshire-infrastructure-pitch/index.html">Biden to sell his new infrastructure law at run-down New Hampshire bridge</a> CNN: President Joe Biden heads to New Hampshire on Tuesday to sell his new infrastructure law, and will stand in front of what the state calls a "structurally deficient" bridge as he outlines how the $1.2 trillion package will help repair the nation's roads and bridges. 
- <p class="updated_time"> 03:00 PM CT, Nov. 16 </p> 
- <a href="https://www.nytimes.com/2021/11/16/us/politics/biden-pfizer-covid-pill-purchase.html">U.S. Plans to Buy Enough Pfizer Covid Treatment for 10 Million People</a> NYT: Pfizer on Tuesday asked the Food and Drug Administration to authorize its pill for high-risk, unvaccinated people. 
+ <a href="https://www.cnn.com/2021/11/16/politics/biden-new-hampshire-infrastructure-pitch/index.html">Biden sells his infrastructure law at run-down New Hampshire bridge</a> CNN: President Joe Biden heads to New Hampshire on Tuesday to sell his new infrastructure law, and will stand in front of what the state calls a "structurally deficient" bridge as he outlines how the $1.2 trillion package will help repair the nation's roads and bridges. 
+ <p class="updated_time"> 03:03 PM CT, Nov. 16 </p> 
+ <a href="https://www.cnn.com/2021/11/16/politics/kristina-karamo-michigan-secretary-of-state-candidate/index.html">Trump-backed Michigan secretary of state candidate spread false election claims and January 6 conspiracy theories</a> CNN: Kristina Karamo -- the candidate Donald Trump is backing to be Michigan's next secretary of state -- has falsely claimed the former President was the true victor in Michigan in 2020 and has spread the conspiracy theory that left-wing anarchists were behind the January 6 attack on the Capitol. 
  <p class="updated_time"> 02:54 PM CT, Nov. 16 </p> 
  <a href="https://www.politico.com/news/2021/11/16/congress-biden-winter-olympics-diplomacy-522711">Lawmakers pressure Biden to bar U.S. officials from attending Beijing Olympics</a> Politico: The president is reportedly considering a diplomatic boycott of the Winter Games. 
  <p class="updated_time"> 02:25 PM CT, Nov. 16 </p> 
@@ -226,8 +236,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/16/trump-lawmakers-jan-6-lawsuit-522707">Trump says defeat in Jan. 6 lawsuit would let lawmakers ‘perpetually harass’ former presidents</a> Politico: The former president’s attorneys said the attack on the Capitol would become just one in a list of pretenses for probing White House documents. 
  <p class="updated_time"> 02:17 PM CT, Nov. 16 </p> 
  <a href="https://www.cnn.com/2021/11/16/politics/trump-congress-records/index.html">Trump warns against giving Congress too much power as he seeks to keep his White House records secret</a> CNN: Former President Donald Trump's attorneys are framing his attempt to keep secret records from his presidency as a clash between the executive and legislative branches that could give Congress lopsided power, according to Trump's argument brief in the major court case related to the House's January 6 investigation. 
- <p class="updated_time"> 02:16 PM CT, Nov. 16 </p> 
- <a href="https://www.cnn.com/2021/11/16/politics/us-air-force-rescue-mission/index.html">US Air Force team rescues man having heart attack on board cargo ship in Indian Ocean </a> CNN: A US Air Force team based in Africa rescued a British citizen who had suffered a heart attack on board an American cargo ship in the Indian Ocean this weekend, according to the US military. 
  <p class="updated_time"> 02:12 PM CT, Nov. 16 </p> 
  <a href="https://www.cnn.com/2021/11/16/politics/build-back-better-latest-cbo-score/index.html">Behind the scenes, White House works to ease concerns ahead of expected CBO score on Build Back Better plan</a> CNN: The White House and top Democrats are expecting a highly anticipated estimate from the nonpartisan Congressional Budget Office to show that their sweeping plan to expand the social safety net will fail to meet President Joe Biden's promise to not add to the federal deficit. 
  <p class="updated_time"> 02:00 PM CT, Nov. 16 </p> 
@@ -254,8 +262,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/16/politics/paul-gosar-republican-reaction/index.html">House Republicans shrug off threats of violence as Democrats prepare to punish Gosar</a> CNN: House Republicans are mostly shrugging off violent rhetoric within their ranks and vicious threats directed at some of their own members, as Democrats prepare to punish one GOP lawmaker over a graphic video depicting violence against a colleague. 
  <p class="updated_time"> 11:25 AM CT, Nov. 16 </p> 
  <a href="https://www.politico.com/news/2021/11/16/gop-curtis-extremist-climate-522696">GOP Rep. Curtis: 'Extremist' voices setting the tone for party on climate</a> Politico: “I think it’s incumbent on Republicans to join our Democratic colleagues in finding paths forward — paths forward on methane and other issues,” the Utah Republican said. 
- <p class="updated_time"> 11:15 AM CT, Nov. 16 </p> 
- <a href="https://www.cnn.com/2021/11/16/politics/vaccine-mandate-osha-lottery/index.html">Ping-pong balls to determine court venue for challenges to Biden's vaccine mandate</a> CNN: Challenges to the Biden administration's vaccine mandate targeting employers with more than 100 employees will be consolidated and heard by a federal appeals court to be chosen Tuesday by a ping-pong ball lottery. 
  <p class="updated_time"> 10:56 AM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/us/politics/zalmay-khalilzad-afghanistan-war.html">Zalmay Khalilzad Battles Critics in U.S. and Afghanistan</a> NYT: Zalmay Khalilzad, who stepped down as the envoy for Afghanistan after the U.S. exit, has defended the deal he negotiated with the Taliban during the Trump administration. 
  <p class="updated_time"> 10:52 AM CT, Nov. 16 </p> 
@@ -268,8 +274,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/15/world/asia/us-china-tensions-explained.html">U.S.-China Relations: What to Know</a> NYT: The Biden administration has called managing America’s relationship with Beijing “the biggest geopolitical test of the 21st century.” 
  <p class="updated_time"> 09:57 AM CT, Nov. 16 </p> 
  <a href="https://www.cnn.com/2021/11/16/politics/jumaane-williams-new-york-governor-bid/index.html">Jumaane Williams announced bid for New York governor</a> CNN: New York City Public Advocate Jumaane Williams announced on Tuesday he is running for governor, joining a Democratic primary that already includes Gov. Kathy Hochul, who replaced Andrew Cuomo following his resignation this summer, and New York Attorney General Letitia James. 
- <p class="updated_time"> 08:14 AM CT, Nov. 16 </p> 
- <a href="https://www.cnn.com/2021/11/16/politics/donald-trump-steve-bannon-january-6-probe/index.html">Bannon's circus undercuts January 6 probe's hardline legal strategy</a> CNN: The House January 6 investigation hoped to send a fear-inducing message deep into Donald Trump's inner circle by opening the way to the prosecution of Steve Bannon. 
  <p class="updated_time"> 07:18 AM CT, Nov. 16 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/11/16/dem-tension-breaks-but-to-do-list-looms-495115">Dem tension breaks, but to-do list looms</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:23 AM CT, Nov. 16 </p> 
@@ -289,7 +293,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:08 AM CT, Nov. 16 </p> 
  <a href="https://www.npr.org/2021/11/16/1056082050/morning-news-brief">News brief: Biden-Xi summit, Steve Bannon, Cuba thwarts protests</a> NPR: President Biden and his Chinese counterpart held a virtual meeting. Ex-Trump adviser Steve Bannon threatens vengeance after surrendering on criminal contempt charges. Cuba is crushing protest plans. 
  <p class="updated_time"> 04:08 AM CT, Nov. 16 </p> 
- <a href="https://www.npr.org/2021/11/16/1055972179/boston-first-black-mayor">Why Boston will need to wait longer for its 1st elected Black mayor</a> NPR: Asian American Michelle Wu is Boston's first elected mayor who isn't a white man. While many celebrate the milestone, others lament that all the Black candidates failed, in a city long seen as racist. 
+ <a href="https://www.npr.org/2021/11/16/1055972179/boston-first-black-mayor">Why Boston will need to wait longer for its 1st elected Black mayor</a> NPR: Asian American Michelle Wu is Boston's first elected mayor who isn't a white man. While many celebrate the milestone, others lament that all the Black candidates failed. 
  <p class="updated_time"> 01:27 AM CT, Nov. 16 </p> 
  <a href="https://www.npr.org/2021/11/16/1055944979/biden-and-chinas-xi-strike-respectful-tone-in-video-chat-amid-tension">Biden and China's Xi strike 'respectful' tone in video chat amid tension</a> NPR: The meeting lasted more than three hours as the two sides sought to make sure their competition does not turn into conflict 
  <p class="updated_time"> 12:41 AM CT, Nov. 16 </p> 
@@ -298,8 +302,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/15/takeaways-kyle-rittenhouse-trial-closings-522681">9 takeaways from the Kyle Rittenhouse trial closings</a> Politico: Attorneys in the Wisconsin murder trial sparred for the last time Monday. 
  <p class="updated_time"> 11:21 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/us/politics/blinken-africa-ethiopia.html">Blinken Heads to Africa as U.S. Tries to Avert Ethiopia Disaster</a> NYT: The conflict between rebels and the country’s government has already featured numerous alleged atrocities, and experts say it threatens the stability of all of East Africa. 
- <p class="updated_time"> 10:47 PM CT, Nov. 15 </p> 
- <a href="https://www.cnn.com/2021/11/15/politics/biden-approval-infrastructure-what-matters/index.html">Americans are not hearing Joe Biden right now</a> CNN: If Joe Biden built a road in a quiet forest, would anyone know about it? 
  <p class="updated_time"> 09:41 PM CT, Nov. 15 </p> 
  <a href="https://www.politico.com/news/2021/11/15/social-spending-bill-tensions-democrats-522670">Tensions abate as Dems await cost of social spending bill</a> Politico: Progressives and moderates seem to have reached a tentative peace as they look towards a vote at the end of the week. 
  <p class="updated_time"> 09:14 PM CT, Nov. 15 </p> 
@@ -362,14 +364,10 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/15/1055936604/president-biden-and-chinas-xi-set-to-have-their-1st-formal-meeting-as-leaders">President Biden and China's Xi set to have their 1st formal meeting as leaders</a> NPR: Monday night, President Biden and Chinese leader Xi Jinping will hold a virtual summit. It will be their first formal meeting since Biden became president. 
  <p class="updated_time"> 02:49 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/us/politics/biden-social-policy-bill-irs.html">How Revenue for Biden's Social Policy Bill Depends on the I.R.S.</a> NYT: The head of the Congressional Budget Office said on Monday that beefed-up tax enforcement would raise far less money than the White House projected. 
- <p class="updated_time"> 12:35 PM CT, Nov. 15 </p> 
- <a href="https://www.cnn.com/2021/11/15/politics/patrick-leahy-retirement-announcement/index.html">Patrick Leahy, longest serving US senator still in office, announces he won't seek reelection</a> CNN: Patrick Leahy, a Vermont Democrat and the longest serving US senator still in office, announced Monday he won't seek reelection next year. 
  <p class="updated_time"> 11:16 AM CT, Nov. 15 </p> 
  <a href="https://www.cnn.com/2021/11/15/politics/biden-drilling-ban/index.html">Biden proposes 20-year ban on new oil drilling near Native American site in New Mexico</a> CNN: President Joe Biden will announce Monday a proposal for a 20-year ban on new oil and gas drilling near Chaco Canyon in New Mexico -- one of the oldest Native American sites in the US -- White House officials said. 
  <p class="updated_time"> 11:14 AM CT, Nov. 15 </p> 
  <a href="https://www.npr.org/2021/11/15/1053422827/in-betrayal-abcs-jonathan-karl-asks-must-the-trump-show-go-on">In 'Betrayal,' ABC's Jonathan Karl asks: 'Must the Trump show go on?'</a> NPR: Karl notes often that Trump continues his campaign to invalidate the 2020 election — even now. The "Trump show" remains very much on stage, finding an audience and threatening to extend its run. 
- <p class="updated_time"> 10:56 AM CT, Nov. 15 </p> 
- <a href="https://www.npr.org/2021/11/15/1055835208/trumps-controversial-hotel-in-d-c-will-reportedly-be-sold-and-renamed">Trump's controversial hotel in D.C. will reportedly be sold and renamed</a> NPR: The deal is said to be worth $375 million. Trump's company has suffered a net loss of $70 million in operating the hotel, the House Oversight Committee said last month. 
  <p class="updated_time"> 10:18 AM CT, Nov. 15 </p> 
  <a href="https://www.politico.com/news/2021/11/15/leahy-most-senior-senator-will-retire-522356">Leahy, most senior senator, will retire</a> Politico: The 81-year-old Vermont Democrat announced Monday that he would not run for a ninth term. 
  <p class="updated_time"> 09:29 AM CT, Nov. 15 </p> 
@@ -432,6 +430,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/11/dems-white-house-biden-520946">Dems to White House: The only prescription is more Biden</a> Politico: The president has been more a facilitator than manager of the legislative process. His party wants more of the latter. 
  <p class="updated_time"> 04:39 PM CT, Nov. 11 </p> 
  <a href="https://www.cnn.com/2021/11/11/politics/jerome-powell-joe-biden/index.html">Powell seen as the frontrunner to be Biden's pick for Federal Reserve chair as he nears a decision</a> CNN: President Joe Biden is nearing a decision on his choice for Federal Reserve chair, with observers inside and outside the administration viewing incumbent Jerome Powell as the front-runner for another term. 
+ <p class="updated_time"> 12:01 PM CT, Nov. 11 </p> 
+ <a href="https://www.cnn.com/2021/11/11/politics/biden-veterans-day-arlington/index.html">'You are the very spine of America': Biden honors those who served on Veterans Day in Arlington</a> CNN: President Joe Biden honored Veterans Day at Arlington National Cemetery on Thursday, paying homage to Americans who have served and laying a wreath at the Tomb of the Unknown Soldier. 
  <p class="updated_time"> 07:00 AM CT, Nov. 11 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/11/11/just-checking-the-cbo-score-495067">Just checking the (CBO) score</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:16 AM CT, Nov. 11 </p> 
