@@ -212,10 +212,16 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 02:23 PM CT, Nov. 16 </p> 
+ <a href="https://www.politico.com/news/2021/11/16/trump-lawmakers-jan-6-lawsuit-522707">Trump says defeat in Jan. 6 lawsuit would let lawmakers ‘perpetually harass’ former presidents</a> Politico: The former president’s attorneys said the attack on the Capitol would become just one in a list of pretenses for probing White House documents. 
+ <p class="updated_time"> 01:37 PM CT, Nov. 16 </p> 
+ <a href="https://www.cnn.com/2021/11/16/politics/biden-infrastructure-bill-jobs-child-care/index.html">Analysis: Biden's economic policy moves away from the strategy of his party's past two presidents</a> CNN: The bipartisan infrastructure bill that President Joe Biden signed into law Monday marks a milestone in his effort to reorient Democratic economic policy away from the strategy of his party's past two presidents. 
  <p class="updated_time"> 01:21 PM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/us/politics/trump-files-jan-6-committee.html">Trump Seeks Continued Block on Sending White House Files to Jan. 6 Panel</a> NYT: The ex-president’s brief to a federal appeals court argued that his residual secrecy powers could block a House subpoena for information about the Capitol riot. 
  <p class="updated_time"> 01:08 PM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/us/politics/racial-equity-states-government.html">US Goal of Racial Equity in Infrastructure Is Left to States</a> NYT: The decision about how to spend the money falls largely to state governments, raising questions about whether the package can live up to its ambition. 
+ <p class="updated_time"> 12:35 PM CT, Nov. 16 </p> 
+ <a href="https://www.cnn.com/2021/11/16/politics/trevor-reed-ends-hunger-strike/index.html">US citizen Trevor Reed jailed in Russia ended hunger strike after 6 days</a> CNN: American citizen Trevor Reed, who has been detained and jailed in Russia for more than two years, ended a days-long hunger strike last week, saying that he has "lost a lot of weight" and is "very sick now." 
  <p class="updated_time"> 12:29 PM CT, Nov. 16 </p> 
  <a href="https://www.cnn.com/2021/11/16/politics/jackie-speier-not-running-for-reelection/index.html">California Democratic Rep. Jackie Speier becomes latest high-profile Democrat not running for reelection</a> CNN: California Democratic Rep. Jackie Speier said Tuesday she would not seek reelection, the latest high-profile Democrat to announce plans to leave Congress as the party faces steep climb to hold onto their narrow majority in the House in next year's midterms. 
  <p class="updated_time"> 12:14 PM CT, Nov. 16 </p> 
@@ -254,8 +260,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/16/politics/donald-trump-steve-bannon-january-6-probe/index.html">Bannon's circus undercuts January 6 probe's hardline legal strategy</a> CNN: The House January 6 investigation hoped to send a fear-inducing message deep into Donald Trump's inner circle by opening the way to the prosecution of Steve Bannon. 
  <p class="updated_time"> 07:18 AM CT, Nov. 16 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/11/16/dem-tension-breaks-but-to-do-list-looms-495115">Dem tension breaks, but to-do list looms</a> Politico: A play-by-play preview of the day&#39;s congressional news 
- <p class="updated_time"> 07:05 AM CT, Nov. 16 </p> 
- <a href="https://www.cnn.com/2021/11/16/politics/biden-infrastructure-bill-jobs-child-care/index.html">The big shift behind Biden's infrastructure plan</a> CNN: The bipartisan infrastructure bill that President Joe Biden signed into law Monday marks a milestone in his effort to reorient Democratic economic policy away from the strategy of his party's past two presidents. 
  <p class="updated_time"> 06:23 AM CT, Nov. 16 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/16/a-victory-lap-and-a-reality-check-495111">POLITICO Playbook: A victory lap and a reality check</a> Politico: And Biden holds his virtual confab with Xi. 
  <p class="updated_time"> 06:18 AM CT, Nov. 16 </p> 
@@ -354,8 +358,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/15/us/politics/biden-social-policy-bill-irs.html">How Revenue for Biden's Social Policy Bill Depends on the I.R.S.</a> NYT: The head of the Congressional Budget Office said on Monday that beefed-up tax enforcement would raise far less money than the White House projected. 
  <p class="updated_time"> 12:35 PM CT, Nov. 15 </p> 
  <a href="https://www.cnn.com/2021/11/15/politics/patrick-leahy-retirement-announcement/index.html">Patrick Leahy, longest serving US senator still in office, announces he won't seek reelection</a> CNN: Patrick Leahy, a Vermont Democrat and the longest serving US senator still in office, announced Monday he won't seek reelection next year. 
- <p class="updated_time"> 11:46 AM CT, Nov. 15 </p> 
- <a href="https://www.cnn.com/2021/11/15/politics/michael-flynn-one-religion/index.html">Ex-Trump adviser Michael Flynn's call for 'one religion' in the US garners swift condemnation</a> CNN: Former Trump national security adviser Michael Flynn's call for "one religion" in the US to win the battle of good versus evil has garnered sharp backlash from a range of critics. 
  <p class="updated_time"> 11:16 AM CT, Nov. 15 </p> 
  <a href="https://www.cnn.com/2021/11/15/politics/biden-drilling-ban/index.html">Biden proposes 20-year ban on new oil drilling near Native American site in New Mexico</a> CNN: President Joe Biden will announce Monday a proposal for a 20-year ban on new oil and gas drilling near Chaco Canyon in New Mexico -- one of the oldest Native American sites in the US -- White House officials said. 
  <p class="updated_time"> 11:14 AM CT, Nov. 15 </p> 
@@ -374,8 +376,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/11/15/washingtons-mystery-mansion-buyer-unmasked-495098">POLITICO Playbook: Washington’s mystery mansion buyer unmasked</a> Politico: And Democrats plan their midterm messaging. 
  <p class="updated_time"> 04:31 AM CT, Nov. 15 </p> 
  <a href="https://www.politico.com/news/2021/11/15/gop-trump-budget-congress-521209">GOP weighs trapping Democrats in Trump’s budget</a> Politico: Democrats are working to negotiate a government funding deal, but Republicans have a long list of demands before they'll come to the table. 
- <p class="updated_time"> 04:30 AM CT, Nov. 15 </p> 
- <a href="https://www.politico.com/news/2021/11/15/andrew-cuomo-wont-leave-ny-521205">‘He’s nuts and he’s got a vendetta’: Cuomo won’t leave New York alone</a> Politico: Even as Albany’s insiders focus on Andrew Cuomo’s successor, Gov. Kathy Hochul, they privately continue worrying about what he might be up to. 
  <p class="updated_time"> 04:30 AM CT, Nov. 15 </p> 
  <a href="https://www.politico.com/news/2021/11/15/mcconnell-disinvite-trump-biden-inaugural-522253">McConnell sought to disinvite Trump from Biden’s inaugural</a> Politico: According to a new book from Jonathan Karl, Trump got wind of the plan and preemptively announced he wasn’t attending 
  <p class="updated_time"> 04:30 AM CT, Nov. 15 </p> 
