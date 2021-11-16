@@ -212,12 +212,16 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 03:36 PM CT, Nov. 16 </p> 
+ <a href="https://www.npr.org/2021/11/16/1056268965/biden-picks-a-rickety-new-hampshire-bridge-as-a-scene-to-sell-his-infrastructure">Biden picks a rickety New Hampshire bridge as a scene to sell his infrastructure bill</a> NPR: The president made a first stop in New Hampshire to promote the $1.2 trillion infrastructure law. Members of his cabinet will crisscross the nation in the coming days to boost the new law. 
+ <p class="updated_time"> 03:36 PM CT, Nov. 16 </p> 
+ <a href="https://www.cnn.com/2021/11/16/politics/house-censure-vote-gosar/index.html">House plans to vote Wednesday to censure Paul Gosar and strip him of 1 committee</a> CNN: The House will vote Wednesday on a resolution that both censures Republican Rep. Paul Gosar of Arizona and removes him from the Committee on Oversight and Reform, a source familiar tells CNN. 
+ <p class="updated_time"> 03:35 PM CT, Nov. 16 </p> 
+ <a href="https://www.npr.org/2021/11/16/1056240650/time-has-run-out-on-some-biden-administration-appointees">Time has run out on some Biden administration appointees</a> NPR: The Vacancies Act says many temporary government appointees cannot remain in their posts after the 300th day of a President's first year in office. 
  <p class="updated_time"> 03:30 PM CT, Nov. 16 </p> 
- <a href="https://www.cnn.com/2021/11/16/politics/vaccine-mandate-osha-lottery/index.html">Ping-pong balls to determine court venue for challenges to Biden's vaccine mandate</a> CNN: Challenges to the Biden administration's vaccine mandate targeting employers with more than 100 employees will be consolidated and heard by a federal appeals court to be chosen Tuesday by a ping-pong ball lottery. 
+ <a href="https://www.cnn.com/2021/11/16/politics/vaccine-mandate-osha-lottery/index.html">Conservative-leaning appeals court to hear challenges to Biden's vaccine mandate after ping-pong ball lottery</a> CNN: Challenges to the Biden administration's vaccine mandate targeting employers with more than 100 employees will be consolidated and heard by a federal appeals court to be chosen Tuesday by a ping-pong ball lottery. 
  <p class="updated_time"> 03:30 PM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/us/politics/biden-pfizer-covid-pill-purchase.html">U.S. Plans to Buy Enough Pfizer Covid Treatment for 10 Million People</a> NYT: Pfizer on Tuesday asked the Food and Drug Administration to authorize its pill for high-risk, unvaccinated people. 
- <p class="updated_time"> 03:30 PM CT, Nov. 16 </p> 
- <a href="https://www.cnn.com/2021/11/16/politics/house-censure-vote-gosar/index.html">House plans to vote Wednesday to censure Paul Gosar and strip him of 1 committee</a> CNN: The House will vote Wednesday on a resolution that both censures Republican Rep. Paul Gosar of Arizona and removes him from the Committee on Oversight and Reform, a source familiar tells CNN. 
  <p class="updated_time"> 03:20 PM CT, Nov. 16 </p> 
  <a href="https://www.npr.org/2021/11/16/1056263627/rep-abigail-spanberger-talks-about-the-future-of-build-back-better">Rep. Abigail Spanberger talks about the future of Build Back Better</a> NPR: NPR's Mary Louise Kelly talks with Rep. Abigail Spanberger, D-Va., about Biden's policy agenda and the future of the social spending package, Build Back Better. 
  <p class="updated_time"> 03:14 PM CT, Nov. 16 </p> 
@@ -360,14 +364,10 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/15/us/politics/whats-in-the-infrastructure-bill.html">Here's What's in the Infrastructure Bill Biden Will Sign Today</a> NYT: In total, the measure contains $550 billion in new funds to be spread around different areas of need. 
  <p class="updated_time"> 03:45 PM CT, Nov. 15 </p> 
  <a href="https://www.npr.org/2021/11/15/1055936681/vermonts-patrick-leahy-says-he-will-retire-from-the-u-s-senate">Vermont's Patrick Leahy says he will retire from the U.S. Senate</a> NPR: After eight terms in the U.S. Senate, Democrat Patrick Leahy of Vermont announced his retirement on Monday. The powerful senator was at the center of many Supreme Court nomination fights. 
- <p class="updated_time"> 03:20 PM CT, Nov. 15 </p> 
- <a href="https://www.npr.org/2021/11/15/1055936604/president-biden-and-chinas-xi-set-to-have-their-1st-formal-meeting-as-leaders">President Biden and China's Xi set to have their 1st formal meeting as leaders</a> NPR: Monday night, President Biden and Chinese leader Xi Jinping will hold a virtual summit. It will be their first formal meeting since Biden became president. 
  <p class="updated_time"> 02:49 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/us/politics/biden-social-policy-bill-irs.html">How Revenue for Biden's Social Policy Bill Depends on the I.R.S.</a> NYT: The head of the Congressional Budget Office said on Monday that beefed-up tax enforcement would raise far less money than the White House projected. 
  <p class="updated_time"> 11:16 AM CT, Nov. 15 </p> 
  <a href="https://www.cnn.com/2021/11/15/politics/biden-drilling-ban/index.html">Biden proposes 20-year ban on new oil drilling near Native American site in New Mexico</a> CNN: President Joe Biden will announce Monday a proposal for a 20-year ban on new oil and gas drilling near Chaco Canyon in New Mexico -- one of the oldest Native American sites in the US -- White House officials said. 
- <p class="updated_time"> 11:14 AM CT, Nov. 15 </p> 
- <a href="https://www.npr.org/2021/11/15/1053422827/in-betrayal-abcs-jonathan-karl-asks-must-the-trump-show-go-on">In 'Betrayal,' ABC's Jonathan Karl asks: 'Must the Trump show go on?'</a> NPR: Karl notes often that Trump continues his campaign to invalidate the 2020 election — even now. The "Trump show" remains very much on stage, finding an audience and threatening to extend its run. 
  <p class="updated_time"> 10:18 AM CT, Nov. 15 </p> 
  <a href="https://www.politico.com/news/2021/11/15/leahy-most-senior-senator-will-retire-522356">Leahy, most senior senator, will retire</a> Politico: The 81-year-old Vermont Democrat announced Monday that he would not run for a ninth term. 
  <p class="updated_time"> 09:29 AM CT, Nov. 15 </p> 
