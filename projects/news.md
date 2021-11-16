@@ -7,8 +7,10 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 09:30 PM CT, Nov. 15 </p> 
+ <p class="updated_time"> 09:37 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/live/2021/11/15/world/biden-xi-summit">Biden and Xi Hold Virtual Talks Amid U.S.-China Tensions: Live Updates</a> NYT: President Biden and China’s leader, Xi Jinping, are meeting for at least three hours. U.S. officials said the talks were meant to reassure both sides that misunderstandings would not lead to unintended clashes. 
+ <p class="updated_time"> 09:35 PM CT, Nov. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/science-environment-59299101?at_medium=RSS&at_campaign=KARANGA">Russian anti-satellite missile test draws condemnation</a> BBC: The US says Russia "recklessly" destroyed a satellite, endangering astronauts in space. 
  <p class="updated_time"> 08:52 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/world/canada/british-columbia-landslides-rain.html">Landslides and Torrential Rains Batter British Columbia</a> NYT: Dozens of drivers were trapped by landslides, and the city of Merritt warned of a “mass sewage backup.” The rainfall was part of a system that also pummeled Washington State. 
  <p class="updated_time"> 08:51 PM CT, Nov. 15 </p> 
@@ -79,8 +81,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/15/1055936604/president-biden-and-chinas-xi-set-to-have-their-1st-formal-meeting-as-leaders">President Biden and China's Xi set to have their 1st formal meeting as leaders</a> NPR: Monday night, President Biden and Chinese leader Xi Jinping will hold a virtual summit. It will be their first formal meeting since Biden became president. 
  <p class="updated_time"> 03:15 PM CT, Nov. 15 </p> 
  <a href="https://www.wsj.com/articles/biden-xi-teams-set-modest-hopes-for-monday-talks-11636970400">Biden, Xi Open Talks on Friendly Note, With Tough Topics Ahead</a> WSJ: The president began a virtual meeting with his Chinese counterpart, as both leaders seek to work through areas of disagreement and ease hostilities between the two largest economies. 
- <p class="updated_time"> 03:13 PM CT, Nov. 15 </p> 
- <a href="https://www.bbc.co.uk/news/science-environment-59299101?at_medium=RSS&at_campaign=KARANGA">US anger at Russian anti-satellite missile test debris</a> BBC: The state department says Russia "recklessly" destroyed a satellite, endangering astronauts in space. 
  <p class="updated_time"> 02:56 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/travel/bulgaria-narrow-gauge-railway.html">Inside the Struggle to Save Bulgaria’s Last Narrow-Gauge Railroad</a> NYT: The Rhodope Narrow-Gauge Railway serves remote communities in southwestern Bulgaria. Can longtime riders — and young enthusiasts — keep it running? 
  <p class="updated_time"> 02:33 PM CT, Nov. 15 </p> 
@@ -232,6 +232,8 @@ permalink: /projects/news/
 
  <p class="updated_time"> 09:41 PM CT, Nov. 15 </p> 
  <a href="https://www.politico.com/news/2021/11/15/social-spending-bill-tensions-democrats-522670">Tensions abate as Dems await cost of social spending bill</a> Politico: Progressives and moderates seem to have reached a tentative peace as they look towards a vote at the end of the week. 
+ <p class="updated_time"> 09:31 PM CT, Nov. 15 </p> 
+ <a href="https://www.cnn.com/2021/11/15/politics/scott-perry-freedom-caucus-chair/index.html">GOP Rep. Scott Perry elected as next House Freedom Caucus chairman</a> CNN: The conservative House Freedom Caucus has elected GOP Rep. Scott Perry to be its next leader, a Republican aide told CNN on Monday. 
  <p class="updated_time"> 09:14 PM CT, Nov. 15 </p> 
  <a href="https://www.cnn.com/2021/11/15/politics/january-6-committee-meadows/index.html">January 6 committee expected to discuss how to deal with Meadows in Tuesday meeting</a> CNN: The House select committee investigating the January 6 attack on the US Capitol had yet to come to a consensus as of Monday night on dealing with former Trump White House chief of staff Mark Meadows' lack of compliance. 
  <p class="updated_time"> 09:11 PM CT, Nov. 15 </p> 
@@ -247,11 +249,9 @@ permalink: /projects/news/
  <p class="updated_time"> 08:02 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/us/politics/biden-signs-infrastructure-bill.html">Biden Signs $1 Trillion Infrastructure Bill Into Law</a> NYT: Billions of dollars will now pour into American communities, although the final package falls short of the president’s ambitions. 
  <p class="updated_time"> 08:00 PM CT, Nov. 15 </p> 
- <a href="https://www.politico.com/news/2021/11/15/biden-xi-begin-virtual-meeting-522647">Biden and Xi begin 'candid and direct' virtual meeting</a> Politico: The much-anticipated encounter aims to reduce bilateral tensions. 
+ <a href="https://www.politico.com/news/2021/11/15/biden-xi-begin-virtual-meeting-522647">Biden and China's Xi hold 'expansive and substantive' virtual meeting</a> Politico: Biden planned to raise human rights, economics and a "free and fair" Indo-Pacific. 
  <p class="updated_time"> 07:50 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/us/politics/biden-china-xi-jinping.html">Biden and Xi meet amid economic and military tensions.</a> NYT: U.S. officials said the virtual summit on Monday was intended to reassure both sides that misunderstandings would not lead to unintended clashes. 
- <p class="updated_time"> 07:49 PM CT, Nov. 15 </p> 
- <a href="https://www.cnn.com/2021/11/15/politics/scott-perry-freedom-caucus-chair/index.html">GOP Rep. Scott Perry elected as next House Freedom Caucus chairman</a> CNN: The conservative House Freedom Caucus has elected GOP Rep. Scott Perry to be its next leader, a Republican aide told CNN on Monday. 
  <p class="updated_time"> 07:44 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/us/politics/pentagon-syria-airstrike.html">Pentagon Chief Orders Briefing on 2019 Syria Airstrike That Killed Dozens</a> NYT: A Times investigation found that dozens of women and children were killed in the bombing, which the military sought to conceal. 
  <p class="updated_time"> 07:27 PM CT, Nov. 15 </p> 
