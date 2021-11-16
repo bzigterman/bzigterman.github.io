@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 11:33 AM CT, Nov. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59308602?at_medium=RSS&at_campaign=KARANGA">Armenian troops killed in Azerbaijan border clash</a> BBC: Armenia asks ally Russia to intervene after a flare-up of violence on the border with Azerbaijan. 
  <p class="updated_time"> 11:32 AM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/business/indonesia-spaceport-elon-musk.html">Will Indonesia Edge Its Way into the Space Race?</a> NYT: An Indigenous clan fears it will lose its place in the world as the government pursues a quest to open a spaceport and lure the billionaire SpaceX founder Elon Musk. 
  <p class="updated_time"> 11:17 AM CT, Nov. 16 </p> 
@@ -31,8 +33,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/16/1056142912/pfizer-generic-paxlovid-deal-countries">Pfizer agrees to license generic versions of its COVID-19 pill — in some countries</a> NPR: The agreement covers 95 nations, but it omits hard-hit countries such as Russia, Turkey, Brazil, and Mexico. 
  <p class="updated_time"> 10:49 AM CT, Nov. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-latin-america-59305476?at_medium=RSS&at_campaign=KARANGA">Mexico's most wanted: Wife of cartel boss 'El Mencho' held</a> BBC: Rosalinda González is suspected of running the finances of her husband's Jalisco New Generation Cartel. 
- <p class="updated_time"> 10:42 AM CT, Nov. 16 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59308602?at_medium=RSS&at_campaign=KARANGA">Armenian troops killed in Azerbaijan border clash</a> BBC: Armenia asks ally Russia to intervene after a flare-up of violence on the border with Azerbaijan. 
  <p class="updated_time"> 10:40 AM CT, Nov. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59302917?at_medium=RSS&at_campaign=KARANGA">Kampala blasts: Suicide bombers target Ugandan capital</a> BBC: At least three people are killed in the blasts near parliament and the city's police HQ. 
  <p class="updated_time"> 10:27 AM CT, Nov. 16 </p> 
@@ -218,6 +218,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/16/fbi-cyberattack-reporting-bill-522699">FBI left out of the loop in cyberattack reporting bill</a> Politico: The Biden administration is "troubled" by legislation that would require companies to report cyberattacks to the Department of Homeland Security but not the FBI. 
  <p class="updated_time"> 11:36 AM CT, Nov. 16 </p> 
  <a href="https://www.politico.com/news/2021/11/16/imprisoned-journalist-myanmar-returns-home-522701">U.S. journalist jailed for months in Myanmar lands in New York</a> Politico: It's been a “long time coming, a moment I had been imagining so intensely for so long," said Danny Fenster. 
+ <p class="updated_time"> 11:27 AM CT, Nov. 16 </p> 
+ <a href="https://www.cnn.com/2021/11/16/politics/paul-gosar-republican-reaction/index.html">House Republicans shrug off threats of violence as Democrats prepare to punish Gosar</a> CNN: House Republicans are mostly shrugging off violent rhetoric within their ranks and vicious threats directed at some of their own members, as Democrats prepare to punish one GOP lawmaker over a graphic video depicting violence against a colleague. 
  <p class="updated_time"> 11:25 AM CT, Nov. 16 </p> 
  <a href="https://www.politico.com/news/2021/11/16/gop-curtis-extremist-climate-522696">GOP Rep. Curtis: 'Extremist' voices setting the tone for party on climate</a> Politico: “I think it’s incumbent on Republicans to join our Democratic colleagues in finding paths forward — paths forward on methane and other issues,” the Utah Republican said. 
  <p class="updated_time"> 11:15 AM CT, Nov. 16 </p> 
@@ -269,7 +271,7 @@ permalink: /projects/news/
  <p class="updated_time"> 04:08 AM CT, Nov. 16 </p> 
  <a href="https://www.npr.org/2021/11/16/1056082050/morning-news-brief">News brief: Biden-Xi summit, Steve Bannon, Cuba thwarts protests</a> NPR: President Biden and his Chinese counterpart held a virtual meeting. Ex-Trump adviser Steve Bannon threatens vengeance after surrendering on criminal contempt charges. Cuba is crushing protest plans. 
  <p class="updated_time"> 04:08 AM CT, Nov. 16 </p> 
- <a href="https://www.npr.org/2021/11/16/1055972179/michelle-wu-inaugurated-boston-mayor">Cheers and some letdown as 1st elected woman and person of color becomes Boston Mayor</a> NPR: Asian American Michelle Wu is Boston's first elected mayor who isn't a white man. While many celebrate the milestone, others lament that all the Black candidates failed, in a city long seen as racist. 
+ <a href="https://www.npr.org/2021/11/16/1055972179/boston-first-black-mayor">Why Boston will need to wait longer for its 1st elected Black mayor</a> NPR: Asian American Michelle Wu is Boston's first elected mayor who isn't a white man. While many celebrate the milestone, others lament that all the Black candidates failed, in a city long seen as racist. 
  <p class="updated_time"> 01:27 AM CT, Nov. 16 </p> 
  <a href="https://www.npr.org/2021/11/16/1055944979/biden-and-chinas-xi-strike-respectful-tone-in-video-chat-amid-tension">Biden and China's Xi strike 'respectful' tone in video chat amid tension</a> NPR: The meeting lasted more than three hours as the two sides sought to make sure their competition does not turn into conflict 
  <p class="updated_time"> 12:41 AM CT, Nov. 16 </p> 
@@ -436,8 +438,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/huddle/2021/11/11/just-checking-the-cbo-score-495067">Just checking the (CBO) score</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:16 AM CT, Nov. 11 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/11/the-other-big-intra-democratic-fight-495065">POLITICO Playbook: The other big intra-Democratic fight</a> Politico: And the inflation jump turns the temperature up. 
- <p class="updated_time"> 06:28 PM CT, Nov. 10 </p> 
- <a href="https://www.cnn.com/2021/11/10/politics/biden-baltimore-port-infrastructure/index.html">'It's worrisome': Biden addresses inflation concerns during Baltimore speech</a> CNN: President Joe Biden takes his sales pitch for the newly passed bipartisan infrastructure deal on the road Wednesday, highlighting the effect of the bill on supply chains, hours after new inflation statistics revealed that America's prices are surging more than they have in 30 years. 
  <p class="updated_time"> 07:21 AM CT, Nov. 10 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/11/10/threat-assessment-never-ending-for-lawmakers-495048">Threat assessment: never ending for lawmakers</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:17 AM CT, Nov. 10 </p> 
