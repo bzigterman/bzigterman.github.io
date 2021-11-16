@@ -7,22 +7,24 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 08:38 PM CT, Nov. 15 </p> 
+ <p class="updated_time"> 08:53 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/live/2021/11/15/world/biden-xi-summit">Biden and Xi Begin Virtual Talks Amid U.S.-China Tensions: Live Updates</a> NYT: President Biden and China’s leader, Xi Jinping, are meeting for at least three hours. U.S. officials said the talks were meant to reassure both sides that misunderstandings would not lead to unintended clashes. 
+ <p class="updated_time"> 08:52 PM CT, Nov. 15 </p> 
+ <a href="https://www.nytimes.com/2021/11/15/world/canada/british-columbia-landslides-rain.html">Landslides and Torrential Rains Batter British Columbia</a> NYT: Dozens of drivers were trapped by landslides, and the city of Merritt warned of a “mass sewage backup.” The rainfall was part of a system that also pummeled Washington State. 
+ <p class="updated_time"> 08:51 PM CT, Nov. 15 </p> 
+ <a href="https://www.nytimes.com/2021/11/15/world/asia/india-journalists-arrested-crackdown-tripura.html">India Reporters Are Arrested Amid Tripura Crackdown</a> NYT: Faced with sectarian violence in the country’s northeast, the government has responded by disputing reports on the clashes and punishing those who covered them. 
+ <p class="updated_time"> 08:47 PM CT, Nov. 15 </p> 
+ <a href="https://www.bbc.co.uk/news/world-asia-china-59301167?at_medium=RSS&at_campaign=KARANGA">Biden-Xi talks: Leaders begin first face-to-face virtual summit</a> BBC: Taiwan has recently become a point of growing contention between both countries. 
  <p class="updated_time"> 08:23 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/13/us/us-airstrikes-civilian-deaths.html">How the U.S. Hid an Airstrike That Killed Dozens of Civilians in Syria</a> NYT: The military never conducted an independent investigation into a 2019 bombing on the last bastion of the Islamic State, despite concerns about a secretive commando force. 
  <p class="updated_time"> 08:21 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/us/arkansas-boosters-adults-covid.html">Arkansas Opens Boosters to All Adults as Regulators Weigh Expansion</a> NYT: The state joins a growing list that are eager to get more adults eligible for an additional vaccine dose. 
- <p class="updated_time"> 08:13 PM CT, Nov. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-asia-china-59301167?at_medium=RSS&at_campaign=KARANGA">Biden and Xi Jinping hold virtual meeting</a> BBC: Mr Xi said that China was "ready to move US-China relations forward in a positive direction". 
  <p class="updated_time"> 07:50 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/us/politics/biden-china-xi-jinping.html">Biden and Xi meet amid economic and military tensions.</a> NYT: U.S. officials said the virtual summit on Monday was intended to reassure both sides that misunderstandings would not lead to unintended clashes. 
  <p class="updated_time"> 07:44 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/us/politics/pentagon-syria-airstrike.html">Pentagon Chief Orders Briefing on 2019 Syria Airstrike That Killed Dozens</a> NYT: A Times investigation found that dozens of women and children were killed in the bombing, which the military sought to conceal. 
  <p class="updated_time"> 07:34 PM CT, Nov. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59295723?at_medium=RSS&at_campaign=KARANGA">Kyle Rittenhouse: Jury to decide fate of US teen gunman</a> BBC: Hundreds of troops have been placed on standby as a verdict looms in the closely watched case. 
- <p class="updated_time"> 07:27 PM CT, Nov. 15 </p> 
- <a href="https://www.nytimes.com/2021/11/15/world/canada/british-columbia-landslides-rain.html">Landslides and Torrential Rains Batter British Columbia</a> NYT: Dozens of drivers were trapped by landslides, and the city of Merritt warned of a “mass sewage backup.” The rainfall was part of a system that also pummeled Washington State. 
  <p class="updated_time"> 07:11 PM CT, Nov. 15 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59258375?at_medium=RSS&at_campaign=KARANGA">Joe Biden and Xi Jinping: What they want from talks</a> BBC: The video call on Monday is addressing several thorny issues, including Taiwan, cybersecurity and trade. 
  <p class="updated_time"> 06:53 PM CT, Nov. 15 </p> 
@@ -111,8 +113,6 @@ permalink: /projects/news/
  <a href="https://www.wsj.com/articles/arrests-made-following-car-explosion-outside-u-k-hospital-11636939092">U.K. Raises Terrorist Threat Level After Liverpool Taxi Explosion</a> WSJ: Police said investigators were working to determine whether anyone else was involved in the Sunday incident. 
  <p class="updated_time"> 10:21 AM CT, Nov. 15 </p> 
  <a href="https://www.npr.org/2021/11/15/1055828896/liverpool-taxi-explosion-declared-terrorist-incident-arrests">U.K. police have declared Sunday's Liverpool car blast a terrorist act</a> NPR: Authorities in England have arrested four men in connection with Sunday's deadly blast, which took place in a taxi outside a women's hospital. They say a motive is not yet known. 
- <p class="updated_time"> 10:14 AM CT, Nov. 15 </p> 
- <a href="https://www.nytimes.com/2021/11/15/world/asia/india-journalists-arrested-crackdown-tripura.html">Two Journalists in India Arrested as Media Crackdown Continues</a> NYT: Faced with sectarian violence in the country’s northeast, the government has responded by disputing reports on the clashes and punishing those who covered them. 
  <p class="updated_time"> 09:59 AM CT, Nov. 15 </p> 
  <a href="https://www.npr.org/2021/11/15/1055803038/new-zealand-maori-tribe-vaccine-protesters-haka">New Zealand Maori tribe demands vaccine protesters stop performing haka dance</a> NPR: The Ngati Toa, a Maori tribe whose version of the intimidating display has been popularized by New Zealand's All Blacks rugby team, says it supports COVID-19 vaccinations. 
  <p class="updated_time"> 09:57 AM CT, Nov. 15 </p> 
@@ -232,6 +232,8 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/15/social-spending-bill-tensions-democrats-522670">Tensions abate as Dems await cost of social spending bill</a> Politico: Progressives and moderates seem to have reached a tentative peace as they look towards a vote at the end of the week. 
  <p class="updated_time"> 09:11 PM CT, Nov. 15 </p> 
  <a href="https://www.politico.com/news/2021/11/15/moderna-vaccines-lower-income-countries-522673">Moderna nears deal to pledge more vaccines to lower-income countries</a> Politico: After much criticism, the vaccine maker is close to an agreement to provide doses at a lower price to the global vaccine equity initiative. 
+ <p class="updated_time"> 08:43 PM CT, Nov. 15 </p> 
+ <a href="https://www.cnn.com/2021/11/15/politics/joe-biden-xi-jinping-virtual-summit/index.html">Biden in critical talks with President Xi Jinping amid fierce tensions with China</a> CNN: When Chinese President Xi Jinping beams into the White House on Monday evening for a virtual summit with President Joe Biden, the two men will need no introduction. 
  <p class="updated_time"> 08:20 PM CT, Nov. 15 </p> 
  <a href="https://www.npr.org/2021/11/15/1056025589/wyoming-gop-votes-to-stop-recognizing-cheney-as-a-republican">Wyoming GOP votes to stop recognizing Cheney as a Republican</a> NPR: The Wyoming Republican Party will no longer recognize Liz Cheney as a member of the GOP in its second formal rebuke for her criticism of former President Donald Trump. 
  <p class="updated_time"> 08:14 PM CT, Nov. 15 </p> 
@@ -244,8 +246,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/15/us/politics/biden-china-xi-jinping.html">Biden and Xi meet amid economic and military tensions.</a> NYT: U.S. officials said the virtual summit on Monday was intended to reassure both sides that misunderstandings would not lead to unintended clashes. 
  <p class="updated_time"> 07:44 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/us/politics/pentagon-syria-airstrike.html">Pentagon Chief Orders Briefing on 2019 Syria Airstrike That Killed Dozens</a> NYT: A Times investigation found that dozens of women and children were killed in the bombing, which the military sought to conceal. 
- <p class="updated_time"> 07:35 PM CT, Nov. 15 </p> 
- <a href="https://www.cnn.com/2021/11/15/politics/joe-biden-xi-jinping-virtual-summit/index.html">Biden to engage in critical talks with President Xi Jinping amid fierce tensions with China</a> CNN: When Chinese President Xi Jinping beams into the White House on Monday evening for a virtual summit with President Joe Biden, the two men will need no introduction. 
  <p class="updated_time"> 07:27 PM CT, Nov. 15 </p> 
  <a href="https://www.politico.com/news/2021/11/15/governors-snub-the-senate-522646">Why governors keep snubbing the Senate</a> Politico: Convincing governors to run for a Senate seat has become a problem as the GOP tries to take back the upper chamber. 
  <p class="updated_time"> 07:15 PM CT, Nov. 15 </p> 
@@ -360,8 +360,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/newsletters/playbook/2021/11/15/washingtons-mystery-mansion-buyer-unmasked-495098">POLITICO Playbook: Washington’s mystery mansion buyer unmasked</a> Politico: And Democrats plan their midterm messaging. 
  <p class="updated_time"> 04:31 AM CT, Nov. 15 </p> 
  <a href="https://www.politico.com/news/2021/11/15/gop-trump-budget-congress-521209">GOP weighs trapping Democrats in Trump’s budget</a> Politico: Democrats are working to negotiate a government funding deal, but Republicans have a long list of demands before they'll come to the table. 
- <p class="updated_time"> 04:30 AM CT, Nov. 15 </p> 
- <a href="https://www.politico.com/news/2021/11/15/andrew-cuomo-wont-leave-ny-521205">‘He’s nuts and he’s got a vendetta’: Cuomo won’t leave New York alone</a> Politico: Even as Albany’s insiders focus on Andrew Cuomo’s successor, Gov. Kathy Hochul, they privately continue worrying about what he might be up to. 
  <p class="updated_time"> 04:30 AM CT, Nov. 15 </p> 
  <a href="https://www.politico.com/news/2021/11/15/mcconnell-disinvite-trump-biden-inaugural-522253">McConnell sought to disinvite Trump from Biden’s inaugural</a> Politico: According to a new book from Jonathan Karl, Trump got wind of the plan and preemptively announced he wasn’t attending 
  <p class="updated_time"> 04:30 AM CT, Nov. 15 </p> 
