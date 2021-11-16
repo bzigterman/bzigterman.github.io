@@ -7,7 +7,9 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
- <p class="updated_time"> 04:12 PM CT, Nov. 16 </p> 
+ <p class="updated_time"> 04:38 PM CT, Nov. 16 </p> 
+ <a href="https://www.nytimes.com/2021/11/16/us/politics/zalmay-khalilzad-afghanistan-war.html">Zalmay Khalilzad Battles Critics in U.S. and Afghanistan</a> NYT: Zalmay Khalilzad, who stepped down as the envoy for Afghanistan after the U.S. exit, has defended the deal he negotiated with the Taliban during the Trump administration. 
+ <p class="updated_time"> 04:26 PM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/world/europe/poland-belarus-border-crisis.html">Melee Erupts Between Migrants in Belarus and Polish Border Forces</a> NYT: Poland used water cannons to drive back migrants who tried to rush the border. Belarus forces took some migrants to shelter for the first time, but it was unclear if that meant tensions would ease. 
  <p class="updated_time"> 03:49 PM CT, Nov. 16 </p> 
  <a href="https://www.npr.org/2021/11/16/1056263662/air-pollution-in-northern-india-is-causing-partial-lockdowns">Air pollution in northern India is causing partial lockdowns in New Delhi</a> NPR: India's capital is under partial lockdown because of a health emergency. But it's not COVID-19. It's air pollution that has exceeded four times what's safe. 
@@ -69,8 +71,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/16/world/asia/china-history-xi-jinping.html">Revising China's History, to Glorify Xi Jinping</a> NYT: The Communist Party has anointed him one of its revered leaders, paving the way for an already powerful leader to wield even greater influence. 
  <p class="updated_time"> 10:56 AM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/world/africa/nigeria-protest-report-massacare.html">Lekki Toll Gate Shooting in Nigeria Was a Massacre, Panel Finds</a> NYT: The incident in October 2020 could be “equated with a massacre,” a government panel said, refuting the army’s claim that soldiers only fired blanks. 
- <p class="updated_time"> 10:56 AM CT, Nov. 16 </p> 
- <a href="https://www.nytimes.com/2021/11/16/us/politics/zalmay-khalilzad-afghanistan-war.html">Zalmay Khalilzad Battles Critics in U.S. and Afghanistan</a> NYT: Zalmay Khalilzad, who stepped down as the envoy for Afghanistan after the U.S. exit, has defended the deal he negotiated with the Taliban during the Trump administration. 
  <p class="updated_time"> 10:51 AM CT, Nov. 16 </p> 
  <a href="https://www.npr.org/2021/11/16/1056142912/pfizer-generic-paxlovid-deal-countries">Pfizer agrees to license generic versions of its COVID-19 pill — in some countries</a> NPR: The agreement covers 95 nations, but it omits hard-hit countries such as Russia, Turkey, Brazil, and Mexico. Pfizer said it is seeking authorization for emergency use of the medication in the U.S. 
  <p class="updated_time"> 10:27 AM CT, Nov. 16 </p> 
@@ -80,7 +80,7 @@ permalink: /projects/news/
  <p class="updated_time"> 10:15 AM CT, Nov. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-us-canada-59310582?at_medium=RSS&at_campaign=KARANGA">Covid-19: Pfizer to allow developing nations to make its treatment pill</a> BBC: The US company will allow 95 developing nations to produce generic versions of its antiviral pill. 
  <p class="updated_time"> 10:08 AM CT, Nov. 16 </p> 
- <a href="https://www.nytimes.com/2021/11/15/world/asia/us-china-tensions-explained.html">U.S.-China Relations: What to Know</a> NYT: The Biden administration has called managing America’s relationship with Beijing “the biggest geopolitical test of the 21st century.” 
+ <a href="https://www.nytimes.com/article/us-china-tensions-explained.html">U.S.-China Relations: What to Know</a> NYT: The Biden administration has called managing America’s relationship with Beijing “the biggest geopolitical test of the 21st century.” 
  <p class="updated_time"> 10:01 AM CT, Nov. 16 </p> 
  <a href="https://www.bbc.co.uk/news/science-environment-59169899?at_medium=RSS&at_campaign=KARANGA">Russian anti-satellite missile test poses no threat - Moscow</a> BBC: The US earlier said Russia "recklessly" destroyed a satellite, endangering astronauts in space. 
  <p class="updated_time"> 09:22 AM CT, Nov. 16 </p> 
@@ -212,16 +212,22 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 05:35 PM CT, Nov. 16 </p> 
+ <a href="https://www.politico.com/news/2021/11/16/gosar-video-killing-aoc-house-censure-522734">House will vote to censure Gosar anime video that depicted killing of AOC</a> Politico: Democrats are also planning a vote to remove him from the House Oversight and Reform Committee, a panel he serves on alongside Rep. Alexandria Ocasio-Cortez. 
+ <p class="updated_time"> 04:38 PM CT, Nov. 16 </p> 
+ <a href="https://www.nytimes.com/2021/11/16/us/politics/zalmay-khalilzad-afghanistan-war.html">Zalmay Khalilzad Battles Critics in U.S. and Afghanistan</a> NYT: Zalmay Khalilzad, who stepped down as the envoy for Afghanistan after the U.S. exit, has defended the deal he negotiated with the Taliban during the Trump administration. 
  <p class="updated_time"> 04:25 PM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/us/politics/biden-pfizer-covid-pill-purchase.html">U.S. Plans to Buy Enough Pfizer Covid Treatment for 10 Million People</a> NYT: Pfizer on Tuesday asked the Food and Drug Administration to authorize its pill for high-risk, unvaccinated people. 
  <p class="updated_time"> 04:23 PM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/us/politics/racial-equity-states-government.html">US Goal of Racial Equity in Infrastructure Is Left to States</a> NYT: The decision about how to spend the money falls largely to state governments, raising questions about whether the package can live up to its ambition. 
  <p class="updated_time"> 04:21 PM CT, Nov. 16 </p> 
  <a href="https://www.cnn.com/2021/11/16/politics/build-back-better-latest-cbo-score/index.html">Behind the scenes, White House works to ease concerns ahead of expected CBO score on Build Back Better plan</a> CNN: The White House and top Democrats are expecting a highly anticipated estimate from the nonpartisan Congressional Budget Office to show that their sweeping plan to expand the social safety net will fail to meet President Joe Biden's promise to not add to the federal deficit. 
+ <p class="updated_time"> 04:20 PM CT, Nov. 16 </p> 
+ <a href="https://www.cnn.com/2021/11/16/politics/border-patrol-horses-del-rio/index.html">DHS inspector general declines to investigate Del Rio horse patrol incident</a> CNN: The horse patrol incident in Del Rio, Texas, that drew swift condemnation from senior Biden administration officials will not be investigated by the Department of Homeland Security's inspector general, the department announced Tuesday. 
  <p class="updated_time"> 04:17 PM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/2021/11/16/us/politics/fda-pfizer-booster-shots-adults.html">F.D.A. Plans to Authorize Pfizer-BioNTech Boosters as Soon as Thursday</a> NYT: The move would expand the number of Americans eligible for additional shots by tens of millions. 
  <p class="updated_time"> 04:13 PM CT, Nov. 16 </p> 
- <a href="https://www.nytimes.com/2021/11/16/us/politics/vaccine-mandate-osha-appeals.html">Biden Vaccine Mandate Challenges Moved to Appeals Court in Ohio</a> NYT: The consolidation removes the case from a Fifth Circuit panel that had blocked the Biden administration from moving forward with it. 
+ <a href="https://www.nytimes.com/2021/11/16/us/politics/biden-vaccine-mandate-osha-ohio.html">Biden Vaccine Mandate Challenges Moved to Appeals Court in Ohio</a> NYT: The consolidation removes the case from a Fifth Circuit panel that had blocked the Biden administration from moving forward with it. 
  <p class="updated_time"> 03:47 PM CT, Nov. 16 </p> 
  <a href="https://www.cnn.com/2021/11/16/politics/paul-gosar-republican-reaction/index.html">House Republicans shrug off threats of violence as Democrats prepare to punish Gosar</a> CNN: House Republicans are mostly shrugging off violent rhetoric within their ranks and vicious threats directed at some of their own members, as Democrats prepare to punish one GOP lawmaker over a graphic video depicting violence against a colleague. 
  <p class="updated_time"> 03:36 PM CT, Nov. 16 </p> 
@@ -272,8 +278,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/16/imprisoned-journalist-myanmar-returns-home-522701">U.S. journalist jailed for months in Myanmar lands in New York</a> Politico: It's been a “long time coming, a moment I had been imagining so intensely for so long," said Danny Fenster. 
  <p class="updated_time"> 11:25 AM CT, Nov. 16 </p> 
  <a href="https://www.politico.com/news/2021/11/16/gop-curtis-extremist-climate-522696">GOP Rep. Curtis: 'Extremist' voices setting the tone for party on climate</a> Politico: “I think it’s incumbent on Republicans to join our Democratic colleagues in finding paths forward — paths forward on methane and other issues,” the Utah Republican said. 
- <p class="updated_time"> 10:56 AM CT, Nov. 16 </p> 
- <a href="https://www.nytimes.com/2021/11/16/us/politics/zalmay-khalilzad-afghanistan-war.html">Zalmay Khalilzad Battles Critics in U.S. and Afghanistan</a> NYT: Zalmay Khalilzad, who stepped down as the envoy for Afghanistan after the U.S. exit, has defended the deal he negotiated with the Taliban during the Trump administration. 
  <p class="updated_time"> 10:52 AM CT, Nov. 16 </p> 
  <a href="https://www.cnn.com/2021/11/16/politics/aduhelm-alzheimer-medicare-increase/index.html">Aduhelm, priced at $56,000 a year, is a key factor driving up Medicare premiums</a> CNN: When the US Food and Drug Administration approved a costly new drug for Alzheimer's disease, Aduhelm, earlier this year, experts warned that all of Medicare's more than 63 million enrollees could wind up paying the price. 
  <p class="updated_time"> 10:29 AM CT, Nov. 16 </p> 
@@ -282,8 +286,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/16/jackie-speier-retiring-congress-522690">Rep. Jackie Speier retiring from Congress</a> Politico: The California Democrat was first elected in 2008. 
  <p class="updated_time"> 10:08 AM CT, Nov. 16 </p> 
  <a href="https://www.nytimes.com/article/us-china-tensions-explained.html">U.S.-China Relations: What to Know</a> NYT: The Biden administration has called managing America’s relationship with Beijing “the biggest geopolitical test of the 21st century.” 
- <p class="updated_time"> 09:57 AM CT, Nov. 16 </p> 
- <a href="https://www.cnn.com/2021/11/16/politics/jumaane-williams-new-york-governor-bid/index.html">Jumaane Williams announced bid for New York governor</a> CNN: New York City Public Advocate Jumaane Williams announced on Tuesday he is running for governor, joining a Democratic primary that already includes Gov. Kathy Hochul, who replaced Andrew Cuomo following his resignation this summer, and New York Attorney General Letitia James. 
  <p class="updated_time"> 07:18 AM CT, Nov. 16 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/11/16/dem-tension-breaks-but-to-do-list-looms-495115">Dem tension breaks, but to-do list looms</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:23 AM CT, Nov. 16 </p> 
@@ -374,8 +376,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/15/politics/biden-drilling-ban/index.html">Biden proposes 20-year ban on new oil drilling near Native American site in New Mexico</a> CNN: President Joe Biden will announce Monday a proposal for a 20-year ban on new oil and gas drilling near Chaco Canyon in New Mexico -- one of the oldest Native American sites in the US -- White House officials said. 
  <p class="updated_time"> 10:18 AM CT, Nov. 15 </p> 
  <a href="https://www.politico.com/news/2021/11/15/leahy-most-senior-senator-will-retire-522356">Leahy, most senior senator, will retire</a> Politico: The 81-year-old Vermont Democrat announced Monday that he would not run for a ninth term. 
- <p class="updated_time"> 09:29 AM CT, Nov. 15 </p> 
- <a href="https://www.politico.com/news/2021/11/15/beto-orourke-texas-governor-campaign-522336">Beto O’Rourke jumps into Texas governor’s race</a> Politico: The race represents a comeback bid for O’Rourke, who became a Democratic sensation during a failed Senate run in 2018 but whose 2020 presidential  campaign fell flat. 
  <p class="updated_time"> 07:31 AM CT, Nov. 15 </p> 
  <a href="https://www.politico.com/newsletters/huddle/2021/11/15/congress-starts-cooking-end-of-year-agenda-495100">Congress starts cooking end-of-year agenda</a> Politico: A play-by-play preview of the day&#39;s congressional news 
  <p class="updated_time"> 06:13 AM CT, Nov. 15 </p> 
