@@ -7,6 +7,8 @@ permalink: /projects/news/
 <details open>
 <summary>World News</summary>
 
+ <p class="updated_time"> 04:44 AM CT, Nov. 16 </p> 
+ <a href="https://www.bbc.co.uk/news/world-europe-59302919?at_medium=RSS&at_campaign=KARANGA">Poland border crisis: Migrants tear-gassed trying to cross from Belarus</a> BBC: Poland's defence ministry says migrants were throwing stones and trying to destroy a border fence. 
  <p class="updated_time"> 04:39 AM CT, Nov. 16 </p> 
  <a href="https://www.bbc.co.uk/news/world-africa-59302917?at_medium=RSS&at_campaign=KARANGA">Kampala blasts: Explosions hit Ugandan capital</a> BBC: At least 24 people are injured in the blasts near parliament and the city's police HQ. 
  <p class="updated_time"> 04:35 AM CT, Nov. 16 </p> 
@@ -119,8 +121,6 @@ permalink: /projects/news/
  <a href="https://www.nytimes.com/2021/11/15/world/europe/austria-covid-vaccine.html">Austria’s New Coronavirus Lockdown Applies Only to the Unvaccinated.</a> NYT: The restrictions were among the toughest of a wave of new rules in Europe, which the W.H.O. has said is “back at the epicenter of the pandemic.” 
  <p class="updated_time"> 01:01 PM CT, Nov. 15 </p> 
  <a href="https://www.npr.org/sections/coronavirus-live-updates/2021/11/15/1055839727/austria-and-germany-impose-restrictions-on-unvaccinated-people-as-covid-cases-su">Austria and Germany impose restrictions on unvaccinated people as COVID cases surge</a> NPR: Austria has placed some 2 million unvaccinated people on partial lockdown. Similar restrictions in Berlin have been placed on people who aren't fully vaccinated. 
- <p class="updated_time"> 12:47 PM CT, Nov. 15 </p> 
- <a href="https://www.bbc.co.uk/news/world-europe-59289999?at_medium=RSS&at_campaign=KARANGA">Belarus crisis: The locals helping families in Poland's no-go area</a> BBC: As the Belarus crisis deepens, volunteers have been offering aid in Poland's forbidden forests. 
  <p class="updated_time"> 12:02 PM CT, Nov. 15 </p> 
  <a href="https://www.wsj.com/articles/cubas-government-deploys-security-forces-to-prevent-protest-11637008806">Cuba's Government Deploys Security Forces to Prevent Protest</a> WSJ: Police officers flooded streets in Havana and other cities and detained some activists, and the government stationed police and civilian militants at the homes of pro-democracy organizers to keep them from taking action. 
  <p class="updated_time"> 11:34 AM CT, Nov. 15 </p> 
@@ -218,6 +218,12 @@ permalink: /projects/news/
 <details>
 <summary>Politics</summary>
 
+ <p class="updated_time"> 04:31 AM CT, Nov. 16 </p> 
+ <a href="https://www.politico.com/news/2021/11/16/gop-revenge-bannon-indictment-522658">GOP revenge for the Bannon indictment may have to wait</a> Politico: Despite House Republican enthusiasm for going after Biden aides using the ex-Trump adviser's contempt charges as precedent, payback won't be easy. 
+ <p class="updated_time"> 04:30 AM CT, Nov. 16 </p> 
+ <a href="https://www.politico.com/news/agenda/2021/11/16/methane-emissions-cows-agriculture-climate-change-522550">Opinion | The Cow-Shaped Hole in Biden’s Methane Plan</a> Politico: Agriculture emits more methane than any other sector of the economy. So why is it getting a pass? 
+ <p class="updated_time"> 04:30 AM CT, Nov. 16 </p> 
+ <a href="https://www.politico.com/news/2021/11/16/inflation-2022-campaign-522651">Inflation emerges as a 2022 campaign dividing line</a> Politico: With voters raising concerns over soaring prices, Democrats point to Biden’s social spending agenda as the way out. 
  <p class="updated_time"> 04:08 AM CT, Nov. 16 </p> 
  <a href="https://www.npr.org/2021/11/16/1055972179/michelle-wu-inaugurated-boston-mayor">Cheers and some letdown as 1st elected woman and person of color becomes Boston Mayor</a> NPR: Asian American Michelle Wu is Boston's first elected mayor who isn't a white man. While many celebrate the milestone, others lament that all the Black candidates failed, in a city long seen as racist. 
  <p class="updated_time"> 04:00 AM CT, Nov. 16 </p> 
@@ -282,8 +288,6 @@ permalink: /projects/news/
  <a href="https://www.cnn.com/2021/11/15/politics/chris-christie-trump-2024/index.html">Analysis: Why Chris Christie isn't sorry</a> CNN: Former New Jersey Gov. Chris Christie is trying to make a political comeback after a dark few years in the shadow of Donald Trump -- including writing a new book that Christie is pitching as a blueprint for a post-Trump GOP. 
  <p class="updated_time"> 05:44 PM CT, Nov. 15 </p> 
  <a href="https://www.nytimes.com/2021/11/15/us/politics/alex-jones-sandy-hook.html">Alex Jones Liable in Sandy Hook Defamation Suits</a> NYT: A Connecticut judge’s ruling against the Infowars host combines with decisions in Texas to grant a clean sweep for the families of 10 shooting victims. 
- <p class="updated_time"> 05:40 PM CT, Nov. 15 </p> 
- <a href="https://www.politico.com/news/2021/11/15/peter-thiel-is-coming-to-washington-522605">Peter Thiel is coming to Washington</a> Politico: The tech billionaire and Trump backer just bought a $13 million mansion in a ritzy D.C. neighborhood. 
  <p class="updated_time"> 05:24 PM CT, Nov. 15 </p> 
  <a href="https://www.cnn.com/2021/11/15/politics/tom-barrett-michigan-congress-campaign/index.html">Michigan state senator announces bid for Congress</a> CNN: Michigan state Sen. Tom Barrett on Monday announced his campaign for the US House, a bid that could see him potentially challenge Democratic Rep. Elissa Slotkin. 
  <p class="updated_time"> 05:21 PM CT, Nov. 15 </p> 
@@ -342,8 +346,6 @@ permalink: /projects/news/
  <a href="https://www.npr.org/2021/11/15/1053422827/in-betrayal-abcs-jonathan-karl-asks-must-the-trump-show-go-on">In 'Betrayal,' ABC's Jonathan Karl asks: 'Must the Trump show go on?'</a> NPR: Karl notes often that Trump continues his campaign to invalidate the 2020 election — even now. The "Trump show" remains very much on stage, finding an audience and threatening to extend its run. 
  <p class="updated_time"> 10:56 AM CT, Nov. 15 </p> 
  <a href="https://www.npr.org/2021/11/15/1055835208/trumps-controversial-hotel-in-d-c-will-reportedly-be-sold-and-renamed">Trump's controversial hotel in D.C. will reportedly be sold and renamed</a> NPR: The deal is said to be worth $375 million. Trump's company has suffered a net loss of $70 million in operating the hotel, the House Oversight Committee said last month. 
- <p class="updated_time"> 10:34 AM CT, Nov. 15 </p> 
- <a href="https://www.politico.com/news/2021/11/15/bannon-surrenders-to-fbi-522373">Bannon surrenders to FBI</a> Politico: The longtime Trump adviser faces prosecution on contempt of Congress charges. 
  <p class="updated_time"> 10:29 AM CT, Nov. 15 </p> 
  <a href="https://www.npr.org/2021/11/15/1055832976/steve-bannon-surrenders-contempt-of-congress-charges-jan-6">Steve Bannon threatens vengeance after surrendering on criminal contempt charges</a> NPR: Former President Donald Trump's onetime top adviser surrendered to federal authorities Monday. Bannon was indicted last week for defying a congressional subpoena related to the Jan. 6 Capitol riot. 
  <p class="updated_time"> 10:26 AM CT, Nov. 15 </p> 
@@ -414,8 +416,6 @@ permalink: /projects/news/
  <a href="https://www.politico.com/news/2021/11/13/cop26-climate-deal-vulnerable-countries-521446">Countries strike a climate deal that’s ‘too late’ for some, too much for others</a> Politico: Compromise in Glasgow pushes efforts into next year. 
  <p class="updated_time"> 10:28 AM CT, Nov. 13 </p> 
  <a href="https://www.politico.com/newsletters/playbook/2021/11/13/bannon-indicted-britney-freed-495092">POLITICO Playbook: Bannon indicted, Britney freed</a> Politico: And an appeals court extends a stay for the Biden administration's vaccine-or-test mandate. 
- <p class="updated_time"> 07:02 AM CT, Nov. 13 </p> 
- <a href="https://www.politico.com/news/2021/11/13/democrats-drug-prices-521213">Dems’ plan to limit drug price inflation faces test in Senate</a> Politico: Attempts at price controls have to conform with the parameters of the  reconciliation process they’re hoping to use to pass the social spending package on a party-line vote. 
  <p class="updated_time"> 11:06 PM CT, Nov. 12 </p> 
  <a href="https://www.politico.com/news/2021/11/12/federal-court-biden-vaccine-or-test-mandate-521233">Federal court extends stay of Biden administration's vaccine-or-test mandate</a> Politico: The Biden administration is likely to appeal the panel's decision to the full court. 
  <p class="updated_time"> 01:40 PM CT, Nov. 12 </p> 
